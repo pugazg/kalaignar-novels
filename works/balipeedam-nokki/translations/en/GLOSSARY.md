@@ -1,6 +1,6 @@
 # English Translation Glossary — பலிபீடம் நோக்கி
 
-This glossary records translation choices locked through Batch 2 review. It is a translation-consistency aid; it does **not** alter or normalize the canonical Tamil `pages/` layer.
+This glossary records translation choices locked through Batch 3 review. It is a translation-consistency aid; it does **not** alter or normalize the canonical Tamil `pages/` layer.
 
 ## Locked core terms
 
@@ -23,6 +23,9 @@ This glossary records translation choices locked through Batch 2 review. It is a
 | `சந்தர்ப்பணம்` | **santharpanam** | retain source ritual/service term; no invented expansion in prose |
 | `அக்கிரகாரம்` | **agraharam** | retain institutional term; explain only if later editorial context requires |
 | `குளோசப்` | **close-up** | translate as film vocabulary; preserve cinematic form |
+| `கப்பம்` | **tribute** | political/tributary payment; use consistently in the Alagiri–Madurai context |
+| `ராஜதந்திரம்` | **statecraft** | preserve the political-intrigue register |
+| `ராயசம்` | **Rayasam** | retain source title/professional identity rather than inventing an office expansion |
 
 ## Names and source forms
 
@@ -38,69 +41,96 @@ This glossary records translation choices locked through Batch 2 review. It is a
 | `மன்னரு நாயக்கன்` | **Mannaru Nayak** | conservative readable form |
 | `குமார தாத்தாச்சார்யா` | **Kumar Tatacharya** | conservative readable form |
 | `சொக்கநாத நாயக்கன்` | **Sokkanatha Nayak** | conservative readable form |
-| `செங்கமலதாசன்` | **Sengamaladasan** | conservative transliteration |
+| `செங்கமலதாசன் / செங்கமலம்` | **Sengamaladasan / Sengamalam** | follow source-facing form in immediate sentence; do not treat as different characters |
+| `அழகிரி` | **Alagiri** | stable source-facing form |
 | `பிரகதீஸ்வரன் ஆலயம்` | **Pragadeeswaran Temple** | source-facing form; do not silently replace from external history |
 | `ஸ்ரீரங்கம்` | **Srirangam** | established transliteration |
 | `ராஜ கோபால ஸ்வாமி` | **Rajagopala Swami** | retain source title/name |
 | `ரகுநாத அக்கிரகாரம்` | **Raghunatha agraharam** | proper name + retained institutional term |
+| `நாகை` | **Nagai** | preserve source-facing place form in the shop sign |
 
 ## Pilot source oddities
 
 ### `குதுமன்றி`
 
-The audited source confirms the unusual form `குதுமன்றி` in:
+The audited source confirms the unusual form `குதுமன்றி` in `சோறும், குதுமன்றி எதுவுமறியா ஒரு சோதா...`.
 
-`சோறும், குதுமன்றி எதுவுமறியா ஒரு சோதா...`
-
-The pilot translation renders the phrase contextually as **“a weakling who knew nothing beyond food and the tuft”** while explicitly recording the exact source form here. Do not alter the Tamil source to a more familiar spelling.
+English policy: contextual **“a weakling who knew nothing beyond food and the tuft”**, while the exact Tamil remains documented.
 
 ### `விருதா`
 
-The source prints the quoted form `‘விருதா’` in:
-
-`வீரத்தை விலை கேட்கும் ஒரு ‘விருதா’...`
-
-Because the lexical force is source-specific and not safely recoverable merely from grammar, the English retains **`virudha`** while translating the surrounding phrase. Do not silently replace it with an inferred insult.
+The source prints `‘விருதா’`. English retains **_virudha_** rather than assigning an inferred insult.
 
 ### `மஹா கனம்`
 
-Retain as **“Maha Ganam”** when directly echoing the source's quoted label. Do not supply an expanded historical office/title unless a separately marked editorial note is justified.
+Retain as **“Maha Ganam”** when directly echoing the quoted source label. Do not expand the office/title without a separately marked editorial basis.
 
 ### `அன்பு(?)`
 
-Preserve the source's parenthesized question mark: **loving(?)**. The punctuation is rhetorical evidence, not noise.
+Preserve the parenthesized question mark as **loving(?)**.
 
 ## Batch 2 source oddities
 
 ### `மித்தானமத்தனுக்குக்`
 
-Character-level review confirms the printed form `மித்தானமத்தனுக்குக்` on scan 10. Its lexical force is not safely recoverable from the scan alone.
-
-English policy: retain **_mitthanamathan_** as a source-bound transliteration inside the sentence and do not replace it with a guessed insult, caste label, dynastic term, or historical reconstruction.
+Character-level review confirms the printed form on scan 10. English policy: retain **_mitthanamathan_** and do not replace it with a guessed insult, caste label, dynastic term or historical reconstruction.
 
 ### `முச்சுற்றுப்படுத்திருக்கும்`
 
-Character-level review confirms `முச்சுற்றுப்படுத்திருக்கும்` on scan 13.
-
-English policy: the current contextual rendering is **“encircling it”**, while the exact Tamil form remains documented here and in the canonical page record. Do not alter the Tamil or present a reconstructed grammar as certain.
+Character-level review confirms the form on scan 13. English uses cautious contextual **“encircling it”** while the exact Tamil remains documented.
 
 ### `ஸ்ரீரங்கத்தை தெரிசிக்க...`
 
-Vijayaraghava's dying speech begins with a compressed list-like construction. The English preserves that compression as:
-
-**“To behold Srirangam; in Thanjavur, a tower reaching to the sky; ...”**
-
-Do not silently add a historical explanation of what was built, why it was built, or how the clauses relate unless the Tamil itself states it.
+Vijayaraghava's dying speech begins with a compressed list-like construction. Preserve that compression; do not silently add historical relations between the clauses.
 
 ### `கடவுள்களுக்கு அழித்த பொக்கிஷம்`
 
-The translation uses **“the treasure I exhausted upon the gods”** to retain the source's accusatory force without adding a later theological interpretation.
+English uses **“the treasure I exhausted upon the gods”** to retain the source's accusatory force without adding theological interpretation.
+
+## Batch 3 source oddities
+
+### `கிளந்திருந்த` / `கிளத்திருக்கிறது`
+
+Scans 14 preserves these unusual printed forms.
+
+- `கிளந்திருந்த` currently receives the cautious contextual rendering **“with its greed already astir”**.
+- `கிளத்திருக்கிறது` is retained in English as **_kilathirukkirathu_** rather than silently normalised to a guessed familiar Tamil form.
+
+Do not alter the canonical Tamil or present a reconstructed lexical value as certain.
+
+### `மன்னனுக்கினேன்`
+
+The source prints the compressed form in Vengannu's angry speech. English renders the immediate contextual sense as **“I made Madurai's slave into a king”** while preserving the exact Tamil in the source layer.
+
+### `வெத்துவேட்டுக்கள்`
+
+English: **empty shots**. Preserve the explosive verbal metaphor; do not flatten it to a generic “threats” unless later consistency review requires a change.
+
+### `சிகப்புக்கள்`
+
+The Nagai shop sign prints `நயமான சிகப்புக்கள் விற்கப்படும்`. English uses the literal **“Fine reds for sale”** and does not invent an unprinted commodity.
+
+### `தெகிடு தத்தக்கார்களுக்கு`
+
+The source expression is unusual. English retains **_thegidu thaththakkar_** rather than assigning an unsupported modern meaning.
+
+### `பொன்னுடை`
+
+The current contextual English is **“golden realm”** in the phrase about ruling what Sengamaladasan has lost. The exact source form remains canonical; do not silently rewrite it in Tamil.
+
+### `முகத்தமிடுகிறாள்`
+
+The verified source form is unusual. English uses cautious contextual **“touches his face”**; do not silently correct the Tamil to a more familiar verb.
+
+### `ஊமை வெயில் போல!`
+
+Retain the metaphor as **“like mute sunlight!”** rather than replacing it with an explanatory paraphrase.
 
 ## Cinematic vocabulary and form
 
 The internal `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` title card is always an **internal sequence** of the one work.
 
-Locked handling established through Batch 2:
+Locked handling:
 
 - `எரிமலை ‘ரிலீஸ்’` → **Erimalai ‘Release’**
 - `டைரக்ஷன்` → **Direction**
@@ -110,24 +140,26 @@ Locked handling established through Batch 2:
 - `காட்சி மாறுகிறது` → **The scene changes**
 - `குளோசப்` → **close-up**
 - printed bracketed directions remain bracketed in English
-- screen flashes, background music, camera/screen movement and battle sound effects remain visible
-- source onomatopoeia is transliterated rather than replaced with invented English effects where practical (`குபீர்`, `கட கடா`, `டக்டக்`, `கல கல`, `சட சட`, `சர்`)
+- screen flashes, background music, scene movement and sound effects remain visible
+- source onomatopoeia is transliterated where practical (`குபீர்`, `கட கடா`, `டக்டக்`, `கல கல`, `சட சட`, `சர்`, `கட கட`)
+- on-screen textual units such as the Nagai shop sign remain visually distinct
 
 ## Rhetoric and form
 
 - Repeated questions remain repeated; do not compress them for English style.
 - Exclamation clusters and ellipses may be lightly regularized only enough for legibility; rhetorical escalation must remain visible.
 - Open quotations across scan boundaries remain open until the source closes them.
-- The scan 12→13 dying speech is one continuous quotation in English.
-- Film/title-card formatting must never be used to imply a separate work identity.
+- Film/title-card formatting must never imply a separate work identity.
+- Source metaphors that sound strange in English should remain strange where that strangeness is source-supported.
 
 ## Political / religious language
 
-The translation reports Kalaignar's historical rhetoric as written. It does not soften attacks on Aryanism, caste hierarchy, Brahminical structures, Hindu religious institutions, or social practices, and it does not add present-day endorsement, condemnation, or explanatory claims to the translated prose.
+The translation reports Kalaignar's historical rhetoric as written. It does not soften attacks on Aryanism, caste hierarchy, Brahminical structures, Hindu religious institutions or social practices, and it does not add present-day endorsement, condemnation or explanatory claims to the translated prose.
 
 ## Status
 
 **Pilot terminology/style lock: COMPLETE.**  
-**Batch 2 new-term review: COMPLETE.**
+**Batch 2 new-term review: COMPLETE.**  
+**Batch 3 new-term review: COMPLETE.**
 
 Later batches may add terms, but locked choices should change only if a documented consistency review finds a concrete contradiction in the source.
