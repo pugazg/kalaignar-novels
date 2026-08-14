@@ -1,4 +1,4 @@
-# Transcription Audit — பலிபீடம் நோக்கி
+# Transcription & Assembly Audit — பலிபீடம் நோக்கி
 
 ## Audit scope
 
@@ -6,9 +6,9 @@ Source: `TVA_BOK_0065570_பலிபீடம்_நோக்கி.pdf`
 Source pages: **34**  
 Source PDF committed to repository: **No**
 
-This is the final audit of the page-level Tamil source-preservation layer for this scan.
+This file records the completed audit of both the canonical page-level Tamil source-preservation layer and the derived assembled Tamil reading layer.
 
-## Final coverage gate
+## Final page-layer coverage gate
 
 | Check | Result |
 |---|---|
@@ -32,8 +32,8 @@ The source is one continuous work:
 பலிபீடம் நோக்கி
 ├── scans 4–7: opening ideological / polemical frame
 ├── scan 7: explicit transition into a film-like lesson
-├── scans 8–29: internal ராயசம் வெங்கண்ணு cinematic-historical sequence
-├── scan 30: explicit “படம் முடிந்துவிட்டது...” return to the main frame
+├── scans 8–29 + opening of scan 30: internal ராயசம் வெங்கண்ணு cinematic-historical sequence
+├── scan 30: film end-card, then explicit “படம் முடிந்துவிட்டது...” return to the main frame
 └── scans 31–33: concluding direct address
 ```
 
@@ -43,79 +43,28 @@ No separate work-level metadata, directory, translation identity or release iden
 
 ## Targeted character-level review — resolved
 
-Seven pages had been deliberately held at `needs-review`. Each was re-inspected against enlarged source pixels.
+Seven pages had previously been held at `needs-review`. Each was re-inspected against enlarged source pixels.
 
-### Scan 3 — publisher note
+- **scan 3:** `பேனுப் பிடிக்கும்`
+- **scan 10:** `மித்தானமத்தனுக்குக்` confirmed as printed
+- **scan 13:** `முச்சுற்றுப்படுத்திருக்கும்` confirmed
+- **scan 21:** `மளமள வென்று`; `என்றுன் பேதை!` confirmed
+- **scan 23:** `களேபாரப்படுகிறது` confirmed
+- **scan 26:** corrected first-pass readings to `தர்ப்பாகூரர்` and `விபரீதத்தை ஏற்கத்`
+- **scan 27:** `ஒரு காரணம்!` confirmed as printed
 
-Previously unresolved text between `உலுத்தர் கும்பல்` and `போது` is visibly:
+These are source-based resolutions, not contextual normalization.
 
-`பேனுப் பிடிக்கும்`
-
-The page now reads:
-
-`குள்ளநரிச் செயல்களுக்குக் கும்பிடு போடும் உலுத்தர் கும்பல் பேனுப் பிடிக்கும் போது, ...`
-
-### Scan 10
-
-The unusual source form is confirmed as:
-
-`மித்தானமத்தனுக்குக்`
-
-It remains unchanged despite its unusual lexical appearance.
-
-### Scan 13
-
-The source supports:
-
-`முச்சுற்றுப்படுத்திருக்கும்`
-
-No modernization or grammatical repair has been made.
-
-### Scan 21
-
-The previously open scene-transition phrase is resolved as:
-
-`மளமள வென்று`
-
-The unusual source wording:
-
-`என்றுன் பேதை!`
-
-is also visually confirmed and retained.
-
-### Scan 23
-
-The unusual form after `‘ஆண்டவனுக்கு அர்ச்சனை’` is confirmed as:
-
-`களேபாரப்படுகிறது`
-
-### Scan 26
-
-Enlarged review corrected two earlier first-pass readings:
-
-- `தற்பாகூரர்` → **`தர்ப்பாகூரர்`**
-- `வீரத்ததை எறக்கத்` → **`விபரீதத்தை ஏற்கத்`**
-
-These corrections are character-level source corrections, not contextual modernization.
-
-### Scan 27
-
-The unusual scene-transition wording is visibly:
-
-`பிறகு காட்சியில் ஒரு காரணம்!`
-
-The phrase `ஒரு காரணம்!` is retained exactly as printed even though it is narratively unusual.
-
-## Metadata / manifest consistency
+## Page metadata / manifest consistency
 
 The 34 page records were checked against the page manifest.
 
 - filenames run continuously from `0001` through `0034`;
-- each file's `scan_page` agrees with its filename and manifest row;
+- every file's `scan_page` agrees with its filename and manifest row;
 - all records use the same source filename;
 - all body records use `work: "balipeedam-nokki"`;
-- internal section labeling changes only to represent source structure, not a second work;
-- all records are now `verified`;
+- internal section labeling represents source structure without creating a second work;
+- all records are `verified`;
 - page types correctly distinguish cover, title page, publisher note, body and blank/back matter.
 
 ### Printed-page mapping
@@ -131,53 +80,85 @@ No missing printed number has been inferred merely from sequence.
 
 ## Continuity audit
 
-Cross-page source continuity is preserved rather than silently reflowed. Important joins include:
+Cross-page continuity is preserved rather than silently repaired. Important joins include:
 
 - scan 5 → 6: `அணுக்` / `களிலிருந்து`;
 - scan 6 → 7: `உதிர` / `ஆறுகளைப் பாருங்கள்`;
 - scan 12 → 13: Vijay Raghava's open dying-speech quotation;
-- scan 17 → 18: open Venganna quotation;
-- scan 19 → 20: `பத்திரமாக பாது` / `காத்துக்கொள்`;
-- scan 21 → 22: sentence continuing after `என்று`;
+- scan 19 → 20: `பாது` / `காத்துக்கொள்`;
+- scan 21 → 22: `என்று` / `கூறியபடி`;
 - scan 29 → 30: `அப்படித்` / `தத்தளிக்கிறான்...`;
-- scan 30 → 31: `கைகூப்புவதை` / `யும் நோக்குங்கள்`.
+- scan 30 → 31: `கைகூப்புவதை` / `யும்`.
 
 ## Printed text vs copy-specific marks
 
-The transcription layer keeps printed text separate from physical-copy artefacts. Page observations identify, where present:
+The transcription layer keeps printed text separate from physical-copy artefacts. Page observations identify, where present, library/ownership stamps, handwritten numbers, underlines, marginal/bracket marks, bleed-through, stains, wear and binding artefacts. These marks have not been merged into printed body text.
 
-- library / ownership stamps;
-- handwritten numbers and accession marks;
-- handwritten underlines and marginal / bracket marks;
-- reverse-side bleed-through;
-- stains, wear and binding artefacts.
-
-Notable examples include the large stamp and handwritten underlining/brace on scan 26, later-page underlines/marginal marks, the printed closing ornament on scan 33, and the blank/back physical page on scan 34.
-
-None of these copy-specific marks has been merged into printed body text.
-
-## Source-faithfulness result
-
-The final page layer preserves:
-
-- historical and unusual spellings;
-- source punctuation and inconsistent forms;
-- cinematic vocabulary, title-card language and bracketed action directions;
-- source-supported oddities such as `மித்தானமத்தனுக்குக்`, `முச்சுற்றுப்படுத்திருக்கும்`, `களேபாரப்படுகிறது`, `தர்ப்பாகூரர்`, `என்றுன் பேதை!`, and `ஒரு காரணம்!`;
-- the internal-film architecture of the work without promoting it to a separate work.
-
-## Final audit status
+## Canonical Tamil source result
 
 **Transcription coverage: complete.**  
 **Character-level source audit: complete.**  
 **Page/metadata consistency audit: complete.**  
 **Verified pages: 34 / 34.**  
 **Unresolved readings: 0.**  
-**Tamil source layer: PASSED.**  
+**Tamil source layer: PASSED.**
+
+The audited `pages/` records remain the canonical preservation layer.
+
+---
+
+# Assembled Tamil Reading Layer Audit
+
+## Files
+
+- `sections/01-opening-frame.md`
+- `sections/02-rayasam-vengannu-sequence.md`
+- `sections/03-return-and-conclusion.md`
+- `sections/README.md`
+
+## Assembly boundaries
+
+The reading layer follows narrative structure rather than mechanically cutting at scan boundaries:
+
+1. **Opening frame:** scans 4–7.
+2. **Internal cinematic sequence:** scans 8–29 plus scan 30 through the internal film's `வணக்கம்` end-card.
+3. **Return and conclusion:** scan 30 beginning with `படம் முடிந்துவிட்டது...` through scan 33.
+
+This split is necessary because scan 30 contains both the final moments/end-card of the internal film and the explicit return to the main `பலிபீடம்` frame.
+
+## Assembly rules verified
+
+- assembled text derives only from audited `pages/` records;
+- no page record was modified to create the reading layer;
+- `ராயசம் வெங்கண்ணு` remains an internal section, never a second work;
+- historical spelling, punctuation, dialogue, cinematic terms and source oddities are retained;
+- scan observations and physical-copy marks are excluded from the reading prose;
+- printed source ornaments are retained;
+- page provenance is preserved using HTML comments;
+- only previously verified page-boundary continuities are joined for readability.
+
+### Readable joins made
+
+- `அணுக்` + `களிலிருந்து` → `அணுக்களிலிருந்து`
+- `பாது` + `காத்துக்கொள்` → `பாதுகாத்துக்கொள்`
+- `அப்படித்` + `தத்தளிக்கிறான்...`
+- `கைகூப்புவதை` + `யும்` → `கைகூப்புவதையும்`
+
+Other sentence/quotation continuities remain source-faithful while page provenance comments identify their boundaries.
+
+## Assembly result
+
+**Assembled Tamil sections: complete.**  
+**Source coverage: complete.**  
+**Structural identity check: passed.**  
+**Page-boundary continuity check: passed.**  
+**Canonical page layer unchanged: yes.**  
+**Assembly status: PASSED.**
+
+## Translation gate
+
+The Tamil source layer and assembled reading layer have both passed their audits.
+
 **Translation-ready: YES.**
 
-The audited page records remain the canonical preservation layer. Any assembled reading text or English translation must derive from them and must not overwrite or silently normalize them.
-
-## Next stage
-
-Create a source-faithful assembled Tamil reading layer in `sections/`, maintaining one work identity while preserving the internal `ராயசம் வெங்கண்ணு` title/sequence. After assembly is checked against the audited page records, prepare the English translation plan.
+The next stage is to create an English translation plan. Translation may use `sections/` for narrative continuity, but every difficult or unusual wording must be resolved against the canonical audited `pages/` record rather than normalized from memory or general knowledge.
