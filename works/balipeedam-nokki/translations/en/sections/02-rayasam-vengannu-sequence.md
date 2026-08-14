@@ -4,9 +4,9 @@ layer: "english-translation"
 section_order: 2
 section_title: "Towards the Sacrificial Altar — Internal Rayasam Vengannu Sequence"
 language: "en"
-source_scans: "8-20 (Batches 2-3; section continues through scan 30 end-card)"
+source_scans: "8-26 (Batches 2-4; section continues through scan 30 end-card)"
 status: "reviewed"
-derived_from: "audited Tamil pages/0008-0020 and verified assembled Tamil section"
+derived_from: "audited Tamil pages/0008-0026 and verified assembled Tamil section"
 ---
 
 # Rayasam Vengannu
@@ -17,8 +17,8 @@ derived_from: "audited Tamil pages/0008-0020 and verified assembled Tamil sectio
 
 > **Translator's note:** This English translation follows the audited first-edition Tamil source preserved in this repository. It aims to carry Kalaignar's argument, rhetoric, dialogue, historical-cinematic form and political intensity into clear English without modernising or silently correcting the Tamil. The audited Tamil page records remain authoritative. `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` is retained as an internal film-like sequence of `பலிபீடம் நோக்கி`, not treated as a separate work.
 
-**Current translated coverage:** scans 8–20  
-**Canonical Tamil:** [`../../pages/0008-balipeedam-nokki-05.md`](../../pages/0008-balipeedam-nokki-05.md) through [`../../pages/0020-balipeedam-nokki-17.md`](../../pages/0020-balipeedam-nokki-17.md)
+**Current translated coverage:** scans 8–26  
+**Canonical Tamil:** [`../../pages/0008-balipeedam-nokki-05.md`](../../pages/0008-balipeedam-nokki-05.md) through [`../../pages/0026-balipeedam-nokki-23.md`](../../pages/0026-balipeedam-nokki-23.md)
 
 ### Erimalai ‘Release’
 
@@ -304,6 +304,152 @@ The father pleads as he sounds his warning.
 - `ஊமை வெயில் போல!` is retained as the striking source metaphor **“like mute sunlight!”** rather than rationalised into an explanatory comparison.
 - The scan 19→20 quotation and `பாது` / `காத்துக்கொள்` continuity are kept intact.
 
+---
+
+## Batch 4 — Continuation
+
+With Vengannu's victorious smile, the scene suddenly turns.
+
+A crescent flag is flying. A tall stupa upon which the flag has been planted! Following it, parts of the fort move past in rapid succession. A voice is heard.
+
+It is Vengannu speaking.
+
+“Bijapur Sultan. Lord!... Listen further. The people are dying of hunger. They are wasting away in poverty. If Alagiri's rule is destroyed, injustice will be destroyed. Injustice will be swept away. Brahmins will live. The rule will prosper.
+
+“Listen further. Alagiri mocks the glory of Bijapur! The wretch ridicules your...... vast military strength! I warned him many times. I told him not to play upon a volcano. Govern for the people, I said. Otherwise, I will summon the king of Bijapur and have justice dispensed, I said. The fool says Bijapur is but a speck of dust to him!
+
+“Sultanji! Here is Sengamalam, the one entitled to his own country. He is without mother or father; you alone are mother—father—God—everything to him! You alone must graciously restore the right he has lost.”
+
+Until now the Sultan has remained silent. Saying, “Very well... I shall send Shahji's son,” he—
+
+<!-- source: scan 21; printed page: 20 -->
+
+—looks towards the adjoining seat. A man of martial bearing who had been sitting there rises majestically.
+
+“Venkoji! Alagiri's delusion must be brought down. Sengamalam must ascend the throne. Depart with a great army.”
+
+Accepting the Sultan's order, Venkoji nods his head.
+
+“Return with victory.”
+
+That is the Sultan's blessing!
+
+“A Maratha's chest is stained with blood; victory is an ordinary matter for him. As long as Durga's grace remains, there is no defeat......”
+
+Victory indeed! With those heroic words, Venkoji draws his sword. Sengamaladasan too straightens with majesty.
+
+A star on the screen assumes a “Visvarupa.” With the heroic cry, “Defeat here... victory indeed!” Venkoji places the sword in his hand back into its sheath. The war drum sounds and stops. It is the sign that Sengamaladasan has obtained victory.
+
+At once a terrifying forest appears. A figure on the high mountain rocks. It is running. We see the figure in “close-up.” Yes—it is Alagiri running like that.
+
+<!-- source: scan 22; printed page: 21 -->
+
+“Sinner... Vengannu!” his mouth mutters. He rolls down from the rock. There is no speech, no breath.
+
+“Dong! Dong!” bells begin to ring. Having worshipped the great Nandi of the Thanjavur Pragadeeswarar Temple, Vengannu and Sengamaladasan, hands joined, enter the shrine of Pragadeeswarar. The victory cries are deafening. “Worship for the Lord” erupts into commotion.
+
+The pitch of the bells has fallen... We see the palace audience hall.
+
+Sengamaladasan speaks: “For bringing about a revival in Thanjavur and placing the crown upon me, I request that the Maratha warrior Venkoji receive these sixteen lakh *poovaragans*. Along with that, to meet the expenses of the army, I grant in writing the tax revenues of the Kumbakonam, Papanasam and Mannargudi regions.”
+
+**Venkoji:** Long live the king! May Durga's grace flow!
+
+Long live Thanjavur!
+
+Venkoji receives the gift. Ecstasy shines across Vengannu's face.
+
+Two swords clash on the screen. In that flash, the next scene begins. A flower garden! Water tanks!...
+
+<!-- source: scan 23; printed page: 22 -->
+
+Flowering plants!... A marble platform!... What we see are not lovers!......
+
+Sengamaladasan and Vengannu are caught in conversation.
+
+“Vengannu! Another piece of happy news.”
+
+“What is it, Your Majesty?”
+
+“We must not forget those who raised me like a son, must we?”
+
+“Certainly they must not be forgotten. Mother—father—guru—God.”
+
+“I have summoned father and mother to Thanjavur itself.”
+
+“Yes. Let them live happily in the palace.”
+
+“Along with that... I am going to do something... that will gladden father's heart.”
+
+“You should indeed. It is your duty.”
+
+“I am going to give him a splendid gift.”
+
+“You should give it.”
+
+“I intend to make father himself the minister.”
+
+“Ah!... Sacrilege. A ministerial post for the merchant Chetti who raised you!... Then what of Vengannu, who placed the crown upon you?”
+
+“Vengannu!... You are my guru!”
+
+<!-- source: scan 24; printed page: 23 -->
+
+“Child! You are playing. You are throwing dirt upon the ministerial seat where great men such as Govinda Dikshita sat.”
+
+“They are the ones who cradled and raised me when I had no refuge. Every part of my body grew on their salt. They suffered for me night and day. Are they not my mother and father!”
+
+“Ask the crown glittering on your head. It will tell you who made you king.”
+
+“You did! Every drop of blood running through my body will say so. I will not forget gratitude.”
+
+“If you have not forgotten, the minister's post must be mine.”
+
+“Did you make me king merely out of desire for the ministerial seat? You cried that the people needed good government—was that only so that you might obtain a good post?”
+
+“Sengamaladasa! No mischief. Do not leap into a boiling cauldron and die. You have forgotten gratitude! You have become lower than a dog!”
+
+“Forgive me. I have already promised the minister's post.”
+
+“That must be altered.”
+
+<!-- source: scan 25; printed page: 24 -->
+
+“Is it right to break a promise?”
+
+“No useless talk. Answer briskly.”
+
+“The minister's post is for father alone! It cannot be changed. Please forgive me.”
+
+The king of Thanjavur bows. *Tharppakurar* Vengannu pours out angry words in a rattling torrent.
+
+“Hey! You have not understood Aryanism. You are smearing poison upon your tongue. Be ready to face the calamity. You are following in Alagiri's footsteps. Danger is about to explode. From now on, the Lord will not tolerate it.”
+
+Vengannu strides swiftly out of the flower garden. A jasmine bud struck by his rush... breaks in the air and falls to the ground before our eyes. Sengamaladasan walks sadly. With this too carried by background music... the Mahamaham Tank of Kumbakonam comes into view.
+
+Through the camera's magic, beautiful parts of Kudanthai are caught and move past. Two men walk along the street talking.
+
+“They say Venkoji is staying in our town?”
+
+“He will stay, brother... he will stay. The king of Thanjavur has given Kumbakonam to Venkoji, has he not?”
+
+<!-- source: scan 26; printed page: 25 -->
+
+## Batch 4 translation notes
+
+- Batch 4 remains inside the **same internal cinematic sequence** and is appended to this same file.
+- Scan 21 `மளமள வென்று` is rendered contextually as **“in rapid succession”**; the exact verified Tamil remains canonical.
+- The unusual scan-21 form `என்றுன் பேதை!` is not normalized in Tamil. The sentence is rendered cautiously as **“The fool says Bijapur is but a speck of dust to him!”** from its immediate context.
+- `வெங்காஜி` is rendered **Venkoji**, `ஷாஜி` as **Shahji**, and `பீஜபூர்` as **Bijapur** consistently with the translation plan.
+- `விசுவரூப` is retained as **Visvarupa** inside the screen metaphor rather than expanded into an external theological explanation.
+- Scan 23 `களேபாரப்படுகிறது` is a verified unusual verbal form. English uses the cautious contextual **“erupts into commotion”** while preserving the exact Tamil in the canonical page record and glossary.
+- `பூவராகன்` is retained as **_poovaragan_** rather than silently identifying or converting the historical currency.
+- Scan 25 `மன்னுக்கியது` receives the contextual rendering **“who made you king”**; the unusual Tamil remains untouched.
+- Scan 26 `தர்ப்பாகூரர்` is retained as **_Tharppakurar_** rather than expanded into an unsupported title or caste label.
+- Scan 26 `விபரீதத்தை ஏற்கத்` is rendered **“be ready to face the calamity”** without changing the source wording.
+- The source's `தீவணங்குகிறான்` is rendered conservatively as **“bows”**; no reconstructed Tamil verb is substituted.
+- The source prints `காற்று முறிந்து` in the jasmine-bud image. English uses **“breaks in the air and falls”** rather than silently changing the Tamil to a more expected anatomical/plant term.
+- `குடந்தை` is kept as **Kudanthai** where the source uses that place-name form; `கும்பகோணம்` remains **Kumbakonam**.
+
 ## Section continuation
 
-This English section remains incomplete at the work level. Batch 4 will continue the same internal cinematic sequence from scans 21–26 and must be appended to this same file.
+This English section remains incomplete at the work level. Batch 5 will continue the same internal cinematic sequence from scans 27–30 through the source's `வணக்கம்` end-card and must be appended to this same file.
