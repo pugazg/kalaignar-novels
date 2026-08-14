@@ -4,19 +4,17 @@ English translation of **மு. கருணாநிதியின் `பல
 
 ## Authority
 
-The translation-source hierarchy is:
-
 1. [`../../pages/`](../../pages/) — canonical audited Tamil page records; final textual authority.
 2. [`../../sections/`](../../sections/) — source-faithful assembled Tamil reading layer for continuity.
-3. [`../../audit.md`](../../audit.md), [`../../indexes/page-map.md`](../../indexes/page-map.md), and [`../../metadata/source.md`](../../metadata/source.md) — audit, page mapping, and edition identity.
+3. [`../../audit.md`](../../audit.md), [`../../indexes/page-map.md`](../../indexes/page-map.md), and [`../../metadata/source.md`](../../metadata/source.md) — audit, page mapping and edition identity.
 
-If an English rendering conflicts with the canonical Tamil page record, the Tamil page record governs.
+If an English rendering conflicts with a canonical Tamil page record, the Tamil page record governs.
 
 ## Structural rule
 
 **`பலிபீடம் நோக்கி` is one continuous work.**
 
-The source-printed **`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`** is an internal cinematic-historical sequence inside the work. It is not a separate story, translation project, or release identity.
+The source-printed **`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`** is an internal cinematic-historical sequence inside the work. It is not a separate story, translation project or release identity.
 
 Working English title of the whole work: **_Towards the Sacrificial Altar_**.
 
@@ -34,13 +32,13 @@ translations/en/
     03-return-and-conclusion.md
 ```
 
-Only the first section is created during the mandatory pilot. The other section files must not be created merely as empty placeholders.
+Section 3 must not be created as an empty placeholder; it should be created only when Batch 6 begins.
 
 ## Review states
 
-- `draft-translated` — complete first English draft exists.
-- `source-checked` — checked line/paragraph-wise against the audited Tamil pages.
-- `reviewed` — fidelity, rhetoric, terminology, and English readability reviewed.
+- `draft-translated` — complete first English draft exists for the stated coverage.
+- `source-checked` — checked against audited Tamil pages.
+- `reviewed` — fidelity, rhetoric, terminology and English readability reviewed.
 - `verified` — final whole-work bilingual alignment completed.
 
 ## Current state
@@ -48,12 +46,19 @@ Only the first section is created during the mandatory pilot. The other section 
 - Tamil source layer: **PASSED — 34/34 verified**.
 - Assembled Tamil layer: **PASSED**.
 - Translation plan: **complete**.
-- Batch 1 / scans 4–7: **pilot translated, source-checked, and reviewed**.
-- Pilot style/terminology lock: **complete**; see [`GLOSSARY.md`](GLOSSARY.md).
-- Batches 2–6: **not started**.
+- Batch 1 / scans 4–7: **reviewed**.
+- Batch 2 / scans 8–13: **reviewed**.
+- Batch 3 / scans 14–20: **NEXT**.
+- Batches 4–6: **not started**.
+- Whole-work English `verified`: **no**.
 
-Progress details: [`PROGRESS.md`](PROGRESS.md).
+English sections currently present:
+
+1. [`sections/01-opening-frame.md`](sections/01-opening-frame.md) — scans 4–7, reviewed.
+2. [`sections/02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md) — currently contains reviewed Batch 2, scans 8–13; later internal-sequence batches must be appended to this same file.
+
+Terminology and source-oddity decisions are recorded in [`GLOSSARY.md`](GLOSSARY.md). Detailed batch audit: [`PROGRESS.md`](PROGRESS.md).
 
 ## Translation principle
 
-The goal is clear English that remains source-bound. Political force, accusation, irony, repetition, rhetorical questions, historical-cinematic form, and source oddities are preserved without softening, intensifying, or silently reconstructing the Tamil.
+The goal is clear English that remains source-bound. Political force, accusation, irony, repetition, rhetorical questions, historical-cinematic form and source oddities are preserved without softening, intensifying or silently reconstructing the Tamil.
