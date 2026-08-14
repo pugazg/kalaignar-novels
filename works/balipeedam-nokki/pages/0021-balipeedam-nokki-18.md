@@ -4,7 +4,7 @@ printed_page: 20
 work: "balipeedam-nokki"
 section: "ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065570_பலிபீடம்_நோக்கி.pdf"
 transcription_method: "direct visual comparison with enlarged source scan"
@@ -12,7 +12,7 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 வெங்கண்ணுவின் வெற்றிச் சிரிப்போடு காட்சி திடீரெனத் திரும்புகிறது.
 
-பிறைக்கொடி பறந்துகொண்டிருக்கிறது. கொடி நடப்பட்டிருக்கும் உயர்ந்த ஸ்தூபி! அதைப் பின்பற்றி **[ஒரு குறும் அச்சுச் சொற்றொடர் தெளிவாக வாசிக்கப்படவில்லை]** கோட்டையின் பல பாகங்கள் நகருகின்றன. பேச்சுக்குரல் கேட்கிறது.
+பிறைக்கொடி பறந்துகொண்டிருக்கிறது. கொடி நடப்பட்டிருக்கும் உயர்ந்த ஸ்தூபி! அதைப் பின்பற்றி மளமள வென்று கோட்டையின் பல பாகங்கள் நகருகின்றன. பேச்சுக்குரல் கேட்கிறது.
 
 வெங்கண்ணு தான் பேசிக்கொண்டிருக்கிறான்.
 
@@ -26,9 +26,9 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 ## Scan observations
 
-- One short phrase between `அதைப் பின்பற்றி` and `கோட்டையின் பல பாகங்கள்` is not sufficiently clear in the scan; it is explicitly left unresolved rather than reconstructed from context.
-- The final words of the long speech are also unusually printed; the current direct reading `என்றுன் பேதை!` is retained without contextual correction.
-- Because these readings require a later character-level recheck, the page remains `needs-review`.
+- Enlarged character-level review resolves the previously open transition phrase as `மளமள வென்று`.
+- The unusual printed form `என்றுன் பேதை!` is also directly supported by the enlarged scan and is retained without normalization.
+- The final sentence continues directly onto scan 22.
 - Reverse-side bleed-through is visible behind the text.
 
 <!-- மூல ஸ்கேன் பக்கம்: 21; அச்சுப் பக்கம்: 20 -->
