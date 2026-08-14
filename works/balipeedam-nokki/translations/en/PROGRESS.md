@@ -5,103 +5,122 @@
 | Batch | Source | Destination | Status |
 |---|---|---|---|
 | 1 — pilot | scans 4–7 | `sections/01-opening-frame.md` | **reviewed** |
-| 2 | scans 8–13 | `sections/02-rayasam-vengannu-sequence.md` | not-started |
-| 3 | scans 14–20 | same | not-started |
+| 2 | scans 8–13 | `sections/02-rayasam-vengannu-sequence.md` | **reviewed** |
+| 3 | scans 14–20 | same | **NEXT** |
 | 4 | scans 21–26 | same | not-started |
 | 5 | scans 27–30 through `வணக்கம்` end-card | same | not-started |
 | 6 | scan 30 from `படம் முடிந்துவிட்டது...` through scan 33 | `sections/03-return-and-conclusion.md` | not-started |
 
 **Whole-work English status:** in progress  
-**Highest completed gate:** Batch 1 `reviewed`  
-**Whole-work `verified`:** no — final bilingual alignment is still required after all batches.
+**Highest completed gate:** Batches 1–2 `reviewed`  
+**Whole-work `verified`:** no — final bilingual alignment remains required after all batches.
 
 ## Batch 1 — pilot
 
+Source: scans **4–7**.  
+Artifact: `sections/01-opening-frame.md`.  
+Status: **reviewed**.
+
+The pilot was checked against canonical pages 0004–0007. No substantive paragraph or rhetorical unit was omitted. The central `பலிபீடம்` metaphor, `ஆரியம்`, `தன்மானம்`, `மறம்`, `கொற்றம்`, source oddities and scan-7 cinematic transition were reviewed and locked in `GLOSSARY.md`.
+
+## Batch 2 — internal title card / Nayak court / battle
+
 ### Source
 
-- scan 4 / printed page not visible
-- scan 5 / printed page 4
-- scan 6 / printed page 5
-- scan 7 / printed page 6
+- scan 8 / printed page not visible
+- scan 9 / printed page 8
+- scan 10 / printed page 9
+- scan 11 / printed page 10
+- scan 12 / printed page 11
+- scan 13 / printed page 12
 
 Canonical Tamil page records:
 
-- `../../pages/0004-balipeedam-nokki-01.md`
-- `../../pages/0005-balipeedam-nokki-02.md`
-- `../../pages/0006-balipeedam-nokki-03.md`
-- `../../pages/0007-balipeedam-nokki-04.md`
+- `../../pages/0008-balipeedam-nokki-05.md`
+- `../../pages/0009-balipeedam-nokki-06.md`
+- `../../pages/0010-balipeedam-nokki-07.md`
+- `../../pages/0011-balipeedam-nokki-08.md`
+- `../../pages/0012-balipeedam-nokki-09.md`
+- `../../pages/0013-balipeedam-nokki-10.md`
 
-Tamil reading source: `../../sections/01-opening-frame.md`.
+English artifact:
 
-### Translation artifact
+`sections/02-rayasam-vengannu-sequence.md`
 
-`sections/01-opening-frame.md`
+### Coverage
 
-### Review performed
+Batch 2 translates:
 
-The pilot English was compared back against all four canonical Tamil page records after drafting. The review checked:
+- the internal `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` title card;
+- `எரிமலை ‘ரிலீஸ்’` and film-credit language;
+- palanquin / Kumar Tatacharya entrance;
+- Vijayaraghava–Mannaru–guru marriage/war discussion;
+- the blessing and transition into battle;
+- Mannaru's death and the fall of Vijayaraghava and his queen;
+- Vijayaraghava's dying speech across scans 12→13;
+- the inner-palace fire sequence and escape of the child Sengamaladasan.
 
-- paragraph sequence and completeness;
-- repeated rhetorical questions and exclamations;
-- the `பலிபீடம்` governing metaphor;
-- Senguttuvan / Kanaka Vijayar / Matalavaraiyan / Vengannu name handling;
-- political use of `ஆரியம்`;
-- `மறம்`, `கொற்றம்`, and `தன்மானம்`;
-- unusual source forms `குதுமன்றி`, `விருதா`, and `மஹா கனம்`;
-- the printed `அன்பு(?)` punctuation;
-- page-break joins `அணுக்` + `களிலிருந்து` and `உதிர` + `ஆறுகளைப் பாருங்கள்`;
-- film-transition language and sound effects on scan 7;
+### Source check performed
+
+The completed English was checked back against canonical Tamil pages 0008–0013 for:
+
+- paragraph and dialogue completeness;
+- title-card and credit order;
+- one-work identity;
+- names and speaker labels;
+- bracketed action directions;
+- screen, music and scene-change vocabulary;
+- sound effects and battle imagery;
+- scan 10 verified source oddity `மித்தானமத்தனுக்குக்`;
+- scan 13 verified source oddity `முச்சுற்றுப்படுத்திருக்கும்`;
+- open quotation continuity from scan 10→11 and scan 12→13;
+- religious/service terms in Vijayaraghava's dying speech;
 - omission/addition risk.
 
-### Pilot review result
+### Batch 2 review result
 
-**No paragraph or substantive rhetorical unit is omitted.**
+**No substantive paragraph, dialogue turn, action direction or cinematic unit from scans 8–13 is omitted.**
 
-The first draft was tightened after comparison with the Tamil:
+The translation deliberately remains cautious where the source is unusual:
 
-- the compressed younger-brother/Tamil-woman line was made more source-bound rather than historically reconstructed;
-- the first `மறக்குல...` line was made less interpretively specific;
-- `பணமுட்டை` was rendered more literally as **bag of money**;
-- `அது அரசியல்! இது மத இயல்!` now preserves the source's immediate rhetorical contrast as **That is politics! This is religion!**;
-- `நீங்களும் பலிபீடம் நோக்குங்கள்` now retains directional force as **turn towards the sacrificial altar**;
-- `பலிபீடம் நோக்கிகளே` is treated as an intentionally unusual coined address rather than flattened into ordinary prose.
+- `மித்தானமத்தனுக்குக்` is retained as *mitthanamathan*, not assigned a guessed meaning;
+- `முச்சுற்றுப்படுத்திருக்கும்` receives the contextual rendering **encircling it**, while the exact Tamil remains documented;
+- the compressed `ஸ்ரீரங்கத்தை தெரிசிக்க...` list in the dying speech is not historically reconstructed into a smoother claim;
+- `கன்னிகாதானம்`, `சந்தர்ப்பணம்`, and `அக்கிரகாரம்` are retained as *kanyadanam*, *santharpanam*, and *agraharam*;
+- film cues such as `குளோசப்`, scene changes, music, screen flashes and bracketed directions remain visible.
 
-### Source oddities
+### Structural check
 
-The English does not silently repair the audited Tamil. In particular:
+`ராயசம் வெங்கண்ணு` remains explicitly labelled an **internal sequence of _Towards the Sacrificial Altar_**. No separate work metadata or translation identity was created.
 
-- `குதுமன்றி` remains documented while receiving a cautious contextual rendering;
-- `விருதா` is retained as *virudha* rather than assigned an unverified dictionary meaning;
-- source variation `மாடலவறையவன் / மாடலவறையன்` remains intact in Tamil, while English consistently uses **Matalavaraiyan**;
-- `அன்பு(?)` remains **loving(?)**;
-- source onomatopoeia is transliterated rather than replaced with invented effects.
+### Glossary update
 
-### Style lock
+`GLOSSARY.md` now includes Batch-2 decisions for:
 
-Pilot terminology and translation conventions are now frozen in `GLOSSARY.md`.
+- Vijayaraghava, Mannaru Nayak, Kumar Tatacharya, Sokkanatha Nayak, Sengamaladasan;
+- *kanyadanam*, *santharpanam*, *agraharam*;
+- film-credit and close-up vocabulary;
+- `மித்தானமத்தனுக்குக்` and `முச்சுற்றுப்படுத்திருக்கும்` handling.
 
-Batch 2 must follow those choices unless a documented contradiction in the later source requires a deliberate glossary revision.
+## Gate before Batch 3
 
-## Gate before Batch 2
-
-The mandatory pilot gate is satisfied:
-
-- pilot translation complete — **yes**
-- source check against canonical pages — **yes**
-- rhetoric/terminology review — **yes**
-- glossary/style lock — **yes**
-- final whole-work verification — **not applicable yet**
+- Batch 2 translation complete — **yes**
+- canonical source check — **yes**
+- cinematic/structural review — **yes**
+- glossary update — **yes**
+- whole-work verification — **not yet**
 
 ## Next exact activity
 
-Translate **Batch 2: scans 8–13**, beginning the internal `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` cinematic sequence inside the same work.
+Continue the **same** `sections/02-rayasam-vengannu-sequence.md` with **Batch 3: scans 14–20**.
 
 Requirements:
 
-1. create `sections/02-rayasam-vengannu-sequence.md` with scans 8–13 only for the first commit;
-2. reproduce the internal title card and credit vocabulary without promoting it to a separate work;
-3. preserve scene/action directions, dialogue, camera/screen language, sound effects, and source punctuation;
-4. keep scan provenance visible;
-5. compare the completed Batch 2 English against canonical scans/pages 8–13;
-6. update `GLOSSARY.md` only for genuinely new recurring terms;
-7. advance this progress file and the repository handover only after the source check is complete.
+1. append, do not replace or split the internal sequence;
+2. preserve the existing title card and one-work identity;
+3. translate every substantive unit from scans 14–20;
+4. preserve dialogue, bracketed directions, screen movement and source oddities;
+5. maintain source-scan comments/provenance;
+6. source-check the appended English against canonical Tamil pages 0014–0020;
+7. update the glossary only for genuinely new recurring terms;
+8. update progress/readmes/handover only after the Batch-3 source check.
