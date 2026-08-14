@@ -12,7 +12,7 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 Tamil verified; assembled Tamil PASSED; English Batches 1–4 reviewed; Batch 5 next** |
+| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 Tamil verified; assembled Tamil PASSED; English Batches 1–5 reviewed; Batch 6 next** |
 
 ### முக்கிய structural note
 
@@ -38,8 +38,9 @@ Source continuity:
 - English Batch 2 / scans 8–13 — **reviewed**
 - English Batch 3 / scans 14–20 — **reviewed**
 - English Batch 4 / scans 21–26 — **reviewed**
-- English Batch 5 / scans 27–30 through `வணக்கம்` — **NEXT**
-- English Batch 6 — **not started**
+- English Batch 5 / scans 27–30 through `வணக்கம்` — **reviewed**
+- Internal `ராயசம் வெங்கண்ணு` English sequence — **COMPLETE + REVIEWED**
+- English Batch 6 / return and conclusion — **NEXT**
 - source PDF in repository — **No**
 
 Key files:
@@ -52,7 +53,7 @@ Key files:
 - [`works/balipeedam-nokki/translations/en/sections/01-opening-frame.md`](works/balipeedam-nokki/translations/en/sections/01-opening-frame.md)
 - [`works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md`](works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md)
 
-English reviewed coverage now reaches **scan 26**. The next Batch 5 continues in the same internal-sequence file through the scan-30 `வணக்கம்` end-card only. The later `படம் முடிந்துவிட்டது...` text starts Batch 6 and the return/conclusion section.
+அடுத்த activity: **English Batch 6 — scan 30-இல் `படம் முடிந்துவிட்டது...` தொடங்கி scan 33 வரை return/conclusion translation**. புதிய `translations/en/sections/03-return-and-conclusion.md` உருவாக்க வேண்டும். அதன் source-check முடிந்த பின்பு முழு bilingual `TRANSLATION_REVIEW.md` செய்ய வேண்டும்.
 
 ## களஞ்சிய அமைப்பு
 
