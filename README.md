@@ -14,7 +14,7 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 page records; 34/34 verified; Tamil source audit PASSED** |
+| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 verified; Tamil source audit PASSED; assembled Tamil reading layer PASSED; translation-ready** |
 
 ### முக்கிய structural note
 
@@ -23,26 +23,28 @@
 Source continuity:
 
 - scan 7 — narrator திரைப்படக் காட்சியைத் தானே அறிமுகப்படுத்துகிறார்;
-- scans 8–29 — cinematic-historical sequence;
-- scan 30 — `படம் முடிந்துவிட்டது... பலிபீடம் நோக்க...` என்று main frame-க்கு திரும்புகிறது;
+- scans 8–29 மற்றும் scan 30-ன் தொடக்கம் — cinematic-historical sequence, `வணக்கம்` end-card வரை;
+- scan 30 — `படம் முடிந்துவிட்டது...` என்று main frame-க்கு திரும்புகிறது;
 - scans 31–33 — `பலிபீடம்` argument-ன் conclusion;
 - scan 34 — blank/back matter.
 
 அதனால் scans 4–33 அனைத்தும் ஒரே `work: balipeedam-nokki` identity-யின் கீழ் archive செய்யப்பட்டுள்ளன. `ராயசம் வெங்கண்ணு` source heading internal `section` label ஆக மட்டும் பாதுகாக்கப்பட்டுள்ளது.
 
-### தற்போதைய source-layer status
+### தற்போதைய status
 
 - page records — **34 / 34**
 - `verified` — **34 / 34**
 - `needs-review` — **0**
 - targeted character-level review — **complete**
-- full consistency audit — **passed**
-- PDF in repository — **No**
-- English translation — **not started; audit gate now open**
+- full page/metadata consistency audit — **passed**
+- assembled Tamil reading layer — **complete + passed**
+- source PDF in repository — **No**
+- English translation — **not started; translation gate open**
 
-Final audit: [`works/balipeedam-nokki/audit.md`](works/balipeedam-nokki/audit.md).
+Final audit: [`works/balipeedam-nokki/audit.md`](works/balipeedam-nokki/audit.md).  
+Assembled reading layer: [`works/balipeedam-nokki/sections/README.md`](works/balipeedam-nokki/sections/README.md).
 
-அடுத்த activity: audited page records-ஐ மாற்றாமல் `sections/` கீழ் source-faithful assembled Tamil reading layer உருவாக்கி, அதை page records-க்கு எதிராகச் சரிபார்த்த பின் English translation plan தயாரிக்க வேண்டும்.
+அடுத்த activity: **English translation plan** தயாரிக்க வேண்டும். Translation continuity-க்கு `sections/` பயன்படுத்தலாம்; ஆனால் source authority எப்போதும் audited `pages/` layer-தான்.
 
 ## களஞ்சிய அமைப்பு
 
@@ -60,9 +62,13 @@ works/
     pages/
     audit.md
     sections/
+      README.md
+      01-opening-frame.md
+      02-rayasam-vengannu-sequence.md
+      03-return-and-conclusion.md
 ```
 
-ஒவ்வொரு நூலும் தனித்த `works/<work-slug>/` அடைவில் பதிவாகும். பக்கவாரி records முதன்மை archival layer; பின்னர் section/chapter assemblies, audit, translation மற்றும் review files சேர்க்கப்படும்.
+ஒவ்வொரு நூலும் தனித்த `works/<work-slug>/` அடைவில் பதிவாகும். பக்கவாரி records முதன்மை archival layer; assembled reading text, audit, translation மற்றும் review files derived layers ஆக சேர்க்கப்படும்.
 
 விரிவான workflow: [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md).  
 தற்போதைய நூல்: [`works/balipeedam-nokki/README.md`](works/balipeedam-nokki/README.md).
