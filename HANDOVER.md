@@ -4,7 +4,6 @@
 
 - Repository: `pugazg/kalaignar-novels`
 - Branch: `main`
-- State immediately before this handover update: commit `f238adfcd783a19c5aec020c3cc077ddb4a7931a`
 - When resuming, verify current `main` before making changes.
 
 ## Permanent startup rule
@@ -34,17 +33,32 @@ Source filename (external to repository):
 - Publisher visible in scan: எரிமலைப் பதிப்பகம், துறையூர்
 - PDF committed to repository: **No**
 
-## Internal textual units
+## Critical structural correction after full read
 
-- scans 4–7: **பலிபீடம் நோக்கி** — complete + verified
-- scans 8–33: **ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை** — not started
-- scan 34: blank/back matter
+**`பலிபீடம் நோக்கி` is one continuous work across scans 4–33.**
 
-### Source-title correction
+The previous handover incorrectly treated scans 8–33 (`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`) as a separate textual entity. Do not repeat that split.
 
-Direct inspection of scan 8 confirms the printed title **`ராயசம் வெங்கண்ணு`**. Earlier working references to `ராயசம் வெங்கண்ணா` were corrected in source metadata, README files and the page manifest before transcription of that unit begins.
+Source-supported structure:
 
-`ராயசம் வெங்கண்ணு` begins with source-printed cinema-style credits. Preserve these exactly; do not recast them into modern prose or bibliographic language inside the transcription.
+1. **Scans 4–7:** opening ideological / polemical frame built around சேரன் செங்குட்டுவன், Aryan ritual power, Tamil self-respect and the `பலிபீடம்` metaphor.
+2. **Scan 7:** narrator explicitly introduces the next material as a film-like lesson: `வேதியர் வெங்கண்ணு! திரைப் படமாக உருப்பெற்றிருக்கிறார்... படக்காட்சி ஆரம்பமாகிறது பாருங்கள். படம் உங்களுக்கு ஒரு பாடம் தரட்டும்.`
+3. **Scan 8:** internal title-card page — `ராயசம் வெங்கண்ணு`, `தஞ்சை சரித்திரக் கதை`, `எரிமலை 'ரிலீஸ்'`, screenplay/dialogue-style credits and rights line.
+4. **Scans 9–29:** the embedded Thanjavur historical episode is narrated in cinematic / screenplay-like form.
+5. **Scan 30:** explicit exit from the internal film: `படம் முடிந்துவிட்டது. பாடம் கற்றுக்கொண்டீர்களா? பலிபீடம் நோக்க...`
+6. **Scans 31–33:** direct concluding address returns fully to the main `பலிபீடம்` argument and closes the work.
+
+Archival rule:
+
+```text
+work: balipeedam-nokki
+```
+
+must be used for **every body page scans 4–33**.
+
+`ராயசம் வெங்கண்ணு` is **not** a separate work, repository item, translation project or metadata entity. Preserve the printed heading only as an internal `section` / cinematic-sequence label.
+
+Direct enlarged inspection of scan 8 reads the printed heading as `ராயசம் வெங்கண்ணு`; preserve that source form in transcription.
 
 ## Completed work
 
@@ -72,9 +86,9 @@ Totals:
 - needs-review: **1**
 - not-started: **27**
 
-## Completed batch — scans 4–7
+## Completed transcription batch — scans 4–7
 
-The complete `பலிபீடம் நோக்கி` textual unit has been transcribed and directly compared with enlarged source scans.
+The opening segment has been transcribed and directly compared with enlarged source scans.
 
 Source-specific readings deliberately preserved include:
 
@@ -93,17 +107,19 @@ One short phrase in the final paragraph of the publisher's note remains visually
 
 ## Next exact activity
 
-Process **scans 8–12 as one batch** — the first `ராயசம் வெங்கண்ணு` batch.
+Continue **the same `பலிபீடம் நோக்கி` work** with scans **8–12**.
 
 This batch should:
 
-1. create page records `0008` through `0012` using the `rayasam-vengannu` filename slug already reserved in `indexes/page-map.md`;
-2. verify scan 8 title **`ராயசம் வெங்கண்ணு`**, subtitle **`தஞ்சை சரித்திரக் கதை`**, `எரிமலை 'ரிலீஸ்'`, credit lines and rights line character by character;
-3. transcribe scans 8–12 page by page from the controlling scan;
-4. preserve cinematic narration, dialogue, scene/action description, punctuation, historical spelling, source-specific names and unusual grammar;
-5. record bleed-through, stamps, handwritten marks or other copy-specific marks separately from printed text;
-6. direct-visual-verify each page before marking it `verified`;
-7. update `indexes/page-map.md`, work `README.md`, root `README.md`, and this handover when the batch is complete.
+1. create continuous page records `0008-balipeedam-nokki-05.md` through `0012-balipeedam-nokki-09.md`;
+2. keep `work: "balipeedam-nokki"` on every page;
+3. use `section` to identify the embedded `ராயசம் வெங்கண்ணு` cinematic-historical sequence without promoting it to work-level identity;
+4. verify scan 8's internal title card, subtitle `தஞ்சை சரித்திரக் கதை`, `எரிமலை 'ரிலீஸ்'`, credit lines and rights line character by character;
+5. transcribe scans 8–12 page by page from the controlling scan;
+6. preserve cinematic narration, dialogue, scene/action description, punctuation, historical spelling, source-specific names and unusual grammar;
+7. record bleed-through, stamps, handwritten marks or other copy-specific marks separately from printed text;
+8. direct-visual-verify each page before marking it `verified`;
+9. update `indexes/page-map.md`, work `README.md`, root `README.md`, and this handover when the batch is complete.
 
 ## Translation gate
 
