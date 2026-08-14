@@ -18,7 +18,7 @@ derived_from: "audited Tamil pages/ records and verified sections/01-opening-fra
 
 The snow-clad rocks of the Himalayas are pages etched by the valour of Cheran Senguttuvan. The bent necks of Kanaka Vijayar are cartoon drawings illustrating his history. The heads that rolled in Aryavarta are critical lines praising the strength of his army. The statue of Kannagi raised in Tamilakam is the emblem of his love of art.
 
-Cheran Senguttuvan, the tiger who lived sword in hand and fame upon him in Tamilakam, was the king who fashioned a statue for the Tamil woman from the stone associated with his younger brother's telling. In politics he opposed Aryanism and washed and wrung its fattened heart.
+Cheran Senguttuvan, the tiger who lived bearing a sword and bearing fame in Tamilakam, was the king who raised in stone the Tamil woman fashioned by his younger brother. In politics he opposed Aryanism and washed and wrung its fattened heart.
 
 That warrior among warriors fell.
 
@@ -28,9 +28,9 @@ The very Aryanism that he had opposed in politics, defeated on behalf of the cha
 
 <!-- source: scan 4; printed page: — -->
 
-The one who brought down this king of a warrior clan was no warrior of another warrior clan! The one who brought down the Chera was no Pandya of his own kind! The one who brought down that hero was no Chola either!
+The one who brought down this king of a warrior clan was no warrior of a martial clan! The one who brought down the Chera was no Pandya of his own kind! The one who brought down that hero was no Chola either!
 
-A weakling who knew nothing beyond food and the tuft brought down Cheran Senguttuvan. A `virudha` who would put a price on valour brought down Cheran Senguttuvan.
+A weakling who knew nothing beyond food and the tuft brought down Cheran Senguttuvan. A *virudha* who would put a price on valour brought down Cheran Senguttuvan.
 
 Was the manner of his defeat something to be proud of? No! Was it on the battlefront? No! Was it merely by showing him a pleasure hall? No!
 
@@ -49,18 +49,18 @@ Instead, did not those weapons pierce Senguttuvan's honour and grow blunt there?
 
 A stone upon Kanaka Vijayar's head!
 
-A purse of money upon Matalavaraiyan's head!
+A bag of money upon Matalavaraiyan's head!
 
-That was politics! This was religion! Aryanism danced in delight. It devised many paths by which Tamils could be pushed onto the sacrificial altar!... Everywhere, welcoming signboards... Aryanism's loving(?) invitations.
+That is politics! This is religion! Aryanism danced in delight. It devised many paths by which Tamils could be pushed onto the sacrificial altar!... Everywhere, welcoming signboards... Aryanism's loving(?) invitations.
 
 “Road to heaven,” “Path to the world of the gods,” “Way to Vaikuntha...” All the signposts... dividing and pointing out the roads, only to drag Tamils in the end “towards the sacrificial altar.”
 
-These flocks of sheep too set out in the direction the Chera had gone. They marched towards the Aryan sacrificial altar. How many kings in that procession... how many men of courage...? Alas!... Comrades of my land!... Look at the rivers of blood running there in flood. You too, look towards the sacrificial altar.
+These flocks of sheep too set out in the direction the Chera had gone. They marched towards the Aryan sacrificial altar. How many kings in that procession... how many men of courage...? Alas!... Comrades of my land!... Look at the rivers of blood running there in flood. You too, turn towards the sacrificial altar.
 
 <!-- source join: scan 6 ends `உதிர`; scan 7 begins `ஆறுகளைப் பாருங்கள்` -->
 <!-- source: scan 6 / printed 5 → scan 7 / printed 6 -->
 
-Not to fall!... To live—come! O you who face the sacrificial altar!... Here is one from the line of Matalavaraiyan!...
+Not to fall and perish!... Come to live, you who are bound for the sacrificial altar!... Here is one from the line of Matalavaraiyan!...
 
 Vedic priest Vengannu! He has taken shape as a motion picture... The screening begins—watch. Let the picture teach you a lesson.
 
@@ -78,7 +78,8 @@ Against the volcano as a backdrop, rows of letters roll across the screen.
 - `ஆரியம்` is rendered **Aryanism** in this opening section because the Tamil uses it as an ideological/social force rather than merely an adjective. Later contexts may use **Aryan** adjectivally under the translation plan.
 - `மறம்` is rendered **valour**; `கொற்றம்` as **triumph** in this rhetorical pair.
 - `தன்மானம்` is rendered **self-respect** in the movement-era ideological context.
-- The source forms `குதுமன்றி` and `விருதா` are not silently regularised. The first is rendered contextually as “beyond food and the tuft”; the second is retained as `virudha` and recorded in the glossary.
+- The compressed source phrase about the Tamil woman and Senguttuvan's younger brother is translated closely as **“the Tamil woman fashioned by his younger brother”**; no external historical reconstruction has been inserted into the prose.
+- The source forms `குதுமன்றி` and `விருதா` are not silently regularised. The first is rendered contextually as “beyond food and the tuft”; the second is retained as *virudha* and recorded in the glossary.
 - The source varies `மாடலவறையவன் / மாடலவறையன்`; the English uses **Matalavaraiyan** consistently while the audited Tamil preserves both forms.
 - The source's punctuation `அன்பு(?)` is carried into English as **loving(?)**.
 - Source sound effects are retained by transliteration rather than replaced with newly invented English effects.
