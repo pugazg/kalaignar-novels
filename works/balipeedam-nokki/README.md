@@ -10,7 +10,7 @@
 
 **`பலிபீடம் நோக்கி` ஒரே தொடர்ச்சியான படைப்பு.**
 
-Scan 8-ல் வரும் **`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`** தனி work அல்ல. முழு நூலை வாசித்தபோது source continuity தெளிவாகிறது: அது `பலிபீடம் நோக்கி` நூலுக்குள் கலைஞர் திரைப்படம் போல அமைத்துள்ள வரலாற்றுக் காட்சி / illustrative sequence.
+Scan 8-ல் வரும் **`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`** தனி work அல்ல. முழு source continuity-யின் அடிப்படையில் அது `பலிபீடம் நோக்கி` நூலுக்குள் கலைஞர் திரைப்படம் போல அமைத்துள்ள வரலாற்றுக் காட்சி / illustrative sequence.
 
 ### Narrative flow
 
@@ -29,13 +29,13 @@ Scan 8-ல் வரும் **`ராயசம் வெங்கண்ணு 
 5. **Scans 31–33 — முடிவுரை**  
    direct political/social address மீண்டும் `பலிபீடம்` உருவகத்தை மையமாக்கி நூலை முடிக்கிறது.
 
-எனவே body pages scans 4–33 அனைத்திலும்:
+எனவே body pages scans 4–33 அனைத்திலும் ஒரே work identity பயன்படுத்தப்படுகிறது:
 
 ```text
 work: balipeedam-nokki
 ```
 
-என்ற ஒரே work identity பயன்படுத்தப்படுகிறது. `ராயசம் வெங்கண்ணு` அச்சுத் தலைப்பு internal `section` label ஆக மட்டுமே பாதுகாக்கப்படுகிறது.
+`ராயசம் வெங்கண்ணு` அச்சுத் தலைப்பு internal `section` label ஆக மட்டுமே பாதுகாக்கப்படுகிறது.
 
 ## Source registration
 
@@ -47,7 +47,7 @@ work: balipeedam-nokki
 - File size: 69,724,254 bytes
 - PDF repository-க்குள் commit செய்யப்படவில்லை; செய்யக்கூடாது.
 
-## தற்போதைய transcription நிலை
+## Tamil source-preservation status
 
 | Item | Status |
 |---|---|
@@ -55,15 +55,17 @@ work: balipeedam-nokki
 | Full-work structural review | complete |
 | Page manifest | **34 / 34 complete** |
 | Page records | **34 / 34 created** |
-| `verified` pages | **27** |
-| `needs-review` pages | **7** |
-| `not-started` pages | **0** |
-| Tamil source layer | transcription complete; targeted review pending |
-| English translation | blocked until Tamil audit passes |
+| `verified` pages | **34 / 34** |
+| `needs-review` pages | **0** |
+| Character-level targeted review | **complete** |
+| Full page/metadata consistency audit | **passed** |
+| Tamil source layer | **PASSED** |
+| English translation | **gate open; not started** |
 
-Page-level status: [`indexes/page-map.md`](indexes/page-map.md).
+Page-level status: [`indexes/page-map.md`](indexes/page-map.md).  
+Final source audit: [`audit.md`](audit.md).
 
-## Completed source coverage
+## Source coverage
 
 - scans **1–3** — cover/title/publisher front matter;
 - scans **4–7** — opening `பலிபீடம்` frame;
@@ -72,21 +74,19 @@ Page-level status: [`indexes/page-map.md`](indexes/page-map.md).
 - scans **31–33** — concluding direct address;
 - scan **34** — blank/back matter.
 
-The source PDF itself remains outside GitHub.
+## Targeted review resolved
 
-## Review queue
+The seven pages previously held at `needs-review` were re-inspected at enlarged resolution. Final scan-supported readings include:
 
-Seven pages remain intentionally open rather than being silently corrected:
+- scan 3 — `பேனுப் பிடிக்கும்`;
+- scan 10 — `மித்தானமத்தனுக்குக்`;
+- scan 13 — `முச்சுற்றுப்படுத்திருக்கும்`;
+- scan 21 — `மளமள வென்று` and `என்றுன் பேதை!`;
+- scan 23 — `களேபாரப்படுகிறது`;
+- scan 26 — `தர்ப்பாகூரர்` and `விபரீதத்தை ஏற்கத்`;
+- scan 27 — `ஒரு காரணம்!`.
 
-1. **scan 3** — one short publisher-note phrase unresolved.
-2. **scan 10** — current reading `மித்தானமத்தனுக்குக்` needs one more character-level check.
-3. **scan 13** — current reading `முச்சுற்றுப்படுத்திருக்கும்` needs confirmation.
-4. **scan 21** — one scene-transition phrase is explicitly unresolved; `என்றுன் பேதை!` also needs checking.
-5. **scan 23** — current reading `களேபாரப்படுகிறது` needs confirmation.
-6. **scan 26** — current readings `தற்பாகூரர்` and `வீரத்ததை எறக்கத்` need confirmation.
-7. **scan 27** — one short scene-transition word/phrase is explicitly unresolved.
-
-No review item has been replaced by modern spelling, grammar, historical knowledge, or narrative guesswork.
+These are preserved because the scan supports them, not because they were normalized from grammar, history or context.
 
 ## Source features deliberately preserved
 
@@ -101,6 +101,12 @@ The archive retains:
 
 ## அடுத்த செயல்
 
-The next activity is **targeted character-level review of scans 3, 10, 13, 21, 23, 26 and 27**. After resolving everything the scan genuinely permits, perform the full 34-page consistency audit and create/update `audit.md`.
+The page-level preservation layer is now locked as the audited source base.
 
-English translation must not begin until that Tamil audit is complete.
+Next, create a **source-faithful assembled Tamil reading layer under `sections/`** without modifying the audited page records. Suggested assembly:
+
+1. scans 4–7 — opening frame;
+2. scans 8–29 — internal `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` sequence;
+3. scans 30–33 — return to frame and conclusion.
+
+After that assembly is cross-checked against the page records, prepare the English translation plan.
