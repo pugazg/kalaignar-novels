@@ -34,7 +34,9 @@ From scan pages 2–3:
 ## Internal textual units in this scanned publication
 
 1. **பலிபீடம் நோக்கி** — begins on scan page 4 and ends on scan page 7.
-2. **ராயசம் வெங்கண்ணா** — begins on scan page 8; subtitle printed as **தஞ்சை சரித்திரக் கதை**; continues through scan page 33.
+2. **ராயசம் வெங்கண்ணு** — begins on scan page 8; subtitle printed as **தஞ்சை சரித்திரக் கதை**; continues through scan page 33.
+
+Direct enlarged inspection of scan page 8 confirms the second title as **`ராயசம் வெங்கண்ணு`**. The earlier working reading `ராயசம் வெங்கண்ணா` has been discarded rather than retained as a normalized title.
 
 The second unit is introduced with cinematic credits including:
 
