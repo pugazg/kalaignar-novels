@@ -12,7 +12,7 @@ transcription_method: "direct visual comparison with source scan"
 
 களிலிருந்து சிங்கத் தமிழர் படை ஒன்று தோன்றி இருக்குமே!... அவன் நெஞ்சைப் பிளந்திருக்கக் கூடாதா? அந்த வெடிப்பில் ஒரு புது சமுதாயம் முளைத்திருக்குமே!... அது ஆரியத்தின் கருவை அப்பொழுதே அறுத்திருக்குமே?...
 
-அந்த அஸ்திரங்கள் செங்குட்டுவனின் மானத்தையல்லவா துளைத்து மழுங்கின. யாக நெருப்பில் அவனே பாய்ந்து ‘ஆண்டவனுக்குத் தன்னை அர்ப்பணித்திருக்கலாகாதா? தமிழனின் தனிப் பண்பு, தன்மானம்!’ .. அதை யல்லவா தனலில் வேக வைத்தான்.
+அந்த அஸ்திரங்கள் செங்குட்டுவனின் மானத்தையல்லவா துளைத்து மழுங்கின. யாக நெருப்பில் அவனே பாய்ந்து ‘ஆண்டவனுக்குத் தன்னை அர்ப்பணித்திருக்கலாகாதா? தமிழனின் தனிப் பண்பு, தன்மானம்!’ .. அதை யல்லவா தணலில் வேக வைத்தான்.
 
 கனகவிசயர் தலையில் கல்!
 
@@ -29,6 +29,7 @@ transcription_method: "direct visual comparison with source scan"
 - The opening `களிலிருந்து` continues the page-ending fragment `அணுக்` on scan 5; together the source reads across the page break as `அணுக்களிலிருந்து`.
 - The final word `உதிர` continues the sentence on scan 7.
 - The source itself prints `அன்பு(?)` with a question mark in parentheses; that punctuation has been preserved rather than interpreted.
+- Enlarged visual comparison confirms the source form `தணலில்`.
 - Reverse-side bleed-through and light age spotting are visible and have not been transcribed as body text.
 
 <!-- மூல ஸ்கேன் பக்கம்: 6; அச்சுப் பக்கம்: 5 -->
