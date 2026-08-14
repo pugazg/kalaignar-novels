@@ -57,31 +57,45 @@ work: balipeedam-nokki
 
 `ராயசம் வெங்கண்ணு` may appear only as an internal `section` label preserving the printed heading.
 
-## Current completion state
+## Tamil source-preservation state — COMPLETE
 
-The **entire 34-page scan now has page records**.
+The entire 34-page scan has been transcribed, character-reviewed and consistency-audited.
 
 - page records created: **34 / 34**
-- `verified`: **27**
-- `needs-review`: **7**
+- `verified`: **34 / 34**
+- `needs-review`: **0**
 - `not-started`: **0**
+- unresolved readings: **0**
+- Tamil source audit: **PASSED**
 - source PDF in repository: **No**
 
-Page files now cover:
+Page files cover:
 
 - `0001`–`0003`: front matter;
 - `0004-balipeedam-nokki-01.md` through `0033-balipeedam-nokki-30.md`: complete body sequence;
 - `0034-blank-back.md`: blank/back scan.
 
-A work-level audit file now exists at:
+Final audit file:
 
 `works/balipeedam-nokki/audit.md`
 
-It records that transcription coverage is complete but the character-level source audit is not yet complete.
+## Targeted review resolved
 
-## Important page continuity already preserved
+The seven previously open pages were reviewed against enlarged source pixels.
 
-Do not reflow or "repair" these without checking the source:
+- **scan 3:** `பேனுப் பிடிக்கும்`
+- **scan 10:** `மித்தானமத்தனுக்குக்` confirmed as printed
+- **scan 13:** `முச்சுற்றுப்படுத்திருக்கும்` confirmed
+- **scan 21:** `மளமள வென்று`; `என்றுன் பேதை!` confirmed
+- **scan 23:** `களேபாரப்படுகிறது` confirmed
+- **scan 26:** corrected first-pass readings to `தர்ப்பாகூரர்` and `விபரீதத்தை ஏற்கத்`
+- **scan 27:** `ஒரு காரணம்!` confirmed as the unusual printed transition wording
+
+These resolutions came from the scan itself. Do not re-normalize them later from grammar, history or narrative expectation.
+
+## Important page continuity preserved
+
+Do not reflow or "repair" these joins in the canonical page layer:
 
 - scan 5 → 6: `அணுக்` / `களிலிருந்து`;
 - scan 6 → 7: `உதிர` / `ஆறுகளைப் பாருங்கள்`;
@@ -92,66 +106,59 @@ Do not reflow or "repair" these without checking the source:
 - scan 29 → 30: `அப்படித்` / `தத்தளிக்கிறான்...`;
 - scan 30 → 31: `கைகூப்புவதை` / `யும் நோக்குங்கள்`.
 
-## Seven open review pages
-
-### Scan 3
-
-`pages/0003-publisher-note.md` — one short phrase in the publisher's note remains explicitly unresolved.
-
-### Scan 10
-
-`pages/0010-balipeedam-nokki-07.md` — unusual current reading `மித்தானமத்தனுக்குக்`.
-
-### Scan 13
-
-`pages/0013-balipeedam-nokki-10.md` — current reading `முச்சுற்றுப்படுத்திருக்கும்` needs confirmation.
-
-### Scan 21
-
-`pages/0021-balipeedam-nokki-18.md` — one scene-transition phrase is explicitly unresolved; `என்றுன் பேதை!` also needs character-level confirmation.
-
-### Scan 23
-
-`pages/0023-balipeedam-nokki-20.md` — current reading `களேபாரப்படுகிறது` needs confirmation.
-
-### Scan 26
-
-`pages/0026-balipeedam-nokki-23.md` — current readings `தற்பாகூரர்` and `வீரத்ததை எறக்கத்` need confirmation.
-
-### Scan 27
-
-`pages/0027-balipeedam-nokki-24.md` — one short scene-transition word/phrase is explicitly unresolved.
-
-Do not use grammar, historical knowledge or narrative context to fill these. Resolve only from the controlling scan; if still unreadable, leave them explicit.
-
 ## Copy-specific / non-text marks
 
-Across the scan there are library stamps, handwritten underlines, vertical/bracket marks, age stains, bleed-through and binding artefacts. They are recorded separately in page observations where relevant and must never be merged into printed body text.
+Across the scan there are library stamps, handwritten underlines, vertical/bracket marks, age stains, bleed-through and binding artefacts. They are recorded separately in page observations and must never be merged into printed body text.
 
-Notable later-page examples:
+Notable examples:
 
-- scan 20: handwritten underline beneath `ஊமை வெயில் போல!`;
+- scan 20: handwritten underline beneath a printed phrase;
 - scan 26: large library stamp plus handwritten underline/brace;
 - scans 28, 30, 32, 33: handwritten underlining / marginal marks;
 - scan 33: printed closing ornament;
 - scan 34: blank/back page with physical wear / tape edge.
 
-## Next exact activity
+## Final consistency audit result
 
-Perform a **targeted character-level source review of scans 3, 10, 13, 21, 23, 26 and 27**.
+The repository was checked for:
 
-For each page:
+- continuous page sequence 1–34;
+- scan-page / printed-page mapping;
+- one work identity throughout the body;
+- correct internal section transitions;
+- source filename consistency;
+- all page statuses `verified`;
+- page-level source markers;
+- preserved cross-page continuations;
+- separation of printed text from copy-specific marks;
+- cover/front matter, closing ornament and blank/back coverage.
 
-1. inspect enlarged source pixels directly;
-2. resolve only characters actually supported by the scan;
-3. leave genuinely unreadable material explicitly unresolved;
-4. update page status to `verified` only when justified;
-5. update `indexes/page-map.md`, `audit.md`, work README and this handover with the final counts.
-
-After that targeted review, perform a full 34-page consistency audit covering YAML fields, scan/printed-page numbering, page markers, cross-page continuations, printed/non-text separation and status counts.
+Result: **Tamil source-preservation layer PASSED.**
 
 ## Translation gate
 
-**English translation remains blocked.**
+The previous block on translation is now lifted because the Tamil source layer has passed audit.
 
-Do not create translation/review files until the Tamil source layer has completed the targeted review and full consistency audit. If some characters remain genuinely unreadable after that review, carry those uncertainties explicitly into the translation plan rather than silently repairing the source.
+However, **do not translate directly from memory or from an independently retyped text**. The audited `pages/` records remain the canonical source layer.
+
+## Next exact activity
+
+Create a **source-faithful assembled Tamil reading layer under `works/balipeedam-nokki/sections/`** without altering the audited page files.
+
+Recommended assembly:
+
+1. `sections/01-opening-frame.md` — scans 4–7;
+2. `sections/02-rayasam-vengannu-sequence.md` — scans 8–29, explicitly labeled as an internal sequence of `பலிபீடம் நோக்கி`, not a separate work;
+3. `sections/03-return-and-conclusion.md` — scans 30–33;
+4. `sections/README.md` — explain derivation, page ranges and preservation rules.
+
+Assembly rules:
+
+- derive text only from the audited page files;
+- do not modernize spelling or punctuation;
+- page-boundary joins may be made readable in the assembled layer only when the exact two-page continuity is already verified, while retaining source-page markers/comments so provenance is reversible;
+- preserve the internal scan-8 title card and cinematic vocabulary;
+- do not create separate work-level metadata for `ராயசம் வெங்கண்ணு`;
+- cross-check each assembled section against its source page records before marking assembly complete.
+
+After the assembled Tamil layer passes that check, create an English translation plan and begin translation in controlled batches.
