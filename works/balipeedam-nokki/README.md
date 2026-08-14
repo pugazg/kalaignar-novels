@@ -72,27 +72,28 @@ Working English title: **_Towards the Sacrificial Altar_**.
 | 1 — opening-frame pilot | 4–7 | **reviewed** |
 | 2 — internal title card / Nayak court / battle | 8–13 | **reviewed** |
 | 3 — Alagiri–Vengannu / Sengamaladasan | 14–20 | **reviewed** |
-| 4 — Bijapur–Venkoji / restoration / ministership conflict | 21–26 | **reviewed** |
-| 5 — final internal-film movement | 27–30 through `வணக்கம்` | **NEXT** |
-| 6 — return and conclusion | scan 30 from `படம் முடிந்துவிட்டது...` through 33 | not-started |
+| 4 — Bijapur–Venkoji / restoration / conflict | 21–26 | **reviewed** |
+| 5 — final internal-film movement | 27–30 through `வணக்கம்` | **reviewed** |
+| 6 — return and conclusion | scan 30 from `படம் முடிந்துவிட்டது...` through 33 | **NEXT** |
 
 English artifacts now present:
 
 - [`translations/en/sections/01-opening-frame.md`](translations/en/sections/01-opening-frame.md) — reviewed scans 4–7.
-- [`translations/en/sections/02-rayasam-vengannu-sequence.md`](translations/en/sections/02-rayasam-vengannu-sequence.md) — reviewed coverage scans **8–26**; Batch 5 must be appended to this same file.
+- [`translations/en/sections/02-rayasam-vengannu-sequence.md`](translations/en/sections/02-rayasam-vengannu-sequence.md) — **complete reviewed translation of the internal film**, scans 8–30 through `வணக்கம்`.
 
-### Batch 4 source review
+### Batch 5 source review
 
-Batch 4 was checked against canonical Tamil pages 0021–0026. It preserves:
+Batch 5 was checked against canonical Tamil pages 0027–0030. It preserves:
 
-- Vengannu's appeal to the Sultan of Bijapur and Venkoji's intervention;
-- Alagiri's defeat/death and the temple/reward scenes;
-- Sengamaladasan–Vengannu ministership dispute;
-- the Mahamaham/Kudanthai transition;
-- all dialogue, screen movement and source-page provenance;
-- source oddities such as `மளமள வென்று`, `என்றுன் பேதை!`, `களேபாரப்படுகிறது`, `மன்னுக்கியது`, `தர்ப்பாகூரர்`, `விபரீதத்தை ஏற்கத்`, `தீவணங்குகிறான்`, and `காற்று முறிந்து` without silently changing the Tamil.
+- the Venkoji/Vengannu poisoned-feast intrigue;
+- the Maratha assault and burning Nayak flag;
+- Sengamaladasan's hallucinated thousand Vengannu heads;
+- the explicit `பட்டமும் கட்டும் — பலிபீடத்தையும் காட்டும்` callback;
+- scan 29→30 `அப்படித்` / `தத்தளிக்கிறான்` continuity;
+- `மராட்டிய சாம்ராஜ்யம் உதயம்` and the `வணக்கம்` end-card;
+- the exact intra-page stop before `படம் முடிந்துவிட்டது...`.
 
-`GLOSSARY.md` records the corresponding English decisions.
+Source oddities such as `ஒரு காரணம்!`, `நானுக்கே`, `புலிக்கிர் வீரா`, `வானவாணினம்`, `.????`, `புத்த பூதம்`, and `பசலுக்கு` remain documented rather than silently normalized.
 
 ## Important source readings
 
@@ -107,17 +108,23 @@ Do not silently normalize later:
 - `தர்ப்பாகூரர்`
 - `விபரீதத்தை ஏற்கத்`
 - `ஒரு காரணம்!`
+- `பசலுக்கு`
 
 ## Current status
 
 **Tamil source-preservation layer: PASSED**  
 **Assembled Tamil reading layer: PASSED**  
 **English translation plan: COMPLETE**  
-**English Batches 1–4: REVIEWED**  
+**English Batches 1–5: REVIEWED**  
+**Internal film English translation: COMPLETE + REVIEWED**  
 **Whole-work English translation: IN PROGRESS**
 
 ## அடுத்த செயல்
 
-Proceed with **Batch 5 — scans 27–30 through the internal film's `வணக்கம்` end-card** by appending to the existing `translations/en/sections/02-rayasam-vengannu-sequence.md`.
+Proceed with **Batch 6 — return and conclusion**.
 
-Do not translate the scan-30 text beginning `படம் முடிந்துவிட்டது...` in Batch 5. That exact point begins Batch 6 / `translations/en/sections/03-return-and-conclusion.md`.
+Create `translations/en/sections/03-return-and-conclusion.md` beginning exactly at scan 30:
+
+`படம் முடிந்துவிட்டது. பாடம் கற்றுக்கொண்டீர்களா?`
+
+Continue through scan 33. Do not repeat the `வணக்கம்` end-card. Source-check the completed section against canonical pages `0030`–`0033`, then create a final whole-work `TRANSLATION_REVIEW.md` before marking English `verified`.
