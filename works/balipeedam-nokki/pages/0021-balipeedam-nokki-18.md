@@ -12,7 +12,7 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 வெங்கண்ணுவின் வெற்றிச் சிரிப்போடு காட்சி திடீரெனத் திரும்புகிறது.
 
-பிறைக்கொடி பறந்துகொண்டிருக்கிறது. கொடி நடப்பட்டிருக்கும் உயர்ந்த ஸ்தூபி! அதைப் பின்பற்றி மாளவென்று கோட்டையின் பல பாகங்கள் நகருகின்றன. பேச்சுக்குரல் கேட்கிறது.
+பிறைக்கொடி பறந்துகொண்டிருக்கிறது. கொடி நடப்பட்டிருக்கும் உயர்ந்த ஸ்தூபி! அதைப் பின்பற்றி **[ஒரு குறும் அச்சுச் சொற்றொடர் தெளிவாக வாசிக்கப்படவில்லை]** கோட்டையின் பல பாகங்கள் நகருகின்றன. பேச்சுக்குரல் கேட்கிறது.
 
 வெங்கண்ணு தான் பேசிக்கொண்டிருக்கிறான்.
 
@@ -26,8 +26,9 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 ## Scan observations
 
-- Enlarged visual inspection supports most of the page, but the final words of the long speech are unusually printed; the current direct reading `என்றுன் பேதை!` is retained without contextual correction.
-- Because that phrase requires a later character-level recheck, the page remains `needs-review`.
+- One short phrase between `அதைப் பின்பற்றி` and `கோட்டையின் பல பாகங்கள்` is not sufficiently clear in the scan; it is explicitly left unresolved rather than reconstructed from context.
+- The final words of the long speech are also unusually printed; the current direct reading `என்றுன் பேதை!` is retained without contextual correction.
+- Because these readings require a later character-level recheck, the page remains `needs-review`.
 - Reverse-side bleed-through is visible behind the text.
 
 <!-- மூல ஸ்கேன் பக்கம்: 21; அச்சுப் பக்கம்: 20 -->
