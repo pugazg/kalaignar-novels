@@ -4,9 +4,9 @@ layer: "english-translation"
 section_order: 2
 section_title: "Towards the Sacrificial Altar — Internal Rayasam Vengannu Sequence"
 language: "en"
-source_scans: "8-13 (Batch 2; section continues through scan 30 end-card)"
+source_scans: "8-20 (Batches 2-3; section continues through scan 30 end-card)"
 status: "reviewed"
-derived_from: "audited Tamil pages/0008-0013 and verified assembled Tamil section"
+derived_from: "audited Tamil pages/0008-0020 and verified assembled Tamil section"
 ---
 
 # Rayasam Vengannu
@@ -17,8 +17,8 @@ derived_from: "audited Tamil pages/0008-0013 and verified assembled Tamil sectio
 
 > **Translator's note:** This English translation follows the audited first-edition Tamil source preserved in this repository. It aims to carry Kalaignar's argument, rhetoric, dialogue, historical-cinematic form and political intensity into clear English without modernising or silently correcting the Tamil. The audited Tamil page records remain authoritative. `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` is retained as an internal film-like sequence of `பலிபீடம் நோக்கி`, not treated as a separate work.
 
-**Batch 2 source:** scans 8–13  
-**Canonical Tamil:** [`../../pages/0008-balipeedam-nokki-05.md`](../../pages/0008-balipeedam-nokki-05.md) through [`../../pages/0013-balipeedam-nokki-10.md`](../../pages/0013-balipeedam-nokki-10.md)
+**Current translated coverage:** scans 8–20  
+**Canonical Tamil:** [`../../pages/0008-balipeedam-nokki-05.md`](../../pages/0008-balipeedam-nokki-05.md) through [`../../pages/0020-balipeedam-nokki-17.md`](../../pages/0020-balipeedam-nokki-17.md)
 
 ### Erimalai ‘Release’
 
@@ -148,6 +148,162 @@ She runs... runs... keeps on running. The scene goes dark.
 - Cinematic cues such as “close-up,” screen flashes, background music, scene changes, bracketed action directions, and source sound effects remain visible.
 - The dying speech across scans 12–13 is kept as one continuous quotation; no artificial closure is inserted at the scan boundary.
 
+---
+
+## Batch 3 — Continuation
+
+Again, letters race onto the screen and come to a stop. They read........
+
+The king of Madurai, having brought Thanjavur under his control, sent his younger brother Alagiri to Thanjavur as his representative. Alagiri, who came as the royal representative, developed a desire to seize the rule for himself. The one who stirred that desire was the Vedic priest Vengannu. Vengannu advised him that if tribute were not paid to Madurai, Thanjavur could be brought under their own control, and Alagiri acted accordingly. Madurai too, with its greed already astir, remains careless. At the same time, as fortune upon fortune, a treasure is discovered in the palace. That treasure itself brings Alagiri's rule to an end.
+
+The letters disappear. In the next scene we see a private place in the Thanjavur palace. The ruler and the Vedic priest are seated on seats of equal rank. Smiling, the priest begins the conversation.
+
+“If tribute had been paid this time, we would have had to remain Sokkanathan's slaves. How is my statecraft?”
+
+“Vengannu's word is the word of the Veda. Suppose... Madurai suddenly springs upon us?”
+
+“The tiger is *kilathirukkirathu*. It will not leave its cave for a little while. By then we can strengthen the ranks of our army.”
+
+<!-- source: scan 14; printed page: 13 -->
+
+“Ah... Vengannu's brain—what a brain!... Ideas of every kind sprout at great speed.”
+
+“Otherwise, would the Rayasam profession that we have practised generation after generation survive? Even the fallen Vijayaraghava never fails to give my brain work. Not only I—the Brahmin lineage itself has greater experience in knowledge and in politics.”
+
+“What obstacle could there be?... God's creation itself is like that.”
+
+“Are we not those born from the face? And is not the face nearest to the brain?”
+
+“What doubt is there?... Yes.”
+
+“If an ordinary royal representative is to be made an imperial king, how rare and great the counsel must be!”
+
+“Counsel alone?... You have such concern for Alagiri's welfare. Vengannu!... You must accept my thanks for your help.”
+
+“Only by mouth... only in words—is that all?”
+
+“Vengannu! Ask what you want. You may receive a reward.”
+
+“A king will not break his word, will he?”
+
+<!-- source: scan 15; printed page: 14 -->
+
+“Even if the whole world fails in that, Alagiri will not fail where Vengannu is concerned.”
+
+“Very well... may I ask for the reward I want?”
+
+“Ask without hesitation. It will be given gladly.”
+
+“Pay befitting the labour! What place is there for hesitation in this?”
+
+“It is true that I rose through your labour!... I am not a madman who casts a man aside once his labour has been useful. Ask for what you want.”
+
+“For the help Vibhishana rendered, Sri Rama... gave him Lanka itself, did he not?”
+
+“Yes. Now...”
+
+[Lines appear on Alagiri's face, stirring suspicion.]
+
+“Do not be alarmed that I too will ask for a country like that.”
+
+“You would not ask! You are a good man! I know!”
+
+[A foolish look seems to run over Alagiri's face.]
+
+“With the affection you show me, whatever I ask, you will give! You are a man of such generous thought and unquenchable affection.”
+
+<!-- source: scan 16; printed page: 15 -->
+
+“Mm, ask.”
+
+[There is no light in Alagiri's eyes. His brow bends.]
+
+“The buried treasure! I am the one who discovered it and gave it to you, am I not, Maharaja!”
+
+“Yes.”
+
+[It is unbearable to look at Alagiri now. He looks pitiful.]
+
+“If you give me that, it is enough.”
+
+Having said this, Vengannu looks eagerly at Alagiri's mouth. Alagiri begins to speak. Anger bubbles in his speech. He cannot suppress it. How could he?
+
+“Brahmin! You are becoming greedy. The treasure is for the welfare of the people! I cannot give it.”
+
+Even Vengannu finds courage. He speaks explosively.
+
+“Alagiri!... Arrogance has gone to your head. Do not smother reason in the intoxication of power. I made you king. I made Madurai's slave into a king. Now he speaks with conceit. Besh!”
+
+“Vengannu!... Do not set off empty shots. Let there be restraint in your words.”
+
+“Ungrateful man! You have not understood Aryanism properly. It is fire. Do not come near—”
+
+<!-- source: scan 17; printed page: 16 -->
+
+“Do not provoke anger. The prison will be opened.”
+
+“Alagiri! Here, I have calculated your horoscope. Your rule is going to perish in a short life. Vengannu is an earthquake. Caught in it, you are going to die.”
+
+Vengannu turns in fury. Alagiri, who had stood motionless, laughs “kada-kada.” Following the sound of that laughter, a picture is shown.
+
+It is a picture of Cheran Senguttuvan standing with his head bowed before Matalavaraiyan. Vengannu stares at it. A terrifying flash blazes across the screen. The scene changes. White sand on a seashore. Great waves kiss it and roll back. Long streets. Dutchmen and Portuguese walk along the streets. In this way many places keep running through the scene. A bazaar street is shown. One signboard in particular:
+
+“Fine reds for sale  
+Nallavenna Chetti Shop  
+Nagai.”
+
+The scene rolls again, and at last a street corner appears. A beautiful house. Vengannu enters it. The outside of the house disappears. Inside.... Vengannu is speaking with a woman.
+
+<!-- source: scan 18; printed page: 17 -->
+
+“All I knew earlier was that Sengamaladasan was being raised by a Chetti woman! I did not know that the lady was you... God himself has shown you to me.”
+
+Before Vengannu finishes speaking, the Chetti woman's husband and a young man enter. Vengannu runs eagerly to the youth, embraces him and weeps. His face reveals that his weeping is mere pretence. Vengannu lets fall words of sorrow.
+
+“Prince!... my dear!... You are alive—that is enough, son!... Your father became prey to the spear. Your mother became prey to fire. Your Thanjavur land... has become prey to the *thegidu thaththakkar*. At least now, come—to make the country prosper, to bring welfare to the people, and to rule the golden realm you lost!...”
+
+The young man looks up in surprise. “Amma!” he says, looking at her face. Tears of joy flow from her too as she touches his face.
+
+“Younger brother! I am not your mother. You are the grandson of King Vijayaraghava, the son of Mannaru Nayak. When the Thanjavur fort was baking in flame... your mother killed herself on hearing the news that your grandfather and father had died. Then she placed you in my hands and said, ‘He is the one entitled to the crown. Keep him safe—
+
+<!-- source: scan 19; printed page: 18 -->
+
+—’ and gave me this bag of sovereigns too, so that I might raise you.”
+
+The Chetti woman takes a bag of sovereigns from a box and shows it to Sengamaladasan.
+
+Sengamaladasan's head rises with majesty. A new light in his eyes. A warrior's breath!....
+
+“Has the land of my fathers gone away from me?”
+
+The prince asks sorrowfully. Anger too is mixed in it—like mute sunlight!
+
+“This servant has set out to win back your country for you. Sengamaladasa!...... Come with me.”
+
+Vengannu calls him. Sengamalam bows to his foster parents. A smile curls at the edge of the foster father's lips.
+
+“O great Brahmin!...... If a kingdom is to be seized, a vast army of men, chariots and horses—everything is needed. Do not needlessly sacrifice the young Sengamalam.”
+
+The father pleads as he sounds his warning.
+
+“There is a mighty army. I have arranged everything. Alagiri will be finished.”
+
+<!-- source join: scan 19 ends `பாது`; scan 20 begins `காத்துக்கொள்` -->
+<!-- source: scan 20; printed page: 19 -->
+
+## Batch 3 translation notes
+
+- Batch 3 remains part of the **same internal cinematic sequence** and has been appended to this same file.
+- `கப்பம்` is translated as **tribute**; `ராஜதந்திரம்` as **statecraft** in this political-intrigue context.
+- The verified source forms `கிளந்திருந்த` and `கிளத்திருக்கிறது` are not silently normalized. The first receives the cautious contextual rendering **“with its greed already astir”**; the second is retained as **_kilathirukkirathu_** because its exact lexical force is not secure from the printed form alone.
+- `மன்னனுக்கினேன்` is a source-specific compressed form. The English renders the surrounding sense as **“I made Madurai's slave into a king”** without altering the canonical Tamil.
+- `வெத்துவேட்டுக்கள்` is rendered **“empty shots”** to preserve the source's explosive verbal metaphor rather than turning it into a neutral warning.
+- The three-line Nagai shop sign is retained as a distinct on-screen textual unit; `சிகப்புக்கள்` is rendered literally as **“reds”** rather than supplied with an unprinted commodity.
+- `தெகிடு தத்தக்கார்களுக்கு` is retained as **_thegidu thaththakkar_** because the source expression is unusual and should not be silently assigned a modern lexical meaning.
+- `முகத்தமிடுகிறாள்` is an unusual verified source form. The English uses the cautious contextual **“touches his face”** and records the exact Tamil form in the glossary rather than silently correcting it to a more familiar verb.
+- `ஊமை வெயில் போல!` is retained as the striking source metaphor **“like mute sunlight!”** rather than rationalised into an explanatory comparison.
+- The scan 19→20 quotation and `பாது` / `காத்துக்கொள்` continuity are kept intact.
+
 ## Section continuation
 
-This English section is intentionally incomplete at the work level. Batch 3 will continue the same internal cinematic sequence from scan 14; it must be appended to this same file rather than creating another work or another internal-sequence identity.
+This English section remains incomplete at the work level. Batch 4 will continue the same internal cinematic sequence from scans 21–26 and must be appended to this same file.
