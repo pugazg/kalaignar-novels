@@ -1,6 +1,6 @@
 # English Translation Glossary — பலிபீடம் நோக்கி
 
-This glossary records translation choices locked through Batch 5 review. It is a translation-consistency aid; it does **not** alter or normalize the canonical Tamil `pages/` layer.
+This glossary records translation choices locked through Batch 6 review. It is a translation-consistency aid; it does **not** alter or normalize the canonical Tamil `pages/` layer.
 
 ## Locked core terms
 
@@ -15,7 +15,8 @@ This glossary records translation choices locked through Batch 5 review. It is a
 | `தன்மானம்` | **self-respect** in movement/political contexts; **dignity** only where syntax requires | ideological usage locked as self-respect |
 | `மறம்` | **valour / martial valour** | preserve martial force |
 | `கொற்றம்` | **triumph** | used with `மறம்` in rhetorical pair |
-| `பகுத்தறிவு` | **rationalism / reason** according to syntax | later conclusion must retain movement-era force |
+| `பகுத்தறிவு` | **rationalism / reason** according to syntax | preserve movement-era force |
+| `பகுத்தறிவுச் சம்மட்டி` | **hammer of rationalism** | preserve the concluding weapon/tool metaphor |
 | `யாகசாலை` | **sacrificial hall** | preserve sacrificial frame |
 | `அஸ்திரம்` | **weapon** | retain `astra` only if later register requires it |
 | `வேதியர்` | **Vedic priest** where used as character/social designation | do not silently substitute a different caste title |
@@ -30,6 +31,11 @@ This glossary records translation choices locked through Batch 5 review. It is a
 | `விசுவரூப` | **Visvarupa** | retain source cinematic/religious metaphor without explanatory expansion in prose |
 | `மராட்டிய சாம்ராஜ்யம் உதயம்` | **Rise of the Maratha Empire** | preserve as on-screen end-frame text |
 | `வணக்கம்` | **Vanakkam** | retain as source-printed internal-film end-card rather than converting to ordinary dialogue |
+| `மனுதர்மம்` | **Manudharma** | retain source ideological/religious term; do not insert an external legal-history gloss into prose |
+| `சூத்திரர்` | **Shudras** | retain historical caste term |
+| `சேரி` | **cheri** | retain source social-spatial term in the conclusion rather than flattening it to a generic neighbourhood |
+| `இந்துமதக் கொடுவாள்` | **cruel sword of Hinduism** | preserve repeated polemical weapon metaphor |
+| `மதக்கொடுவாள்` | **cruel sword of religion** | preserve continuity with the preceding weapon metaphor |
 
 ## Names and source forms
 
@@ -41,10 +47,10 @@ This glossary records translation choices locked through Batch 5 review. It is a
 | `வெங்கண்ணு` | **Vengannu** | mandatory; do not change to Venganna |
 | `ஆரியவர்த்தம்` | **Aryavarta** | source-appropriate transliteration |
 | `வைகுண்டம்` | **Vaikuntha** | retain cultural/religious name |
-| `விசயராகவன் / விசயராகவ` | **Vijayaraghava** | one English name form; source variation remains in Tamil |
+| `விசயராகவன் / விசயராகவ` | **Vijayaraghava** | one English form; source variation remains in Tamil |
 | `மன்னரு நாயக்கன்` | **Mannaru Nayak** | conservative readable form |
 | `குமார தாத்தாச்சார்யா` | **Kumar Tatacharya** | conservative readable form |
-| `சொக்கநாத நாயக்கன்` | **Sokkanatha Nayak** | conservative readable form |
+| `சொக்கநாத நாயக்கன்` | **Sokkanatha Nayak** | conservative transliteration |
 | `செங்கமலதாசன் / செங்கமலம்` | **Sengamaladasan / Sengamalam** | follow source-facing form in immediate sentence; do not treat as different characters |
 | `அழகிரி` | **Alagiri** | stable source-facing form |
 | `வெங்காஜி` | **Venkoji** | stable readable form in English; canonical Tamil remains `வெங்காஜி` |
@@ -211,6 +217,28 @@ Scan 30 prints this unusual form in `அந்தப் பசலுக்கு
 
 Treat as one continuous sentence across the page boundary. Do not close or restart the action artificially at the scan break.
 
+## Batch 6 source terms / oddities
+
+### `காமராஜர்கள் / கலியாணசுந்தரங்கள் / நாமக்கல்லார்கள்`
+
+The source uses pluralized forms. English keeps them conservatively as **the Kamarajs, the Kalyanasundarams and the Namakkallars** rather than silently resolving them into externally identified individuals.
+
+### `வெட்டப்பட்டட்டும் / கிழித்தெறியப்பட்டட்டும் / கழிக்கப்பட்டட்டும்`
+
+These unusual scan-31 imperative/passive forms are source-verified. English conveys the immediate imperatives **be severed / be torn and flung / be severed** without rewriting the canonical Tamil into expected grammar.
+
+### `செருப்பாண்டாலும் சரி`
+
+English uses the literal, source-bound **“even if a sandal rules, so be it”**. Do not insert an explanatory Ramayana interpretation into the translated prose.
+
+### `படார்.. படார்..`
+
+Retain as **padaar.. padaar..** in the destruction image. Do not replace it with an invented English sound effect.
+
+### closing `வாள்`
+
+The closing verse visibly repeats `வாள்`. English preserves the repeated **Sword** rather than silently smoothing the verse.
+
 ## Cinematic vocabulary and form
 
 The internal `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` title card is always an **internal sequence** of the one work.
@@ -226,10 +254,10 @@ Locked handling:
 - `குளோசப்` → **close-up**
 - printed bracketed directions remain bracketed in English
 - screen flashes, background music, scene movement and sound effects remain visible
-- source onomatopoeia is transliterated where practical (`குபீர்`, `கட கடா`, `டக்டக்`, `கல கல`, `சட சட`, `சர்`, `கட கட`, `டான் டான்`)
+- source onomatopoeia is transliterated where practical (`குபீர்`, `கட கடா`, `டக்டக்`, `கல கல`, `சட சட`, `சர்`, `கட கட`, `டான் டான்`, `படார்`)
 - on-screen textual units such as the Nagai shop sign remain visually distinct
 - source place-name shifts such as `கும்பகோணம்` / `குடந்தை` remain visible rather than being flattened everywhere to one form
-- scan 30's `வணக்கம்` is the exact stopping boundary of the internal-film English section; `படம் முடிந்துவிட்டது...` belongs to the return/conclusion section
+- scan 30's `வணக்கம்` is the exact stopping boundary of the internal-film English section; `படம் முடிந்துவிட்டது...` begins the return/conclusion section
 
 ## Rhetoric and form
 
@@ -238,7 +266,7 @@ Locked handling:
 - Open quotations across scan boundaries remain open until the source closes them.
 - Film/title-card formatting must never imply a separate work identity.
 - Source metaphors that sound strange in English should remain strange where that strangeness is source-supported.
-- Explicit caste/religious claims spoken by characters remain attributed to those characters; the translation must not turn them into editorial narration.
+- Explicit caste/religious claims spoken by characters or narrator remain attributed to the source voice; the translation must not add present-day endorsement, condemnation or explanatory claims.
 
 ## Political / religious language
 
@@ -250,6 +278,7 @@ The translation reports Kalaignar's historical rhetoric as written. It does not 
 **Batch 2 new-term review: COMPLETE.**  
 **Batch 3 new-term review: COMPLETE.**  
 **Batch 4 new-term review: COMPLETE.**  
-**Batch 5 new-term review: COMPLETE.**
+**Batch 5 new-term review: COMPLETE.**  
+**Batch 6 new-term review: COMPLETE.**
 
-Later batches may add terms, but locked choices should change only if a documented consistency review finds a concrete contradiction in the source.
+All batch-level terminology decisions are now recorded. Any changes from this point must arise from the documented final whole-work bilingual `TRANSLATION_REVIEW.md`.
