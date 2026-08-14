@@ -6,16 +6,38 @@
 **Source scan:** 34 pages  
 **Source PDF in repository:** No
 
-## இந்த scanned publication-ன் அமைப்பு
+## இந்த நூலின் அமைப்பு
 
-இந்த source ஒரு தனிப் பெயருடைய publication ஆக இருந்தாலும் அதன் உள்ளே இரண்டு முக்கிய textual units உள்ளன:
+**`பலிபீடம் நோக்கி` ஒரே தொடர்ச்சியான படைப்பு.**
 
-1. **பலிபீடம் நோக்கி** — scans 4–7
-2. **ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை** — scans 8–33
+முன்னர் scans 4–7-ஐ `பலிபீடம் நோக்கி` என்றும் scans 8–33-ஐ `ராயசம் வெங்கண்ணு` என்ற தனி textual entity என்றும் பிரித்தது தவறு. முழு scan-ஐ வாசித்தபின் source continuity தெளிவாகிறது: scan 8-ல் வரும் **`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`** என்பது இந்த நூலுக்குள் கலைஞர் பயன்படுத்தும் **திரைப்படம் போல அமைக்கப்பட்ட வரலாற்றுக் காட்சி / illustrative sequence**.
 
-Direct inspection of scan 8 confirms the printed title as `ராயசம் வெங்கண்ணு`. Earlier working references to `ராயசம் வெங்கண்ணா` have been corrected rather than normalized into the archive.
+### Narrative flow
 
-`ராயசம் வெங்கண்ணு` தொடக்கத்தில் cinema-style credits source-லேயே அச்சிடப்பட்டுள்ளன. அவற்றை prose/category normalization இன்றி source text போலவே பாதுகாக்க வேண்டும்.
+1. **Scans 4–7 — தொடக்கச் சிந்தனை / frame**  
+   சேரன் செங்குட்டுவன், யாகம், ஆரியம், தன்மானம், `பலிபீடம்` ஆகிய உருவகங்களின் வழியாக நூலின் மைய வாதம் அமைக்கப்படுகிறது.
+
+2. **Scan 7 — திரைப்படக் காட்சிக்கான நேரடி மாற்றம்**  
+   narrator `வேதியர் வெங்கண்ணு! திரைப் படமாக உருப்பெற்றிருக்கிறார்... படக்காட்சி ஆரம்பமாகிறது பாருங்கள். படம் உங்களுக்கு ஒரு பாடம் தரட்டும்.` என்று சொல்கிறார். இதுவே அடுத்த பகுதி தனி நூல் அல்ல; அதே வாதத்துக்குள் காட்டப்படும் ஒரு காட்சி என்பதற்கான முக்கிய source evidence.
+
+3. **Scans 8–29 — embedded cinematic-historical sequence**  
+   scan 8-ல் source-printed title card `ராயசம் வெங்கண்ணு`, subtitle `தஞ்சை சரித்திரக் கதை`, `எரிமலை 'ரிலீஸ்'`, direction/screenplay/dialogue credits ஆகியவை வருகின்றன. அதன் பின்னர் தஞ்சை வரலாற்று நிகழ்வு திரைப்பட narration, dialogue, scene/action description போல நகர்கிறது.
+
+4. **Scan 30 — frame-க்கு திரும்புதல்**  
+   `படம் முடிந்துவிட்டது. பாடம் கற்றுக்கொண்டீர்களா? பலிபீடம் நோக்க...` என்று narrator நேரடியாக internal film-இலிருந்து வெளியேறி `பலிபீடம்` வாதத்துக்குத் திரும்புகிறார்.
+
+5. **Scans 31–33 — முடிவுரை**  
+   சமூக / மத / அரசியல் தாக்கத்துடன் direct address தொடர்கிறது; `பலிபீடம்` உருவகம் மீண்டும் மையமாகி நூல் முடிகிறது.
+
+எனவே repository-யில் ஒரே work identity மட்டும் பயன்படுத்த வேண்டும்:
+
+```text
+work: balipeedam-nokki
+```
+
+`ராயசம் வெங்கண்ணு` தனி work அல்ல. அதன் அச்சுத் தலைப்பை இழக்காமல் பாதுகாக்க `section` / internal-sequence label ஆக மட்டும் பதிவு செய்யப்படும்.
+
+Direct inspection of scan 8 reads the printed heading as `ராயசம் வெங்கண்ணு`; source transcription-ல் அந்த வடிவமே பாதுகாக்கப்படும்.
 
 ## Source registration
 
@@ -33,20 +55,19 @@ Direct inspection of scan 8 confirms the printed title as `ராயசம் �
 |---|---|
 | Source identity / checksum | complete |
 | Full 34-page manifest | complete |
+| Full-work structural review | **complete** |
 | scan 1 cover | verified |
 | scan 2 title page | verified |
 | scan 3 publisher note | needs-review |
-| scans 4–7 — `பலிபீடம் நோக்கி` | **complete + verified** |
+| scans 4–7 — opening segment | **complete + verified** |
 | scans 8–34 | not-started |
 | Page records created | **7 / 34** |
-| Tamil transcription audit | first textual unit complete; full source incomplete |
+| Tamil transcription audit | opening segment complete; full work incomplete |
 | English translation | blocked until complete Tamil audit |
 
 Page-level status: [`indexes/page-map.md`](indexes/page-map.md).
 
-## Completed batch — scans 4–7
-
-The complete `பலிபீடம் நோக்கி` textual unit has been transcribed page by page and directly checked against enlarged source-page renders.
+## Completed transcription batch — scans 4–7
 
 Source-supported forms deliberately preserved include:
 
@@ -65,12 +86,13 @@ Publisher's note has one short phrase in its final paragraph that is not yet suf
 
 ## அடுத்த செயல்
 
-Process scans **8–12** as the first `ராயசம் வெங்கண்ணு` batch:
+Continue **the same `பலிபீடம் நோக்கி` novel** with scans **8–12**:
 
-- scan 8 title, subtitle, release/credit lines and rights line must be verified character by character;
-- transcribe scans 8–12 page by page;
+- create continuous page files `0008-balipeedam-nokki-05.md` through `0012-balipeedam-nokki-09.md`;
+- scan 8's internal `ராயசம் வெங்கண்ணு` title card, subtitle, release/credit lines and rights line must be verified character by character;
+- every page must retain `work: "balipeedam-nokki"`;
+- `section` may identify the internal `ராயசம் வெங்கண்ணு` cinematic-historical sequence;
 - preserve cinematic narration, dialogue, scene descriptions, punctuation, historical spellings and source-specific naming;
-- keep non-text marks separate from printed text;
 - after direct visual comparison, update this README, page map and `HANDOVER.md`.
 
 English translation must not begin yet.
