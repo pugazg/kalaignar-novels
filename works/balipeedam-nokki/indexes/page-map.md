@@ -13,11 +13,11 @@ Source: `TVA_BOK_0065570_பலிபீடம்_நோக்கி.pdf`
 | 5 | 4 | `பலிபீடம் நோக்கி` | verified | `pages/0005-balipeedam-nokki-02.md` |
 | 6 | 5 | `பலிபீடம் நோக்கி` | verified | `pages/0006-balipeedam-nokki-03.md` |
 | 7 | 6 | `பலிபீடம் நோக்கி` — transition into film-like historical illustration | verified | `pages/0007-balipeedam-nokki-04.md` |
-| 8 | — | `பலிபீடம் நோக்கி` — internal title card: `ராயசம் வெங்கண்ணு / தஞ்சை சரித்திரக் கதை` | not-started | `pages/0008-balipeedam-nokki-05.md` |
-| 9 | 8 | embedded `ராயசம் வெங்கண்ணு` sequence | not-started | `pages/0009-balipeedam-nokki-06.md` |
-| 10 | 9 | embedded `ராயசம் வெங்கண்ணு` sequence | not-started | `pages/0010-balipeedam-nokki-07.md` |
-| 11 | 10 | embedded `ராயசம் வெங்கண்ணு` sequence | not-started | `pages/0011-balipeedam-nokki-08.md` |
-| 12 | 11 | embedded `ராயசம் வெங்கண்ணு` sequence | not-started | `pages/0012-balipeedam-nokki-09.md` |
+| 8 | — | internal title card: `ராயசம் வெங்கண்ணு / தஞ்சை சரித்திரக் கதை` | verified | `pages/0008-balipeedam-nokki-05.md` |
+| 9 | 8 | embedded `ராயசம் வெங்கண்ணு` sequence | verified | `pages/0009-balipeedam-nokki-06.md` |
+| 10 | 9 | embedded `ராயசம் வெங்கண்ணு` sequence | needs-review | `pages/0010-balipeedam-nokki-07.md` |
+| 11 | 10 | embedded `ராயசம் வெங்கண்ணு` sequence | verified | `pages/0011-balipeedam-nokki-08.md` |
+| 12 | 11 | embedded `ராயசம் வெங்கண்ணு` sequence | verified | `pages/0012-balipeedam-nokki-09.md` |
 | 13 | 12 | embedded `ராயசம் வெங்கண்ணு` sequence | not-started | `pages/0013-balipeedam-nokki-10.md` |
 | 14 | 13 | embedded `ராயசம் வெங்கண்ணு` sequence | not-started | `pages/0014-balipeedam-nokki-11.md` |
 | 15 | 14 | embedded `ராயசம் வெங்கண்ணு` sequence | not-started | `pages/0015-balipeedam-nokki-12.md` |
@@ -44,10 +44,10 @@ Source: `TVA_BOK_0065570_பலிபீடம்_நோக்கி.pdf`
 ## கணக்கு
 
 - Source scan pages: **34**
-- Page records created: **7 / 34**
-- `verified`: **6**
-- `needs-review`: **1**
-- `not-started`: **27**
+- Page records created: **12 / 34**
+- `verified`: **10**
+- `needs-review`: **2**
+- `not-started`: **22**
 - PDF stored in repository: **No**
 
 ## Numbering note
@@ -64,7 +64,7 @@ The earlier manifest incorrectly described scans 4–7 as a complete textual uni
 4. **Scan 30:** `படம் முடிந்துவிட்டது. பாடம் கற்றுக்கொண்டீர்களா? பலிபீடம் நோக்க...` — explicit return from the internal film to the main argument.
 5. **Scans 31–33:** concluding direct address, ending the same `பலிபீடம் நோக்கி` work.
 
-Accordingly, every body page now uses one continuous `balipeedam-nokki` filename sequence. `ராயசம் வெங்கண்ணு` remains only an internal section label preserving the printed title card.
+Accordingly, every body page uses one continuous `balipeedam-nokki` filename sequence. `ராயசம் வெங்கண்ணு` remains only an internal section label preserving the printed title card.
 
 ## Verification completed — scans 4–7
 
@@ -78,16 +78,27 @@ Notable source-faithful readings preserved during verification include:
 - scan 6 → 7 page break: `உதிர` + `ஆறுகளைப் பாருங்கள்`;
 - scan 7: printed star ornament preserved.
 
-## Review note — scan 3
+## Completed batch — scans 8–12
 
-The publisher-note page has been transcribed without guessing, but one short phrase in the final paragraph remains unresolved and is explicitly marked in `pages/0003-publisher-note.md`. The page therefore remains `needs-review`.
+Scans 8–12 have now been transcribed as the continuing `பலிபீடம் நோக்கி` work.
+
+- scan 8: internal title card and credits verified, including `ராயசம் வெங்கண்ணு`, `தஞ்சை சரித்திரக் கதை`, `எரிமலை ‘ரிலீஸ்’`, and `விநியோக உரிமை`;
+- scan 9: darbar introduction and dialogue verified;
+- scan 10: transcription complete but remains `needs-review` because the visually unusual source form currently read as `மித்தானமத்தனுக்குக்` should receive one more character-level check rather than being normalized;
+- scan 11: battle sequence and bracketed cinematic direction verified;
+- scan 12: battle climax and the beginning of Vijay Raghava's dying speech verified; its final quotation continues to scan 13.
+
+## Review notes
+
+- **scan 3:** one short phrase in the publisher's note remains unresolved and is explicitly marked in `pages/0003-publisher-note.md`.
+- **scan 10:** `மித்தானமத்தனுக்குக்` is retained as the current direct reading of the unusual printed form; page remains `needs-review` pending later audit.
 
 ## அடுத்த batch
 
-Continue the same novel with scans **8–12**:
+Continue the same novel with scans **13–17**:
 
-1. verify scan 8's internal title card, subtitle, release/credit lines and rights line exactly as printed;
-2. create `pages/0008-balipeedam-nokki-05.md` through `pages/0012-balipeedam-nokki-09.md`;
-3. preserve cinematic narration, dialogue, scene descriptions, punctuation and historical spellings without normalization;
-4. keep `work: "balipeedam-nokki"` for every page; use `section` only to identify the embedded `ராயசம் வெங்கண்ணு` sequence;
+1. continue the open quotation from scan 12 onto scan 13 without reconstructing missing text;
+2. create `pages/0013-balipeedam-nokki-10.md` through `pages/0017-balipeedam-nokki-14.md`;
+3. keep `work: "balipeedam-nokki"` throughout and use `section` only for the embedded cinematic-historical sequence;
+4. preserve dialogue, stage/action description, punctuation, historical spellings and any handwritten/non-text marks separately;
 5. update this manifest, work README and `HANDOVER.md` after direct visual comparison.
