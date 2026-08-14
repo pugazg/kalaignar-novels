@@ -14,21 +14,30 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | 34-page manifest complete; 7/34 page records; scans 4–7 textual unit complete + verified |
+| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | full-work structural review complete; 34-page manifest; 7/34 page records; scans 4–7 verified |
 
-இந்த scan-இல் `பலிபீடம் நோக்கி`க்கு பின்பு source-ல் அச்சிடப்பட்ட தலைப்பின்படி **`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`** இடம்பெறுகிறது. இரண்டும் ஒரே scanned publication-ன் பகுதிகளாக source identity-யுடன் பாதுகாக்கப்படும்.
+### முக்கிய structural note
+
+`பலிபீடம் நோக்கி` **ஒரே தொடர்ச்சியான படைப்பு**. Scan 8-ல் வரும் source-printed **`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`** தனி work அல்ல; நூலின் மைய வாதத்தை எடுத்துக்காட்ட கலைஞர் திரைப்பட வடிவில் அமைத்துள்ள embedded historical sequence.
+
+Source continuity:
+
+- scan 7 — narrator திரைப்படக் காட்சியைத் தானே அறிமுகப்படுத்துகிறார்;
+- scans 8–29 — அந்த cinematic-historical sequence;
+- scan 30 — `படம் முடிந்துவிட்டது... பலிபீடம் நோக்க...` என்று main frame-க்கு நேரடியாகத் திரும்புகிறது;
+- scans 31–33 — `பலிபீடம்` argument-ன் conclusion.
+
+அதனால் scans 4–33 அனைத்தும் ஒரே `work: balipeedam-nokki` identity-யின் கீழ் archive செய்யப்படும். `ராயசம் வெங்கண்ணு` source heading ஒரு internal `section` label ஆக மட்டும் பாதுகாக்கப்படும்.
 
 ### தற்போதைய page status
 
 - scan 1 — `verified`
 - scan 2 — `verified`
 - scan 3 — `needs-review` (ஒரு குறும் சொற்றொடர் unresolved; ஊகித்து நிரப்பப்படவில்லை)
-- scans 4–7 — `verified`; `பலிபீடம் நோக்கி` textual unit complete
+- scans 4–7 — `verified`; opening segment complete
 - scans 8–34 — `not-started`
 
-Direct inspection of scan 8 corrected the earlier working title `ராயசம் வெங்கண்ணா` to the source-printed **`ராயசம் வெங்கண்ணு`**.
-
-அடுத்த batch: **scans 8–12**, first `ராயசம் வெங்கண்ணு` batch.
+அடுத்த batch: **scans 8–12**, continuing the same `பலிபீடம் நோக்கி` work.
 
 ## களஞ்சிய அமைப்பு
 
