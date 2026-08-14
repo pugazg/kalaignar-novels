@@ -12,7 +12,7 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 Tamil verified; assembled Tamil PASSED; English Batches 1–6 reviewed; final bilingual review next** |
+| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **Tamil 34/34 verified; assembled Tamil PASSED; English whole-work VERIFIED** |
 
 ### முக்கிய structural note
 
@@ -21,9 +21,9 @@
 Source continuity:
 
 - scans 4–7 — opening `பலிபீடம்` frame;
-- scan 7 — narrator internal film-ஐ அறிமுகப்படுத்துகிறார்;
-- scans 8–29 + scan 30 opening — `ராயசம் வெங்கண்ணு` cinematic sequence, `வணக்கம்` end-card வரை;
-- scan 30 — `படம் முடிந்துவிட்டது...` என்று main frame-க்கு திரும்புதல்;
+- scan 7 — internal film introduction;
+- scans 8–29 + scan 30 opening — `ராயசம் வெங்கண்ணு` sequence through `வணக்கம்`;
+- scan 30 — `படம் முடிந்துவிட்டது...` return to the main frame;
 - scans 31–33 — conclusion;
 - scan 34 — blank/back matter.
 
@@ -36,25 +36,26 @@ Source continuity:
 - English translation plan — **COMPLETE**
 - English Batches 1–6 — **reviewed**
 - English body-text coverage — **scans 4–33 complete**
-- Internal `ராயசம் வெங்கண்ணு` English sequence — **COMPLETE + REVIEWED**
-- English return/conclusion — **COMPLETE + REVIEWED**
-- Whole-work English `verified` — **No; final bilingual review pending**
+- final bilingual alignment — **PASSED**
+- whole-work English — **VERIFIED**
 - source PDF in repository — **No**
 
 Key files:
 
 - [`works/balipeedam-nokki/audit.md`](works/balipeedam-nokki/audit.md)
 - [`works/balipeedam-nokki/sections/README.md`](works/balipeedam-nokki/sections/README.md)
+- [`works/balipeedam-nokki/translations/en/README.md`](works/balipeedam-nokki/translations/en/README.md)
 - [`works/balipeedam-nokki/translations/en/TRANSLATION_PLAN.md`](works/balipeedam-nokki/translations/en/TRANSLATION_PLAN.md)
 - [`works/balipeedam-nokki/translations/en/PROGRESS.md`](works/balipeedam-nokki/translations/en/PROGRESS.md)
 - [`works/balipeedam-nokki/translations/en/GLOSSARY.md`](works/balipeedam-nokki/translations/en/GLOSSARY.md)
+- [`works/balipeedam-nokki/translations/en/TRANSLATION_REVIEW.md`](works/balipeedam-nokki/translations/en/TRANSLATION_REVIEW.md)
 - [`works/balipeedam-nokki/translations/en/sections/01-opening-frame.md`](works/balipeedam-nokki/translations/en/sections/01-opening-frame.md)
 - [`works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md`](works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md)
 - [`works/balipeedam-nokki/translations/en/sections/03-return-and-conclusion.md`](works/balipeedam-nokki/translations/en/sections/03-return-and-conclusion.md)
 
-English Batch 6 starts exactly inside scan 30 at `படம் முடிந்துவிட்டது...` and runs through scan 33. The internal film's preceding `வணக்கம்` remains only in section 2, so the source's narrative boundary is preserved without duplication.
+The final bilingual review confirms complete source coverage, preservation of the scan-30 film/main-frame boundary, stable recurring terminology, no material omission/addition, and source-bound handling of difficult printed forms.
 
-அடுத்த activity: **final whole-work bilingual review**. Create `works/balipeedam-nokki/translations/en/TRANSLATION_REVIEW.md`, align all three English sections against the audited Tamil source, and only then decide whether English can be marked `verified`.
+அடுத்த activity: **release readiness** — create `works/balipeedam-nokki/translations/en/RELEASE_REPORT.md`, verify reader-facing navigation and final status synchronization, and record the completed Tamil + English release inventory.
 
 ## களஞ்சிய அமைப்பு
 
@@ -76,6 +77,7 @@ works/
         TRANSLATION_PLAN.md
         PROGRESS.md
         GLOSSARY.md
+        TRANSLATION_REVIEW.md
         sections/
           01-opening-frame.md
           02-rayasam-vengannu-sequence.md
