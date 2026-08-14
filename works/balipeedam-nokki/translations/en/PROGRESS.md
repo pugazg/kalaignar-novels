@@ -6,13 +6,13 @@
 |---|---|---|---|
 | 1 — pilot | scans 4–7 | `sections/01-opening-frame.md` | **reviewed** |
 | 2 | scans 8–13 | `sections/02-rayasam-vengannu-sequence.md` | **reviewed** |
-| 3 | scans 14–20 | same | **NEXT** |
-| 4 | scans 21–26 | same | not-started |
+| 3 | scans 14–20 | same | **reviewed** |
+| 4 | scans 21–26 | same | **NEXT** |
 | 5 | scans 27–30 through `வணக்கம்` end-card | same | not-started |
 | 6 | scan 30 from `படம் முடிந்துவிட்டது...` through scan 33 | `sections/03-return-and-conclusion.md` | not-started |
 
 **Whole-work English status:** in progress  
-**Highest completed gate:** Batches 1–2 `reviewed`  
+**Highest completed gate:** Batches 1–3 `reviewed`  
 **Whole-work `verified`:** no — final bilingual alignment remains required after all batches.
 
 ## Batch 1 — pilot
@@ -25,86 +25,108 @@ The pilot was checked against canonical pages 0004–0007. No substantive paragr
 
 ## Batch 2 — internal title card / Nayak court / battle
 
+Source: scans **8–13**.  
+Artifact: `sections/02-rayasam-vengannu-sequence.md`.  
+Status: **reviewed**.
+
+Batch 2 was checked against canonical pages 0008–0013. No substantive paragraph, dialogue turn, action direction or cinematic unit was omitted. The internal title card, film-credit order, battle sequence, Vijayaraghava dying speech and Sengamaladasan escape were preserved. Source oddities `மித்தானமத்தனுக்குக்` and `முச்சுற்றுப்படுத்திருக்கும்` remain explicitly documented rather than guessed.
+
+## Batch 3 — Alagiri–Vengannu / Sengamaladasan
+
 ### Source
 
-- scan 8 / printed page not visible
-- scan 9 / printed page 8
-- scan 10 / printed page 9
-- scan 11 / printed page 10
-- scan 12 / printed page 11
-- scan 13 / printed page 12
+- scan 14 / printed page 13
+- scan 15 / printed page 14
+- scan 16 / printed page 15
+- scan 17 / printed page 16
+- scan 18 / printed page 17
+- scan 19 / printed page 18
+- scan 20 / printed page 19
 
 Canonical Tamil page records:
 
-- `../../pages/0008-balipeedam-nokki-05.md`
-- `../../pages/0009-balipeedam-nokki-06.md`
-- `../../pages/0010-balipeedam-nokki-07.md`
-- `../../pages/0011-balipeedam-nokki-08.md`
-- `../../pages/0012-balipeedam-nokki-09.md`
-- `../../pages/0013-balipeedam-nokki-10.md`
+- `../../pages/0014-balipeedam-nokki-11.md`
+- `../../pages/0015-balipeedam-nokki-12.md`
+- `../../pages/0016-balipeedam-nokki-13.md`
+- `../../pages/0017-balipeedam-nokki-14.md`
+- `../../pages/0018-balipeedam-nokki-15.md`
+- `../../pages/0019-balipeedam-nokki-16.md`
+- `../../pages/0020-balipeedam-nokki-17.md`
 
 English artifact:
 
 `sections/02-rayasam-vengannu-sequence.md`
 
+Batch 3 was **appended to the same internal-sequence file**; no new work or new section identity was created.
+
 ### Coverage
 
-Batch 2 translates:
+Batch 3 translates:
 
-- the internal `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` title card;
-- `எரிமலை ‘ரிலீஸ்’` and film-credit language;
-- palanquin / Kumar Tatacharya entrance;
-- Vijayaraghava–Mannaru–guru marriage/war discussion;
-- the blessing and transition into battle;
-- Mannaru's death and the fall of Vijayaraghava and his queen;
-- Vijayaraghava's dying speech across scans 12→13;
-- the inner-palace fire sequence and escape of the child Sengamaladasan.
+- the on-screen text explaining Madurai's conquest of Thanjavur and Alagiri's appointment;
+- Vengannu's strategy to stop paying tribute and strengthen Alagiri's independent rule;
+- Alagiri–Vengannu dialogue about statecraft, Brahmin lineage, reward and the discovered treasure;
+- their rupture over Vengannu's demand for the treasure;
+- Vengannu's threat and the visual recall of Cheran Senguttuvan before Matalavaraiyan;
+- the cinematic move to the coast / Nagai and the three-line shop sign;
+- Vengannu's discovery of the grown Sengamaladasan;
+- the foster mother's revelation of his identity;
+- the bag of sovereigns and Sengamaladasan's decision to reclaim his father's land;
+- the foster father's warning and Vengannu's promise that Alagiri will fall.
 
 ### Source check performed
 
-The completed English was checked back against canonical Tamil pages 0008–0013 for:
+The appended English was checked back against canonical Tamil pages 0014–0020 for:
 
-- paragraph and dialogue completeness;
-- title-card and credit order;
-- one-work identity;
-- names and speaker labels;
-- bracketed action directions;
-- screen, music and scene-change vocabulary;
-- sound effects and battle imagery;
-- scan 10 verified source oddity `மித்தானமத்தனுக்குக்`;
-- scan 13 verified source oddity `முச்சுற்றுப்படுத்திருக்கும்`;
-- open quotation continuity from scan 10→11 and scan 12→13;
-- religious/service terms in Vijayaraghava's dying speech;
-- omission/addition risk.
+- complete paragraph/dialogue sequence;
+- screen-text → palace-scene transition on scan 14;
+- speaker sequence and bracketed facial/action directions on scans 16–17;
+- political vocabulary `கப்பம்` / `ராஜதந்திரம்`;
+- the Aryanism line in the Vengannu–Alagiri rupture;
+- Cheran Senguttuvan/Matalavaraiyan visual callback;
+- Dutch/Portuguese/Nagai visual sequence and shop-sign formatting;
+- Sengamaladasan identity revelation and foster-parent scene;
+- scan 19→20 quotation continuity and `பாது` / `காத்துக்கொள்` join;
+- omission/addition risk;
+- source-specific forms that should not be silently normalized.
 
-### Batch 2 review result
+### Batch 3 review result
 
-**No substantive paragraph, dialogue turn, action direction or cinematic unit from scans 8–13 is omitted.**
+**No substantive paragraph, dialogue turn, printed action direction, on-screen textual unit or cinematic transition from scans 14–20 is omitted.**
 
-The translation deliberately remains cautious where the source is unusual:
+Source-bound decisions include:
 
-- `மித்தானமத்தனுக்குக்` is retained as *mitthanamathan*, not assigned a guessed meaning;
-- `முச்சுற்றுப்படுத்திருக்கும்` receives the contextual rendering **encircling it**, while the exact Tamil remains documented;
-- the compressed `ஸ்ரீரங்கத்தை தெரிசிக்க...` list in the dying speech is not historically reconstructed into a smoother claim;
-- `கன்னிகாதானம்`, `சந்தர்ப்பணம்`, and `அக்கிரகாரம்` are retained as *kanyadanam*, *santharpanam*, and *agraharam*;
-- film cues such as `குளோசப்`, scene changes, music, screen flashes and bracketed directions remain visible.
+- `கிளந்திருந்த` → cautious contextual **with its greed already astir**;
+- `கிளத்திருக்கிறது` → retained as *kilathirukkirathu* rather than guessed;
+- `மன்னனுக்கினேன்` → contextual **I made Madurai's slave into a king**, with the exact Tamil preserved canonically;
+- `வெத்துவேட்டுக்கள்` → **empty shots**;
+- `சிகப்புக்கள்` in the Nagai sign → literal **reds**, with no unprinted commodity added;
+- `தெகிடு தத்தக்கார்களுக்கு` → *thegidu thaththakkar* rather than a guessed modern gloss;
+- `முகத்தமிடுகிறாள்` → cautious contextual **touches his face**;
+- `ஊமை வெயில் போல!` → **like mute sunlight!**;
+- `ராயசம்` retained as **Rayasam** and `கப்பம்` as **tribute**.
 
 ### Structural check
 
-`ராயசம் வெங்கண்ணு` remains explicitly labelled an **internal sequence of _Towards the Sacrificial Altar_**. No separate work metadata or translation identity was created.
+The entire translated coverage scans 8–20 remains under the same internal **Rayasam Vengannu** sequence of _Towards the Sacrificial Altar_. No separate work-level identity has been introduced.
 
 ### Glossary update
 
-`GLOSSARY.md` now includes Batch-2 decisions for:
+`GLOSSARY.md` now records Batch-3 decisions for:
 
-- Vijayaraghava, Mannaru Nayak, Kumar Tatacharya, Sokkanatha Nayak, Sengamaladasan;
-- *kanyadanam*, *santharpanam*, *agraharam*;
-- film-credit and close-up vocabulary;
-- `மித்தானமத்தனுக்குக்` and `முச்சுற்றுப்படுத்திருக்கும்` handling.
+- Alagiri, Rayasam, tribute and statecraft;
+- `கிளந்திருந்த / கிளத்திருக்கிறது`;
+- `மன்னனுக்கினேன்`;
+- `வெத்துவேட்டுக்கள்`;
+- Nagai shop-sign `சிகப்புக்கள்`;
+- `தெகிடு தத்தக்கார்களுக்கு`;
+- `பொன்னுடை`;
+- `முகத்தமிடுகிறாள்`;
+- `ஊமை வெயில் போல!`.
 
-## Gate before Batch 3
+## Gate before Batch 4
 
-- Batch 2 translation complete — **yes**
+- Batch 3 translation complete — **yes**
 - canonical source check — **yes**
 - cinematic/structural review — **yes**
 - glossary update — **yes**
@@ -112,15 +134,15 @@ The translation deliberately remains cautious where the source is unusual:
 
 ## Next exact activity
 
-Continue the **same** `sections/02-rayasam-vengannu-sequence.md` with **Batch 3: scans 14–20**.
+Continue the **same** `sections/02-rayasam-vengannu-sequence.md` with **Batch 4: scans 21–26**.
 
 Requirements:
 
-1. append, do not replace or split the internal sequence;
-2. preserve the existing title card and one-work identity;
-3. translate every substantive unit from scans 14–20;
-4. preserve dialogue, bracketed directions, screen movement and source oddities;
-5. maintain source-scan comments/provenance;
-6. source-check the appended English against canonical Tamil pages 0014–0020;
-7. update the glossary only for genuinely new recurring terms;
-8. update progress/readmes/handover only after the Batch-3 source check.
+1. append, do not create another work or internal-sequence file;
+2. read canonical Tamil pages `0021`–`0026` first;
+3. translate every substantive unit from scans 21–26;
+4. preserve dialogue, bracketed directions, scene/screen movement and source oddities;
+5. pay particular attention to verified scan-21 forms `மளமள வென்று` and `என்றுன் பேதை!`, scan-23 `களேபாரப்படுகிறது`, and scan-26 `தர்ப்பாகூரர்` / `விபரீதத்தை ஏற்கத்`;
+6. retain source-scan provenance comments;
+7. source-check the appended English against canonical Tamil before advancing status;
+8. update glossary/readmes/handover only after the Batch-4 review gate passes.
