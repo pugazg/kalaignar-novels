@@ -14,7 +14,7 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 verified; Tamil source audit PASSED; assembled Tamil reading layer PASSED; translation-ready** |
+| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 verified; Tamil source + assembled layer PASSED; English translation plan COMPLETE; pilot next** |
 
 ### முக்கிய structural note
 
@@ -38,13 +38,15 @@ Source continuity:
 - targeted character-level review — **complete**
 - full page/metadata consistency audit — **passed**
 - assembled Tamil reading layer — **complete + passed**
+- English translation plan — **complete**
+- English prose translation — **not started**
 - source PDF in repository — **No**
-- English translation — **not started; translation gate open**
 
 Final audit: [`works/balipeedam-nokki/audit.md`](works/balipeedam-nokki/audit.md).  
-Assembled reading layer: [`works/balipeedam-nokki/sections/README.md`](works/balipeedam-nokki/sections/README.md).
+Assembled reading layer: [`works/balipeedam-nokki/sections/README.md`](works/balipeedam-nokki/sections/README.md).  
+English translation plan: [`works/balipeedam-nokki/translations/en/TRANSLATION_PLAN.md`](works/balipeedam-nokki/translations/en/TRANSLATION_PLAN.md).
 
-அடுத்த activity: **English translation plan** தயாரிக்க வேண்டும். Translation continuity-க்கு `sections/` பயன்படுத்தலாம்; ஆனால் source authority எப்போதும் audited `pages/` layer-தான்.
+அடுத்த activity: **Batch 1 pilot English translation — scans 4–7 / opening frame**. Pilot source-check முடிந்த பின் glossary/style decisions lock செய்யப்பட வேண்டும்; அதன் பிறகே Batch 2 தொடங்க வேண்டும்.
 
 ## களஞ்சிய அமைப்பு
 
@@ -66,6 +68,9 @@ works/
       01-opening-frame.md
       02-rayasam-vengannu-sequence.md
       03-return-and-conclusion.md
+    translations/
+      en/
+        TRANSLATION_PLAN.md
 ```
 
 ஒவ்வொரு நூலும் தனித்த `works/<work-slug>/` அடைவில் பதிவாகும். பக்கவாரி records முதன்மை archival layer; assembled reading text, audit, translation மற்றும் review files derived layers ஆக சேர்க்கப்படும்.
