@@ -12,10 +12,13 @@ Before any new work:
 
 1. Read `NOVEL_PROCESSING_GUIDE.md` completely.
 2. Read root `README.md`.
-3. Read `works/balipeedam-nokki/README.md`, `metadata/source.md`, `indexes/page-map.md`, and `audit.md`.
-4. Inspect current repository state and continue existing work rather than creating duplicates.
-5. Treat the supplied scan as controlling authority.
-6. Do **not** upload/commit the source PDF to this repository.
+3. Read `works/balipeedam-nokki/README.md`.
+4. Read `works/balipeedam-nokki/metadata/source.md`.
+5. Read `works/balipeedam-nokki/indexes/page-map.md` and `audit.md`.
+6. Read `works/balipeedam-nokki/sections/README.md` before translation work.
+7. Continue existing work; do not create duplicate structures.
+8. Treat the supplied scan / audited `pages/` records as controlling textual authority.
+9. Do **not** upload/commit the source PDF to this repository.
 
 ## Current source
 
@@ -35,130 +38,117 @@ Source filename, external to repository:
 
 ## Critical structural rule
 
-**`பலிபீடம் நோக்கி` is one continuous work across scans 4–33.**
+**`பலிபீடம் நோக்கி` is one continuous work.**
 
-Do not treat `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` as a separate work. It is the embedded cinematic-historical sequence within the same work.
+Do not treat `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` as a separate work. It is an internal cinematic-historical sequence within the same work.
 
-Source-supported structure:
+Source-supported flow:
 
-1. **Scans 4–7:** opening ideological / polemical frame.
-2. **Scan 7:** narrator explicitly introduces a film-like lesson.
-3. **Scan 8:** internal title card — `ராயசம் வெங்கண்ணு`, `தஞ்சை சரித்திரக் கதை`, `எரிமலை ‘ரிலீஸ்’`, credit vocabulary and `விநியோக உரிமை`.
-4. **Scans 9–29:** embedded historical episode in cinematic / screenplay-like form.
-5. **Scan 30:** `படம் முடிந்துவிட்டது. பாடம் கற்றுக்கொண்டீர்களா? பலிபீடம் நோக்க...` — explicit return to the main frame.
-6. **Scans 31–33:** concluding direct address and close of the same work.
-7. **Scan 34:** blank/back matter.
+1. scans 4–7 — opening ideological / polemical frame;
+2. scan 7 — narrator introduces a film-like lesson;
+3. scans 8–29 and the opening portion of scan 30 — internal `ராயசம் வெங்கண்ணு` film sequence;
+4. scan 30 — the internal film reaches its `வணக்கம்` end-card, then narrator says `படம் முடிந்துவிட்டது...` and returns to the main frame;
+5. scans 31–33 — concluding direct address;
+6. scan 34 — blank/back matter.
 
-Archival rule for every body page scan 4–33:
+Every body page uses:
 
 ```text
 work: balipeedam-nokki
 ```
 
-`ராயசம் வெங்கண்ணு` may appear only as an internal `section` label preserving the printed heading.
+`ராயசம் வெங்கண்ணு` may appear only as an internal `section` / title-card identity.
 
-## Tamil source-preservation state — COMPLETE
+## Canonical Tamil source-preservation state — COMPLETE
 
 The entire 34-page scan has been transcribed, character-reviewed and consistency-audited.
 
-- page records created: **34 / 34**
-- `verified`: **34 / 34**
-- `needs-review`: **0**
-- `not-started`: **0**
+- page records: **34 / 34**
+- verified: **34 / 34**
+- needs-review: **0**
 - unresolved readings: **0**
-- Tamil source audit: **PASSED**
+- page/metadata consistency audit: **PASSED**
+- Tamil source layer: **PASSED**
 - source PDF in repository: **No**
 
-Page files cover:
+Canonical layer:
 
-- `0001`–`0003`: front matter;
-- `0004-balipeedam-nokki-01.md` through `0033-balipeedam-nokki-30.md`: complete body sequence;
-- `0034-blank-back.md`: blank/back scan.
+`works/balipeedam-nokki/pages/`
 
-Final audit file:
+Final audit:
 
 `works/balipeedam-nokki/audit.md`
 
-## Targeted review resolved
+### Important resolved source readings
 
-The seven previously open pages were reviewed against enlarged source pixels.
+Do not normalize these later:
 
-- **scan 3:** `பேனுப் பிடிக்கும்`
-- **scan 10:** `மித்தானமத்தனுக்குக்` confirmed as printed
-- **scan 13:** `முச்சுற்றுப்படுத்திருக்கும்` confirmed
-- **scan 21:** `மளமள வென்று`; `என்றுன் பேதை!` confirmed
-- **scan 23:** `களேபாரப்படுகிறது` confirmed
-- **scan 26:** corrected first-pass readings to `தர்ப்பாகூரர்` and `விபரீதத்தை ஏற்கத்`
-- **scan 27:** `ஒரு காரணம்!` confirmed as the unusual printed transition wording
+- scan 3 — `பேனுப் பிடிக்கும்`
+- scan 10 — `மித்தானமத்தனுக்குக்`
+- scan 13 — `முச்சுற்றுப்படுத்திருக்கும்`
+- scan 21 — `மளமள வென்று`; `என்றுன் பேதை!`
+- scan 23 — `களேபாரப்படுகிறது`
+- scan 26 — `தர்ப்பாகூரர்`; `விபரீதத்தை ஏற்கத்`
+- scan 27 — `ஒரு காரணம்!`
 
-These resolutions came from the scan itself. Do not re-normalize them later from grammar, history or narrative expectation.
+## Assembled Tamil reading layer — COMPLETE
 
-## Important page continuity preserved
+Created and cross-checked:
 
-Do not reflow or "repair" these joins in the canonical page layer:
+- `works/balipeedam-nokki/sections/README.md`
+- `works/balipeedam-nokki/sections/01-opening-frame.md`
+- `works/balipeedam-nokki/sections/02-rayasam-vengannu-sequence.md`
+- `works/balipeedam-nokki/sections/03-return-and-conclusion.md`
 
-- scan 5 → 6: `அணுக்` / `களிலிருந்து`;
-- scan 6 → 7: `உதிர` / `ஆறுகளைப் பாருங்கள்`;
-- scan 12 → 13: open Vijay Raghava dying-speech quotation;
-- scan 17 → 18: open quotation;
-- scan 19 → 20: `பத்திரமாக பாது` / `காத்துக்கொள்`;
-- scan 21 → 22: sentence continues after `என்று`;
-- scan 29 → 30: `அப்படித்` / `தத்தளிக்கிறான்...`;
-- scan 30 → 31: `கைகூப்புவதை` / `யும் நோக்குங்கள்`.
+Assembly status: **PASSED**.
 
-## Copy-specific / non-text marks
+### Assembly boundaries
 
-Across the scan there are library stamps, handwritten underlines, vertical/bracket marks, age stains, bleed-through and binding artefacts. They are recorded separately in page observations and must never be merged into printed body text.
+- `01-opening-frame.md` — scans 4–7.
+- `02-rayasam-vengannu-sequence.md` — scans 8–29 plus scan 30 through the film's `வணக்கம்` end-card.
+- `03-return-and-conclusion.md` — scan 30 beginning `படம் முடிந்துவிட்டது...` through scan 33.
 
-Notable examples:
+Scan 30 is deliberately split inside the page because the source itself places both the internal film ending and the explicit return to the main argument on that scan. No source text is duplicated or omitted.
 
-- scan 20: handwritten underline beneath a printed phrase;
-- scan 26: large library stamp plus handwritten underline/brace;
-- scans 28, 30, 32, 33: handwritten underlining / marginal marks;
-- scan 33: printed closing ornament;
-- scan 34: blank/back page with physical wear / tape edge.
+### Verified readable joins in assembled layer
 
-## Final consistency audit result
+The canonical page files remain unchanged. The reading layer joins only already-audited continuities, including:
 
-The repository was checked for:
+- `அணுக்` + `களிலிருந்து` → `அணுக்களிலிருந்து`
+- `பாது` + `காத்துக்கொள்` → `பாதுகாத்துக்கொள்`
+- `அப்படித்` + `தத்தளிக்கிறான்...`
+- `கைகூப்புவதை` + `யும்` → `கைகூப்புவதையும்`
 
-- continuous page sequence 1–34;
-- scan-page / printed-page mapping;
-- one work identity throughout the body;
-- correct internal section transitions;
-- source filename consistency;
-- all page statuses `verified`;
-- page-level source markers;
-- preserved cross-page continuations;
-- separation of printed text from copy-specific marks;
-- cover/front matter, closing ornament and blank/back coverage.
+HTML comments preserve source-page provenance around these joins.
 
-Result: **Tamil source-preservation layer PASSED.**
+## Current gate
 
-## Translation gate
-
-The previous block on translation is now lifted because the Tamil source layer has passed audit.
-
-However, **do not translate directly from memory or from an independently retyped text**. The audited `pages/` records remain the canonical source layer.
+**Tamil source layer: PASSED**  
+**Assembled Tamil reading layer: PASSED**  
+**Translation-ready: YES**  
+**English translation: not started**
 
 ## Next exact activity
 
-Create a **source-faithful assembled Tamil reading layer under `works/balipeedam-nokki/sections/`** without altering the audited page files.
+Create an **English translation plan** before translating any prose.
 
-Recommended assembly:
+Recommended file:
 
-1. `sections/01-opening-frame.md` — scans 4–7;
-2. `sections/02-rayasam-vengannu-sequence.md` — scans 8–29, explicitly labeled as an internal sequence of `பலிபீடம் நோக்கி`, not a separate work;
-3. `sections/03-return-and-conclusion.md` — scans 30–33;
-4. `sections/README.md` — explain derivation, page ranges and preservation rules.
+`works/balipeedam-nokki/translations/en/TRANSLATION_PLAN.md`
 
-Assembly rules:
+The plan must define at minimum:
 
-- derive text only from the audited page files;
-- do not modernize spelling or punctuation;
-- page-boundary joins may be made readable in the assembled layer only when the exact two-page continuity is already verified, while retaining source-page markers/comments so provenance is reversible;
-- preserve the internal scan-8 title card and cinematic vocabulary;
-- do not create separate work-level metadata for `ராயசம் வெங்கண்ணு`;
-- cross-check each assembled section against its source page records before marking assembly complete.
+1. translation batch boundaries mapped to the three assembled Tamil sections and source scan ranges;
+2. one-work structural rule, explicitly keeping `ராயசம் வெங்கண்ணு` internal;
+3. source-authority hierarchy: audited `pages/` first, `sections/` for continuity;
+4. treatment of historical names, titles and place names;
+5. transliteration / anglicization policy and a consistency table;
+6. treatment of caste, religion, Dravidian-movement rhetoric and polemical language without softening or intensifying;
+7. handling of cinematic vocabulary (`ரிலீஸ்`, `டைரக்ஷன்`, `குளோசப்`, stage/action directions, etc.);
+8. handling of source oddities and historical spellings without silently correcting the Tamil source;
+9. dialogue, quotation and punctuation conventions in English;
+10. source-page traceability for every translation batch;
+11. review statuses and gates (`draft`, `reviewed`, `verified` or equivalent);
+12. requirement for a final editorial consistency review before release.
 
-After the assembled Tamil layer passes that check, create an English translation plan and begin translation in controlled batches.
+Do **not** begin the English prose translation until the translation plan is committed and reviewed against the Tamil audit/assembly rules.
