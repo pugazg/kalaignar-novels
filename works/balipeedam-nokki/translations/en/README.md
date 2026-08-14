@@ -29,7 +29,8 @@ translations/en/
   sections/
     01-opening-frame.md
     02-rayasam-vengannu-sequence.md
-    03-return-and-conclusion.md   # create in Batch 6
+    03-return-and-conclusion.md
+  TRANSLATION_REVIEW.md          # next gate
 ```
 
 ## Review states
@@ -49,15 +50,17 @@ translations/en/
 - Batch 3 / scans 14–20: **reviewed**.
 - Batch 4 / scans 21–26: **reviewed**.
 - Batch 5 / scans 27–30 through `வணக்கம்`: **reviewed**.
-- Batch 6 / scan 30 from `படம் முடிந்துவிட்டது...` through 33: **NEXT**.
-- Whole-work English `verified`: **no**.
+- Batch 6 / scan 30 from `படம் முடிந்துவிட்டது...` through 33: **reviewed**.
+- Complete English body-text coverage: **scans 4–33**.
+- Whole-work English `verified`: **no — final bilingual review pending**.
 
-English sections currently present:
+## English sections
 
 1. [`sections/01-opening-frame.md`](sections/01-opening-frame.md) — scans 4–7, reviewed.
-2. [`sections/02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md) — scans 8–30 through the internal film's `வணக்கம்` end-card, reviewed and complete for that internal sequence.
+2. [`sections/02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md) — scans 8–30 through the internal film's `வணக்கம்` end-card, reviewed.
+3. [`sections/03-return-and-conclusion.md`](sections/03-return-and-conclusion.md) — scan 30 beginning exactly at `படம் முடிந்துவிட்டது...` through scan 33, reviewed.
 
-The next English section must begin **within scan 30**, immediately after that end-card, at `படம் முடிந்துவிட்டது. பாடம் கற்றுக்கொண்டீர்களா?`.
+The scan-30 split follows the source's narrative boundary. The `வணக்கம்` end-card appears only in section 2; section 3 begins only after the film has ended.
 
 Terminology and source-oddity decisions are recorded in [`GLOSSARY.md`](GLOSSARY.md). Detailed batch audit: [`PROGRESS.md`](PROGRESS.md).
 
@@ -65,6 +68,8 @@ Terminology and source-oddity decisions are recorded in [`GLOSSARY.md`](GLOSSARY
 
 The goal is clear English that remains source-bound. Political force, accusation, irony, repetition, rhetorical questions, historical-cinematic form and source oddities are preserved without softening, intensifying or silently reconstructing the Tamil.
 
-## Final gate
+## Next gate
 
-After Batch 6 is translated and source-checked, create `TRANSLATION_REVIEW.md` for whole-work bilingual alignment. Only that review may advance the English layer from batch-level `reviewed` to whole-work `verified`.
+All six translation batches are now **reviewed**, but the English layer is not yet final.
+
+Next create `TRANSLATION_REVIEW.md` and perform whole-work bilingual alignment across the canonical Tamil pages, assembled Tamil sections, all three English sections and glossary decisions. Only a passed final review may mark the English layer `verified`.
