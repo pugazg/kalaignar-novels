@@ -4,10 +4,10 @@ printed_page: 9
 work: "balipeedam-nokki"
 section: "ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065570_பலிபீடம்_நோக்கி.pdf"
-transcription_method: "direct visual comparison with enlarged source scan; one unusual lexical reading retained for recheck"
+transcription_method: "direct visual comparison with enlarged source scan"
 ---
 
 குரு: கோத்திரமறிந்து பெண்ணைக் கொடுக்க வேண்டும் ...சந்தோஷம்!
@@ -34,13 +34,13 @@ transcription_method: "direct visual comparison with enlarged source scan; one u
 
 ‘விசயராகவா! நீயும், நின் குலமும் வாழ்க! இருப்பும், கடல் துயிலும் திருமாலின் திருவருளால்
 
-## Review note
+## Verification note
 
-- The source visibly prints an unusual word in `மகள் அந்த மித்தானமத்தனுக்குக் கொடுத்து...`. The current direct reading is `மித்தானமத்தனுக்குக்`; because the lexical form is unusual, this page remains `needs-review` rather than being silently normalized or treated as fully verified.
-- The final quotation continues directly onto scan 11.
+High-resolution character-level review confirms the unusual printed form `மித்தானமத்தனுக்குக்`. It is retained exactly as printed and is not normalized from grammar or historical context.
 
 ## Scan observations
 
+- The final quotation continues directly onto scan 11.
 - Reverse-side bleed-through is visible behind the printed text and has not been transcribed as current-page content.
 - Light age discoloration / spotting is present.
 
