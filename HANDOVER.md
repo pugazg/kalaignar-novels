@@ -4,8 +4,8 @@
 
 - Repository: `pugazg/kalaignar-novels`
 - Branch: `main`
-- State at handover preparation: commit `6176f04240f47ec6fa51e58846033fc754b73f0c`
-- This `HANDOVER.md` is committed immediately after that state; when resuming, verify current `main` before making changes.
+- State immediately before this handover update: commit `f238adfcd783a19c5aec020c3cc077ddb4a7931a`
+- When resuming, verify current `main` before making changes.
 
 ## Permanent startup rule
 
@@ -36,33 +36,56 @@ Source filename (external to repository):
 
 ## Internal textual units
 
-- scans 4–7: **பலிபீடம் நோக்கி**
-- scans 8–33: **ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை**
+- scans 4–7: **பலிபீடம் நோக்கி** — complete + verified
+- scans 8–33: **ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை** — not started
 - scan 34: blank/back matter
 
-`ராயசம் வெங்கண்ணா` begins with source-printed cinema-style credits. Preserve these exactly; do not recast them into modern prose or bibliographic language inside the transcription.
+### Source-title correction
+
+Direct inspection of scan 8 confirms the printed title **`ராயசம் வெங்கண்ணு`**. Earlier working references to `ராயசம் வெங்கண்ணா` were corrected in source metadata, README files and the page manifest before transcription of that unit begins.
+
+`ராயசம் வெங்கண்ணு` begins with source-printed cinema-style credits. Preserve these exactly; do not recast them into modern prose or bibliographic language inside the transcription.
 
 ## Completed work
 
-Repository initialized with:
+Repository currently contains:
 
 - `README.md`
 - `NOVEL_PROCESSING_GUIDE.md`
 - `works/balipeedam-nokki/README.md`
 - `works/balipeedam-nokki/metadata/source.md`
 - `works/balipeedam-nokki/indexes/page-map.md`
-- `works/balipeedam-nokki/pages/0001-cover.md`
-- `works/balipeedam-nokki/pages/0002-title-page.md`
-- `works/balipeedam-nokki/pages/0003-publisher-note.md`
+- page records `0001` through `0007`
 
 Page status:
 
 - scan 1: `verified`
 - scan 2: `verified`
 - scan 3: `needs-review`
-- scans 4–34: `not-started`
+- scans 4–7: `verified`
+- scans 8–34: `not-started`
 
-The full 34-page scan manifest has been created.
+Totals:
+
+- page records created: **7 / 34**
+- verified: **6**
+- needs-review: **1**
+- not-started: **27**
+
+## Completed batch — scans 4–7
+
+The complete `பலிபீடம் நோக்கி` textual unit has been transcribed and directly compared with enlarged source scans.
+
+Source-specific readings deliberately preserved include:
+
+- scan 5: `குதுமன்றி`;
+- scan 5: `மாடலவறையவன்`;
+- scans 5 → 6: page-break fragment `அணுக்` + `களிலிருந்து`;
+- scan 6: `மாடலவறையன்`, `தணலில்`, and printed `அன்பு(?)`;
+- scans 6 → 7: `உதிர` + `ஆறுகளைப் பாருங்கள்`;
+- scan 7: `வேதியர் வெங்கண்ணு!` and the final printed star ornament.
+
+Do not normalize these forms from memory or modern usage.
 
 ## Open issue — scan 3
 
@@ -70,19 +93,18 @@ One short phrase in the final paragraph of the publisher's note remains visually
 
 ## Next exact activity
 
-Process **scans 4–7 as one batch**.
+Process **scans 8–12 as one batch** — the first `ராயசம் வெங்கண்ணு` batch.
 
 This batch should:
 
-1. create page records `0004` through `0007`;
-2. transcribe the complete `பலிபீடம் நோக்கி` textual unit;
-3. preserve source spelling, punctuation, paragraph boundaries and unusual forms;
-4. record handwritten/library/bleed-through marks separately from printed text;
-5. direct-visual-verify every page before marking it `verified`;
-6. update `indexes/page-map.md`, work `README.md`, root `README.md`, and this handover.
-
-Do **not** begin scan 8 / `ராயசம் வெங்கண்ணா` until scans 4–7 are complete and the first unit has passed its page-level visual check.
+1. create page records `0008` through `0012` using the `rayasam-vengannu` filename slug already reserved in `indexes/page-map.md`;
+2. verify scan 8 title **`ராயசம் வெங்கண்ணு`**, subtitle **`தஞ்சை சரித்திரக் கதை`**, `எரிமலை 'ரிலீஸ்'`, credit lines and rights line character by character;
+3. transcribe scans 8–12 page by page from the controlling scan;
+4. preserve cinematic narration, dialogue, scene/action description, punctuation, historical spelling, source-specific names and unusual grammar;
+5. record bleed-through, stamps, handwritten marks or other copy-specific marks separately from printed text;
+6. direct-visual-verify each page before marking it `verified`;
+7. update `indexes/page-map.md`, work `README.md`, root `README.md`, and this handover when the batch is complete.
 
 ## Translation gate
 
-English translation is blocked until the complete Tamil transcription and direct visual audit of the source are finished. Translation/review files should not be created during the current stage.
+English translation remains blocked until the complete Tamil transcription and direct visual audit of the source are finished. Translation/review files should not be created during the current stage.
