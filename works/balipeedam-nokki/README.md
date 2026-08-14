@@ -18,10 +18,10 @@
    சேரன் செங்குட்டுவன், யாகம், ஆரியம், தன்மானம், `பலிபீடம்` ஆகிய உருவகங்களின் வழியாக நூலின் மைய வாதம் அமைக்கப்படுகிறது.
 
 2. **Scan 7 — திரைப்படக் காட்சிக்கான நேரடி மாற்றம்**  
-   narrator `வேதியர் வெங்கண்ணு! திரைப் படமாக உருப்பெற்றிருக்கிறார்... படக்காட்சி ஆரம்பமாகிறது பாருங்கள். படம் உங்களுக்கு ஒரு பாடம் தரட்டும்.` என்று சொல்கிறார். இதுவே அடுத்த பகுதி தனி நூல் அல்ல; அதே வாதத்துக்குள் காட்டப்படும் ஒரு காட்சி என்பதற்கான முக்கிய source evidence.
+   narrator `வேதியர் வெங்கண்ணு! திரைப் படமாக உருப்பெற்றிருக்கிறார்... படக்காட்சி ஆரம்பமாகிறது பாருங்கள். படம் உங்களுக்கு ஒரு பாடம் தரட்டும்.` என்று சொல்கிறார்.
 
 3. **Scans 8–29 — embedded cinematic-historical sequence**  
-   scan 8-ல் source-printed title card `ராயசம் வெங்கண்ணு`, subtitle `தஞ்சை சரித்திரக் கதை`, `எரிமலை 'ரிலீஸ்'`, direction/screenplay/dialogue credits ஆகியவை வருகின்றன. அதன் பின்னர் தஞ்சை வரலாற்று நிகழ்வு திரைப்பட narration, dialogue, scene/action description போல நகர்கிறது.
+   scan 8-ல் source-printed title card `ராயசம் வெங்கண்ணு`, subtitle `தஞ்சை சரித்திரக் கதை`, `எரிமலை ‘ரிலீஸ்’`, direction/screenplay/dialogue credits ஆகியவை வருகின்றன. அதன் பின்னர் தஞ்சை வரலாற்று நிகழ்வு திரைப்பட narration, dialogue, scene/action description போல நகர்கிறது.
 
 4. **Scan 30 — frame-க்கு திரும்புதல்**  
    `படம் முடிந்துவிட்டது. பாடம் கற்றுக்கொண்டீர்களா? பலிபீடம் நோக்க...` என்று narrator நேரடியாக internal film-இலிருந்து வெளியேறி `பலிபீடம்` வாதத்துக்குத் திரும்புகிறார்.
@@ -36,8 +36,6 @@ work: balipeedam-nokki
 ```
 
 `ராயசம் வெங்கண்ணு` தனி work அல்ல. அதன் அச்சுத் தலைப்பை இழக்காமல் பாதுகாக்க `section` / internal-sequence label ஆக மட்டும் பதிவு செய்யப்படும்.
-
-Direct inspection of scan 8 reads the printed heading as `ராயசம் வெங்கண்ணு`; source transcription-ல் அந்த வடிவமே பாதுகாக்கப்படும்.
 
 ## Source registration
 
@@ -59,15 +57,20 @@ Direct inspection of scan 8 reads the printed heading as `ராயசம் வ
 | scan 1 cover | verified |
 | scan 2 title page | verified |
 | scan 3 publisher note | needs-review |
-| scans 4–7 — opening segment | **complete + verified** |
-| scans 8–34 | not-started |
-| Page records created | **7 / 34** |
-| Tamil transcription audit | opening segment complete; full work incomplete |
+| scans 4–7 — opening segment | complete + verified |
+| scans 8–9 | verified |
+| scan 10 | needs-review |
+| scans 11–12 | verified |
+| scans 13–34 | not-started |
+| Page records created | **12 / 34** |
+| Verified page records | **10** |
+| Needs-review page records | **2** |
+| Tamil transcription audit | in progress |
 | English translation | blocked until complete Tamil audit |
 
 Page-level status: [`indexes/page-map.md`](indexes/page-map.md).
 
-## Completed transcription batch — scans 4–7
+## Completed transcription — scans 4–7
 
 Source-supported forms deliberately preserved include:
 
@@ -78,21 +81,37 @@ Source-supported forms deliberately preserved include:
 - page-break `உதிர` / `ஆறுகளைப் பாருங்கள்`;
 - the printed star ornament at the end of scan 7.
 
-These forms have not been modernized or silently reconciled.
+## Completed transcription — scans 8–12
 
-## Scan 3 unresolved item
+This batch continues the same novel and begins the internal cinematic-historical sequence.
 
-Publisher's note has one short phrase in its final paragraph that is not yet sufficiently clear. It is explicitly left unresolved in `pages/0003-publisher-note.md`; no contextual reconstruction has been inserted.
+- **scan 8:** title card and credits verified, including `ராயசம் வெங்கண்ணு`, `தஞ்சை சரித்திரக் கதை`, `எரிமலை ‘ரிலீஸ்’`, `டைரக்ஷன், திரைக்கதை அமைப்பு, வசனம்`, and `விநியோக உரிமை`.
+- **scan 9:** darbar scene, `மன்னரு நாயக்கர்`, `குமார தாத்தாச்சார்யா`, and opening marriage-alliance dialogue verified.
+- **scan 10:** transcription complete. The unusual printed form currently read as `மித்தானமத்தனுக்குக்` is retained exactly as visually read but awaits one more audit pass, so the page remains `needs-review`.
+- **scan 11:** battle sequence, cinematic action narration and bracketed `[விசயராகன் ஆசையோடு]` direction verified.
+- **scan 12:** battle climax and Vijay Raghava's dying speech verified; the quotation continues directly onto scan 13.
+
+No part of this batch has been promoted to a separate `ராயசம் வெங்கண்ணு` work identity.
+
+## Open review items
+
+### Scan 3
+
+Publisher's note has one short phrase in its final paragraph that is not yet sufficiently clear. It remains explicitly unresolved in `pages/0003-publisher-note.md`.
+
+### Scan 10
+
+The phrase containing `மித்தானமத்தனுக்குக்` is unusual but visibly supports that current reading. It remains `needs-review` for a later character-level audit rather than being normalized from grammar or context.
 
 ## அடுத்த செயல்
 
-Continue **the same `பலிபீடம் நோக்கி` novel** with scans **8–12**:
+Continue **the same `பலிபீடம் நோக்கி` novel** with scans **13–17**:
 
-- create continuous page files `0008-balipeedam-nokki-05.md` through `0012-balipeedam-nokki-09.md`;
-- scan 8's internal `ராயசம் வெங்கண்ணு` title card, subtitle, release/credit lines and rights line must be verified character by character;
-- every page must retain `work: "balipeedam-nokki"`;
-- `section` may identify the internal `ராயசம் வெங்கண்ணு` cinematic-historical sequence;
-- preserve cinematic narration, dialogue, scene descriptions, punctuation, historical spellings and source-specific naming;
+- create continuous files `0013-balipeedam-nokki-10.md` through `0017-balipeedam-nokki-14.md`;
+- continue scan 12's open quotation exactly onto scan 13;
+- keep `work: "balipeedam-nokki"` on every page and use `section` only for the internal `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` sequence;
+- preserve cinematic narration, dialogue, action directions, historical spellings, unusual grammar and punctuation without normalization;
+- record handwritten / stamp / bleed-through marks separately from printed text;
 - after direct visual comparison, update this README, page map and `HANDOVER.md`.
 
 English translation must not begin yet.
