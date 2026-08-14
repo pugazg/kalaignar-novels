@@ -4,7 +4,7 @@
 
 - Repository: `pugazg/kalaignar-novels`
 - Branch: `main`
-- When resuming, verify current `main` before making changes.
+- Verify current `main` before further changes.
 
 ## Mandatory startup
 
@@ -16,9 +16,9 @@ Before continuing:
 4. Read `works/balipeedam-nokki/metadata/source.md`.
 5. Read `works/balipeedam-nokki/indexes/page-map.md` and `audit.md`.
 6. Read `works/balipeedam-nokki/sections/README.md`.
-7. For English work, read `works/balipeedam-nokki/translations/en/TRANSLATION_PLAN.md`, `README.md`, `PROGRESS.md`, and `GLOSSARY.md`.
+7. For English work, read `works/balipeedam-nokki/translations/en/TRANSLATION_PLAN.md`, `README.md`, `PROGRESS.md`, `GLOSSARY.md`, and `TRANSLATION_REVIEW.md`.
 8. Continue existing work; do not create duplicate structures.
-9. Treat audited Tamil `pages/` as controlling textual authority; assembled `sections/` are for reading continuity.
+9. Treat audited Tamil `pages/` as controlling textual authority.
 10. Do **not** upload or commit the source PDF.
 
 ## Source identity
@@ -46,19 +46,13 @@ Never promote `ராயசம் வெங்கண்ணு — தஞ்ச�
 Source flow:
 
 1. scans 4–7 — opening ideological/polemical frame;
-2. scan 7 — narrator introduces a film-like lesson;
-3. scans 8–29 + opening of scan 30 — internal `ராயசம் வெங்கண்ணு` film sequence;
+2. scan 7 — narrator introduces the film-like lesson;
+3. scans 8–29 + opening of scan 30 — internal `ராயசம் வெங்கண்ணு` sequence;
 4. scan 30 — internal film reaches `வணக்கம்`, then `படம் முடிந்துவிட்டது...` returns to the main frame;
 5. scans 31–33 — conclusion;
 6. scan 34 — blank/back matter.
 
-Every body page and English translation section remains under:
-
-```text
-work: balipeedam-nokki
-```
-
-## Tamil archival state — COMPLETE
+## Tamil archival state — COMPLETE + PASSED
 
 - page records: **34 / 34**
 - verified: **34 / 34**
@@ -68,142 +62,84 @@ work: balipeedam-nokki
 
 Canonical source layer: `works/balipeedam-nokki/pages/`.
 
-## Assembled Tamil layer — COMPLETE
+Assembled Tamil sections:
 
 - `sections/01-opening-frame.md` — scans 4–7
 - `sections/02-rayasam-vengannu-sequence.md` — scans 8–29 + scan 30 through `வணக்கம்`
 - `sections/03-return-and-conclusion.md` — scan 30 from `படம் முடிந்துவிட்டது...` through scan 33
 
-Scan 30 is intentionally split at the work's own narrative boundary.
-
-## English translation infrastructure
+## English translation state — VERIFIED
 
 Working English title: **_Towards the Sacrificial Altar_**.
 
-Existing files:
+Existing English files:
 
 - `translations/en/TRANSLATION_PLAN.md`
 - `translations/en/README.md`
 - `translations/en/PROGRESS.md`
 - `translations/en/GLOSSARY.md`
+- `translations/en/TRANSLATION_REVIEW.md`
 - `translations/en/sections/01-opening-frame.md`
 - `translations/en/sections/02-rayasam-vengannu-sequence.md`
 - `translations/en/sections/03-return-and-conclusion.md`
 
-Whole-work `verified` status is reserved for final bilingual alignment.
-
-## English batch status — ALL SIX REVIEWED
+Batch status:
 
 | Batch | Source | Status |
 |---|---|---|
-| 1 — opening frame | scans 4–7 | **reviewed** |
-| 2 — internal title / Nayak court / battle | scans 8–13 | **reviewed** |
-| 3 — Alagiri–Vengannu / Sengamaladasan | scans 14–20 | **reviewed** |
-| 4 — Bijapur–Venkoji / restoration / ministership conflict | scans 21–26 | **reviewed** |
-| 5 — final internal-film movement | scans 27–30 through `வணக்கம்` | **reviewed** |
-| 6 — return and conclusion | scan 30 from `படம் முடிந்துவிட்டது...` through 33 | **reviewed** |
+| 1 | scans 4–7 | reviewed |
+| 2 | scans 8–13 | reviewed |
+| 3 | scans 14–20 | reviewed |
+| 4 | scans 21–26 | reviewed |
+| 5 | scans 27–30 through `வணக்கம்` | reviewed |
+| 6 | scan 30 after `வணக்கம்` through 33 | reviewed |
 
-Complete English body-text coverage now runs from scan **4 through 33**.
+Final whole-work bilingual alignment: **PASSED**.  
+Whole-work English status: **VERIFIED**.
 
-## Batch 6 — COMPLETE + REVIEWED
+## Final bilingual review result
 
-Created:
+`translations/en/TRANSLATION_REVIEW.md` confirms:
 
-`works/balipeedam-nokki/translations/en/sections/03-return-and-conclusion.md`
+- complete body-text coverage for scans 4–33;
+- no material source omission or duplication;
+- no source-like additions requiring removal;
+- no altered speaker assignment or material agency change;
+- no whole-work softening/intensification of the political, religious or caste rhetoric;
+- stable recurring names and terms;
+- cinematic form, title card, screen text and end-card preserved;
+- scan 29→30 and scan 30→31 joins preserved;
+- scan-30 internal-film/main-frame boundary preserved exactly;
+- `ராயசம் வெங்கண்ணு` remains internal;
+- audited Tamil remains controlling authority.
 
-### Exact source boundary
+The final review explicitly revisited `புத்த பூதம்`; the existing cautious contextual **“a new demon”** was retained without treating it as a correction of the canonical Tamil.
 
-The English section begins inside scan 30 at:
+Other difficult forms remain transliterated or cautiously rendered as documented in `GLOSSARY.md`, including *virudha*, *mitthanamathan*, *kilathirukkirathu*, *thegidu thaththakkar*, *Tharppakurar*, *Pulikkir veera*, *vanavaninam* and *pasalu*.
 
-`படம் முடிந்துவிட்டது. பாடம் கற்றுக்கொண்டீர்களா?`
+## Current repository status for this work
 
-The preceding internal-film `வணக்கம்` is **not repeated**. It remains only in English section 2.
+- Tamil source-preservation layer — **PASSED**
+- assembled Tamil reading layer — **PASSED**
+- English translation — **VERIFIED**
+- source PDF in repository — **NO**
+- release report — **not yet created**
 
-### Batch-6 coverage
-
-- explicit return from the internal film;
-- repeated `பலிபீடம் நோக்குங்கள்` rhetoric;
-- Cheran / Nayak / Rajaraja Chola / Kamban and pluralized named references;
-- sacrificial-altar blood/foundation imagery;
-- head / muscle / martial-ancestry passage;
-- `பகுத்தறிவுச் சம்மட்டி` rationalist-hammer line;
-- temples / agraharams / monasteries / epics / almanacs / afterlife concepts;
-- repeated `இந்துமதந்தான்...` accusations;
-- Manudharma / Shudras / capitalists / British imperialism passages;
-- final religious-sword / sacrificial-altar destruction imagery;
-- `படார்.. படார்..` sound effect;
-- closing verse and floral ornament.
-
-### Batch-6 fidelity decisions
-
-- scan 30→31 `கைகூப்புவதை` + `யும்` preserved as one continuous sentence;
-- `பலிபீடம்` → **sacrificial altar**; `ஆரிய பலிபீடம்` → **Aryan sacrificial altar**;
-- `காமராஜர்கள் / கலியாணசுந்தரங்கள் / நாமக்கல்லார்கள்` kept as conservative pluralized English references rather than externally resolved identities;
-- scan-31 unusual `வெட்டப்பட்டட்டும் / கிழித்தெறியப்பட்டட்டும் / கழிக்கப்பட்டட்டும்` left untouched in Tamil; English conveys immediate imperative sense;
-- `பகுத்தறிவுச் சம்மட்டி` → **hammer of rationalism**;
-- `சேரி` → *cheri*;
-- `மனுதர்மம்` → **Manudharma**;
-- `சூத்திரர்கள்` → **Shudras**;
-- `செருப்பாண்டாலும் சரி` → **even if a sandal rules, so be it** without inserted explanatory gloss;
-- `இந்துமதக் கொடுவாள்` → **cruel sword of Hinduism**;
-- `மதக்கொடுவாள்` → **cruel sword of religion**;
-- `படார்.. படார்..` → *padaar.. padaar..*;
-- source closing `வாள்` repetition and `✾` ornament retained.
-
-These decisions are recorded in `translations/en/GLOSSARY.md`.
-
-## Current English state
-
-- all six translation batches — **REVIEWED**
-- all three English reading sections — **present and reviewed**
-- complete English body-text coverage — **yes**
-- internal film/main-frame scan-30 boundary — **preserved**
-- whole-work English `verified` — **NO**
-
-## Next exact activity — FINAL BILINGUAL REVIEW
+## Next exact activity — RELEASE READINESS
 
 Create:
 
-`works/balipeedam-nokki/translations/en/TRANSLATION_REVIEW.md`
+`works/balipeedam-nokki/translations/en/RELEASE_REPORT.md`
 
-Then perform whole-work bilingual alignment across:
+The release-readiness pass should:
 
-1. canonical Tamil page records `pages/0004` through `pages/0033`;
-2. assembled Tamil sections 1–3;
-3. English sections 1–3;
-4. `GLOSSARY.md` terminology/source-oddity decisions;
-5. the scan-30 intra-page boundary between sections 2 and 3.
+1. verify reader-facing navigation among all three English sections;
+2. verify links from root README, work README and English README;
+3. record the final release inventory for Tamil page records, Tamil assembled sections and English translation artifacts;
+4. state the authority hierarchy clearly: Tamil audited `pages/` > Tamil assembled `sections/` > English translation;
+5. record that source-specific oddities are deliberately preserved/documented;
+6. confirm the source PDF remains outside GitHub;
+7. identify any non-blocking editorial limitations without changing canonical Tamil;
+8. declare whether the archival package is release-ready.
 
-### Required final checks
-
-The review must explicitly confirm or correct:
-
-- no substantive omissions;
-- no additions presented as source content;
-- no altered agency or responsibility;
-- no softened political/religious/caste rhetoric;
-- no intensified rhetoric beyond the Tamil;
-- consistent names, titles and recurring terms;
-- source oddities remain visible/documented rather than silently normalized;
-- cinematic vocabulary and form remain intact;
-- title-card and `வணக்கம்` end-card remain internal to the one work;
-- scan 29→30 and scan 30→31 joins remain correct;
-- `ராயசம் வெங்கண்ணு` remains internal, not a separate work;
-- audited Tamil remains controlling authority.
-
-### Items to revisit deliberately in final review
-
-- Batch 5 cautious `புத்த பூதம்` → **a new demon**;
-- any remaining transliterated source-bound forms such as *mitthanamathan*, *kilathirukkirathu*, *thegidu thaththakkar*, *Tharppakurar*, *Pulikkir veera*, *vanavaninam*, *pasalu*;
-- Batch 6 pluralized named references;
-- closing verse syntax and repeated `வாள்`.
-
-Only after `TRANSLATION_REVIEW.md` passes may:
-
-- all English sections be advanced to whole-work `verified`;
-- `PROGRESS.md`, readmes and this handover state `verified`;
-- a `RELEASE_REPORT.md` be created.
-
-## Final release gate
-
-No release is final until the bilingual review confirms the above and the repository still contains **no source PDF**.
+Do not reopen verified Tamil readings merely for stylistic modernization. Any future reader-facing edition must derive from the verified layers and keep provenance clear.
