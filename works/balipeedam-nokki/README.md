@@ -67,7 +67,7 @@ The audited `pages/` records are authoritative whenever another derived layer di
 
 ## Assembled Tamil reading layer — COMPLETE
 
-Reading-friendly, source-faithful assembly now exists under [`sections/`](sections/):
+Reading-friendly, source-faithful assembly exists under [`sections/`](sections/):
 
 1. [`01-opening-frame.md`](sections/01-opening-frame.md) — scans 4–7
 2. [`02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md) — scans 8–29 plus scan 30 through the internal film end-card
@@ -89,6 +89,38 @@ Scan 30 contains both the final movement/end-card of the internal film and the n
 
 The assembled layer has been cross-checked against the audited page records and is marked **PASSED** in `audit.md`.
 
+## English translation plan — COMPLETE
+
+Translation policy is now defined at:
+
+[`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md)
+
+The plan establishes:
+
+- working English title **_Towards the Sacrificial Altar_**;
+- six controlled translation batches mapped to the three assembled Tamil sections;
+- the permanent one-work rule keeping `ராயசம் வெங்கண்ணு` internal;
+- audited `pages/` as textual authority and `sections/` as the continuity layer;
+- name/place transliteration consistency;
+- treatment of caste, religion, Dravidian-movement rhetoric and polemical language without softening or intensifying;
+- preservation of cinematic vocabulary and screen/stage directions;
+- handling of source oddities without silently correcting Tamil;
+- dialogue / quotation / punctuation conventions;
+- page-level source traceability;
+- statuses `draft-translated`, `source-checked`, `reviewed`, `verified`;
+- mandatory final `TRANSLATION_REVIEW.md` and release gate.
+
+### Translation batches
+
+1. **Pilot:** scans 4–7 — opening frame.
+2. scans 8–13 — title card, Nayak court, battle and Vijayaraghava's fall.
+3. scans 14–20 — Alagiri/Vengannu and Sengamaladasan discovery.
+4. scans 21–26 — Bijapur/Venkoji intervention through ministership conflict.
+5. scans 27–30 through the internal film's `வணக்கம்` end-card.
+6. scan 30 from `படம் முடிந்துவிட்டது...` through scan 33 — return and conclusion.
+
+The long internal sequence will still end as one English section file; these batches are review/control boundaries, not separate work identities.
+
 ## Important resolved source readings
 
 Character-level review confirmed or corrected, among others:
@@ -103,26 +135,17 @@ Character-level review confirmed or corrected, among others:
 - `விபரீதத்தை ஏற்கத்`
 - `ஒரு காரணம்!`
 
-These must not be silently normalized later.
+These must not be silently normalized later. Translation difficulty around any of these must be handled by cautious English and, where necessary, an explicit source note.
 
 ## Current status
 
 **Tamil source-preservation layer: PASSED**  
 **Assembled Tamil reading layer: PASSED**  
-**Translation-ready: YES**
+**English translation plan: COMPLETE**  
+**English prose translation: NOT STARTED**
 
 ## அடுத்த செயல்
 
-Prepare an **English translation plan** before translating prose.
+Begin **Batch 1 pilot translation — scans 4–7 / `sections/01-opening-frame.md`**.
 
-The plan should define:
-
-- translation unit/batch boundaries based on the three assembled Tamil sections;
-- handling of political rhetoric, historical names, caste/religious terminology and cinematic vocabulary;
-- policy for source oddities and ambiguous historical references;
-- Tamil-to-English name/transliteration consistency;
-- quote/dialogue and screenplay-direction conventions;
-- source-page traceability for every translation batch;
-- review gates before any English text is marked final.
-
-Translation may read continuously from `sections/`, but difficult wording must always be checked against the canonical audited `pages/` layer.
+The pilot must be source-checked before Batch 2 begins. During that review, create and lock the initial `translations/en/GLOSSARY.md` decisions for the central `பலிபீடம்` metaphor, `ஆரியம்`, self-respect/rationalist vocabulary, historical names, rhetorical repetition and the transition into the internal film.
