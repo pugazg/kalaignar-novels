@@ -4,13 +4,13 @@ printed_page: 26
 work: "balipeedam-nokki"
 section: "ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065570_பலிபீடம்_நோக்கி.pdf"
-transcription_method: "direct visual comparison with source scan"
+transcription_method: "direct visual comparison with enlarged source scan"
 ---
 
-தெருவின் மூல வரையில் தான் அவர்களைப் பார்க்க முடிகிறது. பிறகு காட்சியில் **[ஒரு குறும் அச்சுச் சொல் / சொற்றொடர் தெளிவாக வாசிக்கப்படவில்லை]**!
+தெருவின் மூல வரையில் தான் அவர்களைப் பார்க்க முடிகிறது. பிறகு காட்சியில் ஒரு காரணம்!
 
 வெங்காஜி தன் மாளிகைத் தாழ்வாரத்தில் உலவிக்கொண்டிருக்கிறான். சிந்தனைக் கீறல்கள் நெற்றியில் ஒன்றன் மேல் ஒன்றாகப் படிகின்றன. உலகைக் கொண்டிருந்தவன் நடையை நிறுத்தி வாயைத் திறக்கிறான்.
 
@@ -36,8 +36,7 @@ transcription_method: "direct visual comparison with source scan"
 
 ## Scan observations
 
-- The first scene-transition sentence contains one short unresolved printed word/phrase after `பிறகு காட்சியில்`; it is explicitly marked instead of being reconstructed from narrative context.
-- Because that phrase needs a higher-confidence character-level check, the page remains `needs-review`.
+- Enlarged character-level review resolves the previously open scene-transition phrase as the unusual source text `ஒரு காரணம்!`; it is retained exactly as printed rather than rewritten for narrative sense.
 - Source-specific forms such as `அவனு சிறுவன் இல்லை` and the cinematic progression are preserved as printed.
 
 <!-- மூல ஸ்கேன் பக்கம்: 27; அச்சுப் பக்கம்: 26 -->
