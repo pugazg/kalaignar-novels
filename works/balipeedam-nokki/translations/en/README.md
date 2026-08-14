@@ -49,31 +49,34 @@ Section 3 should be created only when Batch 6 begins; do not create empty placeh
 - Batch 1 / scans 4–7: **reviewed**.
 - Batch 2 / scans 8–13: **reviewed**.
 - Batch 3 / scans 14–20: **reviewed**.
-- Batch 4 / scans 21–26: **NEXT**.
-- Batches 5–6: **not started**.
+- Batch 4 / scans 21–26: **reviewed**.
+- Batch 5 / scans 27–30 through `வணக்கம்`: **NEXT**.
+- Batch 6 / return and conclusion: **not started**.
 - Whole-work English `verified`: **no**.
 
 English sections currently present:
 
 1. [`sections/01-opening-frame.md`](sections/01-opening-frame.md) — scans 4–7, reviewed.
-2. [`sections/02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md) — reviewed translated coverage through scan 20; Batches 4–5 must continue by appending to this same file.
+2. [`sections/02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md) — reviewed translated coverage through scan **26**; Batch 5 must continue by appending to this same file.
 
-### Batch 3 review
+### Batch 4 review
 
-Batch 3 was checked against canonical Tamil pages 0014–0020. The review confirms:
+Batch 4 was checked against canonical Tamil pages 0021–0026. The review confirms:
 
-- no substantive paragraph, dialogue turn, action direction, on-screen text unit or scene transition omitted;
-- the Alagiri–Vengannu treasure dispute and Aryanism rhetoric preserved without softening;
-- the Senguttuvan/Matalavaraiyan visual callback retained;
-- the Dutch/Portuguese/Nagai visual sequence and shop sign preserved;
-- Sengamaladasan's identity revelation and foster-parent scene retained;
-- scan 19→20 quotation/page join preserved;
-- unusual source forms remain documented instead of silently regularised.
+- no substantive paragraph, dialogue turn, action/cinematic unit or source-page transition omitted;
+- Bijapur / Shahji / Venkoji sequence preserved;
+- Alagiri's flight and death, temple/reward scene, and ministership rupture retained;
+- source place-name distinction `கும்பகோணம்` / `குடந்தை` preserved;
+- verified source oddities remain documented instead of silently regularised.
 
-New Batch-3 decisions are recorded in [`GLOSSARY.md`](GLOSSARY.md), including `கப்பம்` → **tribute**, `ராஜதந்திரம்` → **statecraft**, source-bound handling of `கிளந்திருந்த / கிளத்திருக்கிறது`, `மன்னனுக்கினேன்`, `வெத்துவேட்டுக்கள்`, `தெகிடு தத்தக்கார்களுக்கு`, `முகத்தமிடுகிறாள்`, and the metaphor `ஊமை வெயில் போல!`.
+New Batch-4 decisions are recorded in [`GLOSSARY.md`](GLOSSARY.md), including `மளமள வென்று`, `என்றுன் பேதை!`, `களேபாரப்படுகிறது`, `மன்னுக்கியது`, `தர்ப்பாகூரர்`, `விபரீதத்தை ஏற்கத்`, `தீவணங்குகிறான்`, `காற்று முறிந்து`, *poovaragan*, and the Kumbakonam/Kudanthai distinction.
 
 Detailed batch audit: [`PROGRESS.md`](PROGRESS.md).
 
 ## Translation principle
 
 The goal is clear English that remains source-bound. Political force, accusation, irony, repetition, rhetorical questions, historical-cinematic form and source oddities are preserved without softening, intensifying or silently reconstructing the Tamil.
+
+## Next activity
+
+Translate **Batch 5 — scans 27–30 only through the internal film's `வணக்கம்` end-card**. The remainder of scan 30 beginning `படம் முடிந்துவிட்டது...` belongs to Batch 6 and must not be included in Batch 5.
