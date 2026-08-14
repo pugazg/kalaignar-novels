@@ -4,10 +4,10 @@ printed_page: 12
 work: "balipeedam-nokki"
 section: "ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065570_பலிபீடம்_நோக்கி.pdf"
-transcription_method: "direct visual comparison with source scan"
+transcription_method: "direct visual comparison with enlarged source scan"
 ---
 
 கண்டு துடிக்கிறேன். என் தான தர்மங்கள் தெய்வ பக்திகள் வீண் தானா? தாத்தாச்சார்யாவின் வாழ்த்து தண்ணீரில் விழுந்த சாம்பல் போல் கரைந்துவிட்டதே!... கடவுள்களுக்கு அழித்த பொக்கிஷத்தை என் படைப்பெருக்கத்திற்கு செலவிட்டிருந்தால் இக்கதி வந்திராதே!......’
@@ -25,7 +25,7 @@ transcription_method: "direct visual comparison with source scan"
 ## Scan observations
 
 - The opening text directly continues the quotation left open on scan 12; the closing quotation mark after `வந்திராதே!......` is preserved from this page.
-- The form currently read as `முச்சுற்றுப்படுத்திருக்கும்` is visually unusual and is retained without normalization; this page remains `needs-review` for a later character-level audit.
+- Enlarged character-level review confirms the printed form `முச்சுற்றுப்படுத்திருக்கும்`; it is retained without normalization.
 - Reverse-side bleed-through and light age marks are visible and are not part of the printed text.
 
 <!-- மூல ஸ்கேன் பக்கம்: 13; அச்சுப் பக்கம்: 12 -->
