@@ -4,10 +4,10 @@ printed_page: 25
 work: "balipeedam-nokki"
 section: "ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065570_பலிபீடம்_நோக்கி.pdf"
-transcription_method: "direct visual comparison with source scan"
+transcription_method: "direct visual comparison with enlarged source scan"
 ---
 
 ‘வாக்குறுதியை மீறுவது சரியா?’
@@ -16,9 +16,9 @@ transcription_method: "direct visual comparison with source scan"
 
 ‘அமைச்சர் பதவி அப்பாவுக்குத்தான்! அதை மாற்ற முடியாது. தயவுசெய்து என்னை மன்னித்து விடுங்கள்.’
 
-தீவணங்குகிறான் தஞ்சை அரசன். தற்பாகூரர் வெங்கண்ணு தடதடவென ஆத்திர மொழிகளை அள்ளிக்கொட்டுகிறான்.
+தீவணங்குகிறான் தஞ்சை அரசன். தர்ப்பாகூரர் வெங்கண்ணு தடதடவென ஆத்திர மொழிகளை அள்ளிக்கொட்டுகிறான்.
 
-‘அடே! நீ ஆரியத்தை உணரவில்லை. விஷத்தை நாக்கில் தடவிக்கொள்கிறாய். வீரத்ததை எறக்கத் தயாராயிரு. அழகிரியின் அடிச்சுவட்டைப் பின்பற்றுகிறாய். ஆபத்து வெடிக்கப்போகிறது. இனி ஆண்டவன் பொறுக்கமாட்டான்.’
+‘அடே! நீ ஆரியத்தை உணரவில்லை. விஷத்தை நாக்கில் தடவிக்கொள்கிறாய். விபரீதத்தை ஏற்கத் தயாராயிரு. அழகிரியின் அடிச்சுவட்டைப் பின்பற்றுகிறாய். ஆபத்து வெடிக்கப்போகிறது. இனி ஆண்டவன் பொறுக்கமாட்டான்.’
 
 வெங்கண்ணு நந்தவனத்தை விட்டே வேகமாக வெளியேறுகிறான். அவன் வேகத்தில் மோதுண்ட ஒரு மல்லிகை மொட்டு... காற்று முறிந்து கீழே விழுவதைக் காண்கிறோம். செங்கமல தாசன் சோக நடை போடுகிறான். இதையும் பின்னணி சங்கீதத்துடன்... கும்பகோணத்தின் மகாமகக் குளம் காட்சியாகிறது.
 
@@ -32,6 +32,6 @@ transcription_method: "direct visual comparison with source scan"
 
 - A large library stamp overlaps the upper-right portion of the printed page.
 - Handwritten underlines and a bracket/brace mark emphasize part of the quotation beginning `அடே! நீ ஆரியத்தை...`; these marks are copy-specific and are not part of the printed text.
-- The current visual readings `தற்பாகூரர்` and `வீரத்ததை எறக்கத்` are unusual and have not been normalized. The page remains `needs-review` for character-level confirmation of those forms.
+- Enlarged character-level review resolves the earlier uncertain readings as `தர்ப்பாகூரர்` and `விபரீதத்தை ஏற்கத்`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 26; அச்சுப் பக்கம்: 25 -->
