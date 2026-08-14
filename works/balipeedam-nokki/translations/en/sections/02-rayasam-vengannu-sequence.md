@@ -4,9 +4,9 @@ layer: "english-translation"
 section_order: 2
 section_title: "Towards the Sacrificial Altar — Internal Rayasam Vengannu Sequence"
 language: "en"
-source_scans: "8-26 (Batches 2-4; section continues through scan 30 end-card)"
+source_scans: "8-30 through internal film end-card (Batches 2-5)"
 status: "reviewed"
-derived_from: "audited Tamil pages/0008-0026 and verified assembled Tamil section"
+derived_from: "audited Tamil pages/0008-0030 and verified assembled Tamil section"
 ---
 
 # Rayasam Vengannu
@@ -17,8 +17,8 @@ derived_from: "audited Tamil pages/0008-0026 and verified assembled Tamil sectio
 
 > **Translator's note:** This English translation follows the audited first-edition Tamil source preserved in this repository. It aims to carry Kalaignar's argument, rhetoric, dialogue, historical-cinematic form and political intensity into clear English without modernising or silently correcting the Tamil. The audited Tamil page records remain authoritative. `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` is retained as an internal film-like sequence of `பலிபீடம் நோக்கி`, not treated as a separate work.
 
-**Current translated coverage:** scans 8–26  
-**Canonical Tamil:** [`../../pages/0008-balipeedam-nokki-05.md`](../../pages/0008-balipeedam-nokki-05.md) through [`../../pages/0026-balipeedam-nokki-23.md`](../../pages/0026-balipeedam-nokki-23.md)
+**Current translated coverage:** scans 8–30 through the internal film's `வணக்கம்` end-card  
+**Canonical Tamil:** [`../../pages/0008-balipeedam-nokki-05.md`](../../pages/0008-balipeedam-nokki-05.md) through [`../../pages/0030-balipeedam-nokki-27.md`](../../pages/0030-balipeedam-nokki-27.md), stopping within scan 30 before `படம் முடிந்துவிட்டது...`
 
 ### Erimalai ‘Release’
 
@@ -450,6 +450,105 @@ Through the camera's magic, beautiful parts of Kudanthai are caught and move pas
 - The source prints `காற்று முறிந்து` in the jasmine-bud image. English uses **“breaks in the air and falls”** rather than silently changing the Tamil to a more expected anatomical/plant term.
 - `குடந்தை` is kept as **Kudanthai** where the source uses that place-name form; `கும்பகோணம்` remains **Kumbakonam**.
 
-## Section continuation
+---
 
-This English section remains incomplete at the work level. Batch 5 will continue the same internal cinematic sequence from scans 27–30 through the source's `வணக்கம்` end-card and must be appended to this same file.
+## Batch 5 — Final movement of the internal film
+
+We can see the two men only as far as the street corner. Then, in the scene, **a reason!**
+
+Venkoji is pacing along the veranda of his mansion. Furrows of thought pile one upon another across his forehead. The man who seemed to possess the world stops walking and opens his mouth.
+
+“Fine story,” he says with sarcasm. Until now we have seen only Venkoji; now we see Vengannu as well. Rubbing his sacred thread, the priest steps towards Venkoji.
+
+“O ruler of the Maratha clan! The throne of Thanjavur calls you.”
+
+“This is becoming a game.”
+
+“Yes. Sengamalam has taken politics itself for a game.”
+
+“Poor boy!... He needs maturity.”
+
+“Son of Shahji! He is no child. A seed of poison!... He is asking for counsel on how to kill you.”
+
+“He knows his own strength. He would not think of anything like that.”
+
+“Can he fight you and win? That is not it. But...”
+
+“But what...?”
+
+“Warrior!... I have come now to invite you to a feast.”
+
+<!-- source: scan 27; printed page: 26 -->
+
+“A feast?”
+
+“Listen! The invitation is to a feast. What happens there too will be a feast. But... the feast will bring you down.”
+
+“Reason?”
+
+“Sengamalam's plot! He has arranged to mix poison into the feast.”
+
+“Ungrateful villain! I myself will muster our army. Let my dream of ruling Thanjavur... come true. An earthen mound stands against the rain...!”
+
+“Yes!... That earthen mound is going to dissolve in a rain of blood.”
+
+“From now on, I alone am king of Thanjavur.”
+
+“*Pulikkir veera!* The Maratha Empire is about to rise. The arrogant Nayak line is about to set.”
+
+“An opportunity for Thanjavur to savour Maratha valour once more.”
+
+“Your Majesty!... During your reign .????”
+
+Vengannu draws the matter out and turns it aside.
+
+“Brahmins will live. The temple will prosper. The agraharam will flourish. Do not fear.”
+
+“Are you not Shivaji's younger brother!... O great warrior of Maharashtra! Long live! Long live!... Long live the Brahmin *vanavaninam*... long live!...”
+
+<!-- source: scan 28; printed page: 27 -->
+
+The conversation ends here... Thanjavur is in total turmoil. Crowds of warriors in every street. A horrifying sight—children trampled to death beneath horses' hooves! The Maratha army is about to enter the fort gate. The dreadful noise changes; silence prevails. Sengamaladasan stands utterly alone. The enemies have entered the fort. The cannons that guarded the fort gate observe a vow of silence... as though a new demon too were observing a hunger strike. There is no one to ask why. The enemy army's trumpet pours out the note of victory. The Nayak flag that had flown over the fort front... is burning. Through those waves of flame, Vengannu's arrogant laughter also rings out.
+
+We see Sengamaladasan again. Where? In the palace?... No. We see him on a dark forest path. In that unfathomable darkness, that tender shoot of a boy gazes upon the fort-gate flag blazing in flame. He cries “Go!” aloud. Drowning that cry, a thousand heads laugh there. Every one of them is Vengannu's head!
+
+Only laughter?... They speak.
+
+“Hey!... boy!... When the Vengannu line wills it, it will bind on the crown—and it will show the sacrificial altar too.”
+
+Again, one great arrogant laugh!...
+
+Sengamaladasan runs like a madman. Yes!... the king of Thanjavur staggers like that—
+
+<!-- source join: scan 29 ends `அப்படித்`; scan 30 begins `தத்தளிக்கிறான்...` -->
+<!-- source: scan 29; printed page: 28 -->
+
+—staggers... reels like a drunkard. He groans like a poor labourer beaten until his skin is torn by a master's brutal whip.
+
+A tree stops his swaying and gives him peace. With blood running all over his face, the ruler of Thanjavur lies down upon the ground as a corpse. That was the sacrificial altar Vengannu had built for that *pasalu*!...
+
+Vengannu's laughter ceases. The darkness clears...
+
+The words **“Rise of the Maratha Empire”** themselves form a frame, and the sun of time rises. To mark the end of the picture, the word **“Vanakkam”** leaps onto the screen. Above it, inside a circle, Vedic priest Vengannu places a garland around Venkoji.
+
+<!-- source: scan 30; printed page: 29; Batch 5 stops at the internal film's `வணக்கம்` end-card -->
+<!-- IMPORTANT: `படம் முடிந்துவிட்டது...` on the same scan belongs to Batch 6 / section 3 and is intentionally not translated here. -->
+
+## Batch 5 translation notes
+
+- Batch 5 completes the **internal cinematic sequence** and stops exactly at scan 30's source-printed `வணக்கம்` end-card. The following `படம் முடிந்துவிட்டது...` begins the narrator's return to the main `பலிபீடம்` frame and is reserved for Batch 6 / section 3.
+- Scan 27's verified but narratively unusual `ஒரு காரணம்!` is retained literally as **“a reason!”** rather than silently rewritten into a more expected scene-transition word.
+- Scan 28's unusual forms `நானுக்கே`, `புலிக்கிர் வீரா`, and `வானவாணினம்` are not corrected in Tamil. English renders the first contextually as **“I myself will muster our army”** and retains the latter two as **_Pulikkir veera_** and **_vanavaninam_** because their exact lexical force is not secure from the source alone.
+- The four source question marks in `அரசே!... தங்கள் ஆட்சிக் காலத்தில் .????` are preserved as **“.????”** rather than regularised.
+- Scan 29's `புத்த பூதம்` image is translated conservatively as **“a new demon”**; the exact Tamil remains canonical.
+- `பட்டமும் கட்டும் — பலிபீடத்தையும் காட்டும்` is kept as **“it will bind on the crown—and it will show the sacrificial altar too”** so that the internal film explicitly reconnects with the governing `பலிபீடம்` metaphor before its end-card.
+- The scan 29→30 page join `அப்படித்` + `தத்தளிக்கிறான்` is preserved as one continuous English sentence and documented with a source-join comment.
+- Scan 30's unusual `பசலுக்கு` is retained as **_pasalu_** rather than assigned an unsupported meaning.
+- `மராட்டிய சாம்ராஜ்யம் உதயம்` is translated as **“Rise of the Maratha Empire”** while preserving its function as on-screen end-frame text.
+- `வணக்கம்` is retained as **“Vanakkam”** because it is a source-printed film end-card, not ordinary dialogue.
+
+## Internal-sequence translation status
+
+**Scans 8–30 through `வணக்கம்`: REVIEWED.**
+
+The internal `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` cinematic sequence is now fully translated. Batch 6 must begin in a new English section file at the same scan's next sentence: `படம் முடிந்துவிட்டது...`.
