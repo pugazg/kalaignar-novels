@@ -71,29 +71,36 @@ Working English title: **_Towards the Sacrificial Altar_**.
 |---|---:|---|
 | 1 — opening-frame pilot | 4–7 | **reviewed** |
 | 2 — internal title card / Nayak court / battle | 8–13 | **reviewed** |
-| 3 — Alagiri–Vengannu / Sengamaladasan | 14–20 | **NEXT** |
-| 4 — Bijapur–Venkoji / restoration / conflict | 21–26 | not-started |
+| 3 — Alagiri–Vengannu / Sengamaladasan | 14–20 | **reviewed** |
+| 4 — Bijapur–Venkoji / restoration / conflict | 21–26 | **NEXT** |
 | 5 — final internal-film movement | 27–30 through `வணக்கம்` | not-started |
 | 6 — return and conclusion | scan 30 from `படம் முடிந்துவிட்டது...` through 33 | not-started |
 
 English artifacts now present:
 
 - [`translations/en/sections/01-opening-frame.md`](translations/en/sections/01-opening-frame.md) — reviewed scans 4–7.
-- [`translations/en/sections/02-rayasam-vengannu-sequence.md`](translations/en/sections/02-rayasam-vengannu-sequence.md) — reviewed Batch 2, scans 8–13; later internal-sequence batches must be appended to this same file.
+- [`translations/en/sections/02-rayasam-vengannu-sequence.md`](translations/en/sections/02-rayasam-vengannu-sequence.md) — reviewed translated coverage through scan 20; Batches 4–5 continue in the same file.
 
-### Batch 2 source review
+### Batch 3 source review
 
-Batch 2 was checked back against canonical Tamil pages 0008–0013. The review confirms:
+Batch 3 was checked back against canonical Tamil pages 0014–0020. The review confirms:
 
-- internal title card and film-credit order preserved;
-- no substantive paragraph, dialogue turn, action direction or cinematic unit omitted;
-- `ராயசம் வெங்கண்ணு` remains internal to the one work;
-- scan-10 `மித்தானமத்தனுக்குக்` is retained cautiously as *mitthanamathan*, not guessed;
-- scan-13 `முச்சுற்றுப்படுத்திருக்கும்` is documented while receiving a cautious contextual English rendering;
-- scan 10→11 and 12→13 quotation continuity preserved;
-- cinematic cues, sound effects and bracketed directions remain visible.
+- no substantive paragraph, dialogue turn, action direction, on-screen text unit or cinematic transition omitted;
+- the Alagiri–Vengannu strategy and treasure dispute preserved;
+- `ஆரியம்` rhetoric retained without softening/intensifying;
+- Cheran Senguttuvan / Matalavaraiyan visual callback preserved;
+- Dutch / Portuguese / Nagai screen sequence and shop sign retained;
+- Sengamaladasan identity revelation and foster-parent scene retained;
+- scan 19→20 quotation continuity preserved;
+- source oddities remain documented rather than silently normalized.
 
-`GLOSSARY.md` now records new Batch-2 terms including *kanyadanam*, *santharpanam*, *agraharam*, title/credit vocabulary and character-name consistency.
+Batch-3 glossary decisions include:
+
+- `கப்பம்` → **tribute**;
+- `ராஜதந்திரம்` → **statecraft**;
+- `ராயசம்` → **Rayasam**;
+- source-bound treatment of `கிளந்திருந்த / கிளத்திருக்கிறது`, `மன்னனுக்கினேன்`, `வெத்துவேட்டுக்கள்`, `சிகப்புக்கள்`, `தெகிடு தத்தக்கார்களுக்கு`, `பொன்னுடை`, `முகத்தமிடுகிறாள்`;
+- `ஊமை வெயில் போல!` → **like mute sunlight!**.
 
 ## Important source readings
 
@@ -114,11 +121,11 @@ Do not silently normalize later:
 **Tamil source-preservation layer: PASSED**  
 **Assembled Tamil reading layer: PASSED**  
 **English translation plan: COMPLETE**  
-**English Batches 1–2: REVIEWED**  
+**English Batches 1–3: REVIEWED**  
 **Whole-work English translation: IN PROGRESS**
 
 ## அடுத்த செயல்
 
-Proceed with **Batch 3 — scans 14–20** by appending to the existing `translations/en/sections/02-rayasam-vengannu-sequence.md`.
+Proceed with **Batch 4 — scans 21–26** by appending to the existing `translations/en/sections/02-rayasam-vengannu-sequence.md`.
 
-Translate every substantive unit, preserve dialogue/action/screen form and source oddities, then source-check against canonical pages `0014`–`0020`. Update glossary/progress/handover only after that review passes.
+Read canonical pages `0021`–`0026` first. Preserve all dialogue, action/screen form and source oddities—especially `மளமள வென்று`, `என்றுன் பேதை!`, `களேபாரப்படுகிறது`, `தர்ப்பாகூரர்`, and `விபரீதத்தை ஏற்கத்`. Source-check Batch 4 before advancing to Batch 5.
