@@ -12,7 +12,7 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 Tamil verified; assembled Tamil PASSED; English Batches 1–3 reviewed; Batch 4 next** |
+| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 Tamil verified; assembled Tamil PASSED; English Batches 1–4 reviewed; Batch 5 next** |
 
 ### முக்கிய structural note
 
@@ -37,8 +37,9 @@ Source continuity:
 - English Batch 1 / scans 4–7 — **reviewed**
 - English Batch 2 / scans 8–13 — **reviewed**
 - English Batch 3 / scans 14–20 — **reviewed**
-- English Batch 4 / scans 21–26 — **NEXT**
-- English Batches 5–6 — **not started**
+- English Batch 4 / scans 21–26 — **reviewed**
+- English Batch 5 / scans 27–30 through `வணக்கம்` — **NEXT**
+- English Batch 6 — **not started**
 - source PDF in repository — **No**
 
 Key files:
@@ -51,9 +52,7 @@ Key files:
 - [`works/balipeedam-nokki/translations/en/sections/01-opening-frame.md`](works/balipeedam-nokki/translations/en/sections/01-opening-frame.md)
 - [`works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md`](works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md)
 
-English Batch 3 has been appended to the same internal-sequence file and reviewed against canonical Tamil scans/pages 14–20. `ராயசம் வெங்கண்ணு` remains internal to the one work.
-
-அடுத்த activity: **English Batch 4 — scans 21–26**. இதையும் existing `02-rayasam-vengannu-sequence.md` file-க்கு append செய்ய வேண்டும். Source-check முடிந்த பின்பே Batch 5 தொடங்க வேண்டும்.
+English reviewed coverage now reaches **scan 26**. The next Batch 5 continues in the same internal-sequence file through the scan-30 `வணக்கம்` end-card only. The later `படம் முடிந்துவிட்டது...` text starts Batch 6 and the return/conclusion section.
 
 ## களஞ்சிய அமைப்பு
 
