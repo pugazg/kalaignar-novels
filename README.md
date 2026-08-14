@@ -14,7 +14,7 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | full-work structural review complete; 34-page manifest; **12/34 page records**; **10 verified / 2 needs-review** |
+| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 page records created; 27 verified / 7 needs-review; targeted Tamil audit pending** |
 
 ### முக்கிய structural note
 
@@ -23,23 +23,24 @@
 Source continuity:
 
 - scan 7 — narrator திரைப்படக் காட்சியைத் தானே அறிமுகப்படுத்துகிறார்;
-- scans 8–29 — அந்த cinematic-historical sequence;
-- scan 30 — `படம் முடிந்துவிட்டது... பலிபீடம் நோக்க...` என்று main frame-க்கு நேரடியாகத் திரும்புகிறது;
-- scans 31–33 — `பலிபீடம்` argument-ன் conclusion.
+- scans 8–29 — cinematic-historical sequence;
+- scan 30 — `படம் முடிந்துவிட்டது... பலிபீடம் நோக்க...` என்று main frame-க்கு திரும்புகிறது;
+- scans 31–33 — `பலிபீடம்` argument-ன் conclusion;
+- scan 34 — blank/back matter.
 
-அதனால் scans 4–33 அனைத்தும் ஒரே `work: balipeedam-nokki` identity-யின் கீழ் archive செய்யப்படும். `ராயசம் வெங்கண்ணு` source heading ஒரு internal `section` label ஆக மட்டும் பாதுகாக்கப்படும்.
+அதனால் scans 4–33 அனைத்தும் ஒரே `work: balipeedam-nokki` identity-யின் கீழ் archive செய்யப்பட்டுள்ளன. `ராயசம் வெங்கண்ணு` source heading internal `section` label ஆக மட்டும் பாதுகாக்கப்பட்டுள்ளது.
 
 ### தற்போதைய page status
 
-- scan 1 — `verified`
-- scan 2 — `verified`
-- scan 3 — `needs-review` (publisher-note-ல் ஒரு குறும் சொற்றொடர் unresolved)
-- scans 4–9 — `verified`
-- scan 10 — `needs-review` (`மித்தானமத்தனுக்குக்` என்ற unusual source reading later audit தேவை)
-- scans 11–12 — `verified`
-- scans 13–34 — `not-started`
+- page records — **34 / 34**
+- `verified` — **27**
+- `needs-review` — **7**
+- `not-started` — **0**
+- PDF in repository — **No**
 
-அடுத்த batch: **scans 13–17**, continuing the same `பலிபீடம் நோக்கி` work.
+Review queue: scans **3, 10, 13, 21, 23, 26, 27**. Unclear or unusual readings remain explicit rather than being reconstructed from context.
+
+அடுத்த activity: அந்த ஏழு `needs-review` பக்கங்களின் character-level review, அதன் பிறகு முழு 34-page Tamil consistency audit.
 
 ## களஞ்சிய அமைப்பு
 
@@ -55,10 +56,11 @@ works/
     indexes/
       page-map.md
     pages/
+    audit.md
     sections/
 ```
 
-ஒவ்வொரு நூலும் தனித்த `works/<work-slug>/` அடைவில் பதிவாகும். பக்கவாரி records முதன்மை archival layer; பின்னர் தேவையான section/chapter assemblies, audit, translation மற்றும் review files சேர்க்கப்படும்.
+ஒவ்வொரு நூலும் தனித்த `works/<work-slug>/` அடைவில் பதிவாகும். பக்கவாரி records முதன்மை archival layer; பின்னர் section/chapter assemblies, audit, translation மற்றும் review files சேர்க்கப்படும்.
 
 விரிவான workflow: [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md).  
 தற்போதைய நூல்: [`works/balipeedam-nokki/README.md`](works/balipeedam-nokki/README.md).
