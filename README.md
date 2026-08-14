@@ -8,7 +8,17 @@
 
 மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது. **மூல PDF கோப்புகள் repository-யில் commit செய்யப்படாது.**
 
-## தற்போதைய நூல்
+## Project continuation documents
+
+அடுத்த புதினம் / கதைநூலை புதிய chat-ல் தொடங்குவதற்கு:
+
+- [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md) — முழு reusable archival + translation + release workflow
+- [`HANDOVER.md`](HANDOVER.md) — current project state, completed reference implementation, exact next-work onboarding sequence
+- [`NEXT_NOVEL_CHAT_PROMPT.md`](NEXT_NOVEL_CHAT_PROMPT.md) — புதிய source PDF-ஐ attach செய்து fresh ChatGPT chat-ல் copy/paste செய்ய வேண்டிய prompt
+
+புதிய work-க்கு `works/balipeedam-nokki/` completed reference implementation ஆக பயன்படுத்தலாம்; ஆனால் புதிய source structure-ஐ அந்த work-க்கு force-fit செய்யக்கூடாது.
+
+## நிறைவு பெற்ற reference work
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
@@ -27,7 +37,7 @@ Source continuity:
 - scans 31–33 — conclusion;
 - scan 34 — blank/back matter.
 
-### தற்போதைய status
+### இறுதி status
 
 - Tamil page records — **34 / 34**
 - Tamil `verified` — **34 / 34**
@@ -66,6 +76,7 @@ The release report records the final Tamil + English inventory, verifies reader-
 README.md
 NOVEL_PROCESSING_GUIDE.md
 HANDOVER.md
+NEXT_NOVEL_CHAT_PROMPT.md
 works/
   balipeedam-nokki/
     README.md
@@ -88,4 +99,5 @@ works/
           03-return-and-conclusion.md
 ```
 
-விரிவான workflow: [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md).
+விரிவான workflow: [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md).  
+அடுத்த source-ஐ தொடங்க: [`NEXT_NOVEL_CHAT_PROMPT.md`](NEXT_NOVEL_CHAT_PROMPT.md).
