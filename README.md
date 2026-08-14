@@ -12,11 +12,11 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 Tamil verified; assembled Tamil PASSED; English Batch 1 pilot reviewed; Batch 2 next** |
+| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 Tamil verified; assembled Tamil PASSED; English Batches 1–2 reviewed; Batch 3 next** |
 
 ### முக்கிய structural note
 
-`பலிபீடம் நோக்கி` **ஒரே தொடர்ச்சியான படைப்பு**. Scan 8-ல் வரும் source-printed **`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`** தனி work அல்ல; `பலிபீடம் நோக்கி` நூலுக்குள் அமைந்த embedded cinematic-historical sequence.
+`பலிபீடம் நோக்கி` **ஒரே தொடர்ச்சியான படைப்பு**. Scan 8-ல் வரும் **`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`** தனி work அல்ல; `பலிபீடம் நோக்கி` நூலுக்குள் அமைந்த embedded cinematic-historical sequence.
 
 Source continuity:
 
@@ -27,8 +27,6 @@ Source continuity:
 - scans 31–33 — conclusion;
 - scan 34 — blank/back matter.
 
-Scans 4–33 அனைத்தும் ஒரே `work: balipeedam-nokki` identity-யின் கீழ் archive செய்யப்பட்டுள்ளன.
-
 ### தற்போதைய status
 
 - Tamil page records — **34 / 34**
@@ -37,8 +35,9 @@ Scans 4–33 அனைத்தும் ஒரே `work: balipeedam-nokki` iden
 - assembled Tamil reading layer — **PASSED**
 - English translation plan — **COMPLETE**
 - English Batch 1 / scans 4–7 — **reviewed**
-- pilot glossary/style lock — **complete**
-- English Batches 2–6 — **not started**
+- English Batch 2 / scans 8–13 — **reviewed**
+- English Batch 3 / scans 14–20 — **NEXT**
+- English Batches 4–6 — **not started**
 - source PDF in repository — **No**
 
 Key files:
@@ -49,8 +48,9 @@ Key files:
 - [`works/balipeedam-nokki/translations/en/PROGRESS.md`](works/balipeedam-nokki/translations/en/PROGRESS.md)
 - [`works/balipeedam-nokki/translations/en/GLOSSARY.md`](works/balipeedam-nokki/translations/en/GLOSSARY.md)
 - [`works/balipeedam-nokki/translations/en/sections/01-opening-frame.md`](works/balipeedam-nokki/translations/en/sections/01-opening-frame.md)
+- [`works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md`](works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md)
 
-அடுத்த activity: **English Batch 2 — scans 8–13**, internal `ராயசம் வெங்கண்ணு` title card, Nayak court, battle, and Vijayaraghava's fall. Batch 2 source-check முடிந்த பின்பே Batch 3 தொடங்க வேண்டும்.
+அடுத்த activity: **English Batch 3 — scans 14–20**. இதை புதிய work/section ஆக உருவாக்காமல் existing `02-rayasam-vengannu-sequence.md` file-க்கு append செய்ய வேண்டும். Source-check முடிந்த பின்பே Batch 4 தொடங்க வேண்டும்.
 
 ## களஞ்சிய அமைப்பு
 
@@ -74,6 +74,7 @@ works/
         GLOSSARY.md
         sections/
           01-opening-frame.md
+          02-rayasam-vengannu-sequence.md
 ```
 
 விரிவான workflow: [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md).  
