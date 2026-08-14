@@ -14,18 +14,21 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | source registered; 34-page manifest complete; 3/34 page records created |
+| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | 34-page manifest complete; 7/34 page records; scans 4–7 textual unit complete + verified |
 
-இந்த scan-இல் `பலிபீடம் நோக்கி`க்கு பின்பு **`ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை`** இடம்பெறுகிறது. இரண்டும் ஒரே scanned publication-ன் பகுதிகளாக source identity-யுடன் பாதுகாக்கப்படும்.
+இந்த scan-இல் `பலிபீடம் நோக்கி`க்கு பின்பு source-ல் அச்சிடப்பட்ட தலைப்பின்படி **`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`** இடம்பெறுகிறது. இரண்டும் ஒரே scanned publication-ன் பகுதிகளாக source identity-யுடன் பாதுகாக்கப்படும்.
 
 ### தற்போதைய page status
 
 - scan 1 — `verified`
 - scan 2 — `verified`
 - scan 3 — `needs-review` (ஒரு குறும் சொற்றொடர் unresolved; ஊகித்து நிரப்பப்படவில்லை)
-- scans 4–34 — `not-started`
+- scans 4–7 — `verified`; `பலிபீடம் நோக்கி` textual unit complete
+- scans 8–34 — `not-started`
 
-அடுத்த batch: **scans 4–7**, அதாவது `பலிபீடம் நோக்கி` textual unit முழுவதும்.
+Direct inspection of scan 8 corrected the earlier working title `ராயசம் வெங்கண்ணா` to the source-printed **`ராயசம் வெங்கண்ணு`**.
+
+அடுத்த batch: **scans 8–12**, first `ராயசம் வெங்கண்ணு` batch.
 
 ## களஞ்சிய அமைப்பு
 
