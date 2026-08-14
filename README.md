@@ -14,7 +14,7 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | full-work structural review complete; 34-page manifest; 7/34 page records; scans 4–7 verified |
+| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | full-work structural review complete; 34-page manifest; **12/34 page records**; **10 verified / 2 needs-review** |
 
 ### முக்கிய structural note
 
@@ -33,11 +33,13 @@ Source continuity:
 
 - scan 1 — `verified`
 - scan 2 — `verified`
-- scan 3 — `needs-review` (ஒரு குறும் சொற்றொடர் unresolved; ஊகித்து நிரப்பப்படவில்லை)
-- scans 4–7 — `verified`; opening segment complete
-- scans 8–34 — `not-started`
+- scan 3 — `needs-review` (publisher-note-ல் ஒரு குறும் சொற்றொடர் unresolved)
+- scans 4–9 — `verified`
+- scan 10 — `needs-review` (`மித்தானமத்தனுக்குக்` என்ற unusual source reading later audit தேவை)
+- scans 11–12 — `verified`
+- scans 13–34 — `not-started`
 
-அடுத்த batch: **scans 8–12**, continuing the same `பலிபீடம் நோக்கி` work.
+அடுத்த batch: **scans 13–17**, continuing the same `பலிபீடம் நோக்கி` work.
 
 ## களஞ்சிய அமைப்பு
 
