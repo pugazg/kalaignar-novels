@@ -101,45 +101,59 @@ Existing files:
 
 Whole-work `verified` status is reserved for final bilingual alignment after all six batches.
 
-## Batch 1 — COMPLETE + REVIEWED
+## Completed English batches
 
-Source: scans **4–7**.  
-English: `translations/en/sections/01-opening-frame.md`.  
-Status: **reviewed**.
+### Batch 1 — scans 4–7 — REVIEWED
 
-Pilot terminology/style lock is recorded in `GLOSSARY.md`, including `பலிபீடம்` → **sacrificial altar**, `ஆரியம்` → **Aryanism** when ideological, `தன்மானம்` → **self-respect**, `மறம்` → **valour**, `கொற்றம்` → **triumph**, and source-bound treatment of `குதுமன்றி`, `விருதா`, `மஹா கனம்`, `அன்பு(?)`.
+Opening frame translated and reviewed in `translations/en/sections/01-opening-frame.md`. Pilot terminology/style lock established in `GLOSSARY.md`.
 
-## Batch 2 — COMPLETE + REVIEWED
+### Batch 2 — scans 8–13 — REVIEWED
 
-Source: scans **8–13**.  
-English: `translations/en/sections/02-rayasam-vengannu-sequence.md`.  
-Status for current coverage: **reviewed**.
+Appended/created the internal title-card and Nayak-court/battle sequence in `translations/en/sections/02-rayasam-vengannu-sequence.md`.
 
-Batch 2 includes:
+Key source-bound decisions include:
 
-- internal `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` title card;
-- `எரிமலை ‘ரிலீஸ்’`, direction/screenplay/dialogue/distribution credits;
-- Kumar Tatacharya palanquin/durbar entrance;
-- Vijayaraghava–Mannaru marriage/war discussion;
-- blessing and battle transition;
-- deaths of Mannaru, Vijayaraghava and the queen;
-- Vijayaraghava dying speech across scans 12→13;
-- palace fire sequence and Sengamaladasan's escape.
-
-### Batch-2 fidelity decisions
-
-- no substantive paragraph, dialogue turn, action direction or cinematic unit omitted;
-- `ராயசம் வெங்கண்ணு` remains explicitly internal to the one work;
-- scan 10 `மித்தானமத்தனுக்குக்` retained as *mitthanamathan*, not guessed;
-- scan 13 `முச்சுற்றுப்படுத்திருக்கும்` documented; English uses cautious contextual **encircling it**;
+- `மித்தானமத்தனுக்குக்` → *mitthanamathan*;
+- `முச்சுற்றுப்படுத்திருக்கும்` → cautious contextual **encircling it**;
 - `கன்னிகாதானம்` → *kanyadanam*;
 - `சந்தர்ப்பணம்` → *santharpanam*;
 - `அக்கிரகாரம்` → *agraharam*;
-- `குளோசப்` → **close-up**;
-- source sound effects and bracketed directions remain visible;
-- open quotation continuity scan 10→11 and 12→13 preserved.
+- cinematic cues / close-up / sound effects retained.
 
-`GLOSSARY.md` has been updated with these decisions and Batch-2 names/film vocabulary.
+### Batch 3 — scans 14–20 — REVIEWED
+
+Batch 3 has been appended to the **same** `translations/en/sections/02-rayasam-vengannu-sequence.md` and source-checked against canonical Tamil pages 0014–0020.
+
+Coverage includes:
+
+- Madurai's conquest / Alagiri appointment on-screen text;
+- Vengannu's tribute/statecraft strategy;
+- Alagiri–Vengannu reward and treasure dispute;
+- their rupture and Aryanism rhetoric;
+- Senguttuvan/Matalavaraiyan visual callback;
+- coastal/Dutch/Portuguese/Nagai sequence and shop sign;
+- discovery of the grown Sengamaladasan;
+- foster-mother revelation and bag of sovereigns;
+- Sengamaladasan's decision to reclaim his fathers' land;
+- foster-father warning and Vengannu's assurance that Alagiri will fall.
+
+Batch-3 fidelity decisions:
+
+- no substantive paragraph, dialogue turn, printed direction, on-screen textual unit or cinematic transition omitted;
+- `கப்பம்` → **tribute**;
+- `ராஜதந்திரம்` → **statecraft**;
+- `ராயசம்` retained as **Rayasam**;
+- `கிளந்திருந்த` → cautious contextual **with its greed already astir**;
+- `கிளத்திருக்கிறது` retained as *kilathirukkirathu* rather than guessed;
+- `மன்னனுக்கினேன்` → contextual **I made Madurai's slave into a king**;
+- `வெத்துவேட்டுக்கள்` → **empty shots**;
+- Nagai sign `சிகப்புக்கள்` → literal **reds**, without inventing a commodity;
+- `தெகிடு தத்தக்கார்களுக்கு` → *thegidu thaththakkar*;
+- `முகத்தமிடுகிறாள்` → cautious contextual **touches his face**;
+- `ஊமை வெயில் போல!` → **like mute sunlight!**;
+- scan 19→20 quotation and `பாது` / `காத்துக்கொள்` continuity preserved.
+
+These decisions are recorded in `translations/en/GLOSSARY.md` and `PROGRESS.md`.
 
 ## Translation batch status
 
@@ -147,29 +161,30 @@ Batch 2 includes:
 |---|---|---|
 | 1 — pilot opening frame | scans 4–7 | **reviewed** |
 | 2 — title card / Nayak court / battle | scans 8–13 | **reviewed** |
-| 3 — Alagiri–Vengannu / Sengamaladasan | scans 14–20 | **NEXT** |
-| 4 — Bijapur–Venkoji / restoration / ministership conflict | scans 21–26 | not-started |
+| 3 — Alagiri–Vengannu / Sengamaladasan | scans 14–20 | **reviewed** |
+| 4 — Bijapur–Venkoji / restoration / ministership conflict | scans 21–26 | **NEXT** |
 | 5 — final internal-film movement | scans 27–30 through `வணக்கம்` | not-started |
 | 6 — return and conclusion | scan 30 from `படம் முடிந்துவிட்டது...` through 33 | not-started |
 
-## Next exact activity — Batch 3
+## Next exact activity — Batch 4
 
-Translate **scans 14–20** by **appending to the existing**:
+Translate **scans 21–26** by appending to:
 
 `works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md`
 
-### Batch-3 requirements
+Requirements:
 
 1. Do not create a new work or a new internal-sequence file.
-2. Read canonical Tamil pages `0014` through `0020` before translating.
-3. Append every substantive unit from scans 14–20; do not summarise.
+2. Read canonical Tamil pages `0021` through `0026` before translating.
+3. Append every substantive unit from scans 21–26; do not summarise.
 4. Preserve dialogue, bracketed directions, scene/screen movement, sound effects and rhetorical tone.
 5. Preserve source oddities rather than reconstructing them from history or grammar.
-6. Keep source-scan provenance comments visible.
-7. After drafting, compare the appended English against canonical Tamil pages `0014`–`0020`.
-8. Update `GLOSSARY.md` only for genuinely new recurring choices.
-9. Advance `PROGRESS.md`, readmes and this handover only after Batch 3 passes the source check.
-10. Do not begin Batch 4 until that gate is satisfied.
+6. Pay particular attention to verified forms: scan 21 `மளமள வென்று` and `என்றுன் பேதை!`; scan 23 `களேபாரப்படுகிறது`; scan 26 `தர்ப்பாகூரர்` and `விபரீதத்தை ஏற்கத்`.
+7. Keep source-scan provenance comments visible.
+8. After drafting, compare the appended English against canonical Tamil pages `0021`–`0026`.
+9. Update `GLOSSARY.md` only for genuinely new recurring choices.
+10. Advance `PROGRESS.md`, readmes and this handover only after Batch 4 passes source check.
+11. Do not begin Batch 5 until that gate is satisfied.
 
 ## Final release gate
 
