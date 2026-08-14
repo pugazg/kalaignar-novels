@@ -14,7 +14,7 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 page records created; 27 verified / 7 needs-review; targeted Tamil audit pending** |
+| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 page records; 34/34 verified; Tamil source audit PASSED** |
 
 ### முக்கிய structural note
 
@@ -30,17 +30,19 @@ Source continuity:
 
 அதனால் scans 4–33 அனைத்தும் ஒரே `work: balipeedam-nokki` identity-யின் கீழ் archive செய்யப்பட்டுள்ளன. `ராயசம் வெங்கண்ணு` source heading internal `section` label ஆக மட்டும் பாதுகாக்கப்பட்டுள்ளது.
 
-### தற்போதைய page status
+### தற்போதைய source-layer status
 
 - page records — **34 / 34**
-- `verified` — **27**
-- `needs-review` — **7**
-- `not-started` — **0**
+- `verified` — **34 / 34**
+- `needs-review` — **0**
+- targeted character-level review — **complete**
+- full consistency audit — **passed**
 - PDF in repository — **No**
+- English translation — **not started; audit gate now open**
 
-Review queue: scans **3, 10, 13, 21, 23, 26, 27**. Unclear or unusual readings remain explicit rather than being reconstructed from context.
+Final audit: [`works/balipeedam-nokki/audit.md`](works/balipeedam-nokki/audit.md).
 
-அடுத்த activity: அந்த ஏழு `needs-review` பக்கங்களின் character-level review, அதன் பிறகு முழு 34-page Tamil consistency audit.
+அடுத்த activity: audited page records-ஐ மாற்றாமல் `sections/` கீழ் source-faithful assembled Tamil reading layer உருவாக்கி, அதை page records-க்கு எதிராகச் சரிபார்த்த பின் English translation plan தயாரிக்க வேண்டும்.
 
 ## களஞ்சிய அமைப்பு
 
