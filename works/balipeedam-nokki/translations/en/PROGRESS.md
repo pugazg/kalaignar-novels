@@ -8,12 +8,12 @@
 | 2 | scans 8–13 | `sections/02-rayasam-vengannu-sequence.md` | **reviewed** |
 | 3 | scans 14–20 | same | **reviewed** |
 | 4 | scans 21–26 | same | **reviewed** |
-| 5 | scans 27–30 through `வணக்கம்` end-card | same | **NEXT** |
-| 6 | scan 30 from `படம் முடிந்துவிட்டது...` through scan 33 | `sections/03-return-and-conclusion.md` | not-started |
+| 5 | scans 27–30 through `வணக்கம்` end-card | same | **reviewed** |
+| 6 | scan 30 from `படம் முடிந்துவிட்டது...` through scan 33 | `sections/03-return-and-conclusion.md` | **NEXT** |
 
 **Whole-work English status:** in progress  
-**Highest completed gate:** Batches 1–4 `reviewed`  
-**Whole-work `verified`:** no — final bilingual alignment remains required after all batches.
+**Highest completed gate:** Batches 1–5 `reviewed`  
+**Whole-work `verified`:** no — final bilingual alignment remains required after Batch 6.
 
 ## Batch 1 — pilot
 
@@ -29,7 +29,7 @@ Source: scans **8–13**.
 Artifact: `sections/02-rayasam-vengannu-sequence.md`.  
 Status: **reviewed**.
 
-Batch 2 was checked against canonical pages 0008–0013. The internal title card, film-credit order, battle sequence, Vijayaraghava dying speech and Sengamaladasan escape were preserved. Source oddities `மித்தானமத்தனுக்குக்` and `முச்சுற்றுப்படுத்திருக்கும்` remain explicitly documented rather than guessed.
+Batch 2 preserves the internal title card and film credits, the Nayak court, battle, Vijayaraghava's dying speech, palace-fire sequence and Sengamaladasan's escape. Source oddities such as `மித்தானமத்தனுக்குக்` and `முச்சுற்றுப்படுத்திருக்கும்` remain explicitly documented rather than guessed.
 
 ## Batch 3 — Alagiri–Vengannu / Sengamaladasan
 
@@ -37,115 +37,116 @@ Source: scans **14–20**.
 Artifact: same `sections/02-rayasam-vengannu-sequence.md`.  
 Status: **reviewed**.
 
-Batch 3 covers the Alagiri–Vengannu political strategy and rupture, the treasure dispute, the Senguttuvan/Matalavaraiyan visual callback, Nagai sequence, discovery of the grown Sengamaladasan, foster-family revelation and his decision to reclaim the kingdom. It was source-checked against canonical pages 0014–0020.
+Batch 3 covers Alagiri–Vengannu political strategy and rupture, the treasure dispute, Senguttuvan/Matalavaraiyan visual callback, Nagai sequence, discovery of the grown Sengamaladasan, foster-family revelation and his decision to reclaim the kingdom.
 
-Locked source-bound decisions include `கிளத்திருக்கிறது` → *kilathirukkirathu*, `வெத்துவேட்டுக்கள்` → **empty shots**, literal **reds** for the Nagai `சிகப்புக்கள்` sign, *thegidu thaththakkar*, and **like mute sunlight!** for `ஊமை வெயில் போல!`.
+## Batch 4 — Bijapur / Venkoji / restoration / ministership conflict
 
-## Batch 4 — Bijapur / Venkoji / ministership conflict
+Source: scans **21–26**.  
+Artifact: same `sections/02-rayasam-vengannu-sequence.md`.  
+Status: **reviewed**.
+
+Batch 4 covers Vengannu's Bijapur appeal, Venkoji's intervention, Sengamaladasan's restoration, Alagiri's fall, the temple/reward sequence, ministership conflict, Vengannu's threat and the transition to Kudanthai.
+
+## Batch 5 — final movement of the internal film
 
 ### Source
 
-- scan 21 / printed page 20
-- scan 22 / printed page 21
-- scan 23 / printed page 22
-- scan 24 / printed page 23
-- scan 25 / printed page 24
-- scan 26 / printed page 25
+- scan 27 / printed page 26
+- scan 28 / printed page 27
+- scan 29 / printed page 28
+- scan 30 / printed page 29 **only through the internal film's `வணக்கம்` end-card**
 
 Canonical Tamil page records:
 
-- `../../pages/0021-balipeedam-nokki-18.md`
-- `../../pages/0022-balipeedam-nokki-19.md`
-- `../../pages/0023-balipeedam-nokki-20.md`
-- `../../pages/0024-balipeedam-nokki-21.md`
-- `../../pages/0025-balipeedam-nokki-22.md`
-- `../../pages/0026-balipeedam-nokki-23.md`
+- `../../pages/0027-balipeedam-nokki-24.md`
+- `../../pages/0028-balipeedam-nokki-25.md`
+- `../../pages/0029-balipeedam-nokki-26.md`
+- `../../pages/0030-balipeedam-nokki-27.md` — partial-page use ending at `வணக்கம்`
 
 English artifact:
 
 `sections/02-rayasam-vengannu-sequence.md`
 
-Batch 4 was **appended to the same internal-sequence file**. The file now contains reviewed English coverage for scans **8–26**.
+Batch 5 was **appended to the same internal-sequence file**. The file now contains reviewed English coverage for the complete internal film, scans **8–30 through `வணக்கம்`**.
 
 ### Coverage
 
-Batch 4 translates:
+Batch 5 translates:
 
-- Vengannu's appeal to the Sultan of Bijapur on behalf of Sengamaladasan;
-- the Sultan's order to Shahji's son Venkoji;
-- Venkoji's campaign and the cinematic sign of Sengamaladasan's victory;
-- Alagiri's flight and death;
-- the Pragadeeswarar temple / victory / worship sequence;
-- Sengamaladasan's reward to Venkoji, including sixteen lakh *poovaragans* and regional tax revenues;
-- the flower-garden conversation in which Sengamaladasan plans to make his foster father minister;
-- Vengannu's demand for the ministership and rupture with Sengamaladasan;
-- Vengannu's threat and departure;
-- the transition to the Mahamaham Tank / Kudanthai and the street dialogue about Venkoji receiving Kumbakonam.
+- the Kudanthai street-to-Venkoji mansion transition;
+- Vengannu's attempt to persuade Venkoji that Sengamaladasan plans to poison him at a feast;
+- Venkoji's decision to seize Thanjavur;
+- Vengannu's Brahmin/temple/agraharam assurances and acclamation;
+- the Maratha assault on Thanjavur and the burning Nayak flag;
+- Sengamaladasan's hallucinatory vision of a thousand Vengannu heads;
+- the explicit crown / `பலிபீடம்` line;
+- Sengamaladasan's final flight, collapse and death-like ending;
+- `மராட்டிய சாம்ராஜ்யம் உதயம்` screen text;
+- the internal film's `வணக்கம்` end-card and Vengannu garlanding Venkoji.
 
 ### Source check performed
 
-The appended English was checked against canonical Tamil pages 0021–0026 for:
+The appended English was checked against canonical Tamil pages 0027–0030 for:
 
-- all paragraph and dialogue turns;
-- scan 21→22 continuation of the Sultan scene;
-- Bijapur / Shahji / Venkoji name consistency;
-- the crescent-flag and fort-motion screen imagery;
-- scan 22 battle/victory montage and `குளோசப்`;
-- scan 23 temple, reward and two-swords transition;
-- scan 24–26 ministership dialogue and escalation;
-- source place-name distinction `கும்பகோணம்` / `குடந்தை`;
-- omission/addition risk;
-- the verified unusual forms specifically flagged before translation.
+- complete dialogue and narrative sequence;
+- scan-27 verified `ஒரு காரணம்!`;
+- scan-28 `.????` punctuation and unusual forms;
+- scan-29 battle/collapse montage and `பலிபீடம்` callback;
+- scan 29→30 `அப்படித்` + `தத்தளிக்கிறான்` continuity;
+- scan-30 `பசலுக்கு`, end-frame text and `வணக்கம்`;
+- exact intra-page stopping boundary before `படம் முடிந்துவிட்டது...`;
+- omission/addition risk.
 
-### Batch 4 review result
+### Batch 5 review result
 
-**No substantive paragraph, dialogue turn, printed action/cinematic unit or source-page transition from scans 21–26 is omitted.**
+**No substantive paragraph, dialogue turn, cinematic unit or source-screen text from the Batch-5 span is omitted.**
 
 Source-bound decisions include:
 
-- `மளமள வென்று` → **in rapid succession**;
-- `என்றுன் பேதை!` → contextual **The fool says Bijapur is but a speck of dust to him!**, without rewriting the Tamil;
-- `களேபாரப்படுகிறது` → cautious **erupts into commotion**;
-- `பூவராகன்` → *poovaragan* without currency conversion;
-- `மன்னுக்கியது` → contextual **who made you king**;
-- `தர்ப்பாகூரர்` → retained as *Tharppakurar*;
-- `விபரீதத்தை ஏற்கத்` → **be ready to face the calamity**;
-- `தீவணங்குகிறான்` → conservative **bows**;
-- `காற்று முறிந்து` → cautious **breaks in the air and falls**;
-- `குடந்தை` remains **Kudanthai** rather than being flattened to Kumbakonam.
+- `ஒரு காரணம்!` → literal **a reason!**;
+- `நானுக்கே` → contextual **I myself will muster our army**;
+- `புலிக்கிர் வீரா` → *Pulikkir veera*;
+- `வானவாணினம்` → *vanavaninam*;
+- source `.????` retained literally;
+- `புத்த பூதம்` → cautious **a new demon** pending final whole-work review;
+- `பட்டமும் கட்டும் — பலிபீடத்தையும் காட்டும்` preserves both crown and sacrificial-altar poles;
+- `பசலுக்கு` → *pasalu*;
+- `மராட்டிய சாம்ராஜ்யம் உதயம்` → **Rise of the Maratha Empire**;
+- `வணக்கம்` → **Vanakkam** as an end-card.
 
 ### Structural check
 
-The translated coverage through scan 26 remains part of the **same internal Rayasam Vengannu sequence of _Towards the Sacrificial Altar_**. No separate work identity has been introduced.
+The internal `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` cinematic sequence is now **fully translated** from its scan-8 title card through its scan-30 `வணக்கம்` end-card.
 
-### Glossary update
+It remains part of the one work _Towards the Sacrificial Altar_; no separate work-level translation identity was created.
 
-`GLOSSARY.md` now records Batch-4 handling for:
+## Gate before Batch 6
 
-- Bijapur, Shahji, Venkoji, Durga;
-- *poovaragan* and Visvarupa;
-- Kumbakonam / Kudanthai / Mahamaham Tank;
-- `மளமள வென்று`, `என்றுன் பேதை!`, `களேபாரப்படுகிறது`, `மன்னுக்கியது`, `தர்ப்பாகூரர்`, `விபரீதத்தை ஏற்கத்`, `தீவணங்குகிறான்`, and `காற்று முறிந்து`.
-
-## Gate before Batch 5
-
-- Batch 4 translation complete — **yes**
+- Batch 5 translation complete — **yes**
 - canonical source check — **yes**
+- intra-page scan-30 boundary check — **yes**
 - cinematic/structural review — **yes**
 - glossary update — **yes**
 - whole-work verification — **not yet**
 
 ## Next exact activity
 
-Continue the **same** `sections/02-rayasam-vengannu-sequence.md` with **Batch 5: scans 27–30 through the internal film's `வணக்கம்` end-card**.
+Begin **Batch 6 — return and conclusion** by creating:
+
+`sections/03-return-and-conclusion.md`
+
+Source begins **within scan 30** at:
+
+`படம் முடிந்துவிட்டது. பாடம் கற்றுக்கொண்டீர்களா?`
+
+and continues through scan **33**.
 
 Requirements:
 
-1. append; do not create another work or internal-sequence file;
-2. read canonical Tamil pages `0027`–`0030` first;
-3. stop Batch 5 exactly at the internal film's `வணக்கம்` end-card on scan 30;
-4. do **not** translate `படம் முடிந்துவிட்டது...` in Batch 5 — that begins Batch 6 / section 3;
-5. preserve dialogue, cinematic movement, screen text, sound effects and source oddities, including the verified scan-27 `ஒரு காரணம்!`;
-6. retain scan provenance and the scan-30 intra-page boundary explicitly;
-7. source-check against canonical Tamil before advancing status;
-8. update glossary/readmes/handover only after the Batch-5 review gate passes.
+1. do not repeat the internal film's `வணக்கம்` end-card;
+2. begin exactly at `படம் முடிந்துவிட்டது...` on scan 30;
+3. translate all remaining substantive text through scan 33;
+4. preserve the governing `பலிபீடம்` rhetoric, repetition, named figures/institutions and polemical force;
+5. preserve scan 30→31 page continuity;
+6. source-check against canonical Tamil pages `0030`–`0033`;
+7. after Batch 6 review, create the final whole-work bilingual `TRANSLATION_REVIEW.md` before marking English `verified`.
