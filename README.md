@@ -12,7 +12,7 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 Tamil verified; assembled Tamil PASSED; English Batches 1–5 reviewed; Batch 6 next** |
+| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **34/34 Tamil verified; assembled Tamil PASSED; English Batches 1–6 reviewed; final bilingual review next** |
 
 ### முக்கிய structural note
 
@@ -34,13 +34,11 @@ Source continuity:
 - Tamil source audit — **PASSED**
 - assembled Tamil reading layer — **PASSED**
 - English translation plan — **COMPLETE**
-- English Batch 1 / scans 4–7 — **reviewed**
-- English Batch 2 / scans 8–13 — **reviewed**
-- English Batch 3 / scans 14–20 — **reviewed**
-- English Batch 4 / scans 21–26 — **reviewed**
-- English Batch 5 / scans 27–30 through `வணக்கம்` — **reviewed**
+- English Batches 1–6 — **reviewed**
+- English body-text coverage — **scans 4–33 complete**
 - Internal `ராயசம் வெங்கண்ணு` English sequence — **COMPLETE + REVIEWED**
-- English Batch 6 / return and conclusion — **NEXT**
+- English return/conclusion — **COMPLETE + REVIEWED**
+- Whole-work English `verified` — **No; final bilingual review pending**
 - source PDF in repository — **No**
 
 Key files:
@@ -52,8 +50,11 @@ Key files:
 - [`works/balipeedam-nokki/translations/en/GLOSSARY.md`](works/balipeedam-nokki/translations/en/GLOSSARY.md)
 - [`works/balipeedam-nokki/translations/en/sections/01-opening-frame.md`](works/balipeedam-nokki/translations/en/sections/01-opening-frame.md)
 - [`works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md`](works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md)
+- [`works/balipeedam-nokki/translations/en/sections/03-return-and-conclusion.md`](works/balipeedam-nokki/translations/en/sections/03-return-and-conclusion.md)
 
-அடுத்த activity: **English Batch 6 — scan 30-இல் `படம் முடிந்துவிட்டது...` தொடங்கி scan 33 வரை return/conclusion translation**. புதிய `translations/en/sections/03-return-and-conclusion.md` உருவாக்க வேண்டும். அதன் source-check முடிந்த பின்பு முழு bilingual `TRANSLATION_REVIEW.md` செய்ய வேண்டும்.
+English Batch 6 starts exactly inside scan 30 at `படம் முடிந்துவிட்டது...` and runs through scan 33. The internal film's preceding `வணக்கம்` remains only in section 2, so the source's narrative boundary is preserved without duplication.
+
+அடுத்த activity: **final whole-work bilingual review**. Create `works/balipeedam-nokki/translations/en/TRANSLATION_REVIEW.md`, align all three English sections against the audited Tamil source, and only then decide whether English can be marked `verified`.
 
 ## களஞ்சிய அமைப்பு
 
@@ -78,6 +79,7 @@ works/
         sections/
           01-opening-frame.md
           02-rayasam-vengannu-sequence.md
+          03-return-and-conclusion.md
 ```
 
 விரிவான workflow: [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md).  
