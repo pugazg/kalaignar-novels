@@ -4,22 +4,22 @@
 
 - Repository: `pugazg/kalaignar-novels`
 - Branch: `main`
-- Verify current `main` before further changes.
+- Verify current `main` before future changes.
 
-## Mandatory startup
+## Mandatory startup for future work
 
-Before continuing:
+Before continuing this repository:
 
 1. Read `NOVEL_PROCESSING_GUIDE.md` completely.
 2. Read root `README.md`.
-3. Read `works/balipeedam-nokki/README.md`.
-4. Read `works/balipeedam-nokki/metadata/source.md`.
-5. Read `works/balipeedam-nokki/indexes/page-map.md` and `audit.md`.
-6. Read `works/balipeedam-nokki/sections/README.md`.
-7. For English work, read `works/balipeedam-nokki/translations/en/TRANSLATION_PLAN.md`, `README.md`, `PROGRESS.md`, `GLOSSARY.md`, and `TRANSLATION_REVIEW.md`.
-8. Continue existing work; do not create duplicate structures.
-9. Treat audited Tamil `pages/` as controlling textual authority.
-10. Do **not** upload or commit the source PDF.
+3. Read the target work README and source metadata.
+4. Continue existing work rather than creating duplicate structures.
+5. Treat audited Tamil `pages/` records as controlling textual authority.
+6. Do **not** upload or commit supplied source PDFs unless the repository policy is explicitly changed.
+
+---
+
+# Completed work — பலிபீடம் நோக்கி
 
 ## Source identity
 
@@ -41,18 +41,18 @@ External source filename:
 
 **`பலிபீடம் நோக்கி` is one continuous work.**
 
-Never promote `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` to a separate work. It is the internal cinematic-historical sequence used by the same work.
+Never promote `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` to a separate work. It is the internal cinematic-historical sequence used inside the same text.
 
 Source flow:
 
 1. scans 4–7 — opening ideological/polemical frame;
 2. scan 7 — narrator introduces the film-like lesson;
-3. scans 8–29 + opening of scan 30 — internal `ராயசம் வெங்கண்ணு` sequence;
-4. scan 30 — internal film reaches `வணக்கம்`, then `படம் முடிந்துவிட்டது...` returns to the main frame;
+3. scans 8–29 + opening of scan 30 — internal `ராயசம் வெங்கண்ணு` sequence through `வணக்கம்`;
+4. scan 30 — `படம் முடிந்துவிட்டது...` returns to the main frame;
 5. scans 31–33 — conclusion;
 6. scan 34 — blank/back matter.
 
-## Tamil archival state — COMPLETE + PASSED
+## Tamil archival state — COMPLETE + PASSED + RELEASE-READY
 
 - page records: **34 / 34**
 - verified: **34 / 34**
@@ -60,7 +60,9 @@ Source flow:
 - Tamil source audit: **PASSED**
 - assembled Tamil reading layer: **PASSED**
 
-Canonical source layer: `works/balipeedam-nokki/pages/`.
+Canonical source layer:
+
+`works/balipeedam-nokki/pages/`
 
 Assembled Tamil sections:
 
@@ -68,78 +70,81 @@ Assembled Tamil sections:
 - `sections/02-rayasam-vengannu-sequence.md` — scans 8–29 + scan 30 through `வணக்கம்`
 - `sections/03-return-and-conclusion.md` — scan 30 from `படம் முடிந்துவிட்டது...` through scan 33
 
-## English translation state — VERIFIED
+## English translation state — VERIFIED + RELEASE-READY
 
 Working English title: **_Towards the Sacrificial Altar_**.
 
-Existing English files:
+English files:
 
-- `translations/en/TRANSLATION_PLAN.md`
 - `translations/en/README.md`
+- `translations/en/TRANSLATION_PLAN.md`
 - `translations/en/PROGRESS.md`
 - `translations/en/GLOSSARY.md`
 - `translations/en/TRANSLATION_REVIEW.md`
+- `translations/en/RELEASE_REPORT.md`
 - `translations/en/sections/01-opening-frame.md`
 - `translations/en/sections/02-rayasam-vengannu-sequence.md`
 - `translations/en/sections/03-return-and-conclusion.md`
 
-Batch status:
+English body-text coverage: **scans 4–33 complete**.  
+All six batches: **reviewed**.  
+Final bilingual alignment: **PASSED**.  
+Whole-work English: **VERIFIED**.
 
-| Batch | Source | Status |
-|---|---|---|
-| 1 | scans 4–7 | reviewed |
-| 2 | scans 8–13 | reviewed |
-| 3 | scans 14–20 | reviewed |
-| 4 | scans 21–26 | reviewed |
-| 5 | scans 27–30 through `வணக்கம்` | reviewed |
-| 6 | scan 30 after `வணக்கம்` through 33 | reviewed |
+## Final release-readiness result
 
-Final whole-work bilingual alignment: **PASSED**.  
-Whole-work English status: **VERIFIED**.
+`works/balipeedam-nokki/translations/en/RELEASE_REPORT.md` records the final release pass.
 
-## Final bilingual review result
+Passed checks:
 
-`translations/en/TRANSLATION_REVIEW.md` confirms:
+- reader-facing navigation across all three English sections;
+- root README → work README navigation;
+- work README → Tamil/English artifacts navigation;
+- English README → reading sections/review/glossary/progress/release report navigation;
+- Tamil page inventory: **34 / 34 verified**;
+- Tamil assembled-section inventory: **3 / 3**;
+- English reading-section inventory: **3 / 3**;
+- exact scan-30 internal-film/main-frame boundary;
+- source-specific oddities remain documented rather than normalized;
+- canonical Tamil unchanged during release pass;
+- repository tree contains **no committed `.pdf` file**.
 
-- complete body-text coverage for scans 4–33;
-- no material source omission or duplication;
-- no source-like additions requiring removal;
-- no altered speaker assignment or material agency change;
-- no whole-work softening/intensification of the political, religious or caste rhetoric;
-- stable recurring names and terms;
-- cinematic form, title card, screen text and end-card preserved;
-- scan 29→30 and scan 30→31 joins preserved;
-- scan-30 internal-film/main-frame boundary preserved exactly;
-- `ராயசம் வெங்கண்ணு` remains internal;
-- audited Tamil remains controlling authority.
+### Release verdict
 
-The final review explicitly revisited `புத்த பூதம்`; the existing cautious contextual **“a new demon”** was retained without treating it as a correction of the canonical Tamil.
+**Tamil archival package: RELEASE-READY.**  
+**English translation package: RELEASE-READY.**  
+**Combined repository edition: RELEASE-READY within this archive.**
 
-Other difficult forms remain transliterated or cautiously rendered as documented in `GLOSSARY.md`, including *virudha*, *mitthanamathan*, *kilathirukkirathu*, *thegidu thaththakkar*, *Tharppakurar*, *Pulikkir veera*, *vanavaninam* and *pasalu*.
+This is an editorial/archival readiness verdict. It is not a determination of copyright, licensing, republication or commercial-use rights.
 
-## Current repository status for this work
+## Authority hierarchy for all future derived work
 
-- Tamil source-preservation layer — **PASSED**
-- assembled Tamil reading layer — **PASSED**
-- English translation — **VERIFIED**
-- source PDF in repository — **NO**
-- release report — **not yet created**
+1. audited Tamil `pages/` — controlling source text;
+2. verified assembled Tamil `sections/` — continuous reading layer;
+3. verified English translation — derived source-bound translation;
+4. metadata, glossary, reviews and release report — provenance and editorial documentation.
 
-## Next exact activity — RELEASE READINESS
+Do not silently modernize, correct or reconstruct verified Tamil forms in a future reader-facing edition.
 
-Create:
+## Difficult source forms that remain intentional
 
-`works/balipeedam-nokki/translations/en/RELEASE_REPORT.md`
+Examples include:
 
-The release-readiness pass should:
+- `மித்தானமத்தனுக்குக்` / *mitthanamathan*;
+- `கிளத்திருக்கிறது` / *kilathirukkirathu*;
+- `தெகிடு தத்தக்கார்களுக்கு` / *thegidu thaththakkar*;
+- `தர்ப்பாகூரர்` / *Tharppakurar*;
+- `புலிக்கிர் வீரா` / *Pulikkir veera*;
+- `வானவாணினம்` / *vanavaninam*;
+- `பசலுக்கு` / *pasalu*;
+- `புத்த பூதம்` with the documented cautious English “a new demon”.
 
-1. verify reader-facing navigation among all three English sections;
-2. verify links from root README, work README and English README;
-3. record the final release inventory for Tamil page records, Tamil assembled sections and English translation artifacts;
-4. state the authority hierarchy clearly: Tamil audited `pages/` > Tamil assembled `sections/` > English translation;
-5. record that source-specific oddities are deliberately preserved/documented;
-6. confirm the source PDF remains outside GitHub;
-7. identify any non-blocking editorial limitations without changing canonical Tamil;
-8. declare whether the archival package is release-ready.
+See `translations/en/GLOSSARY.md` and `TRANSLATION_REVIEW.md` for the complete policy.
 
-Do not reopen verified Tamil readings merely for stylistic modernization. Any future reader-facing edition must derive from the verified layers and keep provenance clear.
+## Current exact next action
+
+**No mandatory transcription, audit or translation activity remains for this source edition.**
+
+When another Kalaignar novel/story source is supplied, begin the normal source-registration workflow in a new `works/<slug>/` directory after first checking that the work has not already been started.
+
+A separate reader-facing ebook/print/web edition of `பலிபீடம் நோக்கி` should be created only when explicitly requested, and must derive from these verified layers while preserving provenance and the Tamil source authority.
