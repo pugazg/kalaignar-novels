@@ -15,10 +15,11 @@ Before any new work:
 3. Read `works/balipeedam-nokki/README.md`.
 4. Read `works/balipeedam-nokki/metadata/source.md`.
 5. Read `works/balipeedam-nokki/indexes/page-map.md` and `audit.md`.
-6. Read `works/balipeedam-nokki/sections/README.md` before translation work.
-7. Continue existing work; do not create duplicate structures.
-8. Treat the supplied scan / audited `pages/` records as controlling textual authority.
-9. Do **not** upload/commit the source PDF to this repository.
+6. Read `works/balipeedam-nokki/sections/README.md`.
+7. Before English work, read `works/balipeedam-nokki/translations/en/TRANSLATION_PLAN.md` completely.
+8. Continue existing work; do not create duplicate structures.
+9. Treat the supplied scan / audited `pages/` records as controlling textual authority.
+10. Do **not** upload/commit the source PDF to this repository.
 
 ## Current source
 
@@ -121,34 +122,101 @@ The canonical page files remain unchanged. The reading layer joins only already-
 
 HTML comments preserve source-page provenance around these joins.
 
+## English translation plan — COMPLETE
+
+Committed:
+
+`works/balipeedam-nokki/translations/en/TRANSLATION_PLAN.md`
+
+Working English title:
+
+**Towards the Sacrificial Altar**
+
+The plan follows the same source-first / bilingual-fidelity principles used elsewhere in the Kalaignar archive while adapting them to this novel's three-layer structure.
+
+### Source authority for English
+
+1. audited `pages/` records — final textual authority;
+2. assembled `sections/` — continuity/readability;
+3. metadata/audit — source and structural context;
+4. external historical references only for clearly marked editorial notes, never to overwrite source wording.
+
+### Translation batches
+
+1. **Batch 1 — pilot:** scans 4–7 / opening frame.
+2. **Batch 2:** scans 8–13 / internal title card, Nayak court, battle and Vijayaraghava's fall.
+3. **Batch 3:** scans 14–20 / Alagiri–Vengannu sequence and Sengamaladasan discovery.
+4. **Batch 4:** scans 21–26 / Bijapur–Venkoji intervention, restoration and ministership conflict.
+5. **Batch 5:** scans 27–30 through the internal film's `வணக்கம்` end-card.
+6. **Batch 6:** scan 30 beginning `படம் முடிந்துவிட்டது...` through scan 33 / return and conclusion.
+
+The final English reading structure remains three section files mirroring the Tamil assembly. Batches are translation/review control units only.
+
+### Translation policy locked by plan
+
+- preserve political and social polemic without softening or intensifying;
+- retain the central `பலிபீடம்` metaphor consistently as **sacrificial altar**;
+- keep `ராயசம் வெங்கண்ணு` internal and use **Vengannu**, not a silently normalized Venganna;
+- preserve cinematic vocabulary, title-card structure, screen movement and bracketed action directions;
+- use stable English names/places while keeping the canonical Tamil untouched;
+- treat source oddities cautiously and note exact Tamil where meaning remains unusually source-bound;
+- preserve rhetorical repetition and source agency/responsibility;
+- retain page provenance through HTML comments;
+- use review statuses: `draft-translated`, `source-checked`, `reviewed`, `verified`;
+- require final `TRANSLATION_REVIEW.md` before release.
+
+### Planned English directory
+
+```text
+works/balipeedam-nokki/translations/en/
+  TRANSLATION_PLAN.md
+  README.md
+  PROGRESS.md
+  GLOSSARY.md
+  sections/
+    01-opening-frame.md
+    02-rayasam-vengannu-sequence.md
+    03-return-and-conclusion.md
+  TRANSLATION_REVIEW.md
+  RELEASE_REPORT.md
+```
+
+Only `TRANSLATION_PLAN.md` exists at the end of the current activity. Do not create final review/release files prematurely.
+
 ## Current gate
 
 **Tamil source layer: PASSED**  
 **Assembled Tamil reading layer: PASSED**  
-**Translation-ready: YES**  
-**English translation: not started**
+**English translation plan: COMPLETE**  
+**English prose translation: NOT STARTED**
 
 ## Next exact activity
 
-Create an **English translation plan** before translating any prose.
+Begin **Batch 1 — pilot English translation of scans 4–7 / `sections/01-opening-frame.md`**.
 
-Recommended file:
+During that activity:
 
-`works/balipeedam-nokki/translations/en/TRANSLATION_PLAN.md`
+1. create `translations/en/README.md` and `PROGRESS.md`;
+2. create the initial `translations/en/GLOSSARY.md`;
+3. create `translations/en/sections/01-opening-frame.md` with `translation_status: draft-translated`;
+4. translate every substantive Tamil unit — no summarising;
+5. retain unobtrusive source-scan comments and already-audited page joins;
+6. source-check the complete pilot against canonical `pages/0004`–`0007`;
+7. review the pilot for the central `பலிபீடம்` metaphor, `ஆரியம்`, self-respect/rationalist vocabulary, rhetorical repetition, historical names and scan-7 cinematic transition;
+8. update the glossary with only decisions actually established by the pilot;
+9. advance the pilot to `source-checked` / `reviewed` only when justified;
+10. **do not begin Batch 2 until the pilot style decisions are locked and the repository status/handover is updated.**
 
-The plan must define at minimum:
+## Release gate reminder
 
-1. translation batch boundaries mapped to the three assembled Tamil sections and source scan ranges;
-2. one-work structural rule, explicitly keeping `ராயசம் வெங்கண்ணு` internal;
-3. source-authority hierarchy: audited `pages/` first, `sections/` for continuity;
-4. treatment of historical names, titles and place names;
-5. transliteration / anglicization policy and a consistency table;
-6. treatment of caste, religion, Dravidian-movement rhetoric and polemical language without softening or intensifying;
-7. handling of cinematic vocabulary (`ரிலீஸ்`, `டைரக்ஷன்`, `குளோசப்`, stage/action directions, etc.);
-8. handling of source oddities and historical spellings without silently correcting the Tamil source;
-9. dialogue, quotation and punctuation conventions in English;
-10. source-page traceability for every translation batch;
-11. review statuses and gates (`draft`, `reviewed`, `verified` or equivalent);
-12. requirement for a final editorial consistency review before release.
+No English layer is final until all batches have completed bilingual/source review and a final `TRANSLATION_REVIEW.md` confirms:
 
-Do **not** begin the English prose translation until the translation plan is committed and reviewed against the Tamil audit/assembly rules.
+- no omissions or additions;
+- no altered agency/responsibility;
+- no softened/intensified political rhetoric;
+- consistent names and recurring terminology;
+- preserved cinematic form;
+- intact scan-30 structural transition;
+- one-work identity preserved throughout.
+
+The audited Tamil remains authoritative after English release.
