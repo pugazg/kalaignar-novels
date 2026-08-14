@@ -40,7 +40,7 @@ The durbar hall. Ministers and chief officials are seated.
 
 <!-- source: scan 8; printed page: — -->
 
-The durbar begins to cries of, “Long live King Vijayaraghava, warrior among warriors!” An aged king sits on the throne.
+The durbar begins amid cries of, “Long live King Vijayaraghava, warrior among warriors!” An aged king sits on the throne.
 
 “Prince Mannaru Nayak is arriving,” announces a guard.
 
