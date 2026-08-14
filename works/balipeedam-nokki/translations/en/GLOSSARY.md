@@ -1,6 +1,6 @@
 # English Translation Glossary — பலிபீடம் நோக்கி
 
-This glossary records translation choices locked through Batch 4 review. It is a translation-consistency aid; it does **not** alter or normalize the canonical Tamil `pages/` layer.
+This glossary records translation choices locked through Batch 5 review. It is a translation-consistency aid; it does **not** alter or normalize the canonical Tamil `pages/` layer.
 
 ## Locked core terms
 
@@ -28,6 +28,8 @@ This glossary records translation choices locked through Batch 4 review. It is a
 | `ராயசம்` | **Rayasam** | retain source title/professional identity rather than inventing an office expansion |
 | `பூவராகன்` | **poovaragan** | retain historical currency name; do not silently identify, convert or modernise its value |
 | `விசுவரூப` | **Visvarupa** | retain source cinematic/religious metaphor without explanatory expansion in prose |
+| `மராட்டிய சாம்ராஜ்யம் உதயம்` | **Rise of the Maratha Empire** | preserve as on-screen end-frame text |
+| `வணக்கம்` | **Vanakkam** | retain as source-printed internal-film end-card rather than converting to ordinary dialogue |
 
 ## Names and source forms
 
@@ -171,6 +173,44 @@ The source prints this form immediately before the `தர்ப்பாகூ�
 
 The jasmine-bud image on scan 26 prints `காற்று முறிந்து கீழே விழுவதைக் காண்கிறோம்`. English uses the cautious image **“breaks in the air and falls to the ground”**. Do not silently substitute an expected word such as stem/stalk into the Tamil source.
 
+## Batch 5 source oddities
+
+### `ஒரு காரணம்!`
+
+Scan 27 prints the narratively unexpected scene-transition phrase `ஒரு காரணம்!`. English retains **“a reason!”** rather than silently substituting a more expected word such as scene/change/turn.
+
+### `நானுக்கே`
+
+The scan-28 form is preserved in canonical Tamil. English uses the immediate contextual sense **“I myself will muster our army”** without rewriting the source form.
+
+### `புலிக்கிர் வீரா`
+
+The lexical force is not secure from the source alone. English retains **_Pulikkir veera_** rather than inventing a familiar epithet.
+
+### `வானவாணினம்`
+
+The scan-28 form is unusual and not safely expandable. English retains **_vanavaninam_** in Vengannu's acclamation.
+
+### `.????`
+
+The four source question marks in `அரசே!... தங்கள் ஆட்சிக் காலத்தில் .????` are preserved literally. Do not regularise them into one question mark or invent the missing semantic content.
+
+### `புத்த பூதம்`
+
+The scan-29 image is translated conservatively as **“a new demon”**. The exact Tamil remains canonical and should be revisited during final whole-work bilingual review if a stronger source-internal reading emerges.
+
+### `பட்டமும் கட்டும் — பலிபீடத்தையும் காட்டும்`
+
+English keeps the parallel structure as **“it will bind on the crown—and it will show the sacrificial altar too.”** This line is structurally important because the internal film explicitly reconnects to the governing `பலிபீடம்` metaphor immediately before its conclusion.
+
+### `பசலுக்கு`
+
+Scan 30 prints this unusual form in `அந்தப் பசலுக்கு வெங்கண்ணு அமைத்துத் தந்த பலிபீடம்`. English retains **_pasalu_** rather than assigning an unsupported gloss.
+
+### scan 29→30 `அப்படித்` + `தத்தளிக்கிறான்`
+
+Treat as one continuous sentence across the page boundary. Do not close or restart the action artificially at the scan break.
+
 ## Cinematic vocabulary and form
 
 The internal `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` title card is always an **internal sequence** of the one work.
@@ -189,6 +229,7 @@ Locked handling:
 - source onomatopoeia is transliterated where practical (`குபீர்`, `கட கடா`, `டக்டக்`, `கல கல`, `சட சட`, `சர்`, `கட கட`, `டான் டான்`)
 - on-screen textual units such as the Nagai shop sign remain visually distinct
 - source place-name shifts such as `கும்பகோணம்` / `குடந்தை` remain visible rather than being flattened everywhere to one form
+- scan 30's `வணக்கம்` is the exact stopping boundary of the internal-film English section; `படம் முடிந்துவிட்டது...` belongs to the return/conclusion section
 
 ## Rhetoric and form
 
@@ -208,6 +249,7 @@ The translation reports Kalaignar's historical rhetoric as written. It does not 
 **Pilot terminology/style lock: COMPLETE.**  
 **Batch 2 new-term review: COMPLETE.**  
 **Batch 3 new-term review: COMPLETE.**  
-**Batch 4 new-term review: COMPLETE.**
+**Batch 4 new-term review: COMPLETE.**  
+**Batch 5 new-term review: COMPLETE.**
 
 Later batches may add terms, but locked choices should change only if a documented consistency review finds a concrete contradiction in the source.
