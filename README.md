@@ -12,7 +12,7 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **Tamil 34/34 verified; assembled Tamil PASSED; English whole-work VERIFIED** |
+| [பலிபீடம் நோக்கி](works/balipeedam-nokki/README.md) | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **Tamil 34/34 verified; assembled Tamil PASSED; English VERIFIED; archival package RELEASE-READY** |
 
 ### முக்கிய structural note
 
@@ -38,6 +38,8 @@ Source continuity:
 - English body-text coverage — **scans 4–33 complete**
 - final bilingual alignment — **PASSED**
 - whole-work English — **VERIFIED**
+- release-readiness pass — **PASSED**
+- combined archival package — **RELEASE-READY**
 - source PDF in repository — **No**
 
 Key files:
@@ -49,13 +51,14 @@ Key files:
 - [`works/balipeedam-nokki/translations/en/PROGRESS.md`](works/balipeedam-nokki/translations/en/PROGRESS.md)
 - [`works/balipeedam-nokki/translations/en/GLOSSARY.md`](works/balipeedam-nokki/translations/en/GLOSSARY.md)
 - [`works/balipeedam-nokki/translations/en/TRANSLATION_REVIEW.md`](works/balipeedam-nokki/translations/en/TRANSLATION_REVIEW.md)
+- [`works/balipeedam-nokki/translations/en/RELEASE_REPORT.md`](works/balipeedam-nokki/translations/en/RELEASE_REPORT.md)
 - [`works/balipeedam-nokki/translations/en/sections/01-opening-frame.md`](works/balipeedam-nokki/translations/en/sections/01-opening-frame.md)
 - [`works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md`](works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md)
 - [`works/balipeedam-nokki/translations/en/sections/03-return-and-conclusion.md`](works/balipeedam-nokki/translations/en/sections/03-return-and-conclusion.md)
 
-The final bilingual review confirms complete source coverage, preservation of the scan-30 film/main-frame boundary, stable recurring terminology, no material omission/addition, and source-bound handling of difficult printed forms.
+The release report records the final Tamil + English inventory, verifies reader-facing navigation and confirms that the repository tree contains no committed source PDF. The audited Tamil `pages/` layer remains controlling authority.
 
-அடுத்த activity: **release readiness** — create `works/balipeedam-nokki/translations/en/RELEASE_REPORT.md`, verify reader-facing navigation and final status synchronization, and record the completed Tamil + English release inventory.
+`RELEASE-READY` is an editorial/archival repository status and is not, by itself, a copyright or republication-rights determination.
 
 ## களஞ்சிய அமைப்பு
 
@@ -78,11 +81,11 @@ works/
         PROGRESS.md
         GLOSSARY.md
         TRANSLATION_REVIEW.md
+        RELEASE_REPORT.md
         sections/
           01-opening-frame.md
           02-rayasam-vengannu-sequence.md
           03-return-and-conclusion.md
 ```
 
-விரிவான workflow: [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md).  
-தற்போதைய நூல்: [`works/balipeedam-nokki/README.md`](works/balipeedam-nokki/README.md).
+விரிவான workflow: [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md).
