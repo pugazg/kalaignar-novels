@@ -1,6 +1,6 @@
 # English Translation Glossary — பலிபீடம் நோக்கி
 
-This glossary records translation choices locked through Batch 3 review. It is a translation-consistency aid; it does **not** alter or normalize the canonical Tamil `pages/` layer.
+This glossary records translation choices locked through Batch 4 review. It is a translation-consistency aid; it does **not** alter or normalize the canonical Tamil `pages/` layer.
 
 ## Locked core terms
 
@@ -26,6 +26,8 @@ This glossary records translation choices locked through Batch 3 review. It is a
 | `கப்பம்` | **tribute** | political/tributary payment; use consistently in the Alagiri–Madurai context |
 | `ராஜதந்திரம்` | **statecraft** | preserve the political-intrigue register |
 | `ராயசம்` | **Rayasam** | retain source title/professional identity rather than inventing an office expansion |
+| `பூவராகன்` | **poovaragan** | retain historical currency name; do not silently identify, convert or modernise its value |
+| `விசுவரூப` | **Visvarupa** | retain source cinematic/religious metaphor without explanatory expansion in prose |
 
 ## Names and source forms
 
@@ -43,11 +45,20 @@ This glossary records translation choices locked through Batch 3 review. It is a
 | `சொக்கநாத நாயக்கன்` | **Sokkanatha Nayak** | conservative readable form |
 | `செங்கமலதாசன் / செங்கமலம்` | **Sengamaladasan / Sengamalam** | follow source-facing form in immediate sentence; do not treat as different characters |
 | `அழகிரி` | **Alagiri** | stable source-facing form |
-| `பிரகதீஸ்வரன் ஆலயம்` | **Pragadeeswaran Temple** | source-facing form; do not silently replace from external history |
+| `வெங்காஜி` | **Venkoji** | stable readable form in English; canonical Tamil remains `வெங்காஜி` |
+| `ஷாஜி` | **Shahji** | stable English historical form used only where source names him |
+| `பீஜபூர்` | **Bijapur** | established place form |
+| `துர்க்கை` | **Durga** | established deity name; no added theological explanation |
+| `பிரகதீஸ்வரன் / பிரகதீஸ்வரர் ஆலயம்` | **Pragadeeswaran / Pragadeeswarar Temple** | source-facing forms; do not silently replace from external history |
 | `ஸ்ரீரங்கம்` | **Srirangam** | established transliteration |
 | `ராஜ கோபால ஸ்வாமி` | **Rajagopala Swami** | retain source title/name |
 | `ரகுநாத அக்கிரகாரம்` | **Raghunatha agraharam** | proper name + retained institutional term |
 | `நாகை` | **Nagai** | preserve source-facing place form in the shop sign |
+| `கும்பகோணம்` | **Kumbakonam** | established readable place form |
+| `குடந்தை` | **Kudanthai** | preserve the source's alternate place-name form when it appears |
+| `பாபநாசம்` | **Papanasam** | established transliteration |
+| `மன்னார்குடி` | **Mannargudi** | established transliteration |
+| `மகாமகக் குளம்` | **Mahamaham Tank** | readable place/institutional form; do not add modern tourist description |
 
 ## Pilot source oddities
 
@@ -91,7 +102,7 @@ English uses **“the treasure I exhausted upon the gods”** to retain the sour
 
 ### `கிளந்திருந்த` / `கிளத்திருக்கிறது`
 
-Scans 14 preserves these unusual printed forms.
+Scan 14 preserves these unusual printed forms.
 
 - `கிளந்திருந்த` currently receives the cautious contextual rendering **“with its greed already astir”**.
 - `கிளத்திருக்கிறது` is retained in English as **_kilathirukkirathu_** rather than silently normalised to a guessed familiar Tamil form.
@@ -126,6 +137,40 @@ The verified source form is unusual. English uses cautious contextual **“touch
 
 Retain the metaphor as **“like mute sunlight!”** rather than replacing it with an explanatory paraphrase.
 
+## Batch 4 source oddities
+
+### `மளமள வென்று`
+
+Character-level review confirms the scan-21 form. English uses **“in rapid succession”** for the moving fort imagery. The Tamil remains exactly as printed.
+
+### `என்றுன் பேதை!`
+
+The source prints this unusual form in Vengannu's speech about Bijapur. English uses the immediate contextual reading **“The fool says Bijapur is but a speck of dust to him!”** without rewriting the canonical Tamil to a grammatically expected form.
+
+### `களேபாரப்படுகிறது`
+
+Character-level review confirms this source verb on scan 23 after `‘ஆண்டவனுக்கு அர்ச்சனை’`. English uses **“erupts into commotion”**. Do not normalize the Tamil to a different noun/verb form.
+
+### `மன்னுக்கியது`
+
+The scan-25 source asks the crown who `மன்னுக்கியது` him. English gives the contextual **“who made you king”** while leaving the unusual Tamil untouched.
+
+### `தர்ப்பாகூரர்`
+
+Character-level review confirms this form on scan 26 before `வெங்கண்ணு`. English retains **_Tharppakurar_ Vengannu** rather than inventing an expanded title, caste term or etymology.
+
+### `விபரீதத்தை ஏற்கத்`
+
+English uses **“be ready to face the calamity”**. The translation must retain the threat's force but must not intensify it beyond the source.
+
+### `தீவணங்குகிறான்`
+
+The source prints this form immediately before the `தர்ப்பாகூரர் வெங்கண்ணு` sentence. English conservatively uses **“The king of Thanjavur bows.”** Do not silently reconstruct a different Tamil verb.
+
+### `காற்று முறிந்து`
+
+The jasmine-bud image on scan 26 prints `காற்று முறிந்து கீழே விழுவதைக் காண்கிறோம்`. English uses the cautious image **“breaks in the air and falls to the ground”**. Do not silently substitute an expected word such as stem/stalk into the Tamil source.
+
 ## Cinematic vocabulary and form
 
 The internal `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` title card is always an **internal sequence** of the one work.
@@ -141,8 +186,9 @@ Locked handling:
 - `குளோசப்` → **close-up**
 - printed bracketed directions remain bracketed in English
 - screen flashes, background music, scene movement and sound effects remain visible
-- source onomatopoeia is transliterated where practical (`குபீர்`, `கட கடா`, `டக்டக்`, `கல கல`, `சட சட`, `சர்`, `கட கட`)
+- source onomatopoeia is transliterated where practical (`குபீர்`, `கட கடா`, `டக்டக்`, `கல கல`, `சட சட`, `சர்`, `கட கட`, `டான் டான்`)
 - on-screen textual units such as the Nagai shop sign remain visually distinct
+- source place-name shifts such as `கும்பகோணம்` / `குடந்தை` remain visible rather than being flattened everywhere to one form
 
 ## Rhetoric and form
 
@@ -151,6 +197,7 @@ Locked handling:
 - Open quotations across scan boundaries remain open until the source closes them.
 - Film/title-card formatting must never imply a separate work identity.
 - Source metaphors that sound strange in English should remain strange where that strangeness is source-supported.
+- Explicit caste/religious claims spoken by characters remain attributed to those characters; the translation must not turn them into editorial narration.
 
 ## Political / religious language
 
@@ -160,6 +207,7 @@ The translation reports Kalaignar's historical rhetoric as written. It does not 
 
 **Pilot terminology/style lock: COMPLETE.**  
 **Batch 2 new-term review: COMPLETE.**  
-**Batch 3 new-term review: COMPLETE.**
+**Batch 3 new-term review: COMPLETE.**  
+**Batch 4 new-term review: COMPLETE.**
 
 Later batches may add terms, but locked choices should change only if a documented consistency review finds a concrete contradiction in the source.
