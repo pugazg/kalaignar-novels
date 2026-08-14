@@ -4,7 +4,6 @@
 
 - Repository: `pugazg/kalaignar-novels`
 - Branch: `main`
-- State immediately before this handover update: commit `c5c205aa995492d4ba8a98167924fd38b83d46ce`
 - When resuming, verify current `main` before making changes.
 
 ## Permanent startup rule
@@ -13,17 +12,17 @@ Before any new work:
 
 1. Read `NOVEL_PROCESSING_GUIDE.md` completely.
 2. Read root `README.md`.
-3. Read the target work's `README.md`, `metadata/source.md`, and `indexes/page-map.md`.
+3. Read `works/balipeedam-nokki/README.md`, `metadata/source.md`, `indexes/page-map.md`, and `audit.md`.
 4. Inspect current repository state and continue existing work rather than creating duplicates.
-5. Treat the source scan as controlling authority.
-6. Do **not** upload/commit source PDF files to this repository.
+5. Treat the supplied scan as controlling authority.
+6. Do **not** upload/commit the source PDF to this repository.
 
 ## Current source
 
 Work: **பலிபீடம் நோக்கி**  
 Author: **மு. கருணாநிதி**
 
-Source filename (external to repository):
+Source filename, external to repository:
 
 `TVA_BOK_0065570_பலிபீடம்_நோக்கி.pdf`
 
@@ -38,18 +37,19 @@ Source filename (external to repository):
 
 **`பலிபீடம் நோக்கி` is one continuous work across scans 4–33.**
 
-Do not treat `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` as a separate work. It is the embedded cinematic-historical sequence within the same novel.
+Do not treat `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` as a separate work. It is the embedded cinematic-historical sequence within the same work.
 
 Source-supported structure:
 
 1. **Scans 4–7:** opening ideological / polemical frame.
-2. **Scan 7:** narrator explicitly introduces the next material as a film-like lesson.
-3. **Scan 8:** internal title-card page — `ராயசம் வெங்கண்ணு`, `தஞ்சை சரித்திரக் கதை`, `எரிமலை ‘ரிலீஸ்’`, screenplay/dialogue-style credits and `விநியோக உரிமை`.
-4. **Scans 9–29:** embedded Thanjavur historical episode in cinematic / screenplay-like form.
-5. **Scan 30:** `படம் முடிந்துவிட்டது... பாடம் கற்றுக்கொண்டீர்களா? பலிபீடம் நோக்க...` — explicit return to the main frame.
+2. **Scan 7:** narrator explicitly introduces a film-like lesson.
+3. **Scan 8:** internal title card — `ராயசம் வெங்கண்ணு`, `தஞ்சை சரித்திரக் கதை`, `எரிமலை ‘ரிலீஸ்’`, credit vocabulary and `விநியோக உரிமை`.
+4. **Scans 9–29:** embedded historical episode in cinematic / screenplay-like form.
+5. **Scan 30:** `படம் முடிந்துவிட்டது. பாடம் கற்றுக்கொண்டீர்களா? பலிபீடம் நோக்க...` — explicit return to the main frame.
 6. **Scans 31–33:** concluding direct address and close of the same work.
+7. **Scan 34:** blank/back matter.
 
-Archival rule for all body pages scans 4–33:
+Archival rule for every body page scan 4–33:
 
 ```text
 work: balipeedam-nokki
@@ -57,88 +57,101 @@ work: balipeedam-nokki
 
 `ராயசம் வெங்கண்ணு` may appear only as an internal `section` label preserving the printed heading.
 
-## Completed work
+## Current completion state
 
-Repository currently contains page records `0001` through `0012`.
+The **entire 34-page scan now has page records**.
 
-Page status:
+- page records created: **34 / 34**
+- `verified`: **27**
+- `needs-review`: **7**
+- `not-started`: **0**
+- source PDF in repository: **No**
 
-- scan 1: `verified`
-- scan 2: `verified`
-- scan 3: `needs-review`
-- scans 4–9: `verified`
-- scan 10: `needs-review`
-- scans 11–12: `verified`
-- scans 13–34: `not-started`
+Page files now cover:
 
-Totals:
+- `0001`–`0003`: front matter;
+- `0004-balipeedam-nokki-01.md` through `0033-balipeedam-nokki-30.md`: complete body sequence;
+- `0034-blank-back.md`: blank/back scan.
 
-- page records created: **12 / 34**
-- verified: **10**
-- needs-review: **2**
-- not-started: **22**
+A work-level audit file now exists at:
 
-## Completed transcription batch — scans 4–7
+`works/balipeedam-nokki/audit.md`
 
-The opening segment has been transcribed and directly compared with enlarged source scans.
+It records that transcription coverage is complete but the character-level source audit is not yet complete.
 
-Source-specific readings deliberately preserved include:
+## Important page continuity already preserved
 
-- scan 5: `குதுமன்றி`;
-- scan 5: `மாடலவறையவன்`;
-- scans 5 → 6: page-break fragment `அணுக்` + `களிலிருந்து`;
-- scan 6: `மாடலவறையன்`, `தணலில்`, and printed `அன்பு(?)`;
-- scans 6 → 7: `உதிர` + `ஆறுகளைப் பாருங்கள்`;
-- scan 7: `வேதியர் வெங்கண்ணு!` and the final printed star ornament.
+Do not reflow or "repair" these without checking the source:
 
-## Completed transcription batch — scans 8–12
+- scan 5 → 6: `அணுக்` / `களிலிருந்து`;
+- scan 6 → 7: `உதிர` / `ஆறுகளைப் பாருங்கள்`;
+- scan 12 → 13: open Vijay Raghava dying-speech quotation;
+- scan 17 → 18: open quotation;
+- scan 19 → 20: `பத்திரமாக பாது` / `காத்துக்கொள்`;
+- scan 21 → 22: sentence continues after `என்று`;
+- scan 29 → 30: `அப்படித்` / `தத்தளிக்கிறான்...`;
+- scan 30 → 31: `கைகூப்புவதை` / `யும் நோக்குங்கள்`.
 
-These pages continue the same `பலிபீடம் நோக்கி` work and begin its internal film-like historical sequence.
-
-Created:
-
-- `pages/0008-balipeedam-nokki-05.md`
-- `pages/0009-balipeedam-nokki-06.md`
-- `pages/0010-balipeedam-nokki-07.md`
-- `pages/0011-balipeedam-nokki-08.md`
-- `pages/0012-balipeedam-nokki-09.md`
-
-Key verified source details:
-
-- scan 8 title card: `ராயசம் வெங்கண்ணு` / `தஞ்சை சரித்திரக் கதை`;
-- scan 8 credit vocabulary: `எரிமலை ‘ரிலீஸ்’`, `டைரக்ஷன், திரைக்கதை அமைப்பு, வசனம்`, `விநியோக உரிமை`;
-- scan 9: darbar scene and marriage-alliance dialogue with `மன்னரு நாயக்கர்`, `குமார தாத்தாச்சார்யா`, `விசயராகவர்` / `விசய` role labels;
-- scan 10: `பெருக்கெடுக்கும் ரத்தவெள்ளத்தில்` and the unusual current reading `மித்தானமத்தனுக்குக்`;
-- scan 11: battle sequence, `சிகப்புத்தண்ணீர்`, bracketed `[விசயராகன் ஆசையோடு]`, and cinematic action narration;
-- scan 12: battle climax, `குளோசப்பில்`, `முணு முணுக்கிறது`, and the beginning of Vijay Raghava's dying speech.
-
-The final quotation on scan 12 remains open and continues onto scan 13. Do not insert a closing quotation mark or reconstruct the continuation from memory.
-
-## Open review items
+## Seven open review pages
 
 ### Scan 3
 
-One short phrase in the final paragraph of the publisher's note remains visually unresolved. The page file explicitly marks the gap instead of guessing from context.
+`pages/0003-publisher-note.md` — one short phrase in the publisher's note remains explicitly unresolved.
 
 ### Scan 10
 
-The printed lexical form in `மகள் அந்த மித்தானமத்தனுக்குக் கொடுத்து...` is unusual. The current direct visual reading is `மித்தானமத்தனுக்குக்`. It has **not** been normalized or replaced from context, but the page remains `needs-review` for a later character-level audit.
+`pages/0010-balipeedam-nokki-07.md` — unusual current reading `மித்தானமத்தனுக்குக்`.
+
+### Scan 13
+
+`pages/0013-balipeedam-nokki-10.md` — current reading `முச்சுற்றுப்படுத்திருக்கும்` needs confirmation.
+
+### Scan 21
+
+`pages/0021-balipeedam-nokki-18.md` — one scene-transition phrase is explicitly unresolved; `என்றுன் பேதை!` also needs character-level confirmation.
+
+### Scan 23
+
+`pages/0023-balipeedam-nokki-20.md` — current reading `களேபாரப்படுகிறது` needs confirmation.
+
+### Scan 26
+
+`pages/0026-balipeedam-nokki-23.md` — current readings `தற்பாகூரர்` and `வீரத்ததை எறக்கத்` need confirmation.
+
+### Scan 27
+
+`pages/0027-balipeedam-nokki-24.md` — one short scene-transition word/phrase is explicitly unresolved.
+
+Do not use grammar, historical knowledge or narrative context to fill these. Resolve only from the controlling scan; if still unreadable, leave them explicit.
+
+## Copy-specific / non-text marks
+
+Across the scan there are library stamps, handwritten underlines, vertical/bracket marks, age stains, bleed-through and binding artefacts. They are recorded separately in page observations where relevant and must never be merged into printed body text.
+
+Notable later-page examples:
+
+- scan 20: handwritten underline beneath `ஊமை வெயில் போல!`;
+- scan 26: large library stamp plus handwritten underline/brace;
+- scans 28, 30, 32, 33: handwritten underlining / marginal marks;
+- scan 33: printed closing ornament;
+- scan 34: blank/back page with physical wear / tape edge.
 
 ## Next exact activity
 
-Continue **the same `பலிபீடம் நோக்கி` work** with scans **13–17**.
+Perform a **targeted character-level source review of scans 3, 10, 13, 21, 23, 26 and 27**.
 
-This batch should:
+For each page:
 
-1. create `pages/0013-balipeedam-nokki-10.md` through `pages/0017-balipeedam-nokki-14.md`;
-2. continue the open dying-speech quotation from scan 12 directly into scan 13;
-3. keep `work: "balipeedam-nokki"` on every page;
-4. use `section: "ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை"` only as the internal sequence label;
-5. preserve cinematic narration, dialogue, scene/action description, punctuation, historical spelling, source-specific names and unusual grammar;
-6. record bleed-through, stamps, handwritten marks or other copy-specific marks separately from printed text;
-7. direct-visual-verify each page before marking it `verified`;
-8. update `indexes/page-map.md`, work `README.md`, root `README.md`, and this handover when the batch is complete.
+1. inspect enlarged source pixels directly;
+2. resolve only characters actually supported by the scan;
+3. leave genuinely unreadable material explicitly unresolved;
+4. update page status to `verified` only when justified;
+5. update `indexes/page-map.md`, `audit.md`, work README and this handover with the final counts.
+
+After that targeted review, perform a full 34-page consistency audit covering YAML fields, scan/printed-page numbering, page markers, cross-page continuations, printed/non-text separation and status counts.
 
 ## Translation gate
 
-English translation remains blocked until the complete Tamil transcription and direct visual audit of the source are finished. Translation/review files should not be created during the current stage.
+**English translation remains blocked.**
+
+Do not create translation/review files until the Tamil source layer has completed the targeted review and full consistency audit. If some characters remain genuinely unreadable after that review, carry those uncertainties explicitly into the translation plan rather than silently repairing the source.
