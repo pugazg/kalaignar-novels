@@ -72,35 +72,27 @@ Working English title: **_Towards the Sacrificial Altar_**.
 | 1 — opening-frame pilot | 4–7 | **reviewed** |
 | 2 — internal title card / Nayak court / battle | 8–13 | **reviewed** |
 | 3 — Alagiri–Vengannu / Sengamaladasan | 14–20 | **reviewed** |
-| 4 — Bijapur–Venkoji / restoration / conflict | 21–26 | **NEXT** |
-| 5 — final internal-film movement | 27–30 through `வணக்கம்` | not-started |
+| 4 — Bijapur–Venkoji / restoration / ministership conflict | 21–26 | **reviewed** |
+| 5 — final internal-film movement | 27–30 through `வணக்கம்` | **NEXT** |
 | 6 — return and conclusion | scan 30 from `படம் முடிந்துவிட்டது...` through 33 | not-started |
 
 English artifacts now present:
 
 - [`translations/en/sections/01-opening-frame.md`](translations/en/sections/01-opening-frame.md) — reviewed scans 4–7.
-- [`translations/en/sections/02-rayasam-vengannu-sequence.md`](translations/en/sections/02-rayasam-vengannu-sequence.md) — reviewed translated coverage through scan 20; Batches 4–5 continue in the same file.
+- [`translations/en/sections/02-rayasam-vengannu-sequence.md`](translations/en/sections/02-rayasam-vengannu-sequence.md) — reviewed coverage scans **8–26**; Batch 5 must be appended to this same file.
 
-### Batch 3 source review
+### Batch 4 source review
 
-Batch 3 was checked back against canonical Tamil pages 0014–0020. The review confirms:
+Batch 4 was checked against canonical Tamil pages 0021–0026. It preserves:
 
-- no substantive paragraph, dialogue turn, action direction, on-screen text unit or cinematic transition omitted;
-- the Alagiri–Vengannu strategy and treasure dispute preserved;
-- `ஆரியம்` rhetoric retained without softening/intensifying;
-- Cheran Senguttuvan / Matalavaraiyan visual callback preserved;
-- Dutch / Portuguese / Nagai screen sequence and shop sign retained;
-- Sengamaladasan identity revelation and foster-parent scene retained;
-- scan 19→20 quotation continuity preserved;
-- source oddities remain documented rather than silently normalized.
+- Vengannu's appeal to the Sultan of Bijapur and Venkoji's intervention;
+- Alagiri's defeat/death and the temple/reward scenes;
+- Sengamaladasan–Vengannu ministership dispute;
+- the Mahamaham/Kudanthai transition;
+- all dialogue, screen movement and source-page provenance;
+- source oddities such as `மளமள வென்று`, `என்றுன் பேதை!`, `களேபாரப்படுகிறது`, `மன்னுக்கியது`, `தர்ப்பாகூரர்`, `விபரீதத்தை ஏற்கத்`, `தீவணங்குகிறான்`, and `காற்று முறிந்து` without silently changing the Tamil.
 
-Batch-3 glossary decisions include:
-
-- `கப்பம்` → **tribute**;
-- `ராஜதந்திரம்` → **statecraft**;
-- `ராயசம்` → **Rayasam**;
-- source-bound treatment of `கிளந்திருந்த / கிளத்திருக்கிறது`, `மன்னனுக்கினேன்`, `வெத்துவேட்டுக்கள்`, `சிகப்புக்கள்`, `தெகிடு தத்தக்கார்களுக்கு`, `பொன்னுடை`, `முகத்தமிடுகிறாள்`;
-- `ஊமை வெயில் போல!` → **like mute sunlight!**.
+`GLOSSARY.md` records the corresponding English decisions.
 
 ## Important source readings
 
@@ -121,11 +113,11 @@ Do not silently normalize later:
 **Tamil source-preservation layer: PASSED**  
 **Assembled Tamil reading layer: PASSED**  
 **English translation plan: COMPLETE**  
-**English Batches 1–3: REVIEWED**  
+**English Batches 1–4: REVIEWED**  
 **Whole-work English translation: IN PROGRESS**
 
 ## அடுத்த செயல்
 
-Proceed with **Batch 4 — scans 21–26** by appending to the existing `translations/en/sections/02-rayasam-vengannu-sequence.md`.
+Proceed with **Batch 5 — scans 27–30 through the internal film's `வணக்கம்` end-card** by appending to the existing `translations/en/sections/02-rayasam-vengannu-sequence.md`.
 
-Read canonical pages `0021`–`0026` first. Preserve all dialogue, action/screen form and source oddities—especially `மளமள வென்று`, `என்றுன் பேதை!`, `களேபாரப்படுகிறது`, `தர்ப்பாகூரர்`, and `விபரீதத்தை ஏற்கத்`. Source-check Batch 4 before advancing to Batch 5.
+Do not translate the scan-30 text beginning `படம் முடிந்துவிட்டது...` in Batch 5. That exact point begins Batch 6 / `translations/en/sections/03-return-and-conclusion.md`.
