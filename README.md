@@ -14,9 +14,18 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | source registration + page map தொடங்கப்பட்டது |
+| பலிபீடம் நோக்கி | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | source registered; 34-page manifest complete; 3/34 page records created |
 
 இந்த scan-இல் `பலிபீடம் நோக்கி`க்கு பின்பு **`ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை`** இடம்பெறுகிறது. இரண்டும் ஒரே scanned publication-ன் பகுதிகளாக source identity-யுடன் பாதுகாக்கப்படும்.
+
+### தற்போதைய page status
+
+- scan 1 — `verified`
+- scan 2 — `verified`
+- scan 3 — `needs-review` (ஒரு குறும் சொற்றொடர் unresolved; ஊகித்து நிரப்பப்படவில்லை)
+- scans 4–34 — `not-started`
+
+அடுத்த batch: **scans 4–7**, அதாவது `பலிபீடம் நோக்கி` textual unit முழுவதும்.
 
 ## களஞ்சிய அமைப்பு
 
@@ -37,4 +46,5 @@ works/
 
 ஒவ்வொரு நூலும் தனித்த `works/<work-slug>/` அடைவில் பதிவாகும். பக்கவாரி records முதன்மை archival layer; பின்னர் தேவையான section/chapter assemblies, audit, translation மற்றும் review files சேர்க்கப்படும்.
 
-விரிவான workflow: [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md).
+விரிவான workflow: [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md).  
+தற்போதைய நூல்: [`works/balipeedam-nokki/README.md`](works/balipeedam-nokki/README.md).
