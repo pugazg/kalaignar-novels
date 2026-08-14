@@ -13,6 +13,7 @@
 
 **Whole-work English status:** **VERIFIED**  
 **Final bilingual review:** [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) — **PASSED**  
+**Release report:** [`RELEASE_REPORT.md`](RELEASE_REPORT.md) — **RELEASE-READY**  
 **English body-text coverage:** scans **4–33 complete**.
 
 ## English section map
@@ -38,22 +39,11 @@ The critical scan-30 boundary passed final review:
 
 ## Final bilingual review result
 
-The final review checked the complete English layer against the audited Tamil source and the verified assembled Tamil sections for:
-
-- source coverage and ordering;
-- dialogue/speaker assignment;
-- cinematic directions, screen text and sound effects;
-- names and place-name consistency;
-- `பலிபீடம்`, `ஆரியம்`, `தன்மானம்`, `பகுத்தறிவு` and other governing terms;
-- political/religious/caste polemical force;
-- omission/addition risk;
-- causal/agency changes;
-- page-boundary continuities;
-- all documented source oddities.
+The final review checked the complete English layer against the audited Tamil source and the verified assembled Tamil sections for source coverage/order, dialogue and agency, cinematic directions, names/places, governing terminology, political/religious/caste rhetoric, omission/addition risk, page-boundary continuity and documented source oddities.
 
 **Result: PASS.**
 
-No missing substantive paragraph, duplicated source span, material source-like addition, altered speaker assignment, or whole-work rhetorical distortion requiring correction was found.
+No missing substantive paragraph, duplicated source span, material source-like addition, altered speaker assignment or whole-work rhetorical distortion requiring correction was found.
 
 ## Difficult-source-form policy after final review
 
@@ -72,25 +62,24 @@ The verified English intentionally retains or cautiously renders source-specific
 
 The final review explicitly revisited `புத்த பூதம்`; the existing cautious contextual **“a new demon”** is retained without treating it as a correction of the canonical Tamil.
 
-## Verification meaning
+## Release-readiness result
 
-Whole-work `verified` means the English has passed the repository's source-fidelity, structural, terminology, omission/addition and rhetorical-force gates.
+The release pass checked reader-facing navigation, repository inventory, status synchronization, source authority and source-PDF exclusion.
 
-It does **not** mean:
+- all three English section targets exist — **yes**;
+- root/work/English README navigation targets exist — **yes**;
+- canonical Tamil page records — **34 / 34 verified**;
+- assembled Tamil sections — **3 / 3 complete**;
+- English reading sections — **3 / 3 complete**;
+- source PDF committed — **no**;
+- final release report — **complete**.
 
-- the English replaces the Tamil source;
-- uncertain historical spelling has been normalized;
-- source oddities have been corrected;
-- external historical claims in the narrative have been independently verified.
+**Release status: READY within this archival repository.**
 
-The audited Tamil `pages/` layer remains controlling authority.
+Release readiness is an editorial/archival status, not a determination of copyright, licensing or republication rights. See [`RELEASE_REPORT.md`](RELEASE_REPORT.md).
 
-## Next exact activity — release readiness
+## Current gate
 
-Create `RELEASE_REPORT.md` and perform a release-readiness pass covering:
+No further mandatory transcription or translation work remains for this source edition.
 
-1. reader-facing navigation across the three English sections;
-2. final metadata/status synchronization;
-3. release inventory for the Tamil and English archival layers;
-4. publication/reuse notes stating that canonical Tamil pages remain authoritative;
-5. confirmation that the source PDF remains outside the repository.
+Future derived editions must continue to treat the audited Tamil `pages/` records as controlling authority and must not silently modernize the verified source forms.
