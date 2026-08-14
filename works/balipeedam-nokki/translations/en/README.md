@@ -29,10 +29,8 @@ translations/en/
   sections/
     01-opening-frame.md
     02-rayasam-vengannu-sequence.md
-    03-return-and-conclusion.md
+    03-return-and-conclusion.md   # create in Batch 6
 ```
-
-Section 3 should be created only when Batch 6 begins; do not create empty placeholders.
 
 ## Review states
 
@@ -50,33 +48,23 @@ Section 3 should be created only when Batch 6 begins; do not create empty placeh
 - Batch 2 / scans 8–13: **reviewed**.
 - Batch 3 / scans 14–20: **reviewed**.
 - Batch 4 / scans 21–26: **reviewed**.
-- Batch 5 / scans 27–30 through `வணக்கம்`: **NEXT**.
-- Batch 6 / return and conclusion: **not started**.
+- Batch 5 / scans 27–30 through `வணக்கம்`: **reviewed**.
+- Batch 6 / scan 30 from `படம் முடிந்துவிட்டது...` through 33: **NEXT**.
 - Whole-work English `verified`: **no**.
 
 English sections currently present:
 
 1. [`sections/01-opening-frame.md`](sections/01-opening-frame.md) — scans 4–7, reviewed.
-2. [`sections/02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md) — reviewed translated coverage through scan **26**; Batch 5 must continue by appending to this same file.
+2. [`sections/02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md) — scans 8–30 through the internal film's `வணக்கம்` end-card, reviewed and complete for that internal sequence.
 
-### Batch 4 review
+The next English section must begin **within scan 30**, immediately after that end-card, at `படம் முடிந்துவிட்டது. பாடம் கற்றுக்கொண்டீர்களா?`.
 
-Batch 4 was checked against canonical Tamil pages 0021–0026. The review confirms:
-
-- no substantive paragraph, dialogue turn, action/cinematic unit or source-page transition omitted;
-- Bijapur / Shahji / Venkoji sequence preserved;
-- Alagiri's flight and death, temple/reward scene, and ministership rupture retained;
-- source place-name distinction `கும்பகோணம்` / `குடந்தை` preserved;
-- verified source oddities remain documented instead of silently regularised.
-
-New Batch-4 decisions are recorded in [`GLOSSARY.md`](GLOSSARY.md), including `மளமள வென்று`, `என்றுன் பேதை!`, `களேபாரப்படுகிறது`, `மன்னுக்கியது`, `தர்ப்பாகூரர்`, `விபரீதத்தை ஏற்கத்`, `தீவணங்குகிறான்`, `காற்று முறிந்து`, *poovaragan*, and the Kumbakonam/Kudanthai distinction.
-
-Detailed batch audit: [`PROGRESS.md`](PROGRESS.md).
+Terminology and source-oddity decisions are recorded in [`GLOSSARY.md`](GLOSSARY.md). Detailed batch audit: [`PROGRESS.md`](PROGRESS.md).
 
 ## Translation principle
 
 The goal is clear English that remains source-bound. Political force, accusation, irony, repetition, rhetorical questions, historical-cinematic form and source oddities are preserved without softening, intensifying or silently reconstructing the Tamil.
 
-## Next activity
+## Final gate
 
-Translate **Batch 5 — scans 27–30 only through the internal film's `வணக்கம்` end-card**. The remainder of scan 30 beginning `படம் முடிந்துவிட்டது...` belongs to Batch 6 and must not be included in Batch 5.
+After Batch 6 is translated and source-checked, create `TRANSLATION_REVIEW.md` for whole-work bilingual alignment. Only that review may advance the English layer from batch-level `reviewed` to whole-work `verified`.
