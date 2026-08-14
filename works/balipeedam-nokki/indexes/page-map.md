@@ -6,7 +6,7 @@ Source: `TVA_BOK_0065570_பலிபீடம்_நோக்கி.pdf`
 |---:|:---:|---|---|---|
 | 1 | — | illustrated cover | verified | `pages/0001-cover.md` |
 | 2 | — | title page / publication imprint / stamps | verified | `pages/0002-title-page.md` |
-| 3 | — | edition statement / பதிப்பகத்தார் note / stamps | verified | `pages/0003-publisher-note.md` |
+| 3 | — | edition statement / பதிப்பகத்தார் note / stamps | needs-review | `pages/0003-publisher-note.md` |
 | 4 | — | `பலிபீடம் நோக்கி` — opening | not-started | `pages/0004-balipeedam-nokki-01.md` |
 | 5 | 4 | `பலிபீடம் நோக்கி` | not-started | `pages/0005-balipeedam-nokki-02.md` |
 | 6 | 5 | `பலிபீடம் நோக்கி` | not-started | `pages/0006-balipeedam-nokki-03.md` |
@@ -43,13 +43,18 @@ Source: `TVA_BOK_0065570_பலிபீடம்_நோக்கி.pdf`
 
 - Source scan pages: **34**
 - Page records created: **3 / 34**
-- `verified`: **3**
+- `verified`: **2**
+- `needs-review`: **1**
 - `not-started`: **31**
 - PDF stored in repository: **No**
 
 ## Numbering note
 
 Printed page numbers are recorded only where visibly printed in the scan. Scan pages 4 and 8 sit within a sequential printed-page run, but no printed number is visibly present on those page images; therefore the manifest deliberately records `—` rather than inferring `3` or `7`.
+
+## Review note — scan 3
+
+The publisher-note page has been transcribed without guessing, but one short phrase in the final paragraph remains unresolved and is explicitly marked in `pages/0003-publisher-note.md`. The page therefore remains `needs-review`.
 
 ## அடுத்த batch
 
