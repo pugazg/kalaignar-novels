@@ -12,7 +12,7 @@ transcription_method: "direct visual comparison with source scan"
 
 மறக்குல வேந்தனை சாய்த்தவன் ஒரு மறக்குல மழவனல்ல! சேரனை சாய்த்தவன் அவன் இனத்தவன் பாண்டியனல்ல! அந்த சூரனை சாய்த்தவன் சோழனுமல்ல!
 
-சோறும், குடமன்றி எதுவுமறியா ஒரு சோதா, சேரன் செங்குட்டுவனை வீழ்த்தினான். வீரத்தை விலை கேட்கும் ஒரு ‘விருதா’ சேரன் செங்குட்டுவனை வீழ்த்தினான்.
+சோறும், குதுமன்றி எதுவுமறியா ஒரு சோதா, சேரன் செங்குட்டுவனை வீழ்த்தினான். வீரத்தை விலை கேட்கும் ஒரு ‘விருதா’ சேரன் செங்குட்டுவனை வீழ்த்தினான்.
 
 வீழ்த்திய முறை பெருமைக்குரியதா? இல்லை! போர் முனையிலா? இல்லை! போகசாலையை மட்டும் காட்டியா? இல்லை!
 
@@ -29,5 +29,6 @@ transcription_method: "direct visual comparison with source scan"
 - The final printed word is deliberately left as the page-ending fragment `அணுக்`; it continues as `களிலிருந்து` on scan 6.
 - Reverse-side bleed-through is visible behind the printed text and has not been transcribed as current-page content.
 - A small brown age/stain mark is visible along the right side of the body area.
+- Direct enlarged visual comparison confirms the source form `குதுமன்றி`; it has not been normalized to a more familiar-looking word.
 
 <!-- மூல ஸ்கேன் பக்கம்: 5; அச்சுப் பக்கம்: 4 -->
