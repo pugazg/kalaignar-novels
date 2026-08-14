@@ -2,11 +2,28 @@
 
 English translation of **மு. கருணாநிதியின் `பலிபீடம் நோக்கி`**, based on the audited first-edition Tamil source preserved in this repository.
 
+## Release status
+
+**Whole-work English: VERIFIED**  
+**Release readiness: READY**
+
+Final bilingual review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)  
+Final release report: [`RELEASE_REPORT.md`](RELEASE_REPORT.md)
+
+## Start reading
+
+1. [`sections/01-opening-frame.md`](sections/01-opening-frame.md) — opening `பலிபீடம்` frame, scans 4–7.
+2. [`sections/02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md) — internal cinematic-historical sequence, scans 8–30 through `வணக்கம்`.
+3. [`sections/03-return-and-conclusion.md`](sections/03-return-and-conclusion.md) — narrator's return and conclusion, scan 30 from `படம் முடிந்துவிட்டது...` through scan 33.
+
+The scan-30 split follows the source's own narrative boundary. The `வணக்கம்` end-card appears only in section 2; section 3 begins only after the film has ended.
+
 ## Authority
 
 1. [`../../pages/`](../../pages/) — canonical audited Tamil page records; final textual authority.
 2. [`../../sections/`](../../sections/) — source-faithful assembled Tamil reading layer for continuity.
-3. [`../../audit.md`](../../audit.md), [`../../indexes/page-map.md`](../../indexes/page-map.md), and [`../../metadata/source.md`](../../metadata/source.md) — audit, page mapping and edition identity.
+3. This verified English translation — derived from the audited Tamil layers.
+4. [`../../audit.md`](../../audit.md), [`../../indexes/page-map.md`](../../indexes/page-map.md), and [`../../metadata/source.md`](../../metadata/source.md) — provenance, audit and edition identity.
 
 If an English rendering conflicts with a canonical Tamil page record, the Tamil page record governs.
 
@@ -18,56 +35,33 @@ The source-printed **`ராயசம் வெங்கண்ணு — தஞ�
 
 Working English title: **_Towards the Sacrificial Altar_**.
 
-## Translation files
+## Translation package
 
-```text
-translations/en/
-  README.md
-  TRANSLATION_PLAN.md
-  PROGRESS.md
-  GLOSSARY.md
-  TRANSLATION_REVIEW.md
-  sections/
-    01-opening-frame.md
-    02-rayasam-vengannu-sequence.md
-    03-return-and-conclusion.md
-```
-
-## Current state
-
-- Tamil source layer: **PASSED — 34/34 verified**.
-- Assembled Tamil layer: **PASSED**.
-- Translation plan: **complete**.
-- English Batches 1–6: **reviewed**.
-- Complete English body-text coverage: **scans 4–33**.
-- Final whole-work bilingual review: **PASSED**.
-- Whole-work English status: **VERIFIED**.
-
-Final review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
-
-## English sections
-
-1. [`sections/01-opening-frame.md`](sections/01-opening-frame.md) — scans 4–7.
-2. [`sections/02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md) — scans 8–29 plus scan 30 through the internal film's `வணக்கம்` end-card.
-3. [`sections/03-return-and-conclusion.md`](sections/03-return-and-conclusion.md) — scan 30 beginning exactly at `படம் முடிந்துவிட்டது...` through scan 33.
-
-The scan-30 split follows the source's own narrative boundary. The `வணக்கம்` end-card appears only in section 2; the return to the governing `பலிபீடம்` argument begins only in section 3.
+- [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md) — translation method, source hierarchy and batch design
+- [`PROGRESS.md`](PROGRESS.md) — batch history and current status
+- [`GLOSSARY.md`](GLOSSARY.md) — recurring terminology and difficult-source-form decisions
+- [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) — final bilingual alignment
+- [`RELEASE_REPORT.md`](RELEASE_REPORT.md) — release inventory, navigation QA and publication/reuse notes
+- [`sections/01-opening-frame.md`](sections/01-opening-frame.md)
+- [`sections/02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md)
+- [`sections/03-return-and-conclusion.md`](sections/03-return-and-conclusion.md)
 
 ## Verification meaning
 
 Whole-work `verified` means the English has passed source-fidelity review for structure, coverage, terminology, dialogue/agency, rhetoric, cinematic form, page-boundary continuity and documented source oddities.
 
-It does **not** mean the English replaces the Tamil source or that source-specific historical claims/spellings have been externally normalized or independently verified.
+It does **not** mean the English replaces the Tamil source, that unusual source forms have been normalized, or that every historical claim in the narrative has been independently verified.
 
 The audited Tamil page records remain authoritative.
 
-Terminology and source-oddity decisions: [`GLOSSARY.md`](GLOSSARY.md).  
-Batch history and status: [`PROGRESS.md`](PROGRESS.md).
+## Source-specific language
 
-## Translation principle
+The translation deliberately preserves or cautiously renders difficult printed forms rather than inventing normalized originals. The decisions are documented in [`GLOSSARY.md`](GLOSSARY.md) and the final bilingual review.
 
-The goal is clear English that remains source-bound. Political force, accusation, irony, repetition, rhetorical questions, historical-cinematic form and source oddities are preserved without softening, intensifying or silently reconstructing the Tamil.
+The translation preserves political force, accusation, irony, repetition, rhetorical questions and historical-cinematic form without softening, intensifying or silently reconstructing the Tamil.
 
-## Next release-stage activity
+## Publication / reuse note
 
-Create `RELEASE_REPORT.md` and perform the release-readiness pass for navigation, final status synchronization, release inventory and publication/reuse notes.
+This repository release is editorially and archivally ready. That status does not itself determine copyright, licensing, republication or commercial-use permissions for the underlying work, scan or translation. See [`RELEASE_REPORT.md`](RELEASE_REPORT.md) before preparing any redistributed edition.
+
+The source PDF remains outside this Git repository.
