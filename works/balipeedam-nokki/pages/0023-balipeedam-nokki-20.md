@@ -4,7 +4,7 @@ printed_page: 22
 work: "balipeedam-nokki"
 section: "ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065570_பலிபீடம்_நோக்கி.pdf"
 transcription_method: "direct visual comparison with enlarged source scan"
@@ -28,8 +28,7 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 ## Scan observations
 
-- The phrase after `‘ஆண்டவனுக்கு அர்ச்சனை’` is visually unusual; the current direct reading `களேபாரப்படுகிறது` is retained without normalization.
-- This page remains `needs-review` for a later character-level check of that form.
+- Enlarged character-level review confirms the unusual source form `களேபாரப்படுகிறது` after `‘ஆண்டவனுக்கு அர்ச்சனை’`; it is retained without normalization.
 - Reverse-side bleed-through and light paper ageing are visible.
 
 <!-- மூல ஸ்கேன் பக்கம்: 23; அச்சுப் பக்கம்: 22 -->
