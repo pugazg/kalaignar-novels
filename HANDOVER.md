@@ -52,7 +52,7 @@ Source flow:
 5. scans 31–33 — conclusion;
 6. scan 34 — blank/back matter.
 
-Every body page and every English translation section remains under:
+Every body page and English translation section remains under:
 
 ```text
 work: balipeedam-nokki
@@ -62,14 +62,13 @@ work: balipeedam-nokki
 
 - page records: **34 / 34**
 - verified: **34 / 34**
-- needs-review: **0**
 - unresolved readings: **0**
 - Tamil source audit: **PASSED**
 - assembled Tamil reading layer: **PASSED**
 
 Canonical source layer: `works/balipeedam-nokki/pages/`.
 
-Important source readings that must not be silently normalized later include:
+Important source readings that must not be silently normalized include:
 
 - scan 3 — `பேனுப் பிடிக்கும்`
 - scan 10 — `மித்தானமத்தனுக்குக்`
@@ -85,78 +84,92 @@ Important source readings that must not be silently normalized later include:
 - `sections/02-rayasam-vengannu-sequence.md` — scans 8–29 + scan 30 through `வணக்கம்`
 - `sections/03-return-and-conclusion.md` — scan 30 from `படம் முடிந்துவிட்டது...` through scan 33
 
-Scan 30 is intentionally split at the work's own narrative boundary, not at an arbitrary page boundary.
+Scan 30 is intentionally split at the work's own narrative boundary.
 
-## English translation state
+## English translation infrastructure
 
 Working English title: **_Towards the Sacrificial Altar_**.
 
-Translation infrastructure now exists:
+Existing files:
 
 - `translations/en/TRANSLATION_PLAN.md`
 - `translations/en/README.md`
 - `translations/en/PROGRESS.md`
 - `translations/en/GLOSSARY.md`
 - `translations/en/sections/01-opening-frame.md`
+- `translations/en/sections/02-rayasam-vengannu-sequence.md`
 
-### Batch 1 pilot — COMPLETE + REVIEWED
+Whole-work `verified` status is reserved for final bilingual alignment after all six batches.
 
-Source: scans **4–7**.
+## Batch 1 — COMPLETE + REVIEWED
 
-English file:
+Source: scans **4–7**.  
+English: `translations/en/sections/01-opening-frame.md`.  
+Status: **reviewed**.
 
-`works/balipeedam-nokki/translations/en/sections/01-opening-frame.md`
+Pilot terminology/style lock is recorded in `GLOSSARY.md`, including `பலிபீடம்` → **sacrificial altar**, `ஆரியம்` → **Aryanism** when ideological, `தன்மானம்` → **self-respect**, `மறம்` → **valour**, `கொற்றம்` → **triumph**, and source-bound treatment of `குதுமன்றி`, `விருதா`, `மஹா கனம்`, `அன்பு(?)`.
 
-Status: **`reviewed`**.
+## Batch 2 — COMPLETE + REVIEWED
 
-The pilot was checked back against canonical Tamil pages 0004–0007 after drafting. No substantive paragraph or rhetorical unit is omitted. The review also checked page-boundary continuity and the scan-7 transition into the internal film.
+Source: scans **8–13**.  
+English: `translations/en/sections/02-rayasam-vengannu-sequence.md`.  
+Status for current coverage: **reviewed**.
 
-### Pilot terminology/style lock
+Batch 2 includes:
 
-`translations/en/GLOSSARY.md` now locks the first recurring choices, including:
+- internal `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` title card;
+- `எரிமலை ‘ரிலீஸ்’`, direction/screenplay/dialogue/distribution credits;
+- Kumar Tatacharya palanquin/durbar entrance;
+- Vijayaraghava–Mannaru marriage/war discussion;
+- blessing and battle transition;
+- deaths of Mannaru, Vijayaraghava and the queen;
+- Vijayaraghava dying speech across scans 12→13;
+- palace fire sequence and Sengamaladasan's escape.
 
-- `பலிபீடம்` → **sacrificial altar**;
-- `ஆரியம்` → **Aryanism** when the Tamil uses it as an ideological/social force;
-- `தன்மானம்` → **self-respect** in ideological context;
-- `மறம்` → **valour**;
-- `கொற்றம்` → **triumph**;
-- `வெங்கண்ணு` → **Vengannu**;
-- `மாடலவறையவன் / மாடலவறையன்` → **Matalavaraiyan** in English, while source variation remains untouched in Tamil;
-- `குதுமன்றி`, `விருதா`, `மஹா கனம்`, `அன்பு(?)` remain explicitly documented rather than silently regularised;
-- source film sound effects are transliterated rather than replaced with invented English effects.
+### Batch-2 fidelity decisions
 
-Whole-work English is **not verified** yet. `verified` is reserved for final bilingual alignment after all translation batches.
+- no substantive paragraph, dialogue turn, action direction or cinematic unit omitted;
+- `ராயசம் வெங்கண்ணு` remains explicitly internal to the one work;
+- scan 10 `மித்தானமத்தனுக்குக்` retained as *mitthanamathan*, not guessed;
+- scan 13 `முச்சுற்றுப்படுத்திருக்கும்` documented; English uses cautious contextual **encircling it**;
+- `கன்னிகாதானம்` → *kanyadanam*;
+- `சந்தர்ப்பணம்` → *santharpanam*;
+- `அக்கிரகாரம்` → *agraharam*;
+- `குளோசப்` → **close-up**;
+- source sound effects and bracketed directions remain visible;
+- open quotation continuity scan 10→11 and 12→13 preserved.
+
+`GLOSSARY.md` has been updated with these decisions and Batch-2 names/film vocabulary.
 
 ## Translation batch status
 
 | Batch | Source | Status |
 |---|---|---|
 | 1 — pilot opening frame | scans 4–7 | **reviewed** |
-| 2 — internal title card / Nayak court / battle | scans 8–13 | **NEXT** |
-| 3 — Alagiri–Vengannu / Sengamaladasan | scans 14–20 | not-started |
+| 2 — title card / Nayak court / battle | scans 8–13 | **reviewed** |
+| 3 — Alagiri–Vengannu / Sengamaladasan | scans 14–20 | **NEXT** |
 | 4 — Bijapur–Venkoji / restoration / ministership conflict | scans 21–26 | not-started |
 | 5 — final internal-film movement | scans 27–30 through `வணக்கம்` | not-started |
 | 6 — return and conclusion | scan 30 from `படம் முடிந்துவிட்டது...` through 33 | not-started |
 
-## Next exact activity — Batch 2
+## Next exact activity — Batch 3
 
-Translate **scans 8–13** into:
+Translate **scans 14–20** by **appending to the existing**:
 
 `works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md`
 
-### Batch-2 requirements
+### Batch-3 requirements
 
-1. Create the English section file with the same `work: balipeedam-nokki` identity.
-2. Make clear that `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` is an internal sequence, not another work.
-3. Translate the scan-8 title card and credits, including `எரிமலை ‘ரிலீஸ்’`, direction/screenplay/dialogue credit language, and distribution-rights line.
-4. Translate every substantive unit on scans 8–13; do not summarise.
-5. Preserve cinematic narration, screen/camera movement, background music, sound effects, bracketed action directions and dialogue structure.
-6. Preserve source-specific oddities, especially scan 10 `மித்தானமத்தனுக்குக்` and scan 13 `முச்சுற்றுப்படுத்திருக்கும்`; do not silently reconstruct them from historical context.
-7. Keep source-scan provenance visible through comments/metadata.
-8. After drafting, compare the complete Batch-2 English against canonical Tamil page files `0008`–`0013`.
-9. Update `GLOSSARY.md` only for genuinely new recurring terminology established by Batch 2.
-10. Advance `PROGRESS.md`, work/root README and this handover only after source check.
-11. Do **not** start Batch 3 in the same step unless Batch 2 has passed its review gate.
+1. Do not create a new work or a new internal-sequence file.
+2. Read canonical Tamil pages `0014` through `0020` before translating.
+3. Append every substantive unit from scans 14–20; do not summarise.
+4. Preserve dialogue, bracketed directions, scene/screen movement, sound effects and rhetorical tone.
+5. Preserve source oddities rather than reconstructing them from history or grammar.
+6. Keep source-scan provenance comments visible.
+7. After drafting, compare the appended English against canonical Tamil pages `0014`–`0020`.
+8. Update `GLOSSARY.md` only for genuinely new recurring choices.
+9. Advance `PROGRESS.md`, readmes and this handover only after Batch 3 passes the source check.
+10. Do not begin Batch 4 until that gate is satisfied.
 
 ## Final release gate
 
