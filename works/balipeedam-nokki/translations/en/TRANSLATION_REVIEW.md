@@ -23,21 +23,21 @@ No external historical edition, modernized Tamil text, web transcription or reco
 
 `பலிபீடம் நோக்கி` remains **one continuous work** throughout the English layer.
 
-The source-printed `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` remains an **internal cinematic-historical sequence**, not a separate story, work, release identity or translation project.
+The source-printed `ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` remains an **internal cinematic-historical sequence**, not a separate story, work, release identity or translation project.
 
 Verified English structure:
 
 | English section | Source coverage | Result |
 |---|---|---|
 | `sections/01-opening-frame.md` | scans 4–7 | aligned |
-| `sections/02-rayasam-vengannu-sequence.md` | scans 8–29 + scan 30 through the internal-film `வணக்கம்` end-card | aligned |
+| `sections/02-rayasam-venganna-sequence.md` | scans 8–29 + scan 30 through the internal-film `வணக்கம்` end-card | aligned |
 | `sections/03-return-and-conclusion.md` | scan 30 from `படம் முடிந்துவிட்டது...` through scan 33 | aligned |
 
 ### Scan-30 boundary
 
 The critical intra-page boundary on scan 30 was checked again.
 
-- section 2 ends with the internal film's `வணக்கம்` end-card and Vengannu garlanding Venkoji;
+- section 2 ends with the internal film's `வணக்கம்` end-card and Venganna garlanding Venkoji;
 - section 3 begins exactly at `படம் முடிந்துவிட்டது. பாடம் கற்றுக்கொண்டீர்களா?`;
 - the end-card is not duplicated;
 - the narrator's return is not omitted;
@@ -74,17 +74,17 @@ Confirmed represented:
 - Nayak court, Kumar Tatacharya and marriage/war dispute;
 - battle, deaths and Vijayaraghava's dying speech;
 - palace-fire / Sengamaladasan escape;
-- Alagiri–Vengannu political strategy and treasure dispute;
+- Alagiri–Venganna political strategy and treasure dispute;
 - Aryanism rhetoric and rupture;
 - Senguttuvan/Matalavaraiyan visual callback;
 - Nagai shop sign and coastal cinematic movement;
 - discovery and identity revelation of Sengamaladasan;
 - Bijapur / Shahji / Venkoji intervention;
 - Sengamaladasan's restoration and reward to Venkoji;
-- ministership dispute and Vengannu's second rupture;
+- ministership dispute and Venganna's second rupture;
 - Kudanthai / Mahamaham transition;
 - poisoned-feast claim and Venkoji's decision to seize Thanjavur;
-- final assault, burning Nayak flag and Vengannu-head vision;
+- final assault, burning Nayak flag and Venganna-head vision;
 - explicit crown / sacrificial-altar callback;
 - Sengamaladasan's collapse;
 - `மராட்டிய சாம்ராஜ்யம் உதயம்` screen text;
@@ -138,7 +138,7 @@ Stable English forms remain consistent, including:
 - Cheran Senguttuvan;
 - Kanaka Vijayar;
 - Matalavaraiyan;
-- Vengannu — not silently changed to Venganna;
+- Venganna — not silently changed to Venganna;
 - Vijayaraghava;
 - Mannaru Nayak;
 - Kumar Tatacharya;
@@ -150,7 +150,7 @@ Stable English forms remain consistent, including:
 - Bijapur;
 - Kudanthai where the source uses `குடந்தை`, rather than flattening every occurrence to Kumbakonam.
 
-The internal `ராயசம் வெங்கண்ணு` heading is not promoted to a second work anywhere in the English structure.
+The internal `ராயசம் வெங்கண்ணா` heading is not promoted to a second work anywhere in the English structure.
 
 ## Political, religious and caste rhetoric — PASS
 

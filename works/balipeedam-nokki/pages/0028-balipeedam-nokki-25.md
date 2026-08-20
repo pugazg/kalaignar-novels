@@ -2,7 +2,7 @@
 scan_page: 28
 printed_page: 27
 work: "balipeedam-nokki"
-section: "ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை"
+section: "ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை"
 page_type: "body"
 status: "verified"
 language: "ta"
@@ -30,7 +30,7 @@ transcription_method: "direct visual comparison with source scan"
 
 ‘அரசே!... தங்கள் ஆட்சிக் காலத்தில் .????’
 
-வெங்கண்ணு விஷயத்தை இழுத்து மறுப்புகிறான்.
+வெங்கண்ணா விஷயத்தை இழுத்து மறுப்புகிறான்.
 
 ‘அந்தணர் வாழ்வார். ஆலயம் செழிக்கும். அக்கிரகாரம் வளரும் அஞ்சாதீர்.’
 

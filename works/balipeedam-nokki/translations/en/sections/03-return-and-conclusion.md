@@ -11,7 +11,7 @@ derived_from: "audited Tamil pages/0030-0033 and verified assembled Tamil sectio
 
 # Return to the Sacrificial Altar — Conclusion
 
-> **Translator's note:** This English translation follows the audited first-edition Tamil source preserved in this repository. It aims to carry Kalaignar's argument, rhetoric, dialogue, historical-cinematic form and political intensity into clear English without modernising or silently correcting the Tamil. The audited Tamil page records remain authoritative. `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` remains an internal film-like sequence of `பலிபீடம் நோக்கி`, not a separate work.
+> **Translator's note:** This English translation follows the audited first-edition Tamil source preserved in this repository. It aims to carry Kalaignar's argument, rhetoric, dialogue, historical-cinematic form and political intensity into clear English without modernising or silently correcting the Tamil. The audited Tamil page records remain authoritative. `ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` remains an internal film-like sequence of `பலிபீடம் நோக்கி`, not a separate work.
 
 The picture is over. Have you learnt the lesson? How many of you are now ready to go towards the sacrificial altar?
 

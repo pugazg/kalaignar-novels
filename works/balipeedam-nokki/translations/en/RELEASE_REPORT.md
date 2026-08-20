@@ -46,7 +46,7 @@ The `pages/` layer is the controlling archival text.
 
 - [`../../sections/README.md`](../../sections/README.md) — assembly policy and section map
 - [`../../sections/01-opening-frame.md`](../../sections/01-opening-frame.md) — scans 4–7
-- [`../../sections/02-rayasam-vengannu-sequence.md`](../../sections/02-rayasam-vengannu-sequence.md) — scans 8–29 + scan 30 through the internal-film `வணக்கம்` end-card
+- [`../../sections/02-rayasam-venganna-sequence.md`](../../sections/02-rayasam-venganna-sequence.md) — scans 8–29 + scan 30 through the internal-film `வணக்கம்` end-card
 - [`../../sections/03-return-and-conclusion.md`](../../sections/03-return-and-conclusion.md) — scan 30 from `படம் முடிந்துவிட்டது...` through scan 33
 
 This layer is derived for continuous reading. It does not supersede the page-level Tamil records.
@@ -59,7 +59,7 @@ This layer is derived for continuous reading. It does not supersede the page-lev
 - [`GLOSSARY.md`](GLOSSARY.md) — recurring terminology and source-oddity decisions
 - [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) — final whole-work bilingual alignment review
 - [`sections/01-opening-frame.md`](sections/01-opening-frame.md) — opening frame
-- [`sections/02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md) — complete internal cinematic sequence
+- [`sections/02-rayasam-venganna-sequence.md`](sections/02-rayasam-venganna-sequence.md) — complete internal cinematic sequence
 - [`sections/03-return-and-conclusion.md`](sections/03-return-and-conclusion.md) — return and conclusion
 
 ## Reader-facing navigation check — PASS
@@ -92,14 +92,14 @@ If a derived English or Tamil reading conflicts with a canonical page record, th
 
 `பலிபீடம் நோக்கி` is released as **one continuous work**.
 
-The source-printed **`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`** remains an **internal cinematic-historical sequence**. It is not released as a separate work, translation project or bibliographic identity.
+The source-printed **`ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை`** remains an **internal cinematic-historical sequence**. It is not released as a separate work, translation project or bibliographic identity.
 
 The verified structure remains:
 
 ```text
 பலிபீடம் நோக்கி
 ├── opening frame
-├── internal cinematic-historical sequence: ராயசம் வெங்கண்ணு
+├── internal cinematic-historical sequence: ராயசம் வெங்கண்ணா
 └── return to frame / conclusion
 ```
 

@@ -17,13 +17,13 @@ Final English release report: [`translations/en/RELEASE_REPORT.md`](translations
 
 **`பலிபீடம் நோக்கி` ஒரே தொடர்ச்சியான படைப்பு.**
 
-Scan 8-ல் வரும் **`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`** தனி work அல்ல. அது `பலிபீடம் நோக்கி` நூலுக்குள் திரைப்படம் போல அமைந்த internal cinematic-historical sequence.
+Scan 8-ல் வரும் **`ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை`** தனி work அல்ல. அது `பலிபீடம் நோக்கி` நூலுக்குள் திரைப்படம் போல அமைந்த internal cinematic-historical sequence.
 
 ### Narrative flow
 
 1. scans 4–7 — opening `பலிபீடம்` frame;
 2. scan 7 — internal film introduction;
-3. scans 8–29 + scan 30 opening — `ராயசம் வெங்கண்ணு` sequence through `வணக்கம்`;
+3. scans 8–29 + scan 30 opening — `ராயசம் வெங்கண்ணா` sequence through `வணக்கம்`;
 4. scan 30 — `படம் முடிந்துவிட்டது...` return to the governing argument;
 5. scans 31–33 — conclusion;
 6. scan 34 — blank/back matter.
@@ -59,7 +59,7 @@ Audit: [`audit.md`](audit.md)
 ## Assembled Tamil reading layer — COMPLETE + PASSED
 
 1. [`sections/01-opening-frame.md`](sections/01-opening-frame.md) — scans 4–7
-2. [`sections/02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md) — scans 8–29 plus scan 30 through `வணக்கம்`
+2. [`sections/02-rayasam-venganna-sequence.md`](sections/02-rayasam-venganna-sequence.md) — scans 8–29 plus scan 30 through `வணக்கம்`
 3. [`sections/03-return-and-conclusion.md`](sections/03-return-and-conclusion.md) — scan 30 from `படம் முடிந்துவிட்டது...` through scan 33
 
 ## English translation — VERIFIED + RELEASE-READY
@@ -76,7 +76,7 @@ English package:
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 - [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
 - [`translations/en/sections/01-opening-frame.md`](translations/en/sections/01-opening-frame.md)
-- [`translations/en/sections/02-rayasam-vengannu-sequence.md`](translations/en/sections/02-rayasam-vengannu-sequence.md)
+- [`translations/en/sections/02-rayasam-venganna-sequence.md`](translations/en/sections/02-rayasam-venganna-sequence.md)
 - [`translations/en/sections/03-return-and-conclusion.md`](translations/en/sections/03-return-and-conclusion.md)
 
 ### Translation / release status

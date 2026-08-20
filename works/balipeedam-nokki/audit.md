@@ -18,7 +18,7 @@ This file records the completed audit of both the canonical page-level Tamil sou
 | Blank/back scan 34 represented | yes |
 | Continuous page records | yes — scan 1 through scan 34 |
 | Single work identity maintained | yes — `balipeedam-nokki` |
-| `ராயசம் வெங்கண்ணு` kept internal, not separate work | yes |
+| `ராயசம் வெங்கண்ணா` kept internal, not separate work | yes |
 | Source PDF excluded from repository | yes |
 | Pages marked `verified` | **34** |
 | Pages marked `needs-review` | **0** |
@@ -32,14 +32,14 @@ The source is one continuous work:
 பலிபீடம் நோக்கி
 ├── scans 4–7: opening ideological / polemical frame
 ├── scan 7: explicit transition into a film-like lesson
-├── scans 8–29 + opening of scan 30: internal ராயசம் வெங்கண்ணு cinematic-historical sequence
+├── scans 8–29 + opening of scan 30: internal ராயசம் வெங்கண்ணா cinematic-historical sequence
 ├── scan 30: film end-card, then explicit “படம் முடிந்துவிட்டது...” return to the main frame
 └── scans 31–33: concluding direct address
 ```
 
 Scan 34 is blank/back matter.
 
-No separate work-level metadata, directory, translation identity or release identity has been created for `ராயசம் வெங்கண்ணு`.
+No separate work-level metadata, directory, translation identity or release identity has been created for `ராயசம் வெங்கண்ணா`.
 
 ## Targeted character-level review — resolved
 
@@ -54,6 +54,29 @@ Seven pages had previously been held at `needs-review`. Each was re-inspected ag
 - **scan 27:** `ஒரு காரணம்!` confirmed as printed
 
 These are source-based resolutions, not contextual normalization.
+
+## Correction — the internal sequence's name (post-release review)
+
+The first pass transcribed the name of the internal sequence and its central
+character as `ராயசம் வெங்கண்ணு`. Re-inspection of the controlling scan shows the
+printed final sign is the **old-style `ஆ` form**, not `ு`:
+
+- the printed title card on **scan 8** reads `ராயசம் வெங்கண்ணா`;
+- in body text the final glyph matches the certain `ணா` of `உண்ணாவிரதம்` on
+  scan 29 — the same `ண்ண` cluster, same face, same size — and does **not**
+  match the certain `ணு` of `அணுக்` on scan 5;
+- the reading was checked against the controlling PDF
+  (`TVA_BOK_0065570_பலிபீடம்_நோக்கி.pdf`, SHA-256 `c4700c90…`), not against the
+  earlier transcription, the glossary or occurrence counts, each of which
+  merely propagated the first-pass reading.
+
+All 151 occurrences across the page records, the assembled layer, the metadata,
+the indexes and the English layer are corrected to `வெங்கண்ணா`. The English form
+becomes **Venganna**, and the assembled/translated section files are renamed to
+`02-rayasam-venganna-sequence.md`.
+
+The work boundary is unchanged: `ராயசம் வெங்கண்ணா` remains an internal
+cinematic-historical sequence inside `பலிபீடம் நோக்கி`, never a separate work.
 
 ## Page metadata / manifest consistency
 
@@ -112,7 +135,7 @@ The audited `pages/` records remain the canonical preservation layer.
 ## Files
 
 - `sections/01-opening-frame.md`
-- `sections/02-rayasam-vengannu-sequence.md`
+- `sections/02-rayasam-venganna-sequence.md`
 - `sections/03-return-and-conclusion.md`
 - `sections/README.md`
 
@@ -130,7 +153,7 @@ This split is necessary because scan 30 contains both the final moments/end-card
 
 - assembled text derives only from audited `pages/` records;
 - no page record was modified to create the reading layer;
-- `ராயசம் வெங்கண்ணு` remains an internal section, never a second work;
+- `ராயசம் வெங்கண்ணா` remains an internal section, never a second work;
 - historical spelling, punctuation, dialogue, cinematic terms and source oddities are retained;
 - scan observations and physical-copy marks are excluded from the reading prose;
 - printed source ornaments are retained;

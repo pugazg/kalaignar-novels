@@ -18,7 +18,7 @@ Source PDF repository-க்குள் இல்லை; commit செய்ய
 
 **`பலிபீடம் நோக்கி` ஒரே தொடர்ச்சியான படைப்பு.**
 
-`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` தனி work அல்ல. அது நூலுக்குள் திரைப்படக் காட்சியாக அமைந்த internal cinematic-historical sequence. அதனால் assembled files அனைத்திலும் ஒரே work identity:
+`ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` தனி work அல்ல. அது நூலுக்குள் திரைப்படக் காட்சியாக அமைந்த internal cinematic-historical sequence. அதனால் assembled files அனைத்திலும் ஒரே work identity:
 
 ```text
 work: balipeedam-nokki
@@ -29,7 +29,7 @@ work: balipeedam-nokki
 | File | Source coverage | Role |
 |---|---|---|
 | `01-opening-frame.md` | scans 4–7 | `பலிபீடம்` உருவகத்தை அமைக்கும் தொடக்க frame; scan 7-ல் internal film அறிமுகம் |
-| `02-rayasam-vengannu-sequence.md` | scans 8–29 + scan 30 through the internal film end-card | source-printed `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` cinematic-historical sequence |
+| `02-rayasam-venganna-sequence.md` | scans 8–29 + scan 30 through the internal film end-card | source-printed `ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` cinematic-historical sequence |
 | `03-return-and-conclusion.md` | scan 30 from `படம் முடிந்துவிட்டது...` through scan 33 | internal film-இலிருந்து main `பலிபீடம்` argument-க்கு திரும்புதல் மற்றும் முடிவுரை |
 
 ### Why scan 30 is split across sections 2 and 3
@@ -75,7 +75,7 @@ Checks completed:
 - opening source coverage: scans 4–7 represented;
 - internal sequence: scan-8 title card through the scan-30 film end-card represented;
 - return/conclusion: `படம் முடிந்துவிட்டது...` through the scan-33 closing ornament represented;
-- no `ராயசம் வெங்கண்ணு` work-level split introduced;
+- no `ராயசம் வெங்கண்ணா` work-level split introduced;
 - all verified cross-page continuities preserved;
 - no source modernization introduced intentionally;
 - page provenance retained through comments;

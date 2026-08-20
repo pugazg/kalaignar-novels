@@ -13,7 +13,7 @@ The title is a reading translation of `பலிபீடம் நோக்க�
 The English must help a reader follow both levels of the work:
 
 1. the governing `பலிபீடம்` / sacrificial-altar argument; and
-2. the embedded `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` film-like historical sequence used inside that argument.
+2. the embedded `ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` film-like historical sequence used inside that argument.
 
 The translation must **not** turn those two levels into two separate works.
 
@@ -23,7 +23,7 @@ The translation must **not** turn those two levels into two separate works.
 
 **`பலிபீடம் நோக்கி` is one continuous work.**
 
-`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` is an internal cinematic-historical sequence, not a separate story/work for repository, translation or release purposes.
+`ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` is an internal cinematic-historical sequence, not a separate story/work for repository, translation or release purposes.
 
 Source-supported architecture:
 
@@ -34,7 +34,7 @@ Source-supported architecture:
 ├── scan 7
 │   narrator explicitly introduces a film-like lesson
 ├── scans 8–29 + opening of scan 30
-│   internal ராயசம் வெங்கண்ணு cinematic-historical sequence
+│   internal ராயசம் வெங்கண்ணா cinematic-historical sequence
 ├── scan 30
 │   film end-card, then “படம் முடிந்துவிட்டது...”
 └── scan 30 remainder–33
@@ -43,7 +43,7 @@ Source-supported architecture:
 
 The English may reproduce the internal title card prominently, but must label it as an **internal sequence of _Towards the Sacrificial Altar_**.
 
-No separate work-level metadata, directory, release title, translation identity or bibliography entry is to be created for `ராயசம் வெங்கண்ணு`.
+No separate work-level metadata, directory, release title, translation identity or bibliography entry is to be created for `ராயசம் வெங்கண்ணா`.
 
 ---
 
@@ -77,7 +77,7 @@ works/balipeedam-nokki/translations/en/
   GLOSSARY.md                   # create with the pilot batch
   sections/
     01-opening-frame.md
-    02-rayasam-vengannu-sequence.md
+    02-rayasam-venganna-sequence.md
     03-return-and-conclusion.md
   TRANSLATION_REVIEW.md         # final fidelity/editorial review
   RELEASE_REPORT.md             # create only after final verification
@@ -94,10 +94,10 @@ The middle cinematic sequence is long, so translation will proceed in controlled
 | Batch | Tamil assembled section | Source scans | English destination | Scope |
 |---|---|---:|---|---|
 | **1 — pilot** | `01-opening-frame.md` | 4–7 | `sections/01-opening-frame.md` | opening `பலிபீடம்` argument; Senguttuvan; transition into film |
-| **2** | `02-rayasam-vengannu-sequence.md` | 8–13 | `sections/02-rayasam-vengannu-sequence.md` | internal title card, Nayak court, battle, fall of Vijayaraghava |
-| **3** | same | 14–20 | same | Alagiri–Vengannu sequence; discovery of Sengamaladasan |
+| **2** | `02-rayasam-venganna-sequence.md` | 8–13 | `sections/02-rayasam-venganna-sequence.md` | internal title card, Nayak court, battle, fall of Vijayaraghava |
+| **3** | same | 14–20 | same | Alagiri–Venganna sequence; discovery of Sengamaladasan |
 | **4** | same | 21–26 | same | Bijapur / Venkoji intervention; restoration; ministership conflict |
-| **5** | same | 27–30 through the `வணக்கம்` film end-card | same | final Vengannu–Venkoji movement, fall of Sengamaladasan, film ending |
+| **5** | same | 27–30 through the `வணக்கம்` film end-card | same | final Venganna–Venkoji movement, fall of Sengamaladasan, film ending |
 | **6** | `03-return-and-conclusion.md` | scan 30 beginning `படம் முடிந்துவிட்டது...` through 33 | `sections/03-return-and-conclusion.md` | return to governing argument and final polemical conclusion |
 
 ### Scan 30 rule
@@ -148,7 +148,7 @@ The resulting choices are then frozen in `GLOSSARY.md` / the translation convent
 
 Each final English section should carry a short standard note near the beginning:
 
-> **Translator's note:** This English translation follows the audited first-edition Tamil source preserved in this repository. It aims to carry Kalaignar's argument, rhetoric, dialogue, historical-cinematic form and political intensity into clear English without modernising or silently correcting the Tamil. The audited Tamil page records remain authoritative. `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` is retained as an internal film-like sequence of `பலிபீடம் நோக்கி`, not treated as a separate work.
+> **Translator's note:** This English translation follows the audited first-edition Tamil source preserved in this repository. It aims to carry Kalaignar's argument, rhetoric, dialogue, historical-cinematic form and political intensity into clear English without modernising or silently correcting the Tamil. The audited Tamil page records remain authoritative. `ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` is retained as an internal film-like sequence of `பலிபீடம் நோக்கி`, not treated as a separate work.
 
 Section-specific notes may follow only where necessary.
 
@@ -171,7 +171,7 @@ Where a person's historically standardized English name is clear from the source
 | `மன்னரு நாயக்கன்` | **Mannaru Nayak** | conservative transliteration |
 | `குமார தாத்தாச்சார்யா` | **Kumar Tatacharya** | conservative readable form |
 | `சொக்கநாத நாயக்கன்` | **Sokkanatha Nayak** | conservative transliteration |
-| `வெங்கண்ணு` | **Vengannu** | preserve the source's internal-title spelling; do not silently change to Venganna |
+| `வெங்கண்ணா` | **Venganna** | preserve the source's internal-title spelling; do not silently change to Venganna |
 | `செங்கமலதாசன்` | **Sengamaladasan** | conservative transliteration |
 | `வெங்காஜி` | **Venkoji** | stable readable form; source form remains traceable |
 | `ஷாஜி` | **Shahji** | stable English historical form |

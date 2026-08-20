@@ -2,7 +2,7 @@
 scan_page: 16
 printed_page: 15
 work: "balipeedam-nokki"
-section: "ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை"
+section: "ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை"
 page_type: "body"
 status: "verified"
 language: "ta"
@@ -10,7 +10,7 @@ source_filename: "TVA_BOK_0065570_பலிபீடம்_நோக்கி
 transcription_method: "direct visual comparison with source scan"
 ---
 
-‘அகில உலகம் அதைத் தவறும் வெங்கண்ணு விஷயத்தில் அழகிரி தவறமாட்டான்.’
+‘அகில உலகம் அதைத் தவறும் வெங்கண்ணா விஷயத்தில் அழகிரி தவறமாட்டான்.’
 
 ‘சரி .. எனக்கு வேண்டிய சன்மானத்தைக் கேட்கலாமா?’
 
