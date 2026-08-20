@@ -2,7 +2,7 @@
 scan_page: 8
 printed_page: null
 work: "balipeedam-nokki"
-section: "ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை"
+section: "ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை"
 page_type: "body"
 status: "verified"
 language: "ta"
@@ -10,7 +10,7 @@ source_filename: "TVA_BOK_0065570_பலிபீடம்_நோக்கி
 transcription_method: "direct visual comparison with enlarged source scan"
 ---
 
-# ராயசம் வெங்கண்ணு
+# ராயசம் வெங்கண்ணா
 
 ## தஞ்சை சரித்திரக் கதை
 

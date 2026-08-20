@@ -2,20 +2,20 @@
 work: "balipeedam-nokki"
 layer: "english-translation"
 section_order: 2
-section_title: "Towards the Sacrificial Altar — Internal Rayasam Vengannu Sequence"
+section_title: "Towards the Sacrificial Altar — Internal Rayasam Venganna Sequence"
 language: "en"
 source_scans: "8-30 through internal film end-card (Batches 2-5)"
 status: "reviewed"
 derived_from: "audited Tamil pages/0008-0030 and verified assembled Tamil section"
 ---
 
-# Rayasam Vengannu
+# Rayasam Venganna
 
 ## A Historical Tale of Thanjavur
 
 > **Internal sequence of _Towards the Sacrificial Altar_.** This is the film-like historical sequence introduced by the narrator on scan 7; it is not a separate work.
 
-> **Translator's note:** This English translation follows the audited first-edition Tamil source preserved in this repository. It aims to carry Kalaignar's argument, rhetoric, dialogue, historical-cinematic form and political intensity into clear English without modernising or silently correcting the Tamil. The audited Tamil page records remain authoritative. `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` is retained as an internal film-like sequence of `பலிபீடம் நோக்கி`, not treated as a separate work.
+> **Translator's note:** This English translation follows the audited first-edition Tamil source preserved in this repository. It aims to carry Kalaignar's argument, rhetoric, dialogue, historical-cinematic form and political intensity into clear English without modernising or silently correcting the Tamil. The audited Tamil page records remain authoritative. `ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` is retained as an internal film-like sequence of `பலிபீடம் நோக்கி`, not treated as a separate work.
 
 **Current translated coverage:** scans 8–30 through the internal film's `வணக்கம்` end-card  
 **Canonical Tamil:** [`../../pages/0008-balipeedam-nokki-05.md`](../../pages/0008-balipeedam-nokki-05.md) through [`../../pages/0030-balipeedam-nokki-27.md`](../../pages/0030-balipeedam-nokki-27.md), stopping within scan 30 before `படம் முடிந்துவிட்டது...`
@@ -154,19 +154,19 @@ She runs... runs... keeps on running. The scene goes dark.
 
 Again, letters race onto the screen and come to a stop. They read........
 
-The king of Madurai, having brought Thanjavur under his control, sent his younger brother Alagiri to Thanjavur as his representative. Alagiri, who came as the royal representative, developed a desire to seize the rule for himself. The one who stirred that desire was the Vedic priest Vengannu. Vengannu advised him that if tribute were not paid to Madurai, Thanjavur could be brought under their own control, and Alagiri acted accordingly. Madurai too, with its greed already astir, remains careless. At the same time, as fortune upon fortune, a treasure is discovered in the palace. That treasure itself brings Alagiri's rule to an end.
+The king of Madurai, having brought Thanjavur under his control, sent his younger brother Alagiri to Thanjavur as his representative. Alagiri, who came as the royal representative, developed a desire to seize the rule for himself. The one who stirred that desire was the Vedic priest Venganna. Venganna advised him that if tribute were not paid to Madurai, Thanjavur could be brought under their own control, and Alagiri acted accordingly. Madurai too, with its greed already astir, remains careless. At the same time, as fortune upon fortune, a treasure is discovered in the palace. That treasure itself brings Alagiri's rule to an end.
 
 The letters disappear. In the next scene we see a private place in the Thanjavur palace. The ruler and the Vedic priest are seated on seats of equal rank. Smiling, the priest begins the conversation.
 
 “If tribute had been paid this time, we would have had to remain Sokkanathan's slaves. How is my statecraft?”
 
-“Vengannu's word is the word of the Veda. Suppose... Madurai suddenly springs upon us?”
+“Venganna's word is the word of the Veda. Suppose... Madurai suddenly springs upon us?”
 
 “The tiger is *kilathirukkirathu*. It will not leave its cave for a little while. By then we can strengthen the ranks of our army.”
 
 <!-- source: scan 14; printed page: 13 -->
 
-“Ah... Vengannu's brain—what a brain!... Ideas of every kind sprout at great speed.”
+“Ah... Venganna's brain—what a brain!... Ideas of every kind sprout at great speed.”
 
 “Otherwise, would the Rayasam profession that we have practised generation after generation survive? Even the fallen Vijayaraghava never fails to give my brain work. Not only I—the Brahmin lineage itself has greater experience in knowledge and in politics.”
 
@@ -178,17 +178,17 @@ The letters disappear. In the next scene we see a private place in the Thanjavur
 
 “If an ordinary royal representative is to be made an imperial king, how rare and great the counsel must be!”
 
-“Counsel alone?... You have such concern for Alagiri's welfare. Vengannu!... You must accept my thanks for your help.”
+“Counsel alone?... You have such concern for Alagiri's welfare. Venganna!... You must accept my thanks for your help.”
 
 “Only by mouth... only in words—is that all?”
 
-“Vengannu! Ask what you want. You may receive a reward.”
+“Venganna! Ask what you want. You may receive a reward.”
 
 “A king will not break his word, will he?”
 
 <!-- source: scan 15; printed page: 14 -->
 
-“Even if the whole world fails in that, Alagiri will not fail where Vengannu is concerned.”
+“Even if the whole world fails in that, Alagiri will not fail where Venganna is concerned.”
 
 “Very well... may I ask for the reward I want?”
 
@@ -226,15 +226,15 @@ The letters disappear. In the next scene we see a private place in the Thanjavur
 
 “If you give me that, it is enough.”
 
-Having said this, Vengannu looks eagerly at Alagiri's mouth. Alagiri begins to speak. Anger bubbles in his speech. He cannot suppress it. How could he?
+Having said this, Venganna looks eagerly at Alagiri's mouth. Alagiri begins to speak. Anger bubbles in his speech. He cannot suppress it. How could he?
 
 “Brahmin! You are becoming greedy. The treasure is for the welfare of the people! I cannot give it.”
 
-Even Vengannu finds courage. He speaks explosively.
+Even Venganna finds courage. He speaks explosively.
 
 “Alagiri!... Arrogance has gone to your head. Do not smother reason in the intoxication of power. I made you king. I made Madurai's slave into a king. Now he speaks with conceit. Besh!”
 
-“Vengannu!... Do not set off empty shots. Let there be restraint in your words.”
+“Venganna!... Do not set off empty shots. Let there be restraint in your words.”
 
 “Ungrateful man! You have not understood Aryanism properly. It is fire. Do not come near—”
 
@@ -242,23 +242,23 @@ Even Vengannu finds courage. He speaks explosively.
 
 “Do not provoke anger. The prison will be opened.”
 
-“Alagiri! Here, I have calculated your horoscope. Your rule is going to perish in a short life. Vengannu is an earthquake. Caught in it, you are going to die.”
+“Alagiri! Here, I have calculated your horoscope. Your rule is going to perish in a short life. Venganna is an earthquake. Caught in it, you are going to die.”
 
-Vengannu turns in fury. Alagiri, who had stood motionless, laughs “kada-kada.” Following the sound of that laughter, a picture is shown.
+Venganna turns in fury. Alagiri, who had stood motionless, laughs “kada-kada.” Following the sound of that laughter, a picture is shown.
 
-It is a picture of Cheran Senguttuvan standing with his head bowed before Matalavaraiyan. Vengannu stares at it. A terrifying flash blazes across the screen. The scene changes. White sand on a seashore. Great waves kiss it and roll back. Long streets. Dutchmen and Portuguese walk along the streets. In this way many places keep running through the scene. A bazaar street is shown. One signboard in particular:
+It is a picture of Cheran Senguttuvan standing with his head bowed before Matalavaraiyan. Venganna stares at it. A terrifying flash blazes across the screen. The scene changes. White sand on a seashore. Great waves kiss it and roll back. Long streets. Dutchmen and Portuguese walk along the streets. In this way many places keep running through the scene. A bazaar street is shown. One signboard in particular:
 
 “Fine reds for sale  
 Nallavenna Chetti Shop  
 Nagai.”
 
-The scene rolls again, and at last a street corner appears. A beautiful house. Vengannu enters it. The outside of the house disappears. Inside.... Vengannu is speaking with a woman.
+The scene rolls again, and at last a street corner appears. A beautiful house. Venganna enters it. The outside of the house disappears. Inside.... Venganna is speaking with a woman.
 
 <!-- source: scan 18; printed page: 17 -->
 
 “All I knew earlier was that Sengamaladasan was being raised by a Chetti woman! I did not know that the lady was you... God himself has shown you to me.”
 
-Before Vengannu finishes speaking, the Chetti woman's husband and a young man enter. Vengannu runs eagerly to the youth, embraces him and weeps. His face reveals that his weeping is mere pretence. Vengannu lets fall words of sorrow.
+Before Venganna finishes speaking, the Chetti woman's husband and a young man enter. Venganna runs eagerly to the youth, embraces him and weeps. His face reveals that his weeping is mere pretence. Venganna lets fall words of sorrow.
 
 “Prince!... my dear!... You are alive—that is enough, son!... Your father became prey to the spear. Your mother became prey to fire. Your Thanjavur land... has become prey to the *thegidu thaththakkar*. At least now, come—to make the country prosper, to bring welfare to the people, and to rule the golden realm you lost!...”
 
@@ -280,7 +280,7 @@ The prince asks sorrowfully. Anger too is mixed in it—like mute sunlight!
 
 “This servant has set out to win back your country for you. Sengamaladasa!...... Come with me.”
 
-Vengannu calls him. Sengamalam bows to his foster parents. A smile curls at the edge of the foster father's lips.
+Venganna calls him. Sengamalam bows to his foster parents. A smile curls at the edge of the foster father's lips.
 
 “O great Brahmin!...... If a kingdom is to be seized, a vast army of men, chariots and horses—everything is needed. Do not needlessly sacrifice the young Sengamalam.”
 
@@ -308,11 +308,11 @@ The father pleads as he sounds his warning.
 
 ## Batch 4 — Continuation
 
-With Vengannu's victorious smile, the scene suddenly turns.
+With Venganna's victorious smile, the scene suddenly turns.
 
 A crescent flag is flying. A tall stupa upon which the flag has been planted! Following it, parts of the fort move past in rapid succession. A voice is heard.
 
-It is Vengannu speaking.
+It is Venganna speaking.
 
 “Bijapur Sultan. Lord!... Listen further. The people are dying of hunger. They are wasting away in poverty. If Alagiri's rule is destroyed, injustice will be destroyed. Injustice will be swept away. Brahmins will live. The rule will prosper.
 
@@ -344,9 +344,9 @@ At once a terrifying forest appears. A figure on the high mountain rocks. It is 
 
 <!-- source: scan 22; printed page: 21 -->
 
-“Sinner... Vengannu!” his mouth mutters. He rolls down from the rock. There is no speech, no breath.
+“Sinner... Venganna!” his mouth mutters. He rolls down from the rock. There is no speech, no breath.
 
-“Dong! Dong!” bells begin to ring. Having worshipped the great Nandi of the Thanjavur Pragadeeswarar Temple, Vengannu and Sengamaladasan, hands joined, enter the shrine of Pragadeeswarar. The victory cries are deafening. “Worship for the Lord” erupts into commotion.
+“Dong! Dong!” bells begin to ring. Having worshipped the great Nandi of the Thanjavur Pragadeeswarar Temple, Venganna and Sengamaladasan, hands joined, enter the shrine of Pragadeeswarar. The victory cries are deafening. “Worship for the Lord” erupts into commotion.
 
 The pitch of the bells has fallen... We see the palace audience hall.
 
@@ -356,7 +356,7 @@ Sengamaladasan speaks: “For bringing about a revival in Thanjavur and placing 
 
 Long live Thanjavur!
 
-Venkoji receives the gift. Ecstasy shines across Vengannu's face.
+Venkoji receives the gift. Ecstasy shines across Venganna's face.
 
 Two swords clash on the screen. In that flash, the next scene begins. A flower garden! Water tanks!...
 
@@ -364,9 +364,9 @@ Two swords clash on the screen. In that flash, the next scene begins. A flower g
 
 Flowering plants!... A marble platform!... What we see are not lovers!......
 
-Sengamaladasan and Vengannu are caught in conversation.
+Sengamaladasan and Venganna are caught in conversation.
 
-“Vengannu! Another piece of happy news.”
+“Venganna! Another piece of happy news.”
 
 “What is it, Your Majesty?”
 
@@ -388,9 +388,9 @@ Sengamaladasan and Vengannu are caught in conversation.
 
 “I intend to make father himself the minister.”
 
-“Ah!... Sacrilege. A ministerial post for the merchant Chetti who raised you!... Then what of Vengannu, who placed the crown upon you?”
+“Ah!... Sacrilege. A ministerial post for the merchant Chetti who raised you!... Then what of Venganna, who placed the crown upon you?”
 
-“Vengannu!... You are my guru!”
+“Venganna!... You are my guru!”
 
 <!-- source: scan 24; printed page: 23 -->
 
@@ -420,11 +420,11 @@ Sengamaladasan and Vengannu are caught in conversation.
 
 “The minister's post is for father alone! It cannot be changed. Please forgive me.”
 
-The king of Thanjavur bows. *Tharppakurar* Vengannu pours out angry words in a rattling torrent.
+The king of Thanjavur bows. *Tharppakurar* Venganna pours out angry words in a rattling torrent.
 
 “Hey! You have not understood Aryanism. You are smearing poison upon your tongue. Be ready to face the calamity. You are following in Alagiri's footsteps. Danger is about to explode. From now on, the Lord will not tolerate it.”
 
-Vengannu strides swiftly out of the flower garden. A jasmine bud struck by his rush... breaks in the air and falls to the ground before our eyes. Sengamaladasan walks sadly. With this too carried by background music... the Mahamaham Tank of Kumbakonam comes into view.
+Venganna strides swiftly out of the flower garden. A jasmine bud struck by his rush... breaks in the air and falls to the ground before our eyes. Sengamaladasan walks sadly. With this too carried by background music... the Mahamaham Tank of Kumbakonam comes into view.
 
 Through the camera's magic, beautiful parts of Kudanthai are caught and move past. Two men walk along the street talking.
 
@@ -458,7 +458,7 @@ We can see the two men only as far as the street corner. Then, in the scene, **a
 
 Venkoji is pacing along the veranda of his mansion. Furrows of thought pile one upon another across his forehead. The man who seemed to possess the world stops walking and opens his mouth.
 
-“Fine story,” he says with sarcasm. Until now we have seen only Venkoji; now we see Vengannu as well. Rubbing his sacred thread, the priest steps towards Venkoji.
+“Fine story,” he says with sarcasm. Until now we have seen only Venkoji; now we see Venganna as well. Rubbing his sacred thread, the priest steps towards Venkoji.
 
 “O ruler of the Maratha clan! The throne of Thanjavur calls you.”
 
@@ -500,7 +500,7 @@ Venkoji is pacing along the veranda of his mansion. Furrows of thought pile one 
 
 “Your Majesty!... During your reign .????”
 
-Vengannu draws the matter out and turns it aside.
+Venganna draws the matter out and turns it aside.
 
 “Brahmins will live. The temple will prosper. The agraharam will flourish. Do not fear.”
 
@@ -508,13 +508,13 @@ Vengannu draws the matter out and turns it aside.
 
 <!-- source: scan 28; printed page: 27 -->
 
-The conversation ends here... Thanjavur is in total turmoil. Crowds of warriors in every street. A horrifying sight—children trampled to death beneath horses' hooves! The Maratha army is about to enter the fort gate. The dreadful noise changes; silence prevails. Sengamaladasan stands utterly alone. The enemies have entered the fort. The cannons that guarded the fort gate observe a vow of silence... as though a new demon too were observing a hunger strike. There is no one to ask why. The enemy army's trumpet pours out the note of victory. The Nayak flag that had flown over the fort front... is burning. Through those waves of flame, Vengannu's arrogant laughter also rings out.
+The conversation ends here... Thanjavur is in total turmoil. Crowds of warriors in every street. A horrifying sight—children trampled to death beneath horses' hooves! The Maratha army is about to enter the fort gate. The dreadful noise changes; silence prevails. Sengamaladasan stands utterly alone. The enemies have entered the fort. The cannons that guarded the fort gate observe a vow of silence... as though a new demon too were observing a hunger strike. There is no one to ask why. The enemy army's trumpet pours out the note of victory. The Nayak flag that had flown over the fort front... is burning. Through those waves of flame, Venganna's arrogant laughter also rings out.
 
-We see Sengamaladasan again. Where? In the palace?... No. We see him on a dark forest path. In that unfathomable darkness, that tender shoot of a boy gazes upon the fort-gate flag blazing in flame. He cries “Go!” aloud. Drowning that cry, a thousand heads laugh there. Every one of them is Vengannu's head!
+We see Sengamaladasan again. Where? In the palace?... No. We see him on a dark forest path. In that unfathomable darkness, that tender shoot of a boy gazes upon the fort-gate flag blazing in flame. He cries “Go!” aloud. Drowning that cry, a thousand heads laugh there. Every one of them is Venganna's head!
 
 Only laughter?... They speak.
 
-“Hey!... boy!... When the Vengannu line wills it, it will bind on the crown—and it will show the sacrificial altar too.”
+“Hey!... boy!... When the Venganna line wills it, it will bind on the crown—and it will show the sacrificial altar too.”
 
 Again, one great arrogant laugh!...
 
@@ -525,11 +525,11 @@ Sengamaladasan runs like a madman. Yes!... the king of Thanjavur staggers like t
 
 —staggers... reels like a drunkard. He groans like a poor labourer beaten until his skin is torn by a master's brutal whip.
 
-A tree stops his swaying and gives him peace. With blood running all over his face, the ruler of Thanjavur lies down upon the ground as a corpse. That was the sacrificial altar Vengannu had built for that *pasalu*!...
+A tree stops his swaying and gives him peace. With blood running all over his face, the ruler of Thanjavur lies down upon the ground as a corpse. That was the sacrificial altar Venganna had built for that *pasalu*!...
 
-Vengannu's laughter ceases. The darkness clears...
+Venganna's laughter ceases. The darkness clears...
 
-The words **“Rise of the Maratha Empire”** themselves form a frame, and the sun of time rises. To mark the end of the picture, the word **“Vanakkam”** leaps onto the screen. Above it, inside a circle, Vedic priest Vengannu places a garland around Venkoji.
+The words **“Rise of the Maratha Empire”** themselves form a frame, and the sun of time rises. To mark the end of the picture, the word **“Vanakkam”** leaps onto the screen. Above it, inside a circle, Vedic priest Venganna places a garland around Venkoji.
 
 <!-- source: scan 30; printed page: 29; Batch 5 stops at the internal film's `வணக்கம்` end-card -->
 <!-- IMPORTANT: `படம் முடிந்துவிட்டது...` on the same scan belongs to Batch 6 / section 3 and is intentionally not translated here. -->
@@ -551,4 +551,4 @@ The words **“Rise of the Maratha Empire”** themselves form a frame, and the 
 
 **Scans 8–30 through `வணக்கம்`: REVIEWED.**
 
-The internal `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` cinematic sequence is now fully translated. Batch 6 must begin in a new English section file at the same scan's next sentence: `படம் முடிந்துவிட்டது...`.
+The internal `ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` cinematic sequence is now fully translated. Batch 6 must begin in a new English section file at the same scan's next sentence: `படம் முடிந்துவிட்டது...`.

@@ -2,7 +2,7 @@
 scan_page: 9
 printed_page: 8
 work: "balipeedam-nokki"
-section: "ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை"
+section: "ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை"
 page_type: "body"
 status: "verified"
 language: "ta"

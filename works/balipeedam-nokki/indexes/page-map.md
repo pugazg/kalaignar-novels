@@ -2,7 +2,7 @@
 
 Source: `TVA_BOK_0065570_பலிபீடம்_நோக்கி.pdf`
 
-> **Work-level rule:** scans 4–33 are one continuous work, `பலிபீடம் நோக்கி`. The `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` heading on scan 8 marks an embedded cinematic-historical sequence inside the novel, not a separate work.
+> **Work-level rule:** scans 4–33 are one continuous work, `பலிபீடம் நோக்கி`. The `ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` heading on scan 8 marks an embedded cinematic-historical sequence inside the novel, not a separate work.
 
 | Scan | Printed page | Page type / section | Status | File |
 |---:|:---:|---|---|---|
@@ -13,8 +13,8 @@ Source: `TVA_BOK_0065570_பலிபீடம்_நோக்கி.pdf`
 | 5 | 4 | `பலிபீடம் நோக்கி` | verified | `pages/0005-balipeedam-nokki-02.md` |
 | 6 | 5 | `பலிபீடம் நோக்கி` | verified | `pages/0006-balipeedam-nokki-03.md` |
 | 7 | 6 | transition into film-like historical illustration | verified | `pages/0007-balipeedam-nokki-04.md` |
-| 8 | — | internal title card: `ராயசம் வெங்கண்ணு / தஞ்சை சரித்திரக் கதை` | verified | `pages/0008-balipeedam-nokki-05.md` |
-| 9 | 8 | embedded `ராயசம் வெங்கண்ணு` sequence | verified | `pages/0009-balipeedam-nokki-06.md` |
+| 8 | — | internal title card: `ராயசம் வெங்கண்ணா / தஞ்சை சரித்திரக் கதை` | verified | `pages/0008-balipeedam-nokki-05.md` |
+| 9 | 8 | embedded `ராயசம் வெங்கண்ணா` sequence | verified | `pages/0009-balipeedam-nokki-06.md` |
 | 10 | 9 | embedded sequence | verified | `pages/0010-balipeedam-nokki-07.md` |
 | 11 | 10 | embedded sequence | verified | `pages/0011-balipeedam-nokki-08.md` |
 | 12 | 11 | embedded sequence | verified | `pages/0012-balipeedam-nokki-09.md` |
@@ -56,12 +56,12 @@ Full-source review establishes one continuous architecture:
 
 1. **Scans 4–7:** opening polemical frame around the `பலிபீடம்` metaphor.
 2. **Scan 7:** narrator explicitly introduces Venganna as a film-like lesson.
-3. **Scans 8–29:** embedded cinematic-historical dramatization headed `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`.
+3. **Scans 8–29:** embedded cinematic-historical dramatization headed `ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை`.
 4. **Scan 30:** `படம் முடிந்துவிட்டது. பாடம் கற்றுக்கொண்டீர்களா? பலிபீடம் நோக்க...` — explicit return from the internal film to the main argument.
 5. **Scans 31–33:** concluding direct address and close of the same `பலிபீடம் நோக்கி` work.
 6. **Scan 34:** blank/back matter.
 
-Every body page therefore uses the single work identity `balipeedam-nokki`; `ராயசம் வெங்கண்ணு` remains only an internal section label.
+Every body page therefore uses the single work identity `balipeedam-nokki`; `ராயசம் வெங்கண்ணா` remains only an internal section label.
 
 ## Targeted character-level review — complete
 

@@ -44,7 +44,7 @@ This glossary records translation choices locked through Batch 6 review. It is a
 | `சேரன் செங்குட்டுவன்` | **Cheran Senguttuvan** | stable throughout |
 | `கனக விசயர்` | **Kanaka Vijayar** | source-facing name |
 | `மாடலவறையவன் / மாடலவறையன்` | **Matalavaraiyan** | one readable English form; Tamil variation stays canonical |
-| `வெங்கண்ணு` | **Vengannu** | mandatory; do not change to Venganna |
+| `வெங்கண்ணா` | **Venganna** | mandatory; the printed final sign is the old-style `ஆ` form — do not read or render it as `வெங்கண்ணு` / Vengannu |
 | `ஆரியவர்த்தம்` | **Aryavarta** | source-appropriate transliteration |
 | `வைகுண்டம்` | **Vaikuntha** | retain cultural/religious name |
 | `விசயராகவன் / விசயராகவ` | **Vijayaraghava** | one English form; source variation remains in Tamil |
@@ -119,7 +119,7 @@ Do not alter the canonical Tamil or present a reconstructed lexical value as cer
 
 ### `மன்னனுக்கினேன்`
 
-The source prints the compressed form in Vengannu's angry speech. English renders the immediate contextual sense as **“I made Madurai's slave into a king”** while preserving the exact Tamil in the source layer.
+The source prints the compressed form in Venganna's angry speech. English renders the immediate contextual sense as **“I made Madurai's slave into a king”** while preserving the exact Tamil in the source layer.
 
 ### `வெத்துவேட்டுக்கள்`
 
@@ -153,7 +153,7 @@ Character-level review confirms the scan-21 form. English uses **“in rapid suc
 
 ### `என்றுன் பேதை!`
 
-The source prints this unusual form in Vengannu's speech about Bijapur. English uses the immediate contextual reading **“The fool says Bijapur is but a speck of dust to him!”** without rewriting the canonical Tamil to a grammatically expected form.
+The source prints this unusual form in Venganna's speech about Bijapur. English uses the immediate contextual reading **“The fool says Bijapur is but a speck of dust to him!”** without rewriting the canonical Tamil to a grammatically expected form.
 
 ### `களேபாரப்படுகிறது`
 
@@ -165,7 +165,7 @@ The scan-25 source asks the crown who `மன்னுக்கியது` him
 
 ### `தர்ப்பாகூரர்`
 
-Character-level review confirms this form on scan 26 before `வெங்கண்ணு`. English retains **_Tharppakurar_ Vengannu** rather than inventing an expanded title, caste term or etymology.
+Character-level review confirms this form on scan 26 before `வெங்கண்ணா`. English retains **_Tharppakurar_ Venganna** rather than inventing an expanded title, caste term or etymology.
 
 ### `விபரீதத்தை ஏற்கத்`
 
@@ -173,7 +173,7 @@ English uses **“be ready to face the calamity”**. The translation must retai
 
 ### `தீவணங்குகிறான்`
 
-The source prints this form immediately before the `தர்ப்பாகூரர் வெங்கண்ணு` sentence. English conservatively uses **“The king of Thanjavur bows.”** Do not silently reconstruct a different Tamil verb.
+The source prints this form immediately before the `தர்ப்பாகூரர் வெங்கண்ணா` sentence. English conservatively uses **“The king of Thanjavur bows.”** Do not silently reconstruct a different Tamil verb.
 
 ### `காற்று முறிந்து`
 
@@ -195,7 +195,7 @@ The lexical force is not secure from the source alone. English retains **_Pulikk
 
 ### `வானவாணினம்`
 
-The scan-28 form is unusual and not safely expandable. English retains **_vanavaninam_** in Vengannu's acclamation.
+The scan-28 form is unusual and not safely expandable. English retains **_vanavaninam_** in Venganna's acclamation.
 
 ### `.????`
 
@@ -211,7 +211,7 @@ English keeps the parallel structure as **“it will bind on the crown—and it 
 
 ### `பசலுக்கு`
 
-Scan 30 prints this unusual form in `அந்தப் பசலுக்கு வெங்கண்ணு அமைத்துத் தந்த பலிபீடம்`. English retains **_pasalu_** rather than assigning an unsupported gloss.
+Scan 30 prints this unusual form in `அந்தப் பசலுக்கு வெங்கண்ணா அமைத்துத் தந்த பலிபீடம்`. English retains **_pasalu_** rather than assigning an unsupported gloss.
 
 ### scan 29→30 `அப்படித்` + `தத்தளிக்கிறான்`
 
@@ -241,7 +241,7 @@ The closing verse visibly repeats `வாள்`. English preserves the repeated
 
 ## Cinematic vocabulary and form
 
-The internal `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` title card is always an **internal sequence** of the one work.
+The internal `ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` title card is always an **internal sequence** of the one work.
 
 Locked handling:
 

@@ -81,7 +81,7 @@ First inspect the surrounding narrative.
 
 An embedded story, historical episode, film-like sequence, play, dream, letter, speech or quotation may be an internal section of the main work.
 
-The completed `பலிபீடம் நோக்கி` project is the reference example: `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` was correctly retained as an internal cinematic sequence, not promoted to a separate work.
+The completed `பலிபீடம் நோக்கி` project is the reference example: `ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` was correctly retained as an internal cinematic sequence, not promoted to a separate work.
 
 Decide the new source's structure from the new source itself.
 

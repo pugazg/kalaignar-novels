@@ -13,7 +13,7 @@ Final release report: [`RELEASE_REPORT.md`](RELEASE_REPORT.md)
 ## Start reading
 
 1. [`sections/01-opening-frame.md`](sections/01-opening-frame.md) — opening `பலிபீடம்` frame, scans 4–7.
-2. [`sections/02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md) — internal cinematic-historical sequence, scans 8–30 through `வணக்கம்`.
+2. [`sections/02-rayasam-venganna-sequence.md`](sections/02-rayasam-venganna-sequence.md) — internal cinematic-historical sequence, scans 8–30 through `வணக்கம்`.
 3. [`sections/03-return-and-conclusion.md`](sections/03-return-and-conclusion.md) — narrator's return and conclusion, scan 30 from `படம் முடிந்துவிட்டது...` through scan 33.
 
 The scan-30 split follows the source's own narrative boundary. The `வணக்கம்` end-card appears only in section 2; section 3 begins only after the film has ended.
@@ -31,7 +31,7 @@ If an English rendering conflicts with a canonical Tamil page record, the Tamil 
 
 **`பலிபீடம் நோக்கி` is one continuous work.**
 
-The source-printed **`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`** is an internal cinematic-historical sequence inside the work. It is not a separate story, translation project or release identity.
+The source-printed **`ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை`** is an internal cinematic-historical sequence inside the work. It is not a separate story, translation project or release identity.
 
 Working English title: **_Towards the Sacrificial Altar_**.
 
@@ -43,7 +43,7 @@ Working English title: **_Towards the Sacrificial Altar_**.
 - [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) — final bilingual alignment
 - [`RELEASE_REPORT.md`](RELEASE_REPORT.md) — release inventory, navigation QA and publication/reuse notes
 - [`sections/01-opening-frame.md`](sections/01-opening-frame.md)
-- [`sections/02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md)
+- [`sections/02-rayasam-venganna-sequence.md`](sections/02-rayasam-venganna-sequence.md)
 - [`sections/03-return-and-conclusion.md`](sections/03-return-and-conclusion.md)
 
 ## Verification meaning

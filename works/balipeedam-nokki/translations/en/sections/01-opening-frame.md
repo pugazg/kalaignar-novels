@@ -11,7 +11,7 @@ derived_from: "audited Tamil pages/ records and verified sections/01-opening-fra
 
 # Towards the Sacrificial Altar
 
-> **Translator's note:** This English translation follows the audited first-edition Tamil source preserved in this repository. It aims to carry Kalaignar's argument, rhetoric, dialogue, historical-cinematic form and political intensity into clear English without modernising or silently correcting the Tamil. The audited Tamil page records remain authoritative. `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` is retained as an internal film-like sequence of `பலிபீடம் நோக்கி`, not treated as a separate work.
+> **Translator's note:** This English translation follows the audited first-edition Tamil source preserved in this repository. It aims to carry Kalaignar's argument, rhetoric, dialogue, historical-cinematic form and political intensity into clear English without modernising or silently correcting the Tamil. The audited Tamil page records remain authoritative. `ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` is retained as an internal film-like sequence of `பலிபீடம் நோக்கி`, not treated as a separate work.
 
 **Source:** scans 4–7  
 **Canonical Tamil:** [`../../pages/0004-balipeedam-nokki-01.md`](../../pages/0004-balipeedam-nokki-01.md) through [`../../pages/0007-balipeedam-nokki-04.md`](../../pages/0007-balipeedam-nokki-04.md)
@@ -62,7 +62,7 @@ These flocks of sheep too set out in the direction the Chera had gone. They marc
 
 Not to fall and perish!... Come to live, you who are bound for the sacrificial altar!... Here is one from the line of Matalavaraiyan!...
 
-Vedic priest Vengannu! He has taken shape as a motion picture... The screening begins—watch. Let the picture teach you a lesson.
+Vedic priest Venganna! He has taken shape as a motion picture... The screening begins—watch. Let the picture teach you a lesson.
 
 On the screen a volcano rumbles. “Gubir! Gubir!”—it flings out molten fire. Bathed in that ablution of flame, temple towers collapse, monastery walls crumble, landlords' granaries fall—endless... endless! A terrifying background score: “kada-kadaa... kudu-kudu...” — a dreadful roar.
 

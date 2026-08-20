@@ -108,7 +108,7 @@ Reference release report:
 
 The source heading:
 
-`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`
+`ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை`
 
 was initially capable of being mistaken for a separate work, but source flow showed it to be an **internal cinematic-historical sequence** introduced and later exited by the narrator.
 

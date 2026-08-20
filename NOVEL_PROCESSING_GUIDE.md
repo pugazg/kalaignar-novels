@@ -240,7 +240,7 @@ Particularly difficult words:
 
 If the source clearly frames the unit as an embedded story, play, film, dream, letter, speech, quotation or historical episode, preserve it as an **internal section of the main work** unless source evidence establishes a distinct bibliographic work.
 
-`பலிபீடம் நோக்கி`-யில் `ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` internal cinematic sequence என்று தீர்மானிக்கப்பட்டது — இது structural reasoning-க்கு reference example மட்டுமே.
+`பலிபீடம் நோக்கி`-யில் `ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` internal cinematic sequence என்று தீர்மானிக்கப்பட்டது — இது structural reasoning-க்கு reference example மட்டுமே.
 
 ---
 

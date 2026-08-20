@@ -5,7 +5,7 @@
 | Batch | Source | Destination | Batch status |
 |---|---|---|---|
 | 1 — pilot | scans 4–7 | `sections/01-opening-frame.md` | **reviewed** |
-| 2 | scans 8–13 | `sections/02-rayasam-vengannu-sequence.md` | **reviewed** |
+| 2 | scans 8–13 | `sections/02-rayasam-venganna-sequence.md` | **reviewed** |
 | 3 | scans 14–20 | same | **reviewed** |
 | 4 | scans 21–26 | same | **reviewed** |
 | 5 | scans 27–30 through `வணக்கம்` end-card | same | **reviewed** |
@@ -19,7 +19,7 @@
 ## English section map
 
 1. [`sections/01-opening-frame.md`](sections/01-opening-frame.md) — scans 4–7.
-2. [`sections/02-rayasam-vengannu-sequence.md`](sections/02-rayasam-vengannu-sequence.md) — scans 8–29 plus scan 30 through the internal film's `வணக்கம்` end-card.
+2. [`sections/02-rayasam-venganna-sequence.md`](sections/02-rayasam-venganna-sequence.md) — scans 8–29 plus scan 30 through the internal film's `வணக்கம்` end-card.
 3. [`sections/03-return-and-conclusion.md`](sections/03-return-and-conclusion.md) — scan 30 from `படம் முடிந்துவிட்டது...` through scan 33.
 
 The section files retain their batch-level `reviewed` state; whole-work `verified` is the result of the completed cross-section bilingual alignment recorded in `TRANSLATION_REVIEW.md`.
@@ -28,7 +28,7 @@ The section files retain their batch-level `reviewed` state; whole-work `verifie
 
 **`பலிபீடம் நோக்கி` remains one continuous work.**
 
-`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை` remains an internal cinematic-historical sequence, never a separate work or translation identity.
+`ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` remains an internal cinematic-historical sequence, never a separate work or translation identity.
 
 The critical scan-30 boundary passed final review:
 

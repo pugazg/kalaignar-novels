@@ -26,13 +26,13 @@
 
 ### முக்கிய structural note
 
-`பலிபீடம் நோக்கி` **ஒரே தொடர்ச்சியான படைப்பு**. Scan 8-ல் வரும் **`ராயசம் வெங்கண்ணு — தஞ்சை சரித்திரக் கதை`** தனி work அல்ல; `பலிபீடம் நோக்கி` நூலுக்குள் அமைந்த embedded cinematic-historical sequence.
+`பலிபீடம் நோக்கி` **ஒரே தொடர்ச்சியான படைப்பு**. Scan 8-ல் வரும் **`ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை`** தனி work அல்ல; `பலிபீடம் நோக்கி` நூலுக்குள் அமைந்த embedded cinematic-historical sequence.
 
 Source continuity:
 
 - scans 4–7 — opening `பலிபீடம்` frame;
 - scan 7 — internal film introduction;
-- scans 8–29 + scan 30 opening — `ராயசம் வெங்கண்ணு` sequence through `வணக்கம்`;
+- scans 8–29 + scan 30 opening — `ராயசம் வெங்கண்ணா` sequence through `வணக்கம்`;
 - scan 30 — `படம் முடிந்துவிட்டது...` return to the main frame;
 - scans 31–33 — conclusion;
 - scan 34 — blank/back matter.
@@ -63,7 +63,7 @@ Key files:
 - [`works/balipeedam-nokki/translations/en/TRANSLATION_REVIEW.md`](works/balipeedam-nokki/translations/en/TRANSLATION_REVIEW.md)
 - [`works/balipeedam-nokki/translations/en/RELEASE_REPORT.md`](works/balipeedam-nokki/translations/en/RELEASE_REPORT.md)
 - [`works/balipeedam-nokki/translations/en/sections/01-opening-frame.md`](works/balipeedam-nokki/translations/en/sections/01-opening-frame.md)
-- [`works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md`](works/balipeedam-nokki/translations/en/sections/02-rayasam-vengannu-sequence.md)
+- [`works/balipeedam-nokki/translations/en/sections/02-rayasam-venganna-sequence.md`](works/balipeedam-nokki/translations/en/sections/02-rayasam-venganna-sequence.md)
 - [`works/balipeedam-nokki/translations/en/sections/03-return-and-conclusion.md`](works/balipeedam-nokki/translations/en/sections/03-return-and-conclusion.md)
 
 The release report records the final Tamil + English inventory, verifies reader-facing navigation and confirms that the repository tree contains no committed source PDF. The audited Tamil `pages/` layer remains controlling authority.
@@ -95,7 +95,7 @@ works/
         RELEASE_REPORT.md
         sections/
           01-opening-frame.md
-          02-rayasam-vengannu-sequence.md
+          02-rayasam-venganna-sequence.md
           03-return-and-conclusion.md
 ```
 
