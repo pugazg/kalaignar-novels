@@ -103,7 +103,7 @@ Source scan facts:
 - SHA-256: **pending exact byte-level calculation**
 - source PDF committed to repository: **No**
 
-Why SHA-256 is pending: the current file service refuses raw materialization of the 502,895,096-byte PDF because it exceeds the 100 MiB materialization limit, and the normal local hashing runtime was unavailable during onboarding. Do not invent a checksum. Calculate it from the actual attachment bytes at the first activity where byte-level access works.
+Why SHA-256 is pending: the current file service refuses raw materialization of the 502,895,096-byte PDF because it exceeds the 100 MiB materialization limit, and the normal local hashing runtime remains unavailable. Do not invent a checksum. Calculate it from the actual attachment bytes at the first activity where byte-level access works.
 
 ## Current source structure
 
@@ -155,18 +155,32 @@ Created:
 - `works/pudhaiyal/pages/0004-publication.md`
 - `works/pudhaiyal/pages/0005-publisher-note.md`
 - `works/pudhaiyal/pages/0006-blank.md`
+- `works/pudhaiyal/pages/0007-pudhaiyal.md`
+- `works/pudhaiyal/pages/0008-pudhaiyal.md`
 
 Current Tamil page-record state:
 
-- page records: **6 / 150**
+- page records: **8 / 150**
 - `verified`: **6**
-- `needs-review`: **0**
-- `not-started`: **144**
+- `needs-review`: **2** — scans 7–8
+- `not-started`: **142**
 - Tamil audit: **not started**
 - assembled Tamil layer: **blocked by Tamil audit gate**
 - English translation: **blocked by Tamil audit gate**
 
 Front matter scans 1–6 were directly visually compared before being marked `verified`.
+
+## Scans 7–8 review state
+
+Both scans were directly inspected as the first `அறிமுகம்` body-text batch.
+
+- scan 7 clearly shows the heading `அறிமுகம்:` and no visible printed page number;
+- scan 8 continues the introduction and visibly prints page **6**;
+- the currently available rendered source images are not sufficiently legible for reliable full character-by-character transcription;
+- no uncertain Tamil body wording has been guessed, normalized, reconstructed from context or copied from an external source;
+- both page records therefore remain **`needs-review`** pending enlarged/native-resolution source inspection.
+
+This is an unresolved source-access/readability item, not permission to substitute OCR or another edition.
 
 ---
 
@@ -209,16 +223,18 @@ Prefer narrow descriptive commits. Do not include the source PDF. Do not modify 
 
 # 9. Current exact next action
 
-**Transcribe and directly visually verify `புதையல்` scans 7–8 as the first body-text batch (`அறிமுகம்`).**
+**Resolve `புதையல்` scans 7–8 from enlarged/native source pixels before moving further into the `அறிமுகம்`.**
 
 For that activity:
 
-1. inspect scans 7 and 8 at readable/enlarged resolution;
-2. create `pages/0007-pudhaiyal.md` and `pages/0008-pudhaiyal.md`;
-3. preserve exact punctuation, paragraph breaks and printed oddities;
-4. leave any uncertain glyph `needs-review` rather than guessing;
-5. update `indexes/page-map.md`, `works/pudhaiyal/README.md` and this handover;
-6. separately retry exact SHA-256 calculation if byte-level runtime access becomes available.
+1. re-inspect scans 7 and 8 at enlarged/native source resolution;
+2. complete the exact character-by-character Tamil body transcription in `pages/0007-pudhaiyal.md` and `pages/0008-pudhaiyal.md`;
+3. preserve source punctuation, paragraph breaks, emphasis and unusual forms exactly;
+4. leave any still-uncertain glyph `needs-review` rather than guessing;
+5. mark each page `verified` only after direct visual comparison succeeds;
+6. synchronize `indexes/page-map.md`, `works/pudhaiyal/README.md` and this handover;
+7. after scans 7–8 are resolved, continue the `அறிமுகம்` with scans **9–10** as the next small transcription batch;
+8. separately retry exact SHA-256 calculation if byte-level runtime access becomes available.
 
 Do not start English translation.
 
