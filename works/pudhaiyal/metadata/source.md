@@ -4,12 +4,18 @@
 
 - Source filename: `TVA_BOK_0064097_புதையல்.pdf`
 - Source PDF committed to repository: **No**
-- SHA-256: **pending — the 502,895,096-byte attachment could not be materialized into the current chat runtime for byte-level hashing; do not invent a checksum**
-- File size: **502,895,096 bytes**
-- Scan pages: **150**
+- SHA-256: **pending — exact byte-level calculation not yet available; do not invent a checksum**
+- File size of attached PDF: **502,895,096 bytes**
+- Exact PDF scan/page-object count: **pending full-file/native inspection**
+- Currently rendered/inspectable scan window in chat: **1–150 only**
+- Tamil Digital Library bibliographic extent for this item: **443 p.**
 - Language: Tamil
 - Script: Tamil
-- Controlling source: the supplied scanned PDF
+- Controlling textual source: the supplied scanned PDF
+
+> **Correction:** the earlier `Scan pages: 150` claim was wrong. `150` is only the page-image range currently exposed by the chat Files renderer. It must not be treated as the complete PDF/source extent.
+
+Detailed correction record: [`../notes/source-page-count-reconciliation.md`](../notes/source-page-count-reconciliation.md).
 
 ## Title / authorship visible in the scan
 
@@ -33,6 +39,33 @@ From scans 1, 3, 4 and 5:
   - **ஸ்பெஷல் பதிப்பு ரூ. 6/-**
 - Scan 5 is headed **`பதிப்புரை`** and identifies the volume as the publisher's third release of `புதையல்`.
 
+### Catalogue discrepancy — do not override the scan
+
+The Tamil Digital Library Kalaignar special page summarizes the item as `முதல் பதிப்பு, 1961`, while the controlling attached scan visibly says `மூன்றாம் பதிப்பு, செப்டம்பர், 1961`.
+
+For this repository edition, the **scan-printed edition statement governs**. The catalogue summary is not used to silently replace it.
+
+## External source-extent corroboration
+
+The same Tamil Digital Library item is publicly catalogued as:
+
+- title: `புதையல்`;
+- author: கருணாநிதி, கலைஞர் மு.;
+- publisher: அன்புப் பதிப்பகம், தஞ்சை;
+- year: 1961;
+- physical description: **443 p.**;
+- subject/tags: இலக்கியம் / புதினம் / நாவல்.
+
+The current Tamil Digital Library article page also lists **PDF — 2 Files** for `TVA_BOK_0064097`.
+
+These catalogue facts establish that the first 150 rendered scans are not the full source extent. They are used only for source-completeness reconciliation; they do not replace direct scan readings.
+
+Public references:
+
+- `https://tamildigitallibrary.in/kalaignar/01.literature/navalkal/005_புதையல்.html`
+- `https://tamildigitallibrary.in/Articles/நூல்-64097-புதையல்#book1/`
+- `https://www.tamildigitallibrary.in/book-detail.php?id=jZY9lup2kZl6TuXGlZQdjZU7luI1`
+
 ## Front-matter / provenance observations
 
 - **Scan 1:** illustrated/typographic cover; title, author and publisher/place lines are printed.
@@ -42,22 +75,19 @@ From scans 1, 3, 4 and 5:
 - **Scan 5:** publisher's `பதிப்புரை`.
 - **Scan 6:** effectively blank with staining/wear.
 
-## Printed-page numbering behaviour
+## Printed-page numbering behaviour — currently verified prefix only
 
-Direct inspection of all 150 supplied scan images shows:
+Directly inspected rendered images establish only the following prefix:
 
-- scans **1–7** have no visible printed page number and therefore remain `null` / `—` in archival records;
+- scans **1–7** have no visible printed page number and therefore remain `null` / `—`;
 - scan **8** visibly prints page **6**;
-- from scan **8 through scan 150**, the visible printed numbers run continuously **6 through 148**;
-- no missing or repeated printed number was observed inside that visible run during the initial structural inspection.
+- within the currently rendered prefix, scans **8–150** visibly run from printed pages **6–148**.
 
-No printed number is inferred for scans 1–7.
+This does **not** establish what scan 151 or later pages print. No later printed number may be inferred from sequence until the relevant scan is directly inspected.
 
-## Work-level structure after full-scan structural inspection
+## Work-level structure — provisional prefix only
 
-The supplied scan is treated as **one continuous work: `புதையல்`**.
-
-Visible internal organization:
+The first 150 rendered scans belong to one continuous work, `புதையல்`. Within that prefix, the following internal structure is visible:
 
 ```text
 புதையல்
@@ -77,40 +107,62 @@ Visible internal organization:
 ├── scans 119–127: chapter 13
 ├── scans 128–137: chapter 14
 ├── scans 138–145: chapter 15
-└── scans 146–150: chapter 16 as supplied
+└── scan 146 onward: chapter 16 begins within the rendered prefix
 ```
 
-The numbered headings are internal chapters of the same work, not separate works.
+**The earlier statement that scans 146–150 represented chapter 16 'as supplied' or the end of the supplied source is withdrawn.** Chapter 16 visibly continues beyond the currently rendered window, and later chapter boundaries remain to be established from the full source.
 
-## Supplied-scan ending / completeness caution
+The numbered headings are internal chapters of the same work unless later full-source evidence establishes otherwise.
 
-The PDF ends at scan **150**, visibly printed page **148**, while body prose is still present. No explicit `முற்றும்`, back cover, advertisement or blank end leaf is present in the supplied PDF.
+## Source extent / completeness status
 
-Therefore:
+Current state:
 
-- this repository must preserve exactly the supplied 150-scan source;
-- no continuation is reconstructed from another edition or from context;
-- whether this scan is physically/bibliographically complete remains an explicit **audit item** until source evidence resolves it.
+- attached source is known to extend beyond the first 150 rendered scans;
+- Tamil Digital Library describes the item as **443 p.**;
+- exact PDF scan/page-object count is still unresolved;
+- scan 150 / printed page 148 is **not** treated as the source ending;
+- no closing-page, `முற்றும்`, advertisement, blank end leaf or back cover claim may be made until the actual later scans are inspected.
 
-## Scan / physical-copy condition
+The page manifest is therefore a **provisional prefix manifest**, not a 100% coverage map.
 
-Initial direct inspection shows:
+## Scan / physical-copy condition — observed prefix
 
-- aged paper, staining and edge/binding wear across many scans;
+Initial direct inspection of scans 1–150 shows:
+
+- aged paper, staining and edge/binding wear;
 - intermittent bleed-through;
 - handwritten marks / underlines / marginal marks on some body pages;
 - copy-specific handwriting on title/front matter;
-- no photographs or separate illustration plates observed in the body during the initial structural pass;
-- chapter-number ornaments and horizontal rules are printed textual/ornamental features and should be retained distinctly from prose when transcribed.
+- chapter-number ornaments and horizontal rules as printed features.
+
+These observations apply only to the inspected prefix until later scans are available.
 
 Printed text must remain separate from handwriting, ownership/provenance marks, underlining, stains, bleed-through and scanner artefacts.
 
-## Checksum unresolved item
+## Technical limitations still open
 
-The project requires a SHA-256 checksum. The current chat file service exposes the exact source size and pages but refuses raw materialization because the PDF exceeds its 100 MiB materialization limit. The normal container runtime also did not become available for hashing in this activity.
+### Full page count
 
-**Do not fabricate or approximate the SHA-256.** The exact checksum must be calculated from the attached PDF bytes at the first activity where byte-level access is available, then this record and `HANDOVER.md` must be updated.
+The current Files renderer exposes images through scan 150 but returns no rendered page images for a request beginning at scan 151. This is treated as a tooling/rendering limitation, not source evidence.
+
+### SHA-256
+
+The project requires an exact SHA-256 checksum. The 502,895,096-byte source cannot currently be raw-materialized through the available 100 MiB route, so byte-level hashing remains pending.
+
+**Do not fabricate or approximate either the exact scan count or SHA-256.**
 
 ## Source authority rule
 
-This supplied scan is the controlling source for this edition. OCR, filename, memory, later editions, web text, grammar expectations or historical knowledge may assist navigation but may not silently replace what is visibly printed.
+The supplied scan is the controlling source for edition text. OCR, filename, catalogue summaries, memory, later editions, web text, grammar expectations or historical knowledge may assist navigation or source-extent reconciliation but may not silently replace what is visibly printed.
+
+## Exact next source-registration action
+
+Before advancing normal transcription batches:
+
+1. regain native/full access to the source beyond scan 150;
+2. determine exact PDF scan/page-object count;
+3. inspect scan 151 onward and the true final pages;
+4. extend `indexes/page-map.md` to every scan without inferring printed numbers;
+5. update chapter boundaries from the complete source;
+6. calculate the exact SHA-256 when byte-level access becomes available.
