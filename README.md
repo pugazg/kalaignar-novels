@@ -13,10 +13,22 @@
 அடுத்த புதினம் / கதைநூலை புதிய chat-ல் தொடங்குவதற்கு:
 
 - [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md) — முழு reusable archival + translation + release workflow
-- [`HANDOVER.md`](HANDOVER.md) — current project state, completed reference implementation, exact next-work onboarding sequence
+- [`HANDOVER.md`](HANDOVER.md) — current project state, completed reference implementation, exact next action
 - [`NEXT_NOVEL_CHAT_PROMPT.md`](NEXT_NOVEL_CHAT_PROMPT.md) — புதிய source PDF-ஐ attach செய்து fresh ChatGPT chat-ல் copy/paste செய்ய வேண்டிய prompt
 
-புதிய work-க்கு `works/balipeedam-nokki/` completed reference implementation ஆக பயன்படுத்தலாம்; ஆனால் புதிய source structure-ஐ அந்த work-க்கு force-fit செய்யக்கூடாது.
+`works/balipeedam-nokki/` completed reference implementation ஆக பயன்படுத்தலாம்; ஆனால் புதிய source structure-ஐ அதற்கு force-fit செய்யக்கூடாது.
+
+## தற்போது செயல்படும் work
+
+| நூல் | ஆசிரியர் | பதிப்பு | நிலை |
+|---|---|---|---|
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Source registered; page map 150/150; Tamil page records 6/150 verified; translation blocked by Tamil audit gate** |
+
+### புதையல் — source caution
+
+The supplied scan contains **150 scans** and ends at visible printed page **148** while body prose is still present. No explicit closing/back matter appears in the supplied PDF. The archive preserves the supplied scan exactly and treats source completeness as an audit item; no continuation is reconstructed.
+
+Source PDF in repository: **No**.
 
 ## நிறைவு பெற்ற reference work
 
@@ -79,25 +91,13 @@ HANDOVER.md
 NEXT_NOVEL_CHAT_PROMPT.md
 works/
   balipeedam-nokki/
+    ...
+  pudhaiyal/
     README.md
-    metadata/
-    indexes/
+    metadata/source.md
+    indexes/page-map.md
     pages/
-    audit.md
-    sections/
-    translations/
-      en/
-        README.md
-        TRANSLATION_PLAN.md
-        PROGRESS.md
-        GLOSSARY.md
-        TRANSLATION_REVIEW.md
-        RELEASE_REPORT.md
-        sections/
-          01-opening-frame.md
-          02-rayasam-venganna-sequence.md
-          03-return-and-conclusion.md
 ```
 
 விரிவான workflow: [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md).  
-அடுத்த source-ஐ தொடங்க: [`NEXT_NOVEL_CHAT_PROMPT.md`](NEXT_NOVEL_CHAT_PROMPT.md).
+தற்போதைய exact next action: [`HANDOVER.md`](HANDOVER.md).
