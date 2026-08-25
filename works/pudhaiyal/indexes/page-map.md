@@ -14,8 +14,8 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 | 4 | — | publication / price / edition page | verified | `pages/0004-publication.md` |
 | 5 | — | `பதிப்புரை` | verified | `pages/0005-publisher-note.md` |
 | 6 | — | blank / stained reverse | verified | `pages/0006-blank.md` |
-| 7 | — | `அறிமுகம்` | not-started | `pages/0007-pudhaiyal.md` |
-| 8 | 6 | `அறிமுகம்` | not-started | `pages/0008-pudhaiyal.md` |
+| 7 | — | `அறிமுகம்` | needs-review | `pages/0007-pudhaiyal.md` |
+| 8 | 6 | `அறிமுகம்` | needs-review | `pages/0008-pudhaiyal.md` |
 | 9 | 7 | `அறிமுகம்` | not-started | `pages/0009-pudhaiyal.md` |
 | 10 | 8 | `அறிமுகம்` | not-started | `pages/0010-pudhaiyal.md` |
 | 11 | 9 | `அறிமுகம்` | not-started | `pages/0011-pudhaiyal.md` |
@@ -159,14 +159,14 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 | 149 | 147 | chapter 16 | not-started | `pages/0149-pudhaiyal.md` |
 | 150 | 148 | chapter 16 / final supplied scan; body prose continues | not-started | `pages/0150-pudhaiyal.md` |
 
-## Initial counts
+## Current counts
 
 - Source scan pages: **150**
 - Page-map coverage: **150 / 150**
-- Page records created in initial front-matter batch: **6 / 150**
+- Page records created: **8 / 150**
 - `verified`: **6**
-- `needs-review`: **0**
-- `not-started`: **144**
+- `needs-review`: **2**
+- `not-started`: **142**
 - Source PDF stored in repository: **No**
 
 ## Structural checkpoints from direct visual inspection
@@ -194,4 +194,4 @@ The chapter headings are internal organization of `புதையல்`; none 
 
 ## Next page-level activity
 
-Transcribe and directly visually verify the `அறிமுகம்` in a small batch beginning with **scans 7–8**, then update this manifest and the work README. The exact SHA-256 remains a separate blocking metadata item only for final source registration completeness; it must be calculated from the real PDF bytes when runtime access permits.
+Re-inspect **scans 7–8** at enlarged/native source resolution and complete their character-by-character Tamil transcription. Keep both records at `needs-review` until that source comparison succeeds; do not guess unreadable glyphs. After scans 7–8 are resolved, continue the `அறிமுகம்` with scans 9–10. The exact SHA-256 remains a separate source-registration item and must be calculated from the real PDF bytes when byte-level runtime access permits.
