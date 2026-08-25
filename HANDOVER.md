@@ -7,38 +7,26 @@
 - Primary reusable guide: `NOVEL_PROCESSING_GUIDE.md`
 - Fresh-chat prompt: `NEXT_NOVEL_CHAT_PROMPT.md`
 
-This handover is now **project-level**, not a continuation of unfinished work on `பலிபீடம் நோக்கி`.
-
 ---
 
 # 1. Mandatory startup in a new chat
 
-Before doing any work on the next novel/story:
+Before doing any work on the current/next novel or story:
 
 1. Read `NOVEL_PROCESSING_GUIDE.md` completely.
 2. Read root `README.md`.
 3. Read this `HANDOVER.md` completely.
-4. Study `works/balipeedam-nokki/` as the completed reference implementation, especially:
-   - `README.md`
-   - `metadata/source.md`
-   - `indexes/page-map.md`
-   - `audit.md`
-   - `sections/README.md`
-   - `translations/en/TRANSLATION_PLAN.md`
-   - `translations/en/PROGRESS.md`
-   - `translations/en/GLOSSARY.md`
-   - `translations/en/TRANSLATION_REVIEW.md`
-   - `translations/en/RELEASE_REPORT.md`
-5. Inspect repository state before creating a new work directory.
-6. If the next work already exists, continue it; do not create a duplicate.
-7. Inspect the **actual attached PDF scan** before metadata creation. Do not trust filename alone.
+4. Study `works/balipeedam-nokki/` as the completed reference implementation, especially its README, source metadata, page map, audit, assembled Tamil layer and English plan/progress/glossary/review/release documents.
+5. Inspect repository state before creating a work directory.
+6. If the target work already exists, continue it; do not create a duplicate.
+7. Inspect the actual attached PDF scan before metadata creation. Do not trust filename alone.
 8. Do not upload or commit the source PDF.
 
 ---
 
 # 2. Controlling source policy
 
-The authority order for every work is:
+Authority order:
 
 1. actual source scan page;
 2. source-printed bibliographic / page information;
@@ -47,20 +35,7 @@ The authority order for every work is:
 5. verified English translation;
 6. metadata / glossary / review documentation.
 
-Do not silently modernize, correct, normalize, reconstruct or improve source-supported Tamil.
-
-Preserve source-supported:
-
-- historical spelling;
-- punctuation;
-- unusual grammar;
-- names / titles / numbers;
-- repetitions;
-- typographical forms;
-- cinematic / dramatic notation;
-- source oddities.
-
-Separate printed text from stamps, handwriting, underlines, later annotations, bleed-through and scan artefacts.
+Do not silently modernize, correct, normalize, reconstruct or improve source-supported Tamil. Preserve source-supported spelling, punctuation, unusual grammar, names/titles/numbers, repetitions, typographical forms, cinematic/dramatic notation and source oddities. Separate printed text from stamps, handwriting, underlines, later annotations, bleed-through and scan artefacts.
 
 ---
 
@@ -81,7 +56,7 @@ SHA-256:
 
 Source PDF in repository: **No**.
 
-## Final status
+Final status:
 
 - source registration — **complete**
 - Tamil page records — **34 / 34**
@@ -89,99 +64,115 @@ Source PDF in repository: **No**.
 - unresolved Tamil readings — **0**
 - Tamil source audit — **PASSED**
 - assembled Tamil reading layer — **PASSED**
-- English translation plan — **complete**
 - English translation batches — **6 / 6 reviewed**
 - final bilingual alignment — **PASSED**
 - whole-work English — **VERIFIED**
-- release-readiness pass — **PASSED**
-- combined archival package — **RELEASE-READY within this repository**
+- release-readiness — **RELEASE-READY within this repository**
 
 Reference release report:
 
 `works/balipeedam-nokki/translations/en/RELEASE_REPORT.md`
 
----
-
-# 4. Important structural lesson from the completed reference
-
-`பலிபீடம் நோக்கி` is **one continuous work**.
-
-The source heading:
-
-`ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை`
-
-was initially capable of being mistaken for a separate work, but source flow showed it to be an **internal cinematic-historical sequence** introduced and later exited by the narrator.
-
-Therefore, for every new novel:
-
-> A title card, embedded story, dream, film, play, speech, letter or historical episode must not automatically become a separate repository work.
-
-Inspect surrounding pages and narrative framing first.
+Structural lesson retained: `ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` is an internal cinematic-historical sequence inside `பலிபீடம் நோக்கி`, not a separate work.
 
 ---
 
-# 5. Required structure for the next work
+# 4. Current target work — புதையல்
 
-After source identity is established, create or continue:
+Work path:
 
-```text
-works/<next-work-slug>/
-  README.md
-  metadata/
-    source.md
-  indexes/
-    page-map.md
-  pages/
-    0001-....md
-  audit.md
-  sections/
-    README.md
-```
+`works/pudhaiyal/`
 
-Later, after Tamil audit passes:
+Source identity established directly from scans 1 and 3:
 
-```text
-  translations/
-    en/
-      README.md
-      TRANSLATION_PLAN.md
-      PROGRESS.md
-      GLOSSARY.md
-      TRANSLATION_REVIEW.md
-      RELEASE_REPORT.md
-      sections/
-```
+- Title: **புதையல்**
+- Author line: **கலைஞர் மு. கருணாநிதி, எம். எல். ஏ.**
+- Publisher: **அன்புப் பதிப்பகம்**
+- Place: **பொறையார் :: தஞ்சை மாவட்டம்**
+- Edition: **மூன்றாம் பதிப்பு**
+- Edition date: **செப்டம்பர், 1961**
 
-Do not create English translation files before the Tamil audit gate unless the user explicitly changes the project policy.
+External source filename:
+
+`TVA_BOK_0064097_புதையல்.pdf`
+
+Source scan facts:
+
+- scan pages: **150**
+- file size: **502,895,096 bytes**
+- SHA-256: **pending exact byte-level calculation**
+- source PDF committed to repository: **No**
+
+Why SHA-256 is pending: the current file service refuses raw materialization of the 502,895,096-byte PDF because it exceeds the 100 MiB materialization limit, and the normal local hashing runtime was unavailable during onboarding. Do not invent a checksum. Calculate it from the actual attachment bytes at the first activity where byte-level access works.
+
+## Current source structure
+
+Direct visual inspection of all supplied scans supports one continuous work:
+
+- scans 1–6 — front matter / blank;
+- scans 7–12 — `அறிமுகம்`;
+- scans 13–21 — chapter 1;
+- scans 22–30 — chapter 2;
+- scans 31–39 — chapter 3;
+- scans 40–51 — chapter 4;
+- scans 52–59 — chapter 5;
+- scans 60–68 — chapter 6;
+- scans 69–74 — chapter 7;
+- scans 75–83 — chapter 8;
+- scans 84–92 — chapter 9;
+- scans 93–101 — chapter 10;
+- scans 102–109 — chapter 11;
+- scans 110–118 — chapter 12;
+- scans 119–127 — chapter 13;
+- scans 128–137 — chapter 14;
+- scans 138–145 — chapter 15;
+- scans 146–150 — chapter 16 as supplied.
+
+No inspected internal heading establishes a separate bibliographic work.
+
+## Printed-page behaviour
+
+- scans 1–7: no visible printed page number → `null` / `—`;
+- scan 8 visibly prints page 6;
+- scans 8–150 visibly run continuously from printed pages **6–148**.
+
+## Supplied-scan ending caution
+
+The PDF ends at scan 150 / printed page 148 while body prose is still present. No explicit `முற்றும்`, back cover, advertisement or blank ending leaf appears in the supplied PDF. Treat physical/bibliographic completeness as an audit item and do not reconstruct a continuation.
 
 ---
 
-# 6. Next work — exact onboarding sequence
+# 5. Current artifacts for புதையல்
 
-When the user attaches the next novel/story PDF, perform these steps in order:
+Created:
 
-1. inspect repository tree / search for existing work;
-2. inspect actual PDF cover, title, publication and representative body pages;
-3. determine source identity from the scan itself;
-4. calculate / record SHA-256, file size and page count;
-5. identify printed-page numbering behaviour;
-6. note scan condition, stamps, handwriting, bleed-through, illustrations and damage;
-7. determine whether the publication contains one work or internal textual units;
-8. choose a stable work slug;
-9. create/update `metadata/source.md`;
-10. create initial `indexes/page-map.md` covering every scan page;
-11. create front-matter records;
-12. begin Tamil body transcription in small batches;
-13. after each batch update page map, work README and this handover;
-14. leave uncertain forms `needs-review` rather than guessing.
+- `works/pudhaiyal/README.md`
+- `works/pudhaiyal/metadata/source.md`
+- `works/pudhaiyal/indexes/page-map.md` — covers all **150 / 150** supplied scans
+- `works/pudhaiyal/pages/0001-cover.md`
+- `works/pudhaiyal/pages/0002-provenance.md`
+- `works/pudhaiyal/pages/0003-title-page.md`
+- `works/pudhaiyal/pages/0004-publication.md`
+- `works/pudhaiyal/pages/0005-publisher-note.md`
+- `works/pudhaiyal/pages/0006-blank.md`
 
-Do **not** jump directly to English translation.
+Current Tamil page-record state:
+
+- page records: **6 / 150**
+- `verified`: **6**
+- `needs-review`: **0**
+- `not-started`: **144**
+- Tamil audit: **not started**
+- assembled Tamil layer: **blocked by Tamil audit gate**
+- English translation: **blocked by Tamil audit gate**
+
+Front matter scans 1–6 were directly visually compared before being marked `verified`.
 
 ---
 
-# 7. Verification rules
+# 6. Required page-status values
 
-Page status values:
+Use only:
 
 - `not-started`
 - `partial`
@@ -189,77 +180,50 @@ Page status values:
 - `verified`
 - `blocked`
 
-Use `verified` only after direct visual comparison with the source scan.
-
-OCR, if used at all, is only an aid and never the authority.
-
-For difficult words:
-
-- enlarge/crop the scan;
-- compare character by character;
-- preserve odd source forms if visually supported;
-- document cautious readings;
-- never normalize Tamil merely because an expected word seems more plausible.
+`verified` requires direct visual comparison with the source scan. OCR is only an aid and never authority.
 
 ---
 
-# 8. Translation and release gates
+# 7. Tamil / translation gates
 
-After Tamil source audit passes:
+Before translation:
 
-1. build source-faithful assembled Tamil `sections/`;
-2. check section continuity and page provenance;
-3. create `translations/en/TRANSLATION_PLAN.md`;
-4. translate in controlled batches;
-5. source-check each batch;
-6. record recurring terms and uncertain forms in `GLOSSARY.md`;
-7. mark each batch `reviewed` only after source check;
-8. perform whole-work `TRANSLATION_REVIEW.md`;
-9. only then mark English `VERIFIED`;
-10. create `RELEASE_REPORT.md` and perform final navigation/inventory pass.
+- every supplied scan must have a page record;
+- all body pages must be directly visually audited;
+- unresolved readings must be resolved or explicitly documented;
+- page map / metadata / README statuses must agree;
+- cross-page continuity and supplied-source completeness cautions must be audited;
+- internal structure must be correct;
+- Tamil `audit.md` must pass;
+- source PDF must remain outside the repository.
 
-Release-ready means archival/editorial readiness, **not** automatic copyright/licensing clearance.
+Only after that create the assembled Tamil `sections/` layer, then the English translation plan and controlled translation workflow.
 
 ---
 
-# 9. Git practice
+# 8. Git practice
 
-Prefer narrow descriptive commits.
-
-Examples:
-
-- `Register source metadata for <work>`
-- `Create page map for <work>`
-- `Transcribe scans 1-5 of <work>`
-- `Resolve scan 18 source reading`
-- `Complete Tamil source audit for <work>`
-- `Create assembled Tamil reading layer for <work>`
-- `Translate English Batch 1 for <work>`
-- `Complete final bilingual review for <work>`
-- `Mark <work> release-ready`
-
-Do not include the source PDF in any commit.
+Prefer narrow descriptive commits. Do not include the source PDF. Do not modify source-supported Tamil for stylistic modernization.
 
 ---
 
-# 10. Current exact next action
+# 9. Current exact next action
 
-**Wait for / use the next attached Kalaignar novel or story PDF.**
+**Transcribe and directly visually verify `புதையல்` scans 7–8 as the first body-text batch (`அறிமுகம்`).**
 
-Then execute the onboarding sequence in Section 6.
+For that activity:
 
-No further mandatory archival work remains for `பலிபீடம் நோக்கி`.
+1. inspect scans 7 and 8 at readable/enlarged resolution;
+2. create `pages/0007-pudhaiyal.md` and `pages/0008-pudhaiyal.md`;
+3. preserve exact punctuation, paragraph breaks and printed oddities;
+4. leave any uncertain glyph `needs-review` rather than guessing;
+5. update `indexes/page-map.md`, `works/pudhaiyal/README.md` and this handover;
+6. separately retry exact SHA-256 calculation if byte-level runtime access becomes available.
 
-If the next chat receives both this repository URL and a new PDF, it should immediately begin with repository/source inspection and source registration — not ask the user to repeat the established workflow.
+Do not start English translation.
 
 ---
 
-# 11. Fresh-chat continuation prompt
+# 10. Fresh-chat continuation prompt
 
-Use:
-
-`NEXT_NOVEL_CHAT_PROMPT.md`
-
-Copy that file into a new ChatGPT conversation together with the next source PDF.
-
-The prompt deliberately instructs the new chat to read this handover and the processing guide before doing any transcription.
+Use `NEXT_NOVEL_CHAT_PROMPT.md` together with the attached source PDF. Current live repository state and this handover govern over stale summaries.
