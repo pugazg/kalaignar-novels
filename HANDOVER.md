@@ -30,12 +30,14 @@ Authority order:
 
 1. actual source scan page;
 2. source-printed bibliographic / page information;
-3. audited Tamil `pages/` records;
-4. verified assembled Tamil `sections/`;
+3. canonical Tamil `pages/` records;
+4. audited assembled Tamil `sections/`;
 5. verified English translation;
 6. metadata / glossary / review documentation.
 
 Do not silently modernize, correct, normalize, reconstruct or improve source-supported Tamil. Preserve source-supported spelling, punctuation, unusual grammar, names/titles/numbers, repetitions, typographical forms, cinematic/dramatic notation and source oddities. Separate printed text from stamps, handwriting, underlines, later annotations, bleed-through and scan artefacts.
+
+Web/catalogue information may help establish bibliographic context or reveal that a renderer is incomplete, but it must never silently override exact wording printed in the controlling scan.
 
 ---
 
@@ -96,18 +98,46 @@ External source filename:
 
 `TVA_BOK_0064097_புதையல்.pdf`
 
-Source scan facts:
+Attached-file facts currently available:
 
-- scan pages: **150**
 - file size: **502,895,096 bytes**
+- exact PDF scan/page-object count: **pending full-file/native inspection**
+- currently rendered page-image window in this chat: **scans 1–150 only**
 - SHA-256: **pending exact byte-level calculation**
 - source PDF committed to repository: **No**
 
-Why SHA-256 is pending: the current file service refuses raw materialization of the 502,895,096-byte PDF because it exceeds the 100 MiB materialization limit, and the normal local hashing runtime remains unavailable. Do not invent a checksum. Calculate it from the actual attachment bytes at the first activity where byte-level access works.
+## Critical source-extent correction
 
-## Current source structure
+The earlier handover incorrectly stated that the source contained only **150 scans** and that scan 150 / printed page 148 was the supplied PDF ending. That conclusion is **withdrawn**.
 
-Direct visual inspection of all supplied scans supports one continuous work:
+The user supplied two Tamil Digital Library references for the same work. Source reconciliation established:
+
+- Tamil Digital Library legacy bibliographic record: **physical description `443 p.`**;
+- current Tamil Digital Library item page: **PDF — 2 Files**;
+- the chat Files renderer currently returns page images only through scan 150;
+- requesting scan 151 onward returns no rendered images, but this is a renderer/tool limitation, not evidence of source termination.
+
+Therefore:
+
+> **150 = currently exposed rendered prefix, NOT total source extent.**
+
+Correction record:
+
+`works/pudhaiyal/notes/source-page-count-reconciliation.md`
+
+## Edition/catalogue discrepancy
+
+The controlling attached scan visibly states:
+
+**`மூன்றாம் பதிப்பு, செப்டம்பர், 1961`**.
+
+The Kalaignar special-page catalogue summary labels the work `முதல் பதிப்பு, 1961`.
+
+For this repository edition, the **scan governs**. Do not change the repository edition to first edition based on catalogue metadata.
+
+## Current source structure — prefix only
+
+Direct visual inspection of scans 1–150 establishes only this prefix:
 
 - scans 1–6 — front matter / blank;
 - scans 7–12 — `அறிமுகம்`;
@@ -126,29 +156,28 @@ Direct visual inspection of all supplied scans supports one continuous work:
 - scans 119–127 — chapter 13;
 - scans 128–137 — chapter 14;
 - scans 138–145 — chapter 15;
-- scans 146–150 — chapter 16 as supplied.
+- scan 146 — chapter 16 begins and continues beyond the rendered prefix.
 
-No inspected internal heading establishes a separate bibliographic work.
+No claim is currently made about later chapter starts, final chapter number, final printed page, closing matter or back cover.
 
-## Printed-page behaviour
+## Printed-page behaviour — verified prefix only
 
 - scans 1–7: no visible printed page number → `null` / `—`;
 - scan 8 visibly prints page 6;
-- scans 8–150 visibly run continuously from printed pages **6–148**.
+- within the currently inspected prefix, scans 8–150 visibly run through printed page **148**.
 
-## Supplied-scan ending caution
-
-The PDF ends at scan 150 / printed page 148 while body prose is still present. No explicit `முற்றும்`, back cover, advertisement or blank ending leaf appears in the supplied PDF. Treat physical/bibliographic completeness as an audit item and do not reconstruct a continuation.
+No printed number after scan 150 may be inferred until that scan page is directly inspected.
 
 ---
 
 # 5. Current artifacts for புதையல்
 
-Created:
+Created/maintained:
 
 - `works/pudhaiyal/README.md`
 - `works/pudhaiyal/metadata/source.md`
-- `works/pudhaiyal/indexes/page-map.md` — covers all **150 / 150** supplied scans
+- `works/pudhaiyal/indexes/page-map.md` — **provisional prefix map for scans 1–150 only; full-source coverage incomplete**
+- `works/pudhaiyal/notes/source-page-count-reconciliation.md`
 - `works/pudhaiyal/pages/0001-cover.md`
 - `works/pudhaiyal/pages/0002-provenance.md`
 - `works/pudhaiyal/pages/0003-title-page.md`
@@ -160,31 +189,39 @@ Created:
 
 Current Tamil page-record state:
 
-- page records: **8 / 150**
+- page records actually created: **8**
 - `verified`: **6**
 - `needs-review`: **2** — scans 7–8
-- `not-started`: **142**
+- full-source page-map coverage: **INCOMPLETE**
 - Tamil audit: **not started**
 - assembled Tamil layer: **blocked by Tamil audit gate**
 - English translation: **blocked by Tamil audit gate**
-
-Front matter scans 1–6 were directly visually compared before being marked `verified`.
 
 ## Scans 7–8 review state
 
 Both scans were directly inspected as the first `அறிமுகம்` body-text batch.
 
-- scan 7 clearly shows the heading `அறிமுகம்:` and no visible printed page number;
+- scan 7 clearly shows `அறிமுகம்:` and no visible printed page number;
 - scan 8 continues the introduction and visibly prints page **6**;
-- the currently available rendered source images are not sufficiently legible for reliable full character-by-character transcription;
+- the currently available rendered images are not sufficiently legible for reliable full character-by-character transcription;
 - no uncertain Tamil body wording has been guessed, normalized, reconstructed from context or copied from an external source;
-- both page records therefore remain **`needs-review`** pending enlarged/native-resolution source inspection.
+- both page records remain **`needs-review`** pending enlarged/native source inspection.
 
-This is an unresolved source-access/readability item, not permission to substitute OCR or another edition.
+Do not resume ordinary transcription expansion until the full source extent is reconciled and the page map can be extended beyond scan 150.
 
 ---
 
-# 6. Required page-status values
+# 6. Public source references used only for extent reconciliation
+
+- Kalaignar special page: `https://tamildigitallibrary.in/kalaignar/01.literature/navalkal/005_புதையல்.html`
+- Tamil Digital Library item: `https://tamildigitallibrary.in/Articles/நூல்-64097-புதையல்#book1/`
+- legacy item page: `https://www.tamildigitallibrary.in/book-detail.php?id=jZY9lup2kZl6TuXGlZQdjZU7luI1`
+
+These may corroborate bibliographic extent, but the attached scan remains controlling for exact source text and edition wording.
+
+---
+
+# 7. Required page-status values
 
 Use only:
 
@@ -198,16 +235,18 @@ Use only:
 
 ---
 
-# 7. Tamil / translation gates
+# 8. Tamil / translation gates
 
 Before translation:
 
-- every supplied scan must have a page record;
+- exact source extent must be known;
+- every scan page must have a record;
+- full page map must have no coverage gap;
 - all body pages must be directly visually audited;
 - unresolved readings must be resolved or explicitly documented;
-- page map / metadata / README statuses must agree;
-- cross-page continuity and supplied-source completeness cautions must be audited;
-- internal structure must be correct;
+- metadata / README / handover statuses must agree;
+- cross-page continuity must be checked;
+- full internal structure must be correctly identified;
 - Tamil `audit.md` must pass;
 - source PDF must remain outside the repository.
 
@@ -215,31 +254,31 @@ Only after that create the assembled Tamil `sections/` layer, then the English t
 
 ---
 
-# 8. Git practice
+# 9. Git practice
 
 Prefer narrow descriptive commits. Do not include the source PDF. Do not modify source-supported Tamil for stylistic modernization.
 
 ---
 
-# 9. Current exact next action
+# 10. Current exact next action
 
-**Resolve `புதையல்` scans 7–8 from enlarged/native source pixels before moving further into the `அறிமுகம்`.**
+**Recover and register the full `புதையல்` source extent before further normal transcription.**
 
-For that activity:
+Required sequence:
 
-1. re-inspect scans 7 and 8 at enlarged/native source resolution;
-2. complete the exact character-by-character Tamil body transcription in `pages/0007-pudhaiyal.md` and `pages/0008-pudhaiyal.md`;
-3. preserve source punctuation, paragraph breaks, emphasis and unusual forms exactly;
-4. leave any still-uncertain glyph `needs-review` rather than guessing;
-5. mark each page `verified` only after direct visual comparison succeeds;
-6. synchronize `indexes/page-map.md`, `works/pudhaiyal/README.md` and this handover;
-7. after scans 7–8 are resolved, continue the `அறிமுகம்` with scans **9–10** as the next small transcription batch;
-8. separately retry exact SHA-256 calculation if byte-level runtime access becomes available.
+1. obtain native/full source access beyond scan 150 (attached full PDF or Tamil Digital Library source files);
+2. determine the exact PDF scan/page-object count — do not equate `443 p.` automatically with scan count;
+3. inspect scan 151 onward directly;
+4. identify later chapter boundaries and the true final printed/back-matter pages from the scan;
+5. extend `works/pudhaiyal/indexes/page-map.md` to **every scan page** without inferring printed numbers;
+6. calculate the exact SHA-256 from the real PDF bytes when byte-level access becomes available;
+7. synchronize `metadata/source.md`, work README, root README and this handover;
+8. only after full manifest coverage is established, resume Tamil transcription, beginning by resolving scans 7–8 at enlarged/native resolution.
 
-Do not start English translation.
+Do **not** start English translation.
 
 ---
 
-# 10. Fresh-chat continuation prompt
+# 11. Fresh-chat continuation prompt
 
 Use `NEXT_NOVEL_CHAT_PROMPT.md` together with the attached source PDF. Current live repository state and this handover govern over stale summaries.
