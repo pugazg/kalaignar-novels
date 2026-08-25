@@ -10,11 +10,9 @@
 
 ## Project continuation documents
 
-அடுத்த புதினம் / கதைநூலை புதிய chat-ல் தொடங்குவதற்கு:
-
-- [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md) — முழு reusable archival + translation + release workflow
-- [`HANDOVER.md`](HANDOVER.md) — current project state, completed reference implementation, exact next action
-- [`NEXT_NOVEL_CHAT_PROMPT.md`](NEXT_NOVEL_CHAT_PROMPT.md) — புதிய source PDF-ஐ attach செய்து fresh ChatGPT chat-ல் copy/paste செய்ய வேண்டிய prompt
+- [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md) — reusable archival + translation + release workflow
+- [`HANDOVER.md`](HANDOVER.md) — current project state and exact next action
+- [`NEXT_NOVEL_CHAT_PROMPT.md`](NEXT_NOVEL_CHAT_PROMPT.md) — fresh-chat continuation prompt
 
 `works/balipeedam-nokki/` completed reference implementation ஆக பயன்படுத்தலாம்; ஆனால் புதிய source structure-ஐ அதற்கு force-fit செய்யக்கூடாது.
 
@@ -22,13 +20,27 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Source registered; page map 150/150; Tamil page records 6/150 verified; translation blocked by Tamil audit gate** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Source-extent reconciliation active; Tamil Digital Library: 443 p.; current renderer exposes scans 1–150 only; exact PDF scan count pending; transcription/audit blocked from advancing until full manifest is recovered** |
 
-### புதையல் — source caution
+### புதையல் — source-extent correction
 
-The supplied scan contains **150 scans** and ends at visible printed page **148** while body prose is still present. No explicit closing/back matter appears in the supplied PDF. The archive preserves the supplied scan exactly and treats source completeness as an audit item; no continuation is reconstructed.
+The repository previously treated **150 rendered scans** as the complete PDF. That claim has been withdrawn.
 
-Source PDF in repository: **No**.
+Tamil Digital Library's bibliographic record for `புதையல்` reports **443 p.**, and the current item page lists **PDF — 2 Files**. Therefore scans 1–150 are only a currently exposed prefix, not a complete source manifest.
+
+Current state:
+
+- exact PDF scan/page-object count — **pending**;
+- page map — **prefix scans 1–150 only; full coverage incomplete**;
+- page records created — **8**;
+- verified — **6**;
+- needs-review — **2** (`scans 7–8`);
+- SHA-256 — **pending**;
+- source PDF committed — **No**.
+
+Correction record: [`works/pudhaiyal/notes/source-page-count-reconciliation.md`](works/pudhaiyal/notes/source-page-count-reconciliation.md).
+
+The attached scan remains controlling for exact edition wording. It visibly says **`மூன்றாம் பதிப்பு, செப்டம்பர், 1961`**, even though a catalogue summary elsewhere labels the work `முதல் பதிப்பு, 1961`; that catalogue wording does not override the scan.
 
 ## நிறைவு பெற்ற reference work
 
@@ -57,7 +69,6 @@ Source continuity:
 - assembled Tamil reading layer — **PASSED**
 - English translation plan — **COMPLETE**
 - English Batches 1–6 — **reviewed**
-- English body-text coverage — **scans 4–33 complete**
 - final bilingual alignment — **PASSED**
 - whole-work English — **VERIFIED**
 - release-readiness pass — **PASSED**
@@ -74,11 +85,6 @@ Key files:
 - [`works/balipeedam-nokki/translations/en/GLOSSARY.md`](works/balipeedam-nokki/translations/en/GLOSSARY.md)
 - [`works/balipeedam-nokki/translations/en/TRANSLATION_REVIEW.md`](works/balipeedam-nokki/translations/en/TRANSLATION_REVIEW.md)
 - [`works/balipeedam-nokki/translations/en/RELEASE_REPORT.md`](works/balipeedam-nokki/translations/en/RELEASE_REPORT.md)
-- [`works/balipeedam-nokki/translations/en/sections/01-opening-frame.md`](works/balipeedam-nokki/translations/en/sections/01-opening-frame.md)
-- [`works/balipeedam-nokki/translations/en/sections/02-rayasam-venganna-sequence.md`](works/balipeedam-nokki/translations/en/sections/02-rayasam-venganna-sequence.md)
-- [`works/balipeedam-nokki/translations/en/sections/03-return-and-conclusion.md`](works/balipeedam-nokki/translations/en/sections/03-return-and-conclusion.md)
-
-The release report records the final Tamil + English inventory, verifies reader-facing navigation and confirms that the repository tree contains no committed source PDF. The audited Tamil `pages/` layer remains controlling authority.
 
 `RELEASE-READY` is an editorial/archival repository status and is not, by itself, a copyright or republication-rights determination.
 
@@ -96,6 +102,7 @@ works/
     README.md
     metadata/source.md
     indexes/page-map.md
+    notes/source-page-count-reconciliation.md
     pages/
 ```
 
