@@ -10,12 +10,27 @@
 
 - source identity from scan — **confirmed**
 - repository duplicate check — **no existing `புதையல்` work found**
-- source metadata — **initial registration complete**
-- page map — **initial 150-scan manifest being established**
-- Tamil page records — **front matter started**
+- source metadata — **initial registration complete; SHA-256 pending exact byte-level calculation**
+- page map — **150 / 150 supplied scans mapped**
+- Tamil page records — **8 / 150 created**
+- `verified` — **6**
+- `needs-review` — **2** (`scans 7–8`)
+- `not-started` — **142**
 - Tamil source audit — **not started**
 - assembled Tamil reading layer — **blocked by Tamil audit gate**
 - English translation — **blocked by Tamil audit gate**
+
+## First body-text review batch — scans 7–8
+
+Scans 7 and 8 were directly inspected as the opening `அறிமுகம்` batch.
+
+- scan 7 clearly carries the printed heading `அறிமுகம்:` and has no visible printed page number;
+- scan 8 is a continuation of the same `அறிமுகம்` and visibly prints page **6**;
+- page records now exist for both scans;
+- the currently available rendered source view was not sufficiently legible for reliable full character-by-character transcription;
+- therefore both records are conservatively held at **`needs-review`** rather than filling uncertain words from context, OCR, external texts or normalization.
+
+The next source-critical step is to re-inspect scans 7–8 at enlarged/native source resolution, complete their exact Tamil transcription, and mark them `verified` only after direct source comparison succeeds.
 
 ## Source structure observed
 
@@ -53,7 +68,7 @@ The supplied PDF ends on scan 150, visibly printed page **148**, while body pros
 - Filename: `TVA_BOK_0064097_புதையல்.pdf`
 - File size: **502,895,096 bytes**
 - Scan pages: **150**
-- SHA-256: **pending local byte-level calculation**
+- SHA-256: **pending exact byte-level calculation**
 - Source PDF committed to repository: **No**
 
 Full source record: [`metadata/source.md`](metadata/source.md).  
