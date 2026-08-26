@@ -4,11 +4,11 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 
 > **Critical correction:** this manifest currently covers only the **known prefix through scan 150**. It is **not a complete source manifest**. Tamil Digital Library describes the same item as **443 p.**, and later split-source parts are still required to establish the exact full scan count.
 
-> **Split-source verification:** `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` is available as an access derivative of the controlling source and is not committed to this repository.
+> **Split-source verification:** `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` is an access derivative of the controlling source, is not committed to this repository, and has now been fully transcribed / visually audited through its final scan 49.
 
-> **Fidelity correction:** the assistant's earlier visual-correction pass for scans 23–32 was invalidated. Those pages were subsequently re-audited against native 3146 × 4826 embedded scan images, reconciled item by item, source punctuation was restored, and a final page-by-page comparison was completed. Scans 23–32 are now `verified` with zero unresolved readings.
+> **Fidelity correction history:** the assistant's earlier visual-correction pass for scans 23–32 was invalidated. Those pages were subsequently re-audited and reconciled. Scans 33–49 were then checked against split part 001 with the user's Iteration 4 as baseline, physical page boundaries restored, and source-established differences applied. Scans 1–49 are now `verified` with zero unresolved readings.
 
-> **Work-level rule:** `புதையல்` is one continuous work. `அறிமுகம்` and numbered chapter headings are internal units unless full-source evidence establishes otherwise.
+> **Work-level rule:** `புதையல்` is one continuous work. `அறிமுகம்`, numbered chapters, and the embedded historical tale beginning at scan 47 are internal units unless full-source evidence establishes otherwise.
 
 > **Printed-page rule:** record a printed page number only when it is visibly printed. Scan 13 begins chapter 1 between visibly numbered pages 10 and 12, but no page number is printed on that scan; it is therefore recorded as `—`, not inferred as 11.
 
@@ -48,23 +48,23 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 | 30 | 28 | chapter 2 closes / chapter 3 begins | verified | `pages/0030-pudhaiyal.md` |
 | 31 | 29 | chapter 3 | verified | `pages/0031-pudhaiyal.md` |
 | 32 | 30 | chapter 3 | verified | `pages/0032-pudhaiyal.md` |
-| 33 | 31 | chapter 3 | not-started | `pages/0033-pudhaiyal.md` |
-| 34 | 32 | chapter 3 | not-started | `pages/0034-pudhaiyal.md` |
-| 35 | 33 | chapter 3 | not-started | `pages/0035-pudhaiyal.md` |
-| 36 | 34 | chapter 3 | not-started | `pages/0036-pudhaiyal.md` |
-| 37 | 35 | chapter 3 | not-started | `pages/0037-pudhaiyal.md` |
-| 38 | 36 | chapter 3 | not-started | `pages/0038-pudhaiyal.md` |
-| 39 | 37 | chapter 3 | not-started | `pages/0039-pudhaiyal.md` |
-| 40 | 38 | chapter 4 begins | not-started | `pages/0040-pudhaiyal.md` |
-| 41 | 39 | chapter 4 | not-started | `pages/0041-pudhaiyal.md` |
-| 42 | 40 | chapter 4 | not-started | `pages/0042-pudhaiyal.md` |
-| 43 | 41 | chapter 4 | not-started | `pages/0043-pudhaiyal.md` |
-| 44 | 42 | chapter 4 | not-started | `pages/0044-pudhaiyal.md` |
-| 45 | 43 | chapter 4 | not-started | `pages/0045-pudhaiyal.md` |
-| 46 | 44 | chapter 4 | not-started | `pages/0046-pudhaiyal.md` |
-| 47 | 45 | chapter 4 | not-started | `pages/0047-pudhaiyal.md` |
-| 48 | 46 | chapter 4 | not-started | `pages/0048-pudhaiyal.md` |
-| 49 | 47 | chapter 4 | not-started | `pages/0049-pudhaiyal.md` |
+| 33 | 31 | chapter 3 | verified | `pages/0033-pudhaiyal.md` |
+| 34 | 32 | chapter 3 | verified | `pages/0034-pudhaiyal.md` |
+| 35 | 33 | chapter 3 | verified | `pages/0035-pudhaiyal.md` |
+| 36 | 34 | chapter 3 | verified | `pages/0036-pudhaiyal.md` |
+| 37 | 35 | chapter 3 | verified | `pages/0037-pudhaiyal.md` |
+| 38 | 36 | chapter 3 | verified | `pages/0038-pudhaiyal.md` |
+| 39 | 37 | chapter 3 | verified | `pages/0039-pudhaiyal.md` |
+| 40 | 38 | chapter 3 closes / chapter 4 begins | verified | `pages/0040-pudhaiyal.md` |
+| 41 | 39 | chapter 4 | verified | `pages/0041-pudhaiyal.md` |
+| 42 | 40 | chapter 4 | verified | `pages/0042-pudhaiyal.md` |
+| 43 | 41 | chapter 4 | verified | `pages/0043-pudhaiyal.md` |
+| 44 | 42 | chapter 4 | verified | `pages/0044-pudhaiyal.md` |
+| 45 | 43 | chapter 4 | verified | `pages/0045-pudhaiyal.md` |
+| 46 | 44 | chapter 4 / transition into embedded tale | verified | `pages/0046-pudhaiyal.md` |
+| 47 | 45 | chapter 4 / embedded historical tale | verified | `pages/0047-pudhaiyal.md` |
+| 48 | 46 | chapter 4 / embedded historical tale | verified | `pages/0048-pudhaiyal.md` |
+| 49 | 47 | chapter 4 / embedded historical tale; part 001 endpoint mid-sentence | verified | `pages/0049-pudhaiyal.md` |
 | 50 | 48 | chapter 4 | not-started | `pages/0050-pudhaiyal.md` |
 | 51 | 49 | chapter 4 | not-started | `pages/0051-pudhaiyal.md` |
 | 52 | 50 | chapter 5 begins | not-started | `pages/0052-pudhaiyal.md` |
@@ -171,14 +171,14 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 
 - Tamil Digital Library bibliographic extent: **443 p.**
 - Exact full-PDF scan/page-object count: **pending complete source reconciliation**
-- Split part 001 available: **scans 1–49**
+- Split part 001 available: **scans 1–49 — COMPLETE / VERIFIED**
 - Known-prefix rows mapped above: **150**
 - Full-source page-map coverage: **INCOMPLETE**
-- Page records actually created: **32**
-- `verified`: **32** — scans 1–32
+- Page records actually created: **49**
+- `verified`: **49** — scans 1–49
 - `needs-review`: **0**
-- unresolved readings through scan 32: **0**
-- remaining known-prefix rows `not-started`: **118**
+- unresolved readings through scan 49: **0**
+- remaining known-prefix rows `not-started`: **101**
 - scans beyond 150: **not yet fully mapped**
 - Source PDF / split PDFs stored in repository: **No**
 
@@ -189,12 +189,12 @@ Directly established structural checkpoints currently retained:
 - `அறிமுகம்` — scans 7–12
 - chapter 1 — scan 13 begins; scan 22 closes chapter 1 and begins chapter 2 on the same physical scan
 - chapter 2 — continues through scan 30; scan 30 closes chapter 2 and begins chapter 3 on the same physical scan
-- chapter 3 — continues through scan 39
-- chapter 4 — scan 40 begins
+- chapter 3 — continues through scan 39; scan 40 closes chapter 3 and begins chapter 4 on the same physical scan
+- chapter 4 — begins on scan 40; scan 46 carries a four-star internal transition; scan 47 begins an embedded historical tale that continues beyond split part 001
 - later chapter checkpoints through scan 150 remain provisional known-prefix structure pending full-source reconciliation
 
 No claim is currently made about the final chapter number or actual source ending.
 
 ## Exact next activity
 
-Process **scans 33–42 / printed pages 31–40** from split part 001. This continues chapter 3 through scans 33–39, begins chapter 4 at scan 40 / printed page 38, and continues chapter 4 through scans 41–42. Use the user's supplied transcription as the comparison baseline and the native embedded scan image as textual authority. Preserve physical page boundaries and mark a page `verified` only after final direct visual comparison.
+Use the next split containing original **scan 50 onward**. First inspect scan 50 against scan 49's unfinished ending `அவள் அப்பனும்,`, confirm cross-part continuity, then continue page-record creation and visual-fidelity transcription from scan 50. Do not start English translation.
