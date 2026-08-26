@@ -12,28 +12,41 @@
 - Script: Tamil
 - Controlling textual source: the supplied scanned PDF
 
-> **Correction:** the earlier `Scan pages: 150` claim was wrong. `150` is only the known prefix that had initially been exposed/inspected. It must not be treated as the complete PDF/source extent.
+> **Correction:** the earlier `Scan pages: 150` claim was wrong. `150` is only the known prefix initially exposed by the renderer. It must not be treated as the complete PDF/source extent.
 
 Detailed correction record: [`../notes/source-page-count-reconciliation.md`](../notes/source-page-count-reconciliation.md).
 
 ## Split-source verification parts
 
-The user is supplying non-recompressed page-range splits of the controlling source so that the full work can be inspected at usable visual resolution.
+The source is being handled through page-range access derivatives so the full work can be checked at usable visual resolution.
 
-Currently received:
+### Part 001 — available and complete
 
-- `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`
-  - source scan range represented: **1–49**
-  - split PDF page count: **49**
-  - split file size available in the chat runtime: **52,760,797 bytes**
-  - use: enlarged/native visual verification aid for the same controlling source pages
-  - committed to repository: **No**
+`TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`
 
-This split is a derivative access copy of the controlling source. It does not establish a new edition or replace the original source identity.
+- source scan range represented: **1–49**
+- split PDF page count: **49**
+- split file size available in the chat runtime: **52,760,797 bytes**
+- embedded page-image dimensions previously established: **3146 × 4826**
+- transcription / visual audit: **49 / 49 COMPLETE / VERIFIED**
+- committed to repository: **No**
+
+### Part 002 — named by user, not currently attached
+
+`TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf`
+
+- intended source scan range represented: **50–98**
+- current attachment state in this conversation: **not available**
+- user-supplied Iteration 5 baseline received for **scans 50–62 / printed pages 48–60**
+- renderer-level structure / physical-boundary check for scans 50–62: **complete**
+- native-resolution letter-by-letter verification: **pending**
+- committed to repository: **No**
+
+These splits are derivative access copies of the controlling source. They do not establish a new edition or replace the original source identity.
 
 ## Title / authorship visible in the scan
 
-Direct inspection of scans 1 and 3 establishes:
+Direct inspection establishes:
 
 - Title: **புதையல்**
 - Author line: **கலைஞர் மு. கருணாநிதி, எம். எல். ஏ.**
@@ -42,7 +55,7 @@ The filename was not used as authority for this identification.
 
 ## Publication details visible in the scan
 
-Direct letter-by-letter reinspection of scans 1, 3, 4 and 5 in split part 001 establishes:
+Direct reinspection of the front matter establishes:
 
 - Publisher / imprint: **அன்புப் பதிப்பகம்**
 - Place line: **பொறையார் :: தஞ்சை மாவட்டம்**
@@ -54,26 +67,15 @@ Direct letter-by-letter reinspection of scans 1, 3, 4 and 5 in split part 001 es
 - Scan 5 is headed **`பதிப்புரை`**.
 - Scan 5 prints **`தமிழர்கள் ஆதரிக்க வேண்டுகின்றோம்.`**
 
-The split-source fidelity pass corrected earlier transcription punctuation after `ரூ`; no full stop is visibly printed there.
-
 ### Catalogue discrepancy — do not override the scan
 
-The Tamil Digital Library Kalaignar special page summarizes the item as `முதல் பதிப்பு, 1961`, while the controlling scan visibly says `மூன்றாம் பதிப்பு, செப்டம்பர், 1961`.
+A Tamil Digital Library summary elsewhere says `முதல் பதிப்பு, 1961`, while the controlling scan visibly says `மூன்றாம் பதிப்பு, செப்டம்பர், 1961`.
 
-For this repository edition, the **scan-printed edition statement governs**. The catalogue summary is not used to silently replace it.
+For this repository edition, the **scan-printed edition statement governs**.
 
 ## External source-extent corroboration
 
-The same Tamil Digital Library item is publicly catalogued as:
-
-- title: `புதையல்`;
-- author: கருணாநிதி, கலைஞர் மு.;
-- publisher: அன்புப் பதிப்பகம், தஞ்சை;
-- year: 1961;
-- physical description: **443 p.**;
-- subject/tags: இலக்கியம் / புதினம் / நாவல்.
-
-The current Tamil Digital Library article page also lists **PDF — 2 Files** for `TVA_BOK_0064097`.
+The same Tamil Digital Library item is publicly catalogued with physical description **443 p.**. The current Tamil Digital Library article page also lists **PDF — 2 Files** for `TVA_BOK_0064097`.
 
 These catalogue facts establish that the first 150 known scans are not the full source extent. They are used only for source-completeness reconciliation; they do not replace direct scan readings.
 
@@ -85,75 +87,77 @@ Public references:
 
 ## Front-matter / provenance observations
 
-- **Scan 1:** illustrated/typographic cover; title, author and publisher/place lines are printed.
-- **Scan 2:** largely blank reverse/front-matter page. A later provenance/donation line appears at the bottom: `பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின் அன்பளிப்பு`. This is recorded as copy/provenance material, not merged into the literary text.
-- **Scan 3:** title page. A handwritten signature/date-like annotation is visible near the upper-right area; it is not printed book text.
+- **Scan 1:** cover with title, author and publisher/place lines.
+- **Scan 2:** largely blank reverse/front-matter page; later provenance/donation line recorded separately.
+- **Scan 3:** title page; handwritten signature/date-like annotation is copy-specific and not printed edition text.
 - **Scan 4:** price and edition/publication page.
 - **Scan 5:** publisher's `பதிப்புரை`.
 - **Scan 6:** effectively blank with staining/wear.
 
-## Printed-page numbering behaviour — direct visual rule
+## Printed-page numbering behaviour
 
 Record a printed page number only where the numeral is actually visible.
 
-Direct split-source inspection currently establishes:
+Established examples:
 
-- scans **1–7**: no visible printed page number → `null` / `—`;
+- scans **1–7**: no visible printed page number;
 - scan **8**: printed **6**;
-- scan **9**: printed **7**;
-- scan **10**: printed **8**;
-- scan **11**: printed **9**;
-- scan **12**: printed **10**;
-- scan **13**: chapter-1 title page; **no printed page number visible** → `null` / `—` (do **not** infer 11);
+- scans **9–12**: printed **7–10**;
+- scan **13**: chapter-1 opening with **no visible printed page number** — do not infer 11;
 - scan **14**: printed **12**;
-- scans **15–22**: visibly continue through printed **13–20**.
+- subsequent processed body scans visibly continue the printed numbering through scan **62 / printed page 60**.
 
-The earlier blanket statement that every scan from 8 onward visibly carried a continuous number is therefore corrected. Later prefix numbers already noted in the manifest remain provisional/direct-inspection records until their split-source ranges are re-audited.
+The page map remains the controlling per-scan record.
 
-## Work-level structure — provisional prefix only
+## Work-level structure — current evidence
 
-The known first 150 scans belong to one continuous work, `புதையல்`. Within that prefix:
+`புதையல்` is one continuous work. Current processed / renderer-confirmed structure:
 
 ```text
 புதையல்
 ├── scans 7–12: அறிமுகம்
-├── scans 13–21: chapter 1
-├── scan 22: chapter 1 closes; chapter 2 begins on same physical scan
-├── scans 23–30: chapter 2 continues
-├── scans 31–39: chapter 3
-├── scans 40–51: chapter 4
-├── scans 52–59: chapter 5
-├── scans 60–68: chapter 6
-├── scans 69–74: chapter 7
-├── scans 75–83: chapter 8
-├── scans 84–92: chapter 9
-├── scans 93–101: chapter 10
-├── scans 102–109: chapter 11
-├── scans 110–118: chapter 12
-├── scans 119–127: chapter 13
-├── scans 128–137: chapter 14
-├── scans 138–145: chapter 15
-└── scan 146 onward: chapter 16 begins within the known prefix
+├── scan 13: chapter 1 begins
+├── scan 22: chapter 1 closes; chapter 2 begins on same scan
+├── scan 30: chapter 2 closes; chapter 3 begins on same scan
+├── scan 40: chapter 3 closes; chapter 4 begins on same scan
+├── scan 46: four-star internal transition
+├── scan 47: embedded historical tale begins inside chapter 4
+├── scan 49: split part 001 ends mid-sentence
+├── scan 50: embedded historical tale continues
+├── scan 52: chapter 4 closes; chapter 5 begins on same scan
+└── scan 60: chapter 5 closes; chapter 6 begins on same scan
 ```
 
-The numbered headings are internal chapters of the same work unless later full-source evidence establishes otherwise.
+The embedded historical tale is an internal textual unit, not a separate work.
 
-## Verified canonical Tamil layer so far
+Later chapter checkpoints in the 150-row prefix remain provisional until their split-source ranges are directly inspected.
 
-Split part 001 has enabled direct letter-by-letter verification of scans **1–22**.
+## Canonical Tamil layer — current state
 
-- scans 1–6 — front matter / blank: verified;
-- scans 7–12 — complete `அறிமுகம்`: verified;
-- scans 13–21 — chapter 1: verified;
-- scan 22 — chapter 1 ending + chapter 2 opening: verified;
-- unresolved readings in scans 1–22: **0**.
+- scans **1–49**: **verified** after direct split-source visual audit and correction history;
+- scans **50–62**: user-supplied baseline loaded and physically segmented; **needs-review** pending native part-002 inspection;
+- page records created: **62**;
+- verified: **49**;
+- needs-review: **13**;
+- known-prefix not-started: **88**.
 
-Detailed fidelity notes:
+Fidelity records:
 
 - [`../notes/visual-fidelity-scans-001-012.md`](../notes/visual-fidelity-scans-001-012.md)
 - [`../notes/visual-fidelity-scans-013-022.md`](../notes/visual-fidelity-scans-013-022.md)
+- [`../notes/visual-fidelity-scans-023-032.md`](../notes/visual-fidelity-scans-023-032.md)
+- [`../notes/visual-fidelity-scans-033-049.md`](../notes/visual-fidelity-scans-033-049.md)
+- [`../notes/visual-fidelity-scans-050-062.md`](../notes/visual-fidelity-scans-050-062.md) — native part-002 audit pending
 
-Important physical continuities retained include scan 13 `அவன் மீதுள்ள` → scan 14 `அன்பால்`, scan 16 `படபடப்பை` → scan 17 `உண்டாக்கியது தெரியுமா?`, and scan 20 `அந்தப் பயலும்` → scan 21 `சிறுக்கியும்...`.
+Important Iteration 5 physical continuities currently preserved include:
+
+- scan 52 `அந்த` → scan 53 `வீட்டிற்கு...`;
+- scan 54 `போயி` → scan 55 `யைப்பாரு...`;
+- scan 55 `வெளியேறியிருந்தாலும்-` → scan 56 `அவர்கள்...`;
+- scan 56 `பிறகு` → scan 57 `பாடினாள்...`;
+- scan 57 `ஆசைப்` → scan 58 `படுகிறோம்...`.
+
+Because part 002 is not attached, no small-print glyph or punctuation disagreement in scans 50–62 should be resolved from the reduced full-PDF renderer alone.
 
 ## Source extent / completeness status
 
@@ -165,17 +169,11 @@ Current state:
 - scan 150 / printed page 148 is **not** treated as the source ending;
 - no closing-page, `முற்றும்`, advertisement, blank end leaf or back cover claim may be made until later scans are directly inspected.
 
-The page manifest is therefore a **provisional prefix manifest**, not a 100% coverage map.
+The page manifest is therefore a **provisional prefix manifest**, not a complete-source map.
 
 ## Scan / physical-copy condition — observed prefix
 
-Observed pages show:
-
-- aged paper, staining and edge/binding wear;
-- intermittent bleed-through;
-- handwritten marks / underlines / marginal marks on some body pages;
-- copy-specific handwriting on title/front matter;
-- chapter-number ornaments and horizontal rules as printed features.
+Observed pages show aged paper, staining and edge/binding wear, intermittent bleed-through, handwritten marks / underlines / marginal marks on some body pages, and copy-specific handwriting on title/front matter.
 
 Printed text must remain separate from handwriting, ownership/provenance marks, underlining, stains, bleed-through and scanner artefacts.
 
@@ -183,7 +181,7 @@ Printed text must remain separate from handwriting, ownership/provenance marks, 
 
 ### Full page count
 
-The full 502,895,096-byte PDF has not yet been available to the runtime for reliable whole-file inspection. Page-range splitting is the working access method. The exact full scan count will be established as remaining split parts are supplied and reconciled.
+The exact full scan count remains pending. Page-range splitting is the working access method.
 
 ### SHA-256
 
@@ -197,8 +195,10 @@ The supplied scan is the controlling source for edition text. OCR, filename, cat
 
 ## Exact next source-registration / transcription action
 
-1. continue direct visual transcription within split part 001 with **scans 23–26 / printed pages 21–24**;
-2. preserve source page boundaries, punctuation, colloquial forms and cross-page continuities;
-3. as later split parts arrive, extend `indexes/page-map.md` beyond the current 150-row prefix and establish the true full-source scan count;
-4. calculate the exact original-source SHA-256 when byte-level access becomes available;
-5. do not start English translation.
+1. make `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf` available;
+2. native-verify the existing baseline records for scans **50–62 / printed pages 48–60**;
+3. apply only source-established differences and perform a final page-by-page pass before promotion to `verified`;
+4. after that gate passes, continue from scan **63 / printed page 61** onward;
+5. extend the page map beyond the current 150-row prefix as later split parts establish the full source;
+6. calculate the original-source SHA-256 when byte-level access becomes available;
+7. do not start English translation.
