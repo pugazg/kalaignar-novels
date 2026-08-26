@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied transcription restored after disputed assistant visual pass; pending fresh direct visual re-audit"
+transcription_method: "user-supplied baseline retained; native-resolution re-audit completed; discrepancies pending confirmation"
 ---
 
 இந்தப் பக்கம் போறோம் நீங்க அந்தப் பக்கம் போங்க!".
@@ -24,6 +24,6 @@ transcription_method: "user-supplied transcription restored after disputed assis
 
 ## Review status
 
-The previous assistant visual corrections for this iteration are invalidated. User-supplied wording is restored pending a fresh direct visual re-audit.
+Native 3146 × 4826 scan re-audit completed. Canonical user baseline is intentionally unchanged. The source clearly appears to print `சிறு ஆறுதல் அளித்தது` and `சற்று ஆறுதல் அளித்தது`; the `அவர்களே நோக்கி` / `அவர்களை நோக்கி` point is retained as an explicit disputed candidate. Source punctuation also differs systematically. See `../notes/visual-fidelity-scans-023-032.md`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 24; அச்சுப் பக்கம்: 22 -->
