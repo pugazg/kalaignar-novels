@@ -44,40 +44,63 @@ This split is an access derivative of the controlling source, not a new edition.
 
 ### Scans 1–12 — front matter + `அறிமுகம்`
 
-Current repository status remains `verified`. Detailed review: [`notes/visual-fidelity-scans-001-012.md`](notes/visual-fidelity-scans-001-012.md).
+Current repository status remains `verified`. Scan 12 / printed page 10 was explicitly reopened and rechecked during the later high-resolution audit; no rollback was required.
 
-### Scans 13–22 — chapter 1 + chapter 2 opening
+Detailed review: [`notes/visual-fidelity-scans-001-012.md`](notes/visual-fidelity-scans-001-012.md).
 
-Current repository status remains `verified`. Detailed review: [`notes/visual-fidelity-scans-013-022.md`](notes/visual-fidelity-scans-013-022.md).
+### Scans 13–22 — corrected high-resolution re-audit
 
-Important structural result retained: scan 22 / printed page 20 closes chapter `1` and begins chapter `2` on the same physical scan.
+After the Iteration 3 hallucination problem was identified, this earlier range was **not trusted automatically**. The native embedded scan images were extracted from the split PDF at **3146 × 4826** and the earlier assistant-vs-user discrepancies were rechecked.
+
+The fresh re-audit found that several earlier assistant corrections were themselves wrong. Canonical records have been corrected.
+
+Withdrawn assistant readings include:
+
+- scan 13: `அப்போதுதான்` → corrected to `அப்போது தான்`;
+- scan 13: `கையிலும்` → corrected to `கையிலேயும்` (`கையிலே` / `யும்` across the printed line break);
+- scan 15: `நம்பிக்கையுண்டு` → `நம்பிக்கை யுண்டு`;
+- scan 15: `அதனால்தான்` → `அதனால் தான்`;
+- scan 15: `தன உயிருக்கு` → `தன உயிருக்கே`;
+- scan 15: `அவர்களும் வந்துவிட்டார்கள்` → `அவர்களும் வந்து விட்டார்கள்`;
+- scan 16: `அடங்கிவிட்டதாகத் தானே` → `அடங்கி விட்டதாகத் தானே`;
+- scan 17: `இடையிலேதான்` → `இடையிலே தான்`;
+- scan 17: `ஆராய்ந்து விட்டோமே` → `ஆராய்ந்து விட்டோம்`;
+- scan 17: `சரியாகத்தான்` → `சரியாகத் தான்`;
+- scan 19: `அவ்வளவுதான்` → `அவ்வளவு தான்`;
+- scan 19: `நாளை தவற` → `நாளைத் தவற`;
+- scan 21: `அடிபட்டுவிட்டதால்` → `அடிபட்டு விட்டதால்`.
+
+The re-audit also confirmed that not every earlier correction was wrong. Still scan-supported are, among others:
+
+- scan 13 has no visible printed page number;
+- scan 14 `மருங்கப் பள்ளத்தின்` / `பூமியைத் தோண்டிப்`;
+- scan 15 `மெளனமாய்` / `மெளனமாக்கியது`;
+- scan 16 inscription through `கம்மாளர் கண்ணிலே......`;
+- scan 18 four opening lines `அத்தான்!`, `கண்ணே!`, `ராஜா!`, `என்னடி ராஜாத்தி!`, and later `மறக்க மாட்டீர்களே கண்ணே!`;
+- scan 19 `வெளவாலிடம்` / `வெளவால்`;
+- scan 22 chapter `2` begins on the same physical scan after chapter `1` closes.
+
+Scans **1–22 therefore remain `verified`**, but the verification record now reflects the corrected native-resolution re-audit rather than the earlier flawed pass.
+
+Corrected report: [`notes/visual-fidelity-scans-013-022.md`](notes/visual-fidelity-scans-013-022.md).
 
 ### Scans 23–32 — Iteration 3 correction
 
-The assistant's claimed visual-fidelity corrections for this range were **invalidated by the user**. The user explicitly confirmed that the Iteration 3 transcription they supplied is correct and that the assistant's proposed replacements were hallucinated.
+The assistant's claimed visual-fidelity corrections for this range were **invalidated by the user**. The user's Iteration 3 wording has been restored to `pages/0023-pudhaiyal.md` through `pages/0032-pudhaiyal.md`.
 
-Actions taken:
-
-- restored `pages/0023-pudhaiyal.md` through `pages/0032-pudhaiyal.md` to the user's supplied Iteration 3 wording;
-- withdrew all assistant-proposed source-reading corrections from that pass;
-- changed scans 23–32 from `verified` to **`needs-review`** because the assistant visual verification cannot be relied upon;
-- retained the source PDFs outside the repository.
+These ten scans are currently **`needs-review`** because the assistant's earlier visual verification cannot be relied upon. The source PDF / split PDF remains outside the repository.
 
 Invalidation record: [`notes/visual-fidelity-scans-023-032.md`](notes/visual-fidelity-scans-023-032.md).
 
 ### Revised verification rule
 
-For subsequent user-supplied transcription batches, the supplied transcription is the baseline. Visual checking must not silently replace it. If an old Tamil glyph, spacing, punctuation mark or word appears different, record that exact point as `needs-review` and surface it for confirmation instead of committing an assistant-inferred reading.
-
-This rule is especially important for degraded print and old Tamil glyph forms.
+For subsequent user-supplied transcription batches, the supplied transcription is the baseline. Visual checking must not silently replace it. Native embedded scan images should be used before making any claim about an old-print glyph or spacing. If a reading remains ambiguous, mark the exact item `needs-review` and surface it for confirmation instead of committing an assistant inference.
 
 ## Physical page structure currently retained
 
-The chapter/page-boundary structure itself remains recorded separately from disputed textual readings:
-
 - scan 22 / printed 20 — chapter 1 closes / chapter 2 begins on the same physical scan;
 - scan 30 / printed 28 — chapter 2 closes / chapter 3 begins on the same physical scan;
-- scan 32 / printed 30 ends mid-sentence at `காலைத்` in the supplied transcription.
+- scan 32 / printed 30 ends mid-sentence at `காலைத்` in the restored user transcription.
 
 ## Source structure — currently known prefix only
 
@@ -120,10 +143,10 @@ Current prefix manifest: [`indexes/page-map.md`](indexes/page-map.md).
 
 ## Authority
 
-The source scan remains the controlling source. The user's supplied transcription must not be overridden merely because the assistant believes an ambiguous old-print glyph looks different. OCR, catalogue material, grammar expectations and assistant visual inference are aids only.
+The source scan remains the controlling source. The user's supplied transcription must not be overridden merely because an ambiguous old-print glyph appears different in a small preview. OCR, catalogue material, grammar expectations and assistant visual inference are aids only.
 
 ## Exact next activity
 
-**Pause before advancing to scans 33–42.** Scans 23–32 have been restored to the user's Iteration 3 transcription and are currently `needs-review` because the previous visual pass was invalidated.
+**Do not advance to scans 33–42 yet.** The next unresolved text range is scans **23–32**, whose user-supplied Iteration 3 transcription has been restored and is currently `needs-review`.
 
-When transcription work resumes, use the user's supplied text as the baseline and flag apparent source discrepancies for confirmation rather than silently changing the canonical text. Continue full-source reconciliation as later split parts are supplied. Do not start English translation.
+When work resumes, use native embedded scan images, keep the user's text as baseline, and flag only genuinely unresolved discrepancies. Continue full-source reconciliation as later split parts are supplied. Do not start English translation.
