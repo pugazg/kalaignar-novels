@@ -43,10 +43,10 @@ When the user supplies a transcription:
 
 - use it as the comparison baseline;
 - do **not** treat it as higher authority than the scan;
-- do **not** replace it merely because a small preview appears different;
-- inspect the native embedded scan image first;
+- do **not** replace it merely because a preview appears different;
+- inspect the actual split-source page image;
 - isolate every apparent source-vs-baseline difference and recheck it individually;
-- change canonical text only after the native scan establishes the reading;
+- change canonical text only after the scan establishes the reading;
 - after reconciliation, perform a final direct page-by-page visual comparison before using `verified`.
 
 OCR, grammar expectations, catalogue text and modern spelling are aids only.
@@ -109,22 +109,24 @@ Received access split:
 - represented source scans: **1–49**
 - split pages: **49**
 - split size available in chat runtime: **52,760,797 bytes**
-- embedded page-image size: **3146 × 4826**
+- previously established embedded page-image dimensions: **3146 × 4826**
+- transcription / direct visual audit: **49 / 49 COMPLETE / VERIFIED**
 - committed to GitHub: **No**
 
-The native embedded page image, not the smaller preview renderer, must be used for textual-fidelity decisions.
+The split is an access derivative of the controlling edition, not a new edition.
 
 ---
 
 # 6. Current Tamil state
 
-Canonical page records exist through scan **32**.
+Canonical page records exist through scan **49**.
 
-- page records created: **32**
-- `verified`: **32** — scans 1–32
+- page records created: **49**
+- `verified`: **49** — scans 1–49
 - `needs-review`: **0**
-- unresolved readings through scan 32: **0**
-- known-prefix rows `not-started`: **118**
+- unresolved readings through scan 49: **0**
+- known-prefix rows `not-started`: **101**
+- split part 001: **COMPLETE / VERIFIED**
 - full-source page-map coverage: **INCOMPLETE**
 - Tamil whole-work audit: **not started**
 - assembled Tamil layer: **blocked**
@@ -133,84 +135,84 @@ Canonical page records exist through scan **32**.
 Fidelity records:
 
 - `works/pudhaiyal/notes/visual-fidelity-scans-001-012.md`
-- `works/pudhaiyal/notes/visual-fidelity-scans-013-022.md` — corrected native-resolution re-audit
-- `works/pudhaiyal/notes/visual-fidelity-scans-023-032.md` — final native-resolution reconciliation; 10/10 verified; unresolved 0
+- `works/pudhaiyal/notes/visual-fidelity-scans-013-022.md` — corrected re-audit
+- `works/pudhaiyal/notes/visual-fidelity-scans-023-032.md` — final reconciliation; 10/10 verified; unresolved 0
+- `works/pudhaiyal/notes/visual-fidelity-scans-033-049.md` — split part 001 completion; 17/17 verified; unresolved 0
 
 ---
 
-# 7. Corrected native-resolution history — scans 12–22
+# 7. Corrected audit history — scans 12–32
 
-After hallucinated assistant corrections were discovered, printed pages 10–20 / scans 12–22 were reopened using native **3146 × 4826** page images.
+After hallucinated assistant corrections were discovered, scans 12–22 were reopened and several assistant errors were corrected. The four dialogue lines on scan 18 and chapter-2 transition on scan 22 were reconfirmed.
 
-Several earlier assistant corrections were found to be wrong and canonical files were fixed, including:
+Scans 23–32 were then re-audited from the restored user baseline, source-vs-baseline candidates were isolated and repeatedly checked, source punctuation was reconciled, and a final page-by-page comparison was completed.
 
-- `அப்போது தான்`
-- `கையிலேயும்`
-- `நம்பிக்கை யுண்டு`
-- `தன உயிருக்கே`
-- `அடங்கி விட்டதாகத் தானே`
-- `ஆராய்ந்து விட்டோம்`
-- `நாளைத் தவற`
-- `அடிபட்டு விட்டதால்`
+Important final points include:
 
-Some earlier source readings were reconfirmed, including the four dialogue lines on scan 18 and the chapter-2 transition on scan 22.
+- `அவர்களே தான்` rather than the withdrawn assistant candidate `அவர்களேதான்`;
+- `அவளை அவன் காப்பாற்றித் தீர வேண்டும்` rather than the withdrawn assistant candidate `அவளே அவன்...`;
+- `பழைய பிரார்த்தனையில்`;
+- `அவனைத் தழுவிக்`;
+- `தும்பைப்பூ`;
+- chapter `2` → `3` transition on scan 30 / printed page 28.
 
-Scans **1–22 are verified only on the basis of this corrected native-resolution state.**
+Scans **1–32 are verified only on the basis of the corrected/reconciled state.**
 
 ---
 
-# 8. Final native-resolution reconciliation — scans 23–32 / printed 21–30
+# 8. Iteration 4 / split part 001 completion — scans 33–49
 
-The user's restored Iteration 3 transcription was used as the comparison baseline. Native embedded page images were inspected at **3146 × 4826**, discrepancies were isolated and repeatedly checked, source punctuation was reconciled, and a final page-by-page comparison was completed.
+The user supplied a continuous Iteration 4 described as “Pages 31–49.” Physical source inspection establishes that this text corresponds to **source scans 33–49 / visibly printed pages 31–47**. The split PDF itself ends at scan 49 / printed page 47; it does not contain printed pages 48–49.
 
-Final source-confirmed points include:
+The continuous transcription was mapped back to physical scan boundaries and each page was directly visually compared with the split source.
 
-- scan 23: `மதகின் உள்ளேயிருந்தவர்களுக்கு`; `முரடர்களின் பேச்சு கூட` confirmed;
-- scan 24: `சிறு ஆறுதல் அளித்தது`, `சற்று ஆறுதல் அளித்தது`, `அவர்களே நோக்கி`;
-- scan 25: `ஏதோ`, `போனதாகவும்`, `உணர்ந்ததாகவும்` and source dialogue punctuation;
-- scan 26: `உண்மை தான்`, `மிக கூர்மையாக`, `அவனது நடையிலே வேகம் குறைந்தது` confirmed;
-- scan 27: `உதவுகிறது.` and `குளிர்காற்று` confirmed;
-- scan 28: `அவன் முதுகில்`;
-- scan 29: `அவர்களே தான்`, `கடல் பார்த்துக் கொண்டிருந்தாள்`, `அவளை அவன் காப்பாற்றித் தீர வேண்டும்`; previous assistant candidates `அவர்களேதான்` and `அவளே அவன்...` are explicitly withdrawn;
-- scan 30: `பழைய பிரார்த்தனையில்`; chapter `2` → `3` transition remains on this scan;
-- scan 31: punctuation after `மூர்ச்சை யடைந்தான்.`, plus `அவனைத் தழுவிக்`, `முயன்றும்—விடாமல்`, `கட்டிவிட்டார்`;
-- scan 32: `தும்பைப்பூ`; physical page ends at `காலைத்`.
+Source-established corrections include:
 
-The supplied clean transcription's systematic doubled terminal punctuation (`..`, `!.`, `?.`) was replaced only where native visual inspection established the printed punctuation.
+- scan 33: printed `“யார்?”` restored where the clean transcription had only `“?”`;
+- scan 37: `கிழவர்`, not clean-baseline `கிழ்வர்`;
+- scan 38: `தோணிக்கு`, not `தொணிக்கு`;
+- scan 41: `அவன் திறக்காமலாவது`;
+- scan 43: `புற்று நோய்`, not `புத்து நோய்`;
+- source punctuation / dash pauses restored instead of the clean transcription's systematic `..`, `!.`, `?.` forms.
 
-Final status for scans 23–32:
+Physical boundaries explicitly preserved include:
 
-- `verified`: **10 / 10**
+1. scan 32 `காலைத்` → scan 33 `தளிரில்`;
+2. scan 34 `அந்த` → scan 35 `உண்மை...`;
+3. scan 35 `பேச்சின்` → scan 36 `பாதியிலேயே...`;
+4. scan 38 `யாரும்` → scan 39 `எதிர்பாராமலே...`;
+5. scan 40 `காற்றுத் திசைக்கு` → scan 41 `ஏற்றாற்போல...`;
+6. scan 44 `இந்திரன்` → scan 45 `மகன் சயந்தன்...`;
+7. scan 45 `ஆழ்ந்து` → scan 46 `பார்க்கப் போனால்...`;
+8. scan 47 `சந்தோஷ` → scan 48 `மாக...`;
+9. scan 48 `எப்படிப்` → scan 49 `யாவது...`.
+
+Final status for scans 33–49:
+
+- `verified`: **17 / 17**
 - unresolved readings: **0**
-- canonical page records: synchronized
-- final report: `works/pudhaiyal/notes/visual-fidelity-scans-023-032.md`
+- canonical page records: `0033-pudhaiyal.md` through `0049-pudhaiyal.md`
+- final report: `works/pudhaiyal/notes/visual-fidelity-scans-033-049.md`
 
 ---
 
 # 9. Structural state established so far
 
-Within the known prefix:
+Within the directly processed split:
 
 - scans 1–6 — front matter / blank;
 - scans 7–12 — `அறிமுகம்`;
 - scan 13 — chapter `1` begins; no printed page number visible;
 - scan 22 / printed 20 — chapter `1` closes and chapter `2` begins on the same physical scan;
 - scan 30 / printed 28 — chapter `2` closes and chapter `3` begins on the same physical scan;
-- scan 40 / printed 38 — chapter `4` begins;
-- scan 52 / printed 50 — chapter `5` begins;
-- scan 60 / printed 58 — chapter `6` begins;
-- scan 69 / printed 67 — chapter `7` begins;
-- scan 75 / printed 73 — chapter `8` begins;
-- scan 84 / printed 82 — chapter `9` begins;
-- scan 93 / printed 91 — chapter `10` begins;
-- scan 102 / printed 100 — chapter `11` begins;
-- scan 110 / printed 108 — chapter `12` begins;
-- scan 119 / printed 117 — chapter `13` begins;
-- scan 128 / printed 126 — chapter `14` begins;
-- scan 138 / printed 136 — chapter `15` begins;
-- scan 146 / printed 144 — chapter `16` begins within the known prefix.
+- scan 40 / printed 38 — chapter `3` closes and chapter `4` begins on the same physical scan;
+- scan 46 / printed 44 — four-star internal transition;
+- scan 47 / printed 45 — மாயாண்டியின் embedded historical tale about the மருங்கப்பள்ளம் கொல்லர் begins inside chapter `4`;
+- scan 49 / printed 47 — embedded tale continues and split part 001 ends mid-sentence at `அவள் அப்பனும்,`.
 
-Later chapter boundaries and the real ending remain open until later split parts are supplied.
+The embedded historical tale is an **internal textual unit of chapter 4**, not a separate work.
+
+Known-prefix chapter checkpoints after scan 49 remain provisional until the relevant later split pages are actually inspected. The real ending remains open.
 
 ---
 
@@ -232,24 +234,17 @@ Do not begin English translation until:
 
 # 11. Exact next activity
 
-Process the user's next transcription iteration for **scans 33–42 / printed pages 31–40** from `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`.
+Obtain / use the next split beginning with original **scan 50**.
 
-This batch:
+Before transcribing further:
 
-- continues chapter `3` through scans 33–39;
-- crosses into chapter `4` at scan 40 / printed page 38;
-- continues chapter `4` through scans 41–42.
-
-For every page:
-
-1. use the supplied transcription as baseline;
-2. inspect the native embedded page image;
-3. preserve the physical scan boundary;
-4. isolate and recheck apparent disagreements instead of silently changing the baseline;
-5. preserve source-supported punctuation, spacing, spelling and oddities;
-6. mark `verified` only after a final direct visual comparison.
-
-Create `pages/0033-pudhaiyal.md` through `pages/0042-pudhaiyal.md`, then synchronize `indexes/page-map.md`, work README, root README and this HANDOVER.
+1. inspect the first page of the new split;
+2. confirm that it continues scan 49's unfinished source ending `அவள் அப்பனும்,`;
+3. confirm the visible printed page number rather than inferring it;
+4. continue chapter `4` / the embedded historical tale according to the scan itself;
+5. create `pages/0050-pudhaiyal.md` onward in controlled source-verified batches;
+6. preserve cross-split and cross-page boundaries exactly;
+7. synchronize page map, work README, root README and this handover at the next meaningful boundary.
 
 Do not start English translation.
 
