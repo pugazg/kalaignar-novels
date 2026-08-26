@@ -58,7 +58,7 @@ The split-source fidelity pass corrected earlier transcription punctuation after
 
 ### Catalogue discrepancy — do not override the scan
 
-The Tamil Digital Library Kalaignar special page summarizes the item as `முதல் பதிப்பு, 1961`, while the controlling attached scan visibly says `மூன்றாம் பதிப்பு, செப்டம்பர், 1961`.
+The Tamil Digital Library Kalaignar special page summarizes the item as `முதல் பதிப்பு, 1961`, while the controlling scan visibly says `மூன்றாம் பதிப்பு, செப்டம்பர், 1961`.
 
 For this repository edition, the **scan-printed edition statement governs**. The catalogue summary is not used to silently replace it.
 
@@ -92,25 +92,34 @@ Public references:
 - **Scan 5:** publisher's `பதிப்புரை`.
 - **Scan 6:** effectively blank with staining/wear.
 
-## Printed-page numbering behaviour — verified prefix only
+## Printed-page numbering behaviour — direct visual rule
 
-Directly inspected images establish:
+Record a printed page number only where the numeral is actually visible.
 
-- scans **1–7** have no visible printed page number and therefore remain `null` / `—`;
-- scan **8** visibly prints page **6**;
-- within the known prefix, scans **8–150** visibly run through printed page **148**.
+Direct split-source inspection currently establishes:
 
-This does **not** establish what scan 151 or later pages print. No later printed number may be inferred from sequence until the relevant scan is directly inspected.
+- scans **1–7**: no visible printed page number → `null` / `—`;
+- scan **8**: printed **6**;
+- scan **9**: printed **7**;
+- scan **10**: printed **8**;
+- scan **11**: printed **9**;
+- scan **12**: printed **10**;
+- scan **13**: chapter-1 title page; **no printed page number visible** → `null` / `—` (do **not** infer 11);
+- scan **14**: printed **12**;
+- scans **15–22**: visibly continue through printed **13–20**.
+
+The earlier blanket statement that every scan from 8 onward visibly carried a continuous number is therefore corrected. Later prefix numbers already noted in the manifest remain provisional/direct-inspection records until their split-source ranges are re-audited.
 
 ## Work-level structure — provisional prefix only
 
-The known first 150 scans belong to one continuous work, `புதையல்`. Within that prefix, the following internal structure is visible:
+The known first 150 scans belong to one continuous work, `புதையல்`. Within that prefix:
 
 ```text
 புதையல்
 ├── scans 7–12: அறிமுகம்
 ├── scans 13–21: chapter 1
-├── scans 22–30: chapter 2
+├── scan 22: chapter 1 closes; chapter 2 begins on same physical scan
+├── scans 23–30: chapter 2 continues
 ├── scans 31–39: chapter 3
 ├── scans 40–51: chapter 4
 ├── scans 52–59: chapter 5
@@ -127,31 +136,34 @@ The known first 150 scans belong to one continuous work, `புதையல்`
 └── scan 146 onward: chapter 16 begins within the known prefix
 ```
 
-**The earlier statement that scans 146–150 represented chapter 16 'as supplied' or the end of the supplied source is withdrawn.** Later chapter boundaries remain to be established from the full source.
-
 The numbered headings are internal chapters of the same work unless later full-source evidence establishes otherwise.
 
-## Verified introduction layer
+## Verified canonical Tamil layer so far
 
-Split part 001 has now allowed direct letter-by-letter verification of the complete `அறிமுகம்`, scans **7–12**.
+Split part 001 has enabled direct letter-by-letter verification of scans **1–22**.
 
-Important page-boundary continuities retained in the page records:
+- scans 1–6 — front matter / blank: verified;
+- scans 7–12 — complete `அறிமுகம்`: verified;
+- scans 13–21 — chapter 1: verified;
+- scan 22 — chapter 1 ending + chapter 2 opening: verified;
+- unresolved readings in scans 1–22: **0**.
 
-- scan 8 `அடை` → scan 9 `யாளமாக` = continuous `அடையாளமாக`;
-- scan 10 quotation continues onto scan 11;
-- scan 11 final `கனவு` continues with scan 12 `காண்பவர்களின்`.
+Detailed fidelity notes:
 
-No cross-page continuation has been silently moved to a different scan record.
+- [`../notes/visual-fidelity-scans-001-012.md`](../notes/visual-fidelity-scans-001-012.md)
+- [`../notes/visual-fidelity-scans-013-022.md`](../notes/visual-fidelity-scans-013-022.md)
+
+Important physical continuities retained include scan 13 `அவன் மீதுள்ள` → scan 14 `அன்பால்`, scan 16 `படபடப்பை` → scan 17 `உண்டாக்கியது தெரியுமா?`, and scan 20 `அந்தப் பயலும்` → scan 21 `சிறுக்கியும்...`.
 
 ## Source extent / completeness status
 
 Current state:
 
-- attached source is known to extend beyond the first 150 known scans;
+- source is known to extend beyond the first 150 known scans;
 - Tamil Digital Library describes the item as **443 p.**;
-- exact full-PDF scan/page-object count is still unresolved;
+- exact full-PDF scan/page-object count is unresolved;
 - scan 150 / printed page 148 is **not** treated as the source ending;
-- no closing-page, `முற்றும்`, advertisement, blank end leaf or back cover claim may be made until the actual later scans are inspected.
+- no closing-page, `முற்றும்`, advertisement, blank end leaf or back cover claim may be made until later scans are directly inspected.
 
 The page manifest is therefore a **provisional prefix manifest**, not a 100% coverage map.
 
@@ -171,7 +183,7 @@ Printed text must remain separate from handwriting, ownership/provenance marks, 
 
 ### Full page count
 
-The full 502,895,096-byte PDF has not yet been available to the runtime for reliable whole-file inspection. Page-range splitting is now the working access method. The exact full scan count will be established as the remaining split parts are supplied and reconciled.
+The full 502,895,096-byte PDF has not yet been available to the runtime for reliable whole-file inspection. Page-range splitting is the working access method. The exact full scan count will be established as remaining split parts are supplied and reconciled.
 
 ### SHA-256
 
@@ -185,8 +197,8 @@ The supplied scan is the controlling source for edition text. OCR, filename, cat
 
 ## Exact next source-registration / transcription action
 
-1. continue direct visual transcription within received split part 001 with **scans 13–16 / printed pages 11–14**;
-2. preserve source page boundaries and cross-page continuities;
+1. continue direct visual transcription within split part 001 with **scans 23–26 / printed pages 21–24**;
+2. preserve source page boundaries, punctuation, colloquial forms and cross-page continuities;
 3. as later split parts arrive, extend `indexes/page-map.md` beyond the current 150-row prefix and establish the true full-source scan count;
 4. calculate the exact original-source SHA-256 when byte-level access becomes available;
 5. do not start English translation.
