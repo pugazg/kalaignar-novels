@@ -5,17 +5,31 @@
 - Source filename: `TVA_BOK_0064097_புதையல்.pdf`
 - Source PDF committed to repository: **No**
 - SHA-256: **pending — exact byte-level calculation not yet available; do not invent a checksum**
-- File size of attached PDF: **502,895,096 bytes**
-- Exact PDF scan/page-object count: **pending full-file/native inspection**
-- Currently rendered/inspectable scan window in chat: **1–150 only**
+- File size of attached full PDF: **502,895,096 bytes**
+- Exact full-PDF scan/page-object count: **pending full-source reconciliation**
 - Tamil Digital Library bibliographic extent for this item: **443 p.**
 - Language: Tamil
 - Script: Tamil
 - Controlling textual source: the supplied scanned PDF
 
-> **Correction:** the earlier `Scan pages: 150` claim was wrong. `150` is only the page-image range currently exposed by the chat Files renderer. It must not be treated as the complete PDF/source extent.
+> **Correction:** the earlier `Scan pages: 150` claim was wrong. `150` is only the known prefix that had initially been exposed/inspected. It must not be treated as the complete PDF/source extent.
 
 Detailed correction record: [`../notes/source-page-count-reconciliation.md`](../notes/source-page-count-reconciliation.md).
+
+## Split-source verification parts
+
+The user is supplying non-recompressed page-range splits of the controlling source so that the full work can be inspected at usable visual resolution.
+
+Currently received:
+
+- `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`
+  - source scan range represented: **1–49**
+  - split PDF page count: **49**
+  - split file size available in the chat runtime: **52,760,797 bytes**
+  - use: enlarged/native visual verification aid for the same controlling source pages
+  - committed to repository: **No**
+
+This split is a derivative access copy of the controlling source. It does not establish a new edition or replace the original source identity.
 
 ## Title / authorship visible in the scan
 
@@ -28,16 +42,19 @@ The filename was not used as authority for this identification.
 
 ## Publication details visible in the scan
 
-From scans 1, 3, 4 and 5:
+Direct letter-by-letter reinspection of scans 1, 3, 4 and 5 in split part 001 establishes:
 
 - Publisher / imprint: **அன்புப் பதிப்பகம்**
 - Place line: **பொறையார் :: தஞ்சை மாவட்டம்**
 - Edition: **மூன்றாம் பதிப்பு**
 - Edition date: **செப்டம்பர், 1961**
 - Price lines visible on scan 4:
-  - **சாதாரணப் பதிப்பு ரூ. 5/-**
-  - **ஸ்பெஷல் பதிப்பு ரூ. 6/-**
-- Scan 5 is headed **`பதிப்புரை`** and identifies the volume as the publisher's third release of `புதையல்`.
+  - **சாதாரணப் பதிப்பு ரூ 5/-**
+  - **ஸ்பெஷல் பதிப்பு ரூ 6/-**
+- Scan 5 is headed **`பதிப்புரை`**.
+- Scan 5 prints **`தமிழர்கள் ஆதரிக்க வேண்டுகின்றோம்.`**
+
+The split-source fidelity pass corrected earlier transcription punctuation after `ரூ`; no full stop is visibly printed there.
 
 ### Catalogue discrepancy — do not override the scan
 
@@ -58,7 +75,7 @@ The same Tamil Digital Library item is publicly catalogued as:
 
 The current Tamil Digital Library article page also lists **PDF — 2 Files** for `TVA_BOK_0064097`.
 
-These catalogue facts establish that the first 150 rendered scans are not the full source extent. They are used only for source-completeness reconciliation; they do not replace direct scan readings.
+These catalogue facts establish that the first 150 known scans are not the full source extent. They are used only for source-completeness reconciliation; they do not replace direct scan readings.
 
 Public references:
 
@@ -75,19 +92,19 @@ Public references:
 - **Scan 5:** publisher's `பதிப்புரை`.
 - **Scan 6:** effectively blank with staining/wear.
 
-## Printed-page numbering behaviour — currently verified prefix only
+## Printed-page numbering behaviour — verified prefix only
 
-Directly inspected rendered images establish only the following prefix:
+Directly inspected images establish:
 
 - scans **1–7** have no visible printed page number and therefore remain `null` / `—`;
 - scan **8** visibly prints page **6**;
-- within the currently rendered prefix, scans **8–150** visibly run from printed pages **6–148**.
+- within the known prefix, scans **8–150** visibly run through printed page **148**.
 
 This does **not** establish what scan 151 or later pages print. No later printed number may be inferred from sequence until the relevant scan is directly inspected.
 
 ## Work-level structure — provisional prefix only
 
-The first 150 rendered scans belong to one continuous work, `புதையல்`. Within that prefix, the following internal structure is visible:
+The known first 150 scans belong to one continuous work, `புதையல்`. Within that prefix, the following internal structure is visible:
 
 ```text
 புதையல்
@@ -107,20 +124,32 @@ The first 150 rendered scans belong to one continuous work, `புதையல�
 ├── scans 119–127: chapter 13
 ├── scans 128–137: chapter 14
 ├── scans 138–145: chapter 15
-└── scan 146 onward: chapter 16 begins within the rendered prefix
+└── scan 146 onward: chapter 16 begins within the known prefix
 ```
 
-**The earlier statement that scans 146–150 represented chapter 16 'as supplied' or the end of the supplied source is withdrawn.** Chapter 16 visibly continues beyond the currently rendered window, and later chapter boundaries remain to be established from the full source.
+**The earlier statement that scans 146–150 represented chapter 16 'as supplied' or the end of the supplied source is withdrawn.** Later chapter boundaries remain to be established from the full source.
 
 The numbered headings are internal chapters of the same work unless later full-source evidence establishes otherwise.
+
+## Verified introduction layer
+
+Split part 001 has now allowed direct letter-by-letter verification of the complete `அறிமுகம்`, scans **7–12**.
+
+Important page-boundary continuities retained in the page records:
+
+- scan 8 `அடை` → scan 9 `யாளமாக` = continuous `அடையாளமாக`;
+- scan 10 quotation continues onto scan 11;
+- scan 11 final `கனவு` continues with scan 12 `காண்பவர்களின்`.
+
+No cross-page continuation has been silently moved to a different scan record.
 
 ## Source extent / completeness status
 
 Current state:
 
-- attached source is known to extend beyond the first 150 rendered scans;
+- attached source is known to extend beyond the first 150 known scans;
 - Tamil Digital Library describes the item as **443 p.**;
-- exact PDF scan/page-object count is still unresolved;
+- exact full-PDF scan/page-object count is still unresolved;
 - scan 150 / printed page 148 is **not** treated as the source ending;
 - no closing-page, `முற்றும்`, advertisement, blank end leaf or back cover claim may be made until the actual later scans are inspected.
 
@@ -128,7 +157,7 @@ The page manifest is therefore a **provisional prefix manifest**, not a 100% cov
 
 ## Scan / physical-copy condition — observed prefix
 
-Initial direct inspection of scans 1–150 shows:
+Observed pages show:
 
 - aged paper, staining and edge/binding wear;
 - intermittent bleed-through;
@@ -136,19 +165,17 @@ Initial direct inspection of scans 1–150 shows:
 - copy-specific handwriting on title/front matter;
 - chapter-number ornaments and horizontal rules as printed features.
 
-These observations apply only to the inspected prefix until later scans are available.
-
 Printed text must remain separate from handwriting, ownership/provenance marks, underlining, stains, bleed-through and scanner artefacts.
 
 ## Technical limitations still open
 
 ### Full page count
 
-The current Files renderer exposes images through scan 150 but returns no rendered page images for a request beginning at scan 151. This is treated as a tooling/rendering limitation, not source evidence.
+The full 502,895,096-byte PDF has not yet been available to the runtime for reliable whole-file inspection. Page-range splitting is now the working access method. The exact full scan count will be established as the remaining split parts are supplied and reconciled.
 
 ### SHA-256
 
-The project requires an exact SHA-256 checksum. The 502,895,096-byte source cannot currently be raw-materialized through the available 100 MiB route, so byte-level hashing remains pending.
+The project requires an exact SHA-256 checksum for the original full source. Byte-level hashing of the 502,895,096-byte original remains pending.
 
 **Do not fabricate or approximate either the exact scan count or SHA-256.**
 
@@ -156,13 +183,10 @@ The project requires an exact SHA-256 checksum. The 502,895,096-byte source cann
 
 The supplied scan is the controlling source for edition text. OCR, filename, catalogue summaries, memory, later editions, web text, grammar expectations or historical knowledge may assist navigation or source-extent reconciliation but may not silently replace what is visibly printed.
 
-## Exact next source-registration action
+## Exact next source-registration / transcription action
 
-Before advancing normal transcription batches:
-
-1. regain native/full access to the source beyond scan 150;
-2. determine exact PDF scan/page-object count;
-3. inspect scan 151 onward and the true final pages;
-4. extend `indexes/page-map.md` to every scan without inferring printed numbers;
-5. update chapter boundaries from the complete source;
-6. calculate the exact SHA-256 when byte-level access becomes available.
+1. continue direct visual transcription within received split part 001 with **scans 13–16 / printed pages 11–14**;
+2. preserve source page boundaries and cross-page continuities;
+3. as later split parts arrive, extend `indexes/page-map.md` beyond the current 150-row prefix and establish the true full-source scan count;
+4. calculate the exact original-source SHA-256 when byte-level access becomes available;
+5. do not start English translation.
