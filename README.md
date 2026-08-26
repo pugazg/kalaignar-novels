@@ -8,7 +8,7 @@
 
 மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது. **மூல PDF / split PDF கோப்புகள் repository-யில் commit செய்யப்படாது.**
 
-User-supplied transcription-ஐ visual check செய்யும்போது ambiguous old Tamil glyph அடிப்படையில் assistant தானாக canonical text-ஐ மாற்றக்கூடாது. Small preview-ஐ மட்டும் நம்பாமல் native embedded scan image-ஐ பார்க்க வேண்டும். இன்னும் ambiguity இருந்தால் `needs-review` ஆக flag செய்து உறுதிப்படுத்த வேண்டும்.
+User-supplied transcription-ஐ visual check செய்யும்போது ambiguous old Tamil glyph அடிப்படையில் assistant தானாக canonical text-ஐ மாற்றக்கூடாது. Small preview-ஐ மட்டும் நம்பாமல் native embedded scan image-ஐ பார்க்க வேண்டும். Native scan மற்றும் baseline வேறுபட்டால் அந்த exact item-ஐ `needs-review` ஆக flag செய்து explicit reconciliation பிறகே canonical text மாற்ற வேண்டும்.
 
 ## Project continuation documents
 
@@ -22,7 +22,7 @@ User-supplied transcription-ஐ visual check செய்யும்போத�
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Split-source workflow active; part 001 scans 1–49 received; 32 Tamil page records; scans 1–22 verified after corrected native-resolution re-audit; scans 23–32 restored to user transcription and needs-review; full-source manifest incomplete; translation blocked** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Split-source workflow active; part 001 scans 1–49 received; 32 Tamil page records; scans 1–22 verified after corrected native-resolution re-audit; scans 23–32 fresh native re-audit completed but remain needs-review pending explicit source-vs-baseline reconciliation; full-source manifest incomplete; translation blocked** |
 
 ### புதையல் — current state
 
@@ -35,9 +35,10 @@ Received split:
 Current status:
 
 - part 001 — **49 source scans received**;
+- native embedded page images — **3146 × 4826**;
 - page map — **known prefix scans 1–150; full-source coverage incomplete**;
 - Tamil page records — **32**;
-- verified — **22**;
+- verified — **22** (`scans 1–22`);
 - needs-review — **10** (`scans 23–32`);
 - known-prefix not-started — **118**;
 - Tamil whole-work audit — **not started**;
@@ -45,28 +46,38 @@ Current status:
 - English translation — **blocked**;
 - source PDF / splits committed — **No**.
 
-### Important fidelity correction
+### Fidelity correction history
 
-After hallucinated assistant corrections were identified in scans 23–32, printed pages **10–20 / scans 12–22** were reopened at native embedded-image resolution.
+After hallucinated assistant corrections were identified in scans 23–32, printed pages **10–20 / scans 12–22** were reopened at native embedded-image resolution. That re-audit corrected several earlier assistant mistakes and left scans 1–22 verified only after the corrected native pass.
 
-That re-audit found several earlier assistant mistakes and corrected the canonical files, including `அப்போது தான்`, `கையிலேயும்`, `நம்பிக்கை யுண்டு`, `தன உயிருக்கே`, `அடங்கி விட்டதாகத் தானே`, `ஆராய்ந்து விட்டோம்`, `நாளைத் தவற`, and `அடிபட்டு விட்டதால்`.
+A fresh native-resolution audit has now also been completed for **scans 23–32 / printed pages 21–30**. The user's restored Iteration 3 text was kept unchanged during that pass; source-vs-baseline differences were documented rather than silently imposed.
 
-The re-audit also confirmed some earlier source readings, including the four dialogue lines on scan 18 and the chapter-2 transition on scan 22.
+Recorded candidates include:
+
+- scan 23: possible omitted `மதகின்` before `உள்ளேயிருந்தவர்களுக்கு`;
+- scan 24: source `ஆறுதல் அளித்தது` versus baseline `ஆறுதலை அளித்தது`; disputed `அவர்களே நோக்கி` / `அவர்களை நோக்கி` retained for confirmation;
+- scan 28: `அவன் முதுகில்` / baseline `அவன முதுகில்`;
+- scan 29: source-specific `கடல் பார்த்துக்...`, `அவளே அவன்...`;
+- scan 30: `பிரார்த்தனையில்` / baseline `பிரார்ந்தனையில்`;
+- scan 31: source spacing/dash forms such as `அவனைத் தழுவிக்`, `முயன்றும்—விடாமல்`, `கட்டிவிட்டார்`;
+- scan 32: `தும்பைப்பூ` / baseline `தும்பை பூ`.
+
+The supplied clean transcription also uses systematic doubled terminal punctuation (`..`, `!.`, `?.`) that is not generally printed that way in the scan. Punctuation reconciliation is therefore part of the unresolved gate.
 
 Fidelity / correction records:
 
 - [`works/pudhaiyal/notes/visual-fidelity-scans-001-012.md`](works/pudhaiyal/notes/visual-fidelity-scans-001-012.md)
 - [`works/pudhaiyal/notes/visual-fidelity-scans-013-022.md`](works/pudhaiyal/notes/visual-fidelity-scans-013-022.md) — **corrected native-resolution re-audit**
-- [`works/pudhaiyal/notes/visual-fidelity-scans-023-032.md`](works/pudhaiyal/notes/visual-fidelity-scans-023-032.md) — **assistant correction claims invalidated; user transcription restored**
+- [`works/pudhaiyal/notes/visual-fidelity-scans-023-032.md`](works/pudhaiyal/notes/visual-fidelity-scans-023-032.md) — **fresh native-resolution re-audit; canonical user baseline unchanged pending reconciliation**
 
-Physical structural checkpoints currently retained:
+Physical structural checkpoints retained:
 
 - scan 13 begins chapter 1 but has no visible printed page number;
 - scan 22 / printed 20 closes chapter 1 and begins chapter 2 on the same scan;
 - scan 30 / printed 28 closes chapter 2 and begins chapter 3 on the same scan;
 - scan 40 / printed 38 begins chapter 4.
 
-Do not advance the fidelity workflow to scans 33–42 yet. The unresolved range is scans 23–32, whose user transcription is restored and remains `needs-review`.
+Do not advance to scans 33–42 yet. First reconcile and verify scans 23–32.
 
 ## நிறைவு பெற்ற reference work
 
