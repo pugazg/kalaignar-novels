@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied transcription restored after disputed assistant visual pass; pending fresh direct visual re-audit"
+transcription_method: "user-supplied baseline retained; native-resolution re-audit completed; spacing/punctuation candidates pending confirmation"
 ---
 
 "என்ன பரிமளம்?" என்று நடுங்கும் தொனியில் கேட்டான் துரை..
@@ -18,6 +18,6 @@ transcription_method: "user-supplied transcription restored after disputed assis
 
 ## Review status
 
-The previous assistant visual corrections for this iteration are invalidated. User-supplied wording is restored pending a fresh direct visual re-audit.
+Native 3146 × 4826 scan re-audit completed. Canonical user baseline is intentionally unchanged. The native scan clearly shows source forms including `அவனைத் தழுவிக்`, `முயன்றும்—விடாமல்`, and `கட்டிவிட்டார்`; these spacing/dash/word-boundary candidates and the page's source punctuation remain pending explicit reconciliation. See `../notes/visual-fidelity-scans-023-032.md`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 31; அச்சுப் பக்கம்: 29 -->
