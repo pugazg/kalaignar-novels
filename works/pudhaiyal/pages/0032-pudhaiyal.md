@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied transcription restored after disputed assistant visual pass; pending fresh direct visual re-audit"
+transcription_method: "user-supplied baseline retained; native-resolution re-audit completed; discrepancy pending confirmation"
 ---
 
 பரிமளம்,"அய்யோ!. எங்களை விட்டுவிடு!. பாவி!. பாவி!" என்று கத்தினாள்.. மிச்சத் துணியால் கிழவர் பரிமளத்தின் கைகளையும் பின்புறமாக வைத்து கட்டி விட்டார்.. பரிமளம் அலறினாள், துடித்தாள், துவண்டாள்.. "சப்தம் செய்தால் செத்துவிடுவாய்! என்று கிழவர் பயங்கரமாக அதட்டினார்.. சற்று முன்பு, சாந்த சொரூபியாகத் தெரிந்த அந்தக் கிழவரா இவர்?. உலகத்தைப் படித்தவர் போல ஆகாயத்தை நோக்கிப் பிரார்த்தனை புரிந்த அந்தக் கிழவர் தானா இவர்?. பரிமளத்திற்கு எதுவுமே புரியவில்லை, வருவது வரட்டும் என்று எண்ணிக் கொண்டாள், துரையைப் பார்க்க முடியாமல் தன் கண்கள் மூடப்பட்டு விட்டதை நினைத்து அழுதாள்.. அந்த அழுகை, அவள் கண்ணை மூடியிருக்கும் துணியை நனைக்கத்தான் பயன்பட்டது போலும் -கிழவரின் இருதயத்தை நனைத்திடப் பயன்படவில்லை..
@@ -18,6 +18,6 @@ transcription_method: "user-supplied transcription restored after disputed assis
 
 ## Review status
 
-The previous assistant visual corrections for this iteration are invalidated. User-supplied wording is restored pending a fresh direct visual re-audit. The physical page ends at `காலைத்`.
+Native 3146 × 4826 scan re-audit completed. Canonical user baseline is intentionally unchanged. The native scan clearly prints `தும்பைப்பூ தாடியிலே`, while the baseline has `தும்பை பூ தாடியிலே`; source punctuation also differs. The physical page still ends at `காலைத்`. See `../notes/visual-fidelity-scans-023-032.md`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 32; அச்சுப் பக்கம்: 30 -->
