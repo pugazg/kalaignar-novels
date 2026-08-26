@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied transcription restored after disputed assistant visual pass; pending fresh direct visual re-audit"
+transcription_method: "user-supplied baseline retained; native-resolution re-audit completed; source punctuation pending reconciliation"
 ---
 
 உதவியாக நிலவு, மேகத்திலிருந்து விடுபட்டது.. வழுக்கைத் தலையும், வளர்ந்த தாடியும் கொண்ட அந்த வயோதிக மனிதர், மேட்டில் நின்றபடி ஆகாயத்தை நோக்கி கையை உயர்த்தினார்.. அந்த தளர்ந்த மேனிப் பெரியவர் தன் அதிரும் கரத்தை ஆகாயம் நோக்கி நீட்டிய காட்சி அதுவும் அந்த இரவில்-ஏதோ ஒரு புனிதத்தன்மை படிந்த காட்சியாகவே திகழ்ந்தது..
@@ -28,6 +28,6 @@ transcription_method: "user-supplied transcription restored after disputed assis
 
 ## Review status
 
-The previous assistant visual corrections for this iteration are invalidated. User-supplied wording is restored pending a fresh direct visual re-audit.
+Native 3146 × 4826 scan re-audit completed. The native scan supports the restored lexical reading, including `உதவுகிறது.` at the first prayer occurrence and `குளிர்காற்று`. Source punctuation differs from the supplied clean transcription and remains pending explicit reconciliation. See `../notes/visual-fidelity-scans-023-032.md`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 27; அச்சுப் பக்கம்: 25 -->
