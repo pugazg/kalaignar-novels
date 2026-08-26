@@ -44,10 +44,12 @@ When the user supplies a transcription:
 - use it as the comparison baseline;
 - do **not** treat it as higher authority than the scan;
 - do **not** replace it merely because a preview appears different;
-- inspect the actual split-source page image;
+- inspect the actual split-source page image whenever available;
 - isolate every apparent source-vs-baseline difference and recheck it individually;
 - change canonical text only after the scan establishes the reading;
 - after reconciliation, perform a final direct page-by-page visual comparison before using `verified`.
+
+If the native split is **not available**, use the full-PDF renderer only for safe structural facts such as visible printed page number, chapter transition and physical page boundary. Do **not** silently impose small-print glyph or punctuation readings from the reduced renderer. Preserve the user baseline and keep the page `needs-review` until native split verification is possible.
 
 OCR, grammar expectations, catalogue text and modern spelling are aids only.
 
@@ -102,7 +104,7 @@ Correction note: `works/pudhaiyal/notes/source-page-count-reconciliation.md`
 
 # 5. Split-source workflow
 
-Received access split:
+Available access split:
 
 `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`
 
@@ -113,20 +115,30 @@ Received access split:
 - transcription / direct visual audit: **49 / 49 COMPLETE / VERIFIED**
 - committed to GitHub: **No**
 
-The split is an access derivative of the controlling edition, not a new edition.
+User-named next split:
+
+`TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf`
+
+Current tool-visible file state:
+
+- this part-002 PDF is **not attached in the current conversation**;
+- the original full PDF remains available through the renderer for scans 50–150;
+- therefore scans 50–62 have only a renderer-level structural check, not native letter-by-letter verification.
+
+User supplied Iteration 5 for **printed pages 48–60 / scans 50–62**. Those 13 pages have been created as baseline records with `status: needs-review`.
 
 ---
 
 # 6. Current Tamil state
 
-Canonical page records exist through scan **49**.
+Canonical page records exist through scan **62**.
 
-- page records created: **49**
+- page records created: **62**
 - `verified`: **49** — scans 1–49
-- `needs-review`: **0**
-- unresolved readings through scan 49: **0**
-- known-prefix rows `not-started`: **101**
+- `needs-review`: **13** — scans 50–62
+- known-prefix rows `not-started`: **88**
 - split part 001: **COMPLETE / VERIFIED**
+- scans 50–62: **user baseline loaded; native part-002 audit pending**
 - full-source page-map coverage: **INCOMPLETE**
 - Tamil whole-work audit: **not started**
 - assembled Tamil layer: **blocked**
@@ -138,6 +150,7 @@ Fidelity records:
 - `works/pudhaiyal/notes/visual-fidelity-scans-013-022.md` — corrected re-audit
 - `works/pudhaiyal/notes/visual-fidelity-scans-023-032.md` — final reconciliation; 10/10 verified; unresolved 0
 - `works/pudhaiyal/notes/visual-fidelity-scans-033-049.md` — split part 001 completion; 17/17 verified; unresolved 0
+- `works/pudhaiyal/notes/visual-fidelity-scans-050-062.md` — Iteration 5 baseline loaded; native part-002 verification pending
 
 ---
 
@@ -162,9 +175,9 @@ Scans **1–32 are verified only on the basis of the corrected/reconciled state.
 
 # 8. Iteration 4 / split part 001 completion — scans 33–49
 
-The user supplied a continuous Iteration 4 described as “Pages 31–49.” Physical source inspection establishes that this text corresponds to **source scans 33–49 / visibly printed pages 31–47**. The split PDF itself ends at scan 49 / printed page 47; it does not contain printed pages 48–49.
+The user supplied a continuous Iteration 4 described as “Pages 31–49.” Physical source inspection establishes that this text corresponds to **source scans 33–49 / visibly printed pages 31–47**. The split PDF itself ends at scan 49 / printed page 47.
 
-The continuous transcription was mapped back to physical scan boundaries and each page was directly visually compared with the split source.
+The continuous transcription was mapped back to physical scan boundaries and each page was directly visually compared with split part 001.
 
 Source-established corrections include:
 
@@ -175,17 +188,7 @@ Source-established corrections include:
 - scan 43: `புற்று நோய்`, not `புத்து நோய்`;
 - source punctuation / dash pauses restored instead of the clean transcription's systematic `..`, `!.`, `?.` forms.
 
-Physical boundaries explicitly preserved include:
-
-1. scan 32 `காலைத்` → scan 33 `தளிரில்`;
-2. scan 34 `அந்த` → scan 35 `உண்மை...`;
-3. scan 35 `பேச்சின்` → scan 36 `பாதியிலேயே...`;
-4. scan 38 `யாரும்` → scan 39 `எதிர்பாராமலே...`;
-5. scan 40 `காற்றுத் திசைக்கு` → scan 41 `ஏற்றாற்போல...`;
-6. scan 44 `இந்திரன்` → scan 45 `மகன் சயந்தன்...`;
-7. scan 45 `ஆழ்ந்து` → scan 46 `பார்க்கப் போனால்...`;
-8. scan 47 `சந்தோஷ` → scan 48 `மாக...`;
-9. scan 48 `எப்படிப்` → scan 49 `யாவது...`.
+Physical boundaries explicitly preserved include scan 47 `சந்தோஷ` → scan 48 `மாக...` and scan 48 `எப்படிப்` → scan 49 `யாவது...`.
 
 Final status for scans 33–49:
 
@@ -196,9 +199,42 @@ Final status for scans 33–49:
 
 ---
 
-# 9. Structural state established so far
+# 9. Iteration 5 baseline — scans 50–62 / printed 48–60
 
-Within the directly processed split:
+The user supplied Iteration 5 naming `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf` and covering printed pages 48–60. The actual part-002 file is not currently tool-visible in this conversation.
+
+The controlling full-PDF renderer was therefore used only to establish safe structural facts and physical page boundaries. The user's wording and punctuation were retained as the canonical **baseline** without silent assistant corrections.
+
+Renderer-established structure:
+
+- scan 50 / printed 48 continues scan 49's unfinished embedded historical tale;
+- scan 52 / printed 50 closes chapter `4` and begins chapter `5` on the same physical page;
+- scan 60 / printed 58 closes chapter `5` and begins chapter `6` on the same physical page;
+- scans 61–62 / printed 59–60 continue chapter `6`.
+
+Physical boundaries preserved include:
+
+1. scan 52 `அந்த` → scan 53 `வீட்டிற்கு...`;
+2. scan 54 `போயி` → scan 55 `யைப்பாரு...`;
+3. scan 55 `வெளியேறியிருந்தாலும்-` → scan 56 `அவர்கள்...`;
+4. scan 56 `பிறகு` → scan 57 `பாடினாள்...`;
+5. scan 57 `ஆசைப்` → scan 58 `படுகிறோம்...`.
+
+Current status for scans 50–62:
+
+- records created: **13 / 13**
+- status: **needs-review**
+- native part-002 audit: **pending**
+- no claim of zero unresolved textual readings is made yet
+- preliminary report: `works/pudhaiyal/notes/visual-fidelity-scans-050-062.md`
+
+Do **not** promote these pages to `verified` from the reduced full-PDF renderer alone.
+
+---
+
+# 10. Structural state established so far
+
+Within the processed / renderer-checked prefix:
 
 - scans 1–6 — front matter / blank;
 - scans 7–12 — `அறிமுகம்`;
@@ -208,15 +244,18 @@ Within the directly processed split:
 - scan 40 / printed 38 — chapter `3` closes and chapter `4` begins on the same physical scan;
 - scan 46 / printed 44 — four-star internal transition;
 - scan 47 / printed 45 — மாயாண்டியின் embedded historical tale about the மருங்கப்பள்ளம் கொல்லர் begins inside chapter `4`;
-- scan 49 / printed 47 — embedded tale continues and split part 001 ends mid-sentence at `அவள் அப்பனும்,`.
+- scan 49 / printed 47 — split part 001 ends mid-sentence at `அவள் அப்பனும்,`;
+- scan 50 / printed 48 — renderer confirms continuation of that embedded tale;
+- scan 52 / printed 50 — renderer confirms chapter `4` → `5` transition; native part-002 audit pending;
+- scan 60 / printed 58 — renderer confirms chapter `5` → `6` transition; native part-002 audit pending.
 
 The embedded historical tale is an **internal textual unit of chapter 4**, not a separate work.
 
-Known-prefix chapter checkpoints after scan 49 remain provisional until the relevant later split pages are actually inspected. The real ending remains open.
+Known-prefix chapter checkpoints after scan 62 remain provisional until the relevant later split pages are actually inspected. The real ending remains open.
 
 ---
 
-# 10. Translation gate
+# 11. Translation gate
 
 Do not begin English translation until:
 
@@ -232,24 +271,26 @@ Do not begin English translation until:
 
 ---
 
-# 11. Exact next activity
+# 12. Exact next activity
 
-Obtain / use the next split beginning with original **scan 50**.
+Make `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf` available in this conversation.
 
-Before transcribing further:
+Then:
 
-1. inspect the first page of the new split;
-2. confirm that it continues scan 49's unfinished source ending `அவள் அப்பனும்,`;
-3. confirm the visible printed page number rather than inferring it;
-4. continue chapter `4` / the embedded historical tale according to the scan itself;
-5. create `pages/0050-pudhaiyal.md` onward in controlled source-verified batches;
-6. preserve cross-split and cross-page boundaries exactly;
-7. synchronize page map, work README, root README and this handover at the next meaningful boundary.
+1. inspect native split scans 50–62 / printed pages 48–60;
+2. use the current page records as the user-supplied baseline;
+3. isolate and recheck every apparent source-vs-baseline disagreement;
+4. apply only source-established spelling / spacing / punctuation differences;
+5. perform a final page-by-page comparison;
+6. promote a page to `verified` only when that direct native check passes;
+7. synchronize the fidelity note, page map, work README, root README and this handover.
+
+Only after scans 50–62 are verified should the project advance to scan **63 / printed page 61** onward.
 
 Do not start English translation.
 
 ---
 
-# 12. Fresh-chat rule
+# 13. Fresh-chat rule
 
 Use `NEXT_NOVEL_CHAT_PROMPT.md` together with the relevant split source. Current live GitHub state and this handover govern over stale summaries.
