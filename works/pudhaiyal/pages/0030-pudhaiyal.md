@@ -7,7 +7,7 @@ page_type: "body / chapter-transition"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied transcription restored after disputed assistant visual pass; pending fresh direct visual re-audit"
+transcription_method: "user-supplied baseline retained; native-resolution re-audit completed; discrepancy pending confirmation"
 ---
 
 என்ற ஒலிதான் அது!. துரை ஆச்சரியத்தோடு மேல் நோக்கினான்.. கிழவரின் குரல் நடுக்கமின்றி ஒலித்தது!. ஓ, ஆகாயத்தில் மேயும் மேக மந்தைகளே !. உங்கள் வாழ்நாள் சதமென்று எண்ணியிருக்கிறீர்களா ?. குளிர்ந்த காற்றுத்தான் உங்கள் எமன் என்பதை மறந்து விடாதீர்கள்!.
@@ -24,6 +24,6 @@ transcription_method: "user-supplied transcription restored after disputed assis
 
 ## Review status
 
-The previous assistant visual corrections for this iteration are invalidated. User-supplied wording is restored pending a fresh direct visual re-audit. The chapter `2` → `3` transition remains on this same physical scan.
+Native 3146 × 4826 scan re-audit completed. Canonical user baseline is intentionally unchanged. The native scan clearly prints `பழைய பிரார்த்தனையில்`, while the baseline has `பழைய பிரார்ந்தனையில்`. The chapter `2` → `3` transition is confirmed on this same physical scan. Source punctuation remains pending reconciliation. See `../notes/visual-fidelity-scans-023-032.md`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 30; அச்சுப் பக்கம்: 28 -->
