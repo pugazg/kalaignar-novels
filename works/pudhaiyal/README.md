@@ -7,24 +7,25 @@
 **Exact full-PDF scan count:** pending complete source reconciliation  
 **Source PDF in repository:** No
 
-## Critical source-extent correction
+## Source-extent correction
 
-The earlier project state incorrectly treated the first **150 known/rendered scans** as the entire supplied PDF. That claim is withdrawn. Tamil Digital Library reports **443 p.**, so the archive treats scans 1–150 only as a known prefix until later split-source ranges establish the true full scan count.
+The earlier project state incorrectly treated the first **150 known/rendered scans** as the complete source. That claim is withdrawn. Tamil Digital Library reports **443 p.**; scans 1–150 are therefore only a known prefix until later split-source ranges establish the true scan count.
 
 See [`notes/source-page-count-reconciliation.md`](notes/source-page-count-reconciliation.md).
 
-## Split-source verification
+## Split-source workflow
 
-Received:
+Received access split:
 
 `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`
 
 - represented source scans: **1–49**
 - split PDF pages: **49**
 - split file size available in the chat runtime: **52,760,797 bytes**
+- embedded page-image size: **3146 × 4826**
 - committed to repository: **No**
 
-This split is an access derivative of the controlling source, not a new edition.
+The split is an access derivative of the controlling source, not a new edition.
 
 ## Current archival status
 
@@ -33,101 +34,105 @@ This split is an access derivative of the controlling source, not a new edition.
 - source metadata — **registered; exact full scan count + original SHA-256 pending**
 - page map — **known prefix scans 1–150 mapped; full-source coverage incomplete**
 - Tamil page records created — **32**
-- `verified` — **22**
+- `verified` — **22** (`scans 1–22`)
 - `needs-review` — **10** (`scans 23–32`)
 - remaining known-prefix rows `not-started` — **118**
 - Tamil source audit — **not started**
 - assembled Tamil reading layer — **blocked by Tamil audit gate**
 - English translation — **blocked by Tamil audit gate**
 
-## Fidelity passes
+## Verification policy after discovered visual-audit errors
+
+The source scan remains controlling. When the user supplies a transcription, it is the comparison baseline, but not a replacement authority for the scan.
+
+For ambiguous old Tamil print:
+
+1. inspect the native embedded page image rather than a small preview;
+2. do not silently replace the user's reading from assistant inference;
+3. record the exact source-vs-baseline candidate as `needs-review`;
+4. change canonical text only after the reading has been explicitly reconciled;
+5. `verified` requires a final direct visual pass after reconciliation.
+
+OCR, grammar expectations, catalogue text and modern spelling are aids only.
+
+## Fidelity history
 
 ### Scans 1–12 — front matter + `அறிமுகம்`
 
-Current repository status remains `verified`. Scan 12 / printed page 10 was explicitly reopened and rechecked during the later high-resolution audit; no rollback was required.
+Current status: **verified**.
 
 Detailed review: [`notes/visual-fidelity-scans-001-012.md`](notes/visual-fidelity-scans-001-012.md).
 
-### Scans 13–22 — corrected high-resolution re-audit
+### Scans 13–22 — corrected native-resolution re-audit
 
-After the Iteration 3 hallucination problem was identified, this earlier range was **not trusted automatically**. The native embedded scan images were extracted from the split PDF at **3146 × 4826** and the earlier assistant-vs-user discrepancies were rechecked.
+After hallucinated assistant corrections were identified later, scans 12–22 were reopened using the native **3146 × 4826** images.
 
-The fresh re-audit found that several earlier assistant corrections were themselves wrong. Canonical records have been corrected.
+The re-audit corrected several assistant errors, including restoring source-supported forms such as:
 
-Withdrawn assistant readings include:
+- `அப்போது தான்`
+- `கையிலேயும்`
+- `நம்பிக்கை யுண்டு`
+- `தன உயிருக்கே`
+- `அடங்கி விட்டதாகத் தானே`
+- `ஆராய்ந்து விட்டோம்`
+- `நாளைத் தவற`
+- `அடிபட்டு விட்டதால்`
 
-- scan 13: `அப்போதுதான்` → corrected to `அப்போது தான்`;
-- scan 13: `கையிலும்` → corrected to `கையிலேயும்` (`கையிலே` / `யும்` across the printed line break);
-- scan 15: `நம்பிக்கையுண்டு` → `நம்பிக்கை யுண்டு`;
-- scan 15: `அதனால்தான்` → `அதனால் தான்`;
-- scan 15: `தன உயிருக்கு` → `தன உயிருக்கே`;
-- scan 15: `அவர்களும் வந்துவிட்டார்கள்` → `அவர்களும் வந்து விட்டார்கள்`;
-- scan 16: `அடங்கிவிட்டதாகத் தானே` → `அடங்கி விட்டதாகத் தானே`;
-- scan 17: `இடையிலேதான்` → `இடையிலே தான்`;
-- scan 17: `ஆராய்ந்து விட்டோமே` → `ஆராய்ந்து விட்டோம்`;
-- scan 17: `சரியாகத்தான்` → `சரியாகத் தான்`;
-- scan 19: `அவ்வளவுதான்` → `அவ்வளவு தான்`;
-- scan 19: `நாளை தவற` → `நாளைத் தவற`;
-- scan 21: `அடிபட்டுவிட்டதால்` → `அடிபட்டு விட்டதால்`.
+It also reconfirmed genuine source readings such as the four opening dialogue lines on scan 18 and the chapter-2 transition on scan 22.
 
-The re-audit also confirmed that not every earlier correction was wrong. Still scan-supported are, among others:
-
-- scan 13 has no visible printed page number;
-- scan 14 `மருங்கப் பள்ளத்தின்` / `பூமியைத் தோண்டிப்`;
-- scan 15 `மெளனமாய்` / `மெளனமாக்கியது`;
-- scan 16 inscription through `கம்மாளர் கண்ணிலே......`;
-- scan 18 four opening lines `அத்தான்!`, `கண்ணே!`, `ராஜா!`, `என்னடி ராஜாத்தி!`, and later `மறக்க மாட்டீர்களே கண்ணே!`;
-- scan 19 `வெளவாலிடம்` / `வெளவால்`;
-- scan 22 chapter `2` begins on the same physical scan after chapter `1` closes.
-
-Scans **1–22 therefore remain `verified`**, but the verification record now reflects the corrected native-resolution re-audit rather than the earlier flawed pass.
+Current status: **scans 1–22 verified**.
 
 Corrected report: [`notes/visual-fidelity-scans-013-022.md`](notes/visual-fidelity-scans-013-022.md).
 
-### Scans 23–32 — Iteration 3 correction
+### Scans 23–32 — fresh native-resolution re-audit completed
 
-The assistant's claimed visual-fidelity corrections for this range were **invalidated by the user**. The user's Iteration 3 wording has been restored to `pages/0023-pudhaiyal.md` through `pages/0032-pudhaiyal.md`.
+The user's Iteration 3 transcription was restored after the earlier assistant pass was invalidated. A fresh audit has now been performed directly against the native **3146 × 4826** embedded page images.
 
-These ten scans are currently **`needs-review`** because the assistant's earlier visual verification cannot be relied upon. The source PDF / split PDF remains outside the repository.
+**Important:** no source-vs-baseline candidate was silently applied during this pass. Canonical page bodies remain the restored user baseline and all ten scans remain `needs-review` until explicit reconciliation.
 
-Invalidation record: [`notes/visual-fidelity-scans-023-032.md`](notes/visual-fidelity-scans-023-032.md).
+High-confidence candidates recorded from the native scan include:
 
-### Revised verification rule
+- scan 23: source appears to include `மதகின் உள்ளேயிருந்தவர்களுக்கு`; baseline omits the first `மதகின்`;
+- scan 24: source clearly has `சிறு ஆறுதல் அளித்தது` and `சற்று ஆறுதல் அளித்தது`; baseline has `ஆறுதலை` in both places;
+- scan 24: native image strongly appears to print `அவர்களே நோக்கி`; baseline has `அவர்களை நோக்கி`; kept unresolved because this was previously disputed;
+- scan 28: source `அவன் முதுகில்`; baseline `அவன முதுகில்`;
+- scan 29: source-specific `கடல் பார்த்துக் கொண்டிருந்தாள்` and `அவளே அவன் காப்பாற்றித் தீர வேண்டும்`; baseline has `கடலை...` / `அவளை...`;
+- scan 30: source `பழைய பிரார்த்தனையில்`; baseline `பழைய பிரார்ந்தனையில்`;
+- scan 31: source word-boundary / dash forms include `அவனைத் தழுவிக்`, `முயன்றும்—விடாமல்`, `கட்டிவிட்டார்`;
+- scan 32: source `தும்பைப்பூ தாடியிலே`; baseline `தும்பை பூ தாடியிலே`.
 
-For subsequent user-supplied transcription batches, the supplied transcription is the baseline. Visual checking must not silently replace it. Native embedded scan images should be used before making any claim about an old-print glyph or spacing. If a reading remains ambiguous, mark the exact item `needs-review` and surface it for confirmation instead of committing an assistant inference.
+The native scan also confirms user readings that the earlier assistant had wrongly replaced, including scan 26 `உண்மை தான்`, `மிக கூர்மையாக`, `அவனது நடையிலே வேகம் குறைந்தது`, and scan 27 `குளிர்காற்று`.
 
-## Physical page structure currently retained
+There is additionally a **systematic punctuation mismatch**: the supplied clean transcription repeatedly uses forms such as `..`, `!.`, and `?.`, while the scan generally prints ordinary single stops/questions/exclamations plus source dashes/pauses. This has not yet been silently normalized.
 
-- scan 22 / printed 20 — chapter 1 closes / chapter 2 begins on the same physical scan;
-- scan 30 / printed 28 — chapter 2 closes / chapter 3 begins on the same physical scan;
-- scan 32 / printed 30 ends mid-sentence at `காலைத்` in the restored user transcription.
+Detailed report: [`notes/visual-fidelity-scans-023-032.md`](notes/visual-fidelity-scans-023-032.md).
 
-## Source structure — currently known prefix only
+## Physical structure established so far
 
 - scans 1–6 — front matter / blank;
 - scans 7–12 — `அறிமுகம்`;
-- scan 13 — chapter 1 begins;
-- scan 22 — chapter 1 closes / chapter 2 begins;
-- scan 30 — chapter 2 closes / chapter 3 begins;
-- scan 40 — chapter 4 begins;
-- scan 52 — chapter 5 begins;
-- scan 60 — chapter 6 begins;
-- scan 69 — chapter 7 begins;
-- scan 75 — chapter 8 begins;
-- scan 84 — chapter 9 begins;
-- scan 93 — chapter 10 begins;
-- scan 102 — chapter 11 begins;
-- scan 110 — chapter 12 begins;
-- scan 119 — chapter 13 begins;
-- scan 128 — chapter 14 begins;
-- scan 138 — chapter 15 begins;
-- scan 146 — chapter 16 begins within the known prefix.
+- scan 13 — chapter 1 begins; no visible printed page number;
+- scan 22 / printed 20 — chapter 1 closes and chapter 2 begins on the same scan;
+- scan 30 / printed 28 — chapter 2 closes and chapter 3 begins on the same scan;
+- scan 40 / printed 38 — chapter 4 begins;
+- scan 52 / printed 50 — chapter 5 begins;
+- scan 60 / printed 58 — chapter 6 begins;
+- scan 69 / printed 67 — chapter 7 begins;
+- scan 75 / printed 73 — chapter 8 begins;
+- scan 84 / printed 82 — chapter 9 begins;
+- scan 93 / printed 91 — chapter 10 begins;
+- scan 102 / printed 100 — chapter 11 begins;
+- scan 110 / printed 108 — chapter 12 begins;
+- scan 119 / printed 117 — chapter 13 begins;
+- scan 128 / printed 126 — chapter 14 begins;
+- scan 138 / printed 136 — chapter 15 begins;
+- scan 146 / printed 144 — chapter 16 begins within the known prefix.
 
-No claim is made yet about later chapter boundaries or the true source ending.
+Later chapter boundaries and the true source ending remain open until later splits are supplied.
 
-## Important edition/catalogue distinction
+## Edition/catalogue distinction
 
-The controlling scan visibly says **`மூன்றாம் பதிப்பு, செப்டம்பர், 1961`**. A Tamil Digital Library summary elsewhere says `முதல் பதிப்பு, 1961`; the catalogue does not override the scan.
+The controlling scan visibly says **`மூன்றாம் பதிப்பு, செப்டம்பர், 1961`**. A Tamil Digital Library summary elsewhere says `முதல் பதிப்பு, 1961`; catalogue wording does not override the scan.
 
 ## Source registration
 
@@ -141,12 +146,10 @@ The controlling scan visibly says **`மூன்றாம் பதிப்ப
 Full source record: [`metadata/source.md`](metadata/source.md).  
 Current prefix manifest: [`indexes/page-map.md`](indexes/page-map.md).
 
-## Authority
-
-The source scan remains the controlling source. The user's supplied transcription must not be overridden merely because an ambiguous old-print glyph appears different in a small preview. OCR, catalogue material, grammar expectations and assistant visual inference are aids only.
-
 ## Exact next activity
 
-**Do not advance to scans 33–42 yet.** The next unresolved text range is scans **23–32**, whose user-supplied Iteration 3 transcription has been restored and is currently `needs-review`.
+**Do not advance to scans 33–42 yet.**
 
-When work resumes, use native embedded scan images, keep the user's text as baseline, and flag only genuinely unresolved discrepancies. Continue full-source reconciliation as later split parts are supplied. Do not start English translation.
+First reconcile the explicit source-vs-baseline candidates documented for scans **23–32**, including the systematic punctuation question. Apply only confirmed readings, then perform one final native-image page-by-page comparison of scans 23–32 before changing any of them to `verified`.
+
+Do not start English translation.
