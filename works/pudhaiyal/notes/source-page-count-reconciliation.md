@@ -5,20 +5,15 @@ Last updated: 2026-08-26
 
 ## Why this note exists
 
-The first onboarding pass incorrectly treated scans **1–150** as the complete PDF. That conclusion is withdrawn.
+The first repository onboarding pass incorrectly treated the initially exposed **scans 1–150** as the complete PDF. That conclusion is withdrawn.
 
-Tamil Digital Library's record for `TVA_BOK_0064097` gives **443 p.** and exposes the item as **PDF — 2 Files**. These facts establish that 150 was only a known prefix, not the full source extent.
+Tamil Digital Library describes the same source identity (`TVA_BOK_0064097`, `புதையல்`) as **443 p.** and exposes the item as **PDF — 2 Files**. The exact PDF scan/page-object count must therefore be established from the complete source, not inferred from the original 150-scan viewing window.
 
 ## Authority distinction
 
-The scan controls exact wording, punctuation, spacing, edition statements and page-level transcription. Catalogue information is used only for bibliographic/extent corroboration.
+The source scan remains controlling for exact textual readings, edition wording and page structure. Catalogue information is used only for source-completeness / bibliographic reconciliation.
 
-Important discrepancy:
-
-- controlling scan: **`மூன்றாம் பதிப்பு, செப்டம்பர், 1961`**;
-- catalogue summary elsewhere: **`முதல் பதிப்பு, 1961`**.
-
-The repository follows the scan.
+The scan gives **`மூன்றாம் பதிப்பு, செப்டம்பர், 1961`**; a TDL summary elsewhere says `முதல் பதிப்பு, 1961`. The repository follows the scan for this edition.
 
 ## Split-source workaround
 
@@ -26,71 +21,57 @@ Received:
 
 `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`
 
-Verified properties:
+Verified file-level properties available in chat:
 
-- split pages: **49**;
+- split PDF pages: **49**;
 - represented source scans: **1–49**;
-- split size available in chat runtime: **52,760,797 bytes**;
-- source PDF / split committed to GitHub: **No**.
+- split file size: **52,760,797 bytes**;
+- committed to repository: **No**.
 
-This split provides usable page images for direct letter-by-letter verification.
+The split is an access derivative of the controlling source and allows page-level work without committing source PDFs.
 
-Completed from part 001:
+## Iteration 3 correction — important
 
-- scans **1–12** — verified, unresolved **0**;
-- scans **13–22** — verified, unresolved **0**;
-- scans **23–32** — verified, unresolved **0**;
-- total canonical records verified: **32**.
+The assistant's visual-correction pass for scans **23–32 / printed pages 21–30** was rejected by the user. The user explicitly confirmed that the transcription they supplied was correct and that the assistant's proposed corrections were hallucinated.
 
-Fidelity reports:
+Therefore:
 
-- [`visual-fidelity-scans-001-012.md`](visual-fidelity-scans-001-012.md)
-- [`visual-fidelity-scans-013-022.md`](visual-fidelity-scans-013-022.md)
-- [`visual-fidelity-scans-023-032.md`](visual-fidelity-scans-023-032.md)
+- `pages/0023-pudhaiyal.md` through `pages/0032-pudhaiyal.md` have been restored to the user's supplied transcription;
+- the assistant-proposed replacement readings have been withdrawn;
+- scans 23–32 are now `needs-review`, not `verified`;
+- the previous fidelity report is retained only as an invalidation/audit record: [`visual-fidelity-scans-023-032.md`](visual-fidelity-scans-023-032.md).
 
-## Structural corrections exposed by split-source verification
+Revised operating rule: when user-supplied Tamil and an ambiguous old-print glyph appear to differ, do **not** silently replace the user's text. Flag the exact reading as `needs-review` for confirmation.
 
-- scan 13 begins chapter 1 but has **no visible printed page number**; `printed_page` remains `null`.
-- scan 22 / printed 20 closes chapter 1 and begins chapter 2 on the same physical scan.
-- scan 30 / printed 28 closes chapter 2 and begins chapter 3 on the same physical scan.
-- scan 40 / printed 38 begins chapter 4.
+## Printed-page reconciliation lesson
 
-These page-level observations supersede earlier range-only assumptions.
-
-## Current technical limitation
-
-The original full attachment is **502,895,096 bytes**. Exact whole-file page-object count and original SHA-256 remain pending.
-
-Do **not** equate the TDL physical description `443 p.` automatically with PDF scan count; covers, blanks or other scan objects may make those totals differ.
+One independent metadata rule remains important: never infer a printed number solely from sequence. For example, scan 13 sits between printed pages 10 and 12 but has no visible printed page number, so it remains `printed_page: null`.
 
 ## Current reconciliation state
 
 - full source identity: **confirmed**
 - TDL physical extent: **443 p.**
-- exact full PDF scan count: **pending**
+- exact full-PDF scan/page-object count: **pending**
+- original full-source SHA-256: **pending**
 - part 001 received: **scans 1–49**
 - known-prefix page map: **scans 1–150**
 - full-source page map: **INCOMPLETE**
-- canonical page records: **32**
-- verified: **32**
-- needs-review: **0**
-- original full-source SHA-256: **pending**
-- scan 150 / printed 148: **not source end**
+- canonical page records created: **32**
+- `verified`: **22**
+- `needs-review`: **10** — scans 23–32
+- remaining known-prefix `not-started`: **118**
 
-## Next actions
+## Full-source extent track
 
-### Textual-fidelity track
+1. receive/reconcile remaining page-range splits;
+2. determine the exact PDF scan/page-object count;
+3. inspect later scans directly, including the true ending/back matter;
+4. extend `indexes/page-map.md` to every scan without inferring printed numbers;
+5. establish the complete chapter structure;
+6. calculate the original full-source SHA-256 when byte-level access becomes available.
 
-Review **scans 33–42 / printed pages 31–40** from split part 001. This range continues chapter 3 and crosses into chapter 4 at scan 40 / printed page 38.
+## Textual-fidelity track
 
-### Full-source extent track
+The canonical Iteration 3 text has been restored to the user's supplied transcription. Do not advance to the next range until this correction state is accepted. When visual checking resumes, apparent disagreements must be flagged rather than silently substituted.
 
-1. receive/reconcile remaining split ranges;
-2. determine exact PDF scan/page-object count;
-3. inspect scan 151 onward directly;
-4. establish the true final printed page/back matter;
-5. extend `indexes/page-map.md` to every scan without inferred printed numbers;
-6. establish later chapter boundaries from the scan;
-7. calculate the original full-source SHA-256 when byte-level access is available.
-
-No English translation may begin while these Tamil/full-source gates remain open.
+No English translation may begin while the Tamil/full-source gates remain open.
