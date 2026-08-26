@@ -4,26 +4,27 @@ printed_page: null
 work: "pudhaiyal"
 section: "அறிமுகம்"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "direct visual inspection of source scan; exact body transcription deferred pending enlarged source pixels"
+transcription_method: "letter-by-letter direct visual comparison with source scan"
 ---
 
 # அறிமுகம்:
 
-## Source-reading status
+சரித்திரத்தின் அடிச்சுவடுகள் தெளிவின்றி மறைந்து விட்டது போன்ற சூழ்நிலைகள். பழமையின் கதையைப் பரிதாபத்தோடு சொல்லிக் கொண்டிருக்கும் பாழ் மண்டபங்கள். கதிர் மறைக்க கிளைக் கரம் நீட்டும் தரு நிழல்கள். வான் தொடுவதற்கென்று வளைந்து நிமிர்ந்து பனங்காய்த் தலையைத் தொங்கப் போட்டு, தம் தோல்வியை சொல்லாமற் சொல்லும் பனை மரக்காடுகள். இவைகளுக்கிடையே வீழ்ச்சியிலும் கலங்காத வீர நெப்போலியனைப் போல உயர்ந்து நிற்கும் அந்த ஏழடுக்கு எழில் மாடம்; அந்த மாடத்தின் மடியிலே தவழ்ந்தாடத் துள்ளி வரும் கடலரசி. இரவு நேரத்து விண் பிறைக்குப் போட்டியென பகல் நேரத்தில் நீலக்கடல் ராணி தன்பால் மிதக்கவிட்டுக் காட்டும் பாய் கட்டிப் படகுகள்.
 
-The supplied scan page was inspected directly. The printed heading **`அறிமுகம்:`** is clear, but the current rendered source view is not sufficiently legible for a reliable character-by-character transcription of the full body text.
+**சாளுவ நாயக்கன் பட்டினம்** அந்த ஊரின் பெயர். தஞ்சை மாவட்டத்திலே வாழ்பவருக்கே அது புதுமையான இடம். அதிராம்பட்டினத்திலிருந்து கடல் வழியே செல்லலாம். பேராவூரணியிலிருந்து நாடியம் என்னும் சிற்றூர் வழியாக தரை மார்க்கமாகவும் செல்லலாம். தமிழகத்தின் கடற்கரையில் அமைந்துள்ள சிற்றூர், பேரூர்கள் அனைத்திற்கும் பெரும்பாலும் “பட்டினம்” எனும் சிறப்புப் பெயர் வழங்குதலுண்டு. அதிராம்பட்டினத்திற்கும் சாளுவ நாயக்கன் பட்டினத்திற்கும் இடையே புதுப்பட்டினம் என்ற சிங்காரச் சிற்றூரும் இருக்கிறது. புதுப்பட்டினத்தில் பெருமளவுக்கு கடலை நம்பி வாழும் மனிதர்களே வாழ்கிறார்கள். எந்த நேரத்திலும் அந்த சிற்றூரின் தெருக்களிலே வலைகள் காய்ந்து கொண்டிருக்கும். அல்லது பழுதான வலைகள் புதுமையாக்கப்படும் வேலைகள் நடந்து கொண்டிருக்கும். காய்ந்த மீனின் வாசம்
 
-No uncertain body wording has been guessed from context, normalized, reconstructed from historical knowledge, or copied from an external text. The full body remains **`needs-review`** until the scan can be re-inspected at enlarged source resolution.
+## Page-boundary continuity
+
+The final phrase continues directly on scan 8 with `‘கம கம’ வென்று வந்துகொண்டிருக்கும்.` No completion has been moved backward into this page record.
 
 ## Scan observations
 
 - No visible printed page number.
-- Dense Tamil body prose begins below the `அறிமுகம்:` heading.
-- Light age staining / paper discoloration is visible.
-- Reverse-side show-through is visible but has not been treated as current-page printed text.
-- No external reference text has been substituted for the unreadable source lines.
+- `அறிமுகம்:` is source-printed with the colon.
+- Reverse-side show-through and light age staining are excluded from the transcription.
+- Reverified directly against scan 7 in `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 7; அச்சுப் பக்கம்: — -->
