@@ -34,8 +34,8 @@ The split is an access derivative of the controlling source, not a new edition.
 - source metadata — **registered; exact full scan count + original SHA-256 pending**
 - page map — **known prefix scans 1–150 mapped; full-source coverage incomplete**
 - Tamil page records created — **32**
-- `verified` — **22** (`scans 1–22`)
-- `needs-review` — **10** (`scans 23–32`)
+- `verified` — **32** (`scans 1–32`)
+- `needs-review` — **0**
 - remaining known-prefix rows `not-started` — **118**
 - Tamil source audit — **not started**
 - assembled Tamil reading layer — **blocked by Tamil audit gate**
@@ -49,8 +49,8 @@ For ambiguous old Tamil print:
 
 1. inspect the native embedded page image rather than a small preview;
 2. do not silently replace the user's reading from assistant inference;
-3. record the exact source-vs-baseline candidate as `needs-review`;
-4. change canonical text only after the reading has been explicitly reconciled;
+3. isolate and recheck the exact source-vs-baseline point;
+4. change canonical text only after the native scan establishes the reading;
 5. `verified` requires a final direct visual pass after reconciliation.
 
 OCR, grammar expectations, catalogue text and modern spelling are aids only.
@@ -67,45 +67,36 @@ Detailed review: [`notes/visual-fidelity-scans-001-012.md`](notes/visual-fidelit
 
 After hallucinated assistant corrections were identified later, scans 12–22 were reopened using the native **3146 × 4826** images.
 
-The re-audit corrected several assistant errors, including restoring source-supported forms such as:
-
-- `அப்போது தான்`
-- `கையிலேயும்`
-- `நம்பிக்கை யுண்டு`
-- `தன உயிருக்கே`
-- `அடங்கி விட்டதாகத் தானே`
-- `ஆராய்ந்து விட்டோம்`
-- `நாளைத் தவற`
-- `அடிபட்டு விட்டதால்`
+That re-audit corrected several assistant errors, including restoring source-supported forms such as `அப்போது தான்`, `கையிலேயும்`, `நம்பிக்கை யுண்டு`, `தன உயிருக்கே`, `அடங்கி விட்டதாகத் தானே`, `ஆராய்ந்து விட்டோம்`, `நாளைத் தவற`, and `அடிபட்டு விட்டதால்`.
 
 It also reconfirmed genuine source readings such as the four opening dialogue lines on scan 18 and the chapter-2 transition on scan 22.
 
-Current status: **scans 1–22 verified**.
+Current status: **verified**.
 
 Corrected report: [`notes/visual-fidelity-scans-013-022.md`](notes/visual-fidelity-scans-013-022.md).
 
-### Scans 23–32 — fresh native-resolution re-audit completed
+### Scans 23–32 — native-resolution reconciliation complete
 
-The user's Iteration 3 transcription was restored after the earlier assistant pass was invalidated. A fresh audit has now been performed directly against the native **3146 × 4826** embedded page images.
+The user's Iteration 3 transcription was restored after the earlier assistant pass was invalidated. The range was then re-audited against the native **3146 × 4826** embedded images, candidate readings were individually rechecked, source punctuation was reconciled, and a final page-by-page comparison was completed.
 
-**Important:** no source-vs-baseline candidate was silently applied during this pass. Canonical page bodies remain the restored user baseline and all ten scans remain `needs-review` until explicit reconciliation.
+Important final results include:
 
-High-confidence candidates recorded from the native scan include:
+- scan 23: `மதகின் உள்ளேயிருந்தவர்களுக்கு`; user reading `முரடர்களின் பேச்சு கூட` confirmed;
+- scan 24: `சிறு ஆறுதல் அளித்தது`, `சற்று ஆறுதல் அளித்தது`, and source-specific `அவர்களே நோக்கி`;
+- scan 25: `ஏதோ`, `போனதாகவும்`, `உணர்ந்ததாகவும்` and source dialogue punctuation;
+- scan 26: user readings `உண்மை தான்`, `மிக கூர்மையாக`, `அவனது நடையிலே வேகம் குறைந்தது` confirmed;
+- scan 27: `உதவுகிறது.` and `குளிர்காற்று` confirmed; unsupported clean-draft ellipsis removed;
+- scan 28: `அவன் முதுகில்`;
+- scan 29: **`அவர்களே தான்`** and **`அவளை அவன் காப்பாற்றித் தீர வேண்டும்`** confirmed after a second check; earlier assistant candidates `அவர்களேதான்` and `அவளே அவன்...` are withdrawn; source also has `கடல் பார்த்துக் கொண்டிருந்தாள்`;
+- scan 30: `பழைய பிரார்த்தனையில்`; chapter 2 → 3 transition on the same scan;
+- scan 31: full stop after `மூர்ச்சை யடைந்தான்.`, plus `அவனைத் தழுவிக்`, `முயன்றும்—விடாமல்`, `கட்டிவிட்டார்`;
+- scan 32: `தும்பைப்பூ`; page ends at `காலைத்`.
 
-- scan 23: source appears to include `மதகின் உள்ளேயிருந்தவர்களுக்கு`; baseline omits the first `மதகின்`;
-- scan 24: source clearly has `சிறு ஆறுதல் அளித்தது` and `சற்று ஆறுதல் அளித்தது`; baseline has `ஆறுதலை` in both places;
-- scan 24: native image strongly appears to print `அவர்களே நோக்கி`; baseline has `அவர்களை நோக்கி`; kept unresolved because this was previously disputed;
-- scan 28: source `அவன் முதுகில்`; baseline `அவன முதுகில்`;
-- scan 29: source-specific `கடல் பார்த்துக் கொண்டிருந்தாள்` and `அவளே அவன் காப்பாற்றித் தீர வேண்டும்`; baseline has `கடலை...` / `அவளை...`;
-- scan 30: source `பழைய பிரார்த்தனையில்`; baseline `பழைய பிரார்ந்தனையில்`;
-- scan 31: source word-boundary / dash forms include `அவனைத் தழுவிக்`, `முயன்றும்—விடாமல்`, `கட்டிவிட்டார்`;
-- scan 32: source `தும்பைப்பூ தாடியிலே`; baseline `தும்பை பூ தாடியிலே`.
+The supplied clean transcription's systematic doubled terminal punctuation (`..`, `!.`, `?.`) was replaced only where native inspection established the source punctuation.
 
-The native scan also confirms user readings that the earlier assistant had wrongly replaced, including scan 26 `உண்மை தான்`, `மிக கூர்மையாக`, `அவனது நடையிலே வேகம் குறைந்தது`, and scan 27 `குளிர்காற்று`.
+Current status: **scans 23–32 verified; unresolved readings 0**.
 
-There is additionally a **systematic punctuation mismatch**: the supplied clean transcription repeatedly uses forms such as `..`, `!.`, and `?.`, while the scan generally prints ordinary single stops/questions/exclamations plus source dashes/pauses. This has not yet been silently normalized.
-
-Detailed report: [`notes/visual-fidelity-scans-023-032.md`](notes/visual-fidelity-scans-023-032.md).
+Final report: [`notes/visual-fidelity-scans-023-032.md`](notes/visual-fidelity-scans-023-032.md).
 
 ## Physical structure established so far
 
@@ -148,8 +139,6 @@ Current prefix manifest: [`indexes/page-map.md`](indexes/page-map.md).
 
 ## Exact next activity
 
-**Do not advance to scans 33–42 yet.**
+Process the user's next transcription iteration for **scans 33–42 / printed pages 31–40** from split part 001. This continues chapter `3` and crosses into chapter `4` at scan 40 / printed page 38.
 
-First reconcile the explicit source-vs-baseline candidates documented for scans **23–32**, including the systematic punctuation question. Apply only confirmed readings, then perform one final native-image page-by-page comparison of scans 23–32 before changing any of them to `verified`.
-
-Do not start English translation.
+Use the same native-image verification method and preserve every physical scan boundary. Do not start English translation.
