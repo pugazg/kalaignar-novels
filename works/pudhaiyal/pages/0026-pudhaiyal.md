@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied transcription restored after disputed assistant visual pass; pending fresh direct visual re-audit"
+transcription_method: "user-supplied baseline retained; native-resolution re-audit completed; source punctuation/spacing pending reconciliation"
 ---
 
 "துரை!. காதல் பாதை கரடு முரடானது என்பது உண்மை தான்!".
@@ -26,6 +26,6 @@ transcription_method: "user-supplied transcription restored after disputed assis
 
 ## Review status
 
-The previous assistant visual corrections for this iteration are invalidated. User-supplied wording is restored pending a fresh direct visual re-audit.
+Native 3146 × 4826 scan re-audit completed. The native scan confirms the restored user readings `உண்மை தான்`, `மிக கூர்மையாக`, and `அவனது நடையிலே வேகம் குறைந்தது`. Source punctuation/spacing still differs from the clean transcription and remains pending explicit reconciliation. See `../notes/visual-fidelity-scans-023-032.md`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 26; அச்சுப் பக்கம்: 24 -->
