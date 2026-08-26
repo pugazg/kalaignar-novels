@@ -20,15 +20,15 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Split-source fidelity workflow active; part 001 scans 1–49 received; scans 1–12 verified; 12 Tamil page records; full-source manifest still incomplete; translation blocked** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Split-source fidelity workflow active; part 001 scans 1–49 received; scans 1–22 verified; 22 Tamil page records; full-source manifest incomplete; translation blocked** |
 
 ### புதையல் — current source state
 
 The repository previously treated **150 known/rendered scans** as the complete PDF. That claim has been withdrawn.
 
-Tamil Digital Library's bibliographic record reports **443 p.** and the item is exposed there as **PDF — 2 Files**. The exact PDF scan/page-object count therefore remains pending until the remaining source ranges are reconciled.
+Tamil Digital Library's bibliographic record reports **443 p.** and the item is exposed there as **PDF — 2 Files**. The exact PDF scan/page-object count remains pending until the remaining source ranges are reconciled.
 
-The first split has now been supplied:
+Received split:
 
 `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`
 
@@ -36,23 +36,27 @@ Current state:
 
 - part 001 — **49 pages / source scans 1–49 received**;
 - page map — **known prefix scans 1–150; full-source coverage incomplete**;
-- Tamil page records created — **12**;
-- verified — **12**;
+- Tamil page records created — **22**;
+- verified — **22**;
 - needs-review — **0**;
 - complete `அறிமுகம்` scans 7–12 — **verified**;
+- chapter 1 scans 13–21 — **verified**;
+- scan 22 / printed page 20 — chapter 1 closes and chapter 2 begins on the same scan — **verified**;
 - exact full-source scan count — **pending**;
 - original SHA-256 — **pending**;
 - Tamil audit — **not started**;
 - assembled Tamil — **blocked**;
 - English translation — **blocked**;
-- source PDF committed — **No**.
+- source PDF / split PDFs committed — **No**.
 
 Source-extent correction: [`works/pudhaiyal/notes/source-page-count-reconciliation.md`](works/pudhaiyal/notes/source-page-count-reconciliation.md).  
-Latest fidelity review: [`works/pudhaiyal/notes/visual-fidelity-scans-001-012.md`](works/pudhaiyal/notes/visual-fidelity-scans-001-012.md).
+Fidelity reviews: [`works/pudhaiyal/notes/visual-fidelity-scans-001-012.md`](works/pudhaiyal/notes/visual-fidelity-scans-001-012.md) and [`works/pudhaiyal/notes/visual-fidelity-scans-013-022.md`](works/pudhaiyal/notes/visual-fidelity-scans-013-022.md).
+
+Important numbering correction: scan **13**, the chapter-1 opening page, does **not** visibly print a page number. It is therefore stored with `printed_page: null`; the value 11 is not inferred simply because scans 12 and 14 print 10 and 12.
 
 The scan remains controlling for exact edition wording. It visibly says **`மூன்றாம் பதிப்பு, செப்டம்பர், 1961`**, even though a catalogue summary elsewhere labels the work `முதல் பதிப்பு, 1961`; catalogue wording does not override the scan.
 
-Exact next transcription batch: **scans 13–16 / printed pages 11–14** from split part 001.
+Exact next transcription batch: **scans 23–26 / printed pages 21–24**, continuing chapter 2 from split part 001.
 
 ## நிறைவு பெற்ற reference work
 
@@ -117,6 +121,7 @@ works/
     notes/
       source-page-count-reconciliation.md
       visual-fidelity-scans-001-012.md
+      visual-fidelity-scans-013-022.md
     pages/
 ```
 
