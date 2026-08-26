@@ -4,24 +4,27 @@ printed_page: 6
 work: "pudhaiyal"
 section: "அறிமுகம்"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "direct visual inspection of source scan; exact body transcription deferred pending enlarged source pixels"
+transcription_method: "letter-by-letter direct visual comparison with source scan"
 ---
 
-## Source-reading status
+‘கம கம’ வென்று வந்துகொண்டிருக்கும். கட்டு மரங்கள்-படகுச் சாமான்கள்-தெருவெல்லாம் இறைந்து கிடக்கும்; அவைகளில் சிறார்கள் அமர்ந்து விளையாடிக் கொண்டிருப்பார்கள். நாலைந்து தெருக்களே உள்ள அந்தப் புதுப்பட்டினம் பார்வைக்கு அழகாகவும் ஓய்வு பெறுகிறவருக்கு உல்லாசமளிப்பதாகவும் இருப்பதற்கு காரணமே அந்தக் கடல்தான் என்று கூறிவிடலாம். முஸ்லீம் மக்களும் அந்த சிற்றூரில் வாழ்கிறார்கள் என்பதை எடுத்துக்காட்ட ஒரு சிறு மசூதி. அதன் எதிரிலே கட்டிவிடப்பட்டிருக்கும் துண்டுத் திண்ணைகள் தான் அந்த ஊர்க்காரர்களுக்கு கடற்காற்று வாங்கும் இடம். புதுப்பட்டினத்திற்கும், சாளுவ நாயக்கன் பட்டினத்திற்கும் அதிக தொலைவில்லாவிடினும் கடல்வழியாகப் போவதுதான் சுலபமான பயணம்.
 
-The supplied scan page was inspected directly. It is a continuation of the `அறிமுகம்` and visibly carries printed page number **6**. The current rendered source view is not sufficiently legible for a reliable character-by-character transcription of the complete body text.
+சாளுவ நாயக்கன் பட்டினம் என்ற பெயர் அந்தப் பகுதி மக்களிடையே அதிகமாக அடிபடுவதில்லை. காரணம், பட்டினத்திற்குரிய அமைப்புகளோ - வீடு வாசல்களோ- தெருக்களோ- எதுவுமே அங்கு கிடையாது. அங்கே நிற்கும் அந்த ஏழடுக்கு மாடத்தின் பெயராலேயே அந்த இடத்தை அழைப்பது வழக்கமாகிவிட்டது.
 
-No uncertain wording has been guessed from context, normalized, reconstructed from historical knowledge, or copied from an external text. The body remains **`needs-review`** until this scan can be re-inspected at enlarged source resolution.
+**மனோரா!** ஆம், சாளுவ நாயக்கன் பட்டினத்தைக் குறிக்கும் செல்லப் பெயர் அதுதான், அந்த எழில் மாடத்தின் பெயர் தான் மனோரா! “மினார்” என்ற சொல், நாளடைவில் மனோரா என்று மாறியிருக்கவேண்டும். தஞ்சை மாவட்டத்தில் உள்ள நாகூர், முஸ்லீம்கள் வாழும் பிரதேசம். அங்குள்ள தர்க்காவில் எழுந்து நிற்கும் மாடங்களை மனோரா என்றே அழைப்பார்கள். அதே முறையில் இந்த மாடத்திற்கும் பெயர் சூட்டிவிட்டார்கள் போலும்! மனோரா- தஞ்சையை ஆண்ட சரபோஜி மன்னனால் கட்டப்பட்டது. நெப்போலியன் ஆங்கிலேயரால் தோற்கடிக்கப்பட்டான் என்ற வெற்றிச் செய்தியை அறிவிக்கும் அடை
+
+## Page-boundary continuity
+
+The source physically breaks `அடையாளமாக` across scans 8→9: scan 8 ends with `அடை`; scan 9 begins `யாளமாக`. The split is preserved rather than silently moving the complete word to either page.
 
 ## Scan observations
 
 - Visible printed page number: **6**.
-- Dense Tamil prose continues from scan 7.
-- Light age staining / paper discoloration and reverse-side show-through are visible.
-- Printed emphasis occurs within the body, but no uncertain wording from it has been promoted into canonical transcription at this stage.
-- No external reference text has been substituted for unreadable source lines.
+- Prose continues directly from scan 7.
+- Source punctuation and printed hyphen/dash usage are retained rather than replaced by the supplied transcription's repeated `..` punctuation.
+- Reverified directly against scan 8 in `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 8; அச்சுப் பக்கம்: 6 -->
