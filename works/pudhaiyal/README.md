@@ -33,51 +33,51 @@ This split is an access derivative of the controlling source, not a new edition.
 - source metadata — **registered; exact full scan count + original SHA-256 pending**
 - page map — **known prefix scans 1–150 mapped; full-source coverage incomplete**
 - Tamil page records created — **32**
-- `verified` — **32**
-- `needs-review` — **0**
+- `verified` — **22**
+- `needs-review` — **10** (`scans 23–32`)
 - remaining known-prefix rows `not-started` — **118**
 - Tamil source audit — **not started**
 - assembled Tamil reading layer — **blocked by Tamil audit gate**
 - English translation — **blocked by Tamil audit gate**
 
-## Letter-by-letter fidelity passes
+## Fidelity passes
 
 ### Scans 1–12 — front matter + `அறிமுகம்`
 
-Complete and verified. Detailed review: [`notes/visual-fidelity-scans-001-012.md`](notes/visual-fidelity-scans-001-012.md).
+Current repository status remains `verified`. Detailed review: [`notes/visual-fidelity-scans-001-012.md`](notes/visual-fidelity-scans-001-012.md).
 
 ### Scans 13–22 — chapter 1 + chapter 2 opening
 
-Complete and verified. Detailed review: [`notes/visual-fidelity-scans-013-022.md`](notes/visual-fidelity-scans-013-022.md).
+Current repository status remains `verified`. Detailed review: [`notes/visual-fidelity-scans-013-022.md`](notes/visual-fidelity-scans-013-022.md).
 
-Important structural result: scan 22 / printed page 20 closes chapter `1` and begins chapter `2` on the same physical scan.
+Important structural result retained: scan 22 / printed page 20 closes chapter `1` and begins chapter `2` on the same physical scan.
 
-### Scans 23–32 — chapter 2 → chapter 3
+### Scans 23–32 — Iteration 3 correction
 
-Complete and verified. Detailed review: [`notes/visual-fidelity-scans-023-032.md`](notes/visual-fidelity-scans-023-032.md).
+The assistant's claimed visual-fidelity corrections for this range were **invalidated by the user**. The user explicitly confirmed that the Iteration 3 transcription they supplied is correct and that the assistant's proposed replacements were hallucinated.
 
-Material scan-supported corrections against the supplied Iteration 3 draft include:
+Actions taken:
 
-- scan 23: `மதகின் உள்ளேயிருந்தவர்களுக்கு`;
-- scan 24: `சிறு ஆறுதல் அளித்தது`, `சற்று ஆறுதல் அளித்தது`, source oddity `அவர்களே நோக்கி`, and `அப்போது தான்`;
-- scan 26: `உண்மை தான்`, `மிக கூர்மையாக`, and `அவனது நடையிலே வேகம் குறைந்தது`;
-- scan 27: first prayer `உதவுகிறது.` ends with a full stop;
-- scan 28: `அவன் முதுகில்` and source form `துல்யமாகத்`;
-- scan 29: source oddities `அவர்களேதான்`, `கடல் பார்த்துக்`, `அவளே அவன் காப்பாற்றித் தீர வேண்டும்`;
-- scan 30: chapter `2` closes and chapter `3` begins on the **same physical scan**;
-- scan 31: `மூர்ச்சை யடைந்தான்`, `சுவை யிருக்கத்தான்`, `அவனைத் தழுவிக்`, and the source's apparent missing punctuation after `யடைந்தான்` are preserved;
-- scan 32: `தும்பைப்பூ`; the page ends mid-sentence at `காலைத்`.
+- restored `pages/0023-pudhaiyal.md` through `pages/0032-pudhaiyal.md` to the user's supplied Iteration 3 wording;
+- withdrew all assistant-proposed source-reading corrections from that pass;
+- changed scans 23–32 from `verified` to **`needs-review`** because the assistant visual verification cannot be relied upon;
+- retained the source PDFs outside the repository.
 
-## Verified page-boundary continuity
+Invalidation record: [`notes/visual-fidelity-scans-023-032.md`](notes/visual-fidelity-scans-023-032.md).
 
-The canonical page layer preserves physical boundaries. Recent checks include:
+### Revised verification rule
 
-- scan 23 `நானும் சக்கிலியும்` → scan 24 `இந்தப் பக்கம் போறோம்...`;
-- scan 24 `கடற்கரை வந்து` → scan 25 `விடும்.`;
-- scan 26 `பூரணமாக விளங்குவதற்கு` → scan 27 `உதவியாக நிலவு...`;
-- scan 29 `சாவுக் கண்ணீர்!` → scan 30 `என்ற ஒலிதான் அது!`;
-- chapter `2` → chapter `3` transition inside scan 30;
-- scan 32 ends at `காலைத்`; continuation belongs only to scan 33.
+For subsequent user-supplied transcription batches, the supplied transcription is the baseline. Visual checking must not silently replace it. If an old Tamil glyph, spacing, punctuation mark or word appears different, record that exact point as `needs-review` and surface it for confirmation instead of committing an assistant-inferred reading.
+
+This rule is especially important for degraded print and old Tamil glyph forms.
+
+## Physical page structure currently retained
+
+The chapter/page-boundary structure itself remains recorded separately from disputed textual readings:
+
+- scan 22 / printed 20 — chapter 1 closes / chapter 2 begins on the same physical scan;
+- scan 30 / printed 28 — chapter 2 closes / chapter 3 begins on the same physical scan;
+- scan 32 / printed 30 ends mid-sentence at `காலைத்` in the supplied transcription.
 
 ## Source structure — currently known prefix only
 
@@ -120,10 +120,10 @@ Current prefix manifest: [`indexes/page-map.md`](indexes/page-map.md).
 
 ## Authority
 
-The source scan controls exact Tamil wording, punctuation, spacing, dialogue and page-level transcription. User-supplied draft text, OCR, catalogue/web material and external editions are aids only.
+The source scan remains the controlling source. The user's supplied transcription must not be overridden merely because the assistant believes an ambiguous old-print glyph looks different. OCR, catalogue material, grammar expectations and assistant visual inference are aids only.
 
 ## Exact next activity
 
-**Review scans 33–42 / printed pages 31–40 from split part 001 against the user's next iteration.**
+**Pause before advancing to scans 33–42.** Scans 23–32 have been restored to the user's Iteration 3 transcription and are currently `needs-review` because the previous visual pass was invalidated.
 
-This ten-page iteration continues chapter `3` and crosses into chapter `4` at scan 40 / printed page 38. Preserve the physical chapter transition and every scan boundary; leave any genuinely uncertain glyph `needs-review` rather than guessing. Continue full-source reconciliation as later split parts are supplied. Do not start English translation.
+When transcription work resumes, use the user's supplied text as the baseline and flag apparent source discrepancies for confirmation rather than silently changing the canonical text. Continue full-source reconciliation as later split parts are supplied. Do not start English translation.
