@@ -4,7 +4,9 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 
 > **Critical correction:** this manifest currently covers only the **known prefix through scan 150**. It is **not a complete source manifest**. Tamil Digital Library describes the same item as **443 p.**, and later split-source parts are still required to establish the exact full scan count.
 
-> **Split-source verification:** `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` has been supplied and directly inspected for letter-by-letter verification of scans 1–49. It is an access derivative of the controlling source and is not committed to this repository.
+> **Split-source verification:** `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` is available as an access derivative of the controlling source and is not committed to this repository.
+
+> **User-correction rule:** the assistant's 2026-08-26 visual-correction pass for scans 23–32 was invalidated after the user confirmed that the supplied Iteration 3 transcription was correct. Those ten page records now preserve the user's supplied wording and are `needs-review` until a fresh visual pass can confirm them without substituting assistant-inferred readings.
 
 > **Work-level rule:** `புதையல்` is one continuous work. `அறிமுகம்` and numbered chapter headings are internal units unless full-source evidence establishes otherwise.
 
@@ -36,16 +38,16 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 | 20 | 18 | chapter 1 | verified | `pages/0020-pudhaiyal.md` |
 | 21 | 19 | chapter 1 | verified | `pages/0021-pudhaiyal.md` |
 | 22 | 20 | chapter 1 closes / chapter 2 begins | verified | `pages/0022-pudhaiyal.md` |
-| 23 | 21 | chapter 2 | verified | `pages/0023-pudhaiyal.md` |
-| 24 | 22 | chapter 2 | verified | `pages/0024-pudhaiyal.md` |
-| 25 | 23 | chapter 2 | verified | `pages/0025-pudhaiyal.md` |
-| 26 | 24 | chapter 2 | verified | `pages/0026-pudhaiyal.md` |
-| 27 | 25 | chapter 2 | verified | `pages/0027-pudhaiyal.md` |
-| 28 | 26 | chapter 2 | verified | `pages/0028-pudhaiyal.md` |
-| 29 | 27 | chapter 2 | verified | `pages/0029-pudhaiyal.md` |
-| 30 | 28 | chapter 2 closes / chapter 3 begins | verified | `pages/0030-pudhaiyal.md` |
-| 31 | 29 | chapter 3 | verified | `pages/0031-pudhaiyal.md` |
-| 32 | 30 | chapter 3 | verified | `pages/0032-pudhaiyal.md` |
+| 23 | 21 | chapter 2 | needs-review | `pages/0023-pudhaiyal.md` |
+| 24 | 22 | chapter 2 | needs-review | `pages/0024-pudhaiyal.md` |
+| 25 | 23 | chapter 2 | needs-review | `pages/0025-pudhaiyal.md` |
+| 26 | 24 | chapter 2 | needs-review | `pages/0026-pudhaiyal.md` |
+| 27 | 25 | chapter 2 | needs-review | `pages/0027-pudhaiyal.md` |
+| 28 | 26 | chapter 2 | needs-review | `pages/0028-pudhaiyal.md` |
+| 29 | 27 | chapter 2 | needs-review | `pages/0029-pudhaiyal.md` |
+| 30 | 28 | chapter 2 closes / chapter 3 begins | needs-review | `pages/0030-pudhaiyal.md` |
+| 31 | 29 | chapter 3 | needs-review | `pages/0031-pudhaiyal.md` |
+| 32 | 30 | chapter 3 | needs-review | `pages/0032-pudhaiyal.md` |
 | 33 | 31 | chapter 3 | not-started | `pages/0033-pudhaiyal.md` |
 | 34 | 32 | chapter 3 | not-started | `pages/0034-pudhaiyal.md` |
 | 35 | 33 | chapter 3 | not-started | `pages/0035-pudhaiyal.md` |
@@ -163,43 +165,35 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 | 147 | 145 | chapter 16 | not-started | `pages/0147-pudhaiyal.md` |
 | 148 | 146 | chapter 16 | not-started | `pages/0148-pudhaiyal.md` |
 | 149 | 147 | chapter 16 | not-started | `pages/0149-pudhaiyal.md` |
-| 150 | 148 | chapter 16 continues; end of known initial prefix, **not source end** | not-started | `pages/0150-pudhaiyal.md` |
+| 150 | 148 | chapter 16 continues; end of known prefix, not source end | not-started | `pages/0150-pudhaiyal.md` |
 
 ## Current manifest state
 
 - Tamil Digital Library bibliographic extent: **443 p.**
-- Exact full-PDF scan/page-object count: **pending**
-- Known-prefix rows currently mapped: **150**
+- Exact full-PDF scan/page-object count: **pending complete source reconciliation**
+- Split part 001 available: **scans 1–49**
+- Known-prefix rows mapped above: **150**
 - Full-source page-map coverage: **INCOMPLETE**
 - Page records actually created: **32**
-- `verified`: **32**
-- `needs-review`: **0**
+- `verified`: **22**
+- `needs-review`: **10** — scans 23–32 after invalidation of the assistant visual-correction pass
 - remaining known-prefix rows `not-started`: **118**
-- split part 001 received: **scans 1–49**
-- source PDF/split stored in repository: **No**
+- scans beyond 150: **not yet fully mapped**
+- Source PDF / split PDFs stored in repository: **No**
 
-## Verified structural checkpoints
+## Structural checkpoints — known prefix only
 
-- scans 7–12 — `அறிமுகம்`
-- scan 13 — chapter 1 begins; no printed page number visible
-- scan 22 / printed 20 — chapter 1 closes and chapter 2 begins on the same physical scan
-- scan 30 / printed 28 — chapter 2 closes and chapter 3 begins on the same physical scan
-- scan 40 / printed 38 — chapter 4 begins
-- scan 52 / printed 50 — chapter 5 begins
-- scan 60 / printed 58 — chapter 6 begins
-- scan 69 / printed 67 — chapter 7 begins
-- scan 75 / printed 73 — chapter 8 begins
-- scan 84 / printed 82 — chapter 9 begins
-- scan 93 / printed 91 — chapter 10 begins
-- scan 102 / printed 100 — chapter 11 begins
-- scan 110 / printed 108 — chapter 12 begins
-- scan 119 / printed 117 — chapter 13 begins
-- scan 128 / printed 126 — chapter 14 begins
-- scan 138 / printed 136 — chapter 15 begins
-- scan 146 / printed 144 — chapter 16 begins within the known prefix
+Directly established structural checkpoints currently retained:
 
-Later chapter boundaries and the true source ending remain subject to full-source reconciliation.
+- `அறிமுகம்` — scans 7–12
+- chapter 1 — scan 13 begins; scan 22 closes chapter 1 and begins chapter 2 on the same physical scan
+- chapter 2 — continues through scan 30; scan 30 closes chapter 2 and begins chapter 3 on the same physical scan
+- chapter 3 — continues through scan 39
+- chapter 4 — scan 40 begins
+- later chapter checkpoints through scan 150 remain provisional known-prefix structure pending full-source reconciliation
+
+No claim is currently made about the final chapter number or actual source ending.
 
 ## Exact next activity
 
-Directly compare the user's next transcription iteration against **scans 33–42 / printed pages 31–40** in split part 001, create/verify those ten page records, and preserve the chapter-3 → chapter-4 transition at scan 40 / printed page 38. Continue full-source extent reconciliation as later split parts are supplied. Do not start English translation.
+**Do not advance to scans 33–42 until the Iteration 3 correction state is accepted.** The canonical scans 23–32 have been restored to the user's supplied transcription. If/when visual checking resumes, treat the user transcription as the baseline: flag any apparent glyph disagreement as `needs-review` rather than replacing it with an assistant-inferred reading.
