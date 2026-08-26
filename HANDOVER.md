@@ -45,8 +45,9 @@ When the user supplies a transcription:
 - do **not** treat it as higher authority than the scan;
 - do **not** replace it merely because a small preview appears different;
 - inspect the native embedded scan image first;
-- if the native image and baseline appear to disagree, record the exact candidate as `needs-review` and surface it for explicit reconciliation rather than silently changing canonical text;
-- after reconciliation, perform a final direct visual comparison before using `verified`.
+- isolate every apparent source-vs-baseline difference and recheck it individually;
+- change canonical text only after the native scan establishes the reading;
+- after reconciliation, perform a final direct page-by-page visual comparison before using `verified`.
 
 OCR, grammar expectations, catalogue text and modern spelling are aids only.
 
@@ -111,7 +112,7 @@ Received access split:
 - embedded page-image size: **3146 × 4826**
 - committed to GitHub: **No**
 
-The native embedded page image, not the smaller preview renderer, should be used for textual-fidelity decisions.
+The native embedded page image, not the smaller preview renderer, must be used for textual-fidelity decisions.
 
 ---
 
@@ -120,8 +121,9 @@ The native embedded page image, not the smaller preview renderer, should be used
 Canonical page records exist through scan **32**.
 
 - page records created: **32**
-- `verified`: **22** — scans 1–22
-- `needs-review`: **10** — scans 23–32
+- `verified`: **32** — scans 1–32
+- `needs-review`: **0**
+- unresolved readings through scan 32: **0**
 - known-prefix rows `not-started`: **118**
 - full-source page-map coverage: **INCOMPLETE**
 - Tamil whole-work audit: **not started**
@@ -132,11 +134,11 @@ Fidelity records:
 
 - `works/pudhaiyal/notes/visual-fidelity-scans-001-012.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-013-022.md` — corrected native-resolution re-audit
-- `works/pudhaiyal/notes/visual-fidelity-scans-023-032.md` — fresh native-resolution re-audit; canonical user baseline intentionally unchanged pending reconciliation
+- `works/pudhaiyal/notes/visual-fidelity-scans-023-032.md` — final native-resolution reconciliation; 10/10 verified; unresolved 0
 
 ---
 
-# 7. Corrected earlier re-audit — scans 12–22
+# 7. Corrected native-resolution history — scans 12–22
 
 After hallucinated assistant corrections were discovered, printed pages 10–20 / scans 12–22 were reopened using native **3146 × 4826** page images.
 
@@ -157,44 +159,31 @@ Scans **1–22 are verified only on the basis of this corrected native-resolutio
 
 ---
 
-# 8. Fresh native-resolution re-audit — scans 23–32 / printed 21–30
+# 8. Final native-resolution reconciliation — scans 23–32 / printed 21–30
 
-The user's restored Iteration 3 transcription was used as the baseline. Native embedded page images were inspected at **3146 × 4826**. No OCR reading was treated as authority.
+The user's restored Iteration 3 transcription was used as the comparison baseline. Native embedded page images were inspected at **3146 × 4826**, discrepancies were isolated and repeatedly checked, source punctuation was reconciled, and a final page-by-page comparison was completed.
 
-**No canonical body text was changed in this pass.** All ten pages remain `needs-review` until the candidates below are explicitly reconciled.
+Final source-confirmed points include:
 
-## High-confidence candidates recorded, not applied
+- scan 23: `மதகின் உள்ளேயிருந்தவர்களுக்கு`; `முரடர்களின் பேச்சு கூட` confirmed;
+- scan 24: `சிறு ஆறுதல் அளித்தது`, `சற்று ஆறுதல் அளித்தது`, `அவர்களே நோக்கி`;
+- scan 25: `ஏதோ`, `போனதாகவும்`, `உணர்ந்ததாகவும்` and source dialogue punctuation;
+- scan 26: `உண்மை தான்`, `மிக கூர்மையாக`, `அவனது நடையிலே வேகம் குறைந்தது` confirmed;
+- scan 27: `உதவுகிறது.` and `குளிர்காற்று` confirmed;
+- scan 28: `அவன் முதுகில்`;
+- scan 29: `அவர்களே தான்`, `கடல் பார்த்துக் கொண்டிருந்தாள்`, `அவளை அவன் காப்பாற்றித் தீர வேண்டும்`; previous assistant candidates `அவர்களேதான்` and `அவளே அவன்...` are explicitly withdrawn;
+- scan 30: `பழைய பிரார்த்தனையில்`; chapter `2` → `3` transition remains on this scan;
+- scan 31: punctuation after `மூர்ச்சை யடைந்தான்.`, plus `அவனைத் தழுவிக்`, `முயன்றும்—விடாமல்`, `கட்டிவிட்டார்`;
+- scan 32: `தும்பைப்பூ`; physical page ends at `காலைத்`.
 
-- scan 23: native scan appears to include `மதகின் உள்ளேயிருந்தவர்களுக்கு`; baseline omits the first `மதகின்`;
-- scan 24: native scan clearly has `சிறு ஆறுதல் அளித்தது` and `சற்று ஆறுதல் அளித்தது`; baseline uses `ஆறுதலை`;
-- scan 24: native image strongly appears to print `அவர்களே நோக்கி`; baseline has `அவர்களை நோக்கி`; kept explicitly unresolved because this was previously disputed;
-- scan 28: source `அவன் முதுகில்`; baseline `அவன முதுகில்`;
-- scan 29: source `அவர்களேதான்`, `கடல் பார்த்துக் கொண்டிருந்தாள்`, `அவளே அவன் காப்பாற்றித் தீர வேண்டும்`; baseline differs;
-- scan 30: source `பழைய பிரார்த்தனையில்`; baseline `பழைய பிரார்ந்தனையில்`;
-- scan 31: source word-boundary / dash forms include `அவனைத் தழுவிக்`, `முயன்றும்—விடாமல்`, `கட்டிவிட்டார்`;
-- scan 32: source `தும்பைப்பூ தாடியிலே`; baseline `தும்பை பூ தாடியிலே`.
+The supplied clean transcription's systematic doubled terminal punctuation (`..`, `!.`, `?.`) was replaced only where native visual inspection established the printed punctuation.
 
-## Confirmed user readings after native recheck
+Final status for scans 23–32:
 
-The fresh pass also confirms that some user readings previously changed by the assistant are source-supported, including:
-
-- scan 26: `உண்மை தான்`;
-- scan 26: `மிக கூர்மையாக`;
-- scan 26: `அவனது நடையிலே வேகம் குறைந்தது`;
-- scan 27: first prayer `உதவுகிறது.`;
-- scan 27: `குளிர்காற்று`.
-
-## Punctuation issue
-
-The supplied clean transcription systematically contains terminal forms such as `..`, `!.`, and `?.`. The native scan generally prints ordinary single stops, question/exclamation marks, and source dashes/long pauses instead.
-
-This punctuation mismatch is **not yet silently normalized**. It is part of the explicit reconciliation needed before scans 23–32 can be verified.
-
-Detailed report:
-
-`works/pudhaiyal/notes/visual-fidelity-scans-023-032.md`
-
-Page records `0023`–`0032` have been updated only in their review metadata/notes to record that the native-resolution audit is complete; their canonical Tamil body remains the restored user baseline.
+- `verified`: **10 / 10**
+- unresolved readings: **0**
+- canonical page records: synchronized
+- final report: `works/pudhaiyal/notes/visual-fidelity-scans-023-032.md`
 
 ---
 
@@ -243,11 +232,24 @@ Do not begin English translation until:
 
 # 11. Exact next activity
 
-**Do not process scans 33–42 yet.**
+Process the user's next transcription iteration for **scans 33–42 / printed pages 31–40** from `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`.
 
-Next action is to reconcile the explicit native-scan candidates for scans **23–32** with the user, including the systematic punctuation issue. Apply only readings the source review confirms, then perform one final native-image page-by-page comparison of scans 23–32 before changing any page to `verified`.
+This batch:
 
-After scans 23–32 are fully reconciled and verified, proceed to the user's next transcription iteration for scans 33–42 / printed pages 31–40.
+- continues chapter `3` through scans 33–39;
+- crosses into chapter `4` at scan 40 / printed page 38;
+- continues chapter `4` through scans 41–42.
+
+For every page:
+
+1. use the supplied transcription as baseline;
+2. inspect the native embedded page image;
+3. preserve the physical scan boundary;
+4. isolate and recheck apparent disagreements instead of silently changing the baseline;
+5. preserve source-supported punctuation, spacing, spelling and oddities;
+6. mark `verified` only after a final direct visual comparison.
+
+Create `pages/0033-pudhaiyal.md` through `pages/0042-pudhaiyal.md`, then synchronize `indexes/page-map.md`, work README, root README and this HANDOVER.
 
 Do not start English translation.
 
