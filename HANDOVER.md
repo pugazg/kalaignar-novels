@@ -24,7 +24,7 @@ Before changing the current/next work:
 
 ---
 
-# 2. Controlling-source policy
+# 2. Controlling-source and user-transcription policy
 
 Authority order:
 
@@ -37,7 +37,9 @@ Authority order:
 
 Do not silently modernize, repair, normalize, reconstruct or improve source-supported Tamil. Preserve spelling, punctuation, spacing, colloquial forms, typographical oddities, page boundaries and internal structure. Separate printed text from handwriting, provenance marks, underlining, bleed-through and scan artefacts.
 
-User-supplied transcription and OCR are aids only. `verified` requires direct visual comparison with the scan.
+**Important correction to workflow after Iteration 3:** when the user supplies a transcription, use it as the baseline during visual checking. If an old-print glyph, spacing or punctuation appears to disagree, do not silently replace the user's reading with an assistant inference. Flag that exact point as `needs-review` and surface it for confirmation. This is mandatory for ambiguous old Tamil glyphs and degraded print.
+
+`verified` requires dependable direct visual comparison with the scan. A visual pass later shown to contain assistant hallucinations must be invalidated and must not remain `verified`.
 
 ---
 
@@ -114,20 +116,19 @@ This is an access derivative of the controlling scan, not a new edition.
 Canonical page records now exist through scan **32**.
 
 - page records created: **32**
-- `verified`: **32**
-- `needs-review`: **0**
-- unresolved readings in scans 1–32: **0**
+- `verified`: **22** — scans 1–22
+- `needs-review`: **10** — scans 23–32 after invalidation of the assistant visual-correction pass
 - known-prefix rows `not-started`: **118**
 - full-source page-map coverage: **INCOMPLETE**
 - Tamil whole-work audit: **not started**
 - assembled Tamil layer: **blocked**
 - English translation: **blocked**
 
-Fidelity reports:
+Fidelity / correction records:
 
 - `works/pudhaiyal/notes/visual-fidelity-scans-001-012.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-013-022.md`
-- `works/pudhaiyal/notes/visual-fidelity-scans-023-032.md`
+- `works/pudhaiyal/notes/visual-fidelity-scans-023-032.md` — **invalidated previous correction claims; user Iteration 3 transcription restored**
 
 ---
 
@@ -158,29 +159,22 @@ Later chapter boundaries and the real ending remain open until later split parts
 
 ---
 
-# 8. Latest fidelity pass — scans 23–32 / printed 21–30
+# 8. Iteration 3 correction — scans 23–32 / printed 21–30
 
-The user's Iteration 3 transcription was compared letter by letter with split part 001. The draft was not copied verbatim.
+The previous assistant pass claimed a series of scan-supported corrections against the user's Iteration 3 transcription. The user explicitly rejected those corrections and stated that their supplied transcription is correct and the assistant had hallucinated.
 
-Important source-supported corrections include:
+The previous correction claims are therefore **withdrawn**.
 
-- scan 23: `மதகின் உள்ளேயிருந்தவர்களுக்கு`;
-- scan 24: `சிறு ஆறுதல் அளித்தது`, `சற்று ஆறுதல் அளித்தது`, source oddity `அவர்களே நோக்கி`, and `அப்போது தான்`;
-- scan 26: `உண்மை தான்`, `மிக கூர்மையாக`, `அவனது நடையிலே வேகம் குறைந்தது`;
-- scan 27: first prayer `உதவுகிறது.` ends with a full stop;
-- scan 28: `அவன் முதுகில்`, `துல்யமாகத்`;
-- scan 29: `அவர்களேதான்`, `கடல் பார்த்துக்`, `அவளே அவன் காப்பாற்றித் தீர வேண்டும்`;
-- scan 30: chapter `2` → `3` transition occurs on the same scan;
-- scan 31: `மூர்ச்சை யடைந்தான்`, `சுவை யிருக்கத்தான்`, `அவனைத் தழுவிக்`; apparent missing punctuation after `யடைந்தான்` is preserved;
-- scan 32: `தும்பைப்பூ`; page ends mid-sentence at `காலைத்`.
+Repository action already taken:
 
-Physical continuities checked:
+- restored `pages/0023-pudhaiyal.md` through `pages/0032-pudhaiyal.md` to the user's supplied Iteration 3 transcription;
+- removed the previous assistant-inferred replacement readings from the canonical page layer;
+- downgraded scans 23–32 from `verified` to `needs-review` because the assistant's visual verification is invalid;
+- replaced the previous fidelity report with an invalidation/audit record.
 
-- scan 23 → 24: `நானும் சக்கிலியும்` / `இந்தப் பக்கம் போறோம்...`;
-- scan 24 → 25: `கடற்கரை வந்து` / `விடும்.`;
-- scan 26 → 27: `பூரணமாக விளங்குவதற்கு` / `உதவியாக நிலவு...`;
-- scan 29 → 30: `சாவுக் கண்ணீர்!` / `என்ற ஒலிதான் அது!`;
-- scan 32 ends `காலைத்`; continuation belongs only to scan 33.
+Do not reintroduce claims such as `மதகின் உள்ளேயிருந்தவர்களுக்கு`, `அவர்களே நோக்கி`, `அவன் முதுகில்`, `அவர்களேதான்`, `அவளே அவன்...`, `தும்பைப்பூ`, or other previous assistant substitutions as verified readings merely because they appeared in the invalidated pass. The user's supplied forms now remain canonical for this range pending any future confirmed source review.
+
+Structural page boundaries remain preserved; textual disagreements are not to be silently resolved by the assistant.
 
 ---
 
@@ -202,18 +196,16 @@ Do not begin English translation until:
 
 # 10. Exact next activity
 
-**Process the user's next iteration covering printed pages 31–40, corresponding to scans 33–42 in split part 001.**
+**Pause at the Iteration 3 correction boundary. Do not process scans 33–42 until the user accepts this restored state or supplies the next iteration.**
 
-Required sequence:
+When work resumes:
 
-1. compare scans 33–42 directly against the supplied transcription, letter by letter;
-2. create `pages/0033-pudhaiyal.md` through `pages/0042-pudhaiyal.md`;
-3. preserve exact source spelling, punctuation, spacing, dialogue and physical page boundaries;
-4. preserve the chapter `3` → chapter `4` transition at scan **40 / printed page 38**;
-5. mark any genuinely uncertain glyph `needs-review`, never guess;
-6. update `indexes/page-map.md`, work README and this handover;
-7. continue full-source extent reconciliation as later split parts arrive;
-8. do not start English translation.
+1. treat the user's supplied transcription as the baseline;
+2. use the scan for verification, not for speculative replacement;
+3. when a glyph/word appears different, flag the exact item as `needs-review` rather than altering canonical text;
+4. preserve page boundaries and chapter transitions;
+5. continue full-source reconciliation as later split parts arrive;
+6. do not start English translation.
 
 ---
 
