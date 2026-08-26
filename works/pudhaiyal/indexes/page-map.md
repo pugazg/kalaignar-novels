@@ -6,7 +6,7 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 
 > **Split-source verification:** `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` is available as an access derivative of the controlling source and is not committed to this repository.
 
-> **User-correction rule:** the assistant's 2026-08-26 visual-correction pass for scans 23–32 was invalidated after the user confirmed that the supplied Iteration 3 transcription was correct. Those ten page records now preserve the user's supplied wording and are `needs-review` until a fresh visual pass can confirm them without substituting assistant-inferred readings.
+> **Fidelity correction:** the assistant's earlier visual-correction pass for scans 23–32 was invalidated. Those pages were subsequently re-audited against native 3146 × 4826 embedded scan images, reconciled item by item, source punctuation was restored, and a final page-by-page comparison was completed. Scans 23–32 are now `verified` with zero unresolved readings.
 
 > **Work-level rule:** `புதையல்` is one continuous work. `அறிமுகம்` and numbered chapter headings are internal units unless full-source evidence establishes otherwise.
 
@@ -38,16 +38,16 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 | 20 | 18 | chapter 1 | verified | `pages/0020-pudhaiyal.md` |
 | 21 | 19 | chapter 1 | verified | `pages/0021-pudhaiyal.md` |
 | 22 | 20 | chapter 1 closes / chapter 2 begins | verified | `pages/0022-pudhaiyal.md` |
-| 23 | 21 | chapter 2 | needs-review | `pages/0023-pudhaiyal.md` |
-| 24 | 22 | chapter 2 | needs-review | `pages/0024-pudhaiyal.md` |
-| 25 | 23 | chapter 2 | needs-review | `pages/0025-pudhaiyal.md` |
-| 26 | 24 | chapter 2 | needs-review | `pages/0026-pudhaiyal.md` |
-| 27 | 25 | chapter 2 | needs-review | `pages/0027-pudhaiyal.md` |
-| 28 | 26 | chapter 2 | needs-review | `pages/0028-pudhaiyal.md` |
-| 29 | 27 | chapter 2 | needs-review | `pages/0029-pudhaiyal.md` |
-| 30 | 28 | chapter 2 closes / chapter 3 begins | needs-review | `pages/0030-pudhaiyal.md` |
-| 31 | 29 | chapter 3 | needs-review | `pages/0031-pudhaiyal.md` |
-| 32 | 30 | chapter 3 | needs-review | `pages/0032-pudhaiyal.md` |
+| 23 | 21 | chapter 2 | verified | `pages/0023-pudhaiyal.md` |
+| 24 | 22 | chapter 2 | verified | `pages/0024-pudhaiyal.md` |
+| 25 | 23 | chapter 2 | verified | `pages/0025-pudhaiyal.md` |
+| 26 | 24 | chapter 2 | verified | `pages/0026-pudhaiyal.md` |
+| 27 | 25 | chapter 2 | verified | `pages/0027-pudhaiyal.md` |
+| 28 | 26 | chapter 2 | verified | `pages/0028-pudhaiyal.md` |
+| 29 | 27 | chapter 2 | verified | `pages/0029-pudhaiyal.md` |
+| 30 | 28 | chapter 2 closes / chapter 3 begins | verified | `pages/0030-pudhaiyal.md` |
+| 31 | 29 | chapter 3 | verified | `pages/0031-pudhaiyal.md` |
+| 32 | 30 | chapter 3 | verified | `pages/0032-pudhaiyal.md` |
 | 33 | 31 | chapter 3 | not-started | `pages/0033-pudhaiyal.md` |
 | 34 | 32 | chapter 3 | not-started | `pages/0034-pudhaiyal.md` |
 | 35 | 33 | chapter 3 | not-started | `pages/0035-pudhaiyal.md` |
@@ -175,8 +175,9 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 - Known-prefix rows mapped above: **150**
 - Full-source page-map coverage: **INCOMPLETE**
 - Page records actually created: **32**
-- `verified`: **22**
-- `needs-review`: **10** — scans 23–32 after invalidation of the assistant visual-correction pass
+- `verified`: **32** — scans 1–32
+- `needs-review`: **0**
+- unresolved readings through scan 32: **0**
 - remaining known-prefix rows `not-started`: **118**
 - scans beyond 150: **not yet fully mapped**
 - Source PDF / split PDFs stored in repository: **No**
@@ -196,4 +197,4 @@ No claim is currently made about the final chapter number or actual source endin
 
 ## Exact next activity
 
-**Do not advance to scans 33–42 until the Iteration 3 correction state is accepted.** The canonical scans 23–32 have been restored to the user's supplied transcription. If/when visual checking resumes, treat the user transcription as the baseline: flag any apparent glyph disagreement as `needs-review` rather than replacing it with an assistant-inferred reading.
+Process **scans 33–42 / printed pages 31–40** from split part 001. This continues chapter 3 through scans 33–39, begins chapter 4 at scan 40 / printed page 38, and continues chapter 4 through scans 41–42. Use the user's supplied transcription as the comparison baseline and the native embedded scan image as textual authority. Preserve physical page boundaries and mark a page `verified` only after final direct visual comparison.
