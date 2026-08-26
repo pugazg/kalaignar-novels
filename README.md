@@ -6,57 +6,57 @@
 
 > **மூல ஸ்கேன் தான் controlling source. Markdown ஒரு பாதுகாப்பு அடுக்கு; திருத்தப்பட்ட புதிய பதிப்பு அல்ல.**
 
-மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது. **மூல PDF கோப்புகள் repository-யில் commit செய்யப்படாது.**
+மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது. **மூல PDF / split PDF கோப்புகள் repository-யில் commit செய்யப்படாது.**
 
 ## Project continuation documents
 
-- [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md) — reusable archival + translation + release workflow
-- [`HANDOVER.md`](HANDOVER.md) — current project state and exact next action
-- [`NEXT_NOVEL_CHAT_PROMPT.md`](NEXT_NOVEL_CHAT_PROMPT.md) — fresh-chat continuation prompt
+- [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md)
+- [`HANDOVER.md`](HANDOVER.md)
+- [`NEXT_NOVEL_CHAT_PROMPT.md`](NEXT_NOVEL_CHAT_PROMPT.md)
 
-`works/balipeedam-nokki/` completed reference implementation ஆக பயன்படுத்தலாம்; ஆனால் புதிய source structure-ஐ அதற்கு force-fit செய்யக்கூடாது.
+`works/balipeedam-nokki/` completed reference implementation ஆக பயன்படுத்தலாம்; புதிய source structure-ஐ அதற்கு force-fit செய்யக்கூடாது.
 
 ## தற்போது செயல்படும் work
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Split-source fidelity workflow active; part 001 scans 1–49 received; scans 1–22 verified; 22 Tamil page records; full-source manifest incomplete; translation blocked** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Split-source fidelity workflow active; part 001 scans 1–49 received; scans 1–32 verified; 32 Tamil page records; full-source manifest incomplete; translation blocked** |
 
-### புதையல் — current source state
+### புதையல் — current state
 
-The repository previously treated **150 known/rendered scans** as the complete PDF. That claim has been withdrawn.
-
-Tamil Digital Library's bibliographic record reports **443 p.** and the item is exposed there as **PDF — 2 Files**. The exact PDF scan/page-object count remains pending until the remaining source ranges are reconciled.
+The earlier **150 pages total** claim has been withdrawn. Tamil Digital Library reports **443 p.**; exact PDF scan count remains pending until all source ranges are reconciled.
 
 Received split:
 
 `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`
 
-Current state:
+Current status:
 
-- part 001 — **49 pages / source scans 1–49 received**;
+- part 001 — **49 source scans received**;
 - page map — **known prefix scans 1–150; full-source coverage incomplete**;
-- Tamil page records created — **22**;
-- verified — **22**;
+- Tamil page records — **32**;
+- verified — **32**;
 - needs-review — **0**;
-- complete `அறிமுகம்` scans 7–12 — **verified**;
-- chapter 1 scans 13–21 — **verified**;
-- scan 22 / printed page 20 — chapter 1 closes and chapter 2 begins on the same scan — **verified**;
-- exact full-source scan count — **pending**;
-- original SHA-256 — **pending**;
-- Tamil audit — **not started**;
+- known-prefix not-started — **118**;
+- Tamil whole-work audit — **not started**;
 - assembled Tamil — **blocked**;
 - English translation — **blocked**;
-- source PDF / split PDFs committed — **No**.
+- source PDF / splits committed — **No**.
 
-Source-extent correction: [`works/pudhaiyal/notes/source-page-count-reconciliation.md`](works/pudhaiyal/notes/source-page-count-reconciliation.md).  
-Fidelity reviews: [`works/pudhaiyal/notes/visual-fidelity-scans-001-012.md`](works/pudhaiyal/notes/visual-fidelity-scans-001-012.md) and [`works/pudhaiyal/notes/visual-fidelity-scans-013-022.md`](works/pudhaiyal/notes/visual-fidelity-scans-013-022.md).
+Latest fidelity reports:
 
-Important numbering correction: scan **13**, the chapter-1 opening page, does **not** visibly print a page number. It is therefore stored with `printed_page: null`; the value 11 is not inferred simply because scans 12 and 14 print 10 and 12.
+- [`works/pudhaiyal/notes/visual-fidelity-scans-001-012.md`](works/pudhaiyal/notes/visual-fidelity-scans-001-012.md)
+- [`works/pudhaiyal/notes/visual-fidelity-scans-013-022.md`](works/pudhaiyal/notes/visual-fidelity-scans-013-022.md)
+- [`works/pudhaiyal/notes/visual-fidelity-scans-023-032.md`](works/pudhaiyal/notes/visual-fidelity-scans-023-032.md)
 
-The scan remains controlling for exact edition wording. It visibly says **`மூன்றாம் பதிப்பு, செப்டம்பர், 1961`**, even though a catalogue summary elsewhere labels the work `முதல் பதிப்பு, 1961`; catalogue wording does not override the scan.
+Important structural corrections now established directly from the scan:
 
-Exact next transcription batch: **scans 23–26 / printed pages 21–24**, continuing chapter 2 from split part 001.
+- scan 13 begins chapter 1 but has **no visible printed page number**;
+- scan 22 / printed 20 closes chapter 1 and begins chapter 2 on the same scan;
+- scan 30 / printed 28 closes chapter 2 and begins chapter 3 on the same scan;
+- scan 40 / printed 38 begins chapter 4.
+
+Exact next fidelity iteration: **scans 33–42 / printed pages 31–40** from split part 001.
 
 ## நிறைவு பெற்ற reference work
 
@@ -64,45 +64,7 @@ Exact next transcription batch: **scans 23–26 / printed pages 21–24**, conti
 |---|---|---|---|
 | [பலிபீடம் நோக்கி](works/balipeedam-nokki/README.md) | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **Tamil 34/34 verified; assembled Tamil PASSED; English VERIFIED; archival package RELEASE-READY** |
 
-### முக்கிய structural note
-
-`பலிபீடம் நோக்கி` **ஒரே தொடர்ச்சியான படைப்பு**. Scan 8-ல் வரும் **`ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை`** தனி work அல்ல; `பலிபீடம் நோக்கி` நூலுக்குள் அமைந்த embedded cinematic-historical sequence.
-
-Source continuity:
-
-- scans 4–7 — opening `பலிபீடம்` frame;
-- scan 7 — internal film introduction;
-- scans 8–29 + scan 30 opening — `ராயசம் வெங்கண்ணா` sequence through `வணக்கம்`;
-- scan 30 — `படம் முடிந்துவிட்டது...` return to the main frame;
-- scans 31–33 — conclusion;
-- scan 34 — blank/back matter.
-
-### இறுதி status
-
-- Tamil page records — **34 / 34**
-- Tamil `verified` — **34 / 34**
-- Tamil source audit — **PASSED**
-- assembled Tamil reading layer — **PASSED**
-- English translation plan — **COMPLETE**
-- English Batches 1–6 — **reviewed**
-- final bilingual alignment — **PASSED**
-- whole-work English — **VERIFIED**
-- release-readiness pass — **PASSED**
-- combined archival package — **RELEASE-READY**
-- source PDF in repository — **No**
-
-Key files:
-
-- [`works/balipeedam-nokki/audit.md`](works/balipeedam-nokki/audit.md)
-- [`works/balipeedam-nokki/sections/README.md`](works/balipeedam-nokki/sections/README.md)
-- [`works/balipeedam-nokki/translations/en/README.md`](works/balipeedam-nokki/translations/en/README.md)
-- [`works/balipeedam-nokki/translations/en/TRANSLATION_PLAN.md`](works/balipeedam-nokki/translations/en/TRANSLATION_PLAN.md)
-- [`works/balipeedam-nokki/translations/en/PROGRESS.md`](works/balipeedam-nokki/translations/en/PROGRESS.md)
-- [`works/balipeedam-nokki/translations/en/GLOSSARY.md`](works/balipeedam-nokki/translations/en/GLOSSARY.md)
-- [`works/balipeedam-nokki/translations/en/TRANSLATION_REVIEW.md`](works/balipeedam-nokki/translations/en/TRANSLATION_REVIEW.md)
-- [`works/balipeedam-nokki/translations/en/RELEASE_REPORT.md`](works/balipeedam-nokki/translations/en/RELEASE_REPORT.md)
-
-`RELEASE-READY` is an editorial/archival repository status and is not, by itself, a copyright or republication-rights determination.
+`பலிபீடம் நோக்கி`-இல் `ராயசம் வெங்கண்ணா — தஞ்சை சரித்திரக் கதை` ஒரு internal cinematic-historical sequence; தனி work அல்ல.
 
 ## களஞ்சிய அமைப்பு
 
@@ -122,6 +84,7 @@ works/
       source-page-count-reconciliation.md
       visual-fidelity-scans-001-012.md
       visual-fidelity-scans-013-022.md
+      visual-fidelity-scans-023-032.md
     pages/
 ```
 
