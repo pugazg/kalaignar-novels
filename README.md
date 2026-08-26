@@ -8,7 +8,7 @@
 
 மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது. **மூல PDF / split PDF கோப்புகள் repository-யில் commit செய்யப்படாது.**
 
-User-supplied transcription-ஐ visual check செய்யும்போது ambiguous old Tamil glyph அடிப்படையில் assistant தானாக canonical text-ஐ மாற்றக்கூடாது. Small preview-ஐ மட்டும் நம்பாமல் native embedded scan image-ஐ பார்க்க வேண்டும். Native scan மற்றும் baseline வேறுபட்டால் அந்த exact item-ஐ தனியாக recheck செய்து, source உறுதி செய்த பிறகே canonical text மாற்ற வேண்டும்.
+User-supplied transcription-ஐ visual check செய்யும்போது ambiguous old Tamil glyph அடிப்படையில் assistant தானாக canonical text-ஐ மாற்றக்கூடாது. Source page image-ஐ பார்த்து exact disagreement-ஐ தனியாக recheck செய்து, source உறுதி செய்த பிறகே canonical text மாற்ற வேண்டும்.
 
 ## Project continuation documents
 
@@ -22,7 +22,7 @@ User-supplied transcription-ஐ visual check செய்யும்போத�
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Split-source workflow active; part 001 scans 1–49 received; 32 Tamil page records; scans 1–32 verified after native-resolution reconciliation; 0 needs-review; full-source manifest incomplete; translation blocked** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Split-source workflow active; part 001 scans 1–49 COMPLETE / VERIFIED; 49 Tamil page records; 0 needs-review; full-source manifest incomplete; translation blocked** |
 
 ### புதையல் — current state
 
@@ -34,13 +34,13 @@ Received split:
 
 Current status:
 
-- part 001 — **49 source scans received**;
-- native embedded page images — **3146 × 4826**;
+- part 001 — **49 source scans received; 49/49 transcribed and visually audited**;
 - page map — **known prefix scans 1–150; full-source coverage incomplete**;
-- Tamil page records — **32**;
-- verified — **32** (`scans 1–32`);
+- Tamil page records — **49**;
+- verified — **49** (`scans 1–49`);
 - needs-review — **0**;
-- known-prefix not-started — **118**;
+- unresolved through scan 49 — **0**;
+- known-prefix not-started — **101**;
 - Tamil whole-work audit — **not started**;
 - assembled Tamil — **blocked**;
 - English translation — **blocked**;
@@ -48,39 +48,31 @@ Current status:
 
 ### Fidelity correction history
 
-After hallucinated assistant corrections were identified, printed pages **10–20 / scans 12–22** were reopened at native embedded-image resolution. That re-audit corrected earlier assistant mistakes and left scans 1–22 verified only after the corrected native pass.
+After hallucinated assistant corrections were identified, scans 12–22 were reopened and corrected. Scans 23–32 were then re-audited and reconciled page by page.
 
-Scans **23–32 / printed pages 21–30** were then re-audited and reconciled against the native **3146 × 4826** embedded page images. Source-confirmed wording, spacing, punctuation and page boundaries were applied only after individual rechecks, followed by a final page-by-page comparison.
+The user's Iteration 4 completed the rest of split part 001. Its continuous text was mapped back to physical **scans 33–49 / printed pages 31–47** and visually checked. Important source-established corrections include:
 
-Important final results include:
+- scan 33: `“யார்?”` restored where the clean baseline had only `“?”`;
+- scan 37: `கிழவர்` rather than `கிழ்வர்`;
+- scan 38: `தோணிக்கு` rather than `தொணிக்கு`;
+- scan 41: `அவன் திறக்காமலாவது`;
+- scan 43: `புற்று நோய்` rather than `புத்து நோய்`;
+- source punctuation and dash pauses restored instead of systematic clean-draft `..`, `!.`, `?.` forms.
 
-- scan 23: `மதகின் உள்ளேயிருந்தவர்களுக்கு`; user reading `முரடர்களின் பேச்சு கூட` confirmed;
-- scan 24: `சிறு ஆறுதல் அளித்தது`, `சற்று ஆறுதல் அளித்தது`, and source-specific `அவர்களே நோக்கி`;
-- scan 25: source forms such as `ஏதோ`, `போனதாகவும்`, `உணர்ந்ததாகவும்`;
-- scan 26: user readings `உண்மை தான்`, `மிக கூர்மையாக`, `அவனது நடையிலே வேகம் குறைந்தது` confirmed;
-- scan 27: `உதவுகிறது.` and `குளிர்காற்று` confirmed;
-- scan 28: `அவன் முதுகில்`;
-- scan 29: **`அவர்களே தான்`**, **`அவளை அவன் காப்பாற்றித் தீர வேண்டும்`**, and `கடல் பார்த்துக் கொண்டிருந்தாள்`; earlier assistant candidates `அவர்களேதான்` / `அவளே அவன்...` are withdrawn;
-- scan 30: `பழைய பிரார்த்தனையில்`; chapter 2 → 3 transition on the same scan;
-- scan 31: full stop after `மூர்ச்சை யடைந்தான்.`, plus `அவனைத் தழுவிக்`, `முயன்றும்—விடாமல்`, `கட்டிவிட்டார்`;
-- scan 32: `தும்பைப்பூ`; page ends at `காலைத்`.
+Physical boundaries were also restored, including source-split words `சந்தோஷ` / `மாக` across scans 47–48 and `எப்படிப்` / `யாவது` across scans 48–49.
 
-The supplied clean transcription's systematic doubled terminal punctuation (`..`, `!.`, `?.`) was replaced only where native inspection established the printed punctuation.
+Scan 40 / printed page 38 closes chapter 3 and begins chapter 4 on the same physical scan. Scan 46 carries a four-star internal transition; scan 47 begins an embedded historical tale inside chapter 4. It is **not** promoted to a separate work.
+
+Scan 49 / printed page 47 ends mid-sentence at `அவள் அப்பனும்,`; this is only the end of split part 001.
 
 Fidelity / correction records:
 
 - [`works/pudhaiyal/notes/visual-fidelity-scans-001-012.md`](works/pudhaiyal/notes/visual-fidelity-scans-001-012.md)
-- [`works/pudhaiyal/notes/visual-fidelity-scans-013-022.md`](works/pudhaiyal/notes/visual-fidelity-scans-013-022.md) — **corrected native-resolution re-audit**
-- [`works/pudhaiyal/notes/visual-fidelity-scans-023-032.md`](works/pudhaiyal/notes/visual-fidelity-scans-023-032.md) — **final native-resolution reconciliation; 10/10 verified; unresolved 0**
+- [`works/pudhaiyal/notes/visual-fidelity-scans-013-022.md`](works/pudhaiyal/notes/visual-fidelity-scans-013-022.md)
+- [`works/pudhaiyal/notes/visual-fidelity-scans-023-032.md`](works/pudhaiyal/notes/visual-fidelity-scans-023-032.md)
+- [`works/pudhaiyal/notes/visual-fidelity-scans-033-049.md`](works/pudhaiyal/notes/visual-fidelity-scans-033-049.md) — **split part 001 completion; 17/17 verified; unresolved 0**
 
-Physical structural checkpoints retained:
-
-- scan 13 begins chapter 1 but has no visible printed page number;
-- scan 22 / printed 20 closes chapter 1 and begins chapter 2 on the same scan;
-- scan 30 / printed 28 closes chapter 2 and begins chapter 3 on the same scan;
-- scan 40 / printed 38 begins chapter 4.
-
-Exact next batch: **scans 33–42 / printed pages 31–40**.
+Exact next source requirement: **next split beginning with original scan 50**.
 
 ## நிறைவு பெற்ற reference work
 
@@ -109,6 +101,7 @@ works/
       visual-fidelity-scans-001-012.md
       visual-fidelity-scans-013-022.md
       visual-fidelity-scans-023-032.md
+      visual-fidelity-scans-033-049.md
     pages/
 ```
 
