@@ -2,13 +2,13 @@
 
 Source: `TVA_BOK_0064097_புதையல்.pdf`
 
-> **Critical correction:** this file currently maps only the **first 150 known scans** from the original-source inspection. It is **not a complete source manifest**. Tamil Digital Library describes the same item as **443 p.**, and the source extends beyond scan 150.
+> **Critical correction:** this manifest currently covers only the **known prefix through scan 150**. It is **not a complete source manifest**. Tamil Digital Library describes the same item as **443 p.**, and later split-source parts are still required to establish the exact full scan count.
 
-> **Split-source verification:** `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` has now been supplied and directly inspected. It is a 49-scan derivative of the controlling source and is being used for enlarged/native visual verification of scans 1–49; it does not replace the controlling full source.
+> **Split-source verification:** `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` has been supplied and directly inspected for letter-by-letter verification of scans 1–49. It is an access derivative of the controlling source and is not committed to this repository.
 
 > **Work-level rule:** `புதையல்` is one continuous work. `அறிமுகம்` and numbered chapter headings are internal units unless full-source evidence establishes otherwise.
 
-> **Do not infer beyond the known prefix:** scan 150 visibly prints page 148 and chapter 16 continues. The earlier interpretation of scan 150 as the source ending is withdrawn.
+> **Printed-page rule:** record a printed page number only when it is visibly printed. Scan 13 begins chapter 1 between visibly numbered pages 10 and 12, but no page number is printed on that scan; it is therefore recorded as `—`, not inferred as 11.
 
 Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/source-page-count-reconciliation.md).
 
@@ -25,17 +25,17 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 | 9 | 7 | `அறிமுகம்` | verified | `pages/0009-pudhaiyal.md` |
 | 10 | 8 | `அறிமுகம்` | verified | `pages/0010-pudhaiyal.md` |
 | 11 | 9 | `அறிமுகம்` | verified | `pages/0011-pudhaiyal.md` |
-| 12 | 10 | `அறிமுகம்` | verified | `pages/0012-pudhaiyal.md` |
-| 13 | 11 | chapter 1 | not-started | `pages/0013-pudhaiyal.md` |
-| 14 | 12 | chapter 1 | not-started | `pages/0014-pudhaiyal.md` |
-| 15 | 13 | chapter 1 | not-started | `pages/0015-pudhaiyal.md` |
-| 16 | 14 | chapter 1 | not-started | `pages/0016-pudhaiyal.md` |
-| 17 | 15 | chapter 1 | not-started | `pages/0017-pudhaiyal.md` |
-| 18 | 16 | chapter 1 | not-started | `pages/0018-pudhaiyal.md` |
-| 19 | 17 | chapter 1 | not-started | `pages/0019-pudhaiyal.md` |
-| 20 | 18 | chapter 1 | not-started | `pages/0020-pudhaiyal.md` |
-| 21 | 19 | chapter 1 | not-started | `pages/0021-pudhaiyal.md` |
-| 22 | 20 | chapter 2 begins | not-started | `pages/0022-pudhaiyal.md` |
+| 12 | 10 | `அறிமுகம்` ends | verified | `pages/0012-pudhaiyal.md` |
+| 13 | — | chapter 1 begins; printed number suppressed | verified | `pages/0013-pudhaiyal.md` |
+| 14 | 12 | chapter 1 | verified | `pages/0014-pudhaiyal.md` |
+| 15 | 13 | chapter 1 | verified | `pages/0015-pudhaiyal.md` |
+| 16 | 14 | chapter 1 | verified | `pages/0016-pudhaiyal.md` |
+| 17 | 15 | chapter 1 | verified | `pages/0017-pudhaiyal.md` |
+| 18 | 16 | chapter 1 | verified | `pages/0018-pudhaiyal.md` |
+| 19 | 17 | chapter 1 | verified | `pages/0019-pudhaiyal.md` |
+| 20 | 18 | chapter 1 | verified | `pages/0020-pudhaiyal.md` |
+| 21 | 19 | chapter 1 | verified | `pages/0021-pudhaiyal.md` |
+| 22 | 20 | chapter 1 closes / chapter 2 begins | verified | `pages/0022-pudhaiyal.md` |
 | 23 | 21 | chapter 2 | not-started | `pages/0023-pudhaiyal.md` |
 | 24 | 22 | chapter 2 | not-started | `pages/0024-pudhaiyal.md` |
 | 25 | 23 | chapter 2 | not-started | `pages/0025-pudhaiyal.md` |
@@ -168,23 +168,21 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 ## Current manifest state
 
 - Tamil Digital Library bibliographic extent: **443 p.**
-- Exact full PDF scan/page-object count: **pending**
-- Split part received: **part 001, scans 1–49, 49 pages**
-- Known prefix rows mapped above: **150**
+- Exact full-PDF scan/page-object count: **pending complete split-source reconciliation**
+- Known prefix currently mapped: **scans 1–150**
 - Full-source page-map coverage: **INCOMPLETE**
-- Page records actually created: **12**
-- `verified`: **12**
+- Page records actually created: **22**
+- `verified`: **22**
 - `needs-review`: **0**
-- remaining known-prefix rows not started: **138**
-- scans beyond 150: **not yet mapped from split/native source parts**
+- remaining known-prefix rows `not-started`: **128**
+- source scans beyond 150: **not yet fully supplied/mapped as split parts**
 - Source PDF stored in repository: **No**
 
-## Structural checkpoints — known prefix only
+## Structural checkpoints — known prefix
 
-The following chapter starts are directly visible within scans 1–150:
-
-- chapter 1 — scan 13 / printed 11
-- chapter 2 — scan 22 / printed 20
+- `அறிமுகம்` — scans 7–12
+- chapter 1 — begins scan 13; **no printed page number visible on chapter-opening scan**
+- chapter 2 — begins scan 22 / printed page 20, after chapter 1 closes on the same scan
 - chapter 3 — scan 31 / printed 29
 - chapter 4 — scan 40 / printed 38
 - chapter 5 — scan 52 / printed 50
@@ -200,15 +198,8 @@ The following chapter starts are directly visible within scans 1–150:
 - chapter 15 — scan 138 / printed 136
 - chapter 16 — scan 146 / printed 144
 
-No claim is currently made about later chapter starts or the final chapter number.
+No claim is made yet about chapter boundaries after the known prefix or the true final chapter.
 
-## Exact next activity
+## Next page-level activity
 
-With split part 001 now available, continue source-critical transcription within its verified range while full-source reconciliation proceeds:
-
-1. transcribe and directly visually verify **scans 13–16 / printed pages 11–14** as the first Chapter 1 batch;
-2. preserve cross-page continuities and source punctuation exactly;
-3. do not infer any structure beyond the split/source pages actually inspected;
-4. when later split parts are supplied, extend the manifest beyond the current 150-row prefix and establish the true full-source scan count;
-5. calculate exact SHA-256 values when byte-level hashing becomes available;
-6. do not start English translation.
+Directly transcribe and visually verify **scans 23–26 / printed pages 21–24**, continuing chapter 2 from `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`. Continue full-source extent reconciliation as later split files are supplied.
