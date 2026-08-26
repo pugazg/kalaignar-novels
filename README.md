@@ -8,6 +8,8 @@
 
 மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது. **மூல PDF / split PDF கோப்புகள் repository-யில் commit செய்யப்படாது.**
 
+User-supplied transcription-ஐ visual check செய்யும்போது ambiguous old Tamil glyph அடிப்படையில் assistant தானாக canonical text-ஐ மாற்றக்கூடாது. Apparent disagreement இருந்தால் `needs-review` ஆக flag செய்து உறுதிப்படுத்த வேண்டும்.
+
 ## Project continuation documents
 
 - [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md)
@@ -20,7 +22,7 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Split-source fidelity workflow active; part 001 scans 1–49 received; scans 1–32 verified; 32 Tamil page records; full-source manifest incomplete; translation blocked** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Split-source workflow active; part 001 scans 1–49 received; 32 Tamil page records; scans 1–22 verified; scans 23–32 restored to user transcription and needs-review after invalidated assistant visual corrections; full-source manifest incomplete; translation blocked** |
 
 ### புதையல் — current state
 
@@ -35,28 +37,28 @@ Current status:
 - part 001 — **49 source scans received**;
 - page map — **known prefix scans 1–150; full-source coverage incomplete**;
 - Tamil page records — **32**;
-- verified — **32**;
-- needs-review — **0**;
+- verified — **22**;
+- needs-review — **10** (`scans 23–32`);
 - known-prefix not-started — **118**;
 - Tamil whole-work audit — **not started**;
 - assembled Tamil — **blocked**;
 - English translation — **blocked**;
 - source PDF / splits committed — **No**.
 
-Latest fidelity reports:
+Fidelity / correction records:
 
 - [`works/pudhaiyal/notes/visual-fidelity-scans-001-012.md`](works/pudhaiyal/notes/visual-fidelity-scans-001-012.md)
 - [`works/pudhaiyal/notes/visual-fidelity-scans-013-022.md`](works/pudhaiyal/notes/visual-fidelity-scans-013-022.md)
-- [`works/pudhaiyal/notes/visual-fidelity-scans-023-032.md`](works/pudhaiyal/notes/visual-fidelity-scans-023-032.md)
+- [`works/pudhaiyal/notes/visual-fidelity-scans-023-032.md`](works/pudhaiyal/notes/visual-fidelity-scans-023-032.md) — **previous assistant correction claims invalidated; user transcription restored**
 
-Important structural corrections now established directly from the scan:
+Physical structural checkpoints currently retained:
 
-- scan 13 begins chapter 1 but has **no visible printed page number**;
+- scan 13 begins chapter 1 but has no visible printed page number;
 - scan 22 / printed 20 closes chapter 1 and begins chapter 2 on the same scan;
 - scan 30 / printed 28 closes chapter 2 and begins chapter 3 on the same scan;
 - scan 40 / printed 38 begins chapter 4.
 
-Exact next fidelity iteration: **scans 33–42 / printed pages 31–40** from split part 001.
+Do not advance the fidelity workflow until the corrected Iteration 3 state is accepted. After that, the next supplied-text iteration can cover scans 33–42 / printed pages 31–40, with disagreements flagged rather than silently substituted.
 
 ## நிறைவு பெற்ற reference work
 
