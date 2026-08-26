@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied transcription restored after disputed assistant visual pass; pending fresh direct visual re-audit"
+transcription_method: "user-supplied baseline retained; native-resolution re-audit completed; discrepancy pending confirmation"
 ---
 
 மெதுவாக மதகின் உள்ளே நுழைந்து கொண்டார்கள்.. இருபுறங்களிலும் வந்து கொண்டிருந்த ஆட்களும் வந்து சேர்ந்தார்கள்..
@@ -26,6 +26,6 @@ transcription_method: "user-supplied transcription restored after disputed assis
 
 ## Review status
 
-The previous assistant-declared visual corrections for this iteration were rejected by the user as hallucinated. The user's supplied transcription has been restored. This page is `needs-review` until a fresh visual pass can verify it without overriding the supplied reading.
+Native 3146 × 4826 scan re-audit completed. Canonical user baseline is intentionally unchanged. The source visibly appears to include `மதகின்` before `உள்ளேயிருந்தவர்களுக்கு`; this candidate and source punctuation remain pending explicit reconciliation. See `../notes/visual-fidelity-scans-023-032.md`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 23; அச்சுப் பக்கம்: 21 -->
