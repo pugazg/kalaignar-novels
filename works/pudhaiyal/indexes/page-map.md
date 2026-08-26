@@ -2,11 +2,13 @@
 
 Source: `TVA_BOK_0064097_புதையல்.pdf`
 
-> **Critical correction:** this file currently maps only the **first 150 rendered scans** exposed by the chat file renderer. It is **not a complete source manifest**. Tamil Digital Library describes the same item as **443 p.**, and the source extends beyond scan 150.
+> **Critical correction:** this file currently maps only the **first 150 known scans** from the original-source inspection. It is **not a complete source manifest**. Tamil Digital Library describes the same item as **443 p.**, and the source extends beyond scan 150.
+
+> **Split-source verification:** `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` has now been supplied and directly inspected. It is a 49-scan derivative of the controlling source and is being used for enlarged/native visual verification of scans 1–49; it does not replace the controlling full source.
 
 > **Work-level rule:** `புதையல்` is one continuous work. `அறிமுகம்` and numbered chapter headings are internal units unless full-source evidence establishes otherwise.
 
-> **Do not infer beyond the rendered prefix:** scan 150 visibly prints page 148 and chapter 16 continues. The earlier interpretation of scan 150 as the source ending is withdrawn.
+> **Do not infer beyond the known prefix:** scan 150 visibly prints page 148 and chapter 16 continues. The earlier interpretation of scan 150 as the source ending is withdrawn.
 
 Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/source-page-count-reconciliation.md).
 
@@ -18,12 +20,12 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 | 4 | — | publication / price / edition page | verified | `pages/0004-publication.md` |
 | 5 | — | `பதிப்புரை` | verified | `pages/0005-publisher-note.md` |
 | 6 | — | blank / stained reverse | verified | `pages/0006-blank.md` |
-| 7 | — | `அறிமுகம்` | needs-review | `pages/0007-pudhaiyal.md` |
-| 8 | 6 | `அறிமுகம்` | needs-review | `pages/0008-pudhaiyal.md` |
-| 9 | 7 | `அறிமுகம்` | not-started | `pages/0009-pudhaiyal.md` |
-| 10 | 8 | `அறிமுகம்` | not-started | `pages/0010-pudhaiyal.md` |
-| 11 | 9 | `அறிமுகம்` | not-started | `pages/0011-pudhaiyal.md` |
-| 12 | 10 | `அறிமுகம்` | not-started | `pages/0012-pudhaiyal.md` |
+| 7 | — | `அறிமுகம்` | verified | `pages/0007-pudhaiyal.md` |
+| 8 | 6 | `அறிமுகம்` | verified | `pages/0008-pudhaiyal.md` |
+| 9 | 7 | `அறிமுகம்` | verified | `pages/0009-pudhaiyal.md` |
+| 10 | 8 | `அறிமுகம்` | verified | `pages/0010-pudhaiyal.md` |
+| 11 | 9 | `அறிமுகம்` | verified | `pages/0011-pudhaiyal.md` |
+| 12 | 10 | `அறிமுகம்` | verified | `pages/0012-pudhaiyal.md` |
 | 13 | 11 | chapter 1 | not-started | `pages/0013-pudhaiyal.md` |
 | 14 | 12 | chapter 1 | not-started | `pages/0014-pudhaiyal.md` |
 | 15 | 13 | chapter 1 | not-started | `pages/0015-pudhaiyal.md` |
@@ -161,23 +163,23 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 | 147 | 145 | chapter 16 | not-started | `pages/0147-pudhaiyal.md` |
 | 148 | 146 | chapter 16 | not-started | `pages/0148-pudhaiyal.md` |
 | 149 | 147 | chapter 16 | not-started | `pages/0149-pudhaiyal.md` |
-| 150 | 148 | chapter 16 continues; end of currently rendered window, **not source end** | not-started | `pages/0150-pudhaiyal.md` |
+| 150 | 148 | chapter 16 continues; end of known prefix, **not source end** | not-started | `pages/0150-pudhaiyal.md` |
 
 ## Current manifest state
 
 - Tamil Digital Library bibliographic extent: **443 p.**
-- Exact PDF scan/page-object count: **pending**
-- Rendered prefix currently available here: **scans 1–150**
-- Prefix rows mapped above: **150**
+- Exact full PDF scan/page-object count: **pending**
+- Split part received: **part 001, scans 1–49, 49 pages**
+- Known prefix rows mapped above: **150**
 - Full-source page-map coverage: **INCOMPLETE**
-- Page records actually created: **8**
-- `verified`: **6**
-- `needs-review`: **2**
-- remaining prefix rows not started: **142**
-- scans beyond 150: **not yet inspectable/mapped**
+- Page records actually created: **12**
+- `verified`: **12**
+- `needs-review`: **0**
+- remaining known-prefix rows not started: **138**
+- scans beyond 150: **not yet mapped from split/native source parts**
 - Source PDF stored in repository: **No**
 
-## Structural checkpoints — prefix only
+## Structural checkpoints — known prefix only
 
 The following chapter starts are directly visible within scans 1–150:
 
@@ -202,12 +204,11 @@ No claim is currently made about later chapter starts or the final chapter numbe
 
 ## Exact next activity
 
-**Pause ordinary transcription expansion and complete full-source extent reconciliation first.**
+With split part 001 now available, continue source-critical transcription within its verified range while full-source reconciliation proceeds:
 
-1. obtain native/full access to the source beyond scan 150;
-2. determine exact PDF scan/page-object count;
-3. inspect scan 151 onward directly;
-4. extend this manifest to every scan page, recording printed numbers only when visibly present;
-5. identify later chapter boundaries and true ending/back matter from the scan itself;
-6. calculate the exact SHA-256 when byte-level access becomes available;
-7. only after full manifest coverage is established, resume small Tamil transcription batches (including resolution of scans 7–8).
+1. transcribe and directly visually verify **scans 13–16 / printed pages 11–14** as the first Chapter 1 batch;
+2. preserve cross-page continuities and source punctuation exactly;
+3. do not infer any structure beyond the split/source pages actually inspected;
+4. when later split parts are supplied, extend the manifest beyond the current 150-row prefix and establish the true full-source scan count;
+5. calculate exact SHA-256 values when byte-level hashing becomes available;
+6. do not start English translation.
