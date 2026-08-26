@@ -1,0 +1,35 @@
+---
+scan_page: 52
+printed_page: 50
+work: "pudhaiyal"
+section: "4 / 5"
+page_type: "body / chapter-transition"
+status: "needs-review"
+language: "ta"
+source_filename: "TVA_BOK_0064097_புதையல்.pdf"
+transcription_method: "user-supplied Iteration 5 baseline segmented against controlling-source renderer; native part-002 verification pending"
+---
+
+மாயாண்டிக் கிழவர், தன் மடியிலேயிருந்த சிறு முடிச்சையும் தாள் உறையையும் தடவிப் பார்த்துக் கொண்டார்..
+
+அப்படி அவர் தடவிப் பார்த்ததை ஐயப்பன் கவனித்து விட்டான்..
+
+"இன்னும் பொழுது விடியவில்லையே -" என்று மாயாண்டி ஆகாயத்தை நோக்கினார்..
+
+---
+
+# 5
+
+பொழுது இன்னும் சரியாக விடிந்து விடவில்லை; தெளிவற்று இருந்தது உலகம், புராணீகர் உள்ளம் போல!.
+
+சரியாக விடிந்து வெளிச்சம் பரவுவதற்குள் வீட்டுக்குப் போய்விட வேண்டும் என்ற துடிதுடிப்பில் பரிமளம் நடந்து கொண்டிருந்தாள்.. யாராவது தன்னை அந்த நிலையில் பார்த்துவிடப் போகிறார்கள் என்ற அச்சம், அவள் கண்களில் மின்னிக் கொண்டிருந்தது.. மேலங்கிக்குப் பதிலாக ஒரு துண்டைப் போர்த்திக்கொண்டு வரும் அவளைப் பற்றி யார்தான் சந்தேகப்படமாட்டார்கள்.. அவளது கால்கள் கல், முள் என்று கூடப் பாராமல் வீடு நோக்கிப் பறந்து கொண்டிருந்தன.. நன்றாகப் பொழுது விடிவதற்கும் அவள் தன் வீட்டுக்குள் நுழைவதற்கும் சரியாக இருந்தது..
+
+நடுத்தரமான ஓட்டுவில்லை வீடு.. பல இடங்களில் ஓடுகள் பிரிந்துபோய் பழுது பார்க்கப்படாமலே இருந்தது.. மூங்கி முள்ளால் ஆன வேலிகள் அமைத்த கொல்லை அந்த
+
+## Structural / review state
+
+- Scan 52 / printed page 50 visibly closes chapter `4` and begins chapter `5` on the same physical page.
+- Physical page ends at `அந்த`; continuation belongs to scan 53.
+- Native part-002 letter-by-letter verification is still pending; no assistant reconstruction has been added.
+
+<!-- மூல ஸ்கேன் பக்கம்: 52; அச்சுப் பக்கம்: 50 -->
