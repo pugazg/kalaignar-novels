@@ -4,9 +4,11 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 
 > **Critical correction:** this manifest currently covers only the **known prefix through scan 150**. It is **not a complete source manifest**. Tamil Digital Library describes the same item as **443 p.**, and later split-source parts are still required to establish the exact full scan count.
 
-> **Split-source verification:** `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` is an access derivative of the controlling source, is not committed to this repository, and has now been fully transcribed / visually audited through its final scan 49.
+> **Split-source verification:** `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` is an access derivative of the controlling source, is not committed to this repository, and has been fully transcribed / visually audited through its final scan 49.
 
-> **Fidelity correction history:** the assistant's earlier visual-correction pass for scans 23–32 was invalidated. Those pages were subsequently re-audited and reconciled. Scans 33–49 were then checked against split part 001 with the user's Iteration 4 as baseline, physical page boundaries restored, and source-established differences applied. Scans 1–49 are now `verified` with zero unresolved readings.
+> **Part-002 baseline state:** the user supplied Iteration 5 for printed pages 48–60 / original scans 50–62 and named `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf`, but that split file is not currently attached in this conversation. The supplied baseline has therefore been segmented into physical page records using the controlling full-PDF renderer; scans 50–62 remain `needs-review` pending native-resolution part-002 verification.
+
+> **Fidelity correction history:** the assistant's earlier visual-correction pass for scans 23–32 was invalidated. Those pages were subsequently re-audited and reconciled. Scans 33–49 were then checked against split part 001 with the user's Iteration 4 as baseline, physical page boundaries restored, and source-established differences applied. Scans 1–49 are `verified` with zero unresolved readings.
 
 > **Work-level rule:** `புதையல்` is one continuous work. `அறிமுகம்`, numbered chapters, and the embedded historical tale beginning at scan 47 are internal units unless full-source evidence establishes otherwise.
 
@@ -65,19 +67,19 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 | 47 | 45 | chapter 4 / embedded historical tale | verified | `pages/0047-pudhaiyal.md` |
 | 48 | 46 | chapter 4 / embedded historical tale | verified | `pages/0048-pudhaiyal.md` |
 | 49 | 47 | chapter 4 / embedded historical tale; part 001 endpoint mid-sentence | verified | `pages/0049-pudhaiyal.md` |
-| 50 | 48 | chapter 4 | not-started | `pages/0050-pudhaiyal.md` |
-| 51 | 49 | chapter 4 | not-started | `pages/0051-pudhaiyal.md` |
-| 52 | 50 | chapter 5 begins | not-started | `pages/0052-pudhaiyal.md` |
-| 53 | 51 | chapter 5 | not-started | `pages/0053-pudhaiyal.md` |
-| 54 | 52 | chapter 5 | not-started | `pages/0054-pudhaiyal.md` |
-| 55 | 53 | chapter 5 | not-started | `pages/0055-pudhaiyal.md` |
-| 56 | 54 | chapter 5 | not-started | `pages/0056-pudhaiyal.md` |
-| 57 | 55 | chapter 5 | not-started | `pages/0057-pudhaiyal.md` |
-| 58 | 56 | chapter 5 | not-started | `pages/0058-pudhaiyal.md` |
-| 59 | 57 | chapter 5 | not-started | `pages/0059-pudhaiyal.md` |
-| 60 | 58 | chapter 6 begins | not-started | `pages/0060-pudhaiyal.md` |
-| 61 | 59 | chapter 6 | not-started | `pages/0061-pudhaiyal.md` |
-| 62 | 60 | chapter 6 | not-started | `pages/0062-pudhaiyal.md` |
+| 50 | 48 | chapter 4 / embedded historical tale continues | needs-review | `pages/0050-pudhaiyal.md` |
+| 51 | 49 | chapter 4 / embedded historical tale | needs-review | `pages/0051-pudhaiyal.md` |
+| 52 | 50 | chapter 4 closes / chapter 5 begins | needs-review | `pages/0052-pudhaiyal.md` |
+| 53 | 51 | chapter 5 | needs-review | `pages/0053-pudhaiyal.md` |
+| 54 | 52 | chapter 5 | needs-review | `pages/0054-pudhaiyal.md` |
+| 55 | 53 | chapter 5 | needs-review | `pages/0055-pudhaiyal.md` |
+| 56 | 54 | chapter 5 | needs-review | `pages/0056-pudhaiyal.md` |
+| 57 | 55 | chapter 5 | needs-review | `pages/0057-pudhaiyal.md` |
+| 58 | 56 | chapter 5 | needs-review | `pages/0058-pudhaiyal.md` |
+| 59 | 57 | chapter 5 | needs-review | `pages/0059-pudhaiyal.md` |
+| 60 | 58 | chapter 5 closes / chapter 6 begins | needs-review | `pages/0060-pudhaiyal.md` |
+| 61 | 59 | chapter 6 | needs-review | `pages/0061-pudhaiyal.md` |
+| 62 | 60 | chapter 6 | needs-review | `pages/0062-pudhaiyal.md` |
 | 63 | 61 | chapter 6 | not-started | `pages/0063-pudhaiyal.md` |
 | 64 | 62 | chapter 6 | not-started | `pages/0064-pudhaiyal.md` |
 | 65 | 63 | chapter 6 | not-started | `pages/0065-pudhaiyal.md` |
@@ -172,13 +174,13 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 - Tamil Digital Library bibliographic extent: **443 p.**
 - Exact full-PDF scan/page-object count: **pending complete source reconciliation**
 - Split part 001 available: **scans 1–49 — COMPLETE / VERIFIED**
+- Part 002 named by user: **scans 50–98**, but split attachment is **not currently available in this conversation**
 - Known-prefix rows mapped above: **150**
 - Full-source page-map coverage: **INCOMPLETE**
-- Page records actually created: **49**
+- Page records actually created: **62**
 - `verified`: **49** — scans 1–49
-- `needs-review`: **0**
-- unresolved readings through scan 49: **0**
-- remaining known-prefix rows `not-started`: **101**
+- `needs-review`: **13** — scans 50–62; user baseline loaded, native part-002 audit pending
+- remaining known-prefix rows `not-started`: **88**
 - scans beyond 150: **not yet fully mapped**
 - Source PDF / split PDFs stored in repository: **No**
 
@@ -190,11 +192,15 @@ Directly established structural checkpoints currently retained:
 - chapter 1 — scan 13 begins; scan 22 closes chapter 1 and begins chapter 2 on the same physical scan
 - chapter 2 — continues through scan 30; scan 30 closes chapter 2 and begins chapter 3 on the same physical scan
 - chapter 3 — continues through scan 39; scan 40 closes chapter 3 and begins chapter 4 on the same physical scan
-- chapter 4 — begins on scan 40; scan 46 carries a four-star internal transition; scan 47 begins an embedded historical tale that continues beyond split part 001
+- chapter 4 — begins on scan 40; scan 46 carries a four-star internal transition; scan 47 begins an embedded historical tale; scan 52 closes chapter 4 and begins chapter 5 on the same physical scan
+- chapter 5 — scans 52–60; scan 60 closes chapter 5 and begins chapter 6 on the same physical scan
+- chapter 6 — continues from scan 60 onward
 - later chapter checkpoints through scan 150 remain provisional known-prefix structure pending full-source reconciliation
 
 No claim is currently made about the final chapter number or actual source ending.
 
 ## Exact next activity
 
-Use the next split containing original **scan 50 onward**. First inspect scan 50 against scan 49's unfinished ending `அவள் அப்பனும்,`, confirm cross-part continuity, then continue page-record creation and visual-fidelity transcription from scan 50. Do not start English translation.
+Make `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf` available in this chat, then perform a native-resolution letter-by-letter audit of the already-created scans **50–62 / printed pages 48–60** against the user baseline. Apply only source-established differences and run a final page-by-page comparison before promoting any of these 13 pages to `verified`.
+
+After that verification gate passes, continue from scan **63 / printed page 61** onward. Do not start English translation.
