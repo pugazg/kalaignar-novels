@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied transcription restored after disputed assistant visual pass; pending fresh direct visual re-audit"
+transcription_method: "user-supplied baseline retained; native-resolution re-audit completed; source punctuation/spacing pending reconciliation"
 ---
 
 விடும்.. சாளுவநாயக்கன் பட்டினத்தில் அந்த மனோரா பக்கத்தில் போய் ஒளிந்துகொண்டால் நம்மை யாரும் பார்க்க முடியாது.. இன்றிரவை எப்படியும் கழித்து விட்டால் காலையில் நீ வீட்டுக்குப் போய்விடலாம்.".
@@ -30,6 +30,6 @@ transcription_method: "user-supplied transcription restored after disputed assis
 
 ## Review status
 
-The previous assistant visual corrections for this iteration are invalidated. User-supplied wording is restored pending a fresh direct visual re-audit.
+Native 3146 × 4826 scan re-audit completed. The lexical content is broadly consistent with the restored baseline, but the source's punctuation and several spacing/word-boundary details differ from the supplied clean transcription. Canonical text is intentionally unchanged pending explicit punctuation/spacing reconciliation. See `../notes/visual-fidelity-scans-023-032.md`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 25; அச்சுப் பக்கம்: 23 -->
