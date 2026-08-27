@@ -1,28 +1,25 @@
 # Preliminary fidelity record — புதையல் scans 50–62
 
-Date: 2026-08-26
+Date: 2026-08-27
 
 ## Status
 
-**BASELINE LOADED / NATIVE VERIFICATION PENDING.**
+**BASELINE LOADED / SPLIT NOW AVAILABLE / FINE-GRAINED RECONCILIATION PENDING.**
 
-The user supplied Iteration 5 for the source range described as printed pages **48–60**, corresponding to original scans **50–62**.
+The user supplied Iteration 5 for printed pages **48–60**, corresponding to original scans **50–62**.
 
-Named split:
+The required split is now available in this conversation:
 
 `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf`
 
-That split file is **not currently attached in this conversation**. Therefore this activity does not claim the native 3146 × 4826 letter-by-letter verification used for split part 001.
+- split pages: **49**
+- represented original source scans: **50–98**
+- this Iteration 5 range: **scans 50–62 / printed pages 48–60**
+- split committed to repository: **No**
 
-Available controlling-source evidence in this chat:
+The earlier version of this note correctly kept these pages `needs-review` because the split had not yet been attached. That availability problem is now resolved. The **textual verification gate itself is still open**: the existing Iteration 5 baseline must now be compared page by page with the newly supplied split before any of scans 50–62 are promoted to `verified`.
 
-- original full source `TVA_BOK_0064097_புதையல்.pdf`;
-- renderer-visible scans 50–62 from that controlling source;
-- the user's supplied Iteration 5 transcription as comparison baseline.
-
-## What was established safely
-
-Renderer inspection confirms:
+## Structural facts already established and reconfirmed
 
 - scan 50 visibly prints page **48** and continues scan 49's unfinished embedded historical tale;
 - scan 51 visibly prints **49**;
@@ -31,7 +28,7 @@ Renderer inspection confirms:
 - scan 60 visibly prints **58**, closes chapter `5`, and begins chapter `6` on the same physical page;
 - scans 61–62 visibly print **59–60** and continue chapter `6`.
 
-Physical continuity checkpoints preserved in the new page records include:
+Physical continuity checkpoints retained in the page records include:
 
 - scan 52 → 53: `அந்த` / `வீட்டிற்கு...`;
 - scan 54 → 55: `போயி` / `யைப்பாரு...`;
@@ -39,18 +36,13 @@ Physical continuity checkpoints preserved in the new page records include:
 - scan 56 → 57: `பிறகு` / `பாடினாள்...`;
 - scan 57 → 58: `ஆசைப்` / `படுகிறோம்...`.
 
-## Textual-fidelity gate
+## Current textual state
 
-Because the native part-002 split is unavailable here:
+The page bodies in scans 50–62 still preserve the user's Iteration 5 transcription as the comparison baseline. They have **not yet been promoted to source-verified text**.
 
-- the user's supplied wording and punctuation were preserved as the canonical **baseline**;
-- apparent small-print glyph / punctuation differences visible only in the reduced renderer were **not** silently imposed;
-- scans 50–62 are `needs-review`, not `verified`;
-- no claim of zero unresolved textual readings is made for this range yet.
+This is intentional. Earlier work on this project showed that ambiguous old-print Tamil must not be silently replaced from assistant inference. The next pass must isolate each apparent word / spacing / punctuation disagreement against the split image and apply only source-established differences.
 
-This is intentional following the hallucinated-correction incident in the earlier batches.
-
-## Records created
+## Records present
 
 - `../pages/0050-pudhaiyal.md`
 - `../pages/0051-pudhaiyal.md`
@@ -66,19 +58,15 @@ This is intentional following the hallucinated-correction incident in the earlie
 - `../pages/0061-pudhaiyal.md`
 - `../pages/0062-pudhaiyal.md`
 
-## Current gate after this activity
-
-- page records created through scan 62: **62**
-- `verified`: **49** — scans 1–49
-- `needs-review`: **13** — scans 50–62
-- known-prefix rows `not-started`: **88**
-- full-source manifest: **incomplete**
-- Tamil whole-work audit: **not started**
-- assembled Tamil layer: **blocked**
-- English translation: **blocked**
-
 ## Exact next activity
 
-Attach / make available `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf`, then perform a native-resolution letter-by-letter audit of scans **50–62** against the currently loaded baseline. Apply only source-established differences, run a final page-by-page pass, and promote those pages to `verified` only if no unresolved reading remains.
+Perform a controlled source-fidelity reconciliation of **scans 50–72 / printed pages 48–70** against the now-attached split part 002:
 
-After that gate passes, continue Iteration 5/next supplied transcription from scan **63 / printed page 61** onward.
+1. reconcile Iteration 5 scans 50–62 first;
+2. reconcile Iteration 6 scans 63–72 second;
+3. preserve every physical page boundary;
+4. apply only visually established wording / punctuation / spacing differences;
+5. run a final page-by-page comparison;
+6. promote only fully resolved pages to `verified`.
+
+After that verification gate, continue from scan **73 / printed page 71** onward.
