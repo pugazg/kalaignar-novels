@@ -5,89 +5,73 @@ Last updated: 2026-08-27
 
 ## Why this note exists
 
-The first repository onboarding pass incorrectly treated the initially exposed **scans 1–150** as the complete PDF. That conclusion is withdrawn.
+The first onboarding pass incorrectly treated scans **1–150** as the complete PDF. That conclusion is permanently withdrawn.
 
-Tamil Digital Library describes the same source identity (`TVA_BOK_0064097`, `புதையல்`) as **443 p.** and exposes the item as **PDF — 2 Files**. The exact PDF scan/page-object count must therefore be established from the complete source, not inferred from the original 150-scan viewing window.
+Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.** and exposes the item as **PDF — 2 Files**. The repository therefore distinguishes:
+
+- the bibliographic printed extent (**443 p.**);
+- the currently mapped scan prefix (**1–150**);
+- the exact original PDF scan/page-object count (**still pending**).
 
 ## Authority distinction
 
-The source scan remains controlling for exact textual readings, edition wording and page structure. Catalogue information is used only for source-completeness / bibliographic reconciliation.
+The source scan controls exact text, edition wording, punctuation and page structure. Catalogue information is used only for bibliographic / completeness reconciliation.
 
-The scan gives **`மூன்றாம் பதிப்பு, செப்டம்பர், 1961`**; a TDL summary elsewhere says `முதல் பதிப்பு, 1961`. The repository follows the scan for this edition.
+The scan says **`மூன்றாம் பதிப்பு, செப்டம்பர், 1961`**; a catalogue summary elsewhere says `முதல் பதிப்பு, 1961`. The scan governs this repository edition.
 
 ## Split-source workaround
 
 Received access derivatives:
 
 1. `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`
-   - represented source scans: **1–49**
-   - split pages: **49**
-   - transcription / direct visual audit: **49 / 49 COMPLETE / VERIFIED**
-   - committed to repository: **No**
-
+   - source scans **1–49**
+   - state **COMPLETE / VERIFIED**
 2. `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf`
-   - represented source scans: **50–98**
-   - split pages: **49**
-   - materialized size in chat runtime: **54,231,932 bytes**
-   - Iteration 5 baseline loaded: **scans 50–62 / printed 48–60**
-   - Iteration 6 baseline loaded: **scans 63–72 / printed 61–70**
-   - fine-grained textual reconciliation: **pending for scans 50–72**
-   - committed to repository: **No**
+   - source scans **50–98**
+   - split page count **49**
+   - runtime file size **54,231,932 bytes**
+   - directly verified so far **scans 50–72 / printed pages 48–70**
 
-The split files are access derivatives of the controlling source and allow page-level work without committing source PDFs.
+Neither split is committed to GitHub.
 
-## Fidelity correction lesson
+## Fidelity-correction history
 
-Earlier assistant visual-correction passes produced hallucinated Tamil substitutions. Those errors were later withdrawn and corrected. The standing rule is therefore:
+Earlier assistant visual passes introduced incorrect readings. The project now requires split-image comparison before changing a user-supplied baseline.
 
-- user-supplied transcription is the comparison baseline;
-- the scan remains the higher textual authority;
-- ambiguous old-print Tamil must not be silently replaced from assistant expectation;
-- exact source-vs-baseline disagreements must be isolated and rechecked;
-- `verified` is used only after a final direct page-by-page comparison.
+Key repaired stages:
 
-## Printed-page reconciliation lesson
+- scans 12–22 — reopened after assistant hallucinations and corrected;
+- scans 23–32 — user baseline restored, then re-audited and finalized;
+- scans 33–49 — checked against part 001 and finalized;
+- scans 50–72 — checked against part 002 and finalized.
 
-Never infer a printed number solely from sequence. For example, scan 13 sits between printed pages 10 and 12 but has no visible printed page number, so it remains `printed_page: null`.
+The latest pass also found a **cross-iteration physical-boundary error**: Iteration 5 included the reply `அதற்குத்தான் ஆறுமாதமாக...` after printed page 60, but the split shows that reply at the top of **printed page 61 / scan 63**. The canonical page records now reflect the actual boundary.
 
-## Current reconciliation state
+## Current textual state
 
-- full source identity: **confirmed**
-- TDL physical extent: **443 p.**
-- exact full-PDF scan/page-object count: **pending**
-- original full-source SHA-256: **pending**
-- part 001 received: **scans 1–49 — COMPLETE / VERIFIED**
-- part 002 received: **scans 50–98**
-- known-prefix page map: **scans 1–150**
-- full-source page map: **INCOMPLETE**
 - canonical page records created: **72**
-- `verified`: **49** — scans 1–49
-- `needs-review`: **23** — scans 50–72
-- remaining known-prefix `not-started`: **78**
+- verified: **72** — scans 1–72
+- needs-review: **0**
+- unresolved readings through scan 72: **0**
+- remaining rows in the current 150-scan prefix: **78 not-started**
 
-## Structure established through current baselines
-
-- chapter 4 closes / chapter 5 begins on scan 52 / printed 50;
-- chapter 5 closes / chapter 6 begins on scan 60 / printed 58;
-- chapter 6 closes on scan 68 / printed 66;
-- chapter 7 begins on scan 69 / printed 67;
-- the source chapter numeral on scan 69 is **`7`**, correcting the clean Iteration 6 transcription's `1`;
-- scan 72 / printed 70 ends mid-sentence at `ஆத்திரத்தோடு,`.
+Part-002 source corrections established in the latest audit include `கேட்கிறீயா`, `இமைகளைத்`, `மனிதராயிற்றே`, chapter numeral `7`, `எவ்வளவுதான்`, `காரணத்தால்`, `குறும்புக்காரக் கிழவா`, and `பெரிய மனுஷா`. Source punctuation / dash pauses were restored rather than preserving the clean extraction's systematic doubled punctuation.
 
 ## Full-source extent track
 
-1. reconcile the rest of part 002 through scan 98;
-2. receive/reconcile later page-range splits;
-3. determine the exact PDF scan/page-object count;
-4. inspect the true ending/back matter directly;
-5. extend `indexes/page-map.md` to every scan without inferring printed numbers;
-6. establish the complete chapter structure;
-7. calculate the original full-source SHA-256 when byte-level access becomes available.
+Still required:
 
-## Textual-fidelity track
+1. process the rest of part 002 through scan 98;
+2. receive/reconcile later split ranges;
+3. extend `indexes/page-map.md` beyond the current scan-150 prefix;
+4. identify the true final text / back matter / closing leaves;
+5. determine the exact original PDF scan/page-object count;
+6. calculate the exact original full-source SHA-256 when byte-level access is available.
 
-Immediate gate: perform one controlled fine-grained source-fidelity reconciliation of **scans 50–72 / printed pages 48–70** against part 002. Reconcile Iteration 5 scans 50–62 first and Iteration 6 scans 63–72 second. Apply only source-established differences and perform a final page-by-page comparison before any promotion to `verified`.
+Do not infer any of those values from the TDL printed-page count.
 
-After that gate, continue from scan **73 / printed page 71**.
+## Exact next activity
 
-No English translation may begin while the Tamil/full-source gates remain open.
+Continue from **scan 73 / printed page 71** in part 002. Preserve scan 72's unfinished ending `ஆத்திரத்தோடு,` and continue chapter `7` from the next physical page.
+
+English translation remains blocked until the complete Tamil source/audit gates pass.
