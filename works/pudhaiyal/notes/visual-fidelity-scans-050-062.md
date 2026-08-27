@@ -1,72 +1,64 @@
-# Preliminary fidelity record — புதையல் scans 50–62
+# Visual-fidelity audit — புதையல் scans 50–62
 
-Date: 2026-08-27
+Date finalized: 2026-08-27
 
 ## Status
 
-**BASELINE LOADED / SPLIT NOW AVAILABLE / FINE-GRAINED RECONCILIATION PENDING.**
+**COMPLETE / VERIFIED — 13 / 13 pages; unresolved readings: 0.**
 
-The user supplied Iteration 5 for printed pages **48–60**, corresponding to original scans **50–62**.
-
-The required split is now available in this conversation:
+Controlling access split used:
 
 `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf`
 
-- split pages: **49**
+- split PDF pages: **49**
 - represented original source scans: **50–98**
-- this Iteration 5 range: **scans 50–62 / printed pages 48–60**
-- split committed to repository: **No**
+- this audited range: **scans 50–62 / printed pages 48–60**
+- split file size available in the chat runtime: **54,231,932 bytes**
+- source PDF / split committed to repository: **No**
 
-The earlier version of this note correctly kept these pages `needs-review` because the split had not yet been attached. That availability problem is now resolved. The **textual verification gate itself is still open**: the existing Iteration 5 baseline must now be compared page by page with the newly supplied split before any of scans 50–62 are promoted to `verified`.
+The user's Iteration 5 was used only as the comparison baseline. Each physical page was compared directly with the split image before promotion to `verified`.
 
-## Structural facts already established and reconfirmed
+## Important source-established corrections
 
-- scan 50 visibly prints page **48** and continues scan 49's unfinished embedded historical tale;
-- scan 51 visibly prints **49**;
-- scan 52 visibly prints **50**, closes chapter `4`, and begins chapter `5` on the same physical page;
-- scans 53–59 visibly print **51–57** and continue chapter `5`;
-- scan 60 visibly prints **58**, closes chapter `5`, and begins chapter `6` on the same physical page;
-- scans 61–62 visibly print **59–60** and continue chapter `6`.
+The clean baseline systematically used doubled punctuation such as `..`, `!.`, `?.` and simple hyphens for many printed pauses. The canonical page records now preserve the punctuation visible in the scan, including single full stops / question marks / exclamation marks and printed dash pauses.
 
-Physical continuity checkpoints retained in the page records include:
+Specific textual corrections established directly from the split include:
+
+- **scan 54 / printed 52:** `சேட்கிறீயா` → **`கேட்கிறீயா`**;
+- **scan 56 / printed 54:** `இமைகளை த்` → **`இமைகளைத்`**;
+- **scan 60 / printed 58:** the clean transcription's line-break artefact `மனி தராயிற்றே` was restored as the continuous printed word **`மனிதராயிற்றே`**;
+- **scan 62 / printed 60:** the page ends with அம்பலத்தின் question `எத்தனை மணியிருக்கும்?`; the reply beginning **`அதற்குத்தான் ஆறுமாதமாக...`** is not on scan 62.
+
+That last point corrects an important Iteration-boundary error: the supplied Iteration 5 ran one printed line into page 61. The reply has been moved to the top of scan 63 / printed page 61, where it is visibly printed.
+
+## Structural facts verified
+
+- scan 50 / printed 48 continues scan 49's unfinished embedded historical tale;
+- scan 52 / printed 50 closes chapter `4` and begins chapter `5` on the same physical page;
+- scan 60 / printed 58 closes chapter `5` and begins chapter `6` on the same physical page;
+- scan 62 / printed 60 continues chapter `6` and ends with the question whose answer begins scan 63.
+
+## Physical continuity checkpoints
 
 - scan 52 → 53: `அந்த` / `வீட்டிற்கு...`;
 - scan 54 → 55: `போயி` / `யைப்பாரு...`;
-- scan 55 → 56: `வெளியேறியிருந்தாலும்-` / `அவர்கள்...`;
-- scan 56 → 57: `பிறகு` / `பாடினாள்...`;
-- scan 57 → 58: `ஆசைப்` / `படுகிறோம்...`.
+- scan 55 → 56: `வெளியேறியிருந்தாலும்—` / `அவர்கள்...`;
+- scan 56 → 57: `பிறகு` / `பாடினாள்!`;
+- scan 57 → 58: `ஆசைப்` / `படுகிறோம்...`;
+- scan 62 → 63: `எத்தனை மணியிருக்கும்?` / `அதற்குத்தான் ஆறுமாதமாக...`.
 
-## Current textual state
+## Final result
 
-The page bodies in scans 50–62 still preserve the user's Iteration 5 transcription as the comparison baseline. They have **not yet been promoted to source-verified text**.
+Canonical records:
 
-This is intentional. Earlier work on this project showed that ambiguous old-print Tamil must not be silently replaced from assistant inference. The next pass must isolate each apparent word / spacing / punctuation disagreement against the split image and apply only source-established differences.
+- `../pages/0050-pudhaiyal.md` through `../pages/0062-pudhaiyal.md`
 
-## Records present
+Final state:
 
-- `../pages/0050-pudhaiyal.md`
-- `../pages/0051-pudhaiyal.md`
-- `../pages/0052-pudhaiyal.md`
-- `../pages/0053-pudhaiyal.md`
-- `../pages/0054-pudhaiyal.md`
-- `../pages/0055-pudhaiyal.md`
-- `../pages/0056-pudhaiyal.md`
-- `../pages/0057-pudhaiyal.md`
-- `../pages/0058-pudhaiyal.md`
-- `../pages/0059-pudhaiyal.md`
-- `../pages/0060-pudhaiyal.md`
-- `../pages/0061-pudhaiyal.md`
-- `../pages/0062-pudhaiyal.md`
+- `verified`: **13 / 13**
+- `needs-review`: **0**
+- unresolved readings: **0**
 
-## Exact next activity
+## Next activity
 
-Perform a controlled source-fidelity reconciliation of **scans 50–72 / printed pages 48–70** against the now-attached split part 002:
-
-1. reconcile Iteration 5 scans 50–62 first;
-2. reconcile Iteration 6 scans 63–72 second;
-3. preserve every physical page boundary;
-4. apply only visually established wording / punctuation / spacing differences;
-5. run a final page-by-page comparison;
-6. promote only fully resolved pages to `verified`.
-
-After that verification gate, continue from scan **73 / printed page 71** onward.
+The same split-source reconciliation continues with scans **63–72 / printed pages 61–70**. After those are finalized, continue transcription from scan **73 / printed page 71**.
