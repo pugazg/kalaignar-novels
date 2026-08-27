@@ -3,129 +3,119 @@
 ## Source identity
 
 - Source filename: `TVA_BOK_0064097_புதையல்.pdf`
+- Controlling textual source: supplied scanned PDF
 - Source PDF committed to repository: **No**
-- SHA-256: **pending — exact byte-level calculation not yet available; do not invent a checksum**
-- File size of attached full PDF: **502,895,096 bytes**
-- Exact full-PDF scan/page-object count: **pending full-source reconciliation**
-- Tamil Digital Library bibliographic extent for this item: **443 p.**
+- Full-PDF attached size: **502,895,096 bytes**
+- Original SHA-256: **pending exact byte-level calculation — do not invent**
+- Exact full-PDF scan/page-object count: **pending complete source reconciliation**
+- Tamil Digital Library bibliographic extent: **443 p.**
 - Language: Tamil
 - Script: Tamil
-- Controlling textual source: the supplied scanned PDF
 
-> **Correction:** the earlier `Scan pages: 150` claim was wrong. `150` is only the known prefix initially exposed by the renderer. It must not be treated as the complete PDF/source extent.
+> The earlier `150 pages total` conclusion was wrong. Scan 150 is only the end of an initially exposed prefix, not the source ending.
 
-Detailed correction record: [`../notes/source-page-count-reconciliation.md`](../notes/source-page-count-reconciliation.md).
+Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/source-page-count-reconciliation.md).
 
-## Split-source verification parts
+## Split-source access derivatives
 
-The source is being handled through page-range access derivatives so the full work can be checked at usable visual resolution. These splits remain outside the repository and do not establish a new edition.
-
-### Part 001 — complete
+### Part 001
 
 `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`
 
-- source scan range represented: **1–49**
-- split PDF page count: **49**
-- split file size available in chat runtime: **52,760,797 bytes**
-- transcription / direct visual audit: **49 / 49 COMPLETE / VERIFIED**
+- represented source scans: **1–49**
+- split page count: **49**
+- status: **COMPLETE / VERIFIED**
 - committed to repository: **No**
 
-### Part 002 — available
+### Part 002
 
 `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf`
 
-- source scan range represented: **50–98**
-- split PDF page count: **49**
-- materialized split size in chat runtime: **54,231,932 bytes**
-- Iteration 5 baseline loaded: **scans 50–62 / printed pages 48–60**
-- Iteration 6 baseline loaded: **scans 63–72 / printed pages 61–70**
-- fine-grained wording / spacing / punctuation reconciliation: **pending for scans 50–72**
+- represented source scans: **50–98**
+- split page count: **49**
+- materialized file size available in chat runtime: **54,231,932 bytes**
+- verified range so far: **scans 50–72 / printed pages 48–70**
+- remaining part-002 scans not yet transcribed: **73–98**
 - committed to repository: **No**
 
-## Title / authorship visible in the scan
+These splits are access derivatives of the same controlling edition and do not establish new editions.
 
-Direct inspection establishes:
+## Title / authorship visible in scan
 
 - Title: **புதையல்**
-- Author line: **கலைஞர் மு. கருணாநிதி, எம். எல். ஏ.**
+- Author: **கலைஞர் மு. கருணாநிதி, எம். எல். ஏ.**
 
-The filename was not used as authority for this identification.
-
-## Publication details visible in the scan
-
-Direct reinspection of the front matter establishes:
+## Publication details visible in scan
 
 - Publisher / imprint: **அன்புப் பதிப்பகம்**
-- Place line: **பொறையார் :: தஞ்சை மாவட்டம்**
+- Place: **பொறையார் :: தஞ்சை மாவட்டம்**
 - Edition: **மூன்றாம் பதிப்பு**
 - Edition date: **செப்டம்பர், 1961**
-- Price lines visible on scan 4:
+- Price lines:
   - **சாதாரணப் பதிப்பு ரூ 5/-**
   - **ஸ்பெஷல் பதிப்பு ரூ 6/-**
-- Scan 5 is headed **`பதிப்புரை`**.
-- Scan 5 prints **`தமிழர்கள் ஆதரிக்க வேண்டுகின்றோம்.`**
+- scan 5 heading: **`பதிப்புரை`**
 
-### Catalogue discrepancy — do not override the scan
+A Tamil Digital Library summary elsewhere says `முதல் பதிப்பு, 1961`; this catalogue wording does **not** override the scan-printed `மூன்றாம் பதிப்பு, செப்டம்பர், 1961`.
 
-A Tamil Digital Library summary elsewhere says `முதல் பதிப்பு, 1961`, while the controlling scan visibly says `மூன்றாம் பதிப்பு, செப்டம்பர், 1961`.
+## Front-matter / provenance observations
 
-For this repository edition, the **scan-printed edition statement governs**.
+- scan 1 — cover with printed title / author / publisher-place;
+- scan 2 — largely blank reverse with later donation/provenance line;
+- scan 3 — title page with copy-specific handwritten signature/date-like mark, not edition text;
+- scan 4 — price / edition page;
+- scan 5 — `பதிப்புரை`;
+- scan 6 — effectively blank / stained.
 
-## External source-extent corroboration
+## Printed-page rule
 
-The same Tamil Digital Library item is publicly catalogued with physical description **443 p.** and the item page lists **PDF — 2 Files** for `TVA_BOK_0064097`.
+Record a printed number only when actually visible. Scan 13 is between printed pages 10 and 12 but shows no printed page number and therefore remains `null` / `—`.
 
-These catalogue facts establish that the first 150 known scans are not the full source extent. They are used only for source-completeness reconciliation; they do not replace direct scan readings.
+Directly processed part-002 numbering confirms:
 
-## Printed-page numbering behaviour
+- scan 50 → printed 48;
+- scan 62 → printed 60;
+- scan 63 → printed 61;
+- scan 68 → printed 66;
+- scan 69 → printed 67;
+- scan 72 → printed 70.
 
-Record a printed page number only where the numeral is actually visible.
-
-Established processed examples:
-
-- scans **1–7**: no visible printed page number;
-- scan **8**: printed **6**;
-- scans **9–12**: printed **7–10**;
-- scan **13**: chapter-1 opening with **no visible printed page number** — do not infer 11;
-- scan **14**: printed **12**;
-- processed body scans then visibly continue through scan **72 / printed page 70**.
-
-The page map remains the controlling per-scan record.
-
-## Work-level structure — current evidence
-
-`புதையல்` is one continuous work. Current directly established structure through scan 72:
+## Current work structure established by direct processed evidence
 
 ```text
 புதையல்
 ├── scans 7–12: அறிமுகம்
 ├── scan 13: chapter 1 begins
-├── scan 22: chapter 1 closes; chapter 2 begins on same scan
-├── scan 30: chapter 2 closes; chapter 3 begins on same scan
-├── scan 40: chapter 3 closes; chapter 4 begins on same scan
+├── scan 22: chapter 1 closes; chapter 2 begins
+├── scan 30: chapter 2 closes; chapter 3 begins
+├── scan 40: chapter 3 closes; chapter 4 begins
 ├── scan 46: four-star internal transition
 ├── scan 47: embedded historical tale begins inside chapter 4
-├── scan 52: chapter 4 closes; chapter 5 begins on same scan
-├── scan 60: chapter 5 closes; chapter 6 begins on same scan
+├── scan 52: chapter 4 closes; chapter 5 begins
+├── scan 60: chapter 5 closes; chapter 6 begins
 ├── scan 68: chapter 6 closes
-└── scan 69: chapter 7 begins
+└── scan 69: chapter 7 begins and continues beyond scan 72
 ```
 
-The embedded historical tale is an internal textual unit, not a separate work.
+The embedded historical tale remains an internal textual unit, not a separate work.
 
-Important Iteration 6 structural correction: the supplied clean transcription showed chapter numeral `1` at scan 69 / printed 67; the source visibly prints **`7`**.
+## Canonical Tamil state
 
-Later chapter checkpoints in the 150-row prefix remain provisional until their split-source ranges are directly inspected.
+- page records created: **72**
+- verified: **72** — scans 1–72
+- needs-review: **0**
+- unresolved readings through scan 72: **0**
+- known-prefix not-started rows: **78**
 
-## Canonical Tamil layer — current state
+Latest direct part-002 corrections include:
 
-- scans **1–49**: **verified** after direct split-source visual audit and correction history;
-- scans **50–62**: Iteration 5 baseline loaded; **needs-review** pending fine-grained part-002 reconciliation;
-- scans **63–72**: Iteration 6 baseline loaded with physical boundaries and chapter-7 structure established; **needs-review** pending fine-grained reconciliation;
-- page records created: **72**;
-- verified: **49**;
-- needs-review: **23**;
-- known-prefix not-started: **78**.
+- scan 54 `கேட்கிறீயா`;
+- scan 56 `இமைகளைத்`;
+- scan 60 `மனிதராயிற்றே` after removal of a clean-transcription line-break artefact;
+- scan 62 → 63 physical boundary correction for `அதற்குத்தான் ஆறுமாதமாக...`;
+- scan 69 chapter `7` and `எவ்வளவுதான்`;
+- scan 70 `காரணத்தால்`, `குறும்புக்காரக் கிழவா`;
+- scan 71 `பெரிய மனுஷா`.
 
 Fidelity records:
 
@@ -136,52 +126,18 @@ Fidelity records:
 - [`../notes/visual-fidelity-scans-050-062.md`](../notes/visual-fidelity-scans-050-062.md)
 - [`../notes/visual-fidelity-scans-063-072.md`](../notes/visual-fidelity-scans-063-072.md)
 
-Important currently preserved part-002 boundaries include:
+## Source condition
 
-- scan 52 `அந்த` → scan 53 `வீட்டிற்கு...`;
-- scan 54 `போயி` → scan 55 `யைப்பாரு...`;
-- scan 57 `ஆசைப்` → scan 58 `படுகிறோம்...`;
-- scan 64 `மோகினிப் பிசாசு` → scan 65 `இப்படி யெல்லாம்...`;
-- scan 67 `அவர் அந்த உண்மையை` → scan 68 `தாண்டவனிடம் வெளியிடவில்லை...`;
-- scan 70 `...கேட்பதற்கு அவன்` → scan 71 `மிகவும் தயங்கினான்...`;
-- scan 71 `...போய்க் கொண்டிருக்கிறார்கள்` → scan 72 `என்னுடைய சாவில்...`;
-- scan 72 ends at `ஆத்திரத்தோடு,`.
+Observed processed scans show aged paper, staining / binding wear, intermittent bleed-through, and occasional copy-specific handwriting / underlining / marginal marks. Such non-edition marks must remain separate from printed text.
 
-## Source extent / completeness status
+## Completeness still open
 
-Current state:
+- TDL physical description: **443 p.**
+- exact full scan-object count: **pending**
+- original full-source SHA-256: **pending**
+- true ending / back matter: **not yet inspected**
+- page map beyond the current 150-row prefix: **not yet established**
 
-- source is known to extend beyond the first 150 known scans;
-- Tamil Digital Library describes the item as **443 p.**;
-- exact full-PDF scan/page-object count is unresolved;
-- scan 150 / printed page 148 is **not** treated as the source ending;
-- no closing-page, `முற்றும்`, advertisement, blank end leaf or back cover claim may be made until later scans are directly inspected.
+## Exact next action
 
-The page manifest is therefore a **provisional prefix manifest**, not a complete-source map.
-
-## Technical limitations still open
-
-### Full page count
-
-The exact full scan count remains pending. Page-range splitting is the working access method.
-
-### SHA-256
-
-The project requires an exact SHA-256 checksum for the original full source. Byte-level hashing of the 502,895,096-byte original remains pending.
-
-**Do not fabricate or approximate either the exact scan count or SHA-256.**
-
-## Source authority rule
-
-The supplied scan is the controlling source for edition text. OCR, filename, catalogue summaries, memory, later editions, web text, grammar expectations or historical knowledge may assist navigation or source-extent reconciliation but may not silently replace what is visibly printed.
-
-## Exact next source-registration / transcription action
-
-1. fine-grained reconcile Iteration 5 scans **50–62 / printed 48–60** against split part 002;
-2. then reconcile Iteration 6 scans **63–72 / printed 61–70**;
-3. apply only source-established spelling / spacing / punctuation differences;
-4. run a final direct page-by-page comparison before promotion to `verified`;
-5. after that gate, continue from scan **73 / printed page 71**;
-6. extend the page map beyond the current 150-row prefix as later split parts establish the full source;
-7. calculate the original-source SHA-256 when byte-level access becomes available;
-8. do not start English translation.
+Continue source transcription with **scan 73 / printed page 71** from part 002, preserving scan 72's unfinished `ஆத்திரத்தோடு,` continuity. Do not start English translation.
