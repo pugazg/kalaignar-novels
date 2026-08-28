@@ -33,7 +33,7 @@ Audit rule:
 
 ### Scan 75
 
-The disputed அஞ்சலை question has now been resolved by a dedicated native-resolution inspection.
+The disputed அஞ்சலை question was resolved by a dedicated native-resolution inspection.
 
 The physical source line wraps the word as:
 
@@ -46,7 +46,7 @@ Therefore:
 
 - earlier assistant `போயிடுச்சா?` is confirmed wrong;
 - temporary restored baseline `போய்ட்டுதா?` is superseded;
-- canonical scan 75 now records `போயிட்டுதா?` and is `verified`.
+- canonical scan 75 records `போயிட்டுதா?` and is `verified`.
 
 ### Scans 99–108
 
@@ -91,9 +91,9 @@ Key results:
 - scan 111: `நான் இருக்கிறது மருங்கப்பள்ளம்!`; assistant `மருங்கப்பள்ளம்தான்` withdrawn;
 - scan 112: `காஷ்—?` confirmed; following phrase is `என் அனாவசியமா செலவு...`;
 - scan 113: `ஆணு, பெண்ணு?`, `இது என் இந்த புதிய கேள்வியைக்...`, and `தம்பீ!` confirmed;
-- scan 114: `லக்ஷணம்னு`, `முன்னேயே`, `பாட்ட ஆரம்பித்து விட்டான்`, `பாட்டை ஆரம்பித்து`, `பாடிக் கொண்டிருக்கும்`;
+- scan 114: `லக்ஷணம்னு`, `முன்னேயே`, `பாட்டு ஆரம்பித்து விட்டான்`, `"காயாத கானகத்தே!" என்ற பாட்டை`, `பயித்தியமாயிருக்கிறதாக்கும்`, `பாடிக் கொண்டிருக்கும்`;
 - scan 115: `போதும் தம்பி போதும்!`; first `மிஞ்சக் கூடியது`, second `மிஞ்சக்கூடியது`;
-- scan 116: `செத்துப்போயி கூட`, `நான் தான்`, `நல்ல முடிவு தம்பி!`, `படித்து விட்டு`;
+- scan 116: `செத்துப்போயி கூட`, source-odd `அவர்கள் ஆசிரியர் விடவில்லை`, `நான் தான்`, `நல்ல முடிவு தம்பி!`, `படித்து விட்டு`;
 - scan 117: `நம்ப ஊருக்கு`; source correction `பாத்துட்டான்னு சரின்னு சொல்லிடுவான்`;
 - scan 118: `மருங்கப்பள்ளத்துச் சிவன் கோயிலுக்கு`, `வேண்டும் என்று அவசர புத்தி`; four-star internal transition retained.
 
