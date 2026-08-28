@@ -7,12 +7,12 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 9 baseline reconciled directly against split part 003 page image"
+transcription_method: "backward-integrity re-audit against native split-source image"
 ---
 
 அந்த நிகழ்ச்சியை மீண்டும் நினைவூட்ட வேண்டும் போலவும் இருக்கிறது, நினைவூட்டுவதற்கு சங்கடமாகவும் இருக்கிறது. அந்த எண்ண அலைகளால் ஏற்படும் வேதனையிருக்கிறதே; அதை கிழவரின் முகத்திலே நன்றாகக் காண முடிந்தது. துரை - பரிமளம் - இருவராலும்!
 
-பேச்சை மாற்றலாம் என்று கருதிய துரை, கிழவரிடம், "ஆமாம் - அந்த ஐயப்பன் யார்? உங்களுக்கு நெடு நாளா பழக்கமா?" என்று கேட்டான்.
+பேச்சை மாற்றலாம் என்று கருதிய துரை, கிழவரிடம், "ஆமாம் - அந்த ஐயப்பன் யார்? உங்களுக்கு நெடு நாள் பழக்கமா?" என்று கேட்டான்.
 
 "போலீஸ் விசாரணையை இங்கே ஆரம்பித்து விட்டீர்களா?" கிழவர் சிரித்தார்.
 
@@ -34,6 +34,6 @@ The page ends mid-thought at `அல்லது பேரன் பேத்த
 
 ## Fidelity note
 
-The scan prints `நெடு நாளா பழக்கமா?` and `உடல் வளர்த்து`; the clean baseline had `நெடு நாள் பழக்கமா?` and `உடலை வளர்த்து`.
+Backward integrity re-audit confirms `நெடு நாள் பழக்கமா?`; the earlier assistant `நெடு நாளா பழக்கமா?` is withdrawn. The source also clearly supports `உடல் வளர்த்து`; no change is made there.
 
 <!-- மூல ஸ்கேன் பக்கம்: 104; அச்சுப் பக்கம்: 102 -->
