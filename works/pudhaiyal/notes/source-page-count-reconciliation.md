@@ -37,8 +37,7 @@ Received access derivatives:
    - source scans **99–147**
    - split page count **49**
    - page records created through **scan 118 / printed 116**
-   - scans **99–108 verified after integrity corrections**
-   - scans **109–118 needs-review** because the previous Iteration-10 verification was withdrawn
+   - scans **99–118 verified after backward-integrity re-audit**
 
 No split is committed to GitHub.
 
@@ -48,27 +47,29 @@ Earlier assistant visual passes introduced multiple false source readings. The c
 
 [`backward-integrity-audit-001-118.md`](backward-integrity-audit-001-118.md)
 
-Confirmed corrections in the current repair pass include:
+Confirmed repair items include:
 
 - scan 4 `நூல் நிலையப் பதிப்பு` and colon in `மூன்றாம் பதிப்பு: ...`;
 - scan 11 `இருக்கிறான்னு`;
 - scan 24 `அவர்களை நோக்கி`;
 - scan 25 `எதோ`;
-- scan 31 no full stop after `மூர்ச்சை யடைந்தான்`, and `அவனைத்தழுவிக்`;
+- scan 31 no full stop after `மூர்ச்சை யடைந்தான்`, plus `அவனைத்தழுவிக்`;
 - scan 75 previous `போயிடுச்சா?` claim withdrawn; page reopened;
 - scan 99 restored `சொல்வேன் என்று... நான் யாருடைய...`;
 - scan 101 removed assistant-inserted `நான்` and comma;
 - scan 104 restored `நெடு நாள் பழக்கமா?`, while `உடல் வளர்த்து` remains source-confirmed;
 - scan 106 restored `வேண்டுமா?`;
-- scans 109–118 downgraded from unreliable `verified` state to `needs-review`.
+- scans 109–118 were reset and then re-audited against native part-003 images.
 
-Forward transcription is frozen until this integrity gate closes.
+The fresh scans 109–118 audit is now **10 / 10 verified; unresolved 0**. Detailed record: [`visual-fidelity-scans-109-118.md`](visual-fidelity-scans-109-118.md).
+
+Forward transcription remains frozen only because scan 75 is still unresolved.
 
 ## Current textual state
 
 - canonical page records created: **118**
-- verified: **107**
-- needs-review: **11** — scan 75 and scans 109–118
+- verified: **117**
+- needs-review: **1** — scan 75
 - partial: **0**
 - remaining rows in current 150-scan prefix: **32 not-started**
 - full-source manifest: **INCOMPLETE**
@@ -77,7 +78,7 @@ Forward transcription is frozen until this integrity gate closes.
 
 Still required:
 
-1. close the backward integrity audit for scans 109–118 and scan 75;
+1. resolve scan 75 and close the backward integrity audit;
 2. continue part 003 from scan 119 onward only after that gate;
 3. receive/reconcile later split ranges after scan 147;
 4. extend `indexes/page-map.md` beyond the current scan-150 prefix;
@@ -89,4 +90,6 @@ Do not infer any of those values from the TDL printed-page count.
 
 ## Exact next activity
 
-Perform a fresh native-image audit of **scans 109–118 / printed pages 107–116** using the user's Iteration 10 as baseline. Classify every assistant delta as confirmed / withdrawn / ambiguous. Then resolve scan 75's old glyph. Do not begin scan 119 or English translation until all 11 `needs-review` records are closed.
+Resolve **scan 75 / printed page 73** by dedicated native old-glyph inspection. The user's `போய்ட்டுதா?` remains the working baseline unless the source pixels unambiguously establish another reading.
+
+Do not begin scan 119 or English translation until that single `needs-review` record is closed.
