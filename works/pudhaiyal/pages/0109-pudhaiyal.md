@@ -4,17 +4,17 @@ printed_page: 107
 work: "pudhaiyal"
 section: "11"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 10 baseline loaded; backward-integrity re-audit pending"
+transcription_method: "user Iteration 10 baseline reconciled by backward-integrity audit against native split part 003 image"
 ---
 
 "என்னா பிரதர்! ஒரே டல்லா இருக்கு லைப்!" — இது துக்காராம்.
 
-"ஆமாம்ப்பா — அவ ஊருக்குப் போன பிறகு, துக்காராம், துக்காராமாக மாறிவிட்டாய்!" — இது ஒரு நண்பன்.
+"ஆமாம்ப்பா — அவ ஊருக்குப் போன பிறகு, துக்காராம், துக்கராமாக மாறிவிட்டாய்!" — இது ஒரு நண்பன்.
 
-"பரிமளா, இந்தத் தெருவிலே நடக்காம இந்தத் தெருவே பாழாய்ப் போன மாதிரி தெரியுது — பாலைவனமாகக் காட்சி அளிக்குது!"
+"பரிமளா, இந்தத் தெருவிலே நடக்காம இந்தத் தெருவே பாழாய்ப்போன மாதிரி தெரியுது — பாலைவனமாகக் காட்சி அளிக்குது!"
 
 "கூடிய சீக்கிரம் உனக்கு பரிமளா பைத்தியம் பிடித்தே விடும்!"
 
@@ -26,10 +26,15 @@ transcription_method: "user-supplied Iteration 10 baseline loaded; backward-inte
 
 "அது சரியப்பா! என்னமோ எங்களால் முடிந்தது அவள் ஊரைத்தான் விசாரித்துச் சொன்னோம். அவளிடமே உன்னை அழைத்துப் போகமுடியுமா, அல்லியிடம் அர்ச்சுனனை அழைத்துப்போன மாதிரி!"
 
-"ஏன் அழைத்துப் போனால் என்னவாம் — திறமை வில்லேன்னு சொல்லுங்கடா!"
+"ஏன் அழைத்துப் போனால் என்னவாம் — திறமை யில்லேன்னு சொல்லுங்கடா!"
 
-## Integrity status
+## Integrity verification
 
-The previous Iteration-10 verification claim is suspended. The user's direct check confirms the opening `என்னா பிரதர்!`; do not replace the final old-form glyph by assistant interpretation. The rest of the page still requires the controlled backward-integrity pass before `verified` can be restored.
+- Re-audited directly against split part 003 page 11 / printed page 107.
+- User-confirmed old-form reading `என்னா பிரதர்!` is retained.
+- Source prints `துக்கராமாக`, not the earlier canonical `துக்காராமாக`.
+- Source prints joined `பாழாய்ப்போன`.
+- The final line is physically split after `திறமை`; the continuation prints `யில்லேன்னு`, so the canonical reading is `திறமை யில்லேன்னு`.
+- No unresolved reading remains on this page.
 
 <!-- மூல ஸ்கேன் பக்கம்: 109; அச்சுப் பக்கம்: 107 -->
