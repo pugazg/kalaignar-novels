@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "letter-by-letter native embedded image comparison with split source; user baseline reconciled against scan"
+transcription_method: "backward-integrity re-audit against native split-source image"
 ---
 
 விடும். சாளுவநாயக்கன் பட்டினத்தில் அந்த மனோரா பக்கத்தில் போய் ஒளிந்துகொண்டால் நம்மை யாரும் பார்க்க முடியாது. இன்றிரவை எப்படியும் கழித்து விட்டால் காலையில் நீ வீட்டுக்குப் போய்விடலாம்.”
@@ -22,7 +22,7 @@ transcription_method: "letter-by-letter native embedded image comparison with sp
 
 “புரியும்படி சொல்லுங்கள், துரை!”
 
-“சொல்லுகிறேன்—இரவு வீட்டிலே படுத்து நீ தூங்கிக் கொண்டிருந்ததாகவும்—கனவில் ஒரு தேவதை வந்து ஏதோ மருந்தொன்றை மூக்கிலே காட்டியதாகவும்—கனவு கலைந்து விழிப்பதற்காக எவ்வளவோ முயன்றும் முடியாமற் போனதாகவும், சப்தம் போடக்கூட இயலாமற் போனதாகவும், அதன் பிறகு பிரக்ஞையற்றுப்போய் நடந்தது எதுவும் தெரியாதென்றும், விடியற்காலையில் விழித்துப் பார்த்தால் ஒரு மதகின் பக்கம் படுத்திருப்பதை உணர்ந்ததாகவும்—உடனே எழுந்து ஓடி வந்ததாகவும் சொல்லி விடு; உன் அப்பா அம்மா நம்பி விடுவார்கள்!”
+“சொல்லுகிறேன்—இரவு வீட்டிலே படுத்து நீ தூங்கிக் கொண்டிருந்ததாகவும்—கனவில் ஒரு தேவதை வந்து எதோ மருந்தொன்றை மூக்கிலே காட்டியதாகவும்—கனவு கலைந்து விழிப்பதற்காக எவ்வளவோ முயன்றும் முடியாமற் போனதாகவும், சப்தம் போடக்கூட இயலாமற் போனதாகவும், அதன் பிறகு பிரக்ஞையற்றுப்போய் நடந்தது எதுவும் தெரியாதென்றும், விடியற்காலையில் விழித்துப் பார்த்தால் ஒரு மதகின் பக்கம் படுத்திருப்பதை உணர்ந்ததாகவும்—உடனே எழுந்து ஓடி வந்ததாகவும் சொல்லி விடு; உன் அப்பா அம்மா நம்பி விடுவார்கள்!”
 
 “வாழ்க மூட நம்பிக்கை!” என்று அவன் கன்னத்தில் தன் கன்னத்தை உரசியபடி சிரித்தாள் அந்த சிங்காரி.
 
@@ -35,7 +35,8 @@ Opening `விடும்.` completes scan 24's terminal `கடற்கர�
 ## Scan observations
 
 - Visible printed page number: **23**.
-- Native scan confirms `ஏதோ`, `போனதாகவும்`, and `உணர்ந்ததாகவும்`; the separated draft forms were not retained.
-- Source dialogue punctuation and dashes were reconciled from the native scan.
+- Backward integrity re-audit confirms `எதோ மருந்தொன்றை`; the earlier assistant normalization to `ஏதோ` is withdrawn.
+- Native scan continues to support the joined `போனதாகவும்` and `உணர்ந்ததாகவும்` forms.
+- Source dialogue punctuation and dashes remain reconciled from the native scan.
 
 <!-- மூல ஸ்கேன் பக்கம்: 25; அச்சுப் பக்கம்: 23 -->
