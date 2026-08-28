@@ -4,10 +4,10 @@ printed_page: 111
 work: "pudhaiyal"
 section: "12"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 10 baseline loaded; backward-integrity re-audit pending"
+transcription_method: "user Iteration 10 baseline reconciled by backward-integrity audit against native split part 003 image"
 ---
 
 ஊர் சுற்றிப் பார்க்க சில மணி நேர ஓய்வு கிடைத்ததே என்ற சந்தோஷம்.
@@ -16,9 +16,9 @@ transcription_method: "user-supplied Iteration 10 baseline loaded; backward-inte
 
 "மருங்கப்பள்ளத்திலே உங்களுக்கு யாரையாவது தெரியுமா?" அம்பலத்தின் இந்தக் கேள்விக்கு உடனடியாக பதில் சொல்ல துக்காராம் தயங்கி, பிறகு தன்னைத் தானே சமாளித்துக்கொண்டு, "ஆமாம் — தெரியும்!" என்றான்.
 
-"தெரிந்த ஆள் — ஆணா, பெண்ணா?"
+"தெரிந்த ஆள் — ஆணு, பெண்ணு?"
 
-"இது ஏன் இந்த புதிய கேள்வியைக் கேட்கிறீங்க — யாராயிருக்கணும் என்று நினைக்கிறீங்க — நீங்க?"
+"இது என் இந்த புதிய கேள்வியைக் கேட்கிறீங்க — யாராயிருக்கணும் என்று நினைக்கிறீங்க — நீங்க?"
 
 "பதினாறு முழம் என்று தான் நினைக்கிறேன் —"
 
@@ -32,12 +32,13 @@ transcription_method: "user-supplied Iteration 10 baseline loaded; backward-inte
 
 "அடிசக்கை! பேரையே சொல்லிட்டீங்களே தம்பீ! — உம்; காதலுக்கு கண்ணு ஏது? யாராயிருந்தாலும் — அவுங்க யாரு என்னாண்ணு பாக்காம — பேசிடறது தான்
 
-## Page-boundary continuity
+## Page-boundary / integrity note
 
-The final dialogue continues on scan 114.
-
-## Integrity status
-
-The previous Iteration-10 `verified` label is suspended pending a fresh native-image audit of every assistant-introduced delta on this page.
+- Re-audited directly against split part 003 page 15 / printed page 111.
+- Source prints colloquial `ஆணு, பெண்ணு?`, not clean-baseline `ஆணா, பெண்ணா?`.
+- Source prints `இது என் இந்த புதிய கேள்வியைக்...`; clean-baseline `ஏன்` is not retained here.
+- The source visibly supports `தம்பீ!`; the earlier assistant suggestion `தம்பி!` for this scan is withdrawn.
+- The final dialogue continues on scan 114.
+- No unresolved reading remains on this page.
 
 <!-- மூல ஸ்கேன் பக்கம்: 113; அச்சுப் பக்கம்: 111 -->
