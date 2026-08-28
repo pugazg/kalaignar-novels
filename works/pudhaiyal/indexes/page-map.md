@@ -4,13 +4,14 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 
 > **Extent warning:** this manifest currently covers only the known prefix through scan 150. It is **not** a complete-source manifest. Tamil Digital Library describes the item as **443 p.**; the exact full-PDF scan count remains pending later split reconciliation.
 
-> **Split-source state:** part 001 (`scans 1–49`) and part 002 (`scans 50–98`) are COMPLETE / VERIFIED. Part 003 (`scans 99–147`) is AVAILABLE. Scans **99–107 / printed pages 97–105** are VERIFIED; scan **108 / printed page 106** is `partial` because the supplied Iteration 9 baseline stops before the physical page ends.
+> **Integrity gate:** a backward audit is open after assistant old-glyph misreads. Forward transcription is frozen. Scan **75** and scans **109–118** are `needs-review`; do not treat their earlier `verified` labels as authoritative.
 
-> **Important part-003 gate:** scan 108 begins with `யாக`, completing scan 107's terminal `கடை` as `கடையாக`, but additional printed text remains below the supplied baseline endpoint. Do not advance the verified boundary beyond scan 107 until scan 108 is completed.
+> **Split-source state:** part 001 (`scans 1–49`), part 002 (`scans 50–98`) and part 003 (`scans 99–147`) are available as access derivatives. Page records currently exist through scan 118.
 
 > **Printed-page rule:** record a printed page number only when visibly printed. Scan 13 therefore remains `—` rather than inferred as 11.
 
-Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/source-page-count-reconciliation.md).
+Integrity record: [`../notes/backward-integrity-audit-001-118.md`](../notes/backward-integrity-audit-001-118.md).  
+Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes/source-page-count-reconciliation.md).
 
 | Scan | Printed page | Page type / section | Status | File |
 |---:|:---:|---|---|---|
@@ -88,7 +89,7 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 | 72 | 70 | chapter 7; ends mid-sentence at `ஆத்திரத்தோடு,` | verified | `pages/0072-pudhaiyal.md` |
 | 73 | 71 | chapter 7 | verified | `pages/0073-pudhaiyal.md` |
 | 74 | 72 | chapter 7 | verified | `pages/0074-pudhaiyal.md` |
-| 75 | 73 | chapter 7 closes / chapter 8 begins | verified | `pages/0075-pudhaiyal.md` |
+| 75 | 73 | chapter 7 closes / chapter 8 begins; old-glyph reading pending | needs-review | `pages/0075-pudhaiyal.md` |
 | 76 | 74 | chapter 8 | verified | `pages/0076-pudhaiyal.md` |
 | 77 | 75 | chapter 8 | verified | `pages/0077-pudhaiyal.md` |
 | 78 | 76 | chapter 8 | verified | `pages/0078-pudhaiyal.md` |
@@ -121,17 +122,17 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 | 105 | 103 | chapter 11 | verified | `pages/0105-pudhaiyal.md` |
 | 106 | 104 | chapter 11 | verified | `pages/0106-pudhaiyal.md` |
 | 107 | 105 | chapter 11 / four-star internal transition | verified | `pages/0107-pudhaiyal.md` |
-| 108 | 106 | chapter 11; Iteration 9 baseline ends before physical page end | partial | `pages/0108-pudhaiyal.md` |
-| 109 | 107 | chapter 11 | not-started | `pages/0109-pudhaiyal.md` |
-| 110 | 108 | chapter 12 begins | not-started | `pages/0110-pudhaiyal.md` |
-| 111 | 109 | chapter 12 | not-started | `pages/0111-pudhaiyal.md` |
-| 112 | 110 | chapter 12 | not-started | `pages/0112-pudhaiyal.md` |
-| 113 | 111 | chapter 12 | not-started | `pages/0113-pudhaiyal.md` |
-| 114 | 112 | chapter 12 | not-started | `pages/0114-pudhaiyal.md` |
-| 115 | 113 | chapter 12 | not-started | `pages/0115-pudhaiyal.md` |
-| 116 | 114 | chapter 12 | not-started | `pages/0116-pudhaiyal.md` |
-| 117 | 115 | chapter 12 | not-started | `pages/0117-pudhaiyal.md` |
-| 118 | 116 | chapter 12 | not-started | `pages/0118-pudhaiyal.md` |
+| 108 | 106 | chapter 11 | verified | `pages/0108-pudhaiyal.md` |
+| 109 | 107 | chapter 11 | needs-review | `pages/0109-pudhaiyal.md` |
+| 110 | 108 | chapter 11 closes / chapter 12 begins | needs-review | `pages/0110-pudhaiyal.md` |
+| 111 | 109 | chapter 12 | needs-review | `pages/0111-pudhaiyal.md` |
+| 112 | 110 | chapter 12 | needs-review | `pages/0112-pudhaiyal.md` |
+| 113 | 111 | chapter 12 | needs-review | `pages/0113-pudhaiyal.md` |
+| 114 | 112 | chapter 12 | needs-review | `pages/0114-pudhaiyal.md` |
+| 115 | 113 | chapter 12 | needs-review | `pages/0115-pudhaiyal.md` |
+| 116 | 114 | chapter 12 | needs-review | `pages/0116-pudhaiyal.md` |
+| 117 | 115 | chapter 12 | needs-review | `pages/0117-pudhaiyal.md` |
+| 118 | 116 | chapter 12 / four-star internal transition | needs-review | `pages/0118-pudhaiyal.md` |
 | 119 | 117 | chapter 13 begins | not-started | `pages/0119-pudhaiyal.md` |
 | 120 | 118 | chapter 13 | not-started | `pages/0120-pudhaiyal.md` |
 | 121 | 119 | chapter 13 | not-started | `pages/0121-pudhaiyal.md` |
@@ -169,36 +170,32 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 
 - Tamil Digital Library bibliographic extent: **443 p.**
 - Exact full-PDF scan/page-object count: **pending complete source reconciliation**
-- Split part 001: **scans 1–49 — COMPLETE / VERIFIED**
-- Split part 002: **scans 50–98 — COMPLETE / VERIFIED**
-- Split part 003: **scans 99–147 — AVAILABLE; scans 99–107 VERIFIED; scan 108 PARTIAL**
-- Page records actually created: **108**
-- `verified`: **107** — scans 1–107
-- `partial`: **1** — scan 108
-- `needs-review`: **0**
-- unresolved readings through verified scan 107: **0**
-- remaining known-prefix rows `not-started`: **42**
+- Page records created: **118**
+- `verified`: **107**
+- `needs-review`: **11** — scan 75 and scans 109–118
+- `partial`: **0**
+- known-prefix rows `not-started`: **32** — scans 119–150
 - full-source page-map coverage: **INCOMPLETE**
-- Source PDF / split PDFs stored in repository: **No**
+- source PDF / split PDFs stored in repository: **No**
 
-## Structural checkpoints — directly processed range
+## Structural checkpoints — directly mapped range
 
 - `அறிமுகம்` — scans 7–12
 - chapter 1 — scan 13 begins; scan 22 closes chapter 1 and begins chapter 2
 - chapter 2 — scan 30 closes chapter 2 and begins chapter 3
 - chapter 3 — scan 40 closes chapter 3 and begins chapter 4
-- chapter 4 — scan 46 four-star internal transition; scan 47 embedded historical tale begins; scan 52 closes chapter 4 and begins chapter 5
-- chapter 5 — scan 60 closes chapter 5 and begins chapter 6
+- chapter 4 — scan 46 internal transition; scan 47 embedded tale; scan 52 → chapter 5
+- chapter 5 — scan 60 → chapter 6
 - chapter 6 — scan 68 closes
-- chapter 7 — scan 69 begins; scan 75 closes chapter 7 and begins chapter 8
+- chapter 7 — scan 69 begins; scan 75 → chapter 8
 - chapter 8 — scan 83 closes
 - chapter 9 — scan 84 begins; scan 92 closes
-- chapter 10 — scan 93 begins; scan 98 four-star internal transition; scan 101 closes
-- chapter 11 — scan 102 begins; scan 107 four-star internal transition; scan 108 is currently partial
-- later chapter checkpoints from scan 109 onward remain provisional until the remaining split-source pages are directly processed
+- chapter 10 — scan 93 begins; scan 98 internal transition; scan 101 closes
+- chapter 11 — scan 102 begins; scan 107 internal transition; scan 110 → chapter 12
+- chapter 12 — scan 118 internal transition
 
-No claim is made about the final chapter number or actual source ending.
+Later chapter checkpoints and the true ending remain provisional until later split pages are processed.
 
 ## Exact next activity
 
-Complete the **remaining lower portion of scan 108 / printed page 106** directly from split part 003, perform a full-page visual comparison, and promote scan 108 to `verified` only if no unresolved reading remains. Then continue from **scan 109 / printed page 107**. Do not start English translation.
+Do **not** begin scan 119. First re-audit **scans 109–118 / printed pages 107–116** against native part-003 images, then resolve scan 75's old-glyph reading. Only after all 11 `needs-review` pages are closed may forward transcription resume. Do not start English translation.
