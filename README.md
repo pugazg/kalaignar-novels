@@ -53,7 +53,7 @@ Iteration 8 was mapped to original scans **83–98 / printed pages 81–96** and
 - scan 83 completes scan 82's `ஆக்ரமிப்ப` with `தற்கும்` and closes chapter 8;
 - scan 84 / printed 82 begins chapter 9 and prints `வேகமான நடையிலே`;
 - scan 87 prints `அந்த உப்பரிகைத் தளத்தில்` and ends inside `நினைவுச் சுருள்கள்`;
-- scan 88 completes that word with `கள்`; one clean-baseline sentence not present in the scan was not inserted;
+- scan 88 completes that word with `கள்`; the user's `குரலிலே அதிகாரம், முரட்டுத் தனம் இருந்ததே தவிர கனிவு இல்லை.` sentence is retained after closer source inspection;
 - scan 91 prints continuous `முடியாதா`;
 - scan 92 closes chapter 9;
 - scan 93 / printed 91 begins chapter 10;
