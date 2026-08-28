@@ -22,7 +22,7 @@ User-supplied transcription visual check செய்யப்படும் �
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Split-source workflow active; scans 1–72 VERIFIED; 72 Tamil page records; 0 needs-review; part 002 available through scan 98; full-source manifest incomplete; translation blocked** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Split-source workflow active; scans 1–82 VERIFIED; 82 Tamil page records; 0 needs-review; part 002 available through scan 98; full-source manifest incomplete; translation blocked** |
 
 ### புதையல் — current state
 
@@ -31,16 +31,16 @@ The old **150 pages total** claim is withdrawn. Tamil Digital Library reports **
 Available splits:
 
 - `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` — **scans 1–49 COMPLETE / VERIFIED**;
-- `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf` — **available; scans 50–72 directly reconciled / VERIFIED; scans 73–98 not yet transcribed**.
+- `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf` — **available; scans 50–82 directly reconciled / VERIFIED; scans 83–98 not yet transcribed**.
 
 Current status:
 
 - page map — known prefix scans **1–150**, full-source coverage incomplete;
-- Tamil page records — **72**;
-- verified — **72** (`scans 1–72`);
+- Tamil page records — **82**;
+- verified — **82** (`scans 1–82`);
 - needs-review — **0**;
-- unresolved readings through scan 72 — **0**;
-- known-prefix not-started — **78**;
+- unresolved readings through scan 82 — **0**;
+- known-prefix not-started — **68**;
 - Tamil whole-work audit — **not started**;
 - assembled Tamil — **blocked**;
 - English translation — **blocked**;
@@ -48,25 +48,26 @@ Current status:
 
 ### Latest source-fidelity results
 
-The part-002 audit corrected the physical Iteration 5 → 6 boundary: scan 62 / printed 60 ends with `எத்தனை மணியிருக்கும்?`; `அதற்குத்தான் ஆறுமாதமாக...` begins scan 63 / printed 61.
+Iteration 7 was mapped to original scans **73–82 / printed pages 71–80** and directly compared with part 002.
 
-Other direct source corrections include:
+Direct source findings include:
 
-- scan 54 `கேட்கிறீயா`;
-- scan 56 `இமைகளைத்`;
-- scan 60 `மனிதராயிற்றே`;
-- scan 69 chapter numeral `7` and `எவ்வளவுதான்`;
-- scan 70 `காரணத்தால்`, `குறும்புக்காரக் கிழவா`;
-- scan 71 `பெரிய மனுஷா`.
+- scan 73 continues scan 72's terminal `ஆத்திரத்தோடு,`;
+- scan 75 prints `போயிடுச்சா?`, not clean-baseline `போய்ட்டுதா?`;
+- scan 75 / printed 73 closes chapter `7` and begins chapter `8` on the same page;
+- scan 77 prints `தொட்டுத் தொட்டுப்`;
+- scan 81 prints `வீசி யெறியப்பட்டன`;
+- scan 82 prints `சப்தமிட்டுக் கொண்டே` and ends mid-word at `ஆக்ரமிப்ப`.
 
-Source punctuation and printed dash pauses were restored across scans 50–72 rather than retaining the clean extraction's systematic `..`, `!.`, `?.` punctuation.
+Source punctuation and printed dash pauses were restored rather than retaining the clean extraction's systematic doubled punctuation.
 
-Fidelity records now include:
+Latest fidelity records:
 
 - [`works/pudhaiyal/notes/visual-fidelity-scans-050-062.md`](works/pudhaiyal/notes/visual-fidelity-scans-050-062.md) — **13/13 verified**
 - [`works/pudhaiyal/notes/visual-fidelity-scans-063-072.md`](works/pudhaiyal/notes/visual-fidelity-scans-063-072.md) — **10/10 verified**
+- [`works/pudhaiyal/notes/visual-fidelity-scans-073-082.md`](works/pudhaiyal/notes/visual-fidelity-scans-073-082.md) — **10/10 verified**
 
-Exact next action: continue from **scan 73 / printed page 71**, preserving scan 72's unfinished `ஆத்திரத்தோடு,` continuation.
+Exact next action: continue from **scan 83 / printed page 81**, first checking the continuation of scan 82's unfinished `ஆக்ரமிப்ப`.
 
 ## நிறைவு பெற்ற reference work
 
