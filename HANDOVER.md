@@ -156,7 +156,7 @@ Important results:
 - scan 84 / printed 82 begins chapter **9** and prints `வேகமான நடையிலே`, not clean-baseline `வேசமான நடையிலே`;
 - scan 85 supports continuous `விட்டதாகவும்`;
 - scan 87 prints `அந்த உப்பரிகைத் தளத்தில்` and ends inside `நினைவுச் சுருள்கள்` at `நினைவுச் சுருள்`;
-- scan 88 begins `கள்`, completing that word; a sentence supplied in the clean baseline (`குரலிலே அதிகாரம், முரட்டுத் தனம் இருந்ததே தவிர கனிவு இல்லை.`) is not printed on the inspected source page and was therefore not inserted into the canonical text;
+- scan 88 begins `கள்`, completing that word; closer inspection confirms the baseline sentence `குரலிலே அதிகாரம், முரட்டுத் தனம் இருந்ததே தவிர கனிவு இல்லை.` is source-supported and retained;
 - scan 91 prints continuous `முடியாதா`;
 - scan 92 / printed 90 closes chapter 9;
 - scan 93 / printed 91 begins chapter **10**;
