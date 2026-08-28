@@ -42,7 +42,7 @@ The former repository reading `ஸ்பெஷல் பதிப்பு` was 
 - split pages: **49**
 - visibly printed range: **48–96**
 - transcription coverage: complete
-- integrity state: **48 verified + scan 75 needs-review**
+- integrity state: **49 / 49 verified after backward-integrity audit**
 - committed: **No**
 
 ### Part 003
@@ -59,12 +59,13 @@ The former repository reading `ஸ்பெஷல் பதிப்பு` was 
 
 - page map — known prefix scans **1–150**, full-source coverage incomplete
 - Tamil page records created — **118**
-- `verified` — **117**
-- `needs-review` — **1**: scan 75
+- `verified` — **118**
+- `needs-review` — **0**
 - `partial` — **0**
+- unresolved readings through scan 118 — **0**
 - known-prefix not-started — **32**: scans 119–150
-- backward integrity audit — **OPEN only for scan 75**
-- forward transcription — **FROZEN**
+- backward integrity audit — **COMPLETE through scan 118**
+- forward transcription — **UNBLOCKED from scan 119**
 - Tamil whole-work audit — **not started**
 - assembled Tamil — **blocked**
 - English translation — **blocked**
@@ -76,9 +77,20 @@ Central record:
 
 - [`notes/backward-integrity-audit-001-118.md`](notes/backward-integrity-audit-001-118.md)
 
-The repair has withdrawn false assistant readings including scan 11 `இருக்கிறாள்ன்னு`, scan 24 `அவர்களே நோக்கி`, scan 25 `ஏதோ`, scan 75 `போயிடுச்சா?`, scan 99 `இப்ப யாருடைய...`, scan 104 `நெடு நாளா...`, and scan 106 `வேண்டுமோ?`.
+The repair withdrew false assistant readings including scan 11 `இருக்கிறாள்ன்னு`, scan 24 `அவர்களே நோக்கி`, scan 25 `ஏதோ`, scan 75 `போயிடுச்சா?`, scan 99 `இப்ப யாருடைய...`, scan 104 `நெடு நாளா...`, and scan 106 `வேண்டுமோ?`.
 
-The audit does **not** blindly revert all assistant changes; source-supported differences survive only after native-image confirmation.
+The audit did **not** blindly revert all assistant changes; source-supported differences survived only after native-image confirmation.
+
+### Scan 75 final resolution
+
+The old-glyph dispute in அஞ்சலை's question is closed. The source word crosses a physical line boundary as:
+
+- `போயிட்`
+- `டுதா?`
+
+Continuous source reading: **`போயிட்டுதா?`**.
+
+The earlier assistant `போயிடுச்சா?` and temporary baseline `போய்ட்டுதா?` are both superseded by the native-scan reading.
 
 ### Iteration 10 re-audit — scans 109–118
 
@@ -126,8 +138,6 @@ Current prefix manifest: [`indexes/page-map.md`](indexes/page-map.md).
 
 ## Exact next activity
 
-Do **not** process scan 119 yet. Resolve the single remaining integrity item: **scan 75 / printed page 73**, specifically the old-glyph sequence in அஞ்சலை's question. The user's `போய்ட்டுதா?` remains the baseline unless the source pixels unambiguously establish another reading.
-
-Only after scan 75 is closed may the backward integrity audit be marked complete and forward transcription resume from scan 119.
+Backward integrity is closed through scan 118. Resume forward transcription from **scan 119 / printed page 117** using split part 003 and the next user-supplied baseline. Preserve the stricter old-glyph rule for every future disagreement.
 
 Do not start English translation.
