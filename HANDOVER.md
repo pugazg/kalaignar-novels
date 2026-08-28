@@ -76,7 +76,7 @@ Scan-established identity:
 - edition: **மூன்றாம் பதிப்பு**
 - date: **செப்டம்பர், 1961**
 
-Publication page now reverified as:
+Publication page reverified as:
 
 - `சாதாரணப் பதிப்பு ரூ 5/-`
 - `நூல் நிலையப் பதிப்பு ரூ 6/-`
@@ -124,11 +124,8 @@ The former `150 pages total` conclusion was wrong. Scans 1–150 are only a know
 
 - source scans: **99–147**
 - page records created through **scan 118 / printed page 116**
-- scans 99–108: verified after backward-integrity corrections
-- scans 109–118: **needs-review**; earlier Iteration-10 verification withdrawn
-- user-confirmed protected readings:
-  - scan 109 `என்னா பிரதர்!`
-  - scan 110 `போய்ட்டு வர்ரேன்`
+- scans **99–118 verified after backward-integrity re-audit**
+- detailed scans 109–118 report: `works/pudhaiyal/notes/visual-fidelity-scans-109-118.md`
 - committed: **No**
 
 ---
@@ -139,7 +136,7 @@ Central record:
 
 `works/pudhaiyal/notes/backward-integrity-audit-001-118.md`
 
-This audit was opened because assistant visual passes repeatedly hallucinated old-print readings and then labelled them source-confirmed.
+This audit was opened because assistant visual passes repeatedly misread old-print glyphs and then labelled those readings source-confirmed.
 
 Material corrections already applied include:
 
@@ -152,28 +149,47 @@ Material corrections already applied include:
 - scan 99 `சொல்வேன் என்று... நான் யாருடைய...`;
 - scan 101 `அவரைப் பற்றி நன்கு விசாரிக்கவேண்டும் என்ற ஒரு ஆவல்...`;
 - scan 104 `நெடு நாள் பழக்கமா?`; `உடல் வளர்த்து` remains confirmed;
-- scan 106 `நான் வரத்தான் வேண்டுமா?`;
-- scans 109–118 downgraded to `needs-review`.
+- scan 106 `நான் வரத்தான் வேண்டுமா?`.
 
 The audit does **not** blindly revert every assistant delta. Source-supported earlier corrections remain when native images confirm them.
+
+## Iteration 10 re-audit — COMPLETE
+
+Scans **109–118 / printed pages 107–116** were reset and rechecked against native part-003 pages 11–20.
+
+Result: **10 / 10 verified; unresolved readings in this range: 0.**
+
+Protected / established examples:
+
+- scan 109 `என்னா பிரதர்!`, `துக்கராமாக`, `பாழாய்ப்போன`, `திறமை யில்லேன்னு`;
+- scan 110 `போய்ட்டு வர்ரேன்`, chapter 11 → 12;
+- scan 112 `காஷ்—?`, `என் அனாவசியமா செலவு`;
+- scan 113 `ஆணு, பெண்ணு?`, `தம்பீ!`;
+- scan 114 `லக்ஷணம்னு`, `முன்னேயே`, `பாட்ட ஆரம்பித்து விட்டான்`, `பாடிக் கொண்டிருக்கும்`;
+- scan 115 `போதும் தம்பி போதும்!`, first `மிஞ்சக் கூடியது` / second `மிஞ்சக்கூடியது`;
+- scan 116 `செத்துப்போயி கூட`, `நான் தான்`, `படித்து விட்டு`;
+- scan 117 `பாத்துட்டான்னு சரின்னு சொல்லிடுவான்`;
+- scan 118 `மருங்கப்பள்ளத்துச் சிவன் கோயிலுக்கு`, `வேண்டும் என்று அவசர புத்தி`.
+
+Only **scan 75** remains open in the backward integrity audit.
 
 ---
 
 # 7. Current Tamil state
 
 - page records created: **118**
-- verified: **107**
-- needs-review: **11** — scan 75 and scans 109–118
+- verified: **117**
+- needs-review: **1** — scan 75
 - partial: **0**
 - known-prefix not-started: **32** — scans 119–150
 - full-source page-map coverage: **INCOMPLETE**
-- backward integrity audit: **OPEN**
+- backward integrity audit: **OPEN only for scan 75**
 - forward transcription: **FROZEN**
 - Tamil whole-work audit: **not started**
 - assembled Tamil layer: **blocked**
 - English translation: **blocked**
 
-Relevant fidelity records:
+Relevant fidelity records now include:
 
 - `works/pudhaiyal/notes/visual-fidelity-scans-001-012.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-013-022.md`
@@ -184,6 +200,7 @@ Relevant fidelity records:
 - `works/pudhaiyal/notes/visual-fidelity-scans-073-082.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-083-098.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-099-108.md`
+- `works/pudhaiyal/notes/visual-fidelity-scans-109-118.md`
 - `works/pudhaiyal/notes/backward-integrity-audit-001-118.md`
 
 ---
@@ -213,8 +230,6 @@ Relevant fidelity records:
 - scan 110 — chapter 11 → 12;
 - scan 118 — internal transition inside chapter 12.
 
-Textual verification of scans 109–118 is reopened even though their physical structure is mapped.
-
 ---
 
 # 9. Translation gate
@@ -227,13 +242,15 @@ Do not begin English translation until the complete Tamil source, source extent,
 
 Do **not** begin scan 119.
 
-1. Re-audit **scans 109–118 / printed pages 107–116** from part 003 at native resolution.
-2. Use the user's Iteration 10 as baseline.
-3. Protect the user-confirmed scan-109 `என்னா பிரதர்!` and scan-110 `போய்ட்டு வர்ரேன்` from assistant reinterpretation.
-4. For every assistant delta, classify it `confirmed`, `withdrawn`, or `ambiguous`.
-5. Promote each page to `verified` only after the whole physical page passes.
-6. Then resolve scan 75's old-glyph reading.
-7. Only after all 11 `needs-review` pages are closed may forward transcription resume from scan 119.
+Resolve the single remaining integrity item: **scan 75 / printed page 73**, specifically the old-glyph sequence in அஞ்சலை's question.
+
+- previous assistant `போயிடுச்சா?` is already withdrawn;
+- user's `போய்ட்டுதா?` is the working baseline;
+- inspect the native glyph sequence directly;
+- do not override the baseline unless the pixels establish another reading;
+- if the exact sequence still cannot be established, keep the page `needs-review` rather than guessing.
+
+Only after scan 75 is closed may the backward integrity audit be marked complete and forward transcription resume from **scan 119 / printed page 117**.
 
 Do not start English translation.
 
