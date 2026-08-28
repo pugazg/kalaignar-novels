@@ -4,10 +4,10 @@ printed_page: 113
 work: "pudhaiyal"
 section: "12"
 page_type: "body"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 10 baseline reconciled directly against split part 003 page image"
+transcription_method: "user-supplied Iteration 10 baseline loaded; backward-integrity re-audit pending"
 ---
 
 "போதும் தம்பீ போதும்! காதலைப்பற்றி ஒரு காலக்ஷேபமே பண்ணி விடுவீர் போலிருக்கு!"
@@ -23,5 +23,9 @@ transcription_method: "user-supplied Iteration 10 baseline reconciled directly a
 ## Page-boundary continuity
 
 The final sentence continues on scan 116 with `வாரமாகிறது.`
+
+## Integrity status
+
+The previous Iteration-10 `verified` label is suspended pending a fresh native-image audit of every assistant-introduced delta on this page.
 
 <!-- மூல ஸ்கேன் பக்கம்: 115; அச்சுப் பக்கம்: 113 -->
