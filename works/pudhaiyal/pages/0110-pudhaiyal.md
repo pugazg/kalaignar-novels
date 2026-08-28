@@ -4,10 +4,10 @@ printed_page: 108
 work: "pudhaiyal"
 section: "11 / 12"
 page_type: "body / chapter-transition"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 10 baseline reconciled directly against split part 003 page image"
+transcription_method: "user-supplied Iteration 10 baseline loaded; backward-integrity re-audit pending"
 ---
 
 "அழைத்துப் போகிறோம் — ஆனால் நீ, அர்ச்சுனன் மாதிரி, பாம்பாக மாறவேண்டுமே!"
@@ -27,5 +27,9 @@ transcription_method: "user-supplied Iteration 10 baseline reconciled directly a
 ## Structural note
 
 The printed rule and numeral `12` occur on this physical page; chapter 11 closes and chapter 12 begins on scan 110.
+
+## Integrity status
+
+The previous Iteration-10 verification claim is suspended. The user's direct check confirms `போய்ட்டு வர்ரேன்`; the assistant must not replace it with `போயிட்டு வர்ரேன்`. The rest of the page still requires the controlled backward-integrity pass before `verified` can be restored.
 
 <!-- மூல ஸ்கேன் பக்கம்: 110; அச்சுப் பக்கம்: 108 -->
