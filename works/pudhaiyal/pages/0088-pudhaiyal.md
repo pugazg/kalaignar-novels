@@ -22,12 +22,14 @@ transcription_method: "user-supplied Iteration 8 baseline reconciled directly ag
 
 "டே - பயப்படாதே குட்டி! எழுந்திரு - இல்லேன்னா......"
 
+குரலிலே அதிகாரம், முரட்டுத் தனம் இருந்ததே தவிர கனிவு இல்லை.
+
 ## Page-boundary continuity
 
-This page begins with scan 87's `நினைவுச் சுருள்` → `கள்`, completing `நினைவுச் சுருள்கள்`. The following repeated threat begins on scan 89.
+This page begins with scan 87's `நினைவுச் சுருள்` → `கள்`, completing `நினைவுச் சுருள்கள்`. The repeated `எழுந்திரு! இல்லேன்னா......` begins scan 89.
 
 ## Fidelity note
 
-The clean Iteration-8 text included the sentence `குரலிலே அதிகாரம், முரட்டுத் தனம் இருந்ததே தவிர கனிவு இல்லை.` between the two threat lines. Direct inspection of printed page 86 does not show that sentence; it has therefore not been inserted into the canonical page record.
+The user's baseline sentence `குரலிலே அதிகாரம், முரட்டுத் தனம் இருந்ததே தவிர கனிவு இல்லை.` is retained. A first low-confidence reading of the thumbnail wrongly treated it as absent; closer page inspection shows it belongs at the end of this scan. No omission is authorized.
 
 <!-- மூல ஸ்கேன் பக்கம்: 88; அச்சுப் பக்கம்: 86 -->
