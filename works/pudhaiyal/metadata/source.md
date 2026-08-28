@@ -46,8 +46,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 - represented source scans: **99–147**
 - split page count: **49**
 - page records created through: **scan 118 / printed page 116**
-- scans 99–108: **verified after backward-integrity corrections**
-- scans 109–118: **needs-review — previous Iteration-10 verification withdrawn**
+- scans **99–118: verified after backward-integrity re-audit**
 - committed: **No**
 
 These splits are access derivatives of the same controlling edition and do not establish new editions.
@@ -81,6 +80,7 @@ Confirmed checkpoints include:
 - scan 102 → printed 100;
 - scan 108 → printed 106;
 - scan 109 → printed 107;
+- scan 110 → printed 108;
 - scan 118 → printed 116.
 
 ## Current work structure established by direct evidence
@@ -111,17 +111,17 @@ Confirmed checkpoints include:
 └── scan 118: four-star internal transition inside chapter 12
 ```
 
-The structure of scans 109–118 is physically mapped, but their textual verification is reopened.
-
 ## Canonical Tamil state
 
 - page records created: **118**
-- verified: **107**
-- needs-review: **11** — scan 75 and scans 109–118
+- verified: **117**
+- needs-review: **1** — scan 75 / printed page 73
 - partial: **0**
 - known-prefix not-started rows: **32** — scans 119–150
-- backward integrity audit: **OPEN**
+- backward integrity audit: **OPEN only for scan 75**
 - forward transcription: **FROZEN**
+
+Fresh scans 109–118 re-audit: [`../notes/visual-fidelity-scans-109-118.md`](../notes/visual-fidelity-scans-109-118.md) — **10 / 10 verified; unresolved 0**.
 
 Central integrity record: [`../notes/backward-integrity-audit-001-118.md`](../notes/backward-integrity-audit-001-118.md).
 
@@ -135,4 +135,6 @@ Central integrity record: [`../notes/backward-integrity-audit-001-118.md`](../no
 
 ## Exact next action
 
-Re-audit **scans 109–118 / printed pages 107–116** against native part-003 images, then resolve scan 75's old-glyph reading. Do not begin scan 119 or English translation until all 11 `needs-review` pages are closed.
+Resolve **scan 75 / printed page 73** by dedicated native old-glyph inspection. The user's `போய்ட்டுதா?` remains the working baseline unless the source pixels unambiguously establish another sequence.
+
+Do not begin scan 119 or English translation until that integrity item is closed.
