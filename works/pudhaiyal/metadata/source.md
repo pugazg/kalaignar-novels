@@ -24,8 +24,9 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 
 - represented source scans: **1–49**
 - split page count: **49**
-- status: **COMPLETE / VERIFIED**
-- committed to repository: **No**
+- transcription coverage: complete
+- integrity state: scans 1–49 verified after backward corrections
+- committed: **No**
 
 ### Part 002
 
@@ -34,8 +35,9 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 - represented source scans: **50–98**
 - split page count: **49**
 - visibly printed page range: **48–96**
-- status: **COMPLETE / VERIFIED — 49 / 49**
-- committed to repository: **No**
+- transcription coverage: complete
+- integrity state: **48 verified + scan 75 needs-review**
+- committed: **No**
 
 ### Part 003
 
@@ -43,10 +45,10 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 
 - represented source scans: **99–147**
 - split page count: **49**
-- current directly processed range: **scans 99–108 / printed pages 97–106**
-- verified through: **scan 107 / printed page 105**
-- scan 108 / printed page 106: **partial** — supplied Iteration 9 transcription ends before the physical page ends
-- committed to repository: **No**
+- page records created through: **scan 118 / printed page 116**
+- scans 99–108: **verified after backward-integrity corrections**
+- scans 109–118: **needs-review — previous Iteration-10 verification withdrawn**
+- committed: **No**
 
 These splits are access derivatives of the same controlling edition and do not establish new editions.
 
@@ -57,32 +59,29 @@ These splits are access derivatives of the same controlling edition and do not e
 - Publisher / imprint: **அன்புப் பதிப்பகம்**
 - Place: **பொறையார் :: தஞ்சை மாவட்டம்**
 - Edition: **மூன்றாம் பதிப்பு**
-- Edition date: **செப்டம்பர், 1961**
+- Edition date line: **மூன்றாம் பதிப்பு: செப்டம்பர், 1961.**
 - Price lines:
   - **சாதாரணப் பதிப்பு ரூ 5/-**
-  - **ஸ்பெஷல் பதிப்பு ரூ 6/-**
+  - **நூல் நிலையப் பதிப்பு ரூ 6/-**
 
-A Tamil Digital Library summary elsewhere says `முதல் பதிப்பு, 1961`; it does **not** override the scan-printed edition statement.
+The earlier assistant transcription `ஸ்பெஷல் பதிப்பு` was a scan misread and has been withdrawn. A Tamil Digital Library summary elsewhere saying `முதல் பதிப்பு, 1961` does not override the scan-printed `மூன்றாம் பதிப்பு`.
 
 ## Printed-page rule
 
 Record a printed number only when visibly printed. Scan 13 remains `null` / `—` because no printed number is visible.
 
-Directly processed split numbering now establishes, among other checkpoints:
+Confirmed checkpoints include:
 
 - scan 50 → printed 48;
 - scan 75 → printed 73;
 - scan 83 → printed 81;
-- scan 92 → printed 90;
-- scan 93 → printed 91;
 - scan 98 → printed 96;
 - scan 99 → printed 97;
 - scan 101 → printed 99;
 - scan 102 → printed 100;
-- scan 107 → printed 105;
-- scan 108 → printed 106.
-
-The split filenames use **source scan numbers**, not printed-page numbers.
+- scan 108 → printed 106;
+- scan 109 → printed 107;
+- scan 118 → printed 116.
 
 ## Current work structure established by direct evidence
 
@@ -108,31 +107,23 @@ The split filenames use **source scan numbers**, not printed-page numbers.
 ├── scan 101: chapter 10 closes
 ├── scan 102: chapter 11 begins
 ├── scan 107: four-star internal transition inside chapter 11
-└── scan 108: chapter 11, partial canonical transcription
+├── scan 110: chapter 11 closes; chapter 12 begins
+└── scan 118: four-star internal transition inside chapter 12
 ```
+
+The structure of scans 109–118 is physically mapped, but their textual verification is reopened.
 
 ## Canonical Tamil state
 
-- page records created: **108**
-- verified: **107** — scans 1–107
-- partial: **1** — scan 108
-- needs-review: **0**
-- unresolved readings through verified scan 107: **0**
-- known-prefix not-started rows: **42**
+- page records created: **118**
+- verified: **107**
+- needs-review: **11** — scan 75 and scans 109–118
+- partial: **0**
+- known-prefix not-started rows: **32** — scans 119–150
+- backward integrity audit: **OPEN**
+- forward transcription: **FROZEN**
 
-Latest Iteration-9 scan-established findings include:
-
-- scan 99 `இப்ப யாருடைய பெயரைச் சொன்னேன் தெரியுமா?`;
-- scan 100 → 101 physical split `தோழர்` / `களைத்`;
-- scan 101 `அவரைப் பற்றி நான் நன்கு விசாரிக்கவேண்டும் என்ற, ஒரு ஆவல்...`;
-- scan 102 chapter `11`;
-- scan 104 `நெடு நாளா பழக்கமா?`, `உடல் வளர்த்து`;
-- scan 105 `தொண்ணூறு`, `ஆசையா யிருந்தது`;
-- scan 106 `நான் வரத்தான் வேண்டுமோ?`;
-- scan 107 four-star internal transition and terminal `கடை`;
-- scan 108 opening `யாக` completes `கடையாக`, but additional source text remains below the supplied baseline endpoint.
-
-Latest fidelity record: [`../notes/visual-fidelity-scans-099-108.md`](../notes/visual-fidelity-scans-099-108.md).
+Central integrity record: [`../notes/backward-integrity-audit-001-118.md`](../notes/backward-integrity-audit-001-118.md).
 
 ## Completeness still open
 
@@ -144,6 +135,4 @@ Latest fidelity record: [`../notes/visual-fidelity-scans-099-108.md`](../notes/v
 
 ## Exact next action
 
-Complete the remaining lower portion of **scan 108 / printed page 106** directly from split part 003 and re-audit the entire page. Only then promote scan 108 to `verified` and continue from **scan 109 / printed page 107**.
-
-Do not start English translation.
+Re-audit **scans 109–118 / printed pages 107–116** against native part-003 images, then resolve scan 75's old-glyph reading. Do not begin scan 119 or English translation until all 11 `needs-review` pages are closed.
