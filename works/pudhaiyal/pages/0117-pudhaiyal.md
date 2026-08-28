@@ -4,10 +4,10 @@ printed_page: 115
 work: "pudhaiyal"
 section: "12"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 10 baseline loaded; backward-integrity re-audit pending"
+transcription_method: "user-supplied Iteration 10 baseline reconciled in backward-integrity native-image re-audit"
 ---
 
 "ஆண்டவன் புண்யத்திலே அச்சாகி வரட்டும்"
@@ -16,7 +16,7 @@ transcription_method: "user-supplied Iteration 10 baseline loaded; backward-inte
 
 "அப்புறம் சாவகாசமாக படிக்கலாம் தம்பி—இப்ப வந்த விஷயத்தைப் பேசி விடுகிறேன்."
 
-"என்ன விஷயம்?—அதைச் சொல்லுங்க—"
+"என்ன விஷயம்?—அதைச் சொல்லுங்க"—
 
 "நீங்க—என்னோட நம்ப ஊருக்கு வரணும்?"
 
@@ -34,14 +34,14 @@ transcription_method: "user-supplied Iteration 10 baseline loaded; backward-inte
 
 "ஆகா—அதிலென்ன சந்தேகம்!"
 
-"நான் ஒரு மாதிரி அவுங்க அப்பனை சமாதானம் பண்ணி வச்சிருக்கேன். அவன் உங்களை பாத்துட்டான்னா சரின்னு சொல்லிடுவான்—நான் வந்து பரிமளாவுக்கு மாமன் முறை வேணும்—எனக்கு அந்தப் பெண்ணு மேல உயிருதான்! அது இஷ்டத்துக்கு விரோதமா என்னாலே நடக்க முடியாது—நீங்க ஊருக்கு வந்தா கல்யாணத்தை ஒரு தினுசா முடிவு பண்ணி விடலாம்—"
+"நான் ஒரு மாதிரி அவுங்க அப்பனை சமாதானம் பண்ணி வச்சிருக்கேன். அவன் உங்களை பாத்துட்டான்னு சரின்னு சொல்லிடுவான்—நான் வந்து பரிமளாவுக்கு மாமன் முறை வேணும்—எனக்கு அந்தப் பெண்ணு மேல உயிருதான்! அது இஷ்டத்துக்கு விரோதமா என்னாலே நடக்க முடியாது—நீங்க ஊருக்கு வந்தா கல்யாணத்தை ஒரு தினுசா முடிவு பண்ணி விடலாம்—"
 
 "பரிமளா என்ன சொன்னது?"
 
 "உங்களை அழைத்து வரும்படி அதுதானே விலாசமெல்லாம் கொடுத்தது!"
 
-## Integrity status
+## Integrity result
 
-The previous Iteration-10 `verified` label is suspended pending a fresh native-image audit of every assistant-introduced delta on this page.
+Fresh native-image re-audit completed. The scan prints `பாத்துட்டான்னு சரின்னு சொல்லிடுவான்`; the supplied `பாத்துட்டான்னா` and the earlier canonical form are corrected to the source. The printed `நம்ப ஊருக்கு` is retained without normalization.
 
 <!-- மூல ஸ்கேன் பக்கம்: 117; அச்சுப் பக்கம்: 115 -->
