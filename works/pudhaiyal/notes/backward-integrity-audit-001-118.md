@@ -1,7 +1,7 @@
 # Backward integrity audit — புதையல் scans 1–118
 
 Date opened: 2026-08-28  
-Status: **OPEN — only scan 75 remains unresolved; forward transcription frozen**
+Status: **COMPLETE — integrity gate closed through scan 118**
 
 ## Why this audit exists
 
@@ -14,7 +14,7 @@ Audit rule:
 3. an assistant change survives only when native scan pixels establish it;
 4. ambiguous old glyphs do **not** justify overriding the baseline;
 5. ambiguous pages are `needs-review`, not `verified`;
-6. forward transcription remains frozen until the integrity gate closes.
+6. a page returns to `verified` only after the complete physical scan passes native-image reinspection.
 
 ## Canonical corrections applied
 
@@ -33,9 +33,20 @@ Audit rule:
 
 ### Scan 75
 
-- earlier assistant `போயிடுச்சா?` is withdrawn;
-- user's `போய்ட்டுதா?` is restored as the working baseline;
-- exact old-glyph sequence remains unresolved, so scan 75 is `needs-review`.
+The disputed அஞ்சலை question has now been resolved by a dedicated native-resolution inspection.
+
+The physical source line wraps the word as:
+
+- `போயிட்`
+- `டுதா?`
+
+Continuous source reading: **`போயிட்டுதா?`**.
+
+Therefore:
+
+- earlier assistant `போயிடுச்சா?` is confirmed wrong;
+- temporary restored baseline `போய்ட்டுதா?` is superseded;
+- canonical scan 75 now records `போயிட்டுதா?` and is `verified`.
 
 ### Scans 99–108
 
@@ -69,7 +80,7 @@ The audit did **not** blindly revert every assistant delta. Source-supported rea
 
 ## Iteration 10 safety reset — scans 109–118
 
-The prior Iteration-10 verification was withdrawn and all ten pages were reopened. A fresh native-image audit of split part 003 pages 11–20 is now complete.
+The prior Iteration-10 verification was withdrawn and all ten pages were reopened. A fresh native-image audit of split part 003 pages 11–20 is complete.
 
 **Result: scans 109–118 are 10 / 10 verified; unresolved readings in this range: 0.**
 
@@ -88,22 +99,25 @@ Key results:
 
 Detailed record: [`visual-fidelity-scans-109-118.md`](visual-fidelity-scans-109-118.md).
 
-## Current integrity state
+## Final integrity state through scan 118
 
 - page records created: **118**
-- verified: **117**
-- needs-review: **1** — scan 75 only
+- verified: **118**
+- needs-review: **0**
 - partial: **0**
+- unresolved readings through scan 118: **0**
 - known-prefix not-started: **32** — scans 119–150
 - full-source manifest: **INCOMPLETE**
 - Tamil whole-work audit: **not started**
 - English translation: **blocked**
 - source/split PDFs committed: **No**
 
+## Audit conclusion
+
+The backward integrity recovery is complete through scan 118. All pages that were reopened because of assistant-introduced uncertainty have either been corrected from native scan evidence or reverified without unresolved readings.
+
+The stricter rule remains permanent for all future work: an old-form glyph may not be changed away from the user's transcription merely because another reading appears grammatically or typographically plausible.
+
 ## Exact next activity
 
-Do **not** begin scan 119.
-
-Resolve **scan 75 / printed page 73** by a dedicated native old-glyph inspection of அஞ்சலை's question. The previous assistant `போயிடுச்சா?` is already withdrawn; the user's `போய்ட்டுதா?` remains the baseline unless the source pixels unambiguously establish another sequence.
-
-Only after scan 75 is closed may this backward integrity audit be marked complete and forward transcription resume from scan 119.
+Backward integrity is closed. Forward transcription may now resume from **scan 119 / printed page 117**, using split part 003 and the next user-supplied baseline. Do not start English translation.
