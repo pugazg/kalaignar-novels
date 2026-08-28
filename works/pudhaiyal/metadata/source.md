@@ -106,7 +106,7 @@ Latest Iteration-8 scan-established corrections include:
 - scan 84 `வேகமான நடையிலே`;
 - scan 85 `விட்டதாகவும்`;
 - scan 87 `அந்த உப்பரிகைத் தளத்தில்`;
-- scan 88 excludes a clean-baseline sentence not present in the source;
+- scan 88 retains `குரலிலே அதிகாரம், முரட்டுத் தனம் இருந்ததே தவிர கனிவு இல்லை.` after closer source inspection;
 - scan 91 `முடியாதா`;
 - scan 97 `சில விநாடிகள்`, `தெவிட்டுவதற்கு`;
 - scan 98 printed page **96** with a four-star internal separator.
