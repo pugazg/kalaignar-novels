@@ -4,10 +4,10 @@ printed_page: 73
 work: "pudhaiyal"
 section: "7 / 8"
 page_type: "body / chapter-transition"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user Iteration 7 baseline restored after backward-integrity audit; old-glyph reading pending explicit confirmation"
+transcription_method: "dedicated backward-integrity old-glyph inspection against native split part 002 image"
 ---
 
 முரட்டுக் கிழவன், பரிமளாவை தன் தோளிலே தூக்கிக் கொண்டு ஓடினான்—இந்த சந்தடியில் விழித்துக் கொண்ட அஞ்சலை அலறி அடித்து எழுந்து வருவதற்குள், பரிமளாவுடன் முரடர்கள் ஓடிவிட்டார்கள்—அஞ்சலை, அவசர அவசரமாக, கணவனை அவிழ்த்து விட்டாள். தாண்டவனுக்கு ஒன்றுமே புரியவில்லை.
@@ -16,7 +16,7 @@ transcription_method: "user Iteration 7 baseline restored after backward-integri
 
 தாண்டவன் பதில் பேசவில்லை.
 
-"மறுபடியும் மோகினிப் பிசாசு தூக்கிட்டுப் போய்ட்டுதா?" என்று அலறினாள் அஞ்சலை.
+"மறுபடியும் மோகினிப் பிசாசு தூக்கிட்டுப் போயிட்டுதா?" என்று அலறினாள் அஞ்சலை.
 
 "சீ! சும்மாகிட—" என்று அதட்டினார் தாண்டவன்.
 
@@ -30,8 +30,12 @@ transcription_method: "user Iteration 7 baseline restored after backward-integri
 
 The top of this scan closes chapter `7`. A printed horizontal rule and chapter numeral **`8`** follow on the same physical page. The scan ends at `ஊராத்துரை லைட்`; the quotation continues on scan 76.
 
-## Integrity status
+## Backward-integrity resolution
 
-The earlier assistant correction to `போயிடுச்சா?` is withdrawn. Native reinspection shows that reading is not safely established from the old-print glyphs. The user's supplied `போய்ட்டுதா?` has been restored as the comparison baseline, but this page remains `needs-review` until the exact glyph sequence is explicitly confirmed.
+A dedicated native-resolution old-glyph inspection resolves the disputed word. The physical line ends with `போயிட்`; the next physical line begins `டுதா?`. Read continuously across the source line wrap, the printed word is therefore `போயிட்டுதா?`.
+
+The earlier assistant `போயிடுச்சா?` is confirmed wrong. The temporary restored baseline `போய்ட்டுதா?` is also superseded by the source-established `போயிட்டுதா?`.
+
+No unresolved reading remains on this page.
 
 <!-- மூல ஸ்கேன் பக்கம்: 75; அச்சுப் பக்கம்: 73 -->
