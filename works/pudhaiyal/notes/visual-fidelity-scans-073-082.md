@@ -2,21 +2,25 @@
 
 Date: 2026-08-28
 
-## Result after backward integrity audit
+## Final result after backward integrity audit
 
-- scans **73–74 and 76–82: verified**
-- scan **75 / printed page 73: needs-review**
-- unresolved old-glyph reading: **1** (`போய்ட்டுதா?` baseline pending explicit confirmation)
+**PASSED — scans 73–82: 10 / 10 verified; unresolved readings: 0.**
 
 Controlling access split: `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf`
 
-## Integrity correction — scan 75
+## Final integrity resolution — scan 75
 
-The earlier audit claimed that அஞ்சலை's question printed `போயிடுச்சா?` and replaced the user's `போய்ட்டுதா?`.
+The earlier audit incorrectly replaced the user's `போய்ட்டுதா?` with assistant reading `போயிடுச்சா?`. That assistant reading was withdrawn during the backward audit.
 
-That assistant correction has failed the backward integrity reinspection. The old-print glyph sequence does **not** safely establish `போயிடுச்சா?`. The user's `போய்ட்டுதா?` has therefore been restored as the comparison baseline, and `pages/0075-pudhaiyal.md` is now `needs-review` rather than pretending certainty.
+A dedicated native-resolution reinspection now resolves the actual printed sequence from the physical line wrap:
 
-The structural finding remains firm: scan 75 closes chapter `7` and begins chapter `8` on the same physical scan after the printed rule and numeral `8`.
+- line 1 ends: `போயிட்`
+- line 2 begins: `டுதா?`
+- continuous source reading: **`போயிட்டுதா?`**
+
+Therefore both the earlier assistant `போயிடுச்சா?` and the temporary baseline `போய்ட்டுதா?` are superseded by the scan-established `போயிட்டுதா?`.
+
+The structural finding remains unchanged: scan 75 closes chapter `7` and begins chapter `8` on the same physical scan after the printed rule and numeral `8`.
 
 ## Other retained source-supported findings
 
@@ -30,6 +34,7 @@ The structural finding remains firm: scan 75 closes chapter `7` and begins chapt
 
 - 73 → 74: `நன்றாகத்` / `தூங்கிக் கொண்டிருந்தாள்.`
 - 74 → 75: `ஒரு` / `முரட்டுக் கிழவன்...`
+- scan 75 disputed word itself crosses a source line boundary as `போயிட்` / `டுதா?`;
 - 75 → 76: `ஊராத்துரை லைட்` / `ஹவுஸ் தெரிஞ்சுட்டா...`
 - 76 → 77: `இலங்கை போன` / `பிறகும் அவன்...`
 - 78 → 79: `விழுந்து` / `விட ஐயப்பன் விடவில்லை.`
@@ -38,6 +43,6 @@ The structural finding remains firm: scan 75 closes chapter `7` and begins chapt
 
 ## Gate state
 
-The earlier `10 / 10 verified` claim is withdrawn. This range is now **9 verified + 1 needs-review**.
+This range is now **10 / 10 verified** with **0 unresolved readings**.
 
-See [`backward-integrity-audit-001-118.md`](backward-integrity-audit-001-118.md). Forward transcription remains frozen until the integrity gate closes.
+See [`backward-integrity-audit-001-118.md`](backward-integrity-audit-001-118.md). The backward integrity gate can now close.
