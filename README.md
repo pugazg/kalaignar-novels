@@ -22,13 +22,13 @@ User-supplied transcription visual check செய்யப்படும் �
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Backward integrity audit OPEN; 118 records; 107 verified; 11 needs-review; forward transcription frozen; full-source manifest incomplete; translation blocked** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Backward integrity audit OPEN only for scan 75; 118 records; 117 verified; 1 needs-review; forward transcription frozen; full-source manifest incomplete; translation blocked** |
 
 ### புதையல் — source / integrity state
 
 The old **150 pages total** claim remains withdrawn. Tamil Digital Library reports **443 p.**; exact original PDF scan count remains pending complete split reconciliation.
 
-Native publication-page reinspection corrected an earlier assistant misread: the source prints `நூல் நிலையப் பதிப்பு ரூ 6/-` and `மூன்றாம் பதிப்பு: செப்டம்பர், 1961.`
+Native publication-page reinspection established `நூல் நிலையப் பதிப்பு ரூ 6/-` and `மூன்றாம் பதிப்பு: செப்டம்பர், 1961.`
 
 Available splits:
 
@@ -39,12 +39,12 @@ Available splits:
 Current canonical state:
 
 - page records — **118**;
-- verified — **107**;
-- needs-review — **11**: scan 75 and scans 109–118;
+- verified — **117**;
+- needs-review — **1**: scan 75;
 - partial — **0**;
 - known-prefix not-started — **32**: scans 119–150;
 - full-source page map — **incomplete**;
-- backward integrity audit — **OPEN**;
+- backward integrity audit — **OPEN only for scan 75**;
 - forward transcription — **FROZEN**;
 - Tamil whole-work audit — **not started**;
 - assembled Tamil — **blocked**;
@@ -55,9 +55,9 @@ Central integrity record:
 
 - [`works/pudhaiyal/notes/backward-integrity-audit-001-118.md`](works/pudhaiyal/notes/backward-integrity-audit-001-118.md)
 
-The repair pass has already withdrawn multiple false assistant readings, including scan 11 `இருக்கிறாள்ன்னு`, scan 24 `அவர்களே நோக்கி`, scan 25 `ஏதோ`, scan 75 `போயிடுச்சா?`, scan 99 `இப்ப யாருடைய...`, scan 104 `நெடு நாளா...`, and scan 106 `வேண்டுமோ?`.
+The fresh Iteration-10 re-audit is complete: scans **109–118 are 10 / 10 verified** against native part-003 images. Detailed record: [`works/pudhaiyal/notes/visual-fidelity-scans-109-118.md`](works/pudhaiyal/notes/visual-fidelity-scans-109-118.md).
 
-Exact next action: **re-audit scans 109–118 / printed pages 107–116 against native part-003 images, then resolve scan 75. Do not begin scan 119 until all 11 needs-review pages are closed.**
+Exact next action: **resolve scan 75 / printed page 73 old-glyph reading. Do not begin scan 119 until that single `needs-review` page is closed.**
 
 ## நிறைவு பெற்ற reference work
 
