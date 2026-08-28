@@ -36,7 +36,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 - split page count: **49**
 - visibly printed page range: **48–96**
 - transcription coverage: complete
-- integrity state: **48 verified + scan 75 needs-review**
+- integrity state: **49 / 49 verified after backward-integrity audit**
 - committed: **No**
 
 ### Part 003
@@ -114,12 +114,15 @@ Confirmed checkpoints include:
 ## Canonical Tamil state
 
 - page records created: **118**
-- verified: **117**
-- needs-review: **1** — scan 75 / printed page 73
+- verified: **118**
+- needs-review: **0**
 - partial: **0**
+- unresolved readings through scan 118: **0**
 - known-prefix not-started rows: **32** — scans 119–150
-- backward integrity audit: **OPEN only for scan 75**
-- forward transcription: **FROZEN**
+- backward integrity audit: **COMPLETE through scan 118**
+- forward transcription: **UNBLOCKED from scan 119**
+
+Scan 75 final old-glyph resolution: the source line wraps `போயிட்` / `டுதா?`, establishing continuous **`போயிட்டுதா?`**.
 
 Fresh scans 109–118 re-audit: [`../notes/visual-fidelity-scans-109-118.md`](../notes/visual-fidelity-scans-109-118.md) — **10 / 10 verified; unresolved 0**.
 
@@ -135,6 +138,6 @@ Central integrity record: [`../notes/backward-integrity-audit-001-118.md`](../no
 
 ## Exact next action
 
-Resolve **scan 75 / printed page 73** by dedicated native old-glyph inspection. The user's `போய்ட்டுதா?` remains the working baseline unless the source pixels unambiguously establish another sequence.
+Resume forward transcription from **scan 119 / printed page 117** using split part 003 and the next user-supplied baseline. Preserve the strict native old-glyph rule for every future disagreement.
 
-Do not begin scan 119 or English translation until that integrity item is closed.
+Do not begin English translation.
