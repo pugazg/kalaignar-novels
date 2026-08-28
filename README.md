@@ -22,7 +22,7 @@ User-supplied transcription visual check செய்யப்படும் �
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Backward integrity audit OPEN only for scan 75; 118 records; 117 verified; 1 needs-review; forward transcription frozen; full-source manifest incomplete; translation blocked** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Backward integrity audit COMPLETE through scan 118; 118 records / 118 verified / 0 needs-review; forward transcription resumes at scan 119; full-source manifest incomplete; translation blocked** |
 
 ### புதையல் — source / integrity state
 
@@ -39,13 +39,14 @@ Available splits:
 Current canonical state:
 
 - page records — **118**;
-- verified — **117**;
-- needs-review — **1**: scan 75;
+- verified — **118**;
+- needs-review — **0**;
 - partial — **0**;
+- unresolved readings through scan 118 — **0**;
 - known-prefix not-started — **32**: scans 119–150;
 - full-source page map — **incomplete**;
-- backward integrity audit — **OPEN only for scan 75**;
-- forward transcription — **FROZEN**;
+- backward integrity audit — **COMPLETE through scan 118**;
+- forward transcription — **UNBLOCKED from scan 119**;
 - Tamil whole-work audit — **not started**;
 - assembled Tamil — **blocked**;
 - English translation — **blocked**;
@@ -55,9 +56,11 @@ Central integrity record:
 
 - [`works/pudhaiyal/notes/backward-integrity-audit-001-118.md`](works/pudhaiyal/notes/backward-integrity-audit-001-118.md)
 
-The fresh Iteration-10 re-audit is complete: scans **109–118 are 10 / 10 verified** against native part-003 images. Detailed record: [`works/pudhaiyal/notes/visual-fidelity-scans-109-118.md`](works/pudhaiyal/notes/visual-fidelity-scans-109-118.md).
+The final unresolved old-glyph item on scan 75 is now closed. The source word crosses a line boundary as `போயிட்` / `டுதா?`, establishing **`போயிட்டுதா?`**. The earlier assistant `போயிடுச்சா?` and temporary baseline `போய்ட்டுதா?` are both superseded.
 
-Exact next action: **resolve scan 75 / printed page 73 old-glyph reading. Do not begin scan 119 until that single `needs-review` page is closed.**
+The fresh Iteration-10 re-audit is also complete: scans **109–118 are 10 / 10 verified** against native part-003 images. Detailed record: [`works/pudhaiyal/notes/visual-fidelity-scans-109-118.md`](works/pudhaiyal/notes/visual-fidelity-scans-109-118.md).
+
+Exact next action: **resume from scan 119 / printed page 117 using split part 003 and the next user-supplied baseline.**
 
 ## நிறைவு பெற்ற reference work
 
