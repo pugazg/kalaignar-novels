@@ -4,10 +4,10 @@ printed_page: 115
 work: "pudhaiyal"
 section: "12"
 page_type: "body"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 10 baseline reconciled directly against split part 003 page image"
+transcription_method: "user-supplied Iteration 10 baseline loaded; backward-integrity re-audit pending"
 ---
 
 "ஆண்டவன் புண்யத்திலே அச்சாகி வரட்டும்"
@@ -39,5 +39,9 @@ transcription_method: "user-supplied Iteration 10 baseline reconciled directly a
 "பரிமளா என்ன சொன்னது?"
 
 "உங்களை அழைத்து வரும்படி அதுதானே விலாசமெல்லாம் கொடுத்தது!"
+
+## Integrity status
+
+The previous Iteration-10 `verified` label is suspended pending a fresh native-image audit of every assistant-introduced delta on this page.
 
 <!-- மூல ஸ்கேன் பக்கம்: 117; அச்சுப் பக்கம்: 115 -->
