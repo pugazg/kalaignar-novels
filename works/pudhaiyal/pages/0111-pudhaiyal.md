@@ -4,10 +4,10 @@ printed_page: 109
 work: "pudhaiyal"
 section: "12"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 10 baseline loaded; backward-integrity re-audit pending"
+transcription_method: "user Iteration 10 baseline reconciled by backward-integrity audit against native split part 003 image"
 ---
 
 "மணிக்கணக்கா பேச வேண்டிய சமாசாரமோ? எனக்கு அவசரமா வேலையிருக்குதே!"
@@ -26,12 +26,11 @@ transcription_method: "user-supplied Iteration 10 baseline loaded; backward-inte
 
 "ஒன்றுமில்லை — வாருங்கள் கடைக்கே போகலாம்" என்று அம்பலத்தை அழைத்துக்கொண்டு துக்காராம் கடைக்குப் புறப்பட்டான். அம்பலம் வாயிலிருந்து எத்த
 
-## Page-boundary continuity
+## Page-boundary / integrity note
 
-The physical page ends inside `எத்தகைய`: scan 111 ends `எத்த`; scan 112 begins `கைய`.
-
-## Integrity status
-
-The previous Iteration-10 `verified` label is suspended pending a fresh native-image audit of every assistant-introduced delta on this page.
+- Re-audited directly against split part 003 page 13 / printed page 109.
+- The source reads `நான் இருக்கிறது மருங்கப்பள்ளம்!`; the earlier assistant suggestion `மருங்கப்பள்ளம்தான்` is rejected.
+- The physical page ends inside `எத்தகைய`: scan 111 ends `எத்த`; scan 112 begins `கைய`.
+- No unresolved reading remains on this page.
 
 <!-- மூல ஸ்கேன் பக்கம்: 111; அச்சுப் பக்கம்: 109 -->
