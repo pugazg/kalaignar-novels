@@ -1,116 +1,58 @@
-# Visual fidelity review — புதையல் scans 1–12
+# Corrected visual-fidelity audit — புதையல் scans 1–12
 
-Date: 2026-08-26
+Date: 2026-08-28
 
-## Scope
+## Why this note changed
 
-This note records the letter-by-letter visual-fidelity pass for source scans **1–12** using the newly supplied split:
+A backward integrity audit was opened after repeated assistant misreads of old-print Tamil. Scans 1–12 were therefore rechecked against `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` instead of trusting the earlier `verified` label.
 
-`TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`
-
-The split is an access copy of the controlling source. It is not committed to the repository and does not replace the original source identity.
-
-## Authority
-
-The page images control every reading. The user-supplied draft transcription was used only as a comparison scaffold. It was not copied wholesale and was corrected wherever it differed from the visible scan.
-
-No modernization, grammatical repair, external edition substitution or context-based completion was used.
+The scan remains controlling. User-supplied transcription is the comparison baseline. No assistant reading may override an old glyph merely because it appears grammatically or typographically more familiar.
 
 ## Result
 
-| Scan | Printed page | Content | Result |
-|---:|:---:|---|---|
-| 1 | — | cover | verified |
-| 2 | — | copy/provenance page | verified |
-| 3 | — | title page | verified |
-| 4 | — | price / edition page | verified after punctuation/text recheck |
-| 5 | — | `பதிப்புரை` | verified after wording recheck |
-| 6 | — | blank / physical-copy marks | verified |
-| 7 | — | `அறிமுகம்` begins | verified |
-| 8 | 6 | `அறிமுகம்` | verified |
-| 9 | 7 | `அறிமுகம்` | verified |
-| 10 | 8 | `அறிமுகம்` | verified |
-| 11 | 9 | `அறிமுகம்` | verified |
-| 12 | 10 | `அறிமுகம்` ends | verified |
-
-**Unresolved readings in scans 1–12: 0.**
-
-## Material corrections against the supplied draft / earlier repository state
-
-### Scan 3 — handwriting remains non-text
-
-The handwritten signature/date-like mark near the upper-right of the title page is copy-specific handwriting. It is not incorporated into the printed title-page transcription.
+Scans **1–12 remain verified**, but two material earlier assistant corrections are withdrawn:
 
 ### Scan 4 — publication page
 
-The scan supports:
+Native reinspection establishes:
 
 - `சாதாரணப் பதிப்பு ரூ 5/-`
-- `ஸ்பெஷல் பதிப்பு ரூ 6/-`
-- `மூன்றாம் பதிப்பு, செப்டம்பர், 1961.`
+- `நூல் நிலையப் பதிப்பு ரூ 6/-`
+- `மூன்றாம் பதிப்பு: செப்டம்பர், 1961.`
 
-Therefore the following supplied-draft readings are rejected for this edition:
+The earlier assistant claim that the second price line read `ஸ்பெஷல் பதிப்பு` was wrong. The earlier assistant punctuation `மூன்றாம் பதிப்பு, ...` was also wrong; the scan prints a colon after `பதிப்பு`.
 
-- `நூல் நிலையப் பதிப்பு`
-- `முதற் பதிப்பு`
-
-The source also does not visibly print a full stop after `ரூ`; the canonical page record has been corrected accordingly.
+The supplied `முதற் பதிப்பு` remains rejected because the scan clearly prints `மூன்றாம் பதிப்பு`.
 
 ### Scan 5 — பதிப்புரை
 
-The scan supports:
+The earlier recheck remains supported for the author initials and the publisher appeal. No rollback is required here.
 
-- `கலைஞர் மு. கருணாநிதி, எம். எல். ஏ.`
-- `தமிழர்கள் ஆதரிக்க வேண்டுகின்றோம்.`
+### Scan 11 — colloquial anecdote
 
-The supplied-draft forms `எம்.எ.ஏ.` and `வேண்டுகிறோம்.` are not retained.
+The scan supports the user's original `இருக்கிறான்னு`.
 
-### Scans 7–12 — punctuation and page fidelity
+The earlier assistant correction to `இருக்கிறாள்ன்னு` was a hallucinated glyph interpretation and is withdrawn. `pages/0011-pudhaiyal.md` has been restored accordingly.
 
-The supplied draft repeatedly used `..` as sentence punctuation. The scans do not support that as a general punctuation pattern. Canonical page records retain the punctuation visible in the source instead.
+## Other retained findings
 
-A line-wrap/OCR-like split in the supplied draft, `பெறுமான முள்ள`, was checked against scan 10 and recorded from the source as `பெறுமானமுள்ள`.
+- scan 3 handwriting remains copy-specific and separate from printed text;
+- scans 7–12 retain physical page boundaries;
+- scan 8 `அடை` → scan 9 `யாளமாக` remains a cross-page split;
+- the quotation begun on scan 10 continues onto scan 11;
+- scan 11 `கனவு` → scan 12 `காண்பவர்களின்` remains a cross-page continuation;
+- scan 12 ends `அறிமுகம்` and scan 13 begins chapter 1.
 
-The supplied draft's `இருக்கிறான்னு` in the colloquial anecdote was checked against scan 11; the canonical record retains the visually read source form `இருக்கிறாள்ன்னு`.
+## Canonical records corrected in this integrity pass
 
-## Page-boundary continuity checks
-
-The review explicitly preserved physical page boundaries:
-
-1. scan 7 ends with `காய்ந்த மீனின் வாசம்`; scan 8 begins with `‘கம கம’ வென்று வந்துகொண்டிருக்கும்.`
-2. scan 8 ends with `அடை`; scan 9 begins `யாளமாக`, forming continuous `அடையாளமாக` across the physical boundary.
-3. the colloquial quotation begun on scan 10 continues onto scan 11 without invented closure at the scan-10 boundary.
-4. scan 11 ends `கனவு`; scan 12 begins `காண்பவர்களின்`, forming `கனவு காண்பவர்களின்` across the boundary.
-5. scan 12 ends the `அறிமுகம்`; the source-printed horizontal rule is represented separately from prose. Scan 13 begins chapter `1`.
-
-## Canonical records affected
-
-Reverified / corrected:
-
-- `../pages/0001-cover.md`
-- `../pages/0002-provenance.md`
-- `../pages/0003-title-page.md`
 - `../pages/0004-publication.md`
-- `../pages/0005-publisher-note.md`
-- `../pages/0006-blank.md`
-
-Completed from direct split-source inspection:
-
-- `../pages/0007-pudhaiyal.md`
-- `../pages/0008-pudhaiyal.md`
-- `../pages/0009-pudhaiyal.md`
-- `../pages/0010-pudhaiyal.md`
 - `../pages/0011-pudhaiyal.md`
-- `../pages/0012-pudhaiyal.md`
 
-## Gate state after this pass
+## Gate state
 
-- scans 1–12: **12 / 12 verified**
-- unresolved readings in this range: **0**
-- Tamil whole-work audit: **not started**
-- full-source manifest: **incomplete**
-- English translation: **blocked**
+- scans 1–12: **12 verified**
+- unresolved readings in scans 1–12: **0**
+- project-wide backward integrity audit: **OPEN**
+- forward transcription: **FROZEN until the audit gate closes**
 
-## Next fidelity batch
-
-Directly transcribe and visually verify **scans 13–16 / printed pages 11–14**, the opening portion of chapter 1, from the same split part 001.
+See [`backward-integrity-audit-001-118.md`](backward-integrity-audit-001-118.md) for the cross-range correction record.
