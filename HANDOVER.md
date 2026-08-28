@@ -35,23 +35,19 @@ Authority order:
 5. verified English translation;
 6. metadata / review documentation.
 
-Do not silently modernize, repair, normalize, reconstruct or improve source-supported Tamil. Preserve spelling, punctuation, spacing, colloquial forms, typographical oddities, page boundaries and internal structure. Separate printed text from handwriting, provenance marks, underlining, bleed-through and scan artefacts.
+Do not silently modernize, repair, normalize, reconstruct or improve source-supported Tamil. Preserve spelling, punctuation, spacing, colloquial forms, typographical oddities, page boundaries and internal structure.
 
-## Mandatory visual rule after earlier audit hallucinations
+## Mandatory old-glyph rule
 
 When the user supplies a transcription:
 
 - use it as the comparison baseline;
-- do not treat it as higher authority than the scan;
-- do not replace it merely because grammar/context suggests another reading;
-- inspect the actual split-source page image;
-- isolate every apparent source-vs-baseline disagreement;
-- change canonical text only when the scan establishes the reading;
-- perform a final page-by-page visual comparison before `verified`.
-
-If the user's supplied iteration ends before the physical source page ends, do **not** infer or reconstruct the omitted remainder. Keep that page `partial` until the missing text is directly transcribed and checked.
-
-OCR, grammar expectations, catalogue text and modern spelling are aids only.
+- do not replace it because grammar/context suggests another form;
+- inspect native split-source pixels for every disagreement;
+- an assistant change survives only when the glyphs establish it;
+- ambiguous old glyphs do **not** justify overriding the baseline;
+- ambiguous pages are `needs-review`;
+- `verified` requires a complete physical-page pass after all deltas are resolved.
 
 ---
 
@@ -60,9 +56,7 @@ OCR, grammar expectations, catalogue text and modern spelling are aids only.
 `works/balipeedam-nokki/`
 
 - Tamil page records: **34 / 34 verified**
-- unresolved Tamil readings: **0**
 - Tamil audit: **PASSED**
-- assembled Tamil layer: **PASSED**
 - English translation: **VERIFIED**
 - release-readiness: **RELEASE-READY**
 - source PDF committed: **No**
@@ -82,6 +76,14 @@ Scan-established identity:
 - edition: **மூன்றாம் பதிப்பு**
 - date: **செப்டம்பர், 1961**
 
+Publication page now reverified as:
+
+- `சாதாரணப் பதிப்பு ரூ 5/-`
+- `நூல் நிலையப் பதிப்பு ரூ 6/-`
+- `மூன்றாம் பதிப்பு: செப்டம்பர், 1961.`
+
+The earlier assistant `ஸ்பெஷல் பதிப்பு` reading was wrong.
+
 Original source filename: `TVA_BOK_0064097_புதையல்.pdf`
 
 Known source facts:
@@ -92,7 +94,7 @@ Known source facts:
 - original SHA-256: **pending**
 - source PDF committed: **No**
 
-The former `150 pages total` conclusion was wrong. Scans 1–150 are only a known prefix and scan 150 is not treated as the source ending.
+The former `150 pages total` conclusion was wrong. Scans 1–150 are only a known prefix.
 
 ---
 
@@ -103,7 +105,8 @@ The former `150 pages total` conclusion was wrong. Scans 1–150 are only a know
 `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`
 
 - source scans: **1–49**
-- state: **COMPLETE / VERIFIED**
+- transcription coverage: complete
+- integrity state: verified after backward corrections
 - committed: **No**
 
 ## Part 002
@@ -111,9 +114,8 @@ The former `150 pages total` conclusion was wrong. Scans 1–150 are only a know
 `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf`
 
 - source scans: **50–98**
-- split pages: **49**
-- visibly printed pages represented: **48–96**
-- state: **COMPLETE / VERIFIED — 49 / 49**
+- transcription coverage: complete
+- integrity state: scans 50–74 and 76–98 verified; scan 75 needs-review
 - committed: **No**
 
 ## Part 003
@@ -121,33 +123,57 @@ The former `150 pages total` conclusion was wrong. Scans 1–150 are only a know
 `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf`
 
 - source scans: **99–147**
-- split pages: **49**
-- directly processed so far: **scans 99–108 / printed pages 97–106**
-- verified: **scans 99–107**
-- partial: **scan 108 / printed page 106**
-- reason for partial state: supplied Iteration 9 stops after `பேசிக்கொண்டிருந்தான் துக்காராம்.` but the physical page visibly continues
+- page records created through **scan 118 / printed page 116**
+- scans 99–108: verified after backward-integrity corrections
+- scans 109–118: **needs-review**; earlier Iteration-10 verification withdrawn
+- user-confirmed protected readings:
+  - scan 109 `என்னா பிரதர்!`
+  - scan 110 `போய்ட்டு வர்ரேன்`
 - committed: **No**
-
-These split files are access derivatives of the controlling edition, not new editions.
 
 ---
 
-# 6. Current Tamil state
+# 6. Backward integrity audit — ACTIVE GATE
 
-Canonical page records exist through scan **108**.
+Central record:
 
-- page records created: **108**
-- verified: **107** — scans 1–107
-- partial: **1** — scan 108
-- needs-review: **0**
-- unresolved readings through verified scan 107: **0**
-- known-prefix rows not-started: **42**
+`works/pudhaiyal/notes/backward-integrity-audit-001-118.md`
+
+This audit was opened because assistant visual passes repeatedly hallucinated old-print readings and then labelled them source-confirmed.
+
+Material corrections already applied include:
+
+- scan 4 `நூல் நிலையப் பதிப்பு`, colon after `மூன்றாம் பதிப்பு`;
+- scan 11 `இருக்கிறான்னு`;
+- scan 24 `அவர்களை நோக்கி`;
+- scan 25 `எதோ`;
+- scan 31 no full stop after `மூர்ச்சை யடைந்தான்`, plus `அவனைத்தழுவிக்`;
+- scan 75 `போயிடுச்சா?` assistant claim withdrawn; user's `போய்ட்டுதா?` restored as baseline, page reopened;
+- scan 99 `சொல்வேன் என்று... நான் யாருடைய...`;
+- scan 101 `அவரைப் பற்றி நன்கு விசாரிக்கவேண்டும் என்ற ஒரு ஆவல்...`;
+- scan 104 `நெடு நாள் பழக்கமா?`; `உடல் வளர்த்து` remains confirmed;
+- scan 106 `நான் வரத்தான் வேண்டுமா?`;
+- scans 109–118 downgraded to `needs-review`.
+
+The audit does **not** blindly revert every assistant delta. Source-supported earlier corrections remain when native images confirm them.
+
+---
+
+# 7. Current Tamil state
+
+- page records created: **118**
+- verified: **107**
+- needs-review: **11** — scan 75 and scans 109–118
+- partial: **0**
+- known-prefix not-started: **32** — scans 119–150
 - full-source page-map coverage: **INCOMPLETE**
+- backward integrity audit: **OPEN**
+- forward transcription: **FROZEN**
 - Tamil whole-work audit: **not started**
 - assembled Tamil layer: **blocked**
 - English translation: **blocked**
 
-Fidelity records now include:
+Relevant fidelity records:
 
 - `works/pudhaiyal/notes/visual-fidelity-scans-001-012.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-013-022.md`
@@ -157,47 +183,20 @@ Fidelity records now include:
 - `works/pudhaiyal/notes/visual-fidelity-scans-063-072.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-073-082.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-083-098.md`
-- `works/pudhaiyal/notes/visual-fidelity-scans-099-108.md` — **9/10 verified; scan 108 partial**
-
----
-
-# 7. Latest reconciliation — part 003 scans 99–108
-
-The user's Iteration 9 was mapped to original scans **99–108 / printed pages 97–106** and compared directly with split part 003 pages **1–10**.
-
-Important results:
-
-- scan 99 / printed 97 prints `இப்ப யாருடைய பெயரைச் சொன்னேன் தெரியுமா?`; the clean baseline had a second `நான் யாருடைய...`. The page also contains a printed four-star internal transition.
-- scan 100 / printed 98 ends inside `தோழர்களைத்` at `தோழர்`; scan 101 begins `களைத்`.
-- scan 101 / printed 99 prints `அவரைப் பற்றி நான் நன்கு விசாரிக்கவேண்டும் என்ற, ஒரு ஆவல்...`; the page closes chapter **10**.
-- scan 102 / printed 100 begins chapter **11**.
-- scan 104 / printed 102 prints `நெடு நாளா பழக்கமா?` and `உடல் வளர்த்து`.
-- scan 105 / printed 103 prints `தொண்ணூறு` and the separated `ஆசையா யிருந்தது`.
-- scan 106 / printed 104 prints `நான் வரத்தான் வேண்டுமோ?`.
-- scan 107 / printed 105 begins `துப்`, completing scan 106's `இழுத்`; it contains a four-star internal scene transition and ends at `கடை`.
-- scan 108 / printed 106 begins `யாக`, completing `கடையாக`.
-- **Critical gate:** the supplied Iteration 9 text ends part-way through scan 108 after `பேசிக்கொண்டிருந்தான் துக்காராம்.`. The source image has additional printed paragraphs below. Those lines were not guessed or silently imported, so `0108-pudhaiyal.md` is `partial`.
-
-Physical boundary checkpoints:
-
-1. scan 100 `தோழர்` → scan 101 `களைத்`;
-2. scan 104 `அல்லது பேரன் பேத்தி` → scan 105 `ஆள் இல்லையே...`;
-3. scan 105 `அழைத்துக் கொண்டு` → scan 106 `போக முடியாது...`;
-4. scan 106 `இழுத்` → scan 107 `துப்`;
-5. scan 107 `கடை` → scan 108 `யாக`.
+- `works/pudhaiyal/notes/visual-fidelity-scans-099-108.md`
+- `works/pudhaiyal/notes/backward-integrity-audit-001-118.md`
 
 ---
 
 # 8. Structural state established so far
 
-- scans 1–6 — front matter / blank;
 - scans 7–12 — `அறிமுகம்`;
 - scan 13 — chapter 1 begins;
 - scan 22 — chapter 1 → 2;
 - scan 30 — chapter 2 → 3;
 - scan 40 — chapter 3 → 4;
 - scan 46 — four-star internal transition;
-- scan 47 — embedded historical tale begins inside chapter 4;
+- scan 47 — embedded historical tale inside chapter 4;
 - scan 52 — chapter 4 → 5;
 - scan 60 — chapter 5 → 6;
 - scan 68 — chapter 6 closes;
@@ -207,45 +206,34 @@ Physical boundary checkpoints:
 - scan 84 — chapter 9 begins;
 - scan 92 — chapter 9 closes;
 - scan 93 — chapter 10 begins;
-- scan 98 — four-star internal transition within chapter 10;
+- scan 98 — internal transition;
 - scan 101 — chapter 10 closes;
 - scan 102 — chapter 11 begins;
-- scan 107 — four-star internal transition within chapter 11;
-- scan 108 — chapter 11, partial canonical page.
+- scan 107 — internal transition;
+- scan 110 — chapter 11 → 12;
+- scan 118 — internal transition inside chapter 12.
 
-The embedded historical tale is an internal textual unit of the novel, not a separate work.
-
-Later chapter checkpoints and the true ending remain provisional until later split pages are directly processed.
+Textual verification of scans 109–118 is reopened even though their physical structure is mapped.
 
 ---
 
 # 9. Translation gate
 
-Do not begin English translation until:
-
-- exact full-source extent is known;
-- every scan has a page record;
-- every body page is visually audited;
-- unresolved readings are resolved or explicitly documented;
-- page map / metadata / README / handover agree;
-- full structure and cross-page continuity are checked;
-- Tamil `audit.md` passes;
-- source PDFs remain outside the repository;
-- assembled Tamil `sections/` layer is created and checked.
+Do not begin English translation until the complete Tamil source, source extent, visual audit, structural audit and assembled Tamil layer all pass. Source PDFs remain outside the repository.
 
 ---
 
 # 10. Exact next activity
 
-Do **not** advance directly to scan 109 yet.
+Do **not** begin scan 119.
 
-First:
-
-1. reopen **scan 108 / printed page 106** from split part 003;
-2. transcribe the remaining lower portion beneath `பேசிக்கொண்டிருந்தான் துக்காராம்.` directly from the source image;
-3. perform a full-page letter-by-letter visual comparison of scan 108;
-4. if no unresolved reading remains, change `0108-pudhaiyal.md` from `partial` to `verified` and synchronize page-map / README / metadata / handover;
-5. only then continue with **scan 109 / printed page 107**.
+1. Re-audit **scans 109–118 / printed pages 107–116** from part 003 at native resolution.
+2. Use the user's Iteration 10 as baseline.
+3. Protect the user-confirmed scan-109 `என்னா பிரதர்!` and scan-110 `போய்ட்டு வர்ரேன்` from assistant reinterpretation.
+4. For every assistant delta, classify it `confirmed`, `withdrawn`, or `ambiguous`.
+5. Promote each page to `verified` only after the whole physical page passes.
+6. Then resolve scan 75's old-glyph reading.
+7. Only after all 11 `needs-review` pages are closed may forward transcription resume from scan 119.
 
 Do not start English translation.
 
