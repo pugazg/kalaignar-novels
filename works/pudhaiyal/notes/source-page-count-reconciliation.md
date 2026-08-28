@@ -54,7 +54,7 @@ Latest direct findings include:
 - scan 83 completes scan 82's `ஆக்ரமிப்ப` with `தற்கும்` and closes chapter 8;
 - scan 84 / printed 82 begins chapter 9 and prints `வேகமான நடையிலே`;
 - scan 87 prints `அந்த உப்பரிகைத் தளத்தில்` and ends inside `நினைவுச் சுருள்கள்`;
-- scan 88 completes that word and excludes a clean-baseline sentence not printed in the scan;
+- scan 88 completes that word; closer inspection confirms the baseline sentence `குரலிலே அதிகாரம், முரட்டுத் தனம் இருந்ததே தவிர கனிவு இல்லை.` is source-supported and retained;
 - scan 91 prints `முடியாதா` continuously;
 - scan 92 closes chapter 9;
 - scan 93 / printed 91 begins chapter 10;
