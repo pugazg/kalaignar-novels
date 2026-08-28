@@ -4,10 +4,10 @@ printed_page: 111
 work: "pudhaiyal"
 section: "12"
 page_type: "body"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 10 baseline reconciled directly against split part 003 page image"
+transcription_method: "user-supplied Iteration 10 baseline loaded; backward-integrity re-audit pending"
 ---
 
 ஊர் சுற்றிப் பார்க்க சில மணி நேர ஓய்வு கிடைத்ததே என்ற சந்தோஷம்.
@@ -34,6 +34,10 @@ transcription_method: "user-supplied Iteration 10 baseline reconciled directly a
 
 ## Page-boundary continuity
 
-The final dialogue continues on scan 114 with `காதல் லக்ஷணம்ன்னு...`.
+The final dialogue continues on scan 114.
+
+## Integrity status
+
+The previous Iteration-10 `verified` label is suspended pending a fresh native-image audit of every assistant-introduced delta on this page.
 
 <!-- மூல ஸ்கேன் பக்கம்: 113; அச்சுப் பக்கம்: 111 -->
