@@ -22,7 +22,7 @@ User-supplied transcription visual check செய்யப்படும் �
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Split-source workflow active; scans 1–82 VERIFIED; 82 Tamil page records; 0 needs-review; part 002 available through scan 98; full-source manifest incomplete; translation blocked** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Split-source workflow active; scans 1–98 VERIFIED; 98 Tamil page records; 0 needs-review; parts 001 and 002 complete; full-source manifest incomplete; translation blocked** |
 
 ### புதையல் — current state
 
@@ -31,16 +31,16 @@ The old **150 pages total** claim is withdrawn. Tamil Digital Library reports **
 Available splits:
 
 - `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` — **scans 1–49 COMPLETE / VERIFIED**;
-- `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf` — **available; scans 50–82 directly reconciled / VERIFIED; scans 83–98 not yet transcribed**.
+- `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf` — **scans 50–98 COMPLETE / VERIFIED**.
 
 Current status:
 
 - page map — known prefix scans **1–150**, full-source coverage incomplete;
-- Tamil page records — **82**;
-- verified — **82** (`scans 1–82`);
+- Tamil page records — **98**;
+- verified — **98** (`scans 1–98`);
 - needs-review — **0**;
-- unresolved readings through scan 82 — **0**;
-- known-prefix not-started — **68**;
+- unresolved readings through scan 98 — **0**;
+- known-prefix not-started — **52**;
 - Tamil whole-work audit — **not started**;
 - assembled Tamil — **blocked**;
 - English translation — **blocked**;
@@ -48,26 +48,23 @@ Current status:
 
 ### Latest source-fidelity results
 
-Iteration 7 was mapped to original scans **73–82 / printed pages 71–80** and directly compared with part 002.
+Iteration 8 was mapped to original scans **83–98 / printed pages 81–96** and directly compared with part 002. Important findings include:
 
-Direct source findings include:
+- scan 83 completes scan 82's `ஆக்ரமிப்ப` with `தற்கும்` and closes chapter 8;
+- scan 84 / printed 82 begins chapter 9 and prints `வேகமான நடையிலே`;
+- scan 87 prints `அந்த உப்பரிகைத் தளத்தில்` and ends inside `நினைவுச் சுருள்கள்`;
+- scan 88 completes that word with `கள்`; one clean-baseline sentence not present in the scan was not inserted;
+- scan 91 prints continuous `முடியாதா`;
+- scan 92 closes chapter 9;
+- scan 93 / printed 91 begins chapter 10;
+- scan 97 supports `சில விநாடிகள்` and `தெவிட்டுவதற்கு`;
+- scan 98 is printed page **96**, carries a four-star internal separator, and is **not the end of the novel**.
 
-- scan 73 continues scan 72's terminal `ஆத்திரத்தோடு,`;
-- scan 75 prints `போயிடுச்சா?`, not clean-baseline `போய்ட்டுதா?`;
-- scan 75 / printed 73 closes chapter `7` and begins chapter `8` on the same page;
-- scan 77 prints `தொட்டுத் தொட்டுப்`;
-- scan 81 prints `வீசி யெறியப்பட்டன`;
-- scan 82 prints `சப்தமிட்டுக் கொண்டே` and ends mid-word at `ஆக்ரமிப்ப`.
+Latest fidelity record:
 
-Source punctuation and printed dash pauses were restored rather than retaining the clean extraction's systematic doubled punctuation.
+- [`works/pudhaiyal/notes/visual-fidelity-scans-083-098.md`](works/pudhaiyal/notes/visual-fidelity-scans-083-098.md) — **16/16 verified**
 
-Latest fidelity records:
-
-- [`works/pudhaiyal/notes/visual-fidelity-scans-050-062.md`](works/pudhaiyal/notes/visual-fidelity-scans-050-062.md) — **13/13 verified**
-- [`works/pudhaiyal/notes/visual-fidelity-scans-063-072.md`](works/pudhaiyal/notes/visual-fidelity-scans-063-072.md) — **10/10 verified**
-- [`works/pudhaiyal/notes/visual-fidelity-scans-073-082.md`](works/pudhaiyal/notes/visual-fidelity-scans-073-082.md) — **10/10 verified**
-
-Exact next action: continue from **scan 83 / printed page 81**, first checking the continuation of scan 82's unfinished `ஆக்ரமிப்ப`.
+Exact next action: obtain/use the next split beginning with **scan 99 / printed page 97** and continue the source-verified Tamil page layer.
 
 ## நிறைவு பெற்ற reference work
 
