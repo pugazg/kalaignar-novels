@@ -4,7 +4,7 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 
 > **Extent warning:** this manifest currently covers only the known prefix through scan 150. It is **not** a complete-source manifest. Tamil Digital Library describes the item as **443 p.**; the exact full-PDF scan count remains pending later split reconciliation.
 
-> **Integrity gate:** the backward audit remains open only for scan **75 / printed page 73**. Scans **109–118** have completed their fresh native-image re-audit and are verified. Forward transcription remains frozen until scan 75 is resolved.
+> **Integrity gate:** the backward integrity audit is **COMPLETE through scan 118**. All 118 created page records are verified and there are no unresolved readings in this range. Forward transcription may resume from scan **119 / printed page 117**.
 
 > **Split-source state:** part 001 (`scans 1–49`), part 002 (`scans 50–98`) and part 003 (`scans 99–147`) are available as access derivatives. Page records currently exist through scan 118.
 
@@ -89,7 +89,7 @@ Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes
 | 72 | 70 | chapter 7; ends mid-sentence at `ஆத்திரத்தோடு,` | verified | `pages/0072-pudhaiyal.md` |
 | 73 | 71 | chapter 7 | verified | `pages/0073-pudhaiyal.md` |
 | 74 | 72 | chapter 7 | verified | `pages/0074-pudhaiyal.md` |
-| 75 | 73 | chapter 7 closes / chapter 8 begins; old-glyph reading pending | needs-review | `pages/0075-pudhaiyal.md` |
+| 75 | 73 | chapter 7 closes / chapter 8 begins; old-glyph reading resolved | verified | `pages/0075-pudhaiyal.md` |
 | 76 | 74 | chapter 8 | verified | `pages/0076-pudhaiyal.md` |
 | 77 | 75 | chapter 8 | verified | `pages/0077-pudhaiyal.md` |
 | 78 | 76 | chapter 8 | verified | `pages/0078-pudhaiyal.md` |
@@ -171,9 +171,10 @@ Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes
 - Tamil Digital Library bibliographic extent: **443 p.**
 - Exact full-PDF scan/page-object count: **pending complete source reconciliation**
 - Page records created: **118**
-- `verified`: **117**
-- `needs-review`: **1** — scan 75
+- `verified`: **118**
+- `needs-review`: **0**
 - `partial`: **0**
+- unresolved readings through scan 118: **0**
 - known-prefix rows `not-started`: **32** — scans 119–150
 - full-source page-map coverage: **INCOMPLETE**
 - source PDF / split PDFs stored in repository: **No**
@@ -198,4 +199,4 @@ Later chapter checkpoints and the true ending remain provisional until later spl
 
 ## Exact next activity
 
-Do **not** begin scan 119. Resolve **scan 75 / printed page 73** by a dedicated native old-glyph inspection. The user's `போய்ட்டுதா?` remains the working baseline unless the source pixels unambiguously establish another sequence. Only after scan 75 is closed may the backward integrity audit be marked complete and forward transcription resume. Do not start English translation.
+Backward integrity is closed through scan 118. Resume forward transcription from **scan 119 / printed page 117** using split part 003 and the next user-supplied baseline. Do not start English translation.
