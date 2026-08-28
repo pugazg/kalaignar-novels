@@ -4,11 +4,11 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 
 > **Extent warning:** this manifest currently covers only the known prefix through scan 150. It is **not** a complete-source manifest. Tamil Digital Library describes the item as **443 p.**; the exact full-PDF scan count remains pending later split reconciliation.
 
-> **Split-source state:** part 001 (`scans 1–49`) is COMPLETE / VERIFIED. Part 002 (`scans 50–98`) is available. Scans **50–72 / printed pages 48–70** have now been directly reconciled against part 002 and are VERIFIED with zero unresolved readings.
+> **Split-source state:** part 001 (`scans 1–49`) is COMPLETE / VERIFIED. Part 002 (`scans 50–98`) is available. Scans **50–82 / printed pages 48–80** have now been directly reconciled against part 002 and are VERIFIED with zero unresolved readings.
 
-> **Boundary correction:** scan 62 / printed 60 ends with `எத்தனை மணியிருக்கும்?`; the reply `அதற்குத்தான் ஆறுமாதமாக...` is printed at the top of scan 63 / printed 61. The earlier Iteration-5 boundary has been corrected.
+> **Boundary correction history:** scan 62 / printed 60 ends with `எத்தனை மணியிருக்கும்?`; the reply `அதற்குத்தான் ஆறுமாதமாக...` is printed at the top of scan 63 / printed 61. Scan 82 / printed 80 ends mid-word at `ஆக்ரமிப்ப`; its continuation belongs to scan 83.
 
-> **Chapter correction:** scan 69 / printed 67 visibly prints chapter numeral **`7`**, not the clean Iteration-6 `1`.
+> **Chapter corrections:** scan 69 / printed 67 visibly prints chapter numeral **`7`**, not the clean Iteration-6 `1`. Scan 75 / printed 73 closes chapter `7` and begins chapter **`8`** on the same physical page.
 
 > **Printed-page rule:** record a printed page number only when visibly printed. Scan 13 therefore remains `—` rather than inferred as 11.
 
@@ -88,16 +88,16 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 | 70 | 68 | chapter 7 | verified | `pages/0070-pudhaiyal.md` |
 | 71 | 69 | chapter 7 | verified | `pages/0071-pudhaiyal.md` |
 | 72 | 70 | chapter 7; ends mid-sentence at `ஆத்திரத்தோடு,` | verified | `pages/0072-pudhaiyal.md` |
-| 73 | 71 | chapter 7 | not-started | `pages/0073-pudhaiyal.md` |
-| 74 | 72 | chapter 7 | not-started | `pages/0074-pudhaiyal.md` |
-| 75 | 73 | chapter 8 begins | not-started | `pages/0075-pudhaiyal.md` |
-| 76 | 74 | chapter 8 | not-started | `pages/0076-pudhaiyal.md` |
-| 77 | 75 | chapter 8 | not-started | `pages/0077-pudhaiyal.md` |
-| 78 | 76 | chapter 8 | not-started | `pages/0078-pudhaiyal.md` |
-| 79 | 77 | chapter 8 | not-started | `pages/0079-pudhaiyal.md` |
-| 80 | 78 | chapter 8 | not-started | `pages/0080-pudhaiyal.md` |
-| 81 | 79 | chapter 8 | not-started | `pages/0081-pudhaiyal.md` |
-| 82 | 80 | chapter 8 | not-started | `pages/0082-pudhaiyal.md` |
+| 73 | 71 | chapter 7 | verified | `pages/0073-pudhaiyal.md` |
+| 74 | 72 | chapter 7 | verified | `pages/0074-pudhaiyal.md` |
+| 75 | 73 | chapter 7 closes / chapter 8 begins | verified | `pages/0075-pudhaiyal.md` |
+| 76 | 74 | chapter 8 | verified | `pages/0076-pudhaiyal.md` |
+| 77 | 75 | chapter 8 | verified | `pages/0077-pudhaiyal.md` |
+| 78 | 76 | chapter 8 | verified | `pages/0078-pudhaiyal.md` |
+| 79 | 77 | chapter 8 | verified | `pages/0079-pudhaiyal.md` |
+| 80 | 78 | chapter 8 | verified | `pages/0080-pudhaiyal.md` |
+| 81 | 79 | chapter 8 | verified | `pages/0081-pudhaiyal.md` |
+| 82 | 80 | chapter 8; ends mid-word at `ஆக்ரமிப்ப` | verified | `pages/0082-pudhaiyal.md` |
 | 83 | 81 | chapter 8 | not-started | `pages/0083-pudhaiyal.md` |
 | 84 | 82 | chapter 9 begins | not-started | `pages/0084-pudhaiyal.md` |
 | 85 | 83 | chapter 9 | not-started | `pages/0085-pudhaiyal.md` |
@@ -173,11 +173,11 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 - Exact full-PDF scan/page-object count: **pending complete source reconciliation**
 - Split part 001: **scans 1–49 — COMPLETE / VERIFIED**
 - Split part 002: **scans 50–98 — AVAILABLE**
-- Page records actually created: **72**
-- `verified`: **72** — scans 1–72
+- Page records actually created: **82**
+- `verified`: **82** — scans 1–82
 - `needs-review`: **0**
-- unresolved readings through scan 72: **0**
-- remaining known-prefix rows `not-started`: **78**
+- unresolved readings through scan 82: **0**
+- remaining known-prefix rows `not-started`: **68**
 - full-source page-map coverage: **INCOMPLETE**
 - Source PDF / split PDFs stored in repository: **No**
 
@@ -190,11 +190,12 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 - chapter 4 — scan 46 internal four-star transition; scan 47 embedded historical tale begins; scan 52 closes chapter 4 and begins chapter 5
 - chapter 5 — scan 60 closes chapter 5 and begins chapter 6
 - chapter 6 — scan 60 begins; scan 68 / printed 66 closes
-- chapter 7 — scan 69 / printed 67 begins; source numeral visibly `7`; continues beyond scan 72
+- chapter 7 — scan 69 / printed 67 begins; scan 75 / printed 73 closes
+- chapter 8 — begins on scan 75 / printed 73 and continues beyond scan 82
 - later chapter checkpoints through scan 150 remain provisional until their split-source pages are directly processed
 
 No claim is made about the final chapter number or actual source ending.
 
 ## Exact next activity
 
-Continue from **scan 73 / printed page 71** using split part 002. First preserve scan 72's unfinished ending `ஆத்திரத்தோடு,`, then process the next controlled transcription batch. Do not start English translation.
+Continue from **scan 83 / printed page 81** using split part 002. First verify the continuation of scan 82's terminal `ஆக்ரமிப்ப`, then process the next controlled transcription batch. Do not start English translation.
