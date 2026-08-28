@@ -4,7 +4,7 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 
 > **Extent warning:** this manifest currently covers only the known prefix through scan 150. It is **not** a complete-source manifest. Tamil Digital Library describes the item as **443 p.**; the exact full-PDF scan count remains pending later split reconciliation.
 
-> **Integrity gate:** a backward audit is open after assistant old-glyph misreads. Forward transcription is frozen. Scan **75** and scans **109–118** are `needs-review`; do not treat their earlier `verified` labels as authoritative.
+> **Integrity gate:** the backward audit remains open only for scan **75 / printed page 73**. Scans **109–118** have completed their fresh native-image re-audit and are verified. Forward transcription remains frozen until scan 75 is resolved.
 
 > **Split-source state:** part 001 (`scans 1–49`), part 002 (`scans 50–98`) and part 003 (`scans 99–147`) are available as access derivatives. Page records currently exist through scan 118.
 
@@ -123,16 +123,16 @@ Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes
 | 106 | 104 | chapter 11 | verified | `pages/0106-pudhaiyal.md` |
 | 107 | 105 | chapter 11 / four-star internal transition | verified | `pages/0107-pudhaiyal.md` |
 | 108 | 106 | chapter 11 | verified | `pages/0108-pudhaiyal.md` |
-| 109 | 107 | chapter 11 | needs-review | `pages/0109-pudhaiyal.md` |
-| 110 | 108 | chapter 11 closes / chapter 12 begins | needs-review | `pages/0110-pudhaiyal.md` |
-| 111 | 109 | chapter 12 | needs-review | `pages/0111-pudhaiyal.md` |
-| 112 | 110 | chapter 12 | needs-review | `pages/0112-pudhaiyal.md` |
-| 113 | 111 | chapter 12 | needs-review | `pages/0113-pudhaiyal.md` |
-| 114 | 112 | chapter 12 | needs-review | `pages/0114-pudhaiyal.md` |
-| 115 | 113 | chapter 12 | needs-review | `pages/0115-pudhaiyal.md` |
-| 116 | 114 | chapter 12 | needs-review | `pages/0116-pudhaiyal.md` |
-| 117 | 115 | chapter 12 | needs-review | `pages/0117-pudhaiyal.md` |
-| 118 | 116 | chapter 12 / four-star internal transition | needs-review | `pages/0118-pudhaiyal.md` |
+| 109 | 107 | chapter 11 | verified | `pages/0109-pudhaiyal.md` |
+| 110 | 108 | chapter 11 closes / chapter 12 begins | verified | `pages/0110-pudhaiyal.md` |
+| 111 | 109 | chapter 12 | verified | `pages/0111-pudhaiyal.md` |
+| 112 | 110 | chapter 12 | verified | `pages/0112-pudhaiyal.md` |
+| 113 | 111 | chapter 12 | verified | `pages/0113-pudhaiyal.md` |
+| 114 | 112 | chapter 12 | verified | `pages/0114-pudhaiyal.md` |
+| 115 | 113 | chapter 12 | verified | `pages/0115-pudhaiyal.md` |
+| 116 | 114 | chapter 12 | verified | `pages/0116-pudhaiyal.md` |
+| 117 | 115 | chapter 12 | verified | `pages/0117-pudhaiyal.md` |
+| 118 | 116 | chapter 12 / four-star internal transition | verified | `pages/0118-pudhaiyal.md` |
 | 119 | 117 | chapter 13 begins | not-started | `pages/0119-pudhaiyal.md` |
 | 120 | 118 | chapter 13 | not-started | `pages/0120-pudhaiyal.md` |
 | 121 | 119 | chapter 13 | not-started | `pages/0121-pudhaiyal.md` |
@@ -171,8 +171,8 @@ Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes
 - Tamil Digital Library bibliographic extent: **443 p.**
 - Exact full-PDF scan/page-object count: **pending complete source reconciliation**
 - Page records created: **118**
-- `verified`: **107**
-- `needs-review`: **11** — scan 75 and scans 109–118
+- `verified`: **117**
+- `needs-review`: **1** — scan 75
 - `partial`: **0**
 - known-prefix rows `not-started`: **32** — scans 119–150
 - full-source page-map coverage: **INCOMPLETE**
@@ -198,4 +198,4 @@ Later chapter checkpoints and the true ending remain provisional until later spl
 
 ## Exact next activity
 
-Do **not** begin scan 119. First re-audit **scans 109–118 / printed pages 107–116** against native part-003 images, then resolve scan 75's old-glyph reading. Only after all 11 `needs-review` pages are closed may forward transcription resume. Do not start English translation.
+Do **not** begin scan 119. Resolve **scan 75 / printed page 73** by a dedicated native old-glyph inspection. The user's `போய்ட்டுதா?` remains the working baseline unless the source pixels unambiguously establish another sequence. Only after scan 75 is closed may the backward integrity audit be marked complete and forward transcription resume. Do not start English translation.
