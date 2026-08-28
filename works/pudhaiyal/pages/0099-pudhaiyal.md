@@ -7,7 +7,7 @@ page_type: "body / internal-transition"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 9 baseline reconciled directly against split part 003 page image"
+transcription_method: "backward-integrity re-audit against native split-source image"
 ---
 
 துரையின் தோழர்கள், ஐயப்பன் கோஷ்டியாரிடம் "இனிமேல் இதுமாதிரி கள்ளத் தோணி காரியங்களில் ஈடுபட்டால் அவ்வளவுதான்! இப்போது தலைதப்பியது பெரிய காரியம் என்று ஓடிவிடுங்கள்" என்று மிரட்டவே, ஐயப்பனும், அவர்கள் காலிலே விழுந்து, "சாமீ! உங்களுக்கு கோடி புண்யமுண்டு! நாங்க வர்ரோம் - இனிமே இந்தக் காரியம் செய்யமாட்டோம் - அந்தக் கிழவரையும் எடுத்துக் கொண்டு போகிறோம்-தயவு செய்து கொடுங்கள்" என்று பணிவாகக் கேட்டான். ஐயப்பனுக்கு அந்தக் கிழவரைக் கொண்டு போவது, மருங்கப்பள்ளத்துப் புதையல் முழுவதையும் கொண்டு போவது போல! ஆனால் அத்தகு அனுமதி கிடைக்கவில்லை. கிழவரைத் தர முடியாது என்று துரையின் தோழர்கள் கூறிவிட்டார்கள். போலீசாரிடம் அதிகமாக பேச்சு வைத்துக்கொள்ளக் கூடாது என பயந்த ஐயப்பன், தன் ஆட்களுடன் நடையைக் கட்டினான். துரையின் தோழர்கள், மயக்கம் தெளியாமல் இருக்கும் கிழவரை மெதுவாகத் தூக்கிக்கொண்டு மனோராவிற்குள் நுழைந்தனர்.
@@ -18,12 +18,12 @@ transcription_method: "user-supplied Iteration 9 baseline reconciled directly ag
 
 "அப்படியானால் அந்த அம்பலத்திடம் என்னுடைய பெயரைச் சொல்லி விட்டாயா?"
 
-"சொல்லுவேன் என்றா நினைக்கிறீர்கள்!—ஆனால் நான் சொன்னதாக அவர் நம்பியிருக்கிறார்! இப்ப யாருடைய பெயரைச் சொன்னேன் தெரியுமா?"
+"சொல்வேன் என்று நினைக்கிறீர்கள்!—ஆனால் நான் சொன்னதாக அவர் நம்பியிருக்கிறார்—நான் யாருடைய பெயரைச் சொன்னேன் தெரியுமா?"
 
 "யார் பெயர்?"
 
 ## Fidelity note
 
-The supplied clean baseline had a second `நான் யாருடைய...`; the scan prints `இப்ப யாருடைய...`. The four-star separator between the two scenes is printed on this physical page.
+Backward integrity re-audit of the native scan corrects the earlier assistant reading. The source prints `சொல்வேன் என்று நினைக்கிறீர்கள்!` and later `நான் யாருடைய பெயரைச் சொன்னேன் தெரியுமா?`; the assistant-introduced `சொல்லுவேன் என்றா... இப்ப யாருடைய...` is withdrawn. The four-star separator is printed on this physical page.
 
 <!-- மூல ஸ்கேன் பக்கம்: 99; அச்சுப் பக்கம்: 97 -->
