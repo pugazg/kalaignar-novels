@@ -4,10 +4,10 @@ printed_page: 110
 work: "pudhaiyal"
 section: "12"
 page_type: "body"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 10 baseline reconciled directly against split part 003 page image"
+transcription_method: "user-supplied Iteration 10 baseline loaded; backward-integrity re-audit pending"
 ---
 
 கைய வார்த்தைகள் உதிரப் போகின்றனவோ என்று ஆவலுடன் எதிர்பார்த்துக்கொண்டே உட்கார்ந்தான் துக்காராம். அவனுடைய நண்பர்கள் எல்லாம் முன்பே போய்விட்டது அவனுக்கு இப்போது மகிழ்ச்சியாக இருந்தது.
@@ -38,8 +38,8 @@ transcription_method: "user-supplied Iteration 10 baseline reconciled directly a
 
 The opening `கைய` completes scan 111's terminal `எத்த`, yielding `எத்தகைய`. The page ends at `அவனுக்கு`; scan 113 continues the sentence.
 
-## Fidelity note
+## Integrity status
 
-The source visibly prints the standalone `"காஷ்—?"` line and the following `"என் அவசியமா செலவு..."`; the clean Iteration-10 extraction had lost `காஷ்` and expanded the next phrase differently.
+The previous Iteration-10 `verified` label is suspended. The current body is retained as a working baseline only; each assistant-introduced reading, including the recovered standalone `காஷ்—?`, must be rechecked against the native scan before promotion.
 
 <!-- மூல ஸ்கேன் பக்கம்: 112; அச்சுப் பக்கம்: 110 -->
