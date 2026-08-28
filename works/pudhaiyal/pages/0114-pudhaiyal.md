@@ -4,10 +4,10 @@ printed_page: 112
 work: "pudhaiyal"
 section: "12"
 page_type: "body"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 10 baseline reconciled directly against split part 003 page image"
+transcription_method: "user-supplied Iteration 10 baseline loaded; backward-integrity re-audit pending"
 ---
 
 காதல் லக்ஷணம்ன்னு சொல்லக் கேட்டிருக்கேன். எங்க காலத்திலே எல்லாம் காதலாவது கத்தரிக்காயாவது — இப்பத்தான் அதையெல்லாம் கேள்விப்படுறோம்!" என்றார் அம்பலம்.
@@ -26,6 +26,10 @@ transcription_method: "user-supplied Iteration 10 baseline reconciled directly a
 
 ## Page-boundary continuity
 
-This page begins by completing scan 113's unfinished அம்பலம் dialogue. The source prints `ஆரம்பித்தான்`; the clean transcription's `ஆரமபித்தான்` is corrected here.
+This page begins by completing scan 113's unfinished அம்பலம் dialogue.
+
+## Integrity status
+
+The previous Iteration-10 `verified` label is suspended. Assistant-introduced changes such as spelling/spacing around `லக்ஷணம்ன்னு`, `முன்னையே`, `பாடிக்கொண்டிருக்கும்`, and `ஆரம்பித்து` must be rechecked against the native scan before any are treated as canonical corrections.
 
 <!-- மூல ஸ்கேன் பக்கம்: 114; அச்சுப் பக்கம்: 112 -->
