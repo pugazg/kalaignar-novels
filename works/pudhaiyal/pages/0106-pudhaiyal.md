@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 9 baseline reconciled directly against split part 003 page image"
+transcription_method: "backward-integrity re-audit against native split-source image"
 ---
 
 போக முடியாது என்பதை அவன் புரிந்து கொண்டான். பரிமளாவுக்கு கொஞ்சம் கஷ்டமாகத்தான் இருந்தது, வயதான காலத்தில் அவரைப்போய் தொந்திரவு செய்வது.
@@ -20,7 +20,7 @@ transcription_method: "user-supplied Iteration 9 baseline reconciled directly ag
 
 இந்தப் பதில் கிழவரைத் திணற அடித்துவிட்டது. துரை நினைத்துக்கொண்டு சொன்னது வேறாயிருந்தாலும் கிழவர் கலங்கிப் போய்விட்டார். இந்தக் கலக்கத்தில் அவரையுமறியாமல், அவரது கை மடியைத் தடவிப் பார்த்துக்கொண்டது.
 
-"உம்—நான் வரத்தான் வேண்டுமோ?"
+"உம்—நான் வரத்தான் வேண்டுமா?"
 
 "ஆமாம் - போலீஸ் உத்திரவுக்கு கீழ்ப்படிவது தானே நல்லது!"
 
@@ -40,6 +40,6 @@ The opening completes scan 105's `அழைத்துக் கொண்டு
 
 ## Fidelity note
 
-The scan prints `நான் வரத்தான் வேண்டுமோ?`; the clean baseline supplied `வேண்டுமா?`.
+Backward integrity re-audit confirms `நான் வரத்தான் வேண்டுமா?`; the earlier assistant `வேண்டுமோ?` is withdrawn.
 
 <!-- மூல ஸ்கேன் பக்கம்: 106; அச்சுப் பக்கம்: 104 -->
