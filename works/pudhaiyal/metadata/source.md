@@ -33,9 +33,19 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 
 - represented source scans: **50–98**
 - split page count: **49**
-- materialized file size available in chat runtime: **54,231,932 bytes**
 - visibly printed page range: **48–96**
 - status: **COMPLETE / VERIFIED — 49 / 49**
+- committed to repository: **No**
+
+### Part 003
+
+`TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf`
+
+- represented source scans: **99–147**
+- split page count: **49**
+- current directly processed range: **scans 99–108 / printed pages 97–106**
+- verified through: **scan 107 / printed page 105**
+- scan 108 / printed page 106: **partial** — supplied Iteration 9 transcription ends before the physical page ends
 - committed to repository: **No**
 
 These splits are access derivatives of the same controlling edition and do not establish new editions.
@@ -58,17 +68,21 @@ A Tamil Digital Library summary elsewhere says `முதல் பதிப்�
 
 Record a printed number only when visibly printed. Scan 13 remains `null` / `—` because no printed number is visible.
 
-Directly processed part-002 numbering now establishes:
+Directly processed split numbering now establishes, among other checkpoints:
 
 - scan 50 → printed 48;
 - scan 75 → printed 73;
 - scan 83 → printed 81;
-- scan 84 → printed 82;
 - scan 92 → printed 90;
 - scan 93 → printed 91;
-- scan 98 → printed **96**.
+- scan 98 → printed 96;
+- scan 99 → printed 97;
+- scan 101 → printed 99;
+- scan 102 → printed 100;
+- scan 107 → printed 105;
+- scan 108 → printed 106.
 
-The part filename ending in `98` refers to **source scan 98**, not printed page 98.
+The split filenames use **source scan numbers**, not printed-page numbers.
 
 ## Current work structure established by direct evidence
 
@@ -90,28 +104,35 @@ The part filename ending in `98` refers to **source scan 98**, not printed page 
 ├── scan 84: chapter 9 begins
 ├── scan 92: chapter 9 closes
 ├── scan 93: chapter 10 begins
-└── scan 98: four-star internal transition inside chapter 10; not source end
+├── scan 98: four-star internal transition inside chapter 10
+├── scan 101: chapter 10 closes
+├── scan 102: chapter 11 begins
+├── scan 107: four-star internal transition inside chapter 11
+└── scan 108: chapter 11, partial canonical transcription
 ```
 
 ## Canonical Tamil state
 
-- page records created: **98**
-- verified: **98** — scans 1–98
+- page records created: **108**
+- verified: **107** — scans 1–107
+- partial: **1** — scan 108
 - needs-review: **0**
-- unresolved readings through scan 98: **0**
-- known-prefix not-started rows: **52**
+- unresolved readings through verified scan 107: **0**
+- known-prefix not-started rows: **42**
 
-Latest Iteration-8 scan-established corrections include:
+Latest Iteration-9 scan-established findings include:
 
-- scan 84 `வேகமான நடையிலே`;
-- scan 85 `விட்டதாகவும்`;
-- scan 87 `அந்த உப்பரிகைத் தளத்தில்`;
-- scan 88 retains `குரலிலே அதிகாரம், முரட்டுத் தனம் இருந்ததே தவிர கனிவு இல்லை.` after closer source inspection;
-- scan 91 `முடியாதா`;
-- scan 97 `சில விநாடிகள்`, `தெவிட்டுவதற்கு`;
-- scan 98 printed page **96** with a four-star internal separator.
+- scan 99 `இப்ப யாருடைய பெயரைச் சொன்னேன் தெரியுமா?`;
+- scan 100 → 101 physical split `தோழர்` / `களைத்`;
+- scan 101 `அவரைப் பற்றி நான் நன்கு விசாரிக்கவேண்டும் என்ற, ஒரு ஆவல்...`;
+- scan 102 chapter `11`;
+- scan 104 `நெடு நாளா பழக்கமா?`, `உடல் வளர்த்து`;
+- scan 105 `தொண்ணூறு`, `ஆசையா யிருந்தது`;
+- scan 106 `நான் வரத்தான் வேண்டுமோ?`;
+- scan 107 four-star internal transition and terminal `கடை`;
+- scan 108 opening `யாக` completes `கடையாக`, but additional source text remains below the supplied baseline endpoint.
 
-Latest fidelity record: [`../notes/visual-fidelity-scans-083-098.md`](../notes/visual-fidelity-scans-083-098.md).
+Latest fidelity record: [`../notes/visual-fidelity-scans-099-108.md`](../notes/visual-fidelity-scans-099-108.md).
 
 ## Completeness still open
 
@@ -123,4 +144,6 @@ Latest fidelity record: [`../notes/visual-fidelity-scans-083-098.md`](../notes/v
 
 ## Exact next action
 
-Obtain/use the next split beginning with **original scan 99 / printed page 97**. Continue chapter 10 from the four-star separator on scan 98. Do not start English translation.
+Complete the remaining lower portion of **scan 108 / printed page 106** directly from split part 003 and re-audit the entire page. Only then promote scan 108 to `verified` and continue from **scan 109 / printed page 107**.
+
+Do not start English translation.
