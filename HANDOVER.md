@@ -111,8 +111,8 @@ The former `150 pages total` conclusion was wrong. Scans 1–150 are only a know
 - source scans: **50–98**
 - split pages: **49**
 - runtime size: **54,231,932 bytes**
-- directly processed / verified: **scans 50–82 / printed pages 48–80**
-- not yet transcribed in this split: **scans 83–98**
+- visibly printed pages represented: **48–96**
+- state: **COMPLETE / VERIFIED — 49 / 49**
 - committed: **No**
 
 These split files are access derivatives of the controlling edition, not new editions.
@@ -121,56 +121,49 @@ These split files are access derivatives of the controlling edition, not new edi
 
 # 6. Current Tamil state
 
-Canonical page records exist through scan **82**.
+Canonical page records exist through scan **98**.
 
-- page records created: **82**
-- verified: **82** — scans 1–82
+- page records created: **98**
+- verified: **98** — scans 1–98
 - needs-review: **0**
-- unresolved readings through scan 82: **0**
-- known-prefix rows not-started: **68**
+- unresolved readings through scan 98: **0**
+- known-prefix rows not-started: **52**
 - full-source page-map coverage: **INCOMPLETE**
 - Tamil whole-work audit: **not started**
 - assembled Tamil layer: **blocked**
 - English translation: **blocked**
 
-Fidelity records:
+Fidelity records now include:
 
 - `works/pudhaiyal/notes/visual-fidelity-scans-001-012.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-013-022.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-023-032.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-033-049.md`
-- `works/pudhaiyal/notes/visual-fidelity-scans-050-062.md` — **13/13 verified**
-- `works/pudhaiyal/notes/visual-fidelity-scans-063-072.md` — **10/10 verified**
-- `works/pudhaiyal/notes/visual-fidelity-scans-073-082.md` — **10/10 verified**
+- `works/pudhaiyal/notes/visual-fidelity-scans-050-062.md`
+- `works/pudhaiyal/notes/visual-fidelity-scans-063-072.md`
+- `works/pudhaiyal/notes/visual-fidelity-scans-073-082.md`
+- `works/pudhaiyal/notes/visual-fidelity-scans-083-098.md` — **16/16 verified**
 
 ---
 
-# 7. Latest reconciliation — part 002 scans 73–82
+# 7. Latest reconciliation — part 002 scans 83–98
 
-The user's Iteration 7 for printed pages 71–80 was mapped to original scans **73–82** and compared directly with split part 002 pages 24–33.
+The user's Iteration 8 was mapped to original scans **83–98 / printed pages 81–96** and compared directly with split part 002 pages **34–49**.
 
 Important results:
 
-- scan 73 directly continues scan 72's unfinished `ஆத்திரத்தோடு,` sentence;
-- scan 75 / printed 73 prints `போயிடுச்சா?`, not the clean baseline's `போய்ட்டுதா?`;
-- scan 75 closes chapter `7` and begins chapter **`8`** on the same physical page, with a printed rule and numeral `8`;
-- scan 77 prints `தொட்டுத் தொட்டுப்`, correcting a clean-extraction split artefact;
-- scan 81 prints `வீசி யெறியப்பட்டன` with the visible separation retained;
-- scan 82 prints `சப்தமிட்டுக் கொண்டே`;
-- scan 82 / printed 80 ends mid-word at `ஆக்ரமிப்ப`; continuation belongs to scan 83 / printed 81.
+- scan 83 begins `தற்கும் சரியாக இருந்தது`, completing scan 82's terminal `ஆக்ரமிப்ப` as `ஆக்ரமிப்பதற்கும்`; scan 83 closes chapter 8;
+- scan 84 / printed 82 begins chapter **9** and prints `வேகமான நடையிலே`, not clean-baseline `வேசமான நடையிலே`;
+- scan 85 supports continuous `விட்டதாகவும்`;
+- scan 87 prints `அந்த உப்பரிகைத் தளத்தில்` and ends inside `நினைவுச் சுருள்கள்` at `நினைவுச் சுருள்`;
+- scan 88 begins `கள்`, completing that word; a sentence supplied in the clean baseline (`குரலிலே அதிகாரம், முரட்டுத் தனம் இருந்ததே தவிர கனிவு இல்லை.`) is not printed on the inspected source page and was therefore not inserted into the canonical text;
+- scan 91 prints continuous `முடியாதா`;
+- scan 92 / printed 90 closes chapter 9;
+- scan 93 / printed 91 begins chapter **10**;
+- scan 97 supports `சில விநாடிகள்` and `தெவிட்டுவதற்கு`;
+- scan 98 is visibly printed page **96**, not 98, and carries a four-star internal separator.
 
-Physical boundary checkpoints include:
-
-1. scan 73 `நன்றாகத்` → scan 74 `தூங்கிக் கொண்டிருந்தாள்.`;
-2. scan 74 `ஒரு` → scan 75 `முரட்டுக் கிழவன்...`;
-3. scan 75 `ஊராத்துரை லைட்` → scan 76 `ஹவுஸ் தெரிஞ்சுட்டா...`;
-4. scan 76 `இலங்கை போன` → scan 77 `பிறகும் அவன்...`;
-5. scan 78 `விழுந்து` → scan 79 `விட ஐயப்பன் விடவில்லை.`;
-6. scan 79 `அந்தக்` → scan 80 `கல் காந்தம் போல்...`;
-7. scan 80 `பாயை மாத்தி கட்டுடா;` → scan 81 `பரதேசிப் பயலே!`;
-8. scan 82 ends at `ஆக்ரமிப்ப`.
-
-Source punctuation / dash pauses were restored rather than the clean extraction's systematic doubled punctuation. No ambiguous old-print word was changed merely from expectation.
+The part-002 filename range `50-98` refers to original **scan numbers**, not printed page numbers.
 
 ---
 
@@ -179,17 +172,21 @@ Source punctuation / dash pauses were restored rather than the clean extraction'
 - scans 1–6 — front matter / blank;
 - scans 7–12 — `அறிமுகம்`;
 - scan 13 — chapter 1 begins;
-- scan 22 / printed 20 — chapter 1 → 2 transition;
-- scan 30 / printed 28 — chapter 2 → 3 transition;
-- scan 40 / printed 38 — chapter 3 → 4 transition;
-- scan 46 / printed 44 — four-star internal transition;
-- scan 47 / printed 45 — embedded historical tale begins inside chapter 4;
-- scan 52 / printed 50 — chapter 4 → 5 transition;
-- scan 60 / printed 58 — chapter 5 → 6 transition;
-- scan 68 / printed 66 — chapter 6 closes;
-- scan 69 / printed 67 — chapter 7 begins;
-- scan 75 / printed 73 — chapter 7 closes / chapter 8 begins;
-- scan 82 / printed 80 — chapter 8 continues and ends mid-word at `ஆக்ரமிப்ப`.
+- scan 22 — chapter 1 → 2;
+- scan 30 — chapter 2 → 3;
+- scan 40 — chapter 3 → 4;
+- scan 46 — four-star internal transition;
+- scan 47 — embedded historical tale begins inside chapter 4;
+- scan 52 — chapter 4 → 5;
+- scan 60 — chapter 5 → 6;
+- scan 68 — chapter 6 closes;
+- scan 69 — chapter 7 begins;
+- scan 75 — chapter 7 → 8;
+- scan 83 — chapter 8 closes;
+- scan 84 — chapter 9 begins;
+- scan 92 — chapter 9 closes;
+- scan 93 — chapter 10 begins;
+- scan 98 — four-star internal transition within chapter 10; **not chapter end and not source end**.
 
 The embedded historical tale is an internal textual unit of the novel, not a separate work.
 
@@ -215,16 +212,16 @@ Do not begin English translation until:
 
 # 10. Exact next activity
 
-Continue directly with **scan 83 / printed page 81** from part 002.
+Part 002 is complete. The next activity is to obtain/use the next split beginning with **original scan 99 / printed page 97**.
 
-Before advancing:
+When it is available:
 
-1. preserve scan 82's unfinished terminal `ஆக்ரமிப்ப`;
-2. inspect scan 83's opening and verify the mid-word continuation;
-3. process the next user-supplied controlled batch from part 002;
-4. preserve physical page boundaries and printed punctuation;
-5. apply only visually established source-vs-baseline corrections;
-6. update page map / README / handover at the next meaningful activity boundary.
+1. inspect the first page directly before accepting continuity;
+2. treat scan 98's four-star separator as an internal transition, not the novel ending;
+3. continue chapter 10 from scan 99;
+4. preserve physical scan and printed-page boundaries;
+5. apply only source-established wording / punctuation / spacing corrections;
+6. update page map / README / metadata / handover at the next activity boundary.
 
 Do not start English translation.
 
@@ -232,4 +229,4 @@ Do not start English translation.
 
 # 11. Fresh-chat rule
 
-Use `NEXT_NOVEL_CHAT_PROMPT.md` together with the relevant split source. Current live GitHub state and this handover govern over stale summaries.
+Use `NEXT_NOVEL_CHAT_PROMPT.md` together with the relevant next split. Current live GitHub state and this handover govern over stale summaries.
