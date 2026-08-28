@@ -29,9 +29,19 @@ See [`notes/source-page-count-reconciliation.md`](notes/source-page-count-reconc
 
 - represented source scans: **50–98**
 - split PDF pages: **49**
-- split size available in chat runtime: **54,231,932 bytes**
 - state: **COMPLETE / VERIFIED — 49 / 49**
 - visibly printed range represented: **48–96**
+- committed to repository: **No**
+
+### Part 003
+
+`TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf`
+
+- represented source scans: **99–147**
+- split PDF pages: **49**
+- currently processed: **scans 99–108 / printed pages 97–106**
+- `verified`: **scans 99–107**
+- `partial`: **scan 108 / printed page 106** — supplied Iteration 9 baseline stops before the physical page ends
 - committed to repository: **No**
 
 The split files are access derivatives of the controlling edition, not new editions.
@@ -41,11 +51,12 @@ The split files are access derivatives of the controlling edition, not new editi
 - source identity — **confirmed**
 - scan-printed edition — **மூன்றாம் பதிப்பு, செப்டம்பர் 1961**
 - page map — **known prefix scans 1–150; full-source coverage incomplete**
-- Tamil page records created — **98**
-- `verified` — **98** (`scans 1–98`)
+- Tamil page records created — **108**
+- `verified` — **107** (`scans 1–107`)
+- `partial` — **1** (`scan 108`)
 - `needs-review` — **0**
-- unresolved readings through scan 98 — **0**
-- remaining known-prefix rows `not-started` — **52**
+- unresolved readings through verified scan 107 — **0**
+- remaining known-prefix rows `not-started` — **42**
 - Tamil whole-work audit — **not started**
 - assembled Tamil reading layer — **blocked by Tamil audit gate**
 - English translation — **blocked by Tamil audit gate**
@@ -53,6 +64,8 @@ The split files are access derivatives of the controlling edition, not new editi
 ## Verification policy
 
 The scan remains controlling. User-supplied transcription is the comparison baseline, not replacement authority. Apparent disagreements are changed only when the split image establishes the source reading. Grammar, OCR, catalogue text and modern spelling do not override the scan.
+
+If a supplied iteration ends before the physical scan page ends, the canonical record must remain `partial`; missing lower-page text must not be guessed from continuity.
 
 ## Fidelity history
 
@@ -63,7 +76,8 @@ The scan remains controlling. User-supplied transcription is the comparison base
 - scans 50–62 — Iteration 5 verified against part 002;
 - scans 63–72 — Iteration 6 verified against part 002;
 - scans 73–82 — Iteration 7 verified against part 002;
-- scans 83–98 — Iteration 8 verified against part 002; **part 002 complete**.
+- scans 83–98 — Iteration 8 verified against part 002; part 002 complete;
+- scans 99–108 — Iteration 9 checked against part 003; **99–107 verified, 108 partial**.
 
 Detailed reports:
 
@@ -75,20 +89,21 @@ Detailed reports:
 - [`notes/visual-fidelity-scans-063-072.md`](notes/visual-fidelity-scans-063-072.md)
 - [`notes/visual-fidelity-scans-073-082.md`](notes/visual-fidelity-scans-073-082.md)
 - [`notes/visual-fidelity-scans-083-098.md`](notes/visual-fidelity-scans-083-098.md)
+- [`notes/visual-fidelity-scans-099-108.md`](notes/visual-fidelity-scans-099-108.md)
 
-## Latest Iteration-8 findings
+## Latest Iteration-9 findings
 
-Direct scan inspection established, among other points:
+Direct part-003 scan inspection established:
 
-- scan 83 completes scan 82's `ஆக்ரமிப்ப` with opening `தற்கும்` and closes chapter 8;
-- scan 84 / printed 82 begins chapter 9 and prints `வேகமான நடையிலே`;
-- scan 87 prints `அந்த உப்பரிகைத் தளத்தில்` and ends inside `நினைவுச் சுருள்கள்`;
-- scan 88 begins `கள்`, completing that word; the sentence `குரலிலே அதிகாரம், முரட்டுத் தனம் இருந்ததே தவிர கனிவு இல்லை.` is retained after closer source inspection;
-- scan 91 prints continuous `முடியாதா`;
-- scan 92 closes chapter 9;
-- scan 93 / printed 91 begins chapter 10;
-- scan 97 supports `சில விநாடிகள்` and `தெவிட்டுவதற்கு`;
-- scan 98 / printed **96** carries a four-star internal separator and is only the end of part 002, not the novel.
+- scan 99 / printed 97 prints `இப்ப யாருடைய பெயரைச் சொன்னேன் தெரியுமா?` and contains a four-star internal transition;
+- scan 100 ends at `தோழர்`; scan 101 begins `களைத்`, completing `தோழர்களைத்`;
+- scan 101 prints `அவரைப் பற்றி நான் நன்கு விசாரிக்கவேண்டும் என்ற, ஒரு ஆவல்...` and closes chapter 10;
+- scan 102 / printed 100 begins chapter **11**;
+- scan 104 prints `நெடு நாளா பழக்கமா?` and `உடல் வளர்த்து`;
+- scan 105 prints `தொண்ணூறு` and `ஆசையா யிருந்தது`;
+- scan 106 prints `நான் வரத்தான் வேண்டுமோ?`;
+- scan 107 contains a four-star internal scene transition and ends at `கடை`;
+- scan 108 begins `யாக`, completing `கடையாக`, but the supplied baseline stops after `பேசிக்கொண்டிருந்தான் துக்காராம்.` while the printed page continues below it.
 
 ## Physical structure established so far
 
@@ -109,7 +124,11 @@ Direct scan inspection established, among other points:
 - scan 84 — chapter 9 begins;
 - scan 92 — chapter 9 ends;
 - scan 93 — chapter 10 begins;
-- scan 98 — four-star internal transition within chapter 10.
+- scan 98 — four-star internal transition within chapter 10;
+- scan 101 — chapter 10 ends;
+- scan 102 — chapter 11 begins;
+- scan 107 — four-star internal transition inside chapter 11;
+- scan 108 — chapter 11, currently partial.
 
 Later structure and the true ending remain open until later split-source pages are processed.
 
@@ -127,4 +146,6 @@ Current prefix manifest: [`indexes/page-map.md`](indexes/page-map.md).
 
 ## Exact next activity
 
-Obtain/use the next split beginning with **original scan 99 / printed page 97**. Verify continuity from scan 98's four-star separator and continue the canonical Tamil page layer. Do not start English translation.
+Complete the **remaining lower portion of scan 108 / printed page 106** directly from split part 003, perform a final full-page visual comparison, and promote scan 108 to `verified` only if no unresolved reading remains. Then continue from **scan 109 / printed page 107**.
+
+Do not start English translation.
