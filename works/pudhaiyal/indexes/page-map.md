@@ -4,9 +4,9 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 
 > **Extent warning:** this manifest currently covers only the known prefix through scan 150. It is **not** a complete-source manifest. Tamil Digital Library describes the item as **443 p.**; the exact full-PDF scan count remains pending later split reconciliation.
 
-> **Split-source state:** part 001 (`scans 1–49`) is COMPLETE / VERIFIED. Part 002 (`scans 50–98`) is now also **COMPLETE / VERIFIED**. All scans **1–98** currently represented by the two supplied splits have canonical page records and zero unresolved readings.
+> **Split-source state:** part 001 (`scans 1–49`) and part 002 (`scans 50–98`) are COMPLETE / VERIFIED. Part 003 (`scans 99–147`) is AVAILABLE. Scans **99–107 / printed pages 97–105** are VERIFIED; scan **108 / printed page 106** is `partial` because the supplied Iteration 9 baseline stops before the physical page ends.
 
-> **Important split endpoint:** scan 98 is printed page **96**, not printed page 98. It carries a four-star internal separator and is only the end of split part 002, **not** the end of the novel.
+> **Important part-003 gate:** scan 108 begins with `யாக`, completing scan 107's terminal `கடை` as `கடையாக`, but additional printed text remains below the supplied baseline endpoint. Do not advance the verified boundary beyond scan 107 until scan 108 is completed.
 
 > **Printed-page rule:** record a printed page number only when visibly printed. Scan 13 therefore remains `—` rather than inferred as 11.
 
@@ -112,16 +112,16 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 | 96 | 94 | chapter 10 | verified | `pages/0096-pudhaiyal.md` |
 | 97 | 95 | chapter 10 | verified | `pages/0097-pudhaiyal.md` |
 | 98 | 96 | chapter 10 / four-star internal transition; part 002 endpoint | verified | `pages/0098-pudhaiyal.md` |
-| 99 | 97 | chapter 10 | not-started | `pages/0099-pudhaiyal.md` |
-| 100 | 98 | chapter 10 | not-started | `pages/0100-pudhaiyal.md` |
-| 101 | 99 | chapter 10 | not-started | `pages/0101-pudhaiyal.md` |
-| 102 | 100 | chapter 11 begins | not-started | `pages/0102-pudhaiyal.md` |
-| 103 | 101 | chapter 11 | not-started | `pages/0103-pudhaiyal.md` |
-| 104 | 102 | chapter 11 | not-started | `pages/0104-pudhaiyal.md` |
-| 105 | 103 | chapter 11 | not-started | `pages/0105-pudhaiyal.md` |
-| 106 | 104 | chapter 11 | not-started | `pages/0106-pudhaiyal.md` |
-| 107 | 105 | chapter 11 | not-started | `pages/0107-pudhaiyal.md` |
-| 108 | 106 | chapter 11 | not-started | `pages/0108-pudhaiyal.md` |
+| 99 | 97 | chapter 10 / four-star internal transition | verified | `pages/0099-pudhaiyal.md` |
+| 100 | 98 | chapter 10 | verified | `pages/0100-pudhaiyal.md` |
+| 101 | 99 | chapter 10 closes | verified | `pages/0101-pudhaiyal.md` |
+| 102 | 100 | chapter 11 begins | verified | `pages/0102-pudhaiyal.md` |
+| 103 | 101 | chapter 11 | verified | `pages/0103-pudhaiyal.md` |
+| 104 | 102 | chapter 11 | verified | `pages/0104-pudhaiyal.md` |
+| 105 | 103 | chapter 11 | verified | `pages/0105-pudhaiyal.md` |
+| 106 | 104 | chapter 11 | verified | `pages/0106-pudhaiyal.md` |
+| 107 | 105 | chapter 11 / four-star internal transition | verified | `pages/0107-pudhaiyal.md` |
+| 108 | 106 | chapter 11; Iteration 9 baseline ends before physical page end | partial | `pages/0108-pudhaiyal.md` |
 | 109 | 107 | chapter 11 | not-started | `pages/0109-pudhaiyal.md` |
 | 110 | 108 | chapter 12 begins | not-started | `pages/0110-pudhaiyal.md` |
 | 111 | 109 | chapter 12 | not-started | `pages/0111-pudhaiyal.md` |
@@ -171,11 +171,13 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 - Exact full-PDF scan/page-object count: **pending complete source reconciliation**
 - Split part 001: **scans 1–49 — COMPLETE / VERIFIED**
 - Split part 002: **scans 50–98 — COMPLETE / VERIFIED**
-- Page records actually created: **98**
-- `verified`: **98** — scans 1–98
+- Split part 003: **scans 99–147 — AVAILABLE; scans 99–107 VERIFIED; scan 108 PARTIAL**
+- Page records actually created: **108**
+- `verified`: **107** — scans 1–107
+- `partial`: **1** — scan 108
 - `needs-review`: **0**
-- unresolved readings through scan 98: **0**
-- remaining known-prefix rows `not-started`: **52**
+- unresolved readings through verified scan 107: **0**
+- remaining known-prefix rows `not-started`: **42**
 - full-source page-map coverage: **INCOMPLETE**
 - Source PDF / split PDFs stored in repository: **No**
 
@@ -191,11 +193,12 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 - chapter 7 — scan 69 begins; scan 75 closes chapter 7 and begins chapter 8
 - chapter 8 — scan 83 closes
 - chapter 9 — scan 84 begins; scan 92 closes
-- chapter 10 — scan 93 begins; scan 98 carries a four-star internal transition and **does not establish chapter or novel end**
-- later chapter checkpoints from scan 99 onward remain provisional until the next split-source pages are directly processed
+- chapter 10 — scan 93 begins; scan 98 four-star internal transition; scan 101 closes
+- chapter 11 — scan 102 begins; scan 107 four-star internal transition; scan 108 is currently partial
+- later chapter checkpoints from scan 109 onward remain provisional until the remaining split-source pages are directly processed
 
 No claim is made about the final chapter number or actual source ending.
 
 ## Exact next activity
 
-Obtain/use the next split beginning with **original scan 99 / printed page 97**. Verify continuity from scan 98's four-star internal separator, then continue the canonical page layer. Do not start English translation.
+Complete the **remaining lower portion of scan 108 / printed page 106** directly from split part 003, perform a full-page visual comparison, and promote scan 108 to `verified` only if no unresolved reading remains. Then continue from **scan 109 / printed page 107**. Do not start English translation.
