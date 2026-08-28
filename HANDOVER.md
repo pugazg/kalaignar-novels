@@ -37,7 +37,7 @@ Authority order:
 
 Do not silently modernize, repair, normalize, reconstruct or improve source-supported Tamil. Preserve spelling, punctuation, spacing, colloquial forms, typographical oddities, page boundaries and internal structure.
 
-## Mandatory old-glyph rule
+## Permanent old-glyph rule
 
 When the user supplies a transcription:
 
@@ -48,6 +48,8 @@ When the user supplies a transcription:
 - ambiguous old glyphs do **not** justify overriding the baseline;
 - ambiguous pages are `needs-review`;
 - `verified` requires a complete physical-page pass after all deltas are resolved.
+
+This rule was strengthened after the backward-integrity audit documented below.
 
 ---
 
@@ -115,7 +117,7 @@ The former `150 pages total` conclusion was wrong. Scans 1–150 are only a know
 
 - source scans: **50–98**
 - transcription coverage: complete
-- integrity state: scans 50–74 and 76–98 verified; scan 75 needs-review
+- integrity state: **49 / 49 verified after backward-integrity audit**
 - committed: **No**
 
 ## Part 003
@@ -130,28 +132,44 @@ The former `150 pages total` conclusion was wrong. Scans 1–150 are only a know
 
 ---
 
-# 6. Backward integrity audit — ACTIVE GATE
+# 6. Backward integrity audit — COMPLETE
 
 Central record:
 
 `works/pudhaiyal/notes/backward-integrity-audit-001-118.md`
 
-This audit was opened because assistant visual passes repeatedly misread old-print glyphs and then labelled those readings source-confirmed.
+The audit was opened because assistant visual passes repeatedly misread old-print glyphs and then labelled those readings source-confirmed.
 
-Material corrections already applied include:
+Material corrections applied include:
 
 - scan 4 `நூல் நிலையப் பதிப்பு`, colon after `மூன்றாம் பதிப்பு`;
 - scan 11 `இருக்கிறான்னு`;
 - scan 24 `அவர்களை நோக்கி`;
 - scan 25 `எதோ`;
 - scan 31 no full stop after `மூர்ச்சை யடைந்தான்`, plus `அவனைத்தழுவிக்`;
-- scan 75 `போயிடுச்சா?` assistant claim withdrawn; user's `போய்ட்டுதா?` restored as baseline, page reopened;
 - scan 99 `சொல்வேன் என்று... நான் யாருடைய...`;
 - scan 101 `அவரைப் பற்றி நன்கு விசாரிக்கவேண்டும் என்ற ஒரு ஆவல்...`;
 - scan 104 `நெடு நாள் பழக்கமா?`; `உடல் வளர்த்து` remains confirmed;
 - scan 106 `நான் வரத்தான் வேண்டுமா?`.
 
-The audit does **not** blindly revert every assistant delta. Source-supported earlier corrections remain when native images confirm them.
+The audit did **not** blindly revert every assistant delta. Source-supported earlier corrections remain when native images confirm them.
+
+## Scan 75 final old-glyph resolution
+
+The final unresolved item was அஞ்சலை's question on scan **75 / printed page 73**.
+
+Native source line wrap:
+
+- line 1: `போயிட்`
+- line 2: `டுதா?`
+
+Continuous source reading: **`போயிட்டுதா?`**.
+
+Therefore:
+
+- earlier assistant `போயிடுச்சா?` is confirmed wrong;
+- temporary baseline `போய்ட்டுதா?` is superseded;
+- scan 75 is now `verified`.
 
 ## Iteration 10 re-audit — COMPLETE
 
@@ -171,25 +189,24 @@ Protected / established examples:
 - scan 117 `பாத்துட்டான்னு சரின்னு சொல்லிடுவான்`;
 - scan 118 `மருங்கப்பள்ளத்துச் சிவன் கோயிலுக்கு`, `வேண்டும் என்று அவசர புத்தி`.
 
-Only **scan 75** remains open in the backward integrity audit.
-
 ---
 
 # 7. Current Tamil state
 
 - page records created: **118**
-- verified: **117**
-- needs-review: **1** — scan 75
+- verified: **118**
+- needs-review: **0**
 - partial: **0**
+- unresolved readings through scan 118: **0**
 - known-prefix not-started: **32** — scans 119–150
 - full-source page-map coverage: **INCOMPLETE**
-- backward integrity audit: **OPEN only for scan 75**
-- forward transcription: **FROZEN**
+- backward integrity audit: **COMPLETE through scan 118**
+- forward transcription: **UNBLOCKED from scan 119**
 - Tamil whole-work audit: **not started**
 - assembled Tamil layer: **blocked**
 - English translation: **blocked**
 
-Relevant fidelity records now include:
+Relevant fidelity records include:
 
 - `works/pudhaiyal/notes/visual-fidelity-scans-001-012.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-013-022.md`
@@ -240,17 +257,11 @@ Do not begin English translation until the complete Tamil source, source extent,
 
 # 10. Exact next activity
 
-Do **not** begin scan 119.
+Backward integrity is closed through scan 118.
 
-Resolve the single remaining integrity item: **scan 75 / printed page 73**, specifically the old-glyph sequence in அஞ்சலை's question.
+Resume forward transcription from **scan 119 / printed page 117** using split part 003 and the next user-supplied baseline.
 
-- previous assistant `போயிடுச்சா?` is already withdrawn;
-- user's `போய்ட்டுதா?` is the working baseline;
-- inspect the native glyph sequence directly;
-- do not override the baseline unless the pixels establish another reading;
-- if the exact sequence still cannot be established, keep the page `needs-review` rather than guessing.
-
-Only after scan 75 is closed may the backward integrity audit be marked complete and forward transcription resume from **scan 119 / printed page 117**.
+For every new disagreement, keep the permanent old-glyph rule: do not alter the baseline unless native scan pixels establish the alternate reading.
 
 Do not start English translation.
 
