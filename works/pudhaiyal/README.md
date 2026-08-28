@@ -30,7 +30,7 @@ See [`notes/source-page-count-reconciliation.md`](notes/source-page-count-reconc
 - represented source scans: **50–98**
 - split PDF pages: **49**
 - split size available in chat runtime: **54,231,932 bytes**
-- directly processed so far: **scans 50–72 / printed pages 48–70**
+- directly processed so far: **scans 50–82 / printed pages 48–80**
 - processed range state: **VERIFIED**
 - committed to repository: **No**
 
@@ -41,11 +41,11 @@ The split files are access derivatives of the controlling edition, not new editi
 - source identity — **confirmed**
 - scan-printed edition — **மூன்றாம் பதிப்பு, செப்டம்பர் 1961**
 - page map — **known prefix scans 1–150; full-source coverage incomplete**
-- Tamil page records created — **72**
-- `verified` — **72** (`scans 1–72`)
+- Tamil page records created — **82**
+- `verified` — **82** (`scans 1–82`)
 - `needs-review` — **0**
-- unresolved readings through scan 72 — **0**
-- remaining known-prefix rows `not-started` — **78**
+- unresolved readings through scan 82 — **0**
+- remaining known-prefix rows `not-started` — **68**
 - Tamil whole-work audit — **not started**
 - assembled Tamil reading layer — **blocked by Tamil audit gate**
 - English translation — **blocked by Tamil audit gate**
@@ -71,7 +71,8 @@ OCR, catalogue text, modern spelling and contextual expectation are aids only.
 - scans 23–32 — restored/reconciled after the user's hallucination warning; final 10/10 verified;
 - scans 33–49 — split part 001 completion; 17/17 verified;
 - scans 50–62 — Iteration 5 directly reconciled against part 002; 13/13 verified;
-- scans 63–72 — Iteration 6 directly reconciled against part 002; 10/10 verified.
+- scans 63–72 — Iteration 6 directly reconciled against part 002; 10/10 verified;
+- scans 73–82 — Iteration 7 directly reconciled against part 002; 10/10 verified.
 
 Detailed reports:
 
@@ -81,20 +82,21 @@ Detailed reports:
 - [`notes/visual-fidelity-scans-033-049.md`](notes/visual-fidelity-scans-033-049.md)
 - [`notes/visual-fidelity-scans-050-062.md`](notes/visual-fidelity-scans-050-062.md)
 - [`notes/visual-fidelity-scans-063-072.md`](notes/visual-fidelity-scans-063-072.md)
+- [`notes/visual-fidelity-scans-073-082.md`](notes/visual-fidelity-scans-073-082.md)
 
 ## Important latest reconciliation results
 
-The part-002 pass established several source corrections without relying on grammatical guesswork:
+The latest part-002 pass established the following directly from the page images:
 
-- scan 54: `கேட்கிறீயா`, not clean-baseline `சேட்கிறீயா`;
-- scan 56: `இமைகளைத்`, not `இமைகளை த்`;
-- scan 60: continuous `மனிதராயிற்றே`, removing the clean transcription's line-break artefact;
-- scan 62 → 63: the reply `அதற்குத்தான் ஆறுமாதமாக...` belongs to printed page 61 / scan 63, not scan 62;
-- scan 69: chapter numeral `7`, not `1`, and `எவ்வளவுதான்`;
-- scan 70: `காரணத்தால்` and `குறும்புக்காரக் கிழவா`;
-- scan 71: `பெரிய மனுஷா`.
+- scan 73 continues scan 72's unfinished `ஆத்திரத்தோடு,` sentence;
+- scan 75: `போயிடுச்சா?`, not clean-baseline `போய்ட்டுதா?`;
+- scan 75 / printed 73: chapter `7` closes and chapter **`8`** begins on the same physical page;
+- scan 77: `தொட்டுத் தொட்டுப்`, removing a clean-extraction split artefact;
+- scan 81: `வீசி யெறியப்பட்டன` as visibly printed;
+- scan 82: `சப்தமிட்டுக் கொண்டே`;
+- scan 82 / printed 80 ends mid-word at `ஆக்ரமிப்ப`; continuation belongs to scan 83.
 
-Source punctuation / dash pauses were restored throughout scans 50–72 instead of the clean extraction's systematic doubled punctuation.
+Source punctuation / dash pauses were restored instead of the clean extraction's systematic doubled punctuation. No ambiguous word was altered merely from contextual expectation.
 
 ## Physical structure established so far
 
@@ -110,7 +112,8 @@ Source punctuation / dash pauses were restored throughout scans 50–72 instead 
 - scan 60 / printed 58 — chapter 5 → 6 transition;
 - scan 68 / printed 66 — chapter 6 ends;
 - scan 69 / printed 67 — chapter 7 begins;
-- scan 72 / printed 70 — chapter 7 continues and ends mid-sentence at `ஆத்திரத்தோடு,`.
+- scan 75 / printed 73 — chapter 7 closes and chapter 8 begins on the same scan;
+- scan 82 / printed 80 — chapter 8 continues and ends mid-word at `ஆக்ரமிப்ப`.
 
 Later chapter boundaries and the true ending remain open until their split-source pages are processed.
 
@@ -128,6 +131,6 @@ Current prefix manifest: [`indexes/page-map.md`](indexes/page-map.md).
 
 ## Exact next activity
 
-Continue from **scan 73 / printed page 71** using split part 002. First preserve scan 72's unfinished ending `ஆத்திரத்தோடு,`, then process the next controlled transcription batch with the same page-by-page visual-fidelity rule.
+Continue from **scan 83 / printed page 81** using split part 002. First verify the continuation of scan 82's terminal `ஆக்ரமிப்ப`, then process the next controlled transcription batch with the same page-by-page visual-fidelity rule.
 
 Do not start English translation.
