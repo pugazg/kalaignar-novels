@@ -34,8 +34,8 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 - represented source scans: **50–98**
 - split page count: **49**
 - materialized file size available in chat runtime: **54,231,932 bytes**
-- verified range so far: **scans 50–72 / printed pages 48–70**
-- remaining part-002 scans not yet transcribed: **73–98**
+- verified range so far: **scans 50–82 / printed pages 48–80**
+- remaining part-002 scans not yet transcribed: **83–98**
 - committed to repository: **No**
 
 These splits are access derivatives of the same controlling edition and do not establish new editions.
@@ -78,7 +78,8 @@ Directly processed part-002 numbering confirms:
 - scan 63 → printed 61;
 - scan 68 → printed 66;
 - scan 69 → printed 67;
-- scan 72 → printed 70.
+- scan 75 → printed 73;
+- scan 82 → printed 80.
 
 ## Current work structure established by direct processed evidence
 
@@ -94,18 +95,19 @@ Directly processed part-002 numbering confirms:
 ├── scan 52: chapter 4 closes; chapter 5 begins
 ├── scan 60: chapter 5 closes; chapter 6 begins
 ├── scan 68: chapter 6 closes
-└── scan 69: chapter 7 begins and continues beyond scan 72
+├── scan 69: chapter 7 begins
+└── scan 75: chapter 7 closes; chapter 8 begins and continues beyond scan 82
 ```
 
 The embedded historical tale remains an internal textual unit, not a separate work.
 
 ## Canonical Tamil state
 
-- page records created: **72**
-- verified: **72** — scans 1–72
+- page records created: **82**
+- verified: **82** — scans 1–82
 - needs-review: **0**
-- unresolved readings through scan 72: **0**
-- known-prefix not-started rows: **78**
+- unresolved readings through scan 82: **0**
+- known-prefix not-started rows: **68**
 
 Latest direct part-002 corrections include:
 
@@ -115,7 +117,11 @@ Latest direct part-002 corrections include:
 - scan 62 → 63 physical boundary correction for `அதற்குத்தான் ஆறுமாதமாக...`;
 - scan 69 chapter `7` and `எவ்வளவுதான்`;
 - scan 70 `காரணத்தால்`, `குறும்புக்காரக் கிழவா`;
-- scan 71 `பெரிய மனுஷா`.
+- scan 71 `பெரிய மனுஷா`;
+- scan 75 `போயிடுச்சா?` and chapter `7` → `8` transition;
+- scan 77 `தொட்டுத் தொட்டுப்`;
+- scan 81 `வீசி யெறியப்பட்டன`;
+- scan 82 `சப்தமிட்டுக் கொண்டே` and physical ending at `ஆக்ரமிப்ப`.
 
 Fidelity records:
 
@@ -125,6 +131,7 @@ Fidelity records:
 - [`../notes/visual-fidelity-scans-033-049.md`](../notes/visual-fidelity-scans-033-049.md)
 - [`../notes/visual-fidelity-scans-050-062.md`](../notes/visual-fidelity-scans-050-062.md)
 - [`../notes/visual-fidelity-scans-063-072.md`](../notes/visual-fidelity-scans-063-072.md)
+- [`../notes/visual-fidelity-scans-073-082.md`](../notes/visual-fidelity-scans-073-082.md)
 
 ## Source condition
 
@@ -140,4 +147,4 @@ Observed processed scans show aged paper, staining / binding wear, intermittent 
 
 ## Exact next action
 
-Continue source transcription with **scan 73 / printed page 71** from part 002, preserving scan 72's unfinished `ஆத்திரத்தோடு,` continuity. Do not start English translation.
+Continue source transcription with **scan 83 / printed page 81** from part 002. First verify the continuation of scan 82's unfinished `ஆக்ரமிப்ப`; do not start English translation.
