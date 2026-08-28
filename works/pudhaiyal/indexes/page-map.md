@@ -4,11 +4,9 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 
 > **Extent warning:** this manifest currently covers only the known prefix through scan 150. It is **not** a complete-source manifest. Tamil Digital Library describes the item as **443 p.**; the exact full-PDF scan count remains pending later split reconciliation.
 
-> **Split-source state:** part 001 (`scans 1–49`) is COMPLETE / VERIFIED. Part 002 (`scans 50–98`) is available. Scans **50–82 / printed pages 48–80** have now been directly reconciled against part 002 and are VERIFIED with zero unresolved readings.
+> **Split-source state:** part 001 (`scans 1–49`) is COMPLETE / VERIFIED. Part 002 (`scans 50–98`) is now also **COMPLETE / VERIFIED**. All scans **1–98** currently represented by the two supplied splits have canonical page records and zero unresolved readings.
 
-> **Boundary correction history:** scan 62 / printed 60 ends with `எத்தனை மணியிருக்கும்?`; the reply `அதற்குத்தான் ஆறுமாதமாக...` is printed at the top of scan 63 / printed 61. Scan 82 / printed 80 ends mid-word at `ஆக்ரமிப்ப`; its continuation belongs to scan 83.
-
-> **Chapter corrections:** scan 69 / printed 67 visibly prints chapter numeral **`7`**, not the clean Iteration-6 `1`. Scan 75 / printed 73 closes chapter `7` and begins chapter **`8`** on the same physical page.
+> **Important split endpoint:** scan 98 is printed page **96**, not printed page 98. It carries a four-star internal separator and is only the end of split part 002, **not** the end of the novel.
 
 > **Printed-page rule:** record a printed page number only when visibly printed. Scan 13 therefore remains `—` rather than inferred as 11.
 
@@ -61,10 +59,10 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 | 43 | 41 | chapter 4 | verified | `pages/0043-pudhaiyal.md` |
 | 44 | 42 | chapter 4 | verified | `pages/0044-pudhaiyal.md` |
 | 45 | 43 | chapter 4 | verified | `pages/0045-pudhaiyal.md` |
-| 46 | 44 | chapter 4 / transition into embedded tale | verified | `pages/0046-pudhaiyal.md` |
-| 47 | 45 | chapter 4 / embedded historical tale | verified | `pages/0047-pudhaiyal.md` |
+| 46 | 44 | chapter 4 / four-star internal transition | verified | `pages/0046-pudhaiyal.md` |
+| 47 | 45 | chapter 4 / embedded historical tale begins | verified | `pages/0047-pudhaiyal.md` |
 | 48 | 46 | chapter 4 / embedded historical tale | verified | `pages/0048-pudhaiyal.md` |
-| 49 | 47 | chapter 4 / embedded historical tale; part 001 endpoint mid-sentence | verified | `pages/0049-pudhaiyal.md` |
+| 49 | 47 | chapter 4 / embedded historical tale; part 001 endpoint | verified | `pages/0049-pudhaiyal.md` |
 | 50 | 48 | chapter 4 / embedded historical tale continues | verified | `pages/0050-pudhaiyal.md` |
 | 51 | 49 | chapter 4 / embedded historical tale | verified | `pages/0051-pudhaiyal.md` |
 | 52 | 50 | chapter 4 closes / chapter 5 begins | verified | `pages/0052-pudhaiyal.md` |
@@ -98,22 +96,22 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 | 80 | 78 | chapter 8 | verified | `pages/0080-pudhaiyal.md` |
 | 81 | 79 | chapter 8 | verified | `pages/0081-pudhaiyal.md` |
 | 82 | 80 | chapter 8; ends mid-word at `ஆக்ரமிப்ப` | verified | `pages/0082-pudhaiyal.md` |
-| 83 | 81 | chapter 8 | not-started | `pages/0083-pudhaiyal.md` |
-| 84 | 82 | chapter 9 begins | not-started | `pages/0084-pudhaiyal.md` |
-| 85 | 83 | chapter 9 | not-started | `pages/0085-pudhaiyal.md` |
-| 86 | 84 | chapter 9 | not-started | `pages/0086-pudhaiyal.md` |
-| 87 | 85 | chapter 9 | not-started | `pages/0087-pudhaiyal.md` |
-| 88 | 86 | chapter 9 | not-started | `pages/0088-pudhaiyal.md` |
-| 89 | 87 | chapter 9 | not-started | `pages/0089-pudhaiyal.md` |
-| 90 | 88 | chapter 9 | not-started | `pages/0090-pudhaiyal.md` |
-| 91 | 89 | chapter 9 | not-started | `pages/0091-pudhaiyal.md` |
-| 92 | 90 | chapter 9 | not-started | `pages/0092-pudhaiyal.md` |
-| 93 | 91 | chapter 10 begins | not-started | `pages/0093-pudhaiyal.md` |
-| 94 | 92 | chapter 10 | not-started | `pages/0094-pudhaiyal.md` |
-| 95 | 93 | chapter 10 | not-started | `pages/0095-pudhaiyal.md` |
-| 96 | 94 | chapter 10 | not-started | `pages/0096-pudhaiyal.md` |
-| 97 | 95 | chapter 10 | not-started | `pages/0097-pudhaiyal.md` |
-| 98 | 96 | chapter 10 | not-started | `pages/0098-pudhaiyal.md` |
+| 83 | 81 | chapter 8 closes | verified | `pages/0083-pudhaiyal.md` |
+| 84 | 82 | chapter 9 begins | verified | `pages/0084-pudhaiyal.md` |
+| 85 | 83 | chapter 9 | verified | `pages/0085-pudhaiyal.md` |
+| 86 | 84 | chapter 9 | verified | `pages/0086-pudhaiyal.md` |
+| 87 | 85 | chapter 9 | verified | `pages/0087-pudhaiyal.md` |
+| 88 | 86 | chapter 9 | verified | `pages/0088-pudhaiyal.md` |
+| 89 | 87 | chapter 9 | verified | `pages/0089-pudhaiyal.md` |
+| 90 | 88 | chapter 9 | verified | `pages/0090-pudhaiyal.md` |
+| 91 | 89 | chapter 9 | verified | `pages/0091-pudhaiyal.md` |
+| 92 | 90 | chapter 9 closes | verified | `pages/0092-pudhaiyal.md` |
+| 93 | 91 | chapter 10 begins | verified | `pages/0093-pudhaiyal.md` |
+| 94 | 92 | chapter 10 | verified | `pages/0094-pudhaiyal.md` |
+| 95 | 93 | chapter 10 | verified | `pages/0095-pudhaiyal.md` |
+| 96 | 94 | chapter 10 | verified | `pages/0096-pudhaiyal.md` |
+| 97 | 95 | chapter 10 | verified | `pages/0097-pudhaiyal.md` |
+| 98 | 96 | chapter 10 / four-star internal transition; part 002 endpoint | verified | `pages/0098-pudhaiyal.md` |
 | 99 | 97 | chapter 10 | not-started | `pages/0099-pudhaiyal.md` |
 | 100 | 98 | chapter 10 | not-started | `pages/0100-pudhaiyal.md` |
 | 101 | 99 | chapter 10 | not-started | `pages/0101-pudhaiyal.md` |
@@ -172,30 +170,32 @@ Reconciliation note: [`../notes/source-page-count-reconciliation.md`](../notes/s
 - Tamil Digital Library bibliographic extent: **443 p.**
 - Exact full-PDF scan/page-object count: **pending complete source reconciliation**
 - Split part 001: **scans 1–49 — COMPLETE / VERIFIED**
-- Split part 002: **scans 50–98 — AVAILABLE**
-- Page records actually created: **82**
-- `verified`: **82** — scans 1–82
+- Split part 002: **scans 50–98 — COMPLETE / VERIFIED**
+- Page records actually created: **98**
+- `verified`: **98** — scans 1–98
 - `needs-review`: **0**
-- unresolved readings through scan 82: **0**
-- remaining known-prefix rows `not-started`: **68**
+- unresolved readings through scan 98: **0**
+- remaining known-prefix rows `not-started`: **52**
 - full-source page-map coverage: **INCOMPLETE**
 - Source PDF / split PDFs stored in repository: **No**
 
-## Structural checkpoints — known prefix only
+## Structural checkpoints — directly processed range
 
 - `அறிமுகம்` — scans 7–12
 - chapter 1 — scan 13 begins; scan 22 closes chapter 1 and begins chapter 2
 - chapter 2 — scan 30 closes chapter 2 and begins chapter 3
 - chapter 3 — scan 40 closes chapter 3 and begins chapter 4
-- chapter 4 — scan 46 internal four-star transition; scan 47 embedded historical tale begins; scan 52 closes chapter 4 and begins chapter 5
+- chapter 4 — scan 46 four-star internal transition; scan 47 embedded historical tale begins; scan 52 closes chapter 4 and begins chapter 5
 - chapter 5 — scan 60 closes chapter 5 and begins chapter 6
-- chapter 6 — scan 60 begins; scan 68 / printed 66 closes
-- chapter 7 — scan 69 / printed 67 begins; scan 75 / printed 73 closes
-- chapter 8 — begins on scan 75 / printed 73 and continues beyond scan 82
-- later chapter checkpoints through scan 150 remain provisional until their split-source pages are directly processed
+- chapter 6 — scan 68 closes
+- chapter 7 — scan 69 begins; scan 75 closes chapter 7 and begins chapter 8
+- chapter 8 — scan 83 closes
+- chapter 9 — scan 84 begins; scan 92 closes
+- chapter 10 — scan 93 begins; scan 98 carries a four-star internal transition and **does not establish chapter or novel end**
+- later chapter checkpoints from scan 99 onward remain provisional until the next split-source pages are directly processed
 
 No claim is made about the final chapter number or actual source ending.
 
 ## Exact next activity
 
-Continue from **scan 83 / printed page 81** using split part 002. First verify the continuation of scan 82's terminal `ஆக்ரமிப்ப`, then process the next controlled transcription batch. Do not start English translation.
+Obtain/use the next split beginning with **original scan 99 / printed page 97**. Verify continuity from scan 98's four-star internal separator, then continue the canonical page layer. Do not start English translation.
