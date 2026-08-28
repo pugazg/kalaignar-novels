@@ -4,10 +4,10 @@ printed_page: 109
 work: "pudhaiyal"
 section: "12"
 page_type: "body"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 10 baseline reconciled directly against split part 003 page image"
+transcription_method: "user-supplied Iteration 10 baseline loaded; backward-integrity re-audit pending"
 ---
 
 "மணிக்கணக்கா பேச வேண்டிய சமாசாரமோ? எனக்கு அவசரமா வேலையிருக்குதே!"
@@ -29,5 +29,9 @@ transcription_method: "user-supplied Iteration 10 baseline reconciled directly a
 ## Page-boundary continuity
 
 The physical page ends inside `எத்தகைய`: scan 111 ends `எத்த`; scan 112 begins `கைய`.
+
+## Integrity status
+
+The previous Iteration-10 `verified` label is suspended pending a fresh native-image audit of every assistant-introduced delta on this page.
 
 <!-- மூல ஸ்கேன் பக்கம்: 111; அச்சுப் பக்கம்: 109 -->
