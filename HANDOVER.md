@@ -111,8 +111,8 @@ The former `150 pages total` conclusion was wrong. Scans 1–150 are only a know
 - source scans: **50–98**
 - split pages: **49**
 - runtime size: **54,231,932 bytes**
-- directly processed / verified: **scans 50–72 / printed pages 48–70**
-- not yet transcribed in this split: **scans 73–98**
+- directly processed / verified: **scans 50–82 / printed pages 48–80**
+- not yet transcribed in this split: **scans 83–98**
 - committed: **No**
 
 These split files are access derivatives of the controlling edition, not new editions.
@@ -121,13 +121,13 @@ These split files are access derivatives of the controlling edition, not new edi
 
 # 6. Current Tamil state
 
-Canonical page records exist through scan **72**.
+Canonical page records exist through scan **82**.
 
-- page records created: **72**
-- verified: **72** — scans 1–72
+- page records created: **82**
+- verified: **82** — scans 1–82
 - needs-review: **0**
-- unresolved readings through scan 72: **0**
-- known-prefix rows not-started: **78**
+- unresolved readings through scan 82: **0**
+- known-prefix rows not-started: **68**
 - full-source page-map coverage: **INCOMPLETE**
 - Tamil whole-work audit: **not started**
 - assembled Tamil layer: **blocked**
@@ -141,36 +141,36 @@ Fidelity records:
 - `works/pudhaiyal/notes/visual-fidelity-scans-033-049.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-050-062.md` — **13/13 verified**
 - `works/pudhaiyal/notes/visual-fidelity-scans-063-072.md` — **10/10 verified**
+- `works/pudhaiyal/notes/visual-fidelity-scans-073-082.md` — **10/10 verified**
 
 ---
 
-# 7. Latest reconciliation — part 002 scans 50–72
+# 7. Latest reconciliation — part 002 scans 73–82
 
-The user supplied Iteration 5 for printed pages 48–60 and Iteration 6 for printed pages 61–70. Both were re-mapped to physical source scans and compared directly with part 002.
+The user's Iteration 7 for printed pages 71–80 was mapped to original scans **73–82** and compared directly with split part 002 pages 24–33.
 
-## Important physical-boundary correction
+Important results:
 
-The supplied Iteration 5 accidentally continued one line into the next printed page. Source inspection establishes:
+- scan 73 directly continues scan 72's unfinished `ஆத்திரத்தோடு,` sentence;
+- scan 75 / printed 73 prints `போயிடுச்சா?`, not the clean baseline's `போய்ட்டுதா?`;
+- scan 75 closes chapter `7` and begins chapter **`8`** on the same physical page, with a printed rule and numeral `8`;
+- scan 77 prints `தொட்டுத் தொட்டுப்`, correcting a clean-extraction split artefact;
+- scan 81 prints `வீசி யெறியப்பட்டன` with the visible separation retained;
+- scan 82 prints `சப்தமிட்டுக் கொண்டே`;
+- scan 82 / printed 80 ends mid-word at `ஆக்ரமிப்ப`; continuation belongs to scan 83 / printed 81.
 
-- scan 62 / printed 60 ends with: `எத்தனை மணியிருக்கும்?`
-- scan 63 / printed 61 begins with: `அதற்குத்தான் ஆறுமாதமாக...`
+Physical boundary checkpoints include:
 
-`0062-pudhaiyal.md` and `0063-pudhaiyal.md` now preserve the actual boundary.
+1. scan 73 `நன்றாகத்` → scan 74 `தூங்கிக் கொண்டிருந்தாள்.`;
+2. scan 74 `ஒரு` → scan 75 `முரட்டுக் கிழவன்...`;
+3. scan 75 `ஊராத்துரை லைட்` → scan 76 `ஹவுஸ் தெரிஞ்சுட்டா...`;
+4. scan 76 `இலங்கை போன` → scan 77 `பிறகும் அவன்...`;
+5. scan 78 `விழுந்து` → scan 79 `விட ஐயப்பன் விடவில்லை.`;
+6. scan 79 `அந்தக்` → scan 80 `கல் காந்தம் போல்...`;
+7. scan 80 `பாயை மாத்தி கட்டுடா;` → scan 81 `பரதேசிப் பயலே!`;
+8. scan 82 ends at `ஆக்ரமிப்ப`.
 
-## Other source-established corrections
-
-- scan 54 / printed 52: `கேட்கிறீயா`, not `சேட்கிறீயா`;
-- scan 56 / printed 54: `இமைகளைத்`, not `இமைகளை த்`;
-- scan 60 / printed 58: continuous `மனிதராயிற்றே`, removing the clean transcription's line-break artefact;
-- scan 69 / printed 67: chapter numeral **`7`**, not `1`;
-- scan 69: `எவ்வளவுதான்`, not `எவ்வளவுதான`;
-- scan 70 / printed 68: `காரணத்தால்`, not `சாரணத்தால்`;
-- scan 70: `குறும்புக்காரக் கிழவா`;
-- scan 71 / printed 69: `பெரிய மனுஷா`, not `பெரிமனுஷா`.
-
-Source punctuation and dash pauses were restored through scans 50–72 instead of retaining the clean extraction's systematic `..`, `!.`, `?.` punctuation.
-
-No ambiguous old-print word was changed merely from expectation.
+Source punctuation / dash pauses were restored rather than the clean extraction's systematic doubled punctuation. No ambiguous old-print word was changed merely from expectation.
 
 ---
 
@@ -188,7 +188,8 @@ No ambiguous old-print word was changed merely from expectation.
 - scan 60 / printed 58 — chapter 5 → 6 transition;
 - scan 68 / printed 66 — chapter 6 closes;
 - scan 69 / printed 67 — chapter 7 begins;
-- scan 72 / printed 70 — chapter 7 continues and ends mid-sentence at `ஆத்திரத்தோடு,`.
+- scan 75 / printed 73 — chapter 7 closes / chapter 8 begins;
+- scan 82 / printed 80 — chapter 8 continues and ends mid-word at `ஆக்ரமிப்ப`.
 
 The embedded historical tale is an internal textual unit of the novel, not a separate work.
 
@@ -214,13 +215,13 @@ Do not begin English translation until:
 
 # 10. Exact next activity
 
-Continue directly with **scan 73 / printed page 71** from part 002.
+Continue directly with **scan 83 / printed page 81** from part 002.
 
 Before advancing:
 
-1. preserve scan 72's unfinished ending `ஆத்திரத்தோடு,`;
-2. inspect scan 73's opening and verify the continuation;
-3. transcribe the next controlled batch from part 002;
+1. preserve scan 82's unfinished terminal `ஆக்ரமிப்ப`;
+2. inspect scan 83's opening and verify the mid-word continuation;
+3. process the next user-supplied controlled batch from part 002;
 4. preserve physical page boundaries and printed punctuation;
 5. apply only visually established source-vs-baseline corrections;
 6. update page map / README / handover at the next meaningful activity boundary.
