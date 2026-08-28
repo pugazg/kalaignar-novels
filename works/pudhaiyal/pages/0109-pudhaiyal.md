@@ -4,10 +4,10 @@ printed_page: 107
 work: "pudhaiyal"
 section: "11"
 page_type: "body"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 10 baseline reconciled directly against split part 003 page image"
+transcription_method: "user-supplied Iteration 10 baseline loaded; backward-integrity re-audit pending"
 ---
 
 "என்னா பிரதர்! ஒரே டல்லா இருக்கு லைப்!" — இது துக்காராம்.
@@ -27,5 +27,9 @@ transcription_method: "user-supplied Iteration 10 baseline reconciled directly a
 "அது சரியப்பா! என்னமோ எங்களால் முடிந்தது அவள் ஊரைத்தான் விசாரித்துச் சொன்னோம். அவளிடமே உன்னை அழைத்துப் போகமுடியுமா, அல்லியிடம் அர்ச்சுனனை அழைத்துப்போன மாதிரி!"
 
 "ஏன் அழைத்துப் போனால் என்னவாம் — திறமை வில்லேன்னு சொல்லுங்கடா!"
+
+## Integrity status
+
+The previous Iteration-10 verification claim is suspended. The user's direct check confirms the opening `என்னா பிரதர்!`; do not replace the final old-form glyph by assistant interpretation. The rest of the page still requires the controlled backward-integrity pass before `verified` can be restored.
 
 <!-- மூல ஸ்கேன் பக்கம்: 109; அச்சுப் பக்கம்: 107 -->
