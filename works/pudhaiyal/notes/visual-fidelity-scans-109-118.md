@@ -16,7 +16,7 @@ Controlling access split:
 - comparison baseline: user Iteration 10
 - source/split PDF committed to repository: **No**
 
-This batch was reopened because an earlier assistant pass had promoted the pages before completing a reliable native-image audit. Every page was therefore reset to `needs-review` and rechecked against native split-source pixels. Old-form glyphs were not replaced merely from grammar or expectation.
+This batch was reopened because an earlier assistant pass had promoted the pages before completing a reliable native-image audit. Every page was reset to `needs-review` and rechecked against native split-source pixels. Old-form glyphs were not replaced merely from grammar or expectation.
 
 ## Source-established results
 
@@ -54,8 +54,9 @@ This batch was reopened because an earlier assistant pass had promoted the pages
 
 - source prints `காதல் லக்ஷணம்னு`;
 - source prints `முன்னேயே`;
-- source prints `துக்காராம் பாட்ட ஆரம்பித்து விட்டான்`;
-- source prints `பாட்டை ஆரம்பித்து`;
+- source prints `துக்காராம் பாட்டு ஆரம்பித்து விட்டான்`;
+- source prints `"காயாத கானகத்தே!" என்ற பாட்டை ஆரம்பித்து`;
+- source prints `அரைப் பயித்தியமாயிருக்கிறதாக்கும்`;
 - source prints `பாடிக் கொண்டிருக்கும்`.
 
 ### Scan 115 / printed 113
@@ -68,6 +69,7 @@ This batch was reopened because an earlier assistant pass had promoted the pages
 
 - opening `வாரமாகிறது.` completes scan 115;
 - source prints `செத்துப்போயி கூட`;
+- source preserves the grammatically odd `அவர்கள் ஆசிரியர் விடவில்லை` rather than regularizing it to `அவர்களை...`;
 - source prints separated `நான் தான்`;
 - source prints `நல்ல முடிவு தம்பி!`;
 - source prints `படித்து விட்டு`.
@@ -104,10 +106,16 @@ This batch was reopened because an earlier assistant pass had promoted the pages
 - `../pages/0117-pudhaiyal.md`
 - `../pages/0118-pudhaiyal.md`
 
-All ten records are now `verified` after the backward-integrity native-image pass.
+All ten records are `verified` after the backward-integrity native-image pass.
 
-## Remaining integrity gate
+## Gate state after this batch
 
-Scan **75 / printed page 73** remains `needs-review` because the old glyph sequence in அஞ்சலை's question is still unresolved. The former assistant `போயிடுச்சா?` claim has already been withdrawn and the user's `போய்ட்டுதா?` restored as the working baseline.
+The separate scan-75 old-glyph dispute has also been resolved by native inspection. Its physical line wrap `போயிட்` / `டுதா?` establishes continuous `போயிட்டுதா?`.
 
-Forward transcription remains frozen until scan 75 is resolved.
+Therefore the backward-integrity gate is **closed through scan 118**:
+
+- scans 1–118: **118 / 118 verified**;
+- `needs-review`: **0**;
+- unresolved readings through scan 118: **0**.
+
+Forward transcription may resume from **scan 119 / printed page 117**. Do not begin English translation.
