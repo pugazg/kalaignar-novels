@@ -34,19 +34,16 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 - represented source scans: **50–98**
 - split page count: **49**
 - materialized file size available in chat runtime: **54,231,932 bytes**
-- verified range so far: **scans 50–82 / printed pages 48–80**
-- remaining part-002 scans not yet transcribed: **83–98**
+- visibly printed page range: **48–96**
+- status: **COMPLETE / VERIFIED — 49 / 49**
 - committed to repository: **No**
 
 These splits are access derivatives of the same controlling edition and do not establish new editions.
 
-## Title / authorship visible in scan
+## Title / publication data visible in scan
 
 - Title: **புதையல்**
 - Author: **கலைஞர் மு. கருணாநிதி, எம். எல். ஏ.**
-
-## Publication details visible in scan
-
 - Publisher / imprint: **அன்புப் பதிப்பகம்**
 - Place: **பொறையார் :: தஞ்சை மாவட்டம்**
 - Edition: **மூன்றாம் பதிப்பு**
@@ -54,34 +51,26 @@ These splits are access derivatives of the same controlling edition and do not e
 - Price lines:
   - **சாதாரணப் பதிப்பு ரூ 5/-**
   - **ஸ்பெஷல் பதிப்பு ரூ 6/-**
-- scan 5 heading: **`பதிப்புரை`**
 
-A Tamil Digital Library summary elsewhere says `முதல் பதிப்பு, 1961`; this catalogue wording does **not** override the scan-printed `மூன்றாம் பதிப்பு, செப்டம்பர், 1961`.
-
-## Front-matter / provenance observations
-
-- scan 1 — cover with printed title / author / publisher-place;
-- scan 2 — largely blank reverse with later donation/provenance line;
-- scan 3 — title page with copy-specific handwritten signature/date-like mark, not edition text;
-- scan 4 — price / edition page;
-- scan 5 — `பதிப்புரை`;
-- scan 6 — effectively blank / stained.
+A Tamil Digital Library summary elsewhere says `முதல் பதிப்பு, 1961`; it does **not** override the scan-printed edition statement.
 
 ## Printed-page rule
 
-Record a printed number only when actually visible. Scan 13 is between printed pages 10 and 12 but shows no printed page number and therefore remains `null` / `—`.
+Record a printed number only when visibly printed. Scan 13 remains `null` / `—` because no printed number is visible.
 
-Directly processed part-002 numbering confirms:
+Directly processed part-002 numbering now establishes:
 
 - scan 50 → printed 48;
-- scan 62 → printed 60;
-- scan 63 → printed 61;
-- scan 68 → printed 66;
-- scan 69 → printed 67;
 - scan 75 → printed 73;
-- scan 82 → printed 80.
+- scan 83 → printed 81;
+- scan 84 → printed 82;
+- scan 92 → printed 90;
+- scan 93 → printed 91;
+- scan 98 → printed **96**.
 
-## Current work structure established by direct processed evidence
+The part filename ending in `98` refers to **source scan 98**, not printed page 98.
+
+## Current work structure established by direct evidence
 
 ```text
 புதையல்
@@ -96,46 +85,33 @@ Directly processed part-002 numbering confirms:
 ├── scan 60: chapter 5 closes; chapter 6 begins
 ├── scan 68: chapter 6 closes
 ├── scan 69: chapter 7 begins
-└── scan 75: chapter 7 closes; chapter 8 begins and continues beyond scan 82
+├── scan 75: chapter 7 closes; chapter 8 begins
+├── scan 83: chapter 8 closes
+├── scan 84: chapter 9 begins
+├── scan 92: chapter 9 closes
+├── scan 93: chapter 10 begins
+└── scan 98: four-star internal transition inside chapter 10; not source end
 ```
-
-The embedded historical tale remains an internal textual unit, not a separate work.
 
 ## Canonical Tamil state
 
-- page records created: **82**
-- verified: **82** — scans 1–82
+- page records created: **98**
+- verified: **98** — scans 1–98
 - needs-review: **0**
-- unresolved readings through scan 82: **0**
-- known-prefix not-started rows: **68**
+- unresolved readings through scan 98: **0**
+- known-prefix not-started rows: **52**
 
-Latest direct part-002 corrections include:
+Latest Iteration-8 scan-established corrections include:
 
-- scan 54 `கேட்கிறீயா`;
-- scan 56 `இமைகளைத்`;
-- scan 60 `மனிதராயிற்றே` after removal of a clean-transcription line-break artefact;
-- scan 62 → 63 physical boundary correction for `அதற்குத்தான் ஆறுமாதமாக...`;
-- scan 69 chapter `7` and `எவ்வளவுதான்`;
-- scan 70 `காரணத்தால்`, `குறும்புக்காரக் கிழவா`;
-- scan 71 `பெரிய மனுஷா`;
-- scan 75 `போயிடுச்சா?` and chapter `7` → `8` transition;
-- scan 77 `தொட்டுத் தொட்டுப்`;
-- scan 81 `வீசி யெறியப்பட்டன`;
-- scan 82 `சப்தமிட்டுக் கொண்டே` and physical ending at `ஆக்ரமிப்ப`.
+- scan 84 `வேகமான நடையிலே`;
+- scan 85 `விட்டதாகவும்`;
+- scan 87 `அந்த உப்பரிகைத் தளத்தில்`;
+- scan 88 excludes a clean-baseline sentence not present in the source;
+- scan 91 `முடியாதா`;
+- scan 97 `சில விநாடிகள்`, `தெவிட்டுவதற்கு`;
+- scan 98 printed page **96** with a four-star internal separator.
 
-Fidelity records:
-
-- [`../notes/visual-fidelity-scans-001-012.md`](../notes/visual-fidelity-scans-001-012.md)
-- [`../notes/visual-fidelity-scans-013-022.md`](../notes/visual-fidelity-scans-013-022.md)
-- [`../notes/visual-fidelity-scans-023-032.md`](../notes/visual-fidelity-scans-023-032.md)
-- [`../notes/visual-fidelity-scans-033-049.md`](../notes/visual-fidelity-scans-033-049.md)
-- [`../notes/visual-fidelity-scans-050-062.md`](../notes/visual-fidelity-scans-050-062.md)
-- [`../notes/visual-fidelity-scans-063-072.md`](../notes/visual-fidelity-scans-063-072.md)
-- [`../notes/visual-fidelity-scans-073-082.md`](../notes/visual-fidelity-scans-073-082.md)
-
-## Source condition
-
-Observed processed scans show aged paper, staining / binding wear, intermittent bleed-through, and occasional copy-specific handwriting / underlining / marginal marks. Such non-edition marks must remain separate from printed text.
+Latest fidelity record: [`../notes/visual-fidelity-scans-083-098.md`](../notes/visual-fidelity-scans-083-098.md).
 
 ## Completeness still open
 
@@ -147,4 +123,4 @@ Observed processed scans show aged paper, staining / binding wear, intermittent 
 
 ## Exact next action
 
-Continue source transcription with **scan 83 / printed page 81** from part 002. First verify the continuation of scan 82's unfinished `ஆக்ரமிப்ப`; do not start English translation.
+Obtain/use the next split beginning with **original scan 99 / printed page 97**. Continue chapter 10 from the four-star separator on scan 98. Do not start English translation.
