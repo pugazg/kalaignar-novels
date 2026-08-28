@@ -24,7 +24,7 @@ The supplied continuous transcription was remapped to the sixteen physical scan 
 - scan 84 / printed 82 begins chapter **9** and prints `வேகமான நடையிலே`, not the clean baseline's `வேசமான நடையிலே`; the within-page line-wrap form `தரை / யிலும்` is represented canonically as `தரையிலும்`.
 - scan 85 / printed 83 supports continuous `விட்டதாகவும்`; the clean extraction's `விட்ட தாகவும்` was a line/text separation artefact.
 - scan 87 / printed 85 prints `அந்த உப்பரிகைத் தளத்தில்`, not `தளத்தில`; it also ends inside `நினைவுச் சுருள்கள்` as `நினைவுச் சுருள்`.
-- scan 88 / printed 86 begins `கள்`, completing that word. The clean Iteration-8 text additionally supplied `குரலிலே அதிகாரம், முரட்டுத் தனம் இருந்ததே தவிர கனிவு இல்லை.` between the two threat lines; direct scan inspection does **not** show that sentence, so it was not inserted into the canonical text.
+- scan 88 / printed 86 begins `கள்`, completing that word. The sentence `குரலிலே அதிகாரம், முரட்டுத் தனம் இருந்ததே தவிர கனிவு இல்லை.` is retained from the user's baseline because closer inspection confirms it belongs at the end of this scan. An earlier low-confidence thumbnail reading that treated it as absent was withdrawn before this audit was finalized.
 - scan 91 / printed 89 prints continuous `முடியாதா`; the clean extraction's `முடியா தா` was not retained.
 - scan 92 / printed 90 closes chapter 9; scan 93 / printed 91 begins chapter **10**.
 - scan 97 / printed 95 supports `சில விநாடிகள்` and continuous `தெவிட்டுவதற்கு`, rather than clean-extraction `சிலவினாடிகள்` and `தெவிட்டு தற்கு`.
@@ -37,6 +37,7 @@ The supplied continuous transcription was remapped to the sixteen physical scan 
 - scan 85 → 86: `தூக்கிக்கொண்டு` / `போவது போலவும்...`
 - scan 86 → 87: `தூக்கிக் கொண்டுபோய்` / `மனோராவின் முதல் தளத்தில்...`
 - scan 87 → 88: `நினைவுச் சுருள்` / `கள்...`
+- scan 88 ends after the authority/harshness sentence; scan 89 begins with the repeated `எழுந்திரு! இல்லேன்னா......` threat.
 - scan 89 → 90: scan 89 ends with பரிமளா saying `நீர் என்ன பேசுகிறீர் என்றே எனக்குப் புரியவில்லை அய்யா!`; scan 90 begins அம்பலம்'s `நீ மறுபடியும் வீட்டுக்குப் போயிபாரு!...`
 - scan 90 → 91: scan 91 begins `என்ன கண்டு பிடிச்சேனா?...`
 - scan 92 → 93: chapter 9 closes; chapter 10 starts.
@@ -65,7 +66,7 @@ The supplied continuous transcription was remapped to the sixteen physical scan 
 - `../pages/0097-pudhaiyal.md`
 - `../pages/0098-pudhaiyal.md`
 
-All sixteen records are `verified` after the direct page-by-page comparison.
+All sixteen records are `verified` after the final direct page-by-page comparison.
 
 ## Part-002 completion
 
