@@ -118,12 +118,27 @@ Native derivative facts:
 - scan 167 source reads `பழைய டைரிகளை`, not baseline `புழைய டைரிகளை`.
 - scan 167 has a source-printed four-star internal separator omitted by the baseline; it is restored canonically.
 
+### Iteration 15 — scans 168–177
+
+- **10 / 10 verified**; unresolved **0**.
+- fidelity: `works/pudhaiyal/notes/visual-fidelity-scans-168-177.md`
+- scan 169 source `கிட்டாதாயின் வெட்டென மற`;
+- scan 170 source `சூறையாட`, `வெள்ளைக்காரியிடம்`, `ஆண்போல`;
+- scan 171 source `போலீசாருக்கு ஆதாரம் போதாதா என்ன?`; chapter 18 closes here;
+- scan 172 source-prints chapter **19**;
+- scan 173 source-odd `வைப்பானை, என்கிற யோசனை`;
+- scan 173 `வள்ளி வெட்டப்` + scan 174 `பட வேண்டும்` = `வள்ளி வெட்டப்பட வேண்டும்`;
+- scan 174 source `யாருமற்ற அனாதியாய்`;
+- scan 175 source `பலநாள் பட்டினி கிடந்திருப்போம்` and source-odd `உடல் மண்ணோடு மண்ணுக்கிவிட்டு`;
+- scan 176 source `பாட்டி! பாட்டி!`;
+- scan 177 source `பொக்கை வாய்த் திறந்து` and ends physically at `அந்தகார இருட்டிலே,`.
+
 Current Part-004 canonical state:
 
-- scans **148–167**: **20 / 20 verified**
+- scans **148–177**: **30 / 30 verified**
 - needs-review: **0**
 - unresolved readings: **0**
-- scans **168–196**: **29 not-started**
+- scans **178–196**: **19 not-started**
 
 Source-confirmed structure for Part 004:
 
@@ -137,11 +152,11 @@ Source-confirmed structure for Part 004:
 
 ## Canonical Tamil aggregate state
 
-- page records created / verified continuously through: **scan 167**
-- verified: **167**
+- page records created / verified continuously through: **scan 177**
+- verified: **177**
 - needs-review in verified range: **0**
 - partial in verified range: **0**
-- unresolved readings through scan 167: **0**
+- unresolved readings through scan 177: **0**
 - full-source page-map coverage: **INCOMPLETE**
 - Tamil whole-work audit: not yet eligible
 - assembled Tamil whole-work final pass: not yet eligible
@@ -152,7 +167,9 @@ While Part 004 is in progress, use `works/pudhaiyal/indexes/part-004-page-map.md
 
 ## Exact next activity
 
-Resume **Part 004 at scan 168 / printed page 166 / split page 21** using the next user-supplied baseline and native source page.
+Resume **Part 004 at scan 178 / printed page 176 / split page 31** using the next user-supplied baseline and native source page.
+
+Important active boundary: scan 177 ends at **`அந்தகார இருட்டிலே,`**. Do not infer its continuation from grammar or context; scan 178 must establish the next text from native source pixels.
 
 Continue canonical Tamil / fidelity batches until scans **148–196** are all verified. Then, before accepting another split, complete:
 
