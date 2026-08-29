@@ -57,11 +57,14 @@ The following remain whole-source gates and cannot be closed per split:
 
 These gates are aggregated only after all split ranges and the true source ending/back matter are known.
 
-## Current backfill request
+## Completed split checkpoints
 
-The first two supplied derivatives are being backfilled under this workflow:
+- Part 001 — scans **1–49** — **`part-complete`**
+- Part 002 — scans **50–98** — **`part-complete`**
+- Part 003 — scans **99–147** — **`part-complete`**
 
-- Part 001 — scans 1–49;
-- Part 002 — scans 50–98.
+Part 003 ends mid-sentence at scan 147 / printed page 145 with `அடங்கித்தான் போய்`. The next source derivative must begin by verifying that continuation from native evidence.
 
-Both already have fully verified canonical page records after the backward-integrity recovery. Their remaining derived-layer and bilingual stages are to be completed before normal forward work continues.
+## Next split
+
+The next derivative should begin at **scan 148 / printed page 146**. Apply the same complete workflow to that derivative before asking for any later split.
