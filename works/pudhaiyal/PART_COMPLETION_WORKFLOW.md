@@ -69,18 +69,20 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_004_pages_148-196
 - visibly printed range: **146–194**
 - derivative-local map: [`indexes/part-004-page-map.md`](indexes/part-004-page-map.md)
 - structural preflight: [`notes/part-004-structural-preflight-148-196.md`](notes/part-004-structural-preflight-148-196.md)
-- fidelity reports: [`notes/visual-fidelity-scans-148-158.md`](notes/visual-fidelity-scans-148-158.md), [`notes/visual-fidelity-scans-159-167.md`](notes/visual-fidelity-scans-159-167.md)
-- canonical Tamil verified: **scans 148–167 — 20 / 49**
+- fidelity reports: [`notes/visual-fidelity-scans-148-158.md`](notes/visual-fidelity-scans-148-158.md), [`notes/visual-fidelity-scans-159-167.md`](notes/visual-fidelity-scans-159-167.md), [`notes/visual-fidelity-scans-168-177.md`](notes/visual-fidelity-scans-168-177.md)
+- canonical Tamil verified: **scans 148–177 — 30 / 49**
 - unresolved readings in verified range: **0**
-- remaining canonical range: **168–196 — 29 scans**
+- remaining canonical range: **178–196 — 19 scans**
 - current state: **in progress**
 
-Closed internal boundary from Iteration 14:
+Closed internal boundaries include:
 
-- scan 158 ends `டாக்`;
-- scan 159 begins `துரைக்கு`;
-- continuous source reading: **`டாக்துரைக்கு`**.
+- scan 158 `டாக்` → scan 159 `துரைக்கு` = **`டாக்துரைக்கு`**;
+- scan 171 closes chapter 18 and scan 172 begins chapter **19**;
+- scan 173 `வள்ளி வெட்டப்` → scan 174 `பட வேண்டும்` = **`வள்ளி வெட்டப்பட வேண்டும்`**;
+- scan 175 `பூமியைத்` → scan 176 `தயார் செய்து வைத்திருக்கிறார்கள்`;
+- scan 176 `“சிறிது` → scan 177 `நேரத்தில் உயிர் போய்விடும்”`.
 
-The exact next source activity is **scan 168 / printed page 166 / split page 21**.
+The exact next source activity is **scan 178 / printed page 176 / split page 31**. Scan 177 ends physically at `அந்தகார இருட்டிலே,`; its continuation must be established from scan 178 native source pixels.
 
 After all scans 148–196 are verified, complete Part 004's Tamil audit, assembled Tamil, English translation, bilingual review and status synchronization before moving to another split.
