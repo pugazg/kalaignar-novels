@@ -69,10 +69,10 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_004_pages_148-196
 - visibly printed range: **146–194**
 - derivative-local map: [`indexes/part-004-page-map.md`](indexes/part-004-page-map.md)
 - structural preflight: [`notes/part-004-structural-preflight-148-196.md`](notes/part-004-structural-preflight-148-196.md)
-- fidelity reports: [`notes/visual-fidelity-scans-148-158.md`](notes/visual-fidelity-scans-148-158.md), [`notes/visual-fidelity-scans-159-167.md`](notes/visual-fidelity-scans-159-167.md), [`notes/visual-fidelity-scans-168-177.md`](notes/visual-fidelity-scans-168-177.md)
-- canonical Tamil verified: **scans 148–177 — 30 / 49**
+- fidelity reports: [`notes/visual-fidelity-scans-148-158.md`](notes/visual-fidelity-scans-148-158.md), [`notes/visual-fidelity-scans-159-167.md`](notes/visual-fidelity-scans-159-167.md), [`notes/visual-fidelity-scans-168-177.md`](notes/visual-fidelity-scans-168-177.md), [`notes/visual-fidelity-scans-178-187.md`](notes/visual-fidelity-scans-178-187.md)
+- canonical Tamil verified: **scans 148–187 — 40 / 49**
 - unresolved readings in verified range: **0**
-- remaining canonical range: **178–196 — 19 scans**
+- remaining canonical range: **188–196 — 9 scans**
 - current state: **in progress**
 
 Closed internal boundaries include:
@@ -81,8 +81,15 @@ Closed internal boundaries include:
 - scan 171 closes chapter 18 and scan 172 begins chapter **19**;
 - scan 173 `வள்ளி வெட்டப்` → scan 174 `பட வேண்டும்` = **`வள்ளி வெட்டப்பட வேண்டும்`**;
 - scan 175 `பூமியைத்` → scan 176 `தயார் செய்து வைத்திருக்கிறார்கள்`;
-- scan 176 `“சிறிது` → scan 177 `நேரத்தில் உயிர் போய்விடும்”`.
+- scan 176 `“சிறிது` → scan 177 `நேரத்தில் உயிர் போய்விடும்”`;
+- scan 177 `அந்தகார இருட்டிலே,` → scan 178 `தளிர்களான நாங்கள்...`;
+- scan 178 `எனக்கும், என் தங்கை` → scan 179 `தேயிலைக் காடுகளின்...`;
+- scan 179 closes chapter 19 / begins chapter **20**;
+- scan 179 `உப்பரிகையின் மேல்` → scan 180 `தளம் வரையிலே`;
+- scan 181 `அப்` → scan 182 `படி` = **`அப்படி`**;
+- scan 184 `ஒரு ரத்தம்` → scan 185 `தோய்ந்த அரிவாள்`;
+- scan 187 closes chapter 20 / begins chapter **21**.
 
-The exact next source activity is **scan 178 / printed page 176 / split page 31**. Scan 177 ends physically at `அந்தகார இருட்டிலே,`; its continuation must be established from scan 178 native source pixels.
+The exact next source activity is **scan 188 / printed page 186 / split page 41**. Scan 187 ends physically at `அதுகூட`; its continuation must be established from scan 188 native source pixels.
 
 After all scans 148–196 are verified, complete Part 004's Tamil audit, assembled Tamil, English translation, bilingual review and status synchronization before moving to another split.
