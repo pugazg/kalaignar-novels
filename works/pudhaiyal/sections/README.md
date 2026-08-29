@@ -24,14 +24,23 @@ When a word or sentence crosses a source-page or split boundary, the readable la
 - `07-chapter-7.md` — scans 69–75 chapter-7 portion — verified
 - `08-chapter-8.md` — scan 75 chapter-8 portion → scan 83 — verified
 - `09-chapter-9.md` — scans 84–92 — verified
-- `10-chapter-10.md` — scans 93–98 — verified through Part 002; chapter 10 continues on scan 99
+- `10-chapter-10.md` — scans 93–98 — verified Part-002 portion
+- `checkpoints/part-003-chapter-10-continuation.md` — scans 99–101, completing chapter 10 — verified; provenance checkpoint only
+- `11-chapter-11.md` — scans 102–110 chapter-11 portion — verified
+- `12-chapter-12.md` — scan 110 chapter-12 portion → scan 118 — verified
+- `13-chapter-13.md` — scans 119–128 chapter-13 portion — verified
+- `14-chapter-14.md` — scan 128 chapter-14 portion → scan 138 chapter-14 portion — verified
+- `15-chapter-15.md` — scan 138 chapter-15 portion → scan 146 chapter-15 portion — verified
+- `16-chapter-16.md` — scan 146 chapter-16 portion → scan 147 — verified through the Part-003 endpoint; chapter 16 continues in the next source split
 
-The chapter-4 checkpoint file does not create a narrative split. Scan 49 → 50 has been explicitly continuity-checked. Final whole-work consolidation may merge the two physical files after the full source is processed.
+The checkpoint files do not create narrative splits. Scan 49 → 50 and scan 98 → 99 have been explicitly continuity-checked. Final whole-work consolidation may merge provenance checkpoint files after the complete source is processed.
 
 ## Part checkpoints
 
 - Part 001 / scans 1–49: **assembled-part-checked / part-complete**
 - Part 002 / scans 50–98: **assembled-part-checked / part-complete**
-- Part 003 / scans 99–147: canonical Tamil verified through scan 128; part not yet complete
+- Part 003 / scans 99–147: **assembled-part-checked / part-complete**
+
+Assembled Tamil is therefore part-reviewed continuously through **scan 147 / printed page 145**.
 
 The final whole-work assembled-Tamil `PASSED` verdict remains unavailable until the complete source extent and all canonical pages are known.
