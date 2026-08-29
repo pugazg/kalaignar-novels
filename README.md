@@ -22,7 +22,7 @@ User-supplied transcription visual check செய்யப்படும் �
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **Backward integrity audit COMPLETE through scan 118; 118 records / 118 verified / 0 needs-review; forward transcription resumes at scan 119; full-source manifest incomplete; translation blocked** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **128 records / 128 verified / 0 needs-review through scan 128; backward integrity audit COMPLETE through scan 118; forward transcription resumes at scan 129; full-source manifest incomplete; translation blocked** |
 
 ### புதையல் — source / integrity state
 
@@ -38,15 +38,15 @@ Available splits:
 
 Current canonical state:
 
-- page records — **118**;
-- verified — **118**;
+- page records — **128**;
+- verified — **128**;
 - needs-review — **0**;
 - partial — **0**;
-- unresolved readings through scan 118 — **0**;
-- known-prefix not-started — **32**: scans 119–150;
+- unresolved readings through scan 128 — **0**;
+- known-prefix not-started — **22**: scans 129–150;
 - full-source page map — **incomplete**;
 - backward integrity audit — **COMPLETE through scan 118**;
-- forward transcription — **UNBLOCKED from scan 119**;
+- forward transcription — **UNBLOCKED from scan 129**;
 - Tamil whole-work audit — **not started**;
 - assembled Tamil — **blocked**;
 - English translation — **blocked**;
@@ -56,11 +56,13 @@ Central integrity record:
 
 - [`works/pudhaiyal/notes/backward-integrity-audit-001-118.md`](works/pudhaiyal/notes/backward-integrity-audit-001-118.md)
 
-The final unresolved old-glyph item on scan 75 is now closed. The source word crosses a line boundary as `போயிட்` / `டுதா?`, establishing **`போயிட்டுதா?`**. The earlier assistant `போயிடுச்சா?` and temporary baseline `போய்ட்டுதா?` are both superseded.
+The final unresolved old-glyph item on scan 75 is closed. The source word crosses a line boundary as `போயிட்` / `டுதா?`, establishing **`போயிட்டுதா?`**. The earlier assistant `போயிடுச்சா?` and temporary baseline `போய்ட்டுதா?` are both superseded.
 
-The fresh Iteration-10 re-audit is also complete: scans **109–118 are 10 / 10 verified** against native part-003 images. Detailed record: [`works/pudhaiyal/notes/visual-fidelity-scans-109-118.md`](works/pudhaiyal/notes/visual-fidelity-scans-109-118.md).
+The Iteration-10 re-audit is complete: scans **109–118 are 10 / 10 verified** against native part-003 images. Detailed record: [`works/pudhaiyal/notes/visual-fidelity-scans-109-118.md`](works/pudhaiyal/notes/visual-fidelity-scans-109-118.md).
 
-Exact next action: **resume from scan 119 / printed page 117 using split part 003 and the next user-supplied baseline.**
+Iteration 11 is also complete: scans **119–128 / printed pages 117–126 are 10 / 10 verified** against native part-003 split pages 21–30, including the source-confirmed chapter **13 → 14** transition on scan 128. Detailed record: [`works/pudhaiyal/notes/visual-fidelity-scans-119-128.md`](works/pudhaiyal/notes/visual-fidelity-scans-119-128.md).
+
+Exact next action: **resume from scan 129 / printed page 127 using split part 003 page 31 and the next user-supplied baseline.**
 
 ## நிறைவு பெற்ற reference work
 
