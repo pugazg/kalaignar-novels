@@ -22,7 +22,7 @@ User-supplied transcription visual check செய்யப்படும் �
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **128 records / 128 verified / 0 needs-review through scan 128; backward integrity audit COMPLETE through scan 118; forward transcription resumes at scan 129; full-source manifest incomplete; translation blocked** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **147 records / 147 verified / 0 needs-review; Parts 001–003 part-complete through scan 147; full-source manifest incomplete; next split begins scan 148** |
 
 ### புதையல் — source / integrity state
 
@@ -30,39 +30,37 @@ The old **150 pages total** claim remains withdrawn. Tamil Digital Library repor
 
 Native publication-page reinspection established `நூல் நிலையப் பதிப்பு ரூ 6/-` and `மூன்றாம் பதிப்பு: செப்டம்பர், 1961.`
 
-Available splits:
+Available completed access derivatives:
 
-- part 001 — source scans **1–49**;
-- part 002 — source scans **50–98**;
-- part 003 — source scans **99–147**.
+- part 001 — source scans **1–49** — **part-complete**;
+- part 002 — source scans **50–98** — **part-complete**;
+- part 003 — source scans **99–147** — **part-complete**.
 
 Current canonical state:
 
-- page records — **128**;
-- verified — **128**;
+- page records — **147**;
+- verified — **147**;
 - needs-review — **0**;
 - partial — **0**;
-- unresolved readings through scan 128 — **0**;
-- known-prefix not-started — **22**: scans 129–150;
+- unresolved readings through scan 147 — **0**;
+- known-prefix not-started — **3**: scans 148–150;
 - full-source page map — **incomplete**;
 - backward integrity audit — **COMPLETE through scan 118**;
-- forward transcription — **UNBLOCKED from scan 129**;
-- Tamil whole-work audit — **not started**;
-- assembled Tamil — **blocked**;
-- English translation — **blocked**;
+- Tamil part audits — **PASSED through Part 003 / scan 147**;
+- assembled Tamil — **part-reviewed continuously through scan 147**;
+- English translation — **bilingual part-reviewed continuously through scan 147**;
+- whole-work Tamil / English verification — **not yet eligible**;
+- release-readiness — **blocked until complete source**;
 - source PDF / splits committed — **No**.
 
-Central integrity record:
+Central Part-003 records:
 
-- [`works/pudhaiyal/notes/backward-integrity-audit-001-118.md`](works/pudhaiyal/notes/backward-integrity-audit-001-118.md)
+- [`works/pudhaiyal/notes/part-003-tamil-audit.md`](works/pudhaiyal/notes/part-003-tamil-audit.md)
+- [`works/pudhaiyal/translations/en/PART_003_REVIEW.md`](works/pudhaiyal/translations/en/PART_003_REVIEW.md)
 
-The final unresolved old-glyph item on scan 75 is closed. The source word crosses a line boundary as `போயிட்` / `டுதா?`, establishing **`போயிட்டுதா?`**. The earlier assistant `போயிடுச்சா?` and temporary baseline `போய்ட்டுதா?` are both superseded.
+Part 003 ends on scan **147 / printed page 145** inside chapter 16 at the incomplete phrase **`அடங்கித்தான் போய்`**. No continuation has been inferred.
 
-The Iteration-10 re-audit is complete: scans **109–118 are 10 / 10 verified** against native part-003 images. Detailed record: [`works/pudhaiyal/notes/visual-fidelity-scans-109-118.md`](works/pudhaiyal/notes/visual-fidelity-scans-109-118.md).
-
-Iteration 11 is also complete: scans **119–128 / printed pages 117–126 are 10 / 10 verified** against native part-003 split pages 21–30, including the source-confirmed chapter **13 → 14** transition on scan 128. Detailed record: [`works/pudhaiyal/notes/visual-fidelity-scans-119-128.md`](works/pudhaiyal/notes/visual-fidelity-scans-119-128.md).
-
-Exact next action: **resume from scan 129 / printed page 127 using split part 003 page 31 and the next user-supplied baseline.**
+Exact next action: **attach / obtain the next source split beginning at scan 148 / printed page 146, verify the continuation of `அடங்கித்தான் போய்`, and complete that split's full part workflow before moving onward.**
 
 ## நிறைவு பெற்ற reference work
 
