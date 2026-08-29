@@ -112,11 +112,11 @@ Native derivative facts:
 
 - **9 / 9 verified**; unresolved **0**.
 - fidelity: `works/pudhaiyal/notes/visual-fidelity-scans-159-167.md`
-- scan 158 `டாக்` + scan 159 `துரைக்கு` = **`டாக்துரைக்கு`** from native source pixels.
-- scan 159 source keeps `நவ நாகரீகத்துக்குக்` rather than the baseline's joined `நவநாகரீகத்துக்குக்`.
+- scan 158 `டாக்` + scan 159 `துரைக்கு` = **`டாக்துரைக்கு`**.
+- scan 159 source keeps `நவ நாகரீகத்துக்குக்`.
 - scan 163 source-prints the **chapter 17 → 18** transition on the same physical page.
 - scan 167 source reads `பழைய டைரிகளை`, not baseline `புழைய டைரிகளை`.
-- scan 167 has a source-printed four-star internal separator omitted by the baseline; it is restored canonically.
+- scan 167 has a source-printed four-star internal separator omitted by the baseline.
 
 ### Iteration 15 — scans 168–177
 
@@ -133,12 +133,30 @@ Native derivative facts:
 - scan 176 source `பாட்டி! பாட்டி!`;
 - scan 177 source `பொக்கை வாய்த் திறந்து` and ends physically at `அந்தகார இருட்டிலே,`.
 
+### Iteration 16 — scans 178–187
+
+- **10 / 10 verified**; unresolved **0**.
+- fidelity: `works/pudhaiyal/notes/visual-fidelity-scans-178-187.md`
+- scan 177 `அந்தகார இருட்டிலே,` → scan 178 `தளிர்களான நாங்கள்...`;
+- scan 178 source `உடைந்த உள்ளத்திற்கு`, `வந்தவன்தான்`, and ends at `எனக்கும், என் தங்கை`;
+- scan 179 source-odd `சாமியார் எங்கள் கெட்ட எண்ணத்தோடு`; source `ஒரு நரபலி`; `தெளித்தால்தான்`; chapter 19 closes / chapter 20 begins;
+- scan 179 `உப்பரிகையின் மேல்` → scan 180 `தளம் வரையிலே`;
+- scan 181 source `நாடியம் கிராமத்திலே` and ends at `அப்`;
+- scan 181 `அப்` + scan 182 `படி` = `அப்படி`;
+- scan 182 source `கோயில் வாயிலே`;
+- scan 183 source `எவையெவைகளையோ`;
+- scan 184 source `கண்கள் குளமாயின`, `கதையனைத்தையும்`, and ends at `ஒரு ரத்தம்`;
+- scan 184 `ஒரு ரத்தம்` + scan 185 `தோய்ந்த அரிவாள்`;
+- scan 187 closes chapter 20 / begins chapter **21**;
+- chapter 21 starts `“சாகக் கூடிய வயதல்ல—ஆனாலும் அம்மா...`;
+- scan 187 ends physically at `அதுகூட`.
+
 Current Part-004 canonical state:
 
-- scans **148–177**: **30 / 30 verified**
+- scans **148–187**: **40 / 40 verified**
 - needs-review: **0**
 - unresolved readings: **0**
-- scans **178–196**: **19 not-started**
+- scans **188–196**: **9 not-started**
 
 Source-confirmed structure for Part 004:
 
@@ -152,11 +170,11 @@ Source-confirmed structure for Part 004:
 
 ## Canonical Tamil aggregate state
 
-- page records created / verified continuously through: **scan 177**
-- verified: **177**
+- page records created / verified continuously through: **scan 187**
+- verified: **187**
 - needs-review in verified range: **0**
 - partial in verified range: **0**
-- unresolved readings through scan 177: **0**
+- unresolved readings through scan 187: **0**
 - full-source page-map coverage: **INCOMPLETE**
 - Tamil whole-work audit: not yet eligible
 - assembled Tamil whole-work final pass: not yet eligible
@@ -167,11 +185,11 @@ While Part 004 is in progress, use `works/pudhaiyal/indexes/part-004-page-map.md
 
 ## Exact next activity
 
-Resume **Part 004 at scan 178 / printed page 176 / split page 31** using the next user-supplied baseline and native source page.
+Resume **Part 004 at scan 188 / printed page 186 / split page 41** using the next user-supplied baseline and native source page.
 
-Important active boundary: scan 177 ends at **`அந்தகார இருட்டிலே,`**. Do not infer its continuation from grammar or context; scan 178 must establish the next text from native source pixels.
+Important active boundary: scan 187 ends at **`அதுகூட`**. Do not infer its continuation from grammar or context; scan 188 must establish the next text from native source pixels.
 
-Continue canonical Tamil / fidelity batches until scans **148–196** are all verified. Then, before accepting another split, complete:
+Continue canonical Tamil / fidelity until scans **148–196** are all verified. Then, before accepting another split, complete:
 
 1. Part-004 Tamil audit;
 2. assembled Tamil extension;
