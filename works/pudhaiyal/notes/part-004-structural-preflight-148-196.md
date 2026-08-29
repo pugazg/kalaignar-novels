@@ -27,14 +27,22 @@ This is a structure-only native-page pass for ranges not yet canonically transcr
 ## Current canonical state inside Part 004
 
 - scans **148–158** — verified from Iteration 13 against native source;
-- scans **159–196** — `not-started` for canonical Tamil;
-- unresolved readings in verified range — **0**.
+- scans **159–167** — verified from Iteration 14 against native source;
+- scans **168–196** — `not-started` for canonical Tamil;
+- verified total: **20 / 49**;
+- unresolved readings in verified range: **0**.
 
-## Boundary requirements
+## Closed / active boundaries
 
-- Part 003 → Part 004 is closed from source: `அடங்கித்தான் போய்` + `விட்டார்கள்.`
-- scan 158 ends physically at `டாக்`.
-- Before scan 159 is accepted, its first native glyphs must establish the continuation of `டாக்`.
-- No chapter or split boundary may be invented from the derivative endpoint.
+- Part 003 → Part 004: `அடங்கித்தான் போய்` + `விட்டார்கள்.` = `அடங்கித்தான் போய் விட்டார்கள்.`;
+- scan 158 `டாக்` → scan 159 `துரைக்கு` = `டாக்துரைக்கு`;
+- scan 163 source-prints the chapter **17 → 18** transition on one physical page;
+- scan 167 ends with a source-printed four-star internal separator, not a chapter ending;
+- exact next canonical scan: **168 / printed 166 / split page 21**.
 
-Detailed current fidelity record: [`visual-fidelity-scans-148-158.md`](visual-fidelity-scans-148-158.md).
+No chapter or split boundary may be invented from the derivative endpoint.
+
+Detailed fidelity records:
+
+- [`visual-fidelity-scans-148-158.md`](visual-fidelity-scans-148-158.md)
+- [`visual-fidelity-scans-159-167.md`](visual-fidelity-scans-159-167.md)
