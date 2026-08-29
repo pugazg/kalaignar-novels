@@ -22,7 +22,7 @@ User-supplied transcription visual check செய்யப்படும் �
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **187 records / 187 verified / 0 needs-review; Parts 001–003 part-complete; Part 004 in progress at 40/49 verified through scan 187** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **196 records / 196 verified / 0 needs-review; Parts 001–004 part-complete** |
 
 ### புதையல் — source / integrity state
 
@@ -35,34 +35,33 @@ Available access derivatives:
 - part 001 — source scans **1–49** — **part-complete**;
 - part 002 — source scans **50–98** — **part-complete**;
 - part 003 — source scans **99–147** — **part-complete**;
-- part 004 — source scans **148–196** — **in progress: scans 148–187 verified; scans 188–196 pending**.
+- part 004 — source scans **148–196** — **part-complete**.
 
 Current canonical state:
 
-- page records — **187**;
-- verified — **187**;
+- page records — **196**;
+- verified — **196**;
 - needs-review — **0**;
 - partial — **0**;
-- unresolved readings through scan 187 — **0**;
-- Part-004 not-started — **9**: scans 188–196;
-- full-source page map — **incomplete**;
+- unresolved readings through scan 196 — **0**;
+- full-source page map — **incomplete beyond scan 196**;
 - backward integrity audit — **COMPLETE through scan 118**;
-- Tamil part audits — **PASSED through Part 003 / scan 147**;
-- assembled Tamil — **part-reviewed continuously through scan 147**;
-- English translation — **bilingual part-reviewed continuously through scan 147**;
+- Tamil part audits — **PASSED through Part 004 / scan 196**;
+- assembled Tamil — **part-reviewed continuously through scan 196**;
+- English translation — **bilingual part-reviewed continuously through scan 196**;
 - whole-work Tamil / English verification — **not yet eligible**;
 - release-readiness — **blocked until complete source**;
 - source PDF / splits committed — **No**.
 
-Part-004 working records:
+Part-004 completion records:
 
 - [`works/pudhaiyal/indexes/part-004-page-map.md`](works/pudhaiyal/indexes/part-004-page-map.md)
-- [`works/pudhaiyal/notes/part-004-structural-preflight-148-196.md`](works/pudhaiyal/notes/part-004-structural-preflight-148-196.md)
-- [`works/pudhaiyal/notes/visual-fidelity-scans-178-187.md`](works/pudhaiyal/notes/visual-fidelity-scans-178-187.md)
+- [`works/pudhaiyal/notes/part-004-tamil-audit.md`](works/pudhaiyal/notes/part-004-tamil-audit.md)
+- [`works/pudhaiyal/translations/en/PART_004_REVIEW.md`](works/pudhaiyal/translations/en/PART_004_REVIEW.md)
 
-Scan **187 / printed page 185** closes chapter 20 and begins chapter 21. Its physical endpoint is **`அதுகூட`**; no continuation has been inferred.
+Scan **196 / printed page 194** closes chapter 21 and begins chapter **22**. Part 004 ends there only as an access-derivative boundary; chapter 22 and the novel continue.
 
-Exact next action: **continue Part 004 at scan 188 / printed page 186 / split page 41, establish the continuation of `அதுகூட` from native source pixels, and after scan 196 complete Part 004's full Tamil/assembled/English/bilingual part workflow before moving onward.**
+Exact next action: **obtain / attach the next split beginning at scan 197 / printed page 195, establish the chapter-22 continuation from native source pixels, and complete that split's full Tamil/assembled/English/bilingual workflow before moving onward.**
 
 ## நிறைவு பெற்ற reference work
 
