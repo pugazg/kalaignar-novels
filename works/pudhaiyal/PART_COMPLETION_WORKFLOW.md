@@ -34,8 +34,6 @@ A split boundary is not a narrative boundary.
 
 ## Part-level states
 
-A split may use these checkpoint states:
-
 - `tamil-pages-verified`
 - `part-tamil-audit-passed`
 - `assembled-part-checked`
@@ -55,8 +53,6 @@ The following remain whole-source gates and cannot be closed per split:
 - English whole-work `verified`;
 - `RELEASE_REPORT.md` release-ready verdict.
 
-These gates are aggregated only after all split ranges and the true source ending/back matter are known.
-
 ## Completed split checkpoints
 
 - Part 001 — scans **1–49** — **`part-complete`**
@@ -73,13 +69,18 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_004_pages_148-196
 - visibly printed range: **146–194**
 - derivative-local map: [`indexes/part-004-page-map.md`](indexes/part-004-page-map.md)
 - structural preflight: [`notes/part-004-structural-preflight-148-196.md`](notes/part-004-structural-preflight-148-196.md)
-- canonical Tamil verified: **scans 148–158 — 11 / 49**
+- fidelity reports: [`notes/visual-fidelity-scans-148-158.md`](notes/visual-fidelity-scans-148-158.md), [`notes/visual-fidelity-scans-159-167.md`](notes/visual-fidelity-scans-159-167.md)
+- canonical Tamil verified: **scans 148–167 — 20 / 49**
 - unresolved readings in verified range: **0**
-- remaining canonical range: **159–196 — 38 scans**
+- remaining canonical range: **168–196 — 29 scans**
 - current state: **in progress**
 
-Iteration 13 was labelled printed pages 146–155, but the supplied text actually continued through most of printed page 156 / scan 158. Native source also restored scan 158's final physical fragment `டாக்`.
+Closed internal boundary from Iteration 14:
 
-The exact next source activity is **scan 159 / printed page 157 / split page 12**. Scan 158 ends at `டாக்`; scan 159 must establish the continuation directly from native source before later text is accepted.
+- scan 158 ends `டாக்`;
+- scan 159 begins `துரைக்கு`;
+- continuous source reading: **`டாக்துரைக்கு`**.
+
+The exact next source activity is **scan 168 / printed page 166 / split page 21**.
 
 After all scans 148–196 are verified, complete Part 004's Tamil audit, assembled Tamil, English translation, bilingual review and status synchronization before moving to another split.
