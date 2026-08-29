@@ -17,11 +17,21 @@
 | Chapter 9 | 84–92 | assembled / verified | source-checked |
 | Chapter 10, Part 002 portion | 93–98 | assembled / verified through scan 98 | source-checked through scan 98 |
 | **Part 002 checkpoint** | **50–98** | **part Tamil audit PASSED** | **bilingual review PASSED / part-complete** |
-| Part 003 | 99–147 | canonical verified through scan 128 | translation waits for complete Part-003 Tamil checkpoint |
+| Chapter 10, Part 003 continuation | 99–101 | assembled / verified | source-checked |
+| Chapter 11 | 102–110 portion | assembled / verified | source-checked |
+| Chapter 12 | 110 portion–118 | assembled / verified | source-checked |
+| Chapter 13 | 119–128 portion | assembled / verified | source-checked |
+| Chapter 14 | 128 portion–138 portion | assembled / verified | source-checked |
+| Chapter 15 | 138 portion–146 portion | assembled / verified | source-checked |
+| Chapter 16, Part 003 portion | 146 portion–147 | assembled / verified through split endpoint | source-checked through split endpoint |
+| **Part 003 checkpoint** | **99–147** | **part Tamil audit PASSED** | **bilingual review PASSED / part-complete** |
 
 Review records:
 
 - [`PART_001_REVIEW.md`](PART_001_REVIEW.md)
 - [`PART_002_REVIEW.md`](PART_002_REVIEW.md)
+- [`PART_003_REVIEW.md`](PART_003_REVIEW.md)
 
-Whole-work English status: **not verified**. The full source extent and final bilingual review remain open.
+Continuous part-level English review now covers source scans **1–147**.
+
+Whole-work English status: **not verified**. The complete source extent, later split ranges, true ending/back matter and final whole-work bilingual review remain open.
