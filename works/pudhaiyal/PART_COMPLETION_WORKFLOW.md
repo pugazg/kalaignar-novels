@@ -63,8 +63,23 @@ These gates are aggregated only after all split ranges and the true source endin
 - Part 002 — scans **50–98** — **`part-complete`**
 - Part 003 — scans **99–147** — **`part-complete`**
 
-Part 003 ends mid-sentence at scan 147 / printed page 145 with `அடங்கித்தான் போய்`. The next source derivative must begin by verifying that continuation from native evidence.
+Part 003 ended mid-sentence at scan 147 / printed page 145 with `அடங்கித்தான் போய்`. Part 004 native scan 148 closes that boundary as `விட்டார்கள்.` → continuous `அடங்கித்தான் போய் விட்டார்கள்.`
 
-## Next split
+## Part 004 — scans 148–196
 
-The next derivative should begin at **scan 148 / printed page 146**. Apply the same complete workflow to that derivative before asking for any later split.
+Source derivative: `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf`
+
+- split pages: **49**
+- visibly printed range: **146–194**
+- derivative-local map: [`indexes/part-004-page-map.md`](indexes/part-004-page-map.md)
+- structural preflight: [`notes/part-004-structural-preflight-148-196.md`](notes/part-004-structural-preflight-148-196.md)
+- canonical Tamil verified: **scans 148–158 — 11 / 49**
+- unresolved readings in verified range: **0**
+- remaining canonical range: **159–196 — 38 scans**
+- current state: **in progress**
+
+Iteration 13 was labelled printed pages 146–155, but the supplied text actually continued through most of printed page 156 / scan 158. Native source also restored scan 158's final physical fragment `டாக்`.
+
+The exact next source activity is **scan 159 / printed page 157 / split page 12**. Scan 158 ends at `டாக்`; scan 159 must establish the continuation directly from native source before later text is accepted.
+
+After all scans 148–196 are verified, complete Part 004's Tamil audit, assembled Tamil, English translation, bilingual review and status synchronization before moving to another split.
