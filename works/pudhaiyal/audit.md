@@ -1,6 +1,6 @@
 # Tamil / split-part audit — புதையல்
 
-Status: **IN PROGRESS — part-level checkpoints active; whole-work gate not yet eligible**
+Status: **IN PROGRESS — Parts 001 and 002 part-complete; whole-work gate not yet eligible**
 
 Source: `TVA_BOK_0064097_புதையல்.pdf`
 
@@ -10,8 +10,8 @@ The split derivatives are access aids for one edition. Part-level passes follow 
 
 | Access derivative | Source scans | Canonical pages | Part Tamil audit | Assembled Tamil | English review | Part state |
 |---|---:|---:|---|---|---|---|
-| part 001 | 1–49 | 49 / 49 verified | **PASSED** | **PASSED through scan 49** | **PASSED** | **part-complete** |
-| part 002 | 50–98 | 49 / 49 verified | **PASSED** | backfill pending | backfill pending | in progress |
+| part 001 | 1–49 | 49 / 49 verified | **PASSED** | **PASSED** | **PASSED** | **part-complete** |
+| part 002 | 50–98 | 49 / 49 verified | **PASSED** | **PASSED** | **PASSED** | **part-complete** |
 | part 003 | 99–147 | verified through scan 128 | not yet eligible | pending | pending | in progress |
 
 Records:
@@ -19,7 +19,13 @@ Records:
 - [`notes/part-001-tamil-audit.md`](notes/part-001-tamil-audit.md)
 - [`translations/en/PART_001_REVIEW.md`](translations/en/PART_001_REVIEW.md)
 - [`notes/part-002-tamil-audit.md`](notes/part-002-tamil-audit.md)
+- [`translations/en/PART_002_REVIEW.md`](translations/en/PART_002_REVIEW.md)
 - [`notes/backward-integrity-audit-001-118.md`](notes/backward-integrity-audit-001-118.md)
+
+## Boundary checks closed for Part 002
+
+- scan 49 → 50: continuous chapter-4 embedded tale; **PASS**
+- scan 98 → 99: source-printed internal transition; chapter 10 continues; **PASS**
 
 ## Whole-work Tamil gate
 
