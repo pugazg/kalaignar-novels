@@ -16,4 +16,10 @@ The baseline begins chapter 14 at printed page 126. Existing canonical scan 128 
 - `நேரம் ஆடுவதும்`
 - physical page endpoint `பல`
 
-The remainder of the user baseline is used for scans 129–137 and must be reconciled against native split pages 31–39 before canonical commitment.
+## Reconciliation target
+
+- scan 128 / printed 126: overlap only; existing verified canonical record governs;
+- scans 129–137 / printed 127–135: reconcile this baseline directly against native split pages 31–39;
+- do not infer or normalize old-print forms from grammar or context;
+- discrepancies established by the scan are recorded in the range fidelity note;
+- ambiguous glyphs remain baseline-preserving and `needs-review` rather than guessed.
