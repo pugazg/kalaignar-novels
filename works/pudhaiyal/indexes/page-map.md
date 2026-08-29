@@ -2,18 +2,18 @@
 
 Source: `TVA_BOK_0064097_புதையல்.pdf`
 
-> **Extent warning:** this manifest currently covers only the known prefix through scan 150. It is **not** a complete-source manifest. Tamil Digital Library describes the item as **443 p.**; the exact full-PDF scan count remains pending later split reconciliation.
+> **Extent warning:** this manifest currently covers verified source scans **1–196**. It is **not** a complete-source manifest. Tamil Digital Library describes the item as **443 p.**; the exact full-PDF scan count remains pending later split reconciliation.
 
-> **Integrity gate:** the backward integrity audit is **COMPLETE through scan 118**. Canonical Tamil is verified continuously through scan **147 / printed page 145**, with no unresolved readings through that point. The next source split must begin at scan **148 / printed page 146**.
+> **Integrity gate:** the backward integrity audit is **COMPLETE through scan 118**. Canonical Tamil is verified continuously through scan **196 / printed page 194**, with no unresolved readings through that point.
 
-> **Split-source state:** part 001 (`scans 1–49`), part 002 (`scans 50–98`) and part 003 (`scans 99–147`) are all **part-complete**. Page records currently exist through scan 147.
+> **Split-source state:** parts 001 (`1–49`), 002 (`50–98`), 003 (`99–147`) and 004 (`148–196`) are all **part-complete**.
 
 > **Printed-page rule:** record a printed page number only when visibly printed. Scan 13 therefore remains `—` rather than inferred as 11.
 
 Integrity record: [`../notes/backward-integrity-audit-001-118.md`](../notes/backward-integrity-audit-001-118.md).  
-Latest fidelity record: [`../notes/visual-fidelity-scans-138-147.md`](../notes/visual-fidelity-scans-138-147.md).  
-Part-003 Tamil audit: [`../notes/part-003-tamil-audit.md`](../notes/part-003-tamil-audit.md).  
-Part-003 bilingual review: [`../translations/en/PART_003_REVIEW.md`](../translations/en/PART_003_REVIEW.md).  
+Latest fidelity record: [`../notes/visual-fidelity-scans-188-196.md`](../notes/visual-fidelity-scans-188-196.md).  
+Part-004 Tamil audit: [`../notes/part-004-tamil-audit.md`](../notes/part-004-tamil-audit.md).  
+Part-004 bilingual review: [`../translations/en/PART_004_REVIEW.md`](../translations/en/PART_004_REVIEW.md).  
 Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes/source-page-count-reconciliation.md).
 
 | Scan | Printed page | Page type / section | Status | File |
@@ -164,47 +164,84 @@ Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes
 | 144 | 142 | chapter 15 | verified | `pages/0144-pudhaiyal.md` |
 | 145 | 143 | chapter 15 | verified | `pages/0145-pudhaiyal.md` |
 | 146 | 144 | chapter 15 closes / chapter 16 begins | verified | `pages/0146-pudhaiyal.md` |
-| 147 | 145 | chapter 16; Part-003 endpoint; sentence continues after `அடங்கித்தான் போய்` | verified | `pages/0147-pudhaiyal.md` |
-| 148 | 146 | chapter 16 | not-started | `pages/0148-pudhaiyal.md` |
-| 149 | 147 | chapter 16 | not-started | `pages/0149-pudhaiyal.md` |
-| 150 | 148 | chapter 16 continues; end of known prefix, not source end | not-started | `pages/0150-pudhaiyal.md` |
+| 147 | 145 | chapter 16; part 003 endpoint | verified | `pages/0147-pudhaiyal.md` |
+| 148 | 146 | chapter 16 continuation | verified | `pages/0148-pudhaiyal.md` |
+| 149 | 147 | chapter 16 | verified | `pages/0149-pudhaiyal.md` |
+| 150 | 148 | chapter 16 | verified | `pages/0150-pudhaiyal.md` |
+| 151 | 149 | chapter 16 | verified | `pages/0151-pudhaiyal.md` |
+| 152 | 150 | chapter 16 | verified | `pages/0152-pudhaiyal.md` |
+| 153 | 151 | chapter 16 | verified | `pages/0153-pudhaiyal.md` |
+| 154 | 152 | chapter 16 closes | verified | `pages/0154-pudhaiyal.md` |
+| 155 | 153 | chapter 17 begins | verified | `pages/0155-pudhaiyal.md` |
+| 156 | 154 | chapter 17 | verified | `pages/0156-pudhaiyal.md` |
+| 157 | 155 | chapter 17 | verified | `pages/0157-pudhaiyal.md` |
+| 158 | 156 | chapter 17; ends at `டாக்` | verified | `pages/0158-pudhaiyal.md` |
+| 159 | 157 | chapter 17; begins `துரைக்கு` | verified | `pages/0159-pudhaiyal.md` |
+| 160 | 158 | chapter 17 | verified | `pages/0160-pudhaiyal.md` |
+| 161 | 159 | chapter 17 | verified | `pages/0161-pudhaiyal.md` |
+| 162 | 160 | chapter 17 | verified | `pages/0162-pudhaiyal.md` |
+| 163 | 161 | chapter 17 closes / chapter 18 begins | verified | `pages/0163-pudhaiyal.md` |
+| 164 | 162 | chapter 18 | verified | `pages/0164-pudhaiyal.md` |
+| 165 | 163 | chapter 18 | verified | `pages/0165-pudhaiyal.md` |
+| 166 | 164 | chapter 18 | verified | `pages/0166-pudhaiyal.md` |
+| 167 | 165 | chapter 18 / four-star internal transition | verified | `pages/0167-pudhaiyal.md` |
+| 168 | 166 | chapter 18 | verified | `pages/0168-pudhaiyal.md` |
+| 169 | 167 | chapter 18 | verified | `pages/0169-pudhaiyal.md` |
+| 170 | 168 | chapter 18 | verified | `pages/0170-pudhaiyal.md` |
+| 171 | 169 | chapter 18 closes | verified | `pages/0171-pudhaiyal.md` |
+| 172 | 170 | chapter 19 begins | verified | `pages/0172-pudhaiyal.md` |
+| 173 | 171 | chapter 19 | verified | `pages/0173-pudhaiyal.md` |
+| 174 | 172 | chapter 19 | verified | `pages/0174-pudhaiyal.md` |
+| 175 | 173 | chapter 19 | verified | `pages/0175-pudhaiyal.md` |
+| 176 | 174 | chapter 19 | verified | `pages/0176-pudhaiyal.md` |
+| 177 | 175 | chapter 19; ends `அந்தகார இருட்டிலே,` | verified | `pages/0177-pudhaiyal.md` |
+| 178 | 176 | chapter 19 | verified | `pages/0178-pudhaiyal.md` |
+| 179 | 177 | chapter 19 closes / chapter 20 begins | verified | `pages/0179-pudhaiyal.md` |
+| 180 | 178 | chapter 20 | verified | `pages/0180-pudhaiyal.md` |
+| 181 | 179 | chapter 20 | verified | `pages/0181-pudhaiyal.md` |
+| 182 | 180 | chapter 20 | verified | `pages/0182-pudhaiyal.md` |
+| 183 | 181 | chapter 20 | verified | `pages/0183-pudhaiyal.md` |
+| 184 | 182 | chapter 20 | verified | `pages/0184-pudhaiyal.md` |
+| 185 | 183 | chapter 20 | verified | `pages/0185-pudhaiyal.md` |
+| 186 | 184 | chapter 20 | verified | `pages/0186-pudhaiyal.md` |
+| 187 | 185 | chapter 20 closes / chapter 21 begins; ends `அதுகூட` | verified | `pages/0187-pudhaiyal.md` |
+| 188 | 186 | chapter 21; begins `இல்லை எனக்கு.` | verified | `pages/0188-pudhaiyal.md` |
+| 189 | 187 | chapter 21 | verified | `pages/0189-pudhaiyal.md` |
+| 190 | 188 | chapter 21 | verified | `pages/0190-pudhaiyal.md` |
+| 191 | 189 | chapter 21 | verified | `pages/0191-pudhaiyal.md` |
+| 192 | 190 | chapter 21 | verified | `pages/0192-pudhaiyal.md` |
+| 193 | 191 | chapter 21 | verified | `pages/0193-pudhaiyal.md` |
+| 194 | 192 | chapter 21 | verified | `pages/0194-pudhaiyal.md` |
+| 195 | 193 | chapter 21 | verified | `pages/0195-pudhaiyal.md` |
+| 196 | 194 | chapter 21 closes / chapter 22 begins; part 004 endpoint | verified | `pages/0196-pudhaiyal.md` |
 
 ## Current manifest state
 
 - Tamil Digital Library bibliographic extent: **443 p.**
 - Exact full-PDF scan/page-object count: **pending complete source reconciliation**
-- Page records created: **147**
-- `verified`: **147**
+- Page records created: **196**
+- `verified`: **196**
 - `needs-review`: **0**
 - `partial`: **0**
-- unresolved readings through scan 147: **0**
-- known-prefix rows `not-started`: **3** — scans 148–150
-- Parts 001–003: **part-complete**
-- full-source page-map coverage: **INCOMPLETE**
+- unresolved readings through scan 196: **0**
+- Parts 001–004: **part-complete**
+- full-source page-map coverage: **INCOMPLETE beyond scan 196**
 - source PDF / split PDFs stored in repository: **No**
 
 ## Structural checkpoints — directly mapped range
 
 - `அறிமுகம்` — scans 7–12
-- chapter 1 — scan 13 begins; scan 22 closes chapter 1 and begins chapter 2
-- chapter 2 — scan 30 closes chapter 2 and begins chapter 3
-- chapter 3 — scan 40 closes chapter 3 and begins chapter 4
-- chapter 4 — scan 46 internal transition; scan 47 embedded tale; scan 52 → chapter 5
-- chapter 5 — scan 60 → chapter 6
-- chapter 6 — scan 68 closes
-- chapter 7 — scan 69 begins; scan 75 → chapter 8
-- chapter 8 — scan 83 closes
-- chapter 9 — scan 84 begins; scan 92 closes
-- chapter 10 — scan 93 begins; scan 98 internal transition; scan 101 closes
-- chapter 11 — scan 102 begins; scan 107 internal transition; scan 110 → chapter 12
-- chapter 12 — scan 118 internal transition; chapter closes before scan 119
-- chapter 13 — scan 119 begins; scan 122 internal transition; scan 128 closes chapter 13 and begins chapter 14
-- chapter 14 — scan 128 begins; scan 138 closes chapter 14 and begins chapter 15
-- chapter 15 — scan 138 begins; scan 146 closes chapter 15 and begins chapter 16
-- chapter 16 — begins on scan 146; scan 147 is the Part-003 endpoint and ends mid-sentence
+- chapters 1–15 — source-mapped continuously through scan 146
+- chapter 16 — scan 146 begins; scan 154 closes
+- chapter 17 — scan 155 begins; scan 163 closes / chapter 18 begins
+- chapter 18 — closes on scan 171
+- chapter 19 — scan 172 begins; scan 179 closes / chapter 20 begins
+- chapter 20 — scan 187 closes / chapter 21 begins
+- chapter 21 — scan 196 closes / chapter 22 begins
+- chapter 22 — begins on scan 196 and continues beyond Part 004
 
 The true ending remains unresolved until later split ranges are processed.
 
 ## Exact next activity
 
-Attach / obtain the next source split beginning at **scan 148 / printed page 146**. The first native-source check must establish the continuation of scan 147's incomplete `அடங்கித்தான் போய்` before later text is accepted.
+Obtain / attach the next source split beginning at **scan 197 / printed page 195** and continue chapter 22 from native source evidence. Do not infer the next text from grammar, context or outside editions.
