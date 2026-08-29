@@ -1,7 +1,7 @@
 # Source page-count reconciliation — புதையல்
 
 Date opened: 2026-08-25  
-Last updated: 2026-08-28
+Last updated: 2026-08-29
 
 ## Why this note exists
 
@@ -36,8 +36,8 @@ Received access derivatives:
 3. `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf`
    - source scans **99–147**
    - split page count **49**
-   - page records created through **scan 118 / printed 116**
-   - scans **99–118 verified after backward-integrity re-audit**
+   - page records created through **scan 128 / printed 126**
+   - scans **99–128 verified**; scans 109–118 were re-audited during integrity recovery and scans 119–128 were reconciled against the Iteration-11 baseline under the permanent old-glyph rule
 
 No split is committed to GitHub.
 
@@ -63,23 +63,43 @@ Confirmed repair items include:
 
 The scans 109–118 audit is **10 / 10 verified; unresolved 0**. Detailed record: [`visual-fidelity-scans-109-118.md`](visual-fidelity-scans-109-118.md).
 
-The backward integrity audit is now **COMPLETE through scan 118**.
+The backward integrity audit is **COMPLETE through scan 118**.
+
+## Iteration 11 — scans 119–128
+
+The user-supplied Pages 117–126 baseline was reconciled against native part-003 split pages 21–30.
+
+Result: **10 / 10 verified; unresolved 0**.
+
+Important source-established points include:
+
+- scan 120 `இல்ல இல்ல!`;
+- scan 121 `எனக்கிட்ட சொன்னு கூட` and physical continuation `விடு` → scan 122 `றேன்`;
+- scan 122 source four-star separator retained;
+- scan 123 `புருஷனுய்த்`, `வளர்த்துட்டீங்களே`, `இனிமே என்ன ஆனா என்ன?`;
+- scan 124 `தன்னுடைய பரம்பரையிலேயே` and `தங்கம் இருக்கும் இடத்தை`;
+- scan 125 `என்னது?`;
+- scan 126 distinct `அழைச்சிகிட்டு` / `அழைச்சுட்டு`;
+- scan 127 `இதோ ராமனை ஏற்பாடு பண்ணியிருக்கேன்` and `என்று சொல்!`;
+- scan 128 `இப்பத் தானே`; the physical page continues beyond the supplied baseline into the printed chapter **14** heading, so the complete source page was retained.
+
+Detailed record: [`visual-fidelity-scans-119-128.md`](visual-fidelity-scans-119-128.md).
 
 ## Current textual state
 
-- canonical page records created: **118**
-- verified: **118**
+- canonical page records created: **128**
+- verified: **128**
 - needs-review: **0**
 - partial: **0**
-- unresolved readings through scan 118: **0**
-- remaining rows in current 150-scan prefix: **32 not-started**
+- unresolved readings through scan 128: **0**
+- remaining rows in current 150-scan prefix: **22 not-started** — scans 129–150
 - full-source manifest: **INCOMPLETE**
 
 ## Full-source extent track
 
 Still required:
 
-1. continue part 003 from scan 119 onward;
+1. continue part 003 from scan 129 onward;
 2. receive/reconcile later split ranges after scan 147;
 3. extend `indexes/page-map.md` beyond the current scan-150 prefix;
 4. identify true final text / back matter / closing leaves;
@@ -90,6 +110,6 @@ Do not infer any of those values from the TDL printed-page count.
 
 ## Exact next activity
 
-Resume forward transcription from **scan 119 / printed page 117** using split part 003 and the next user-supplied baseline.
+Resume forward transcription from **scan 129 / printed page 127** using split part 003 page **31** and the next user-supplied baseline.
 
 Do not begin English translation.
