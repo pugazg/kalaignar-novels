@@ -45,8 +45,10 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 
 - represented source scans: **99–147**
 - split page count: **49**
-- page records created through: **scan 118 / printed page 116**
+- page records created through: **scan 128 / printed page 126**
 - scans **99–118: verified after backward-integrity re-audit**
+- scans **119–128: verified from user Iteration 11 against native source**
+- scans **129–147: canonical Tamil `not-started`; structure-only preflight complete**
 - committed: **No**
 
 These splits are access derivatives of the same controlling edition and do not establish new editions.
@@ -81,7 +83,9 @@ Confirmed checkpoints include:
 - scan 108 → printed 106;
 - scan 109 → printed 107;
 - scan 110 → printed 108;
-- scan 118 → printed 116.
+- scan 118 → printed 116;
+- scan 119 → printed 117;
+- scan 128 → printed 126.
 
 ## Current work structure established by direct evidence
 
@@ -108,25 +112,29 @@ Confirmed checkpoints include:
 ├── scan 102: chapter 11 begins
 ├── scan 107: four-star internal transition inside chapter 11
 ├── scan 110: chapter 11 closes; chapter 12 begins
-└── scan 118: four-star internal transition inside chapter 12
+├── scan 118: four-star internal transition inside chapter 12
+├── scan 119: chapter 13 begins
+└── scan 128: chapter 13 closes; chapter 14 begins on the same physical page
 ```
 
 ## Canonical Tamil state
 
-- page records created: **118**
-- verified: **118**
+- page records created: **128**
+- verified: **128**
 - needs-review: **0**
 - partial: **0**
-- unresolved readings through scan 118: **0**
-- known-prefix not-started rows: **32** — scans 119–150
+- unresolved readings through scan 128: **0**
+- known-prefix not-started rows: **22** — scans 129–150
 - backward integrity audit: **COMPLETE through scan 118**
-- forward transcription: **UNBLOCKED from scan 119**
+- forward source-fidelity transcription: **verified through scan 128; next scan 129**
 
 Scan 75 final old-glyph resolution: the source line wraps `போயிட்` / `டுதா?`, establishing continuous **`போயிட்டுதா?`**.
 
-Fresh scans 109–118 re-audit: [`../notes/visual-fidelity-scans-109-118.md`](../notes/visual-fidelity-scans-109-118.md) — **10 / 10 verified; unresolved 0**.
+Scans 109–118 re-audit: [`../notes/visual-fidelity-scans-109-118.md`](../notes/visual-fidelity-scans-109-118.md) — **10 / 10 verified; unresolved 0**.
 
-Central integrity record: [`../notes/backward-integrity-audit-001-118.md`](../notes/backward-integrity-audit-001-118.md).
+Scans 119–128 fidelity pass: [`../notes/visual-fidelity-scans-119-128.md`](../notes/visual-fidelity-scans-119-128.md) — **10 / 10 verified; unresolved 0**. Scan 128 includes the source text after the Iteration-11 baseline ended, through the physical-page endpoint `பல`, including the chapter 14 opening.
+
+Central backward-integrity record: [`../notes/backward-integrity-audit-001-118.md`](../notes/backward-integrity-audit-001-118.md).
 
 ## Completeness still open
 
@@ -138,6 +146,6 @@ Central integrity record: [`../notes/backward-integrity-audit-001-118.md`](../no
 
 ## Exact next action
 
-Resume forward transcription from **scan 119 / printed page 117** using split part 003 and the next user-supplied baseline. Preserve the strict native old-glyph rule for every future disagreement.
+Continue forward transcription from **scan 129 / printed page 127 / split part 003 page 31** using the next user-supplied baseline. Preserve the strict native old-glyph rule for every future disagreement.
 
 Do not begin English translation.
