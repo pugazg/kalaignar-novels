@@ -47,12 +47,14 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 
 - represented source scans: **99–147**
 - split page count: **49**
-- page records created through: **scan 137 / printed page 135**
-- scans **99–118: verified after backward-integrity re-audit**
-- scans **119–128: verified from user Iteration 11 against native source**
-- scans **129–137: verified against native split pages 31–39**
-- scans **138–147: canonical Tamil `not-started`; structure-only preflight complete**
-- split workflow state: **in progress**
+- visibly printed page range: **97–145**
+- transcription coverage: complete for the derivative
+- integrity state: **49 / 49 verified; unresolved 0**
+- part Tamil audit: **PASSED**
+- assembled Tamil: **PASSED through scan 147**
+- English bilingual review: **PASSED through scan 147**
+- split workflow state: **part-complete**
+- final physical endpoint: chapter 16 continues at incomplete `அடங்கித்தான் போய்`
 - committed: **No**
 
 These splits are access derivatives of the same controlling edition and do not establish new editions.
@@ -75,23 +77,21 @@ The earlier assistant transcription `ஸ்பெஷல் பதிப்பு
 
 Record a printed number only when visibly printed. Scan 13 remains `null` / `—` because no printed number is visible.
 
-Confirmed checkpoints include:
+Confirmed later checkpoints include:
 
-- scan 50 → printed 48;
-- scan 75 → printed 73;
-- scan 83 → printed 81;
 - scan 98 → printed 96;
 - scan 99 → printed 97;
 - scan 101 → printed 99;
 - scan 102 → printed 100;
-- scan 108 → printed 106;
-- scan 109 → printed 107;
 - scan 110 → printed 108;
 - scan 118 → printed 116;
 - scan 119 → printed 117;
 - scan 128 → printed 126;
 - scan 129 → printed 127;
-- scan 137 → printed 135.
+- scan 137 → printed 135;
+- scan 138 → printed 136;
+- scan 146 → printed 144;
+- scan 147 → printed 145.
 
 ## Current work structure established by direct evidence
 
@@ -120,32 +120,30 @@ Confirmed checkpoints include:
 ├── scan 110: chapter 11 closes; chapter 12 begins
 ├── scan 118: four-star internal transition inside chapter 12
 ├── scan 119: chapter 13 begins
+├── scan 122: four-star internal transition inside chapter 13
 ├── scan 128: chapter 13 closes; chapter 14 begins on the same physical page
-├── scans 129–137: chapter 14 continues
-├── scan 138: chapter 14 closes; chapter 15 begins on the same physical page — preflight only, canonical text pending
-├── scan 146: chapter 15 closes; chapter 16 begins on the same physical page — preflight only, canonical text pending
-└── scan 147: chapter 16 continues; end of split part 003 only — preflight only, canonical text pending
+├── scan 138: chapter 14 closes; chapter 15 begins on the same physical page
+├── scan 146: chapter 15 closes; chapter 16 begins on the same physical page
+└── scan 147: chapter 16 continues; end of split part 003 only, mid-sentence
 ```
 
 ## Canonical Tamil state
 
-- page records created: **137**
-- verified: **137**
+- page records created: **147**
+- verified: **147**
 - needs-review: **0**
 - partial: **0**
-- unresolved readings through scan 137: **0**
-- known-prefix not-started rows: **13** — scans 138–150
-- Part 003 canonical range still pending: **138–147**
+- unresolved readings through scan 147: **0**
+- known-prefix not-started rows: **3** — scans 148–150
+- Parts 001–003 canonical coverage: **complete / part-complete**
 - backward integrity audit: **COMPLETE through scan 118**
-- forward source-fidelity transcription: **verified through scan 137; next scan 138**
+- forward source-fidelity transcription: **verified through scan 147**
 
-Scan 75 final old-glyph resolution: the source line wraps `போயிட்` / `டுதா?`, establishing continuous **`போயிட்டுதா?`**.
+Scan 75 final old-glyph resolution remains **`போயிட்டுதா?`** from physical wrap `போயிட்` / `டுதா?`.
 
-Scans 109–118 re-audit: [`../notes/visual-fidelity-scans-109-118.md`](../notes/visual-fidelity-scans-109-118.md) — **10 / 10 verified; unresolved 0**.
+Part-003 Tamil audit: [`../notes/part-003-tamil-audit.md`](../notes/part-003-tamil-audit.md) — **49 / 49 verified; unresolved 0; PASSED**.
 
-Scans 119–128 fidelity pass: [`../notes/visual-fidelity-scans-119-128.md`](../notes/visual-fidelity-scans-119-128.md) — **10 / 10 verified; unresolved 0**. Scan 128 includes the source text after the earlier baseline ended, through the physical-page endpoint `பல`, including the chapter 14 opening.
-
-Scans 129–137 fidelity pass: [`../notes/visual-fidelity-scans-129-137.md`](../notes/visual-fidelity-scans-129-137.md) — **9 / 9 verified; unresolved 0**. The user baseline omitted printed page 135 despite its stated range, so scan 137 was restored directly from native source. Its physical endpoint is the incomplete `என் சோக வாழ்`, which must be continued only from scan 138.
+Part-003 bilingual review: [`../translations/en/PART_003_REVIEW.md`](../translations/en/PART_003_REVIEW.md) — **PASSED / part-complete**.
 
 Central backward-integrity record: [`../notes/backward-integrity-audit-001-118.md`](../notes/backward-integrity-audit-001-118.md).
 
@@ -159,8 +157,6 @@ Central backward-integrity record: [`../notes/backward-integrity-audit-001-118.m
 
 ## Exact next action
 
-Continue forward transcription from **scan 138 / printed page 136 / split part 003 page 40** using the next user-supplied baseline. Preserve the strict native old-glyph rule for every future disagreement.
+Obtain / attach the next source split beginning at **scan 148 / printed page 146** and process that derivative under `../PART_COMPLETION_WORKFLOW.md`.
 
-Scan 138 must establish the continuation of scan 137's physical `என் சோக வாழ்` and the known chapter **14 → 15** transition.
-
-Do not begin Part-003 English translation until all scans 99–147 have passed canonical Tamil verification and the Part-003 Tamil audit.
+The first fidelity check on the next split must establish the continuation of scan 147's incomplete source phrase **`அடங்கித்தான் போய்`** before accepting later text. Do not infer that continuation from grammar, context or outside editions.
