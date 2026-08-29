@@ -26,71 +26,55 @@ A derivative boundary is provenance only and must never create a false word, sen
 | Part 001 | 1–49 | **part-complete** |
 | Part 002 | 50–98 | **part-complete** |
 | Part 003 | 99–147 | **part-complete** |
-| Part 004 | 148–196 | **in progress — 40 / 49 verified** |
+| Part 004 | 148–196 | **part-complete** |
 
-Part 001/002/003 have passed their part Tamil audits, assembled-Tamil checks, English source checks and bilingual reviews.
+All four supplied derivatives have passed their part Tamil audits, assembled-Tamil checks, English source checks and bilingual reviews.
 
-## Part 004 — active derivative
+## Part 004 — completed derivative
 
 Source: `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf`
 
 - split pages: **49**
 - source scans: **148–196**
 - visibly printed range: **146–194**
-- verified: **148–187 = 40 / 49**
+- canonical Tamil: **49 / 49 verified**
 - needs-review: **0**
-- unresolved readings through scan 187: **0**
-- not-started: **188–196 = 9**
-- derivative-local map: [`indexes/part-004-page-map.md`](indexes/part-004-page-map.md)
-- structural preflight: [`notes/part-004-structural-preflight-148-196.md`](notes/part-004-structural-preflight-148-196.md)
-- fidelity: [`notes/visual-fidelity-scans-148-158.md`](notes/visual-fidelity-scans-148-158.md), [`notes/visual-fidelity-scans-159-167.md`](notes/visual-fidelity-scans-159-167.md), [`notes/visual-fidelity-scans-168-177.md`](notes/visual-fidelity-scans-168-177.md), [`notes/visual-fidelity-scans-178-187.md`](notes/visual-fidelity-scans-178-187.md)
+- unresolved readings: **0**
+- Tamil audit: [`notes/part-004-tamil-audit.md`](notes/part-004-tamil-audit.md) — **PASSED**
+- assembled Tamil: **PASSED through scan 196**
+- bilingual review: [`translations/en/PART_004_REVIEW.md`](translations/en/PART_004_REVIEW.md) — **PASSED / part-complete**
+- derivative-local map: [`indexes/part-004-page-map.md`](indexes/part-004-page-map.md) — **49 / 49 verified**
 - source/split PDF committed: **No**
 
-### Closed physical boundaries
+Important source-established boundaries include:
 
-- scan 147 `அடங்கித்தான் போய்` → scan 148 `விட்டார்கள்.` = **`அடங்கித்தான் போய் விட்டார்கள்.`**
-- scan 158 `டாக்` → scan 159 `துரைக்கு` = **`டாக்துரைக்கு`**
-- scan 173 `வள்ளி வெட்டப்` → scan 174 `பட வேண்டும்` = **`வள்ளி வெட்டப்பட வேண்டும்`**
-- scan 175 `பூமியைத்` → scan 176 `தயார் செய்து வைத்திருக்கிறார்கள்`
-- scan 176 `“சிறிது` → scan 177 `நேரத்தில் உயிர் போய்விடும்”`
-- scan 177 `அந்தகார இருட்டிலே,` → scan 178 `தளிர்களான நாங்கள்...`
-- scan 178 `எனக்கும், என் தங்கை` → scan 179 `தேயிலைக் காடுகளின்...`
-- scan 179 `உப்பரிகையின் மேல்` → scan 180 `தளம் வரையிலே`
-- scan 181 `அப்` → scan 182 `படி` = **`அப்படி`**
-- scan 184 `ஒரு ரத்தம்` → scan 185 `தோய்ந்த அரிவாள்`
+- scan 147 `அடங்கித்தான் போய்` → scan 148 `விட்டார்கள்.` = `அடங்கித்தான் போய் விட்டார்கள்.`
+- scan 158 `டாக்` → scan 159 `துரைக்கு` = `டாக்துரைக்கு`
+- scan 173 `வள்ளி வெட்டப்` → scan 174 `பட வேண்டும்` = `வள்ளி வெட்டப்பட வேண்டும்`
+- scan 187 `அதுகூட` → scan 188 `இல்லை எனக்கு.` = `அதுகூட இல்லை எனக்கு.`
+- scan 193 `ஆகா` → scan 194 `ரமும்` = `ஆகாரமும்`
+- scan 194 `வேண்டா` → scan 195 `மென்று` = `வேண்டாமென்று`
+- scan 195 `ஒரு பெருமாள் கோவில்` → scan 196 `வாசல்—`
 
-### Iteration 16 source-established details
-
-- scan 178 `உடைந்த உள்ளத்திற்கு` and `வந்தவன்தான்`;
-- scan 179 source-odd `சாமியார் எங்கள் கெட்ட எண்ணத்தோடு`, source `ஒரு நரபலி`, and `தெளித்தால்தான்`;
-- scan 179 closes chapter 19 and begins chapter **20**;
-- scan 181 `நாடியம் கிராமத்திலே`;
-- scan 182 `கோயில் வாயிலே`;
-- scan 183 `எவையெவைகளையோ`;
-- scan 184 `கண்கள் குளமாயின` and `கதையனைத்தையும்`;
-- scan 187 closes chapter 20 and begins chapter **21**;
-- chapter 21 source begins `“சாகக் கூடிய வயதல்ல—ஆனாலும் அம்மா...`;
-- scan 187 physical endpoint: **`அதுகூட`**.
-
-### Source-confirmed later structure
-
-- scans 188–195 — chapter 21 continues;
-- scan 196 — chapter 21 closes / chapter 22 begins; this is only the Part-004 endpoint, not the novel ending.
+Scan **196 / printed page 194** closes chapter 21 and begins chapter **22**. The derivative ends while chapter 22 is still open; this is not the novel ending.
 
 ## Current archival status
 
-- canonical Tamil page records verified continuously through **scan 187**
-- verified: **187**
-- `needs-review`: **0** in verified range
-- `partial`: **0** in verified range
+- canonical Tamil page records: **196**
+- verified continuously through scan **196**
+- `needs-review`: **0**
+- `partial`: **0**
+- unresolved readings through scan 196: **0**
 - backward integrity audit: **COMPLETE through scan 118**
-- assembled Tamil / bilingual English: part-reviewed through **scan 147**; Part 004 downstream layers wait for its complete Tamil gate
+- Parts 001–004: **part-complete**
+- assembled Tamil: part-reviewed continuously through **scan 196**
+- English translation: bilingual part-reviewed continuously through **scan 196**
 - Tamil whole-work audit: **not yet eligible**
 - English whole-work `verified`: **not yet eligible**
 - release-readiness: **blocked until complete source**
 
 ## Exact next activity
 
-Continue Part 004 at **scan 188 / printed page 186 / split page 41** from the next user baseline, reconciled against the native scan. Scan 187 ends at `அதுகூட`; do not infer the continuation before inspecting scan 188.
+Obtain / attach the next source split beginning at **scan 197 / printed page 195** and continue chapter **22** from native source evidence. Do not infer the continuation from scan 196 or from grammar/context.
 
-After scans 148–196 are all verified, finish the full Part-004 workflow—Tamil audit, assembled Tamil, English translation, bilingual review and status merge—before moving to another source split.
+Complete the full per-split workflow for that next derivative before moving onward.
