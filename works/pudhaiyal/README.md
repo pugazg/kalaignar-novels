@@ -53,6 +53,8 @@ The former repository reading `ஸ்பெஷல் பதிப்பு` was 
 - split pages: **49**
 - records created through: **scan 118 / printed page 116**
 - scans 99–118: **verified after backward-integrity re-audit**
+- scans 119–147: **structure-only native preflight complete; canonical Tamil still `not-started`**
+- structural preflight: [`notes/part-003-structural-preflight-119-147.md`](notes/part-003-structural-preflight-119-147.md)
 - committed: **No**
 
 ## Current archival status
@@ -111,7 +113,19 @@ Detailed report:
 
 - [`notes/visual-fidelity-scans-109-118.md`](notes/visual-fidelity-scans-109-118.md)
 
-## Fidelity records
+## Source-confirmed structure ahead of transcription
+
+A structure-only native pass over part 003 pages 21–49 confirms:
+
+- scan **119 / printed 117** — chapter **13** begins;
+- scan **128 / printed 126** — chapter **13 closes / chapter 14 begins** on the same physical page;
+- scan **138 / printed 136** — chapter **14 closes / chapter 15 begins** on the same physical page;
+- scan **146 / printed 144** — chapter **15 closes / chapter 16 begins** on the same physical page;
+- scan **147 / printed 145** — chapter 16 continues and is only the end of split part 003, not the end of the novel.
+
+These pages remain `not-started` for canonical Tamil until user-supplied baselines are reconciled under the permanent old-glyph rule.
+
+## Fidelity / preflight records
 
 - [`notes/visual-fidelity-scans-001-012.md`](notes/visual-fidelity-scans-001-012.md)
 - [`notes/visual-fidelity-scans-013-022.md`](notes/visual-fidelity-scans-013-022.md)
@@ -124,6 +138,7 @@ Detailed report:
 - [`notes/visual-fidelity-scans-099-108.md`](notes/visual-fidelity-scans-099-108.md)
 - [`notes/visual-fidelity-scans-109-118.md`](notes/visual-fidelity-scans-109-118.md)
 - [`notes/backward-integrity-audit-001-118.md`](notes/backward-integrity-audit-001-118.md)
+- [`notes/part-003-structural-preflight-119-147.md`](notes/part-003-structural-preflight-119-147.md)
 
 ## Source registration still open
 
@@ -138,6 +153,10 @@ Current prefix manifest: [`indexes/page-map.md`](indexes/page-map.md).
 
 ## Exact next activity
 
-Backward integrity is closed through scan 118. Resume forward transcription from **scan 119 / printed page 117** using split part 003 and the next user-supplied baseline. Preserve the stricter old-glyph rule for every future disagreement.
+Backward integrity is closed through scan 118. Resume forward transcription from **scan 119 / printed page 117** using split part 003 and the next user-supplied baseline.
+
+A natural next batch is **scans 119–128 / printed pages 117–126**. Scan 128 contains the source-confirmed **chapter 13 → 14** transition.
+
+Preserve the stricter old-glyph rule for every future disagreement.
 
 Do not start English translation.
