@@ -69,11 +69,14 @@ Boundary checks:
 
 - represented source scans: **99–147**
 - split pages: **49**
-- records created through: **scan 128 / printed page 126**
+- records created through: **scan 137 / printed page 135**
 - scans 99–118: **verified after backward-integrity re-audit**
 - scans 119–128: **10 / 10 verified from user Iteration 11 against native source**
-- scans 129–147: **structure-only native preflight complete; canonical Tamil still `not-started`**
-- Iteration 11 fidelity report: [`notes/visual-fidelity-scans-119-128.md`](notes/visual-fidelity-scans-119-128.md)
+- scans 129–137: **9 / 9 verified against native split pages 31–39**
+- scans 138–147: **structure-only native preflight complete; canonical Tamil still `not-started`**
+- fidelity reports:
+  - [`notes/visual-fidelity-scans-119-128.md`](notes/visual-fidelity-scans-119-128.md)
+  - [`notes/visual-fidelity-scans-129-137.md`](notes/visual-fidelity-scans-129-137.md)
 - structural preflight: [`notes/part-003-structural-preflight-119-147.md`](notes/part-003-structural-preflight-119-147.md)
 - part-level Tamil audit: **not yet eligible**
 - assembled / English / bilingual review: pending completion of canonical Tamil for the derivative
@@ -82,16 +85,17 @@ Boundary checks:
 ## Current archival status
 
 - page map — known prefix scans **1–150**, full-source coverage incomplete
-- Tamil page records created — **128**
-- `verified` — **128**
+- Tamil page records created — **137**
+- `verified` — **137**
 - `needs-review` — **0**
 - `partial` — **0**
-- unresolved readings through scan 128 — **0**
-- known-prefix not-started — **22**: scans 129–150
+- unresolved readings through scan 137 — **0**
+- known-prefix not-started — **13**: scans 138–150
 - backward integrity audit — **COMPLETE through scan 118**
-- forward source-fidelity transcription — **verified through scan 128; next scan 129**
+- forward source-fidelity transcription — **verified through scan 137; next scan 138**
 - Part 001 — **part-complete**
 - Part 002 — **part-complete**
+- Part 003 — **in progress; canonical Tamil verified through scan 137**
 - Tamil whole-work audit — **not yet eligible**
 - assembled Tamil — **part-reviewed continuously through scan 98; whole-work final pass not yet eligible**
 - English translation — **part-reviewed continuously through scan 98; whole-work `verified` not yet eligible**
@@ -158,17 +162,36 @@ Detailed report:
 
 - [`notes/visual-fidelity-scans-119-128.md`](notes/visual-fidelity-scans-119-128.md)
 
+### Iteration 11 continuation — scans 129–137
+
+The next user baseline was labelled as printed pages **126–135**. It overlapped verified scan 128 / printed 126, supplied usable text through scan 136 / printed 134, and omitted the claimed final printed page 135. Native split pages 31–39 were therefore reviewed directly. Result: **9 / 9 newly verified; unresolved readings in this range: 0**.
+
+Material source-established results include:
+
+- scan 130 `பயன்படுத்திக்கொள்வதாக்கும்`, not the baseline split `பயன்படுத்திக்கொள்வ தாக்கும்`;
+- scan 131 `இதை நிச்சயமாகத் தெரிந்து கொள்!`;
+- scan 131 `நிச்சயமாகத் தெரிகிறது—நீங்கள் பைத்தியக்காரர் இல்லை!` — the baseline omitted `இல்லை`;
+- scan 137 / printed 135 restored directly from native source because the baseline omitted that physical page;
+- scan 137 `பிறந்தத் தரணி—`;
+- scan 137 source-odd `புழுதி மண்ணுகப்`;
+- scan 137 physical endpoint `என் சோக வாழ்`; the word continues on scan 138 and is not guessed here.
+
+Detailed report:
+
+- [`notes/visual-fidelity-scans-129-137.md`](notes/visual-fidelity-scans-129-137.md)
+
 ## Source-confirmed structure ahead of transcription
 
 A structure-only native pass over part 003 pages 21–49 established:
 
-- scan **119 / printed 117** — chapter **13** begins — now verified;
-- scan **128 / printed 126** — chapter **13 closes / chapter 14 begins** on the same physical page — now verified;
+- scan **119 / printed 117** — chapter **13** begins — verified;
+- scan **128 / printed 126** — chapter **13 closes / chapter 14 begins** on the same physical page — verified;
+- scans **129–137** — chapter 14 continuation — verified;
 - scan **138 / printed 136** — chapter **14 closes / chapter 15 begins** on the same physical page;
 - scan **146 / printed 144** — chapter **15 closes / chapter 16 begins** on the same physical page;
 - scan **147 / printed 145** — chapter 16 continues and is only the end of split part 003, not the end of the novel.
 
-Scans **129–147** remain `not-started` for canonical Tamil until user-supplied baselines are reconciled under the permanent old-glyph rule.
+Scans **138–147** remain `not-started` for canonical Tamil until the next user-supplied baseline is reconciled under the permanent old-glyph rule.
 
 ## Fidelity / audit / review records
 
@@ -183,6 +206,7 @@ Scans **129–147** remain `not-started` for canonical Tamil until user-supplied
 - [`notes/visual-fidelity-scans-099-108.md`](notes/visual-fidelity-scans-099-108.md)
 - [`notes/visual-fidelity-scans-109-118.md`](notes/visual-fidelity-scans-109-118.md)
 - [`notes/visual-fidelity-scans-119-128.md`](notes/visual-fidelity-scans-119-128.md)
+- [`notes/visual-fidelity-scans-129-137.md`](notes/visual-fidelity-scans-129-137.md)
 - [`notes/backward-integrity-audit-001-118.md`](notes/backward-integrity-audit-001-118.md)
 - [`notes/part-001-tamil-audit.md`](notes/part-001-tamil-audit.md)
 - [`notes/part-002-tamil-audit.md`](notes/part-002-tamil-audit.md)
@@ -203,7 +227,9 @@ Current prefix manifest: [`indexes/page-map.md`](indexes/page-map.md).
 
 ## Exact next activity
 
-Continue **Part 003** canonical Tamil from **scan 129 / printed page 127 / split part-003 page 31** using the next user-supplied baseline and the permanent old-glyph rule.
+Continue **Part 003** canonical Tamil from **scan 138 / printed page 136 / split part-003 page 40** using the next user-supplied baseline and the permanent old-glyph rule.
+
+The scan 137 physical endpoint is `என் சோக வாழ்`; its continuation must come only from scan 138 source evidence. Scan 138 is also the source-confirmed chapter **14 → 15** transition.
 
 Do not begin Part-003 English translation before scans **99–147** have all passed canonical Tamil verification and the Part-003 Tamil audit.
 
