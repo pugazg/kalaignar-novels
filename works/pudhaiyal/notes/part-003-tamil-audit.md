@@ -52,7 +52,7 @@ No split-PDF boundary is treated as a narrative boundary.
 
 ## Physical boundary checks
 
-Source-established cross-page joins include, among others:
+Source-established cross-page joins include:
 
 - scan 100 `தோழர்` → scan 101 `களைத்` = `தோழர்களைத்`;
 - scan 104 `அல்லது பேரன் பேத்தி` → scan 105 `ஆள் இல்லையே...`;
@@ -102,4 +102,12 @@ Representative forms retained from native evidence include:
 - source chapter/transition structure: **PASS**
 - Part 003 Tamil state: **`part-tamil-audit-passed`**
 
-The next safe stage is incremental assembled Tamil for scans 99–147, followed by controlled English translation and bilingual review. Whole-work Tamil `PASSED` remains unavailable until the complete source extent and true ending/back matter are known.
+## Downstream completion
+
+After this Tamil audit passed, the verified material was assembled and translated under the shared plan. The Part-003 bilingual source review also passed:
+
+[`../translations/en/PART_003_REVIEW.md`](../translations/en/PART_003_REVIEW.md)
+
+Therefore the derivative's overall workflow state is now **`part-complete`**.
+
+Whole-work Tamil `PASSED`, whole-work English `verified` and release-readiness remain unavailable until later source splits establish the complete edition and true ending/back matter.
