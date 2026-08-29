@@ -128,6 +128,8 @@ The former `150 pages total` conclusion was wrong. Scans 1–150 are only a know
 - page records created through **scan 118 / printed page 116**
 - scans **99–118 verified after backward-integrity re-audit**
 - detailed scans 109–118 report: `works/pudhaiyal/notes/visual-fidelity-scans-109-118.md`
+- structure-only native preflight completed for **scans 119–147 / printed pages 117–145**; canonical transcription for those pages remains `not-started`
+- structural preflight record: `works/pudhaiyal/notes/part-003-structural-preflight-119-147.md`
 - committed: **No**
 
 ---
@@ -206,7 +208,7 @@ Protected / established examples:
 - assembled Tamil layer: **blocked**
 - English translation: **blocked**
 
-Relevant fidelity records include:
+Relevant fidelity / preflight records include:
 
 - `works/pudhaiyal/notes/visual-fidelity-scans-001-012.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-013-022.md`
@@ -219,10 +221,13 @@ Relevant fidelity records include:
 - `works/pudhaiyal/notes/visual-fidelity-scans-099-108.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-109-118.md`
 - `works/pudhaiyal/notes/backward-integrity-audit-001-118.md`
+- `works/pudhaiyal/notes/part-003-structural-preflight-119-147.md`
 
 ---
 
 # 8. Structural state established so far
+
+Directly transcribed / audited structure through scan 118:
 
 - scans 7–12 — `அறிமுகம்`;
 - scan 13 — chapter 1 begins;
@@ -245,7 +250,17 @@ Relevant fidelity records include:
 - scan 102 — chapter 11 begins;
 - scan 107 — internal transition;
 - scan 110 — chapter 11 → 12;
-- scan 118 — internal transition inside chapter 12.
+- scan 118 — four-star internal transition inside chapter 12; chapter 12 ends by this physical page before chapter 13 begins on scan 119.
+
+Structure-only native preflight for the still-untranscribed remainder of part 003 confirms:
+
+- scan **119 / printed 117** — chapter **13** begins;
+- scan **128 / printed 126** — chapter **13 closes / chapter 14 begins on the same physical page**;
+- scan **138 / printed 136** — chapter **14 closes / chapter 15 begins on the same physical page**;
+- scan **146 / printed 144** — chapter **15 closes / chapter 16 begins on the same physical page**;
+- scan **147 / printed 145** — chapter 16 continues and is only the end of split part 003, **not** the end of the novel.
+
+These structure checkpoints do not change scans 119–147 from `not-started`; they only remove uncertainty about the chapter boundaries before forward transcription resumes.
 
 ---
 
@@ -259,7 +274,9 @@ Do not begin English translation until the complete Tamil source, source extent,
 
 Backward integrity is closed through scan 118.
 
-Resume forward transcription from **scan 119 / printed page 117** using split part 003 and the next user-supplied baseline.
+Resume forward transcription with the next user-supplied baseline beginning **scan 119 / printed page 117** against split part 003 page **21**.
+
+A natural next ten-page batch is **scans 119–128 / printed pages 117–126**. Scan 128 contains the source-confirmed **chapter 13 → 14** transition on the same physical page.
 
 For every new disagreement, keep the permanent old-glyph rule: do not alter the baseline unless native scan pixels establish the alternate reading.
 
