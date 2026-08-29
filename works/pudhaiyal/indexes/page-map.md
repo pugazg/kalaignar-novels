@@ -4,9 +4,9 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 
 > **Extent warning:** this manifest currently covers only the known prefix through scan 150. It is **not** a complete-source manifest. Tamil Digital Library describes the item as **443 p.**; the exact full-PDF scan count remains pending later split reconciliation.
 
-> **Integrity gate:** the backward integrity audit is **COMPLETE through scan 118**. All 118 created page records are verified and there are no unresolved readings in this range. Forward transcription may resume from scan **119 / printed page 117**.
+> **Integrity gate:** the backward integrity audit is **COMPLETE through scan 118**. Canonical Tamil is now verified through scan **128 / printed page 126**, with no unresolved readings through that point. Forward transcription may resume from scan **129 / printed page 127**.
 
-> **Split-source state:** part 001 (`scans 1–49`), part 002 (`scans 50–98`) and part 003 (`scans 99–147`) are available as access derivatives. Page records currently exist through scan 118.
+> **Split-source state:** part 001 (`scans 1–49`), part 002 (`scans 50–98`) and part 003 (`scans 99–147`) are available as access derivatives. Page records currently exist through scan 128.
 
 > **Printed-page rule:** record a printed page number only when visibly printed. Scan 13 therefore remains `—` rather than inferred as 11.
 
@@ -133,16 +133,16 @@ Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes
 | 116 | 114 | chapter 12 | verified | `pages/0116-pudhaiyal.md` |
 | 117 | 115 | chapter 12 | verified | `pages/0117-pudhaiyal.md` |
 | 118 | 116 | chapter 12 / four-star internal transition | verified | `pages/0118-pudhaiyal.md` |
-| 119 | 117 | chapter 13 begins | not-started | `pages/0119-pudhaiyal.md` |
-| 120 | 118 | chapter 13 | not-started | `pages/0120-pudhaiyal.md` |
-| 121 | 119 | chapter 13 | not-started | `pages/0121-pudhaiyal.md` |
-| 122 | 120 | chapter 13 | not-started | `pages/0122-pudhaiyal.md` |
-| 123 | 121 | chapter 13 | not-started | `pages/0123-pudhaiyal.md` |
-| 124 | 122 | chapter 13 | not-started | `pages/0124-pudhaiyal.md` |
-| 125 | 123 | chapter 13 | not-started | `pages/0125-pudhaiyal.md` |
-| 126 | 124 | chapter 13 | not-started | `pages/0126-pudhaiyal.md` |
-| 127 | 125 | chapter 13 | not-started | `pages/0127-pudhaiyal.md` |
-| 128 | 126 | chapter 14 begins | not-started | `pages/0128-pudhaiyal.md` |
+| 119 | 117 | chapter 13 begins | verified | `pages/0119-pudhaiyal.md` |
+| 120 | 118 | chapter 13 | verified | `pages/0120-pudhaiyal.md` |
+| 121 | 119 | chapter 13 | verified | `pages/0121-pudhaiyal.md` |
+| 122 | 120 | chapter 13 / four-star internal transition | verified | `pages/0122-pudhaiyal.md` |
+| 123 | 121 | chapter 13 | verified | `pages/0123-pudhaiyal.md` |
+| 124 | 122 | chapter 13 | verified | `pages/0124-pudhaiyal.md` |
+| 125 | 123 | chapter 13 | verified | `pages/0125-pudhaiyal.md` |
+| 126 | 124 | chapter 13 | verified | `pages/0126-pudhaiyal.md` |
+| 127 | 125 | chapter 13 | verified | `pages/0127-pudhaiyal.md` |
+| 128 | 126 | chapter 13 closes / chapter 14 begins | verified | `pages/0128-pudhaiyal.md` |
 | 129 | 127 | chapter 14 | not-started | `pages/0129-pudhaiyal.md` |
 | 130 | 128 | chapter 14 | not-started | `pages/0130-pudhaiyal.md` |
 | 131 | 129 | chapter 14 | not-started | `pages/0131-pudhaiyal.md` |
@@ -170,12 +170,12 @@ Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes
 
 - Tamil Digital Library bibliographic extent: **443 p.**
 - Exact full-PDF scan/page-object count: **pending complete source reconciliation**
-- Page records created: **118**
-- `verified`: **118**
+- Page records created: **128**
+- `verified`: **128**
 - `needs-review`: **0**
 - `partial`: **0**
-- unresolved readings through scan 118: **0**
-- known-prefix rows `not-started`: **32** — scans 119–150
+- unresolved readings through scan 128: **0**
+- known-prefix rows `not-started`: **22** — scans 129–150
 - full-source page-map coverage: **INCOMPLETE**
 - source PDF / split PDFs stored in repository: **No**
 
@@ -193,10 +193,19 @@ Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes
 - chapter 9 — scan 84 begins; scan 92 closes
 - chapter 10 — scan 93 begins; scan 98 internal transition; scan 101 closes
 - chapter 11 — scan 102 begins; scan 107 internal transition; scan 110 → chapter 12
-- chapter 12 — scan 118 internal transition
+- chapter 12 — scan 118 internal transition; chapter closes before scan 119
+- chapter 13 — scan 119 begins; scan 122 internal transition; scan 128 closes chapter 13 and begins chapter 14
 
-Later chapter checkpoints and the true ending remain provisional until later split pages are processed.
+## Source-confirmed structural preflight ahead
+
+- scans 129–137 — chapter 14 continues
+- scan 138 — chapter 14 closes / chapter 15 begins on the same physical page
+- scans 139–145 — chapter 15 continues
+- scan 146 — chapter 15 closes / chapter 16 begins on the same physical page
+- scan 147 — chapter 16 continues; end of part 003 only, not source end
+
+The true ending remains unresolved until later split ranges are processed.
 
 ## Exact next activity
 
-Backward integrity is closed through scan 118. Resume forward transcription from **scan 119 / printed page 117** using split part 003 and the next user-supplied baseline. Do not start English translation.
+Resume forward transcription from **scan 129 / printed page 127** using split part 003 page **31** and the next user-supplied baseline. Do not start English translation.
