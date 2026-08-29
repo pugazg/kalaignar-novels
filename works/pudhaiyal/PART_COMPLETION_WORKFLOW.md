@@ -8,7 +8,7 @@ The split PDFs are **access derivatives of one source edition**, not separate bi
 
 ## User-approved working rule
 
-Going forward, do not stop after transcription of a split PDF. When a split is supplied, complete every workflow stage that can be completed safely for that split before asking for the next split.
+Do not stop after transcription of a split PDF. When a split is supplied, complete every workflow stage that can be completed safely for that split before asking for the next split.
 
 For each split:
 
@@ -16,21 +16,16 @@ For each split:
 2. create/reconcile every canonical `pages/` record;
 3. perform native visual/textual fidelity review;
 4. resolve or explicitly retain every `needs-review` item;
-5. run a **part-level Tamil audit** for that split;
+5. run a **part-level Tamil audit**;
 6. update the incremental assembled Tamil reading layer from audited `pages/` only;
-7. once the shared English translation plan exists, translate the audited material from that split in controlled batches;
+7. translate the audited material under the shared English translation plan;
 8. source-check the English against canonical Tamil;
 9. run a **part-level bilingual review**;
 10. update part status, page map, README and HANDOVER before moving to the next split.
 
 ## Cross-split continuity rule
 
-A split boundary is not a narrative boundary.
-
-- If a word, sentence, paragraph, chapter, scene or internal sequence crosses a split boundary, preserve the source continuity.
-- Do not invent a chapter/section break because a derivative PDF ends.
-- The assembled layer may carry a reversible split-boundary marker for provenance, but the reader-facing narrative remains continuous.
-- When the next split arrives, recheck the boundary join before declaring the newer split part-complete.
+A split boundary is not a narrative boundary. A word, sentence, paragraph, chapter, scene or internal sequence crossing a split must remain continuous. A reversible provenance marker may be retained, but no false narrative break may be invented.
 
 ## Part-level states
 
@@ -48,7 +43,7 @@ The following remain whole-source gates and cannot be closed per split:
 
 - complete source extent / complete page map;
 - final whole-work Tamil audit;
-- final assembled-Tamil consistency pass across the entire novel;
+- final assembled-Tamil consistency pass;
 - whole-work bilingual review;
 - English whole-work `verified`;
 - `RELEASE_REPORT.md` release-ready verdict.
@@ -58,38 +53,33 @@ The following remain whole-source gates and cannot be closed per split:
 - Part 001 — scans **1–49** — **`part-complete`**
 - Part 002 — scans **50–98** — **`part-complete`**
 - Part 003 — scans **99–147** — **`part-complete`**
+- Part 004 — scans **148–196** — **`part-complete`**
 
-Part 003 ended mid-sentence at scan 147 / printed page 145 with `அடங்கித்தான் போய்`. Part 004 native scan 148 closes that boundary as `விட்டார்கள்.` → continuous `அடங்கித்தான் போய் விட்டார்கள்.`
-
-## Part 004 — scans 148–196
+## Part 004 completion record
 
 Source derivative: `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf`
 
 - split pages: **49**
-- visibly printed range: **146–194**
-- derivative-local map: [`indexes/part-004-page-map.md`](indexes/part-004-page-map.md)
-- structural preflight: [`notes/part-004-structural-preflight-148-196.md`](notes/part-004-structural-preflight-148-196.md)
-- fidelity reports: [`notes/visual-fidelity-scans-148-158.md`](notes/visual-fidelity-scans-148-158.md), [`notes/visual-fidelity-scans-159-167.md`](notes/visual-fidelity-scans-159-167.md), [`notes/visual-fidelity-scans-168-177.md`](notes/visual-fidelity-scans-168-177.md), [`notes/visual-fidelity-scans-178-187.md`](notes/visual-fidelity-scans-178-187.md)
-- canonical Tamil verified: **scans 148–187 — 40 / 49**
-- unresolved readings in verified range: **0**
-- remaining canonical range: **188–196 — 9 scans**
-- current state: **in progress**
+- printed range: **146–194**
+- canonical Tamil: **49 / 49 verified**
+- unresolved: **0**
+- Tamil audit: [`notes/part-004-tamil-audit.md`](notes/part-004-tamil-audit.md) — **PASSED**
+- assembled Tamil: **PASSED through scan 196**
+- English review: [`translations/en/PART_004_REVIEW.md`](translations/en/PART_004_REVIEW.md) — **PASSED**
+- final derivative map: [`indexes/part-004-page-map.md`](indexes/part-004-page-map.md) — **part-complete**
 
-Closed internal boundaries include:
+Cross-boundary checks include:
 
-- scan 158 `டாக்` → scan 159 `துரைக்கு` = **`டாக்துரைக்கு`**;
-- scan 171 closes chapter 18 and scan 172 begins chapter **19**;
-- scan 173 `வள்ளி வெட்டப்` → scan 174 `பட வேண்டும்` = **`வள்ளி வெட்டப்பட வேண்டும்`**;
-- scan 175 `பூமியைத்` → scan 176 `தயார் செய்து வைத்திருக்கிறார்கள்`;
-- scan 176 `“சிறிது` → scan 177 `நேரத்தில் உயிர் போய்விடும்”`;
-- scan 177 `அந்தகார இருட்டிலே,` → scan 178 `தளிர்களான நாங்கள்...`;
-- scan 178 `எனக்கும், என் தங்கை` → scan 179 `தேயிலைக் காடுகளின்...`;
-- scan 179 closes chapter 19 / begins chapter **20**;
-- scan 179 `உப்பரிகையின் மேல்` → scan 180 `தளம் வரையிலே`;
-- scan 181 `அப்` → scan 182 `படி` = **`அப்படி`**;
-- scan 184 `ஒரு ரத்தம்` → scan 185 `தோய்ந்த அரிவாள்`;
-- scan 187 closes chapter 20 / begins chapter **21**.
+- 147→148 `அடங்கித்தான் போய் விட்டார்கள்.`
+- 158→159 `டாக்துரைக்கு`
+- 173→174 `வள்ளி வெட்டப்பட வேண்டும்`
+- 187→188 `அதுகூட இல்லை எனக்கு.`
+- 193→194 `ஆகாரமும்`
+- 194→195 `வேண்டாமென்று`
+- 195→196 `ஒரு பெருமாள் கோவில் வாசல்—`
 
-The exact next source activity is **scan 188 / printed page 186 / split page 41**. Scan 187 ends physically at `அதுகூட`; its continuation must be established from scan 188 native source pixels.
+Scan 196 closes chapter 21 and begins chapter **22**. Part 004 ends there only because the derivative ends; chapter 22 continues.
 
-After all scans 148–196 are verified, complete Part 004's Tamil audit, assembled Tamil, English translation, bilingual review and status synchronization before moving to another split.
+## Exact next source activity
+
+Obtain / attach the next source split beginning at **scan 197 / printed page 195**. Establish chapter 22's continuation from native source pixels, then complete the entire per-split workflow before moving onward.
