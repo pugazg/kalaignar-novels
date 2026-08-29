@@ -17,15 +17,15 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_004_pages_148-196
 | 156 | 154 | chapter 17 | verified | `../pages/0156-pudhaiyal.md` |
 | 157 | 155 | chapter 17 | verified | `../pages/0157-pudhaiyal.md` |
 | 158 | 156 | chapter 17; ends at `டாக்` | verified | `../pages/0158-pudhaiyal.md` |
-| 159 | 157 | chapter 17 | not-started | `../pages/0159-pudhaiyal.md` |
-| 160 | 158 | chapter 17 | not-started | `../pages/0160-pudhaiyal.md` |
-| 161 | 159 | chapter 17 | not-started | `../pages/0161-pudhaiyal.md` |
-| 162 | 160 | chapter 17 | not-started | `../pages/0162-pudhaiyal.md` |
-| 163 | 161 | chapter 17 closes / chapter 18 begins | not-started | `../pages/0163-pudhaiyal.md` |
-| 164 | 162 | chapter 18 | not-started | `../pages/0164-pudhaiyal.md` |
-| 165 | 163 | chapter 18 | not-started | `../pages/0165-pudhaiyal.md` |
-| 166 | 164 | chapter 18 | not-started | `../pages/0166-pudhaiyal.md` |
-| 167 | 165 | chapter 18 | not-started | `../pages/0167-pudhaiyal.md` |
+| 159 | 157 | chapter 17; begins `துரைக்கு` | verified | `../pages/0159-pudhaiyal.md` |
+| 160 | 158 | chapter 17 | verified | `../pages/0160-pudhaiyal.md` |
+| 161 | 159 | chapter 17 | verified | `../pages/0161-pudhaiyal.md` |
+| 162 | 160 | chapter 17 | verified | `../pages/0162-pudhaiyal.md` |
+| 163 | 161 | chapter 17 closes / chapter 18 begins | verified | `../pages/0163-pudhaiyal.md` |
+| 164 | 162 | chapter 18 | verified | `../pages/0164-pudhaiyal.md` |
+| 165 | 163 | chapter 18 | verified | `../pages/0165-pudhaiyal.md` |
+| 166 | 164 | chapter 18 | verified | `../pages/0166-pudhaiyal.md` |
+| 167 | 165 | chapter 18; four-star internal separator | verified | `../pages/0167-pudhaiyal.md` |
 | 168 | 166 | chapter 18 | not-started | `../pages/0168-pudhaiyal.md` |
 | 169 | 167 | chapter 18 | not-started | `../pages/0169-pudhaiyal.md` |
 | 170 | 168 | chapter 18 | not-started | `../pages/0170-pudhaiyal.md` |
@@ -59,10 +59,16 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_004_pages_148-196
 ## Current state
 
 - derivative pages: **49**
-- canonical records created: **11**
-- verified: **11**
+- canonical records created: **20**
+- verified: **20**
 - needs-review: **0**
-- not-started: **38**
-- next scan: **159 / printed 157 / split page 12**
+- unresolved readings: **0**
+- not-started: **29**
+- next scan: **168 / printed 166 / split page 21**
 
-Structure-only evidence for the untranscribed range is recorded in [`../notes/part-004-structural-preflight-148-196.md`](../notes/part-004-structural-preflight-148-196.md).
+Fidelity records:
+
+- [`../notes/visual-fidelity-scans-148-158.md`](../notes/visual-fidelity-scans-148-158.md)
+- [`../notes/visual-fidelity-scans-159-167.md`](../notes/visual-fidelity-scans-159-167.md)
+
+Structure-only evidence for the remaining range is recorded in [`../notes/part-004-structural-preflight-148-196.md`](../notes/part-004-structural-preflight-148-196.md).
