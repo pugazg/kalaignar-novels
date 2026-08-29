@@ -23,7 +23,9 @@ Backward native-image reinspection established:
 
 The former repository reading `ஸ்பெஷல் பதிப்பு` was an assistant misread and has been withdrawn.
 
-## Split-source workflow
+## Split-source / part-completion workflow
+
+The split PDFs are access derivatives of one edition, not separate bibliographic works. Follow [`PART_COMPLETION_WORKFLOW.md`](PART_COMPLETION_WORKFLOW.md): once a split's canonical Tamil is complete, finish its part Tamil audit, assembled Tamil, English translation, bilingual source review and status synchronization before moving to the next split.
 
 ### Part 001
 
@@ -31,8 +33,14 @@ The former repository reading `ஸ்பெஷல் பதிப்பு` was 
 
 - represented source scans: **1–49**
 - transcription coverage: complete
-- integrity state: verified after backward corrections
-- committed: **No**
+- canonical Tamil: **49 / 49 verified**
+- part Tamil audit: **PASSED**
+- assembled Tamil: **PASSED through scan 49**
+- English source check: **PASSED through scan 49**
+- bilingual review: **PASSED**
+- state: **`part-complete`**
+- review: [`translations/en/PART_001_REVIEW.md`](translations/en/PART_001_REVIEW.md)
+- committed source PDF: **No**
 
 ### Part 002
 
@@ -41,9 +49,19 @@ The former repository reading `ஸ்பெஷல் பதிப்பு` was 
 - represented source scans: **50–98**
 - split pages: **49**
 - visibly printed range: **48–96**
-- transcription coverage: complete
-- integrity state: **49 / 49 verified after backward-integrity audit**
-- committed: **No**
+- canonical Tamil: **49 / 49 verified after backward-integrity audit**
+- part Tamil audit: **PASSED**
+- assembled Tamil: **PASSED through scan 98**
+- English source check: **PASSED through scan 98**
+- bilingual review: **PASSED**
+- state: **`part-complete`**
+- review: [`translations/en/PART_002_REVIEW.md`](translations/en/PART_002_REVIEW.md)
+- committed source PDF: **No**
+
+Boundary checks:
+
+- scan **49 → 50** is one continuous sentence inside chapter 4's embedded tale; the split boundary does not create a narrative break;
+- scan **98 → 99** is a derivative boundary following a source-printed four-star internal separator; verified scan 99 remains chapter 10, so Part 002 is not the end of the chapter or novel.
 
 ### Part 003
 
@@ -57,7 +75,9 @@ The former repository reading `ஸ்பெஷல் பதிப்பு` was 
 - scans 129–147: **structure-only native preflight complete; canonical Tamil still `not-started`**
 - Iteration 11 fidelity report: [`notes/visual-fidelity-scans-119-128.md`](notes/visual-fidelity-scans-119-128.md)
 - structural preflight: [`notes/part-003-structural-preflight-119-147.md`](notes/part-003-structural-preflight-119-147.md)
-- committed: **No**
+- part-level Tamil audit: **not yet eligible**
+- assembled / English / bilingual review: pending completion of canonical Tamil for the derivative
+- committed source PDF: **No**
 
 ## Current archival status
 
@@ -70,9 +90,12 @@ The former repository reading `ஸ்பெஷல் பதிப்பு` was 
 - known-prefix not-started — **22**: scans 129–150
 - backward integrity audit — **COMPLETE through scan 118**
 - forward source-fidelity transcription — **verified through scan 128; next scan 129**
-- Tamil whole-work audit — **not started**
-- assembled Tamil — **blocked**
-- English translation — **blocked**
+- Part 001 — **part-complete**
+- Part 002 — **part-complete**
+- Tamil whole-work audit — **not yet eligible**
+- assembled Tamil — **part-reviewed continuously through scan 98; whole-work final pass not yet eligible**
+- English translation — **part-reviewed continuously through scan 98; whole-work `verified` not yet eligible**
+- release-readiness — **blocked until complete source**
 - source PDF / split PDFs committed — **No**
 
 ## Integrity recovery
@@ -147,7 +170,7 @@ A structure-only native pass over part 003 pages 21–49 established:
 
 Scans **129–147** remain `not-started` for canonical Tamil until user-supplied baselines are reconciled under the permanent old-glyph rule.
 
-## Fidelity / preflight records
+## Fidelity / audit / review records
 
 - [`notes/visual-fidelity-scans-001-012.md`](notes/visual-fidelity-scans-001-012.md)
 - [`notes/visual-fidelity-scans-013-022.md`](notes/visual-fidelity-scans-013-022.md)
@@ -161,6 +184,10 @@ Scans **129–147** remain `not-started` for canonical Tamil until user-supplied
 - [`notes/visual-fidelity-scans-109-118.md`](notes/visual-fidelity-scans-109-118.md)
 - [`notes/visual-fidelity-scans-119-128.md`](notes/visual-fidelity-scans-119-128.md)
 - [`notes/backward-integrity-audit-001-118.md`](notes/backward-integrity-audit-001-118.md)
+- [`notes/part-001-tamil-audit.md`](notes/part-001-tamil-audit.md)
+- [`notes/part-002-tamil-audit.md`](notes/part-002-tamil-audit.md)
+- [`translations/en/PART_001_REVIEW.md`](translations/en/PART_001_REVIEW.md)
+- [`translations/en/PART_002_REVIEW.md`](translations/en/PART_002_REVIEW.md)
 - [`notes/part-003-structural-preflight-119-147.md`](notes/part-003-structural-preflight-119-147.md)
 
 ## Source registration still open
@@ -176,6 +203,8 @@ Current prefix manifest: [`indexes/page-map.md`](indexes/page-map.md).
 
 ## Exact next activity
 
-Continue forward transcription from **scan 129 / printed page 127 / split part 003 page 31** using the next user-supplied baseline.
+Continue **Part 003** canonical Tamil from **scan 129 / printed page 127 / split part-003 page 31** using the next user-supplied baseline and the permanent old-glyph rule.
 
-Preserve the stricter old-glyph rule for every disagreement. Do not begin English translation.
+Do not begin Part-003 English translation before scans **99–147** have all passed canonical Tamil verification and the Part-003 Tamil audit.
+
+Once Part 003 Tamil is complete, finish that split's assembled Tamil, English translation, bilingual source review and `part-complete` checkpoint **before moving to the next PDF split**.
