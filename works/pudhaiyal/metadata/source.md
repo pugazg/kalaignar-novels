@@ -25,7 +25,8 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 - represented source scans: **1–49**
 - split page count: **49**
 - transcription coverage: complete
-- integrity state: scans 1–49 verified after backward corrections
+- integrity state: **49 / 49 verified**
+- split workflow state: **part-complete**
 - committed: **No**
 
 ### Part 002
@@ -37,6 +38,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 - visibly printed page range: **48–96**
 - transcription coverage: complete
 - integrity state: **49 / 49 verified after backward-integrity audit**
+- split workflow state: **part-complete**
 - committed: **No**
 
 ### Part 003
@@ -45,10 +47,12 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 
 - represented source scans: **99–147**
 - split page count: **49**
-- page records created through: **scan 128 / printed page 126**
+- page records created through: **scan 137 / printed page 135**
 - scans **99–118: verified after backward-integrity re-audit**
 - scans **119–128: verified from user Iteration 11 against native source**
-- scans **129–147: canonical Tamil `not-started`; structure-only preflight complete**
+- scans **129–137: verified against native split pages 31–39**
+- scans **138–147: canonical Tamil `not-started`; structure-only preflight complete**
+- split workflow state: **in progress**
 - committed: **No**
 
 These splits are access derivatives of the same controlling edition and do not establish new editions.
@@ -85,7 +89,9 @@ Confirmed checkpoints include:
 - scan 110 → printed 108;
 - scan 118 → printed 116;
 - scan 119 → printed 117;
-- scan 128 → printed 126.
+- scan 128 → printed 126;
+- scan 129 → printed 127;
+- scan 137 → printed 135.
 
 ## Current work structure established by direct evidence
 
@@ -114,25 +120,32 @@ Confirmed checkpoints include:
 ├── scan 110: chapter 11 closes; chapter 12 begins
 ├── scan 118: four-star internal transition inside chapter 12
 ├── scan 119: chapter 13 begins
-└── scan 128: chapter 13 closes; chapter 14 begins on the same physical page
+├── scan 128: chapter 13 closes; chapter 14 begins on the same physical page
+├── scans 129–137: chapter 14 continues
+├── scan 138: chapter 14 closes; chapter 15 begins on the same physical page — preflight only, canonical text pending
+├── scan 146: chapter 15 closes; chapter 16 begins on the same physical page — preflight only, canonical text pending
+└── scan 147: chapter 16 continues; end of split part 003 only — preflight only, canonical text pending
 ```
 
 ## Canonical Tamil state
 
-- page records created: **128**
-- verified: **128**
+- page records created: **137**
+- verified: **137**
 - needs-review: **0**
 - partial: **0**
-- unresolved readings through scan 128: **0**
-- known-prefix not-started rows: **22** — scans 129–150
+- unresolved readings through scan 137: **0**
+- known-prefix not-started rows: **13** — scans 138–150
+- Part 003 canonical range still pending: **138–147**
 - backward integrity audit: **COMPLETE through scan 118**
-- forward source-fidelity transcription: **verified through scan 128; next scan 129**
+- forward source-fidelity transcription: **verified through scan 137; next scan 138**
 
 Scan 75 final old-glyph resolution: the source line wraps `போயிட்` / `டுதா?`, establishing continuous **`போயிட்டுதா?`**.
 
 Scans 109–118 re-audit: [`../notes/visual-fidelity-scans-109-118.md`](../notes/visual-fidelity-scans-109-118.md) — **10 / 10 verified; unresolved 0**.
 
-Scans 119–128 fidelity pass: [`../notes/visual-fidelity-scans-119-128.md`](../notes/visual-fidelity-scans-119-128.md) — **10 / 10 verified; unresolved 0**. Scan 128 includes the source text after the Iteration-11 baseline ended, through the physical-page endpoint `பல`, including the chapter 14 opening.
+Scans 119–128 fidelity pass: [`../notes/visual-fidelity-scans-119-128.md`](../notes/visual-fidelity-scans-119-128.md) — **10 / 10 verified; unresolved 0**. Scan 128 includes the source text after the earlier baseline ended, through the physical-page endpoint `பல`, including the chapter 14 opening.
+
+Scans 129–137 fidelity pass: [`../notes/visual-fidelity-scans-129-137.md`](../notes/visual-fidelity-scans-129-137.md) — **9 / 9 verified; unresolved 0**. The user baseline omitted printed page 135 despite its stated range, so scan 137 was restored directly from native source. Its physical endpoint is the incomplete `என் சோக வாழ்`, which must be continued only from scan 138.
 
 Central backward-integrity record: [`../notes/backward-integrity-audit-001-118.md`](../notes/backward-integrity-audit-001-118.md).
 
@@ -146,6 +159,8 @@ Central backward-integrity record: [`../notes/backward-integrity-audit-001-118.m
 
 ## Exact next action
 
-Continue forward transcription from **scan 129 / printed page 127 / split part 003 page 31** using the next user-supplied baseline. Preserve the strict native old-glyph rule for every future disagreement.
+Continue forward transcription from **scan 138 / printed page 136 / split part 003 page 40** using the next user-supplied baseline. Preserve the strict native old-glyph rule for every future disagreement.
 
-Do not begin English translation.
+Scan 138 must establish the continuation of scan 137's physical `என் சோக வாழ்` and the known chapter **14 → 15** transition.
+
+Do not begin Part-003 English translation until all scans 99–147 have passed canonical Tamil verification and the Part-003 Tamil audit.
