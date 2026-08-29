@@ -41,7 +41,7 @@ Source identity:
 - original SHA-256: pending exact byte-level access
 - source/split PDFs committed: No
 
-The former `150 pages total` conclusion is permanently withdrawn. The source extends beyond the early 150-scan prefix.
+The former `150 pages total` conclusion is permanently withdrawn. The source extends beyond that early prefix.
 
 ## Available access derivatives
 
@@ -54,13 +54,7 @@ These are access derivatives of one edition, not separate bibliographic works.
 
 ## User-approved split-part completion workflow
 
-Going forward, **finish the complete safe workflow for each supplied split before moving to the next split**.
-
-Read and follow:
-
-`works/pudhaiyal/PART_COMPLETION_WORKFLOW.md`
-
-For each split:
+Finish the complete safe workflow for each supplied split before moving to the next split. Follow `works/pudhaiyal/PART_COMPLETION_WORKFLOW.md`:
 
 1. page map and canonical `pages/` records;
 2. native visual/textual fidelity pass;
@@ -71,55 +65,25 @@ For each split:
 7. part-level bilingual source check;
 8. part status synchronization and `part-complete` checkpoint.
 
-A split boundary is provenance only. It must never create a false chapter/scene boundary. Cross-split words, sentences, paragraphs and chapters must remain continuous in derived layers.
+A split boundary is provenance only. It must never create a false word, sentence, paragraph, scene or chapter boundary.
 
-Final whole-work Tamil audit, final whole-work assembled-Tamil pass, whole-work English `verified`, and release-readiness remain blocked until the complete source edition and true ending/back matter are known.
+Final whole-work Tamil audit, final assembled-Tamil pass, whole-work English `verified`, and release-readiness remain blocked until the complete source edition and true ending/back matter are known.
 
-## Backward-integrity recovery
-
-Central record: `works/pudhaiyal/notes/backward-integrity-audit-001-118.md`
-
-Status: **COMPLETE through scan 118**.
-
-Representative repaired/protected readings include scan 4 `நூல் நிலையப் பதிப்பு ரூ 6/-`, scan 11 `இருக்கிறான்னு`, scan 24 `அவர்களை நோக்கி`, scan 25 `எதோ மருந்தொன்றை`, scan 31 no assistant-inserted full stop after `மூர்ச்சை யடைந்தான்`, scan 75 `போயிட்டுதா?`, scan 99 restoration of `சொல்வேன் என்று... நான் யாருடைய...`, scan 104 `நெடு நாள் பழக்கமா?`, scan 106 `நான் வரத்தான் வேண்டுமா?`, and later native-fidelity records through the active Part-004 range.
-
-## Completed part checkpoints
+## Completed checkpoints
 
 ### Part 001 — scans 1–49
 
-**`part-complete`**
-
-- canonical Tamil: 49 / 49 verified
-- part Tamil audit: PASSED
-- assembled Tamil: PASSED
-- English source check: PASSED
-- bilingual review: PASSED
-- review: `works/pudhaiyal/translations/en/PART_001_REVIEW.md`
+**`part-complete`** — Tamil audit, assembled Tamil, English source check and bilingual review all PASSED.
 
 ### Part 002 — scans 50–98
 
-**`part-complete`**
-
-- canonical Tamil: 49 / 49 verified
-- part Tamil audit: PASSED
-- assembled Tamil: PASSED
-- English source check: PASSED
-- bilingual review: PASSED
-- review: `works/pudhaiyal/translations/en/PART_002_REVIEW.md`
+**`part-complete`** — Tamil audit, assembled Tamil, English source check and bilingual review all PASSED.
 
 ### Part 003 — scans 99–147
 
-**`part-complete`**
+**`part-complete`** — 49 / 49 canonical pages verified; Tamil audit, assembled Tamil, English source check and bilingual review all PASSED.
 
-- canonical Tamil: 49 / 49 verified
-- part Tamil audit: PASSED
-- assembled Tamil: PASSED through scan 147
-- English source check: PASSED through scan 147
-- bilingual review: PASSED
-- Tamil audit: `works/pudhaiyal/notes/part-003-tamil-audit.md`
-- bilingual review: `works/pudhaiyal/translations/en/PART_003_REVIEW.md`
-
-Part 003 ended physically at `அடங்கித்தான் போய்` on scan 147.
+Part 003 ended physically at scan 147 with `அடங்கித்தான் போய்`.
 
 ## Part 004 — scans 148–196
 
@@ -134,35 +98,32 @@ Native derivative facts:
 - visibly printed range: **146–194**
 - derivative source PDF committed: **No**
 - derivative-local page map: `works/pudhaiyal/indexes/part-004-page-map.md`
-- structure preflight: `works/pudhaiyal/notes/part-004-structural-preflight-148-196.md`
+- structural preflight: `works/pudhaiyal/notes/part-004-structural-preflight-148-196.md`
 
-### Iteration 13 result
+### Iteration 13 — scans 148–158
 
-The user labelled the baseline as printed pages **146–155**, but its supplied text actually continues through most of printed page **156 / scan 158**. The native page was therefore included rather than truncating the source to the stated label.
+- **11 / 11 verified**; unresolved **0**.
+- fidelity: `works/pudhaiyal/notes/visual-fidelity-scans-148-158.md`
+- scan 147 `அடங்கித்தான் போய்` + scan 148 `விட்டார்கள்.` = `அடங்கித்தான் போய் விட்டார்கள்.`
+- protected/source-established examples: scan 148 `அவ்வளவு பெரிய வேதனைக் காடா`; scan 149 `ஒருவேளை இந்த முடிவு தவறக் கூட இருக்கலாம்`; scan 150 source-odd `நன்றுக!`; scan 155 chapter heading 17; scan 155 source-odd `கூலிக்காரப் பெண்களைக் தன்`; scan 157 `கேட்பேனும்`; scan 158 `சம்பவந்தான்`.
+- scan 158 ends physically at `டாக்`.
+
+### Iteration 14 — scans 159–167
+
+- **9 / 9 verified**; unresolved **0**.
+- fidelity: `works/pudhaiyal/notes/visual-fidelity-scans-159-167.md`
+- scan 158 `டாக்` + scan 159 `துரைக்கு` = **`டாக்துரைக்கு`** from native source pixels.
+- scan 159 source keeps `நவ நாகரீகத்துக்குக்` rather than the baseline's joined `நவநாகரீகத்துக்குக்`.
+- scan 163 source-prints the **chapter 17 → 18** transition on the same physical page.
+- scan 167 source reads `பழைய டைரிகளை`, not baseline `புழைய டைரிகளை`.
+- scan 167 has a source-printed four-star internal separator omitted by the baseline; it is restored canonically.
 
 Current Part-004 canonical state:
 
-- scans **148–158**: **11 / 11 verified**
-- unresolved readings in verified range: **0**
-- scans **159–196**: **38 not-started**
-- fidelity record: `works/pudhaiyal/notes/visual-fidelity-scans-148-158.md`
-
-Cross-split boundary is now closed from native source:
-
-- scan 147: `அடங்கித்தான் போய்`
-- scan 148: `விட்டார்கள்.`
-- continuous reading: **`அடங்கித்தான் போய் விட்டார்கள்.`**
-
-Material source-established Iteration-13 corrections include:
-
-- scan 148 source restores `அவ்வளவு பெரிய வேதனைக் காடா`;
-- scan 149 `ஒருவேளை இந்த முடிவு தவறக் கூட இருக்கலாம்`;
-- scan 150 source-odd `நன்றுக!`;
-- scan 155 source chapter heading **17** restored;
-- scan 155 source-odd `கூலிக்காரப் பெண்களைக் தன்`;
-- scan 157 `கேட்பேனும்`;
-- scan 158 `சம்பவந்தான்`;
-- scan 158 physical endpoint `டாக்`, which was absent from the supplied baseline.
+- scans **148–167**: **20 / 20 verified**
+- needs-review: **0**
+- unresolved readings: **0**
+- scans **168–196**: **29 not-started**
 
 Source-confirmed structure for Part 004:
 
@@ -176,35 +137,29 @@ Source-confirmed structure for Part 004:
 
 ## Canonical Tamil aggregate state
 
-- page records created / verified continuously through: **scan 158**
-- verified: **158**
+- page records created / verified continuously through: **scan 167**
+- verified: **167**
 - needs-review in verified range: **0**
 - partial in verified range: **0**
-- unresolved readings through scan 158: **0**
+- unresolved readings through scan 167: **0**
 - full-source page-map coverage: **INCOMPLETE**
 - Tamil whole-work audit: not yet eligible
 - assembled Tamil whole-work final pass: not yet eligible
 - English whole-work verification: not yet eligible
 - release-readiness: blocked until complete source
 
-The work-wide `indexes/page-map.md` still contains the earlier prefix map; while Part 004 is in progress, use the derivative-local `indexes/part-004-page-map.md` for scans 148–196. Merge/synchronize it into the work-wide map at the Part-004 completion checkpoint.
+While Part 004 is in progress, use `works/pudhaiyal/indexes/part-004-page-map.md` as the derivative-local authority. Merge it into the work-wide page map at the Part-004 completion checkpoint.
 
 ## Exact next activity
 
-Resume **Part 004 at scan 159 / printed page 157 / split page 12** using the next user-supplied baseline.
+Resume **Part 004 at scan 168 / printed page 166 / split page 21** using the next user-supplied baseline and native source page.
 
-Important physical boundary:
-
-- scan 158 ends at **`டாக்`**;
-- do not infer the next letters from grammar or context;
-- scan 159 must establish that continuation from native source pixels.
-
-Continue canonical Tamil / fidelity batches until scans **148–196** are all verified. Then, before accepting another split, complete Part 004 in the same chat/workflow:
+Continue canonical Tamil / fidelity batches until scans **148–196** are all verified. Then, before accepting another split, complete:
 
 1. Part-004 Tamil audit;
 2. assembled Tamil extension;
 3. controlled English translation;
 4. bilingual source check;
 5. Part-004 review;
-6. merge Part-004 mapping/status into the work-wide documents;
+6. merge Part-004 mapping/status into work-wide documents;
 7. mark Part 004 `part-complete` only if every applicable gate passes.
