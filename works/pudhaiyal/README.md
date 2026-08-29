@@ -51,23 +51,25 @@ The former repository reading `ஸ்பெஷல் பதிப்பு` was 
 
 - represented source scans: **99–147**
 - split pages: **49**
-- records created through: **scan 118 / printed page 116**
+- records created through: **scan 128 / printed page 126**
 - scans 99–118: **verified after backward-integrity re-audit**
-- scans 119–147: **structure-only native preflight complete; canonical Tamil still `not-started`**
+- scans 119–128: **10 / 10 verified from user Iteration 11 against native source**
+- scans 129–147: **structure-only native preflight complete; canonical Tamil still `not-started`**
+- Iteration 11 fidelity report: [`notes/visual-fidelity-scans-119-128.md`](notes/visual-fidelity-scans-119-128.md)
 - structural preflight: [`notes/part-003-structural-preflight-119-147.md`](notes/part-003-structural-preflight-119-147.md)
 - committed: **No**
 
 ## Current archival status
 
 - page map — known prefix scans **1–150**, full-source coverage incomplete
-- Tamil page records created — **118**
-- `verified` — **118**
+- Tamil page records created — **128**
+- `verified` — **128**
 - `needs-review` — **0**
 - `partial` — **0**
-- unresolved readings through scan 118 — **0**
-- known-prefix not-started — **32**: scans 119–150
+- unresolved readings through scan 128 — **0**
+- known-prefix not-started — **22**: scans 129–150
 - backward integrity audit — **COMPLETE through scan 118**
-- forward transcription — **UNBLOCKED from scan 119**
+- forward source-fidelity transcription — **verified through scan 128; next scan 129**
 - Tamil whole-work audit — **not started**
 - assembled Tamil — **blocked**
 - English translation — **blocked**
@@ -113,17 +115,37 @@ Detailed report:
 
 - [`notes/visual-fidelity-scans-109-118.md`](notes/visual-fidelity-scans-109-118.md)
 
+### Iteration 11 — scans 119–128
+
+User Iteration 11 was reconciled page-by-page against native part-003 pages 21–30. Result: **10 / 10 verified; unresolved readings in this range: 0**.
+
+Material source-established examples include:
+
+- scan 120 `இல்ல இல்ல!`;
+- scan 121 `எனக்கிட்ட சொன்னு கூட` and physical `விடு` → scan 122 `றேன்` boundary;
+- scan 122 four-star internal transition restored from source;
+- scan 123 source-odd `புருஷனுய்த்`, `வளர்த்துட்டீங்களே`, `இனிமே என்ன ஆனா என்ன?`;
+- scan 124 `தன்னுடைய பரம்பரையிலேயே`, `தங்கம் இருக்கும் இடத்தை`;
+- scan 125 source `என்னது?` restored where the baseline had only a placeholder;
+- scan 126 first `அழைச்சிகிட்டு`, later `அழைச்சுட்டு`, and source-odd `இதானெ`;
+- scan 127 `இதோ ராமனை ஏற்பாடு பண்ணியிருக்கேன்`, `என்று சொல்!`;
+- scan 128 `இப்பத் தானே`; the baseline omitted the remainder of the physical page, so the source-confirmed chapter **14** heading and opening prose were restored through the physical endpoint `பல`.
+
+Detailed report:
+
+- [`notes/visual-fidelity-scans-119-128.md`](notes/visual-fidelity-scans-119-128.md)
+
 ## Source-confirmed structure ahead of transcription
 
-A structure-only native pass over part 003 pages 21–49 confirms:
+A structure-only native pass over part 003 pages 21–49 established:
 
-- scan **119 / printed 117** — chapter **13** begins;
-- scan **128 / printed 126** — chapter **13 closes / chapter 14 begins** on the same physical page;
+- scan **119 / printed 117** — chapter **13** begins — now verified;
+- scan **128 / printed 126** — chapter **13 closes / chapter 14 begins** on the same physical page — now verified;
 - scan **138 / printed 136** — chapter **14 closes / chapter 15 begins** on the same physical page;
 - scan **146 / printed 144** — chapter **15 closes / chapter 16 begins** on the same physical page;
 - scan **147 / printed 145** — chapter 16 continues and is only the end of split part 003, not the end of the novel.
 
-These pages remain `not-started` for canonical Tamil until user-supplied baselines are reconciled under the permanent old-glyph rule.
+Scans **129–147** remain `not-started` for canonical Tamil until user-supplied baselines are reconciled under the permanent old-glyph rule.
 
 ## Fidelity / preflight records
 
@@ -137,6 +159,7 @@ These pages remain `not-started` for canonical Tamil until user-supplied baselin
 - [`notes/visual-fidelity-scans-083-098.md`](notes/visual-fidelity-scans-083-098.md)
 - [`notes/visual-fidelity-scans-099-108.md`](notes/visual-fidelity-scans-099-108.md)
 - [`notes/visual-fidelity-scans-109-118.md`](notes/visual-fidelity-scans-109-118.md)
+- [`notes/visual-fidelity-scans-119-128.md`](notes/visual-fidelity-scans-119-128.md)
 - [`notes/backward-integrity-audit-001-118.md`](notes/backward-integrity-audit-001-118.md)
 - [`notes/part-003-structural-preflight-119-147.md`](notes/part-003-structural-preflight-119-147.md)
 
@@ -153,10 +176,6 @@ Current prefix manifest: [`indexes/page-map.md`](indexes/page-map.md).
 
 ## Exact next activity
 
-Backward integrity is closed through scan 118. Resume forward transcription from **scan 119 / printed page 117** using split part 003 and the next user-supplied baseline.
+Continue forward transcription from **scan 129 / printed page 127 / split part 003 page 31** using the next user-supplied baseline.
 
-A natural next batch is **scans 119–128 / printed pages 117–126**. Scan 128 contains the source-confirmed **chapter 13 → 14** transition.
-
-Preserve the stricter old-glyph rule for every future disagreement.
-
-Do not start English translation.
+Preserve the stricter old-glyph rule for every disagreement. Do not begin English translation.
