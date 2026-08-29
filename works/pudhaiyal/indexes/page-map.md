@@ -4,13 +4,14 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 
 > **Extent warning:** this manifest currently covers only the known prefix through scan 150. It is **not** a complete-source manifest. Tamil Digital Library describes the item as **443 p.**; the exact full-PDF scan count remains pending later split reconciliation.
 
-> **Integrity gate:** the backward integrity audit is **COMPLETE through scan 118**. Canonical Tamil is now verified through scan **128 / printed page 126**, with no unresolved readings through that point. Forward transcription may resume from scan **129 / printed page 127**.
+> **Integrity gate:** the backward integrity audit is **COMPLETE through scan 118**. Canonical Tamil is now verified through scan **137 / printed page 135**, with no unresolved readings through that point. Forward transcription may resume from scan **138 / printed page 136**.
 
-> **Split-source state:** part 001 (`scans 1–49`), part 002 (`scans 50–98`) and part 003 (`scans 99–147`) are available as access derivatives. Page records currently exist through scan 128.
+> **Split-source state:** part 001 (`scans 1–49`), part 002 (`scans 50–98`) and part 003 (`scans 99–147`) are available as access derivatives. Page records currently exist through scan 137.
 
 > **Printed-page rule:** record a printed page number only when visibly printed. Scan 13 therefore remains `—` rather than inferred as 11.
 
 Integrity record: [`../notes/backward-integrity-audit-001-118.md`](../notes/backward-integrity-audit-001-118.md).  
+Latest fidelity record: [`../notes/visual-fidelity-scans-129-137.md`](../notes/visual-fidelity-scans-129-137.md).  
 Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes/source-page-count-reconciliation.md).
 
 | Scan | Printed page | Page type / section | Status | File |
@@ -143,16 +144,16 @@ Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes
 | 126 | 124 | chapter 13 | verified | `pages/0126-pudhaiyal.md` |
 | 127 | 125 | chapter 13 | verified | `pages/0127-pudhaiyal.md` |
 | 128 | 126 | chapter 13 closes / chapter 14 begins | verified | `pages/0128-pudhaiyal.md` |
-| 129 | 127 | chapter 14 | not-started | `pages/0129-pudhaiyal.md` |
-| 130 | 128 | chapter 14 | not-started | `pages/0130-pudhaiyal.md` |
-| 131 | 129 | chapter 14 | not-started | `pages/0131-pudhaiyal.md` |
-| 132 | 130 | chapter 14 | not-started | `pages/0132-pudhaiyal.md` |
-| 133 | 131 | chapter 14 | not-started | `pages/0133-pudhaiyal.md` |
-| 134 | 132 | chapter 14 | not-started | `pages/0134-pudhaiyal.md` |
-| 135 | 133 | chapter 14 | not-started | `pages/0135-pudhaiyal.md` |
-| 136 | 134 | chapter 14 | not-started | `pages/0136-pudhaiyal.md` |
-| 137 | 135 | chapter 14 | not-started | `pages/0137-pudhaiyal.md` |
-| 138 | 136 | chapter 15 begins | not-started | `pages/0138-pudhaiyal.md` |
+| 129 | 127 | chapter 14 | verified | `pages/0129-pudhaiyal.md` |
+| 130 | 128 | chapter 14 | verified | `pages/0130-pudhaiyal.md` |
+| 131 | 129 | chapter 14 | verified | `pages/0131-pudhaiyal.md` |
+| 132 | 130 | chapter 14 | verified | `pages/0132-pudhaiyal.md` |
+| 133 | 131 | chapter 14 | verified | `pages/0133-pudhaiyal.md` |
+| 134 | 132 | chapter 14 | verified | `pages/0134-pudhaiyal.md` |
+| 135 | 133 | chapter 14 | verified | `pages/0135-pudhaiyal.md` |
+| 136 | 134 | chapter 14 | verified | `pages/0136-pudhaiyal.md` |
+| 137 | 135 | chapter 14; ends mid-word at `வாழ்` | verified | `pages/0137-pudhaiyal.md` |
+| 138 | 136 | chapter 14 closes / chapter 15 begins | not-started | `pages/0138-pudhaiyal.md` |
 | 139 | 137 | chapter 15 | not-started | `pages/0139-pudhaiyal.md` |
 | 140 | 138 | chapter 15 | not-started | `pages/0140-pudhaiyal.md` |
 | 141 | 139 | chapter 15 | not-started | `pages/0141-pudhaiyal.md` |
@@ -160,7 +161,7 @@ Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes
 | 143 | 141 | chapter 15 | not-started | `pages/0143-pudhaiyal.md` |
 | 144 | 142 | chapter 15 | not-started | `pages/0144-pudhaiyal.md` |
 | 145 | 143 | chapter 15 | not-started | `pages/0145-pudhaiyal.md` |
-| 146 | 144 | chapter 16 begins | not-started | `pages/0146-pudhaiyal.md` |
+| 146 | 144 | chapter 15 closes / chapter 16 begins | not-started | `pages/0146-pudhaiyal.md` |
 | 147 | 145 | chapter 16 | not-started | `pages/0147-pudhaiyal.md` |
 | 148 | 146 | chapter 16 | not-started | `pages/0148-pudhaiyal.md` |
 | 149 | 147 | chapter 16 | not-started | `pages/0149-pudhaiyal.md` |
@@ -170,12 +171,12 @@ Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes
 
 - Tamil Digital Library bibliographic extent: **443 p.**
 - Exact full-PDF scan/page-object count: **pending complete source reconciliation**
-- Page records created: **128**
-- `verified`: **128**
+- Page records created: **137**
+- `verified`: **137**
 - `needs-review`: **0**
 - `partial`: **0**
-- unresolved readings through scan 128: **0**
-- known-prefix rows `not-started`: **22** — scans 129–150
+- unresolved readings through scan 137: **0**
+- known-prefix rows `not-started`: **13** — scans 138–150
 - full-source page-map coverage: **INCOMPLETE**
 - source PDF / split PDFs stored in repository: **No**
 
@@ -195,10 +196,10 @@ Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes
 - chapter 11 — scan 102 begins; scan 107 internal transition; scan 110 → chapter 12
 - chapter 12 — scan 118 internal transition; chapter closes before scan 119
 - chapter 13 — scan 119 begins; scan 122 internal transition; scan 128 closes chapter 13 and begins chapter 14
+- chapter 14 — verified continuously from scan 128 through scan 137; scan 137 ends mid-word at `வாழ்`
 
 ## Source-confirmed structural preflight ahead
 
-- scans 129–137 — chapter 14 continues
 - scan 138 — chapter 14 closes / chapter 15 begins on the same physical page
 - scans 139–145 — chapter 15 continues
 - scan 146 — chapter 15 closes / chapter 16 begins on the same physical page
@@ -208,4 +209,4 @@ The true ending remains unresolved until later split ranges are processed.
 
 ## Exact next activity
 
-Resume forward transcription from **scan 129 / printed page 127** using split part 003 page **31** and the next user-supplied baseline. Do not start English translation.
+Resume forward transcription from **scan 138 / printed page 136 / split part 003 page 40** using the next user-supplied baseline. The physical `வாழ்` ending on scan 137 must be completed only from scan 138 source evidence. Do not start English translation before Part 003 canonical Tamil is complete.
