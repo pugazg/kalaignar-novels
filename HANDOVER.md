@@ -84,19 +84,34 @@ Important repaired examples include scan 4 `நூல் நிலையப் �
 
 ## Canonical Tamil state
 
-- page records created: **128**
-- verified: **128**
+- page records created: **137**
+- verified: **137**
 - needs-review: **0**
 - partial: **0**
-- unresolved readings through scan 128: **0**
-- known-prefix not-started: **22** — scans 129–150
+- unresolved readings through scan 137: **0**
+- known-prefix not-started: **13** — scans 138–150
 - full-source page-map coverage: **INCOMPLETE**
 - Tamil whole-work audit: not yet eligible
 - assembled Tamil whole-work layer: not yet eligible for final pass
 - English whole-work verification: not yet eligible
 - release-readiness: blocked until complete source
 
-Iteration 11 scans 119–128 / printed 117–126 are verified. Scan 128 closes chapter 13 and begins chapter 14 on the same physical page.
+Part 003 canonical progress:
+
+- scans 99–118 — verified after backward-integrity re-audit;
+- scans 119–128 — verified from the previous Iteration-11 baseline pass;
+- scans 129–137 — **9 / 9 verified** against native split pages 31–39;
+- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scans-129-137.md`.
+
+Important latest source-established results:
+
+- scan 130 `பயன்படுத்திக்கொள்வதாக்கும்`;
+- scan 131 `இதை நிச்சயமாகத் தெரிந்து கொள்!`;
+- scan 131 `நிச்சயமாகத் தெரிகிறது—நீங்கள் பைத்தியக்காரர் இல்லை!`;
+- the user baseline was labelled printed pages 126–135 but actually stopped at printed 134; scan 137 / printed 135 was restored directly from native source;
+- scan 137 preserves `பிறந்தத் தரணி—`, source-odd `புழுதி மண்ணுகப்`, and the physical endpoint `என் சோக வாழ்` without guessing the continuation.
+
+Scan 128 closes chapter 13 and begins chapter 14 on the same physical page. Scan 137 remains inside chapter 14 and ends mid-word; scan 138 continues it and also contains the known chapter 14 → 15 transition.
 
 ## Part-completion status
 
@@ -127,39 +142,35 @@ Boundary checks closed:
 - scan 49 → 50 — one continuous chapter-4 embedded-tale sentence; no derivative break introduced;
 - scan 98 → 99 — scan 98's four-star separator is source-printed; verified scan 99 remains chapter 10, so the derivative boundary is not a chapter or novel ending.
 
-Part 002 assembled/translation inventory includes:
-
-- chapter-4 continuation scans 50–52;
-- chapter 5 through scan 60;
-- chapter 6 through scan 68;
-- chapter 7 through scan 75;
-- chapter 8 through scan 83;
-- chapter 9 through scan 92;
-- chapter 10 through scan 98.
-
 ### Part 003 — scans 99–147
 
 **IN PROGRESS — not part-complete**
 
-- scans 99–118: verified after backward-integrity re-audit
-- scans 119–128: verified
-- scans 129–147: canonical Tamil not started
+- scans 99–137: canonical Tamil verified
+- scans 138–147: canonical Tamil not started
 - structural native preflight through scan 147: complete
 - part-level Tamil audit: not yet eligible
 - assembled Tamil / English / bilingual review: must wait until the whole derivative's canonical Tamil is complete
 
 ## Exact next activity
 
-Resume **Part 003 canonical Tamil at scan 129 / printed page 127 / split part-003 page 31**, using the next user-supplied baseline and the permanent old-glyph rule.
+Resume **Part 003 canonical Tamil at scan 138 / printed page 136 / split part-003 page 40** using the next user-supplied baseline and the permanent old-glyph rule.
+
+Important boundary:
+
+- scan 137 ends physically at `என் சோக வாழ்`;
+- do not guess its continuation;
+- scan 138 is source-confirmed to close chapter 14 and begin chapter 15 on the same physical page.
 
 Do not start a later split and do not begin Part-003 English translation early.
 
-After scans **129–147** are all source-verified, complete the remaining workflow for **Part 003 then and there**:
+After scans **138–147** are all source-verified, complete the remaining workflow for **Part 003 then and there**:
 
-1. run the Part-003 Tamil audit across scans 99–147;
-2. assemble Part-003 Tamil, beginning with the verified scan 98 → 99 chapter-10 continuity;
-3. translate the audited Part-003 material under the shared English plan;
-4. source-check the English against canonical Tamil;
-5. run the Part-003 bilingual review;
-6. mark Part 003 `part-complete` only if every applicable check passes;
-7. only then move to the next PDF split.
+1. synchronize the part-003 page map/status documents;
+2. run the Part-003 Tamil audit across scans 99–147;
+3. assemble Part-003 Tamil, preserving the verified scan 98 → 99 continuity and all later physical joins;
+4. translate the audited Part-003 material under the shared English plan;
+5. source-check the English against canonical Tamil;
+6. run the Part-003 bilingual review;
+7. mark Part 003 `part-complete` only if every applicable check passes;
+8. only then move to the next PDF split.
