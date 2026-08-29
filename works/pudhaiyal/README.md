@@ -7,134 +7,78 @@
 **Exact full-PDF scan count:** pending complete source reconciliation  
 **Source PDF in repository:** No
 
-## Source-extent correction
-
-The former `150 pages total` conclusion is permanently withdrawn. Scans 1–150 are only a known prefix. Later source splits are required to establish the true ending, back matter and exact full-PDF scan count.
-
-See [`notes/source-page-count-reconciliation.md`](notes/source-page-count-reconciliation.md).
-
 ## Source authority
 
 The scanned source is the textual authority. User transcription is a comparison baseline only. Do not modernize, regularize or silently repair old-print Tamil. A disagreement is changed only after native-source verification; genuine ambiguity remains `needs-review`.
 
-The publication-page reinspection established:
-
-- `சாதாரணப் பதிப்பு ரூ 5/-`
-- `நூல் நிலையப் பதிப்பு ரூ 6/-`
-- `மூன்றாம் பதிப்பு: செப்டம்பர், 1961.`
-
-The former assistant reading `ஸ்பெஷல் பதிப்பு` is withdrawn.
+The former `150 pages total` conclusion is permanently withdrawn. The source extends beyond that early prefix. See [`notes/source-page-count-reconciliation.md`](notes/source-page-count-reconciliation.md).
 
 ## Split-source / part-completion workflow
 
-The supplied split PDFs are access derivatives of one edition, not separate bibliographic works. Follow [`PART_COMPLETION_WORKFLOW.md`](PART_COMPLETION_WORKFLOW.md): for each derivative complete canonical Tamil, native fidelity, the part Tamil audit, assembled Tamil, English translation, bilingual review and status synchronization before moving to the next split.
+The supplied split PDFs are access derivatives of one edition, not separate bibliographic works. Follow [`PART_COMPLETION_WORKFLOW.md`](PART_COMPLETION_WORKFLOW.md): canonical Tamil → native fidelity → part Tamil audit → assembled Tamil → English translation → bilingual review → status synchronization before moving to the next split.
 
-A derivative boundary is provenance only and must never create a false word, sentence, scene or chapter boundary.
+A derivative boundary is provenance only and must never create a false word, sentence, paragraph, scene or chapter boundary.
 
-### Part 001 — scans 1–49
+## Part status
 
-`TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`
+| Part | Source scans | State |
+|---|---:|---|
+| Part 001 | 1–49 | **part-complete** |
+| Part 002 | 50–98 | **part-complete** |
+| Part 003 | 99–147 | **part-complete** |
+| Part 004 | 148–196 | **in progress — 20 / 49 verified** |
 
-- canonical Tamil: **49 / 49 verified**
-- part Tamil audit: **PASSED**
-- assembled Tamil: **PASSED through scan 49**
-- English source check: **PASSED through scan 49**
-- bilingual review: **PASSED**
-- state: **`part-complete`**
-- review: [`translations/en/PART_001_REVIEW.md`](translations/en/PART_001_REVIEW.md)
-- committed source PDF: **No**
+Part 001/002/003 have passed their part Tamil audits, assembled-Tamil checks, English source checks and bilingual reviews.
 
-### Part 002 — scans 50–98
+## Part 004 — active derivative
 
-`TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf`
+Source: `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf`
 
 - split pages: **49**
-- visibly printed pages: **48–96**
-- canonical Tamil: **49 / 49 verified**
-- part Tamil audit: **PASSED**
-- assembled Tamil: **PASSED through scan 98**
-- English source check: **PASSED through scan 98**
-- bilingual review: **PASSED**
-- state: **`part-complete`**
-- review: [`translations/en/PART_002_REVIEW.md`](translations/en/PART_002_REVIEW.md)
-- committed source PDF: **No**
+- source scans: **148–196**
+- visibly printed range: **146–194**
+- verified: **148–167 = 20 / 49**
+- needs-review: **0**
+- unresolved readings through scan 167: **0**
+- not-started: **168–196 = 29**
+- derivative-local map: [`indexes/part-004-page-map.md`](indexes/part-004-page-map.md)
+- structural preflight: [`notes/part-004-structural-preflight-148-196.md`](notes/part-004-structural-preflight-148-196.md)
+- fidelity: [`notes/visual-fidelity-scans-148-158.md`](notes/visual-fidelity-scans-148-158.md), [`notes/visual-fidelity-scans-159-167.md`](notes/visual-fidelity-scans-159-167.md)
+- source/split PDF committed: **No**
 
-### Part 003 — scans 99–147
+### Closed physical boundaries
 
-`TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf`
+- scan 147 `அடங்கித்தான் போய்` → scan 148 `விட்டார்கள்.` = **`அடங்கித்தான் போய் விட்டார்கள்.`**
+- scan 158 `டாக்` → scan 159 `துரைக்கு` = **`டாக்துரைக்கு`**
 
-- split pages: **49**
-- visibly printed pages: **97–145**
-- canonical Tamil: **49 / 49 verified**
-- unresolved readings: **0**
-- part Tamil audit: **PASSED**
-- assembled Tamil: **PASSED through scan 147**
-- English source check: **PASSED through scan 147**
-- bilingual review: **PASSED**
-- state: **`part-complete`**
-- Tamil audit: [`notes/part-003-tamil-audit.md`](notes/part-003-tamil-audit.md)
-- bilingual review: [`translations/en/PART_003_REVIEW.md`](translations/en/PART_003_REVIEW.md)
-- committed source PDF: **No**
+### Iteration 14 source-established details
 
-Part 003 ends on scan **147 / printed page 145** inside chapter 16 at the incomplete phrase `அடங்கித்தான் போய்`. That is only the derivative endpoint. No completion or novel ending is inferred.
+- scan 159 keeps `நவ நாகரீகத்துக்குக்` from the source;
+- scan 163 closes chapter 17 and begins chapter **18** on the same physical page;
+- scan 167 source reads `பழைய டைரிகளை`, not baseline `புழைய டைரிகளை`;
+- scan 167 restores the source-printed four-star internal separator omitted by the baseline.
 
-## Cross-split continuity closed so far
+### Source-confirmed later structure
 
-- scan **49 → 50** — one continuous sentence inside chapter 4's embedded tale;
-- scan **98 → 99** — source-printed four-star internal separator; chapter 10 continues on scan 99;
-- scan **147 → next split** — open: the next derivative must continue the incomplete `அடங்கித்தான் போய்` from native evidence before later text is accepted.
+- scan 172 — chapter 19 begins;
+- scan 179 — chapter 19 closes / chapter 20 begins;
+- scan 187 — chapter 20 closes / chapter 21 begins;
+- scan 196 — chapter 21 closes / chapter 22 begins; this is only the Part-004 endpoint, not the novel ending.
 
 ## Current archival status
 
-- page map — known prefix scans **1–150**, full-source coverage incomplete
-- Tamil page records created — **147**
-- `verified` — **147**
-- `needs-review` — **0**
-- `partial` — **0**
-- unresolved readings through scan 147 — **0**
-- known-prefix `not-started` — **3**: scans 148–150
-- backward integrity audit — **COMPLETE through scan 118**
-- Part 001 — **part-complete**
-- Part 002 — **part-complete**
-- Part 003 — **part-complete**
-- assembled Tamil — **part-reviewed continuously through scan 147**
-- English translation — **bilingual part-reviewed continuously through scan 147**
-- Tamil whole-work audit — **not yet eligible**
-- English whole-work `verified` — **not yet eligible**
-- release-readiness — **blocked until complete source**
-- source PDF / split PDFs committed — **No**
-
-## Integrity recovery / protected readings
-
-Central record: [`notes/backward-integrity-audit-001-118.md`](notes/backward-integrity-audit-001-118.md).
-
-Representative native-source recoveries across the current material include:
-
-- scan 75 `போயிட்டுதா?` from physical wrap `போயிட்` / `டுதா?`;
-- scan 99 `சொல்வேன் என்று நினைக்கிறீர்கள்!` and `நான் யாருடைய பெயரைச் சொன்னேன் தெரியுமா?`;
-- scan 109 `என்னா பிரதர்!`, `துக்கராமாக`, `பாழாய்ப்போன`, `திறமை யில்லேன்னு`;
-- scan 112 `காஷ்—?`, `என் அனாவசியமா செலவு`;
-- scan 116 source-odd `அவர்கள் ஆசிரியர் விடவில்லை`;
-- scan 123 source-odd `புருஷனுய்த்`;
-- scan 128 source forms `நன்றுக`, `நேரம் போக்குக்கு`, `நேரம் ஆடுவதும்`;
-- scan 131 `நிச்சயமாகத் தெரிகிறது—நீங்கள் பைத்தியக்காரர் இல்லை!`;
-- scan 137 `பிறந்தத் தரணி—`, source-odd `புழுதி மண்ணுகப்`;
-- scans 141–142 source-odd `பழுமாகப்`;
-- scan 144 source-odd `தடுப்பானேன்`, `அவர்களே ஊமையாகியது`;
-- scan 145 `சிறுவனுயிற்றே நீ`;
-- scan 146 `இளம் தளிராக!`;
-- scan 147 `சூடு ஆறிவிடாமல் அருந்துகிற தேநீர்`.
-
-Part-003 fidelity reports:
-
-- [`notes/visual-fidelity-scans-099-108.md`](notes/visual-fidelity-scans-099-108.md)
-- [`notes/visual-fidelity-scans-109-118.md`](notes/visual-fidelity-scans-109-118.md)
-- [`notes/visual-fidelity-scans-119-128.md`](notes/visual-fidelity-scans-119-128.md)
-- [`notes/visual-fidelity-scans-129-137.md`](notes/visual-fidelity-scans-129-137.md)
-- [`notes/visual-fidelity-scans-138-147.md`](notes/visual-fidelity-scans-138-147.md)
+- canonical Tamil page records verified continuously through **scan 167**
+- verified: **167**
+- `needs-review`: **0** in verified range
+- `partial`: **0** in verified range
+- backward integrity audit: **COMPLETE through scan 118**
+- assembled Tamil / bilingual English: part-reviewed through **scan 147**; Part 004 downstream layers wait for its complete Tamil gate
+- Tamil whole-work audit: **not yet eligible**
+- English whole-work `verified`: **not yet eligible**
+- release-readiness: **blocked until complete source**
 
 ## Exact next activity
 
-Attach / obtain the next source derivative beginning at **scan 148 / printed page 146**.
+Continue Part 004 at **scan 168 / printed page 166 / split page 21** from the next user baseline, reconciled against the native scan.
 
-Before processing later text, verify from the new native scan how scan 147's incomplete `அடங்கித்தான் போய்` continues. Then complete that derivative's full per-PDF workflow before asking for another split.
+After scans 148–196 are all verified, finish the full Part-004 workflow—Tamil audit, assembled Tamil, English translation, bilingual review and status merge—before moving to another source split.
