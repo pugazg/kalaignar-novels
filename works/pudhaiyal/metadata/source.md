@@ -12,52 +12,20 @@
 - Language: Tamil
 - Script: Tamil
 
-> The earlier `150 pages total` conclusion was wrong. Scan 150 is only the end of an initially exposed prefix, not the source ending.
+> The earlier `150 pages total` conclusion was wrong. Scan 150 was only the end of an initially exposed prefix, not the source ending.
 
 Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/source-page-count-reconciliation.md).
 
 ## Split-source access derivatives
 
-### Part 001
+| Part | Access derivative | Source scans | Printed range | Integrity / workflow |
+|---|---|---:|---:|---|
+| 001 | `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` | 1–49 | through 47 | **49/49 verified; part-complete** |
+| 002 | `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf` | 50–98 | 48–96 | **49/49 verified; part-complete** |
+| 003 | `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf` | 99–147 | 97–145 | **49/49 verified; part-complete** |
+| 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **49/49 verified; part-complete** |
 
-`TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`
-
-- represented source scans: **1–49**
-- split page count: **49**
-- transcription coverage: complete
-- integrity state: **49 / 49 verified**
-- split workflow state: **part-complete**
-- committed: **No**
-
-### Part 002
-
-`TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf`
-
-- represented source scans: **50–98**
-- split page count: **49**
-- visibly printed page range: **48–96**
-- transcription coverage: complete
-- integrity state: **49 / 49 verified after backward-integrity audit**
-- split workflow state: **part-complete**
-- committed: **No**
-
-### Part 003
-
-`TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf`
-
-- represented source scans: **99–147**
-- split page count: **49**
-- visibly printed page range: **97–145**
-- transcription coverage: complete for the derivative
-- integrity state: **49 / 49 verified; unresolved 0**
-- part Tamil audit: **PASSED**
-- assembled Tamil: **PASSED through scan 147**
-- English bilingual review: **PASSED through scan 147**
-- split workflow state: **part-complete**
-- final physical endpoint: chapter 16 continues at incomplete `அடங்கித்தான் போய்`
-- committed: **No**
-
-These splits are access derivatives of the same controlling edition and do not establish new editions.
+These splits are access derivatives of the same controlling edition and do not establish new editions. No split PDF is committed to GitHub.
 
 ## Title / publication data visible in scan
 
@@ -71,27 +39,23 @@ These splits are access derivatives of the same controlling edition and do not e
   - **சாதாரணப் பதிப்பு ரூ 5/-**
   - **நூல் நிலையப் பதிப்பு ரூ 6/-**
 
-The earlier assistant transcription `ஸ்பெஷல் பதிப்பு` was a scan misread and has been withdrawn. A Tamil Digital Library summary elsewhere saying `முதல் பதிப்பு, 1961` does not override the scan-printed `மூன்றாம் பதிப்பு`.
+The earlier assistant transcription `ஸ்பெஷல் பதிப்பு` was a scan misread and has been withdrawn. Catalogue wording elsewhere does not override the scan-printed edition line.
 
 ## Printed-page rule
 
 Record a printed number only when visibly printed. Scan 13 remains `null` / `—` because no printed number is visible.
 
-Confirmed later checkpoints include:
+Later checkpoints include:
 
-- scan 98 → printed 96;
-- scan 99 → printed 97;
-- scan 101 → printed 99;
-- scan 102 → printed 100;
-- scan 110 → printed 108;
-- scan 118 → printed 116;
-- scan 119 → printed 117;
-- scan 128 → printed 126;
-- scan 129 → printed 127;
-- scan 137 → printed 135;
-- scan 138 → printed 136;
-- scan 146 → printed 144;
-- scan 147 → printed 145.
+- scan 147 → printed 145
+- scan 148 → printed 146
+- scan 158 → printed 156
+- scan 159 → printed 157
+- scan 167 → printed 165
+- scan 172 → printed 170
+- scan 179 → printed 177
+- scan 187 → printed 185
+- scan 196 → printed 194
 
 ## Current work structure established by direct evidence
 
@@ -103,7 +67,6 @@ Confirmed later checkpoints include:
 ├── scan 30: chapter 2 closes; chapter 3 begins
 ├── scan 40: chapter 3 closes; chapter 4 begins
 ├── scan 46: four-star internal transition
-├── scan 47: embedded historical tale begins inside chapter 4
 ├── scan 52: chapter 4 closes; chapter 5 begins
 ├── scan 60: chapter 5 closes; chapter 6 begins
 ├── scan 68: chapter 6 closes
@@ -121,31 +84,33 @@ Confirmed later checkpoints include:
 ├── scan 118: four-star internal transition inside chapter 12
 ├── scan 119: chapter 13 begins
 ├── scan 122: four-star internal transition inside chapter 13
-├── scan 128: chapter 13 closes; chapter 14 begins on the same physical page
-├── scan 138: chapter 14 closes; chapter 15 begins on the same physical page
-├── scan 146: chapter 15 closes; chapter 16 begins on the same physical page
-└── scan 147: chapter 16 continues; end of split part 003 only, mid-sentence
+├── scan 128: chapter 13 closes; chapter 14 begins
+├── scan 138: chapter 14 closes; chapter 15 begins
+├── scan 146: chapter 15 closes; chapter 16 begins
+├── scan 154: chapter 16 closes
+├── scan 155: chapter 17 begins
+├── scan 163: chapter 17 closes; chapter 18 begins
+├── scan 171: chapter 18 closes
+├── scan 172: chapter 19 begins
+├── scan 179: chapter 19 closes; chapter 20 begins
+├── scan 187: chapter 20 closes; chapter 21 begins
+└── scan 196: chapter 21 closes; chapter 22 begins; end of Part 004 only
 ```
 
 ## Canonical Tamil state
 
-- page records created: **147**
-- verified: **147**
+- page records created: **196**
+- verified: **196**
 - needs-review: **0**
 - partial: **0**
-- unresolved readings through scan 147: **0**
-- known-prefix not-started rows: **3** — scans 148–150
-- Parts 001–003 canonical coverage: **complete / part-complete**
+- unresolved readings through scan 196: **0**
+- Parts 001–004 canonical coverage: **complete / part-complete**
 - backward integrity audit: **COMPLETE through scan 118**
-- forward source-fidelity transcription: **verified through scan 147**
+- forward source-fidelity transcription: **verified through scan 196**
 
-Scan 75 final old-glyph resolution remains **`போயிட்டுதா?`** from physical wrap `போயிட்` / `டுதா?`.
+Part-004 Tamil audit: [`../notes/part-004-tamil-audit.md`](../notes/part-004-tamil-audit.md) — **49 / 49 verified; unresolved 0; PASSED**.
 
-Part-003 Tamil audit: [`../notes/part-003-tamil-audit.md`](../notes/part-003-tamil-audit.md) — **49 / 49 verified; unresolved 0; PASSED**.
-
-Part-003 bilingual review: [`../translations/en/PART_003_REVIEW.md`](../translations/en/PART_003_REVIEW.md) — **PASSED / part-complete**.
-
-Central backward-integrity record: [`../notes/backward-integrity-audit-001-118.md`](../notes/backward-integrity-audit-001-118.md).
+Part-004 bilingual review: [`../translations/en/PART_004_REVIEW.md`](../translations/en/PART_004_REVIEW.md) — **PASSED / part-complete**.
 
 ## Completeness still open
 
@@ -153,10 +118,10 @@ Central backward-integrity record: [`../notes/backward-integrity-audit-001-118.m
 - exact full scan-object count: **pending**
 - original full-source SHA-256: **pending**
 - true ending / back matter: **not yet inspected**
-- page map beyond the current 150-row prefix: **not yet established**
+- page map beyond scan 196: **not yet established**
 
 ## Exact next action
 
-Obtain / attach the next source split beginning at **scan 148 / printed page 146** and process that derivative under `../PART_COMPLETION_WORKFLOW.md`.
+Obtain / attach the next source split beginning at **scan 197 / printed page 195** and process that derivative under `../PART_COMPLETION_WORKFLOW.md`.
 
-The first fidelity check on the next split must establish the continuation of scan 147's incomplete source phrase **`அடங்கித்தான் போய்`** before accepting later text. Do not infer that continuation from grammar, context or outside editions.
+Scan 196 begins chapter **22**; the next split must continue it from native source evidence. Do not infer the continuation from grammar, context or outside editions.
