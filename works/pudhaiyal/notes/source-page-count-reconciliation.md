@@ -26,18 +26,22 @@ Received access derivatives:
 1. `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf`
    - source scans **1–49**
    - transcription coverage complete
-   - verified after backward-integrity corrections
+   - **49 / 49 verified**
+   - split workflow state: **part-complete**
 2. `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf`
    - source scans **50–98**
    - split page count **49**
    - visibly printed pages **48–96**
    - transcription coverage complete
    - **49 / 49 verified after backward-integrity audit**
+   - split workflow state: **part-complete**
 3. `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf`
    - source scans **99–147**
    - split page count **49**
-   - page records created through **scan 128 / printed 126**
-   - scans **99–128 verified**; scans 109–118 were re-audited during integrity recovery and scans 119–128 were reconciled against the Iteration-11 baseline under the permanent old-glyph rule
+   - page records created through **scan 137 / printed 135**
+   - scans **99–137 verified**
+   - scans **138–147 canonical Tamil not-started; structure-only preflight complete**
+   - split workflow state: **in progress**
 
 No split is committed to GitHub.
 
@@ -85,31 +89,54 @@ Important source-established points include:
 
 Detailed record: [`visual-fidelity-scans-119-128.md`](visual-fidelity-scans-119-128.md).
 
+## Iteration 11 continuation — scans 129–137
+
+The next user baseline was labelled printed pages **126–135**. It overlaps already verified scan 128 / printed 126 and supplies usable baseline text through scan 136 / printed 134. The claimed final printed page 135 was absent from the supplied text.
+
+Native split pages **31–39** were therefore inspected directly.
+
+Result: **9 / 9 newly verified; unresolved 0**.
+
+Important source-established points include:
+
+- scan 130: `பயன்படுத்திக்கொள்வதாக்கும்`, not the baseline split `பயன்படுத்திக்கொள்வ தாக்கும்`;
+- scan 131: `இதை நிச்சயமாகத் தெரிந்து கொள்!` — baseline omitted `கொள்`;
+- scan 131: `நிச்சயமாகத் தெரிகிறது—நீங்கள் பைத்தியக்காரர் இல்லை!` — baseline omitted `இல்லை`;
+- scan 137 / printed 135 was restored directly from native source because the baseline omitted the page;
+- scan 137 preserves `பிறந்தத் தரணி—` and source-odd `புழுதி மண்ணுகப்`;
+- scan 137 ends physically at the incomplete `என் சோக வாழ்`; its continuation belongs to scan 138 and is not guessed.
+
+Detailed record: [`visual-fidelity-scans-129-137.md`](visual-fidelity-scans-129-137.md).
+
 ## Current textual state
 
-- canonical page records created: **128**
-- verified: **128**
+- canonical page records created: **137**
+- verified: **137**
 - needs-review: **0**
 - partial: **0**
-- unresolved readings through scan 128: **0**
-- remaining rows in current 150-scan prefix: **22 not-started** — scans 129–150
+- unresolved readings through scan 137: **0**
+- remaining rows in current 150-scan prefix: **13 not-started** — scans 138–150
+- Part 003 remaining canonical range: **scans 138–147**
 - full-source manifest: **INCOMPLETE**
 
 ## Full-source extent track
 
 Still required:
 
-1. continue part 003 from scan 129 onward;
-2. receive/reconcile later split ranges after scan 147;
-3. extend `indexes/page-map.md` beyond the current scan-150 prefix;
-4. identify true final text / back matter / closing leaves;
-5. determine exact original PDF scan/page-object count;
-6. calculate the exact original full-source SHA-256 when byte-level access is available.
+1. continue part 003 from scan 138 through scan 147;
+2. after Part 003 canonical Tamil is complete, finish its part Tamil audit, assembled Tamil, English translation and bilingual review before moving to another split;
+3. receive/reconcile later split ranges after scan 147;
+4. extend `indexes/page-map.md` beyond the current scan-150 prefix;
+5. identify true final text / back matter / closing leaves;
+6. determine exact original PDF scan/page-object count;
+7. calculate the exact original full-source SHA-256 when byte-level access is available.
 
 Do not infer any of those values from the TDL printed-page count.
 
 ## Exact next activity
 
-Resume forward transcription from **scan 129 / printed page 127** using split part 003 page **31** and the next user-supplied baseline.
+Resume forward transcription from **scan 138 / printed page 136 / split part 003 page 40** using the next user-supplied baseline.
 
-Do not begin English translation.
+The physical endpoint on scan 137 is `என் சோக வாழ்`; complete it only from scan 138 source evidence. Scan 138 also contains the source-confirmed chapter **14 → 15** transition.
+
+Do not begin Part-003 English translation until scans 99–147 have all passed canonical Tamil verification and the Part-003 Tamil audit.
