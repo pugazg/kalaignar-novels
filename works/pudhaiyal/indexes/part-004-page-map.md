@@ -26,16 +26,16 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_004_pages_148-196
 | 165 | 163 | chapter 18 | verified | `../pages/0165-pudhaiyal.md` |
 | 166 | 164 | chapter 18 | verified | `../pages/0166-pudhaiyal.md` |
 | 167 | 165 | chapter 18; four-star internal separator | verified | `../pages/0167-pudhaiyal.md` |
-| 168 | 166 | chapter 18 | not-started | `../pages/0168-pudhaiyal.md` |
-| 169 | 167 | chapter 18 | not-started | `../pages/0169-pudhaiyal.md` |
-| 170 | 168 | chapter 18 | not-started | `../pages/0170-pudhaiyal.md` |
-| 171 | 169 | chapter 18 closes before next scan | not-started | `../pages/0171-pudhaiyal.md` |
-| 172 | 170 | chapter 19 begins | not-started | `../pages/0172-pudhaiyal.md` |
-| 173 | 171 | chapter 19 | not-started | `../pages/0173-pudhaiyal.md` |
-| 174 | 172 | chapter 19 | not-started | `../pages/0174-pudhaiyal.md` |
-| 175 | 173 | chapter 19 | not-started | `../pages/0175-pudhaiyal.md` |
-| 176 | 174 | chapter 19 | not-started | `../pages/0176-pudhaiyal.md` |
-| 177 | 175 | chapter 19 | not-started | `../pages/0177-pudhaiyal.md` |
+| 168 | 166 | chapter 18 | verified | `../pages/0168-pudhaiyal.md` |
+| 169 | 167 | chapter 18 | verified | `../pages/0169-pudhaiyal.md` |
+| 170 | 168 | chapter 18 | verified | `../pages/0170-pudhaiyal.md` |
+| 171 | 169 | chapter 18 closes before next scan | verified | `../pages/0171-pudhaiyal.md` |
+| 172 | 170 | chapter 19 begins | verified | `../pages/0172-pudhaiyal.md` |
+| 173 | 171 | chapter 19 | verified | `../pages/0173-pudhaiyal.md` |
+| 174 | 172 | chapter 19 | verified | `../pages/0174-pudhaiyal.md` |
+| 175 | 173 | chapter 19 | verified | `../pages/0175-pudhaiyal.md` |
+| 176 | 174 | chapter 19 | verified | `../pages/0176-pudhaiyal.md` |
+| 177 | 175 | chapter 19; ends at `அந்தகார இருட்டிலே,` | verified | `../pages/0177-pudhaiyal.md` |
 | 178 | 176 | chapter 19 | not-started | `../pages/0178-pudhaiyal.md` |
 | 179 | 177 | chapter 19 closes / chapter 20 begins | not-started | `../pages/0179-pudhaiyal.md` |
 | 180 | 178 | chapter 20 | not-started | `../pages/0180-pudhaiyal.md` |
@@ -59,16 +59,17 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_004_pages_148-196
 ## Current state
 
 - derivative pages: **49**
-- canonical records created: **20**
-- verified: **20**
+- canonical records created: **30**
+- verified: **30**
 - needs-review: **0**
 - unresolved readings: **0**
-- not-started: **29**
-- next scan: **168 / printed 166 / split page 21**
+- not-started: **19**
+- next scan: **178 / printed 176 / split page 31**
 
 Fidelity records:
 
 - [`../notes/visual-fidelity-scans-148-158.md`](../notes/visual-fidelity-scans-148-158.md)
 - [`../notes/visual-fidelity-scans-159-167.md`](../notes/visual-fidelity-scans-159-167.md)
+- [`../notes/visual-fidelity-scans-168-177.md`](../notes/visual-fidelity-scans-168-177.md)
 
 Structure-only evidence for the remaining range is recorded in [`../notes/part-004-structural-preflight-148-196.md`](../notes/part-004-structural-preflight-148-196.md).
