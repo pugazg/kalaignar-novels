@@ -51,6 +51,29 @@ The former `150 pages total` conclusion is permanently withdrawn. Scans 1–150 
 
 These are access derivatives of one edition, not separate bibliographic works.
 
+## User-approved split-part completion workflow
+
+Going forward, **finish the complete safe workflow for each supplied split before moving to the next split**.
+
+Read and follow:
+
+`works/pudhaiyal/PART_COMPLETION_WORKFLOW.md`
+
+For each split:
+
+1. page map and canonical `pages/` records;
+2. native visual/textual fidelity pass;
+3. resolution/documentation of uncertainty;
+4. part-level Tamil audit;
+5. incremental assembled Tamil reading layer;
+6. controlled English translation under the shared translation plan;
+7. part-level bilingual source check;
+8. part status synchronization and `part-complete` checkpoint.
+
+A split boundary is provenance only. It must never create a false chapter/scene boundary. Cross-split words, sentences, paragraphs and chapters must remain continuous in derived layers.
+
+Final whole-work Tamil audit, final whole-work assembled-Tamil pass, whole-work English `verified`, and release-readiness remain blocked until the complete source edition and true ending/back matter are known.
+
 ## Backward-integrity recovery
 
 Central record: `works/pudhaiyal/notes/backward-integrity-audit-001-118.md`
@@ -69,62 +92,74 @@ Important repaired examples include scan 4 `நூல் நிலையப் �
 - known-prefix not-started: **22** — scans 129–150
 - full-source page-map coverage: **INCOMPLETE**
 - Tamil whole-work audit: not yet eligible
-- assembled Tamil whole-work layer: not yet passed
-- English whole-work verification: blocked until complete source
+- assembled Tamil whole-work layer: not yet eligible for final pass
+- English whole-work verification: not yet eligible
 - release-readiness: blocked until complete source
 
 Iteration 11 scans 119–128 / printed 117–126 are verified. Scan 128 closes chapter 13 and begins chapter 14 on the same physical page.
 
-## User-approved split-part completion workflow
+## Part-completion status
 
-Going forward, **do not move immediately to the next split after transcription**.
+### Part 001 — scans 1–49
 
-Read and follow:
+**`part-complete`**
 
-`works/pudhaiyal/PART_COMPLETION_WORKFLOW.md`
+- canonical Tamil: 49 / 49 verified
+- part Tamil audit: PASSED
+- assembled Tamil: PASSED through scan 49
+- English source check: PASSED through scan 49
+- bilingual review: PASSED
+- review: `works/pudhaiyal/translations/en/PART_001_REVIEW.md`
 
-For each supplied split, complete every stage safely possible for that derivative before requesting/starting the next split:
+### Part 002 — scans 50–98
 
-1. page map and canonical pages;
-2. native visual/textual fidelity pass;
-3. resolution/documentation of uncertainty;
-4. part-level Tamil audit;
-5. incremental assembled Tamil reading layer;
-6. controlled English translation under the shared translation plan;
-7. part-level bilingual source check;
-8. part status synchronization.
+**`part-complete`**
 
-A derivative may reach `part-complete`, but the final whole-work Tamil audit, final assembled-Tamil pass, whole-work English verification and release report remain whole-source gates.
+- canonical Tamil: 49 / 49 verified
+- part Tamil audit: PASSED
+- assembled Tamil: PASSED through scan 98
+- English source check: PASSED through scan 98
+- bilingual review: PASSED
+- review: `works/pudhaiyal/translations/en/PART_002_REVIEW.md`
 
-A split boundary is provenance only. It must never create a false chapter/scene boundary. Cross-split words, sentences and chapters must be joined reversibly in derived layers.
+Boundary checks closed:
 
-## Backfill status for first two supplied parts
+- scan 49 → 50 — one continuous chapter-4 embedded-tale sentence; no derivative break introduced;
+- scan 98 → 99 — scan 98's four-star separator is source-printed; verified scan 99 remains chapter 10, so the derivative boundary is not a chapter or novel ending.
 
-Part-level Tamil audits have now been created and passed:
+Part 002 assembled/translation inventory includes:
 
-- `works/pudhaiyal/notes/part-001-tamil-audit.md` — scans 1–49: **PASSED**
-- `works/pudhaiyal/notes/part-002-tamil-audit.md` — scans 50–98: **PASSED**
-- work-level aggregation: `works/pudhaiyal/audit.md`
+- chapter-4 continuation scans 50–52;
+- chapter 5 through scan 60;
+- chapter 6 through scan 68;
+- chapter 7 through scan 75;
+- chapter 8 through scan 83;
+- chapter 9 through scan 92;
+- chapter 10 through scan 98.
 
-Both parts still need their downstream backfill under the new rule:
+### Part 003 — scans 99–147
 
-- incremental assembled Tamil;
-- shared English translation plan / translation layer;
-- part-level bilingual review;
-- final `part-complete` checkpoint.
+**IN PROGRESS — not part-complete**
+
+- scans 99–118: verified after backward-integrity re-audit
+- scans 119–128: verified
+- scans 129–147: canonical Tamil not started
+- structural native preflight through scan 147: complete
+- part-level Tamil audit: not yet eligible
+- assembled Tamil / English / bilingual review: must wait until the whole derivative's canonical Tamil is complete
 
 ## Exact next activity
 
-**Do not start scan 129 yet.**
+Resume **Part 003 canonical Tamil at scan 129 / printed page 127 / split part-003 page 31**, using the next user-supplied baseline and the permanent old-glyph rule.
 
-Backfill the remaining workflow for **Part 001 first**, using only verified canonical `pages/` records and existing native-fidelity evidence:
+Do not start a later split and do not begin Part-003 English translation early.
 
-1. create/check the incremental assembled Tamil for scans 1–49, preserving scan provenance and the scan 49 → 50 continuation;
-2. establish the shared Pudhaiyal English translation plan and glossary conventions;
-3. translate the audited Part 001 material in controlled batches;
-4. source-check it against canonical Tamil;
-5. record the Part 001 bilingual review and mark Part 001 `part-complete` only if all checks pass.
+After scans **129–147** are all source-verified, complete the remaining workflow for **Part 003 then and there**:
 
-Then repeat the same downstream workflow for **Part 002 / scans 50–98**, including the scan 49 → 50 and scan 98 → 99 continuity checks.
-
-Only after Parts 001 and 002 have been fully backfilled may forward transcription resume at **scan 129 / printed page 127 / part-003 page 31**.
+1. run the Part-003 Tamil audit across scans 99–147;
+2. assemble Part-003 Tamil, beginning with the verified scan 98 → 99 chapter-10 continuity;
+3. translate the audited Part-003 material under the shared English plan;
+4. source-check the English against canonical Tamil;
+5. run the Part-003 bilingual review;
+6. mark Part 003 `part-complete` only if every applicable check passes;
+7. only then move to the next PDF split.
