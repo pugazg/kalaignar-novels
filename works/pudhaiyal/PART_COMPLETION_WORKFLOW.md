@@ -38,11 +38,14 @@ Before changing a user baseline because a final letter, vowel sign or combining 
 
 **Strengthened after the scans-256–259 and scan-264 corrections:** if a proposed difference from the baseline involves only an old/faint vowel sign, a near-identical same-word glyph, or apparent word spacing created by a printed line wrap, perform a **second independent high-resolution inspection** before accepting the change. Compare another clear occurrence from the same edition when possible. A printed line break by itself never proves word-internal spacing. If the user/source challenges one glyph in a batch, reopen every assistant-origin discrepancy in that batch before continuing forward.
 
-Correction records:
+Scan 268 adds a practical `ே` / `ோ` example: native `யாருடனே` was accepted only after a second enlarged comparison showed no additional `ா` component for `னோ`.
+
+Correction / integrity records:
 
 - [`notes/old-glyph-retrospective-audit-120-245.md`](notes/old-glyph-retrospective-audit-120-245.md)
 - [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md)
 - [`notes/old-glyph-correction-scan-264.md`](notes/old-glyph-correction-scan-264.md)
+- [`notes/visual-fidelity-scan-268.md`](notes/visual-fidelity-scan-268.md)
 
 ## Completed split checkpoints
 
@@ -59,11 +62,11 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - physical pages / mapped source scans: **49 / 49 — scans 246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **21 / 49 — scans 246–266**
-- verified: **21**
+- canonical records: **23 / 49 — scans 246–268**
+- verified: **23**
 - needs-review: **0**
-- not-started: **28 — scans 267–294**
-- latest native-fidelity record: [`notes/visual-fidelity-scan-266.md`](notes/visual-fidelity-scan-266.md)
+- not-started: **26 — scans 269–294**
+- latest native-fidelity record: [`notes/visual-fidelity-scan-268.md`](notes/visual-fidelity-scan-268.md)
 - Tamil audit: **not eligible**
 - assembled Tamil: **not eligible**
 - controlled English: **not eligible**
@@ -73,13 +76,14 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 ### Current Part-006 checkpoint
 
 - scans 256–259 remain corrected after second high-resolution reinspection;
-- scan 260 verifies the Iteration-25 opening and ends `வெள்ளியம்பலம்`;
-- scan 261 closes `வெள்ளியம்பலம் கேட்டு விட்டு, ...` and ends `விடிந்த`;
-- scan 262 begins `தும்`, yielding `விடிந்ததும்`, closes chapter 29 and begins chapter 30, and ends `துக்காராமுக்கோ,`;
+- scan 260 verifies the Iteration-25 opening;
+- scan 261→262 closes `விடிந்ததும்`; chapter 30 begins on scan 262;
 - scan 263 establishes `நடந்தவைகள்`, `புதையலைக் கண்டுபிடிப்பதற்காகவே`, and full `மறந்து விடவில்லை`;
 - scan 264 confirms user-corrected source `என்னா`; the earlier assistant `என்ன` is withdrawn;
-- scan 265 is verified with full old-type vowel-sign checks and ends `என்றெல்லாம்!`;
-- scan 266 is verified with the user baseline wording substantively confirmed; second-pass source checks confirm `வெள்ளியம்பலத்திற்கு`, complete `புரியவில்லை`, both `இஷ்டமில்லை`, `பிரமாதமில்லை`, `ஒன்றுமில்லை`, and `புதையலை` with final `ை`; page ends mid-sentence at `அதில், என்`.
+- scan 265 is verified with full old-type vowel-sign checks;
+- scan 266 is verified with baseline wording substantively confirmed and ends mid-sentence `அதில், என்`;
+- scan 267 closes that sentence and establishes source `புதைக்கப்பட்டது`, `துக்காராம் சொன்னது`, `கனவு கண்டார்களோ`, while preserving `பாதிப் புதையலை`, `கேட்டதால்தானே`, `பேசிக் கொள்ள வில்லையே`;
+- scan 268 is verified after full-page plus enlarged second-pass inspection; native source establishes `யாருடனே`, preserves `பரிமளம்`, and confirms the source punctuation `உம்......புறப்படு!`, `இப்போதே சொல்கிறேன்!......அதாவது......ஒரு சாமியாரிடம்......`, `சரி—சரி!`; endpoint `அவன் உள்ளத்தில்!`.
 
 Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262; 31 begins 271; 32 begins 278; 33 begins 288.
 
@@ -94,4 +98,4 @@ Do not run the Part-006 Tamil audit or any downstream stage until all scans 246�
 
 ## Exact next activity
 
-Reconcile **scan 267 / printed page 263** directly against the native Part-006 source, first continuing scan 266's physical endpoint `அதில், என்`. Apply the strengthened two-pass old-typeform rule to **all vowel signs**, not only final `ை`, before accepting any disputed glyph or word spacing.
+Reconcile **scan 269 / printed page 265** directly against the native Part-006 source, continuing chapter 30. Apply the strengthened two-pass old-typeform rule to **all vowel signs** and printed-line-wrap questions before accepting any disputed glyph or word spacing.
