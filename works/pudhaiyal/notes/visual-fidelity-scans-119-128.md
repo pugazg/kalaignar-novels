@@ -1,6 +1,7 @@
 # Visual-fidelity audit — புதையல் scans 119–128
 
-Date: 2026-08-29
+Date: 2026-08-29  
+Old-glyph reinspection: 2026-08-30
 
 ## Result
 
@@ -18,6 +19,8 @@ Controlling access split:
 
 The user transcription was treated as the comparison baseline. Every material disagreement was rechecked against native source pixels; source oddities were retained rather than normalized.
 
+**Retrospective correction:** scan 120 was re-opened after Part 006 exposed a recurring old-type risk: the faint final `லை` glyph can resemble bare `ல்` at ordinary zoom. The corrected reading below supersedes the earlier shortened assistant claim. See [`old-glyph-retrospective-audit-120-245.md`](old-glyph-retrospective-audit-120-245.md).
+
 ## Source-established results
 
 ### Scan 119 / printed 117
@@ -29,8 +32,8 @@ The user transcription was treated as the comparison baseline. Every material di
 
 ### Scan 120 / printed 118
 
-- source prints `இல்ல இல்ல!`, not baseline `இல்லை இல்லை!`;
-- later source also prints `இல்ல........`, not `இல்லை........`;
+- high-resolution old-type reinspection confirms baseline `இல்லை இல்லை!`; the earlier assistant `இல்ல இல்ல!` is withdrawn;
+- later source likewise prints `இல்லை........`; the earlier assistant `இல்ல........` is withdrawn;
 - source-odd `சாக்ரடீஸ் என்றே` is retained.
 
 ### Scan 121 / printed 119
@@ -98,7 +101,7 @@ The user transcription was treated as the comparison baseline. Every material di
 - `../pages/0127-pudhaiyal.md`
 - `../pages/0128-pudhaiyal.md`
 
-All ten records are `verified` after complete native-image comparison.
+All ten records are `verified` after complete native-image comparison, including the 2026-08-30 old-glyph reinspection of scan 120.
 
 ## Gate state after this batch
 
@@ -109,6 +112,6 @@ All ten records are `verified` after complete native-image comparison.
 - unresolved readings through scan 128: **0**
 - known-prefix not-started: **22** — scans 129–150
 - backward-integrity audit remains **COMPLETE through scan 118**;
-- forward source-fidelity transcription is now verified through **scan 128**.
+- forward source-fidelity transcription is verified through **scan 128**.
 
-Exact next activity: continue with **scan 129 / printed page 127 / split part 003 page 31** using the next user-supplied baseline. Do not begin English translation.
+The permanent old-glyph rule now requires enlarged glyph-cluster inspection before overriding a baseline because a final vowel sign appears absent.
