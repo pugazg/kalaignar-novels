@@ -27,7 +27,7 @@ A derivative boundary is provenance only and must never create a false narrative
 | Part 002 | 50–98 | **part-complete** |
 | Part 003 | 99–147 | **part-complete** |
 | Part 004 | 148–196 | **part-complete** |
-| Part 005 | 197–245 | **in progress — 32 records / 25 verified / 7 needs-review** |
+| Part 005 | 197–245 | **in progress — 42 records / 35 verified / 7 needs-review** |
 
 ## Part 005 — current derivative
 
@@ -35,14 +35,15 @@ Source: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
 
 - split pages: **49**
 - source scans: **197–245**
-- records created: **197–228 — 32**
-- verified: **25**
+- records created: **197–238 — 42**
+- verified: **35**
 - needs-review: **7 — scans 215–219, 223–224**
-- remaining not-started: **229–245 — 17**
+- remaining not-started: **239–245 — 7**
 - derivative map: [`indexes/part-005-page-map.md`](indexes/part-005-page-map.md)
 - fidelity records:
   - [`notes/visual-fidelity-scans-197-216.md`](notes/visual-fidelity-scans-197-216.md)
   - [`notes/visual-fidelity-scans-217-228.md`](notes/visual-fidelity-scans-217-228.md)
+  - [`notes/visual-fidelity-scans-229-238.md`](notes/visual-fidelity-scans-229-238.md)
 - source/split PDF committed: **No**
 
 ### Structure established
@@ -50,7 +51,8 @@ Source: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
 - chapter 22 continues from Part 004 and closes on scan 205;
 - chapter 23 begins on scan 206 and closes on scan 214;
 - chapter 24 begins on scan 215 and closes on scan 225;
-- chapter **25** begins on scan 226 and continues beyond scan 228.
+- chapter 25 begins on scan 226 and closes on scan 235;
+- chapter **26** begins on scan 235 and continues beyond scan 238.
 
 ### Part-005 source anomalies
 
@@ -65,15 +67,15 @@ These are retained as separate source/provenance records. The duplicate witnesse
 
 Printed pages **219–220** (scans 223–224) are physically torn with large missing regions. Their supplied baseline text is retained, but those scans remain `needs-review`.
 
-Important source-confirmed forms in Iteration 20 include `அதுதான் இல்ல!`, `எனக்குக் கவலையில்ல!`, `அப்பா இறக்கவில்ல`, `கையிலே இல்ல`, `கையில்ல`, `கேட்கவில்ல`, `முடியவில்ல`, `மருங்கப்பள்ளம் கிராமம் தான்`, and `புரியவில்ல`.
+Iteration 21 established, among other source-specific forms, `வழியிலே`, `தேவையில்ல`, `ஒன்றுமில்ல`, `எதுவுமில்ல`, `பிரியமும் இல்ல`, `பொன்மலைகள் வெளியே எடுக்க`, `கவலையில்ல`, `கொல்லர் தான்`, `வேண்டியதில்ல`, source-odd `வீணுக`, `முன்னேறி`, source-odd `நன்றுக`, and `அவளது கூச்சலே அவன் காதில் வாங்கவேயில்ல`.
 
 ## Aggregate archival status
 
-- canonical Tamil page records: **228**
-- verified: **221**
+- canonical Tamil page records: **238**
+- verified: **231**
 - needs-review: **7**
 - partial: **0**
-- clean fully verified range remains continuous through scan **214 / printed page 212** because the damaged Part-005 pages follow it
+- clean fully verified range remains continuous through scan **214 / printed page 212** because damaged Part-005 pages follow it; later individual scans are verified where explicitly marked
 - backward integrity audit: **COMPLETE through scan 118**
 - Parts 001–004: **part-complete**
 - Part 005: **in progress**
@@ -83,6 +85,6 @@ Important source-confirmed forms in Iteration 20 include `அதுதான் 
 
 ## Exact next activity
 
-Continue canonical transcription from **scan 229 / printed page 225 / Part-005 split page 33**. Scan 228 ends at `‘கள்வர் புகும்`; native scan 229 visibly continues `வழியிலே’`.
+Continue canonical transcription from **scan 239 / printed page 235 / Part-005 split page 43**. Scan 238 ends `வெளியே ஓடினாள்.` and chapter 26 continues on the next native page.
 
 Do not start Part-005 assembled Tamil or English until all 49 physical scans have canonical records and the Part-005 Tamil audit is eligible. Existing `needs-review` pages must remain explicit unless stronger source evidence resolves them.
