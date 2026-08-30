@@ -21,6 +21,8 @@ A demonstrated risk in this edition is final `லை`, which can resemble bare `
 
 This is **not** a global normalization rule. Source-specific forms such as scan 229 `தீண்ட வில்லையே` and scan 244's first `தெரியவில்லையே` remain unchanged when their native pixels support them. If pixels are ambiguous, retain the baseline and `needs-review`.
 
+The same safeguard is now repeated in `NEXT_NOVEL_CHAT_PROMPT.md` so future fresh-chat onboarding cannot skip it.
+
 Source/split PDFs must never be committed.
 
 ## Source identity — புதையல்
@@ -60,7 +62,7 @@ Native high-resolution reinspection established earlier assistant `லை`-loss 
 - Part 003: scan **120**;
 - Part 005: scans **198, 199, 201, 207, 214, 220, 221, 225, 228, 229, 230, 231, 233, 234, 235, 238, 239, 241, 242, 243, 244, 245**.
 
-Canonical page records were corrected and assembled Tamil chapters **13 and 22–27** were re-synchronized. Fidelity and Tamil-audit records were also corrected. The English meaning is unchanged by restoring the missed final `லை`, but bilingual-review documentation must use the corrected Tamil authority.
+Canonical page records were corrected and assembled Tamil chapters **13 and 22–27** were re-synchronized. Fidelity and Tamil-audit records were also corrected. The English meaning is unchanged by restoring the missed final `லை`, but bilingual-review documentation now uses the corrected Tamil authority.
 
 The seven physically damaged Part-005 records **215–219 and 223–224** remain `needs-review`; the glyph discovery does not license reconstruction of hidden pixels.
 
@@ -74,11 +76,11 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - derivative size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - derivative map: `works/pudhaiyal/indexes/part-006-page-map.md`
-- canonical records: **4 / 49 — scans 246–249**
-- verified: **4**
+- canonical records: **5 / 49 — scans 246–250**
+- verified: **5**
 - needs-review: **0**
-- not-started: **45 — scans 250–294**
-- fidelity record: `works/pudhaiyal/notes/visual-fidelity-scans-246-249.md`
+- not-started: **44 — scans 251–294**
+- fidelity records: `works/pudhaiyal/notes/visual-fidelity-scans-246-249.md`, `works/pudhaiyal/notes/visual-fidelity-scan-250.md`
 - old-glyph correction record: `works/pudhaiyal/notes/old-glyph-correction-scans-246-248.md`
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - Part-006 state: **`in-progress`**
@@ -99,9 +101,9 @@ Native evidence establishes one continuous sentence:
 
 Do not normalize the repetition or insert a split boundary.
 
-### Iteration-23 completion — scans 246–249
+### Verified Part-006 text through scan 250
 
-All four supplied baseline pages are directly source-verified.
+Scans 246–249 were reconciled against the supplied Iteration-23 baseline.
 
 Important source findings/retentions:
 
@@ -116,6 +118,20 @@ Important source findings/retentions:
 - scan 249 confirms baseline `ஒருவரையொருவர்`, `செய்யவில்லையே`, `முடியவில்லையே`; their printed line wraps are not word boundaries;
 - scan 249 preserves source `புண்யங்கூட` and `யானையுமாக வெல்லாம்`.
 
+Scan **250 / printed 246** was transcribed directly from the native derivative at high resolution with **no user baseline**. It continues the Dukkaram–Raman dialogue and is `verified`. Source-specific forms retained include:
+
+- `கறு கண்ணை`;
+- `கிடக்கிறாரு`;
+- `வைத்தியனிடமில்லே`;
+- `உன் கிட்டம்தான்`;
+- `அப்படின்னு`;
+- `கொடுன்னு`;
+- `பெண்ணு`;
+- `சந்திக்கணும்னு`;
+- `துடிக்குது`.
+
+The permanent old-Tamil-typeform pre-correction check was applied. No unresolved glyph remains on scan 250.
+
 ### Part-006 structure mapped from physical pages
 
 - chapter 27 closes / chapter 28 begins on scan **247 / printed 243**;
@@ -125,7 +141,7 @@ Important source findings/retentions:
 - chapter 32 begins scan **278 / printed 274**;
 - chapter 33 begins scan **288 / printed 284** and continues through scan **294 / printed 290**.
 
-These later pages are mapped structurally only; scans 250–294 remain `not-started` until direct textual reconciliation.
+These later pages are mapped structurally only; scans 251–294 remain `not-started` until direct textual reconciliation.
 
 ## Part 005 durable completion record
 
@@ -142,18 +158,18 @@ The seven damaged records remain `needs-review`; do not reopen or silently resol
 
 ## Aggregate durable state
 
-- canonical records: **249**
-- verified: **242**
+- canonical records: **250**
+- verified: **243**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
-- later individual source-verified pages: through scan **249**, except the seven damaged records
+- later individual source-verified pages: through scan **250**, except the seven damaged records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 4 / 49 verified**
+- Part 006: **in progress — 5 / 49 verified**
 - assembled Tamil / English split-level review: through scan **245** only
 - source scans represented by currently received derivatives: through **294**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Continue Part 006 at **scan 250 / printed page 246**. Reconcile every reading directly from native source pixels, preserve physical page boundaries, report material discrepancies, and apply the permanent old-Tamil-typeform pre-correction check before changing any baseline character. Keep the Part-006 downstream gates closed until scans 246–294 are all canonically dispositioned.
+Continue Part 006 at **scan 251 / printed page 247**, chapter 28. Transcribe directly from native source pixels, preserve physical page boundaries, and apply the permanent old-Tamil-typeform pre-correction check before accepting any disputed glyph. Keep the Part-006 downstream gates closed until scans 246–294 are all canonically dispositioned.
