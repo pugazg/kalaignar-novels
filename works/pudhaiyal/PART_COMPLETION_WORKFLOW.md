@@ -33,7 +33,9 @@ Before changing a user baseline because a final letter, vowel sign or combining 
 6. if pixels remain ambiguous, retain the baseline and `needs-review` rather than guessing;
 7. never run a global `வில்ல` → `வில்லை`, `இல்ல` → `இல்லை`, or reverse replacement — individual source pixels govern every occurrence.
 
-This rule was added after the retrospective audit recorded in [`notes/old-glyph-retrospective-audit-120-245.md`](notes/old-glyph-retrospective-audit-120-245.md).
+**Strengthened after the scans-256–259 correction:** if a proposed difference from the baseline involves only an old/faint vowel sign, a near-identical same-word glyph, or apparent word spacing created by a printed line wrap, perform a **second independent high-resolution inspection** before accepting the change. Compare another clear occurrence from the same edition when possible. A printed line break by itself never proves word-internal spacing. If the user/source challenges one glyph in a batch, reopen every assistant-origin discrepancy in that batch before continuing forward.
+
+This rule follows the retrospective audit in [`notes/old-glyph-retrospective-audit-120-245.md`](notes/old-glyph-retrospective-audit-120-245.md) and the corrected scans-256–259 reinspection in [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md).
 
 ## Completed split checkpoints
 
@@ -52,11 +54,11 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - physical pages / mapped source scans: **49 / 49 — scans 246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **14 / 49 — scans 246–259**
-- verified: **14**
+- canonical records: **15 / 49 — scans 246–260**
+- verified: **15**
 - needs-review: **0**
-- not-started: **35 — scans 260–294**
-- native-fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md), [`notes/visual-fidelity-scans-252-255.md`](notes/visual-fidelity-scans-252-255.md), [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md)
+- not-started: **34 — scans 261–294**
+- native-fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md), [`notes/visual-fidelity-scans-252-255.md`](notes/visual-fidelity-scans-252-255.md), [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md), [`notes/visual-fidelity-scan-260.md`](notes/visual-fidelity-scan-260.md)
 - Tamil audit: **not eligible**
 - assembled Tamil: **not eligible**
 - controlled English: **not eligible**
@@ -69,11 +71,28 @@ Mandatory opening continuity is closed from native evidence:
 - scan 246 begins `இருக்கிறாள் பரிமளா, ...`;
 - joined reading: `இருக்கவே இருக்கிறாள் பரிமளா, ...`.
 
-Scans 246–255 were previously verified. Native derivative mapping established that user Iteration 24 continues through scans **256–259 / printed 252–255**, rather than ending at scan 255. Those four pages are now also source-verified.
+### Corrected scans 256–259
 
-Material source findings in scans 256–259 include `காட்டுகிறியா?`, `நன்றுகப் பார்த்தான்`, the cross-page join `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`, source `அனாவசியமாக`, and source `மண்ணுங் கட்டியாவது!`. The permanent old-typeform check was applied and no unresolved glyph remains.
+The first visual pass introduced unsupported differences. A second high-resolution reinspection confirms the user's baseline forms:
 
-The supplied Iteration-25 baseline begins at **scan 260 / printed page 256**.
+- scan 256 — `காட்டுகிறாயா?`, plus `இடத்தை`, `என்னா`, `தங்கம்னா`, `பொன்னா`, `ஒளிஞ்சுகிட்டு`;
+- scan 257 — `நன்றாகப் பார்த்தான்`;
+- scan 258 — `அநாவசியமாக`;
+- scan 259 — `மண்ணாங் கட்டியாவது!`;
+- 257→258 — `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`;
+- scan 259 — `ஒன்றாய்ப் பிசைந்து` remains source-confirmed.
+
+The earlier assistant readings `காட்டுகிறியா?`, `நன்றுகப் பார்த்தான்`, `அனாவசியமாக`, and `மண்ணுங் கட்டியாவது!` are withdrawn.
+
+### Scan 260 / printed 256
+
+Iteration 25 now begins canonically at scan 260. The strengthened two-pass review verifies the page. Positive source differences from the baseline are limited to:
+
+- typo `சொலலு` → source `சொல்லு`, giving `சொல்லு! சொல்லு!`;
+- source continuous `சாமியாருக்குத்தான்`;
+- source `பொய் சொல்லுகிறாயா?`.
+
+The physical page ends at `வெள்ளியம்பலம்`; scan 261 must continue that sentence.
 
 Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254; 30 begins 262; 31 begins 271; 32 begins 278; 33 begins 288.
 
@@ -102,4 +121,4 @@ Source-condition exceptions remain permanently explicit unless stronger source e
 
 ## Exact next activity
 
-Reconcile **scan 260 / printed page 256** from user Iteration 25 directly against the native Part-006 source. Continue chapter 29 and apply the mandatory old-typeform check before accepting any disputed glyph.
+Reconcile **scan 261 / printed page 257** from user Iteration 25 directly against the native Part-006 source. First close scan 260's endpoint `வெள்ளியம்பலம்`, then apply the strengthened two-pass old-typeform rule before accepting any disputed glyph or word spacing.
