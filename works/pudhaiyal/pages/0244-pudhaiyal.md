@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 22 baseline reconciled directly against native split part 005 page 48 image"
+transcription_method: "user-supplied Iteration 22 baseline reconciled directly against native split part 005 page 48 image; old-glyph reinspection 2026-08-30"
 ---
 
 அடர்ந்திருக்கும் புதர்களிலே போலீசாரின் கண்கள் வட்டமிட ஆரம்பித்தன.
@@ -16,18 +16,19 @@ transcription_method: "user-supplied Iteration 22 baseline reconciled directly a
 
 “வாலிபமான மனிதனின் கையாகத் தெரியவில்லையே — சுருக்கங்கள் நிறைய இருக்கின்றனவே!” — இப்படி ஒருவர்!
 
-“இல்லை — இல்லை; வயதான மனிதனின் கையாகத் தெரியவில்ல இது! வாலிபக் கையாகத்தான் தெரிகிறது.” — இது இன்னொருவர்.
+“இல்லை — இல்லை; வயதான மனிதனின் கையாகத் தெரியவில்லை இது! வாலிபக் கையாகத்தான் தெரிகிறது.” — இது இன்னொருவர்.
 
 “ஏதாவது பச்சை குத்தியிருக்கிறதா, பாருங்கள்!”
 
-“இல்லை — பச்சையும் குத்தவில்ல — சிகப்பும் குத்த வில்ல!”
+“இல்லை — பச்சையும் குத்தவில்லை — சிகப்பும் குத்த வில்லை!”
 
 “ரகளை நடந்திருக்கிறது. ரகளை முடிவில் இந்த வெட்டரிவாளால் கையை வெட்டிப் போட்டிருக்கிறார்கள். அதைத் தவிர நம்மால் வேறெதுவும் சொல்ல முடியாது.”
 
 ## Source / boundary notes
 
 - scan 243 `அங்கே` → scan 244 `அடர்ந்திருக்கும்` continues one sentence.
-- Baseline `யோகனைகளை` is corrected from native pixels to source `யோசனைகளைச்`.
-- Source prints `தெரியவில்ல`, `குத்தவில்ல`, and `குத்த வில்ல`; these are retained.
+- Baseline `யோகனைகளை` remains corrected from native pixels to source `யோசனைகளைச்`.
+- High-resolution old-type reinspection confirms `தெரியவில்லை`, `குத்தவில்லை`, and separated `குத்த வில்லை` in the later lines; the earlier shortened assistant readings are withdrawn.
+- The earlier `தெரியவில்லையே` is independently clear in the source and remains unchanged. This is a glyph-by-glyph correction, not blanket normalization.
 
 <!-- மூல ஸ்கேன் பக்கம்: 244; அச்சுப் பக்கம்: 240 -->
