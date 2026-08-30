@@ -8,10 +8,10 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - derivative file size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - source/split PDF committed: **No**
-- canonical records created so far: **14 / 49 — scans 246–259**
-- verified so far: **14**
+- canonical records created so far: **15 / 49 — scans 246–260**
+- verified so far: **15**
 - needs-review in Part 006 so far: **0**
-- not-started: **35 — scans 260–294**
+- not-started: **34 — scans 261–294**
 - split state: **`in-progress`**
 
 The derivative boundary at scan 245→246 is provenance only. Native source establishes the continuation `இருக்கவே` + `இருக்கிறாள் பரிமளா, ...`; no word, sentence or chapter boundary is created by the split.
@@ -32,8 +32,8 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 | 257 | 253 | chapter 29 | verified | `../pages/0257-pudhaiyal.md`; baseline `நன்றாகப் பார்த்தான்` confirmed; ends mid-word `வெள்ளியம்` |
 | 258 | 254 | chapter 29 | verified | `../pages/0258-pudhaiyal.md`; begins `பலம்`; baseline `அநாவசியமாக` confirmed |
 | 259 | 255 | chapter 29 | verified | `../pages/0259-pudhaiyal.md`; baseline `மண்ணாங் கட்டியாவது!` confirmed |
-| 260 | 256 | chapter 29 | not-started | next transcription page; Iteration 25 begins |
-| 261 | 257 | chapter 29 | not-started | — |
+| 260 | 256 | chapter 29 | verified | `../pages/0260-pudhaiyal.md`; Iteration-25 baseline reconciled in strengthened two-pass review; ends `வெள்ளியம்பலம்` |
+| 261 | 257 | chapter 29 | not-started | next transcription page |
 | 262 | 258 | chapter 29 closes / chapter 30 begins | not-started | source-printed chapter heading 30 |
 | 263 | 259 | chapter 30 | not-started | — |
 | 264 | 260 | chapter 30 | not-started | — |
@@ -81,7 +81,7 @@ Direct inspection of the 49 physical pages establishes these source-printed chap
 - chapter 32 begins on scan **278 / printed 274**;
 - chapter 33 begins on scan **288 / printed 284** and continues through the derivative endpoint.
 
-These observations map structure only for scans 260–294; those pages remain `not-started` until their text is reconciled directly against native pixels.
+These observations map structure only for scans 261–294; those pages remain `not-started` until their text is reconciled directly against native pixels.
 
 ## Current continuity joins / transitions
 
@@ -93,13 +93,25 @@ These observations map structure only for scans 260–294; those pages remain `n
 - scan 252 opens the next scene inside chapter 28;
 - 253→254: continuous night/chase scene; chapter 29 begins later on scan 254;
 - 255→256: no mid-word join; scan 256 begins a fresh dialogue sentence inside chapter 29;
-- 257→258: `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`.
+- 257→258: `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`;
+- 259→260: no mid-word join; scan 260 begins a fresh Velliyambalam dialogue and physically ends at `வெள்ளியம்பலம்`, with the sentence continuing on scan 261.
 
 ## Corrected old-type reinspection — scans 256–259
 
 After the user challenged the first pass, every assistant-origin discrepancy in scans 256–259 was reopened. Enlarged native inspection confirms the user's baseline forms **`காட்டுகிறாயா?`**, **`நன்றாகப் பார்த்தான்`**, **`அநாவசியமாக`**, and **`மண்ணாங் கட்டியாவது!`**. The earlier assistant readings `காட்டுகிறியா?`, `நன்றுகப் பார்த்தான்`, `அனாவசியமாக`, and `மண்ணுங் கட்டியாவது!` are withdrawn. Scan 256 also restores baseline `இடத்தை`, `என்னா`, `தங்கம்னா`, `பொன்னா`, and `ஒளிஞ்சுகிட்டு` where the earlier pass had introduced unsupported vowel/spacing changes.
 
 This correction does not change counts: scans 256–259 remain verified after corrected reconciliation.
+
+## Scan 260 two-pass findings
+
+The strengthened review confirms the baseline except where native pixels positively establish a difference:
+
+- baseline typo `சொலலு` → source `சொல்லு`, yielding `சொல்லு! சொல்லு!`;
+- source `சாமியாருக்குத்தான்` is continuous; printed wrapping does not create a word break;
+- source `பொய் சொல்லுகிறாயா?` is confirmed in a second enlarged inspection;
+- physical endpoint: `வெள்ளியம்பலம்`.
+
+No unresolved glyph remains on scan 260.
 
 ## Fidelity records
 
@@ -108,7 +120,8 @@ This correction does not change counts: scans 256–259 remain verified after co
 - scan 251: `../notes/visual-fidelity-scan-251.md`
 - scans 252–255: `../notes/visual-fidelity-scans-252-255.md`
 - scans 256–259: `../notes/visual-fidelity-scans-256-259.md` — corrected after second high-resolution reinspection
+- scan 260: `../notes/visual-fidelity-scan-260.md`
 
 ## Exact next activity
 
-Before resuming forward transcription, preserve the strengthened rule from the scans-256–259 correction: a baseline disagreement involving only an old-type/vowel-sign/same-word letter shape requires a second visual pass and same-edition comparison when possible; line wrapping alone cannot justify changing word-internal spacing. Then reconcile **scan 260 / printed page 256** from user Iteration 25 against native source pixels. Do not begin the Part-006 Tamil audit, assembled Tamil or English stages until all 49 physical pages have canonical records and native-fidelity dispositions.
+Reconcile **scan 261 / printed page 257** from user Iteration 25 directly against native source pixels. Apply the strengthened two-pass old-typeform rule before overriding any baseline character or word spacing, and first close scan 260's physical endpoint `வெள்ளியம்பலம்` from scan 261 evidence. Do not begin the Part-006 Tamil audit, assembled Tamil or English stages until all 49 physical pages have canonical records and native-fidelity dispositions.
