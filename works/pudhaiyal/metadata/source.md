@@ -25,7 +25,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 003 | `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf` | 99–147 | 97–145 | **49/49 verified; part-complete** |
 | 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **49/49 verified; part-complete** |
 | 005 | `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf` | 197–245 | 195–241 | **49/49 represented; 42 verified + 7 source-damage needs-review; part-complete with qualification** |
-| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 10 verified (246–255); 39 not-started; in progress** |
+| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 14 verified (246–259); 35 not-started; in progress** |
 
 Part-006 derivative byte record:
 
@@ -54,13 +54,14 @@ Textually reconciled source:
 - scan 245 / printed 241 ends mid-sentence at `இருக்கவே`;
 - scan 246 / printed 242 begins `இருக்கிறாள் பரிமளா, ...`, directly continuing the sentence;
 - scan 247 closes chapter 27 and begins source-printed chapter 28;
-- scans 248–251 continue chapter 28;
 - scan 251 / printed 247 ends a scene with a source-printed four-star internal separator;
 - scans 252–253 continue chapter 28 after that internal transition;
 - scan 254 / printed 250 closes chapter 28 and begins source-printed chapter **29**;
-- scan 255 / printed 251 continues chapter 29 and ends at `காட்டிவிடு!`.
+- scans 255–259 continue chapter 29;
+- scan 257 / printed 253 ends `வெள்ளியம்`; scan 258 / printed 254 begins `பலம்`, establishing `வெள்ளியம்பலம்` across the physical page boundary;
+- scan 259 / printed 255 closes the remaining user Iteration-24 text; Iteration 25 begins at scan 260 / printed 256.
 
-Scans 252–255 were reconciled against user Iteration 24 directly from enlarged native pixels. Source line-wrap artefacts in the baseline were resolved as `ஒரு இடத்தில்`, `சலசலப்பும்`, and `நினைவுபடுத்தின`; no semantic normalization was performed.
+Source-specific findings in scans 256–259 include `காட்டுகிறியா?`, `நன்றுகப் பார்த்தான்`, `அனாவசியமாக`, `மண்ணுங் கட்டியாவது!`, and confirmed `ஒன்றாய்ப் பிசைந்து`.
 
 Complete Part-006 physical inspection additionally maps later source-printed chapter starts without claiming textual verification of those pages:
 
@@ -73,7 +74,7 @@ Complete Part-006 physical inspection additionally maps later source-printed cha
 
 This edition has demonstrated faint historical typeforms, especially final `லை`, that can resemble bare `ல்` at ordinary zoom. Before overriding a baseline, inspect the complete glyph cluster at high resolution and require positive native-pixel evidence. No global normalization is permitted.
 
-The pre-correction check was applied to scans 252–255; **0 unresolved glyphs** remain in that batch.
+The pre-correction check was applied to scans 256–259; **0 unresolved glyphs** remain in that batch.
 
 Retrospective record: [`../notes/old-glyph-retrospective-audit-120-245.md`](../notes/old-glyph-retrospective-audit-120-245.md).
 
@@ -88,14 +89,14 @@ Retrospective record: [`../notes/old-glyph-retrospective-audit-120-245.md`](../n
 
 ## Canonical Tamil state
 
-- page records created: **255**
-- verified: **248**
+- page records created: **259**
+- verified: **252**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later individual scans are verified through scan **255**, except the seven damaged physical records
+- later individual scans are verified through scan **259**, except the seven damaged physical records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 10 / 49 canonical pages verified**
+- Part 006: **in progress — 14 / 49 canonical pages verified**
 - assembled Tamil / English / bilingual review: **completed only through Part 005 / scan 245**
 - backward integrity audit: **COMPLETE through scan 118**, with additional old-glyph retrospective correction at scan 120 and readable Part-005 pages
 
@@ -106,7 +107,8 @@ Part-006 records:
 - [`../notes/visual-fidelity-scan-250.md`](../notes/visual-fidelity-scan-250.md)
 - [`../notes/visual-fidelity-scan-251.md`](../notes/visual-fidelity-scan-251.md)
 - [`../notes/visual-fidelity-scans-252-255.md`](../notes/visual-fidelity-scans-252-255.md)
-- canonical pages `../pages/0246-pudhaiyal.md` through `../pages/0255-pudhaiyal.md`.
+- [`../notes/visual-fidelity-scans-256-259.md`](../notes/visual-fidelity-scans-256-259.md)
+- canonical pages `../pages/0246-pudhaiyal.md` through `../pages/0259-pudhaiyal.md`.
 
 ## Completeness still open
 
@@ -114,9 +116,9 @@ Part-006 records:
 - exact full scan-object count: **pending**
 - original full-source SHA-256: **pending**
 - true ending / back matter: **not yet inspected**
-- Part-006 text beyond scan 255: **not yet reconciled**
+- Part-006 text beyond scan 259: **not yet reconciled**
 - source range beyond scan 294: **not yet supplied/reconciled**
 
 ## Exact next action
 
-Reconcile **scan 256 / printed page 252** from user Iteration 25 directly against native source pixels, applying the permanent old-Tamil-typeform pre-correction check.
+Reconcile **scan 260 / printed page 256** from user Iteration 25 directly against native source pixels, applying the permanent old-Tamil-typeform pre-correction check.
