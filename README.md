@@ -18,7 +18,7 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **216 records / 214 verified / 2 needs-review; Parts 001–004 part-complete; Part 005 in progress** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **228 records / 221 verified / 7 needs-review; Parts 001–004 part-complete; Part 005 in progress** |
 
 ### புதையல் — current source state
 
@@ -34,20 +34,20 @@ Access derivatives:
 
 Current canonical state:
 
-- records — **216**;
-- verified — **214**;
-- needs-review — **2 (scans 215–216)**;
+- records — **228**;
+- verified — **221**;
+- needs-review — **7 (scans 215–219, 223–224)**;
 - partial — **0**;
-- clean verified range — through **scan 214 / printed page 212**;
+- clean continuous verified range — through **scan 214 / printed page 212**;
 - Parts 001–004 — full split workflow complete through bilingual review;
-- Part 005 — canonical/native-fidelity stage;
+- Part 005 — canonical/native-fidelity stage, processed through scan 228;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source;
 - source PDF / splits committed — No.
 
-Part 005 continues chapter 22, begins chapter 23 on scan 206, and begins chapter 24 on scan 215. Scans 215–216 contain tape/repair obstruction and therefore remain `needs-review` even though the user baseline has been retained. See [`works/pudhaiyal/notes/visual-fidelity-scans-197-216.md`](works/pudhaiyal/notes/visual-fidelity-scans-197-216.md).
+Part-005 source anomalies now established include duplicate physical scans of printed pages **214–215** and large physical losses on printed pages **219–220**. These are preserved as separate provenance records rather than silently repaired or collapsed. See [`works/pudhaiyal/indexes/part-005-page-map.md`](works/pudhaiyal/indexes/part-005-page-map.md) and [`works/pudhaiyal/notes/visual-fidelity-scans-217-228.md`](works/pudhaiyal/notes/visual-fidelity-scans-217-228.md).
 
-Exact next action: assess later duplicate source witnesses around printed pages 214–215 for any genuinely visible recovery of scans 215–216; then continue from scan **217 / printed page 215**.
+Chapter 24 closes on scan 225; chapter **25** begins on scan 226. Exact next action: continue at **scan 229 / printed page 225**, beginning with the source continuation of scan 228's `‘கள்வர் புகும்`.
 
 ## நிறைவு பெற்ற reference work
 
