@@ -5,52 +5,67 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 Reviewed source scans: **256–259**  
 Printed pages: **252–255**  
 Comparison baseline: **user Iteration 24 continuation**  
-Result: **4 / 4 verified; 0 needs-review**
+Result after second high-resolution reinspection: **4 / 4 verified; 0 needs-review**
 
-The native page images are the textual authority. The supplied transcription was used only as a first-pass comparison baseline. These four source pages continue beyond the user's Iteration-24 heading boundary; page/scan mapping was therefore taken from the native derivative rather than from the iteration label.
+The native page images are the textual authority and the supplied transcription is the first-pass comparison baseline. After the user challenged the first reconciliation, **every assistant-origin discrepancy in this four-page batch was reopened** rather than defending the earlier readings.
 
-The permanent old-Tamil-typeform pre-correction check was applied before changing any apparent terminal/vowel-sign reading.
+The second inspection confirms that several supposed source deviations were false readings of the edition's old/faint type. The user's baseline forms are in the PDF. The earlier assistant claims listed below are withdrawn.
 
-## Scan 256 / printed 252 — verified
+## Scan 256 / printed 252 — verified after correction
 
-- Chapter 29 continues after scan 255 `காட்டிவிடு!`; there is no mid-word join.
-- Native source reads colloquial `காட்டுகிறியா?`, not baseline `காட்டுகிறாயா?`.
-- Source forms `சக்கிலிய`, `தங்கம்னு`, `பொன்னு`, `ஒளிஞ்சு கிட்டு`, `வந்துட்டேன்`, `முடிஞ்சா`, and `இல்லேன்னா` are preserved.
-- Source dash punctuation is retained; baseline doubled full stops are not source-supported.
+Second high-resolution inspection confirms the user's baseline:
 
-## Scan 257 / printed 253 — verified
+- `தங்கம் இருக்கிற இடத்தை காட்டுகிறாயா?` — the earlier assistant `இடத்தைக் காட்டுகிறியா?` is withdrawn;
+- `இது என்னா வீண் வம்பு!`;
+- `தங்கம்னா என்னா?` — not the assistant's `தங்கம்னு என்ன?`;
+- `வளையல் செய்ற பொன்னா?` — not the assistant's `பொன்னு?`;
+- `ஒளிஞ்சுகிட்டு` — the earlier assistant-inserted space `ஒளிஞ்சு கிட்டு` is withdrawn.
 
-- Source-specific `நன்றுகப் பார்த்தான்` is confirmed; baseline `நன்றாகப் பார்த்தான்` is not substituted.
-- Source reads `வெள்ளியம்பலம்தான்` as a continuous word.
-- Physical page ends mid-word at `வெள்ளியம்`.
+Source colloquialisms including `சக்கிலிய`, `வந்துட்டேன்`, `முடிஞ்சா`, and `இல்லேன்னா` remain retained.
 
-## Scan 258 / printed 254 — verified
+## Scan 257 / printed 253 — verified after correction
+
+- The user's baseline **`நன்றாகப் பார்த்தான்`** is confirmed.
+- The earlier assistant `நன்றுகப் பார்த்தான்` was a false reading of the old/faint `ா` typeform and is withdrawn.
+- Source `வெள்ளியம்பலம்தான்` remains continuous.
+- Physical page ends at `வெள்ளியம்`.
+
+## Scan 258 / printed 254 — verified after correction
 
 - Opening `பலம்` completes scan 257 `வெள்ளியம்`, yielding `வெள்ளியம்பலம்` across the physical page boundary.
+- The user's baseline **`அநாவசியமாக`** is confirmed; earlier assistant `அனாவசியமாக` is withdrawn.
 - Source preserves separated `காதலிக்க வில்லையே` and `கஷ்டப் படுவானேன்`.
-- Native pixels establish `அனாவசியமாக`; baseline `அநாவசியமாக` is not substituted.
-- Baseline/source phrase `அதிர் வேட்டு` is retained as printed; no editorial joining is imposed.
+- Source `அதிர் வேட்டு` remains preserved as printed.
 
-## Scan 259 / printed 255 — verified
+## Scan 259 / printed 255 — verified after correction
 
-- High-resolution native inspection establishes `மண்ணுங் கட்டியாவது!`; baseline `மண்ணாங் கட்டியாவது!` is not substituted.
+- The user's baseline **`மண்ணாங் கட்டியாவது!`** is confirmed by enlarged native pixels.
+- The earlier assistant `மண்ணுங் கட்டியாவது!` was a false old-typeform reading and is withdrawn.
 - Source preserves separated `விளங்க வில்லையே!`.
-- Old-typeform inspection confirms `ஒன்றாய்ப் பிசைந்து`.
-- The page closes with Velliyambalam raising the palm-shearing sickle and Dukkaram standing terrified.
-- This closes the remaining Iteration-24 source text on printed pages **252–255**. The supplied Iteration-25 baseline begins with scan **260 / printed 256**.
+- `ஒன்றாய்ப் பிசைந்து` remains source-confirmed.
 
-## Old-Tamil-glyph gate
+## Strengthened old-Tamil-glyph / baseline rule
 
-No unresolved old-type glyph remains in scans 256–259. No global spelling normalization was applied; mixed source forms were judged individually from native pixels.
+This correction demonstrates that the prior high-resolution pass was still insufficient. For this source, before overriding a supplied baseline on an apparent same-word historical-glyph or vowel-sign difference:
+
+1. inspect the **whole glyph cluster** at high resolution;
+2. perform a **second independent visual pass** when the disagreement is only a vowel sign / old typeform / near-identical letter shape;
+3. compare the same word, suffix or typeform elsewhere in the same edition when possible;
+4. do not treat a printed line wrap as evidence for inserting or removing a word-internal space;
+5. require positive native-pixel evidence before replacing a baseline form;
+6. if the user challenges a glyph reading, reopen **all assistant-origin discrepancies in that batch** before continuing forward;
+7. if uncertainty remains, preserve the baseline and mark `needs-review`.
+
+No global normalization or de-normalization is permitted.
 
 ## Verdict
 
 - physical pages reviewed: **4**
-- verified: **4**
+- verified after corrected reconciliation: **4**
 - needs-review: **0**
 - partial: **0**
-- canonical files: `0256-pudhaiyal.md` through `0259-pudhaiyal.md`
-- Part-006 verified total after this batch: **14 / 49**
-- next canonical source scan: **260 / printed page 256**
+- canonical files corrected: `0256-pudhaiyal.md` through `0259-pudhaiyal.md`
+- Part-006 verified total remains: **14 / 49**
+- next canonical source scan remains: **260 / printed page 256**
 
-Part 006 remains **in progress**. Do not run the Part-006 Tamil audit or downstream assembled/English stages until all scans 246–294 have canonical records and native-fidelity dispositions.
+Part 006 remains **in progress**. Do not begin scan 260 until this correction is synchronized across the active repository guidance/status documents.
