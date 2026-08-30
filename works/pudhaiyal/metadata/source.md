@@ -24,7 +24,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 002 | `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf` | 50–98 | 48–96 | **49/49 verified; part-complete** |
 | 003 | `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf` | 99–147 | 97–145 | **49/49 verified; part-complete** |
 | 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **49/49 verified; part-complete** |
-| 005 | `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf` | 197–245 | 195 onward | **42/49 records; 35 verified; 7 needs-review; in progress** |
+| 005 | `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf` | 197–245 | 195–241 | **49/49 represented; 42 verified + 7 source-damage needs-review; part-complete with qualification** |
 
 No split PDF is committed to GitHub.
 
@@ -50,7 +50,9 @@ No split PDF is committed to GitHub.
 - scan 225 closes chapter 24
 - scan 226 begins chapter 25
 - scan 235 closes chapter 25 / begins chapter 26
-- chapter 26 continues beyond scan 238
+- scan 240 closes chapter 26
+- scan 241 begins chapter 27
+- scan 245 / printed 241 ends mid-sentence at `இருக்கவே`; chapter 27 continues in the next derivative
 
 ## Part-005 physical anomalies
 
@@ -58,25 +60,31 @@ No split PDF is committed to GitHub.
 - scans 217/219 both represent printed page 215;
 - scans 215–219 are crossed by repair/tape obstruction;
 - scans 223–224 / printed pages 219–220 have substantial physical loss;
-- duplicate witnesses are preserved separately and do not currently resolve the obscured text.
+- duplicate witnesses are preserved separately and do not resolve the obscured text;
+- these seven records remain `needs-review` even though the Part-005 split workflow is complete.
 
 ## Canonical Tamil state
 
-- page records created: **238**
-- verified: **231**
+- page records created: **245**
+- verified: **238**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
-- clean contiguous verified coverage: through scan **214 / printed page 212**
-- later individual scans are verified through scan **238**, except the seven damaged physical records
-- Parts 001–004: **part-complete**
-- Part 005: **in progress**
+- clean contiguous fully verified coverage: through scan **214 / printed page 212**
+- later individual scans are verified through scan **245**, except the seven damaged physical records
+- Parts 001–005: **part-complete at split level**
+- Part 005 Tamil audit: **source-damage-closed**
+- Part 005 assembled Tamil / English / bilingual review: **completed with the same source-damage qualification**
 - backward integrity audit: **COMPLETE through scan 118**
 
-Part-005 fidelity records:
+Part-005 records:
 
+- [`../indexes/part-005-page-map.md`](../indexes/part-005-page-map.md)
 - [`../notes/visual-fidelity-scans-197-216.md`](../notes/visual-fidelity-scans-197-216.md)
 - [`../notes/visual-fidelity-scans-217-228.md`](../notes/visual-fidelity-scans-217-228.md)
 - [`../notes/visual-fidelity-scans-229-238.md`](../notes/visual-fidelity-scans-229-238.md)
+- [`../notes/visual-fidelity-scans-239-245.md`](../notes/visual-fidelity-scans-239-245.md)
+- [`../notes/part-005-tamil-audit.md`](../notes/part-005-tamil-audit.md)
+- [`../translations/en/PART_005_REVIEW.md`](../translations/en/PART_005_REVIEW.md)
 
 ## Completeness still open
 
@@ -88,4 +96,4 @@ Part-005 fidelity records:
 
 ## Exact next action
 
-Continue Part 005 at **scan 239 / printed page 235 / split page 43**, preserving chapter 26 continuity. Do not infer damaged-page text and do not begin Part-005 translation before its Tamil gate is eligible.
+Obtain / attach the next source derivative beginning at **scan 246 / printed page 242** and resume chapter 27 directly from native source evidence after `இருக்கவே`. Do not infer the continuation.
