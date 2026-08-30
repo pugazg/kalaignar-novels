@@ -5,10 +5,10 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245
 - split pages: **49**
 - represented source scans: **197–245**
 - source/split PDF committed: **No**
-- current canonical records: **197–228 — 32 records**
-- fully verified: **25**
+- current canonical records: **197–238 — 42 records**
+- fully verified: **35**
 - needs-review: **7**
-- not-started: **229–245 — 17**
+- not-started: **239–245 — 7**
 
 | Source scan | Printed page | Section | Status | File / note |
 |---:|:---:|---|---|---|
@@ -44,7 +44,17 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245
 | 226 | 222 | chapter 25 begins | verified | `../pages/0226-pudhaiyal.md` |
 | 227 | 223 | chapter 25 | verified | ends at `சிறு` |
 | 228 | 224 | chapter 25 | verified | begins `கல்லும்`; ends `‘கள்வர் புகும்` |
-| 229–245 | pending forward mapping | later Part-005 body | not-started | native-page pass required |
+| 229 | 225 | chapter 25 | verified | begins `வழியிலே’` |
+| 230 | 226 | chapter 25 | verified | ends at `அவன் கண்` |
+| 231 | 227 | chapter 25 | verified | begins `கள்`; ends `பறிபோய்விடும்—` |
+| 232 | 228 | chapter 25 | verified | ends at `என்பது` |
+| 233 | 229 | chapter 25 | verified | ends `செப்பேட்டில் குறித்த` |
+| 234 | 230 | chapter 25 | verified | intruder revealed |
+| 235 | 231 | chapter 25 closes / chapter 26 begins | verified | ends mid-word `அமைந்` |
+| 236 | 232 | chapter 26 | verified | begins `திருந்தன.`; ends `துரையின்` |
+| 237 | 233 | chapter 26 | verified | ends mid-word `அந்தப் பிடியி` |
+| 238 | 234 | chapter 26 | verified | begins `லிருந்து`; ends `வெளியே ஓடினாள்.` |
+| 239–245 | pending forward mapping | chapter 26 and later Part-005 body | not-started | native-page pass required |
 
 ## Source anomalies
 
@@ -63,17 +73,22 @@ Printed pages **219–220** are physically torn with substantial missing areas; 
 
 - scan 205 closes chapter 22; scan 206 begins chapter 23.
 - scan 214 closes chapter 23; scan 215 begins chapter 24.
-- scan 225 closes chapter 24; scan 226 begins chapter **25**.
+- scan 225 closes chapter 24; scan 226 begins chapter 25.
 - scan 227 `சிறு` → scan 228 `கல்லும்` = `சிறு கல்லும்`.
-- scan 228 ends at `‘கள்வர் புகும்`; native scan 229 / printed page 225 visibly continues `வழியிலே’`.
+- scan 228 `‘கள்வர் புகும்` → scan 229 `வழியிலே’`.
+- scan 230 `அவன் கண்` → scan 231 `கள்` = `அவன் கண்கள்`.
+- scan 235 `அமைந்` → scan 236 `திருந்தன.` = `அமைந்திருந்தன.`.
+- scan 237 `அந்தப் பிடியி` → scan 238 `லிருந்து` = `அந்தப் பிடியிலிருந்து`.
+- scan 235 closes chapter 25 and begins source-printed chapter **26** on the same physical page.
 
 Fidelity records:
 
 - [`../notes/visual-fidelity-scans-197-216.md`](../notes/visual-fidelity-scans-197-216.md)
 - [`../notes/visual-fidelity-scans-217-228.md`](../notes/visual-fidelity-scans-217-228.md)
+- [`../notes/visual-fidelity-scans-229-238.md`](../notes/visual-fidelity-scans-229-238.md)
 
 ## Exact next activity
 
-Continue canonical transcription from **scan 229 / printed page 225 / Part-005 split page 33**, beginning by source-confirming the continuation of scan 228's `‘கள்வர் புகும்`.
+Continue canonical transcription from **scan 239 / printed page 235 / Part-005 split page 43**. Chapter 26 continues from scan 238.
 
-Do not mark Part 005 Tamil-audit eligible until scans 229–245 are processed and the seven current `needs-review` pages are either resolved by stronger source evidence or explicitly carried as unresolved.
+Do not mark Part 005 Tamil-audit eligible until scans 239–245 are processed and the seven current `needs-review` pages are either resolved by stronger source evidence or explicitly carried as unresolved under the project policy.
