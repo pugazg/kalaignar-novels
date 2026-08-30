@@ -7,12 +7,12 @@ page_type: "body / chapter 27 begins"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 22 baseline reconciled directly against native split part 005 page 45 image"
+transcription_method: "user-supplied Iteration 22 baseline reconciled directly against native split part 005 page 45 image; old-glyph reinspection 2026-08-30"
 ---
 
 # 27
 
-சுற்றிலும் போலீசார் — அதோடு அனல் மொழி சிந்திடும் தகப்பன் தாண்டவன் — இவர்களுக்கிடையே சிக்கிக்கொண்ட பரிமளாவுக்கு எப்படித் தப்புவது என்றே புரியவில்ல. அங்கே, அத்தானின் கதி என்ன ஆயிற்றோ புரியவில்ல. கூர்மாவதாரம் போன்றவனின் கையிலே இருந்த அந்தக் கூரிய கத்தி அத்தானின் நெஞ்சிலே பாய்ந்துவிட்டதோ என்னவோ — அதை நினைத்துக் கவலைப்படுவதா? அல்லது, தான் விடுபட முடியாதபடி சிக்கிக் கொண்டதை நினைத்து கவலைப்படுவதா?
+சுற்றிலும் போலீசார் — அதோடு அனல் மொழி சிந்திடும் தகப்பன் தாண்டவன் — இவர்களுக்கிடையே சிக்கிக்கொண்ட பரிமளாவுக்கு எப்படித் தப்புவது என்றே புரியவில்லை. அங்கே, அத்தானின் கதி என்ன ஆயிற்றோ புரியவில்லை. கூர்மாவதாரம் போன்றவனின் கையிலே இருந்த அந்தக் கூரிய கத்தி அத்தானின் நெஞ்சிலே பாய்ந்துவிட்டதோ என்னவோ — அதை நினைத்துக் கவலைப்படுவதா? அல்லது, தான் விடுபட முடியாதபடி சிக்கிக் கொண்டதை நினைத்து கவலைப்படுவதா?
 
 மின்னற் பொழுதுதான்! அதற்குள் அந்தக் கன்னல் மொழிக்காரி ஒரு புதுவழி கண்டுபிடித்து விட்டாள். தன்னையும் குற்றமற்றவளாக்கிக் கொள்ள — அதோடு தன் அத்தானையும் காப்பாற்றிட அந்த வழியே சிறந்ததென எண்ணினாள்; பதட்டத்தோடு பேசினாள்.
 
@@ -23,9 +23,9 @@ transcription_method: "user-supplied Iteration 22 baseline reconciled directly a
 ## Source / boundary notes
 
 - Source-printed chapter `27` begins on this scan.
-- Source prints `புரியவில்ல` twice and `கையிலே இருந்த`; these are retained.
-- Source prints `ஒரு புதுவழி`, not baseline `ஒரு புது வழி`.
-- Baseline `கெட்டார்கள்` is corrected from native pixels to `கேட்டார்கள்`.
-- Source punctuation after `போலீசார்` is a semicolon in the scan and is retained.
+- High-resolution old-type reinspection confirms baseline `புரியவில்லை` twice; the earlier assistant `புரியவில்ல` readings are withdrawn.
+- Source prints `கையிலே இருந்த` and `ஒரு புதுவழி`; retained.
+- Baseline `கெட்டார்கள்` remains corrected from native pixels to `கேட்டார்கள்`.
+- Source punctuation after `போலீசார்` is a semicolon and is retained.
 
 <!-- மூல ஸ்கேன் பக்கம்: 241; அச்சுப் பக்கம்: 237 -->
