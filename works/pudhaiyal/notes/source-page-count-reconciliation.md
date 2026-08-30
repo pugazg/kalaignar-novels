@@ -11,7 +11,7 @@ Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.** 
 
 - bibliographic printed extent: **443 p.**;
 - source scans currently represented by received derivatives: **1–294**;
-- canonical source-scan records currently created: **1–266**;
+- canonical source-scan records currently created: **1–268**;
 - exact original PDF scan/page-object count: **still pending**.
 
 ## Authority distinction
@@ -29,10 +29,10 @@ Received access derivatives:
 5. Part 005 — scans **197–245** — **part-complete with explicit source-damage qualification**
 6. Part 006 — scans **246–294 / printed 242–290** — **in progress**
    - physical pages mapped: **49 / 49**
-   - canonical records created: **21 / 49 — scans 246–266**
-   - native verified: **21**
+   - canonical records created: **23 / 49 — scans 246–268**
+   - native verified: **23**
    - needs-review: **0**
-   - not-started: **28 — scans 267–294**
+   - not-started: **26 — scans 269–294**
    - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 
 No split is committed to GitHub.
@@ -43,15 +43,19 @@ The mandatory cross-split test remains source-established: scan 245 `இரு�
 
 The strengthened source-fidelity rule applies to **all vowel signs / combining marks**: any old/faint vowel-sign, same-word glyph, or line-wrap spacing disagreement requires a second independent high-resolution pass before overriding the baseline; a printed line break alone never establishes word spacing.
 
-### Iteration 25 through scan 266
+### Iteration 25 through scan 268
 
-- scan 260 / printed 256: verified; ends `வெள்ளியம்பலம்`;
-- scan 261 / printed 257: closes `வெள்ளியம்பலம் கேட்டு விட்டு, ...`; ends `விடிந்த`;
-- scan 262 / printed 258: `விடிந்த` + `தும்` = `விடிந்ததும்`; chapter 29 closes / chapter 30 begins; endpoint `துக்காராமுக்கோ,`;
-- scan 263 / printed 259: source `நடந்தவைகள்`, `புதையலைக் கண்டுபிடிப்பதற்காகவே`, full `மறந்து விடவில்லை`; endpoint `அவர்!`;
+- scan 260 / printed 256: verified;
+- scan 261 / printed 257: closes `வெள்ளியம்பலம் கேட்டு விட்டு, ...`;
+- scan 262 / printed 258: `விடிந்த` + `தும்` = `விடிந்ததும்`; chapter 29 closes / chapter 30 begins;
+- scan 263 / printed 259: source `நடந்தவைகள்`, `புதையலைக் கண்டுபிடிப்பதற்காகவே`, full `மறந்து விடவில்லை`;
 - scan 264 / printed 260: user-challenged source `என்னா` confirmed after enlarged native reinspection; earlier assistant `என்ன` withdrawn;
-- scan 265 / printed 261: verified; preserves source-specific colloquial and old-type forms; endpoint `என்றெல்லாம்!`;
-- scan 266 / printed 262: user baseline wording substantively confirmed; source preserves `வெள்ளியம்பலத்திற்கு`, `கொன்று விடக்கூட`, `நம்ப வேலையை முடிச்சுட்டா`, `முரடனும், முட்டாளும்`, `சாமியாரிடமிருக்கிறது......`, `அட இருங்கய்யா!`; second old-type pass confirms complete `புரியவில்லை`, both `இஷ்டமில்லை`, `பிரமாதமில்லை`, `ஒன்றுமில்லை`, and final-`ை` `புதையலை`; endpoint **`அதில், என்`**.
+- scan 265 / printed 261: verified with old-type vowel-sign safeguards;
+- scan 266 / printed 262: baseline substantively confirmed; endpoint `அதில், என்`;
+- scan 267 / printed 263: closes the open sentence; source `புதைக்கப்பட்டது`, `துக்காராம் சொன்னது`, `கனவு கண்டார்களோ`; preserves `பாதிப் புதையலை`, `கேட்டதால்தானே`, `பேசிக் கொள்ள வில்லையே`;
+- scan 268 / printed 264: full-page plus enlarged second-pass inspection establishes **`யாருடனே`**, not baseline `யாருடனோ`; source preserves `பரிமளம்` and the printed pause sequences `உம்......புறப்படு!`, `இப்போதே சொல்கிறேன்!......அதாவது......ஒரு சாமியாரிடம்......`, `சரி—சரி!`; endpoint `உயிரைப்பற்றிய ஆசை படையெடுத்தது அவன் உள்ளத்தில்!`.
+
+Scan 268 specifically demonstrates the need to compare old `ே` / `ோ` as complete glyph clusters before overriding a baseline.
 
 ## Part-006 physical structure map
 
@@ -63,18 +67,18 @@ The strengthened source-fidelity rule applies to **all vowel signs / combining m
 - chapter 32 begins scan 278 / printed 274;
 - chapter 33 begins scan 288 / printed 284 and continues through scan 294 / printed 290.
 
-This is structure mapping only for scans 267–294; their text remains `not-started` until native reconciliation.
+This is structure mapping only for scans 269–294; their text remains `not-started` until native reconciliation.
 
 ## Current textual state
 
-- canonical page records created: **266**
-- verified: **259**
+- canonical page records created: **268**
+- verified: **261**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified range: **1–214**
-- individually source-verified later pages: through scan **266**, except the seven damaged Part-005 records
+- individually source-verified later pages: through scan **268**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 21 / 49 verified**
+- Part 006: **in progress — 23 / 49 verified**
 - continuous split-level assembled Tamil / English review: **through scan 245 only**
 - source scans physically mapped from received derivatives: **through scan 294**
 - full-source manifest: **still incomplete beyond scan 294**
@@ -83,7 +87,7 @@ This is structure mapping only for scans 267–294; their text remains `not-star
 
 Still required:
 
-1. reconcile Part-006 scans **267–294** under the same canonical/fidelity workflow;
+1. reconcile Part-006 scans **269–294** under the same canonical/fidelity workflow;
 2. complete the Part-006 Tamil audit, assembled Tamil, controlled English and bilingual review before calling Part 006 `part-complete`;
 3. obtain later source splits beyond scan 294;
 4. process every later source scan under the same workflow;
@@ -96,4 +100,4 @@ Do not infer any of those values from the TDL printed-page count.
 
 ## Exact next activity
 
-Reconcile **scan 267 / printed page 263** directly against native Part-006 source pixels, first continuing scan 266's open sentence after `அதில், என்`, and apply the strengthened two-pass old-Tamil-typeform / line-wrap rule to every vowel-sign question.
+Reconcile **scan 269 / printed page 265** directly against native Part-006 source pixels, continuing chapter 30, and apply the strengthened two-pass old-Tamil-typeform / line-wrap rule to every vowel-sign question.
