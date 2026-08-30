@@ -31,36 +31,38 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245
 Current state:
 
 - split pages: **49**
-- canonical records created: **32 — scans 197–228**
-- `verified`: **25**
+- canonical records created: **42 — scans 197–238**
+- `verified`: **35**
 - `needs-review`: **7 — scans 215–219, 223–224**
-- not-started: **17 — scans 229–245**
+- not-started: **7 — scans 239–245**
 - fidelity:
   - [`notes/visual-fidelity-scans-197-216.md`](notes/visual-fidelity-scans-197-216.md)
   - [`notes/visual-fidelity-scans-217-228.md`](notes/visual-fidelity-scans-217-228.md)
+  - [`notes/visual-fidelity-scans-229-238.md`](notes/visual-fidelity-scans-229-238.md)
 - derivative map: [`indexes/part-005-page-map.md`](indexes/part-005-page-map.md)
 - Tamil audit: **not yet eligible**
 - assembled Tamil / English: **not started for Part 005**
 - state: **in progress**
 
-Structure established so far:
+Structure established:
 
 - chapter 22 closes on scan **205**;
-- chapter 23 begins on scan **206** and closes on scan **214**;
-- chapter 24 begins on scan **215** and closes on scan **225**;
-- chapter **25** begins on scan **226** and continues beyond scan 228.
+- chapter 23 begins scan **206**, closes scan **214**;
+- chapter 24 begins scan **215**, closes scan **225**;
+- chapter 25 begins scan **226**, closes on scan **235**;
+- chapter **26** begins on scan **235** and continues beyond scan 238.
 
 Source-condition exceptions:
 
-- scans 216 and 218 are duplicate physical witnesses of printed page 214;
-- scans 217 and 219 are duplicate physical witnesses of printed page 215;
-- repair/tape obstruction remains on those repeated witnesses, so scans 215–219 are not fully source-certified;
-- scan 223 / printed 219 has a large right-side physical loss;
-- scan 224 / printed 220 has a large left-side physical loss;
-- all damaged/repeated physical scans remain separate provenance records rather than being collapsed.
+- scans **215–219** are affected by repair/tape obstruction, including duplicate printed-page witnesses;
+- scans **223–224** have substantial physical tear/loss;
+- user baseline is retained where source pixels are hidden, but those scans remain `needs-review`;
+- no uncertainty may be closed from grammar/context alone.
+
+Iteration 21 closes scans **229–238** at **10 / 10 verified** with no new uncertainty.
 
 ## Exact next source activity
 
-Continue from **scan 229 / printed page 225 / Part-005 split page 33**. Scan 228 ends at `‘கள்வர் புகும்`; the next native page visibly continues `வழியிலே’`.
+Continue canonical transcription from **scan 239 / printed page 235 / Part-005 split page 43**. Chapter 26 continues.
 
-Do not begin Part-005 assembled Tamil or English until all 49 physical scans have canonical records and the Part-005 Tamil audit is eligible. Any unresolved damaged-page readings must remain explicit rather than being repaired from context.
+Do not begin Part-005 assembled Tamil or English until all 49 physical scans have canonical records and the Part-005 Tamil audit passes or otherwise reaches the explicit project-approved uncertainty disposition.
