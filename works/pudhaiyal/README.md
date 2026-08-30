@@ -43,7 +43,7 @@ A derivative boundary is provenance only and must never create a false narrative
 | Part 003 | 99–147 | **part-complete; scan-120 old-glyph correction synchronized** |
 | Part 004 | 148–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification; readable-page old-glyph corrections synchronized** |
-| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–267 verified; 268–294 not-started** |
+| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–268 verified; 269–294 not-started** |
 
 ## Part 006 — active derivative
 
@@ -53,11 +53,11 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - source scans: **246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records created: **22 / 49 — scans 246–267**
-- verified: **22 / 49**
+- canonical records created: **23 / 49 — scans 246–268**
+- verified: **23 / 49**
 - needs-review in Part 006: **0**
-- not-started: **27 — scans 268–294**
-- latest fidelity record: [`notes/visual-fidelity-scan-267.md`](notes/visual-fidelity-scan-267.md)
+- not-started: **26 — scans 269–294**
+- latest fidelity record: [`notes/visual-fidelity-scan-268.md`](notes/visual-fidelity-scan-268.md)
 - Part-006 Tamil audit: **not yet eligible**
 - Part-006 assembled Tamil / English / bilingual review: **not started; gate remains closed**
 - source/split PDF committed: **No**
@@ -65,13 +65,14 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 ### Current Iteration-25 checkpoint
 
 - scan 260 / printed 256: verified; ends `வெள்ளியம்பலம்`;
-- scan 261 / printed 257: verified; closes `வெள்ளியம்பலம் கேட்டு விட்டு, ...`; preserves `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, `பேஷாக`; ends `விடிந்த`;
+- scan 261 / printed 257: verified; closes `வெள்ளியம்பலம் கேட்டு விட்டு, ...`; ends `விடிந்த`;
 - scan 262 / printed 258: verified; `விடிந்த` + `தும்` = `விடிந்ததும்`; chapter 29 closes / chapter 30 begins; ends `துக்காராமுக்கோ,`;
-- scan 263 / printed 259: verified; source `நடந்தவைகள்`, `புதையலைக் கண்டுபிடிப்பதற்காகவே`, full `மறந்து விடவில்லை`; ends `அவர்!`;
-- scan 264 / printed 260: user-challenged **`என்னா`** confirmed from enlarged pixels; earlier assistant `என்ன` withdrawn;
-- scan 265 / printed 261: verified; preserves `வருஷக் கணக்கில்`, `அவளைத் தன் காதலியாகவே`, `பேச்சுமில்லை`, `ஏற்பட்டதில்லை`, `இருந்ததில்லை`, `இணையில்லாத`; ends `என்றெல்லாம்!`;
-- scan 266 / printed 262: user baseline wording substantively confirmed; page ends mid-sentence `அதில், என்`;
-- scan 267 / printed 263: verifies the join `அதில், என் பாதியை நானும் என் காதலி பரிமளாவுந்தானே அனுபவிக்க வேண்டும்!`; second old-glyph inspection confirms **`பாதிப் புதையலை`** with final `லை`; source prints `கேட்டதால்தானே`; baseline `புதைக்கப்பட்டிருக்கிறது` → source `புதைக்கப்பட்டது`; baseline `துக்காராம் சொன்னானா` → source `துக்காராம் சொன்னது, இல்லையா?`; source preserves separated `பேசிக் கொள்ள வில்லையே`; baseline `கனவு கண்டீர்களோ` → source `கனவு கண்டார்களோ`; page ends with that complete dialogue sentence.
+- scan 263 / printed 259: verified; source `நடந்தவைகள்`, `புதையலைக் கண்டுபிடிப்பதற்காகவே`, full `மறந்து விடவில்லை`;
+- scan 264 / printed 260: user-challenged `என்னா` confirmed from enlarged pixels; earlier assistant `என்ன` withdrawn;
+- scan 265 / printed 261: verified; preserves source colloquial/old-type forms; ends `என்றெல்லாம்!`;
+- scan 266 / printed 262: user baseline wording substantively confirmed; old-type second pass confirms full `புரியவில்லை`, both `இஷ்டமில்லை`, `பிரமாதமில்லை`, `ஒன்றுமில்லை`, and final-`ை` `புதையலை`; ends mid-sentence `அதில், என்`;
+- scan 267 / printed 263: verified; 266→267 closes `அதில், என் பாதியை...`; source `புதைக்கப்பட்டது`, `துக்காராம் சொன்னது`, `கனவு கண்டார்களோ`; preserves `கேட்டதால்தானே` and `பேசிக் கொள்ள வில்லையே`;
+- scan 268 / printed 264: verified after full-page plus enlarged two-pass inspection; native source establishes **`யாருடனே`**, not baseline `யாருடனோ`; preserves `பரிமளம்`; source punctuation includes `உம்......புறப்படு!`, `இப்போதே சொல்கிறேன்!......அதாவது......ஒரு சாமியாரிடம்......`, and `சரி—சரி!`; ends `உயிரைப்பற்றிய ஆசை படையெடுத்தது அவன் உள்ளத்தில்!`.
 
 ### Part-006 structure mapped
 
@@ -83,22 +84,22 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through scan 294.
 
-Only scans 246–267 have been textually reconciled so far. Later structural mapping does not make scans 268–294 `verified`.
+Only scans 246–268 have been textually reconciled so far. Later structural mapping does not make scans 269–294 `verified`.
 
 ## Aggregate archival status
 
-- canonical Tamil page records: **267**
-- verified: **260**
+- canonical Tamil page records: **268**
+- verified: **261**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range remains through scan **214 / printed page 212**
-- later individual scans are source-verified through scan **267**, except the seven Part-005 damaged scans
+- later individual scans are source-verified through scan **268**, except the seven Part-005 damaged scans
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 22 / 49 verified**
+- Part 006: **in progress — 23 / 49 verified**
 - assembled Tamil / English: part-reviewed continuously through scan **245** only
 - whole-work Tamil / English verification: **not yet eligible**
 - release-readiness: **blocked until complete source**
 
 ## Exact next activity
 
-Reconcile **scan 268 / printed page 264** directly against native Part-006 pixels, continuing chapter 30. Apply the strengthened two-pass rule to every vowel sign and line-wrap question before overriding any baseline character or word spacing. Do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
+Reconcile **scan 269 / printed page 265** directly against native Part-006 pixels, continuing chapter 30. Apply the strengthened two-pass rule to every vowel sign and line-wrap question before overriding any baseline character or word spacing. Do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
