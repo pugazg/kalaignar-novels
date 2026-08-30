@@ -12,34 +12,30 @@ This source demonstrated that faint final `லை` can resemble bare `ல்` at
 
 **Strengthened after the scans-256–259 failure:** an apparent baseline difference limited to an old-type vowel sign, same-word letter shape, or line-wrap spacing requires a second independent visual pass before the baseline may be changed. Same-edition comparison should be used when possible. A printed line break alone is not evidence for a word-internal space. If the user challenges a glyph reading, reopen every assistant-origin discrepancy in that batch before proceeding.
 
-Retrospective record: [`notes/old-glyph-retrospective-audit-120-245.md`](notes/old-glyph-retrospective-audit-120-245.md).
-
 ## Completed part checkpoints
 
-| Part | Source scans | Tamil audit | Assembled Tamil | English review | State |
-|---|---:|---|---|---|---|
-| 001 | 1–49 | PASSED | PASSED | PASSED | part-complete |
-| 002 | 50–98 | PASSED | PASSED | PASSED | part-complete |
-| 003 | 99–147 | **PASSED after scan-120 old-glyph correction** | **re-synchronized / PASSED** | PASSED | part-complete |
-| 004 | 148–196 | PASSED | PASSED | PASSED | part-complete |
-| 005 | 197–245 | **SOURCE-DAMAGE-CLOSED after readable-page old-glyph reinspection** | **re-synchronized / PASSED WITH QUALIFICATION** | **PASSED WITH QUALIFICATION** | **part-complete** |
+| Part | Source scans | State |
+|---|---:|---|
+| 001 | 1–49 | part-complete |
+| 002 | 50–98 | part-complete |
+| 003 | 99–147 | part-complete |
+| 004 | 148–196 | part-complete |
+| 005 | 197–245 | part-complete with source-damage qualification |
 
-## Retrospective old-glyph integrity repair — 2026-08-30
-
-High-resolution native reinspection established earlier assistant `லை`-loss errors on **23 readable physical scans**. Canonical page records and assembled Tamil were synchronized. The seven physically damaged Part-005 records **215–219 and 223–224** remain `needs-review`.
+The seven physically damaged Part-005 records **215–219 and 223–224** remain `needs-review`.
 
 ## Part 006 — active canonical/fidelity stage
 
 Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
 - physical pages mapped: **49 / 49 — scans 246–294 / printed 242–290**
-- canonical records created: **18 / 49 — scans 246–263**
-- verified: **18**
+- canonical records created: **19 / 49 — scans 246–264**
+- verified: **19**
 - needs-review: **0**
 - partial: **0**
-- not-started: **31 — scans 264–294**
+- not-started: **30 — scans 265–294**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- latest native-fidelity record: [`notes/visual-fidelity-scan-263.md`](notes/visual-fidelity-scan-263.md)
+- latest native-fidelity record: [`notes/visual-fidelity-scan-264.md`](notes/visual-fidelity-scan-264.md)
 - Part-006 Tamil audit: **NOT ELIGIBLE**
 - assembled Tamil / English / bilingual review: **NOT ELIGIBLE**
 - state: **`in-progress`**
@@ -56,47 +52,49 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
 ### Scan 263 / printed 259
 
-Native high-resolution reconciliation against user Iteration 25 establishes:
+Native high-resolution reconciliation establishes:
 
-- baseline `நடந்தவைகளை` → source **`நடந்தவைகள்`**;
-- baseline `புதையல் ரகசியத்தைக் கண்டுபிடிப்பதற்காகவே` → source **`புதையலைக் கண்டுபிடிப்பதற்காகவே`**;
-- full `மறந்து விடவில்லை` is confirmed on the second old-typeform pass;
-- printed line wraps inside `காதலனின்`, `அம்பலத்திடம்`, `பயந்தாள்`, `நோக்க`, `விட்டது`, and `ரகசியம்` are typographic only;
-- page endpoint is `அவர்!`.
+- baseline `நடந்தவைகளை` → source `நடந்தவைகள்`;
+- baseline `புதையல் ரகசியத்தைக் கண்டுபிடிப்பதற்காகவே` → source `புதையலைக் கண்டுபிடிப்பதற்காகவே`;
+- full `மறந்து விடவில்லை` confirmed on second old-typeform pass;
+- page endpoint `அவர்!`.
 
-No unresolved old-type glyph remains through scan 263.
+### Scan 264 / printed 260
+
+Native high-resolution reconciliation establishes:
+
+- baseline `என்னா - தெரியாது மாதிரி விழிக்கிறே?` → source **`என்ன — தெரியாது மாதிரி விழிக்கிறே?`**;
+- source punctuation **`தெரியவில்லை — விழித்தாள்!`**, **`சரி — சரி —`**, and **`வந்தேனே......`**;
+- printed wraps inside `காரணமும்`, `அவருக்குப்`, `ஆவலோடு`, `புரியவில்லை`, `இல்லையா`, and `வெள்ளியம்பலம்` are typographic only;
+- second old-typeform pass confirms complete `புரியவில்லை`, including final `லை`;
+- page endpoint `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
+
+No unresolved old-type glyph remains through scan 264.
 
 ### Structure mapped in Part 006
 
-- chapter 27 closes / chapter 28 begins on scan 247;
-- four-star internal transition on scan 251;
+- chapter 27 closes / chapter 28 begins scan 247;
+- four-star internal transition scan 251;
 - chapter 29 begins scan 254 and closes scan 262;
 - chapter 30 begins scan 262;
 - chapter 31 begins scan 271;
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through the derivative endpoint.
 
-Only scans 246–263 are textually verified at this checkpoint; structural inspection does not upgrade scans 264–294.
-
-## Part 005 — completed split checkpoint
-
-- records created: **49 / 49 — scans 197–245**
-- verified: **42**
-- needs-review: **7 — scans 215–219, 223–224**
-- state: **`part-complete` with source-damage qualification**
+Only scans 246–264 are textually verified at this checkpoint; structural inspection does not upgrade scans 265–294.
 
 ## Aggregate canonical state
 
-- records created: **263**
-- verified: **256**
+- records created: **264**
+- verified: **257**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later individually verified coverage: through scan **263**, except the seven explicitly damaged scans
+- later individually verified coverage: through scan **264**, except the seven explicitly damaged scans
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 18 / 49 verified**
+- Part 006: **in progress — 19 / 49 verified**
 - continuous split-level assembled Tamil / English review: through scan **245** only
-- full-source physical coverage from received derivatives: mapped through scan **294**, but canonical text only through scan 263
+- full-source physical coverage from received derivatives: mapped through scan **294**, but canonical text only through scan 264
 
 ## Whole-work gate
 
@@ -104,4 +102,4 @@ Only scans 246–263 are textually verified at this checkpoint; structural inspe
 
 ## Exact next activity
 
-Reconcile **scan 264 / printed page 260** from user Iteration 25 against native source pixels, continuing chapter 30. Apply the strengthened second-pass old-Tamil-typeform and printed-line-wrap rules to every proposed baseline override. Do not run Part-006 Tamil audit or downstream gates yet.
+Reconcile **scan 265 / printed page 261** from user Iteration 25 against native source pixels, continuing chapter 30. Apply the strengthened second-pass old-Tamil-typeform and printed-line-wrap rules to every proposed baseline override. Do not run Part-006 Tamil audit or downstream gates yet.
