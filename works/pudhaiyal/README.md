@@ -38,7 +38,7 @@ A derivative boundary is provenance only and must never create a false narrative
 | Part 003 | 99–147 | **part-complete; scan-120 old-glyph correction synchronized** |
 | Part 004 | 148–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification; readable-page old-glyph corrections synchronized** |
-| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–255 verified; 256–294 not-started** |
+| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–259 verified; 260–294 not-started** |
 
 ## Retrospective old-glyph integrity repair
 
@@ -54,11 +54,11 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - source scans: **246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records created: **10 / 49 — scans 246–255**
-- verified: **10 / 49**
+- canonical records created: **14 / 49 — scans 246–259**
+- verified: **14 / 49**
 - needs-review in Part 006: **0**
-- not-started: **39 — scans 256–294**
-- fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md), [`notes/visual-fidelity-scans-252-255.md`](notes/visual-fidelity-scans-252-255.md)
+- not-started: **35 — scans 260–294**
+- fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md), [`notes/visual-fidelity-scans-252-255.md`](notes/visual-fidelity-scans-252-255.md), [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md)
 - Part-006 Tamil audit: **not yet eligible**
 - Part-006 assembled Tamil / English / bilingual review: **not started; gate remains closed**
 - source/split PDF committed: **No**
@@ -71,13 +71,13 @@ Scan 245 / printed 241 ended `இருக்கவே`. Native scan 246 / print
 
 This is one continuous source sentence; the derivative boundary creates no narrative break.
 
-### Part-006 verified continuation through scan 255
+### Part-006 verified continuation through scan 259
 
-Scans 246–249 were reconciled against the supplied Iteration-23 baseline. Scans **250–251 / printed 246–247** were transcribed directly from native pages at high resolution. Scans **252–255 / printed 248–251** were reconciled against the supplied Iteration-24 baseline and verified against enlarged native pixels.
+Scans 246–249 were reconciled against Iteration 23. Scans 250–251 were directly transcribed from native pages. Scans 252–255 were reconciled against Iteration 24. Native page mapping then established that the remaining Iteration-24 text continues through **scans 256–259 / printed 252–255**; those four pages have now also been reconciled directly against high-resolution native pixels.
 
-Scan 251 ends the Dukkaram–Raman scene with a source-printed four-star separator. Scan 252 begins the following night scene inside chapter 28. Native continuity on scans 252–253 establishes joined source words `ஒரு இடத்தில்`, `சலசலப்பும்`, and `நினைவுபடுத்தின`, where the baseline had inherited printed line-break spaces. Scan 254 closes chapter 28 and begins source-printed chapter **29**. Scan 255 continues chapter 29 and ends at `காட்டிவிடு!`.
+Material source findings in scans 256–259 include `காட்டுகிறியா?`, source-specific `நன்றுகப் பார்த்தான்`, cross-page `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`, source `அனாவசியமாக`, and source `மண்ணுங் கட்டியாவது!`. The permanent old-Tamil-typeform gate was applied; no unresolved glyph remains in the batch.
 
-The permanent old-Tamil-typeform pre-correction check was applied to scans 252–255; no unresolved glyph remains in this batch.
+The supplied Iteration-25 baseline begins at **scan 260 / printed page 256**.
 
 ### Part-006 structure mapped
 
@@ -90,7 +90,7 @@ The permanent old-Tamil-typeform pre-correction check was applied to scans 252�
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through the derivative endpoint scan 294.
 
-Only scans 246–255 have been textually reconciled so far. Later structural mapping does not make scans 256–294 `verified`.
+Only scans 246–259 have been textually reconciled so far. Later structural mapping does not make scans 260–294 `verified`.
 
 ## Part 005 — completed derivative
 
@@ -111,19 +111,19 @@ The seven Part-005 damaged physical scans remain `needs-review`; Part completion
 
 ## Aggregate archival status
 
-- canonical Tamil page records: **255**
-- verified: **248**
+- canonical Tamil page records: **259**
+- verified: **252**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified range remains through scan **214 / printed page 212**
-- later individual scans are source-verified through scan **255**, except the seven Part-005 damaged scans
+- later individual scans are source-verified through scan **259**, except the seven Part-005 damaged scans
 - backward integrity audit: **COMPLETE through scan 118**, with additional old-glyph retrospective correction at scan 120 and readable Part-005 pages
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 10 / 49 verified**
+- Part 006: **in progress — 14 / 49 verified**
 - assembled Tamil / English: part-reviewed continuously through scan **245** only, carrying the seven Part-005 source-damage qualifications
 - whole-work Tamil / English verification: **not yet eligible**
 - release-readiness: **blocked until complete source**
 
 ## Exact next activity
 
-Reconcile **scan 256 / printed page 252** from the supplied Iteration-25 baseline directly against native Part-006 pixels, applying the permanent old-Tamil-typeform pre-correction check. Do not infer text from grammar/context and do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
+Reconcile **scan 260 / printed page 256** from the supplied Iteration-25 baseline directly against native Part-006 pixels, applying the permanent old-Tamil-typeform pre-correction check. Do not infer text from grammar/context and do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
