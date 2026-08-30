@@ -19,7 +19,12 @@ A derivative boundary is provenance only. Do not invent word, sentence, paragrap
 
 ## Mandatory old-Tamil-typeform check before a correction
 
-This edition contains old/faint Tamil typeforms whose vowel marks can be easy to miss at ordinary zoom. A demonstrated risk is final `லை`, especially in `இல்லை` / `வில்லை`-type forms, where the faint `ை` component can make the cluster look like bare `ல்`.
+This edition contains old/faint Tamil typeforms whose vowel marks can be easy to miss at ordinary zoom. Demonstrated risks now include:
+
+- final `லை`, especially in `இல்லை` / `வில்லை`-type forms, where faint `ை` can make the cluster look like bare `ல்`;
+- faint `ா` after a consonant cluster, demonstrated on scan 264 where source `என்னா` was initially misread as `என்ன`.
+
+**The safeguard therefore applies to every Tamil vowel sign and combining mark, not only `ை`.**
 
 Before changing a user baseline because a final letter, vowel sign or combining mark appears absent:
 
@@ -29,9 +34,15 @@ Before changing a user baseline because a final letter, vowel sign or combining 
 4. compare the same typeform elsewhere in this source edition when useful;
 5. require **positive native-pixel evidence** for the replacement;
 6. if pixels remain ambiguous, retain the baseline and `needs-review` rather than guessing;
-7. never run a global `வில்ல` → `வில்லை`, `இல்ல` → `இல்லை`, or reverse replacement — individual source pixels govern every occurrence.
+7. never run a global spelling expansion/contraction or vowel-sign replacement — individual source pixels govern every occurrence.
 
-**Strengthened after the scans-256–259 correction:** if a proposed difference from the baseline involves only an old/faint vowel sign, a near-identical same-word glyph, or apparent word spacing created by a printed line wrap, perform a **second independent high-resolution inspection** before accepting the change. Compare another clear occurrence from the same edition when possible. A printed line break by itself never proves word-internal spacing. If the user/source challenges one glyph in a batch, reopen every assistant-origin discrepancy in that batch before continuing forward.
+**Strengthened after the scans-256–259 and scan-264 corrections:** if a proposed difference from the baseline involves only an old/faint vowel sign, a near-identical same-word glyph, or apparent word spacing created by a printed line wrap, perform a **second independent high-resolution inspection** before accepting the change. Compare another clear occurrence from the same edition when possible. A printed line break by itself never proves word-internal spacing. If the user/source challenges one glyph in a batch, reopen every assistant-origin discrepancy in that batch before continuing forward.
+
+Correction records:
+
+- [`notes/old-glyph-retrospective-audit-120-245.md`](notes/old-glyph-retrospective-audit-120-245.md)
+- [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md)
+- [`notes/old-glyph-correction-scan-264.md`](notes/old-glyph-correction-scan-264.md)
 
 ## Completed split checkpoints
 
@@ -66,7 +77,7 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - scan 261 closes `வெள்ளியம்பலம் கேட்டு விட்டு, ...` and ends `விடிந்த`;
 - scan 262 begins `தும்`, yielding `விடிந்ததும்`, closes chapter 29 and begins chapter 30, and ends `துக்காராமுக்கோ,`;
 - scan 263 closes `துக்காராமுக்கோ, ஆனந்தம் தாங்கவில்லை.` and establishes `நடந்தவைகள்`, `புதையலைக் கண்டுபிடிப்பதற்காகவே`, and full `மறந்து விடவில்லை`;
-- scan 264 establishes source `என்ன — தெரியாது மாதிரி விழிக்கிறே?`, source punctuation `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, `வந்தேனே......`, and full `புரியவில்லை`; endpoint `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
+- scan 264, after user-triggered reinspection, confirms source **`என்னா`**; the earlier assistant `என்ன` is withdrawn. Canonical punctuation is `என்னா — தெரியாது மாதிரி விழிக்கிறே?`. The page also confirms `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, `வந்தேனே......`, and full `புரியவில்லை`; endpoint `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
 
 Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262; 31 begins 271; 32 begins 278; 33 begins 288.
 
@@ -81,4 +92,4 @@ Do not run the Part-006 Tamil audit or any downstream stage until all scans 246�
 
 ## Exact next activity
 
-Reconcile **scan 265 / printed page 261** from user Iteration 25 directly against the native Part-006 source, continuing chapter 30. Apply the strengthened two-pass old-typeform rule before accepting any disputed glyph or word spacing.
+Reconcile **scan 265 / printed page 261** from user Iteration 25 directly against the native Part-006 source, continuing chapter 30. Apply the strengthened two-pass old-typeform rule to **all vowel signs**, not only final `ை`, before accepting any disputed glyph or word spacing.
