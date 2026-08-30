@@ -54,11 +54,11 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - physical pages / mapped source scans: **49 / 49 — scans 246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **15 / 49 — scans 246–260**
-- verified: **15**
+- canonical records: **16 / 49 — scans 246–261**
+- verified: **16**
 - needs-review: **0**
-- not-started: **34 — scans 261–294**
-- native-fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md), [`notes/visual-fidelity-scans-252-255.md`](notes/visual-fidelity-scans-252-255.md), [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md), [`notes/visual-fidelity-scan-260.md`](notes/visual-fidelity-scan-260.md)
+- not-started: **33 — scans 262–294**
+- native-fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md), [`notes/visual-fidelity-scans-252-255.md`](notes/visual-fidelity-scans-252-255.md), [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md), [`notes/visual-fidelity-scan-260.md`](notes/visual-fidelity-scan-260.md), [`notes/visual-fidelity-scan-261.md`](notes/visual-fidelity-scan-261.md)
 - Tamil audit: **not eligible**
 - assembled Tamil: **not eligible**
 - controlled English: **not eligible**
@@ -86,13 +86,17 @@ The earlier assistant readings `காட்டுகிறியா?`, `நன�
 
 ### Scan 260 / printed 256
 
-Iteration 25 now begins canonically at scan 260. The strengthened two-pass review verifies the page. Positive source differences from the baseline are limited to:
+Iteration 25 begins canonically at scan 260. The strengthened two-pass review verifies the page. Positive source differences from the baseline are limited to:
 
 - typo `சொலலு` → source `சொல்லு`, giving `சொல்லு! சொல்லு!`;
 - source continuous `சாமியாருக்குத்தான்`;
 - source `பொய் சொல்லுகிறாயா?`.
 
-The physical page ends at `வெள்ளியம்பலம்`; scan 261 must continue that sentence.
+The physical page ends at `வெள்ளியம்பலம்`.
+
+### Scan 261 / printed 257
+
+Native scan 261 closes the prior page as `வெள்ளியம்பலம் கேட்டு விட்டு, ...`. Direct high-resolution inspection preserves source-specific `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, and `பேஷாக`. The page ends at `விடிந்த`, so scan 262 must close that sentence before the source-printed chapter 30 transition later on the page.
 
 Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254; 30 begins 262; 31 begins 271; 32 begins 278; 33 begins 288.
 
@@ -121,4 +125,4 @@ Source-condition exceptions remain permanently explicit unless stronger source e
 
 ## Exact next activity
 
-Reconcile **scan 261 / printed page 257** from user Iteration 25 directly against the native Part-006 source. First close scan 260's endpoint `வெள்ளியம்பலம்`, then apply the strengthened two-pass old-typeform rule before accepting any disputed glyph or word spacing.
+Reconcile **scan 262 / printed page 258** directly against the native Part-006 source. First close scan 261's endpoint `விடிந்த`, then capture the source-printed chapter 30 transition later on the page. Apply the strengthened two-pass old-typeform rule before accepting any disputed glyph or word spacing.
