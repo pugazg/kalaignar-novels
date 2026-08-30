@@ -33,6 +33,13 @@
 | Chapter 21 | 187 portion–196 portion | assembled / verified | source-checked |
 | Chapter 22, Part 004 opening | 196 portion | assembled / verified through split endpoint | source-checked through split endpoint |
 | **Part 004 checkpoint** | **148–196** | **part Tamil audit PASSED** | **bilingual review PASSED / part-complete** |
+| Chapter 22, Part 005 continuation | 197–205 | assembled / audited | source-checked |
+| Chapter 23 | 206–214 | assembled / verified | source-checked |
+| Chapter 24 | 215–225 | assembled / source-damage-qualified | source-checked with same qualification |
+| Chapter 25 | 226–235 portion | assembled / audited | source-checked |
+| Chapter 26 | 235 portion–240 | assembled / verified | source-checked |
+| Chapter 27, Part 005 opening | 241–245 | assembled / verified through split endpoint | source-checked through split endpoint |
+| **Part 005 checkpoint** | **197–245** | **Tamil audit SOURCE-DAMAGE-CLOSED; 42 verified + 7 needs-review** | **bilingual review PASSED WITH SOURCE-DAMAGE QUALIFICATION / part-complete** |
 
 Review records:
 
@@ -40,7 +47,10 @@ Review records:
 - [`PART_002_REVIEW.md`](PART_002_REVIEW.md)
 - [`PART_003_REVIEW.md`](PART_003_REVIEW.md)
 - [`PART_004_REVIEW.md`](PART_004_REVIEW.md)
+- [`PART_005_REVIEW.md`](PART_005_REVIEW.md)
 
-Continuous part-level English review now covers source scans **1–196**.
+Continuous split-level English review now covers source scans **1–245**. The seven Part-005 damaged physical records — scans **215–219 and 223–224** — remain explicit qualifications and are not promoted to native verification by translation.
+
+Scan **245 / printed page 241** ends mid-sentence at `இருக்கவே`; chapter 27 continues in the next derivative.
 
 Whole-work English status: **not verified**. The complete source extent, later split ranges, true ending/back matter and final whole-work bilingual review remain open.
