@@ -9,6 +9,8 @@ Result: **4 / 4 verified; 0 needs-review**
 
 The native page images are the textual authority. The supplied transcription was used only as a comparison baseline; OCR/extracted text was not used to resolve readings.
 
+> **Old-glyph correction:** the first review mistakenly read the old-style final `லை` glyph in several `வில்லை` endings as a bare final `ல்`. High-resolution reinspection confirms the user's baseline readings `தெரியவில்லை`, `தாளவில்லை`, `புரியவில்லை`, and `திரும்பி வரவில்லை`. See [`old-glyph-correction-scans-246-248.md`](old-glyph-correction-scans-246-248.md).
+
 ## Cross-split continuity — mandatory first check
 
 Part 005 scan **245 / printed 241** ends at:
@@ -27,10 +29,10 @@ The repetition is source-supported and is not regularized. The derivative bounda
 
 ## Scan 246 / printed 242 — verified
 
-Material baseline corrections established from native pixels:
+High-resolution reinspection confirms:
 
-- `தெரியவில்லை` → source `தெரியவில்ல`;
-- `தாளவில்லை` → source `தாளவில்ல`;
+- baseline `தெரியவில்லை` — **confirmed source reading**;
+- baseline `தாளவில்லை` — **confirmed source reading**;
 - `அந்த இருட்டில-` → source `அந்த இருட்டிலே —`;
 - baseline doubled full stops and flattened dash punctuation are not source-supported.
 
@@ -46,10 +48,10 @@ Source `உத்திரவு` is retained without modernization. A four-star
 
 Cross-page join: `இன்` + `னும்` = `இன்னும்`.
 
-Material baseline corrections:
+High-resolution reinspection confirms:
 
-- `புரியவில்லை` → source `புரியவில்ல`;
-- `திரும்பி வரவில்லை` → source `திரும்பி வரவில்ல`.
+- baseline `புரியவில்லை` — **confirmed source reading**;
+- baseline `திரும்பி வரவில்லை` — **confirmed source reading**.
 
 Source-specific `மகிழ்ச்சி யடைந்தான்` and `அக்கரை` are retained. The page ends mid-word at `அவ`.
 
