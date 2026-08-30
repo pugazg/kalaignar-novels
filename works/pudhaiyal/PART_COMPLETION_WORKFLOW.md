@@ -25,26 +25,28 @@ A part Tamil gate normally passes with all pages verified. Where the controlling
 - Part 002 — scans **50–98** — **`part-complete`**
 - Part 003 — scans **99–147** — **`part-complete`**
 - Part 004 — scans **148–196** — **`part-complete`**
+- Part 005 — scans **197–245** — **`part-complete` with explicit source-damage qualification**
 
-## Part 005 — scans 197–245
+## Part 005 — durable completion record
 
 Source derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
-
-Current state:
 
 - split pages / canonical records: **49 / 49 — scans 197–245**
 - `verified`: **42**
 - `needs-review`: **7 — scans 215–219, 223–224**
 - not-started: **0**
-- fidelity:
-  - [`notes/visual-fidelity-scans-197-216.md`](notes/visual-fidelity-scans-197-216.md)
-  - [`notes/visual-fidelity-scans-217-228.md`](notes/visual-fidelity-scans-217-228.md)
-  - [`notes/visual-fidelity-scans-229-238.md`](notes/visual-fidelity-scans-229-238.md)
-  - [`notes/visual-fidelity-scans-239-245.md`](notes/visual-fidelity-scans-239-245.md)
-- derivative map: [`indexes/part-005-page-map.md`](indexes/part-005-page-map.md)
 - Tamil audit: [`notes/part-005-tamil-audit.md`](notes/part-005-tamil-audit.md) — **`part-tamil-audit-source-damage-closed`**
-- assembled Tamil / English: **not yet completed for Part 005**
-- state: **in progress**
+- assembled Tamil: **completed and part-reviewed**
+- controlled English translation: **completed and source-checked**
+- bilingual review: [`translations/en/PART_005_REVIEW.md`](translations/en/PART_005_REVIEW.md) — **PASSED WITH SOURCE-DAMAGE QUALIFICATION**
+- state: **`part-complete`**
+
+Source-condition exceptions remain permanently explicit unless stronger source evidence becomes available:
+
+- scans **215–219** are affected by repair/tape obstruction, including duplicate printed-page witnesses;
+- scans **223–224** have substantial physical tear/loss;
+- user baseline is retained where source pixels are hidden, but those scans remain `needs-review`;
+- no uncertainty is closed from grammar/context alone.
 
 Structure established:
 
@@ -56,15 +58,6 @@ Structure established:
 - chapter **27** begins scan **241** and continues beyond the Part-005 endpoint;
 - scan **245 / printed 241** ends mid-sentence at `இருக்கவே`.
 
-Source-condition exceptions:
-
-- scans **215–219** are affected by repair/tape obstruction, including duplicate printed-page witnesses;
-- scans **223–224** have substantial physical tear/loss;
-- user baseline is retained where source pixels are hidden, but those scans remain `needs-review`;
-- no uncertainty may be closed from grammar/context alone.
-
-Iteration 21 closed scans **229–238** at **10 / 10 verified**. Iteration 22 closed scans **239–245** at **7 / 7 verified** with no new uncertainty.
-
 ## Exact next activity
 
-Build the **Part-005 assembled Tamil** from scans **197–245**. Keep the seven source-damage qualifications explicit and preserve scan 245's open continuation at `இருக்கவே`. Then complete the controlled English translation, English source-check and part-level bilingual review before marking Part 005 `part-complete`.
+Obtain / attach the next source split beginning at **scan 246 / printed page 242**. Continue chapter 27 directly from the source after `இருக்கவே`. Do not infer the continuation, and do not treat Part 005's derivative endpoint as a chapter or novel ending.
