@@ -8,10 +8,10 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - derivative file size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - source/split PDF committed: **No**
-- canonical records created so far: **24 / 49 — scans 246–269**
-- verified so far: **24**
+- canonical records created so far: **25 / 49 — scans 246–270**
+- verified so far: **25**
 - needs-review in Part 006 so far: **0**
-- not-started: **25 — scans 270–294**
+- not-started: **24 — scans 271–294**
 - split state: **`in-progress`**
 
 The derivative boundary at scan 245→246 is provenance only. Native source establishes the continuation `இருக்கவே` + `இருக்கிறாள் பரிமளா, ...`; no word, sentence or chapter boundary is created by the split.
@@ -42,8 +42,8 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 | 267 | 263 | chapter 30 | verified | `../pages/0267-pudhaiyal.md`; begins `பாதியை`; ends `கனவு கண்டார்களோ, என்னமோ?` |
 | 268 | 264 | chapter 30 | verified | `../pages/0268-pudhaiyal.md`; source `யாருடனே`; ends `அவன் உள்ளத்தில்!` |
 | 269 | 265 | chapter 30 | verified | `../pages/0269-pudhaiyal.md`; ends mid-sentence `முட்களை சமாளித்துக் கொண்டும்,` |
-| 270 | 266 | chapter 30 | not-started | next transcription page; must continue scan 269 sentence |
-| 271 | 267 | chapter 30 closes / chapter 31 begins | not-started | source-printed chapter heading 31 |
+| 270 | 266 | chapter 30 | verified | `../pages/0270-pudhaiyal.md`; begins `பரிமளா, ...`; source `புதரோரத்திலே`; ends `‘தூக்குங்கள்!’ என்று கத்தினாள்.` |
+| 271 | 267 | chapter 30 closes / chapter 31 begins | not-started | next transcription page; source-printed chapter heading 31 |
 | 272 | 268 | chapter 31 | not-started | — |
 | 273 | 269 | chapter 31 | not-started | — |
 | 274 | 270 | chapter 31 | not-started | — |
@@ -79,7 +79,7 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 - chapter 32 begins scan **278 / printed 274**;
 - chapter 33 begins scan **288 / printed 284** and continues through the derivative endpoint.
 
-These observations map structure only for scans 270–294; those pages remain `not-started` until text is directly reconciled against native pixels.
+These observations map structure only for scans 271–294; those pages remain `not-started` until text is directly reconciled against native pixels.
 
 ## Current continuity joins / transitions
 
@@ -91,28 +91,29 @@ These observations map structure only for scans 270–294; those pages remain `n
 - 261→262: `விடிந்த` + `தும்` = `விடிந்ததும்`;
 - 262→263: `துக்காராமுக்கோ,` + `ஆனந்தம் தாங்கவில்லை.`;
 - 266→267: `அதில், என்` + `பாதியை நானும்...` — continuous sentence;
-- scan 267 ends a complete dialogue sentence; scan 268 begins `என்று பரிமளா கூறிய பிறகுதான்...`;
 - scan 268 ends a complete sentence; scan 269 begins a new paragraph;
-- scan 269 ends mid-sentence `முட்களை சமாளித்துக் கொண்டும்,`; scan 270 must continue it.
+- 269→270: `முட்களை சமாளித்துக் கொண்டும்,` + `பரிமளா, தீராத வேதனையைச்...` — one continuous sentence;
+- scan 270 ends a complete sentence; scan 271 continues chapter 30 before the source-printed chapter-31 transition later on that page.
 
-## Current native findings — scans 268–269
-
-### Scan 268 / printed 264
-
-- full-page plus enlarged second-pass inspection establishes `யாருடனே`, not baseline `யாருடனோ`;
-- source preserves `பரிமளம்` and the printed pause sequences `உம்......புறப்படு!`, `இப்போதே சொல்கிறேன்!......அதாவது......ஒரு சாமியாரிடம்......`, `சரி—சரி!`;
-- full old-vowel forms are confirmed;
-- endpoint `உயிரைப்பற்றிய ஆசை படையெடுத்தது அவன் உள்ளத்தில்!`;
-- unresolved readings: **0**.
+## Current native findings — scans 269–270
 
 ### Scan 269 / printed 265
 
-- user Iteration-25 wording is substantively source-supported; no uncertain lexical baseline correction is introduced;
-- source punctuation preserves `ம் — நீ முதலில் நட! பரிமளா — நீயும் புறப்படு!`, `அகலம்தான் அதிகம் — விழுந்தாலும் சாக முடியாது.`, and `சொல்லேனப்பா — நானாவது கண்டுபிடிக்கிறேன்`;
+- user Iteration-25 wording is substantively source-supported;
 - source-specific `அந்தப் பொன்னுக்கு வீங்கி!`, `அந்த எடந்தான்`, `ஆற்றங்கரை யோரத்திலே`, and `புல் பூண்டுகளை` are retained;
 - printed `சொல்` / `லேனப்பா` is one word across a line wrap: `சொல்லேனப்பா`;
 - second old-type pass confirms complete `தெரியவில்லை`, `எதுவுமில்லை`, `ஆழமில்லை`, `புதையலை`, `நம்பிக்கையோடு`, and `தெரியாது`;
 - endpoint `முட்களை சமாளித்துக் கொண்டும்,`;
+- unresolved readings: **0**.
+
+### Scan 270 / printed 266
+
+- user Iteration-26 baseline is substantively source-supported;
+- source punctuation adds a pause in `எல்லாம் பொய் — பொழுது விடியும் வரையில்...`;
+- source reads `புதரோரத்திலே`, not baseline `புதரோரத்தில்`;
+- source preserves `தொடர்ந்தபடி யிருந்தாள்`, `மண்ணாங்கட்டியுமில்லை`, `மனதுக்குள்ளே`, `முணகல் சப்தம்`, `கீழ் ஸ்தாயியில்`, `புதரண்டை`, and `பெருக்கெடுத்த படியிருந்தது`;
+- second old-type pass confirms complete `சாமியாருமில்லை`, `மண்ணாங்கட்டியுமில்லை`, `ரகசியமுமில்லை`, `கையில்லை`, `முடியவில்லை`, and `பரிமளாவினால்`;
+- endpoint `‘தூக்குங்கள்!’ என்று கத்தினாள்.`;
 - unresolved readings: **0**.
 
 ## Fidelity records
@@ -122,8 +123,8 @@ These observations map structure only for scans 270–294; those pages remain `n
 - scan 251: `../notes/visual-fidelity-scan-251.md`
 - scans 252–255: `../notes/visual-fidelity-scans-252-255.md`
 - scans 256–259: `../notes/visual-fidelity-scans-256-259.md`
-- scans 260–269: individual `../notes/visual-fidelity-scan-NNN.md` records, with scan-264 correction separately documented in `../notes/old-glyph-correction-scan-264.md`.
+- scans 260–270: individual `../notes/visual-fidelity-scan-NNN.md` records, with scan-264 correction separately documented in `../notes/old-glyph-correction-scan-264.md`.
 
 ## Exact next activity
 
-Reconcile **scan 270 / printed page 266** directly against native Part-006 source pixels, first continuing scan 269's physical endpoint `முட்களை சமாளித்துக் கொண்டும்,`. Apply the strengthened two-pass old-typeform rule to all vowel signs and line-wrap questions before overriding any baseline character or spacing. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
+Reconcile **scan 271 / printed page 267** directly against native Part-006 source pixels. Complete the remaining chapter-30 text and capture the source-printed chapter-31 heading/transition on that physical page. Apply the strengthened two-pass old-typeform rule to all vowel signs and line-wrap questions before overriding any baseline character or spacing. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
