@@ -48,11 +48,11 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - physical pages / mapped source scans: **49 / 49 — scans 246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **25 / 49 — scans 246–270**
-- verified: **25**
+- canonical records: **26 / 49 — scans 246–271**
+- verified: **26**
 - needs-review: **0**
-- not-started: **24 — scans 271–294**
-- latest native-fidelity record: [`notes/visual-fidelity-scan-270.md`](notes/visual-fidelity-scan-270.md)
+- not-started: **23 — scans 272–294**
+- latest native-fidelity record: [`notes/visual-fidelity-scan-271.md`](notes/visual-fidelity-scan-271.md)
 - Tamil audit: **not eligible**
 - assembled Tamil: **not eligible**
 - controlled English: **not eligible**
@@ -61,15 +61,16 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 
 ### Current Part-006 checkpoint
 
-- scans 260–269 retain their previously verified source findings;
-- scan 270 opens Iteration 26 and directly continues scan 269's mid-sentence endpoint;
-- source punctuation includes `எல்லாம் பொய் — பொழுது விடியும் வரையில்...`;
-- source reads `புதரோரத்திலே`, not baseline `புதரோரத்தில்`;
-- source preserves `தொடர்ந்தபடி யிருந்தாள்`, `மண்ணாங்கட்டியுமில்லை`, `மனதுக்குள்ளே`, `முணகல் சப்தம்`, `கீழ் ஸ்தாயியில்`, `புதரண்டை`, and `பெருக்கெடுத்த படியிருந்தது`;
-- second-pass checks confirm complete `சாமியாருமில்லை`, `மண்ணாங்கட்டியுமில்லை`, `ரகசியமுமில்லை`, `கையில்லை`, `முடியவில்லை`, and `பரிமளாவினால்`;
-- scan 270 ends `‘தூக்குங்கள்!’ என்று கத்தினாள்.`.
+- scan 270 ends `‘தூக்குங்கள்!’ என்று கத்தினாள்.`;
+- scan 271 continues chapter 30, then carries the source-printed horizontal rule and chapter `31` heading;
+- scan 271 user baseline is substantively source-supported;
+- source punctuation uses `காட்டுவானே ரத்தம் — அந்த ரத்தத்தைப் பார்த்தே...`;
+- line-wrap `கையிலே` / `யிருந்து` is canonically `கையிலேயிருந்து`;
+- second-pass checks confirm complete `துரையுமல்ல`, `கிழவருமல்ல`, `போயிருந்தது`, `கொண்டேயிருந்தது`, `தாங்கவில்லை`, both `தெரியவில்லை`, and `வெள்ளியம்பலத்திற்கும்`;
+- source-specific `அனாதரவான`, `செயல் படுத்தவும்`, `தாளேன்`, `தை தகவெனக்` remain unchanged;
+- scan 271 ends `தை தகவெனக் குதித்துக் கத்தினான்.`.
 
-Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262; chapter 31 begins 271; chapter 32 begins 278; chapter 33 begins 288.
+Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262 and closes 271; chapter 31 begins 271; chapter 32 begins 278; chapter 33 begins 288.
 
 Do not run the Part-006 Tamil audit or any downstream stage until all scans 246–294 have canonical records and native-fidelity dispositions.
 
@@ -82,4 +83,4 @@ Do not run the Part-006 Tamil audit or any downstream stage until all scans 246�
 
 ## Exact next activity
 
-Reconcile **scan 271 / printed page 267** directly against the native Part-006 source. Complete the remaining chapter-30 text and capture the source-printed chapter-31 heading/transition on that physical page. Apply the strengthened two-pass old-typeform rule to all vowel signs and printed-line-wrap questions.
+Reconcile **scan 272 / printed page 268** directly against the native Part-006 source, continuing chapter 31. Apply the strengthened two-pass old-typeform rule to all vowel signs and printed-line-wrap questions.
