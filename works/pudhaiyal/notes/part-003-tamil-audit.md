@@ -31,6 +31,8 @@ The part is covered by these native visual/textual-fidelity passes:
 
 Earlier assistant-origin discrepancies in scans 99–118 were re-opened during backward-integrity recovery and corrected from native source pixels before this audit. No earlier assistant reading is treated as authority.
 
+A later 2026-08-30 old-type reinspection also corrected scan **120 / printed 118** after the edition's faint final `லை` glyph was recognized as a recurring visual-risk pattern. See [`old-glyph-retrospective-audit-120-245.md`](old-glyph-retrospective-audit-120-245.md). The Part-003 result remains **49 / 49 verified** after that correction.
+
 ## Structural audit
 
 Source-confirmed chapter/transition map inside Part 003:
@@ -79,7 +81,7 @@ Representative forms retained from native evidence include:
 - scan 112 `காஷ்—?`, `என் அனாவசியமா செலவு`;
 - scan 116 source-odd `அவர்கள் ஆசிரியர் விடவில்லை`;
 - scan 117 `பாத்துட்டான்னு சரின்னு சொல்லிடுவான்`;
-- scan 120 `இல்ல இல்ல!`;
+- scan 120 `இல்லை இல்லை!` and later `இல்லை........` — confirmed on high-resolution old-glyph reinspection;
 - scan 123 source-odd `புருஷனுய்த்`;
 - scan 125 `என்னது?`;
 - scan 126 distinct `அழைச்சிகிட்டு` / `அழைச்சுட்டு` and source-odd `இதானெ`;
@@ -100,14 +102,15 @@ Representative forms retained from native evidence include:
 - unresolved-text gate: **PASS — 0 unresolved**
 - physical-page continuity: **PASS**
 - source chapter/transition structure: **PASS**
+- old-glyph retrospective integrity: **PASS after scan-120 correction**
 - Part 003 Tamil state: **`part-tamil-audit-passed`**
 
 ## Downstream completion
 
-After this Tamil audit passed, the verified material was assembled and translated under the shared plan. The Part-003 bilingual source review also passed:
+After this Tamil audit passed, the verified material was assembled and translated under the shared plan. The Part-003 assembled Tamil has been re-synchronized with the corrected scan-120 authority. The English sense is unaffected by the restored final `லை`, but the review record must cite the corrected Tamil form.
 
 [`../translations/en/PART_003_REVIEW.md`](../translations/en/PART_003_REVIEW.md)
 
-Therefore the derivative's overall workflow state is now **`part-complete`**.
+Therefore the derivative's overall workflow state remains **`part-complete`**.
 
 Whole-work Tamil `PASSED`, whole-work English `verified` and release-readiness remain unavailable until later source splits establish the complete edition and true ending/back matter.
