@@ -5,20 +5,22 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 Reviewed source scan: **264**  
 Printed page: **260**  
 Iteration sequence: **user Iteration 25**  
-Result: **verified; 0 needs-review**
+Result: **verified; 0 needs-review — corrected after user-triggered old-glyph reinspection**
 
-The native page image is the textual authority. The supplied Iteration-25 transcription was treated only as a first-pass baseline. The complete page was read directly at high resolution, with the strengthened second-pass old-Tamil-typeform and printed-line-wrap checks applied before accepting any difference.
+The native page image is the textual authority. The supplied Iteration-25 transcription is a first-pass baseline. After the user challenged the reading of `என்னா`, every assistant-origin discrepancy on this page was reopened and the page was inspected again at enlarged native resolution.
 
-## Source-established findings
+## Corrected source-established findings
 
-- baseline `என்னா - தெரியாது மாதிரி விழிக்கிறே?` → source **`என்ன — தெரியாது மாதிரி விழிக்கிறே?`**;
+- the user baseline word **`என்னா`** is confirmed by native pixels;
+- the earlier assistant reading `என்ன` is withdrawn;
+- the old/faint **`ா`** mark after `ன்ன` is easy to miss at ordinary zoom but is visible on enlarged inspection;
+- canonical punctuation retains the source dash as `என்னா — தெரியாது மாதிரி விழிக்கிறே?`; the baseline's plain `-` does not affect the glyph reading;
 - source punctuation establishes **`தெரியவில்லை — விழித்தாள்!`**;
 - source prints **`சரி — சரி — கதையெல்லாம் அப்புறம் பேசுவோம்.`**;
 - source preserves **`வந்தேனே......`**;
-- the final dialogue is **`இருங்க! ரொம்ப நாளைக்குப் பிறகு, காதலர்கள் சந்தித்திருக்கிறோம். பேசக்கூட விடமாட்டேங்கிறீர்களே!”`**;
-- baseline doubled full stops and spaced hyphens are not treated as source punctuation.
+- the final dialogue is **`இருங்க! ரொம்ப நாளைக்குப் பிறகு, காதலர்கள் சந்தித்திருக்கிறோம். பேசக்கூட விடமாட்டேங்கிறீர்களே!”`**.
 
-## Old-type / line-wrap second pass
+## Old-type / line-wrap reinspection
 
 Printed line wrapping divides several lexical units across physical lines. Native inspection confirms they remain single words/phrases in canonical text:
 
@@ -29,7 +31,12 @@ Printed line wrapping divides several lexical units across physical lines. Nativ
 - `இல்` + `லையா` → `இல்லையா`;
 - `வெள்ளி` + `யம்பலம்` → `வெள்ளியம்பலம்`.
 
-The second old-typeform pass explicitly confirms the full final `லை` in `புரியவில்லை`. No ambiguity remains.
+The reinspection explicitly confirms both demonstrated old-type hazards on this page/source family:
+
+1. final `லை` in `புரியவில்லை` must not be shortened to bare `ல்`;
+2. faint `ா` in `என்னா` must not be silently dropped to `என்ன`.
+
+This establishes a broader rule: **all vowel signs, not only final `ை`, must be treated as potentially faint historical-typeform components before overriding a baseline.**
 
 ## Boundary
 
