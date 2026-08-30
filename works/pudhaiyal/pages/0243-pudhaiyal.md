@@ -7,14 +7,14 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 22 baseline reconciled directly against native split part 005 page 47 image"
+transcription_method: "user-supplied Iteration 22 baseline reconciled directly against native split part 005 page 47 image; old-glyph reinspection 2026-08-30"
 ---
 
 “சண்டை நடந்தது என்றாயே; நடந்து எவ்வளவு நேரம் இருக்கும்?” என்று போலீசார் பரிமளாவைக் கேட்டார்கள்.
 
-“நான் உங்களை சந்திக்கும்போதெல்லாம் சண்டை நடந்துதானிருக்க வேண்டும். சில நிமிஷங்கள் கூட ஆக வில்ல. அதற்குள் எப்படி மறைந்தார்களோ; தெரிய வில்ல” என்று வியப்புக் குறி காட்டினாள் அவள்!
+“நான் உங்களை சந்திக்கும்போதெல்லாம் சண்டை நடந்துதானிருக்க வேண்டும். சில நிமிஷங்கள் கூட ஆக வில்லை. அதற்குள் எப்படி மறைந்தார்களோ; தெரிய வில்லை” என்று வியப்புக் குறி காட்டினாள் அவள்!
 
-“சில நிமிஷங்கூட ஆகவில்ல என்றால், பிறகு எங்கே போயிருப்பார்கள்? ஆச்சரியமாயிருக்கிறதே —” என்று மூக்கிலே விரலை வைத்தபடி நின்றார்கள், போலீசார்.
+“சில நிமிஷங்கூட ஆகவில்லை என்றால், பிறகு எங்கே போயிருப்பார்கள்? ஆச்சரியமாயிருக்கிறதே —” என்று மூக்கிலே விரலை வைத்தபடி நின்றார்கள், போலீசார்.
 
 “அதோ! அதோ!!” என்று ஒரு போலீஸ்காரர் துள்ளிக் குதித்தார். “என்ன?” என்று எல்லோரும் திடுக்கிட்டுத் திரும்பினர். ஒரு பெரிய வெட்டரிவாள் அங்கே புதரோரத்தில் கிடந்தது. அதை எடுத்துப் பார்த்தார்கள்; ரத்தம் தோய்ந்த அரிவாள்! ஆம்; சிறிது நேரத்துக்கு முன்புதான் ஏதோ நடந்திருக்கிறது; இல்லாவிட்டால் அந்த அரிவாளில் ரத்தம் சொட்டிக் கொண்டேயிருக்குமா?
 
@@ -27,7 +27,7 @@ transcription_method: "user-supplied Iteration 22 baseline reconciled directly a
 ## Source / boundary notes
 
 - Source prints `சந்திக்கும்போதெல்லாம்`, not baseline `சந்திக்கும் போதெல்லாம்`.
-- Source prints `ஆக வில்ல`, `தெரிய வில்ல`, and later `நிமிஷங்கூட ஆகவில்ல`; these are retained.
+- High-resolution old-type reinspection confirms baseline `ஆக வில்லை`, `தெரிய வில்லை`, and later `நிமிஷங்கூட ஆகவில்லை`; the earlier shortened assistant readings are withdrawn.
 - Physical page ends at `அங்கே`; scan 244 continues the same sentence.
 
 <!-- மூல ஸ்கேன் பக்கம்: 243; அச்சுப் பக்கம்: 239 -->
