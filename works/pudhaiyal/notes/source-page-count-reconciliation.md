@@ -7,74 +7,90 @@ Last updated: 2026-08-30
 
 The first onboarding pass incorrectly treated scans **1–150** as the complete PDF. That conclusion is permanently withdrawn.
 
-Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.** The repository therefore distinguishes:
+Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.** and exposes the item as **PDF — 2 Files**. The repository therefore distinguishes:
 
 - bibliographic printed extent: **443 p.**;
-- canonical physical-scan records currently created: **1–228**;
+- canonical source-scan records currently created: **1–238**;
 - exact original PDF scan/page-object count: **still pending**.
 
-## Split-source access received
+## Authority distinction
+
+The source scan controls exact text, edition wording, punctuation and page structure. Catalogue information is used only for bibliographic / completeness reconciliation.
+
+## Split-source workaround
+
+Received access derivatives:
 
 1. Part 001 — scans **1–49** — **part-complete**
 2. Part 002 — scans **50–98** — **part-complete**
 3. Part 003 — scans **99–147** — **part-complete**
 4. Part 004 — scans **148–196** — **part-complete**
 5. Part 005 — scans **197–245** — **in progress**
-   - records created through scan **228**
-   - **25 verified / 7 needs-review** within Part 005 so far
-   - scans **229–245** not yet processed
+   - records created through scan **238**
+   - verified physical records: **35 / 42 processed Part-005 scans**
+   - needs-review: **7 — scans 215–219, 223–224**
+   - not-started inside derivative: **239–245 — 7**
 
-No split PDF is committed to GitHub.
+No split is committed to GitHub.
 
-## Part-005 physical-page anomaly
+## Part-005 source anomalies
 
-The source derivative includes repeated damaged physical scans rather than a simple one-scan-per-printed-page sequence:
+The derivative physically repeats printed pages **214–215**:
 
-- scan 215 → printed 213
 - scan 216 → printed 214
 - scan 217 → printed 215
 - scan 218 → printed 214 again
 - scan 219 → printed 215 again
-- scan 220 resumes printed 216
 
-Printed pages 214–215 are therefore represented by duplicate physical witnesses. Their repair/tape obstruction is materially the same and does not reveal enough additional source letters to close the affected readings.
+The duplicate witnesses are retained as distinct provenance records. They carry the same broad repair/tape obstruction and do not expose enough additional source pixels to resolve hidden letters.
 
-Printed pages 219–220, represented by scans 223–224, have large physical losses and also remain `needs-review`.
+Scans **223–224 / printed pages 219–220** are physically torn with substantial missing regions. Their baseline text is retained for comparison, but the hidden areas remain unverified.
 
-This means **physical scan count, printed-page count and narrative-page count must not be conflated** when reconciling the full source.
+## Backward integrity audit
+
+Earlier assistant visual passes introduced multiple false source readings. The central correction record is [`backward-integrity-audit-001-118.md`](backward-integrity-audit-001-118.md). The backward integrity audit is **COMPLETE through scan 118**.
+
+## Part-005 forward fidelity
+
+- scans 197–216 — [`visual-fidelity-scans-197-216.md`](visual-fidelity-scans-197-216.md)
+- scans 217–228 — [`visual-fidelity-scans-217-228.md`](visual-fidelity-scans-217-228.md)
+- scans 229–238 — [`visual-fidelity-scans-229-238.md`](visual-fidelity-scans-229-238.md) — **10 / 10 verified**
+
+Current chapter structure in Part 005:
+
+- chapter 22 closes scan 205;
+- chapter 23 begins 206 / closes 214;
+- chapter 24 begins 215 / closes 225;
+- chapter 25 begins 226 / closes 235;
+- chapter 26 begins on scan 235 and continues beyond scan 238.
 
 ## Current textual state
 
-- canonical page records created: **228**
-- verified: **221**
+- canonical page records created: **238**
+- verified: **231**
 - needs-review: **7**
 - partial: **0**
-- clean continuous verified coverage: through scan **214 / printed page 212**
+- clean contiguous verified range: **1–214**
+- individually source-verified later pages: through scan **238**, except the seven damaged records
 - Parts 001–004: **part-complete**
 - Part 005: **in progress**
-- full-source manifest: **INCOMPLETE beyond scan 228**
-
-## Current Part-005 structure
-
-- chapter 22 closes at scan 205;
-- chapter 23 begins at 206 and closes at 214;
-- chapter 24 begins at 215 and closes at 225;
-- chapter 25 begins at 226 and continues beyond scan 228.
+- full-source manifest: **INCOMPLETE**
 
 ## Full-source extent track
 
 Still required:
 
-1. process Part-005 scans **229–245**;
-2. retain or resolve damaged-page `needs-review` readings only from stronger source evidence;
-3. complete the Part-005 Tamil audit, assembled Tamil, English and bilingual review when eligible;
-4. reconcile later source splits beyond scan 245;
-5. identify true final text / back matter / closing leaves;
-6. determine exact original PDF scan/page-object count;
-7. calculate the exact original full-source SHA-256 when byte-level access is available.
+1. process scans **239–245** to close Part 005's physical inventory;
+2. explicitly resolve or carry the seven damaged `needs-review` physical records under project policy;
+3. run the Part-005 Tamil audit only when eligible;
+4. then complete assembled Tamil, English and bilingual review for Part 005;
+5. obtain later source splits beyond scan 245;
+6. identify true final text / back matter / closing leaves;
+7. determine exact original PDF scan/page-object count;
+8. calculate the exact original full-source SHA-256 when byte-level access is available.
 
 Do not infer any of those values from the TDL printed-page count.
 
 ## Exact next activity
 
-Continue at **scan 229 / printed page 225 / Part-005 split page 33**. Scan 228 ends at `‘கள்வர் புகும்`; the next native page visibly continues `வழியிலே’`.
+Continue canonical transcription at **scan 239 / printed page 235 / Part-005 split page 43**.
