@@ -8,10 +8,10 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - derivative file size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - source/split PDF committed: **No**
-- canonical records created so far: **6 / 49 — scans 246–251**
-- verified so far: **6**
+- canonical records created so far: **10 / 49 — scans 246–255**
+- verified so far: **10**
 - needs-review in Part 006 so far: **0**
-- not-started: **43 — scans 252–294**
+- not-started: **39 — scans 256–294**
 - split state: **`in-progress`**
 
 The derivative boundary at scan 245→246 is provenance only. Native source establishes the continuation `இருக்கவே` + `இருக்கிறாள் பரிமளா, ...`; no word, sentence or chapter boundary is created by the split.
@@ -23,12 +23,12 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 | 248 | 244 | chapter 28 | verified | `../pages/0248-pudhaiyal.md`; begins `னும்`; ends mid-word `அவ` |
 | 249 | 245 | chapter 28 | verified | `../pages/0249-pudhaiyal.md`; begins `தாரம்` |
 | 250 | 246 | chapter 28 | verified | `../pages/0250-pudhaiyal.md`; direct high-resolution native transcription; fidelity `../notes/visual-fidelity-scan-250.md` |
-| 251 | 247 | chapter 28 / internal transition | verified | `../pages/0251-pudhaiyal.md`; direct high-resolution native transcription; four-star separator; fidelity `../notes/visual-fidelity-scan-251.md` |
-| 252 | 248 | chapter 28 after internal transition | not-started | next transcription page |
-| 253 | 249 | chapter 28 | not-started | — |
-| 254 | 250 | chapter 28 closes / chapter 29 begins | not-started | source-printed chapter heading 29 |
-| 255 | 251 | chapter 29 | not-started | — |
-| 256 | 252 | chapter 29 | not-started | — |
+| 251 | 247 | chapter 28 / internal transition | verified | `../pages/0251-pudhaiyal.md`; four-star separator; fidelity `../notes/visual-fidelity-scan-251.md` |
+| 252 | 248 | chapter 28 after internal transition | verified | `../pages/0252-pudhaiyal.md`; Iteration-24 baseline reconciled to native pixels |
+| 253 | 249 | chapter 28 | verified | `../pages/0253-pudhaiyal.md`; line-wrap artefacts reconciled from native continuity |
+| 254 | 250 | chapter 28 closes / chapter 29 begins | verified | `../pages/0254-pudhaiyal.md`; source-printed chapter heading 29 |
+| 255 | 251 | chapter 29 | verified | `../pages/0255-pudhaiyal.md`; ends `காட்டிவிடு!` |
+| 256 | 252 | chapter 29 | not-started | next transcription page |
 | 257 | 253 | chapter 29 | not-started | — |
 | 258 | 254 | chapter 29 | not-started | — |
 | 259 | 255 | chapter 29 | not-started | — |
@@ -74,23 +74,33 @@ Direct inspection of the 49 physical pages establishes these source-printed chap
 
 - chapter 27 continues from Part 005 and closes on scan **247 / printed 243**;
 - chapter 28 begins on scan **247 / printed 243**;
-- a four-star internal transition occurs at the foot of scan **251 / printed 247**;
+- a source-printed four-star internal transition occurs at the foot of scan **251 / printed 247**; chapter 28 continues on scan 252;
 - chapter 29 begins on scan **254 / printed 250**;
 - chapter 30 begins on scan **262 / printed 258**;
 - chapter 31 begins on scan **271 / printed 267**;
 - chapter 32 begins on scan **278 / printed 274**;
 - chapter 33 begins on scan **288 / printed 284** and continues through the derivative endpoint.
 
-These observations map structure only. Scans 252–294 remain `not-started` until their text is reconciled directly against native pixels.
+These observations map structure only for scans 256–294; those pages remain `not-started` until their text is reconciled directly against native pixels.
 
-## Current continuity joins
+## Current continuity joins / transitions
 
 - 245→246: `இருக்கவே` + `இருக்கிறாள் பரிமளா, ...` — source-established cross-split continuation;
 - 247→248: `இன்` + `னும்` = `இன்னும்`;
 - 248→249: `அவ` + `தாரம்` = `அவதாரம்`;
 - 249→250: continuous Dukkaram–Raman scene; no word/sentence fragment crosses the physical page boundary;
-- 250→251: continuous Dukkaram–Raman dialogue; scan 251 then closes the scene with a source-printed four-star transition.
+- 250→251: continuous Dukkaram–Raman dialogue; scan 251 closes the scene with a four-star transition;
+- scan 252 opens the next scene inside chapter 28;
+- 253→254: continuous night/chase scene; chapter 29 begins later on scan 254;
+- 255→256: no mid-word join; scan 256 begins a fresh dialogue sentence inside chapter 29.
+
+## Fidelity records
+
+- scans 246–249: `../notes/visual-fidelity-scans-246-249.md`
+- scan 250: `../notes/visual-fidelity-scan-250.md`
+- scan 251: `../notes/visual-fidelity-scan-251.md`
+- scans 252–255: `../notes/visual-fidelity-scans-252-255.md`
 
 ## Exact next activity
 
-Directly transcribe and visually verify **scan 252 / printed page 248** against native source pixels, beginning after the source-printed four-star internal transition and applying the permanent old-Tamil-typeform pre-correction check. Do not begin the Part-006 Tamil audit, assembled Tamil or English stages until all 49 physical pages have canonical records and native-fidelity dispositions.
+Reconcile **scan 256 / printed page 252** from user Iteration 25 directly against native source pixels, applying the permanent old-Tamil-typeform pre-correction check. Do not begin the Part-006 Tamil audit, assembled Tamil or English stages until all 49 physical pages have canonical records and native-fidelity dispositions.
