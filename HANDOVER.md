@@ -58,6 +58,7 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - needs-review: **0**
 - not-started: **45 — scans 250–294**
 - fidelity record: `works/pudhaiyal/notes/visual-fidelity-scans-246-249.md`
+- old-glyph correction record: `works/pudhaiyal/notes/old-glyph-correction-scans-246-248.md`
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - Part-006 state: **`in-progress`**
 
@@ -81,18 +82,24 @@ Do not normalize the repetition or insert a split boundary.
 
 All four supplied baseline pages are directly source-verified.
 
-Important source corrections/retentions:
+Important source findings/retentions:
 
-- scan 246: `தெரியவில்ல`, not baseline `தெரியவில்லை`;
-- scan 246: `தாளவில்ல`, not baseline `தாளவில்லை`;
-- scan 246: `அந்த இருட்டிலே —`, not `அந்த இருட்டில-`;
+- scan 246: baseline `தெரியவில்லை` is **confirmed** after high-resolution reinspection;
+- scan 246: baseline `தாளவில்லை` is **confirmed** after high-resolution reinspection;
+- scan 246: source `அந்த இருட்டிலே —`, not baseline `அந்த இருட்டில-`;
 - scan 247: baseline `ராஜா மடம் என்ற ஊருக்கும்` is confirmed;
 - 247→248: `இன்` + `னும்` = `இன்னும்`;
-- scan 248: `புரியவில்ல`, not baseline `புரியவில்லை`;
-- scan 248: `திரும்பி வரவில்ல`, not baseline `திரும்பி வரவில்லை`;
+- scan 248: baseline `புரியவில்லை` is **confirmed**;
+- scan 248: baseline `திரும்பி வரவில்லை` is **confirmed**;
 - 248→249: `அவ` + `தாரம்` = `அவதாரம்`;
 - scan 249 confirms baseline `ஒருவரையொருவர்`, `செய்யவில்லையே`, `முடியவில்லையே`; their printed line wraps are not word boundaries;
 - scan 249 preserves source `புண்யங்கூட` and `யானையுமாக வெல்லாம்`.
+
+### Old-glyph caution — permanent for this edition
+
+The first Part-006 pass incorrectly shortened `தெரியவில்லை`, `தாளவில்லை`, `புரியவில்லை`, and `திரும்பி வரவில்லை` because the old-style / faint final `லை` glyph was mistaken for a bare final `ல்`.
+
+That error has been corrected in the canonical pages and fidelity/audit records. For future `வில்லை`-type endings in this edition, enlarge the final glyph character-by-character before declaring a baseline discrepancy. Do not infer an old/short form from ordinary-zoom appearance.
 
 ### Part-006 structure mapped from physical pages
 
@@ -134,4 +141,4 @@ The seven damaged records remain `needs-review`; do not reopen or silently resol
 
 ## Exact next activity
 
-Continue Part 006 at **scan 250 / printed page 246** using the next user-supplied transcription baseline. Reconcile every reading directly from native source pixels, preserve physical page boundaries, report material discrepancies, and keep the Part-006 downstream gates closed until scans 246–294 are all canonically dispositioned.
+Continue Part 006 at **scan 250 / printed page 246** using the next user-supplied transcription baseline. Reconcile every reading directly from native source pixels, preserve physical page boundaries, report material discrepancies, and specifically enlarge old final `லை` glyphs before changing any `வில்லை`-type baseline reading. Keep the Part-006 downstream gates closed until scans 246–294 are all canonically dispositioned.
