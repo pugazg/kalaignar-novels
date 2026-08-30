@@ -59,11 +59,11 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - physical pages / mapped source scans: **49 / 49 — scans 246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **19 / 49 — scans 246–264**
-- verified: **19**
+- canonical records: **20 / 49 — scans 246–265**
+- verified: **20**
 - needs-review: **0**
-- not-started: **30 — scans 265–294**
-- latest native-fidelity record: [`notes/visual-fidelity-scan-264.md`](notes/visual-fidelity-scan-264.md)
+- not-started: **29 — scans 266–294**
+- latest native-fidelity record: [`notes/visual-fidelity-scan-265.md`](notes/visual-fidelity-scan-265.md)
 - Tamil audit: **not eligible**
 - assembled Tamil: **not eligible**
 - controlled English: **not eligible**
@@ -77,7 +77,8 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - scan 261 closes `வெள்ளியம்பலம் கேட்டு விட்டு, ...` and ends `விடிந்த`;
 - scan 262 begins `தும்`, yielding `விடிந்ததும்`, closes chapter 29 and begins chapter 30, and ends `துக்காராமுக்கோ,`;
 - scan 263 closes `துக்காராமுக்கோ, ஆனந்தம் தாங்கவில்லை.` and establishes `நடந்தவைகள்`, `புதையலைக் கண்டுபிடிப்பதற்காகவே`, and full `மறந்து விடவில்லை`;
-- scan 264, after user-triggered reinspection, confirms source **`என்னா`**; the earlier assistant `என்ன` is withdrawn. Canonical punctuation is `என்னா — தெரியாது மாதிரி விழிக்கிறே?`. The page also confirms `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, `வந்தேனே......`, and full `புரியவில்லை`; endpoint `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
+- scan 264, after user-triggered reinspection, confirms source **`என்னா`**; the earlier assistant `என்ன` is withdrawn. Canonical punctuation is `என்னா — தெரியாது மாதிரி விழிக்கிறே?`. The page also confirms `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, `வந்தேனே......`, and full `புரியவில்லை`; endpoint `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`;
+- scan 265 is verified from full-page, enlarged-crop and contrast-enhanced native views; preserves `வருஷக் கணக்கில்`, `உங்க`, `தன்னை சந்தித்த போது`, `கூத்தாடியது`, `உபயோகப்படுத்தி`, `கண் ஜாடை`; confirms `அவளைத் தன் காதலியாகவே`; second old-type pass confirms `காலையிலே`, `பேச்சுமில்லை`, `ஏற்பட்டதில்லை`, `இருந்ததில்லை`, `இணையில்லாத`; endpoint `என்றெல்லாம்!`.
 
 Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262; 31 begins 271; 32 begins 278; 33 begins 288.
 
@@ -92,4 +93,4 @@ Do not run the Part-006 Tamil audit or any downstream stage until all scans 246�
 
 ## Exact next activity
 
-Reconcile **scan 265 / printed page 261** from user Iteration 25 directly against the native Part-006 source, continuing chapter 30. Apply the strengthened two-pass old-typeform rule to **all vowel signs**, not only final `ை`, before accepting any disputed glyph or word spacing.
+Reconcile **scan 266 / printed page 262** directly against the native Part-006 source, continuing chapter 30. Apply the strengthened two-pass old-typeform rule to **all vowel signs**, not only final `ை`, before accepting any disputed glyph or word spacing.
