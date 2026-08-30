@@ -18,7 +18,7 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **238 records / 231 verified / 7 needs-review; Parts 001–004 part-complete; Part 005 in progress** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **245 records / 238 verified / 7 needs-review; Parts 001–005 part-complete; later source pending** |
 
 ### புதையல் — current source state
 
@@ -30,25 +30,26 @@ Access derivatives:
 - part 002 — scans **50–98** — part-complete;
 - part 003 — scans **99–147** — part-complete;
 - part 004 — scans **148–196** — part-complete;
-- part 005 — scans **197–245** — **in progress**.
+- part 005 — scans **197–245** — **part-complete with explicit source-damage qualification**.
 
 Current canonical state:
 
-- records — **238**;
-- verified — **231**;
+- records — **245**;
+- verified — **238**;
 - needs-review — **7 (scans 215–219, 223–224)**;
 - partial — **0**;
-- clean contiguous verified range — through **scan 214 / printed page 212**;
-- later individual source-verified records — through scan **238**, except the seven explicitly damaged scans;
-- Parts 001–004 — full split workflow complete through bilingual review;
-- Part 005 — canonical/native-fidelity stage, **42/49 records processed**;
+- clean contiguous fully verified range — through **scan 214 / printed page 212**;
+- later individual source-verified records — through scan **245**, except the seven explicitly damaged scans;
+- Parts 001–005 — full split workflow complete through assembled Tamil, controlled English and bilingual review;
+- Part 005's seven damaged records remain `needs-review`; `part-complete` does not upgrade them to native verification;
+- assembled Tamil / English split-level review — through scan **245** with those qualifications;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source;
 - source PDF / splits committed — No.
 
-Part 005 closes chapter 22 at scan 205, chapter 23 at 214, chapter 24 at 225, and chapter 25 at scan 235; source-printed chapter **26** begins on scan 235 and continues beyond scan 238. Seven physically damaged/obscured records remain explicit `needs-review`.
+Part 005 closes chapter 22 at scan 205, chapter 23 at 214, chapter 24 at 225, chapter 25 at 235 and chapter 26 at 240. Source-printed chapter **27** begins at scan 241. Scan **245 / printed page 241** ends mid-sentence at `இருக்கவே`; this is only a derivative boundary.
 
-Exact next action: continue from **scan 239 / printed page 235 / Part-005 split page 43**. Do not begin Part-005 assembled Tamil or English until its Tamil gate is eligible.
+Exact next action: obtain the next source derivative beginning at **scan 246 / printed page 242** and continue chapter 27 directly from native source evidence. Do not infer the continuation.
 
 ## நிறைவு பெற்ற reference work
 
