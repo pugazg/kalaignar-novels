@@ -21,6 +21,15 @@ This remains a split-part checkpoint only. It does not close the whole-work Tami
 - scans 217–228 — [`visual-fidelity-scans-217-228.md`](visual-fidelity-scans-217-228.md)
 - scans 229–238 — [`visual-fidelity-scans-229-238.md`](visual-fidelity-scans-229-238.md) — **10 / 10 verified**
 - scans 239–245 — [`visual-fidelity-scans-239-245.md`](visual-fidelity-scans-239-245.md) — **7 / 7 verified**
+- retrospective old-type audit — [`old-glyph-retrospective-audit-120-245.md`](old-glyph-retrospective-audit-120-245.md)
+
+## Retrospective old-glyph correction
+
+On 2026-08-30, Part 005 readable scans were re-opened after Part 006 demonstrated that this edition's old/faint final `லை` glyph can resemble bare final `ல்` at ordinary zoom. Earlier assistant-origin shortened readings were therefore rechecked against enlarged native pixels.
+
+The reinspection corrected readable scans **198, 199, 201, 207, 214, 220, 221, 225, 228, 229, 230, 231, 233, 234, 235, 238, 239, 241, 242, 243, 244 and 245**. Canonical and assembled Tamil have been synchronized.
+
+This does **not** create a global spelling rule. For example, scan 229 `தீண்ட வில்லையே` and scan 244's first `தெரியவில்லையே` remain source-supported exactly as printed.
 
 ## Explicit source-damage disposition
 
@@ -40,7 +49,7 @@ The duplicate witnesses were compared directly. They do not expose enough additi
 
 Scans **223–224 / printed pages 219–220** have substantial torn/missing regions on opposite sides of the pages. The supplied baseline preserves a continuous reading, but missing source pixels prevent full verification.
 
-These seven physical records therefore remain `needs-review` permanently unless genuinely stronger source evidence becomes available. Context, grammar and later narrative are not accepted as substitutes for missing pixels.
+These seven physical records therefore remain `needs-review` unless genuinely stronger source evidence becomes available. Context, grammar, the newly recognized old glyph pattern, and later narrative are not substitutes for missing pixels.
 
 ## Cross-page continuity audited
 
@@ -70,31 +79,52 @@ Important joins checked across Part 005 include:
 - chapter 27 — begins scan 241 and continues beyond the Part-005 endpoint;
 - scan 245 / printed 241 ends mid-sentence at `இருக்கவே`; this is only a derivative boundary, not a chapter or novel ending.
 
-## Protected source-specific readings
+## Protected source-specific readings after old-glyph reinspection
 
-The audit preserves source-established old/odd forms rather than regularizing them. Examples include `இல்ல`, `நன்றுகக் கொட்டிவிட்டது`, `தவறொன்றுமில்ல துரை`, `அதுதான் இல்ல!`, `எனக்குக் கவலையில்ல!`, `அப்பா இறக்கவில்ல`, `கையிலே இல்ல`, `கையில்ல`, `கேட்கவில்ல`, `முடியவில்ல`, `புரியவில்ல`, `தேவையில்ல`, `ஒன்றுமில்ல`, `எதுவுமில்ல`, `பிரியமும் இல்ல`, `பொன்மலைகள் வெளியே எடுக்க`, `வேண்டியதில்ல`, source-odd `வீணுக`, source-odd `நன்றுக`, `அவளது கூச்சலே அவன் காதில் வாங்கவேயில்ல`, `தன் ஆசை அத்தான்`, `தன் இதழ்கள்`, `ஒரு புதுவழி`, `சந்திக்கும்போதெல்லாம்`, `நிமிஷங்கூட ஆகவில்ல`, `யோசனைகளைச்`, `விடவில்ல`, and `இப்போது நான்`.
+Readable-page source authority includes, among other forms:
+
+- `இல்லை` on scans 198, 199 and 214;
+- `செய்ததில்லை` on scan 201;
+- `தவறொன்றுமில்லை துரை` on scan 207;
+- `அதுதான் இல்லை!`, `எனக்குக் கவலையில்லை!` on scan 220;
+- `அப்பா இறக்கவில்லை` on scan 221;
+- `கையிலே இல்லை`, `கையில்லை`, `கேட்கவில்லை`, `முடியவில்லை` on scan 225;
+- `புரியவில்லை` on scans 228, 235 and 241;
+- `தேவையில்லை`, `ஒன்றுமில்லை` on scan 229, while source-specific `தீண்ட வில்லையே` remains unchanged;
+- both `எதுவுமில்லை` readings on scan 230;
+- `பிரியமும் இல்லை` on scan 231;
+- `கவலையில்லை` on scan 233;
+- both `வேண்டியதில்லை` readings on scan 234;
+- `வாங்கவேயில்லை`, separated `வெளிப்பட வில்லை`, `முடியவில்லை` on scan 238;
+- `வரவில்லை` on scan 239;
+- separated `புரிய வில்லை` and `காணப்படவில்லை` on scan 242;
+- separated `ஆக வில்லை`, `தெரிய வில்லை`, later `ஆகவில்லை` on scan 243;
+- scan 244 first `தெரியவில்லையே` retained, later `தெரியவில்லை`, `குத்தவில்லை`, separated `குத்த வில்லை`;
+- `விடவில்லை`, `தேவையில்லை` on scan 245;
+- other source-established forms such as `நன்றுகக் கொட்டிவிட்டது`, `பொன்மலைகள் வெளியே எடுக்க`, source-odd `வீணுக`, source-odd `நன்றுக`, `தன் ஆசை அத்தான்`, `தன் இதழ்கள்`, `ஒரு புதுவழி`, `சந்திக்கும்போதெல்லாம்`, `யோசனைகளைச்`, and `இப்போது நான்` remain preserved.
 
 ## Verdict at Tamil-audit gate
 
 - physical-page inventory for Part 005: **PASS — 49 / 49 represented**
-- native fidelity on readable pages: **PASS — 42 verified**
+- native fidelity on readable pages: **PASS — 42 verified after old-glyph reinspection**
 - source-damage records: **7 explicitly retained `needs-review`**
 - page-boundary continuity: **PASS where source-visible; damaged spans remain explicitly qualified**
 - chapter-boundary structure: **PASS**
+- old-glyph retrospective integrity: **PASS on readable pages**
 - Part-005 Tamil state: **`part-tamil-audit-source-damage-closed`**
 - whole-work Tamil audit: **not yet eligible**
 
 ## Downstream split-workflow completion
 
-After this Tamil gate closed, the approved downstream stages were completed:
+After the retrospective correction:
 
-- assembled Tamil: **completed / part-reviewed**;
-- controlled English translation: **completed / source-checked**;
-- Part-005 bilingual review: [`../translations/en/PART_005_REVIEW.md`](../translations/en/PART_005_REVIEW.md) — **PASSED WITH THE SAME SOURCE-DAMAGE QUALIFICATION**;
-- Part-005 final split state: **`part-complete`**.
+- assembled Tamil chapters 22–27 are **re-synchronized with corrected canonical Tamil**;
+- controlled English translation requires no semantic rewrite because the restored final `லை` does not change the intended negative meaning;
+- Part-005 bilingual review documentation must cite the corrected Tamil authority and retain the same source-damage qualification;
+- Part-005 final split state remains **`part-complete`**.
 
 The seven damaged canonical records remain `needs-review`; downstream completion does not change their source status.
 
 ## Exact next activity
 
-Obtain / attach the next source derivative beginning at **scan 246 / printed page 242** and continue chapter 27 directly from native source evidence after the open scan-245 text `இருக்கவே`.
+After repository-wide workflow/status synchronization for this old-glyph audit is complete, resume Part 006 at **scan 250 / printed page 246**. Every proposed source correction must first pass the strengthened old-type glyph check.
