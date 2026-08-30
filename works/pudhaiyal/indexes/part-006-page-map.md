@@ -36,7 +36,7 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 | 261 | 257 | chapter 29 | verified | `../pages/0261-pudhaiyal.md`; begins `கேட்டு விட்டு`; ends `விடிந்த` |
 | 262 | 258 | chapter 29 closes / chapter 30 begins | verified | `../pages/0262-pudhaiyal.md`; begins `தும்`; chapter 30; ends `துக்காராமுக்கோ,` |
 | 263 | 259 | chapter 30 | verified | `../pages/0263-pudhaiyal.md`; begins `ஆனந்தம் தாங்கவில்லை.`; ends `அவர்!` |
-| 264 | 260 | chapter 30 | verified | `../pages/0264-pudhaiyal.md`; ends `பேசக்கூட விடமாட்டேங்கிறீர்களே!”` |
+| 264 | 260 | chapter 30 | verified | `../pages/0264-pudhaiyal.md`; old/faint `ா` correction confirms `என்னா`; ends `பேசக்கூட விடமாட்டேங்கிறீர்களே!”` |
 | 265 | 261 | chapter 30 | not-started | next transcription page |
 | 266 | 262 | chapter 30 | not-started | — |
 | 267 | 263 | chapter 30 | not-started | — |
@@ -101,10 +101,12 @@ These observations map structure only for scans 265–294; those pages remain `n
 - full `மறந்து விடவில்லை` confirmed on second old-typeform pass;
 - page ends `அவர்!`.
 
-### Scan 264 / printed 260
+### Scan 264 / printed 260 — corrected after user challenge
 
-- baseline `என்னா - தெரியாது மாதிரி விழிக்கிறே?` → source **`என்ன — தெரியாது மாதிரி விழிக்கிறே?`**;
-- source punctuation confirms `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, and `வந்தேனே......`;
+- user baseline **`என்னா`** is confirmed by enlarged native pixels; earlier assistant `என்ன` is withdrawn;
+- faint/old `ா` after `ன்ன` is a demonstrated source-reading hazard;
+- canonical source punctuation is `என்னா — தெரியாது மாதிரி விழிக்கிறே?`;
+- source punctuation also confirms `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, and `வந்தேனே......`;
 - printed wraps inside `காரணமும்`, `அவருக்குப்`, `ஆவலோடு`, `புரியவில்லை`, `இல்லையா`, and `வெள்ளியம்பலம்` are typographic only;
 - second old-typeform pass confirms complete `புரியவில்லை`, including final `லை`;
 - page ends `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
@@ -123,7 +125,8 @@ No unresolved glyph remains through scan 264.
 - scan 262: `../notes/visual-fidelity-scan-262.md`
 - scan 263: `../notes/visual-fidelity-scan-263.md`
 - scan 264: `../notes/visual-fidelity-scan-264.md`
+- scan 264 old-glyph correction: `../notes/old-glyph-correction-scan-264.md`
 
 ## Exact next activity
 
-Reconcile **scan 265 / printed page 261** from user Iteration 25 directly against native source pixels, continuing chapter 30. Apply the strengthened two-pass old-typeform and line-wrap rules before overriding any baseline character or spacing. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
+Reconcile **scan 265 / printed page 261** from user Iteration 25 directly against native source pixels, continuing chapter 30. Apply the strengthened two-pass old-typeform rule to all vowel signs and line-wrap questions before overriding any baseline character or spacing. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
