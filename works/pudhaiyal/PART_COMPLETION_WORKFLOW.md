@@ -1,52 +1,21 @@
 # Split-PDF part-completion workflow — புதையல்
 
-This file records the project-specific workflow for processing the access-derivative split PDFs of `TVA_BOK_0064097_புதையல்.pdf`.
+The split PDFs are **access derivatives of one source edition**, not separate bibliographic works. A split may reach `part-complete`, but whole-work Tamil/English/release gates remain blocked until the complete edition is processed.
 
-## Governing distinction
+## Per-split sequence
 
-The split PDFs are **access derivatives of one source edition**, not separate bibliographic works. Therefore a split may reach a **part-complete checkpoint**, but only the complete source edition may receive the final whole-work `PASSED`, whole-work English `verified`, and release-ready verdicts defined in `NOVEL_PROCESSING_GUIDE.md`.
-
-## User-approved working rule
-
-Do not stop after transcription of a split PDF. When a split is supplied, complete every workflow stage that can be completed safely for that split before asking for the next split.
-
-For each split:
-
-1. map every represented source scan;
-2. create/reconcile every canonical `pages/` record;
+1. map represented source scans;
+2. create/reconcile canonical `pages/` records;
 3. perform native visual/textual fidelity review;
 4. resolve or explicitly retain every `needs-review` item;
-5. run a **part-level Tamil audit**;
-6. update the incremental assembled Tamil reading layer from audited `pages/` only;
-7. translate the audited material under the shared English translation plan;
-8. source-check the English against canonical Tamil;
-9. run a **part-level bilingual review**;
-10. update part status, page map, README and HANDOVER before moving to the next split.
+5. run a part-level Tamil audit;
+6. update assembled Tamil from audited canonical pages only;
+7. translate the audited material;
+8. source-check English against canonical Tamil;
+9. run part-level bilingual review;
+10. synchronize status before moving to the next split.
 
-## Cross-split continuity rule
-
-A split boundary is not a narrative boundary. A word, sentence, paragraph, chapter, scene or internal sequence crossing a split must remain continuous. A reversible provenance marker may be retained, but no false narrative break may be invented.
-
-## Part-level states
-
-- `tamil-pages-verified`
-- `part-tamil-audit-passed`
-- `assembled-part-checked`
-- `english-part-reviewed`
-- `part-complete`
-
-`part-complete` means every stage safely possible for that derivative has passed. It does **not** mean the novel/source edition is complete.
-
-## Whole-work gates retained
-
-The following remain whole-source gates and cannot be closed per split:
-
-- complete source extent / complete page map;
-- final whole-work Tamil audit;
-- final assembled-Tamil consistency pass;
-- whole-work bilingual review;
-- English whole-work `verified`;
-- `RELEASE_REPORT.md` release-ready verdict.
+A derivative boundary is provenance only. Do not invent word, sentence, paragraph, scene or chapter boundaries from it.
 
 ## Completed split checkpoints
 
@@ -55,31 +24,37 @@ The following remain whole-source gates and cannot be closed per split:
 - Part 003 — scans **99–147** — **`part-complete`**
 - Part 004 — scans **148–196** — **`part-complete`**
 
-## Part 004 completion record
+## Part 005 — scans 197–245
 
-Source derivative: `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf`
+Source derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
+
+Current state:
 
 - split pages: **49**
-- printed range: **146–194**
-- canonical Tamil: **49 / 49 verified**
-- unresolved: **0**
-- Tamil audit: [`notes/part-004-tamil-audit.md`](notes/part-004-tamil-audit.md) — **PASSED**
-- assembled Tamil: **PASSED through scan 196**
-- English review: [`translations/en/PART_004_REVIEW.md`](translations/en/PART_004_REVIEW.md) — **PASSED**
-- final derivative map: [`indexes/part-004-page-map.md`](indexes/part-004-page-map.md) — **part-complete**
+- canonical records created: **20 — scans 197–216**
+- `verified`: **18 — scans 197–214**
+- `needs-review`: **2 — scans 215–216**
+- not-started: **29 — scans 217–245**
+- fidelity: [`notes/visual-fidelity-scans-197-216.md`](notes/visual-fidelity-scans-197-216.md)
+- derivative map: [`indexes/part-005-page-map.md`](indexes/part-005-page-map.md)
+- Tamil audit: **not yet eligible**
+- assembled Tamil / English: **not started for Part 005**
+- state: **in progress**
 
-Cross-boundary checks include:
+Structure established so far:
 
-- 147→148 `அடங்கித்தான் போய் விட்டார்கள்.`
-- 158→159 `டாக்துரைக்கு`
-- 173→174 `வள்ளி வெட்டப்பட வேண்டும்`
-- 187→188 `அதுகூட இல்லை எனக்கு.`
-- 193→194 `ஆகாரமும்`
-- 194→195 `வேண்டாமென்று`
-- 195→196 `ஒரு பெருமாள் கோவில் வாசல்—`
+- chapter 22 continues from Part 004 through scans **197–205** and closes on scan 205;
+- chapter **23** begins on scan **206** and closes on scan **214**;
+- chapter **24** begins on scan **215**.
 
-Scan 196 closes chapter 21 and begins chapter **22**. Part 004 ends there only because the derivative ends; chapter 22 continues.
+Source-condition exception:
+
+- scans **215 / printed 213** and **216 / printed 214** are crossed by a broad repair/tape strip that hides letter sequences;
+- user baseline is retained on those pages, but they remain `needs-review` because hidden characters cannot be certified from native pixels;
+- the derivative contains a later duplicate physical scan of printed page 214 (with adjacent repeated material). Treat every repeated scan as distinct provenance and use it only as an alternate source witness if it actually exposes additional letters.
 
 ## Exact next source activity
 
-Obtain / attach the next source split beginning at **scan 197 / printed page 195**. Establish chapter 22's continuation from native source pixels, then complete the entire per-split workflow before moving onward.
+First test the later duplicate witness(es) against scans 215–216. Resolve only letters genuinely exposed by source pixels. Otherwise retain `needs-review`. Then continue from **scan 217 / printed page 215**.
+
+Do not begin Part-005 assembled Tamil or English until all 49 scans are canonically resolved/verified and the Part-005 Tamil audit passes.
