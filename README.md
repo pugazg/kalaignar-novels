@@ -18,7 +18,7 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **228 records / 221 verified / 7 needs-review; Parts 001–004 part-complete; Part 005 in progress** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **238 records / 231 verified / 7 needs-review; Parts 001–004 part-complete; Part 005 in progress** |
 
 ### புதையல் — current source state
 
@@ -34,20 +34,21 @@ Access derivatives:
 
 Current canonical state:
 
-- records — **228**;
-- verified — **221**;
+- records — **238**;
+- verified — **231**;
 - needs-review — **7 (scans 215–219, 223–224)**;
 - partial — **0**;
-- clean continuous verified range — through **scan 214 / printed page 212**;
+- clean contiguous verified range — through **scan 214 / printed page 212**;
+- later individual source-verified records — through scan **238**, except the seven explicitly damaged scans;
 - Parts 001–004 — full split workflow complete through bilingual review;
-- Part 005 — canonical/native-fidelity stage, processed through scan 228;
+- Part 005 — canonical/native-fidelity stage, **42/49 records processed**;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source;
 - source PDF / splits committed — No.
 
-Part-005 source anomalies now established include duplicate physical scans of printed pages **214–215** and large physical losses on printed pages **219–220**. These are preserved as separate provenance records rather than silently repaired or collapsed. See [`works/pudhaiyal/indexes/part-005-page-map.md`](works/pudhaiyal/indexes/part-005-page-map.md) and [`works/pudhaiyal/notes/visual-fidelity-scans-217-228.md`](works/pudhaiyal/notes/visual-fidelity-scans-217-228.md).
+Part 005 closes chapter 22 at scan 205, chapter 23 at 214, chapter 24 at 225, and chapter 25 at scan 235; source-printed chapter **26** begins on scan 235 and continues beyond scan 238. Seven physically damaged/obscured records remain explicit `needs-review`.
 
-Chapter 24 closes on scan 225; chapter **25** begins on scan 226. Exact next action: continue at **scan 229 / printed page 225**, beginning with the source continuation of scan 228's `‘கள்வர் புகும்`.
+Exact next action: continue from **scan 239 / printed page 235 / Part-005 split page 43**. Do not begin Part-005 assembled Tamil or English until its Tamil gate is eligible.
 
 ## நிறைவு பெற்ற reference work
 
