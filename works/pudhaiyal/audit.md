@@ -34,13 +34,13 @@ The seven physically damaged Part-005 records **215–219 and 223–224** remain
 Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
 - physical pages mapped: **49 / 49 — scans 246–294 / printed 242–290**
-- canonical records created: **22 / 49 — scans 246–267**
-- verified: **22**
+- canonical records created: **23 / 49 — scans 246–268**
+- verified: **23**
 - needs-review: **0**
 - partial: **0**
-- not-started: **27 — scans 268–294**
+- not-started: **26 — scans 269–294**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- latest native-fidelity record: [`notes/visual-fidelity-scan-267.md`](notes/visual-fidelity-scan-267.md)
+- latest native-fidelity record: [`notes/visual-fidelity-scan-268.md`](notes/visual-fidelity-scan-268.md)
 - scan-264 correction record: [`notes/old-glyph-correction-scan-264.md`](notes/old-glyph-correction-scan-264.md)
 - Part-006 Tamil audit: **NOT ELIGIBLE**
 - assembled Tamil / English / bilingual review: **NOT ELIGIBLE**
@@ -55,29 +55,9 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - 260→261: `வெள்ளியம்பலம்` + `கேட்டு விட்டு, ...`;
 - 261→262: `விடிந்த` + `தும்` = `விடிந்ததும்`;
 - 262→263: `துக்காராமுக்கோ,` + `ஆனந்தம் தாங்கவில்லை.`;
-- scan 264 ends a complete dialogue sentence; scan 265 begins `துக்காராம் கோபித்துக் கொண்டான்.`;
-- scan 265 ends `என்றெல்லாம்!`; scan 266 begins new narration;
-- 266→267: `அதில், என்` + `பாதியை நானும்...` = `அதில், என் பாதியை நானும் என் காதலி பரிமளாவுந்தானே அனுபவிக்க வேண்டும்!`;
-- scan 267 ends a complete dialogue sentence; scan 268 continues chapter 30 with new narration.
-
-### Scan 264 / printed 260 — corrected after user challenge
-
-Fresh enlarged native inspection established the user baseline **`என்னா`**, withdrawing the earlier assistant `என்ன`. The faint/old `ா` after `ன்ன` is a documented source-reading hazard. The page also confirms full `புரியவில்லை`.
-
-### Scan 265 / printed 261
-
-Native full-page, enlarged-crop and contrast-enhanced inspection established source-specific `வருஷக் கணக்கில்`, `உங்க`, `தன்னை சந்தித்த போது`, `கூத்தாடியது`, `உபயோகப்படுத்தி`, `கண் ஜாடை`, `அவளைத் தன் காதலியாகவே`, and full old-type forms `காலையிலே`, `பேச்சுமில்லை`, `ஏற்பட்டதில்லை`, `இருந்ததில்லை`, `இணையில்லாத`. Unresolved: **0**.
-
-### Scan 266 / printed 262
-
-Full-page plus enlarged two-pass inspection establishes:
-
-- the user's Iteration-25 wording is substantively source-confirmed;
-- source opening `வெள்ளியம்பலத்திற்கு ஆத்திரம் பொங்கியது.`;
-- source preserves `கொன்று விடக்கூட`, `நம்ப வேலையை முடிச்சுட்டா`, `முரடனும், முட்டாளும்`, `அட இருங்கய்யா!`;
-- second old-type pass confirms complete `புரியவில்லை`, both `இஷ்டமில்லை` occurrences, `பிரமாதமில்லை`, `ஒன்றுமில்லை`, and `புதையலை` with final `ை`;
-- physical endpoint `அதில், என்`;
-- unresolved readings: **0**.
+- 266→267: `அதில், என்` + `பாதியை நானும்...` = one continuous sentence;
+- scan 267 ends a complete dialogue sentence; scan 268 begins `என்று பரிமளா கூறிய பிறகுதான்...`;
+- scan 268 ends a complete sentence; scan 269 continues chapter 30.
 
 ### Scan 267 / printed 263
 
@@ -90,7 +70,18 @@ Native full-page plus enlarged-crop inspection establishes:
 - baseline `துக்காராம் சொன்னானா` → source `துக்காராம் சொன்னது, இல்லையா?`;
 - source preserves separated `பேசிக் கொள்ள வில்லையே`;
 - baseline `கனவு கண்டீர்களோ` → source `கனவு கண்டார்களோ`;
-- no source-printed structural transition occurs;
+- unresolved readings: **0**.
+
+### Scan 268 / printed 264
+
+Native full-page plus enlarged two-pass inspection establishes:
+
+- source **`யாருடனே`**, not baseline `யாருடனோ`; same-page old `ே` / `ோ` forms were compared before accepting the difference;
+- source preserves `“எங்கே?” என்றாள் பரிமளம்.` rather than normalizing the name form;
+- source punctuation includes `அதெல்லாம் போகட்டும் — ஆக வேண்டியதை`, `உம்......புறப்படு!`, `இப்போதே சொல்கிறேன்!......அதாவது......ஒரு சாமியாரிடம்......`, and `சரி—சரி!`;
+- second old-type pass confirms complete `இல்லாவிட்டால்`, `பேசியிருக்கிறாள்`, `தெரியலாம்`, `சொல்லாமலா`, `விடிந்தால்`, and `வெள்ளியம்பலத்திடமிருந்து`;
+- printed line wraps are typographic only;
+- physical endpoint `உயிரைப்பற்றிய ஆசை படையெடுத்தது அவன் உள்ளத்தில்!`;
 - unresolved readings: **0**.
 
 ### Structure mapped in Part 006
@@ -103,20 +94,20 @@ Native full-page plus enlarged-crop inspection establishes:
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through the derivative endpoint.
 
-Only scans 246–267 are textually verified at this checkpoint; structural inspection does not upgrade scans 268–294.
+Only scans 246–268 are textually verified at this checkpoint; structural inspection does not upgrade scans 269–294.
 
 ## Aggregate canonical state
 
-- records created: **267**
-- verified: **260**
+- records created: **268**
+- verified: **261**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later individually verified coverage: through scan **267**, except the seven explicitly damaged scans
+- later individually verified coverage: through scan **268**, except the seven explicitly damaged scans
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 22 / 49 verified**
+- Part 006: **in progress — 23 / 49 verified**
 - continuous split-level assembled Tamil / English review: through scan **245** only
-- full-source physical coverage from received derivatives: mapped through scan **294**, but canonical text only through scan 267
+- full-source physical coverage from received derivatives: mapped through scan **294**, but canonical text only through scan 268
 
 ## Whole-work gate
 
@@ -124,4 +115,4 @@ Only scans 246–267 are textually verified at this checkpoint; structural inspe
 
 ## Exact next activity
 
-Reconcile **scan 268 / printed page 264** directly against native source pixels, continuing chapter 30. Apply the strengthened second-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions. Do not run Part-006 Tamil audit or downstream gates yet.
+Reconcile **scan 269 / printed page 265** directly against native source pixels, continuing chapter 30. Apply the strengthened second-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions. Do not run Part-006 Tamil audit or downstream gates yet.
