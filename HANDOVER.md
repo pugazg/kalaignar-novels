@@ -25,7 +25,7 @@ Source/split PDFs must never be committed.
 
 The old `150 pages total` conclusion is permanently withdrawn.
 
-## User-approved split workflow
+## Split workflow
 
 For each supplied derivative: canonical pages → native fidelity → resolve/retain uncertainty → part Tamil audit → assembled Tamil → English → bilingual review → status synchronization → `part-complete`.
 
@@ -74,9 +74,9 @@ Records:
 
 ### Damaged-page constraint
 
-Scans **215 / printed 213** and **216 / printed 214** are crossed by a broad repair/tape strip. User baseline text has been stored but these pages remain `needs-review`; hidden letters are not source-proven.
+Scans **215 / printed 213** and **216 / printed 214** are crossed by a broad repair/tape strip. User baseline text is stored but these pages remain `needs-review`; hidden letters are not source-proven.
 
-The derivative contains a later duplicate physical scan of printed page 214 and adjacent repeated material. Do not collapse duplicates. Compare later witnesses to scans 215–216 and use them only where they reveal additional source pixels.
+The later duplicate physical witness of printed page **214** has now been visually compared. It repeats the same obstruction and does **not** reveal enough additional letters to verify scan 216. Scan 215 likewise has no cleaner witness established in this derivative. Do not close either uncertainty by context.
 
 ## Aggregate durable state
 
@@ -84,13 +84,13 @@ The derivative contains a later duplicate physical scan of printed page 214 and 
 - verified: **214**
 - needs-review: **2**
 - partial: **0**
-- verified continuous clean range: through scan **214 / printed 212**
+- clean verified range: through scan **214 / printed 212**
 - Parts 001–004: part-complete
 - Part 005: in progress
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Inspect the later repeated physical witnesses around printed pages **214–215** and attempt to resolve scans 215–216 without contextual guessing. If the duplicate still hides the same letters, leave them `needs-review`.
+Resume canonical transcription from **scan 217 / printed page 215 / Part-005 split page 21**, using the next user-supplied baseline and native source pixels.
 
-Then resume canonical transcription from **scan 217 / printed page 215**. Do not start Part-005 translation before all 49 scans are resolved and the Part-005 Tamil audit passes.
+Keep scans 215–216 `needs-review` unless a genuinely clearer source witness becomes available. Do not start Part-005 translation before all 49 scans are resolved and the Part-005 Tamil audit passes.
