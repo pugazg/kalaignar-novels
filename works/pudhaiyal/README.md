@@ -38,7 +38,7 @@ A derivative boundary is provenance only and must never create a false narrative
 | Part 003 | 99–147 | **part-complete; scan-120 old-glyph correction synchronized** |
 | Part 004 | 148–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification; readable-page old-glyph corrections synchronized** |
-| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–249 verified; 250–294 not-started** |
+| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–250 verified; 251–294 not-started** |
 
 ## Retrospective old-glyph integrity repair
 
@@ -54,11 +54,11 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - source scans: **246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records created: **4 / 49 — scans 246–249**
-- verified: **4 / 49**
+- canonical records created: **5 / 49 — scans 246–250**
+- verified: **5 / 49**
 - needs-review in Part 006: **0**
-- not-started: **45 — scans 250–294**
-- current fidelity record: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md)
+- not-started: **44 — scans 251–294**
+- fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md)
 - Part-006 Tamil audit: **not yet eligible**
 - Part-006 assembled Tamil / English / bilingual review: **not started; gate remains closed**
 - source/split PDF committed: **No**
@@ -71,6 +71,12 @@ Scan 245 / printed 241 ended `இருக்கவே`. Native scan 246 / print
 
 This is one continuous source sentence; the derivative boundary creates no narrative break.
 
+### Part-006 verified continuation through scan 250
+
+Scans 246–249 were reconciled against the supplied Iteration-23 baseline. Scan **250 / printed 246** was transcribed directly from the native page at high resolution with no user baseline.
+
+Scan 250 continues the Dukkaram–Raman dialogue. Source-specific colloquial forms such as `கறு கண்ணை`, `கிடக்கிறாரு`, `அப்படின்னு`, `கொடுன்னு`, `பெண்ணு`, `சந்திக்கணும்னு`, and `துடிக்குது` were retained. The permanent old-Tamil-typeform pre-correction check was applied; no unresolved reading remains on the page.
+
 ### Part-006 structure mapped
 
 - chapter 27 continues from Part 005 and closes on scan 247;
@@ -81,7 +87,7 @@ This is one continuous source sentence; the derivative boundary creates no narra
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through the derivative endpoint scan 294.
 
-Only scans 246–249 have been textually reconciled so far. Later structural mapping does not make scans 250–294 `verified`.
+Only scans 246–250 have been textually reconciled so far. Later structural mapping does not make scans 251–294 `verified`.
 
 ## Part 005 — completed derivative
 
@@ -102,19 +108,19 @@ The seven Part-005 damaged physical scans remain `needs-review`; Part completion
 
 ## Aggregate archival status
 
-- canonical Tamil page records: **249**
-- verified: **242**
+- canonical Tamil page records: **250**
+- verified: **243**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified range remains through scan **214 / printed page 212**
-- later individual scans are source-verified through scan **249**, except the seven Part-005 damaged scans
+- later individual scans are source-verified through scan **250**, except the seven Part-005 damaged scans
 - backward integrity audit: **COMPLETE through scan 118**, with additional old-glyph retrospective correction at scan 120 and readable Part-005 pages
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress**
+- Part 006: **in progress — 5 / 49 verified**
 - assembled Tamil / English: part-reviewed continuously through scan **245** only, carrying the seven Part-005 source-damage qualifications
 - whole-work Tamil / English verification: **not yet eligible**
 - release-readiness: **blocked until complete source**
 
 ## Exact next activity
 
-Reconcile the next Part-006 transcription batch beginning at **scan 250 / printed page 246** against native source pixels. Apply the permanent old-Tamil-typeform pre-correction check before changing any baseline character. Do not infer text from grammar/context and do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
+Directly transcribe and visually verify **scan 251 / printed page 247** from the native Part-006 source, applying the permanent old-Tamil-typeform pre-correction check. Do not infer text from grammar/context and do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
