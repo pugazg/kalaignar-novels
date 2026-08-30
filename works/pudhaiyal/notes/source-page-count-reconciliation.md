@@ -11,7 +11,7 @@ Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.** 
 
 - bibliographic printed extent: **443 p.**;
 - source scans currently represented by received derivatives: **1–294**;
-- canonical source-scan records currently created: **1–251**;
+- canonical source-scan records currently created: **1–255**;
 - exact original PDF scan/page-object count: **still pending**.
 
 ## Authority distinction
@@ -33,10 +33,10 @@ Received access derivatives:
    - assembled Tamil / English / bilingual review: **completed with the same qualification**
 6. Part 006 — scans **246–294 / printed 242–290** — **in progress**
    - physical pages mapped: **49 / 49**
-   - canonical records created: **6 / 49 — scans 246–251**
-   - native verified: **6**
+   - canonical records created: **10 / 49 — scans 246–255**
+   - native verified: **10**
    - needs-review: **0**
-   - not-started: **43 — scans 252–294**
+   - not-started: **39 — scans 256–294**
    - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 
 No split is committed to GitHub.
@@ -51,9 +51,9 @@ The mandatory cross-split test is source-established:
 
 No derivative-created word, sentence, paragraph, scene or chapter boundary is inserted.
 
-Scans 246–249 / printed 242–245 are **4 / 4 verified** from the Iteration-23 baseline reconciliation. Scans **250–251 / printed 246–247** were then directly transcribed from native pages at high resolution without a user baseline and are also **verified**. Scan 251 ends the current scene with a source-printed four-star internal separator. See [`visual-fidelity-scans-246-249.md`](visual-fidelity-scans-246-249.md), [`visual-fidelity-scan-250.md`](visual-fidelity-scan-250.md), and [`visual-fidelity-scan-251.md`](visual-fidelity-scan-251.md).
+Scans 246–249 / printed 242–245 are **4 / 4 verified** from the Iteration-23 baseline reconciliation. Scans **250–251 / printed 246–247** were directly transcribed from native pages at high resolution. Scans **252–255 / printed 248–251** were reconciled against user Iteration 24 and verified against enlarged native pixels. See [`visual-fidelity-scans-246-249.md`](visual-fidelity-scans-246-249.md), [`visual-fidelity-scan-250.md`](visual-fidelity-scan-250.md), [`visual-fidelity-scan-251.md`](visual-fidelity-scan-251.md), and [`visual-fidelity-scans-252-255.md`](visual-fidelity-scans-252-255.md).
 
-The permanent old-Tamil-typeform pre-correction check is mandatory: inspect the complete glyph cluster at high resolution before deciding that a final vowel sign or old glyph is absent. The retrospective `லை` correction record is [`old-glyph-retrospective-audit-120-245.md`](old-glyph-retrospective-audit-120-245.md).
+The permanent old-Tamil-typeform pre-correction check is mandatory: inspect the complete glyph cluster at high resolution before deciding that a final vowel sign or old glyph is absent. The retrospective `லை` correction record is [`old-glyph-retrospective-audit-120-245.md`](old-glyph-retrospective-audit-120-245.md). No unresolved glyph remains in scans 252–255.
 
 ## Part-006 physical structure map
 
@@ -67,7 +67,7 @@ Full physical-page inspection of the 49-page derivative establishes printed page
 - chapter 32 begins scan 278 / printed 274;
 - chapter 33 begins scan 288 / printed 284 and continues through scan 294 / printed 290.
 
-This is structure mapping only for scans 252–294; their text remains `not-started` until native reconciliation.
+This is structure mapping only for scans 256–294; their text remains `not-started` until native reconciliation.
 
 ## Part-005 source anomalies
 
@@ -92,14 +92,14 @@ A separate 2026-08-30 old-glyph retrospective audit corrected scan 120 and 22 re
 
 ## Current textual state
 
-- canonical page records created: **251**
-- verified: **244**
+- canonical page records created: **255**
+- verified: **248**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified range: **1–214**
-- individually source-verified later pages: through scan **251**, except the seven damaged Part-005 records
+- individually source-verified later pages: through scan **255**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 6 / 49 verified**
+- Part 006: **in progress — 10 / 49 verified**
 - continuous split-level assembled Tamil / English review: **through scan 245 only**, with the seven source-damage qualifications retained
 - source scans physically mapped from received derivatives: **through scan 294**
 - full-source manifest: **still incomplete beyond scan 294**
@@ -108,7 +108,7 @@ A separate 2026-08-30 old-glyph retrospective audit corrected scan 120 and 22 re
 
 Still required:
 
-1. reconcile Part-006 scans **252–294** under the same canonical/fidelity workflow;
+1. reconcile Part-006 scans **256–294** under the same canonical/fidelity workflow;
 2. complete the Part-006 Tamil audit, assembled Tamil, controlled English and bilingual review before calling Part 006 `part-complete`;
 3. obtain later source splits beyond scan 294;
 4. process every later source scan under the same workflow;
@@ -121,4 +121,4 @@ Do not infer any of those values from the TDL printed-page count.
 
 ## Exact next activity
 
-Directly transcribe and visually verify **scan 252 / printed page 248** against native Part-006 source pixels, beginning after the source-printed four-star internal transition and applying the permanent old-Tamil-typeform pre-correction check.
+Reconcile **scan 256 / printed page 252** from user Iteration 25 directly against native Part-006 source pixels, applying the permanent old-Tamil-typeform pre-correction check.
