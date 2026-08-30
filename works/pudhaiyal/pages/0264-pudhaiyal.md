@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "direct high-resolution native split part 006 page 19 transcription; strengthened two-pass old-Tamil-typeform and printed-line-wrap check applied"
+transcription_method: "direct high-resolution native split part 006 page 19 transcription; strengthened two-pass old-Tamil-typeform and printed-line-wrap check applied; user-challenged faint-aa glyph rechecked"
 ---
 
 பரிமளா அந்த நேரத்தில் அங்கு வரவேண்டிய காரணமும் அவருக்குப் புரியவில்லை. அதைத் தெரிந்து கொள்ள விரும்பி, “நீ எப்படி பரிமளா இங்கு வந்தாய், இந்நேரத்தில்?” என்று கேட்டார்.
@@ -20,7 +20,7 @@ transcription_method: "direct high-resolution native split part 006 page 19 tran
 
 “ஏன் பரிமளா, என்னை சிவன் கோயில் பக்கம் வரச் சொல்லி விட்டு, வராமல் இருந்துவிட்டாய்?” என்று ஆவலோடு கேட்டான். பரிமளாவுக்கு அந்தக் கேள்வி புரியவில்லை — விழித்தாள்!
 
-“என்ன — தெரியாது மாதிரி விழிக்கிறே? இவரு வேலைக்காரன் ராமனிடம் சொல்லி அனுப்பினாயா — இல்லையா?”
+“என்னா — தெரியாது மாதிரி விழிக்கிறே? இவரு வேலைக்காரன் ராமனிடம் சொல்லி அனுப்பினாயா — இல்லையா?”
 
 பரிமளா, இப்போது அதிகமாகவே திகைத்தாள். நிலைமை முற்றிவிடக் கூடாதே என்று எண்ணிய வெள்ளியம்பலம்,
 
@@ -31,8 +31,9 @@ transcription_method: "direct high-resolution native split part 006 page 19 tran
 ## Source / boundary notes
 
 - Scan 264 is a continuous chapter-30 body page; no chapter or scene transition is printed on this page.
-- Native pixels confirm baseline content `பரிமளா அந்த நேரத்தில்...` through the closing Dukkaram dialogue, with source punctuation restored rather than the baseline's doubled full stops / spaced hyphens.
-- Material baseline difference: baseline `என்னா - தெரியாது மாதிரி விழிக்கிறே?` → source `என்ன — தெரியாது மாதிரி விழிக்கிறே?`.
+- User challenge triggered a fresh enlarged native-pixel inspection of every assistant-origin discrepancy on the page.
+- Native pixels confirm baseline word **`என்னா`**. The earlier assistant reading `என்ன` is withdrawn. The faint/old `ா` mark after `ன்ன` is visible on enlarged inspection and must not be dropped.
+- Canonical punctuation retains the source dash as `—`; the user's plain `-` is treated only as baseline punctuation representation, not as evidence that the `ா` is absent.
 - Source punctuation also establishes `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, and `வந்தேனே......`.
 - Printed wraps inside `காரணமும்`, `அவருக்குப்`, `ஆவலோடு`, `புரியவில்லை`, `இல்லையா`, and `வெள்ளியம்பலம்` are typographic only; they do not create word-internal spaces.
 - The strengthened second-pass old-typeform check confirms complete `புரியவில்லை`, including the final `லை`.
