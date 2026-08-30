@@ -63,11 +63,11 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - derivative size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - derivative map: `works/pudhaiyal/indexes/part-006-page-map.md`
-- canonical records: **15 / 49 — scans 246–260**
-- verified: **15**
+- canonical records: **16 / 49 — scans 246–261**
+- verified: **16**
 - needs-review: **0**
-- not-started: **34 — scans 261–294**
-- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-260.md`
+- not-started: **33 — scans 262–294**
+- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-261.md`
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - Part-006 state: **`in-progress`**
 
@@ -93,9 +93,13 @@ The supplied **Iteration 25** baseline begins at scan 260. A strengthened two-pa
 - baseline typo `சொலலு` → source `சொல்லு`, giving `சொல்லு! சொல்லு!`;
 - source prints `சாமியாருக்குத்தான்` continuously;
 - source reads `பொய் சொல்லுகிறாயா?`;
-- physical page ends at `வெள்ளியம்பலம்`, and scan 261 must continue that sentence.
+- physical page ends at `வெள்ளியம்பலம்`.
 
 No unresolved glyph remains on scan 260.
+
+### Scan 261 / printed 257 — verified
+
+Native scan 261 begins `கேட்டு விட்டு, ...`, closing the prior page as `வெள்ளியம்பலம் கேட்டு விட்டு, ...`. Direct high-resolution inspection preserves the source-specific forms `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, and `பேஷாக` without grammatical or lexical normalization. The page physically ends at `விடிந்த`; scan 262 continues the sentence and later contains the source-printed chapter 30 heading. No unresolved old-type glyph remains on scan 261.
 
 ### Part-006 structure mapped from physical pages
 
@@ -118,18 +122,18 @@ Those seven damaged records remain `needs-review`; do not silently resolve them 
 
 ## Aggregate durable state
 
-- canonical records: **260**
-- verified: **253**
+- canonical records: **261**
+- verified: **254**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
-- later individual source-verified pages: through scan **260**, except the seven damaged Part-005 records
+- later individual source-verified pages: through scan **261**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 15 / 49 verified**
+- Part 006: **in progress — 16 / 49 verified**
 - assembled Tamil / English split-level review: through scan **245** only
 - source scans represented by currently received derivatives: through **294**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Continue Part 006 at **scan 261 / printed page 257**, chapter 29, using the supplied Iteration-25 first-pass baseline. First close scan 260's physical endpoint `வெள்ளியம்பலம்` from native scan-261 evidence. Apply the strengthened two-pass old-Tamil-typeform rule before accepting any disputed glyph or word spacing.
+Continue Part 006 at **scan 262 / printed page 258**, chapter 29 transitioning to chapter 30. First close scan 261's physical endpoint `விடிந்த` from native scan-262 evidence, then capture the source-printed chapter 30 transition on the same page. Apply the strengthened two-pass old-Tamil-typeform rule before accepting any disputed glyph or word spacing.
