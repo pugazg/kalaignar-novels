@@ -39,10 +39,11 @@ A physically damaged source may receive an explicit source-damage disposition at
 - Part 002 — scans 50–98 — **part-complete**
 - Part 003 — scans 99–147 — **part-complete**
 - Part 004 — scans 148–196 — **part-complete**
+- Part 005 — scans 197–245 — **part-complete with explicit source-damage qualification**
 
-Assembled Tamil and English are part-reviewed continuously through scan 196.
+Assembled Tamil and controlled English are split-level reviewed continuously through scan **245**, with Part-005 source-damage qualifications preserved.
 
-## Active derivative — Part 005
+## Part 005 durable completion record
 
 Source: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
 
@@ -51,7 +52,10 @@ Source: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
 - needs-review: **7 — scans 215–219, 223–224**
 - not-started inside derivative: **0**
 - Part-005 Tamil audit: **closed with explicit source-damage exceptions**
-- Part-005 assembled Tamil / English: **not yet completed**
+- assembled Tamil: **completed / part-reviewed**
+- controlled English: **completed / source-checked**
+- bilingual review: `works/pudhaiyal/translations/en/PART_005_REVIEW.md` — **PASSED WITH SOURCE-DAMAGE QUALIFICATION**
+- Part-005 state: **`part-complete`**
 
 Records:
 
@@ -61,8 +65,9 @@ Records:
 - `works/pudhaiyal/notes/visual-fidelity-scans-229-238.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-239-245.md`
 - `works/pudhaiyal/notes/part-005-tamil-audit.md`
+- `works/pudhaiyal/translations/en/PART_005_REVIEW.md`
 
-### Structure established
+### Structure through the known source
 
 - chapter 22 closes on scan 205;
 - chapter 23 begins 206 / closes 214;
@@ -78,34 +83,22 @@ Scans **215–219** are crossed by repair/tape obstruction. The derivative repea
 
 Scans **223–224 / printed pages 219–220** have substantial physical tear/loss. User baseline text is retained where necessary, but these pages remain `needs-review`.
 
-Do not close any of these seven uncertainties by context or grammar.
+Do not close any of these seven uncertainties by context or grammar. Part completion does not upgrade them to `verified`.
 
-### Iteration 22 source results
+### Important continuity joins in Part 005
 
-Scans **239–245 / printed pages 235–241**: **7 / 7 verified**.
-
-Important source-confirmed corrections include:
-
-- `தன் ஆசை அத்தான்`, not baseline `தன் ஆசை அத்தானை`;
-- scan 239→240 `என்ன செய்` + `தானே?`;
-- `தன் இதழ்கள்`, not `தன் இதழ்களை`;
-- `போலீசாரே உதவிக்கு வந்து`, not `வந்தது`;
-- `புரியவில்ல`, `புரிய வில்ல`, `காணப்படவில்ல`;
-- `ஒரு புதுவழி`;
-- `கேட்டார்கள்`, not baseline `கெட்டார்கள்`;
-- `சந்திக்கும்போதெல்லாம்`, `நிமிஷங்கூட ஆகவில்ல`;
-- `யோசனைகளைச்`, not baseline `யோகனைகளை`;
-- `விடவில்ல`, `தேவையில்ல`;
-- `இப்போது நான்`, not baseline `இப்போதே நான்`.
-
-Important physical joins:
-
-- scan 228 `‘கள்வர் புகும்` + scan 229 `வழியிலே’`;
-- scan 230 `அவன் கண்` + scan 231 `கள்` = `அவன் கண்கள்`;
-- scan 235 `அமைந்` + scan 236 `திருந்தன.` = `அமைந்திருந்தன.`;
-- scan 237 `அந்தப் பிடியி` + scan 238 `லிருந்து` = `அந்தப் பிடியிலிருந்து`;
-- scan 239 `என்ன செய்` + scan 240 `தானே?`;
-- scan 243 `அங்கே` + scan 244 `அடர்ந்திருக்கும்`.
+- 196→197: chapter 22 continues across the split boundary;
+- 204→205: `குதூகலமு` + `மாக` = `குதூகலமுமாக`;
+- 206→207: `என்று தனக்குத் தானே` + `வருத்தப்பட்டுக்கொண்டான் துரை.`;
+- 208→209: `வெளி` + `யிலே` = `வெளியிலே`;
+- 212→213: `அவனிடம்` + `பெற்ற பாடம்`;
+- 227→228: `சிறு` + `கல்லும்` = `சிறு கல்லும்`;
+- 228→229: `‘கள்வர் புகும்` + `வழியிலே’`;
+- 230→231: `அவன் கண்` + `கள்` = `அவன் கண்கள்`;
+- 235→236: `அமைந்` + `திருந்தன.` = `அமைந்திருந்தன.`;
+- 237→238: `அந்தப் பிடியி` + `லிருந்து` = `அந்தப் பிடியிலிருந்து`;
+- 239→240: `என்ன செய்` + `தானே?`;
+- 243→244: `அங்கே` + `அடர்ந்திருக்கும்`.
 
 ## Aggregate durable state
 
@@ -115,12 +108,13 @@ Important physical joins:
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
 - later individual source-verified pages: through scan **245**, except the seven damaged records
-- Parts 001–004: part-complete
-- Part 005: canonical/native fidelity complete; Tamil audit source-damage-closed; assembled/English pending
+- Parts 001–005: **part-complete at split level**
+- assembled Tamil / English split-level review: through scan **245**, carrying the seven source-damage qualifications
 - whole-work Tamil / English / release gates: not yet eligible
+- source coverage beyond scan 245: not yet available in repository
 
 ## Exact next activity
 
-Build the **Part-005 assembled Tamil** from scans **197–245**, preserving the seven source-damage qualifications and the open scan-245 boundary at `இருக்கவே`.
+Obtain / attach the next Pudhaiyal source derivative beginning at **scan 246 / printed page 242**.
 
-After that, complete the controlled English translation, English source-check and Part-005 bilingual review before marking this derivative `part-complete`. Do not start a later split before Part 005's split workflow is complete.
+Resume chapter 27 directly from the open scan-245 endpoint `இருக்கவே` using the next user-supplied baseline plus native source verification. Do not infer the continuation from grammar, context or outside editions. Do not start whole-work verification until the complete source extent and true ending/back matter are known.
