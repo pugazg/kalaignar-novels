@@ -21,7 +21,7 @@ A demonstrated risk in this edition is final `லை`, which can resemble bare `
 
 This is **not** a global normalization rule. Source-specific forms such as scan 229 `தீண்ட வில்லையே` and scan 244's first `தெரியவில்லையே` remain unchanged when their native pixels support them. If pixels are ambiguous, retain the baseline and `needs-review`.
 
-The same safeguard is now repeated in `NEXT_NOVEL_CHAT_PROMPT.md` so future fresh-chat onboarding cannot skip it.
+The same safeguard is repeated in `NEXT_NOVEL_CHAT_PROMPT.md` so future fresh-chat onboarding cannot skip it.
 
 Source/split PDFs must never be committed.
 
@@ -76,11 +76,11 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - derivative size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - derivative map: `works/pudhaiyal/indexes/part-006-page-map.md`
-- canonical records: **5 / 49 — scans 246–250**
-- verified: **5**
+- canonical records: **6 / 49 — scans 246–251**
+- verified: **6**
 - needs-review: **0**
-- not-started: **44 — scans 251–294**
-- fidelity records: `works/pudhaiyal/notes/visual-fidelity-scans-246-249.md`, `works/pudhaiyal/notes/visual-fidelity-scan-250.md`
+- not-started: **43 — scans 252–294**
+- fidelity records: `works/pudhaiyal/notes/visual-fidelity-scans-246-249.md`, `works/pudhaiyal/notes/visual-fidelity-scan-250.md`, `works/pudhaiyal/notes/visual-fidelity-scan-251.md`
 - old-glyph correction record: `works/pudhaiyal/notes/old-glyph-correction-scans-246-248.md`
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - Part-006 state: **`in-progress`**
@@ -101,47 +101,45 @@ Native evidence establishes one continuous sentence:
 
 Do not normalize the repetition or insert a split boundary.
 
-### Verified Part-006 text through scan 250
+### Verified Part-006 text through scan 251
 
-Scans 246–249 were reconciled against the supplied Iteration-23 baseline.
+Scans 246–249 were reconciled against the supplied Iteration-23 baseline. Scans **250–251** were transcribed directly from native source pages at high resolution with **no user baseline**.
 
-Important source findings/retentions:
+Scan 251 / printed 247 continues the Dukkaram–Raman dialogue and ends the scene with:
 
-- scan 246: baseline `தெரியவில்லை` is **confirmed** after high-resolution reinspection;
-- scan 246: baseline `தாளவில்லை` is **confirmed** after high-resolution reinspection;
-- scan 246: source `அந்த இருட்டிலே —`, not baseline `அந்த இருட்டில-`;
-- scan 247: baseline `ராஜா மடம் என்ற ஊருக்கும்` is confirmed;
-- 247→248: `இன்` + `னும்` = `இன்னும்`;
-- scan 248: baseline `புரியவில்லை` is **confirmed**;
-- scan 248: baseline `திரும்பி வரவில்லை` is **confirmed**;
-- 248→249: `அவ` + `தாரம்` = `அவதாரம்`;
-- scan 249 confirms baseline `ஒருவரையொருவர்`, `செய்யவில்லையே`, `முடியவில்லையே`; their printed line wraps are not word boundaries;
-- scan 249 preserves source `புண்யங்கூட` and `யானையுமாக வெல்லாம்`.
+`“காதல் வாழ்க! — காதலர் வாழ்க!!”`
 
-Scan **250 / printed 246** was transcribed directly from the native derivative at high resolution with **no user baseline**. It continues the Dukkaram–Raman dialogue and is `verified`. Source-specific forms retained include:
+followed by the source-printed four-star separator:
 
-- `கறு கண்ணை`;
-- `கிடக்கிறாரு`;
-- `வைத்தியனிடமில்லே`;
-- `உன் கிட்டம்தான்`;
+`* * * *`
+
+Source-specific forms retained on scan 251 include:
+
+- `சொல்லியிருக்கு`;
+- `ஊரு`;
+- `சந்திக்கிறதாம்`;
+- `இருக்கே`;
+- `இன்னைக்கு`;
+- `அனுப்புங்க`;
+- `இல்லாம`;
+- `கஷ்டமாயிருக்கு`;
 - `அப்படின்னு`;
-- `கொடுன்னு`;
-- `பெண்ணு`;
-- `சந்திக்கணும்னு`;
-- `துடிக்குது`.
+- `அடங்கினவுடனே`;
+- `போனு`.
 
-The permanent old-Tamil-typeform pre-correction check was applied. No unresolved glyph remains on scan 250.
+The printed line wrap inside `அடங்கினவுடனே` is typographic only. The permanent old-Tamil-typeform pre-correction check was applied; no unresolved glyph remains on scan 251.
 
 ### Part-006 structure mapped from physical pages
 
 - chapter 27 closes / chapter 28 begins on scan **247 / printed 243**;
+- four-star internal transition at foot of scan **251 / printed 247**;
 - chapter 29 begins scan **254 / printed 250**;
 - chapter 30 begins scan **262 / printed 258**;
 - chapter 31 begins scan **271 / printed 267**;
 - chapter 32 begins scan **278 / printed 274**;
 - chapter 33 begins scan **288 / printed 284** and continues through scan **294 / printed 290**.
 
-These later pages are mapped structurally only; scans 251–294 remain `not-started` until direct textual reconciliation.
+These later pages are mapped structurally only; scans 252–294 remain `not-started` until direct textual reconciliation.
 
 ## Part 005 durable completion record
 
@@ -158,18 +156,18 @@ The seven damaged records remain `needs-review`; do not reopen or silently resol
 
 ## Aggregate durable state
 
-- canonical records: **250**
-- verified: **243**
+- canonical records: **251**
+- verified: **244**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
-- later individual source-verified pages: through scan **250**, except the seven damaged records
+- later individual source-verified pages: through scan **251**, except the seven damaged records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 5 / 49 verified**
+- Part 006: **in progress — 6 / 49 verified**
 - assembled Tamil / English split-level review: through scan **245** only
 - source scans represented by currently received derivatives: through **294**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Continue Part 006 at **scan 251 / printed page 247**, chapter 28. Transcribe directly from native source pixels, preserve physical page boundaries, and apply the permanent old-Tamil-typeform pre-correction check before accepting any disputed glyph. Keep the Part-006 downstream gates closed until scans 246–294 are all canonically dispositioned.
+Continue Part 006 at **scan 252 / printed page 248**, chapter 28, beginning after the source-printed four-star internal transition. Transcribe directly from native source pixels, preserve physical page boundaries, and apply the permanent old-Tamil-typeform pre-correction check before accepting any disputed glyph. Keep the Part-006 downstream gates closed until scans 246–294 are all canonically dispositioned.
