@@ -214,6 +214,26 @@ Particularly difficult words:
 4. contextual guess-ஐ canonical Tamil-ல் silently insert செய்ய வேண்டாம்;
 5. later review resolution-ஐ audit / glossary / review document-ல் record செய்யவும்.
 
+## Mandatory old / historical Tamil glyph check before correction
+
+பழைய தமிழ் அச்சுருக்கள் modern font-களைப் போலத் தெரியாமல் இருக்கலாம். குறிப்பாக faint vowel marks, combining marks, worn ink, bleed-through, uneven inking ஆகியவை ஒரு முழு glyph cluster-ஐ incomplete போல காட்டலாம்.
+
+ஒரு supplied/user baseline character source-ல் “இல்லை” என்று தோன்றுவதற்குப் பதிலாக “இல்ல” / “வில்ல” போன்ற short form போலத் தெரிகிறது என்பதற்காக உடனே correction செய்யக்கூடாது.
+
+**Correction முன் கட்டாயமாக:**
+
+1. apparent final character மட்டும் அல்லாமல் **முழு glyph cluster**-ஐ high-resolution-ல் பெரிதாக்கிப் பார்க்கவும்;
+2. பழைய Tamil typeform / ligature / vowel-sign வடிவங்களை explicit-ஆக consider செய்யவும்;
+3. faint mark இருந்தால் ஒன்றுக்கு மேற்பட்ட useful zoom / contrast-ல் பார்க்கவும்;
+4. தேவையானால் அதே edition-இல் அதே glyph தெளிவாக அச்சிடப்பட்ட வேறு இடத்துடன் compare செய்யவும்;
+5. baseline-ஐ மாற்ற **positive native-pixel evidence** வேண்டும் — grammar, expectation அல்லது ordinary-zoom appearance போதாது;
+6. source pixels genuinely ambiguous என்றால் baseline-ஐ retain செய்து `needs-review` mark செய்யவும்;
+7. ஒரு confirmed glyph finding-ஐ வைத்து global search/replace செய்யக்கூடாது. ஒவ்வொரு occurrence-மும் அதன் native pixels மூலம் தனியாக தீர்மானிக்கப்பட வேண்டும்.
+
+`புதையல்` source-ல் documented example: old/faint final **`லை`** சில இடங்களில் bare final **`ல்`** போலத் தோன்றியது. இதனால் assistant தவறாக `தெரியவில்லை` → `தெரியவில்ல` போன்ற shortening செய்தது; retrospective high-resolution audit அதைப் பின்னர் திருத்தியது. அதே source-ல் genuine `தீண்ட வில்லையே` / `தெரியவில்லையே` போன்ற distinct forms இருப்பதால் mechanical normalization கூட தவறு.
+
+இந்த rule அனைத்து novels/stories source editions-க்கும் பொதுவான **pre-correction visual gate** ஆகும்; குறிப்பிட்ட `லை` glyph-க்கு மட்டும் அல்ல.
+
 ---
 
 # 8. Fiction / historical prose / cinematic prose rules
@@ -328,6 +348,7 @@ Translation தொடங்குவதற்கு முன்:
 - cross-page continuities checked;
 - internal structural units correctly identified;
 - no silent modernization/correction found;
+- difficult / old-type glyph corrections have passed the Section 7 pre-correction visual gate;
 - source PDF still excluded from repository;
 - `audit.md` states result clearly.
 
