@@ -61,7 +61,16 @@ Textually reconciled source:
 - scan 257 / printed 253 ends `வெள்ளியம்`; scan 258 / printed 254 begins `பலம்`, establishing `வெள்ளியம்பலம்` across the physical page boundary;
 - scan 259 / printed 255 closes the remaining user Iteration-24 text; Iteration 25 begins at scan 260 / printed 256.
 
-Source-specific findings in scans 256–259 include `காட்டுகிறியா?`, `நன்றுகப் பார்த்தான்`, `அனாவசியமாக`, `மண்ணுங் கட்டியாவது!`, and confirmed `ஒன்றாய்ப் பிசைந்து`.
+## Corrected scans 256–259 source findings
+
+The first reconciliation of scans 256–259 contained false assistant-origin deviations caused by old/faint typeforms. After the user's challenge, all proposed discrepancies in the batch were reopened. Second high-resolution inspection confirms the supplied baseline forms:
+
+- scan 256: `காட்டுகிறாயா?`, `இடத்தை`, `என்னா`, `தங்கம்னா`, `பொன்னா`, `ஒளிஞ்சுகிட்டு`;
+- scan 257: `நன்றாகப் பார்த்தான்`;
+- scan 258: `அநாவசியமாக`;
+- scan 259: `மண்ணாங் கட்டியாவது!` and `ஒன்றாய்ப் பிசைந்து`.
+
+The earlier assistant forms `காட்டுகிறியா?`, `நன்றுகப் பார்த்தான்`, `அனாவசியமாக`, and `மண்ணுங் கட்டியாவது!` are withdrawn.
 
 Complete Part-006 physical inspection additionally maps later source-printed chapter starts without claiming textual verification of those pages:
 
@@ -74,7 +83,7 @@ Complete Part-006 physical inspection additionally maps later source-printed cha
 
 This edition has demonstrated faint historical typeforms, especially final `லை`, that can resemble bare `ல்` at ordinary zoom. Before overriding a baseline, inspect the complete glyph cluster at high resolution and require positive native-pixel evidence. No global normalization is permitted.
 
-The pre-correction check was applied to scans 256–259; **0 unresolved glyphs** remain in that batch.
+Following the scans-256–259 correction, an apparent disagreement limited to a historical vowel sign, same-word letter shape, or line-wrap spacing now requires a **second independent visual pass** before the baseline can be changed. Where possible, compare the same word/typeform elsewhere in the edition. A printed line wrap alone must not be treated as evidence for word-internal spacing. If a user challenges one reading, reopen the whole batch's assistant-origin discrepancies before forward work resumes.
 
 Retrospective record: [`../notes/old-glyph-retrospective-audit-120-245.md`](../notes/old-glyph-retrospective-audit-120-245.md).
 
@@ -121,4 +130,4 @@ Part-006 records:
 
 ## Exact next action
 
-Reconcile **scan 260 / printed page 256** from user Iteration 25 directly against native source pixels, applying the permanent old-Tamil-typeform pre-correction check.
+After correction synchronization, reconcile **scan 260 / printed page 256** from user Iteration 25 directly against native source pixels. Apply the strengthened two-pass old-Tamil-typeform rule before accepting any baseline override.
