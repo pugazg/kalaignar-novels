@@ -64,13 +64,20 @@ No split PDF is committed to GitHub.
 - scan 261: `வெள்ளியம்பலம் கேட்டு விட்டு, ...`; source-specific `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, `பேஷாக`; endpoint `விடிந்த`;
 - scan 262: `விடிந்த` + `தும்` = `விடிந்ததும்`; source `குறுக்கிட்டது`, `என்று கூறினான்`, `ஆம்;`, `நடந்து, நடந்து`; chapter 30 begins; endpoint `துக்காராமுக்கோ,`;
 - scan 263: source `நடந்தவைகள்`, `புதையலைக் கண்டுபிடிப்பதற்காகவே`; full `மறந்து விடவில்லை` confirmed; endpoint `அவர்!`;
-- scan 264: source **`என்ன — தெரியாது மாதிரி விழிக்கிறே?`**; source punctuation `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, `வந்தேனே......`; second old-type pass confirms complete `புரியவில்லை`; endpoint `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
+- scan 264: user-triggered enlarged reinspection confirms source **`என்னா`**; earlier assistant `என்ன` is withdrawn. Canonical punctuation is `என்னா — தெரியாது மாதிரி விழிக்கிறே?`; source also confirms `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, `வந்தேனே......`, complete `புரியவில்லை`; endpoint `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
 
 ## Old-Tamil-glyph integrity note
 
-This edition has demonstrated faint historical typeforms, especially final `லை`, that can resemble bare `ல்` at ordinary zoom. Before overriding a baseline, inspect the complete glyph cluster at high resolution and require positive native-pixel evidence. No global normalization is permitted.
+This edition has demonstrated multiple faint historical vowel-sign risks:
 
-Following the scans-256–259 correction, an apparent disagreement limited to a historical vowel sign, same-word letter shape, or line-wrap spacing requires a **second independent visual pass** before the baseline can be changed. A printed line wrap alone must not be treated as evidence for word-internal spacing. If a user challenges one reading, reopen the whole batch's assistant-origin discrepancies before forward work resumes.
+- final `லை` can resemble bare `ல்` at ordinary zoom;
+- scan 264 demonstrates faint `ா`, where `என்னா` was initially misread as `என்ன`.
+
+The pre-correction safeguard therefore covers **every Tamil vowel sign / combining mark**. Before overriding a baseline, inspect the complete glyph cluster at high resolution and require positive native-pixel evidence. No global normalization is permitted.
+
+An apparent disagreement limited to a historical vowel sign, same-word letter shape, or line-wrap spacing requires a **second independent visual pass** before the baseline can be changed. A printed line wrap alone must not be treated as evidence for word-internal spacing. If a user challenges one reading, reopen the whole batch's assistant-origin discrepancies before forward work resumes.
+
+Scan-264 correction record: [`../notes/old-glyph-correction-scan-264.md`](../notes/old-glyph-correction-scan-264.md).
 
 ## Canonical Tamil state
 
@@ -97,4 +104,4 @@ Part-006 records currently extend through `../pages/0264-pudhaiyal.md`, with lat
 
 ## Exact next action
 
-Reconcile **scan 265 / printed page 261** from user Iteration 25 directly against native source pixels, continuing chapter 30. Apply the strengthened two-pass old-Tamil-typeform and line-wrap rule before accepting any baseline override.
+Reconcile **scan 265 / printed page 261** from user Iteration 25 directly against native source pixels, continuing chapter 30. Apply the strengthened two-pass old-Tamil-typeform and line-wrap rule to all vowel signs before accepting any baseline override.
