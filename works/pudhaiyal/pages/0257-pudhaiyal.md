@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 24 continuation reconciled directly against high-resolution native split part 006 page 12 image; old-Tamil-typeform pre-correction check applied"
+transcription_method: "user-supplied Iteration 24 continuation reconciled against high-resolution native split part 006 page 12 image; second old-Tamil-typeform reinspection performed after user challenge"
 ---
 
 இந்த வார்த்தைகளைக் கேட்டதுதான் தாமதம்; என்ன வந்தாலும் சரியென்று துக்காராம் ஓட ஆரம்பித்தான்.
@@ -18,14 +18,14 @@ transcription_method: "user-supplied Iteration 24 continuation reconciled direct
 
 அவன் கற்பனை செய்திருந்த பூதமோ — சால் போன்ற வயிறும், குகை போன்ற வாயும், மரம் போன்ற கைகளுமுடைய ஒரு மாமிச பர்வதமாகும்.
 
-ஆனால், இப்போது அவன் எதிரே பார்ப்பதோ நினைத்ததற்கு மாறான உருவம்! நன்றுகப் பார்த்தான். இருட்டிலே தோற்றமளிக்கும் அந்த பயங்கர சொரூபம் பூதமல்ல; வெள்ளியம்பலம்தான் என்ற தீர்மானத்திற்கு வந்துவிட்டான் என்பதை அவனது ஆழமான பெருமூச்சு எடுத்துக் காட்டியது. பூதம் என்ற சொல் கேட்டு அடைந்த திகிலைவிட அதிகமான திகில் அடைந்தான், வெள்ளியம்
+ஆனால், இப்போது அவன் எதிரே பார்ப்பதோ நினைத்ததற்கு மாறான உருவம்! நன்றாகப் பார்த்தான். இருட்டிலே தோற்றமளிக்கும் அந்த பயங்கர சொரூபம் பூதமல்ல; வெள்ளியம்பலம்தான் என்ற தீர்மானத்திற்கு வந்துவிட்டான் என்பதை அவனது ஆழமான பெருமூச்சு எடுத்துக் காட்டியது. பூதம் என்ற சொல் கேட்டு அடைந்த திகிலைவிட அதிகமான திகில் அடைந்தான், வெள்ளியம்
 
 ## Source / boundary notes
 
 - Chapter 29 continues.
-- Source-specific `நன்றுகப் பார்த்தான்` is retained; baseline `நன்றாகப் பார்த்தான்` is not substituted.
+- **Correction after second high-resolution old-type reinspection:** the user's baseline `நன்றாகப் பார்த்தான்` is confirmed by the source. The earlier assistant reading `நன்றுகப் பார்த்தான்` was a false old-typeform reading and is withdrawn.
 - Source reads `வெள்ளியம்பலம்தான்` as one continuous word.
 - Physical page ends mid-word at `வெள்ளியம்`; scan 258 begins `பலம்`, yielding `வெள்ளியம்பலம்` across the page boundary.
-- Old-Tamil-typeform inspection found no unresolved glyph on this page.
+- No unresolved glyph remains on this page after reinspection.
 
 <!-- மூல ஸ்கேன் பக்கம்: 257; அச்சுப் பக்கம்: 253 -->
