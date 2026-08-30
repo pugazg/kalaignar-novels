@@ -25,7 +25,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 003 | `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf` | 99–147 | 97–145 | **49/49 verified; part-complete** |
 | 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **49/49 verified; part-complete** |
 | 005 | `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf` | 197–245 | 195–241 | **49/49 represented; 42 verified + 7 source-damage needs-review; part-complete with qualification** |
-| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 21 verified (246–266); 28 not-started; in progress** |
+| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 23 verified (246–268); 26 not-started; in progress** |
 
 Part-006 derivative byte record:
 
@@ -48,8 +48,7 @@ No split PDF is committed to GitHub.
 
 ## Current structural checkpoints
 
-- scan 245 / printed 241 ends `இருக்கவே`;
-- scan 246 begins `இருக்கிறாள் பரிமளா, ...`, directly continuing the sentence;
+- scan 245 / printed 241 ends `இருக்கவே` and scan 246 begins the same sentence;
 - chapter 28 begins scan 247;
 - four-star internal transition scan 251;
 - chapter 29 begins scan 254 and closes scan 262;
@@ -60,13 +59,15 @@ No split PDF is committed to GitHub.
 
 ## Current Iteration-25 native findings
 
-- scan 260: `சொல்லு! சொல்லு!`, continuous `சாமியாருக்குத்தான்`, `பொய் சொல்லுகிறாயா?`; endpoint `வெள்ளியம்பலம்`;
-- scan 261: `வெள்ளியம்பலம் கேட்டு விட்டு, ...`; source-specific `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, `பேஷாக`; endpoint `விடிந்த`;
-- scan 262: `விடிந்த` + `தும்` = `விடிந்ததும்`; chapter 30 begins; endpoint `துக்காராமுக்கோ,`;
-- scan 263: source `நடந்தவைகள்`, `புதையலைக் கண்டுபிடிப்பதற்காகவே`; full `மறந்து விடவில்லை` confirmed; endpoint `அவர்!`;
-- scan 264: enlarged reinspection confirms source **`என்னா`**; earlier assistant `என்ன` is withdrawn; endpoint `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`;
-- scan 265: verified; preserves `வருஷக் கணக்கில்`, `உங்க`, `தன்னை சந்தித்த போது`, `கூத்தாடியது`, `உபயோகப்படுத்தி`, `கண் ஜாடை`; confirms `அவளைத் தன் காதலியாகவே`; endpoint `என்றெல்லாம்!`;
-- scan 266: user baseline wording is substantively source-confirmed; source preserves `வெள்ளியம்பலத்திற்கு`, `கொன்று விடக்கூட`, `நம்ப வேலையை முடிச்சுட்டா`, `முரடனும், முட்டாளும்`, `சாமியாரிடமிருக்கிறது......`, and `அட இருங்கய்யா!`; second old-type pass confirms complete `புரியவில்லை`, both `இஷ்டமில்லை`, `பிரமாதமில்லை`, `ஒன்றுமில்லை`, and final-`ை` `புதையலை`; endpoint **`அதில், என்`**.
+- scan 260: verified; endpoint `வெள்ளியம்பலம்`;
+- scan 261: closes `வெள்ளியம்பலம் கேட்டு விட்டு, ...`; endpoint `விடிந்த`;
+- scan 262: `விடிந்த` + `தும்` = `விடிந்ததும்`; chapter 30 begins;
+- scan 263: source `நடந்தவைகள்`, `புதையலைக் கண்டுபிடிப்பதற்காகவே`, full `மறந்து விடவில்லை`;
+- scan 264: enlarged reinspection confirms source `என்னா`; earlier assistant `என்ன` withdrawn;
+- scan 265: source-specific colloquial / old-type forms preserved;
+- scan 266: baseline substantively confirmed; endpoint `அதில், என்`;
+- scan 267: closes that sentence; source `புதைக்கப்பட்டது`, `துக்காராம் சொன்னது`, `கனவு கண்டார்களோ`; preserves `பாதிப் புதையலை`, `கேட்டதால்தானே`, `பேசிக் கொள்ள வில்லையே`;
+- scan 268: second enlarged inspection establishes **`யாருடனே`**, not baseline `யாருடனோ`; source preserves `பரிமளம்`, `உம்......புறப்படு!`, `இப்போதே சொல்கிறேன்!......அதாவது......ஒரு சாமியாரிடம்......`, and `சரி—சரி!`; endpoint `உயிரைப்பற்றிய ஆசை படையெடுத்தது அவன் உள்ளத்தில்!`.
 
 ## Old-Tamil-glyph integrity note
 
@@ -75,23 +76,23 @@ This edition has demonstrated multiple faint historical vowel-sign risks:
 - final `லை` can resemble bare `ல்` at ordinary zoom;
 - scan 264 demonstrates faint `ா`, where `என்னா` was initially misread as `என்ன`.
 
-The pre-correction safeguard therefore covers **every Tamil vowel sign / combining mark**. Before overriding a baseline, inspect the complete glyph cluster at high resolution and require positive native-pixel evidence. No global normalization is permitted.
+The pre-correction safeguard covers **every Tamil vowel sign / combining mark**. An apparent disagreement limited to a historical vowel sign, same-word letter shape, or line-wrap spacing requires a **second independent visual pass** before the baseline can be changed. Same-edition comparison is used when possible. A printed line wrap alone is never evidence for word-internal spacing.
 
-An apparent disagreement limited to a historical vowel sign, same-word letter shape, or line-wrap spacing requires a **second independent visual pass** before the baseline can be changed. A printed line wrap alone must not be treated as evidence for word-internal spacing. If a user challenges one reading, reopen the whole batch's assistant-origin discrepancies before forward work resumes.
+Scan 268 additionally demonstrates why `ே` / `ோ` must be compared as complete glyph clusters: `யாருடனே` was accepted only after the second pass showed the absence of the additional `ா` component required for `னோ`.
 
 ## Canonical Tamil state
 
-- page records created: **266**
-- verified: **259**
+- page records created: **268**
+- verified: **261**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later individual scans are verified through scan **266**, except the seven damaged physical records
+- later individual scans are verified through scan **268**, except the seven damaged physical records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 21 / 49 canonical pages verified**
+- Part 006: **in progress — 23 / 49 canonical pages verified**
 - assembled Tamil / English / bilingual review: **completed only through Part 005 / scan 245**
 
-Part-006 records currently extend through `../pages/0266-pudhaiyal.md`, with latest fidelity record [`../notes/visual-fidelity-scan-266.md`](../notes/visual-fidelity-scan-266.md).
+Part-006 records currently extend through `../pages/0268-pudhaiyal.md`, with latest fidelity record [`../notes/visual-fidelity-scan-268.md`](../notes/visual-fidelity-scan-268.md).
 
 ## Completeness still open
 
@@ -99,9 +100,9 @@ Part-006 records currently extend through `../pages/0266-pudhaiyal.md`, with lat
 - exact full scan-object count: **pending**
 - original full-source SHA-256: **pending**
 - true ending / back matter: **not yet inspected**
-- Part-006 text beyond scan 266: **not yet reconciled**
+- Part-006 text beyond scan 268: **not yet reconciled**
 - source range beyond scan 294: **not yet supplied/reconciled**
 
 ## Exact next action
 
-Reconcile **scan 267 / printed page 263** directly against native source pixels, first continuing scan 266's mid-sentence endpoint `அதில், என்`. Apply the strengthened two-pass old-Tamil-typeform and line-wrap rule to all vowel signs before accepting any baseline override.
+Reconcile **scan 269 / printed page 265** directly against native source pixels, continuing chapter 30 and applying the strengthened two-pass old-Tamil-typeform / line-wrap rule before accepting any baseline override.
