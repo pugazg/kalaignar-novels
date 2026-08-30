@@ -38,13 +38,13 @@ The canonical page records were corrected and assembled Tamil chapters **13 and 
 Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
 - physical pages mapped: **49 / 49 — scans 246–294 / printed 242–290**
-- canonical records created: **15 / 49 — scans 246–260**
-- verified: **15**
+- canonical records created: **16 / 49 — scans 246–261**
+- verified: **16**
 - needs-review: **0**
 - partial: **0**
-- not-started: **34 — scans 261–294**
+- not-started: **33 — scans 262–294**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- native-fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md), [`notes/visual-fidelity-scans-252-255.md`](notes/visual-fidelity-scans-252-255.md), [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md), [`notes/visual-fidelity-scan-260.md`](notes/visual-fidelity-scan-260.md)
+- native-fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md), [`notes/visual-fidelity-scans-252-255.md`](notes/visual-fidelity-scans-252-255.md), [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md), [`notes/visual-fidelity-scan-260.md`](notes/visual-fidelity-scan-260.md), [`notes/visual-fidelity-scan-261.md`](notes/visual-fidelity-scan-261.md)
 - Part-006 Tamil audit: **NOT ELIGIBLE**
 - assembled Tamil / English / bilingual review: **NOT ELIGIBLE**
 - state: **`in-progress`**
@@ -66,7 +66,8 @@ This derivative boundary creates no narrative break.
 - 248→249: `அவ` + `தாரம்` = `அவதாரம்`;
 - scan 251 ends a scene with the source-printed four-star separator;
 - 257→258: `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`;
-- scan 260 ends at `வெள்ளியம்பலம்`; scan 261 must continue that sentence.
+- 260→261: `வெள்ளியம்பலம்` + `கேட்டு விட்டு, ...` — continuous sentence;
+- scan 261 ends at `விடிந்த`; scan 262 continues the sentence before chapter 30 begins later on that page.
 
 ### Corrected Part-006 reconciliation — scans 256–259
 
@@ -93,6 +94,10 @@ The strengthened two-pass native comparison verifies scan 260. Positive source d
 
 No unresolved old-type glyph remains on scan 260.
 
+### Scan 261 / printed 257
+
+Direct high-resolution native inspection verifies scan 261. It closes the prior page as `வெள்ளியம்பலம் கேட்டு விட்டு, ...`. Source-specific **`தவழுகத்`**, **`ஆள்பாடு ஆயிடும்`**, **`எங்கேயிருக்கு`**, and **`பேஷாக`** are preserved without contextual normalization. The page ends at `விடிந்த`; scan 262 must continue the sentence before the source-printed chapter 30 transition. No unresolved glyph remains after the strengthened second pass.
+
 ### Structure mapped in Part 006
 
 - chapter 27 closes / chapter 28 begins on scan 247;
@@ -103,7 +108,7 @@ No unresolved old-type glyph remains on scan 260.
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through the derivative endpoint.
 
-Only scans 246–260 are textually verified at this checkpoint; structural inspection does not upgrade scans 261–294.
+Only scans 246–261 are textually verified at this checkpoint; structural inspection does not upgrade scans 262–294.
 
 ## Part 005 — completed split checkpoint
 
@@ -118,16 +123,16 @@ Only scans 246–260 are textually verified at this checkpoint; structural inspe
 
 ## Aggregate canonical state
 
-- records created: **260**
-- verified: **253**
+- records created: **261**
+- verified: **254**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later individually verified coverage: through scan **260**, except the seven explicitly damaged scans
+- later individually verified coverage: through scan **261**, except the seven explicitly damaged scans
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 15 / 49 verified**
+- Part 006: **in progress — 16 / 49 verified**
 - continuous split-level assembled Tamil / English review: through scan **245** only
-- full-source physical coverage from received derivatives: mapped through scan **294**, but canonical text only through scan 260
+- full-source physical coverage from received derivatives: mapped through scan **294**, but canonical text only through scan 261
 
 ## Whole-work gate
 
@@ -135,4 +140,4 @@ Only scans 246–260 are textually verified at this checkpoint; structural inspe
 
 ## Exact next activity
 
-Reconcile **scan 261 / printed page 257** from the supplied Iteration-25 baseline against native source pixels. First establish the continuation from scan 260's endpoint `வெள்ளியம்பலம்`. Apply the strengthened second-pass old-Tamil-typeform rule to every proposed baseline override. Do not run Part-006 Tamil audit or downstream gates yet.
+Reconcile **scan 262 / printed page 258** directly against native source pixels. First close scan 261's endpoint `விடிந்த`, then capture the source-printed chapter 30 transition later on the page. Apply the strengthened second-pass old-Tamil-typeform rule to every proposed baseline override. Do not run Part-006 Tamil audit or downstream gates yet.
