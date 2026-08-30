@@ -47,52 +47,53 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - derivative size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - derivative map: `works/pudhaiyal/indexes/part-006-page-map.md`
-- canonical records: **25 / 49 — scans 246–270**
-- verified: **25**
+- canonical records: **26 / 49 — scans 246–271**
+- verified: **26**
 - needs-review: **0**
-- not-started: **24 — scans 271–294**
-- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-270.md`
+- not-started: **23 — scans 272–294**
+- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-271.md`
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - Part-006 state: **`in-progress`**
 
 ### Current verified source sequence
 
-Scans **260–269 / printed 256–265** retain their prior verified findings.
+Scan **270 / printed 266** remains verified and ends `‘தூக்குங்கள்!’ என்று கத்தினாள்.`
 
-Scan **270 / printed 266** opens Iteration 26 and is now source-verified:
+Scan **271 / printed 267** is now source-verified:
 
-- 269→270 is one sentence: `முட்களை சமாளித்துக் கொண்டும், பரிமளா, தீராத வேதனையைச் சுமந்தபடி அவர்களைத் தொடர்ந்தபடி யிருந்தாள்.`;
-- user baseline wording is substantively source-supported;
-- source punctuation includes `எல்லாம் பொய் — பொழுது விடியும் வரையில்...`;
-- source reads `புதரோரத்திலே`, not baseline `புதரோரத்தில்`;
-- source-specific `தொடர்ந்தபடி யிருந்தாள்`, `மண்ணாங்கட்டியுமில்லை`, `மனதுக்குள்ளே`, `முணகல் சப்தம்`, `கீழ் ஸ்தாயியில்`, `புதரண்டை`, `பெருக்கெடுத்த படியிருந்தது` are preserved;
-- second old-type pass confirms complete `சாமியாருமில்லை`, `மண்ணாங்கட்டியுமில்லை`, `ரகசியமுமில்லை`, `கையில்லை`, `முடியவில்லை`, and `பரிமளாவினால்`;
-- scan 270 ends `‘தூக்குங்கள்!’ என்று கத்தினாள்.`.
+- chapter 30 continues at the top with `வெள்ளியம்பலமும், துக்காராமும் சேர்ந்து, அந்த மனிதனை மெதுவாகப் புரட்டினார்கள்.`;
+- a source-printed horizontal rule follows; chapter **31** begins on the same physical page;
+- user Iteration-26 wording is substantively source-supported;
+- source punctuation uses `காட்டுவானே ரத்தம் — அந்த ரத்தத்தைப் பார்த்தே...`;
+- printed `கையிலே` / `யிருந்து` is one word across the physical line wrap: `கையிலேயிருந்து`;
+- second old-type pass confirms full `துரையுமல்ல`, `கிழவருமல்ல`, `போயிருந்தது`, `கொண்டேயிருந்தது`, `தாங்கவில்லை`, both `தெரியவில்லை`, and `வெள்ளியம்பலத்திற்கும்`;
+- source-specific `அனாதரவான`, `செயல் படுத்தவும்`, `தாளேன்`, and `தை தகவெனக்` are retained;
+- scan 271 ends `தை தகவெனக் குதித்துக் கத்தினான்.`.
 
 ### Part-006 structure mapped from physical pages
 
 - chapter 27 closes / chapter 28 begins scan **247**;
 - four-star internal transition scan **251**;
 - chapter 29 begins scan **254** and closes scan **262**;
-- chapter 30 begins scan **262**;
+- chapter 30 begins scan **262** and closes scan **271**;
 - chapter 31 begins scan **271**;
 - chapter 32 begins scan **278**;
 - chapter 33 begins scan **288** and continues through scan **294**.
 
 ## Aggregate durable state
 
-- canonical records: **270**
-- verified: **263**
+- canonical records: **271**
+- verified: **264**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
-- later individual source-verified pages: through scan **270**, except the seven damaged Part-005 records
+- later individual source-verified pages: through scan **271**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 25 / 49 verified**
+- Part 006: **in progress — 26 / 49 verified**
 - assembled Tamil / English split-level review: through scan **245** only
 - source scans represented by currently received derivatives: through **294**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Continue Part 006 at **scan 271 / printed page 267**. Complete chapter 30 and capture the source-printed chapter-31 heading/transition on that physical page. Apply the strengthened two-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions before accepting any disputed glyph or spacing.
+Continue Part 006 at **scan 272 / printed page 268**, chapter 31. Apply the strengthened two-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions before accepting any disputed glyph or spacing.
