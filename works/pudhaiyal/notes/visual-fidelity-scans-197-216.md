@@ -31,7 +31,15 @@ No source PDF or split PDF is committed.
 - scan 210: `சொந்தப் புருஷனை என்னையே`;
 - scan 214: Mayandi explicitly replies `இல்ல`; the baseline's empty quotation is rejected;
 - scan 215: chapter **24** begins, but repair/tape obstruction prevents full verification;
-- scan 216: printed page 214 likewise remains obstructed; a later duplicate physical scan must be assessed independently.
+- scan 216: printed page 214 likewise remains obstructed.
+
+## Duplicate-witness check
+
+The later repeated physical witness of printed page **214** was visually compared with scan 216. It reproduces the same broad repair/tape obstruction and does **not** expose enough additional source letters to certify the hidden strings. It therefore does not upgrade scan 216 from `needs-review`.
+
+Adjacent repeated printed-page material is also treated as separate physical provenance and will receive its own scan record when reached; no duplicate is silently collapsed.
+
+Scan 215 / printed 213 has no cleaner witness established in the current derivative, so it also remains `needs-review`.
 
 ## Physical joins checked
 
@@ -47,3 +55,5 @@ No source PDF or split PDF is committed.
 ## Gate
 
 Part 005 cannot receive a part-level Tamil `PASSED` verdict while scans 215–216 remain `needs-review` and scans 217–245 remain unprocessed.
+
+Exact forward transcription point: **scan 217 / printed page 215**.
