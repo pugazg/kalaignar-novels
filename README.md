@@ -8,9 +8,9 @@
 
 மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது. Ambiguous / damaged source reading என்றால் baseline-ஐ override செய்யாமல் `needs-review` ஆக வைத்திருக்க வேண்டும். Source PDF / split PDF கோப்புகள் repository-யில் commit செய்யப்படாது.
 
-Old/historical Tamil glyphs காரணமாக ஒரு character அல்லது vowel mark source-ல் இல்லாதது போலத் தோன்றினால், correction செய்வதற்கு முன் முழு glyph cluster-ஐ high-resolution-ல் பார்க்க வேண்டும். Faint marks / old typeforms காரணமாக `லை` bare `ல்` போலத் தோன்றலாம். Positive native-pixel evidence இல்லாமல் baseline மாற்றக்கூடாது; global normalization செய்யக்கூடாது.
+Old/historical Tamil glyphs காரணமாக ஒரு character அல்லது vowel mark source-ல் இல்லாதது போலத் தோன்றினால், correction செய்வதற்கு முன் முழு glyph cluster-ஐ high-resolution-ல் பார்க்க வேண்டும். இந்த source-ல் faint `லை` bare `ல்` போலவும், scan 264-ல் faint `ா` காரணமாக `என்னா` என்பது `என்ன` போலவும் தவறாகத் தோன்றியிருக்கிறது. Positive native-pixel evidence இல்லாமல் baseline மாற்றக்கூடாது; global normalization செய்யக்கூடாது.
 
-**Scans 256–259 strengthened rule:** old/faint vowel signs, near-identical same-word glyphs, or apparent spacing created by printed line wrapping require a second independent high-resolution inspection before a baseline difference is accepted. A line break alone is never evidence for word-internal spacing. If one reading in a batch is challenged, reopen every assistant-origin discrepancy in that batch.
+**Strengthened rule:** old/faint vowel signs of **any kind**, near-identical same-word glyphs, or apparent spacing created by printed line wrapping require a second independent high-resolution inspection before a baseline difference is accepted. A line break alone is never evidence for word-internal spacing. If one reading in a batch is challenged, reopen every assistant-origin discrepancy in that batch.
 
 ## Project continuation documents
 
@@ -54,7 +54,7 @@ Current canonical state:
 
 Part 006 source structure is mapped through scan 294: chapter 28 begins at 247, a four-star internal transition occurs at scan 251, chapter 29 begins at 254 and closes at 262, chapter 30 begins at 262, chapter 31 at 271, chapter 32 at 278 and chapter 33 at 288.
 
-Scans **260–264 / printed 256–260** are now verified from Iteration 25. On scan 264 the source reads **`என்ன — தெரியாது மாதிரி விழிக்கிறே?`**, not baseline `என்னா - ...`; source punctuation also establishes `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, and `வந்தேனே......`. The second old-typeform pass confirms complete `புரியவில்லை`. Scan 264 ends `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
+Scans **260–264 / printed 256–260** are verified from Iteration 25. On scan 264, user-triggered enlarged reinspection confirms source **`என்னா`**; the earlier assistant `என்ன` is withdrawn. Canonical punctuation is `என்னா — தெரியாது மாதிரி விழிக்கிறே?`. The page also confirms `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, `வந்தேனே......`, and complete `புரியவில்லை`, and ends `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
 
 Exact next action: reconcile **scan 265 / printed page 261**, continuing chapter 30. Do not start the Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are canonically reconciled.
 
