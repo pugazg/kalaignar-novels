@@ -45,10 +45,10 @@ Assembled Tamil and English are part-reviewed continuously through scan 196.
 Source: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
 
 - split pages: **49**
-- records created: **197–228 — 32**
-- verified: **25**
+- records created: **197–238 — 42**
+- verified: **35**
 - needs-review: **7 — scans 215–219, 223–224**
-- remaining: **229–245 — 17 not-started**
+- remaining: **239–245 — 7 not-started**
 - Part-005 Tamil audit: not yet eligible
 - Part-005 assembled Tamil / English: not started
 
@@ -57,56 +57,59 @@ Records:
 - `works/pudhaiyal/indexes/part-005-page-map.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-197-216.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-217-228.md`
+- `works/pudhaiyal/notes/visual-fidelity-scans-229-238.md`
 
 ### Structure established
 
 - chapter 22 closes on scan 205;
-- chapter 23 begins on scan 206 and closes on scan 214;
-- chapter 24 begins on scan 215 and closes on scan 225;
-- chapter 25 begins on scan 226 and remains open after scan 228.
+- chapter 23 begins 206 / closes 214;
+- chapter 24 begins 215 / closes 225;
+- chapter 25 begins 226 / closes 235;
+- chapter **26** begins on scan 235 and continues beyond scan 238.
 
-### Damaged / duplicated source pages
+### Damaged-page constraint
 
-Physical source sequence around printed pages 214–215:
+Scans **215–219** are crossed by repair/tape obstruction. The derivative repeats printed pages 214–215, but the duplicate witnesses do not reveal enough additional letters to close the obscured readings.
 
-- scan 216 → printed 214
-- scan 217 → printed 215
-- scan 218 → printed 214 duplicate
-- scan 219 → printed 215 duplicate
+Scans **223–224 / printed pages 219–220** have substantial physical tear/loss. User baseline text is retained where necessary, but these pages remain `needs-review`.
 
-The duplicated witnesses repeat essentially the same repair/tape obstruction and do not source-resolve the hidden characters. All four later damaged scans remain explicit provenance records.
+Do not close any of these seven uncertainties by context or grammar.
 
-Additionally:
+### Iteration 21 source results
 
-- scan 215 / printed 213 — repair/tape obstruction — `needs-review`;
-- scan 223 / printed 219 — large right-side physical loss — `needs-review`;
-- scan 224 / printed 220 — large left-side physical loss — `needs-review`.
+Scans **229–238 / printed pages 225–234**: **10 / 10 verified**.
 
-Do not repair those readings from grammar or context.
+Source-established forms include:
 
-### Iteration-20 source-confirmed forms
+- `வழியிலே`, `தேவையில்ல`, `ஒன்றுமில்ல`, `எதுவுமில்ல`;
+- `பிரியமும் இல்ல`;
+- `பொன்மலைகள் வெளியே எடுக்க`;
+- `கவலையில்ல`, `கொல்லர் தான்`, `வேண்டியதில்ல`;
+- source-odd `வீணுக` and `நன்றுக`;
+- `முன்னேறி`;
+- source-odd `அவளது கூச்சலே அவன் காதில் வாங்கவேயில்ல`.
 
-- scan 220: `அதுதான் இல்ல!`, `எனக்குக் கவலையில்ல!`
-- scan 221: `அப்பா இறக்கவில்ல`, `பூச்சிடுகிறார்`
-- scan 225: `கையிலே இல்ல`, `கையில்ல`, `கேட்கவில்ல`, `முடியவில்ல`
-- scan 227: `மருங்கப்பள்ளம் கிராமம் தான்`
-- scan 228: `புரியவில்ல`; treasure clue retained as a separate multi-line source unit
+Important physical joins:
+
+- scan 228 `‘கள்வர் புகும்` + scan 229 `வழியிலே’`;
+- scan 230 `அவன் கண்` + scan 231 `கள்` = `அவன் கண்கள்`;
+- scan 235 `அமைந்` + scan 236 `திருந்தன.` = `அமைந்திருந்தன.`;
+- scan 237 `அந்தப் பிடியி` + scan 238 `லிருந்து` = `அந்தப் பிடியிலிருந்து`.
 
 ## Aggregate durable state
 
-- canonical records: **228**
-- verified: **221**
+- canonical records: **238**
+- verified: **231**
 - needs-review: **7**
 - partial: **0**
-- clean verified range remains continuous through scan **214 / printed 212**
+- clean contiguous fully verified range: through scan **214 / printed page 212**
+- later individual source-verified pages: through scan **238**, except the seven damaged records
 - Parts 001–004: part-complete
 - Part 005: in progress
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Resume canonical transcription from **scan 229 / printed page 225 / Part-005 split page 33**.
+Resume canonical transcription from **scan 239 / printed page 235 / Part-005 split page 43**, using the next user-supplied baseline and native source pixels.
 
-Scan 228 physically ends at `‘கள்வர் புகும்`; scan 229 visibly continues `வழியிலே’`. Establish that continuation from the native scan before proceeding through the next baseline batch.
-
-Do not start Part-005 translation until all 49 physical scans have canonical records and the Part-005 Tamil audit is eligible.
+Keep scans 215–219 and 223–224 `needs-review` unless genuinely stronger source evidence becomes available. Do not start Part-005 translation before all 49 scans are processed and the Part-005 Tamil gate is eligible.
