@@ -54,11 +54,11 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - physical pages / mapped source scans: **49 / 49 — scans 246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **16 / 49 — scans 246–261**
-- verified: **16**
+- canonical records: **17 / 49 — scans 246–262**
+- verified: **17**
 - needs-review: **0**
-- not-started: **33 — scans 262–294**
-- native-fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md), [`notes/visual-fidelity-scans-252-255.md`](notes/visual-fidelity-scans-252-255.md), [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md), [`notes/visual-fidelity-scan-260.md`](notes/visual-fidelity-scan-260.md), [`notes/visual-fidelity-scan-261.md`](notes/visual-fidelity-scan-261.md)
+- not-started: **32 — scans 263–294**
+- latest native-fidelity record: [`notes/visual-fidelity-scan-262.md`](notes/visual-fidelity-scan-262.md)
 - Tamil audit: **not eligible**
 - assembled Tamil: **not eligible**
 - controlled English: **not eligible**
@@ -71,34 +71,14 @@ Mandatory opening continuity is closed from native evidence:
 - scan 246 begins `இருக்கிறாள் பரிமளா, ...`;
 - joined reading: `இருக்கவே இருக்கிறாள் பரிமளா, ...`.
 
-### Corrected scans 256–259
+### Current Part-006 checkpoint
 
-The first visual pass introduced unsupported differences. A second high-resolution reinspection confirms the user's baseline forms:
+- scans 256–259 were corrected after a second high-resolution reinspection; earlier unsupported assistant differences remain withdrawn;
+- scan 260 verifies Iteration-25 opening and ends at `வெள்ளியம்பலம்`;
+- scan 261 closes `வெள்ளியம்பலம் கேட்டு விட்டு, ...`, preserves `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, `பேஷாக`, and ends `விடிந்த`;
+- scan 262 begins `தும்`, yielding `விடிந்ததும்`; source reads `குறுக்கிட்டது`, `என்று கூறினான்`, `ஆம்;`, `நடந்து, நடந்து`; old-glyph second pass confirms full `தெரியவில்லை`; source-specific `தன்னந் தனியாக` and `கிழவருந்தான்` are retained; chapter **29 closes / chapter 30 begins**; page ends `துக்காராமுக்கோ,`.
 
-- scan 256 — `காட்டுகிறாயா?`, plus `இடத்தை`, `என்னா`, `தங்கம்னா`, `பொன்னா`, `ஒளிஞ்சுகிட்டு`;
-- scan 257 — `நன்றாகப் பார்த்தான்`;
-- scan 258 — `அநாவசியமாக`;
-- scan 259 — `மண்ணாங் கட்டியாவது!`;
-- 257→258 — `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`;
-- scan 259 — `ஒன்றாய்ப் பிசைந்து` remains source-confirmed.
-
-The earlier assistant readings `காட்டுகிறியா?`, `நன்றுகப் பார்த்தான்`, `அனாவசியமாக`, and `மண்ணுங் கட்டியாவது!` are withdrawn.
-
-### Scan 260 / printed 256
-
-Iteration 25 begins canonically at scan 260. The strengthened two-pass review verifies the page. Positive source differences from the baseline are limited to:
-
-- typo `சொலலு` → source `சொல்லு`, giving `சொல்லு! சொல்லு!`;
-- source continuous `சாமியாருக்குத்தான்`;
-- source `பொய் சொல்லுகிறாயா?`.
-
-The physical page ends at `வெள்ளியம்பலம்`.
-
-### Scan 261 / printed 257
-
-Native scan 261 closes the prior page as `வெள்ளியம்பலம் கேட்டு விட்டு, ...`. Direct high-resolution inspection preserves source-specific `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, and `பேஷாக`. The page ends at `விடிந்த`, so scan 262 must close that sentence before the source-printed chapter 30 transition later on the page.
-
-Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254; 30 begins 262; 31 begins 271; 32 begins 278; 33 begins 288.
+Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262; 31 begins 271; 32 begins 278; 33 begins 288.
 
 Do not run the Part-006 Tamil audit or any downstream stage until all scans 246–294 have canonical records and native-fidelity dispositions.
 
@@ -125,4 +105,4 @@ Source-condition exceptions remain permanently explicit unless stronger source e
 
 ## Exact next activity
 
-Reconcile **scan 262 / printed page 258** directly against the native Part-006 source. First close scan 261's endpoint `விடிந்த`, then capture the source-printed chapter 30 transition later on the page. Apply the strengthened two-pass old-typeform rule before accepting any disputed glyph or word spacing.
+Reconcile **scan 263 / printed page 259** from user Iteration 25 directly against the native Part-006 source, continuing chapter 30 from `துக்காராமுக்கோ,`. Apply the strengthened two-pass old-typeform rule before accepting any disputed glyph or word spacing.
