@@ -20,7 +20,7 @@ Old/historical Tamil glyphs காரணமாக character / vowel mark source-
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **270 canonical records / 263 verified / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **271 canonical records / 264 verified / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
 
 ### புதையல் — current source state
 
@@ -29,25 +29,25 @@ Tamil Digital Library reports **443 p.**; exact original PDF scan count remains 
 Access derivatives:
 
 - parts 001–005 — scans **1–245** — split-level workflow complete, with seven source-damage qualifications in Part 005;
-- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–270 verified; scans 271–294 not-started**.
+- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–271 verified; scans 272–294 not-started**.
 
 Current canonical state:
 
-- records — **270**;
-- verified — **263**;
+- records — **271**;
+- verified — **264**;
 - needs-review — **7 (scans 215–219, 223–224)**;
 - partial — **0**;
-- Part 006 — **25 / 49** pages verified;
+- Part 006 — **26 / 49** pages verified;
 - assembled Tamil / English split-level review — still through scan **245** only;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source;
 - source PDF / splits committed — No.
 
-Part 006 source structure is mapped through scan 294: chapter 28 begins at 247, a four-star internal transition occurs at scan 251, chapter 29 begins at 254 and closes at 262, chapter 30 begins at 262, chapter 31 at 271, chapter 32 at 278 and chapter 33 at 288.
+Part 006 source structure is mapped through scan 294: chapter 28 begins at 247, a four-star internal transition occurs at scan 251, chapter 29 begins at 254 and closes at 262, chapter 30 begins at 262 and closes at 271, chapter 31 begins at 271, chapter 32 at 278 and chapter 33 at 288.
 
-Scan **270 / printed 266** is the verified opening page of Iteration 26. It continues scan 269's open sentence, preserves source `தொடர்ந்தபடி யிருந்தாள்`, `மண்ணாங்கட்டியுமில்லை`, `மனதுக்குள்ளே`, `முணகல் சப்தம்`, `கீழ் ஸ்தாயியில்`, `புதரண்டை`, and source **`புதரோரத்திலே`** rather than baseline `புதரோரத்தில்`. The old-type second pass confirms complete `கையில்லை` and `முடியவில்லை`. The page ends `‘தூக்குங்கள்!’ என்று கத்தினாள்.`
+Scan **271 / printed 267** is now verified from native pixels. It finishes chapter 30, contains the source-printed horizontal rule and chapter **31** heading, preserves the full old-type negative forms, and records the physical `கையிலே` / `யிருந்து` wrap as `கையிலேயிருந்து`. The page ends `தை தகவெனக் குதித்துக் கத்தினான்.`
 
-Exact next action: reconcile **scan 271 / printed page 267**, completing chapter 30 and capturing the source-printed chapter 31 heading on that physical page. Do not start the Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are canonically reconciled.
+Exact next action: reconcile **scan 272 / printed page 268**, continuing chapter 31. Do not start the Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are canonically reconciled.
 
 ## நிறைவு பெற்ற reference work
 
