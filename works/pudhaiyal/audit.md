@@ -26,6 +26,7 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - not-started: **45 — scans 250–294**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
 - native-fidelity record: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md) — **4 / 4 verified**
+- old-glyph correction record: [`notes/old-glyph-correction-scans-246-248.md`](notes/old-glyph-correction-scans-246-248.md)
 - Part-006 Tamil audit: **NOT ELIGIBLE**
 - assembled Tamil / English / bilingual review: **NOT ELIGIBLE**
 - state: **`in-progress`**
@@ -46,15 +47,20 @@ This derivative boundary creates no narrative break.
 - 247→248: `இன்` + `னும்` = `இன்னும்`;
 - 248→249: `அவ` + `தாரம்` = `அவதாரம்`.
 
-### Material Iteration-23 baseline corrections
+### Iteration-23 baseline reconciliation
 
-Native pixels require, among other punctuation corrections:
+High-resolution native reinspection corrected an assistant old-glyph error from the first pass. The old-style final `லை` glyph had been mistaken for a bare final `ல்`.
 
-- scan 246: `தெரியவில்லை` → `தெரியவில்ல`;
-- scan 246: `தாளவில்லை` → `தாளவில்ல`;
-- scan 246: `அந்த இருட்டில-` → `அந்த இருட்டிலே —`;
-- scan 248: `புரியவில்லை` → `புரியவில்ல`;
-- scan 248: `திரும்பி வரவில்லை` → `திரும்பி வரவில்ல`.
+The following baseline readings are **confirmed by the source** and must not be shortened:
+
+- scan 246: `தெரியவில்லை`;
+- scan 246: `தாளவில்லை`;
+- scan 248: `புரியவில்லை`;
+- scan 248: `திரும்பி வரவில்லை`.
+
+The separate source-supported correction on scan 246 remains:
+
+- baseline `அந்த இருட்டில-` → source `அந்த இருட்டிலே —`.
 
 Scan 249 confirms the baseline compounds `ஒருவரையொருவர்`, `செய்யவில்லையே` and `முடியவில்லையே`; their printed line wraps are typographic only and are not word boundaries. Source `புண்யங்கூட` and `யானையுமாக வெல்லாம்` are retained.
 
@@ -100,4 +106,4 @@ The seven damaged physical records remain `needs-review`; Part-005 completion do
 
 ## Exact next activity
 
-Reconcile the next Part-006 transcription batch beginning at **scan 250 / printed page 246** against native source pixels. Do not run Part-006 Tamil audit or downstream gates yet.
+Reconcile the next Part-006 transcription batch beginning at **scan 250 / printed page 246** against native source pixels. For `வில்லை`-type endings, enlarge the old final `லை` glyph before declaring any baseline discrepancy. Do not run Part-006 Tamil audit or downstream gates yet.
