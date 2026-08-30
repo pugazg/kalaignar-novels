@@ -31,11 +31,13 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245
 Current state:
 
 - split pages: **49**
-- canonical records created: **20 — scans 197–216**
-- `verified`: **18 — scans 197–214**
-- `needs-review`: **2 — scans 215–216**
-- not-started: **29 — scans 217–245**
-- fidelity: [`notes/visual-fidelity-scans-197-216.md`](notes/visual-fidelity-scans-197-216.md)
+- canonical records created: **32 — scans 197–228**
+- `verified`: **25**
+- `needs-review`: **7 — scans 215–219, 223–224**
+- not-started: **17 — scans 229–245**
+- fidelity:
+  - [`notes/visual-fidelity-scans-197-216.md`](notes/visual-fidelity-scans-197-216.md)
+  - [`notes/visual-fidelity-scans-217-228.md`](notes/visual-fidelity-scans-217-228.md)
 - derivative map: [`indexes/part-005-page-map.md`](indexes/part-005-page-map.md)
 - Tamil audit: **not yet eligible**
 - assembled Tamil / English: **not started for Part 005**
@@ -43,18 +45,22 @@ Current state:
 
 Structure established so far:
 
-- chapter 22 continues from Part 004 through scans **197–205** and closes on scan 205;
-- chapter **23** begins on scan **206** and closes on scan **214**;
-- chapter **24** begins on scan **215**.
+- chapter 22 closes on scan **205**;
+- chapter 23 begins on scan **206** and closes on scan **214**;
+- chapter 24 begins on scan **215** and closes on scan **225**;
+- chapter **25** begins on scan **226** and continues beyond scan 228.
 
-Source-condition exception:
+Source-condition exceptions:
 
-- scans **215 / printed 213** and **216 / printed 214** are crossed by a broad repair/tape strip that hides letter sequences;
-- user baseline is retained on those pages, but they remain `needs-review` because hidden characters cannot be certified from native pixels;
-- the derivative contains a later duplicate physical scan of printed page 214 (with adjacent repeated material). Treat every repeated scan as distinct provenance and use it only as an alternate source witness if it actually exposes additional letters.
+- scans 216 and 218 are duplicate physical witnesses of printed page 214;
+- scans 217 and 219 are duplicate physical witnesses of printed page 215;
+- repair/tape obstruction remains on those repeated witnesses, so scans 215–219 are not fully source-certified;
+- scan 223 / printed 219 has a large right-side physical loss;
+- scan 224 / printed 220 has a large left-side physical loss;
+- all damaged/repeated physical scans remain separate provenance records rather than being collapsed.
 
 ## Exact next source activity
 
-First test the later duplicate witness(es) against scans 215–216. Resolve only letters genuinely exposed by source pixels. Otherwise retain `needs-review`. Then continue from **scan 217 / printed page 215**.
+Continue from **scan 229 / printed page 225 / Part-005 split page 33**. Scan 228 ends at `‘கள்வர் புகும்`; the next native page visibly continues `வழியிலே’`.
 
-Do not begin Part-005 assembled Tamil or English until all 49 scans are canonically resolved/verified and the Part-005 Tamil audit passes.
+Do not begin Part-005 assembled Tamil or English until all 49 physical scans have canonical records and the Part-005 Tamil audit is eligible. Any unresolved damaged-page readings must remain explicit rather than being repaired from context.
