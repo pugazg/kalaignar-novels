@@ -19,33 +19,19 @@ A derivative boundary is provenance only. Do not invent word, sentence, paragrap
 
 ## Mandatory old-Tamil-typeform check before a correction
 
-This edition contains old/faint Tamil typeforms whose vowel marks can be easy to miss at ordinary zoom. Demonstrated risks now include:
+The safeguard applies to **every Tamil vowel sign and combining mark**. Demonstrated risks include faint final `லை`, faint `ா`, and `ே` / `ோ` distinctions.
 
-- final `லை`, especially in `இல்லை` / `வில்லை`-type forms, where faint `ை` can make the cluster look like bare `ல்`;
-- faint `ா` after a consonant cluster, demonstrated on scan 264 where source `என்னா` was initially misread as `என்ன`.
-
-**The safeguard therefore applies to every Tamil vowel sign and combining mark, not only `ை`.**
-
-Before changing a user baseline because a final letter, vowel sign or combining mark appears absent:
+Before changing a user baseline because a character, vowel sign or combining mark appears absent:
 
 1. enlarge the **whole glyph cluster** at high resolution;
-2. inspect the character at more than one useful scale/contrast when the mark is faint;
-3. explicitly consider old Tamil typeforms before declaring a discrepancy;
-4. compare the same typeform elsewhere in this source edition when useful;
-5. require **positive native-pixel evidence** for the replacement;
-6. if pixels remain ambiguous, retain the baseline and `needs-review` rather than guessing;
-7. never run a global spelling expansion/contraction or vowel-sign replacement — individual source pixels govern every occurrence.
+2. inspect at more than one useful scale/contrast;
+3. explicitly consider old Tamil typeforms;
+4. compare the same typeform elsewhere in the edition when useful;
+5. require positive native-pixel evidence;
+6. if pixels remain ambiguous, retain the baseline and `needs-review`;
+7. never perform a global spelling/vowel-sign normalization.
 
-**Strengthened after the scans-256–259 and scan-264 corrections:** if a proposed difference from the baseline involves only an old/faint vowel sign, a near-identical same-word glyph, or apparent word spacing created by a printed line wrap, perform a **second independent high-resolution inspection** before accepting the change. Compare another clear occurrence from the same edition when possible. A printed line break by itself never proves word-internal spacing. If the user/source challenges one glyph in a batch, reopen every assistant-origin discrepancy in that batch before continuing forward.
-
-Scan 268 adds a practical `ே` / `ோ` example: native `யாருடனே` was accepted only after a second enlarged comparison showed no additional `ா` component for `னோ`.
-
-Correction / integrity records:
-
-- [`notes/old-glyph-retrospective-audit-120-245.md`](notes/old-glyph-retrospective-audit-120-245.md)
-- [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md)
-- [`notes/old-glyph-correction-scan-264.md`](notes/old-glyph-correction-scan-264.md)
-- [`notes/visual-fidelity-scan-268.md`](notes/visual-fidelity-scan-268.md)
+If a proposed difference involves only an old/faint vowel sign, a near-identical same-word glyph, or apparent spacing created by a printed line wrap, perform a **second independent high-resolution inspection** before accepting it. A printed line break alone never proves word-internal spacing. If the user/source challenges one glyph in a batch, reopen every assistant-origin discrepancy in that batch before continuing.
 
 ## Completed split checkpoints
 
@@ -62,11 +48,11 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - physical pages / mapped source scans: **49 / 49 — scans 246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **23 / 49 — scans 246–268**
-- verified: **23**
+- canonical records: **24 / 49 — scans 246–269**
+- verified: **24**
 - needs-review: **0**
-- not-started: **26 — scans 269–294**
-- latest native-fidelity record: [`notes/visual-fidelity-scan-268.md`](notes/visual-fidelity-scan-268.md)
+- not-started: **25 — scans 270–294**
+- latest native-fidelity record: [`notes/visual-fidelity-scan-269.md`](notes/visual-fidelity-scan-269.md)
 - Tamil audit: **not eligible**
 - assembled Tamil: **not eligible**
 - controlled English: **not eligible**
@@ -75,17 +61,15 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 
 ### Current Part-006 checkpoint
 
-- scans 256–259 remain corrected after second high-resolution reinspection;
-- scan 260 verifies the Iteration-25 opening;
-- scan 261→262 closes `விடிந்ததும்`; chapter 30 begins on scan 262;
-- scan 263 establishes `நடந்தவைகள்`, `புதையலைக் கண்டுபிடிப்பதற்காகவே`, and full `மறந்து விடவில்லை`;
-- scan 264 confirms user-corrected source `என்னா`; the earlier assistant `என்ன` is withdrawn;
-- scan 265 is verified with full old-type vowel-sign checks;
-- scan 266 is verified with baseline wording substantively confirmed and ends mid-sentence `அதில், என்`;
-- scan 267 closes that sentence and establishes source `புதைக்கப்பட்டது`, `துக்காராம் சொன்னது`, `கனவு கண்டார்களோ`, while preserving `பாதிப் புதையலை`, `கேட்டதால்தானே`, `பேசிக் கொள்ள வில்லையே`;
-- scan 268 is verified after full-page plus enlarged second-pass inspection; native source establishes `யாருடனே`, preserves `பரிமளம்`, and confirms the source punctuation `உம்......புறப்படு!`, `இப்போதே சொல்கிறேன்!......அதாவது......ஒரு சாமியாரிடம்......`, `சரி—சரி!`; endpoint `அவன் உள்ளத்தில்!`.
+- scans 260–268 retain the previously recorded source findings and old-type safeguards;
+- scan 269 is substantively aligned with the user's Iteration-25 baseline;
+- native punctuation preserves `ம் — நீ முதலில் நட! பரிமளா — நீயும் புறப்படு!`, `அகலம்தான் அதிகம் — விழுந்தாலும் சாக முடியாது.`, and `சொல்லேனப்பா — நானாவது கண்டுபிடிக்கிறேன்`;
+- source-specific `அந்தப் பொன்னுக்கு வீங்கி!`, `அந்த எடந்தான்`, `ஆற்றங்கரை யோரத்திலே`, and `புல் பூண்டுகளை` are retained;
+- printed `சொல்` / `லேனப்பா` is joined as the single source word `சொல்லேனப்பா`;
+- second-pass checks confirm complete `தெரியவில்லை`, `எதுவுமில்லை`, `ஆழமில்லை`, `புதையலை`, `நம்பிக்கையோடு`, and `தெரியாது`;
+- scan 269 ends mid-sentence at `முட்களை சமாளித்துக் கொண்டும்,`.
 
-Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262; 31 begins 271; 32 begins 278; 33 begins 288.
+Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262; chapter 31 begins 271; chapter 32 begins 278; chapter 33 begins 288.
 
 Do not run the Part-006 Tamil audit or any downstream stage until all scans 246–294 have canonical records and native-fidelity dispositions.
 
@@ -98,4 +82,4 @@ Do not run the Part-006 Tamil audit or any downstream stage until all scans 246�
 
 ## Exact next activity
 
-Reconcile **scan 269 / printed page 265** directly against the native Part-006 source, continuing chapter 30. Apply the strengthened two-pass old-typeform rule to **all vowel signs** and printed-line-wrap questions before accepting any disputed glyph or word spacing.
+Reconcile **scan 270 / printed page 266** directly against the native Part-006 source, first continuing scan 269's physical endpoint `முட்களை சமாளித்துக் கொண்டும்,`. Apply the strengthened two-pass old-typeform rule to all vowel signs and printed-line-wrap questions before accepting any disputed glyph or word spacing.
