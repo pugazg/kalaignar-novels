@@ -7,10 +7,10 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 20 baseline reconciled directly against native split part 005 page 32 image"
+transcription_method: "user-supplied Iteration 20 baseline reconciled directly against native split part 005 page 32 image; old-glyph reinspection 2026-08-30"
 ---
 
-கல்லும் என் கையிலே! அவைகளை வைத்துக் கொண்டு என்ன செய்வதென்றே எனக்குப் புரியவில்ல.”
+கல்லும் என் கையிலே! அவைகளை வைத்துக் கொண்டு என்ன செய்வதென்றே எனக்குப் புரியவில்லை.”
 
 துரை குறுக்கிட்டுப் பேசினான்; “ஆமாம்—அந்த செப்பேடும் சிறுகல்லும் என் தந்தையிடம் எப்படிக் கிடைத்தன?”
 
@@ -28,7 +28,7 @@ transcription_method: "user-supplied Iteration 20 baseline reconciled directly a
 
 - scan 227 `சிறு` → scan 228 `கல்லும்` = `சிறு கல்லும்`.
 - The source prints the treasure clue as a visually distinct multi-line verse-like block; the assembled layer must preserve that structure.
-- Source preserves `புரியவில்ல`, not normalized `புரியவில்லை`.
-- Physical page ends at `‘கள்வர் புகும்`; the next source scan must continue that phrase.
+- High-resolution old-type reinspection confirms baseline `புரியவில்லை`; the earlier assistant `புரியவில்ல` is withdrawn.
+- Physical page ends at `‘கள்வர் புகும்`; the next source scan continues that phrase.
 
 <!-- மூல ஸ்கேன் பக்கம்: 228; அச்சுப் பக்கம்: 224 -->
