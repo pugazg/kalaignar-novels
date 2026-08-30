@@ -60,11 +60,11 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - derivative size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - derivative map: `works/pudhaiyal/indexes/part-006-page-map.md`
-- canonical records: **19 / 49 — scans 246–264**
-- verified: **19**
+- canonical records: **20 / 49 — scans 246–265**
+- verified: **20**
 - needs-review: **0**
-- not-started: **30 — scans 265–294**
-- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-264.md`
+- not-started: **29 — scans 266–294**
+- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-265.md`
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - Part-006 state: **`in-progress`**
 
@@ -74,7 +74,8 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - scan 261 / printed 257: closes `வெள்ளியம்பலம் கேட்டு விட்டு, ...`; preserves `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, `பேஷாக`; ends `விடிந்த`;
 - scan 262 / printed 258: begins `தும்`, yielding `விடிந்ததும்`; source `குறுக்கிட்டது`, `என்று கூறினான்`, `ஆம்;`, `நடந்து, நடந்து`; chapter 29 closes / chapter 30 begins; ends `துக்காராமுக்கோ,`;
 - scan 263 / printed 259: begins `ஆனந்தம் தாங்கவில்லை.`; source `நடந்தவைகள்`, `புதையலைக் கண்டுபிடிப்பதற்காகவே`, full `மறந்து விடவில்லை`; ends `அவர்!`;
-- scan 264 / printed 260: **user-corrected old-glyph reading `என்னா` is confirmed from enlarged native pixels**; earlier assistant `என்ன` is withdrawn. Canonical punctuation is `என்னா — தெரியாது மாதிரி விழிக்கிறே?`; source also confirms `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, `வந்தேனே......`, and complete `புரியவில்லை`; ends `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
+- scan 264 / printed 260: **user-corrected old-glyph reading `என்னா` is confirmed from enlarged native pixels**; earlier assistant `என்ன` is withdrawn. Canonical punctuation is `என்னா — தெரியாது மாதிரி விழிக்கிறே?`; source also confirms `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, `வந்தேனே......`, and complete `புரியவில்லை`; ends `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`;
+- scan 265 / printed 261: verified from full-page, enlarged-crop and contrast-enhanced native views; preserves `வருஷக் கணக்கில்`, `உங்க`, `தன்னை சந்தித்த போது`, `கூத்தாடியது`, `உபயோகப்படுத்தி`, `கண் ஜாடை`; confirms `அவளைத் தன் காதலியாகவே`; second old-type pass confirms `காலையிலே`, `பேச்சுமில்லை`, `ஏற்பட்டதில்லை`, `இருந்ததில்லை`, `இணையில்லாத`; ends `என்றெல்லாம்!`.
 
 ### Part-006 structure mapped from physical pages
 
@@ -88,18 +89,18 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
 ## Aggregate durable state
 
-- canonical records: **264**
-- verified: **257**
+- canonical records: **265**
+- verified: **258**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
-- later individual source-verified pages: through scan **264**, except the seven damaged Part-005 records
+- later individual source-verified pages: through scan **265**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 19 / 49 verified**
+- Part 006: **in progress — 20 / 49 verified**
 - assembled Tamil / English split-level review: through scan **245** only
 - source scans represented by currently received derivatives: through **294**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Continue Part 006 at **scan 265 / printed page 261**, chapter 30, from user Iteration 25. Apply the strengthened two-pass old-Tamil-typeform rule to **all vowel signs**, including faint `ா`, before accepting any disputed glyph or spacing.
+Continue Part 006 at **scan 266 / printed page 262**, chapter 30. Apply the strengthened two-pass old-Tamil-typeform rule to **all vowel signs**, including faint `ா` and final `ை`, before accepting any disputed glyph or spacing.
