@@ -40,13 +40,13 @@ The seven physically damaged Part-005 records **215–219 and 223–224** remain
 Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
 - physical pages mapped: **49 / 49 — scans 246–294 / printed 242–290**
-- canonical records created: **4 / 49 — scans 246–249**
-- verified: **4**
+- canonical records created: **5 / 49 — scans 246–250**
+- verified: **5**
 - needs-review: **0**
 - partial: **0**
-- not-started: **45 — scans 250–294**
+- not-started: **44 — scans 251–294**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- native-fidelity record: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md) — **4 / 4 verified**
+- native-fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md)
 - Part-006 opening old-glyph correction record: [`notes/old-glyph-correction-scans-246-248.md`](notes/old-glyph-correction-scans-246-248.md)
 - retrospective earlier-page audit: [`notes/old-glyph-retrospective-audit-120-245.md`](notes/old-glyph-retrospective-audit-120-245.md)
 - Part-006 Tamil audit: **NOT ELIGIBLE**
@@ -67,9 +67,10 @@ This derivative boundary creates no narrative break.
 
 - 245→246: `இருக்கவே` + `இருக்கிறாள் ...`;
 - 247→248: `இன்` + `னும்` = `இன்னும்`;
-- 248→249: `அவ` + `தாரம்` = `அவதாரம்`.
+- 248→249: `அவ` + `தாரம்` = `அவதாரம்`;
+- 249→250: one continuous Dukkaram–Raman scene; no word fragment crosses the physical page boundary.
 
-### Part-006 opening reconciliation
+### Part-006 verified reconciliation through scan 250
 
 High-resolution native reinspection confirms:
 
@@ -82,6 +83,8 @@ The separate source-supported scan-246 correction remains `அந்த இர�
 
 Scan 249 confirms `ஒருவரையொருவர்`, `செய்யவில்லையே`, and `முடியவில்லையே`; their printed line wraps are typographic only. Source `புண்யங்கூட` and `யானையுமாக வெல்லாம்` are retained.
 
+Scan **250 / printed 246** was transcribed directly from the native scan without a user baseline. The page is **verified** after high-resolution inspection. Source-specific colloquial forms retained include `கறு கண்ணை`, `கிடக்கிறாரு`, `வைத்தியனிடமில்லே`, `உன் கிட்டம்தான்`, `அப்படின்னு`, `கொடுன்னு`, `பெண்ணு`, `சந்திக்கணும்னு`, and `துடிக்குது`. The permanent old-Tamil-typeform check found no unresolved glyph on this page.
+
 ### Structure mapped in Part 006
 
 - chapter 27 continues from scan 245 and closes on scan 247;
@@ -92,7 +95,7 @@ Scan 249 confirms `ஒருவரையொருவர்`, `செய்யவ
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through the derivative endpoint.
 
-Only scans 246–249 are textually verified at this checkpoint; structural inspection does not upgrade scans 250–294.
+Only scans 246–250 are textually verified at this checkpoint; structural inspection does not upgrade scans 251–294.
 
 ## Part 005 — completed split checkpoint
 
@@ -107,16 +110,16 @@ Only scans 246–249 are textually verified at this checkpoint; structural inspe
 
 ## Aggregate canonical state
 
-- records created: **249**
-- verified: **242**
+- records created: **250**
+- verified: **243**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later individually verified coverage: through scan **249**, except the seven explicitly damaged scans
+- later individually verified coverage: through scan **250**, except the seven explicitly damaged scans
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 4 / 49 verified**
+- Part 006: **in progress — 5 / 49 verified**
 - continuous split-level assembled Tamil / English review: through scan **245** only
-- full-source physical coverage from received derivatives: mapped through scan **294**, but canonical text only through scan 249
+- full-source physical coverage from received derivatives: mapped through scan **294**, but canonical text only through scan 250
 
 ## Whole-work gate
 
@@ -124,4 +127,4 @@ Only scans 246–249 are textually verified at this checkpoint; structural inspe
 
 ## Exact next activity
 
-Reconcile the next Part-006 transcription batch beginning at **scan 250 / printed page 246** against native source pixels. Apply the permanent old-Tamil-typeform pre-correction gate to every disputed glyph. Do not run Part-006 Tamil audit or downstream gates yet.
+Directly transcribe and visually verify **scan 251 / printed page 247** against native source pixels, applying the permanent old-Tamil-typeform pre-correction gate to every disputed glyph. Do not run Part-006 Tamil audit or downstream gates yet.
