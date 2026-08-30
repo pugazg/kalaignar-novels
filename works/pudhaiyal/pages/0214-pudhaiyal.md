@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 19 baseline reconciled directly against native split part 005 page 18 image"
+transcription_method: "user-supplied Iteration 19 baseline reconciled directly against native split part 005 page 18 image; old-glyph reinspection 2026-08-30"
 ---
 
 அதை எடுக்கவேண்டும்? — என்ற கேள்விகள் குடைய ஆரம்பித்தன குமாரவடிவை!”
@@ -20,7 +20,7 @@ transcription_method: "user-supplied Iteration 19 baseline reconciled directly a
 
 “உண்மையாகவா? நீங்கள் என் தந்தையில்லையா?” — துரை துடித்தான்.
 
-“இல்ல”
+“இல்லை”
 
 “பிறகு நீங்கள் யார்?”
 
@@ -31,7 +31,7 @@ transcription_method: "user-supplied Iteration 19 baseline reconciled directly a
 ## Source / boundary notes
 
 - scan 213 `யாருக்காக` → scan 214 `அதை எடுக்கவேண்டும்?`.
-- Source directly prints Mayandi's reply as `இல்ல`; the blank quotation in the supplied baseline is corrected.
+- High-resolution old-type reinspection confirms Mayandi's reply as `இல்லை`; the earlier assistant `இல்ல` was a false correction caused by missing final `லை`.
 - A source-printed separator closes this page. Scan 215 begins chapter 24.
 
 <!-- மூல ஸ்கேன் பக்கம்: 214; அச்சுப் பக்கம்: 212 -->
