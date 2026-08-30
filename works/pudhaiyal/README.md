@@ -11,6 +11,16 @@
 
 The scanned source is the textual authority. User transcription is a comparison baseline only. Do not modernize, regularize or silently repair old-print Tamil. A disagreement is changed only after native-source verification; genuine ambiguity remains `needs-review`.
 
+### Old-Tamil-glyph safeguard
+
+Before correcting a baseline because a final letter or vowel mark appears absent, inspect the **complete glyph cluster at high resolution** and explicitly consider old/historical Tamil typeforms. This edition has demonstrated a faint final `லை` form that can look like bare `ல்` at ordinary zoom.
+
+The retrospective audit that corrected earlier assistant misreads is:
+
+[`notes/old-glyph-retrospective-audit-120-245.md`](notes/old-glyph-retrospective-audit-120-245.md)
+
+No global normalization is permitted: individual source pixels govern each occurrence. If the glyph remains ambiguous, preserve the baseline and `needs-review`.
+
 The former `150 pages total` conclusion is permanently withdrawn. See [`notes/source-page-count-reconciliation.md`](notes/source-page-count-reconciliation.md).
 
 ## Split-source / part-completion workflow
@@ -25,10 +35,16 @@ A derivative boundary is provenance only and must never create a false narrative
 |---|---:|---|
 | Part 001 | 1–49 | **part-complete** |
 | Part 002 | 50–98 | **part-complete** |
-| Part 003 | 99–147 | **part-complete** |
+| Part 003 | 99–147 | **part-complete; scan-120 old-glyph correction synchronized** |
 | Part 004 | 148–196 | **part-complete** |
-| Part 005 | 197–245 | **part-complete with explicit source-damage qualification** |
+| Part 005 | 197–245 | **part-complete with explicit source-damage qualification; readable-page old-glyph corrections synchronized** |
 | Part 006 | 246–294 | **in progress — 49 mapped; scans 246–249 verified; 250–294 not-started** |
+
+## Retrospective old-glyph integrity repair
+
+High-resolution reinspection on 2026-08-30 corrected earlier assistant `லை`-loss readings on **23 readable scans**: scan **120**, plus Part-005 scans **198, 199, 201, 207, 214, 220, 221, 225, 228, 229, 230, 231, 233, 234, 235, 238, 239, 241, 242, 243, 244, 245**.
+
+Canonical pages and assembled Tamil chapters **13 and 22–27** are synchronized with those corrected source readings. The seven physically damaged Part-005 records remain unchanged at `needs-review`.
 
 ## Part 006 — active derivative
 
@@ -76,13 +92,13 @@ Source: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
 - verified: **42**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
-- Tamil audit: [`notes/part-005-tamil-audit.md`](notes/part-005-tamil-audit.md) — **closed with explicit source-damage exceptions**
-- assembled Tamil: **completed / part-reviewed**
-- English: **completed / source-checked**
+- Tamil audit: [`notes/part-005-tamil-audit.md`](notes/part-005-tamil-audit.md) — **closed with explicit source-damage exceptions and readable-page old-glyph reinspection**
+- assembled Tamil: **completed / old-glyph-resynchronized / part-reviewed**
+- English: **completed / source-checked; no semantic rewrite required by restored final `லை` forms**
 - bilingual review: [`translations/en/PART_005_REVIEW.md`](translations/en/PART_005_REVIEW.md) — **PASSED WITH SOURCE-DAMAGE QUALIFICATION**
 - derivative map: [`indexes/part-005-page-map.md`](indexes/part-005-page-map.md)
 
-The seven Part-005 damaged physical scans remain `needs-review`; Part completion does not upgrade them to native verification.
+The seven Part-005 damaged physical scans remain `needs-review`; Part completion and old-glyph discovery do not upgrade them to native verification.
 
 ## Aggregate archival status
 
@@ -92,7 +108,7 @@ The seven Part-005 damaged physical scans remain `needs-review`; Part completion
 - partial: **0**
 - clean contiguous fully verified range remains through scan **214 / printed page 212**
 - later individual scans are source-verified through scan **249**, except the seven Part-005 damaged scans
-- backward integrity audit: **COMPLETE through scan 118**
+- backward integrity audit: **COMPLETE through scan 118**, with additional old-glyph retrospective correction at scan 120 and readable Part-005 pages
 - Parts 001–005: **part-complete at split level**
 - Part 006: **in progress**
 - assembled Tamil / English: part-reviewed continuously through scan **245** only, carrying the seven Part-005 source-damage qualifications
@@ -101,4 +117,4 @@ The seven Part-005 damaged physical scans remain `needs-review`; Part completion
 
 ## Exact next activity
 
-Reconcile the next user-supplied Part-006 transcription batch beginning at **scan 250 / printed page 246** against native source pixels. Do not infer text from grammar/context and do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
+Reconcile the next Part-006 transcription batch beginning at **scan 250 / printed page 246** against native source pixels. Apply the permanent old-Tamil-typeform pre-correction check before changing any baseline character. Do not infer text from grammar/context and do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
