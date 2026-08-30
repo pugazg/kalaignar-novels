@@ -34,13 +34,13 @@ The seven physically damaged Part-005 records **215–219 and 223–224** remain
 Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
 - physical pages mapped: **49 / 49 — scans 246–294 / printed 242–290**
-- canonical records created: **19 / 49 — scans 246–264**
-- verified: **19**
+- canonical records created: **20 / 49 — scans 246–265**
+- verified: **20**
 - needs-review: **0**
 - partial: **0**
-- not-started: **30 — scans 265–294**
+- not-started: **29 — scans 266–294**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- latest native-fidelity record: [`notes/visual-fidelity-scan-264.md`](notes/visual-fidelity-scan-264.md)
+- latest native-fidelity record: [`notes/visual-fidelity-scan-265.md`](notes/visual-fidelity-scan-265.md)
 - scan-264 correction record: [`notes/old-glyph-correction-scan-264.md`](notes/old-glyph-correction-scan-264.md)
 - Part-006 Tamil audit: **NOT ELIGIBLE**
 - assembled Tamil / English / bilingual review: **NOT ELIGIBLE**
@@ -54,7 +54,9 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - 257→258: `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`;
 - 260→261: `வெள்ளியம்பலம்` + `கேட்டு விட்டு, ...`;
 - 261→262: `விடிந்த` + `தும்` = `விடிந்ததும்`;
-- 262→263: `துக்காராமுக்கோ,` + `ஆனந்தம் தாங்கவில்லை.`.
+- 262→263: `துக்காராமுக்கோ,` + `ஆனந்தம் தாங்கவில்லை.`;
+- scan 264 ends a complete dialogue sentence; scan 265 begins `துக்காராம் கோபித்துக் கொண்டான்.`;
+- scan 265 ends `பேசினான் — ‘மாட்டேன்! முடியாது!’ என்றெல்லாம்!`; scan 266 continues chapter 30 with new narration.
 
 ### Scan 263 / printed 259
 
@@ -79,6 +81,19 @@ Fresh enlarged native inspection establishes:
 
 All assistant-origin discrepancies on scan 264 were reopened after the challenge. No unresolved old-type glyph remains on the page.
 
+### Scan 265 / printed 261
+
+Native full-page, enlarged-crop and contrast-enhanced inspection establishes:
+
+- source opening `துக்காராம் கோபித்துக் கொண்டான்.`;
+- dialogue preserves `வருஷக் கணக்கில்`, `உங்க`, `அதெல்லாம்`, and `மாட்டேன் — என்ன செய்வீர்?`;
+- source narration preserves `தன்னை சந்தித்த போது`, `கூத்தாடியது`, `உபயோகப்படுத்தி`, and `கண் ஜாடை`;
+- enlarged inspection confirms `அவளைத் தன் காதலியாகவே`;
+- second old-typeform pass confirms full `காலையிலே`, `இவ்வளவுக்குப்`, `பேச்சுமில்லை`, `ஏற்பட்டதில்லை`, `இருந்ததில்லை`, and `இணையில்லாத`;
+- no source-printed structural transition occurs;
+- page endpoint `என்றெல்லாம்!`;
+- unresolved readings: **0**.
+
 ### Structure mapped in Part 006
 
 - chapter 27 closes / chapter 28 begins scan 247;
@@ -89,20 +104,20 @@ All assistant-origin discrepancies on scan 264 were reopened after the challenge
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through the derivative endpoint.
 
-Only scans 246–264 are textually verified at this checkpoint; structural inspection does not upgrade scans 265–294.
+Only scans 246–265 are textually verified at this checkpoint; structural inspection does not upgrade scans 266–294.
 
 ## Aggregate canonical state
 
-- records created: **264**
-- verified: **257**
+- records created: **265**
+- verified: **258**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later individually verified coverage: through scan **264**, except the seven explicitly damaged scans
+- later individually verified coverage: through scan **265**, except the seven explicitly damaged scans
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 19 / 49 verified**
+- Part 006: **in progress — 20 / 49 verified**
 - continuous split-level assembled Tamil / English review: through scan **245** only
-- full-source physical coverage from received derivatives: mapped through scan **294**, but canonical text only through scan 264
+- full-source physical coverage from received derivatives: mapped through scan **294**, but canonical text only through scan 265
 
 ## Whole-work gate
 
@@ -110,4 +125,4 @@ Only scans 246–264 are textually verified at this checkpoint; structural inspe
 
 ## Exact next activity
 
-Reconcile **scan 265 / printed page 261** from user Iteration 25 against native source pixels, continuing chapter 30. Apply the strengthened second-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions. Do not run Part-006 Tamil audit or downstream gates yet.
+Reconcile **scan 266 / printed page 262** directly against native source pixels, continuing chapter 30. Apply the strengthened second-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions. Do not run Part-006 Tamil audit or downstream gates yet.
