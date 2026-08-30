@@ -10,6 +10,8 @@
 
 Old/historical Tamil glyphs காரணமாக ஒரு character அல்லது vowel mark source-ல் இல்லாதது போலத் தோன்றினால், correction செய்வதற்கு முன் முழு glyph cluster-ஐ high-resolution-ல் பார்க்க வேண்டும். Faint marks / old typeforms காரணமாக `லை` bare `ல்` போலத் தோன்றலாம் என்பதைக் `புதையல்` retrospective audit நிரூபித்தது. Positive native-pixel evidence இல்லாமல் baseline மாற்றக்கூடாது; global normalization செய்யக்கூடாது.
 
+**Scans 256–259 strengthened rule:** old/faint vowel signs, near-identical same-word glyphs, or apparent spacing created by printed line wrapping require a second independent high-resolution inspection before a baseline difference is accepted. A line break alone is never evidence for word-internal spacing. If one reading in a batch is challenged, reopen every assistant-origin discrepancy in that batch.
+
 ## Project continuation documents
 
 - [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md)
@@ -20,7 +22,7 @@ Old/historical Tamil glyphs காரணமாக ஒரு character அல்�
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **259 canonical records / 252 verified / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **260 canonical records / 253 verified / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
 
 ### புதையல் — current source state
 
@@ -33,18 +35,18 @@ Access derivatives:
 - part 003 — scans **99–147** — part-complete;
 - part 004 — scans **148–196** — part-complete;
 - part 005 — scans **197–245** — **part-complete with explicit source-damage qualification**;
-- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–259 verified; scans 260–294 not-started**.
+- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–260 verified; scans 261–294 not-started**.
 
 Current canonical state:
 
-- records — **259**;
-- verified — **252**;
+- records — **260**;
+- verified — **253**;
 - needs-review — **7 (scans 215–219, 223–224)**;
 - partial — **0**;
 - clean contiguous fully verified range — through **scan 214 / printed page 212**;
-- later individual source-verified records — through scan **259**, except the seven explicitly damaged scans;
+- later individual source-verified records — through scan **260**, except the seven explicitly damaged scans;
 - Parts 001–005 — full split workflow complete through assembled Tamil, controlled English and bilingual review;
-- Part 006 — canonical/native-fidelity work in progress; **14 / 49** pages verified;
+- Part 006 — canonical/native-fidelity work in progress; **15 / 49** pages verified;
 - assembled Tamil / English split-level review — still through scan **245** only; Part 006 is not yet eligible for downstream gates;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source;
@@ -54,9 +56,11 @@ The Part-005 endpoint at scan **245 / printed 241** ends `இருக்கவ�
 
 Part 006 source structure is mapped through scan 294: chapter 28 begins at 247, a four-star internal transition occurs at scan 251, chapter 29 begins at 254, chapter 30 at 262, chapter 31 at 271, chapter 32 at 278 and chapter 33 at 288.
 
-Native page mapping established that the remaining user Iteration-24 text continues through **scans 256–259 / printed pages 252–255**. Those pages are now verified. Material findings include source `காட்டுகிறியா?`, `நன்றுகப் பார்த்தான்`, the cross-page word `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`, source `அனாவசியமாக`, and source `மண்ணுங் கட்டியாவது!`. No unresolved old-type glyph remains in the batch.
+A corrected second high-resolution inspection of scans **256–259 / printed 252–255** confirms the user's baseline forms `காட்டுகிறாயா?`, `நன்றாகப் பார்த்தான்`, `அநாவசியமாக`, and `மண்ணாங் கட்டியாவது!`; the earlier assistant alternatives are withdrawn. The cross-page word `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்` and scan-259 `ஒன்றாய்ப் பிசைந்து` remain source-confirmed.
 
-The supplied Iteration-25 baseline begins at **scan 260 / printed page 256**. Exact next action: reconcile scan 260 directly against native pixels. Do not start the Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are canonically reconciled.
+Scan **260 / printed 256** is now verified from Iteration 25 under the strengthened two-pass rule. Positive native differences are limited to baseline typo `சொலலு` → `சொல்லு`, continuous `சாமியாருக்குத்தான்`, and source `பொய் சொல்லுகிறாயா?`. The physical page ends at `வெள்ளியம்பலம்`.
+
+Exact next action: reconcile **scan 261 / printed page 257**, first closing that physical sentence from native evidence. Do not start the Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are canonically reconciled.
 
 ## நிறைவு பெற்ற reference work
 
