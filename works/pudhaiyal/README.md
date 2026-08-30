@@ -15,16 +15,7 @@ The scanned source is the textual authority. User transcription is a comparison 
 
 Before correcting a baseline because a final letter or vowel mark appears absent, inspect the **complete glyph cluster at high resolution** and explicitly consider old/historical Tamil typeforms.
 
-This edition has demonstrated both:
-
-- faint final `லை`, which can resemble bare `ல்`;
-- faint `ா`, demonstrated by scan 264 source `என்னா`, which was initially misread as `என்ன`.
-
-The safeguard therefore applies to **all vowel signs / combining marks**, not just `ை`. No global normalization is permitted: individual source pixels govern each occurrence. If the glyph remains ambiguous, preserve the baseline and `needs-review`.
-
-**Strengthened after scans 256–259 and scan 264:** when a proposed change differs from the baseline only by an old-type vowel sign, same-word letter shape, or apparent line-wrap spacing, the first visual impression is not enough. Perform a second independent high-resolution pass, compare the same typeform/word elsewhere in the edition when possible, and do not use a printed line wrap alone to insert or remove word-internal spacing. If a user challenges one glyph reading, reopen every assistant-origin discrepancy in that batch before continuing.
-
-Relevant records: [`notes/old-glyph-retrospective-audit-120-245.md`](notes/old-glyph-retrospective-audit-120-245.md) and [`notes/old-glyph-correction-scan-264.md`](notes/old-glyph-correction-scan-264.md).
+This edition has demonstrated both faint final `லை` and faint `ா`; the safeguard therefore applies to **all vowel signs / combining marks**, not just `ை`. No global normalization is permitted. A baseline difference involving an old-type vowel sign, same-word letter shape, or apparent line-wrap spacing requires a second independent high-resolution pass before acceptance. If a user challenges one glyph reading, reopen every assistant-origin discrepancy in that batch before continuing.
 
 The former `150 pages total` conclusion is permanently withdrawn. See [`notes/source-page-count-reconciliation.md`](notes/source-page-count-reconciliation.md).
 
@@ -43,7 +34,7 @@ A derivative boundary is provenance only and must never create a false narrative
 | Part 003 | 99–147 | **part-complete; scan-120 old-glyph correction synchronized** |
 | Part 004 | 148–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification; readable-page old-glyph corrections synchronized** |
-| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–268 verified; 269–294 not-started** |
+| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–269 verified; 270–294 not-started** |
 
 ## Part 006 — active derivative
 
@@ -53,26 +44,25 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - source scans: **246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records created: **23 / 49 — scans 246–268**
-- verified: **23 / 49**
+- canonical records created: **24 / 49 — scans 246–269**
+- verified: **24 / 49**
 - needs-review in Part 006: **0**
-- not-started: **26 — scans 269–294**
-- latest fidelity record: [`notes/visual-fidelity-scan-268.md`](notes/visual-fidelity-scan-268.md)
+- not-started: **25 — scans 270–294**
+- latest fidelity record: [`notes/visual-fidelity-scan-269.md`](notes/visual-fidelity-scan-269.md)
 - Part-006 Tamil audit: **not yet eligible**
 - Part-006 assembled Tamil / English / bilingual review: **not started; gate remains closed**
 - source/split PDF committed: **No**
 
 ### Current Iteration-25 checkpoint
 
-- scan 260 / printed 256: verified; ends `வெள்ளியம்பலம்`;
-- scan 261 / printed 257: verified; closes `வெள்ளியம்பலம் கேட்டு விட்டு, ...`; ends `விடிந்த`;
-- scan 262 / printed 258: verified; `விடிந்த` + `தும்` = `விடிந்ததும்`; chapter 29 closes / chapter 30 begins; ends `துக்காராமுக்கோ,`;
-- scan 263 / printed 259: verified; source `நடந்தவைகள்`, `புதையலைக் கண்டுபிடிப்பதற்காகவே`, full `மறந்து விடவில்லை`;
-- scan 264 / printed 260: user-challenged `என்னா` confirmed from enlarged pixels; earlier assistant `என்ன` withdrawn;
-- scan 265 / printed 261: verified; preserves source colloquial/old-type forms; ends `என்றெல்லாம்!`;
-- scan 266 / printed 262: user baseline wording substantively confirmed; old-type second pass confirms full `புரியவில்லை`, both `இஷ்டமில்லை`, `பிரமாதமில்லை`, `ஒன்றுமில்லை`, and final-`ை` `புதையலை`; ends mid-sentence `அதில், என்`;
-- scan 267 / printed 263: verified; 266→267 closes `அதில், என் பாதியை...`; source `புதைக்கப்பட்டது`, `துக்காராம் சொன்னது`, `கனவு கண்டார்களோ`; preserves `கேட்டதால்தானே` and `பேசிக் கொள்ள வில்லையே`;
-- scan 268 / printed 264: verified after full-page plus enlarged two-pass inspection; native source establishes **`யாருடனே`**, not baseline `யாருடனோ`; preserves `பரிமளம்`; source punctuation includes `உம்......புறப்படு!`, `இப்போதே சொல்கிறேன்!......அதாவது......ஒரு சாமியாரிடம்......`, and `சரி—சரி!`; ends `உயிரைப்பற்றிய ஆசை படையெடுத்தது அவன் உள்ளத்தில்!`.
+Scans **260–269 / printed 256–265** are now source-verified. The strengthened old-glyph/vowel-sign rule remains active for every proposed discrepancy.
+
+- scan 268 establishes source `யாருடனே`, preserves `பரிமளம்`, and confirms the printed pause sequences;
+- scan 269 is substantively aligned with the user baseline. Native punctuation preserves `ம் — நீ முதலில் நட! பரிமளா — நீயும் புறப்படு!`, `அகலம்தான் அதிகம் — விழுந்தாலும் சாக முடியாது.`, and `சொல்லேனப்பா — நானாவது கண்டுபிடிக்கிறேன்`;
+- scan 269 preserves source-specific `அந்தப் பொன்னுக்கு வீங்கி!`, `அந்த எடந்தான்`, `ஆற்றங்கரை யோரத்திலே`, and `புல் பூண்டுகளை`;
+- the printed `சொல்` / `லேனப்பா` wrap is one word: `சொல்லேனப்பா`;
+- old-type second pass confirms full `தெரியவில்லை`, `எதுவுமில்லை`, `ஆழமில்லை`, `புதையலை`, `நம்பிக்கையோடு`, and `தெரியாது`;
+- scan 269 ends mid-sentence at `முட்களை சமாளித்துக் கொண்டும்,`.
 
 ### Part-006 structure mapped
 
@@ -84,22 +74,22 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through scan 294.
 
-Only scans 246–268 have been textually reconciled so far. Later structural mapping does not make scans 269–294 `verified`.
+Only scans 246–269 have been textually reconciled so far. Later structural mapping does not make scans 270–294 `verified`.
 
 ## Aggregate archival status
 
-- canonical Tamil page records: **268**
-- verified: **261**
+- canonical Tamil page records: **269**
+- verified: **262**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range remains through scan **214 / printed page 212**
-- later individual scans are source-verified through scan **268**, except the seven Part-005 damaged scans
+- later individual scans are source-verified through scan **269**, except the seven Part-005 damaged scans
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 23 / 49 verified**
+- Part 006: **in progress — 24 / 49 verified**
 - assembled Tamil / English: part-reviewed continuously through scan **245** only
 - whole-work Tamil / English verification: **not yet eligible**
 - release-readiness: **blocked until complete source**
 
 ## Exact next activity
 
-Reconcile **scan 269 / printed page 265** directly against native Part-006 pixels, continuing chapter 30. Apply the strengthened two-pass rule to every vowel sign and line-wrap question before overriding any baseline character or word spacing. Do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
+Reconcile **scan 270 / printed page 266** directly against native Part-006 pixels, first continuing scan 269's mid-sentence endpoint `முட்களை சமாளித்துக் கொண்டும்,`. Apply the strengthened two-pass rule to every vowel sign and line-wrap question before overriding any baseline character or word spacing. Do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
