@@ -2,18 +2,18 @@
 
 Source: `TVA_BOK_0064097_புதையல்.pdf`
 
-> **Extent warning:** this manifest currently covers verified source scans **1–196**. It is **not** a complete-source manifest. Tamil Digital Library describes the item as **443 p.**; the exact full-PDF scan count remains pending later split reconciliation.
+> **Extent warning:** this manifest currently covers source scans **1–245**. It is **not** a complete-source manifest. Tamil Digital Library describes the item as **443 p.**; the exact full-PDF scan count remains pending later split reconciliation.
 
-> **Integrity gate:** the backward integrity audit is **COMPLETE through scan 118**. Canonical Tamil is verified continuously through scan **196 / printed page 194**, with no unresolved readings through that point.
+> **Integrity gate:** the backward integrity audit is **COMPLETE through scan 118**. Clean contiguous fully verified coverage runs through scan **214 / printed page 212**. Seven later physical records — scans **215–219 and 223–224** — remain `needs-review` because of source damage; all other represented scans through 245 are verified.
 
-> **Split-source state:** parts 001 (`1–49`), 002 (`50–98`), 003 (`99–147`) and 004 (`148–196`) are all **part-complete**.
+> **Split-source state:** parts 001 (`1–49`), 002 (`50–98`), 003 (`99–147`), 004 (`148–196`) and 005 (`197–245`) are all **part-complete at split level**. Part 005 carries explicit source-damage qualifications for its seven damaged records.
 
 > **Printed-page rule:** record a printed page number only when visibly printed. Scan 13 therefore remains `—` rather than inferred as 11.
 
 Integrity record: [`../notes/backward-integrity-audit-001-118.md`](../notes/backward-integrity-audit-001-118.md).  
-Latest fidelity record: [`../notes/visual-fidelity-scans-188-196.md`](../notes/visual-fidelity-scans-188-196.md).  
-Part-004 Tamil audit: [`../notes/part-004-tamil-audit.md`](../notes/part-004-tamil-audit.md).  
-Part-004 bilingual review: [`../translations/en/PART_004_REVIEW.md`](../translations/en/PART_004_REVIEW.md).  
+Part-005 derivative map: [`part-005-page-map.md`](part-005-page-map.md).  
+Part-005 Tamil audit: [`../notes/part-005-tamil-audit.md`](../notes/part-005-tamil-audit.md).  
+Part-005 bilingual review: [`../translations/en/PART_005_REVIEW.md`](../translations/en/PART_005_REVIEW.md).  
 Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes/source-page-count-reconciliation.md).
 
 | Scan | Printed page | Page type / section | Status | File |
@@ -214,18 +214,69 @@ Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes
 | 194 | 192 | chapter 21 | verified | `pages/0194-pudhaiyal.md` |
 | 195 | 193 | chapter 21 | verified | `pages/0195-pudhaiyal.md` |
 | 196 | 194 | chapter 21 closes / chapter 22 begins; part 004 endpoint | verified | `pages/0196-pudhaiyal.md` |
+| 197 | 195 | chapter 22 continuation | verified | `pages/0197-pudhaiyal.md` |
+| 198 | 196 | chapter 22 | verified | `pages/0198-pudhaiyal.md` |
+| 199 | 197 | chapter 22 | verified | `pages/0199-pudhaiyal.md` |
+| 200 | 198 | chapter 22 | verified | `pages/0200-pudhaiyal.md` |
+| 201 | 199 | chapter 22 | verified | `pages/0201-pudhaiyal.md` |
+| 202 | 200 | chapter 22 | verified | `pages/0202-pudhaiyal.md` |
+| 203 | 201 | chapter 22 | verified | `pages/0203-pudhaiyal.md` |
+| 204 | 202 | chapter 22 | verified | `pages/0204-pudhaiyal.md` |
+| 205 | 203 | chapter 22 closes | verified | `pages/0205-pudhaiyal.md` |
+| 206 | 204 | chapter 23 begins | verified | `pages/0206-pudhaiyal.md` |
+| 207 | 205 | chapter 23 | verified | `pages/0207-pudhaiyal.md` |
+| 208 | 206 | chapter 23 | verified | `pages/0208-pudhaiyal.md` |
+| 209 | 207 | chapter 23 | verified | `pages/0209-pudhaiyal.md` |
+| 210 | 208 | chapter 23 | verified | `pages/0210-pudhaiyal.md` |
+| 211 | 209 | chapter 23 | verified | `pages/0211-pudhaiyal.md` |
+| 212 | 210 | chapter 23 | verified | `pages/0212-pudhaiyal.md` |
+| 213 | 211 | chapter 23 | verified | `pages/0213-pudhaiyal.md` |
+| 214 | 212 | chapter 23 closes | verified | `pages/0214-pudhaiyal.md` |
+| 215 | 213 | chapter 24 begins | needs-review | `pages/0215-pudhaiyal.md` |
+| 216 | 214 | chapter 24 / repair obstruction | needs-review | `pages/0216-pudhaiyal.md` |
+| 217 | 215 | chapter 24 / repair obstruction | needs-review | `pages/0217-pudhaiyal.md` |
+| 218 | 214 | chapter 24 / duplicate printed-page witness | needs-review | `pages/0218-pudhaiyal.md` |
+| 219 | 215 | chapter 24 / duplicate printed-page witness | needs-review | `pages/0219-pudhaiyal.md` |
+| 220 | 216 | chapter 24 | verified | `pages/0220-pudhaiyal.md` |
+| 221 | 217 | chapter 24 | verified | `pages/0221-pudhaiyal.md` |
+| 222 | 218 | chapter 24 | verified | `pages/0222-pudhaiyal.md` |
+| 223 | 219 | chapter 24 / physical loss | needs-review | `pages/0223-pudhaiyal.md` |
+| 224 | 220 | chapter 24 / physical loss | needs-review | `pages/0224-pudhaiyal.md` |
+| 225 | 221 | chapter 24 closes | verified | `pages/0225-pudhaiyal.md` |
+| 226 | 222 | chapter 25 begins | verified | `pages/0226-pudhaiyal.md` |
+| 227 | 223 | chapter 25; ends at `சிறு` | verified | `pages/0227-pudhaiyal.md` |
+| 228 | 224 | chapter 25; begins `கல்லும்`; ends `‘கள்வர் புகும்` | verified | `pages/0228-pudhaiyal.md` |
+| 229 | 225 | chapter 25; begins `வழியிலே’` | verified | `pages/0229-pudhaiyal.md` |
+| 230 | 226 | chapter 25; ends `அவன் கண்` | verified | `pages/0230-pudhaiyal.md` |
+| 231 | 227 | chapter 25; begins `கள்` | verified | `pages/0231-pudhaiyal.md` |
+| 232 | 228 | chapter 25; ends `என்பது` | verified | `pages/0232-pudhaiyal.md` |
+| 233 | 229 | chapter 25 | verified | `pages/0233-pudhaiyal.md` |
+| 234 | 230 | chapter 25 / intruder revealed | verified | `pages/0234-pudhaiyal.md` |
+| 235 | 231 | chapter 25 closes / chapter 26 begins; ends `அமைந்` | verified | `pages/0235-pudhaiyal.md` |
+| 236 | 232 | chapter 26; begins `திருந்தன.` | verified | `pages/0236-pudhaiyal.md` |
+| 237 | 233 | chapter 26; ends `அந்தப் பிடியி` | verified | `pages/0237-pudhaiyal.md` |
+| 238 | 234 | chapter 26; begins `லிருந்து`; ends `வெளியே ஓடினாள்.` | verified | `pages/0238-pudhaiyal.md` |
+| 239 | 235 | chapter 26; ends `என்ன செய்` | verified | `pages/0239-pudhaiyal.md` |
+| 240 | 236 | chapter 26 closes; begins `தானே?` | verified | `pages/0240-pudhaiyal.md` |
+| 241 | 237 | chapter 27 begins | verified | `pages/0241-pudhaiyal.md` |
+| 242 | 238 | chapter 27 | verified | `pages/0242-pudhaiyal.md` |
+| 243 | 239 | chapter 27; ends `அங்கே` | verified | `pages/0243-pudhaiyal.md` |
+| 244 | 240 | chapter 27; begins `அடர்ந்திருக்கும்` | verified | `pages/0244-pudhaiyal.md` |
+| 245 | 241 | chapter 27 / part 005 endpoint; ends mid-sentence `இருக்கவே` | verified | `pages/0245-pudhaiyal.md` |
 
 ## Current manifest state
 
 - Tamil Digital Library bibliographic extent: **443 p.**
 - Exact full-PDF scan/page-object count: **pending complete source reconciliation**
-- Page records created: **196**
-- `verified`: **196**
-- `needs-review`: **0**
+- Page records created: **245**
+- `verified`: **238**
+- `needs-review`: **7 — scans 215–219, 223–224**
 - `partial`: **0**
-- unresolved readings through scan 196: **0**
-- Parts 001–004: **part-complete**
-- full-source page-map coverage: **INCOMPLETE beyond scan 196**
+- clean contiguous fully verified range: **1–214**
+- later individually source-verified coverage: through **245**, except those seven damaged records
+- Parts 001–005: **part-complete at split level**
+- assembled Tamil / English split-level review: **through scan 245 with the seven source-damage qualifications retained**
+- full-source page-map coverage: **INCOMPLETE beyond scan 245**
 - source PDF / split PDFs stored in repository: **No**
 
 ## Structural checkpoints — directly mapped range
@@ -238,10 +289,15 @@ Extent reconciliation: [`../notes/source-page-count-reconciliation.md`](../notes
 - chapter 19 — scan 172 begins; scan 179 closes / chapter 20 begins
 - chapter 20 — scan 187 closes / chapter 21 begins
 - chapter 21 — scan 196 closes / chapter 22 begins
-- chapter 22 — begins on scan 196 and continues beyond Part 004
+- chapter 22 — scan 196 begins; scan 205 closes
+- chapter 23 — scan 206 begins; scan 214 closes
+- chapter 24 — scan 215 begins; scan 225 closes
+- chapter 25 — scan 226 begins; scan 235 closes / chapter 26 begins
+- chapter 26 — scan 240 closes
+- chapter 27 — scan 241 begins and continues beyond scan 245
 
 The true ending remains unresolved until later split ranges are processed.
 
 ## Exact next activity
 
-Obtain / attach the next source split beginning at **scan 197 / printed page 195** and continue chapter 22 from native source evidence. Do not infer the next text from grammar, context or outside editions.
+Obtain / attach the next source split beginning at **scan 246 / printed page 242** and continue chapter 27 directly after the open scan-245 text `இருக்கவே`. Do not infer the next text from grammar, context or outside editions.
