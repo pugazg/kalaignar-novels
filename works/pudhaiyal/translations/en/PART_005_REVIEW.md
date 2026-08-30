@@ -20,14 +20,24 @@ Tamil audit: [`../../notes/part-005-tamil-audit.md`](../../notes/part-005-tamil-
 
 The seven damaged records are not upgraded by this review. Scans 215–219 remain obstructed by repair/tape, including duplicate physical witnesses of printed pages 214–215; scans 223–224 have substantial physical loss. Where native pixels are absent, the user baseline remains provenance-qualified rather than scan-proven.
 
+### 2026-08-30 old-glyph integrity correction
+
+A retrospective high-resolution audit found that an earlier assistant pass had repeatedly mistaken this edition's old/faint final `லை` for bare `ல்`. Readable scans **198, 199, 201, 207, 214, 220, 221, 225, 228, 229, 230, 231, 233, 234, 235, 238, 239, 241, 242, 243, 244 and 245** were corrected in canonical Tamil and the assembled Tamil chapters 22–27 were re-synchronized.
+
+Examples of the corrected Tamil authority include `தவறொன்றுமில்லை`, `அதுதான் இல்லை`, `எனக்குக் கவலையில்லை`, `இறக்கவில்லை`, `புரியவில்லை`, `முடியவில்லை`, `வரவில்லை`, `தேவையில்லை`, and `நிமிஷங்கூட ஆகவில்லை`. The old shortened assistant claims are no longer source authority.
+
+This was not a normalization pass: source-specific forms such as scan 229 `தீண்ட வில்லையே` and scan 244's first `தெரியவில்லையே` remain unchanged where the native pixels support them. See [`../../notes/old-glyph-retrospective-audit-120-245.md`](../../notes/old-glyph-retrospective-audit-120-245.md).
+
+Restoring the missed final `லை` does not alter the intended negative sense of the affected English passages, so no semantic English prose rewrite was required. This review is re-affirmed against the corrected Tamil authority.
+
 ## Assembled Tamil inventory reviewed
 
-- `sections/22-chapter-22.md` — scans 196–205; closes the chapter begun in Part 004;
-- `sections/23-chapter-23.md` — scans 206–214;
-- `sections/24-chapter-24.md` — scans 215–225, with explicit source-damage qualification for scans 215–219 and 223–224;
-- `sections/25-chapter-25.md` — scans 226–235 chapter-25 portion;
-- `sections/26-chapter-26.md` — scan 235 chapter-26 portion through scan 240;
-- `sections/27-chapter-27.md` — scans 241–245; chapter remains open beyond the derivative.
+- `../../sections/22-chapter-22.md` — scans 196–205; closes the chapter begun in Part 004; re-synchronized for scans 198, 199 and 201;
+- `../../sections/23-chapter-23.md` — scans 206–214; re-synchronized for scans 207 and 214;
+- `../../sections/24-chapter-24.md` — scans 215–225, with explicit source-damage qualification for scans 215–219 and 223–224; readable scans 220, 221 and 225 corrected;
+- `../../sections/25-chapter-25.md` — scans 226–235 chapter-25 portion; corrected readable old-glyph forms through scan 235;
+- `../../sections/26-chapter-26.md` — scan 235 chapter-26 portion through scan 240; corrected scans 235, 238 and 239;
+- `../../sections/27-chapter-27.md` — scans 241–245; corrected readable old-glyph forms; chapter remains open beyond the derivative.
 
 Duplicate physical witnesses at scans 218–219 remain in the canonical `pages/` provenance layer and are not duplicated as narrative text in the assembled layer.
 
@@ -59,7 +69,7 @@ The English layer was checked against the audited canonical Tamil and assembled 
 - scan **237 → 238** joins `அந்தப் பிடியி` + `லிருந்து` = `அந்தப் பிடியிலிருந்து`;
 - scan **239 → 240** joins `என்ன செய்` + `தானே?`, preserving the source-supported question rather than the earlier baseline form;
 - scan **243 → 244** continues `அங்கே` + `அடர்ந்திருக்கும்` in one sentence;
-- source-specific forms such as `தவறொன்றுமில்ல`, `அதுதான் இல்ல`, `எனக்குக் கவலையில்ல`, `புரியவில்ல`, `தேவையில்ல`, `வீணுக`, `நன்றுக`, `தன் ஆசை அத்தான்`, `தன் இதழ்கள்`, and `நிமிஷங்கூட ஆகவில்ல` remain untouched in the Tamil authority; English conveys their supported sense without silently rewriting Tamil;
+- corrected Tamil old-glyph forms are now the authority; genuine source-odd forms such as `வீணுக`, `நன்றுக`, `தன் ஆசை அத்தான்`, `தன் இதழ்கள்`, `ஒரு புதுவழி`, `சந்திக்கும்போதெல்லாம்`, scan 229 `தீண்ட வில்லையே`, and scan 244's first `தெரியவில்லையே` remain preserved where source-supported;
 - remembered diary material, prison accounts, folklore, religious claims, political commentary and the treasure explanation remain attributed to the source narration/dialogue rather than presented as independently verified outside facts;
 - violence, sexual exploitation, caste/social references, grief, satire, romance and political rhetoric are translated without intentional softening or intensification;
 - no substantive narrative sentence or dialogue in the represented Part-005 text is intentionally omitted;
@@ -67,16 +77,16 @@ The English layer was checked against the audited canonical Tamil and assembled 
 
 ## Split-boundary gate
 
-The Part-004 endpoint is closed by Part-005 evidence. Part 005 itself ends in the middle of chapter 27 and in the middle of a sentence. The next derivative must begin at **source scan 246 / printed page 242** and continue directly from `இருக்கவே` using native source evidence.
+The Part-004 endpoint is closed by Part-005 evidence. Part 005 itself ends in the middle of chapter 27 and in the middle of a sentence. Part 006 begins at **source scan 246 / printed page 242** and has already established the direct continuation `இருக்கவே இருக்கிறாள் பரிமளா, ...` from native evidence.
 
 ## Verdict
 
 - physical-page inventory for Part 005: **PASS — 49 / 49 represented**
-- native fidelity on readable records: **PASS — 42 verified**
+- native fidelity on readable records: **PASS — 42 verified after old-glyph reinspection**
 - source-damage disposition: **PASS — 7 records explicitly retained `needs-review`**
 - Part-005 Tamil audit: **PASS WITH SOURCE-DAMAGE QUALIFICATION**
-- incremental assembled Tamil through Part 005: **PASS WITH THE SAME QUALIFICATION**
-- English source check through Part 005: **PASS WITH THE SAME QUALIFICATION**
+- incremental assembled Tamil through Part 005: **PASS WITH THE SAME QUALIFICATION / re-synchronized**
+- English source check through Part 005: **PASS — no semantic rewrite required by restored final `லை` forms**
 - Part-005 bilingual review: **PASS WITH THE SAME QUALIFICATION**
 - Part-005 state: **`part-complete`**
 - continuous split-level bilingual review: **scans 1–245**, with the seven Part-005 source-damage qualifications retained
