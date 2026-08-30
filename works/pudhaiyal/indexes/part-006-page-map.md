@@ -8,10 +8,10 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - derivative file size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - source/split PDF committed: **No**
-- canonical records created so far: **21 / 49 — scans 246–266**
-- verified so far: **21**
+- canonical records created so far: **22 / 49 — scans 246–267**
+- verified so far: **22**
 - needs-review in Part 006 so far: **0**
-- not-started: **28 — scans 267–294**
+- not-started: **27 — scans 268–294**
 - split state: **`in-progress`**
 
 The derivative boundary at scan 245→246 is provenance only. Native source establishes the continuation `இருக்கவே` + `இருக்கிறாள் பரிமளா, ...`; no word, sentence or chapter boundary is created by the split.
@@ -39,8 +39,8 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 | 264 | 260 | chapter 30 | verified | `../pages/0264-pudhaiyal.md`; old/faint `ா` correction confirms `என்னா`; ends `பேசக்கூட விடமாட்டேங்கிறீர்களே!”` |
 | 265 | 261 | chapter 30 | verified | `../pages/0265-pudhaiyal.md`; ends `என்றெல்லாம்!` |
 | 266 | 262 | chapter 30 | verified | `../pages/0266-pudhaiyal.md`; ends mid-sentence `அதில், என்` |
-| 267 | 263 | chapter 30 | not-started | next transcription page; must continue scan 266 sentence |
-| 268 | 264 | chapter 30 | not-started | — |
+| 267 | 263 | chapter 30 | verified | `../pages/0267-pudhaiyal.md`; continues `அதில், என் பாதியை...`; ends `கனவு கண்டார்களோ, என்னமோ?”` |
+| 268 | 264 | chapter 30 | not-started | next transcription page |
 | 269 | 265 | chapter 30 | not-started | — |
 | 270 | 266 | chapter 30 | not-started | — |
 | 271 | 267 | chapter 30 closes / chapter 31 begins | not-started | source-printed chapter heading 31 |
@@ -79,7 +79,7 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 - chapter 32 begins scan **278 / printed 274**;
 - chapter 33 begins scan **288 / printed 284** and continues through the derivative endpoint.
 
-These observations map structure only for scans 267–294; those pages remain `not-started` until text is directly reconciled against native pixels.
+These observations map structure only for scans 268–294; those pages remain `not-started` until text is directly reconciled against native pixels.
 
 ## Current continuity joins / transitions
 
@@ -92,9 +92,10 @@ These observations map structure only for scans 267–294; those pages remain `n
 - 262→263: `துக்காராமுக்கோ,` + `ஆனந்தம் தாங்கவில்லை.`;
 - scan 264 ends a complete dialogue sentence; scan 265 begins `துக்காராம் கோபித்துக் கொண்டான்.`;
 - scan 265 ends `பேசினான் — ‘மாட்டேன்! முடியாது!’ என்றெல்லாம்!`; scan 266 begins new narration;
-- scan 266 ends mid-sentence at `அதில், என்`; scan 267 must continue that same sentence.
+- 266→267: `அதில், என்` + `பாதியை நானும்...` = `அதில், என் பாதியை நானும் என் காதலி பரிமளாவுந்தானே அனுபவிக்க வேண்டும்!`;
+- scan 267 ends a complete dialogue sentence; scan 268 continues chapter 30 with new narration.
 
-## Current native findings — scans 263–266
+## Current native findings — scans 263–267
 
 ### Scan 263 / printed 259
 
@@ -108,7 +109,6 @@ These observations map structure only for scans 267–294; those pages remain `n
 - user baseline **`என்னா`** is confirmed by enlarged native pixels; earlier assistant `என்ன` is withdrawn;
 - faint/old `ா` after `ன்ன` is a demonstrated source-reading hazard;
 - canonical source punctuation is `என்னா — தெரியாது மாதிரி விழிக்கிறே?`;
-- source punctuation also confirms `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, and `வந்தேனே......`;
 - second old-typeform pass confirms complete `புரியவில்லை`, including final `லை`;
 - page ends `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
 
@@ -129,7 +129,19 @@ These observations map structure only for scans 267–294; those pages remain `n
 - page ends mid-sentence `அதில், என்`;
 - unresolved readings: **0**.
 
-No unresolved glyph remains through scan 266.
+### Scan 267 / printed 263
+
+- 266→267 continuity closes as `அதில், என் பாதியை நானும் என் காதலி பரிமளாவுந்தானே அனுபவிக்க வேண்டும்!`;
+- second old-typeform inspection confirms **`பாதிப் புதையலை`** with the final `லை`; the old glyph is not `புதையலில்`;
+- source prints `கேட்டதால்தானே` continuously;
+- baseline `புதைக்கப்பட்டிருக்கிறது` → source **`புதைக்கப்பட்டது`**;
+- baseline `துக்காராம் சொன்னானா` → source **`துக்காராம் சொன்னது, இல்லையா?`**;
+- source-specific separated `பேசிக் கொள்ள வில்லையே` is retained;
+- baseline `கனவு கண்டீர்களோ` → source **`கனவு கண்டார்களோ`**;
+- page ends with the complete dialogue `“நானும் இவரும் அப்படியொன்றும் பேசிக் கொள்ள வில்லையே—ஒருவேளை கனவு கண்டார்களோ, என்னமோ?”`;
+- unresolved readings: **0**.
+
+No unresolved glyph remains through scan 267.
 
 ## Fidelity records
 
@@ -146,7 +158,8 @@ No unresolved glyph remains through scan 266.
 - scan 264 old-glyph correction: `../notes/old-glyph-correction-scan-264.md`
 - scan 265: `../notes/visual-fidelity-scan-265.md`
 - scan 266: `../notes/visual-fidelity-scan-266.md`
+- scan 267: `../notes/visual-fidelity-scan-267.md`
 
 ## Exact next activity
 
-Reconcile **scan 267 / printed page 263** directly against native Part-006 source pixels, first continuing scan 266's mid-sentence endpoint `அதில், என்`. Apply the strengthened two-pass old-typeform rule to all vowel signs and line-wrap questions before overriding any baseline character or spacing. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
+Reconcile **scan 268 / printed page 264** directly against native Part-006 source pixels, continuing chapter 30. Apply the strengthened two-pass old-typeform rule to all vowel signs and line-wrap questions before overriding any baseline character or spacing. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
