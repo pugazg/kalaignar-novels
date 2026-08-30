@@ -63,6 +63,20 @@ If something looks like a typo but the scan supports it, preserve it.
 
 If a reading is uncertain, do not guess from context. Mark it `needs-review` and revisit the source visually.
 
+### OLD / HISTORICAL TAMIL GLYPH PRE-CORRECTION CHECK
+
+Before overriding a supplied/user baseline because a final character, vowel sign, or combining mark appears absent or different:
+
+1. enlarge the **complete glyph cluster** at high resolution — not only the apparent terminal stroke;
+2. explicitly consider old/historical Tamil typeforms, worn ink, faint vowel marks, ligatures, and uneven printing;
+3. inspect the glyph at more than one useful zoom/contrast when the mark is faint;
+4. compare the same typeform elsewhere in the same edition when useful;
+5. change the baseline only when **positive native-pixel evidence** establishes a different reading;
+6. if pixels remain genuinely ambiguous, retain the baseline and mark the reading `needs-review` rather than guessing;
+7. never apply a global normalization or de-normalization rule from one confirmed glyph discovery.
+
+A documented example in `புதையல்`: the old/faint final `லை` in `இல்லை` / `வில்லை` forms was initially mistaken for bare `ல்`, producing false assistant corrections such as `தெரியவில்லை` → `தெரியவில்ல`. The same edition also contains genuine source forms such as `தீண்ட வில்லையே` and `தெரியவில்லையே`, so mechanical replacement in either direction is prohibited.
+
 Separate printed text from:
 
 - library stamps;
@@ -134,6 +148,7 @@ Before translation:
 - page map / metadata / README statuses must agree;
 - page-boundary continuity must be checked;
 - internal structure must be correctly identified;
+- difficult / old-type glyph corrections must have passed the pre-correction visual check above;
 - Tamil `audit.md` must pass;
 - source PDF must still be outside the repository.
 
