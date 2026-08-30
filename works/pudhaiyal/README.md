@@ -27,7 +27,7 @@ A derivative boundary is provenance only and must never create a false narrative
 | Part 002 | 50–98 | **part-complete** |
 | Part 003 | 99–147 | **part-complete** |
 | Part 004 | 148–196 | **part-complete** |
-| Part 005 | 197–245 | **in progress — 20 records / 18 verified / 2 needs-review** |
+| Part 005 | 197–245 | **in progress — 32 records / 25 verified / 7 needs-review** |
 
 ## Part 005 — current derivative
 
@@ -35,27 +35,45 @@ Source: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
 
 - split pages: **49**
 - source scans: **197–245**
-- current page records: **197–216 — 20**
-- verified: **197–214 — 18**
-- needs-review: **215–216 — 2**
-- remaining not-started: **217–245 — 29**
+- records created: **197–228 — 32**
+- verified: **25**
+- needs-review: **7 — scans 215–219, 223–224**
+- remaining not-started: **229–245 — 17**
 - derivative map: [`indexes/part-005-page-map.md`](indexes/part-005-page-map.md)
-- fidelity record: [`notes/visual-fidelity-scans-197-216.md`](notes/visual-fidelity-scans-197-216.md)
+- fidelity records:
+  - [`notes/visual-fidelity-scans-197-216.md`](notes/visual-fidelity-scans-197-216.md)
+  - [`notes/visual-fidelity-scans-217-228.md`](notes/visual-fidelity-scans-217-228.md)
 - source/split PDF committed: **No**
 
-Chapter 22 continues from Part 004 through scans 197–205 and closes on scan 205. Source-printed chapter **23** begins on scan 206 and closes on scan 214. Source-printed chapter **24** begins on scan 215.
+### Structure established
 
-Scans **215 / printed 213** and **216 / printed 214** contain a broad repair/tape obstruction across body text. The user baseline has been retained rather than guessed over, but those two pages remain `needs-review`. A later duplicate physical scan of printed page 214 is present in the derivative and must be assessed independently as an alternate witness.
+- chapter 22 continues from Part 004 and closes on scan 205;
+- chapter 23 begins on scan 206 and closes on scan 214;
+- chapter 24 begins on scan 215 and closes on scan 225;
+- chapter **25** begins on scan 226 and continues beyond scan 228.
 
-Important newly closed readings include source `இல்ல`, restored `சுபம்!`, `தீட்டிய அரிவாளால்!`, `சொந்தப் புருஷனை என்னையே`, and scan-214 Mayandi's explicit `இல்ல` response.
+### Part-005 source anomalies
+
+The derivative physically repeats printed pages **214–215**:
+
+- scan 216 → printed 214
+- scan 217 → printed 215
+- scan 218 → printed 214 again
+- scan 219 → printed 215 again
+
+These are retained as separate source/provenance records. The duplicate witnesses carry essentially the same repair/tape obstruction and do not resolve the hidden letters.
+
+Printed pages **219–220** (scans 223–224) are physically torn with large missing regions. Their supplied baseline text is retained, but those scans remain `needs-review`.
+
+Important source-confirmed forms in Iteration 20 include `அதுதான் இல்ல!`, `எனக்குக் கவலையில்ல!`, `அப்பா இறக்கவில்ல`, `கையிலே இல்ல`, `கையில்ல`, `கேட்கவில்ல`, `முடியவில்ல`, `மருங்கப்பள்ளம் கிராமம் தான்`, and `புரியவில்ல`.
 
 ## Aggregate archival status
 
-- canonical Tamil page records: **216**
-- verified: **214**
-- needs-review: **2** — scans 215–216
+- canonical Tamil page records: **228**
+- verified: **221**
+- needs-review: **7**
 - partial: **0**
-- verified continuously without unresolved readings through scan **214 / printed page 212**
+- clean fully verified range remains continuous through scan **214 / printed page 212** because the damaged Part-005 pages follow it
 - backward integrity audit: **COMPLETE through scan 118**
 - Parts 001–004: **part-complete**
 - Part 005: **in progress**
@@ -65,4 +83,6 @@ Important newly closed readings include source `இல்ல`, restored `சு�
 
 ## Exact next activity
 
-Use the later repeated physical witness(es) to determine whether any tape-obscured letters on scans **215–216** can be source-resolved without inference. Keep unresolved text `needs-review` if not. Then continue canonical transcription from **scan 217 / printed page 215**.
+Continue canonical transcription from **scan 229 / printed page 225 / Part-005 split page 33**. Scan 228 ends at `‘கள்வர் புகும்`; native scan 229 visibly continues `வழியிலே’`.
+
+Do not start Part-005 assembled Tamil or English until all 49 physical scans have canonical records and the Part-005 Tamil audit is eligible. Existing `needs-review` pages must remain explicit unless stronger source evidence resolves them.
