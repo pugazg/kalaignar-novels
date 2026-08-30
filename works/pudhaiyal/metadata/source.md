@@ -25,6 +25,12 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 003 | `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf` | 99–147 | 97–145 | **49/49 verified; part-complete** |
 | 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **49/49 verified; part-complete** |
 | 005 | `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf` | 197–245 | 195–241 | **49/49 represented; 42 verified + 7 source-damage needs-review; part-complete with qualification** |
+| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 4 verified (246–249); 45 not-started; in progress** |
+
+Part-006 derivative byte record:
+
+- file size: **57,056,182 bytes**;
+- SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`.
 
 No split PDF is committed to GitHub.
 
@@ -42,17 +48,21 @@ No split PDF is committed to GitHub.
 
 ## Current structural checkpoints
 
-- scan 196 closes chapter 21 / begins chapter 22
-- scan 205 closes chapter 22
-- scan 206 begins chapter 23
-- scan 214 closes chapter 23
-- scan 215 begins chapter 24
-- scan 225 closes chapter 24
-- scan 226 begins chapter 25
-- scan 235 closes chapter 25 / begins chapter 26
-- scan 240 closes chapter 26
-- scan 241 begins chapter 27
-- scan 245 / printed 241 ends mid-sentence at `இருக்கவே`; chapter 27 continues in the next derivative
+Textually reconciled source:
+
+- scan 241 begins chapter 27;
+- scan 245 / printed 241 ends mid-sentence at `இருக்கவே`;
+- scan 246 / printed 242 begins `இருக்கிறாள் பரிமளா, ...`, directly continuing the sentence;
+- scan 247 closes chapter 27 and begins source-printed chapter 28;
+- scans 248–249 continue chapter 28.
+
+Complete Part-006 physical inspection additionally maps later source-printed chapter starts without claiming textual verification of those pages:
+
+- chapter 29 begins scan 254 / printed 250;
+- chapter 30 begins scan 262 / printed 258;
+- chapter 31 begins scan 271 / printed 267;
+- chapter 32 begins scan 278 / printed 274;
+- chapter 33 begins scan 288 / printed 284 and continues through scan 294 / printed 290.
 
 ## Part-005 physical anomalies
 
@@ -65,26 +75,22 @@ No split PDF is committed to GitHub.
 
 ## Canonical Tamil state
 
-- page records created: **245**
-- verified: **238**
+- page records created: **249**
+- verified: **242**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later individual scans are verified through scan **245**, except the seven damaged physical records
+- later individual scans are verified through scan **249**, except the seven damaged physical records
 - Parts 001–005: **part-complete at split level**
-- Part 005 Tamil audit: **source-damage-closed**
-- Part 005 assembled Tamil / English / bilingual review: **completed with the same source-damage qualification**
+- Part 006: **in progress — 4 / 49 canonical pages verified**
+- assembled Tamil / English / bilingual review: **completed only through Part 005 / scan 245**
 - backward integrity audit: **COMPLETE through scan 118**
 
-Part-005 records:
+Part-006 records:
 
-- [`../indexes/part-005-page-map.md`](../indexes/part-005-page-map.md)
-- [`../notes/visual-fidelity-scans-197-216.md`](../notes/visual-fidelity-scans-197-216.md)
-- [`../notes/visual-fidelity-scans-217-228.md`](../notes/visual-fidelity-scans-217-228.md)
-- [`../notes/visual-fidelity-scans-229-238.md`](../notes/visual-fidelity-scans-229-238.md)
-- [`../notes/visual-fidelity-scans-239-245.md`](../notes/visual-fidelity-scans-239-245.md)
-- [`../notes/part-005-tamil-audit.md`](../notes/part-005-tamil-audit.md)
-- [`../translations/en/PART_005_REVIEW.md`](../translations/en/PART_005_REVIEW.md)
+- [`../indexes/part-006-page-map.md`](../indexes/part-006-page-map.md)
+- [`../notes/visual-fidelity-scans-246-249.md`](../notes/visual-fidelity-scans-246-249.md)
+- canonical pages `../pages/0246-pudhaiyal.md` through `../pages/0249-pudhaiyal.md`.
 
 ## Completeness still open
 
@@ -92,8 +98,9 @@ Part-005 records:
 - exact full scan-object count: **pending**
 - original full-source SHA-256: **pending**
 - true ending / back matter: **not yet inspected**
-- source range beyond scan 245: **not yet established in repository**
+- Part-006 text beyond scan 249: **not yet reconciled**
+- source range beyond scan 294: **not yet supplied/reconciled**
 
 ## Exact next action
 
-Obtain / attach the next source derivative beginning at **scan 246 / printed page 242** and resume chapter 27 directly from native source evidence after `இருக்கவே`. Do not infer the continuation.
+Reconcile the next user-supplied Part-006 transcription batch beginning at **scan 250 / printed page 246** directly against native source pixels.

@@ -10,7 +10,8 @@ The first onboarding pass incorrectly treated scans **1–150** as the complete 
 Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.** and exposes the item as **PDF — 2 Files**. The repository therefore distinguishes:
 
 - bibliographic printed extent: **443 p.**;
-- canonical source-scan records currently created: **1–245**;
+- source scans currently represented by received derivatives: **1–294**;
+- canonical source-scan records currently created: **1–249**;
 - exact original PDF scan/page-object count: **still pending**.
 
 ## Authority distinction
@@ -30,8 +31,40 @@ Received access derivatives:
    - native verified: **42**
    - needs-review: **7 — scans 215–219, 223–224**
    - assembled Tamil / English / bilingual review: **completed with the same qualification**
+6. Part 006 — scans **246–294 / printed 242–290** — **in progress**
+   - physical pages mapped: **49 / 49**
+   - canonical records created: **4 / 49 — scans 246–249**
+   - native verified: **4**
+   - needs-review: **0**
+   - not-started: **45 — scans 250–294**
+   - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 
 No split is committed to GitHub.
+
+## Part-006 opening reconciliation
+
+The mandatory cross-split test is source-established:
+
+- scan 245 / printed 241 ends `இருக்கவே`;
+- scan 246 / printed 242 begins `இருக்கிறாள் பரிமளா, ...`;
+- source continuity is therefore `இருக்கவே இருக்கிறாள் பரிமளா, ...`.
+
+No derivative-created word, sentence, paragraph, scene or chapter boundary is inserted.
+
+The first Part-006 baseline batch, scans 246–249 / printed 242–245, is **4 / 4 verified**. See [`visual-fidelity-scans-246-249.md`](visual-fidelity-scans-246-249.md).
+
+## Part-006 physical structure map
+
+Full physical-page inspection of the 49-page derivative establishes printed page labels **242–290** and these chapter transitions:
+
+- chapter 28 begins scan 247 / printed 243;
+- chapter 29 begins scan 254 / printed 250;
+- chapter 30 begins scan 262 / printed 258;
+- chapter 31 begins scan 271 / printed 267;
+- chapter 32 begins scan 278 / printed 274;
+- chapter 33 begins scan 288 / printed 284 and continues through scan 294 / printed 290.
+
+This is structure mapping only for scans 250–294; their text remains `not-started` until native reconciliation.
 
 ## Part-005 source anomalies
 
@@ -52,49 +85,35 @@ These seven records remain `needs-review` after Part-005 completion. The split-l
 
 Earlier assistant visual passes introduced multiple false source readings. The central correction record is [`backward-integrity-audit-001-118.md`](backward-integrity-audit-001-118.md). The backward integrity audit is **COMPLETE through scan 118**.
 
-## Part-005 forward fidelity
-
-- scans 197–216 — [`visual-fidelity-scans-197-216.md`](visual-fidelity-scans-197-216.md)
-- scans 217–228 — [`visual-fidelity-scans-217-228.md`](visual-fidelity-scans-217-228.md)
-- scans 229–238 — [`visual-fidelity-scans-229-238.md`](visual-fidelity-scans-229-238.md) — **10 / 10 verified**
-- scans 239–245 — [`visual-fidelity-scans-239-245.md`](visual-fidelity-scans-239-245.md) — **7 / 7 verified**
-
-Current chapter structure through the known source:
-
-- chapter 22 closes scan 205;
-- chapter 23 begins 206 / closes 214;
-- chapter 24 begins 215 / closes 225;
-- chapter 25 begins 226 / closes 235;
-- chapter 26 begins on scan 235 / closes 240;
-- chapter 27 begins scan 241 and continues beyond scan 245;
-- scan 245 ends mid-sentence at `இருக்கவே`.
-
 ## Current textual state
 
-- canonical page records created: **245**
-- verified: **238**
+- canonical page records created: **249**
+- verified: **242**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified range: **1–214**
-- individually source-verified later pages: through scan **245**, except the seven damaged records
+- individually source-verified later pages: through scan **249**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- continuous split-level assembled Tamil / English review: **through scan 245**, with the seven source-damage qualifications retained
-- full-source manifest: **INCOMPLETE beyond scan 245**
+- Part 006: **in progress**
+- continuous split-level assembled Tamil / English review: **through scan 245 only**, with the seven source-damage qualifications retained
+- source scans physically mapped from received derivatives: **through scan 294**
+- full-source manifest: **still incomplete beyond scan 294**
 
 ## Full-source extent track
 
 Still required:
 
-1. obtain later source splits beyond scan 245, beginning with scan **246 / printed page 242**;
-2. continue chapter 27 directly from the open scan-245 endpoint `இருக்கவே`;
-3. process every later source scan under the same canonical/fidelity/split workflow;
-4. identify true final text / back matter / closing leaves;
-5. determine exact original PDF scan/page-object count;
-6. calculate the exact original full-source SHA-256 when byte-level access is available;
-7. only after complete-source coverage, run final whole-work Tamil and bilingual audits and release-readiness checks.
+1. reconcile Part-006 scans **250–294** under the same canonical/fidelity workflow;
+2. complete the Part-006 Tamil audit, assembled Tamil, controlled English and bilingual review before calling Part 006 `part-complete`;
+3. obtain later source splits beyond scan 294;
+4. process every later source scan under the same workflow;
+5. identify true final text / back matter / closing leaves;
+6. determine exact original PDF scan/page-object count;
+7. calculate the exact original full-source SHA-256 when byte-level access is available;
+8. only after complete-source coverage, run final whole-work Tamil and bilingual audits and release-readiness checks.
 
 Do not infer any of those values from the TDL printed-page count.
 
 ## Exact next activity
 
-Obtain / attach the next source derivative beginning at **scan 246 / printed page 242** and continue chapter 27 from native source evidence after `இருக்கவே`.
+Reconcile the next Part-006 transcription batch beginning at **scan 250 / printed page 246** directly against native source pixels.

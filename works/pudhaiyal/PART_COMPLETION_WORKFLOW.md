@@ -27,6 +27,34 @@ A part Tamil gate normally passes with all pages verified. Where the controlling
 - Part 004 — scans **148–196** — **`part-complete`**
 - Part 005 — scans **197–245** — **`part-complete` with explicit source-damage qualification**
 
+## Active split — Part 006
+
+Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
+
+- physical pages / mapped source scans: **49 / 49 — scans 246–294**
+- visible printed pages: **242–290**
+- derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
+- canonical records: **4 / 49 — scans 246–249**
+- verified: **4**
+- needs-review: **0**
+- not-started: **45 — scans 250–294**
+- current native-fidelity record: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md)
+- Tamil audit: **not eligible**
+- assembled Tamil: **not eligible**
+- controlled English: **not eligible**
+- bilingual review: **not eligible**
+- state: **`in-progress`**
+
+Mandatory opening continuity is closed from native evidence:
+
+- scan 245 ends `இருக்கவே`;
+- scan 246 begins `இருக்கிறாள் பரிமளா, ...`;
+- joined reading: `இருக்கவே இருக்கிறாள் பரிமளா, ...`.
+
+Part-006 mapped chapter transitions: chapter 28 begins scan 247; 29 begins 254; 30 begins 262; 31 begins 271; 32 begins 278; 33 begins 288.
+
+Do not run the Part-006 Tamil audit or any downstream stage until all scans 246–294 have canonical records and native-fidelity dispositions.
+
 ## Part 005 — durable completion record
 
 Source derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
@@ -48,16 +76,6 @@ Source-condition exceptions remain permanently explicit unless stronger source e
 - user baseline is retained where source pixels are hidden, but those scans remain `needs-review`;
 - no uncertainty is closed from grammar/context alone.
 
-Structure established:
-
-- chapter 22 closes on scan **205**;
-- chapter 23 begins scan **206**, closes scan **214**;
-- chapter 24 begins scan **215**, closes scan **225**;
-- chapter 25 begins scan **226**, closes scan **235**;
-- chapter **26** begins on scan **235**, closes scan **240**;
-- chapter **27** begins scan **241** and continues beyond the Part-005 endpoint;
-- scan **245 / printed 241** ends mid-sentence at `இருக்கவே`.
-
 ## Exact next activity
 
-Obtain / attach the next source split beginning at **scan 246 / printed page 242**. Continue chapter 27 directly from the source after `இருக்கவே`. Do not infer the continuation, and do not treat Part 005's derivative endpoint as a chapter or novel ending.
+Reconcile the next Part-006 transcription batch beginning at **scan 250 / printed page 246** directly against native source pixels. Continue chapter 28 without treating the batch or derivative boundary as a narrative boundary.

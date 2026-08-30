@@ -1,6 +1,6 @@
 # Tamil / split-part audit — புதையல்
 
-Status: **IN PROGRESS — Parts 001–005 part-complete at split level; whole-work gate not yet eligible**
+Status: **IN PROGRESS — Parts 001–005 part-complete; Part 006 canonical/native-fidelity work underway; whole-work gate not eligible**
 
 Source: `TVA_BOK_0064097_புதையல்.pdf`
 
@@ -14,70 +14,84 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 | 004 | 148–196 | PASSED | PASSED | PASSED | part-complete |
 | 005 | 197–245 | **SOURCE-DAMAGE-CLOSED** | **PASSED WITH QUALIFICATION** | **PASSED WITH QUALIFICATION** | **part-complete** |
 
-## Part 005 — completed split checkpoint
+## Part 006 — active canonical/fidelity stage
 
-Derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
+Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
+
+- physical pages mapped: **49 / 49 — scans 246–294 / printed 242–290**
+- canonical records created: **4 / 49 — scans 246–249**
+- verified: **4**
+- needs-review: **0**
+- partial: **0**
+- not-started: **45 — scans 250–294**
+- derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
+- native-fidelity record: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md) — **4 / 4 verified**
+- Part-006 Tamil audit: **NOT ELIGIBLE**
+- assembled Tamil / English / bilingual review: **NOT ELIGIBLE**
+- state: **`in-progress`**
+
+### Mandatory split-boundary check
+
+Native evidence establishes:
+
+- scan 245 ends `இருக்கவே`;
+- scan 246 begins `இருக்கிறாள் பரிமளா, ...`;
+- source join: `இருக்கவே இருக்கிறாள் பரிமளா, ...`.
+
+This derivative boundary creates no narrative break.
+
+### Current verified joins
+
+- 245→246: `இருக்கவே` + `இருக்கிறாள் ...`;
+- 247→248: `இன்` + `னும்` = `இன்னும்`;
+- 248→249: `அவ` + `தாரம்` = `அவதாரம்`.
+
+### Material Iteration-23 baseline corrections
+
+Native pixels require, among other punctuation corrections:
+
+- scan 246: `தெரியவில்லை` → `தெரியவில்ல`;
+- scan 246: `தாளவில்லை` → `தாளவில்ல`;
+- scan 246: `அந்த இருட்டில-` → `அந்த இருட்டிலே —`;
+- scan 248: `புரியவில்லை` → `புரியவில்ல`;
+- scan 248: `திரும்பி வரவில்லை` → `திரும்பி வரவில்ல`;
+- scan 249: source spacing `ஒருவரை யொருவர்`, `செய்ய வில்லையே`, `முடிய வில்லையே` retained.
+
+### Structure mapped in Part 006
+
+- chapter 27 continues from scan 245 and closes on scan 247;
+- chapter 28 begins scan 247;
+- chapter 29 begins scan 254;
+- chapter 30 begins scan 262;
+- chapter 31 begins scan 271;
+- chapter 32 begins scan 278;
+- chapter 33 begins scan 288 and continues through the derivative endpoint.
+
+Only scans 246–249 are textually verified at this checkpoint; structural inspection does not upgrade scans 250–294.
+
+## Part 005 — completed split checkpoint
 
 - records created: **49 / 49 — scans 197–245**
 - verified: **42**
 - needs-review: **7 — scans 215–219, 223–224**
-- partial: **0**
-- not-started: **0**
 - Part-005 Tamil audit: [`notes/part-005-tamil-audit.md`](notes/part-005-tamil-audit.md) — **closed with explicit source-damage exceptions**
-- assembled Tamil: **completed / part-reviewed**
-- English: **completed / source-checked / bilingual review passed with the same source-damage qualification**
-- bilingual review: [`translations/en/PART_005_REVIEW.md`](translations/en/PART_005_REVIEW.md)
+- assembled Tamil / controlled English / bilingual review: **completed with the same qualification**
 - state: **`part-complete`**
 
-Fidelity records:
-
-- [`notes/visual-fidelity-scans-197-216.md`](notes/visual-fidelity-scans-197-216.md)
-- [`notes/visual-fidelity-scans-217-228.md`](notes/visual-fidelity-scans-217-228.md)
-- [`notes/visual-fidelity-scans-229-238.md`](notes/visual-fidelity-scans-229-238.md)
-- [`notes/visual-fidelity-scans-239-245.md`](notes/visual-fidelity-scans-239-245.md)
-
-### Source-damage disposition
-
-Scans **215–219** remain obstructed by repair/tape; duplicate printed-page witnesses of pages 214–215 do not expose enough additional pixels to certify the hidden letters. Scans **223–224 / printed pages 219–220** have large physical loss. The user baseline is retained where source pixels are missing, but these seven physical records remain `needs-review`.
-
-Part completion does **not** mean 49/49 native verification. It means the split workflow was allowed to proceed under the explicit source-damage exception established by the approved workflow. No damaged scan has been silently promoted to `verified`.
-
-### Structure
-
-- chapter 22: continues from scan 196; closes scan 205;
-- chapter 23: begins scan 206; closes scan 214;
-- chapter 24: begins scan 215; closes scan 225;
-- chapter 25: begins scan 226; closes scan 235;
-- chapter 26: begins scan 235; closes scan 240;
-- chapter 27: begins scan 241 and continues beyond the Part-005 endpoint;
-- scan 245 / printed 241 ends mid-sentence at `இருக்கவே`.
-
-### Important continuity joins
-
-- 196→197: chapter 22 continues across the split boundary;
-- 204→205: `குதூகலமு` + `மாக` = `குதூகலமுமாக`;
-- 206→207: `என்று தனக்குத் தானே` + `வருத்தப்பட்டுக்கொண்டான் துரை.`;
-- 208→209: `வெளி` + `யிலே` = `வெளியிலே`;
-- 212→213: `அவனிடம்` + `பெற்ற பாடம்`;
-- 216/218 printed 214 → 217/219 printed 215: duplicate physical witnesses, not duplicate narrative passages;
-- 227→228: `சிறு` + `கல்லும்` = `சிறு கல்லும்`;
-- 228→229: `‘கள்வர் புகும்` + `வழியிலே’`;
-- 230→231: `அவன் கண்` + `கள்` = `அவன் கண்கள்`;
-- 235→236: `அமைந்` + `திருந்தன.` = `அமைந்திருந்தன.`;
-- 237→238: `அந்தப் பிடியி` + `லிருந்து` = `அந்தப் பிடியிலிருந்து`;
-- 239→240: `என்ன செய்` + `தானே?`;
-- 243→244: `அங்கே` + `அடர்ந்திருக்கும்` continues one sentence.
+The seven damaged physical records remain `needs-review`; Part-005 completion does not promote them to verified.
 
 ## Aggregate canonical state
 
-- records created: **245**
-- verified: **238**
+- records created: **249**
+- verified: **242**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later individually verified coverage: through scan **245**, except the seven explicitly damaged scans
-- continuous split-level assembled Tamil / English review: through scan **245**, with those seven qualifications retained
-- full-source coverage: incomplete beyond scan 245
+- later individually verified coverage: through scan **249**, except the seven explicitly damaged scans
+- Parts 001–005: **part-complete at split level**
+- Part 006: **in progress — 4 / 49 verified**
+- continuous split-level assembled Tamil / English review: through scan **245** only
+- full-source physical coverage from received derivatives: mapped through scan **294**, but canonical text only through scan 249
 
 ## Whole-work gate
 
@@ -85,4 +99,4 @@ Part completion does **not** mean 49/49 native verification. It means the split 
 
 ## Exact next activity
 
-Obtain / attach the next source derivative beginning at **scan 246 / printed page 242**. Resume chapter 27 directly from the open scan-245 endpoint `இருக்கவே`; do not infer the continuation from grammar, context or outside editions.
+Reconcile the next Part-006 transcription batch beginning at **scan 250 / printed page 246** against native source pixels. Do not run Part-006 Tamil audit or downstream gates yet.

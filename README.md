@@ -18,7 +18,7 @@
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **245 records / 238 verified / 7 needs-review; Parts 001–005 part-complete; later source pending** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **249 canonical records / 242 verified / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
 
 ### புதையல் — current source state
 
@@ -30,26 +30,29 @@ Access derivatives:
 - part 002 — scans **50–98** — part-complete;
 - part 003 — scans **99–147** — part-complete;
 - part 004 — scans **148–196** — part-complete;
-- part 005 — scans **197–245** — **part-complete with explicit source-damage qualification**.
+- part 005 — scans **197–245** — **part-complete with explicit source-damage qualification**;
+- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–249 verified; scans 250–294 not-started**.
 
 Current canonical state:
 
-- records — **245**;
-- verified — **238**;
+- records — **249**;
+- verified — **242**;
 - needs-review — **7 (scans 215–219, 223–224)**;
 - partial — **0**;
 - clean contiguous fully verified range — through **scan 214 / printed page 212**;
-- later individual source-verified records — through scan **245**, except the seven explicitly damaged scans;
+- later individual source-verified records — through scan **249**, except the seven explicitly damaged scans;
 - Parts 001–005 — full split workflow complete through assembled Tamil, controlled English and bilingual review;
-- Part 005's seven damaged records remain `needs-review`; `part-complete` does not upgrade them to native verification;
-- assembled Tamil / English split-level review — through scan **245** with those qualifications;
+- Part 006 — canonical/native-fidelity work in progress; **4 / 49** pages verified;
+- assembled Tamil / English split-level review — still through scan **245** only; Part 006 is not yet eligible for downstream gates;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source;
 - source PDF / splits committed — No.
 
-Part 005 closes chapter 22 at scan 205, chapter 23 at 214, chapter 24 at 225, chapter 25 at 235 and chapter 26 at 240. Source-printed chapter **27** begins at scan 241. Scan **245 / printed page 241** ends mid-sentence at `இருக்கவே`; this is only a derivative boundary.
+The Part-005 endpoint at scan **245 / printed 241** ends `இருக்கவே`. Native scan **246 / printed 242** begins `இருக்கிறாள் பரிமளா, ...`; the source therefore establishes the cross-split continuation `இருக்கவே இருக்கிறாள் பரிமளா, ...` without a derivative-created boundary.
 
-Exact next action: obtain the next source derivative beginning at **scan 246 / printed page 242** and continue chapter 27 directly from native source evidence. Do not infer the continuation.
+Part 006 source structure is mapped through scan 294: chapter 28 begins at 247, chapter 29 at 254, chapter 30 at 262, chapter 31 at 271, chapter 32 at 278 and chapter 33 at 288.
+
+Exact next action: reconcile the next Part-006 transcription batch beginning at **scan 250 / printed page 246** directly against native source pixels. Do not start the Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are canonically reconciled.
 
 ## நிறைவு பெற்ற reference work
 
