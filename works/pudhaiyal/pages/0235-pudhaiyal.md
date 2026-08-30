@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 21 baseline reconciled directly against native split part 005 page 39 image"
+transcription_method: "user-supplied Iteration 21 baseline reconciled directly against native split part 005 page 39 image; old-glyph reinspection 2026-08-30"
 ---
 
 முரடனின் கரத்திலே ஒரு கத்தி இருந்தது. முகத்திலே கொலை வெறித் தன்மை இருந்தது!
@@ -20,7 +20,7 @@ transcription_method: "user-supplied Iteration 21 baseline reconciled directly a
 
 # 26
 
-“அடப்பாவி ஐயப்பனா?” என்று கிழவர் அலறியதும், “ஆமாம்; ஐயப்பன் தான்! அடே கிழவா! எங்கே ஓடப் பார்க்கிறாய்? மரியாதையாக நில்!” என்று பயங்கரமாகக் கத்திக்கொண்டு உரக்கச் சிரிக்க ஆரம்பித்தான் ஐயப்பன். நடுநடுங்கியபடி பரிமளா இங்குமங்கும் ஓடினாளே தவிர, இன்னது செய்வதென்று அவளுக்குப் புரியவில்ல. துரை கொஞ்சம் பின்வாங்கி நின்று கொண்டு, ஐயப்பனை எதிர்க்கத் தயாரானான். கிழவரும் தன் உடலை வளைத்து நிமிர்த்தி, ஐயப்பனின் முதல் தாக்குதலிலேயிருந்து சமாளித்துக் கொண்டு துரையுடன் சேர்ந்து கொண்டார்.
+“அடப்பாவி ஐயப்பனா?” என்று கிழவர் அலறியதும், “ஆமாம்; ஐயப்பன் தான்! அடே கிழவா! எங்கே ஓடப் பார்க்கிறாய்? மரியாதையாக நில்!” என்று பயங்கரமாகக் கத்திக்கொண்டு உரக்கச் சிரிக்க ஆரம்பித்தான் ஐயப்பன். நடுநடுங்கியபடி பரிமளா இங்குமங்கும் ஓடினாளே தவிர, இன்னது செய்வதென்று அவளுக்குப் புரியவில்லை. துரை கொஞ்சம் பின்வாங்கி நின்று கொண்டு, ஐயப்பனை எதிர்க்கத் தயாரானான். கிழவரும் தன் உடலை வளைத்து நிமிர்த்தி, ஐயப்பனின் முதல் தாக்குதலிலேயிருந்து சமாளித்துக் கொண்டு துரையுடன் சேர்ந்து கொண்டார்.
 
 “கிழவா — நீ தப்பவே முடியாது! உயிர்மேல் ஆசையிருந்தால் கையில் உள்ளதை இப்படிக் கொடுத்து விடு! — ஏ, பொடியனே! நீயும் விலகிப் போய்விடு — வீணுக வம்பை விலைக்கு வாங்காதே!” என்று கர்ச்சனை புரிந்தான், கரகரத்த தொனியிலே ஐயப்பன்.
 
@@ -29,7 +29,8 @@ transcription_method: "user-supplied Iteration 21 baseline reconciled directly a
 ## Source / boundary notes
 
 - Source-printed chapter **26** begins on this physical page.
-- Source prints `புரியவில்ல` and source-odd `வீணுக`; retained without normalization.
+- High-resolution old-type reinspection confirms baseline `புரியவில்லை`; the earlier assistant `புரியவில்ல` is withdrawn.
+- Source-odd `வீணுக` is retained without normalization.
 - Physical page ends mid-word at `அமைந்`; scan 236 continues `திருந்தன.`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 235; அச்சுப் பக்கம்: 231 -->
