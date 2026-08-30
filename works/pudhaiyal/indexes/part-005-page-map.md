@@ -5,10 +5,13 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245
 - split pages: **49**
 - represented source scans: **197–245**
 - source/split PDF committed: **No**
-- current canonical records: **197–245 — 49 records**
+- canonical records: **197–245 — 49 records**
 - fully verified: **42**
 - needs-review: **7**
 - not-started: **0**
+- Tamil audit: **source-damage-closed**
+- assembled Tamil / English / bilingual review: **completed with the same source-damage qualification**
+- split state: **`part-complete`**
 
 | Source scan | Printed page | Section | Status | File / note |
 |---:|:---:|---|---|---|
@@ -75,8 +78,11 @@ These are separate physical scans and are retained as separate provenance record
 
 Printed pages **219–220** are physically torn with substantial missing areas; scans 223–224 therefore remain `needs-review` even though the user supplied a continuous baseline.
 
+Part-level completion does not change those seven statuses.
+
 ## Closed structure / boundaries
 
+- scan 196→197 crosses the Part-004/Part-005 derivative boundary without a narrative break; chapter 22 continues.
 - scan 205 closes chapter 22; scan 206 begins chapter 23.
 - scan 214 closes chapter 23; scan 215 begins chapter 24.
 - scan 225 closes chapter 24; scan 226 begins chapter 25.
@@ -90,13 +96,15 @@ Printed pages **219–220** are physically torn with substantial missing areas; 
 - scan 243 `அங்கே` → scan 244 `அடர்ந்திருக்கும்` continues one sentence.
 - scan 245 ends Part 005 mid-sentence at `இருக்கவே`; the next derivative must continue from scan 246 / printed 242.
 
-Fidelity records:
+Fidelity / review records:
 
 - [`../notes/visual-fidelity-scans-197-216.md`](../notes/visual-fidelity-scans-197-216.md)
 - [`../notes/visual-fidelity-scans-217-228.md`](../notes/visual-fidelity-scans-217-228.md)
 - [`../notes/visual-fidelity-scans-229-238.md`](../notes/visual-fidelity-scans-229-238.md)
 - [`../notes/visual-fidelity-scans-239-245.md`](../notes/visual-fidelity-scans-239-245.md)
+- [`../notes/part-005-tamil-audit.md`](../notes/part-005-tamil-audit.md)
+- [`../translations/en/PART_005_REVIEW.md`](../translations/en/PART_005_REVIEW.md)
 
 ## Exact next activity
 
-All **49 / 49** Part-005 physical scans now have canonical records. Run the **Part-005 Tamil audit** next, carrying scans **215–219 and 223–224** explicitly as source-damage `needs-review` unless stronger source evidence resolves them. Do not silently upgrade those seven scans and do not treat scan 245 as a chapter or novel ending.
+Obtain / attach the next source derivative beginning at **scan 246 / printed page 242** and continue chapter 27 directly after `இருக்கவே` from native source evidence.
