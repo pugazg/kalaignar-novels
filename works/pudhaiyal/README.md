@@ -21,6 +21,8 @@ The retrospective audit that corrected earlier assistant misreads is:
 
 No global normalization is permitted: individual source pixels govern each occurrence. If the glyph remains ambiguous, preserve the baseline and `needs-review`.
 
+**Strengthened after the scans-256–259 correction:** when a proposed change differs from the baseline only by an old-type vowel sign, same-word letter shape, or apparent line-wrap spacing, the first visual impression is not enough. Perform a second independent high-resolution pass, compare the same typeform/word elsewhere in the edition when possible, and do not use a printed line wrap alone to insert or remove word-internal spacing. If a user challenges one glyph reading, reopen every assistant-origin discrepancy in that batch before continuing.
+
 The former `150 pages total` conclusion is permanently withdrawn. See [`notes/source-page-count-reconciliation.md`](notes/source-page-count-reconciliation.md).
 
 ## Split-source / part-completion workflow
@@ -73,9 +75,18 @@ This is one continuous source sentence; the derivative boundary creates no narra
 
 ### Part-006 verified continuation through scan 259
 
-Scans 246–249 were reconciled against Iteration 23. Scans 250–251 were directly transcribed from native pages. Scans 252–255 were reconciled against Iteration 24. Native page mapping then established that the remaining Iteration-24 text continues through **scans 256–259 / printed 252–255**; those four pages have now also been reconciled directly against high-resolution native pixels.
+Scans 246–249 were reconciled against Iteration 23. Scans 250–251 were directly transcribed from native pages. Scans 252–255 were reconciled against Iteration 24. Native page mapping then established that the remaining Iteration-24 text continues through **scans 256–259 / printed 252–255**.
 
-Material source findings in scans 256–259 include `காட்டுகிறியா?`, source-specific `நன்றுகப் பார்த்தான்`, cross-page `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`, source `அனாவசியமாக`, and source `மண்ணுங் கட்டியாவது!`. The permanent old-Tamil-typeform gate was applied; no unresolved glyph remains in the batch.
+A second high-resolution reinspection was required after the first scans-256–259 pass misread old/faint typeforms. The corrected native comparison confirms the user's baseline forms:
+
+- scan 256 — `காட்டுகிறாயா?`, plus `இடத்தை`, `என்னா`, `தங்கம்னா`, `பொன்னா`, `ஒளிஞ்சுகிட்டு`;
+- scan 257 — `நன்றாகப் பார்த்தான்`;
+- scan 258 — `அநாவசியமாக`;
+- scan 259 — `மண்ணாங் கட்டியாவது!`;
+- 257→258 — `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`;
+- scan 259 — `ஒன்றாய்ப் பிசைந்து` remains source-confirmed.
+
+The earlier assistant readings `காட்டுகிறியா?`, `நன்றுகப் பார்த்தான்`, `அனாவசியமாக`, and `மண்ணுங் கட்டியாவது!` are withdrawn. Counts remain unchanged because the four pages are verified after corrected reconciliation, not newly added or removed.
 
 The supplied Iteration-25 baseline begins at **scan 260 / printed page 256**.
 
@@ -126,4 +137,4 @@ The seven Part-005 damaged physical scans remain `needs-review`; Part completion
 
 ## Exact next activity
 
-Reconcile **scan 260 / printed page 256** from the supplied Iteration-25 baseline directly against native Part-006 pixels, applying the permanent old-Tamil-typeform pre-correction check. Do not infer text from grammar/context and do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
+After the scans-256–259 correction synchronization is complete, reconcile **scan 260 / printed page 256** from the supplied Iteration-25 baseline directly against native Part-006 pixels. Apply the strengthened two-pass old-typeform rule before overriding any baseline character or word spacing. Do not infer text from grammar/context and do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
