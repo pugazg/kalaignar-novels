@@ -15,9 +15,18 @@ The scan is the textual authority. User-supplied transcription is the comparison
 
 Before overriding a baseline because a final character or vowel mark appears absent, inspect the **complete glyph cluster at high resolution**, explicitly consider old/historical Tamil typeforms, and compare another clear instance from the same edition when useful. Faint marks must be checked at more than one useful scale/contrast before a correction is accepted.
 
-A demonstrated risk in this edition is final `லை`, which can resemble bare `ல்` at ordinary zoom. This caused earlier false assistant corrections such as `தெரியவில்லை` → `தெரியவில்ல`. This is **not** a global normalization rule.
+This edition has demonstrated more than one old/faint vowel hazard:
 
-**Strengthened after the scans-256–259 correction:** a proposed baseline change involving an old/faint vowel sign, near-identical same-word glyph, or apparent spacing produced by a printed line wrap requires a **second independent high-resolution pass** before acceptance. Compare the same form elsewhere in the edition when possible. A printed line break alone never establishes word-internal spacing. If the user/source challenges one glyph in a batch, reopen every assistant-origin discrepancy in that batch before moving forward.
+- final `லை` can resemble bare `ல்` at ordinary zoom, causing false shortenings such as `தெரியவில்லை` → `தெரியவில்ல`;
+- scan 264 source `என்னா` contains a faint `ா` that was initially missed and falsely read as `என்ன`.
+
+The safeguard therefore applies to **all Tamil vowel signs / combining marks**, not just final `ை`. This is not a global normalization rule.
+
+**Strengthened after the scans-256–259 and scan-264 corrections:** a proposed baseline change involving an old/faint vowel sign, near-identical same-word glyph, or apparent spacing produced by a printed line wrap requires a **second independent high-resolution pass** before acceptance. Compare the same form elsewhere in the edition when possible. A printed line break alone never establishes word-internal spacing. If the user/source challenges one glyph in a batch, reopen every assistant-origin discrepancy in that batch before moving forward.
+
+Scan-264 correction record:
+
+`works/pudhaiyal/notes/old-glyph-correction-scan-264.md`
 
 Source/split PDFs must never be committed.
 
@@ -65,7 +74,7 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - scan 261 / printed 257: closes `வெள்ளியம்பலம் கேட்டு விட்டு, ...`; preserves `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, `பேஷாக`; ends `விடிந்த`;
 - scan 262 / printed 258: begins `தும்`, yielding `விடிந்ததும்`; source `குறுக்கிட்டது`, `என்று கூறினான்`, `ஆம்;`, `நடந்து, நடந்து`; chapter 29 closes / chapter 30 begins; ends `துக்காராமுக்கோ,`;
 - scan 263 / printed 259: begins `ஆனந்தம் தாங்கவில்லை.`; source `நடந்தவைகள்`, `புதையலைக் கண்டுபிடிப்பதற்காகவே`, full `மறந்து விடவில்லை`; ends `அவர்!`;
-- scan 264 / printed 260: source **`என்ன — தெரியாது மாதிரி விழிக்கிறே?`**, not baseline `என்னா - ...`; source punctuation `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, `வந்தேனே......`; complete `புரியவில்லை` confirmed; ends `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
+- scan 264 / printed 260: **user-corrected old-glyph reading `என்னா` is confirmed from enlarged native pixels**; earlier assistant `என்ன` is withdrawn. Canonical punctuation is `என்னா — தெரியாது மாதிரி விழிக்கிறே?`; source also confirms `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, `வந்தேனே......`, and complete `புரியவில்லை`; ends `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
 
 ### Part-006 structure mapped from physical pages
 
@@ -93,4 +102,4 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
 ## Exact next activity
 
-Continue Part 006 at **scan 265 / printed page 261**, chapter 30, from user Iteration 25. Apply the strengthened two-pass old-Tamil-typeform and printed-line-wrap rules before accepting any disputed glyph or spacing.
+Continue Part 006 at **scan 265 / printed page 261**, chapter 30, from user Iteration 25. Apply the strengthened two-pass old-Tamil-typeform rule to **all vowel signs**, including faint `ா`, before accepting any disputed glyph or spacing.
