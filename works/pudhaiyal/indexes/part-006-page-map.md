@@ -28,10 +28,10 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 | 253 | 249 | chapter 28 | verified | `../pages/0253-pudhaiyal.md`; line-wrap artefacts reconciled from native continuity |
 | 254 | 250 | chapter 28 closes / chapter 29 begins | verified | `../pages/0254-pudhaiyal.md`; source-printed chapter heading 29 |
 | 255 | 251 | chapter 29 | verified | `../pages/0255-pudhaiyal.md`; ends `காட்டிவிடு!` |
-| 256 | 252 | chapter 29 | verified | `../pages/0256-pudhaiyal.md`; source `காட்டுகிறியா?` |
-| 257 | 253 | chapter 29 | verified | `../pages/0257-pudhaiyal.md`; ends mid-word `வெள்ளியம்` |
-| 258 | 254 | chapter 29 | verified | `../pages/0258-pudhaiyal.md`; begins `பலம்`; source `நன்றுகப்`, `அனாவசியமாக` |
-| 259 | 255 | chapter 29 | verified | `../pages/0259-pudhaiyal.md`; source `மண்ணுங் கட்டியாவது!` |
+| 256 | 252 | chapter 29 | verified | `../pages/0256-pudhaiyal.md`; second old-type reinspection confirms baseline `காட்டுகிறாயா?` and related baseline forms |
+| 257 | 253 | chapter 29 | verified | `../pages/0257-pudhaiyal.md`; baseline `நன்றாகப் பார்த்தான்` confirmed; ends mid-word `வெள்ளியம்` |
+| 258 | 254 | chapter 29 | verified | `../pages/0258-pudhaiyal.md`; begins `பலம்`; baseline `அநாவசியமாக` confirmed |
+| 259 | 255 | chapter 29 | verified | `../pages/0259-pudhaiyal.md`; baseline `மண்ணாங் கட்டியாவது!` confirmed |
 | 260 | 256 | chapter 29 | not-started | next transcription page; Iteration 25 begins |
 | 261 | 257 | chapter 29 | not-started | — |
 | 262 | 258 | chapter 29 closes / chapter 30 begins | not-started | source-printed chapter heading 30 |
@@ -95,14 +95,20 @@ These observations map structure only for scans 260–294; those pages remain `n
 - 255→256: no mid-word join; scan 256 begins a fresh dialogue sentence inside chapter 29;
 - 257→258: `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`.
 
+## Corrected old-type reinspection — scans 256–259
+
+After the user challenged the first pass, every assistant-origin discrepancy in scans 256–259 was reopened. Enlarged native inspection confirms the user's baseline forms **`காட்டுகிறாயா?`**, **`நன்றாகப் பார்த்தான்`**, **`அநாவசியமாக`**, and **`மண்ணாங் கட்டியாவது!`**. The earlier assistant readings `காட்டுகிறியா?`, `நன்றுகப் பார்த்தான்`, `அனாவசியமாக`, and `மண்ணுங் கட்டியாவது!` are withdrawn. Scan 256 also restores baseline `இடத்தை`, `என்னா`, `தங்கம்னா`, `பொன்னா`, and `ஒளிஞ்சுகிட்டு` where the earlier pass had introduced unsupported vowel/spacing changes.
+
+This correction does not change counts: scans 256–259 remain verified after corrected reconciliation.
+
 ## Fidelity records
 
 - scans 246–249: `../notes/visual-fidelity-scans-246-249.md`
 - scan 250: `../notes/visual-fidelity-scan-250.md`
 - scan 251: `../notes/visual-fidelity-scan-251.md`
 - scans 252–255: `../notes/visual-fidelity-scans-252-255.md`
-- scans 256–259: `../notes/visual-fidelity-scans-256-259.md`
+- scans 256–259: `../notes/visual-fidelity-scans-256-259.md` — corrected after second high-resolution reinspection
 
 ## Exact next activity
 
-Reconcile **scan 260 / printed page 256** from user Iteration 25 directly against native source pixels, applying the permanent old-Tamil-typeform pre-correction check. Do not begin the Part-006 Tamil audit, assembled Tamil or English stages until all 49 physical pages have canonical records and native-fidelity dispositions.
+Before resuming forward transcription, preserve the strengthened rule from the scans-256–259 correction: a baseline disagreement involving only an old-type/vowel-sign/same-word letter shape requires a second visual pass and same-edition comparison when possible; line wrapping alone cannot justify changing word-internal spacing. Then reconcile **scan 260 / printed page 256** from user Iteration 25 against native source pixels. Do not begin the Part-006 Tamil audit, assembled Tamil or English stages until all 49 physical pages have canonical records and native-fidelity dispositions.
