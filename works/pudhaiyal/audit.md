@@ -10,6 +10,8 @@ The native scan is the textual authority. Before overriding a user baseline beca
 
 This source demonstrated that faint final `லை` can resemble bare `ல்` at ordinary zoom. A correction therefore requires positive native-pixel evidence. If the pixels remain ambiguous, retain the baseline and `needs-review`. Never apply a global `வில்ல` ↔ `வில்லை` or `இல்ல` ↔ `இல்லை` replacement.
 
+**Strengthened after the scans-256–259 failure:** an apparent baseline difference limited to an old-type vowel sign, same-word letter shape, or line-wrap spacing requires a second independent visual pass before the baseline may be changed. Same-edition comparison should be used when possible. A printed line break alone is not evidence for a word-internal space. If the user challenges a glyph reading, reopen every assistant-origin discrepancy in that batch before proceeding.
+
 Retrospective record: [`notes/old-glyph-retrospective-audit-120-245.md`](notes/old-glyph-retrospective-audit-120-245.md).
 
 ## Completed part checkpoints
@@ -65,18 +67,20 @@ This derivative boundary creates no narrative break.
 - scan 251 ends a scene with the source-printed four-star separator;
 - 257→258: `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`.
 
-### Part-006 verified reconciliation through scan 259
+### Corrected Part-006 reconciliation through scan 259
 
-Scans 246–255 had already been verified. Native derivative mapping established that the remaining text under the user's Iteration-24 extraction continues through **scans 256–259 / printed 252–255**. Those four pages are now source-verified.
+Scans 246–255 had already been verified. Native derivative mapping established that the remaining text under the user's Iteration-24 extraction continues through **scans 256–259 / printed 252–255**.
 
-Material findings include:
+The first reconciliation of scans 256–259 incorrectly overrode several baseline readings. After the user's challenge, every assistant-origin discrepancy in those four pages was reopened and inspected again at high resolution. The corrected source findings are:
 
-- scan 256: source `காட்டுகிறியா?`;
-- scan 257: source-specific `நன்றுகப் பார்த்தான்`; page ends `வெள்ளியம்`;
-- scan 258: opening `பலம்` completes the cross-page word; source `அனாவசியமாக`; separated `காதலிக்க வில்லையே`;
-- scan 259: source `மண்ணுங் கட்டியாவது!`, separated `விளங்க வில்லையே!`, and confirmed `ஒன்றாய்ப் பிசைந்து`.
+- scan 256: baseline **`காட்டுகிறாயா?`** is source-supported; the earlier assistant `காட்டுகிறியா?` is withdrawn;
+- scan 256: baseline `இடத்தை`, `என்னா`, `தங்கம்னா`, `பொன்னா`, `ஒளிஞ்சுகிட்டு` are also restored; earlier assistant vowel/spacing changes were unsupported;
+- scan 257: baseline **`நன்றாகப் பார்த்தான்`** is source-supported; `நன்றுகப் பார்த்தான்` is withdrawn;
+- scan 258: baseline **`அநாவசியமாக`** is source-supported; `அனாவசியமாக` is withdrawn;
+- scan 259: baseline **`மண்ணாங் கட்டியாவது!`** is source-supported; `மண்ணுங் கட்டியாவது!` is withdrawn;
+- scan 259: `ஒன்றாய்ப் பிசைந்து` remains confirmed.
 
-No unresolved old-type glyph remains in scans 256–259. The supplied Iteration-25 baseline begins at **scan 260 / printed 256**.
+Scans 256–259 remain `verified` after corrected reconciliation; the correction changes text, not page counts. The supplied Iteration-25 baseline begins at **scan 260 / printed 256**.
 
 ### Structure mapped in Part 006
 
@@ -120,4 +124,4 @@ Only scans 246–259 are textually verified at this checkpoint; structural inspe
 
 ## Exact next activity
 
-Reconcile **scan 260 / printed page 256** from the supplied Iteration-25 baseline against native source pixels, applying the permanent old-Tamil-typeform pre-correction gate to every disputed glyph. Do not run Part-006 Tamil audit or downstream gates yet.
+After this correction synchronization, reconcile **scan 260 / printed page 256** from the supplied Iteration-25 baseline against native source pixels. Apply the strengthened second-pass old-Tamil-typeform rule to every proposed baseline override. Do not run Part-006 Tamil audit or downstream gates yet.
