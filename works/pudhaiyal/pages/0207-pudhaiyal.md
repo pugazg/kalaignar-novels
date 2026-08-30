@@ -7,10 +7,10 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 19 baseline reconciled directly against native split part 005 page 11 image"
+transcription_method: "user-supplied Iteration 19 baseline reconciled directly against native split part 005 page 11 image; old-glyph reinspection 2026-08-30"
 ---
 
-வருத்தப்பட்டுக்கொண்டான் துரை. “சொன்னதால் தவறொன்றுமில்ல துரை” என்று கூறிவிட்டு, மீண்டும் ஒரு நீண்ட பெருமூச்சு விட்டுக் கொண்டார் அந்த மர்ம மனிதர் மாயாண்டி.
+வருத்தப்பட்டுக்கொண்டான் துரை. “சொன்னதால் தவறொன்றுமில்லை துரை” என்று கூறிவிட்டு, மீண்டும் ஒரு நீண்ட பெருமூச்சு விட்டுக் கொண்டார் அந்த மர்ம மனிதர் மாயாண்டி.
 
 “ஏதோ ஒரு வேதனையை மூடி மறைக்கிறீர்கள் — அது என்ன என்பதை எங்களிடம் சொல்லக் கூடாதா?” — துரை கலக்கத்தோடு கேட்டான்.
 
@@ -31,7 +31,7 @@ transcription_method: "user-supplied Iteration 19 baseline reconciled directly a
 ## Source / boundary notes
 
 - scan 206 `என்று தனக்குத் தானே` → scan 207 `வருத்தப்பட்டுக்கொண்டான் துரை.`
-- Source reads `தவறொன்றுமில்ல துரை`, not baseline `தவறொன்றுமில்லை துரை`.
+- High-resolution old-type reinspection confirms baseline `தவறொன்றுமில்லை துரை`; the earlier assistant `தவறொன்றுமில்ல` is withdrawn.
 - Physical endpoint is `இலங்கைக்குச் சென்ற`; scan 208 continues.
 
 <!-- மூல ஸ்கேன் பக்கம்: 207; அச்சுப் பக்கம்: 205 -->
