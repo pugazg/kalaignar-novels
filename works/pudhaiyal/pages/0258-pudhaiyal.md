@@ -7,10 +7,10 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 24 continuation reconciled directly against high-resolution native split part 006 page 13 image; old-Tamil-typeform pre-correction check applied"
+transcription_method: "user-supplied Iteration 24 continuation reconciled against high-resolution native split part 006 page 13 image; second old-Tamil-typeform reinspection performed after user challenge"
 ---
 
-பலம் எனக் கண்டபோது! வெள்ளியம்பலம் தன்னை இப்படி மிரட்டுவானேன் — தங்கம் இருக்கும் இடத்தைக் காட்டு என்று கத்துவானேன் — இவ்வளவு கொடுமையாகத் தன்னை நடத்துவானேன் — என்று யோசித்தான். பரிமளா என்ற பெயரைச் சொல்லி, தன்னை யாரோ ஒரு கொலைகாரன் ஏமாற்றி விட்டான் என்ற உண்மையைப் புரிந்துகொண்ட பிறகுதான், தன்னை பரிமளா காதலிக்க வில்லையே என்ற பழைய நினைவுகளும் வரத் தலைப்பட்டன. “அப்போதே நினைத்தேன்; தனக்கும் பரிமளாவுக்கும் காதல் வளருவதற்கு இந்த மனிதர் இப்படி கஷ்டப் படுவானேன் என்று! இப்போதல்லவா புரிகிறது அது! அய்யோ, தெளிவு பிறக்கிற நேரம், உயிர் போகிற நேரமாயிருக்கிறதே!” — இதையெண்ணி மனதுக்குள் புலம்பித் துடித்தான், அந்தப் பரிதாபத்திற்குரிய வாலிபன். அவனுடைய இரங்கத்தக்க நிலையை பரிமளாவே நேரில் பார்த்திருந்தால்கூட வருத்தப்பட்டிருப்பாள்; ஏன் பாவம் அனாவசியமாக அவனைக் காட்டிக் கொடுத்தோமென்று!
+பலம் எனக் கண்டபோது! வெள்ளியம்பலம் தன்னை இப்படி மிரட்டுவானேன் — தங்கம் இருக்கும் இடத்தைக் காட்டு என்று கத்துவானேன் — இவ்வளவு கொடுமையாகத் தன்னை நடத்துவானேன் — என்று யோசித்தான். பரிமளா என்ற பெயரைச் சொல்லி, தன்னை யாரோ ஒரு கொலைகாரன் ஏமாற்றி விட்டான் என்ற உண்மையைப் புரிந்துகொண்ட பிறகுதான், தன்னை பரிமளா காதலிக்க வில்லையே என்ற பழைய நினைவுகளும் வரத் தலைப்பட்டன. “அப்போதே நினைத்தேன்; தனக்கும் பரிமளாவுக்கும் காதல் வளருவதற்கு இந்த மனிதர் இப்படி கஷ்டப் படுவானேன் என்று! இப்போதல்லவா புரிகிறது அது! அய்யோ, தெளிவு பிறக்கிற நேரம், உயிர் போகிற நேரமாயிருக்கிறதே!” — இதையெண்ணி மனதுக்குள் புலம்பித் துடித்தான், அந்தப் பரிதாபத்திற்குரிய வாலிபன். அவனுடைய இரங்கத்தக்க நிலையை பரிமளாவே நேரில் பார்த்திருந்தால்கூட வருத்தப்பட்டிருப்பாள்; ஏன் பாவம் அநாவசியமாக அவனைக் காட்டிக் கொடுத்தோமென்று!
 
 “ஐயா! என்னய்யா இதெல்லாம்: எனக்கு ஒண்ணுமே விளங்கலியே!” — கெஞ்சும் தோரணையில் கேட்டான், வெள்ளியம்பலத்தைப் பார்த்து!
 
@@ -23,9 +23,9 @@ transcription_method: "user-supplied Iteration 24 continuation reconciled direct
 ## Source / boundary notes
 
 - Scan 257 `வெள்ளியம்` + scan 258 `பலம்` = `வெள்ளியம்பலம்` across the physical page boundary.
-- Source preserves separated `காதலிக்க வில்லையே` and `கஷ்டப் படுவானேன்`; these are not silently modernized.
-- Native pixels read `அனாவசியமாக`; baseline `அநாவசியமாக` is not substituted.
-- Baseline `அதிர் வேட்டு` is retained because the source supports the separated phrase; no normalization to a joined form is imposed.
-- Old-Tamil-typeform inspection found no unresolved glyph on this page.
+- Source preserves separated `காதலிக்க வில்லையே` and `கஷ்டப் படுவானேன்`.
+- **Correction after second high-resolution old-type reinspection:** the user's baseline `அநாவசியமாக` is confirmed by the source. The earlier assistant reading `அனாவசியமாக` is withdrawn.
+- Source phrase `அதிர் வேட்டு` is retained as printed; no editorial joining is imposed.
+- No unresolved glyph remains on this page after reinspection.
 
 <!-- மூல ஸ்கேன் பக்கம்: 258; அச்சுப் பக்கம்: 254 -->
