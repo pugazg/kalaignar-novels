@@ -8,10 +8,10 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - derivative file size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - source/split PDF committed: **No**
-- canonical records created so far: **19 / 49 — scans 246–264**
-- verified so far: **19**
+- canonical records created so far: **20 / 49 — scans 246–265**
+- verified so far: **20**
 - needs-review in Part 006 so far: **0**
-- not-started: **30 — scans 265–294**
+- not-started: **29 — scans 266–294**
 - split state: **`in-progress`**
 
 The derivative boundary at scan 245→246 is provenance only. Native source establishes the continuation `இருக்கவே` + `இருக்கிறாள் பரிமளா, ...`; no word, sentence or chapter boundary is created by the split.
@@ -37,8 +37,8 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 | 262 | 258 | chapter 29 closes / chapter 30 begins | verified | `../pages/0262-pudhaiyal.md`; begins `தும்`; chapter 30; ends `துக்காராமுக்கோ,` |
 | 263 | 259 | chapter 30 | verified | `../pages/0263-pudhaiyal.md`; begins `ஆனந்தம் தாங்கவில்லை.`; ends `அவர்!` |
 | 264 | 260 | chapter 30 | verified | `../pages/0264-pudhaiyal.md`; old/faint `ா` correction confirms `என்னா`; ends `பேசக்கூட விடமாட்டேங்கிறீர்களே!”` |
-| 265 | 261 | chapter 30 | not-started | next transcription page |
-| 266 | 262 | chapter 30 | not-started | — |
+| 265 | 261 | chapter 30 | verified | `../pages/0265-pudhaiyal.md`; ends `என்றெல்லாம்!` |
+| 266 | 262 | chapter 30 | not-started | next transcription page |
 | 267 | 263 | chapter 30 | not-started | — |
 | 268 | 264 | chapter 30 | not-started | — |
 | 269 | 265 | chapter 30 | not-started | — |
@@ -79,7 +79,7 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 - chapter 32 begins scan **278 / printed 274**;
 - chapter 33 begins scan **288 / printed 284** and continues through the derivative endpoint.
 
-These observations map structure only for scans 265–294; those pages remain `not-started` until text is directly reconciled against native pixels.
+These observations map structure only for scans 266–294; those pages remain `not-started` until text is directly reconciled against native pixels.
 
 ## Current continuity joins / transitions
 
@@ -90,9 +90,10 @@ These observations map structure only for scans 265–294; those pages remain `n
 - 260→261: `வெள்ளியம்பலம்` + `கேட்டு விட்டு, ...`;
 - 261→262: `விடிந்த` + `தும்` = `விடிந்ததும்`;
 - 262→263: `துக்காராமுக்கோ,` + `ஆனந்தம் தாங்கவில்லை.`;
-- scan 264 is a complete physical page inside chapter 30 and ends with a complete dialogue sentence; scan 265 continues the narration.
+- scan 264 ends a complete dialogue sentence; scan 265 begins `துக்காராம் கோபித்துக் கொண்டான்.`;
+- scan 265 ends the complete sentence `பேசினான் — ‘மாட்டேன்! முடியாது!’ என்றெல்லாம்!`; scan 266 continues chapter 30 with new narration.
 
-## Current native findings — scans 263–264
+## Current native findings — scans 263–265
 
 ### Scan 263 / printed 259
 
@@ -111,7 +112,16 @@ These observations map structure only for scans 265–294; those pages remain `n
 - second old-typeform pass confirms complete `புரியவில்லை`, including final `லை`;
 - page ends `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
 
-No unresolved glyph remains through scan 264.
+### Scan 265 / printed 261
+
+- verified from full-page, enlarged-crop and contrast-enhanced native views;
+- source preserves `வருஷக் கணக்கில்`, `உங்க`, `தன்னை சந்தித்த போது`, `கூத்தாடியது`, `உபயோகப்படுத்தி`, `கண் ஜாடை`, and `என்றெல்லாம்`;
+- enlarged inspection confirms `அவளைத் தன் காதலியாகவே`;
+- second old-typeform pass confirms full vowel-sign forms including `காலையிலே`, `இவ்வளவுக்குப்`, `பேச்சுமில்லை`, `ஏற்பட்டதில்லை`, `இருந்ததில்லை`, and `இணையில்லாத`;
+- no source-printed chapter/scene transition occurs;
+- page ends `என்றெல்லாம்!`.
+
+No unresolved glyph remains through scan 265.
 
 ## Fidelity records
 
@@ -126,7 +136,8 @@ No unresolved glyph remains through scan 264.
 - scan 263: `../notes/visual-fidelity-scan-263.md`
 - scan 264: `../notes/visual-fidelity-scan-264.md`
 - scan 264 old-glyph correction: `../notes/old-glyph-correction-scan-264.md`
+- scan 265: `../notes/visual-fidelity-scan-265.md`
 
 ## Exact next activity
 
-Reconcile **scan 265 / printed page 261** from user Iteration 25 directly against native source pixels, continuing chapter 30. Apply the strengthened two-pass old-typeform rule to all vowel signs and line-wrap questions before overriding any baseline character or spacing. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
+Reconcile **scan 266 / printed page 262** directly against native Part-006 source pixels, continuing chapter 30. Apply the strengthened two-pass old-typeform rule to all vowel signs and line-wrap questions before overriding any baseline character or spacing. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
