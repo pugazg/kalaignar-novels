@@ -22,7 +22,7 @@ Old/historical Tamil glyphs காரணமாக ஒரு character அல்�
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **265 canonical records / 258 verified / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **266 canonical records / 259 verified / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
 
 ### புதையல் — current source state
 
@@ -35,18 +35,18 @@ Access derivatives:
 - part 003 — scans **99–147** — part-complete;
 - part 004 — scans **148–196** — part-complete;
 - part 005 — scans **197–245** — **part-complete with explicit source-damage qualification**;
-- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–265 verified; scans 266–294 not-started**.
+- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–266 verified; scans 267–294 not-started**.
 
 Current canonical state:
 
-- records — **265**;
-- verified — **258**;
+- records — **266**;
+- verified — **259**;
 - needs-review — **7 (scans 215–219, 223–224)**;
 - partial — **0**;
 - clean contiguous fully verified range — through **scan 214 / printed page 212**;
-- later individual source-verified records — through scan **265**, except the seven explicitly damaged scans;
+- later individual source-verified records — through scan **266**, except the seven explicitly damaged scans;
 - Parts 001–005 — full split workflow complete through assembled Tamil, controlled English and bilingual review;
-- Part 006 — canonical/native-fidelity work in progress; **20 / 49** pages verified;
+- Part 006 — canonical/native-fidelity work in progress; **21 / 49** pages verified;
 - assembled Tamil / English split-level review — still through scan **245** only;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source;
@@ -54,9 +54,9 @@ Current canonical state:
 
 Part 006 source structure is mapped through scan 294: chapter 28 begins at 247, a four-star internal transition occurs at scan 251, chapter 29 begins at 254 and closes at 262, chapter 30 begins at 262, chapter 31 at 271, chapter 32 at 278 and chapter 33 at 288.
 
-Scans **260–265 / printed 256–261** are verified from Iteration 25. Scan 264's user-triggered enlarged reinspection confirms source `என்னா`, correcting the earlier assistant `என்ன`. Scan 265 is now verified from full-page, enlarged and contrast-enhanced native views; it preserves source forms including `வருஷக் கணக்கில்`, `தன்னை சந்தித்த போது`, `உபயோகப்படுத்தி`, `அவளைத் தன் காதலியாகவே`, `பேச்சுமில்லை`, `ஏற்பட்டதில்லை`, `இருந்ததில்லை`, and ends `என்றெல்லாம்!`.
+Scans **260–266 / printed 256–262** are verified from Iteration 25. Scan 264's user-triggered enlarged reinspection confirms source `என்னா`, correcting the earlier assistant `என்ன`. Scan 266 is now verified with the baseline wording substantively confirmed; the second old-glyph pass specifically confirms `வெள்ளியம்பலத்திற்கு`, full `புரியவில்லை`, `இஷ்டமில்லை`, `பிரமாதமில்லை`, `ஒன்றுமில்லை`, and `புதையலை` with the final `ை`. The page ends mid-sentence at `அதில், என்`.
 
-Exact next action: reconcile **scan 266 / printed page 262**, continuing chapter 30. Do not start the Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are canonically reconciled.
+Exact next action: reconcile **scan 267 / printed page 263**, first continuing the open sentence after `அதில், என்`. Do not start the Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are canonically reconciled.
 
 ## நிறைவு பெற்ற reference work
 
