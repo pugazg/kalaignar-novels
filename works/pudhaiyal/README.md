@@ -13,13 +13,18 @@ The scanned source is the textual authority. User transcription is a comparison 
 
 ### Old-Tamil-glyph safeguard
 
-Before correcting a baseline because a final letter or vowel mark appears absent, inspect the **complete glyph cluster at high resolution** and explicitly consider old/historical Tamil typeforms. This edition has demonstrated a faint final `லை` form that can look like bare `ல்` at ordinary zoom.
+Before correcting a baseline because a final letter or vowel mark appears absent, inspect the **complete glyph cluster at high resolution** and explicitly consider old/historical Tamil typeforms.
 
-The retrospective audit that corrected earlier assistant misreads is [`notes/old-glyph-retrospective-audit-120-245.md`](notes/old-glyph-retrospective-audit-120-245.md).
+This edition has demonstrated both:
 
-No global normalization is permitted: individual source pixels govern each occurrence. If the glyph remains ambiguous, preserve the baseline and `needs-review`.
+- faint final `லை`, which can resemble bare `ல்`;
+- faint `ா`, demonstrated by scan 264 source `என்னா`, which was initially misread as `என்ன`.
 
-**Strengthened after the scans-256–259 correction:** when a proposed change differs from the baseline only by an old-type vowel sign, same-word letter shape, or apparent line-wrap spacing, the first visual impression is not enough. Perform a second independent high-resolution pass, compare the same typeform/word elsewhere in the edition when possible, and do not use a printed line wrap alone to insert or remove word-internal spacing. If a user challenges one glyph reading, reopen every assistant-origin discrepancy in that batch before continuing.
+The safeguard therefore applies to **all vowel signs / combining marks**, not just `ை`. No global normalization is permitted: individual source pixels govern each occurrence. If the glyph remains ambiguous, preserve the baseline and `needs-review`.
+
+**Strengthened after scans 256–259 and scan 264:** when a proposed change differs from the baseline only by an old-type vowel sign, same-word letter shape, or apparent line-wrap spacing, the first visual impression is not enough. Perform a second independent high-resolution pass, compare the same typeform/word elsewhere in the edition when possible, and do not use a printed line wrap alone to insert or remove word-internal spacing. If a user challenges one glyph reading, reopen every assistant-origin discrepancy in that batch before continuing.
+
+Relevant records: [`notes/old-glyph-retrospective-audit-120-245.md`](notes/old-glyph-retrospective-audit-120-245.md) and [`notes/old-glyph-correction-scan-264.md`](notes/old-glyph-correction-scan-264.md).
 
 The former `150 pages total` conclusion is permanently withdrawn. See [`notes/source-page-count-reconciliation.md`](notes/source-page-count-reconciliation.md).
 
@@ -63,7 +68,7 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - scan 261 / printed 257: verified; closes `வெள்ளியம்பலம் கேட்டு விட்டு, ...`; preserves `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, `பேஷாக`; ends `விடிந்த`;
 - scan 262 / printed 258: verified; `விடிந்த` + `தும்` = `விடிந்ததும்`; source `குறுக்கிட்டது`, `என்று கூறினான்`, `ஆம்;`, `நடந்து, நடந்து`; chapter 29 closes / chapter 30 begins; ends `துக்காராமுக்கோ,`;
 - scan 263 / printed 259: verified; closes `துக்காராமுக்கோ, ஆனந்தம் தாங்கவில்லை.`; source `நடந்தவைகள்` and `புதையலைக் கண்டுபிடிப்பதற்காகவே`; full `மறந்து விடவில்லை` confirmed; ends `அவர்!`;
-- scan 264 / printed 260: verified; baseline `என்னா - தெரியாது மாதிரி விழிக்கிறே?` → source **`என்ன — தெரியாது மாதிரி விழிக்கிறே?`**; source punctuation `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, `வந்தேனே......`; second pass confirms full `புரியவில்லை`; ends `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
+- scan 264 / printed 260: **user-challenged baseline `என்னா` is confirmed from enlarged native pixels; earlier assistant `என்ன` is withdrawn**. Canonical punctuation is `என்னா — தெரியாது மாதிரி விழிக்கிறே?`; source also confirms `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, `வந்தேனே......`, and complete `புரியவில்லை`; ends `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
 
 ### Part-006 structure mapped
 
@@ -93,4 +98,4 @@ Only scans 246–264 have been textually reconciled so far. Later structural map
 
 ## Exact next activity
 
-Reconcile **scan 265 / printed page 261** from the supplied Iteration-25 baseline directly against native Part-006 pixels, continuing chapter 30. Apply the strengthened two-pass old-typeform and line-wrap rules before overriding any baseline character or word spacing. Do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
+Reconcile **scan 265 / printed page 261** from the supplied Iteration-25 baseline directly against native Part-006 pixels, continuing chapter 30. Apply the strengthened two-pass rule to every vowel sign and line-wrap question before overriding any baseline character or word spacing. Do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
