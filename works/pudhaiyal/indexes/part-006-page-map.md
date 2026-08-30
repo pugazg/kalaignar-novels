@@ -8,10 +8,10 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - derivative file size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - source/split PDF committed: **No**
-- canonical records created so far: **16 / 49 — scans 246–261**
-- verified so far: **16**
+- canonical records created so far: **17 / 49 — scans 246–262**
+- verified so far: **17**
 - needs-review in Part 006 so far: **0**
-- not-started: **33 — scans 262–294**
+- not-started: **32 — scans 263–294**
 - split state: **`in-progress`**
 
 The derivative boundary at scan 245→246 is provenance only. Native source establishes the continuation `இருக்கவே` + `இருக்கிறாள் பரிமளா, ...`; no word, sentence or chapter boundary is created by the split.
@@ -34,8 +34,8 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 | 259 | 255 | chapter 29 | verified | `../pages/0259-pudhaiyal.md`; baseline `மண்ணாங் கட்டியாவது!` confirmed |
 | 260 | 256 | chapter 29 | verified | `../pages/0260-pudhaiyal.md`; Iteration-25 baseline reconciled in strengthened two-pass review; ends `வெள்ளியம்பலம்` |
 | 261 | 257 | chapter 29 | verified | `../pages/0261-pudhaiyal.md`; begins `கேட்டு விட்டு`; ends `விடிந்த` |
-| 262 | 258 | chapter 29 closes / chapter 30 begins | not-started | source-printed chapter heading 30; next transcription page |
-| 263 | 259 | chapter 30 | not-started | — |
+| 262 | 258 | chapter 29 closes / chapter 30 begins | verified | `../pages/0262-pudhaiyal.md`; begins `தும்`; source-printed chapter heading 30; ends `துக்காராமுக்கோ,` |
+| 263 | 259 | chapter 30 | not-started | next transcription page |
 | 264 | 260 | chapter 30 | not-started | — |
 | 265 | 261 | chapter 30 | not-started | — |
 | 266 | 262 | chapter 30 | not-started | — |
@@ -75,13 +75,13 @@ Direct inspection of the 49 physical pages establishes these source-printed chap
 - chapter 27 continues from Part 005 and closes on scan **247 / printed 243**;
 - chapter 28 begins on scan **247 / printed 243**;
 - a source-printed four-star internal transition occurs at the foot of scan **251 / printed 247**; chapter 28 continues on scan 252;
-- chapter 29 begins on scan **254 / printed 250**;
+- chapter 29 begins on scan **254 / printed 250** and closes on scan **262 / printed 258**;
 - chapter 30 begins on scan **262 / printed 258**;
 - chapter 31 begins on scan **271 / printed 267**;
 - chapter 32 begins on scan **278 / printed 274**;
 - chapter 33 begins on scan **288 / printed 284** and continues through the derivative endpoint.
 
-These observations map structure only for scans 262–294; those pages remain `not-started` until their text is reconciled directly against native pixels.
+These observations map structure only for scans 263–294; those pages remain `not-started` until their text is reconciled directly against native pixels.
 
 ## Current continuity joins / transitions
 
@@ -96,7 +96,8 @@ These observations map structure only for scans 262–294; those pages remain `n
 - 257→258: `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`;
 - 259→260: no mid-word join; scan 260 begins a fresh Velliyambalam dialogue;
 - 260→261: `வெள்ளியம்பலம்` + `கேட்டு விட்டு, ...` — continuous sentence;
-- scan 261 ends `விடிந்த`; scan 262 must continue the sentence before the chapter-30 transition.
+- 261→262: `விடிந்த` + `தும்` = `விடிந்ததும்`;
+- scan 262 closes chapter 29, carries the source-printed chapter 30 heading, and ends at `துக்காராமுக்கோ,`.
 
 ## Corrected old-type reinspection — scans 256–259
 
@@ -126,6 +127,21 @@ Direct high-resolution inspection confirms:
 
 No unresolved glyph remains on scan 261.
 
+## Scan 262 native findings
+
+The Iteration-25 baseline is reconciled against the full high-resolution page:
+
+- 261→262 `விடிந்த` + `தும்` = `விடிந்ததும்`;
+- source `குறுக்கிட்டது`, not baseline `குறுக்கிட்ட்து`;
+- source `என்று கூறினான்`, not baseline `ஏன்று கூறினான்`;
+- source punctuation `ஆம்;` and spacing `நடந்து, நடந்து` are retained;
+- old-type second pass confirms complete `தெரியவில்லை`, including final `லை`;
+- source-specific `தன்னந் தனியாக` and `கிழவருந்தான்` are retained;
+- chapter 30 begins on this page after a source-printed horizontal rule;
+- physical endpoint: `துக்காராமுக்கோ,`.
+
+No unresolved glyph remains on scan 262.
+
 ## Fidelity records
 
 - scans 246–249: `../notes/visual-fidelity-scans-246-249.md`
@@ -135,7 +151,8 @@ No unresolved glyph remains on scan 261.
 - scans 256–259: `../notes/visual-fidelity-scans-256-259.md` — corrected after second high-resolution reinspection
 - scan 260: `../notes/visual-fidelity-scan-260.md`
 - scan 261: `../notes/visual-fidelity-scan-261.md`
+- scan 262: `../notes/visual-fidelity-scan-262.md`
 
 ## Exact next activity
 
-Reconcile **scan 262 / printed page 258** directly against native source pixels. First close scan 261's physical endpoint `விடிந்த`, then capture the source-printed chapter-30 transition later on the page. Apply the strengthened two-pass old-typeform rule before overriding any baseline character or word spacing. Do not begin the Part-006 Tamil audit, assembled Tamil or English stages until all 49 physical pages have canonical records and native-fidelity dispositions.
+Reconcile **scan 263 / printed page 259** from user Iteration 25 directly against native source pixels, continuing chapter 30 from scan 262's endpoint `துக்காராமுக்கோ,`. Apply the strengthened two-pass old-typeform rule before overriding any baseline character or word spacing. Do not begin the Part-006 Tamil audit, assembled Tamil or English stages until all 49 physical pages have canonical records and native-fidelity dispositions.
