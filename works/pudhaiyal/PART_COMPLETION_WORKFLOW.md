@@ -52,11 +52,11 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - physical pages / mapped source scans: **49 / 49 — scans 246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **5 / 49 — scans 246–250**
-- verified: **5**
+- canonical records: **6 / 49 — scans 246–251**
+- verified: **6**
 - needs-review: **0**
-- not-started: **44 — scans 251–294**
-- native-fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md)
+- not-started: **43 — scans 252–294**
+- native-fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md)
 - Tamil audit: **not eligible**
 - assembled Tamil: **not eligible**
 - controlled English: **not eligible**
@@ -69,9 +69,9 @@ Mandatory opening continuity is closed from native evidence:
 - scan 246 begins `இருக்கிறாள் பரிமளா, ...`;
 - joined reading: `இருக்கவே இருக்கிறாள் பரிமளா, ...`.
 
-Scan **250 / printed 246** was directly transcribed from the native page at high resolution with no user baseline. The permanent old-typeform check was applied and the page is `verified` with no unresolved glyph.
+Scans **250–251** were directly transcribed from native pages at high resolution with no user baseline. Scan 251 ends the current scene with a source-printed four-star internal separator. The permanent old-typeform check was applied and both pages are `verified` with no unresolved glyph.
 
-Part-006 mapped chapter transitions: chapter 28 begins scan 247; 29 begins 254; 30 begins 262; 31 begins 271; 32 begins 278; 33 begins 288.
+Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254; 30 begins 262; 31 begins 271; 32 begins 278; 33 begins 288.
 
 Do not run the Part-006 Tamil audit or any downstream stage until all scans 246–294 have canonical records and native-fidelity dispositions.
 
@@ -98,4 +98,4 @@ Source-condition exceptions remain permanently explicit unless stronger source e
 
 ## Exact next activity
 
-Directly transcribe and visually verify **scan 251 / printed page 247** from the native Part-006 source. Continue chapter 28 without treating the physical-page boundary as a narrative boundary, and apply the mandatory old-typeform check before accepting any disputed glyph.
+Directly transcribe and visually verify **scan 252 / printed page 248** from the native Part-006 source, beginning after the four-star internal transition. Continue chapter 28 without treating the physical-page boundary as a new chapter, and apply the mandatory old-typeform check before accepting any disputed glyph.
