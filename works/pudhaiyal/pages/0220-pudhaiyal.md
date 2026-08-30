@@ -7,12 +7,12 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 20 baseline reconciled directly against native split part 005 page 24 image"
+transcription_method: "user-supplied Iteration 20 baseline reconciled directly against native split part 005 page 24 image; old-glyph reinspection 2026-08-30"
 ---
 
-“என்ன நடந்திருக்கும்?—துரை! நீ கற்பனை பண்ணுவது எனக்கும் புரிகிறது. வள்ளியம்மா, வீணாக தன்மீது சந்தேகப்பட்டதாலும், தொடர்ந்து பிடிவாதமாக பேசாமலிருந்ததாலும், ஒரு குடும்பத்தின் திசையே திரும்பி விட்டது என்று எண்ணியிருப்பான் குமாரவடிவு!—அதன் விளைவாக சந்தேகப்பட்டதுதான் பட்டு விட்டாள்; இனிமேல் என்ன? அவளுந்தான் சந்தேக நிவர்த்தியின்றி செத்து விட்டாள்; ஆகையால் நாம் இஷ்டம்போல் அலையலாம் என்று கண்ட பெண்களையும் வட்டமிட்டிருப்பான் என்று எண்ணுகிறாயா? அதுதான் இல்ல! பிறகு எது? மன நிம்மதிக்கு மதுவாயிருக்குமோ, என்று யோசிக்கத் துவங்குகிறாயா? அதுவுமல்ல!”
+“என்ன நடந்திருக்கும்?—துரை! நீ கற்பனை பண்ணுவது எனக்கும் புரிகிறது. வள்ளியம்மா, வீணாக தன்மீது சந்தேகப்பட்டதாலும், தொடர்ந்து பிடிவாதமாக பேசாமலிருந்ததாலும், ஒரு குடும்பத்தின் திசையே திரும்பி விட்டது என்று எண்ணியிருப்பான் குமாரவடிவு!—அதன் விளைவாக சந்தேகப்பட்டதுதான் பட்டு விட்டாள்; இனிமேல் என்ன? அவளுந்தான் சந்தேக நிவர்த்தியின்றி செத்து விட்டாள்; ஆகையால் நாம் இஷ்டம்போல் அலையலாம் என்று கண்ட பெண்களையும் வட்டமிட்டிருப்பான் என்று எண்ணுகிறாயா? அதுதான் இல்லை! பிறகு எது? மன நிம்மதிக்கு மதுவாயிருக்குமோ, என்று யோசிக்கத் துவங்குகிறாயா? அதுவுமல்ல!”
 
-“எதுவானாலும் எனக்குக் கவலையில்ல! என் தந்தை எப்படி இறந்தார் என்ற செய்தியை மட்டும் சொல்லுங்கள், போதும்!”
+“எதுவானாலும் எனக்குக் கவலையில்லை! என் தந்தை எப்படி இறந்தார் என்ற செய்தியை மட்டும் சொல்லுங்கள், போதும்!”
 
 “பாம்பு கடித்து இறந்தான்! போதுமா?”
 
@@ -30,7 +30,7 @@ transcription_method: "user-supplied Iteration 20 baseline reconciled directly a
 
 ## Source notes
 
-- Source preserves `அதுதான் இல்ல!` and `எனக்குக் கவலையில்ல!`; they are not normalized to `இல்லை`.
-- Printed page **216** is directly readable despite the repair strip and is source-verified.
+- High-resolution old-type reinspection confirms baseline `அதுதான் இல்லை!` and `எனக்குக் கவலையில்லை!`; the earlier assistant shortened forms are withdrawn.
+- Printed page **216** is directly readable despite the repair strip and remains source-verified.
 
 <!-- மூல ஸ்கேன் பக்கம்: 220; அச்சுப் பக்கம்: 216 -->
