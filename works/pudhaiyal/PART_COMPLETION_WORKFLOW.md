@@ -17,6 +17,8 @@ The split PDFs are **access derivatives of one source edition**, not separate bi
 
 A derivative boundary is provenance only. Do not invent word, sentence, paragraph, scene or chapter boundaries from it.
 
+A part Tamil gate normally passes with all pages verified. Where the controlling physical source itself is damaged and stronger witnesses do not exist, the audit may instead record an **explicit source-damage disposition**. Such pages remain `needs-review`; they are never silently promoted to `verified`. Subsequent assembled/English work must preserve that provenance and may not claim whole-work verification from it.
+
 ## Completed split checkpoints
 
 - Part 001 — scans **1–49** — **`part-complete`**
@@ -30,18 +32,18 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245
 
 Current state:
 
-- split pages: **49**
-- canonical records created: **42 — scans 197–238**
-- `verified`: **35**
+- split pages / canonical records: **49 / 49 — scans 197–245**
+- `verified`: **42**
 - `needs-review`: **7 — scans 215–219, 223–224**
-- not-started: **7 — scans 239–245**
+- not-started: **0**
 - fidelity:
   - [`notes/visual-fidelity-scans-197-216.md`](notes/visual-fidelity-scans-197-216.md)
   - [`notes/visual-fidelity-scans-217-228.md`](notes/visual-fidelity-scans-217-228.md)
   - [`notes/visual-fidelity-scans-229-238.md`](notes/visual-fidelity-scans-229-238.md)
+  - [`notes/visual-fidelity-scans-239-245.md`](notes/visual-fidelity-scans-239-245.md)
 - derivative map: [`indexes/part-005-page-map.md`](indexes/part-005-page-map.md)
-- Tamil audit: **not yet eligible**
-- assembled Tamil / English: **not started for Part 005**
+- Tamil audit: [`notes/part-005-tamil-audit.md`](notes/part-005-tamil-audit.md) — **`part-tamil-audit-source-damage-closed`**
+- assembled Tamil / English: **not yet completed for Part 005**
 - state: **in progress**
 
 Structure established:
@@ -49,8 +51,10 @@ Structure established:
 - chapter 22 closes on scan **205**;
 - chapter 23 begins scan **206**, closes scan **214**;
 - chapter 24 begins scan **215**, closes scan **225**;
-- chapter 25 begins scan **226**, closes on scan **235**;
-- chapter **26** begins on scan **235** and continues beyond scan 238.
+- chapter 25 begins scan **226**, closes scan **235**;
+- chapter **26** begins on scan **235**, closes scan **240**;
+- chapter **27** begins scan **241** and continues beyond the Part-005 endpoint;
+- scan **245 / printed 241** ends mid-sentence at `இருக்கவே`.
 
 Source-condition exceptions:
 
@@ -59,10 +63,8 @@ Source-condition exceptions:
 - user baseline is retained where source pixels are hidden, but those scans remain `needs-review`;
 - no uncertainty may be closed from grammar/context alone.
 
-Iteration 21 closes scans **229–238** at **10 / 10 verified** with no new uncertainty.
+Iteration 21 closed scans **229–238** at **10 / 10 verified**. Iteration 22 closed scans **239–245** at **7 / 7 verified** with no new uncertainty.
 
-## Exact next source activity
+## Exact next activity
 
-Continue canonical transcription from **scan 239 / printed page 235 / Part-005 split page 43**. Chapter 26 continues.
-
-Do not begin Part-005 assembled Tamil or English until all 49 physical scans have canonical records and the Part-005 Tamil audit passes or otherwise reaches the explicit project-approved uncertainty disposition.
+Build the **Part-005 assembled Tamil** from scans **197–245**. Keep the seven source-damage qualifications explicit and preserve scan 245's open continuation at `இருக்கவே`. Then complete the controlled English translation, English source-check and part-level bilingual review before marking Part 005 `part-complete`.
