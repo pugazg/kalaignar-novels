@@ -1,6 +1,6 @@
 # Tamil / split-part audit — புதையல்
 
-Status: **IN PROGRESS — Parts 001–004 part-complete; Part 005 Tamil audit closed with explicit source-damage exceptions; assembled/English pending; whole-work gate not yet eligible**
+Status: **IN PROGRESS — Parts 001–005 part-complete at split level; whole-work gate not yet eligible**
 
 Source: `TVA_BOK_0064097_புதையல்.pdf`
 
@@ -12,9 +12,9 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 | 002 | 50–98 | PASSED | PASSED | PASSED | part-complete |
 | 003 | 99–147 | PASSED | PASSED | PASSED | part-complete |
 | 004 | 148–196 | PASSED | PASSED | PASSED | part-complete |
-| 005 | 197–245 | **SOURCE-DAMAGE-CLOSED** | pending | pending | in progress |
+| 005 | 197–245 | **SOURCE-DAMAGE-CLOSED** | **PASSED WITH QUALIFICATION** | **PASSED WITH QUALIFICATION** | **part-complete** |
 
-## Part 005 — canonical/Tamil gate complete
+## Part 005 — completed split checkpoint
 
 Derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
 
@@ -24,8 +24,10 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
 - partial: **0**
 - not-started: **0**
 - Part-005 Tamil audit: [`notes/part-005-tamil-audit.md`](notes/part-005-tamil-audit.md) — **closed with explicit source-damage exceptions**
-- assembled Tamil: **eligible next**
-- English: **pending assembled Tamil**
+- assembled Tamil: **completed / part-reviewed**
+- English: **completed / source-checked / bilingual review passed with the same source-damage qualification**
+- bilingual review: [`translations/en/PART_005_REVIEW.md`](translations/en/PART_005_REVIEW.md)
+- state: **`part-complete`**
 
 Fidelity records:
 
@@ -38,7 +40,7 @@ Fidelity records:
 
 Scans **215–219** remain obstructed by repair/tape; duplicate printed-page witnesses of pages 214–215 do not expose enough additional pixels to certify the hidden letters. Scans **223–224 / printed pages 219–220** have large physical loss. The user baseline is retained where source pixels are missing, but these seven physical records remain `needs-review`.
 
-The Part-005 Tamil audit therefore does **not** claim 49/49 native verification. Instead, the split workflow advances under the explicit source-damage exception recorded in `notes/part-005-tamil-audit.md`. No damaged scan is silently promoted to `verified`.
+Part completion does **not** mean 49/49 native verification. It means the split workflow was allowed to proceed under the explicit source-damage exception established by the approved workflow. No damaged scan has been silently promoted to `verified`.
 
 ### Structure
 
@@ -47,18 +49,24 @@ The Part-005 Tamil audit therefore does **not** claim 49/49 native verification.
 - chapter 24: begins scan 215; closes scan 225;
 - chapter 25: begins scan 226; closes scan 235;
 - chapter 26: begins scan 235; closes scan 240;
-- chapter 27: begins scan 241 and continues beyond scan 245;
+- chapter 27: begins scan 241 and continues beyond the Part-005 endpoint;
 - scan 245 / printed 241 ends mid-sentence at `இருக்கவே`.
 
-### Iteration-22 gate
+### Important continuity joins
 
-Scans **239–245 / printed pages 235–241** were directly reconciled against the native derivative: **7 / 7 verified, 0 new needs-review**.
-
-Important physical joins:
-
+- 196→197: chapter 22 continues across the split boundary;
+- 204→205: `குதூகலமு` + `மாக` = `குதூகலமுமாக`;
+- 206→207: `என்று தனக்குத் தானே` + `வருத்தப்பட்டுக்கொண்டான் துரை.`;
+- 208→209: `வெளி` + `யிலே` = `வெளியிலே`;
+- 212→213: `அவனிடம்` + `பெற்ற பாடம்`;
+- 216/218 printed 214 → 217/219 printed 215: duplicate physical witnesses, not duplicate narrative passages;
+- 227→228: `சிறு` + `கல்லும்` = `சிறு கல்லும்`;
+- 228→229: `‘கள்வர் புகும்` + `வழியிலே’`;
+- 230→231: `அவன் கண்` + `கள்` = `அவன் கண்கள்`;
+- 235→236: `அமைந்` + `திருந்தன.` = `அமைந்திருந்தன.`;
+- 237→238: `அந்தப் பிடியி` + `லிருந்து` = `அந்தப் பிடியிலிருந்து`;
 - 239→240: `என்ன செய்` + `தானே?`;
-- 243→244: `அங்கே` + `அடர்ந்திருக்கும்`;
-- scan 245 remains an open derivative boundary at `இருக்கவே`.
+- 243→244: `அங்கே` + `அடர்ந்திருக்கும்` continues one sentence.
 
 ## Aggregate canonical state
 
@@ -66,8 +74,9 @@ Important physical joins:
 - verified: **238**
 - needs-review: **7**
 - partial: **0**
-- clean contiguous verified coverage: through scan **214 / printed page 212**
+- clean contiguous fully verified coverage: through scan **214 / printed page 212**
 - later individually verified coverage: through scan **245**, except the seven explicitly damaged scans
+- continuous split-level assembled Tamil / English review: through scan **245**, with those seven qualifications retained
 - full-source coverage: incomplete beyond scan 245
 
 ## Whole-work gate
@@ -76,4 +85,4 @@ Important physical joins:
 
 ## Exact next activity
 
-Build the Part-005 assembled Tamil from scans **197–245**, preserving the seven source-damage qualifications and the open scan-245 continuation. Then complete controlled English translation and bilingual review before marking Part 005 `part-complete`.
+Obtain / attach the next source derivative beginning at **scan 246 / printed page 242**. Resume chapter 27 directly from the open scan-245 endpoint `இருக்கவே`; do not infer the continuation from grammar, context or outside editions.
