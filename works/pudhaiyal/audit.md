@@ -8,9 +8,14 @@ Source: `TVA_BOK_0064097_புதையல்.pdf`
 
 The native scan is the textual authority. Before overriding a user baseline because a final character or vowel mark appears absent, inspect the **whole glyph cluster at high resolution**, explicitly consider old/historical Tamil typeforms, and use more than one useful scale/contrast when a mark is faint. Compare another clear occurrence from the same edition where helpful.
 
-This source demonstrated that faint final `லை` can resemble bare `ல்` at ordinary zoom. A correction therefore requires positive native-pixel evidence. If the pixels remain ambiguous, retain the baseline and `needs-review`. Never apply a global `வில்ல` ↔ `வில்லை` or `இல்ல` ↔ `இல்லை` replacement.
+This source has now demonstrated at least two distinct old/faint-vowel hazards:
 
-**Strengthened after the scans-256–259 failure:** an apparent baseline difference limited to an old-type vowel sign, same-word letter shape, or line-wrap spacing requires a second independent visual pass before the baseline may be changed. Same-edition comparison should be used when possible. A printed line break alone is not evidence for a word-internal space. If the user challenges a glyph reading, reopen every assistant-origin discrepancy in that batch before proceeding.
+- final `லை` can resemble bare `ல்` at ordinary zoom;
+- scan 264 source `என்னா` has a faint `ா` that was initially missed and falsely shortened to `என்ன`.
+
+The safeguard therefore applies to **every vowel sign / combining mark**, not only final `ை`. A correction requires positive native-pixel evidence. If pixels remain ambiguous, retain the baseline and `needs-review`. Never apply a global spelling or vowel-sign replacement.
+
+**Strengthened after the scans-256–259 and scan-264 failures:** an apparent baseline difference limited to an old-type vowel sign, same-word letter shape, or line-wrap spacing requires a second independent visual pass before the baseline may be changed. Same-edition comparison should be used when possible. A printed line break alone is not evidence for a word-internal space. If the user challenges a glyph reading, reopen every assistant-origin discrepancy in that batch before proceeding.
 
 ## Completed part checkpoints
 
@@ -36,6 +41,7 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - not-started: **30 — scans 265–294**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
 - latest native-fidelity record: [`notes/visual-fidelity-scan-264.md`](notes/visual-fidelity-scan-264.md)
+- scan-264 correction record: [`notes/old-glyph-correction-scan-264.md`](notes/old-glyph-correction-scan-264.md)
 - Part-006 Tamil audit: **NOT ELIGIBLE**
 - assembled Tamil / English / bilingual review: **NOT ELIGIBLE**
 - state: **`in-progress`**
@@ -59,17 +65,19 @@ Native high-resolution reconciliation establishes:
 - full `மறந்து விடவில்லை` confirmed on second old-typeform pass;
 - page endpoint `அவர்!`.
 
-### Scan 264 / printed 260
+### Scan 264 / printed 260 — corrected after user challenge
 
-Native high-resolution reconciliation establishes:
+Fresh enlarged native inspection establishes:
 
-- baseline `என்னா - தெரியாது மாதிரி விழிக்கிறே?` → source **`என்ன — தெரியாது மாதிரி விழிக்கிறே?`**;
-- source punctuation **`தெரியவில்லை — விழித்தாள்!`**, **`சரி — சரி —`**, and **`வந்தேனே......`**;
+- user baseline word **`என்னா`** is source-supported;
+- earlier assistant `என்ன` is withdrawn; the faint/old `ா` after `ன்ன` had been missed;
+- canonical punctuation is **`என்னா — தெரியாது மாதிரி விழிக்கிறே?`**;
+- source punctuation also confirms **`தெரியவில்லை — விழித்தாள்!`**, **`சரி — சரி —`**, and **`வந்தேனே......`**;
 - printed wraps inside `காரணமும்`, `அவருக்குப்`, `ஆவலோடு`, `புரியவில்லை`, `இல்லையா`, and `வெள்ளியம்பலம்` are typographic only;
 - second old-typeform pass confirms complete `புரியவில்லை`, including final `லை`;
 - page endpoint `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
 
-No unresolved old-type glyph remains through scan 264.
+All assistant-origin discrepancies on scan 264 were reopened after the challenge. No unresolved old-type glyph remains on the page.
 
 ### Structure mapped in Part 006
 
@@ -102,4 +110,4 @@ Only scans 246–264 are textually verified at this checkpoint; structural inspe
 
 ## Exact next activity
 
-Reconcile **scan 265 / printed page 261** from user Iteration 25 against native source pixels, continuing chapter 30. Apply the strengthened second-pass old-Tamil-typeform and printed-line-wrap rules to every proposed baseline override. Do not run Part-006 Tamil audit or downstream gates yet.
+Reconcile **scan 265 / printed page 261** from user Iteration 25 against native source pixels, continuing chapter 30. Apply the strengthened second-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions. Do not run Part-006 Tamil audit or downstream gates yet.
