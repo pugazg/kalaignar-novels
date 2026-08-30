@@ -18,12 +18,13 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 
 ## Split-source access derivatives
 
-| Part | Access derivative | Source scans | Printed range | Integrity / workflow |
+| Part | Access derivative | Source scans | Printed range currently established | Integrity / workflow |
 |---|---|---:|---:|---|
 | 001 | `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` | 1–49 | through 47 | **49/49 verified; part-complete** |
 | 002 | `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf` | 50–98 | 48–96 | **49/49 verified; part-complete** |
 | 003 | `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf` | 99–147 | 97–145 | **49/49 verified; part-complete** |
 | 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **49/49 verified; part-complete** |
+| 005 | `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf` | 197–245 | through printed 224 mapped | **32 records; 25 verified; 7 needs-review; in progress** |
 
 These splits are access derivatives of the same controlling edition and do not establish new editions. No split PDF is committed to GitHub.
 
@@ -39,78 +40,53 @@ These splits are access derivatives of the same controlling edition and do not e
   - **சாதாரணப் பதிப்பு ரூ 5/-**
   - **நூல் நிலையப் பதிப்பு ரூ 6/-**
 
-The earlier assistant transcription `ஸ்பெஷல் பதிப்பு` was a scan misread and has been withdrawn. Catalogue wording elsewhere does not override the scan-printed edition line.
-
 ## Printed-page rule
 
-Record a printed number only when visibly printed. Scan 13 remains `null` / `—` because no printed number is visible.
+Record a printed number only when visibly printed. Repeated printed pages are not collapsed: every physical scan remains a provenance record.
 
-Later checkpoints include:
+Part-005 anomaly established from native scans:
 
-- scan 147 → printed 145
-- scan 148 → printed 146
-- scan 158 → printed 156
-- scan 159 → printed 157
-- scan 167 → printed 165
-- scan 172 → printed 170
-- scan 179 → printed 177
-- scan 187 → printed 185
-- scan 196 → printed 194
+- scan 215 → printed 213
+- scan 216 → printed 214
+- scan 217 → printed 215
+- scan 218 → printed 214 **duplicate**
+- scan 219 → printed 215 **duplicate**
+- scan 220 → printed 216
+- scan 221 → printed 217
+- scan 222 → printed 218
+- scan 223 → printed 219, physically torn
+- scan 224 → printed 220, physically torn
+- scan 225 → printed 221
+- scan 226 → printed 222
+- scan 227 → printed 223
+- scan 228 → printed 224
+
+The duplicate 214/215 witnesses repeat the repair/tape obstruction and do not source-resolve the obscured letters.
 
 ## Current work structure established by direct evidence
 
-```text
-புதையல்
-├── scans 7–12: அறிமுகம்
-├── scan 13: chapter 1 begins
-├── scan 22: chapter 1 closes; chapter 2 begins
-├── scan 30: chapter 2 closes; chapter 3 begins
-├── scan 40: chapter 3 closes; chapter 4 begins
-├── scan 46: four-star internal transition
-├── scan 52: chapter 4 closes; chapter 5 begins
-├── scan 60: chapter 5 closes; chapter 6 begins
-├── scan 68: chapter 6 closes
-├── scan 69: chapter 7 begins
-├── scan 75: chapter 7 closes; chapter 8 begins
-├── scan 83: chapter 8 closes
-├── scan 84: chapter 9 begins
-├── scan 92: chapter 9 closes
-├── scan 93: chapter 10 begins
-├── scan 98: four-star internal transition inside chapter 10
-├── scan 101: chapter 10 closes
-├── scan 102: chapter 11 begins
-├── scan 107: four-star internal transition inside chapter 11
-├── scan 110: chapter 11 closes; chapter 12 begins
-├── scan 118: four-star internal transition inside chapter 12
-├── scan 119: chapter 13 begins
-├── scan 122: four-star internal transition inside chapter 13
-├── scan 128: chapter 13 closes; chapter 14 begins
-├── scan 138: chapter 14 closes; chapter 15 begins
-├── scan 146: chapter 15 closes; chapter 16 begins
-├── scan 154: chapter 16 closes
-├── scan 155: chapter 17 begins
-├── scan 163: chapter 17 closes; chapter 18 begins
-├── scan 171: chapter 18 closes
-├── scan 172: chapter 19 begins
-├── scan 179: chapter 19 closes; chapter 20 begins
-├── scan 187: chapter 20 closes; chapter 21 begins
-└── scan 196: chapter 21 closes; chapter 22 begins; end of Part 004 only
-```
+- chapter 22 begins on scan 196 and closes on scan 205;
+- chapter 23 begins on scan 206 and closes on scan 214;
+- chapter 24 begins on scan 215 and closes on scan 225;
+- chapter 25 begins on scan 226 and continues beyond scan 228.
+
+Earlier chapter structure through scan 196 remains recorded in `../indexes/page-map.md`.
 
 ## Canonical Tamil state
 
-- page records created: **196**
-- verified: **196**
-- needs-review: **0**
+- page records created: **228**
+- verified: **221**
+- needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
-- unresolved readings through scan 196: **0**
-- Parts 001–004 canonical coverage: **complete / part-complete**
+- clean continuous verified range: through scan **214 / printed 212**
+- Parts 001–004: **part-complete**
+- Part 005: **in progress**
 - backward integrity audit: **COMPLETE through scan 118**
-- forward source-fidelity transcription: **verified through scan 196**
 
-Part-004 Tamil audit: [`../notes/part-004-tamil-audit.md`](../notes/part-004-tamil-audit.md) — **49 / 49 verified; unresolved 0; PASSED**.
+Part-005 fidelity:
 
-Part-004 bilingual review: [`../translations/en/PART_004_REVIEW.md`](../translations/en/PART_004_REVIEW.md) — **PASSED / part-complete**.
+- [`../notes/visual-fidelity-scans-197-216.md`](../notes/visual-fidelity-scans-197-216.md)
+- [`../notes/visual-fidelity-scans-217-228.md`](../notes/visual-fidelity-scans-217-228.md)
 
 ## Completeness still open
 
@@ -118,10 +94,9 @@ Part-004 bilingual review: [`../translations/en/PART_004_REVIEW.md`](../translat
 - exact full scan-object count: **pending**
 - original full-source SHA-256: **pending**
 - true ending / back matter: **not yet inspected**
-- page map beyond scan 196: **not yet established**
+- Part-005 scans 229–245: **not yet canonically processed**
+- later split ranges beyond 245: **not yet reconciled**
 
 ## Exact next action
 
-Obtain / attach the next source split beginning at **scan 197 / printed page 195** and process that derivative under `../PART_COMPLETION_WORKFLOW.md`.
-
-Scan 196 begins chapter **22**; the next split must continue it from native source evidence. Do not infer the continuation from grammar, context or outside editions.
+Continue Part 005 at **scan 229 / printed page 225 / split page 33**. Scan 228 ends `‘கள்வர் புகும்`; scan 229 visibly continues `வழியிலே’`.
