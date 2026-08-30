@@ -16,20 +16,22 @@ Baseline:
 
 No source PDF or split PDF is committed.
 
+A 2026-08-30 retrospective old-type audit re-opened earlier assistant corrections because the edition's faint final `லை` glyph can resemble bare `ல்` at ordinary zoom. The corrected findings below supersede the earlier shortened readings. See [`old-glyph-retrospective-audit-120-245.md`](old-glyph-retrospective-audit-120-245.md).
+
 ## Source-confirmed corrections / recoveries
 
-- scan 198: source `இல்ல`, not normalized `இல்லை`;
-- scan 199: source `இல்ல பரிமளா! தெருக் கூத்து!`;
+- scan 198: baseline full `இல்லை` forms are confirmed; earlier assistant shortening to `இல்ல` is withdrawn;
+- scan 199: source confirms `இல்லை பரிமளா! தெருக் கூத்து!` and later full `இல்லை`;
 - scan 200: source-odd `கெடுத்து விட்டேனும்`;
-- scan 201: `மாட்டுக்காரப் பையனை வேடம் தரித்தேன்`, `செய்ததில்ல`;
+- scan 201: `மாட்டுக்காரப் பையனை வேடம் தரித்தேன்`; baseline `செய்ததில்லை` is confirmed, replacing the earlier false `செய்ததில்ல` correction;
 - scan 202: `கிணற்றங் கரையிலே நின்று கொண்டு`, `நல்லதங்கை வேஷம்`;
 - scan 204: `நன்றுகக் கொட்டிவிட்டது`; source-printed `சுபம்!` restored;
 - scan 205: `வாசித்து விட்டு`, `ஒன்று பட்டோம்`, `பரிமளாவை`, `பள்ளிக் கூடம்`, `போலீஸ் உடை எங்கள் நாடகக் கம்பெனி உடையாகும்`;
 - scan 206: chapter **23** begins;
-- scan 207: first physical text `வருத்தப்பட்டுக்கொண்டான் துரை.` closes scan 206's sentence; source `தவறொன்றுமில்ல துரை`;
+- scan 207: first physical text `வருத்தப்பட்டுக்கொண்டான் துரை.` closes scan 206's sentence; baseline `தவறொன்றுமில்லை துரை` is confirmed;
 - scan 209: `தீட்டிய அரிவாளால்!`, not baseline `அறிவாளால்`;
 - scan 210: `சொந்தப் புருஷனை என்னையே`;
-- scan 214: Mayandi explicitly replies `இல்ல`; the baseline's empty quotation is rejected;
+- scan 214: Mayandi explicitly replies `இல்லை`; the earlier assistant `இல்ல` is withdrawn;
 - scan 215: chapter **24** begins, but repair/tape obstruction prevents full verification;
 - scan 216: printed page 214 likewise remains obstructed.
 
@@ -54,6 +56,4 @@ Scan 215 / printed 213 has no cleaner witness established in the current derivat
 
 ## Gate
 
-Part 005 cannot receive a part-level Tamil `PASSED` verdict while scans 215–216 remain `needs-review` and scans 217–245 remain unprocessed.
-
-Exact forward transcription point: **scan 217 / printed page 215**.
+The retrospective glyph correction does not alter the damaged-page disposition. Scans 215–216 remain `needs-review`; readable scans 197–214 remain verified after reinspection.
