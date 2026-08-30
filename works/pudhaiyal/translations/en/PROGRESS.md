@@ -20,11 +20,11 @@
 | Chapter 10, Part 003 continuation | 99–101 | assembled / verified | source-checked |
 | Chapter 11 | 102–110 portion | assembled / verified | source-checked |
 | Chapter 12 | 110 portion–118 | assembled / verified | source-checked |
-| Chapter 13 | 119–128 portion | assembled / verified | source-checked |
+| Chapter 13 | 119–128 portion | assembled / verified; scan-120 old-glyph correction synchronized | source-checked; meaning unchanged |
 | Chapter 14 | 128 portion–138 portion | assembled / verified | source-checked |
 | Chapter 15 | 138 portion–146 portion | assembled / verified | source-checked |
 | Chapter 16, Part 003 portion | 146 portion–147 | assembled / verified | source-checked |
-| **Part 003 checkpoint** | **99–147** | **part Tamil audit PASSED** | **bilingual review PASSED / part-complete** |
+| **Part 003 checkpoint** | **99–147** | **part Tamil audit PASSED after scan-120 integrity correction** | **bilingual review re-affirmed / part-complete** |
 | Chapter 16, Part 004 continuation | 148–154 | assembled / verified | source-checked |
 | Chapter 17 | 155–163 portion | assembled / verified | source-checked |
 | Chapter 18 | 163 portion–171 | assembled / verified | source-checked |
@@ -33,13 +33,13 @@
 | Chapter 21 | 187 portion–196 portion | assembled / verified | source-checked |
 | Chapter 22, Part 004 opening | 196 portion | assembled / verified through split endpoint | source-checked through split endpoint |
 | **Part 004 checkpoint** | **148–196** | **part Tamil audit PASSED** | **bilingual review PASSED / part-complete** |
-| Chapter 22, Part 005 continuation | 197–205 | assembled / audited | source-checked |
-| Chapter 23 | 206–214 | assembled / verified | source-checked |
-| Chapter 24 | 215–225 | assembled / source-damage-qualified | source-checked with same qualification |
-| Chapter 25 | 226–235 portion | assembled / audited | source-checked |
-| Chapter 26 | 235 portion–240 | assembled / verified | source-checked |
-| Chapter 27, Part 005 opening | 241–245 | assembled / verified through split endpoint | source-checked through split endpoint |
-| **Part 005 checkpoint** | **197–245** | **Tamil audit SOURCE-DAMAGE-CLOSED; 42 verified + 7 needs-review** | **bilingual review PASSED WITH SOURCE-DAMAGE QUALIFICATION / part-complete** |
+| Chapter 22, Part 005 continuation | 197–205 | assembled / old-glyph-resynchronized | source-checked; meaning unchanged |
+| Chapter 23 | 206–214 | assembled / old-glyph-resynchronized | source-checked; meaning unchanged |
+| Chapter 24 | 215–225 | assembled / source-damage-qualified; readable old-glyph corrections synchronized | source-checked with same qualification |
+| Chapter 25 | 226–235 portion | assembled / old-glyph-resynchronized | source-checked; meaning unchanged |
+| Chapter 26 | 235 portion–240 | assembled / old-glyph-resynchronized | source-checked; meaning unchanged |
+| Chapter 27, Part 005 opening | 241–245 | assembled / old-glyph-resynchronized through split endpoint | source-checked through split endpoint; meaning unchanged |
+| **Part 005 checkpoint** | **197–245** | **Tamil audit SOURCE-DAMAGE-CLOSED; 42 verified + 7 needs-review after readable-page old-glyph reinspection** | **bilingual review re-affirmed WITH SOURCE-DAMAGE QUALIFICATION / part-complete** |
 
 Review records:
 
@@ -49,8 +49,14 @@ Review records:
 - [`PART_004_REVIEW.md`](PART_004_REVIEW.md)
 - [`PART_005_REVIEW.md`](PART_005_REVIEW.md)
 
-Continuous split-level English review now covers source scans **1–245**. The seven Part-005 damaged physical records — scans **215–219 and 223–224** — remain explicit qualifications and are not promoted to native verification by translation.
+Retrospective Tamil integrity record:
 
-Scan **245 / printed page 241** ends mid-sentence at `இருக்கவே`; chapter 27 continues in the next derivative.
+- [`../../notes/old-glyph-retrospective-audit-120-245.md`](../../notes/old-glyph-retrospective-audit-120-245.md)
+
+The 2026-08-30 old-glyph reinspection restored missed final `லை` forms on scan 120 and 22 readable Part-005 scans. These corrections do not change the intended negative meaning of the existing English, so the English source checks remain valid after review-document synchronization.
+
+Continuous split-level English review covers source scans **1–245**. The seven Part-005 damaged physical records — scans **215–219 and 223–224** — remain explicit qualifications and are not promoted to native verification by translation or by the glyph discovery.
+
+Scan **245 / printed page 241** ends mid-sentence at `இருக்கவே`; native Part 006 establishes the continuation `இருக்கவே இருக்கிறாள் பரிமளா, ...`.
 
 Whole-work English status: **not verified**. The complete source extent, later split ranges, true ending/back matter and final whole-work bilingual review remain open.
