@@ -52,11 +52,11 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - physical pages / mapped source scans: **49 / 49 — scans 246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **6 / 49 — scans 246–251**
-- verified: **6**
+- canonical records: **10 / 49 — scans 246–255**
+- verified: **10**
 - needs-review: **0**
-- not-started: **43 — scans 252–294**
-- native-fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md)
+- not-started: **39 — scans 256–294**
+- native-fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md), [`notes/visual-fidelity-scans-252-255.md`](notes/visual-fidelity-scans-252-255.md)
 - Tamil audit: **not eligible**
 - assembled Tamil: **not eligible**
 - controlled English: **not eligible**
@@ -69,7 +69,7 @@ Mandatory opening continuity is closed from native evidence:
 - scan 246 begins `இருக்கிறாள் பரிமளா, ...`;
 - joined reading: `இருக்கவே இருக்கிறாள் பரிமளா, ...`.
 
-Scans **250–251** were directly transcribed from native pages at high resolution with no user baseline. Scan 251 ends the current scene with a source-printed four-star internal separator. The permanent old-typeform check was applied and both pages are `verified` with no unresolved glyph.
+Scans **250–251** were directly transcribed from native pages at high resolution. Scans **252–255** were reconciled against user Iteration 24 and verified from native pixels. The batch preserves the source-printed four-star transition at scan 251, chapter-29 start at scan 254, source line-wrap continuities, and source-specific old/colloquial forms. The permanent old-typeform check was applied and all ten Part-006 records through scan 255 are `verified` with no unresolved glyph.
 
 Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254; 30 begins 262; 31 begins 271; 32 begins 278; 33 begins 288.
 
@@ -98,4 +98,4 @@ Source-condition exceptions remain permanently explicit unless stronger source e
 
 ## Exact next activity
 
-Directly transcribe and visually verify **scan 252 / printed page 248** from the native Part-006 source, beginning after the four-star internal transition. Continue chapter 28 without treating the physical-page boundary as a new chapter, and apply the mandatory old-typeform check before accepting any disputed glyph.
+Reconcile **scan 256 / printed page 252** from user Iteration 25 directly against the native Part-006 source. Continue chapter 29 and apply the mandatory old-typeform check before accepting any disputed glyph.
