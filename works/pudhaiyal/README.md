@@ -27,23 +27,26 @@ A derivative boundary is provenance only and must never create a false narrative
 | Part 002 | 50–98 | **part-complete** |
 | Part 003 | 99–147 | **part-complete** |
 | Part 004 | 148–196 | **part-complete** |
-| Part 005 | 197–245 | **in progress — 42 records / 35 verified / 7 needs-review** |
+| Part 005 | 197–245 | **Tamil canonical pass complete; Tamil audit source-damage-closed; assembled/English pending** |
 
 ## Part 005 — current derivative
 
 Source: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
 
-- split pages: **49**
-- source scans: **197–245**
-- records created: **197–238 — 42**
-- verified: **35**
+- split pages / source scans: **49 / 197–245**
+- canonical records: **49 / 49**
+- verified: **42**
 - needs-review: **7 — scans 215–219, 223–224**
-- remaining not-started: **239–245 — 7**
+- partial: **0**
+- not-started inside derivative: **0**
+- Tamil audit: [`notes/part-005-tamil-audit.md`](notes/part-005-tamil-audit.md) — **closed with explicit source-damage exceptions**
 - derivative map: [`indexes/part-005-page-map.md`](indexes/part-005-page-map.md)
 - fidelity records:
   - [`notes/visual-fidelity-scans-197-216.md`](notes/visual-fidelity-scans-197-216.md)
   - [`notes/visual-fidelity-scans-217-228.md`](notes/visual-fidelity-scans-217-228.md)
   - [`notes/visual-fidelity-scans-229-238.md`](notes/visual-fidelity-scans-229-238.md)
+  - [`notes/visual-fidelity-scans-239-245.md`](notes/visual-fidelity-scans-239-245.md)
+- assembled Tamil / English: **not yet completed for Part 005**
 - source/split PDF committed: **No**
 
 ### Structure established
@@ -52,39 +55,46 @@ Source: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
 - chapter 23 begins on scan 206 and closes on scan 214;
 - chapter 24 begins on scan 215 and closes on scan 225;
 - chapter 25 begins on scan 226 and closes on scan 235;
-- chapter **26** begins on scan 235 and continues beyond scan 238.
+- chapter 26 begins on scan 235 and closes on scan 240;
+- chapter 27 begins on scan 241 and continues beyond Part 005;
+- scan 245 / printed 241 ends mid-sentence at `இருக்கவே` and is **not** a narrative ending.
 
-### Part-005 source anomalies
+### Source-damage exceptions
 
-The derivative physically repeats printed pages **214–215**:
+The derivative physically repeats printed pages **214–215** at scans 216–219. Repair/tape obstruction remains across scans **215–219**, and the duplicate witnesses do not expose enough additional pixels to certify hidden letters.
 
-- scan 216 → printed 214
-- scan 217 → printed 215
-- scan 218 → printed 214 again
-- scan 219 → printed 215 again
+Printed pages **219–220** (scans **223–224**) are physically torn with substantial missing regions. The supplied baseline is retained where source pixels are absent, but these seven physical scans remain `needs-review`; none is silently upgraded to `verified`.
 
-These are retained as separate source/provenance records. The duplicate witnesses carry essentially the same repair/tape obstruction and do not resolve the hidden letters.
+### Iteration 22 source-confirmed differences
 
-Printed pages **219–220** (scans 223–224) are physically torn with large missing regions. Their supplied baseline text is retained, but those scans remain `needs-review`.
+Scans **239–245 / printed pages 235–241** were directly reconciled against native pixels: **7 / 7 verified**. Important baseline corrections include:
 
-Iteration 21 established, among other source-specific forms, `வழியிலே`, `தேவையில்ல`, `ஒன்றுமில்ல`, `எதுவுமில்ல`, `பிரியமும் இல்ல`, `பொன்மலைகள் வெளியே எடுக்க`, `கவலையில்ல`, `கொல்லர் தான்`, `வேண்டியதில்ல`, source-odd `வீணுக`, `முன்னேறி`, source-odd `நன்றுக`, and `அவளது கூச்சலே அவன் காதில் வாங்கவேயில்ல`.
+- `தன் ஆசை அத்தான்`, not `தன் ஆசை அத்தானை`;
+- scan join `என்ன செய்` + `தானே?`;
+- `தன் இதழ்கள்`, not `தன் இதழ்களை`;
+- `போலீசாரே உதவிக்கு வந்து`, not `வந்தது`;
+- `புரியவில்ல`, `புரிய வில்ல`, `காணப்படவில்ல`;
+- `ஒரு புதுவழி`;
+- `கேட்டார்கள்`, not baseline `கெட்டார்கள்`;
+- `சந்திக்கும்போதெல்லாம்`, `நிமிஷங்கூட ஆகவில்ல`;
+- `யோசனைகளைச்`, not baseline `யோகனைகளை`;
+- `விடவில்ல`, `தேவையில்ல`;
+- `இப்போது நான்`, not baseline `இப்போதே நான்`.
 
 ## Aggregate archival status
 
-- canonical Tamil page records: **238**
-- verified: **231**
+- canonical Tamil page records: **245**
+- verified: **238**
 - needs-review: **7**
 - partial: **0**
-- clean fully verified range remains continuous through scan **214 / printed page 212** because damaged Part-005 pages follow it; later individual scans are verified where explicitly marked
+- clean contiguous fully verified range remains through scan **214 / printed page 212** because the damaged Part-005 records follow it; later individual scans are verified where explicitly marked
 - backward integrity audit: **COMPLETE through scan 118**
 - Parts 001–004: **part-complete**
-- Part 005: **in progress**
-- assembled Tamil / English: part-reviewed through scan **196** only; Part 005 translation gate remains closed
+- Part 005: **Tamil gate closed with source-damage exceptions; assembled Tamil / English pending**
+- assembled Tamil / English: part-reviewed through scan **196** only
 - whole-work Tamil / English verification: **not yet eligible**
 - release-readiness: **blocked until complete source**
 
 ## Exact next activity
 
-Continue canonical transcription from **scan 239 / printed page 235 / Part-005 split page 43**. Scan 238 ends `வெளியே ஓடினாள்.` and chapter 26 continues on the next native page.
-
-Do not start Part-005 assembled Tamil or English until all 49 physical scans have canonical records and the Part-005 Tamil audit is eligible. Existing `needs-review` pages must remain explicit unless stronger source evidence resolves them.
+Build the **Part-005 assembled Tamil** from scans **197–245**, carrying the seven source-damage `needs-review` qualifications explicitly and preserving the open scan-245 boundary at `இருக்கவே`. Then complete the controlled English translation and bilingual review before marking Part 005 `part-complete`.
