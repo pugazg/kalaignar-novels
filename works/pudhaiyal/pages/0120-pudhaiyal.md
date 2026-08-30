@@ -7,10 +7,10 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user Iteration 11 baseline reconciled against native split part 003 image"
+transcription_method: "user Iteration 11 baseline reconciled against native split part 003 image; old-glyph reinspection 2026-08-30"
 ---
 
-"இல்ல இல்ல! வீடெல்லாம் ஊருக்குள்ளேயிருக்கிறது. இது நமக்கு தனி பங்களா மாதிரி—இங்கேயிருந்து எனக்கு வயல் வெளி தோட்டம் துரவு கவனிக்க ரொம்ப சௌகரியம். அதனால்—இங்கே ஒண்ணு கட்டிப்போட்டேன்" என்று பதில் கூறினார்.
+"இல்லை இல்லை! வீடெல்லாம் ஊருக்குள்ளேயிருக்கிறது. இது நமக்கு தனி பங்களா மாதிரி—இங்கேயிருந்து எனக்கு வயல் வெளி தோட்டம் துரவு கவனிக்க ரொம்ப சௌகரியம். அதனால்—இங்கே ஒண்ணு கட்டிப்போட்டேன்" என்று பதில் கூறினார்.
 
 "அவுங்க வீடெல்லாம் ரொம்ப எட்டியாக்கும்!"
 
@@ -18,15 +18,15 @@ transcription_method: "user Iteration 11 baseline reconciled against native spli
 
 "பார்த்தீங்களா! உலகத்திலே காதல் சரியாக பரவாததினால் எவ்வளவு சங்கடம் வருகிறது? அதனால் தான் என்னுடைய புஸ்தகத்திலே எழுதியிருக்கிறேன்; கடலில் உள்ள மீனுக்கும், காட்டில் உள்ள மானுக்கும், தேன் குடிக்கும் வண்டுக்கும், வயல் நண்டுக்கும் காதல் வழங்கிய கடவுளே! மனித ஜாதிக்கு அதை வழங்காமல் அதற்குள் உன் கடையை ஏன் மூடிவிட்டாய்? எப்படி என் கருத்து என்று நினைக்கிறீங்க!"
 
-"நல்லாயிருக்கு தம்பீ! நீங்க சொந்தமாகவே இதை எழுதுனீங்களா! இல்ல........"
+"நல்லாயிருக்கு தம்பீ! நீங்க சொந்தமாகவே இதை எழுதுனீங்களா! இல்லை........"
 
 "பல ஆராய்ச்சி செய்து எழுதியிருக்கிறேனாக்கும். பழைய காலத்து கல்வெட்டுன்னு கேள்விப்பட்டதில்லியா? சாக்ரடீஸ் என்றே ஒரு மனிதர் இந்தியாவுக்கு வந்து அகத்தியரோடு பேசிக்கொண்டிருக்கும்போது, அகத்தியர் காதலைப்பற்றி இப்படிச் சொல்லியிருக்கிறார். அந்த வார்த்தைகளை கல்லிலே செதுக்கி வச்சிருக்காங்க!—அதுவும் அராபி பாஷையிலே!—அதைத் தேடிப் பிடிச்சு கொண்டாந்து, நம்ப கதையிலே சேத்தேன்!"
 
 ## Integrity result
 
 - Reconciled against native split part 003 page 22 / printed page 118.
-- Source prints `இல்ல இல்ல!`, not baseline `இல்லை இல்லை!`.
-- Later source also prints `இல்ல........`, not `இல்லை........`.
+- High-resolution old-type reinspection confirms baseline `இல்லை இல்லை!`; the earlier assistant `இல்ல இல்ல!` was a false correction caused by missing the old/faint final `லை` glyph.
+- Later source likewise prints `இல்லை........`; the earlier assistant `இல்ல........` is withdrawn.
 - Source-odd `சாக்ரடீஸ் என்றே` is retained without correction.
 - No unresolved reading remains on this page.
 
