@@ -19,12 +19,18 @@ This is a split-part checkpoint under `../../PART_COMPLETION_WORKFLOW.md`. It is
 
 Tamil audit record: [`../../notes/part-003-tamil-audit.md`](../../notes/part-003-tamil-audit.md).
 
+### 2026-08-30 old-glyph integrity correction
+
+High-resolution reinspection after the Part-006 glyph discovery corrected scan **120 / printed 118**: the source reads `இல்லை இல்லை!` and later `இல்லை........`. The earlier assistant-shortened `இல்ல இல்ல!` / `இல்ல........` claims were caused by missing the old/faint final `லை` glyph and are withdrawn.
+
+The assembled Tamil chapter 13 has been re-synchronized. The English meaning of these lines does not change, so no semantic English prose rewrite is required. This review now takes the corrected Tamil canonical page as authority. See [`../../notes/old-glyph-retrospective-audit-120-245.md`](../../notes/old-glyph-retrospective-audit-120-245.md).
+
 ## Assembled Tamil inventory reviewed
 
 - `../../sections/checkpoints/part-003-chapter-10-continuation.md` — scans 99–101, completing chapter 10;
 - `../../sections/11-chapter-11.md` — scans 102–110 chapter-11 portion;
 - `../../sections/12-chapter-12.md` — scan 110 chapter-12 portion through scan 118;
-- `../../sections/13-chapter-13.md` — scans 119–128 chapter-13 portion;
+- `../../sections/13-chapter-13.md` — scans 119–128 chapter-13 portion, re-synchronized after scan-120 old-glyph correction;
 - `../../sections/14-chapter-14.md` — scan 128 chapter-14 portion through scan 138 chapter-14 portion;
 - `../../sections/15-chapter-15.md` — scan 138 chapter-15 portion through scan 146 chapter-15 portion;
 - `../../sections/16-chapter-16.md` — scan 146 chapter-16 portion through scan 147; continues in the next source split.
@@ -86,6 +92,7 @@ The English was checked against the audited canonical/assembled Tamil, not again
 - all substantive narrative, dialogue, repetitions, satire and rhetorical turns in scans 99–147 are represented;
 - scan 99's restored `சொல்வேன் என்று நினைக்கிறீர்கள்!` / `நான் யாருடைய பெயரைச் சொன்னேன் தெரியுமா?` sequence is represented without reverting to the earlier assistant reading;
 - scan 109's colloquial Dukkaram sequence and the `துக்கராமாக` wordplay are translated for meaning without changing the Tamil authority;
+- scan 120's corrected `இல்லை இல்லை!` / `இல்லை........` authority is now reflected in the Tamil review record; English sense remains unchanged;
 - the chapter-12 love-song, dramatic dialogue, mythological parody and Dukkaram's invented novel are retained rather than summarized;
 - source-odd Tamil forms such as scan 116 `அவர்கள் ஆசிரியர் விடவில்லை`, scan 123 `புருஷனுய்த்`, scan 126 `இதானெ`, scan 128 `நன்றுக` / `நேரம் ஆடுவதும்`, scan 137 `புழுதி மண்ணுகப்`, scans 141–142 `பழுமாகப்`, scan 144 `தடுப்பானேன்` / `அவர்களே ஊமையாகியது`, and scan 145 `சிறுவனுயிற்றே நீ` remain untouched in the canonical Tamil; the English conveys the surrounding sense without silently rewriting the Tamil source;
 - scan 131's source-established `நிச்சயமாகத் தெரிகிறது—நீங்கள் பைத்தியக்காரர் இல்லை!` is correctly translated as `I know for certain—you are not mad!`; the baseline omission of `இல்லை` is not propagated;
@@ -95,10 +102,10 @@ The English was checked against the audited canonical/assembled Tamil, not again
 
 ## Verdict
 
-- Tamil pages verified: **PASS — 49 / 49**
+- Tamil pages verified: **PASS — 49 / 49 after scan-120 old-glyph correction**
 - Part-003 Tamil audit: **PASS**
-- incremental assembled Tamil through Part 003: **PASS**
-- English source check through scan 147: **PASS**
+- incremental assembled Tamil through Part 003: **PASS / re-synchronized**
+- English source check through scan 147: **PASS — no semantic change required by scan-120 glyph restoration**
 - physical / split-boundary continuity: **PASS**
 - part bilingual review: **PASS**
 - Part 003 state: **`part-complete`**
@@ -106,4 +113,4 @@ The English was checked against the audited canonical/assembled Tamil, not again
 - whole-work English `verified`: **not yet eligible**
 - release-ready: **No**
 
-The next source activity must begin with a later split continuing from **scan 148 / printed page 146**. The first task on receipt of that split is to verify the continuation of scan 147's incomplete sentence before any later text is accepted.
+The historical split checkpoint remains complete. Current forward work is later in Part 006; this review does not change the active transcription point.
