@@ -38,13 +38,13 @@ The canonical page records were corrected and assembled Tamil chapters **13 and 
 Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
 - physical pages mapped: **49 / 49 — scans 246–294 / printed 242–290**
-- canonical records created: **14 / 49 — scans 246–259**
-- verified: **14**
+- canonical records created: **15 / 49 — scans 246–260**
+- verified: **15**
 - needs-review: **0**
 - partial: **0**
-- not-started: **35 — scans 260–294**
+- not-started: **34 — scans 261–294**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- native-fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md), [`notes/visual-fidelity-scans-252-255.md`](notes/visual-fidelity-scans-252-255.md), [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md)
+- native-fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md), [`notes/visual-fidelity-scans-252-255.md`](notes/visual-fidelity-scans-252-255.md), [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md), [`notes/visual-fidelity-scan-260.md`](notes/visual-fidelity-scan-260.md)
 - Part-006 Tamil audit: **NOT ELIGIBLE**
 - assembled Tamil / English / bilingual review: **NOT ELIGIBLE**
 - state: **`in-progress`**
@@ -65,22 +65,33 @@ This derivative boundary creates no narrative break.
 - 247→248: `இன்` + `னும்` = `இன்னும்`;
 - 248→249: `அவ` + `தாரம்` = `அவதாரம்`;
 - scan 251 ends a scene with the source-printed four-star separator;
-- 257→258: `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`.
+- 257→258: `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`;
+- scan 260 ends at `வெள்ளியம்பலம்`; scan 261 must continue that sentence.
 
-### Corrected Part-006 reconciliation through scan 259
+### Corrected Part-006 reconciliation — scans 256–259
 
-Scans 246–255 had already been verified. Native derivative mapping established that the remaining text under the user's Iteration-24 extraction continues through **scans 256–259 / printed 252–255**.
-
-The first reconciliation of scans 256–259 incorrectly overrode several baseline readings. After the user's challenge, every assistant-origin discrepancy in those four pages was reopened and inspected again at high resolution. The corrected source findings are:
+The first reconciliation incorrectly overrode several baseline readings. After the user's challenge, every assistant-origin discrepancy in those four pages was reopened and inspected again at high resolution. The corrected source findings are:
 
 - scan 256: baseline **`காட்டுகிறாயா?`** is source-supported; the earlier assistant `காட்டுகிறியா?` is withdrawn;
-- scan 256: baseline `இடத்தை`, `என்னா`, `தங்கம்னா`, `பொன்னா`, `ஒளிஞ்சுகிட்டு` are also restored; earlier assistant vowel/spacing changes were unsupported;
+- scan 256: baseline `இடத்தை`, `என்னா`, `தங்கம்னா`, `பொன்னா`, `ஒளிஞ்சுகிட்டு` are restored;
 - scan 257: baseline **`நன்றாகப் பார்த்தான்`** is source-supported; `நன்றுகப் பார்த்தான்` is withdrawn;
 - scan 258: baseline **`அநாவசியமாக`** is source-supported; `அனாவசியமாக` is withdrawn;
 - scan 259: baseline **`மண்ணாங் கட்டியாவது!`** is source-supported; `மண்ணுங் கட்டியாவது!` is withdrawn;
 - scan 259: `ஒன்றாய்ப் பிசைந்து` remains confirmed.
 
-Scans 256–259 remain `verified` after corrected reconciliation; the correction changes text, not page counts. The supplied Iteration-25 baseline begins at **scan 260 / printed 256**.
+Scans 256–259 remain `verified` after corrected reconciliation; the correction changes text, not page counts.
+
+### Scan 260 / printed 256 — Iteration 25
+
+The strengthened two-pass native comparison verifies scan 260. Positive source differences from the user's first-pass baseline are limited to:
+
+- baseline typo `சொலலு` → source **`சொல்லு`**, yielding `சொல்லு! சொல்லு!`;
+- source **`சாமியாருக்குத்தான்`** is continuous; printed wrapping is not a word break;
+- source **`பொய் சொல்லுகிறாயா?`** is confirmed on the second enlarged pass;
+- source punctuation `ஏன்!` is preserved;
+- physical page endpoint is `வெள்ளியம்பலம்`.
+
+No unresolved old-type glyph remains on scan 260.
 
 ### Structure mapped in Part 006
 
@@ -92,7 +103,7 @@ Scans 256–259 remain `verified` after corrected reconciliation; the correction
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through the derivative endpoint.
 
-Only scans 246–259 are textually verified at this checkpoint; structural inspection does not upgrade scans 260–294.
+Only scans 246–260 are textually verified at this checkpoint; structural inspection does not upgrade scans 261–294.
 
 ## Part 005 — completed split checkpoint
 
@@ -107,16 +118,16 @@ Only scans 246–259 are textually verified at this checkpoint; structural inspe
 
 ## Aggregate canonical state
 
-- records created: **259**
-- verified: **252**
+- records created: **260**
+- verified: **253**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later individually verified coverage: through scan **259**, except the seven explicitly damaged scans
+- later individually verified coverage: through scan **260**, except the seven explicitly damaged scans
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 14 / 49 verified**
+- Part 006: **in progress — 15 / 49 verified**
 - continuous split-level assembled Tamil / English review: through scan **245** only
-- full-source physical coverage from received derivatives: mapped through scan **294**, but canonical text only through scan 259
+- full-source physical coverage from received derivatives: mapped through scan **294**, but canonical text only through scan 260
 
 ## Whole-work gate
 
@@ -124,4 +135,4 @@ Only scans 246–259 are textually verified at this checkpoint; structural inspe
 
 ## Exact next activity
 
-After this correction synchronization, reconcile **scan 260 / printed page 256** from the supplied Iteration-25 baseline against native source pixels. Apply the strengthened second-pass old-Tamil-typeform rule to every proposed baseline override. Do not run Part-006 Tamil audit or downstream gates yet.
+Reconcile **scan 261 / printed page 257** from the supplied Iteration-25 baseline against native source pixels. First establish the continuation from scan 260's endpoint `வெள்ளியம்பலம்`. Apply the strengthened second-pass old-Tamil-typeform rule to every proposed baseline override. Do not run Part-006 Tamil audit or downstream gates yet.
