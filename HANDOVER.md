@@ -63,49 +63,25 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - derivative size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - derivative map: `works/pudhaiyal/indexes/part-006-page-map.md`
-- canonical records: **16 / 49 — scans 246–261**
-- verified: **16**
+- canonical records: **17 / 49 — scans 246–262**
+- verified: **17**
 - needs-review: **0**
-- not-started: **33 — scans 262–294**
-- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-261.md`
+- not-started: **32 — scans 263–294**
+- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-262.md`
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - Part-006 state: **`in-progress`**
 
-### Mandatory 245→246 continuity finding
+### Current verified sequence
 
-Part 005 scan **245 / printed 241** ends `இருக்கவே`; Part 006 scan **246 / printed 242** begins `இருக்கிறாள் பரிமளா, ...`. Native evidence establishes the continuous source sentence `இருக்கவே இருக்கிறாள் பரிமளா, ...`.
-
-### Corrected scans 256–259
-
-The first visual pass introduced unsupported differences. The second high-resolution review confirms the user's baseline forms:
-
-- scan 256: `காட்டுகிறாயா?`, plus `இடத்தை`, `என்னா`, `தங்கம்னா`, `பொன்னா`, `ஒளிஞ்சுகிட்டு`;
-- scan 257: `நன்றாகப் பார்த்தான்`; page ends mid-word `வெள்ளியம்`;
-- scan 258: begins `பலம்`, yielding `வெள்ளியம்பலம்`; source `அநாவசியமாக`; separated `காதலிக்க வில்லையே`;
-- scan 259: `மண்ணாங் கட்டியாவது!`; separated `விளங்க வில்லையே!`; `ஒன்றாய்ப் பிசைந்து` remains confirmed.
-
-The earlier assistant readings `காட்டுகிறியா?`, `நன்றுகப் பார்த்தான்`, `அனாவசியமாக`, and `மண்ணுங் கட்டியாவது!` are withdrawn.
-
-### Scan 260 / printed 256 — verified
-
-The supplied **Iteration 25** baseline begins at scan 260. A strengthened two-pass native review verifies the page with only positively established differences:
-
-- baseline typo `சொலலு` → source `சொல்லு`, giving `சொல்லு! சொல்லு!`;
-- source prints `சாமியாருக்குத்தான்` continuously;
-- source reads `பொய் சொல்லுகிறாயா?`;
-- physical page ends at `வெள்ளியம்பலம்`.
-
-No unresolved glyph remains on scan 260.
-
-### Scan 261 / printed 257 — verified
-
-Native scan 261 begins `கேட்டு விட்டு, ...`, closing the prior page as `வெள்ளியம்பலம் கேட்டு விட்டு, ...`. Direct high-resolution inspection preserves the source-specific forms `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, and `பேஷாக` without grammatical or lexical normalization. The page physically ends at `விடிந்த`; scan 262 continues the sentence and later contains the source-printed chapter 30 heading. No unresolved old-type glyph remains on scan 261.
+- scan 260 / printed 256: verified; ends `வெள்ளியம்பலம்`;
+- scan 261 / printed 257: begins `கேட்டு விட்டு`, establishing `வெள்ளியம்பலம் கேட்டு விட்டு, ...`; preserves `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, `பேஷாக`; ends `விடிந்த`;
+- scan 262 / printed 258: begins `தும்`, establishing `விடிந்ததும்`; source reads `குறுக்கிட்டது`, `என்று கூறினான்`, `ஆம்;`, `நடந்து, நடந்து`; old-glyph second pass confirms full `தெரியவில்லை`; source-specific `தன்னந் தனியாக` and `கிழவருந்தான்` retained; source-printed chapter **30** begins after chapter 29 closes; page ends `துக்காராமுக்கோ,`.
 
 ### Part-006 structure mapped from physical pages
 
 - chapter 27 closes / chapter 28 begins on scan **247 / printed 243**;
 - four-star internal transition at scan **251 / printed 247**;
-- chapter 29 begins scan **254 / printed 250**;
+- chapter 29 begins scan **254 / printed 250** and closes scan **262 / printed 258**;
 - chapter 30 begins scan **262 / printed 258**;
 - chapter 31 begins scan **271 / printed 267**;
 - chapter 32 begins scan **278 / printed 274**;
@@ -122,18 +98,18 @@ Those seven damaged records remain `needs-review`; do not silently resolve them 
 
 ## Aggregate durable state
 
-- canonical records: **261**
-- verified: **254**
+- canonical records: **262**
+- verified: **255**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
-- later individual source-verified pages: through scan **261**, except the seven damaged Part-005 records
+- later individual source-verified pages: through scan **262**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 16 / 49 verified**
+- Part 006: **in progress — 17 / 49 verified**
 - assembled Tamil / English split-level review: through scan **245** only
 - source scans represented by currently received derivatives: through **294**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Continue Part 006 at **scan 262 / printed page 258**, chapter 29 transitioning to chapter 30. First close scan 261's physical endpoint `விடிந்த` from native scan-262 evidence, then capture the source-printed chapter 30 transition on the same page. Apply the strengthened two-pass old-Tamil-typeform rule before accepting any disputed glyph or word spacing.
+Continue Part 006 at **scan 263 / printed page 259**, chapter 30, from user Iteration 25. Continue directly from scan 262's endpoint `துக்காராமுக்கோ,`. Apply the strengthened two-pass old-Tamil-typeform rule before accepting any disputed glyph or word spacing.
