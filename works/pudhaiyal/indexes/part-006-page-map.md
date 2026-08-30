@@ -8,10 +8,10 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - derivative file size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - source/split PDF committed: **No**
-- canonical records created so far: **4 / 49 — scans 246–249**
-- verified so far: **4**
+- canonical records created so far: **5 / 49 — scans 246–250**
+- verified so far: **5**
 - needs-review in Part 006 so far: **0**
-- not-started: **45 — scans 250–294**
+- not-started: **44 — scans 251–294**
 - split state: **`in-progress`**
 
 The derivative boundary at scan 245→246 is provenance only. Native source establishes the continuation `இருக்கவே` + `இருக்கிறாள் பரிமளா, ...`; no word, sentence or chapter boundary is created by the split.
@@ -22,8 +22,8 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 | 247 | 243 | chapter 27 closes / chapter 28 begins | verified | `../pages/0247-pudhaiyal.md`; ends mid-word `இன்` |
 | 248 | 244 | chapter 28 | verified | `../pages/0248-pudhaiyal.md`; begins `னும்`; ends mid-word `அவ` |
 | 249 | 245 | chapter 28 | verified | `../pages/0249-pudhaiyal.md`; begins `தாரம்` |
-| 250 | 246 | chapter 28 | not-started | next transcription batch |
-| 251 | 247 | chapter 28 | not-started | — |
+| 250 | 246 | chapter 28 | verified | `../pages/0250-pudhaiyal.md`; direct high-resolution native transcription; fidelity `../notes/visual-fidelity-scan-250.md` |
+| 251 | 247 | chapter 28 | not-started | next transcription page |
 | 252 | 248 | chapter 28 | not-started | — |
 | 253 | 249 | chapter 28 | not-started | — |
 | 254 | 250 | chapter 28 closes / chapter 29 begins | not-started | source-printed chapter heading 29 |
@@ -80,14 +80,15 @@ Direct inspection of the 49 physical pages establishes these source-printed chap
 - chapter 32 begins on scan **278 / printed 274**;
 - chapter 33 begins on scan **288 / printed 284** and continues through the derivative endpoint.
 
-These observations map structure only. Scans 250–294 remain `not-started` until their text is reconciled directly against native pixels.
+These observations map structure only. Scans 251–294 remain `not-started` until their text is reconciled directly against native pixels.
 
 ## Current continuity joins
 
 - 245→246: `இருக்கவே` + `இருக்கிறாள் பரிமளா, ...` — source-established cross-split continuation;
 - 247→248: `இன்` + `னும்` = `இன்னும்`;
-- 248→249: `அவ` + `தாரம்` = `அவதாரம்`.
+- 248→249: `அவ` + `தாரம்` = `அவதாரம்`;
+- 249→250: continuous Dukkaram–Raman scene; no word/sentence fragment crosses the physical page boundary.
 
 ## Exact next activity
 
-Reconcile the next user-supplied Part-006 transcription batch beginning at **scan 250 / printed page 246** against native source pixels. Do not begin the Part-006 Tamil audit, assembled Tamil or English stages until all 49 physical pages have canonical records and native-fidelity dispositions.
+Directly transcribe and visually verify **scan 251 / printed page 247** against native source pixels, applying the permanent old-Tamil-typeform pre-correction check. Do not begin the Part-006 Tamil audit, assembled Tamil or English stages until all 49 physical pages have canonical records and native-fidelity dispositions.
