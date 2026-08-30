@@ -11,7 +11,7 @@ Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.** 
 
 - bibliographic printed extent: **443 p.**;
 - source scans currently represented by received derivatives: **1–294**;
-- canonical source-scan records currently created: **1–261**;
+- canonical source-scan records currently created: **1–262**;
 - exact original PDF scan/page-object count: **still pending**.
 
 ## Authority distinction
@@ -33,15 +33,15 @@ Received access derivatives:
    - assembled Tamil / English / bilingual review: **completed with the same qualification**
 6. Part 006 — scans **246–294 / printed 242–290** — **in progress**
    - physical pages mapped: **49 / 49**
-   - canonical records created: **16 / 49 — scans 246–261**
-   - native verified: **16**
+   - canonical records created: **17 / 49 — scans 246–262**
+   - native verified: **17**
    - needs-review: **0**
-   - not-started: **33 — scans 262–294**
+   - not-started: **32 — scans 263–294**
    - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 
 No split is committed to GitHub.
 
-## Part-006 opening reconciliation
+## Part-006 current reconciliation
 
 The mandatory cross-split test is source-established:
 
@@ -49,26 +49,13 @@ The mandatory cross-split test is source-established:
 - scan 246 / printed 242 begins `இருக்கிறாள் பரிமளா, ...`;
 - source continuity is therefore `இருக்கவே இருக்கிறாள் பரிமளா, ...`.
 
-No derivative-created word, sentence, paragraph, scene or chapter boundary is inserted.
+The strengthened source-fidelity rule remains active: an old/faint vowel-sign, same-word glyph, or line-wrap spacing disagreement requires a second independent high-resolution pass before overriding the baseline; a printed line break alone never establishes word spacing.
 
-Scans 246–255 were previously verified. Native derivative mapping established that user Iteration 24 continues through **scans 256–259 / printed 252–255**. A corrected second high-resolution inspection confirms the user's baseline forms `காட்டுகிறாயா?`, `நன்றாகப் பார்த்தான்`, `அநாவசியமாக`, and `மண்ணாங் கட்டியாவது!`; the earlier assistant alternatives are withdrawn. The cross-page `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்` and `ஒன்றாய்ப் பிசைந்து` remain source-confirmed. See [`visual-fidelity-scans-256-259.md`](visual-fidelity-scans-256-259.md).
+### Iteration 25 through scan 262
 
-The safeguard is now stronger: an old/faint vowel-sign, same-word glyph, or line-wrap spacing disagreement requires a second independent high-resolution pass before overriding the baseline; a printed line break alone never establishes word spacing.
-
-## Scan 260 / printed 256
-
-Iteration 25 begins canonically at scan 260 and is source-verified. The strengthened two-pass comparison positively establishes only these baseline differences:
-
-- typo `சொலலு` → source `சொல்லு`, giving `சொல்லு! சொல்லு!`;
-- continuous source `சாமியாருக்குத்தான்`;
-- source `பொய் சொல்லுகிறாயா?`;
-- source punctuation `ஏன்!` retained.
-
-The physical page ends at `வெள்ளியம்பலம்`.
-
-## Scan 261 / printed 257
-
-Direct high-resolution native inspection closes the prior sentence as `வெள்ளியம்பலம் கேட்டு விட்டு, ...`. Source-specific `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, and `பேஷாக` are preserved as printed. The physical page ends at `விடிந்த`; scan 262 must continue the sentence before the source-printed chapter 30 transition later on the page. No unresolved old-type glyph remains after the strengthened second pass.
+- scan 260 / printed 256: verified; ends `வெள்ளியம்பலம்`;
+- scan 261 / printed 257: begins `கேட்டு விட்டு`, establishing `வெள்ளியம்பலம் கேட்டு விட்டு, ...`; preserves `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, `பேஷாக`; ends `விடிந்த`;
+- scan 262 / printed 258: begins `தும்`, yielding `விடிந்ததும்`; source `குறுக்கிட்டது`, `என்று கூறினான்`, `ஆம்;`, `நடந்து, நடந்து`; old-glyph second pass confirms full `தெரியவில்லை`; source-specific `தன்னந் தனியாக` and `கிழவருந்தான்`; chapter **29 closes / chapter 30 begins**; endpoint `துக்காராமுக்கோ,`.
 
 ## Part-006 physical structure map
 
@@ -76,13 +63,13 @@ Full physical-page inspection of the 49-page derivative establishes printed page
 
 - chapter 28 begins scan 247 / printed 243;
 - a four-star internal transition occurs at scan 251 / printed 247;
-- chapter 29 begins scan 254 / printed 250;
+- chapter 29 begins scan 254 / printed 250 and closes scan 262 / printed 258;
 - chapter 30 begins scan 262 / printed 258;
 - chapter 31 begins scan 271 / printed 267;
 - chapter 32 begins scan 278 / printed 274;
 - chapter 33 begins scan 288 / printed 284 and continues through scan 294 / printed 290.
 
-This is structure mapping only for scans 262–294; their text remains `not-started` until native reconciliation.
+This is structure mapping only for scans 263–294; their text remains `not-started` until native reconciliation.
 
 ## Part-005 source anomalies
 
@@ -107,14 +94,14 @@ A separate 2026-08-30 old-glyph retrospective audit corrected scan 120 and 22 re
 
 ## Current textual state
 
-- canonical page records created: **261**
-- verified: **254**
+- canonical page records created: **262**
+- verified: **255**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified range: **1–214**
-- individually source-verified later pages: through scan **261**, except the seven damaged Part-005 records
+- individually source-verified later pages: through scan **262**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 16 / 49 verified**
+- Part 006: **in progress — 17 / 49 verified**
 - continuous split-level assembled Tamil / English review: **through scan 245 only**, with the seven source-damage qualifications retained
 - source scans physically mapped from received derivatives: **through scan 294**
 - full-source manifest: **still incomplete beyond scan 294**
@@ -123,7 +110,7 @@ A separate 2026-08-30 old-glyph retrospective audit corrected scan 120 and 22 re
 
 Still required:
 
-1. reconcile Part-006 scans **262–294** under the same canonical/fidelity workflow;
+1. reconcile Part-006 scans **263–294** under the same canonical/fidelity workflow;
 2. complete the Part-006 Tamil audit, assembled Tamil, controlled English and bilingual review before calling Part 006 `part-complete`;
 3. obtain later source splits beyond scan 294;
 4. process every later source scan under the same workflow;
@@ -136,4 +123,4 @@ Do not infer any of those values from the TDL printed-page count.
 
 ## Exact next activity
 
-Reconcile **scan 262 / printed page 258** directly against native Part-006 source pixels, first closing scan 261's endpoint `விடிந்த`, then capture the source-printed chapter 30 transition later on the page. Apply the strengthened two-pass old-Tamil-typeform rule.
+Reconcile **scan 263 / printed page 259** from user Iteration 25 directly against native Part-006 source pixels, continuing chapter 30 from `துக்காராமுக்கோ,`, and apply the strengthened two-pass old-Tamil-typeform rule.
