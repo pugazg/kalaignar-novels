@@ -63,11 +63,11 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - derivative size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - derivative map: `works/pudhaiyal/indexes/part-006-page-map.md`
-- canonical records: **17 / 49 — scans 246–262**
-- verified: **17**
+- canonical records: **18 / 49 — scans 246–263**
+- verified: **18**
 - needs-review: **0**
-- not-started: **32 — scans 263–294**
-- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-262.md`
+- not-started: **31 — scans 264–294**
+- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-263.md`
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - Part-006 state: **`in-progress`**
 
@@ -75,7 +75,8 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
 - scan 260 / printed 256: verified; ends `வெள்ளியம்பலம்`;
 - scan 261 / printed 257: begins `கேட்டு விட்டு`, establishing `வெள்ளியம்பலம் கேட்டு விட்டு, ...`; preserves `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, `பேஷாக`; ends `விடிந்த`;
-- scan 262 / printed 258: begins `தும்`, establishing `விடிந்ததும்`; source reads `குறுக்கிட்டது`, `என்று கூறினான்`, `ஆம்;`, `நடந்து, நடந்து`; old-glyph second pass confirms full `தெரியவில்லை`; source-specific `தன்னந் தனியாக` and `கிழவருந்தான்` retained; source-printed chapter **30** begins after chapter 29 closes; page ends `துக்காராமுக்கோ,`.
+- scan 262 / printed 258: begins `தும்`, establishing `விடிந்ததும்`; source reads `குறுக்கிட்டது`, `என்று கூறினான்`, `ஆம்;`, `நடந்து, நடந்து`; old-glyph second pass confirms full `தெரியவில்லை`; source-specific `தன்னந் தனியாக` and `கிழவருந்தான்` retained; source-printed chapter **30** begins after chapter 29 closes; page ends `துக்காராமுக்கோ,`;
+- scan 263 / printed 259: begins `ஆனந்தம் தாங்கவில்லை.`, closing `துக்காராமுக்கோ, ஆனந்தம் தாங்கவில்லை.`; native pixels establish `நடந்தவைகள்` rather than baseline `நடந்தவைகளை`, and `புதையலைக் கண்டுபிடிப்பதற்காகவே` rather than baseline `புதையல் ரகசியத்தைக் கண்டுபிடிப்பதற்காகவே`; full `மறந்து விடவில்லை` confirmed; page ends `அவர்!`.
 
 ### Part-006 structure mapped from physical pages
 
@@ -98,18 +99,18 @@ Those seven damaged records remain `needs-review`; do not silently resolve them 
 
 ## Aggregate durable state
 
-- canonical records: **262**
-- verified: **255**
+- canonical records: **263**
+- verified: **256**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
-- later individual source-verified pages: through scan **262**, except the seven damaged Part-005 records
+- later individual source-verified pages: through scan **263**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 17 / 49 verified**
+- Part 006: **in progress — 18 / 49 verified**
 - assembled Tamil / English split-level review: through scan **245** only
 - source scans represented by currently received derivatives: through **294**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Continue Part 006 at **scan 263 / printed page 259**, chapter 30, from user Iteration 25. Continue directly from scan 262's endpoint `துக்காராமுக்கோ,`. Apply the strengthened two-pass old-Tamil-typeform rule before accepting any disputed glyph or word spacing.
+Continue Part 006 at **scan 264 / printed page 260**, chapter 30, from user Iteration 25. Apply the strengthened two-pass old-Tamil-typeform and printed-line-wrap rules before accepting any disputed glyph or spacing.
