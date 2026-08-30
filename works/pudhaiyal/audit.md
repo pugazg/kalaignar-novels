@@ -54,8 +54,9 @@ Native pixels require, among other punctuation corrections:
 - scan 246: `தாளவில்லை` → `தாளவில்ல`;
 - scan 246: `அந்த இருட்டில-` → `அந்த இருட்டிலே —`;
 - scan 248: `புரியவில்லை` → `புரியவில்ல`;
-- scan 248: `திரும்பி வரவில்லை` → `திரும்பி வரவில்ல`;
-- scan 249: source spacing `ஒருவரை யொருவர்`, `செய்ய வில்லையே`, `முடிய வில்லையே` retained.
+- scan 248: `திரும்பி வரவில்லை` → `திரும்பி வரவில்ல`.
+
+Scan 249 confirms the baseline compounds `ஒருவரையொருவர்`, `செய்யவில்லையே` and `முடியவில்லையே`; their printed line wraps are typographic only and are not word boundaries. Source `புண்யங்கூட` and `யானையுமாக வெல்லாம்` are retained.
 
 ### Structure mapped in Part 006
 

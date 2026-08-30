@@ -91,7 +91,8 @@ Important source corrections/retentions:
 - scan 248: `புரியவில்ல`, not baseline `புரியவில்லை`;
 - scan 248: `திரும்பி வரவில்ல`, not baseline `திரும்பி வரவில்லை`;
 - 248→249: `அவ` + `தாரம்` = `அவதாரம்`;
-- scan 249 preserves `ஒருவரை யொருவர்`, `செய்ய வில்லையே`, `முடிய வில்லையே`, `புண்யங்கூட`, `யானையுமாக வெல்லாம்`.
+- scan 249 confirms baseline `ஒருவரையொருவர்`, `செய்யவில்லையே`, `முடியவில்லையே`; their printed line wraps are not word boundaries;
+- scan 249 preserves source `புண்யங்கூட` and `யானையுமாக வெல்லாம்`.
 
 ### Part-006 structure mapped from physical pages
 

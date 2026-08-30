@@ -57,11 +57,10 @@ Source-specific `மகிழ்ச்சி யடைந்தான்` and `�
 
 Cross-page join: scan 248 `அவ` + scan 249 `தாரம்` = `அவதாரம்`.
 
-Source-specific spacing/forms retained:
+The baseline compounds `ஒருவரையொருவர்`, `செய்யவில்லையே` and `முடியவில்லையே` are confirmed. In the printed page each happens to cross a line break; those typographic line wraps are not word boundaries and are not converted into spaces in canonical prose.
 
-- `ஒருவரை யொருவர்`;
-- `செய்ய வில்லையே`;
-- `முடிய வில்லையே`;
+Source-specific forms retained include:
+
 - `புண்யங்கூட`;
 - `யானையுமாக வெல்லாம்`.
 
