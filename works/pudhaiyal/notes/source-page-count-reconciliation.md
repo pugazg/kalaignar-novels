@@ -41,7 +41,7 @@ No split is committed to GitHub.
 
 The mandatory cross-split test remains source-established: scan 245 `இருக்கவே` + scan 246 `இருக்கிறாள் பரிமளா, ...`.
 
-The strengthened source-fidelity rule remains active: an old/faint vowel-sign, same-word glyph, or line-wrap spacing disagreement requires a second independent high-resolution pass before overriding the baseline; a printed line break alone never establishes word spacing.
+The strengthened source-fidelity rule applies to **all vowel signs / combining marks**: any old/faint vowel-sign, same-word glyph, or line-wrap spacing disagreement requires a second independent high-resolution pass before overriding the baseline; a printed line break alone never establishes word spacing.
 
 ### Iteration 25 through scan 264
 
@@ -49,7 +49,9 @@ The strengthened source-fidelity rule remains active: an old/faint vowel-sign, s
 - scan 261 / printed 257: closes `வெள்ளியம்பலம் கேட்டு விட்டு, ...`; source-specific `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, `பேஷாக`; ends `விடிந்த`;
 - scan 262 / printed 258: `விடிந்த` + `தும்` = `விடிந்ததும்`; source `குறுக்கிட்டது`, `என்று கூறினான்`, `ஆம்;`, `நடந்து, நடந்து`; chapter 29 closes / chapter 30 begins; endpoint `துக்காராமுக்கோ,`;
 - scan 263 / printed 259: source `நடந்தவைகள்`, `புதையலைக் கண்டுபிடிப்பதற்காகவே`, full `மறந்து விடவில்லை`; endpoint `அவர்!`;
-- scan 264 / printed 260: source **`என்ன — தெரியாது மாதிரி விழிக்கிறே?`**, not baseline `என்னா - ...`; source punctuation `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, `வந்தேனே......`; complete `புரியவில்லை` confirmed on second old-type pass; endpoint `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
+- scan 264 / printed 260: **user-challenged source word `என்னா` confirmed after enlarged native reinspection; earlier assistant `என்ன` withdrawn**. Canonical punctuation is `என்னா — தெரியாது மாதிரி விழிக்கிறே?`; source also confirms `தெரியவில்லை — விழித்தாள்!`, `சரி — சரி —`, `வந்தேனே......`, and complete `புரியவில்லை`; endpoint `பேசக்கூட விடமாட்டேங்கிறீர்களே!”`.
+
+Scan 264 establishes another historical-typeform caution: faint `ா` can be visually missed, just as faint `ை` was missed earlier. See [`old-glyph-correction-scan-264.md`](old-glyph-correction-scan-264.md).
 
 ## Part-006 physical structure map
 
@@ -94,4 +96,4 @@ Do not infer any of those values from the TDL printed-page count.
 
 ## Exact next activity
 
-Reconcile **scan 265 / printed page 261** from user Iteration 25 directly against native Part-006 source pixels, continuing chapter 30, and apply the strengthened two-pass old-Tamil-typeform / line-wrap rule.
+Reconcile **scan 265 / printed page 261** from user Iteration 25 directly against native Part-006 source pixels, continuing chapter 30, and apply the strengthened two-pass old-Tamil-typeform / line-wrap rule to every vowel-sign question.
