@@ -31,6 +31,8 @@ For each supplied derivative: canonical pages → native fidelity → resolve/re
 
 Split boundaries are provenance only.
 
+A physically damaged source may receive an explicit source-damage disposition at the part Tamil gate. Such scans remain `needs-review`; the exception permits continued split workflow but does not turn missing pixels into verified text.
+
 ## Completed derivatives
 
 - Part 001 — scans 1–49 — **part-complete**
@@ -44,13 +46,12 @@ Assembled Tamil and English are part-reviewed continuously through scan 196.
 
 Source: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
 
-- split pages: **49**
-- records created: **197–238 — 42**
-- verified: **35**
+- split pages / canonical records: **49 / 49 — scans 197–245**
+- verified: **42**
 - needs-review: **7 — scans 215–219, 223–224**
-- remaining: **239–245 — 7 not-started**
-- Part-005 Tamil audit: not yet eligible
-- Part-005 assembled Tamil / English: not started
+- not-started inside derivative: **0**
+- Part-005 Tamil audit: **closed with explicit source-damage exceptions**
+- Part-005 assembled Tamil / English: **not yet completed**
 
 Records:
 
@@ -58,6 +59,8 @@ Records:
 - `works/pudhaiyal/notes/visual-fidelity-scans-197-216.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-217-228.md`
 - `works/pudhaiyal/notes/visual-fidelity-scans-229-238.md`
+- `works/pudhaiyal/notes/visual-fidelity-scans-239-245.md`
+- `works/pudhaiyal/notes/part-005-tamil-audit.md`
 
 ### Structure established
 
@@ -65,7 +68,9 @@ Records:
 - chapter 23 begins 206 / closes 214;
 - chapter 24 begins 215 / closes 225;
 - chapter 25 begins 226 / closes 235;
-- chapter **26** begins on scan 235 and continues beyond scan 238.
+- chapter 26 begins 235 / closes 240;
+- chapter **27** begins scan 241 and continues beyond Part 005;
+- scan **245 / printed 241** ends mid-sentence at `இருக்கவே`.
 
 ### Damaged-page constraint
 
@@ -75,41 +80,47 @@ Scans **223–224 / printed pages 219–220** have substantial physical tear/los
 
 Do not close any of these seven uncertainties by context or grammar.
 
-### Iteration 21 source results
+### Iteration 22 source results
 
-Scans **229–238 / printed pages 225–234**: **10 / 10 verified**.
+Scans **239–245 / printed pages 235–241**: **7 / 7 verified**.
 
-Source-established forms include:
+Important source-confirmed corrections include:
 
-- `வழியிலே`, `தேவையில்ல`, `ஒன்றுமில்ல`, `எதுவுமில்ல`;
-- `பிரியமும் இல்ல`;
-- `பொன்மலைகள் வெளியே எடுக்க`;
-- `கவலையில்ல`, `கொல்லர் தான்`, `வேண்டியதில்ல`;
-- source-odd `வீணுக` and `நன்றுக`;
-- `முன்னேறி`;
-- source-odd `அவளது கூச்சலே அவன் காதில் வாங்கவேயில்ல`.
+- `தன் ஆசை அத்தான்`, not baseline `தன் ஆசை அத்தானை`;
+- scan 239→240 `என்ன செய்` + `தானே?`;
+- `தன் இதழ்கள்`, not `தன் இதழ்களை`;
+- `போலீசாரே உதவிக்கு வந்து`, not `வந்தது`;
+- `புரியவில்ல`, `புரிய வில்ல`, `காணப்படவில்ல`;
+- `ஒரு புதுவழி`;
+- `கேட்டார்கள்`, not baseline `கெட்டார்கள்`;
+- `சந்திக்கும்போதெல்லாம்`, `நிமிஷங்கூட ஆகவில்ல`;
+- `யோசனைகளைச்`, not baseline `யோகனைகளை`;
+- `விடவில்ல`, `தேவையில்ல`;
+- `இப்போது நான்`, not baseline `இப்போதே நான்`.
 
 Important physical joins:
 
 - scan 228 `‘கள்வர் புகும்` + scan 229 `வழியிலே’`;
 - scan 230 `அவன் கண்` + scan 231 `கள்` = `அவன் கண்கள்`;
 - scan 235 `அமைந்` + scan 236 `திருந்தன.` = `அமைந்திருந்தன.`;
-- scan 237 `அந்தப் பிடியி` + scan 238 `லிருந்து` = `அந்தப் பிடியிலிருந்து`.
+- scan 237 `அந்தப் பிடியி` + scan 238 `லிருந்து` = `அந்தப் பிடியிலிருந்து`;
+- scan 239 `என்ன செய்` + scan 240 `தானே?`;
+- scan 243 `அங்கே` + scan 244 `அடர்ந்திருக்கும்`.
 
 ## Aggregate durable state
 
-- canonical records: **238**
-- verified: **231**
+- canonical records: **245**
+- verified: **238**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
-- later individual source-verified pages: through scan **238**, except the seven damaged records
+- later individual source-verified pages: through scan **245**, except the seven damaged records
 - Parts 001–004: part-complete
-- Part 005: in progress
+- Part 005: canonical/native fidelity complete; Tamil audit source-damage-closed; assembled/English pending
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Resume canonical transcription from **scan 239 / printed page 235 / Part-005 split page 43**, using the next user-supplied baseline and native source pixels.
+Build the **Part-005 assembled Tamil** from scans **197–245**, preserving the seven source-damage qualifications and the open scan-245 boundary at `இருக்கவே`.
 
-Keep scans 215–219 and 223–224 `needs-review` unless genuinely stronger source evidence becomes available. Do not start Part-005 translation before all 49 scans are processed and the Part-005 Tamil gate is eligible.
+After that, complete the controlled English translation, English source-check and Part-005 bilingual review before marking this derivative `part-complete`. Do not start a later split before Part 005's split workflow is complete.
