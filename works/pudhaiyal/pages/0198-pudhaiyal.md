@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 18 baseline reconciled directly against native split part 005 page 2 image"
+transcription_method: "user-supplied Iteration 18 baseline reconciled directly against native split part 005 page 2 image; old-glyph reinspection 2026-08-30"
 ---
 
 போலவே ஒருவன் அவருக்கெதிரே நின்று கொண்டிருந்தான்.”
@@ -18,7 +18,7 @@ transcription_method: "user-supplied Iteration 18 baseline reconciled directly a
 
 “துருவனா?”
 
-“பரிமளா! — நான் ஏதோ பசி மயக்கத்தில் தூங்கி, அந்தத் தூக்கத்தில் இப்படி ஒரு புராணக் கனவு கண்டதாகச் சொல்லி உன்னை ஏமாற்றப் போகிறேன் என்று எண்ணுகிறாயா? இல்ல பரிமளா; இல்ல — இது நிச்சயமாகக் கனவு இல்ல — கண்ணெதிரே நடந்ததுதான்!”
+“பரிமளா! — நான் ஏதோ பசி மயக்கத்தில் தூங்கி, அந்தத் தூக்கத்தில் இப்படி ஒரு புராணக் கனவு கண்டதாகச் சொல்லி உன்னை ஏமாற்றப் போகிறேன் என்று எண்ணுகிறாயா? இல்லை பரிமளா; இல்லை — இது நிச்சயமாகக் கனவு இல்லை — கண்ணெதிரே நடந்ததுதான்!”
 
 “சரி — தொடருங்கள்”
 
@@ -34,13 +34,13 @@ transcription_method: "user-supplied Iteration 18 baseline reconciled directly a
 
 “அதாவது விழித்துக் கொண்டீர்கள்!”
 
-“இல்ல — ஒன்றும் புரியாமல் விழித்தேன் — ‘அய்யோ’ என்று அலறிக் கொண்டு துருவன் ஓடிவிட்டான். விஷ்ணுவும் திகைத்துப்போய் நின்றான். ஜனங்கள் என் பக்கம் ஓடி வந்தார்கள். ஒரே ரகளை—குழப்பம்!”
+“இல்லை — ஒன்றும் புரியாமல் விழித்தேன் — ‘அய்யோ’ என்று அலறிக் கொண்டு துருவன் ஓடிவிட்டான். விஷ்ணுவும் திகைத்துப்போய் நின்றான். ஜனங்கள் என் பக்கம் ஓடி வந்தார்கள். ஒரே ரகளை—குழப்பம்!”
 
 “பிறகு?”
 
 ## Source / boundary notes
 
 - scan 197 `அங்கே என்னைப்` → scan 198 `போலவே ஒருவன்...`.
-- Source repeatedly prints `இல்ல`; it is not normalized to `இல்லை`.
+- High-resolution old-type reinspection confirms the supplied baseline's full `இல்லை` forms on this page; the earlier assistant shortened readings were false corrections caused by missing the faint final `லை` glyph.
 
 <!-- மூல ஸ்கேன் பக்கம்: 198; அச்சுப் பக்கம்: 196 -->
