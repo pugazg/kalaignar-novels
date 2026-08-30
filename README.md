@@ -8,9 +8,7 @@
 
 மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது. Ambiguous / damaged source reading என்றால் baseline-ஐ override செய்யாமல் `needs-review` ஆக வைத்திருக்க வேண்டும். Source PDF / split PDF கோப்புகள் repository-யில் commit செய்யப்படாது.
 
-Old/historical Tamil glyphs காரணமாக ஒரு character அல்லது vowel mark source-ல் இல்லாதது போலத் தோன்றினால், correction செய்வதற்கு முன் முழு glyph cluster-ஐ high-resolution-ல் பார்க்க வேண்டும். இந்த source-ல் faint `லை` bare `ல்` போலவும், scan 264-ல் faint `ா` காரணமாக `என்னா` என்பது `என்ன` போலவும் தவறாகத் தோன்றியிருக்கிறது. Positive native-pixel evidence இல்லாமல் baseline மாற்றக்கூடாது; global normalization செய்யக்கூடாது.
-
-**Strengthened rule:** old/faint vowel signs of **any kind**, near-identical same-word glyphs, or apparent spacing created by printed line wrapping require a second independent high-resolution inspection before a baseline difference is accepted. A line break alone is never evidence for word-internal spacing. If one reading in a batch is challenged, reopen every assistant-origin discrepancy in that batch.
+Old/historical Tamil glyphs காரணமாக character / vowel mark source-ல் இல்லாதது போலத் தோன்றினால், correction செய்வதற்கு முன் முழு glyph cluster-ஐ high-resolution-ல் பார்க்க வேண்டும். இந்த source-ல் faint `லை`, faint `ா`, மற்றும் `ே` / `ோ` வேறுபாடுகள் demonstrated hazards. **Any** old/faint vowel sign, near-identical same-word glyph, or apparent spacing created by printed line wrapping requires a second independent high-resolution inspection before a baseline difference is accepted.
 
 ## Project continuation documents
 
@@ -22,7 +20,7 @@ Old/historical Tamil glyphs காரணமாக ஒரு character அல்�
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **268 canonical records / 261 verified / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **269 canonical records / 262 verified / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
 
 ### புதையல் — current source state
 
@@ -30,23 +28,16 @@ Tamil Digital Library reports **443 p.**; exact original PDF scan count remains 
 
 Access derivatives:
 
-- part 001 — scans **1–49** — part-complete;
-- part 002 — scans **50–98** — part-complete;
-- part 003 — scans **99–147** — part-complete;
-- part 004 — scans **148–196** — part-complete;
-- part 005 — scans **197–245** — **part-complete with explicit source-damage qualification**;
-- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–268 verified; scans 269–294 not-started**.
+- parts 001–005 — scans **1–245** — split-level workflow complete, with seven source-damage qualifications in Part 005;
+- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–269 verified; scans 270–294 not-started**.
 
 Current canonical state:
 
-- records — **268**;
-- verified — **261**;
+- records — **269**;
+- verified — **262**;
 - needs-review — **7 (scans 215–219, 223–224)**;
 - partial — **0**;
-- clean contiguous fully verified range — through **scan 214 / printed page 212**;
-- later individual source-verified records — through scan **268**, except the seven explicitly damaged scans;
-- Parts 001–005 — full split workflow complete through assembled Tamil, controlled English and bilingual review;
-- Part 006 — canonical/native-fidelity work in progress; **23 / 49** pages verified;
+- Part 006 — **24 / 49** pages verified;
 - assembled Tamil / English split-level review — still through scan **245** only;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source;
@@ -54,9 +45,9 @@ Current canonical state:
 
 Part 006 source structure is mapped through scan 294: chapter 28 begins at 247, a four-star internal transition occurs at scan 251, chapter 29 begins at 254 and closes at 262, chapter 30 begins at 262, chapter 31 at 271, chapter 32 at 278 and chapter 33 at 288.
 
-Scans **260–268 / printed 256–264** are verified from Iteration 25. Scan 267 closes scan 266's open sentence and establishes source `புதைக்கப்பட்டது`, `துக்காராம் சொன்னது`, `கனவு கண்டார்களோ`, while preserving `பாதிப் புதையலை`, `கேட்டதால்தானே`, and `பேசிக் கொள்ள வில்லையே`. Scan 268's strengthened two-pass review establishes **`யாருடனே`** rather than baseline `யாருடனோ`, preserves source `பரிமளம்`, and confirms the source punctuation `உம்......புறப்படு!`, `இப்போதே சொல்கிறேன்!......அதாவது......ஒரு சாமியாரிடம்......`, and `சரி—சரி!`.
+Scans **260–269 / printed 256–265** are verified from Iteration 25. Scan 269 is substantively aligned with the user baseline; source punctuation and line wrapping were reconciled directly from native pixels. It preserves `அந்தப் பொன்னுக்கு வீங்கி!`, `அந்த எடந்தான்`, `ஆற்றங்கரை யோரத்திலே`, and joins the printed `சொல்` / `லேனப்பா` wrap as `சொல்லேனப்பா`. The page ends mid-sentence at `முட்களை சமாளித்துக் கொண்டும்,`.
 
-Exact next action: reconcile **scan 269 / printed page 265**, continuing chapter 30. Do not start the Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are canonically reconciled.
+Exact next action: reconcile **scan 270 / printed page 266**, continuing that open sentence. Do not start the Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are canonically reconciled.
 
 ## நிறைவு பெற்ற reference work
 
