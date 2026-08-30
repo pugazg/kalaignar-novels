@@ -40,7 +40,7 @@ A derivative boundary is provenance only and must never create a false narrative
 | Part 003 | 99–147 | **part-complete; scan-120 old-glyph correction synchronized** |
 | Part 004 | 148–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification; readable-page old-glyph corrections synchronized** |
-| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–260 verified; 261–294 not-started** |
+| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–261 verified; 262–294 not-started** |
 
 ## Retrospective old-glyph integrity repair
 
@@ -56,11 +56,11 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - source scans: **246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records created: **15 / 49 — scans 246–260**
-- verified: **15 / 49**
+- canonical records created: **16 / 49 — scans 246–261**
+- verified: **16 / 49**
 - needs-review in Part 006: **0**
-- not-started: **34 — scans 261–294**
-- fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md), [`notes/visual-fidelity-scans-252-255.md`](notes/visual-fidelity-scans-252-255.md), [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md), [`notes/visual-fidelity-scan-260.md`](notes/visual-fidelity-scan-260.md)
+- not-started: **33 — scans 262–294**
+- fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md), [`notes/visual-fidelity-scan-251.md`](notes/visual-fidelity-scan-251.md), [`notes/visual-fidelity-scans-252-255.md`](notes/visual-fidelity-scans-252-255.md), [`notes/visual-fidelity-scans-256-259.md`](notes/visual-fidelity-scans-256-259.md), [`notes/visual-fidelity-scan-260.md`](notes/visual-fidelity-scan-260.md), [`notes/visual-fidelity-scan-261.md`](notes/visual-fidelity-scan-261.md)
 - Part-006 Tamil audit: **not yet eligible**
 - Part-006 assembled Tamil / English / bilingual review: **not started; gate remains closed**
 - source/split PDF committed: **No**
@@ -88,7 +88,11 @@ The earlier assistant readings `காட்டுகிறியா?`, `நன�
 
 ### Scan 260 / printed 256
 
-The supplied Iteration-25 baseline begins at scan 260. The page is **verified** under the strengthened two-pass rule. Positive native differences are restricted to baseline typo `சொலலு` → `சொல்லு`, continuous `சாமியாருக்குத்தான்`, and source `பொய் சொல்லுகிறாயா?`. The physical page ends at `வெள்ளியம்பலம்`; scan 261 continues the sentence.
+The supplied Iteration-25 baseline begins at scan 260. The page is **verified** under the strengthened two-pass rule. Positive native differences are restricted to baseline typo `சொலலு` → `சொல்லு`, continuous `சாமியாருக்குத்தான்`, and source `பொய் சொல்லுகிறாயா?`. The physical page ends at `வெள்ளியம்பலம்`.
+
+### Scan 261 / printed 257
+
+Direct high-resolution native inspection verifies the next physical page and closes the 260→261 sentence as `வெள்ளியம்பலம் கேட்டு விட்டு, ...`. Source-specific `தவழுகத்`, `ஆள்பாடு ஆயிடும்`, `எங்கேயிருக்கு`, and `பேஷாக` are preserved without contextual repair. The page ends at `விடிந்த`; scan 262 continues the sentence before the source-printed chapter 30 transition later on that page.
 
 ### Part-006 structure mapped
 
@@ -101,7 +105,7 @@ The supplied Iteration-25 baseline begins at scan 260. The page is **verified** 
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through the derivative endpoint scan 294.
 
-Only scans 246–260 have been textually reconciled so far. Later structural mapping does not make scans 261–294 `verified`.
+Only scans 246–261 have been textually reconciled so far. Later structural mapping does not make scans 262–294 `verified`.
 
 ## Part 005 — completed derivative
 
@@ -122,19 +126,19 @@ The seven Part-005 damaged physical scans remain `needs-review`; Part completion
 
 ## Aggregate archival status
 
-- canonical Tamil page records: **260**
-- verified: **253**
+- canonical Tamil page records: **261**
+- verified: **254**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified range remains through scan **214 / printed page 212**
-- later individual scans are source-verified through scan **260**, except the seven Part-005 damaged scans
+- later individual scans are source-verified through scan **261**, except the seven Part-005 damaged scans
 - backward integrity audit: **COMPLETE through scan 118**, with additional old-glyph retrospective correction at scan 120 and readable Part-005 pages
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 15 / 49 verified**
+- Part 006: **in progress — 16 / 49 verified**
 - assembled Tamil / English: part-reviewed continuously through scan **245** only, carrying the seven Part-005 source-damage qualifications
 - whole-work Tamil / English verification: **not yet eligible**
 - release-readiness: **blocked until complete source**
 
 ## Exact next activity
 
-Reconcile **scan 261 / printed page 257** from the supplied Iteration-25 baseline directly against native Part-006 pixels. First close scan 260's endpoint `வெள்ளியம்பலம்` from the next physical page. Apply the strengthened two-pass old-typeform rule before overriding any baseline character or word spacing. Do not infer text from grammar/context and do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
+Reconcile **scan 262 / printed page 258** directly against native Part-006 pixels. First close scan 261's endpoint `விடிந்த`, then capture the source-printed chapter 30 transition later on the page. Apply the strengthened two-pass old-typeform rule before overriding any baseline character or word spacing. Do not infer text from grammar/context and do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
