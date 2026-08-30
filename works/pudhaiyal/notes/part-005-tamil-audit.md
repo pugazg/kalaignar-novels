@@ -74,7 +74,7 @@ Important joins checked across Part 005 include:
 
 The audit preserves source-established old/odd forms rather than regularizing them. Examples include `இல்ல`, `நன்றுகக் கொட்டிவிட்டது`, `தவறொன்றுமில்ல துரை`, `அதுதான் இல்ல!`, `எனக்குக் கவலையில்ல!`, `அப்பா இறக்கவில்ல`, `கையிலே இல்ல`, `கையில்ல`, `கேட்கவில்ல`, `முடியவில்ல`, `புரியவில்ல`, `தேவையில்ல`, `ஒன்றுமில்ல`, `எதுவுமில்ல`, `பிரியமும் இல்ல`, `பொன்மலைகள் வெளியே எடுக்க`, `வேண்டியதில்ல`, source-odd `வீணுக`, source-odd `நன்றுக`, `அவளது கூச்சலே அவன் காதில் வாங்கவேயில்ல`, `தன் ஆசை அத்தான்`, `தன் இதழ்கள்`, `ஒரு புதுவழி`, `சந்திக்கும்போதெல்லாம்`, `நிமிஷங்கூட ஆகவில்ல`, `யோசனைகளைச்`, `விடவில்ல`, and `இப்போது நான்`.
 
-## Verdict
+## Verdict at Tamil-audit gate
 
 - physical-page inventory for Part 005: **PASS — 49 / 49 represented**
 - native fidelity on readable pages: **PASS — 42 verified**
@@ -82,12 +82,19 @@ The audit preserves source-established old/odd forms rather than regularizing th
 - page-boundary continuity: **PASS where source-visible; damaged spans remain explicitly qualified**
 - chapter-boundary structure: **PASS**
 - Part-005 Tamil state: **`part-tamil-audit-source-damage-closed`**
-- assembled Tamil: **eligible next, with source-damage provenance retained**
-- English translation / bilingual review: **not yet completed**
-- Part-005 final `part-complete`: **not yet**
 - whole-work Tamil audit: **not yet eligible**
-- whole-work English `verified`: **not yet eligible**
+
+## Downstream split-workflow completion
+
+After this Tamil gate closed, the approved downstream stages were completed:
+
+- assembled Tamil: **completed / part-reviewed**;
+- controlled English translation: **completed / source-checked**;
+- Part-005 bilingual review: [`../translations/en/PART_005_REVIEW.md`](../translations/en/PART_005_REVIEW.md) — **PASSED WITH THE SAME SOURCE-DAMAGE QUALIFICATION**;
+- Part-005 final split state: **`part-complete`**.
+
+The seven damaged canonical records remain `needs-review`; downstream completion does not change their source status.
 
 ## Exact next activity
 
-Build the Part-005 assembled Tamil from scans **197–245**, preserving the seven `needs-review` source-damage qualifications and the open scan-245 boundary at `இருக்கவே`. Then perform the controlled English translation and bilingual review before marking the split `part-complete`.
+Obtain / attach the next source derivative beginning at **scan 246 / printed page 242** and continue chapter 27 directly from native source evidence after the open scan-245 text `இருக்கவே`.
