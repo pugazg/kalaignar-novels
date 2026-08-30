@@ -11,6 +11,16 @@
 
 The scan is the textual authority. User-supplied transcription is the comparison baseline. Do not modernize or infer unclear Tamil. Assistant-introduced changes must be established from native pixels. If damage/repair hides letters, retain the baseline and `needs-review` rather than claiming verification.
 
+### Mandatory old-Tamil-glyph pre-correction check
+
+Before overriding a baseline because a final character or vowel mark appears absent, inspect the **complete glyph cluster at high resolution**, explicitly consider old/historical Tamil typeforms, and compare another clear instance from the same edition when useful. Faint marks must be checked at more than one useful scale/contrast before a correction is accepted.
+
+A demonstrated risk in this edition is final `லை`, which can resemble bare `ல்` at ordinary zoom. This caused earlier false assistant corrections such as `தெரியவில்லை` → `தெரியவில்ல`. The retrospective repair is recorded in:
+
+`works/pudhaiyal/notes/old-glyph-retrospective-audit-120-245.md`
+
+This is **not** a global normalization rule. Source-specific forms such as scan 229 `தீண்ட வில்லையே` and scan 244's first `தெரியவில்லையே` remain unchanged when their native pixels support them. If pixels are ambiguous, retain the baseline and `needs-review`.
+
 Source/split PDFs must never be committed.
 
 ## Source identity — புதையல்
@@ -37,11 +47,22 @@ A physically damaged source may receive an explicit source-damage disposition at
 
 - Part 001 — scans 1–49 — **part-complete**
 - Part 002 — scans 50–98 — **part-complete**
-- Part 003 — scans 99–147 — **part-complete**
+- Part 003 — scans 99–147 — **part-complete; scan 120 old-glyph correction re-synchronized**
 - Part 004 — scans 148–196 — **part-complete**
-- Part 005 — scans 197–245 — **part-complete with explicit source-damage qualification**
+- Part 005 — scans 197–245 — **part-complete with explicit source-damage qualification; readable-page old-glyph corrections re-synchronized**
 
 Assembled Tamil and controlled English remain split-level reviewed continuously through scan **245**, with Part-005 source-damage qualifications preserved.
+
+## Retrospective old-glyph repair — completed 2026-08-30
+
+Native high-resolution reinspection established earlier assistant `லை`-loss errors on **23 readable scans**:
+
+- Part 003: scan **120**;
+- Part 005: scans **198, 199, 201, 207, 214, 220, 221, 225, 228, 229, 230, 231, 233, 234, 235, 238, 239, 241, 242, 243, 244, 245**.
+
+Canonical page records were corrected and assembled Tamil chapters **13 and 22–27** were re-synchronized. Fidelity and Tamil-audit records were also corrected. The English meaning is unchanged by restoring the missed final `லை`, but bilingual-review documentation must use the corrected Tamil authority.
+
+The seven physically damaged Part-005 records **215–219 and 223–224** remain `needs-review`; the glyph discovery does not license reconstruction of hidden pixels.
 
 ## Active derivative — Part 006
 
@@ -95,12 +116,6 @@ Important source findings/retentions:
 - scan 249 confirms baseline `ஒருவரையொருவர்`, `செய்யவில்லையே`, `முடியவில்லையே`; their printed line wraps are not word boundaries;
 - scan 249 preserves source `புண்யங்கூட` and `யானையுமாக வெல்லாம்`.
 
-### Old-glyph caution — permanent for this edition
-
-The first Part-006 pass incorrectly shortened `தெரியவில்லை`, `தாளவில்லை`, `புரியவில்லை`, and `திரும்பி வரவில்லை` because the old-style / faint final `லை` glyph was mistaken for a bare final `ல்`.
-
-That error has been corrected in the canonical pages and fidelity/audit records. For future `வில்லை`-type endings in this edition, enlarge the final glyph character-by-character before declaring a baseline discrepancy. Do not infer an old/short form from ordinary-zoom appearance.
-
 ### Part-006 structure mapped from physical pages
 
 - chapter 27 closes / chapter 28 begins on scan **247 / printed 243**;
@@ -117,9 +132,9 @@ These later pages are mapped structurally only; scans 250–294 remain `not-star
 - split pages / canonical records: **49 / 49 — scans 197–245**
 - verified: **42**
 - needs-review: **7 — scans 215–219, 223–224**
-- Tamil audit: **closed with explicit source-damage exceptions**
-- assembled Tamil: **completed / part-reviewed**
-- controlled English: **completed / source-checked**
+- Tamil audit: **closed with explicit source-damage exceptions and retrospective old-glyph reinspection on readable pages**
+- assembled Tamil: **completed / re-synchronized / part-reviewed**
+- controlled English: **completed / source-checked; no semantic rewrite required by glyph restoration**
 - bilingual review: `works/pudhaiyal/translations/en/PART_005_REVIEW.md` — **PASSED WITH SOURCE-DAMAGE QUALIFICATION**
 - state: **`part-complete`**
 
@@ -141,4 +156,4 @@ The seven damaged records remain `needs-review`; do not reopen or silently resol
 
 ## Exact next activity
 
-Continue Part 006 at **scan 250 / printed page 246** using the next user-supplied transcription baseline. Reconcile every reading directly from native source pixels, preserve physical page boundaries, report material discrepancies, and specifically enlarge old final `லை` glyphs before changing any `வில்லை`-type baseline reading. Keep the Part-006 downstream gates closed until scans 246–294 are all canonically dispositioned.
+Continue Part 006 at **scan 250 / printed page 246**. Reconcile every reading directly from native source pixels, preserve physical page boundaries, report material discrepancies, and apply the permanent old-Tamil-typeform pre-correction check before changing any baseline character. Keep the Part-006 downstream gates closed until scans 246–294 are all canonically dispositioned.
