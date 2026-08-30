@@ -5,10 +5,10 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245
 - split pages: **49**
 - represented source scans: **197–245**
 - source/split PDF committed: **No**
-- current canonical records: **197–238 — 42 records**
-- fully verified: **35**
+- current canonical records: **197–245 — 49 records**
+- fully verified: **42**
 - needs-review: **7**
-- not-started: **239–245 — 7**
+- not-started: **0**
 
 | Source scan | Printed page | Section | Status | File / note |
 |---:|:---:|---|---|---|
@@ -54,7 +54,13 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245
 | 236 | 232 | chapter 26 | verified | begins `திருந்தன.`; ends `துரையின்` |
 | 237 | 233 | chapter 26 | verified | ends mid-word `அந்தப் பிடியி` |
 | 238 | 234 | chapter 26 | verified | begins `லிருந்து`; ends `வெளியே ஓடினாள்.` |
-| 239–245 | pending forward mapping | chapter 26 and later Part-005 body | not-started | native-page pass required |
+| 239 | 235 | chapter 26 | verified | ends `என்ன செய்` |
+| 240 | 236 | chapter 26 closes | verified | begins `தானே?` |
+| 241 | 237 | chapter 27 begins | verified | source-printed chapter heading |
+| 242 | 238 | chapter 27 | verified | `புரிய வில்ல`; `காணப்படவில்ல` retained |
+| 243 | 239 | chapter 27 | verified | ends `அங்கே` |
+| 244 | 240 | chapter 27 | verified | begins `அடர்ந்திருக்கும்` |
+| 245 | 241 | chapter 27 / Part-005 endpoint | verified | ends mid-sentence `இருக்கவே` |
 
 ## Source anomalies
 
@@ -79,16 +85,18 @@ Printed pages **219–220** are physically torn with substantial missing areas; 
 - scan 230 `அவன் கண்` → scan 231 `கள்` = `அவன் கண்கள்`.
 - scan 235 `அமைந்` → scan 236 `திருந்தன.` = `அமைந்திருந்தன.`.
 - scan 237 `அந்தப் பிடியி` → scan 238 `லிருந்து` = `அந்தப் பிடியிலிருந்து`.
-- scan 235 closes chapter 25 and begins source-printed chapter **26** on the same physical page.
+- scan 239 `என்ன செய்` → scan 240 `தானே?`.
+- scan 240 closes chapter 26; scan 241 begins source-printed chapter **27**.
+- scan 243 `அங்கே` → scan 244 `அடர்ந்திருக்கும்` continues one sentence.
+- scan 245 ends Part 005 mid-sentence at `இருக்கவே`; the next derivative must continue from scan 246 / printed 242.
 
 Fidelity records:
 
 - [`../notes/visual-fidelity-scans-197-216.md`](../notes/visual-fidelity-scans-197-216.md)
 - [`../notes/visual-fidelity-scans-217-228.md`](../notes/visual-fidelity-scans-217-228.md)
 - [`../notes/visual-fidelity-scans-229-238.md`](../notes/visual-fidelity-scans-229-238.md)
+- [`../notes/visual-fidelity-scans-239-245.md`](../notes/visual-fidelity-scans-239-245.md)
 
 ## Exact next activity
 
-Continue canonical transcription from **scan 239 / printed page 235 / Part-005 split page 43**. Chapter 26 continues from scan 238.
-
-Do not mark Part 005 Tamil-audit eligible until scans 239–245 are processed and the seven current `needs-review` pages are either resolved by stronger source evidence or explicitly carried as unresolved under the project policy.
+All **49 / 49** Part-005 physical scans now have canonical records. Run the **Part-005 Tamil audit** next, carrying scans **215–219 and 223–224** explicitly as source-damage `needs-review` unless stronger source evidence resolves them. Do not silently upgrade those seven scans and do not treat scan 245 as a chapter or novel ending.
