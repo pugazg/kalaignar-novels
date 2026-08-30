@@ -11,20 +11,22 @@ Baseline: user-supplied Iteration 20, printed pages **215–224**.
 | 217 | 215 | **needs-review** | duplicate witness; repair/tape obscures letters |
 | 218 | 214 | **needs-review** | duplicate of printed 214; same repair/tape obstruction as scan 216 |
 | 219 | 215 | **needs-review** | duplicate of printed 215; obstruction remains |
-| 220 | 216 | **verified** | native comparison complete |
-| 221 | 217 | **verified** | native comparison complete |
+| 220 | 216 | **verified** | native comparison complete; old-glyph reinspection complete |
+| 221 | 217 | **verified** | native comparison complete; old-glyph reinspection complete |
 | 222 | 218 | **verified** | native comparison complete |
 | 223 | 219 | **needs-review** | large right-side physical loss |
 | 224 | 220 | **needs-review** | large left-side physical loss |
-| 225 | 221 | **verified** | native comparison complete |
+| 225 | 221 | **verified** | native comparison complete; old-glyph reinspection complete |
 | 226 | 222 | **verified** | source-printed chapter 25 begins |
 | 227 | 223 | **verified** | ends at `சிறு` |
-| 228 | 224 | **verified** | begins `கல்லும்`; ends at `‘கள்வர் புகும்` |
+| 228 | 224 | **verified** | begins `கல்லும்`; ends at `‘கள்வர் புகும்`; old-glyph reinspection complete |
 
 Iteration-20 physical records: **12**  
 Fully verified in this pass: **7**  
 Needs-review in this pass: **5**  
 Partial: **0**
+
+A 2026-08-30 retrospective audit found that earlier assistant readings on several readable pages had mistaken the edition's faint/old final `லை` for bare `ல்`. Those false corrections are withdrawn below. See [`old-glyph-retrospective-audit-120-245.md`](old-glyph-retrospective-audit-120-245.md).
 
 ## Duplicate / damaged-page anomaly
 
@@ -41,13 +43,17 @@ The repeated 214/215 scans are retained as independent provenance records. Their
 
 Printed pages **219** and **220** are physically torn, with large white/missing regions on opposite sides. The Iteration-20 baseline is retained for hidden text, but scans 223–224 are not promoted to `verified`.
 
+The old-glyph discovery does not authorize reconstruction of any hidden letters on these damaged pages.
+
 ## Source-confirmed corrections / forms
 
-- scan 220: `அதுதான் இல்ல!`; `எனக்குக் கவலையில்ல!`
-- scan 221: `அப்பா இறக்கவில்ல`; the lower-page reading is `பூச்சிடுகிறார்`
-- scan 225: `கையிலே இல்ல`; `கையில்ல`; `கேட்கவில்ல`; `முடியவில்ல`
-- scan 227: `மருங்கப்பள்ளம் கிராமம் தான்`
-- scan 228: `புரியவில்ல`; the treasure clue is printed as a distinct multi-line block
+- scan 220: source confirms baseline `அதுதான் இல்லை!`; `எனக்குக் கவலையில்லை!`;
+- scan 221: source confirms baseline `அப்பா இறக்கவில்லை`; the lower-page reading remains `பூச்சிடுகிறார்`;
+- scan 225: source confirms baseline `கையிலே இல்லை`; `கையில்லை`; `கேட்கவில்லை`; `முடியவில்லை`;
+- scan 227: `மருங்கப்பள்ளம் கிராமம் தான்`;
+- scan 228: source confirms baseline `புரியவில்லை`; the treasure clue is printed as a distinct multi-line block.
+
+The earlier assistant-shortened `இல்ல`, `கவலையில்ல`, `இறக்கவில்ல`, `கையில்ல`, `கேட்கவில்ல`, `முடியவில்ல`, and `புரியவில்ல` claims on these readable scans are superseded.
 
 ## Physical joins / structure
 
@@ -59,4 +65,4 @@ Printed pages **219** and **220** are physically torn, with large white/missing 
 
 ## Gate
 
-Part 005 cannot receive a part-level Tamil `PASSED` verdict yet. Scans **215–219, 223–224** remain `needs-review`, and scans **229–245** are not yet canonically processed.
+Scans **215–219 and 223–224** remain `needs-review` for physical-source reasons. The retrospective old-glyph audit corrects readable-page transcription only and leaves the source-damage boundary unchanged.
