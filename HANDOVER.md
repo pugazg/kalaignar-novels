@@ -5,122 +5,92 @@
 - Repository: `pugazg/kalaignar-novels`
 - Branch: `main`
 - Primary guide: `NOVEL_PROCESSING_GUIDE.md`
-- Fresh-chat prompt: `NEXT_NOVEL_CHAT_PROMPT.md`
-
-## Mandatory startup
-
-Before changing the current work:
-
-1. read `NOVEL_PROCESSING_GUIDE.md` completely;
-2. read root `README.md`;
-3. read this `HANDOVER.md` completely;
-4. read `works/pudhaiyal/README.md`;
-5. read `works/pudhaiyal/PART_COMPLETION_WORKFLOW.md` completely;
-6. inspect live `main` and treat it as authoritative;
-7. inspect the controlling split scan before changing canonical Tamil;
-8. never commit the original source PDF or any split derivative PDF.
+- Current work: `works/pudhaiyal/`
 
 ## Permanent source rule
 
-The scan is the textual authority. User-supplied transcription is the comparison baseline. Do not replace an old-print Tamil reading because another form appears grammatically or orthographically more plausible. Any assistant-introduced change must be established from native source pixels. Ambiguous readings remain baseline-preserving and `needs-review`.
+The scan is the textual authority. User-supplied transcription is the comparison baseline. Do not modernize or infer unclear Tamil. Assistant-introduced changes must be established from native pixels. If damage/repair hides letters, retain the baseline and `needs-review` rather than claiming verification.
 
-## Current work — புதையல்
+Source/split PDFs must never be committed.
 
-Path: `works/pudhaiyal/`
-
-Source identity:
+## Source identity — புதையல்
 
 - original filename: `TVA_BOK_0064097_புதையல்.pdf`
 - author: கலைஞர் மு. கருணாநிதி, எம். எல். ஏ.
 - publisher: அன்புப் பதிப்பகம், பொறையார் :: தஞ்சை மாவட்டம்
-- edition: மூன்றாம் பதிப்பு
-- edition line: `மூன்றாம் பதிப்பு: செப்டம்பர், 1961.`
-- original attached size: 502,895,096 bytes
+- edition: மூன்றாம் பதிப்பு — செப்டம்பர் 1961
 - Tamil Digital Library bibliographic extent: 443 p.
-- exact full-PDF scan/page-object count: pending
-- original SHA-256: pending exact byte-level access
+- exact full-PDF scan count / full-source SHA-256: pending complete source access
 - source/split PDFs committed: No
 
-The former `150 pages total` conclusion is permanently withdrawn. The source extends beyond that early prefix.
+The old `150 pages total` conclusion is permanently withdrawn.
 
-## User-approved split-part workflow
+## User-approved split workflow
 
-Finish the complete safe workflow for each supplied split before moving to the next split. Follow `works/pudhaiyal/PART_COMPLETION_WORKFLOW.md`:
+For each supplied derivative: canonical pages → native fidelity → resolve/retain uncertainty → part Tamil audit → assembled Tamil → English → bilingual review → status synchronization → `part-complete`.
 
-1. canonical `pages/` records and page mapping;
-2. native visual/textual fidelity;
-3. uncertainty resolution / `needs-review` handling;
-4. part-level Tamil audit;
-5. assembled Tamil;
-6. controlled English translation;
-7. bilingual source check;
-8. status synchronization and `part-complete`.
+Split boundaries are provenance only.
 
-A split boundary is provenance only. It must never create a false word, sentence, paragraph, scene or chapter boundary.
+## Completed derivatives
 
-Final whole-work Tamil audit, final assembled-Tamil pass, whole-work English `verified`, and release-readiness remain blocked until the complete source edition and true ending/back matter are known.
+- Part 001 — scans 1–49 — **part-complete**
+- Part 002 — scans 50–98 — **part-complete**
+- Part 003 — scans 99–147 — **part-complete**
+- Part 004 — scans 148–196 — **part-complete**
 
-## Completed access derivatives
+Assembled Tamil and English are part-reviewed continuously through scan 196.
 
-| Part | Split | Source scans | Printed range | State |
-|---|---|---:|---:|---|
-| 001 | `TVA_BOK_0064097_புதையல்_part_001_pages_1-49.pdf` | 1–49 | through 47 | **part-complete** |
-| 002 | `TVA_BOK_0064097_புதையல்_part_002_pages_50-98.pdf` | 50–98 | 48–96 | **part-complete** |
-| 003 | `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf` | 99–147 | 97–145 | **part-complete** |
-| 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **part-complete** |
+## Active derivative — Part 005
 
-All four supplied splits have passed canonical Tamil fidelity, part Tamil audit, assembled Tamil, English source check and bilingual review.
+Source: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
 
-## Part 004 completion checkpoint
+- split pages: **49**
+- records created: **197–216 — 20**
+- verified: **197–214 — 18**
+- needs-review: **215–216 — 2**
+- remaining: **217–245 — 29 not-started**
+- Part-005 Tamil audit: not yet eligible
+- Part-005 assembled Tamil / English: not started
 
-- source scans: **148–196**
-- canonical pages: **49 / 49 verified**
-- needs-review: **0**
-- unresolved readings: **0**
-- Tamil audit: `works/pudhaiyal/notes/part-004-tamil-audit.md` — **PASSED**
-- assembled Tamil: **PASSED through scan 196**
-- English bilingual review: `works/pudhaiyal/translations/en/PART_004_REVIEW.md` — **PASSED**
-- derivative-local map: `works/pudhaiyal/indexes/part-004-page-map.md` — **49 / 49 verified / part-complete**
+Records:
 
-Important continuity checks include:
+- `works/pudhaiyal/indexes/part-005-page-map.md`
+- `works/pudhaiyal/notes/visual-fidelity-scans-197-216.md`
+- `works/pudhaiyal/notes/part-005-iteration-18-19-source-check.md`
 
-- scan 147 `அடங்கித்தான் போய்` + scan 148 `விட்டார்கள்.` = `அடங்கித்தான் போய் விட்டார்கள்.`
-- scan 158 `டாக்` + scan 159 `துரைக்கு` = `டாக்துரைக்கு`
-- scan 173 `வள்ளி வெட்டப்` + scan 174 `பட வேண்டும்` = `வள்ளி வெட்டப்பட வேண்டும்`
-- scan 187 `அதுகூட` + scan 188 `இல்லை எனக்கு.` = `அதுகூட இல்லை எனக்கு.`
-- scan 193 `ஆகா` + scan 194 `ரமும்` = `ஆகாரமும்`
-- scan 194 `வேண்டா` + scan 195 `மென்று` = `வேண்டாமென்று`
-- scan 195 `ஒரு பெருமாள் கோவில்` + scan 196 `வாசல்—`
+### Structure established
 
-Part-004 chapter structure:
+- chapter 22 continues from Part 004 and closes on scan 205;
+- chapter 23 begins on scan 206 and closes on scan 214;
+- chapter 24 begins on scan 215.
 
-- scans 148–154: chapter 16 continuation; chapter 16 closes on scan 154
-- scans 155–163: chapter 17; scan 163 closes 17 / begins 18
-- scans 163–171: chapter 18
-- scans 172–179: chapter 19; scan 179 closes 19 / begins 20
-- scans 179–187: chapter 20; scan 187 closes 20 / begins 21
-- scans 187–196: chapter 21; scan 196 closes 21 / begins chapter **22**
+### Important source corrections
 
-Scan **196 / printed page 194** is only the Part-004 endpoint. Chapter 22 continues in the next source split. Do not infer the next text.
+- preserve source `இல்ல` where printed;
+- scan 204 restores source `சுபம்!`;
+- scan 209 `தீட்டிய அரிவாளால்!`;
+- scan 210 `சொந்தப் புருஷனை என்னையே`;
+- scan 214 explicitly prints Mayandi's reply `இல்ல`, replacing the baseline's blank quote.
+
+### Damaged-page constraint
+
+Scans **215 / printed 213** and **216 / printed 214** are crossed by a broad repair/tape strip. User baseline text has been stored but these pages remain `needs-review`; hidden letters are not source-proven.
+
+The derivative contains a later duplicate physical scan of printed page 214 and adjacent repeated material. Do not collapse duplicates. Compare later witnesses to scans 215–216 and use them only where they reveal additional source pixels.
 
 ## Aggregate durable state
 
-- canonical page records: **196**
-- verified continuously through scan **196**
-- needs-review: **0**
+- canonical records: **216**
+- verified: **214**
+- needs-review: **2**
 - partial: **0**
-- unresolved readings through scan 196: **0**
-- backward integrity audit: **COMPLETE through scan 118**
-- Parts 001–004: **part-complete**
-- assembled Tamil: part-reviewed through scan 196
-- English: bilingual part-reviewed through scan 196
-- full-source page map: incomplete beyond scan 196
-- final Tamil audit / English verification / release: not yet eligible
+- verified continuous clean range: through scan **214 / printed 212**
+- Parts 001–004: part-complete
+- Part 005: in progress
+- whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Obtain / attach the next source split beginning at **scan 197 / printed page 195**.
+Inspect the later repeated physical witnesses around printed pages **214–215** and attempt to resolve scans 215–216 without contextual guessing. If the duplicate still hides the same letters, leave them `needs-review`.
 
-The first native-source check must continue chapter **22** from scan 196. Do not infer the continuation from grammar, context, OCR or an outside edition.
-
-Then complete the full per-split workflow for that derivative before moving to another split.
+Then resume canonical transcription from **scan 217 / printed page 215**. Do not start Part-005 translation before all 49 scans are resolved and the Part-005 Tamil audit passes.
