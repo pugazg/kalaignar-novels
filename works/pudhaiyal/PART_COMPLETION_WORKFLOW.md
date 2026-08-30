@@ -52,11 +52,11 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - physical pages / mapped source scans: **49 / 49 — scans 246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **4 / 49 — scans 246–249**
-- verified: **4**
+- canonical records: **5 / 49 — scans 246–250**
+- verified: **5**
 - needs-review: **0**
-- not-started: **45 — scans 250–294**
-- current native-fidelity record: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md)
+- not-started: **44 — scans 251–294**
+- native-fidelity records: [`notes/visual-fidelity-scans-246-249.md`](notes/visual-fidelity-scans-246-249.md), [`notes/visual-fidelity-scan-250.md`](notes/visual-fidelity-scan-250.md)
 - Tamil audit: **not eligible**
 - assembled Tamil: **not eligible**
 - controlled English: **not eligible**
@@ -68,6 +68,8 @@ Mandatory opening continuity is closed from native evidence:
 - scan 245 ends `இருக்கவே`;
 - scan 246 begins `இருக்கிறாள் பரிமளா, ...`;
 - joined reading: `இருக்கவே இருக்கிறாள் பரிமளா, ...`.
+
+Scan **250 / printed 246** was directly transcribed from the native page at high resolution with no user baseline. The permanent old-typeform check was applied and the page is `verified` with no unresolved glyph.
 
 Part-006 mapped chapter transitions: chapter 28 begins scan 247; 29 begins 254; 30 begins 262; 31 begins 271; 32 begins 278; 33 begins 288.
 
@@ -96,4 +98,4 @@ Source-condition exceptions remain permanently explicit unless stronger source e
 
 ## Exact next activity
 
-After the retrospective old-glyph documentation synchronization is complete, reconcile the next Part-006 transcription batch beginning at **scan 250 / printed page 246** directly against native source pixels. Continue chapter 28 without treating the batch or derivative boundary as a narrative boundary, and apply the mandatory old-typeform check before overriding any baseline reading.
+Directly transcribe and visually verify **scan 251 / printed page 247** from the native Part-006 source. Continue chapter 28 without treating the physical-page boundary as a narrative boundary, and apply the mandatory old-typeform check before accepting any disputed glyph.
