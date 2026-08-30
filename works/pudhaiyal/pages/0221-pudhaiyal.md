@@ -7,10 +7,10 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 20 baseline reconciled directly against native split part 005 page 25 image"
+transcription_method: "user-supplied Iteration 20 baseline reconciled directly against native split part 005 page 25 image; old-glyph reinspection 2026-08-30"
 ---
 
-“விடமாட்டேன்; உண்மையைச் சொல்லி விடுங்கள். பாம்பு கடித்து அப்பா இறக்கவில்ல. ஏதோ சூது நடந்திருக்கிறது. என்னிடம் மறைக்காதீர்கள்—”
+“விடமாட்டேன்; உண்மையைச் சொல்லி விடுங்கள். பாம்பு கடித்து அப்பா இறக்கவில்லை. ஏதோ சூது நடந்திருக்கிறது. என்னிடம் மறைக்காதீர்கள்—”
 
 “பாம்பு தானப்பா—அதுவும் சிவன் கோயில் பாம்பு!”
 
@@ -26,7 +26,7 @@ transcription_method: "user-supplied Iteration 20 baseline reconciled directly a
 
 ## Source notes
 
-- Source prints `இறக்கவில்ல`, not normalized `இறக்கவில்லை`.
-- The lower repair strip remains translucent enough on this physical scan for the compared reading to be established; the page is `verified`.
+- High-resolution old-type reinspection confirms baseline `இறக்கவில்லை`; the earlier assistant `இறக்கவில்ல` was caused by missing the faint final `லை` glyph.
+- The lower repair strip remains translucent enough on this physical scan for the compared reading to be established; the page remains `verified`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 221; அச்சுப் பக்கம்: 217 -->
