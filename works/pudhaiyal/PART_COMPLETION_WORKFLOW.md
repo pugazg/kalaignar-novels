@@ -48,11 +48,11 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - physical pages / mapped source scans: **49 / 49 — scans 246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **27 / 49 — scans 246–272**
-- verified: **27**
+- canonical records: **28 / 49 — scans 246–273**
+- verified: **28**
 - needs-review: **0**
-- not-started: **22 — scans 273–294**
-- latest native-fidelity record: [`notes/visual-fidelity-scan-272.md`](notes/visual-fidelity-scan-272.md)
+- not-started: **21 — scans 274–294**
+- latest native-fidelity record: [`notes/visual-fidelity-scan-273.md`](notes/visual-fidelity-scan-273.md)
 - Tamil audit: **not eligible**
 - assembled Tamil: **not eligible**
 - controlled English: **not eligible**
@@ -61,12 +61,13 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 
 ### Current Part-006 checkpoint
 
-- scan 271 closes chapter 30 and opens chapter 31;
-- scan 272 continues chapter 31 and is verified from full-page plus enlarged high-resolution inspection;
-- positive native differences from the user baseline are `வயதில` → `வயதிலே` and `மனந்துணிந்து` → `மனங் துணிந்து`;
-- source punctuation preserves `உலகம் — அந்த உலகத்திலும்` and `பிரமுகர்கள்—அத்தகைய`;
-- second-pass old-type checks confirm full vowel-bearing forms including `உயிலிலே`, `உலகத்திலும்`, `அணிவகுப்பிலே`, `கொள்ளாமல்`, and `உடலிலேயிருந்த`;
-- scan 272 ends mid-sentence at `உடலிலேயிருந்த`.
+- scan 272 ends `உடலிலேயிருந்த`;
+- scan 273 begins `ரத்தம் பெரும் பகுதி...`, closing the cross-page sentence as `உடலிலேயிருந்த ரத்தம் பெரும் பகுதி...`;
+- user Iteration-26 wording on scan 273 is substantively source-supported;
+- source prints `சமாளித்துக் கொண்டு` as separated units;
+- source punctuation confirms `“அப்பாடா!”`;
+- enlarged second pass confirms baseline `வரண்டுபோன` and full old-type **`கண்களை`** with final `ை`;
+- scan 273 ends mid-word at `மறு`.
 
 Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262 and closes 271; chapter 31 begins 271; chapter 32 begins 278; chapter 33 begins 288.
 
@@ -81,4 +82,4 @@ Do not run the Part-006 Tamil audit or any downstream stage until all scans 246�
 
 ## Exact next activity
 
-Reconcile **scan 273 / printed page 269** directly against the native Part-006 source, first continuing scan 272's open `உடலிலேயிருந்த...` sentence. Apply the strengthened two-pass old-typeform rule to all vowel signs and printed-line-wrap questions.
+Reconcile **scan 274 / printed page 270** directly against the native Part-006 source, first continuing scan 273's open `மறு...` word. Apply the strengthened two-pass old-typeform rule to all vowel signs and printed-line-wrap questions.
