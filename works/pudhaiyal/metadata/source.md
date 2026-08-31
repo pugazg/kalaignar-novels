@@ -3,7 +3,6 @@
 ## Source identity
 
 - Source filename: `TVA_BOK_0064097_புதையல்.pdf`
-- Controlling textual source: supplied scanned PDF
 - Source PDF committed to repository: **No**
 - Full-PDF attached size: **502,895,096 bytes**
 - Original SHA-256: **pending exact byte-level calculation — do not invent**
@@ -25,7 +24,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 003 | `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf` | 99–147 | 97–145 | **49/49 verified; part-complete** |
 | 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **49/49 verified; part-complete** |
 | 005 | `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf` | 197–245 | 195–241 | **49/49 represented; 42 verified + 7 source-damage needs-review; part-complete with qualification** |
-| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 34 verified (246–279); 15 not-started; in progress** |
+| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 35 complete (246–280); 14 not-started; in progress** |
 
 Part-006 derivative byte record:
 
@@ -33,6 +32,18 @@ Part-006 derivative byte record:
 - SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`.
 
 No split PDF is committed to GitHub.
+
+## Authority policy for active remainder
+
+Through scan 279, preserve the completed source-first decisions already recorded.
+
+From **scan 280 onward**, by explicit user instruction:
+
+- Gemini controls words/spelling/suffixes/lexical forms;
+- native scan controls headings, punctuation, quotes, long dashes, paragraph structure, speaker-label spacing, physical line/page breaks, separators and chapter/scene structure;
+- do not use native visual evidence to replace a Gemini lexical word;
+- if Gemini omits lexical text, flag it rather than silently supplying it;
+- physical word splits are recorded as provenance while Gemini's lexical word remains controlling.
 
 ## Current structural checkpoints
 
@@ -44,34 +55,29 @@ No split PDF is committed to GitHub.
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through scan 294.
 
-## Current native findings
+## Scan 280 / printed 276 structural findings
 
-Scan **279 / printed 275** is source-verified:
-
-- source spacing is `தலை வேதனையுண்டாக்கின`, not baseline `தலைவேதனையுண்டாக்கின`;
-- enlarged second-pass inspection confirms source `பதினொரு`, not baseline `பதினோரு`;
-- source preserves `சமையற் காரியங்களில்`, `அடுக்களையிலே`, `விருந்துபசாரம்`, `‘நளபாக’ந்தான்`, `புளியில்லாக் குழம்பு`, `ஆர அமர`, and `உரிமையாக்கிக்கொள்ள`;
-- source reads `தனது திட்டங்கள் ஒன்றன்பின் ஒன்றாக`, not baseline `தனது திட்டங்களை...`;
-- source again preserves unusual `காதலர்கள்தானு`;
-- physical endpoint is `அதிபதி`; native scan 280 begins `யாக வேண்டும்`, establishing `அதிபதியாக` across the page boundary.
-
-## Old-Tamil-glyph integrity note
-
-The pre-correction safeguard covers **every Tamil vowel sign / combining mark**. Demonstrated risks include faint final `லை`, faint `ா`, and `ே` / `ோ` distinctions. An apparent disagreement limited to a historical vowel sign, same-word letter shape, or line-wrap spacing requires a **second independent visual pass** before the baseline can be changed. A printed line wrap alone is never evidence for word-internal spacing.
+- first page under Gemini-lexical/native-structure policy;
+- scan 279 physical endpoint `அதிபதி`; scan 280 physical opening `யாக` — page boundary occurs inside Gemini lexical `அதிபதியாக`;
+- source punctuation/quotation/long-dash layer and source paragraphing are preserved;
+- physical line breaks are preserved even when they split Gemini lexical words;
+- no chapter/scene transition occurs; chapter 32 continues;
+- physical endpoint: `யும் கொட்டி வைத்தால் எப்படியிருக்கும்?`;
+- no lexical discrepancy was adjudicated from the scan.
 
 ## Canonical Tamil state
 
-- page records created: **279**
-- verified: **272**
+- page records created: **280**
+- verified / completed: **273**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later individual scans are verified through scan **279**, except the seven damaged physical records
+- later completed pages extend through scan **280**, except the seven damaged physical records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 34 / 49 canonical pages verified**
+- Part 006: **in progress — 35 / 49 pages complete**
 - assembled Tamil / English / bilingual review: **completed only through Part 005 / scan 245**
 
-Part-006 records currently extend through `../pages/0279-pudhaiyal.md`, with latest fidelity record [`../notes/visual-fidelity-scan-279.md`](../notes/visual-fidelity-scan-279.md).
+Part-006 records currently extend through `../pages/0280-pudhaiyal.md`, with latest fidelity record [`../notes/visual-fidelity-scan-280.md`](../notes/visual-fidelity-scan-280.md).
 
 ## Completeness still open
 
@@ -79,9 +85,9 @@ Part-006 records currently extend through `../pages/0279-pudhaiyal.md`, with lat
 - exact full scan-object count: **pending**
 - original full-source SHA-256: **pending**
 - true ending / back matter: **not yet inspected**
-- Part-006 text beyond scan 279: **not yet reconciled**
+- Part-006 text beyond scan 280: **not yet processed**
 - source range beyond scan 294: **not yet supplied/reconciled**
 
 ## Exact next action
 
-Reconcile **scan 280 / printed page 276** directly against native source pixels, first closing `அதிபதி` + `யாக` = `அதிபதியாக`, then continuing chapter 32.
+Process **scan 281 / printed page 277**, continuing chapter 32. Keep Gemini's words exactly and use native scan evidence only for structural/presentation findings.
