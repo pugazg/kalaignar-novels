@@ -17,8 +17,8 @@ transcription_method: "Gemini Iteration 27 lexical baseline retained verbatim by
 “எவனோ தெரியவில்லை—திமிர் பிடித்த சோம்பேறிப்
 பயல். இவன் மாதிரி மைனர்கள் எல்லாம் என்னைக் கண்
 டாலே எழுபது அடி விலகி நடப்பார்கள். அப்படிப்பட்ட
-நான்; கேவலம்—இந்தக் கன்றுக் குட்டியிடம் பல்லைக்
-காட்ட வேண்டியிருக்கிறது!”—
+நான்; கேவலம் — இந்தக் கன்றுக் குட்டியிடம் பல்லைக்
+காட்ட வேண்டியிருக்கிறது!” —
 
 என்று தனக்குத் தானே எண்ணிக் கொண்டு வருத்
 தப்படவும் தவறவில்லை வெள்ளியம்பலம்.
@@ -50,7 +50,7 @@ transcription_method: "Gemini Iteration 27 lexical baseline retained verbatim by
 - Native source controls headings, punctuation, quotation marks, long dashes, speaker-label spacing where present, paragraph structure, physical line breaks/page breaks and other structural findings.
 - Scan 279 physically ends `அதிபதி`; scan 280 physically begins `யாக`, preserving the source page split inside Gemini's lexical word `அதிபதியாக`.
 - Source physical line breaks are preserved in the canonical body, including within Gemini words such as `எல்` / `லாம்`, `கண்` / `டாலே`, `வருத்` / `தப்படவும்`, `தலை` / `யீட்டால்`, `ஜாக்கி` / `ரதையாக`, `திண்ணை` / `யிலே`, `சயனத்` / `திற்குத்`, `குருட` / `னுக்குக்`, and `பொன்னை` / `யும்`.
-- Source punctuation replaces OCR-style doubled stops: ordinary full stops and source quotation marks are retained. Long-dash spacing is source-specific: `தெரியவில்லை—திமிர்`, `கேவலம்—இந்தக்`, closing `!”—`, while `நின்றுமிருக்கின்றன — நடந்துமிருக்கின்றன` and `இருங்கள் — காலையிலே` carry spaces around the dash.
+- Source punctuation replaces OCR-style doubled stops: ordinary full stops and source quotation marks are retained. Long-dash spacing is source-specific: `தெரியவில்லை—திமிர்`, `கேவலம் — இந்தக்`, closing `!” —`, `நின்றுமிருக்கின்றன — நடந்துமிருக்கின்றன`, and `இருங்கள் — காலையிலே`.
 - No source-printed chapter or internal-scene transition occurs on scan 280; chapter 32 continues throughout.
 - Physical endpoint: `யும் கொட்டி வைத்தால் எப்படியிருக்கும்?`
 - No lexical discrepancy is adjudicated on this page under the user-directed Gemini-word policy.
