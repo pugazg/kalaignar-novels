@@ -20,7 +20,7 @@ For the remaining transcription:
 - preserve Gemini's word choices, spellings, suffixes and lexical forms exactly;
 - do not correct Gemini's words from native visual reading, including old/faint vowel-sign differences;
 - native scan inspection controls **headings, punctuation, quotation marks, long dashes, paragraph structure, speaker-label spacing, physical line breaks, page breaks, separators, chapter/scene transitions and other structural findings**;
-- if a source line/page physically splits a word, retain Gemini's lexical word but record the physical split/provenance from the scan;
+- if a source line/page physically splits a word, retain Gemini's lexical word while preserving/recording the physical split from the scan;
 - if Gemini omitted a lexical span, flag it instead of silently adding words from the scan;
 - this policy is prospective; scans 246–279 are not reopened solely because of this change.
 
@@ -43,7 +43,7 @@ A derivative boundary is provenance only and must never create a false narrative
 | Part 003 | 99–147 | **part-complete; scan-120 old-glyph correction synchronized** |
 | Part 004 | 148–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification; readable-page old-glyph corrections synchronized** |
-| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–280 complete; 281–294 not-started** |
+| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–281 complete; 282–294 not-started** |
 
 ## Part 006 — active derivative
 
@@ -53,23 +53,27 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - source scans: **246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records created: **35 / 49 — scans 246–280**
-- verified / structurally completed: **35 / 49**
+- canonical records created: **36 / 49 — scans 246–281**
+- verified / structurally completed: **36 / 49**
 - needs-review in Part 006: **0**
-- not-started: **14 — scans 281–294**
-- latest fidelity record: [`notes/visual-fidelity-scan-280.md`](notes/visual-fidelity-scan-280.md)
+- not-started: **13 — scans 282–294**
+- latest fidelity record: [`notes/visual-fidelity-scan-281.md`](notes/visual-fidelity-scan-281.md)
 - Part-006 Tamil audit: **not yet eligible**
 - Part-006 assembled Tamil / English / bilingual review: **not started; gate remains closed**
 - source/split PDF committed: **No**
 
-### Scan 280 / printed 276 — first page under the new rule
+### Current hybrid-policy checkpoint
 
-- Gemini lexical wording is retained; no source-vs-Gemini word discrepancy is adjudicated;
-- native scan controls punctuation, quote marks, long dashes, paragraphing and physical line breaks;
-- scan 279 physically ends `அதிபதி`; scan 280 physically begins `யாக`, preserving the page split inside Gemini's lexical word `அதிபதியாக`;
-- physical line breaks are preserved, including source splits such as `எல்` / `லாம்`, `கண்` / `டாலே`, `வருத்` / `தப்படவும்`, `தலை` / `யீட்டால்`, `ஜாக்கி` / `ரதையாக`, `திண்ணை` / `யிலே`, `சயனத்` / `திற்குத்`, `குருட` / `னுக்குக்`, and `பொன்னை` / `யும்`;
+Scan **280 / printed 276** is the first page under the Gemini-lexical/native-structure rule.
+
+Scan **281 / printed 277** is now complete:
+
+- Gemini lexical wording is retained without source-based word correction;
 - no source-printed chapter or scene transition occurs; chapter 32 continues;
-- physical endpoint: `யும் கொட்டி வைத்தால் எப்படியிருக்கும்?`.
+- source punctuation replaces Gemini OCR-style doubled stops, and the long dash `உணர்ந்து — நம்` is preserved;
+- source dialogue/paragraph structure is preserved around `“கண்மணி!”`, `“பரிமளா!...”`, `“அன்புள்ள காதலியே!...”`, `“துக்காராம்!”`, and `“என்ன, துக்காராமா?...”`;
+- source physical line breaks are retained, including word-internal Gemini lexical wraps `இசைத்` / `துக்`, `தன்` / `னைக்`, `உள்` / `ளத்தைப்`, `பரி` / `மளா`, and `தன்` / `னைத்`;
+- physical endpoint: `பைத்யக்காரன்.`.
 
 ### Part-006 structure mapped
 
@@ -81,22 +85,22 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through scan 294.
 
-Only scans 246–280 have been processed so far. Later structural mapping does not make scans 281–294 complete.
+Only scans 246–281 have been processed so far. Later structural mapping does not make scans 282–294 complete.
 
 ## Aggregate archival status
 
-- canonical Tamil page records: **280**
-- verified / completed: **273**
+- canonical Tamil page records: **281**
+- verified / completed: **274**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range remains through scan **214 / printed page 212**
-- later individual completed pages extend through scan **280**, except the seven Part-005 damaged scans
+- later individual completed pages extend through scan **281**, except the seven Part-005 damaged scans
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 35 / 49 complete**
+- Part 006: **in progress — 36 / 49 complete**
 - assembled Tamil / English: part-reviewed continuously through scan **245** only
 - whole-work Tamil / English verification: **not yet eligible**
 - release-readiness: **blocked until complete source**
 
 ## Exact next activity
 
-Process **scan 281 / printed page 277**, continuing chapter 32. **Keep Gemini's words exactly.** Use the native source only for headings, punctuation, long dashes, quote style, speaker-label spacing, paragraph/physical line breaks, page-boundary provenance and other structural findings.
+Process **scan 282 / printed page 278**, continuing chapter 32. **Keep Gemini's words exactly.** Use the native source only for headings, punctuation, long dashes, quote style, speaker-label spacing, paragraph/physical line breaks, page-boundary provenance and other structural findings.
