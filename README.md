@@ -20,7 +20,7 @@ Old/historical Tamil glyphs காரணமாக character / vowel mark source-
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **271 canonical records / 264 verified / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **272 canonical records / 265 verified / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
 
 ### புதையல் — current source state
 
@@ -29,15 +29,15 @@ Tamil Digital Library reports **443 p.**; exact original PDF scan count remains 
 Access derivatives:
 
 - parts 001–005 — scans **1–245** — split-level workflow complete, with seven source-damage qualifications in Part 005;
-- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–271 verified; scans 272–294 not-started**.
+- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–272 verified; scans 273–294 not-started**.
 
 Current canonical state:
 
-- records — **271**;
-- verified — **264**;
+- records — **272**;
+- verified — **265**;
 - needs-review — **7 (scans 215–219, 223–224)**;
 - partial — **0**;
-- Part 006 — **26 / 49** pages verified;
+- Part 006 — **27 / 49** pages verified;
 - assembled Tamil / English split-level review — still through scan **245** only;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source;
@@ -45,9 +45,9 @@ Current canonical state:
 
 Part 006 source structure is mapped through scan 294: chapter 28 begins at 247, a four-star internal transition occurs at scan 251, chapter 29 begins at 254 and closes at 262, chapter 30 begins at 262 and closes at 271, chapter 31 begins at 271, chapter 32 at 278 and chapter 33 at 288.
 
-Scan **271 / printed 267** is now verified from native pixels. It finishes chapter 30, contains the source-printed horizontal rule and chapter **31** heading, preserves the full old-type negative forms, and records the physical `கையிலே` / `யிருந்து` wrap as `கையிலேயிருந்து`. The page ends `தை தகவெனக் குதித்துக் கத்தினான்.`
+Scan **272 / printed 268** is now source-verified. The native page confirms **`வயதிலே`** rather than baseline `வயதில`, and **`மனங் துணிந்து`** rather than `மனந்துணிந்து`. It preserves source punctuation `உலகம் — அந்த உலகத்திலும்`, full old-type vowel forms, and ends mid-sentence at `உடலிலேயிருந்த`.
 
-Exact next action: reconcile **scan 272 / printed page 268**, continuing chapter 31. Do not start the Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are canonically reconciled.
+Exact next action: reconcile **scan 273 / printed page 269**, first continuing the open `உடலிலேயிருந்த...` sentence. Do not start the Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are canonically reconciled.
 
 ## நிறைவு பெற்ற reference work
 
