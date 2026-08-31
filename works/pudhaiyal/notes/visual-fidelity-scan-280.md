@@ -26,8 +26,8 @@ The scan is **not** used to replace a Gemini word with a visually inferred sourc
 - no chapter/scene heading occurs on scan 280; chapter 32 continues;
 - scan 279 ends physically at `அதிபதி`, while scan 280 opens `யாக`, preserving the page break inside Gemini's word `அதிபதியாக`;
 - source paragraphing is preserved as five body units on this page;
-- source uses the quotation opening `“` before `எவனோ` and the closing construction `!” —`;
-- source uses long dashes in `தெரியவில்லை—திமிர்`, `கேவலம் —`, `நின்றுமிருக்கின்றன — நடந்துமிருக்கின்றன`, and the dialogue about `காலையிலே`;
+- source uses the quotation opening `“` before `எவனோ` and the closing construction **`!”—`**;
+- source long-dash spacing is not uniform and is preserved as printed: **`தெரியவில்லை—திமிர்`**, **`கேவலம்—இந்தக்`**, **`நின்றுமிருக்கின்றன — நடந்துமிருக்கின்றன`**, and **`இருங்கள் — காலையிலே`**;
 - OCR-style doubled full stops from Gemini are replaced only at the punctuation layer by the source's ordinary full stops;
 - physical line breaks are preserved, including word-internal source wraps represented with Gemini lexical forms: `எல்` / `லாம்`, `கண்` / `டாலே`, `வருத்` / `தப்படவும்`, `தலை` / `யீட்டால்`, `ஜாக்கி` / `ரதையாக`, `திண்ணை` / `யிலே`, `சயனத்` / `திற்குத்`, `குருட` / `னுக்குக்`, `பொன்னை` / `யும்`;
 - physical endpoint is `யும் கொட்டி வைத்தால் எப்படியிருக்கும்?`.
