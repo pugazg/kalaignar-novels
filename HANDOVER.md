@@ -7,9 +7,9 @@
 - Primary guide: `NOVEL_PROCESSING_GUIDE.md`
 - Current work: `works/pudhaiyal/`
 
-## Permanent source rule
+## Current authority rule
 
-The scan remains the authority for page identity, headings, punctuation, paragraph/section structure, long dashes, speaker-label spacing, physical line-break evidence, chapter/scene transitions and other structural findings.
+The scan remains the authority for page identity, headings, punctuation, paragraph/section structure, long dashes, speaker-label spacing, physical line/page breaks, chapter/scene transitions and other structural findings.
 
 ### Pudhaiyal lexical-preservation override — effective from scan 280 onward
 
@@ -18,14 +18,13 @@ By explicit user instruction, **Gemini's supplied transcription is the controlli
 For scans **280 onward**:
 
 - keep Gemini's words exactly as supplied;
-- do **not** replace a Gemini word, spelling, suffix, vowel sign, sandhi form or lexical spacing because the scan appears to show a different word;
-- do **not** create a lexical discrepancy merely from native visual reading when Gemini already supplies the word;
+- do **not** replace a Gemini word, spelling, suffix, vowel sign, sandhi form or lexical spacing because the scan appears to show a different lexical form;
 - use native scan inspection for **headings, punctuation, quote marks, long dashes, speaker-label spacing, paragraph breaks, physical line breaks, chapter/scene boundaries, separators/rules, page boundaries and other structural findings**;
-- when a word is physically split across a printed line/page, retain Gemini's lexical word but use the scan to record the physical break/provenance;
-- if Gemini has omitted a word/span entirely or the supplied baseline is genuinely incomplete, record the gap and ask/flag rather than silently inventing lexical text from the scan;
-- this rule is **prospective**. Do not reopen scans 246–279 merely to make them conform unless the user explicitly requests a retrospective pass.
+- when a word is physically split across a printed line/page, retain Gemini's lexical word but record the physical break/provenance;
+- if Gemini omitted a word/span entirely or the supplied baseline is genuinely incomplete, record the gap rather than silently supplying lexical text from the scan;
+- this rule is **prospective**. Do not reopen scans 246–279 solely to conform to it unless explicitly requested.
 
-This Pudhaiyal-specific lexical rule overrides the repository's usual source-first lexical reconciliation policy for the remaining current transcription work. The old-Tamil-glyph safeguard remains useful for structural interpretation, but it must **not** be used to alter Gemini's supplied words from scan 280 onward.
+The old-Tamil-glyph safeguard remains useful for structural interpretation but must not alter Gemini lexical words from scan 280 onward.
 
 Source/split PDFs must never be committed.
 
@@ -59,24 +58,22 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - derivative size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - derivative map: `works/pudhaiyal/indexes/part-006-page-map.md`
-- canonical records: **34 / 49 — scans 246–279**
-- verified: **34**
+- canonical records: **35 / 49 — scans 246–280**
+- verified / completed: **35**
 - needs-review: **0**
-- not-started: **15 — scans 280–294**
-- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-279.md`
+- not-started: **14 — scans 281–294**
+- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-280.md`
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - Part-006 state: **`in-progress`**
 
-### Current verified source sequence
+### Scan 280 / printed 276 — first page under the new policy
 
-Scan **279 / printed 275** is source-verified:
-
-- source spacing is `தலை வேதனையுண்டாக்கின`;
-- enlarged second pass confirms `பதினொரு`, not baseline `பதினோரு`;
-- source preserves `சமையற் காரியங்களில்`, `அடுக்களையிலே`, `விருந்துபசாரம்`, `‘நளபாக’ந்தான்`, `புளியில்லாக் குழம்பு`, `ஆர அமர`, and `உரிமையாக்கிக்கொள்ள`;
-- source reads `தனது திட்டங்கள் ஒன்றன்பின் ஒன்றாக`, not baseline `தனது திட்டங்களை...`;
-- source again preserves unusual `காதலர்கள்தானு`;
-- scan 279 ends `அதிபதி`; native scan 280 begins `யாக வேண்டும்`, establishing the structural cross-page continuation `அதிபதி` + `யாக`.
+- Gemini lexical wording is retained without native lexical correction;
+- native page establishes punctuation, quotes, long dashes, paragraphing and physical line breaks;
+- scan 279 physically ends `அதிபதி`; scan 280 physically starts `யாக`, preserving the page boundary inside Gemini word `அதிபதியாக`;
+- source physical line breaks include `எல்` / `லாம்`, `கண்` / `டாலே`, `வருத்` / `தப்படவும்`, `தலை` / `யீட்டால்`, `ஜாக்கி` / `ரதையாக`, `திண்ணை` / `யிலே`, `சயனத்` / `திற்குத்`, `குருட` / `னுக்குக்`, and `பொன்னை` / `யும்`;
+- no source-printed chapter/scene transition occurs; chapter 32 continues;
+- physical endpoint: `யும் கொட்டி வைத்தால் எப்படியிருக்கும்?`.
 
 ### Part-006 structure mapped from physical pages
 
@@ -90,18 +87,18 @@ Scan **279 / printed 275** is source-verified:
 
 ## Aggregate durable state
 
-- canonical records: **279**
-- verified: **272**
+- canonical records: **280**
+- verified / completed: **273**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
-- later individual source-verified pages: through scan **279**, except the seven damaged Part-005 records
+- later completed pages: through scan **280**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 34 / 49 verified**
+- Part 006: **in progress — 35 / 49 complete**
 - assembled Tamil / English split-level review: through scan **245** only
 - source scans represented by currently received derivatives: through **294**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Continue Part 006 at **scan 280 / printed page 276**, chapter 32. **Keep Gemini's words exactly.** Use the native scan only to establish heading/paragraph structure, punctuation, quote marks, long dashes, speaker-label spacing, physical line/page breaks and other structural findings. Record the 279→280 physical boundary without altering Gemini's lexical wording.
+Continue Part 006 at **scan 281 / printed page 277**, chapter 32. **Keep Gemini's words exactly.** Use native scan evidence only for headings, punctuation, long dashes, quote style, speaker-label spacing, paragraph/physical line breaks, page-boundary provenance and other structural findings.
