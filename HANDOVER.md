@@ -47,28 +47,24 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - derivative size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - derivative map: `works/pudhaiyal/indexes/part-006-page-map.md`
-- canonical records: **29 / 49 — scans 246–274**
-- verified: **29**
+- canonical records: **30 / 49 — scans 246–275**
+- verified: **30**
 - needs-review: **0**
-- not-started: **20 — scans 275–294**
-- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-274.md`
+- not-started: **19 — scans 276–294**
+- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-275.md`
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - Part-006 state: **`in-progress`**
 
 ### Current verified source sequence
 
-Scan **273 / printed 269** ends mid-word at `மறு`.
+Scan **275 / printed 271** is source-verified:
 
-Scan **274 / printed 270** is source-verified:
-
-- 273→274 source continuity: `மறு` + `படியும்` = **`மறுபடியும்`**;
-- user Iteration-26 baseline is substantively source-supported;
-- source punctuation is `“புதையல்! புதையல்!! புதையல் ரகசியம்!!!”—`;
-- source prints `எரியும்போது` continuously, not baseline `எரியும் போது`;
-- source-specific `புதையல் ரகசியந்தான்`, `மரணமுகப்பில்`, `பிரக்ஞை`, `பார்வைப் பட்டது`, `அவளோட`, and `இல்லியே` are retained;
-- second old-type pass confirms complete `கண்களை`, `விழிப்பான்`, `அவஸ்தைப்பட்டான்`, `பொருட்படுத்தாமல்`, `இருக்கிறது`, `இவளுடைய`, `அவனிடம்`, `துக்காராமிடமா`, and `இல்லியே`;
-- baseline OCR-style doubled full stops are not source punctuation;
-- scan 274 ends with a complete Velliyambalam dialogue/narration sentence.
+- opening dialogue is `இல்லை; துரை தான்!` and preserves the source pauses `கிழவருந்தான்...... என்னை ...... என்னை ......`;
+- native source order is **`அம்பலம் விடுவாரா? மிச்சமிருக்கிற உயிரையும் தேடித் தோண்டி...`**; the baseline's reordering is not source-supported and was not propagated;
+- physical wraps `நிறுத்` / `திப்` and `விடா` / `திங்க` are joined as `நிறுத்திப்` and `விடாதிங்க`;
+- source prints `மூடிக் கொண்டான்` separated and `தொட்டுப் பார்த்தார் — உதட்டைப் பிதுக்கினார்.`;
+- second old-type pass confirms complete `முடியவில்லை`, `புரியவில்லை`, `வாயையும்`, `கண்களையும்`, `தன்னுடைய`, and `கிழவரையும்`;
+- scan 275 ends mid-sentence at **`துரை`**; scan 276 must continue it.
 
 ### Part-006 structure mapped from physical pages
 
@@ -82,18 +78,18 @@ Scan **274 / printed 270** is source-verified:
 
 ## Aggregate durable state
 
-- canonical records: **274**
-- verified: **267**
+- canonical records: **275**
+- verified: **268**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
-- later individual source-verified pages: through scan **274**, except the seven damaged Part-005 records
+- later individual source-verified pages: through scan **275**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 29 / 49 verified**
+- Part 006: **in progress — 30 / 49 verified**
 - assembled Tamil / English split-level review: through scan **245** only
 - source scans represented by currently received derivatives: through **294**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Continue Part 006 at **scan 275 / printed page 271**, chapter 31. Apply the strengthened two-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions before accepting any disputed glyph or spacing.
+Continue Part 006 at **scan 276 / printed page 272**, chapter 31. First continue scan 275's open `துரை...` sentence. Apply the strengthened two-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions before accepting any disputed glyph or spacing.
