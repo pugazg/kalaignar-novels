@@ -24,7 +24,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 003 | `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf` | 99–147 | 97–145 | **49/49 verified; part-complete** |
 | 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **49/49 verified; part-complete** |
 | 005 | `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf` | 197–245 | 195–241 | **49/49 represented; 42 verified + 7 source-damage needs-review; part-complete with qualification** |
-| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 35 complete (246–280); 14 not-started; in progress** |
+| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 36 complete (246–281); 13 not-started; in progress** |
 
 Part-006 derivative byte record:
 
@@ -43,7 +43,7 @@ From **scan 280 onward**, by explicit user instruction:
 - native scan controls headings, punctuation, quotes, long dashes, paragraph structure, speaker-label spacing, physical line/page breaks, separators and chapter/scene structure;
 - do not use native visual evidence to replace a Gemini lexical word;
 - if Gemini omits lexical text, flag it rather than silently supplying it;
-- physical word splits are recorded as provenance while Gemini's lexical word remains controlling.
+- physical word splits are preserved/recorded as provenance while Gemini's lexical wording remains controlling.
 
 ## Current structural checkpoints
 
@@ -55,29 +55,29 @@ From **scan 280 onward**, by explicit user instruction:
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through scan 294.
 
-## Scan 280 / printed 276 structural findings
+## Current hybrid-policy findings
 
-- first page under Gemini-lexical/native-structure policy;
-- scan 279 physical endpoint `அதிபதி`; scan 280 physical opening `யாக` — page boundary occurs inside Gemini lexical `அதிபதியாக`;
-- source punctuation/quotation/long-dash layer and source paragraphing are preserved;
-- physical line breaks are preserved even when they split Gemini lexical words;
-- no chapter/scene transition occurs; chapter 32 continues;
-- physical endpoint: `யும் கொட்டி வைத்தால் எப்படியிருக்கும்?`;
-- no lexical discrepancy was adjudicated from the scan.
+- scan 280 is the first page processed under the Gemini-lexical/native-structure policy;
+- scan 281 / printed 277 continues chapter 32 with no source-printed chapter/scene transition;
+- Gemini lexical wording remains unchanged;
+- native source supplies ordinary punctuation, quotation structure, paragraphing and physical line breaks;
+- source long dash `உணர்ந்து — நம்` is preserved;
+- physical word-internal line breaks include `இசைத்` / `துக்`, `தன்` / `னைக்`, `உள்` / `ளத்தைப்`, `பரி` / `மளா`, and `தன்` / `னைத்`;
+- scan 281 physical endpoint: `பைத்யக்காரன்.`.
 
 ## Canonical Tamil state
 
-- page records created: **280**
-- verified / completed: **273**
+- page records created: **281**
+- verified / completed: **274**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later completed pages extend through scan **280**, except the seven damaged physical records
+- later completed pages extend through scan **281**, except the seven damaged physical records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 35 / 49 pages complete**
+- Part 006: **in progress — 36 / 49 pages complete**
 - assembled Tamil / English / bilingual review: **completed only through Part 005 / scan 245**
 
-Part-006 records currently extend through `../pages/0280-pudhaiyal.md`, with latest fidelity record [`../notes/visual-fidelity-scan-280.md`](../notes/visual-fidelity-scan-280.md).
+Part-006 records currently extend through `../pages/0281-pudhaiyal.md`, with latest fidelity record [`../notes/visual-fidelity-scan-281.md`](../notes/visual-fidelity-scan-281.md).
 
 ## Completeness still open
 
@@ -85,9 +85,9 @@ Part-006 records currently extend through `../pages/0280-pudhaiyal.md`, with lat
 - exact full scan-object count: **pending**
 - original full-source SHA-256: **pending**
 - true ending / back matter: **not yet inspected**
-- Part-006 text beyond scan 280: **not yet processed**
+- Part-006 text beyond scan 281: **not yet processed**
 - source range beyond scan 294: **not yet supplied/reconciled**
 
 ## Exact next action
 
-Process **scan 281 / printed page 277**, continuing chapter 32. Keep Gemini's words exactly and use native scan evidence only for structural/presentation findings.
+Process **scan 282 / printed page 278**, continuing chapter 32. Keep Gemini's words exactly and use native scan evidence only for structural/presentation findings.
