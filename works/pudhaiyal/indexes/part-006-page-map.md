@@ -8,10 +8,10 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - derivative file size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - source/split PDF committed: **No**
-- canonical records created so far: **32 / 49 — scans 246–277**
-- verified so far: **32**
+- canonical records created so far: **33 / 49 — scans 246–278**
+- verified so far: **33**
 - needs-review in Part 006 so far: **0**
-- not-started: **17 — scans 278–294**
+- not-started: **16 — scans 279–294**
 - split state: **`in-progress`**
 
 The derivative boundary at scan 245→246 is provenance only. Native source establishes the continuation `இருக்கவே` + `இருக்கிறாள் பரிமளா, ...`; no word, sentence or chapter boundary is created by the split.
@@ -48,10 +48,10 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 | 273 | 269 | chapter 31 | verified | `../pages/0273-pudhaiyal.md`; begins `ரத்தம் பெரும் பகுதி...`; confirms `கண்களை`; ends mid-word `மறு` |
 | 274 | 270 | chapter 31 | verified | `../pages/0274-pudhaiyal.md`; begins `படியும்` → `மறுபடியும்`; source `ரகசியம்!!!”—`, `எரியும்போது` |
 | 275 | 271 | chapter 31 | verified | `../pages/0275-pudhaiyal.md`; source order `அம்பலம் விடுவாரா? மிச்சமிருக்கிற உயிரையும்...`; ends mid-sentence `துரை` |
-| 276 | 272 | chapter 31 | verified | `../pages/0276-pudhaiyal.md`; begins `என்கிறான்.`; source `செத்தவனே`, `வீணக்`, `காதலர்கள்தானு`; ends complete dialogue |
-| 277 | 273 | chapter 31 | verified | `../pages/0277-pudhaiyal.md`; source `அவன் மணக்க`, `காதலர்கள்தானு`; ends `விட` |
-| 278 | 274 | chapter 31 closes / chapter 32 begins | not-started | begins `லாமென்று` → 277→278 `விடலாமென்று`; source-printed chapter heading 32 |
-| 279 | 275 | chapter 32 | not-started | — |
+| 276 | 272 | chapter 31 | verified | `../pages/0276-pudhaiyal.md`; begins `என்கிறான்.`; source `செத்தவனே`, `வீணக்`, `காதலர்கள்தானு` |
+| 277 | 273 | chapter 31 | verified | `../pages/0277-pudhaiyal.md`; source `அவன் மணக்க மாட்டேன்`, `காதலர்கள்தானு`; ends mid-word `விட` |
+| 278 | 274 | chapter 31 closes / chapter 32 begins | verified | `../pages/0278-pudhaiyal.md`; begins `லாமென்று` → `விடலாமென்று`; source `ஆட்சேபணை`; horizontal rule + heading `32` |
+| 279 | 275 | chapter 32 | not-started | next transcription page |
 | 280 | 276 | chapter 32 | not-started | — |
 | 281 | 277 | chapter 32 | not-started | — |
 | 282 | 278 | chapter 32 | not-started | — |
@@ -79,19 +79,18 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 - chapter 32 begins scan **278 / printed 274**;
 - chapter 33 begins scan **288 / printed 284** and continues through the derivative endpoint.
 
-These observations map structure only for scans 278–294; those pages remain `not-started` until their text is directly reconciled against native pixels.
+These observations map structure only for scans 279–294; those pages remain `not-started` until their text is directly reconciled against native pixels.
 
 ## Current continuity / native findings
 
-- scan 275 `துரை` + scan 276 `என்கிறான்.` establishes `துரை என்கிறான்.`;
-- scan 276 source preserves `செத்தவனே`, `வீணக்`, and unusual `காதலர்கள்தானு`;
-- scan 277 is source-verified from full-page plus enlarged high-resolution inspection;
-- source spacing is `அழைத்துப் போகிறேன்`, while baseline flattened `அழைத்துப்போகிறேன்`;
-- physical wraps `இரு` / `வருக்கும்`, `துன்` / `புறுத்த`, `போக` / `லாம்`, and `உண்மை` / `யான` are canonically `இருவருக்கும்`, `துன்புறுத்த`, `போகலாம்`, and `உண்மையான`;
-- independent enlarged second pass confirms unusual source **`அவன் மணக்க மாட்டேன்`**, not baseline `அவனை மணக்க மாட்டேன்`; no final `ை` is present;
-- source again preserves unusual **`காதலர்கள்தானு`** rather than baseline `காதலர்கள் தானா`;
-- scan 277 ends `விட`; native scan 278 begins `லாமென்று`, establishing **`விடலாமென்று`** across the physical page boundary;
-- unresolved readings through scan 277: **0 in Part 006**.
+- scan 277 ends mid-word at `விட`; scan 278 begins `லாமென்று நம்பினார்.`, establishing `விடலாமென்று`;
+- scan 278 native enlarged inspection confirms source **`ஆட்சேபணை`**, not baseline `ஆட்சேபனை`;
+- source preserves `மறைக்கப் பட்டால்`, `ஒதுப்புறமாக`, `பூமியைத்தோண்டி`, `காதலர்காள்`, `தெரிஞ்சாச்சி`, `கலியாணம்`, and `பின்னே`;
+- source punctuation includes `புறப்பட்டான்—‘இன்னும் எத்தகைய துன்பங்கள் தொடருமோ?’`;
+- source-printed horizontal rule and chapter heading `32` occur on scan 278;
+- physical wrap `திட்டப்` / `படி` is one word, canonically `திட்டப்படி`;
+- scan 278 ends with the complete sentence `துக்காராமும் பரிமளாவும் அங்கே வைக்கப்பட்டனர்.`;
+- unresolved readings through scan 278: **0 in Part 006**.
 
 ## Fidelity records
 
@@ -100,8 +99,8 @@ These observations map structure only for scans 278–294; those pages remain `n
 - scan 251: `../notes/visual-fidelity-scan-251.md`
 - scans 252–255: `../notes/visual-fidelity-scans-252-255.md`
 - scans 256–259: `../notes/visual-fidelity-scans-256-259.md`
-- scans 260–277: individual `../notes/visual-fidelity-scan-NNN.md` records, with scan-264 correction separately documented in `../notes/old-glyph-correction-scan-264.md`.
+- scans 260–278: individual `../notes/visual-fidelity-scan-NNN.md` records, with scan-264 correction separately documented in `../notes/old-glyph-correction-scan-264.md`.
 
 ## Exact next activity
 
-Reconcile **scan 278 / printed page 274** directly against native Part-006 source pixels, first closing scan 277's `விட` + scan 278 `லாமென்று` = `விடலாமென்று`, then capture the source-printed chapter 32 transition later on the page. Apply the strengthened two-pass old-typeform rule to all vowel signs and line-wrap questions. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
+Reconcile **scan 279 / printed page 275** directly against native Part-006 source pixels, continuing chapter 32. Apply the strengthened two-pass old-typeform rule to all vowel signs and line-wrap questions before overriding any baseline character or spacing. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
