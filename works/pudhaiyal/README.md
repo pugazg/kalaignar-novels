@@ -34,7 +34,7 @@ A derivative boundary is provenance only and must never create a false narrative
 | Part 003 | 99–147 | **part-complete; scan-120 old-glyph correction synchronized** |
 | Part 004 | 148–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification; readable-page old-glyph corrections synchronized** |
-| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–275 verified; 276–294 not-started** |
+| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–276 verified; 277–294 not-started** |
 
 ## Part 006 — active derivative
 
@@ -44,28 +44,29 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - source scans: **246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records created: **30 / 49 — scans 246–275**
-- verified: **30 / 49**
+- canonical records created: **31 / 49 — scans 246–276**
+- verified: **31 / 49**
 - needs-review in Part 006: **0**
-- not-started: **19 — scans 276–294**
-- latest fidelity record: [`notes/visual-fidelity-scan-275.md`](notes/visual-fidelity-scan-275.md)
+- not-started: **18 — scans 277–294**
+- latest fidelity record: [`notes/visual-fidelity-scan-276.md`](notes/visual-fidelity-scan-276.md)
 - Part-006 Tamil audit: **not yet eligible**
 - Part-006 assembled Tamil / English / bilingual review: **not started; gate remains closed**
 - source/split PDF committed: **No**
 
 ### Current Iteration-26 checkpoint
 
-Scan **274 / printed 270** remains source-verified and closes with a complete Velliyambalam sentence.
+Scan **275 / printed 271** ends mid-sentence at `துரை`.
 
-Scan **275 / printed 271** is now source-verified:
+Scan **276 / printed 272** is now source-verified:
 
-- opening source dialogue is `“இல்லை; துரை தான்! அந்த துரையும், மாயாண்டிக் கிழவருந்தான்...... என்னை ...... என்னை ......”`;
-- source materially differs from the supplied baseline in sentence order: **`அம்பலம் விடுவாரா? மிச்சமிருக்கிற உயிரையும் தேடித் தோண்டி...`** is the native order and is retained instead of the baseline's smoother reordering;
-- physical wraps `நிறுத்` / `திப்` and `விடா` / `திங்க` are canonically `நிறுத்திப்` and `விடாதிங்க`;
-- source prints `மூடிக் கொண்டான்` separated and `தொட்டுப் பார்த்தார் — உதட்டைப் பிதுக்கினார்.`;
-- source-specific `இப்ப`, `எங்க இருக்கு`, `ரெண்டு`, `வாக்கு மூலத்தால்`, and `துக்காராம்தான்` are retained;
-- second old-type pass confirms complete `முடியவில்லை`, `புரியவில்லை`, `வாயையும்`, `கண்களையும்`, `தன்னுடைய`, and `கிழவரையும்`;
-- scan 275 ends mid-sentence at **`துரை`**.
+- 275→276 continuity is `துரை என்கிறான்.`;
+- source prints `செத்தவனிடம்தான்` continuously;
+- an independent enlarged second pass confirms source **`செத்தவனே,`**, not baseline `செத்தவனோ,`;
+- source reads **`நாம்தான் வீணக் குழப்பிக் கொள்கிறோம்.`**, not baseline `வீணாகக்`;
+- source preserves unusual **`காதலர்கள்தானு`** rather than normalizing to baseline `காதலர்கள் தானா`;
+- source punctuation preserves `சிக்கியிருக்க வேண்டும்!......` and the paragraph-opening `—இப்படி யோசித்தார் வெள்ளியம்பலம்.`;
+- second old-type pass confirms complete `துரையிடமும்`, `மாயாண்டியிடமும்`, `இவளுடைய`, `பாதுகாப்பிலே`, `துரையையும்`, `கிழவனும்`, `குழப்பமுமில்லாமல்`, `தெரியாது`, and `நிறைவேற்ற`;
+- scan 276 ends with a complete dialogue sentence.
 
 ### Part-006 structure mapped
 
@@ -77,22 +78,22 @@ Scan **275 / printed 271** is now source-verified:
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through scan 294.
 
-Only scans 246–275 have been textually reconciled so far. Later structural mapping does not make scans 276–294 `verified`.
+Only scans 246–276 have been textually reconciled so far. Later structural mapping does not make scans 277–294 `verified`.
 
 ## Aggregate archival status
 
-- canonical Tamil page records: **275**
-- verified: **268**
+- canonical Tamil page records: **276**
+- verified: **269**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range remains through scan **214 / printed page 212**
-- later individual scans are source-verified through scan **275**, except the seven Part-005 damaged scans
+- later individual scans are source-verified through scan **276**, except the seven Part-005 damaged scans
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 30 / 49 verified**
+- Part 006: **in progress — 31 / 49 verified**
 - assembled Tamil / English: part-reviewed continuously through scan **245** only
 - whole-work Tamil / English verification: **not yet eligible**
 - release-readiness: **blocked until complete source**
 
 ## Exact next activity
 
-Reconcile **scan 276 / printed page 272** directly against native Part-006 pixels, first continuing scan 275's open `துரை...` sentence. Apply the strengthened two-pass rule to every vowel sign and line-wrap question before overriding any baseline character or word spacing. Do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
+Reconcile **scan 277 / printed page 273** directly against native Part-006 pixels, continuing chapter 31. Apply the strengthened two-pass rule to every vowel sign and line-wrap question before overriding any baseline character or word spacing. Do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
