@@ -8,10 +8,10 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - derivative file size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - source/split PDF committed: **No**
-- canonical records created so far: **29 / 49 — scans 246–274**
-- verified so far: **29**
+- canonical records created so far: **30 / 49 — scans 246–275**
+- verified so far: **30**
 - needs-review in Part 006 so far: **0**
-- not-started: **20 — scans 275–294**
+- not-started: **19 — scans 276–294**
 - split state: **`in-progress`**
 
 The derivative boundary at scan 245→246 is provenance only. Native source establishes the continuation `இருக்கவே` + `இருக்கிறாள் பரிமளா, ...`; no word, sentence or chapter boundary is created by the split.
@@ -46,9 +46,9 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 | 271 | 267 | chapter 30 closes / chapter 31 begins | verified | `../pages/0271-pudhaiyal.md`; horizontal rule + heading `31`; ends `தை தகவெனக் குதித்துக் கத்தினான்.` |
 | 272 | 268 | chapter 31 | verified | `../pages/0272-pudhaiyal.md`; source `வயதிலே`, `மனங் துணிந்து`; ends `உடலிலேயிருந்த` |
 | 273 | 269 | chapter 31 | verified | `../pages/0273-pudhaiyal.md`; begins `ரத்தம் பெரும் பகுதி...`; confirms `கண்களை`; ends mid-word `மறு` |
-| 274 | 270 | chapter 31 | verified | `../pages/0274-pudhaiyal.md`; begins `படியும்` → `மறுபடியும்`; source `ரகசியம்!!!”—`, `எரியும்போது`; ends `வெள்ளியம்பலம்.` |
-| 275 | 271 | chapter 31 | not-started | next transcription page |
-| 276 | 272 | chapter 31 | not-started | — |
+| 274 | 270 | chapter 31 | verified | `../pages/0274-pudhaiyal.md`; begins `படியும்` → `மறுபடியும்`; source `ரகசியம்!!!”—`, `எரியும்போது` |
+| 275 | 271 | chapter 31 | verified | `../pages/0275-pudhaiyal.md`; source order `அம்பலம் விடுவாரா? மிச்சமிருக்கிற உயிரையும்...`; ends mid-sentence `துரை` |
+| 276 | 272 | chapter 31 | not-started | next transcription page; must continue `துரை...` |
 | 277 | 273 | chapter 31 | not-started | — |
 | 278 | 274 | chapter 31 closes / chapter 32 begins | not-started | source-printed chapter heading 32 |
 | 279 | 275 | chapter 32 | not-started | — |
@@ -79,20 +79,19 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 - chapter 32 begins scan **278 / printed 274**;
 - chapter 33 begins scan **288 / printed 284** and continues through the derivative endpoint.
 
-These observations map structure only for scans 275–294; those pages remain `not-started` until their text is directly reconciled against native pixels.
+These observations map structure only for scans 276–294; those pages remain `not-started` until their text is directly reconciled against native pixels.
 
 ## Current continuity / native findings
 
-- scan 273 ends mid-word at `மறு`;
-- scan 274 begins `படியும்`, establishing the cross-page word **`மறுபடியும்`**;
-- user Iteration-26 wording is substantively source-supported on scan 274;
-- source punctuation is `“புதையல்! புதையல்!! புதையல் ரகசியம்!!!”—`;
-- source prints `எரியும்போது` continuously, not baseline `எரியும் போது`;
-- source-specific `புதையல் ரகசியந்தான்`, `மரணமுகப்பில்`, `பிரக்ஞை`, `பார்வைப் பட்டது`, `அவளோட`, and `இல்லியே` are retained;
-- second old-type pass confirms complete `கண்களை`, `விழிப்பான்`, `அவஸ்தைப்பட்டான்`, `பொருட்படுத்தாமல்`, `இருக்கிறது`, `இவளுடைய`, `அவனிடம்`, `துக்காராமிடமா`, and `இல்லியே`;
-- baseline OCR-style doubled full stops are not source punctuation;
-- scan 274 ends with a complete Velliyambalam dialogue/narration sentence; scan 275 continues chapter 31 with new narration/dialogue;
-- unresolved readings through scan 274: **0 in Part 006**.
+- scan 273 `மறு` + scan 274 `படியும்` establishes `மறுபடியும்`;
+- scan 275 is source-verified from full-page plus enlarged high-resolution inspection;
+- source opening preserves `“இல்லை; துரை தான்! அந்த துரையும், மாயாண்டிக் கிழவருந்தான்...... என்னை ...... என்னை ......”`;
+- native source materially differs from the baseline in sentence order: source is **`அம்பலம் விடுவாரா? மிச்சமிருக்கிற உயிரையும் தேடித் தோண்டி...`**, not the baseline-reordered `மிச்சமிருக்கிற உயிரையும் அம்பலம் விடுவாரா?`;
+- physical wraps `நிறுத்` / `திப்` and `விடா` / `திங்க` are canonically `நிறுத்திப்` and `விடாதிங்க`;
+- source prints `மூடிக் கொண்டான்` separated and `தொட்டுப் பார்த்தார் — உதட்டைப் பிதுக்கினார்.`;
+- second old-type pass confirms complete `முடியவில்லை`, `புரியவில்லை`, `வாயையும்`, `கண்களையும்`, `தன்னுடைய`, and `கிழவரையும்`;
+- scan 275 ends mid-sentence at **`துரை`**; scan 276 must continue that exact sentence;
+- unresolved readings through scan 275: **0 in Part 006**.
 
 ## Fidelity records
 
@@ -101,8 +100,8 @@ These observations map structure only for scans 275–294; those pages remain `n
 - scan 251: `../notes/visual-fidelity-scan-251.md`
 - scans 252–255: `../notes/visual-fidelity-scans-252-255.md`
 - scans 256–259: `../notes/visual-fidelity-scans-256-259.md`
-- scans 260–274: individual `../notes/visual-fidelity-scan-NNN.md` records, with scan-264 correction separately documented in `../notes/old-glyph-correction-scan-264.md`.
+- scans 260–275: individual `../notes/visual-fidelity-scan-NNN.md` records, with scan-264 correction separately documented in `../notes/old-glyph-correction-scan-264.md`.
 
 ## Exact next activity
 
-Reconcile **scan 275 / printed page 271** directly against native Part-006 source pixels, continuing chapter 31. Apply the strengthened two-pass old-typeform rule to all vowel signs and line-wrap questions before overriding any baseline character or spacing. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
+Reconcile **scan 276 / printed page 272** directly against native Part-006 source pixels, first continuing scan 275's open `துரை...` sentence. Apply the strengthened two-pass old-typeform rule to all vowel signs and line-wrap questions before overriding any baseline character or spacing. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
