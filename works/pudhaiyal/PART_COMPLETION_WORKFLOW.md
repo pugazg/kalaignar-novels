@@ -48,11 +48,11 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - physical pages / mapped source scans: **49 / 49 — scans 246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **30 / 49 — scans 246–275**
-- verified: **30**
+- canonical records: **31 / 49 — scans 246–276**
+- verified: **31**
 - needs-review: **0**
-- not-started: **19 — scans 276–294**
-- latest native-fidelity record: [`notes/visual-fidelity-scan-275.md`](notes/visual-fidelity-scan-275.md)
+- not-started: **18 — scans 277–294**
+- latest native-fidelity record: [`notes/visual-fidelity-scan-276.md`](notes/visual-fidelity-scan-276.md)
 - Tamil audit: **not eligible**
 - assembled Tamil: **not eligible**
 - controlled English: **not eligible**
@@ -61,13 +61,15 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 
 ### Current Part-006 checkpoint
 
-- scan 275 is source-verified from native full-page and enlarged high-resolution inspection;
-- opening dialogue preserves `துரை தான்` and `கிழவருந்தான்...... என்னை ...... என்னை ......`;
-- native source order is **`அம்பலம் விடுவாரா? மிச்சமிருக்கிற உயிரையும் தேடித் தோண்டி...`**, not the reordered baseline;
-- physical wraps `நிறுத்` / `திப்` and `விடா` / `திங்க` are canonically `நிறுத்திப்` and `விடாதிங்க`;
-- source prints `மூடிக் கொண்டான்` separated and uses `தொட்டுப் பார்த்தார் — உதட்டைப் பிதுக்கினார்.`;
-- old-type second pass confirms complete `முடியவில்லை`, `புரியவில்லை`, `வாயையும்`, `கண்களையும்`, `தன்னுடைய`, and `கிழவரையும்`;
-- scan 275 ends mid-sentence at `துரை`.
+- scan 275 ends mid-sentence at `துரை`;
+- scan 276 begins `என்கிறான்.`, establishing `துரை என்கிறான்.`;
+- source `செத்தவனிடம்தான்` is continuous;
+- independent enlarged second pass confirms source `செத்தவனே,`, not baseline `செத்தவனோ,`;
+- source reads `நாம்தான் வீணக் குழப்பிக் கொள்கிறோம்.` rather than baseline `வீணாகக்`;
+- source preserves unusual `காதலர்கள்தானு` without normalizing to baseline `காதலர்கள் தானா`;
+- source punctuation includes `சிக்கியிருக்க வேண்டும்!......` and `—இப்படி யோசித்தார் வெள்ளியம்பலம்.`;
+- old-type second pass confirms complete `துரையிடமும்`, `மாயாண்டியிடமும்`, `இவளுடைய`, `பாதுகாப்பிலே`, `துரையையும்`, `கிழவனும்`, `குழப்பமுமில்லாமல்`, `தெரியாது`, and `நிறைவேற்ற`;
+- scan 276 ends with a complete dialogue sentence.
 
 Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262 and closes 271; chapter 31 begins 271; chapter 32 begins 278; chapter 33 begins 288.
 
@@ -82,4 +84,4 @@ Do not run the Part-006 Tamil audit or any downstream stage until all scans 246�
 
 ## Exact next activity
 
-Reconcile **scan 276 / printed page 272** directly against the native Part-006 source, first continuing scan 275's open `துரை...` sentence. Apply the strengthened two-pass old-typeform rule to all vowel signs and printed-line-wrap questions.
+Reconcile **scan 277 / printed page 273** directly against the native Part-006 source, continuing chapter 31. Apply the strengthened two-pass old-typeform rule to all vowel signs and printed-line-wrap questions.
