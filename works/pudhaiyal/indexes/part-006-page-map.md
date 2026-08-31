@@ -8,10 +8,10 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - derivative file size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - source/split PDF committed: **No**
-- canonical records created so far: **33 / 49 — scans 246–278**
-- verified so far: **33**
+- canonical records created so far: **34 / 49 — scans 246–279**
+- verified so far: **34**
 - needs-review in Part 006 so far: **0**
-- not-started: **16 — scans 279–294**
+- not-started: **15 — scans 280–294**
 - split state: **`in-progress`**
 
 The derivative boundary at scan 245→246 is provenance only. Native source establishes the continuation `இருக்கவே` + `இருக்கிறாள் பரிமளா, ...`; no word, sentence or chapter boundary is created by the split.
@@ -51,8 +51,8 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 | 276 | 272 | chapter 31 | verified | `../pages/0276-pudhaiyal.md`; begins `என்கிறான்.`; source `செத்தவனே`, `வீணக்`, `காதலர்கள்தானு` |
 | 277 | 273 | chapter 31 | verified | `../pages/0277-pudhaiyal.md`; source `அவன் மணக்க மாட்டேன்`, `காதலர்கள்தானு`; ends mid-word `விட` |
 | 278 | 274 | chapter 31 closes / chapter 32 begins | verified | `../pages/0278-pudhaiyal.md`; begins `லாமென்று` → `விடலாமென்று`; source `ஆட்சேபணை`; horizontal rule + heading `32` |
-| 279 | 275 | chapter 32 | not-started | next transcription page |
-| 280 | 276 | chapter 32 | not-started | — |
+| 279 | 275 | chapter 32 | verified | `../pages/0279-pudhaiyal.md`; source `தலை வேதனையுண்டாக்கின`, `பதினொரு`, `திட்டங்கள்`, `காதலர்கள்தானு`; ends `அதிபதி` |
+| 280 | 276 | chapter 32 | not-started | begins `யாக வேண்டும்` → 279→280 `அதிபதியாக`; next transcription page |
 | 281 | 277 | chapter 32 | not-started | — |
 | 282 | 278 | chapter 32 | not-started | — |
 | 283 | 279 | chapter 32 | not-started | — |
@@ -79,18 +79,20 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 - chapter 32 begins scan **278 / printed 274**;
 - chapter 33 begins scan **288 / printed 284** and continues through the derivative endpoint.
 
-These observations map structure only for scans 279–294; those pages remain `not-started` until their text is directly reconciled against native pixels.
+These observations map structure only for scans 280–294; those pages remain `not-started` until their text is directly reconciled against native pixels.
 
 ## Current continuity / native findings
 
-- scan 277 ends mid-word at `விட`; scan 278 begins `லாமென்று நம்பினார்.`, establishing `விடலாமென்று`;
-- scan 278 native enlarged inspection confirms source **`ஆட்சேபணை`**, not baseline `ஆட்சேபனை`;
-- source preserves `மறைக்கப் பட்டால்`, `ஒதுப்புறமாக`, `பூமியைத்தோண்டி`, `காதலர்காள்`, `தெரிஞ்சாச்சி`, `கலியாணம்`, and `பின்னே`;
-- source punctuation includes `புறப்பட்டான்—‘இன்னும் எத்தகைய துன்பங்கள் தொடருமோ?’`;
-- source-printed horizontal rule and chapter heading `32` occur on scan 278;
-- physical wrap `திட்டப்` / `படி` is one word, canonically `திட்டப்படி`;
-- scan 278 ends with the complete sentence `துக்காராமும் பரிமளாவும் அங்கே வைக்கப்பட்டனர்.`;
-- unresolved readings through scan 278: **0 in Part 006**.
+- scan 277 `விட` + scan 278 `லாமென்று` establishes `விடலாமென்று`;
+- scan 278 confirms source `ஆட்சேபணை`, source horizontal rule, and chapter `32` heading;
+- scan 279 is source-verified from full-page plus enlarged high-resolution inspection;
+- source spacing is **`தலை வேதனையுண்டாக்கின`**, not baseline `தலைவேதனையுண்டாக்கின`;
+- enlarged second pass confirms **`பதினொரு`**, not baseline `பதினோரு`;
+- source preserves `சமையற் காரியங்களில்`, `அடுக்களையிலே`, `விருந்துபசாரம்`, `‘நளபாக’ந்தான்`, `புளியில்லாக் குழம்பு`, `ஆர அமர`, and `உரிமையாக்கிக்கொள்ள`;
+- source reads **`தனது திட்டங்கள் ஒன்றன்பின் ஒன்றாக`**, not baseline `தனது திட்டங்களை...`;
+- source again preserves unusual **`காதலர்கள்தானு`**;
+- scan 279 ends `அதிபதி`; native scan 280 begins `யாக வேண்டும்`, establishing **`அதிபதியாக`** across the physical page boundary;
+- unresolved readings through scan 279: **0 in Part 006**.
 
 ## Fidelity records
 
@@ -99,8 +101,8 @@ These observations map structure only for scans 279–294; those pages remain `n
 - scan 251: `../notes/visual-fidelity-scan-251.md`
 - scans 252–255: `../notes/visual-fidelity-scans-252-255.md`
 - scans 256–259: `../notes/visual-fidelity-scans-256-259.md`
-- scans 260–278: individual `../notes/visual-fidelity-scan-NNN.md` records, with scan-264 correction separately documented in `../notes/old-glyph-correction-scan-264.md`.
+- scans 260–279: individual `../notes/visual-fidelity-scan-NNN.md` records, with scan-264 correction separately documented in `../notes/old-glyph-correction-scan-264.md`.
 
 ## Exact next activity
 
-Reconcile **scan 279 / printed page 275** directly against native Part-006 source pixels, continuing chapter 32. Apply the strengthened two-pass old-typeform rule to all vowel signs and line-wrap questions before overriding any baseline character or spacing. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
+Reconcile **scan 280 / printed page 276** directly against native Part-006 source pixels, first closing scan 279 `அதிபதி` + scan 280 `யாக` = `அதிபதியாக`, then continue chapter 32. Apply the strengthened two-pass old-typeform rule to all vowel signs and line-wrap questions. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
