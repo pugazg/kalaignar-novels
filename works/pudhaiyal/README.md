@@ -34,7 +34,7 @@ A derivative boundary is provenance only and must never create a false narrative
 | Part 003 | 99–147 | **part-complete; scan-120 old-glyph correction synchronized** |
 | Part 004 | 148–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification; readable-page old-glyph corrections synchronized** |
-| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–272 verified; 273–294 not-started** |
+| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–273 verified; 274–294 not-started** |
 
 ## Part 006 — active derivative
 
@@ -44,29 +44,29 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - source scans: **246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records created: **27 / 49 — scans 246–272**
-- verified: **27 / 49**
+- canonical records created: **28 / 49 — scans 246–273**
+- verified: **28 / 49**
 - needs-review in Part 006: **0**
-- not-started: **22 — scans 273–294**
-- latest fidelity record: [`notes/visual-fidelity-scan-272.md`](notes/visual-fidelity-scan-272.md)
+- not-started: **21 — scans 274–294**
+- latest fidelity record: [`notes/visual-fidelity-scan-273.md`](notes/visual-fidelity-scan-273.md)
 - Part-006 Tamil audit: **not yet eligible**
 - Part-006 assembled Tamil / English / bilingual review: **not started; gate remains closed**
 - source/split PDF committed: **No**
 
 ### Current Iteration-26 checkpoint
 
-Scan **271 / printed 267** closes chapter 30, carries the source-printed horizontal rule and chapter **31** heading, and ends `தை தகவெனக் குதித்துக் கத்தினான்.`
+Scan **272 / printed 268** remains source-verified and ends mid-sentence at `உடலிலேயிருந்த`.
 
-Scan **272 / printed 268** is now source-verified:
+Scan **273 / printed 269** is now source-verified:
 
-- user baseline is substantively source-supported;
-- source reads **`வயதிலே`**, not baseline `வயதில`;
-- source reads **`மனங் துணிந்து`**, not baseline `மனந்துணிந்து`;
-- source punctuation is `உலகம் — அந்த உலகத்திலும்` and `பிரமுகர்கள்—அத்தகைய`;
-- physical line wraps are joined only where native continuity establishes one word: `உலகத்திலும்`, `எடுத்துக்கொண்டு`, `கொண்டிருக்கிறதா`, `கொண்டிருந்த`;
-- second old-type pass confirms full `தெரியுமா`, `விட்டதய்யா`, `வயதிலே`, `உயிலிலே`, `உலகத்திலும்`, `அணிவகுப்பிலே`, `கொள்ளாமல்`, `முகத்திலே`, `மெதுவாக`, and `உடலிலேயிருந்த`;
-- source-specific `அக்கரை`, `மனங் துணிந்து`, and `அவனுக்கு அவன் மீது` are retained;
-- scan 272 ends mid-sentence at `உடலிலேயிருந்த`.
+- 272→273 continuity is `உடலிலேயிருந்த ரத்தம் பெரும் பகுதி...`;
+- user Iteration-26 wording is substantively source-supported;
+- source shows `சமாளித்துக் கொண்டு` with a genuine space rather than baseline `சமாளித்துக்கொண்டு`;
+- source punctuation confirms `“அப்பாடா!”` and single full stops rather than baseline OCR-style doubled stops;
+- enlarged/contrast second pass confirms baseline `வரண்டுபோன`;
+- enlarged old-type inspection confirms full **`கண்களை`**, including the faint final `ை` that must not be lost as `கண்கள்`;
+- full forms rechecked include `வெளியேறிவிட்டதால்`, `சக்தியற்றிருந்தான்`, `வாயையும்`, `ஒட்டிக் கொண்டிருந்தது`, `நனைத்திருந்த`, `வாயிலே`, `ஆவலாகக்`, `முடியவில்லை`, `எங்கேயிருக்கிறது`, and `போலிருக்கிறதே`;
+- scan 273 physically ends mid-word at `மறு`.
 
 ### Part-006 structure mapped
 
@@ -78,22 +78,22 @@ Scan **272 / printed 268** is now source-verified:
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through scan 294.
 
-Only scans 246–272 have been textually reconciled so far. Later structural mapping does not make scans 273–294 `verified`.
+Only scans 246–273 have been textually reconciled so far. Later structural mapping does not make scans 274–294 `verified`.
 
 ## Aggregate archival status
 
-- canonical Tamil page records: **272**
-- verified: **265**
+- canonical Tamil page records: **273**
+- verified: **266**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range remains through scan **214 / printed page 212**
-- later individual scans are source-verified through scan **272**, except the seven Part-005 damaged scans
+- later individual scans are source-verified through scan **273**, except the seven Part-005 damaged scans
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 27 / 49 verified**
+- Part 006: **in progress — 28 / 49 verified**
 - assembled Tamil / English: part-reviewed continuously through scan **245** only
 - whole-work Tamil / English verification: **not yet eligible**
 - release-readiness: **blocked until complete source**
 
 ## Exact next activity
 
-Reconcile **scan 273 / printed page 269** directly against native Part-006 pixels, first continuing scan 272's open `உடலிலேயிருந்த...` sentence. Apply the strengthened two-pass rule to every vowel sign and line-wrap question before overriding any baseline character or word spacing. Do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
+Reconcile **scan 274 / printed page 270** directly against native Part-006 pixels, first continuing scan 273's open `மறு...` word. Apply the strengthened two-pass rule to every vowel sign and line-wrap question before overriding any baseline character or word spacing. Do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
