@@ -47,28 +47,28 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - derivative size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - derivative map: `works/pudhaiyal/indexes/part-006-page-map.md`
-- canonical records: **27 / 49 — scans 246–272**
-- verified: **27**
+- canonical records: **28 / 49 — scans 246–273**
+- verified: **28**
 - needs-review: **0**
-- not-started: **22 — scans 273–294**
-- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-272.md`
+- not-started: **21 — scans 274–294**
+- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-273.md`
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - Part-006 state: **`in-progress`**
 
 ### Current verified source sequence
 
-Scan **271 / printed 267** closes chapter 30, opens chapter 31, and ends `தை தகவெனக் குதித்துக் கத்தினான்.`
+Scan **272 / printed 268** ends mid-sentence at `உடலிலேயிருந்த`.
 
-Scan **272 / printed 268** is source-verified:
+Scan **273 / printed 269** is source-verified:
 
+- 272→273 source continuity: `உடலிலேயிருந்த ரத்தம் பெரும் பகுதி...`;
 - user Iteration-26 baseline is substantively source-supported;
-- source reads `வயதிலே`, not baseline `வயதில`;
-- source reads `மனங் துணிந்து`, not baseline `மனந்துணிந்து`;
-- source punctuation is `உலகம் — அந்த உலகத்திலும்` and `பிரமுகர்கள்—அத்தகைய`;
-- physical line wraps are joined only where native continuity establishes a single word;
-- second old-type pass confirms full `தெரியுமா`, `விட்டதய்யா`, `வயதிலே`, `உயிலிலே`, `உலகத்திலும்`, `அணிவகுப்பிலே`, `கொள்ளாமல்`, `முகத்திலே`, `மெதுவாக`, and `உடலிலேயிருந்த`;
-- source-specific `அக்கரை`, `மனங் துணிந்து`, and `அவனுக்கு அவன் மீது` are retained;
-- scan 272 ends mid-sentence at `உடலிலேயிருந்த`.
+- source prints `சமாளித்துக் கொண்டு`, not baseline joined `சமாளித்துக்கொண்டு`;
+- source punctuation confirms `“அப்பாடா!”` and normal single full stops;
+- enlarged native reinspection confirms baseline `வரண்டுபோன`;
+- old-type second pass confirms full **`கண்களை`**, including its faint final `ை`;
+- full forms checked include `வெளியேறிவிட்டதால்`, `சக்தியற்றிருந்தான்`, `வாயையும்`, `ஒட்டிக் கொண்டிருந்தது`, `நனைத்திருந்த`, `வாயிலே`, `ஆவலாகக்`, `முடியவில்லை`, `எங்கேயிருக்கிறது`, and `போலிருக்கிறதே`;
+- scan 273 ends mid-word at **`மறு`**.
 
 ### Part-006 structure mapped from physical pages
 
@@ -82,18 +82,18 @@ Scan **272 / printed 268** is source-verified:
 
 ## Aggregate durable state
 
-- canonical records: **272**
-- verified: **265**
+- canonical records: **273**
+- verified: **266**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
-- later individual source-verified pages: through scan **272**, except the seven damaged Part-005 records
+- later individual source-verified pages: through scan **273**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 27 / 49 verified**
+- Part 006: **in progress — 28 / 49 verified**
 - assembled Tamil / English split-level review: through scan **245** only
 - source scans represented by currently received derivatives: through **294**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Continue Part 006 at **scan 273 / printed page 269**, first closing scan 272's open `உடலிலேயிருந்த...` sentence from native scan-273 evidence. Apply the strengthened two-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions before accepting any disputed glyph or spacing.
+Continue Part 006 at **scan 274 / printed page 270**, chapter 31. First close scan 273's open `மறு...` word from native scan-274 evidence. Apply the strengthened two-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions before accepting any disputed glyph or spacing.
