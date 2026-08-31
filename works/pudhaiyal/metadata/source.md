@@ -25,7 +25,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 003 | `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf` | 99–147 | 97–145 | **49/49 verified; part-complete** |
 | 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **49/49 verified; part-complete** |
 | 005 | `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf` | 197–245 | 195–241 | **49/49 represented; 42 verified + 7 source-damage needs-review; part-complete with qualification** |
-| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 29 verified (246–274); 20 not-started; in progress** |
+| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 30 verified (246–275); 19 not-started; in progress** |
 
 Part-006 derivative byte record:
 
@@ -46,16 +46,15 @@ No split PDF is committed to GitHub.
 
 ## Current native findings
 
-Scan **274 / printed 270** is source-verified:
+Scan **275 / printed 271** is source-verified:
 
-- scan 273 `மறு` + scan 274 `படியும்` establishes the cross-page source word **`மறுபடியும்`**;
-- user Iteration-26 baseline is substantively source-supported;
-- source punctuation is `“புதையல்! புதையல்!! புதையல் ரகசியம்!!!”—`;
-- source prints `எரியும்போது` continuously, not baseline `எரியும் போது`;
-- source-specific `புதையல் ரகசியந்தான்`, `மரணமுகப்பில்`, `பிரக்ஞை`, `பார்வைப் பட்டது`, `அவளோட`, and `இல்லியே` are retained;
-- second old-type pass confirms full `கண்களை`, `விழிப்பான்`, `அவஸ்தைப்பட்டான்`, `பொருட்படுத்தாமல்`, `இருக்கிறது`, `இவளுடைய`, `அவனிடம்`, `துக்காராமிடமா`, and `இல்லியே`;
-- baseline OCR-style doubled full stops are not source punctuation;
-- physical endpoint is the complete Velliyambalam sentence ending `வெள்ளியம்பலம்.`.
+- opening source dialogue preserves `துரை தான்` and the six-dot pauses around `கிழவருந்தான்...... என்னை ...... என்னை ......`;
+- source order is **`அம்பலம் விடுவாரா? மிச்சமிருக்கிற உயிரையும் தேடித் தோண்டி இழுத்துவந்து...`**, materially differing from the baseline reordering;
+- physical `நிறுத்` / `திப்` and `விடா` / `திங்க` wraps are canonically `நிறுத்திப்` and `விடாதிங்க`;
+- source prints `மூடிக் கொண்டான்` as separated units and uses `தொட்டுப் பார்த்தார் — உதட்டைப் பிதுக்கினார்.`;
+- source-specific `இப்ப`, `எங்க இருக்கு`, `ரெண்டு`, `வாக்கு மூலத்தால்`, and `துக்காராம்தான்` are retained;
+- old-type second pass confirms complete `முடியவில்லை`, `புரியவில்லை`, `வாயையும்`, `கண்களையும்`, `தன்னுடைய`, and `கிழவரையும்`;
+- physical endpoint: **`துரை`**, an incomplete sentence continuing on scan 276.
 
 ## Old-Tamil-glyph integrity note
 
@@ -63,17 +62,17 @@ The pre-correction safeguard covers **every Tamil vowel sign / combining mark**.
 
 ## Canonical Tamil state
 
-- page records created: **274**
-- verified: **267**
+- page records created: **275**
+- verified: **268**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later individual scans are verified through scan **274**, except the seven damaged physical records
+- later individual scans are verified through scan **275**, except the seven damaged physical records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 29 / 49 canonical pages verified**
+- Part 006: **in progress — 30 / 49 canonical pages verified**
 - assembled Tamil / English / bilingual review: **completed only through Part 005 / scan 245**
 
-Part-006 records currently extend through `../pages/0274-pudhaiyal.md`, with latest fidelity record [`../notes/visual-fidelity-scan-274.md`](../notes/visual-fidelity-scan-274.md).
+Part-006 records currently extend through `../pages/0275-pudhaiyal.md`, with latest fidelity record [`../notes/visual-fidelity-scan-275.md`](../notes/visual-fidelity-scan-275.md).
 
 ## Completeness still open
 
@@ -81,9 +80,9 @@ Part-006 records currently extend through `../pages/0274-pudhaiyal.md`, with lat
 - exact full scan-object count: **pending**
 - original full-source SHA-256: **pending**
 - true ending / back matter: **not yet inspected**
-- Part-006 text beyond scan 274: **not yet reconciled**
+- Part-006 text beyond scan 275: **not yet reconciled**
 - source range beyond scan 294: **not yet supplied/reconciled**
 
 ## Exact next action
 
-Reconcile **scan 275 / printed page 271** directly against native source pixels, continuing chapter 31.
+Reconcile **scan 276 / printed page 272** directly against native source pixels, first continuing scan 275's open `துரை...` sentence.
