@@ -9,11 +9,23 @@
 
 ## Permanent source rule
 
-The scan is the textual authority. User-supplied transcription is the comparison baseline. Do not modernize or infer unclear Tamil. Assistant-introduced changes must be established from native pixels. If damage/repair hides letters, retain the baseline and `needs-review` rather than claiming verification.
+The scan remains the authority for page identity, headings, punctuation, paragraph/section structure, long dashes, speaker-label spacing, physical line-break evidence, chapter/scene transitions and other structural findings.
 
-### Mandatory old-Tamil-glyph pre-correction check
+### Pudhaiyal lexical-preservation override — effective from scan 280 onward
 
-The safeguard applies to **all Tamil vowel signs / combining marks**. Demonstrated hazards include faint final `லை`, faint `ா`, and `ே` / `ோ` distinctions. A proposed baseline change involving an old/faint vowel sign, near-identical same-word glyph, or apparent spacing produced by a printed line wrap requires a second independent high-resolution pass before acceptance. A printed line break alone never establishes word-internal spacing.
+By explicit user instruction, **Gemini's supplied transcription is the controlling baseline for WORDS from scan 280 onward**.
+
+For scans **280 onward**:
+
+- keep Gemini's words exactly as supplied;
+- do **not** replace a Gemini word, spelling, suffix, vowel sign, sandhi form or lexical spacing because the scan appears to show a different word;
+- do **not** create a lexical discrepancy merely from native visual reading when Gemini already supplies the word;
+- use native scan inspection for **headings, punctuation, quote marks, long dashes, speaker-label spacing, paragraph breaks, physical line breaks, chapter/scene boundaries, separators/rules, page boundaries and other structural findings**;
+- when a word is physically split across a printed line/page, retain Gemini's lexical word but use the scan to record the physical break/provenance;
+- if Gemini has omitted a word/span entirely or the supplied baseline is genuinely incomplete, record the gap and ask/flag rather than silently inventing lexical text from the scan;
+- this rule is **prospective**. Do not reopen scans 246–279 merely to make them conform unless the user explicitly requests a retrospective pass.
+
+This Pudhaiyal-specific lexical rule overrides the repository's usual source-first lexical reconciliation policy for the remaining current transcription work. The old-Tamil-glyph safeguard remains useful for structural interpretation, but it must **not** be used to alter Gemini's supplied words from scan 280 onward.
 
 Source/split PDFs must never be committed.
 
@@ -64,7 +76,7 @@ Scan **279 / printed 275** is source-verified:
 - source preserves `சமையற் காரியங்களில்`, `அடுக்களையிலே`, `விருந்துபசாரம்`, `‘நளபாக’ந்தான்`, `புளியில்லாக் குழம்பு`, `ஆர அமர`, and `உரிமையாக்கிக்கொள்ள`;
 - source reads `தனது திட்டங்கள் ஒன்றன்பின் ஒன்றாக`, not baseline `தனது திட்டங்களை...`;
 - source again preserves unusual `காதலர்கள்தானு`;
-- scan 279 ends `அதிபதி`; native scan 280 begins `யாக வேண்டும்`, establishing `அதிபதியாக` across the physical boundary.
+- scan 279 ends `அதிபதி`; native scan 280 begins `யாக வேண்டும்`, establishing the structural cross-page continuation `அதிபதி` + `யாக`.
 
 ### Part-006 structure mapped from physical pages
 
@@ -92,4 +104,4 @@ Scan **279 / printed 275** is source-verified:
 
 ## Exact next activity
 
-Continue Part 006 at **scan 280 / printed page 276**, chapter 32. First close scan 279 `அதிபதி` with scan 280 `யாக` as `அதிபதியாக`; then continue native reconciliation under the strengthened two-pass old-Tamil-typeform rule.
+Continue Part 006 at **scan 280 / printed page 276**, chapter 32. **Keep Gemini's words exactly.** Use the native scan only to establish heading/paragraph structure, punctuation, quote marks, long dashes, speaker-label spacing, physical line/page breaks and other structural findings. Record the 279→280 physical boundary without altering Gemini's lexical wording.
