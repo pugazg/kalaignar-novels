@@ -8,10 +8,10 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - derivative file size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - source/split PDF committed: **No**
-- canonical records created so far: **36 / 49 — scans 246–281**
-- verified so far: **36**
+- canonical records created so far: **37 / 49 — scans 246–282**
+- verified so far: **37**
 - needs-review in Part 006 so far: **0**
-- not-started: **13 — scans 282–294**
+- not-started: **12 — scans 283–294**
 - split state: **`in-progress`**
 
 The derivative boundary at scan 245→246 is provenance only. Native source establishes the continuation `இருக்கவே` + `இருக்கிறாள் பரிமளா, ...`; no word, sentence or chapter boundary is created by the split.
@@ -65,8 +65,8 @@ This rule is prospective; scans 246–279 are not reopened solely to retrofit it
 | 279 | 275 | chapter 32 | verified | `../pages/0279-pudhaiyal.md`; ends physically `அதிபதி` |
 | 280 | 276 | chapter 32 | verified | `../pages/0280-pudhaiyal.md`; Gemini lexical words + native structural layer; begins physically `யாக வேண்டும்`; ends `எப்படியிருக்கும்?` |
 | 281 | 277 | chapter 32 | verified | `../pages/0281-pudhaiyal.md`; Gemini lexical words + native punctuation/paragraph/physical-line layer; ends `பைத்யக்காரன்.` |
-| 282 | 278 | chapter 32 | not-started | next transcription page |
-| 283 | 279 | chapter 32 | not-started | — |
+| 282 | 278 | chapter 32 | verified | `../pages/0282-pudhaiyal.md`; Gemini lexical words + native dialogue/dash/physical-line layer; ends without punctuation `நின்றான்` |
+| 283 | 279 | chapter 32 | not-started | next transcription page; begins physically `சிறிது நேரம்.` |
 | 284 | 280 | chapter 32 | not-started | — |
 | 285 | 281 | chapter 32 | not-started | — |
 | 286 | 282 | chapter 32 | not-started | — |
@@ -90,18 +90,17 @@ This rule is prospective; scans 246–279 are not reopened solely to retrofit it
 - chapter 32 begins scan **278 / printed 274**;
 - chapter 33 begins scan **288 / printed 284** and continues through the derivative endpoint.
 
-These observations map structure only for scans 282–294; those pages remain `not-started` until processed under the active policy.
+These observations map structure only for scans 283–294; those pages remain `not-started` until processed under the active policy.
 
 ## Current continuity / structural findings
 
-- scan 279 physically ends `அதிபதி`; scan 280 physically begins `யாக`, preserving the page break inside Gemini's lexical word **`அதிபதியாக`**;
-- scan 280 ends with the complete question `யும் கொட்டி வைத்தால் எப்படியிருக்கும்?`;
-- scan 281 opens `செவிடனுக்கு...`, continuing chapter 32 with no source-printed transition;
-- scan 281 source punctuation supplies ordinary full stops/questions and the long dash `உணர்ந்து — நம்` instead of Gemini OCR punctuation;
-- source dialogue/paragraph structure is preserved around `“கண்மணி!”`, `“பரிமளா!...”`, `“அன்புள்ள காதலியே!...”`, `“துக்காராம்!”`, and `“என்ன, துக்காராமா?...”`;
-- scan 281 physical line breaks include word-internal Gemini lexical wraps `இசைத்` / `துக்`, `தன்` / `னைக்`, `உள்` / `ளத்தைப்`, `பரி` / `மளா`, and `தன்` / `னைத்`;
-- scan 281 ends `பைத்யக்காரன்.`;
-- no lexical source-vs-Gemini difference was adjudicated on scans 280–281 under the active rule.
+- scans 280–282 use Gemini lexical wording unchanged while the native scan controls presentation/structure;
+- scan 282 preserves the long-dash sequence `அன்பு இல்லை — பிரியம் / இல்லை — என்பது...`;
+- scan 282 physical line breaks include `உன்` / `னுடைய`, `வெள்ளியம்பலத்திட` / `மிருந்து`, `வைத்` / `தேன்`, `பரி` / `மளா`, `பரிமளா` / `வைப்`, and `அறைந்` / `தாள்`;
+- no source-printed chapter/scene transition occurs on scan 282;
+- scan 282 ends physically without punctuation at `துக்காராம் அப்படியே அசைவற்று நின்றான்`;
+- scan 283 begins `சிறிது நேரம்.`, confirming the cross-page continuation `நின்றான் சிறிது நேரம்.`;
+- no Gemini lexical span appears omitted through scan 282.
 
 ## Fidelity records
 
@@ -111,8 +110,8 @@ These observations map structure only for scans 282–294; those pages remain `n
 - scans 252–255: `../notes/visual-fidelity-scans-252-255.md`
 - scans 256–259: `../notes/visual-fidelity-scans-256-259.md`
 - scans 260–279: individual `../notes/visual-fidelity-scan-NNN.md` records, with scan-264 correction separately documented in `../notes/old-glyph-correction-scan-264.md`;
-- scans 280–281: individual structural fidelity records under the Gemini-lexical / native-structure policy.
+- scans 280–282: individual structural fidelity records under the Gemini-lexical / native-structure policy.
 
 ## Exact next activity
 
-Process **scan 282 / printed page 278**, continuing chapter 32. Keep Gemini's words exactly; use the native scan for punctuation, quotation marks, long dashes, paragraph/speaker spacing, physical line breaks/page boundary and structural findings. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
+Process **scan 283 / printed page 279**, continuing chapter 32. Keep Gemini's words exactly; use the native scan for punctuation, quotation marks, long dashes, paragraph/speaker spacing, physical line breaks/page boundary and structural findings. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
