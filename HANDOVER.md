@@ -47,27 +47,24 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - derivative size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - derivative map: `works/pudhaiyal/indexes/part-006-page-map.md`
-- canonical records: **33 / 49 — scans 246–278**
-- verified: **33**
+- canonical records: **34 / 49 — scans 246–279**
+- verified: **34**
 - needs-review: **0**
-- not-started: **16 — scans 279–294**
-- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-278.md`
+- not-started: **15 — scans 280–294**
+- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-279.md`
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - Part-006 state: **`in-progress`**
 
 ### Current verified source sequence
 
-Scan **277 / printed 273** ends at `விட`.
+Scan **279 / printed 275** is source-verified:
 
-Scan **278 / printed 274** is source-verified:
-
-- 277→278 continuity is `விட` + `லாமென்று` = `விடலாமென்று`;
-- enlarged native inspection confirms source `ஆட்சேபணை`, not baseline `ஆட்சேபனை`;
-- source preserves `மறைக்கப் பட்டால்`, `ஒதுப்புறமாக`, `பூமியைத்தோண்டி`, `காதலர்காள்`, `தெரிஞ்சாச்சி`, `கலியாணம்`, and `பின்னே`;
-- source punctuation includes `புறப்பட்டான்—‘இன்னும் எத்தகைய துன்பங்கள் தொடருமோ?’`;
-- the source-printed horizontal rule and chapter **32** heading occur on the same physical page;
-- physical `திட்டப்` / `படி` line wrap is canonically `திட்டப்படி`;
-- scan 278 ends with `துக்காராமும் பரிமளாவும் அங்கே வைக்கப்பட்டனர்.`.
+- source spacing is `தலை வேதனையுண்டாக்கின`;
+- enlarged second pass confirms `பதினொரு`, not baseline `பதினோரு`;
+- source preserves `சமையற் காரியங்களில்`, `அடுக்களையிலே`, `விருந்துபசாரம்`, `‘நளபாக’ந்தான்`, `புளியில்லாக் குழம்பு`, `ஆர அமர`, and `உரிமையாக்கிக்கொள்ள`;
+- source reads `தனது திட்டங்கள் ஒன்றன்பின் ஒன்றாக`, not baseline `தனது திட்டங்களை...`;
+- source again preserves unusual `காதலர்கள்தானு`;
+- scan 279 ends `அதிபதி`; native scan 280 begins `யாக வேண்டும்`, establishing `அதிபதியாக` across the physical boundary.
 
 ### Part-006 structure mapped from physical pages
 
@@ -81,18 +78,18 @@ Scan **278 / printed 274** is source-verified:
 
 ## Aggregate durable state
 
-- canonical records: **278**
-- verified: **271**
+- canonical records: **279**
+- verified: **272**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
-- later individual source-verified pages: through scan **278**, except the seven damaged Part-005 records
+- later individual source-verified pages: through scan **279**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 33 / 49 verified**
+- Part 006: **in progress — 34 / 49 verified**
 - assembled Tamil / English split-level review: through scan **245** only
 - source scans represented by currently received derivatives: through **294**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Continue Part 006 at **scan 279 / printed page 275**, chapter 32. Apply the strengthened two-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions before accepting any disputed glyph or spacing.
+Continue Part 006 at **scan 280 / printed page 276**, chapter 32. First close scan 279 `அதிபதி` with scan 280 `யாக` as `அதிபதியாக`; then continue native reconciliation under the strengthened two-pass old-Tamil-typeform rule.
