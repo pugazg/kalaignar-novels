@@ -19,7 +19,7 @@ A derivative boundary is provenance only. Do not invent word, sentence, paragrap
 
 ## Pudhaiyal lexical baseline rule — effective from scan 280 onward
 
-By explicit user instruction, the remaining Part-006 transcription uses a **hybrid authority model**:
+By explicit user instruction, the remaining Part-006 transcription uses a **hybrid authority model**.
 
 ### WORDS
 
@@ -28,7 +28,6 @@ For scan **280 onward**, Gemini's supplied transcription controls lexical wordin
 - retain Gemini's words exactly;
 - do not change spelling, suffixes, vowel signs, sandhi, lexical spacing, or unusual word forms from native visual reading;
 - do not replace a Gemini word merely because the scan appears to contain a different word;
-- do not use the old-Tamil-glyph check to alter Gemini's supplied lexical text;
 - if Gemini omitted a word/span altogether or a baseline span is incomplete, flag the omission instead of silently supplying lexical text from the scan.
 
 ### STRUCTURE / PRESENTATION
@@ -49,11 +48,38 @@ The native scan controls:
 
 When a lexical word is split physically across a source line or source page, keep Gemini's word but record the native physical split in the source/boundary note.
 
-This rule is **prospective from scan 280**. Scans 246–279 are not to be reopened solely to apply this new policy unless the user explicitly requests a retrospective pass.
+This rule is **prospective from scan 280**. Scans 246–279 are not reopened solely to apply it unless explicitly requested.
 
-## Old-Tamil-typeform safeguard
+## Active split — Part 006
 
-The edition demonstrates faint final `லை`, faint `ா`, and `ே` / `ோ` distinctions. For scan 280 onward this safeguard is used to understand **structure and physical layout only**, not to override Gemini's supplied words.
+Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
+
+- physical pages / mapped source scans: **49 / 49 — scans 246–294**
+- visible printed pages: **242–290**
+- derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
+- canonical records: **35 / 49 — scans 246–280**
+- verified / structurally completed: **35**
+- needs-review: **0**
+- not-started: **14 — scans 281–294**
+- latest fidelity record: [`notes/visual-fidelity-scan-280.md`](notes/visual-fidelity-scan-280.md)
+- Tamil audit: **not eligible**
+- assembled Tamil: **not eligible**
+- controlled English: **not eligible**
+- bilingual review: **not eligible**
+- state: **`in-progress`**
+
+### Current Part-006 checkpoint
+
+- scan 280 is the first page processed under the Gemini-lexical/native-structure policy;
+- scan 279 physically ends `அதிபதி`; scan 280 begins `யாக`, recording the page split inside Gemini lexical `அதிபதியாக`;
+- source punctuation, quote style, long dashes, paragraphs and physical line breaks are preserved;
+- no chapter/scene transition occurs on scan 280; chapter 32 continues;
+- scan 280 physical endpoint is `யும் கொட்டி வைத்தால் எப்படியிருக்கும்?`;
+- no Gemini lexical word was altered from native reading.
+
+Part-006 mapped chapter transitions: chapter 28 begins scan 247; four-star internal transition scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262 and closes 271; chapter 31 begins 271 and closes 278; chapter 32 begins 278; chapter 33 begins 288.
+
+Do not run the Part-006 Tamil audit or any downstream stage until all scans 246–294 have canonical records and structural/native-fidelity dispositions.
 
 ## Completed split checkpoints
 
@@ -63,42 +89,6 @@ The edition demonstrates faint final `லை`, faint `ா`, and `ே` / `ோ` di
 - Part 004 — scans **148–196** — **`part-complete`**
 - Part 005 — scans **197–245** — **`part-complete` with explicit source-damage qualification**
 
-## Active split — Part 006
-
-Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
-
-- physical pages / mapped source scans: **49 / 49 — scans 246–294**
-- visible printed pages: **242–290**
-- derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **34 / 49 — scans 246–279**
-- verified: **34**
-- needs-review: **0**
-- not-started: **15 — scans 280–294**
-- latest native-fidelity record: [`notes/visual-fidelity-scan-279.md`](notes/visual-fidelity-scan-279.md)
-- Tamil audit: **not eligible**
-- assembled Tamil: **not eligible**
-- controlled English: **not eligible**
-- bilingual review: **not eligible**
-- state: **`in-progress`**
-
-### Current Part-006 checkpoint
-
-- scan 279 is complete;
-- scan 279 ends physically at `அதிபதி`;
-- scan 280 begins physically with `யாக வேண்டும்`;
-- from scan 280 onward, record this and later physical boundaries structurally while preserving Gemini's lexical wording exactly.
-
-Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262 and closes 271; chapter 31 begins 271 and closes 278; chapter 32 begins 278; chapter 33 begins 288.
-
-Do not run the Part-006 Tamil audit or any downstream stage until all scans 246–294 have canonical records and structural/native-fidelity dispositions.
-
-## Part 005 — durable completion record
-
-- split pages / canonical records: **49 / 49 — scans 197–245**
-- `verified`: **42**
-- `needs-review`: **7 — scans 215–219, 223–224**
-- state: **`part-complete` with source-damage qualification**
-
 ## Exact next activity
 
-Process **scan 280 / printed page 276**. Keep **Gemini's words exactly**. Use the source scan for headings, punctuation, long dashes, quote style, paragraph structure, speaker-label spacing, physical line/page breaks and other structural findings only.
+Process **scan 281 / printed page 277**, continuing chapter 32. Keep Gemini's words exactly; use the native source for headings, punctuation, long dashes, quote style, paragraph structure, speaker-label spacing, physical line/page breaks and other structural findings only.
