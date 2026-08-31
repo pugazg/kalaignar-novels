@@ -33,8 +33,6 @@ Before changing a user baseline because a character, vowel sign or combining mar
 
 If a proposed difference involves only an old/faint vowel sign, a near-identical same-word glyph, or apparent spacing created by a printed line wrap, perform a **second independent high-resolution inspection** before accepting it. A printed line break alone never proves word-internal spacing. If the user/source challenges one glyph in a batch, reopen every assistant-origin discrepancy in that batch before continuing.
 
-Scan 277 adds the inverse caution: do not preserve or insert a grammatically expected vowel sign merely because it appears in the baseline. Native pixels confirm source `அவன் மணக்க மாட்டேன்`, not baseline `அவனை மணக்க மாட்டேன்`.
-
 ## Completed split checkpoints
 
 - Part 001 — scans **1–49** — **`part-complete`**
@@ -50,11 +48,11 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - physical pages / mapped source scans: **49 / 49 — scans 246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **33 / 49 — scans 246–278**
-- verified: **33**
+- canonical records: **34 / 49 — scans 246–279**
+- verified: **34**
 - needs-review: **0**
-- not-started: **16 — scans 279–294**
-- latest native-fidelity record: [`notes/visual-fidelity-scan-278.md`](notes/visual-fidelity-scan-278.md)
+- not-started: **15 — scans 280–294**
+- latest native-fidelity record: [`notes/visual-fidelity-scan-279.md`](notes/visual-fidelity-scan-279.md)
 - Tamil audit: **not eligible**
 - assembled Tamil: **not eligible**
 - controlled English: **not eligible**
@@ -63,13 +61,13 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 
 ### Current Part-006 checkpoint
 
-- scan 277 ends `விட`; scan 278 begins `லாமென்று`, establishing `விடலாமென்று` across the boundary;
-- scan 278 enlarged native inspection confirms `ஆட்சேபணை`, not baseline `ஆட்சேபனை`;
-- source preserves `மறைக்கப் பட்டால்`, `ஒதுப்புறமாக`, `பூமியைத்தோண்டி`, `காதலர்காள்`, `தெரிஞ்சாச்சி`, `கலியாணம்`, and `பின்னே`;
-- source punctuation includes `புறப்பட்டான்—‘இன்னும் எத்தகைய துன்பங்கள் தொடருமோ?’`;
-- source-printed horizontal rule and chapter `32` heading occur on scan 278;
-- physical `திட்டப்` / `படி` wrap is canonically `திட்டப்படி`;
-- scan 278 ends `துக்காராமும் பரிமளாவும் அங்கே வைக்கப்பட்டனர்.`.
+- scan 279 is source-verified from full-page plus enlarged high-resolution inspection;
+- source spacing is `தலை வேதனையுண்டாக்கின`;
+- enlarged second pass confirms `பதினொரு`, not baseline `பதினோரு`;
+- source preserves `சமையற் காரியங்களில்`, `அடுக்களையிலே`, `விருந்துபசாரம்`, `‘நளபாக’ந்தான்`, `புளியில்லாக் குழம்பு`, `ஆர அமர`, and `உரிமையாக்கிக்கொள்ள`;
+- source reads `தனது திட்டங்கள் ஒன்றன்பின் ஒன்றாக`, not baseline `தனது திட்டங்களை...`;
+- source again preserves unusual `காதலர்கள்தானு`;
+- scan 279 ends `அதிபதி`; scan 280 begins `யாக வேண்டும்`, establishing `அதிபதியாக` across the boundary.
 
 Part-006 mapped chapter transitions: chapter 28 begins scan 247; a four-star internal transition occurs on scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262 and closes 271; chapter 31 begins 271 and closes 278; chapter 32 begins 278; chapter 33 begins 288.
 
@@ -84,4 +82,4 @@ Do not run the Part-006 Tamil audit or any downstream stage until all scans 246�
 
 ## Exact next activity
 
-Reconcile **scan 279 / printed page 275** directly against the native Part-006 source, continuing chapter 32. Apply the strengthened two-pass old-typeform rule to all vowel signs and printed-line-wrap questions.
+Reconcile **scan 280 / printed page 276** directly against the native Part-006 source. First close `அதிபதி` + `யாக` = `அதிபதியாக`, then continue chapter 32. Apply the strengthened two-pass old-typeform rule to all vowel signs and printed-line-wrap questions.
