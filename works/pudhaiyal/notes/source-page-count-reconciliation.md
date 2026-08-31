@@ -11,7 +11,7 @@ Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.** 
 
 - bibliographic printed extent: **443 p.**;
 - source scans currently represented by received derivatives: **1–294**;
-- canonical source-scan records currently created: **1–281**;
+- canonical source-scan records currently created: **1–282**;
 - exact original PDF scan/page-object count: **still pending**.
 
 ## Authority distinction for active Part 006
@@ -36,23 +36,24 @@ Received access derivatives:
 5. Part 005 — scans **197–245** — **part-complete with explicit source-damage qualification**
 6. Part 006 — scans **246–294 / printed 242–290** — **in progress**
    - physical pages mapped: **49 / 49**
-   - canonical records created: **36 / 49 — scans 246–281**
-   - complete / structurally verified: **36**
+   - canonical records created: **37 / 49 — scans 246–282**
+   - complete / structurally verified: **37**
    - needs-review: **0**
-   - not-started: **13 — scans 282–294**
+   - not-started: **12 — scans 283–294**
    - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 
 No split is committed to GitHub.
 
 ## Current hybrid-policy checkpoint
 
-- scan 280 is the first page processed under the Gemini-lexical/native-structure policy;
-- scan 281 / printed 277 continues chapter 32 with Gemini words unchanged;
-- native source supplies punctuation, quotation structure, paragraphing and physical line breaks;
-- source long dash `உணர்ந்து — நம்` is preserved;
-- physical word-internal line breaks include `இசைத்` / `துக்`, `தன்` / `னைக்`, `உள்` / `ளத்தைப்`, `பரி` / `மளா`, and `தன்` / `னைத்`;
-- no source-printed chapter/scene transition occurs on scan 281;
-- physical endpoint: `பைத்யக்காரன்.`;
+- scans 280–282 are processed under the Gemini-lexical/native-structure policy;
+- scan 282 / printed 278 continues chapter 32 with Gemini words unchanged;
+- native source supplies dialogue punctuation, quotation structure, paragraphing and physical line breaks;
+- source long-dash construction `அன்பு இல்லை — பிரியம் / இல்லை — என்பது...` is preserved;
+- physical word-internal line breaks include `உன்` / `னுடைய`, `வெள்ளியம்பலத்திட` / `மிருந்து`, `வைத்` / `தேன்`, `பரி` / `மளா`, `பரிமளா` / `வைப்`, and `அறைந்` / `தாள்`;
+- no source-printed chapter/scene transition occurs on scan 282;
+- physical endpoint is unpunctuated `துக்காராம் அப்படியே அசைவற்று நின்றான்`;
+- scan 283 begins `சிறிது நேரம்.`, confirming cross-page sentence continuity;
 - no lexical source-vs-Gemini discrepancy is adjudicated under the active policy.
 
 ## Part-006 physical structure map
@@ -65,18 +66,18 @@ No split is committed to GitHub.
 - chapter 32 begins scan 278 / printed 274;
 - chapter 33 begins scan 288 / printed 284 and continues through scan 294 / printed 290.
 
-This is structure mapping only for scans 282–294; they remain not-started until processed.
+This is structure mapping only for scans 283–294; they remain not-started until processed.
 
 ## Current textual state
 
-- canonical page records created: **281**
-- verified / completed: **274**
+- canonical page records created: **282**
+- verified / completed: **275**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified range: **1–214**
-- later completed pages: through scan **281**, except the seven damaged Part-005 records
+- later completed pages: through scan **282**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 36 / 49 complete**
+- Part 006: **in progress — 37 / 49 complete**
 - continuous split-level assembled Tamil / English review: **through scan 245 only**
 - source scans physically mapped from received derivatives: **through scan 294**
 - full-source manifest: **still incomplete beyond scan 294**
@@ -85,7 +86,7 @@ This is structure mapping only for scans 282–294; they remain not-started unti
 
 Still required:
 
-1. process Part-006 scans **282–294** under the active Gemini-lexical/native-structure workflow;
+1. process Part-006 scans **283–294** under the active Gemini-lexical/native-structure workflow;
 2. complete the Part-006 Tamil audit, assembled Tamil, controlled English and bilingual review before calling Part 006 `part-complete`;
 3. obtain later source splits beyond scan 294;
 4. process every later source scan;
@@ -98,4 +99,4 @@ Do not infer any of those values from the TDL printed-page count.
 
 ## Exact next activity
 
-Process **scan 282 / printed page 278**, continuing chapter 32. Keep Gemini's words exactly; use native scan evidence only for structural/presentation findings.
+Process **scan 283 / printed page 279**, continuing chapter 32. Keep Gemini's words exactly; use native scan evidence only for structural/presentation findings.
