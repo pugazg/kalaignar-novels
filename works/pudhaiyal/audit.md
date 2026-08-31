@@ -37,26 +37,27 @@ The seven physically damaged Part-005 records **215–219 and 223–224** remain
 Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
 - physical pages mapped: **49 / 49 — scans 246–294 / printed 242–290**
-- canonical records created: **35 / 49 — scans 246–280**
-- verified / structurally completed: **35**
+- canonical records created: **36 / 49 — scans 246–281**
+- verified / structurally completed: **36**
 - needs-review: **0**
 - partial: **0**
-- not-started: **14 — scans 281–294**
+- not-started: **13 — scans 282–294**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- latest fidelity record: [`notes/visual-fidelity-scan-280.md`](notes/visual-fidelity-scan-280.md)
+- latest fidelity record: [`notes/visual-fidelity-scan-281.md`](notes/visual-fidelity-scan-281.md)
 - Part-006 Tamil audit: **NOT ELIGIBLE**
 - assembled Tamil / English / bilingual review: **NOT ELIGIBLE**
 - state: **`in-progress`**
 
-### Scan 280 / printed 276
+### Current hybrid-policy checkpoint
 
-- first page processed under the Gemini-lexical/native-structure policy;
-- Gemini words are retained without lexical source correction;
-- native source supplies paragraphing, punctuation, quotation marks, long dashes and physical line breaks;
-- scan 279 physically ends `அதிபதி`; scan 280 physically begins `யாக`, recording the page split inside Gemini's lexical word `அதிபதியாக`;
-- no chapter/scene transition occurs; chapter 32 continues;
-- physical endpoint: `யும் கொட்டி வைத்தால் எப்படியிருக்கும்?`;
-- unresolved Part-006 items through scan 280: **0**.
+- scan 280 is the first page processed under the Gemini-lexical/native-structure policy;
+- scan 281 keeps Gemini words unchanged while native source supplies punctuation, quote marks, paragraphing and physical line breaks;
+- no source-printed chapter/scene transition occurs on scan 281; chapter 32 continues;
+- source long dash `உணர்ந்து — நம்` is preserved;
+- dialogue/paragraph structure is preserved around `“கண்மணி!”`, `“பரிமளா!...”`, `“அன்புள்ள காதலியே!...”`, `“துக்காராம்!”`, and the closing `“என்ன, துக்காராமா?...”`;
+- physical line breaks include `இசைத்` / `துக்`, `தன்` / `னைக்`, `உள்` / `ளத்தைப்`, `பரி` / `மளா`, and `தன்` / `னைத்`;
+- scan 281 physical endpoint: `பைத்யக்காரன்.`;
+- unresolved Part-006 items through scan 281: **0**.
 
 ### Structure mapped in Part 006
 
@@ -68,18 +69,18 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through the derivative endpoint.
 
-Only scans 246–280 are complete at this checkpoint; structural inspection does not upgrade scans 281–294.
+Only scans 246–281 are complete at this checkpoint; structural inspection does not upgrade scans 282–294.
 
 ## Aggregate canonical state
 
-- records created: **280**
-- verified / completed: **273**
+- records created: **281**
+- verified / completed: **274**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later completed coverage: through scan **280**, except the seven damaged Part-005 records
+- later completed coverage: through scan **281**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 35 / 49 complete**
+- Part 006: **in progress — 36 / 49 complete**
 - continuous split-level assembled Tamil / English review: through scan **245** only
 - full-source physical coverage from received derivatives: mapped through scan **294**
 
@@ -89,4 +90,4 @@ Only scans 246–280 are complete at this checkpoint; structural inspection does
 
 ## Exact next activity
 
-Process **scan 281 / printed page 277**, continuing chapter 32. Keep Gemini's words exactly; use native scan evidence for headings, punctuation, quote style, long dashes, speaker spacing, paragraph/physical line breaks and structural findings.
+Process **scan 282 / printed page 278**, continuing chapter 32. Keep Gemini's words exactly; use native scan evidence for headings, punctuation, quote style, long dashes, speaker spacing, paragraph/physical line breaks and structural findings.
