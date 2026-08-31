@@ -1,14 +1,22 @@
 # கலைஞர் புதினங்கள் / கதைநூல்கள் — மின்னாக்கக் களஞ்சியம்
 
-கலைஞர் மு. கருணாநிதியின் புதினங்கள், வரலாற்றுக் கதைகள் மற்றும் தொடர்புடைய கதைநூல்களை மூல ஸ்கேன்களின் பக்க வரிசையைக் காக்கும் வகையில் Markdown வடிவில் பாதுகாக்கும் களஞ்சியம்.
+கலைஞர் மு. கருணாநிதியின் புதினங்கள், வரலாற்றுக் கதைகள் மற்றும் தொடர்புடைய கதைநூல்களை source provenance காக்கும் வகையில் Markdown வடிவில் பாதுகாக்கும் களஞ்சியம்.
 
 ## மூலக் கொள்கை
 
-> **மூல ஸ்கேன் தான் controlling source. Markdown ஒரு பாதுகாப்பு அடுக்கு; திருத்தப்பட்ட புதிய பதிப்பு அல்ல.**
+> **மூல ஸ்கேன் page/structure authority. தற்போதைய புதையல் work-ல் scan 280 onward lexical words Gemini baseline-ல் இருந்து மாற்றப்படாது.**
 
-மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது. Ambiguous / damaged source reading என்றால் baseline-ஐ override செய்யாமல் `needs-review` ஆக வைத்திருக்க வேண்டும். Source PDF / split PDF கோப்புகள் repository-யில் commit செய்யப்படாது.
+Source PDF / split PDF கோப்புகள் repository-யில் commit செய்யப்படாது.
 
-Old/historical Tamil glyphs காரணமாக character / vowel mark source-ல் இல்லாதது போலத் தோன்றினால், correction செய்வதற்கு முன் முழு glyph cluster-ஐ high-resolution-ல் பார்க்க வேண்டும். இந்த source-ல் faint `லை`, faint `ா`, மற்றும் `ே` / `ோ` வேறுபாடுகள் demonstrated hazards. **Any** old/faint vowel sign, near-identical same-word glyph, or apparent spacing created by printed line wrapping requires a second independent high-resolution inspection before a baseline difference is accepted.
+### புதையல் scan 280 onward policy
+
+User instruction படி:
+
+- **words / spelling / suffix / lexical forms:** Gemini transcription exactly;
+- **source scan:** heading, punctuation, quote marks, long dash, speaker-label spacing, paragraph structure, physical line/page breaks, separators, chapter/scene transitions and other structural findings;
+- source scan வைத்து Gemini word-ஐ silently correct செய்யக்கூடாது;
+- Gemini lexical span omitted என்றால் flag செய்ய வேண்டும்; source words silently supply செய்யக்கூடாது;
+- இந்த policy scan 280 onward prospective; scans 246–279-ஐ இதற்காக மட்டும் reopen செய்யக்கூடாது.
 
 ## Project continuation documents
 
@@ -20,7 +28,7 @@ Old/historical Tamil glyphs காரணமாக character / vowel mark source-
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **279 canonical records / 272 verified / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **280 canonical records / 273 complete / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
 
 ### புதையல் — current source state
 
@@ -29,25 +37,25 @@ Tamil Digital Library reports **443 p.**; exact original PDF scan count remains 
 Access derivatives:
 
 - parts 001–005 — scans **1–245** — split-level workflow complete, with seven source-damage qualifications in Part 005;
-- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–279 verified; scans 280–294 not-started**.
+- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–280 complete; scans 281–294 not-started**.
 
 Current canonical state:
 
-- records — **279**;
-- verified — **272**;
+- records — **280**;
+- verified / completed — **273**;
 - needs-review — **7 (scans 215–219, 223–224)**;
 - partial — **0**;
-- Part 006 — **34 / 49** pages verified;
+- Part 006 — **35 / 49** pages complete;
 - assembled Tamil / English split-level review — still through scan **245** only;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source;
 - source PDF / splits committed — No.
 
-Part 006 source structure is mapped through scan 294: chapter 28 begins at 247, a four-star internal transition occurs at scan 251, chapter 29 begins at 254 and closes at 262, chapter 30 begins at 262 and closes at 271, chapter 31 begins at 271 and closes at 278, chapter 32 begins at 278 and chapter 33 at 288.
+Part 006 source structure is mapped through scan 294: chapter 28 begins at 247, four-star internal transition at 251, chapter 29 begins 254 and closes 262, chapter 30 begins 262 and closes 271, chapter 31 begins 271 and closes 278, chapter 32 begins 278, chapter 33 begins 288.
 
-Scan **279 / printed 275** is now source-verified. Native pixels confirm source `தலை வேதனையுண்டாக்கின`, `பதினொரு`, `தனது திட்டங்கள் ஒன்றன்பின் ஒன்றாக`, and repeated unusual `காதலர்கள்தானு`. The page ends `அதிபதி`; native scan 280 begins `யாக வேண்டும்`, establishing `அதிபதியாக` across the physical boundary. No unresolved Part-006 glyph remains through scan 279.
+Scan **280 / printed 276** is the first completed page under the Gemini-lexical/native-structure rule. Native layout records the physical `அதிபதி` / `யாக` page split, source punctuation/long dashes and physical line breaks; Gemini words are retained without lexical adjudication. The page ends `யும் கொட்டி வைத்தால் எப்படியிருக்கும்?`.
 
-Exact next action: reconcile **scan 280 / printed page 276**, first closing `அதிபதியாக`, then continuing chapter 32. Do not start the Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are canonically reconciled.
+Exact next action: process **scan 281 / printed page 277**, continuing chapter 32 under the same hybrid policy. Do not start Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are complete.
 
 ## நிறைவு பெற்ற reference work
 
