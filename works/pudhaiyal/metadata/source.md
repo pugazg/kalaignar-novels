@@ -25,7 +25,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 003 | `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf` | 99–147 | 97–145 | **49/49 verified; part-complete** |
 | 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **49/49 verified; part-complete** |
 | 005 | `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf` | 197–245 | 195–241 | **49/49 represented; 42 verified + 7 source-damage needs-review; part-complete with qualification** |
-| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 27 verified (246–272); 22 not-started; in progress** |
+| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 28 verified (246–273); 21 not-started; in progress** |
 
 Part-006 derivative byte record:
 
@@ -46,16 +46,16 @@ No split PDF is committed to GitHub.
 
 ## Current native findings
 
-Scan **272 / printed 268** is source-verified:
+Scan **273 / printed 269** is source-verified:
 
+- scan 272 `உடலிலேயிருந்த` + scan 273 `ரத்தம் பெரும் பகுதி...` establishes one continuous sentence;
 - user Iteration-26 baseline is substantively source-supported;
-- native source reads **`வயதிலே`**, not baseline `வயதில`;
-- native source reads **`மனங் துணிந்து`**, not baseline `மனந்துணிந்து`;
-- source punctuation includes `உலகம் — அந்த உலகத்திலும்` and `பிரமுகர்கள்—அத்தகைய`;
-- physical wraps are joined only from native continuity: `உலகத்திலும்`, `எடுத்துக்கொண்டு`, `கொண்டிருக்கிறதா`, `கொண்டிருந்த`;
-- old-type second pass confirms full `தெரியுமா`, `விட்டதய்யா`, `வயதிலே`, `உயிலிலே`, `உலகத்திலும்`, `அணிவகுப்பிலே`, `கொள்ளாமல்`, `முகத்திலே`, `மெதுவாக`, and `உடலிலேயிருந்த`;
-- source-specific `அக்கரை`, `மனங் துணிந்து`, and `அவனுக்கு அவன் மீது` are retained;
-- physical endpoint: `உடலிலேயிருந்த`.
+- source prints `சமாளித்துக் கொண்டு` with a genuine internal space;
+- source punctuation confirms `“அப்பாடா!”` and ordinary full stops rather than doubled OCR punctuation;
+- enlarged inspection confirms baseline `வரண்டுபோன`;
+- old-type second pass confirms full **`கண்களை`**, including the faint final `ை`;
+- full forms checked include `வெளியேறிவிட்டதால்`, `சக்தியற்றிருந்தான்`, `வாயையும்`, `ஒட்டிக் கொண்டிருந்தது`, `நனைத்திருந்த`, `வாயிலே`, `ஆவலாகக்`, `முடியவில்லை`, `எங்கேயிருக்கிறது`, and `போலிருக்கிறதே`;
+- physical endpoint: **`மறு`**, an incomplete source word continuing on scan 274.
 
 ## Old-Tamil-glyph integrity note
 
@@ -63,17 +63,17 @@ The pre-correction safeguard covers **every Tamil vowel sign / combining mark**.
 
 ## Canonical Tamil state
 
-- page records created: **272**
-- verified: **265**
+- page records created: **273**
+- verified: **266**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later individual scans are verified through scan **272**, except the seven damaged physical records
+- later individual scans are verified through scan **273**, except the seven damaged physical records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 27 / 49 canonical pages verified**
+- Part 006: **in progress — 28 / 49 canonical pages verified**
 - assembled Tamil / English / bilingual review: **completed only through Part 005 / scan 245**
 
-Part-006 records currently extend through `../pages/0272-pudhaiyal.md`, with latest fidelity record [`../notes/visual-fidelity-scan-272.md`](../notes/visual-fidelity-scan-272.md).
+Part-006 records currently extend through `../pages/0273-pudhaiyal.md`, with latest fidelity record [`../notes/visual-fidelity-scan-273.md`](../notes/visual-fidelity-scan-273.md).
 
 ## Completeness still open
 
@@ -81,9 +81,9 @@ Part-006 records currently extend through `../pages/0272-pudhaiyal.md`, with lat
 - exact full scan-object count: **pending**
 - original full-source SHA-256: **pending**
 - true ending / back matter: **not yet inspected**
-- Part-006 text beyond scan 272: **not yet reconciled**
+- Part-006 text beyond scan 273: **not yet reconciled**
 - source range beyond scan 294: **not yet supplied/reconciled**
 
 ## Exact next action
 
-Reconcile **scan 273 / printed page 269** directly against native source pixels, first continuing scan 272's open `உடலிலேயிருந்த...` sentence.
+Reconcile **scan 274 / printed page 270** directly against native source pixels, first continuing scan 273's open `மறு...` word.
