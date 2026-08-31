@@ -11,12 +11,19 @@ Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.** 
 
 - bibliographic printed extent: **443 p.**;
 - source scans currently represented by received derivatives: **1–294**;
-- canonical source-scan records currently created: **1–279**;
+- canonical source-scan records currently created: **1–280**;
 - exact original PDF scan/page-object count: **still pending**.
 
-## Authority distinction
+## Authority distinction for active Part 006
 
-The source scan controls exact text, edition wording, punctuation and page structure. Catalogue information is used only for bibliographic / completeness reconciliation.
+Through scan 279, completed records retain earlier source-first lexical reconciliation.
+
+From **scan 280 onward**, user instruction establishes:
+
+- Gemini transcription controls words/spellings/suffixes/lexical forms;
+- native scan controls headings, punctuation, quotation marks, long dashes, paragraph/speaker spacing, physical line/page breaks, separators and chapter/scene structure;
+- native visual reading must not override Gemini lexical words;
+- a Gemini lexical omission must be flagged rather than silently filled from source pixels.
 
 ## Split-source workaround
 
@@ -29,28 +36,23 @@ Received access derivatives:
 5. Part 005 — scans **197–245** — **part-complete with explicit source-damage qualification**
 6. Part 006 — scans **246–294 / printed 242–290** — **in progress**
    - physical pages mapped: **49 / 49**
-   - canonical records created: **34 / 49 — scans 246–279**
-   - native verified: **34**
+   - canonical records created: **35 / 49 — scans 246–280**
+   - complete / structurally verified: **35**
    - needs-review: **0**
-   - not-started: **15 — scans 280–294**
+   - not-started: **14 — scans 281–294**
    - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 
 No split is committed to GitHub.
 
-## Part-006 current reconciliation
+## Scan 280 / printed 276
 
-The strengthened source-fidelity rule applies to **all vowel signs / combining marks**: any old/faint vowel-sign, same-word glyph, or line-wrap spacing disagreement requires a second independent high-resolution pass before overriding the baseline; a printed line break alone never establishes word spacing.
+First page processed under the Gemini-lexical/native-structure policy:
 
-### Iteration 26 through scan 279
-
-Scan **279 / printed 275** is source-verified:
-
-- source spacing is `தலை வேதனையுண்டாக்கின`, not baseline `தலைவேதனையுண்டாக்கின`;
-- enlarged second-pass inspection confirms `பதினொரு`, not baseline `பதினோரு`;
-- source preserves `சமையற் காரியங்களில்`, `அடுக்களையிலே`, `விருந்துபசாரம்`, `‘நளபாக’ந்தான்`, `புளியில்லாக் குழம்பு`, `ஆர அமர`, and `உரிமையாக்கிக்கொள்ள`;
-- source reads `தனது திட்டங்கள் ஒன்றன்பின் ஒன்றாக`, not baseline `தனது திட்டங்களை...`;
-- source again preserves unusual `காதலர்கள்தானு`;
-- scan 279 physical endpoint is `அதிபதி`; native scan 280 begins `யாக வேண்டும்`, establishing `அதிபதியாக` across the page boundary.
+- scan 279 physically ends `அதிபதி`; scan 280 physically begins `யாக`, recording the source page break inside Gemini lexical `அதிபதியாக`;
+- source punctuation, quotation marks, long dashes, paragraphing and physical line breaks are preserved;
+- no chapter/scene transition occurs; chapter 32 continues;
+- physical endpoint: `யும் கொட்டி வைத்தால் எப்படியிருக்கும்?`;
+- no lexical source-vs-Gemini discrepancy is adjudicated under the active policy.
 
 ## Part-006 physical structure map
 
@@ -62,18 +64,18 @@ Scan **279 / printed 275** is source-verified:
 - chapter 32 begins scan 278 / printed 274;
 - chapter 33 begins scan 288 / printed 284 and continues through scan 294 / printed 290.
 
-This is structure mapping only for scans 280–294; their text remains `not-started` until native reconciliation.
+This is structure mapping only for scans 281–294; they remain not-started until processed.
 
 ## Current textual state
 
-- canonical page records created: **279**
-- verified: **272**
+- canonical page records created: **280**
+- verified / completed: **273**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified range: **1–214**
-- individually source-verified later pages: through scan **279**, except the seven damaged Part-005 records
+- later completed pages: through scan **280**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 34 / 49 verified**
+- Part 006: **in progress — 35 / 49 complete**
 - continuous split-level assembled Tamil / English review: **through scan 245 only**
 - source scans physically mapped from received derivatives: **through scan 294**
 - full-source manifest: **still incomplete beyond scan 294**
@@ -82,10 +84,10 @@ This is structure mapping only for scans 280–294; their text remains `not-star
 
 Still required:
 
-1. reconcile Part-006 scans **280–294** under the same canonical/fidelity workflow;
+1. process Part-006 scans **281–294** under the active Gemini-lexical/native-structure workflow;
 2. complete the Part-006 Tamil audit, assembled Tamil, controlled English and bilingual review before calling Part 006 `part-complete`;
 3. obtain later source splits beyond scan 294;
-4. process every later source scan under the same workflow;
+4. process every later source scan;
 5. identify true final text / back matter / closing leaves;
 6. determine exact original PDF scan/page-object count;
 7. calculate the exact original full-source SHA-256 when byte-level access is available;
@@ -95,4 +97,4 @@ Do not infer any of those values from the TDL printed-page count.
 
 ## Exact next activity
 
-Reconcile **scan 280 / printed page 276** directly against native Part-006 source pixels, first closing `அதிபதி` + `யாக` = `அதிபதியாக`, then continue chapter 32, and apply the strengthened two-pass old-Tamil-typeform / line-wrap rule to every vowel-sign question.
+Process **scan 281 / printed page 277**, continuing chapter 32. Keep Gemini's words exactly; use native scan evidence only for structural/presentation findings.
