@@ -20,7 +20,7 @@ Old/historical Tamil glyphs காரணமாக character / vowel mark source-
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **274 canonical records / 267 verified / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **275 canonical records / 268 verified / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
 
 ### புதையல் — current source state
 
@@ -29,15 +29,15 @@ Tamil Digital Library reports **443 p.**; exact original PDF scan count remains 
 Access derivatives:
 
 - parts 001–005 — scans **1–245** — split-level workflow complete, with seven source-damage qualifications in Part 005;
-- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–274 verified; scans 275–294 not-started**.
+- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–275 verified; scans 276–294 not-started**.
 
 Current canonical state:
 
-- records — **274**;
-- verified — **267**;
+- records — **275**;
+- verified — **268**;
 - needs-review — **7 (scans 215–219, 223–224)**;
 - partial — **0**;
-- Part 006 — **29 / 49** pages verified;
+- Part 006 — **30 / 49** pages verified;
 - assembled Tamil / English split-level review — still through scan **245** only;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source;
@@ -45,9 +45,9 @@ Current canonical state:
 
 Part 006 source structure is mapped through scan 294: chapter 28 begins at 247, a four-star internal transition occurs at scan 251, chapter 29 begins at 254 and closes at 262, chapter 30 begins at 262 and closes at 271, chapter 31 begins at 271, chapter 32 at 278 and chapter 33 at 288.
 
-Scan **274 / printed 270** is now source-verified. It closes scan 273's mid-word `மறு` as **`மறுபடியும்`**, restores source punctuation `“புதையல்! புதையல்!! புதையல் ரகசியம்!!!”—`, confirms source `எரியும்போது`, and preserves source-specific `புதையல் ரகசியந்தான்`, `பிரக்ஞை`, `பார்வைப் பட்டது`, `அவளோட`, and `இல்லியே`. No unresolved Part-006 glyph remains through scan 274.
+Scan **275 / printed 271** is now source-verified. It preserves the source order **`அம்பலம் விடுவாரா? மிச்சமிருக்கிற உயிரையும் தேடித் தோண்டி...`**, rather than the smoother baseline reordering, joins physical wraps as `நிறுத்திப்` and `விடாதிங்க`, confirms source-separated `மூடிக் கொண்டான்`, and ends mid-sentence at **`துரை`**. No unresolved Part-006 glyph remains through scan 275.
 
-Exact next action: reconcile **scan 275 / printed page 271**, continuing chapter 31. Do not start the Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are canonically reconciled.
+Exact next action: reconcile **scan 276 / printed page 272**, first continuing the open `துரை...` sentence. Do not start the Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are canonically reconciled.
 
 ## நிறைவு பெற்ற reference work
 
