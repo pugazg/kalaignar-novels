@@ -47,24 +47,27 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - derivative size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - derivative map: `works/pudhaiyal/indexes/part-006-page-map.md`
-- canonical records: **32 / 49 — scans 246–277**
-- verified: **32**
+- canonical records: **33 / 49 — scans 246–278**
+- verified: **33**
 - needs-review: **0**
-- not-started: **17 — scans 278–294**
-- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-277.md`
+- not-started: **16 — scans 279–294**
+- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-278.md`
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - Part-006 state: **`in-progress`**
 
 ### Current verified source sequence
 
-Scan **277 / printed 273** is source-verified:
+Scan **277 / printed 273** ends at `விட`.
 
-- source spacing is `அழைத்துப் போகிறேன்`, not baseline `அழைத்துப்போகிறேன்`;
-- physical line wraps `இரு` / `வருக்கும்`, `துன்` / `புறுத்த`, `போக` / `லாம்`, and `உண்மை` / `யான` are canonically `இருவருக்கும்`, `துன்புறுத்த`, `போகலாம்`, and `உண்மையான`;
-- independent enlarged second pass confirms unusual source **`அவன் மணக்க மாட்டேன்`**, not baseline `அவனை மணக்க மாட்டேன்`; no final `ை` is present and no grammatical repair is introduced;
-- source again preserves unusual **`காதலர்கள்தானு`** rather than baseline `காதலர்கள் தானா`;
-- source-specific `கஷ்டப் படுத்தணும்`, `கவலைப் படாதே`, `ராத்திரிக்கு`, `பங்களாவிலே`, `தொந்திரவு`, and `இணங்கித்தான் தீரணும்` remain unchanged;
-- scan 277 ends `விட`; native scan 278 begins `லாமென்று`, establishing `விடலாமென்று` across the physical boundary.
+Scan **278 / printed 274** is source-verified:
+
+- 277→278 continuity is `விட` + `லாமென்று` = `விடலாமென்று`;
+- enlarged native inspection confirms source `ஆட்சேபணை`, not baseline `ஆட்சேபனை`;
+- source preserves `மறைக்கப் பட்டால்`, `ஒதுப்புறமாக`, `பூமியைத்தோண்டி`, `காதலர்காள்`, `தெரிஞ்சாச்சி`, `கலியாணம்`, and `பின்னே`;
+- source punctuation includes `புறப்பட்டான்—‘இன்னும் எத்தகைய துன்பங்கள் தொடருமோ?’`;
+- the source-printed horizontal rule and chapter **32** heading occur on the same physical page;
+- physical `திட்டப்` / `படி` line wrap is canonically `திட்டப்படி`;
+- scan 278 ends with `துக்காராமும் பரிமளாவும் அங்கே வைக்கப்பட்டனர்.`.
 
 ### Part-006 structure mapped from physical pages
 
@@ -78,18 +81,18 @@ Scan **277 / printed 273** is source-verified:
 
 ## Aggregate durable state
 
-- canonical records: **277**
-- verified: **270**
+- canonical records: **278**
+- verified: **271**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
-- later individual source-verified pages: through scan **277**, except the seven damaged Part-005 records
+- later individual source-verified pages: through scan **278**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 32 / 49 verified**
+- Part 006: **in progress — 33 / 49 verified**
 - assembled Tamil / English split-level review: through scan **245** only
 - source scans represented by currently received derivatives: through **294**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Continue Part 006 at **scan 278 / printed page 274**. First close scan 277's `விட` with scan 278 `லாமென்று` as `விடலாமென்று`, then verify the source-printed chapter **32** transition later on the page. Apply the strengthened two-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions before accepting any disputed glyph or spacing.
+Continue Part 006 at **scan 279 / printed page 275**, chapter 32. Apply the strengthened two-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions before accepting any disputed glyph or spacing.
