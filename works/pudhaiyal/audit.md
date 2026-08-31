@@ -27,29 +27,29 @@ The seven physically damaged Part-005 records **215–219 and 223–224** remain
 Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
 - physical pages mapped: **49 / 49 — scans 246–294 / printed 242–290**
-- canonical records created: **28 / 49 — scans 246–273**
-- verified: **28**
+- canonical records created: **29 / 49 — scans 246–274**
+- verified: **29**
 - needs-review: **0**
 - partial: **0**
-- not-started: **21 — scans 274–294**
+- not-started: **20 — scans 275–294**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- latest native-fidelity record: [`notes/visual-fidelity-scan-273.md`](notes/visual-fidelity-scan-273.md)
+- latest native-fidelity record: [`notes/visual-fidelity-scan-274.md`](notes/visual-fidelity-scan-274.md)
 - Part-006 Tamil audit: **NOT ELIGIBLE**
 - assembled Tamil / English / bilingual review: **NOT ELIGIBLE**
 - state: **`in-progress`**
 
 ### Current verified sequence
 
-- scan 272 ends mid-sentence at `உடலிலேயிருந்த`;
-- scan 273 begins `ரத்தம் பெரும் பகுதி...`, establishing the source continuity `உடலிலேயிருந்த ரத்தம் பெரும் பகுதி...`;
-- user Iteration-26 baseline is substantively source-supported on scan 273;
-- native source prints `சமாளித்துக் கொண்டு` with a genuine source space;
-- source punctuation confirms `“அப்பாடா!”` and ordinary single full stops instead of baseline OCR-style doubled stops;
-- enlarged/contrast second pass confirms source `வரண்டுபோன`;
-- old-type inspection confirms full **`கண்களை`**, including the faint final `ை`; it must not be shortened to `கண்கள்`;
-- full forms checked include `வெளியேறிவிட்டதால்`, `சக்தியற்றிருந்தான்`, `வாயையும்`, `ஒட்டிக் கொண்டிருந்தது`, `நனைத்திருந்த`, `வாயிலே`, `ஆவலாகக்`, `முடியவில்லை`, `எங்கேயிருக்கிறது`, and `போலிருக்கிறதே`;
 - scan 273 ends mid-word at `மறு`;
-- unresolved Part-006 readings through scan 273: **0**.
+- scan 274 begins `படியும்`, establishing **`மறுபடியும்`** across the physical page boundary;
+- user Iteration-26 baseline is substantively source-supported on scan 274;
+- source punctuation is `“புதையல்! புதையல்!! புதையல் ரகசியம்!!!”—`;
+- source prints `எரியும்போது` continuously, not baseline `எரியும் போது`;
+- source-specific `புதையல் ரகசியந்தான்`, `மரணமுகப்பில்`, `பிரக்ஞை`, `பார்வைப் பட்டது`, `அவளோட`, and `இல்லியே` are retained;
+- second old-type pass confirms complete `கண்களை`, `விழிப்பான்`, `அவஸ்தைப்பட்டான்`, `பொருட்படுத்தாமல்`, `இருக்கிறது`, `இவளுடைய`, `அவனிடம்`, `துக்காராமிடமா`, and `இல்லியே`;
+- baseline OCR-style doubled full stops are not source punctuation;
+- scan 274 ends with a complete Velliyambalam dialogue/narration sentence;
+- unresolved Part-006 readings through scan 274: **0**.
 
 ### Structure mapped in Part 006
 
@@ -61,20 +61,20 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through the derivative endpoint.
 
-Only scans 246–273 are textually verified at this checkpoint; structural inspection does not upgrade scans 274–294.
+Only scans 246–274 are textually verified at this checkpoint; structural inspection does not upgrade scans 275–294.
 
 ## Aggregate canonical state
 
-- records created: **273**
-- verified: **266**
+- records created: **274**
+- verified: **267**
 - needs-review: **7**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later individually verified coverage: through scan **273**, except the seven explicitly damaged scans
+- later individually verified coverage: through scan **274**, except the seven explicitly damaged scans
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 28 / 49 verified**
+- Part 006: **in progress — 29 / 49 verified**
 - continuous split-level assembled Tamil / English review: through scan **245** only
-- full-source physical coverage from received derivatives: mapped through scan **294**, but canonical text only through scan 273
+- full-source physical coverage from received derivatives: mapped through scan **294**, but canonical text only through scan 274
 
 ## Whole-work gate
 
@@ -82,4 +82,4 @@ Only scans 246–273 are textually verified at this checkpoint; structural inspe
 
 ## Exact next activity
 
-Reconcile **scan 274 / printed page 270** directly against native source pixels, first continuing scan 273's open `மறு...` word. Apply the strengthened second-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions.
+Reconcile **scan 275 / printed page 271** directly against native source pixels, continuing chapter 31. Apply the strengthened second-pass old-Tamil-typeform rule to all vowel signs and printed-line-wrap questions.
