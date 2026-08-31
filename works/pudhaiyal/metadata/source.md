@@ -25,7 +25,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 003 | `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf` | 99–147 | 97–145 | **49/49 verified; part-complete** |
 | 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **49/49 verified; part-complete** |
 | 005 | `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf` | 197–245 | 195–241 | **49/49 represented; 42 verified + 7 source-damage needs-review; part-complete with qualification** |
-| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 32 verified (246–277); 17 not-started; in progress** |
+| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 33 verified (246–278); 16 not-started; in progress** |
 
 Part-006 derivative byte record:
 
@@ -46,34 +46,33 @@ No split PDF is committed to GitHub.
 
 ## Current native findings
 
-Scan **277 / printed 273** is source-verified:
+Scan **278 / printed 274** is source-verified:
 
-- source spacing `அழைத்துப் போகிறேன்` is retained rather than baseline `அழைத்துப்போகிறேன்`;
-- physical line wraps are reconciled as `இருவருக்கும்`, `துன்புறுத்த`, `போகலாம்`, and `உண்மையான`;
-- enlarged independent second pass confirms source **`அவன் மணக்க மாட்டேன்`**, not baseline `அவனை மணக்க மாட்டேன்`; there is no final `ை` after `அவன்`;
-- source preserves unusual **`காதலர்கள்தானு`**, matching the same form already confirmed on scan 276;
-- source-specific `கஷ்டப் படுத்தணும்`, `கவலைப் படாதே`, `ராத்திரிக்கு`, `பங்களாவிலே`, `தொந்திரவு`, and `இணங்கித்தான் தீரணும்` are retained;
-- physical endpoint is `விட`; native scan 278 begins `லாமென்று`, establishing `விடலாமென்று` across the boundary.
+- scan 277 endpoint `விட` + scan 278 opening `லாமென்று` establishes `விடலாமென்று`;
+- enlarged native inspection confirms source `ஆட்சேபணை`, not baseline `ஆட்சேபனை`;
+- source preserves `மறைக்கப் பட்டால்`, `ஒதுப்புறமாக`, `பூமியைத்தோண்டி`, `காதலர்காள்`, `தெரிஞ்சாச்சி`, `கலியாணம்`, and `பின்னே`;
+- source punctuation includes `புறப்பட்டான்—‘இன்னும் எத்தகைய துன்பங்கள் தொடருமோ?’`;
+- source horizontal rule + chapter heading `32` occur on the same physical page;
+- line-wrap `திட்டப்` / `படி` is one source word: `திட்டப்படி`;
+- physical endpoint is the complete sentence `துக்காராமும் பரிமளாவும் அங்கே வைக்கப்பட்டனர்.`.
 
 ## Old-Tamil-glyph integrity note
 
 The pre-correction safeguard covers **every Tamil vowel sign / combining mark**. Demonstrated risks include faint final `லை`, faint `ா`, and `ே` / `ோ` distinctions. An apparent disagreement limited to a historical vowel sign, same-word letter shape, or line-wrap spacing requires a **second independent visual pass** before the baseline can be changed. A printed line wrap alone is never evidence for word-internal spacing.
 
-Scan 277 further demonstrates that the safeguard must be applied in both directions: a baseline may contain an expected vowel sign (`அவனை`) that the native source actually lacks (`அவன்`). Grammar must not be used to restore a vowel sign absent from the pixels.
-
 ## Canonical Tamil state
 
-- page records created: **277**
-- verified: **270**
+- page records created: **278**
+- verified: **271**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later individual scans are verified through scan **277**, except the seven damaged physical records
+- later individual scans are verified through scan **278**, except the seven damaged physical records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 32 / 49 canonical pages verified**
+- Part 006: **in progress — 33 / 49 canonical pages verified**
 - assembled Tamil / English / bilingual review: **completed only through Part 005 / scan 245**
 
-Part-006 records currently extend through `../pages/0277-pudhaiyal.md`, with latest fidelity record [`../notes/visual-fidelity-scan-277.md`](../notes/visual-fidelity-scan-277.md).
+Part-006 records currently extend through `../pages/0278-pudhaiyal.md`, with latest fidelity record [`../notes/visual-fidelity-scan-278.md`](../notes/visual-fidelity-scan-278.md).
 
 ## Completeness still open
 
@@ -81,9 +80,9 @@ Part-006 records currently extend through `../pages/0277-pudhaiyal.md`, with lat
 - exact full scan-object count: **pending**
 - original full-source SHA-256: **pending**
 - true ending / back matter: **not yet inspected**
-- Part-006 text beyond scan 277: **not yet reconciled**
+- Part-006 text beyond scan 278: **not yet reconciled**
 - source range beyond scan 294: **not yet supplied/reconciled**
 
 ## Exact next action
 
-Reconcile **scan 278 / printed page 274** directly against native source pixels, first closing scan 277 `விட` + scan 278 `லாமென்று` = `விடலாமென்று`, then verify the source-printed chapter **32** transition later on the page.
+Reconcile **scan 279 / printed page 275** directly against native source pixels, continuing chapter 32.
