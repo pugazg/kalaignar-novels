@@ -28,7 +28,7 @@ User instruction படி:
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **281 canonical records / 274 complete / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **282 canonical records / 275 complete / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
 
 ### புதையல் — current source state
 
@@ -37,15 +37,15 @@ Tamil Digital Library reports **443 p.**; exact original PDF scan count remains 
 Access derivatives:
 
 - parts 001–005 — scans **1–245** — split-level workflow complete, with seven source-damage qualifications in Part 005;
-- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–281 complete; scans 282–294 not-started**.
+- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–282 complete; scans 283–294 not-started**.
 
 Current canonical state:
 
-- records — **281**;
-- verified / completed — **274**;
+- records — **282**;
+- verified / completed — **275**;
 - needs-review — **7 (scans 215–219, 223–224)**;
 - partial — **0**;
-- Part 006 — **36 / 49** pages complete;
+- Part 006 — **37 / 49** pages complete;
 - assembled Tamil / English split-level review — still through scan **245** only;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source;
@@ -53,9 +53,9 @@ Current canonical state:
 
 Part 006 source structure is mapped through scan 294: chapter 28 begins at 247, four-star internal transition at 251, chapter 29 begins 254 and closes 262, chapter 30 begins 262 and closes 271, chapter 31 begins 271 and closes 278, chapter 32 begins 278, chapter 33 begins 288.
 
-Scans **280–281** are processed under the Gemini-lexical/native-structure rule. On scan 281, Gemini words remain unchanged; native scan supplies punctuation, quotation structure, paragraphs and physical line breaks. The page ends `பைத்யக்காரன்.`.
+Scans **280–282** are processed under the Gemini-lexical/native-structure rule. Scan 282 preserves Gemini words while the native scan supplies dialogue punctuation, long dashes, paragraphing and physical line breaks. It ends without punctuation at `துக்காராம் அப்படியே அசைவற்று நின்றான்`; scan 283 begins `சிறிது நேரம்.`.
 
-Exact next action: process **scan 282 / printed page 278**, continuing chapter 32 under the same hybrid policy. Do not start Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are complete.
+Exact next action: process **scan 283 / printed page 279**, continuing chapter 32 under the same hybrid policy. Do not start Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages are complete.
 
 ## நிறைவு பெற்ற reference work
 
