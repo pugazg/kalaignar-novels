@@ -46,7 +46,7 @@ The native scan controls:
 - scene/chapter transitions;
 - other non-lexical structural findings.
 
-When a lexical word is split physically across a source line or source page, keep Gemini's word but record the native physical split in the source/boundary note.
+When a lexical word is split physically across a source line or source page, keep Gemini's lexical wording while preserving/recording the native physical split.
 
 This rule is **prospective from scan 280**. Scans 246–279 are not reopened solely to apply it unless explicitly requested.
 
@@ -57,11 +57,11 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - physical pages / mapped source scans: **49 / 49 — scans 246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **35 / 49 — scans 246–280**
-- verified / structurally completed: **35**
+- canonical records: **36 / 49 — scans 246–281**
+- verified / structurally completed: **36**
 - needs-review: **0**
-- not-started: **14 — scans 281–294**
-- latest fidelity record: [`notes/visual-fidelity-scan-280.md`](notes/visual-fidelity-scan-280.md)
+- not-started: **13 — scans 282–294**
+- latest fidelity record: [`notes/visual-fidelity-scan-281.md`](notes/visual-fidelity-scan-281.md)
 - Tamil audit: **not eligible**
 - assembled Tamil: **not eligible**
 - controlled English: **not eligible**
@@ -71,10 +71,12 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 ### Current Part-006 checkpoint
 
 - scan 280 is the first page processed under the Gemini-lexical/native-structure policy;
-- scan 279 physically ends `அதிபதி`; scan 280 begins `யாக`, recording the page split inside Gemini lexical `அதிபதியாக`;
-- source punctuation, quote style, long dashes, paragraphs and physical line breaks are preserved;
-- no chapter/scene transition occurs on scan 280; chapter 32 continues;
-- scan 280 physical endpoint is `யும் கொட்டி வைத்தால் எப்படியிருக்கும்?`;
+- scan 281 continues chapter 32 and keeps Gemini lexical wording unchanged;
+- native source supplies ordinary punctuation, source quotation structure, paragraph boundaries and physical line breaks;
+- source long dash `உணர்ந்து — நம்` is preserved;
+- physical line breaks include `இசைத்` / `துக்`, `தன்` / `னைக்`, `உள்` / `ளத்தைப்`, `பரி` / `மளா`, and `தன்` / `னைத்`;
+- no chapter/scene transition occurs on scan 281;
+- scan 281 physical endpoint is `பைத்யக்காரன்.`;
 - no Gemini lexical word was altered from native reading.
 
 Part-006 mapped chapter transitions: chapter 28 begins scan 247; four-star internal transition scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262 and closes 271; chapter 31 begins 271 and closes 278; chapter 32 begins 278; chapter 33 begins 288.
@@ -91,4 +93,4 @@ Do not run the Part-006 Tamil audit or any downstream stage until all scans 246�
 
 ## Exact next activity
 
-Process **scan 281 / printed page 277**, continuing chapter 32. Keep Gemini's words exactly; use the native source for headings, punctuation, long dashes, quote style, paragraph structure, speaker-label spacing, physical line/page breaks and other structural findings only.
+Process **scan 282 / printed page 278**, continuing chapter 32. Keep Gemini's words exactly; use the native source for headings, punctuation, long dashes, quote style, paragraph structure, speaker-label spacing, physical line/page breaks and other structural findings only.
