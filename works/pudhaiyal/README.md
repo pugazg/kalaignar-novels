@@ -9,19 +9,28 @@
 
 ## Source authority
 
-The scanned source is the textual authority. User transcription is a comparison baseline only. Do not modernize, regularize or silently repair old-print Tamil. A disagreement is changed only after native-source verification; genuine ambiguity remains `needs-review`.
+For Pudhaiyal **through scan 279**, the completed canonical records retain the earlier source-first reconciliation decisions already made.
 
-### Old-Tamil-glyph safeguard
+### Prospective lexical rule — scan 280 onward
 
-Before correcting a baseline because a final letter or vowel mark appears absent, inspect the **complete glyph cluster at high resolution** and explicitly consider old/historical Tamil typeforms.
+By explicit user instruction, **Gemini's supplied transcription controls WORDS from scan 280 onward**.
 
-This edition has demonstrated faint final `லை`, faint `ா`, and `ே` / `ோ` distinctions. The safeguard applies to **all vowel signs / combining marks**. A baseline difference involving an old-type vowel sign, same-word letter shape, or apparent line-wrap spacing requires a second independent high-resolution pass before acceptance. A printed line break alone is never evidence for word-internal spacing.
+For the remaining transcription:
+
+- preserve Gemini's word choices/spellings exactly;
+- do not correct Gemini's word forms from native visual reading, including old/faint vowel-sign differences;
+- native scan inspection controls **headings, punctuation, quotation marks, long dashes, paragraph structure, speaker-label spacing, physical line breaks, page breaks, separators, chapter/scene transitions and other structural findings**;
+- if a source line/page physically splits a word, retain Gemini's lexical word but record the physical split/provenance from the scan;
+- if Gemini omitted a lexical span, flag it instead of silently adding words from the scan;
+- this policy is prospective; scans 246–279 are not reopened solely because of this change.
+
+The former old-Tamil-glyph safeguard remains relevant for interpreting the page image and structure, but from scan 280 onward it must not be used to override Gemini's supplied lexical wording.
 
 The former `150 pages total` conclusion is permanently withdrawn. See [`notes/source-page-count-reconciliation.md`](notes/source-page-count-reconciliation.md).
 
 ## Split-source / part-completion workflow
 
-The supplied split PDFs are access derivatives of one edition, not separate works. Follow [`PART_COMPLETION_WORKFLOW.md`](PART_COMPLETION_WORKFLOW.md): canonical Tamil → native fidelity → part Tamil audit → assembled Tamil → English translation → bilingual review → status synchronization.
+The supplied split PDFs are access derivatives of one edition, not separate works. Follow [`PART_COMPLETION_WORKFLOW.md`](PART_COMPLETION_WORKFLOW.md): canonical Tamil → structural/native fidelity → part Tamil audit → assembled Tamil → English translation → bilingual review → status synchronization.
 
 A derivative boundary is provenance only and must never create a false narrative boundary.
 
@@ -53,16 +62,11 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - Part-006 assembled Tamil / English / bilingual review: **not started; gate remains closed**
 - source/split PDF committed: **No**
 
-### Current Iteration-26 checkpoint
+### Current checkpoint
 
-Scan **279 / printed 275** is source-verified:
+Scan **279 / printed 275** is complete. It physically ends at `அதிபதி`, while scan 280 begins `யாக வேண்டும்`.
 
-- source spacing is `தலை வேதனையுண்டாக்கின`, not baseline `தலைவேதனையுண்டாக்கின`;
-- enlarged second-pass inspection confirms source `பதினொரு`, not baseline `பதினோரு`;
-- source preserves `சமையற் காரியங்களில்`, `அடுக்களையிலே`, `விருந்துபசாரம்`, `‘நளபாக’ந்தான்`, `புளியில்லாக் குழம்பு`, `ஆர அமர`, and `உரிமையாக்கிக்கொள்ள`;
-- source reads `தனது திட்டங்கள் ஒன்றன்பின் ஒன்றாக`, not baseline `தனது திட்டங்களை...`;
-- source again preserves unusual `காதலர்கள்தானு`;
-- scan 279 ends at `அதிபதி`; native scan 280 begins `யாக வேண்டும்`, establishing `அதிபதியாக` across the physical boundary.
+From **scan 280 onward**, that sort of physical boundary is recorded from the scan, but lexical wording itself is kept from Gemini.
 
 ### Part-006 structure mapped
 
@@ -74,7 +78,7 @@ Scan **279 / printed 275** is source-verified:
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through scan 294.
 
-Only scans 246–279 have been textually reconciled so far. Later structural mapping does not make scans 280–294 `verified`.
+Only scans 246–279 have been processed so far. Later structural mapping does not make scans 280–294 complete.
 
 ## Aggregate archival status
 
@@ -83,13 +87,13 @@ Only scans 246–279 have been textually reconciled so far. Later structural map
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range remains through scan **214 / printed page 212**
-- later individual scans are source-verified through scan **279**, except the seven Part-005 damaged scans
+- later individual completed pages extend through scan **279**, except the seven Part-005 damaged scans
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 34 / 49 verified**
+- Part 006: **in progress — 34 / 49 complete**
 - assembled Tamil / English: part-reviewed continuously through scan **245** only
 - whole-work Tamil / English verification: **not yet eligible**
 - release-readiness: **blocked until complete source**
 
 ## Exact next activity
 
-Reconcile **scan 280 / printed page 276** directly against native Part-006 pixels, first closing `அதிபதி` + `யாக` = `அதிபதியாக`, then continue chapter 32. Apply the strengthened two-pass rule to every vowel sign and line-wrap question before overriding any baseline character or word spacing. Do not begin downstream Part-006 gates until all 49 physical pages have canonical records.
+Process **scan 280 / printed page 276**, continuing chapter 32. **Keep Gemini's words exactly.** Use the native source only for headings, punctuation, long dashes, quote style, speaker-label spacing, paragraph/physical line breaks, page-boundary provenance and other structural findings.
