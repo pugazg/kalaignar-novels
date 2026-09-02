@@ -23,9 +23,9 @@ For Part 007, uploaded `p7.md` is the controlling lexical baseline. By explicit 
 | Part 004 | 148–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification** |
 | Part 006 | 246–294 | **part-complete** |
-| Part 007 | 295–343 | **Tamil audit + assembled Tamil + controlled English source check PASSED; bilingual review next** |
+| Part 007 | 295–343 | **part-complete** |
 
-## Part 007 — audited, assembled and English source-checked
+## Part 007 — split-level complete
 
 Source: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 
@@ -36,16 +36,16 @@ Source: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 - canonical records: **49 / 49 verified**;
 - Tamil audit: **PASSED** — [`notes/part-007-tamil-audit.md`](notes/part-007-tamil-audit.md);
 - assembled Tamil: **PASSED** — [`notes/part-007-assembled-tamil-check.md`](notes/part-007-assembled-tamil-check.md);
-- assembled reading layer: continuously through scan **343 / printed 339**;
 - controlled English source check: **PASSED** — [`translations/en/PART_007_ENGLISH_CHECK.md`](translations/en/PART_007_ENGLISH_CHECK.md);
-- English coverage: source-checked continuously through scan **343 / printed 339**;
-- Part-007 bilingual review: **pending**.
+- bilingual review: **PASSED** — [`translations/en/PART_007_REVIEW.md`](translations/en/PART_007_REVIEW.md);
+- assembled Tamil / source-checked / bilingual-reviewed English: continuously through scan **343 / printed 339**;
+- Part-007 state: **`part-complete`**.
 
 Part 007 extends Chapter 33 across the Part-006→007 **`‘லாக் அப்’பில்` / lock-up** boundary and carries Chapters **34–39**. Source-printed internal transitions and chapter boundaries are retained, including the scan-322 structural placement of `விடியற்காலை...` after the overnight dialogue.
 
-The English source check preserves the three authorized omission restorations, conservative handling of `திருக்கைவால்`, `ரச வல்லி`, `குடுகுடுப்பைக்காரன்`, `சாயபு` and `சண்டாளன்`, and the provenance of scan-343 supplied lexical `అది`.
+The bilingual review made three English-only fidelity corrections without altering Tamil: Chapter 36 retains `காவலன் ஜஹாங்கீர்` as **the ruler Jahangir** rather than adding “Emperor”; Chapter 38 renders `பத்தாயிரம் முத்தாரம்` conservatively as **a garland of ten thousand pearls**; and Chapter 39 restores the source-visible `முகத்தில்` detail in the Saibu alms instruction.
 
-Scan **343 / printed 339** still ends inside the Chapter-39 fortune-teller utterance at open Tamil **`அதிர்ஷ்`**. Source-checked English correspondingly ends inside **luck** at `luc`, with no closing quotation, sentence punctuation, chapter close or novel-ending marker invented.
+Scan **343 / printed 339** still ends inside the Chapter-39 fortune-teller utterance at open Tamil **`அதிர்ஷ்`**. Reviewed English correspondingly ends inside **luck** at `luc`, with no closing quotation, sentence punctuation, chapter close or novel-ending marker invented. Part 007 being `part-complete` does **not** mean the novel is complete.
 
 ## Aggregate archival status
 
@@ -53,13 +53,11 @@ Scan **343 / printed 339** still ends inside the Chapter-39 fortune-teller utter
 - verified / completed: **336**;
 - needs-review: **7 — only Part 005 scans 215–219 and 223–224**;
 - assembled Tamil: part-reviewed continuously through scan **343**;
-- source-checked English: continuously through scan **343**;
-- bilingual-reviewed English: continuously through scan **294**;
+- source-checked and bilingual-reviewed English: continuously through scan **343**;
 - received derivative coverage: through scan **343 / printed 339**;
-- Parts 001–006: **part-complete**;
-- Part 007: **English source check passed; bilingual review eligible**;
+- Parts 001–007: **part-complete** at split level;
 - whole-work verification / release: **not yet eligible because source continues beyond scan 343**.
 
 ## Exact next activity
 
-Run the **Part-007 bilingual review across scans 295–343**. Compare source-checked English with canonical/assembled Tamil for semantic fidelity, dialogue coverage, names/terms, humour, violence, romance, rhetorical force, internal transitions and the open endpoint. Only after that review passes may Part 007 be marked `part-complete`.
+Obtain / resolve the **next source derivative beyond scan 343**. Verify its actual first page against the open scan-343 `அதிர்ஷ்` boundary before assigning continuation text, source/printed-page mapping or a new part range. Do not infer the next Tamil letters, chapter ending, novel ending or final source extent without the actual source.
