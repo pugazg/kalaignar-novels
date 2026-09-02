@@ -167,7 +167,7 @@ Velliyambalam, not understanding the trick, followed with the thrill of believin
 
 They walked and walked and passed Puduppattinam too. Grumbling that the night seemed determined not to disappear quickly, Dukkaram kept putting one foot before the other.
 
-A river crossed their path. Yes, it was the river between Puduppattinam and Rajamadam. They were walking along the riverbank when they saw a lone figure approaching from the opposite direction. They moved toward it.
+A river crossed their path. Yes, it was the river between Puduppattinam and Raja Madam. They were walking along the riverbank when they saw a lone figure approaching from the opposite direction. They moved toward it.
 
 It was the figure of a woman.
 
