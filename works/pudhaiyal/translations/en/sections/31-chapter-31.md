@@ -13,7 +13,7 @@ derived_from: "audited Tamil pages and checked sections/31-chapter-31.md"
 
 Parimalam recognised the one-armed man. He was not Durai, as she had feared, nor was he the old man. It was Ayyappan.
 
-Ayyappan's chest was soaked in blood. Blood continued to pour from the severed arm. Dukkaram could not stop trembling. He was a warrior of warriors who could faint even at the fake blood a street magician beat a drum and displayed for amusement. What would it be like for him to see a truly horrifying scene like this in some deserted place? His whole body shook.
+Ayyappan's chest was soaked in blood. Blood continued to pour from the severed arm. Dukkaram—the “warrior of warriors” who could faint even at the fake blood a street magician displayed for amusement after beating his drum—could not stop trembling. What would it be like for him to see a truly horrifying scene like this in some deserted place? His whole body shook.
 
 Yet even through that trembling, a brilliant idea flashed through his mind—an idea for escaping Velliyambalam. Neither he nor Velliyambalam knew who the mutilated man was. Dukkaram decided to make use of that fact and immediately began putting his extraordinary plan into action.
 
@@ -63,7 +63,7 @@ Ayyappan stared wildly. Hiccups began in his throat.
 
 “Yes—the treasure secret!” Velliyambalam insisted. He had surpassed even the man who asks for a light for his beedi while the house is burning.
 
-Ayyappan was rambling at the mouth of death. For a moment consciousness would return and his eyes would open wide. He would try to say something. Then his memory would falter. Back and forth he suffered like this. Ignoring even that death agony, Ambalam burned with impatience to accomplish his purpose.
+Ayyappan, on the threshold of death, was rambling. For a moment consciousness would return and his eyes would open wide. He would try to say something. Then his memory would falter. Back and forth he suffered like this. Ignoring even that death agony, Ambalam burned with impatience to accomplish his purpose.
 
 “Please tell me! Who has the treasure secret?”
 
@@ -129,7 +129,7 @@ Dukkaram did not rejoice at hearing this. He feared there was some trick in it.
 
 Believing that he would no longer be troubled, Dukkaram agreed.
 
-Parimalam too had no choice but to accept Velliyambalam's proposal. Having already said that Dukkaram was her lover, if she now refused to marry him the truth would come out.
+Parimalam too had no choice but to accept Velliyambalam's proposal. Having already said that Dukkaram was her lover, if she now said she would not marry, the truth would come out.
 
 Velliyambalam was certain that if he somehow took Parimalam away with him, he could use her to catch Durai. He also believed that by arranging the marriage of Dukkaram and Parimalam he could discover whether they really were lovers.
 
