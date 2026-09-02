@@ -24,7 +24,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 003 | `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf` | 99–147 | 97–145 | **49/49 verified; part-complete** |
 | 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **49/49 verified; part-complete** |
 | 005 | `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf` | 197–245 | 195–241 | **49/49 represented; 42 verified + 7 source-damage needs-review; part-complete with qualification** |
-| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 37 complete (246–282); 12 not-started; in progress** |
+| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 38 canonical; 37 complete + scan 283 needs-review; 11 not-started; in progress** |
 
 Part-006 derivative byte record:
 
@@ -57,28 +57,27 @@ From **scan 280 onward**, by explicit user instruction:
 
 ## Current hybrid-policy findings
 
-- scans 280–282 are processed under the Gemini-lexical/native-structure policy;
-- scan 282 / printed 278 continues chapter 32 with no source-printed chapter/scene transition;
-- Gemini lexical wording remains unchanged;
-- native source supplies dialogue punctuation, quotation structure, paragraphing and physical line breaks;
-- source long-dash sequence `அன்பு இல்லை — பிரியம் / இல்லை — என்பது...` is preserved;
-- physical line breaks include `உன்` / `னுடைய`, `வெள்ளியம்பலத்திட` / `மிருந்து`, `வைத்` / `தேன்`, `பரி` / `மளா`, `பரிமளா` / `வைப்`, and `அறைந்` / `தாள்`;
-- scan 282 physical endpoint is unpunctuated `துக்காராம் அப்படியே அசைவற்று நின்றான்`;
-- scan 283 begins `சிறிது நேரம்.`, confirming cross-page sentence continuity.
+- scans 280–283 are processed under the Gemini-lexical/native-structure policy;
+- scan 282 endpoint is unpunctuated `துக்காராம் அப்படியே அசைவற்று நின்றான்`; scan 283 begins `சிறிது நேரம்.`, confirming cross-page continuity;
+- scan 283 continues chapter 32 with no source-printed transition;
+- native long dashes include `போதும்—இனியும்` and `வெள்ளியம்பலம்—என்ற`;
+- physical word-internal breaks include `நிலைப்` / `படுத்திவிட்டது`, `கூறிக்` / `கொண்டே`, `துக்கா` / `ராம்`, `உனக்` / `கும்`, `உண்மை` / `யைக்`, `சொல்` / `வது`, and `பயன்படுத்து` / `வார்`;
+- **Gemini lexical omission on scan 283:** source visibly contains `பார்` after `ஓடிப் போகிறேன்`; Gemini omits it. The word is not inserted under the active policy, so scan 283 remains `needs-review`;
+- scan 283 endpoint is `வெள்ளியம்பலம்—என்ற திகிலும் கூடவே பிறந்தது.`.
 
 ## Canonical Tamil state
 
-- page records created: **282**
+- page records created: **283**
 - verified / completed: **275**
-- needs-review: **7 — scans 215–219, 223–224**
+- needs-review: **8 — scans 215–219, 223–224, 283**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later completed pages extend through scan **282**, except the seven damaged physical records
+- later completed pages extend through scan **282**, with scan 283 `needs-review`
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 37 / 49 pages complete**
+- Part 006: **in progress — 37 verified/completed + 1 needs-review / 49**
 - assembled Tamil / English / bilingual review: **completed only through Part 005 / scan 245**
 
-Part-006 records currently extend through `../pages/0282-pudhaiyal.md`, with latest fidelity record [`../notes/visual-fidelity-scan-282.md`](../notes/visual-fidelity-scan-282.md).
+Part-006 records currently extend through `../pages/0283-pudhaiyal.md`, with latest fidelity record [`../notes/visual-fidelity-scan-283.md`](../notes/visual-fidelity-scan-283.md).
 
 ## Completeness still open
 
@@ -86,9 +85,9 @@ Part-006 records currently extend through `../pages/0282-pudhaiyal.md`, with lat
 - exact full scan-object count: **pending**
 - original full-source SHA-256: **pending**
 - true ending / back matter: **not yet inspected**
-- Part-006 text beyond scan 282: **not yet processed**
+- Part-006 scans 284–294: **not yet processed**
 - source range beyond scan 294: **not yet supplied/reconciled**
 
 ## Exact next action
 
-Process **scan 283 / printed page 279**, continuing chapter 32. Keep Gemini's words exactly and use native scan evidence only for structural/presentation findings.
+Process **scan 284 / printed page 280**, continuing chapter 32. Keep Gemini's words exactly and use native scan evidence only for structural/presentation findings. Keep scan 283's `பார்` omission open pending explicit disposition.
