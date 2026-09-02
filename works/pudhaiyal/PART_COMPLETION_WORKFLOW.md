@@ -28,7 +28,7 @@ A user-authorized restoration is narrow to the documented omission and does not 
 
 - Parts 001–006 — `part-complete`
 - Part 007 — scans **295–343** — `part-complete`
-- Part 008 — scans **344–392** — **Tamil audit PASSED + assembled Tamil PASSED / controlled English next**
+- Part 008 — scans **344–392** — **Tamil audit + assembled Tamil + controlled English source check PASSED / bilingual review next**
 
 ## Part 008 gate state
 
@@ -38,14 +38,15 @@ A user-authorized restoration is narrow to the documented omission and does not 
 - Part-008 needs-review: **0**
 - Tamil audit: **PASS**
 - assembled Tamil: **PASS**
-- controlled English: **NEXT**
-- English source check: blocked until translation batch completion
-- bilingual review: blocked until English source check
+- controlled English translation: **COMPLETE**
+- English source check: **PASS** — [`translations/en/PART_008_ENGLISH_CHECK.md`](translations/en/PART_008_ENGLISH_CHECK.md)
+- bilingual review: **NEXT**
 
-Part 008 continues Chapter 39 across the `அதிர்ஷ்` + `டம்` boundary and carries Chapters 40–45. Scan 392 ends Chapter 45 open at `நமது`; this is not the novel ending.
+Part 008 continues Chapter 39 across the `அதிர்ஷ்` + `டம்` boundary and carries Chapters 40–45. English mirrors the cross-split word as reviewed Part-007 `luc` + Part-008 `k` → **luck**. Scan 392 ends Chapter 45 open at Tamil `நமது` / English **“our”**; this is not the novel ending.
 
-Part-008 assembled audit: [`notes/part-008-assembled-tamil-audit.md`](notes/part-008-assembled-tamil-audit.md).
+Part-008 assembled audit: [`notes/part-008-assembled-tamil-audit.md`](notes/part-008-assembled-tamil-audit.md).  
+Part-008 English source check: [`translations/en/PART_008_ENGLISH_CHECK.md`](translations/en/PART_008_ENGLISH_CHECK.md).
 
 ## Exact next activity
 
-Begin controlled English translation of Part 008 scans **344–392** from the audited assembled Tamil Chapters **39–45**, preserving all structural transitions and the open endpoint at `நமது`.
+Run the **Part-008 bilingual review across scans 344–392**. Only after that review passes may Part 008 be marked `part-complete`.
