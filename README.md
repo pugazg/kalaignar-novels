@@ -18,15 +18,17 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **392 canonical / 385 verified-complete / 7 needs-review; Parts 001–007 part-complete; Part 008 Tamil + assembled Tamil PASSED** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **392 canonical / 385 verified-complete / 7 needs-review; Parts 001–007 part-complete; Part 008 English draft COMPLETE / source check next** |
 
 ### புதையல் — current source state
 
 Received derivatives cover scans **1–392**, visible printed text through **388**. Exact original scan count remains pending.
 
-Part 008 has **49/49 canonical + verified records**. During assembled-Tamil construction, native scan **384 / printed 380** was found to contain complete phrase **`தகட்டில் இருக்கிறபடி`**, absent from controlling `p8.md`. The user explicitly authorized restoration of that phrase on 2026-09-02; the restoration is narrow to that omission.
+Part 008 has **49/49 canonical + verified records**. Native scan **384 / printed 380** contains complete phrase **`தகட்டில் இருக்கிறபடி`**, absent from controlling `p8.md`; the user explicitly authorized restoration on 2026-09-02, narrow to that omission.
 
-Part-008 Tamil audit and assembled-Tamil consistency check both **PASSED**. Assembled Chapters **39–45** now reach scan 392. Chapter 39 joins Part 007 `அதிர்ஷ்` + Part 008 `டம்` as **`அதிர்ஷ்டம்`**; Chapter 45 remains deliberately open at **`நமது`**.
+Part-008 Tamil audit and assembled-Tamil consistency check both **PASSED**. Assembled Chapters **39–45** reach scan 392. Chapter 39 joins Part 007 `அதிர்ஷ்` + Part 008 `டம்` as **`அதிர்ஷ்டம்`**; Chapter 45 remains deliberately open at **`நமது`**.
+
+The Part-008 controlled English draft is also complete through scan **392 / printed 388**. The cross-split English witness follows the established checkpoint convention: reviewed Part-007 Chapter 39 ends at `luc`, and the Part-008 continuation begins with `k`, producing **luck**. English Chapter 44 represents the authorized scan-384 restoration exactly once as **“as the plate says”**. English Chapter 45 remains deliberately open at **`our`**, corresponding to Tamil `நமது`.
 
 Current aggregate state:
 
@@ -34,11 +36,12 @@ Current aggregate state:
 - verified/completed: **385**
 - needs-review: **7 — only Part 005 scans 215–219 and 223–224**
 - assembled Tamil: continuous through **scan 392 / printed 388**
+- controlled English draft: continuous through **scan 392 / printed 388**
 - source-checked/bilingual-reviewed English: through scan **343**
 - received source coverage: through scan **392 / printed 388**
 - whole-work verification/release: **not yet eligible**
 
-Exact next action: begin **controlled English translation for Part 008 scans 344–392** from assembled Chapters 39–45, preserving the open Chapter-45 endpoint corresponding to `நமது`.
+Exact next action: run the **Part-008 controlled English source check across scans 344–392**. Only after that check passes should Part-008 bilingual review begin.
 
 ## நிறைவு பெற்ற reference work
 
