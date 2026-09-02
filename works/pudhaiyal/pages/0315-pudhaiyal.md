@@ -4,13 +4,13 @@ printed_page: 311
 work: "pudhaiyal"
 section: "35"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied p7.md lexical/textual baseline retained under the scan-280-onward policy; native split part 007 page 21 used only for punctuation, quotation marks, paragraphing and physical page-boundary findings; one complete source-visible lexical span omitted by p7.md is flagged without silent insertion"
+transcription_method: "user-supplied p7.md lexical/textual baseline retained under the scan-280-onward policy; native split part 007 page 21 used for structure; source-visible omitted lexical span சரி...... வா! வா!...... inserted only after explicit user authorization"
 ---
 
-“மடியிலே கனமிருந்தால் தானே வழியிலே பயம்!……” என்று அவனை அழைத்துக் கொண்டு மனோராவின் அடித் தளத்துப் பக்கம் சென்றார். நண்பர்களும் அவன் கூடச் சென்றார்கள்.
+“மடியிலே கனமிருந்தால் தானே வழியிலே பயம்!…… சரி...... வா! வா!......” என்று அவனை அழைத்துக் கொண்டு மனோராவின் அடித் தளத்துப் பக்கம் சென்றார். நண்பர்களும் அவன் கூடச் சென்றார்கள்.
 
 “பரிமளா எங்கே?” என்று ஆவலாகக் கேட்டான் துரை.
 
@@ -20,10 +20,9 @@ transcription_method: "user-supplied p7.md lexical/textual baseline retained und
 
 ## Source / boundary notes
 
-- **Unresolved lexical omission:** after source-visible `மடியிலே கனமிருந்தால் தானே வழியிலே பயம்!`, native scan 315 continues inside the same quotation with the complete lexical span `சரி...... வா! வா!......`; the controlling `p7.md` omits that span and proceeds directly to `என்று அவனை அழைத்துக் கொண்டு...`.
-- Under the standing scan-280-onward rule, the omitted source words are **not inserted** into the canonical body. The page remains `needs-review` pending explicit user/baseline disposition.
-- The ellipsis/quotation structure around the unresolved location is retained editorially without supplying the missing lexical words.
-- All other represented lexical wording remains from `p7.md`; native scan 315 controls punctuation, paragraphing and page boundaries only.
+- The baseline omitted the source-visible quoted span `சரி...... வா! வா!......` after `மடியிலே கனமிருந்தால் தானே வழியிலே பயம்!`.
+- On 2026-09-02 the user explicitly authorized insertion of all three documented Part-007 omissions; the span is therefore restored from the native source and this page is now `verified`.
+- All other represented lexical wording remains from `p7.md`; native scan 315 controls punctuation, paragraphing and page boundaries.
 - The page ends physically inside baseline `அவர்கள்` as `அவர்`; scan 316 begins `கள்`.
 - No other complete lexical omission was identified on this page.
 
