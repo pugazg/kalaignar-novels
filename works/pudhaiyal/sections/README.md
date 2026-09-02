@@ -8,43 +8,33 @@ This layer is derived only from audited page records. It is never an independent
 
 Because the source is arriving through access-derivative split PDFs, audited material is assembled incrementally while preserving real chapter and internal-transition boundaries. A derivative boundary is provenance only and must not create a false narrative section.
 
-When a word or sentence crosses a source-page or split boundary, the readable layer may join it only when the canonical page records establish the join. Reversible HTML comments retain provenance.
+When a word or sentence crosses a source-page or split boundary, the readable layer may join it only when the canonical page records establish the join.
 
 Where the physical source itself is damaged, an explicitly source-damage-closed part may enter this layer without upgrading damaged canonical records. Such text remains provenance-qualified and cannot support a claim of whole-work verification.
 
-For Part 006 scans 280–294, the assembled layer preserves the user-approved authority model: Gemini controls lexical/textual wording and supplied lexical forms; the native scan controls structure/presentation. Joining a physically split Gemini word in the readable layer is provenance-aware assembly, not a source-based lexical correction.
+From scan 280 onward, the assembled layer preserves the user-approved authority model: the supplied Gemini baseline controls lexical/textual wording and forms; native scans control structure/presentation. A complete native lexical omission requires explicit user authorization before restoration. Part 008 scan 384 `தகட்டில் இருக்கிறபடி` is one such explicitly authorized restoration.
 
 ## Current inventory
 
-- `front-matter.md` — scans 1–6 — verified
-- `00-arimugam.md` — scans 7–12 — verified
-- `01-chapter-1.md` through `16-chapter-16.md` — assembled from audited scans through the Part-003 endpoint
-- `checkpoints/part-002-chapter-4-continuation.md` — provenance checkpoint only
-- `checkpoints/part-003-chapter-10-continuation.md` — provenance checkpoint only
-- `checkpoints/part-004-chapter-16-continuation.md` — scans 148–154, completing chapter 16; provenance checkpoint only
-- `17-chapter-17.md` — scans 155–163 chapter-17 portion
-- `18-chapter-18.md` — scan 163 chapter-18 portion through scan 171
-- `19-chapter-19.md` — scans 172–179 chapter-19 portion
-- `20-chapter-20.md` — scan 179 chapter-20 portion through scan 187 chapter-20 portion
-- `21-chapter-21.md` — scan 187 chapter-21 portion through scan 196 chapter-21 portion
-- `22-chapter-22.md` — scans 196–205; Part 005 closes the chapter begun in Part 004
-- `23-chapter-23.md` — scans 206–214
-- `24-chapter-24.md` — scans 215–225; source-damage qualification retained for scans 215–219 and 223–224
-- `25-chapter-25.md` — scans 226–235 chapter-25 portion
-- `26-chapter-26.md` — scan 235 chapter-26 portion through scan 240
-- `27-chapter-27.md` — scans 241–247; Part 006 completes chapter 27, including the 245→246 split continuation
-- `28-chapter-28.md` — scan 247 chapter-28 portion through scan 254 chapter-28 portion; scan-251 four-star internal transition retained
-- `29-chapter-29.md` — scan 254 chapter-29 portion through scan 262 chapter-29 portion
-- `30-chapter-30.md` — scan 262 chapter-30 portion through scan 271 chapter-30 portion
-- `31-chapter-31.md` — scan 271 chapter-31 portion through scan 278 chapter-31 portion
-- `32-chapter-32.md` — scan 278 chapter-32 portion through scan 288 chapter-32 portion
-- `33-chapter-33.md` — scan 288 chapter-33 portion through scan 294; **open Part-006 boundary at `‘லாக்`**
+- `front-matter.md` — scans 1–6
+- `00-arimugam.md` — scans 7–12
+- `01-chapter-1.md` through `32-chapter-32.md` — assembled from audited canonical records through scan 288 chapter-32 portion
+- `33-chapter-33.md` — scan 288 chapter-33 portion through scan 297 chapter-33 portion
+- `34-chapter-34.md` — scan 297 chapter-34 portion through scan 306
+- `35-chapter-35.md` — scans 307–317 chapter-35 portion
+- `36-chapter-36.md` — scan 317 chapter-36 portion through scan 324 chapter-36 portion
+- `37-chapter-37.md` — scan 324 chapter-37 portion through scan 330
+- `38-chapter-38.md` — scans 331–340 chapter-38 portion
+- `39-chapter-39.md` — scan 340 chapter-39 portion through scan 347; includes Part-007→008 `அதிர்ஷ்` + `டம்` → `அதிர்ஷ்டம்`
+- `40-chapter-40.md` — scans 348–355 chapter-40 portion
+- `41-chapter-41.md` — scan 355 chapter-41 portion through scan 362 chapter-41 portion
+- `42-chapter-42.md` — scan 362 chapter-42 portion through scan 369 chapter-42 portion
+- `43-chapter-43.md` — scan 369 chapter-43 portion through scan 376 chapter-43 portion; native four-star transitions retained
+- `44-chapter-44.md` — scan 376 chapter-44 portion through scan 387 chapter-44 portion; includes user-authorized scan-384 restoration `தகட்டில் இருக்கிறபடி`
+- `45-chapter-45.md` — scan 387 chapter-45 portion through scan 392; **open at `நமது`**
+- `checkpoints/` files — provenance checkpoints only; they do not create narrative splits
 
-The checkpoint files do not create narrative splits. Cross-split joins including scans 49→50, 98→99, 147→148, 196→197 and 245→246 have been explicitly continuity-checked. Final whole-work consolidation may merge provenance checkpoint files after the complete source is processed.
-
-Duplicate Part-005 physical witnesses at scans 218–219 are retained in the canonical page layer but are not duplicated in the assembled narrative.
-
-Part-006 assembly consistency record: [`../notes/part-006-assembled-tamil-check.md`](../notes/part-006-assembled-tamil-check.md) — **PASSED**.
+Duplicate Part-005 physical witnesses at scans 218–219 remain represented in the canonical page layer but are not duplicated in the assembled narrative.
 
 ## Part checkpoints
 
@@ -54,13 +44,18 @@ Part-006 assembly consistency record: [`../notes/part-006-assembled-tamil-check.
 - Part 004 / scans 148–196: **assembled-part-checked / part-complete**
 - Part 005 / scans 197–245: **assembled-part-checked with explicit source-damage qualification / part-complete**
 - Part 006 / scans 246–294: **Tamil audit + assembled check + English source check + bilingual review PASSED / part-complete**
+- Part 007 / scans 295–343: **part-complete**
+- Part 008 / scans 344–392: **Tamil audit PASSED + assembled Tamil PASSED / controlled English next**
 
-Assembled Tamil is part-reviewed continuously through **scan 294 / printed page 290**, with scans **215–219 and 223–224** still explicitly source-damaged `needs-review` in the canonical layer. English is also bilingual-reviewed continuously through scan 294; see `../translations/en/PART_006_REVIEW.md`.
+Part-006 assembly record: [`../notes/part-006-assembled-tamil-check.md`](../notes/part-006-assembled-tamil-check.md).  
+Part-008 assembly record: [`../notes/part-008-assembled-tamil-audit.md`](../notes/part-008-assembled-tamil-audit.md).
 
-Scan 294 is not an ending. Chapter 33 and its final quoted dialogue continue beyond the current derivative at open `‘லாக்`.
+Assembled Tamil is now part-reviewed continuously through **scan 392 / printed page 388**, with scans **215–219 and 223–224** still explicitly source-damaged `needs-review` in the canonical layer. Source-checked/bilingual-reviewed English remains continuous through **scan 343**.
 
-The final whole-work assembled-Tamil `PASSED` verdict remains unavailable until the complete source extent and all later canonical pages are known.
+Scan 392 is not an ending. Chapter 45 continues beyond the received derivative at open **`நமது`**.
+
+The final whole-work assembled-Tamil `PASSED` verdict remains unavailable until the complete source extent and later canonical pages are known.
 
 ## Exact next activity
 
-Obtain / resolve the **next source derivative beyond scan 294** and verify its first page against the open `‘லாக்` boundary before extending chapter 33. Establish the next source/printed-page mapping from the actual source; do not infer a continuation, part range, chapter close or novel ending.
+Begin **controlled English translation of Part 008** from assembled Chapters 39–45 / scans **344–392**, preserving the open Chapter-45 endpoint and without inventing text beyond `நமது`.
