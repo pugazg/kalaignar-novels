@@ -58,24 +58,25 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - derivative size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - derivative map: `works/pudhaiyal/indexes/part-006-page-map.md`
-- canonical records: **37 / 49 — scans 246–282**
+- canonical records: **38 / 49 — scans 246–283**
 - verified / completed: **37**
-- needs-review: **0**
-- not-started: **12 — scans 283–294**
-- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-282.md`
+- needs-review: **1 — scan 283**
+- not-started: **11 — scans 284–294**
+- latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-283.md`
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - Part-006 state: **`in-progress`**
 
-### Hybrid-policy checkpoint — scans 280–282
+### Hybrid-policy checkpoint — scans 280–283
 
-- scans 280–282 use Gemini lexical wording unchanged;
-- native source supplies punctuation, quotation structure, paragraphing and physical line breaks;
-- scan 282 preserves the long-dash construction `அன்பு இல்லை — பிரியம் / இல்லை — என்பது...`;
-- scan 282 physical line breaks include `உன்` / `னுடைய`, `வெள்ளியம்பலத்திட` / `மிருந்து`, `வைத்` / `தேன்`, `பரி` / `மளா`, `பரிமளா` / `வைப்`, and `அறைந்` / `தாள்`;
-- no source-printed chapter/scene transition occurs on scan 282;
+- scans 280–283 use Gemini lexical wording unchanged;
+- native source supplies punctuation, quotation structure, paragraphing, long dashes and physical line breaks;
 - scan 282 ends without punctuation at `துக்காராம் அப்படியே அசைவற்று நின்றான்`;
 - scan 283 begins `சிறிது நேரம்.`, confirming a cross-page sentence continuation;
-- no Gemini lexical span is missing through scan 282.
+- no source-printed chapter/scene transition occurs on scan 283;
+- source long-dash structures include `போதும்—இனியும்` and `வெள்ளியம்பலம்—என்ற`;
+- scan 283 physical line-break provenance includes `நிலைப்` / `படுத்திவிட்டது`, `கூறிக்` / `கொண்டே`, `துக்கா` / `ராம்`, `உனக்` / `கும்`, `உண்மை` / `யைக்`, `சொல்` / `வது`, and `பயன்படுத்து` / `வார்`;
+- **open lexical omission:** source contains `பார்` immediately after `ஓடிப் போகிறேன்`; Gemini does not. Per policy, the source-only token was not inserted. Scan 283 is `needs-review` pending explicit user disposition;
+- scan 283 ends `வெள்ளியம்பலம்—என்ற திகிலும் கூடவே பிறந்தது.`.
 
 ### Part-006 structure mapped from physical pages
 
@@ -89,18 +90,18 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
 ## Aggregate durable state
 
-- canonical records: **282**
+- canonical records: **283**
 - verified / completed: **275**
-- needs-review: **7 — scans 215–219, 223–224**
+- needs-review: **8 — Part 005 scans 215–219, 223–224; Part 006 scan 283**
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
-- later completed pages: through scan **282**, except the seven damaged Part-005 records
+- later completed pages: through scan **282**, with scan 283 explicitly `needs-review`
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 37 / 49 complete**
+- Part 006: **in progress — 37 verified/completed + 1 needs-review / 49**
 - assembled Tamil / English split-level review: through scan **245** only
 - source scans represented by currently received derivatives: through **294**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Continue Part 006 at **scan 283 / printed page 279**, chapter 32. **Keep Gemini's words exactly.** Use native scan evidence only for headings, punctuation, long dashes, quote style, speaker-label spacing, paragraph/physical line breaks, page-boundary provenance and other structural findings.
+Continue Part 006 at **scan 284 / printed page 280**, chapter 32. **Keep Gemini's words exactly.** Use native scan evidence only for headings, punctuation, long dashes, quote style, speaker-label spacing, paragraph/physical line breaks, page-boundary provenance and other structural findings. Keep scan 283's `பார்` omission open until explicitly resolved by the user.
