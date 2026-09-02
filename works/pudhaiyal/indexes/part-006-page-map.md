@@ -12,7 +12,8 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - verified / structurally completed: **49 / 49**
 - needs-review in Part 006: **0**
 - not-started: **0**
-- split state: **canonical/structural complete — Tamil audit pending**
+- Tamil audit: **PASSED** — [`../notes/part-006-tamil-audit.md`](../notes/part-006-tamil-audit.md)
+- split state: **`part-tamil-audit-passed` — assembled Tamil pending**
 
 The derivative boundary at scan 245→246 is provenance only. Likewise, scan 294 is only the endpoint of this access derivative, not the ending of the novel.
 
@@ -91,21 +92,25 @@ This rule is prospective; scans 246–279 are not reopened solely to retrofit it
 - chapter 33 begins scan **288 / printed 284** and continues through scan **294 / printed 290**;
 - scan 294 is an access-derivative endpoint only; chapter 33 and the novel continue beyond the material currently supplied.
 
-## Current continuity / structural findings
+## Tamil-audit continuity findings
 
-Scans **280–294** are fully processed under the Gemini-lexical/native-structure policy. Important page-boundary continuities include:
+The Part-006 Tamil audit passed all mapped continuity and structure checks. Important joins include:
 
-- 282→283: `நின்றான்` / `சிறிது நேரம்.` — sentence continuation;
+- 245→246: `இருக்கவே` / `இருக்கிறாள் பரிமளா, ...`;
+- 261→262: `விடிந்த` / `தும்`;
+- 273→274: `மறு` / `படியும்`;
+- 277→278: `விட` / `லாமென்று`;
+- 279→280: `அதிபதி` / `யாக`;
+- 282→283: `நின்றான்` / `சிறிது நேரம்.`;
 - 284→285: open dialogue `முடியுமா` / `என்று யோசனை செய்கிறேன்`;
-- 285→286: `பரி` / `மளாவையும்` — physical split inside `பரிமளாவையும்`;
-- 287→288: `எப்படியா` / `வது` — physical split inside `எப்படியாவது`;
-- 289→290: `பட்டுக்` / `கோட்டை` — place-name continuity across the page boundary;
-- 291→292: `காப்` / `பாத்துங்க!` — physical split inside `காப்பாத்துங்க!`;
-- 292→293: `ஓடி` / `விட்டான்.` — sentence continuation;
-- 293→294: `படுகுழியொன்` / `றில்` — physical split inside `படுகுழியொன்றில்`;
-- scan 294 ends at open `‘லாக்` with no source closing punctuation or ending marker.
+- 285→286: `பரி` / `மளாவையும்`;
+- 287→288: `எப்படியா` / `வது`;
+- 289→290: `பட்டுக்` / `கோட்டை`;
+- 291→292: `காப்` / `பாத்துங்க!`;
+- 292→293: `ஓடி` / `விட்டான்.`;
+- 293→294: `படுகுழியொன்` / `றில்`.
 
-No unresolved Gemini lexical omission remains in Part 006.
+No unresolved Gemini lexical omission remains in Part 006. Scan 294 ends at open `‘லாக்` with no source closing punctuation or ending marker.
 
 ## Fidelity records
 
@@ -119,4 +124,4 @@ No unresolved Gemini lexical omission remains in Part 006.
 
 ## Exact next activity
 
-Run the **Part-006 Tamil audit** across scans **246–294**. Verify 49/49 canonical coverage, page-boundary continuity, chapter transitions, scan-280-onward Gemini lexical preservation, structural fidelity, and the open derivative endpoint at scan 294. Do not begin assembled Tamil or English work until that audit passes.
+Build the **Part-006 assembled Tamil reading layer from audited canonical pages only**: extend `27-chapter-27.md` through scan 247, create / populate chapters 28–33 through scan 294, preserve source-page provenance and verified joins, and leave chapter 33 open at `‘லாக்`. Do not begin English translation until the assembled Tamil split-level check passes.
