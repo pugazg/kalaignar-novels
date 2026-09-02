@@ -1,6 +1,6 @@
 # Tamil / split-part audit — புதையல்
 
-Status: **IN PROGRESS — Parts 001–006 part-complete; Part 007 Tamil audit + assembled-Tamil check PASSED; controlled English next**
+Status: **IN PROGRESS — Parts 001–006 part-complete; Part 007 Tamil audit + assembled-Tamil check + controlled-English source check PASSED; bilingual review next**
 
 Source: `TVA_BOK_0064097_புதையல்.pdf`
 
@@ -26,11 +26,11 @@ This does not authorize source-correction of any other supplied lexical differen
 | 004 | 148–196 | part-complete |
 | 005 | 197–245 | part-complete with source-damage qualification |
 | 006 | 246–294 | part-complete |
-| 007 | 295–343 | **Tamil audit + assembled-Tamil check PASSED; controlled English pending** |
+| 007 | 295–343 | **Tamil audit + assembled-Tamil check + controlled-English source check PASSED; bilingual review pending** |
 
 The seven physically damaged Part-005 records **215–219 and 223–224** remain `needs-review` by explicit source-damage qualification.
 
-## Part 007 — Tamil / assembly result
+## Part 007 — current split result
 
 Derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 
@@ -43,12 +43,15 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 - not-started: **0**
 - Tamil audit: **PASSED** — [`notes/part-007-tamil-audit.md`](notes/part-007-tamil-audit.md)
 - assembled Tamil consistency check: **PASSED** — [`notes/part-007-assembled-tamil-check.md`](notes/part-007-assembled-tamil-check.md)
+- controlled English source check: **PASSED** — [`translations/en/PART_007_ENGLISH_CHECK.md`](translations/en/PART_007_ENGLISH_CHECK.md)
 - assembled Tamil coverage: **through scan 343 / printed 339**
-- state: **`assembled-tamil-checked / controlled-English-next`**
+- source-checked English coverage: **through scan 343 / printed 339**
+- bilingual review: **pending**
+- state: **`english-source-checked / bilingual-review-next`**
 
-### Structural findings preserved in assembled Tamil
+### Structural / translation findings through scan 343
 
-- Part 006→007: `‘லாக்` + `அப்’பில்` → **`‘லாக் அப்’பில்`**;
+- Part 006→007: `‘லாக்` + `அப்’பில்` → **`‘லாக் அப்’பில்`**, continuously translated as **lock-up**;
 - chapter 34 opens scan 297;
 - chapter 35 opens scan 307;
 - chapter 36 opens scan 317;
@@ -59,8 +62,10 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 - scan 330 contains a four-star internal transition and closes chapter 37 at the foot rule;
 - chapter 38 opens scan 331;
 - chapter 39 opens scan 340;
-- scan 343 ends open at `அதிர்ஷ்`, so the derivative is not a chapter/novel ending;
-- scan 343 retains baseline `అది` despite native Tamil `அது`, because no source-correction authorization was given for that supplied lexical form.
+- scan 343 ends open at `அதிர்ஷ்`; source-checked English ends correspondingly inside `luc`;
+- scan 343 retains baseline `అది` despite native Tamil `அது`; English renders contextual sense without changing Tamil.
+
+The English source check also records controlled handling of source-specific terms and two English-layer corrections: Chapter 38 **“Of this house!”** and the Chapter-39 Saibu alms recipient.
 
 ## Aggregate canonical state
 
@@ -69,9 +74,10 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 - needs-review: **7 — only Part 005 scans 215–219, 223–224**
 - partial: **0**
 - Parts 001–006: **part-complete**
-- Part 007: **Tamil audit + assembled-Tamil check PASSED**
+- Part 007: **English source check PASSED; bilingual review pending**
 - assembled Tamil: part-reviewed continuously through scan **343**
-- source-checked / bilingual-reviewed English: through scan **294**
+- source-checked English: continuously through scan **343**
+- bilingual-reviewed English: through scan **294**
 - physically received source coverage: through scan **343 / printed 339**
 
 ## Whole-work gate
@@ -80,4 +86,4 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 
 ## Exact next activity
 
-Perform the **Part-007 controlled English translation and source check for scans 295–343** from the checked assembled Tamil layer. Continue Chapter 33, translate Chapters 34–39 with all source transitions preserved, and leave Chapter 39 open at the final `அதிர்ஷ்` fragment. Bilingual review follows only after the English source check passes.
+Run the **Part-007 bilingual review across scans 295–343**. Part 007 may become `part-complete` only after that review passes.
