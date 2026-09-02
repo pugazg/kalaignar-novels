@@ -4,9 +4,9 @@ layer: "english-translation"
 section_order: 33
 section_title: "Chapter 33"
 language: "en"
-source_scans: "288 (chapter-33 portion)-294"
-status: "source-checked-part-006-open-boundary"
-derived_from: "audited Tamil pages and checked sections/33-chapter-33.md"
+source_scans: "288 (chapter-33 portion)-297 (chapter-33 portion)"
+status: "draft-translated-through-part-007"
+derived_from: "audited Tamil pages and checked assembled sections/33-chapter-33.md"
 ---
 
 # 33
@@ -107,6 +107,38 @@ The Sub-Inspector found it difficult not to believe these details.
 
 “What did they say?”
 
-“They said nothing. They are maintaining silence. I too did not force them to answer anything. ‘Lock
+“They said nothing. They are maintaining silence. I too did not force them to answer anything. They are in the lock-up. We have not even filed the charge sheet yet!”
 
-<!-- PART 006 ENDS HERE: source scan 294 / printed 290. The Sub-Inspector's dialogue and chapter 33 remain open; no closing punctuation or ending is invented. -->
+<!-- Part 006→007 source split: scan 294 / printed 290 `‘லாக்` → scan 295 / printed 291 `அப்’பில்`; English reading is continuous as “lock-up”. -->
+
+“Ayyo, then release them! Release them and come with me. I will hand over the real murderer right now.”
+
+“All right! I will release them at once.”
+
+Durai and old Mayandi were released. Velliyambalam addressed Durai as though he had known him before. “What, brother! How did you get caught like this? If I had not come, that would have been the end of it!”
+
+Durai stood without replying.
+
+“What, Mayandi! You too got caught? What a pity!” Velliyambalam said, looking at the old man. Mayandi too stood with his head bowed, absorbed in thought.
+
+Velliyambalam took Durai and Mayandi aside and told Durai, “We will talk about everything later. First, you leave this place! You may have to appear as a witness in this case; that is all. Parimalam has been kept in a safe place. Come to Manora tomorrow night at twelve. I will hand Parimalam over to you there!”
+
+After sending them away, he returned to the Sub-Inspector and said, “We can leave, sir.” The Sub-Inspector took two or three police constables with him and set out with Ambalam.
+
+* * * *
+
+Parimalam sat in anguish at the thought that Dukkaram was about to fall into police hands. Was there no way to save him? A storm began to blow violently through her young heart.
+
+Her beloved in prison! Innocent Dukkaram caught in a spider's web! What way was there to free them both? The questions turned into arrows of pain and pierced her. She wept inwardly, thinking that no woman could ever have faced a stage so full of crisis and trial.
+
+“Some fellow—some helpless fool living a purposeless life! For his sake, should I sacrifice the man who regards me as dearer than life? So many happy dreams—so many plans for the future—must all of them be destroyed?” The question rose. Parimalam wept silently.
+
+“My beloved at least treats life as a mere straw. But this poor fellow treats life as though it were sweet sugarcane! What wrong has he done that deserves death? What do I gain by handing him over? I will get my lover—I will triumph in love! But should I not sacrifice love itself to save an innocent man's life?” Again the question pierced her.
+
+“Even if I hand Dukkaram over and save Durai, who knows what danger Velliyambalam may still be keeping in store for Durai?” Confusion surged within her.
+
+“Perhaps the charge against my beloved may not even be proved without proper witnesses. Even if there is testimony, he may receive only a prison term. After a few years there will still be a way for me to join him. But if Dukkaram is caught, his very life will be cut short!”
+
+Parimalam struggled within herself—should she save the helpless man? Should she sacrifice her love? Or should she betray her lover?
+
+She had to choose one of those three very soon. In the end she arrived at the decision to sacrifice her love.
