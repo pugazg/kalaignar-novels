@@ -47,7 +47,7 @@ The kudukuduppai fortune-teller came inside with a smiling face and sat where Am
 
 “Going to be caught? He has already been caught!”
 
-“Not the man Ayya means—the man Saibu means. A Chandalan old enough to die! He is going to go crying ‘Ayyo,’ Amma Bhagavathi says! Even at dawn Saibu said it. With your golden hand, toss Saibu a torn cloth or skirt, saying ‘Here!’, Maharaja—good times are being born!”
+“Not the man Ayya means—the man Saibu means. A Chandalan old enough to die! He is going to go crying ‘Ayyo,’ Amma Bhagavathi says! Even at dawn Saibu said it. With your golden hand, toss Saibu a torn cloth or skirt in his face, saying ‘Here!’, Maharaja—good times are being born!”
 
 “An old man is thinking treachery against me? Here, Saibu! Think calmly and tell me. Who is he?”
 
