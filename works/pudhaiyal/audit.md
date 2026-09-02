@@ -1,6 +1,6 @@
 # Tamil / split-part audit — புதையல்
 
-Status: **IN PROGRESS — Parts 001–006 part-complete; Part 007 Tamil audit PASSED; assembled Tamil next**
+Status: **IN PROGRESS — Parts 001–006 part-complete; Part 007 Tamil audit + assembled-Tamil check PASSED; controlled English next**
 
 Source: `TVA_BOK_0064097_புதையல்.pdf`
 
@@ -26,11 +26,11 @@ This does not authorize source-correction of any other supplied lexical differen
 | 004 | 148–196 | part-complete |
 | 005 | 197–245 | part-complete with source-damage qualification |
 | 006 | 246–294 | part-complete |
-| 007 | 295–343 | **Tamil audit PASSED; assembled Tamil pending** |
+| 007 | 295–343 | **Tamil audit + assembled-Tamil check PASSED; controlled English pending** |
 
 The seven physically damaged Part-005 records **215–219 and 223–224** remain `needs-review` by explicit source-damage qualification.
 
-## Part 007 — Tamil audit result
+## Part 007 — Tamil / assembly result
 
 Derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 
@@ -42,23 +42,25 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 - Part-007 needs-review: **0**
 - not-started: **0**
 - Tamil audit: **PASSED** — [`notes/part-007-tamil-audit.md`](notes/part-007-tamil-audit.md)
-- state: **`tamil-audit-passed / assembled-tamil-next`**
+- assembled Tamil consistency check: **PASSED** — [`notes/part-007-assembled-tamil-check.md`](notes/part-007-assembled-tamil-check.md)
+- assembled Tamil coverage: **through scan 343 / printed 339**
+- state: **`assembled-tamil-checked / controlled-English-next`**
 
-### Structural findings audited through scan 343
+### Structural findings preserved in assembled Tamil
 
 - Part 006→007: `‘லாக்` + `அப்’பில்` → **`‘லாக் அப்’பில்`**;
 - chapter 34 opens scan 297;
 - chapter 35 opens scan 307;
 - chapter 36 opens scan 317;
-- scan 322 contains a native four-star transition; unchanged `விடியற்காலை...` baseline text was structurally repositioned after the overnight dialogue;
+- scan 319 contains a four-star memory transition;
+- scan 322 contains another native four-star transition; unchanged `விடியற்காலை...` baseline text remains structurally repositioned after the overnight dialogue;
 - chapter 37 opens scan 324;
+- scan 326 contains a four-star internal transition;
 - scan 330 contains a four-star internal transition and closes chapter 37 at the foot rule;
 - chapter 38 opens scan 331;
 - chapter 39 opens scan 340;
 - scan 343 ends open at `அதிர்ஷ்`, so the derivative is not a chapter/novel ending;
 - scan 343 retains baseline `అది` despite native Tamil `அது`, because no source-correction authorization was given for that supplied lexical form.
-
-Latest fidelity record: [`notes/visual-fidelity-scans-318-343.md`](notes/visual-fidelity-scans-318-343.md).
 
 ## Aggregate canonical state
 
@@ -67,8 +69,8 @@ Latest fidelity record: [`notes/visual-fidelity-scans-318-343.md`](notes/visual-
 - needs-review: **7 — only Part 005 scans 215–219, 223–224**
 - partial: **0**
 - Parts 001–006: **part-complete**
-- Part 007: **Tamil audit passed**
-- assembled Tamil: part-reviewed through scan **294**
+- Part 007: **Tamil audit + assembled-Tamil check PASSED**
+- assembled Tamil: part-reviewed continuously through scan **343**
 - source-checked / bilingual-reviewed English: through scan **294**
 - physically received source coverage: through scan **343 / printed 339**
 
@@ -78,4 +80,4 @@ Latest fidelity record: [`notes/visual-fidelity-scans-318-343.md`](notes/visual-
 
 ## Exact next activity
 
-Build and consistency-check the **Part-007 assembled Tamil reading layer across scans 295–343** from audited canonical pages. Preserve all verified cross-page joins, internal transitions and chapter boundaries, and leave Chapter 39 open at `அதிர்ஷ்`. English remains blocked until the assembled-Tamil check passes.
+Perform the **Part-007 controlled English translation and source check for scans 295–343** from the checked assembled Tamil layer. Continue Chapter 33, translate Chapters 34–39 with all source transitions preserved, and leave Chapter 39 open at the final `அதிர்ஷ்` fragment. Bilingual review follows only after the English source check passes.
