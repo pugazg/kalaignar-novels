@@ -46,7 +46,7 @@ Therefore the verified cross-part continuation is:
 
 This proves that Part 007 continues the same Chapter-33 dialogue. No new sentence, paragraph, scene or chapter boundary is created by the derivative split.
 
-## Canonical / structural progress through scan 302
+## Canonical / structural progress through scan 307
 
 - **scan 295 / printed 291** — canonical + verified; chapter 33 continues; source-printed `* * * *` internal transition at foot;
 - **scan 296 / printed 292** — canonical + verified; chapter 33 continues after the transition;
@@ -54,14 +54,20 @@ This proves that Part 007 continues the same Chapter-33 dialogue. No new sentenc
 - **scan 298 / printed 294** — canonical + verified; continues `அவனை அனுதாபத்தோடு` → `தொட்டுத் தூக்கிடும் போதும்...`;
 - **scan 299 / printed 295** — canonical + verified; chapter 34 dialogue continues;
 - **scan 300 / printed 296** — canonical + verified; page ends inside open quote at `ஏன் ஓடச்`;
-- **scan 301 / printed 297** — canonical + verified; begins `சொல்லுகிறாய்?`, continues the open question; ends `பரிமளா திருமணத்தை`;
-- **scan 302 / printed 298** — canonical + verified; begins `முடித்துவிட வேண்டும்.`; ends inside physical baseline word split `பெற்`.
+- **scan 301 / printed 297** — canonical + verified; begins `சொல்லுகிறாய்?`; ends `பரிமளா திருமணத்தை`;
+- **scan 302 / printed 298** — canonical + verified; begins `முடித்துவிட வேண்டும்.`; ends inside `பெற்றான்` at physical `பெற்`;
+- **scan 303 / printed 299** — canonical + verified; begins `றான்`, completing `பெற்றான்`;
+- **scan 304 / printed 300** — canonical `needs-review`; source-visible lexical `நீ` is omitted by `p7.md` and was not silently inserted;
+- **scan 305 / printed 301** — canonical `needs-review`; source-visible lexical `என்ன` is omitted by `p7.md` and was not silently inserted;
+- **scan 306 / printed 302** — canonical + verified; chapter 34 closes with source horizontal rule;
+- **scan 307 / printed 303** — canonical + verified; chapter 35 begins under heading `35`; page ends open after `அவனை ஆட்டி வைத்த ‘மிருகம்’`.
 
-Canonical count: **8 / 49**.  
-Part-007 needs-review: **0**.  
-Not-started: **41 — scans 303–343**.
+Canonical count: **13 / 49**.  
+Verified: **11 / 49**.  
+Part-007 needs-review: **2 — scans 304–305**.  
+Not-started: **36 — scans 308–343**.
 
-Fidelity record for the latest batch: [`visual-fidelity-scans-298-302.md`](visual-fidelity-scans-298-302.md).
+Latest fidelity record: [`visual-fidelity-scans-303-307.md`](visual-fidelity-scans-303-307.md).
 
 ## Part-007 endpoint spot check
 
@@ -75,9 +81,10 @@ Therefore Part 007 is also an **open access-derivative boundary**, not the endin
 - physical/printed mapping: **resolved — scans 295–343 / printed 291–339**;
 - lexical baseline: **resolved — complete `p7.md` block available**;
 - Part-006→007 opening continuity: **VERIFIED**;
-- canonical / structural reconciliation: **active through scan 302**;
+- canonical / structural reconciliation: **active through scan 307**;
+- unresolved Part-007 lexical omissions: **scans 304–305**;
 - Part-007 Tamil audit / assembly / English / bilingual gates: **not yet eligible**.
 
 ## Exact next activity
 
-Process scan **303 / printed 299**, chapter 34, using `p7.md` as lexical authority and native Part-007 page 9 as structural authority. First verify the physical `பெற்` + `றான்` → `பெற்றான்` continuation, then proceed sequentially through the derivative.
+Process scan **308 / printed 304**, chapter 35, using `p7.md` as lexical authority and native Part-007 page 14 as structural authority. Verify `‘மிருகம்’` → `பதுங்கி விட்டது...`, then proceed sequentially through the derivative. Do not pass the Part-007 Tamil audit until scans 304–305 receive explicit lexical-omission disposition.
