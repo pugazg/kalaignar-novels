@@ -25,7 +25,7 @@ From scan **280 onward**, user-supplied Gemini transcription controls lexical wo
 
 - Parts 001–006: part-complete
 - Part 007 scans 295–343: **part-complete**
-- Part 008 scans 344–392: **Tamil audit PASSED + assembled Tamil PASSED / controlled English next**
+- Part 008 scans 344–392: **Tamil audit PASSED + assembled Tamil PASSED + controlled English draft COMPLETE / source check next**
 
 Part-005 source-damage qualification remains on scans **215–219 and 223–224**.
 
@@ -34,34 +34,30 @@ Part-005 source-damage qualification remains on scans **215–219 and 223–224*
 Derivative: `TVA_BOK_0064097_புதையல்_part_008_pages_344-392.pdf`
 
 - 49 pages / scans **344–392** / printed **340–388**
-- size **54,567,816 bytes**
-- SHA-256 `717d3ab75eb970313062e1e61517d442cffa188f2fd8cadb8f75263b5e9a8852`
-- `p8.md` SHA-256 `aad52bdfeae873459d561a52826f4787fd04f72ac1c27886212a1942d8e89ca2`
 - canonical **49 / 49**
 - verified **49 / 49**
 - Part-008 needs-review **0**
 - Tamil audit **PASSED**
 - assembled Tamil audit **PASSED**
-- page map `works/pudhaiyal/indexes/part-008-page-map.md`
-- Tamil audit `works/pudhaiyal/notes/part-008-tamil-audit.md`
-- assembled Tamil audit `works/pudhaiyal/notes/part-008-assembled-tamil-audit.md`
+- controlled English draft **COMPLETE**
+- controlled English source check **PENDING**
+- bilingual review **BLOCKED until source check passes**
 
 ### User-authorized scan-384 restoration
 
-Native scan **384 / printed 380** contains complete phrase **`தகட்டில் இருக்கிறபடி`** between `எங்கும் ஓடிவிடாமல்!` and `அவளுக்கு ஒரு மாப்பிள்ளை...`. The controlling `p8.md` baseline omits it.
+Native scan **384 / printed 380** contains complete phrase **`தகட்டில் இருக்கிறபடி`**, absent from `p8.md`. The user explicitly authorized its restoration on 2026-09-02. English Chapter 44 represents it exactly once as **“as the plate says.”** This is a narrow restoration only.
 
-On 2026-09-02 the user explicitly authorized insertion of **`தகட்டில் இருக்கிறபடி`**. It is restored narrowly in canonical scan 384, which is `verified`. This does not broaden source-correction authority beyond that documented omission.
+### Part-008 English inventory
 
-### Assembled Tamil result
+- `works/pudhaiyal/translations/en/sections/checkpoints/part-008-chapter-39-continuation.md` — scans **344–347**, completing Part-007 English `luc` + Part-008 `k` as **luck** and closing Chapter 39;
+- `sections/40-chapter-40.md` — draft translated;
+- `sections/41-chapter-41.md` — draft translated;
+- `sections/42-chapter-42.md` — draft translated;
+- `sections/43-chapter-43.md` — draft translated;
+- `sections/44-chapter-44.md` — draft translated, including authorized scan-384 restoration;
+- `sections/45-chapter-45.md` — draft translated through scan 392 and deliberately open at English **“our”**, corresponding to Tamil `நமது`.
 
-- Chapter 39 extends through scan 347 and joins Part 007 `அதிர்ஷ்` + Part 008 `டம்` as **`அதிர்ஷ்டம்`**;
-- assembled Chapters **40–45** are complete through the received source endpoint;
-- Chapters 43 and 44 preserve the audited native four-star transitions;
-- Chapter 44 includes `தகட்டில் இருக்கிறபடி` exactly once;
-- scan 381 retains the structure-only paragraph relocation;
-- scan 390 retains structure-only order `அதெல்லாம் எதற்கு வீண் கதை!`;
-- Chapter 45 remains open at scan 392 **`நமது`**;
-- Part-008 assembled-Tamil consistency check **PASSED**.
+The Part-007 Chapter-39 file remains untouched as the reviewed Part-007 witness ending at `luc`; the Part-008 checkpoint follows the established cross-split translation convention and begins with the completing `k`.
 
 ## Aggregate durable state
 
@@ -70,10 +66,11 @@ On 2026-09-02 the user explicitly authorized insertion of **`தகட்டி�
 - needs-review: **7 — only Part 005 scans 215–219 and 223–224**
 - partial: **0**
 - assembled Tamil: continuous through **scan 392 / printed 388**
+- controlled English draft: continuous through **scan 392 / printed 388**
 - source-checked/bilingual-reviewed English: through scan **343**
 - received source coverage: through scan **392 / printed 388**
 - whole-work gates: not eligible
 
 ## Exact next activity
 
-Begin **controlled English translation for Part 008 scans 344–392** from assembled Tamil Chapters **39–45**. Preserve every established structural transition and leave the Chapter-45 English text open at the source endpoint corresponding to `நமது`. Do not infer any continuation beyond scan 392.
+Run the **Part-008 controlled English source check across scans 344–392**. Compare the English checkpoint and Chapters 40–45 against the audited canonical/assembled Tamil for complete semantic coverage, dialogue order, names/terms, humour, violence, romance, native internal transitions, the authorized scan-384 restoration and the open scan-392 endpoint. Correct English-only fidelity issues as needed. Only after that source check passes may the Part-008 bilingual review begin.
