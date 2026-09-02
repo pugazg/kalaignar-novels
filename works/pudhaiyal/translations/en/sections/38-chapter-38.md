@@ -5,7 +5,7 @@ section_order: 38
 section_title: "Chapter 38"
 language: "en"
 source_scans: "331-340 (chapter-38 portion)"
-status: "draft-translated"
+status: "source-checked-part-007"
 derived_from: "audited Tamil pages and checked assembled sections/38-chapter-38.md"
 ---
 
