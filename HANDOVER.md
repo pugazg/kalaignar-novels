@@ -60,30 +60,36 @@ Source: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 - Part-007 needs-review: **0**
 - Tamil audit: **PASSED**
 - assembled Tamil consistency check: **PASSED**
+- controlled English source check: **PASSED**
 - assembled Tamil: **through scan 343 / printed 339**
-- state: **`assembled-tamil-checked / controlled-English-next`**
+- source-checked English: **through scan 343 / printed 339**
+- bilingual review: **pending**
+- state: **`english-source-checked / bilingual-review-next`**
 - page map: `works/pudhaiyal/indexes/part-007-page-map.md`
 - latest fidelity: `works/pudhaiyal/notes/visual-fidelity-scans-318-343.md`
 - Tamil audit record: `works/pudhaiyal/notes/part-007-tamil-audit.md`
 - assembled check: `works/pudhaiyal/notes/part-007-assembled-tamil-check.md`
+- English source check: `works/pudhaiyal/translations/en/PART_007_ENGLISH_CHECK.md`
 
-### Verified assembled progression through scan 343
+### Verified progression through scan 343
 
-- scan 294→295: `‘லாக்` + `அப்’பில்` → **`‘லாக் அப்’பில்`** across the Part-006→007 derivative split;
+- scan 294→295: `‘லாக்` + `அப்’பில்` → **`‘லாக் அப்’பில்`**, translated continuously as **lock-up**;
 - Chapter 33 continues through scan 297, where it closes before Chapter 34 opens;
 - chapter 34 opens scan 297 and closes scan 306;
 - chapter 35 opens scan 307 and closes scan 317;
 - chapter 36 opens scan 317 and closes scan 324;
-- scan 319 contains the first Chapter-36 four-star memory transition;
-- scan 322 contains the second Chapter-36 four-star transition; `விடியற்காலை...` remains structurally repositioned after the overnight dialogue without lexical alteration;
+- scan 319 contains a Chapter-36 four-star memory transition;
+- scan 322 contains another four-star transition; `விடியற்காலை...` remains structurally repositioned after the overnight dialogue without lexical alteration;
 - chapter 37 opens scan 324;
 - scan 326 contains a four-star internal transition;
-- scan 330 contains another four-star internal transition and closes chapter 37 at the foot rule;
+- scan 330 contains another four-star transition and closes chapter 37 at the foot rule;
 - chapter 38 opens scan 331 and closes scan 340;
 - chapter 39 opens scan 340 and remains open at scan 343;
-- scan 343 ends at `அதிர்ஷ்`, with no closing quotation or sentence punctuation.
+- scan 343 ends at Tamil `அதிர்ஷ்`, with no closing quotation or sentence punctuation; English stops correspondingly inside **luck** at `luc`.
 
-Part 007 is therefore **Tamil-audited and assembled-Tamil checked, but not yet translated/source-checked/bilingual-reviewed**. Its derivative endpoint is open and is not a novel ending. Source beyond scan 343 remains required for whole-work completion.
+The Part-007 English source check preserves the three user-authorized omission restorations, all checked internal transitions and conservative handling of source-specific terminology. It also records two English-layer fidelity corrections without altering Tamil: Chapter 38 `இந்த வீடுதான்!` → **“Of this house!”**, and the Chapter-39 alms request correctly directs the torn cloth/skirt to **Saibu**.
+
+Part 007 is therefore **Tamil-audited, assembled-Tamil checked and English source-checked, but not yet bilingual-reviewed / part-complete**. Its derivative endpoint is open and is not a novel ending. Source beyond scan 343 remains required for whole-work completion.
 
 ## Aggregate durable state
 
@@ -92,12 +98,13 @@ Part 007 is therefore **Tamil-audited and assembled-Tamil checked, but not yet t
 - needs-review: **7 — only Part 005 scans 215–219, 223–224**
 - partial: **0**
 - Parts 001–006: **part-complete**
-- Part 007: **Tamil audit + assembled-Tamil check PASSED**
+- Part 007: **English source check PASSED; bilingual review pending**
 - assembled Tamil: part-reviewed continuously through scan **343**
-- source-checked / bilingual-reviewed English: through scan **294**
+- source-checked English: continuously through scan **343**
+- bilingual-reviewed English: through scan **294**
 - received source coverage: through scan **343 / printed 339**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Perform the **Part-007 controlled English translation and source check across scans 295–343** from the checked assembled Tamil layer. Continue Chapter 33 across the Part-006 boundary, translate Chapters 34–39 while preserving internal transitions and source-specific oddities, and leave Chapter 39 open where the Tamil stops at `அதிர்ஷ்`. After English source checking passes, run the Part-007 bilingual review before marking the split `part-complete`.
+Run the **Part-007 bilingual review across scans 295–343**, comparing source-checked English with canonical/assembled Tamil for semantic fidelity, dialogue coverage, names/terms, humour, violence, romance, rhetorical force, chapter/internal transitions and the deliberately open scan-343 endpoint. If it passes, mark Part 007 `part-complete`; only then move to obtaining/verifying source beyond scan 343.
