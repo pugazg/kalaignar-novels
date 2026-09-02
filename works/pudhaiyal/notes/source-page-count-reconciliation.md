@@ -34,7 +34,7 @@ Received access derivatives:
 3. Part 003 — scans **99–147** — **part-complete**
 4. Part 004 — scans **148–196** — **part-complete**
 5. Part 005 — scans **197–245** — **part-complete with explicit source-damage qualification**
-6. Part 006 — scans **246–294 / printed 242–290** — **Tamil audit PASSED + assembled Tamil PASSED; controlled English next**
+6. Part 006 — scans **246–294 / printed 242–290** — **Tamil audit + assembled Tamil + controlled English source check PASSED; bilingual review pending**
    - physical pages mapped: **49 / 49**
    - canonical records created: **49 / 49**
    - verified / structurally completed: **49 / 49**
@@ -42,35 +42,30 @@ Received access derivatives:
    - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
    - Tamil audit record: [`part-006-tamil-audit.md`](part-006-tamil-audit.md)
    - assembled Tamil check: [`part-006-assembled-tamil-check.md`](part-006-assembled-tamil-check.md)
+   - English source-check record: [`../translations/en/PART_006_ENGLISH_CHECK.md`](../translations/en/PART_006_ENGLISH_CHECK.md)
 
 No split is committed to GitHub.
 
-## Part-006 completed Tamil checkpoints
+## Part-006 completed checkpoints
 
-The Part-006 Tamil audit passed:
+The Part-006 Tamil audit passed 49/49 coverage, page-map/canonical agreement, all required page joins, chapter/internal-transition structure, scan-280-onward Gemini lexical preservation, native structural fidelity and open endpoint handling at scan 294.
 
-- 49/49 physical-page and canonical coverage;
-- page-map/canonical agreement;
-- Part 005→006 opening continuity;
-- page-boundary joins and chapter transitions;
-- scan-280-onward Gemini lexical preservation;
-- native structural fidelity;
-- no unresolved Gemini lexical omission;
-- open endpoint handling at scan 294.
+The assembled Tamil split-level check passed and established a continuous reading layer through scan 294.
 
-The assembled Tamil split-level check also passed:
+The controlled English source check also passed:
 
-- chapter 27 is completed through scan 247 without creating a false split boundary;
-- chapters 28–33 are assembled from audited canonical records only;
-- the source-printed four-star transition on scan 251 is retained;
-- real chapter transitions are preserved at scans 254, 262, 271, 278 and 288;
-- verified physical-page joins are resolved only in the reading layer with reversible provenance;
-- scans 280–294 remain lexically controlled by Gemini;
-- chapter 33 remains open at scan 294.
+- chapter 27 was extended through its close on scan 247;
+- chapters 28–33 were translated through scan 294;
+- the scan-251 four-star internal transition and real chapter boundaries were retained;
+- all audited physical-page joins remain continuous;
+- scan-280-onward Gemini lexical authority in the controlling Tamil was respected;
+- one initially invented endpoint dash was removed from English;
+- one English-only grammar slip was corrected;
+- no Tamil lexical text was changed.
 
 Chapter 32 closes and chapter 33 begins on scan **288 / printed 284** via the source-printed transition.
 
-Scan **294 / printed 290** ends at open `‘லாக்` inside dialogue, with no closing punctuation, chapter close or work-ending marker. Part 006's endpoint is therefore only an access-derivative boundary and cannot be treated as the novel's ending.
+Scan **294 / printed 290** ends at open Tamil `‘லாக்` / English `‘Lock` inside dialogue, with no closing punctuation, chapter close or work-ending marker. Part 006's endpoint is therefore only an access-derivative boundary and cannot be treated as the novel's ending.
 
 ## Current textual / derivative state
 
@@ -81,9 +76,10 @@ Scan **294 / printed 290** ends at open `‘லாக்` inside dialogue, with 
 - clean contiguous fully verified range: **1–214**
 - later completed pages: through scan **294**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **`assembled-part-checked`; controlled English next**
+- Part 006: **English `source-checked`; bilingual review pending**
 - assembled Tamil: **part-reviewed continuously through scan 294**
-- controlled English / bilingual review: **part-reviewed continuously through scan 245 only**
+- source-checked English: **continuous through scan 294**
+- bilingual-reviewed / part-complete English: **continuous through scan 245**
 - source scans physically mapped from received derivatives: **through scan 294**
 - full-source manifest: **still incomplete beyond scan 294**
 
@@ -91,17 +87,16 @@ Scan **294 / printed 290** ends at open `‘லாக்` inside dialogue, with 
 
 Still required:
 
-1. complete the **Part-006 controlled English translation** from the checked assembled Tamil layer through scan 294;
-2. source-check the Part-006 English against canonical Tamil and run the Part-006 bilingual review before calling Part 006 `part-complete`;
-3. obtain later source splits beyond scan 294;
-4. process every later source scan;
-5. identify true final text / back matter / closing leaves;
-6. determine exact original PDF scan/page-object count;
-7. calculate the exact original full-source SHA-256 when byte-level access is available;
-8. only after complete-source coverage, run final whole-work Tamil and bilingual audits and release-readiness checks.
+1. run the **Part-006 bilingual review** across scans 246–294 and, if it passes, mark Part 006 `part-complete`;
+2. obtain later source splits beyond scan 294;
+3. process every later source scan;
+4. identify true final text / back matter / closing leaves;
+5. determine exact original PDF scan/page-object count;
+6. calculate the exact original full-source SHA-256 when byte-level access is available;
+7. only after complete-source coverage, run final whole-work Tamil and bilingual audits and release-readiness checks.
 
 Do not infer any of those values from the TDL printed-page count.
 
 ## Exact next activity
 
-Begin the **Part-006 controlled English translation** from the checked assembled Tamil layer: extend chapter 27 through its close on scan 247, translate chapters 28–33 through scan 294, preserve the scan-251 internal transition and real chapter boundaries, and leave chapter 33 open at `‘லாக்`. Do not start the Part-006 bilingual review until the English translation is complete and source-checked.
+Run the **Part-006 bilingual review for scans 246–294** against audited Tamil and source-checked English. Preserve all source/page joins, chapter/internal-transition structure, the scan-280-onward authority rule and the open scan-294 endpoint. Only after a passing review may Part 006 be called `part-complete`.
