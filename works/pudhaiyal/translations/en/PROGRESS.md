@@ -56,14 +56,14 @@
 | Chapter 38 | 331–340 portion | assembled / Part-007 check PASSED | **bilingual-reviewed after fidelity correction** |
 | Chapter 39, Part 007 portion | 340 portion–343 | assembled / open derivative boundary | **bilingual-reviewed / open derivative boundary after fidelity correction** |
 | **Part 007 checkpoint** | **295–343** | **Tamil audit + assembled consistency check PASSED** | **controlled English source check + bilingual review PASSED / part-complete** |
-| Chapter 39, Part 008 continuation | 344–347 | assembled / Part-008 check PASSED | **draft-translated through chapter close** |
-| Chapter 40 | 348–355 portion | assembled / Part-008 check PASSED | **draft-translated** |
-| Chapter 41 | 355 portion–362 portion | assembled / Part-008 check PASSED | **draft-translated** |
-| Chapter 42 | 362 portion–369 portion | assembled / Part-008 check PASSED | **draft-translated** |
-| Chapter 43 | 369 portion–376 portion | assembled / Part-008 check PASSED | **draft-translated** |
-| Chapter 44 | 376 portion–387 portion | assembled / Part-008 check PASSED | **draft-translated; includes authorized scan-384 restoration as “as the plate says”** |
-| Chapter 45 | 387 portion–392 | assembled / Part-008 open boundary | **draft-translated / open derivative boundary at “our”** |
-| **Part 008 checkpoint** | **344–392** | **Tamil audit + assembled consistency check PASSED** | **controlled English draft complete / source check pending** |
+| Chapter 39, Part 008 continuation | 344–347 | assembled / Part-008 check PASSED | **source-checked through chapter close** |
+| Chapter 40 | 348–355 portion | assembled / Part-008 check PASSED | **source-checked** |
+| Chapter 41 | 355 portion–362 portion | assembled / Part-008 check PASSED | **source-checked** |
+| Chapter 42 | 362 portion–369 portion | assembled / Part-008 check PASSED | **source-checked after fidelity correction** |
+| Chapter 43 | 369 portion–376 portion | assembled / Part-008 check PASSED | **source-checked** |
+| Chapter 44 | 376 portion–387 portion | assembled / Part-008 check PASSED | **source-checked after fidelity corrections; includes authorized scan-384 restoration as “as the plate says”** |
+| Chapter 45 | 387 portion–392 | assembled / Part-008 open boundary | **source-checked / open derivative boundary at “our”** |
+| **Part 008 checkpoint** | **344–392** | **Tamil audit + assembled consistency check PASSED** | **controlled English source check PASSED / bilingual review next** |
 
 Review/check records:
 
@@ -76,19 +76,22 @@ Review/check records:
 - [`PART_006_REVIEW.md`](PART_006_REVIEW.md)
 - [`PART_007_ENGLISH_CHECK.md`](PART_007_ENGLISH_CHECK.md) — controlled English source check **PASSED**
 - [`PART_007_REVIEW.md`](PART_007_REVIEW.md) — bilingual review **PASSED / Part 007 part-complete**
+- [`PART_008_ENGLISH_CHECK.md`](PART_008_ENGLISH_CHECK.md) — controlled English source check **PASSED**
 
-Part-008 English draft inventory:
+Part-008 source-checked inventory:
 
 - `sections/checkpoints/part-008-chapter-39-continuation.md` — completes Part-007 `luc` as `luck` and closes Chapter 39 on scan 347;
-- `sections/40-chapter-40.md` through `sections/44-chapter-44.md` — complete chapter drafts;
-- `sections/45-chapter-45.md` — draft through scan 392, deliberately open at **“our”** corresponding to Tamil `நமது`.
+- `sections/40-chapter-40.md` through `sections/44-chapter-44.md` — source-checked;
+- `sections/45-chapter-45.md` — source-checked through scan 392, deliberately open at **“our”** corresponding to Tamil `நமது`.
 
-The Part-008 draft preserves the user-authorized scan-384 Tamil restoration `தகட்டில் இருக்கிறபடி` as **“as the plate says”** exactly once. It also preserves native four-star transitions through the checked assembled layer and does not infer text beyond scan 392.
+The Part-008 source check preserves the user-authorized scan-384 Tamil restoration `தகட்டில் இருக்கிறபடி` as **“as the plate says”** exactly once. It also preserves the native four-star transitions through the checked assembled layer, the scan-381 structure-only relocation, the scan-390 ordering, and does not infer text beyond scan 392.
 
-Continuous split-level **source-checked and bilingual-reviewed English remains through scans 1–343**. Controlled English **draft coverage now extends through scan 392 / printed 388**. The seven Part-005 damaged physical records — scans **215–219 and 223–224** — remain explicit source-damage qualifications and are not promoted to native verification by translation.
+English-only source-check corrections were confined to the Chapter-39 explicit `சாயபுக்கு` recipient, Chapter-42 kiss-reciprocity wording, and two Chapter-44 wording/typo corrections. No Tamil was changed.
+
+Continuous split-level **source-checked English now covers scans 1–392**. Continuous **bilingual-reviewed English remains through scans 1–343** pending the Part-008 bilingual review. The seven Part-005 damaged physical records — scans **215–219 and 223–224** — remain explicit source-damage qualifications and are not promoted to native verification by translation.
 
 Whole-work English status: **not verified**. Source beyond scan 392, the true ending/back matter and final whole-work bilingual review remain open.
 
 ## Exact next activity
 
-Run the **Part-008 controlled English source check across scans 344–392**, comparing the draft English checkpoint/chapter files against the audited canonical and assembled Tamil for complete coverage, semantic fidelity, dialogue order, humour, violence, romance, culturally specific terms, the authorized scan-384 restoration, native internal transitions and the open scan-392 endpoint. Do not begin bilingual review until that source check passes.
+Run the **Part-008 bilingual review across scans 344–392**, comparing the source-checked English with canonical/assembled Tamil for semantic fidelity, dialogue coverage, names/terms, humour, violence, romance, rhetorical force, chapter transitions, the authorized scan-384 restoration and the open scan-392 endpoint. Only after that review passes may Part 008 be marked `part-complete`.
