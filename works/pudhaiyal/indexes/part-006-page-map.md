@@ -8,19 +8,19 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - derivative file size: **57,056,182 bytes**
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - source/split PDF committed: **No**
-- canonical records created so far: **38 / 49 — scans 246–283**
-- verified / completed so far: **38**
+- canonical records created: **49 / 49 — scans 246–294**
+- verified / structurally completed: **49 / 49**
 - needs-review in Part 006: **0**
-- not-started: **11 — scans 284–294**
-- split state: **`in-progress`**
+- not-started: **0**
+- split state: **canonical/structural complete — Tamil audit pending**
 
-The derivative boundary at scan 245→246 is provenance only. Native source establishes the continuation `இருக்கவே` + `இருக்கிறாள் பரிமளா, ...`; no word, sentence or chapter boundary is created by the split.
+The derivative boundary at scan 245→246 is provenance only. Likewise, scan 294 is only the endpoint of this access derivative, not the ending of the novel.
 
 ## Prospective lexical / structural rule from scan 280
 
 Per the user's explicit instruction, from **scan 280 onward**:
 
-- **words, spellings, suffixes, lexical forms and lexical wording:** retain Gemini's supplied transcription;
+- **words, spellings, suffixes, lexical forms, lexical wording and supplied lexical spacing:** retain Gemini's supplied transcription;
 - **native scan controls:** headings, punctuation, quotation marks, long dashes, speaker-label spacing, paragraph structure, physical line/page breaks, separators, chapter/scene transitions and other structural findings;
 - do not replace a Gemini word because the scan appears to show another lexical form;
 - if Gemini appears to omit a lexical span, flag it rather than silently supplying source words.
@@ -45,39 +45,39 @@ This rule is prospective; scans 246–279 are not reopened solely to retrofit it
 | 259 | 255 | chapter 29 | verified | `../pages/0259-pudhaiyal.md` |
 | 260 | 256 | chapter 29 | verified | `../pages/0260-pudhaiyal.md`; ends `வெள்ளியம்பலம்` |
 | 261 | 257 | chapter 29 | verified | `../pages/0261-pudhaiyal.md`; begins `கேட்டு விட்டு`; ends `விடிந்த` |
-| 262 | 258 | chapter 29 closes / chapter 30 begins | verified | `../pages/0262-pudhaiyal.md`; begins `தும்`; chapter 30; ends `துக்காராமுக்கோ,` |
-| 263 | 259 | chapter 30 | verified | `../pages/0263-pudhaiyal.md`; begins `ஆனந்தம் தாங்கவில்லை.` |
+| 262 | 258 | chapter 29 closes / chapter 30 begins | verified | `../pages/0262-pudhaiyal.md`; begins `தும்`; chapter 30 |
+| 263 | 259 | chapter 30 | verified | `../pages/0263-pudhaiyal.md` |
 | 264 | 260 | chapter 30 | verified | `../pages/0264-pudhaiyal.md`; old/faint `ா` correction confirms `என்னா` |
-| 265 | 261 | chapter 30 | verified | `../pages/0265-pudhaiyal.md`; ends `என்றெல்லாம்!` |
-| 266 | 262 | chapter 30 | verified | `../pages/0266-pudhaiyal.md`; ends `அதில், என்` |
-| 267 | 263 | chapter 30 | verified | `../pages/0267-pudhaiyal.md`; begins `பாதியை`; ends `கனவு கண்டார்களோ, என்னமோ?` |
-| 268 | 264 | chapter 30 | verified | `../pages/0268-pudhaiyal.md`; source `யாருடனே`; ends `அவன் உள்ளத்தில்!` |
-| 269 | 265 | chapter 30 | verified | `../pages/0269-pudhaiyal.md`; ends `முட்களை சமாளித்துக் கொண்டும்,` |
-| 270 | 266 | chapter 30 | verified | `../pages/0270-pudhaiyal.md`; begins `பரிமளா, ...`; source `புதரோரத்திலே`; ends `‘தூக்குங்கள்!’ என்று கத்தினாள்.` |
-| 271 | 267 | chapter 30 closes / chapter 31 begins | verified | `../pages/0271-pudhaiyal.md`; horizontal rule + heading `31`; ends `தை தகவெனக் குதித்துக் கத்தினான்.` |
-| 272 | 268 | chapter 31 | verified | `../pages/0272-pudhaiyal.md`; source `வயதிலே`, `மனங் துணிந்து`; ends `உடலிலேயிருந்த` |
-| 273 | 269 | chapter 31 | verified | `../pages/0273-pudhaiyal.md`; begins `ரத்தம் பெரும் பகுதி...`; confirms `கண்களை`; ends mid-word `மறு` |
-| 274 | 270 | chapter 31 | verified | `../pages/0274-pudhaiyal.md`; begins `படியும்` → `மறுபடியும்`; source `ரகசியம்!!!”—`, `எரியும்போது` |
-| 275 | 271 | chapter 31 | verified | `../pages/0275-pudhaiyal.md`; source order `அம்பலம் விடுவாரா? மிச்சமிருக்கிற உயிரையும்...`; ends mid-sentence `துரை` |
-| 276 | 272 | chapter 31 | verified | `../pages/0276-pudhaiyal.md`; begins `என்கிறான்.`; source `செத்தவனே`, `வீணக்`, `காதலர்கள்தானு` |
-| 277 | 273 | chapter 31 | verified | `../pages/0277-pudhaiyal.md`; source `அவன் மணக்க மாட்டேன்`, `காதலர்கள்தானு`; ends mid-word `விட` |
-| 278 | 274 | chapter 31 closes / chapter 32 begins | verified | `../pages/0278-pudhaiyal.md`; begins `லாமென்று` → `விடலாமென்று`; source `ஆட்சேபணை`; horizontal rule + heading `32` |
-| 279 | 275 | chapter 32 | verified | `../pages/0279-pudhaiyal.md`; ends physically `அதிபதி` |
-| 280 | 276 | chapter 32 | verified | `../pages/0280-pudhaiyal.md`; Gemini lexical words + native structural layer |
-| 281 | 277 | chapter 32 | verified | `../pages/0281-pudhaiyal.md`; Gemini lexical words + native punctuation/paragraph/physical-line layer |
-| 282 | 278 | chapter 32 | verified | `../pages/0282-pudhaiyal.md`; ends physically without punctuation `நின்றான்` |
-| 283 | 279 | chapter 32 | verified | `../pages/0283-pudhaiyal.md`; refreshed Gemini baseline includes `பார்`; native punctuation/paragraph/physical-line structure verified |
-| 284 | 280 | chapter 32 | not-started | next transcription page |
-| 285 | 281 | chapter 32 | not-started | — |
-| 286 | 282 | chapter 32 | not-started | — |
-| 287 | 283 | chapter 32 | not-started | — |
-| 288 | 284 | chapter 32 closes / chapter 33 begins | not-started | source-printed chapter heading 33 |
-| 289 | 285 | chapter 33 | not-started | — |
-| 290 | 286 | chapter 33 | not-started | — |
-| 291 | 287 | chapter 33 | not-started | — |
-| 292 | 288 | chapter 33 | not-started | — |
-| 293 | 289 | chapter 33 | not-started | — |
-| 294 | 290 | chapter 33 / Part-006 endpoint | not-started | derivative boundary only; narrative state to be established when transcribed |
+| 265 | 261 | chapter 30 | verified | `../pages/0265-pudhaiyal.md` |
+| 266 | 262 | chapter 30 | verified | `../pages/0266-pudhaiyal.md` |
+| 267 | 263 | chapter 30 | verified | `../pages/0267-pudhaiyal.md` |
+| 268 | 264 | chapter 30 | verified | `../pages/0268-pudhaiyal.md`; source `யாருடனே` |
+| 269 | 265 | chapter 30 | verified | `../pages/0269-pudhaiyal.md` |
+| 270 | 266 | chapter 30 | verified | `../pages/0270-pudhaiyal.md`; source `புதரோரத்திலே` |
+| 271 | 267 | chapter 30 closes / chapter 31 begins | verified | `../pages/0271-pudhaiyal.md`; horizontal rule + heading `31` |
+| 272 | 268 | chapter 31 | verified | `../pages/0272-pudhaiyal.md` |
+| 273 | 269 | chapter 31 | verified | `../pages/0273-pudhaiyal.md`; ends `மறு` |
+| 274 | 270 | chapter 31 | verified | `../pages/0274-pudhaiyal.md`; begins `படியும்` |
+| 275 | 271 | chapter 31 | verified | `../pages/0275-pudhaiyal.md`; ends `துரை` |
+| 276 | 272 | chapter 31 | verified | `../pages/0276-pudhaiyal.md` |
+| 277 | 273 | chapter 31 | verified | `../pages/0277-pudhaiyal.md`; ends `விட` |
+| 278 | 274 | chapter 31 closes / chapter 32 begins | verified | `../pages/0278-pudhaiyal.md`; horizontal rule + heading `32` |
+| 279 | 275 | chapter 32 | verified | `../pages/0279-pudhaiyal.md` |
+| 280 | 276 | chapter 32 | verified | `../pages/0280-pudhaiyal.md`; Gemini lexical/native structural policy begins |
+| 281 | 277 | chapter 32 | verified | `../pages/0281-pudhaiyal.md` |
+| 282 | 278 | chapter 32 | verified | `../pages/0282-pudhaiyal.md`; ends unpunctuated `நின்றான்` |
+| 283 | 279 | chapter 32 | verified | `../pages/0283-pudhaiyal.md`; begins `சிறிது நேரம்.` |
+| 284 | 280 | chapter 32 | verified | `../pages/0284-pudhaiyal.md`; ends open dialogue `முடியுமா` |
+| 285 | 281 | chapter 32 | verified | `../pages/0285-pudhaiyal.md`; ends `பரி` |
+| 286 | 282 | chapter 32 | verified | `../pages/0286-pudhaiyal.md`; begins `மளாவையும்` |
+| 287 | 283 | chapter 32 | verified | `../pages/0287-pudhaiyal.md`; ends `எப்படியா` |
+| 288 | 284 | chapter 32 closes / chapter 33 begins | verified | `../pages/0288-pudhaiyal.md`; horizontal rule + heading `33`; begins `வது` |
+| 289 | 285 | chapter 33 | verified | `../pages/0289-pudhaiyal.md`; ends `பட்டுக்` |
+| 290 | 286 | chapter 33 | verified | `../pages/0290-pudhaiyal.md`; begins `கோட்டை` |
+| 291 | 287 | chapter 33 | verified | `../pages/0291-pudhaiyal.md`; ends `காப்` |
+| 292 | 288 | chapter 33 | verified | `../pages/0292-pudhaiyal.md`; begins `பாத்துங்க!`; ends `ஓடி` |
+| 293 | 289 | chapter 33 | verified | `../pages/0293-pudhaiyal.md`; begins `விட்டான்.`; ends `படுகுழியொன்` |
+| 294 | 290 | chapter 33 / Part-006 endpoint | verified | `../pages/0294-pudhaiyal.md`; begins `றில்`; ends open quoted term `‘லாக்` |
 
 ## Structure mapped across the complete derivative
 
@@ -87,22 +87,25 @@ This rule is prospective; scans 246–279 are not reopened solely to retrofit it
 - chapter 29 begins scan **254 / printed 250** and closes scan **262 / printed 258**;
 - chapter 30 begins scan **262 / printed 258** and closes scan **271 / printed 267**;
 - chapter 31 begins scan **271 / printed 267** and closes scan **278 / printed 274**;
-- chapter 32 begins scan **278 / printed 274**;
-- chapter 33 begins scan **288 / printed 284** and continues through the derivative endpoint.
-
-These observations map structure only for scans 284–294; those pages remain `not-started` until processed under the active policy.
+- chapter 32 begins scan **278 / printed 274** and closes scan **288 / printed 284**;
+- chapter 33 begins scan **288 / printed 284** and continues through scan **294 / printed 290**;
+- scan 294 is an access-derivative endpoint only; chapter 33 and the novel continue beyond the material currently supplied.
 
 ## Current continuity / structural findings
 
-- scans 280–283 use Gemini lexical wording unchanged while the native scan controls presentation/structure;
-- scan 282 ends physically without punctuation at `துக்காராம் அப்படியே அசைவற்று நின்றான்`;
-- scan 283 begins `சிறிது நேரம்.`, confirming the cross-page continuation `நின்றான் சிறிது நேரம்.`;
-- no source-printed chapter/scene transition occurs on scan 283;
-- source long-dash structures on scan 283 include `போதும்—இனியும்` and `வெள்ளியம்பலம்—என்ற`;
-- native physical word-internal line breaks include `நிலைப்` / `படுத்திவிட்டது`, `கூறிக்` / `கொண்டே`, `துக்கா` / `ராம்`, `உனக்` / `கும்`, `உண்மை` / `யைக்`, `சொல்` / `வது`, and `பயன்படுத்து` / `வார்`;
-- the refreshed user-supplied Gemini Iteration-27 baseline explicitly contains `பார்` after `ஓடிப் போகிறேன்`; the earlier omission flag is resolved from Gemini itself, with no native-source lexical supplementation;
-- no Gemini lexical span remains unresolved on scan 283;
-- scan 283 ends with the complete source-structured sentence `வெள்ளியம்பலம்—என்ற திகிலும் கூடவே பிறந்தது.`.
+Scans **280–294** are fully processed under the Gemini-lexical/native-structure policy. Important page-boundary continuities include:
+
+- 282→283: `நின்றான்` / `சிறிது நேரம்.` — sentence continuation;
+- 284→285: open dialogue `முடியுமா` / `என்று யோசனை செய்கிறேன்`;
+- 285→286: `பரி` / `மளாவையும்` — physical split inside `பரிமளாவையும்`;
+- 287→288: `எப்படியா` / `வது` — physical split inside `எப்படியாவது`;
+- 289→290: `பட்டுக்` / `கோட்டை` — place-name continuity across the page boundary;
+- 291→292: `காப்` / `பாத்துங்க!` — physical split inside `காப்பாத்துங்க!`;
+- 292→293: `ஓடி` / `விட்டான்.` — sentence continuation;
+- 293→294: `படுகுழியொன்` / `றில்` — physical split inside `படுகுழியொன்றில்`;
+- scan 294 ends at open `‘லாக்` with no source closing punctuation or ending marker.
+
+No unresolved Gemini lexical omission remains in Part 006.
 
 ## Fidelity records
 
@@ -112,8 +115,8 @@ These observations map structure only for scans 284–294; those pages remain `n
 - scans 252–255: `../notes/visual-fidelity-scans-252-255.md`
 - scans 256–259: `../notes/visual-fidelity-scans-256-259.md`
 - scans 260–279: individual `../notes/visual-fidelity-scan-NNN.md` records, with scan-264 correction separately documented in `../notes/old-glyph-correction-scan-264.md`;
-- scans 280–283: individual structural fidelity records under the Gemini-lexical / native-structure policy.
+- scans 280–294: individual `../notes/visual-fidelity-scan-NNN.md` records under the Gemini-lexical / native-structure policy.
 
 ## Exact next activity
 
-Process **scan 284 / printed page 280**, continuing chapter 32. Keep Gemini's words exactly; use the native scan for punctuation, quotation marks, long dashes, paragraph/speaker spacing, physical line breaks/page boundary and structural findings. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
+Run the **Part-006 Tamil audit** across scans **246–294**. Verify 49/49 canonical coverage, page-boundary continuity, chapter transitions, scan-280-onward Gemini lexical preservation, structural fidelity, and the open derivative endpoint at scan 294. Do not begin assembled Tamil or English work until that audit passes.
