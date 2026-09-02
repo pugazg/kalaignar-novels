@@ -42,10 +42,11 @@ Source/split PDFs must never be committed.
 - Part 003 — scans 99–147 — **part-complete**
 - Part 004 — scans 148–196 — **part-complete**
 - Part 005 — scans 197–245 — **part-complete with explicit source-damage qualification**
+- Part 006 — scans 246–294 — **part-complete**
 
 Part-005 source-damage qualification remains attached to scans **215–219 and 223–224**. Their canonical status is not upgraded by downstream assembly/translation.
 
-## Active derivative — Part 006
+## Latest completed derivative — Part 006
 
 Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
@@ -59,38 +60,31 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - verified / structurally completed: **49 / 49**
 - needs-review: **0**
 - Tamil audit: **PASSED** — `works/pudhaiyal/notes/part-006-tamil-audit.md`
-- assembled Tamil: **PASSED split-level consistency check** — `works/pudhaiyal/notes/part-006-assembled-tamil-check.md`
+- assembled Tamil: **PASSED** — `works/pudhaiyal/notes/part-006-assembled-tamil-check.md`
 - controlled English source check: **PASSED** — `works/pudhaiyal/translations/en/PART_006_ENGLISH_CHECK.md`
-- bilingual review: **ELIGIBLE — NEXT ACTIVITY**
-- Part-006 state: **English `source-checked`; not yet `part-complete`**
+- bilingual review: **PASSED** — `works/pudhaiyal/translations/en/PART_006_REVIEW.md`
+- Part-006 state: **`part-complete`**
 
-### Part-006 English checkpoint
+### Part-006 reviewed checkpoint
 
-The source-checked English layer now contains:
+The Tamil/English layers now cover:
 
-- `translations/en/sections/27-chapter-27.md` — extended through chapter-27 close on scan 247;
-- `translations/en/sections/28-chapter-28.md` — chapter 28, including the source-printed four-star internal transition at scan 251;
-- `translations/en/sections/29-chapter-29.md` — chapter 29 through scan 262;
-- `translations/en/sections/30-chapter-30.md` — chapter 30 through scan 271;
-- `translations/en/sections/31-chapter-31.md` — chapter 31 through scan 278;
-- `translations/en/sections/32-chapter-32.md` — chapter 32 through scan 288;
-- `translations/en/sections/33-chapter-33.md` — chapter 33 from scan 288 through the open Part-006 endpoint on scan 294.
+- chapter 27 continuation through its close on scan 247;
+- chapter 28, including the source-printed four-star transition on scan 251;
+- chapters 29–32 through their source-established closes;
+- chapter 33 from scan 288 through the open Part-006 endpoint on scan 294.
 
-The English source check confirms:
+The bilingual review confirmed complete represented sentence/dialogue coverage, audited page joins, chapter/internal-transition fidelity, scan-280-onward Gemini lexical-authority discipline, names/terms consistency and the represented satire/violence/romance/coercion/caste-marked wording.
 
-- Part 005→006 continuity is preserved;
-- all audited page joins are translated continuously rather than as artificial split boundaries;
-- the scan-251 internal transition and real chapter boundaries are retained;
-- scan-280-onward Gemini lexical authority in Tamil is respected; English does not source-correct those words from native pixels;
-- one initially invented dash after the final open `‘Lock` was removed during checking;
-- one English-only grammar slip in the Sub-Inspector line was corrected;
-- no Tamil lexical text was changed by those English-layer corrections.
+English-only review corrections included conservative **Chakkili** handling, removal of two over-interpretive readings, non-repair of the scan-277 source anomaly, and stable **Raja Madam** / glossary handling. No Tamil lexical text was changed.
 
 ### Critical continuation boundary
 
-Scan **294 / printed 290** ends inside the Sub-Inspector's dialogue at open `‘லாக்`. Source-checked English correspondingly ends at open `‘Lock` with **no closing quotation mark or punctuation**.
+Scan **294 / printed 290** ends inside the Sub-Inspector's dialogue at open Tamil `‘லாக்`. Reviewed English correspondingly ends at open `‘Lock` with **no closing quotation mark or punctuation**.
 
-**Do not treat Part 006 as the end of the novel.** A later source split beyond scan 294 is required to continue chapter 33.
+There is no chapter close, work-ending ornament or back-matter transition.
+
+**Do not treat Part 006 as the end of the novel.** The next source material beyond scan 294 is required to continue chapter 33.
 
 ## Aggregate durable state
 
@@ -100,27 +94,22 @@ Scan **294 / printed 290** ends inside the Sub-Inspector's dialogue at open `‘
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
 - later completed pages: through scan **294**, except the seven damaged Part-005 records
-- Parts 001–005: **part-complete at split level**
-- Part 006: **Tamil audit + assembled Tamil + English source check PASSED; bilingual review pending**
+- Parts 001–006: **part-complete at split level**
 - assembled Tamil: part-reviewed continuously through scan **294**
-- source-checked English: continuously through scan **294**
-- bilingual-reviewed / part-complete English: continuously through scan **245**
+- source-checked / bilingual-reviewed English: continuously through scan **294**
 - source scans represented by currently received derivatives: through **294**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Run the **Part-006 bilingual review for scans 246–294**.
+Obtain / resolve the **next source derivative beyond scan 294**.
 
-Review scope:
+Before any new canonical write:
 
-1. compare audited Tamil and source-checked English sentence by sentence / dialogue by dialogue;
-2. confirm no substantive sentence, repetition, joke, threat, violence, romantic delusion, coercive act or satirical turn is omitted, softened or intensified;
-3. verify names, place names and culture-specific terms against `translations/en/GLOSSARY.md` and established prior usage;
-4. verify all audited page joins and the scan-251 internal transition;
-5. verify chapter boundaries at scans 247/254/262/271/278/288;
-6. verify the scan-280-onward Gemini lexical-authority discipline is respected;
-7. leave the scan-294 Tamil `‘லாக்` / English `‘Lock` endpoint open with no invented close;
-8. if the review passes, create `works/pudhaiyal/translations/en/PART_006_REVIEW.md`, mark Part 006 `part-complete`, and synchronize repository status.
+1. inspect the actual first page of the new derivative;
+2. confirm that it continues the open scan-294 `‘லாக்` dialogue rather than assuming the continuation;
+3. establish the real source-scan and printed-page mapping from the source itself;
+4. record derivative identity/size/hash when available;
+5. only then begin the next split's canonical Tamil workflow under the same authority policy unless the user changes it.
 
-Do not claim whole-work English verification or release readiness after Part 006; later source beyond scan 294 remains required.
+Do not infer the next part range, continuation word, chapter boundary, true ending, back matter or full source extent without the actual source material.
