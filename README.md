@@ -27,7 +27,7 @@ User instruction படி:
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **294 canonical records / 287 verified-complete / 7 needs-review; Parts 001–005 part-complete; Part 006 Tamil audit PASSED, assembled Tamil pending** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **294 canonical records / 287 verified-complete / 7 needs-review; Parts 001–005 part-complete; Part 006 Tamil + assembled Tamil PASSED; controlled English next** |
 
 ### புதையல் — current source state
 
@@ -36,27 +36,31 @@ Tamil Digital Library reports **443 p.**; exact original PDF scan count remains 
 Access derivatives:
 
 - parts 001–005 — scans **1–245** — split-level workflow complete, with seven source-damage qualifications in Part 005;
-- part 006 — scans **246–294 / printed 242–290** — **49/49 canonical and structurally verified; Part-006 Tamil audit PASSED; assembled Tamil pending**.
+- part 006 — scans **246–294 / printed 242–290** — **49/49 canonical/structurally verified; Tamil audit PASSED; assembled Tamil split-level check PASSED**.
 
-Current canonical state:
+Current state:
 
-- records — **294**;
+- canonical records — **294**;
 - verified / completed — **287**;
 - needs-review — **7 (Part 005 scans 215–219, 223–224)**;
 - partial — **0**;
-- Part 006 — **`part-tamil-audit-passed`**;
-- assembled Tamil / English split-level review — still through scan **245** only;
+- Part 006 — **`assembled-part-checked`**;
+- assembled Tamil — part-reviewed continuously through scan **294**;
+- controlled English / bilingual review — part-reviewed continuously through scan **245** only;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source;
 - source PDF / splits committed — No.
 
-The Part-006 Tamil audit passed 49/49 coverage, canonical/page-map agreement, cross-page continuity, chapter structure, the scan-280-onward Gemini lexical-preservation rule, native structural fidelity and the open derivative endpoint at scan 294. See `works/pudhaiyal/notes/part-006-tamil-audit.md`.
+Part-006 records:
 
-Part 006 source structure: chapter 28 begins scan 247; four-star internal transition scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262 and closes 271; chapter 31 begins 271 and closes 278; chapter 32 begins 278 and closes 288; chapter 33 begins 288 and continues beyond scan 294.
+- Tamil audit: `works/pudhaiyal/notes/part-006-tamil-audit.md` — **PASSED**;
+- assembled Tamil check: `works/pudhaiyal/notes/part-006-assembled-tamil-check.md` — **PASSED**;
+- assembled chapter 27 now closes on scan 247;
+- assembled chapters 28–33 cover the audited material through scan 294;
+- the scan-251 four-star internal transition and all real chapter boundaries are retained;
+- scan 294 / printed 290 still ends at open `‘லாக்` inside dialogue. It is an access-derivative boundary, **not** the ending of chapter 33 or the novel.
 
-Scan 294 / printed 290 ends at open `‘லாக்` inside dialogue, with no ending marker; this is an access-derivative boundary, not the ending of the novel.
-
-Exact next action: build the **Part-006 assembled Tamil reading layer** from audited canonical scans 246–294: extend chapter 27 through scan 247, create/populate chapters 28–33, preserve reversible source provenance and all verified joins, and leave chapter 33 open at scan 294. Do not begin Part-006 English translation until assembled Tamil passes its split-level check.
+Exact next action: begin the **Part-006 controlled English translation** from the checked assembled Tamil layer, covering the chapter-27 continuation and chapters 28–33 through scan 294. Preserve chapter/internal-transition structure and leave chapter 33 open at the derivative endpoint. Do not begin Part-006 bilingual review until controlled English is complete and source-checked.
 
 ## நிறைவு பெற்ற reference work
 
