@@ -36,16 +36,17 @@ No broader lexical source-correction is authorized. Scan 343 therefore retains s
 4. Part 004 — scans **148–196** — part-complete
 5. Part 005 — scans **197–245** — part-complete with source-damage qualification
 6. Part 006 — scans **246–294 / printed 242–290** — part-complete
-7. Part 007 — scans **295–343 / printed 291–339** — **Tamil audit + assembled-Tamil consistency check PASSED**
+7. Part 007 — scans **295–343 / printed 291–339** — **Tamil audit + assembled-Tamil consistency check + controlled-English source check PASSED**
    - canonical: **49 / 49**
    - verified: **49 / 49**
    - Part-007 needs-review: **0**
    - assembled Tamil: **through scan 343**
-   - controlled English: **next**
+   - source-checked English: **through scan 343**
+   - bilingual review: **next**
 
-Part-006→007 continuity is conclusively `‘லாக்` + `அப்’பில்` → **`‘லாக் அப்’பில்`** and is continuous in the assembled Chapter-33 reading layer.
+Part-006→007 continuity is conclusively `‘லாக்` + `அப்’பில்` → **`‘லாக் அப்’பில்`**, translated continuously as **lock-up**.
 
-## Part-007 structural result
+## Part-007 structural / translation result
 
 - chapter 34 opens scan 297
 - chapter 35 opens scan 307
@@ -57,10 +58,11 @@ Part-006→007 continuity is conclusively `‘லாக்` + `அப்’ப�
 - scan 330 contains a four-star transition and Chapter-37 closing rule
 - chapter 38 opens scan 331
 - chapter 39 opens scan 340
-- scan 343 ends open at `அதிர்ஷ்`, so Part 007 is not a true ending
+- scan 343 ends open at Tamil `அதிர்ஷ்`; English source check ends correspondingly inside `luc`
 
 Tamil audit record: [`part-007-tamil-audit.md`](part-007-tamil-audit.md).  
-Assembled-Tamil check: [`part-007-assembled-tamil-check.md`](part-007-assembled-tamil-check.md).
+Assembled-Tamil check: [`part-007-assembled-tamil-check.md`](part-007-assembled-tamil-check.md).  
+English source check: [`../translations/en/PART_007_ENGLISH_CHECK.md`](../translations/en/PART_007_ENGLISH_CHECK.md).
 
 ## Current textual / derivative state
 
@@ -69,9 +71,10 @@ Assembled-Tamil check: [`part-007-assembled-tamil-check.md`](part-007-assembled-
 - needs-review: **7 — only Part 005 scans 215–219 and 223–224**
 - partial: **0**
 - Parts 001–006: **part-complete**
-- Part 007: **Tamil audit + assembled-Tamil check PASSED**
+- Part 007: **English source check PASSED; bilingual review pending**
 - assembled Tamil: **through scan 343**
-- source-checked / bilingual-reviewed English: **through scan 294**
+- source-checked English: **through scan 343**
+- bilingual-reviewed English: **through scan 294**
 - physically represented source coverage: **through scan 343 / printed 339**
 - full-source manifest: **incomplete beyond scan 343**
 
@@ -79,7 +82,7 @@ Assembled-Tamil check: [`part-007-assembled-tamil-check.md`](part-007-assembled-
 
 Still required:
 
-1. complete Part-007 controlled English source check and bilingual review;
+1. run Part-007 bilingual review and, if passed, mark the split `part-complete`;
 2. obtain source beyond scan 343 and verify continuation from open `அதிர்ஷ்`;
 3. process all later source scans and true ending/back matter;
 4. determine exact original PDF scan/page-object count and SHA-256;
@@ -89,4 +92,4 @@ Do not infer final source extent or ending from the TDL printed-page count or re
 
 ## Exact next activity
 
-Perform the **Part-007 controlled English translation and source check across scans 295–343**, preserving all checked chapter/internal-transition structure and leaving the translated Chapter-39 endpoint open where Tamil stops at `அதிர்ஷ்`.
+Run the **Part-007 bilingual review across scans 295–343**. Source acquisition beyond scan 343 follows only after the Part-007 split-level workflow is closed.
