@@ -4,7 +4,7 @@
 
 ## மூலக் கொள்கை
 
-> **மூல ஸ்கேன் page/structure authority. புதையல் scan 280 onward lexical words user-supplied Gemini baseline-ல் இருந்து source-correct செய்யப்படாது.**
+> **மூல ஸ்கேன் page/structure authority. புதையல் scan 280 onward lexical words user-supplied Gemini baseline-ல் இருந்து source-correct செய்யப்படாது; complete baseline omission இருந்தால் explicit user disposition தேவை.**
 
 Source PDF / split PDF / uploaded baseline files repository-யில் commit செய்யப்படாது.
 
@@ -18,27 +18,27 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **392 canonical / 384 verified-complete / 8 needs-review; Parts 001–007 part-complete; Part 008 scan 384 disposition pending** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **392 canonical / 385 verified-complete / 7 needs-review; Parts 001–007 part-complete; Part 008 Tamil + assembled Tamil PASSED** |
 
 ### புதையல் — current source state
 
 Received derivatives cover scans **1–392**, visible printed text through **388**. Exact original scan count remains pending.
 
-Part 008 has **49/49 canonical records**, but only **48/49 verified**. During assembled-Tamil construction, native scan **384 / printed 380** was found to contain complete phrase `தகட்டில் இருக்கிறபடி`, absent from controlling `p8.md`. The earlier canonical record had incorrectly source-filled it; the insertion has been removed and the earlier Part-008 Tamil-audit PASS withdrawn pending explicit user disposition.
+Part 008 has **49/49 canonical + verified records**. During assembled-Tamil construction, native scan **384 / printed 380** was found to contain complete phrase **`தகட்டில் இருக்கிறபடி`**, absent from controlling `p8.md`. The user explicitly authorized restoration of that phrase on 2026-09-02; the restoration is narrow to that omission.
 
-Valid Part-008 assembled Tamil has progressed through Chapters **39–43**. Chapter 39 joins Part 007 `அதிர்ஷ்` + Part 008 `டம்` as **`அதிர்ஷ்டம்`**. Chapter 44 and later gates are blocked by scan 384.
+Part-008 Tamil audit and assembled-Tamil consistency check both **PASSED**. Assembled Chapters **39–45** now reach scan 392. Chapter 39 joins Part 007 `அதிர்ஷ்` + Part 008 `டம்` as **`அதிர்ஷ்டம்`**; Chapter 45 remains deliberately open at **`நமது`**.
 
 Current aggregate state:
 
 - canonical: **392**
-- verified/completed: **384**
-- needs-review: **8 — Part 005 scans 215–219 and 223–224, plus Part 008 scan 384**
-- assembled Tamil: continuous through **Chapter 43 close on scan 376**
+- verified/completed: **385**
+- needs-review: **7 — only Part 005 scans 215–219 and 223–224**
+- assembled Tamil: continuous through **scan 392 / printed 388**
 - source-checked/bilingual-reviewed English: through scan **343**
 - received source coverage: through scan **392 / printed 388**
 - whole-work verification/release: **not yet eligible**
 
-Exact next action: obtain explicit disposition for scan-384 phrase **`தகட்டில் இருக்கிறபடி`**. If authorized, restore it, rerun the Part-008 Tamil audit, finish assembled Chapters 44–45 and run the assembled-Tamil consistency check.
+Exact next action: begin **controlled English translation for Part 008 scans 344–392** from assembled Chapters 39–45, preserving the open Chapter-45 endpoint corresponding to `நமது`.
 
 ## நிறைவு பெற்ற reference work
 
