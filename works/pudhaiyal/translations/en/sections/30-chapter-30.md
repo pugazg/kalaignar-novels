@@ -5,7 +5,7 @@ section_order: 30
 section_title: "Chapter 30"
 language: "en"
 source_scans: "262 (chapter-30 portion)-271 (chapter-30 portion)"
-status: "draft-translated-part-006"
+status: "source-checked-part-006"
 derived_from: "audited Tamil pages and checked sections/30-chapter-30.md"
 ---
 
