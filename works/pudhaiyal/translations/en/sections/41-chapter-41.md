@@ -5,7 +5,7 @@ section_order: 41
 section_title: "Chapter 41"
 language: "en"
 source_scans: "355 (chapter-41 portion)-362 (chapter-41 portion)"
-status: "draft-translated-part-008"
+status: "source-checked-part-008"
 derived_from: "audited Tamil pages and checked assembled sections/41-chapter-41.md"
 ---
 
