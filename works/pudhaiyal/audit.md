@@ -1,6 +1,6 @@
 # Tamil / split-part audit — புதையல்
 
-Status: **IN PROGRESS — Parts 001–006 part-complete; Part 007 Tamil audit + assembled-Tamil check + controlled-English source check PASSED; bilingual review next**
+Status: **IN PROGRESS — Parts 001–007 part-complete at split level; next source beyond scan 343 required**
 
 Source: `TVA_BOK_0064097_புதையல்.pdf`
 
@@ -26,11 +26,11 @@ This does not authorize source-correction of any other supplied lexical differen
 | 004 | 148–196 | part-complete |
 | 005 | 197–245 | part-complete with source-damage qualification |
 | 006 | 246–294 | part-complete |
-| 007 | 295–343 | **Tamil audit + assembled-Tamil check + controlled-English source check PASSED; bilingual review pending** |
+| 007 | 295–343 | **part-complete** |
 
 The seven physically damaged Part-005 records **215–219 and 223–224** remain `needs-review` by explicit source-damage qualification.
 
-## Part 007 — current split result
+## Part 007 — final split result
 
 Derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 
@@ -44,10 +44,9 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 - Tamil audit: **PASSED** — [`notes/part-007-tamil-audit.md`](notes/part-007-tamil-audit.md)
 - assembled Tamil consistency check: **PASSED** — [`notes/part-007-assembled-tamil-check.md`](notes/part-007-assembled-tamil-check.md)
 - controlled English source check: **PASSED** — [`translations/en/PART_007_ENGLISH_CHECK.md`](translations/en/PART_007_ENGLISH_CHECK.md)
-- assembled Tamil coverage: **through scan 343 / printed 339**
-- source-checked English coverage: **through scan 343 / printed 339**
-- bilingual review: **pending**
-- state: **`english-source-checked / bilingual-review-next`**
+- bilingual review: **PASSED** — [`translations/en/PART_007_REVIEW.md`](translations/en/PART_007_REVIEW.md)
+- assembled Tamil / source-checked / bilingual-reviewed English: **through scan 343 / printed 339**
+- state: **`part-complete`**
 
 ### Structural / translation findings through scan 343
 
@@ -62,10 +61,10 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 - scan 330 contains a four-star internal transition and closes chapter 37 at the foot rule;
 - chapter 38 opens scan 331;
 - chapter 39 opens scan 340;
-- scan 343 ends open at `அதிர்ஷ்`; source-checked English ends correspondingly inside `luc`;
+- scan 343 ends open at `அதிர்ஷ்`; reviewed English ends correspondingly inside `luc`;
 - scan 343 retains baseline `అది` despite native Tamil `அது`; English renders contextual sense without changing Tamil.
 
-The English source check also records controlled handling of source-specific terms and two English-layer corrections: Chapter 38 **“Of this house!”** and the Chapter-39 Saibu alms recipient.
+The Part-007 bilingual review made three English-only fidelity corrections: `காவலன் ஜஹாங்கீர்` is rendered **the ruler Jahangir** without adding “Emperor”; `பத்தாயிரம் முத்தாரம்` is conservatively **a garland of ten thousand pearls**; and Chapter 39 retains the explicit `முகத்தில்` detail in the Saibu alms instruction.
 
 ## Aggregate canonical state
 
@@ -73,17 +72,15 @@ The English source check also records controlled handling of source-specific ter
 - verified / completed: **336**
 - needs-review: **7 — only Part 005 scans 215–219, 223–224**
 - partial: **0**
-- Parts 001–006: **part-complete**
-- Part 007: **English source check PASSED; bilingual review pending**
+- Parts 001–007: **part-complete** at split level
 - assembled Tamil: part-reviewed continuously through scan **343**
-- source-checked English: continuously through scan **343**
-- bilingual-reviewed English: through scan **294**
+- source-checked and bilingual-reviewed English: continuously through scan **343**
 - physically received source coverage: through scan **343 / printed 339**
 
 ## Whole-work gate
 
-**NOT ELIGIBLE.** Even after the Part-007 split workflow completes, source beyond scan 343 is still required because the current derivative ends mid-utterance.
+**NOT ELIGIBLE.** Source beyond scan 343 is still required because the current derivative ends mid-utterance. A split-level `part-complete` verdict does not imply a complete novel or release-ready work.
 
 ## Exact next activity
 
-Run the **Part-007 bilingual review across scans 295–343**. Part 007 may become `part-complete` only after that review passes.
+Obtain / resolve the **next source derivative beyond scan 343** and verify its actual first page against the open scan-343 `அதிர்ஷ்` boundary before assigning continuation text or a new scan/printed-page range.
