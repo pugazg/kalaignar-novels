@@ -57,14 +57,14 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343
 - lexical baseline: uploaded `p7.md`, SHA-256 `a804b914b88050ca8d31142cb00d7491c94e89ff1fb7e564fdd348bdf14b1c59`
 - source intake: [`notes/part-007-source-intake.md`](notes/part-007-source-intake.md)
 - derivative map: [`indexes/part-007-page-map.md`](indexes/part-007-page-map.md)
-- canonical records: **18 / 49 — scans 295–312**
-- verified / structurally completed: **16 / 49**
-- needs-review: **2 — scans 304–305**
-- not-started: **31 — scans 313–343**
+- canonical records: **23 / 49 — scans 295–317**
+- verified / structurally completed: **20 / 49**
+- needs-review: **3 — scans 304–305, 315**
+- not-started: **26 — scans 318–343**
 - state: **`canonical-in-progress`**
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 
-### Verified continuity through scan 312
+### Verified continuity through scan 317
 
 Part 006 ends at scan 294 with open `‘லாக்`. Part-007 scan 295 begins `அப்’பில்`, establishing **`‘லாக் அப்’பில்`** across the derivative boundary.
 
@@ -75,19 +75,19 @@ Key structural progression:
 - scans 304–305 — source-visible complete lexical omissions (`நீ`, `என்ன`) remain `needs-review` without source insertion;
 - scan 306 — chapter 34 closes with a source horizontal rule;
 - scan 307 — chapter 35 begins under source heading `35`;
-- scan 307→308 — `‘மிருகம்’` → `பதுங்கி விட்டது.`;
-- scan 308→309 — `வாழ்க்கைக்` → `காவியத்தை...`;
-- scan 309→310 — `...படாமல் இந்த` → `ஊரை விட்டு...`;
-- scan 310 — source-printed four-star internal transition; physical ending `போவ`;
-- scan 311 — begins `தென்று`, completing `போவதென்று`; ends `பேசிக் கொண்டிருந்து`;
-- scan 312 — begins `விட்டு,`; no new complete lexical omission found on scans 308–312.
+- scan 310 — source-printed four-star internal transition;
+- scan 313→314 — `தன் படுக்கையைத்` → `திண்ணையிலே...`;
+- scan 315 — source-visible complete span `சரி...... வா! வா!......` is omitted by `p7.md`; record remains `needs-review` without source insertion;
+- scan 315→316 — physical `அவர்` + `கள்` establishes `அவர்கள்`;
+- scan 316→317 — `“அகப்பட்டுக் கொண்டோம்!”` → `என்ற ஏக்கத்தோடு...`;
+- scan 317 — chapter 35 closes; horizontal rule + heading **36**; chapter 36 begins; page ends `பரிமளா பங்களாவிலே`.
 
 The endpoint spot-check at scan 343 / printed 339 ends at `அதிர்ஷ்`, so Part 007 also remains open and cannot be treated as the work ending.
 
 ## Gate consequence
 
-Sequential canonical work may continue despite scans 304–305 being `needs-review`, but the Part-007 Tamil audit cannot pass until those two complete baseline lexical omissions receive explicit user/baseline disposition.
+Sequential canonical work may continue despite scans 304–305 and 315 being `needs-review`, but the Part-007 Tamil audit cannot pass until those complete baseline lexical omissions receive explicit user/baseline disposition.
 
 ## Exact next activity
 
-Process **scan 313 / printed 309** in chapter 35 from the controlling `p7.md` lexical baseline and native Part-007 page 19, then continue sequential canonical/structural reconciliation through scan 343.
+Process **scan 318 / printed 314** in chapter 36 from the controlling `p7.md` lexical baseline and native Part-007 page 24. Verify `பரிமளா பங்களாவிலே` → `இருந்ததால் புலனாகிவிட்டது...`, then continue sequential canonical/structural reconciliation through scan 343.
