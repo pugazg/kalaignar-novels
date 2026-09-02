@@ -40,7 +40,7 @@ A derivative boundary is provenance only and must never create a false narrative
 | Part 004 | 148–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification** |
 | Part 006 | 246–294 | **part-complete** |
-| Part 007 | 295–343 | **ACTIVE — 13/49 canonical; 11 verified; 2 needs-review through scan 307** |
+| Part 007 | 295–343 | **ACTIVE — 18/49 canonical; 16 verified; 2 needs-review through scan 312** |
 
 ## Part 007 — active derivative
 
@@ -54,10 +54,10 @@ Source: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 - lexical baseline: uploaded `p7.md` — **160,271 bytes**, SHA-256 `a804b914b88050ca8d31142cb00d7491c94e89ff1fb7e564fdd348bdf14b1c59`
 - source intake: [`notes/part-007-source-intake.md`](notes/part-007-source-intake.md)
 - derivative map: [`indexes/part-007-page-map.md`](indexes/part-007-page-map.md)
-- canonical records: **13 / 49 — scans 295–307**
-- verified / structurally completed: **11 / 49**
+- canonical records: **18 / 49 — scans 295–312**
+- verified / structurally completed: **16 / 49**
 - needs-review in Part 007: **2 — scans 304–305**
-- not-started: **36 — scans 308–343**
+- not-started: **31 — scans 313–343**
 - Part-007 state: **`canonical-in-progress`**
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - source/split PDF committed: **No**
@@ -68,28 +68,34 @@ Scan 294 / printed 290 ends at open `‘லாக்`. Native scan 295 / printed
 
 No narrative boundary is created by the derivative split.
 
-### Verified Part-007 structure through scan 307
+### Verified Part-007 structure through scan 312
 
 - scan **295 / printed 291** — chapter 33 continues and ends with a source-printed `* * * *` internal transition;
-- scan **296 / printed 292** — chapter 33 continues after that transition;
 - scan **297 / printed 293** — chapter 33 closes; horizontal rule + heading **34**; chapter 34 begins on the same page;
-- scan **297→298** — `அவனை அனுதாபத்தோடு` continues as `தொட்டுத் தூக்கிடும் போதும்...`;
 - scan **302→303** — physical `பெற்` + `றான்` establishes baseline word `பெற்றான்`;
-- scans **304–305** each expose one complete source-visible word omitted by `p7.md`: `நீ` on scan 304 and `என்ன` on scan 305. Per authority policy neither word was silently inserted; both records are `needs-review`;
+- scans **304–305** each expose one complete source-visible word omitted by `p7.md`: `நீ` on scan 304 and `என்ன` on scan 305. Per authority policy neither word was silently inserted; both records remain `needs-review`;
 - scan **306 / printed 302** closes chapter 34 with a horizontal rule;
-- scan **307 / printed 303** begins chapter 35 and ends open at `அவனை ஆட்டி வைத்த ‘மிருகம்’`;
+- scan **307 / printed 303** begins chapter 35;
+- scan **307→308** preserves `அவனை ஆட்டி வைத்த ‘மிருகம்’` → `பதுங்கி விட்டது.`;
+- scan **308→309** preserves `வாழ்க்கைக்` → `காவியத்தை...`;
+- scan **309→310** preserves `...படாமல் இந்த` → `ஊரை விட்டு...`;
+- scan **310 / printed 306** contains a source-printed four-star internal transition and ends inside `போவதென்று` at `போவ`;
+- scan **311 / printed 307** begins `தென்று`, completing `போவதென்று`, and ends `பேசிக் கொண்டிருந்து`;
+- scan **312 / printed 308** begins `விட்டு,` and continues chapter 35; no new complete lexical omission was found in scans 308–312;
 - endpoint spot-check of scan **343 / printed 339** ends mid-utterance at `அதிர்ஷ்`, so Part 007 is not the novel ending.
+
+Latest fidelity record: [`notes/visual-fidelity-scans-308-312.md`](notes/visual-fidelity-scans-308-312.md).
 
 ## Aggregate archival status
 
-- canonical Tamil page records: **307**
-- verified / completed: **298**
+- canonical Tamil page records: **312**
+- verified / completed: **303**
 - needs-review: **9 — Part 005 scans 215–219, 223–224; Part 007 scans 304–305**
 - partial: **0**
 - clean contiguous fully verified range remains through scan **214 / printed page 212**
-- later completed pages extend through scan **307**, except the nine `needs-review` records above
+- later completed pages extend through scan **312**, except the nine `needs-review` records above
 - Parts 001–006: **part-complete at split level**
-- Part 007: **canonical workflow active through scan 307**
+- Part 007: **canonical workflow active through scan 312**
 - assembled Tamil: part-reviewed continuously through scan **294**
 - source-checked / bilingual-reviewed English: continuously through scan **294**
 - received source derivative coverage now extends through scan **343 / printed 339**
@@ -98,4 +104,4 @@ No narrative boundary is created by the derivative split.
 
 ## Exact next activity
 
-Process **scan 308 / printed page 304**, chapter 35, from `p7.md` plus native Part-007 page 14. Verify the open `‘மிருகம்’` → `பதுங்கி விட்டது...` continuation and continue sequential canonical reconciliation. The Part-007 Tamil audit remains blocked until scans **304–305** receive explicit lexical-omission disposition.
+Process **scan 313 / printed page 309**, chapter 35, from `p7.md` plus native Part-007 page 19. Continue sequential canonical reconciliation through scan 343. The Part-007 Tamil audit remains blocked until the remaining pages are reconciled and scans **304–305** receive explicit lexical-omission disposition.
