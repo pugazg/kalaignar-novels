@@ -5,7 +5,7 @@ section_order: 34
 section_title: "Chapter 34"
 language: "en"
 source_scans: "297 (chapter-34 portion)-306"
-status: "draft-translated"
+status: "source-checked-part-007"
 derived_from: "audited Tamil pages and checked assembled sections/34-chapter-34.md"
 ---
 
