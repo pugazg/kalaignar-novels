@@ -24,7 +24,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 003 | `TVA_BOK_0064097_புதையல்_part_003_pages_99-147.pdf` | 99–147 | 97–145 | **49/49 verified; part-complete** |
 | 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **49/49 verified; part-complete** |
 | 005 | `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf` | 197–245 | 195–241 | **49/49 represented; 42 verified + 7 source-damage needs-review; part-complete with qualification** |
-| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 38 canonical; 37 complete + scan 283 needs-review; 11 not-started; in progress** |
+| 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 mapped; 38 canonical; 38 complete; 0 needs-review; 11 not-started; in progress** |
 
 Part-006 derivative byte record:
 
@@ -62,19 +62,20 @@ From **scan 280 onward**, by explicit user instruction:
 - scan 283 continues chapter 32 with no source-printed transition;
 - native long dashes include `போதும்—இனியும்` and `வெள்ளியம்பலம்—என்ற`;
 - physical word-internal breaks include `நிலைப்` / `படுத்திவிட்டது`, `கூறிக்` / `கொண்டே`, `துக்கா` / `ராம்`, `உனக்` / `கும்`, `உண்மை` / `யைக்`, `சொல்` / `வது`, and `பயன்படுத்து` / `வார்`;
-- **Gemini lexical omission on scan 283:** source visibly contains `பார்` after `ஓடிப் போகிறேன்`; Gemini omits it. The word is not inserted under the active policy, so scan 283 remains `needs-review`;
+- refreshed user-supplied Gemini Iteration 27 explicitly contains `பார்` after `ஓடிப் போகிறேன்`; the earlier omission flag is resolved from Gemini itself, with no native-source lexical supplementation;
+- no Gemini lexical span remains unresolved on scan 283;
 - scan 283 endpoint is `வெள்ளியம்பலம்—என்ற திகிலும் கூடவே பிறந்தது.`.
 
 ## Canonical Tamil state
 
 - page records created: **283**
-- verified / completed: **275**
-- needs-review: **8 — scans 215–219, 223–224, 283**
+- verified / completed: **276**
+- needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later completed pages extend through scan **282**, with scan 283 `needs-review`
+- later completed pages extend through scan **283**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 37 verified/completed + 1 needs-review / 49**
+- Part 006: **in progress — 38 / 49 verified/completed**
 - assembled Tamil / English / bilingual review: **completed only through Part 005 / scan 245**
 
 Part-006 records currently extend through `../pages/0283-pudhaiyal.md`, with latest fidelity record [`../notes/visual-fidelity-scan-283.md`](../notes/visual-fidelity-scan-283.md).
@@ -90,4 +91,4 @@ Part-006 records currently extend through `../pages/0283-pudhaiyal.md`, with lat
 
 ## Exact next action
 
-Process **scan 284 / printed page 280**, continuing chapter 32. Keep Gemini's words exactly and use native scan evidence only for structural/presentation findings. Keep scan 283's `பார்` omission open pending explicit disposition.
+Process **scan 284 / printed page 280**, continuing chapter 32. Keep Gemini's words exactly and use native scan evidence only for structural/presentation findings.
