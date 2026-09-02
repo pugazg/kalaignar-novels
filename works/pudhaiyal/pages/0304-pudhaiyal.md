@@ -4,10 +4,10 @@ printed_page: 300
 work: "pudhaiyal"
 section: "34"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied p7.md lexical/textual baseline retained exactly under the scan-280-onward policy; native split part 007 page 10 used only for punctuation, quotation marks, paragraphing and physical page-boundary findings; one source-visible lexical omission in p7.md flagged without silent insertion"
+transcription_method: "user-supplied p7.md lexical/textual baseline retained under the scan-280-onward policy; native split part 007 page 10 used for structure; source-visible omitted lexical word நீ inserted only after explicit user authorization"
 ---
 
 ராமனும், “அய்யா! அய்யா!!” என்று உரக்க சப்தம் போட்டுக்கொண்டே யிருந்தான்.
@@ -22,7 +22,7 @@ transcription_method: "user-supplied p7.md lexical/textual baseline retained exa
 
 “சொல்வதைக் கேள்! இப்போது வீட்டுக்குத் தீ வைக்கப் போகிறேன். வீடு எரியும். ஊர் கூடும். அந்த சமயத்தில் எரியும் வீட்டுக்குள்ளேயிருந்து நீ ஓடி விட வேண்டும். இருட்டில் யாரும் உன்னைக் காண முடியாது!”
 
-“?……”
+“நீ?……”
 
 “நான் என் அத்தானைக் காப்பாற்றியாக வேண்டும்!”
 
@@ -32,10 +32,9 @@ transcription_method: "user-supplied p7.md lexical/textual baseline retained exa
 
 ## Source / boundary notes
 
-- `p7.md` controls lexical/textual wording; native scan 304 controls punctuation, quotation marks and paragraph structure.
-- **Unresolved lexical omission:** the native page visibly prints `“நீ?……”`, while the controlling `p7.md` supplies only `“?......”`. Under the standing scan-280-onward rule, source-visible lexical word `நீ` is **not silently inserted** into the canonical body.
-- Because that complete lexical word is absent from the controlling baseline, this page remains `needs-review` pending explicit user/baseline resolution.
-- Punctuation around the unresolved utterance is structurally normalized from the native page without supplying the omitted lexical word.
+- `p7.md` remains the controlling lexical baseline generally; native scan 304 controls punctuation, quotation marks and paragraph structure.
+- The baseline omitted source-visible lexical word `நீ` in `“நீ?……”`.
+- On 2026-09-02 the user explicitly authorized insertion of all three documented Part-007 omissions; `நீ` is therefore restored from the native source and this page is now `verified`.
 - No other complete lexical omission was identified on this page.
 
 <!-- மூல ஸ்கேன் பக்கம்: 304; அச்சுப் பக்கம்: 300 -->
