@@ -5,7 +5,7 @@ section_order: 35
 section_title: "Chapter 35"
 language: "en"
 source_scans: "307-317 (chapter-35 portion)"
-status: "draft-translated"
+status: "source-checked-part-007"
 derived_from: "audited Tamil pages and checked assembled sections/35-chapter-35.md"
 ---
 
