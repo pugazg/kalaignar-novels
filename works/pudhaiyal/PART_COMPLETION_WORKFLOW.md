@@ -19,36 +19,21 @@ A derivative boundary is provenance only. Do not invent word, sentence, paragrap
 
 ## Pudhaiyal lexical baseline rule — effective from scan 280 onward
 
-By explicit user instruction, the remaining Part-006 transcription uses a **hybrid authority model**.
+By explicit user instruction, Part-006 scan **280 onward** uses a hybrid authority model.
 
 ### WORDS
 
-For scan **280 onward**, Gemini's supplied transcription controls lexical wording.
+Gemini's supplied transcription controls lexical wording.
 
-- retain Gemini's words exactly;
-- do not change spelling, suffixes, vowel signs, sandhi, lexical spacing, or unusual word forms from native visual reading;
-- do not replace a Gemini word merely because the scan appears to contain a different word;
-- if Gemini omitted a word/span altogether or a baseline span is incomplete, flag the omission instead of silently supplying lexical text from the scan.
+- retain Gemini's words, spelling, suffixes, vowel signs, sandhi, lexical forms and supplied lexical spacing;
+- do not replace a Gemini word merely because the scan appears to contain a different lexical form;
+- if Gemini omitted a word/span altogether, flag the omission instead of silently supplying lexical text from the scan.
 
 ### STRUCTURE / PRESENTATION
 
-The native scan controls:
+The native scan controls headings/chapter numbers, paragraph boundaries, punctuation, quotation marks, long dashes, speaker-label spacing/layout, physical line/page breaks, separators and chapter/scene transitions.
 
-- headings and chapter numbers;
-- paragraph boundaries;
-- punctuation;
-- quotation marks;
-- long dashes;
-- speaker-label spacing/layout;
-- physical line breaks;
-- physical page breaks and cross-page provenance;
-- horizontal rules / star separators;
-- scene/chapter transitions;
-- other non-lexical structural findings.
-
-When a lexical word is split physically across a source line or source page, keep Gemini's lexical wording while preserving/recording the native physical split.
-
-This rule is **prospective from scan 280**. Scans 246–279 are not reopened solely to apply it unless explicitly requested.
+When a lexical word is split physically across a source line or source page, keep Gemini lexical wording while preserving/recording the native physical split.
 
 ## Active split — Part 006
 
@@ -57,31 +42,29 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - physical pages / mapped source scans: **49 / 49 — scans 246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records: **38 / 49 — scans 246–283**
-- verified / structurally completed: **38**
+- canonical records: **49 / 49**
+- verified / structurally completed: **49 / 49**
 - needs-review: **0**
-- not-started: **11 — scans 284–294**
-- latest native-fidelity record: [`notes/visual-fidelity-scan-283.md`](notes/visual-fidelity-scan-283.md)
-- Tamil audit: **not eligible**
-- assembled Tamil: **not eligible**
-- controlled English: **not eligible**
+- not-started: **0**
+- latest native-fidelity record: [`notes/visual-fidelity-scan-294.md`](notes/visual-fidelity-scan-294.md)
+- Tamil audit: **eligible — next activity**
+- assembled Tamil: **not eligible until audit passes**
+- controlled English: **not eligible until audit/assembled Tamil pass**
 - bilingual review: **not eligible**
-- state: **`in-progress`**
+- state: **canonical/structural complete — audit pending**
 
-### Current Part-006 checkpoint
+### Part-006 boundary / structure checkpoints
 
-- scans 280–283 are processed under the Gemini-lexical/native-structure policy;
-- scan 282 ends without punctuation at `துக்காராம் அப்படியே அசைவற்று நின்றான்`; scan 283 begins `சிறிது நேரம்.`, confirming cross-page sentence continuity;
-- scan 283 continues chapter 32 with native punctuation/quote/paragraph/long-dash structure and Gemini words unchanged;
-- source long dashes include `போதும்—இனியும்` and `வெள்ளியம்பலம்—என்ற`;
-- native physical word-internal line breaks include `நிலைப்` / `படுத்திவிட்டது`, `கூறிக்` / `கொண்டே`, `துக்கா` / `ராம்`, `உனக்` / `கும்`, `உண்மை` / `யைக்`, `சொல்` / `வது`, and `பயன்படுத்து` / `வார்`;
-- the refreshed user-supplied Gemini Iteration-27 baseline explicitly includes `பார்` after `ஓடிப் போகிறேன்`; the earlier omission flag was caused by an incomplete baseline copy and is resolved from Gemini itself, not from native-source lexical supplementation;
-- no Gemini lexical span remains unresolved on scan 283;
-- scan 283 ends `வெள்ளியம்பலம்—என்ற திகிலும் கூடவே பிறந்தது.`.
+- chapter 27 closes / chapter 28 begins scan 247;
+- four-star internal transition scan 251;
+- chapter 29 begins 254 and closes 262;
+- chapter 30 begins 262 and closes 271;
+- chapter 31 begins 271 and closes 278;
+- chapter 32 begins 278 and closes 288;
+- chapter 33 begins 288 and continues beyond the derivative endpoint;
+- scan 294 / printed 290 ends at open `‘லாக்` inside dialogue, with no source ending marker.
 
-Part-006 mapped chapter transitions: chapter 28 begins scan 247; four-star internal transition scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262 and closes 271; chapter 31 begins 271 and closes 278; chapter 32 begins 278; chapter 33 begins 288.
-
-Do not run the Part-006 Tamil audit or any downstream stage until all scans 246–294 have canonical records and structural/native-fidelity dispositions.
+Scans **280–294** are all verified under the Gemini-lexical/native-structure policy, and no Gemini lexical omission remains unresolved.
 
 ## Completed split checkpoints
 
@@ -93,4 +76,4 @@ Do not run the Part-006 Tamil audit or any downstream stage until all scans 246�
 
 ## Exact next activity
 
-Process **scan 284 / printed page 280** directly under the Gemini-lexical/native-structure rule. Keep Gemini's words exactly; use the native source for headings, punctuation, long dashes, quote style, paragraph structure, speaker-label spacing, physical line/page breaks and other structural findings.
+Run the **Part-006 Tamil audit** for scans **246–294**. Audit all 49 canonical records against the page map and fidelity records; verify page-boundary continuity, chapter transitions, scan-280-onward Gemini lexical preservation and scan-294's open derivative boundary. Only after a passing audit should assembled Tamil be updated.
