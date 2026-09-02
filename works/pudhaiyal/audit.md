@@ -1,6 +1,6 @@
 # Tamil / split-part audit — புதையல்
 
-Status: **IN PROGRESS — Parts 001–006 part-complete; Part 007 canonical reconciliation active through scan 302; whole-work gate not eligible**
+Status: **IN PROGRESS — Parts 001–006 part-complete; Part 007 canonical reconciliation active through scan 307; whole-work gate not eligible**
 
 Source: `TVA_BOK_0064097_புதையல்.pdf`
 
@@ -41,44 +41,47 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 - lexical baseline: uploaded `p7.md`, SHA-256 `a804b914b88050ca8d31142cb00d7491c94e89ff1fb7e564fdd348bdf14b1c59`
 - source intake: [`notes/part-007-source-intake.md`](notes/part-007-source-intake.md)
 - page map: [`indexes/part-007-page-map.md`](indexes/part-007-page-map.md)
-- canonical records: **8 / 49 — scans 295–302**
-- verified / structurally completed: **8 / 49**
-- needs-review: **0**
-- not-started: **41 — scans 303–343**
+- canonical records: **13 / 49 — scans 295–307**
+- verified / structurally completed: **11 / 49**
+- needs-review: **2 — scans 304–305**
+- not-started: **36 — scans 308–343**
 - Part-007 Tamil audit: **NOT YET ELIGIBLE**
 - Part-007 state: **`canonical-in-progress`**
 
-### Verified continuity / structure through scan 302
+### Verified continuity / structure through scan 307
 
 - scan 294 `‘லாக்` + scan 295 `அப்’பில்` = **`‘லாக் அப்’பில்`**, proving Part-006→007 continuity inside the same Sub-Inspector dialogue;
 - scan 295 ends with a source-printed four-star internal transition;
 - scan 296 remains chapter 33;
 - scan 297 closes chapter 33 and begins chapter 34 under a horizontal rule + heading `34`;
 - scan 297→298 continues `அவனை அனுதாபத்தோடு` → `தொட்டுத் தூக்கிடும் போதும்...`;
-- scans 298–302 are directly structurally reconciled against native Part-007 pages 4–8;
-- scan 300→301 preserves the open quoted question `ஏன் ஓடச்` → `சொல்லுகிறாய்?`;
-- scan 301→302 preserves `பரிமளா திருமணத்தை` → `முடித்துவிட வேண்டும்.` inside Dukkaram's internal speech;
-- scan 302 ends physically inside `பெற்றான்` as `பெற்`; scan 303 must verify the continuation `றான்`;
+- scan 302→303 physically establishes `பெற்` + `றான்` → `பெற்றான்`;
+- scan 304 has one complete baseline lexical omission: native source visibly prints `நீ` in `“நீ?……”`, while `p7.md` does not. The word has not been source-inserted;
+- scan 305 has one complete baseline lexical omission: native source visibly prints `என்ன` after `ஒப்புக் கொள்ளா விட்டால்...`, while `p7.md` omits it. The word has not been source-inserted;
+- scan 306 closes chapter 34 with a source-printed horizontal rule;
+- scan 307 begins chapter 35 under heading `35` and ends open after `அவனை ஆட்டி வைத்த ‘மிருகம்’`;
 - the Part-007 endpoint spot-check at scan 343 / printed 339 ends at `அதிர்ஷ்`, still mid-utterance, so no chapter/novel ending may be inferred.
+
+Fidelity record for this batch: [`notes/visual-fidelity-scans-303-307.md`](notes/visual-fidelity-scans-303-307.md).
 
 ## Aggregate canonical state
 
-- records created: **302**
-- verified / completed: **295**
-- needs-review: **7 — Part 005 scans 215–219, 223–224**
+- records created: **307**
+- verified / completed: **298**
+- needs-review: **9 — Part 005 scans 215–219, 223–224; Part 007 scans 304–305**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later completed coverage: through scan **302**, except the seven damaged Part-005 records
+- later completed coverage: through scan **307**, except the nine `needs-review` records above
 - Parts 001–006: **part-complete at split level**
-- Part 007: **canonical reconciliation active through scan 302**
+- Part 007: **canonical reconciliation active through scan 307**
 - assembled Tamil remains part-reviewed through scan **294**
 - source-checked / bilingual-reviewed English remains continuous through scan **294**
 - physically received source derivative coverage: through scan **343 / printed 339**
 
 ## Whole-work gate
 
-**NOT ELIGIBLE.** Part 007 still requires complete canonical reconciliation, structural review, Tamil audit, assembly, English source check and bilingual review. Source beyond scan 343 is also still required because the current derivative ends mid-utterance.
+**NOT ELIGIBLE.** Part 007 still requires complete canonical reconciliation, resolution/disposition of the two baseline omissions at scans 304–305, Tamil audit, assembly, English source check and bilingual review. Source beyond scan 343 is also still required because the current derivative ends mid-utterance.
 
 ## Exact next activity
 
-Process **scan 303 / printed 299** under the `p7.md` lexical/native-structure rule, first verifying the physical `பெற்` + `றான்` → `பெற்றான்` continuation. Continue sequentially through scans 303–343 before running the Part-007 Tamil audit.
+Process **scan 308 / printed 304** under the `p7.md` lexical/native-structure rule, first verifying `‘மிருகம்’` → `பதுங்கி விட்டது...`. Continue sequentially through scans 308–343. Do not pass the Part-007 Tamil audit while scans 304–305 remain unresolved `needs-review` lexical omissions.
