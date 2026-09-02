@@ -20,13 +20,15 @@ Split PDFs are access derivatives of one source edition. `part-complete` is a sp
 User-supplied Gemini transcription controls lexical wording/forms/spacing. Native scans control headings, paragraph boundaries, punctuation, quotations, physical boundaries, separators and chapter/scene structure.
 
 - Part 007 baseline: `p7.md`; three explicit user-authorized omissions restored.
-- Part 008 baseline: `p8.md`; **no complete lexical omission found**.
+- Part 008 baseline: `p8.md`; one complete native phrase absent from the baseline was found at scan 384 and explicitly authorized for restoration: **`தகட்டில் இருக்கிறபடி`**.
+
+A user-authorized restoration is narrow to the documented omission and does not establish general source-correction authority.
 
 ## Split checkpoints
 
 - Parts 001–006 — `part-complete`
 - Part 007 — scans **295–343** — `part-complete`
-- Part 008 — scans **344–392** — **Tamil audit PASSED / assembled Tamil next**
+- Part 008 — scans **344–392** — **Tamil audit PASSED + assembled Tamil PASSED / controlled English next**
 
 ## Part 008 gate state
 
@@ -35,12 +37,15 @@ User-supplied Gemini transcription controls lexical wording/forms/spacing. Nativ
 - visual/structural fidelity: **PASS**
 - Part-008 needs-review: **0**
 - Tamil audit: **PASS**
-- assembled Tamil: **NEXT**
-- controlled English: blocked until assembly pass
+- assembled Tamil: **PASS**
+- controlled English: **NEXT**
+- English source check: blocked until translation batch completion
 - bilingual review: blocked until English source check
 
 Part 008 continues Chapter 39 across the `அதிர்ஷ்` + `டம்` boundary and carries Chapters 40–45. Scan 392 ends Chapter 45 open at `நமது`; this is not the novel ending.
 
+Part-008 assembled audit: [`notes/part-008-assembled-tamil-audit.md`](notes/part-008-assembled-tamil-audit.md).
+
 ## Exact next activity
 
-Build and consistency-check the Part-008 assembled Tamil layer from scans **344–392**, then advance to controlled English only if that check passes.
+Begin controlled English translation of Part 008 scans **344–392** from the audited assembled Tamil Chapters **39–45**, preserving all structural transitions and the open endpoint at `நமது`.
