@@ -5,7 +5,7 @@ section_order: 37
 section_title: "Chapter 37"
 language: "en"
 source_scans: "324 (chapter-37 portion)-330"
-status: "draft-translated"
+status: "source-checked-part-007"
 derived_from: "audited Tamil pages and checked assembled sections/37-chapter-37.md"
 ---
 
