@@ -13,9 +13,17 @@ The native scan controls page identity, headings, punctuation, quotation marks, 
 
 ### Pudhaiyal lexical-preservation override — scan 280 onward
 
-By explicit user instruction, supplied Gemini transcription controls **WORDS / lexical text** from scan 280 onward. Keep supplied words, spelling, suffixes, lexical forms, wording and supplied lexical spacing; do not source-correct a supplied form from native visual evidence. If the supplied baseline omits a complete word/span, flag it rather than silently supplying source text.
+By explicit user instruction, supplied Gemini transcription controls **WORDS / lexical text** from scan 280 onward. Keep supplied words, spelling, suffixes, lexical forms, wording and supplied lexical spacing; do not source-correct a supplied form from native visual evidence.
 
-For Part 007, uploaded `p7.md` is the controlling lexical baseline. Source/split PDFs and uploaded baseline files must never be committed.
+For Part 007, uploaded `p7.md` is the controlling lexical baseline. Three complete omissions discovered during visual reconciliation were restored only after the user's explicit 2026-09-02 instruction **`insert all three omissions`**:
+
+- scan 304 — `நீ`;
+- scan 305 — `என்ன`;
+- scan 315 — `சரி...... வா! வா!......`.
+
+No broader lexical source-correction permission was given. Scan 343 therefore retains supplied `అది` despite native Tamil `அது`.
+
+Source/split PDFs and uploaded baseline files must never be committed.
 
 ## Source identity — புதையல்
 
@@ -48,20 +56,13 @@ Source: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 - derivative SHA-256: `9ead2089eb238273f7b0fd0dbe2f929095730fbf3fc218719e66fe0d472bb15c`
 - lexical baseline: uploaded `p7.md`, SHA-256 `a804b914b88050ca8d31142cb00d7491c94e89ff1fb7e564fdd348bdf14b1c59`
 - canonical records: **49 / 49**
-- verified / structurally completed: **46 / 49**
-- needs-review: **3 — scans 304, 305, 315**
-- not-started: **0**
-- state: **`canonical-complete / lexical-omission-disposition-pending`**
+- verified / structurally completed: **49 / 49**
+- Part-007 needs-review: **0**
+- Tamil audit: **PASSED**
+- state: **`tamil-audit-passed / assembled-tamil-next`**
 - page map: `works/pudhaiyal/indexes/part-007-page-map.md`
 - latest fidelity: `works/pudhaiyal/notes/visual-fidelity-scans-318-343.md`
-
-### Unresolved Part-007 lexical omissions
-
-- scan 304 — native `நீ` is absent from `p7.md`;
-- scan 305 — native `என்ன` is absent from `p7.md`;
-- scan 315 — native quoted `சரி...... வா! வா!......` is absent from `p7.md`.
-
-None has been silently inserted. These three records block the Part-007 Tamil audit until explicit disposition.
+- Tamil audit record: `works/pudhaiyal/notes/part-007-tamil-audit.md`
 
 ### Verified structural progression through scan 343
 
@@ -74,19 +75,18 @@ None has been silently inserted. These three records block the Part-007 Tamil au
 - scan 330 has a four-star internal transition and closes chapter 37 at the foot rule;
 - scan 331 opens chapter **38**;
 - scan 340 closes chapter 38 and opens chapter **39**;
-- scan 343 remains chapter 39 and ends open at `அதிர்ஷ்`, with no closing quotation or sentence punctuation;
-- scan 343 retains supplied `p7.md` lexical `అది` despite native Tamil `அது`, because the standing rule forbids source-correcting supplied lexical text.
+- scan 343 remains chapter 39 and ends open at `அதிர்ஷ்`, with no closing quotation or sentence punctuation.
 
-Part 007 is therefore **canonical-complete but not Tamil-audited**. Its derivative endpoint is open and is not a novel ending. Source beyond scan 343 remains required for whole-work completion.
+Part 007 is therefore **Tamil-audited but not yet assembled/translated**. Its derivative endpoint is open and is not a novel ending. Source beyond scan 343 remains required for whole-work completion.
 
 ## Aggregate durable state
 
 - canonical records: **343**
-- verified / completed: **333**
-- needs-review: **10 — Part 005 scans 215–219, 223–224; Part 007 scans 304, 305, 315**
+- verified / completed: **336**
+- needs-review: **7 — only Part 005 scans 215–219, 223–224**
 - partial: **0**
 - Parts 001–006: **part-complete**
-- Part 007: **canonical-complete; audit blocked only by omission disposition**
+- Part 007: **Tamil audit PASSED**
 - assembled Tamil: part-reviewed through scan **294**
 - source-checked / bilingual-reviewed English: through scan **294**
 - received source coverage: through scan **343 / printed 339**
@@ -94,4 +94,4 @@ Part 007 is therefore **canonical-complete but not Tamil-audited**. Its derivati
 
 ## Exact next activity
 
-Obtain explicit user/baseline disposition for scans **304, 305 and 315**. If the source-visible omitted spans are authorized for insertion, update those three canonical records and their fidelity/status notes; if they are to remain omitted, record that qualification explicitly. Then run the **Part-007 Tamil audit across scans 295–343**. Do not begin Part-007 assembled Tamil or English until that audit passes.
+Build and consistency-check the **Part-007 assembled Tamil reading layer across scans 295–343** from audited canonical pages. Continue Chapter 33 across the Part-006 boundary, assemble Chapters 34–39 with all verified cross-page joins and internal transitions, and leave Chapter 39 open at `அதிர்ஷ்`. Do not begin Part-007 English until the assembled-Tamil check passes.
