@@ -1,22 +1,23 @@
 # Tamil / split-part audit — புதையல்
 
-Status: **IN PROGRESS — Parts 001–006 part-complete at split level; whole-work gate not eligible**
+Status: **IN PROGRESS — Parts 001–006 part-complete; Part 007 canonical reconciliation active through scan 297; whole-work gate not eligible**
 
 Source: `TVA_BOK_0064097_புதையல்.pdf`
 
 ## Authority rule
 
-Through scan 279, the completed records retain the earlier source-first reconciliation decisions.
+Through scan 279, completed records retain the earlier source-first reconciliation decisions.
 
-### Scan 280 onward — Gemini lexical / native structural rule
+### Scan 280 onward — supplied lexical / native structural rule
 
 By explicit user instruction:
 
-- Gemini controls **words, spelling, suffixes, lexical forms, lexical wording and supplied lexical spacing**;
+- supplied Gemini transcription controls **words, spelling, suffixes, lexical forms, lexical wording and supplied lexical spacing**;
 - native scan controls **headings, punctuation, quotation marks, long dashes, speaker-label spacing, paragraph structure, physical line/page breaks, separators, chapter/scene transitions and other structural findings**;
-- do not override a Gemini word from native visual reading;
-- if Gemini omits a lexical span, flag it rather than silently supplying source words;
-- this rule is prospective from scan 280 and does not reopen scans 246–279.
+- do not override a supplied word from native visual reading;
+- if the supplied baseline omits a lexical span, flag it rather than silently supplying source words.
+
+For Part 007, uploaded `p7.md` is the controlling lexical baseline.
 
 ## Completed part checkpoints
 
@@ -31,57 +32,49 @@ By explicit user instruction:
 
 The seven physically damaged Part-005 records **215–219 and 223–224** remain `needs-review` by explicit source-damage qualification.
 
-## Part 006 — completed split checkpoint
+## Part 007 — active canonical checkpoint
 
-Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
+Derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 
-- physical pages mapped: **49 / 49 — scans 246–294 / printed 242–290**
-- canonical records: **49 / 49**
-- verified / structurally completed: **49 / 49**
+- physical pages mapped: **49 / 49 — scans 295–343 / printed 291–339**
+- derivative SHA-256: `9ead2089eb238273f7b0fd0dbe2f929095730fbf3fc218719e66fe0d472bb15c`
+- lexical baseline: uploaded `p7.md`, SHA-256 `a804b914b88050ca8d31142cb00d7491c94e89ff1fb7e564fdd348bdf14b1c59`
+- source intake: [`notes/part-007-source-intake.md`](notes/part-007-source-intake.md)
+- page map: [`indexes/part-007-page-map.md`](indexes/part-007-page-map.md)
+- canonical records: **3 / 49 — scans 295–297**
+- verified / structurally completed: **3 / 49**
 - needs-review: **0**
-- Part-006 Tamil audit: **PASSED** — [`notes/part-006-tamil-audit.md`](notes/part-006-tamil-audit.md)
-- assembled Tamil: **PASSED split-level consistency check** — [`notes/part-006-assembled-tamil-check.md`](notes/part-006-assembled-tamil-check.md)
-- controlled English source check: **PASSED** — [`translations/en/PART_006_ENGLISH_CHECK.md`](translations/en/PART_006_ENGLISH_CHECK.md)
-- bilingual review: **PASSED** — [`translations/en/PART_006_REVIEW.md`](translations/en/PART_006_REVIEW.md)
-- Part-006 state: **`part-complete`**
+- not-started: **46 — scans 298–343**
+- Part-007 Tamil audit: **NOT YET ELIGIBLE**
+- Part-007 state: **`canonical-in-progress`**
 
-### Part-006 bilingual findings
+### Verified continuity / structure
 
-The completed split workflow confirms:
-
-- 49/49 canonical source coverage;
-- Part 005→006 continuity at scan 245→246 without a false narrative break;
-- all audited page joins through scan 294;
-- the source-printed four-star transition on scan 251;
-- real chapter transitions at scans 254, 262, 271, 278 and 288;
-- scan-280-onward Gemini lexical authority retained in controlling Tamil and respected by English;
-- no unresolved Gemini lexical omission in the represented Part-006 block;
-- reviewed English sentence/dialogue coverage through scan 294;
-- names/terms and place-name handling synchronized through the controlled glossary;
-- source satire, humour, threats, violence, romantic delusion, coercion and caste-marked wording retained without intentional omission/softening;
-- the scan-294 endpoint remains open at Tamil `‘லாக்` / English `‘Lock`, with no closing punctuation or ending invented.
-
-Bilingual review corrections affected **English only**. Canonical Tamil was not changed.
+- scan 294 `‘லாக்` + scan 295 `அப்’பில்` = **`‘லாக் அப்’பில்`**, proving Part-006→007 continuity inside the same Sub-Inspector dialogue;
+- scan 295 ends with a source-printed four-star internal transition;
+- scan 296 remains chapter 33;
+- scan 297 closes chapter 33 and begins chapter 34 under a horizontal rule + heading `34`;
+- scan 297 ends mid-sentence at `அவனை அனுதாபத்தோடு`, so scan 298 must be reconciled as continuation rather than as a fresh narrative start;
+- the Part-007 endpoint spot-check at scan 343 / printed 339 ends at `அதிர்ஷ்`, still mid-utterance, so no chapter/novel ending may be inferred.
 
 ## Aggregate canonical state
 
-- records created: **294**
-- verified / completed: **287**
+- records created: **297**
+- verified / completed: **290**
 - needs-review: **7 — Part 005 scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later completed coverage: through scan **294**, except the seven damaged Part-005 records
+- later completed coverage: through scan **297**, except the seven damaged Part-005 records
 - Parts 001–006: **part-complete at split level**
-- assembled Tamil is part-reviewed continuously through scan **294**
-- source-checked / bilingual-reviewed English is continuous through scan **294**
-- full-source physical coverage from received derivatives: through scan **294**
+- Part 007: **canonical reconciliation active**
+- assembled Tamil remains part-reviewed through scan **294**
+- source-checked / bilingual-reviewed English remains continuous through scan **294**
+- physically received source derivative coverage: through scan **343 / printed 339**
 
 ## Whole-work gate
 
-**NOT ELIGIBLE.** Source beyond scan 294, the true ending/back matter, complete-source Tamil audit and whole-work bilingual review remain open.
-
-Part-level `part-complete` does not upgrade the seven earlier damaged Part-005 canonical records and does not imply that the novel is complete.
+**NOT ELIGIBLE.** Part 007 still requires complete canonical reconciliation, structural review, Tamil audit, assembly, English source check and bilingual review. Source beyond scan 343 is also still required because the current derivative ends mid-utterance.
 
 ## Exact next activity
 
-Obtain / resolve the **next source derivative beyond scan 294** and verify its first page against the open `‘லாக்` continuation before assigning any new source scan, printed-page mapping, chapter continuation or part range. Do not infer the novel ending or full source extent from the current derivative set.
+Process **scan 298 / printed 294** under the `p7.md` lexical/native-structure rule, preserving the open chapter-34 continuation from scan 297. Continue sequentially through scans 298–343 before running the Part-007 Tamil audit.
