@@ -60,16 +60,27 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - needs-review: **0**
 - not-started: **0**
 - latest fidelity record: `works/pudhaiyal/notes/visual-fidelity-scan-294.md`
-- Tamil audit: **eligible — not yet run**
-- assembled Tamil / English / bilingual review: **not yet eligible**
-- Part-006 state: **canonical/structural complete — audit pending**
+- Tamil audit: **PASSED** — `works/pudhaiyal/notes/part-006-tamil-audit.md`
+- assembled Tamil: **eligible — pending**
+- English / bilingual review: **blocked until assembled Tamil split-level consistency check passes**
+- Part-006 state: **`part-tamil-audit-passed`**
 
-### Completed hybrid-policy range — scans 280–294
+### Part-006 Tamil-audit result
 
-All scans **280–294** preserve Gemini lexical wording and use native scan evidence only for structural/presentation findings.
+The Part-006 audit passed all required source-layer checks:
 
-Important continuity checkpoints:
+- 49/49 page inventory and canonical coverage;
+- page-map ↔ canonical agreement;
+- Part 005→006 opening continuity;
+- page-boundary joins and chapter transitions;
+- scan-280-onward Gemini lexical preservation;
+- native structural fidelity;
+- no unresolved Gemini lexical omission;
+- scan 294 treated as an open access-derivative endpoint.
 
+Important continuity checkpoints include:
+
+- 245→246: `இருக்கவே` / `இருக்கிறாள் பரிமளா, ...`;
 - 282→283: `நின்றான்` / `சிறிது நேரம்.`;
 - 284→285: open dialogue `முடியுமா` / `என்று யோசனை செய்கிறேன்`;
 - 285→286: `பரி` / `மளாவையும்`;
@@ -83,8 +94,6 @@ Scan **288 / printed 284** carries the source horizontal rule and heading **33**
 
 Scan **294 / printed 290** ends physically at open `‘லாக்` inside the Sub-Inspector's dialogue. There is no closing punctuation, chapter close or work-ending marker. This is the Part-006 derivative boundary only; whole-work continuation requires a later source split beyond scan 294.
 
-No Gemini lexical omission remains unresolved in Part 006.
-
 ## Aggregate durable state
 
 - canonical records: **294**
@@ -94,11 +103,19 @@ No Gemini lexical omission remains unresolved in Part 006.
 - clean contiguous fully verified range: through scan **214 / printed page 212**
 - later completed pages: through scan **294**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **49/49 canonical and verified; Tamil audit pending**
+- Part 006: **Tamil audit PASSED; assembled Tamil pending**
 - assembled Tamil / English split-level review: through scan **245** only
 - source scans represented by currently received derivatives: through **294**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Run the **Part-006 Tamil audit across scans 246–294**. Verify page-map/canonical agreement, 49/49 coverage, page-boundary continuity, chapter transitions, scan-280-onward Gemini lexical preservation, native structural fidelity, and the open derivative endpoint at scan 294. Do not begin assembled Tamil or English Part-006 work until the audit passes.
+Build the **Part-006 assembled Tamil reading layer from audited canonical pages only**:
+
+1. extend `works/pudhaiyal/sections/27-chapter-27.md` from scan 245 through the chapter-27 close on scan 247;
+2. create / populate assembled chapter files **28 through 33** from scans 247–294;
+3. preserve the scan-251 four-star internal transition, real chapter boundaries, reversible source-page comments and verified cross-page joins;
+4. leave chapter 33 explicitly open at scan 294 / `‘லாக்`; do not invent a close or novel ending;
+5. update `works/pudhaiyal/sections/README.md` after a split-level assembled consistency check.
+
+Do not begin Part-006 English translation until the assembled Tamil layer passes that check.
