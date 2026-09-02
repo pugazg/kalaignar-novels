@@ -27,6 +27,8 @@ This is a controlled translation glossary. It never changes canonical Tamil.
 | `குடுகுடுப்பாண்டி` | **Kudukuduppandi** | retain Ambalam's colloquial direct address to the fortune-teller rather than flattening it into a speaker label |
 | `சாயபு` | **Saibu** | retain the fortune-teller's repeated self-reference/title in the Part-007/008 dialogue |
 | `சண்டாளன்` | **Chandalan** | retain the source's caste-marked/insulting wording in Chapter 39 rather than replacing it with a neutral generic insult |
+| `வசியம்` | **vashiyam** | Part 008 occult/mesmeric term; retain conservatively and translate its narrative function contextually without assigning an external technical definition |
+| `சக்கம்மா / காளியாயி` | **Sakkamma / Kaaliyayi** | deity names invoked by the disguised fortune-teller in Part 008; preserve source-facing forms |
 | `ஓமகுண்டம்` | **homa-kundam** | Part 008 marriage/fire-ritual reference; conservative transliteration avoids over-explaining ritual context |
 | `கோமேதகம்` | **gomethagam gem** | Chapter 40 metaphor; retain the Tamil gem-name conservatively instead of imposing a mineral identification |
 | `கெஜ` | **gaz** | historical/source measurement term in Chapter 41; do not silently convert to a modern metric value |
