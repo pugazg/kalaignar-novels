@@ -11,10 +11,11 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343
 - source/split PDF committed: **No**
 - baseline file committed: **No**
 - canonical records created: **49 / 49 — scans 295–343**
-- verified / structurally completed: **46 / 49**
-- needs-review in Part 007: **3 — scans 304–305, 315**
+- verified / structurally completed: **49 / 49**
+- needs-review in Part 007: **0**
 - not-started: **0**
-- split state: **`canonical-complete / lexical-omission-disposition-pending`**
+- Tamil audit: **PASSED** — `../notes/part-007-tamil-audit.md`
+- split state: **`tamil-audit-passed / assembled-tamil-next`**
 
 ## Authority rule
 
@@ -24,6 +25,8 @@ For all Part-007 scans, the existing scan-280-onward rule remains binding:
 - **native scan:** page identity, punctuation, quotation marks, long dashes, paragraphing, physical line/page breaks, separators, chapter/scene transitions and other structural findings;
 - do not source-correct `p7.md` lexical words from native pixels;
 - if `p7.md` omits an entire lexical span, flag it rather than silently adding source text.
+
+Exception resolved by explicit user authorization on 2026-09-02: restore the three source-confirmed omissions at scans **304, 305 and 315**. No other Part-007 lexical override is authorized.
 
 The Part-006→007 derivative boundary is provenance only. Scan 294 ends at open `‘லாக்`; scan 295 begins `அப்’பில்`, establishing the cross-part continuation **`‘லாக் அப்’பில்`**.
 
@@ -38,8 +41,8 @@ The Part-006→007 derivative boundary is provenance only. Scan 294 ends at open
 | 301 | 297 | chapter 34 | verified | `../pages/0301-pudhaiyal.md` |
 | 302 | 298 | chapter 34 | verified | `../pages/0302-pudhaiyal.md` |
 | 303 | 299 | chapter 34 | verified | `../pages/0303-pudhaiyal.md` |
-| 304 | 300 | chapter 34 | needs-review | `../pages/0304-pudhaiyal.md`; baseline omits source-visible `நீ` |
-| 305 | 301 | chapter 34 | needs-review | `../pages/0305-pudhaiyal.md`; baseline omits source-visible `என்ன` |
+| 304 | 300 | chapter 34 | verified | `../pages/0304-pudhaiyal.md`; user-authorized restoration `நீ` |
+| 305 | 301 | chapter 34 | verified | `../pages/0305-pudhaiyal.md`; user-authorized restoration `என்ன` |
 | 306 | 302 | chapter 34 closes | verified | `../pages/0306-pudhaiyal.md` |
 | 307 | 303 | chapter 35 begins | verified | `../pages/0307-pudhaiyal.md` |
 | 308 | 304 | chapter 35 | verified | `../pages/0308-pudhaiyal.md` |
@@ -49,7 +52,7 @@ The Part-006→007 derivative boundary is provenance only. Scan 294 ends at open
 | 312 | 308 | chapter 35 | verified | `../pages/0312-pudhaiyal.md` |
 | 313 | 309 | chapter 35 | verified | `../pages/0313-pudhaiyal.md` |
 | 314 | 310 | chapter 35 | verified | `../pages/0314-pudhaiyal.md` |
-| 315 | 311 | chapter 35 | needs-review | `../pages/0315-pudhaiyal.md`; baseline omits source-visible `சரி...... வா! வா!......` |
+| 315 | 311 | chapter 35 | verified | `../pages/0315-pudhaiyal.md`; user-authorized restoration `சரி...... வா! வா!......` |
 | 316 | 312 | chapter 35 | verified | `../pages/0316-pudhaiyal.md` |
 | 317 | 313 | chapter 35 closes / chapter 36 begins | verified | `../pages/0317-pudhaiyal.md` |
 | 318 | 314 | chapter 36 | verified | `../pages/0318-pudhaiyal.md` |
@@ -79,11 +82,10 @@ The Part-006→007 derivative boundary is provenance only. Scan 294 ends at open
 | 342 | 338 | chapter 39 | verified | `../pages/0342-pudhaiyal.md` |
 | 343 | 339 | chapter 39 / Part-007 open endpoint | verified | `../pages/0343-pudhaiyal.md`; ends mid-utterance at `அதிர்ஷ்` |
 
-## Canonical / structural result
+## Canonical / audit result
 
-- all **49 / 49** Part-007 scans now have canonical records;
-- **46 / 49** are verified;
-- only scans **304, 305 and 315** remain `needs-review`, each because `p7.md` omits a complete source-visible lexical word/span;
+- all **49 / 49** Part-007 scans have canonical records and are `verified`;
+- the three baseline omissions at scans **304, 305 and 315** were restored only after explicit user instruction `insert all three omissions`;
 - no additional complete baseline omission was found on scans **318–343**;
 - scan **322** required only a native structural-order correction, moving the unchanged `விடியற்காலை...` supplied span after the overnight dialogue and four-star transition;
 - scan **324** closes chapter 36 and opens **37**;
@@ -91,9 +93,10 @@ The Part-006→007 derivative boundary is provenance only. Scan 294 ends at open
 - scan **331** begins **38**;
 - scan **340** closes chapter 38 and opens **39**;
 - scan **343** ends at open `அதிர்ஷ்`, so Part 007 is not the chapter/novel ending;
-- scan 343 retains baseline lexical `అది` despite native Tamil `அது`, because the policy forbids source-correcting a supplied lexical form.
+- scan 343 retains baseline lexical `అది` despite native Tamil `அது`, because no source-correction authorization was given for that supplied lexical form;
+- Part-007 Tamil audit: **PASSED**.
 
-## Fidelity records
+## Fidelity / audit records
 
 - scan 295: `../notes/visual-fidelity-scan-295.md`
 - scans 296–297: `../notes/visual-fidelity-scans-296-297.md`
@@ -102,7 +105,8 @@ The Part-006→007 derivative boundary is provenance only. Scan 294 ends at open
 - scans 308–312: `../notes/visual-fidelity-scans-308-312.md`
 - scans 313–317: `../notes/visual-fidelity-scans-313-317.md`
 - scans 318–343: `../notes/visual-fidelity-scans-318-343.md`
+- Tamil audit: `../notes/part-007-tamil-audit.md`
 
 ## Exact next activity
 
-Obtain explicit disposition for the three Part-007 lexical omissions at scans **304, 305 and 315**. After those records are resolved or explicitly accepted as qualified exceptions, run the **Part-007 Tamil audit across scans 295–343**. Do not begin assembled Tamil or English before that audit passes.
+Build and consistency-check the **Part-007 assembled Tamil reading layer** from audited scans **295–343**. Continue Chapter 33 across the Part-006 boundary, assemble Chapters 34–39 with all verified separators/joins, and leave Chapter 39 open at `அதிர்ஷ்`. Do not begin English until the assembled-Tamil check passes.
