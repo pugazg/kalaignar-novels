@@ -5,7 +5,7 @@ section_order: 36
 section_title: "Chapter 36"
 language: "en"
 source_scans: "317 (chapter-36 portion)-324 (chapter-36 portion)"
-status: "draft-translated"
+status: "source-checked-part-007"
 derived_from: "audited Tamil pages and checked assembled sections/36-chapter-36.md"
 ---
 
