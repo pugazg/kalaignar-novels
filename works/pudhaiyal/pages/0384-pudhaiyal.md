@@ -4,15 +4,15 @@ printed_page: 380
 work: "pudhaiyal"
 section: "44"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied p8.md lexical/textual baseline retained under the scan-280-onward policy; native split part 008 page 41 used for punctuation, quotation marks, paragraphing and physical page-boundary findings; complete native phrase absent from p8.md quarantined rather than silently inserted"
+transcription_method: "user-supplied p8.md lexical/textual baseline retained under the scan-280-onward policy; native split part 008 page 41 used for punctuation, quotation marks, paragraphing and physical page-boundary findings; complete native phrase `தகட்டில் இருக்கிறபடி`, absent from p8.md, restored by explicit user authorization on 2026-09-02"
 ---
 
 போலீஸ் ஸ்டேஷனிலிருந்து திரும்பிய ராமன், செய்தி சொல்ல வந்து — அவர் மாயாண்டியிடம் பேசிக்கொண்டிருப்பதை ஒளிந்திருந்து கேட்க ஆரம்பித்தான்.
 
-“ஷோக்சுந்தரி என்று ஒரு பெண் அகப்பட்டாள். கன்னி கழியாதவள். அவளுக்குத் திருமணம் செய்வித்து சௌகரியங்கள் செய்வதாக வாக்களித்து பூட்டி வைத்திருக்கிறேன், எங்கும் ஓடிவிடாமல்! அவளுக்கு ஒரு மாப்பிள்ளை தேடி திருமணம் செய்வித்து, உடனே கொலை செய்து நமது பலியை நிறைவேற்றிக் கொள்ள வேண்டும்.”
+“ஷோக்சுந்தரி என்று ஒரு பெண் அகப்பட்டாள். கன்னி கழியாதவள். அவளுக்குத் திருமணம் செய்வித்து சௌகரியங்கள் செய்வதாக வாக்களித்து பூட்டி வைத்திருக்கிறேன், எங்கும் ஓடிவிடாமல்! தகட்டில் இருக்கிறபடி அவளுக்கு ஒரு மாப்பிள்ளை தேடி திருமணம் செய்வித்து, உடனே கொலை செய்து நமது பலியை நிறைவேற்றிக் கொள்ள வேண்டும்.”
 
 அதைக் கேட்ட மாயாண்டி, “மாப்பிள்ளைக்கு யாரைப் பிடிப்பது?” என்று கேட்டார்.
 
@@ -30,7 +30,7 @@ transcription_method: "user-supplied p8.md lexical/textual baseline retained und
 
 - Scan 384 begins the final `p8.md` iteration's narrative, with Raman overhearing Ambalam and Mayandi.
 - Native scan visibly contains the complete phrase `தகட்டில் இருக்கிறபடி` between `எங்கும் ஓடிவிடாமல்!` and `அவளுக்கு ஒரு மாப்பிள்ளை...`; that phrase is absent from the controlling `p8.md` baseline.
-- Under the scan-280-onward lexical-authority rule, the source-visible omitted phrase is **not** silently inserted. This page is `needs-review` pending explicit user disposition.
+- On 2026-09-02 the user explicitly authorized insertion of **`தகட்டில் இருக்கிறபடி`**. This is a narrow source-visible restoration only and does not broaden lexical source-correction authority.
 - The page ends after Ambalam states the forced-marriage sacrifice plan.
 
 <!-- மூல ஸ்கேன் பக்கம்: 384; அச்சுப் பக்கம்: 380 -->
