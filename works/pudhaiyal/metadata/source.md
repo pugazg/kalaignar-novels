@@ -25,7 +25,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **49/49 verified; part-complete** |
 | 005 | `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf` | 197–245 | 195–241 | **49/49 represented; 42 verified + 7 source-damage needs-review; part-complete with qualification** |
 | 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 canonical + verified; full split workflow PASSED / part-complete** |
-| 007 | `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf` | 295–343 | 291–339 | **ACTIVE — source intake complete; 3/49 canonical + verified through scan 297** |
+| 007 | `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf` | 295–343 | 291–339 | **ACTIVE — source intake complete; 8/49 canonical + verified through scan 302** |
 
 ### Part-007 derivative byte record
 
@@ -56,9 +56,9 @@ For Part 007, `p7.md` is the complete user-supplied lexical baseline for printed
 
 Part 006 remains **`part-complete`** with Tamil audit, assembled Tamil, controlled English source check and bilingual review all PASSED. Its reviewed Chapter-33 endpoint at scan 294 / printed 290 is open at Tamil `‘லாக்` / English `‘Lock`.
 
-## Part-007 opening checkpoint
+## Part-007 verified checkpoint through scan 302
 
-Part-007 native scan 295 / printed 291 begins `அப்’பில் தானிருக்கிறார்கள்...` and thereby physically completes the prior page's open term:
+Part-007 native scan 295 / printed 291 begins `அப்’பில் தானிருக்கிறார்கள்...` and physically completes the prior page's open term:
 
 `‘லாக்` + `அப்’பில்` → **`‘லாக் அப்’பில்`**.
 
@@ -67,20 +67,24 @@ Verified structural state:
 - scan 295 — chapter 33; source-printed four-star internal transition at foot;
 - scan 296 — chapter 33 continues;
 - scan 297 — chapter 33 closes; horizontal rule + heading 34; chapter 34 begins;
-- scan 297 ends at open continuation `அவனை அனுதாபத்தோடு`.
+- scan 297→298 — `அவனை அனுதாபத்தோடு` → `தொட்டுத் தூக்கிடும் போதும்...`;
+- scans 298–302 — chapter 34 continues and has been structurally verified against native Part-007 pages 4–8;
+- scan 300→301 — open quoted question `ஏன் ஓடச்` → `சொல்லுகிறாய்?`;
+- scan 301→302 — internal speech `பரிமளா திருமணத்தை` → `முடித்துவிட வேண்டும்.`;
+- scan 302 ends physically inside `பெற்றான்` as `பெற்`; scan 303 must verify continuation `றான்`.
 
 Endpoint spot-check: scan **343 / printed 339** ends mid-utterance at `அதிர்ஷ்`. Therefore Part 007 is not a true ending and source beyond scan 343 remains required.
 
 ## Canonical / derivative state
 
-- page records created: **297**
-- verified / completed: **290**
+- page records created: **302**
+- verified / completed: **295**
 - needs-review: **7 — scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later completed pages extend through scan **297**, except the seven damaged Part-005 records
+- later completed pages extend through scan **302**, except the seven damaged Part-005 records
 - Parts 001–006: **part-complete at split level**
-- Part 007: **3 / 49 canonical + verified; scans 298–343 pending**
+- Part 007: **8 / 49 canonical + verified; scans 303–343 pending**
 - assembled Tamil: **part-reviewed continuously through scan 294**
 - source-checked / bilingual-reviewed English: **continuous through scan 294**
 - physically received source range: **through scan 343 / printed 339**
@@ -96,4 +100,4 @@ Endpoint spot-check: scan **343 / printed 339** ends mid-utterance at `அதி
 
 ## Exact next action
 
-Process **scan 298 / printed 294**, chapter 34, using `p7.md` as lexical authority and native Part-007 page 4 as structural authority. Preserve the cross-page continuation from scan 297 and continue sequentially through Part 007.
+Process **scan 303 / printed 299**, chapter 34, using `p7.md` as lexical authority and native Part-007 page 9 as structural authority. First verify the physical `பெற்` + `றான்` → `பெற்றான்` continuation, then continue sequentially through Part 007.
