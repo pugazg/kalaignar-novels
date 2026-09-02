@@ -23,7 +23,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 004 | 148–196 | 146–194 | **part-complete** |
 | 005 | 197–245 | 195–241 | **part-complete with 7 source-damage qualifications** |
 | 006 | 246–294 | 242–290 | **part-complete** |
-| 007 | 295–343 | 291–339 | **49/49 verified; Tamil audit PASSED; assembled Tamil pending** |
+| 007 | 295–343 | 291–339 | **49/49 verified; Tamil audit + assembled-Tamil check PASSED; controlled English next** |
 
 ### Part-007 derivative byte record
 
@@ -36,6 +36,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 - page map: [`../indexes/part-007-page-map.md`](../indexes/part-007-page-map.md)
 - latest fidelity: [`../notes/visual-fidelity-scans-318-343.md`](../notes/visual-fidelity-scans-318-343.md)
 - Tamil audit: [`../notes/part-007-tamil-audit.md`](../notes/part-007-tamil-audit.md)
+- assembled-Tamil check: [`../notes/part-007-assembled-tamil-check.md`](../notes/part-007-assembled-tamil-check.md)
 
 No split PDF or uploaded baseline file is committed.
 
@@ -58,9 +59,11 @@ No other lexical source-correction is authorized. Scan 343 therefore retains sup
 - Part-007 needs-review: **0**
 - not-started: **0**
 - Tamil audit: **PASSED**
-- state: **`tamil-audit-passed / assembled-tamil-next`**
+- assembled-Tamil consistency check: **PASSED**
+- assembled Tamil: **through scan 343 / printed 339**
+- state: **`assembled-tamil-checked / controlled-English-next`**
 
-Structural progression is verified through Chapter 39: chapter 34 opens scan 297, chapter 35 scan 307, chapter 36 scan 317, chapter 37 scan 324, chapter 38 scan 331 and chapter 39 scan 340. Scan 322 contains a native four-star transition and required only structural repositioning of unchanged `விடியற்காலை...` baseline text. Scan 330 contains another four-star transition and closes chapter 37 at the foot rule.
+Structural progression is verified and assembled through Chapter 39: chapter 34 opens scan 297, chapter 35 scan 307, chapter 36 scan 317, chapter 37 scan 324, chapter 38 scan 331 and chapter 39 scan 340. Internal source transitions are retained, including the scan-322 `விடியற்காலை...` placement after the overnight dialogue.
 
 Scan **343 / printed 339** ends mid-utterance at open `அதிர்ஷ்`, with no closing punctuation. It is an access-derivative endpoint only.
 
@@ -71,14 +74,14 @@ Scan **343 / printed 339** ends mid-utterance at open `அதிர்ஷ்`, w
 - needs-review: **7 — scans 215–219 and 223–224 only**
 - partial: **0**
 - Parts 001–006: **part-complete**
-- Part 007: **Tamil audit PASSED**
-- assembled Tamil: through scan **294**
+- Part 007: **Tamil audit + assembled-Tamil check PASSED**
+- assembled Tamil: through scan **343**
 - source-checked / bilingual-reviewed English: through scan **294**
 - received source range: through scan **343 / printed 339**
 
 ## Completeness still open
 
-- Part-007 assembled Tamil / English / bilingual review;
+- Part-007 controlled English source check and bilingual review;
 - source beyond scan 343, because the derivative ends mid-utterance;
 - true ending / back matter;
 - exact full scan-object count;
@@ -86,4 +89,4 @@ Scan **343 / printed 339** ends mid-utterance at open `அதிர்ஷ்`, w
 
 ## Exact next action
 
-Build and consistency-check the **Part-007 assembled Tamil reading layer across scans 295–343**, preserving all audited joins/transitions and leaving Chapter 39 open at `அதிர்ஷ்`.
+Perform the **Part-007 controlled English translation and source check across scans 295–343** from the checked assembled Tamil layer, preserving the open Chapter-39 endpoint at `அதிர்ஷ்`.
