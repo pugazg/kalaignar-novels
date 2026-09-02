@@ -8,7 +8,7 @@
 
 Source PDF / split PDF / uploaded baseline files repository-யில் commit செய்யப்படாது.
 
-From scan 280 onward, supplied Gemini transcription controls lexical words/spelling/forms/spacing; the native scan controls headings, punctuation, quotation marks, paragraphing, physical page breaks, separators and chapter/scene structure. Complete baseline omissions are flagged rather than silently source-filled. For Part 007 the controlling lexical baseline is uploaded `p7.md`.
+From scan 280 onward, supplied Gemini transcription controls lexical words/spelling/forms/spacing; native scan controls headings, punctuation, quotation marks, paragraphing, physical page breaks, separators and chapter/scene structure. For Part 007, the three documented complete omissions were restored only after the user's explicit instruction `insert all three omissions`; no broader lexical source-correction permission was given.
 
 ## Project continuation documents
 
@@ -20,29 +20,36 @@ From scan 280 onward, supplied Gemini transcription controls lexical words/spell
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **343 canonical / 333 verified-complete / 10 needs-review; Parts 001–006 part-complete; Part 007 canonical-complete** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **343 canonical / 336 verified-complete / 7 needs-review; Part 007 Tamil audit PASSED** |
 
 ### புதையல் — current source state
 
 Tamil Digital Library reports **443 p.**; exact original PDF scan count remains pending complete source reconciliation.
 
-Received derivatives cover scans **1–343**. Parts 001–006 are split-level `part-complete`. Part 007 covers scans **295–343 / printed 291–339** and is now **49/49 canonical**, with **46 verified** and **3 needs-review** baseline-omission records: scan 304 `நீ`, scan 305 `என்ன`, and scan 315 `சரி...... வா! வா!......`. None has been silently inserted.
+Received derivatives cover scans **1–343**. Parts 001–006 are split-level `part-complete`. Part 007 covers scans **295–343 / printed 291–339** and is now **49/49 canonical + verified** with **Tamil audit PASSED**.
+
+The former Part-007 omission records are resolved by explicit user authorization:
+
+- scan 304 — restored `நீ`;
+- scan 305 — restored `என்ன`;
+- scan 315 — restored `சரி...... வா! வா!......`.
 
 Part-007 chapter progression is structurally verified through Chapter 39. Chapter 36 begins scan 317, Chapter 37 scan 324, Chapter 38 scan 331 and Chapter 39 scan 340. Scan 322's `விடியற்காலை...` material was structurally repositioned to its native post-dialogue/four-star location without changing supplied words.
 
-Scan **343 / printed 339** ends inside Chapter 39 at open **`அதிர்ஷ்`**, with no closing punctuation; Part 007 is therefore an open derivative boundary and not the novel ending. The canonical scan-343 record also deliberately retains the supplied `p7.md` lexical form `అది` rather than source-correcting it to native Tamil `அது`.
+Scan **343 / printed 339** ends inside Chapter 39 at open **`அதிர்ஷ்`**, with no closing punctuation; Part 007 is therefore an open derivative boundary and not the novel ending. The canonical scan-343 record still deliberately retains supplied `p7.md` lexical `అది` rather than source-correcting it to native Tamil `அது`.
 
 Current aggregate state:
 
 - canonical records: **343**
-- verified/completed: **333**
-- needs-review: **10 — Part 005 scans 215–219, 223–224; Part 007 scans 304, 305, 315**
+- verified/completed: **336**
+- needs-review: **7 — only Part 005 scans 215–219 and 223–224**
 - partial: **0**
 - assembled Tamil: part-reviewed through scan **294**
 - source-checked / bilingual-reviewed English: through scan **294**
+- Part 007 Tamil audit: **PASSED**
 - whole-work verification/release: **not yet eligible**
 
-Exact next action: explicitly disposition the three Part-007 lexical omissions at scans **304, 305 and 315**, then run the **Part-007 Tamil audit across scans 295–343**.
+Exact next action: build and consistency-check the **Part-007 assembled Tamil reading layer across scans 295–343**, preserving all verified joins/transitions and leaving Chapter 39 open at `அதிர்ஷ்`.
 
 ## நிறைவு பெற்ற reference work
 
