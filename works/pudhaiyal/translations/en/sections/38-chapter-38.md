@@ -17,7 +17,7 @@ Why had she come and stood there? Had she come merely to look at him? Questions 
 
 “Who are you, girl?” he asked, swallowing his anger and fury.
 
-“This house,” she replied softly.
+“Of this house!” she replied softly.
 
 “You are Velliyambalam's……?” Durai asked, drawing the question out.
 
