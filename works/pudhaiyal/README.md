@@ -40,7 +40,7 @@ A derivative boundary is provenance only and must never create a false narrative
 | Part 004 | 148–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification** |
 | Part 006 | 246–294 | **part-complete** |
-| Part 007 | 295–343 | **ACTIVE — source intake complete; scans 295–297 canonical + verified** |
+| Part 007 | 295–343 | **ACTIVE — source intake complete; scans 295–302 canonical + verified** |
 
 ## Part 007 — active derivative
 
@@ -54,10 +54,10 @@ Source: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 - lexical baseline: uploaded `p7.md` — **160,271 bytes**, SHA-256 `a804b914b88050ca8d31142cb00d7491c94e89ff1fb7e564fdd348bdf14b1c59`
 - source intake: [`notes/part-007-source-intake.md`](notes/part-007-source-intake.md)
 - derivative map: [`indexes/part-007-page-map.md`](indexes/part-007-page-map.md)
-- canonical records: **3 / 49 — scans 295–297**
-- verified / structurally completed: **3 / 49**
+- canonical records: **8 / 49 — scans 295–302**
+- verified / structurally completed: **8 / 49**
 - needs-review in Part 007: **0**
-- not-started: **46 — scans 298–343**
+- not-started: **41 — scans 303–343**
 - Part-007 state: **`canonical-in-progress`**
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 - source/split PDF committed: **No**
@@ -68,24 +68,28 @@ Scan 294 / printed 290 ends at open `‘லாக்`. Native scan 295 / printed
 
 No narrative boundary is created by the derivative split.
 
-### Verified Part-007 structure through scan 297
+### Verified Part-007 structure through scan 302
 
 - scan **295 / printed 291** — chapter 33 continues and ends with a source-printed `* * * *` internal transition;
 - scan **296 / printed 292** — chapter 33 continues after that transition;
 - scan **297 / printed 293** — chapter 33 closes; horizontal rule + heading **34**; chapter 34 begins on the same page;
-- scan 297 ends mid-sentence at `அவனை அனுதாபத்தோடு`; scan 298 must continue it from native evidence plus `p7.md`;
+- scan **297→298** — `அவனை அனுதாபத்தோடு` continues as `தொட்டுத் தூக்கிடும் போதும்...`;
+- scans **298–302 / printed 294–298** — chapter 34 continues, structurally verified against native pages;
+- scan **300→301** preserves the open quoted question `ஏன் ஓடச்` → `சொல்லுகிறாய்?`;
+- scan **301→302** preserves the internal-speech continuation `பரிமளா திருமணத்தை` → `முடித்துவிட வேண்டும்.`;
+- scan **302 / printed 298** ends physically inside `பெற்றான்` as `பெற்`; scan 303 must verify continuation `றான்`;
 - endpoint spot-check of scan **343 / printed 339** ends mid-utterance at `அதிர்ஷ்`, so Part 007 is not the novel ending.
 
 ## Aggregate archival status
 
-- canonical Tamil page records: **297**
-- verified / completed: **290**
+- canonical Tamil page records: **302**
+- verified / completed: **295**
 - needs-review: **7 — Part 005 scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range remains through scan **214 / printed page 212**
-- later completed pages extend through scan **297**, except the seven damaged Part-005 records
+- later completed pages extend through scan **302**, except the seven damaged Part-005 records
 - Parts 001–006: **part-complete at split level**
-- Part 007: **canonical workflow active through scan 297**
+- Part 007: **canonical workflow active through scan 302**
 - assembled Tamil: part-reviewed continuously through scan **294**
 - source-checked / bilingual-reviewed English: continuously through scan **294**
 - received source derivative coverage now extends through scan **343 / printed 339**
@@ -94,4 +98,4 @@ No narrative boundary is created by the derivative split.
 
 ## Exact next activity
 
-Process **scan 298 / printed page 294**, chapter 34, from the uploaded `p7.md` lexical baseline and native Part-007 page 4. Preserve the open continuation from scan 297 (`அவனை அனுதாபத்தோடு` → `தொட்டுத் தூக்கிடும் போதும்...`) and continue sequential canonical reconciliation through Part 007 before opening its Tamil-audit gate.
+Process **scan 303 / printed page 299**, chapter 34, from the uploaded `p7.md` lexical baseline and native Part-007 page 9. First verify the physical `பெற்` + `றான்` → `பெற்றான்` continuation, then continue sequential canonical reconciliation through Part 007 before opening its Tamil-audit gate.
