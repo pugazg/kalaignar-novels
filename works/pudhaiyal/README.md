@@ -29,7 +29,7 @@ Part 008 has one user-authorized source-visible restoration: scan **384 / printe
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification** |
 | Part 006 | 246–294 | **part-complete** |
 | Part 007 | 295–343 | **part-complete** |
-| Part 008 | 344–392 | **Tamil audit PASSED + assembled Tamil PASSED + controlled English draft COMPLETE / source check next** |
+| Part 008 | 344–392 | **Tamil audit PASSED + assembled Tamil PASSED + controlled English source check PASSED / bilingual review next** |
 
 ## Part 008 — current stage
 
@@ -47,11 +47,10 @@ Source: `TVA_BOK_0064097_புதையல்_part_008_pages_344-392.pdf`
 - Part-008 needs-review: **0**;
 - Tamil audit: **PASSED** — [`notes/part-008-tamil-audit.md`](notes/part-008-tamil-audit.md);
 - assembled Tamil audit: **PASSED** — [`notes/part-008-assembled-tamil-audit.md`](notes/part-008-assembled-tamil-audit.md);
-- controlled English draft: **COMPLETE through scan 392 / printed 388**;
-- controlled English source check: **PENDING**;
-- bilingual review: **BLOCKED until source check passes**;
+- controlled English source check: **PASSED** — [`translations/en/PART_008_ENGLISH_CHECK.md`](translations/en/PART_008_ENGLISH_CHECK.md);
+- bilingual review: **NEXT**;
 - page map: [`indexes/part-008-page-map.md`](indexes/part-008-page-map.md);
-- state: **`english-draft-complete / source-check-next`**.
+- state: **`english-source-checked / bilingual-review-next`**.
 
 ### Structural findings retained
 
@@ -70,15 +69,16 @@ Assembled Chapters **39–45** represent the audited Part-008 material through s
 
 The Part-008 assembled-Tamil consistency check **PASSED**.
 
-### Controlled English draft
+### Controlled English source-check result
 
-The Part-008 English draft is complete through the received endpoint:
+Part-008 English is source-checked through scan **392 / printed 388**:
 
-- `translations/en/sections/checkpoints/part-008-chapter-39-continuation.md` continues the reviewed Part-007 English fragment `luc` with `k`, forming **luck**, and closes Chapter 39 on scan 347;
-- English Chapters **40–44** are draft-translated;
-- English Chapter **45** is draft-translated through scan 392 and remains deliberately open at **`our`**, corresponding to Tamil `நமது`;
+- the Chapter-39 checkpoint completes reviewed Part-007 `luc` with Part-008 `k`, forming **luck** and closing Chapter 39 on scan 347;
+- English Chapters **40–44** are source-checked;
+- English Chapter **45** is source-checked through scan 392 and remains deliberately open at **`our`**, corresponding to Tamil `நமது`;
 - Chapter 44 renders the authorized `தகட்டில் இருக்கிறபடி` restoration exactly once as **“as the plate says”**;
-- the reviewed/source-checked English frontier remains through scan **343** until the Part-008 English source check and bilingual review pass.
+- English source-check corrections are documented in [`translations/en/PART_008_ENGLISH_CHECK.md`](translations/en/PART_008_ENGLISH_CHECK.md);
+- bilingual review has not yet run, so Part 008 is not yet `part-complete`.
 
 ## Aggregate archival status
 
@@ -87,13 +87,13 @@ The Part-008 English draft is complete through the received endpoint:
 - needs-review: **7 — only Part 005 scans 215–219 and 223–224**;
 - partial: **0**;
 - assembled Tamil: continuous through scan **392 / printed 388**;
-- controlled English draft: continuous through scan **392 / printed 388**;
-- source-checked and bilingual-reviewed English: continuously through scan **343**;
+- source-checked English: continuous through scan **392 / printed 388**;
+- bilingual-reviewed English: continuously through scan **343**;
 - physically received derivative coverage: through scan **392 / printed 388**;
 - Parts 001–007: **part-complete**;
-- Part 008: **Tamil + assembled Tamil passed; English draft complete; source-check/bilingual gates pending**;
+- Part 008: **Tamil + assembled Tamil + English source check passed; bilingual review pending**;
 - whole-work verification / release: **not yet eligible**.
 
 ## Exact next activity
 
-Run the **Part-008 controlled English source check across scans 344–392**. Compare the Chapter-39 continuation checkpoint and English Chapters **40–45** with the audited canonical/assembled Tamil for complete coverage, semantic fidelity, dialogue order, names/terms, humour, violence, romance, internal transitions, the authorized scan-384 restoration and the open scan-392 endpoint. Correct English-only fidelity issues as needed. Do not begin the Part-008 bilingual review until this source check passes.
+Run the **Part-008 bilingual review across scans 344–392**. Compare the source-checked English with canonical/assembled Tamil for semantic fidelity, dialogue coverage, names/terms, humour, violence, romance, rhetorical force, chapter transitions, the authorized scan-384 restoration and the open scan-392 endpoint. Only after that review passes may Part 008 be marked `part-complete`.
