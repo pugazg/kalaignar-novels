@@ -21,7 +21,7 @@ Date: 2026-09-02
 - declared printed coverage: **291–339**
 - committed: **No**
 
-`p7.md` is the lexical/textual authority under the scan-280-onward policy. Native pages control structure only. Complete baseline omissions are flagged, not silently source-filled.
+`p7.md` remains the lexical/textual authority under the scan-280-onward policy. Native pages control structure only, except for three complete source-confirmed omissions explicitly authorized for restoration by the user on 2026-09-02.
 
 ## Boundary verification
 
@@ -32,24 +32,23 @@ Part-007 scan **343 / printed 339** ends inside an open Chapter-39 utterance at 
 ## Canonical / structural result
 
 - canonical records: **49 / 49**
-- verified: **46 / 49**
-- needs-review: **3 — scans 304, 305, 315**
+- verified: **49 / 49**
+- Part-007 needs-review: **0**
 - not-started: **0**
-- state: **`canonical-complete / lexical-omission-disposition-pending`**
+- Tamil audit: **PASSED** — [`part-007-tamil-audit.md`](part-007-tamil-audit.md)
+- state: **`tamil-audit-passed / assembled-tamil-next`**
 
-Unresolved baseline omissions:
+Explicitly restored omissions:
 
-- scan 304 — source-visible `நீ` omitted by `p7.md`;
-- scan 305 — source-visible `என்ன` omitted by `p7.md`;
-- scan 315 — source-visible `சரி...... வா! வா!......` omitted by `p7.md`.
-
-No source insertion has been made for those spans.
+- scan 304 — `நீ`;
+- scan 305 — `என்ன`;
+- scan 315 — `சரி...... வா! வா!......`.
 
 Structural progression is verified through chapters 33–39. Chapter 36 begins scan 317, Chapter 37 scan 324, Chapter 38 scan 331 and Chapter 39 scan 340. Scan 322 contains a native four-star transition and a structural-order correction only; scan 330 contains another four-star transition and the Chapter-37 closing rule.
 
 Latest fidelity record: [`visual-fidelity-scans-318-343.md`](visual-fidelity-scans-318-343.md).
 
-Scan 343 additionally retains supplied lexical `అది` despite native Tamil `அது`, because the user-approved policy forbids source-correcting a supplied lexical form.
+Scan 343 retains supplied lexical `అది` despite native Tamil `அது`; no source-correction authorization was given for that lexical discrepancy.
 
 ## Intake / workflow state
 
@@ -57,10 +56,11 @@ Scan 343 additionally retains supplied lexical `అది` despite native Tamil 
 - physical/printed mapping: **resolved**
 - lexical baseline: **resolved**
 - canonical reconciliation: **COMPLETE**
-- native structural reconciliation: **COMPLETE except the three explicit baseline-omission dispositions**
-- Part-007 Tamil audit: **next after omission disposition**
-- assembled Tamil / English / bilingual review: **not yet eligible**
+- native structural reconciliation: **COMPLETE**
+- Part-007 Tamil audit: **PASSED**
+- assembled Tamil: **next**
+- English / bilingual review: **blocked until assembled-Tamil check passes**
 
 ## Exact next activity
 
-Explicitly disposition scans **304, 305 and 315**, then run the **Part-007 Tamil audit across scans 295–343**.
+Build and consistency-check the **Part-007 assembled Tamil reading layer across scans 295–343**, preserving all audited joins/transitions and leaving Chapter 39 open at `அதிர்ஷ்`.
