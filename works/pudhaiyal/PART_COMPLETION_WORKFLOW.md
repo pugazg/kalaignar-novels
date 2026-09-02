@@ -35,7 +35,7 @@ The native scan controls headings/chapter numbers, paragraph boundaries, punctua
 
 When a lexical word is split physically across a source line or source page, keep Gemini lexical wording while preserving/recording the native physical split.
 
-## Active split — Part 006
+## Latest completed split — Part 006
 
 Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
@@ -48,22 +48,23 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - Tamil audit: **PASSED** — [`notes/part-006-tamil-audit.md`](notes/part-006-tamil-audit.md)
 - assembled Tamil: **PASSED** — [`notes/part-006-assembled-tamil-check.md`](notes/part-006-assembled-tamil-check.md)
 - controlled English source check: **PASSED** — [`translations/en/PART_006_ENGLISH_CHECK.md`](translations/en/PART_006_ENGLISH_CHECK.md)
-- bilingual review: **ELIGIBLE — NEXT ACTIVITY**
-- state: **English `source-checked`; not yet `part-complete`**
+- bilingual review: **PASSED** — [`translations/en/PART_006_REVIEW.md`](translations/en/PART_006_REVIEW.md)
+- state: **`part-complete`**
 
-### Part-006 English checkpoint
+### Part-006 completed checkpoint
 
-The source-checked English layer:
+The completed layers:
 
-- extends chapter 27 through its close on scan 247;
-- translates chapters 28–33 through scan 294;
-- preserves the source-printed four-star transition at scan 251;
-- preserves chapter transitions at scans 254, 262, 271, 278 and 288;
-- carries audited physical-page joins continuously without creating false split boundaries;
-- remains subordinate to the controlling Tamil, including the scan-280-onward Gemini lexical authority;
-- leaves chapter 33 open at scan 294 / printed 290 at Tamil `‘லாக்` / English `‘Lock` with no invented closing punctuation.
+- extend chapter 27 through its close on scan 247;
+- carry chapters 28–33 through scan 294;
+- preserve the source-printed four-star transition at scan 251;
+- preserve chapter transitions at scans 254, 262, 271, 278 and 288;
+- carry audited physical-page joins continuously without creating false split boundaries;
+- remain subordinate to controlling Tamil, including scan-280-onward Gemini lexical authority;
+- retain source-specific satire, threats, violence, romantic delusion, coercion and caste-marked wording in reviewed English;
+- leave chapter 33 open at scan 294 / printed 290 at Tamil `‘லாக்` / English `‘Lock` with no invented closing punctuation.
 
-The English source check corrected one initially invented endpoint dash and one English-only grammar slip; no Tamil text was changed.
+The bilingual review made English-only fidelity/consistency corrections and glossary updates; canonical Tamil was not altered.
 
 ## Completed split checkpoints
 
@@ -72,18 +73,16 @@ The English source check corrected one initially invented endpoint dash and one 
 - Part 003 — scans **99–147** — **`part-complete`**
 - Part 004 — scans **148–196** — **`part-complete`**
 - Part 005 — scans **197–245** — **`part-complete` with explicit source-damage qualification**
+- Part 006 — scans **246–294** — **`part-complete`**
 
 ## Exact next activity
 
-Run the **Part-006 bilingual review for scans 246–294**:
+Obtain / resolve the **next source derivative beyond scan 294** before opening another split workflow.
 
-1. compare audited Tamil and source-checked English sentence by sentence and dialogue by dialogue;
-2. verify complete narrative coverage and meaning alignment;
-3. verify names, place names and culture-specific terms against established usage/glossary;
-4. verify humour, satire, threats, violence, romantic delusion and coercive behaviour are neither omitted nor deliberately softened/intensified;
-5. verify all audited page joins, the scan-251 internal transition and real chapter boundaries;
-6. verify scan-280-onward Gemini lexical-authority discipline remains intact;
-7. verify the open scan-294 Tamil `‘லாக்` / English `‘Lock` endpoint remains unclosed;
-8. if the review passes, create `translations/en/PART_006_REVIEW.md`, mark Part 006 `part-complete`, and synchronize status.
+1. inspect the actual first page of the next derivative;
+2. verify that it continues the open scan-294 `‘லாக்` dialogue;
+3. establish real source-scan / printed-page mapping from the source itself;
+4. record derivative provenance/integrity metadata when available;
+5. only then begin canonical transcription/reconciliation for the next split.
 
-Do not claim whole-work English verification or release-readiness after Part 006; later source beyond scan 294 remains required.
+Do not assume the next derivative's range, continuation word, chapter boundary, ending or full source extent without source evidence.
