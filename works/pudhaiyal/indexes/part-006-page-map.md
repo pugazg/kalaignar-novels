@@ -9,8 +9,8 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
 - source/split PDF committed: **No**
 - canonical records created so far: **38 / 49 — scans 246–283**
-- verified / completed so far: **37**
-- needs-review in Part 006: **1 — scan 283**
+- verified / completed so far: **38**
+- needs-review in Part 006: **0**
 - not-started: **11 — scans 284–294**
 - split state: **`in-progress`**
 
@@ -20,7 +20,7 @@ The derivative boundary at scan 245→246 is provenance only. Native source esta
 
 Per the user's explicit instruction, from **scan 280 onward**:
 
-- **words, spellings, suffixes and lexical forms:** retain Gemini's supplied transcription;
+- **words, spellings, suffixes, lexical forms and lexical wording:** retain Gemini's supplied transcription;
 - **native scan controls:** headings, punctuation, quotation marks, long dashes, speaker-label spacing, paragraph structure, physical line/page breaks, separators, chapter/scene transitions and other structural findings;
 - do not replace a Gemini word because the scan appears to show another lexical form;
 - if Gemini appears to omit a lexical span, flag it rather than silently supplying source words.
@@ -66,7 +66,7 @@ This rule is prospective; scans 246–279 are not reopened solely to retrofit it
 | 280 | 276 | chapter 32 | verified | `../pages/0280-pudhaiyal.md`; Gemini lexical words + native structural layer |
 | 281 | 277 | chapter 32 | verified | `../pages/0281-pudhaiyal.md`; Gemini lexical words + native punctuation/paragraph/physical-line layer |
 | 282 | 278 | chapter 32 | verified | `../pages/0282-pudhaiyal.md`; ends physically without punctuation `நின்றான்` |
-| 283 | 279 | chapter 32 | **needs-review** | `../pages/0283-pudhaiyal.md`; Gemini words retained; source-only lexical token `பார்` is absent from Gemini baseline and therefore flagged, not inserted |
+| 283 | 279 | chapter 32 | verified | `../pages/0283-pudhaiyal.md`; refreshed Gemini baseline includes `பார்`; native punctuation/paragraph/physical-line structure verified |
 | 284 | 280 | chapter 32 | not-started | next transcription page |
 | 285 | 281 | chapter 32 | not-started | — |
 | 286 | 282 | chapter 32 | not-started | — |
@@ -100,7 +100,8 @@ These observations map structure only for scans 284–294; those pages remain `n
 - no source-printed chapter/scene transition occurs on scan 283;
 - source long-dash structures on scan 283 include `போதும்—இனியும்` and `வெள்ளியம்பலம்—என்ற`;
 - native physical word-internal line breaks include `நிலைப்` / `படுத்திவிட்டது`, `கூறிக்` / `கொண்டே`, `துக்கா` / `ராம்`, `உனக்` / `கும்`, `உண்மை` / `யைக்`, `சொல்` / `வது`, and `பயன்படுத்து` / `வார்`;
-- **Gemini lexical omission:** source visibly contains `பார்` after `ஓடிப் போகிறேன்`, but Gemini omits it. Per policy it is not inserted; scan 283 remains `needs-review` pending user disposition;
+- the refreshed user-supplied Gemini Iteration-27 baseline explicitly contains `பார்` after `ஓடிப் போகிறேன்`; the earlier omission flag is resolved from Gemini itself, with no native-source lexical supplementation;
+- no Gemini lexical span remains unresolved on scan 283;
 - scan 283 ends with the complete source-structured sentence `வெள்ளியம்பலம்—என்ற திகிலும் கூடவே பிறந்தது.`.
 
 ## Fidelity records
@@ -115,4 +116,4 @@ These observations map structure only for scans 284–294; those pages remain `n
 
 ## Exact next activity
 
-Process **scan 284 / printed page 280**, continuing chapter 32. Keep Gemini's words exactly; use the native scan for punctuation, quotation marks, long dashes, paragraph/speaker spacing, physical line breaks/page boundary and structural findings. Keep scan 283's `பார்` omission explicitly open unless the user resolves it. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
+Process **scan 284 / printed page 280**, continuing chapter 32. Keep Gemini's words exactly; use the native scan for punctuation, quotation marks, long dashes, paragraph/speaker spacing, physical line breaks/page boundary and structural findings. Do not begin Part-006 downstream gates until all 49 physical pages have canonical dispositions.
