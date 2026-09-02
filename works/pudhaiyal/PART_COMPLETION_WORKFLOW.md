@@ -58,8 +58,8 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
 - canonical records: **38 / 49 — scans 246–283**
-- verified / structurally completed: **37**
-- needs-review: **1 — scan 283**
+- verified / structurally completed: **38**
+- needs-review: **0**
 - not-started: **11 — scans 284–294**
 - latest native-fidelity record: [`notes/visual-fidelity-scan-283.md`](notes/visual-fidelity-scan-283.md)
 - Tamil audit: **not eligible**
@@ -75,12 +75,13 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - scan 283 continues chapter 32 with native punctuation/quote/paragraph/long-dash structure and Gemini words unchanged;
 - source long dashes include `போதும்—இனியும்` and `வெள்ளியம்பலம்—என்ற`;
 - native physical word-internal line breaks include `நிலைப்` / `படுத்திவிட்டது`, `கூறிக்` / `கொண்டே`, `துக்கா` / `ராம்`, `உனக்` / `கும்`, `உண்மை` / `யைக்`, `சொல்` / `வது`, and `பயன்படுத்து` / `வார்`;
-- **scan 283 lexical omission:** source contains `பார்` after `ஓடிப் போகிறேன்`; Gemini omits it. Per policy it is not silently supplied. Scan 283 remains `needs-review` pending user disposition;
+- the refreshed user-supplied Gemini Iteration-27 baseline explicitly includes `பார்` after `ஓடிப் போகிறேன்`; the earlier omission flag was caused by an incomplete baseline copy and is resolved from Gemini itself, not from native-source lexical supplementation;
+- no Gemini lexical span remains unresolved on scan 283;
 - scan 283 ends `வெள்ளியம்பலம்—என்ற திகிலும் கூடவே பிறந்தது.`.
 
 Part-006 mapped chapter transitions: chapter 28 begins scan 247; four-star internal transition scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262 and closes 271; chapter 31 begins 271 and closes 278; chapter 32 begins 278; chapter 33 begins 288.
 
-Do not run the Part-006 Tamil audit or any downstream stage until all scans 246–294 have canonical records and structural/native-fidelity dispositions, and the open scan-283 lexical omission is explicitly dispositioned.
+Do not run the Part-006 Tamil audit or any downstream stage until all scans 246–294 have canonical records and structural/native-fidelity dispositions.
 
 ## Completed split checkpoints
 
@@ -92,4 +93,4 @@ Do not run the Part-006 Tamil audit or any downstream stage until all scans 246�
 
 ## Exact next activity
 
-Process **scan 284 / printed page 280** directly under the Gemini-lexical/native-structure rule. Keep Gemini's words exactly; use the native source for headings, punctuation, long dashes, quote style, paragraph structure, speaker-label spacing, physical line/page breaks and other structural findings. Preserve scan 283's `பார்` omission as an open `needs-review` item unless the user resolves it.
+Process **scan 284 / printed page 280** directly under the Gemini-lexical/native-structure rule. Keep Gemini's words exactly; use the native source for headings, punctuation, long dashes, quote style, paragraph structure, speaker-label spacing, physical line/page breaks and other structural findings.
