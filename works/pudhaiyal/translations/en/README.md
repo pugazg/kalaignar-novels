@@ -1,10 +1,10 @@
 # English translation — புதையல் / Treasure
 
-Status: **IN PROGRESS — Parts 001–007 part-complete at split level; whole-work English verification blocked by incomplete source**
+Status: **IN PROGRESS — Parts 001–007 part-complete at split level; Part 008 controlled English draft complete / source check next; whole-work English verification blocked by incomplete source**
 
-Authority: audited Tamil canonical pages. See `TRANSLATION_PLAN.md`.
+Authority: audited Tamil canonical pages and checked assembled Tamil. See `TRANSLATION_PLAN.md`.
 
-Source-checked and bilingual-reviewed English coverage now extends continuously through **scan 343 / printed page 339**.
+Source-checked and bilingual-reviewed English coverage remains continuous through **scan 343 / printed page 339**. Controlled English **draft coverage now extends through scan 392 / printed 388**.
 
 Part checkpoints:
 
@@ -15,34 +15,43 @@ Part checkpoints:
 - Part 005 / scans 197–245 — **bilingual review PASSED WITH EXPLICIT SOURCE-DAMAGE QUALIFICATION / part-complete**
 - Part 006 / scans 246–294 — **Tamil audit + assembled check + English source check + bilingual review PASSED / part-complete**
 - Part 007 / scans 295–343 — **Tamil audit + assembled check + controlled English source check + bilingual review PASSED / part-complete**
+- Part 008 / scans 344–392 — **Tamil audit + assembled check PASSED; controlled English draft complete; source check pending**
 
 Part 005 contains seven physical canonical records that remain `needs-review`: scans **215–219 and 223–224**. Translation does not convert their baseline-supported hidden text into native-verified text.
 
-## Part 007 reviewed checkpoint
+## Part 008 draft checkpoint
 
-Part 007 English contains:
+The checked Tamil assembly covers Chapters **39–45** through the received source endpoint. The English draft now contains:
 
-- Chapter 33 continuation from scan 295 through its close on scan 297;
-- Chapters 34, 35, 36, 37 and 38 through their real closes;
-- Chapter 39 from scan 340 through the open derivative endpoint at scan 343.
+- [`sections/checkpoints/part-008-chapter-39-continuation.md`](sections/checkpoints/part-008-chapter-39-continuation.md) — scans **344–347**, continuing the Part-007 English fragment `luc` with `k` to form **luck** and completing Chapter 39;
+- [`sections/40-chapter-40.md`](sections/40-chapter-40.md) — Chapter 40;
+- [`sections/41-chapter-41.md`](sections/41-chapter-41.md) — Chapter 41;
+- [`sections/42-chapter-42.md`](sections/42-chapter-42.md) — Chapter 42;
+- [`sections/43-chapter-43.md`](sections/43-chapter-43.md) — Chapter 43;
+- [`sections/44-chapter-44.md`](sections/44-chapter-44.md) — Chapter 44;
+- [`sections/45-chapter-45.md`](sections/45-chapter-45.md) — Chapter 45 through the open scan-392 endpoint.
 
-The Part-006→007 split is continuous as **lock-up**, matching Tamil `‘லாக்` + `அப்’பில்`. Source-printed internal transitions and chapter boundaries remain subordinate to the checked Tamil assembly, including the scan-322 placement of `விடியற்காலை...` after the overnight dialogue/sleep.
+The Part-007→008 split is therefore translated continuously: Tamil `அதிர்ஷ்` + `டம்` → `அதிர்ஷ்டம்`; English `luc` + `k` → **luck**. The derivative boundary is provenance only and creates no narrative break.
 
-The Part-007 review preserves the three authorized restorations at scans 304, 305 and 315 and does not broaden that permission into other Tamil source corrections. Canonical scan 343 still retains supplied lexical `అది`; English renders its contextual sense with a provenance note rather than changing Tamil.
+Chapter 44 represents the user-authorized scan-384 source restoration `தகட்டில் இருக்கிறபடி` exactly once as **“as the plate says.”** This does not broaden Tamil source-correction authority.
 
-Controlled glossary handling includes **thirukkai-vaal whip**, **rasa-valli**, **kudukuduppai fortune-teller / Kudukuduppandi**, **Saibu**, and caste-marked **Chandalan**.
+Chapter 45 deliberately ends inside Parimala's still-open sentence at English **“our”**, corresponding to Tamil scan 392 `நமது`. There is no closing quotation mark, sentence ending, chapter close or novel-ending claim.
 
-Records:
+Part 008 draft translation follows the established source-bound policy: no summarising, no invented speaker labels, no smoothing away structural transitions, no external historical/scientific claims, and no inferred source beyond scan 392. Draft status does **not** mean source-checked or bilingual-reviewed.
 
-- [`PART_007_ENGLISH_CHECK.md`](PART_007_ENGLISH_CHECK.md) — controlled English source check **PASSED**;
-- [`PART_007_REVIEW.md`](PART_007_REVIEW.md) — bilingual review **PASSED / Part 007 `part-complete`**.
+## Reviewed frontier
 
-The bilingual review corrected three additional English-layer fidelity issues without altering Tamil: Chapter 36 now keeps `காவலன் ஜஹாங்கீர்` as **the ruler Jahangir** rather than adding “Emperor”; Chapter 38 renders `பத்தாயிரம் முத்தாரம்` as **a garland of ten thousand pearls** rather than an invented “strings of kisses” reading; and Chapter 39 restores the source-visible `முகத்தில்` detail in the Saibu alms instruction.
+Parts 006 and 007 retain their formal records:
 
-Scan **343 / printed 339** ends inside Tamil `அதிர்ஷ்`; bilingual-reviewed English correspondingly ends inside **luck** at `luc`, with no closing punctuation, chapter close or novel ending invented.
+- [`PART_006_ENGLISH_CHECK.md`](PART_006_ENGLISH_CHECK.md)
+- [`PART_006_REVIEW.md`](PART_006_REVIEW.md)
+- [`PART_007_ENGLISH_CHECK.md`](PART_007_ENGLISH_CHECK.md)
+- [`PART_007_REVIEW.md`](PART_007_REVIEW.md)
+
+Continuous split-level **source-checked and bilingual-reviewed English remains through scan 343** until Part 008 passes its controlled English source check and subsequent bilingual review.
 
 Whole-work English verification and release-readiness remain blocked until the complete source edition is processed, the true ending/back matter is known, and final whole-work Tamil and bilingual audits pass.
 
 ## Exact next activity
 
-Obtain / resolve the **next source derivative beyond scan 343**, verify its opening against the open `அதிர்ஷ்` boundary, and establish its actual source/printed-page mapping before any new canonical transcription or translation work. Do not infer the continuation word, next part range or novel ending without source evidence.
+Run the **Part-008 controlled English source check across scans 344–392**. Compare every draft English unit with the audited canonical/assembled Tamil for coverage, meaning, dialogue sequence, names and culturally specific terms, humour, violence, romance, native transition structure, the authorized scan-384 restoration and the open scan-392 endpoint. Only after that check passes should Part-008 bilingual review begin.
