@@ -1,6 +1,6 @@
 # Tamil / split-part audit — புதையல்
 
-Status: **IN PROGRESS — Parts 001–005 part-complete; Part 006 Tamil audit PASSED; assembled Tamil pending; whole-work gate not eligible**
+Status: **IN PROGRESS — Parts 001–005 part-complete; Part 006 Tamil audit + assembled Tamil check PASSED; controlled English next; whole-work gate not eligible**
 
 Source: `TVA_BOK_0064097_புதையல்.pdf`
 
@@ -30,38 +30,40 @@ By explicit user instruction:
 
 The seven physically damaged Part-005 records **215–219 and 223–224** remain `needs-review` by explicit source-damage qualification.
 
-## Part 006 — Tamil-audit checkpoint
+## Part 006 — Tamil + assembled checkpoint
 
 Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
 - physical pages mapped: **49 / 49 — scans 246–294 / printed 242–290**
-- canonical records created: **49 / 49**
+- canonical records: **49 / 49**
 - verified / structurally completed: **49 / 49**
 - needs-review: **0**
 - partial: **0**
 - not-started: **0**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- latest fidelity record: [`notes/visual-fidelity-scan-294.md`](notes/visual-fidelity-scan-294.md)
 - Part-006 Tamil audit: **PASSED** — [`notes/part-006-tamil-audit.md`](notes/part-006-tamil-audit.md)
-- assembled Tamil: **ELIGIBLE — NOT YET BUILT / CHECKED**
-- English / bilingual review: **NOT ELIGIBLE until assembled Tamil passes its split-level check**
-- state: **`part-tamil-audit-passed`**
+- assembled Tamil: **PASSED split-level consistency check** — [`notes/part-006-assembled-tamil-check.md`](notes/part-006-assembled-tamil-check.md)
+- assembled inventory: `sections/27-chapter-27.md` extended through scan 247; new `28-chapter-28.md` through `33-chapter-33.md`
+- controlled English: **ELIGIBLE — NEXT ACTIVITY**
+- bilingual review: **NOT YET ELIGIBLE**
+- Part-006 state: **`assembled-part-checked`**
 
 ### Part-006 Tamil-audit findings
 
-The Part-006 audit confirmed:
+The Tamil audit confirmed 49/49 physical pages and canonical records, chapter/internal-transition structure, the scan-280-onward Gemini lexical authority model, all audited cross-page continuities and the open derivative endpoint at scan 294 / `‘லாக்`.
 
-- **49 / 49** physical pages represented exactly once in the page map;
-- **49 / 49** canonical page records present and `verified`;
-- Part 005→006 opening continuity `இருக்கவே` / `இருக்கிறாள் பரிமளா, ...` remains provenance-only across the derivative split;
-- chapter and internal-transition structure agrees with canonical records;
-- scan-280-onward Gemini lexical wording remains the controlling text while native scan evidence is restricted to structural/presentation findings;
-- no unresolved Gemini lexical omission remains;
-- cross-page continuities are preserved, including 282→283, 284→285, 285→286, 287→288, 289→290, 291→292, 292→293 and 293→294;
-- scan **288 / printed 284** closes chapter 32 and begins chapter 33 under the source-printed transition;
-- scan **294 / printed 290** remains an open derivative endpoint at `‘லாக்`, not a chapter or novel ending.
+### Part-006 assembled-Tamil findings
 
-The full audit record is `notes/part-006-tamil-audit.md`.
+The assembled consistency check confirmed:
+
+- chapter 27 is now completed through scan 247 without treating the Part-005→006 split as a narrative break;
+- chapters 28–33 are assembled from audited canonical pages only;
+- the source-printed four-star transition on scan 251 remains inside chapter 28;
+- real chapter boundaries at scans 254, 262, 271, 278 and 288 are preserved;
+- physical page joins are joined only in the reading layer where canonical/audit evidence establishes continuity;
+- scans 280–294 retain Gemini lexical wording while physical line/page wraps are removed only for reading-layer presentation;
+- chapter 33 remains explicitly open at scan 294 / `‘லாக்`;
+- no chapter close, novel ending or missing continuation is invented.
 
 ## Aggregate canonical state
 
@@ -72,8 +74,9 @@ The full audit record is `notes/part-006-tamil-audit.md`.
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
 - later completed coverage: through scan **294**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **Tamil audit PASSED; assembled Tamil pending**
-- continuous split-level assembled Tamil / English review: through scan **245** only
+- Part 006: **Tamil audit + assembled Tamil check PASSED; English pending**
+- assembled Tamil is part-reviewed continuously through scan **294**
+- controlled English / bilingual review remain part-reviewed continuously through scan **245** only
 - full-source physical coverage from received derivatives: through scan **294**
 
 ## Whole-work gate
@@ -82,12 +85,4 @@ The full audit record is `notes/part-006-tamil-audit.md`.
 
 ## Exact next activity
 
-Build the **Part-006 assembled Tamil reading layer from audited canonical pages only**:
-
-1. extend `sections/27-chapter-27.md` from scan 245 through the chapter-27 close on scan 247;
-2. create / populate assembled chapter files **28 through 33** from scans 247–294;
-3. preserve the scan-251 four-star transition, chapter boundaries, reversible source-page provenance and verified page joins;
-4. leave chapter 33 explicitly open at scan 294 / `‘லாக்`;
-5. update `sections/README.md` after a split-level assembled consistency check.
-
-Do not begin Part-006 English translation until the assembled Tamil layer passes that check.
+Begin the **Part-006 controlled English translation** from the checked assembled Tamil layer, covering the chapter-27 continuation and chapters 28–33 through scan 294. Preserve chapter/internal-transition structure and provenance, keep translation subordinate to canonical Tamil authority, and leave chapter 33 explicitly open at the derivative endpoint. Do not begin the Part-006 bilingual review until the controlled English translation is complete and source-checked.
