@@ -5,7 +5,7 @@ section_order: 44
 section_title: "Chapter 44"
 language: "en"
 source_scans: "376 (chapter-44 portion)-387 (chapter-44 portion)"
-status: "draft-translated-part-008"
+status: "source-checked-part-008"
 derived_from: "audited Tamil pages and checked assembled sections/44-chapter-44.md"
 ---
 
@@ -121,7 +121,7 @@ Shok was sitting by the window. Raman wondered how he could reveal such dangerou
 
 Parimala in Bhagavathi's disguise, thinking Raman might provide some help, asked, “What do you want?”
 
-With tears in his eyes Raman said, “See her sitting over there—Shokasundari. She is my beloved friend! The two of us are life to life! My master is going to bring great danger upon her! He is going to marry her to a man called Durai, immediately kill both of them as a sacrifice and take the treasure. My beloved Shokasundari must be saved from that danger. Bhagavathi, will you yourself tell her this?” Raman pleaded.
+With tears in his eyes Raman said, “See her sitting over there—Shokasundari. She is my beloved friend! The two of us are each other's very life! My master is going to bring great danger upon her! He is going to marry her to a man called Durai, immediately kill both of them as a sacrifice and take the treasure. My beloved Shokasundari must be saved from that danger. Bhagavathi, will you yourself tell her this?” Raman pleaded.
 
 Hearing those words, Bhagavathi's heart began to tremble. Knowing that her lover Durai could no longer escape, her heart melted like wax in fire. She wanted to die together with Durai.
 
@@ -143,4 +143,4 @@ Without answering, Parimala said, “Saibu is going to tell you a fortune; going
 
 “A woman, am I? That's exactly what I'm not,” Shokasundari said with a laugh, pulling aside her veil.
 
-In rapid movements she removed the disguiseing clothes. Parimala stood astonished.
+In rapid movements she removed the clothes of her disguise. Parimala stood astonished.
