@@ -14,13 +14,15 @@ Lexical baseline: uploaded `p8.md`
 - canonical records: **49 / 49**
 - verified: **49 / 49**
 - Part-008 needs-review: **0**
-- complete `p8.md` lexical omissions found: **0**
+- complete `p8.md` lexical omissions found: **1**
+- unresolved lexical omissions: **0**
+- user-authorized source-visible restorations: **1 — scan 384 `தகட்டில் இருக்கிறபடி`**
 
 ## Authority application
 
 From scan 280 onward, the supplied Gemini baseline controls lexical wording/forms. Native scans control page identity, punctuation, quotation marks, paragraphing, physical boundaries, separators and chapter/scene structure.
 
-No native-source lexical word was substituted for a supplied Part-008 lexical form.
+One complete native phrase absent from the Part-008 baseline was discovered during assembled-Tamil construction: **`தகட்டில் இருக்கிறபடி`** on scan 384 / printed 380. The user explicitly authorized its restoration on 2026-09-02. No other native-source lexical word was substituted for a supplied Part-008 lexical form.
 
 ## Important structural findings
 
