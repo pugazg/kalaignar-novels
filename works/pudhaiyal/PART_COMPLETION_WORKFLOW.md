@@ -31,8 +31,9 @@ For Part 007, uploaded `p7.md` is the controlling lexical baseline. The three co
 - Part 004 — scans **148–196** — `part-complete`
 - Part 005 — scans **197–245** — `part-complete` with source-damage qualification
 - Part 006 — scans **246–294** — `part-complete`
+- Part 007 — scans **295–343** — `part-complete`
 
-## Active split — Part 007
+## Part 007 completed split
 
 - source scans: **295–343**
 - printed pages: **291–339**
@@ -43,21 +44,23 @@ For Part 007, uploaded `p7.md` is the controlling lexical baseline. The three co
 - Tamil audit: **PASSED**
 - assembled Tamil consistency check: **PASSED**
 - controlled English source check: **PASSED**
-- assembled Tamil: **through scan 343**
-- source-checked English: **through scan 343**
-- bilingual review: **pending**
-- state: **`english-source-checked / bilingual-review-next`**
+- bilingual review: **PASSED**
+- assembled Tamil / source-checked / bilingual-reviewed English: **through scan 343**
+- state: **`part-complete`**
 
-Structural reconciliation and assembly are complete through scan 343. Chapter 33 continues across the Part-006→007 boundary. Chapter 34 begins scan 297, Chapter 35 scan 307, Chapter 36 scan 317, Chapter 37 scan 324, Chapter 38 scan 331 and Chapter 39 scan 340. Source transitions remain preserved, including the scan-322 structure-only placement of unchanged `விடியற்காலை...` material. Scan 343 ends open at `அதிர்ஷ்`; source-checked English ends correspondingly inside `luc` and does not invent a true ending.
+Structural reconciliation and assembly are complete through scan 343. Chapter 33 continues across the Part-006→007 boundary. Chapter 34 begins scan 297, Chapter 35 scan 307, Chapter 36 scan 317, Chapter 37 scan 324, Chapter 38 scan 331 and Chapter 39 scan 340. Source transitions remain preserved, including the scan-322 structure-only placement of unchanged `விடியற்காலை...` material. Scan 343 ends open at `அதிர்ஷ்`; reviewed English ends correspondingly inside `luc` and does not invent a true ending.
 
-Tamil audit record: [`notes/part-007-tamil-audit.md`](notes/part-007-tamil-audit.md).  
-Assembled-Tamil check: [`notes/part-007-assembled-tamil-check.md`](notes/part-007-assembled-tamil-check.md).  
-English source check: [`translations/en/PART_007_ENGLISH_CHECK.md`](translations/en/PART_007_ENGLISH_CHECK.md).
+Records:
+
+- Tamil audit: [`notes/part-007-tamil-audit.md`](notes/part-007-tamil-audit.md)
+- assembled-Tamil check: [`notes/part-007-assembled-tamil-check.md`](notes/part-007-assembled-tamil-check.md)
+- English source check: [`translations/en/PART_007_ENGLISH_CHECK.md`](translations/en/PART_007_ENGLISH_CHECK.md)
+- bilingual review: [`translations/en/PART_007_REVIEW.md`](translations/en/PART_007_REVIEW.md)
 
 ## Gate consequence
 
-Part 007 has passed canonical reconciliation, structural fidelity, Tamil audit, assembled-Tamil consistency and controlled-English source checking. The sole remaining split-level gate is the **Part-007 bilingual review**. It must pass before `part-complete` is assigned.
+Part 007 has completed every split-level gate and is `part-complete`. The next work is **not** another Part-007 review. The next source evidence must continue beyond scan 343 before any new canonical or translation range is assigned.
 
 ## Exact next activity
 
-Run the **Part-007 bilingual review across scans 295–343**, comparing source-checked English against canonical/assembled Tamil for semantic fidelity, dialogue coverage, names/terms, humour, violence, romance, rhetorical force, internal transitions and the open derivative endpoint. If it passes, mark Part 007 `part-complete`, then move to source beyond scan 343.
+Obtain / resolve the **next source derivative beyond scan 343**, verify its first source page against the open `அதிர்ஷ்` boundary, establish its actual scan/printed-page range, and then begin the next split workflow. Do not infer the continuation word, chapter ending, derivative size or novel ending without that source.
