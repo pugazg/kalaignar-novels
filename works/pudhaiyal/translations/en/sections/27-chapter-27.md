@@ -5,7 +5,7 @@ section_order: 27
 section_title: "Chapter 27"
 language: "en"
 source_scans: "241-247 (chapter-27 portion)"
-status: "draft-translated-part-006-extension"
+status: "source-checked-through-part-006-chapter-close"
 derived_from: "audited Tamil pages and checked sections/27-chapter-27.md"
 ---
 
