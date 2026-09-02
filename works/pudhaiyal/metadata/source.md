@@ -22,7 +22,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 005 | 197–245 | 195–241 | part-complete with 7 source-damage qualifications |
 | 006 | 246–294 | 242–290 | part-complete |
 | 007 | 295–343 | 291–339 | part-complete |
-| 008 | 344–392 | 340–388 | **Tamil audit PASSED + assembled Tamil PASSED / controlled English next** |
+| 008 | 344–392 | 340–388 | **Tamil + assembled Tamil + English source check PASSED / bilingual review next** |
 
 ## Part 008 derivative
 
@@ -39,6 +39,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 - fidelity: [`../notes/visual-fidelity-scans-344-392.md`](../notes/visual-fidelity-scans-344-392.md)
 - Tamil audit: [`../notes/part-008-tamil-audit.md`](../notes/part-008-tamil-audit.md)
 - assembled Tamil audit: [`../notes/part-008-assembled-tamil-audit.md`](../notes/part-008-assembled-tamil-audit.md)
+- English source check: [`../translations/en/PART_008_ENGLISH_CHECK.md`](../translations/en/PART_008_ENGLISH_CHECK.md)
 
 No split PDF or uploaded baseline is committed.
 
@@ -57,9 +58,12 @@ Other notable Part-008 baseline/native discrepancies were structure-only: scan 3
 - needs-review: **0**
 - Tamil audit: **PASSED**
 - assembled Tamil: **PASSED**
-- state: **`assembled-tamil-passed / controlled-english-next`**
+- controlled English translation: **COMPLETE**
+- English source check: **PASSED**
+- bilingual review: **NEXT**
+- state: **`english-source-checked / bilingual-review-next`**
 
-Part-007→008 continuity is `அதிர்ஷ்` + `டம்` → **`அதிர்ஷ்டம்`**. Chapter 45 remains open at scan 392 `நமது`.
+Part-007→008 continuity is `அதிர்ஷ்` + `டம்` → **`அதிர்ஷ்டம்`**. English mirrors the same split as `luc` + `k` → **luck**. Chapter 45 remains open at scan 392 Tamil `நமது` / English **“our”**.
 
 ## Aggregate state
 
@@ -67,9 +71,10 @@ Part-007→008 continuity is `அதிர்ஷ்` + `டம்` → **`அத
 - verified/completed: **385**
 - needs-review: **7 — scans 215–219 and 223–224 only**
 - assembled Tamil: through scan **392 / printed 388**
-- source-checked/bilingual-reviewed English: through scan **343**
+- source-checked English: through scan **392 / printed 388**
+- bilingual-reviewed English: through scan **343**
 - received source range: through scan **392 / printed 388**
 
 ## Exact next action
 
-Begin controlled English translation of Part 008 scans **344–392** from the audited assembled Tamil Chapters **39–45**. Source beyond scan 392 remains required before continuation after open `நமது` can be assigned.
+Run the **Part-008 bilingual review across scans 344–392**. Source beyond scan 392 remains required before continuation after open `நமது` can be assigned.
