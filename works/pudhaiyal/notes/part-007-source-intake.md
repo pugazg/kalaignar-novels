@@ -32,34 +32,31 @@ Do **not** use native visual evidence to replace a `p7.md` lexical word/form. If
 
 ## Part 006 → Part 007 continuation verified
 
-The previous canonical record, scan **294 / printed 290**, ends inside the Sub-Inspector's dialogue at open `‘லாக்`.
+Scan **294 / printed 290** ends at `‘லாக்`; native scan **295 / printed 291** begins `அப்’பில் தானிருக்கிறார்கள்...`, establishing **`‘லாக் அப்’பில்`**. The derivative boundary is provenance only.
 
-Native Part-007 scan **295 / printed 291** begins `அப்’பில் தானிருக்கிறார்கள்...`, establishing the verified cross-part continuation **`‘லாக் அப்’பில்`**. No new sentence, paragraph, scene or chapter boundary is created by the derivative split.
+## Canonical / structural progress through scan 317
 
-## Canonical / structural progress through scan 312
+- scans **295–303** — canonical + verified;
+- scan **304** — `needs-review`; baseline omits source-visible `நீ`;
+- scan **305** — `needs-review`; baseline omits source-visible `என்ன`;
+- scan **306** — chapter 34 closes;
+- scan **307** — chapter 35 begins;
+- scans **308–314** — canonical + verified;
+- scan **315 / printed 311** — `needs-review`; native source includes complete quoted span `சரி...... வா! வா!......` after `மடியிலே கனமிருந்தால் தானே வழியிலே பயம்!`, but `p7.md` omits it; the span was not inserted;
+- scan **315→316** — physical `அவர்` + `கள்` → `அவர்கள்`;
+- scan **316** — verified; ends `“அகப்பட்டுக் கொண்டோம்!”`;
+- scan **317** — verified; begins `என்ற ஏக்கத்தோடு`, closes chapter 35, prints horizontal rule + heading **36**, begins chapter 36, ends `பரிமளா பங்களாவிலே`.
 
-- scans **295–303** — canonical; all verified;
-- scan **304 / printed 300** — canonical `needs-review`; source-visible lexical `நீ` is omitted by `p7.md` and was not silently inserted;
-- scan **305 / printed 301** — canonical `needs-review`; source-visible lexical `என்ன` is omitted by `p7.md` and was not silently inserted;
-- scan **306 / printed 302** — canonical + verified; chapter 34 closes with source horizontal rule;
-- scan **307 / printed 303** — canonical + verified; chapter 35 begins under heading `35`;
-- scan **307→308** — `அவனை ஆட்டி வைத்த ‘மிருகம்’` → `பதுங்கி விட்டது.`;
-- scan **308 / printed 304** — canonical + verified; ends `வாழ்க்கைக்`;
-- scan **309 / printed 305** — canonical + verified; begins `காவியத்தை`; ends open at `...படாமல் இந்த`;
-- scan **310 / printed 306** — canonical + verified; source-printed `* * * *` internal transition; ends physical `போவ`;
-- scan **311 / printed 307** — canonical + verified; begins `தென்று`, completing `போவதென்று`; ends `பேசிக் கொண்டிருந்து`;
-- scan **312 / printed 308** — canonical + verified; begins `விட்டு,`; no new complete baseline lexical omission found.
+Canonical count: **23 / 49**.  
+Verified: **20 / 49**.  
+Part-007 needs-review: **3 — scans 304–305, 315**.  
+Not-started: **26 — scans 318–343**.
 
-Canonical count: **18 / 49**.  
-Verified: **16 / 49**.  
-Part-007 needs-review: **2 — scans 304–305**.  
-Not-started: **31 — scans 313–343**.
-
-Latest fidelity record: [`visual-fidelity-scans-308-312.md`](visual-fidelity-scans-308-312.md).
+Latest fidelity record: [`visual-fidelity-scans-313-317.md`](visual-fidelity-scans-313-317.md).
 
 ## Part-007 endpoint spot check
 
-Native scan **343 / printed 339** is still narrative text and ends mid-utterance at the lexical fragment `அதிர்ஷ்`. The supplied `p7.md` ends its source transcription at the same fragment. Part 007 is therefore an **open access-derivative boundary**, not the ending of the chapter or novel.
+Native scan **343 / printed 339** is still narrative text and ends mid-utterance at `அதிர்ஷ்`. The supplied `p7.md` ends its source transcription at the same fragment. Part 007 is therefore an **open access-derivative boundary**, not the ending of the chapter or novel.
 
 ## Intake / workflow state
 
@@ -67,10 +64,10 @@ Native scan **343 / printed 339** is still narrative text and ends mid-utterance
 - physical/printed mapping: **resolved — scans 295–343 / printed 291–339**;
 - lexical baseline: **resolved — complete `p7.md` block available**;
 - Part-006→007 opening continuity: **VERIFIED**;
-- canonical / structural reconciliation: **active through scan 312**;
-- unresolved Part-007 lexical omissions: **scans 304–305**;
+- canonical / structural reconciliation: **active through scan 317**;
+- unresolved Part-007 lexical omissions: **scans 304–305, 315**;
 - Part-007 Tamil audit / assembly / English / bilingual gates: **not yet eligible**.
 
 ## Exact next activity
 
-Process scan **313 / printed 309**, chapter 35, using `p7.md` as lexical authority and native Part-007 page 19 as structural authority. Continue sequentially through the derivative. Do not pass the Part-007 Tamil audit until scans 304–305 receive explicit lexical-omission disposition.
+Process scan **318 / printed 314**, chapter 36, using `p7.md` as lexical authority and native Part-007 page 24 as structural authority. Verify `பரிமளா பங்களாவிலே` → `இருந்ததால் புலனாகிவிட்டது...`, then continue sequentially through the derivative. Do not pass the Part-007 Tamil audit until scans 304–305 and 315 receive explicit lexical-omission disposition.
