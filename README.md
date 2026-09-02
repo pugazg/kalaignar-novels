@@ -20,13 +20,13 @@ From scan 280 onward, supplied Gemini transcription controls lexical words/spell
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **343 canonical / 336 verified-complete / 7 needs-review; Part 007 English source check PASSED; bilingual review next** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **343 canonical / 336 verified-complete / 7 needs-review; Parts 001–007 part-complete; source beyond scan 343 next** |
 
 ### புதையல் — current source state
 
 Tamil Digital Library reports **443 p.**; exact original PDF scan count remains pending complete source reconciliation.
 
-Received derivatives cover scans **1–343**. Parts 001–006 are split-level `part-complete`. Part 007 covers scans **295–343 / printed 291–339** and is **49/49 canonical + verified**, with Tamil audit, assembled-Tamil consistency check and controlled-English source check **PASSED**.
+Received derivatives cover scans **1–343**. Parts **001–007** are now split-level `part-complete`. Part 007 covers scans **295–343 / printed 291–339** and is **49/49 canonical + verified**, with Tamil audit, assembled-Tamil consistency check, controlled-English source check and bilingual review all **PASSED**.
 
 The former Part-007 omission records are resolved by explicit user authorization:
 
@@ -36,9 +36,9 @@ The former Part-007 omission records are resolved by explicit user authorization
 
 Part-007 assembled Tamil continues Chapter 33 across the Part-006 boundary and carries Chapters 34–39 through scan 343. The audited `‘லாக்` + `அப்’பில்` join is assembled as **`‘லாக் அப்’பில்`** and translated continuously as **lock-up**. Chapter 36 begins scan 317, Chapter 37 scan 324, Chapter 38 scan 331 and Chapter 39 scan 340. Scan 322's `விடியற்காலை...` material remains in its native post-dialogue/four-star position without lexical alteration.
 
-Controlled English is now source-checked through scan **343 / printed 339**. Part-007 glossary handling remains conservative for source-specific terms, and scan 343's supplied `p7.md` lexical `అది` is not source-corrected in Tamil.
+Continuous source-checked and bilingual-reviewed English now also extends through scan **343 / printed 339**. The Part-007 bilingual review corrected three English-only fidelity issues: `காவலன் ஜஹாங்கீர்` is kept as **the ruler Jahangir** rather than “Emperor”; `பத்தாயிரம் முத்தாரம்` is rendered **a garland of ten thousand pearls**; and the Chapter-39 Saibu instruction retains source `முகத்தில்`.
 
-Scan **343 / printed 339** ends inside Chapter 39 at open Tamil **`அதிர்ஷ்`**, with no closing punctuation. The source-checked English correspondingly stops inside **luck** at `luc`. Neither layer invents a chapter or novel ending.
+Scan **343 / printed 339** ends inside Chapter 39 at open Tamil **`அதிர்ஷ்`**, with no closing punctuation. Reviewed English correspondingly stops inside **luck** at `luc`. Neither layer invents a chapter or novel ending. Scan 343's supplied `p7.md` lexical `అది` remains unchanged in canonical Tamil.
 
 Current aggregate state:
 
@@ -47,14 +47,11 @@ Current aggregate state:
 - needs-review: **7 — only Part 005 scans 215–219 and 223–224**
 - partial: **0**
 - assembled Tamil: part-reviewed continuously through scan **343**
-- source-checked English: continuously through scan **343**
-- bilingual-reviewed English: continuously through scan **294**
-- Part 007 Tamil audit: **PASSED**
-- Part 007 assembled-Tamil consistency check: **PASSED**
-- Part 007 controlled-English source check: **PASSED**
+- source-checked and bilingual-reviewed English: continuously through scan **343**
+- Parts 001–007: **part-complete** at split level
 - whole-work verification/release: **not yet eligible**
 
-Exact next action: run the **Part-007 bilingual review across scans 295–343**. Only if that passes may Part 007 be marked `part-complete`; source beyond scan 343 is still required afterward for whole-work completion.
+Exact next action: obtain / resolve the **next source derivative beyond scan 343** and verify its real opening against the open `அதிர்ஷ்` boundary before assigning continuation text, page mapping or a new part range.
 
 ## நிறைவு பெற்ற reference work
 
