@@ -36,13 +36,14 @@ No broader lexical source-correction is authorized. Scan 343 therefore retains s
 4. Part 004 — scans **148–196** — part-complete
 5. Part 005 — scans **197–245** — part-complete with source-damage qualification
 6. Part 006 — scans **246–294 / printed 242–290** — part-complete
-7. Part 007 — scans **295–343 / printed 291–339** — **Tamil audit + assembled-Tamil consistency check + controlled-English source check PASSED**
+7. Part 007 — scans **295–343 / printed 291–339** — **part-complete**
    - canonical: **49 / 49**
    - verified: **49 / 49**
    - Part-007 needs-review: **0**
-   - assembled Tamil: **through scan 343**
-   - source-checked English: **through scan 343**
-   - bilingual review: **next**
+   - Tamil audit: **PASSED**
+   - assembled Tamil consistency check: **PASSED**
+   - controlled English source check: **PASSED**
+   - bilingual review: **PASSED**
 
 Part-006→007 continuity is conclusively `‘லாக்` + `அப்’பில்` → **`‘லாக் அப்’பில்`**, translated continuously as **lock-up**.
 
@@ -58,11 +59,14 @@ Part-006→007 continuity is conclusively `‘லாக்` + `அப்’ப�
 - scan 330 contains a four-star transition and Chapter-37 closing rule
 - chapter 38 opens scan 331
 - chapter 39 opens scan 340
-- scan 343 ends open at Tamil `அதிர்ஷ்`; English source check ends correspondingly inside `luc`
+- scan 343 ends open at Tamil `அதிர்ஷ்`; reviewed English ends correspondingly inside `luc`
 
-Tamil audit record: [`part-007-tamil-audit.md`](part-007-tamil-audit.md).  
-Assembled-Tamil check: [`part-007-assembled-tamil-check.md`](part-007-assembled-tamil-check.md).  
-English source check: [`../translations/en/PART_007_ENGLISH_CHECK.md`](../translations/en/PART_007_ENGLISH_CHECK.md).
+Records:
+
+- Tamil audit: [`part-007-tamil-audit.md`](part-007-tamil-audit.md)
+- assembled-Tamil check: [`part-007-assembled-tamil-check.md`](part-007-assembled-tamil-check.md)
+- English source check: [`../translations/en/PART_007_ENGLISH_CHECK.md`](../translations/en/PART_007_ENGLISH_CHECK.md)
+- bilingual review: [`../translations/en/PART_007_REVIEW.md`](../translations/en/PART_007_REVIEW.md)
 
 ## Current textual / derivative state
 
@@ -70,11 +74,9 @@ English source check: [`../translations/en/PART_007_ENGLISH_CHECK.md`](../transl
 - verified/completed: **336**
 - needs-review: **7 — only Part 005 scans 215–219 and 223–224**
 - partial: **0**
-- Parts 001–006: **part-complete**
-- Part 007: **English source check PASSED; bilingual review pending**
+- Parts 001–007: **part-complete** at split level
 - assembled Tamil: **through scan 343**
-- source-checked English: **through scan 343**
-- bilingual-reviewed English: **through scan 294**
+- source-checked and bilingual-reviewed English: **through scan 343**
 - physically represented source coverage: **through scan 343 / printed 339**
 - full-source manifest: **incomplete beyond scan 343**
 
@@ -82,14 +84,13 @@ English source check: [`../translations/en/PART_007_ENGLISH_CHECK.md`](../transl
 
 Still required:
 
-1. run Part-007 bilingual review and, if passed, mark the split `part-complete`;
-2. obtain source beyond scan 343 and verify continuation from open `அதிர்ஷ்`;
-3. process all later source scans and true ending/back matter;
-4. determine exact original PDF scan/page-object count and SHA-256;
-5. only after complete-source coverage, run final whole-work Tamil/bilingual/release audits.
+1. obtain source beyond scan 343 and verify continuation from open `அதிர்ஷ்`;
+2. process all later source scans and true ending/back matter;
+3. determine exact original PDF scan/page-object count and SHA-256;
+4. only after complete-source coverage, run final whole-work Tamil/bilingual/release audits.
 
 Do not infer final source extent or ending from the TDL printed-page count or repeated derivative sizes.
 
 ## Exact next activity
 
-Run the **Part-007 bilingual review across scans 295–343**. Source acquisition beyond scan 343 follows only after the Part-007 split-level workflow is closed.
+Obtain / resolve the **next source derivative beyond scan 343**. Verify its actual first page against the open `அதிர்ஷ்` boundary before assigning the next continuation, scan range or printed-page mapping.
