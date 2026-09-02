@@ -43,7 +43,7 @@ A derivative boundary is provenance only and must never create a false narrative
 | Part 003 | 99–147 | **part-complete; scan-120 old-glyph correction synchronized** |
 | Part 004 | 148–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification; readable-page old-glyph corrections synchronized** |
-| Part 006 | 246–294 | **in progress — 49 mapped; scans 246–282 complete; 283–294 not-started** |
+| Part 006 | 246–294 | **in progress — 38 canonical; 37 verified/completed; scan 283 needs-review; 284–294 not-started** |
 
 ## Part 006 — active derivative
 
@@ -53,28 +53,29 @@ Source: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - source scans: **246–294**
 - visible printed pages: **242–290**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
-- canonical records created: **37 / 49 — scans 246–282**
+- canonical records created: **38 / 49 — scans 246–283**
 - verified / structurally completed: **37 / 49**
-- needs-review in Part 006: **0**
-- not-started: **12 — scans 283–294**
-- latest fidelity record: [`notes/visual-fidelity-scan-282.md`](notes/visual-fidelity-scan-282.md)
+- needs-review in Part 006: **1 — scan 283**
+- not-started: **11 — scans 284–294**
+- latest fidelity record: [`notes/visual-fidelity-scan-283.md`](notes/visual-fidelity-scan-283.md)
 - Part-006 Tamil audit: **not yet eligible**
 - Part-006 assembled Tamil / English / bilingual review: **not started; gate remains closed**
 - source/split PDF committed: **No**
 
 ### Current hybrid-policy checkpoint
 
-Scans **280–282** are processed under the Gemini-lexical/native-structure rule.
+Scans **280–283** are processed under the Gemini-lexical/native-structure rule.
 
-Scan **282 / printed 278** is now complete:
+Scan **283 / printed 279**:
 
 - Gemini lexical wording is retained without source-based word correction;
 - no source-printed chapter or scene transition occurs; chapter 32 continues;
-- native source supplies quotation marks, ordinary punctuation, paragraphing and physical line breaks;
-- source long-dash structure is preserved in `அன்பு இல்லை — பிரியம் / இல்லை — என்பது...`;
-- source physical line breaks retain `உன்` / `னுடைய`, `வெள்ளியம்பலத்திட` / `மிருந்து`, `வைத்` / `தேன்`, `பரி` / `மளா`, `பரிமளா` / `வைப்`, and `அறைந்` / `தாள்`;
-- physical endpoint is unpunctuated `துக்காராம் அப்படியே அசைவற்று நின்றான்`;
-- scan 283 begins `சிறிது நேரம்.`, confirming the sentence crosses the physical page boundary.
+- scan 282 ends without punctuation at `துக்காராம் அப்படியே அசைவற்று நின்றான்`; scan 283 begins `சிறிது நேரம்.`, confirming the cross-page sentence continuation;
+- native source supplies quotation marks, ordinary punctuation, paragraphing, long dashes and physical line breaks;
+- source long-dash structures include `போதும்—இனியும்` and `வெள்ளியம்பலம்—என்ற`;
+- physical line-break provenance includes `நிலைப்` / `படுத்திவிட்டது`, `கூறிக்` / `கொண்டே`, `துக்கா` / `ராம்`, `உனக்` / `கும்`, `உண்மை` / `யைக்`, `சொல்` / `வது`, and `பயன்படுத்து` / `வார்`;
+- **Gemini omission:** native source contains `பார்` after `ஓடிப் போகிறேன்`, but Gemini omits it. Per policy the word was not inserted into the body; scan 283 is `needs-review` pending explicit disposition;
+- physical endpoint is `வெள்ளியம்பலம்—என்ற திகிலும் கூடவே பிறந்தது.`.
 
 ### Part-006 structure mapped
 
@@ -86,22 +87,22 @@ Scan **282 / printed 278** is now complete:
 - chapter 32 begins scan 278;
 - chapter 33 begins scan 288 and continues through scan 294.
 
-Only scans 246–282 have been processed so far. Later structural mapping does not make scans 283–294 complete.
+Only scans 246–283 have canonical records so far. Later structural mapping does not make scans 284–294 complete.
 
 ## Aggregate archival status
 
-- canonical Tamil page records: **282**
+- canonical Tamil page records: **283**
 - verified / completed: **275**
-- needs-review: **7 — scans 215–219, 223–224**
+- needs-review: **8 — Part 005 scans 215–219, 223–224; Part 006 scan 283**
 - partial: **0**
 - clean contiguous fully verified range remains through scan **214 / printed page 212**
-- later individual completed pages extend through scan **282**, except the seven Part-005 damaged scans
+- later completed pages extend through scan **282**, with scan 283 explicitly `needs-review`
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 37 / 49 complete**
+- Part 006: **in progress — 37 verified/completed + 1 needs-review / 49**
 - assembled Tamil / English: part-reviewed continuously through scan **245** only
 - whole-work Tamil / English verification: **not yet eligible**
 - release-readiness: **blocked until complete source**
 
 ## Exact next activity
 
-Process **scan 283 / printed page 279**, continuing chapter 32. **Keep Gemini's words exactly.** Use the native source only for headings, punctuation, long dashes, quote style, speaker-label spacing, paragraph/physical line breaks, page-boundary provenance and other structural findings.
+Process **scan 284 / printed page 280**, continuing chapter 32. **Keep Gemini's words exactly.** Use the native source only for headings, punctuation, long dashes, quote style, speaker-label spacing, paragraph/physical line breaks, page-boundary provenance and other structural findings. Keep scan 283's `பார்` omission open unless explicitly resolved by the user.
