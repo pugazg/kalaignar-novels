@@ -7,9 +7,9 @@ Tamil audit: **PASSED**
 Assembled Tamil consistency check: **PASSED**  
 English translation scope: **chapter 27 continuation + chapters 28–33 through scan 294**
 
-Result: **CONTROLLED ENGLISH SOURCE CHECK PASSED — BILINGUAL REVIEW ELIGIBLE**
+Result: **CONTROLLED ENGLISH SOURCE CHECK PASSED**
 
-This is a split-part English checkpoint only. It is **not** the Part-006 bilingual-review verdict, whole-work English verification, or release verdict.
+This remains the split-part English source-check checkpoint. The subsequent bilingual-review verdict is recorded separately in [`PART_006_REVIEW.md`](PART_006_REVIEW.md), which **PASSED** and advanced Part 006 to `part-complete`.
 
 ## Tamil authority
 
@@ -35,7 +35,7 @@ For scans **280–294**, the user's approved hybrid authority remains in force: 
 
 The English reading remains continuous across all audited physical joins, including:
 
-- **245→246**: `இருக்கவே` + `இருக்கிறாள் பரிமளா...` — the earlier Part-005 English endpoint is now correctly extended as `Parimalam is right here; let her tell us whose hand it is!`;
+- **245→246**: `இருக்கவே` + `இருக்கிறாள் பரிமளா...` — the earlier Part-005 English endpoint is extended as `Parimalam is right here; let her tell us whose hand it is!`;
 - **247→248**: `இன்` + `னும்` = `இன்னும்`;
 - **248→249**: `அவ` + `தாரம்` = `அவதாரம்`;
 - **257→258**: `வெள்ளியம்` + `பலம்` = `வெள்ளியம்பலம்`;
@@ -79,10 +79,14 @@ Likewise, source/Gemini-specific wording, humour, satire, colloquial speech, thr
 
 Two English-layer issues were found and corrected during this source check:
 
-1. **scan 294 endpoint:** the initial English draft had added an em dash after open `‘Lock`. The Tamil/native derivative has **no closing punctuation at all**, so the dash was removed. English now ends at open **`‘Lock`** with no closing quote or punctuation.
-2. **Sub-Inspector sentence:** an English-only grammar slip (`...Mayandi and have kept...`) was corrected to readable English without changing the Tamil meaning.
+1. **scan 294 endpoint:** the initial English draft had added an em dash after open `‘Lock`. The Tamil/native derivative has **no closing punctuation at all**, so the dash was removed. English ends at open **`‘Lock`** with no closing quote or punctuation.
+2. **Sub-Inspector sentence:** an English-only grammar slip was corrected to readable English without changing the Tamil meaning.
 
 These are English-layer corrections only; no Tamil lexical text was changed.
+
+## Subsequent bilingual-review corrections
+
+The later bilingual review made additional English-only fidelity/consistency corrections and rechecked them against controlling Tamil. These include conservative **Chakkili** handling for `சக்கிலிய`, removal of over-interpretive “decoy” / “by mistake” readings, preservation of the scan-277 source anomaly without inserting a missing object, and stable **Raja Madam** glossary handling. See [`PART_006_REVIEW.md`](PART_006_REVIEW.md) for the complete record.
 
 ## Endpoint gate
 
@@ -100,12 +104,12 @@ The English correspondingly ends at open **`‘Lock`**. There is no closing quot
 - cross-page/split continuity: **PASS**;
 - chapter/internal-transition fidelity: **PASS**;
 - scan-280-onward lexical-authority discipline: **PASS**;
-- open scan-294 endpoint handling: **PASS after correction**;
+- open scan-294 endpoint handling: **PASS**;
 - controlled English source check: **PASSED**;
-- Part-006 English state: **`source-checked`**;
-- Part-006 bilingual review: **ELIGIBLE — NOT YET RUN**;
+- subsequent Part-006 bilingual review: **PASSED** — see `PART_006_REVIEW.md`;
+- Part-006 state: **`part-complete`**;
 - whole-work English `verified`: **not yet eligible**.
 
 ## Exact next activity
 
-Run the **Part-006 bilingual review** across audited Tamil and source-checked English for scans **246–294**. Confirm sentence/dialogue coverage, meaning alignment, names/terms, satire/violence/romance fidelity, chapter/transition structure, all page joins, and the open scan-294 endpoint. Only after that review passes may Part 006 be marked `part-complete`.
+Obtain / resolve the **next source derivative beyond scan 294**, verify its first page against the open Tamil `‘லாக்` / English `‘Lock` boundary, and establish its actual source/printed-page mapping before extending chapter 33.
