@@ -22,7 +22,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 005 | 197–245 | 195–241 | part-complete with 7 source-damage qualifications |
 | 006 | 246–294 | 242–290 | part-complete |
 | 007 | 295–343 | 291–339 | part-complete |
-| 008 | 344–392 | 340–388 | **Tamil audit PASSED / assembled Tamil next** |
+| 008 | 344–392 | 340–388 | **Tamil audit PASSED + assembled Tamil PASSED / controlled English next** |
 
 ## Part 008 derivative
 
@@ -38,6 +38,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 - page map: [`../indexes/part-008-page-map.md`](../indexes/part-008-page-map.md)
 - fidelity: [`../notes/visual-fidelity-scans-344-392.md`](../notes/visual-fidelity-scans-344-392.md)
 - Tamil audit: [`../notes/part-008-tamil-audit.md`](../notes/part-008-tamil-audit.md)
+- assembled Tamil audit: [`../notes/part-008-assembled-tamil-audit.md`](../notes/part-008-assembled-tamil-audit.md)
 
 No split PDF or uploaded baseline is committed.
 
@@ -45,7 +46,9 @@ No split PDF or uploaded baseline is committed.
 
 From scan 280 onward, user-supplied Gemini transcription controls lexical wording/forms/spacing; native scans control page identity, punctuation, quotations, paragraphing, physical boundaries, separators and chapter/scene structure.
 
-Part 008 found **0 complete baseline lexical omissions**. Its two notable baseline/native discrepancies were structure-only: scan 381 paragraph placement around the four-star transition, and scan 390 ordering of unchanged `அதெல்லாம்` / `எதற்கு வீண் கதை!` words.
+Part 008 contained one complete native lexical phrase absent from `p8.md`: **`தகட்டில் இருக்கிறபடி`** on scan 384 / printed 380. The user explicitly authorized its restoration on 2026-09-02. This is a narrow documented exception only.
+
+Other notable Part-008 baseline/native discrepancies were structure-only: scan 381 paragraph placement around the four-star transition, and scan 390 ordering of unchanged `அதெல்லாம்` / `எதற்கு வீண் கதை!` words.
 
 ## Part-008 current result
 
@@ -53,7 +56,8 @@ Part 008 found **0 complete baseline lexical omissions**. Its two notable baseli
 - verified: **49 / 49**
 - needs-review: **0**
 - Tamil audit: **PASSED**
-- state: **`tamil-audit-passed / assembled-tamil-next`**
+- assembled Tamil: **PASSED**
+- state: **`assembled-tamil-passed / controlled-english-next`**
 
 Part-007→008 continuity is `அதிர்ஷ்` + `டம்` → **`அதிர்ஷ்டம்`**. Chapter 45 remains open at scan 392 `நமது`.
 
@@ -62,10 +66,10 @@ Part-007→008 continuity is `அதிர்ஷ்` + `டம்` → **`அத
 - page records: **392**
 - verified/completed: **385**
 - needs-review: **7 — scans 215–219 and 223–224 only**
-- assembled Tamil: through scan **343**
+- assembled Tamil: through scan **392 / printed 388**
 - source-checked/bilingual-reviewed English: through scan **343**
 - received source range: through scan **392 / printed 388**
 
 ## Exact next action
 
-Build and consistency-check the **Part-008 assembled Tamil reading layer** from scans **344–392**. Source beyond scan 392 remains required before any continuation after open `நமது` is assigned.
+Begin controlled English translation of Part 008 scans **344–392** from the audited assembled Tamil Chapters **39–45**. Source beyond scan 392 remains required before continuation after open `நமது` can be assigned.
