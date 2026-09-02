@@ -10,10 +10,10 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343
 - lexical baseline: uploaded `p7.md`, SHA-256 `a804b914b88050ca8d31142cb00d7491c94e89ff1fb7e564fdd348bdf14b1c59`
 - source/split PDF committed: **No**
 - baseline file committed: **No**
-- canonical records created: **18 / 49 — scans 295–312**
-- verified / structurally completed: **16 / 49**
-- needs-review in Part 007: **2 — scans 304–305**
-- not-started: **31 — scans 313–343**
+- canonical records created: **23 / 49 — scans 295–317**
+- verified / structurally completed: **20 / 49**
+- needs-review in Part 007: **3 — scans 304–305, 315**
+- not-started: **26 — scans 318–343**
 - split state: **`canonical-in-progress`**
 
 ## Authority rule
@@ -47,12 +47,12 @@ The Part-006→007 derivative boundary is provenance only. Scan 294 ends at open
 | 310 | 306 | chapter 35 / internal transition | verified | `../pages/0310-pudhaiyal.md`; four-star separator; ends physical split `போவ` |
 | 311 | 307 | chapter 35 | verified | `../pages/0311-pudhaiyal.md`; begins `தென்று`, completing `போவதென்று`; ends `பேசிக் கொண்டிருந்து` |
 | 312 | 308 | chapter 35 | verified | `../pages/0312-pudhaiyal.md`; begins `விட்டு,`; ends after Raman is asked to fetch powder |
-| 313 | 309 | chapter 35 | not-started | baseline begins `“பொடி என்கிட்டே இருக்கு தாத்தா...`; native verification next |
-| 314 | 310 | pending visual structure | not-started | — |
-| 315 | 311 | pending visual structure | not-started | — |
-| 316 | 312 | pending visual structure | not-started | — |
-| 317 | 313 | pending visual structure | not-started | — |
-| 318 | 314 | pending visual structure | not-started | — |
+| 313 | 309 | chapter 35 | verified | `../pages/0313-pudhaiyal.md`; begins powder reply; ends `தன் படுக்கையைத்` |
+| 314 | 310 | chapter 35 | verified | `../pages/0314-pudhaiyal.md`; begins `திண்ணையிலே`; ends Durai's `இருட்டுக் காலமல்லவா?...` reply |
+| 315 | 311 | chapter 35 | needs-review | `../pages/0315-pudhaiyal.md`; `p7.md` omits source-visible quoted span `சரி...... வா! வா!......`; ends physical `அவர்` |
+| 316 | 312 | chapter 35 | verified | `../pages/0316-pudhaiyal.md`; begins `கள்`, completing `அவர்கள்`; ends `“அகப்பட்டுக் கொண்டோம்!”` |
+| 317 | 313 | chapter 35 closes / chapter 36 begins | verified | `../pages/0317-pudhaiyal.md`; horizontal rule + heading `36`; ends `பரிமளா பங்களாவிலே` |
+| 318 | 314 | chapter 36 | not-started | baseline continuation begins `இருந்ததால் புலனாகிவிட்டது`; native verification next |
 | 319 | 315 | pending visual structure | not-started | — |
 | 320 | 316 | pending visual structure | not-started | — |
 | 321 | 317 | pending visual structure | not-started | — |
@@ -79,21 +79,22 @@ The Part-006→007 derivative boundary is provenance only. Scan 294 ends at open
 | 342 | 338 | pending visual structure | not-started | — |
 | 343 | 339 | Part-007 endpoint; section pending verification | not-started | endpoint spot-check ends mid-utterance at `அதிர்ஷ்` |
 
-## Verified structure through scan 312
+## Verified structure through scan 317
 
 - scan **295 / printed 291** directly continues scan 294's open dialogue: `‘லாக்` + `அப்’பில்` → `‘லாக் அப்’பில்`;
 - scan 295 ends with a source-printed four-star internal transition;
 - scan **297 / printed 293** closes chapter 33 and begins chapter 34 under a horizontal rule and source heading `34`;
 - scan **302→303** physically joins `பெற்` + `றான்` → `பெற்றான்`;
-- scans **304–305** each contain one complete source-visible lexical word omitted by `p7.md`; both remain `needs-review` without silent source insertion;
+- scans **304–305** each contain a complete source-visible lexical word omitted by `p7.md`; both remain `needs-review` without silent source insertion;
 - scan **306** closes chapter 34 with a source horizontal rule;
 - scan **307** begins chapter 35 and scan **307→308** continues `‘மிருகம்’` → `பதுங்கி விட்டது.`;
-- scan **308→309** continues `வாழ்க்கைக்` → `காவியத்தை...`;
-- scan **309→310** continues `...படாமல் இந்த` → `ஊரை விட்டு...`;
-- scan **310** contains a source-printed `* * * *` internal transition and ends in physical word split `போவ`;
-- scan **311** begins `தென்று`, completing `போவதென்று`, and ends `பேசிக் கொண்டிருந்து`;
-- scan **312** begins `விட்டு,` and continues chapter 35;
-- no new complete `p7.md` lexical omissions were found on scans 308–312;
+- scan **310** contains a source-printed `* * * *` internal transition;
+- scan **311** begins `தென்று`, completing physical `போவ` + `தென்று` → `போவதென்று`;
+- scan **313→314** continues `தன் படுக்கையைத்` → `திண்ணையிலே விரித்துக் கொண்டான்...`;
+- scan **315** contains a third Part-007 complete lexical omission: source-visible `சரி...... வா! வா!......` is absent from `p7.md`; record remains `needs-review` without source insertion;
+- scan **315→316** physically joins `அவர்` + `கள்` → `அவர்கள்`;
+- scan **316→317** continues `“அகப்பட்டுக் கொண்டோம்!”` → `என்ற ஏக்கத்தோடு...`;
+- scan **317** closes chapter 35 and begins chapter **36** under a horizontal rule and heading `36`; it ends `பரிமளா பங்களாவிலே`;
 - scan **343 / printed 339** endpoint spot-check ends mid-utterance at `அதிர்ஷ்`; it is not a chapter/novel ending.
 
 ## Fidelity records
@@ -103,7 +104,8 @@ The Part-006→007 derivative boundary is provenance only. Scan 294 ends at open
 - scans 298–302: `../notes/visual-fidelity-scans-298-302.md`
 - scans 303–307: `../notes/visual-fidelity-scans-303-307.md`
 - scans 308–312: `../notes/visual-fidelity-scans-308-312.md`
+- scans 313–317: `../notes/visual-fidelity-scans-313-317.md`
 
 ## Exact next activity
 
-Process scan **313 / printed 309** in chapter 35 from the `p7.md` lexical baseline and native Part-007 page 19. Continue sequentially through Part 007. The Part-007 Tamil audit remains blocked until scans 313–343 are reconciled and the two lexical omissions at scans 304–305 are explicitly resolved/dispositioned.
+Process scan **318 / printed 314** in chapter 36 from the `p7.md` lexical baseline and native Part-007 page 24. Verify the open continuation `பரிமளா பங்களாவிலே` → `இருந்ததால் புலனாகிவிட்டது...`, then continue sequentially through Part 007. The Part-007 Tamil audit remains blocked until scans 318–343 are reconciled and the three lexical omissions at scans **304–305 and 315** are explicitly resolved/dispositioned.
