@@ -14,9 +14,9 @@ Through scan 279, preserve completed source-first decisions. From **scan 280 onw
 - Part 007 lexical baseline: uploaded `p7.md`.
 - Part 008 lexical baseline: uploaded `p8.md`.
 
-Part 007 has three user-authorized source-visible restorations: scan 304 `நீ`, scan 305 `என்ன`, scan 315 `சரி...... வா! வா!......`. No broader lexical source-correction is implied.
+Part 007 has three user-authorized source-visible restorations: scan 304 `நீ`, scan 305 `என்ன`, scan 315 `சரி...... வா! வா!......`.
 
-During Part-008 assembled-Tamil construction, one previously missed complete source-visible omission was found on scan **384 / printed 380**: native `தகட்டில் இருக்கிறபடி` is absent from `p8.md`. The earlier canonical page had incorrectly source-filled it; that insertion has been removed and scan 384 is `needs-review` pending explicit user disposition.
+Part 008 has one user-authorized source-visible restoration: scan **384 / printed 380** `தகட்டில் இருக்கிறபடி`, which is absent from `p8.md`. The user explicitly authorized insertion on 2026-09-02. These are narrow documented restorations; no broader lexical source-correction is implied.
 
 ## Part status
 
@@ -29,7 +29,7 @@ During Part-008 assembled-Tamil construction, one previously missed complete sou
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification** |
 | Part 006 | 246–294 | **part-complete** |
 | Part 007 | 295–343 | **part-complete** |
-| Part 008 | 344–392 | **49/49 canonical; scan 384 needs-review; Tamil audit reopened** |
+| Part 008 | 344–392 | **Tamil audit PASSED + assembled Tamil PASSED / controlled English next** |
 
 ## Part 008 — current stage
 
@@ -43,11 +43,12 @@ Source: `TVA_BOK_0064097_புதையல்_part_008_pages_344-392.pdf`
 - lexical baseline: uploaded `p8.md`, **159,525 bytes / 319 lines**;
 - `p8.md` SHA-256: `aad52bdfeae873459d561a52826f4787fd04f72ac1c27886212a1942d8e89ca2`;
 - canonical records: **49 / 49**;
-- verified: **48 / 49**;
-- Part-008 needs-review: **1 — scan 384**;
-- Tamil audit: **REOPENED / BLOCKED** — [`notes/part-008-tamil-audit.md`](notes/part-008-tamil-audit.md);
+- verified: **49 / 49**;
+- Part-008 needs-review: **0**;
+- Tamil audit: **PASSED** — [`notes/part-008-tamil-audit.md`](notes/part-008-tamil-audit.md);
+- assembled Tamil audit: **PASSED** — [`notes/part-008-assembled-tamil-audit.md`](notes/part-008-assembled-tamil-audit.md);
 - page map: [`indexes/part-008-page-map.md`](indexes/part-008-page-map.md);
-- state: **`lexical-omission-disposition-pending`**.
+- state: **`assembled-tamil-passed / controlled-english-next`**.
 
 ### Structural findings retained
 
@@ -56,28 +57,29 @@ Source: `TVA_BOK_0064097_புதையல்_part_008_pages_344-392.pdf`
 - Chapters 40, 41, 42, 43, 44 and 45 begin on scans 348, 355, 362, 369, 376 and 387;
 - scans 372 and 373 contain native four-star transitions;
 - scan 381 has a native four-star transition and a structure-only relocation of unchanged supplied text;
+- scan 384 contains user-authorized restoration **`தகட்டில் இருக்கிறபடி`**;
 - scan 390 structurally orders unchanged supplied words as `அதெல்லாம் எதற்கு வீண் கதை!`;
 - scan 392 ends Chapter 45 open at **`நமது`** — not a chapter or novel ending.
 
-### Assembled Tamil progress
+### Assembled Tamil result
 
-Assembled Chapters **39, 40, 41, 42 and 43** have been built from canonical records. Chapter 39 now joins the Part-007→008 boundary as **`அதிர்ஷ்டம் அடிக்குது!`**. Chapter 43 preserves both audited four-star internal transitions and closes on scan 376.
+Assembled Chapters **39–45** now represent the audited Part-008 material through scan 392. Chapter 39 joins the Part-007→008 boundary as **`அதிர்ஷ்டம் அடிக்குது!`**. Chapter 44 includes the authorized scan-384 phrase exactly once. Chapter 45 remains intentionally open at `நமது`.
 
-Chapter **44** is not finalized because it contains scan 384. Chapter 45 remains pending behind the same gate. The Part-008 assembled-Tamil consistency check therefore has not run.
+The Part-008 assembled-Tamil consistency check **PASSED**.
 
 ## Aggregate archival status
 
 - canonical Tamil page records: **392**;
-- verified / completed: **384**;
-- needs-review: **8 — Part 005 scans 215–219 and 223–224, plus Part 008 scan 384**;
+- verified / completed: **385**;
+- needs-review: **7 — only Part 005 scans 215–219 and 223–224**;
 - partial: **0**;
-- assembled Tamil: continuous through **Chapter 43 close on scan 376**;
+- assembled Tamil: continuous through scan **392 / printed 388**;
 - source-checked and bilingual-reviewed English: continuously through scan **343**;
 - physically received derivative coverage: through scan **392 / printed 388**;
 - Parts 001–007: **part-complete**;
-- Part 008: **lexical omission disposition pending**;
+- Part 008: **Tamil + assembled Tamil passed; English gates pending**;
 - whole-work verification / release: **not yet eligible**.
 
 ## Exact next activity
 
-Obtain explicit user disposition for source-visible phrase **`தகட்டில் இருக்கிறபடி`** omitted by `p8.md` on scan 384. If authorized, restore it, return scan 384 to `verified`, rerun the Part-008 Tamil audit, finish assembled Chapters 44–45, and run the assembled-Tamil consistency check before English translation.
+Begin **controlled English translation of Part 008** for scans **344–392**, using assembled Chapters **39–45**, preserving the documented structures and leaving the Chapter-45 translation open at the source endpoint corresponding to `நமது`.
