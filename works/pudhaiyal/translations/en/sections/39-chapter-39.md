@@ -5,7 +5,7 @@ section_order: 39
 section_title: "Chapter 39"
 language: "en"
 source_scans: "340 (chapter-39 portion)-343"
-status: "draft-translated-open-boundary"
+status: "source-checked-part-007-open-boundary"
 derived_from: "audited Tamil pages and checked assembled sections/39-chapter-39.md"
 ---
 
