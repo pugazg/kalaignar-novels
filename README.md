@@ -29,7 +29,7 @@ For active Part 007, uploaded `p7.md` is the complete lexical baseline.
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **297 canonical records / 290 verified-complete / 7 needs-review; Parts 001–006 part-complete; Part 007 active through scan 297** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **302 canonical records / 295 verified-complete / 7 needs-review; Parts 001–006 part-complete; Part 007 active through scan 302** |
 
 ### புதையல் — current source state
 
@@ -39,7 +39,7 @@ Access derivatives:
 
 - parts 001–005 — scans **1–245** — split-level workflow complete, with seven source-damage qualifications in Part 005;
 - part 006 — scans **246–294 / printed 242–290** — **part-complete**;
-- part 007 — scans **295–343 / printed 291–339** — received and mapped; canonical reconciliation currently verified through scan **297**.
+- part 007 — scans **295–343 / printed 291–339** — received and mapped; canonical reconciliation currently verified through scan **302**.
 
 Part-007 source identity:
 
@@ -51,23 +51,25 @@ Part-007 source identity:
 
 Current state:
 
-- canonical records — **297**;
-- verified / completed — **290**;
+- canonical records — **302**;
+- verified / completed — **295**;
 - needs-review — **7 (Part 005 scans 215–219, 223–224)**;
 - partial — **0**;
 - Parts 001–006 — **part-complete at split level**;
-- Part 007 — **3/49 canonical + verified; scans 298–343 pending**;
+- Part 007 — **8/49 canonical + verified; scans 303–343 pending**;
 - assembled Tamil — part-reviewed continuously through scan **294**;
 - source-checked / bilingual-reviewed English — continuously through scan **294**;
 - physically received source coverage — through scan **343 / printed 339**;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source.
 
-Part-006→007 continuity is now source-confirmed: scan 294 ends `‘லாக்`, scan 295 begins `அப்’பில்`, producing **`‘லாக் அப்’பில்`** across the derivative split. Scan 295 then ends with a four-star internal transition. Scan 297 closes chapter 33 and begins chapter 34 under the source heading `34`.
+Part-006→007 continuity is source-confirmed: scan 294 ends `‘லாக்`, scan 295 begins `அப்’பில்`, producing **`‘லாக் அப்’பில்`** across the derivative split. Scan 295 then ends with a four-star internal transition. Scan 297 closes chapter 33 and begins chapter 34 under the source heading `34`.
+
+Part-007 scans **298–302 / printed 294–298** are now structurally verified. The 300→301 page join preserves the open quoted question `ஏன் ஓடச்` → `சொல்லுகிறாய்?`; scan 302 ends physically inside `பெற்றான்` as `பெற்`, making scan 303 / printed 299 the next source frontier.
 
 Part-007 scan 343 / printed 339 has also been endpoint-spot-checked and ends mid-utterance at `அதிர்ஷ்`; Part 007 therefore is **not** the ending of the novel.
 
-Exact next action: process **scan 298 / printed 294**, chapter 34, from `p7.md` plus native Part-007 page 4, preserving the open sentence continuation from scan 297.
+Exact next action: process **scan 303 / printed 299**, chapter 34, from `p7.md` plus native Part-007 page 9, first verifying the physical `பெற்` + `றான்` → `பெற்றான்` continuation.
 
 ## நிறைவு பெற்ற reference work
 
