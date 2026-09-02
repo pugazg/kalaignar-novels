@@ -5,7 +5,7 @@ section_order: 33
 section_title: "Chapter 33"
 language: "en"
 source_scans: "288 (chapter-33 portion)-294"
-status: "draft-translated-open-part-006-boundary"
+status: "source-checked-part-006-open-boundary"
 derived_from: "audited Tamil pages and checked sections/33-chapter-33.md"
 ---
 
@@ -23,11 +23,9 @@ Parimalam did not know what to answer. She stood silent.
 
 Parimalam's mind would not remain steady. She had used Dukkaram's name so that by naming Durai she would not place him in danger with Ambalam. Now she stood bewildered, unable to understand how to rescue Dukkaram from this terrible conspiracy.
 
-When she was going to school, one day on a street in Pattukkottai—
+It was true that, one day while she was going to school along a street in Pattukkottai, Dukkaram had behaved indecently toward Parimalam. It was no surprise that from that day onward she had become angry with him. Nor could it be denied that Dukkaram's antics had caused that anger to grow day by day.
 
-<!-- source scans 288-290 / printed 284-286: `பட்டுக்` + `கோட்டை` is continuous as Pattukkottai across the physical page boundary. -->
-
-—it was true that Dukkaram had behaved indecently toward Parimalam. It was no surprise that from that day onward she had become angry with him. Nor could it be denied that Dukkaram's antics had caused that anger to grow day by day.
+<!-- source scans 289-290 / printed 285-286: `பட்டுக்` + `கோட்டை` is continuous as Pattukkottai across the physical page boundary. -->
 
 In that anger, and in order for herself and her lover to escape, she had handed him over. But now he stood at the threshold of death. She had to save him.
 
@@ -97,7 +95,7 @@ Ambalam finished his account.
 
 The Sub-Inspector found it difficult not to believe these details.
 
-“So that is what happened! And I suspected that Durai and the man called Mayandi and have kept them in custody!” the Sub-Inspector lamented to himself.
+“So that is what happened! I suspected Durai and the man called Mayandi and had them detained!” the Sub-Inspector lamented.
 
 “Ayyo! Them? What a sin!” Ambalam cried, jumping up as though he knew nothing.
 
@@ -109,6 +107,6 @@ The Sub-Inspector found it difficult not to believe these details.
 
 “What did they say?”
 
-“They said nothing. They are maintaining silence. I too did not force them to answer anything. ‘Lock—
+“They said nothing. They are maintaining silence. I too did not force them to answer anything. ‘Lock
 
-<!-- PART 006 ENDS HERE: source scan 294 / printed 290. The Sub-Inspector's dialogue and chapter 33 remain open; no ending is invented. -->
+<!-- PART 006 ENDS HERE: source scan 294 / printed 290. The Sub-Inspector's dialogue and chapter 33 remain open; no closing punctuation or ending is invented. -->
