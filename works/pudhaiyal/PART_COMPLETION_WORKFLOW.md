@@ -57,14 +57,14 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343
 - lexical baseline: uploaded `p7.md`, SHA-256 `a804b914b88050ca8d31142cb00d7491c94e89ff1fb7e564fdd348bdf14b1c59`
 - source intake: [`notes/part-007-source-intake.md`](notes/part-007-source-intake.md)
 - derivative map: [`indexes/part-007-page-map.md`](indexes/part-007-page-map.md)
-- canonical records: **8 / 49 — scans 295–302**
-- verified / structurally completed: **8 / 49**
-- needs-review: **0**
-- not-started: **41 — scans 303–343**
+- canonical records: **13 / 49 — scans 295–307**
+- verified / structurally completed: **11 / 49**
+- needs-review: **2 — scans 304–305**
+- not-started: **36 — scans 308–343**
 - state: **`canonical-in-progress`**
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 
-### Verified continuity through scan 302
+### Verified continuity through scan 307
 
 Part 006 ends at scan 294 with open `‘லாக்`. Part-007 scan 295 begins `அப்’பில்`, establishing **`‘லாக் அப்’பில்`** across the derivative boundary.
 
@@ -74,13 +74,18 @@ Verified structural progression:
 - scan 296 — chapter 33 continues;
 - scan 297 — chapter 33 closes / chapter 34 begins under a horizontal rule + heading `34`;
 - scan 297→298 — `அவனை அனுதாபத்தோடு` → `தொட்டுத் தூக்கிடும் போதும்...`;
-- scans 298–302 — chapter 34 structurally verified against native pages 4–8;
-- scan 300→301 — open quoted question `ஏன் ஓடச்` → `சொல்லுகிறாய்?`;
-- scan 301→302 — internal speech `பரிமளா திருமணத்தை` → `முடித்துவிட வேண்டும்.`;
-- scan 302 ends inside the physical word split `பெற்`; scan 303 must verify `றான்` before assembled-layer joining.
+- scan 302→303 — physical `பெற்` + `றான்` establishes `பெற்றான்`;
+- scan 304 — source-visible lexical `நீ` is omitted by `p7.md`; canonical record remains `needs-review` without source insertion;
+- scan 305 — source-visible lexical `என்ன` is omitted by `p7.md`; canonical record remains `needs-review` without source insertion;
+- scan 306 — chapter 34 closes with a source horizontal rule;
+- scan 307 — chapter 35 begins under source heading `35` and ends open at `அவனை ஆட்டி வைத்த ‘மிருகம்’`.
 
 The endpoint spot-check at scan 343 / printed 339 ends at `அதிர்ஷ்`, so Part 007 also remains open and cannot be treated as the work ending.
 
+## Gate consequence
+
+Sequential canonical work may continue despite scans 304–305 being `needs-review`, but the Part-007 Tamil audit cannot pass until those two complete baseline lexical omissions receive explicit user/baseline disposition.
+
 ## Exact next activity
 
-Process **scan 303 / printed 299** in chapter 34 from the controlling `p7.md` lexical baseline and native Part-007 page 9. First verify `பெற்` + `றான்` → `பெற்றான்`, then continue sequential canonical/structural reconciliation through scan 343 before running the Part-007 Tamil audit.
+Process **scan 308 / printed 304** in chapter 35 from the controlling `p7.md` lexical baseline and native Part-007 page 14. Verify `‘மிருகம்’` → `பதுங்கி விட்டது...`, then continue sequential canonical/structural reconciliation through scan 343.
