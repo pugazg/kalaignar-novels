@@ -12,7 +12,7 @@ Through scan 279, the completed records retain the earlier source-first reconcil
 
 By explicit user instruction:
 
-- Gemini controls **words, spelling, suffixes and lexical forms**;
+- Gemini controls **words, spelling, suffixes, lexical forms and lexical wording**;
 - native scan controls **headings, punctuation, quotation marks, long dashes, speaker-label spacing, paragraph structure, physical line/page breaks, separators, chapter/scene transitions and other structural findings**;
 - do not override a Gemini word from native visual reading;
 - if Gemini omits a lexical span, flag it rather than silently supplying source words;
@@ -38,8 +38,8 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 
 - physical pages mapped: **49 / 49 — scans 246–294 / printed 242–290**
 - canonical records created: **38 / 49 — scans 246–283**
-- verified / structurally completed: **37**
-- needs-review: **1 — scan 283**
+- verified / structurally completed: **38**
+- needs-review: **0**
 - partial: **0**
 - not-started: **11 — scans 284–294**
 - derivative map: [`indexes/part-006-page-map.md`](indexes/part-006-page-map.md)
@@ -56,7 +56,8 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf`
 - no source-printed chapter/scene transition occurs on scan 283; chapter 32 continues;
 - source punctuation/long-dash structure on scan 283 includes `போதும்—இனியும்`, `வெள்ளியம்பலம்—என்ற`, and `என்றான் பரிதாபமாக!`;
 - physical line-break provenance includes `நிலைப்` / `படுத்திவிட்டது`, `கூறிக்` / `கொண்டே`, `துக்கா` / `ராம்`, `உனக்` / `கும்`, `உண்மை` / `யைக்`, `சொல்` / `வது`, and `பயன்படுத்து` / `வார்`;
-- **Gemini lexical omission:** native scan includes `பார்` after `ஓடிப் போகிறேன்`, but Gemini omits it. Per user policy, `பார்` was not silently inserted; scan 283 is `needs-review` pending explicit disposition;
+- the refreshed user-supplied Gemini Iteration-27 transcription explicitly contains `பார்` after `ஓடிப் போகிறேன்`; the earlier omission flag came from an incomplete baseline copy and is resolved from Gemini itself;
+- no Gemini lexical span remains unresolved on scan 283;
 - scan 283 ends `வெள்ளியம்பலம்—என்ற திகிலும் கூடவே பிறந்தது.`.
 
 ### Structure mapped in Part 006
@@ -74,13 +75,13 @@ Only scans 246–283 have canonical dispositions at this checkpoint; structural 
 ## Aggregate canonical state
 
 - records created: **283**
-- verified / completed: **275**
-- needs-review: **8 — Part 005 scans 215–219, 223–224; Part 006 scan 283**
+- verified / completed: **276**
+- needs-review: **7 — Part 005 scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later completed coverage: through scan **282**, with scan 283 explicitly `needs-review`
+- later completed coverage: through scan **283**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **in progress — 37 verified/completed + 1 needs-review / 49**
+- Part 006: **in progress — 38 / 49 verified/completed**
 - continuous split-level assembled Tamil / English review: through scan **245** only
 - full-source physical coverage from received derivatives: mapped through scan **294**
 
@@ -90,4 +91,4 @@ Only scans 246–283 have canonical dispositions at this checkpoint; structural 
 
 ## Exact next activity
 
-Process **scan 284 / printed page 280**, continuing chapter 32. Keep Gemini's words exactly; use native scan evidence for headings, punctuation, quote style, long dashes, speaker spacing, paragraph/physical line breaks and structural findings. Keep scan 283's `பார்` omission open until explicitly resolved.
+Process **scan 284 / printed page 280**, continuing chapter 32. Keep Gemini's words exactly; use native scan evidence for headings, punctuation, quote style, long dashes, speaker spacing, paragraph/physical line breaks and structural findings.
