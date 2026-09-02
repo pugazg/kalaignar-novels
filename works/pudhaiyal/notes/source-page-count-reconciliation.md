@@ -34,24 +34,33 @@ Received access derivatives:
 3. Part 003 — scans **99–147** — **part-complete**
 4. Part 004 — scans **148–196** — **part-complete**
 5. Part 005 — scans **197–245** — **part-complete with explicit source-damage qualification**
-6. Part 006 — scans **246–294 / printed 242–290** — **canonical/structural complete; Tamil audit pending**
+6. Part 006 — scans **246–294 / printed 242–290** — **Tamil audit PASSED; assembled Tamil pending**
    - physical pages mapped: **49 / 49**
    - canonical records created: **49 / 49**
    - verified / structurally completed: **49 / 49**
    - needs-review: **0**
    - not-started: **0**
    - derivative SHA-256: `34a5ea5eb91a71ca8674760257779eb4ed6bdc6640517f8830b9ee70aa34aec7`
+   - Tamil audit record: [`part-006-tamil-audit.md`](part-006-tamil-audit.md)
 
 No split is committed to GitHub.
 
-## Part-006 completion checkpoint
+## Part-006 Tamil-audit checkpoint
 
-- scans 280–294 are all verified under the Gemini-lexical/native-structure policy;
-- chapter 32 closes and chapter 33 begins on scan 288 / printed 284 via the source-printed horizontal rule and heading `33`;
-- important page-boundary continuities are documented in [`../indexes/part-006-page-map.md`](../indexes/part-006-page-map.md);
-- scan 294 / printed 290 ends at open `‘லாக்` inside dialogue, with no closing punctuation, chapter close or work-ending marker;
-- therefore Part 006's endpoint is only an access-derivative boundary and cannot be treated as the novel's ending;
-- no Gemini lexical omission remains unresolved in Part 006.
+The Part-006 Tamil audit passed:
+
+- 49/49 physical-page and canonical coverage;
+- page-map/canonical agreement;
+- Part 005→006 opening continuity;
+- page-boundary joins and chapter transitions;
+- scan-280-onward Gemini lexical preservation;
+- native structural fidelity;
+- no unresolved Gemini lexical omission;
+- open endpoint handling at scan 294.
+
+Chapter 32 closes and chapter 33 begins on scan **288 / printed 284** via the source-printed transition.
+
+Scan **294 / printed 290** ends at open `‘லாக்` inside dialogue, with no closing punctuation, chapter close or work-ending marker. Part 006's endpoint is therefore only an access-derivative boundary and cannot be treated as the novel's ending.
 
 ## Current textual state
 
@@ -62,7 +71,7 @@ No split is committed to GitHub.
 - clean contiguous fully verified range: **1–214**
 - later completed pages: through scan **294**, except the seven damaged Part-005 records
 - Parts 001–005: **part-complete at split level**
-- Part 006: **49/49 canonical and structurally verified; Tamil audit pending**
+- Part 006: **`part-tamil-audit-passed`; assembled Tamil pending**
 - continuous split-level assembled Tamil / English review: **through scan 245 only**
 - source scans physically mapped from received derivatives: **through scan 294**
 - full-source manifest: **still incomplete beyond scan 294**
@@ -71,8 +80,8 @@ No split is committed to GitHub.
 
 Still required:
 
-1. run the Part-006 Tamil audit across scans **246–294**;
-2. after audit pass, update Part-006 assembled Tamil, controlled English and bilingual review before calling Part 006 `part-complete`;
+1. build and split-level check Part-006 assembled Tamil from audited scans **246–294**;
+2. after assembled Tamil passes, complete controlled English and bilingual review before calling Part 006 `part-complete`;
 3. obtain later source splits beyond scan 294;
 4. process every later source scan;
 5. identify true final text / back matter / closing leaves;
@@ -84,4 +93,4 @@ Do not infer any of those values from the TDL printed-page count.
 
 ## Exact next activity
 
-Run the **Part-006 Tamil audit across scans 246–294**, preserving the active authority model and treating scan 294 as an open derivative boundary.
+Build the **Part-006 assembled Tamil reading layer** from audited canonical scans 246–294: extend chapter 27 through scan 247, create/populate chapters 28–33, preserve page provenance and verified joins, and leave chapter 33 open at scan 294 / `‘லாக்`. Do not begin English translation until the assembled layer passes its split-level check.
