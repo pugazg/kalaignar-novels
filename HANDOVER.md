@@ -60,51 +60,42 @@ Source: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
 - `p7.md` SHA-256: `a804b914b88050ca8d31142cb00d7491c94e89ff1fb7e564fdd348bdf14b1c59`
 - source intake: `works/pudhaiyal/notes/part-007-source-intake.md`
 - page map: `works/pudhaiyal/indexes/part-007-page-map.md`
-- canonical records: **3 / 49 — scans 295–297**
-- verified / structurally completed: **3 / 49**
+- canonical records: **8 / 49 — scans 295–302**
+- verified / structurally completed: **8 / 49**
 - needs-review: **0**
-- not-started: **46 — scans 298–343**
+- not-started: **41 — scans 303–343**
 - Part-007 state: **`canonical-in-progress`**
 - Tamil audit / assembled Tamil / English / bilingual review: **not yet eligible**
 
 ### Critical Part-006 → Part-007 continuation
 
-The old open boundary is now resolved from actual source evidence.
+Scan **294 / printed 290** ends inside the Sub-Inspector's dialogue at `‘லாக்`. Part-007 scan **295 / printed 291** begins `அப்’பில் தானிருக்கிறார்கள்...`.
 
-Scan **294 / printed 290** ends inside the Sub-Inspector's dialogue at:
+Therefore the verified cross-part reading is **`‘லாக் அப்’பில் தானிருக்கிறார்கள்...`**. No sentence, paragraph, scene or chapter boundary is created by the Part-006→007 split.
 
-`‘லாக்`
-
-Part-007 scan **295 / printed 291** begins:
-
-`அப்’பில் தானிருக்கிறார்கள். இன்னும் ‘சார்ஜ் ஷீட்’டே போடவில்லை!”`
-
-Therefore the verified cross-part reading is:
-
-**`‘லாக் அப்’பில் தானிருக்கிறார்கள்...`**
-
-No sentence, paragraph, scene or chapter boundary is created by the Part-006→007 split.
-
-### Verified Part-007 structure through scan 297
+### Verified Part-007 structure through scan 302
 
 - scan 295 / printed 291 — chapter 33 continues; page ends with source-printed `* * * *` internal transition;
 - scan 296 / printed 292 — chapter 33 continues after the internal transition;
 - scan 297 / printed 293 — chapter 33 closes; source horizontal rule + heading `34`; chapter 34 begins on the same physical page;
-- scan 297 ends mid-sentence at `அவனை அனுதாபத்தோடு`;
-- exact next native page is scan 298 / printed 294, whose lexical continuation begins `தொட்டுத் தூக்கிடும் போதும்...` in the supplied `p7.md` but must still be structurally reconciled against the scan.
+- scan 297→298 — `அவனை அனுதாபத்தோடு` continues as `தொட்டுத் தூக்கிடும் போதும்...`;
+- scans 298–302 / printed 294–298 — chapter 34 structurally verified from native pages 4–8 while retaining `p7.md` lexical authority;
+- scan 300→301 — open quoted question `ஏன் ஓடச்` → `சொல்லுகிறாய்?`;
+- scan 301→302 — quoted internal speech continues `பரிமளா திருமணத்தை` → `முடித்துவிட வேண்டும்.`;
+- scan 302 ends physically inside baseline word `பெற்றான்` as `பெற்`; scan 303 is the next required native verification and should establish the continuation `றான்` before assembled-layer joining.
 
 Part-007 endpoint spot-check: scan **343 / printed 339** ends mid-utterance at `அதிர்ஷ்`. `p7.md` ends its source transcription at the same fragment. **Do not treat Part 007 as the chapter or novel ending.** Source beyond scan 343 will still be required.
 
 ## Aggregate durable state
 
-- canonical records: **297**
-- verified / completed: **290**
+- canonical records: **302**
+- verified / completed: **295**
 - needs-review: **7 — Part 005 scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range: through scan **214 / printed page 212**
-- later completed pages: through scan **297**, except the seven damaged Part-005 records
+- later completed pages: through scan **302**, except the seven damaged Part-005 records
 - Parts 001–006: **part-complete at split level**
-- Part 007: **canonical workflow active through scan 297**
+- Part 007: **canonical workflow active through scan 302**
 - assembled Tamil: part-reviewed continuously through scan **294**
 - source-checked / bilingual-reviewed English: continuously through scan **294**
 - source scans represented by currently received derivatives: through **343 / printed 339**
@@ -112,12 +103,12 @@ Part-007 endpoint spot-check: scan **343 / printed 339** ends mid-utterance at `
 
 ## Exact next activity
 
-Process **scan 298 / printed page 294**, chapter 34.
+Process **scan 303 / printed page 299**, chapter 34.
 
 1. use uploaded `p7.md` as the lexical/textual authority;
-2. use native Part-007 page 4 only for punctuation, quotes, paragraphing, line/page boundary and structural findings;
-3. preserve the scan-297→298 open sentence continuation (`அவனை அனுதாபத்தோடு` → `தொட்டுத் தூக்கிடும் போதும்...`);
+2. use native Part-007 page 9 only for punctuation, quotes, paragraphing, line/page boundary and structural findings;
+3. first verify the physical `பெற்` + `றான்` → `பெற்றான்` continuation from scan 302→303;
 4. create/update the canonical page, fidelity record and Part-007 page map;
-5. continue sequentially through scans 298–343 before running the Part-007 Tamil audit.
+5. continue sequentially through scans 303–343 before running the Part-007 Tamil audit.
 
 Do not begin assembled Tamil or English for Part 007 until its complete canonical/structural reconciliation and Tamil audit pass.
