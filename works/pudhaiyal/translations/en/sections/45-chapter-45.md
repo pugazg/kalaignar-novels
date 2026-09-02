@@ -5,7 +5,7 @@ section_order: 45
 section_title: "Chapter 45"
 language: "en"
 source_scans: "387 (chapter-45 portion)-392"
-status: "draft-translated-part-008-open-boundary"
+status: "source-checked-part-008-open-boundary"
 derived_from: "audited Tamil pages and checked assembled sections/45-chapter-45.md"
 ---
 
