@@ -29,7 +29,7 @@ Part 008 has one user-authorized source-visible restoration: scan **384 / printe
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification** |
 | Part 006 | 246–294 | **part-complete** |
 | Part 007 | 295–343 | **part-complete** |
-| Part 008 | 344–392 | **Tamil audit PASSED + assembled Tamil PASSED / controlled English next** |
+| Part 008 | 344–392 | **Tamil audit PASSED + assembled Tamil PASSED + controlled English draft COMPLETE / source check next** |
 
 ## Part 008 — current stage
 
@@ -47,8 +47,11 @@ Source: `TVA_BOK_0064097_புதையல்_part_008_pages_344-392.pdf`
 - Part-008 needs-review: **0**;
 - Tamil audit: **PASSED** — [`notes/part-008-tamil-audit.md`](notes/part-008-tamil-audit.md);
 - assembled Tamil audit: **PASSED** — [`notes/part-008-assembled-tamil-audit.md`](notes/part-008-assembled-tamil-audit.md);
+- controlled English draft: **COMPLETE through scan 392 / printed 388**;
+- controlled English source check: **PENDING**;
+- bilingual review: **BLOCKED until source check passes**;
 - page map: [`indexes/part-008-page-map.md`](indexes/part-008-page-map.md);
-- state: **`assembled-tamil-passed / controlled-english-next`**.
+- state: **`english-draft-complete / source-check-next`**.
 
 ### Structural findings retained
 
@@ -63,9 +66,19 @@ Source: `TVA_BOK_0064097_புதையல்_part_008_pages_344-392.pdf`
 
 ### Assembled Tamil result
 
-Assembled Chapters **39–45** now represent the audited Part-008 material through scan 392. Chapter 39 joins the Part-007→008 boundary as **`அதிர்ஷ்டம் அடிக்குது!`**. Chapter 44 includes the authorized scan-384 phrase exactly once. Chapter 45 remains intentionally open at `நமது`.
+Assembled Chapters **39–45** represent the audited Part-008 material through scan 392. Chapter 39 joins the Part-007→008 boundary as **`அதிர்ஷ்டம் அடிக்குது!`**. Chapter 44 includes the authorized scan-384 phrase exactly once. Chapter 45 remains intentionally open at `நமது`.
 
 The Part-008 assembled-Tamil consistency check **PASSED**.
+
+### Controlled English draft
+
+The Part-008 English draft is complete through the received endpoint:
+
+- `translations/en/sections/checkpoints/part-008-chapter-39-continuation.md` continues the reviewed Part-007 English fragment `luc` with `k`, forming **luck**, and closes Chapter 39 on scan 347;
+- English Chapters **40–44** are draft-translated;
+- English Chapter **45** is draft-translated through scan 392 and remains deliberately open at **`our`**, corresponding to Tamil `நமது`;
+- Chapter 44 renders the authorized `தகட்டில் இருக்கிறபடி` restoration exactly once as **“as the plate says”**;
+- the reviewed/source-checked English frontier remains through scan **343** until the Part-008 English source check and bilingual review pass.
 
 ## Aggregate archival status
 
@@ -74,12 +87,13 @@ The Part-008 assembled-Tamil consistency check **PASSED**.
 - needs-review: **7 — only Part 005 scans 215–219 and 223–224**;
 - partial: **0**;
 - assembled Tamil: continuous through scan **392 / printed 388**;
+- controlled English draft: continuous through scan **392 / printed 388**;
 - source-checked and bilingual-reviewed English: continuously through scan **343**;
 - physically received derivative coverage: through scan **392 / printed 388**;
 - Parts 001–007: **part-complete**;
-- Part 008: **Tamil + assembled Tamil passed; English gates pending**;
+- Part 008: **Tamil + assembled Tamil passed; English draft complete; source-check/bilingual gates pending**;
 - whole-work verification / release: **not yet eligible**.
 
 ## Exact next activity
 
-Begin **controlled English translation of Part 008** for scans **344–392**, using assembled Chapters **39–45**, preserving the documented structures and leaving the Chapter-45 translation open at the source endpoint corresponding to `நமது`.
+Run the **Part-008 controlled English source check across scans 344–392**. Compare the Chapter-39 continuation checkpoint and English Chapters **40–45** with the audited canonical/assembled Tamil for complete coverage, semantic fidelity, dialogue order, names/terms, humour, violence, romance, internal transitions, the authorized scan-384 restoration and the open scan-392 endpoint. Correct English-only fidelity issues as needed. Do not begin the Part-008 bilingual review until this source check passes.
