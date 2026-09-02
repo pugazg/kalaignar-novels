@@ -5,7 +5,7 @@ section_order: 43
 section_title: "Chapter 43"
 language: "en"
 source_scans: "369 (chapter-43 portion)-376 (chapter-43 portion)"
-status: "draft-translated-part-008"
+status: "source-checked-part-008"
 derived_from: "audited Tamil pages and checked assembled sections/43-chapter-43.md"
 ---
 
