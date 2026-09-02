@@ -29,14 +29,17 @@ Part 006 scan 294 ends `‘லாக்`; Part-007 scan 295 begins `அப்’
 
 Part-007 scan **343 / printed 339** ends inside an open Chapter-39 utterance at `அதிர்ஷ்`. This is not a chapter or novel ending.
 
-## Canonical / structural result
+## Final split result
 
 - canonical records: **49 / 49**
 - verified: **49 / 49**
 - Part-007 needs-review: **0**
 - not-started: **0**
 - Tamil audit: **PASSED** — [`part-007-tamil-audit.md`](part-007-tamil-audit.md)
-- state: **`tamil-audit-passed / assembled-tamil-next`**
+- assembled Tamil consistency check: **PASSED** — [`part-007-assembled-tamil-check.md`](part-007-assembled-tamil-check.md)
+- controlled English source check: **PASSED** — [`../translations/en/PART_007_ENGLISH_CHECK.md`](../translations/en/PART_007_ENGLISH_CHECK.md)
+- bilingual review: **PASSED** — [`../translations/en/PART_007_REVIEW.md`](../translations/en/PART_007_REVIEW.md)
+- state: **`part-complete`**
 
 Explicitly restored omissions:
 
@@ -48,7 +51,7 @@ Structural progression is verified through chapters 33–39. Chapter 36 begins s
 
 Latest fidelity record: [`visual-fidelity-scans-318-343.md`](visual-fidelity-scans-318-343.md).
 
-Scan 343 retains supplied lexical `అది` despite native Tamil `அது`; no source-correction authorization was given for that lexical discrepancy.
+Scan 343 retains supplied lexical `అది` despite native Tamil `அது`; no source-correction authorization was given for that lexical discrepancy. Reviewed English renders its contextual sense without altering canonical Tamil.
 
 ## Intake / workflow state
 
@@ -58,9 +61,11 @@ Scan 343 retains supplied lexical `అది` despite native Tamil `அது`; 
 - canonical reconciliation: **COMPLETE**
 - native structural reconciliation: **COMPLETE**
 - Part-007 Tamil audit: **PASSED**
-- assembled Tamil: **next**
-- English / bilingual review: **blocked until assembled-Tamil check passes**
+- assembled Tamil: **PASSED / through scan 343**
+- controlled English source check: **PASSED / through scan 343**
+- bilingual review: **PASSED / through scan 343**
+- Part 007: **`part-complete`**
 
 ## Exact next activity
 
-Build and consistency-check the **Part-007 assembled Tamil reading layer across scans 295–343**, preserving all audited joins/transitions and leaving Chapter 39 open at `அதிர்ஷ்`.
+Obtain / resolve the **next source derivative beyond scan 343** and verify its actual first page against the open `அதிர்ஷ்` boundary before assigning any continuation text, scan range or printed-page mapping.
