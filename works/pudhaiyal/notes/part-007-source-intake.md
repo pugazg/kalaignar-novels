@@ -46,13 +46,16 @@ Therefore the verified cross-part continuation is:
 
 This proves that Part 007 continues the same Chapter-33 dialogue. No new sentence, paragraph, scene or chapter boundary is created by the derivative split.
 
-## Early structural spot checks
+## Canonical / structural progress
 
-- **scan 295 / printed 291** — chapter 33 continues; page ends with a source-printed `* * * *` internal transition;
-- **scan 296 / printed 292** — chapter 33 continues after that internal transition;
-- **scan 297 / printed 293** — chapter 33 closes; horizontal rule + source heading **34**; chapter 34 begins on the same physical page.
+- **scan 295 / printed 291** — canonical + verified; chapter 33 continues; source-printed `* * * *` internal transition at foot;
+- **scan 296 / printed 292** — canonical + verified; chapter 33 continues after the transition;
+- **scan 297 / printed 293** — canonical + verified; chapter 33 closes; horizontal rule + heading **34**; chapter 34 begins on the same page;
+- scan 297 ends mid-sentence at `அவனை அனுதாபத்தோடு`; scan 298 must continue it.
 
-These structural findings come from direct native-page inspection; lexical wording remains controlled by `p7.md`.
+Canonical count: **3 / 49**.  
+Part-007 needs-review: **0**.  
+Not-started: **46 — scans 298–343**.
 
 ## Part-007 endpoint spot check
 
@@ -60,16 +63,15 @@ Native scan **343 / printed 339** is still narrative text and ends mid-utterance
 
 Therefore Part 007 is also an **open access-derivative boundary**, not the ending of the chapter or novel. No continuation after `அதிர்ஷ்` may be invented without the next source page.
 
-## Intake state
+## Intake / workflow state
 
 - derivative identity: **resolved**;
 - physical/printed mapping: **resolved — scans 295–343 / printed 291–339**;
 - lexical baseline: **resolved — complete `p7.md` block available**;
 - Part-006→007 opening continuity: **VERIFIED**;
-- scan 295 canonical reconciliation: **next / in progress**;
-- later Part-007 canonical pages: **not yet verified**;
+- canonical / structural reconciliation: **active through scan 297**;
 - Part-007 Tamil audit / assembly / English / bilingual gates: **not yet eligible**.
 
 ## Exact next activity
 
-Create and structurally verify canonical scan **295 / printed 291** from the `p7.md` lexical baseline and native Part-007 page 1, preserving the cross-part `‘லாக் அப்’பில்` join and the four-star internal transition. Then continue sequentially with scan 296.
+Process scan **298 / printed 294**, chapter 34, using `p7.md` as lexical authority and native Part-007 page 4 as structural authority. Preserve the open scan-297→298 continuation and proceed sequentially through the derivative.
