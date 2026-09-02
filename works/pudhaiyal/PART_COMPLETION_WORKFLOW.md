@@ -41,16 +41,19 @@ For Part 007, uploaded `p7.md` is the controlling lexical baseline. The three co
 - Part-007 needs-review: **0**
 - not-started: **0**
 - Tamil audit: **PASSED**
-- state: **`tamil-audit-passed / assembled-tamil-next`**
+- assembled Tamil consistency check: **PASSED**
+- assembled Tamil: **through scan 343**
+- state: **`assembled-tamil-checked / controlled-English-next`**
 
-Structural reconciliation is complete through scan 343. Chapter 36 begins scan 317, Chapter 37 scan 324, Chapter 38 scan 331 and Chapter 39 scan 340. Scan 322 contains a four-star transition and a structure-only reordering of unchanged `விடியற்காலை...` baseline text. Scan 330 contains a four-star transition and the Chapter-37 closing rule. Scan 343 ends open at `அதிர்ஷ்` and is not a true ending.
+Structural reconciliation and assembly are complete through scan 343. Chapter 33 continues across the Part-006→007 boundary. Chapter 34 begins scan 297, Chapter 35 scan 307, Chapter 36 scan 317, Chapter 37 scan 324, Chapter 38 scan 331 and Chapter 39 scan 340. Native four-star transitions are preserved at scans 295, 310, 319, 322, 326 and 330 as applicable to their source scenes. Scan 322 retains the structure-only reordering of unchanged `விடியற்காலை...` baseline text. Scan 343 ends open at `அதிர்ஷ்` and is not a true ending.
 
-Tamil audit record: [`notes/part-007-tamil-audit.md`](notes/part-007-tamil-audit.md).
+Tamil audit record: [`notes/part-007-tamil-audit.md`](notes/part-007-tamil-audit.md).  
+Assembled-Tamil check: [`notes/part-007-assembled-tamil-check.md`](notes/part-007-assembled-tamil-check.md).
 
 ## Gate consequence
 
-Part 007 has passed canonical reconciliation, structural fidelity and Tamil audit. The next gate is the **assembled Tamil reading layer** from scans 295–343. English remains blocked until the assembled-Tamil consistency check passes.
+Part 007 has passed canonical reconciliation, structural fidelity, Tamil audit and assembled-Tamil consistency. The next gate is the **controlled English translation and source check** for scans 295–343. Bilingual review remains blocked until that source check passes.
 
 ## Exact next activity
 
-Build and consistency-check the **Part-007 assembled Tamil layer**, continuing Chapter 33 across the Part-006 boundary, assembling Chapters 34–39 with all audited joins and transitions, and leaving Chapter 39 open at `அதிர்ஷ்`.
+Translate the checked Part-007 Tamil reading layer: continue Chapter 33 across the split, translate Chapters 34–39, preserve all internal transitions/source-specific oddities, and leave Chapter 39 open where Tamil stops at `அதிர்ஷ்`. Then source-check the English against canonical Tamil before bilingual review.
