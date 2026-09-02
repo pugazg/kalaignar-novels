@@ -15,13 +15,18 @@ The native scan controls page identity, headings, punctuation, quotation marks, 
 
 By explicit user instruction, supplied Gemini transcription controls **WORDS / lexical text** from scan 280 onward. Keep supplied words, spelling, suffixes, lexical forms, wording and supplied lexical spacing; do not source-correct a supplied form from native visual evidence.
 
-For Part 007, uploaded `p7.md` is the controlling lexical baseline. Three complete omissions discovered during visual reconciliation were restored only after the user's explicit 2026-09-02 instruction **`insert all three omissions`**:
+Part-specific lexical baselines:
+
+- Part 007 — uploaded `p7.md`, SHA-256 `a804b914b88050ca8d31142cb00d7491c94e89ff1fb7e564fdd348bdf14b1c59`;
+- Part 008 — uploaded `p8.md`, SHA-256 `aad52bdfeae873459d561a52826f4787fd04f72ac1c27886212a1942d8e89ca2`.
+
+For Part 007, three complete omissions were restored only after the user's explicit 2026-09-02 instruction **`insert all three omissions`**:
 
 - scan 304 — `நீ`;
 - scan 305 — `என்ன`;
 - scan 315 — `சரி...... வா! வா!......`.
 
-No broader lexical source-correction permission was given. Scan 343 therefore retains supplied `అది` despite native Tamil `அது`.
+No broader lexical source-correction permission exists. For Part 008, any complete source-visible lexical word/span absent from `p8.md` must be flagged `needs-review`; do not silently insert it.
 
 Source/split PDFs and uploaded baseline files must never be committed.
 
@@ -32,7 +37,7 @@ Source/split PDFs and uploaded baseline files must never be committed.
 - publisher: அன்புப் பதிப்பகம், பொறையார் :: தஞ்சை மாவட்டம்
 - edition: மூன்றாம் பதிப்பு — செப்டம்பர் 1961
 - Tamil Digital Library bibliographic extent: 443 p.
-- exact full-PDF scan count / full-source SHA-256: pending complete source access
+- exact full-PDF scan count / full-source SHA-256: pending complete source reconciliation
 
 ## Completed derivatives
 
@@ -46,51 +51,49 @@ Source/split PDFs and uploaded baseline files must never be committed.
 
 Part-005 source-damage qualification remains attached to scans **215–219 and 223–224**.
 
-## Latest completed derivative — Part 007
+## Active derivative — Part 008
 
-Source: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf`
+Source: `TVA_BOK_0064097_புதையல்_part_008_pages_344-392.pdf`
 
 - physical pages: **49**
-- source scans: **295–343**
-- printed pages: **291–339**
-- derivative size: **57,055,891 bytes**
-- derivative SHA-256: `9ead2089eb238273f7b0fd0dbe2f929095730fbf3fc218719e66fe0d472bb15c`
-- lexical baseline: uploaded `p7.md`, SHA-256 `a804b914b88050ca8d31142cb00d7491c94e89ff1fb7e564fdd348bdf14b1c59`
-- canonical records: **49 / 49**
-- verified / structurally completed: **49 / 49**
-- Part-007 needs-review: **0**
-- Tamil audit: **PASSED**
-- assembled Tamil consistency check: **PASSED**
-- controlled English source check: **PASSED**
-- bilingual review: **PASSED**
-- assembled Tamil / source-checked / bilingual-reviewed English: **through scan 343 / printed 339**
-- state: **`part-complete`**
-- page map: `works/pudhaiyal/indexes/part-007-page-map.md`
-- latest fidelity: `works/pudhaiyal/notes/visual-fidelity-scans-318-343.md`
-- Tamil audit record: `works/pudhaiyal/notes/part-007-tamil-audit.md`
-- assembled check: `works/pudhaiyal/notes/part-007-assembled-tamil-check.md`
-- English source check: `works/pudhaiyal/translations/en/PART_007_ENGLISH_CHECK.md`
-- bilingual review: `works/pudhaiyal/translations/en/PART_007_REVIEW.md`
+- source scans: **344–392**
+- printed pages: **340–388**
+- derivative size: **54,567,816 bytes**
+- derivative SHA-256: `717d3ab75eb970313062e1e61517d442cffa188f2fd8cadb8f75263b5e9a8852`
+- lexical baseline: uploaded `p8.md`, **159,525 bytes / 319 lines**
+- `p8.md` SHA-256: `aad52bdfeae873459d561a52826f4787fd04f72ac1c27886212a1942d8e89ca2`
+- source intake: `works/pudhaiyal/notes/part-008-source-intake.md`
+- page map: `works/pudhaiyal/indexes/part-008-page-map.md`
+- canonical records: **0 / 49**
+- verified: **0 / 49**
+- Part-008 needs-review: **0**
+- not-started: **49**
+- state: **`intake-complete / canonical-reconciliation-next`**
 
-### Verified progression through scan 343
+### Verified Part-007→008 boundary
 
-- scan 294→295: `‘லாக்` + `அப்’பில்` → **`‘லாக் அப்’பில்`**, translated continuously as **lock-up**;
-- Chapter 33 continues through scan 297, where it closes before Chapter 34 opens;
-- chapter 34 opens scan 297 and closes scan 306;
-- chapter 35 opens scan 307 and closes scan 317;
-- chapter 36 opens scan 317 and closes scan 324;
-- scan 319 contains a Chapter-36 four-star memory transition;
-- scan 322 contains another four-star transition; `விடியற்காலை...` remains structurally repositioned after the overnight dialogue without lexical alteration;
-- chapter 37 opens scan 324;
-- scan 326 contains a four-star internal transition;
-- scan 330 contains another four-star transition and closes chapter 37 at the foot rule;
-- chapter 38 opens scan 331 and closes scan 340;
-- chapter 39 opens scan 340 and remains open at scan 343;
-- scan 343 ends at Tamil `அதிர்ஷ்`, with no closing quotation or sentence punctuation; reviewed English stops correspondingly inside **luck** at `luc`.
+Part 007 scan **343 / printed 339** ends inside the fortune-teller's open utterance at `அதிர்ஷ்`.
 
-The Part-007 bilingual review made three English-only fidelity corrections without altering Tamil: Chapter 36 removes the externally stronger “Emperor” title and keeps `காவலன் ஜஹாங்கீர்` as **the ruler Jahangir**; Chapter 38 keeps `பத்தாயிரம் முத்தாரம்` as **a garland of ten thousand pearls** rather than an invented kiss reading; and Chapter 39 restores the source-visible `முகத்தில்` detail in the Saibu alms instruction.
+Part 008 scan **344 / printed 340** visibly begins `டம் அடிக்குது!`, and `p8.md` begins with the same lexical continuation.
 
-Part 007 is **split-level complete**, but its derivative endpoint is open and is not a novel ending. Source beyond scan 343 remains required for whole-work completion.
+Therefore the source-backed split join is:
+
+**`அதிர்ஷ்` + `டம்` → `அதிர்ஷ்டம்`**, giving **`அதிர்ஷ்டம் அடிக்குது!`**.
+
+This is a narrative continuation; no chapter boundary occurs at the split.
+
+### Native structural landmarks already resolved at intake
+
+- scan 347 / printed 343 — Chapter 39 closes;
+- scan 348 / printed 344 — Chapter 40 begins;
+- scan 355 / printed 351 — Chapter 40 closes / Chapter 41 begins;
+- scan 362 / printed 358 — Chapter 41 closes / Chapter 42 begins;
+- scan 369 / printed 365 — Chapter 42 closes / Chapter 43 begins;
+- scan 376 / printed 372 — Chapter 43 closes / Chapter 44 begins;
+- scan 387 / printed 383 — Chapter 44 closes / Chapter 45 begins;
+- scan 392 / printed 388 — Chapter 45 remains open; derivative ends visibly at `நமது`.
+
+Do not treat scan 392 as the novel ending.
 
 ## Aggregate durable state
 
@@ -99,13 +102,14 @@ Part 007 is **split-level complete**, but its derivative endpoint is open and is
 - needs-review: **7 — only Part 005 scans 215–219, 223–224**
 - partial: **0**
 - Parts 001–007: **part-complete** at split level
+- Part 008: **received and mapped; canonical reconciliation pending**
 - assembled Tamil: part-reviewed continuously through scan **343**
 - source-checked and bilingual-reviewed English: continuously through scan **343**
-- received source coverage: through scan **343 / printed 339**
+- physically received source coverage: through scan **392 / printed 388**
 - whole-work Tamil / English / release gates: not yet eligible
 
 ## Exact next activity
 
-Obtain / resolve the **next source derivative beyond scan 343**. Before creating any continuation record, inspect its actual first source page and verify that it continues the open scan-343 **`அதிர்ஷ்`** fragment. Establish the real source-scan / printed-page mapping from that source itself.
+Run **Part-008 canonical reconciliation across scans 344–392 in bulk**. Use `p8.md` as lexical authority and the native Part-008 PDF as structural authority. Preserve the verified `அதிர்ஷ்` + `டம்` continuation, reconcile every physical page boundary/chapter transition/separator, and flag any complete baseline omission rather than silently inserting native-source words.
 
-Do **not** infer the next Tamil letters, chapter ending, next part range, derivative size, true novel ending or final source extent without the actual source evidence.
+After canonical reconciliation completes, run the Part-008 Tamil audit before assembled Tamil or English work.
