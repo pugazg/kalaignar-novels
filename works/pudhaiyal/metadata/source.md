@@ -23,7 +23,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 004 | 148–196 | 146–194 | **part-complete** |
 | 005 | 197–245 | 195–241 | **part-complete with 7 source-damage qualifications** |
 | 006 | 246–294 | 242–290 | **part-complete** |
-| 007 | 295–343 | 291–339 | **canonical-complete — 49/49; 46 verified; 3 needs-review** |
+| 007 | 295–343 | 291–339 | **49/49 verified; Tamil audit PASSED; assembled Tamil pending** |
 
 ### Part-007 derivative byte record
 
@@ -35,51 +35,50 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 - source intake: [`../notes/part-007-source-intake.md`](../notes/part-007-source-intake.md)
 - page map: [`../indexes/part-007-page-map.md`](../indexes/part-007-page-map.md)
 - latest fidelity: [`../notes/visual-fidelity-scans-318-343.md`](../notes/visual-fidelity-scans-318-343.md)
+- Tamil audit: [`../notes/part-007-tamil-audit.md`](../notes/part-007-tamil-audit.md)
 
 No split PDF or uploaded baseline file is committed.
 
 ## Authority policy
 
-Through scan 279, preserve existing source-first decisions. From scan **280 onward**, user-supplied Gemini transcription controls lexical wording/forms/spacing; native scans control page identity, punctuation, quotes, paragraphing, line/page breaks, separators and chapter/scene structure. A complete supplied-baseline omission is flagged rather than silently source-filled.
+Through scan 279, preserve existing source-first decisions. From scan **280 onward**, user-supplied Gemini transcription controls lexical wording/forms/spacing; native scans control page identity, punctuation, quotes, paragraphing, line/page breaks, separators and chapter/scene structure.
 
-For Part 007, `p7.md` is the complete lexical baseline for printed pages 291–339.
+For Part 007, `p7.md` is the lexical baseline for printed pages 291–339. Three complete omissions were restored only after the user explicitly instructed `insert all three omissions` on 2026-09-02:
 
-## Part-007 canonical result
+- scan 304 — `நீ`;
+- scan 305 — `என்ன`;
+- scan 315 — `சரி...... வா! வா!......`.
+
+No other lexical source-correction is authorized. Scan 343 therefore retains supplied `అది` despite native Tamil `அது`.
+
+## Part-007 Tamil result
 
 - canonical records: **49 / 49 — scans 295–343**
-- verified: **46 / 49**
-- needs-review: **3 — scans 304, 305, 315**
+- verified: **49 / 49**
+- Part-007 needs-review: **0**
 - not-started: **0**
-- state: **`canonical-complete / lexical-omission-disposition-pending`**
+- Tamil audit: **PASSED**
+- state: **`tamil-audit-passed / assembled-tamil-next`**
 
-Unresolved lexical omissions:
+Structural progression is verified through Chapter 39: chapter 34 opens scan 297, chapter 35 scan 307, chapter 36 scan 317, chapter 37 scan 324, chapter 38 scan 331 and chapter 39 scan 340. Scan 322 contains a native four-star transition and required only structural repositioning of unchanged `விடியற்காலை...` baseline text. Scan 330 contains another four-star transition and closes chapter 37 at the foot rule.
 
-- scan 304 — source-visible `நீ` omitted by `p7.md`;
-- scan 305 — source-visible `என்ன` omitted by `p7.md`;
-- scan 315 — source-visible `சரி...... வா! வா!......` omitted by `p7.md`.
-
-No source insertion was made.
-
-Structural progression is verified through Chapter 39: chapter 34 opens scan 297, chapter 35 scan 307, chapter 36 scan 317, chapter 37 scan 324, chapter 38 scan 331 and chapter 39 scan 340. Scan 322 contains a native four-star transition and required only structural repositioning of the unchanged `விடியற்காலை...` baseline span. Scan 330 contains another four-star transition and closes chapter 37 at the foot rule.
-
-Scan **343 / printed 339** ends mid-utterance at open `அதிர்ஷ்`, with no closing punctuation. It is an access-derivative endpoint only. The canonical record intentionally preserves supplied `p7.md` lexical `అది` despite native Tamil `அது`, per the lexical-authority rule.
+Scan **343 / printed 339** ends mid-utterance at open `அதிர்ஷ்`, with no closing punctuation. It is an access-derivative endpoint only.
 
 ## Aggregate state
 
 - page records: **343**
-- verified/completed: **333**
-- needs-review: **10 — scans 215–219, 223–224, 304, 305, 315**
+- verified/completed: **336**
+- needs-review: **7 — scans 215–219 and 223–224 only**
 - partial: **0**
 - Parts 001–006: **part-complete**
-- Part 007: **canonical-complete; Tamil audit pending omission disposition**
+- Part 007: **Tamil audit PASSED**
 - assembled Tamil: through scan **294**
 - source-checked / bilingual-reviewed English: through scan **294**
 - received source range: through scan **343 / printed 339**
 
 ## Completeness still open
 
-- explicit disposition of Part-007 omissions 304, 305, 315;
-- Part-007 Tamil audit / assembly / English / bilingual review;
+- Part-007 assembled Tamil / English / bilingual review;
 - source beyond scan 343, because the derivative ends mid-utterance;
 - true ending / back matter;
 - exact full scan-object count;
@@ -87,4 +86,4 @@ Scan **343 / printed 339** ends mid-utterance at open `அதிர்ஷ்`, w
 
 ## Exact next action
 
-Explicitly disposition scans **304, 305 and 315**, then run the **Part-007 Tamil audit across scans 295–343**.
+Build and consistency-check the **Part-007 assembled Tamil reading layer across scans 295–343**, preserving all audited joins/transitions and leaving Chapter 39 open at `அதிர்ஷ்`.
