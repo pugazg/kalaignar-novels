@@ -10,10 +10,10 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343
 - lexical baseline: uploaded `p7.md`, SHA-256 `a804b914b88050ca8d31142cb00d7491c94e89ff1fb7e564fdd348bdf14b1c59`
 - source/split PDF committed: **No**
 - baseline file committed: **No**
-- canonical records created: **8 / 49 — scans 295–302**
-- verified / structurally completed: **8 / 49**
-- needs-review in Part 007: **0**
-- not-started: **41 — scans 303–343**
+- canonical records created: **13 / 49 — scans 295–307**
+- verified / structurally completed: **11 / 49**
+- needs-review in Part 007: **2 — scans 304–305**
+- not-started: **36 — scans 308–343**
 - split state: **`canonical-in-progress`**
 
 ## Authority rule
@@ -37,12 +37,12 @@ The Part-006→007 derivative boundary is provenance only. Scan 294 ends at open
 | 300 | 296 | chapter 34 | verified | `../pages/0300-pudhaiyal.md`; ends open dialogue `ஏன் ஓடச்` |
 | 301 | 297 | chapter 34 | verified | `../pages/0301-pudhaiyal.md`; begins `சொல்லுகிறாய்?`; ends `பரிமளா திருமணத்தை` |
 | 302 | 298 | chapter 34 | verified | `../pages/0302-pudhaiyal.md`; begins `முடித்துவிட வேண்டும்.`; ends physical word split `பெற்` |
-| 303 | 299 | pending visual structure | not-started | baseline continuation begins `றான்`; native verification next |
-| 304 | 300 | pending visual structure | not-started | — |
-| 305 | 301 | pending visual structure | not-started | — |
-| 306 | 302 | pending visual structure | not-started | — |
-| 307 | 303 | pending visual structure | not-started | — |
-| 308 | 304 | pending visual structure | not-started | — |
+| 303 | 299 | chapter 34 | verified | `../pages/0303-pudhaiyal.md`; begins `றான்`, completing `பெற்றான்` |
+| 304 | 300 | chapter 34 | needs-review | `../pages/0304-pudhaiyal.md`; `p7.md` omits source-visible lexical word `நீ` in `“நீ?……”` |
+| 305 | 301 | chapter 34 | needs-review | `../pages/0305-pudhaiyal.md`; `p7.md` omits source-visible lexical word `என்ன` after `ஒப்புக் கொள்ளா விட்டால்...` |
+| 306 | 302 | chapter 34 closes | verified | `../pages/0306-pudhaiyal.md`; source horizontal rule at foot |
+| 307 | 303 | chapter 35 begins | verified | `../pages/0307-pudhaiyal.md`; heading `35`; ends open after `‘மிருகம்’` |
+| 308 | 304 | chapter 35 | not-started | baseline continuation begins `பதுங்கி விட்டது`; native verification next |
 | 309 | 305 | pending visual structure | not-started | — |
 | 310 | 306 | pending visual structure | not-started | — |
 | 311 | 307 | pending visual structure | not-started | — |
@@ -79,7 +79,7 @@ The Part-006→007 derivative boundary is provenance only. Scan 294 ends at open
 | 342 | 338 | pending visual structure | not-started | — |
 | 343 | 339 | Part-007 endpoint; section pending verification | not-started | endpoint spot-check ends mid-utterance at `அதிர்ஷ்` |
 
-## Verified structure through scan 302
+## Verified structure through scan 307
 
 - scan **295 / printed 291** directly continues scan 294's open dialogue: `‘லாக்` + `அப்’பில்` → `‘லாக் அப்’பில்`;
 - scan 295 ends with a source-printed four-star internal transition;
@@ -88,17 +88,19 @@ The Part-006→007 derivative boundary is provenance only. Scan 294 ends at open
 - scan **297→298** continues `அவனை அனுதாபத்தோடு` → `தொட்டுத் தூக்கிடும் போதும்...` with no artificial boundary;
 - scan **300→301** preserves the open quoted question `ஏன் ஓடச்` → `சொல்லுகிறாய்?`;
 - scan **301→302** preserves Dukkaram's quoted internal-speech continuation `பரிமளா திருமணத்தை` → `முடித்துவிட வேண்டும்.`;
-- scan **302** ends physically inside baseline word `பெற்றான்` as `பெற்`; scan 303 must verify the expected continuation `றான்` before assembly;
+- scan **302→303** physically joins `பெற்` + `றான்` → `பெற்றான்`;
+- scans **304–305** each contain one complete source-visible lexical word omitted by `p7.md`; both are retained as `needs-review` without silent source insertion;
+- scan **306** closes chapter 34 with a source horizontal rule;
+- scan **307** begins chapter 35 and ends open after `அவனை ஆட்டி வைத்த ‘மிருகம்’`;
 - scan **343 / printed 339** endpoint spot-check ends mid-utterance at `அதிர்ஷ்`; it is not a chapter/novel ending.
-
-Later structural rows remain intentionally unassigned until each source page is visually reconciled.
 
 ## Fidelity records
 
 - scan 295: `../notes/visual-fidelity-scan-295.md`
 - scans 296–297: `../notes/visual-fidelity-scans-296-297.md`
 - scans 298–302: `../notes/visual-fidelity-scans-298-302.md`
+- scans 303–307: `../notes/visual-fidelity-scans-303-307.md`
 
 ## Exact next activity
 
-Process scan **303 / printed 299** in chapter 34 from the `p7.md` lexical baseline and native Part-007 page 9. Verify the physical `பெற்` + `றான்` → `பெற்றான்` continuation first, then continue sequentially through Part 007 before opening the Tamil-audit gate.
+Process scan **308 / printed 304** in chapter 35 from the `p7.md` lexical baseline and native Part-007 page 14. Verify the open continuation from scan 307 (`‘மிருகம்’` → `பதுங்கி விட்டது...`) and continue sequentially through Part 007. The Part-007 Tamil audit remains blocked until the two lexical omissions at scans 304–305 are explicitly resolved/dispositioned.
