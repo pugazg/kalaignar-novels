@@ -13,7 +13,7 @@ Current received derivative coverage now reaches:
 
 - source scans **1–343**;
 - visible printed text through page **339**;
-- canonical records currently created through scan **297**;
+- canonical records currently created through scan **302**;
 - exact original PDF scan/page-object count: **still pending**.
 
 ## Authority distinction from scan 280 onward
@@ -42,7 +42,7 @@ Received access derivatives:
    - derivative file size: **57,055,891 bytes**
    - derivative SHA-256: `9ead2089eb238273f7b0fd0dbe2f929095730fbf3fc218719e66fe0d472bb15c`
    - lexical baseline: uploaded `p7.md`, SHA-256 `a804b914b88050ca8d31142cb00d7491c94e89ff1fb7e564fdd348bdf14b1c59`
-   - canonical / verified: **3 / 49 — scans 295–297**
+   - canonical / verified: **8 / 49 — scans 295–302**
    - source intake: [`part-007-source-intake.md`](part-007-source-intake.md)
    - page map: [`../indexes/part-007-page-map.md`](../indexes/part-007-page-map.md)
 
@@ -60,26 +60,29 @@ Therefore the cross-part term is conclusively:
 
 This derivative boundary is provenance only, not a sentence/scene/chapter boundary.
 
-## Part-007 structural state through scan 297
+## Part-007 structural state through scan 302
 
 - scan 295 — chapter 33 continues; four-star internal transition at page foot;
 - scan 296 — chapter 33 continues after that transition;
 - scan 297 — chapter 33 closes; horizontal rule + heading 34; chapter 34 begins;
-- scan 297 ends mid-sentence at `அவனை அனுதாபத்தோடு`;
-- scan 298 is the next canonical reconciliation target.
+- scan 297→298 — `அவனை அனுதாபத்தோடு` continues as `தொட்டுத் தூக்கிடும் போதும்...`;
+- scans 298–302 — chapter 34 has been structurally reconciled against native Part-007 pages 4–8;
+- scan 300→301 — open quoted question `ஏன் ஓடச்` → `சொல்லுகிறாய்?`;
+- scan 301→302 — internal-speech continuation `பரிமளா திருமணத்தை` → `முடித்துவிட வேண்டும்.`;
+- scan 302 ends physically inside `பெற்றான்` as `பெற்`; scan 303 is the next canonical target and must verify continuation `றான்`.
 
 A native endpoint spot-check of scan **343 / printed 339** shows the text ending mid-utterance at `அதிர்ஷ்`. The `p7.md` lexical baseline ends its source transcription at the same fragment. Therefore Part 007 is another open derivative boundary and cannot be treated as the novel ending.
 
 ## Current textual / derivative state
 
-- canonical page records created: **297**
-- verified / completed: **290**
+- canonical page records created: **302**
+- verified / completed: **295**
 - needs-review: **7 — Part 005 scans 215–219, 223–224**
 - partial: **0**
 - clean contiguous fully verified range: **1–214**
-- later completed pages: through scan **297**, except the seven damaged Part-005 records
+- later completed pages: through scan **302**, except the seven damaged Part-005 records
 - Parts 001–006: **part-complete at split level**
-- Part 007: **canonical-in-progress; 46 scans remain**
+- Part 007: **canonical-in-progress; 41 scans remain**
 - assembled Tamil: **part-reviewed through scan 294**
 - source-checked / bilingual-reviewed English: **through scan 294**
 - source scans physically represented by received derivatives: **through scan 343**
@@ -89,7 +92,7 @@ A native endpoint spot-check of scan **343 / printed 339** shows the text ending
 
 Still required:
 
-1. complete Part-007 canonical/structural reconciliation for scans 298–343;
+1. complete Part-007 canonical/structural reconciliation for scans 303–343;
 2. run Part-007 Tamil audit, assembled Tamil check, English source check and bilingual review;
 3. obtain source beyond scan 343 and verify continuation from the open `அதிர்ஷ்` fragment;
 4. process every later source scan;
@@ -102,4 +105,4 @@ Do not infer final source extent or ending from the TDL printed-page count or fr
 
 ## Exact next activity
 
-Process **scan 298 / printed 294** from `p7.md` plus native Part-007 page 4, preserving the chapter-34 sentence continuation from scan 297. Continue sequentially through the derivative.
+Process **scan 303 / printed 299** from `p7.md` plus native Part-007 page 9, first verifying the physical `பெற்` + `றான்` → `பெற்றான்` continuation. Continue sequentially through the derivative.
