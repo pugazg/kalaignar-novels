@@ -29,7 +29,7 @@ For active Part 007, uploaded `p7.md` is the complete lexical baseline.
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **312 canonical records / 303 verified-complete / 9 needs-review; Parts 001–006 part-complete; Part 007 active through scan 312** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **317 canonical records / 307 verified-complete / 10 needs-review; Parts 001–006 part-complete; Part 007 active through scan 317** |
 
 ### புதையல் — current source state
 
@@ -39,7 +39,7 @@ Access derivatives:
 
 - parts 001–005 — scans **1–245** — split-level workflow complete, with seven source-damage qualifications in Part 005;
 - part 006 — scans **246–294 / printed 242–290** — **part-complete**;
-- part 007 — scans **295–343 / printed 291–339** — received and mapped; canonical reconciliation now reaches scan **312**.
+- part 007 — scans **295–343 / printed 291–339** — received and mapped; canonical reconciliation now reaches scan **317**.
 
 Part-007 source identity:
 
@@ -51,25 +51,23 @@ Part-007 source identity:
 
 Current state:
 
-- canonical records — **312**;
-- verified / completed — **303**;
-- needs-review — **9 (Part 005 scans 215–219, 223–224; Part 007 scans 304–305)**;
+- canonical records — **317**;
+- verified / completed — **307**;
+- needs-review — **10 (Part 005 scans 215–219, 223–224; Part 007 scans 304–305, 315)**;
 - partial — **0**;
 - Parts 001–006 — **part-complete at split level**;
-- Part 007 — **18/49 canonical; 16 verified; 2 needs-review; scans 313–343 not started**;
+- Part 007 — **23/49 canonical; 20 verified; 3 needs-review; scans 318–343 not started**;
 - assembled Tamil — part-reviewed continuously through scan **294**;
 - source-checked / bilingual-reviewed English — continuously through scan **294**;
 - physically received source coverage — through scan **343 / printed 339**;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source.
 
-Part-006→007 continuity is source-confirmed: scan 294 ends `‘லாக்`, scan 295 begins `அப்’பில்`, producing **`‘லாக் அப்’பில்`** across the derivative split. Scan 295 then ends with a four-star internal transition. Scan 297 closes chapter 33 and begins chapter 34 under the source heading `34`.
+Part-006→007 continuity remains source-confirmed as **`‘லாக் அப்’பில்`**. Chapter 34 closes at scan 306; chapter 35 begins at scan 307. The latest batch verifies scans **313–317**, identifies one additional baseline omission on scan **315** (`சரி...... வா! வா!......`, not source-inserted), and confirms that scan **317** closes chapter 35 and begins chapter **36** under the source heading `36`.
 
-Chapter 34 closes at scan **306** and chapter 35 begins at scan **307**. The latest batch verifies scans **308–312**, including `‘மிருகம்’` → `பதுங்கி விட்டது.`, `வாழ்க்கைக்` → `காவியத்தை...`, the scan-310 four-star internal transition, and physical `போவ` + `தென்று` → `போவதென்று`. No new complete lexical omissions were found in scans 308–312. Existing Part-007 omissions remain `நீ` on scan **304** and `என்ன` on scan **305**.
+Part-007 scan 343 / printed 339 remains endpoint-spot-checked and ends mid-utterance at `அதிர்ஷ்`; Part 007 therefore is **not** the ending of the novel.
 
-Part-007 scan 343 / printed 339 has also been endpoint-spot-checked and ends mid-utterance at `அதிர்ஷ்`; Part 007 therefore is **not** the ending of the novel.
-
-Exact next action: process **scan 313 / printed 309**, chapter 35, from `p7.md` plus native Part-007 page 19 and continue sequentially.
+Exact next action: process **scan 318 / printed 314**, chapter 36, from `p7.md` plus native Part-007 page 24, preserving `பரிமளா பங்களாவிலே` → `இருந்ததால் புலனாகிவிட்டது...`.
 
 ## நிறைவு பெற்ற reference work
 
