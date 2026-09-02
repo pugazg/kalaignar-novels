@@ -25,7 +25,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 004 | `TVA_BOK_0064097_புதையல்_part_004_pages_148-196.pdf` | 148–196 | 146–194 | **49/49 verified; part-complete** |
 | 005 | `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf` | 197–245 | 195–241 | **49/49 represented; 42 verified + 7 source-damage needs-review; part-complete with qualification** |
 | 006 | `TVA_BOK_0064097_புதையல்_part_006_pages_246-294.pdf` | 246–294 | 242–290 | **49/49 canonical + verified; full split workflow PASSED / part-complete** |
-| 007 | `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf` | 295–343 | 291–339 | **ACTIVE — 18/49 canonical; 16 verified; 2 needs-review through scan 312** |
+| 007 | `TVA_BOK_0064097_புதையல்_part_007_pages_295-343.pdf` | 295–343 | 291–339 | **ACTIVE — 23/49 canonical; 20 verified; 3 needs-review through scan 317** |
 
 ### Part-007 derivative byte record
 
@@ -56,38 +56,35 @@ For Part 007, `p7.md` is the complete user-supplied lexical baseline for printed
 
 Part 006 remains **`part-complete`** with Tamil audit, assembled Tamil, controlled English source check and bilingual review all PASSED. Its reviewed Chapter-33 endpoint at scan 294 / printed 290 is open at Tamil `‘லாக்` / English `‘Lock`.
 
-## Part-007 verified checkpoint through scan 312
+## Part-007 verified checkpoint through scan 317
 
-Part-007 native scan 295 / printed 291 begins `அப்’பில் தானிருக்கிறார்கள்...` and physically completes the prior page's open term:
+Key structural state:
 
-`‘லாக்` + `அப்’பில்` → **`‘லாக் அப்’பில்`**.
-
-Verified structural state includes:
-
-- scan 297 — chapter 33 closes; horizontal rule + heading 34; chapter 34 begins;
-- scan 302→303 — physical `பெற்` + `றான்` establishes baseline word `பெற்றான்`;
-- scans 304–305 — the two complete baseline lexical omissions (`நீ`, `என்ன`) remain `needs-review` and were not source-filled;
-- scan 306 — chapter 34 closes with a source horizontal rule;
-- scan 307 — source heading `35` begins chapter 35;
-- scan 307→308 — `‘மிருகம்’` → `பதுங்கி விட்டது.`;
-- scan 308→309 — `வாழ்க்கைக்` → `காவியத்தை...`;
-- scan 309→310 — `...படாமல் இந்த` → `ஊரை விட்டு...`;
-- scan 310 — source-printed `* * * *` internal transition and physical ending `போவ`;
-- scan 311 begins `தென்று`, completing `போவதென்று`, and ends `பேசிக் கொண்டிருந்து`;
-- scan 312 begins `விட்டு,`; no new complete lexical omission was found on scans 308–312.
+- scan 295 begins `அப்’பில்`, resolving Part-006→007 as **`‘லாக் அப்’பில்`**;
+- scan 297 closes chapter 33 and begins chapter 34 under heading `34`;
+- scan 302→303 physically establishes `பெற்` + `றான்` → `பெற்றான்`;
+- scans 304–305 retain unresolved `p7.md` omissions `நீ` and `என்ன` without source insertion;
+- scan 306 closes chapter 34;
+- scan 307 begins chapter 35;
+- scan 310 contains a source-printed four-star internal transition;
+- scan 313→314 preserves `தன் படுக்கையைத்` → `திண்ணையிலே...`;
+- scan 315 contains a third baseline omission: native `சரி...... வா! வா!......` is absent from `p7.md` and was not inserted;
+- scan 315→316 physically establishes `அவர்` + `கள்` → `அவர்கள்`;
+- scan 316→317 continues `“அகப்பட்டுக் கொண்டோம்!”` → `என்ற ஏக்கத்தோடு...`;
+- scan 317 closes chapter 35, prints a horizontal rule + heading **36**, begins chapter 36, and ends `பரிமளா பங்களாவிலே`.
 
 Endpoint spot-check: scan **343 / printed 339** ends mid-utterance at `அதிர்ஷ்`. Therefore Part 007 is not a true ending and source beyond scan 343 remains required.
 
 ## Canonical / derivative state
 
-- page records created: **312**
-- verified / completed: **303**
-- needs-review: **9 — scans 215–219, 223–224, 304–305**
+- page records created: **317**
+- verified / completed: **307**
+- needs-review: **10 — scans 215–219, 223–224, 304–305, 315**
 - partial: **0**
 - clean contiguous fully verified coverage: through scan **214 / printed page 212**
-- later completed pages extend through scan **312**, except the nine `needs-review` records
+- later completed pages extend through scan **317**, except the ten `needs-review` records
 - Parts 001–006: **part-complete at split level**
-- Part 007: **18 / 49 canonical; 16 verified; 2 needs-review; scans 313–343 pending**
+- Part 007: **23 / 49 canonical; 20 verified; 3 needs-review; scans 318–343 pending**
 - assembled Tamil: **part-reviewed continuously through scan 294**
 - source-checked / bilingual-reviewed English: **continuous through scan 294**
 - physically received source range: **through scan 343 / printed 339**
@@ -95,7 +92,7 @@ Endpoint spot-check: scan **343 / printed 339** ends mid-utterance at `அதி
 ## Completeness still open
 
 - Part-007 canonical reconciliation through scan 343;
-- explicit disposition of Part-007 baseline omissions on scans 304–305;
+- explicit disposition of Part-007 baseline omissions on scans 304–305 and 315;
 - Part-007 Tamil audit / assembled Tamil / English / bilingual review;
 - source beyond scan 343, because the current derivative ends mid-utterance;
 - true ending / back matter;
@@ -104,4 +101,4 @@ Endpoint spot-check: scan **343 / printed 339** ends mid-utterance at `அதி
 
 ## Exact next action
 
-Process **scan 313 / printed 309**, chapter 35, using `p7.md` as lexical authority and native Part-007 page 19 as structural authority. Continue sequentially through Part 007 and do not pass its Tamil audit until scans 304–305 receive explicit lexical-omission disposition.
+Process **scan 318 / printed 314**, chapter 36, using `p7.md` as lexical authority and native Part-007 page 24 as structural authority. Verify `பரிமளா பங்களாவிலே` → `இருந்ததால் புலனாகிவிட்டது...`, then continue sequentially through Part 007.
