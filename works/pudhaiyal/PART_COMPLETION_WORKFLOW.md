@@ -45,28 +45,23 @@ Source derivative: `TVA_BOK_0064097_புதையல்_part_006_pages_246-294
 - canonical records: **49 / 49**
 - verified / structurally completed: **49 / 49**
 - needs-review: **0**
-- not-started: **0**
-- latest native-fidelity record: [`notes/visual-fidelity-scan-294.md`](notes/visual-fidelity-scan-294.md)
 - Tamil audit: **PASSED** — [`notes/part-006-tamil-audit.md`](notes/part-006-tamil-audit.md)
-- assembled Tamil: **eligible — next activity**
-- controlled English: **not eligible until assembled Tamil passes**
-- bilingual review: **not eligible**
-- state: **`part-tamil-audit-passed`**
+- assembled Tamil: **PASSED** — [`notes/part-006-assembled-tamil-check.md`](notes/part-006-assembled-tamil-check.md)
+- controlled English: **ELIGIBLE — NEXT ACTIVITY**
+- bilingual review: **not yet eligible**
+- state: **`assembled-part-checked`**
 
-### Part-006 Tamil-audit checkpoint
+### Part-006 assembled checkpoint
 
-The Part-006 Tamil audit confirmed 49/49 coverage, page-map/canonical agreement, all required page-boundary continuities, chapter transitions, scan-280-onward Gemini lexical preservation, native structural fidelity, no unresolved Gemini lexical omission and the open derivative endpoint at scan 294.
+The checked assembled layer:
 
-Structural checkpoints:
-
-- chapter 27 closes / chapter 28 begins scan 247;
-- four-star internal transition scan 251;
-- chapter 29 begins 254 and closes 262;
-- chapter 30 begins 262 and closes 271;
-- chapter 31 begins 271 and closes 278;
-- chapter 32 begins 278 and closes 288;
-- chapter 33 begins 288 and continues beyond the derivative endpoint;
-- scan 294 / printed 290 ends at open `‘லாக்` inside dialogue, with no source ending marker.
+- completes chapter 27 through scan 247;
+- assembles chapters 28–33 from audited canonical pages only;
+- preserves the source-printed four-star transition at scan 251;
+- preserves chapter transitions at scans 254, 262, 271, 278 and 288;
+- joins physical page wraps only where canonical/audit evidence establishes continuity;
+- preserves Gemini lexical authority for scans 280–294 while removing physical line wrapping only for reading-layer presentation;
+- leaves chapter 33 open at scan 294 / printed 290 at `‘லாக்`.
 
 ## Completed split checkpoints
 
@@ -78,12 +73,13 @@ Structural checkpoints:
 
 ## Exact next activity
 
-Build the **Part-006 assembled Tamil reading layer from audited canonical pages only**:
+Begin the **Part-006 controlled English translation** from the checked assembled Tamil layer:
 
-1. extend `sections/27-chapter-27.md` through the chapter-27 close on scan 247;
-2. create/populate chapters **28–33** from scans 247–294;
-3. preserve the scan-251 four-star transition, real chapter boundaries, reversible source-page provenance and all verified cross-page joins;
-4. leave chapter 33 open at scan 294 / `‘லாக்`;
-5. run a split-level assembled consistency check and update `sections/README.md`.
+1. extend chapter 27 English through the chapter-27 close on scan 247;
+2. translate assembled chapters 28–33 through scan 294;
+3. preserve the scan-251 internal transition and all real chapter boundaries;
+4. keep English subordinate to canonical Tamil authority and source-specific structure;
+5. leave chapter 33 open at the scan-294 `‘லாக்` derivative boundary;
+6. source-check the completed English against canonical Tamil before opening the bilingual-review gate.
 
-Only after that check passes should controlled English translation for Part 006 begin.
+Do not run Part-006 bilingual review until controlled English is complete and source-checked.
