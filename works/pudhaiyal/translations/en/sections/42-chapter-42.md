@@ -5,7 +5,7 @@ section_order: 42
 section_title: "Chapter 42"
 language: "en"
 source_scans: "362 (chapter-42 portion)-369 (chapter-42 portion)"
-status: "draft-translated-part-008"
+status: "source-checked-part-008"
 derived_from: "audited Tamil pages and checked assembled sections/42-chapter-42.md"
 ---
 
@@ -33,7 +33,7 @@ Bhagavathi merely threw him a foolish smile and asked, “What do you intend to 
 
 At once Durai dropped the knife and embraced Bhagavathi. Whether he said, “My dear—Parimala!” or not, no one could say.
 
-But every time, he received kisses from her in return. He also now knew who had been wetting his cheek while he slept!
+But in return he received just as many kisses from her. He also now knew who had been wetting his cheek while he slept!
 
 For a few minutes they forgot the place in which they were trapped and the dangers waiting before them. Then they returned to the world burdened with memory.
 
