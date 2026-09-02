@@ -11,7 +11,8 @@ Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.**.
 - visible printed text: through page **388**
 - canonical records: through scan **392**
 - assembled Tamil: through scan **392 / printed 388**
-- source-checked/bilingual-reviewed English: through scan **343**
+- source-checked English: through scan **392 / printed 388**
+- bilingual-reviewed English: through scan **343**
 - exact original PDF scan/page-object count: **pending**
 
 ## Split-source state
@@ -23,7 +24,7 @@ Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.**.
 5. Part 005 — scans 197–245 — part-complete with source-damage qualification
 6. Part 006 — scans 246–294 — part-complete
 7. Part 007 — scans 295–343 — part-complete
-8. Part 008 — scans 344–392 / printed 340–388 — **Tamil audit PASSED + assembled Tamil PASSED / controlled English next**
+8. Part 008 — scans 344–392 / printed 340–388 — **Tamil + assembled Tamil + controlled English source check PASSED / bilingual review next**
 
 ### Part 008
 
@@ -36,9 +37,12 @@ Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.**.
 - needs-review: **0**
 - Tamil audit: **PASSED**
 - assembled Tamil audit: **PASSED**
+- controlled English translation: **COMPLETE**
+- English source check: **PASSED**
+- bilingual review: **NEXT**
 - user-authorized restoration: scan 384 **`தகட்டில் இருக்கிறபடி`**
 
-Part-007→008 continuity is **`அதிர்ஷ்டம்`** across `அதிர்ஷ்` + `டம்`. Scan 392 ends open at `நமது`.
+Part-007→008 continuity is **`அதிர்ஷ்டம்`** across `அதிர்ஷ்` + `டம்`; English mirrors it as `luc` + `k` → **luck**. Scan 392 ends open at Tamil `நமது` / English **“our”**.
 
 ## Aggregate state
 
@@ -49,7 +53,7 @@ Part-007→008 continuity is **`அதிர்ஷ்டம்`** across `அத
 
 ## Still required
 
-1. Part-008 controlled English translation, English source check and bilingual review;
+1. Part-008 bilingual review;
 2. source beyond scan 392 and continuation from open `நமது`;
 3. all later source scans / true ending / back matter;
 4. exact full scan-object count and full-source SHA-256;
@@ -59,4 +63,4 @@ Do not infer final source extent or ending from the 443-page bibliographic count
 
 ## Exact next activity
 
-Begin controlled English translation for Part 008 scans **344–392**, preserving the open Chapter-45 endpoint at `நமது`.
+Run the **Part-008 bilingual review across scans 344–392**, then mark Part 008 `part-complete` only if that review passes.
