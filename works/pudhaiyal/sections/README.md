@@ -53,9 +53,9 @@ Part-006 assembly consistency record: [`../notes/part-006-assembled-tamil-check.
 - Part 003 / scans 99–147: **assembled-part-checked / part-complete**
 - Part 004 / scans 148–196: **assembled-part-checked / part-complete**
 - Part 005 / scans 197–245: **assembled-part-checked with explicit source-damage qualification / part-complete**
-- Part 006 / scans 246–294: **Tamil audit passed + assembled-part-checked; controlled English next**
+- Part 006 / scans 246–294: **Tamil audit + assembled check + English source check + bilingual review PASSED / part-complete**
 
-Assembled Tamil is therefore part-reviewed continuously through **scan 294 / printed page 290**, with scans **215–219 and 223–224** still explicitly source-damaged `needs-review` in the canonical layer.
+Assembled Tamil is part-reviewed continuously through **scan 294 / printed page 290**, with scans **215–219 and 223–224** still explicitly source-damaged `needs-review` in the canonical layer. English is also bilingual-reviewed continuously through scan 294; see `../translations/en/PART_006_REVIEW.md`.
 
 Scan 294 is not an ending. Chapter 33 and its final quoted dialogue continue beyond the current derivative at open `‘லாக்`.
 
@@ -63,4 +63,4 @@ The final whole-work assembled-Tamil `PASSED` verdict remains unavailable until 
 
 ## Exact next activity
 
-Begin the **Part-006 controlled English translation** from the checked assembled Tamil layer: translate the chapter-27 continuation and chapters 28–33 through scan 294, preserving chapter/internal-transition structure and leaving chapter 33 explicitly open at the derivative endpoint. Do not invent a chapter or novel ending.
+Obtain / resolve the **next source derivative beyond scan 294** and verify its first page against the open `‘லாக்` boundary before extending chapter 33. Establish the next source/printed-page mapping from the actual source; do not infer a continuation, part range, chapter close or novel ending.
