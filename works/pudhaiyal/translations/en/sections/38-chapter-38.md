@@ -179,7 +179,7 @@ Dog; donkey; hey you; get lost—she could no longer bear hearing only such word
 
 It was in this condition that Durai was brought there. She knew very well that Ambalam was doing all sorts of things in search of the treasure. Before he could obtain that treasure, she believed that the treasure she herself had long searched and withered for had come into her hands.
 
-Between Velliyambalam's dry voice asking, “What, is your cheek some guava fruit?” and the cry of youth that would embrace her saying, “Sweet sugarcane! Give me your guava cheek!… Give me your kovai-red lips, lovely one! In return I will give you ten thousand strings of kisses!” Menaka had spent so long yearning over the difference. Now she was certain that the time had come to put a full stop to that yearning.
+Between Velliyambalam's dry voice asking, “What, is your cheek some guava fruit?” and the cry of youth that would embrace her saying, “Sweet sugarcane! Give me your guava cheek!… Give me your kovai-red lips, lovely one! In return I will give you a garland of ten thousand pearls!” Menaka had spent so long yearning over the difference. Now she was certain that the time had come to put a full stop to that yearning.
 
 “Durai is a handsome man! If he agrees to my freedom, I will agree to his freedom,” she whispered in a low voice, unheard by anyone.
 
