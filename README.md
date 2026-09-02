@@ -12,11 +12,10 @@ Source PDF / split PDF கோப்புகள் repository-யில் commi
 
 User instruction படி:
 
-- **words / spelling / suffix / lexical forms:** Gemini transcription exactly;
+- **words / spelling / suffix / lexical forms / supplied lexical spacing:** Gemini transcription exactly;
 - **source scan:** heading, punctuation, quote marks, long dash, speaker-label spacing, paragraph structure, physical line/page breaks, separators, chapter/scene transitions and other structural findings;
-- source scan வைத்து Gemini word-ஐ silently correct செய்யக்கூடாது;
-- Gemini lexical span omitted என்றால் flag செய்ய வேண்டும்; source words silently supply செய்யக்கூடாது;
-- இந்த policy scan 280 onward prospective; scans 246–279-ஐ இதற்காக மட்டும் reopen செய்யக்கூடாது.
+- source scan வைத்து Gemini lexical text-ஐ silently correct செய்யக்கூடாது;
+- Gemini lexical span omitted என்றால் flag செய்ய வேண்டும்; source words silently supply செய்யக்கூடாது.
 
 ## Project continuation documents
 
@@ -28,7 +27,7 @@ User instruction படி:
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **283 canonical records / 276 verified-complete / 7 needs-review; Parts 001–005 part-complete; Part 006 in progress** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **294 canonical records / 287 verified-complete / 7 needs-review; Parts 001–005 part-complete; Part 006 source layer complete, Tamil audit pending** |
 
 ### புதையல் — current source state
 
@@ -37,25 +36,25 @@ Tamil Digital Library reports **443 p.**; exact original PDF scan count remains 
 Access derivatives:
 
 - parts 001–005 — scans **1–245** — split-level workflow complete, with seven source-damage qualifications in Part 005;
-- part 006 — scans **246–294 / printed 242–290** — **49-page derivative mapped; scans 246–283 verified/complete; scans 284–294 not-started**.
+- part 006 — scans **246–294 / printed 242–290** — **49/49 canonical and structurally verified; 0 Part-006 needs-review; Tamil audit pending**.
 
 Current canonical state:
 
-- records — **283**;
-- verified / completed — **276**;
+- records — **294**;
+- verified / completed — **287**;
 - needs-review — **7 (Part 005 scans 215–219, 223–224)**;
 - partial — **0**;
-- Part 006 — **38 / 49 verified/completed**;
+- Part 006 — **49 / 49 verified/completed at canonical/structural stage**;
 - assembled Tamil / English split-level review — still through scan **245** only;
 - whole-work Tamil / English verification — not yet eligible;
 - release-readiness — blocked until complete source;
 - source PDF / splits committed — No.
 
-Part 006 source structure is mapped through scan 294: chapter 28 begins at 247, four-star internal transition at 251, chapter 29 begins 254 and closes 262, chapter 30 begins 262 and closes 271, chapter 31 begins 271 and closes 278, chapter 32 begins 278, chapter 33 begins 288.
+Part 006 source structure: chapter 28 begins scan 247; four-star internal transition scan 251; chapter 29 begins 254 and closes 262; chapter 30 begins 262 and closes 271; chapter 31 begins 271 and closes 278; chapter 32 begins 278 and closes 288; chapter 33 begins 288 and continues beyond scan 294.
 
-Scans **280–283** are processed under the Gemini-lexical/native-structure rule. On scan 283, the user's refreshed Gemini Iteration-27 transcription explicitly contains `பார்` after `ஓடிப் போகிறேன்`. The earlier omission flag came from an incomplete baseline copy; `பார்` is now retained from Gemini itself, not supplied from native-source lexical reading. Scan 283 is therefore verified. Native scan evidence continues to control only punctuation, long dashes, paragraphing, physical line/page breaks and other structural findings.
+Scans **280–294** are now fully processed under the Gemini-lexical/native-structure rule. Scan 294 / printed 290 ends at open `‘லாக்` inside dialogue, with no ending marker; this is an access-derivative boundary, not the ending of the novel.
 
-Exact next action: process **scan 284 / printed page 280**, continuing chapter 32 under the same hybrid policy. Do not start Part-006 Tamil audit, assembled Tamil or English stages until all 49 pages have canonical dispositions.
+Exact next action: run the **Part-006 Tamil audit for scans 246–294**. Do not begin Part-006 assembled Tamil or English work until that audit passes.
 
 ## நிறைவு பெற்ற reference work
 
