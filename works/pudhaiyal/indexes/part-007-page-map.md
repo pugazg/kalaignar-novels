@@ -10,11 +10,11 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_007_pages_295-343
 - lexical baseline: uploaded `p7.md`, SHA-256 `a804b914b88050ca8d31142cb00d7491c94e89ff1fb7e564fdd348bdf14b1c59`
 - source/split PDF committed: **No**
 - baseline file committed: **No**
-- canonical records created: **23 / 49 — scans 295–317**
-- verified / structurally completed: **20 / 49**
+- canonical records created: **49 / 49 — scans 295–343**
+- verified / structurally completed: **46 / 49**
 - needs-review in Part 007: **3 — scans 304–305, 315**
-- not-started: **26 — scans 318–343**
-- split state: **`canonical-in-progress`**
+- not-started: **0**
+- split state: **`canonical-complete / lexical-omission-disposition-pending`**
 
 ## Authority rule
 
@@ -29,73 +29,69 @@ The Part-006→007 derivative boundary is provenance only. Scan 294 ends at open
 
 | Source scan | Printed page | Section | Status | File / note |
 |---:|:---:|---|---|---|
-| 295 | 291 | chapter 33 / Part-007 opening / internal transition at foot | verified | `../pages/0295-pudhaiyal.md`; Part-006→007 `‘லாக்` + `அப்’பில்` join; four-star separator |
-| 296 | 292 | chapter 33 after internal transition | verified | `../pages/0296-pudhaiyal.md` |
-| 297 | 293 | chapter 33 closes / chapter 34 begins | verified | `../pages/0297-pudhaiyal.md`; horizontal rule + heading `34`; ends `அவனை அனுதாபத்தோடு` |
-| 298 | 294 | chapter 34 | verified | `../pages/0298-pudhaiyal.md`; begins `தொட்டுத் தூக்கிடும் போதும்` continuing scan 297 |
+| 295 | 291 | chapter 33 / internal transition | verified | `../pages/0295-pudhaiyal.md` |
+| 296 | 292 | chapter 33 | verified | `../pages/0296-pudhaiyal.md` |
+| 297 | 293 | chapter 33 closes / chapter 34 begins | verified | `../pages/0297-pudhaiyal.md` |
+| 298 | 294 | chapter 34 | verified | `../pages/0298-pudhaiyal.md` |
 | 299 | 295 | chapter 34 | verified | `../pages/0299-pudhaiyal.md` |
-| 300 | 296 | chapter 34 | verified | `../pages/0300-pudhaiyal.md`; ends open dialogue `ஏன் ஓடச்` |
-| 301 | 297 | chapter 34 | verified | `../pages/0301-pudhaiyal.md`; begins `சொல்லுகிறாய்?`; ends `பரிமளா திருமணத்தை` |
-| 302 | 298 | chapter 34 | verified | `../pages/0302-pudhaiyal.md`; begins `முடித்துவிட வேண்டும்.`; ends physical word split `பெற்` |
-| 303 | 299 | chapter 34 | verified | `../pages/0303-pudhaiyal.md`; begins `றான்`, completing `பெற்றான்` |
-| 304 | 300 | chapter 34 | needs-review | `../pages/0304-pudhaiyal.md`; `p7.md` omits source-visible lexical word `நீ` in `“நீ?……”` |
-| 305 | 301 | chapter 34 | needs-review | `../pages/0305-pudhaiyal.md`; `p7.md` omits source-visible lexical word `என்ன` after `ஒப்புக் கொள்ளா விட்டால்...` |
-| 306 | 302 | chapter 34 closes | verified | `../pages/0306-pudhaiyal.md`; source horizontal rule at foot |
-| 307 | 303 | chapter 35 begins | verified | `../pages/0307-pudhaiyal.md`; heading `35`; ends open after `‘மிருகம்’` |
-| 308 | 304 | chapter 35 | verified | `../pages/0308-pudhaiyal.md`; begins `பதுங்கி விட்டது`, continuing scan 307; ends `வாழ்க்கைக்` |
-| 309 | 305 | chapter 35 | verified | `../pages/0309-pudhaiyal.md`; begins `காவியத்தை`; ends open `...படாமல் இந்த` |
-| 310 | 306 | chapter 35 / internal transition | verified | `../pages/0310-pudhaiyal.md`; four-star separator; ends physical split `போவ` |
-| 311 | 307 | chapter 35 | verified | `../pages/0311-pudhaiyal.md`; begins `தென்று`, completing `போவதென்று`; ends `பேசிக் கொண்டிருந்து` |
-| 312 | 308 | chapter 35 | verified | `../pages/0312-pudhaiyal.md`; begins `விட்டு,`; ends after Raman is asked to fetch powder |
-| 313 | 309 | chapter 35 | verified | `../pages/0313-pudhaiyal.md`; begins powder reply; ends `தன் படுக்கையைத்` |
-| 314 | 310 | chapter 35 | verified | `../pages/0314-pudhaiyal.md`; begins `திண்ணையிலே`; ends Durai's `இருட்டுக் காலமல்லவா?...` reply |
-| 315 | 311 | chapter 35 | needs-review | `../pages/0315-pudhaiyal.md`; `p7.md` omits source-visible quoted span `சரி...... வா! வா!......`; ends physical `அவர்` |
-| 316 | 312 | chapter 35 | verified | `../pages/0316-pudhaiyal.md`; begins `கள்`, completing `அவர்கள்`; ends `“அகப்பட்டுக் கொண்டோம்!”` |
-| 317 | 313 | chapter 35 closes / chapter 36 begins | verified | `../pages/0317-pudhaiyal.md`; horizontal rule + heading `36`; ends `பரிமளா பங்களாவிலே` |
-| 318 | 314 | chapter 36 | not-started | baseline continuation begins `இருந்ததால் புலனாகிவிட்டது`; native verification next |
-| 319 | 315 | pending visual structure | not-started | — |
-| 320 | 316 | pending visual structure | not-started | — |
-| 321 | 317 | pending visual structure | not-started | — |
-| 322 | 318 | pending visual structure | not-started | — |
-| 323 | 319 | pending visual structure | not-started | — |
-| 324 | 320 | pending visual structure | not-started | — |
-| 325 | 321 | pending visual structure | not-started | — |
-| 326 | 322 | pending visual structure | not-started | — |
-| 327 | 323 | pending visual structure | not-started | — |
-| 328 | 324 | pending visual structure | not-started | — |
-| 329 | 325 | pending visual structure | not-started | — |
-| 330 | 326 | pending visual structure | not-started | — |
-| 331 | 327 | pending visual structure | not-started | — |
-| 332 | 328 | pending visual structure | not-started | — |
-| 333 | 329 | pending visual structure | not-started | — |
-| 334 | 330 | pending visual structure | not-started | — |
-| 335 | 331 | pending visual structure | not-started | — |
-| 336 | 332 | pending visual structure | not-started | — |
-| 337 | 333 | pending visual structure | not-started | — |
-| 338 | 334 | pending visual structure | not-started | — |
-| 339 | 335 | pending visual structure | not-started | — |
-| 340 | 336 | pending visual structure | not-started | — |
-| 341 | 337 | pending visual structure | not-started | — |
-| 342 | 338 | pending visual structure | not-started | — |
-| 343 | 339 | Part-007 endpoint; section pending verification | not-started | endpoint spot-check ends mid-utterance at `அதிர்ஷ்` |
+| 300 | 296 | chapter 34 | verified | `../pages/0300-pudhaiyal.md` |
+| 301 | 297 | chapter 34 | verified | `../pages/0301-pudhaiyal.md` |
+| 302 | 298 | chapter 34 | verified | `../pages/0302-pudhaiyal.md` |
+| 303 | 299 | chapter 34 | verified | `../pages/0303-pudhaiyal.md` |
+| 304 | 300 | chapter 34 | needs-review | `../pages/0304-pudhaiyal.md`; baseline omits source-visible `நீ` |
+| 305 | 301 | chapter 34 | needs-review | `../pages/0305-pudhaiyal.md`; baseline omits source-visible `என்ன` |
+| 306 | 302 | chapter 34 closes | verified | `../pages/0306-pudhaiyal.md` |
+| 307 | 303 | chapter 35 begins | verified | `../pages/0307-pudhaiyal.md` |
+| 308 | 304 | chapter 35 | verified | `../pages/0308-pudhaiyal.md` |
+| 309 | 305 | chapter 35 | verified | `../pages/0309-pudhaiyal.md` |
+| 310 | 306 | chapter 35 / internal transition | verified | `../pages/0310-pudhaiyal.md` |
+| 311 | 307 | chapter 35 | verified | `../pages/0311-pudhaiyal.md` |
+| 312 | 308 | chapter 35 | verified | `../pages/0312-pudhaiyal.md` |
+| 313 | 309 | chapter 35 | verified | `../pages/0313-pudhaiyal.md` |
+| 314 | 310 | chapter 35 | verified | `../pages/0314-pudhaiyal.md` |
+| 315 | 311 | chapter 35 | needs-review | `../pages/0315-pudhaiyal.md`; baseline omits source-visible `சரி...... வா! வா!......` |
+| 316 | 312 | chapter 35 | verified | `../pages/0316-pudhaiyal.md` |
+| 317 | 313 | chapter 35 closes / chapter 36 begins | verified | `../pages/0317-pudhaiyal.md` |
+| 318 | 314 | chapter 36 | verified | `../pages/0318-pudhaiyal.md` |
+| 319 | 315 | chapter 36 | verified | `../pages/0319-pudhaiyal.md` |
+| 320 | 316 | chapter 36 | verified | `../pages/0320-pudhaiyal.md` |
+| 321 | 317 | chapter 36 | verified | `../pages/0321-pudhaiyal.md` |
+| 322 | 318 | chapter 36 / internal transition | verified | `../pages/0322-pudhaiyal.md`; native four-star transition; structural order corrected without lexical change |
+| 323 | 319 | chapter 36 | verified | `../pages/0323-pudhaiyal.md` |
+| 324 | 320 | chapter 36 closes / chapter 37 begins | verified | `../pages/0324-pudhaiyal.md` |
+| 325 | 321 | chapter 37 | verified | `../pages/0325-pudhaiyal.md` |
+| 326 | 322 | chapter 37 | verified | `../pages/0326-pudhaiyal.md` |
+| 327 | 323 | chapter 37 | verified | `../pages/0327-pudhaiyal.md` |
+| 328 | 324 | chapter 37 | verified | `../pages/0328-pudhaiyal.md` |
+| 329 | 325 | chapter 37 | verified | `../pages/0329-pudhaiyal.md` |
+| 330 | 326 | chapter 37 / internal transition / close | verified | `../pages/0330-pudhaiyal.md`; four-star transition + closing rule |
+| 331 | 327 | chapter 38 begins | verified | `../pages/0331-pudhaiyal.md` |
+| 332 | 328 | chapter 38 | verified | `../pages/0332-pudhaiyal.md` |
+| 333 | 329 | chapter 38 | verified | `../pages/0333-pudhaiyal.md` |
+| 334 | 330 | chapter 38 | verified | `../pages/0334-pudhaiyal.md` |
+| 335 | 331 | chapter 38 | verified | `../pages/0335-pudhaiyal.md` |
+| 336 | 332 | chapter 38 | verified | `../pages/0336-pudhaiyal.md` |
+| 337 | 333 | chapter 38 | verified | `../pages/0337-pudhaiyal.md` |
+| 338 | 334 | chapter 38 | verified | `../pages/0338-pudhaiyal.md` |
+| 339 | 335 | chapter 38 | verified | `../pages/0339-pudhaiyal.md` |
+| 340 | 336 | chapter 38 closes / chapter 39 begins | verified | `../pages/0340-pudhaiyal.md` |
+| 341 | 337 | chapter 39 | verified | `../pages/0341-pudhaiyal.md` |
+| 342 | 338 | chapter 39 | verified | `../pages/0342-pudhaiyal.md` |
+| 343 | 339 | chapter 39 / Part-007 open endpoint | verified | `../pages/0343-pudhaiyal.md`; ends mid-utterance at `அதிர்ஷ்` |
 
-## Verified structure through scan 317
+## Canonical / structural result
 
-- scan **295 / printed 291** directly continues scan 294's open dialogue: `‘லாக்` + `அப்’பில்` → `‘லாக் அப்’பில்`;
-- scan 295 ends with a source-printed four-star internal transition;
-- scan **297 / printed 293** closes chapter 33 and begins chapter 34 under a horizontal rule and source heading `34`;
-- scan **302→303** physically joins `பெற்` + `றான்` → `பெற்றான்`;
-- scans **304–305** each contain a complete source-visible lexical word omitted by `p7.md`; both remain `needs-review` without silent source insertion;
-- scan **306** closes chapter 34 with a source horizontal rule;
-- scan **307** begins chapter 35 and scan **307→308** continues `‘மிருகம்’` → `பதுங்கி விட்டது.`;
-- scan **310** contains a source-printed `* * * *` internal transition;
-- scan **311** begins `தென்று`, completing physical `போவ` + `தென்று` → `போவதென்று`;
-- scan **313→314** continues `தன் படுக்கையைத்` → `திண்ணையிலே விரித்துக் கொண்டான்...`;
-- scan **315** contains a third Part-007 complete lexical omission: source-visible `சரி...... வா! வா!......` is absent from `p7.md`; record remains `needs-review` without source insertion;
-- scan **315→316** physically joins `அவர்` + `கள்` → `அவர்கள்`;
-- scan **316→317** continues `“அகப்பட்டுக் கொண்டோம்!”` → `என்ற ஏக்கத்தோடு...`;
-- scan **317** closes chapter 35 and begins chapter **36** under a horizontal rule and heading `36`; it ends `பரிமளா பங்களாவிலே`;
-- scan **343 / printed 339** endpoint spot-check ends mid-utterance at `அதிர்ஷ்`; it is not a chapter/novel ending.
+- all **49 / 49** Part-007 scans now have canonical records;
+- **46 / 49** are verified;
+- only scans **304, 305 and 315** remain `needs-review`, each because `p7.md` omits a complete source-visible lexical word/span;
+- no additional complete baseline omission was found on scans **318–343**;
+- scan **322** required only a native structural-order correction, moving the unchanged `விடியற்காலை...` supplied span after the overnight dialogue and four-star transition;
+- scan **324** closes chapter 36 and opens **37**;
+- scan **330** contains a four-star internal transition and closes chapter 37 at the foot rule;
+- scan **331** begins **38**;
+- scan **340** closes chapter 38 and opens **39**;
+- scan **343** ends at open `அதிர்ஷ்`, so Part 007 is not the chapter/novel ending;
+- scan 343 retains baseline lexical `అది` despite native Tamil `அது`, because the policy forbids source-correcting a supplied lexical form.
 
 ## Fidelity records
 
@@ -105,7 +101,8 @@ The Part-006→007 derivative boundary is provenance only. Scan 294 ends at open
 - scans 303–307: `../notes/visual-fidelity-scans-303-307.md`
 - scans 308–312: `../notes/visual-fidelity-scans-308-312.md`
 - scans 313–317: `../notes/visual-fidelity-scans-313-317.md`
+- scans 318–343: `../notes/visual-fidelity-scans-318-343.md`
 
 ## Exact next activity
 
-Process scan **318 / printed 314** in chapter 36 from the `p7.md` lexical baseline and native Part-007 page 24. Verify the open continuation `பரிமளா பங்களாவிலே` → `இருந்ததால் புலனாகிவிட்டது...`, then continue sequentially through Part 007. The Part-007 Tamil audit remains blocked until scans 318–343 are reconciled and the three lexical omissions at scans **304–305 and 315** are explicitly resolved/dispositioned.
+Obtain explicit disposition for the three Part-007 lexical omissions at scans **304, 305 and 315**. After those records are resolved or explicitly accepted as qualified exceptions, run the **Part-007 Tamil audit across scans 295–343**. Do not begin assembled Tamil or English before that audit passes.
