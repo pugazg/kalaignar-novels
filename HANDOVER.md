@@ -11,7 +11,7 @@
 
 Native scans control page identity, punctuation, quotation marks, paragraph/section structure, physical boundaries, separators and chapter/scene transitions.
 
-From scan **280 onward**, user-supplied Gemini transcription controls lexical words/forms. Part 007 uses `p7.md`; Part 008 uses `p8.md`. Source/split PDFs and uploaded baseline files are never committed.
+From scan **280 onward**, user-supplied Gemini transcription controls lexical words/forms. Part 007 uses `p7.md`; Part 008 uses `p8.md`. Complete source-visible lexical spans absent from the supplied baseline must be quarantined rather than silently inserted. Source/split PDFs and uploaded baseline files are never committed.
 
 ## Source identity — புதையல்
 
@@ -25,7 +25,7 @@ From scan **280 onward**, user-supplied Gemini transcription controls lexical wo
 
 - Parts 001–006: part-complete
 - Part 007 scans 295–343: **part-complete**
-- Part 008 scans 344–392: **Tamil audit PASSED / assembled Tamil next**
+- Part 008 scans 344–392: **49/49 canonical; scan 384 needs-review; Tamil audit reopened**
 
 Part-005 source-damage qualification remains on scans **215–219 and 223–224**.
 
@@ -38,41 +38,39 @@ Derivative: `TVA_BOK_0064097_புதையல்_part_008_pages_344-392.pdf`
 - SHA-256 `717d3ab75eb970313062e1e61517d442cffa188f2fd8cadb8f75263b5e9a8852`
 - `p8.md` SHA-256 `aad52bdfeae873459d561a52826f4787fd04f72ac1c27886212a1942d8e89ca2`
 - canonical **49 / 49**
-- verified **49 / 49**
-- Part-008 needs-review **0**
-- Tamil audit **PASSED**
+- verified **48 / 49**
+- Part-008 needs-review **1 — scan 384 / printed 380**
+- Tamil audit **REOPENED / BLOCKED**
 - page map `works/pudhaiyal/indexes/part-008-page-map.md`
-- fidelity `works/pudhaiyal/notes/visual-fidelity-scans-344-392.md`
 - Tamil audit `works/pudhaiyal/notes/part-008-tamil-audit.md`
 
-### Proven structural progression
+### Missed lexical omission discovered during assembly
 
-- Part 007→008: `அதிர்ஷ்` + `டம்` → **`அதிர்ஷ்டம்`**;
-- Chapter 39 closes scan 347;
-- Chapter 40 begins 348;
-- Chapter 41 begins 355;
-- Chapter 42 begins 362;
-- Chapter 43 begins 369;
-- Chapter 44 begins 376;
-- Chapter 45 begins 387 and remains open through scan 392;
-- native four-star transitions include scans 372, 373 and 381;
-- scan 381 uses a structure-only paragraph relocation;
-- scan 390 uses structure-only order `அதெல்லாம் எதற்கு வீண் கதை!`;
-- scan 392 ends open at **`நமது`**.
+Native scan **384 / printed 380** contains complete phrase **`தகட்டில் இருக்கிறபடி`** between `எங்கும் ஓடிவிடாமல்!` and `அவளுக்கு ஒரு மாப்பிள்ளை...`. The controlling `p8.md` baseline omits it. The earlier canonical page had incorrectly source-filled the phrase; that insertion has been removed and scan 384 is now `needs-review` pending explicit user disposition.
 
-No complete Part-008 `p8.md` lexical omission was found.
+The earlier Part-008 Tamil-audit PASS is withdrawn.
+
+### Assembled Tamil progress
+
+- Chapter 39 has been extended through scan 347, joining Part 007 `அதிர்ஷ்` + Part 008 `டம்` as **`அதிர்ஷ்டம்`**;
+- assembled Chapters **40, 41, 42 and 43** are created;
+- Chapter 43 preserves the native four-star transitions and closes on scan 376;
+- Chapter 44 is gated because it contains scan 384;
+- Chapter 45 and the assembled-Tamil consistency check remain pending behind the same gate.
+
+Other structural findings remain valid: scan 381 has a structure-only paragraph relocation; scan 390 uses structure-only order `அதெல்லாம் எதற்கு வீண் கதை!`; scan 392 ends Chapter 45 open at `நமது`.
 
 ## Aggregate durable state
 
 - canonical records: **392**
-- verified/completed: **385**
-- needs-review: **7 — only Part 005 scans 215–219 and 223–224**
+- verified/completed: **384**
+- needs-review: **8 — Part 005 scans 215–219, 223–224 plus Part 008 scan 384**
 - partial: **0**
-- assembled Tamil: through scan **343**
+- assembled Tamil: continuous through **Chapter 43 close on scan 376**
 - source-checked/bilingual-reviewed English: through scan **343**
 - received source coverage: through scan **392 / printed 388**
 - whole-work gates: not eligible
 
 ## Exact next activity
 
-Build and consistency-check the **Part-008 assembled Tamil reading layer** from audited scans **344–392**. Continue Chapter 39 across the Part-007 boundary, assemble Chapters 40–45, preserve all audited internal transitions/joins, and leave Chapter 45 open at `நமது`. Only after assembled Tamil passes should controlled English begin.
+Obtain explicit user disposition for scan 384 source phrase **`தகட்டில் இருக்கிறபடி`**. If authorized, restore it, mark scan 384 verified, rerun the Part-008 Tamil audit, finish assembled Chapters 44–45, run the Part-008 assembled-Tamil consistency check, and only then begin controlled English.
