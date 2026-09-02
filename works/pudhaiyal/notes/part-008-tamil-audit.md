@@ -9,27 +9,29 @@ Lexical baseline: uploaded `p8.md`
 
 ## Verdict
 
-**PART-008 TAMIL AUDIT: REOPENED / BLOCKED — lexical omission disposition required at scan 384**
+**PART-008 TAMIL AUDIT: PASSED**
 
-The earlier PASS verdict is withdrawn. During assembled-Tamil construction, a missed complete source-visible lexical omission was detected on scan **384 / printed 380**.
+## Authorized lexical restoration
 
-## Reopened lexical issue
-
-Native scan 384 contains the phrase:
+During assembled-Tamil construction, native scan **384 / printed 380** was found to contain complete phrase:
 
 `தகட்டில் இருக்கிறபடி`
 
-between `எங்கும் ஓடிவிடாமல்!` and `அவளுக்கு ஒரு மாப்பிள்ளை...`.
+between `எங்கும் ஓடிவிடாமல்!` and `அவளுக்கு ஒரு மாப்பிள்ளை...`. The controlling `p8.md` baseline omits that complete phrase.
 
-The controlling `p8.md` baseline omits that complete phrase. The earlier canonical scan-384 record had incorrectly source-filled it. That unauthorized insertion has now been removed; scan 384 is `needs-review` pending explicit user disposition.
+The user explicitly authorized insertion of **`தகட்டில் இருக்கிறபடி`** on 2026-09-02. The phrase is therefore restored narrowly in canonical scan 384, which has returned to `verified`.
 
-## Current gate checks
+This authorization applies only to that documented omission. It does **not** broaden the scan-280-onward lexical-authority rule.
+
+## Gate checks
 
 - physical page mapping: **PASS — 49 / 49**
 - canonical page records: **PASS — 49 / 49**
-- verified statuses: **48 / 49**
-- Part-008 `needs-review`: **1 — scan 384 only**
-- known complete baseline omissions: **1 — `தகட்டில் இருக்கிறபடி` on scan 384**
+- verified statuses: **PASS — 49 / 49**
+- Part-008 `needs-review`: **0**
+- complete baseline omissions found: **1**
+- complete baseline omissions unresolved: **0**
+- authorized source-visible restorations: **1 — scan 384 `தகட்டில் இருக்கிறபடி`**
 - Part-007→008 `அதிர்ஷ்` + `டம்` continuity: **PASS**
 - chapter landmarks 39→45: **PASS**
 - internal native separators/transitions: **PASS**
@@ -38,10 +40,22 @@ The controlling `p8.md` baseline omits that complete phrase. The earlier canonic
 - scan-390 structure-only ordering correction: **PASS**
 - open scan-392 endpoint at `நமது`: **PASS**
 
-## Assembled-Tamil consequence
+## Structural progression
 
-Assembled Chapters **39–43** have been built from unaffected audited canonical material. Chapter **44** includes scan 384 and therefore must not be finalized until the omission receives explicit disposition. Chapter 45 remains pending behind that gate.
+- Chapter 39 continues from Part 007 and closes scan 347;
+- Chapter 40 begins scan 348 and closes scan 355;
+- Chapter 41 begins scan 355 and closes scan 362;
+- Chapter 42 begins scan 362 and closes scan 369;
+- Chapter 43 begins scan 369 and closes scan 376;
+- Chapter 44 begins scan 376 and closes scan 387;
+- Chapter 45 begins scan 387 and remains open through scan 392.
+
+The derivative endpoint is provenance only. Scan 392 is **not** treated as a chapter or novel ending.
+
+## Assembled Tamil
+
+The Part-008 assembled reading layer is complete through the received endpoint and its consistency check **PASSED**. See [`part-008-assembled-tamil-audit.md`](part-008-assembled-tamil-audit.md).
 
 ## Next gate
 
-Obtain explicit user disposition for scan 384 `தகட்டில் இருக்கிறபடி`. If authorized, restore that source-visible phrase, return scan 384 to `verified`, rerun this Tamil audit, then finish assembled Chapters 44–45 and the Part-008 assembled-Tamil consistency check. Do not begin controlled English until the assembled-Tamil check passes.
+Begin **controlled English translation** for the assembled Tamil represented by scans **344–392**, preserving the same structural transitions and the open Chapter-45 endpoint at `நமது`. Do not infer source text beyond scan 392.
