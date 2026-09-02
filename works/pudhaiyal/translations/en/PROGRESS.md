@@ -48,6 +48,14 @@
 | Chapter 32 | 278 portion–288 portion | assembled / Part-006 check PASSED | bilingual-reviewed |
 | Chapter 33, Part 006 portion | 288 portion–294 | assembled / open derivative boundary | bilingual-reviewed / open derivative boundary |
 | **Part 006 checkpoint** | **246–294** | **Tamil audit + assembled consistency check PASSED** | **controlled English source check + bilingual review PASSED / part-complete** |
+| Chapter 33, Part 007 continuation | 295–297 portion | assembled / Part-007 check PASSED | **source-checked** |
+| Chapter 34 | 297 portion–306 | assembled / Part-007 check PASSED | **source-checked** |
+| Chapter 35 | 307–317 portion | assembled / Part-007 check PASSED | **source-checked** |
+| Chapter 36 | 317 portion–324 portion | assembled / Part-007 check PASSED | **source-checked** |
+| Chapter 37 | 324 portion–330 | assembled / Part-007 check PASSED | **source-checked** |
+| Chapter 38 | 331–340 portion | assembled / Part-007 check PASSED | **source-checked** |
+| Chapter 39, Part 007 portion | 340 portion–343 | assembled / open derivative boundary | **source-checked / open derivative boundary** |
+| **Part 007 checkpoint** | **295–343** | **Tamil audit + assembled consistency check PASSED** | **controlled English source check PASSED; bilingual review pending** |
 
 Review/check records:
 
@@ -56,8 +64,9 @@ Review/check records:
 - [`PART_003_REVIEW.md`](PART_003_REVIEW.md)
 - [`PART_004_REVIEW.md`](PART_004_REVIEW.md)
 - [`PART_005_REVIEW.md`](PART_005_REVIEW.md)
-- [`PART_006_ENGLISH_CHECK.md`](PART_006_ENGLISH_CHECK.md) — controlled English source check
-- [`PART_006_REVIEW.md`](PART_006_REVIEW.md) — bilingual review PASSED / Part 006 `part-complete`
+- [`PART_006_ENGLISH_CHECK.md`](PART_006_ENGLISH_CHECK.md)
+- [`PART_006_REVIEW.md`](PART_006_REVIEW.md)
+- [`PART_007_ENGLISH_CHECK.md`](PART_007_ENGLISH_CHECK.md) — controlled English source check **PASSED**
 
 Retrospective Tamil integrity record:
 
@@ -65,14 +74,14 @@ Retrospective Tamil integrity record:
 
 The 2026-08-30 old-glyph reinspection restored missed final `லை` forms on scan 120 and 22 readable Part-005 scans. These corrections do not change the intended negative meaning of the existing English, so the English source checks remain valid after review-document synchronization.
 
-Continuous split-level **source-checked and bilingual-reviewed English now covers scans 1–294**. The seven Part-005 damaged physical records — scans **215–219 and 223–224** — remain explicit source-damage qualifications and are not promoted to native verification by translation.
+Continuous split-level **source-checked English now covers scans 1–343**. Continuous **bilingual-reviewed English remains through scan 294** until the Part-007 bilingual review is run. The seven Part-005 damaged physical records — scans **215–219 and 223–224** — remain explicit source-damage qualifications and are not promoted to native verification by translation.
 
-The Part-006 bilingual review corrected several English-layer fidelity/consistency issues without altering Tamil: `சக்கிலிய` is retained as **Chakkili** rather than flattened to “cobbler”; an over-interpretive “decoy” rendering and an inferred “by mistake” were removed; the scan-277 source anomaly is no longer silently supplied with an object; and **Raja Madam** / glossary handling was synchronized.
+Part 007 continues Chapter 33 across the Part-006 boundary, carries Chapters 34–38 to completion and opens Chapter 39. The English source check preserves the Tamil internal transitions, the scan-322 structural placement, all three explicitly authorized omitted spans, conservative handling of Part-007 culture-specific terms, and the supplied scan-343 `అది` provenance.
 
-Part 006 continues chapter 27 from the Part-005 boundary, carries chapters 28–32 to completion, and begins chapter 33. Scan **294 / printed page 290** ends inside the Sub-Inspector's dialogue at open `‘லாக்`; the reviewed English correspondingly ends at open `‘Lock` with no invented closing punctuation or ending.
+Scan **343 / printed page 339** ends inside the fortune-teller's Tamil word at `அதிர்ஷ்`. The source-checked English correspondingly stops inside **luck** at `luc`, with no closing quotation mark or ending invented.
 
-Whole-work English status: **not verified**. The complete source extent, later source range beyond scan 294, true ending/back matter and final whole-work bilingual review remain open.
+Whole-work English status: **not verified**. Source beyond scan 343, the true ending/back matter and final whole-work bilingual review remain open.
 
 ## Exact next activity
 
-Obtain / resolve the **next source derivative beyond scan 294**. Before creating any continuation record, verify the actual next source page against the open scan-294 `‘லாக்` boundary and establish its real source-scan / printed-page mapping from the source itself. Do not assume an ending, continuation word, part range or final source extent without that material.
+Run the **Part-007 bilingual review across scans 295–343**. Compare source-checked English against canonical/assembled Tamil for semantic fidelity, dialogue coverage, names/terms, humour, violence, romance, rhetorical force, chapter/internal transitions and the deliberately open scan-343 endpoint. Only after that passes may Part 007 be marked `part-complete`.
