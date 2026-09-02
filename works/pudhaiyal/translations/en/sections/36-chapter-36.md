@@ -57,7 +57,7 @@ The night play began. Though I was working as a volunteer, all my attention rema
 
 When her husband Sher Khan was killed, the flood of grief that overwhelmed that beauty, and the tears she shed when she thought that her own beauty had been the cause of his death—ah! Even now the memory makes me shiver.
 
-Then came the stage where she became the enchantress of Emperor Jahangir's bedchamber—the ruler who had bound himself to chase life through dance, song and intoxication—and afterward her skill in governing the land. Everything was marvellous! Marvellous! Not only in history, but even on the stage!
+Then came the stage where she became the enchantress of the ruler Jahangir's bedchamber—the ruler who had bound himself to chase life through dance, song and intoxication—and afterward her skill in governing the land. Everything was marvellous! Marvellous! Not only in history, but even on the stage!
 
 The beautiful performer who played that flower-bearing maiden received endless praise. Again and again came cries of “Sabash!” and applause.
 
