@@ -23,7 +23,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 004 | 148–196 | 146–194 | **part-complete** |
 | 005 | 197–245 | 195–241 | **part-complete with 7 source-damage qualifications** |
 | 006 | 246–294 | 242–290 | **part-complete** |
-| 007 | 295–343 | 291–339 | **49/49 verified; Tamil audit + assembled-Tamil + controlled-English source check PASSED; bilingual review next** |
+| 007 | 295–343 | 291–339 | **part-complete** |
 
 ### Part-007 derivative byte record
 
@@ -38,6 +38,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 - Tamil audit: [`../notes/part-007-tamil-audit.md`](../notes/part-007-tamil-audit.md)
 - assembled-Tamil check: [`../notes/part-007-assembled-tamil-check.md`](../notes/part-007-assembled-tamil-check.md)
 - English source check: [`../translations/en/PART_007_ENGLISH_CHECK.md`](../translations/en/PART_007_ENGLISH_CHECK.md)
+- bilingual review: [`../translations/en/PART_007_REVIEW.md`](../translations/en/PART_007_REVIEW.md)
 
 No split PDF or uploaded baseline file is committed.
 
@@ -53,7 +54,7 @@ For Part 007, `p7.md` is the lexical baseline for printed pages 291–339. Three
 
 No other lexical source-correction is authorized. Scan 343 therefore retains supplied `అది` despite native Tamil `அது`.
 
-## Part-007 current result
+## Part-007 final result
 
 - canonical records: **49 / 49 — scans 295–343**
 - verified: **49 / 49**
@@ -62,14 +63,13 @@ No other lexical source-correction is authorized. Scan 343 therefore retains sup
 - Tamil audit: **PASSED**
 - assembled-Tamil consistency check: **PASSED**
 - controlled English source check: **PASSED**
-- assembled Tamil: **through scan 343 / printed 339**
-- source-checked English: **through scan 343 / printed 339**
-- bilingual review: **pending**
-- state: **`english-source-checked / bilingual-review-next`**
+- bilingual review: **PASSED**
+- assembled Tamil / source-checked / bilingual-reviewed English: **through scan 343 / printed 339**
+- state: **`part-complete`**
 
 Structural progression is verified, assembled and translated through Chapter 39: chapter 34 opens scan 297, chapter 35 scan 307, chapter 36 scan 317, chapter 37 scan 324, chapter 38 scan 331 and chapter 39 scan 340. Internal source transitions are retained, including the scan-322 `விடியற்காலை...` placement after the overnight dialogue.
 
-Scan **343 / printed 339** ends mid-utterance at open Tamil `அதிர்ஷ்`, with no closing punctuation. Source-checked English correspondingly ends inside `luck` at `luc`. It is an access-derivative endpoint only.
+Scan **343 / printed 339** ends mid-utterance at open Tamil `அதிர்ஷ்`, with no closing punctuation. Reviewed English correspondingly ends inside `luck` at `luc`. It is an access-derivative endpoint only, and Part 007 being complete at split level does not establish a novel ending.
 
 ## Aggregate state
 
@@ -77,21 +77,19 @@ Scan **343 / printed 339** ends mid-utterance at open Tamil `அதிர்ஷ�
 - verified/completed: **336**
 - needs-review: **7 — scans 215–219 and 223–224 only**
 - partial: **0**
-- Parts 001–006: **part-complete**
-- Part 007: **English source check PASSED; bilingual review pending**
+- Parts 001–007: **part-complete** at split level
 - assembled Tamil: through scan **343**
-- source-checked English: through scan **343**
-- bilingual-reviewed English: through scan **294**
+- source-checked and bilingual-reviewed English: through scan **343**
 - received source range: through scan **343 / printed 339**
 
 ## Completeness still open
 
-- Part-007 bilingual review;
 - source beyond scan 343, because the derivative ends mid-utterance;
 - true ending / back matter;
 - exact full scan-object count;
-- original full-source SHA-256.
+- original full-source SHA-256;
+- final whole-work Tamil / bilingual / release audits after complete source coverage.
 
 ## Exact next action
 
-Run the **Part-007 bilingual review across scans 295–343**. Only after it passes may the split be marked `part-complete`; source beyond scan 343 must then be obtained and verified.
+Obtain / resolve the **next source derivative beyond scan 343** and verify its opening against the open `அதிர்ஷ்` boundary before assigning continuation text, page mapping or a new part range.
