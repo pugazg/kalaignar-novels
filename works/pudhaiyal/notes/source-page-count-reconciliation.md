@@ -18,7 +18,15 @@ Current received derivative coverage:
 
 ## Authority distinction from scan 280 onward
 
-Supplied Gemini transcription controls lexical wording/forms/spacing; native scans control headings, punctuation, quotations, paragraphing, physical boundaries, separators and chapter/scene structure. Supplied lexical omissions are flagged rather than silently source-filled. For Part 007, uploaded `p7.md` is controlling.
+Supplied Gemini transcription controls lexical wording/forms/spacing; native scans control headings, punctuation, quotations, paragraphing, physical boundaries, separators and chapter/scene structure. For Part 007, uploaded `p7.md` is controlling.
+
+The three complete source-confirmed `p7.md` omissions were restored only after the user's explicit 2026-09-02 instruction **`insert all three omissions`**:
+
+- scan 304 — `நீ`;
+- scan 305 — `என்ன`;
+- scan 315 — `சரி...... வா! வா!......`.
+
+No broader lexical source-correction is authorized. Scan 343 therefore retains supplied `అది` despite native Tamil `அது`.
 
 ## Split-source state
 
@@ -28,11 +36,11 @@ Supplied Gemini transcription controls lexical wording/forms/spacing; native sca
 4. Part 004 — scans **148–196** — part-complete
 5. Part 005 — scans **197–245** — part-complete with source-damage qualification
 6. Part 006 — scans **246–294 / printed 242–290** — part-complete
-7. Part 007 — scans **295–343 / printed 291–339** — **canonical-complete**
+7. Part 007 — scans **295–343 / printed 291–339** — **Tamil audit PASSED**
    - canonical: **49 / 49**
-   - verified: **46 / 49**
-   - needs-review: **3 — scans 304, 305, 315**
-   - not-started: **0**
+   - verified: **49 / 49**
+   - Part-007 needs-review: **0**
+   - assembled Tamil: **next**
 
 Part-006→007 continuity is conclusively `‘லாக்` + `அப்’பில்` → **`‘லாக் அப்’பில்`**.
 
@@ -48,18 +56,16 @@ Part-006→007 continuity is conclusively `‘லாக்` + `அப்’ப�
 - chapter 39 opens scan 340
 - scan 343 ends open at `அதிர்ஷ்`, so Part 007 is not a true ending
 
-The three Part-007 complete-baseline omissions remain scan 304 `நீ`, scan 305 `என்ன`, and scan 315 `சரி...... வா! வா!......`. None was silently inserted.
-
-Scan 343 also retains supplied lexical `అది` despite native Tamil `அது`, in accordance with the lexical-authority rule.
+Tamil audit record: [`part-007-tamil-audit.md`](part-007-tamil-audit.md).
 
 ## Current textual / derivative state
 
 - canonical records: **343**
-- verified/completed: **333**
-- needs-review: **10 — Part 005 scans 215–219, 223–224; Part 007 scans 304, 305, 315**
+- verified/completed: **336**
+- needs-review: **7 — only Part 005 scans 215–219 and 223–224**
 - partial: **0**
 - Parts 001–006: **part-complete**
-- Part 007: **canonical-complete; Tamil audit pending omission disposition**
+- Part 007: **Tamil audit PASSED**
 - assembled Tamil: **through scan 294**
 - source-checked / bilingual-reviewed English: **through scan 294**
 - physically represented source coverage: **through scan 343 / printed 339**
@@ -69,15 +75,14 @@ Scan 343 also retains supplied lexical `అది` despite native Tamil `அத�
 
 Still required:
 
-1. explicitly disposition Part-007 omissions 304, 305, 315;
-2. run Part-007 Tamil audit, assembled-Tamil check, English source check and bilingual review;
-3. obtain source beyond scan 343 and verify continuation from open `அதிர்ஷ்`;
-4. process all later source scans and true ending/back matter;
-5. determine exact original PDF scan/page-object count and SHA-256;
-6. only after complete-source coverage, run final whole-work Tamil/bilingual/release audits.
+1. complete Part-007 assembled-Tamil check, English source check and bilingual review;
+2. obtain source beyond scan 343 and verify continuation from open `அதிர்ஷ்`;
+3. process all later source scans and true ending/back matter;
+4. determine exact original PDF scan/page-object count and SHA-256;
+5. only after complete-source coverage, run final whole-work Tamil/bilingual/release audits.
 
 Do not infer final source extent or ending from the TDL printed-page count or repeated derivative sizes.
 
 ## Exact next activity
 
-Explicitly disposition scans **304, 305 and 315**, then run the **Part-007 Tamil audit across scans 295–343**.
+Build and consistency-check the **Part-007 assembled Tamil reading layer across scans 295–343**, preserving all audited joins/transitions and leaving Chapter 39 open at `அதிர்ஷ்`.
