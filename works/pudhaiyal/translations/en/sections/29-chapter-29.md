@@ -53,7 +53,7 @@ Another hard blow landed on Dukkaram's back.
 
 “Lies! Lies!! You know very well where the gold has been buried. Tell me! Otherwise I will strip the skin from your back and make sandals from it.”
 
-“Oh-ho-ho! Are you a cobbler ghost? Swami! Swami! If you want sandals, I will buy you a thousand pairs. Don't strip my skin for nothing!”
+“Oh-ho-ho! Are you a Chakkili ghost? Swami! Swami! If you want sandals, I will buy you a thousand pairs. Don't strip my skin for nothing!”
 
 “I won't stop with the skin. I will break your legs too. I will pluck out your eyes like fruit. I will twist off your head like a palmyra fruit. What do you say? Will you show me where the gold is?”
 
@@ -89,7 +89,7 @@ Only after he understood that some murderer had deceived him by using Parimalam'
 
 “I wondered even then why this man was working so hard to make love grow between Parimalam and me. Only now do I understand! Ayyo, clarity arrives at the very moment my life is leaving!”
 
-The pitiable young man lamented inwardly. Even Parimalam, had she seen his miserable condition directly, might have felt sorry and wondered why she had unnecessarily used him as a decoy.
+The pitiable young man lamented inwardly. Even Parimalam, had she seen his miserable condition directly, might have felt sorry and wondered why she had needlessly betrayed him.
 
 “Sir! What is all this? I don't understand anything!” Dukkaram begged, looking at Velliyambalam.
 
@@ -141,7 +141,7 @@ Dukkaram became certain that there was no way out. A tiny thought arose in his m
 
 “Hey—hey—are you lying? I heard with these very ears what you told your beloved: ‘The gold is buried under this mango tree.’”
 
-Dukkaram understood nothing, but he managed to keep up the act. He realised that Velliyambalam had overheard someone else's conversation, had somehow dragged him into it by mistake and was now trying to take his life, all for the treasure supposed to be in that place. Once he understood that, deceiving Velliyambalam seemed easy.
+Dukkaram understood nothing, but he managed to keep up the act. He realised that Velliyambalam had overheard someone else's conversation, had somehow dragged him into it and was now trying to take his life, all for the treasure supposed to be in that place. Once he understood that, deceiving Velliyambalam seemed easy.
 
 “The treasure really is here. The mango-tree part is also correct. But there is one thing. If the treasure is to come out, a magic plate has to be placed there and a mantra recited. If you dig where the treasure lies without that magic plate, that is the end—the person will be done for,” Dukkaram poured out grandly.
 
