@@ -5,7 +5,7 @@ section_order: 40
 section_title: "Chapter 40"
 language: "en"
 source_scans: "348-355 (chapter-40 portion)"
-status: "draft-translated-part-008"
+status: "source-checked-part-008"
 derived_from: "audited Tamil pages and checked assembled sections/40-chapter-40.md"
 ---
 
