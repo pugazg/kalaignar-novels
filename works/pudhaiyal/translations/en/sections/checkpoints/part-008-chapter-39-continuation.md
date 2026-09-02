@@ -4,13 +4,13 @@ layer: "english-translation-checkpoint"
 section_title: "Chapter 39 — Part 008 continuation completing chapter"
 language: "en"
 source_scans: "344-347"
-status: "draft-translated-part-008"
+status: "source-checked-part-008"
 continuation_of: "../39-chapter-39.md"
 ---
 
 <!-- CROSS-SPLIT JOIN: Part 007 English ends inside `luck` at `luc`; Part 008 scan 344 continues below. Tamil `அதிர்ஷ்` + `டம்` establishes the complete word `அதிர்ஷ்டம்`. -->
 
-k is going to strike Ayya! A torn cloth—something old, silk, a skirt—Saibu says it must be given to him with your golden hand.”
+k is going to strike Ayya! A torn cloth—something old, silk, a skirt—Saibu says it must be given to Saibu with your golden hand.”
 
 Kudukuduppandi's words gave Ambalam fresh confidence. The man he meant must be Mayandi. It was old Mayandi who was going to try to take the treasure. Ambalam decided within himself that he must wait for that moment and catch him.
 
