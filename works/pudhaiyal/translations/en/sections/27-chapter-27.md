@@ -4,9 +4,9 @@ layer: "english-translation"
 section_order: 27
 section_title: "Chapter 27"
 language: "en"
-source_scans: "241-245"
-status: "source-checked-through-part-005-open-boundary"
-derived_from: "audited Tamil pages and sections/27-chapter-27.md"
+source_scans: "241-247 (chapter-27 portion)"
+status: "draft-translated-part-006-extension"
+derived_from: "audited Tamil pages and checked sections/27-chapter-27.md"
 ---
 
 # 27
@@ -85,6 +85,38 @@ Thandavan's heart went thud-thud with fear. In this place where conditions for m
 
 “You will not find a palmist like that. If such palmists existed, the police would not need dogs to help them. Those fortune-tellers alone would be enough!”
 
-“Why all this trouble? I shall find out right now whose hand this is! There must be—”
+“Why all this trouble? I shall find out right now whose hand this is! Parimalam is right here; let her tell us whose hand it is!”
 
-<!-- PART 005 ENDS HERE: scan 245 / printed 241. The sentence and chapter 27 remain open. Continue only from scan 246 / printed 242 native source evidence. -->
+<!-- Part 005 → Part 006 source split: scan 245 / printed 241 → scan 246 / printed 242. The Tamil sentence is continuous across the derivative boundary. -->
+
+“Yes, that's right. Parimalam may know whose hand this is. She can tell us easily,” one policeman agreed.
+
+“Parimalam! You tell us—whose hand is this?” the police officer asked, turning toward her.
+
+What a surprise! Somehow Parimalam, who had been standing there, had slipped away and run. While they were exchanging theories over the severed hand, she had seized the opportunity and escaped.
+
+“Parimalam!” Thandavan shouted angrily.
+
+The police could hardly bear their humiliation and distress. After wandering about with such difficulty, they lamented that they had let the woman they had finally caught slip out of their hands.
+
+“Where could she have gone? Find her at once!” the police officer ordered the others, then sat down wearily with his hand against his cheek.
+
+* * * *
+
+In that darkness Parimalam walked without knowing her direction. Where had her beloved and the old man gone? How was she to find them? And what if, while searching for them, she fell into the hands of the police again?
+
+<!-- source scan 246 / printed 242 -->
+
+These thoughts churned endlessly in Parimalam's heart. She went wherever her feet carried her—ran for a while, walked a little, then ran again—planning only to get somewhere and hide before dawn. As if echoing the tumult in her heart, she heard the roar of the river rushing in flood.
+
+She had come far from the village. It was the river between Puduppattinam village and the place called Raja Madam. Parimalam had to cross that river. She wondered what to do.
+
+Even as she stood thinking, she saw figures approaching in the distance. Yes—two people. They were coming toward her. She desperately wished that they might be her beloved and old Mayandi.
+
+The figures came closer.
+
+“It looks like my beloved's shape!” she told herself, trying to take comfort.
+
+The two figures drew nearer still. Parimalam stood without blinking, staring at them.
+
+<!-- source scan 247 / printed 243: chapter 27 closes here; chapter 28 begins on the same physical page. -->
