@@ -12,7 +12,7 @@ Result: **verified; 0 needs-review**
 
 - chapter 32 continues with a dialogue-heavy page;
 - the opening physically completes the cross-page word `பரி` / `மளாவையும்`;
-- native quotation and punctuation structure is restored around the Tاندவன் exchange without altering Gemini wording;
+- native quotation and punctuation structure is restored around the தாண்டவன் exchange without altering Gemini wording;
 - source dash structures include `உண்மைதான்—கையிலே` and `ஆமாம்—புதுப்பட்டினத்திலே`;
 - the final long dialogue closes on this physical page at `வீடு என்று தெரிந்தது.”`.
 
