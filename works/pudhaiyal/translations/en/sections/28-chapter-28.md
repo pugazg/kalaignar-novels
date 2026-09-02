@@ -5,7 +5,7 @@ section_order: 28
 section_title: "Chapter 28"
 language: "en"
 source_scans: "247 (chapter-28 portion)-254 (chapter-28 portion)"
-status: "draft-translated-part-006"
+status: "source-checked-part-006"
 derived_from: "audited Tamil pages and checked sections/28-chapter-28.md"
 ---
 
