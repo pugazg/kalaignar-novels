@@ -5,7 +5,7 @@ section_order: 33
 section_title: "Chapter 33"
 language: "en"
 source_scans: "288 (chapter-33 portion)-297 (chapter-33 portion)"
-status: "draft-translated-through-part-007"
+status: "source-checked-through-part-007"
 derived_from: "audited Tamil pages and checked assembled sections/33-chapter-33.md"
 ---
 
