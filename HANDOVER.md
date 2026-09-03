@@ -31,54 +31,59 @@ Complete source-visible lexical spans absent from the baseline require explicit 
 ## Durable split state
 
 - Parts 001–008: **part-complete**
-- Part 009 scans **393–441 / printed 389–437**: **canonical in progress — 10 / 49 verified**
-- Part 010 scans **442–448**: **source intake complete / canonical after Part 009**
+- Part 009 scans **393–441 / printed 389–437**: **Tamil audit PASSED — 49 / 49 verified**
+- Part 010 scans **442–448**: **canonical complete — 7 / 7 represented; 6 verified, scan 445 needs-review**
 
 Part-005 source-damage qualification remains on scans **215–219 and 223–224**.
 
 ## Parts 009–010 checkpoint
 
-Part 009 source identity/checksums and map are recorded in:
+Part 009:
 
-- `works/pudhaiyal/notes/part-009-source-intake.md`
-- `works/pudhaiyal/indexes/part-009-page-map.md`
+- page map: `works/pudhaiyal/indexes/part-009-page-map.md`
+- audit: `works/pudhaiyal/notes/part-009-tamil-audit.md`
+- result: **49 / 49 verified, 0 needs-review, Tamil audit PASSED**
+- no complete `p9.md` lexical omission found
+- baseline-only structure marks rejected: `⚬` scan 416; `*` scan 435
 
-Part 010 source identity/checksums and map are recorded in:
+Part 010:
 
-- `works/pudhaiyal/notes/part-010-source-intake.md`
-- `works/pudhaiyal/indexes/part-010-page-map.md`
+- page map: `works/pudhaiyal/indexes/part-010-page-map.md`
+- audit: `works/pudhaiyal/notes/part-010-tamil-audit.md`
+- result: **7 / 7 canonical; 6 verified; 1 needs-review — scan 445 / printed 441**
 
 Verified source boundaries:
 
 - Part 008→009: `நமது` + `வாழ்க்கையை` → **`நமது வாழ்க்கையை`**;
 - Part 009→010: `அம்ப` + `லமே` → **`அம்பலமே`**;
-- scan **447 / printed 443**: narrative ending;
+- scan **447 / printed 443**: actual narrative ending;
 - scan **448**: separate printer colophon `அன்பு அச்சகம், பொறையார்.`
 
-### Part 009 canonical frontier
+### Blocking Part-010 omission
 
-Scans **393–402 / printed 389–398** are canonical and `verified`.
+Native scan **445 / printed 441** visibly contains:
 
-- scan 396 closes Chapter 45 and opens Chapter 46;
-- physical splits such as `விவரிக்க`→`வில்லை`, `ஷோக்சுந்`→`தரி`, `அவ`→`ளுக்குத்`, and open quotation continuations are preserved at page level;
-- no complete `p9.md` lexical omission was found in scans 393–402;
-- scan 402 ends at `விடுவித்து`; scan 403 begins `விடு`.
+`தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`
 
-Part 010 canonical work must not begin until Part 009 reaches scan 441.
+The controlling `p10.md` baseline omits complete word **`விடு`**, giving only `...புதைத்து` before the closing quote.
+
+Canonical scan 445 therefore remains `needs-review` and does not silently insert `விடு`.
 
 ## Aggregate durable state
 
-- canonical records: **402**
-- verified/completed: **395**
-- needs-review: **7 — only Part 005 scans 215–219 and 223–224**
+- canonical records: **448**
+- verified/completed: **440**
+- needs-review: **8** — Part 005 scans **215–219, 223–224** plus Part 010 scan **445**
 - partial: **0**
 - assembled Tamil: continuous through **scan 392 / printed 388**
 - source-checked English: continuous through **scan 392 / printed 388**
 - bilingual-reviewed English: continuous through **scan 392 / printed 388**
 - received source coverage: through **scan 448**, including narrative ending and printer colophon
 - Parts 001–008: **part-complete**
+- Part 009: **Tamil audit PASSED; downstream assembly pending**
+- Part 010: **Tamil audit BLOCKED on one lexical omission**
 - whole-work gates: not eligible
 
 ## Exact next activity
 
-Continue **Part 009 canonical reconciliation at scan 403 / printed 399**, beginning `விடு` as the continuation of scan 402 `விடுவித்து`. Keep `p9.md` lexical wording authoritative; use the native scan only for structure/punctuation/page boundaries. Continue toward scan 441 before entering Part 010.
+Obtain explicit user disposition for native scan-445 word **`விடு`**. If authorized, insert it narrowly, return scan 445 to `verified`, rerun Part-010 Tamil audit, then build assembled Tamil continuously for Parts 009–010 from scan **393 through the narrative ending at scan 447**, preserving scan 448 separately as printer-colophon back matter.
