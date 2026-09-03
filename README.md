@@ -18,17 +18,15 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **392 canonical / 385 verified-complete / 7 needs-review; Parts 001–008 part-complete** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **392 canonical / 385 verified-complete / 7 needs-review; Parts 001–008 part-complete; Parts 009–010 received/mapped** |
 
 ### புதையல் — current source state
 
-Received derivatives cover scans **1–392**, visible printed text through **388**. Exact original scan count remains pending.
+Received derivatives now cover scans **1–448**. Printed narrative reaches page **443** on scan **447**; scan **448** is the unnumbered printer colophon **`அன்பு அச்சகம், பொறையார்.`**
 
-Part 008 has **49/49 canonical + verified records**. Native scan **384 / printed 380** contains complete phrase **`தகட்டில் இருக்கிறபடி`**, absent from controlling `p8.md`; the user explicitly authorized restoration on 2026-09-02, narrow to that omission.
+The new Part-009 and Part-010 derivatives are mapped as scans **393–441 / printed 389–437** and scans **442–448 / printed 438–443 + colophon**. Part 008 `நமது` continues with Part 009 `வாழ்க்கையை` as **`நமது வாழ்க்கையை`**; Part 009 `அம்ப` continues with Part 010 `லமே` as **`அம்பலமே`**.
 
-Part-008 Tamil audit, assembled-Tamil consistency check, controlled English source check and bilingual review all **PASSED**. Assembled Tamil and source-checked/bilingual-reviewed English now reach scan **392 / printed 388**. Chapter 39 joins Part 007 `அதிர்ஷ்` + Part 008 `டம்` as **`அதிர்ஷ்டம்`**; the English checkpoint mirrors this as `luc` + `k` → **luck**.
-
-English Chapter 44 represents the authorized scan-384 restoration exactly once as **“as the plate says.”** English Chapter 45 remains deliberately open at **`our`**, corresponding to Tamil `நமது`; no chapter or novel ending is inferred.
+The source ending is now physically received: Chapter 51 / narrative text ends on scan **447 / printed 443**, and scan 448 is separate back matter. Canonical processing for scans 393–448 is still pending, so whole-work verification/release remains blocked.
 
 Current aggregate state:
 
@@ -38,11 +36,12 @@ Current aggregate state:
 - assembled Tamil: continuous through **scan 392 / printed 388**
 - source-checked English: continuous through **scan 392 / printed 388**
 - bilingual-reviewed English: continuous through **scan 392 / printed 388**
-- received source coverage: through scan **392 / printed 388**
+- received source coverage: through **scan 448**
 - Parts 001–008: **part-complete**
+- Parts 009–010: **source intake complete / canonical pending**
 - whole-work verification/release: **not yet eligible**
 
-Exact next action: obtain or resolve the **next source derivative beyond scan 392**, verify its first page against the open `நமது` boundary, and establish the real next scan/printed-page mapping before creating continuation records.
+Exact next action: begin **Part 009 canonical reconciliation at scan 393 / printed 389**, using `p9.md` as lexical authority and the native scan as structural authority. Part 010 follows after scan 441.
 
 ## நிறைவு பெற்ற reference work
 
