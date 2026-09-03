@@ -23,7 +23,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 006 | 246–294 | 242–290 | part-complete |
 | 007 | 295–343 | 291–339 | part-complete |
 | 008 | 344–392 | 340–388 | part-complete |
-| 009 | 393–441 | 389–437 | **source intake complete / canonical next** |
+| 009 | 393–441 | 389–437 | **canonical in progress — 10 / 49 verified** |
 | 010 | 442–448 | 438–443 + colophon | **source intake complete / canonical after Part 009** |
 
 ## Authority policy
@@ -51,10 +51,12 @@ No split PDF or uploaded baseline is committed.
 - baseline SHA-256: `b0b227ba8bce1650f65a10b114f53f4601a4c7d72f5649993de20bf991071664`
 - source intake: [`../notes/part-009-source-intake.md`](../notes/part-009-source-intake.md)
 - page map: [`../indexes/part-009-page-map.md`](../indexes/part-009-page-map.md)
-- canonical: **0 / 49**
-- state: **`source-intake-complete / canonical-next`**
+- canonical: **10 / 49 — scans 393–402**
+- verified: **10 / 49**
+- Part-009 needs-review: **0**
+- state: **`canonical-in-progress`**
 
-Part-008→009 continuity is native `நமது` + `வாழ்க்கையை` → **`நமது வாழ்க்கையை`**.
+Part-008→009 continuity is native `நமது` + `வாழ்க்கையை` → **`நமது வாழ்க்கையை`**. The first ten pages were directly visually reconciled against the native derivative; no complete `p9.md` lexical omission was found in scans 393–402.
 
 ## Part 010 derivative
 
@@ -78,16 +80,17 @@ The received narrative ends on **scan 447 / printed 443**. A horizontal rule / e
 
 ## Aggregate state
 
-- canonical page records: **392**
-- verified/completed: **385**
+- canonical page records: **402**
+- verified/completed: **395**
 - needs-review: **7 — scans 215–219 and 223–224 only**
 - assembled Tamil: through scan **392 / printed 388**
 - source-checked English: through scan **392 / printed 388**
 - bilingual-reviewed English: through scan **392 / printed 388**
 - received derivative coverage: through scan **448**, including narrative ending at scan 447 and printer colophon at scan 448
 - Parts 001–008: **part-complete**
-- Parts 009–010: **received / mapped; canonical pending**
+- Part 009: **canonical 10 / 49 verified**
+- Part 010: **received / mapped; canonical pending**
 
 ## Exact next action
 
-Begin **Part 009 canonical reconciliation at scan 393 / printed 389** using `p9.md` as lexical authority and the native scan as structural authority. Process Part 010 only after Part 009 reaches scan 441, preserving the `அம்ப` + `லமே` boundary and the separate scan-448 colophon.
+Continue **Part 009 canonical reconciliation at scan 403 / printed 399**, beginning with `விடு` as the physical continuation of scan 402 `விடுவித்து`. Process Part 010 only after Part 009 reaches scan 441.
