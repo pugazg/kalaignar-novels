@@ -52,12 +52,14 @@ Part 009 scan 441 ends at `அம்ப`; Part 010 scan 442 begins `லமே`, 
 - needs-review: **0**
 - complete `p9.md` lexical omissions: **0**
 - Tamil audit: **PASSED** — [`part-009-tamil-audit.md`](part-009-tamil-audit.md)
-- state: **`tamil-audit-passed / assembled-tamil-pending`**
+- state: **`tamil-audit-passed / assembled-tamil-next`**
 
 Two baseline-only non-native structural marks were discarded: scan 416 `⚬` and scan 435 `*`. No lexical wording was changed by those structure-only dispositions.
+
+Part 010 Tamil audit has also passed after the user-authorized scan-445 `விடு` restoration. Combined downstream assembly is therefore unblocked.
 
 Page map: [`../indexes/part-009-page-map.md`](../indexes/part-009-page-map.md).
 
 ## Exact next activity
 
-Part 009 is ready for assembled Tamil, but combined Parts 009–010 assembly should begin only after the single Part-010 scan-445 lexical omission is resolved and Part-010 Tamil audit passes.
+Build the **combined Parts 009–010 assembled Tamil reading layer** from scan 393 through the novel ending at scan 447, preserving audited joins and transitions, and retain scan 448 separately as printer-colophon back matter.
