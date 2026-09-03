@@ -28,7 +28,7 @@ A user-authorized restoration is narrow to the documented omission and does not 
 
 - Parts 001–006 — `part-complete`
 - Part 007 — scans **295–343** — `part-complete`
-- Part 008 — scans **344–392** — **Tamil audit + assembled Tamil + controlled English source check PASSED / bilingual review next**
+- Part 008 — scans **344–392** — **`part-complete`**
 
 ## Part 008 gate state
 
@@ -40,13 +40,15 @@ A user-authorized restoration is narrow to the documented omission and does not 
 - assembled Tamil: **PASS**
 - controlled English translation: **COMPLETE**
 - English source check: **PASS** — [`translations/en/PART_008_ENGLISH_CHECK.md`](translations/en/PART_008_ENGLISH_CHECK.md)
-- bilingual review: **NEXT**
+- bilingual review: **PASS** — [`translations/en/PART_008_REVIEW.md`](translations/en/PART_008_REVIEW.md)
+- split state: **`part-complete`**
 
 Part 008 continues Chapter 39 across the `அதிர்ஷ்` + `டம்` boundary and carries Chapters 40–45. English mirrors the cross-split word as reviewed Part-007 `luc` + Part-008 `k` → **luck**. Scan 392 ends Chapter 45 open at Tamil `நமது` / English **“our”**; this is not the novel ending.
 
 Part-008 assembled audit: [`notes/part-008-assembled-tamil-audit.md`](notes/part-008-assembled-tamil-audit.md).  
-Part-008 English source check: [`translations/en/PART_008_ENGLISH_CHECK.md`](translations/en/PART_008_ENGLISH_CHECK.md).
+Part-008 English source check: [`translations/en/PART_008_ENGLISH_CHECK.md`](translations/en/PART_008_ENGLISH_CHECK.md).  
+Part-008 bilingual review: [`translations/en/PART_008_REVIEW.md`](translations/en/PART_008_REVIEW.md).
 
 ## Exact next activity
 
-Run the **Part-008 bilingual review across scans 344–392**. Only after that review passes may Part 008 be marked `part-complete`.
+Obtain or resolve the **next source derivative beyond scan 392**. Verify its first page against the open scan-392 `நமது` boundary and establish the actual next source-scan / printed-page mapping before creating any continuation record. Do not infer the continuation word, Chapter-45 ending, next part range or novel ending without source evidence.
