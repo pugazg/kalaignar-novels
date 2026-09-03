@@ -11,8 +11,8 @@ Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.** 
 - visible printed narrative reaches page **443** on scan **447**;
 - scan **448** is unnumbered printer back matter / colophon;
 - canonical records now cover **1–448**;
-- verified canonical records: **440 / 448**;
-- needs-review: **8** — seven qualified Part-005 damage records plus Part-010 scan 445;
+- verified canonical records: **441 / 448**;
+- needs-review: **7 — only the qualified Part-005 damage records**;
 - assembled Tamil remains through scan **392 / printed 388**;
 - source-checked and bilingual-reviewed English remain through scan **392 / printed 388**;
 - exact original full-PDF scan/page-object count: **pending full-source byte/page reconciliation**.
@@ -30,7 +30,7 @@ The received material visibly contains the actual narrative ending on scan **447
 7. Part 007 — scans 295–343 — part-complete
 8. Part 008 — scans 344–392 / printed 340–388 — part-complete
 9. Part 009 — scans **393–441 / printed 389–437** — **49/49 verified; Tamil audit PASSED**
-10. Part 010 — scans **442–448 / printed 438–443 + colophon** — **7/7 canonical; 6 verified; scan 445 needs-review**
+10. Part 010 — scans **442–448 / printed 438–443 + colophon** — **7/7 verified; Tamil audit PASSED**
 
 ### Part 009
 
@@ -50,32 +50,29 @@ The received material visibly contains the actual narrative ending on scan **447
 - SHA-256: `27660cd6a8abe288ea1924f4ca02c23747713afc5883b010fb2f58a61b6ebbd0`
 - lexical baseline: `p10.md`, **17,559 bytes / 165 logical lines**
 - baseline SHA-256: `938407860a3a80e14da3a5d6a273675b8cdcc3e70e8a0e538f40dcceb871dc3a`
-- canonical: **7 / 7**
-- verified: **6 / 7**
-- needs-review: **scan 445 / printed 441**
+- canonical/verified: **7 / 7**
+- needs-review: **0**
+- scan 445 baseline omission: native complete word **`விடு`**, explicitly authorized and restored on 2026-09-03
+- Tamil audit: **PASSED**
 - scan 447 / printed 443: actual narrative ending
 - scan 448: printer colophon
-
-Native scan 445 contains complete word **`விடு`** in `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`; `p10.md` omits it. The word is withheld pending explicit user disposition.
 
 ## Aggregate canonical state
 
 - canonical: **448**
-- verified/completed: **440**
-- needs-review: **8**
+- verified/completed: **441**
+- needs-review: **7**
 - partial: **0**
 - Parts 001–008: **part-complete**
-- Part 009: **Tamil audit PASSED**
-- Part 010: **Tamil audit BLOCKED on one lexical omission**
+- Parts 009–010: **Tamil audits PASSED**
 
 ## Still required
 
-1. resolve Part-010 scan-445 `விடு` omission and close Part-010 Tamil audit;
-2. assemble Tamil for scans 393–447 / Chapters 45–51 and keep scan448 back matter separate;
-3. controlled English translation, source check and bilingual review through the ending;
-4. final whole-work Tamil/bilingual/release audits;
-5. exact full-source SHA-256 and full-PDF page-object count if/when the original full file is byte-resolved.
+1. assemble Tamil for scans 393–447 / Chapters 45–51 and keep scan448 back matter separate;
+2. controlled English translation, source check and bilingual review through the ending;
+3. final whole-work Tamil/bilingual/release audits;
+4. exact full-source SHA-256 and full-PDF page-object count if/when the original full file is byte-resolved.
 
 ## Exact next activity
 
-Obtain explicit user disposition for scan-445 native word **`விடு`**. If authorized, restore it narrowly and continue downstream gates.
+Build the assembled Tamil reading layer continuously through the received narrative ending, preserving audited joins and the authorized scan-445 `விடு`, with scan448 retained separately as printer-colophon back matter.
