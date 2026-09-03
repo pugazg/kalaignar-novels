@@ -25,7 +25,7 @@ Date: 2026-09-03
 
 ## Boundary / mapping
 
-Part 009 scan **441 / printed 437** ends inside `அம்பலமே` at `அம்ப`; Part 010 scan **442 / printed 438** begins `லமே`, proving the continuous word **`அம்பலமே`** across the split.
+Part 009 scan **441 / printed 437** ends at `அம்ப`; Part 010 scan **442 / printed 438** begins `லமே`, proving **`அம்பலமே`** across the split.
 
 PDF page 1 = scan **442 / printed 438**.  
 PDF page 6 = scan **447 / printed 443**.  
@@ -35,26 +35,29 @@ PDF page 7 = scan **448**, unnumbered printer colophon.
 
 Chapter 51 continues through scans **442–447**.
 
-On scan **447 / printed 443**, the narrative closes after Durai throws the treasure secret into the sea and tells Parimala that with the “speaking treasure” beside him there is no need for the treasure that breeds great enmity. A horizontal rule/ending ornament follows on the same page.
+Scan **447 / printed 443** contains the actual narrative ending, followed by a native horizontal closing rule and small ending emblem. Scan **448** is non-narrative back matter carrying printer imprint **`அன்பு அச்சகம், பொறையார்.`**
 
-Scan **448** is non-narrative back matter carrying the printer imprint **`அன்பு அச்சகம், பொறையார்.`**
-
-This establishes the ending structure of the received source material, but does not bypass the required canonical Tamil, assembled-Tamil, English and whole-work audits.
-
-## Intake state
+## Canonical result / blocking omission
 
 - derivative identity: **resolved**
 - scan / printed mapping: **resolved**
 - Part-009→010 continuity: **verified**
+- canonical records: **7 / 7**
+- verified: **6 / 7**
+- needs-review: **1 — scan 445 / printed 441**
 - narrative endpoint: **scan 447 / printed 443**
 - back matter: **scan 448 printer colophon**
-- canonical records: **0 / 7**
-- verified: **0 / 7**
-- needs-review: **0**
-- state: **`source-intake-complete / canonical-after-part-009`**
+- state: **`canonical-complete / tamil-audit-blocked-on-lexical-omission`**
 
-Page map: [`../indexes/part-010-page-map.md`](../indexes/part-010-page-map.md).
+Native scan 445 visibly contains:
+
+`தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`
+
+The controlling `p10.md` baseline omits complete word **`விடு`**. Canonical scan 445 therefore withholds the word and remains `needs-review` until explicit user disposition.
+
+Page map: [`../indexes/part-010-page-map.md`](../indexes/part-010-page-map.md).  
+Tamil audit: [`part-010-tamil-audit.md`](part-010-tamil-audit.md).
 
 ## Exact next activity
 
-Process Part 009 canonical Tamil first, then Part 010. When Part 010 is reached, preserve the narrative close on scan 447 and keep scan 448 as a separate back-matter canonical record rather than merging the printer imprint into Chapter 51.
+Obtain explicit user disposition for native **`விடு`** on scan 445. If authorized, restore it narrowly, return scan 445 to `verified`, pass Part-010 Tamil audit, then proceed to the combined Parts 009–010 assembled Tamil layer through the novel ending.
