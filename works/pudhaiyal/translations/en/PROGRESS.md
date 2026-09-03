@@ -62,8 +62,11 @@
 | Chapter 42 | 362 portion–369 portion | assembled / Part-008 check PASSED | **bilingual-reviewed after source-check fidelity correction** |
 | Chapter 43 | 369 portion–376 portion | assembled / Part-008 check PASSED | **bilingual-reviewed** |
 | Chapter 44 | 376 portion–387 portion | assembled / Part-008 check PASSED | **bilingual-reviewed after fidelity corrections; includes authorized scan-384 restoration as “as the plate says”** |
-| Chapter 45 | 387 portion–392 | assembled / Part-008 open boundary | **bilingual-reviewed after fidelity refinement / open derivative boundary at “our”** |
+| Chapter 45, Part 008 portion | 387 portion–392 | assembled / Part-008 open boundary | **bilingual-reviewed after fidelity refinement / derivative boundary at “our”** |
 | **Part 008 checkpoint** | **344–392** | **Tamil audit + assembled consistency check PASSED** | **controlled English source check + bilingual review PASSED / part-complete** |
+| Chapter 45, Part 009 continuation | 393–396 portion | assembled / Part-009 check PASSED | **draft-translated through chapter close; scan-392 `our` boundary resolved; source check pending** |
+| Chapter 46 | 396 portion–408 portion | assembled / Part-009 check PASSED | **draft-translated; source check pending** |
+| **Part 009 draft frontier** | **393–408 portion** | **whole Part-009 Tamil audit + assembled consistency PASSED** | **controlled English draft through Chapter 46; source check pending** |
 
 Review/check records:
 
@@ -83,16 +86,22 @@ Part-008 reviewed inventory:
 
 - `sections/checkpoints/part-008-chapter-39-continuation.md` — completes Part-007 `luc` as `luck` and closes Chapter 39 on scan 347;
 - `sections/40-chapter-40.md` through `sections/44-chapter-44.md` — source-checked and bilingual-reviewed;
-- `sections/45-chapter-45.md` — source-checked and bilingual-reviewed through scan 392, deliberately open at **“our”** corresponding to Tamil `நமது`.
+- `sections/45-chapter-45.md` — source-checked and bilingual-reviewed through scan 392, where the Part-008 derivative ended at English **“our”** corresponding to Tamil `நமது`.
 
 The Part-008 review preserves the user-authorized scan-384 Tamil restoration `தகட்டில் இருக்கிறபடி` as **“as the plate says”** exactly once. It also preserves the native four-star transitions through the checked assembled layer, the scan-381 structure-only relocation, the scan-390 ordering, and does not infer text beyond scan 392.
 
-English-only source-check corrections covered the Chapter-39 explicit `சாயபுக்கு` recipient, Chapter-42 kiss reciprocity, and two Chapter-44 wording/typo corrections. The bilingual review additionally refined Chapter 41 `ஜாடையாகத் திரும்பிப் பார்த்துவிட்டு` to **“cast a discreet glance back”** and Chapter 45 `பெரிய ஜெயிலில் பெரிய ஆட்கள்` to **“The big jail had all sorts of big shots.”** No Tamil was changed.
+Part-009 draft inventory now begins from that reviewed boundary:
 
-Continuous split-level **source-checked and bilingual-reviewed English now covers scans 1–392**. The seven Part-005 damaged physical records — scans **215–219 and 223–224** — remain explicit source-damage qualifications and are not promoted to native verification by translation.
+- `sections/45-chapter-45.md` resolves scan 392 `நமது` + scan 393 `வாழ்க்கையை` as the audited continuous sentence and is draft-translated through the Chapter-45 close on scan 396 portion;
+- `sections/46-chapter-46.md` is newly draft-translated continuously through its close on scan 408 portion;
+- no Part-009 controlled English source check or bilingual review has yet been claimed.
 
-Whole-work English status: **not verified**. Source beyond scan 392, the true ending/back matter and final whole-work bilingual review remain open.
+English-only source-check corrections through Part 008 covered the Chapter-39 explicit `சாயபுக்கு` recipient, Chapter-42 kiss reciprocity, and two Chapter-44 wording/typo corrections. The bilingual review additionally refined Chapter 41 `ஜாடையாகத் திரும்பிப் பார்த்துவிட்டு` to **“cast a discreet glance back”** and Chapter 45 `பெரிய ஜெயிலில் பெரிய ஆட்கள்` to **“The big jail had all sorts of big shots.”** No Tamil was changed.
+
+Continuous split-level **source-checked and bilingual-reviewed English remains at scans 1–392**. Controlled English **draft translation now continues through scan 408 portion / Chapter 46 close**. The seven Part-005 damaged physical records — scans **215–219 and 223–224** — remain explicit source-damage qualifications and are not promoted to native verification by translation.
+
+Whole-work English status: **not verified**. The full Tamil source and true ending/back matter are now known and assembled, but English draft translation remains incomplete from Chapter 47 onward and final Part-009/010 source checks, bilingual reviews and whole-work review remain open.
 
 ## Exact next activity
 
-Obtain / resolve the **next source derivative beyond scan 392**. Before creating any continuation record, verify its first source page against the open scan-392 Tamil `நமது` / English **“our”** boundary and establish the actual next source-scan / printed-page mapping. Do not infer the continuation word, Chapter-45 ending, next part range or novel ending without source evidence.
+Continue the **Part 009 controlled English draft with Chapter 47**, beginning at scan **408 portion** and translating continuously through its chapter close on scan **414 portion**. Preserve source-specific oddities rather than silently correcting them. Do not mark Part 009 `source-checked` or `reviewed` until the complete Part-009 draft has been finished and the dedicated downstream checks are run.
