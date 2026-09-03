@@ -16,37 +16,35 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_010_pages_442-448
 - verified: **7 / 7**
 - needs-review: **0**
 - not-started: **0**
-- split state: **`tamil-audit-passed / assembled-tamil-next`**
+- split state: **`tamil-audit-passed / assembled-tamil-passed / english-next`**
 
 ## Authority rule
 
 `p10.md` controls lexical/textual wording. Native scans control page identity, punctuation, quotation marks, paragraphing, physical boundaries, chapter/work ending structure and back matter. Complete source-visible lexical spans absent from `p10.md` require explicit disposition rather than silent insertion.
 
-Part 009 scan 441 ends `அம்ப`; Part 010 scan 442 begins `லமே`, proving **`அம்பலமே`** across the split.
+Part 009 scan 441 ends `அம்ப`; Part 010 scan 442 begins `லமே`, producing **`அம்பலமே`** in assembled Chapter 51.
 
 ## Authorized lexical restoration
 
-Native scan **445 / printed 441** contains:
-
-`தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`
-
-The controlling `p10.md` baseline omits the complete word **`விடு`**. The user explicitly authorized insertion of `விடு` on 2026-09-03. Canonical scan 445 now includes it and is `verified`. This is a narrow documented exception only.
+Native scan **445 / printed 441** contains `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`. `p10.md` omits complete word **`விடு`**. The user explicitly authorized insertion on 2026-09-03. Canonical scan 445 and assembled Chapter 51 contain it as a narrow documented exception.
 
 | Source scan | Printed page | Section | Status | File / note |
 |---:|:---:|---|---|---|
 | 442 | 438 | chapter 51 continuation | verified | `../pages/0442-pudhaiyal.md`; Part 009 `அம்ப` → `லமே` |
 | 443 | 439 | chapter 51 continuation | verified | `../pages/0443-pudhaiyal.md` |
 | 444 | 440 | chapter 51 continuation | verified | `../pages/0444-pudhaiyal.md` |
-| 445 | 441 | chapter 51 continuation | verified | `../pages/0445-pudhaiyal.md`; authorized native `விடு` restored |
+| 445 | 441 | chapter 51 continuation | verified | `../pages/0445-pudhaiyal.md`; authorized `விடு` restored |
 | 446 | 442 | chapter 51 continuation | verified | `../pages/0446-pudhaiyal.md` |
-| 447 | 443 | chapter 51 / narrative ending | verified | `../pages/0447-pudhaiyal.md`; native closing rule + ending emblem |
+| 447 | 443 | chapter 51 / narrative ending | verified | `../pages/0447-pudhaiyal.md`; actual narrative ending + closing rule/emblem |
 | 448 | — | printer colophon / back matter | verified | `../pages/0448-pudhaiyal.md`; `அன்பு அச்சகம், பொறையார்.` |
 
-## Ending structure
+## Gate result
 
-- scan **447 / printed 443**: Chapter 51 and the narrative end;
-- scan **448**: separate printer colophon / back matter, `அன்பு அச்சகம், பொறையார்.`
+- Tamil audit: **PASSED** — [`../notes/part-010-tamil-audit.md`](../notes/part-010-tamil-audit.md)
+- assembled Tamil: **PASSED** — [`../notes/part-010-assembled-tamil-check.md`](../notes/part-010-assembled-tamil-check.md)
+- narrative reading layer ends on scan **447 / printed 443**
+- scan **448** remains separate printer back matter
 
 ## Exact next activity
 
-Proceed with the **assembled Tamil reading layer for Parts 009–010 / Chapters 45–51 through the novel ending**, resolving audited physical joins only, including the authorized scan-445 `விடு` exactly once, preserving the scan-447 ending structure, and keeping scan 448 separate as back matter.
+Begin controlled English translation for Part 010 as the continuation of the Part-009 Chapter-51 English layer, preserving `அம்பலமே`, the authorized scan-445 `விடு` meaning, the actual scan-447 ending, and scan 448 as separate back matter.
