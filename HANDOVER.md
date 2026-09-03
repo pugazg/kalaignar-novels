@@ -32,7 +32,7 @@ Complete source-visible lexical spans absent from the baseline require explicit 
 
 - Parts 001–008: **part-complete**
 - Part 009 scans **393–441 / printed 389–437**: **Tamil audit PASSED — 49 / 49 verified**
-- Part 010 scans **442–448**: **canonical complete — 7 / 7 represented; 6 verified, scan 445 needs-review**
+- Part 010 scans **442–448**: **Tamil audit PASSED — 7 / 7 verified**
 
 Part-005 source-damage qualification remains on scans **215–219 and 223–224**.
 
@@ -50,7 +50,9 @@ Part 010:
 
 - page map: `works/pudhaiyal/indexes/part-010-page-map.md`
 - audit: `works/pudhaiyal/notes/part-010-tamil-audit.md`
-- result: **7 / 7 canonical; 6 verified; 1 needs-review — scan 445 / printed 441**
+- result: **7 / 7 verified, 0 needs-review, Tamil audit PASSED**
+- native scan 445 contains `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`; `p10.md` omits complete word `விடு`
+- user explicitly authorized restoration of **`விடு`** on 2026-09-03; canonical scan 445 now contains it as a narrow documented exception
 
 Verified source boundaries:
 
@@ -59,31 +61,20 @@ Verified source boundaries:
 - scan **447 / printed 443**: actual narrative ending;
 - scan **448**: separate printer colophon `அன்பு அச்சகம், பொறையார்.`
 
-### Blocking Part-010 omission
-
-Native scan **445 / printed 441** visibly contains:
-
-`தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`
-
-The controlling `p10.md` baseline omits complete word **`விடு`**, giving only `...புதைத்து` before the closing quote.
-
-Canonical scan 445 therefore remains `needs-review` and does not silently insert `விடு`.
-
 ## Aggregate durable state
 
 - canonical records: **448**
-- verified/completed: **440**
-- needs-review: **8** — Part 005 scans **215–219, 223–224** plus Part 010 scan **445**
+- verified/completed: **441**
+- needs-review: **7 — only Part 005 scans 215–219 and 223–224**
 - partial: **0**
 - assembled Tamil: continuous through **scan 392 / printed 388**
 - source-checked English: continuous through **scan 392 / printed 388**
 - bilingual-reviewed English: continuous through **scan 392 / printed 388**
 - received source coverage: through **scan 448**, including narrative ending and printer colophon
 - Parts 001–008: **part-complete**
-- Part 009: **Tamil audit PASSED; downstream assembly pending**
-- Part 010: **Tamil audit BLOCKED on one lexical omission**
-- whole-work gates: not eligible
+- Parts 009–010: **Tamil audits PASSED; downstream assembly pending**
+- whole-work gates: not yet eligible
 
 ## Exact next activity
 
-Obtain explicit user disposition for native scan-445 word **`விடு`**. If authorized, insert it narrowly, return scan 445 to `verified`, rerun Part-010 Tamil audit, then build assembled Tamil continuously for Parts 009–010 from scan **393 through the narrative ending at scan 447**, preserving scan 448 separately as printer-colophon back matter.
+Build the **assembled Tamil reading layer continuously for Parts 009–010**, from scan **393 through the narrative ending at scan 447**, preserving all audited chapter/scene transitions and physical joins, including authorized scan-445 `விடு` exactly once. Keep scan **448** separately as printer-colophon back matter. After assembled-Tamil consistency passes, begin controlled English translation for the same range.
