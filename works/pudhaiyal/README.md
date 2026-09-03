@@ -4,7 +4,6 @@
 **பதிப்பகம்:** அன்புப் பதிப்பகம், பொறையார் :: தஞ்சை மாவட்டம்  
 **Source edition:** மூன்றாம் பதிப்பு — செப்டம்பர் 1961  
 **Tamil Digital Library bibliographic extent:** 443 p.  
-**Exact full-PDF scan count:** pending byte-level full-source reconciliation  
 **Source PDF in repository:** No
 
 ## Source / baseline authority
@@ -25,55 +24,51 @@ Complete source-visible lexical spans absent from a baseline require explicit us
 | Parts 001–004 | 1–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification** |
 | Parts 006–008 | 246–392 | **part-complete** |
-| Part 009 | 393–441 | **Tamil audit PASSED — 49 / 49 verified; assembled Tamil next** |
-| Part 010 | 442–448 | **Tamil audit PASSED — 7 / 7 verified; assembled Tamil next** |
+| Part 009 | 393–441 | **Tamil audit PASSED + assembled Tamil PASSED; English next** |
+| Part 010 | 442–448 | **Tamil audit PASSED + assembled Tamil PASSED; English next** |
 
 ## Parts 009–010 source checkpoint
 
-Part 009 maps to scans **393–441 / printed 389–437**. Part 010 maps to scans **442–448**, with printed **438–443** on scans 442–447 and a separate unnumbered printer colophon on scan 448.
+Part 009 maps to scans **393–441 / printed 389–437**. Part 010 maps to scans **442–448**, with printed **438–443** on scans 442–447 and separate unnumbered printer colophon on scan 448.
 
-Verified physical continuity:
+Verified continuity:
 
 - scan 392 `நமது` + scan 393 `வாழ்க்கையை` → **`நமது வாழ்க்கையை`**;
 - scan 441 `அம்ப` + scan 442 `லமே` → **`அம்பலமே`**.
 
-The received narrative ends on **scan 447 / printed 443**; scan **448** is back matter with **`அன்பு அச்சகம், பொறையார்.`**
+The actual narrative ends on **scan 447 / printed 443**. Scan **448** is separate back matter with **`அன்பு அச்சகம், பொறையார்.`**
 
 ### Part 009 result
 
-- source: `TVA_BOK_0064097_புதையல்_part_009_pages_393-441.pdf`;
-- baseline: `p9.md`;
 - canonical / verified: **49 / 49**;
-- Part-009 needs-review: **0**;
+- needs-review: **0**;
 - Tamil audit: **PASSED** — [`notes/part-009-tamil-audit.md`](notes/part-009-tamil-audit.md);
-- no complete source-visible lexical omission was found in `p9.md`;
-- baseline-only structural marks rejected: `⚬` on scan 416 and `*` on scan 435;
-- Chapter 51 remains open at scan 441 and continues into Part 010.
+- assembled Tamil: **PASSED** — [`notes/part-009-assembled-tamil-check.md`](notes/part-009-assembled-tamil-check.md);
+- no complete `p9.md` lexical omission found;
+- non-native baseline-only marks rejected: `⚬` scan 416 and `*` scan 435.
 
 ### Part 010 result
 
-- source: `TVA_BOK_0064097_புதையல்_part_010_pages_442-448.pdf`;
-- baseline: `p10.md`;
 - canonical / verified: **7 / 7**;
-- Part-010 needs-review: **0**;
-- Tamil audit: **PASSED** — [`notes/part-010-tamil-audit.md`](notes/part-010-tamil-audit.md).
-
-Native scan 445 contains complete word **`விடு`** in `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`; `p10.md` omits it. The user explicitly authorized insertion of **`விடு`** on 2026-09-03. It is restored narrowly in canonical scan 445; this does not broaden the lexical-authority rule.
+- needs-review: **0**;
+- Tamil audit: **PASSED** — [`notes/part-010-tamil-audit.md`](notes/part-010-tamil-audit.md);
+- assembled Tamil: **PASSED** — [`notes/part-010-assembled-tamil-check.md`](notes/part-010-assembled-tamil-check.md);
+- native scan 445 word **`விடு`**, omitted from `p10.md`, was explicitly authorized by the user and restored narrowly in `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`.
 
 ## Aggregate archival status
 
 - canonical Tamil page records: **448**;
 - verified / completed: **441**;
-- needs-review: **7 — only Part 005 scans 215–219 and 223–224**;
+- needs-review: **7 — only source-damaged Part-005 scans 215–219 and 223–224**;
 - partial: **0**;
-- assembled Tamil: continuous through scan **392 / printed 388**;
-- source-checked English: continuous through scan **392 / printed 388**;
-- bilingual-reviewed English: continuous through scan **392 / printed 388**;
-- physically received derivative coverage: through scan **448**, including the actual narrative ending and printer colophon;
+- assembled Tamil narrative: continuous through **scan 447 / printed 443 — actual novel ending**;
+- assembled back matter: through **scan 448 — printer colophon**;
+- source-checked English: continuous through **scan 392 / printed 388**;
+- bilingual-reviewed English: continuous through **scan 392 / printed 388**;
 - Parts 001–008: **part-complete**;
-- Parts 009–010: **Tamil audits PASSED; downstream assembly pending**;
-- whole-work verification / release: **not yet eligible**.
+- Parts 009–010: **Tamil + assembled gates PASSED; controlled English pending**;
+- whole-work verification/release: **not yet eligible** until remaining downstream English/review and final whole-work gates are completed.
 
 ## Exact next activity
 
-Build the **assembled Tamil reading layer continuously for Parts 009–010**, from scan **393 through the novel ending on scan 447**, resolving only audited physical joins, including the authorized scan-445 `விடு` exactly once, preserving chapter transitions and the native ending structure, and keeping scan **448** separate as printer-colophon back matter.
+Begin **controlled English translation for Parts 009–010**, extending Chapter 45 from scan **393** through Chapters **46–51** and the actual ending on scan **447**. Preserve scan **448** as separate printer-colophon back matter. After the draft, run the English source check before bilingual review.
