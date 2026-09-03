@@ -28,8 +28,8 @@ A user-authorized restoration is narrow to the documented omission and does not 
 
 ## Split checkpoints
 
-- Parts 001–008 — `part-complete`
-- Part 009 — scans **393–441** — **Tamil audit PASSED + assembled Tamil PASSED + controlled English source check PASSED; bilingual review pending**
+- Parts 001–009 — `part-complete`
+- Part 009 — scans **393–441** — **Tamil audit PASSED + assembled Tamil PASSED + controlled English source check PASSED + bilingual review PASSED / part-complete**
 - Part 010 — scans **442–448** — **Tamil audit PASSED + assembled Tamil PASSED; controlled English pending**
 
 ## Part 009 gate state
@@ -42,15 +42,16 @@ A user-authorized restoration is narrow to the documented omission and does not 
 - assembled Tamil: **PASS** — [`notes/part-009-assembled-tamil-check.md`](notes/part-009-assembled-tamil-check.md)
 - controlled English draft: **PASS — complete through scan 441 physical endpoint**
 - English source check: **PASS** — [`translations/en/PART_009_ENGLISH_CHECK.md`](translations/en/PART_009_ENGLISH_CHECK.md)
-- bilingual review: **PENDING**
+- bilingual review: **PASS** — [`translations/en/PART_009_REVIEW.md`](translations/en/PART_009_REVIEW.md)
+- split state: **`part-complete`**
 
 Part 009 continues Chapter 45 across scan392→393 and carries Chapters 45–51 through scan 441. The endpoint `அம்ப` is a physical split only and joins Part010 `லமே` as **`அம்பலமே`**.
 
-The source-checked English resolves the scan392 `நமது` + scan393 `வாழ்க்கையை` boundary once, continues through Chapters 45–50, and ends Chapter 51's Part-009 witness deliberately at English **`Amb`** corresponding to Tamil **`அம்ப`**. It does not import Part-010 `லமே`.
+The bilingual-reviewed English resolves the scan392 `நமது` + scan393 `வாழ்க்கையை` boundary once, continues through Chapters 45–50, and ends Chapter 51's Part-009 witness deliberately at English **`Amb`** corresponding to Tamil **`அம்ப`**. It does not import Part-010 `லமே`.
 
-The dedicated source check made one English-only Chapter-46 fidelity correction: the ritual-oath sequence now reads **“I will lay down the cloth and cross it. I will swear it! I will even embrace the heat!”**, removing the draft's added interpretive phrase `in oath`. Tamil was not changed.
+The dedicated source check made one English-only Chapter-46 fidelity correction: the ritual-oath sequence now reads **“I will lay down the cloth and cross it. I will swear it! I will even embrace the heat!”**, removing the draft's added interpretive phrase `in oath`. Tamil was not changed. The bilingual review required no further English change.
 
-Source-specific oddities remain preserved without external correction, including the Chapter-46 disguise inconsistency and Laila/Qais tale, Chapter-47 `dharpaasooran`, Chapter-48 Aravan/Bhima and caste-marked wording, Chapter-49 violence/rallying rhetoric, and Chapter-50 `சாவுக் கண்ணீர்` imagery.
+Source-specific oddities remain preserved without external correction, including the Chapter-46 disguise inconsistency and Laila/Qais tale, Chapter-47 `dharpaasooran`, Chapter-48 Aravan/Bhima and caste-marked wording, Chapter-49 violence/rallying rhetoric, Chapter-50 `சாவுக் கண்ணீர்` imagery and Chapter-51's public-service exhortation/open boundary.
 
 ## Part 010 gate state
 
@@ -74,4 +75,4 @@ Scan **447 / printed443** is the actual novel narrative ending. Scan **448** is 
 
 ## Exact next activity
 
-Run the **Part-009 bilingual review across scans 393–441**, comparing source-checked English with canonical/assembled Tamil for semantic fidelity, dialogue coverage, names/terms, humour, violence, romance, rhetorical force, chapter transitions, preserved source oddities, the resolved `நமது வாழ்க்கையை` opening boundary and the open `அம்ப` / `Amb` endpoint. Only after that review passes may Part 009 be marked `part-complete`.
+Continue the **Part 010 controlled English translation**, beginning at scan **442** by completing the open Chapter-51 word from Part 009: English `Amb` must continue to **`Ambalam`**, corresponding to Tamil `அம்ப` + `லமே` → **`அம்பலமே`**. Translate continuously through the actual narrative ending on scan **447 / printed 443**. Keep scan **448** as separate printer-colophon back matter and do not claim Part-010 source check or bilingual review until the Part-010 draft is complete.
