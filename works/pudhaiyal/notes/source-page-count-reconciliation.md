@@ -7,13 +7,15 @@ Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.**.
 
 ## Current received coverage
 
-- source scans: **1–392**
-- visible printed text: through page **388**
-- canonical records: through scan **392**
-- assembled Tamil: through scan **392 / printed 388**
-- source-checked English: through scan **392 / printed 388**
-- bilingual-reviewed English: through scan **392 / printed 388**
-- exact original PDF scan/page-object count: **pending**
+- source derivatives now cover scans **1–448**;
+- visible printed text reaches page **443** on scan **447**;
+- scan **448** is unnumbered printer back matter / colophon;
+- canonical records currently remain through scan **392**;
+- assembled Tamil remains through scan **392 / printed 388**;
+- source-checked and bilingual-reviewed English remain through scan **392 / printed 388**;
+- exact original full-PDF scan/page-object count: **pending full-source reconciliation**.
+
+The newly received material visibly contains the narrative ending on scan **447 / printed 443**, followed by the printer imprint `அன்பு அச்சகம், பொறையார்.` on scan **448**. This is strong received-source ending evidence, but final whole-work archival status still requires canonical processing and downstream audits.
 
 ## Split-source state
 
@@ -24,27 +26,31 @@ Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.**.
 5. Part 005 — scans 197–245 — part-complete with source-damage qualification
 6. Part 006 — scans 246–294 — part-complete
 7. Part 007 — scans 295–343 — part-complete
-8. Part 008 — scans 344–392 / printed 340–388 — **part-complete**
+8. Part 008 — scans 344–392 / printed 340–388 — part-complete
+9. Part 009 — scans **393–441 / printed 389–437** — **source intake complete / canonical next**
+10. Part 010 — scans **442–448 / printed 438–443 + colophon** — **source intake complete / canonical after Part 009**
 
-### Part 008
+### Part 009
 
-- PDF: 49 pages / **54,567,816 bytes**
-- SHA-256: `717d3ab75eb970313062e1e61517d442cffa188f2fd8cadb8f75263b5e9a8852`
-- lexical baseline: `p8.md`, **159,525 bytes / 319 lines**
-- baseline SHA-256: `aad52bdfeae873459d561a52826f4787fd04f72ac1c27886212a1942d8e89ca2`
-- canonical: **49 / 49**
-- verified: **49 / 49**
-- needs-review: **0**
-- Tamil audit: **PASSED**
-- assembled Tamil audit: **PASSED**
-- controlled English translation: **COMPLETE**
-- English source check: **PASSED**
-- bilingual review: **PASSED**
-- user-authorized restoration: scan 384 **`தகட்டில் இருக்கிறபடி`**
+- PDF: **49 pages / 57,643,045 bytes**
+- SHA-256: `8e104e151ced62916de64d320afe41a4ede549af6712fba8c654ae6c1385cbce`
+- lexical baseline: `p9.md`, **164,794 bytes / 242 logical lines**
+- baseline SHA-256: `b0b227ba8bce1650f65a10b114f53f4601a4c7d72f5649993de20bf991071664`
+- opening join: scan 392 `நமது` + scan 393 `வாழ்க்கையை` → **`நமது வாழ்க்கையை`**
+- canonical: **0 / 49**.
 
-Part-007→008 continuity is **`அதிர்ஷ்டம்`** across `அதிர்ஷ்` + `டம்`; English mirrors it as `luc` + `k` → **luck**. Scan 392 ends open at Tamil `நமது` / English **“our”**.
+### Part 010
 
-## Aggregate state
+- PDF: **7 pages / 7,206,369 bytes**
+- SHA-256: `27660cd6a8abe288ea1924f4ca02c23747713afc5883b010fb2f58a61b6ebbd0`
+- lexical baseline: `p10.md`, **17,559 bytes / 165 logical lines**
+- baseline SHA-256: `938407860a3a80e14da3a5d6a273675b8cdcc3e70e8a0e538f40dcceb871dc3a`
+- cross-split join: scan 441 `அம்ப` + scan 442 `லமே` → **`அம்பலமே`**
+- scan 447 / printed 443: narrative ending
+- scan 448: printer colophon
+- canonical: **0 / 7**.
+
+## Aggregate canonical state
 
 - canonical: **392**
 - verified/completed: **385**
@@ -54,13 +60,12 @@ Part-007→008 continuity is **`அதிர்ஷ்டம்`** across `அத
 
 ## Still required
 
-1. source beyond scan 392 and continuation from open `நமது`;
-2. all later source scans / true ending / back matter;
-3. exact full scan-object count and full-source SHA-256;
-4. final whole-work Tamil/bilingual/release audits.
-
-Do not infer final source extent or ending from the 443-page bibliographic count.
+1. canonical reconciliation for Parts 009–010;
+2. Part-009 and Part-010 Tamil audits and assembled Tamil;
+3. controlled English source checks and bilingual reviews for the new material;
+4. final whole-work Tamil/bilingual/release audits;
+5. exact full-source SHA-256 and full-PDF page-object count if/when the original full file is byte-resolved.
 
 ## Exact next activity
 
-Obtain or resolve the **next source derivative beyond scan 392**, verify its opening against the open `நமது` boundary, and establish its actual source-scan / printed-page mapping before creating continuation records.
+Begin canonical reconciliation at **scan 393 / printed 389**, using `p9.md` as lexical authority. Do not jump directly to the ending pages; Part 010 follows after Part 009 is reconciled through scan 441.
