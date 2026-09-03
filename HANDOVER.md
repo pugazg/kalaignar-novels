@@ -31,7 +31,7 @@ Complete source-visible lexical spans absent from the baseline require explicit 
 ## Durable split state
 
 - Parts 001–008: **part-complete**
-- Part 009 / scans **393–441 / printed 389–437**: **Tamil audit PASSED + assembled Tamil PASSED; English draft through Chapter 46 / scan 408 portion**
+- Part 009 / scans **393–441 / printed 389–437**: **Tamil audit PASSED + assembled Tamil PASSED; English draft through Chapter 47 / scan 414 portion**
 - Part 010 / scans **442–448**: **Tamil audit PASSED + assembled Tamil PASSED; English pending**
 - Part-005 source-damage qualification remains on scans **215–219 and 223–224**.
 
@@ -70,8 +70,9 @@ Verified source/reading boundaries:
 - bilingual-reviewed English: continuous through **scan 392 / printed 388**;
 - Chapter 45 Part-009 continuation is **draft-translated through its close on scan 396 portion**, resolving the audited `நமது வாழ்க்கையை` join;
 - Chapter 46 is **draft-translated continuously through its close on scan 408 portion**;
+- Chapter 47 is **draft-translated continuously through its close on scan 414 portion**;
 - Part-009 controlled English source check and bilingual review have **not** yet been claimed;
-- Chapters 47–51 and Part 010 continuation remain to be draft-translated.
+- Chapters 48–51 and Part 010 continuation remain to be draft-translated.
 
 ## Aggregate durable state
 
@@ -83,7 +84,7 @@ Verified source/reading boundaries:
 - assembled back matter: through **scan 448**
 - source-checked English: continuous through **scan 392 / printed 388**
 - bilingual-reviewed English: continuous through **scan 392 / printed 388**
-- draft-translated English: continuous through **scan 408 portion / Chapter 46 close**
+- draft-translated English: continuous through **scan 414 portion / Chapter 47 close**
 - Parts 001–008: **part-complete**
 - Part 009: **Tamil + assembled gates PASSED; controlled English draft in progress**
 - Part 010: **Tamil + assembled gates PASSED; controlled English pending**
@@ -91,4 +92,4 @@ Verified source/reading boundaries:
 
 ## Exact next activity
 
-Continue **controlled English translation for Part 009 with Chapter 47**, beginning at scan **408 portion** and translating through the Chapter-47 close on scan **414 portion** from the audited assembled Tamil layer. Preserve source-specific wording/oddities without external correction. Then continue the remaining Part-009 chapters before running the dedicated English source check and bilingual review.
+Continue **controlled English translation for Part 009 with Chapter 48**, beginning at scan **414 portion** and translating through the Chapter-48 close on scan **422** from the audited assembled Tamil layer. Preserve source-specific wording/oddities without external correction. Then continue the remaining Part-009 chapters before running the dedicated English source check and bilingual review.
