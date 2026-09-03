@@ -17,7 +17,9 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_008_pages_344-392
 - not-started: **0**
 - Tamil audit: **PASSED** — `../notes/part-008-tamil-audit.md`
 - assembled Tamil audit: **PASSED** — `../notes/part-008-assembled-tamil-audit.md`
-- split state: **`assembled-tamil-passed / controlled-english-next`**
+- English source check: **PASSED** — `../translations/en/PART_008_ENGLISH_CHECK.md`
+- bilingual review: **PASSED** — `../translations/en/PART_008_REVIEW.md`
+- split state: **`part-complete`**
 
 ## Authority rule
 
@@ -86,12 +88,17 @@ Scan **384 / printed 380** contains native phrase **`தகட்டில் �
 - structural-only corrections at scans 381 and 390 retain all supplied words;
 - Tamil audit **PASSED**;
 - assembled Chapters **39–45** are complete through the received endpoint and the assembled-Tamil consistency check **PASSED**;
-- Chapter 45 remains open at `நமது` because source beyond scan 392 has not yet been received.
+- controlled English source check **PASSED**;
+- bilingual review **PASSED**;
+- Part 008 is **`part-complete`**;
+- Chapter 45 remains open at `நமது` / English **“our”** because source beyond scan 392 has not yet been received.
 
 Fidelity record: `../notes/visual-fidelity-scans-344-392.md`  
 Tamil audit: `../notes/part-008-tamil-audit.md`  
-Assembled Tamil audit: `../notes/part-008-assembled-tamil-audit.md`
+Assembled Tamil audit: `../notes/part-008-assembled-tamil-audit.md`  
+English source check: `../translations/en/PART_008_ENGLISH_CHECK.md`  
+Bilingual review: `../translations/en/PART_008_REVIEW.md`
 
 ## Exact next activity
 
-Begin **controlled English translation** for Part 008 scans **344–392**, using the assembled Tamil Chapters 39–45 and preserving the open Chapter-45 endpoint at `நமது`.
+Obtain or resolve the **next source derivative beyond scan 392**. Verify its opening against the open `நமது` boundary before assigning any continuation, next scan range or printed-page mapping.
