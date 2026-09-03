@@ -5,7 +5,7 @@ section_order: 51
 section_title: "Chapter 51"
 language: "en"
 source_scans: "438 (chapter-51 portion)-441 (Part-009 endpoint)"
-status: "source-checked-part-009-open-boundary"
+status: "bilingual-reviewed-part-009-open-boundary"
 derived_from: "audited Tamil pages 0438-0441 and checked assembled sections/51-chapter-51.md"
 ---
 
