@@ -1,95 +1,80 @@
 # Part 005 bilingual review — புதையல் / Treasure
 
-Access derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
-
+Date last updated: 2026-09-03  
+Access derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`  
 Source scans: **197–245**
 
-Result: **ENGLISH PART REVIEW PASSED WITH EXPLICIT SOURCE-DAMAGE QUALIFICATIONS — PART 005 `part-complete`**
+## Current verdict
 
-This is a split-part checkpoint. It is **not** a whole-work English verification, final Tamil audit, or release verdict.
+**BILINGUAL REVIEW PASSED WITH TWO PHYSICAL-LOSS QUALIFICATIONS — PART 005 `part-complete`.**
 
-## Tamil authority
+Tamil authority after the user's 2026-09-03 direct source review:
 
-- canonical physical records: scans **197–245 — 49 / 49 represented**;
-- native-verified records: **42**;
-- source-damage `needs-review`: **7 — scans 215–219, 223–224**;
-- Part-005 Tamil audit: **`part-tamil-audit-source-damage-closed`**;
-- source/split PDF committed: **No**.
+- canonical records: **49 / 49**;
+- verified: **47**;
+- `needs-review`: **2 — scans 223–224 only**;
+- scans 215–219: **closed by direct user review**;
+- source PDF committed: **No**.
 
-Tamil audit: [`../../notes/part-005-tamil-audit.md`](../../notes/part-005-tamil-audit.md).
+This review remains subordinate to the canonical Tamil `pages/` layer. Whole-work English verification does not turn the two physically missing source regions into native-verified text.
 
-The seven damaged records are not upgraded by this review. Scans 215–219 remain obstructed by repair/tape, including duplicate physical witnesses of printed pages 214–215; scans 223–224 have substantial physical loss. Where native pixels are absent, the user baseline remains provenance-qualified rather than scan-proven.
+## 2026-09-03 user-reviewed corrections
 
-### 2026-08-30 old-glyph integrity correction
+### Scan 215 / printed 213
 
-A retrospective high-resolution audit found that an earlier assistant pass had repeatedly mistaken this edition's old/faint final `லை` for bare `ல்`. Readable scans **198, 199, 201, 207, 214, 220, 221, 225, 228, 229, 230, 231, 233, 234, 235, 238, 239, 241, 242, 243, 244 and 245** were corrected in canonical Tamil and the assembled Tamil chapters 22–27 were re-synchronized.
+The canonical Tamil was corrected from the user's direct source review:
 
-Examples of the corrected Tamil authority include `தவறொன்றுமில்லை`, `அதுதான் இல்லை`, `எனக்குக் கவலையில்லை`, `இறக்கவில்லை`, `புரியவில்லை`, `முடியவில்லை`, `வரவில்லை`, `தேவையில்லை`, and `நிமிஷங்கூட ஆகவில்லை`. The old shortened assistant claims are no longer source authority.
+- `பாமளாவும்` → `பரிமளாவும்`;
+- `கொழுந்தே` → `கொழுந்தாம்`;
+- `என்று தழுதழுத்த குரலிலே கேட்டான்` → `என்று தழுதழுத்த குரலிலே அவன் கேட்டான்`.
 
-This was not a normalization pass: source-specific forms such as scan 229 `தீண்ட வில்லையே` and scan 244's first `தெரியவில்லையே` remain unchanged where the native pixels support them. See [`../../notes/old-glyph-retrospective-audit-120-245.md`](../../notes/old-glyph-retrospective-audit-120-245.md).
+English impact:
 
-Restoring the missed final `லை` does not alter the intended negative sense of the affected English passages, so no semantic English prose rewrite was required. This review is re-affirmed against the corrected Tamil authority.
+- **Pamala** → **Parimala**;
+- the prior vocative **“My sprout of the clan”** was removed; the line now reads **“I am the father who begot you, the shoot of my clan—”**;
+- the added Tamil subject `அவன்` requires no separate semantic repair because the English already says **“he asked”**.
 
-## Assembled Tamil inventory reviewed
+### Scan 216 / printed 214
 
-- `../../sections/22-chapter-22.md` — scans 196–205; closes the chapter begun in Part 004; re-synchronized for scans 198, 199 and 201;
-- `../../sections/23-chapter-23.md` — scans 206–214; re-synchronized for scans 207 and 214;
-- `../../sections/24-chapter-24.md` — scans 215–225, with explicit source-damage qualification for scans 215–219 and 223–224; readable scans 220, 221 and 225 corrected;
-- `../../sections/25-chapter-25.md` — scans 226–235 chapter-25 portion; corrected readable old-glyph forms through scan 235;
-- `../../sections/26-chapter-26.md` — scan 235 chapter-26 portion through scan 240; corrected scans 235, 238 and 239;
-- `../../sections/27-chapter-27.md` — scans 241–245; corrected readable old-glyph forms; chapter remains open beyond the derivative.
+Tamil corrections:
 
-Duplicate physical witnesses at scans 218–219 remain in the canonical `pages/` provenance layer and are not duplicated as narrative text in the assembled layer.
+- `புண்ணுக்கு மருந்து கேட்கிறாய்.` → `புண்ணுக்கு மருந்து கேள்; தருகிறேன்.`;
+- `அவன் வீறுகொண்டு` → `அவன் வீரனாக`.
 
-## English inventory reviewed
+English was correspondingly corrected to:
 
-- `translations/en/sections/22-chapter-22.md`
-- `translations/en/sections/23-chapter-23.md`
-- `translations/en/sections/24-chapter-24.md`
-- `translations/en/sections/25-chapter-25.md`
-- `translations/en/sections/26-chapter-26.md`
-- `translations/en/sections/27-chapter-27.md`
+- **“Durai! Ask for medicine for the wound; I'll give it. Do not ask me to pierce it with a spear. I cannot!”**;
+- **“But he did not stand as a warrior and fight.”**
 
-## Source-check findings
+### Scans 217–219
 
-The English layer was checked against the audited canonical Tamil and assembled Tamil. Outside editions, OCR and general knowledge do not override the source.
+The user confirmed the retained readings. Scan 218 is the duplicate witness of corrected printed page 214 and is synchronized to scan 216; scan 219 is the duplicate witness of printed page 215. These physical witnesses remain separate for provenance but are not duplicated in the reading layer.
 
-- scan **196 → 197** remains continuous chapter 22 material; the Part-004/Part-005 derivative boundary creates no narrative break;
-- scan **204 → 205** joins `குதூகலமு` + `மாக` = `குதூகலமுமாக`;
-- scan **206 → 207** continues `என்று தனக்குத் தானே` + `வருத்தப்பட்டுக்கொண்டான் துரை.`;
-- scan **208 → 209** joins `வெளி` + `யிலே` = `வெளியிலே`;
-- scan **212 → 213** continues `அவனிடம்` + `பெற்ற பாடம்`;
-- the duplicated printed pages represented by scans **216/218** and **217/219** are provenance duplicates, not repeated narrative passages;
-- scans **223–224** remain translation-qualified because physical source loss prevents complete native verification;
-- scan **227 → 228** joins `சிறு` + `கல்லும்`;
-- scan **228 → 229** joins `‘கள்வர் புகும்` + `வழியிலே’`;
-- scan **230 → 231** joins `அவன் கண்` + `கள்` = `அவன் கண்கள்`;
-- the multi-line treasure clue beginning `எழுவானுக்கும் தொழுவானுக்கும்...` remains a distinct textual block in Tamil and is translated as a clue/riddle without inventing an external interpretation;
-- scan **235 → 236** joins `அமைந்` + `திருந்தன.` = `அமைந்திருந்தன.`;
-- scan **237 → 238** joins `அந்தப் பிடியி` + `லிருந்து` = `அந்தப் பிடியிலிருந்து`;
-- scan **239 → 240** joins `என்ன செய்` + `தானே?`, preserving the source-supported question rather than the earlier baseline form;
-- scan **243 → 244** continues `அங்கே` + `அடர்ந்திருக்கும்` in one sentence;
-- corrected Tamil old-glyph forms are now the authority; genuine source-odd forms such as `வீணுக`, `நன்றுக`, `தன் ஆசை அத்தான்`, `தன் இதழ்கள்`, `ஒரு புதுவழி`, `சந்திக்கும்போதெல்லாம்`, scan 229 `தீண்ட வில்லையே`, and scan 244's first `தெரியவில்லையே` remain preserved where source-supported;
-- remembered diary material, prison accounts, folklore, religious claims, political commentary and the treasure explanation remain attributed to the source narration/dialogue rather than presented as independently verified outside facts;
-- violence, sexual exploitation, caste/social references, grief, satire, romance and political rhetoric are translated without intentional softening or intensification;
-- no substantive narrative sentence or dialogue in the represented Part-005 text is intentionally omitted;
-- scan **245 / printed page 241** ends mid-sentence at `இருக்கவே`; the English endpoint remains correspondingly open and does not invent the continuation.
+## Remaining qualification — scans 223–224 only
 
-## Split-boundary gate
+- scan **223 / printed 219**: substantial right-side physical page loss;
+- scan **224 / printed 220**: substantial left-side physical page loss.
 
-The Part-004 endpoint is closed by Part-005 evidence. Part 005 itself ends in the middle of chapter 27 and in the middle of a sentence. Part 006 begins at **source scan 246 / printed page 242** and has already established the direct continuation `இருக்கவே இருக்கிறாள் பரிமளா, ...` from native evidence.
+The baseline-supported text in the absent-paper regions is retained for continuous reading and translation, but it cannot be certified character-by-character from this source image. A stronger witness is required for native verification.
 
-## Verdict
+## Earlier old-glyph review retained
 
-- physical-page inventory for Part 005: **PASS — 49 / 49 represented**
-- native fidelity on readable records: **PASS — 42 verified after old-glyph reinspection**
-- source-damage disposition: **PASS — 7 records explicitly retained `needs-review`**
-- Part-005 Tamil audit: **PASS WITH SOURCE-DAMAGE QUALIFICATION**
-- incremental assembled Tamil through Part 005: **PASS WITH THE SAME QUALIFICATION / re-synchronized**
-- English source check through Part 005: **PASS — no semantic rewrite required by restored final `லை` forms**
-- Part-005 bilingual review: **PASS WITH THE SAME QUALIFICATION**
-- Part-005 state: **`part-complete`**
-- continuous split-level bilingual review: **scans 1–245**, with the seven Part-005 source-damage qualifications retained
-- whole-work Tamil audit: **not yet eligible**
-- whole-work English `verified`: **not yet eligible**
-- release-ready: **No**
+The 2026-08-30 retrospective high-resolution audit of old/faint `லை` forms remains in force. Readable Part-005 pages were corrected where native pixels supported the full final glyph, while source-specific spacing/forms such as scan 229 `தீண்ட வில்லையே` were preserved rather than normalized.
+
+The 2026-09-03 corrections supersede only the exact readings listed above; they do not reopen unrelated Part-005 text.
+
+## Coverage and structure
+
+The reviewed English continues continuously through Chapters 22–27 across scans 197–245. Duplicate printed-page witnesses 214–215 are represented once narratively. The Part-005 endpoint at scan 245 remains mid-sentence and correctly joins Part 006.
+
+No additional substantive English omission, duplicated narrative span, speaker change, or chapter-boundary error was introduced by the user corrections.
+
+## Final Part-005 result
+
+- physical-page inventory: **PASS — 49 / 49**;
+- native/source verification: **47 verified + 2 physical-loss `needs-review`**;
+- Tamil audit: **PASS WITH TWO PHYSICAL-LOSS QUALIFICATIONS**;
+- assembled Tamil: **re-synchronized**;
+- English source fidelity: **PASS after the two semantic corrections above**;
+- bilingual review: **PASS WITH THE SAME TWO QUALIFICATIONS**;
+- Part-005 state: **`part-complete`**.
