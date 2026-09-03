@@ -1,68 +1,37 @@
 # Visual/textual fidelity — Part 005 scans 217–228
 
-Access derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245.pdf`
+## Current result
 
-Baseline: user-supplied Iteration 20, printed pages **215–224**.
+- scans 217–222: **verified**;
+- scans 223–224: **`needs-review` — physical page loss**;
+- scans 225–228: **verified**.
 
-## Result
+Only **223–224** remain unresolved in this range.
 
-| Source scan | Printed page | Result | Note |
-|---:|:---:|---|---|
-| 217 | 215 | **needs-review** | duplicate witness; repair/tape obscures letters |
-| 218 | 214 | **needs-review** | duplicate of printed 214; same repair/tape obstruction as scan 216 |
-| 219 | 215 | **needs-review** | duplicate of printed 215; obstruction remains |
-| 220 | 216 | **verified** | native comparison complete; old-glyph reinspection complete |
-| 221 | 217 | **verified** | native comparison complete; old-glyph reinspection complete |
-| 222 | 218 | **verified** | native comparison complete |
-| 223 | 219 | **needs-review** | large right-side physical loss |
-| 224 | 220 | **needs-review** | large left-side physical loss |
-| 225 | 221 | **verified** | native comparison complete; old-glyph reinspection complete |
-| 226 | 222 | **verified** | source-printed chapter 25 begins |
-| 227 | 223 | **verified** | ends at `சிறு` |
-| 228 | 224 | **verified** | begins `கல்லும்`; ends at `‘கள்வர் புகும்`; old-glyph reinspection complete |
+## 2026-09-03 user-review closure
 
-Iteration-20 physical records: **12**  
-Fully verified in this pass: **7**  
-Needs-review in this pass: **5**  
-Partial: **0**
+The user directly reviewed the attached Part-005 source and confirmed the retained reading for scan **217 / printed 215**.
 
-A 2026-08-30 retrospective audit found that earlier assistant readings on several readable pages had mistaken the edition's faint/old final `லை` for bare `ல்`. Those false corrections are withdrawn below. See [`old-glyph-retrospective-audit-120-245.md`](old-glyph-retrospective-audit-120-245.md).
+- scan 217: verified with no lexical change;
+- scan 218: duplicate physical witness of printed 214, synchronized to the corrected scan-216 reading;
+- scan 219: duplicate physical witness of printed 215, user-confirmed and verified.
 
-## Duplicate / damaged-page anomaly
+The duplicate witnesses remain separately represented in `pages/` for provenance but are not duplicated in assembled Chapter 24.
 
-The derivative's physical sequence around this point is not monotonic by printed page:
+## Remaining physical loss
 
-- scan 215 → printed 213
-- scan 216 → printed 214
-- scan 217 → printed 215
-- scan 218 → printed 214 **duplicate**
-- scan 219 → printed 215 **duplicate**
-- scan 220 → printed 216
+### Scan 223 / printed 219
 
-The repeated 214/215 scans are retained as independent provenance records. Their tape/repair patterns do not reveal enough additional pixels to close the obscured readings on scans 215–219.
+A large missing/torn region removes much of the right side of the paper. Surviving source pixels establish sequence and visible anchors, but absent-paper text cannot be verified character-by-character.
 
-Printed pages **219** and **220** are physically torn, with large white/missing regions on opposite sides. The Iteration-20 baseline is retained for hidden text, but scans 223–224 are not promoted to `verified`.
+### Scan 224 / printed 220
 
-The old-glyph discovery does not authorize reconstruction of any hidden letters on these damaged pages.
+A large missing/torn region removes much of the left side of the paper. The same source limitation applies.
 
-## Source-confirmed corrections / forms
+The baseline-supported continuous reading is retained for scans 223–224 without upgrading absent pixels to native verification.
 
-- scan 220: source confirms baseline `அதுதான் இல்லை!`; `எனக்குக் கவலையில்லை!`;
-- scan 221: source confirms baseline `அப்பா இறக்கவில்லை`; the lower-page reading remains `பூச்சிடுகிறார்`;
-- scan 225: source confirms baseline `கையிலே இல்லை`; `கையில்லை`; `கேட்கவில்லை`; `முடியவில்லை`;
-- scan 227: `மருங்கப்பள்ளம் கிராமம் தான்`;
-- scan 228: source confirms baseline `புரியவில்லை`; the treasure clue is printed as a distinct multi-line block.
+## Verified continuation
 
-The earlier assistant-shortened `இல்ல`, `கவலையில்ல`, `இறக்கவில்ல`, `கையில்ல`, `கேட்கவில்ல`, `முடியவில்ல`, and `புரியவில்ல` claims on these readable scans are superseded.
+Scans 225–228 remain verified under the completed Part-005 audit and old-glyph review. Chapter 24 closes on scan 225; Chapter 25 begins scan 226; scan 227 `சிறு` joins scan 228 `கல்லும்`.
 
-## Physical joins / structure
-
-- scan 216 printed 214 ends `சிறையிலும் வெளியிலும் அவனும் நானும்`; printed page 215 continues `சேர்ந்து பழகினோம்.` The derivative then repeats printed pages 214–215 before proceeding to 216.
-- scan 225 / printed 221 closes chapter **24**.
-- scan 226 / printed 222 begins source-printed chapter **25**.
-- scan 227 `சிறு` → scan 228 `கல்லும்` = `சிறு கல்லும்`.
-- scan 228 ends at `‘கள்வர் புகும்`; scan 229 / printed 225 visibly continues `வழியிலே’` in the next native page.
-
-## Gate
-
-Scans **215–219 and 223–224** remain `needs-review` for physical-source reasons. The retrospective old-glyph audit corrects readable-page transcription only and leaves the source-damage boundary unchanged.
+Current authority: [`part-005-tamil-audit.md`](part-005-tamil-audit.md).
