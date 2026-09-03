@@ -5,7 +5,7 @@ section_order: 51
 section_title: "Chapter 51"
 language: "en"
 source_scans: "438 (chapter-51 portion)-447"
-status: "bilingual-reviewed-through-441-draft-translated-through-narrative-end"
+status: "bilingual-reviewed-through-441-source-checked-through-narrative-end"
 derived_from: "audited Tamil pages 0438-0447 and checked assembled sections/51-chapter-51.md"
 ---
 
