@@ -25,8 +25,8 @@ Complete source-visible lexical spans absent from a baseline require explicit us
 | Parts 001–004 | 1–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification** |
 | Parts 006–008 | 246–392 | **part-complete** |
-| Part 009 | 393–441 | **Tamil audit PASSED — 49 / 49 verified; assembled Tamil next after Part-010 resolution** |
-| Part 010 | 442–448 | **canonical complete — 7 / 7 represented; 6 verified, scan 445 needs-review** |
+| Part 009 | 393–441 | **Tamil audit PASSED — 49 / 49 verified; assembled Tamil next** |
+| Part 010 | 442–448 | **Tamil audit PASSED — 7 / 7 verified; assembled Tamil next** |
 
 ## Parts 009–010 source checkpoint
 
@@ -50,32 +50,30 @@ The received narrative ends on **scan 447 / printed 443**; scan **448** is back 
 - baseline-only structural marks rejected: `⚬` on scan 416 and `*` on scan 435;
 - Chapter 51 remains open at scan 441 and continues into Part 010.
 
-### Part 010 current result
+### Part 010 result
 
 - source: `TVA_BOK_0064097_புதையல்_part_010_pages_442-448.pdf`;
 - baseline: `p10.md`;
-- canonical: **7 / 7**;
-- verified: **6 / 7**;
-- needs-review: **1 — scan 445 / printed 441**;
-- Tamil audit: **BLOCKED** — [`notes/part-010-tamil-audit.md`](notes/part-010-tamil-audit.md).
+- canonical / verified: **7 / 7**;
+- Part-010 needs-review: **0**;
+- Tamil audit: **PASSED** — [`notes/part-010-tamil-audit.md`](notes/part-010-tamil-audit.md).
 
-Native scan 445 contains complete word **`விடு`** in `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`; `p10.md` omits that word. Canonical scan 445 therefore withholds `விடு` pending explicit user disposition.
+Native scan 445 contains complete word **`விடு`** in `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`; `p10.md` omits it. The user explicitly authorized insertion of **`விடு`** on 2026-09-03. It is restored narrowly in canonical scan 445; this does not broaden the lexical-authority rule.
 
 ## Aggregate archival status
 
 - canonical Tamil page records: **448**;
-- verified / completed: **440**;
-- needs-review: **8** — Part 005 scans **215–219, 223–224** plus Part 010 scan **445**;
+- verified / completed: **441**;
+- needs-review: **7 — only Part 005 scans 215–219 and 223–224**;
 - partial: **0**;
 - assembled Tamil: continuous through scan **392 / printed 388**;
 - source-checked English: continuous through scan **392 / printed 388**;
 - bilingual-reviewed English: continuous through scan **392 / printed 388**;
 - physically received derivative coverage: through scan **448**, including the actual narrative ending and printer colophon;
 - Parts 001–008: **part-complete**;
-- Part 009: **Tamil audit passed; downstream assembly pending**;
-- Part 010: **Tamil audit blocked on one lexical omission**;
+- Parts 009–010: **Tamil audits PASSED; downstream assembly pending**;
 - whole-work verification / release: **not yet eligible**.
 
 ## Exact next activity
 
-Resolve the Part-010 scan-445 omission. If the user authorizes native **`விடு`**, restore it narrowly, return scan 445 to `verified`, rerun Part-010 Tamil audit, then assemble Tamil continuously from scan **393 through the novel ending on scan 447**, with scan 448 retained separately as printer-colophon back matter.
+Build the **assembled Tamil reading layer continuously for Parts 009–010**, from scan **393 through the novel ending on scan 447**, resolving only audited physical joins, including the authorized scan-445 `விடு` exactly once, preserving chapter transitions and the native ending structure, and keeping scan **448** separate as printer-colophon back matter.
