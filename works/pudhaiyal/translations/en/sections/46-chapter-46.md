@@ -5,7 +5,7 @@ section_order: 46
 section_title: "Chapter 46"
 language: "en"
 source_scans: "396 (chapter-46 portion)-408 (chapter-46 portion)"
-status: "source-checked-part-009"
+status: "bilingual-reviewed-part-009"
 derived_from: "audited Tamil pages and checked assembled sections/46-chapter-46.md"
 ---
 
