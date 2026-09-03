@@ -18,30 +18,33 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **392 canonical / 385 verified-complete / 7 needs-review; Parts 001–008 part-complete; Parts 009–010 received/mapped** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **402 canonical / 395 verified-complete / 7 needs-review; Parts 001–008 part-complete; Part 009 10/49 verified; Part 010 received** |
 
 ### புதையல் — current source state
 
-Received derivatives now cover scans **1–448**. Printed narrative reaches page **443** on scan **447**; scan **448** is the unnumbered printer colophon **`அன்பு அச்சகம், பொறையார்.`**
+Received derivatives cover scans **1–448**. Printed narrative reaches page **443** on scan **447**; scan **448** is the unnumbered printer colophon **`அன்பு அச்சகம், பொறையார்.`**
 
-The new Part-009 and Part-010 derivatives are mapped as scans **393–441 / printed 389–437** and scans **442–448 / printed 438–443 + colophon**. Part 008 `நமது` continues with Part 009 `வாழ்க்கையை` as **`நமது வாழ்க்கையை`**; Part 009 `அம்ப` continues with Part 010 `லமே` as **`அம்பலமே`**.
+Part 009 maps to scans **393–441 / printed 389–437** and Part 010 to scans **442–448 / printed 438–443 + colophon**. The source joins are verified as **`நமது வாழ்க்கையை`** across scans 392→393 and **`அம்பலமே`** across scans 441→442.
 
-The source ending is now physically received: Chapter 51 / narrative text ends on scan **447 / printed 443**, and scan 448 is separate back matter. Canonical processing for scans 393–448 is still pending, so whole-work verification/release remains blocked.
+Part-009 canonical reconciliation has begun: scans **393–402 / printed 389–398** are `verified`, with no complete `p9.md` lexical omission found in that ten-page block. Scan 396 closes Chapter 45 and opens Chapter 46. The current canonical boundary is scan 402 `விடுவித்து`; scan 403 begins `விடு`.
+
+The source ending is physically received but not yet canonically closed: narrative ends on scan **447 / printed 443**, followed by printer back matter on scan 448.
 
 Current aggregate state:
 
-- canonical: **392**
-- verified/completed: **385**
+- canonical: **402**
+- verified/completed: **395**
 - needs-review: **7 — only Part 005 scans 215–219 and 223–224**
 - assembled Tamil: continuous through **scan 392 / printed 388**
 - source-checked English: continuous through **scan 392 / printed 388**
 - bilingual-reviewed English: continuous through **scan 392 / printed 388**
 - received source coverage: through **scan 448**
 - Parts 001–008: **part-complete**
-- Parts 009–010: **source intake complete / canonical pending**
+- Part 009: **10 / 49 canonical + verified**
+- Part 010: **received/mapped; canonical pending**
 - whole-work verification/release: **not yet eligible**
 
-Exact next action: begin **Part 009 canonical reconciliation at scan 393 / printed 389**, using `p9.md` as lexical authority and the native scan as structural authority. Part 010 follows after scan 441.
+Exact next action: continue **Part 009 canonical reconciliation at scan 403 / printed 399**, using `p9.md` as lexical authority and the native scan as structural authority.
 
 ## நிறைவு பெற்ற reference work
 
