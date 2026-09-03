@@ -5,7 +5,7 @@ section_order: 45
 section_title: "Chapter 45"
 language: "en"
 source_scans: "387 (chapter-45 portion)-396 (chapter-45 portion)"
-status: "source-checked-through-chapter-close"
+status: "bilingual-reviewed-through-part-009"
 derived_from: "audited Tamil pages and checked assembled sections/45-chapter-45.md"
 ---
 
