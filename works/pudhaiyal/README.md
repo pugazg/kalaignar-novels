@@ -6,6 +6,19 @@
 **Tamil Digital Library bibliographic extent:** 443 p.  
 **Source PDF in repository:** No
 
+## Release status
+
+**ARCHIVAL PACKAGE + VERIFIED ENGLISH: RELEASE-READY WITH EXPLICIT PART-005 SOURCE-DAMAGE QUALIFICATION**
+
+Release records:
+
+- complete-source manifest: [`indexes/FULL_SOURCE_PAGE_MAP.md`](indexes/FULL_SOURCE_PAGE_MAP.md)
+- whole-work Tamil audit: [`audit.md`](audit.md)
+- assembled Tamil reading index: [`sections/README.md`](sections/README.md)
+- English reading index: [`translations/en/README.md`](translations/en/README.md)
+- final whole-work bilingual review: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+- final release report: [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
+
 ## Source / baseline authority
 
 Through scan 279, preserve completed source-first decisions. From **scan 280 onward**, supplied Gemini transcription controls lexical wording/forms/spacing and native scans control page identity, headings, punctuation, quotations, paragraphing, physical boundaries, separators and chapter/scene/work-ending structure.
@@ -17,69 +30,70 @@ Through scan 279, preserve completed source-first decisions. From **scan 280 onw
 
 Complete source-visible lexical spans absent from a baseline require explicit user disposition before insertion. Existing authorized restorations remain narrow documented exceptions.
 
+## Complete-source state
+
+- received source scans: **1–448**;
+- canonical Tamil page records: **448 / 448**;
+- native-verified / completed: **441**;
+- source-damage `needs-review`: **7 — only scans 215–219 and 223–224 in Part 005**;
+- partial: **0**;
+- actual narrative ending: **scan 447 / printed 443**;
+- scan 448: separate printer-colophon back matter `அன்பு அச்சகம், பொறையார்.`.
+
+The seven Part-005 records remain explicitly source-damage-qualified. Release-ready status does **not** claim their missing/damaged native pixels have been recovered.
+
 ## Part status
 
-| Part | Source scans | State |
+| Part | Source scans | Final state |
 |---|---:|---|
 | Parts 001–004 | 1–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification** |
 | Parts 006–010 | 246–448 | **part-complete** |
 
-## Parts 009–010 source checkpoint
+All ten parts have passed their applicable Tamil audit, assembled-Tamil, English source-check and bilingual-review gates.
 
-Part 009 maps to scans **393–441 / printed 389–437**. Part 010 maps to scans **442–448**, with printed **438–443** on scans 442–447 and separate unnumbered printer colophon on scan 448.
+## Reading continuity
 
-Verified continuity:
+Verified derivative joins include:
 
-- scan 392 `நமது` + scan 393 `வாழ்க்கையை` → **`நமது வாழ்க்கையை`**;
-- scan 441 `அம்ப` + scan 442 `லமே` → **`அம்பலமே`**; reviewed English `Amb` + Part-010 continuation → **`Ambalam`**.
+- scan 343→344: Tamil `அதிர்ஷ்` + `டம்` → **`அதிர்ஷ்டம்`**; English `luc` + `k` → **luck**;
+- scan 392→393: `நமது` + `வாழ்க்கையை` → **`நமது வாழ்க்கையை`**;
+- scan 441→442: `அம்ப` + `லமே` → **`அம்பலமே`**; English `Amb` + continuation → **Ambalam**.
 
-The actual narrative ends on **scan 447 / printed 443**. Scan **448** is separate back matter with **`அன்பு அச்சகம், பொறையார்.`**
+Earlier split boundaries at 49→50, 98→99, 147→148, 196→197, 245→246 and 294→295 are likewise provenance-only and remain narratively continuous.
 
-### Part 009 result
+## Authorized restorations
 
-- canonical / verified: **49 / 49**;
-- needs-review: **0**;
-- Tamil audit: **PASSED** — [`notes/part-009-tamil-audit.md`](notes/part-009-tamil-audit.md);
-- assembled Tamil: **PASSED** — [`notes/part-009-assembled-tamil-check.md`](notes/part-009-assembled-tamil-check.md);
-- controlled English source check: **PASSED** — [`translations/en/PART_009_ENGLISH_CHECK.md`](translations/en/PART_009_ENGLISH_CHECK.md);
-- bilingual review: **PASSED** — [`translations/en/PART_009_REVIEW.md`](translations/en/PART_009_REVIEW.md);
-- source-check corrections: **1 English-only Chapter-46 ritual-oath refinement; Tamil unchanged**;
-- bilingual-review corrections: **0 additional English changes**;
-- split state: **`part-complete`**.
+Documented narrow user-authorized source-visible restorations:
 
-### Part 010 result
+- Part 007 scan 304 — `நீ`;
+- Part 007 scan 305 — `என்ன`;
+- Part 007 scan 315 — `சரி...... வா! வா!......`;
+- Part 008 scan 384 — `தகட்டில் இருக்கிறபடி`;
+- Part 010 scan 445 — `விடு` in `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`.
 
-- canonical / verified: **7 / 7**;
-- needs-review: **0**;
-- Tamil audit: **PASSED** — [`notes/part-010-tamil-audit.md`](notes/part-010-tamil-audit.md);
-- assembled Tamil: **PASSED** — [`notes/part-010-assembled-tamil-check.md`](notes/part-010-assembled-tamil-check.md);
-- controlled English source check: **PASSED** — [`translations/en/PART_010_ENGLISH_CHECK.md`](translations/en/PART_010_ENGLISH_CHECK.md);
-- bilingual review: **PASSED** — [`translations/en/PART_010_REVIEW.md`](translations/en/PART_010_REVIEW.md);
-- split state: **`part-complete`**;
-- native scan 445 word **`விடு`**, omitted from `p10.md`, was explicitly authorized by the user and restored narrowly in `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`; reviewed English includes **“bury it beside Thangam!”**;
-- scan-446 `ஐயப்பன் கொலை வழக்கு` is represented as **“Ayyappan murder case”**;
-- scan-446 source-form `ஆகர` remains English **`Agar!`** rather than being silently normalized;
-- the bilingual review restored scan-445 `இந்தப் பாவி` as **“this sinner”**, preserving Mayandi's self-reproach;
-- final scan-447 wording that Durai goes to report **“Velliyambalam had returned”** is retained without rationalization;
-- scan 448 remains separate bilingual-reviewed back matter in [`translations/en/sections/99-printer-colophon.md`](translations/en/sections/99-printer-colophon.md).
+These do not broaden source-correction authority.
 
-## Aggregate archival status
+## English status
 
-- canonical Tamil page records: **448**;
-- verified / completed: **441**;
-- needs-review: **7 — only source-damaged Part-005 scans 215–219 and 223–224**;
-- partial: **0**;
-- assembled Tamil narrative: continuous through **scan 447 / printed 443 — actual novel ending**;
-- assembled back matter: through **scan 448 — printer colophon**;
-- source-checked English narrative: continuous through **scan 447 / printed 443 — actual novel ending**;
+- source-checked English narrative: through **scan 447 / printed 443**;
 - source-checked English back matter: through **scan 448**;
-- bilingual-reviewed English narrative: continuous through **scan 447 / printed 443 — actual novel ending**;
+- bilingual-reviewed English narrative: through **scan 447 / printed 443**;
 - bilingual-reviewed English back matter: through **scan 448**;
-- Parts **001–010: part-complete**;
-- whole-work English / release review: **pending**;
-- whole-work verification/release: **not yet claimed**.
+- Parts 001–010: **part-complete**;
+- whole-work bilingual alignment: **PASSED**;
+- whole-work English translation: **VERIFIED**.
 
-## Exact next activity
+The final review preserves source-specific oddities rather than silently “correcting” them, including Chapter-48 Aravan/Bhima wording, Chapter-51 `Mayarandi`, scan-446 `Agar!`, and the final wording that Durai goes to report that **“Velliyambalam had returned.”**
 
-Run the **final whole-work English / release review for `புதையல்`** across the complete assembled English package. Verify front matter, introduction, Chapters 1–51, all split-boundary joins, Part-005 source-damage qualifications, user-authorized restorations, controlled terminology, narrative ending on scan 447, separate scan-448 colophon, and consistency of every per-part source-check/review record. Only after that whole-work gate passes should `புதையல்` be marked English verified / release-ready.
+## Release verdict
+
+- Tamil archival package: **RELEASE-READY WITH SOURCE-DAMAGE QUALIFICATION**;
+- English translation package: **VERIFIED / RELEASE-READY**;
+- combined repository edition: **RELEASE-READY within this archive**.
+
+Rights/licensing and external historical fact-checking remain outside this archival release verdict.
+
+## Next activity
+
+`புதையல்` has no remaining archival / translation / release gate in the current workflow. For the next novel/story, use the repository's [`NEXT_NOVEL_CHAT_PROMPT.md`](../../NEXT_NOVEL_CHAT_PROMPT.md) and begin from live `main` with the new controlling source.
