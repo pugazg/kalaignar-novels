@@ -66,7 +66,8 @@
 | **Part 008 checkpoint** | **344–392** | **Tamil audit + assembled consistency check PASSED** | **controlled English source check + bilingual review PASSED / part-complete** |
 | Chapter 45, Part 009 continuation | 393–396 portion | assembled / Part-009 check PASSED | **draft-translated through chapter close; scan-392 `our` boundary resolved; source check pending** |
 | Chapter 46 | 396 portion–408 portion | assembled / Part-009 check PASSED | **draft-translated; source check pending** |
-| **Part 009 draft frontier** | **393–408 portion** | **whole Part-009 Tamil audit + assembled consistency PASSED** | **controlled English draft through Chapter 46; source check pending** |
+| Chapter 47 | 408 portion–414 portion | assembled / Part-009 check PASSED | **draft-translated; source check pending** |
+| **Part 009 draft frontier** | **393–414 portion** | **whole Part-009 Tamil audit + assembled consistency PASSED** | **controlled English draft through Chapter 47; source check pending** |
 
 Review/check records:
 
@@ -93,15 +94,16 @@ The Part-008 review preserves the user-authorized scan-384 Tamil restoration `�
 Part-009 draft inventory now begins from that reviewed boundary:
 
 - `sections/45-chapter-45.md` resolves scan 392 `நமது` + scan 393 `வாழ்க்கையை` as the audited continuous sentence and is draft-translated through the Chapter-45 close on scan 396 portion;
-- `sections/46-chapter-46.md` is newly draft-translated continuously through its close on scan 408 portion;
+- `sections/46-chapter-46.md` is draft-translated continuously through its close on scan 408 portion;
+- `sections/47-chapter-47.md` is draft-translated continuously through its close on scan 414 portion;
 - no Part-009 controlled English source check or bilingual review has yet been claimed.
 
 English-only source-check corrections through Part 008 covered the Chapter-39 explicit `சாயபுக்கு` recipient, Chapter-42 kiss reciprocity, and two Chapter-44 wording/typo corrections. The bilingual review additionally refined Chapter 41 `ஜாடையாகத் திரும்பிப் பார்த்துவிட்டு` to **“cast a discreet glance back”** and Chapter 45 `பெரிய ஜெயிலில் பெரிய ஆட்கள்` to **“The big jail had all sorts of big shots.”** No Tamil was changed.
 
-Continuous split-level **source-checked and bilingual-reviewed English remains at scans 1–392**. Controlled English **draft translation now continues through scan 408 portion / Chapter 46 close**. The seven Part-005 damaged physical records — scans **215–219 and 223–224** — remain explicit source-damage qualifications and are not promoted to native verification by translation.
+Continuous split-level **source-checked and bilingual-reviewed English remains at scans 1–392**. Controlled English **draft translation now continues through scan 414 portion / Chapter 47 close**. The seven Part-005 damaged physical records — scans **215–219 and 223–224** — remain explicit source-damage qualifications and are not promoted to native verification by translation.
 
-Whole-work English status: **not verified**. The full Tamil source and true ending/back matter are now known and assembled, but English draft translation remains incomplete from Chapter 47 onward and final Part-009/010 source checks, bilingual reviews and whole-work review remain open.
+Whole-work English status: **not verified**. The full Tamil source and true ending/back matter are now known and assembled, but English draft translation remains incomplete from Chapter 48 onward and final Part-009/010 source checks, bilingual reviews and whole-work review remain open.
 
 ## Exact next activity
 
-Continue the **Part 009 controlled English draft with Chapter 47**, beginning at scan **408 portion** and translating continuously through its chapter close on scan **414 portion**. Preserve source-specific oddities rather than silently correcting them. Do not mark Part 009 `source-checked` or `reviewed` until the complete Part-009 draft has been finished and the dedicated downstream checks are run.
+Continue the **Part 009 controlled English draft with Chapter 48**, beginning at scan **414 portion** and translating continuously through its chapter close on scan **422**. Preserve source-specific oddities rather than silently correcting them. Do not mark Part 009 `source-checked` or `reviewed` until the complete Part-009 draft has been finished and the dedicated downstream checks are run.
