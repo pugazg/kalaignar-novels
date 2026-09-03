@@ -69,7 +69,8 @@
 | Chapter 47 | 408 portion–414 portion | assembled / Part-009 check PASSED | **draft-translated; source check pending** |
 | Chapter 48 | 414 portion–422 | assembled / Part-009 check PASSED | **draft-translated; source check pending** |
 | Chapter 49 | 423–429 portion | assembled / Part-009 check PASSED | **draft-translated; source check pending** |
-| **Part 009 draft frontier** | **393–429 portion** | **whole Part-009 Tamil audit + assembled consistency PASSED** | **controlled English draft through Chapter 49; source check pending** |
+| Chapter 50 | 429 portion–438 portion | assembled / Part-009 check PASSED | **draft-translated; source check pending** |
+| **Part 009 draft frontier** | **393–438 portion** | **whole Part-009 Tamil audit + assembled consistency PASSED** | **controlled English draft through Chapter 50; source check pending** |
 
 Review/check records:
 
@@ -100,14 +101,15 @@ Part-009 draft inventory now begins from that reviewed boundary:
 - `sections/47-chapter-47.md` is draft-translated continuously through its close on scan 414 portion;
 - `sections/48-chapter-48.md` is draft-translated continuously through its close on scan 422; the source's Aravan/Bhima wording, caste-marked insult and `kalappali` language are preserved rather than externally corrected or neutralized;
 - `sections/49-chapter-49.md` is draft-translated continuously through its close on scan 429 portion; the source's village-violence wording, Durai's rallying speech and the rekla pursuit toward Manora are preserved without downstream review claims;
+- `sections/50-chapter-50.md` is draft-translated continuously through its close on scan 438 portion; Mayandi's repeated `சாவுக் கண்ணீர்` image, his death and loss of the treasure secret into the sea, and Ambalam's disappearance into the sea are preserved without downstream review claims;
 - no Part-009 controlled English source check or bilingual review has yet been claimed.
 
 English-only source-check corrections through Part 008 covered the Chapter-39 explicit `சாயபுக்கு` recipient, Chapter-42 kiss reciprocity, and two Chapter-44 wording/typo corrections. The bilingual review additionally refined Chapter 41 `ஜாடையாகத் திரும்பிப் பார்த்துவிட்டு` to **“cast a discreet glance back”** and Chapter 45 `பெரிய ஜெயிலில் பெரிய ஆட்கள்` to **“The big jail had all sorts of big shots.”** No Tamil was changed.
 
-Continuous split-level **source-checked and bilingual-reviewed English remains at scans 1–392**. Controlled English **draft translation now continues through scan 429 portion / Chapter 49 close**. The seven Part-005 damaged physical records — scans **215–219 and 223–224** — remain explicit source-damage qualifications and are not promoted to native verification by translation.
+Continuous split-level **source-checked and bilingual-reviewed English remains at scans 1–392**. Controlled English **draft translation now continues through scan 438 portion / Chapter 50 close**. The seven Part-005 damaged physical records — scans **215–219 and 223–224** — remain explicit source-damage qualifications and are not promoted to native verification by translation.
 
-Whole-work English status: **not verified**. The full Tamil source and true ending/back matter are now known and assembled, but English draft translation remains incomplete from Chapter 50 onward and final Part-009/010 source checks, bilingual reviews and whole-work review remain open.
+Whole-work English status: **not verified**. The full Tamil source and true ending/back matter are now known and assembled, but the Part-009 draft still requires the Chapter-51 portion through scan 441; Part-010 English and final Part-009/010 source checks, bilingual reviews and whole-work review remain open.
 
 ## Exact next activity
 
-Continue the **Part 009 controlled English draft with Chapter 50**, beginning at scan **429 portion** and translating continuously through its chapter close on scan **438 portion**. Preserve source-specific oddities rather than silently correcting them. Do not mark Part 009 `source-checked` or `reviewed` until the complete Part-009 draft has been finished and the dedicated downstream checks are run.
+Continue the **Part 009 controlled English draft with the Chapter 51 Part-009 portion**, beginning at scan **438 portion** and translating continuously through scan **441**. Preserve the audited physical split endpoint `அம்ப` exactly and do not import Part-010 `லமே` into the Part-009 derivative. Once this final Part-009 draft portion is complete, run the dedicated Part-009 English source check before bilingual review.
