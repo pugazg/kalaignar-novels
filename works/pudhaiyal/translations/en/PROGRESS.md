@@ -64,14 +64,14 @@
 | Chapter 44 | 376 portion–387 portion | assembled / Part-008 check PASSED | **bilingual-reviewed after fidelity corrections; includes authorized scan-384 restoration as “as the plate says”** |
 | Chapter 45, Part 008 portion | 387 portion–392 | assembled / Part-008 open boundary | **bilingual-reviewed after fidelity refinement / derivative boundary at “our”** |
 | **Part 008 checkpoint** | **344–392** | **Tamil audit + assembled consistency check PASSED** | **controlled English source check + bilingual review PASSED / part-complete** |
-| Chapter 45, Part 009 continuation | 393–396 portion | assembled / Part-009 check PASSED | **source-checked through chapter close; scan-392 `our` boundary resolved** |
-| Chapter 46 | 396 portion–408 portion | assembled / Part-009 check PASSED | **source-checked after one English-only ritual-oath fidelity correction** |
-| Chapter 47 | 408 portion–414 portion | assembled / Part-009 check PASSED | **source-checked** |
-| Chapter 48 | 414 portion–422 | assembled / Part-009 check PASSED | **source-checked; source-specific Aravan/Bhima and caste-marked wording retained** |
-| Chapter 49 | 423–429 portion | assembled / Part-009 check PASSED | **source-checked** |
-| Chapter 50 | 429 portion–438 portion | assembled / Part-009 check PASSED | **source-checked; `சாவுக் கண்ணீர்` imagery retained** |
-| Chapter 51, Part 009 portion | 438 portion–441 | assembled / Part-009 open boundary | **source-checked through physical endpoint `அம்ப` / English `Amb`** |
-| **Part 009 source-check checkpoint** | **393–441** | **whole Part-009 Tamil audit + assembled consistency PASSED** | **controlled English source check PASSED; bilingual review pending** |
+| Chapter 45, Part 009 continuation | 393–396 portion | assembled / Part-009 check PASSED | **bilingual-reviewed through chapter close; scan-392 `our` boundary resolved** |
+| Chapter 46 | 396 portion–408 portion | assembled / Part-009 check PASSED | **bilingual-reviewed after one English-only source-check fidelity correction** |
+| Chapter 47 | 408 portion–414 portion | assembled / Part-009 check PASSED | **bilingual-reviewed** |
+| Chapter 48 | 414 portion–422 | assembled / Part-009 check PASSED | **bilingual-reviewed; source-specific Aravan/Bhima and caste-marked wording retained** |
+| Chapter 49 | 423–429 portion | assembled / Part-009 check PASSED | **bilingual-reviewed** |
+| Chapter 50 | 429 portion–438 portion | assembled / Part-009 check PASSED | **bilingual-reviewed; `சாவுக் கண்ணீர்` imagery retained** |
+| Chapter 51, Part 009 portion | 438 portion–441 | assembled / Part-009 open boundary | **bilingual-reviewed through physical endpoint `அம்ப` / English `Amb`** |
+| **Part 009 checkpoint** | **393–441** | **whole Part-009 Tamil audit + assembled consistency PASSED** | **controlled English source check + bilingual review PASSED / part-complete** |
 
 Review/check records:
 
@@ -87,32 +87,23 @@ Review/check records:
 - [`PART_008_ENGLISH_CHECK.md`](PART_008_ENGLISH_CHECK.md) — controlled English source check **PASSED**
 - [`PART_008_REVIEW.md`](PART_008_REVIEW.md) — bilingual review **PASSED / part-complete**
 - [`PART_009_ENGLISH_CHECK.md`](PART_009_ENGLISH_CHECK.md) — controlled English source check **PASSED; one English-only Chapter-46 fidelity correction**
+- [`PART_009_REVIEW.md`](PART_009_REVIEW.md) — bilingual review **PASSED / part-complete; no additional English changes required**
 
-Part-008 reviewed inventory:
+Part-009 reviewed inventory begins from the Part-008 reviewed boundary:
 
-- `sections/checkpoints/part-008-chapter-39-continuation.md` — completes Part-007 `luc` as `luck` and closes Chapter 39 on scan 347;
-- `sections/40-chapter-40.md` through `sections/44-chapter-44.md` — source-checked and bilingual-reviewed;
-- `sections/45-chapter-45.md` — source-checked and bilingual-reviewed through scan 392, where the Part-008 derivative ended at English **“our”** corresponding to Tamil `நமது`.
+- `sections/45-chapter-45.md` resolves scan 392 `நமது` + scan 393 `வாழ்க்கையை` as the audited continuous sentence and is bilingual-reviewed through the Chapter-45 close on scan 396 portion;
+- `sections/46-chapter-46.md` is bilingual-reviewed through scan 408 portion after one English-only source-check fidelity correction to the ritual-oath sequence: **“I will lay down the cloth and cross it. I will swear it! I will even embrace the heat!”**;
+- `sections/47-chapter-47.md` is bilingual-reviewed continuously through its close on scan 414 portion, retaining the source-specific head-ornament terms and `dharpaasooran` phrase without external correction;
+- `sections/48-chapter-48.md` is bilingual-reviewed through scan 422, preserving the source's Aravan/Bhima wording, `kalappali` and caste-marked insult;
+- `sections/49-chapter-49.md` is bilingual-reviewed continuously through its close on scan 429 portion, preserving the village-violence wording, Durai's rallying speech and rekla pursuit toward Manora;
+- `sections/50-chapter-50.md` is bilingual-reviewed continuously through its close on scan 438 portion, preserving Mayandi's repeated `சாவுக் கண்ணீர்` image, his death and loss of the treasure secret into the sea, and Ambalam's disappearance into the sea;
+- `sections/51-chapter-51.md` is bilingual-reviewed from the Chapter-51 opening on scan 438 through the Part-009 physical endpoint on scan 441 and deliberately ends at English **`Amb`** corresponding to Tamil **`அம்ப`**, without importing Part-010 `லமே`;
+- the bilingual pass made no additional English change beyond the Chapter-46 correction already recorded by the controlled source check.
 
-The Part-008 review preserves the user-authorized scan-384 Tamil restoration `தகட்டில் இருக்கிறபடி` as **“as the plate says”** exactly once. It also preserves the native four-star transitions through the checked assembled layer, the scan-381 structure-only relocation, the scan-390 ordering, and does not infer text beyond scan 392.
+Continuous split-level **source-checked and bilingual-reviewed English now reaches scans 1–441 / the Part-009 physical endpoint**. The seven Part-005 damaged physical records — scans **215–219 and 223–224** — remain explicit source-damage qualifications and are not promoted to native verification by translation.
 
-Part-009 source-checked inventory begins from that reviewed boundary:
-
-- `sections/45-chapter-45.md` resolves scan 392 `நமது` + scan 393 `வாழ்க்கையை` as the audited continuous sentence and is source-checked through the Chapter-45 close on scan 396 portion;
-- `sections/46-chapter-46.md` is source-checked through scan 408 portion after one English-only fidelity correction to the ritual-oath sequence: **“I will lay down the cloth and cross it. I will swear it! I will even embrace the heat!”**;
-- `sections/47-chapter-47.md` is source-checked continuously through its close on scan 414 portion, retaining the source-specific head-ornament terms and `dharpaasooran` phrase without external correction;
-- `sections/48-chapter-48.md` is source-checked through scan 422, preserving the source's Aravan/Bhima wording, `kalappali` and caste-marked insult;
-- `sections/49-chapter-49.md` is source-checked continuously through its close on scan 429 portion, preserving the village-violence wording, Durai's rallying speech and rekla pursuit toward Manora;
-- `sections/50-chapter-50.md` is source-checked continuously through its close on scan 438 portion, preserving Mayandi's repeated `சாவுக் கண்ணீர்` image, his death and loss of the treasure secret into the sea, and Ambalam's disappearance into the sea;
-- `sections/51-chapter-51.md` is source-checked from the Chapter-51 opening on scan 438 through the Part-009 physical endpoint on scan 441 and deliberately ends at English **`Amb`** corresponding to Tamil **`அம்ப`**, without importing Part-010 `லமே`;
-- Part-009 bilingual review has not yet been claimed.
-
-English-only source-check corrections through Part 008 covered the Chapter-39 explicit `சாயபுக்கு` recipient, Chapter-42 kiss reciprocity, and two Chapter-44 wording/typo corrections. The bilingual review additionally refined Chapter 41 `ஜாடையாகத் திரும்பிப் பார்த்துவிட்டு` to **“cast a discreet glance back”** and Chapter 45 `பெரிய ஜெயிலில் பெரிய ஆட்கள்` to **“The big jail had all sorts of big shots.”** Part 009 adds one English-only source-check correction in Chapter 46. No Tamil was changed.
-
-Continuous split-level **source-checked English now reaches scans 1–441 / the Part-009 physical endpoint**. Continuous **bilingual-reviewed English remains at scans 1–392**. The seven Part-005 damaged physical records — scans **215–219 and 223–224** — remain explicit source-damage qualifications and are not promoted to native verification by translation.
-
-Whole-work English status: **not verified**. Part 009 controlled English source check has passed, but Part-009 bilingual review remains open; Part-010 English continuation and its downstream checks also remain pending before whole-work review.
+Whole-work English status: **not verified**. Parts 001–009 are now split-level `part-complete`, but Part-010 English continuation, source check and bilingual review remain pending before final whole-work review.
 
 ## Exact next activity
 
-Run the **Part-009 bilingual review across scans 393–441**, comparing the source-checked English with canonical/assembled Tamil for semantic fidelity, dialogue coverage, names/terms, humour, violence, romance, rhetorical force, chapter transitions, preserved source oddities, the resolved `நமது வாழ்க்கையை` opening boundary and the open `அம்ப` / `Amb` endpoint. Only after that review passes may Part 009 be marked `part-complete`.
+Continue with **Part 010 controlled English translation**, beginning at scan **442** by completing the open Chapter-51 word from Part 009: English `Amb` must join the Part-010 continuation to form **`Ambalam`**, corresponding to audited Tamil `அம்ப` + `லமே` → **`அம்பலமே`**. Translate continuously through the actual narrative ending on scan **447 / printed 443**. Keep scan **448** as separate printer-colophon back matter and do not claim Part-010 source check or bilingual review until the Part-010 English draft is complete.
