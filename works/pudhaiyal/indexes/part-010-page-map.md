@@ -12,11 +12,11 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_010_pages_442-448
 - `p10.md` SHA-256: `938407860a3a80e14da3a5d6a273675b8cdcc3e70e8a0e538f40dcceb871dc3a`
 - source/split PDF committed: **No**
 - baseline file committed: **No**
-- canonical records: **0 / 7**
-- verified: **0 / 7**
-- needs-review: **0**
-- not-started: **7**
-- split state: **`source-intake-complete / canonical-after-part-009`**
+- canonical records: **7 / 7**
+- verified: **6 / 7**
+- needs-review: **1 — scan 445 / printed 441**
+- not-started: **0**
+- split state: **`canonical-complete / tamil-audit-blocked-on-lexical-omission`**
 
 ## Authority rule
 
@@ -24,15 +24,27 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_010_pages_442-448
 
 Part 009 scan 441 ends `அம்ப`; Part 010 scan 442 begins `லமே`, proving **`அம்பலமே`** across the split.
 
+## Lexical omission requiring disposition
+
+Native scan **445 / printed 441** contains:
+
+`தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`
+
+The controlling `p10.md` baseline contains only:
+
+`தங்கத்திற்குப் பக்கத்திலே புதைத்து` + closing quotation mark.
+
+Therefore the complete native word **`விடு`** is currently withheld from canonical scan 445 and that page remains `needs-review` pending explicit user disposition.
+
 | Source scan | Printed page | Section | Status | File / note |
 |---:|:---:|---|---|---|
-| 442 | 438 | chapter 51 continuation | not-started | `../pages/0442-pudhaiyal.md`; continues Part 009 `அம்ப` → `லமே` |
-| 443 | 439 | chapter 51 continuation | not-started | `../pages/0443-pudhaiyal.md` |
-| 444 | 440 | chapter 51 continuation | not-started | `../pages/0444-pudhaiyal.md` |
-| 445 | 441 | chapter 51 continuation | not-started | `../pages/0445-pudhaiyal.md` |
-| 446 | 442 | chapter 51 continuation | not-started | `../pages/0446-pudhaiyal.md` |
-| 447 | 443 | chapter 51 / narrative ending | not-started | `../pages/0447-pudhaiyal.md`; narrative ends; horizontal rule/ending ornament |
-| 448 | — | printer colophon / back matter | not-started | `../pages/0448-pudhaiyal.md`; `அன்பு அச்சகம், பொறையார்.` |
+| 442 | 438 | chapter 51 continuation | verified | `../pages/0442-pudhaiyal.md`; Part 009 `அம்ப` → `லமே` |
+| 443 | 439 | chapter 51 continuation | verified | `../pages/0443-pudhaiyal.md` |
+| 444 | 440 | chapter 51 continuation | verified | `../pages/0444-pudhaiyal.md` |
+| 445 | 441 | chapter 51 continuation | **needs-review** | `../pages/0445-pudhaiyal.md`; native `விடு` absent from `p10.md` |
+| 446 | 442 | chapter 51 continuation | verified | `../pages/0446-pudhaiyal.md` |
+| 447 | 443 | chapter 51 / narrative ending | verified | `../pages/0447-pudhaiyal.md`; native closing rule + ending emblem |
+| 448 | — | printer colophon / back matter | verified | `../pages/0448-pudhaiyal.md`; `அன்பு அச்சகம், பொறையார்.` |
 
 ## Ending structure
 
@@ -41,4 +53,4 @@ Part 009 scan 441 ends `அம்ப`; Part 010 scan 442 begins `லமே`, pro
 
 ## Exact next activity
 
-Process Part 009 canonical Tamil first. Part 010 follows only after Part 009 has been reconciled through scan 441.
+Resolve the scan-445 lexical omission. If the user authorizes native **`விடு`**, insert it narrowly, return scan 445 to `verified`, rerun Part-010 Tamil audit and then proceed to assembled Tamil for Parts 009–010.
