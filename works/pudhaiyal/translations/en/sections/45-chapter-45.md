@@ -39,7 +39,7 @@ They stood looking at one another with the indestructible affection of brother a
 
 “That day you suggested setting the house on fire so that I could get out. But I did not listen to you; I rolled your body, precious as gold, on the ground and surrendered to the policemen, didn't I? From that day I was shut in the police station for five or six days. During those days I felt only that I had performed some great sacrifice. That was because I alone was kept there by myself.
 
-“Afterwards they transferred me from there to the big jail. They locked me up in the name of remand. There were big people of every kind in the big jail. Not only Dukkaram, who repairs bicycles—even some proprietors who manufacture bicycles were inside, involved in fraud cases. The fear I had carried in my mind about jail disappeared.
+“Afterwards they transferred me from there to the big jail. They locked me up in the name of remand. The big jail had all sorts of big shots. Not only Dukkaram, who repairs bicycles—even some proprietors who manufacture bicycles were inside, involved in fraud cases. The fear I had carried in my mind about jail disappeared.
 
 “The one hardship in jail that can torment a human being is loneliness. But that very loneliness gave me happiness. Even if I had remained outside, this same loneliness would have been mine. Once it had been settled that you were not mine, if a millionaire's daughter came, or even a Rathi looking like a Ravi Varma picture, would I think of living with her as my partner? The very goal of my life was Parimala! She became my younger sister. After that, whenever I see any woman, she appears to me only as a sister. That is why the loneliness of jail gave me so much strength.
 
