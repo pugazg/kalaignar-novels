@@ -29,7 +29,7 @@ A user-authorized restoration is narrow to the documented omission and does not 
 ## Split checkpoints
 
 - Parts 001–008 — `part-complete`
-- Part 009 — scans **393–441** — **Tamil audit PASSED + assembled Tamil PASSED; controlled English draft through Chapter 46 / scan 408 portion**
+- Part 009 — scans **393–441** — **Tamil audit PASSED + assembled Tamil PASSED; controlled English draft through Chapter 47 / scan 414 portion**
 - Part 010 — scans **442–448** — **Tamil audit PASSED + assembled Tamil PASSED; controlled English pending**
 
 ## Part 009 gate state
@@ -40,13 +40,13 @@ A user-authorized restoration is narrow to the documented omission and does not 
 - needs-review: **0**
 - Tamil audit: **PASS** — [`notes/part-009-tamil-audit.md`](notes/part-009-tamil-audit.md)
 - assembled Tamil: **PASS** — [`notes/part-009-assembled-tamil-check.md`](notes/part-009-assembled-tamil-check.md)
-- controlled English draft: **IN PROGRESS — Chapter 45 continuation through Chapter 46 close / scan 408 portion**
+- controlled English draft: **IN PROGRESS — Chapter 45 continuation through Chapter 47 close / scan 414 portion**
 - English source check: **PENDING until complete Part-009 draft**
 - bilingual review: **PENDING**
 
 Part 009 continues Chapter 45 across scan392→393 and carries Chapters 45–51 through scan 441. The endpoint `அம்ப` is a physical split only and joins Part010 `லமே` as **`அம்பலமே`**.
 
-The English Chapter-45 continuation resolves the already-audited scan392 `நமது` + scan393 `வாழ்க்கையை` boundary. Chapter 46 is now draft-translated through its close on scan 408 portion. These draft units are not yet promoted to `source-checked` or `reviewed`.
+The English Chapter-45 continuation resolves the already-audited scan392 `நமது` + scan393 `வாழ்க்கையை` boundary. Chapters 46 and 47 are now draft-translated continuously through the Chapter-47 close on scan 414 portion. These draft units are not yet promoted to `source-checked` or `reviewed`.
 
 ## Part 010 gate state
 
@@ -70,4 +70,4 @@ Scan **447 / printed443** is the actual novel narrative ending. Scan **448** is 
 
 ## Exact next activity
 
-Continue the **Part 009 controlled English draft with Chapter 47**, beginning at scan **408 portion** and translating continuously through its close on scan **414 portion**. Continue the remaining Part-009 chapters from the checked assembled Tamil before running the Part-009 English source check and bilingual review.
+Continue the **Part 009 controlled English draft with Chapter 48**, beginning at scan **414 portion** and translating continuously through its close on scan **422**. Continue the remaining Part-009 chapters from the checked assembled Tamil before running the Part-009 English source check and bilingual review.
