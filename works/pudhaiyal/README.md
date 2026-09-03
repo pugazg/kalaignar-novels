@@ -29,9 +29,9 @@ Part 008 has one user-authorized source-visible restoration: scan **384 / printe
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification** |
 | Part 006 | 246–294 | **part-complete** |
 | Part 007 | 295–343 | **part-complete** |
-| Part 008 | 344–392 | **Tamil audit PASSED + assembled Tamil PASSED + controlled English source check PASSED / bilingual review next** |
+| Part 008 | 344–392 | **part-complete** |
 
-## Part 008 — current stage
+## Part 008 — completed split checkpoint
 
 Source: `TVA_BOK_0064097_புதையல்_part_008_pages_344-392.pdf`
 
@@ -48,9 +48,9 @@ Source: `TVA_BOK_0064097_புதையல்_part_008_pages_344-392.pdf`
 - Tamil audit: **PASSED** — [`notes/part-008-tamil-audit.md`](notes/part-008-tamil-audit.md);
 - assembled Tamil audit: **PASSED** — [`notes/part-008-assembled-tamil-audit.md`](notes/part-008-assembled-tamil-audit.md);
 - controlled English source check: **PASSED** — [`translations/en/PART_008_ENGLISH_CHECK.md`](translations/en/PART_008_ENGLISH_CHECK.md);
-- bilingual review: **NEXT**;
+- bilingual review: **PASSED** — [`translations/en/PART_008_REVIEW.md`](translations/en/PART_008_REVIEW.md);
 - page map: [`indexes/part-008-page-map.md`](indexes/part-008-page-map.md);
-- state: **`english-source-checked / bilingual-review-next`**.
+- state: **`part-complete`**.
 
 ### Structural findings retained
 
@@ -69,16 +69,15 @@ Assembled Chapters **39–45** represent the audited Part-008 material through s
 
 The Part-008 assembled-Tamil consistency check **PASSED**.
 
-### Controlled English source-check result
+### English result
 
-Part-008 English is source-checked through scan **392 / printed 388**:
+Part-008 English is source-checked and bilingual-reviewed through scan **392 / printed 388**:
 
-- the Chapter-39 checkpoint completes reviewed Part-007 `luc` with Part-008 `k`, forming **luck** and closing Chapter 39 on scan 347;
-- English Chapters **40–44** are source-checked;
-- English Chapter **45** is source-checked through scan 392 and remains deliberately open at **`our`**, corresponding to Tamil `நமது`;
+- the Chapter-39 checkpoint completes reviewed Part-007 `luc` with Part-008 `k`, forming **luck** and closes Chapter 39 on scan 347;
+- English Chapters **40–44** are source-checked and bilingual-reviewed;
+- English Chapter **45** is source-checked and bilingual-reviewed through scan 392 and remains deliberately open at **`our`**, corresponding to Tamil `நமது`;
 - Chapter 44 renders the authorized `தகட்டில் இருக்கிறபடி` restoration exactly once as **“as the plate says”**;
-- English source-check corrections are documented in [`translations/en/PART_008_ENGLISH_CHECK.md`](translations/en/PART_008_ENGLISH_CHECK.md);
-- bilingual review has not yet run, so Part 008 is not yet `part-complete`.
+- source-check and bilingual-review corrections are documented in [`translations/en/PART_008_ENGLISH_CHECK.md`](translations/en/PART_008_ENGLISH_CHECK.md) and [`translations/en/PART_008_REVIEW.md`](translations/en/PART_008_REVIEW.md).
 
 ## Aggregate archival status
 
@@ -88,12 +87,11 @@ Part-008 English is source-checked through scan **392 / printed 388**:
 - partial: **0**;
 - assembled Tamil: continuous through scan **392 / printed 388**;
 - source-checked English: continuous through scan **392 / printed 388**;
-- bilingual-reviewed English: continuously through scan **343**;
+- bilingual-reviewed English: continuous through scan **392 / printed 388**;
 - physically received derivative coverage: through scan **392 / printed 388**;
-- Parts 001–007: **part-complete**;
-- Part 008: **Tamil + assembled Tamil + English source check passed; bilingual review pending**;
+- Parts 001–008: **part-complete**;
 - whole-work verification / release: **not yet eligible**.
 
 ## Exact next activity
 
-Run the **Part-008 bilingual review across scans 344–392**. Compare the source-checked English with canonical/assembled Tamil for semantic fidelity, dialogue coverage, names/terms, humour, violence, romance, rhetorical force, chapter transitions, the authorized scan-384 restoration and the open scan-392 endpoint. Only after that review passes may Part 008 be marked `part-complete`.
+Obtain / resolve the **next source derivative beyond scan 392**. Before creating any new canonical record, verify the first new source page against the open scan-392 `நமது` boundary and establish the real next source-scan / printed-page mapping from the source itself. Do not infer the continuation word, Chapter-45 ending, next part range, final source extent or novel ending without that material.
