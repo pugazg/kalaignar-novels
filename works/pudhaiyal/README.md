@@ -24,8 +24,8 @@ Complete source-visible lexical spans absent from a baseline require explicit us
 | Parts 001–004 | 1–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification** |
 | Parts 006–008 | 246–392 | **part-complete** |
-| Part 009 | 393–441 | **Tamil audit PASSED + assembled Tamil PASSED; English next** |
-| Part 010 | 442–448 | **Tamil audit PASSED + assembled Tamil PASSED; English next** |
+| Part 009 | 393–441 | **Tamil audit + assembled Tamil PASSED; controlled English draft through Chapter 46 / scan 408 portion; source check pending** |
+| Part 010 | 442–448 | **Tamil audit + assembled Tamil PASSED; English pending** |
 
 ## Parts 009–010 source checkpoint
 
@@ -44,6 +44,9 @@ The actual narrative ends on **scan 447 / printed 443**. Scan **448** is separat
 - needs-review: **0**;
 - Tamil audit: **PASSED** — [`notes/part-009-tamil-audit.md`](notes/part-009-tamil-audit.md);
 - assembled Tamil: **PASSED** — [`notes/part-009-assembled-tamil-check.md`](notes/part-009-assembled-tamil-check.md);
+- controlled English draft: **through Chapter 46 close / scan 408 portion**;
+- controlled English source check: **pending**;
+- bilingual review: **pending**;
 - no complete `p9.md` lexical omission found;
 - non-native baseline-only marks rejected: `⚬` scan 416 and `*` scan 435.
 
@@ -53,6 +56,7 @@ The actual narrative ends on **scan 447 / printed 443**. Scan **448** is separat
 - needs-review: **0**;
 - Tamil audit: **PASSED** — [`notes/part-010-tamil-audit.md`](notes/part-010-tamil-audit.md);
 - assembled Tamil: **PASSED** — [`notes/part-010-assembled-tamil-check.md`](notes/part-010-assembled-tamil-check.md);
+- controlled English: **pending**;
 - native scan 445 word **`விடு`**, omitted from `p10.md`, was explicitly authorized by the user and restored narrowly in `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`.
 
 ## Aggregate archival status
@@ -65,10 +69,12 @@ The actual narrative ends on **scan 447 / printed 443**. Scan **448** is separat
 - assembled back matter: through **scan 448 — printer colophon**;
 - source-checked English: continuous through **scan 392 / printed 388**;
 - bilingual-reviewed English: continuous through **scan 392 / printed 388**;
+- draft-translated English: continuous through **scan 408 portion / Chapter 46 close**;
 - Parts 001–008: **part-complete**;
-- Parts 009–010: **Tamil + assembled gates PASSED; controlled English pending**;
+- Part 009: **Tamil + assembled gates PASSED; controlled English draft in progress**;
+- Part 010: **Tamil + assembled gates PASSED; controlled English pending**;
 - whole-work verification/release: **not yet eligible** until remaining downstream English/review and final whole-work gates are completed.
 
 ## Exact next activity
 
-Begin **controlled English translation for Parts 009–010**, extending Chapter 45 from scan **393** through Chapters **46–51** and the actual ending on scan **447**. Preserve scan **448** as separate printer-colophon back matter. After the draft, run the English source check before bilingual review.
+Continue the **Part 009 controlled English draft with Chapter 47**, beginning at scan **408 portion** and translating through its close on scan **414 portion**. Continue Chapters 48–51 only from the audited assembled Tamil layer. Do not run or claim the Part-009 English source check until the complete Part-009 draft through scan 441 is finished.
