@@ -29,7 +29,7 @@ A user-authorized restoration is narrow to the documented omission and does not 
 ## Split checkpoints
 
 - Parts 001–008 — `part-complete`
-- Part 009 — scans **393–441** — **Tamil audit PASSED + assembled Tamil PASSED; controlled English draft through Chapter 50 / scan 438 portion**
+- Part 009 — scans **393–441** — **Tamil audit PASSED + assembled Tamil PASSED + controlled English draft COMPLETE; English source check pending**
 - Part 010 — scans **442–448** — **Tamil audit PASSED + assembled Tamil PASSED; controlled English pending**
 
 ## Part 009 gate state
@@ -40,13 +40,13 @@ A user-authorized restoration is narrow to the documented omission and does not 
 - needs-review: **0**
 - Tamil audit: **PASS** — [`notes/part-009-tamil-audit.md`](notes/part-009-tamil-audit.md)
 - assembled Tamil: **PASS** — [`notes/part-009-assembled-tamil-check.md`](notes/part-009-assembled-tamil-check.md)
-- controlled English draft: **IN PROGRESS — Chapter 45 continuation through Chapter 50 close / scan 438 portion**
-- English source check: **PENDING until complete Part-009 draft**
+- controlled English draft: **PASS — COMPLETE through scan 441 physical endpoint**
+- English source check: **PENDING — NEXT GATE**
 - bilingual review: **PENDING**
 
 Part 009 continues Chapter 45 across scan392→393 and carries Chapters 45–51 through scan 441. The endpoint `அம்ப` is a physical split only and joins Part010 `லமே` as **`அம்பலமே`**.
 
-The English Chapter-45 continuation resolves the already-audited scan392 `நமது` + scan393 `வாழ்க்கையை` boundary. Chapters 46–50 are now draft-translated continuously through the Chapter-50 close on scan 438 portion. Chapter 48 preserves the source's Aravan/Bhima wording, caste-marked insult and `kalappali` language without external correction. Chapter 49 preserves the source's village-violence wording and rekla pursuit toward Manora. Chapter 50 preserves Mayandi's repeated `சாவுக் கண்ணீர்` image, his death and the source's Ambalam-at-sea ending without downstream review claims. These draft units are not yet promoted to `source-checked` or `reviewed`.
+The English Chapter-45 continuation resolves the already-audited scan392 `நமது` + scan393 `வாழ்க்கையை` boundary. Chapters 46–50 are draft-translated continuously through the Chapter-50 close on scan 438 portion. The Chapter-51 Part-009 derivative continues from scan 438 through scan 441 and deliberately ends at English **`Amb`**, corresponding to the Tamil physical fragment **`அம்ப`**, without importing Part-010 `லமே`. Chapter 48 preserves the source's Aravan/Bhima wording, caste-marked insult and `kalappali` language without external correction. Chapter 49 preserves the source's village-violence wording and rekla pursuit toward Manora. Chapter 50 preserves Mayandi's repeated `சாவுக் கண்ணீர்` image, his death and the source's Ambalam-at-sea ending without downstream review claims. No Part-009 draft unit is yet promoted to `source-checked` or `reviewed`.
 
 ## Part 010 gate state
 
@@ -70,4 +70,4 @@ Scan **447 / printed443** is the actual novel narrative ending. Scan **448** is 
 
 ## Exact next activity
 
-Continue the **Part 009 controlled English draft with the Chapter 51 Part-009 portion**, beginning at scan **438 portion** and translating continuously through scan **441**. Preserve the audited open split endpoint `அம்ப` and do not pull Part-010 `லமே` into the Part-009 derivative. After the Part-009 draft is complete, run the Part-009 English source check before bilingual review.
+Run the **Part 009 controlled English source check for scans 393–441**. Compare the complete draft against the audited canonical Tamil pages and checked assembled Tamil, preserve the open `அம்ப` / `Amb` derivative endpoint, record English-only fidelity corrections in `translations/en/PART_009_ENGLISH_CHECK.md`, and run bilingual review only after the source check passes.
