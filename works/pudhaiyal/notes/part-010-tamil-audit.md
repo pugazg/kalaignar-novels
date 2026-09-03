@@ -9,22 +9,9 @@ Lexical baseline: uploaded `p10.md`
 
 ## Verdict
 
-**PART-010 TAMIL AUDIT: BLOCKED — ONE LEXICAL OMISSION REQUIRES USER DISPOSITION**
+**PART-010 TAMIL AUDIT: PASSED**
 
-## Gate checks
-
-- physical page mapping: **PASS — 7 / 7**
-- canonical page records: **PASS — 7 / 7**
-- verified statuses: **6 / 7**
-- Part-010 `needs-review`: **1 — scan 445 / printed 441**
-- complete source-visible lexical spans absent from `p10.md`: **1**
-- unresolved lexical omissions: **1**
-- Part-009→010 `அம்ப` + `லமே` continuity: **PASS**
-- Chapter 51 continuation through narrative ending: **PASS**
-- narrative ending identity: **PASS — scan 447 / printed 443**
-- printer-colophon identity: **PASS — scan 448**
-
-## Blocking omission
+## Authorized lexical restoration
 
 Native scan **445 / printed 441** visibly reads:
 
@@ -32,7 +19,23 @@ Native scan **445 / printed 441** visibly reads:
 
 The controlling `p10.md` baseline omits the complete word **`விடு`**, giving only `...புதைத்து` before the closing quotation mark.
 
-Canonical scan 445 therefore currently retains the baseline without silently restoring `விடு` and is marked `needs-review`.
+The user explicitly authorized insertion of **`விடு`** on 2026-09-03. The word is therefore restored narrowly in canonical scan 445, which has returned to `verified`.
+
+This authorization applies only to that documented omission. It does **not** broaden the scan-280-onward lexical-authority rule.
+
+## Gate checks
+
+- physical page mapping: **PASS — 7 / 7**
+- canonical page records: **PASS — 7 / 7**
+- verified statuses: **PASS — 7 / 7**
+- Part-010 `needs-review`: **0**
+- complete source-visible lexical spans absent from `p10.md`: **1**
+- unresolved lexical omissions: **0**
+- authorized source-visible restorations: **1 — scan 445 `விடு`**
+- Part-009→010 `அம்ப` + `லமே` continuity: **PASS**
+- Chapter 51 continuation through narrative ending: **PASS**
+- narrative ending identity: **PASS — scan 447 / printed 443**
+- printer-colophon identity: **PASS — scan 448**
 
 ## Ending structure
 
@@ -44,4 +47,4 @@ The work's received narrative source therefore has an actual ending; there is no
 
 ## Next gate
 
-Obtain explicit user disposition for native word **`விடு`** on scan 445. If authorized, restore it narrowly, return scan 445 to `verified`, change this audit to **PASSED**, and proceed with the assembled Tamil reading layer for Parts 009–010 / Chapters 45–51 through the novel ending.
+Proceed with the **assembled Tamil reading layer for Parts 009–010 / Chapters 45–51 through the novel ending**, resolving audited physical joins only, including the authorized scan-445 `விடு` exactly once, preserving the scan-447 ending structure, and keeping scan 448 as separate back matter.
