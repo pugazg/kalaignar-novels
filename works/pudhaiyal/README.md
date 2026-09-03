@@ -23,8 +23,7 @@ Complete source-visible lexical spans absent from a baseline require explicit us
 |---|---:|---|
 | Parts 001–004 | 1–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification** |
-| Parts 006–009 | 246–441 | **part-complete** |
-| Part 010 | 442–448 | **Tamil audit + assembled Tamil + controlled English source check PASSED; bilingual review pending** |
+| Parts 006–010 | 246–448 | **part-complete** |
 
 ## Parts 009–010 source checkpoint
 
@@ -43,15 +42,11 @@ The actual narrative ends on **scan 447 / printed 443**. Scan **448** is separat
 - needs-review: **0**;
 - Tamil audit: **PASSED** — [`notes/part-009-tamil-audit.md`](notes/part-009-tamil-audit.md);
 - assembled Tamil: **PASSED** — [`notes/part-009-assembled-tamil-check.md`](notes/part-009-assembled-tamil-check.md);
-- controlled English draft: **COMPLETE through scan 441 physical endpoint**;
 - controlled English source check: **PASSED** — [`translations/en/PART_009_ENGLISH_CHECK.md`](translations/en/PART_009_ENGLISH_CHECK.md);
 - bilingual review: **PASSED** — [`translations/en/PART_009_REVIEW.md`](translations/en/PART_009_REVIEW.md);
 - source-check corrections: **1 English-only Chapter-46 ritual-oath refinement; Tamil unchanged**;
 - bilingual-review corrections: **0 additional English changes**;
-- Chapter 51 Part-009 endpoint: Tamil **`அம்ப`** / English **`Amb`**;
-- split state: **`part-complete`**;
-- no complete `p9.md` lexical omission found;
-- non-native baseline-only marks rejected: `⚬` scan 416 and `*` scan 435.
+- split state: **`part-complete`**.
 
 ### Part 010 result
 
@@ -59,15 +54,15 @@ The actual narrative ends on **scan 447 / printed 443**. Scan **448** is separat
 - needs-review: **0**;
 - Tamil audit: **PASSED** — [`notes/part-010-tamil-audit.md`](notes/part-010-tamil-audit.md);
 - assembled Tamil: **PASSED** — [`notes/part-010-assembled-tamil-check.md`](notes/part-010-assembled-tamil-check.md);
-- controlled English draft: **COMPLETE — Chapter 51 continuation scans 442–447 through actual narrative ending + separate scan-448 printer colophon**;
 - controlled English source check: **PASSED** — [`translations/en/PART_010_ENGLISH_CHECK.md`](translations/en/PART_010_ENGLISH_CHECK.md);
-- additional formal source-check corrections: **0**;
-- bilingual review: **pending — next gate**;
-- native scan 445 word **`விடு`**, omitted from `p10.md`, was explicitly authorized by the user and restored narrowly in `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`; source-checked English includes **“bury it beside Thangam!”**;
+- bilingual review: **PASSED** — [`translations/en/PART_010_REVIEW.md`](translations/en/PART_010_REVIEW.md);
+- split state: **`part-complete`**;
+- native scan 445 word **`விடு`**, omitted from `p10.md`, was explicitly authorized by the user and restored narrowly in `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`; reviewed English includes **“bury it beside Thangam!”**;
 - scan-446 `ஐயப்பன் கொலை வழக்கு` is represented as **“Ayyappan murder case”**;
-- scan-446 source-form `ஆகர` is retained conservatively as English **`Agar!`** rather than silently normalized;
+- scan-446 source-form `ஆகர` remains English **`Agar!`** rather than being silently normalized;
+- the bilingual review restored scan-445 `இந்தப் பாவி` as **“this sinner”**, preserving Mayandi's self-reproach;
 - final scan-447 wording that Durai goes to report **“Velliyambalam had returned”** is retained without rationalization;
-- scan 448 remains separate source-checked back matter in [`translations/en/sections/99-printer-colophon.md`](translations/en/sections/99-printer-colophon.md).
+- scan 448 remains separate bilingual-reviewed back matter in [`translations/en/sections/99-printer-colophon.md`](translations/en/sections/99-printer-colophon.md).
 
 ## Aggregate archival status
 
@@ -78,12 +73,13 @@ The actual narrative ends on **scan 447 / printed 443**. Scan **448** is separat
 - assembled Tamil narrative: continuous through **scan 447 / printed 443 — actual novel ending**;
 - assembled back matter: through **scan 448 — printer colophon**;
 - source-checked English narrative: continuous through **scan 447 / printed 443 — actual novel ending**;
-- source-checked English back matter: through **scan 448 — printer colophon**;
-- bilingual-reviewed English: continuous through **scan 441 / printed 437 — Part-009 physical endpoint**;
-- Parts 001–009: **part-complete**;
-- Part 010: **Tamil + assembled + controlled English source-check gates PASSED; bilingual review pending**;
-- whole-work verification/release: **not yet eligible** until Part-010 bilingual review and final whole-work gates are completed.
+- source-checked English back matter: through **scan 448**;
+- bilingual-reviewed English narrative: continuous through **scan 447 / printed 443 — actual novel ending**;
+- bilingual-reviewed English back matter: through **scan 448**;
+- Parts **001–010: part-complete**;
+- whole-work English / release review: **pending**;
+- whole-work verification/release: **not yet claimed**.
 
 ## Exact next activity
 
-Run the **Part-010 bilingual review across scans 442–448**, comparing the now source-checked English with audited canonical/assembled Tamil for semantic fidelity, Mayandi's rhetorical and emotional force, names/terms, legal wording, the authorized scan-445 `விடு`, scan-446 `ஆகர` / **`Agar!`**, the `Ambalam` cross-split join, the true scan-447 ending, closing structure and separate scan-448 printer-colophon treatment. Only after that review passes may Part 010 be marked `part-complete` and the project advance to final whole-work English/release review.
+Run the **final whole-work English / release review for `புதையல்`** across the complete assembled English package. Verify front matter, introduction, Chapters 1–51, all split-boundary joins, Part-005 source-damage qualifications, user-authorized restorations, controlled terminology, narrative ending on scan 447, separate scan-448 colophon, and consistency of every per-part source-check/review record. Only after that whole-work gate passes should `புதையல்` be marked English verified / release-ready.
