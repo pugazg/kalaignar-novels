@@ -37,27 +37,24 @@ Chapter 51 continues through scans **442–447**.
 
 Scan **447 / printed 443** contains the actual narrative ending, followed by a native horizontal closing rule and small ending emblem. Scan **448** is non-narrative back matter carrying printer imprint **`அன்பு அச்சகம், பொறையார்.`**
 
-## Canonical result / blocking omission
+## Canonical / Tamil-audit result
 
 - derivative identity: **resolved**
 - scan / printed mapping: **resolved**
 - Part-009→010 continuity: **verified**
 - canonical records: **7 / 7**
-- verified: **6 / 7**
-- needs-review: **1 — scan 445 / printed 441**
+- verified: **7 / 7**
+- needs-review: **0**
 - narrative endpoint: **scan 447 / printed 443**
 - back matter: **scan 448 printer colophon**
-- state: **`canonical-complete / tamil-audit-blocked-on-lexical-omission`**
+- Tamil audit: **PASSED**
+- state: **`tamil-audit-passed / assembled-tamil-next`**
 
-Native scan 445 visibly contains:
-
-`தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`
-
-The controlling `p10.md` baseline omits complete word **`விடு`**. Canonical scan 445 therefore withholds the word and remains `needs-review` until explicit user disposition.
+Native scan 445 visibly contains `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`; the controlling `p10.md` baseline omits complete word **`விடு`**. The user explicitly authorized insertion of `விடு` on 2026-09-03. Canonical scan 445 therefore includes it as a narrow documented exception and is `verified`.
 
 Page map: [`../indexes/part-010-page-map.md`](../indexes/part-010-page-map.md).  
 Tamil audit: [`part-010-tamil-audit.md`](part-010-tamil-audit.md).
 
 ## Exact next activity
 
-Obtain explicit user disposition for native **`விடு`** on scan 445. If authorized, restore it narrowly, return scan 445 to `verified`, pass Part-010 Tamil audit, then proceed to the combined Parts 009–010 assembled Tamil layer through the novel ending.
+Proceed to the combined **Parts 009–010 assembled Tamil layer** through the novel ending, preserving audited cross-page joins and scan-447 ending structure, with scan448 retained separately as printer-colophon back matter.
