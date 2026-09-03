@@ -32,7 +32,7 @@ Complete source-visible lexical spans absent from the baseline require explicit 
 
 - Parts 001–009: **part-complete**
 - Part 009 / scans **393–441 / printed 389–437**: **Tamil audit PASSED + assembled Tamil PASSED + controlled English source check PASSED + bilingual review PASSED / part-complete**
-- Part 010 / scans **442–448**: **Tamil audit PASSED + assembled Tamil PASSED; English pending**
+- Part 010 / scans **442–448**: **Tamil audit PASSED + assembled Tamil PASSED + controlled English draft COMPLETE through narrative ending and printer colophon; source check pending**
 - Part-005 source-damage qualification remains on scans **215–219 and 223–224**.
 
 Part 009 records:
@@ -51,13 +51,17 @@ Part 010 records:
 
 - `works/pudhaiyal/notes/part-010-tamil-audit.md`
 - `works/pudhaiyal/notes/part-010-assembled-tamil-check.md`
+- `works/pudhaiyal/translations/en/sections/51-chapter-51.md` — draft-translated from scan 442 through narrative ending on scan 447 while retaining reviewed Part-009 coverage through scan 441
+- `works/pudhaiyal/translations/en/sections/99-printer-colophon.md` — draft-translated scan-448 back matter
 - result: **7 / 7 verified, 0 Part-010 needs-review**
-- scan 445 native `விடு`, omitted from `p10.md`, was explicitly authorized by the user on 2026-09-03 and restored narrowly
+- controlled English draft: **COMPLETE through scan 447 narrative ending + scan 448 printer colophon**
+- English source check / bilingual review: **PENDING**
+- scan 445 native `விடு`, omitted from `p10.md`, was explicitly authorized by the user on 2026-09-03 and restored narrowly; English renders the complete command as **“bury it beside Thangam!”**
 
 Verified source/reading boundaries:
 
 - Part 008→009: `நமது` + `வாழ்க்கையை` → **`நமது வாழ்க்கையை`**;
-- Part 009→010: `அம்ப` + `லமே` → **`அம்பலமே`**;
+- Part 009→010: `அம்ப` + `லமே` → **`அம்பலமே`**; English reviewed `Amb` + Part-010 continuation → **`Ambalam`**;
 - scan **447 / printed 443**: actual narrative ending;
 - scan **448**: separate printer colophon `அன்பு அச்சகம், பொறையார்.`
 
@@ -72,13 +76,15 @@ Verified source/reading boundaries:
 
 - source-checked English: continuous through **scan 441 / printed 437 — Part-009 physical endpoint**;
 - bilingual-reviewed English: continuous through **scan 441 / printed 437 — Part-009 physical endpoint**;
+- controlled English draft narrative: **continuous through scan 447 / printed 443 — actual novel ending**;
+- controlled English back matter: **through scan 448 printer colophon**;
 - Chapter 45 Part-009 continuation is **bilingual-reviewed through its close on scan 396 portion**, resolving the audited `நமது வாழ்க்கையை` join;
 - Chapters 46–50 are **bilingual-reviewed continuously through the Chapter-50 close on scan 438 portion**;
 - Chapter 46 source check made one English-only fidelity refinement to the ritual-oath sequence, removing the draft's added interpretive phrase `in oath` while leaving Tamil unchanged;
-- Chapter 51 is **bilingual-reviewed from scan 438 portion through the Part-009 physical endpoint on scan 441**, deliberately ending at English `Amb` for Tamil `அம்ப` without importing Part-010 `லமே`;
-- source-specific oddities including Chapter-46 disguise/Laila-Qais details, Chapter-47 `dharpaasooran`, Chapter-48 Aravan/Bhima and caste-marked wording, Chapter-50 `சாவுக் கண்ணீர்`, Chapter-51 public-service exhortation, and the open Chapter-51 boundary were preserved without external correction;
-- Part-009 bilingual review made **no additional English changes** beyond the source-check correction;
-- Part-010 controlled English continuation remains pending.
+- Chapter 51 is **bilingual-reviewed through scan 441 and draft-translated from scan 442 through the actual ending on scan 447**; the reviewed Part-009 `Amb` boundary is completed once as **`Ambalam`**, corresponding to Tamil `அம்ப` + `லமே`;
+- the Part-010 draft preserves the authorized scan-445 `விடு`, the source's scan-446 `ஆகர` exclamation conservatively as **`Agar!`**, the recovered treasure-secret sequence, and the final source wording that Durai goes to report that **“Velliyambalam had returned”** rather than rationalizing it;
+- scan 448 is represented separately as English printer-colophon back matter **“Anbu Press, Poraiyar.”**;
+- Part-010 controlled English source check and bilingual review have **not** yet been claimed.
 
 ## Aggregate durable state
 
@@ -88,12 +94,14 @@ Verified source/reading boundaries:
 - partial: **0**
 - assembled Tamil narrative: continuous through **scan 447 / printed 443 — actual ending**
 - assembled back matter: through **scan 448**
+- controlled English draft narrative: continuous through **scan 447 / printed 443 — actual ending**
+- controlled English draft back matter: through **scan 448**
 - source-checked English: continuous through **scan 441 / printed 437 — Part-009 physical endpoint**
 - bilingual-reviewed English: continuous through **scan 441 / printed 437 — Part-009 physical endpoint**
 - Parts 001–009: **part-complete**
-- Part 010: **Tamil + assembled gates PASSED; controlled English pending**
+- Part 010: **Tamil + assembled gates PASSED; controlled English draft COMPLETE; source check pending**
 - whole-work release gates: not yet eligible
 
 ## Exact next activity
 
-Continue **Part 010 controlled English translation**, beginning at scan **442** by completing the open Chapter-51 boundary: English `Amb` from Part 009 must continue to **`Ambalam`**, corresponding to audited Tamil `அம்ப` + `லமே` → **`அம்பலமே`**. Translate Chapter 51 continuously through the actual narrative ending on scan **447 / printed 443**. Keep scan **448** as separate printer-colophon back matter and do not claim Part-010 source check or bilingual review until the Part-010 English draft is complete.
+Run the dedicated **Part 010 controlled English source check across scans 442–448** against the audited canonical Tamil pages and checked assembled Tamil/back matter. Verify the `Amb` + continuation → **`Ambalam`** join, Chapter-51 coverage through the actual ending on scan **447 / printed 443**, the authorized scan-445 **`விடு`** command, source-specific lexical oddities including scan-446 `ஆகர` / **`Agar!`**, the final Velliyambalam-return wording, the closing rule/ending structure, and separate scan-448 printer-colophon treatment. Record any English-only fidelity corrections in `works/pudhaiyal/translations/en/PART_010_ENGLISH_CHECK.md`. Do **not** claim bilingual review or Part-010 `part-complete` until that source check passes and the subsequent bilingual review is completed.
