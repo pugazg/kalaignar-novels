@@ -30,9 +30,9 @@ Complete source-visible lexical spans absent from the baseline require explicit 
 
 ## Durable split state
 
-- Parts 001–009: **part-complete**
+- Parts **001–010: part-complete**
 - Part 009 / scans **393–441 / printed 389–437**: **Tamil audit PASSED + assembled Tamil PASSED + controlled English source check PASSED + bilingual review PASSED / part-complete**
-- Part 010 / scans **442–448**: **Tamil audit PASSED + assembled Tamil PASSED + controlled English source check PASSED; bilingual review pending**
+- Part 010 / scans **442–448**: **Tamil audit PASSED + assembled Tamil PASSED + controlled English source check PASSED + bilingual review PASSED / part-complete**
 - Part-005 source-damage qualification remains on scans **215–219 and 223–224**.
 
 Part 009 records:
@@ -52,14 +52,15 @@ Part 010 records:
 - `works/pudhaiyal/notes/part-010-tamil-audit.md`
 - `works/pudhaiyal/notes/part-010-assembled-tamil-check.md`
 - `works/pudhaiyal/translations/en/PART_010_ENGLISH_CHECK.md`
-- `works/pudhaiyal/translations/en/sections/51-chapter-51.md` — source-checked from scan 442 through narrative ending on scan 447 while retaining bilingual-reviewed Part-009 coverage through scan 441
-- `works/pudhaiyal/translations/en/sections/99-printer-colophon.md` — source-checked scan-448 back matter
+- `works/pudhaiyal/translations/en/PART_010_REVIEW.md`
+- `works/pudhaiyal/translations/en/sections/51-chapter-51.md` — bilingual-reviewed through the actual narrative ending on scan 447
+- `works/pudhaiyal/translations/en/sections/99-printer-colophon.md` — bilingual-reviewed scan-448 back matter
 - result: **7 / 7 verified, 0 Part-010 needs-review**
-- controlled English draft: **COMPLETE through scan 447 narrative ending + scan 448 printer colophon**
-- controlled English source check: **PASSED with no additional correction required**
-- bilingual review: **PENDING**
+- controlled English source check: **PASSED with no new correction required during the formal check**
+- bilingual review: **PASSED with one English-only scan-445 rhetorical fidelity refinement**
 - scan 445 native `விடு`, omitted from `p10.md`, was explicitly authorized by the user on 2026-09-03 and restored narrowly; English represents the complete command as **“bury it beside Thangam!”**
 - immediately before the formal source-check gate, scan-446 `ஐயப்பன் கொலை வழக்கு` was refined from “Ayyappan case” to **“Ayyappan murder case”**; the source check confirmed that wording
+- bilingual review restored Mayandi's scan-445 self-reproach `இந்தப் பாவி` as **“this sinner”** rather than leaving that rhetorical nuance implicit
 
 Verified source/reading boundaries:
 
@@ -79,15 +80,15 @@ Verified source/reading boundaries:
 
 - source-checked English narrative: continuous through **scan 447 / printed 443 — actual novel ending**;
 - source-checked English back matter: through **scan 448 printer colophon**;
-- bilingual-reviewed English: continuous through **scan 441 / printed 437 — Part-009 physical endpoint**;
+- bilingual-reviewed English narrative: continuous through **scan 447 / printed 443 — actual novel ending**;
+- bilingual-reviewed English back matter: through **scan 448 printer colophon**;
 - Chapter 45 Part-009 continuation is **bilingual-reviewed through its close on scan 396 portion**, resolving the audited `நமது வாழ்க்கையை` join;
 - Chapters 46–50 are **bilingual-reviewed continuously through the Chapter-50 close on scan 438 portion**;
 - Chapter 46 source check made one English-only fidelity refinement to the ritual-oath sequence, removing the draft's added interpretive phrase `in oath` while leaving Tamil unchanged;
-- Chapter 51 is **bilingual-reviewed through scan 441 and source-checked from scan 442 through the actual ending on scan 447**; the reviewed Part-009 `Amb` boundary is completed once as **`Ambalam`**, corresponding to Tamil `அம்ப` + `லமே`;
-- the Part-010 source-checked English preserves the authorized scan-445 `விடு`, the scan-446 legal wording **“Ayyappan murder case”**, the source's scan-446 `ஆகர` exclamation conservatively as **`Agar!`**, the recovered treasure-secret sequence, and the final source wording that Durai goes to report that **“Velliyambalam had returned”** rather than rationalizing it;
-- scan 448 is source-checked separately as English printer-colophon back matter **“Anbu Press, Poraiyar.”**;
-- the formal Part-010 source check required **no additional English correction**;
-- Part-010 bilingual review has **not** yet been claimed.
+- Chapter 51 is now **bilingual-reviewed continuously through the actual ending on scan 447**; the Part-009 `Amb` boundary is completed once as **`Ambalam`**, corresponding to Tamil `அம்ப` + `லமே`;
+- the Part-010 reviewed English preserves the authorized scan-445 `விடு`, the scan-446 legal wording **“Ayyappan murder case”**, the source's scan-446 `ஆகர` exclamation conservatively as **`Agar!`**, the recovered treasure-secret sequence, and the final source wording that Durai goes to report that **“Velliyambalam had returned”** rather than rationalizing it;
+- the bilingual review restored Mayandi's scan-445 self-reproach as **“this sinner”** in his final letter;
+- scan 448 is bilingual-reviewed separately as English printer-colophon back matter **“Anbu Press, Poraiyar.”**.
 
 ## Aggregate durable state
 
@@ -99,11 +100,12 @@ Verified source/reading boundaries:
 - assembled back matter: through **scan 448**
 - source-checked English narrative: continuous through **scan 447 / printed 443 — actual ending**
 - source-checked English back matter: through **scan 448**
-- bilingual-reviewed English: continuous through **scan 441 / printed 437 — Part-009 physical endpoint**
-- Parts 001–009: **part-complete**
-- Part 010: **Tamil + assembled + controlled English source-check gates PASSED; bilingual review pending**
-- whole-work release gates: not yet eligible
+- bilingual-reviewed English narrative: continuous through **scan 447 / printed 443 — actual ending**
+- bilingual-reviewed English back matter: through **scan 448**
+- Parts **001–010: part-complete**
+- whole-work English / release review: **PENDING**
+- no whole-work verified or release-ready claim has yet been made
 
 ## Exact next activity
 
-Run the **Part-010 bilingual review across scans 442–448**, comparing the now source-checked English with canonical/assembled Tamil for semantic fidelity, Mayandi's rhetorical and emotional force, names/terms, legal wording, the authorized scan-445 `விடு`, scan-446 `ஆகர` / English **`Agar!`**, the `Ambalam` cross-split join, the true scan-447 ending, closing structure and the separate scan-448 printer-colophon treatment. Only after that review passes may Part 010 be marked `part-complete` and the project advance to final whole-work English/release review.
+Run the **final whole-work English / release review for `புதையல்`** across the complete assembled English package. Verify front matter, introduction, Chapters 1–51, all split-boundary joins, the Part-005 source-damage qualifications, user-authorized restorations, controlled terminology, the narrative ending on scan 447, separate scan-448 colophon, and consistency of all per-part source-check/review records. Only after that whole-work gate passes should `புதையல்` be marked English verified / release-ready.
