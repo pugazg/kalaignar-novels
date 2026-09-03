@@ -1,7 +1,7 @@
 # Source page-count reconciliation — புதையல்
 
 Date opened: 2026-08-25  
-Last updated: 2026-09-02
+Last updated: 2026-09-03
 
 Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.**. Bibliographic printed extent is tracked separately from received derivative coverage.
 
@@ -12,7 +12,7 @@ Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.**.
 - canonical records: through scan **392**
 - assembled Tamil: through scan **392 / printed 388**
 - source-checked English: through scan **392 / printed 388**
-- bilingual-reviewed English: through scan **343**
+- bilingual-reviewed English: through scan **392 / printed 388**
 - exact original PDF scan/page-object count: **pending**
 
 ## Split-source state
@@ -24,7 +24,7 @@ Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.**.
 5. Part 005 — scans 197–245 — part-complete with source-damage qualification
 6. Part 006 — scans 246–294 — part-complete
 7. Part 007 — scans 295–343 — part-complete
-8. Part 008 — scans 344–392 / printed 340–388 — **Tamil + assembled Tamil + controlled English source check PASSED / bilingual review next**
+8. Part 008 — scans 344–392 / printed 340–388 — **part-complete**
 
 ### Part 008
 
@@ -39,7 +39,7 @@ Tamil Digital Library describes source identity `TVA_BOK_0064097` as **443 p.**.
 - assembled Tamil audit: **PASSED**
 - controlled English translation: **COMPLETE**
 - English source check: **PASSED**
-- bilingual review: **NEXT**
+- bilingual review: **PASSED**
 - user-authorized restoration: scan 384 **`தகட்டில் இருக்கிறபடி`**
 
 Part-007→008 continuity is **`அதிர்ஷ்டம்`** across `அதிர்ஷ்` + `டம்`; English mirrors it as `luc` + `k` → **luck**. Scan 392 ends open at Tamil `நமது` / English **“our”**.
@@ -50,17 +50,17 @@ Part-007→008 continuity is **`அதிர்ஷ்டம்`** across `அத
 - verified/completed: **385**
 - needs-review: **7 — only damaged Part-005 scans 215–219 and 223–224**
 - partial: **0**
+- Parts 001–008: **part-complete**
 
 ## Still required
 
-1. Part-008 bilingual review;
-2. source beyond scan 392 and continuation from open `நமது`;
-3. all later source scans / true ending / back matter;
-4. exact full scan-object count and full-source SHA-256;
-5. final whole-work Tamil/bilingual/release audits.
+1. source beyond scan 392 and continuation from open `நமது`;
+2. all later source scans / true ending / back matter;
+3. exact full scan-object count and full-source SHA-256;
+4. final whole-work Tamil/bilingual/release audits.
 
 Do not infer final source extent or ending from the 443-page bibliographic count.
 
 ## Exact next activity
 
-Run the **Part-008 bilingual review across scans 344–392**, then mark Part 008 `part-complete` only if that review passes.
+Obtain or resolve the **next source derivative beyond scan 392**, verify its opening against the open `நமது` boundary, and establish its actual source-scan / printed-page mapping before creating continuation records.
