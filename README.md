@@ -18,7 +18,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **448 canonical / 441 verified-complete / 7 needs-review; Parts 001–008 part-complete; Parts 009–010 Tamil + assembled gates PASSED; English draft through Chapter 48 / scan 422** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **448 canonical / 441 verified-complete / 7 needs-review; Parts 001–008 part-complete; Parts 009–010 Tamil + assembled gates PASSED; English draft through Chapter 49 / scan 429 portion** |
 
 ### புதையல் — current source state
 
@@ -26,7 +26,7 @@ Received derivatives cover scans **1–448**. The narrative ends on **scan 447 /
 
 Part 009 maps to scans **393–441 / printed 389–437** and Part 010 to scans **442–448 / printed 438–443 + colophon**. Verified reading joins are **`நமது வாழ்க்கையை`** across scans 392→393 and **`அம்பலமே`** across scans 441→442.
 
-Part 009 is **49/49 canonical + verified**, Tamil audit **PASSED**, assembled Tamil **PASSED**. Its controlled English draft now resolves the Chapter-45 split boundary and continues through **Chapter 48 close / scan 422**; source check and bilingual review remain pending. Part 010 is **7/7 canonical + verified**, Tamil audit **PASSED**, assembled Tamil **PASSED** after the user explicitly authorized native scan-445 word **`விடு`**, omitted by `p10.md`. The restoration is narrow and does not broaden the lexical-authority policy.
+Part 009 is **49/49 canonical + verified**, Tamil audit **PASSED**, assembled Tamil **PASSED**. Its controlled English draft now resolves the Chapter-45 split boundary and continues through **Chapter 49 close / scan 429 portion**; source check and bilingual review remain pending. Part 010 is **7/7 canonical + verified**, Tamil audit **PASSED**, assembled Tamil **PASSED** after the user explicitly authorized native scan-445 word **`விடு`**, omitted by `p10.md`. The restoration is narrow and does not broaden the lexical-authority policy.
 
 Current aggregate state:
 
@@ -37,13 +37,13 @@ Current aggregate state:
 - assembled back matter: through **scan 448**
 - source-checked English: continuous through **scan 392 / printed 388**
 - bilingual-reviewed English: continuous through **scan 392 / printed 388**
-- draft-translated English: continuous through **scan 422 / Chapter 48 close**
+- draft-translated English: continuous through **scan 429 portion / Chapter 49 close**
 - Parts 001–008: **part-complete**
 - Part 009: **Tamil + assembled gates PASSED; controlled English draft in progress**
 - Part 010: **Tamil + assembled gates PASSED; controlled English pending**
 - whole-work verification/release: **not yet eligible**
 
-Exact next action: continue the **Part 009 controlled English draft with Chapter 49**, beginning at scan **423** and translating through the Chapter-49 close on scan **429 portion**. Complete the remaining Part-009 draft before running the English source check and bilingual review.
+Exact next action: continue the **Part 009 controlled English draft with Chapter 50**, beginning at scan **429 portion** and translating through the Chapter-50 close on scan **438 portion**. Complete Chapter 51 through the Part-009 split endpoint before running the English source check and bilingual review.
 
 ## நிறைவு பெற்ற reference work
 
