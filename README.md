@@ -18,33 +18,31 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **402 canonical / 395 verified-complete / 7 needs-review; Parts 001–008 part-complete; Part 009 10/49 verified; Part 010 received** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **448 canonical / 440 verified-complete / 8 needs-review; Parts 001–008 part-complete; Part 009 Tamil audit PASSED; Part 010 blocked on scan 445 lexical omission** |
 
 ### புதையல் — current source state
 
-Received derivatives cover scans **1–448**. Printed narrative reaches page **443** on scan **447**; scan **448** is the unnumbered printer colophon **`அன்பு அச்சகம், பொறையார்.`**
+Received derivatives cover scans **1–448**. The narrative ends on **scan 447 / printed 443**; scan **448** is the unnumbered printer colophon **`அன்பு அச்சகம், பொறையார்.`**
 
-Part 009 maps to scans **393–441 / printed 389–437** and Part 010 to scans **442–448 / printed 438–443 + colophon**. The source joins are verified as **`நமது வாழ்க்கையை`** across scans 392→393 and **`அம்பலமே`** across scans 441→442.
+Part 009 maps to scans **393–441 / printed 389–437** and Part 010 to scans **442–448 / printed 438–443 + colophon**. Verified source joins are **`நமது வாழ்க்கையை`** across scans 392→393 and **`அம்பலமே`** across scans 441→442.
 
-Part-009 canonical reconciliation has begun: scans **393–402 / printed 389–398** are `verified`, with no complete `p9.md` lexical omission found in that ten-page block. Scan 396 closes Chapter 45 and opens Chapter 46. The current canonical boundary is scan 402 `விடுவித்து`; scan 403 begins `விடு`.
-
-The source ending is physically received but not yet canonically closed: narrative ends on scan **447 / printed 443**, followed by printer back matter on scan 448.
+Part 009 is now **49/49 canonical + verified** and its Tamil audit **PASSED**. Part 010 is **7/7 canonical**, with **6 verified and scan 445 / printed 441 `needs-review`** because native `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”` contains complete word **`விடு`** omitted by `p10.md`. The word is deliberately withheld pending explicit user disposition.
 
 Current aggregate state:
 
-- canonical: **402**
-- verified/completed: **395**
-- needs-review: **7 — only Part 005 scans 215–219 and 223–224**
+- canonical: **448**
+- verified/completed: **440**
+- needs-review: **8 — Part 005 scans 215–219, 223–224 plus Part 010 scan 445**
 - assembled Tamil: continuous through **scan 392 / printed 388**
 - source-checked English: continuous through **scan 392 / printed 388**
 - bilingual-reviewed English: continuous through **scan 392 / printed 388**
-- received source coverage: through **scan 448**
+- received source coverage: through **scan 448**, including the actual narrative ending and printer colophon
 - Parts 001–008: **part-complete**
-- Part 009: **10 / 49 canonical + verified**
-- Part 010: **received/mapped; canonical pending**
+- Part 009: **Tamil audit PASSED; assembled Tamil pending**
+- Part 010: **Tamil audit BLOCKED on one lexical omission**
 - whole-work verification/release: **not yet eligible**
 
-Exact next action: continue **Part 009 canonical reconciliation at scan 403 / printed 399**, using `p9.md` as lexical authority and the native scan as structural authority.
+Exact next action: obtain explicit disposition for scan-445 native word **`விடு`**. If authorized, restore it narrowly, pass Part-010 Tamil audit, then assemble Tamil from scan 393 through the narrative ending at scan 447 while retaining scan 448 separately as printer-colophon back matter.
 
 ## நிறைவு பெற்ற reference work
 
