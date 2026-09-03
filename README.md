@@ -18,7 +18,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **448 canonical / 441 verified-complete / 7 needs-review; Parts 001–009 part-complete; Part 010 Tamil + assembled gates PASSED; Part 010 English pending** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **448 canonical / 441 verified-complete / 7 needs-review; Parts 001–009 part-complete; Part 010 Tamil + assembled gates PASSED; Part 010 English draft COMPLETE through scan 448; source check pending** |
 
 ### புதையல் — current source state
 
@@ -26,7 +26,7 @@ Received derivatives cover scans **1–448**. The narrative ends on **scan 447 /
 
 Part 009 maps to scans **393–441 / printed 389–437** and Part 010 to scans **442–448 / printed 438–443 + colophon**. Verified reading joins are **`நமது வாழ்க்கையை`** across scans 392→393 and **`அம்பலமே`** across scans 441→442.
 
-Part 009 is **49/49 canonical + verified**, Tamil audit **PASSED**, assembled Tamil **PASSED**, controlled English source check **PASSED**, and bilingual review **PASSED / part-complete**. Chapter 51 deliberately ends its Part-009 English witness at **`Amb`**, mirroring Tamil fragment **`அம்ப`** without importing Part-010 `லமே`. The source check made one English-only Chapter-46 ritual-oath fidelity correction; the bilingual review required no additional English changes. Part 010 is **7/7 canonical + verified**, Tamil audit **PASSED**, assembled Tamil **PASSED** after the user explicitly authorized native scan-445 word **`விடு`**, omitted by `p10.md`. The restoration is narrow and does not broaden the lexical-authority policy.
+Part 009 is **49/49 canonical + verified**, Tamil audit **PASSED**, assembled Tamil **PASSED**, controlled English source check **PASSED**, and bilingual review **PASSED / part-complete**. Part 010 is **7/7 canonical + verified**, Tamil audit **PASSED**, assembled Tamil **PASSED**, and its controlled English draft is now complete from scan **442** through the actual narrative ending on scan **447**, with scan **448** kept as separate English printer-colophon back matter. The reviewed Part-009 English `Amb` boundary is completed once as **`Ambalam`**. The user-authorized native scan-445 word **`விடு`** is represented in English as **“bury it beside Thangam!”**. Part-010 source check and bilingual review remain pending.
 
 Current aggregate state:
 
@@ -35,13 +35,15 @@ Current aggregate state:
 - needs-review: **7 — only source-damaged Part 005 scans 215–219 and 223–224**
 - assembled Tamil narrative: continuous through **scan 447 / printed 443 — actual ending**
 - assembled back matter: through **scan 448**
+- controlled English draft narrative: continuous through **scan 447 / printed 443 — actual ending**
+- controlled English draft back matter: through **scan 448**
 - source-checked English: continuous through **scan 441 / printed 437 — Part-009 physical endpoint**
 - bilingual-reviewed English: continuous through **scan 441 / printed 437 — Part-009 physical endpoint**
 - Parts 001–009: **part-complete**
-- Part 010: **Tamil + assembled gates PASSED; controlled English pending**
+- Part 010: **Tamil + assembled gates PASSED; controlled English draft COMPLETE; source check pending**
 - whole-work verification/release: **not yet eligible**
 
-Exact next action: continue **Part 010 controlled English translation**, beginning at scan **442** by completing the open Chapter-51 word: English `Amb` from Part 009 must continue to **`Ambalam`**, corresponding to Tamil `அம்ப` + `லமே` → **`அம்பலமே`**. Translate through the actual narrative ending on scan **447 / printed 443**; keep scan **448** as separate printer-colophon back matter. Do not claim Part-010 source check or bilingual review until the draft is complete.
+Exact next action: run the dedicated **Part 010 controlled English source check across scans 442–448**, checking the `Amb`→**`Ambalam`** join, complete Chapter-51 coverage through the actual scan-447 ending, authorized scan-445 `விடு`, scan-446 `ஆகர` / English `Agar!`, final Velliyambalam-return wording, ending structure, and separate scan-448 printer-colophon treatment. Do not claim bilingual review or Part-010 `part-complete` until the source check passes and the subsequent bilingual review is completed.
 
 ## நிறைவு பெற்ற reference work
 
