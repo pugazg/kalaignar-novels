@@ -4,10 +4,10 @@ printed_page: 215
 work: "pudhaiyal"
 section: "24"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "user-supplied Iteration 20 baseline compared with native split part 005 page 21 image; retained because repair/tape obscures portions of body text"
+transcription_method: "user directly reviewed attached Part 005 scan 217 on 2026-09-03 and confirmed the retained reading; no correction required"
 ---
 
 சேர்ந்து பழகினோம். அவன் இறந்தபோது நான் பக்கத்திலே தானிருந்தேன். ‘ஏன் இறந்தான்’ என்பதை வெளியிட என்னால் இயலவில்லை. நினைக்கும்போதே நெஞ்சு குமுறுகிறது. சொல்லவும் ஆரம்பித்தால்......அவ்வளவு தான் என் பாடு!”
@@ -22,10 +22,11 @@ transcription_method: "user-supplied Iteration 20 baseline compared with native 
 
 “அவைகளையெல்லாம் சொல்ல வேண்டாம் அய்யா! — எனக்குத் தெரியும் என்னென்ன நடந்திருக்குமென்று.”
 
-## Needs-review / duplicate witness note
+## Verification note
 
-- This physical scan prints page **215** but a broad repair/tape strip hides several character sequences.
-- Printed page 215 appears again at source scan **219**. That duplicate witness has essentially the same obstruction pattern and does not expose enough additional letters to certify the hidden sequences.
-- The user baseline is therefore retained without claiming pixel-level proof for the obscured portions.
+- This is the first physical witness of printed page **215** and contains a broad repair/tape strip.
+- The user directly reviewed the attached Part-005 source on **2026-09-03** and confirmed this retained reading without correction.
+- Scan 219 is the duplicate witness of the same printed page and is retained separately for provenance.
+- This record is now `verified` under explicit user source review.
 
 <!-- மூல ஸ்கேன் பக்கம்: 217; அச்சுப் பக்கம்: 215 -->
