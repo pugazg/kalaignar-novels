@@ -26,11 +26,12 @@ User-supplied Gemini transcription controls lexical wording/forms/spacing. Nativ
 
 A user-authorized restoration is narrow to the documented omission and does not establish general source-correction authority.
 
-## Split checkpoints
+## Final split checkpoints
 
 - Parts **001–010 — `part-complete`**
-- Part 009 — scans **393–441** — **Tamil audit PASSED + assembled Tamil PASSED + controlled English source check PASSED + bilingual review PASSED / part-complete**
-- Part 010 — scans **442–448** — **Tamil audit PASSED + assembled Tamil PASSED + controlled English source check PASSED + bilingual review PASSED / part-complete**
+- Part 005 retains the explicit source-damage qualification on scans **215–219 and 223–224**.
+- Part 009 — scans **393–441** — Tamil audit + assembled Tamil + controlled English source check + bilingual review **PASSED**.
+- Part 010 — scans **442–448** — Tamil audit + assembled Tamil + controlled English source check + bilingual review **PASSED**.
 
 ## Part 009 gate state
 
@@ -40,18 +41,11 @@ A user-authorized restoration is narrow to the documented omission and does not 
 - needs-review: **0**
 - Tamil audit: **PASS** — [`notes/part-009-tamil-audit.md`](notes/part-009-tamil-audit.md)
 - assembled Tamil: **PASS** — [`notes/part-009-assembled-tamil-check.md`](notes/part-009-assembled-tamil-check.md)
-- controlled English draft: **PASS — complete through scan 441 physical endpoint**
-- English source check: **PASS** — [`translations/en/PART_009_ENGLISH_CHECK.md`](translations/en/PART_009_ENGLISH_CHECK.md)
+- controlled English source check: **PASS** — [`translations/en/PART_009_ENGLISH_CHECK.md`](translations/en/PART_009_ENGLISH_CHECK.md)
 - bilingual review: **PASS** — [`translations/en/PART_009_REVIEW.md`](translations/en/PART_009_REVIEW.md)
 - split state: **`part-complete`**
 
 Part 009 continues Chapter 45 across scan392→393 and carries Chapters 45–51 through scan 441. The endpoint `அம்ப` is a physical split only and joins Part010 `லமே` as **`அம்பலமே`**.
-
-The bilingual-reviewed English resolves the scan392 `நமது` + scan393 `வாழ்க்கையை` boundary once, continues through Chapters 45–50, and reaches Chapter 51's Part-009 witness at English **`Amb`** corresponding to Tamil **`அம்ப`**. The reviewed Part-010 continuation completes that boundary once as **`Ambalam`**.
-
-The dedicated Part-009 source check made one English-only Chapter-46 fidelity correction: the ritual-oath sequence now reads **“I will lay down the cloth and cross it. I will swear it! I will even embrace the heat!”**, removing the draft's added interpretive phrase `in oath`. Tamil was not changed. The bilingual review required no further English change.
-
-Source-specific oddities remain preserved without external correction, including the Chapter-46 disguise inconsistency and Laila/Qais tale, Chapter-47 `dharpaasooran`, Chapter-48 Aravan/Bhima and caste-marked wording, Chapter-49 violence/rallying rhetoric, Chapter-50 `சாவுக் கண்ணீர்` imagery and Chapter-51's public-service exhortation.
 
 ## Part 010 gate state
 
@@ -61,31 +55,32 @@ Source-specific oddities remain preserved without external correction, including
 - needs-review: **0**
 - Tamil audit: **PASS** — [`notes/part-010-tamil-audit.md`](notes/part-010-tamil-audit.md)
 - assembled Tamil: **PASS** — [`notes/part-010-assembled-tamil-check.md`](notes/part-010-assembled-tamil-check.md)
-- controlled English draft: **PASS — Chapter 51 continuation scans 442–447 through actual ending + separate scan-448 printer colophon**
-- English source check: **PASS** — [`translations/en/PART_010_ENGLISH_CHECK.md`](translations/en/PART_010_ENGLISH_CHECK.md)
+- controlled English source check: **PASS** — [`translations/en/PART_010_ENGLISH_CHECK.md`](translations/en/PART_010_ENGLISH_CHECK.md)
 - bilingual review: **PASS** — [`translations/en/PART_010_REVIEW.md`](translations/en/PART_010_REVIEW.md)
 - split state: **`part-complete`**
 
-Authorized source/baseline difference:
+Authorized Part-010 source/baseline difference:
 
 - native: `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`
 - `p10.md`: `தங்கத்திற்குப் பக்கத்திலே புதைத்து` + closing quote
 - omitted complete word: **`விடு`**
 - user authorization: **granted 2026-09-03**
 - canonical restoration: **complete on scan 445**
-- reviewed English coverage: **“bury it beside Thangam!”**
+- reviewed English: **“bury it beside Thangam!”**
 
-Part-010 reviewed English:
+The reviewed Part-010 English also preserves Mayandi's `இந்தப் பாவி` as **“this sinner”**, scan-446 **“Ayyappan murder case”**, source-form **`Agar!`**, and the final source wording that Durai goes to report that **“Velliyambalam had returned.”**
 
-- completes reviewed Part-009 English `Amb` as **`Ambalam`**, matching Tamil `அம்ப` + `லமே`;
-- continues Mayandi's letter through scan 445, including the authorized `விடு` command;
-- preserves Mayandi's scan-445 self-reproach `இந்தப் பாவி` as **“this sinner”** after the bilingual review restored that rhetorical nuance;
-- continues post-letter narrative through Velliyambalam's corpse and the recovered/abandoned treasure secret on scan 446;
-- represents scan-446 `ஐயப்பன் கொலை வழக்கு` explicitly as **“Ayyappan murder case”**;
-- preserves source-form scan-446 `ஆகர` conservatively as **`Agar!`** rather than silently normalizing it;
-- reaches the actual novel narrative ending on scan **447 / printed443**, retaining the source's final wording that Durai goes to report that **“Velliyambalam had returned”**;
-- keeps scan **448** separate as bilingual-reviewed printer-colophon back matter in `translations/en/sections/99-printer-colophon.md`.
+## Whole-work closure
 
-## Exact next activity
+- complete-source map: **PASS — scans 1–448** — [`indexes/FULL_SOURCE_PAGE_MAP.md`](indexes/FULL_SOURCE_PAGE_MAP.md)
+- whole-work Tamil archival audit: **PASS WITH PART-005 SOURCE-DAMAGE QUALIFICATION** — [`audit.md`](audit.md)
+- assembled Tamil reading layer: **PASS through scan 447 + separate scan-448 colophon**
+- all ten split English reviews: **PASS**
+- final whole-work bilingual review: **PASS / ENGLISH VERIFIED** — [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+- release-readiness: **RELEASE-READY WITH SOURCE-DAMAGE QUALIFICATION** — [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
 
-Run the **final whole-work English / release review for `புதையல்`** across the complete assembled English package. Verify front matter, introduction, Chapters 1–51, all split-boundary joins, Part-005 source-damage qualifications, user-authorized restorations, controlled terminology, the narrative ending on scan 447, separate scan-448 printer colophon, and consistency of all per-part source-check/review records. Only after that whole-work gate passes should `புதையல்` be marked English verified / release-ready.
+## Workflow status
+
+There is no remaining split-level or whole-work gate for `புதையல்` in the current archival workflow.
+
+Future changes to this completed work should be source-supported corrections or documentation maintenance only. A new novel/story should begin as a separate `works/<slug>/` workflow after reading the live repository handover and `NEXT_NOVEL_CHAT_PROMPT.md`.
