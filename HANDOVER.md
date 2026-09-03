@@ -31,8 +31,8 @@ Complete source-visible lexical spans absent from the baseline require explicit 
 ## Durable split state
 
 - Parts 001–008: **part-complete**
-- Part 009 / scans **393–441 / printed 389–437**: **Tamil audit PASSED + assembled Tamil PASSED**
-- Part 010 / scans **442–448**: **Tamil audit PASSED + assembled Tamil PASSED**
+- Part 009 / scans **393–441 / printed 389–437**: **Tamil audit PASSED + assembled Tamil PASSED; English draft through Chapter 46 / scan 408 portion**
+- Part 010 / scans **442–448**: **Tamil audit PASSED + assembled Tamil PASSED; English pending**
 - Part-005 source-damage qualification remains on scans **215–219 and 223–224**.
 
 Part 009 records:
@@ -64,6 +64,15 @@ Verified source/reading boundaries:
 - Chapter **51** is assembled continuously across Parts 009–010 through the actual ending on scan 447.
 - scan 448 is separate in `works/pudhaiyal/sections/99-printer-colophon.md` and is not narrative.
 
+## English frontier
+
+- source-checked English: continuous through **scan 392 / printed 388**;
+- bilingual-reviewed English: continuous through **scan 392 / printed 388**;
+- Chapter 45 Part-009 continuation is **draft-translated through its close on scan 396 portion**, resolving the audited `நமது வாழ்க்கையை` join;
+- Chapter 46 is **draft-translated continuously through its close on scan 408 portion**;
+- Part-009 controlled English source check and bilingual review have **not** yet been claimed;
+- Chapters 47–51 and Part 010 continuation remain to be draft-translated.
+
 ## Aggregate durable state
 
 - canonical records: **448**
@@ -74,10 +83,12 @@ Verified source/reading boundaries:
 - assembled back matter: through **scan 448**
 - source-checked English: continuous through **scan 392 / printed 388**
 - bilingual-reviewed English: continuous through **scan 392 / printed 388**
+- draft-translated English: continuous through **scan 408 portion / Chapter 46 close**
 - Parts 001–008: **part-complete**
-- Parts 009–010: **Tamil + assembled gates PASSED; English pending**
+- Part 009: **Tamil + assembled gates PASSED; controlled English draft in progress**
+- Part 010: **Tamil + assembled gates PASSED; controlled English pending**
 - whole-work release gates: not yet eligible
 
 ## Exact next activity
 
-Begin **controlled English translation for Parts 009–010** from the completed assembled Tamil layer. Extend the existing Chapter-45 English witness from scan **393**, translate Chapters **46–51** through the actual ending on scan **447**, preserve scan **448** as separate printer-colophon back matter, then run the controlled English source check before bilingual review.
+Continue **controlled English translation for Part 009 with Chapter 47**, beginning at scan **408 portion** and translating through the Chapter-47 close on scan **414 portion** from the audited assembled Tamil layer. Preserve source-specific wording/oddities without external correction. Then continue the remaining Part-009 chapters before running the dedicated English source check and bilingual review.
