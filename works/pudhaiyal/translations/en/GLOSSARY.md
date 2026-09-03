@@ -9,7 +9,8 @@ This is a controlled translation glossary. It never changes canonical Tamil.
 | `மருங்கப் பள்ளம் / மருங்கப்பள்ளம்` | **Marungappallam** | stable transliteration; Tamil spacing variation remains in source |
 | `புதுப்பட்டினம்` | **Puduppattinam** | stable place-name transliteration |
 | `ராஜா மடம் / ராஜாமடம்` | **Raja Madam** | stable English place-name handling across Part 006 while Tamil source spacing/form remains untouched |
-| `துக்காராம்` | **Dukkaram** | stable character-name transliteration used in Parts 002–003 and Part 008 |
+| `வெள்ளியம்பலம்` | **Velliyambalam** | stable character name; `அம்பலம்` may also function contextually as title/name wording |
+| `துக்காராம்` | **Dukkaram** | stable character-name transliteration |
 | `பொன் குட்டம்` | **pon-kuttam** | retain; source explains it, no external mineral identification imposed |
 | `குளிசக் கல்` | **kulisakkal** | retain conservatively; do not impose an external mineral/scientific identification |
 | `கம்மாளர்` | **Kammalar** | retain uncertainty because the introduction itself asks whether it means only goldsmiths |
@@ -33,8 +34,17 @@ This is a controlled translation glossary. It never changes canonical Tamil.
 | `கோமேதகம்` | **gomethagam gem** | Chapter 40 metaphor; retain the Tamil gem-name conservatively instead of imposing a mineral identification |
 | `கெஜ` | **gaz** | historical/source measurement term in Chapter 41; do not silently convert to a modern metric value |
 | `சனீஸ்வரன்` | **Saneeswaran** | temple/deity name in Chapter 41; stable transliteration |
-| `ஷோக்சுந்தரி` | **Shokasundari** | Dukkaram's Part-008 disguise name; preserve source form |
+| `ஷோக்சுந்தரி` | **Shokasundari** | Dukkaram's disguise name; preserve source form |
+| `ரேக்ளா` | **rekla** | source vehicle term used repeatedly in the later chapters; retain rather than silently replacing it with a modern vehicle label |
+| `களப்பலி` | **kalappali** | Chapter 48 sacrifice term; retain source-facing ritual vocabulary without importing an external doctrinal definition |
+| `அரவான்` | **Aravan** | preserve the source name and the source's own relationship statement; do not externally “correct” the narrative |
+| `மாயரண்டி` | **Mayarandi** | source/baseline form in Chapter 51; do not silently normalize it to Mayandi |
+| `சாவுக் கண்ணீர்` | **tears of death** | repeated Chapter-50 image; preserve its deliberate rhetorical recurrence |
+| `மோட்சம்` | **moksha** | retain source religious vocabulary without explanatory expansion |
+| `அந்தராத்மா` | **antaratma** | retain Mayandi's quoted/self-reflective source term without doctrinal explanation |
+| `ஆகர` | **Agar!** | controlling Part-010 lexical baseline form on scan 446; retain with provenance instead of silently normalizing |
 | `தகட்டில் இருக்கிறபடி` | **as the plate says** | user-authorized scan-384 restoration; must appear exactly once in Chapter 44 English and does not broaden source-correction authority |
+| `விடு` in `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!` | **bury it beside Thangam!** | user-authorized scan-445 restoration; narrow exception to the Part-010 lexical baseline |
 | `‘நீக்ரோ உதடு’கள்` | **‘Negro lips’** | source-era racial descriptor quoted in Chapter 42; preserved for archival fidelity with an explicit provenance comment, not endorsed or modernized |
 
 Add recurring names, titles and terms only after source-checked translation establishes the need.
