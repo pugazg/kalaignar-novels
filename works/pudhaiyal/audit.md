@@ -1,6 +1,6 @@
 # Tamil / whole-work audit — புதையல்
 
-Status: **WHOLE-WORK ARCHIVAL AUDIT PASSED WITH EXPLICIT PART-005 SOURCE-DAMAGE QUALIFICATION**
+Status: **WHOLE-WORK ARCHIVAL AUDIT PASSED WITH EXPLICIT PART-005 PHYSICAL-LOSS QUALIFICATION**
 
 Source: `TVA_BOK_0064097_புதையல்.pdf`
 
@@ -21,14 +21,16 @@ Complete source-visible lexical spans absent from a baseline require explicit us
 
 - represented source scans: **1–448**;
 - canonical page records: **448 / 448**;
-- native-verified / completed: **441**;
-- source-damage `needs-review`: **7 — scans 215–219 and 223–224 only**;
+- verified / completed: **446**;
+- source-damage `needs-review`: **2 — scans 223–224 only**;
 - partial: **0**;
 - not-started: **0**;
 - narrative ending: **scan 447 / printed 443**;
 - scan 448: separate unnumbered printer colophon `அன்பு அச்சகம், பொறையார்.`.
 
-The seven damaged Part-005 records are intentionally not upgraded. See [`notes/part-005-tamil-audit.md`](notes/part-005-tamil-audit.md) and [`translations/en/PART_005_REVIEW.md`](translations/en/PART_005_REVIEW.md).
+Part-005 scans **215–219** were closed by direct user review of the attached source on **2026-09-03**. Exact corrections were supplied for scans 215–216; scans 217/219 were confirmed and scan 218 was synchronized as the duplicate witness of corrected printed page 214. See [`notes/part-005-tamil-audit.md`](notes/part-005-tamil-audit.md).
+
+Only scans **223–224** remain qualified because portions of the physical paper are missing. The retained baseline-supported strings in those absent regions are not treated as native-pixel verification.
 
 ## Split checkpoints
 
@@ -38,12 +40,29 @@ The seven damaged Part-005 records are intentionally not upgraded. See [`notes/p
 | 002 | 50–98 | `part-complete` |
 | 003 | 99–147 | `part-complete` |
 | 004 | 148–196 | `part-complete` |
-| 005 | 197–245 | `part-complete` **with source-damage qualification** |
+| 005 | 197–245 | `part-complete` **with two physical-loss qualifications** |
 | 006 | 246–294 | `part-complete` |
 | 007 | 295–343 | `part-complete` |
 | 008 | 344–392 | `part-complete` |
 | 009 | 393–441 | `part-complete` |
 | 010 | 442–448 | `part-complete` |
+
+## Part-005 user-review correction record
+
+The 2026-09-03 direct review established:
+
+### Scan 215 / printed 213
+
+- `பாமளாவும்` → `பரிமளாவும்`;
+- `கொழுந்தே` → `கொழுந்தாம்`;
+- `என்று தழுதழுத்த குரலிலே கேட்டான்` → `என்று தழுதழுத்த குரலிலே அவன் கேட்டான்`.
+
+### Scan 216 / printed 214
+
+- `புண்ணுக்கு மருந்து கேட்கிறாய்.` → `புண்ணுக்கு மருந்து கேள்; தருகிறேன்.`;
+- `அவன் வீறுகொண்டு` → `அவன் வீரனாக`.
+
+The corrected printed-page-214 reading is mirrored in duplicate scan 218. Scans 217/219 required no lexical change.
 
 ## User-authorized baseline omissions
 
@@ -86,7 +105,7 @@ No split derivative is treated as a false narrative boundary.
 - Chapters **1–51**: continuous through scan 447 / printed 443;
 - printer colophon: scan 448 separately;
 - duplicate physical witnesses: not duplicated in reading order;
-- Part-005 source-damage qualification: retained.
+- Part-005 qualification: **only scans 223–224 remain `needs-review`**.
 
 Assembled reading index: [`sections/README.md`](sections/README.md).
 
@@ -97,9 +116,10 @@ Assembled reading index: [`sections/README.md`](sections/README.md).
 - source-checked English back matter: through scan 448;
 - bilingual-reviewed English narrative: through scan 447;
 - bilingual-reviewed English back matter: through scan 448;
-- final whole-work bilingual review: **PASSED / ENGLISH VERIFIED** — [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
+- Part-005 English Chapter 24 was re-synchronized after the 2026-09-03 user corrections;
+- final whole-work bilingual review remains **PASSED / ENGLISH VERIFIED** — [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
 
-English verification is against this audited Tamil layer and carries the same seven-record Part-005 qualification.
+English verification is against this audited Tamil layer and carries only the two-record Part-005 physical-loss qualification.
 
 ## Whole-work verdict
 
@@ -107,15 +127,15 @@ English verification is against this audited Tamil layer and carries the same se
 |---|---|
 | Complete-source mapping | **PASS — scans 1–448** |
 | Canonical Tamil coverage | **PASS — 448 / 448 represented** |
-| Native verification | **441 verified + 7 explicit source-damage `needs-review`** |
-| Split Tamil audits | **PASS — Part 005 qualified** |
+| Verification | **446 verified/completed + 2 explicit physical-loss `needs-review`** |
+| Split Tamil audits | **PASS — Part 005 qualified only at scans 223–224** |
 | Assembled Tamil | **PASS through narrative ending + colophon** |
 | Split English reviews | **PASS — Parts 001–010** |
 | Final whole-work bilingual review | **PASS / VERIFIED** |
 
-# VERDICT: ARCHIVAL PACKAGE COMPLETE WITH SOURCE-DAMAGE QUALIFICATION
+# VERDICT: ARCHIVAL PACKAGE COMPLETE WITH TWO SOURCE-DAMAGE QUALIFICATIONS
 
-The Tamil archival layer is complete for the full received source and is suitable for repository release **with the Part-005 damage qualification prominently retained**. “Complete” does not mean that missing/damaged native pixels on the seven qualified scans were recovered.
+The Tamil archival layer is complete for the full received source and remains suitable for repository release with scans **223–224** prominently qualified. “Complete” does not mean that text on physically absent paper was recovered.
 
 ## Release stage
 
