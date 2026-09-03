@@ -24,37 +24,40 @@ Date: 2026-09-03
 
 ## Boundary / mapping
 
-Part 008 scan **392 / printed 388** ends at `நமது`; Part 009 scan **393 / printed 389** begins `வாழ்க்கையை`, proving the continuous phrase **`நமது வாழ்க்கையை`** across the split.
+Part 008 scan **392 / printed 388** ends at `நமது`; Part 009 scan **393 / printed 389** begins `வாழ்க்கையை`, proving **`நமது வாழ்க்கையை`** across the split.
 
 PDF page 1 = scan **393 / printed 389**.  
 PDF page 49 = scan **441 / printed 437**.
 
-Part 009 scan 441 ends physically inside `அம்பலமே` at `அம்ப`; Part 010 scan 442 begins `லமே`, so the two derivatives also join continuously as **`அம்பலமே`**.
+Part 009 scan 441 ends at `அம்ப`; Part 010 scan 442 begins `லமே`, proving **`அம்பலமே`** across the split.
 
 ## Native structural landmarks
 
 - scan 393 — Chapter 45 continues from Part 008;
-- scan 396 / printed 392 — Chapter 45 closes and Chapter 46 begins;
-- scan 408 / printed 404 — Chapter 46 closes and Chapter 47 begins;
-- scan 414 / printed 410 — Chapter 47 closes and Chapter 48 begins;
-- scan 423 / printed 419 — Chapter 49 begins;
-- scan 429 / printed 425 — Chapter 49 closes and Chapter 50 begins;
-- scan 438 / printed 434 — Chapter 50 closes and Chapter 51 begins;
-- scan 441 / printed 437 — Chapter 51 continues into Part 010.
+- scan 396 — Chapter 45 closes and Chapter 46 begins;
+- scan 408 — Chapter 46 closes and Chapter 47 begins;
+- scan 414 — Chapter 47 closes and Chapter 48 begins;
+- scan 423 — Chapter 49 begins;
+- scan 429 — Chapter 49 closes and Chapter 50 begins;
+- scan 438 — Chapter 50 closes and Chapter 51 begins;
+- scan 441 — Chapter 51 continues into Part 010.
 
-## Intake state
+## Closed intake / canonical result
 
 - derivative identity: **resolved**
 - scan / printed mapping: **resolved**
-- Part-008→009 opening continuity: **verified**
-- Part-009→010 closing continuity: **verified**
-- canonical records: **0 / 49**
-- verified: **0 / 49**
+- opening and closing cross-split continuity: **verified**
+- canonical records: **49 / 49**
+- verified: **49 / 49**
 - needs-review: **0**
-- state: **`source-intake-complete / canonical-next`**
+- complete `p9.md` lexical omissions: **0**
+- Tamil audit: **PASSED** — [`part-009-tamil-audit.md`](part-009-tamil-audit.md)
+- state: **`tamil-audit-passed / assembled-tamil-pending`**
+
+Two baseline-only non-native structural marks were discarded: scan 416 `⚬` and scan 435 `*`. No lexical wording was changed by those structure-only dispositions.
 
 Page map: [`../indexes/part-009-page-map.md`](../indexes/part-009-page-map.md).
 
 ## Exact next activity
 
-Begin canonical reconciliation at **scan 393 / printed 389**, using `p9.md` as lexical authority and the native Part-009 scan as structural authority. Preserve the `நமது வாழ்க்கையை` cross-split join and do not infer or normalize words from the scan unless a complete baseline omission is explicitly authorized.
+Part 009 is ready for assembled Tamil, but combined Parts 009–010 assembly should begin only after the single Part-010 scan-445 lexical omission is resolved and Part-010 Tamil audit passes.
