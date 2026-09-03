@@ -4,10 +4,10 @@ printed_page: 215
 work: "pudhaiyal"
 section: "24"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064097_புதையல்.pdf"
-transcription_method: "duplicate physical witness of printed page 215 compared with user-supplied Iteration 20 baseline; repair/tape obstruction remains"
+transcription_method: "duplicate physical witness of printed page 215; user directly reviewed the attached Part-005 reading on 2026-09-03 and confirmed no correction"
 ---
 
 சேர்ந்து பழகினோம். அவன் இறந்தபோது நான் பக்கத்திலே தானிருந்தேன். ‘ஏன் இறந்தான்’ என்பதை வெளியிட என்னால் இயலவில்லை. நினைக்கும்போதே நெஞ்சு குமுறுகிறது. சொல்லவும் ஆரம்பித்தால்......அவ்வளவு தான் என் பாடு!”
@@ -22,10 +22,10 @@ transcription_method: "duplicate physical witness of printed page 215 compared w
 
 “அவைகளையெல்லாம் சொல்ல வேண்டாம் அய்யா! — எனக்குத் தெரியும் என்னென்ன நடந்திருக்குமென்று.”
 
-## Needs-review / duplicate witness note
+## Verification note
 
-- This is the later duplicate physical scan of printed page **215** first seen at source scan 217.
-- Its repair/tape obstruction does not uncover the letter sequences hidden on the earlier witness.
-- Both physical scans are retained separately; neither is collapsed into the other.
+- This is the duplicate physical witness of printed page **215**, first represented at scan 217.
+- The user directly reviewed the attached Part-005 printed-page reading on **2026-09-03** and confirmed the retained wording without correction.
+- Both physical witnesses remain separately represented for provenance, but the printed-page reading is now closed.
 
 <!-- மூல ஸ்கேன் பக்கம்: 219; அச்சுப் பக்கம்: 215 -->
