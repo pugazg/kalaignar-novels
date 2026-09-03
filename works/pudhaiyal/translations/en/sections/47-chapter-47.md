@@ -5,7 +5,7 @@ section_order: 47
 section_title: "Chapter 47"
 language: "en"
 source_scans: "408 (chapter-47 portion)-414 (chapter-47 portion)"
-status: "source-checked-part-009"
+status: "bilingual-reviewed-part-009"
 derived_from: "audited Tamil pages and checked assembled sections/47-chapter-47.md"
 ---
 
