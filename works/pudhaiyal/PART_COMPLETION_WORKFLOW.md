@@ -22,7 +22,7 @@ User-supplied Gemini transcription controls lexical wording/forms/spacing. Nativ
 - Part 007 baseline: `p7.md`; three explicit user-authorized omissions restored.
 - Part 008 baseline: `p8.md`; user-authorized scan-384 phrase **`தகட்டில் இருக்கிறபடி`** restored.
 - Part 009 baseline: `p9.md`; **no complete lexical omission found**.
-- Part 010 baseline: `p10.md`; native scan 445 contains complete word **`விடு`** absent from baseline, currently pending user disposition.
+- Part 010 baseline: `p10.md`; native scan 445 complete word **`விடு`** was absent from baseline and was explicitly authorized/restored on 2026-09-03.
 
 A user-authorized restoration is narrow to the documented omission and does not establish general source-correction authority.
 
@@ -30,7 +30,7 @@ A user-authorized restoration is narrow to the documented omission and does not 
 
 - Parts 001–008 — `part-complete`
 - Part 009 — scans **393–441** — **Tamil audit PASSED; assembled Tamil pending**
-- Part 010 — scans **442–448** — **canonical 7/7; 6 verified; Tamil audit BLOCKED on scan445 omission**
+- Part 010 — scans **442–448** — **Tamil audit PASSED; assembled Tamil pending**
 
 ## Part 009 gate state
 
@@ -47,20 +47,22 @@ Part 009 continues Chapter 45 across scan392→393 and carries Chapters 45–51 
 ## Part 010 gate state
 
 - mapping: **PASS — 7 / 7**
-- canonical: **PASS — 7 / 7 represented**
-- verified: **6 / 7**
-- needs-review: **1 — scan445 / printed441**
-- Tamil audit: **BLOCKED** — [`notes/part-010-tamil-audit.md`](notes/part-010-tamil-audit.md)
-- assembled Tamil / English: **BLOCKED until Tamil audit passes**
+- canonical: **PASS — 7 / 7**
+- verified: **PASS — 7 / 7**
+- needs-review: **0**
+- Tamil audit: **PASS** — [`notes/part-010-tamil-audit.md`](notes/part-010-tamil-audit.md)
+- assembled Tamil / English: **PENDING**
 
-Blocking source/baseline difference:
+Authorized source/baseline difference:
 
 - native: `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`
 - `p10.md`: `தங்கத்திற்குப் பக்கத்திலே புதைத்து` + closing quote
 - omitted complete word: **`விடு`**
+- user authorization: **granted 2026-09-03**
+- canonical restoration: **complete on scan 445**
 
 Scan **447 / printed443** is the actual novel narrative ending. Scan **448** is separate printer-colophon back matter (`அன்பு அச்சகம், பொறையார்.`).
 
 ## Exact next activity
 
-Resolve Part-010 scan-445 **`விடு`**. If the user authorizes restoration, insert it narrowly, rerun Part-010 Tamil audit, then build the assembled Tamil layer continuously from scan **393 through scan 447**, with scan448 retained separately as back matter.
+Build the assembled Tamil layer continuously from scan **393 through scan 447**, resolving audited physical joins only, including authorized scan-445 `விடு` exactly once, preserving the native narrative ending, and keeping scan448 separate as back matter. Then run the assembled-Tamil consistency gate before English translation.
