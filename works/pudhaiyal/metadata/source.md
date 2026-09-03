@@ -23,17 +23,17 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 006 | 246–294 | 242–290 | part-complete |
 | 007 | 295–343 | 291–339 | part-complete |
 | 008 | 344–392 | 340–388 | part-complete |
-| 009 | 393–441 | 389–437 | **canonical in progress — 10 / 49 verified** |
-| 010 | 442–448 | 438–443 + colophon | **source intake complete / canonical after Part 009** |
+| 009 | 393–441 | 389–437 | **Tamil audit PASSED — 49 / 49 verified** |
+| 010 | 442–448 | 438–443 + colophon | **canonical 7 / 7; 6 verified; scan 445 needs-review** |
 
 ## Authority policy
 
 From scan 280 onward, user-supplied Gemini transcription controls lexical wording/forms/spacing; native scans control page identity, punctuation, quotations, paragraphing, physical boundaries, separators and chapter/scene/work-ending structure.
 
-- Part 007 baseline: `p7.md`;
-- Part 008 baseline: `p8.md`;
-- Part 009 baseline: `p9.md`;
-- Part 010 baseline: `p10.md`.
+- Part 007 baseline: `p7.md`
+- Part 008 baseline: `p8.md`
+- Part 009 baseline: `p9.md`
+- Part 010 baseline: `p10.md`
 
 Complete native lexical spans absent from a controlling baseline require explicit user disposition rather than silent insertion. Existing user-authorized restorations in Parts 007–008 remain narrow exceptions only.
 
@@ -51,12 +51,13 @@ No split PDF or uploaded baseline is committed.
 - baseline SHA-256: `b0b227ba8bce1650f65a10b114f53f4601a4c7d72f5649993de20bf991071664`
 - source intake: [`../notes/part-009-source-intake.md`](../notes/part-009-source-intake.md)
 - page map: [`../indexes/part-009-page-map.md`](../indexes/part-009-page-map.md)
-- canonical: **10 / 49 — scans 393–402**
-- verified: **10 / 49**
-- Part-009 needs-review: **0**
-- state: **`canonical-in-progress`**
+- Tamil audit: [`../notes/part-009-tamil-audit.md`](../notes/part-009-tamil-audit.md)
+- canonical / verified: **49 / 49**
+- needs-review: **0**
+- complete baseline omissions: **0**
+- state: **`tamil-audit-passed`**
 
-Part-008→009 continuity is native `நமது` + `வாழ்க்கையை` → **`நமது வாழ்க்கையை`**. The first ten pages were directly visually reconciled against the native derivative; no complete `p9.md` lexical omission was found in scans 393–402.
+Part-008→009 continuity is `நமது` + `வாழ்க்கையை` → **`நமது வாழ்க்கையை`**. Part-009→010 continuity is `அம்ப` + `லமே` → **`அம்பலமே`**.
 
 ## Part 010 derivative
 
@@ -71,26 +72,29 @@ Part-008→009 continuity is native `நமது` + `வாழ்க்கை�
 - baseline SHA-256: `938407860a3a80e14da3a5d6a273675b8cdcc3e70e8a0e538f40dcceb871dc3a`
 - source intake: [`../notes/part-010-source-intake.md`](../notes/part-010-source-intake.md)
 - page map: [`../indexes/part-010-page-map.md`](../indexes/part-010-page-map.md)
-- canonical: **0 / 7**
-- state: **`source-intake-complete / canonical-after-part-009`**
+- Tamil audit: [`../notes/part-010-tamil-audit.md`](../notes/part-010-tamil-audit.md)
+- canonical: **7 / 7**
+- verified: **6 / 7**
+- needs-review: **1 — scan 445 / printed 441**
+- state: **`canonical-complete / tamil-audit-blocked-on-lexical-omission`**
 
-Part-009→010 continuity is native `அம்ப` + `லமே` → **`அம்பலமே`**.
+Native scan 445 contains `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`; the controlling `p10.md` omits complete word **`விடு`**. The canonical record deliberately withholds that word until explicit user disposition.
 
-The received narrative ends on **scan 447 / printed 443**. A horizontal rule / ending ornament follows. Scan **448** is separate printer back matter: **`அன்பு அச்சகம், பொறையார்.`** This ending structure must be preserved in canonical processing and does not itself complete the remaining Tamil/English/whole-work gates.
+The received narrative ends on **scan 447 / printed 443**, followed by a native horizontal rule / ending ornament. Scan **448** is separate printer back matter: **`அன்பு அச்சகம், பொறையார்.`**
 
 ## Aggregate state
 
-- canonical page records: **402**
-- verified/completed: **395**
-- needs-review: **7 — scans 215–219 and 223–224 only**
+- canonical page records: **448**
+- verified/completed: **440**
+- needs-review: **8 — Part 005 scans 215–219 and 223–224 plus Part 010 scan 445**
 - assembled Tamil: through scan **392 / printed 388**
 - source-checked English: through scan **392 / printed 388**
 - bilingual-reviewed English: through scan **392 / printed 388**
 - received derivative coverage: through scan **448**, including narrative ending at scan 447 and printer colophon at scan 448
 - Parts 001–008: **part-complete**
-- Part 009: **canonical 10 / 49 verified**
-- Part 010: **received / mapped; canonical pending**
+- Part 009: **Tamil audit PASSED**
+- Part 010: **Tamil audit BLOCKED on scan-445 omission**
 
 ## Exact next action
 
-Continue **Part 009 canonical reconciliation at scan 403 / printed 399**, beginning with `விடு` as the physical continuation of scan 402 `விடுவித்து`. Process Part 010 only after Part 009 reaches scan 441.
+Resolve native scan-445 word **`விடு`**. If explicitly authorized, restore it narrowly, mark scan 445 verified, rerun Part-010 Tamil audit, and proceed to assembled Tamil for Parts 009–010 through the narrative ending.
