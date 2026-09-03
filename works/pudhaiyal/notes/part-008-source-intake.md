@@ -1,6 +1,7 @@
 # Part 008 source intake — புதையல்
 
-Date: 2026-09-02
+Date: 2026-09-02  
+Final split workflow synchronized: 2026-09-03
 
 ## Received derivative
 
@@ -29,7 +30,7 @@ Part 007 scan 343 ends `அதிர்ஷ்`; Part 008 scan 344 starts `டம
 PDF page 1 = scan 344 / printed 340.  
 PDF page 49 = scan 392 / printed 388.
 
-## Completed intake + canonical result
+## Completed intake + split result
 
 - derivative identity: **resolved**
 - scan/printed mapping: **resolved**
@@ -37,18 +38,28 @@ PDF page 49 = scan 392 / printed 388.
 - canonical: **49 / 49**
 - verified: **49 / 49**
 - Part-008 needs-review: **0**
-- complete baseline omissions: **0**
+- complete baseline omissions found: **1 — `தகட்டில் இருக்கிறபடி` on scan 384**
+- unresolved baseline omissions: **0**
+- user-authorized restorations: **1 — `தகட்டில் இருக்கிறபடி`**
 - visual fidelity: **VERIFIED**
 - Tamil audit: **PASSED**
-- state: **`tamil-audit-passed / assembled-tamil-next`**
+- assembled Tamil audit: **PASSED**
+- controlled English source check: **PASSED**
+- bilingual review: **PASSED**
+- state: **`part-complete`**
 
-Notable structure-only corrections: scan 381 paragraph placement around a native four-star transition; scan 390 ordering `அதெல்லாம் எதற்கு வீண் கதை!`. No supplied lexical word was replaced.
+The scan-384 restoration was explicitly authorized by the user on 2026-09-02 and is narrow to that omission. It does not broaden the lexical-authority rule.
+
+Notable structure-only corrections: scan 381 paragraph placement around a native four-star transition; scan 390 ordering `அதெல்லாம் எதற்கு வீண் கதை!`. No supplied lexical word was replaced by those structural corrections.
 
 Chapter landmarks: 39 closes scan 347; 40 begins 348; 41 begins 355; 42 begins 362; 43 begins 369; 44 begins 376; 45 begins 387. Scan 392 remains open at `நமது`.
 
 Page map: [`../indexes/part-008-page-map.md`](../indexes/part-008-page-map.md).  
-Tamil audit: [`part-008-tamil-audit.md`](part-008-tamil-audit.md).
+Tamil audit: [`part-008-tamil-audit.md`](part-008-tamil-audit.md).  
+Assembled Tamil audit: [`part-008-assembled-tamil-audit.md`](part-008-assembled-tamil-audit.md).  
+English source check: [`../translations/en/PART_008_ENGLISH_CHECK.md`](../translations/en/PART_008_ENGLISH_CHECK.md).  
+Bilingual review: [`../translations/en/PART_008_REVIEW.md`](../translations/en/PART_008_REVIEW.md).
 
 ## Exact next activity
 
-Build and consistency-check Part-008 assembled Tamil from scans **344–392**, preserving all audited joins/transitions and the open `நமது` endpoint.
+Obtain or resolve the **next source derivative beyond scan 392**. Before creating any continuation record, verify the first new source page against the open scan-392 `நமது` boundary and establish its actual scan/printed-page mapping.
