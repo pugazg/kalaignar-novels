@@ -5,7 +5,7 @@ section_order: 49
 section_title: "Chapter 49"
 language: "en"
 source_scans: "423-429 (chapter-49 portion)"
-status: "source-checked-part-009"
+status: "bilingual-reviewed-part-009"
 derived_from: "audited Tamil pages and checked assembled sections/49-chapter-49.md"
 ---
 
