@@ -5,7 +5,7 @@ section_order: 50
 section_title: "Chapter 50"
 language: "en"
 source_scans: "429 (chapter-50 portion)-438 (chapter-50 portion)"
-status: "draft-translated-part-009"
+status: "source-checked-part-009"
 derived_from: "audited Tamil pages and checked assembled sections/50-chapter-50.md"
 ---
 
