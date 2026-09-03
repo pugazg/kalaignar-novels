@@ -5,7 +5,7 @@ section_order: 51
 section_title: "Chapter 51"
 language: "en"
 source_scans: "438 (chapter-51 portion)-447"
-status: "bilingual-reviewed-through-441-source-checked-through-narrative-end"
+status: "bilingual-reviewed-through-narrative-end"
 derived_from: "audited Tamil pages 0438-0447 and checked assembled sections/51-chapter-51.md"
 ---
 
@@ -61,7 +61,7 @@ They were Mayandi's own words. The letter began, “To dear Durai.”
 
 “If I happen to die before your eyes, I can hand you the treasure secret in my lap. Otherwise it will mean that both it and I have disappeared.
 
-“My boy, do not forget everything I have written. I am coming. What use is there in saying farewell again after already taking leave and going away? Only now I find myself thinking: fools cry out about moksha and hell—why should those things not exist? If they do, would not my ‘antaratma’ remain there watching you and rejoicing? Never mind—I was of some use before dying: I saw you and managed to do a few good things for you. That is enough!
+“My boy, do not forget everything I have written. I am coming. What use is there in saying farewell again after already taking leave and going away? Only now I find myself thinking: fools cry out about moksha and hell—why should those things not exist? If they do, would not my ‘antaratma’ remain there watching you and rejoicing? Never mind—before dying, this sinner was at least of some use: I got to see you and do a few good things for you. That is enough!
 
 “My beloved son! Give my blessings to my dear daughter-in-law! If my corpse comes into your sight, bury it beside Thangam!”
 
