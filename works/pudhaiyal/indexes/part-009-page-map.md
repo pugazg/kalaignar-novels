@@ -15,7 +15,7 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_009_pages_393-441
 - verified: **49 / 49**
 - needs-review: **0**
 - not-started: **0**
-- split state: **`tamil-audit-passed`**
+- split state: **`tamil-audit-passed / assembled-tamil-next`**
 
 ## Authority rule
 
@@ -81,6 +81,8 @@ Part 009 scan 441 ends `அம்ப`; Part 010 scan 442 begins `லமே`, pro
 
 Scans **393–441 / printed 389–437** are canonical and directly visually verified. No complete source-visible lexical span was found missing from `p9.md`. The only discarded baseline-only marks were non-native structural artifacts (`⚬` on scan 416 and `*` on scan 435).
 
+Part 010 is also canonical/verified 7/7 and its Tamil audit has passed after the user-authorized scan-445 `விடு` restoration.
+
 ## Exact next activity
 
-Part-009 Tamil audit has passed. Continue with **Part 010 canonical reconciliation beginning scan 442 / printed 438**, whose opening `லமே` completes Part-009 scan 441 `அம்ப` → **`அம்பலமே`**.
+Build the **combined Parts 009–010 assembled Tamil reading layer** from scan 393 through the narrative ending at scan 447, preserving audited joins/transitions, including authorized scan-445 `விடு` exactly once, and retaining scan448 separately as printer-colophon back matter.
