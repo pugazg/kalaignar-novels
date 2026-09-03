@@ -1,14 +1,19 @@
 # Tamil / split-part audit — புதையல்
 
-Status: **IN PROGRESS — Parts 001–008 part-complete; whole-work gates blocked by incomplete source**
+Status: **IN PROGRESS — Parts 001–008 part-complete; Part 009 Tamil audit PASSED; Part 010 blocked on one lexical omission**
 
 Source: `TVA_BOK_0064097_புதையல்.pdf`
 
 ## Authority rule
 
-Through scan 279, completed records retain earlier source-first decisions. From scan 280 onward, supplied Gemini transcription controls lexical wording/forms/spacing and native scans control page identity, headings, punctuation, quotations, paragraphing, physical boundaries, separators and chapter/scene structure.
+Through scan 279, completed records retain earlier source-first decisions. From scan 280 onward, supplied Gemini transcription controls lexical wording/forms/spacing and native scans control page identity, headings, punctuation, quotations, paragraphing, physical boundaries, separators, chapter/scene structure, narrative ending and back matter.
 
-Part 007 uses `p7.md`; Part 008 uses `p8.md`. Complete native lexical spans absent from the baseline require explicit disposition rather than silent insertion.
+- Part 007: `p7.md`
+- Part 008: `p8.md`
+- Part 009: `p9.md`
+- Part 010: `p10.md`
+
+Complete native lexical spans absent from the baseline require explicit disposition rather than silent insertion.
 
 ## Split checkpoints
 
@@ -21,54 +26,55 @@ Part 007 uses `p7.md`; Part 008 uses `p8.md`. Complete native lexical spans abse
 | 005 | 197–245 | part-complete with source-damage qualification |
 | 006 | 246–294 | part-complete |
 | 007 | 295–343 | part-complete |
-| 008 | 344–392 | **part-complete** |
+| 008 | 344–392 | part-complete |
+| 009 | 393–441 | **Tamil audit PASSED — 49/49 verified** |
+| 010 | 442–448 | **canonical 7/7; 6 verified; scan 445 needs-review** |
 
 Seven physically damaged Part-005 records **215–219 and 223–224** remain `needs-review` under the existing qualification.
 
-## Part 008 result
+## Part 009 result
 
-Derivative: `TVA_BOK_0064097_புதையல்_part_008_pages_344-392.pdf`
+- mapped/canonical/verified: **49 / 49 — scans 393–441 / printed 389–437**
+- needs-review: **0**
+- complete `p9.md` lexical omissions: **0**
+- baseline-only structural artifacts rejected: scan 416 `⚬`; scan 435 `*`
+- Tamil audit: **PASSED** — [`notes/part-009-tamil-audit.md`](notes/part-009-tamil-audit.md)
+- Part-008→009 continuity: `நமது` + `வாழ்க்கையை` → **`நமது வாழ்க்கையை`**
+- Part-009→010 continuity: `அம்ப` + `லமே` → **`அம்பலமே`**
 
-- mapped pages: **49 / 49 — scans 344–392 / printed 340–388**
-- derivative SHA-256: `717d3ab75eb970313062e1e61517d442cffa188f2fd8cadb8f75263b5e9a8852`
-- baseline SHA-256: `aad52bdfeae873459d561a52826f4787fd04f72ac1c27886212a1942d8e89ca2`
-- canonical: **49 / 49**
-- verified: **49 / 49**
-- Part-008 needs-review: **0**
-- complete lexical omissions found: **1 — native `தகட்டில் இருக்கிறபடி`, absent from `p8.md`**
-- unresolved lexical omissions: **0**
-- user-authorized restorations: **1 — scan 384 `தகட்டில் இருக்கிறபடி`**
-- Tamil audit: **PASSED** — [`notes/part-008-tamil-audit.md`](notes/part-008-tamil-audit.md)
-- assembled Tamil: **PASSED** — [`notes/part-008-assembled-tamil-audit.md`](notes/part-008-assembled-tamil-audit.md)
-- controlled English source check: **PASSED** — [`translations/en/PART_008_ENGLISH_CHECK.md`](translations/en/PART_008_ENGLISH_CHECK.md)
-- bilingual review: **PASSED** — [`translations/en/PART_008_REVIEW.md`](translations/en/PART_008_REVIEW.md)
+Chapter progression in Part 009: Chapter 45 closes scan 396; Chapters 46, 47, 48, 49 and 50 begin at scans 396, 408, 414, 423 and 429; Chapter 51 begins scan 438 and continues into Part 010.
 
-The scan-384 restoration is a narrow explicit exception and does not broaden the lexical-authority policy.
+## Part 010 result
 
-Other structural findings remain valid: the `அதிர்ஷ்`→`டம்` split join; chapter transitions at scans 347/348, 355, 362, 369, 376 and 387; four-star transitions at scans 372, 373 and 381; the scan-381 structure-only relocation; and the scan-390 structure-only `அதெல்லாம் எதற்கு வீண் கதை!` ordering. Scan 392 remains open at `நமது`.
+- mapped/canonical: **7 / 7 — scans 442–448**
+- verified: **6 / 7**
+- needs-review: **1 — scan 445 / printed 441**
+- Tamil audit: **BLOCKED** — [`notes/part-010-tamil-audit.md`](notes/part-010-tamil-audit.md)
 
-## Assembled / English result
+Native scan 445 reads:
 
-Chapters **39–45** are assembled through the received Part-008 endpoint. The reading layer resolves only canonical physical joins, preserves native internal transitions, includes the authorized scan-384 phrase exactly once, and leaves Chapter 45 open at `நமது`.
+`தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`
 
-Controlled English is source-checked and bilingual-reviewed through the same endpoint. The English cross-split witness uses reviewed Part-007 `luc` + Part-008 `k` → **luck**. Chapter 45 remains deliberately open at English **“our”**.
+The controlling `p10.md` omits complete word **`விடு`**. Canonical scan 445 therefore withholds it pending explicit user disposition.
+
+Ending structure is physically verified: scan **447 / printed 443** contains the final narrative sentence plus native closing rule/ending emblem; scan **448** is separate printer-colophon back matter: `அன்பு அச்சகம், பொறையார்.`
 
 ## Aggregate canonical state
 
-- records created: **392**
-- verified/completed: **385**
-- needs-review: **7 — only Part 005 scans 215–219 and 223–224**
+- records created: **448**
+- verified/completed: **440**
+- needs-review: **8 — Part 005 scans 215–219, 223–224 plus Part 010 scan 445**
 - partial: **0**
 - assembled Tamil: continuous through scan **392 / printed 388**
 - source-checked English: continuous through scan **392 / printed 388**
 - bilingual-reviewed English: continuous through scan **392 / printed 388**
-- received source coverage: through scan **392 / printed 388**
+- received source coverage: through scan **448**, including the actual narrative ending and printer colophon
 - Parts 001–008: **part-complete**
 
 ## Whole-work gate
 
-**NOT ELIGIBLE.** Source beyond scan 392 remains required; Chapter 45 ends mid-sentence at `நமது`, and the true source ending/back matter and final whole-work audits are not yet known.
+**NOT YET ELIGIBLE.** The full received narrative source is now physically covered, but Part-010 Tamil audit must pass, then assembled Tamil / English / bilingual-review gates must be extended through the ending before whole-work verification and release review.
 
 ## Exact next activity
 
-Obtain or resolve the **next source derivative beyond scan 392**. Verify its first page against the open `நமது` boundary and establish the actual next scan/printed-page mapping before creating continuation records.
+Resolve the scan-445 complete lexical omission **`விடு`**. If explicitly authorized, restore it narrowly, return scan 445 to `verified`, mark Part-010 Tamil audit PASSED, and then build assembled Tamil continuously across scans **393–447**, keeping scan 448 separate as printer-colophon back matter.
