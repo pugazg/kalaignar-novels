@@ -18,7 +18,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **448 canonical / 441 verified-complete / 7 needs-review; Parts 001–008 part-complete; Parts 009–010 Tamil + assembled gates PASSED; English draft through Chapter 50 / scan 438 portion** |
+| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **448 canonical / 441 verified-complete / 7 needs-review; Parts 001–008 part-complete; Parts 009–010 Tamil + assembled gates PASSED; Part 009 English draft COMPLETE through scan 441; source check pending** |
 
 ### புதையல் — current source state
 
@@ -26,7 +26,7 @@ Received derivatives cover scans **1–448**. The narrative ends on **scan 447 /
 
 Part 009 maps to scans **393–441 / printed 389–437** and Part 010 to scans **442–448 / printed 438–443 + colophon**. Verified reading joins are **`நமது வாழ்க்கையை`** across scans 392→393 and **`அம்பலமே`** across scans 441→442.
 
-Part 009 is **49/49 canonical + verified**, Tamil audit **PASSED**, assembled Tamil **PASSED**. Its controlled English draft now resolves the Chapter-45 split boundary and continues through **Chapter 50 close / scan 438 portion**; source check and bilingual review remain pending. Part 010 is **7/7 canonical + verified**, Tamil audit **PASSED**, assembled Tamil **PASSED** after the user explicitly authorized native scan-445 word **`விடு`**, omitted by `p10.md`. The restoration is narrow and does not broaden the lexical-authority policy.
+Part 009 is **49/49 canonical + verified**, Tamil audit **PASSED**, assembled Tamil **PASSED**, and its controlled English draft is now **COMPLETE through scan 441 / the physical Part-009 endpoint**. Chapter 51 deliberately ends there at English **`Amb`**, mirroring Tamil fragment **`அம்ப`** without importing Part-010 `லமே`. The dedicated Part-009 English source check and bilingual review remain pending. Part 010 is **7/7 canonical + verified**, Tamil audit **PASSED**, assembled Tamil **PASSED** after the user explicitly authorized native scan-445 word **`விடு`**, omitted by `p10.md`. The restoration is narrow and does not broaden the lexical-authority policy.
 
 Current aggregate state:
 
@@ -37,13 +37,13 @@ Current aggregate state:
 - assembled back matter: through **scan 448**
 - source-checked English: continuous through **scan 392 / printed 388**
 - bilingual-reviewed English: continuous through **scan 392 / printed 388**
-- draft-translated English: continuous through **scan 438 portion / Chapter 50 close**
+- draft-translated English: continuous through **scan 441 / Part-009 physical endpoint**
 - Parts 001–008: **part-complete**
-- Part 009: **Tamil + assembled gates PASSED; controlled English draft in progress**
+- Part 009: **Tamil + assembled + controlled English draft gates PASSED; English source check pending**
 - Part 010: **Tamil + assembled gates PASSED; controlled English pending**
 - whole-work verification/release: **not yet eligible**
 
-Exact next action: continue the **Part 009 controlled English draft with the Chapter 51 Part-009 portion**, beginning at scan **438 portion** and translating through scan **441**. Preserve the audited `அம்ப` physical split endpoint exactly; do not import Part-010 `லமே` into the Part-009 derivative. Then run the Part-009 English source check before bilingual review.
+Exact next action: run the dedicated **Part 009 controlled English source check for scans 393–441** against the audited canonical Tamil pages and checked assembled Tamil, preserve the open `அம்ப` / `Amb` derivative endpoint, document any English-only fidelity corrections, and run bilingual review only after the source check passes.
 
 ## நிறைவு பெற்ற reference work
 
