@@ -1,65 +1,58 @@
 # Assembled Tamil reading layer — புதையல்
 
-Authority: canonical audited `../pages/` records and the release-level complete-source map [`../indexes/FULL_SOURCE_PAGE_MAP.md`](../indexes/FULL_SOURCE_PAGE_MAP.md).
+Authority: canonical audited `../pages/` records.
 
-This layer is derived only from audited page records. It is never an independent re-transcription and never overrides `pages/`.
+This layer is derived only from audited page records. It never overrides `pages/`.
 
-## Split-part rule
-
-Derivative boundaries are provenance only and do not create narrative sections. Physical word/sentence joins are resolved here only when canonical page records establish them.
-
-From scan **280 onward**, the user-supplied Gemini baseline controls lexical/textual wording/forms/spacing; native scans control structure and presentation. Complete native lexical omissions require explicit user authorization before restoration.
-
-Documented narrow user-authorized restorations are:
-
-- Part 007 scan 304 — `நீ`;
-- Part 007 scan 305 — `என்ன`;
-- Part 007 scan 315 — `சரி...... வா! வா!......`;
-- Part 008 scan 384 — `தகட்டில் இருக்கிறபடி`;
-- Part 010 scan 445 — `விடு` in `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`.
-
-These are narrow exceptions only.
-
-## Complete assembled inventory
+## Final inventory
 
 - `front-matter.md` — scans 1–6
 - `00-arimugam.md` — scans 7–12
-- `01-chapter-1.md` through `51-chapter-51.md` — complete novel reading layer
-- `99-printer-colophon.md` — scan 448 only; separate back matter `அன்பு அச்சகம், பொறையார்.`
-- `checkpoints/` — provenance checkpoints only; they do not create narrative splits
+- Chapters `01-chapter-1.md` through `51-chapter-51.md` — continuous narrative through **scan 447 / printed 443**
+- `99-printer-colophon.md` — scan 448 only, separate back matter
+- `checkpoints/` — provenance witnesses only; derivative boundaries do not create narrative breaks
 
-Key late-work boundaries:
+## Final source state
 
-- `45-chapter-45.md` resolves Part-008→009 `நமது` + `வாழ்க்கையை` → **`நமது வாழ்க்கையை`**;
-- `51-chapter-51.md` resolves Part-009→010 `அம்ப` + `லமே` → **`அம்பலமே`** and reaches the actual narrative ending on scan **447 / printed 443**;
-- scan 448 remains outside the narrative.
+- canonical records: **448 / 448**
+- verified / completed: **446**
+- `needs-review`: **2 — scans 223–224 only**
+- assembled Tamil narrative: continuous through **scan 447 / printed 443**
+- assembled back matter: through **scan 448**
+- Parts **001–010: part-complete**
 
-Duplicate Part-005 physical witnesses at scans 218–219 remain represented in the canonical page layer but are not duplicated in assembled narrative.
+## Part 005 — user-reviewed correction synchronization
 
-## Part checkpoints
+On **2026-09-03**, the user directly reviewed previously tape-obstructed scans **215–219** in the attached Part-005 source.
 
-- Parts **001–004**: assembled and downstream review gates PASSED / `part-complete`;
-- Part **005**: assembled and downstream review gates PASSED **with explicit source-damage qualification** / `part-complete`;
-- Parts **006–010**: Tamil audit + assembled Tamil + English source check + bilingual review PASSED / `part-complete`.
+Corrections synchronized into Chapter 24:
 
-## Whole-work status
+- scan 215 `பாமளாவும்` → `பரிமளாவும்`
+- scan 215 `கொழுந்தே` → `கொழுந்தாம்`
+- scan 215 `என்று தழுதழுத்த குரலிலே கேட்டான்` → `என்று தழுதழுத்த குரலிலே அவன் கேட்டான்`
+- scan 216 `புண்ணுக்கு மருந்து கேட்கிறாய்.` → `புண்ணுக்கு மருந்து கேள்; தருகிறேன்.`
+- scan 216 `அவன் வீறுகொண்டு` → `அவன் வீரனாக`
 
-- canonical records: **448 / 448**;
-- native-verified / completed: **441**;
-- source-damage `needs-review`: **7 — scans 215–219 and 223–224 only**;
-- partial: **0**;
-- assembled Tamil narrative: continuous through **scan 447 / printed 443 — actual ending**;
-- assembled Tamil back matter: through **scan 448 — printer colophon**;
-- source-checked English narrative/back matter: through **scan 448**;
-- bilingual-reviewed English narrative/back matter: through **scan 448**;
-- Parts **001–010**: `part-complete`;
-- final whole-work English review: **PASSED / VERIFIED** — [`../translations/en/TRANSLATION_REVIEW.md`](../translations/en/TRANSLATION_REVIEW.md).
+Scans 217/219 were confirmed without lexical correction; duplicate scan 218 was synchronized to corrected printed page 214.
 
-The seven damaged Part-005 records remain explicit archival qualifications; neither assembly nor translation upgrades them to native verification.
+Duplicate physical witnesses 218–219 remain only in the canonical `pages/` provenance layer and are not repeated narratively.
 
-## Release navigation
+Only scans **223–224** retain baseline-supported text where physical paper is absent. Those two spans remain explicitly qualified in Chapter 24 and the Part-005 audit.
 
-- complete-source manifest: [`../indexes/FULL_SOURCE_PAGE_MAP.md`](../indexes/FULL_SOURCE_PAGE_MAP.md)
-- English reader index: [`../translations/en/README.md`](../translations/en/README.md)
-- final whole-work bilingual review: [`../translations/en/TRANSLATION_REVIEW.md`](../translations/en/TRANSLATION_REVIEW.md)
-- release report: [`../translations/en/RELEASE_REPORT.md`](../translations/en/RELEASE_REPORT.md)
+## Other documented source restorations
+
+From the later Gemini-baseline-controlled range:
+
+- Part 007 scans 304, 305, 315 — explicitly authorized omitted spans restored;
+- Part 008 scan 384 — `தகட்டில் இருக்கிறபடி` restored;
+- Part 010 scan 445 — `விடு` restored in `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`.
+
+These are narrow documented exceptions only.
+
+## Verified key joins
+
+- Part 007→008: `அதிர்ஷ்` + `டம்` → `அதிர்ஷ்டம்`
+- Part 008→009: `நமது` + `வாழ்க்கையை` → `நமது வாழ்க்கையை`
+- Part 009→010: `அம்ப` + `லமே` → `அம்பலமே`
+
+The actual narrative ending remains scan **447**; scan **448** remains printer-colophon back matter.
