@@ -7,14 +7,14 @@ language: "en"
 source_scans: "215-217, 220-225; duplicate witnesses 218-219 retained only as provenance"
 status: "source-checked-with-source-damage-exceptions"
 derived_from: "audited Tamil pages and sections/24-chapter-24.md"
-source_damage: "Tamil scans 215-217 and 223-224 retain baseline-supported text where source pixels are obscured or missing"
+source_damage: "only Tamil scans 223-224 retain baseline-supported text where source pixels are physically missing; scans 215-219 were closed by direct user review on 2026-09-03"
 ---
 
 # 24
 
-> **Source-damage provenance:** Portions corresponding to scans 215–217 and 223–224 cannot be verified character by character because of repair/tape or physical page loss. This translation follows the audited canonical Tamil, which retains the supplied baseline in those hidden spans. Duplicate physical scans 218–219 are provenance witnesses and are not translated twice.
+> **Source-damage provenance:** Scans 215–219 were directly reviewed by the user on 2026-09-03; corrections were supplied for scans 215–216 and the remaining tape-obstructed readings were confirmed. Duplicate physical scans 218–219 remain provenance witnesses and are not translated twice. Only scans 223–224 still contain physically missing source regions, so those spans remain explicitly qualified.
 
-“I am your father! I am the father who was separated from you for so many years. When you and your beloved Pamala stood on that tower by the blue-curtained seashore, the man who suddenly attacked and terrified you was your father. This mysterious old man who is an incomprehensible riddle to you and to your woman is your appan, my son! I am the father who filled diary after diary and was betrayed by those very diaries. I am the head who remains of that helpless family which once lived in happiness amid enormous wealth, attendants, men and influence, then fled to Ceylon without even a place to stay and met suffering after suffering in life. My sprout of the clan, I am the father who begot you—this man standing here in the garb of a mendicant!”
+“I am your father! I am the father who was separated from you for so many years. When you and your beloved Parimala stood on that tower by the blue-curtained seashore, the man who suddenly attacked and terrified you was your father. This mysterious old man who is an incomprehensible riddle to you and to your woman is your appan, my son! I am the father who filled diary after diary and was betrayed by those very diaries. I am the head who remains of that helpless family which once lived in happiness amid enormous wealth, attendants, men and influence, then fled to Ceylon without even a place to stay and met suffering after suffering in life. I am the father who begot you, the shoot of my clan—this man standing here in the garb of a mendicant!”
 
 Durai grieved that old Mayandi had not embraced him and spoken those very words.
 
@@ -22,7 +22,7 @@ He longed, thinking that even if the old man had lied and said, “I am your fat
 
 The old man looked at him with affection.
 
-“Durai! You ask for medicine for a wound. Do not ask me to pierce it with a spear. I cannot!”
+“Durai! Ask for medicine for the wound; I'll give it. Do not ask me to pierce it with a spear. I cannot!”
 
 “What are you saying, elder?”
 
@@ -30,7 +30,7 @@ The old man looked at him with affection.
 
 “What is this, elder? When news of a warrior's death comes from a battlefield, they at least tell his family what happened. You give me only the ending in a single line!”
 
-“Yes. Kumaravadivu's life too was a battlefield. But he did not stand bravely and fight. Like a coward he feared the world, kept withdrawing and withdrawing, and in the end became a corpse.”
+“Yes. Kumaravadivu's life too was a battlefield. But he did not stand as a warrior and fight. Like a coward he feared the world, kept withdrawing and withdrawing, and in the end became a corpse.”
 
 “Please tell me how my father died. Let his death not remain a whirlpool of mystery unknown even to his son. Do not think I will collapse in grief. I have read every chapter of the serial tragedy that happened in my family. I saw my mother, grandmother and sister as corpses. My heart has gone numb. You may tell me boldly how my father died.”
 
