@@ -31,7 +31,7 @@ Complete source-visible lexical spans absent from the baseline require explicit 
 ## Durable split state
 
 - Parts 001–008: **part-complete**
-- Part 009 / scans **393–441 / printed 389–437**: **Tamil audit PASSED + assembled Tamil PASSED; English draft through Chapter 50 / scan 438 portion**
+- Part 009 / scans **393–441 / printed 389–437**: **Tamil audit PASSED + assembled Tamil PASSED + controlled English draft COMPLETE through physical endpoint; English source check pending**
 - Part 010 / scans **442–448**: **Tamil audit PASSED + assembled Tamil PASSED; English pending**
 - Part-005 source-damage qualification remains on scans **215–219 and 223–224**.
 
@@ -74,8 +74,10 @@ Verified source/reading boundaries:
 - Chapter 48 is **draft-translated continuously through its close on scan 422**; the source's Aravan/Bhima wording, caste-marked insult and `kalappali` language are preserved without external correction;
 - Chapter 49 is **draft-translated continuously through its close on scan 429 portion**; village-violence wording, Durai's rallying speech and the rekla pursuit toward Manora are preserved without downstream review claims;
 - Chapter 50 is **draft-translated continuously through its close on scan 438 portion**; Mayandi's `சாவுக் கண்ணீர்` image, his death, the loss of the treasure secret into the sea and Ambalam's disappearance into the sea are preserved without downstream review claims;
+- Chapter 51 Part-009 portion is **draft-translated from scan 438 portion through scan 441**, ending deliberately at English `Amb` corresponding to Tamil physical fragment `அம்ப`;
+- Part-009 controlled English draft is now **COMPLETE through the physical split endpoint**;
 - Part-009 controlled English source check and bilingual review have **not** yet been claimed;
-- only the Chapter-51 Part-009 portion from scan **438 portion through scan 441** remains before the Part-009 draft is complete.
+- Part-010 Chapter-51 continuation remains pending.
 
 ## Aggregate durable state
 
@@ -87,12 +89,12 @@ Verified source/reading boundaries:
 - assembled back matter: through **scan 448**
 - source-checked English: continuous through **scan 392 / printed 388**
 - bilingual-reviewed English: continuous through **scan 392 / printed 388**
-- draft-translated English: continuous through **scan 438 portion / Chapter 50 close**
+- draft-translated English: continuous through **scan 441 / Part-009 physical endpoint**
 - Parts 001–008: **part-complete**
-- Part 009: **Tamil + assembled gates PASSED; controlled English draft in progress**
+- Part 009: **Tamil + assembled + controlled English draft gates PASSED; English source check pending**
 - Part 010: **Tamil + assembled gates PASSED; controlled English pending**
 - whole-work release gates: not yet eligible
 
 ## Exact next activity
 
-Continue **controlled English translation for Part 009 with the Chapter 51 Part-009 portion**, beginning at scan **438 portion** and translating continuously through the physical Part-009 endpoint on scan **441**. Preserve the audited open split boundary `அம்ப` exactly as a derivative endpoint; do not infer or pull in Part-010 `லமே` during the Part-009 draft. After that Part-009 draft is complete, run the dedicated Part-009 English source check before bilingual review.
+Run the dedicated **Part 009 controlled English source check for scans 393–441** against the audited canonical Tamil pages and checked assembled Tamil. Check Chapter 45 continuation through Chapter 51's physical endpoint, preserve the open `அம்ப` / `Amb` derivative boundary, document any English-only fidelity corrections in `works/pudhaiyal/translations/en/PART_009_ENGLISH_CHECK.md`, and do **not** claim bilingual review until the source check passes.
