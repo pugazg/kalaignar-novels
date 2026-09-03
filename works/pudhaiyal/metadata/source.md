@@ -4,9 +4,9 @@
 
 - Source filename: `TVA_BOK_0064097_புதையல்.pdf`
 - Source PDF committed: **No**
-- Full-PDF attached size: **502,895,096 bytes**
-- Original SHA-256: **pending exact byte-level calculation — do not invent**
-- Exact full-PDF scan/page-object count: **pending complete source reconciliation**
+- Full-PDF attached size previously recorded: **502,895,096 bytes**
+- Original full-source SHA-256: **pending exact byte-level calculation — do not invent**
+- Exact full-PDF scan/page-object count: **pending full-source byte/page reconciliation**
 - Tamil Digital Library bibliographic extent: **443 p.**
 
 Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/source-page-count-reconciliation.md).
@@ -22,61 +22,72 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 005 | 197–245 | 195–241 | part-complete with 7 source-damage qualifications |
 | 006 | 246–294 | 242–290 | part-complete |
 | 007 | 295–343 | 291–339 | part-complete |
-| 008 | 344–392 | 340–388 | **part-complete** |
-
-## Part 008 derivative
-
-- derivative: `TVA_BOK_0064097_புதையல்_part_008_pages_344-392.pdf`
-- physical pages: **49**
-- source scans: **344–392**
-- printed pages: **340–388**
-- size: **54,567,816 bytes**
-- SHA-256: `717d3ab75eb970313062e1e61517d442cffa188f2fd8cadb8f75263b5e9a8852`
-- lexical baseline: `p8.md`, **159,525 bytes / 319 lines**
-- baseline SHA-256: `aad52bdfeae873459d561a52826f4787fd04f72ac1c27886212a1942d8e89ca2`
-- source intake: [`../notes/part-008-source-intake.md`](../notes/part-008-source-intake.md)
-- page map: [`../indexes/part-008-page-map.md`](../indexes/part-008-page-map.md)
-- fidelity: [`../notes/visual-fidelity-scans-344-392.md`](../notes/visual-fidelity-scans-344-392.md)
-- Tamil audit: [`../notes/part-008-tamil-audit.md`](../notes/part-008-tamil-audit.md)
-- assembled Tamil audit: [`../notes/part-008-assembled-tamil-audit.md`](../notes/part-008-assembled-tamil-audit.md)
-- English source check: [`../translations/en/PART_008_ENGLISH_CHECK.md`](../translations/en/PART_008_ENGLISH_CHECK.md)
-- bilingual review: [`../translations/en/PART_008_REVIEW.md`](../translations/en/PART_008_REVIEW.md)
-
-No split PDF or uploaded baseline is committed.
+| 008 | 344–392 | 340–388 | part-complete |
+| 009 | 393–441 | 389–437 | **source intake complete / canonical next** |
+| 010 | 442–448 | 438–443 + colophon | **source intake complete / canonical after Part 009** |
 
 ## Authority policy
 
-From scan 280 onward, user-supplied Gemini transcription controls lexical wording/forms/spacing; native scans control page identity, punctuation, quotations, paragraphing, physical boundaries, separators and chapter/scene structure.
+From scan 280 onward, user-supplied Gemini transcription controls lexical wording/forms/spacing; native scans control page identity, punctuation, quotations, paragraphing, physical boundaries, separators and chapter/scene/work-ending structure.
 
-Part 008 contained one complete native lexical phrase absent from `p8.md`: **`தகட்டில் இருக்கிறபடி`** on scan 384 / printed 380. The user explicitly authorized its restoration on 2026-09-02. This is a narrow documented exception only.
+- Part 007 baseline: `p7.md`;
+- Part 008 baseline: `p8.md`;
+- Part 009 baseline: `p9.md`;
+- Part 010 baseline: `p10.md`.
 
-Other notable Part-008 baseline/native discrepancies were structure-only: scan 381 paragraph placement around the four-star transition, and scan 390 ordering of unchanged `அதெல்லாம்` / `எதற்கு வீண் கதை!` words.
+Complete native lexical spans absent from a controlling baseline require explicit user disposition rather than silent insertion. Existing user-authorized restorations in Parts 007–008 remain narrow exceptions only.
 
-## Part-008 final split result
+No split PDF or uploaded baseline is committed.
 
-- canonical: **49 / 49**
-- verified: **49 / 49**
-- needs-review: **0**
-- Tamil audit: **PASSED**
-- assembled Tamil: **PASSED**
-- controlled English translation: **COMPLETE**
-- English source check: **PASSED**
-- bilingual review: **PASSED**
-- state: **`part-complete`**
+## Part 009 derivative
 
-Part-007→008 continuity is `அதிர்ஷ்` + `டம்` → **`அதிர்ஷ்டம்`**. English mirrors the same split as `luc` + `k` → **luck**. Chapter 45 remains open at scan 392 Tamil `நமது` / English **“our”**.
+- derivative: `TVA_BOK_0064097_புதையல்_part_009_pages_393-441.pdf`
+- physical pages: **49**
+- source scans: **393–441**
+- printed pages: **389–437**
+- size: **57,643,045 bytes**
+- SHA-256: `8e104e151ced62916de64d320afe41a4ede549af6712fba8c654ae6c1385cbce`
+- lexical baseline: `p9.md`, **164,794 bytes / 242 logical lines**
+- baseline SHA-256: `b0b227ba8bce1650f65a10b114f53f4601a4c7d72f5649993de20bf991071664`
+- source intake: [`../notes/part-009-source-intake.md`](../notes/part-009-source-intake.md)
+- page map: [`../indexes/part-009-page-map.md`](../indexes/part-009-page-map.md)
+- canonical: **0 / 49**
+- state: **`source-intake-complete / canonical-next`**
+
+Part-008→009 continuity is native `நமது` + `வாழ்க்கையை` → **`நமது வாழ்க்கையை`**.
+
+## Part 010 derivative
+
+- derivative: `TVA_BOK_0064097_புதையல்_part_010_pages_442-448.pdf`
+- physical pages: **7**
+- source scans: **442–448**
+- printed pages: **438–443** on scans 442–447
+- scan **448**: unnumbered printer colophon / back matter
+- size: **7,206,369 bytes**
+- SHA-256: `27660cd6a8abe288ea1924f4ca02c23747713afc5883b010fb2f58a61b6ebbd0`
+- lexical baseline: `p10.md`, **17,559 bytes / 165 logical lines**
+- baseline SHA-256: `938407860a3a80e14da3a5d6a273675b8cdcc3e70e8a0e538f40dcceb871dc3a`
+- source intake: [`../notes/part-010-source-intake.md`](../notes/part-010-source-intake.md)
+- page map: [`../indexes/part-010-page-map.md`](../indexes/part-010-page-map.md)
+- canonical: **0 / 7**
+- state: **`source-intake-complete / canonical-after-part-009`**
+
+Part-009→010 continuity is native `அம்ப` + `லமே` → **`அம்பலமே`**.
+
+The received narrative ends on **scan 447 / printed 443**. A horizontal rule / ending ornament follows. Scan **448** is separate printer back matter: **`அன்பு அச்சகம், பொறையார்.`** This ending structure must be preserved in canonical processing and does not itself complete the remaining Tamil/English/whole-work gates.
 
 ## Aggregate state
 
-- page records: **392**
+- canonical page records: **392**
 - verified/completed: **385**
 - needs-review: **7 — scans 215–219 and 223–224 only**
 - assembled Tamil: through scan **392 / printed 388**
 - source-checked English: through scan **392 / printed 388**
 - bilingual-reviewed English: through scan **392 / printed 388**
-- received source range: through scan **392 / printed 388**
+- received derivative coverage: through scan **448**, including narrative ending at scan 447 and printer colophon at scan 448
 - Parts 001–008: **part-complete**
+- Parts 009–010: **received / mapped; canonical pending**
 
 ## Exact next action
 
-Obtain or resolve the **next source derivative beyond scan 392**. Verify its first page against the open `நமது` boundary before assigning a continuation, next scan range or printed-page mapping. Source beyond scan 392 remains required before Chapter 45 or the work can continue.
+Begin **Part 009 canonical reconciliation at scan 393 / printed 389** using `p9.md` as lexical authority and the native scan as structural authority. Process Part 010 only after Part 009 reaches scan 441, preserving the `அம்ப` + `லமே` boundary and the separate scan-448 colophon.
