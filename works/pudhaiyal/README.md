@@ -24,7 +24,7 @@ Complete source-visible lexical spans absent from a baseline require explicit us
 | Parts 001–004 | 1–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification** |
 | Parts 006–008 | 246–392 | **part-complete** |
-| Part 009 | 393–441 | **Tamil audit + assembled Tamil PASSED; controlled English draft COMPLETE through physical endpoint; English source check pending** |
+| Part 009 | 393–441 | **Tamil audit + assembled Tamil + controlled English source check PASSED; bilingual review pending** |
 | Part 010 | 442–448 | **Tamil audit + assembled Tamil PASSED; English pending** |
 
 ## Parts 009–010 source checkpoint
@@ -45,9 +45,10 @@ The actual narrative ends on **scan 447 / printed 443**. Scan **448** is separat
 - Tamil audit: **PASSED** — [`notes/part-009-tamil-audit.md`](notes/part-009-tamil-audit.md);
 - assembled Tamil: **PASSED** — [`notes/part-009-assembled-tamil-check.md`](notes/part-009-assembled-tamil-check.md);
 - controlled English draft: **COMPLETE through scan 441 physical endpoint**;
+- controlled English source check: **PASSED** — [`translations/en/PART_009_ENGLISH_CHECK.md`](translations/en/PART_009_ENGLISH_CHECK.md);
+- source-check corrections: **1 English-only Chapter-46 ritual-oath refinement; Tamil unchanged**;
 - Chapter 51 Part-009 endpoint: Tamil **`அம்ப`** / English **`Amb`**, deliberately open across the derivative split;
-- controlled English source check: **pending — next gate**;
-- bilingual review: **pending**;
+- bilingual review: **pending — next gate**;
 - no complete `p9.md` lexical omission found;
 - non-native baseline-only marks rejected: `⚬` scan 416 and `*` scan 435.
 
@@ -68,14 +69,13 @@ The actual narrative ends on **scan 447 / printed 443**. Scan **448** is separat
 - partial: **0**;
 - assembled Tamil narrative: continuous through **scan 447 / printed 443 — actual novel ending**;
 - assembled back matter: through **scan 448 — printer colophon**;
-- source-checked English: continuous through **scan 392 / printed 388**;
+- source-checked English: continuous through **scan 441 / printed 437 — Part-009 physical endpoint**;
 - bilingual-reviewed English: continuous through **scan 392 / printed 388**;
-- draft-translated English: continuous through **scan 441 / Part-009 physical endpoint**;
 - Parts 001–008: **part-complete**;
-- Part 009: **Tamil + assembled + controlled English draft gates PASSED; English source check pending**;
+- Part 009: **Tamil + assembled + controlled English source-check gates PASSED; bilingual review pending**;
 - Part 010: **Tamil + assembled gates PASSED; controlled English pending**;
 - whole-work verification/release: **not yet eligible** until remaining downstream English/review and final whole-work gates are completed.
 
 ## Exact next activity
 
-Run the dedicated **Part 009 controlled English source check for scans 393–441** against the audited canonical Tamil pages and checked assembled Tamil. Preserve the open `அம்ப` / `Amb` derivative endpoint, record English-only fidelity corrections in `translations/en/PART_009_ENGLISH_CHECK.md`, and do not run or claim bilingual review until the source check passes.
+Run the **Part-009 bilingual review across scans 393–441**, comparing source-checked English with canonical/assembled Tamil for semantic fidelity, dialogue coverage, names/terms, humour, violence, romance, rhetorical force, chapter transitions, preserved source oddities, the resolved `நமது வாழ்க்கையை` opening boundary and the open `அம்ப` / `Amb` endpoint. Only after that review passes may Part 009 be marked `part-complete`.
