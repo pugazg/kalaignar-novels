@@ -24,7 +24,7 @@ Complete source-visible lexical spans absent from a baseline require explicit us
 | Parts 001–004 | 1–196 | **part-complete** |
 | Part 005 | 197–245 | **part-complete with explicit source-damage qualification** |
 | Parts 006–008 | 246–392 | **part-complete** |
-| Part 009 | 393–441 | **Tamil audit + assembled Tamil PASSED; controlled English draft through Chapter 47 / scan 414 portion; source check pending** |
+| Part 009 | 393–441 | **Tamil audit + assembled Tamil PASSED; controlled English draft through Chapter 48 / scan 422; source check pending** |
 | Part 010 | 442–448 | **Tamil audit + assembled Tamil PASSED; English pending** |
 
 ## Parts 009–010 source checkpoint
@@ -44,7 +44,7 @@ The actual narrative ends on **scan 447 / printed 443**. Scan **448** is separat
 - needs-review: **0**;
 - Tamil audit: **PASSED** — [`notes/part-009-tamil-audit.md`](notes/part-009-tamil-audit.md);
 - assembled Tamil: **PASSED** — [`notes/part-009-assembled-tamil-check.md`](notes/part-009-assembled-tamil-check.md);
-- controlled English draft: **through Chapter 47 close / scan 414 portion**;
+- controlled English draft: **through Chapter 48 close / scan 422**;
 - controlled English source check: **pending**;
 - bilingual review: **pending**;
 - no complete `p9.md` lexical omission found;
@@ -69,7 +69,7 @@ The actual narrative ends on **scan 447 / printed 443**. Scan **448** is separat
 - assembled back matter: through **scan 448 — printer colophon**;
 - source-checked English: continuous through **scan 392 / printed 388**;
 - bilingual-reviewed English: continuous through **scan 392 / printed 388**;
-- draft-translated English: continuous through **scan 414 portion / Chapter 47 close**;
+- draft-translated English: continuous through **scan 422 / Chapter 48 close**;
 - Parts 001–008: **part-complete**;
 - Part 009: **Tamil + assembled gates PASSED; controlled English draft in progress**;
 - Part 010: **Tamil + assembled gates PASSED; controlled English pending**;
@@ -77,4 +77,4 @@ The actual narrative ends on **scan 447 / printed 443**. Scan **448** is separat
 
 ## Exact next activity
 
-Continue the **Part 009 controlled English draft with Chapter 48**, beginning at scan **414 portion** and translating through its close on scan **422**. Continue Chapters 49–51 only from the audited assembled Tamil layer. Do not run or claim the Part-009 English source check until the complete Part-009 draft through scan 441 is finished.
+Continue the **Part 009 controlled English draft with Chapter 49**, beginning at scan **423** and translating through its close on scan **429 portion**. Continue Chapters 50–51 only from the audited assembled Tamil layer. Do not run or claim the Part-009 English source check until the complete Part-009 draft through scan 441 is finished.
