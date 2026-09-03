@@ -24,7 +24,7 @@ Detailed extent note: [`../notes/source-page-count-reconciliation.md`](../notes/
 | 007 | 295–343 | 291–339 | part-complete |
 | 008 | 344–392 | 340–388 | part-complete |
 | 009 | 393–441 | 389–437 | **Tamil audit PASSED — 49 / 49 verified** |
-| 010 | 442–448 | 438–443 + colophon | **canonical 7 / 7; 6 verified; scan 445 needs-review** |
+| 010 | 442–448 | 438–443 + colophon | **Tamil audit PASSED — 7 / 7 verified** |
 
 ## Authority policy
 
@@ -35,7 +35,7 @@ From scan 280 onward, user-supplied Gemini transcription controls lexical wordin
 - Part 009 baseline: `p9.md`
 - Part 010 baseline: `p10.md`
 
-Complete native lexical spans absent from a controlling baseline require explicit user disposition rather than silent insertion. Existing user-authorized restorations in Parts 007–008 remain narrow exceptions only.
+Complete native lexical spans absent from a controlling baseline require explicit user disposition rather than silent insertion. Existing user-authorized restorations remain narrow exceptions only.
 
 No split PDF or uploaded baseline is committed.
 
@@ -55,7 +55,7 @@ No split PDF or uploaded baseline is committed.
 - canonical / verified: **49 / 49**
 - needs-review: **0**
 - complete baseline omissions: **0**
-- state: **`tamil-audit-passed`**
+- state: **`tamil-audit-passed / assembled-tamil-next`**
 
 Part-008→009 continuity is `நமது` + `வாழ்க்கையை` → **`நமது வாழ்க்கையை`**. Part-009→010 continuity is `அம்ப` + `லமே` → **`அம்பலமே`**.
 
@@ -73,28 +73,29 @@ Part-008→009 continuity is `நமது` + `வாழ்க்கையை` �
 - source intake: [`../notes/part-010-source-intake.md`](../notes/part-010-source-intake.md)
 - page map: [`../indexes/part-010-page-map.md`](../indexes/part-010-page-map.md)
 - Tamil audit: [`../notes/part-010-tamil-audit.md`](../notes/part-010-tamil-audit.md)
-- canonical: **7 / 7**
-- verified: **6 / 7**
-- needs-review: **1 — scan 445 / printed 441**
-- state: **`canonical-complete / tamil-audit-blocked-on-lexical-omission`**
+- canonical / verified: **7 / 7**
+- needs-review: **0**
+- complete baseline omissions: **1 — scan 445 `விடு`**
+- unresolved baseline omissions: **0**
+- authorized restoration: **scan 445 `விடு`**, authorized 2026-09-03
+- state: **`tamil-audit-passed / assembled-tamil-next`**
 
-Native scan 445 contains `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`; the controlling `p10.md` omits complete word **`விடு`**. The canonical record deliberately withholds that word until explicit user disposition.
+Native scan 445 contains `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`; the controlling `p10.md` omits complete word `விடு`. The user explicitly authorized restoring it. This is a narrow documented exception only.
 
 The received narrative ends on **scan 447 / printed 443**, followed by a native horizontal rule / ending ornament. Scan **448** is separate printer back matter: **`அன்பு அச்சகம், பொறையார்.`**
 
 ## Aggregate state
 
 - canonical page records: **448**
-- verified/completed: **440**
-- needs-review: **8 — Part 005 scans 215–219 and 223–224 plus Part 010 scan 445**
+- verified/completed: **441**
+- needs-review: **7 — only Part 005 scans 215–219 and 223–224**
 - assembled Tamil: through scan **392 / printed 388**
 - source-checked English: through scan **392 / printed 388**
 - bilingual-reviewed English: through scan **392 / printed 388**
 - received derivative coverage: through scan **448**, including narrative ending at scan 447 and printer colophon at scan 448
 - Parts 001–008: **part-complete**
-- Part 009: **Tamil audit PASSED**
-- Part 010: **Tamil audit BLOCKED on scan-445 omission**
+- Parts 009–010: **Tamil audits PASSED**
 
 ## Exact next action
 
-Resolve native scan-445 word **`விடு`**. If explicitly authorized, restore it narrowly, mark scan 445 verified, rerun Part-010 Tamil audit, and proceed to assembled Tamil for Parts 009–010 through the narrative ending.
+Build assembled Tamil continuously for Parts 009–010 through the narrative ending, preserving audited joins and scan-447 ending structure, including authorized scan-445 `விடு` exactly once, and keeping scan448 printer-colophon back matter separate.
