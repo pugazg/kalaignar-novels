@@ -11,11 +11,11 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_009_pages_393-441
 - `p9.md` SHA-256: `b0b227ba8bce1650f65a10b114f53f4601a4c7d72f5649993de20bf991071664`
 - source/split PDF committed: **No**
 - baseline file committed: **No**
-- canonical records: **0 / 49**
-- verified: **0 / 49**
+- canonical records: **10 / 49**
+- verified: **10 / 49**
 - needs-review: **0**
-- not-started: **49**
-- split state: **`source-intake-complete / canonical-next`**
+- not-started: **39**
+- split state: **`canonical-in-progress`**
 
 ## Authority rule
 
@@ -27,17 +27,17 @@ Part 009 scan 441 ends `அம்ப`; Part 010 scan 442 begins `லமே`, pro
 
 | Source scan | Printed page | Section | Status | File / note |
 |---:|:---:|---|---|---|
-| 393 | 389 | chapter 45 continuation | not-started | `../pages/0393-pudhaiyal.md`; continues Part 008 `நமது` → `வாழ்க்கையை` |
-| 394 | 390 | chapter 45 continuation | not-started | `../pages/0394-pudhaiyal.md` |
-| 395 | 391 | chapter 45 continuation | not-started | `../pages/0395-pudhaiyal.md` |
-| 396 | 392 | chapter 45 closes / chapter 46 begins | not-started | `../pages/0396-pudhaiyal.md` |
-| 397 | 393 | chapter 46 | not-started | `../pages/0397-pudhaiyal.md` |
-| 398 | 394 | chapter 46 | not-started | `../pages/0398-pudhaiyal.md` |
-| 399 | 395 | chapter 46 | not-started | `../pages/0399-pudhaiyal.md` |
-| 400 | 396 | chapter 46 | not-started | `../pages/0400-pudhaiyal.md` |
-| 401 | 397 | chapter 46 | not-started | `../pages/0401-pudhaiyal.md` |
-| 402 | 398 | chapter 46 | not-started | `../pages/0402-pudhaiyal.md` |
-| 403 | 399 | chapter 46 | not-started | `../pages/0403-pudhaiyal.md` |
+| 393 | 389 | chapter 45 continuation | verified | `../pages/0393-pudhaiyal.md`; Part 008 `நமது` → `வாழ்க்கையை` |
+| 394 | 390 | chapter 45 continuation | verified | `../pages/0394-pudhaiyal.md`; `விவரிக்க`→`வில்லை` |
+| 395 | 391 | chapter 45 continuation | verified | `../pages/0395-pudhaiyal.md`; ends `சிந்திய` |
+| 396 | 392 | chapter 45 closes / chapter 46 begins | verified | `../pages/0396-pudhaiyal.md`; horizontal rule + heading 46; ends `ஷோக்சுந்` |
+| 397 | 393 | chapter 46 | verified | `../pages/0397-pudhaiyal.md`; begins `தரி`; ends `அவ` |
+| 398 | 394 | chapter 46 | verified | `../pages/0398-pudhaiyal.md`; begins `ளுக்குத்` |
+| 399 | 395 | chapter 46 | verified | `../pages/0399-pudhaiyal.md`; open quotation continues |
+| 400 | 396 | chapter 46 | verified | `../pages/0400-pudhaiyal.md` |
+| 401 | 397 | chapter 46 | verified | `../pages/0401-pudhaiyal.md`; ends `என் சகோதரன்` |
+| 402 | 398 | chapter 46 | verified | `../pages/0402-pudhaiyal.md`; ends `விடுவித்து` |
+| 403 | 399 | chapter 46 | not-started | `../pages/0403-pudhaiyal.md`; begins `விடு` |
 | 404 | 400 | chapter 46 | not-started | `../pages/0404-pudhaiyal.md` |
 | 405 | 401 | chapter 46 | not-started | `../pages/0405-pudhaiyal.md` |
 | 406 | 402 | chapter 46 | not-started | `../pages/0406-pudhaiyal.md` |
@@ -75,8 +75,12 @@ Part 009 scan 441 ends `அம்ப`; Part 010 scan 442 begins `லமே`, pro
 | 438 | 434 | chapter 50 closes / chapter 51 begins | not-started | `../pages/0438-pudhaiyal.md` |
 | 439 | 435 | chapter 51 | not-started | `../pages/0439-pudhaiyal.md` |
 | 440 | 436 | chapter 51 | not-started | `../pages/0440-pudhaiyal.md` |
-| 441 | 437 | chapter 51 | not-started | `../pages/0441-pudhaiyal.md`; ends inside `அம்பலமே` at `அம்ப` |
+| 441 | 437 | chapter 51 | not-started | `../pages/0441-pudhaiyal.md`; ends `அம்ப` |
+
+## Current canonical result
+
+Scans **393–402 / printed 389–398** are canonical and directly visually verified. No complete `p9.md` lexical omission was found in this first ten-page block. Physical word/quotation splits remain explicit in canonical records.
 
 ## Exact next activity
 
-Begin canonical reconciliation at scan **393 / printed 389**.
+Continue canonical reconciliation with **scan 403 / printed 399**, beginning `விடு` as the continuation of scan 402 `விடுவித்து`.
