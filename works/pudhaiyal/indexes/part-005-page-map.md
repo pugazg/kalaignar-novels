@@ -6,11 +6,11 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245
 - represented source scans: **197–245**
 - source/split PDF committed: **No**
 - canonical records: **197–245 — 49 records**
-- fully verified: **42**
-- needs-review: **7**
+- fully verified: **47**
+- needs-review: **2 — scans 223–224 only**
 - not-started: **0**
-- Tamil audit: **source-damage-closed**
-- assembled Tamil / English / bilingual review: **completed with the same source-damage qualification**
+- Tamil audit: **passed with two physical-loss qualifications**
+- assembled Tamil / English / bilingual review: **completed with the same two qualifications**
 - split state: **`part-complete`**
 
 | Source scan | Printed page | Section | Status | File / note |
@@ -33,11 +33,11 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245
 | 212 | 210 | chapter 23 | verified | `../pages/0212-pudhaiyal.md` |
 | 213 | 211 | chapter 23 | verified | `../pages/0213-pudhaiyal.md` |
 | 214 | 212 | chapter 23 closes | verified | `../pages/0214-pudhaiyal.md` |
-| 215 | 213 | chapter 24 begins | needs-review | repair/tape obstruction |
-| 216 | 214 | chapter 24 | needs-review | repair/tape obstruction |
-| 217 | 215 | chapter 24 | needs-review | repair/tape obstruction |
-| 218 | 214 | chapter 24 / duplicate printed page | needs-review | duplicate witness; same obstruction |
-| 219 | 215 | chapter 24 / duplicate printed page | needs-review | duplicate witness; same obstruction |
+| 215 | 213 | chapter 24 begins | verified | user-reviewed 2026-09-03; three corrections applied |
+| 216 | 214 | chapter 24 | verified | user-reviewed 2026-09-03; two corrections applied |
+| 217 | 215 | chapter 24 | verified | user-reviewed 2026-09-03; retained reading confirmed |
+| 218 | 214 | chapter 24 / duplicate printed page | verified | synchronized duplicate witness of corrected scan 216 |
+| 219 | 215 | chapter 24 / duplicate printed page | verified | user-confirmed duplicate witness of scan 217 |
 | 220 | 216 | chapter 24 | verified | `../pages/0220-pudhaiyal.md` |
 | 221 | 217 | chapter 24 | verified | `../pages/0221-pudhaiyal.md` |
 | 222 | 218 | chapter 24 | verified | `../pages/0222-pudhaiyal.md` |
@@ -60,25 +60,23 @@ Access derivative: `TVA_BOK_0064097_புதையல்_part_005_pages_197-245
 | 239 | 235 | chapter 26 | verified | ends `என்ன செய்` |
 | 240 | 236 | chapter 26 closes | verified | begins `தானே?` |
 | 241 | 237 | chapter 27 begins | verified | source-printed chapter heading |
-| 242 | 238 | chapter 27 | verified | `புரிய வில்ல`; `காணப்படவில்ல` retained |
+| 242 | 238 | chapter 27 | verified | source-reviewed old-glyph forms retained |
 | 243 | 239 | chapter 27 | verified | ends `அங்கே` |
 | 244 | 240 | chapter 27 | verified | begins `அடர்ந்திருக்கும்` |
 | 245 | 241 | chapter 27 / Part-005 endpoint | verified | ends mid-sentence `இருக்கவே` |
 
-## Source anomalies
+## Source anomalies / user-review closure
 
 The derivative physically repeats printed pages **214** and **215**:
 
-- scan 216 → printed 214
-- scan 217 → printed 215
-- scan 218 → printed 214 again
-- scan 219 → printed 215 again
+- scan 216 → printed 214;
+- scan 217 → printed 215;
+- scan 218 → printed 214 again;
+- scan 219 → printed 215 again.
 
-These are separate physical scans and are retained as separate provenance records. The duplicate witnesses do not expose enough additional source pixels to resolve the repair/tape-obscured letters.
+On **2026-09-03**, the user directly reviewed the previously tape-obstructed scans 215–219. Exact corrections were supplied for scans 215–216, scans 217/219 were confirmed, and scan 218 was synchronized to the corrected printed-page-214 reading. These five records are now `verified`.
 
-Printed pages **219–220** are physically torn with substantial missing areas; scans 223–224 therefore remain `needs-review` even though the user supplied a continuous baseline.
-
-Part-level completion does not change those seven statuses.
+Printed pages **219–220** remain physically torn with substantial missing areas; scans 223–224 therefore remain `needs-review` even though a continuous baseline is retained.
 
 ## Closed structure / boundaries
 
@@ -94,7 +92,7 @@ Part-level completion does not change those seven statuses.
 - scan 239 `என்ன செய்` → scan 240 `தானே?`.
 - scan 240 closes chapter 26; scan 241 begins source-printed chapter **27**.
 - scan 243 `அங்கே` → scan 244 `அடர்ந்திருக்கும்` continues one sentence.
-- scan 245 ends Part 005 mid-sentence at `இருக்கவே`; the next derivative must continue from scan 246 / printed 242.
+- scan 245 ends Part 005 mid-sentence at `இருக்கவே`; scan 246 continues it.
 
 Fidelity / review records:
 
@@ -104,7 +102,3 @@ Fidelity / review records:
 - [`../notes/visual-fidelity-scans-239-245.md`](../notes/visual-fidelity-scans-239-245.md)
 - [`../notes/part-005-tamil-audit.md`](../notes/part-005-tamil-audit.md)
 - [`../translations/en/PART_005_REVIEW.md`](../translations/en/PART_005_REVIEW.md)
-
-## Exact next activity
-
-Obtain / attach the next source derivative beginning at **scan 246 / printed page 242** and continue chapter 27 directly after `இருக்கவே` from native source evidence.
