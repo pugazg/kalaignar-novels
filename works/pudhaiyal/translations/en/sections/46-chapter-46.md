@@ -5,7 +5,7 @@ section_order: 46
 section_title: "Chapter 46"
 language: "en"
 source_scans: "396 (chapter-46 portion)-408 (chapter-46 portion)"
-status: "draft-translated-part-009"
+status: "source-checked-part-009"
 derived_from: "audited Tamil pages and checked assembled sections/46-chapter-46.md"
 ---
 
@@ -67,7 +67,7 @@ Raman, meanwhile, suffered at the thought that his beloved had been shut inside 
 
 Outwardly she asked, “Would I betray your beloved?” But inwardly she groaned, “Ayyo, I have betrayed my brother Dukkaram!” Dukkaram's spirit of sacrifice submerged her in a sea of tears. In her mind she prostrated herself in the direction he had gone, worshipped him and blessed him. He alone is a man! He alone is a man!—the lips of her heart kept uttering.
 
-Raman believed Parimala's words. He sympathized with her. The hatred he already felt towards Ambalam grew even greater because of what Parimala had said. And when he thought that Ambalam was also the reason his beloved had been sent to jail, Raman's fury crossed all bounds. “No matter what, I will free my beloved. My beloved is not the criminal; Ambalam is the murderer—I will cross the cloth in oath, I will swear it, I will even embrace the heat!” Raman cried, dancing with blazing, unbearable rage.
+Raman believed Parimala's words. He sympathized with her. The hatred he already felt towards Ambalam grew even greater because of what Parimala had said. And when he thought that Ambalam was also the reason his beloved had been sent to jail, Raman's fury crossed all bounds. “No matter what, I will free my beloved. My beloved is not the criminal; Ambalam is the murderer—I will lay down the cloth and cross it. I will swear it! I will even embrace the heat!” Raman cried, dancing with blazing, unbearable rage.
 
 <!-- The preceding oath-language is translated conservatively from the source ritual idiom without imposing an external identification of the ordeal. -->
 
