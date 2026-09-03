@@ -76,7 +76,7 @@ The old man looked like someone sleeping in exhaustion after completing all his 
 
 The police who had gone in search of Ambalam returned empty-handed.
 
-All the people of Marungappallam welcomed Durai and Parimala with joyful cheers. The old man's grave and the memorial to Thangam were placed side by side. Following Mayandi's letter, the police checked whether the kudukuduppai fortune-teller in prison really was Shokasundari and discovered that he was the escaped Dukkaram. Dukkaram would not be caught in Menaka's murder case. Nor had he any involvement in the Ayyappan case. People who knew the law said that he would receive only five or six months' punishment for the offence of escaping from prison. Hearing this, Parimala breathed a great sigh of happiness.
+All the people of Marungappallam welcomed Durai and Parimala with joyful cheers. The old man's grave and the memorial to Thangam were placed side by side. Following Mayandi's letter, the police checked whether the kudukuduppai fortune-teller in prison really was Shokasundari and discovered that he was the escaped Dukkaram. Dukkaram would not be implicated in Menaka's murder case. Nor had he any involvement in the Ayyappan murder case. People who knew the law said that he would receive only five or six months' punishment for the offence of escaping from prison. Hearing this, Parimala breathed a great sigh of happiness.
 
 With that joyful news, she and Durai flew towards Manora to sing a song of love.
 
