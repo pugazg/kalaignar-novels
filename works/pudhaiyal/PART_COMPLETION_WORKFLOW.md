@@ -1,6 +1,6 @@
 # Split-PDF part-completion workflow — புதையல்
 
-Split PDFs are access derivatives of one source edition. `part-complete` is a split-level state only; whole-work Tamil/English/release gates remain blocked until complete source coverage.
+Split PDFs are access derivatives of one source edition. `part-complete` is a split-level state only; whole-work Tamil/English/release gates remain separate.
 
 ## Per-split sequence
 
@@ -17,38 +17,50 @@ Split PDFs are access derivatives of one source edition. `part-complete` is a sp
 
 ## Lexical baseline rule — scan 280 onward
 
-User-supplied Gemini transcription controls lexical wording/forms/spacing. Native scans control headings, paragraph boundaries, punctuation, quotations, physical boundaries, separators and chapter/scene structure.
+User-supplied Gemini transcription controls lexical wording/forms/spacing. Native scans control headings, paragraph boundaries, punctuation, quotations, physical boundaries, separators, chapter/scene/work-ending structure and back matter.
 
 - Part 007 baseline: `p7.md`; three explicit user-authorized omissions restored.
-- Part 008 baseline: `p8.md`; one complete native phrase absent from the baseline was found at scan 384 and explicitly authorized for restoration: **`தகட்டில் இருக்கிறபடி`**.
+- Part 008 baseline: `p8.md`; user-authorized scan-384 phrase **`தகட்டில் இருக்கிறபடி`** restored.
+- Part 009 baseline: `p9.md`; **no complete lexical omission found**.
+- Part 010 baseline: `p10.md`; native scan 445 contains complete word **`விடு`** absent from baseline, currently pending user disposition.
 
 A user-authorized restoration is narrow to the documented omission and does not establish general source-correction authority.
 
 ## Split checkpoints
 
-- Parts 001–006 — `part-complete`
-- Part 007 — scans **295–343** — `part-complete`
-- Part 008 — scans **344–392** — **`part-complete`**
+- Parts 001–008 — `part-complete`
+- Part 009 — scans **393–441** — **Tamil audit PASSED; assembled Tamil pending**
+- Part 010 — scans **442–448** — **canonical 7/7; 6 verified; Tamil audit BLOCKED on scan445 omission**
 
-## Part 008 gate state
+## Part 009 gate state
 
 - mapping: **PASS — 49 / 49**
 - canonical: **PASS — 49 / 49**
 - visual/structural fidelity: **PASS**
-- Part-008 needs-review: **0**
-- Tamil audit: **PASS**
-- assembled Tamil: **PASS**
-- controlled English translation: **COMPLETE**
-- English source check: **PASS** — [`translations/en/PART_008_ENGLISH_CHECK.md`](translations/en/PART_008_ENGLISH_CHECK.md)
-- bilingual review: **PASS** — [`translations/en/PART_008_REVIEW.md`](translations/en/PART_008_REVIEW.md)
-- split state: **`part-complete`**
+- needs-review: **0**
+- Tamil audit: **PASS** — [`notes/part-009-tamil-audit.md`](notes/part-009-tamil-audit.md)
+- assembled Tamil: **PENDING**
+- controlled English / downstream gates: **PENDING**
 
-Part 008 continues Chapter 39 across the `அதிர்ஷ்` + `டம்` boundary and carries Chapters 40–45. English mirrors the cross-split word as reviewed Part-007 `luc` + Part-008 `k` → **luck**. Scan 392 ends Chapter 45 open at Tamil `நமது` / English **“our”**; this is not the novel ending.
+Part 009 continues Chapter 45 across scan392→393 and carries Chapters 45–51 through scan 441. The endpoint `அம்ப` is a physical split only and joins Part010 `லமே` as **`அம்பலமே`**.
 
-Part-008 assembled audit: [`notes/part-008-assembled-tamil-audit.md`](notes/part-008-assembled-tamil-audit.md).  
-Part-008 English source check: [`translations/en/PART_008_ENGLISH_CHECK.md`](translations/en/PART_008_ENGLISH_CHECK.md).  
-Part-008 bilingual review: [`translations/en/PART_008_REVIEW.md`](translations/en/PART_008_REVIEW.md).
+## Part 010 gate state
+
+- mapping: **PASS — 7 / 7**
+- canonical: **PASS — 7 / 7 represented**
+- verified: **6 / 7**
+- needs-review: **1 — scan445 / printed441**
+- Tamil audit: **BLOCKED** — [`notes/part-010-tamil-audit.md`](notes/part-010-tamil-audit.md)
+- assembled Tamil / English: **BLOCKED until Tamil audit passes**
+
+Blocking source/baseline difference:
+
+- native: `தங்கத்திற்குப் பக்கத்திலே புதைத்து விடு!”`
+- `p10.md`: `தங்கத்திற்குப் பக்கத்திலே புதைத்து` + closing quote
+- omitted complete word: **`விடு`**
+
+Scan **447 / printed443** is the actual novel narrative ending. Scan **448** is separate printer-colophon back matter (`அன்பு அச்சகம், பொறையார்.`).
 
 ## Exact next activity
 
-Obtain or resolve the **next source derivative beyond scan 392**. Verify its first page against the open scan-392 `நமது` boundary and establish the actual next source-scan / printed-page mapping before creating any continuation record. Do not infer the continuation word, Chapter-45 ending, next part range or novel ending without source evidence.
+Resolve Part-010 scan-445 **`விடு`**. If the user authorizes restoration, insert it narrowly, rerun Part-010 Tamil audit, then build the assembled Tamil layer continuously from scan **393 through scan 447**, with scan448 retained separately as back matter.
