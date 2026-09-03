@@ -1,6 +1,6 @@
 # English translation — புதையல் / Treasure
 
-Status: **WHOLE-WORK ENGLISH VERIFIED — release-readiness pass in final synchronization**
+Status: **WHOLE-WORK ENGLISH VERIFIED / RELEASE-READY WITH PART-005 SOURCE-DAMAGE QUALIFICATION**
 
 Working English title: **_Treasure_**  
 Tamil archival title: **`புதையல்`**
@@ -14,6 +14,7 @@ Authority: canonical audited Tamil pages, the complete-source map, checked assem
 - English back matter: separate printer colophon on **scan 448**;
 - Parts **001–010**: split-level bilingual review **PASSED / part-complete**;
 - whole-work English: **VERIFIED**;
+- repository English package: **RELEASE-READY**;
 - Part 005 remains explicitly source-damage-qualified on scans **215–219 and 223–224**; English verification does not promote those damaged native records to `verified`.
 
 ## Read in order
@@ -114,7 +115,7 @@ See [`PART_005_REVIEW.md`](PART_005_REVIEW.md) for the exact qualification.
 - Part 009: [`PART_009_ENGLISH_CHECK.md`](PART_009_ENGLISH_CHECK.md), [`PART_009_REVIEW.md`](PART_009_REVIEW.md)
 - Part 010: [`PART_010_ENGLISH_CHECK.md`](PART_010_ENGLISH_CHECK.md), [`PART_010_REVIEW.md`](PART_010_REVIEW.md)
 - Whole work: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) — **ENGLISH TRANSLATION VERIFIED**
-- Release report: [`RELEASE_REPORT.md`](RELEASE_REPORT.md)
+- Release report: [`RELEASE_REPORT.md`](RELEASE_REPORT.md) — **RELEASE-READY**
 
 ## Translation policy reminders
 
@@ -126,5 +127,5 @@ See [`PART_005_REVIEW.md`](PART_005_REVIEW.md) for the exact qualification.
 
 ## Release status
 
-Whole-work bilingual verification: **PASSED**.  
-Repository release-readiness synchronization: **this final pass**.
+Whole-work bilingual verification: **PASSED / ENGLISH VERIFIED**.  
+Repository English package: **RELEASE-READY WITH THE PART-005 SOURCE-DAMAGE QUALIFICATION RETAINED**.
