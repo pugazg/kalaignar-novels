@@ -5,7 +5,7 @@ section_order: 48
 section_title: "Chapter 48"
 language: "en"
 source_scans: "414 (chapter-48 portion)-422"
-status: "source-checked-part-009"
+status: "bilingual-reviewed-part-009"
 derived_from: "audited Tamil pages and checked assembled sections/48-chapter-48.md"
 ---
 
