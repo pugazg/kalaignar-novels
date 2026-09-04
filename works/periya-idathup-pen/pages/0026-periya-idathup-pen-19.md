@@ -4,7 +4,7 @@ printed_page: 25
 work: "periya-idathup-pen"
 section: "பெரிய இடத்துப் பெண்"
 page_type: "body"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
 transcription_method: "direct visual comparison with enlarged source scan"
@@ -26,7 +26,7 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 - visible printed page number: **25**.
 - opening `யில்லை.` completes scan 25's final `கவலை`, establishing `கவலையில்லை.` across the physical page boundary.
-- source forms `மனசுதான்`, `பதிலச்`, `காரணந்`, `பட்சமாயிருந்த`, and `ஆயிரங்` were retained.
+- source-specific forms remain subject to the reopened historical-glyph audit.
 - final `நிலையி` continues onto scan 27.
 
 <!-- மூல ஸ்கேன் பக்கம்: 26; அச்சுப் பக்கம்: 25 -->
