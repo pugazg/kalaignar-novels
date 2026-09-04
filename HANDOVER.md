@@ -41,11 +41,17 @@ The attached source scan remains controlling. Do not commit the PDF.
 
 **Do not mark any page in `பெரிய இடத்துப் பெண்` as `verified`.**
 
-The user identified a systematic transcription failure in the 1953 typeface: a historical/pre-reform Tamil glyph corresponding to modern Unicode **`றா`** can resemble modern **`று`**. Earlier page work copied that apparent modern shape and therefore generated false “odd source forms.” This invalidates the previous 27/27 verification claim.
+The user identified a systematic transcription failure in the 1953 typeface. The first confirmed example was a historical/pre-reform Tamil glyph corresponding to modern Unicode `றா` being read as apparent modern `று`. The user then supplied a higher-quality Periyar reform chart proving that the audit must cover a broader set of legacy forms rather than focusing only on `றா`.
+
+The complete known reference set from that chart is:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+Examples shown by the chart include `அண்ணா`, `அணை`, `மண்ணொடு`, `கண்ணோடு`, `தலை`, `களை`, `சிறார்`, `மற்றொரு`, `காற்றோடு`, `மன்னா`, `வினை`, `என்னொடு`, and `என்னோடு`.
+
+The historical shapes are visual typeforms. Canonical Markdown must encode the actual Tamil identity in modern Unicode after source-pixel confirmation. This is **not** permission to modernize spelling, grammar, punctuation or vocabulary.
 
 All existing canonical records for scans **1–27** are `needs-review`. Future page records must also remain `needs-review` while the historical-glyph audit is open unless the user explicitly changes this policy.
-
-This is a glyph-identity problem, not permission to modernize spelling. Determine the historical character identity and encode that identity in modern Unicode; otherwise preserve source wording, spelling, punctuation, grammar and page structure exactly.
 
 ## Confirmed historical-glyph corrections
 
@@ -69,7 +75,7 @@ The cover was re-read from an enlarged source render. Printed text checked indiv
 - `திராவிடன் பதிப்பகம்`
 - `வேலூர் (வ. ஆ.)`
 
-No printed `றா` cluster occurs on scan 1, so the specific old-`றா` / apparent-modern-`று` ambiguity is absent on this page. No other printed glyph-identity correction was required in this pass. Copy-specific handwriting remains outside canonical printed text.
+The scan-1 result has now been interpreted against the **complete 13-form reference set**, not only the original `றா` example. No printed occurrence on scan 1 requires legacy-form conversion and no other glyph-identity correction was found in the printed cover text. Copy-specific handwriting remains outside canonical printed text.
 
 **Important:** scan 1 remains `needs-review`. A completed historical-glyph pass is not a `verified` page state.
 
@@ -121,18 +127,19 @@ The following joins remain useful source evidence but are provisional until the 
 
 ## Historical-glyph audit rule
 
-For every suspect form:
+For every page:
 
-1. inspect the complete glyph cluster at native/high resolution;
-2. explicitly consider historical/pre-reform Tamil typeforms before deciding Unicode identity;
-3. compare another same-edition occurrence where useful;
-4. require positive source-pixel evidence for character identity;
-5. encode the actual historical character identity in modern Unicode;
-6. do not silently modernize vocabulary, spelling, grammar or punctuation;
-7. do not globalize a finding from one occurrence to another;
-8. keep the page `needs-review` while this work-wide audit remains open.
+1. inspect complete glyph clusters at native/high resolution;
+2. explicitly check the full known historical set corresponding to `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+3. distinguish historical/pre-reform glyph identity from modern visual resemblance;
+4. compare another same-edition occurrence where useful;
+5. require positive source-pixel evidence for character identity;
+6. encode the actual historical character identity in modern Unicode;
+7. do not silently modernize vocabulary, spelling, grammar or punctuation;
+8. do not globalize a finding from one occurrence to another;
+9. keep the page `needs-review` while this work-wide audit remains open.
 
-The user-confirmed `றா` issue is the starting pattern, not the only glyph form to inspect.
+The 13-form chart is a minimum known reference set; remain alert for other legacy typographic ambiguity.
 
 ## Printed-page behaviour
 
@@ -151,7 +158,7 @@ Use the same one-page method:
 
 1. inspect the entire scan at enlarged/high resolution;
 2. distinguish later gift-label / handwriting from source printed text;
-3. inspect every printed glyph cluster for historical typeforms, including but not limited to old `றா`;
+3. inspect every printed glyph cluster against the complete 13-form historical reference;
 4. make only pixel-supported glyph-identity corrections;
 5. record the result in the page record and `HISTORICAL_GLYPH_AUDIT.md`;
 6. keep scan 2 `needs-review` regardless of whether corrections are found;
