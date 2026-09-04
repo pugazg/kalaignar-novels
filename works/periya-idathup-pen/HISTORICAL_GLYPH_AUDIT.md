@@ -51,6 +51,7 @@ These are **glyph-identification corrections**, not spelling modernization.
 |---:|:---:|---|---|---|
 | 1 | — | complete for this one-page pass | none | `needs-review` |
 | 2 | — | complete for this one-page pass | none | `needs-review` |
+| 3 | — | complete for this one-page pass | none; five historical-form occurrences already encoded correctly | `needs-review` |
 
 ### Scan 1 finding
 
@@ -61,7 +62,7 @@ The cover was re-read in full from an enlarged source render. The printed lexica
 - `திராவிடன் பதிப்பகம்`
 - `வேலூர் (வ. ஆ.)`
 
-The scan-1 pass was interpreted using the complete 13-form reference above, not only the earlier `றா` example. No printed occurrence on this cover requires historical-form conversion to any of `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. No glyph-identity correction is required on scan 1 from this pass. Copy-specific handwriting was not converted into canonical printed text.
+The scan-1 pass was interpreted using the complete 13-form reference above. No printed occurrence on this cover requires historical-form conversion and no glyph-identity correction is required. Copy-specific handwriting was not converted into canonical printed text.
 
 ### Scan 2 finding
 
@@ -75,9 +76,25 @@ The later label was checked as:
 - `அவர்களின்`
 - `அன்பளிப்பு`
 
-None of these clearly printed label units requires conversion from the 13 known historical forms. No glyph-identity correction is required on scan 2 from this pass. The handwritten Tamil remains outside the canonical printed-source layer and was not guessed or used as evidence for source-work glyph conversion.
+None of these clearly printed label units requires conversion from the 13 known historical forms. The handwritten Tamil remains outside the canonical printed-source layer and was not guessed or used as evidence for source-work glyph conversion.
 
-**Progress:** **2 / 27** existing canonical scans reviewed in the retrospective pass; scans **3–27** remain pending. Both reviewed pages remain `needs-review` and are not called verified.
+### Scan 3 finding
+
+Scan 3 was re-read in full at enlarged/high resolution. Unlike scans 1–2, this page contains multiple clear historical-form occurrences from the user-supplied reference set.
+
+The following source glyph identities were positively established:
+
+- `ஜூலை` — final historical form corresponds to modern Unicode `லை`;
+- `விலை` — final historical form corresponds to modern Unicode `லை`;
+- `விற்பனை` — final historical form corresponds to modern Unicode `னை`;
+- `சைனா` — final historical form corresponds to modern Unicode `னா`;
+- `சென்னை` — final historical form corresponds to modern Unicode `னை`.
+
+All five were already represented with the correct modern Unicode character identities in the canonical page record. Therefore this pass required **no text replacement**, but it provides the first page-level positive confirmation that the 1953 source is actually using several of the supplied historical forms, not merely the previously identified `றா` form.
+
+Other printed text, punctuation, numerals and bibliographic structure on scan 3 were checked; no additional legacy-glyph mismatch was identified in this pass.
+
+**Progress:** **3 / 27** existing canonical scans reviewed in the retrospective pass; scans **4–27** remain pending. All reviewed pages remain `needs-review` and are not called verified.
 
 ## Audit rule
 
@@ -102,7 +119,7 @@ Particular attention must be given to all 13 user-supplied historical forms, and
 ## Gate consequence
 
 - canonical records created: **27 / 49**;
-- retrospective historical-glyph pass: **2 / 27 reviewed — scans 1–2**;
+- retrospective historical-glyph pass: **3 / 27 reviewed — scans 1–3**;
 - page status for scans 1–27: **27 `needs-review`**;
 - `verified`: **0**;
 - `partial`: **0**;
@@ -115,4 +132,4 @@ Particular attention must be given to all 13 user-supplied historical forms, and
 
 Do **not** continue to scans 28–32 yet.
 
-Audit **scan 3 only** next, using the same one-page method: inspect the entire scan at enlarged resolution, check every printed glyph cluster against the complete 13-form historical reference, make only pixel-supported glyph-identity corrections, record any corrections with provenance, and keep the page `needs-review`.
+Audit **scan 4 only** next, using the same one-page method: inspect the entire scan at enlarged resolution, check every printed glyph cluster against the complete 13-form historical reference, make only pixel-supported glyph-identity corrections, record any corrections with provenance, and keep the page `needs-review`.
