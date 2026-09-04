@@ -6,7 +6,7 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 Source pages: **49**  
 Source PDF committed to repository: **No**
 
-This audit is **open**. Canonical transcription exists through scan 27, but the former page-level verification state has been withdrawn because a historical pre-reform Tamil glyph was misidentified in multiple places.
+This audit is **open**. Canonical transcription exists through scan 27, but the former page-level verification state has been withdrawn because historical/pre-reform Tamil glyphs were misidentified.
 
 ## Current gate
 
@@ -30,7 +30,15 @@ This audit is **open**. Canonical transcription exists through scan 27, but the 
 
 ## Historical-glyph verification failure
 
-The user identified the key failure: this 1953 edition uses a historical pre-reform glyph corresponding to modern Unicode `றா`. Its printed shape can resemble modern `று`. The earlier workflow treated the visual resemblance as the character identity and therefore recorded false “odd source forms.”
+The first confirmed failure involved a historical form corresponding to modern Unicode `றா` being read as apparent modern `று`. The user then supplied a clearer Periyar reform chart showing that the retrospective audit must cover a broader set of historical forms, not only `றா`.
+
+The 13 modern Unicode identities represented by the supplied historical forms are:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+The user-supplied examples include `அண்ணா`, `அணை`, `மண்ணொடு`, `கண்ணோடு`, `தலை`, `களை`, `சிறார்`, `மற்றொரு`, `காற்றோடு`, `மன்னா`, `வினை`, `என்னொடு`, and `என்னோடு`.
+
+Historical typeform decoding is not editorial modernization. When a source glyph is positively identified as one of these old forms, canonical Markdown must encode its actual Tamil identity in modern Unicode while preserving the source word, spelling, grammar, punctuation and structure.
 
 This means the previous statement that scans 1–27 were verified is no longer valid. Every existing page record remains `needs-review`, and no page in this work may be marked `verified` while the retrospective glyph audit is open.
 
@@ -42,8 +50,6 @@ Confirmed corrections at this checkpoint:
 | 21 | 20 | `நன்றுகத்தான்` | `நன்றாகத்தான்` |
 | 24 | 23 | `நன்றுக` | `நன்றாக` |
 | 24 | 23 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` |
-
-These are not editorial modernization. They are corrections to the Unicode identity of a historical Tamil glyph.
 
 Full tracking: [`HISTORICAL_GLYPH_AUDIT.md`](HISTORICAL_GLYPH_AUDIT.md).
 
@@ -58,7 +64,7 @@ Scan 1 was re-read in full from an enlarged render. The printed lexical units we
 - `திராவிடன் பதிப்பகம்`
 - `வேலூர் (வ. ஆ.)`
 
-No printed `றா` cluster occurs on this scan, and no other historical-glyph identity correction was required in the printed cover text during this pass. Copy-specific handwriting remains outside canonical source text. Scan 1 nevertheless remains `needs-review` under the user-directed verification freeze.
+The scan-1 pass now explicitly uses the complete 13-form historical reference rather than only the initial `றா` pattern. No printed occurrence on scan 1 requires conversion from the known historical forms, and no other glyph-identity correction was required in the printed cover text during this pass. Copy-specific handwriting remains outside canonical source text. Scan 1 nevertheless remains `needs-review` under the user-directed verification freeze.
 
 Retrospective progress is therefore **1 / 27 scans reviewed; scans 2–27 pending**.
 
@@ -88,13 +94,16 @@ The existing page-boundary joins and structural observations remain useful evide
 ## Historical-glyph audit rule
 
 1. Inspect complete native/high-resolution glyph clusters, not isolated apparent modern shapes.
-2. Explicitly distinguish pre-reform glyph identity from modern visual resemblance.
-3. The user-confirmed old `றா` form must be encoded as modern Unicode `றா`, not copied as `று` merely because it resembles that modern form.
+2. Explicitly check the complete user-supplied reference set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+3. Distinguish historical/pre-reform glyph identity from modern visual resemblance.
 4. Compare same-edition occurrences where useful.
 5. Do not mechanically global-replace a shape; every occurrence must be checked against the scan.
-6. Do not normalize spelling, grammar, punctuation or vocabulary beyond proven glyph identity.
-7. Keep every page `needs-review` while this project-wide audit is open.
-8. Do not call any page verified unless the user explicitly authorizes a verification state later.
+6. Encode the proven historical character identity in modern Unicode.
+7. Do not normalize spelling, grammar, punctuation or vocabulary beyond proven glyph identity.
+8. Keep every page `needs-review` while this project-wide audit is open.
+9. Do not call any page verified unless the user explicitly authorizes a verification state later.
+
+The supplied 13-form chart is a known decoding reference set, not evidence that no other legacy typographic ambiguity can occur.
 
 ## Structural finding
 
@@ -108,4 +117,4 @@ English translation and assembled Tamil `sections/` remain blocked. They must no
 
 Do **not** continue to scans 28–32.
 
-Audit **scan 2 only** next using the same one-page method. Inspect the entire page at enlarged resolution, keep copy-specific handwriting separate from printed source text, examine printed glyph clusters for historical typeforms, record any corrections with scan provenance, and leave the page `needs-review`.
+Audit **scan 2 only** next using the same one-page method. Inspect the entire page at enlarged resolution, keep copy-specific handwriting separate from printed source text, examine printed glyph clusters against the complete 13-form historical reference, record any corrections with scan provenance, and leave the page `needs-review`.
