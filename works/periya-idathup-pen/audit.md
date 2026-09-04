@@ -19,7 +19,7 @@ This audit is **open**. Canonical transcription exists through scan 27, but the 
 | `needs-review` page records | **27 — scans 1–27** |
 | `partial` page records | **0** |
 | Remaining `not-started` | **22 — scans 28–49** |
-| Historical-glyph retrospective audit | **OPEN — 1 / 27 reviewed; scan 1 only** |
+| Historical-glyph retrospective audit | **OPEN — 2 / 27 reviewed; scans 1–2** |
 | Full body visual audit | reopened because glyph identity was misread |
 | Page-boundary continuity audit | provisional through scan 27 |
 | Internal structural audit | preliminary only |
@@ -57,16 +57,18 @@ Full tracking: [`HISTORICAL_GLYPH_AUDIT.md`](HISTORICAL_GLYPH_AUDIT.md).
 
 ### Scan 1 — cover
 
-Scan 1 was re-read in full from an enlarged render. The printed lexical units were checked individually:
+Scan 1 was re-read in full from an enlarged render against the complete 13-form reference. No printed occurrence required historical-form conversion and no glyph-identity correction was required in the printed cover text. Copy-specific handwriting remains outside canonical source text. Scan 1 remains `needs-review`.
 
-- `பெரிய இடத்துப் பெண்`
-- `மு. கருணாநிதி`
-- `திராவிடன் பதிப்பகம்`
-- `வேலூர் (வ. ஆ.)`
+### Scan 2 — copy-specific marks / later gift label
 
-The scan-1 pass now explicitly uses the complete 13-form historical reference rather than only the initial `றா` pattern. No printed occurrence on scan 1 requires conversion from the known historical forms, and no other glyph-identity correction was required in the printed cover text during this pass. Copy-specific handwriting remains outside canonical source text. Scan 1 nevertheless remains `needs-review` under the user-directed verification freeze.
+Scan 2 was re-read in full at enlarged resolution. No original 1953 source-work printed narrative or publication text is present. The clearly printed material is a later copy-specific gift label:
 
-Retrospective progress is therefore **1 / 27 scans reviewed; scans 2–27 pending**.
+`பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின்`  
+`அன்பளிப்பு`
+
+The label was checked against the full 13-form reference. None of its printed glyph clusters requires historical-form conversion. The handwriting remains copy-specific and was not guessed or promoted into canonical source-work text. No glyph-identity correction was required on scan 2. Scan 2 remains `needs-review`.
+
+Retrospective progress is therefore **2 / 27 scans reviewed; scans 3–27 pending**.
 
 ## Existing transcription coverage
 
@@ -117,4 +119,4 @@ English translation and assembled Tamil `sections/` remain blocked. They must no
 
 Do **not** continue to scans 28–32.
 
-Audit **scan 2 only** next using the same one-page method. Inspect the entire page at enlarged resolution, keep copy-specific handwriting separate from printed source text, examine printed glyph clusters against the complete 13-form historical reference, record any corrections with scan provenance, and leave the page `needs-review`.
+Audit **scan 3 only** next using the same one-page method. Inspect the entire page at enlarged resolution, examine every printed glyph cluster against the complete 13-form historical reference, record any pixel-supported corrections with scan provenance, and leave the page `needs-review`.
