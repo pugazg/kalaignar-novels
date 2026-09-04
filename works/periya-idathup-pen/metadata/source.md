@@ -28,7 +28,7 @@ From scan page 3:
 
 - **எட்டாம் பதிப்பு: ஜூலை 1953**
 - **உரிமை உடையது**
-- Price: **விலை 0-8-0**
+- Price as printed: **விலை 0—8—0**
 - Sales-rights line: **விற்பனை உரிமை:**
 - Distributor: **எம். எஸ். ராஜுலு கம்பெனி**
 - Address: **286, சைனா பஜார் / சென்னை-1**
@@ -44,7 +44,7 @@ Direct source inspection establishes:
 - scan **8**: no visibly printed page number;
 - scans **9–49**: printed pages **8–48**, respectively.
 
-Where a printed number is not visibly present, canonical records must use `printed_page: null`; no number may be supplied merely from sequence.
+Where a printed number is not visibly present, canonical records use `printed_page: null`; no number is supplied merely from sequence.
 
 ## Front matter and narrative range
 

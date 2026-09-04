@@ -4,11 +4,11 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 
 > **Work-level rule:** current source review supports one continuous work, `பெரிய இடத்துப் பெண்`. Character-name headings observed inside the narrative are internal textual headings unless later page-by-page evidence establishes otherwise.
 
-| Scan | Printed page | Page type / section | Status | Planned / current file |
+| Scan | Printed page | Page type / section | Status | File |
 |---:|:---:|---|---|---|
-| 1 | — | cover — `பெரிய இடத்துப் பெண்` | not-started | `pages/0001-cover.md` |
-| 2 | — | copy-specific handwriting / later gift label; no source body text identified | not-started | `pages/0002-copy-annotation.md` |
-| 3 | — | edition / price / sales-rights details | not-started | `pages/0003-publication-details.md` |
+| 1 | — | cover — `பெரிய இடத்துப் பெண்` | verified | `pages/0001-cover.md` |
+| 2 | — | copy-specific handwriting / later gift label; no source body text identified | verified | `pages/0002-copy-annotation.md` |
+| 3 | — | edition / price / sales-rights details | verified | `pages/0003-publication-details.md` |
 | 4 | — | author note — `திரை விலக` | not-started | `pages/0004-thirai-vilaga.md` |
 | 5 | — | publisher note — `பதிப்புரை` | not-started | `pages/0005-pathippurai.md` |
 | 6 | — | eighth-edition note — `எட்டாம் பதிப்பு / பதிப்புரை` | not-started | `pages/0006-eighth-edition-pathippurai-01.md` |
@@ -56,15 +56,15 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 | 48 | 47 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0048-periya-idathup-pen-41.md` |
 | 49 | 48 | body — narrative ending / printer colophon | not-started | `pages/0049-periya-idathup-pen-42.md` |
 
-## Registration count
+## Current count
 
 - Source scan pages: **49**
 - Page-manifest rows: **49 / 49**
-- Page records created: **0 / 49**
-- `verified`: **0**
+- Page records created: **3 / 49**
+- `verified`: **3**
 - `needs-review`: **0**
 - `partial`: **0**
-- `not-started`: **49**
+- `not-started`: **46**
 - Source PDF stored in repository: **No**
 
 ## Structural caution
@@ -73,4 +73,4 @@ The internal character-name headings listed above were observed during represent
 
 ## Next activity
 
-Directly inspect and create scans **1–3** as the first verified page-record batch, then update this manifest. Dense front matter and body text must not be promoted to `verified` without source comparison.
+Directly transcribe and visually verify scans **4–7** (`திரை விலக`, `பதிப்புரை`, and the eighth-edition note), applying the historical-glyph pre-correction check to every doubtful cluster. Then begin the narrative at scan 8 in a separate small batch.

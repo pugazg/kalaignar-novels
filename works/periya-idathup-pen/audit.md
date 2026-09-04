@@ -6,7 +6,7 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 Source pages: **49**  
 Source PDF committed to repository: **No**
 
-This audit is **open**. The source has been registered and all 49 scan pages have manifest rows, but page-level Tamil transcription has not yet passed the completion gate.
+This audit is **open**. Source registration and the first small front-matter batch are complete, but page-level Tamil transcription has not yet passed the completion gate.
 
 ## Current gate
 
@@ -14,8 +14,9 @@ This audit is **open**. The source has been registered and all 49 scan pages hav
 |---|---|
 | Source identity inspected from scan | complete |
 | Scan pages mapped | **49 / 49** |
-| Canonical page records | **0 / 49** at registration checkpoint |
-| Directly verified pages | **0 / 49** |
+| Canonical page records | **3 / 49** |
+| Directly verified pages | **3 / 49 — scans 1–3** |
+| `needs-review` page records | **0** |
 | Full body visual audit | not started |
 | Page-boundary continuity audit | not started |
 | Internal structural audit | preliminary only |
@@ -24,6 +25,16 @@ This audit is **open**. The source has been registered and all 49 scan pages hav
 | Tamil source layer | **NOT PASSED** |
 | Assembled Tamil reading layer | not started |
 | English translation gate | **CLOSED** |
+
+## First verified batch — scans 1–3
+
+Direct enlarged visual comparison established:
+
+- scan 1: title `பெரிய இடத்துப் பெண்`, author `மு. கருணாநிதி`, `திராவிடன் பதிப்பகம்`, `வேலூர் (வ. ஆ.)`; handwriting kept outside printed text;
+- scan 2: no source narrative/publication text identified; copy-specific handwriting not guessed; later label recorded separately as `பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின் / அன்பளிப்பு`;
+- scan 3: `எட்டாம் பதிப்பு: ஜூலை 1953`, `உரிமை உடையது`, `விலை 0—8—0`, and `விற்பனை உரிமை: எம். எஸ். ராஜுலு கம்பெனி / 286, சைனா பஜார் / சென்னை-1`.
+
+All three records are `verified` because they were compared directly with the source scan. OCR was not used as textual authority.
 
 ## Preliminary structural finding
 
@@ -41,4 +52,4 @@ English translation and assembled Tamil `sections/` remain blocked until every s
 
 ## Next activity
 
-Create the first directly verified canonical page-record batch for scans **1–3** and synchronize the page map and status documents.
+Directly transcribe and visually verify scans **4–7**. These comprise the author note `திரை விலக`, the initial `பதிப்புரை`, and the eighth-edition `பதிப்புரை` across scans 6–7. Update the page map after that batch; do not start English translation.

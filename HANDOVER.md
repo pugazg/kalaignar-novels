@@ -5,93 +5,109 @@
 - Repository: `pugazg/kalaignar-novels`
 - Branch: `main`
 - Primary guide: `NOVEL_PROCESSING_GUIDE.md`
-- Completed current work: `works/pudhaiyal/`
+- Current target: `works/periya-idathup-pen/`
+- Completed reference implementation: `works/balipeedam-nokki/`
 
-## புதையல் — source identity
+## Mandatory startup for continuation
 
-- author: கலைஞர் மு. கருணாநிதி, எம். எல். ஏ.
-- publisher: அன்புப் பதிப்பகம், பொறையார் :: தஞ்சை மாவட்டம்
-- edition: மூன்றாம் பதிப்பு — செப்டம்பர் 1961
-- TDL bibliographic extent: **443 p.**
-- received source scans: **1–448**
-- narrative ending: **scan 447 / printed 443**
-- scan 448: separate printer colophon
+Before changing the current work, read completely:
 
-## Authority rule
+1. `NOVEL_PROCESSING_GUIDE.md`;
+2. root `README.md`;
+3. this `HANDOVER.md`;
+4. current-work `works/periya-idathup-pen/README.md`;
+5. `works/periya-idathup-pen/metadata/source.md`;
+6. `works/periya-idathup-pen/indexes/page-map.md`;
+7. `works/periya-idathup-pen/audit.md`;
+8. relevant existing page records.
 
-Native scans control page identity, punctuation, quotation marks, paragraph/section structure, physical boundaries, separators, chapter transitions, narrative ending and back matter.
+The attached source scan remains controlling. Do not commit the PDF.
 
-From scan **280 onward**, user-supplied Gemini transcription controls lexical words/forms/spacing:
+## பெரிய இடத்துப் பெண் — source identity
 
-- Part 007 — `p7.md`
-- Part 008 — `p8.md`
-- Part 009 — `p9.md`
-- Part 010 — `p10.md`
+- source filename: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf`;
+- SHA-256: `50db9c55d670065bd81088ee07e4527f5531a9ab15e3c4533d6b10eda8d09e9628`;
+- file size: **70,952,481 bytes**;
+- source scans: **49**;
+- title visible on scan 1: **பெரிய இடத்துப் பெண்**;
+- author visible on scan 1: **மு. கருணாநிதி**;
+- publisher/place visible on scan 1: **திராவிடன் பதிப்பகம் / வேலூர் (வ. ஆ.)**;
+- edition visible on scan 3: **எட்டாம் பதிப்பு: ஜூலை 1953**;
+- price visible on scan 3: **விலை 0—8—0**;
+- sales rights: **எம். எஸ். ராஜுலு கம்பெனி, 286, சைனா பஜார், சென்னை-1**.
 
-Complete source-visible lexical spans absent from the baseline require explicit user disposition rather than silent insertion. Source/split PDFs and uploaded baseline files are never committed.
+## Current stage
 
-## Final durable state
+- source registration: **complete**;
+- page map: **49 / 49 scans represented**;
+- canonical page records: **3 / 49**;
+- directly verified: **3 / 49 — scans 1–3**;
+- `needs-review`: **0** at this checkpoint;
+- remaining `not-started`: **46**;
+- Tamil source audit: **NOT PASSED**;
+- assembled Tamil sections: **not started**;
+- English translation: **not started; gate closed**;
+- source PDF committed: **No**.
 
-- canonical records: **448 / 448**
-- verified / completed: **446**
-- `needs-review`: **2 — scans 223–224 only**
-- partial: **0**
-- Parts **001–010: part-complete**
-- assembled Tamil narrative: through scan **447 / printed 443**
-- assembled back matter: through scan **448**
-- source-checked English: through scan **448**
-- bilingual-reviewed English: through scan **448**
-- whole-work English: **VERIFIED**
-- repository package: **RELEASE-READY WITH TWO PART-005 PHYSICAL-LOSS QUALIFICATIONS**
+## Completed first batch
 
-## Part 005 — 2026-09-03 direct user review
+- scan 1 — verified cover title/author/publisher/place; handwriting recorded separately;
+- scan 2 — verified copy-specific page classification; illegible handwriting not guessed; later gift-label recorded separately;
+- scan 3 — verified edition/date, rights, price and sales-rights details.
 
-The previously tape-obstructed scans **215–219** are now closed.
+Canonical records:
 
-### Scan 215 / printed 213
+- `works/periya-idathup-pen/pages/0001-cover.md`
+- `works/periya-idathup-pen/pages/0002-copy-annotation.md`
+- `works/periya-idathup-pen/pages/0003-publication-details.md`
 
-User-supplied source corrections:
+## Printed-page behaviour
 
-- `பாமளாவும்` → `பரிமளாவும்`
-- `கொழுந்தே` → `கொழுந்தாம்`
-- `என்று தழுதழுத்த குரலிலே கேட்டான்` → `என்று தழுதழுத்த குரலிலே அவன் கேட்டான்`
+- scans 1–6: no visible printed page number;
+- scan 7: printed page **6**;
+- scan 8: no visible printed page number;
+- scans 9–49: printed pages **8–48**.
 
-### Scan 216 / printed 214
+Never infer the missing scan-8 number from sequence.
 
-User-supplied source corrections:
+## Structural note
 
-- `புண்ணுக்கு மருந்து கேட்கிறாய்.` → `புண்ணுக்கு மருந்து கேள்; தருகிறேன்.`
-- `அவன் வீறுகொண்டு` → `அவன் வீரனாக`
+Representative review supports **one continuous work, `பெரிய இடத்துப் பெண்`**. Character-name headings observed inside the narrative (`உத்தண்டி`, `கண்ணம்மா`, `குமுதா`, `வீரன்`, `உலகநாதர்`) are internal headings at this stage, not separate works. Final section boundaries must be source-established during full page/continuity audit.
 
-### Scans 217–219
+## Source-fidelity / old-glyph rule
 
-- scan 217: user confirmed retained reading;
-- scan 218: duplicate witness of printed 214, synchronized to corrected scan 216;
-- scan 219: duplicate witness of printed 215, user confirmed retained reading.
-
-Only scans **223–224** remain `needs-review`, because substantial source paper is physically missing. A stronger source witness is required to close them.
-
-## English correction impact
-
-Chapter 24 English has been re-synchronized:
-
-- **Pamala** → **Parimala**;
-- corrected `கொழுந்தாம்` removed the prior vocative handling;
-- `புண்ணுக்கு மருந்து கேள்; தருகிறேன்.` → **“Ask for medicine for the wound; I'll give it.”**;
-- `அவன் வீரனாக நின்று சமர் புரியவில்லை` → **“he did not stand as a warrior and fight.”**
-
-The added Tamil subject `அவன்` before `கேட்டான்` requires no new English wording because the translation already explicitly says “he asked”.
-
-## Final records
-
-- complete-source map: `works/pudhaiyal/indexes/FULL_SOURCE_PAGE_MAP.md`
-- Part-005 page map: `works/pudhaiyal/indexes/part-005-page-map.md`
-- whole-work Tamil audit: `works/pudhaiyal/audit.md`
-- Part-005 audit: `works/pudhaiyal/notes/part-005-tamil-audit.md`
-- Part-005 bilingual review: `works/pudhaiyal/translations/en/PART_005_REVIEW.md`
-- final bilingual review: `works/pudhaiyal/translations/en/TRANSLATION_REVIEW.md`
-- release report: `works/pudhaiyal/translations/en/RELEASE_REPORT.md`
+The scan controls exact Tamil. Do not silently modernize or regularize spelling, punctuation, grammar, names, dialogue or odd forms. Before changing a supplied reading because a final sign seems absent, inspect the complete glyph cluster at high resolution, consider historical typeforms/faint marks, compare another same-edition occurrence when useful, and require positive native-pixel evidence. Genuine ambiguity stays `needs-review`. Never globalize one glyph finding.
 
 ## Exact next activity
 
-There is **no remaining `புதையல்` workflow gate**. If a stronger witness for scans 223–224 becomes available, re-open only those two physical-loss records and propagate any proven corrections. Otherwise begin the next novel/story using `NEXT_NOVEL_CHAT_PROMPT.md`.
+Directly transcribe and visually verify **scans 4–7**:
+
+1. scan 4 — `திரை விலக` author note;
+2. scan 5 — `பதிப்புரை`;
+3. scans 6–7 — `எட்டாம் பதிப்பு / பதிப்புரை` and continuation.
+
+Use small source-verified records, preserve paragraph/punctuation structure, separate copy-specific marks, update the page map/audit/work README, then stop. Begin scan 8 narrative only in the following batch.
+
+---
+
+# Completed prior work — புதையல்
+
+The previous `புதையல்` project remains unchanged and complete at its durable release state:
+
+- canonical records: **448 / 448**;
+- verified / completed: **446**;
+- `needs-review`: **2 — scans 223–224 only**, due to substantial physical paper loss;
+- Parts **001–010: part-complete**;
+- assembled Tamil through scan 448: complete;
+- whole-work English: **VERIFIED**;
+- repository package: **RELEASE-READY WITH TWO PART-005 PHYSICAL-LOSS QUALIFICATIONS**.
+
+The 2026-09-03 direct user review closed scans 215–219 and synchronized the proven Part-005 corrections through canonical Tamil and English. Stronger source evidence is still required to close scans 223–224.
+
+Final records remain:
+
+- `works/pudhaiyal/indexes/FULL_SOURCE_PAGE_MAP.md`
+- `works/pudhaiyal/audit.md`
+- `works/pudhaiyal/notes/part-005-tamil-audit.md`
+- `works/pudhaiyal/translations/en/TRANSLATION_REVIEW.md`
+- `works/pudhaiyal/translations/en/RELEASE_REPORT.md`
