@@ -12,10 +12,10 @@ The attached scan is the controlling source.
 
 - source registration: **complete**;
 - source page manifest: **49 / 49 scans mapped**;
-- canonical Tamil page records: **12 / 49**;
-- directly `verified`: **12 / 49 — scans 1–12**;
+- canonical Tamil page records: **17 / 49**;
+- directly `verified`: **17 / 49 — scans 1–17**;
 - `needs-review`: **0** at this checkpoint;
-- remaining `not-started`: **37**;
+- remaining `not-started`: **32**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil `sections/`: **not started**;
 - English translation: **not started / gate closed**;
@@ -52,6 +52,16 @@ Direct enlarged review retained source-specific forms rather than normalizing th
 
 The narrative batch was compared directly with enlarged scans. Page-boundary continuations were preserved between scans 9→10 and 11→12; scan 8 remains `printed_page: null` because no number is visible.
 
+### Scans 13–17 — narrative / `உத்தண்டி`
+
+- [`pages/0013-periya-idathup-pen-06.md`](pages/0013-periya-idathup-pen-06.md) — printed page 12;
+- [`pages/0014-periya-idathup-pen-07.md`](pages/0014-periya-idathup-pen-07.md) — printed page 13;
+- [`pages/0015-periya-idathup-pen-08.md`](pages/0015-periya-idathup-pen-08.md) — printed page 14; internal heading `உத்தண்டி`;
+- [`pages/0016-periya-idathup-pen-09.md`](pages/0016-periya-idathup-pen-09.md) — printed page 15;
+- [`pages/0017-periya-idathup-pen-10.md`](pages/0017-periya-idathup-pen-10.md) — printed page 16.
+
+Direct visual review established physical continuities `நினைக்` + `காதே!` (scans 14→15), `தெரிந்` + `தது.` (15→16), and `நம்` + `வீட்டு` (16→17). Scan 17 ends with `கண்டது`, which continues onto the next scan and has not been completed from context. The internal `உத்தண்டி` heading remains part of the same continuous work.
+
 ## Source-supported work identity
 
 The scan identifies the work as **`பெரிய இடத்துப் பெண்`** by **மு. கருணாநிதி**. Representative review of the front matter, narrative opening, later body pages and ending supports **one continuous story/work**.
@@ -73,4 +83,4 @@ The copy shows age staining, specks, occasional edge/binding wear, faint bleed-t
 
 ## Next activity
 
-Directly transcribe and visually verify **scans 13–17** (printed pages **12–16**) as the next narrative batch. Scan 15 / printed page 14 contains the internal heading `உத்தண்டி`; retain it as an internal textual heading unless page-level continuity proves otherwise. Update page map/audit status after the batch. Do not begin English translation.
+Directly transcribe and visually verify **scans 18–22** (printed pages **17–21**) as the next narrative batch. Scan 19 / printed page 18 contains the internal heading `கண்ணம்மா`; retain it as an internal textual heading unless page-level continuity proves otherwise. Resolve scan 17's final `கண்டது` only from the visible opening of scan 18. Update page map/audit status after the batch. Do not begin English translation.
