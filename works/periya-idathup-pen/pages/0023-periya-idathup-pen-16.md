@@ -4,7 +4,7 @@ printed_page: 22
 work: "periya-idathup-pen"
 section: "பெரிய இடத்துப் பெண்"
 page_type: "body"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
 transcription_method: "direct visual comparison with enlarged source scan"
@@ -20,7 +20,7 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 - visible printed page number: **22**.
 - opening `டும்` completes scan 22's final `மட்`, establishing `மட்டும்` across the physical page boundary.
-- source-specific forms such as `பெற்ற பேய்கள்`, `வீராப்பில்`, `ஆனந்தங்`, and `எண்ணப்பட்டாளம்` were retained from direct visual review.
+- source-specific forms remain subject to the reopened historical-glyph audit.
 - final `வீரன் ஏழைதான்` continues onto scan 24.
 
 <!-- மூல ஸ்கேன் பக்கம்: 23; அச்சுப் பக்கம்: 22 -->
