@@ -4,7 +4,7 @@ printed_page: 8
 work: "periya-idathup-pen"
 section: "பெரிய இடத்துப் பெண்"
 page_type: "body"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
 transcription_method: "direct visual comparison with enlarged source scan"
