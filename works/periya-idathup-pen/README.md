@@ -13,54 +13,56 @@ The attached scan is the controlling source.
 - source registration: **complete**;
 - source page manifest: **49 / 49 scans mapped**;
 - canonical Tamil page records: **27 / 49**;
-- directly `verified`: **27 / 49 — scans 1–27**;
-- `needs-review`: **0** at this checkpoint;
+- `verified`: **0**;
+- `needs-review`: **27 / 49 — scans 1–27**;
 - `partial`: **0**;
 - remaining `not-started`: **22**;
+- historical-glyph retrospective audit: **OPEN**;
 - Tamil source audit: **NOT PASSED**;
-- assembled Tamil `sections/`: **not started**;
-- English translation: **not started / gate closed**;
+- assembled Tamil `sections/`: **blocked / not started**;
+- English translation: **blocked / not started**;
 - source PDF committed: **No**.
 
 Full source identity: [`metadata/source.md`](metadata/source.md).  
 Page manifest: [`indexes/page-map.md`](indexes/page-map.md).  
-Audit state: [`audit.md`](audit.md).
+Audit state: [`audit.md`](audit.md).  
+Historical-glyph audit: [`HISTORICAL_GLYPH_AUDIT.md`](HISTORICAL_GLYPH_AUDIT.md).
 
-## Verified batches
+## Verification freeze
+
+**Do not mark any page in this work `verified`.**
+
+The user identified a systematic historical-typeform failure: the 1953 source uses a pre-reform Tamil glyph corresponding to modern Unicode `றா`, and its printed shape can resemble modern `று`. Earlier transcription incorrectly treated that visual resemblance as character identity.
+
+Because this risk can affect the transcription from the beginning, every existing canonical record for scans **1–27** has been reopened as `needs-review`. New pages must also be created as `needs-review` while this project-wide historical-glyph audit remains open, unless the user explicitly changes this policy.
+
+## Confirmed legacy-glyph corrections
+
+| Scan | Printed page | Earlier transcription | Correct Unicode reading |
+|---:|:---:|---|---|
+| 20 | 19 | `நன்றுகத்` | `நன்றாகத்` |
+| 21 | 20 | `நன்றுகத்தான்` | `நன்றாகத்தான்` |
+| 24 | 23 | `நன்றுக` | `நன்றாக` |
+| 24 | 23 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` |
+
+These are glyph-identification corrections, not modernization of source wording.
+
+## Existing transcription coverage
 
 ### Scans 1–7 — front matter
 
-Cover/source identity, copy-specific annotation page, publication details, `திரை விலக`, first `பதிப்புரை`, and eighth-edition `பதிப்புரை` through printed page 6 are directly verified.
+Canonical records exist for the cover, copy-specific annotation page, publication details, `திரை விலக`, first `பதிப்புரை`, and eighth-edition `பதிப்புரை`. All are now `needs-review` pending the retrospective glyph audit.
 
-### Scans 8–12 — narrative opening
+### Scans 8–27 — narrative
 
-[`pages/0008-periya-idathup-pen-01.md`](pages/0008-periya-idathup-pen-01.md) through [`pages/0012-periya-idathup-pen-05.md`](pages/0012-periya-idathup-pen-05.md) are verified; scan 8 is visibly unnumbered and scans 9–12 are printed pages 8–11.
+Canonical narrative records exist continuously through [`pages/0027-periya-idathup-pen-20.md`](pages/0027-periya-idathup-pen-20.md). All are now `needs-review`.
 
-### Scans 13–17 — narrative / `உத்தண்டி`
+Visible internal headings identified so far:
 
-[`pages/0013-periya-idathup-pen-06.md`](pages/0013-periya-idathup-pen-06.md) through [`pages/0017-periya-idathup-pen-10.md`](pages/0017-periya-idathup-pen-10.md) are verified. Scan 15 / printed 14 directly verifies internal heading `உத்தண்டி`.
+- scan 15 / printed 14 — `உத்தண்டி`;
+- scan 19 / printed 18 — `கண்ணம்மா`.
 
-### Scans 18–22 — narrative / `கண்ணம்மா`
-
-[`pages/0018-periya-idathup-pen-11.md`](pages/0018-periya-idathup-pen-11.md) through [`pages/0022-periya-idathup-pen-15.md`](pages/0022-periya-idathup-pen-15.md) are verified. Scan 19 / printed 18 directly verifies internal heading `கண்ணம்மா`.
-
-### Scans 23–27 — narrative continuation
-
-- [`pages/0023-periya-idathup-pen-16.md`](pages/0023-periya-idathup-pen-16.md) — printed page 22;
-- [`pages/0024-periya-idathup-pen-17.md`](pages/0024-periya-idathup-pen-17.md) — printed page 23;
-- [`pages/0025-periya-idathup-pen-18.md`](pages/0025-periya-idathup-pen-18.md) — printed page 24;
-- [`pages/0026-periya-idathup-pen-19.md`](pages/0026-periya-idathup-pen-19.md) — printed page 25;
-- [`pages/0027-periya-idathup-pen-20.md`](pages/0027-periya-idathup-pen-20.md) — printed page 26.
-
-Direct visual review established the physical continuities `மட்` + `டும்` → `மட்டும்`, `வீரன் ஏழைதான்` + `ஆனால்`, `‘ஒய்யா` + `ரக்` → `‘ஒய்யாரக்`, `கவலை` + `யில்லை.` → `கவலையில்லை.`, and `நிலையி` + `லேயே` → `நிலையிலேயே`.
-
-Scan 27 ends inside a parenthetical recollection after `அவனுக்கு ஒரு`; its continuation is intentionally deferred to scan 28. Source-specific period forms were preserved rather than normalized, including `பெற்ற பேய்கள்`, `வீராப்பில்`, `எண்ணப்பட்டாளம்`, `நன்றுக`, `விழுவேன் என்றுனா?`, `மட்டுந்தானு?`, `மனசுதான்`, `பட்சமாயிருந்த`, `மெளனமே`, `ஸ்பரிசத்தால்`, and `வீணன்`.
-
-## Source-supported work identity
-
-The scan identifies the work as **`பெரிய இடத்துப் பெண்`** by **மு. கருணாநிதி**. Source review supports **one continuous story/work**.
-
-Character-name headings visible within the narrative — including `உத்தண்டி`, `கண்ணம்மா`, `குமுதா`, `வீரன்`, and `உலகநாதர்` — are retained as **internal textual headings**, not separate bibliographic works, unless later source continuity proves otherwise.
+They remain internal textual structure within the same continuous work; identifying a heading does not verify the whole page.
 
 ## Printed-page behaviour
 
@@ -71,10 +73,22 @@ Character-name headings visible within the narrative — including `உத்த
 
 No missing printed number is inferred from sequence.
 
+## Source-supported work identity
+
+The scan identifies the work as **`பெரிய இடத்துப் பெண்`** by **மு. கருணாநிதி**. Source review continues to support one continuous story/work. Character-name headings such as `உத்தண்டி`, `கண்ணம்மா`, `குமுதா`, `வீரன்`, and `உலகநாதர்` are treated as internal structure unless full source continuity proves otherwise.
+
 ## Source condition
 
-The copy shows age staining, specks, occasional edge/binding wear, faint bleed-through, and copy-specific handwriting/ink marks. Scan 2 contains handwriting plus a later gift-label. These marks remain separate from the printed work text.
+The copy shows age staining, specks, occasional edge/binding wear, faint bleed-through, and copy-specific handwriting/ink marks. Scan 2 contains handwriting plus a later gift-label. These marks remain separate from printed work text.
+
+## Historical-glyph rule for this source
+
+Do not copy a historical glyph according to what modern glyph it superficially resembles. Determine the historical character identity from the full glyph cluster and same-edition evidence, then encode that identity in modern Unicode. In particular, the user-confirmed old `றா` form must not be transcribed as `று` merely because of visual resemblance.
+
+Do not mechanically global-replace. Each occurrence must be checked against the source pixels.
 
 ## Next activity
 
-Directly transcribe and visually verify **scans 28–32** (printed pages **27–31**) as the next narrative batch. Resolve scan 27's final parenthetical continuation only from scan 28. Scan 32 / printed page 31 contains the internal heading `குமுதா`; retain it as internal textual structure unless page-level continuity proves otherwise. Update page map/audit/work README/HANDOVER after the batch. Do not begin English translation.
+Do **not** continue to scans 28–32 yet.
+
+Perform a systematic retrospective historical-glyph audit of scans **1–27**, in source order, recording every correction with scan/printed-page provenance. Keep every page `needs-review`. Only after that audit is complete should new-page transcription resume at scan 28.
