@@ -6,7 +6,7 @@
 
 The user identified a systematic transcription risk in this 1953 source: a historical pre-reform Tamil glyph corresponding to modern Unicode `றா` can visually resemble modern `று`. Earlier transcription treated the visual form literally as `று` in several places instead of decoding the historical glyph identity.
 
-Because this can affect earlier pages as well as later pages, all canonical records currently created for scans **1–27** have been reclassified to `needs-review`. No page in this work is to be marked `verified` while this audit is open. Future page records must also remain `needs-review` unless the user explicitly authorizes a different verification policy.
+Because this can affect earlier pages as well as later pages, all canonical records currently created for scans **1–27** remain `needs-review`. No page in this work is to be marked `verified` while this audit is open. Future page records must also remain `needs-review` unless the user explicitly authorizes a different verification policy.
 
 ## Confirmed corrections
 
@@ -20,6 +20,25 @@ The following corrections are supported by the user's glyph identification and d
 | 24 | 23 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` |
 
 These are **glyph-identification corrections**, not spelling modernization. The source's historical glyph is being represented by its correct modern Unicode character sequence.
+
+## Retrospective pass progress
+
+| Scan | Printed page | Historical-glyph pass | Corrections from this pass | Page status |
+|---:|:---:|---|---|---|
+| 1 | — | complete for this one-page pass | none | `needs-review` |
+
+### Scan 1 finding
+
+The cover was re-read in full from an enlarged source render. The printed lexical units were checked individually as:
+
+- `பெரிய இடத்துப் பெண்`
+- `மு. கருணாநிதி`
+- `திராவிடன் பதிப்பகம்`
+- `வேலூர் (வ. ஆ.)`
+
+No printed `றா` cluster occurs on scan 1, so the specific historical-`றா` / apparent-modern-`று` ambiguity does not arise on this page. No other glyph-identity mismatch was found in the printed cover text during this pass. Copy-specific handwriting was not converted into canonical printed text.
+
+**Progress:** 1 / 27 existing canonical scans reviewed in the retrospective pass; scans 2–27 remain pending. The reviewed page still remains `needs-review` and is not called verified.
 
 ## Audit rule
 
@@ -43,6 +62,7 @@ Particular attention must be given to legacy vowel-bearing forms, beginning with
 ## Gate consequence
 
 - canonical records created: **27 / 49**;
+- retrospective historical-glyph pass: **1 / 27 reviewed — scan 1 only**;
 - page status for scans 1–27: **27 `needs-review`**;
 - `verified`: **0**;
 - `partial`: **0**;
@@ -55,4 +75,4 @@ Particular attention must be given to legacy vowel-bearing forms, beginning with
 
 Do **not** continue to scans 28–32 yet.
 
-Perform a systematic historical-glyph re-audit of existing canonical scans **1–27**, in source order, with special attention to pre-reform `றா` and related legacy glyph forms. Record every correction with scan/printed-page provenance. Keep every page `needs-review`. Only after the retrospective audit is complete should new-page transcription resume.
+Audit **scan 2 only** next, using the same one-page method: inspect the entire scan at enlarged resolution, separate copy-specific handwriting/label material from source printed text, check any printed glyph clusters for historical typeforms, record any corrections with provenance, and keep the page `needs-review`.
