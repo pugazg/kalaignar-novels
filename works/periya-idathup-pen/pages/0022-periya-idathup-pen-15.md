@@ -4,7 +4,7 @@ printed_page: 21
 work: "periya-idathup-pen"
 section: "பெரிய இடத்துப் பெண்"
 page_type: "body"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
 transcription_method: "direct visual comparison with enlarged source scan"
@@ -20,7 +20,7 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 - visible printed page number: **21**.
 - opening `கூட` completes scan 21's final `காலக்ஷேபங்`, preserving the physical page-boundary continuation.
-- source-specific forms including `குரூபப்பற்றி`, `வறட்டுச் சப்தம்`, `கோகிலத் தொனி`, `கண்ராவியான`, `பச்சிளங்`, `பரிகாசஞ்`, `வாராகாவதாரத்தைக்`, `விரகதாபங்கொண்ட`, and `வைதீக உலகந்தானே` were retained.
-- final `மட்` is visibly incomplete and must be resolved only from scan 23.
+- source-specific forms remain subject to the reopened historical-glyph audit.
+- final `மட்` is visibly incomplete and continues on scan 23.
 
 <!-- மூல ஸ்கேன் பக்கம்: 22; அச்சுப் பக்கம்: 21 -->
