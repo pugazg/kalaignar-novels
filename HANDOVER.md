@@ -40,10 +40,10 @@ The attached source scan remains controlling. Do not commit the PDF.
 
 - source registration: **complete**;
 - page map: **49 / 49 scans represented**;
-- canonical page records: **7 / 49**;
-- directly verified: **7 / 49 — scans 1–7**;
+- canonical page records: **12 / 49**;
+- directly verified: **12 / 49 — scans 1–12**;
 - `needs-review`: **0** at this checkpoint;
-- remaining `not-started`: **42**;
+- remaining `not-started`: **37**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil sections: **not started**;
 - English translation: **not started; gate closed**;
@@ -64,17 +64,17 @@ The attached source scan remains controlling. Do not commit the PDF.
 - scan 6 — verified `எட்டாம் பதிப்பு / பதிப்புரை` opening;
 - scan 7 / printed 6 — verified continuation and publisher sign-off.
 
-Canonical records now run continuously through:
+### Scans 8–12
 
-- `works/periya-idathup-pen/pages/0001-cover.md`
-- `works/periya-idathup-pen/pages/0002-copy-annotation.md`
-- `works/periya-idathup-pen/pages/0003-publication-details.md`
-- `works/periya-idathup-pen/pages/0004-thirai-vilaga.md`
-- `works/periya-idathup-pen/pages/0005-pathippurai.md`
-- `works/periya-idathup-pen/pages/0006-eighth-edition-pathippurai-01.md`
-- `works/periya-idathup-pen/pages/0007-eighth-edition-pathippurai-02.md`
+- scan 8 — verified title / narrative opening; visibly unnumbered;
+- scan 9 / printed 8 — verified narrative continuation;
+- scan 10 / printed 9 — verified narrative continuation;
+- scan 11 / printed 10 — verified narrative continuation;
+- scan 12 / printed 11 — verified narrative continuation.
 
-Important source forms retained in scans 4–7 include `வழக்கந்தான்`, `அற்பிய`, `விலாவொடியப்`, `ஏற்பட்டச்`, `அவர்கட்கு`, `வாலிபக் கிழங்களோடு`, `புரையோடிக்கொண்டிருக்கும்`, `நம்முன். காட்சியளிக்கத்தான்`, `மாசு மருவற்ற`, `விற்பனையாவதிலிருந்து`, `வெள்ளிடை மலை!`, and `திரைக் கதையாக`.
+Page-boundary continuations were checked directly between scans 9→10 and 11→12. No lexical reading in scans 8–12 remains `needs-review`.
+
+Canonical records now run continuously through `works/periya-idathup-pen/pages/0012-periya-idathup-pen-05.md`.
 
 ## Printed-page behaviour
 
@@ -95,10 +95,7 @@ The scan controls exact Tamil. Do not silently modernize or regularize spelling,
 
 ## Exact next activity
 
-Directly transcribe and visually verify **scans 8–12** as the first narrative batch:
-
-1. scan 8 — narrative title/opening; no visible printed page number, so `printed_page: null`;
-2. scans 9–12 — continuation, printed pages **8–11**.
+Directly transcribe and visually verify **scans 13–17** (printed pages **12–16**) as the next narrative batch. Scan 15 / printed page 14 contains the internal heading `உத்தண்டி`; retain it as an internal textual heading unless continuity evidence establishes otherwise.
 
 Preserve exact source paragraph/dialogue/punctuation structure, apply the old-glyph pre-correction gate to doubtful clusters, update page map/audit/work README, then stop. Do not begin English translation.
 
