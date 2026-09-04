@@ -79,7 +79,19 @@ The page was re-read at enlarged resolution. No original 1953 source-work printe
 
 Those printed label units were checked against all 13 known forms. None requires historical-form conversion. The handwritten Tamil remains copy-specific and was not guessed or promoted into canonical source-work text. Scan 2 remains `needs-review`.
 
-Progress: **2 / 27 existing canonical scans re-audited; scans 3–27 pending**.
+### Scan 3 — completed one-page pass
+
+The publication-details page was re-read at enlarged/high resolution. It contains several positive historical-form occurrences from the 13-form reference:
+
+- `ஜூலை` — historical `லை` form;
+- `விலை` — historical `லை` form;
+- `விற்பனை` — historical `னை` form;
+- `சைனா` — historical `னா` form;
+- `சென்னை` — historical `னை` form.
+
+The existing canonical transcription already encoded all five with the correct modern Unicode identities, so no lexical replacement was required. This confirms that the edition uses historical `லை`, `னை`, and `னா` forms in addition to the separately identified `றா` issue. Scan 3 remains `needs-review`.
+
+Progress: **3 / 27 existing canonical scans re-audited; scans 4–27 pending**.
 
 ## Current stage
 
@@ -90,7 +102,7 @@ Progress: **2 / 27 existing canonical scans re-audited; scans 3–27 pending**.
 - `needs-review`: **27 — scans 1–27**;
 - `partial`: **0**;
 - `not-started`: **22 — scans 28–49**;
-- historical-glyph retrospective audit: **OPEN — 2 / 27 reviewed**;
+- historical-glyph retrospective audit: **OPEN — 3 / 27 reviewed**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil sections: **BLOCKED / not started**;
 - English translation: **BLOCKED / not started**;
@@ -152,7 +164,7 @@ Never infer the missing scan-8 number from sequence.
 
 ## Exact next activity
 
-**Audit scan 3 only. Do not move beyond one page in that activity.**
+**Audit scan 4 only. Do not move beyond one page in that activity.**
 
 Use the same one-page method:
 
@@ -160,8 +172,8 @@ Use the same one-page method:
 2. inspect every printed glyph cluster against the complete 13-form historical reference;
 3. make only pixel-supported glyph-identity corrections;
 4. record the result in the page record and `HISTORICAL_GLYPH_AUDIT.md`;
-5. keep scan 3 `needs-review` regardless of whether corrections are found;
-6. stop after scan 3 and report the result.
+5. keep scan 4 `needs-review` regardless of whether corrections are found;
+6. stop after scan 4 and report the result.
 
 Do not continue to scans 28–32, assembled Tamil, or English translation.
 
