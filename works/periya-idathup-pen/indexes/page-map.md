@@ -13,11 +13,11 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 | 5 | — | publisher note — `பதிப்புரை` | verified | `pages/0005-pathippurai.md` |
 | 6 | — | eighth-edition note — `எட்டாம் பதிப்பு / பதிப்புரை` | verified | `pages/0006-eighth-edition-pathippurai-01.md` |
 | 7 | 6 | eighth-edition note continuation | verified | `pages/0007-eighth-edition-pathippurai-02.md` |
-| 8 | — | title / narrative opening | not-started | `pages/0008-periya-idathup-pen-01.md` |
-| 9 | 8 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0009-periya-idathup-pen-02.md` |
-| 10 | 9 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0010-periya-idathup-pen-03.md` |
-| 11 | 10 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0011-periya-idathup-pen-04.md` |
-| 12 | 11 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0012-periya-idathup-pen-05.md` |
+| 8 | — | title / narrative opening | verified | `pages/0008-periya-idathup-pen-01.md` |
+| 9 | 8 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0009-periya-idathup-pen-02.md` |
+| 10 | 9 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0010-periya-idathup-pen-03.md` |
+| 11 | 10 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0011-periya-idathup-pen-04.md` |
+| 12 | 11 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0012-periya-idathup-pen-05.md` |
 | 13 | 12 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0013-periya-idathup-pen-06.md` |
 | 14 | 13 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0014-periya-idathup-pen-07.md` |
 | 15 | 14 | body; internal heading `உத்தண்டி` | not-started | `pages/0015-periya-idathup-pen-08.md` |
@@ -60,21 +60,23 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 
 - Source scan pages: **49**
 - Page-manifest rows: **49 / 49**
-- Page records created: **7 / 49**
-- `verified`: **7**
+- Page records created: **12 / 49**
+- `verified`: **12**
 - `needs-review`: **0**
 - `partial`: **0**
-- `not-started`: **42**
+- `not-started`: **37**
 - Source PDF stored in repository: **No**
+
+## Boundary notes established so far
+
+- scan 8 is visibly unnumbered and remains `printed_page: null`;
+- scan 9 ends mid-sentence with `அவளை இவருக்குக் கட்டினர்கள்`; scan 10 continues `அதைப் பற்றி உலகம் பேசாமலில்லை.`;
+- scan 11 ends mid-word with `கிடப்ப`; scan 12 continues `தாகக்`, establishing `கிடப்பதாகக்` across the physical page boundary.
 
 ## Structural caution
 
 The internal character-name headings listed above were observed during representative source inspection. They do not create separate work identities. Additional internal transitions may emerge during full transcription; the map should be refined only from direct source evidence.
 
-## Verified front matter
-
-Scans **1–7** are now directly visually verified. Scans 4–7 preserve source-specific forms and punctuation without modernization; scan 7 visibly carries printed page **6**.
-
 ## Next activity
 
-Directly transcribe and visually verify narrative scans **8–12**. Keep scan 8 unnumbered (`printed_page: null`) because no printed number is visible; scans 9–12 map to printed pages 8–11. Apply the historical-glyph pre-correction check to every doubtful cluster, then update this manifest and the audit.
+Directly transcribe and visually verify scans **13–17** (printed pages **12–16**), applying the historical-glyph pre-correction check to every doubtful cluster. Scan 15 / printed 14 contains the internal heading `உத்தண்டி`; retain it as an internal heading unless continuity evidence establishes otherwise. Then update the page map/audit/work README and stop.
