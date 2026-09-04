@@ -50,6 +50,7 @@ These are **glyph-identification corrections**, not spelling modernization.
 | Scan | Printed page | Historical-glyph pass | Corrections from this pass | Page status |
 |---:|:---:|---|---|---|
 | 1 | — | complete for this one-page pass | none | `needs-review` |
+| 2 | — | complete for this one-page pass | none | `needs-review` |
 
 ### Scan 1 finding
 
@@ -60,9 +61,23 @@ The cover was re-read in full from an enlarged source render. The printed lexica
 - `திராவிடன் பதிப்பகம்`
 - `வேலூர் (வ. ஆ.)`
 
-The scan-1 pass was reinterpreted using the complete 13-form reference above, not only the earlier `றா` example. No printed occurrence on this cover requires historical-form conversion to any of `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. No glyph-identity correction is required on scan 1 from this pass. Copy-specific handwriting was not converted into canonical printed text.
+The scan-1 pass was interpreted using the complete 13-form reference above, not only the earlier `றா` example. No printed occurrence on this cover requires historical-form conversion to any of `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. No glyph-identity correction is required on scan 1 from this pass. Copy-specific handwriting was not converted into canonical printed text.
 
-**Progress:** 1 / 27 existing canonical scans reviewed in the retrospective pass; scans 2–27 remain pending. The reviewed page still remains `needs-review` and is not called verified.
+### Scan 2 finding
+
+Scan 2 was re-read in full at enlarged resolution. No original 1953 source-work printed narrative or publication text is present on this scan. The page consists of copy-specific handwriting plus a later printed gift label.
+
+The later label was checked as:
+
+- `பேராசிரியர்.`
+- `தி.வ.`
+- `மெய்கண்டார்`
+- `அவர்களின்`
+- `அன்பளிப்பு`
+
+None of these clearly printed label units requires conversion from the 13 known historical forms. No glyph-identity correction is required on scan 2 from this pass. The handwritten Tamil remains outside the canonical printed-source layer and was not guessed or used as evidence for source-work glyph conversion.
+
+**Progress:** **2 / 27** existing canonical scans reviewed in the retrospective pass; scans **3–27** remain pending. Both reviewed pages remain `needs-review` and are not called verified.
 
 ## Audit rule
 
@@ -87,7 +102,7 @@ Particular attention must be given to all 13 user-supplied historical forms, and
 ## Gate consequence
 
 - canonical records created: **27 / 49**;
-- retrospective historical-glyph pass: **1 / 27 reviewed — scan 1 only**;
+- retrospective historical-glyph pass: **2 / 27 reviewed — scans 1–2**;
 - page status for scans 1–27: **27 `needs-review`**;
 - `verified`: **0**;
 - `partial`: **0**;
@@ -100,4 +115,4 @@ Particular attention must be given to all 13 user-supplied historical forms, and
 
 Do **not** continue to scans 28–32 yet.
 
-Audit **scan 2 only** next, using the same one-page method: inspect the entire scan at enlarged resolution, separate copy-specific handwriting/label material from source printed text, check printed glyph clusters against the complete 13-form historical reference, record any corrections with provenance, and keep the page `needs-review`.
+Audit **scan 3 only** next, using the same one-page method: inspect the entire scan at enlarged resolution, check every printed glyph cluster against the complete 13-form historical reference, make only pixel-supported glyph-identity corrections, record any corrections with provenance, and keep the page `needs-review`.
