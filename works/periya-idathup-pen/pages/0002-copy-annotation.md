@@ -7,7 +7,7 @@ page_type: "front-matter"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
-transcription_method: "direct visual comparison with enlarged source scan"
+transcription_method: "direct visual comparison with enlarged source scan; historical-glyph re-audit performed for this scan"
 ---
 
 இந்த scan-ல் source work-ன் அச்சிடப்பட்ட narrative / publication text அடையாளம் காணப்படவில்லை. பக்கம் copy-specific handwriting மற்றும் பின்னர் ஒட்டப்பட்ட gift-label-ஐ கொண்டுள்ளது.
@@ -16,6 +16,28 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின்  
 அன்பளிப்பு
+
+## Historical-glyph re-audit — scan 2
+
+The entire scan was re-read at enlarged resolution using the full user-supplied Periyar reform reference set:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+
+No original 1953 source-work printed narrative or publication text is present on this scan. The only clearly printed Tamil is the later, copy-specific gift label quoted above.
+
+The label's printed lexical units were checked individually:
+
+- `பேராசிரியர்.`
+- `தி.வ.`
+- `மெய்கண்டார்`
+- `அவர்களின்`
+- `அன்பளிப்பு`
+
+None of those printed label units contains an occurrence requiring conversion from the 13 known historical forms. No glyph-identity correction is required on scan 2 from this pass.
+
+The handwritten Tamil is copy-specific, not source printed text, and remains deliberately untranscribed where unclear. Its letterforms were not used to alter the canonical printed-source layer.
+
+This scan remains `needs-review` by project policy. Completion of this one-page glyph pass does **not** change the page to `verified`.
 
 ## Handwriting / physical-copy observations
 
