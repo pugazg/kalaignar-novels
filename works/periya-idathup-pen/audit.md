@@ -19,7 +19,7 @@ This audit is **open**. Canonical transcription exists through scan 27, but the 
 | `needs-review` page records | **27 — scans 1–27** |
 | `partial` page records | **0** |
 | Remaining `not-started` | **22 — scans 28–49** |
-| Historical-glyph retrospective audit | **OPEN — scans 1–27 required** |
+| Historical-glyph retrospective audit | **OPEN — 1 / 27 reviewed; scan 1 only** |
 | Full body visual audit | reopened because glyph identity was misread |
 | Page-boundary continuity audit | provisional through scan 27 |
 | Internal structural audit | preliminary only |
@@ -32,7 +32,7 @@ This audit is **open**. Canonical transcription exists through scan 27, but the 
 
 The user identified the key failure: this 1953 edition uses a historical pre-reform glyph corresponding to modern Unicode `றா`. Its printed shape can resemble modern `று`. The earlier workflow treated the visual resemblance as the character identity and therefore recorded false “odd source forms.”
 
-This means the previous statement that scans 1–27 were verified is no longer valid. Every existing page record has been changed to `needs-review`, and no page in this work may be marked `verified` while the retrospective glyph audit is open.
+This means the previous statement that scans 1–27 were verified is no longer valid. Every existing page record remains `needs-review`, and no page in this work may be marked `verified` while the retrospective glyph audit is open.
 
 Confirmed corrections at this checkpoint:
 
@@ -47,10 +47,25 @@ These are not editorial modernization. They are corrections to the Unicode ident
 
 Full tracking: [`HISTORICAL_GLYPH_AUDIT.md`](HISTORICAL_GLYPH_AUDIT.md).
 
+## Retrospective audit progress
+
+### Scan 1 — cover
+
+Scan 1 was re-read in full from an enlarged render. The printed lexical units were checked individually:
+
+- `பெரிய இடத்துப் பெண்`
+- `மு. கருணாநிதி`
+- `திராவிடன் பதிப்பகம்`
+- `வேலூர் (வ. ஆ.)`
+
+No printed `றா` cluster occurs on this scan, and no other historical-glyph identity correction was required in the printed cover text during this pass. Copy-specific handwriting remains outside canonical source text. Scan 1 nevertheless remains `needs-review` under the user-directed verification freeze.
+
+Retrospective progress is therefore **1 / 27 scans reviewed; scans 2–27 pending**.
+
 ## Existing transcription coverage
 
-- scans 1–7: front matter transcription exists, now `needs-review`;
-- scans 8–27: narrative transcription exists, now `needs-review`;
+- scans 1–7: front matter transcription exists, all `needs-review`;
+- scans 8–27: narrative transcription exists, all `needs-review`;
 - scans 28–49: `not-started`.
 
 The existing page-boundary joins and structural observations remain useful evidence, but they do not confer `verified` status on any page.
@@ -93,4 +108,4 @@ English translation and assembled Tamil `sections/` remain blocked. They must no
 
 Do **not** continue to scans 28–32.
 
-Retroactively audit canonical scans **1–27** in source order for historical/pre-reform Tamil glyphs, beginning with the user-confirmed `றா` failure pattern. Record every correction with scan and printed-page provenance. Keep all pages `needs-review`. Only after this retrospective pass is complete should transcription resume at scan 28.
+Audit **scan 2 only** next using the same one-page method. Inspect the entire page at enlarged resolution, keep copy-specific handwriting separate from printed source text, examine printed glyph clusters for historical typeforms, record any corrections with scan provenance, and leave the page `needs-review`.
