@@ -4,7 +4,7 @@ printed_page: null
 work: "periya-idathup-pen"
 section: "திரை விலக"
 page_type: "front-matter"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
 transcription_method: "direct visual comparison with enlarged source scan"
