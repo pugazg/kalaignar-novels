@@ -4,7 +4,7 @@ printed_page: null
 work: "periya-idathup-pen"
 section: "publication-details"
 page_type: "publisher-note"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
 transcription_method: "direct visual comparison with enlarged source scan"
@@ -24,6 +24,6 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 - காகிதத்தில் வயது சார்ந்த stains / specks மற்றும் faint unevenness உள்ளன.
 - visible printed page number இல்லை; `printed_page` infer செய்யப்படவில்லை.
-- page text direct enlarged scan comparison மூலம் character-level ஆக உறுதிசெய்யப்பட்டது.
+- page text direct enlarged scan comparison மூலம் character-level ஆக உறுதிசெய்யப்பட்டது; page status historical-glyph audit காரணமாக `needs-review`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 3; அச்சுப் பக்கம்: — -->
