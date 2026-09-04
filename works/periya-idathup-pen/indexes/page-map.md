@@ -28,11 +28,11 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 | 20 | 19 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0020-periya-idathup-pen-13.md` |
 | 21 | 20 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0021-periya-idathup-pen-14.md` |
 | 22 | 21 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0022-periya-idathup-pen-15.md` |
-| 23 | 22 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0023-periya-idathup-pen-16.md` |
-| 24 | 23 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0024-periya-idathup-pen-17.md` |
-| 25 | 24 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0025-periya-idathup-pen-18.md` |
-| 26 | 25 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0026-periya-idathup-pen-19.md` |
-| 27 | 26 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0027-periya-idathup-pen-20.md` |
+| 23 | 22 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0023-periya-idathup-pen-16.md` |
+| 24 | 23 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0024-periya-idathup-pen-17.md` |
+| 25 | 24 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0025-periya-idathup-pen-18.md` |
+| 26 | 25 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0026-periya-idathup-pen-19.md` |
+| 27 | 26 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0027-periya-idathup-pen-20.md` |
 | 28 | 27 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0028-periya-idathup-pen-21.md` |
 | 29 | 28 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0029-periya-idathup-pen-22.md` |
 | 30 | 29 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0030-periya-idathup-pen-23.md` |
@@ -60,11 +60,11 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 
 - Source scan pages: **49**
 - Page-manifest rows: **49 / 49**
-- Page records created: **22 / 49**
-- `verified`: **22**
+- Page records created: **27 / 49**
+- `verified`: **27**
 - `needs-review`: **0**
 - `partial`: **0**
-- `not-started`: **27**
+- `not-started`: **22**
 - Source PDF stored in repository: **No**
 
 ## Boundary notes established so far
@@ -80,12 +80,17 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 - scan 19 ends `என்`; scan 20 begins `னிலே`, establishing `என்னிலே`;
 - scan 20 ends `நானும்`; scan 21 begins `நன்றுகத்தான்`, preserving the sentence continuation;
 - scan 21 ends `காலக்ஷேபங்`; scan 22 begins `கூட`, preserving the physical continuation;
-- scan 22 ends `மட்`; its continuation must be established only from scan 23.
+- scan 22 ends `மட்`; scan 23 begins `டும்`, establishing `மட்டும்`;
+- scan 23 ends `வீரன் ஏழைதான்`; scan 24 continues `ஆனால்`;
+- scan 24 ends `‘ஒய்யா`; scan 25 begins `ரக்`, establishing `‘ஒய்யாரக்`;
+- scan 25 ends `கவலை`; scan 26 begins `யில்லை.`, establishing `கவலையில்லை.`;
+- scan 26 ends `நிலையி`; scan 27 begins `லேயே`, establishing `நிலையிலேயே`;
+- scan 27 ends inside a parenthetical sentence after `அவனுக்கு ஒரு`; continuation must be established only from scan 28.
 
 ## Structural caution
 
-The internal character-name headings listed above remain part of the same continuous work. Scans 15 and 19 directly verify `உத்தண்டி` and `கண்ணம்மா` respectively as internal headings. Additional internal transitions must continue to be source-established.
+The internal character-name headings listed above remain part of the same continuous work. Scans 15 and 19 directly verify `உத்தண்டி` and `கண்ணம்மா` respectively as internal headings. Scan 27 begins a parenthetical internal narrative recollection involving தலையாரி உத்தண்டி; this remains part of the same work and is not a new heading or bibliographic unit.
 
 ## Next activity
 
-Directly transcribe and visually verify scans **23–27** (printed pages **22–26**) as the next narrative batch. Resolve scan 22's final `மட்` only from the visible opening of scan 23. Apply the historical-glyph pre-correction check to doubtful clusters, update page map/audit/work README/HANDOVER after the batch, then stop. Do not begin English translation.
+Directly transcribe and visually verify scans **28–32** (printed pages **27–31**) as the next narrative batch. Resolve scan 27's final parenthetical continuation only from the visible opening of scan 28. Scan 32 / printed 31 contains internal heading `குமுதா`; retain it as internal textual structure unless page-level continuity proves otherwise. Apply the historical-glyph pre-correction check to doubtful clusters, update page map/audit/work README/HANDOVER after the batch, then stop. Do not begin English translation.
