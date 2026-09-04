@@ -4,7 +4,7 @@ printed_page: 24
 work: "periya-idathup-pen"
 section: "பெரிய இடத்துப் பெண்"
 page_type: "body"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
 transcription_method: "direct visual comparison with enlarged source scan"
@@ -20,7 +20,7 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 - visible printed page number: **24**.
 - opening `ரக்` completes scan 24's final `‘ஒய்யா`, establishing `‘ஒய்யாரக்` across the physical page boundary.
-- source-specific `மட்டுந்தானு?`, `வட்டமிடும்`, and `யம லோகத்திற்கு` were retained.
+- source-specific forms remain subject to the reopened historical-glyph audit.
 - final `கவலை` continues onto scan 26.
 
 <!-- மூல ஸ்கேன் பக்கம்: 25; அச்சுப் பக்கம்: 24 -->
