@@ -4,7 +4,7 @@ printed_page: 18
 work: "periya-idathup-pen"
 section: "பெரிய இடத்துப் பெண்"
 page_type: "body"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
 transcription_method: "direct visual comparison with enlarged source scan"
@@ -24,8 +24,8 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 - visible printed page number: **18**.
 - opening `றேன்.` completes scan 18's final `என்`, preserving the physical page-boundary split.
-- `கண்ணம்மா` is a directly source-verified internal textual heading within the same continuous work.
-- source-specific forms including `தேம்பினள்`, `செக்கச் செவேலென்றோன்றின`, `குளறிற்று`, `கபோதியிடம்`, `கைகாரி`, and `விபசாரி` were retained.
+- `கண்ணம்மா` is visibly printed as an internal textual heading within the same continuous work.
+- source-specific forms including `தேம்பினள்`, `செக்கச் செவேலென்றோன்றின`, `குளறிற்று`, `கபோதியிடம்`, `கைகாரி`, and `விபசாரி` were retained pending the historical-glyph audit.
 - final `என்` continues on scan 20 and is not completed from context here.
 
 <!-- மூல ஸ்கேன் பக்கம்: 19; அச்சுப் பக்கம்: 18 -->
