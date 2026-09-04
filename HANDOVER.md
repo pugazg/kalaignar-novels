@@ -68,18 +68,18 @@ Do not global-search-and-replace from these examples. Every occurrence must be c
 
 ### Scan 1 — completed one-page pass
 
-The cover was re-read from an enlarged source render. Printed text checked individually:
+The cover was re-read from an enlarged source render against the complete 13-form reference. No printed occurrence required legacy-form conversion and no other glyph-identity correction was found. Copy-specific handwriting remains outside canonical printed text. Scan 1 remains `needs-review`.
 
-- `பெரிய இடத்துப் பெண்`
-- `மு. கருணாநிதி`
-- `திராவிடன் பதிப்பகம்`
-- `வேலூர் (வ. ஆ.)`
+### Scan 2 — completed one-page pass
 
-The scan-1 result has now been interpreted against the **complete 13-form reference set**, not only the original `றா` example. No printed occurrence on scan 1 requires legacy-form conversion and no other glyph-identity correction was found in the printed cover text. Copy-specific handwriting remains outside canonical printed text.
+The page was re-read at enlarged resolution. No original 1953 source-work printed narrative or publication text is present. The clearly printed material is the later copy-specific gift label:
 
-**Important:** scan 1 remains `needs-review`. A completed historical-glyph pass is not a `verified` page state.
+`பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின்`  
+`அன்பளிப்பு`
 
-Progress: **1 / 27 existing canonical scans re-audited; scans 2–27 pending**.
+Those printed label units were checked against all 13 known forms. None requires historical-form conversion. The handwritten Tamil remains copy-specific and was not guessed or promoted into canonical source-work text. Scan 2 remains `needs-review`.
+
+Progress: **2 / 27 existing canonical scans re-audited; scans 3–27 pending**.
 
 ## Current stage
 
@@ -90,7 +90,7 @@ Progress: **1 / 27 existing canonical scans re-audited; scans 2–27 pending**.
 - `needs-review`: **27 — scans 1–27**;
 - `partial`: **0**;
 - `not-started`: **22 — scans 28–49**;
-- historical-glyph retrospective audit: **OPEN — 1 / 27 reviewed**;
+- historical-glyph retrospective audit: **OPEN — 2 / 27 reviewed**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil sections: **BLOCKED / not started**;
 - English translation: **BLOCKED / not started**;
@@ -152,17 +152,16 @@ Never infer the missing scan-8 number from sequence.
 
 ## Exact next activity
 
-**Audit scan 2 only. Do not move beyond one page in that activity.**
+**Audit scan 3 only. Do not move beyond one page in that activity.**
 
 Use the same one-page method:
 
 1. inspect the entire scan at enlarged/high resolution;
-2. distinguish later gift-label / handwriting from source printed text;
-3. inspect every printed glyph cluster against the complete 13-form historical reference;
-4. make only pixel-supported glyph-identity corrections;
-5. record the result in the page record and `HISTORICAL_GLYPH_AUDIT.md`;
-6. keep scan 2 `needs-review` regardless of whether corrections are found;
-7. stop after scan 2 and report the result.
+2. inspect every printed glyph cluster against the complete 13-form historical reference;
+3. make only pixel-supported glyph-identity corrections;
+4. record the result in the page record and `HISTORICAL_GLYPH_AUDIT.md`;
+5. keep scan 3 `needs-review` regardless of whether corrections are found;
+6. stop after scan 3 and report the result.
 
 Do not continue to scans 28–32, assembled Tamil, or English translation.
 
