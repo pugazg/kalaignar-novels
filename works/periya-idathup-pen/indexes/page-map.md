@@ -23,11 +23,11 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 | 15 | 14 | body; internal heading `உத்தண்டி` | verified | `pages/0015-periya-idathup-pen-08.md` |
 | 16 | 15 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0016-periya-idathup-pen-09.md` |
 | 17 | 16 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0017-periya-idathup-pen-10.md` |
-| 18 | 17 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0018-periya-idathup-pen-11.md` |
-| 19 | 18 | body; internal heading `கண்ணம்மா` | not-started | `pages/0019-periya-idathup-pen-12.md` |
-| 20 | 19 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0020-periya-idathup-pen-13.md` |
-| 21 | 20 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0021-periya-idathup-pen-14.md` |
-| 22 | 21 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0022-periya-idathup-pen-15.md` |
+| 18 | 17 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0018-periya-idathup-pen-11.md` |
+| 19 | 18 | body; internal heading `கண்ணம்மா` | verified | `pages/0019-periya-idathup-pen-12.md` |
+| 20 | 19 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0020-periya-idathup-pen-13.md` |
+| 21 | 20 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0021-periya-idathup-pen-14.md` |
+| 22 | 21 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0022-periya-idathup-pen-15.md` |
 | 23 | 22 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0023-periya-idathup-pen-16.md` |
 | 24 | 23 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0024-periya-idathup-pen-17.md` |
 | 25 | 24 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0025-periya-idathup-pen-18.md` |
@@ -60,11 +60,11 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 
 - Source scan pages: **49**
 - Page-manifest rows: **49 / 49**
-- Page records created: **17 / 49**
-- `verified`: **17**
+- Page records created: **22 / 49**
+- `verified`: **22**
 - `needs-review`: **0**
 - `partial`: **0**
-- `not-started`: **32**
+- `not-started`: **27**
 - Source PDF stored in repository: **No**
 
 ## Boundary notes established so far
@@ -72,15 +72,20 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 - scan 8 is visibly unnumbered and remains `printed_page: null`;
 - scan 9 ends mid-sentence with `அவளை இவருக்குக் கட்டினர்கள்`; scan 10 continues `அதைப் பற்றி உலகம் பேசாமலில்லை.`;
 - scan 11 ends mid-word with `கிடப்ப`; scan 12 continues `தாகக்`, establishing `கிடப்பதாகக்` across the physical page boundary;
-- scan 14 ends `நினைக்`; scan 15 begins `காதே!`, establishing `நினைக்காதே!` across the physical boundary;
+- scan 14 ends `நினைக்`; scan 15 begins `காதே!`, establishing `நினைக்காதே!`;
 - scan 15 ends `தெரிந்`; scan 16 begins `தது.`, establishing `தெரிந்தது.`;
 - scan 16 ends `நம்`; scan 17 begins `வீட்டு`, establishing `நம் வீட்டு`;
-- scan 17 ends `கண்டது`; its continuation must be established only from scan 18.
+- scan 17 ends `கண்டது`; scan 18 begins `போலத்தானே!`, establishing `கண்டது போலத்தானே!`;
+- scan 18 ends `என்`; scan 19 begins `றேன்.`, preserving that physical split;
+- scan 19 ends `என்`; scan 20 begins `னிலே`, establishing `என்னிலே`;
+- scan 20 ends `நானும்`; scan 21 begins `நன்றுகத்தான்`, preserving the sentence continuation;
+- scan 21 ends `காலக்ஷேபங்`; scan 22 begins `கூட`, preserving the physical continuation;
+- scan 22 ends `மட்`; its continuation must be established only from scan 23.
 
 ## Structural caution
 
-The internal character-name headings listed above were observed during representative source inspection. They do not create separate work identities. Scan 15 directly verifies `உத்தண்டி` as an internal heading. Additional internal transitions must continue to be source-established.
+The internal character-name headings listed above remain part of the same continuous work. Scans 15 and 19 directly verify `உத்தண்டி` and `கண்ணம்மா` respectively as internal headings. Additional internal transitions must continue to be source-established.
 
 ## Next activity
 
-Directly transcribe and visually verify scans **18–22** (printed pages **17–21**), applying the historical-glyph pre-correction check to every doubtful cluster. Scan 19 / printed 18 contains the internal heading `கண்ணம்மா`; retain it as an internal heading unless continuity evidence establishes otherwise. Resolve scan 17's final `கண்டது` only from the visible opening of scan 18, then update this manifest and the audit.
+Directly transcribe and visually verify scans **23–27** (printed pages **22–26**) as the next narrative batch. Resolve scan 22's final `மட்` only from the visible opening of scan 23. Apply the historical-glyph pre-correction check to doubtful clusters, update page map/audit/work README/HANDOVER after the batch, then stop. Do not begin English translation.
