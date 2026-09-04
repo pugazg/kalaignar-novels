@@ -6,7 +6,7 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 Source pages: **49**  
 Source PDF committed to repository: **No**
 
-This audit is **open**. Source registration, front matter through scan 7, and the first narrative batch through scan 12 are complete, but page-level Tamil transcription has not yet passed the completion gate.
+This audit is **open**. Source registration, front matter through scan 7, and narrative transcription through scan 17 are complete, but the Tamil source layer has not yet passed the whole-work completion gate.
 
 ## Current gate
 
@@ -14,12 +14,14 @@ This audit is **open**. Source registration, front matter through scan 7, and th
 |---|---|
 | Source identity inspected from scan | complete |
 | Scan pages mapped | **49 / 49** |
-| Canonical page records | **12 / 49** |
-| Directly verified pages | **12 / 49 — scans 1–12** |
+| Canonical page records | **17 / 49** |
+| Directly verified pages | **17 / 49 — scans 1–17** |
 | `needs-review` page records | **0** |
-| Full body visual audit | in progress through scan 12 |
-| Page-boundary continuity audit | in progress; checked through scan 12 |
-| Internal structural audit | preliminary only |
+| `partial` page records | **0** |
+| Remaining `not-started` | **32** |
+| Full body visual audit | in progress through scan 17 |
+| Page-boundary continuity audit | in progress; checked through scan 17 |
+| Internal structural audit | preliminary; `உத்தண்டி` directly verified as an internal heading |
 | Old/historical glyph pre-correction gate | required for every difficult reading |
 | Source PDF excluded from repository | yes |
 | Tamil source layer | **NOT PASSED** |
@@ -40,7 +42,27 @@ Direct enlarged visual comparison established:
 - scan 11 / printed 10: body verified; final lexical word is physically split at the boundary;
 - scan 12 / printed 11: body verified and `கிடப்ப` + `தாகக்` continuity confirmed as `கிடப்பதாகக்`.
 
-No reading in scans 8–12 remains `needs-review`. Direct source review retained visible historical/odd forms rather than replacing them from context, including examples such as `இறங்கினள்`, `கொட்டினள்`, `பட்டஞ்`, `சினேகத் தல்ல?`, `கசப்பாகத்தா னிருந்தது`, `நக்கினன்`, `தேடினன்`, `கூறினள்`, `கருதினள்`, `வெதறலைத்`, `வீரனத்திக்கு`, and `கடத்தினள்`.
+No reading in scans 8–12 remains `needs-review`.
+
+## Second narrative batch — scans 13–17
+
+Direct enlarged visual comparison established:
+
+- scan 13 / printed 12 — verified narrative body;
+- scan 14 / printed 13 — verified narrative body;
+- scan 15 / printed 14 — verified narrative body with internal heading `உத்தண்டி`;
+- scan 16 / printed 15 — verified narrative body;
+- scan 17 / printed 16 — verified narrative body through the visible final word `கண்டது`.
+
+Physical page-boundary continuity was checked directly:
+
+- scan 14 `நினைக்` + scan 15 `காதே!` → `நினைக்காதே!`;
+- scan 15 `தெரிந்` + scan 16 `தது.` → `தெரிந்தது.`;
+- scan 16 `நம்` + scan 17 `வீட்டு` → `நம் வீட்டு`.
+
+Scan 17 ends with visible `கண்டது`; its continuation is deliberately unresolved until scan 18 is inspected. This is a pending **boundary continuation**, not a `needs-review` reading in the verified scan-17 text itself.
+
+The `உத்தண்டி` heading is directly source-verified as internal textual structure within the same continuous work; it is not a separate bibliographic work.
 
 ## Preliminary structural finding
 
@@ -58,4 +80,4 @@ English translation and assembled Tamil `sections/` remain blocked until every s
 
 ## Next activity
 
-Directly transcribe and visually verify scans **13–17** (printed pages **12–16**). Scan 15 / printed 14 contains the internal heading `உத்தண்டி`; retain it as internal structure unless page-level continuity proves otherwise. Update the page map after that batch; do not start English translation.
+Directly transcribe and visually verify scans **18–22** (printed pages **17–21**). Resolve scan 17's final `கண்டது` only from the visible opening of scan 18. Scan 19 / printed page 18 contains the internal heading `கண்ணம்மா`; retain it as internal structure unless page-level continuity proves otherwise. Update page map/audit/work README after that batch; do not start English translation.
