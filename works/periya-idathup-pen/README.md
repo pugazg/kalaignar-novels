@@ -12,11 +12,11 @@ The attached scan is the controlling source.
 
 - source registration: **complete**;
 - source page manifest: **49 / 49 scans mapped**;
-- canonical Tamil page records: **22 / 49**;
-- directly `verified`: **22 / 49 — scans 1–22**;
+- canonical Tamil page records: **27 / 49**;
+- directly `verified`: **27 / 49 — scans 1–27**;
 - `needs-review`: **0** at this checkpoint;
 - `partial`: **0**;
-- remaining `not-started`: **27**;
+- remaining `not-started`: **22**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil `sections/`: **not started**;
 - English translation: **not started / gate closed**;
@@ -34,39 +34,27 @@ Cover/source identity, copy-specific annotation page, publication details, `த�
 
 ### Scans 8–12 — narrative opening
 
-- [`pages/0008-periya-idathup-pen-01.md`](pages/0008-periya-idathup-pen-01.md) — title / narrative opening; visibly unnumbered;
-- [`pages/0009-periya-idathup-pen-02.md`](pages/0009-periya-idathup-pen-02.md) — printed page 8;
-- [`pages/0010-periya-idathup-pen-03.md`](pages/0010-periya-idathup-pen-03.md) — printed page 9;
-- [`pages/0011-periya-idathup-pen-04.md`](pages/0011-periya-idathup-pen-04.md) — printed page 10;
-- [`pages/0012-periya-idathup-pen-05.md`](pages/0012-periya-idathup-pen-05.md) — printed page 11.
+[`pages/0008-periya-idathup-pen-01.md`](pages/0008-periya-idathup-pen-01.md) through [`pages/0012-periya-idathup-pen-05.md`](pages/0012-periya-idathup-pen-05.md) are verified; scan 8 is visibly unnumbered and scans 9–12 are printed pages 8–11.
 
 ### Scans 13–17 — narrative / `உத்தண்டி`
 
-- [`pages/0013-periya-idathup-pen-06.md`](pages/0013-periya-idathup-pen-06.md) — printed page 12;
-- [`pages/0014-periya-idathup-pen-07.md`](pages/0014-periya-idathup-pen-07.md) — printed page 13;
-- [`pages/0015-periya-idathup-pen-08.md`](pages/0015-periya-idathup-pen-08.md) — printed page 14; internal heading `உத்தண்டி`;
-- [`pages/0016-periya-idathup-pen-09.md`](pages/0016-periya-idathup-pen-09.md) — printed page 15;
-- [`pages/0017-periya-idathup-pen-10.md`](pages/0017-periya-idathup-pen-10.md) — printed page 16.
-
-Physical continuities include `நினைக்` + `காதே!`, `தெரிந்` + `தது.`, and `நம்` + `வீட்டு`.
+[`pages/0013-periya-idathup-pen-06.md`](pages/0013-periya-idathup-pen-06.md) through [`pages/0017-periya-idathup-pen-10.md`](pages/0017-periya-idathup-pen-10.md) are verified. Scan 15 / printed 14 directly verifies internal heading `உத்தண்டி`.
 
 ### Scans 18–22 — narrative / `கண்ணம்மா`
 
-- [`pages/0018-periya-idathup-pen-11.md`](pages/0018-periya-idathup-pen-11.md) — printed page 17;
-- [`pages/0019-periya-idathup-pen-12.md`](pages/0019-periya-idathup-pen-12.md) — printed page 18; internal heading `கண்ணம்மா`;
-- [`pages/0020-periya-idathup-pen-13.md`](pages/0020-periya-idathup-pen-13.md) — printed page 19;
-- [`pages/0021-periya-idathup-pen-14.md`](pages/0021-periya-idathup-pen-14.md) — printed page 20;
-- [`pages/0022-periya-idathup-pen-15.md`](pages/0022-periya-idathup-pen-15.md) — printed page 21.
+[`pages/0018-periya-idathup-pen-11.md`](pages/0018-periya-idathup-pen-11.md) through [`pages/0022-periya-idathup-pen-15.md`](pages/0022-periya-idathup-pen-15.md) are verified. Scan 19 / printed 18 directly verifies internal heading `கண்ணம்மா`.
 
-Direct enlarged/native-pixel review established these physical continuities:
+### Scans 23–27 — narrative continuation
 
-- scan 17 `கண்டது` + scan 18 `போலத்தானே!`;
-- scan 18 `என்` + scan 19 `றேன்.`;
-- scan 19 `என்` + scan 20 `னிலே`;
-- scan 20 `நானும்` + scan 21 `நன்றுகத்தான்`;
-- scan 21 `காலக்ஷேபங்` + scan 22 `கூட`.
+- [`pages/0023-periya-idathup-pen-16.md`](pages/0023-periya-idathup-pen-16.md) — printed page 22;
+- [`pages/0024-periya-idathup-pen-17.md`](pages/0024-periya-idathup-pen-17.md) — printed page 23;
+- [`pages/0025-periya-idathup-pen-18.md`](pages/0025-periya-idathup-pen-18.md) — printed page 24;
+- [`pages/0026-periya-idathup-pen-19.md`](pages/0026-periya-idathup-pen-19.md) — printed page 25;
+- [`pages/0027-periya-idathup-pen-20.md`](pages/0027-periya-idathup-pen-20.md) — printed page 26.
 
-Scan 22 ends visibly with `மட்`; its continuation is intentionally deferred to scan 23. Source-specific period forms were retained rather than normalized, including `படிச்சுப்பிட்டு`, `மீத்துப்`, `குருட்டுப் புத்திக்காரனேன்`, `கபோதியிடம்`, `கைகாரி`, `விபசாரி`, `நன்றுகத்தான்`, `இடுக்கி`, `குரூபப்பற்றி`, `கண்ராவியான`, `பச்சிளங்`, and `வைதீக உலகந்தானே`.
+Direct visual review established the physical continuities `மட்` + `டும்` → `மட்டும்`, `வீரன் ஏழைதான்` + `ஆனால்`, `‘ஒய்யா` + `ரக்` → `‘ஒய்யாரக்`, `கவலை` + `யில்லை.` → `கவலையில்லை.`, and `நிலையி` + `லேயே` → `நிலையிலேயே`.
+
+Scan 27 ends inside a parenthetical recollection after `அவனுக்கு ஒரு`; its continuation is intentionally deferred to scan 28. Source-specific period forms were preserved rather than normalized, including `பெற்ற பேய்கள்`, `வீராப்பில்`, `எண்ணப்பட்டாளம்`, `நன்றுக`, `விழுவேன் என்றுனா?`, `மட்டுந்தானு?`, `மனசுதான்`, `பட்சமாயிருந்த`, `மெளனமே`, `ஸ்பரிசத்தால்`, and `வீணன்`.
 
 ## Source-supported work identity
 
@@ -89,4 +77,4 @@ The copy shows age staining, specks, occasional edge/binding wear, faint bleed-t
 
 ## Next activity
 
-Directly transcribe and visually verify **scans 23–27** (printed pages **22–26**) as the next narrative batch. Resolve scan 22's final `மட்` only from scan 23. Update page map/audit/work README/HANDOVER after the batch. Do not begin English translation.
+Directly transcribe and visually verify **scans 28–32** (printed pages **27–31**) as the next narrative batch. Resolve scan 27's final parenthetical continuation only from scan 28. Scan 32 / printed page 31 contains the internal heading `குமுதா`; retain it as internal textual structure unless page-level continuity proves otherwise. Update page map/audit/work README/HANDOVER after the batch. Do not begin English translation.
