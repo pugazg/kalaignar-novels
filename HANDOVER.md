@@ -40,11 +40,11 @@ The attached source scan remains controlling. Do not commit the PDF.
 
 - source registration: **complete**;
 - page map: **49 / 49 scans represented**;
-- canonical page records: **17 / 49**;
-- directly verified: **17 / 49 — scans 1–17**;
+- canonical page records: **22 / 49**;
+- directly verified: **22 / 49 — scans 1–22**;
 - `needs-review`: **0** at this checkpoint;
 - `partial`: **0**;
-- remaining `not-started`: **32**;
+- remaining `not-started`: **27**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil sections: **not started**;
 - English translation: **not started; gate closed**;
@@ -68,30 +68,42 @@ The attached source scan remains controlling. Do not commit the PDF.
 ### Scans 8–12
 
 - scan 8 — verified title / narrative opening; visibly unnumbered;
-- scan 9 / printed 8 — verified narrative continuation;
-- scan 10 / printed 9 — verified narrative continuation;
-- scan 11 / printed 10 — verified narrative continuation;
-- scan 12 / printed 11 — verified narrative continuation.
-
-Page-boundary continuations were checked directly between scans 9→10 and 11→12. No lexical reading in scans 8–12 remains `needs-review`.
+- scans 9–12 / printed 8–11 — verified narrative continuation;
+- scan 11 `கிடப்ப` + scan 12 `தாகக்` → `கிடப்பதாகக்`.
 
 ### Scans 13–17
 
-- scan 13 / printed 12 — verified narrative continuation;
-- scan 14 / printed 13 — verified narrative continuation;
+- scans 13–14 / printed 12–13 — verified narrative continuation;
 - scan 15 / printed 14 — verified narrative continuation with internal heading `உத்தண்டி`;
-- scan 16 / printed 15 — verified narrative continuation;
-- scan 17 / printed 16 — verified narrative continuation through visible final `கண்டது`.
+- scans 16–17 / printed 15–16 — verified narrative continuation.
 
-Direct source review established these physical continuities:
+Direct source review established:
 
 - scan 14 `நினைக்` + scan 15 `காதே!` → `நினைக்காதே!`;
 - scan 15 `தெரிந்` + scan 16 `தது.` → `தெரிந்தது.`;
 - scan 16 `நம்` + scan 17 `வீட்டு` → `நம் வீட்டு`.
 
-Scan 17 ends with `கண்டது`; its continuation must be established only from the visible opening of scan 18. It has not been completed from context.
+### Scans 18–22
 
-Canonical records now run continuously through `works/periya-idathup-pen/pages/0017-periya-idathup-pen-10.md`.
+- scan 18 / printed 17 — verified narrative continuation;
+- scan 19 / printed 18 — verified narrative continuation with internal heading `கண்ணம்மா`;
+- scan 20 / printed 19 — verified narrative continuation;
+- scan 21 / printed 20 — verified narrative continuation;
+- scan 22 / printed 21 — verified narrative continuation through visible final `மட்`.
+
+Direct source review established:
+
+- scan 17 `கண்டது` + scan 18 `போலத்தானே!` → `கண்டது போலத்தானே!`;
+- scan 18 `என்` + scan 19 `றேன்.` — physical split preserved;
+- scan 19 `என்` + scan 20 `னிலே` → `என்னிலே`;
+- scan 20 `நானும்` + scan 21 `நன்றுகத்தான்` — sentence continuation preserved;
+- scan 21 `காலக்ஷேபங்` + scan 22 `கூட` — physical continuation preserved.
+
+Source-specific forms retained in this batch include `படிச்சுப்பிட்டு`, `மீத்துப்`, `குருட்டுப் புத்திக்காரனேன்`, `செக்கச் செவேலென்றோன்றின`, `கபோதியிடம்`, `கைகாரி`, `விபசாரி`, `நன்றுகத்தான்`, `இடுக்கி`, `வயிற்றெரிச்சலே`, `காண்டாமிருகமாகத்`, `குரூபப்பற்றி`, `வறட்டுச் சப்தம்`, `கோகிலத் தொனி`, `கண்ராவியான`, `பச்சிளங்`, `பரிகாசஞ்`, `விரகதாபங்கொண்ட`, and `வைதீக உலகந்தானே`.
+
+Scan 22 ends with visible `மட்`; its continuation must be established only from the visible opening of scan 23. It has not been completed from context.
+
+Canonical records now run continuously through `works/periya-idathup-pen/pages/0022-periya-idathup-pen-15.md`.
 
 ## Printed-page behaviour
 
@@ -104,7 +116,7 @@ Never infer the missing scan-8 number from sequence.
 
 ## Structural note
 
-Representative review supports **one continuous work, `பெரிய இடத்துப் பெண்`**. Character-name headings observed inside the narrative (`உத்தண்டி`, `கண்ணம்மா`, `குமுதா`, `வீரன்`, `உலகநாதர்`) are internal headings at this stage, not separate works. Scan 15 directly verifies `உத்தண்டி` as internal textual structure. Final section boundaries must be source-established during full page/continuity audit.
+Representative review supports **one continuous work, `பெரிய இடத்துப் பெண்`**. Character-name headings observed inside the narrative (`உத்தண்டி`, `கண்ணம்மா`, `குமுதா`, `வீரன்`, `உலகநாதர்`) are internal headings at this stage, not separate works. Scans 15 and 19 directly verify `உத்தண்டி` and `கண்ணம்மா` as internal textual structure. Final section boundaries must be source-established during full page/continuity audit.
 
 ## Source-fidelity / old-glyph rule
 
@@ -112,13 +124,12 @@ The scan controls exact Tamil. Do not silently modernize or regularize spelling,
 
 ## Exact next activity
 
-Directly transcribe and visually verify **scans 18–22** (printed pages **17–21**) as the next narrative batch.
+Directly transcribe and visually verify **scans 23–27** (printed pages **22–26**) as the next narrative batch.
 
-1. Resolve scan 17's final `கண்டது` only from the visible opening of scan 18.
-2. Scan 19 / printed page 18 contains internal heading `கண்ணம்மா`; retain it as internal textual structure unless page-level continuity proves otherwise.
-3. Preserve exact source paragraph/dialogue/punctuation structure and apply the old-glyph pre-correction gate to every doubtful cluster.
-4. Update page map/audit/work README/HANDOVER after the batch, then stop.
-5. Do not begin English translation.
+1. Resolve scan 22's final `மட்` only from the visible opening of scan 23.
+2. Preserve exact source paragraph/dialogue/punctuation structure and apply the old-glyph pre-correction gate to every doubtful cluster.
+3. Update page map/audit/work README/HANDOVER after the batch, then stop.
+4. Do not begin assembled Tamil or English translation.
 
 ---
 
