@@ -12,10 +12,10 @@ The attached scan is the controlling source.
 
 - source registration: **complete**;
 - source page manifest: **49 / 49 scans mapped**;
-- canonical Tamil page records: **7 / 49**;
-- directly `verified`: **7 / 49 — scans 1–7**;
+- canonical Tamil page records: **12 / 49**;
+- directly `verified`: **12 / 49 — scans 1–12**;
 - `needs-review`: **0** at this checkpoint;
-- remaining `not-started`: **42**;
+- remaining `not-started`: **37**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil `sections/`: **not started**;
 - English translation: **not started / gate closed**;
@@ -42,6 +42,16 @@ Audit state: [`audit.md`](audit.md).
 
 Direct enlarged review retained source-specific forms rather than normalizing them, including `வழக்கந்தான்`, `அற்பிய`, `விலாவொடியப்`, `ஏற்பட்டச்`, `அவர்கட்கு`, `வாலிபக் கிழங்களோடு`, `புரையோடிக்கொண்டிருக்கும்`, `நம்முன். காட்சியளிக்கத்தான்`, `மாசு மருவற்ற`, `விற்பனையாவதிலிருந்து`, `வெள்ளிடை மலை!`, and `திரைக் கதையாக`.
 
+### Scans 8–12 — narrative opening
+
+- [`pages/0008-periya-idathup-pen-01.md`](pages/0008-periya-idathup-pen-01.md) — title / narrative opening; visibly unnumbered;
+- [`pages/0009-periya-idathup-pen-02.md`](pages/0009-periya-idathup-pen-02.md) — printed page 8;
+- [`pages/0010-periya-idathup-pen-03.md`](pages/0010-periya-idathup-pen-03.md) — printed page 9;
+- [`pages/0011-periya-idathup-pen-04.md`](pages/0011-periya-idathup-pen-04.md) — printed page 10;
+- [`pages/0012-periya-idathup-pen-05.md`](pages/0012-periya-idathup-pen-05.md) — printed page 11.
+
+The narrative batch was compared directly with enlarged scans. Page-boundary continuations were preserved between scans 9→10 and 11→12; scan 8 remains `printed_page: null` because no number is visible.
+
 ## Source-supported work identity
 
 The scan identifies the work as **`பெரிய இடத்துப் பெண்`** by **மு. கருணாநிதி**. Representative review of the front matter, narrative opening, later body pages and ending supports **one continuous story/work**.
@@ -63,4 +73,4 @@ The copy shows age staining, specks, occasional edge/binding wear, faint bleed-t
 
 ## Next activity
 
-Begin the narrative in a separate source-verified batch: directly transcribe and visually verify **scans 8–12**. Preserve the unnumbered scan 8 as `printed_page: null`, then use the visibly printed numbers on scans 9–12. Update page map/audit status after the batch. Do not begin English translation.
+Directly transcribe and visually verify **scans 13–17** (printed pages **12–16**) as the next narrative batch. Scan 15 / printed page 14 contains the internal heading `உத்தண்டி`; retain it as an internal textual heading unless page-level continuity proves otherwise. Update page map/audit status after the batch. Do not begin English translation.
