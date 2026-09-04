@@ -18,11 +18,11 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 | 10 | 9 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0010-periya-idathup-pen-03.md` |
 | 11 | 10 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0011-periya-idathup-pen-04.md` |
 | 12 | 11 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0012-periya-idathup-pen-05.md` |
-| 13 | 12 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0013-periya-idathup-pen-06.md` |
-| 14 | 13 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0014-periya-idathup-pen-07.md` |
-| 15 | 14 | body; internal heading `உத்தண்டி` | not-started | `pages/0015-periya-idathup-pen-08.md` |
-| 16 | 15 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0016-periya-idathup-pen-09.md` |
-| 17 | 16 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0017-periya-idathup-pen-10.md` |
+| 13 | 12 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0013-periya-idathup-pen-06.md` |
+| 14 | 13 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0014-periya-idathup-pen-07.md` |
+| 15 | 14 | body; internal heading `உத்தண்டி` | verified | `pages/0015-periya-idathup-pen-08.md` |
+| 16 | 15 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0016-periya-idathup-pen-09.md` |
+| 17 | 16 | body — `பெரிய இடத்துப் பெண்` | verified | `pages/0017-periya-idathup-pen-10.md` |
 | 18 | 17 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0018-periya-idathup-pen-11.md` |
 | 19 | 18 | body; internal heading `கண்ணம்மா` | not-started | `pages/0019-periya-idathup-pen-12.md` |
 | 20 | 19 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0020-periya-idathup-pen-13.md` |
@@ -60,23 +60,27 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 
 - Source scan pages: **49**
 - Page-manifest rows: **49 / 49**
-- Page records created: **12 / 49**
-- `verified`: **12**
+- Page records created: **17 / 49**
+- `verified`: **17**
 - `needs-review`: **0**
 - `partial`: **0**
-- `not-started`: **37**
+- `not-started`: **32**
 - Source PDF stored in repository: **No**
 
 ## Boundary notes established so far
 
 - scan 8 is visibly unnumbered and remains `printed_page: null`;
 - scan 9 ends mid-sentence with `அவளை இவருக்குக் கட்டினர்கள்`; scan 10 continues `அதைப் பற்றி உலகம் பேசாமலில்லை.`;
-- scan 11 ends mid-word with `கிடப்ப`; scan 12 continues `தாகக்`, establishing `கிடப்பதாகக்` across the physical page boundary.
+- scan 11 ends mid-word with `கிடப்ப`; scan 12 continues `தாகக்`, establishing `கிடப்பதாகக்` across the physical page boundary;
+- scan 14 ends `நினைக்`; scan 15 begins `காதே!`, establishing `நினைக்காதே!` across the physical boundary;
+- scan 15 ends `தெரிந்`; scan 16 begins `தது.`, establishing `தெரிந்தது.`;
+- scan 16 ends `நம்`; scan 17 begins `வீட்டு`, establishing `நம் வீட்டு`;
+- scan 17 ends `கண்டது`; its continuation must be established only from scan 18.
 
 ## Structural caution
 
-The internal character-name headings listed above were observed during representative source inspection. They do not create separate work identities. Additional internal transitions may emerge during full transcription; the map should be refined only from direct source evidence.
+The internal character-name headings listed above were observed during representative source inspection. They do not create separate work identities. Scan 15 directly verifies `உத்தண்டி` as an internal heading. Additional internal transitions must continue to be source-established.
 
 ## Next activity
 
-Directly transcribe and visually verify scans **13–17** (printed pages **12–16**), applying the historical-glyph pre-correction check to every doubtful cluster. Scan 15 / printed 14 contains the internal heading `உத்தண்டி`; retain it as an internal heading unless continuity evidence establishes otherwise. Then update the page map/audit/work README and stop.
+Directly transcribe and visually verify scans **18–22** (printed pages **17–21**), applying the historical-glyph pre-correction check to every doubtful cluster. Scan 19 / printed 18 contains the internal heading `கண்ணம்மா`; retain it as an internal heading unless continuity evidence establishes otherwise. Resolve scan 17's final `கண்டது` only from the visible opening of scan 18, then update this manifest and the audit.
