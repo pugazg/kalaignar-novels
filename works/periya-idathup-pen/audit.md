@@ -19,7 +19,7 @@ This audit is **open**. Canonical transcription exists through scan 27, but the 
 | `needs-review` page records | **27 — scans 1–27** |
 | `partial` page records | **0** |
 | Remaining `not-started` | **22 — scans 28–49** |
-| Historical-glyph retrospective audit | **OPEN — 2 / 27 reviewed; scans 1–2** |
+| Historical-glyph retrospective audit | **OPEN — 3 / 27 reviewed; scans 1–3** |
 | Full body visual audit | reopened because glyph identity was misread |
 | Page-boundary continuity audit | provisional through scan 27 |
 | Internal structural audit | preliminary only |
@@ -68,7 +68,19 @@ Scan 2 was re-read in full at enlarged resolution. No original 1953 source-work 
 
 The label was checked against the full 13-form reference. None of its printed glyph clusters requires historical-form conversion. The handwriting remains copy-specific and was not guessed or promoted into canonical source-work text. No glyph-identity correction was required on scan 2. Scan 2 remains `needs-review`.
 
-Retrospective progress is therefore **2 / 27 scans reviewed; scans 3–27 pending**.
+### Scan 3 — publication details
+
+Scan 3 was re-read in full at enlarged/high resolution. Five printed clusters positively use historical forms from the supplied reference set:
+
+- `ஜூலை` → historical `லை` form;
+- `விலை` → historical `லை` form;
+- `விற்பனை` → historical `னை` form;
+- `சைனா` → historical `னா` form;
+- `சென்னை` → historical `னை` form.
+
+The canonical page record already encoded all five with their correct modern Unicode identities, so no lexical replacement was necessary. This is nevertheless a positive source finding: scan 3 demonstrates use of historical `லை`, `னை`, and `னா` forms in this edition. No additional legacy-glyph mismatch was identified on the page during this pass. Scan 3 remains `needs-review`.
+
+Retrospective progress is therefore **3 / 27 scans reviewed; scans 4–27 pending**.
 
 ## Existing transcription coverage
 
@@ -119,4 +131,4 @@ English translation and assembled Tamil `sections/` remain blocked. They must no
 
 Do **not** continue to scans 28–32.
 
-Audit **scan 3 only** next using the same one-page method. Inspect the entire page at enlarged resolution, examine every printed glyph cluster against the complete 13-form historical reference, record any pixel-supported corrections with scan provenance, and leave the page `needs-review`.
+Audit **scan 4 only** next using the same one-page method. Inspect the entire page at enlarged/high resolution, examine every printed glyph cluster against the complete 13-form historical reference, record any pixel-supported corrections with scan provenance, and leave the page `needs-review`.
