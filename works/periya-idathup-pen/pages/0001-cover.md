@@ -28,9 +28,11 @@ Printed lexical units checked individually:
 - `திராவிடன் பதிப்பகம்`
 - `வேலூர் (வ. ஆ.)`
 
-No printed `றா` cluster occurs on this scan, so the specific old-`றா` / apparent-modern-`று` ambiguity is not present here. No historical-glyph correction is required on scan 1 from this pass.
+The audit uses the complete user-supplied Periyar reform reference set, not only the initial `றா` example. The known historical forms checked are those corresponding to modern Unicode `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-This scan remains `needs-review` by project policy. Completion of this one-page glyph pass does **not** change the page to `verified`.
+No printed occurrence on this cover requires conversion from one of those historical forms, and no other glyph-identity mismatch was identified in the printed cover text during this one-page pass.
+
+This scan remains `needs-review` by project policy. Completion of this one-page historical-glyph pass does **not** change the page to `verified`.
 
 ## Non-text / copy-specific marks
 
