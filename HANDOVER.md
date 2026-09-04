@@ -43,7 +43,7 @@ The attached source scan remains controlling. Do not commit the PDF.
 
 The user identified a systematic transcription failure in the 1953 typeface: a historical/pre-reform Tamil glyph corresponding to modern Unicode **`றா`** can resemble modern **`று`**. Earlier page work copied that apparent modern shape and therefore generated false “odd source forms.” This invalidates the previous 27/27 verification claim.
 
-All existing canonical records for scans **1–27** have been reopened as `needs-review`. Future page records must also remain `needs-review` while the historical-glyph audit is open unless the user explicitly changes this policy.
+All existing canonical records for scans **1–27** are `needs-review`. Future page records must also remain `needs-review` while the historical-glyph audit is open unless the user explicitly changes this policy.
 
 This is a glyph-identity problem, not permission to modernize spelling. Determine the historical character identity and encode that identity in modern Unicode; otherwise preserve source wording, spelling, punctuation, grammar and page structure exactly.
 
@@ -58,6 +58,23 @@ This is a glyph-identity problem, not permission to modernize spelling. Determin
 
 Do not global-search-and-replace from these examples. Every occurrence must be checked against its own source pixels. Full tracking is in `works/periya-idathup-pen/HISTORICAL_GLYPH_AUDIT.md`.
 
+## Retrospective historical-glyph audit progress
+
+### Scan 1 — completed one-page pass
+
+The cover was re-read from an enlarged source render. Printed text checked individually:
+
+- `பெரிய இடத்துப் பெண்`
+- `மு. கருணாநிதி`
+- `திராவிடன் பதிப்பகம்`
+- `வேலூர் (வ. ஆ.)`
+
+No printed `றா` cluster occurs on scan 1, so the specific old-`றா` / apparent-modern-`று` ambiguity is absent on this page. No other printed glyph-identity correction was required in this pass. Copy-specific handwriting remains outside canonical printed text.
+
+**Important:** scan 1 remains `needs-review`. A completed historical-glyph pass is not a `verified` page state.
+
+Progress: **1 / 27 existing canonical scans re-audited; scans 2–27 pending**.
+
 ## Current stage
 
 - source registration: **complete**;
@@ -67,7 +84,7 @@ Do not global-search-and-replace from these examples. Every occurrence must be c
 - `needs-review`: **27 — scans 1–27**;
 - `partial`: **0**;
 - `not-started`: **22 — scans 28–49**;
-- historical-glyph retrospective audit: **OPEN**;
+- historical-glyph retrospective audit: **OPEN — 1 / 27 reviewed**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil sections: **BLOCKED / not started**;
 - English translation: **BLOCKED / not started**;
@@ -75,15 +92,7 @@ Do not global-search-and-replace from these examples. Every occurrence must be c
 
 ## Existing transcription coverage
 
-Canonical records exist continuously through `works/periya-idathup-pen/pages/0027-periya-idathup-pen-20.md`, but none carries verified status now.
-
-### Scans 1–7
-
-Front matter exists for the cover, copy-specific annotation page, publication details, `திரை விலக`, first `பதிப்புரை`, and eighth-edition `பதிப்புரை`. All are `needs-review` pending the historical-glyph pass.
-
-### Scans 8–27
-
-Narrative records exist continuously from scan 8 through scan 27. All are `needs-review`.
+Canonical records exist continuously through `works/periya-idathup-pen/pages/0027-periya-idathup-pen-20.md`, but none carries verified status.
 
 Structural observations retained provisionally:
 
@@ -106,7 +115,7 @@ The following joins remain useful source evidence but are provisional until the 
 - scan 20 `நானும்` + scan 21 `நன்றாகத்தான்`;
 - scan 22 `மட்` + scan 23 `டும்` → `மட்டும்`;
 - scan 24 `‘ஒய்யா` + scan 25 `ரக்` → `‘ஒய்யாரக்`;
-- scan 25 `கவலை` + scan 26 `யில்லை.`` → `கவலையில்லை.`;
+- scan 25 `கவலை` + scan 26 `யில்லை.` → `கவலையில்லை.`;
 - scan 26 `நிலையி` + scan 27 `லேயே` → `நிலையிலேயே`;
 - scan 27 ends inside a parenthetical sentence after `அவனுக்கு ஒரு`; continuation awaits scan 28.
 
@@ -136,11 +145,19 @@ Never infer the missing scan-8 number from sequence.
 
 ## Exact next activity
 
-**Do not continue with scans 28–32 yet.**
+**Audit scan 2 only. Do not move beyond one page in that activity.**
 
-Perform a systematic retrospective historical-glyph audit of existing canonical scans **1–27**, in source order. Begin with the user-confirmed pre-reform `றா` failure pattern, but inspect all suspicious legacy glyph clusters. Record each correction with scan and printed-page provenance in `HISTORICAL_GLYPH_AUDIT.md` and the affected page record. Keep every page `needs-review`.
+Use the same one-page method:
 
-Only after that retrospective audit is complete should new-page transcription resume at scan 28. Do not begin assembled Tamil or English translation.
+1. inspect the entire scan at enlarged/high resolution;
+2. distinguish later gift-label / handwriting from source printed text;
+3. inspect every printed glyph cluster for historical typeforms, including but not limited to old `றா`;
+4. make only pixel-supported glyph-identity corrections;
+5. record the result in the page record and `HISTORICAL_GLYPH_AUDIT.md`;
+6. keep scan 2 `needs-review` regardless of whether corrections are found;
+7. stop after scan 2 and report the result.
+
+Do not continue to scans 28–32, assembled Tamil, or English translation.
 
 ---
 
@@ -155,8 +172,6 @@ The previous `புதையல்` project remains unchanged and complete at i
 - assembled Tamil through scan 448: complete;
 - whole-work English: **VERIFIED**;
 - repository package: **RELEASE-READY WITH TWO PART-005 PHYSICAL-LOSS QUALIFICATIONS**.
-
-The 2026-09-03 direct user review closed scans 215–219 and synchronized the proven Part-005 corrections through canonical Tamil and English. Stronger source evidence is still required to close scans 223–224.
 
 Final records remain:
 
