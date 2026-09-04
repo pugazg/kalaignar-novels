@@ -40,26 +40,41 @@ The attached source scan remains controlling. Do not commit the PDF.
 
 - source registration: **complete**;
 - page map: **49 / 49 scans represented**;
-- canonical page records: **3 / 49**;
-- directly verified: **3 / 49 — scans 1–3**;
+- canonical page records: **7 / 49**;
+- directly verified: **7 / 49 — scans 1–7**;
 - `needs-review`: **0** at this checkpoint;
-- remaining `not-started`: **46**;
+- remaining `not-started`: **42**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil sections: **not started**;
 - English translation: **not started; gate closed**;
 - source PDF committed: **No**.
 
-## Completed first batch
+## Completed batches
+
+### Scans 1–3
 
 - scan 1 — verified cover title/author/publisher/place; handwriting recorded separately;
 - scan 2 — verified copy-specific page classification; illegible handwriting not guessed; later gift-label recorded separately;
 - scan 3 — verified edition/date, rights, price and sales-rights details.
 
-Canonical records:
+### Scans 4–7
+
+- scan 4 — verified `திரை விலக` author note;
+- scan 5 — verified first `பதிப்புரை`;
+- scan 6 — verified `எட்டாம் பதிப்பு / பதிப்புரை` opening;
+- scan 7 / printed 6 — verified continuation and publisher sign-off.
+
+Canonical records now run continuously through:
 
 - `works/periya-idathup-pen/pages/0001-cover.md`
 - `works/periya-idathup-pen/pages/0002-copy-annotation.md`
 - `works/periya-idathup-pen/pages/0003-publication-details.md`
+- `works/periya-idathup-pen/pages/0004-thirai-vilaga.md`
+- `works/periya-idathup-pen/pages/0005-pathippurai.md`
+- `works/periya-idathup-pen/pages/0006-eighth-edition-pathippurai-01.md`
+- `works/periya-idathup-pen/pages/0007-eighth-edition-pathippurai-02.md`
+
+Important source forms retained in scans 4–7 include `வழக்கந்தான்`, `அற்பிய`, `விலாவொடியப்`, `ஏற்பட்டச்`, `அவர்கட்கு`, `வாலிபக் கிழங்களோடு`, `புரையோடிக்கொண்டிருக்கும்`, `நம்முன். காட்சியளிக்கத்தான்`, `மாசு மருவற்ற`, `விற்பனையாவதிலிருந்து`, `வெள்ளிடை மலை!`, and `திரைக் கதையாக`.
 
 ## Printed-page behaviour
 
@@ -80,13 +95,12 @@ The scan controls exact Tamil. Do not silently modernize or regularize spelling,
 
 ## Exact next activity
 
-Directly transcribe and visually verify **scans 4–7**:
+Directly transcribe and visually verify **scans 8–12** as the first narrative batch:
 
-1. scan 4 — `திரை விலக` author note;
-2. scan 5 — `பதிப்புரை`;
-3. scans 6–7 — `எட்டாம் பதிப்பு / பதிப்புரை` and continuation.
+1. scan 8 — narrative title/opening; no visible printed page number, so `printed_page: null`;
+2. scans 9–12 — continuation, printed pages **8–11**.
 
-Use small source-verified records, preserve paragraph/punctuation structure, separate copy-specific marks, update the page map/audit/work README, then stop. Begin scan 8 narrative only in the following batch.
+Preserve exact source paragraph/dialogue/punctuation structure, apply the old-glyph pre-correction gate to doubtful clusters, update page map/audit/work README, then stop. Do not begin English translation.
 
 ---
 

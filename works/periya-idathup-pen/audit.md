@@ -6,7 +6,7 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 Source pages: **49**  
 Source PDF committed to repository: **No**
 
-This audit is **open**. Source registration and the first small front-matter batch are complete, but page-level Tamil transcription has not yet passed the completion gate.
+This audit is **open**. Source registration and the first two front-matter batches are complete, but page-level Tamil transcription has not yet passed the completion gate.
 
 ## Current gate
 
@@ -14,8 +14,8 @@ This audit is **open**. Source registration and the first small front-matter bat
 |---|---|
 | Source identity inspected from scan | complete |
 | Scan pages mapped | **49 / 49** |
-| Canonical page records | **3 / 49** |
-| Directly verified pages | **3 / 49 — scans 1–3** |
+| Canonical page records | **7 / 49** |
+| Directly verified pages | **7 / 49 — scans 1–7** |
 | `needs-review` page records | **0** |
 | Full body visual audit | not started |
 | Page-boundary continuity audit | not started |
@@ -34,11 +34,27 @@ Direct enlarged visual comparison established:
 - scan 2: no source narrative/publication text identified; copy-specific handwriting not guessed; later label recorded separately as `பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின் / அன்பளிப்பு`;
 - scan 3: `எட்டாம் பதிப்பு: ஜூலை 1953`, `உரிமை உடையது`, `விலை 0—8—0`, and `விற்பனை உரிமை: எம். எஸ். ராஜுலு கம்பெனி / 286, சைனா பஜார் / சென்னை-1`.
 
-All three records are `verified` because they were compared directly with the source scan. OCR was not used as textual authority.
+## Second verified batch — scans 4–7
+
+Direct enlarged source comparison completed all four front-matter records:
+
+- scan 4: `திரை விலக` by `மு. கருணாநிதி`;
+- scan 5: first `பதிப்புரை`, ending `திராவிடன் பதிப்பகத்தார்.`;
+- scan 6: `எட்டாம் பதிப்பு / பதிப்புரை` begins;
+- scan 7 / printed 6: eighth-edition note continues and ends with `என்று உங்கள், / திராவிடன் பதிப்பகத்தார்.`
+
+Source-specific spellings, grammar and punctuation were retained. Important examples include:
+
+- scan 4: `வழக்கந்தான்`;
+- scan 5: `அற்பிய`, `விலாவொடியப்`, `ஏற்பட்டச்`, `அவர்கட்கு`;
+- scan 6: `வாலிபக் கிழங்களோடு`, `புரையோடிக்கொண்டிருக்கும்`, `நம்முன். காட்சியளிக்கத்தான்`;
+- scan 7: `மாசு மருவற்ற`, `விற்பனையாவதிலிருந்து`, `வெள்ளிடை மலை!`, `திரைக் கதையாக`, `போகிறாள், என்பதை`.
+
+No lexical form was modernized from expectation. All four records are `verified`.
 
 ## Preliminary structural finding
 
-Representative source inspection supports one continuous work, `பெரிய இடத்துப் பெண்`, with front matter on scans 1–7 and narrative on scans 8–49. Character-name headings observed within the story are internal headings unless complete source continuity proves otherwise.
+Representative source inspection supports one continuous work, `பெரிய இடத்துப் பெண்`, with front matter on scans 1–7 and narrative beginning on scan 8. Character-name headings observed within the story are internal headings unless complete source continuity proves otherwise.
 
 This finding remains subject to page-by-page verification and must not be used to skip structural evidence during transcription.
 
@@ -52,4 +68,4 @@ English translation and assembled Tamil `sections/` remain blocked until every s
 
 ## Next activity
 
-Directly transcribe and visually verify scans **4–7**. These comprise the author note `திரை விலக`, the initial `பதிப்புரை`, and the eighth-edition `பதிப்புரை` across scans 6–7. Update the page map after that batch; do not start English translation.
+Directly transcribe and visually verify **scans 8–12**, the first narrative batch. Scan 8 has no visible printed page number and must remain `printed_page: null`; scans 9–12 carry printed pages 8–11. Update page map and status documents after that batch; do not start English translation.

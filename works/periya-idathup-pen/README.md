@@ -12,9 +12,10 @@ The attached scan is the controlling source.
 
 - source registration: **complete**;
 - source page manifest: **49 / 49 scans mapped**;
-- canonical Tamil page records: **3 / 49**;
-- directly `verified`: **3 / 49 — scans 1–3**;
+- canonical Tamil page records: **7 / 49**;
+- directly `verified`: **7 / 49 — scans 1–7**;
 - `needs-review`: **0** at this checkpoint;
+- remaining `not-started`: **42**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil `sections/`: **not started**;
 - English translation: **not started / gate closed**;
@@ -24,11 +25,22 @@ Full source identity: [`metadata/source.md`](metadata/source.md).
 Page manifest: [`indexes/page-map.md`](indexes/page-map.md).  
 Audit state: [`audit.md`](audit.md).
 
-## Verified first batch
+## Verified batches
+
+### Scans 1–3
 
 - [`pages/0001-cover.md`](pages/0001-cover.md) — cover title, author, publisher/place; handwritten marks separated from print;
 - [`pages/0002-copy-annotation.md`](pages/0002-copy-annotation.md) — copy-specific handwriting and later gift-label classified without guessing illegible handwriting;
 - [`pages/0003-publication-details.md`](pages/0003-publication-details.md) — eighth-edition/date, rights, price and sales-rights details.
+
+### Scans 4–7
+
+- [`pages/0004-thirai-vilaga.md`](pages/0004-thirai-vilaga.md) — `திரை விலக` author note;
+- [`pages/0005-pathippurai.md`](pages/0005-pathippurai.md) — first `பதிப்புரை`;
+- [`pages/0006-eighth-edition-pathippurai-01.md`](pages/0006-eighth-edition-pathippurai-01.md) — `எட்டாம் பதிப்பு / பதிப்புரை`;
+- [`pages/0007-eighth-edition-pathippurai-02.md`](pages/0007-eighth-edition-pathippurai-02.md) — printed page 6, continuation and publisher sign-off.
+
+Direct enlarged review retained source-specific forms rather than normalizing them, including `வழக்கந்தான்`, `அற்பிய`, `விலாவொடியப்`, `ஏற்பட்டச்`, `அவர்கட்கு`, `வாலிபக் கிழங்களோடு`, `புரையோடிக்கொண்டிருக்கும்`, `நம்முன். காட்சியளிக்கத்தான்`, `மாசு மருவற்ற`, `விற்பனையாவதிலிருந்து`, `வெள்ளிடை மலை!`, and `திரைக் கதையாக`.
 
 ## Source-supported work identity
 
@@ -51,4 +63,4 @@ The copy shows age staining, specks, occasional edge/binding wear, faint bleed-t
 
 ## Next activity
 
-Directly transcribe and visually verify scans **4–7** (`திரை விலக`, `பதிப்புரை`, and the eighth-edition note) as the next small source batch. Apply the old/historical-glyph pre-correction gate wherever a character cluster is faint. Then update page map/audit status. Do not begin English translation.
+Begin the narrative in a separate source-verified batch: directly transcribe and visually verify **scans 8–12**. Preserve the unnumbered scan 8 as `printed_page: null`, then use the visibly printed numbers on scans 9–12. Update page map/audit status after the batch. Do not begin English translation.

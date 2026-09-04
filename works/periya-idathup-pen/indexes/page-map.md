@@ -9,10 +9,10 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 | 1 | — | cover — `பெரிய இடத்துப் பெண்` | verified | `pages/0001-cover.md` |
 | 2 | — | copy-specific handwriting / later gift label; no source body text identified | verified | `pages/0002-copy-annotation.md` |
 | 3 | — | edition / price / sales-rights details | verified | `pages/0003-publication-details.md` |
-| 4 | — | author note — `திரை விலக` | not-started | `pages/0004-thirai-vilaga.md` |
-| 5 | — | publisher note — `பதிப்புரை` | not-started | `pages/0005-pathippurai.md` |
-| 6 | — | eighth-edition note — `எட்டாம் பதிப்பு / பதிப்புரை` | not-started | `pages/0006-eighth-edition-pathippurai-01.md` |
-| 7 | 6 | eighth-edition note continuation | not-started | `pages/0007-eighth-edition-pathippurai-02.md` |
+| 4 | — | author note — `திரை விலக` | verified | `pages/0004-thirai-vilaga.md` |
+| 5 | — | publisher note — `பதிப்புரை` | verified | `pages/0005-pathippurai.md` |
+| 6 | — | eighth-edition note — `எட்டாம் பதிப்பு / பதிப்புரை` | verified | `pages/0006-eighth-edition-pathippurai-01.md` |
+| 7 | 6 | eighth-edition note continuation | verified | `pages/0007-eighth-edition-pathippurai-02.md` |
 | 8 | — | title / narrative opening | not-started | `pages/0008-periya-idathup-pen-01.md` |
 | 9 | 8 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0009-periya-idathup-pen-02.md` |
 | 10 | 9 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0010-periya-idathup-pen-03.md` |
@@ -60,17 +60,21 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 
 - Source scan pages: **49**
 - Page-manifest rows: **49 / 49**
-- Page records created: **3 / 49**
-- `verified`: **3**
+- Page records created: **7 / 49**
+- `verified`: **7**
 - `needs-review`: **0**
 - `partial`: **0**
-- `not-started`: **46**
+- `not-started`: **42**
 - Source PDF stored in repository: **No**
 
 ## Structural caution
 
 The internal character-name headings listed above were observed during representative source inspection. They do not create separate work identities. Additional internal transitions may emerge during full transcription; the map should be refined only from direct source evidence.
 
+## Verified front matter
+
+Scans **1–7** are now directly visually verified. Scans 4–7 preserve source-specific forms and punctuation without modernization; scan 7 visibly carries printed page **6**.
+
 ## Next activity
 
-Directly transcribe and visually verify scans **4–7** (`திரை விலக`, `பதிப்புரை`, and the eighth-edition note), applying the historical-glyph pre-correction check to every doubtful cluster. Then begin the narrative at scan 8 in a separate small batch.
+Directly transcribe and visually verify narrative scans **8–12**. Keep scan 8 unnumbered (`printed_page: null`) because no printed number is visible; scans 9–12 map to printed pages 8–11. Apply the historical-glyph pre-correction check to every doubtful cluster, then update this manifest and the audit.
