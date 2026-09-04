@@ -12,10 +12,11 @@ The attached scan is the controlling source.
 
 - source registration: **complete**;
 - source page manifest: **49 / 49 scans mapped**;
-- canonical Tamil page records: **17 / 49**;
-- directly `verified`: **17 / 49 — scans 1–17**;
+- canonical Tamil page records: **22 / 49**;
+- directly `verified`: **22 / 49 — scans 1–22**;
 - `needs-review`: **0** at this checkpoint;
-- remaining `not-started`: **32**;
+- `partial`: **0**;
+- remaining `not-started`: **27**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil `sections/`: **not started**;
 - English translation: **not started / gate closed**;
@@ -27,20 +28,9 @@ Audit state: [`audit.md`](audit.md).
 
 ## Verified batches
 
-### Scans 1–3
+### Scans 1–7 — front matter
 
-- [`pages/0001-cover.md`](pages/0001-cover.md) — cover title, author, publisher/place; handwritten marks separated from print;
-- [`pages/0002-copy-annotation.md`](pages/0002-copy-annotation.md) — copy-specific handwriting and later gift-label classified without guessing illegible handwriting;
-- [`pages/0003-publication-details.md`](pages/0003-publication-details.md) — eighth-edition/date, rights, price and sales-rights details.
-
-### Scans 4–7
-
-- [`pages/0004-thirai-vilaga.md`](pages/0004-thirai-vilaga.md) — `திரை விலக` author note;
-- [`pages/0005-pathippurai.md`](pages/0005-pathippurai.md) — first `பதிப்புரை`;
-- [`pages/0006-eighth-edition-pathippurai-01.md`](pages/0006-eighth-edition-pathippurai-01.md) — `எட்டாம் பதிப்பு / பதிப்புரை`;
-- [`pages/0007-eighth-edition-pathippurai-02.md`](pages/0007-eighth-edition-pathippurai-02.md) — printed page 6, continuation and publisher sign-off.
-
-Direct enlarged review retained source-specific forms rather than normalizing them, including `வழக்கந்தான்`, `அற்பிய`, `விலாவொடியப்`, `ஏற்பட்டச்`, `அவர்கட்கு`, `வாலிபக் கிழங்களோடு`, `புரையோடிக்கொண்டிருக்கும்`, `நம்முன். காட்சியளிக்கத்தான்`, `மாசு மருவற்ற`, `விற்பனையாவதிலிருந்து`, `வெள்ளிடை மலை!`, and `திரைக் கதையாக`.
+Cover/source identity, copy-specific annotation page, publication details, `திரை விலக`, first `பதிப்புரை`, and eighth-edition `பதிப்புரை` through printed page 6 are directly verified.
 
 ### Scans 8–12 — narrative opening
 
@@ -50,8 +40,6 @@ Direct enlarged review retained source-specific forms rather than normalizing th
 - [`pages/0011-periya-idathup-pen-04.md`](pages/0011-periya-idathup-pen-04.md) — printed page 10;
 - [`pages/0012-periya-idathup-pen-05.md`](pages/0012-periya-idathup-pen-05.md) — printed page 11.
 
-The narrative batch was compared directly with enlarged scans. Page-boundary continuations were preserved between scans 9→10 and 11→12; scan 8 remains `printed_page: null` because no number is visible.
-
 ### Scans 13–17 — narrative / `உத்தண்டி`
 
 - [`pages/0013-periya-idathup-pen-06.md`](pages/0013-periya-idathup-pen-06.md) — printed page 12;
@@ -60,13 +48,31 @@ The narrative batch was compared directly with enlarged scans. Page-boundary con
 - [`pages/0016-periya-idathup-pen-09.md`](pages/0016-periya-idathup-pen-09.md) — printed page 15;
 - [`pages/0017-periya-idathup-pen-10.md`](pages/0017-periya-idathup-pen-10.md) — printed page 16.
 
-Direct visual review established physical continuities `நினைக்` + `காதே!` (scans 14→15), `தெரிந்` + `தது.` (15→16), and `நம்` + `வீட்டு` (16→17). Scan 17 ends with `கண்டது`, which continues onto the next scan and has not been completed from context. The internal `உத்தண்டி` heading remains part of the same continuous work.
+Physical continuities include `நினைக்` + `காதே!`, `தெரிந்` + `தது.`, and `நம்` + `வீட்டு`.
+
+### Scans 18–22 — narrative / `கண்ணம்மா`
+
+- [`pages/0018-periya-idathup-pen-11.md`](pages/0018-periya-idathup-pen-11.md) — printed page 17;
+- [`pages/0019-periya-idathup-pen-12.md`](pages/0019-periya-idathup-pen-12.md) — printed page 18; internal heading `கண்ணம்மா`;
+- [`pages/0020-periya-idathup-pen-13.md`](pages/0020-periya-idathup-pen-13.md) — printed page 19;
+- [`pages/0021-periya-idathup-pen-14.md`](pages/0021-periya-idathup-pen-14.md) — printed page 20;
+- [`pages/0022-periya-idathup-pen-15.md`](pages/0022-periya-idathup-pen-15.md) — printed page 21.
+
+Direct enlarged/native-pixel review established these physical continuities:
+
+- scan 17 `கண்டது` + scan 18 `போலத்தானே!`;
+- scan 18 `என்` + scan 19 `றேன்.`;
+- scan 19 `என்` + scan 20 `னிலே`;
+- scan 20 `நானும்` + scan 21 `நன்றுகத்தான்`;
+- scan 21 `காலக்ஷேபங்` + scan 22 `கூட`.
+
+Scan 22 ends visibly with `மட்`; its continuation is intentionally deferred to scan 23. Source-specific period forms were retained rather than normalized, including `படிச்சுப்பிட்டு`, `மீத்துப்`, `குருட்டுப் புத்திக்காரனேன்`, `கபோதியிடம்`, `கைகாரி`, `விபசாரி`, `நன்றுகத்தான்`, `இடுக்கி`, `குரூபப்பற்றி`, `கண்ராவியான`, `பச்சிளங்`, and `வைதீக உலகந்தானே`.
 
 ## Source-supported work identity
 
-The scan identifies the work as **`பெரிய இடத்துப் பெண்`** by **மு. கருணாநிதி**. Representative review of the front matter, narrative opening, later body pages and ending supports **one continuous story/work**.
+The scan identifies the work as **`பெரிய இடத்துப் பெண்`** by **மு. கருணாநிதி**. Source review supports **one continuous story/work**.
 
-Character-name headings visible within the narrative — including `உத்தண்டி`, `கண்ணம்மா`, `குமுதா`, `வீரன்`, and `உலகநாதர்` — are being retained provisionally as **internal textual headings**, not promoted to separate bibliographic works. Page-by-page transcription and continuity review remain authoritative for the final section map.
+Character-name headings visible within the narrative — including `உத்தண்டி`, `கண்ணம்மா`, `குமுதா`, `வீரன்`, and `உலகநாதர்` — are retained as **internal textual headings**, not separate bibliographic works, unless later source continuity proves otherwise.
 
 ## Printed-page behaviour
 
@@ -83,4 +89,4 @@ The copy shows age staining, specks, occasional edge/binding wear, faint bleed-t
 
 ## Next activity
 
-Directly transcribe and visually verify **scans 18–22** (printed pages **17–21**) as the next narrative batch. Scan 19 / printed page 18 contains the internal heading `கண்ணம்மா`; retain it as an internal textual heading unless page-level continuity proves otherwise. Resolve scan 17's final `கண்டது` only from the visible opening of scan 18. Update page map/audit status after the batch. Do not begin English translation.
+Directly transcribe and visually verify **scans 23–27** (printed pages **22–26**) as the next narrative batch. Resolve scan 22's final `மட்` only from scan 23. Update page map/audit/work README/HANDOVER after the batch. Do not begin English translation.
