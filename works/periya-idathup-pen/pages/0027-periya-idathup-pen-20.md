@@ -4,7 +4,7 @@ printed_page: 26
 work: "periya-idathup-pen"
 section: "பெரிய இடத்துப் பெண்"
 page_type: "body"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
 transcription_method: "direct visual comparison with enlarged source scan"
@@ -20,7 +20,7 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 - visible printed page number: **26**.
 - opening `லேயே` completes scan 26's final `நிலையி`, establishing `நிலையிலேயே` across the physical page boundary.
-- source forms `மெளனமே`, `சச்சிதானந்த`, `ஸ்பரிசத்தால்`, and `வீணன்` were retained.
-- the final parenthetical sentence begins an internal narrative recollection and continues onto scan 28; it is not a separate work or heading.
+- source-specific forms remain subject to the reopened historical-glyph audit.
+- the final parenthetical sentence begins an internal narrative recollection and continues onto scan 28.
 
 <!-- மூல ஸ்கேன் பக்கம்: 27; அச்சுப் பக்கம்: 26 -->
