@@ -48,6 +48,8 @@ These are **glyph-identification corrections**, not spelling modernization.
 | Scan | Printed page | Earlier reading | Source-supported reading | Kind |
 |---:|:---:|---|---|---|
 | 4 | — | `சமூகத்தின்` | `சமுதாயத்தின்` | lexical/source-text correction, not 13-form conversion |
+| 5 | — | `அற்பிய` | `அரும்பிய` | lexical/source-text correction, not 13-form conversion |
+| 5 | — | `சமூகமும்` | `சமுதாயம்` | lexical/source-text correction, not 13-form conversion |
 
 ## Retrospective pass progress
 
@@ -57,10 +59,11 @@ These are **glyph-identification corrections**, not spelling modernization.
 | 2 | — | complete for this one-page pass | none | `needs-review` |
 | 3 | — | complete for this one-page pass | none; five historical-form occurrences already encoded correctly | `needs-review` |
 | 4 | — | complete for this one-page pass | `சமூகத்தின்` → `சமுதாயத்தின்`; six historical-form occurrences confirmed | `needs-review` |
+| 5 | — | complete for this one-page pass | `அற்பிய` → `அரும்பிய`; `சமூகமும்` → `சமுதாயம்`; four historical-form occurrences confirmed | `needs-review` |
 
 ### Scan 1 finding
 
-The cover was re-read in full from an enlarged source render against the complete 13-form reference. No printed occurrence requires historical-form conversion and no glyph-identity correction is required. Copy-specific handwriting remains outside canonical printed text.
+The cover was re-read in full from an enlarged source render against the complete 13-form reference. No printed occurrence requires historical-form conversion and no glyph-identity correction is required. Copy-specific handwriting was not converted into canonical printed text.
 
 ### Scan 2 finding
 
@@ -93,9 +96,29 @@ Historical-form occurrences positively identified:
 
 All six were already represented with the correct modern Unicode identities.
 
-The pass did, however, expose one earlier non-glyph transcription error: the source reads `சமுதாயத்தின்`, not `சமூகத்தின்`. The canonical scan-4 record has been corrected accordingly. No other text change was made in this pass.
+The pass exposed one earlier non-glyph transcription error: the source reads `சமுதாயத்தின்`, not `சமூகத்தின்`. The canonical scan-4 record was corrected accordingly.
 
-**Progress:** **4 / 27** existing canonical scans reviewed in the retrospective pass; scans **5–27** remain pending. All reviewed pages remain `needs-review` and are not called verified.
+### Scan 5 finding
+
+The full `பதிப்புரை` page was re-read at enlarged/high resolution.
+
+Historical-form occurrences positively identified:
+
+- `அதினைச்` — historical `னை`;
+- `அதினை` — historical `னை`;
+- `கருத்துக்களைத்` — historical `ளை`;
+- `மூலை` — historical `லை`.
+
+All four were already represented with the correct modern Unicode identities.
+
+The pass exposed two independent earlier source-text errors:
+
+- `அற்பிய` → **`அரும்பிய`**;
+- `சமூகமும்` → **`சமுதாயம்`**.
+
+Both corrections are supported directly by the enlarged scan and are not 13-form normalizations. Source-specific `விலாவொடியப்`, `ஏற்பட்டச்`, and `அவர்கட்கு` were rechecked and retained unchanged.
+
+**Progress:** **5 / 27** existing canonical scans reviewed in the retrospective pass; scans **6–27** remain pending. All reviewed pages remain `needs-review` and are not called verified.
 
 ## Audit rule
 
@@ -121,7 +144,7 @@ Particular attention must be given to all 13 user-supplied historical forms, and
 ## Gate consequence
 
 - canonical records created: **27 / 49**;
-- retrospective historical-glyph pass: **4 / 27 reviewed — scans 1–4**;
+- retrospective historical-glyph pass: **5 / 27 reviewed — scans 1–5**;
 - page status for scans 1–27: **27 `needs-review`**;
 - `verified`: **0**;
 - `partial`: **0**;
@@ -134,4 +157,4 @@ Particular attention must be given to all 13 user-supplied historical forms, and
 
 Do **not** continue to scans 28–32 yet.
 
-Audit **scan 5 only** next, using the same one-page method: inspect the entire scan at enlarged/high resolution, check every printed glyph cluster against the complete 13-form historical reference, make only pixel-supported corrections, record findings with provenance, keep the page `needs-review`, then stop.
+Audit **scan 6 only** next, using the same one-page method: inspect the entire scan at enlarged/high resolution, check every printed glyph cluster against the complete 13-form historical reference, make only pixel-supported corrections, record findings with provenance, keep the page `needs-review`, then stop.
