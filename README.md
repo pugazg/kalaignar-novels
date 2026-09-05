@@ -11,7 +11,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 ## Project continuation documents
 
 - [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md)
-- [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) — reusable old-Tamil-glyph → modern-Unicode transcription procedure for future works
+- [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md)
 - [`HANDOVER.md`](HANDOVER.md)
 - [`NEXT_NOVEL_CHAT_PROMPT.md`](NEXT_NOVEL_CHAT_PROMPT.md)
 
@@ -19,7 +19,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; historical-glyph coverage complete; verification freeze ACTIVE; 0 verified / 49 `needs-review`; dedicated full Tamil source audit IN PROGRESS — scans 1–20 / 49 reviewed with no new canonical corrections; next scans 21–30; assembled Tamil and English blocked** |
+| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; historical-glyph coverage complete; verification freeze ACTIVE; 0 verified / 49 `needs-review`; dedicated full Tamil source audit IN PROGRESS — scans 1–30 / 49 reviewed with no new canonical corrections; next scans 31–40; assembled Tamil and English blocked** |
 
 ## Completed works
 
