@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
-transcription_method: "direct visual comparison with enlarged source scan"
+transcription_method: "direct visual comparison with enlarged source scan; historical-glyph re-audit performed for this scan"
 ---
 
 டும் சக்தி இருந்திருக்குமானால். இந்த உலகமே அழிந்து போயிருக்கும். என் தாயகத்திலிருந்து சீதனங்கள் வந்து குவிந்தன. கட்டில்களென்ன, கம்மல்களென்ன, ஏதேதோ வழங்கினார்கள். வழக்கத்தைவிடாமல் செய்து விட்டார்கள்; அவ்வளவுதான்! அவர்கள் அள்ளி அள்ளிக் கொடுத்த அவ்வளவும் எனக்குத் தேவையில்லை. என் கருத்துக் கேற்றவரைத் தேடித்தராத அந்தப் ‘பெற்ற பேய்கள்’ எனக்கு எதை வாரிக்கொடுத்தால்தான் என்ன? ஓர் ஆண்மகனை மட்டும் எனக்குத் துணையாகச் செய்திருந்தால் போதுமே! சீதனமா வேண்டும், எனக்குச் சீதனம்!
@@ -16,11 +16,18 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 உலகநாதரிடம் இளமை மட்டுமிருந்தது, வீரனிடம் அந்த இளமைக்கேற்ற அழகு இருந்தது! உலகநாதர் உருட்டுச் சட்டிப் பொம்மை; வீரன் வடிவழகன்! உலகநாதர் உன்மத்தர்; வீரன் விவேகி! உலகநாதரிடம் செல்வமிருந்தது; சிங்காரமில்லை! வீரன் ஏழைதான்
 
+## Historical-glyph re-audit — scan 23
+
+The complete page was re-read at enlarged/high resolution against the full 13-form reference. Historical clusters including `லை` in `தேவையில்லை` / `சிங்காரமில்லை`, `னை` in `ஆண்மகனை`, and `ணை` in `துணையாக` were checked directly and were already encoded with the intended modern Unicode identities.
+
+No historical-glyph correction or independent source-text correction was required. Source-specific `எண்ணப்பட்டாளம்`, punctuation, and paragraph structure were retained from the scan.
+
+This page remains `needs-review`; it is not verified.
+
 ## Scan observations
 
 - visible printed page number: **22**.
 - opening `டும்` completes scan 22's final `மட்`, establishing `மட்டும்` across the physical page boundary.
-- source-specific forms remain subject to the reopened historical-glyph audit.
 - final `வீரன் ஏழைதான்` continues onto scan 24.
 
 <!-- மூல ஸ்கேன் பக்கம்: 23; அச்சுப் பக்கம்: 22 -->
