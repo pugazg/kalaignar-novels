@@ -88,17 +88,18 @@ Translation control files:
 3. `translations/en/sections/03-kannamma-first.md` — scan 19 first `கண்ணம்மா` through scan 31 — **REVIEWED / PASS**; planned Batches **3A + 3B** both complete; review `BATCH_03_REVIEW.md`.
 4. `translations/en/sections/04-kumudha.md` — scans 32–37 — **REVIEWED / PASS**; review `BATCH_04_REVIEW.md`.
 5. `translations/en/sections/05-veeran.md` — scans 38–44 — **REVIEWED / PASS**; review `BATCH_05_REVIEW.md`.
+6. `translations/en/sections/06-ulaganathar.md` — scan 45 — **REVIEWED / PASS**; review `BATCH_06_REVIEW.md`.
 
-### Controls established through Sections 03–05
+### Batch 6 — Ulaganathar controls
 
-- first Kannamma account preserves her own self-justifying religious/moral rhetoric, marriage grievance, Veeran relationship, pregnancy termination and scheme against Kumudha; it is not harmonised with later testimony;
-- Kumudha's signed statement preserves her letter form, coercion/violation account, Ramayana/Nalayini comparisons, diamond ingestion and final social plea;
-- Veeran's section preserves his **limited and contradictory interpretation** of Kumudha. His accusations are not corrected inside his own prose using Kumudha's statement or the later Kannamma conclusion;
-- harsher `வேசி / தாசி` invective is distinguished from `விபசாரி` in the glossary and remains attributed to the speaker;
-- source-specific difficult forms remain documented rather than silently normalised;
-- source-supported physical joins through scan 44 remain traceable in HTML comments;
-- canonical historical corrections, including scan 33 `கண்ணாடி` and scan 43 `இளிச்சவாயனாக`, are reflected in the English from final Tamil readings;
-- Tamil canonical corrections triggered by English Sections 01–05: **none**.
+- complete source-printed scan-45 account translated and source-checked;
+- Ulaganathar's wounded pride, accusation and family-honour rhetoric remain his viewpoint;
+- his `குமுதாவைக் காதலித்தது` is translated as his own self-description and is not harmonised with Kumudha's preceding testimony or Kannamma's later conclusion;
+- `என் உப்பைத்தின்றவன்` is preserved as “the man who ate my salt”;
+- unusual source punctuation `எல்லாம் அந்தத் தடவை செய்த வேலை. கண்ணம்மா.` is not silently repaired;
+- `பசப்பு வார்த்தை`, `கள்ளி`, and `பத்திர காளி` are translated cautiously and documented in the Batch 6 review;
+- no scan-46 Kannamma text was pulled into Section 06;
+- Tamil canonical correction triggered by Batch 6: **none**.
 
 ## Current stage
 
@@ -110,30 +111,30 @@ Translation control files:
 - canonical `needs-review`: **49**;
 - verification freeze: **ACTIVE**;
 - English translation plan: **COMPLETE**;
-- English sections drafted/source-checked/reviewed: **5 / 7**;
+- English sections drafted/source-checked/reviewed: **6 / 7**;
 - English sections verified: **0 / 7**;
-- translation batches completed through review: **6 / 8**.
+- translation batches completed through review: **7 / 8**.
 
 ## Exact next activity
 
-Translate **English Batch 6 — `உலகநாதர்`**.
+Translate **English Batch 7 — final `கண்ணம்மா` conclusion**.
 
 Required range:
 
-- Tamil assembled source: `works/periya-idathup-pen/sections/06-ulaganathar.md`;
-- source scope: **scan 45 / printed page 44**, from the source heading `உலகநாதர்` through the complete account immediately before the scan-46 `கண்ணம்மா` heading;
-- canonical authority: `works/periya-idathup-pen/pages/0045-periya-idathup-pen-38.md`.
+- Tamil assembled source: `works/periya-idathup-pen/sections/07-kannamma-conclusion.md`;
+- source scope: **scans 46–49**, from the source heading `கண்ணம்மா` through the final narrative ending, with the printer colophon retained separately;
+- canonical authority: scans 46–49 in `works/periya-idathup-pen/pages/`.
 
 Required workflow:
 
-1. translate the complete Ulaganathar first-person account into `translations/en/sections/06-ulaganathar.md`;
-2. preserve Ulaganathar's accusation, wounded pride and limited knowledge as **his viewpoint**;
-3. do not silently correct his interpretation using the later Kannamma conclusion;
-4. source-check the entire account against canonical scan 45;
-5. update glossary only for recurring decisions actually encountered;
-6. create a Batch 6 review record and update progress/status docs;
+1. translate the complete final Kannamma account into `translations/en/sections/07-kannamma-conclusion.md`;
+2. preserve Kannamma's final explanation as her viewpoint while respecting the already-established narrator-isolation policy;
+3. source-check the corrected historical forms on scans 46–47, including `நானா ஆள்?` and `விட வேணா?`;
+4. preserve the audited joins scan 46→47 `காரணமாயிருந்தேன்!`, scan 47→48 `எழுதியிருந்தாள்.`, and scan 48→49 `ஒரு பெரிய ஜோதி நிரந்தரமாக...`;
+5. preserve the final narrative ending and separate printer colophon;
+6. create Batch 7 review and synchronize progress/status docs;
 7. keep all canonical Tamil pages `needs-review` under the active freeze;
-8. do not begin Batch 7 until Batch 6 is source-checked and reviewed.
+8. after Batch 7 review, perform whole-work bilingual review before any English `verified` decision.
 
 ---
 
