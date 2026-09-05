@@ -119,8 +119,20 @@ Required post-assembly canonical state:
 
 **ASSEMBLED TAMIL: PASSED.**
 
-The assembled layer is ready to support an English translation plan. Canonical `pages/` remain the controlling text and remain under the active verification freeze.
+Canonical `pages/` remain the controlling text and remain under the active verification freeze.
 
-## Next activity
+## Subsequent completion state
 
-Create the English translation plan / glossary policy and section mapping from the assembled Tamil reader. Translation may begin only after that plan is recorded; source-specific Tamil forms must be checked back against canonical `pages/` whenever interpretation is uncertain.
+The English stages that were once future work have been completed from this passed assembled layer:
+
+- translation plan: **COMPLETE**;
+- English section files: **7 / 7 reviewed**;
+- translation batches: **8 / 8 reviewed**;
+- final bilingual review: **PASSED**;
+- whole-work English: **VERIFIED**;
+- release-readiness pass: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
+- completion documentation sync: [`COMPLETION_SYNC_AUDIT.md`](COMPLETION_SYNC_AUDIT.md).
+
+No English or release review required a new Tamil canonical correction. The assembled layer remains **PASSED**, while canonical page statuses remain **0 verified / 49 `needs-review`** under the user-mandated freeze.
+
+There is no remaining assembly-stage activity for this title under the current instructions.
