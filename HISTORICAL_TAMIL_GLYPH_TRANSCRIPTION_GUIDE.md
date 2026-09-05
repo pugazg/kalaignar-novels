@@ -7,7 +7,7 @@ This is a reusable source-first guide for transcribing older Tamil print into mo
 It was created from two kinds of evidence:
 
 1. the user-supplied Periyar எழுத்துச் சீர்திருத்தம் reference chart; and
-2. transcription failures and corrections encountered during direct scan review in this archive, especially `பெரிய இடத்துப் பெண்` (1953) and the earlier `புதையல்` work.
+2. transcription failures and corrections encountered during direct scan review in this archive, especially the now-completed whole-work audit of `பெரிய இடத்துப் பெண்` (1953) and the earlier `புதையல்` work.
 
 Use this document for future novels, stories, speeches, essays, poems, letters, newspapers and other older Tamil printed sources whenever historical typeforms may occur.
 
@@ -66,18 +66,24 @@ This is a **minimum known reference set**, not a claim that every historical Tam
 
 A modern reader, OCR system or language model may see an old glyph and map it to the closest-looking current glyph. That can create a plausible-looking but false transcription.
 
-Confirmed examples from this archive:
+Confirmed examples from the completed `பெரிய இடத்துப் பெண்` source review:
 
 | Source / scan | Incorrect visual reading | Correct reading | Cause |
 |---|---|---|---|
-| `பெரிய இடத்துப் பெண்`, scan 14 | `ஆவிலைக்` | `ஆவலைக்` | historical `லை` identity |
-| `பெரிய இடத்துப் பெண்`, scan 14 | `நின்றூர்` | `நின்றார்` | historical `றா` identity |
-| `பெரிய இடத்துப் பெண்`, scan 16 | `போகிறயே` | `போகிறாயே` | historical `றா` identity |
-| `பெரிய இடத்துப் பெண்`, scan 20 | `நன்றுகத்` | `நன்றாகத்` | historical `றா` identity |
-| `பெரிய இடத்துப் பெண்`, scan 21 | `நன்றுகத்தான்` | `நன்றாகத்தான்` | historical `றா` identity |
-| `பெரிய இடத்துப் பெண்`, scan 24 | `நன்றுக` | `நன்றாக` | historical `றா` identity |
-| `பெரிய இடத்துப் பெண்`, scan 24 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` | historical `றா` identity |
-| `பெரிய இடத்துப் பெண்`, scan 25 | `வேலை மட்டுந்தானு?` | `வேலை மட்டுந்தானா?` | historical `னா` identity |
+| scan 14 | `ஆவிலைக்` | `ஆவலைக்` | historical `லை` identity |
+| scan 14 | `நின்றூர்` | `நின்றார்` | historical `றா` identity |
+| scan 16 | `போகிறயே` | `போகிறாயே` | historical `றா` identity |
+| scan 20 | `நன்றுகத்` | `நன்றாகத்` | historical `றா` identity |
+| scan 21 | `நன்றுகத்தான்` | `நன்றாகத்தான்` | historical `றா` identity |
+| scan 24 | `நன்றுக` | `நன்றாக` | historical `றா` identity |
+| scan 24 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` | historical `றா` identity; final `னா` checked |
+| scan 25 | `வேலை மட்டுந்தானு?` | `வேலை மட்டுந்தானா?` | historical `னா` identity |
+| scan 33 | `கண்ணடி` | `கண்ணாடி` | historical `ணா` identity |
+| scan 43 | `இளிச்சவாயனுக` | `இளிச்சவாயனாக` | historical `னா` identity |
+| scan 46 | `நானு ஆள்?` | `நானா ஆள்?` | historical `னா` identity |
+| scan 47 | `விட வேணு?` | `விட வேணா?` | historical `ணா` identity |
+
+The final four were discovered only during the dedicated whole-work source pass, which is why a complete retrospective audit matters even after early glyph-aware transcription has been performed.
 
 A different but related failure occurred in `புதையல்`: a faint/old `லை` could look like bare `ல்`, which tempted shortening such as `தெரியவில்லை` → `தெரியவில்ல`. High-resolution review showed that such apparent shortening could be an old/faint glyph effect rather than actual wording.
 
@@ -265,6 +271,8 @@ Recommended states:
 - `needs-review` — canonical text exists but project policy or unresolved questions prevent verification;
 - `verified` — only when the project's explicit visual-verification gate has been satisfied;
 - `blocked` — source evidence is unavailable or physically insufficient.
+
+`பெரிய இடத்துப் பெண்` is the completed example of this distinction: its full source audit and historical-glyph audit are complete, its assembled Tamil and English layers have passed their downstream gates, yet all 49 canonical page statuses remain `needs-review` because of an explicit user-mandated verification freeze.
 
 If a project discovers a systematic glyph error after pages were previously called verified, reopen the affected coverage to `needs-review` and perform a retrospective source-pixel audit.
 
