@@ -7,7 +7,7 @@ Tamil assembled source: `../../sections/02-uthandi.md`
 Canonical authority: `../../pages/`  
 Source coverage: **scan 15 at the `உத்தண்டி` heading through scan 19 immediately before the first `கண்ணம்மா` heading**.
 
-Review state: **REVIEWED**. This is not final whole-work `verified` status.
+Review state: **REVIEWED / PASS**. This file records the Batch-2 stage result; the later whole-work `TRANSLATION_REVIEW.md` establishes final English **VERIFIED** status.
 
 ## Source-completeness check
 
@@ -77,8 +77,10 @@ Canonical state remains:
 
 **BATCH 02 — REVIEWED / PASS.**
 
-The English section remains below final `verified` status until whole-work bilingual review and section-boundary review are complete.
+At the time of this batch review, whole-work verification was still pending. That downstream work is now complete: all eight planned batches are reviewed, `TRANSLATION_REVIEW.md` **PASSED**, whole-work English is **VERIFIED**, and `RELEASE_REPORT.md` **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
 
-## Next activity
+The section intentionally remains batch-level `reviewed`; whole-work verification does not alter the canonical Tamil freeze.
 
-Proceed to **Batch 3A — first `கண்ணம்மா` account**, from the `கண்ணம்மா` heading on scan 19 through scan 24. Preserve Kannamma's self-justifying first-person voice and do not reconcile it with Uthandi's account or later testimony. Source-check and review Batch 3A before continuing to Batch 3B.
+## Subsequent state
+
+The former next activity — Batch 3A — was completed, followed by all later batches and release checks. There is no remaining Batch-2 follow-up. Canonical Tamil remains **0 verified / 49 `needs-review`** under the active freeze.
