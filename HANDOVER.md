@@ -58,31 +58,37 @@ The scan-25 finding confirms the issue is not limited to old `றா`; historica
 
 ## Historical-glyph audit checkpoint
 
-Scans **1–27** have completed the retrospective page-by-page historical-glyph audit. The new batch **28–32 / printed 27–31** was transcribed with the complete 13-form rule applied during first pass rather than retrospectively.
+Scans **1–27** have completed the retrospective page-by-page historical-glyph audit. Scans **28–37** were transcribed with the complete 13-form rule applied during first pass rather than retrospectively.
 
-Important latest findings:
+Latest source-first batch, scans **33–37 / printed pages 32–36**:
 
-- scan 27 `அவனுக்கு ஒரு` + scan 28 `மகள்.` → `அவனுக்கு ஒரு மகள்.`;
-- scan 28 closes the parenthetical recollection at `பணக்காரத் தத்துவம்!)`;
-- scan 28 `“கண்ணம்மா! என்` + scan 29 `கண்ணல்ல.....`;
-- scan 29 `சில நாட்களுக்கு` + scan 30 `இருக்க வேண்டுமென்றும் சொன்னார்.`;
-- scan 30 `உலகநாதர் குமுதாவிடம் கொண்டிருக்கும்` + scan 31 `ஆசை வரையில் கூறிவிட்டேன்.`;
-- scan 32 directly confirms internal heading **`குமுதா`**;
-- scan 32 demonstrates first-pass historical decoding: `கொலை` uses old `லை`, and `தோன்றாமல்தான்` requires old `றா`, not apparent modern `று`.
+- scan 33: glyph-aware first pass completed; historical identities including `ணா / றா / லை / ளை` were decoded before entry;
+- scan 34: glyph-aware first pass completed; `லை / னை` and related historical clusters checked;
+- scan 35: historical `ணை` in `ஆணை` and historical `றா` in `நின்றார்` / `தோற்றாய்` were decoded by identity;
+- scan 36: `னொ / னை / லை` and related historical clusters checked during first pass;
+- scan 37: `னை / னா / ளை` and related clusters checked during first pass; the page visibly closes குமுதாவின் first-person statement with `இப்படிக்கு / இறக்கப் போகும் / குமுதா`.
 
-All scans 1–32 remain `needs-review`.
+Physical page-boundary evidence from the latest batch:
+
+- scan 33 `சதா` + scan 34 `என் இருதயப் பீடத்திலே...`;
+- scan 35 `அத` + scan 36 `னுடைய` → `அதனுடைய`;
+- scan 36 `தூக்கிச்` + scan 37 `சென்றதாக` → `தூக்கிச் சென்றதாக`.
+
+Source spacing/splits were preserved only where truly source-significant; ordinary line/typesetting joins established from the same physical page were normalized into the intended word identity during canonical entry, including `கொள்வதுண்டு`, `கட்டளையிட்டாள்`, and `கண்ணம்மாக்களைக்`.
+
+All scans **1–37** remain `needs-review`. No page is verified.
 
 ## Current stage
 
 - source registration: complete;
 - page map: **49 / 49**;
-- canonical records: **32 / 49 — scans 1–32**;
+- canonical records: **37 / 49 — scans 1–37**;
 - `verified`: **0**;
-- `needs-review`: **32**;
+- `needs-review`: **37**;
 - `partial`: **0**;
-- `not-started`: **17 — scans 33–49**;
+- `not-started`: **12 — scans 38–49**;
 - retrospective historical-glyph audit on scans 1–27: **COMPLETE**;
-- glyph-aware first-pass transcription: **complete through scan 32**;
+- glyph-aware first-pass transcription: **complete through scan 37**;
 - verification freeze: **ACTIVE**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil: **BLOCKED**;
@@ -96,22 +102,24 @@ Structural observations:
 - scan 15 / printed 14 — internal heading `உத்தண்டி`;
 - scan 19 / printed 18 — internal heading `கண்ணம்மா`;
 - scan 32 / printed 31 — internal heading `குமுதா`;
-- scan 38 is expected to contain `வீரன்`, but that must be confirmed directly when reached.
+- scan 37 / printed 36 closes குமுதாவின் signed first-person statement;
+- scan 38 is expected to contain `வீரன்`, but that must be confirmed directly from source before recording it as an internal heading.
 
 ## Exact next activity
 
-**Transcribe scans 33–37 / printed pages 32–36.**
+**Transcribe scans 38–42 / printed pages 37–41.**
 
 For each scan independently:
 
 1. inspect the complete page at enlarged/high resolution;
-2. apply the complete 13-form historical reference during first transcription and remain alert for other legacy ambiguity;
-3. preserve exact source spelling, punctuation, paragraphing and physical page boundaries;
-4. create every page as `needs-review`; do not mark anything `verified`;
-5. update page-map, historical-glyph audit, general audit, work/root READMEs and HANDOVER;
-6. stop after scan 37.
+2. directly confirm whether scan 38 contains internal heading `வீரன்`;
+3. apply the complete 13-form historical reference during first transcription and remain alert for other legacy ambiguity;
+4. preserve exact source spelling, punctuation, paragraphing and physical page boundaries;
+5. create every page as `needs-review`; do not mark anything `verified`;
+6. update page-map, historical-glyph audit, general audit, work/root READMEs and HANDOVER;
+7. stop after scan 42.
 
-Do not begin scan 38, assembled Tamil, or English translation in that activity.
+Do not begin scan 43, assembled Tamil, or English translation in that activity.
 
 ---
 
