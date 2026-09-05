@@ -41,9 +41,7 @@ The attached source scan remains controlling. Do not commit the PDF.
 
 **Do not mark any page in `பெரிய இடத்துப் பெண்` as `verified`.**
 
-The user identified a systematic transcription failure caused by historical/pre-reform Tamil typeforms being read according to modern visual resemblance. The first confirmed example was historical `றா` being read as apparent modern `று`, but the user supplied a higher-quality Periyar reform chart proving that the audit must cover a broader set.
-
-Known reference set:
+The user identified a systematic transcription failure caused by historical/pre-reform Tamil typeforms being read according to modern visual resemblance. The complete known Periyar-reform reference set supplied by the user is:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
@@ -74,38 +72,35 @@ No original 1953 source-work print is present. The later printed gift label was 
 
 ### Scan 3 — completed one-page pass
 
-Positive historical-form occurrences:
-
-- `ஜூலை` — `லை`;
-- `விலை` — `லை`;
-- `விற்பனை` — `னை`;
-- `சைனா` — `னா`;
-- `சென்னை` — `னை`.
-
-All were already encoded correctly. No text replacement required. Scan remains `needs-review`.
+Positive historical-form occurrences: `ஜூலை` (`லை`), `விலை` (`லை`), `விற்பனை` (`னை`), `சைனா` (`னா`), `சென்னை` (`னை`). All were already encoded correctly. Scan remains `needs-review`.
 
 ### Scan 4 — completed one-page pass
 
-The full `திரை விலக` page was re-read at enlarged/high resolution.
+Positive historical-form occurrences: `தலையிடுவது` (`லை`), `பார்ப்பதில்லை` (`லை`), `ஆனால்` (`னா`), `எத்தனையோ` (`னை`), `ஆனாலும்` (`னா`), `கருணாநிதி` (`ணா`). All were already encoded correctly.
+
+One independent earlier transcription error was corrected directly from the scan: `சமூகத்தின்` → **`சமுதாயத்தின்`**. Scan remains `needs-review`.
+
+### Scan 5 — completed one-page pass
+
+The `பதிப்புரை` page was re-read at enlarged/high resolution.
 
 Positive historical-form occurrences:
 
-- `தலையிடுவது` — `லை`;
-- `பார்ப்பதில்லை` — `லை`;
-- `ஆனால்` — `னா`;
-- `எத்தனையோ` — `னை`;
-- `ஆனாலும்` — `னா`;
-- `கருணாநிதி` — `ணா`.
+- `அதினைச்` — `னை`;
+- `அதினை` — `னை`;
+- `கருத்துக்களைத்` — `ளை`;
+- `மூலை` — `லை`.
 
-All six historical forms were already encoded correctly.
+All four were already encoded with the correct modern Unicode identities.
 
-One independent earlier transcription error was found and corrected directly from the scan:
+Two independent earlier transcription errors were corrected directly from the source:
 
-- `சமூகத்தின்` → **`சமுதாயத்தின்`**.
+- `அற்பிய` → **`அரும்பிய`**;
+- `சமூகமும்` → **`சமுதாயம்`**.
 
-This is a source-text correction, not a 13-form modernization. Scan 4 remains `needs-review`.
+These are source-text corrections, not 13-form modernization. Source-specific `விலாவொடியப்`, `ஏற்பட்டச்`, and `அவர்கட்கு` were rechecked and retained. Scan 5 remains `needs-review`.
 
-Progress: **4 / 27 existing canonical scans re-audited; scans 5–27 pending**.
+Progress: **5 / 27 existing canonical scans re-audited; scans 6–27 pending**.
 
 ## Current stage
 
@@ -116,7 +111,7 @@ Progress: **4 / 27 existing canonical scans re-audited; scans 5–27 pending**.
 - `needs-review`: **27 — scans 1–27**;
 - `partial`: **0**;
 - `not-started`: **22 — scans 28–49**;
-- historical-glyph retrospective audit: **OPEN — 4 / 27 reviewed**;
+- historical-glyph retrospective audit: **OPEN — 5 / 27 reviewed**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil sections: **BLOCKED / not started**;
 - English translation: **BLOCKED / not started**;
@@ -179,7 +174,7 @@ Never infer the missing scan-8 number from sequence.
 
 ## Exact next activity
 
-**Audit scan 5 only. Do not move beyond one page in that activity.**
+**Audit scan 6 only. Do not move beyond one page in that activity.**
 
 Use the same one-page method:
 
@@ -187,8 +182,8 @@ Use the same one-page method:
 2. inspect every printed glyph cluster against the complete 13-form historical reference;
 3. make only pixel-supported glyph-identity or independent source-text corrections;
 4. record the result in the page record and `HISTORICAL_GLYPH_AUDIT.md`;
-5. keep scan 5 `needs-review` regardless of whether corrections are found;
-6. stop after scan 5 and report the result.
+5. keep scan 6 `needs-review` regardless of whether corrections are found;
+6. stop after scan 6 and report the result.
 
 Do not continue to scans 28–32, assembled Tamil, or English translation.
 
