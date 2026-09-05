@@ -55,23 +55,28 @@ Independent source-text corrections found during the retrospective pass:
 - scan 4: complete; six historical-form occurrences confirmed; one lexical correction;
 - scan 5: complete; four historical-form occurrences confirmed; two lexical corrections;
 - scan 6: complete; five historical-form occurrences confirmed; no text correction;
-- **scan 7 / printed 6: complete; seven historical-form occurrences confirmed; one source-text correction**.
+- scan 7 / printed 6: complete; seven historical-form occurrences confirmed; one source-text correction;
+- **scan 8: complete; nine historical-form occurrences confirmed; no text correction**.
 
-### Scan 7 finding
+### Scan 8 finding
 
-Positive historical forms:
+The first narrative page was re-read in full at enlarged/high resolution.
 
-- `வெள்ளை` — `ளை`;
-- `விற்பனையாவதிலிருந்து` — `னை`;
-- `மலை` — `லை`;
-- `இன்னொரு` — `னொ`;
-- `மூலை` — `லை`;
-- `போகிறாள்` — `றா`;
-- `முன்னிலையில்` — `லை`.
+Positive historical forms already encoded correctly:
 
-All seven were already encoded correctly. Direct enlarged inspection showed that the first paragraph reads source `உள்ளங்` + `களே`, so `உள்ளங்களை` was corrected to **`உள்ளங்களே`**. Source-supported `மாசு மருவற்ற`, `விற்பனையாவதிலிருந்து`, `வெள்ளிடை மலை!`, `திரைக் கதையாக`, `போகிறாள், என்பதை`, and `என்று உங்கள்,` remain unchanged. Scan 7 remains `needs-review`.
+- `நினைத்தவாறே` — `றா`;
+- `வேலை` — `லை`;
+- `தோன்றவில்லை` — `லை`;
+- `தோள்களை` — `ளை`;
+- `விழவில்லை` — `லை`;
+- `சிந்தனையைச்` — `னை`;
+- `லீலைகள்` — `லை`;
+- `ஆனால்` — `னா`;
+- `திருப்பினாள்` — `னா`.
 
-**Progress: 7 / 27 existing canonical scans re-audited; scans 8–27 pending.**
+No historical-glyph conversion or independent text correction was required. Source-supported `வேலை யெல்லாம்`, `அணிச்சக்`, `இதயப் படுதாவில்`, `ஊர்க் கடைசியிலுள்ள`, the dotted pause before `இருக்கீங்க?`, and paragraph structure remain unchanged. Scan 8 remains `needs-review`.
+
+**Progress: 8 / 27 existing canonical scans re-audited; scans 9–27 pending.**
 
 ## Current stage
 
@@ -82,7 +87,7 @@ All seven were already encoded correctly. Direct enlarged inspection showed that
 - `needs-review`: **27**;
 - `partial`: **0**;
 - `not-started`: **22 — scans 28–49**;
-- historical-glyph audit: **OPEN — 7 / 27**;
+- historical-glyph audit: **OPEN — 8 / 27**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil: **BLOCKED**;
 - English translation: **BLOCKED**;
@@ -92,11 +97,11 @@ Printed-page behavior remains: scans 1–6 unnumbered; scan 7 visibly printed **
 
 ## Exact next activity
 
-**Audit scan 8 only. Do not move beyond one page.**
+**Audit scan 9 only. Do not move beyond one page.**
 
-Inspect the complete scan at enlarged/high resolution, check all 13 known historical forms and any other legacy ambiguity, make only pixel-supported glyph-identity or independent source-text corrections, record the result in the page record and audit trackers, keep scan 8 `needs-review`, and stop.
+Inspect the complete scan at enlarged/high resolution, check all 13 known historical forms and any other legacy ambiguity, make only pixel-supported glyph-identity or independent source-text corrections, record the result in the page record and audit trackers, keep scan 9 `needs-review`, and stop.
 
-Do not continue to scan 9, scans 28–32, assembled Tamil, or English translation in that activity.
+Do not continue to scan 10, scans 28–32, assembled Tamil, or English translation in that activity.
 
 ---
 
