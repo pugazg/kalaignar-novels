@@ -19,7 +19,7 @@ This audit is **open**. Canonical transcription exists through scan 27, but hist
 | `needs-review` | **27 — scans 1–27** |
 | `partial` | **0** |
 | `not-started` | **22 — scans 28–49** |
-| Historical-glyph retrospective audit | **OPEN — 13 / 27 reviewed; scans 1–13** |
+| Historical-glyph retrospective audit | **OPEN — 23 / 27 reviewed; scans 1–23** |
 | Tamil source layer | **NOT PASSED** |
 | Assembled Tamil | **BLOCKED** |
 | English translation | **BLOCKED** |
@@ -36,6 +36,9 @@ Decode historical character identity into modern Unicode only after direct sourc
 
 | Scan | Printed page | Earlier | Correct |
 |---:|:---:|---|---|
+| 14 | 13 | `ஆவிலைக்` | `ஆவலைக்` |
+| 14 | 13 | `நின்றூர்` | `நின்றார்` |
+| 16 | 15 | `போகிறயே` | `போகிறாயே` |
 | 20 | 19 | `நன்றுகத்` | `நன்றாகத்` |
 | 21 | 20 | `நன்றுகத்தான்` | `நன்றாகத்தான்` |
 | 24 | 23 | `நன்றுக` | `நன்றாக` |
@@ -48,26 +51,23 @@ Decode historical character identity into modern Unicode only after direct sourc
 - scan 5: `சமூகமும்` → `சமுதாயம்`;
 - scan 7 / printed 6: `உள்ளங்களை` → `உள்ளங்களே`;
 - scan 12 / printed 11: `தாவும்போது பயப்பட்ட பூனை` → `தாவும்போது பயப்படாத பூனை`;
-- scan 12 / printed 11: `பயப்பட்டது போல -` → `பயப்பட்டதுபோல -`.
+- scan 12 / printed 11: `பயப்பட்டது போல -` → `பயப்பட்டதுபோல -`;
+- scan 19 / printed 18: `செக்கச் செவேலென்றோன்றின.` → `செக்கச் செவேலென்றேதோன்றின.`.
 
 Full occurrence-level tracking is maintained in [`HISTORICAL_GLYPH_AUDIT.md`](HISTORICAL_GLYPH_AUDIT.md).
 
 ## Retrospective audit progress
 
-- **Scans 1–8:** completed previously; all remain `needs-review`.
-- **Scan 9 / printed 8:** complete; historical `லை / ளை / னா / னை / ணை` occurrences checked; no text correction.
-- **Scan 10 / printed 9:** complete; historical `றா` in `என்றான்` checked explicitly plus other `ணை / னை / னா / லை` forms; no text correction.
-- **Scan 11 / printed 10:** complete; `னா / னை / லை / ளை` forms checked; no text correction.
-- **Scan 12 / printed 11:** complete; historical forms encoded correctly; two independent source-text corrections made.
-- **Scan 13 / printed 12:** complete; `ணை / னை / னா / லை` forms checked; no text correction.
+- **Scans 1–13:** completed previously; all remain `needs-review`.
+- **Scan 14 / printed 13:** historical `லை` corrected `ஆவிலைக்` → `ஆவலைக்`; historical `றா` corrected `நின்றூர்` → `நின்றார்`.
+- **Scan 15 / printed 14:** full 13-form sweep; no canonical text correction; `உத்தண்டி` remains an internal heading.
+- **Scan 16 / printed 15:** historical `றா` corrected `போகிறயே` → `போகிறாயே`.
+- **Scans 17–18 / printed 16–17:** full 13-form sweep; no canonical text correction.
+- **Scan 19 / printed 18:** direct source-text correction to `செக்கச் செவேலென்றேதோன்றின.`; `கண்ணம்மா` remains an internal heading.
+- **Scans 20–21 / printed 19–20:** known `நன்றாகத்` / `நன்றாகத்தான்` `றா` corrections re-confirmed; no new correction.
+- **Scans 22–23 / printed 21–22:** full 13-form sweep; no canonical text correction.
 
-### Scan 12 correction detail
-
-Direct enlarged source inspection shows:
-
-`உறியில் தாவும்போது பயப்படாத பூனை உறியை அடைந்ததும் பயப்பட்டதுபோல - சுவரைத் துளைத்தபோது...`
-
-The previous canonical reading had both `பயப்பட்ட பூனை` and `பயப்பட்டது போல -`; both have now been corrected to the source-supported wording above.
+Retrospective progress is therefore **23 / 27 scans reviewed; scans 24–27 pending**.
 
 ## Existing transcription coverage
 
@@ -79,17 +79,20 @@ Existing page-boundary joins and internal-heading observations remain provisiona
 
 ## Boundary observations retained provisionally
 
-- scan 9 final sentence continues into scan 10;
 - scan 11 `கிடப்ப` + scan 12 `தாகக்` → `கிடப்பதாகக்`;
 - scan 14 `நினைக்` + scan 15 `காதே!` → `நினைக்காதே!`;
 - scan 15 `தெரிந்` + scan 16 `தது.` → `தெரிந்தது.`;
 - scan 16 `நம்` + scan 17 `வீட்டு` → `நம் வீட்டு`;
-- later joins through scan 27 remain recorded in the page map/handover and are still provisional until the retrospective pass reaches them.
+- scan 17 `கண்டது` + scan 18 `போலத்தானே!`;
+- scan 18 `என்` + scan 19 `றேன்.`;
+- scan 19 `என்` + scan 20 `னிலே` → `என்னிலே`;
+- scan 21 `காலக்ஷேபங்` + scan 22 `கூட`;
+- scan 22 `மட்` + scan 23 `டும்` → `மட்டும்`.
 
 ## Structural finding
 
-The source continues as one work, `பெரிய இடத்துப் பெண்`. Internal headings already observed include `உத்தண்டி` and `கண்ணம்மா`; this does not alter page status.
+The source continues as one work, `பெரிய இடத்துப் பெண்`. Internal headings `உத்தண்டி` and `கண்ணம்மா` remain internal structure only; this does not alter page status.
 
 ## Next activity
 
-Audit **scans 14–18 / printed pages 13–17** as the next five-page batch. Inspect each complete page at enlarged/high resolution against all 13 historical forms, make only pixel-supported corrections, record each result, and keep every page `needs-review`. Do not advance beyond scan 18 in that activity.
+Audit **scans 24–27 / printed pages 23–26** as the remaining four-page retrospective batch. Re-confirm the known scan-24 `றா` corrections from the source, inspect each page against all 13 historical forms, make only pixel-supported corrections, record each result, and keep every page `needs-review`. Stop after scan 27.
