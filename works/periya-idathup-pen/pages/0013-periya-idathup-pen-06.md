@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
-transcription_method: "direct visual comparison with enlarged source scan"
+transcription_method: "direct visual comparison with enlarged source scan; historical-glyph re-audit performed for this scan"
 ---
 
 உலகநாதர் பண்ணையில் வேலை பார்க்கும் உத்தண்டி என்ற தலையாரி ஒரு கிழவன். அவனது மகள் குமுதா. குமுதம் என்ற பெயரின் சுருக்கம் குமுதா. உத்தண்டியின் தங்கை மகன்தான் வீரன். குமுதாவின் அத்தான். குமுதாவும் வீரனும் குலவிக் கொண்டிருந்ததை உலகநாதர் கண்ட அன்று தான் ஊஞ்சல் உரையாடல் நிகழ்ந்தது.
@@ -16,10 +16,35 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 கடவுளுக்கு நைவேத்தியம் என்று கூறிப்'பொங்கல் பள்ளயம் பாவாடை' போட்டு, அதைக் கருத்துக் கேற்ற கனகசுந்தரிகளுக்கு ஊட்டுகின்ற பூசாரியைப் போலவே, கண்ணம்மாவும் தன்னைக் கணவனுக்கு நைவேத்தியம் செய்து இன்பத்தை வீரனுக்கு வழங்கி வந்தாள். இதை அந்த இளித்தவாயர் அறியவில்லை. பாவம்! கடவுளாவது கற்சிலை; கண்ணில்லாதவர்! இந்தக் கணவனுக்கோ கருத்துமில்லை; கவனிப்புமில்லை!
 
+## Historical-glyph re-audit — scan 13
+
+The complete printed page was re-read at enlarged/high resolution against the full 13-form reference.
+
+Positive historical-form occurrences checked include:
+
+- `பண்ணையில்` — historical `ணை`;
+- `வேலை` — historical `லை`;
+- `தலையாரி` — historical `லை`;
+- `விலை` — historical `லை`;
+- `இல்லை` — historical `லை`;
+- `போனால்` — historical `னா`;
+- `நினைத்துவிட்டார்` — historical `னை`;
+- `நினைத்துவிட்டதாகக்` — historical `னை`;
+- `தன்னைக்` — historical `னை`;
+- `அறியவில்லை` — historical `லை`;
+- `கற்சிலை` — historical `லை`;
+- `கருத்துமில்லை` — historical `லை`;
+- `கவனிப்புமில்லை` — historical `லை`.
+
+All were already encoded with the correct modern Unicode identities. No historical-glyph conversion and no independent source-text correction were required on this scan.
+
+Source-supported forms and punctuation `ரசத்தையவிடக்`, `மகானுபாவன்`, `கூறிப்'பொங்கல் பள்ளயம் பாவாடை'`, and `கருத்துக் கேற்ற` were rechecked and retained without normalization.
+
+This page remains `needs-review` and is not marked verified.
+
 ## Scan observations
 
 - visible printed page number: **12**.
-- `ரசத்தையவிடக்`, `மகானுபாவன்`, `கூறிப்'பொங்கல் பள்ளயம் பாவாடை'`, and `கருத்துக் கேற்ற` are retained as visibly printed source forms.
-- paragraph and punctuation structure were checked directly against the enlarged scan.
+- paragraph and punctuation structure were rechecked directly against the enlarged scan.
 
 <!-- மூல ஸ்கேன் பக்கம்: 13; அச்சுப் பக்கம்: 12 -->
