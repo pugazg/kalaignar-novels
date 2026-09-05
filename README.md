@@ -19,7 +19,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **source registered; 49/49 scans mapped; 47/49 canonical pages; scans 1–27 retrospective glyph pass COMPLETE; scans 28–47 glyph-aware first-pass complete; verification freeze ACTIVE; 0 verified / 47 `needs-review`; next/final transcription scans 48–49; Tamil audit NOT PASSED; English blocked** |
+| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; scans 1–27 retrospective historical-glyph pass COMPLETE; scans 28–49 glyph-aware first-pass COMPLETE; verification freeze ACTIVE; 0 verified / 49 `needs-review`; Tamil source audit NOT PASSED; next: dedicated full Tamil source/audit review; assembled Tamil and English blocked** |
 
 ## Completed works
 
