@@ -15,10 +15,10 @@ This is the active source in `pugazg/kalaignar-novels`.
 - SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`;
 - PDF text layer: **none — image-only scan**;
 - page manifest: **179 / 179 scans represented**;
-- canonical page records: **8 / 179**;
+- canonical page records: **12 / 179**;
 - scans 1–3 front matter: **verified**;
-- scans 4–8 / Chapter 1 opening: **directly transcribed and verified**;
-- printed mapping established for this batch: scan 4 unnumbered; scans 5–8 = printed **4–7**;
+- scans 4–12 / complete Chapter 1 span: **directly transcribed and verified**;
+- printed mapping established through scan 12: scan 4 and scan 9 unnumbered; scans 5–8 = printed **4–7**; scans 10–12 = printed **9–11**;
 - Tamil full-source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**.
@@ -55,6 +55,19 @@ Cross-page continuity retained in canonical records:
 - scan 5 final `அவைகளே` → scan 6 opening `கேலிக்குரியதாக ஆக்கிய...`;
 - scan 8 final `கிழக்கு வானம் வெளுக்கத்` → scan 9.
 
+
+## Second narrative batch — scans 9–12
+
+Direct high-resolution comparison is complete for all four pages, finishing Chapter 1 immediately before scan 13 / Chapter 2. Printed text only was transcribed and the historical-glyph pre-correction gate passed on each scan.
+
+Source-sensitive readings retained without normalization include scan 9 **`குழப்பட்டு`** and scan 12 **`அந்தப் பருக்கூட்டமே`**. The Tiruppavai quotations on scans 10–12 are transcribed from this edition rather than replaced with an external canonical version.
+
+Cross-page / structural continuity:
+
+- scan 8 `கிழக்கு வானம் வெளுக்கத்` + scan 9 `துவங்கிவிட்டது.`;
+- scan 10 final `இருந்தாள்—` continues into scan 11's quoted question;
+- scan 12 closes Chapter 1; scan 13 begins source-printed Chapter 2.
+
 ## Historical Tamil glyph policy
 
 Use root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. For every body page inspect the complete glyph cluster at enlarged/native resolution, consider `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, compare same-edition forms where useful, encode only proven character identity, preserve source wording/punctuation, and never global-replace.
@@ -67,8 +80,8 @@ Use root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. For every body page in
 - [`pages/0001-cover.md`](pages/0001-cover.md)
 - [`pages/0002-copy-note.md`](pages/0002-copy-note.md)
 - [`pages/0003-publication.md`](pages/0003-publication.md)
-- [`pages/0004-vellikkizhamai-01.md`](pages/0004-vellikkizhamai-01.md) through [`pages/0008-vellikkizhamai-05.md`](pages/0008-vellikkizhamai-05.md)
+- [`pages/0004-vellikkizhamai-01.md`](pages/0004-vellikkizhamai-01.md) through [`pages/0012-vellikkizhamai-09.md`](pages/0012-vellikkizhamai-09.md)
 
 ## Exact next activity
 
-Process scans **9–12**, continuing Chapter 1 through the page immediately before the Chapter 2 opening at scan 13. Directly inspect each scan, populate visible printed-page numbers individually, apply the historical-glyph pre-correction gate, update page map/audit/status documents, and commit the batch. Do not commit the source PDF.
+Process scans **13–17**, beginning source-printed Chapter 2. Directly inspect each scan, populate visible printed-page numbers individually, apply the historical-glyph pre-correction gate, update page map/audit/status documents, and commit the batch. Do not commit the source PDF.

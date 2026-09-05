@@ -6,9 +6,9 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count from direct file inspection: **179**;
 - initial page manifest: **179 / 179 represented below**;
-- canonical page records created so far: **8 / 179**;
+- canonical page records created so far: **12 / 179**;
 - direct front-matter transcription: scans **1–3 verified**;
-- body transcription: scans **4–8 verified**;
+- body transcription: scans **4–12 verified**;
 - printed-page values marked `pending` must be populated only by direct visual inspection; they are not inferred from sequence.
 
 Directly sampled numbering observations:
@@ -17,6 +17,10 @@ Directly sampled numbering observations:
 - scan 6: printed page 5;
 - scan 7: printed page 6;
 - scan 8: printed page 7;
+- scan 9: no visible printed page number;
+- scan 10: printed page 9;
+- scan 11: printed page 10;
+- scan 12: printed page 11;
 - scan 68: printed page 67;
 - scan 176: printed page 175;
 - scan 179: printed page 178.
@@ -33,11 +37,12 @@ Confirmed early chapter openings from direct scan inspection:
 
 The full chapter map is still pending. Do not infer later chapter boundaries from spacing or page count.
 
-First narrative batch checkpoint:
-- scans **4–8** directly transcribed and visually verified;
-- printed mapping now confirmed as scan 4 unnumbered, scans 5–8 = printed pages 4–7;
-- scan 8 `களைத்துத்` resolved as historical `ளை` from enlarged/native pixels and same-edition comparison;
-- next batch: scans **9–12**, continuing Chapter 1 up to the Chapter 2 opening at scan 13.
+Chapter 1 transcription checkpoint:
+- scans **4–12** directly transcribed and visually verified;
+- scan 4 and scan 9 have no visible printed page number; scans 5–8 = printed 4–7; scans 10–12 = printed 9–11;
+- scan 8 `களைத்துத்` resolved as historical `ளை`; scan 9 source-specific `குழப்பட்டு` and scan 12 `அந்தப் பருக்கூட்டமே` preserved as printed;
+- Chapter 1 is complete through scan 12; scan 13 is the directly confirmed Chapter 2 opening;
+- next batch: scans **13–17**, beginning Chapter 2.
 
 | Scan | Printed page | Page type | Status | Note |
 |---:|:---:|---|---|---|
@@ -49,10 +54,10 @@ First narrative batch checkpoint:
 | 6 | 5 | body | verified | Chapter 1; later underline excluded from printed text |
 | 7 | 6 | body | verified | Chapter 1 |
 | 8 | 7 | body | verified | Chapter 1; `களைத்துத்` historical `ளை` resolved at enlarged/native pixels |
-| 9 | pending | body | not-started |  |
-| 10 | pending | body | not-started |  |
-| 11 | pending | body | not-started |  |
-| 12 | pending | body | not-started |  |
+| 9 | — | body | verified | Chapter 1; no visible printed page number; completes scan 8 `வெளுக்கத்` → `துவங்கிவிட்டது` |
+| 10 | 9 | body | verified | Chapter 1; Tiruppavai quotation preserved as printed |
+| 11 | 10 | body | verified | Chapter 1; historical-glyph check passed; Tiruppavai quotation |
+| 12 | 11 | body | verified | Chapter 1 ending; `அந்தப் பருக்கூட்டமே` preserved as printed |
 | 13 | pending | body | not-started |  |
 | 14 | pending | body | not-started |  |
 | 15 | pending | body | not-started |  |

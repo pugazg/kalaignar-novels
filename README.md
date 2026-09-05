@@ -25,10 +25,10 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **3 / 179**;
+- canonical page records: **12 / 179**;
 - scans 1–3 front matter: **verified**;
-- body transcription: **not started**;
-- next batch: **scans 4–8 / Chapter 1 opening**.
+- scans 4–12 / Chapter 1: **verified / complete**;
+- next batch: **scans 13–17 / Chapter 2 opening**.
 
 The source is image-only and uses older Tamil print conventions. Every body page must use the historical-glyph pre-correction workflow in `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. The source PDF remains outside the repository.
 
@@ -44,7 +44,7 @@ The source is image-only and uses older Tamil print conventions. Every body page
 
 For older Tamil sources, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) before deciding difficult glyphs. Its governing rule is: **identify the historical character identity from source pixels first, then encode that identity in modern Unicode without modernizing the source wording.** The documented minimum Periyar-reform-sensitive set is `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-`வெள்ளிக்கிழமை` (1968) is the current active work and must apply this rule from the first narrative page onward. Several sampled scans also contain later underlining/ticks/handwriting; those marks must remain separate from printed text.
+`வெள்ளிக்கிழமை` (1968) is the current active work. Scans 4–12 have passed direct source comparison and historical-glyph first-pass review. Source-specific forms such as scan 8 `களைத்துத்`, scan 9 `குழப்பட்டு`, and scan 12 `அந்தப் பருக்கூட்டமே` are preserved from the scanned edition rather than normalized. Several sampled scans also contain later underlining/ticks/handwriting; those marks must remain separate from printed text.
 
 The completed whole-work audit of `பெரிய இடத்துப் பெண்` found four dedicated-pass historical-glyph corrections on scans 33, 43, 46 and 47 in addition to the earlier confirmed corrections. Its passed assembled Tamil reader, English `VERIFIED` status and qualified release verdict do not override its canonical verification freeze.
 

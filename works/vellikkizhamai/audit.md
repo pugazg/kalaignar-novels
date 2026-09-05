@@ -14,12 +14,12 @@
 | Source identity inspected | **complete for intake** |
 | Actual PDF page count / size / checksum | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **8 / 179** |
+| Canonical page records | **12 / 179** |
 | Front matter scans 1–3 | **verified** |
-| Body transcription | **scans 4–8 verified** |
-| Printed-page map | **partial — scan 4 unnumbered; scans 5–8 = printed 4–7** |
+| Body transcription | **scans 4–12 verified; Chapter 1 complete** |
+| Printed-page map | **partial — scan 4/9 unnumbered; scans 5–8 = 4–7; scans 10–12 = 9–11** |
 | Chapter map | **partial — Chapters 1–8 directly located** |
-| Historical-glyph policy | **enabled; first body batch passed** |
+| Historical-glyph policy | **enabled; scans 4–12 passed** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -62,6 +62,26 @@ No global replacement was used. No unresolved glyph cluster remains in scans 4�
 
 The canonical page layer retains these physical boundaries instead of moving text across scans.
 
+## Second narrative batch — scans 9–12
+
+**Result: PASS / VERIFIED page records created; Chapter 1 complete.**
+
+- scan 9: no visible printed page number; starts `துவங்கிவிட்டது.` and completes scan 8's `கிழக்கு வானம் வெளுக்கத்`;
+- scan 10: printed page 9; Tiruppavai quotation preserved from this source;
+- scan 11: printed page 10; Tiruppavai/dialogue sequence source-checked;
+- scan 12: printed page 11; Chapter 1 closing page; scan 13 is Chapter 2.
+
+Historical-glyph/source-sensitive checkpoint:
+
+- all four pages checked against the known historical set at enlarged/native resolution;
+- scan 9 **`குழப்பட்டு`** is preserved as printed rather than normalized;
+- scan 11 **`என்றாள் ராதா!`** is encoded from the historical printed character identity;
+- scan 12 **`அந்தப் பருக்கூட்டமே`** is preserved as printed rather than contextually rewritten;
+- no unresolved source cluster remains in scans 9–12;
+- no global replacement was used.
+
+The Tiruppavai passages were transcribed from the scanned edition itself; outside/canonical verse wording was not used to silently repair the source.
+
 ## Source marks / contamination risks
 
 Later underlining, ticks and handwriting occur in the copy and must remain outside canonical novel text. Age-toning, stains, bleed-through and uneven ink remain glyph-reading risks for later batches.
@@ -72,7 +92,7 @@ Directly confirmed chapter openings: scan 4 (1), 13 (2), 23 (3), 33 (4), 45 (5),
 
 ## Unresolved project items
 
-- scans **9–179** canonical transcription;
+- scans **13–179** canonical transcription;
 - printed-page mapping for remaining scans;
 - chapter openings after Chapter 8;
 - historical-glyph decisions for later body pages;
@@ -81,4 +101,4 @@ Directly confirmed chapter openings: scan 4 (1), 13 (2), 23 (3), 33 (4), 45 (5),
 
 ## Exact next activity
 
-Process scans **9–12** to continue and finish the current Chapter 1 span before scan 13 / Chapter 2. Perform direct high-resolution transcription, historical-glyph checks, page-map/status synchronization and a narrow commit. English work remains blocked.
+Process scans **13–17** as the first Chapter 2 batch. Perform direct high-resolution transcription, historical-glyph checks, page-map/status synchronization and a narrow commit. English work remains blocked.
