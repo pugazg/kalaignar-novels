@@ -40,11 +40,11 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 | 30 | 29 | body — `பெரிய இடத்துப் பெண்`; glyph-aware first pass | needs-review | `pages/0030-periya-idathup-pen-23.md` |
 | 31 | 30 | body — `பெரிய இடத்துப் பெண்`; glyph-aware first pass | needs-review | `pages/0031-periya-idathup-pen-24.md` |
 | 32 | 31 | body; internal heading `குமுதா`; glyph-aware first pass | needs-review | `pages/0032-periya-idathup-pen-25.md` |
-| 33 | 32 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0033-periya-idathup-pen-26.md` |
-| 34 | 33 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0034-periya-idathup-pen-27.md` |
-| 35 | 34 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0035-periya-idathup-pen-28.md` |
-| 36 | 35 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0036-periya-idathup-pen-29.md` |
-| 37 | 36 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0037-periya-idathup-pen-30.md` |
+| 33 | 32 | body — `பெரிய இடத்துப் பெண்`; glyph-aware first pass | needs-review | `pages/0033-periya-idathup-pen-26.md` |
+| 34 | 33 | body — `பெரிய இடத்துப் பெண்`; glyph-aware first pass | needs-review | `pages/0034-periya-idathup-pen-27.md` |
+| 35 | 34 | body — `பெரிய இடத்துப் பெண்`; glyph-aware first pass | needs-review | `pages/0035-periya-idathup-pen-28.md` |
+| 36 | 35 | body — `பெரிய இடத்துப் பெண்`; glyph-aware first pass | needs-review | `pages/0036-periya-idathup-pen-29.md` |
+| 37 | 36 | body — `பெரிய இடத்துப் பெண்`; குமுதா statement closes; glyph-aware first pass | needs-review | `pages/0037-periya-idathup-pen-30.md` |
 | 38 | 37 | body; internal heading `வீரன்` | not-started | `pages/0038-periya-idathup-pen-31.md` |
 | 39 | 38 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0039-periya-idathup-pen-32.md` |
 | 40 | 39 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0040-periya-idathup-pen-33.md` |
@@ -62,11 +62,11 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 
 - Source scan pages: **49**
 - Page-manifest rows: **49 / 49**
-- Page records created: **32 / 49**
+- Page records created: **37 / 49**
 - `verified`: **0**
-- `needs-review`: **32**
+- `needs-review`: **37**
 - `partial`: **0**
-- `not-started`: **17**
+- `not-started`: **12**
 - Source PDF stored in repository: **No**
 
 ## Historical-glyph checkpoint
@@ -80,7 +80,7 @@ The retrospective glyph audit over scans 1–27 is complete. Confirmed historica
 - scan 24 / printed 23: `நன்றுக` → `நன்றாக`; `விழுவேன் என்றுனா?` → `விழுவேன் என்றானா?`;
 - scan 25 / printed 24: `வேலை மட்டுந்தானு?` → `வேலை மட்டுந்தானா?`.
 
-Scans 28 onward are transcribed with the full 13-form reference applied during first pass. Scan 32 directly demonstrates this method with `கொலை` (`லை`) and `தோன்றாமல்தான்` (`றா`) decoded by historical character identity.
+Scans 28 onward are transcribed with the full 13-form reference applied during first pass. In the current batch, scan 33 required historical `றா` identity in `என்றால்`; scan 35 explicitly uses historical `ணை` in `ஆணை` and historical `றா` in `நின்றார்` / `தோற்றாய்`. No page is marked verified.
 
 ## Boundary notes established so far
 
@@ -104,12 +104,17 @@ Scans 28 onward are transcribed with the full 13-form reference applied during f
 - scan 28 `“கண்ணம்மா! என்` + scan 29 `கண்ணல்ல.....`;
 - scan 29 `சில நாட்களுக்கு` + scan 30 `இருக்க வேண்டுமென்றும் சொன்னார்.`;
 - scan 30 `உலகநாதர் குமுதாவிடம் கொண்டிருக்கும்` + scan 31 `ஆசை வரையில் கூறிவிட்டேன்.`;
-- scan 31 ends a complete question; scan 32 begins internal heading `குமுதா`.
+- scan 31 ends a complete question; scan 32 begins internal heading `குமுதா`;
+- scan 33 ends `சதா`; scan 34 begins `என் இருதயப் பீடத்திலே...`, giving `சதா என் இருதயப் பீடத்திலே...` across the page boundary;
+- scan 34 ends a complete sentence;
+- scan 35 `அத` + scan 36 `னுடைய` → `அதனுடைய`;
+- scan 36 `தூக்கிச்` + scan 37 `சென்றதாக` → `தூக்கிச் சென்றதாக`;
+- scan 37 visibly closes குமுதாவின் first-person statement with `இப்படிக்கு / இறக்கப் போகும் / குமுதா`.
 
 ## Structural caution
 
-The character-name headings are internal structure within the same continuous work. Directly confirmed so far: `உத்தண்டி` (scan 15), `கண்ணம்மா` (scan 19), and `குமுதா` (scan 32). Their presence does not confer page verification.
+The character-name headings are internal structure within the same continuous work. Directly confirmed so far: `உத்தண்டி` (scan 15), `கண்ணம்மா` (scan 19), and `குமுதா` (scan 32). Their presence does not confer page verification. Scan 38 is expected to begin the internal `வீரன்` section but must be confirmed directly from source.
 
 ## Next activity
 
-Transcribe **scans 33–37 / printed pages 32–36** as the next glyph-aware source-first batch. Apply all 13 historical-form checks during first transcription, keep every new page `needs-review`, preserve exact physical page boundaries, synchronize the status documents, and stop after scan 37. Scan 38's expected `வீரன்` heading belongs to the following batch and must be confirmed directly from source.
+Transcribe **scans 38–42 / printed pages 37–41** as the next glyph-aware source-first batch. Confirm scan 38's expected `வீரன்` heading directly, apply all 13 historical-form checks during first transcription, keep every new page `needs-review`, preserve physical page boundaries, synchronize the status documents, and stop after scan 42.
