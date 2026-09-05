@@ -6,84 +6,91 @@
 - Branch: `main`
 - Primary guide: `NOVEL_PROCESSING_GUIDE.md`
 - Reusable historical-glyph guide: `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-- Current target: **none — awaiting the next source/work supplied or named by the user**
-- Completed reference implementations:
-  - `works/balipeedam-nokki/` — unqualified release-ready reference;
-  - `works/periya-idathup-pen/` — completed qualified-release reference with an explicit canonical verification freeze.
+- Current target: **வெள்ளிக்கிழமை**
+- Active path: `works/vellikkizhamai/`
 
-Before changing repository state, fetch live `main` first. For a new work, follow `NEXT_NOVEL_CHAT_PROMPT.md` and `NOVEL_PROCESSING_GUIDE.md`. Do not reopen completed works merely because a historical audit/review records an earlier stage. Source PDFs remain controlling evidence and must not be committed.
+Before changing repository state, fetch live `main` first. Read `NOVEL_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, this handover, and the active-work README/audit/page map. Source PDFs remain controlling evidence and must not be committed.
 
-## பெரிய இடத்துப் பெண் — COMPLETED durable state
+## வெள்ளிக்கிழமை — ACTIVE source intake
 
-Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf`  
-SHA-256: `50db9c55d670065bd81088ee07e4527f5531a9ab15e3c4533d6b10eda8d09e9628`  
-Scans: **49**  
-Title: **பெரிய இடத்துப் பெண்**  
-Author: **மு. கருணாநிதி**  
-Publisher/place: **திராவிடன் பதிப்பகம் / வேலூர் (வ. ஆ.)**  
-Edition: **எட்டாம் பதிப்பு: ஜூலை 1953**  
-Final printer colophon: **ஸ்ரீமகள் அச்சகம், சென்னை-1**.
+Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`  
+SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`  
+File size: **251,126,214 bytes**  
+Actual PDF scans: **179**  
+Source text layer: **none / image-only**  
+Title: **வெள்ளிக்கிழமை**  
+Author as printed: **மு. கருணாநிதி**  
+Publisher: **திராவிடப்பண்ணை**  
+Edition: **இரண்டாம் பதிப்பு: 1968**  
+Price: **ரூ. 2-50**  
+Printer: **சக்திவேல் பிரஸ், திருச்சிராப்பள்ளி-2.**
 
-### Verification freeze — MUST PRESERVE
+### Current state
 
-**Do not mark any canonical page in this work as `verified` unless the user explicitly changes the instruction.**
+- initial page manifest: **179 / 179 scans represented**;
+- canonical page records: **3 / 179**;
+- scans 1–3: **verified front matter**;
+- body transcription: **not started**;
+- printed-page mapping: **sampled only / full audit pending**;
+- chapter mapping: **partial**;
+- full Tamil source audit: **not started**;
+- assembled Tamil: **not started**;
+- English translation: **blocked until Tamil gate passes**;
+- source PDF committed: **No**.
 
-Known Periyar-reform-sensitive reference set:
+### Directly confirmed structure / numbering
+
+- scan 4 — Chapter 1 opening; no visible printed page number;
+- scan 5 — printed page 4;
+- scan 13 — Chapter 2;
+- scan 23 — Chapter 3;
+- scan 33 — Chapter 4;
+- scan 45 — Chapter 5;
+- scan 52 — Chapter 6;
+- scan 60 — Chapter 7;
+- scan 68 — Chapter 8;
+- scan 176 — printed page 175;
+- scan 179 — printed page 178, final narrative paragraph plus illustration.
+
+Do not infer later chapter boundaries or unreviewed printed-page values from sequence alone.
+
+### Historical-glyph rule — mandatory from scan 4 onward
+
+Use the source-pixel workflow for the known minimum set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Canonical state remains **0 verified / 49 `needs-review`**. The assembled Tamil layer's **PASSED**, English **VERIFIED**, and qualified release-readiness statuses are independent of that freeze.
+For every doubtful cluster, inspect the complete glyph at enlarged/native resolution, compare same-edition forms if useful, and encode only proven character identity. Do not modernize spelling/grammar/punctuation. Never global-replace. Several sampled body pages also contain later marks; do not merge those into printed text.
 
-### Canonical / Tamil state
+### User-supplied context
 
-- page map: **49 / 49**;
-- canonical page records: **49 / 49**;
-- dedicated full-source audit: **COMPLETE — 49 / 49 directly reviewed**;
-- assembled Tamil: **PASSED — seven files covering narrative scans 8–49**;
-- source PDF committed: **No**.
+The user supplied a synopsis describing the work as rejecting inherent specialness in Friday while narrating a family trapped in a dangerous social situation and the destruction of a vulnerable woman's life. Treat this as contextual orientation only, not canonical source transcription.
 
-Confirmed historical-glyph corrections include scan 14 `ஆவலைக்`, `நின்றார்`; scan 16 `போகிறாயே`; the corrected `நன்றாக` family; scan 25 `வேலை மட்டுந்தானா?`; scan 33 `கண்ணாடி`; scan 43 `இளிச்சவாயனாக`; scan 46 `நானா ஆள்?`; and scan 47 `விட வேணா?`.
+### Exact next activity
 
-The source remains one continuous work with internal headings `உத்தண்டி`, `கண்ணம்மா`, `குமுதா`, `வீரன்`, `உலகநாதர்`, `கண்ணம்மா`.
+Process **scans 4–8** as the first narrative batch:
 
-### English / release state
+1. inspect each scan directly at high resolution;
+2. transcribe printed Tamil only;
+3. populate each visible printed-page value individually;
+4. run historical-glyph pre-correction checks;
+5. separate underlining/handwriting/marks from printed text;
+6. create canonical page records;
+7. update `indexes/page-map.md`, `audit.md`, and the work README;
+8. commit the batch with a narrow descriptive commit.
 
-Working English title: **The Woman of the Great House**.
-
-- English section files: **7 / 7 reviewed**;
-- translation batches: **8 / 8 reviewed**;
-- final bilingual review: **PASSED**;
-- whole-work English: **VERIFIED**;
-- release-readiness pass: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
-- release report: `works/periya-idathup-pen/translations/en/RELEASE_REPORT.md`;
-- repository documentation closeout: `works/periya-idathup-pen/COMPLETION_SYNC_AUDIT.md`.
-
-Accurate package wording:
-
-> **English layer release-ready; archival package RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION — 0 verified / 49 `needs-review`, freeze ACTIVE.**
-
-Section files intentionally retain batch-level `reviewed`; whole-work English `VERIFIED` is established by `translations/en/TRANSLATION_REVIEW.md`.
-
-The final review found one English-only romanisation drift: scan-49 `ரதி` was corrected from **Rathi** to **Rati**. Tamil was unchanged.
-
-Release readiness is an editorial/archival workflow status, not a determination of copyright, licensing, distribution or republication rights.
-
-### No remaining mandatory activity on this title
-
-Do not lift, reinterpret or bypass the canonical Tamil verification freeze automatically. Do not restart source audit, assembly, translation, final bilingual review or release review because an older stage document described them as future work. The repository-wide completion sync marks those older instructions as superseded historical stage notes.
-
-If the user explicitly reopens this title, first preserve the live completed state and the freeze. Otherwise, the next repository activity is to onboard the next source/work supplied or named by the user.
+Stop before scan 9 unless explicitly instructed to continue farther.
 
 ---
 
-## Completed prior work — புதையல்
+## Completed work — பெரிய இடத்துப் பெண்
+
+`works/periya-idathup-pen/` remains complete with **49 / 49** source-comparison coverage, assembled Tamil PASSED, English VERIFIED, and **RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**. Its canonical freeze remains **0 verified / 49 `needs-review`** and must not be lifted automatically.
+
+## Completed work — புதையல்
 
 `புதையல்` remains at its durable release state: **448 / 448** canonical records, **446** completed, two physical-loss scans **223–224** still `needs-review`, assembled Tamil complete, whole-work English VERIFIED, release-ready with those two qualifications.
 
-## Completed prior work — பலிபீடம் நோக்கி
+## Completed work — பலிபீடம் நோக்கி
 
 `பலிபீடம் நோக்கி` remains unchanged: Tamil **34 / 34 verified**, assembled Tamil PASSED, English VERIFIED, archival package RELEASE-READY.
-
-## Exact next repository activity
-
-**Await a new source/work.** Once the user supplies or names one, fetch live `main`, follow `NEXT_NOVEL_CHAT_PROMPT.md`, inspect the actual source, and begin source-first intake. There is currently no active work.
