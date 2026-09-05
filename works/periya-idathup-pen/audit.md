@@ -19,7 +19,7 @@ This audit is **open**. Canonical transcription exists through scan 27, but hist
 | `needs-review` | **27 — scans 1–27** |
 | `partial` | **0** |
 | `not-started` | **22 — scans 28–49** |
-| Historical-glyph retrospective audit | **OPEN — 7 / 27 reviewed; scans 1–7** |
+| Historical-glyph retrospective audit | **OPEN — 8 / 27 reviewed; scans 1–8** |
 | Tamil source layer | **NOT PASSED** |
 | Assembled Tamil | **BLOCKED** |
 | English translation | **BLOCKED** |
@@ -57,22 +57,23 @@ Decode historical character identity into modern Unicode only after direct sourc
 - **Scan 5:** complete; four historical-form occurrences confirmed; two independent lexical corrections.
 - **Scan 6:** complete; five historical-form occurrences confirmed and already encoded correctly; no independent text correction.
 - **Scan 7:** complete; seven historical-form occurrences confirmed; one independent line-break/source-text correction.
+- **Scan 8:** complete; nine historical-form occurrences confirmed; no text correction.
 
-### Scan 7 detail
+### Scan 8 detail
 
-Positive historical-form occurrences:
+The narrative-opening page was re-read at enlarged/high resolution. Positive historical forms already encoded correctly:
 
-- `வெள்ளை` → `ளை`;
-- `விற்பனையாவதிலிருந்து` → `னை`;
-- `மலை` → `லை`;
-- `இன்னொரு` → `னொ`;
-- `மூலை` → `லை`;
-- `போகிறாள்` → `றா`;
-- `முன்னிலையில்` → `லை`.
+- `நினைத்தவாறே` → `றா`;
+- `வேலை` → `லை`;
+- `தோன்றவில்லை` → `லை`;
+- `தோள்களை` → `ளை`;
+- `விழவில்லை` → `லை`;
+- `சிந்தனையைச்` → `னை`;
+- `லீலைகள்` → `லை`;
+- `ஆனால்` → `னா`;
+- `திருப்பினாள்` → `னா`.
 
-All seven were already encoded with their correct modern Unicode identities. The direct enlarged source review also showed that the first paragraph ends with source `உள்ளங்` + `களே`; the canonical reading has therefore been corrected from `உள்ளங்களை` to **`உள்ளங்களே`**. Scan 7 remains `needs-review`.
-
-Source-supported `மாசு மருவற்ற`, `விற்பனையாவதிலிருந்து`, `வெள்ளிடை மலை!`, `திரைக் கதையாக`, punctuation `போகிறாள், என்பதை`, and `என்று உங்கள்,` were rechecked and retained.
+No glyph conversion or independent source-text correction was required. Source-supported `வேலை யெல்லாம்`, `அணிச்சக்`, `இதயப் படுதாவில்`, `ஊர்க் கடைசியிலுள்ள`, the dotted pause before `இருக்கீங்க?`, and the paragraph boundary were rechecked and retained. Scan 8 remains `needs-review`.
 
 ## Existing transcription coverage
 
@@ -88,4 +89,4 @@ The source continues as one work, `பெரிய இடத்துப் ப�
 
 ## Next activity
 
-Audit **scan 8 only**. Inspect the full page at enlarged/high resolution against all 13 historical forms, make only pixel-supported corrections, record the findings, and keep scan 8 `needs-review`. Do not advance to scan 9 in the same activity.
+Audit **scan 9 only**. Inspect the full page at enlarged/high resolution against all 13 historical forms, make only pixel-supported corrections, record the findings, and keep scan 9 `needs-review`. Do not advance to scan 10 in the same activity.
