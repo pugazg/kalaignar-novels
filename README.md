@@ -15,16 +15,15 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - [`HANDOVER.md`](HANDOVER.md)
 - [`NEXT_NOVEL_CHAT_PROMPT.md`](NEXT_NOVEL_CHAT_PROMPT.md)
 
-## Active / qualified-complete work
+## Active work
 
-| நூல் | ஆசிரியர் | பதிப்பு | நிலை |
-|---|---|---|---|
-| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; full Tamil source audit COMPLETE; verification freeze ACTIVE — 0 verified / 49 `needs-review`; assembled Tamil PASSED; English 7/7 sections + 8/8 batches REVIEWED; final bilingual review PASSED; whole-work English VERIFIED; RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION** |
+**None — awaiting the next source/work supplied or named by the user.**
 
 ## Completed works
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
+| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; full Tamil source audit COMPLETE; assembled Tamil PASSED; English VERIFIED; release-readiness PASS; package RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION — freeze ACTIVE, 0 verified / 49 `needs-review`** |
 | [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **448 canonical / 446 verified-complete / 2 physical-loss `needs-review`; Parts 001–010 part-complete; English VERIFIED; repository package RELEASE-READY WITH QUALIFICATION** |
 | [பலிபீடம் நோக்கி](works/balipeedam-nokki/README.md) | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **Tamil 34/34 verified; assembled Tamil PASSED; English VERIFIED; archival package RELEASE-READY** |
 
@@ -32,23 +31,13 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 For older Tamil sources, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) before deciding difficult glyphs. Its governing rule is: **identify the historical character identity from source pixels first, then encode that identity in modern Unicode without modernizing the source wording.** The documented minimum Periyar-reform-sensitive set is `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-The completed whole-work audit of `பெரிய இடத்துப் பெண்` found four dedicated-pass historical-glyph corrections on scans 33, 43, 46 and 47. The passed assembled Tamil reader preserves those final readings and all source-printed internal headings. Its `PASSED` status, English `VERIFIED` status and qualified release verdict do not override the canonical verification freeze.
+The completed whole-work audit of `பெரிய இடத்துப் பெண்` found four dedicated-pass historical-glyph corrections on scans 33, 43, 46 and 47 in addition to the earlier confirmed corrections. The passed assembled Tamil reader preserves those final readings and all source-printed internal headings. Its `PASSED` status, English `VERIFIED` status and qualified release verdict do not override the canonical verification freeze.
 
-## பெரிய இடத்துப் பெண் — final archival / English state
+## பெரிய இடத்துப் பெண் — completed archival / English state
 
 Working English title: **The Woman of the Great House**.
 
-All seven source-structured English section files are **REVIEWED / PASS** at section level:
-
-- [`works/periya-idathup-pen/translations/en/sections/01-opening.md`](works/periya-idathup-pen/translations/en/sections/01-opening.md) — opening, scans 8–15 before `உத்தண்டி`;
-- [`works/periya-idathup-pen/translations/en/sections/02-uthandi.md`](works/periya-idathup-pen/translations/en/sections/02-uthandi.md) — `உத்தண்டி`, scan 15 through scan 19 before `கண்ணம்மா`;
-- [`works/periya-idathup-pen/translations/en/sections/03-kannamma-first.md`](works/periya-idathup-pen/translations/en/sections/03-kannamma-first.md) — first `கண்ணம்மா`, scan 19 through scan 31; planned Batches 3A + 3B both reviewed;
-- [`works/periya-idathup-pen/translations/en/sections/04-kumudha.md`](works/periya-idathup-pen/translations/en/sections/04-kumudha.md) — `குமுதா`, scans 32–37;
-- [`works/periya-idathup-pen/translations/en/sections/05-veeran.md`](works/periya-idathup-pen/translations/en/sections/05-veeran.md) — `வீரன்`, scans 38–44;
-- [`works/periya-idathup-pen/translations/en/sections/06-ulaganathar.md`](works/periya-idathup-pen/translations/en/sections/06-ulaganathar.md) — `உலகநாதர்`, scan 45;
-- [`works/periya-idathup-pen/translations/en/sections/07-kannamma-conclusion.md`](works/periya-idathup-pen/translations/en/sections/07-kannamma-conclusion.md) — final `கண்ணம்மா`, scans 46–49 + separate printer colophon.
-
-The final cross-section bilingual alignment in [`works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md`](works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md) **PASSED**, establishing the **whole-work English translation as VERIFIED**.
+All seven source-structured English section files are **REVIEWED / PASS** at section level. The final cross-section bilingual alignment in [`works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md`](works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md) **PASSED**, establishing the **whole-work English translation as VERIFIED**.
 
 The release-readiness pass in [`works/periya-idathup-pen/translations/en/RELEASE_REPORT.md`](works/periya-idathup-pen/translations/en/RELEASE_REPORT.md) also passed, with the mandatory qualification that canonical Tamil remains **0 verified / 49 `needs-review`** under the active user-mandated freeze.
 
@@ -56,22 +45,19 @@ Therefore the accurate repository status is:
 
 **RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION.**
 
-This means the English layer is release-ready within the archival repository and the full package has completed its release checks, but the canonical Tamil page-status gate is intentionally unresolved by user instruction. It must not be represented as unqualified release-ready unless that instruction changes.
+This means the English layer is release-ready within the archival repository and the full package has completed its release checks, but the canonical Tamil page-status gate is intentionally frozen by user instruction. It must not be represented as unqualified release-ready unless that instruction changes.
 
-The final review also corrected one English-only romanisation drift: source `ரதி` is **Rati**, not the earlier `Rathi`. No Tamil source text changed.
+The final review corrected one English-only romanisation drift: source `ரதி` is **Rati**, not the earlier `Rathi`. No Tamil source text changed.
 
-Control records:
+Completion/status records:
 
+- [`works/periya-idathup-pen/COMPLETION_SYNC_AUDIT.md`](works/periya-idathup-pen/COMPLETION_SYNC_AUDIT.md)
+- [`works/periya-idathup-pen/FULL_TAMIL_SOURCE_AUDIT.md`](works/periya-idathup-pen/FULL_TAMIL_SOURCE_AUDIT.md)
+- [`works/periya-idathup-pen/HISTORICAL_GLYPH_AUDIT.md`](works/periya-idathup-pen/HISTORICAL_GLYPH_AUDIT.md)
+- [`works/periya-idathup-pen/ASSEMBLED_TAMIL_AUDIT.md`](works/periya-idathup-pen/ASSEMBLED_TAMIL_AUDIT.md)
 - [`works/periya-idathup-pen/translations/en/TRANSLATION_PLAN.md`](works/periya-idathup-pen/translations/en/TRANSLATION_PLAN.md)
 - [`works/periya-idathup-pen/translations/en/PROGRESS.md`](works/periya-idathup-pen/translations/en/PROGRESS.md)
 - [`works/periya-idathup-pen/translations/en/GLOSSARY.md`](works/periya-idathup-pen/translations/en/GLOSSARY.md)
-- [`works/periya-idathup-pen/translations/en/BATCH_01_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_01_REVIEW.md)
-- [`works/periya-idathup-pen/translations/en/BATCH_02_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_02_REVIEW.md)
-- [`works/periya-idathup-pen/translations/en/BATCH_03_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_03_REVIEW.md)
-- [`works/periya-idathup-pen/translations/en/BATCH_04_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_04_REVIEW.md)
-- [`works/periya-idathup-pen/translations/en/BATCH_05_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_05_REVIEW.md)
-- [`works/periya-idathup-pen/translations/en/BATCH_06_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_06_REVIEW.md)
-- [`works/periya-idathup-pen/translations/en/BATCH_07_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_07_REVIEW.md)
 - [`works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md`](works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md)
 - [`works/periya-idathup-pen/translations/en/RELEASE_REPORT.md`](works/periya-idathup-pen/translations/en/RELEASE_REPORT.md)
 
