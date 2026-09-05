@@ -1,5 +1,19 @@
 # English Translation Plan — பெரிய இடத்துப் பெண்
 
+## Execution status — FULLY EXECUTED
+
+This plan has been completed end to end.
+
+- English section files: **7 / 7 reviewed**;
+- planned translation batches: **8 / 8 reviewed**;
+- final bilingual review: **PASSED**;
+- whole-work English: **VERIFIED**;
+- release report: **COMPLETE**;
+- release-readiness: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
+- canonical Tamil freeze: **ACTIVE — 0 verified / 49 `needs-review`**.
+
+Sections 1–18 below remain the controlling translation policy/history. Sections 19–20 record the completed final/release state rather than an unfinished next activity.
+
 ## 1. Objective
 
 Create a clear, source-faithful English translation of **மு. கருணாநிதியின் `பெரிய இடத்துப் பெண்`** from the completed Tamil archival layers without rewriting it as a modern adaptation.
@@ -8,9 +22,9 @@ Working English title:
 
 **The Woman of the Great House**
 
-This is a provisional reading title for `பெரிய இடத்துப் பெண்`. The Tamil title remains authoritative. `Great House` is intended to preserve the source's recurring social-status / wealthy-household sense (`பணக்கார வீட்டுப்பெண்`, `சீமான் வீட்டுச் செல்வி`, `பெரிய இடத்து விஷயம்`) without treating the phrase as a formal aristocratic title. The English title may be reconsidered during final review, but only as an English editorial choice; the Tamil title must not be altered.
+This is the English reading title used for `பெரிய இடத்துப் பெண்`. The Tamil title remains authoritative. `Great House` preserves the source's recurring social-status / wealthy-household sense (`பணக்கார வீட்டுப்பெண்`, `சீமான் வீட்டுச் செல்வி`, `பெரிய இடத்து விஷயம்`) without treating the phrase as a formal aristocratic title.
 
-The translation must preserve the work's changing first-person viewpoints, satire, accusation, melodrama, moral argument, colloquial speech, repeated rhetorical questions, religious/mythological comparisons and contradictions between narrators.
+The translation preserves the work's changing first-person viewpoints, satire, accusation, melodrama, moral argument, colloquial speech, repeated rhetorical questions, religious/mythological comparisons and contradictions between narrators.
 
 ---
 
@@ -27,7 +41,7 @@ The source-printed headings are internal character-account transitions, not sepa
 5. `உலகநாதர்`
 6. `கண்ணம்மா`
 
-The English layer must preserve this order and the fact that the accounts contradict, reinterpret and expose one another.
+The English layer preserves this order and the fact that the accounts contradict, reinterpret and expose one another.
 
 ### Narrator-isolation rule
 
@@ -47,11 +61,11 @@ Translation authority is:
 
 If assembled Tamil and canonical `pages/` appear to disagree, stop and follow the canonical page record unless the Tamil archival layer is explicitly corrected from source evidence first.
 
-The user-mandated canonical verification freeze remains active: **0 `verified` / 49 `needs-review`**. English work must not change those statuses.
+The user-mandated canonical verification freeze remains active: **0 `verified` / 49 `needs-review`**. English work does not change those statuses.
 
 ---
 
-## 4. Planned English file structure
+## 4. English file structure
 
 ```text
 works/periya-idathup-pen/translations/en/
@@ -71,7 +85,7 @@ works/periya-idathup-pen/translations/en/
   RELEASE_REPORT.md
 ```
 
-The seven final English section files mirror the seven passed Tamil reading files. Translation may be worked in smaller batches, but the reader-facing structure remains the source-derived seven-section sequence.
+The seven final English section files mirror the seven passed Tamil reading files. Translation was worked in eight controlled batches because the first Kannamma section was split into Batches 3A and 3B.
 
 ---
 
@@ -88,15 +102,15 @@ The seven final English section files mirror the seven passed Tamil reading file
 | **6** | `sections/06-ulaganathar.md` | scan 45 | `sections/06-ulaganathar.md` | Ulaganathar's brief first-person response |
 | **7** | `sections/07-kannamma-conclusion.md` | scans 46–49 | `sections/07-kannamma-conclusion.md` | Kannamma's final confession, Kumudha's hidden letter, Calcutta ending, printer colophon |
 
-No source text may be duplicated or omitted at the scan-15 and scan-19 mid-page heading splits.
+No source text is duplicated or omitted at the scan-15 and scan-19 mid-page heading splits.
 
 ---
 
 ## 6. Pilot and style lock
 
-Batch 1 is the mandatory pilot.
+Batch 1 was the mandatory pilot. It was reviewed before later batches proceeded.
 
-Before Batch 2 begins, review Batch 1 for:
+The pilot locked recurring choices for:
 
 - the working English title and translation of `பெரிய இடத்து` social-status language;
 - Ulaganathar / Kannamma / Veeran name forms;
@@ -106,7 +120,7 @@ Before Batch 2 begins, review Batch 1 for:
 - rhetorical punctuation, ellipses and repeated exclamations;
 - paragraph mapping and scan provenance.
 
-Only after the pilot review should recurring choices be locked into `GLOSSARY.md` and the translation conventions.
+Later recurring decisions were added to `GLOSSARY.md` through Batch 7 and the final bilingual review.
 
 ---
 
@@ -127,11 +141,11 @@ Only after the pilot review should recurring choices be locked into `GLOSSARY.md
 
 ## 8. Standard translator's note
 
-Each final English section should carry a concise note near the beginning:
+Each final English section carries or follows the policy represented by this concise note:
 
 > **Translator's note:** This translation follows the source-audited Tamil preserved in this repository. The canonical Tamil page records remain authoritative. The English preserves the work's source-printed character accounts, rhetoric, colloquial language and historical-period vocabulary without silently modernising the Tamil. The canonical pages remain under the project's separate verification freeze.
 
-Do not repeat long editorial explanations inside the prose.
+Long editorial explanations are kept outside the prose.
 
 ---
 
@@ -139,7 +153,7 @@ Do not repeat long editorial explanations inside the prose.
 
 Use readable romanization without academic diacritics unless a later release policy requires them.
 
-| Tamil source form | Planned English form | Rule |
+| Tamil source form | English form | Rule |
 |---|---|---|
 | `உலகநாதர்` | **Ulaganathar** | character name; do not translate semantically |
 | `உலகநாத முதலியார்` | **Ulaganatha Mudaliar** | retain `Mudaliar` when explicitly printed; do not silently erase the title/form |
@@ -153,33 +167,33 @@ Use readable romanization without academic diacritics unless a later release pol
 
 ### Kinship / address forms
 
-- `அத்தான்`: do not automatically flatten to “husband” or “cousin.” In Kumudha's context the source establishes Veeran as Uthandi's sister's son and intended husband. The pilot should test retaining **Aththan** with a short first-use gloss.
+- `அத்தான்`: retain **Aththan** where the relation/address matters. In Kumudha's context the source establishes Veeran as Uthandi's sister's son and intended husband.
 - `மாமா`: translate contextually as **uncle** where the family relation is explicit.
-- `அண்ணி`: do not force a literal kinship equivalent if the household-address usage would mislead. Retain **Anni** with a brief gloss if needed.
+- `அண்ணி`: do not force a literal kinship equivalent if the household-address usage would mislead. Retain **Anni** where needed.
 - `அம்மா / அம்மாள்`: distinguish ordinary respectful address from a formal name/title; do not mechanically transliterate every occurrence.
 
 ---
 
 ## 10. Social, moral and sexual vocabulary
 
-These are glossary candidates requiring context-sensitive but consistent treatment:
+These are context-sensitive but controlled choices:
 
-| Tamil | Initial English handling | Policy |
+| Tamil | English handling | Policy |
 |---|---|---|
 | `கற்பு` | **chastity / sexual fidelity** | choose by context; do not reduce every occurrence to one English noun |
 | `பத்தினி` | **chaste / devoted wife** | preserve the moral-religious register |
-| `விபசாரி` | **adulteress / prostitute** | decide by local accusation/context; do not euphemise or over-intensify |
-| `வேசி` | **whore / prostitute** | stronger invective than neutral description; pilot must lock tone |
-| `கற்பழிக்கப்பட்டாள்` | **was raped / was sexually violated** | use the direct meaning supported by the passage; do not obscure agency |
-| `சீதனம்` | **dowry / marriage property** | glossary candidate; use the term that best fits each sentence without importing legal detail absent from source |
-| `வைதீக உலகம்` | **Vaidika / orthodox religious world** | preserve the source's polemical framing; glossary if retained |
-| `குடியானவன்` | **tenant cultivator / cultivator** | do not invent a precise legal tenancy status not established by the source |
-| `பண்ணையாள்` | **estate/farm labourer** | context-sensitive |
+| `விபசாரி` | **adulteress** in the contexts used here | do not euphemise or over-intensify |
+| `வேசி` | **whore / prostitute** according to sentence | stronger invective; preserve speaker attribution |
+| `கற்பழிக்கப்பட்டாள்` | **was raped** | final direct rendering; do not obscure the coercion |
+| `சீதனம்` | **dowry** | do not import legal detail absent from source |
+| `வைதீக உலகம்` | **Vaidika world** | preserve the source's polemical framing |
+| `குடியானவன்` | **cultivator** | do not invent a precise legal tenancy status not established by the source |
+| `பண்ணையாள்` | **estate labourer** | functional class description supported by context |
 | `கூலிக்காரன்` | **wage labourer / labourer** | preserve class register |
 | `எஜமான்` | **master / employer** | choose according to household/employment context |
-| `எஜமானி` | **mistress of the house / female employer** | avoid modern sexual sense of “mistress” where misleading; phrase explicitly when needed |
+| `எஜமானி` | **lady of the house / female employer** | avoid the misleading modern sexual sense of “mistress” |
 
-The text's class and gender judgments are the speakers'/author's source rhetoric. Translation must neither endorse nor sanitize them through added commentary.
+The text's class and gender judgments are the speakers'/author's source rhetoric. Translation neither endorses nor sanitizes them through added commentary.
 
 ---
 
@@ -187,13 +201,13 @@ The text's class and gender judgments are the speakers'/author's source rhetoric
 
 The work repeatedly uses religious language both devotionally and satirically. Preserve that dual use.
 
-Initial glossary candidates include:
+Controlled forms include:
 
-- `நைவேத்தியம்` — retain **naivedyam** or translate **ritual offering** according to sentence; first use may carry a short gloss;
-- `பக்தி`, `பக்திமணி`, `பக்த சிரோன்மணி` — preserve the elevated devotional register and its irony where present;
-- `யம லோகம்` — **Yama's realm / Yamaloka**, decision to be locked in pilot/glossary;
-- `மோட்ச சாம்ராஜ்யம்` — preserve the salvation/heavenly-kingdom rhetoric without doctrinal expansion;
-- mythological names `அகல்யை`, `தாரை`, `பார்வதி`, `பிரம்மா`, `பத்திர காளி`, `இந்திரன்`, `இந்திராணி`, `ரதி`, `மன்மதன்` — use stable readable English forms (Ahalya, Tara, Parvati, Brahma, Bhadrakali, Indra, Indrani, Rati, Manmatha) while translating only what the source states about them.
+- `நைவேத்தியம்` — **naivedyam**, with contextual gloss where needed;
+- `பக்தி`, `பக்திமணி`, `பக்த சிரோன்மணி` — elevated devotional register and irony preserved;
+- `யம லோகம்` — **Yama's realm**;
+- `மோட்ச சாம்ராஜ்யம்` — salvation/heavenly-kingdom rhetoric without doctrinal expansion;
+- mythological names `அகல்யை`, `தாரை`, `பார்வதி`, `பிரம்மா`, `பத்திர காளி`, `இந்திரன்`, `இந்திராணி`, `ரதி`, `மன்மதன்` — stable readable English forms Ahalya, Tara, Parvati, Brahma, Bhadrakali, Indra, Indrani, **Rati**, Manmatha.
 
 Do not use outside mythological knowledge to complete, correct or reinterpret the source's allusions inside the translation.
 
@@ -209,7 +223,7 @@ Policy:
 - retain/transliterate the Tamil term with a glossary note where an English equivalent would overstate institutional precision;
 - never silently rewrite the Tamil source to match the chosen English gloss.
 
-`தலையாரி` is a priority pilot glossary item because Uthandi's role is important to the class/debt structure of the story.
+`தலையாரி` is retained as **talaiyari** rather than over-specifying the office.
 
 ---
 
@@ -240,7 +254,7 @@ For any such form:
 3. do not silently normalize the canonical Tamil;
 4. if translation work exposes a plausible Tamil transcription problem, stop and re-open the source evidence before changing either layer.
 
-The canonical historical-glyph corrections (`கண்ணாடி`, `இளிச்சவாயனாக`, `நானா ஆள்?`, `விட வேணா?` and earlier corrections) are already settled source readings and must be translated from those corrected forms.
+The canonical historical-glyph corrections (`கண்ணாடி`, `இளிச்சவாயனாக`, `நானா ஆள்?`, `விட வேணா?` and earlier corrections) are settled source readings and are translated from those corrected forms.
 
 ---
 
@@ -249,7 +263,7 @@ The canonical historical-glyph corrections (`கண்ணாடி`, `இளி�
 - Preserve who speaks and the source's quotation scope; do not invent missing speaker labels.
 - English quotation marks may be typographically standardized, but quotation **content and boundary** must remain source-driven.
 - Preserve rhetorical questions and exclamation density where they carry the voice.
-- Preserve meaningful ellipses / repeated-dot pauses; do not collapse them merely for house style during drafting.
+- Preserve meaningful ellipses / repeated-dot pauses; do not collapse them merely for house style.
 - Em dashes or parentheses may be used only where they correspond to source punctuation/structure or are necessary for English syntax without changing meaning.
 - Do not add terminal punctuation at a source page boundary merely because English style would prefer it; assembled source joins govern continuity.
 - Preserve Kumudha's letter-like rhetoric and signed closing as a distinct visual unit.
@@ -259,20 +273,9 @@ The canonical historical-glyph corrections (`கண்ணாடி`, `இளி�
 
 ## 15. Translation traceability
 
-Each English section should begin with front matter such as:
+Each English section uses front matter tied to its source section/scans and canonical source. Unobtrusive HTML provenance comments are retained at meaningful scan boundaries and established joins.
 
-```yaml
----
-work: "periya-idathup-pen"
-language: "en"
-translation_status: "draft-translated"
-source_section: "../../../sections/01-opening.md"
-source_scans: "8-15 (before Uthandi heading)"
-canonical_source: "../../../pages/"
----
-```
-
-Retain unobtrusive HTML provenance comments at meaningful scan boundaries, for example:
+Example:
 
 ```html
 <!-- source: scan 12; printed page: 11 -->
@@ -284,43 +287,47 @@ For an established join:
 <!-- source join: scan 14 `நினைக்` + scan 15 `காதே!` → `நினைக்காதே!` -->
 ```
 
-The provenance comments must not become visible explanatory prose in the normal reader.
+The provenance comments are not visible explanatory prose in the normal reader.
 
 ---
 
 ## 16. English review states
 
-Use:
+The workflow used:
 
 - `draft-translated` — complete first English draft exists for the stated range;
 - `source-checked` — every paragraph/dialogue unit checked against canonical Tamil and provenance;
 - `reviewed` — meaning, voice, terminology, names, rhetoric and English readability reviewed;
-- `verified` — final bilingual alignment and section-boundary review complete.
+- whole-work `verified` — final bilingual alignment and section-boundary review complete.
 
-English `verified` is an English-layer status only. It does **not** change the canonical Tamil verification freeze or convert any Tamil page from `needs-review`.
+Final section files intentionally retain batch-level `reviewed`. Whole-work English **VERIFIED** is recorded by `TRANSLATION_REVIEW.md`.
+
+English verification is an English-layer status only. It does **not** change the canonical Tamil verification freeze or convert any Tamil page from `needs-review`.
 
 ---
 
 ## 17. Per-batch review checklist
 
-After every batch:
+After every batch the workflow checked:
 
-1. confirm every Tamil paragraph / dialogue / heading in the batch is represented;
-2. confirm names, kinship terms, numbers, money amounts, places and occupations;
-3. confirm speaker agency and viewpoint have not shifted;
-4. confirm accusations, insults, sexual/moral vocabulary, irony and rhetorical questions are neither softened nor intensified;
-5. confirm mythological/religious comparisons are translated only from source content;
-6. verify all page-boundary joins against canonical `pages/`;
-7. verify no unusual Tamil form was silently normalized;
-8. update `GLOSSARY.md` only for recurring decisions supported by the text;
-9. update `PROGRESS.md`, translation `README.md`, work `README.md` and handover;
-10. do not mark a section `verified` until source-check and English review are both complete.
+1. every Tamil paragraph / dialogue / heading represented;
+2. names, kinship terms, numbers, money amounts, places and occupations;
+3. speaker agency and viewpoint;
+4. accusations, insults, sexual/moral vocabulary, irony and rhetorical questions for unintended softening/intensification;
+5. mythological/religious comparisons only from source content;
+6. page-boundary joins against canonical `pages/`;
+7. unusual Tamil forms against silent normalization;
+8. recurring source-supported decisions in `GLOSSARY.md`;
+9. progress/status documentation;
+10. section status only after source-check and English review.
+
+All eight planned batches passed their review records.
 
 ---
 
 ## 18. Final bilingual review
 
-After all batches are complete, create `TRANSLATION_REVIEW.md` and check end-to-end for:
+After all batches were complete, `TRANSLATION_REVIEW.md` checked end-to-end for:
 
 - omitted or duplicated material;
 - changed speaker responsibility / chronology;
@@ -334,27 +341,36 @@ After all batches are complete, create `TRANSLATION_REVIEW.md` and check end-to-
 - final Calcutta sequence and printer-colophon separation;
 - English readability without rewriting the source.
 
----
-
-## 19. Release gate under the verification freeze
-
-Translation may proceed because the dedicated Tamil source-comparison audit is complete and the assembled Tamil layer is PASSED. However, completing English does **not** automatically make the whole archival package release-ready.
-
-A future release report must explicitly record the canonical state then in force. If the user-mandated freeze still remains **0 `verified` / 49 `needs-review`**, the report must carry that qualification or wait for explicit user disposition; English completion must not silently override it.
+**Result: PASSED.** One final English consistency correction changed scan-49 **Rathi → Rati**; no Tamil text changed.
 
 ---
 
-## 20. Current status and exact next activity
+## 19. Completed release gate under the verification freeze
+
+Translation was permitted because the dedicated Tamil source-comparison audit was complete and the assembled Tamil layer had PASSED. The final bilingual review subsequently PASSED and established whole-work English **VERIFIED**.
+
+`RELEASE_REPORT.md` was then created and the release-readiness/navigation/inventory checks PASSED.
+
+Because the user-mandated canonical freeze still remains **0 `verified` / 49 `needs-review`**, the release report explicitly carries that qualification. English completion does not override it.
+
+Final package wording:
+
+> **English layer release-ready; archival package RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION — 0 verified / 49 `needs-review`, freeze ACTIVE.**
+
+---
+
+## 20. Final completion state
 
 **Tamil canonical coverage:** 49 / 49  
 **Dedicated Tamil source comparison:** COMPLETE  
 **Assembled Tamil:** PASSED  
 **Canonical verification freeze:** ACTIVE — 0 verified / 49 `needs-review`  
-**English translation plan:** COMPLETE  
-**English prose:** NOT STARTED
+**English translation plan:** COMPLETE / FULLY EXECUTED  
+**English sections:** 7 / 7 reviewed  
+**Translation batches:** 8 / 8 reviewed  
+**Final bilingual review:** PASSED  
+**Whole-work English:** VERIFIED  
+**Release report:** COMPLETE  
+**Release-readiness:** PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION
 
-### Next exact activity
-
-Begin **Batch 1 — pilot translation of `sections/01-opening.md`**, covering scan 8 through scan 15 immediately before the `உத்தண்டி` heading.
-
-At the start of the pilot, create/update `translations/en/README.md`, `PROGRESS.md` and the initial `GLOSSARY.md`. Before Batch 2, source-check and review the pilot and lock the first recurring decisions: the working English title, `பெரிய இடத்து` status language, names, household/class terms, dialogue tone, rhetorical punctuation and initial glossary entries.
+There is **no remaining translation activity** for this source edition under the current instructions. Preserve the final glossary/review/release records and the canonical freeze. Reopen only if the user explicitly changes the freeze or asks to revisit source/translation evidence.
