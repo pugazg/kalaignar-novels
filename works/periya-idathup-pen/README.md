@@ -21,7 +21,7 @@ The attached scan is the controlling source.
 - Tamil source-comparison audit: **COMPLETE**;
 - assembled Tamil reading layer: **PASSED — 7 source-structured files covering narrative scans 8–49**;
 - English translation plan: **COMPLETE**;
-- English translation: **STARTED — Batch 1 opening pilot REVIEWED; 1 / 7 sections reviewed, 0 / 7 verified**;
+- English translation: **STARTED — Batches 1 and 2 REVIEWED; 2 / 7 sections reviewed, 0 / 7 verified**;
 - source PDF committed: **No**.
 
 Key records:
@@ -37,6 +37,7 @@ Key records:
 - [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/BATCH_01_REVIEW.md`](translations/en/BATCH_01_REVIEW.md)
+- [`translations/en/BATCH_02_REVIEW.md`](translations/en/BATCH_02_REVIEW.md)
 - [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md)
 
 ## Verification freeze
@@ -107,17 +108,23 @@ Authority hierarchy remains:
 
 `source scan → canonical pages/ → passed Tamil sections/ → English`
 
-Batch 1 / pilot:
+Batch 1 / opening pilot:
 
 - source: `sections/01-opening.md` — scans 8–15 before `உத்தண்டி`;
 - English: [`translations/en/sections/01-opening.md`](translations/en/sections/01-opening.md);
-- draft translation: complete;
-- canonical source-check: complete;
-- English review: complete;
 - status: **REVIEWED**;
 - Tamil canonical changes caused by translation: **none**.
 
-Pilot style/term decisions are locked in [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md), with the complete checklist in [`translations/en/BATCH_01_REVIEW.md`](translations/en/BATCH_01_REVIEW.md).
+Batch 2 / Uthandi:
+
+- source: `sections/02-uthandi.md` — scan 15 `உத்தண்டி` through scan 19 before `கண்ணம்மா`;
+- English: [`translations/en/sections/02-uthandi.md`](translations/en/sections/02-uthandi.md);
+- status: **REVIEWED**;
+- source-check confirmed all four physical-boundary continuities in the range;
+- Uthandi's hereditary-servitude, debt, wage, marriage/dowry and self-blaming vocabulary preserved without importing later narrator knowledge;
+- Tamil canonical changes caused by translation: **none**.
+
+Translation decisions are synchronized in [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md); batch-specific checks are in the two review records.
 
 ## Printed-page behaviour
 
@@ -128,4 +135,4 @@ Pilot style/term decisions are locked in [`translations/en/GLOSSARY.md`](transla
 
 ## Next activity
 
-Translate and review **English Batch 2 — `உத்தண்டி`**, from scan 15 at the source heading through scan 19 immediately before the first `கண்ணம்மா` heading. Use canonical scans 15–19 as final textual authority, update glossary/progress only for decisions actually encountered, and keep all 49 canonical pages `needs-review` under the active verification freeze.
+Translate and review **English Batch 3A — first `கண்ணம்மா` account**, from the `கண்ணம்மா` heading on scan 19 through scan 24. Preserve Kannamma's own self-justifying viewpoint and do not reconcile it with Uthandi or later narrators. Use canonical scans 19–24 as final textual authority and keep all 49 canonical pages `needs-review` under the active verification freeze.

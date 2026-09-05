@@ -24,6 +24,7 @@ English records:
 - [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/BATCH_01_REVIEW.md`](translations/en/BATCH_01_REVIEW.md)
+- [`translations/en/BATCH_02_REVIEW.md`](translations/en/BATCH_02_REVIEW.md)
 
 ## Current gate
 
@@ -39,9 +40,9 @@ English records:
 | Tamil source-comparison audit | **COMPLETE** |
 | Assembled Tamil reading layer | **PASSED — 7 files / narrative scans 8–49** |
 | English translation plan | **COMPLETE** |
-| English drafted | **1 / 7 sections** |
-| English source-checked | **1 / 7 sections** |
-| English reviewed | **1 / 7 sections** |
+| English drafted | **2 / 7 sections** |
+| English source-checked | **2 / 7 sections** |
+| English reviewed | **2 / 7 sections** |
 | English verified | **0 / 7 sections** |
 
 ## Historical-glyph rule
@@ -107,22 +108,27 @@ Narrative scans **8–49** are represented in seven source-structured reading fi
 English file: [`translations/en/sections/01-opening.md`](translations/en/sections/01-opening.md)  
 Source: scans **8–15 immediately before `உத்தண்டி`**.
 
+Result: **REVIEWED / PASS; not final verified.** No Tamil canonical correction was required.
+
+## English Batch 02 audit
+
+English file: [`translations/en/sections/02-uthandi.md`](translations/en/sections/02-uthandi.md)  
+Source: scan **15 `உத்தண்டி` heading through scan 19 immediately before `கண்ணம்மா`**.
+
 Checks completed:
 
-- all source paragraphs represented;
-- title/star and opening frame represented;
-- scan 9→10 no-terminal-punctuation continuity preserved;
-- scan 11→12 `கிடப்பதாகக்` and scan 14→15 `நினைக்காதே!` joins remain traceable;
-- names, class/status vocabulary, satire, theatrical metaphor, ritual metaphor and rhetorical punctuation reviewed;
-- no narrator viewpoint was supplemented from later testimony;
-- no new Tamil correction was required.
+- all Uthandi paragraphs represented;
+- hereditary-servitude, debt/mortgage, 500-rupee loan, wage proposal, marriage/dowry plan and paternal remorse represented;
+- Uthandi's limited first-person viewpoint preserved without importing later narrator knowledge;
+- scan 15→16 `தெரிந்தது.`, 16→17 `நம் வீட்டு`, 17→18 `கண்டது போலத்தானே!`, and 18→19 `என்றேன்.` continuities preserved with provenance;
+- `தலையாரி` retained as `talaiyari`; `அண்ணி` retained as `Anni` where the household-address form matters;
+- `விபசாரி` rendered `adulteress` in the immediate accusation context;
+- `பசீர்`, `சப்பைக்கட்டுகள்`, `கபோதி`, `செக்கச் செவேல்`, and `பாழும்` handled cautiously and documented rather than normalized;
+- scan-19 `கண்ணம்மா` heading correctly excluded from Batch 2;
+- no new Tamil correction required.
 
-One English-side interpretation was corrected during review: source `அந்த மகானுபாவன் மாதிரி பார்க்கக்கூட இல்லை` now reads **“this great soul was not even much to look at”** in the English pilot, consistent with the immediate mockery of Ulaganathar's appearance and his later delusion about his beauty. Canonical Tamil was unchanged.
-
-Source-sensitive `சங்கார`, `வீரனத்திக்கு முக்காட`, and `பொங்கல் பள்ளயம் பாவாடை` decisions are explicitly recorded in the translation glossary/review rather than silently normalised.
-
-**Batch 01 English: REVIEWED / PASS; not final verified.**
+**Batch 02 English: REVIEWED / PASS; not final verified.**
 
 ## Exact next activity
 
-Translate **English Batch 2 — `உத்தண்டி`**, from the source heading on scan 15 through scan 19 immediately before the first `கண்ணம்மா` heading. Source-check/review that complete account before Batch 3A. Keep all canonical Tamil pages `needs-review` under the active verification freeze.
+Translate **English Batch 3A — first `கண்ணம்மா` account**, from the `கண்ணம்மா` heading on scan 19 through scan 24. Preserve Kannamma's self-justifying viewpoint, source rhetoric and contradictions without reconciling them with Uthandi or later narrators. Source-check/review the batch before Batch 3B. Keep all canonical Tamil pages `needs-review` under the active verification freeze.

@@ -19,7 +19,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; dedicated full Tamil source audit COMPLETE — 49/49 directly reviewed; verification freeze ACTIVE; 0 verified / 49 `needs-review`; assembled Tamil PASSED across 7 source-structured files; English plan COMPLETE; Batch 1 opening pilot REVIEWED; English 1/7 sections reviewed, 0/7 verified; next: Uthandi Batch 2** |
+| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; full Tamil source audit COMPLETE; verification freeze ACTIVE — 0 verified / 49 `needs-review`; assembled Tamil PASSED; English plan COMPLETE; Batches 1 and 2 REVIEWED; English 2/7 sections reviewed, 0/7 verified; next: Kannamma Batch 3A** |
 
 ## Completed works
 
@@ -32,27 +32,28 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 For older Tamil sources, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) before deciding difficult glyphs. Its governing rule is: **identify the historical character identity from source pixels first, then encode that identity in modern Unicode without modernizing the source wording.** The documented minimum Periyar-reform-sensitive set is `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-The completed whole-work audit of `பெரிய இடத்துப் பெண்` demonstrates why the second pass is required. Four first-pass look-alike readings were corrected from direct pixels during the dedicated audit:
+The completed whole-work audit of `பெரிய இடத்துப் பெண்` found four dedicated-pass historical-glyph corrections on scans 33, 43, 46 and 47. The passed assembled Tamil reader preserves those final readings and all source-printed internal headings. Its `PASSED` status does not override the canonical verification freeze.
 
-- scan 33 `கண்ணடி` → `கண்ணாடி` (`ணா`);
-- scan 43 `இளிச்சவாயனுக` → `இளிச்சவாயனாக` (`னா`);
-- scan 46 `நானு ஆள்?` → `நானா ஆள்?` (`னா`);
-- scan 47 `விட வேணு?` → `விட வேணா?` (`ணா`).
-
-The passed assembled Tamil reader preserves those final canonical readings, all source-printed internal headings and audit-established page-boundary joins. Its `PASSED` status does not override the canonical verification freeze.
-
-## பெரிய இடத்துப் பெண் — English pilot
+## பெரிய இடத்துப் பெண் — English translation
 
 Working English title: **The Woman of the Great House**.
 
-Batch 1 covers scan 8 through scan 15 immediately before the `உத்தண்டி` heading. It is now drafted, canonical-source-checked and **REVIEWED**. Pilot decisions are recorded in:
+Completed reviewed English sections:
+
+- [`works/periya-idathup-pen/translations/en/sections/01-opening.md`](works/periya-idathup-pen/translations/en/sections/01-opening.md) — opening pilot, scans 8–15 before `உத்தண்டி`;
+- [`works/periya-idathup-pen/translations/en/sections/02-uthandi.md`](works/periya-idathup-pen/translations/en/sections/02-uthandi.md) — `உத்தண்டி`, scan 15 heading through scan 19 before `கண்ணம்மா`.
+
+Batch 2 preserves Uthandi's hereditary-servitude, class/debt, wage, marriage/dowry and self-blaming vocabulary. Its page-boundary continuities were source-checked, difficult source forms were recorded in the translation glossary, and no Tamil canonical correction was triggered.
+
+Control records:
 
 - [`works/periya-idathup-pen/translations/en/TRANSLATION_PLAN.md`](works/periya-idathup-pen/translations/en/TRANSLATION_PLAN.md)
 - [`works/periya-idathup-pen/translations/en/PROGRESS.md`](works/periya-idathup-pen/translations/en/PROGRESS.md)
 - [`works/periya-idathup-pen/translations/en/GLOSSARY.md`](works/periya-idathup-pen/translations/en/GLOSSARY.md)
 - [`works/periya-idathup-pen/translations/en/BATCH_01_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_01_REVIEW.md)
+- [`works/periya-idathup-pen/translations/en/BATCH_02_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_02_REVIEW.md)
 
-No Tamil canonical correction was triggered by the English pilot. Next English activity is the complete `உத்தண்டி` account, scan 15 heading through scan 19 before the first `கண்ணம்மா` heading.
+Next English activity is **Batch 3A — the first `கண்ணம்மா` account, scan 19 heading through scan 24**.
 
 ## புதையல் — final release state
 
@@ -63,18 +64,6 @@ Final source count after the user's **2026-09-03 Part-005 re-review**:
 - canonical: **448**;
 - verified / completed: **446**;
 - `needs-review`: **2 — only scans 223–224**, where substantial portions of the paper are physically absent;
-- scans **215–219** are now closed by direct user review;
 - assembled Tamil and English remain complete through scan 448;
 - whole-work English remains **VERIFIED**;
 - release status remains **RELEASE-READY WITH TWO PHYSICAL-LOSS QUALIFICATIONS**.
-
-The user supplied exact corrections on scans 215–216, including `பரிமளாவும்`, `கொழுந்தாம்`, `புண்ணுக்கு மருந்து கேள்; தருகிறேன்.`, and `அவன் வீரனாக`; these are synchronized through canonical Tamil, assembled Tamil and English.
-
-Final records:
-
-- complete-source manifest: [`works/pudhaiyal/indexes/FULL_SOURCE_PAGE_MAP.md`](works/pudhaiyal/indexes/FULL_SOURCE_PAGE_MAP.md)
-- whole-work Tamil audit: [`works/pudhaiyal/audit.md`](works/pudhaiyal/audit.md)
-- Part-005 audit: [`works/pudhaiyal/notes/part-005-tamil-audit.md`](works/pudhaiyal/notes/part-005-tamil-audit.md)
-- verified English reader index: [`works/pudhaiyal/translations/en/README.md`](works/pudhaiyal/translations/en/README.md)
-- final bilingual review: [`works/pudhaiyal/translations/en/TRANSLATION_REVIEW.md`](works/pudhaiyal/translations/en/TRANSLATION_REVIEW.md)
-- release report: [`works/pudhaiyal/translations/en/RELEASE_REPORT.md`](works/pudhaiyal/translations/en/RELEASE_REPORT.md)

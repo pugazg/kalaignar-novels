@@ -9,7 +9,7 @@
 - Current target: `works/periya-idathup-pen/`
 - Completed reference implementation: `works/balipeedam-nokki/`
 
-Before changing the active work, fetch live `main` first and read the root guides/README/handover plus the active-work README, `audit.md`, `FULL_TAMIL_SOURCE_AUDIT.md`, `HISTORICAL_GLYPH_AUDIT.md`, `ASSEMBLED_TAMIL_AUDIT.md`, `sections/README.md`, translation plan/progress/glossary and relevant source/translation sections. The attached PDF remains controlling and must not be committed.
+Before changing the active work, fetch live `main` first and read the root guides/README/handover plus the active-work README, `audit.md`, Tamil audit records, `ASSEMBLED_TAMIL_AUDIT.md`, `sections/README.md`, translation plan/progress/glossary, completed batch reviews and relevant source/translation sections. The attached PDF remains controlling and must not be committed.
 
 ## பெரிய இடத்துப் பெண் — source identity
 
@@ -37,81 +37,34 @@ Determine character identity from source pixels and encode that identity in mode
 
 The assembled Tamil layer's **PASSED** status and English-layer review states are independent of canonical verification. Canonical state remains **0 verified / 49 `needs-review`**.
 
-## Historical-glyph checkpoint
-
-Confirmed historical corrections include:
-
-- scan 14 `ஆவலைக்`, `நின்றார்`;
-- scan 16 `போகிறாயே`;
-- scans 20–24 the corrected `நன்றாக` family and `விழுவேன் என்றானா?`;
-- scan 25 `வேலை மட்டுந்தானா?`;
-- scan 33 `கண்ணடி` → **`கண்ணாடி`** (`ணா`);
-- scan 43 `இளிச்சவாயனுக` → **`இளிச்சவாயனாக`** (`னா`);
-- scan 46 `நானு ஆள்?` → **`நானா ஆள்?`** (`னா`);
-- scan 47 `விட வேணு?` → **`விட வேணா?`** (`ணா`).
-
-The last four were discovered during the dedicated whole-work source audit by enlarged-pixel and same-edition comparison.
-
-## Canonical / source-audit state
+## Canonical / Tamil state
 
 - page map: **49 / 49**;
 - canonical page records: **49 / 49**;
 - dedicated full-source audit: **COMPLETE — 49 / 49 directly reviewed**;
-- remaining full-source audit coverage: **0**;
+- assembled Tamil: **PASSED**;
 - source PDF committed: **No**.
 
-Final-source continuities directly established include:
+Confirmed historical corrections include scan 14 `ஆவலைக்`, `நின்றார்`; scan 16 `போகிறாயே`; corrected `நன்றாக` family; scan 25 `வேலை மட்டுந்தானா?`; scan 33 `கண்ணாடி`; scan 43 `இளிச்சவாயனாக`; scan 46 `நானா ஆள்?`; scan 47 `விட வேணா?`.
 
-- scan 41 `கல்யா` + scan 42 `ணத்தை` → `கல்யாணத்தை`;
-- scan 43 `கடவுள்` + scan 44 `பொறுப்பாரா?`;
-- scan 46 `காரண` + scan 47 `மாயிருந்தேன்!` → `காரணமாயிருந்தேன்!`;
-- scan 47 `எழுதி` + scan 48 `யிருந்தாள்.` → `எழுதியிருந்தாள்.`;
-- scan 48 `ஒரு பெரிய` + scan 49 `ஜோதி நிரந்தரமாக...`.
+The source is one continuous work. Internal headings:
 
-Narrative ends at `...எங்களிடம் வரவேண்டும், தெரியுமா?`; separate printer colophon: `ஸ்ரீமகள் அச்சகம், சென்னை-1`.
+- scan 15 — `உத்தண்டி`;
+- scan 19 — `கண்ணம்மா`;
+- scan 32 — `குமுதா`;
+- scan 38 — `வீரன்`;
+- scan 45 — `உலகநாதர்`;
+- scan 46 — `கண்ணம்மா`.
 
-## Structural observations
+Assembled Tamil files:
 
-The source is one continuous work. Directly confirmed internal headings:
-
-- scan 15 / printed 14 — `உத்தண்டி`;
-- scan 19 / printed 18 — `கண்ணம்மா`;
-- scan 32 / printed 31 — `குமுதா`;
-- scan 38 / printed 37 — `வீரன்`;
-- scan 45 / printed 44 — `உலகநாதர்`;
-- scan 46 / printed 45 — `கண்ணம்மா`.
-
-These are internal textual structure, not separate works.
-
-## Assembled Tamil reading layer — PASSED
-
-Reading-layer scope:
-
-- scans **1–7** remain canonical front matter and are not duplicated into the continuous narrative reader;
-- narrative assembled from scan **8 through scan 49**;
-- scan-49 printer colophon retained separately as non-narrative source matter.
-
-Files:
-
-1. `works/periya-idathup-pen/sections/01-opening.md` — scan 8 → scan 15 before `உத்தண்டி`;
-2. `works/periya-idathup-pen/sections/02-uthandi.md` — scan 15 `உத்தண்டி` → scan 19 before `கண்ணம்மா`;
-3. `works/periya-idathup-pen/sections/03-kannamma-first.md` — scan 19 first `கண்ணம்மா` → scan 31;
-4. `works/periya-idathup-pen/sections/04-kumudha.md` — scans 32–37;
-5. `works/periya-idathup-pen/sections/05-veeran.md` — scans 38–44;
-6. `works/periya-idathup-pen/sections/06-ulaganathar.md` — scan 45;
-7. `works/periya-idathup-pen/sections/07-kannamma-conclusion.md` — scans 46–49 + colophon.
-
-Assembly rules/results:
-
-- derived only from final audited canonical pages;
-- scan-15 and scan-19 mid-page heading transitions split without source duplication or omission;
-- only source-audit-established boundary fragments joined;
-- reversible HTML scan provenance retained;
-- all source-specific wording and historical-glyph corrections carried through;
-- canonical `pages/` files and statuses left unchanged;
-- detailed check: `works/periya-idathup-pen/ASSEMBLED_TAMIL_AUDIT.md`;
-- reader map/rules: `works/periya-idathup-pen/sections/README.md`;
-- **ASSEMBLED TAMIL CONSISTENCY: PASSED**.
+1. `sections/01-opening.md`;
+2. `sections/02-uthandi.md`;
+3. `sections/03-kannamma-first.md`;
+4. `sections/04-kumudha.md`;
+5. `sections/05-veeran.md`;
+6. `sections/06-ulaganathar.md`;
+7. `sections/07-kannamma-conclusion.md`.
 
 ## English translation state
 
@@ -130,37 +83,31 @@ Translation control files:
 
 ### Batch 1 — opening pilot
 
-Source: `works/periya-idathup-pen/sections/01-opening.md` — scan 8 through scan 15 immediately before `உத்தண்டி`.
+- source: `sections/01-opening.md`, scans 8–15 before `உத்தண்டி`;
+- English: `translations/en/sections/01-opening.md`;
+- status: **REVIEWED / PASS**;
+- review: `translations/en/BATCH_01_REVIEW.md`;
+- Tamil canonical correction triggered: **none**.
 
-English:
+### Batch 2 — Uthandi
 
-`works/periya-idathup-pen/translations/en/sections/01-opening.md`
+- source: `sections/02-uthandi.md`;
+- range: scan 15 `உத்தண்டி` heading through scan 19 immediately before `கண்ணம்மா`;
+- English: `translations/en/sections/02-uthandi.md`;
+- status: **REVIEWED / PASS**;
+- review: `translations/en/BATCH_02_REVIEW.md`;
+- Tamil canonical correction triggered: **none**.
 
-State:
+Batch 2 source-check confirmed:
 
-- draft translation: **COMPLETE**;
-- canonical source-check: **COMPLETE**;
-- English review: **COMPLETE**;
-- status: **REVIEWED**;
-- final whole-work English `verified`: **not yet**;
-- Tamil canonical correction triggered by pilot: **none**.
-
-Pilot review:
-
-`works/periya-idathup-pen/translations/en/BATCH_01_REVIEW.md`
-
-Important locked pilot decisions:
-
-- names: Ulaganathar, Kannamma/Kannammal, Veeran, Uthandi, Kumudha/Kumudam;
-- `அத்தான்` retained as **Aththan** when important, with cross-cousin/prospective-husband gloss;
-- `தலையாரி` retained as **talaiyari** rather than over-specifying an office;
-- `மண்டிக்கடை` pilot: **Mandi Shop**;
-- `நைவேத்தியம் / பிரசாதம்` → **naivedyam / prasadam** with controlled glossing;
-- `ராஜபார்ட் / ஸ்திரீபார்ட்` → **king's part / female part**;
-- source oddities are recorded, not silently normalized;
-- `அந்த மகானுபாவன் மாதிரி பார்க்கக்கூட இல்லை` reviewed as **“this great soul was not even much to look at”** in context;
-- source `சங்கார` and `வீரனத்திக்கு முக்காட` remain explicitly documented as cautious English decisions;
-- scan provenance and established joins remain invisible HTML comments.
+- hereditary servitude, Ulaganathar's mortgage/debt leverage, 500-rupee debt, maid proposal and twenty-rupee wage represented;
+- Uthandi's marriage/dowry plan, Kumudha's reluctance, his later remorse and final accusation represented;
+- established boundaries retained: scan 15→16 `தெரிந்தது.`, scan 16→17 `நம் வீட்டு`, scan 17→18 `கண்டது போலத்தானே!`, scan 18→19 `என்றேன்.`;
+- `தலையாரி` → `talaiyari`;
+- `நம் வீட்டு அண்ணி` → `our house's Anni` with glossary control;
+- `விபசாரி` → `adulteress` in Uthandi's accusation context;
+- `பசீர்`, `சப்பைக்கட்டுகள்`, `கபோதி`, `செக்கச் செவேல்`, `பாழும்` handled cautiously and documented;
+- the scan-19 `கண்ணம்மா` heading / first-person text was not pulled into Batch 2.
 
 ## Current stage
 
@@ -172,30 +119,31 @@ Important locked pilot decisions:
 - canonical `needs-review`: **49**;
 - verification freeze: **ACTIVE**;
 - English translation plan: **COMPLETE**;
-- English sections drafted/source-checked/reviewed: **1 / 7**;
-- English sections verified: **0 / 7**.
+- English sections drafted/source-checked/reviewed: **2 / 7**;
+- English sections verified: **0 / 7**;
+- translation batches completed through review: **2 / 8**.
 
 ## Exact next activity
 
-Translate **English Batch 2 — `உத்தண்டி`**.
+Translate **English Batch 3A — first `கண்ணம்மா` account**.
 
 Required range:
 
-- Tamil assembled source: `works/periya-idathup-pen/sections/02-uthandi.md`;
-- source starts at scan 15 / printed 14 heading `உத்தண்டி`;
-- source ends on scan 19 immediately before heading `கண்ணம்மா`;
-- canonical authority: corresponding page records in `works/periya-idathup-pen/pages/`.
+- Tamil assembled source: `works/periya-idathup-pen/sections/03-kannamma-first.md`;
+- source starts at scan 19 / printed 18 heading `கண்ணம்மா`;
+- Batch 3A stops at the end of scan 24;
+- canonical authority: scans 19–24 in `works/periya-idathup-pen/pages/`.
 
 Required workflow:
 
-1. translate the complete Uthandi first-person account into `translations/en/sections/02-uthandi.md`;
-2. preserve Uthandi's class/debt vocabulary and limited viewpoint without importing later narrator knowledge;
-3. source-check every paragraph against canonical scans 15–19;
-4. preserve established physical page joins, including scan 15 `தெரிந்` + scan 16 `தது.` and scan 18 `என்` + scan 19 `றேன்.`;
-5. update `GLOSSARY.md` only for source-supported recurring decisions encountered in Uthandi's section;
-6. update `PROGRESS.md`, translation README, work README/audit and this handover;
-7. keep all Tamil canonical pages `needs-review` under the active freeze;
-8. do not begin Kannamma Batch 3A until Batch 2 is source-checked and reviewed.
+1. translate Batch 3A into `translations/en/sections/03-kannamma-first.md` without pulling in scans 25–31 yet;
+2. preserve Kannamma's self-justifying first-person rhetoric, moral claims, religious vocabulary and contradictions as her viewpoint;
+3. do **not** reconcile her account with Uthandi, Kumudha, Veeran or the later Kannamma conclusion;
+4. source-check every paragraph and established page join against canonical scans 19–24;
+5. update glossary only for recurring source-supported decisions actually encountered;
+6. create a Batch 3A review record and update progress/status docs;
+7. keep all canonical Tamil pages `needs-review` under the active freeze;
+8. do not begin Batch 3B until Batch 3A is source-checked and reviewed.
 
 ---
 
