@@ -9,12 +9,12 @@ Working English title: **The Woman of the Great House**
 - assembled Tamil reading layer: **PASSED**;
 - canonical verification freeze: **ACTIVE — 0 verified / 49 `needs-review`**;
 - English translation plan: **COMPLETE**;
-- English prose: **STARTED**;
-- English sections drafted: **6 / 7**;
-- English sections source-checked: **6 / 7**;
-- English sections reviewed: **6 / 7**;
+- English prose drafting: **COMPLETE**;
+- English sections drafted: **7 / 7**;
+- English sections source-checked: **7 / 7**;
+- English sections reviewed: **7 / 7**;
 - English sections verified: **0 / 7**;
-- translation batches reviewed: **7 / 8**.
+- translation batches reviewed: **8 / 8**.
 
 The English layer is derived from the passed Tamil assembled reader, but the canonical `../../pages/` records remain the controlling repository text. If a translation question exposes a possible Tamil problem, return to canonical/source evidence rather than silently normalizing the Tamil.
 
@@ -26,7 +26,7 @@ The English layer is derived from the passed Tamil assembled reader, but the can
 4. [`sections/04-kumudha.md`](sections/04-kumudha.md) — scans 32–37 — **REVIEWED**;
 5. [`sections/05-veeran.md`](sections/05-veeran.md) — scans 38–44 — **REVIEWED**;
 6. [`sections/06-ulaganathar.md`](sections/06-ulaganathar.md) — scan 45 — **REVIEWED**;
-7. `sections/07-kannamma-conclusion.md` — scans 46–49 + separate printer colophon — not-started.
+7. [`sections/07-kannamma-conclusion.md`](sections/07-kannamma-conclusion.md) — scans 46–49 + separate printer colophon — **REVIEWED**.
 
 ## Control documents
 
@@ -38,18 +38,21 @@ The English layer is derived from the passed Tamil assembled reader, but the can
 - Batch 3 review: [`BATCH_03_REVIEW.md`](BATCH_03_REVIEW.md);
 - Batch 4 review: [`BATCH_04_REVIEW.md`](BATCH_04_REVIEW.md);
 - Batch 5 review: [`BATCH_05_REVIEW.md`](BATCH_05_REVIEW.md);
-- Batch 6 review: [`BATCH_06_REVIEW.md`](BATCH_06_REVIEW.md).
+- Batch 6 review: [`BATCH_06_REVIEW.md`](BATCH_06_REVIEW.md);
+- Batch 7 review: [`BATCH_07_REVIEW.md`](BATCH_07_REVIEW.md).
 
-## Reviewed checkpoint through Section 06
+## Reviewed checkpoint through Section 07
 
-Batch 6 covers the complete source-printed `உலகநாதர்` account on scan 45 / printed page 44.
+The complete English prose layer now covers all seven source-structured Tamil sections.
 
-The translation preserves Ulaganathar's wounded pride, accusation against Veeran and Kannamma, family-honour rhetoric and self-justifying account of his conduct toward Kumudha as **his viewpoint**. His source phrase `குமுதாவைக் காதலித்தது` remains his own self-description and is not rewritten from Kumudha's testimony or the later Kannamma conclusion.
+Batch 7 / final Kannamma conclusion preserves the source's final disclosures as Kannamma's testimony: her religious/mythological self-justification; her admission of responsibility for Kumudha's death; the explicit `கற்பழிக்கப்பட்டாள்` statement; her concealment of the diamond evidence; destruction of Kumudha's letter; departure with Veeran; funeral-pyre scene; Calcutta boast; and final Indra/Indrani/Rathi/Manmatha rhetoric.
 
-Source-sensitive `என் உப்பைத்தின்றவன்`, the unusual punctuation in `எல்லாம் அந்தத் தடவை செய்த வேலை. கண்ணம்மா.`, `பசப்பு வார்த்தை`, `கள்ளி`, and `பத்திர காளி` are documented in [`BATCH_06_REVIEW.md`](BATCH_06_REVIEW.md) rather than silently normalized.
+The established historical-glyph corrections on scans 46–47 (`நானா ஆள்?`, `விட வேணா?`) and physical joins through scans 46–49 were checked from canonical records. The final narrative sentence remains separate from the printer colophon.
 
-No Tamil canonical correction was required during Batch 6. The user-mandated canonical verification freeze remains unchanged.
+Narrator isolation remains in force. Later Kannamma disclosures do not retroactively rewrite the prose of earlier narrators.
+
+No Tamil canonical correction was required during Batch 7. The user-mandated canonical verification freeze remains unchanged.
 
 ## Next activity
 
-Translate and review **Batch 7 — final `கண்ணம்மா` conclusion**, scans 46–49, including the narrative ending and separate printer colophon. After Batch 7 review, perform whole-work bilingual review before any English section is promoted to `verified`.
+Perform the **whole-work bilingual review** across English Sections 01–07 before any section is promoted to final `verified` status. The review must check full coverage, section transitions, narrator consistency/isolation, recurring terms, punctuation/provenance, source joins, and final narrative/colophon separation.

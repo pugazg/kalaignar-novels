@@ -21,7 +21,7 @@ The attached scan is the controlling source.
 - Tamil source-comparison audit: **COMPLETE**;
 - assembled Tamil reading layer: **PASSED — 7 source-structured files covering narrative scans 8–49**;
 - English translation plan: **COMPLETE**;
-- English translation: **STARTED — Sections 01–06 REVIEWED; 6 / 7 sections reviewed, 0 / 7 verified; 7 / 8 translation batches reviewed**;
+- English prose drafting/source-check/section review: **COMPLETE — 7 / 7 sections REVIEWED; 8 / 8 batches reviewed; 0 / 7 English sections verified**;
 - source PDF committed: **No**.
 
 Key records:
@@ -42,6 +42,7 @@ Key records:
 - [`translations/en/BATCH_04_REVIEW.md`](translations/en/BATCH_04_REVIEW.md)
 - [`translations/en/BATCH_05_REVIEW.md`](translations/en/BATCH_05_REVIEW.md)
 - [`translations/en/BATCH_06_REVIEW.md`](translations/en/BATCH_06_REVIEW.md)
+- [`translations/en/BATCH_07_REVIEW.md`](translations/en/BATCH_07_REVIEW.md)
 - [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md)
 
 ## Verification freeze
@@ -119,13 +120,14 @@ Reviewed English sections:
 3. [`translations/en/sections/03-kannamma-first.md`](translations/en/sections/03-kannamma-first.md) — scan 19 first `கண்ணம்மா` through scan 31 — **REVIEWED**; planned Batches 3A + 3B both complete;
 4. [`translations/en/sections/04-kumudha.md`](translations/en/sections/04-kumudha.md) — scans 32–37 — **REVIEWED**;
 5. [`translations/en/sections/05-veeran.md`](translations/en/sections/05-veeran.md) — scans 38–44 — **REVIEWED**;
-6. [`translations/en/sections/06-ulaganathar.md`](translations/en/sections/06-ulaganathar.md) — scan 45 — **REVIEWED**.
+6. [`translations/en/sections/06-ulaganathar.md`](translations/en/sections/06-ulaganathar.md) — scan 45 — **REVIEWED**;
+7. [`translations/en/sections/07-kannamma-conclusion.md`](translations/en/sections/07-kannamma-conclusion.md) — scans 46–49 + printer colophon — **REVIEWED**.
 
-Narrator isolation remains a governing English rule. Ulaganathar's scan-45 self-justification, including his description of his conduct toward Kumudha as `காதலித்தது`, is preserved as his own claim and is not harmonised with Kumudha's earlier testimony or Kannamma's later conclusion.
+Batch 7 source-check confirms the corrected scan-46/47 historical readings `நானா ஆள்?` and `விட வேணா?`, the joins `காரணமாயிருந்தேன்!`, `எழுதியிருந்தாள்.` and `ஒரு பெரிய ஜோதி நிரந்தரமாக...`, the final narrative ending, and separate printer colophon.
 
-Batch 6 source-check found no new Tamil issue. Source-sensitive `என் உப்பைத்தின்றவன்`, `எல்லாம் அந்தத் தடவை செய்த வேலை. கண்ணம்மா.`, `பசப்பு வார்த்தை`, `கள்ளி`, and `பத்திர காளி` are documented in the Batch 6 review rather than normalized.
+Kannamma's final disclosures remain her testimony. They do not retroactively rewrite Veeran's contradictory account or other earlier narrators inside their own sections. The explicit source statement `கற்பழிக்கப்பட்டாள்` is translated directly in the final Kannamma section.
 
-No Tamil canonical correction was triggered by translation/review of Sections 01–06.
+No Tamil canonical correction was triggered by translation/review of Sections 01–07.
 
 ## Printed-page behaviour
 
@@ -136,4 +138,4 @@ No Tamil canonical correction was triggered by translation/review of Sections 01
 
 ## Next activity
 
-Translate and review **English Batch 7 — final `கண்ணம்மா` conclusion**, scans 46–49. Preserve the already-audited historical-glyph corrections on scans 46–47, the established scan 46→47, 47→48 and 48→49 joins, the final narrative ending, and the separate printer colophon. After Batch 7 review, perform a whole-work bilingual review before any English `verified` decision.
+Perform the **whole-work bilingual review** of English Sections 01–07 against the passed assembled Tamil and canonical source layer. Check complete-work coverage, narrator boundaries, recurring terminology, punctuation/provenance, section transitions, physical-page joins and the final narrative/colophon separation. Do not promote English to `verified` until that review passes.

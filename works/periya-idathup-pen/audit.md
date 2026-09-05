@@ -6,19 +6,40 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 Source pages: **49**  
 Source PDF committed to repository: **No**
 
-Canonical page-level transcription covers **all 49 / 49 scans**. The dedicated whole-work Tamil source/audit review is **COMPLETE — scans 1–49 / 49 directly reviewed**. The assembled Tamil reading layer has completed its own consistency audit and is **PASSED**.
+Canonical page-level transcription covers **49 / 49 scans**. Dedicated whole-work Tamil source/audit review is **COMPLETE — 49 / 49 directly reviewed**. The assembled Tamil reading layer is **PASSED**. English section-level drafting/source-check/review is now **COMPLETE — 7 / 7 sections; 8 / 8 planned translation batches reviewed**.
 
-Every canonical page remains `needs-review` under the user-mandated verification freeze.
+Every canonical Tamil page remains `needs-review` under the user-mandated verification freeze. English review status does not alter canonical Tamil status.
 
-Detailed Tamil records:
+## Current gate
+
+| Check | Current result |
+|---|---|
+| Source identity inspected | complete |
+| Scan pages mapped | **49 / 49** |
+| Canonical page records | **49 / 49** |
+| Dedicated full-source Tamil audit | **COMPLETE — 49 / 49 reviewed** |
+| Canonical `verified` | **0** |
+| Canonical `needs-review` | **49** |
+| Verification freeze | **ACTIVE** |
+| Assembled Tamil | **PASSED — 7 files / scans 8–49 narrative** |
+| English translation plan | **COMPLETE** |
+| English drafted | **7 / 7 sections** |
+| English source-checked | **7 / 7 sections** |
+| English reviewed | **7 / 7 sections** |
+| English verified | **0 / 7 sections** |
+| Translation batches reviewed | **8 / 8** |
+
+## Control records
+
+Tamil:
 
 - [`FULL_TAMIL_SOURCE_AUDIT.md`](FULL_TAMIL_SOURCE_AUDIT.md)
 - [`HISTORICAL_GLYPH_AUDIT.md`](HISTORICAL_GLYPH_AUDIT.md)
 - [`ASSEMBLED_TAMIL_AUDIT.md`](ASSEMBLED_TAMIL_AUDIT.md)
 - [`sections/README.md`](sections/README.md)
-- reusable glyph procedure: [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md)
+- [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md)
 
-English records:
+English:
 
 - [`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md)
 - [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md)
@@ -29,36 +50,17 @@ English records:
 - [`translations/en/BATCH_04_REVIEW.md`](translations/en/BATCH_04_REVIEW.md)
 - [`translations/en/BATCH_05_REVIEW.md`](translations/en/BATCH_05_REVIEW.md)
 - [`translations/en/BATCH_06_REVIEW.md`](translations/en/BATCH_06_REVIEW.md)
-
-## Current gate
-
-| Check | Current result |
-|---|---|
-| Source identity inspected | complete |
-| Scan pages mapped | **49 / 49** |
-| Canonical page records | **49 / 49** |
-| Dedicated full-source audit | **COMPLETE — scans 1–49 / 49 reviewed** |
-| `verified` | **0** |
-| `needs-review` | **49 — scans 1–49** |
-| Verification freeze | **ACTIVE — do not mark pages verified** |
-| Tamil source-comparison audit | **COMPLETE** |
-| Assembled Tamil reading layer | **PASSED — 7 files / narrative scans 8–49** |
-| English translation plan | **COMPLETE** |
-| English drafted | **6 / 7 sections** |
-| English source-checked | **6 / 7 sections** |
-| English reviewed | **6 / 7 sections** |
-| English verified | **0 / 7 sections** |
-| Translation batches reviewed | **7 / 8** |
+- [`translations/en/BATCH_07_REVIEW.md`](translations/en/BATCH_07_REVIEW.md)
 
 ## Historical-glyph rule
 
-Known user-supplied Periyar-reform reference set:
+Known Periyar-reform-sensitive reference set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Decode historical character identity into modern Unicode only after direct source-pixel confirmation. Do not global-replace and do not modernize spelling, grammar, punctuation, vocabulary or wording.
+Decode character identity from source pixels and encode modern Unicode identity only. Do not global-replace or modernize source spelling, wording, grammar, punctuation or vocabulary.
 
-## Confirmed historical-glyph corrections
+### Confirmed historical-glyph corrections
 
 | Scan | Printed page | Earlier | Correct | Identity |
 |---:|:---:|---|---|---|
@@ -77,19 +79,26 @@ Decode historical character identity into modern Unicode only after direct sourc
 
 ## Independent source-text corrections retained
 
-Earlier direct source review corrected:
-
 - scan 4: `சமூகத்தின்` → `சமுதாயத்தின்`;
 - scan 5: `அற்பிய` → `அரும்பிய`;
 - scan 5: `சமூகமும்` → `சமுதாயம்`;
-- scan 7 / printed 6: `உள்ளங்களை` → `உள்ளங்களே`;
-- scan 12 / printed 11: `தாவும்போது பயப்பட்ட பூனை` → `தாவும்போது பயப்படாத பூனை`;
-- scan 12 / printed 11: `பயப்பட்டது போல -` → `பயப்பட்டதுபோல -`;
-- scan 19 / printed 18: `செக்கச் செவேலென்றோன்றின.` → `செக்கச் செவேலென்றேதோன்றின.`.
+- scan 7: `உள்ளங்களை` → `உள்ளங்களே`;
+- scan 12: `தாவும்போது பயப்பட்ட பூனை` → `தாவும்போது பயப்படாத பூனை`;
+- scan 12: `பயப்பட்டது போல -` → `பயப்பட்டதுபோல -`;
+- scan 19: `செக்கச் செவேலென்றோன்றின.` → `செக்கச் செவேலென்றேதோன்றின.`.
 
-## Tamil final-state findings
+## Source structure and final Tamil joins
 
-Final boundaries directly established include:
+Internal headings are:
+
+- scan 15 — `உத்தண்டி`;
+- scan 19 — `கண்ணம்மா`;
+- scan 32 — `குமுதா`;
+- scan 38 — `வீரன்`;
+- scan 45 — `உலகநாதர்`;
+- scan 46 — `கண்ணம்மா`.
+
+Key final joins include:
 
 - scan 40 `தேவையான` + scan 41 `பொருளாகிவிட்டேன்.`;
 - scan 41 `கல்யா` + scan 42 `ணத்தை` → `கல்யாணத்தை`;
@@ -98,99 +107,48 @@ Final boundaries directly established include:
 - scan 47 `எழுதி` + scan 48 `யிருந்தாள்.` → `எழுதியிருந்தாள்.`;
 - scan 48 `ஒரு பெரிய` + scan 49 `ஜோதி நிரந்தரமாக...`.
 
-Narrative ends at `...எங்களிடம் வரவேண்டும், தெரியுமா?`; separate printer colophon: **`ஸ்ரீமகள் அச்சகம், சென்னை-1`**.
+Narrative ends at `...எங்களிடம் வரவேண்டும், தெரியுமா?`. Separate printer colophon: **`ஸ்ரீமகள் அச்சகம், சென்னை-1`**.
 
-Source-printed internal headings are `உத்தண்டி` (scan 15), `கண்ணம்மா` (scan 19), `குமுதா` (scan 32), `வீரன்` (scan 38), `உலகநாதர்` (scan 45), and `கண்ணம்மா` (scan 46).
+## English section results
 
-## Assembled Tamil result
+1. `translations/en/sections/01-opening.md` — **REVIEWED / PASS**.
+2. `translations/en/sections/02-uthandi.md` — **REVIEWED / PASS**.
+3. `translations/en/sections/03-kannamma-first.md` — Batches 3A + 3B — **REVIEWED / PASS**.
+4. `translations/en/sections/04-kumudha.md` — **REVIEWED / PASS**.
+5. `translations/en/sections/05-veeran.md` — **REVIEWED / PASS**.
+6. `translations/en/sections/06-ulaganathar.md` — **REVIEWED / PASS**.
+7. `translations/en/sections/07-kannamma-conclusion.md` — **REVIEWED / PASS**.
 
-Narrative scans **8–49** are represented in seven source-structured reading files. Source headings occur in correct order; established joins retain reversible provenance; final historical-glyph corrections propagate; no intentional modernization was introduced.
+Narrator isolation is mandatory across the English layer. Contradictions are preserved as differences between speakers rather than harmonised. Kumudha's coercion/violation account remains hers; Veeran's contradictory interpretation remains his; Ulaganathar's self-justification remains his; Kannamma's later disclosures remain new testimony in the final section.
 
-**Assembled Tamil: PASSED.**
+## English Batch 07 audit — final Kannamma
 
-## English Batch 01 audit
-
-English file: [`translations/en/sections/01-opening.md`](translations/en/sections/01-opening.md)  
-Source: scans **8–15 immediately before `உத்தண்டி`**.
-
-**Result: REVIEWED / PASS; not final verified.** No Tamil canonical correction was required.
-
-## English Batch 02 audit
-
-English file: [`translations/en/sections/02-uthandi.md`](translations/en/sections/02-uthandi.md)  
-Source: scan **15 `உத்தண்டி` heading through scan 19 immediately before `கண்ணம்மா`**.
-
-**Result: REVIEWED / PASS; not final verified.** No Tamil canonical correction was required.
-
-## English Batches 03A + 03B audit — first Kannamma
-
-English file: [`translations/en/sections/03-kannamma-first.md`](translations/en/sections/03-kannamma-first.md)  
-Source: scan **19 `கண்ணம்மா` heading through scan 31**.
+Source: scans **46–49 / printed pages 45–48**.
 
 Checks completed:
 
-- all first-Kannamma paragraphs represented across both planned sub-batches;
-- devotional self-description, marriage grievance, attack on `வைதீக உலகம்`, dowry complaint, Veeran liaison, pregnancy termination, Veeran's withdrawal and Kumudha scheme represented;
-- Kannamma's self-justifying first-person viewpoint preserved without reconciliation to Uthandi, Kumudha, Veeran or the later conclusion;
-- physical joins checked from scan 19→20 `என்னிலே` through scan 30→31 `...கொண்டிருக்கும் ஆசை...`;
-- difficult forms including `குரூபப்பற்றி`, `எண்ணப்பட்டாளம்`, `குவலிக் கிடப்பார்`, `பச்சப் வார்த்தைகளைப்`, and `தலை விதியைத் தீவிழியாக` were translated cautiously and recorded rather than normalized;
-- corrected historical readings in this range were used from canonical Tamil;
-- no new Tamil correction required.
+- complete final Kannamma account represented;
+- Ahalya/Tara/Parvati/Brahma rhetoric preserved as Kannamma's argument without outside expansion;
+- source `கற்பழிக்கப்பட்டாள்` translated directly as **“was raped”**;
+- historical corrections `நானா ஆள்?` and `விட வேணா?` reflected in English;
+- joins `காரணமாயிருந்தேன்!`, `எழுதியிருந்தாள்.` and `ஒரு பெரிய ஜோதி நிரந்தரமாக...` preserved with provenance;
+- concealment of diamond evidence, destruction of Kumudha's letter, departure with Veeran, Calcutta life, funeral-pyre sequence and final Indra/Indrani/Rathi/Manmatha boast represented;
+- final narrative ending retained before separate printer colophon;
+- source-specific `வக்குப் பேதி` kept as `vakkup-bethi` rather than silently normalized;
+- no Tamil canonical correction required.
 
-**Batches 03A + 03B English: REVIEWED / PASS; not final verified.**
-
-## English Batch 04 audit — Kumudha
-
-English file: [`translations/en/sections/04-kumudha.md`](translations/en/sections/04-kumudha.md)  
-Source: scans **32–37**.
-
-Checks completed:
-
-- complete signed Kumudha statement represented;
-- education / innocence plea, intended Veeran marriage, letter/scream imagery, Kannamma's setup, closed-room sequence, post-assault account, Ramayana/Nalayini allusions, diamond ingestion and final social plea represented;
-- the source's coercion language is preserved in Kumudha's voice without importing details from other narrators;
-- scan 33→34, 35→36 `அதனுடைய`, and 36→37 `தூக்கிச் சென்றதாக` continuities retained;
-- scan-33 corrected `கண்ணாடி` is propagated from canonical Tamil;
-- no Veeran text from scan 38 pulled forward;
-- no new Tamil correction required.
-
-**Batch 04 English: REVIEWED / PASS; not final verified.**
-
-## English Batch 05 audit — Veeran
-
-English file: [`translations/en/sections/05-veeran.md`](translations/en/sections/05-veeran.md)  
-Source: scans **38–44**.
-
-Checks completed:
-
-- complete Veeran account represented, including cartman employment, Kannamma liaison, pregnancy medicine, withdrawal, Kumudha marriage hope, window scene, accusations, Kumudha's death and final plan;
-- strict narrator isolation maintained: Veeran's interpretation is preserved as his limited belief and is not corrected inside his account from Kumudha's preceding statement or later Kannamma evidence;
-- scan 39→40, 40→41 `தேவையான பொருளாகிவிட்டேன்`, 41→42 `கல்யாணத்தை`, and 43→44 `கடவுள் பொறுப்பாரா?` continuities retained;
-- corrected scan-43 `இளிச்சவாயனாக` is propagated as “made a fool of me”;
-- source-specific `முண்டாசு`, `கார்க்குச்சி / சுவீர்`, `இலவு காத்த கிளியாக`, `போக்கியதைப்`, `ஒடித் தெரியத்`, and `தண்டன்` are controlled in glossary/review rather than silently normalized;
-- no Ulaganathar heading/text from scan 45 pulled forward;
-- no new Tamil correction required.
-
-**Batch 05 English: REVIEWED / PASS; not final verified.**
-
-## English Batch 06 audit — Ulaganathar
-
-English file: [`translations/en/sections/06-ulaganathar.md`](translations/en/sections/06-ulaganathar.md)  
-Source: scan **45 / printed page 44**, complete `உலகநாதர்` account.
-
-Checks completed:
-
-- both source paragraphs and the source heading are represented;
-- Ulaganathar's accusation against Veeran/Kannamma, family-honour complaint, appearance comparison and final invective are preserved;
-- strict narrator isolation maintained: `குமுதாவைக் காதலித்தது` is translated as Ulaganathar's own self-description, not as an objective correction of Kumudha's testimony;
-- `என் உப்பைத்தின்றவன்` is retained as “the man who ate my salt”;
-- unusual punctuation `எல்லாம் அந்தத் தடவை செய்த வேலை. கண்ணம்மா.` is not silently repaired;
-- `பசப்பு வார்த்தை`, `கள்ளி`, `பத்திர காளி`, and the final curse-like question are translated cautiously and documented in the dedicated Batch 6 review;
-- no scan-46 Kannamma text was pulled forward;
-- no new Tamil correction required.
-
-**Batch 06 English: REVIEWED / PASS; not final verified.**
+**Batch 07 English: REVIEWED / PASS; not final verified.**
 
 ## Exact next activity
 
-Translate **English Batch 7 — final `கண்ணம்மா` conclusion**, scans 46–49. Preserve the already-audited historical-glyph corrections on scans 46–47, all established page-boundary joins, the final narrative ending, and the separate printer colophon. After Batch 7 review, perform whole-work bilingual review before any English `verified` decision. Keep all canonical Tamil pages `needs-review` under the active verification freeze.
+Perform the **whole-work bilingual review** across English Sections 01–07 against the passed assembled Tamil and canonical page records. Required checks:
+
+- complete narrative coverage and no duplication/omission;
+- source-printed section order and transitions;
+- narrator isolation and contradiction handling;
+- recurring names, kinship, class/debt, moral/sexual, religious and mythological terminology;
+- punctuation, paragraphing and reversible page provenance;
+- all established physical-page joins;
+- final narrative ending and separate printer colophon.
+
+Do **not** promote English sections to `verified` until that whole-work review passes. Canonical Tamil remains **0 verified / 49 `needs-review`** under the active freeze.

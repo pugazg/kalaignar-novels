@@ -23,31 +23,35 @@ English-layer review states do not alter the Tamil canonical statuses.
 | **4** | `../../sections/04-kumudha.md` — scans 32–37 | `sections/04-kumudha.md` | **REVIEWED** |
 | **5** | `../../sections/05-veeran.md` — scans 38–44 | `sections/05-veeran.md` | **REVIEWED** |
 | **6** | `../../sections/06-ulaganathar.md` — scan 45 | `sections/06-ulaganathar.md` | **REVIEWED** |
-| **7** | `../../sections/07-kannamma-conclusion.md` — scans 46–49 | `sections/07-kannamma-conclusion.md` | not-started |
+| **7** | `../../sections/07-kannamma-conclusion.md` — scans 46–49 | `sections/07-kannamma-conclusion.md` | **REVIEWED** |
 
 ## Current counts
 
 - final English section files planned: **7**;
-- drafted: **6 / 7**;
-- source-checked: **6 / 7**;
-- reviewed: **6 / 7**;
+- drafted: **7 / 7**;
+- source-checked: **7 / 7**;
+- reviewed: **7 / 7**;
 - verified: **0 / 7**;
-- translation batches completed through review: **7 / 8**.
+- translation batches completed through review: **8 / 8**.
 
-## Reviewed results through Section 06
+## Reviewed results through Section 07
 
-- Batch 1 / opening: **REVIEWED / PASS**;
-- Batch 2 / Uthandi: **REVIEWED / PASS**;
-- Batches 3A + 3B / first Kannamma account: **REVIEWED / PASS**;
-- Batch 4 / Kumudha: **REVIEWED / PASS**;
-- Batch 5 / Veeran: **REVIEWED / PASS**;
-- Batch 6 / Ulaganathar: **REVIEWED / PASS**.
+All planned English prose batches have completed drafting, source-check and section-level review.
 
-Narrator isolation remains mandatory. Ulaganathar's scan-45 account preserves his wounded pride, accusations and self-description of his conduct toward Kumudha as **his viewpoint**. It is not corrected from Kumudha's preceding statement or the later Kannamma conclusion.
+Batch 7 preserves the complete final Kannamma account, including:
 
-Batch 6 source-check confirmed the complete scan-45 account and excluded the scan-46 `கண்ணம்மா` heading. Source-sensitive `என் உப்பைத்தின்றவன்`, `பசப்பு வார்த்தை`, `பத்திர காளி`, and the unusual punctuation around `எல்லாம் அந்தத் தடவை செய்த வேலை. கண்ணம்மா.` were retained or translated cautiously rather than normalized.
+- her religious/mythological self-justification;
+- her admission of responsibility for Kumudha's death;
+- the explicit source statement that Kumudha was raped;
+- her explanation of the staged window scene, concealed diamond evidence and destruction of Kumudha's letter;
+- the departure with Veeran, Calcutta life, funeral-pyre scene and final Indra/Indrani/Rathi/Manmatha boast;
+- the separate printer colophon after the final narrative sentence.
 
-No Tamil canonical correction was required during Batch 6 translation/review.
+The corrected historical forms `நானா ஆள்?` and `விட வேணா?` and the established joins `காரணமாயிருந்தேன்!`, `எழுதியிருந்தாள்.` and `ஒரு பெரிய ஜோதி நிரந்தரமாக...` were source-checked from the canonical records.
+
+Narrator isolation remains mandatory: Kannamma's final disclosures do **not** silently rewrite Uthandi, Kumudha, Veeran or Ulaganathar inside their own sections.
+
+No Tamil canonical correction was required during Batch 7 translation/review.
 
 Detailed reviews:
 
@@ -57,7 +61,8 @@ Detailed reviews:
 - [`BATCH_04_REVIEW.md`](BATCH_04_REVIEW.md)
 - [`BATCH_05_REVIEW.md`](BATCH_05_REVIEW.md)
 - [`BATCH_06_REVIEW.md`](BATCH_06_REVIEW.md)
+- [`BATCH_07_REVIEW.md`](BATCH_07_REVIEW.md)
 
 ## Exact next activity
 
-Translate and review **Batch 7 — final `கண்ணம்மா` conclusion**, scans 46–49, including the narrative ending and separate printer colophon. Preserve the already-audited historical-glyph corrections on scans 46–47 and all established page-boundary joins. After Batch 7 review, proceed to whole-work bilingual review before any English `verified` decision.
+Perform the **whole-work bilingual review** across English Sections 01–07 against the passed assembled Tamil and canonical page layer. Review complete-work coverage, source-printed section transitions, narrator isolation, recurring terminology, punctuation/provenance, page-boundary joins and the final narrative/colophon separation. Do not promote any English section to `verified` until that whole-work review passes.
