@@ -9,7 +9,7 @@
 - Current target: `works/periya-idathup-pen/`
 - Completed reference implementation: `works/balipeedam-nokki/`
 
-Before changing the active work, read the root guides/README/handover plus the active work README, `FULL_TAMIL_SOURCE_AUDIT.md`, `HISTORICAL_GLYPH_AUDIT.md`, metadata, page map, audit, and relevant page records. The attached PDF remains controlling and must not be committed.
+Before changing the active work, fetch live `main` first and read the root guides/README/handover plus the active-work README, `audit.md`, `FULL_TAMIL_SOURCE_AUDIT.md`, `HISTORICAL_GLYPH_AUDIT.md`, `ASSEMBLED_TAMIL_AUDIT.md`, `sections/README.md`, metadata/page map and relevant canonical page records. The attached PDF remains controlling and must not be committed.
 
 ## பெரிய இடத்துப் பெண் — source identity
 
@@ -27,7 +27,7 @@ Before changing the active work, read the root guides/README/handover plus the a
 
 ## Verification freeze
 
-**Do not mark any page in this work as `verified`.**
+**Do not mark any canonical page in this work as `verified`.**
 
 Known user-supplied Periyar-reform reference set:
 
@@ -35,9 +35,11 @@ Known user-supplied Periyar-reform reference set:
 
 Determine character identity from source pixels and encode that identity in modern Unicode. Do not global-replace or modernize wording, spelling, grammar, punctuation or vocabulary.
 
+The assembled Tamil layer's **PASSED** status is independent of canonical verification. Canonical state remains **0 verified / 49 `needs-review`**.
+
 ## Historical-glyph checkpoint
 
-Confirmed historical corrections now include:
+Confirmed historical corrections include:
 
 - scan 14 `ஆவலைக்`, `நின்றார்`;
 - scan 16 `போகிறாயே`;
@@ -48,63 +50,29 @@ Confirmed historical corrections now include:
 - scan 46 `நானு ஆள்?` → **`நானா ஆள்?`** (`னா`);
 - scan 47 `விட வேணு?` → **`விட வேணா?`** (`ணா`).
 
-The last four were discovered during the dedicated whole-work source audit by direct enlarged-pixel and same-edition comparison. No page is verified.
+The last four were discovered during the dedicated whole-work source audit by enlarged-pixel and same-edition comparison.
 
-## Full canonical coverage checkpoint
+## Canonical / source-audit state
 
-Canonical page records exist for **all 49 / 49 scans**.
-
-The dedicated full Tamil source/audit review is now **COMPLETE — all 49 scans directly reviewed**.
-
-Final-source findings directly reconfirmed:
-
-- scan 41 `கல்யா` + scan 42 `ணத்தை` → **`கல்யாணத்தை`**;
-- scan 43 `கடவுள்` + scan 44 `பொறுப்பாரா?` → **`கடவுள் பொறுப்பாரா?`**;
-- scan 46 `காரண` + scan 47 `மாயிருந்தேன்!` → **`காரணமாயிருந்தேன்!`**;
-- scan 47 `எழுதி` + scan 48 `யிருந்தாள்.` → **`எழுதியிருந்தாள்.`**;
-- scan 48 `ஒரு பெரிய` + scan 49 `ஜோதி நிரந்தரமாக...` → **`ஒரு பெரிய ஜோதி நிரந்தரமாக...`**;
-- narrative ends at **`...எங்களிடம் வரவேண்டும், தெரியுமா?`**;
-- separate printer colophon: **`ஸ்ரீமகள் அச்சகம், சென்னை-1`**.
-
-## Dedicated full Tamil source/audit review
-
-Completed:
-
-- **Batch 1 — scans 1–10 / 49**;
-- **Batch 2 — scans 11–20 / 49**;
-- **Batch 3 — scans 21–30 / 49**;
-- **Batch 4 — scans 31–40 / 49**;
-- **Batch 5 — scans 41–49 / 49**.
-
-Dedicated-pass result:
-
-- new independent lexical/source-text corrections: **0**;
-- new historical-glyph corrections: **4 — scans 33, 43, 46, 47**;
-- printed-page mapping directly confirmed through printed page **48**;
-- all six internal headings directly reconfirmed as internal structure within one continuous work.
-
-Detailed record: `works/periya-idathup-pen/FULL_TAMIL_SOURCE_AUDIT.md`.
-
-## Current stage
-
-- source registration: complete;
 - page map: **49 / 49**;
-- canonical records: **49 / 49**;
+- canonical page records: **49 / 49**;
 - dedicated full-source audit: **COMPLETE — 49 / 49 directly reviewed**;
 - remaining full-source audit coverage: **0**;
-- `verified`: **0**;
-- `needs-review`: **49**;
-- verification freeze: **ACTIVE**;
-- Tamil source-comparison audit: **COMPLETE**;
-- assembled Tamil: **READY AS NEXT PHASE / not started**;
-- English translation: **BLOCKED pending assembled Tamil**;
 - source PDF committed: **No**.
 
-Printed-page behavior: scans 1–6 unnumbered; scan 7 printed **6**; scan 8 unnumbered; scans 9–49 printed **8–48**.
+Final-source continuities directly established include:
+
+- scan 41 `கல்யா` + scan 42 `ணத்தை` → `கல்யாணத்தை`;
+- scan 43 `கடவுள்` + scan 44 `பொறுப்பாரா?`;
+- scan 46 `காரண` + scan 47 `மாயிருந்தேன்!` → `காரணமாயிருந்தேன்!`;
+- scan 47 `எழுதி` + scan 48 `யிருந்தாள்.` → `எழுதியிருந்தாள்.`;
+- scan 48 `ஒரு பெரிய` + scan 49 `ஜோதி நிரந்தரமாக...`.
+
+Narrative ends at `...எங்களிடம் வரவேண்டும், தெரியுமா?`; separate printer colophon: `ஸ்ரீமகள் அச்சகம், சென்னை-1`.
 
 ## Structural observations
 
-Directly confirmed internal headings:
+The source is one continuous work. Directly confirmed internal headings:
 
 - scan 15 / printed 14 — `உத்தண்டி`;
 - scan 19 / printed 18 — `கண்ணம்மா`;
@@ -113,22 +81,64 @@ Directly confirmed internal headings:
 - scan 45 / printed 44 — `உலகநாதர்`;
 - scan 46 / printed 45 — `கண்ணம்மா`.
 
-These remain internal textual structure within one continuous work.
+These are internal textual structure, not separate works.
+
+## Assembled Tamil reading layer — PASSED
+
+Reading-layer scope:
+
+- scans **1–7** remain canonical front matter and are not duplicated into the continuous narrative reader;
+- narrative assembled from scan **8 through scan 49**;
+- scan-49 printer colophon retained separately as non-narrative source matter.
+
+Files:
+
+1. `works/periya-idathup-pen/sections/01-opening.md` — scan 8 → scan 15 before `உத்தண்டி`;
+2. `works/periya-idathup-pen/sections/02-uthandi.md` — scan 15 `உத்தண்டி` → scan 19 before `கண்ணம்மா`;
+3. `works/periya-idathup-pen/sections/03-kannamma-first.md` — scan 19 first `கண்ணம்மா` → scan 31;
+4. `works/periya-idathup-pen/sections/04-kumudha.md` — scans 32–37;
+5. `works/periya-idathup-pen/sections/05-veeran.md` — scans 38–44;
+6. `works/periya-idathup-pen/sections/06-ulaganathar.md` — scan 45;
+7. `works/periya-idathup-pen/sections/07-kannamma-conclusion.md` — scans 46–49 + colophon.
+
+Assembly rules/results:
+
+- derived only from final audited canonical pages;
+- scan-15 and scan-19 mid-page heading transitions split without source duplication or omission;
+- only source-audit-established boundary fragments joined;
+- reversible HTML scan provenance retained;
+- all source-specific wording and historical-glyph corrections carried through;
+- canonical `pages/` files and statuses left unchanged;
+- detailed check: `works/periya-idathup-pen/ASSEMBLED_TAMIL_AUDIT.md`;
+- reader map/rules: `works/periya-idathup-pen/sections/README.md`;
+- **ASSEMBLED TAMIL CONSISTENCY: PASSED**.
+
+## Current stage
+
+- source registration: complete;
+- canonical Tamil: **49 / 49**;
+- full Tamil source comparison: **COMPLETE**;
+- assembled Tamil: **PASSED**;
+- canonical `verified`: **0**;
+- canonical `needs-review`: **49**;
+- verification freeze: **ACTIVE**;
+- English translation plan: **NOT STARTED — NEXT**;
+- English prose translation: **NOT STARTED**.
 
 ## Exact next activity
 
-Build the **assembled Tamil reading layer** from the canonical 49-page layer.
+Prepare the **English translation plan** before drafting any English prose.
 
-Required rules:
+Required focus:
 
-1. preserve canonical page records as the higher authority;
-2. keep all 49 canonical pages `needs-review` under the active verification freeze;
-3. assemble by the source's internal textual structure, not invented chapters;
-4. join only positively established physical page-boundary fragments;
-5. retain reversible source provenance/comments for every join;
-6. include the separate final printer colophon as non-narrative source matter;
-7. run an assembled-Tamil consistency audit before marking the assembled layer complete;
-8. do not begin English translation until that assembled-Tamil audit is complete.
+1. map English translation sections to the seven assembled Tamil files;
+2. state authority hierarchy explicitly: source scan → canonical `pages/` → assembled `sections/` → English;
+3. define how period/source-specific Tamil, colloquial forms, archaic vocabulary and intentional oddities are handled without silently normalizing the source;
+4. define names/transliteration policy and a glossary candidate list;
+5. define dialogue, punctuation, paragraph and internal-heading treatment;
+6. define translation review gates and source-check procedure for ambiguous readings;
+7. preserve the canonical verification freeze — do not convert any of the 49 pages to `verified`;
+8. do not begin bulk English prose until the translation plan is recorded.
 
 ---
 

@@ -40,51 +40,66 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 | 30 | 29 | body; glyph-aware first pass | needs-review | `pages/0030-periya-idathup-pen-23.md` |
 | 31 | 30 | body; glyph-aware first pass | needs-review | `pages/0031-periya-idathup-pen-24.md` |
 | 32 | 31 | internal heading `குமுதா`; glyph-aware first pass | needs-review | `pages/0032-periya-idathup-pen-25.md` |
-| 33 | 32 | body; glyph-aware first pass | needs-review | `pages/0033-periya-idathup-pen-26.md` |
+| 33 | 32 | body; dedicated-audit `ணா` correction | needs-review | `pages/0033-periya-idathup-pen-26.md` |
 | 34 | 33 | body; glyph-aware first pass | needs-review | `pages/0034-periya-idathup-pen-27.md` |
 | 35 | 34 | body; glyph-aware first pass | needs-review | `pages/0035-periya-idathup-pen-28.md` |
 | 36 | 35 | body; glyph-aware first pass | needs-review | `pages/0036-periya-idathup-pen-29.md` |
-| 37 | 36 | குமுதா statement closes; glyph-aware first pass | needs-review | `pages/0037-periya-idathup-pen-30.md` |
-| 38 | 37 | internal heading `வீரன்`; glyph-aware first pass | needs-review | `pages/0038-periya-idathup-pen-31.md` |
-| 39 | 38 | `வீரன்`; glyph-aware first pass | needs-review | `pages/0039-periya-idathup-pen-32.md` |
-| 40 | 39 | `வீரன்`; glyph-aware first pass | needs-review | `pages/0040-periya-idathup-pen-33.md` |
-| 41 | 40 | `வீரன்`; glyph-aware first pass | needs-review | `pages/0041-periya-idathup-pen-34.md` |
-| 42 | 41 | `வீரன்`; glyph-aware first pass | needs-review | `pages/0042-periya-idathup-pen-35.md` |
-| 43 | 42 | `வீரன்`; glyph-aware first pass | needs-review | `pages/0043-periya-idathup-pen-36.md` |
-| 44 | 43 | `வீரன்`; glyph-aware first pass | needs-review | `pages/0044-periya-idathup-pen-37.md` |
-| 45 | 44 | internal heading `உலகநாதர்`; glyph-aware first pass | needs-review | `pages/0045-periya-idathup-pen-38.md` |
-| 46 | 45 | internal heading `கண்ணம்மா`; glyph-aware first pass | needs-review | `pages/0046-periya-idathup-pen-39.md` |
-| 47 | 46 | `கண்ணம்மா`; glyph-aware first pass | needs-review | `pages/0047-periya-idathup-pen-40.md` |
-| 48 | 47 | `கண்ணம்மா`; glyph-aware first pass | needs-review | `pages/0048-periya-idathup-pen-41.md` |
-| 49 | 48 | narrative ending + printer colophon; glyph-aware first pass | needs-review | `pages/0049-periya-idathup-pen-42.md` |
+| 37 | 36 | குமுதா statement closes | needs-review | `pages/0037-periya-idathup-pen-30.md` |
+| 38 | 37 | internal heading `வீரன்` | needs-review | `pages/0038-periya-idathup-pen-31.md` |
+| 39 | 38 | `வீரன்` | needs-review | `pages/0039-periya-idathup-pen-32.md` |
+| 40 | 39 | `வீரன்` | needs-review | `pages/0040-periya-idathup-pen-33.md` |
+| 41 | 40 | `வீரன்` | needs-review | `pages/0041-periya-idathup-pen-34.md` |
+| 42 | 41 | `வீரன்` | needs-review | `pages/0042-periya-idathup-pen-35.md` |
+| 43 | 42 | `வீரன்`; dedicated-audit `னா` correction | needs-review | `pages/0043-periya-idathup-pen-36.md` |
+| 44 | 43 | `வீரன்` | needs-review | `pages/0044-periya-idathup-pen-37.md` |
+| 45 | 44 | internal heading `உலகநாதர்` | needs-review | `pages/0045-periya-idathup-pen-38.md` |
+| 46 | 45 | internal heading `கண்ணம்மா`; dedicated-audit `னா` correction | needs-review | `pages/0046-periya-idathup-pen-39.md` |
+| 47 | 46 | `கண்ணம்மா`; dedicated-audit `ணா` correction | needs-review | `pages/0047-periya-idathup-pen-40.md` |
+| 48 | 47 | `கண்ணம்மா` | needs-review | `pages/0048-periya-idathup-pen-41.md` |
+| 49 | 48 | narrative ending + printer colophon | needs-review | `pages/0049-periya-idathup-pen-42.md` |
 
 ## Current count
 
 - Source scan pages: **49**
 - Page-manifest rows: **49 / 49**
 - Page records created: **49 / 49**
+- Dedicated full-source comparison: **49 / 49 — COMPLETE**
 - `verified`: **0**
 - `needs-review`: **49**
 - `partial`: **0**
 - `not-started`: **0**
 - Source PDF stored in repository: **No**
+- Assembled Tamil reading layer: **PASSED**
 
-## Historical-glyph checkpoint
+## Historical-glyph / source-audit checkpoint
 
-Retrospective audit over scans **1–27** is complete. Scans **28–49** were transcribed with the full 13-form historical-glyph rule during first pass. No page is verified.
+Retrospective historical-glyph review over scans **1–27** is complete; scans **28–49** received glyph-aware first-pass transcription; the later dedicated whole-work source comparison then reviewed **all 49 scans** directly.
 
-## Latest boundary notes
+Dedicated-audit historical corrections:
+
+- scan 33 `கண்ணடி` → `கண்ணாடி` (`ணா`);
+- scan 43 `இளிச்சவாயனுக` → `இளிச்சவாயனாக` (`னா`);
+- scan 46 `நானு ஆள்?` → `நானா ஆள்?` (`னா`);
+- scan 47 `விட வேணு?` → `விட வேணா?` (`ணா`).
+
+No page is `verified` because the verification freeze remains active.
+
+## Final boundary notes
 
 - scan 46 `காரண` + scan 47 `மாயிருந்தேன்!` → `காரணமாயிருந்தேன்!`;
 - scan 47 `எழுதி` + scan 48 `யிருந்தாள்.` → `எழுதியிருந்தாள்.`;
 - scan 48 `ஒரு பெரிய` + scan 49 `ஜோதி நிரந்தரமாக...` → `ஒரு பெரிய ஜோதி நிரந்தரமாக...`;
-- scan 49 visibly closes the narrative with `...எங்களிடம் வரவேண்டும், தெரியுமா?`;
-- scan 49 separately prints the printer colophon `ஸ்ரீமகள் அச்சகம், சென்னை-1`.
+- scan 49 closes the narrative with `...எங்களிடம் வரவேண்டும், தெரியுமா?`;
+- scan 49 separately prints `ஸ்ரீமகள் அச்சகம், சென்னை-1`.
 
-## Structural caution
+## Structural / assembled-reading checkpoint
 
-Directly confirmed internal headings: `உத்தண்டி` (scan 15), `கண்ணம்மா` (scan 19), `குமுதா` (scan 32), `வீரன்` (scan 38), `உலகநாதர்` (scan 45), and `கண்ணம்மா` (scan 46). They remain internal structure within the same continuous work.
+Source-printed internal headings remain `உத்தண்டி` (scan 15), `கண்ணம்மா` (scan 19), `குமுதா` (scan 32), `வீரன்` (scan 38), `உலகநாதர்` (scan 45), and `கண்ணம்மா` (scan 46).
+
+The passed reader uses seven files under `../sections/`, splitting scans 15 and 19 only at those source-printed mid-page headings. Narrative scans **8–49** are represented with reversible provenance; front matter scans **1–7** remains in this canonical page layer.
+
+See [`../ASSEMBLED_TAMIL_AUDIT.md`](../ASSEMBLED_TAMIL_AUDIT.md) and [`../sections/README.md`](../sections/README.md).
 
 ## Next activity
 
-Canonical source coverage is now **49 / 49**, but the verification freeze remains active. Perform a dedicated **Tamil source/audit review** across the complete work, concentrating on unresolved/source-sensitive readings, historical-glyph consistency, page-boundary joins, metadata and structural continuity. Keep pages `needs-review`; do not automatically verify, assemble Tamil sections, or begin English translation.
+Prepare the **English translation plan** from the passed assembled Tamil layer. Define section mapping, source-authority hierarchy, glossary / names policy, source-specific language treatment and review gates before drafting English prose. Keep all canonical records `needs-review` under the active verification freeze.

@@ -19,7 +19,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; dedicated full Tamil source audit COMPLETE — 49/49 directly reviewed; verification freeze ACTIVE; 0 verified / 49 `needs-review`; dedicated audit found historical-glyph corrections on scans 33, 43, 46 and 47; assembled Tamil is the next phase; English remains blocked pending assembled Tamil** |
+| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; dedicated full Tamil source audit COMPLETE — 49/49 directly reviewed; verification freeze ACTIVE; 0 verified / 49 `needs-review`; assembled Tamil reading layer PASSED across 7 source-structured files; English translation plan is next** |
 
 ## Completed works
 
@@ -38,6 +38,8 @@ The completed whole-work audit of `பெரிய இடத்துப் ப�
 - scan 43 `இளிச்சவாயனுக` → `இளிச்சவாயனாக` (`னா`);
 - scan 46 `நானு ஆள்?` → `நானா ஆள்?` (`னா`);
 - scan 47 `விட வேணு?` → `விட வேணா?` (`ணா`).
+
+The passed assembled Tamil reader preserves those final canonical readings, all source-printed internal headings and audit-established page-boundary joins. Its `PASSED` status does not override the canonical verification freeze.
 
 ## புதையல் — final release state
 
