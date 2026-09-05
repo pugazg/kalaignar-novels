@@ -18,43 +18,48 @@ English-layer review states do not alter the Tamil canonical statuses.
 |---|---|---|---|
 | **1 — pilot** | `../../sections/01-opening.md` — scans 8–15 before `உத்தண்டி` | `sections/01-opening.md` | **REVIEWED** |
 | **2** | `../../sections/02-uthandi.md` — scan 15 `உத்தண்டி` through scan 19 before `கண்ணம்மா` | `sections/02-uthandi.md` | **REVIEWED** |
-| **3A** | `../../sections/03-kannamma-first.md` — scan 19 heading through scan 24 | `sections/03-kannamma-first.md` | not-started |
-| **3B** | same — scans 25–31 | same | not-started |
-| **4** | `../../sections/04-kumudha.md` — scans 32–37 | `sections/04-kumudha.md` | not-started |
-| **5** | `../../sections/05-veeran.md` — scans 38–44 | `sections/05-veeran.md` | not-started |
+| **3A** | `../../sections/03-kannamma-first.md` — scan 19 heading through scan 24 | `sections/03-kannamma-first.md` | **REVIEWED** |
+| **3B** | same — scans 25–31 | same | **REVIEWED** |
+| **4** | `../../sections/04-kumudha.md` — scans 32–37 | `sections/04-kumudha.md` | **REVIEWED** |
+| **5** | `../../sections/05-veeran.md` — scans 38–44 | `sections/05-veeran.md` | **REVIEWED** |
 | **6** | `../../sections/06-ulaganathar.md` — scan 45 | `sections/06-ulaganathar.md` | not-started |
 | **7** | `../../sections/07-kannamma-conclusion.md` — scans 46–49 | `sections/07-kannamma-conclusion.md` | not-started |
 
 ## Current counts
 
 - final English section files planned: **7**;
-- drafted: **2 / 7**;
-- source-checked: **2 / 7**;
-- reviewed: **2 / 7**;
+- drafted: **5 / 7**;
+- source-checked: **5 / 7**;
+- reviewed: **5 / 7**;
 - verified: **0 / 7**;
-- translation batches completed through review: **2 / 8**.
+- translation batches completed through review: **6 / 8**.
 
-## Batch 1 result
+## Reviewed results through Section 05
 
-Opening pilot: **REVIEWED / PASS**. Style decisions are recorded in [`GLOSSARY.md`](GLOSSARY.md) and [`BATCH_01_REVIEW.md`](BATCH_01_REVIEW.md).
+- Batch 1 / opening: **REVIEWED / PASS**;
+- Batch 2 / Uthandi: **REVIEWED / PASS**;
+- Batches 3A + 3B / first Kannamma account: **REVIEWED / PASS**;
+- Batch 4 / Kumudha: **REVIEWED / PASS**;
+- Batch 5 / Veeran: **REVIEWED / PASS**.
 
-## Batch 2 result
+The three newly completed sections preserve their distinct narrator viewpoints:
 
-Uthandi account: **REVIEWED / PASS**.
+- Kannamma's self-justifying religious/moral rhetoric and plan against Kumudha remain her claims;
+- Kumudha's signed statement preserves her coercion/violation account, suicide declaration and final social plea;
+- Veeran's later interpretation of what he saw remains his limited belief and is **not** corrected using Kumudha's account or later Kannamma testimony.
 
-Source-check confirmed:
+Key page joins in scans 19–44 were checked against canonical records, including `என்னிலே`, `காலக்ஷேபங்கூட`, `மட்டும்`, `ஒய்யாரக்`, `கவலையில்லை`, `நிலையிலேயே`, `அதனுடைய`, `தூக்கிச் சென்றதாக`, `தேவையான பொருளாகிவிட்டேன்`, `கல்யாணத்தை`, and `கடவுள் பொறுப்பாரா?`.
 
-- complete range from scan 15 `உத்தண்டி` heading through scan 19 before `கண்ணம்மா`;
-- hereditary servitude, mortgage leverage, 500-rupee debt, wage proposal and marriage/dowry plan represented;
-- Uthandi's limited viewpoint and self-blaming voice preserved;
-- scan 15→16 `தெரிந்தது.`, scan 16→17 `நம் வீட்டு`, scan 17→18 money/God comparison, and scan 18→19 `என்றேன்.` continuities represented with provenance;
-- `தலையாரி` remains `talaiyari`; `அண்ணி` is retained as `Anni` where the source household-address form matters;
-- `விபசாரி` is `adulteress` in Uthandi's final accusation;
-- source-sensitive `பசீர்`, `சப்பைக்கட்டுகள்`, `கபோதி`, `செக்கச் செவேல்` and `பாழும்` forms were translated cautiously and documented;
-- no Tamil canonical change was required.
+Historical-glyph corrections already established in Tamil (`கண்ணாடி`, `இளிச்சவாயனாக` and earlier corrected forms in the Kannamma range) are reflected in English from the final canonical readings.
 
-Detailed review: [`BATCH_02_REVIEW.md`](BATCH_02_REVIEW.md).
+No new Tamil canonical correction was required during translation/review of Sections 03–05.
+
+Detailed reviews:
+
+- [`BATCH_03_REVIEW.md`](BATCH_03_REVIEW.md)
+- [`BATCH_04_REVIEW.md`](BATCH_04_REVIEW.md)
+- [`BATCH_05_REVIEW.md`](BATCH_05_REVIEW.md)
 
 ## Exact next activity
 
-Translate **Batch 3A — the first `கண்ணம்மா` account**, from the `கண்ணம்மா` heading on scan 19 through scan 24. Preserve Kannamma's self-justifying first-person voice and contradictions without reconciling them with Uthandi or later narrators. Source-check/review Batch 3A before continuing to Batch 3B.
+Translate and review **Batch 6 — `உலகநாதர்`**, the complete source-printed Ulaganathar account on scan 45. Preserve his own first-person accusation and limited viewpoint without correcting it from Kannamma's later conclusion. Source-check scan 45 against the canonical page record before moving to Batch 7.

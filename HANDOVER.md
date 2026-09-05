@@ -81,33 +81,24 @@ Translation control files:
 - `works/periya-idathup-pen/translations/en/PROGRESS.md`;
 - `works/periya-idathup-pen/translations/en/GLOSSARY.md`.
 
-### Batch 1 — opening pilot
+### Reviewed English sections
 
-- source: `sections/01-opening.md`, scans 8–15 before `உத்தண்டி`;
-- English: `translations/en/sections/01-opening.md`;
-- status: **REVIEWED / PASS**;
-- review: `translations/en/BATCH_01_REVIEW.md`;
-- Tamil canonical correction triggered: **none**.
+1. `translations/en/sections/01-opening.md` — scans 8–15 before `உத்தண்டி` — **REVIEWED / PASS**; review `BATCH_01_REVIEW.md`.
+2. `translations/en/sections/02-uthandi.md` — scan 15 `உத்தண்டி` through scan 19 before `கண்ணம்மா` — **REVIEWED / PASS**; review `BATCH_02_REVIEW.md`.
+3. `translations/en/sections/03-kannamma-first.md` — scan 19 first `கண்ணம்மா` through scan 31 — **REVIEWED / PASS**; planned Batches **3A + 3B** both complete; review `BATCH_03_REVIEW.md`.
+4. `translations/en/sections/04-kumudha.md` — scans 32–37 — **REVIEWED / PASS**; review `BATCH_04_REVIEW.md`.
+5. `translations/en/sections/05-veeran.md` — scans 38–44 — **REVIEWED / PASS**; review `BATCH_05_REVIEW.md`.
 
-### Batch 2 — Uthandi
+### Controls established through Sections 03–05
 
-- source: `sections/02-uthandi.md`;
-- range: scan 15 `உத்தண்டி` heading through scan 19 immediately before `கண்ணம்மா`;
-- English: `translations/en/sections/02-uthandi.md`;
-- status: **REVIEWED / PASS**;
-- review: `translations/en/BATCH_02_REVIEW.md`;
-- Tamil canonical correction triggered: **none**.
-
-Batch 2 source-check confirmed:
-
-- hereditary servitude, Ulaganathar's mortgage/debt leverage, 500-rupee debt, maid proposal and twenty-rupee wage represented;
-- Uthandi's marriage/dowry plan, Kumudha's reluctance, his later remorse and final accusation represented;
-- established boundaries retained: scan 15→16 `தெரிந்தது.`, scan 16→17 `நம் வீட்டு`, scan 17→18 `கண்டது போலத்தானே!`, scan 18→19 `என்றேன்.`;
-- `தலையாரி` → `talaiyari`;
-- `நம் வீட்டு அண்ணி` → `our house's Anni` with glossary control;
-- `விபசாரி` → `adulteress` in Uthandi's accusation context;
-- `பசீர்`, `சப்பைக்கட்டுகள்`, `கபோதி`, `செக்கச் செவேல்`, `பாழும்` handled cautiously and documented;
-- the scan-19 `கண்ணம்மா` heading / first-person text was not pulled into Batch 2.
+- first Kannamma account preserves her own self-justifying religious/moral rhetoric, marriage grievance, Veeran relationship, pregnancy termination and scheme against Kumudha; it is not harmonised with later testimony;
+- Kumudha's signed statement preserves her letter form, coercion/violation account, Ramayana/Nalayini comparisons, diamond ingestion and final social plea;
+- Veeran's section preserves his **limited and contradictory interpretation** of Kumudha. His accusations are not corrected inside his own prose using Kumudha's statement or the later Kannamma conclusion;
+- harsher `வேசி / தாசி` invective is distinguished from `விபசாரி` in the glossary and remains attributed to the speaker;
+- source-specific difficult forms remain documented rather than silently normalised;
+- source-supported physical joins through scan 44 remain traceable in HTML comments;
+- canonical historical corrections, including scan 33 `கண்ணாடி` and scan 43 `இளிச்சவாயனாக`, are reflected in the English from final Tamil readings;
+- Tamil canonical corrections triggered by English Sections 01–05: **none**.
 
 ## Current stage
 
@@ -119,31 +110,30 @@ Batch 2 source-check confirmed:
 - canonical `needs-review`: **49**;
 - verification freeze: **ACTIVE**;
 - English translation plan: **COMPLETE**;
-- English sections drafted/source-checked/reviewed: **2 / 7**;
+- English sections drafted/source-checked/reviewed: **5 / 7**;
 - English sections verified: **0 / 7**;
-- translation batches completed through review: **2 / 8**.
+- translation batches completed through review: **6 / 8**.
 
 ## Exact next activity
 
-Translate **English Batch 3A — first `கண்ணம்மா` account**.
+Translate **English Batch 6 — `உலகநாதர்`**.
 
 Required range:
 
-- Tamil assembled source: `works/periya-idathup-pen/sections/03-kannamma-first.md`;
-- source starts at scan 19 / printed 18 heading `கண்ணம்மா`;
-- Batch 3A stops at the end of scan 24;
-- canonical authority: scans 19–24 in `works/periya-idathup-pen/pages/`.
+- Tamil assembled source: `works/periya-idathup-pen/sections/06-ulaganathar.md`;
+- source scope: **scan 45 / printed page 44**, from the source heading `உலகநாதர்` through the complete account immediately before the scan-46 `கண்ணம்மா` heading;
+- canonical authority: `works/periya-idathup-pen/pages/0045-periya-idathup-pen-38.md`.
 
 Required workflow:
 
-1. translate Batch 3A into `translations/en/sections/03-kannamma-first.md` without pulling in scans 25–31 yet;
-2. preserve Kannamma's self-justifying first-person rhetoric, moral claims, religious vocabulary and contradictions as her viewpoint;
-3. do **not** reconcile her account with Uthandi, Kumudha, Veeran or the later Kannamma conclusion;
-4. source-check every paragraph and established page join against canonical scans 19–24;
-5. update glossary only for recurring source-supported decisions actually encountered;
-6. create a Batch 3A review record and update progress/status docs;
+1. translate the complete Ulaganathar first-person account into `translations/en/sections/06-ulaganathar.md`;
+2. preserve Ulaganathar's accusation, wounded pride and limited knowledge as **his viewpoint**;
+3. do not silently correct his interpretation using the later Kannamma conclusion;
+4. source-check the entire account against canonical scan 45;
+5. update glossary only for recurring decisions actually encountered;
+6. create a Batch 6 review record and update progress/status docs;
 7. keep all canonical Tamil pages `needs-review` under the active freeze;
-8. do not begin Batch 3B until Batch 3A is source-checked and reviewed.
+8. do not begin Batch 7 until Batch 6 is source-checked and reviewed.
 
 ---
 

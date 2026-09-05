@@ -19,7 +19,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; full Tamil source audit COMPLETE; verification freeze ACTIVE — 0 verified / 49 `needs-review`; assembled Tamil PASSED; English plan COMPLETE; Batches 1 and 2 REVIEWED; English 2/7 sections reviewed, 0/7 verified; next: Kannamma Batch 3A** |
+| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; full Tamil source audit COMPLETE; verification freeze ACTIVE — 0 verified / 49 `needs-review`; assembled Tamil PASSED; English plan COMPLETE; Sections 01–05 REVIEWED; English 5/7 sections reviewed, 0/7 verified; 6/8 translation batches reviewed; next: Ulaganathar Batch 6** |
 
 ## Completed works
 
@@ -41,9 +41,12 @@ Working English title: **The Woman of the Great House**.
 Completed reviewed English sections:
 
 - [`works/periya-idathup-pen/translations/en/sections/01-opening.md`](works/periya-idathup-pen/translations/en/sections/01-opening.md) — opening pilot, scans 8–15 before `உத்தண்டி`;
-- [`works/periya-idathup-pen/translations/en/sections/02-uthandi.md`](works/periya-idathup-pen/translations/en/sections/02-uthandi.md) — `உத்தண்டி`, scan 15 heading through scan 19 before `கண்ணம்மா`.
+- [`works/periya-idathup-pen/translations/en/sections/02-uthandi.md`](works/periya-idathup-pen/translations/en/sections/02-uthandi.md) — `உத்தண்டி`, scan 15 heading through scan 19 before `கண்ணம்மா`;
+- [`works/periya-idathup-pen/translations/en/sections/03-kannamma-first.md`](works/periya-idathup-pen/translations/en/sections/03-kannamma-first.md) — first `கண்ணம்மா`, scan 19 heading through scan 31; planned Batches 3A + 3B both reviewed;
+- [`works/periya-idathup-pen/translations/en/sections/04-kumudha.md`](works/periya-idathup-pen/translations/en/sections/04-kumudha.md) — `குமுதா`, scans 32–37;
+- [`works/periya-idathup-pen/translations/en/sections/05-veeran.md`](works/periya-idathup-pen/translations/en/sections/05-veeran.md) — `வீரன்`, scans 38–44.
 
-Batch 2 preserves Uthandi's hereditary-servitude, class/debt, wage, marriage/dowry and self-blaming vocabulary. Its page-boundary continuities were source-checked, difficult source forms were recorded in the translation glossary, and no Tamil canonical correction was triggered.
+Sections 03–05 were processed together at the user's request while retaining independent source/review gates. The first Kannamma account preserves her self-justifying rhetoric; Kumudha's signed statement preserves her coercion/violation account and closing; Veeran's contradictory interpretation remains his own limited viewpoint and is not harmonised with the preceding testimony. No Tamil canonical correction was triggered by these English reviews.
 
 Control records:
 
@@ -52,8 +55,11 @@ Control records:
 - [`works/periya-idathup-pen/translations/en/GLOSSARY.md`](works/periya-idathup-pen/translations/en/GLOSSARY.md)
 - [`works/periya-idathup-pen/translations/en/BATCH_01_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_01_REVIEW.md)
 - [`works/periya-idathup-pen/translations/en/BATCH_02_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_02_REVIEW.md)
+- [`works/periya-idathup-pen/translations/en/BATCH_03_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_03_REVIEW.md)
+- [`works/periya-idathup-pen/translations/en/BATCH_04_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_04_REVIEW.md)
+- [`works/periya-idathup-pen/translations/en/BATCH_05_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_05_REVIEW.md)
 
-Next English activity is **Batch 3A — the first `கண்ணம்மா` account, scan 19 heading through scan 24**.
+Next English activity is **Batch 6 — `உலகநாதர்`, scan 45 / printed page 44**.
 
 ## புதையல் — final release state
 
