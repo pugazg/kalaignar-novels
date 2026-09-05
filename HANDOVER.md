@@ -8,195 +8,94 @@
 - Current target: `works/periya-idathup-pen/`
 - Completed reference implementation: `works/balipeedam-nokki/`
 
-## Mandatory startup for continuation
-
-Before changing the current work, read completely:
-
-1. `NOVEL_PROCESSING_GUIDE.md`;
-2. root `README.md`;
-3. this `HANDOVER.md`;
-4. `works/periya-idathup-pen/README.md`;
-5. `works/periya-idathup-pen/HISTORICAL_GLYPH_AUDIT.md`;
-6. `works/periya-idathup-pen/metadata/source.md`;
-7. `works/periya-idathup-pen/indexes/page-map.md`;
-8. `works/periya-idathup-pen/audit.md`;
-9. relevant existing page records.
-
-The attached source scan remains controlling. Do not commit the PDF.
+Before changing the active work, read the root guide/README/handover plus the active work README, `HISTORICAL_GLYPH_AUDIT.md`, metadata, page map, audit, and relevant page record. The attached PDF remains controlling and must not be committed.
 
 ## பெரிய இடத்துப் பெண் — source identity
 
-- source filename: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf`;
+- source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf`;
 - SHA-256: `50db9c55d670065bd81088ee07e4527f5531a9ab15e3c4533d6b10eda8d09e9628`;
-- file size: **70,952,481 bytes**;
-- source scans: **49**;
-- title visible on scan 1: **பெரிய இடத்துப் பெண்**;
-- author visible on scan 1: **மு. கருணாநிதி**;
-- publisher/place visible on scan 1: **திராவிடன் பதிப்பகம் / வேலூர் (வ. ஆ.)**;
-- edition visible on scan 3: **எட்டாம் பதிப்பு: ஜூலை 1953**;
-- price visible on scan 3: **விலை 0—8—0**;
+- size: **70,952,481 bytes**;
+- scans: **49**;
+- title: **பெரிய இடத்துப் பெண்**;
+- author: **மு. கருணாநிதி**;
+- publisher/place: **திராவிடன் பதிப்பகம் / வேலூர் (வ. ஆ.)**;
+- edition: **எட்டாம் பதிப்பு: ஜூலை 1953**;
+- price: **விலை 0—8—0**;
 - sales rights: **எம். எஸ். ராஜுலு கம்பெனி, 286, சைனா பஜார், சென்னை-1**.
 
-## CURRENT VERIFICATION FREEZE
+## Verification freeze
 
-**Do not mark any page in `பெரிய இடத்துப் பெண்` as `verified`.**
+**Do not mark any page in this work as `verified`.**
 
-The user identified a systematic transcription failure caused by historical/pre-reform Tamil typeforms being read according to modern visual resemblance. The complete known Periyar-reform reference set supplied by the user is:
+The user identified historical/pre-reform Tamil glyph misreadings. The full known Periyar-reform reference set is:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-The historical shapes are visual typeforms. Canonical Markdown must encode the actual Tamil identity in modern Unicode after source-pixel confirmation. This is **not** permission to modernize spelling, grammar, punctuation or vocabulary.
+Determine character identity from source pixels and encode that identity in modern Unicode. Do not global-replace or modernize wording, spelling, grammar, or punctuation. Every page remains `needs-review` while the retrospective audit is open.
 
-All existing canonical records for scans **1–27** are `needs-review`. Future page records must also remain `needs-review` while the historical-glyph audit is open unless the user explicitly changes this policy.
+## Confirmed glyph corrections already made
 
-## Confirmed historical-glyph corrections
+- scan 20 / printed 19: `நன்றுகத்` → `நன்றாகத்`;
+- scan 21 / printed 20: `நன்றுகத்தான்` → `நன்றாகத்தான்`;
+- scan 24 / printed 23: `நன்றுக` → `நன்றாக`;
+- scan 24 / printed 23: `விழுவேன் என்றுனா?` → `விழுவேன் என்றானா?`.
 
-| Scan | Printed page | Earlier transcription | Correct Unicode reading |
-|---:|:---:|---|---|
-| 20 | 19 | `நன்றுகத்` | `நன்றாகத்` |
-| 21 | 20 | `நன்றுகத்தான்` | `நன்றாகத்தான்` |
-| 24 | 23 | `நன்றுக` | `நன்றாக` |
-| 24 | 23 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` |
+Independent source-text corrections found during the retrospective pass:
 
-Do not global-search-and-replace from these examples. Every occurrence must be checked against its own source pixels.
+- scan 4: `சமூகத்தின்` → `சமுதாயத்தின்`;
+- scan 5: `அற்பிய` → `அரும்பிய`;
+- scan 5: `சமூகமும்` → `சமுதாயம்`.
 
 ## Retrospective historical-glyph audit progress
 
-### Scan 1 — completed one-page pass
+- scan 1: complete; no correction;
+- scan 2: complete; later gift label checked, no source-work correction;
+- scan 3: complete; `லை / னை / னா` historical forms confirmed and already encoded correctly;
+- scan 4: complete; six historical-form occurrences confirmed; one lexical correction;
+- scan 5: complete; four historical-form occurrences confirmed; two lexical corrections;
+- **scan 6: complete; five historical-form occurrences confirmed; no text correction**.
 
-Cover re-read against the complete 13-form reference. No conversion or text correction required. Scan remains `needs-review`.
+### Scan 6 finding
 
-### Scan 2 — completed one-page pass
+Positive historical forms:
 
-No original 1953 source-work print is present. The later printed gift label was checked against the 13-form set; no conversion required. Handwriting remains outside canonical source text. Scan remains `needs-review`.
+- `கருணாநிதி` — `ணா`;
+- `நிலையில்` — `லை`;
+- `இல்லை` — `லை`;
+- `அதனால்` — `னா`;
+- `கற்பனைதான்` — `னை`.
 
-### Scan 3 — completed one-page pass
+All were already encoded correctly. The whole page was re-read at enlarged/high resolution. `வனிதையர்களின்`, `வாலிபக் கிழங்களோடு`, `புரையோடிக்கொண்டிருக்கும்`, and `நம்முன். காட்சியளிக்கத்தான்` remain source-supported. Scan 6 remains `needs-review`.
 
-Positive historical-form occurrences: `ஜூலை` (`லை`), `விலை` (`லை`), `விற்பனை` (`னை`), `சைனா` (`னா`), `சென்னை` (`னை`). All were already encoded correctly. Scan remains `needs-review`.
-
-### Scan 4 — completed one-page pass
-
-Positive historical-form occurrences: `தலையிடுவது` (`லை`), `பார்ப்பதில்லை` (`லை`), `ஆனால்` (`னா`), `எத்தனையோ` (`னை`), `ஆனாலும்` (`னா`), `கருணாநிதி` (`ணா`). All were already encoded correctly.
-
-One independent earlier transcription error was corrected directly from the scan: `சமூகத்தின்` → **`சமுதாயத்தின்`**. Scan remains `needs-review`.
-
-### Scan 5 — completed one-page pass
-
-The `பதிப்புரை` page was re-read at enlarged/high resolution.
-
-Positive historical-form occurrences:
-
-- `அதினைச்` — `னை`;
-- `அதினை` — `னை`;
-- `கருத்துக்களைத்` — `ளை`;
-- `மூலை` — `லை`.
-
-All four were already encoded with the correct modern Unicode identities.
-
-Two independent earlier transcription errors were corrected directly from the source:
-
-- `அற்பிய` → **`அரும்பிய`**;
-- `சமூகமும்` → **`சமுதாயம்`**.
-
-These are source-text corrections, not 13-form modernization. Source-specific `விலாவொடியப்`, `ஏற்பட்டச்`, and `அவர்கட்கு` were rechecked and retained. Scan 5 remains `needs-review`.
-
-Progress: **5 / 27 existing canonical scans re-audited; scans 6–27 pending**.
+**Progress: 6 / 27 existing canonical scans re-audited; scans 7–27 pending.**
 
 ## Current stage
 
-- source registration: **complete**;
-- page map: **49 / 49 scans represented**;
-- canonical page records: **27 / 49 — scans 1–27**;
+- source registration: complete;
+- page map: **49 / 49**;
+- canonical records: **27 / 49 — scans 1–27**;
 - `verified`: **0**;
-- `needs-review`: **27 — scans 1–27**;
+- `needs-review`: **27**;
 - `partial`: **0**;
 - `not-started`: **22 — scans 28–49**;
-- historical-glyph retrospective audit: **OPEN — 5 / 27 reviewed**;
+- historical-glyph audit: **OPEN — 6 / 27**;
 - Tamil source audit: **NOT PASSED**;
-- assembled Tamil sections: **BLOCKED / not started**;
-- English translation: **BLOCKED / not started**;
+- assembled Tamil: **BLOCKED**;
+- English translation: **BLOCKED**;
 - source PDF committed: **No**.
 
-## Existing transcription coverage
-
-Canonical records exist continuously through `works/periya-idathup-pen/pages/0027-periya-idathup-pen-20.md`, but none carries verified status.
-
-Structural observations retained provisionally:
-
-- scan 15 / printed 14 contains internal heading `உத்தண்டி`;
-- scan 19 / printed 18 contains internal heading `கண்ணம்மா`;
-- scan 27 begins an internal parenthetical recollection involving தலையாரி உத்தண்டி.
-
-These are source-structure observations only and do not establish page verification.
-
-## Existing boundary evidence
-
-The following joins remain useful source evidence but are provisional until the retrospective page audit is complete:
-
-- scan 11 `கிடப்ப` + scan 12 `தாகக்` → `கிடப்பதாகக்`;
-- scan 14 `நினைக்` + scan 15 `காதே!` → `நினைக்காதே!`;
-- scan 15 `தெரிந்` + scan 16 `தது.` → `தெரிந்தது.`;
-- scan 16 `நம்` + scan 17 `வீட்டு` → `நம் வீட்டு`;
-- scan 17 `கண்டது` + scan 18 `போலத்தானே!`;
-- scan 19 `என்` + scan 20 `னிலே` → `என்னிலே`;
-- scan 20 `நானும்` + scan 21 `நன்றாகத்தான்`;
-- scan 22 `மட்` + scan 23 `டும்` → `மட்டும்`;
-- scan 24 `‘ஒய்யா` + scan 25 `ரக்` → `‘ஒய்யாரக்`;
-- scan 25 `கவலை` + scan 26 `யில்லை.` → `கவலையில்லை.`;
-- scan 26 `நிலையி` + scan 27 `லேயே` → `நிலையிலேயே`;
-- scan 27 ends inside a parenthetical sentence after `அவனுக்கு ஒரு`; continuation awaits scan 28.
-
-## Historical-glyph audit rule
-
-For every page:
-
-1. inspect complete glyph clusters at native/high resolution;
-2. explicitly check the full known historical set corresponding to `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-3. distinguish historical/pre-reform glyph identity from modern visual resemblance;
-4. compare another same-edition occurrence where useful;
-5. require positive source-pixel evidence for character identity;
-6. encode the actual historical character identity in modern Unicode;
-7. do not silently modernize vocabulary, spelling, grammar or punctuation;
-8. do not globalize a finding from one occurrence to another;
-9. if an independent transcription mismatch is positively visible, correct and document it separately from glyph conversion;
-10. keep the page `needs-review` while this work-wide audit remains open.
-
-The 13-form chart is a minimum known reference set; remain alert for other legacy typographic ambiguity.
-
-## Printed-page behaviour
-
-- scans 1–6: no visible printed page number;
-- scan 7: printed page **6**;
-- scan 8: no visible printed page number;
-- scans 9–49: printed pages **8–48**.
-
-Never infer the missing scan-8 number from sequence.
+Printed-page behavior remains: scans 1–6 unnumbered; scan 7 visibly printed **6**; scan 8 unnumbered; scans 9–49 visibly printed **8–48**.
 
 ## Exact next activity
 
-**Audit scan 6 only. Do not move beyond one page in that activity.**
+**Audit scan 7 only. Do not move beyond one page.**
 
-Use the same one-page method:
+Inspect the complete scan at enlarged/high resolution, check all 13 known historical forms and any other legacy ambiguity, make only pixel-supported glyph-identity or independent source-text corrections, record the result in the page record and audit trackers, keep scan 7 `needs-review`, and stop.
 
-1. inspect the entire scan at enlarged/high resolution;
-2. inspect every printed glyph cluster against the complete 13-form historical reference;
-3. make only pixel-supported glyph-identity or independent source-text corrections;
-4. record the result in the page record and `HISTORICAL_GLYPH_AUDIT.md`;
-5. keep scan 6 `needs-review` regardless of whether corrections are found;
-6. stop after scan 6 and report the result.
-
-Do not continue to scans 28–32, assembled Tamil, or English translation.
+Do not continue to scan 8, scans 28–32, assembled Tamil, or English translation in that activity.
 
 ---
 
-# Completed prior work — புதையல்
+## Completed prior work — புதையல்
 
-The previous `புதையல்` project remains unchanged at its durable release state:
-
-- canonical records: **448 / 448**;
-- verified / completed: **446**;
-- `needs-review`: **2 — scans 223–224 only**, due to substantial physical paper loss;
-- Parts **001–010: part-complete**;
-- assembled Tamil through scan 448: complete;
-- whole-work English: **VERIFIED**;
-- repository package: **RELEASE-READY WITH TWO PART-005 PHYSICAL-LOSS QUALIFICATIONS**.
+The prior `புதையல்` work remains unchanged at its durable release state: 448/448 canonical records, 446 completed, two physical-loss scans 223–224 still `needs-review`, assembled Tamil complete, whole-work English verified, release-ready with those two qualifications.
