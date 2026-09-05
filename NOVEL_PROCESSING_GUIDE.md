@@ -8,6 +8,8 @@
 
 அந்த work-ன் structure, audit, assembled Tamil layer, English translation, bilingual review மற்றும் release report ஆகியவை புதிய work-களுக்கான model ஆக பயன்படுத்தலாம். ஆனால் புதிய source-ன் structure-ஐ reference work-க்கு force-fit செய்யக்கூடாது.
 
+Older / pre-reform Tamil print-ஐ transcribe செய்யும்போது இந்த guide-உடன் root [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md)-ஐ கட்டாயமாகப் பயன்படுத்தவும். அது historical glyph identity → modern Unicode decoding-க்கான reusable cross-project procedure.
+
 ---
 
 # 1. அடிப்படை விதி — source authority
@@ -47,14 +49,15 @@ Source தவறாகத் தோன்றினாலும் canonical tran
 
 1. repository root `README.md` படிக்கவும்;
 2. இந்த `NOVEL_PROCESSING_GUIDE.md` முழுவதும் படிக்கவும்;
-3. root `HANDOVER.md` படிக்கவும்;
-4. `works/balipeedam-nokki/` completed reference implementation-ஐ structure reference ஆக மட்டும் ஆய்வு செய்யவும்;
-5. repository-யை inspect செய்து target work ஏற்கனவே தொடங்கியுள்ளதா என்று உறுதி செய்யவும்;
-6. work ஏற்கனவே இருந்தால் புதிய duplicate directory உருவாக்காமல் அதையே தொடரவும்;
-7. attached PDF-ஐ actual scan pages மூலம் inspect செய்யவும்;
-8. **filename-ஐ மட்டும் நம்பி title, edition, year, work identity அல்லது page structure தீர்மானிக்க வேண்டாம்**;
-9. internal title-card / story-title / film-title போன்றவை source-ன் main work-இலிருந்து தனி work என உடனே கருத வேண்டாம் — surrounding narrative flow முதலில் ஆய்வு செய்ய வேண்டும்;
-10. source PDF-ஐ repository-க்கு upload/commit செய்யக்கூடாது.
+3. source older/historical Tamil print என்றால் [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) முழுவதும் படிக்கவும்;
+4. root `HANDOVER.md` படிக்கவும்;
+5. `works/balipeedam-nokki/` completed reference implementation-ஐ structure reference ஆக மட்டும் ஆய்வு செய்யவும்;
+6. repository-யை inspect செய்து target work ஏற்கனவே தொடங்கியுள்ளதா என்று உறுதி செய்யவும்;
+7. work ஏற்கனவே இருந்தால் புதிய duplicate directory உருவாக்காமல் அதையே தொடரவும்;
+8. attached PDF-ஐ actual scan pages மூலம் inspect செய்யவும்;
+9. **filename-ஐ மட்டும் நம்பி title, edition, year, work identity அல்லது page structure தீர்மானிக்க வேண்டாம்**;
+10. internal title-card / story-title / film-title போன்றவை source-ன் main work-இலிருந்து தனி work என உடனே கருத வேண்டாம் — surrounding narrative flow முதலில் ஆய்வு செய்ய வேண்டும்;
+11. source PDF-ஐ repository-க்கு upload/commit செய்யக்கூடாது.
 
 ---
 
@@ -216,6 +219,8 @@ Particularly difficult words:
 
 ## Mandatory old / historical Tamil glyph check before correction
 
+For the full reusable procedure, known Periyar-reform-sensitive forms, decision tree, same-edition comparison method, OCR cautions and audit templates, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md).
+
 பழைய தமிழ் அச்சுருக்கள் modern font-களைப் போலத் தெரியாமல் இருக்கலாம். குறிப்பாக faint vowel marks, combining marks, worn ink, bleed-through, uneven inking ஆகியவை ஒரு முழு glyph cluster-ஐ incomplete போல காட்டலாம்.
 
 ஒரு supplied/user baseline character source-ல் “இல்லை” என்று தோன்றுவதற்குப் பதிலாக “இல்ல” / “வில்ல” போன்ற short form போலத் தெரிகிறது என்பதற்காக உடனே correction செய்யக்கூடாது.
@@ -348,7 +353,7 @@ Translation தொடங்குவதற்கு முன்:
 - cross-page continuities checked;
 - internal structural units correctly identified;
 - no silent modernization/correction found;
-- difficult / old-type glyph corrections have passed the Section 7 pre-correction visual gate;
+- difficult / old-type glyph corrections have passed the Section 7 pre-correction visual gate and the reusable historical-glyph guide;
 - source PDF still excluded from repository;
 - `audit.md` states result clearly.
 
