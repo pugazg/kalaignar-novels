@@ -127,7 +127,7 @@ A separate bottom printer colophon directly reads:
 
 `ஸ்ரீமகள் அச்சகம், சென்னை-1`
 
-## Gate after complete source audit
+## Final source-audit gate
 
 - canonical records: **49 / 49**;
 - dedicated full-source audit: **COMPLETE — 49 / 49 directly reviewed**;
@@ -137,10 +137,23 @@ A separate bottom printer colophon directly reads:
 - verification freeze: **ACTIVE**;
 - Tamil source-comparison audit: **COMPLETE**;
 - page-level verification status: **unchanged under freeze**;
-- assembled Tamil reading layer: **READY AS NEXT PHASE / not started**;
-- English translation: **BLOCKED pending assembled Tamil**;
 - source PDF committed: **No**.
 
-## Exact next activity
+## Subsequent completion state
 
-Build the **assembled Tamil reading layer** from the 49 canonical page records, preserving reversible source provenance and only joining positively established physical page-boundary fragments. Do not change any canonical page status: all 49 remain `needs-review` under the active verification freeze. English translation must wait until the assembled Tamil layer has undergone its own consistency audit.
+The downstream stages that were once future work are now complete:
+
+- assembled Tamil reading layer: **PASSED**;
+- English translation plan: **COMPLETE**;
+- English section files: **7 / 7 reviewed**;
+- translation batches: **8 / 8 reviewed**;
+- final whole-work bilingual review: **PASSED**;
+- whole-work English translation: **VERIFIED**;
+- release-readiness pass: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
+- completion documentation sync: [`COMPLETION_SYNC_AUDIT.md`](COMPLETION_SYNC_AUDIT.md).
+
+No downstream review triggered a new Tamil canonical correction after this source audit. The canonical freeze remains **0 verified / 49 `needs-review`** and must not be lifted automatically.
+
+## Current next activity
+
+There is **no further mandatory activity for this title under the current instructions**. Preserve this completed qualified state. Only reopen Tamil page-status work if the user explicitly changes the verification-freeze instruction; otherwise await the next source/work.
