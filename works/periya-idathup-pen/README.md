@@ -20,11 +20,12 @@ The supplied scan is the controlling source.
 - verification freeze: **ACTIVE — do not mark pages verified**;
 - Tamil source-comparison audit: **COMPLETE**;
 - assembled Tamil reading layer: **PASSED — 7 source-structured files covering narrative scans 8–49**;
-- English translation plan: **COMPLETE**;
+- English translation plan: **COMPLETE / fully executed**;
 - English prose drafting/source-check/section review: **COMPLETE — 7 / 7 sections REVIEWED; 8 / 8 batches reviewed**;
 - final whole-work bilingual review: **PASSED**;
 - **whole-work English translation: VERIFIED**;
 - release-readiness pass: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
+- repository-wide completion documentation sync: **COMPLETE**;
 - source PDF committed: **No**.
 
 **Repository package status: RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION.**
@@ -33,6 +34,7 @@ The English `VERIFIED` and release-readiness statuses are independent of the can
 
 Key records:
 
+- [`COMPLETION_SYNC_AUDIT.md`](COMPLETION_SYNC_AUDIT.md)
 - [`metadata/source.md`](metadata/source.md)
 - [`indexes/page-map.md`](indexes/page-map.md)
 - [`audit.md`](audit.md)
@@ -157,4 +159,4 @@ Release readiness is an editorial/archival status, not a determination of copyri
 
 ## Current gate
 
-No further mandatory Tamil source-comparison, assembled-reader, English translation, bilingual-review or release-report work remains under the current instructions. Preserve the canonical verification freeze exactly as instructed unless the user explicitly changes its disposition.
+No further mandatory Tamil source-comparison, assembled-reader, English translation, bilingual-review, release-report, or completion-documentation work remains under the current instructions. Preserve the canonical verification freeze exactly as instructed unless the user explicitly changes its disposition.
