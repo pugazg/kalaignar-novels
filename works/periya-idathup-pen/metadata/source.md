@@ -58,11 +58,11 @@ Source structure from direct scan review:
 6. scans 6–7 — `எட்டாம் பதிப்பு / பதிப்புரை` and continuation;
 7. scans 8–49 — the main narrative `பெரிய இடத்துப் பெண்`, ending on scan 49 / printed page 48, followed by the printer colophon `ஸ்ரீமகள் அச்சகம், சென்னை-1`.
 
-## Work-level structural interpretation
+## Work-level structural interpretation — FINAL
 
-Current scan evidence supports **one continuous work: `பெரிய இடத்துப் பெண்`**.
+The completed source audit confirms **one continuous work: `பெரிய இடத்துப் பெண்`**.
 
-Directly confirmed character-name headings include:
+Directly confirmed character-name headings are:
 
 - scan 15 / printed 14 — `உத்தண்டி`;
 - scan 19 / printed 18 — `கண்ணம்மா`;
@@ -71,7 +71,7 @@ Directly confirmed character-name headings include:
 - scan 45 / printed 44 — `உலகநாதர்`;
 - scan 46 / printed 45 — `கண்ணம்மா`.
 
-These remain **internal textual headings within the same continuous narrative**, not separate works. Final assembled section architecture remains blocked until the dedicated full Tamil source/audit review is complete.
+These are **internal textual headings within the same continuous narrative**, not separate works. The final assembled Tamil reader uses seven source-structured files and has **PASSED** its consistency audit.
 
 ## Scan / physical-copy observations
 
@@ -91,3 +91,18 @@ The supplied scan is the controlling source for this edition. Historical spellin
 Before altering a baseline because a final Tamil character/vowel mark appears absent, the complete old-type glyph cluster must be inspected at enlarged native resolution and, where useful, compared elsewhere in this edition. Ambiguous pixels remain `needs-review`; they are not resolved from context.
 
 The source PDF itself must remain outside this Git repository.
+
+## Completed downstream state
+
+- canonical page records: **49 / 49**;
+- dedicated full-source comparison: **COMPLETE — 49 / 49 directly reviewed**;
+- canonical statuses: **0 verified / 49 `needs-review`** under the active user-mandated freeze;
+- assembled Tamil: **PASSED**;
+- English sections: **7 / 7 reviewed**;
+- translation batches: **8 / 8 reviewed**;
+- final bilingual review: **PASSED**;
+- whole-work English: **VERIFIED**;
+- release-readiness: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
+- completion documentation sync: [`../COMPLETION_SYNC_AUDIT.md`](../COMPLETION_SYNC_AUDIT.md).
+
+No further mandatory processing remains for this source edition under the current instructions. The canonical verification freeze must not be lifted automatically.
