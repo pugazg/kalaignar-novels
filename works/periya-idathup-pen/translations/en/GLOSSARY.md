@@ -1,6 +1,8 @@
 # English Translation Glossary — பெரிய இடத்துப் பெண்
 
-This glossary records recurring English decisions for the derived translation layer. It does **not** authorize any change to canonical Tamil. If a translation problem raises doubt about Tamil wording, return to the canonical page/source audit first.
+This glossary records the final recurring English decisions for the derived translation layer. It does **not** authorize any change to canonical Tamil. If a translation problem raises doubt about Tamil wording, return to the canonical page/source audit first.
+
+**Glossary state: FINAL FOR THIS SOURCE EDITION — Batches 1–7 plus whole-work review complete.**
 
 ## Work title and names
 
@@ -15,6 +17,7 @@ This glossary records recurring English decisions for the derived translation la
 | `உத்தண்டி` | **Uthandi** | stable character form |
 | `குமுதா` | **Kumudha** | preserve source form |
 | `குமுதம்` | **Kumudam** | preserve distinction; source explicitly says `குமுதா` is a shortened form |
+| `ரதி` | **Rati** | final locked mythological-name form; final review corrected earlier English `Rathi` drift |
 
 ## Kinship and household/status language
 
@@ -52,8 +55,10 @@ This glossary records recurring English decisions for the derived translation la
 | `வேசி` | **whore** in direct harsh invective; **whore / adulteress** in self-condemnation according to sentence | stronger register than `விபசாரி`; preserve speaker force without treating accusation as objective fact |
 | `தாசி` | **harlot** in Veeran's abusive usage | narrator-specific insult; not an external occupational identification |
 | `பலாத்காரச் செயல்` | **act of force / violation** | Kumudha's own coercion language; do not add scene details absent from source |
+| `கற்பழிக்கப்பட்டாள்` | **was raped** | final Kannamma passage; direct rendering locked in final review |
 | `ஊடல்` | **lovers' quarrel / estrangement** | choose by sentence |
 | `விரகதாபம்` | **pangs of longing** | elevated melodramatic register |
+| `இழிகுலப்பெண்` | **a low-caste woman** | source social categorisation; not translator endorsement |
 
 ## Religious / ritual / mythological vocabulary
 
@@ -127,7 +132,7 @@ These are English-side decisions only; exact Tamil remains preserved in canonica
 
 ### Batch 5 / Veeran
 
-- `அத்தான்! அத்தான்! என்ன வேண்டியிருக்கு. அத்தான்!` — cautious opening **“Aththan! Aththan! What more is there to want? Aththan!”**; revisit only in final review if stronger evidence emerges.
+- `அத்தான்! அத்தான்! என்ன வேண்டியிருக்கு. அத்தான்!` — cautious opening **“Aththan! Aththan! What more is there to want? Aththan!”**; retained after final review.
 - `வண்டிக்காரனுக்கு வாய்க்காத சுகம் வலுவில் வந்தது` — **“Pleasures beyond a cartman's lot came thrust upon me.”**
 - `கார்க்குச்சியால் ... ‘சுவீர்’` — retain **karkkuchi / “sveer”** rather than invent a normalized lexical reading.
 - `இலவு காத்த கிளியாக` — **“like the parrot waiting for the ilavu fruit”**; source proverb retained.
@@ -136,7 +141,26 @@ These are English-side decisions only; exact Tamil remains preserved in canonica
 - `இளிச்சவாயனாக` — **“made a fool of me,”** translated from the corrected historical-`னா` canonical reading.
 - `தண்டன்` — **punishment** from the repeated immediate `தண்டனை` context.
 
-## Style lock through Batch 5
+### Batch 6 / Ulaganathar
+
+- `குடித்தனக்காரி` — **“good housewife.”**
+- `அன்பு தேவதை` — **“angel of love.”**
+- `என் வாழ்விலும் உலகிலும் சுவையே இல்லை` — **“There was no joy left in my life or in the world.”**
+- `மோட்டார்` — **motorcar**, preserving the controlling period reading.
+- `குமுதாவைக் காதலித்தது` — translated directly as Ulaganathar's own self-description; do not retroactively rewrite it from other narrators' evidence.
+
+### Batch 7 / final Kannamma
+
+- `கற்பழிக்கப்பட்டாள்` — **“was raped.”**
+- `வேணி கேட்ட பொழுது கொண்டு விட்டிருந்தால்` — **“If only you had taken her when Veni asked you to!”**
+- `இந்த சமூகம்தான் காரணம்` — **“It was this society that was the cause!”**
+- `தடைச் சட்டமோ, முழுச் சட்டமோ` — **“a prohibition law or any full-strength law.”**
+- `இழிகுலப்பெண்` — **“a low-caste woman.”** Source categorisation retained without translator endorsement.
+- `காதலுக்குக் கற்பு ஏது? குலம் ஏது?` — **“What chastity has love? What caste has love?”**
+- source `ரதி` — final locked English **Rati**, not earlier `Rathi`.
+- printer colophon `ஸ்ரீமகள் அச்சகம், சென்னை-1` — **“Sri Magal Press, Chennai-1”**, kept separate from the narrative.
+
+## Final style lock — Batches 1–7 + whole-work review
 
 - source satire, abrupt exclamations, invective and melodrama remain visible in English;
 - unusual source metaphors are not silently domesticated;
@@ -147,6 +171,8 @@ These are English-side decisions only; exact Tamil remains preserved in canonica
 - class/debt language is translated from the current speaker's perspective rather than turned into external historical commentary;
 - moral and sexual accusations remain attributed to the speaker who makes them;
 - coercion described by Kumudha is preserved in her own terms, while Veeran's later contradictory interpretation remains visibly his mistaken/limited viewpoint without editorial intervention;
-- mythological/religious allusions are translated only from what the source itself states.
+- mythological/religious allusions are translated only from what the source itself states;
+- the final narrative and printer colophon remain separate;
+- final whole-work review controls the locked **Rati** spelling.
 
-Add new glossary entries only when a recurring translation decision is actually encountered and source-supported.
+This glossary is final for the completed source edition. Add or change entries only if the source/translation is explicitly reopened; any such change must remain source-supported and must not alter the canonical verification freeze automatically.
