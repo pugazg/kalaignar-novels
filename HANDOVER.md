@@ -9,7 +9,7 @@
 - Current target: `works/periya-idathup-pen/`
 - Completed reference implementation: `works/balipeedam-nokki/`
 
-Before changing the active work, fetch live `main` first and read the root guides/README/handover plus the active-work README, `audit.md`, Tamil audit records, `ASSEMBLED_TAMIL_AUDIT.md`, `sections/README.md`, translation plan/progress/glossary, all batch reviews, `TRANSLATION_REVIEW.md` and relevant Tamil/English sections. The attached PDF remains controlling and must not be committed.
+Before changing the active work, fetch live `main` first and read the root guides/README/handover plus the active-work README, `audit.md`, Tamil audit records, `ASSEMBLED_TAMIL_AUDIT.md`, `sections/README.md`, translation plan/progress/glossary, all batch reviews, `TRANSLATION_REVIEW.md`, `RELEASE_REPORT.md` and relevant Tamil/English sections. The source PDF remains controlling and must not be committed.
 
 ## பெரிய இடத்துப் பெண் — source identity
 
@@ -25,7 +25,7 @@ Before changing the active work, fetch live `main` first and read the root guide
 - sales rights: **எம். எஸ். ராஜுலு கம்பெனி, 286, சைனா பஜார், சென்னை-1**;
 - final printer colophon: **ஸ்ரீமகள் அச்சகம், சென்னை-1**.
 
-## Verification freeze
+## Verification freeze — MUST PRESERVE
 
 **Do not mark any canonical page in this work as `verified`.**
 
@@ -35,7 +35,7 @@ Known user-supplied Periyar-reform reference set:
 
 Determine character identity from source pixels and encode that identity in modern Unicode. Do not global-replace or modernize wording, spelling, grammar, punctuation or vocabulary.
 
-Canonical state remains **0 verified / 49 `needs-review`**. The assembled Tamil layer's **PASSED** status and English whole-work **VERIFIED** status are independent of that freeze.
+Canonical state remains **0 verified / 49 `needs-review`**. The assembled Tamil layer's **PASSED**, English whole-work **VERIFIED**, and release-readiness statuses are independent of that freeze.
 
 ## Canonical / Tamil state
 
@@ -80,7 +80,8 @@ Translation control files:
 - `works/periya-idathup-pen/translations/en/README.md`;
 - `works/periya-idathup-pen/translations/en/PROGRESS.md`;
 - `works/periya-idathup-pen/translations/en/GLOSSARY.md`;
-- `works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md` — **PASSED / ENGLISH VERIFIED**.
+- `works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md` — **PASSED / ENGLISH VERIFIED**;
+- `works/periya-idathup-pen/translations/en/RELEASE_REPORT.md` — **PASSED WITH QUALIFICATION**.
 
 ### English section / batch state
 
@@ -112,7 +113,25 @@ The final review confirmed:
 
 One English-only consistency correction was made during final review: scan-49 `ரதி` is now **Rati**, replacing the earlier **Rathi** romanisation and matching `TRANSLATION_PLAN.md`. No Tamil text changed.
 
-## Current stage
+## Release-readiness state
+
+The release pass in `translations/en/RELEASE_REPORT.md` confirmed:
+
+- seven English reader files present;
+- translation control/review records present;
+- root/work/English navigation and status synchronized;
+- whole-work English **VERIFIED**;
+- source PDF excluded from the repository;
+- final narrative and printer colophon separated;
+- canonical verification freeze unchanged.
+
+**Release verdict: RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION.**
+
+This is the only accurate full-package release wording while the freeze remains active. The English layer itself is release-ready, but canonical Tamil remains **0 verified / 49 `needs-review`** by explicit user instruction.
+
+Release readiness is an editorial/archival workflow status, not a determination of copyright, licensing, distribution or republication rights.
+
+## Current durable stage
 
 - source registration: complete;
 - canonical Tamil: **49 / 49**;
@@ -126,25 +145,21 @@ One English-only consistency correction was made during final review: scan-49 `�
 - translation batches: **8 / 8 reviewed**;
 - final bilingual review: **PASSED**;
 - **whole-work English: VERIFIED**;
-- release report: **not yet created**.
+- release report: **COMPLETE**;
+- **package: RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
 
 ## Exact next activity
 
-Create `works/periya-idathup-pen/translations/en/RELEASE_REPORT.md` and perform a release-readiness pass.
+No further mandatory processing remains for `பெரிய இடத்துப் பெண்` under the current instructions.
 
-Required workflow:
-
-1. verify all reader-facing English navigation targets and control-document links;
-2. verify root/work/English README and handover status synchronization;
-3. confirm source PDF remains excluded from the repository;
-4. state clearly that English is whole-work **VERIFIED**;
-5. carry the canonical Tamil qualification **0 verified / 49 `needs-review` — verification freeze ACTIVE**;
-6. do not call the full archival package unqualified release-ready while that freeze remains active;
-7. distinguish editorial/archival release-readiness from copyright/licensing/republication rights;
-8. preserve live `main` as authoritative and do not change Tamil page statuses.
+**Do not lift, reinterpret or bypass the canonical Tamil verification freeze automatically.** If future work resumes on this title, first preserve live `main` and this qualified release state. Canonical page statuses may change only if the user explicitly changes the freeze instruction. Otherwise move to another source/work only when the user supplies or names it.
 
 ---
 
 ## Completed prior work — புதையல்
 
 The prior `புதையல்` work remains unchanged at its durable release state: 448/448 canonical records, 446 completed, two physical-loss scans 223–224 still `needs-review`, assembled Tamil complete, whole-work English verified, release-ready with those two qualifications.
+
+## Completed prior work — பலிபீடம் நோக்கி
+
+`பலிபீடம் நோக்கி` remains unchanged: Tamil 34/34 verified, assembled Tamil PASSED, English VERIFIED, archival package RELEASE-READY.

@@ -6,9 +6,9 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 Source pages: **49**  
 Source PDF committed to repository: **No**
 
-Canonical page-level transcription covers **49 / 49 scans**. Dedicated whole-work Tamil source/audit review is **COMPLETE — 49 / 49 directly reviewed**. The assembled Tamil reading layer is **PASSED**. English drafting/source-check/section review is **COMPLETE — 7 / 7 sections; 8 / 8 planned translation batches reviewed**. The final whole-work bilingual review is **PASSED** and the English translation is **VERIFIED**.
+Canonical page-level transcription covers **49 / 49 scans**. Dedicated whole-work Tamil source/audit review is **COMPLETE — 49 / 49 directly reviewed**. The assembled Tamil reading layer is **PASSED**. English drafting/source-check/section review is **COMPLETE — 7 / 7 sections; 8 / 8 planned translation batches reviewed**. The final whole-work bilingual review is **PASSED**, the English translation is **VERIFIED**, and the release-readiness pass is **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
 
-Every canonical Tamil page remains `needs-review` under the user-mandated verification freeze. English verification does not alter canonical Tamil status.
+Every canonical Tamil page remains `needs-review` under the user-mandated verification freeze. English verification and release readiness do not alter canonical Tamil status.
 
 ## Current gate
 
@@ -27,7 +27,8 @@ Every canonical Tamil page remains `needs-review` under the user-mandated verifi
 | Translation batches reviewed | **8 / 8** |
 | Final bilingual review | **PASSED** |
 | Whole-work English status | **VERIFIED** |
-| Release report | **not yet created** |
+| Release report | **COMPLETE** |
+| Release-readiness | **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION** |
 
 ## Control records
 
@@ -52,6 +53,7 @@ English:
 - [`translations/en/BATCH_06_REVIEW.md`](translations/en/BATCH_06_REVIEW.md)
 - [`translations/en/BATCH_07_REVIEW.md`](translations/en/BATCH_07_REVIEW.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+- [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
 
 ## Historical-glyph rule
 
@@ -141,16 +143,30 @@ Confirmed:
 - reversible HTML provenance and established physical-page joins remain intact;
 - final narrative ending remains separate from the printer colophon.
 
-The final review found one English romanisation inconsistency: scan-49 `ரதி` had appeared as **Rathi**. It is corrected to **Rati**, matching `TRANSLATION_PLAN.md`. Tamil is unchanged.
-
-No new Tamil canonical correction was required.
+The final review corrected only one English romanisation inconsistency: scan-49 `ரதி`, **Rathi → Rati**. Tamil is unchanged. No new Tamil canonical correction was required.
 
 # VERDICT: ENGLISH TRANSLATION VERIFIED
 
 The English translation of **_The Woman of the Great House_ / `பெரிய இடத்துப் பெண்`** is whole-work **VERIFIED** against the completed source-compared Tamil archival layer.
 
-This English status does not override the canonical Tamil freeze, normalize difficult Tamil forms, or claim external historical verification.
+## Release-readiness audit — PASS WITH QUALIFICATION
 
-## Next activity
+The release pass confirmed:
 
-Create `translations/en/RELEASE_REPORT.md` and perform a release-readiness pass. Because canonical Tamil remains **0 verified / 49 `needs-review`** under the active user-mandated freeze, the report must explicitly carry that qualification and must not describe the whole archival package as unqualified release-ready unless the freeze is later changed.
+- all seven English reader targets exist;
+- all translation control/review records exist;
+- root/work/English status documents are synchronized;
+- whole-work English remains **VERIFIED**;
+- source PDF is not committed;
+- final narrative and printer colophon remain separated;
+- the canonical Tamil freeze remains visible and unchanged.
+
+**Release verdict: RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION.**
+
+The qualification is mandatory because canonical Tamil remains **0 verified / 49 `needs-review`** under the active user instruction. This does not mean source comparison is incomplete; it records the deliberately frozen page-status gate.
+
+Editorial/archival release-readiness does not determine copyright, licensing, distribution or republication rights.
+
+## Current gate
+
+No further mandatory processing remains for this source edition under the current instructions. Do not alter canonical Tamil page statuses unless the user explicitly changes the verification-freeze instruction.

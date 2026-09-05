@@ -13,9 +13,10 @@ Working English title: **The Woman of the Great House**
 - English sections: **7 / 7 complete and REVIEWED**;
 - translation batches: **8 / 8 REVIEWED**;
 - final bilingual review: **PASSED**;
-- **whole-work English status: VERIFIED**.
+- **whole-work English status: VERIFIED**;
+- release-readiness pass: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
 
-The English layer is derived from the passed Tamil assembled reader, while canonical `../../pages/` remains the controlling repository text. Whole-work English verification is independent of the user-mandated canonical Tamil verification freeze.
+The English layer is derived from the passed Tamil assembled reader, while canonical `../../pages/` remains the controlling repository text. Whole-work English verification and release readiness are independent of the user-mandated canonical Tamil verification freeze.
 
 ## English sections
 
@@ -41,7 +42,8 @@ As in the completed `பலிபீடம் நோக்கி` reference work
 - Batch 5 review: [`BATCH_05_REVIEW.md`](BATCH_05_REVIEW.md);
 - Batch 6 review: [`BATCH_06_REVIEW.md`](BATCH_06_REVIEW.md);
 - Batch 7 review: [`BATCH_07_REVIEW.md`](BATCH_07_REVIEW.md);
-- final bilingual review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
+- final bilingual review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md);
+- release-readiness report: [`RELEASE_REPORT.md`](RELEASE_REPORT.md).
 
 ## Final bilingual review
 
@@ -61,16 +63,26 @@ The final review found one English romanisation inconsistency: scan-49 `ரத�
 
 No new Tamil canonical correction was required during the whole-work review.
 
+## Release-readiness result
+
+[`RELEASE_REPORT.md`](RELEASE_REPORT.md) records the release pass.
+
+**Verdict: RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION.**
+
+The English layer is whole-work **VERIFIED** and reader/control navigation is complete. The source PDF remains excluded from the repository. The full archival package is not described as unqualified release-ready because the canonical Tamil page-status freeze remains active.
+
 ## Canonical Tamil qualification
 
-English **VERIFIED** does not mean canonical Tamil pages are verified. Their status remains:
+English **VERIFIED** and the qualified release verdict do not mean canonical Tamil pages are verified. Their status remains:
 
 - **0 verified**;
 - **49 `needs-review`**;
 - verification freeze: **ACTIVE**.
 
-The source-comparison audit is nevertheless complete and the assembled Tamil reader is PASSED; those layers are the basis for English verification.
+The source-comparison audit is complete and the assembled Tamil reader is PASSED; those layers are the basis for English verification.
 
-## Next activity
+## Current gate
 
-Create [`RELEASE_REPORT.md`](RELEASE_REPORT.md) and perform the release-readiness pass. The report must explicitly carry the Tamil canonical qualification and must not call the full archival package unqualified release-ready while the freeze remains in force.
+No further mandatory English translation, section review, bilingual review or release-report work remains for this source edition. Preserve the canonical Tamil verification freeze exactly as instructed unless the user explicitly changes that disposition.
+
+Release-readiness is an editorial/archival status and is not a determination of copyright, licensing or republication rights.

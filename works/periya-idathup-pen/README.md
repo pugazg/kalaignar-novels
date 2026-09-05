@@ -8,7 +8,7 @@
 
 ## Current archival status
 
-The attached scan is the controlling source.
+The supplied scan is the controlling source.
 
 - source registration: **complete**;
 - source page manifest: **49 / 49 scans mapped**;
@@ -24,9 +24,12 @@ The attached scan is the controlling source.
 - English prose drafting/source-check/section review: **COMPLETE — 7 / 7 sections REVIEWED; 8 / 8 batches reviewed**;
 - final whole-work bilingual review: **PASSED**;
 - **whole-work English translation: VERIFIED**;
+- release-readiness pass: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
 - source PDF committed: **No**.
 
-The English `VERIFIED` status is independent of the canonical Tamil page-status freeze. Tamil remains **0 verified / 49 `needs-review`**.
+**Repository package status: RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION.**
+
+The English `VERIFIED` and release-readiness statuses are independent of the canonical Tamil page-status freeze. Tamil remains **0 verified / 49 `needs-review`**.
 
 Key records:
 
@@ -48,6 +51,7 @@ Key records:
 - [`translations/en/BATCH_06_REVIEW.md`](translations/en/BATCH_06_REVIEW.md)
 - [`translations/en/BATCH_07_REVIEW.md`](translations/en/BATCH_07_REVIEW.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+- [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
 - [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md)
 
 ## Verification freeze
@@ -60,7 +64,7 @@ Known Periyar-reform-sensitive reference set:
 
 Character identity must be determined from source pixels and encoded in modern Unicode without modernizing source wording, spelling, grammar, punctuation or vocabulary.
 
-The assembled layer's **PASSED** status and English whole-work **VERIFIED** status do not override the canonical-page verification freeze.
+The assembled layer's **PASSED** status, English whole-work **VERIFIED** status and qualified release-readiness result do not override the canonical-page verification freeze.
 
 ## Confirmed historical-glyph corrections
 
@@ -79,7 +83,7 @@ The assembled layer's **PASSED** status and English whole-work **VERIFIED** stat
 | 46 | 45 | `நானு ஆள்?` | `நானா ஆள்?` | `னா` |
 | 47 | 46 | `விட வேணு?` | `விட வேணா?` | `ணா` |
 
-The last four were discovered during the dedicated whole-work source audit by direct enlarged-pixel and same-edition comparison. They are character-identity corrections, not spelling modernization.
+These are character-identity corrections from direct source review, not spelling modernization.
 
 ## Source structure
 
@@ -130,23 +134,19 @@ English reading sections:
 
 The section files remain at batch-level `reviewed`; the completed cross-section review in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) establishes **whole-work English VERIFIED**.
 
-### Final bilingual review result
+The whole-work pass confirmed complete coverage, source section order, narrator isolation, controlled names/kinship/class/debt/moral/sexual terminology, source-bound mythology, documented difficult forms, page joins/provenance and final narrative/colophon separation. One English-only consistency correction was made: source `ரதி` is now **Rati**, replacing the earlier **Rathi** spelling. Tamil is unchanged.
 
-The whole-work pass confirmed:
+## Release readiness
 
-- complete English coverage with no substantive omission/duplication;
-- correct source section order and mid-page transitions;
-- strict narrator isolation, especially Kumudha → Veeran → Ulaganathar → final Kannamma contradictions;
-- stable names, kinship/address forms, class/debt vocabulary and Calcutta place form;
-- controlled moral/sexual language including direct translation of final `கற்பழிக்கப்பட்டாள்` as “was raped”;
-- source-bound religious/mythological rhetoric;
-- documented conservative handling of difficult source forms;
-- all established page joins and reversible provenance;
-- final narrative ending separated from the printer colophon.
+[`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md) records the completed release pass.
 
-One English editorial consistency correction was made: scan-49 `ரதி` is now **Rati**, not the earlier **Rathi**, matching `TRANSLATION_PLAN.md`. Tamil is unchanged.
+**Verdict: RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION.**
 
-No Tamil canonical correction was triggered by the final bilingual review.
+Release checks confirmed all seven English navigation targets and control records, whole-work English **VERIFIED**, source PDF excluded, and final narrative/colophon separation intact.
+
+The qualification is mandatory because canonical Tamil remains **0 verified / 49 `needs-review`** under the active user-mandated freeze. Do not describe the archival package as unqualified release-ready unless the user later changes that instruction.
+
+Release readiness is an editorial/archival status, not a determination of copyright, licensing or republication rights.
 
 ## Printed-page behaviour
 
@@ -155,6 +155,6 @@ No Tamil canonical correction was triggered by the final bilingual review.
 - scan 8: unnumbered;
 - scans 9–49: printed pages **8–48**.
 
-## Next activity
+## Current gate
 
-Create `translations/en/RELEASE_REPORT.md` and perform a release-readiness pass. Because canonical Tamil remains **0 verified / 49 `needs-review`** under the active user-mandated freeze, the release report must explicitly carry that qualification. English verification alone must not be used to describe the entire archival package as unqualified release-ready.
+No further mandatory Tamil source-comparison, assembled-reader, English translation, bilingual-review or release-report work remains under the current instructions. Preserve the canonical verification freeze exactly as instructed unless the user explicitly changes its disposition.
