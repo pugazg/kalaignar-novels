@@ -58,7 +58,7 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 | 48 | 47 | `கண்ணம்மா` | needs-review | `pages/0048-periya-idathup-pen-41.md` |
 | 49 | 48 | narrative ending + printer colophon | needs-review | `pages/0049-periya-idathup-pen-42.md` |
 
-## Current count
+## Final count
 
 - Source scan pages: **49**
 - Page-manifest rows: **49 / 49**
@@ -70,6 +70,8 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 - `not-started`: **0**
 - Source PDF stored in repository: **No**
 - Assembled Tamil reading layer: **PASSED**
+- English translation: **VERIFIED**
+- Release-readiness: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**
 
 ## Historical-glyph / source-audit checkpoint
 
@@ -100,6 +102,17 @@ The passed reader uses seven files under `../sections/`, splitting scans 15 and 
 
 See [`../ASSEMBLED_TAMIL_AUDIT.md`](../ASSEMBLED_TAMIL_AUDIT.md) and [`../sections/README.md`](../sections/README.md).
 
-## Next activity
+## Completion state
 
-Prepare the **English translation plan** from the passed assembled Tamil layer. Define section mapping, source-authority hierarchy, glossary / names policy, source-specific language treatment and review gates before drafting English prose. Keep all canonical records `needs-review` under the active verification freeze.
+The earlier planned downstream steps are now complete:
+
+- English translation plan: **COMPLETE**;
+- English section drafting/source-check/review: **7 / 7 complete**;
+- translation batches reviewed: **8 / 8**;
+- final bilingual review: **PASSED**;
+- whole-work English: **VERIFIED**;
+- release report: **COMPLETE**;
+- package: **RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
+- repository documentation closeout: [`../COMPLETION_SYNC_AUDIT.md`](../COMPLETION_SYNC_AUDIT.md).
+
+There is no remaining page-map activity under the current instructions. Keep all canonical records `needs-review` under the active verification freeze unless the user explicitly changes that disposition.
