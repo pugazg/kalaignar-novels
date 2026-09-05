@@ -6,7 +6,7 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 Source pages: **49**  
 Source PDF committed to repository: **No**
 
-This audit remains **open** at work level. Canonical transcription exists through scan 27. The retrospective historical/pre-reform glyph pass over every existing canonical record is now complete, but the user-mandated verification freeze remains active and new pages must be transcribed glyph-aware from first pass.
+This audit remains **open** at work level. The retrospective historical-glyph pass over scans 1–27 is complete. Canonical transcription has now resumed through scan 32 using the glyph-aware method during first pass. The user-mandated verification freeze remains active.
 
 ## Current gate
 
@@ -14,12 +14,13 @@ This audit remains **open** at work level. Canonical transcription exists throug
 |---|---|
 | Source identity inspected | complete |
 | Scan pages mapped | **49 / 49** |
-| Canonical page records | **27 / 49** |
+| Canonical page records | **32 / 49** |
 | `verified` | **0** |
-| `needs-review` | **27 — scans 1–27** |
+| `needs-review` | **32 — scans 1–32** |
 | `partial` | **0** |
-| `not-started` | **22 — scans 28–49** |
-| Historical-glyph retrospective audit | **COMPLETE — 27 / 27 existing canonical scans** |
+| `not-started` | **17 — scans 33–49** |
+| Historical-glyph retrospective audit | **COMPLETE — scans 1–27** |
+| Glyph-aware first-pass transcription | **complete through scan 32** |
 | Verification freeze | **ACTIVE — do not mark pages verified** |
 | Tamil source layer | **NOT PASSED** |
 | Assembled Tamil | **BLOCKED** |
@@ -46,8 +47,6 @@ Decode historical character identity into modern Unicode only after direct sourc
 | 24 | 23 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` |
 | 25 | 24 | `வேலை மட்டுந்தானு?` | `வேலை மட்டுந்தானா?` |
 
-The scan-25 correction is a historical `னா` decoding correction; the apparent modern `னு` shape is not the character identity used by this source.
-
 ## Independent source-text corrections found during re-audit
 
 - scan 4: `சமூகத்தின்` → `சமுதாயத்தின்`;
@@ -60,25 +59,21 @@ The scan-25 correction is a historical `னா` decoding correction; the apparen
 
 Full occurrence-level tracking is maintained in [`HISTORICAL_GLYPH_AUDIT.md`](HISTORICAL_GLYPH_AUDIT.md).
 
-## Retrospective audit progress
+## Coverage progress
 
-- **Scans 1–13:** completed in prior passes; all remain `needs-review`.
-- **Scans 14–23:** completed in the prior ten-page batch; corrections recorded above.
-- **Scan 24 / printed 23:** complete; earlier `நன்றாக` and `என்றானா?` historical `றா` corrections re-confirmed; no new correction.
-- **Scan 25 / printed 24:** complete; historical `னா` corrected `மட்டுந்தானு?` → `மட்டுந்தானா?`.
-- **Scans 26–27 / printed 25–26:** complete; full 13-form sweep, no canonical text correction.
-
-**Retrospective historical-glyph audit: 27 / 27 existing canonical scans — COMPLETE.**
+- **Scans 1–27:** retrospective historical-glyph pass complete; all remain `needs-review`.
+- **Scans 28–32 / printed 27–31:** newly transcribed directly from enlarged source with historical-glyph decoding applied before entry; all remain `needs-review`.
+- **Scan 32:** directly confirms internal heading `குமுதா`; legacy `லை` in `கொலை` and legacy `றா` in `தோன்றாமல்தான்` were explicitly decoded by identity.
 
 ## Existing transcription coverage
 
 - scans 1–7: front matter records exist, all `needs-review`;
-- scans 8–27: narrative records exist, all `needs-review`;
-- scans 28–49: `not-started`.
+- scans 8–32: narrative records exist continuously, all `needs-review`;
+- scans 33–49: `not-started`.
 
-Existing page-boundary joins and internal-heading observations remain source evidence only; they do not confer verification.
+Existing page-boundary joins and internal-heading observations are source evidence only; they do not confer verification.
 
-## Boundary observations retained provisionally
+## Boundary observations retained
 
 - scan 11 `கிடப்ப` + scan 12 `தாகக்` → `கிடப்பதாகக்`;
 - scan 14 `நினைக்` + scan 15 `காதே!` → `நினைக்காதே!`;
@@ -92,12 +87,16 @@ Existing page-boundary joins and internal-heading observations remain source evi
 - scan 24 `‘ஒய்யா` + scan 25 `ரக்` → `‘ஒய்யாரக்`;
 - scan 25 `கவலை` + scan 26 `யில்லை.` → `கவலையில்லை.`;
 - scan 26 `நிலையி` + scan 27 `லேயே` → `நிலையிலேயே`;
-- scan 27 ends inside a parenthetical sentence and must be continued only from scan 28.
+- scan 27 `அவனுக்கு ஒரு` + scan 28 `மகள்.` → `அவனுக்கு ஒரு மகள்.`;
+- scan 28 `“கண்ணம்மா! என்` + scan 29 `கண்ணல்ல.....`;
+- scan 29 `சில நாட்களுக்கு` + scan 30 `இருக்க வேண்டுமென்றும் சொன்னார்.`;
+- scan 30 `உலகநாதர் குமுதாவிடம் கொண்டிருக்கும்` + scan 31 `ஆசை வரையில் கூறிவிட்டேன்.`;
+- scan 31 ends a complete question and scan 32 begins internal heading `குமுதா`.
 
 ## Structural finding
 
-The source continues as one work, `பெரிய இடத்துப் பெண்`. Internal headings `உத்தண்டி` and `கண்ணம்மா` remain internal structure only; scan 32 is expected to contain internal heading `குமுதா`, subject to direct source confirmation.
+The source continues as one work, `பெரிய இடத்துப் பெண்`. Directly confirmed internal headings are `உத்தண்டி` (scan 15), `கண்ணம்மா` (scan 19), and `குமுதா` (scan 32). This does not alter page status.
 
 ## Next activity
 
-Resume canonical transcription with **scans 28–32 / printed pages 27–31**. Apply the complete historical-glyph reference during first-pass transcription, resolve scan 27's parenthetical continuation only from scan 28, keep every new page `needs-review`, preserve internal heading `குமுதா` on scan 32 if visibly confirmed, synchronize page-map/audit/READMEs/HANDOVER, and stop after scan 32.
+Transcribe **scans 33–37 / printed pages 32–36** as the next glyph-aware source-first batch. Inspect every page at enlarged/high resolution, apply all 13 historical-form checks during first transcription, make every page `needs-review`, preserve source spelling/punctuation/page boundaries, synchronize page-map/audit/READMEs/HANDOVER, and stop after scan 37. Do not advance to scan 38 in that activity.
