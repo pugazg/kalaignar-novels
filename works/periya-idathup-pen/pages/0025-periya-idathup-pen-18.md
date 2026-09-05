@@ -7,20 +7,41 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
-transcription_method: "direct visual comparison with enlarged source scan"
+transcription_method: "direct visual comparison with enlarged source scan; historical-glyph re-audit performed for this scan"
 ---
 
 ரக் கொண்டையாம் தாழம்பூவாம் உள்ளே இருக்குமாம் ஈரும் பேனும்’ என்பதை அவன் எப்படி அறிவான். பாவம்!
 
-எப்படியோ காரியம் கைகூடிற்று. என் கணவர் அடிக்கடி வெளியூர் சென்றுவிடுவார். வாசலில் கை கட்டி நிற்கும் வண்டிக்காரனுக்கு ரயிலுக்கு வண்டி கொண்டு போகும் வேலை மட்டுந்தானு? என்னை வட்டமிடும் வேலையும் வந்து சேர்ந்தது. உலகநாதர் ஊரிலே! நானும் வீரனும் உல்லாசபுரியிலே! அவர் காட்டிலோ மேட்டிலோ அல்லவா. அதைப் பற்றிக் கவலையில்லை நாங்கள் கட்டிலிலே!
+எப்படியோ காரியம் கைகூடிற்று. என் கணவர் அடிக்கடி வெளியூர் சென்றுவிடுவார். வாசலில் கை கட்டி நிற்கும் வண்டிக்காரனுக்கு ரயிலுக்கு வண்டி கொண்டு போகும் வேலை மட்டுந்தானா? என்னை வட்டமிடும் வேலையும் வந்து சேர்ந்தது. உலகநாதர் ஊரிலே! நானும் வீரனும் உல்லாசபுரியிலே! அவர் காட்டிலோ மேட்டிலோ அல்லவா. அதைப் பற்றிக் கவலையில்லை நாங்கள் கட்டிலிலே!
 
 வீரனுக்கு முதலில் என்னைத் தீண்டுவதற்குப் பயம்! தீண்டிய பிற்பாடு அய்யா பார்த்துவிடுவாரோ என்ற அச்சம்! சங்கதி பரவிவிடுமோ என்ற சந்தேகம்! கடைசியில் அவர் எப்பொழுது வெளியூர் செல்வார் என்ற ஏக்கம்! இந்த நிலையிலே எங்கள் காதல் வளர்ந்தது. மாதங்கள் ஒன்று இரண்டு இப்படிப் பல மாதங்கள்! ஏன் இரண்டு மூன்று வருடங்களும் ஆகிவிட்டன. இதில் இன்னொரு பயங்கரமும் நடந்துவிட்டது. நானும் வீரனும் சேர்ந்து கொலையும் செய்துவிட்டோம். என் வயிற்றில் வளர்ந்த இரண்டரை மாதச் சிசுவை யம லோகத்திற்கு அனுப்பினோம். அதற்கு வீரன்தான் மருந்து வாங்கிக்கொண்டுவந்து கொடுத்தான். பிறக்கும் குழந்தை வீரனைப்போல் இருந்துவிட்டால் என்ன செய்வது என்ற பயமே கொலைக்குக் காரணம். இப்பொழுது நீங்கள் சொல்லுங்கள் கண்ணம்மா ஒரு கொலைகாரி என்று. அதைப்பற்றி எனக்குக் கவலை
+
+## Historical-glyph re-audit — scan 25
+
+The complete printed page was re-read at enlarged/high resolution against the full 13-form reference.
+
+Positive historical-form occurrences checked include:
+
+- `வேலை`, `வேலையும்`, `கவலையில்லை`, `நிலையிலே`, `கொலையும்`, `கொலைக்குக்`, `கொலைகாரி`, and final `கவலை` — historical `லை` occurrences;
+- `மட்டுந்தானா?` — historical `னா`;
+- `என்னை`, `என்னைத்`, `வீரனைப்போல்` — historical `னை`;
+- `இன்னொரு` — historical `னொ`;
+- `அனுப்பினோம்` — historical `னோ`.
+
+This pass exposed one historical-glyph transcription error that had survived the earlier canonical record. The source uses the old `னா` form in the rhetorical question:
+
+- `வேலை மட்டுந்தானு?` → **`வேலை மட்டுந்தானா?`**.
+
+The apparent modern `னு` shape is the historical `னா` identity from the user-supplied reform chart. This is a glyph-decoding correction only; no wording was modernized.
+
+No other canonical text correction was required on this scan. Opening `ரக்` continues scan 24's `‘ஒய்யா`, giving `‘ஒய்யாரக்` across the physical page boundary. Final `கவலை` continues into scan 26.
+
+This page remains `needs-review` and is not marked verified.
 
 ## Scan observations
 
 - visible printed page number: **24**.
-- opening `ரக்` completes scan 24's final `‘ஒய்யா`, establishing `‘ஒய்யாரக்` across the physical page boundary.
-- source-specific forms remain subject to the reopened historical-glyph audit.
+- opening `ரக்` completes scan 24's final `‘ஒய்யா` as `‘ஒய்யாரக்` across the physical page boundary.
 - final `கவலை` continues onto scan 26.
 
 <!-- மூல ஸ்கேன் பக்கம்: 25; அச்சுப் பக்கம்: 24 -->
