@@ -2,11 +2,11 @@
 
 ## Status
 
-**RETROSPECTIVE PASS COMPLETE — verification freeze remains active.**
+**RETROSPECTIVE PASS COMPLETE — glyph-aware first-pass transcription now active; verification freeze remains active.**
 
-The user identified a systematic transcription risk in this 1953 source: historical/pre-reform Tamil typeforms can be mistaken for modern glyphs by visual resemblance. The retrospective pass over every currently existing canonical record, scans **1–27**, is now complete. All canonical records remain `needs-review`; no page may be marked `verified` unless the user explicitly changes that policy.
+The user identified a systematic transcription risk in this 1953 source: historical/pre-reform Tamil typeforms can be mistaken for modern glyphs by visual resemblance. The retrospective pass over scans **1–27** is complete. New canonical scans **28–32** were transcribed with the same historical-glyph checks applied before entry.
 
-The same glyph-aware method is mandatory from the first pass for every new page beginning with scan 28.
+All canonical records remain `needs-review`; no page may be marked `verified` unless the user explicitly changes that policy.
 
 ## User-supplied Periyar reform reference
 
@@ -16,7 +16,7 @@ Known historical forms must be decoded to these modern Unicode identities:
 
 The chart is a decoding reference, not permission to modernize spelling, grammar, punctuation, vocabulary, or wording. Every occurrence must be checked against its own source pixels; no global replacement is allowed.
 
-## Confirmed historical-glyph corrections
+## Confirmed historical-glyph corrections from the retrospective pass
 
 | Scan | Printed page | Incorrect transcription | Correct Unicode reading | Historical identity |
 |---:|:---:|---|---|---|
@@ -29,7 +29,7 @@ The chart is a decoding reference, not permission to modernize spelling, grammar
 | 24 | 23 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` | `றா` |
 | 25 | 24 | `வேலை மட்டுந்தானு?` | `வேலை மட்டுந்தானா?` | `னா` |
 
-The scan-25 correction is the first confirmed error in this work caused by the historical `னா` form being copied according to apparent modern shape rather than character identity.
+The scan-25 correction confirms the risk is not limited to old `றா`; historical `னா` can also resemble a different modern sequence.
 
 ## Other source-text corrections found during the retrospective pass
 
@@ -43,36 +43,25 @@ The scan-25 correction is the first confirmed error in this work caused by the h
 | 12 | 11 | `பயப்பட்டது போல -` | `பயப்பட்டதுபோல -` | source-word/spacing correction |
 | 19 | 18 | `செக்கச் செவேலென்றோன்றின.` | `செக்கச் செவேலென்றேதோன்றின.` | direct source-text correction |
 
-## Retrospective pass progress
+## Retrospective pass checkpoint — scans 1–27
 
-| Scan range | Printed pages | Result | Page status |
-|---|---|---|---|
-| 1–13 | cover/front matter through 12 | completed in prior passes; corrections recorded above and in page records | `needs-review` |
-| 14 | 13 | `ஆவலைக்` and `நின்றார்` historical identities corrected | `needs-review` |
-| 15 | 14 | full 13-form sweep; no text correction | `needs-review` |
-| 16 | 15 | `போகிறாயே` historical `றா` corrected | `needs-review` |
-| 17–18 | 16–17 | full 13-form sweep; no text correction | `needs-review` |
-| 19 | 18 | full 13-form sweep; `செவேலென்றேதோன்றின` source-text correction | `needs-review` |
-| 20–21 | 19–20 | earlier `நன்றாகத்` / `நன்றாகத்தான்` historical `றா` corrections re-confirmed | `needs-review` |
-| 22–23 | 21–22 | full 13-form sweep; no text correction | `needs-review` |
-| 24 | 23 | earlier `நன்றாக` / `என்றானா?` historical `றா` corrections re-confirmed; no additional correction | `needs-review` |
-| 25 | 24 | historical `னா` corrected `மட்டுந்தானு?` → `மட்டுந்தானா?` | `needs-review` |
-| 26–27 | 25–26 | full 13-form sweep; no canonical text correction | `needs-review` |
+The retrospective page-by-page pass is **27 / 27 COMPLETE**. All those pages remain `needs-review`.
 
-### Final retrospective batch — scans 24–27
+Key historical-glyph corrections are listed above. Scans without corrections were still checked against the full 13-form set at enlarged/native resolution. Physical page-boundary evidence does not confer verification.
 
-All four pages were inspected independently at enlarged/high resolution.
+## Glyph-aware first-pass coverage — scans 28–32
 
-- **scan 24 / printed 23:** the previously established `நன்றாக` and `விழுவேன் என்றானா?` readings were directly re-confirmed. The source also contains correctly encoded historical `ணை / லை / ளை / றா / னா / னை` occurrences. No new correction.
-- **scan 25 / printed 24:** the apparent `னு` at `மட்டுந்தானு?` is the historical `னா` form. Canonical text is corrected to **`மட்டுந்தானா?`**. Historical `லை / னா / னை / னொ / னோ` occurrences were checked.
-- **scan 26 / printed 25:** historical `லை / ளை / னை` occurrences were already encoded correctly; no text correction.
-- **scan 27 / printed 26:** historical `ணை / லை / ளை / னை / னொ` occurrences were already encoded correctly; no text correction.
+These five new canonical pages were inspected at enlarged/high resolution and transcribed only after the 13-form check was applied.
 
-Physical boundary evidence remains source evidence only and does not confer verification: scan 24 `‘ஒய்யா` → scan 25 `ரக்`; scan 25 `கவலை` → scan 26 `யில்லை.`; scan 26 `நிலையி` → scan 27 `லேயே`. Scan 27 ends inside a parenthetical sentence that must be continued only from scan 28.
+- **scan 28 / printed 27:** `னை / லை / ளை / னா`-family clusters checked; no separate post-entry glyph correction required. Opening `மகள்.` resolves scan 27's `அவனுக்கு ஒரு` continuation. Source-specific wording/punctuation retained.
+- **scan 29 / printed 28:** historical clusters in `என்னை`, `குமுதாவையும்`, `வீரனையும்`, `வீரனை`, `வேலை` and related forms checked; no separate post-entry correction.
+- **scan 30 / printed 29:** old-form identities in `வேலைக்காரியாக`, `குமுதாவை`, `பெண்ணை`, `நினைத்துக்கொண்டு` and related `லை / னை` clusters checked; no separate post-entry correction.
+- **scan 31 / printed 30:** historical `லை / ளை / னை / னா` clusters checked, including `காலை`, `கொல்லைப்புறத்`, `கண்களைத்`, `வீரனை`, `குமுதாவை`, and `கொலை`; no separate post-entry correction.
+- **scan 32 / printed 31:** direct legacy-form decoding was essential: `கொலை` uses historical `லை`, and `தோன்றாமல்தான்` contains historical `றா` rather than apparent modern `று`. `குமுதா` is directly confirmed as an internal heading.
 
-**Retrospective progress: 27 / 27 existing canonical scans reviewed — COMPLETE.** Every page remains `needs-review` by user instruction.
+No page in scans 28–32 is marked verified.
 
-## Audit rule — still mandatory for new pages
+## Audit rule — mandatory for every remaining new page
 
 For every page:
 
@@ -89,16 +78,17 @@ The 13-form chart is a minimum known reference set; remain alert for other legac
 
 ## Gate consequence
 
-- canonical records: **27 / 49**;
-- retrospective historical-glyph pass on existing records: **27 / 27 — COMPLETE**;
+- canonical records: **32 / 49**;
+- retrospective historical-glyph pass on scans 1–27: **27 / 27 — COMPLETE**;
+- glyph-aware new-page coverage: **scans 28–32 complete**;
 - `verified`: **0**;
-- `needs-review`: **27 — scans 1–27**;
+- `needs-review`: **32 — scans 1–32**;
 - `partial`: **0**;
-- `not-started`: **22 — scans 28–49**;
+- `not-started`: **17 — scans 33–49**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil: **blocked**;
 - English translation: **blocked**.
 
 ## Exact next activity
 
-Resume new-page transcription at **scans 28–32 / printed pages 27–31** as the next source-first batch. Apply the full historical-glyph rule during first transcription rather than retrospectively, preserve scan 27's open parenthetical continuation from the visible opening of scan 28, treat scan 32's `குமுதா` as an internal heading unless the source proves otherwise, create every new page as `needs-review`, synchronize the page map/audit/work README/root README/HANDOVER, and stop after scan 32.
+Transcribe **scans 33–37 / printed pages 32–36** as the next source-first batch. Apply the full historical-glyph rule during first transcription, preserve exact spelling/punctuation/page boundaries, create every page as `needs-review`, synchronize page-map/audit/READMEs/HANDOVER, and stop after scan 37. Do not begin scan 38, assembled Tamil, or English translation in that activity.
