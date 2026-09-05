@@ -7,10 +7,10 @@ page_type: "publisher-note"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
-transcription_method: "direct visual comparison with enlarged source scan"
+transcription_method: "direct visual comparison with enlarged source scan; historical-glyph re-audit performed for this scan"
 ---
 
-அதில் குமுதாவைப் போன்ற மாசு மருவற்ற வெள்ளை உள்ளங்களை நாம் காணமுடிகிறது.
+அதில் குமுதாவைப் போன்ற மாசு மருவற்ற வெள்ளை உள்ளங்களே நாம் காணமுடிகிறது.
 
 இத்துடன் “பெரிய இடத்துப் பெண்” எட்டாவது பதிப்பாகும். வெளிவந்து விற்பனையாவதிலிருந்து இந்த நூலுக்கு தமிழ் மக்களிடம் எவ்வளவு அமோக ஆதரவு இருந்து வருகிறது என்பது வெள்ளிடை மலை!
 
@@ -20,10 +20,35 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 திராவிடன் பதிப்பகத்தார்.
 
+## Historical-glyph re-audit — scan 7
+
+The entire printed page was re-read at enlarged/high resolution against the complete user-supplied 13-form Periyar reform reference:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+
+Historical-form occurrences positively identified on this page include:
+
+- `வெள்ளை` — historical `ளை`;
+- `விற்பனையாவதிலிருந்து` — historical `னை`;
+- `மலை` — historical `லை`;
+- `இன்னொரு` — historical `னொ`;
+- `மூலை` — historical `லை`;
+- `போகிறாள்` — historical `றா`;
+- `முன்னிலையில்` — historical `லை`.
+
+All seven were already encoded with their correct modern Unicode character identities, so no 13-form glyph conversion was required.
+
+The enlarged pass did expose one independent earlier transcription error. The source line break visibly reads `உள்ளங்` + `களே`, giving:
+
+- `உள்ளங்களை` → **`உள்ளங்களே`**.
+
+This is a direct source-text correction, not spelling modernization and not a historical-glyph conversion. Source-supported `மாசு மருவற்ற`, `விற்பனையாவதிலிருந்து`, `வெள்ளிடை மலை!`, `திரைக் கதையாக`, the comma in `போகிறாள், என்பதை`, and `என்று உங்கள்,` remain unchanged.
+
+This scan remains `needs-review` by project policy. Completion of this one-page pass does **not** change the page to `verified`.
+
 ## Scan observations
 
-- printed page **6** visibly appears at the top and is recorded directly.
-- source forms `மாசு மருவற்ற`, `விற்பனையாவதிலிருந்து`, `வெள்ளிடை மலை!`, `திரைக் கதையாக`, and the comma in `போகிறாள், என்பதை` are retained as printed.
-- age staining / specks and small edge/copy artefacts are separate from printed text.
+- printed page **6** is visibly present at the top and is recorded directly.
+- age staining / specks and small edge/copy artefacts remain separate from printed text.
 
 <!-- மூல ஸ்கேன் பக்கம்: 7; அச்சுப் பக்கம்: 6 -->
