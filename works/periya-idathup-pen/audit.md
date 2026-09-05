@@ -19,7 +19,7 @@ This audit is **open**. Canonical transcription exists through scan 27, but the 
 | `needs-review` page records | **27 — scans 1–27** |
 | `partial` page records | **0** |
 | Remaining `not-started` | **22 — scans 28–49** |
-| Historical-glyph retrospective audit | **OPEN — 4 / 27 reviewed; scans 1–4** |
+| Historical-glyph retrospective audit | **OPEN — 5 / 27 reviewed; scans 1–5** |
 | Full body visual audit | reopened because glyph identity was misread |
 | Page-boundary continuity audit | provisional through scan 27 |
 | Internal structural audit | preliminary only |
@@ -75,7 +75,7 @@ No lexical replacement was necessary. Scan 3 remains `needs-review`.
 
 ### Scan 4 — `திரை விலக`
 
-The entire page was re-read at enlarged/high resolution. Historical forms positively identified:
+Historical forms positively identified:
 
 - `தலையிடுவது` → `லை`;
 - `பார்ப்பதில்லை` → `லை`;
@@ -84,11 +84,27 @@ The entire page was re-read at enlarged/high resolution. Historical forms positi
 - `ஆனாலும்` → `னா`;
 - `கருணாநிதி` → `ணா`.
 
-All six historical forms were already encoded with the correct modern Unicode identities.
+All six were already encoded correctly. One independent source-text error was corrected: `சமூகத்தின்` → `சமுதாயத்தின்`. Scan 4 remains `needs-review`.
 
-The re-audit exposed one independent source-text error in the earlier transcription: **`சமூகத்தின்` → `சமுதாயத்தின்`**. This is a direct scan-supported lexical correction, not a historical-glyph normalization. The page record has been corrected and remains `needs-review`.
+### Scan 5 — `பதிப்புரை`
 
-Retrospective progress is therefore **4 / 27 scans reviewed; scans 5–27 pending**.
+The entire page was re-read at enlarged/high resolution. Historical forms positively identified:
+
+- `அதினைச்` → `னை`;
+- `அதினை` → `னை`;
+- `கருத்துக்களைத்` → `ளை`;
+- `மூலை` → `லை`.
+
+All four were already encoded with the correct modern Unicode identities.
+
+The re-audit exposed two independent source-text errors in the earlier transcription:
+
+- **`அற்பிய` → `அரும்பிய`**;
+- **`சமூகமும்` → `சமுதாயம்`**.
+
+Both are direct scan-supported lexical corrections, not historical-glyph normalization. Source-specific forms `விலாவொடியப்`, `ஏற்பட்டச்`, and `அவர்கட்கு` were rechecked and retained unchanged. Scan 5 remains `needs-review`.
+
+Retrospective progress is therefore **5 / 27 scans reviewed; scans 6–27 pending**.
 
 ## Existing transcription coverage
 
@@ -140,4 +156,4 @@ English translation and assembled Tamil `sections/` remain blocked. They must no
 
 Do **not** continue to scans 28–32.
 
-Audit **scan 5 only** next using the same one-page method. Inspect the entire page at enlarged/high resolution, examine every printed glyph cluster against the complete 13-form historical reference, make only pixel-supported corrections, record findings with provenance, and leave the page `needs-review`.
+Audit **scan 6 only** next using the same one-page method. Inspect the entire page at enlarged/high resolution, examine every printed glyph cluster against the complete 13-form historical reference, make only pixel-supported corrections, record findings with provenance, and leave the page `needs-review`.
