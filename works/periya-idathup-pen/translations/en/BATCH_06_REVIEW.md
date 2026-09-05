@@ -7,7 +7,7 @@ Tamil assembled source: `../../sections/06-ulaganathar.md`
 Canonical authority: `../../pages/0045-periya-idathup-pen-38.md`  
 Source coverage: **scan 45 / printed page 44 — complete `உலகநாதர்` account**.
 
-Review state: **REVIEWED**. This is not final whole-work `verified` status.
+Review state: **REVIEWED / PASS**. This file records the Batch-6 stage result; the later whole-work `TRANSLATION_REVIEW.md` establishes final English **VERIFIED** status.
 
 ## Source-completeness check
 
@@ -57,8 +57,10 @@ Canonical state remains:
 
 **BATCH 06 / ENGLISH SECTION 06 — REVIEWED / PASS.**
 
-The section remains below final `verified` status until whole-work bilingual review and section-boundary review are complete.
+At the time of this batch review, Batch 7 and whole-work verification were still pending. Those downstream stages are now complete: Batch 7 passed, all eight planned batches are reviewed, `TRANSLATION_REVIEW.md` **PASSED**, whole-work English is **VERIFIED**, and `RELEASE_REPORT.md` **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
 
-## Next activity
+The section intentionally remains batch-level `reviewed`; whole-work verification does not alter the canonical Tamil freeze.
 
-Proceed to **Batch 7 — final `கண்ணம்மா` conclusion**, scans 46–49, including the narrative ending and separate printer colophon. Preserve the established historical-glyph corrections on scans 46–47 and all audited page joins. After Batch 7 review, perform whole-work bilingual review rather than immediately declaring the English layer verified.
+## Subsequent state
+
+The former next activity — Batch 7 followed by whole-work review — is complete. There is no remaining Batch-6 follow-up. Canonical Tamil remains **0 verified / 49 `needs-review`** under the active freeze.
