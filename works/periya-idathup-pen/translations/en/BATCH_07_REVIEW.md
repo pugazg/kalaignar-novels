@@ -7,7 +7,7 @@ Tamil assembled source: `../../sections/07-kannamma-conclusion.md`
 Canonical authority: `../../pages/0046-periya-idathup-pen-39.md` through `../../pages/0049-periya-idathup-pen-42.md`  
 Source coverage: **scans 46–49 / printed pages 45–48 — complete final `கண்ணம்மா` account plus separate printer colophon**.
 
-Review state: **REVIEWED / PASS**. This file records the Batch-7 section review; whole-work English status is established separately by the completed `TRANSLATION_REVIEW.md`.
+Review state: **REVIEWED / PASS**. This file records the Batch-7 stage result; whole-work status is established separately in `TRANSLATION_REVIEW.md`.
 
 ## Source-completeness check
 
@@ -86,10 +86,10 @@ Canonical state remains:
 
 **BATCH 07 / ENGLISH SECTION 07 — REVIEWED / PASS.**
 
-All planned English prose batches are drafted, source-checked and reviewed. The completed whole-work bilingual review in `TRANSLATION_REVIEW.md` **PASSED** and establishes English **VERIFIED**.
+All eight planned translation batches are reviewed. The subsequent whole-work bilingual review in `TRANSLATION_REVIEW.md` **PASSED**, establishing the English translation as **VERIFIED**. The later `RELEASE_REPORT.md` also **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
+
+The section intentionally remains batch-level `reviewed`; whole-work verification does not alter the canonical Tamil freeze.
 
 ## Subsequent state
 
-The former next activity — qualified release-readiness — has also been completed. `RELEASE_REPORT.md` **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**. The full repository documentation closeout is recorded in `../../COMPLETION_SYNC_AUDIT.md`.
-
-There is no remaining Batch-7 or English translation-stage activity. Canonical Tamil remains **0 verified / 49 `needs-review`** under the active freeze.
+The former next activity — whole-work bilingual review and then release review — is complete. There is no remaining Batch-7, bilingual-review or release-stage follow-up for this source edition under the current instructions. Canonical Tamil remains **0 verified / 49 `needs-review`** under the active freeze.

@@ -71,4 +71,8 @@ No canonical Tamil change was required during Batch 5 translation review.
 
 At the time of this batch review, whole-work verification was still pending. That downstream work is now complete: all eight planned batches are reviewed, `TRANSLATION_REVIEW.md` **PASSED**, whole-work English is **VERIFIED**, and `RELEASE_REPORT.md` **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
 
-The section intentionally remains batch-level `reviewed`; whole-work verification does not alter the canonical Tamil freeze. There is no remaining Batch-5 follow-up.
+The section intentionally remains batch-level `reviewed`; whole-work verification does not alter the canonical Tamil freeze.
+
+## Subsequent state
+
+The former next activity — Batch 6 — was completed, followed by Batch 7, the whole-work bilingual review and the release-readiness pass. There is no remaining Batch-5 follow-up. Canonical Tamil remains **0 verified / 49 `needs-review`** under the active freeze.

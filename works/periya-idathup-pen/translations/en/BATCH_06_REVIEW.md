@@ -57,10 +57,10 @@ Canonical state remains:
 
 **BATCH 06 / ENGLISH SECTION 06 — REVIEWED / PASS.**
 
-At the time of this batch review, Batch 7 and whole-work verification were still pending. Those downstream stages are now complete: Batch 7 passed, all eight planned batches are reviewed, `TRANSLATION_REVIEW.md` **PASSED**, whole-work English is **VERIFIED**, and `RELEASE_REPORT.md` **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
+At the time of this batch review, whole-work verification was still pending. That downstream work is now complete: Batch 7 is reviewed, `TRANSLATION_REVIEW.md` **PASSED**, whole-work English is **VERIFIED**, and `RELEASE_REPORT.md` **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
 
 The section intentionally remains batch-level `reviewed`; whole-work verification does not alter the canonical Tamil freeze.
 
 ## Subsequent state
 
-The former next activity — Batch 7 followed by whole-work review — is complete. There is no remaining Batch-6 follow-up. Canonical Tamil remains **0 verified / 49 `needs-review`** under the active freeze.
+The former next activity — Batch 7 — was completed, followed by the whole-work bilingual review and qualified release-readiness pass. There is no remaining Batch-6 follow-up. Canonical Tamil remains **0 verified / 49 `needs-review`** under the active freeze.
