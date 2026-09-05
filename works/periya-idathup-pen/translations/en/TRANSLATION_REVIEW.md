@@ -6,7 +6,7 @@ This file records the final whole-work alignment review for the English translat
 
 Working English title: **_The Woman of the Great House_**.
 
-The review decides whether the completed English layer can advance from section-level `reviewed` to whole-work `verified`.
+The review determined whether the completed English layer could advance from section-level `reviewed` to whole-work `verified`.
 
 ## Controlling authority
 
@@ -38,7 +38,7 @@ The scan-15 and scan-19 mid-page heading boundaries are represented without dupl
 
 ## Complete-work coverage — PASS
 
-The seven batch review records already source-checked their own ranges. This final review rechecked the complete sequence for continuity, omission and duplication risk.
+The seven batch review records source-checked their own ranges. This final review rechecked the complete sequence for continuity, omission and duplication risk.
 
 Confirmed represented across the work:
 
@@ -80,7 +80,7 @@ Stable forms are consistent across the work:
 - `தலையாரி` → talaiyari;
 - `கல்கத்தா` → Calcutta.
 
-The final review found one English romanisation drift: scan-49 `ரதி` appeared as **Rathi** in Section 07, while `TRANSLATION_PLAN.md` locks the mythological name as **Rati**. Section 07 is corrected to **Rati**. This is an English editorial consistency correction only; Tamil is unchanged.
+The final review found one English romanisation drift: scan-49 `ரதி` appeared as **Rathi** in Section 07, while `TRANSLATION_PLAN.md` locks the mythological name as **Rati**. Section 07 was corrected to **Rati**. This is an English editorial consistency correction only; Tamil is unchanged.
 
 ## Class / debt / household vocabulary — PASS
 
@@ -213,10 +213,16 @@ Translator notes and provenance comments remain distinct from translated prose.
 
 # VERDICT: ENGLISH TRANSLATION VERIFIED
 
-The English translation of **_The Woman of the Great House_ / `பெரிய இடத்துப் பெண்`** is whole-work **`verified`** against the completed source-compared Tamil archival layer.
+The English translation of **_The Woman of the Great House_ / `பெரிய இடத்துப் பெண்`** is whole-work **VERIFIED** against the completed source-compared Tamil archival layer.
 
 This status applies only to the English derived layer. It does **not** override the user-mandated Tamil verification freeze, change any canonical page from `needs-review`, normalize difficult Tamil source forms, or claim external historical verification of the narrative.
 
-## Next release-stage activity
+## Subsequent release state
 
-Create `RELEASE_REPORT.md` and perform a release-readiness pass. Because the canonical Tamil freeze remains **0 verified / 49 `needs-review`**, the release report must explicitly carry that qualification and must not describe the complete archival package as unqualified release-ready unless the user later changes the freeze disposition.
+The release-stage activity that followed this review is now complete. [`RELEASE_REPORT.md`](RELEASE_REPORT.md) was created and the release-readiness/navigation/inventory pass **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
+
+Final package wording:
+
+> **English layer release-ready; archival package RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION — 0 verified / 49 `needs-review`, freeze ACTIVE.**
+
+The repository-wide closeout is recorded in [`../../COMPLETION_SYNC_AUDIT.md`](../../COMPLETION_SYNC_AUDIT.md). There is no remaining bilingual-review or release-stage activity for this source edition under the current instructions. The canonical freeze must remain unchanged unless the user explicitly changes it.
