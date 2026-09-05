@@ -14,79 +14,71 @@
 | Source identity inspected | **complete for intake** |
 | Actual PDF page count / size / checksum | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **3 / 179** |
+| Canonical page records | **8 / 179** |
 | Front matter scans 1–3 | **verified** |
-| Body transcription | **not started** |
-| Printed-page map | **partial / sampled only** |
+| Body transcription | **scans 4–8 verified** |
+| Printed-page map | **partial — scan 4 unnumbered; scans 5–8 = printed 4–7** |
 | Chapter map | **partial — Chapters 1–8 directly located** |
-| Historical-glyph policy | **enabled** |
+| Historical-glyph policy | **enabled; first body batch passed** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
 
 ## Front-matter intake verification
 
-### Scan 1 — PASS
+Scans 1–3 remain verified: cover identity, copy-specific donor label, and second-edition publication/price/printer page were directly inspected. Copy-specific material is not merged into novel text.
 
-Direct visual inspection confirms title, author, publisher and address. No printed page number is visible.
+## First narrative batch — scans 4–8
 
-### Scan 2 — PASS
+**Result: PASS / VERIFIED page records created.**
 
-The scan is largely blank with a later donor label `பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின் / அன்பளிப்பு`. It is copy-specific matter and is not merged into novel text.
+- scan 4: source title + Chapter 1; no visible printed page number;
+- scan 5: printed page 4;
+- scan 6: printed page 5;
+- scan 7: printed page 6;
+- scan 8: printed page 7.
 
-### Scan 3 — PASS
+All five scans were directly compared at enlarged/native resolution. Later markings were excluded from printed transcription; notably the underline beneath `சிந்தாமணி` on scan 6 is recorded as copy-specific marking only.
 
-Direct visual inspection confirms `இரண்டாம் பதிப்பு: 1968`, rights line, price `ரூ. 2-50`, and `சக்திவேல் பிரஸ், திருச்சிராப்பள்ளி-2.` No printed page number is visible.
+### Historical-glyph checkpoint
 
-## Historical-glyph gate
-
-The source uses older Tamil print and must be read under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
-
-Every body page must explicitly consider:
+Every page was checked against the known minimum set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-A visual resemblance is not enough to correct a word. Positive source-pixel evidence is required; otherwise retain/mark `needs-review`. No global replacement is permitted.
+The held scan-8 cluster was resolved without contextual guessing. Native/enlarged pixels and same-edition `ளை` evidence establish:
+
+- source-supported Unicode: **`களைத்துத் தூங்கிவிட்டால்`**;
+- historical family: **`ளை`**;
+- action: character identity decoded only; source wording not modernized.
+
+No global replacement was used. No unresolved glyph cluster remains in scans 4–8.
+
+### Cross-page continuity
+
+- scan 4 `ஏதோ` continues into scan 5;
+- scan 5 `அவைகளே` continues into scan 6 `கேலிக்குரியதாக ஆக்கிய என்னை...`;
+- scan 8 `கிழக்கு வானம் வெளுக்கத்` continues into scan 9.
+
+The canonical page layer retains these physical boundaries instead of moving text across scans.
 
 ## Source marks / contamination risks
 
-Sampled body pages show later underlining, ticks and handwriting in addition to the printed text. These marks must be kept outside canonical novel transcription. Age-toning, stains, faint bleed-through and uneven ink may also affect glyph reading.
+Later underlining, ticks and handwriting occur in the copy and must remain outside canonical novel text. Age-toning, stains, bleed-through and uneven ink remain glyph-reading risks for later batches.
 
 ## Structural checkpoint
 
-Directly confirmed early chapter openings:
+Directly confirmed chapter openings: scan 4 (1), 13 (2), 23 (3), 33 (4), 45 (5), 52 (6), 60 (7), 68 (8). This is not yet the full chapter map.
 
-1. scan 4;
-2. scan 13;
-3. scan 23;
-4. scan 33;
-5. scan 45;
-6. scan 52;
-7. scan 60;
-8. scan 68.
+## Unresolved project items
 
-This is not yet the full chapter map. The source is provisionally one continuous novel; later structure must be established from direct source inspection rather than assumed.
-
-## Unresolved intake items
-
-- direct printed-page number for every remaining scan;
+- scans **9–179** canonical transcription;
+- printed-page mapping for remaining scans;
 - chapter openings after Chapter 8;
-- full page-by-page transcription;
-- historical-glyph decisions for body pages;
-- cross-page word/sentence joins;
-- any damaged or genuinely unreadable source clusters;
-- final complete Tamil audit.
+- historical-glyph decisions for later body pages;
+- later cross-page joins and any damaged clusters;
+- final complete Tamil audit, assembly and English stages.
 
 ## Exact next activity
 
-Transcribe scans **4–8** from the source image. For each scan:
-
-1. inspect at enlarged/native resolution;
-2. record visible printed page number only if actually printed;
-3. separate later marks from printed text;
-4. apply the historical-glyph pre-correction check;
-5. create/update canonical page records;
-6. update `indexes/page-map.md` and this audit;
-7. keep any uncertain cluster `needs-review` rather than guessing.
-
-English work remains blocked.
+Process scans **9–12** to continue and finish the current Chapter 1 span before scan 13 / Chapter 2. Perform direct high-resolution transcription, historical-glyph checks, page-map/status synchronization and a narrow commit. English work remains blocked.
