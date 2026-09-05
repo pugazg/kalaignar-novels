@@ -12,12 +12,13 @@ The attached scan is the controlling source.
 
 - source registration: **complete**;
 - source page manifest: **49 / 49 scans mapped**;
-- canonical Tamil page records: **27 / 49**;
+- canonical Tamil page records: **32 / 49 — scans 1–32**;
 - `verified`: **0**;
-- `needs-review`: **27 / 49 — scans 1–27**;
+- `needs-review`: **32 / 49 — scans 1–32**;
 - `partial`: **0**;
-- remaining `not-started`: **22 — scans 28–49**;
-- historical-glyph retrospective audit over existing canonical pages: **27 / 27 COMPLETE**;
+- remaining `not-started`: **17 — scans 33–49**;
+- historical-glyph retrospective audit over scans 1–27: **COMPLETE**;
+- glyph-aware first-pass transcription: **active; complete through scan 32**;
 - verification freeze: **ACTIVE — do not mark pages verified**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil `sections/`: **blocked / not started**;
@@ -33,11 +34,13 @@ Historical-glyph audit: [`HISTORICAL_GLYPH_AUDIT.md`](HISTORICAL_GLYPH_AUDIT.md)
 
 **Do not mark any page in this work `verified`.**
 
-The user identified a systematic historical-typeform failure. The full known Periyar-reform reference set for this source is:
+The full known Periyar-reform reference set governing this source is:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Scans **1–27** have now been re-audited against this set at enlarged/high resolution. They remain `needs-review` by user instruction. New pages must be transcribed with the same glyph-aware method from first pass and also remain `needs-review` unless the user explicitly changes the policy.
+Do not copy an old glyph according to what modern glyph it superficially resembles. Determine historical character identity from the source pixels and encode that identity in modern Unicode. Do not global-replace or modernize source spelling, wording, grammar, punctuation, or vocabulary.
+
+Scans 1–27 have completed the retrospective pass. New pages beginning at scan 28 use the same glyph-aware method during first transcription and remain `needs-review`.
 
 ## Confirmed legacy-glyph corrections
 
@@ -52,7 +55,7 @@ Scans **1–27** have now been re-audited against this set at enlarged/high reso
 | 24 | 23 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` | `றா` |
 | 25 | 24 | `வேலை மட்டுந்தானு?` | `வேலை மட்டுந்தானா?` | `னா` |
 
-These are glyph-identification corrections, not modernization of source wording. The scan-25 correction demonstrates that the problem is broader than `றா`: the historical `னா` form can likewise be mistaken for a modern-looking glyph.
+These are glyph-identification corrections, not modernization of source wording.
 
 ## Independent source-text corrections found during re-audit
 
@@ -70,16 +73,32 @@ These are glyph-identification corrections, not modernization of source wording.
 
 Canonical records exist for the cover, copy-specific annotation page, publication details, `திரை விலக`, first `பதிப்புரை`, and eighth-edition `பதிப்புரை`. All remain `needs-review`.
 
-### Scans 8–27 — narrative
+### Scans 8–32 — narrative
 
-Canonical narrative records exist continuously through [`pages/0027-periya-idathup-pen-20.md`](pages/0027-periya-idathup-pen-20.md). The retrospective glyph pass is complete through this point, but all records remain `needs-review`.
+Canonical narrative records now exist continuously through [`pages/0032-periya-idathup-pen-25.md`](pages/0032-periya-idathup-pen-25.md). All remain `needs-review`.
 
-Visible internal headings identified so far:
+Directly confirmed internal textual headings:
 
 - scan 15 / printed 14 — `உத்தண்டி`;
-- scan 19 / printed 18 — `கண்ணம்மா`.
+- scan 19 / printed 18 — `கண்ணம்மா`;
+- scan 32 / printed 31 — `குமுதா`.
 
-They remain internal textual structure within the same continuous work; identifying a heading does not verify the whole page.
+They remain internal structure within the same continuous work; identifying a heading does not verify the page.
+
+## Latest glyph-aware batch — scans 28–32
+
+Five new canonical records were created directly from enlarged source inspection with the full 13-form reference applied before entry.
+
+Important source findings:
+
+- scan 27 `அவனுக்கு ஒரு` + scan 28 `மகள்.` → `அவனுக்கு ஒரு மகள்.`;
+- the parenthetical recollection closes on scan 28 at `பணக்காரத் தத்துவம்!)`;
+- scan 28 `“கண்ணம்மா! என்` + scan 29 `கண்ணல்ல.....`;
+- scan 29 `சில நாட்களுக்கு` + scan 30 `இருக்க வேண்டுமென்றும் சொன்னார்.`;
+- scan 30 `உலகநாதர் குமுதாவிடம் கொண்டிருக்கும்` + scan 31 `ஆசை வரையில் கூறிவிட்டேன்.`;
+- scan 32 directly confirms internal heading `குமுதா`.
+
+Scan 32 is an important glyph example: `கொலை` is decoded from historical `லை`, while `தோன்றாமல்தான்` requires historical `றா` rather than the apparent modern `று` shape.
 
 ## Printed-page behaviour
 
@@ -98,12 +117,6 @@ The scan identifies the work as **`பெரிய இடத்துப் ப�
 
 The copy shows age staining, specks, occasional edge/binding wear, faint bleed-through, and copy-specific handwriting/ink marks. Scan 2 contains handwriting plus a later gift-label. These marks remain separate from printed work text.
 
-## Historical-glyph rule for this source
-
-Do not copy a historical glyph according to what modern glyph it superficially resembles. Determine the historical character identity from the full glyph cluster and same-edition evidence, then encode that identity in modern Unicode. Apply the full 13-form reference on every new page from first transcription.
-
-Do not mechanically global-replace. Each occurrence must be checked against the source pixels.
-
 ## Next activity
 
-Resume source-first transcription at **scans 28–32 / printed pages 27–31**. Resolve scan 27's open parenthetical continuation only from the visible opening of scan 28. Apply the historical-glyph rule during first-pass transcription, keep every new page `needs-review`, preserve scan 32's `குமுதா` as an internal heading if visibly confirmed, synchronize page-map/audit/READMEs/HANDOVER, and stop after scan 32.
+Transcribe **scans 33–37 / printed pages 32–36** as the next source-first batch. Apply all 13 historical-form checks during first transcription, keep every new page `needs-review`, preserve exact source spelling/punctuation/page boundaries, update the status documents, and stop after scan 37. Do not start scan 38, assembled Tamil, or English translation in that activity.
