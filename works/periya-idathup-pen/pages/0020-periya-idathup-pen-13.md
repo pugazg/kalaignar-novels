@@ -7,19 +7,26 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
-transcription_method: "direct visual comparison with enlarged source scan; historical-glyph audit pending"
+transcription_method: "direct visual comparison with enlarged source scan; historical-glyph re-audit performed for this scan"
 ---
 
 னிலே இப்படி ஆகி இருக்குமா? நான் சிறுமியா இருக்கும்போது, எவ்வளவோ நல்லவளாகத்தான் இருந்தேன். ஊரில் கண்ணம்மா என்றாலே தனிப் பிரியந்தான் காட்டினார்கள். எனக்குக் கடவுளிடத்தில் அபார பக்தி இருந்தது. கிழமை தவறினும் தவறும், என்னுடைய விரதங்கள் தவறு. அம்பிகைக்குப் படையல் செய்து விட்டுத்தான் சாப்பிடுவேன். எதிர்காலத்தில் ஒரு பெரிய ‘பக்திமணி’யாக வேண்டுமென்ற பேராசையால் என் நெஞ்சம் நிரப்பப்பட்டிருந்தது. சதா சர்வ காலமும் தெய்வத்தின் திரு நாமங்களையே உச்சரித்துக்கொண்டிருப்பேன். இப்பொழுதுதான் என்ன? எப்பொழுதும் ஆண்டவனைத் துதித்த வண்ணமேதான் இருக்கிறேன். குற்றம் செய்தவர்கள்தானே மன்னிப்புக் கேட்டுக் கொள்ள வேண்டும்! நான் செய்த விஷமகரமான விபரீதச் செயல்களுக்குக் கடவுளிடம் மன்னிப்புக் கேட்டுக் கொள்ளத்தானே வேண்டும்! ஆனால் ஒன்று. அதை யாரும் கவனியாது விட்டு விடாதீர்கள்! பகவானிடம் மன்னிப்புப் பெற்றுவிடலாமென்ற தைரியத்தில் நான் இன்னும் என்னுடைய ஊறிப்போன செய்கைகளை விட்டு விடாமல்தான் இருக்கிறேன்; அதை ஏன் கேட்கிறீர்கள்! விபசாரி வேதாந்தம் பேசுகிறாள் என்று கூறுவீர்கள், விவேகமொழி கூறுகிறாள் என்று ஏளனம் செய்வீர்கள். என்னைப்பற்றி நீங்கள் நன்றாகத் தெரிந்து கொள்ள வேண்டுமா? இதோ பதில்! கண்ணம்மா ஒரு விபசாரி! கண்ணம்மா ஒரு பக்த சிரோன்மணி! போதுமா? இன்னும் வேண்டுமானாலும் இதோ விளக்கம். கேளுங்கள்!
 
 என் தகப்பனார் நல்ல செல்வந்தர். என் தாயார் என்னை வெகு அருமையாக வளர்த்தாள். நானும்
 
+## Historical-glyph re-audit — scan 20
+
+The full page was re-read at enlarged/high resolution against the complete 13-form reference. The previously corrected `நன்றாகத்` was re-confirmed directly from the historical `றா` glyph; the earlier `நன்றுகத்` reading was incorrect. Other relevant historical clusters, including `னை` in `என்னைப்பற்றி` and `றா` in `பேசுகிறாள்` / `கூறுகிறாள்`, were checked against the source.
+
+No additional text correction was required in this pass.
+
+This page remains `needs-review`; it is not verified.
+
 ## Scan observations
 
 - visible printed page number: **19**.
 - opening `னிலே` continues scan 19's final `என்`, establishing the physical boundary reading `என்னிலே`.
-- the earlier transcription `நன்றுகத்` was wrong: the historical pre-reform glyph is the old form of modern `றா`, so the canonical Unicode reading is `நன்றாகத்`.
-- all remaining source-specific forms on this page stay `needs-review` until the systematic historical-glyph pass is complete.
+- source-specific wording and punctuation were retained without modernization.
 - final `நானும்` continues on scan 21.
 
 <!-- மூல ஸ்கேன் பக்கம்: 20; அச்சுப் பக்கம்: 19 -->
