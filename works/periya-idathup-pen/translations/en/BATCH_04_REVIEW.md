@@ -7,7 +7,7 @@ Tamil assembled source: `../../sections/04-kumudha.md`
 Canonical authority: `../../pages/`  
 Source coverage: **scans 32–37 / `குமுதா` signed statement**.
 
-Review state: **REVIEWED**. This is not final whole-work `verified` status.
+Review state: **REVIEWED / PASS**. This file records the Batch-4 stage result; the later whole-work `TRANSLATION_REVIEW.md` establishes final English **VERIFIED** status.
 
 ## Source-completeness check
 
@@ -68,4 +68,6 @@ No canonical Tamil change was required during Batch 4 translation review.
 
 **BATCH 04 / ENGLISH SECTION 04 — REVIEWED / PASS.**
 
-The section remains below final `verified` status until whole-work bilingual review and section-boundary review are complete.
+At the time of this batch review, whole-work verification was still pending. That downstream work is now complete: all eight planned batches are reviewed, `TRANSLATION_REVIEW.md` **PASSED**, whole-work English is **VERIFIED**, and `RELEASE_REPORT.md` **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
+
+The section intentionally remains batch-level `reviewed`; whole-work verification does not alter the canonical Tamil freeze. There is no remaining Batch-4 follow-up.
