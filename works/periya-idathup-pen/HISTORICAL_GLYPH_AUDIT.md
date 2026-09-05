@@ -16,12 +16,17 @@ The chart is a decoding reference, not permission to modernize spelling, grammar
 
 ## Confirmed historical-glyph corrections
 
-| Scan | Printed page | Incorrect transcription | Correct Unicode reading |
-|---:|:---:|---|---|
-| 20 | 19 | `நன்றுகத்` | `நன்றாகத்` |
-| 21 | 20 | `நன்றுகத்தான்` | `நன்றாகத்தான்` |
-| 24 | 23 | `நன்றுக` | `நன்றாக` |
-| 24 | 23 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` |
+| Scan | Printed page | Incorrect transcription | Correct Unicode reading | Historical identity |
+|---:|:---:|---|---|---|
+| 14 | 13 | `ஆவிலைக்` | `ஆவலைக்` | `லை` |
+| 14 | 13 | `நின்றூர்` | `நின்றார்` | `றா` |
+| 16 | 15 | `போகிறயே` | `போகிறாயே` | `றா` |
+| 20 | 19 | `நன்றுகத்` | `நன்றாகத்` | `றா` |
+| 21 | 20 | `நன்றுகத்தான்` | `நன்றாகத்தான்` | `றா` |
+| 24 | 23 | `நன்றுக` | `நன்றாக` | `றா` |
+| 24 | 23 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` | `றா` |
+
+The scan-24 corrections were established earlier from the user's direct challenge and remain recorded even though scan 24 has not yet reached its retrospective page-audit turn.
 
 ## Other source-text corrections found during the retrospective pass
 
@@ -33,57 +38,37 @@ The chart is a decoding reference, not permission to modernize spelling, grammar
 | 7 | 6 | `உள்ளங்களை` | `உள்ளங்களே` | line-break/source-text correction |
 | 12 | 11 | `தாவும்போது பயப்பட்ட பூனை` | `தாவும்போது பயப்படாத பூனை` | lexical/source-text correction |
 | 12 | 11 | `பயப்பட்டது போல -` | `பயப்பட்டதுபோல -` | source-word/spacing correction |
+| 19 | 18 | `செக்கச் செவேலென்றோன்றின.` | `செக்கச் செவேலென்றேதோன்றின.` | direct source-text correction |
 
 ## Retrospective pass progress
 
-| Scan | Printed page | Historical-glyph pass | Result | Page status |
-|---:|:---:|---|---|---|
-| 1 | — | complete | no correction | `needs-review` |
-| 2 | — | complete | no source-work print; later label checked, no correction | `needs-review` |
-| 3 | — | complete | `லை / னை / னா` occurrences already encoded correctly | `needs-review` |
-| 4 | — | complete | six historical-form occurrences confirmed; one lexical correction | `needs-review` |
-| 5 | — | complete | four historical-form occurrences confirmed; two lexical corrections | `needs-review` |
-| 6 | — | complete | five historical-form occurrences confirmed; no text correction | `needs-review` |
-| 7 | 6 | complete | seven historical-form occurrences confirmed; one source-text correction | `needs-review` |
-| 8 | — | complete | nine historical-form occurrences confirmed; no text correction | `needs-review` |
-| 9 | 8 | complete | eleven historical-form occurrences checked; no text correction | `needs-review` |
-| 10 | 9 | complete | historical `றா` in `என்றான்` plus other forms checked; no text correction | `needs-review` |
-| 11 | 10 | complete | `னா / னை / லை / ளை` forms checked; no text correction | `needs-review` |
-| 12 | 11 | complete | historical forms encoded correctly; two independent text corrections | `needs-review` |
-| 13 | 12 | complete | `ணை / னை / னா / லை` forms checked; no text correction | `needs-review` |
+| Scan range | Printed pages | Result | Page status |
+|---|---|---|---|
+| 1–13 | cover/front matter through 12 | completed in prior passes; corrections recorded above and in page records | `needs-review` |
+| 14 | 13 | `ஆவலைக்` and `நின்றார்` historical identities corrected | `needs-review` |
+| 15 | 14 | full 13-form sweep; no text correction | `needs-review` |
+| 16 | 15 | `போகிறாயே` historical `றா` corrected | `needs-review` |
+| 17 | 16 | full 13-form sweep; no text correction | `needs-review` |
+| 18 | 17 | full 13-form sweep; no text correction | `needs-review` |
+| 19 | 18 | full 13-form sweep; `செவேலென்றேதோன்றின` source-text correction | `needs-review` |
+| 20 | 19 | earlier `நன்றாகத்` historical `றா` correction re-confirmed; no new correction | `needs-review` |
+| 21 | 20 | earlier `நன்றாகத்தான்` historical `றா` correction re-confirmed; no new correction | `needs-review` |
+| 22 | 21 | full 13-form sweep; no text correction | `needs-review` |
+| 23 | 22 | full 13-form sweep; no text correction | `needs-review` |
 
-### Scans 1–8
+### Batch finding — scans 14–23
 
-Earlier one-page findings remain authoritative in their canonical page records. Confirmed historical-typeform decoding through scan 8 includes examples such as `ஜூலை`, `விற்பனை`, `கருணாநிதி`, `போகிறாள்`, and `நினைத்தவாறே`. Independent corrections through scan 8 are recorded in the table above. All scans remain `needs-review`.
+All ten pages were inspected independently at enlarged/high resolution. Important directly source-supported findings include:
 
-### Scan 9 / printed page 8
+- scan 14: historical `லை` resolves `ஆவலைக்`; historical `றா` resolves `நின்றார்`;
+- scan 16: historical `றா` resolves `போகிறாயே`;
+- scan 19: source visibly reads `செக்கச் செவேலென்றேதோன்றின.`;
+- scans 20–21: the previously corrected `நன்றாகத்` / `நன்றாகத்தான்` readings were re-confirmed from the historical `றா` form;
+- scans 15, 17, 18, 22 and 23 required no canonical text change in this pass.
 
-The complete page was re-read at enlarged/high resolution. Positive historical-form occurrences checked include `ஊஞ்சலை` (`லை`), `உந்தலினால்` (`னா`), `கண்ணம்மாளைக்` (`ளை`), `இல்லை` (`லை`), `ஆனாலும்` (`னா`), `வேதனையைக்` (`னை`), `கருணை` (`ணை`), `அவளைத்` (`ளை`), `தூக்கினார்` (`னா`), `கூட்டினால்` (`னா`), and the final `அவளை` (`ளை`). All were already encoded correctly. No text correction required.
+Page-boundary evidence remains physical-source evidence only and does not confer verification: scan 14 `நினைக்` → scan 15 `காதே!`; scan 15 `தெரிந்` → scan 16 `தது.`; scan 16 `நம்` → scan 17 `வீட்டு`; scan 17 `கண்டது` → scan 18 `போலத்தானே!`; scan 18 `என்` → scan 19 `றேன்.`; scan 19 `என்` → scan 20 `னிலே`; scan 21 `காலக்ஷேபங்` → scan 22 `கூட`; scan 22 `மட்` → scan 23 `டும்`.
 
-### Scan 10 / printed page 9
-
-The complete page was re-read at enlarged/high resolution. Historical forms checked include `பேசாமலில்லை` (`லை`), four occurrences of `ஆனால்` (`னா`), `மாட்டினான்` (`னா`), `விசாரணைக்கு` (`ணை`), `போகவில்லை` (`லை`), `பூனை` (`னை`), `என்றான்` (`றா`), `குறையவில்லை` (`லை`), `நிலை` (`லை`), `சோதிக்கநினைப்பதில்லை` (`னை` + `லை`), and `கருதத்தானில்லை` (`லை`). The old `றா` shape in `என்றான்` was checked specifically against the user-supplied chart. No correction required.
-
-### Scan 11 / printed page 10
-
-Historical forms checked include three `ஆனால்` (`னா`) occurrences, `வீரனைக்` (`னை`), `காணவில்லையே` (`லை`), two `மாடுகளை` (`ளை`) occurrences, `காளை` (`ளை`), `வெதறலைத்` (`லை`), and `மனவேதனையைக்` (`னை`). All were already encoded correctly. No independent text correction required. The final `கிடப்ப` remains a physical continuation into scan 12.
-
-### Scan 12 / printed page 11
-
-Historical forms checked include `அணைப்பு` (`ணை`), two `ஆனால்` (`னா`) occurrences, `பூனை` (`னை`), `துளைத்தபோது` (`ளை`), `நிலை` (`லை`), `பின்னால்` (`னா`), `நினைத்தாள்` (`னை`), `நினைப்பு` (`னை`), `பேனா` (`னா`), and `இல்லையே` (`லை`). These historical identities were already encoded correctly.
-
-Two independent transcription errors were corrected directly from the enlarged source:
-
-- `தாவும்போது பயப்பட்ட பூனை` → **`தாவும்போது பயப்படாத பூனை`**;
-- `பயப்பட்டது போல -` → **`பயப்பட்டதுபோல -`**.
-
-The source-supported corrected sequence is `உறியில் தாவும்போது பயப்படாத பூனை உறியை அடைந்ததும் பயப்பட்டதுபோல - சுவரைத் துளைத்தபோது...`.
-
-### Scan 13 / printed page 12
-
-Historical forms checked include `பண்ணையில்` (`ணை`), `வேலை` (`லை`), `தலையாரி` (`லை`), `விலை` (`லை`), `இல்லை` (`லை`), `போனால்` (`னா`), `நினைத்துவிட்டார்` (`னை`), `நினைத்துவிட்டதாகக்` (`னை`), `தன்னைக்` (`னை`), `அறியவில்லை` (`லை`), `கற்சிலை` (`லை`), `கருத்துமில்லை` (`லை`), and `கவனிப்புமில்லை` (`லை`). All were already encoded correctly. No independent text correction required.
-
-**Progress: 13 / 27 existing canonical scans reviewed; scans 14–27 pending.** All reviewed pages remain `needs-review`.
+**Progress: 23 / 27 existing canonical scans reviewed; scans 24–27 pending.** All reviewed pages remain `needs-review`.
 
 ## Audit rule
 
@@ -95,7 +80,7 @@ For every page:
 4. compare same-edition occurrences where useful;
 5. encode the proven identity in modern Unicode;
 6. do not normalize anything beyond proven glyph identity;
-7. correct any independent transcription mismatch only with positive source-pixel support and record it separately;
+7. correct an independent transcription mismatch only with positive source-pixel support and record it separately;
 8. keep the page `needs-review` while the work-wide audit remains open.
 
 The 13-form chart is a minimum known reference set; remain alert for other legacy typographic ambiguity.
@@ -103,7 +88,7 @@ The 13-form chart is a minimum known reference set; remain alert for other legac
 ## Gate consequence
 
 - canonical records: **27 / 49**;
-- retrospective historical-glyph pass: **13 / 27 — scans 1–13**;
+- retrospective historical-glyph pass: **23 / 27 — scans 1–23**;
 - `verified`: **0**;
 - `needs-review`: **27 — scans 1–27**;
 - `partial`: **0**;
@@ -114,4 +99,4 @@ The 13-form chart is a minimum known reference set; remain alert for other legac
 
 ## Exact next activity
 
-Audit **scans 14–18 / printed pages 13–17** next as a five-page batch. Inspect each page independently at enlarged/high resolution against the complete 13-form reference, make only pixel-supported corrections, record each result, keep every page `needs-review`, and stop after scan 18.
+Audit **scans 24–27 / printed pages 23–26** next as the remaining four-page retrospective batch. Re-confirm the already known scan-24 `றா` corrections from the source, inspect every page against all 13 historical forms, make only pixel-supported corrections, keep every page `needs-review`, update the audit trackers, and stop after scan 27.
