@@ -6,8 +6,9 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 Source pages: **49**  
 Source PDF committed to repository: **No**
 
-Canonical page-level transcription now covers **all 49 / 49 scans**. The work-level Tamil audit remains **open** because the user-mandated verification freeze is active: every page remains `needs-review` and none is `verified`.
+Canonical page-level transcription covers **all 49 / 49 scans**. The dedicated whole-work Tamil source/audit review is now **IN PROGRESS**; scans **1–10** have been directly reviewed in that pass. Every page remains `needs-review` under the user-mandated verification freeze.
 
+Dedicated review record: [`FULL_TAMIL_SOURCE_AUDIT.md`](FULL_TAMIL_SOURCE_AUDIT.md).  
 Reusable historical-glyph procedure: [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md).
 
 ## Current gate
@@ -17,6 +18,7 @@ Reusable historical-glyph procedure: [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTIO
 | Source identity inspected | complete |
 | Scan pages mapped | **49 / 49** |
 | Canonical page records | **49 / 49** |
+| Dedicated full-source audit | **IN PROGRESS — scans 1–10 / 49 reviewed** |
 | `verified` | **0** |
 | `needs-review` | **49 — scans 1–49** |
 | `partial` | **0** |
@@ -24,7 +26,7 @@ Reusable historical-glyph procedure: [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTIO
 | Historical-glyph retrospective audit | **COMPLETE — scans 1–27** |
 | Glyph-aware first-pass transcription | **complete — scans 28–49** |
 | Verification freeze | **ACTIVE — do not mark pages verified** |
-| Tamil source layer | **NOT PASSED** |
+| Tamil source layer | **NOT PASSED — audit in progress** |
 | Assembled Tamil | **BLOCKED** |
 | English translation | **BLOCKED** |
 
@@ -49,7 +51,7 @@ Decode historical character identity into modern Unicode only after direct sourc
 | 24 | 23 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` |
 | 25 | 24 | `வேலை மட்டுந்தானு?` | `வேலை மட்டுந்தானா?` |
 
-## Independent source-text corrections found during re-audit
+## Independent source-text corrections found during earlier re-audit
 
 - scan 4: `சமூகத்தின்` → `சமுதாயத்தின்`;
 - scan 5: `அற்பிய` → `அரும்பிய`;
@@ -59,7 +61,21 @@ Decode historical character identity into modern Unicode only after direct sourc
 - scan 12 / printed 11: `பயப்பட்டது போல -` → `பயப்பட்டதுபோல -`;
 - scan 19 / printed 18: `செக்கச் செவேலென்றோன்றின.` → `செக்கச் செவேலென்றேதோன்றின.`.
 
-Occurrence-level tracking remains in [`HISTORICAL_GLYPH_AUDIT.md`](HISTORICAL_GLYPH_AUDIT.md).
+Occurrence-level historical tracking remains in [`HISTORICAL_GLYPH_AUDIT.md`](HISTORICAL_GLYPH_AUDIT.md).
+
+## Dedicated full-source audit — Batch 1
+
+Scans **1–10** were directly rechecked against enlarged source images.
+
+Results:
+
+- no new canonical lexical correction was required;
+- no new historical-glyph correction was required;
+- printed-page mapping through scan 10 was reconfirmed;
+- front matter → eighth-edition note → narrative opening structure was reconfirmed;
+- scan 9 → 10 was explicitly reviewed: scan 9 ends `அவளை இவருக்குக் கட்டினர்கள்` without a visible terminal mark, and scan 10 begins `அதைப் பற்றி உலகம் பேசாமலில்லை.`; preserve the physical source boundary without inserting punctuation or claiming a lexical word join.
+
+Full batch detail: [`FULL_TAMIL_SOURCE_AUDIT.md`](FULL_TAMIL_SOURCE_AUDIT.md).
 
 ## Final source batch — scans 48–49
 
@@ -71,6 +87,6 @@ Occurrence-level tracking remains in [`HISTORICAL_GLYPH_AUDIT.md`](HISTORICAL_GL
 
 The source is one continuous work. Directly confirmed internal headings are `உத்தண்டி` (scan 15), `கண்ணம்மா` (scan 19), `குமுதா` (scan 32), `வீரன்` (scan 38), `உலகநாதர்` (scan 45), and `கண்ணம்மா` (scan 46).
 
-## Next activity
+## Exact next activity
 
-Perform a dedicated **full Tamil source/audit review** now that 49/49 canonical records exist. Recheck source-sensitive readings, historical-glyph consistency, boundary joins, metadata, printed-page mapping and structural continuity. Under the current instruction, keep pages `needs-review`; do not mark them verified, build assembled Tamil, or begin English translation.
+Continue the dedicated full Tamil source/audit review with **scans 11–20 / printed pages 10–19**. Recheck source-sensitive readings, historical-glyph consistency, boundary joins, page numbering and structure. Under the current instruction, keep all pages `needs-review`; do not mark them verified, build assembled Tamil, or begin English translation.

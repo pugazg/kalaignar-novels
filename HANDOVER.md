@@ -9,7 +9,7 @@
 - Current target: `works/periya-idathup-pen/`
 - Completed reference implementation: `works/balipeedam-nokki/`
 
-Before changing the active work, read the root guides/README/handover plus the active work README, `HISTORICAL_GLYPH_AUDIT.md`, metadata, page map, audit, and relevant page records. The attached PDF remains controlling and must not be committed.
+Before changing the active work, read the root guides/README/handover plus the active work README, `FULL_TAMIL_SOURCE_AUDIT.md`, `HISTORICAL_GLYPH_AUDIT.md`, metadata, page map, audit, and relevant page records. The attached PDF remains controlling and must not be committed.
 
 ## பெரிய இடத்துப் பெண் — source identity
 
@@ -22,7 +22,8 @@ Before changing the active work, read the root guides/README/handover plus the a
 - publisher/place: **திராவிடன் பதிப்பகம் / வேலூர் (வ. ஆ.)**;
 - edition: **எட்டாம் பதிப்பு: ஜூலை 1953**;
 - price: **விலை 0—8—0**;
-- sales rights: **எம். எஸ். ராஜுலு கம்பெனி, 286, சைனா பஜார், சென்னை-1**.
+- sales rights: **எம். எஸ். ராஜுலு கம்பெனி, 286, சைனா பஜார், சென்னை-1**;
+- final printer colophon: **ஸ்ரீமகள் அச்சகம், சென்னை-1**.
 
 ## Verification freeze
 
@@ -45,28 +46,44 @@ The root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is the reusable procedu
 
 ## Full canonical coverage checkpoint
 
-Canonical page records now exist for **all 49 / 49 scans**.
+Canonical page records exist for **all 49 / 49 scans**.
 
-Latest final batch, scans **48–49 / printed pages 47–48**:
+Final-source boundary findings remain:
 
 - scan 47 `எழுதி` + scan 48 `யிருந்தாள்.` → **`எழுதியிருந்தாள்.`**;
-- scan 48 retains source-specific `வேசின்` and `தத்தம்` after direct enlarged source review;
+- scan 48 retains source-specific `வேசின்` and `தத்தம்`;
 - scan 48 `ஒரு பெரிய` + scan 49 `ஜோதி நிரந்தரமாக...` → **`ஒரு பெரிய ஜோதி நிரந்தரமாக...`**;
 - scan 49 retains source-specific `அழுக்குப்பட்டு`, `உச்ச ஸ்தாயியை`, `போகவேண்டு மென்னிருக்கலே`, and `பாடங்`;
-- narrative visibly ends at **`...எங்களிடம் வரவேண்டும், தெரியுமா?`**;
-- separate printer colophon directly reads **`ஸ்ரீமகள் அச்சகம், சென்னை-1`**.
+- narrative ends at **`...எங்களிடம் வரவேண்டும், தெரியுமா?`**;
+- separate printer colophon reads **`ஸ்ரீமகள் அச்சகம், சென்னை-1`**.
+
+## Dedicated full Tamil source/audit review
+
+The post-coverage whole-work audit has now started.
+
+Completed Batch 1: **scans 1–10 / 49**.
+
+Results:
+
+- no new canonical lexical correction was required in scans 1–10;
+- no new historical-glyph correction was required;
+- front matter, publication details, eighth-edition note, narrative opening and printed-page mapping through scan 10 were reconfirmed directly;
+- scan 9 → 10 was explicitly checked: scan 9 ends `அவளை இவருக்குக் கட்டினர்கள்` without a visible terminal mark; scan 10 begins `அதைப் பற்றி உலகம் பேசாமலில்லை.`; preserve the physical boundary without inserting punctuation or claiming a lexical word join.
+
+Detailed record: `works/periya-idathup-pen/FULL_TAMIL_SOURCE_AUDIT.md`.
 
 ## Current stage
 
 - source registration: complete;
 - page map: **49 / 49**;
 - canonical records: **49 / 49**;
+- dedicated full-source audit: **10 / 49 reviewed — IN PROGRESS**;
 - `verified`: **0**;
 - `needs-review`: **49**;
 - `partial`: **0**;
 - `not-started`: **0**;
 - verification freeze: **ACTIVE**;
-- Tamil source audit: **NOT PASSED**;
+- Tamil source audit: **NOT PASSED — in progress**;
 - assembled Tamil: **BLOCKED**;
 - English translation: **BLOCKED**;
 - source PDF committed: **No**.
@@ -88,17 +105,18 @@ These remain internal textual structure within one continuous work.
 
 ## Exact next activity
 
-Perform a dedicated **full Tamil source/audit review** over the completed 49-page canonical layer.
+Continue the dedicated **full Tamil source/audit review with scans 11–20 / printed pages 10–19**.
 
 Required focus:
 
-1. recheck source-sensitive / unusual lexical readings against the scan;
-2. recheck historical-glyph consistency using the reusable guide;
-3. validate all physical page-boundary joins;
-4. confirm page numbering, metadata and internal structural continuity;
-5. document unresolved items explicitly;
-6. keep every page `needs-review` under the current user instruction;
-7. do **not** mark pages verified, build assembled Tamil sections, or begin English translation in that activity.
+1. compare every canonical page directly against the attached scan;
+2. recheck source-sensitive / unusual lexical readings;
+3. recheck historical-glyph consistency using the reusable guide;
+4. explicitly revisit the documented scan-12 source-text corrections, scan-19 source-text correction and scan-20 `றா` correction;
+5. validate physical page-boundary joins and printed-page numbering;
+6. document unresolved items explicitly;
+7. keep every page `needs-review` under the current user instruction;
+8. do **not** mark pages verified, build assembled Tamil sections, or begin English translation.
 
 ---
 

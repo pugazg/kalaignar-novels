@@ -33,7 +33,7 @@ From scan page 3:
 - Distributor: **எம். எஸ். ராஜுலு கம்பெனி**
 - Address: **286, சைனா பஜார் / சென்னை-1**
 
-The final body scan also carries a printer-colophon line at the foot of scan 49. Its exact wording will be transcribed only during direct page-level verification; it is not inferred here.
+The final body scan carries a printer-colophon line at the foot of scan 49. Direct source review confirms: **`ஸ்ரீமகள் அச்சகம், சென்னை-1`**.
 
 ## Printed-page numbering behaviour
 
@@ -48,7 +48,7 @@ Where a printed number is not visibly present, canonical records use `printed_pa
 
 ## Front matter and narrative range
 
-Preliminary source structure from direct scan review:
+Source structure from direct scan review:
 
 1. scan 1 — cover;
 2. scan 2 — copy-specific handwriting / later gift-label page;
@@ -56,13 +56,13 @@ Preliminary source structure from direct scan review:
 4. scan 4 — author note headed `திரை விலக`;
 5. scan 5 — `பதிப்புரை`;
 6. scans 6–7 — `எட்டாம் பதிப்பு / பதிப்புரை` and continuation;
-7. scans 8–49 — the main narrative `பெரிய இடத்துப் பெண்`, ending on scan 49 / printed page 48, followed by a printer-colophon line.
+7. scans 8–49 — the main narrative `பெரிய இடத்துப் பெண்`, ending on scan 49 / printed page 48, followed by the printer colophon `ஸ்ரீமகள் அச்சகம், சென்னை-1`.
 
 ## Work-level structural interpretation
 
 Current scan evidence supports **one continuous work: `பெரிய இடத்துப் பெண்`**.
 
-Representative body review shows character-name headings such as:
+Directly confirmed character-name headings include:
 
 - scan 15 / printed 14 — `உத்தண்டி`;
 - scan 19 / printed 18 — `கண்ணம்மா`;
@@ -71,7 +71,7 @@ Representative body review shows character-name headings such as:
 - scan 45 / printed 44 — `உலகநாதர்`;
 - scan 46 / printed 45 — `கண்ணம்மா`.
 
-These are currently treated as **internal textual headings within the continuous narrative**, not as separate works. The final section architecture will be decided only after page-by-page transcription and continuity audit.
+These remain **internal textual headings within the same continuous narrative**, not separate works. Final assembled section architecture remains blocked until the dedicated full Tamil source/audit review is complete.
 
 ## Scan / physical-copy observations
 
@@ -82,7 +82,7 @@ These are currently treated as **internal textual headings within the continuous
 - Scan 2 is dominated by handwriting and contains a later white label reading `பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின் / அன்பளிப்பு`; those copy-specific additions are not part of the work's printed narrative.
 - Initial and body pages may contain isolated ink/binding marks. They must be documented separately from printed text.
 - No body illustration or separate back-cover scan was identified in the representative review.
-- Scan 49 contains the narrative ending and a printer-colophon line; there is no later scan page in this PDF.
+- Scan 49 contains the narrative ending and the printer colophon; there is no later scan page in this PDF.
 
 ## Source authority rule
 

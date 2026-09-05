@@ -19,8 +19,9 @@ The attached scan is the controlling source.
 - `not-started`: **0**;
 - historical-glyph retrospective audit over scans 1–27: **COMPLETE**;
 - glyph-aware first-pass transcription over scans 28–49: **COMPLETE**;
+- dedicated full Tamil source/audit review: **IN PROGRESS — scans 1–10 / 49 reviewed; 39 remain**;
 - verification freeze: **ACTIVE — do not mark pages verified**;
-- Tamil source audit: **NOT PASSED**;
+- Tamil source audit: **NOT PASSED — audit in progress**;
 - assembled Tamil `sections/`: **blocked / not started**;
 - English translation: **blocked / not started**;
 - source PDF committed: **No**.
@@ -28,6 +29,7 @@ The attached scan is the controlling source.
 Full source identity: [`metadata/source.md`](metadata/source.md).  
 Page manifest: [`indexes/page-map.md`](indexes/page-map.md).  
 Audit state: [`audit.md`](audit.md).  
+Dedicated full-source audit: [`FULL_TAMIL_SOURCE_AUDIT.md`](FULL_TAMIL_SOURCE_AUDIT.md).  
 Historical-glyph audit: [`HISTORICAL_GLYPH_AUDIT.md`](HISTORICAL_GLYPH_AUDIT.md).  
 Reusable historical Tamil glyph procedure: [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md).
 
@@ -56,7 +58,7 @@ Character identity must be determined from source pixels and encoded in modern U
 
 ## Complete transcription coverage
 
-Canonical records now exist for every source scan, including front matter and the complete narrative.
+Canonical records exist for every source scan, including front matter and the complete narrative.
 
 Directly confirmed internal headings remain part of the same continuous work:
 
@@ -76,6 +78,17 @@ Directly confirmed internal headings remain part of the same continuous work:
 - narrative visibly ends with `...எங்களிடம் வரவேண்டும், தெரியுமா?`;
 - separate bottom printer colophon: **`ஸ்ரீமகள் அச்சகம், சென்னை-1`**.
 
+## Dedicated full Tamil source audit
+
+Batch 1 — **scans 1–10** — is complete by direct enlarged-source comparison.
+
+- no new canonical lexical correction was required in this batch;
+- no new historical-glyph correction was required;
+- front-matter identity, eighth-edition note and narrative opening were reconfirmed;
+- scan 9 ends `அவளை இவருக்குக் கட்டினர்கள்` without a visible terminal mark and scan 10 begins `அதைப் பற்றி உலகம் பேசாமலில்லை.`; the physical boundary is preserved without invented punctuation or a false lexical join.
+
+Detailed record: [`FULL_TAMIL_SOURCE_AUDIT.md`](FULL_TAMIL_SOURCE_AUDIT.md).
+
 ## Printed-page behaviour
 
 - scans 1–6: no visible printed page number;
@@ -85,4 +98,4 @@ Directly confirmed internal headings remain part of the same continuous work:
 
 ## Next activity
 
-Canonical coverage is complete, but the work is not audit-passed. Perform a dedicated **full Tamil source/audit review** of all 49 canonical records, historical-glyph consistency, page joins, metadata and internal structure. Keep all pages `needs-review` under the current verification freeze. Do not begin assembled Tamil or English translation.
+Continue the dedicated **full Tamil source/audit review with scans 11–20 / printed pages 10–19**. Recheck source-sensitive words, historical-glyph consistency, page-boundary joins, metadata and internal structure. Keep all pages `needs-review` under the current verification freeze. Do not begin assembled Tamil or English translation.
