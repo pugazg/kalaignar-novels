@@ -12,13 +12,13 @@ The attached scan is the controlling source.
 
 - source registration: **complete**;
 - source page manifest: **49 / 49 scans mapped**;
-- canonical Tamil page records: **37 / 49 — scans 1–37**;
+- canonical Tamil page records: **42 / 49 — scans 1–42**;
 - `verified`: **0**;
-- `needs-review`: **37 / 49 — scans 1–37**;
+- `needs-review`: **42 / 49 — scans 1–42**;
 - `partial`: **0**;
-- remaining `not-started`: **12 — scans 38–49**;
+- remaining `not-started`: **7 — scans 43–49**;
 - historical-glyph retrospective audit over scans 1–27: **COMPLETE**;
-- glyph-aware first-pass transcription: **active; complete through scan 37**;
+- glyph-aware first-pass transcription: **active; complete through scan 42**;
 - verification freeze: **ACTIVE — do not mark pages verified**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil `sections/`: **blocked / not started**;
@@ -28,7 +28,8 @@ The attached scan is the controlling source.
 Full source identity: [`metadata/source.md`](metadata/source.md).  
 Page manifest: [`indexes/page-map.md`](indexes/page-map.md).  
 Audit state: [`audit.md`](audit.md).  
-Historical-glyph audit: [`HISTORICAL_GLYPH_AUDIT.md`](HISTORICAL_GLYPH_AUDIT.md).
+Historical-glyph audit: [`HISTORICAL_GLYPH_AUDIT.md`](HISTORICAL_GLYPH_AUDIT.md).  
+Reusable historical Tamil glyph procedure: [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md).
 
 ## Verification freeze
 
@@ -38,9 +39,9 @@ The full known Periyar-reform reference set governing this source is:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Do not copy an old glyph according to what modern glyph it superficially resembles. Determine historical character identity from the source pixels and encode that identity in modern Unicode. Do not global-replace or modernize source spelling, wording, grammar, punctuation, or vocabulary.
+Do not copy an old glyph according to what modern glyph it superficially resembles. Determine historical character identity from source pixels and encode that identity in modern Unicode. Do not global-replace or modernize source spelling, wording, grammar, punctuation, or vocabulary.
 
-Scans 1–27 completed the retrospective pass. New pages beginning at scan 28 use the same glyph-aware method during first transcription and remain `needs-review`.
+Scans 1–27 completed the retrospective pass. Scans 28 onward use the same glyph-aware method during first transcription and remain `needs-review`.
 
 ## Confirmed legacy-glyph corrections
 
@@ -57,48 +58,38 @@ Scans 1–27 completed the retrospective pass. New pages beginning at scan 28 us
 
 These are glyph-identification corrections, not modernization of source wording.
 
-## Independent source-text corrections found during re-audit
-
-- scan 4: `சமூகத்தின்` → `சமுதாயத்தின்`;
-- scan 5: `அற்பிய` → `அரும்பிய`;
-- scan 5: `சமூகமும்` → `சமுதாயம்`;
-- scan 7 / printed 6: `உள்ளங்களை` → `உள்ளங்களே`;
-- scan 12 / printed 11: `தாவும்போது பயப்பட்ட பூனை` → `தாவும்போது பயப்படாத பூனை`;
-- scan 12 / printed 11: `பயப்பட்டது போல -` → `பயப்பட்டதுபோல -`;
-- scan 19 / printed 18: `செக்கச் செவேலென்றோன்றின.` → `செக்கச் செவேலென்றேதோன்றின.`.
-
 ## Existing transcription coverage
 
 ### Scans 1–7 — front matter
 
 Canonical records exist for the cover, copy-specific annotation page, publication details, `திரை விலக`, first `பதிப்புரை`, and eighth-edition `பதிப்புரை`. All remain `needs-review`.
 
-### Scans 8–37 — narrative
+### Scans 8–42 — narrative
 
-Canonical narrative records now exist continuously through [`pages/0037-periya-idathup-pen-30.md`](pages/0037-periya-idathup-pen-30.md). All remain `needs-review`.
+Canonical narrative records now exist continuously through [`pages/0042-periya-idathup-pen-35.md`](pages/0042-periya-idathup-pen-35.md). All remain `needs-review`.
 
 Directly confirmed internal textual headings:
 
 - scan 15 / printed 14 — `உத்தண்டி`;
 - scan 19 / printed 18 — `கண்ணம்மா`;
-- scan 32 / printed 31 — `குமுதா`.
+- scan 32 / printed 31 — `குமுதா`;
+- scan 38 / printed 37 — `வீரன்`.
 
 They remain internal structure within the same continuous work; identifying a heading does not verify the page.
 
-## Latest glyph-aware batch — scans 33–37
+## Latest glyph-aware batch — scans 38–42
 
-Five new canonical records were created directly from enlarged source inspection with the full 13-form reference applied before entry.
+Five new canonical records were created directly from enlarged source inspection with the complete historical-glyph method applied before entry.
 
 Important source findings:
 
-- scan 33 uses historical `றா` identity in `என்றால்`; printed line-wrap `கொள்வ` + `துண்டு` is joined as `கொள்வதுண்டு`; source-specific `எந்த தூர் எண்ணங்களும்`, `என் மேல்`, and `கண்ணடி` are retained;
-- scan 33 final `சதா` continues on scan 34 with `என் இருதயப் பீடத்திலே...`;
-- scan 35 directly uses historical `ணை` in `ஆணை` and historical `றா` in `நின்றார்` / `தோற்றாய்`;
-- scan 35 final `அத` + scan 36 opening `னுடைய` → `அதனுடைய`;
-- scan 36 final `தூக்கிச்` + scan 37 opening `சென்றதாக` → `தூக்கிச் சென்றதாக`;
-- scan 37 visibly closes குமுதாவின் first-person statement with `இப்படிக்கு / இறக்கப் போகும் / குமுதா`.
+- scan 38 directly confirms internal heading `வீரன்`; historical `ளை` in `வளைவுகள்`, `ணை` in `பண்ணைத்`, and `ணா` in `கல்யாணம்` were checked by identity;
+- scan 39 explicitly checks `இன்னொருநாள்` (`னொ`) and `மற்றொருநாள்` (`றொ`); final `ஈரமில்லாத` continues on scan 40;
+- scan 40 opening `தொண்டைக்` establishes `ஈரமில்லாத தொண்டைக்...`; final `தேவையான` continues on scan 41;
+- scan 41 opening `பொருளாகிவிட்டேன்.` establishes `தேவையான பொருளாகிவிட்டேன்.`; `புரியவில்லையே` was checked as a complete old/faint `லை` family cluster; final `கல்யா` is preserved as a physical split;
+- scan 42 opening `ணத்தை` establishes `கல்யாணத்தை`; the page ends with a complete sentence.
 
-Printed within-page line-wrap fragments are joined lexically in the canonical records; physical page-boundary splits remain explicit.
+No page was marked verified and no global historical-glyph replacement was used.
 
 ## Printed-page behaviour
 
@@ -111,7 +102,7 @@ No missing printed number is inferred from sequence.
 
 ## Source-supported work identity
 
-The scan identifies the work as **`பெரிய இடத்துப் பெண்`** by **மு. கருணாநிதி**. Source review continues to support one continuous story/work. Character-name headings such as `உத்தண்டி`, `கண்ணம்மா`, `குமுதா`, `வீரன்`, and `உலகநாதர்` are treated as internal structure unless full source continuity proves otherwise.
+The scan identifies the work as **`பெரிய இடத்துப் பெண்`** by **மு. கருணாநிதி**. Source review continues to support one continuous story/work. Character-name headings are treated as internal structure unless source evidence proves otherwise.
 
 ## Source condition
 
@@ -119,4 +110,4 @@ The copy shows age staining, specks, occasional edge/binding wear, faint bleed-t
 
 ## Next activity
 
-Transcribe **scans 38–42 / printed pages 37–41** as the next source-first batch. Confirm scan 38's expected internal heading `வீரன்` directly from the source, apply all 13 historical-form checks during first transcription, keep every new page `needs-review`, preserve exact source spelling/punctuation/page boundaries, update the status documents, and stop after scan 42. Do not advance beyond scan 42, assembled Tamil, or English translation in that activity.
+Transcribe **scans 43–47 / printed pages 42–46** as the next source-first batch. Directly confirm expected internal headings `உலகநாதர்` on scan 45 and `கண்ணம்மா` on scan 46, apply all historical-form checks during first transcription, keep every new page `needs-review`, preserve source spelling/punctuation/page boundaries, update status documents, and stop after scan 47. Do not begin assembled Tamil or English translation.
