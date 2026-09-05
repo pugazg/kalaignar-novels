@@ -28,6 +28,7 @@ English records:
 - [`translations/en/BATCH_03_REVIEW.md`](translations/en/BATCH_03_REVIEW.md)
 - [`translations/en/BATCH_04_REVIEW.md`](translations/en/BATCH_04_REVIEW.md)
 - [`translations/en/BATCH_05_REVIEW.md`](translations/en/BATCH_05_REVIEW.md)
+- [`translations/en/BATCH_06_REVIEW.md`](translations/en/BATCH_06_REVIEW.md)
 
 ## Current gate
 
@@ -43,11 +44,11 @@ English records:
 | Tamil source-comparison audit | **COMPLETE** |
 | Assembled Tamil reading layer | **PASSED — 7 files / narrative scans 8–49** |
 | English translation plan | **COMPLETE** |
-| English drafted | **5 / 7 sections** |
-| English source-checked | **5 / 7 sections** |
-| English reviewed | **5 / 7 sections** |
+| English drafted | **6 / 7 sections** |
+| English source-checked | **6 / 7 sections** |
+| English reviewed | **6 / 7 sections** |
 | English verified | **0 / 7 sections** |
-| Translation batches reviewed | **6 / 8** |
+| Translation batches reviewed | **7 / 8** |
 
 ## Historical-glyph rule
 
@@ -172,6 +173,24 @@ Checks completed:
 
 **Batch 05 English: REVIEWED / PASS; not final verified.**
 
+## English Batch 06 audit — Ulaganathar
+
+English file: [`translations/en/sections/06-ulaganathar.md`](translations/en/sections/06-ulaganathar.md)  
+Source: scan **45 / printed page 44**, complete `உலகநாதர்` account.
+
+Checks completed:
+
+- both source paragraphs and the source heading are represented;
+- Ulaganathar's accusation against Veeran/Kannamma, family-honour complaint, appearance comparison and final invective are preserved;
+- strict narrator isolation maintained: `குமுதாவைக் காதலித்தது` is translated as Ulaganathar's own self-description, not as an objective correction of Kumudha's testimony;
+- `என் உப்பைத்தின்றவன்` is retained as “the man who ate my salt”;
+- unusual punctuation `எல்லாம் அந்தத் தடவை செய்த வேலை. கண்ணம்மா.` is not silently repaired;
+- `பசப்பு வார்த்தை`, `கள்ளி`, `பத்திர காளி`, and the final curse-like question are translated cautiously and documented in the dedicated Batch 6 review;
+- no scan-46 Kannamma text was pulled forward;
+- no new Tamil correction required.
+
+**Batch 06 English: REVIEWED / PASS; not final verified.**
+
 ## Exact next activity
 
-Translate **English Batch 6 — `உலகநாதர்`**, the complete source-printed first-person account on scan 45 / printed page 44. Preserve Ulaganathar's accusations and limited knowledge as his viewpoint; do not correct them from the later Kannamma conclusion. Source-check scan 45 against the canonical record, then review Batch 6 before Batch 7. Keep all canonical Tamil pages `needs-review` under the active verification freeze.
+Translate **English Batch 7 — final `கண்ணம்மா` conclusion**, scans 46–49. Preserve the already-audited historical-glyph corrections on scans 46–47, all established page-boundary joins, the final narrative ending, and the separate printer colophon. After Batch 7 review, perform whole-work bilingual review before any English `verified` decision. Keep all canonical Tamil pages `needs-review` under the active verification freeze.
