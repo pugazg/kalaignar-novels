@@ -44,7 +44,7 @@ Determine character identity from source pixels and encode that identity in mode
 - scan 24 / printed 23: `விழுவேன் என்றுனா?` → **`விழுவேன் என்றானா?`** (`றா`);
 - scan 25 / printed 24: `வேலை மட்டுந்தானு?` → **`வேலை மட்டுந்தானா?`** (`னா`).
 
-The scan-25 finding confirms the issue is not limited to old `றா`; the historical `னா` shape also caused an apparent-modern-shape misreading.
+The scan-25 finding confirms the issue is not limited to old `றா`; historical `னா` can also produce an apparent-modern-shape misreading.
 
 ## Independent source-text corrections found during retrospective audit
 
@@ -56,29 +56,33 @@ The scan-25 finding confirms the issue is not limited to old `றா`; the histo
 - scan 12 / printed 11: `பயப்பட்டது போல -` → `பயப்பட்டதுபோல -`;
 - scan 19 / printed 18: `செக்கச் செவேலென்றோன்றின.` → **`செக்கச் செவேலென்றேதோன்றின.`**.
 
-## Retrospective historical-glyph audit — completed checkpoint
+## Historical-glyph audit checkpoint
 
-Scans **1–27** have now all been re-audited at enlarged/high resolution against the full 13-form reference. **Retrospective progress: 27 / 27 existing canonical scans — COMPLETE.** Every page remains `needs-review`.
+Scans **1–27** have completed the retrospective page-by-page historical-glyph audit. The new batch **28–32 / printed 27–31** was transcribed with the complete 13-form rule applied during first pass rather than retrospectively.
 
-Final four-page batch, scans **24–27 / printed 23–26**:
+Important latest findings:
 
-- scan 24: earlier `நன்றாக` and `விழுவேன் என்றானா?` historical-`றா` corrections directly re-confirmed; no new correction;
-- scan 25: historical `னா` corrected `மட்டுந்தானு?` → `மட்டுந்தானா?`;
-- scans 26–27: full 13-form sweep; no canonical text correction;
-- scan 27 still ends inside a parenthetical sentence and must be continued only from scan 28.
+- scan 27 `அவனுக்கு ஒரு` + scan 28 `மகள்.` → `அவனுக்கு ஒரு மகள்.`;
+- scan 28 closes the parenthetical recollection at `பணக்காரத் தத்துவம்!)`;
+- scan 28 `“கண்ணம்மா! என்` + scan 29 `கண்ணல்ல.....`;
+- scan 29 `சில நாட்களுக்கு` + scan 30 `இருக்க வேண்டுமென்றும் சொன்னார்.`;
+- scan 30 `உலகநாதர் குமுதாவிடம் கொண்டிருக்கும்` + scan 31 `ஆசை வரையில் கூறிவிட்டேன்.`;
+- scan 32 directly confirms internal heading **`குமுதா`**;
+- scan 32 demonstrates first-pass historical decoding: `கொலை` uses old `லை`, and `தோன்றாமல்தான்` requires old `றா`, not apparent modern `று`.
 
-For occurrence-level details use `works/periya-idathup-pen/HISTORICAL_GLYPH_AUDIT.md` and the individual page records.
+All scans 1–32 remain `needs-review`.
 
 ## Current stage
 
 - source registration: complete;
 - page map: **49 / 49**;
-- canonical records: **27 / 49 — scans 1–27**;
+- canonical records: **32 / 49 — scans 1–32**;
 - `verified`: **0**;
-- `needs-review`: **27**;
+- `needs-review`: **32**;
 - `partial`: **0**;
-- `not-started`: **22 — scans 28–49**;
-- retrospective historical-glyph audit over existing canonical pages: **COMPLETE — 27 / 27**;
+- `not-started`: **17 — scans 33–49**;
+- retrospective historical-glyph audit on scans 1–27: **COMPLETE**;
+- glyph-aware first-pass transcription: **complete through scan 32**;
 - verification freeze: **ACTIVE**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil: **BLOCKED**;
@@ -87,31 +91,27 @@ For occurrence-level details use `works/periya-idathup-pen/HISTORICAL_GLYPH_AUDI
 
 Printed-page behavior remains: scans 1–6 unnumbered; scan 7 visibly printed **6**; scan 8 unnumbered; scans 9–49 visibly printed **8–48**.
 
-Structural observations retained provisionally:
+Structural observations:
 
-- scan 15 / printed 14 contains internal heading `உத்தண்டி`;
-- scan 19 / printed 18 contains internal heading `கண்ணம்மா`;
-- scan 27 begins an internal parenthetical recollection involving தலையாரி உத்தண்டி;
-- scan 32 is expected to contain internal heading `குமுதா`, to be confirmed directly from source.
-
-Boundary evidence through scan 27 remains physical-source evidence only and does not confer verification.
+- scan 15 / printed 14 — internal heading `உத்தண்டி`;
+- scan 19 / printed 18 — internal heading `கண்ணம்மா`;
+- scan 32 / printed 31 — internal heading `குமுதா`;
+- scan 38 is expected to contain `வீரன்`, but that must be confirmed directly when reached.
 
 ## Exact next activity
 
-**Resume canonical transcription at scans 28–32 / printed pages 27–31.**
+**Transcribe scans 33–37 / printed pages 32–36.**
 
 For each scan independently:
 
 1. inspect the complete page at enlarged/high resolution;
 2. apply the complete 13-form historical reference during first transcription and remain alert for other legacy ambiguity;
-3. resolve scan 27's open parenthetical continuation only from the visible opening of scan 28;
-4. preserve exact source spelling, punctuation, paragraphing and physical page boundaries;
-5. treat scan 32's `குமுதா` as an internal textual heading if visibly confirmed;
-6. create every new page as `needs-review`; do not mark anything `verified`;
-7. update page-map, audit, work/root READMEs and HANDOVER;
-8. stop after scan 32.
+3. preserve exact source spelling, punctuation, paragraphing and physical page boundaries;
+4. create every page as `needs-review`; do not mark anything `verified`;
+5. update page-map, historical-glyph audit, general audit, work/root READMEs and HANDOVER;
+6. stop after scan 37.
 
-Do not begin assembled Tamil or English translation.
+Do not begin scan 38, assembled Tamil, or English translation in that activity.
 
 ---
 
