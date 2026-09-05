@@ -4,7 +4,7 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 
 > **Work-level rule:** current source review supports one continuous work, `பெரிய இடத்துப் பெண்`. Character-name headings observed inside the narrative are internal textual headings unless later page-by-page evidence establishes otherwise.
 
-> **Verification freeze:** the historical-glyph audit is OPEN. All existing canonical records are `needs-review`; no page in this work is to be marked `verified` while that audit remains open. See [`../HISTORICAL_GLYPH_AUDIT.md`](../HISTORICAL_GLYPH_AUDIT.md).
+> **Verification freeze:** no page in this work is to be marked `verified` under the current user instruction. All canonical records remain `needs-review`. See [`../HISTORICAL_GLYPH_AUDIT.md`](../HISTORICAL_GLYPH_AUDIT.md).
 
 | Scan | Printed page | Page type / section | Status | File |
 |---:|:---:|---|---|---|
@@ -21,25 +21,25 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 | 11 | 10 | body — `பெரிய இடத்துப் பெண்` | needs-review | `pages/0011-periya-idathup-pen-04.md` |
 | 12 | 11 | body — `பெரிய இடத்துப் பெண்` | needs-review | `pages/0012-periya-idathup-pen-05.md` |
 | 13 | 12 | body — `பெரிய இடத்துப் பெண்` | needs-review | `pages/0013-periya-idathup-pen-06.md` |
-| 14 | 13 | body — `பெரிய இடத்துப் பெண்` | needs-review | `pages/0014-periya-idathup-pen-07.md` |
+| 14 | 13 | body — `பெரிய இடத்துப் பெண்`; legacy `லை / றா` corrections | needs-review | `pages/0014-periya-idathup-pen-07.md` |
 | 15 | 14 | body; internal heading `உத்தண்டி` | needs-review | `pages/0015-periya-idathup-pen-08.md` |
-| 16 | 15 | body — `பெரிய இடத்துப் பெண்` | needs-review | `pages/0016-periya-idathup-pen-09.md` |
+| 16 | 15 | body — `பெரிய இடத்துப் பெண்`; legacy `றா` correction | needs-review | `pages/0016-periya-idathup-pen-09.md` |
 | 17 | 16 | body — `பெரிய இடத்துப் பெண்` | needs-review | `pages/0017-periya-idathup-pen-10.md` |
 | 18 | 17 | body — `பெரிய இடத்துப் பெண்` | needs-review | `pages/0018-periya-idathup-pen-11.md` |
-| 19 | 18 | body; internal heading `கண்ணம்மா` | needs-review | `pages/0019-periya-idathup-pen-12.md` |
+| 19 | 18 | body; internal heading `கண்ணம்மா`; source-text correction | needs-review | `pages/0019-periya-idathup-pen-12.md` |
 | 20 | 19 | body — `பெரிய இடத்துப் பெண்`; legacy `றா` correction | needs-review | `pages/0020-periya-idathup-pen-13.md` |
 | 21 | 20 | body — `பெரிய இடத்துப் பெண்`; legacy `றா` correction | needs-review | `pages/0021-periya-idathup-pen-14.md` |
 | 22 | 21 | body — `பெரிய இடத்துப் பெண்` | needs-review | `pages/0022-periya-idathup-pen-15.md` |
 | 23 | 22 | body — `பெரிய இடத்துப் பெண்` | needs-review | `pages/0023-periya-idathup-pen-16.md` |
 | 24 | 23 | body — `பெரிய இடத்துப் பெண்`; legacy `றா` corrections | needs-review | `pages/0024-periya-idathup-pen-17.md` |
-| 25 | 24 | body — `பெரிய இடத்துப் பெண்` | needs-review | `pages/0025-periya-idathup-pen-18.md` |
+| 25 | 24 | body — `பெரிய இடத்துப் பெண்`; legacy `னா` correction | needs-review | `pages/0025-periya-idathup-pen-18.md` |
 | 26 | 25 | body — `பெரிய இடத்துப் பெண்` | needs-review | `pages/0026-periya-idathup-pen-19.md` |
 | 27 | 26 | body — `பெரிய இடத்துப் பெண்` | needs-review | `pages/0027-periya-idathup-pen-20.md` |
-| 28 | 27 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0028-periya-idathup-pen-21.md` |
-| 29 | 28 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0029-periya-idathup-pen-22.md` |
-| 30 | 29 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0030-periya-idathup-pen-23.md` |
-| 31 | 30 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0031-periya-idathup-pen-24.md` |
-| 32 | 31 | body; internal heading `குமுதா` | not-started | `pages/0032-periya-idathup-pen-25.md` |
+| 28 | 27 | body — `பெரிய இடத்துப் பெண்`; glyph-aware first pass | needs-review | `pages/0028-periya-idathup-pen-21.md` |
+| 29 | 28 | body — `பெரிய இடத்துப் பெண்`; glyph-aware first pass | needs-review | `pages/0029-periya-idathup-pen-22.md` |
+| 30 | 29 | body — `பெரிய இடத்துப் பெண்`; glyph-aware first pass | needs-review | `pages/0030-periya-idathup-pen-23.md` |
+| 31 | 30 | body — `பெரிய இடத்துப் பெண்`; glyph-aware first pass | needs-review | `pages/0031-periya-idathup-pen-24.md` |
+| 32 | 31 | body; internal heading `குமுதா`; glyph-aware first pass | needs-review | `pages/0032-periya-idathup-pen-25.md` |
 | 33 | 32 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0033-periya-idathup-pen-26.md` |
 | 34 | 33 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0034-periya-idathup-pen-27.md` |
 | 35 | 34 | body — `பெரிய இடத்துப் பெண்` | not-started | `pages/0035-periya-idathup-pen-28.md` |
@@ -62,48 +62,54 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 
 - Source scan pages: **49**
 - Page-manifest rows: **49 / 49**
-- Page records created: **27 / 49**
+- Page records created: **32 / 49**
 - `verified`: **0**
-- `needs-review`: **27**
+- `needs-review`: **32**
 - `partial`: **0**
-- `not-started`: **22**
+- `not-started`: **17**
 - Source PDF stored in repository: **No**
 
-## Historical-glyph correction checkpoint
+## Historical-glyph checkpoint
 
-The earlier page-level verification state was withdrawn after the user identified a historical pre-reform `றா` glyph that had been misread as modern `று`. Confirmed corrections so far:
+The retrospective glyph audit over scans 1–27 is complete. Confirmed historical-form corrections include:
 
+- scan 14 / printed 13: `ஆவிலைக்` → `ஆவலைக்`; `நின்றூர்` → `நின்றார்`;
+- scan 16 / printed 15: `போகிறயே` → `போகிறாயே`;
 - scan 20 / printed 19: `நன்றுகத்` → `நன்றாகத்`;
 - scan 21 / printed 20: `நன்றுகத்தான்` → `நன்றாகத்தான்`;
-- scan 24 / printed 23: `நன்றுக` → `நன்றாக`;
-- scan 24 / printed 23: `விழுவேன் என்றுனா?` → `விழுவேன் என்றானா?`.
+- scan 24 / printed 23: `நன்றுக` → `நன்றாக`; `விழுவேன் என்றுனா?` → `விழுவேன் என்றானா?`;
+- scan 25 / printed 24: `வேலை மட்டுந்தானு?` → `வேலை மட்டுந்தானா?`.
 
-These corrections do not close the audit. See [`../HISTORICAL_GLYPH_AUDIT.md`](../HISTORICAL_GLYPH_AUDIT.md).
+Scans 28 onward are transcribed with the full 13-form reference applied during first pass. Scan 32 directly demonstrates this method with `கொலை` (`லை`) and `தோன்றாமல்தான்` (`றா`) decoded by historical character identity.
 
 ## Boundary notes established so far
 
 - scan 8 is visibly unnumbered and remains `printed_page: null`;
 - scan 9 ends mid-sentence with `அவளை இவருக்குக் கட்டினர்கள்`; scan 10 continues `அதைப் பற்றி உலகம் பேசாமலில்லை.`;
-- scan 11 ends mid-word with `கிடப்ப`; scan 12 continues `தாகக்`, establishing `கிடப்பதாகக்`;
-- scan 14 ends `நினைக்`; scan 15 begins `காதே!`, establishing `நினைக்காதே!`;
-- scan 15 ends `தெரிந்`; scan 16 begins `தது.`, establishing `தெரிந்தது.`;
-- scan 16 ends `நம்`; scan 17 begins `வீட்டு`, establishing `நம் வீட்டு`;
-- scan 17 ends `கண்டது`; scan 18 begins `போலத்தானே!`, establishing `கண்டது போலத்தானே!`;
-- scan 18 ends `என்`; scan 19 begins `றேன்.`, preserving that physical split;
-- scan 19 ends `என்`; scan 20 begins `னிலே`, establishing `என்னிலே`;
-- scan 20 ends `நானும்`; scan 21 begins `நன்றாகத்தான்`;
-- scan 21 ends `காலக்ஷேபங்`; scan 22 begins `கூட`;
-- scan 22 ends `மட்`; scan 23 begins `டும்`, establishing `மட்டும்`;
-- scan 23 ends `வீரன் ஏழைதான்`; scan 24 continues `ஆனால்`;
-- scan 24 ends `‘ஒய்யா`; scan 25 begins `ரக்`, establishing `‘ஒய்யாரக்`;
-- scan 25 ends `கவலை`; scan 26 begins `யில்லை.`, establishing `கவலையில்லை.`;
-- scan 26 ends `நிலையி`; scan 27 begins `லேயே`, establishing `நிலையிலேயே`;
-- scan 27 ends inside a parenthetical sentence after `அவனுக்கு ஒரு`; continuation remains pending for scan 28.
+- scan 11 `கிடப்ப` + scan 12 `தாகக்` → `கிடப்பதாகக்`;
+- scan 14 `நினைக்` + scan 15 `காதே!` → `நினைக்காதே!`;
+- scan 15 `தெரிந்` + scan 16 `தது.` → `தெரிந்தது.`;
+- scan 16 `நம்` + scan 17 `வீட்டு` → `நம் வீட்டு`;
+- scan 17 `கண்டது` + scan 18 `போலத்தானே!`;
+- scan 18 `என்` + scan 19 `றேன்.`;
+- scan 19 `என்` + scan 20 `னிலே` → `என்னிலே`;
+- scan 20 `நானும்` + scan 21 `நன்றாகத்தான்`;
+- scan 21 `காலக்ஷேபங்` + scan 22 `கூட`;
+- scan 22 `மட்` + scan 23 `டும்` → `மட்டும்`;
+- scan 23 `வீரன் ஏழைதான்` + scan 24 `ஆனால்`;
+- scan 24 `‘ஒய்யா` + scan 25 `ரக்` → `‘ஒய்யாரக்`;
+- scan 25 `கவலை` + scan 26 `யில்லை.` → `கவலையில்லை.`;
+- scan 26 `நிலையி` + scan 27 `லேயே` → `நிலையிலேயே`;
+- scan 27 `அவனுக்கு ஒரு` + scan 28 `மகள்.` → `அவனுக்கு ஒரு மகள்.`; the parenthetical recollection closes later on scan 28 at `பணக்காரத் தத்துவம்!)`;
+- scan 28 `“கண்ணம்மா! என்` + scan 29 `கண்ணல்ல.....`;
+- scan 29 `சில நாட்களுக்கு` + scan 30 `இருக்க வேண்டுமென்றும் சொன்னார்.`;
+- scan 30 `உலகநாதர் குமுதாவிடம் கொண்டிருக்கும்` + scan 31 `ஆசை வரையில் கூறிவிட்டேன்.`;
+- scan 31 ends a complete question; scan 32 begins internal heading `குமுதா`.
 
 ## Structural caution
 
-The internal character-name headings remain part of the same continuous work. `உத்தண்டி` and `கண்ணம்மா` are visibly printed as internal headings, but their pages remain `needs-review` like every other existing record. Scan 27's parenthetical recollection is also internal narrative structure.
+The character-name headings are internal structure within the same continuous work. Directly confirmed so far: `உத்தண்டி` (scan 15), `கண்ணம்மா` (scan 19), and `குமுதா` (scan 32). Their presence does not confer page verification.
 
 ## Next activity
 
-Do **not** transcribe scans 28–32 yet. Perform the retrospective historical-glyph audit of scans **1–27** in source order, recording every correction and keeping every page `needs-review`. New-page transcription resumes only after that audit is complete.
+Transcribe **scans 33–37 / printed pages 32–36** as the next glyph-aware source-first batch. Apply all 13 historical-form checks during first transcription, keep every new page `needs-review`, preserve exact physical page boundaries, synchronize the status documents, and stop after scan 37. Scan 38's expected `வீரன்` heading belongs to the following batch and must be confirmed directly from source.
