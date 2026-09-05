@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
-transcription_method: "direct visual comparison with enlarged source scan; historical-glyph audit pending"
+transcription_method: "direct visual comparison with enlarged source scan; historical-glyph re-audit performed for this scan"
 ---
 
 ஆனால், எழில் மிக்கவன் எனக்கு வேண்டியது. அது தானே! உலகநாதரின் குரலில் ஒரே கரகரப்பு, வீரனின் தொனியில் வீணை கிளப்பும் ஒலி! உலகநாதரின் கண்களுக்கு ஆந்தை அருமையான உதாரணம்; வீரனின் கண்களோ என் விலாவைக் குத்தி வேதனைக் கிளப்பிய வேல்கள்! உலகநாதரின் பல்வரிசை பார்க்கப் பயங்கரம்; வீரனின் பற்களோ முத்துக் கோவை!
@@ -18,12 +18,34 @@ transcription_method: "direct visual comparison with enlarged source scan; histo
 
 வீரன் என் வலையில் சாதாரணமாக விழுவேன் என்றானா? அப்பப்பா! எவ்வளவு கஷ்டம்? எஜமானி அம்மாள் அழைக்கிறதே என்று முதலில் பார்த்தான். பெரிய இடத்து விஷயமாயிற்றே என்று கலங்கினான். ‘ஒய்யா
 
+## Historical-glyph re-audit — scan 24
+
+The complete printed page was re-read at enlarged/high resolution against the full user-supplied 13-form Periyar reform reference:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+
+Positive historical-form occurrences checked include:
+
+- `வீணை` — historical `ணை`;
+- `அறியவே இல்லை`, `தலையை`, `வலையில்` — historical `லை`;
+- `பாதங்களைக்` — historical `ளை`;
+- `வேதனைக்`, `என்னை`, `மனைவிபோல` — historical `னை`;
+- `சென்றான்`, `நன்றாக`, `என்றானா?` — historical `றா`;
+- `ஆனால்`, the final syllable of `என்றானா?`, and `கலங்கினான்` — historical `னா`.
+
+The two corrections established earlier were directly re-confirmed from the source pixels:
+
+- `நன்றுக` → **`நன்றாக`** — historical `றா`, not modern `று`;
+- `விழுவேன் என்றுனா?` → **`விழுவேன் என்றானா?`** — the old `றா` in `என்றா` had previously been misread as `று`; the final `னா` is also a historical-form occurrence and is encoded correctly.
+
+No additional canonical text correction was required on this scan. The final `‘ஒய்யா` remains a physical page-boundary continuation into scan 25.
+
+This page remains `needs-review` and is not marked verified.
+
 ## Scan observations
 
 - visible printed page number: **23**.
 - opening `ஆனால்` continues scan 23's final `வீரன் ஏழைதான்`.
-- earlier `நன்றுக` and `விழுவேன் என்றுனா?` were transcription errors caused by reading the historical pre-reform `றா` glyph as modern `று`; the corrected Unicode readings are `நன்றாக` and `விழுவேன் என்றானா?`.
 - final `‘ஒய்யா` continues onto scan 25.
-- page remains `needs-review`; no page in this work may be marked `verified` while the systematic historical-glyph audit is open.
 
 <!-- மூல ஸ்கேன் பக்கம்: 24; அச்சுப் பக்கம்: 23 -->
