@@ -16,7 +16,7 @@ transcription_method: "direct visual comparison with enlarged source scan; full 
 
 அத்தான்! என்னை மன்னித்து விடுங்கள். குமுதா அழுக்குப்பட்டவள்; களங்க மடைந்தாள். அவளை மறந்து விடுங்கள்!
 
-மனித சமூகமே! நீ இனிமேலாவது உலகநாதர்களை உற்பத்தி செய்யாமல் இருக்கமாட்டாயா! கண்ணம்மாக் களைக் காசினிக்கு அனுப்பாமல் இருக்கமாட்டாயா? அந்த வேண்டுகோளின்மீது என் உயிரை உனக்கு அர்ப்பணிக்கிறேன். என் உடலை மண்ணுக்குகிறேன்.
+மனித சமூகமே! நீ இனிமேலாவது உலகநாதர்களை உற்பத்தி செய்யாமல் இருக்கமாட்டாயா! கண்ணம்மாக்களைக் காசினிக்கு அனுப்பாமல் இருக்கமாட்டாயா? அந்த வேண்டுகோளின்மீது என் உயிரை உனக்கு அர்ப்பணிக்கிறேன். என் உடலை மண்ணுக்குகிறேன்.
 
 அத்தான்! அத்தான்!!
 
@@ -36,7 +36,8 @@ transcription_method: "direct visual comparison with enlarged source scan; full 
 
 - visible printed page number: **36**;
 - opening `சென்றதாக` completes scan 36's final `தூக்கிச்`, establishing `தூக்கிச் சென்றதாக` across the physical page boundary;
-- source-specific `நளாயினி`, `காணிக்கை யாக்குவாள்`, `களங்க மடைந்தாள்`, `கண்ணம்மாக் களைக்`, and `மண்ணுக்குகிறேன்` are retained without modernization;
+- printed line-wrap `கண்ணம்மாக்` + `களைக்` is joined as `கண்ணம்மாக்களைக்`;
+- source-specific `நளாயினி`, `காணிக்கை யாக்குவாள்`, `களங்க மடைந்தாள்`, and `மண்ணுக்குகிறேன்` are retained without modernization;
 - this page visibly closes குமுதாவின் first-person statement with the sign-off `இப்படிக்கு / இறக்கப் போகும் / குமுதா`;
 - page remains `needs-review`; it is not verified.
 
