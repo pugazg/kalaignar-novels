@@ -7,18 +7,25 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
-transcription_method: "direct visual comparison with enlarged source scan"
+transcription_method: "direct visual comparison with enlarged source scan; historical-glyph re-audit performed for this scan"
 ---
 
 போலத்தானே! அதுவும் என்போன்ற தலையாரிகளுக்குக் கேட்கவா வேண்டும்! கோபாலகிருஷ்ண பிள்ளை மகள் பள்ளிக்கூடத்திலே 10 கிளாஸ் படிச்சுப்பிட்டு வாத்தியாரம்மா வேலை பார்த்து மாதம் 20 ரூபாய் சம்பாதிக்கிறாள். ஒன்றுமில்லாமல் என் குமுதாவுக்கு 20 ரூபாய் சம்பளம் என்றதும் எனக்குச் சபலம் தட்டிற்று; சிறிது ஆசையும் ஏற்பட்டது. அவளுக்கு மாதா மாதம் வரும் இருபது ரூபாயை அப்படியே மீத்துப் புருஷன் வீட்டுக்குப் போகும்போது சீதனமாகக் கொடுத்தனுப்பலாமென்று திட்டங்கள் போட்டு விட்டேன். உலகநாதரின் உத்தரவுக்குக் கீழ்ப்படிந்தேன்.
 
 இந்த அபிப்பிராயத்தை என் குமுதாவிடம் கூறினேன். குமுதா குழந்தை மனம் படைத்தவள் அல்லவா? என்னைப் பிரிந்து வேறு ஒரு வீட்டில் வேலை செய்யத் தயங்கினள். “இந்த ஊர்தானே அம்மா! ஏன் பயப்படுகிறாய்? நான் உன்னை அடிக்கடி எஜமான் வீட்டிலே வந்து பார்க்கிறேன். பயப்படாதே” என்று சப்பைக்கட்டுகள் கட்டினேன். அவளும் உலகநாதர் வீட்டுக்கு வேலைக்காரியாகப் போகச் சம்மதித்தாள். அதன்படி அங்குச் சென்று வேலையிலும் அமர்ந்தாள். பிறகுதான் நான் செய்தவற்றை உணர்ந்தேன். குமுதாவைக் குழியில் போட்டுப் புதைத்த குருட்டுப் புத்திக்காரனேன். இன்னும் சொல்லட்டுமா? குமுதா ஒரு நாள் உலகநாதர் வீட்டுக் கொல்லைப்புறத்தில் உட்கார்ந்திருந்தாள். நான் திடீரென்று அங்குப் பிரவேசித்தேன். குமுதா கண்களைத் துடைத்துக்கொண்டு அவசரமாக எழுந்து, “அப்பா!” என்று கூவிக்கொண்டு என்னிடம் ஓடிவந்தாள். “ஏன் குமுதா, அழுகிறாய்?” என்
 
+## Historical-glyph re-audit — scan 18
+
+The entire page was checked at enlarged/high resolution against the complete 13-form reference. Historical clusters including `ளை` in `பிள்ளை` / `கண்களைத்`, `லை` in `வேலை` / `வேலைக்காரியாக`, and `னை` in `உன்னை` were checked directly and were already encoded with the intended modern Unicode identities.
+
+No historical-glyph correction or independent source-text correction was required. Source-specific forms `படிச்சுப்பிட்டு`, `மீத்துப்`, `தயங்கினள்`, `சப்பைக்கட்டுகள்`, and `குருட்டுப் புத்திக்காரனேன்` were retained.
+
+This page remains `needs-review`; it is not verified.
+
 ## Scan observations
 
 - visible printed page number: **17**.
 - opening `போலத்தானே!` continues scan 17's final `கண்டது`, establishing `கண்டது போலத்தானே!` across the physical boundary.
-- source-specific forms including `படிச்சுப்பிட்டு`, `மீத்துப்`, `தயங்கினள்`, `சப்பைக்கட்டுகள்`, and `குருட்டுப் புத்திக்காரனேன்` were retained.
 - final `என்` continues on scan 19 and is not completed from context here.
 
 <!-- மூல ஸ்கேன் பக்கம்: 18; அச்சுப் பக்கம்: 17 -->
