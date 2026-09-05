@@ -31,7 +31,7 @@ The full known user-supplied Periyar-reform reference set is:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Determine character identity from source pixels and encode that identity in modern Unicode. Do not global-replace or modernize wording, spelling, grammar, punctuation, or vocabulary. Every canonical page remains `needs-review` while the retrospective audit is open.
+Determine character identity from source pixels and encode that identity in modern Unicode. Do not global-replace or modernize wording, spelling, grammar, punctuation, or vocabulary. Every canonical page remains `needs-review` under the current user instruction. New pages must use the glyph-aware method from first transcription.
 
 ## Confirmed historical-glyph corrections
 
@@ -41,9 +41,10 @@ Determine character identity from source pixels and encode that identity in mode
 - scan 20 / printed 19: `நன்றுகத்` → **`நன்றாகத்`** (`றா`);
 - scan 21 / printed 20: `நன்றுகத்தான்` → **`நன்றாகத்தான்`** (`றா`);
 - scan 24 / printed 23: `நன்றுக` → **`நன்றாக`** (`றா`);
-- scan 24 / printed 23: `விழுவேன் என்றுனா?` → **`விழுவேன் என்றானா?`** (`றா`).
+- scan 24 / printed 23: `விழுவேன் என்றுனா?` → **`விழுவேன் என்றானா?`** (`றா`);
+- scan 25 / printed 24: `வேலை மட்டுந்தானு?` → **`வேலை மட்டுந்தானா?`** (`னா`).
 
-The scan-24 corrections were established earlier but scan 24 still awaits its formal retrospective page-audit pass.
+The scan-25 finding confirms the issue is not limited to old `றா`; the historical `னா` shape also caused an apparent-modern-shape misreading.
 
 ## Independent source-text corrections found during retrospective audit
 
@@ -55,23 +56,18 @@ The scan-24 corrections were established earlier but scan 24 still awaits its fo
 - scan 12 / printed 11: `பயப்பட்டது போல -` → `பயப்பட்டதுபோல -`;
 - scan 19 / printed 18: `செக்கச் செவேலென்றோன்றின.` → **`செக்கச் செவேலென்றேதோன்றின.`**.
 
-## Retrospective historical-glyph audit progress
+## Retrospective historical-glyph audit — completed checkpoint
 
-Scans **1–23** have now been re-audited page by page at enlarged/high resolution. Every audited page remains `needs-review`.
+Scans **1–27** have now all been re-audited at enlarged/high resolution against the full 13-form reference. **Retrospective progress: 27 / 27 existing canonical scans — COMPLETE.** Every page remains `needs-review`.
 
-Latest ten-page batch, scans **14–23 / printed 13–22**:
+Final four-page batch, scans **24–27 / printed 23–26**:
 
-- scan 14: two historical-form corrections — `ஆவலைக்`, `நின்றார்`;
-- scan 15: no text correction; `உத்தண்டி` remains an internal heading;
-- scan 16: historical `றா` correction — `போகிறாயே`;
-- scans 17–18: no canonical text correction;
-- scan 19: direct source-text correction — `செக்கச் செவேலென்றேதோன்றின.`; `கண்ணம்மா` remains an internal heading;
-- scans 20–21: earlier `நன்றாகத்` / `நன்றாகத்தான்` historical-`றா` corrections re-confirmed; no new correction;
-- scans 22–23: no canonical text correction.
+- scan 24: earlier `நன்றாக` and `விழுவேன் என்றானா?` historical-`றா` corrections directly re-confirmed; no new correction;
+- scan 25: historical `னா` corrected `மட்டுந்தானு?` → `மட்டுந்தானா?`;
+- scans 26–27: full 13-form sweep; no canonical text correction;
+- scan 27 still ends inside a parenthetical sentence and must be continued only from scan 28.
 
 For occurrence-level details use `works/periya-idathup-pen/HISTORICAL_GLYPH_AUDIT.md` and the individual page records.
-
-**Progress: 23 / 27 existing canonical scans re-audited; scans 24–27 pending.**
 
 ## Current stage
 
@@ -82,7 +78,8 @@ For occurrence-level details use `works/periya-idathup-pen/HISTORICAL_GLYPH_AUDI
 - `needs-review`: **27**;
 - `partial`: **0**;
 - `not-started`: **22 — scans 28–49**;
-- historical-glyph audit: **OPEN — 23 / 27**;
+- retrospective historical-glyph audit over existing canonical pages: **COMPLETE — 27 / 27**;
+- verification freeze: **ACTIVE**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil: **BLOCKED**;
 - English translation: **BLOCKED**;
@@ -94,25 +91,27 @@ Structural observations retained provisionally:
 
 - scan 15 / printed 14 contains internal heading `உத்தண்டி`;
 - scan 19 / printed 18 contains internal heading `கண்ணம்மா`;
-- scan 27 begins an internal parenthetical recollection involving தலையாரி உத்தண்டி.
+- scan 27 begins an internal parenthetical recollection involving தலையாரி உத்தண்டி;
+- scan 32 is expected to contain internal heading `குமுதா`, to be confirmed directly from source.
 
-Boundary evidence through scan 23 remains physical-source evidence only and does not confer verification.
+Boundary evidence through scan 27 remains physical-source evidence only and does not confer verification.
 
 ## Exact next activity
 
-**Audit scans 24–27 / printed pages 23–26 as the remaining four-page retrospective batch.**
+**Resume canonical transcription at scans 28–32 / printed pages 27–31.**
 
 For each scan independently:
 
 1. inspect the complete page at enlarged/high resolution;
-2. check every printed glyph cluster against the complete 13-form historical reference and remain alert for other legacy ambiguity;
-3. re-confirm the already known scan-24 `றா` corrections from the source;
-4. make only pixel-supported glyph-identity or independent source-text corrections;
-5. record findings in the page record and audit trackers;
-6. keep every page `needs-review`;
-7. stop after scan 27.
+2. apply the complete 13-form historical reference during first transcription and remain alert for other legacy ambiguity;
+3. resolve scan 27's open parenthetical continuation only from the visible opening of scan 28;
+4. preserve exact source spelling, punctuation, paragraphing and physical page boundaries;
+5. treat scan 32's `குமுதா` as an internal textual heading if visibly confirmed;
+6. create every new page as `needs-review`; do not mark anything `verified`;
+7. update page-map, audit, work/root READMEs and HANDOVER;
+8. stop after scan 32.
 
-Do not continue to scans 28–49, assembled Tamil, or English translation in that activity.
+Do not begin assembled Tamil or English translation.
 
 ---
 
