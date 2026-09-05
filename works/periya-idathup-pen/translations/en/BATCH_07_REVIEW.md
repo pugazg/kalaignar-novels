@@ -7,7 +7,7 @@ Tamil assembled source: `../../sections/07-kannamma-conclusion.md`
 Canonical authority: `../../pages/0046-periya-idathup-pen-39.md` through `../../pages/0049-periya-idathup-pen-42.md`  
 Source coverage: **scans 46–49 / printed pages 45–48 — complete final `கண்ணம்மா` account plus separate printer colophon**.
 
-Review state: **REVIEWED**. This is a section/batch review; whole-work status is determined separately in `TRANSLATION_REVIEW.md`.
+Review state: **REVIEWED / PASS**. This file records the Batch-7 section review; whole-work English status is established separately by the completed `TRANSLATION_REVIEW.md`.
 
 ## Source-completeness check
 
@@ -86,8 +86,10 @@ Canonical state remains:
 
 **BATCH 07 / ENGLISH SECTION 07 — REVIEWED / PASS.**
 
-All planned English prose batches are drafted, source-checked and reviewed. Whole-work bilingual status is recorded separately in `TRANSLATION_REVIEW.md`.
+All planned English prose batches are drafted, source-checked and reviewed. The completed whole-work bilingual review in `TRANSLATION_REVIEW.md` **PASSED** and establishes English **VERIFIED**.
 
-## Next activity
+## Subsequent state
 
-The final bilingual review has now passed. Proceed to the qualified release-readiness stage and create `RELEASE_REPORT.md`, while keeping the canonical Tamil verification freeze unchanged.
+The former next activity — qualified release-readiness — has also been completed. `RELEASE_REPORT.md` **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**. The full repository documentation closeout is recorded in `../../COMPLETION_SYNC_AUDIT.md`.
+
+There is no remaining Batch-7 or English translation-stage activity. Canonical Tamil remains **0 verified / 49 `needs-review`** under the active freeze.
