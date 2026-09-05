@@ -6,14 +6,17 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count from direct file inspection: **179**;
 - initial page manifest: **179 / 179 represented below**;
-- canonical page records created so far: **3 / 179**;
+- canonical page records created so far: **8 / 179**;
 - direct front-matter transcription: scans **1–3 verified**;
-- body transcription: **not started**;
+- body transcription: scans **4–8 verified**;
 - printed-page values marked `pending` must be populated only by direct visual inspection; they are not inferred from sequence.
 
 Directly sampled numbering observations:
 - scan 4: Chapter 1 opening; no visible printed page number;
 - scan 5: printed page 4;
+- scan 6: printed page 5;
+- scan 7: printed page 6;
+- scan 8: printed page 7;
 - scan 68: printed page 67;
 - scan 176: printed page 175;
 - scan 179: printed page 178.
@@ -30,16 +33,22 @@ Confirmed early chapter openings from direct scan inspection:
 
 The full chapter map is still pending. Do not infer later chapter boundaries from spacing or page count.
 
+First narrative batch checkpoint:
+- scans **4–8** directly transcribed and visually verified;
+- printed mapping now confirmed as scan 4 unnumbered, scans 5–8 = printed pages 4–7;
+- scan 8 `களைத்துத்` resolved as historical `ளை` from enlarged/native pixels and same-edition comparison;
+- next batch: scans **9–12**, continuing Chapter 1 up to the Chapter 2 opening at scan 13.
+
 | Scan | Printed page | Page type | Status | Note |
 |---:|:---:|---|---|---|
 | 1 | — | cover | verified | Title/author/publisher cover |
 | 2 | — | copy-specific front matter | verified | Blank leaf with later donor label |
 | 3 | — | publication | verified | Second edition 1968 / price / printer |
-| 4 | — | body / chapter opening | not-started | Chapter 1; no visible printed page number in inspected scan |
-| 5 | pending | body | not-started |  |
-| 6 | pending | body | not-started |  |
-| 7 | pending | body | not-started |  |
-| 8 | pending | body | not-started |  |
+| 4 | — | body / chapter opening | verified | Chapter 1; source title + heading; no visible printed page number |
+| 5 | 4 | body | verified | Chapter 1 |
+| 6 | 5 | body | verified | Chapter 1; later underline excluded from printed text |
+| 7 | 6 | body | verified | Chapter 1 |
+| 8 | 7 | body | verified | Chapter 1; `களைத்துத்` historical `ளை` resolved at enlarged/native pixels |
 | 9 | pending | body | not-started |  |
 | 10 | pending | body | not-started |  |
 | 11 | pending | body | not-started |  |
