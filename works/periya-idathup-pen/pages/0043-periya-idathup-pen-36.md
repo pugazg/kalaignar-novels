@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
-transcription_method: "direct visual transcription from enlarged source scan with full historical-glyph decoding during first pass"
+transcription_method: "direct visual transcription from enlarged source scan with full historical-glyph decoding during first pass and dedicated full-source re-audit"
 ---
 
 “உன் ஆசைக் காதலி குமுதாவின் போக்கியதைப் பார்த்தாயா?” என்று கேட்டாள் கண்ணம்மா!
@@ -16,21 +16,26 @@ transcription_method: "direct visual transcription from enlarged source scan wit
 
 எந்தக் கண்கள் குமுதாவைக் கனிவோடு பார்த்தனவோ! அந்தக் கண்கள் இரத்த நிறமாக மாறிவிட்டன. எந்தக் கரங்கள் அவளது மேனியைத் தொட்டுத் துடித்தனவோ! அந்தக் கரங்களே அவளை ஒடித் தெரியத் துடித்தன.
 
-கண்ணம்மாவின் சமாதானத்தில் அடங்கினேன். கண்ணம்மாவுக்கு என் வாழ்க்கையைப்பற்றி இருக்கும் அக்கறை அந்தக் குமுதாவுக்கு இல்லையே! இல்லாவிட்டாலும் பரவாயில்லை. என்னை இளிச்சவாயனுக ஆக்கிவிட்டாளே! இனிக் குமுதாவைவிட ஒரு வேசி உலகத்திலே பிறப்பாளா? பிறக்க முடியுமா? எனக்கு உயிரை அர்ப்பணிப்பேன் என்றாளே! உலகநாதருக்கு உடல் விற்றதை நான் நேரில் கண்டேனே! அதற்கு இனிச் சாட்சியா வேண்டும்?
+கண்ணம்மாவின் சமாதானத்தில் அடங்கினேன். கண்ணம்மாவுக்கு என் வாழ்க்கையைப்பற்றி இருக்கும் அக்கறை அந்தக் குமுதாவுக்கு இல்லையே! இல்லாவிட்டாலும் பரவாயில்லை. என்னை இளிச்சவாயனாக ஆக்கிவிட்டாளே! இனிக் குமுதாவைவிட ஒரு வேசி உலகத்திலே பிறப்பாளா? பிறக்க முடியுமா? எனக்கு உயிரை அர்ப்பணிப்பேன் என்றாளே! உலகநாதருக்கு உடல் விற்றதை நான் நேரில் கண்டேனே! அதற்கு இனிச் சாட்சியா வேண்டும்?
 
 மறுநாள் காலையில் குமுதாவுக்குச் சரியான தண்டன் கிடைத்தது. அவள் செய்த குற்றத்தைக் கடவுள்
 
-## Historical-glyph first-pass notes
+## Historical-glyph dedicated re-audit — scan 43
 
-- complete page inspected against the reusable historical Tamil glyph guide and the full 13-form reference;
-- representative `ளை / னை / லை` families were checked in `அவளை`, `என்னை`, `இல்லையே`, and related clusters;
-- source-specific wording including `போக்கியதைப்`, `ஒடித் தெரியத்`, `இளிச்சவாயனுக`, and `தண்டன்` is retained without lexical modernization;
-- page remains `needs-review`; it is not verified.
+The complete page was re-read from enlarged source pixels against the full 13-form historical reference.
+
+One historical-character identity error was found and corrected:
+
+- `இளிச்சவாயனுக` → **`இளிச்சவாயனாக`** — historical `னா`.
+
+The printed final `னா` uses the same old-form family already established elsewhere in this edition, including scan 25 `மட்டுந்தானா?`. This is glyph decoding only; the source wording is otherwise preserved.
+
+Source-specific `போக்கியதைப்`, `ஒடித் தெரியத்`, and `தண்டன்` remain supported. No other correction was required on this page.
 
 ## Scan observations
 
 - visible printed page number: **42**;
 - final `கடவுள்` continues onto scan 44;
-- no global replacement or shape-based glyph substitution was used.
+- page remains `needs-review`; it is not marked verified.
 
 <!-- மூல ஸ்கேன் பக்கம்: 43; அச்சுப் பக்கம்: 42 -->

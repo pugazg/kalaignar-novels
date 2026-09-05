@@ -13,16 +13,14 @@ The attached scan is the controlling source.
 - source registration: **complete**;
 - source page manifest: **49 / 49 scans mapped**;
 - canonical Tamil page records: **49 / 49**;
+- dedicated full Tamil source/audit review: **COMPLETE — 49 / 49 directly reviewed**;
+- dedicated-pass new historical-glyph corrections: **4 — scans 33, 43, 46, 47**;
 - `verified`: **0**;
 - `needs-review`: **49 / 49**;
-- historical-glyph retrospective audit over scans 1–27: **COMPLETE**;
-- glyph-aware first-pass transcription over scans 28–49: **COMPLETE**;
-- dedicated full Tamil source/audit review: **IN PROGRESS — scans 1–40 / 49 reviewed; 9 remain**;
-- dedicated-pass new historical-glyph correction: **1 — scan 33 `கண்ணடி` → `கண்ணாடி` (`ணா`)**;
 - verification freeze: **ACTIVE — do not mark pages verified**;
-- Tamil source audit: **NOT PASSED — audit in progress**;
-- assembled Tamil: **blocked / not started**;
-- English translation: **blocked / not started**;
+- Tamil source-comparison audit: **COMPLETE**;
+- assembled Tamil: **ready as next phase / not started**;
+- English translation: **blocked pending assembled Tamil**;
 - source PDF committed: **No**.
 
 Key records:
@@ -44,7 +42,7 @@ Known Periyar-reform-sensitive reference set:
 
 Character identity must be determined from source pixels and encoded in modern Unicode without modernizing source wording, spelling, grammar, punctuation or vocabulary.
 
-## Confirmed legacy-glyph corrections
+## Confirmed historical-glyph corrections
 
 | Scan | Printed page | Earlier transcription | Correct Unicode reading | Identity |
 |---:|:---:|---|---|---|
@@ -57,8 +55,11 @@ Character identity must be determined from source pixels and encoded in modern U
 | 24 | 23 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` | `றா` |
 | 25 | 24 | `வேலை மட்டுந்தானு?` | `வேலை மட்டுந்தானா?` | `னா` |
 | 33 | 32 | `கண்ணடி` | `கண்ணாடி` | `ணா` |
+| 43 | 42 | `இளிச்சவாயனுக` | `இளிச்சவாயனாக` | `னா` |
+| 46 | 45 | `நானு ஆள்?` | `நானா ஆள்?` | `னா` |
+| 47 | 46 | `விட வேணு?` | `விட வேணா?` | `ணா` |
 
-The scan-33 correction was discovered in the later dedicated whole-work source audit. Same-page `வீணாக்கிக்` provides a direct comparison for the historical `ணா` identity.
+The last four were discovered during the dedicated whole-work source audit by direct enlarged-pixel and same-edition comparison. They are character-identity corrections, not spelling modernization.
 
 ## Complete transcription coverage
 
@@ -73,22 +74,23 @@ Canonical records exist for all 49 scans. Directly confirmed internal headings r
 
 ## Dedicated full Tamil source audit
 
-Completed direct enlarged-source batches:
+All five direct enlarged-source batches are complete:
 
-- **Batch 1 — scans 1–10:** no new correction;
-- **Batch 2 — scans 11–20:** no new correction; earlier scan-12, 14, 16, 19 and 20 findings reconfirmed;
-- **Batch 3 — scans 21–30:** no new correction; known historical readings on scans 21, 24 and 25 reconfirmed;
-- **Batch 4 — scans 31–40:** one new historical-glyph correction, scan 33 `கண்ணடி` → `கண்ணாடி` (`ணா`); all other canonical readings in the batch remain supported.
+- **Batch 1 — scans 1–10**;
+- **Batch 2 — scans 11–20**;
+- **Batch 3 — scans 21–30**;
+- **Batch 4 — scans 31–40** — scan 33 `கண்ணாடி` correction;
+- **Batch 5 — scans 41–49** — scan 43 `இளிச்சவாயனாக`, scan 46 `நானா ஆள்?`, scan 47 `விட வேணா?` corrections.
 
-Batch-4 structure and boundaries directly reconfirmed:
+Final-source joins directly reconfirmed:
 
-- scan 32 — internal heading `குமுதா`;
-- scan 33 `சதா` + scan 34 `என் இருதயப் பீடத்திலே...` → phrase continuity;
-- scan 35 `அத` + scan 36 `னுடைய` → `அதனுடைய`;
-- scan 36 `தூக்கிச்` + scan 37 `சென்றதாக` → `தூக்கிச் சென்றதாக`;
-- scan 37 closes குமுதாவின் signed statement; scan 38 begins internal heading `வீரன்`;
-- scan 39 `ஈரமில்லாத` + scan 40 `தொண்டைக்...` → phrase continuity;
-- scan 40 `தேவையான` + scan 41 `பொருளாகிவிட்டேன்.` → `தேவையான பொருளாகிவிட்டேன்.`; scan 41 was only the outbound anchor and is not yet fully reviewed.
+- scan 41 `கல்யா` + scan 42 `ணத்தை` → `கல்யாணத்தை`;
+- scan 43 `கடவுள்` + scan 44 `பொறுப்பாரா?` → `கடவுள் பொறுப்பாரா?`;
+- scan 46 `காரண` + scan 47 `மாயிருந்தேன்!` → `காரணமாயிருந்தேன்!`;
+- scan 47 `எழுதி` + scan 48 `யிருந்தாள்.` → `எழுதியிருந்தாள்.`;
+- scan 48 `ஒரு பெரிய` + scan 49 `ஜோதி நிரந்தரமாக...` → `ஒரு பெரிய ஜோதி நிரந்தரமாக...`.
+
+Narrative ends at `...எங்களிடம் வரவேண்டும், தெரியுமா?`; separate printer colophon: `ஸ்ரீமகள் அச்சகம், சென்னை-1`.
 
 Detailed record: [`FULL_TAMIL_SOURCE_AUDIT.md`](FULL_TAMIL_SOURCE_AUDIT.md).
 
@@ -101,4 +103,4 @@ Detailed record: [`FULL_TAMIL_SOURCE_AUDIT.md`](FULL_TAMIL_SOURCE_AUDIT.md).
 
 ## Next activity
 
-Complete the dedicated **full Tamil source/audit review with scans 41–49 / printed pages 40–48**. Recheck source-sensitive words and all historical-glyph families, confirm `உலகநாதர்` on scan 45 and `கண்ணம்மா` on scan 46 as internal headings, validate every remaining boundary through scan 49, recheck the known final-source joins and printer colophon, keep every page `needs-review`, and do not begin assembled Tamil or English translation.
+Build the **assembled Tamil reading layer** from the canonical 49-page layer. Preserve reversible scan provenance and join only positively established physical page-boundary fragments. Keep all canonical page records `needs-review` under the active verification freeze. Do not begin English translation until the assembled Tamil layer completes its own consistency audit.
