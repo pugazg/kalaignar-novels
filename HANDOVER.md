@@ -28,10 +28,11 @@ Printer: **சக்திவேல் பிரஸ், திருச்சி
 ### Current state
 
 - page manifest: **179 / 179 scans represented**;
-- canonical page records: **12 / 179**;
+- canonical page records: **17 / 179**;
 - scans 1–3 front matter: **verified**;
 - scans 4–12 / Chapter 1: **verified / complete**;
-- printed-page mapping through scan 12: scan 4 and scan 9 unnumbered; scans 5–8 = **4–7**; scans 10–12 = **9–11**; later mapping partial;
+- scans 13–17 / Chapter 2 opening batch: **verified**;
+- printed-page mapping through scan 17: scan 4 and scan 9 unnumbered; scans 5–8 = **4–7**; scans 10–17 = **9–16**; later mapping partial;
 - chapter mapping: **partial**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
@@ -85,19 +86,29 @@ For every body page inspect the complete glyph at enlarged/native resolution, ex
 - scan 12 closes Chapter 1; scan 13 is the directly inspected Chapter 2 opening;
 - no unresolved glyph/source item remains through scan 12.
 
+### Chapter 2 opening checkpoint — scans 13–17
+
+- scans 13–17 are canonical and verified;
+- scan 13 / printed 12 begins source-printed Chapter 2;
+- source-sensitive wording is preserved, including `எடுபிடி ஆள் அப்புகள்`, `இன்பபுரி வெண்புருக்கள்`, `வேலையில்ல`, and `நல்லதாப் போச்சு`;
+- scan 14 `அதிலே` → scan 15 `வரும் அர்ச்சுனன்...`;
+- scan 16 `எண்ணும்` → scan 17 `போது—`;
+- scan 17 ends `“சுசீலா! நீ?”`, with the reply beginning on scan 18;
+- no unresolved glyph/source item remains through scan 17.
+
 ### Exact next activity
 
-Process **scans 13–17**, beginning source-printed Chapter 2:
+Process **scans 18–22**, continuing Chapter 2 through the page immediately before scan 23 / Chapter 3:
 
 1. inspect each scan at enlarged/native resolution;
 2. transcribe printed Tamil only;
 3. populate each visible printed-page value individually;
 4. run historical-glyph pre-correction checks;
-5. preserve source page boundaries and any cross-page continuity;
+5. preserve source page boundaries and cross-page continuity;
 6. update canonical pages, page map, audit, README and this handover;
 7. commit the batch narrowly.
 
-Stop before scan 18 unless explicitly instructed farther.
+Stop before scan 23 unless explicitly instructed farther.
 
 ---
 

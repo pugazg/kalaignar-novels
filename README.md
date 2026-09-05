@@ -25,12 +25,14 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **12 / 179**;
+- canonical page records: **17 / 179**;
 - scans 1–3 front matter: **verified**;
-- scans 4–12 / Chapter 1: **verified / complete**;
-- next batch: **scans 13–17 / Chapter 2 opening**.
+- scans 4–12 / Chapter 1: **directly transcribed and verified; Chapter 1 complete**;
+- scans 13–17 / Chapter 2 opening: **directly transcribed and verified**;
+- historical-glyph/source-sensitive checks: **PASS through scan 17**, including scan 8 `களைத்துத்`, scan 9 `குழப்பட்டு`, scan 12 `அந்தப் பருக்கூட்டமே`, and source-specific Chapter 2 readings preserved without normalization;
+- next batch: **scans 18–22**, completing Chapter 2 before scan 23 / Chapter 3.
 
-The source is image-only and uses older Tamil print conventions. Every body page must use the historical-glyph pre-correction workflow in `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. The source PDF remains outside the repository.
+The source is image-only and uses older Tamil print conventions. Every body page must use the historical-glyph pre-correction workflow in `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Later underlining/ticks/handwriting must remain separate from printed text. The source PDF remains outside the repository.
 
 ## Completed works
 
@@ -44,36 +46,17 @@ The source is image-only and uses older Tamil print conventions. Every body page
 
 For older Tamil sources, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) before deciding difficult glyphs. Its governing rule is: **identify the historical character identity from source pixels first, then encode that identity in modern Unicode without modernizing the source wording.** The documented minimum Periyar-reform-sensitive set is `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-`வெள்ளிக்கிழமை` (1968) is the current active work. Scans 4–12 have passed direct source comparison and historical-glyph first-pass review. Source-specific forms such as scan 8 `களைத்துத்`, scan 9 `குழப்பட்டு`, and scan 12 `அந்தப் பருக்கூட்டமே` are preserved from the scanned edition rather than normalized. Several sampled scans also contain later underlining/ticks/handwriting; those marks must remain separate from printed text.
+`வெள்ளிக்கிழமை` (1968) is the current active work. Scans 4–17 have passed direct high-resolution transcription and historical-glyph checking. Chapter 1 is complete through scan 12; scans 13–17 begin Chapter 2. Scan 8's initially held cluster is source-supported as `களைத்துத் தூங்கிவிட்டால்`, with historical `ளை` identity. No contextual guess or global replacement was used.
 
-The completed whole-work audit of `பெரிய இடத்துப் பெண்` found four dedicated-pass historical-glyph corrections on scans 33, 43, 46 and 47 in addition to the earlier confirmed corrections. Its passed assembled Tamil reader, English `VERIFIED` status and qualified release verdict do not override its canonical verification freeze.
+The completed whole-work audit of `பெரிய இடத்துப் பெண்` remains a reference for historical-glyph handling; its canonical freeze remains unchanged.
 
 ## பெரிய இடத்துப் பெண் — completed archival / English state
 
-Working English title: **The Woman of the Great House**.
-
-All seven source-structured English section files are **REVIEWED / PASS** at section level. The final cross-section bilingual alignment in [`works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md`](works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md) **PASSED**, establishing the **whole-work English translation as VERIFIED**.
-
-The release-readiness pass in [`works/periya-idathup-pen/translations/en/RELEASE_REPORT.md`](works/periya-idathup-pen/translations/en/RELEASE_REPORT.md) also passed, with the mandatory qualification that canonical Tamil remains **0 verified / 49 `needs-review`** under the active user-mandated freeze.
-
-Therefore the accurate repository status is:
-
-**RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION.**
-
-Completion/status records include [`works/periya-idathup-pen/COMPLETION_SYNC_AUDIT.md`](works/periya-idathup-pen/COMPLETION_SYNC_AUDIT.md), the Tamil source/glyph/assembly audits, and the English translation/release records. No further mandatory processing remains for that title under the present freeze instruction.
+Working English title: **The Woman of the Great House**. All seven source-structured English sections are reviewed; the whole-work bilingual review PASSED and English is VERIFIED. Its package is **RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION** because canonical Tamil remains 0 verified / 49 `needs-review` under the user-mandated freeze. No further mandatory processing remains under that instruction.
 
 ## புதையல் — final release state
 
-Received derivatives cover scans **1–448**. The narrative ends on **scan 447 / printed 443**; scan **448** is the unnumbered printer colophon **`அன்பு அச்சகம், பொறையார்.`**
-
-Final source count after the user's **2026-09-03 Part-005 re-review**:
-
-- canonical: **448**;
-- verified / completed: **446**;
-- `needs-review`: **2 — only scans 223–224**, where substantial portions of the paper are physically absent;
-- assembled Tamil and English remain complete through scan 448;
-- whole-work English remains **VERIFIED**;
-- release status remains **RELEASE-READY WITH TWO PHYSICAL-LOSS QUALIFICATIONS**.
+Received derivatives cover scans **1–448**. The narrative ends on scan 447 / printed 443; scan 448 is the unnumbered printer colophon `அன்பு அச்சகம், பொறையார்.` Final canonical count is 448, with 446 verified-complete and scans 223–224 retained `needs-review` because of physical loss. Whole-work English remains VERIFIED and the package RELEASE-READY WITH QUALIFICATION.
 
 ## Release-status meaning
 

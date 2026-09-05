@@ -14,12 +14,12 @@
 | Source identity inspected | **complete for intake** |
 | Actual PDF page count / size / checksum | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **12 / 179** |
+| Canonical page records | **17 / 179** |
 | Front matter scans 1–3 | **verified** |
-| Body transcription | **scans 4–12 verified; Chapter 1 complete** |
-| Printed-page map | **partial — scan 4/9 unnumbered; scans 5–8 = 4–7; scans 10–12 = 9–11** |
+| Body transcription | **scans 4–17 verified; Chapter 1 complete; Chapter 2 in progress** |
+| Printed-page map | **partial — scan 4/9 unnumbered; scans 5–8 = 4–7; scans 10–17 = 9–16** |
 | Chapter map | **partial — Chapters 1–8 directly located** |
-| Historical-glyph policy | **enabled; scans 4–12 passed** |
+| Historical-glyph policy | **enabled; scans 4–17 passed** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -82,6 +82,26 @@ Historical-glyph/source-sensitive checkpoint:
 
 The Tiruppavai passages were transcribed from the scanned edition itself; outside/canonical verse wording was not used to silently repair the source.
 
+## Third narrative batch — scans 13–17
+
+**Result: PASS / VERIFIED page records created; Chapter 2 begun.**
+
+- scan 13: printed page 12; source-printed Chapter 2 opening;
+- scan 14: printed page 13;
+- scan 15: printed page 14; source three-star separator retained;
+- scan 16: printed page 15; source three-star separator retained;
+- scan 17: printed page 16; continues into scan 18.
+
+Historical-glyph/source-sensitive checkpoint:
+
+- all five pages checked at enlarged/native resolution against the known historical set;
+- later pen underlines, ticks and marginal handwriting were excluded from canonical printed text;
+- scan 13 `எடுபிடி ஆள் அப்புகள்`, scan 16 `இன்பபுரி வெண்புருக்கள்`, and scan 17 `வேலையில்ல` / `நல்லதாப் போச்சு` are retained as source readings rather than normalized;
+- no unresolved source cluster remains in scans 13–17;
+- no global replacement was used.
+
+Cross-page continuity: scan 14 `அதிலே` → scan 15 `வரும் அர்ச்சுனன்...`; scan 16 `எண்ணும்` → scan 17 `போது—`; scan 17 `“சுசீலா! நீ?”` continues on scan 18.
+
 ## Source marks / contamination risks
 
 Later underlining, ticks and handwriting occur in the copy and must remain outside canonical novel text. Age-toning, stains, bleed-through and uneven ink remain glyph-reading risks for later batches.
@@ -92,7 +112,7 @@ Directly confirmed chapter openings: scan 4 (1), 13 (2), 23 (3), 33 (4), 45 (5),
 
 ## Unresolved project items
 
-- scans **13–179** canonical transcription;
+- scans **18–179** canonical transcription;
 - printed-page mapping for remaining scans;
 - chapter openings after Chapter 8;
 - historical-glyph decisions for later body pages;
@@ -101,4 +121,4 @@ Directly confirmed chapter openings: scan 4 (1), 13 (2), 23 (3), 33 (4), 45 (5),
 
 ## Exact next activity
 
-Process scans **13–17** as the first Chapter 2 batch. Perform direct high-resolution transcription, historical-glyph checks, page-map/status synchronization and a narrow commit. English work remains blocked.
+Process scans **18–22** to complete Chapter 2 before scan 23 / Chapter 3. Perform direct high-resolution transcription, historical-glyph checks, page-map/status synchronization and a narrow commit. English work remains blocked.

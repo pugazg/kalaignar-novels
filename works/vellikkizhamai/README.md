@@ -15,10 +15,11 @@ This is the active source in `pugazg/kalaignar-novels`.
 - SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`;
 - PDF text layer: **none — image-only scan**;
 - page manifest: **179 / 179 scans represented**;
-- canonical page records: **12 / 179**;
+- canonical page records: **17 / 179**;
 - scans 1–3 front matter: **verified**;
-- scans 4–12 / complete Chapter 1 span: **directly transcribed and verified**;
-- printed mapping established through scan 12: scan 4 and scan 9 unnumbered; scans 5–8 = printed **4–7**; scans 10–12 = printed **9–11**;
+- scans 4–12 / Chapter 1: **directly transcribed and verified / complete**;
+- scans 13–17 / Chapter 2 opening batch: **directly transcribed and verified**;
+- printed mapping established through scan 17: scan 4 and scan 9 unnumbered; scans 5–8 = printed **4–7**; scans 10–17 = printed **9–16**;
 - Tamil full-source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**.
@@ -55,7 +56,6 @@ Cross-page continuity retained in canonical records:
 - scan 5 final `அவைகளே` → scan 6 opening `கேலிக்குரியதாக ஆக்கிய...`;
 - scan 8 final `கிழக்கு வானம் வெளுக்கத்` → scan 9.
 
-
 ## Second narrative batch — scans 9–12
 
 Direct high-resolution comparison is complete for all four pages, finishing Chapter 1 immediately before scan 13 / Chapter 2. Printed text only was transcribed and the historical-glyph pre-correction gate passed on each scan.
@@ -67,6 +67,19 @@ Cross-page / structural continuity:
 - scan 8 `கிழக்கு வானம் வெளுக்கத்` + scan 9 `துவங்கிவிட்டது.`;
 - scan 10 final `இருந்தாள்—` continues into scan 11's quoted question;
 - scan 12 closes Chapter 1; scan 13 begins source-printed Chapter 2.
+
+## Third narrative batch — scans 13–17
+
+Direct high-resolution comparison is complete for the first five pages of Chapter 2. Scan 13 is the source-printed Chapter 2 opening; scans 13–17 correspond to printed pages **12–16**. Printed text only was transcribed and later pen/underline/handwriting marks were excluded.
+
+Historical-glyph/source-sensitive review passed on all five scans. Source-specific wording is preserved without normalization, including scan 13 `எடுபிடி ஆள் அப்புகள்`, scan 16 `இன்பபுரி வெண்புருக்கள்`, and scan 17 colloquial `வேலையில்ல` / `நல்லதாப் போச்சு`.
+
+Cross-page / structural continuity:
+
+- scan 14 final `அதிலே` → scan 15 opening `வரும் அர்ச்சுனன்...`;
+- scan 16 final `எண்ணும்` → scan 17 opening `போது—`;
+- scan 17 final `“சுசீலா! நீ?”` continues with Suseela's reply on scan 18;
+- no text from scan 18 has been moved backward.
 
 ## Historical Tamil glyph policy
 
@@ -80,8 +93,8 @@ Use root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. For every body page in
 - [`pages/0001-cover.md`](pages/0001-cover.md)
 - [`pages/0002-copy-note.md`](pages/0002-copy-note.md)
 - [`pages/0003-publication.md`](pages/0003-publication.md)
-- [`pages/0004-vellikkizhamai-01.md`](pages/0004-vellikkizhamai-01.md) through [`pages/0012-vellikkizhamai-09.md`](pages/0012-vellikkizhamai-09.md)
+- [`pages/0004-vellikkizhamai-01.md`](pages/0004-vellikkizhamai-01.md) through [`pages/0017-vellikkizhamai-14.md`](pages/0017-vellikkizhamai-14.md)
 
 ## Exact next activity
 
-Process scans **13–17**, beginning source-printed Chapter 2. Directly inspect each scan, populate visible printed-page numbers individually, apply the historical-glyph pre-correction gate, update page map/audit/status documents, and commit the batch. Do not commit the source PDF.
+Process scans **18–22**, continuing and completing Chapter 2 immediately before scan 23 / Chapter 3. Directly inspect each scan, populate visible printed-page numbers individually, apply the historical-glyph pre-correction gate, update page map/audit/status documents, and commit the batch. Do not commit the source PDF.

@@ -6,13 +6,15 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count from direct file inspection: **179**;
 - initial page manifest: **179 / 179 represented below**;
-- canonical page records created so far: **12 / 179**;
+- canonical page records created so far: **17 / 179**;
 - direct front-matter transcription: scans **1–3 verified**;
-- body transcription: scans **4–12 verified**;
+- body transcription: scans **4–17 verified**;
+- Chapter 1: **complete / scans 4–12**;
+- Chapter 2: **in progress / scans 13–17 verified**;
 - printed-page values marked `pending` must be populated only by direct visual inspection; they are not inferred from sequence.
 
-Directly sampled numbering observations:
-- scan 4: Chapter 1 opening; no visible printed page number;
+Directly confirmed numbering through scan 17:
+- scan 4: no visible printed page number;
 - scan 5: printed page 4;
 - scan 6: printed page 5;
 - scan 7: printed page 6;
@@ -21,6 +23,11 @@ Directly sampled numbering observations:
 - scan 10: printed page 9;
 - scan 11: printed page 10;
 - scan 12: printed page 11;
+- scan 13: printed page 12;
+- scan 14: printed page 13;
+- scan 15: printed page 14;
+- scan 16: printed page 15;
+- scan 17: printed page 16;
 - scan 68: printed page 67;
 - scan 176: printed page 175;
 - scan 179: printed page 178.
@@ -33,16 +40,15 @@ Confirmed early chapter openings from direct scan inspection:
 - scan 45 — Chapter 5;
 - scan 52 — Chapter 6;
 - scan 60 — Chapter 7;
-- scan 68 — Chapter 8.
+- scan 68 — Chapter 8;
 
 The full chapter map is still pending. Do not infer later chapter boundaries from spacing or page count.
 
-Chapter 1 transcription checkpoint:
-- scans **4–12** directly transcribed and visually verified;
-- scan 4 and scan 9 have no visible printed page number; scans 5–8 = printed 4–7; scans 10–12 = printed 9–11;
-- scan 8 `களைத்துத்` resolved as historical `ளை`; scan 9 source-specific `குழப்பட்டு` and scan 12 `அந்தப் பருக்கூட்டமே` preserved as printed;
-- Chapter 1 is complete through scan 12; scan 13 is the directly confirmed Chapter 2 opening;
-- next batch: scans **13–17**, beginning Chapter 2.
+Current transcription checkpoint:
+- scans **4–12** / Chapter 1 directly transcribed and visually verified;
+- scans **13–17** / first Chapter 2 batch directly transcribed and visually verified;
+- source-specific readings are preserved without normalization, and later pen/underline/handwriting marks are excluded from printed text;
+- next batch: scans **18–22**, completing Chapter 2 up to the Chapter 3 opening at scan 23.
 
 | Scan | Printed page | Page type | Status | Note |
 |---:|:---:|---|---|---|
@@ -53,16 +59,16 @@ Chapter 1 transcription checkpoint:
 | 5 | 4 | body | verified | Chapter 1 |
 | 6 | 5 | body | verified | Chapter 1; later underline excluded from printed text |
 | 7 | 6 | body | verified | Chapter 1 |
-| 8 | 7 | body | verified | Chapter 1; `களைத்துத்` historical `ளை` resolved at enlarged/native pixels |
-| 9 | — | body | verified | Chapter 1; no visible printed page number; completes scan 8 `வெளுக்கத்` → `துவங்கிவிட்டது` |
+| 8 | 7 | body | verified | Chapter 1; `களைத்துத்` historical `ளை` resolved |
+| 9 | — | body | verified | Chapter 1; completes scan 8 `வெளுக்கத்` → `துவங்கிவிட்டது` |
 | 10 | 9 | body | verified | Chapter 1; Tiruppavai quotation preserved as printed |
-| 11 | 10 | body | verified | Chapter 1; historical-glyph check passed; Tiruppavai quotation |
-| 12 | 11 | body | verified | Chapter 1 ending; `அந்தப் பருக்கூட்டமே` preserved as printed |
-| 13 | pending | body | not-started |  |
-| 14 | pending | body | not-started |  |
-| 15 | pending | body | not-started |  |
-| 16 | pending | body | not-started |  |
-| 17 | pending | body | not-started |  |
+| 11 | 10 | body | verified | Chapter 1; Tiruppavai quotation / dialogue |
+| 12 | 11 | body | verified | Chapter 1 ending |
+| 13 | 12 | body / chapter opening | verified | Chapter 2 opening |
+| 14 | 13 | body | verified | Chapter 2; final `அதிலே` continues to scan 15 |
+| 15 | 14 | body | verified | Chapter 2; source three-star separator |
+| 16 | 15 | body | verified | Chapter 2; final `எண்ணும்` continues to scan 17 |
+| 17 | 16 | body | verified | Chapter 2; final `சுசீலா! நீ?` continues to scan 18 |
 | 18 | pending | body | not-started |  |
 | 19 | pending | body | not-started |  |
 | 20 | pending | body | not-started |  |
