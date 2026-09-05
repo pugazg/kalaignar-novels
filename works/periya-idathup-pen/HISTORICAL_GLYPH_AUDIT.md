@@ -43,6 +43,7 @@ The chart is a decoding reference, not permission to modernize spelling, grammar
 | 5 | — | complete | four historical-form occurrences confirmed; two lexical corrections | `needs-review` |
 | 6 | — | complete | five historical-form occurrences confirmed; no text correction | `needs-review` |
 | 7 | 6 | complete | seven historical-form occurrences confirmed; `உள்ளங்களை` → `உள்ளங்களே` | `needs-review` |
+| 8 | — | complete | nine historical-form occurrences confirmed; no text correction | `needs-review` |
 
 ### Scan 1
 
@@ -70,21 +71,27 @@ Positive historical forms already encoded correctly: `கருணாநித�
 
 ### Scan 7
 
-The full printed page 6 was re-read at enlarged/high resolution.
+Positive historical forms already encoded correctly: `வெள்ளை` (`ளை`), `விற்பனையாவதிலிருந்து` (`னை`), `மலை` (`லை`), `இன்னொரு` (`னொ`), `மூலை` (`லை`), `போகிறாள்` (`றா`), `முன்னிலையில்` (`லை`). Direct enlarged inspection showed source `உள்ளங்` + `களே`, so `உள்ளங்களை` was corrected to **`உள்ளங்களே`**. Source-supported punctuation and wording were retained.
+
+### Scan 8
+
+The first narrative page was re-read in full at enlarged/high resolution.
 
 Positive historical forms already encoded correctly:
 
-- `வெள்ளை` — `ளை`;
-- `விற்பனையாவதிலிருந்து` — `னை`;
-- `மலை` — `லை`;
-- `இன்னொரு` — `னொ`;
-- `மூலை` — `லை`;
-- `போகிறாள்` — `றா`;
-- `முன்னிலையில்` — `லை`.
+- `நினைத்தவாறே` — `றா`;
+- `வேலை` — `லை`;
+- `தோன்றவில்லை` — `லை`;
+- `தோள்களை` — `ளை`;
+- `விழவில்லை` — `லை`;
+- `சிந்தனையைச்` — `னை`;
+- `லீலைகள்` — `லை`;
+- `ஆனால்` — `னா`;
+- `திருப்பினாள்` — `னா`.
 
-The pass exposed one independent earlier transcription error at a physical line break: source `உள்ளங்` + `களே` gives **`உள்ளங்களே`**, not `உள்ளங்களை`. The canonical scan-7 record was corrected. Source-supported `மாசு மருவற்ற`, `விற்பனையாவதிலிருந்து`, `வெள்ளிடை மலை!`, `திரைக் கதையாக`, `போகிறாள், என்பதை`, and `என்று உங்கள்,` were rechecked and retained.
+No historical-glyph conversion or independent text correction was required. Source-supported `வேலை யெல்லாம்`, `அணிச்சக்`, `இதயப் படுதாவில்`, `ஊர்க் கடைசியிலுள்ள`, the dotted pause before `இருக்கீங்க?`, and the paragraph structure were retained unchanged.
 
-**Progress: 7 / 27 existing canonical scans reviewed; scans 8–27 pending.** All reviewed pages remain `needs-review`.
+**Progress: 8 / 27 existing canonical scans reviewed; scans 9–27 pending.** All reviewed pages remain `needs-review`.
 
 ## Audit rule
 
@@ -104,7 +111,7 @@ The 13-form chart is a minimum known reference set; remain alert for other legac
 ## Gate consequence
 
 - canonical records: **27 / 49**;
-- retrospective historical-glyph pass: **7 / 27 — scans 1–7**;
+- retrospective historical-glyph pass: **8 / 27 — scans 1–8**;
 - `verified`: **0**;
 - `needs-review`: **27 — scans 1–27**;
 - `partial`: **0**;
@@ -115,4 +122,4 @@ The 13-form chart is a minimum known reference set; remain alert for other legac
 
 ## Exact next activity
 
-Audit **scan 8 only** next. Inspect the whole scan at enlarged/high resolution against the complete 13-form reference, make only pixel-supported corrections, record the result, keep scan 8 `needs-review`, and stop.
+Audit **scan 9 only** next. Inspect the whole scan at enlarged/high resolution against the complete 13-form reference, make only pixel-supported corrections, record the result, keep scan 9 `needs-review`, and stop.
