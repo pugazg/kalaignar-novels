@@ -30,7 +30,7 @@ Ulaganathar was somewhat thick-skinned! Not because he lacked pride; his body wa
 
 He never imagined that a daughter of a wealthy gentleman's house could be small-minded. Veeran alone knew the pangs of her longing!
 
-Ulaganathar had a bed! There were caresses! But all of it was merely what was left to go to Veeran!
+Ulaganathar had a bed! There were caresses! But all of it was merely what remained to be passed on to Veeran!
 
 With Ulaganathar there was dancing! There was swaying! But the customer for that entertainment was the cartman Veeran!
 
@@ -52,7 +52,7 @@ Then, one day, the Ulaganathar–Kannamma swing episode took place. Only after K
 
 An old man named Uthandi worked as a **talaiyari** on Ulaganathar's estate. His daughter was Kumudha. Kumudha was a shortened form of the name Kumudam. Veeran was Uthandi's sister's son—Kumudha's **Aththan**, her cross-cousin and prospective husband. It was on the day Ulaganathar saw Kumudha and Veeran together in intimacy that the conversation on the swing took place.
 
-Ulaganathar lusted after Uthandi's daughter. He put a higher price on the pleasure dripping from Kumudha's kovvai-fruit lips than on the nectar of love Kannamma gave him. For all that, this great soul had not even had a proper look at her. He mistook as the summit of love the affection Kannamma showed him—whether because she thought, “Whatever else, he is the husband I was married to,” or because she feared the village, or desired the property. He concluded that it was enchantment with his beauty. He dreamed that Kannamma regarded him as God.
+Ulaganathar lusted after Uthandi's daughter. He put a higher price on the pleasure dripping from Kumudha's kovvai-fruit lips than on the nectar of love Kannamma gave him. For all that, this great soul was not even much to look at. He mistook as the summit of love the affection Kannamma showed him—whether because she thought, “Whatever else, he is the husband I was married to,” or because she feared the village, or desired the property. He concluded that it was enchantment with his beauty. He dreamed that Kannamma regarded him as God.
 
 Like a priest who, saying that an offering is for God, lays out “pongal, pallayam, pavadai” and feeds it to golden beauties who suit his fancy, Kannamma too offered herself as **naivedyam**, a ritual offering, to her husband and gave the pleasure to Veeran. That gullible fellow knew none of it. Poor man! God at least is a stone idol—without eyes! This husband had neither sense nor attention!
 
