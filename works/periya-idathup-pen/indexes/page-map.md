@@ -50,11 +50,11 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 | 40 | 39 | body; `வீரன்`; glyph-aware first pass | needs-review | `pages/0040-periya-idathup-pen-33.md` |
 | 41 | 40 | body; `வீரன்`; glyph-aware first pass | needs-review | `pages/0041-periya-idathup-pen-34.md` |
 | 42 | 41 | body; `வீரன்`; glyph-aware first pass | needs-review | `pages/0042-periya-idathup-pen-35.md` |
-| 43 | 42 | body | not-started | `pages/0043-periya-idathup-pen-36.md` |
-| 44 | 43 | body | not-started | `pages/0044-periya-idathup-pen-37.md` |
-| 45 | 44 | body; expected internal heading `உலகநாதர்` — direct confirmation pending | not-started | `pages/0045-periya-idathup-pen-38.md` |
-| 46 | 45 | body; expected internal heading `கண்ணம்மா` — direct confirmation pending | not-started | `pages/0046-periya-idathup-pen-39.md` |
-| 47 | 46 | body | not-started | `pages/0047-periya-idathup-pen-40.md` |
+| 43 | 42 | body; `வீரன்`; glyph-aware first pass | needs-review | `pages/0043-periya-idathup-pen-36.md` |
+| 44 | 43 | body; `வீரன்`; glyph-aware first pass | needs-review | `pages/0044-periya-idathup-pen-37.md` |
+| 45 | 44 | body; internal heading `உலகநாதர்`; glyph-aware first pass | needs-review | `pages/0045-periya-idathup-pen-38.md` |
+| 46 | 45 | body; internal heading `கண்ணம்மா`; glyph-aware first pass | needs-review | `pages/0046-periya-idathup-pen-39.md` |
+| 47 | 46 | body; `கண்ணம்மா`; glyph-aware first pass | needs-review | `pages/0047-periya-idathup-pen-40.md` |
 | 48 | 47 | body | not-started | `pages/0048-periya-idathup-pen-41.md` |
 | 49 | 48 | body — narrative ending / printer colophon | not-started | `pages/0049-periya-idathup-pen-42.md` |
 
@@ -62,16 +62,16 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 
 - Source scan pages: **49**
 - Page-manifest rows: **49 / 49**
-- Page records created: **42 / 49**
+- Page records created: **47 / 49**
 - `verified`: **0**
-- `needs-review`: **42**
+- `needs-review`: **47**
 - `partial`: **0**
-- `not-started`: **7 — scans 43–49**
+- `not-started`: **2 — scans 48–49**
 - Source PDF stored in repository: **No**
 
 ## Historical-glyph checkpoint
 
-Retrospective audit over scans **1–27** is complete. Scans **28–42** were transcribed with the full 13-form historical-glyph rule during first pass. No page is verified.
+Retrospective audit over scans **1–27** is complete. Scans **28–47** were transcribed with the full 13-form historical-glyph rule during first pass. No page is verified.
 
 Reusable rule: [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md).
 
@@ -101,12 +101,17 @@ Reusable rule: [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../../HISTOR
 - scan 39 `ஈரமில்லாத` + scan 40 `தொண்டைக்...`;
 - scan 40 `தேவையான` + scan 41 `பொருளாகிவிட்டேன்.` → `தேவையான பொருளாகிவிட்டேன்.`;
 - scan 41 `கல்யா` + scan 42 `ணத்தை` → `கல்யாணத்தை`;
-- scan 42 ends with a complete sentence.
+- scan 42 ends with a complete sentence;
+- scan 43 `கடவுள்` + scan 44 `பொறுப்பாரா?` → `கடவுள் பொறுப்பாரா?`;
+- scan 44 ends cleanly; scan 45 directly begins internal heading `உலகநாதர்`;
+- scan 45 ends cleanly; scan 46 directly begins internal heading `கண்ணம்மா`;
+- scan 46 `காரண` + scan 47 `மாயிருந்தேன்!` → `காரணமாயிருந்தேன்!`;
+- scan 47 ends with incomplete `எழுதி`, to be resolved only from scan 48.
 
 ## Structural caution
 
-Directly confirmed internal headings: `உத்தண்டி` (scan 15), `கண்ணம்மா` (scan 19), `குமுதா` (scan 32), and `வீரன்` (scan 38). They remain internal structure within the same continuous work and do not confer page verification.
+Directly confirmed internal headings: `உத்தண்டி` (scan 15), `கண்ணம்மா` (scan 19), `குமுதா` (scan 32), `வீரன்` (scan 38), `உலகநாதர்` (scan 45), and `கண்ணம்மா` (scan 46). They remain internal structure within the same continuous work and do not confer page verification.
 
 ## Next activity
 
-Transcribe **scans 43–47 / printed pages 42–46** as the next glyph-aware source-first batch. Directly confirm the expected `உலகநாதர்` heading on scan 45 and `கண்ணம்மா` heading on scan 46 before recording them as structure. Keep all new pages `needs-review`, synchronize status documents, and stop after scan 47.
+Transcribe **scans 48–49 / printed pages 47–48** as the final source-first batch. Resolve scan 47's trailing `எழுதி` only from scan 48, inspect scan 49's narrative ending and printer colophon directly, apply the full historical-glyph procedure, keep both pages `needs-review`, synchronize status documents, and stop. Do not begin assembled Tamil or English translation.
