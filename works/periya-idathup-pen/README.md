@@ -19,7 +19,7 @@ The attached scan is the controlling source.
 - `not-started`: **0**;
 - historical-glyph retrospective audit over scans 1–27: **COMPLETE**;
 - glyph-aware first-pass transcription over scans 28–49: **COMPLETE**;
-- dedicated full Tamil source/audit review: **IN PROGRESS — scans 1–10 / 49 reviewed; 39 remain**;
+- dedicated full Tamil source/audit review: **IN PROGRESS — scans 1–20 / 49 reviewed; 29 remain**;
 - verification freeze: **ACTIVE — do not mark pages verified**;
 - Tamil source audit: **NOT PASSED — audit in progress**;
 - assembled Tamil `sections/`: **blocked / not started**;
@@ -80,12 +80,19 @@ Directly confirmed internal headings remain part of the same continuous work:
 
 ## Dedicated full Tamil source audit
 
-Batch 1 — **scans 1–10** — is complete by direct enlarged-source comparison.
+Two direct enlarged-source audit batches are complete:
 
-- no new canonical lexical correction was required in this batch;
-- no new historical-glyph correction was required;
-- front-matter identity, eighth-edition note and narrative opening were reconfirmed;
-- scan 9 ends `அவளை இவருக்குக் கட்டினர்கள்` without a visible terminal mark and scan 10 begins `அதைப் பற்றி உலகம் பேசாமலில்லை.`; the physical boundary is preserved without invented punctuation or a false lexical join.
+- **Batch 1 — scans 1–10:** no new canonical lexical or historical-glyph correction was required; front matter, eighth-edition note, narrative opening and scan 9 → 10 boundary were reconfirmed.
+- **Batch 2 — scans 11–20:** no new canonical lexical or historical-glyph correction was required. Earlier source corrections on scan 12 and scan 19 and historical-glyph corrections on scans 14, 16 and 20 were directly reconfirmed.
+
+Important Batch-2 boundaries reconfirmed:
+
+- scan 11 `கிடப்ப` + scan 12 `தாகக்` → `கிடப்பதாகக்`;
+- scan 14 `நினைக்` + scan 15 `காதே!` → `நினைக்காதே!`;
+- scan 15 `தெரிந்` + scan 16 `தது.` → `தெரிந்தது.`;
+- scan 18 `என்` + scan 19 `றேன்.` → `என்றேன்.`;
+- scan 19 `என்` + scan 20 `னிலே` → `என்னிலே`;
+- scan 20 ends `நானும்`; scan 21 begins `நன்றாகத்தான் வளர்ந்தேன்.`. Scan 21 was checked only as the outbound boundary anchor and remains part of the next full-review batch.
 
 Detailed record: [`FULL_TAMIL_SOURCE_AUDIT.md`](FULL_TAMIL_SOURCE_AUDIT.md).
 
@@ -98,4 +105,4 @@ Detailed record: [`FULL_TAMIL_SOURCE_AUDIT.md`](FULL_TAMIL_SOURCE_AUDIT.md).
 
 ## Next activity
 
-Continue the dedicated **full Tamil source/audit review with scans 11–20 / printed pages 10–19**. Recheck source-sensitive words, historical-glyph consistency, page-boundary joins, metadata and internal structure. Keep all pages `needs-review` under the current verification freeze. Do not begin assembled Tamil or English translation.
+Continue the dedicated **full Tamil source/audit review with scans 21–30 / printed pages 20–29**. Recheck source-sensitive words, historical-glyph consistency, page-boundary joins and internal structure, explicitly revisiting the known corrections on scans 21, 24 and 25. Keep all pages `needs-review` under the current verification freeze. Do not begin assembled Tamil or English translation.

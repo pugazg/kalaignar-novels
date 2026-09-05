@@ -59,16 +59,32 @@ Final-source boundary findings remain:
 
 ## Dedicated full Tamil source/audit review
 
-The post-coverage whole-work audit has now started.
+The post-coverage whole-work audit is now in progress.
 
-Completed Batch 1: **scans 1–10 / 49**.
+Completed:
 
-Results:
+- **Batch 1 — scans 1–10 / 49**;
+- **Batch 2 — scans 11–20 / 49**.
 
-- no new canonical lexical correction was required in scans 1–10;
-- no new historical-glyph correction was required;
-- front matter, publication details, eighth-edition note, narrative opening and printed-page mapping through scan 10 were reconfirmed directly;
-- scan 9 → 10 was explicitly checked: scan 9 ends `அவளை இவருக்குக் கட்டினர்கள்` without a visible terminal mark; scan 10 begins `அதைப் பற்றி உலகம் பேசாமலில்லை.`; preserve the physical boundary without inserting punctuation or claiming a lexical word join.
+Current result through scan 20:
+
+- no new canonical lexical correction was required in the dedicated full-source pass;
+- no new historical-glyph correction was required in the dedicated full-source pass;
+- earlier source-text corrections on scans 12 and 19 were directly reconfirmed;
+- historical-glyph corrections on scans 14, 16 and 20 were directly reconfirmed;
+- internal headings `உத்தண்டி` (scan 15) and `கண்ணம்மா` (scan 19) remain internal structure in the same continuous work;
+- scans 11–20 directly confirm printed pages **10–19**.
+
+Important Batch-2 boundaries:
+
+- scan 11 `கிடப்ப` + scan 12 `தாகக்` → **`கிடப்பதாகக்`**;
+- scan 14 `நினைக்` + scan 15 `காதே!` → **`நினைக்காதே!`**;
+- scan 15 `தெரிந்` + scan 16 `தது.` → **`தெரிந்தது.`**;
+- scan 16 `நம்` + scan 17 `வீட்டு` → **`நம் வீட்டு`** — phrase continuity;
+- scan 17 `கண்டது` + scan 18 `போலத்தானே!` → **`கண்டது போலத்தானே!`**;
+- scan 18 `என்` + scan 19 `றேன்.` → **`என்றேன்.`**;
+- scan 19 `என்` + scan 20 `னிலே` → **`என்னிலே`**;
+- scan 20 ends `நானும்`; scan 21 begins `நன்றாகத்தான் வளர்ந்தேன்.`. Scan 21 was inspected only as the outbound boundary anchor and is not counted as fully reviewed yet.
 
 Detailed record: `works/periya-idathup-pen/FULL_TAMIL_SOURCE_AUDIT.md`.
 
@@ -77,7 +93,8 @@ Detailed record: `works/periya-idathup-pen/FULL_TAMIL_SOURCE_AUDIT.md`.
 - source registration: complete;
 - page map: **49 / 49**;
 - canonical records: **49 / 49**;
-- dedicated full-source audit: **10 / 49 reviewed — IN PROGRESS**;
+- dedicated full-source audit: **20 / 49 reviewed — IN PROGRESS**;
+- remaining full-source audit coverage: **29 scans — 21–49**;
 - `verified`: **0**;
 - `needs-review`: **49**;
 - `partial`: **0**;
@@ -105,18 +122,19 @@ These remain internal textual structure within one continuous work.
 
 ## Exact next activity
 
-Continue the dedicated **full Tamil source/audit review with scans 11–20 / printed pages 10–19**.
+Continue the dedicated **full Tamil source/audit review with scans 21–30 / printed pages 20–29**.
 
 Required focus:
 
 1. compare every canonical page directly against the attached scan;
 2. recheck source-sensitive / unusual lexical readings;
 3. recheck historical-glyph consistency using the reusable guide;
-4. explicitly revisit the documented scan-12 source-text corrections, scan-19 source-text correction and scan-20 `றா` correction;
-5. validate physical page-boundary joins and printed-page numbering;
-6. document unresolved items explicitly;
-7. keep every page `needs-review` under the current user instruction;
-8. do **not** mark pages verified, build assembled Tamil sections, or begin English translation.
+4. explicitly revisit the documented scan-21 `நன்றாகத்தான்`, scan-24 `நன்றாக` / `விழுவேன் என்றானா?`, and scan-25 `வேலை மட்டுந்தானா?` corrections;
+5. validate all physical page-boundary joins through scan 30 and check the outbound scan 30 → 31 boundary;
+6. confirm printed-page mapping **20–29**;
+7. document unresolved items explicitly;
+8. keep every page `needs-review` under the current user instruction;
+9. do **not** mark pages verified, build assembled Tamil sections, or begin English translation.
 
 ---
 

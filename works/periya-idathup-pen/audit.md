@@ -6,7 +6,7 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 Source pages: **49**  
 Source PDF committed to repository: **No**
 
-Canonical page-level transcription covers **all 49 / 49 scans**. The dedicated whole-work Tamil source/audit review is now **IN PROGRESS**; scans **1–10** have been directly reviewed in that pass. Every page remains `needs-review` under the user-mandated verification freeze.
+Canonical page-level transcription covers **all 49 / 49 scans**. The dedicated whole-work Tamil source/audit review is **IN PROGRESS**; scans **1–20** have now been directly reviewed in that pass. Every page remains `needs-review` under the user-mandated verification freeze.
 
 Dedicated review record: [`FULL_TAMIL_SOURCE_AUDIT.md`](FULL_TAMIL_SOURCE_AUDIT.md).  
 Reusable historical-glyph procedure: [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md).
@@ -18,7 +18,7 @@ Reusable historical-glyph procedure: [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTIO
 | Source identity inspected | complete |
 | Scan pages mapped | **49 / 49** |
 | Canonical page records | **49 / 49** |
-| Dedicated full-source audit | **IN PROGRESS — scans 1–10 / 49 reviewed** |
+| Dedicated full-source audit | **IN PROGRESS — scans 1–20 / 49 reviewed** |
 | `verified` | **0** |
 | `needs-review` | **49 — scans 1–49** |
 | `partial` | **0** |
@@ -75,6 +75,33 @@ Results:
 - front matter → eighth-edition note → narrative opening structure was reconfirmed;
 - scan 9 → 10 was explicitly reviewed: scan 9 ends `அவளை இவருக்குக் கட்டினர்கள்` without a visible terminal mark, and scan 10 begins `அதைப் பற்றி உலகம் பேசாமலில்லை.`; preserve the physical source boundary without inserting punctuation or claiming a lexical word join.
 
+## Dedicated full-source audit — Batch 2
+
+Scans **11–20 / printed pages 10–19** were directly rechecked against enlarged source renders.
+
+Results:
+
+- no new canonical lexical correction was required;
+- no new historical-glyph correction was required;
+- earlier scan-12 corrections `தாவும்போது பயப்படாத பூனை` and `பயப்பட்டதுபோல -` were reconfirmed;
+- scan-14 historical readings `ஆவலைக்` and `நின்றார்` were reconfirmed;
+- scan-16 `போகிறாயே` was reconfirmed;
+- scan-19 source correction `செக்கச் செவேலென்றேதோன்றின.` was reconfirmed;
+- scan-20 `நன்றாகத்` was reconfirmed from the historical `றா` glyph;
+- internal headings `உத்தண்டி` (scan 15) and `கண்ணம்மா` (scan 19) were reconfirmed as internal structure within the same continuous work;
+- printed-page mapping **10–19** for scans **11–20** is directly supported.
+
+Boundary findings directly reconfirmed:
+
+- scan 11 `கிடப்ப` + scan 12 `தாகக்` → `கிடப்பதாகக்`;
+- scan 14 `நினைக்` + scan 15 `காதே!` → `நினைக்காதே!`;
+- scan 15 `தெரிந்` + scan 16 `தது.` → `தெரிந்தது.`;
+- scan 16 `நம்` + scan 17 `வீட்டு` → `நம் வீட்டு` — phrase continuity, not a split word;
+- scan 17 `கண்டது` + scan 18 `போலத்தானே!` → `கண்டது போலத்தானே!`;
+- scan 18 `என்` + scan 19 `றேன்.` → `என்றேன்.`;
+- scan 19 `என்` + scan 20 `னிலே` → `என்னிலே`;
+- outbound boundary: scan 20 `நானும்` continues with scan 21 `நன்றாகத்தான் வளர்ந்தேன்.`. Scan 21 was inspected only for this boundary anchor and remains part of the next full-review batch.
+
 Full batch detail: [`FULL_TAMIL_SOURCE_AUDIT.md`](FULL_TAMIL_SOURCE_AUDIT.md).
 
 ## Final source batch — scans 48–49
@@ -89,4 +116,4 @@ The source is one continuous work. Directly confirmed internal headings are `உ
 
 ## Exact next activity
 
-Continue the dedicated full Tamil source/audit review with **scans 11–20 / printed pages 10–19**. Recheck source-sensitive readings, historical-glyph consistency, boundary joins, page numbering and structure. Under the current instruction, keep all pages `needs-review`; do not mark them verified, build assembled Tamil, or begin English translation.
+Continue the dedicated full Tamil source/audit review with **scans 21–30 / printed pages 20–29**. Recheck source-sensitive readings, historical-glyph consistency, boundary joins, page numbering and structure. Explicitly revisit scan 21 `நன்றாகத்தான்`, scan 24 `நன்றாக` / `விழுவேன் என்றானா?`, and scan 25 `வேலை மட்டுந்தானா?`. Under the current instruction, keep all pages `needs-review`; do not mark them verified, build assembled Tamil, or begin English translation.

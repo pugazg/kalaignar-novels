@@ -54,6 +54,21 @@ The chart is a decoding reference, not permission to modernize spelling, grammar
 
 No post-entry historical-glyph correction was required in scans 28–49 because character identities were decoded during first transcription.
 
+## Dedicated whole-work source audit interaction
+
+The later full Tamil source/audit review is separate from this completed retrospective glyph pass but must continue using the same 13-form rule.
+
+Current full-source audit checkpoint: **scans 1–20 / 49 directly reviewed**.
+
+Within scans 11–20, the dedicated pass independently reconfirmed:
+
+- scan 14 `ஆவலைக்` (`லை`) and `நின்றார்` (`றா`);
+- scan 16 `போகிறாயே` (`றா`);
+- scan 20 `நன்றாகத்` (`றா`);
+- no new historical-glyph correction was discovered in scans 11–20.
+
+The next full-source batch, scans **21–30**, must explicitly recheck scan 21 `நன்றாகத்தான்`, scan 24 `நன்றாக` / `விழுவேன் என்றானா?`, and scan 25 `வேலை மட்டுந்தானா?` from the source pixels rather than relying on this table.
+
 ## Audit rule
 
 For any future correction or re-review in this work:
@@ -70,14 +85,15 @@ For any future correction or re-review in this work:
 ## Gate consequence
 
 - canonical records: **49 / 49**;
+- dedicated full-source audit: **20 / 49 reviewed — in progress**;
 - `verified`: **0**;
 - `needs-review`: **49**;
 - `partial`: **0**;
 - `not-started`: **0**;
-- Tamil source audit: **NOT PASSED**;
+- Tamil source audit: **NOT PASSED — in progress**;
 - assembled Tamil: **blocked**;
 - English translation: **blocked**.
 
 ## Exact next activity
 
-Run a dedicated **full Tamil source/audit review** over the completed 49-page canonical layer. Focus on source-sensitive words, historical-glyph consistency, page joins and structure. Do not mark pages verified under the current user instruction and do not proceed to assembled Tamil or English.
+Continue the dedicated **full Tamil source/audit review with scans 21–30 / printed pages 20–29**. Recheck historical-glyph identity from source pixels for every occurrence, with explicit attention to the known scan-21, scan-24 and scan-25 corrections. Do not mark pages verified and do not proceed to assembled Tamil or English.
