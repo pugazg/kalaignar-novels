@@ -108,6 +108,16 @@ Cross-check completed against the final canonical page layer and `FULL_TAMIL_SOU
 
 Detailed check: [`../ASSEMBLED_TAMIL_AUDIT.md`](../ASSEMBLED_TAMIL_AUDIT.md).
 
-## Next stage
+## Completed downstream state
 
-Prepare the **English translation plan** from this assembled reading layer, while treating canonical `pages/` as the final textual authority for any disputed wording, punctuation, historical glyph or source-specific form. Do not change the canonical verification freeze merely because translation begins.
+இந்த assembled layer பின்னர் English translation-க்கு source-faithful reading layer ஆகப் பயன்படுத்தப்பட்டது. அந்த downstream workflow முழுமையாக முடிந்துள்ளது:
+
+- English translation plan: **COMPLETE**;
+- English section files: **7 / 7 reviewed**;
+- translation batches: **8 / 8 reviewed**;
+- final bilingual review: **PASSED**;
+- whole-work English: **VERIFIED**;
+- release-readiness: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
+- repository completion sync: [`../COMPLETION_SYNC_AUDIT.md`](../COMPLETION_SYNC_AUDIT.md).
+
+Canonical `pages/` தொடர்ந்து controlling archival text. User-mandated freeze காரணமாக அவை **0 verified / 49 `needs-review`** ஆகவே இருக்க வேண்டும். இந்த reading layer-க்கு இனி mandatory stage activity எதுவும் இல்லை.
