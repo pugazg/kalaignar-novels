@@ -19,7 +19,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; full Tamil source comparison COMPLETE; verification freeze ACTIVE — 0 verified / 49 `needs-review`; assembled Tamil PASSED across 7 source-structured sections; English translation plan COMPLETE; next: Batch-1 pilot translation of opening section** |
+| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; dedicated full Tamil source audit COMPLETE — 49/49 directly reviewed; verification freeze ACTIVE; 0 verified / 49 `needs-review`; assembled Tamil PASSED across 7 source-structured files; English plan COMPLETE; Batch 1 opening pilot REVIEWED; English 1/7 sections reviewed, 0/7 verified; next: Uthandi Batch 2** |
 
 ## Completed works
 
@@ -28,29 +28,53 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 | [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **448 canonical / 446 verified-complete / 2 physical-loss `needs-review`; Parts 001–010 part-complete; English VERIFIED; repository package RELEASE-READY WITH QUALIFICATION** |
 | [பலிபீடம் நோக்கி](works/balipeedam-nokki/README.md) | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **Tamil 34/34 verified; assembled Tamil PASSED; English VERIFIED; archival package RELEASE-READY** |
 
-## பெரிய இடத்துப் பெண் — current durable state
-
-The dedicated audit corrected historical-glyph look-alike readings on scans 33, 43, 46 and 47, including `கண்ணாடி`, `இளிச்சவாயனாக`, `நானா ஆள்?`, and `விட வேணா?`. The passed assembled Tamil reader preserves all source-printed internal headings, audit-established page joins and the final printer colophon while leaving all canonical pages `needs-review` under the active freeze.
-
-The English planning layer is now recorded at [`works/periya-idathup-pen/translations/en/TRANSLATION_PLAN.md`](works/periya-idathup-pen/translations/en/TRANSLATION_PLAN.md). Working English title: **The Woman of the Great House** (provisional; Tamil title remains authoritative). No English prose has been drafted yet.
-
 ## Historical Tamil glyph handling
 
-For older Tamil sources, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md). Identify historical character identity from source pixels first, then encode that identity in modern Unicode without modernizing source wording. Minimum known reference set:
+For older Tamil sources, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) before deciding difficult glyphs. Its governing rule is: **identify the historical character identity from source pixels first, then encode that identity in modern Unicode without modernizing the source wording.** The documented minimum Periyar-reform-sensitive set is `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+The completed whole-work audit of `பெரிய இடத்துப் பெண்` demonstrates why the second pass is required. Four first-pass look-alike readings were corrected from direct pixels during the dedicated audit:
+
+- scan 33 `கண்ணடி` → `கண்ணாடி` (`ணா`);
+- scan 43 `இளிச்சவாயனுக` → `இளிச்சவாயனாக` (`னா`);
+- scan 46 `நானு ஆள்?` → `நானா ஆள்?` (`னா`);
+- scan 47 `விட வேணு?` → `விட வேணா?` (`ணா`).
+
+The passed assembled Tamil reader preserves those final canonical readings, all source-printed internal headings and audit-established page-boundary joins. Its `PASSED` status does not override the canonical verification freeze.
+
+## பெரிய இடத்துப் பெண் — English pilot
+
+Working English title: **The Woman of the Great House**.
+
+Batch 1 covers scan 8 through scan 15 immediately before the `உத்தண்டி` heading. It is now drafted, canonical-source-checked and **REVIEWED**. Pilot decisions are recorded in:
+
+- [`works/periya-idathup-pen/translations/en/TRANSLATION_PLAN.md`](works/periya-idathup-pen/translations/en/TRANSLATION_PLAN.md)
+- [`works/periya-idathup-pen/translations/en/PROGRESS.md`](works/periya-idathup-pen/translations/en/PROGRESS.md)
+- [`works/periya-idathup-pen/translations/en/GLOSSARY.md`](works/periya-idathup-pen/translations/en/GLOSSARY.md)
+- [`works/periya-idathup-pen/translations/en/BATCH_01_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_01_REVIEW.md)
+
+No Tamil canonical correction was triggered by the English pilot. Next English activity is the complete `உத்தண்டி` account, scan 15 heading through scan 19 before the first `கண்ணம்மா` heading.
 
 ## புதையல் — final release state
 
-Received derivatives cover scans **1–448**. The narrative ends on scan **447 / printed 443**; scan **448** is the unnumbered printer colophon `அன்பு அச்சகம், பொறையார்.`
+Received derivatives cover scans **1–448**. The narrative ends on **scan 447 / printed 443**; scan **448** is the unnumbered printer colophon **`அன்பு அச்சகம், பொறையார்.`**
 
-Final durable state:
+Final source count after the user's **2026-09-03 Part-005 re-review**:
 
 - canonical: **448**;
 - verified / completed: **446**;
-- `needs-review`: **2 — scans 223–224**, where substantial portions of the paper are physically absent;
-- assembled Tamil and English complete;
-- whole-work English **VERIFIED**;
-- release status **RELEASE-READY WITH TWO PHYSICAL-LOSS QUALIFICATIONS**.
+- `needs-review`: **2 — only scans 223–224**, where substantial portions of the paper are physically absent;
+- scans **215–219** are now closed by direct user review;
+- assembled Tamil and English remain complete through scan 448;
+- whole-work English remains **VERIFIED**;
+- release status remains **RELEASE-READY WITH TWO PHYSICAL-LOSS QUALIFICATIONS**.
 
-Final records include `works/pudhaiyal/indexes/FULL_SOURCE_PAGE_MAP.md`, `works/pudhaiyal/audit.md`, `works/pudhaiyal/translations/en/TRANSLATION_REVIEW.md` and `works/pudhaiyal/translations/en/RELEASE_REPORT.md`.
+The user supplied exact corrections on scans 215–216, including `பரிமளாவும்`, `கொழுந்தாம்`, `புண்ணுக்கு மருந்து கேள்; தருகிறேன்.`, and `அவன் வீரனாக`; these are synchronized through canonical Tamil, assembled Tamil and English.
+
+Final records:
+
+- complete-source manifest: [`works/pudhaiyal/indexes/FULL_SOURCE_PAGE_MAP.md`](works/pudhaiyal/indexes/FULL_SOURCE_PAGE_MAP.md)
+- whole-work Tamil audit: [`works/pudhaiyal/audit.md`](works/pudhaiyal/audit.md)
+- Part-005 audit: [`works/pudhaiyal/notes/part-005-tamil-audit.md`](works/pudhaiyal/notes/part-005-tamil-audit.md)
+- verified English reader index: [`works/pudhaiyal/translations/en/README.md`](works/pudhaiyal/translations/en/README.md)
+- final bilingual review: [`works/pudhaiyal/translations/en/TRANSLATION_REVIEW.md`](works/pudhaiyal/translations/en/TRANSLATION_REVIEW.md)
+- release report: [`works/pudhaiyal/translations/en/RELEASE_REPORT.md`](works/pudhaiyal/translations/en/RELEASE_REPORT.md)
