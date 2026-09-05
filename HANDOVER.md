@@ -9,7 +9,7 @@
 - Current target: `works/periya-idathup-pen/`
 - Completed reference implementation: `works/balipeedam-nokki/`
 
-Before changing the active work, fetch live `main` first and read the root guides/README/handover plus the active-work README, `audit.md`, Tamil audit records, `ASSEMBLED_TAMIL_AUDIT.md`, `sections/README.md`, translation plan/progress/glossary, all completed batch reviews and relevant Tamil/English sections. The attached PDF remains controlling and must not be committed.
+Before changing the active work, fetch live `main` first and read the root guides/README/handover plus the active-work README, `audit.md`, Tamil audit records, `ASSEMBLED_TAMIL_AUDIT.md`, `sections/README.md`, translation plan/progress/glossary, all batch reviews, `TRANSLATION_REVIEW.md` and relevant Tamil/English sections. The attached PDF remains controlling and must not be committed.
 
 ## பெரிய இடத்துப் பெண் — source identity
 
@@ -35,7 +35,7 @@ Known user-supplied Periyar-reform reference set:
 
 Determine character identity from source pixels and encode that identity in modern Unicode. Do not global-replace or modernize wording, spelling, grammar, punctuation or vocabulary.
 
-The assembled Tamil layer's **PASSED** status and English-layer review states are independent of canonical verification. Canonical state remains **0 verified / 49 `needs-review`**.
+Canonical state remains **0 verified / 49 `needs-review`**. The assembled Tamil layer's **PASSED** status and English whole-work **VERIFIED** status are independent of that freeze.
 
 ## Canonical / Tamil state
 
@@ -79,29 +79,38 @@ Translation control files:
 - `works/periya-idathup-pen/translations/en/TRANSLATION_PLAN.md` — **COMPLETE**;
 - `works/periya-idathup-pen/translations/en/README.md`;
 - `works/periya-idathup-pen/translations/en/PROGRESS.md`;
-- `works/periya-idathup-pen/translations/en/GLOSSARY.md`.
+- `works/periya-idathup-pen/translations/en/GLOSSARY.md`;
+- `works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md` — **PASSED / ENGLISH VERIFIED**.
 
-### Reviewed English sections
+### English section / batch state
 
-1. `translations/en/sections/01-opening.md` — scans 8–15 before `உத்தண்டி` — **REVIEWED / PASS**; review `BATCH_01_REVIEW.md`.
-2. `translations/en/sections/02-uthandi.md` — scan 15 `உத்தண்டி` through scan 19 before `கண்ணம்மா` — **REVIEWED / PASS**; review `BATCH_02_REVIEW.md`.
-3. `translations/en/sections/03-kannamma-first.md` — scan 19 first `கண்ணம்மா` through scan 31 — **REVIEWED / PASS**; planned Batches **3A + 3B** both complete; review `BATCH_03_REVIEW.md`.
-4. `translations/en/sections/04-kumudha.md` — scans 32–37 — **REVIEWED / PASS**; review `BATCH_04_REVIEW.md`.
-5. `translations/en/sections/05-veeran.md` — scans 38–44 — **REVIEWED / PASS**; review `BATCH_05_REVIEW.md`.
-6. `translations/en/sections/06-ulaganathar.md` — scan 45 — **REVIEWED / PASS**; review `BATCH_06_REVIEW.md`.
-7. `translations/en/sections/07-kannamma-conclusion.md` — scans 46–49 + separate printer colophon — **REVIEWED / PASS**; review `BATCH_07_REVIEW.md`.
+1. `translations/en/sections/01-opening.md` — **REVIEWED / PASS**.
+2. `translations/en/sections/02-uthandi.md` — **REVIEWED / PASS**.
+3. `translations/en/sections/03-kannamma-first.md` — Batches 3A + 3B — **REVIEWED / PASS**.
+4. `translations/en/sections/04-kumudha.md` — **REVIEWED / PASS**.
+5. `translations/en/sections/05-veeran.md` — **REVIEWED / PASS**.
+6. `translations/en/sections/06-ulaganathar.md` — **REVIEWED / PASS**.
+7. `translations/en/sections/07-kannamma-conclusion.md` — **REVIEWED / PASS**.
 
-### Batch 7 — final Kannamma controls
+All **8 / 8** planned translation batches are reviewed. Section files retain batch-level `reviewed`; whole-work status is **VERIFIED** through the completed `TRANSLATION_REVIEW.md` cross-section alignment.
 
-- complete final Kannamma account translated and source-checked against canonical scans 46–49;
-- historical corrections `நானா ஆள்?` and `விட வேணா?` are reflected from the canonical layer;
-- joins `காரணமாயிருந்தேன்!`, `எழுதியிருந்தாள்.` and `ஒரு பெரிய ஜோதி நிரந்தரமாக...` are retained with provenance;
-- explicit source `கற்பழிக்கப்பட்டாள்` is translated directly as “was raped”;
-- source-specific `வக்குப் பேதி` is retained as `vakkup-bethi` rather than silently normalized;
-- Kannamma's concealment of the diamond evidence, destruction of Kumudha's letter, departure with Veeran, funeral-pyre scene and Calcutta/Indra-world boast are all represented;
-- final narrative ending is kept separate from the printer colophon;
-- later Kannamma disclosures do not retroactively rewrite earlier narrators;
-- Tamil canonical correction triggered by Batch 7: **none**.
+### Final bilingual review controls
+
+The final review confirmed:
+
+- no substantive omission/duplication across scans 8–49;
+- source-printed section order and transitions preserved;
+- narrator isolation preserved across Uthandi, both Kannamma accounts, Kumudha, Veeran and Ulaganathar;
+- Veeran's contradictory interpretation is not retroactively rewritten from Kumudha or final Kannamma evidence;
+- Ulaganathar's `குமுதாவைக் காதலித்தது` remains his own self-description;
+- names, `Aththan`, `Anni`, `talaiyari`, Calcutta, class/debt and moral/sexual terminology remain controlled;
+- final `கற்பழிக்கப்பட்டாள்` is translated directly as “was raped”;
+- religious/mythological rhetoric remains source-bound;
+- source-specific difficult forms remain documented/cautious, not normalized;
+- page joins and provenance remain intact;
+- final narrative ending remains separate from the printer colophon.
+
+One English-only consistency correction was made during final review: scan-49 `ரதி` is now **Rati**, replacing the earlier **Rathi** romanisation and matching `TRANSLATION_PLAN.md`. No Tamil text changed.
 
 ## Current stage
 
@@ -113,32 +122,26 @@ Translation control files:
 - canonical `needs-review`: **49**;
 - verification freeze: **ACTIVE**;
 - English translation plan: **COMPLETE**;
-- English sections drafted/source-checked/reviewed: **7 / 7**;
-- English sections verified: **0 / 7**;
-- translation batches completed through review: **8 / 8**.
+- English section files: **7 / 7 reviewed**;
+- translation batches: **8 / 8 reviewed**;
+- final bilingual review: **PASSED**;
+- **whole-work English: VERIFIED**;
+- release report: **not yet created**.
 
 ## Exact next activity
 
-Perform the **whole-work bilingual review**.
-
-Required scope:
-
-- English Sections 01–07;
-- passed assembled Tamil Sections 01–07;
-- canonical page records as final textual authority where a wording or boundary question arises.
+Create `works/periya-idathup-pen/translations/en/RELEASE_REPORT.md` and perform a release-readiness pass.
 
 Required workflow:
 
-1. confirm complete narrative coverage with no English omission or duplication;
-2. confirm all source-printed section transitions and final section ordering;
-3. audit narrator isolation across Uthandi, Kannamma, Kumudha, Veeran and Ulaganathar;
-4. reconcile recurring English terminology only where source meaning and speaker context permit it—do not flatten speaker-specific language;
-5. check names, kinship/address forms, class/debt vocabulary, moral/sexual vocabulary, religious/mythological allusions and source-specific period terms;
-6. check paragraphing, punctuation, reversible HTML provenance and all established page joins;
-7. check the final narrative ending and separate printer colophon;
-8. record a dedicated whole-work bilingual review result;
-9. only after a PASS decide whether English sections may be promoted to `verified`;
-10. keep all canonical Tamil pages `needs-review` under the active freeze regardless of English outcome.
+1. verify all reader-facing English navigation targets and control-document links;
+2. verify root/work/English README and handover status synchronization;
+3. confirm source PDF remains excluded from the repository;
+4. state clearly that English is whole-work **VERIFIED**;
+5. carry the canonical Tamil qualification **0 verified / 49 `needs-review` — verification freeze ACTIVE**;
+6. do not call the full archival package unqualified release-ready while that freeze remains active;
+7. distinguish editorial/archival release-readiness from copyright/licensing/republication rights;
+8. preserve live `main` as authoritative and do not change Tamil page statuses.
 
 ---
 

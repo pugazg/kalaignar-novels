@@ -19,7 +19,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; full Tamil source audit COMPLETE; verification freeze ACTIVE — 0 verified / 49 `needs-review`; assembled Tamil PASSED; English plan COMPLETE; Sections 01–07 REVIEWED; English 7/7 sections reviewed, 0/7 verified; 8/8 translation batches reviewed; next: whole-work bilingual review** |
+| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; full Tamil source audit COMPLETE; verification freeze ACTIVE — 0 verified / 49 `needs-review`; assembled Tamil PASSED; English plan COMPLETE; 7/7 English sections + 8/8 batches REVIEWED; final bilingual review PASSED; whole-work English VERIFIED; next: qualified release-readiness report** |
 
 ## Completed works
 
@@ -32,13 +32,13 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 For older Tamil sources, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) before deciding difficult glyphs. Its governing rule is: **identify the historical character identity from source pixels first, then encode that identity in modern Unicode without modernizing the source wording.** The documented minimum Periyar-reform-sensitive set is `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-The completed whole-work audit of `பெரிய இடத்துப் பெண்` found four dedicated-pass historical-glyph corrections on scans 33, 43, 46 and 47. The passed assembled Tamil reader preserves those final readings and all source-printed internal headings. Its `PASSED` status does not override the canonical verification freeze.
+The completed whole-work audit of `பெரிய இடத்துப் பெண்` found four dedicated-pass historical-glyph corrections on scans 33, 43, 46 and 47. The passed assembled Tamil reader preserves those final readings and all source-printed internal headings. Its `PASSED` status and the English `VERIFIED` status do not override the canonical verification freeze.
 
 ## பெரிய இடத்துப் பெண் — English translation
 
 Working English title: **The Woman of the Great House**.
 
-All seven source-structured English sections are now **REVIEWED / PASS** at section level:
+All seven source-structured English section files remain **REVIEWED / PASS** at section level:
 
 - [`works/periya-idathup-pen/translations/en/sections/01-opening.md`](works/periya-idathup-pen/translations/en/sections/01-opening.md) — opening, scans 8–15 before `உத்தண்டி`;
 - [`works/periya-idathup-pen/translations/en/sections/02-uthandi.md`](works/periya-idathup-pen/translations/en/sections/02-uthandi.md) — `உத்தண்டி`, scan 15 through scan 19 before `கண்ணம்மா`;
@@ -48,7 +48,9 @@ All seven source-structured English sections are now **REVIEWED / PASS** at sect
 - [`works/periya-idathup-pen/translations/en/sections/06-ulaganathar.md`](works/periya-idathup-pen/translations/en/sections/06-ulaganathar.md) — `உலகநாதர்`, scan 45;
 - [`works/periya-idathup-pen/translations/en/sections/07-kannamma-conclusion.md`](works/periya-idathup-pen/translations/en/sections/07-kannamma-conclusion.md) — final `கண்ணம்மா`, scans 46–49 + separate printer colophon.
 
-Batch 7 preserves the corrected historical forms `நானா ஆள்?` and `விட வேணா?`, the audited final joins, the explicit source statement `கற்பழிக்கப்பட்டாள்`, Kannamma's admissions about the diamond evidence and Kumudha's letter, and the final funeral-pyre/Calcutta sequence. Later Kannamma disclosures are not used to rewrite earlier narrators inside their own sections. No Tamil canonical correction was triggered.
+The final cross-section bilingual alignment is recorded in [`works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md`](works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md) and **PASSED**. Therefore the **whole-work English translation is VERIFIED**.
+
+The final review confirmed full source coverage, source-printed account order, narrator isolation, recurring terminology, page joins/provenance and final narrative/colophon separation. One English-only consistency correction was made: source `ரதி` is now **Rati**, replacing the earlier `Rathi` spelling and matching the translation plan. No Tamil source text changed.
 
 Control records:
 
@@ -62,8 +64,9 @@ Control records:
 - [`works/periya-idathup-pen/translations/en/BATCH_05_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_05_REVIEW.md)
 - [`works/periya-idathup-pen/translations/en/BATCH_06_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_06_REVIEW.md)
 - [`works/periya-idathup-pen/translations/en/BATCH_07_REVIEW.md`](works/periya-idathup-pen/translations/en/BATCH_07_REVIEW.md)
+- [`works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md`](works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md)
 
-Next English activity is the **whole-work bilingual review**. English remains **0/7 verified** until that gate is completed.
+The next English/release activity is a **qualified release-readiness pass** and `RELEASE_REPORT.md`. Because canonical Tamil remains **0 verified / 49 `needs-review`** under the user-mandated freeze, the full archival package must not be described as unqualified release-ready.
 
 ## புதையல் — final release state
 

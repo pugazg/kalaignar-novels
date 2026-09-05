@@ -6,9 +6,9 @@ Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1
 Source pages: **49**  
 Source PDF committed to repository: **No**
 
-Canonical page-level transcription covers **49 / 49 scans**. Dedicated whole-work Tamil source/audit review is **COMPLETE — 49 / 49 directly reviewed**. The assembled Tamil reading layer is **PASSED**. English section-level drafting/source-check/review is now **COMPLETE — 7 / 7 sections; 8 / 8 planned translation batches reviewed**.
+Canonical page-level transcription covers **49 / 49 scans**. Dedicated whole-work Tamil source/audit review is **COMPLETE — 49 / 49 directly reviewed**. The assembled Tamil reading layer is **PASSED**. English drafting/source-check/section review is **COMPLETE — 7 / 7 sections; 8 / 8 planned translation batches reviewed**. The final whole-work bilingual review is **PASSED** and the English translation is **VERIFIED**.
 
-Every canonical Tamil page remains `needs-review` under the user-mandated verification freeze. English review status does not alter canonical Tamil status.
+Every canonical Tamil page remains `needs-review` under the user-mandated verification freeze. English verification does not alter canonical Tamil status.
 
 ## Current gate
 
@@ -23,11 +23,11 @@ Every canonical Tamil page remains `needs-review` under the user-mandated verifi
 | Verification freeze | **ACTIVE** |
 | Assembled Tamil | **PASSED — 7 files / scans 8–49 narrative** |
 | English translation plan | **COMPLETE** |
-| English drafted | **7 / 7 sections** |
-| English source-checked | **7 / 7 sections** |
-| English reviewed | **7 / 7 sections** |
-| English verified | **0 / 7 sections** |
+| English section files | **7 / 7 complete and reviewed** |
 | Translation batches reviewed | **8 / 8** |
+| Final bilingual review | **PASSED** |
+| Whole-work English status | **VERIFIED** |
+| Release report | **not yet created** |
 
 ## Control records
 
@@ -51,6 +51,7 @@ English:
 - [`translations/en/BATCH_05_REVIEW.md`](translations/en/BATCH_05_REVIEW.md)
 - [`translations/en/BATCH_06_REVIEW.md`](translations/en/BATCH_06_REVIEW.md)
 - [`translations/en/BATCH_07_REVIEW.md`](translations/en/BATCH_07_REVIEW.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 
 ## Historical-glyph rule
 
@@ -119,36 +120,37 @@ Narrative ends at `...எங்களிடம் வரவேண்டும்
 6. `translations/en/sections/06-ulaganathar.md` — **REVIEWED / PASS**.
 7. `translations/en/sections/07-kannamma-conclusion.md` — **REVIEWED / PASS**.
 
-Narrator isolation is mandatory across the English layer. Contradictions are preserved as differences between speakers rather than harmonised. Kumudha's coercion/violation account remains hers; Veeran's contradictory interpretation remains his; Ulaganathar's self-justification remains his; Kannamma's later disclosures remain new testimony in the final section.
+The section files retain their batch-level `reviewed` state. Whole-work **VERIFIED** is the result of the cross-section alignment recorded in `translations/en/TRANSLATION_REVIEW.md`.
 
-## English Batch 07 audit — final Kannamma
+## Final bilingual review — PASS
 
-Source: scans **46–49 / printed pages 45–48**.
+The whole-work review checked the seven English sections end to end against the passed assembled Tamil and canonical source-compared page layer.
 
-Checks completed:
+Confirmed:
 
-- complete final Kannamma account represented;
-- Ahalya/Tara/Parvati/Brahma rhetoric preserved as Kannamma's argument without outside expansion;
-- source `கற்பழிக்கப்பட்டாள்` translated directly as **“was raped”**;
-- historical corrections `நானா ஆள்?` and `விட வேணா?` reflected in English;
-- joins `காரணமாயிருந்தேன்!`, `எழுதியிருந்தாள்.` and `ஒரு பெரிய ஜோதி நிரந்தரமாக...` preserved with provenance;
-- concealment of diamond evidence, destruction of Kumudha's letter, departure with Veeran, Calcutta life, funeral-pyre sequence and final Indra/Indrani/Rathi/Manmatha boast represented;
-- final narrative ending retained before separate printer colophon;
-- source-specific `வக்குப் பேதி` kept as `vakkup-bethi` rather than silently normalized;
-- no Tamil canonical correction required.
+- no substantive omission or duplication;
+- correct source-printed section ordering and scan-15/scan-19 mid-page transitions;
+- narrator isolation preserved across Uthandi, Kannamma, Kumudha, Veeran and Ulaganathar;
+- Veeran's contradictory interpretation is not silently corrected from Kumudha or later Kannamma evidence;
+- Ulaganathar's self-justifying account remains his viewpoint;
+- stable names, `Aththan`, `Anni`, `talaiyari`, Calcutta and class/debt vocabulary;
+- controlled `கற்பு`, `விபசாரி`, `வேசி`, `சீதனம்`, `எஜமான் / எஜமானி` and coercion language;
+- final Kannamma `கற்பழிக்கப்பட்டாள்` remains directly translated as “was raped”;
+- mythological/religious allusions remain source-bound;
+- difficult Tamil forms are cautiously rendered/documented, not normalized;
+- reversible HTML provenance and established physical-page joins remain intact;
+- final narrative ending remains separate from the printer colophon.
 
-**Batch 07 English: REVIEWED / PASS; not final verified.**
+The final review found one English romanisation inconsistency: scan-49 `ரதி` had appeared as **Rathi**. It is corrected to **Rati**, matching `TRANSLATION_PLAN.md`. Tamil is unchanged.
 
-## Exact next activity
+No new Tamil canonical correction was required.
 
-Perform the **whole-work bilingual review** across English Sections 01–07 against the passed assembled Tamil and canonical page records. Required checks:
+# VERDICT: ENGLISH TRANSLATION VERIFIED
 
-- complete narrative coverage and no duplication/omission;
-- source-printed section order and transitions;
-- narrator isolation and contradiction handling;
-- recurring names, kinship, class/debt, moral/sexual, religious and mythological terminology;
-- punctuation, paragraphing and reversible page provenance;
-- all established physical-page joins;
-- final narrative ending and separate printer colophon.
+The English translation of **_The Woman of the Great House_ / `பெரிய இடத்துப் பெண்`** is whole-work **VERIFIED** against the completed source-compared Tamil archival layer.
 
-Do **not** promote English sections to `verified` until that whole-work review passes. Canonical Tamil remains **0 verified / 49 `needs-review`** under the active freeze.
+This English status does not override the canonical Tamil freeze, normalize difficult Tamil forms, or claim external historical verification.
+
+## Next activity
+
+Create `translations/en/RELEASE_REPORT.md` and perform a release-readiness pass. Because canonical Tamil remains **0 verified / 49 `needs-review`** under the active user-mandated freeze, the report must explicitly carry that qualification and must not describe the whole archival package as unqualified release-ready unless the freeze is later changed.

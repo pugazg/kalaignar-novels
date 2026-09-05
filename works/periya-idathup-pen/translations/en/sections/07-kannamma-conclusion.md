@@ -38,7 +38,7 @@ The terrifying howl of a jackal reached the highest pitch of sorrow. It seemed t
 
 Kumudha lies there; now hear about us. The train we boarded set off toward Calcutta.
 
-One word about our Calcutta life! Devotees are complete fools. Why think one must go somewhere to see Indra's realm, idiots! Let them come and see that our house in Calcutta is an Indra-world! I am Indrani! Veeran is Indra! Rathi and Manmatha should come to us for lessons, you know?
+One word about our Calcutta life! Devotees are complete fools. Why think one must go somewhere to see Indra's realm, idiots! Let them come and see that our house in Calcutta is an Indra-world! I am Indrani! Veeran is Indra! Rati and Manmatha should come to us for lessons, you know?
 
 <!-- separate printed printer colophon; not narrative -->
 Sri Magal Press, Chennai-1

@@ -7,7 +7,7 @@ Tamil assembled source: `../../sections/07-kannamma-conclusion.md`
 Canonical authority: `../../pages/0046-periya-idathup-pen-39.md` through `../../pages/0049-periya-idathup-pen-42.md`  
 Source coverage: **scans 46–49 / printed pages 45–48 — complete final `கண்ணம்மா` account plus separate printer colophon**.
 
-Review state: **REVIEWED**. This is not final whole-work `verified` status.
+Review state: **REVIEWED**. This is a section/batch review; whole-work status is determined separately in `TRANSLATION_REVIEW.md`.
 
 ## Source-completeness check
 
@@ -24,7 +24,7 @@ Result:
 - Kannamma's explanation of how she engineered Veeran's view of Ulaganathar and Kumudha, concealed the diamond evidence and prevented Veeran from learning the truth represented;
 - Kumudha's letter, Kannamma's destruction of it and her claim that she now controls Veeran represented;
 - departure with Veeran, the roughly ten-thousand-rupee amount, cart journey and Calcutta destination represented;
-- Kumudha's funeral pyre, jackal howl, train departure and final Indra/Indrani/Rathi/Manmatha boast represented;
+- Kumudha's funeral pyre, jackal howl, train departure and final Indra/Indrani/Rati/Manmatha boast represented;
 - final narrative ending preserved before the separate printer colophon;
 - printer colophon retained separately as `Sri Magal Press, Chennai-1`;
 - no text is omitted or duplicated.
@@ -69,6 +69,10 @@ Result: **PASS**.
 9. `கடகட` — retained as **“kadakada”** in the cart-rattle image.
 10. final `இந்திர லோகம் / இந்திராணி / இந்திரன் / ரதி / மன்மதன்` imagery is translated only to the extent stated in the source.
 
+## Post-batch whole-work consistency correction
+
+During the final bilingual review, scan-49 `ரதி` was standardized from the earlier English **Rathi** to **Rati**, matching the locked romanisation in `TRANSLATION_PLAN.md`. This is an English-only consistency correction; Tamil is unchanged.
+
 ## Tamil-layer integrity
 
 Canonical state remains:
@@ -82,8 +86,8 @@ Canonical state remains:
 
 **BATCH 07 / ENGLISH SECTION 07 — REVIEWED / PASS.**
 
-All planned English prose batches are now drafted, source-checked and reviewed, but none is promoted to final `verified` status yet.
+All planned English prose batches are drafted, source-checked and reviewed. Whole-work bilingual status is recorded separately in `TRANSLATION_REVIEW.md`.
 
 ## Next activity
 
-Perform the **whole-work bilingual review** across English Sections 01–07 against the passed assembled Tamil and canonical page layer. Check narrator-boundary consistency, recurring terminology, punctuation/provenance, final section transitions and complete-work coverage. Only after that review should any English `verified` decision be made.
+The final bilingual review has now passed. Proceed to the qualified release-readiness stage and create `RELEASE_REPORT.md`, while keeping the canonical Tamil verification freeze unchanged.
