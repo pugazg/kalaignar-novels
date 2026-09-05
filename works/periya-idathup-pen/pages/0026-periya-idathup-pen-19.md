@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
-transcription_method: "direct visual comparison with enlarged source scan"
+transcription_method: "direct visual comparison with enlarged source scan; historical-glyph re-audit performed for this scan"
 ---
 
 யில்லை. என் உடம்பில் ஏதாவது கூச்சம் இருந்தால் தானே! என் மனசுதான் மறத்துப் போய்விட்டதே!
@@ -22,11 +22,26 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 சாதாரண வேளையிலேயே என் நாயகரைப் பார்க்க ஆயிரங் கண்கள் வேண்டும். அதுவும் இந்த நிலையி
 
+## Historical-glyph re-audit — scan 26
+
+The complete printed page was re-read at enlarged/high resolution against the full 13-form historical reference.
+
+Positive historical-form occurrences checked include:
+
+- opening `யில்லை`, `அசையவில்லை`, `ஒன்றுமில்லை`, `சரியில்லை`, `நிலையிலே`, and final `நிலையி` — historical `லை` occurrences;
+- `வேளையிலேயே` — historical `ளை`;
+- `என்னைக்`, `எத்தனையோ`, `சிந்தனை` — historical `னை`.
+
+All of these were already encoded with the correct modern Unicode identities. No historical-glyph or independent source-text correction was required on this scan.
+
+Opening `யில்லை.` completes scan 25's final `கவலை` as `கவலையில்லை.`. Final `நிலையி` continues into scan 27.
+
+This page remains `needs-review` and is not marked verified.
+
 ## Scan observations
 
 - visible printed page number: **25**.
 - opening `யில்லை.` completes scan 25's final `கவலை`, establishing `கவலையில்லை.` across the physical page boundary.
-- source-specific forms remain subject to the reopened historical-glyph audit.
 - final `நிலையி` continues onto scan 27.
 
 <!-- மூல ஸ்கேன் பக்கம்: 26; அச்சுப் பக்கம்: 25 -->
