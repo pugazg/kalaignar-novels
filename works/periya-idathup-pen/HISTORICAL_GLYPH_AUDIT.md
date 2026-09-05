@@ -2,9 +2,9 @@
 
 ## Status
 
-**RETROSPECTIVE PASS COMPLETE; glyph-aware first-pass complete; dedicated whole-work source re-audit COMPLETE through scan 49; verification freeze remains active.**
+**COMPLETE — retrospective pass, glyph-aware first pass and dedicated whole-work source re-audit all complete; verification freeze remains active.**
 
-The retrospective page-by-page pass over scans **1–27** is complete. Canonical scans **28–49** were transcribed with historical-glyph checks applied before entry. The later dedicated whole-work source audit has now directly rechecked **all 49 / 49 scans**. All canonical records remain `needs-review`.
+The retrospective page-by-page pass over scans **1–27** is complete. Canonical scans **28–49** were transcribed with historical-glyph checks applied before entry. The later dedicated whole-work source audit directly rechecked **all 49 / 49 scans**. All canonical records remain `needs-review` only because the explicit verification freeze remains in force.
 
 Reusable procedure: [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md).
 
@@ -45,12 +45,14 @@ The final four corrections were discovered in the dedicated whole-work source pa
 | 12 | 11 | `பயப்பட்டது போல -` | `பயப்பட்டதுபோல -` |
 | 19 | 18 | `செக்கச் செவேலென்றோன்றின.` | `செக்கச் செவேலென்றேதோன்றின.` |
 
+The dedicated whole-work pass added **no further independent lexical/source-text correction** beyond those already established; its four new changes were historical-character identity corrections listed above.
+
 ## Coverage checkpoint
 
 - scans **1–27**: retrospective historical-glyph pass complete;
 - scans **28–49**: glyph-aware first-pass transcription complete;
 - scans **1–49**: dedicated whole-work source re-audit complete;
-- all canonical pages remain `needs-review`.
+- all canonical pages remain `needs-review` under the explicit freeze.
 
 ## Dedicated whole-work source audit interaction
 
@@ -71,7 +73,7 @@ The final batch also reconfirmed source-sensitive forms such as scan 47 `வக�
 
 ## Audit rule
 
-For any future correction or re-review:
+For any future correction or explicit re-review:
 
 1. inspect complete glyph clusters at enlarged/native resolution;
 2. check all 13 known historical forms explicitly;
@@ -80,9 +82,9 @@ For any future correction or re-review:
 5. encode only the proven modern Unicode identity;
 6. do not normalize wording, grammar, punctuation or vocabulary;
 7. never global-replace;
-8. keep the page `needs-review` under the active verification freeze.
+8. keep the page `needs-review` under the active verification freeze unless the user explicitly changes that policy.
 
-## Gate consequence
+## Final gate consequence
 
 - canonical records: **49 / 49**;
 - dedicated full-source audit: **COMPLETE — 49 / 49 directly reviewed**;
@@ -90,9 +92,12 @@ For any future correction or re-review:
 - `needs-review`: **49**;
 - verification freeze: **ACTIVE**;
 - Tamil source-comparison audit: **COMPLETE**;
-- assembled Tamil: **ready as next phase / not started**;
-- English translation: **blocked pending assembled Tamil**.
+- assembled Tamil: **PASSED**;
+- whole-work English: **VERIFIED**;
+- release-readiness: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
 
-## Exact next activity
+## Subsequent completion state
 
-Build the assembled Tamil reading layer from the canonical page records while preserving reversible source provenance and the active page-status freeze. Only positively established physical page-boundary fragments may be joined. Do not begin English translation until the assembled Tamil layer completes its own consistency audit.
+The assembled Tamil reader was built and passed; English planning, all eight translation batches, final bilingual review and qualified release-readiness review were subsequently completed. See [`ASSEMBLED_TAMIL_AUDIT.md`](ASSEMBLED_TAMIL_AUDIT.md), [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md), [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md), and [`COMPLETION_SYNC_AUDIT.md`](COMPLETION_SYNC_AUDIT.md).
+
+No further historical-glyph audit is mandatory for this source edition under the current instructions. The canonical freeze remains **0 verified / 49 `needs-review`** and must not be lifted automatically.
