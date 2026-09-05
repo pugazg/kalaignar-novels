@@ -19,7 +19,7 @@ This audit is **open**. Canonical transcription exists through scan 27, but hist
 | `needs-review` | **27 — scans 1–27** |
 | `partial` | **0** |
 | `not-started` | **22 — scans 28–49** |
-| Historical-glyph retrospective audit | **OPEN — 6 / 27 reviewed; scans 1–6** |
+| Historical-glyph retrospective audit | **OPEN — 7 / 27 reviewed; scans 1–7** |
 | Tamil source layer | **NOT PASSED** |
 | Assembled Tamil | **BLOCKED** |
 | English translation | **BLOCKED** |
@@ -45,7 +45,8 @@ Decode historical character identity into modern Unicode only after direct sourc
 
 - scan 4: `சமூகத்தின்` → `சமுதாயத்தின்`;
 - scan 5: `அற்பிய` → `அரும்பிய`;
-- scan 5: `சமூகமும்` → `சமுதாயம்`.
+- scan 5: `சமூகமும்` → `சமுதாயம்`;
+- scan 7 / printed 6: `உள்ளங்களை` → `உள்ளங்களே`.
 
 ## Retrospective audit progress
 
@@ -55,18 +56,23 @@ Decode historical character identity into modern Unicode only after direct sourc
 - **Scan 4:** complete; six historical-form occurrences confirmed; one independent lexical correction.
 - **Scan 5:** complete; four historical-form occurrences confirmed; two independent lexical corrections.
 - **Scan 6:** complete; five historical-form occurrences confirmed and already encoded correctly; no independent text correction.
+- **Scan 7:** complete; seven historical-form occurrences confirmed; one independent line-break/source-text correction.
 
-### Scan 6 detail
+### Scan 7 detail
 
 Positive historical-form occurrences:
 
-- `கருணாநிதி` → `ணா`;
-- `நிலையில்` → `லை`;
-- `இல்லை` → `லை`;
-- `அதனால்` → `னா`;
-- `கற்பனைதான்` → `னை`.
+- `வெள்ளை` → `ளை`;
+- `விற்பனையாவதிலிருந்து` → `னை`;
+- `மலை` → `லை`;
+- `இன்னொரு` → `னொ`;
+- `மூலை` → `லை`;
+- `போகிறாள்` → `றா`;
+- `முன்னிலையில்` → `லை`.
 
-Source-supported `வனிதையர்களின்`, `வாலிபக் கிழங்களோடு`, `புரையோடிக்கொண்டிருக்கும்`, and punctuation `நம்முன். காட்சியளிக்கத்தான்` were rechecked and retained. Scan 6 remains `needs-review`.
+All seven were already encoded with their correct modern Unicode identities. The direct enlarged source review also showed that the first paragraph ends with source `உள்ளங்` + `களே`; the canonical reading has therefore been corrected from `உள்ளங்களை` to **`உள்ளங்களே`**. Scan 7 remains `needs-review`.
+
+Source-supported `மாசு மருவற்ற`, `விற்பனையாவதிலிருந்து`, `வெள்ளிடை மலை!`, `திரைக் கதையாக`, punctuation `போகிறாள், என்பதை`, and `என்று உங்கள்,` were rechecked and retained.
 
 ## Existing transcription coverage
 
@@ -82,4 +88,4 @@ The source continues as one work, `பெரிய இடத்துப் ப�
 
 ## Next activity
 
-Audit **scan 7 only**. Inspect the full page at enlarged/high resolution against all 13 historical forms, make only pixel-supported corrections, record the findings, and keep scan 7 `needs-review`. Do not advance to scan 8 in the same activity.
+Audit **scan 8 only**. Inspect the full page at enlarged/high resolution against all 13 historical forms, make only pixel-supported corrections, record the findings, and keep scan 8 `needs-review`. Do not advance to scan 9 in the same activity.
