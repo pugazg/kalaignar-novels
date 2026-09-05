@@ -31,6 +31,8 @@ The chart is a decoding reference, not permission to modernize spelling, grammar
 | 5 | — | `அற்பிய` | `அரும்பிய` | lexical/source-text correction |
 | 5 | — | `சமூகமும்` | `சமுதாயம்` | lexical/source-text correction |
 | 7 | 6 | `உள்ளங்களை` | `உள்ளங்களே` | line-break/source-text correction |
+| 12 | 11 | `தாவும்போது பயப்பட்ட பூனை` | `தாவும்போது பயப்படாத பூனை` | lexical/source-text correction |
+| 12 | 11 | `பயப்பட்டது போல -` | `பயப்பட்டதுபோல -` | source-word/spacing correction |
 
 ## Retrospective pass progress
 
@@ -39,59 +41,49 @@ The chart is a decoding reference, not permission to modernize spelling, grammar
 | 1 | — | complete | no correction | `needs-review` |
 | 2 | — | complete | no source-work print; later label checked, no correction | `needs-review` |
 | 3 | — | complete | `லை / னை / னா` occurrences already encoded correctly | `needs-review` |
-| 4 | — | complete | six historical-form occurrences confirmed; `சமூகத்தின்` → `சமுதாயத்தின்` | `needs-review` |
+| 4 | — | complete | six historical-form occurrences confirmed; one lexical correction | `needs-review` |
 | 5 | — | complete | four historical-form occurrences confirmed; two lexical corrections | `needs-review` |
 | 6 | — | complete | five historical-form occurrences confirmed; no text correction | `needs-review` |
-| 7 | 6 | complete | seven historical-form occurrences confirmed; `உள்ளங்களை` → `உள்ளங்களே` | `needs-review` |
+| 7 | 6 | complete | seven historical-form occurrences confirmed; one source-text correction | `needs-review` |
 | 8 | — | complete | nine historical-form occurrences confirmed; no text correction | `needs-review` |
+| 9 | 8 | complete | eleven historical-form occurrences checked; no text correction | `needs-review` |
+| 10 | 9 | complete | historical `றா` in `என்றான்` plus other forms checked; no text correction | `needs-review` |
+| 11 | 10 | complete | `னா / னை / லை / ளை` forms checked; no text correction | `needs-review` |
+| 12 | 11 | complete | historical forms encoded correctly; two independent text corrections | `needs-review` |
+| 13 | 12 | complete | `ணை / னை / னா / லை` forms checked; no text correction | `needs-review` |
 
-### Scan 1
+### Scans 1–8
 
-Cover checked against the complete 13-form reference. No conversion or text correction required.
+Earlier one-page findings remain authoritative in their canonical page records. Confirmed historical-typeform decoding through scan 8 includes examples such as `ஜூலை`, `விற்பனை`, `கருணாநிதி`, `போகிறாள்`, and `நினைத்தவாறே`. Independent corrections through scan 8 are recorded in the table above. All scans remain `needs-review`.
 
-### Scan 2
+### Scan 9 / printed page 8
 
-No original 1953 source-work print is present. The later printed gift label was checked against the complete reference; no conversion required. Handwriting remains copy-specific and outside canonical source-work text.
+The complete page was re-read at enlarged/high resolution. Positive historical-form occurrences checked include `ஊஞ்சலை` (`லை`), `உந்தலினால்` (`னா`), `கண்ணம்மாளைக்` (`ளை`), `இல்லை` (`லை`), `ஆனாலும்` (`னா`), `வேதனையைக்` (`னை`), `கருணை` (`ணை`), `அவளைத்` (`ளை`), `தூக்கினார்` (`னா`), `கூட்டினால்` (`னா`), and the final `அவளை` (`ளை`). All were already encoded correctly. No text correction required.
 
-### Scan 3
+### Scan 10 / printed page 9
 
-Positive historical forms already encoded correctly: `ஜூலை` (`லை`), `விலை` (`லை`), `விற்பனை` (`னை`), `சைனா` (`னா`), `சென்னை` (`னை`).
+The complete page was re-read at enlarged/high resolution. Historical forms checked include `பேசாமலில்லை` (`லை`), four occurrences of `ஆனால்` (`னா`), `மாட்டினான்` (`னா`), `விசாரணைக்கு` (`ணை`), `போகவில்லை` (`லை`), `பூனை` (`னை`), `என்றான்` (`றா`), `குறையவில்லை` (`லை`), `நிலை` (`லை`), `சோதிக்கநினைப்பதில்லை` (`னை` + `லை`), and `கருதத்தானில்லை` (`லை`). The old `றா` shape in `என்றான்` was checked specifically against the user-supplied chart. No correction required.
 
-### Scan 4
+### Scan 11 / printed page 10
 
-Positive historical forms already encoded correctly: `தலையிடுவது` (`லை`), `பார்ப்பதில்லை` (`லை`), `ஆனால்` (`னா`), `எத்தனையோ` (`னை`), `ஆனாலும்` (`னா`), `கருணாநிதி` (`ணா`). Independent correction: `சமூகத்தின்` → `சமுதாயத்தின்`.
+Historical forms checked include three `ஆனால்` (`னா`) occurrences, `வீரனைக்` (`னை`), `காணவில்லையே` (`லை`), two `மாடுகளை` (`ளை`) occurrences, `காளை` (`ளை`), `வெதறலைத்` (`லை`), and `மனவேதனையைக்` (`னை`). All were already encoded correctly. No independent text correction required. The final `கிடப்ப` remains a physical continuation into scan 12.
 
-### Scan 5
+### Scan 12 / printed page 11
 
-Positive historical forms already encoded correctly: `அதினைச்` (`னை`), `அதினை` (`னை`), `கருத்துக்களைத்` (`ளை`), `மூலை` (`லை`). Independent corrections: `அற்பிய` → `அரும்பிய`; `சமூகமும்` → `சமுதாயம்`. Source-specific `விலாவொடியப்`, `ஏற்பட்டச்`, and `அவர்கட்கு` retained.
+Historical forms checked include `அணைப்பு` (`ணை`), two `ஆனால்` (`னா`) occurrences, `பூனை` (`னை`), `துளைத்தபோது` (`ளை`), `நிலை` (`லை`), `பின்னால்` (`னா`), `நினைத்தாள்` (`னை`), `நினைப்பு` (`னை`), `பேனா` (`னா`), and `இல்லையே` (`லை`). These historical identities were already encoded correctly.
 
-### Scan 6
+Two independent transcription errors were corrected directly from the enlarged source:
 
-Positive historical forms already encoded correctly: `கருணாநிதி` (`ணா`), `நிலையில்` (`லை`), `இல்லை` (`லை`), `அதனால்` (`னா`), `கற்பனைதான்` (`னை`). No independent text correction required. Source-supported `வனிதையர்களின்`, `வாலிபக் கிழங்களோடு`, `புரையோடிக்கொண்டிருக்கும்`, and `நம்முன். காட்சியளிக்கத்தான்` retained.
+- `தாவும்போது பயப்பட்ட பூனை` → **`தாவும்போது பயப்படாத பூனை`**;
+- `பயப்பட்டது போல -` → **`பயப்பட்டதுபோல -`**.
 
-### Scan 7
+The source-supported corrected sequence is `உறியில் தாவும்போது பயப்படாத பூனை உறியை அடைந்ததும் பயப்பட்டதுபோல - சுவரைத் துளைத்தபோது...`.
 
-Positive historical forms already encoded correctly: `வெள்ளை` (`ளை`), `விற்பனையாவதிலிருந்து` (`னை`), `மலை` (`லை`), `இன்னொரு` (`னொ`), `மூலை` (`லை`), `போகிறாள்` (`றா`), `முன்னிலையில்` (`லை`). Direct enlarged inspection showed source `உள்ளங்` + `களே`, so `உள்ளங்களை` was corrected to **`உள்ளங்களே`**. Source-supported punctuation and wording were retained.
+### Scan 13 / printed page 12
 
-### Scan 8
+Historical forms checked include `பண்ணையில்` (`ணை`), `வேலை` (`லை`), `தலையாரி` (`லை`), `விலை` (`லை`), `இல்லை` (`லை`), `போனால்` (`னா`), `நினைத்துவிட்டார்` (`னை`), `நினைத்துவிட்டதாகக்` (`னை`), `தன்னைக்` (`னை`), `அறியவில்லை` (`லை`), `கற்சிலை` (`லை`), `கருத்துமில்லை` (`லை`), and `கவனிப்புமில்லை` (`லை`). All were already encoded correctly. No independent text correction required.
 
-The first narrative page was re-read in full at enlarged/high resolution.
-
-Positive historical forms already encoded correctly:
-
-- `நினைத்தவாறே` — `றா`;
-- `வேலை` — `லை`;
-- `தோன்றவில்லை` — `லை`;
-- `தோள்களை` — `ளை`;
-- `விழவில்லை` — `லை`;
-- `சிந்தனையைச்` — `னை`;
-- `லீலைகள்` — `லை`;
-- `ஆனால்` — `னா`;
-- `திருப்பினாள்` — `னா`.
-
-No historical-glyph conversion or independent text correction was required. Source-supported `வேலை யெல்லாம்`, `அணிச்சக்`, `இதயப் படுதாவில்`, `ஊர்க் கடைசியிலுள்ள`, the dotted pause before `இருக்கீங்க?`, and the paragraph structure were retained unchanged.
-
-**Progress: 8 / 27 existing canonical scans reviewed; scans 9–27 pending.** All reviewed pages remain `needs-review`.
+**Progress: 13 / 27 existing canonical scans reviewed; scans 14–27 pending.** All reviewed pages remain `needs-review`.
 
 ## Audit rule
 
@@ -111,7 +103,7 @@ The 13-form chart is a minimum known reference set; remain alert for other legac
 ## Gate consequence
 
 - canonical records: **27 / 49**;
-- retrospective historical-glyph pass: **8 / 27 — scans 1–8**;
+- retrospective historical-glyph pass: **13 / 27 — scans 1–13**;
 - `verified`: **0**;
 - `needs-review`: **27 — scans 1–27**;
 - `partial`: **0**;
@@ -122,4 +114,4 @@ The 13-form chart is a minimum known reference set; remain alert for other legac
 
 ## Exact next activity
 
-Audit **scan 9 only** next. Inspect the whole scan at enlarged/high resolution against the complete 13-form reference, make only pixel-supported corrections, record the result, keep scan 9 `needs-review`, and stop.
+Audit **scans 14–18 / printed pages 13–17** next as a five-page batch. Inspect each page independently at enlarged/high resolution against the complete 13-form reference, make only pixel-supported corrections, record each result, keep every page `needs-review`, and stop after scan 18.
