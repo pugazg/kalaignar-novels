@@ -2,9 +2,9 @@
 
 ## Status
 
-**RETROSPECTIVE PASS COMPLETE — glyph-aware first-pass transcription active through scan 47; verification freeze remains active.**
+**RETROSPECTIVE PASS COMPLETE — glyph-aware first-pass transcription complete through scan 49; verification freeze remains active.**
 
-The retrospective pass over scans **1–27** is complete. New canonical scans **28–47** were transcribed with historical-glyph checks applied before entry. All canonical records remain `needs-review`; no page may be marked `verified` unless the user explicitly changes that policy.
+The retrospective page-by-page pass over scans **1–27** is complete. Canonical scans **28–49** were transcribed with historical-glyph checks applied before entry. All **49 / 49** canonical records remain `needs-review`; no page may be marked `verified` unless the user explicitly changes that policy.
 
 Reusable repository-level procedure: [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md).
 
@@ -41,51 +41,43 @@ The chart is a decoding reference, not permission to modernize spelling, grammar
 | 12 | 11 | `பயப்பட்டது போல -` | `பயப்பட்டதுபோல -` | source-word/spacing correction |
 | 19 | 18 | `செக்கச் செவேலென்றோன்றின.` | `செக்கச் செவேலென்றேதோன்றின.` | direct source-text correction |
 
-## Retrospective pass checkpoint — scans 1–27
+## Coverage checkpoint
 
-The retrospective page-by-page pass is **27 / 27 COMPLETE**. All those pages remain `needs-review`.
+- scans **1–27**: retrospective historical-glyph pass complete;
+- scans **28–49**: glyph-aware first-pass transcription complete;
+- all canonical pages remain `needs-review`.
 
-## Glyph-aware first-pass coverage — scans 28–42
+### Final batch — scans 48–49
 
-Scans 28–42 were inspected at enlarged/high resolution and transcribed only after applying the complete 13-form check. Directly confirmed internal headings in that span include `குமுதா` (scan 32) and `வீரன்` (scan 38). No page was marked verified.
+- **scan 48 / printed 47:** `லை / னை` families checked in `விடவில்லை`, `வேலையில்`, `கவலை`, `என்னைச்`, `அவனைச்`; scan 47 `எழுதி` + scan 48 `யிருந்தாள்.` → `எழுதியிருந்தாள்.`; source-specific `வேசின்` and `தத்தம்` retained.
+- **scan 49 / printed 48:** `லை / ளை / னை` families checked in `நிலையத்தை`, `கேளுங்கள்` and related clusters; scan 48 `ஒரு பெரிய` + scan 49 `ஜோதி நிரந்தரமாக...`; source-specific `அழுக்குப்பட்டு`, `உச்ச ஸ்தாயியை`, `போகவேண்டு மென்னிருக்கலே`, and `பாடங்` retained; printer colophon directly read as `ஸ்ரீமகள் அச்சகம், சென்னை-1`.
 
-## Glyph-aware first-pass coverage — scans 43–47
+No post-entry historical-glyph correction was required in scans 28–49 because character identities were decoded during first transcription.
 
-- **scan 43 / printed 42:** `ளை / னை / லை` families checked; source-specific `போக்கியதைப்`, `ஒடித் தெரியத்`, `இளிச்சவாயனுக`, and `தண்டன்` retained. Final `கடவுள்` continues onto scan 44.
-- **scan 44 / printed 43:** opening `பொறுப்பாரா?` resolves `கடவுள் பொறுப்பாரா?`; `கொலைகாரி`, `கல்யாணம்`, `என்னை` and related historical families checked.
-- **scan 45 / printed 44:** internal heading `உலகநாதர்` directly confirmed; `லை / ளை / னை / னா` families checked before entry.
-- **scan 46 / printed 45:** internal heading `கண்ணம்மா` directly confirmed; `ளை / னை / லை / ணை` families checked; source-specific `நானு ஆள்?` retained. Final `காரண` remains a physical split.
-- **scan 47 / printed 46:** opening `மாயிருந்தேன்!` establishes `காரணமாயிருந்தேன்!`; historical families checked in `வைரத்தைத்`, `கவலைப்படவில்லை` and related clusters; source-specific `வக்குப் பேதி`, `அவமானந்`, `கல்மனங்`, `விட வேணு?` retained. Final `எழுதி` remains unresolved until scan 48.
+## Audit rule
 
-No separate post-entry historical-glyph correction was required in scans 43–47 because character identities were decoded before transcription.
-
-## Audit rule — mandatory for every remaining new page
-
-For every page:
+For any future correction or re-review in this work:
 
 1. inspect complete glyph clusters at enlarged/native resolution;
 2. check all 13 known historical forms explicitly;
 3. identify character identity rather than copying apparent modern shape;
 4. compare same-edition occurrences where useful;
-5. encode the proven identity in modern Unicode;
-6. do not normalize anything beyond proven glyph identity;
-7. join ordinary within-page printed line-wrap fragments, but preserve physical page-boundary splits in page records;
-8. correct an independent transcription mismatch only with positive source-pixel support and record it separately;
-9. keep the page `needs-review` under the current user-mandated verification freeze.
+5. encode only the proven modern Unicode identity;
+6. do not normalize wording, grammar, punctuation or vocabulary;
+7. never global-replace;
+8. keep the page `needs-review` under the current verification freeze.
 
 ## Gate consequence
 
-- canonical records: **47 / 49**;
-- retrospective historical-glyph pass on scans 1–27: **27 / 27 — COMPLETE**;
-- glyph-aware new-page coverage: **scans 28–47 complete**;
+- canonical records: **49 / 49**;
 - `verified`: **0**;
-- `needs-review`: **47 — scans 1–47**;
+- `needs-review`: **49**;
 - `partial`: **0**;
-- `not-started`: **2 — scans 48–49**;
+- `not-started`: **0**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil: **blocked**;
 - English translation: **blocked**.
 
 ## Exact next activity
 
-Transcribe **scans 48–49 / printed pages 47–48** as the final source-first batch. Resolve scan 47's trailing `எழுதி` only from scan 48, inspect scan 49's narrative ending and printer colophon directly, apply the complete historical-glyph rule, keep both pages `needs-review`, synchronize status documents, and stop.
+Run a dedicated **full Tamil source/audit review** over the completed 49-page canonical layer. Focus on source-sensitive words, historical-glyph consistency, page joins and structure. Do not mark pages verified under the current user instruction and do not proceed to assembled Tamil or English.
