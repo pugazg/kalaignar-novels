@@ -39,19 +39,20 @@ Determine character identity from source pixels and encode that identity in mode
 
 - scans **1–27**: retrospective historical-glyph audit complete;
 - scans **28–49**: glyph-aware first-pass transcription complete;
-- confirmed corrections include `ஆவலைக்`, `நின்றார்`, `போகிறாயே`, the `நன்றாக` family, `விழுவேன் என்றானா?`, and `வேலை மட்டுந்தானா?`;
+- confirmed historical corrections now include `ஆவலைக்`, `நின்றார்`, `போகிறாயே`, the `நன்றாக` family, `விழுவேன் என்றானா?`, `வேலை மட்டுந்தானா?`, and scan-33 **`கண்ணடி` → `கண்ணாடி` (`ணா`)**;
+- the scan-33 correction was newly discovered in the dedicated whole-work audit by direct same-page comparison with `வீணாக்கிக்`;
 - no page is verified.
 
 ## Full canonical coverage checkpoint
 
 Canonical page records exist for **all 49 / 49 scans**.
 
-Final-source boundary findings remain:
+Known final-source boundary findings remain to be rechecked in the final dedicated batch:
 
-- scan 47 `எழுதி` + scan 48 `யிருந்தாள்.` → `எழுதியிருந்தாள்.`;
-- scan 48 `ஒரு பெரிய` + scan 49 `ஜோதி நிரந்தரமாக...` → `ஒரு பெரிய ஜோதி நிரந்தரமாக...`;
-- narrative ends at `...எங்களிடம் வரவேண்டும், தெரியுமா?`;
-- separate printer colophon: `ஸ்ரீமகள் அச்சகம், சென்னை-1`.
+- scan 47 `எழுதி` + scan 48 `யிருந்தாள்.` → **`எழுதியிருந்தாள்.`**;
+- scan 48 `ஒரு பெரிய` + scan 49 `ஜோதி நிரந்தரமாக...` → **`ஒரு பெரிய ஜோதி நிரந்தரமாக...`**;
+- narrative ends at **`...எங்களிடம் வரவேண்டும், தெரியுமா?`**;
+- separate printer colophon: **`ஸ்ரீமகள் அச்சகம், சென்னை-1`**.
 
 ## Dedicated full Tamil source/audit review
 
@@ -59,24 +60,26 @@ Completed:
 
 - **Batch 1 — scans 1–10 / 49**;
 - **Batch 2 — scans 11–20 / 49**;
-- **Batch 3 — scans 21–30 / 49**.
+- **Batch 3 — scans 21–30 / 49**;
+- **Batch 4 — scans 31–40 / 49**.
 
-Current result through scan 30:
+Current result through scan 40:
 
-- no new canonical lexical correction was required in the dedicated full-source pass;
-- no new historical-glyph correction was required;
-- known historical readings on scans 21, 24 and 25 were independently reconfirmed from source pixels;
-- scans 21–30 directly confirm printed pages **20–29**;
-- no internal heading occurs in scans 21–30.
+- new independent lexical/source-text corrections in the dedicated pass: **0**;
+- new historical-glyph corrections in the dedicated pass: **1 — scan 33 `கண்ணடி` → `கண்ணாடி` (`ணா`)**;
+- internal headings `குமுதா` (scan 32) and `வீரன்` (scan 38) were directly reconfirmed in Batch 4;
+- scans 31–40 directly confirm printed pages **30–39**;
+- all other canonical readings in Batch 4 remain source-supported.
 
-Important Batch-3 boundaries:
+Important Batch-4 boundaries:
 
-- scan 21 `காலக்ஷேபங்` + scan 22 `கூட` → `காலக்ஷேபங்கூட`;
-- scan 22 `மட்` + scan 23 `டும்` → `மட்டும்`;
-- scan 24 `‘ஒய்யா` + scan 25 `ரக்` → `‘ஒய்யாரக்`;
-- scan 25 `கவலை` + scan 26 `யில்லை.` → `கவலையில்லை.`;
-- scan 26 `நிலையி` + scan 27 `லேயே` → `நிலையிலேயே`;
-- scan 30 `உலகநாதர் குமுதாவிடம் கொண்டிருக்கும்` + scan 31 `ஆசை வரையில் கூறிவிட்டேன்.` → phrase continuity. Scan 31 was inspected only as the outbound anchor and is not counted as fully reviewed.
+- inbound scan 30 `உலகநாதர் குமுதாவிடம் கொண்டிருக்கும்` + scan 31 `ஆசை வரையில் கூறிவிட்டேன்.` → phrase continuity;
+- scan 33 `சதா` + scan 34 `என் இருதயப் பீடத்திலே...` → phrase continuity;
+- scan 35 `அத` + scan 36 `னுடைய` → **`அதனுடைய`**;
+- scan 36 `தூக்கிச்` + scan 37 `சென்றதாக` → **`தூக்கிச் சென்றதாக`**;
+- scan 37 closes குமுதாவின் signed statement; scan 38 begins internal heading `வீரன்`;
+- scan 39 `ஈரமில்லாத` + scan 40 `தொண்டைக்...` → phrase continuity;
+- scan 40 `தேவையான` + scan 41 `பொருளாகிவிட்டேன்.` → **`தேவையான பொருளாகிவிட்டேன்.`**. Scan 41 was checked only as the outbound anchor and is not counted as fully reviewed.
 
 Detailed record: `works/periya-idathup-pen/FULL_TAMIL_SOURCE_AUDIT.md`.
 
@@ -85,8 +88,8 @@ Detailed record: `works/periya-idathup-pen/FULL_TAMIL_SOURCE_AUDIT.md`.
 - source registration: complete;
 - page map: **49 / 49**;
 - canonical records: **49 / 49**;
-- dedicated full-source audit: **30 / 49 reviewed — IN PROGRESS**;
-- remaining full-source audit coverage: **19 scans — 31–49**;
+- dedicated full-source audit: **40 / 49 reviewed — IN PROGRESS**;
+- remaining full-source audit coverage: **9 scans — 41–49**;
 - `verified`: **0**;
 - `needs-review`: **49**;
 - verification freeze: **ACTIVE**;
@@ -112,17 +115,17 @@ These remain internal textual structure within one continuous work.
 
 ## Exact next activity
 
-Continue the dedicated **full Tamil source/audit review with scans 31–40 / printed pages 30–39**.
+Complete the dedicated **full Tamil source/audit review with scans 41–49 / printed pages 40–48**.
 
 Required focus:
 
-1. compare every canonical page directly against the attached scan;
-2. recheck source-sensitive / unusual lexical readings;
-3. recheck historical-glyph consistency using the reusable guide;
-4. validate the inbound scan 30 → 31 boundary;
-5. confirm internal heading `குமுதா` on scan 32 and `வீரன்` on scan 38;
-6. validate all page-boundary joins through scan 40 and the outbound scan 40 → 41 boundary;
-7. confirm printed-page mapping **30–39**;
+1. compare every remaining canonical page directly against the attached scan;
+2. treat scan 41 as a full page, not merely the previous outbound anchor;
+3. recheck source-sensitive / unusual lexical readings and all 13 historical-glyph families;
+4. confirm internal heading `உலகநாதர்` on scan 45 and `கண்ணம்மா` on scan 46;
+5. validate every physical page-boundary join through scan 49;
+6. explicitly recheck scan 47 `எழுதி` + scan 48 `யிருந்தாள்.` and scan 48 `ஒரு பெரிய` + scan 49 `ஜோதி நிரந்தரமாக...`;
+7. recheck final source-specific forms and printer colophon `ஸ்ரீமகள் அச்சகம், சென்னை-1`;
 8. keep every page `needs-review`;
 9. do **not** mark pages verified, build assembled Tamil sections, or begin English translation.
 

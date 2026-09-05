@@ -19,7 +19,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; historical-glyph coverage complete; verification freeze ACTIVE; 0 verified / 49 `needs-review`; dedicated full Tamil source audit IN PROGRESS — scans 1–30 / 49 reviewed with no new canonical corrections; next scans 31–40; assembled Tamil and English blocked** |
+| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; verification freeze ACTIVE; 0 verified / 49 `needs-review`; dedicated full Tamil source audit IN PROGRESS — scans 1–40 / 49 reviewed; Batch 4 found one historical-glyph correction on scan 33, `கண்ணடி` → `கண்ணாடி` (`ணா`); next/final audit batch scans 41–49; assembled Tamil and English blocked** |
 
 ## Completed works
 
@@ -31,6 +31,8 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 ## Historical Tamil glyph handling
 
 For older Tamil sources, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) before deciding difficult glyphs. Its governing rule is: **identify the historical character identity from source pixels first, then encode that identity in modern Unicode without modernizing the source wording.** The documented minimum Periyar-reform-sensitive set is `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+
+The dedicated whole-work audit of `பெரிய இடத்துப் பெண்` has now demonstrated why the second pass is required: scan 33's earlier `கண்ணடி` was corrected to source-supported `கண்ணாடி` after the historical `ணா` identity was positively established from the printed pixels and same-page comparison with `வீணாக்கிக்`.
 
 ## புதையல் — final release state
 

@@ -26,6 +26,9 @@ The chart is a decoding reference, not permission to modernize wording, spelling
 | 24 | 23 | `நன்றுக` | `நன்றாக` | `றா` |
 | 24 | 23 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` | `றா` |
 | 25 | 24 | `வேலை மட்டுந்தானு?` | `வேலை மட்டுந்தானா?` | `னா` |
+| 33 | 32 | `கண்ணடி` | `கண்ணாடி` | `ணா` |
+
+The scan-33 correction was discovered during the later dedicated full-source audit. The source pixels, compared with same-page `வீணாக்கிக்`, positively establish the historical `ணா` identity. This is character-identity correction, not spelling modernization.
 
 ## Other source-text corrections found during retrospective review
 
@@ -47,20 +50,21 @@ The chart is a decoding reference, not permission to modernize wording, spelling
 
 ## Dedicated whole-work source audit interaction
 
-The later full Tamil source/audit review is separate from this completed glyph pass but continues using the same 13-form rule.
+The later full Tamil source/audit review is separate from the completed retrospective glyph pass but continues using the same 13-form rule.
 
-Current full-source audit checkpoint: **scans 1–30 / 49 directly reviewed**.
+Current full-source audit checkpoint: **scans 1–40 / 49 directly reviewed**.
 
-Independent reconfirmations in the dedicated audit now include:
+Independent reconfirmations in the dedicated audit include:
 
 - scan 14: `ஆவலைக்` (`லை`) and `நின்றார்` (`றா`);
 - scan 16: `போகிறாயே` (`றா`);
 - scan 20: `நன்றாகத்` (`றா`);
 - scan 21: `நன்றாகத்தான்` (`றா`);
-- scan 24: `நன்றாக` and `விழுவேன் என்றானா?` (`றா`, with final historical `னா` also checked);
-- scan 25: `வேலை மட்டுந்தானா?` (`னா`).
+- scan 24: `நன்றாக` and `விழுவேன் என்றானா?` (`றா`, final historical `னா` checked);
+- scan 25: `வேலை மட்டுந்தானா?` (`னா`);
+- scan 33: newly corrected `கண்ணாடி` (`ணா`).
 
-No new historical-glyph correction was discovered in the dedicated audit through scan 30.
+Batch 4 also explicitly rechecked historical `னொ` / `றொ` families in `இன்னொருநாள்` / `மற்றொருநாள்` on scan 39 and found no further identity error.
 
 ## Audit rule
 
@@ -78,7 +82,7 @@ For any future correction or re-review:
 ## Gate consequence
 
 - canonical records: **49 / 49**;
-- dedicated full-source audit: **30 / 49 reviewed — in progress**;
+- dedicated full-source audit: **40 / 49 reviewed — in progress**;
 - `verified`: **0**;
 - `needs-review`: **49**;
 - Tamil source audit: **NOT PASSED — in progress**;
@@ -87,4 +91,4 @@ For any future correction or re-review:
 
 ## Exact next activity
 
-Continue the dedicated **full Tamil source/audit review with scans 31–40 / printed pages 30–39**. Recheck every historical-form occurrence from source pixels, confirm the internal headings `குமுதா` (scan 32) and `வீரன்` (scan 38), and keep all pages `needs-review`.
+Complete the dedicated **full Tamil source/audit review with scans 41–49 / printed pages 40–48**. Recheck every historical-form occurrence from source pixels, including the known final-page source-sensitive forms; confirm internal headings `உலகநாதர்` (scan 45) and `கண்ணம்மா` (scan 46); keep all pages `needs-review`.
