@@ -2,11 +2,13 @@
 
 ## Status
 
-**RETROSPECTIVE PASS COMPLETE — glyph-aware first-pass transcription active through scan 37; verification freeze remains active.**
+**RETROSPECTIVE PASS COMPLETE — glyph-aware first-pass transcription active through scan 42; verification freeze remains active.**
 
-The user identified a systematic transcription risk in this 1953 source: historical/pre-reform Tamil typeforms can be mistaken for modern glyphs by visual resemblance. The retrospective pass over scans **1–27** is complete. New canonical scans **28–37** were transcribed with the same historical-glyph checks applied before entry.
+The user identified a systematic transcription risk in this 1953 source: historical/pre-reform Tamil typeforms can be mistaken for modern glyphs by visual resemblance. The retrospective pass over scans **1–27** is complete. New canonical scans **28–42** were transcribed with the same historical-glyph checks applied before entry.
 
 All canonical records remain `needs-review`; no page may be marked `verified` unless the user explicitly changes that policy.
+
+Reusable repository-level procedure: [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md).
 
 ## User-supplied Periyar reform reference
 
@@ -47,21 +49,21 @@ The scan-25 correction confirms the risk is not limited to old `றா`; histori
 
 The retrospective page-by-page pass is **27 / 27 COMPLETE**. All those pages remain `needs-review`.
 
-## Glyph-aware first-pass coverage — scans 28–32
+## Glyph-aware first-pass coverage — scans 28–37
 
-These five pages were transcribed only after the 13-form check was applied. Scan 32 directly demonstrates the method: `கொலை` uses historical `லை`, while `தோன்றாமல்தான்` requires historical `றா` rather than apparent modern `று`. Internal heading `குமுதா` is directly confirmed on scan 32.
+Scans 28–37 were inspected at enlarged/high resolution and transcribed only after applying the complete 13-form check. Internal heading `குமுதா` is directly confirmed on scan 32. Scan 37 closes குமுதாவின் signed first-person statement. No page was marked verified.
 
-## Glyph-aware first-pass coverage — scans 33–37
+## Glyph-aware first-pass coverage — scans 38–42
 
 All five pages were inspected at enlarged/high resolution before canonical entry. No page was marked verified.
 
-- **scan 33 / printed 32:** old-form identities checked across the page, including `வீணாக்கிக்` (`ணா`), `என்றால்` (`றா`), `முல்லையும்` (`லை`), and `வளையல்களைத்தான்` (`ளை`). Printed line-wrap `கொள்வ` + `துண்டு` is joined as `கொள்வதுண்டு`; source wording `எந்த தூர் எண்ணங்களும்` and `கண்ணடி` is retained.
-- **scan 34 / printed 33:** `லை / னை` families checked in `குலை`, `வேலைக்காரியாகச்`, `மாலை`, `என்னை`, and `வீரனைக்`. The page continues scan 33's final `சதா` with `என் இருதயப் பீடத்திலே...`.
-- **scan 35 / printed 34:** historical `ணை` is explicitly decoded in `ஆணை`; historical `றா` is checked in `நின்றார்` and `தோற்றாய்`. Printed line-wraps `கட்டளை` + `யிட்டாள்` and `பிள்ளை` + `யைத்` are joined lexically. Final `அத` remains a physical page-boundary split.
-- **scan 36 / printed 35:** `னொ / னை / லை` families checked in `இன்னொருவன்`, `என்னை`, `உன்னை`, and `வேலை`. Opening `னுடைய` resolves scan 35's `அத`; printed line-wrap `அடிமைப்` + `படுத்தவில்லை` is joined as `அடிமைப்படுத்தவில்லை`.
-- **scan 37 / printed 36:** `னை / னா / ளை` families checked in `என்னை`, `என்னையே`, `அனுப்பினாளோ`, and `அவளை`. Printed line-wrap `கண்ணம்மாக்` + `களைக்` is joined as `கண்ணம்மாக்களைக்`. The page closes குமுதாவின் first-person statement with `இப்படிக்கு / இறக்கப் போகும் / குமுதா`.
+- **scan 38 / printed 37:** internal heading `வீரன்` directly confirmed. Historical families checked include `வளைவுகள்` (`ளை`), `பண்ணைத்` (`ணை`), `கல்யாணம்` (`ணா`) and related clusters.
+- **scan 39 / printed 38:** `இன்னொருநாள்` checked as historical `னொ`; `மற்றொருநாள்` explicitly decoded as historical `றொ`; `லை / ணை / னை` families checked across the page.
+- **scan 40 / printed 39:** `பண்ணையைப்` checked as historical `ணை`; `லை / னை / றா` families checked before entry. Opening `தொண்டைக்` continues scan 39's final `ஈரமில்லாத`.
+- **scan 41 / printed 40:** `புரியவில்லையே` was checked as a complete old/faint `லை`-family cluster rather than shortened by visual appearance; `ளை / னை / லை / ணா` families checked. Final `கல்யா` remains a physical page split.
+- **scan 42 / printed 41:** opening `ணத்தை` resolves `கல்யாணத்தை`; `லை / ளை / னை / ணா` families checked before canonical entry.
 
-No separate post-entry historical-glyph correction was required in scans 33–37 because the identities were decoded before transcription.
+No separate post-entry historical-glyph correction was required in scans 38–42 because character identities were decoded before transcription.
 
 ## Audit rule — mandatory for every remaining new page
 
@@ -73,25 +75,25 @@ For every page:
 4. compare same-edition occurrences where useful;
 5. encode the proven identity in modern Unicode;
 6. do not normalize anything beyond proven glyph identity;
-7. join ordinary within-page printed line-wrap fragments, but preserve physical page-boundary splits in the page records;
+7. join ordinary within-page printed line-wrap fragments, but preserve physical page-boundary splits in page records;
 8. correct an independent transcription mismatch only with positive source-pixel support and record it separately;
 9. keep the page `needs-review` under the current user-mandated verification freeze.
 
-The 13-form chart is a minimum known reference set; remain alert for other legacy typographic ambiguity.
+The 13-form chart is a minimum known reference set; remain alert for other legacy typographic ambiguity. The reusable root guide contains the full decision procedure and examples for future works.
 
 ## Gate consequence
 
-- canonical records: **37 / 49**;
+- canonical records: **42 / 49**;
 - retrospective historical-glyph pass on scans 1–27: **27 / 27 — COMPLETE**;
-- glyph-aware new-page coverage: **scans 28–37 complete**;
+- glyph-aware new-page coverage: **scans 28–42 complete**;
 - `verified`: **0**;
-- `needs-review`: **37 — scans 1–37**;
+- `needs-review`: **42 — scans 1–42**;
 - `partial`: **0**;
-- `not-started`: **12 — scans 38–49**;
+- `not-started`: **7 — scans 43–49**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil: **blocked**;
 - English translation: **blocked**.
 
 ## Exact next activity
 
-Transcribe **scans 38–42 / printed pages 37–41** as the next source-first batch. Confirm scan 38's expected internal heading `வீரன்` directly from the source, apply the complete historical-glyph rule during first transcription, preserve physical page boundaries, create every page as `needs-review`, synchronize page-map/audit/READMEs/HANDOVER, and stop after scan 42.
+Transcribe **scans 43–47 / printed pages 42–46** as the next source-first batch. Apply the complete historical-glyph rule during first transcription, directly confirm expected internal headings `உலகநாதர்` on scan 45 and `கண்ணம்மா` on scan 46 before recording them, preserve physical page boundaries, create every page as `needs-review`, synchronize status documents, and stop after scan 47.
