@@ -12,7 +12,7 @@ This review closes both planned sub-batches:
 - **3A:** scan 19 heading through scan 24;
 - **3B:** scans 25–31.
 
-Review state: **REVIEWED**. This is not final whole-work `verified` status.
+Review state: **REVIEWED / PASS**. This file records the Batch-3 stage result; the later whole-work `TRANSLATION_REVIEW.md` establishes final English **VERIFIED** status.
 
 ## Source-completeness check
 
@@ -84,4 +84,6 @@ No translation question in this section required reopening or changing a canonic
 
 **BATCHES 3A + 3B / ENGLISH SECTION 03 — REVIEWED / PASS.**
 
-The section remains below final `verified` status until whole-work bilingual review and section-boundary review are complete.
+At the time of this batch review, whole-work verification was still pending. That downstream work is now complete: all eight planned batches are reviewed, `TRANSLATION_REVIEW.md` **PASSED**, whole-work English is **VERIFIED**, and `RELEASE_REPORT.md` **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
+
+The section intentionally remains batch-level `reviewed`; whole-work verification does not alter the canonical Tamil freeze. There is no remaining Batch-3 follow-up.
