@@ -10,10 +10,11 @@ Working English title: **The Woman of the Great House**
 - canonical verification freeze: **ACTIVE — 0 verified / 49 `needs-review`**;
 - English translation plan: **COMPLETE**;
 - English prose: **STARTED**;
-- English sections drafted: **5 / 7**;
-- English sections source-checked: **5 / 7**;
-- English sections reviewed: **5 / 7**;
-- English sections verified: **0 / 7**.
+- English sections drafted: **6 / 7**;
+- English sections source-checked: **6 / 7**;
+- English sections reviewed: **6 / 7**;
+- English sections verified: **0 / 7**;
+- translation batches reviewed: **7 / 8**.
 
 The English layer is derived from the passed Tamil assembled reader, but the canonical `../../pages/` records remain the controlling repository text. If a translation question exposes a possible Tamil problem, return to canonical/source evidence rather than silently normalizing the Tamil.
 
@@ -24,7 +25,7 @@ The English layer is derived from the passed Tamil assembled reader, but the can
 3. [`sections/03-kannamma-first.md`](sections/03-kannamma-first.md) — scan 19 first `கண்ணம்மா` → scan 31 — **REVIEWED**;
 4. [`sections/04-kumudha.md`](sections/04-kumudha.md) — scans 32–37 — **REVIEWED**;
 5. [`sections/05-veeran.md`](sections/05-veeran.md) — scans 38–44 — **REVIEWED**;
-6. `sections/06-ulaganathar.md` — scan 45 — not-started;
+6. [`sections/06-ulaganathar.md`](sections/06-ulaganathar.md) — scan 45 — **REVIEWED**;
 7. `sections/07-kannamma-conclusion.md` — scans 46–49 + separate printer colophon — not-started.
 
 ## Control documents
@@ -32,27 +33,23 @@ The English layer is derived from the passed Tamil assembled reader, but the can
 - translation policy: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md);
 - batch progress: [`PROGRESS.md`](PROGRESS.md);
 - recurring terms / style lock: [`GLOSSARY.md`](GLOSSARY.md);
-- opening pilot review: [`BATCH_01_REVIEW.md`](BATCH_01_REVIEW.md);
-- Uthandi review: [`BATCH_02_REVIEW.md`](BATCH_02_REVIEW.md);
-- first Kannamma review: [`BATCH_03_REVIEW.md`](BATCH_03_REVIEW.md);
-- Kumudha review: [`BATCH_04_REVIEW.md`](BATCH_04_REVIEW.md);
-- Veeran review: [`BATCH_05_REVIEW.md`](BATCH_05_REVIEW.md).
+- Batch 1 review: [`BATCH_01_REVIEW.md`](BATCH_01_REVIEW.md);
+- Batch 2 review: [`BATCH_02_REVIEW.md`](BATCH_02_REVIEW.md);
+- Batch 3 review: [`BATCH_03_REVIEW.md`](BATCH_03_REVIEW.md);
+- Batch 4 review: [`BATCH_04_REVIEW.md`](BATCH_04_REVIEW.md);
+- Batch 5 review: [`BATCH_05_REVIEW.md`](BATCH_05_REVIEW.md);
+- Batch 6 review: [`BATCH_06_REVIEW.md`](BATCH_06_REVIEW.md).
 
-## Reviewed checkpoint through Section 05
+## Reviewed checkpoint through Section 06
 
-Sections 03–05 were processed in the same iteration at the user's request, but each retained its own source scope and review gate.
+Batch 6 covers the complete source-printed `உலகநாதர்` account on scan 45 / printed page 44.
 
-Important controls now locked:
+The translation preserves Ulaganathar's wounded pride, accusation against Veeran and Kannamma, family-honour rhetoric and self-justifying account of his conduct toward Kumudha as **his viewpoint**. His source phrase `குமுதாவைக் காதலித்தது` remains his own self-description and is not rewritten from Kumudha's testimony or the later Kannamma conclusion.
 
-- Kannamma's first account is not reconciled with Uthandi, Kumudha, Veeran or the later Kannamma conclusion;
-- Kumudha's signed statement preserves the source's coercion/violation language and letter structure;
-- Veeran's accusations remain his limited interpretation even though the preceding Kumudha account supplies contradictory information;
-- harsher `வேசி / தாசி` invective is distinguished from `விபசாரி` in the glossary;
-- mythological/religious allusions are translated only from the Tamil source and are not expanded from outside knowledge;
-- all relevant physical page continuities through scan 44 remain traceable in HTML provenance comments.
+Source-sensitive `என் உப்பைத்தின்றவன்`, the unusual punctuation in `எல்லாம் அந்தத் தடவை செய்த வேலை. கண்ணம்மா.`, `பசப்பு வார்த்தை`, `கள்ளி`, and `பத்திர காளி` are documented in [`BATCH_06_REVIEW.md`](BATCH_06_REVIEW.md) rather than silently normalized.
 
-No Tamil canonical correction was required while translating/reviewing Sections 03–05. The user-mandated canonical verification freeze remains unchanged.
+No Tamil canonical correction was required during Batch 6. The user-mandated canonical verification freeze remains unchanged.
 
 ## Next activity
 
-Translate and review **Batch 6 — `உலகநாதர்`**, the complete account on scan 45. Do not begin the final Kannamma section until Ulaganathar's account is source-checked and reviewed.
+Translate and review **Batch 7 — final `கண்ணம்மா` conclusion**, scans 46–49, including the narrative ending and separate printer colophon. After Batch 7 review, perform whole-work bilingual review before any English section is promoted to `verified`.
