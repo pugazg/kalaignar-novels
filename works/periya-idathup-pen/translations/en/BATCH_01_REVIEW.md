@@ -7,7 +7,7 @@ Tamil assembled source: `../../sections/01-opening.md`
 Canonical authority: `../../pages/`  
 Source coverage: **scan 8 through scan 15 immediately before the `உத்தண்டி` heading**.
 
-Review state: **REVIEWED**. This is not final whole-work `verified` status.
+Review state: **REVIEWED / PASS**. This file records the Batch-1 stage result; the later whole-work `TRANSLATION_REVIEW.md` establishes final English **VERIFIED** status.
 
 ## Source-completeness check
 
@@ -77,7 +77,7 @@ Canonical state remains:
 
 ## Pilot style lock
 
-Batch 1 establishes the following working conventions for later batches:
+Batch 1 established these conventions for the later completed batches:
 
 - working title: **The Woman of the Great House**;
 - source authority: scan → canonical `pages/` → assembled `sections/` → English;
@@ -92,8 +92,10 @@ Batch 1 establishes the following working conventions for later batches:
 
 **BATCH 01 — REVIEWED / PASS.**
 
-The section remains below final `verified` status until the whole-work bilingual review and section-boundary audit are completed.
+At the time of this batch review, whole-work verification was still pending. That downstream work is now complete: all eight planned batches are reviewed, `TRANSLATION_REVIEW.md` **PASSED**, whole-work English is **VERIFIED**, and `RELEASE_REPORT.md` **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
 
-## Next activity
+The section intentionally remains batch-level `reviewed`; whole-work verification does not alter the canonical Tamil freeze.
 
-Proceed to **Batch 2 — `உத்தண்டி`**, from the source heading on scan 15 through scan 19 immediately before the first `கண்ணம்மா` heading. Translate the complete Uthandi account, then source-check/review it before Batch 3A.
+## Subsequent state
+
+The former next activity — Batch 2 — was completed, as were all later batches and release checks. There is no remaining Batch-1 follow-up. Canonical Tamil remains **0 verified / 49 `needs-review`** under the active freeze.
