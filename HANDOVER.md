@@ -5,10 +5,11 @@
 - Repository: `pugazg/kalaignar-novels`
 - Branch: `main`
 - Primary guide: `NOVEL_PROCESSING_GUIDE.md`
+- Reusable historical-glyph guide: `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 - Current target: `works/periya-idathup-pen/`
 - Completed reference implementation: `works/balipeedam-nokki/`
 
-Before changing the active work, read the root guide/README/handover plus the active work README, `HISTORICAL_GLYPH_AUDIT.md`, metadata, page map, audit, and relevant page records. The attached PDF remains controlling and must not be committed.
+Before changing the active work, read the root guides/README/handover plus the active work README, `HISTORICAL_GLYPH_AUDIT.md`, metadata, page map, audit, and relevant page records. The attached PDF remains controlling and must not be committed.
 
 ## பெரிய இடத்துப் பெண் — source identity
 
@@ -33,7 +34,9 @@ The full known user-supplied Periyar-reform reference set is:
 
 Determine character identity from source pixels and encode that identity in modern Unicode. Do not global-replace or modernize wording, spelling, grammar, punctuation, or vocabulary. Every canonical page remains `needs-review` under the current user instruction. New pages must use the glyph-aware method from first transcription.
 
-## Confirmed historical-glyph corrections
+The reusable root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is now the general procedure for future older-Tamil works. It records the 13-form reference, same-edition comparison method, OCR caution, distinction between glyph decoding and spelling modernization, uncertainty handling, page/audit templates, and lessons from `பெரிய இடத்துப் பெண்` and `புதையல்`.
+
+## Confirmed historical-glyph corrections from retrospective review
 
 - scan 14 / printed 13: `ஆவிலைக்` → **`ஆவலைக்`** (`லை`);
 - scan 14 / printed 13: `நின்றூர்` → **`நின்றார்`** (`றா`);
@@ -44,51 +47,31 @@ Determine character identity from source pixels and encode that identity in mode
 - scan 24 / printed 23: `விழுவேன் என்றுனா?` → **`விழுவேன் என்றானா?`** (`றா`);
 - scan 25 / printed 24: `வேலை மட்டுந்தானு?` → **`வேலை மட்டுந்தானா?`** (`னா`).
 
-The scan-25 finding confirms the issue is not limited to old `றா`; historical `னா` can also produce an apparent-modern-shape misreading.
-
-## Independent source-text corrections found during retrospective audit
-
-- scan 4: `சமூகத்தின்` → `சமுதாயத்தின்`;
-- scan 5: `அற்பிய` → `அரும்பிய`;
-- scan 5: `சமூகமும்` → `சமுதாயம்`;
-- scan 7 / printed 6: `உள்ளங்களை` → `உள்ளங்களே`;
-- scan 12 / printed 11: `தாவும்போது பயப்பட்ட பூனை` → `தாவும்போது பயப்படாத பூனை`;
-- scan 12 / printed 11: `பயப்பட்டது போல -` → `பயப்பட்டதுபோல -`;
-- scan 19 / printed 18: `செக்கச் செவேலென்றோன்றின.` → **`செக்கச் செவேலென்றேதோன்றின.`**.
-
 ## Historical-glyph audit checkpoint
 
-Scans **1–27** have completed the retrospective page-by-page historical-glyph audit. Scans **28–37** were transcribed with the complete 13-form rule applied during first pass rather than retrospectively.
+Scans **1–27** completed the retrospective page-by-page historical-glyph audit. Scans **28–42** were transcribed with the complete 13-form rule applied during first pass.
 
-Latest source-first batch, scans **33–37 / printed pages 32–36**:
+Latest source-first batch, scans **38–42 / printed pages 37–41**:
 
-- scan 33: glyph-aware first pass completed; historical identities including `ணா / றா / லை / ளை` were decoded before entry;
-- scan 34: glyph-aware first pass completed; `லை / னை` and related historical clusters checked;
-- scan 35: historical `ணை` in `ஆணை` and historical `றா` in `நின்றார்` / `தோற்றாய்` were decoded by identity;
-- scan 36: `னொ / னை / லை` and related historical clusters checked during first pass;
-- scan 37: `னை / னா / ளை` and related clusters checked during first pass; the page visibly closes குமுதாவின் first-person statement with `இப்படிக்கு / இறக்கப் போகும் / குமுதா`.
+- scan 38: internal heading **`வீரன்`** directly confirmed; `வளைவுகள்` (`ளை`), `பண்ணைத்` (`ணை`), `கல்யாணம்` (`ணா`) and related clusters checked;
+- scan 39: `இன்னொருநாள்` (`னொ`) and `மற்றொருநாள்` (`றொ`) checked by historical identity; final `ஈரமில்லாத` continues to scan 40;
+- scan 40: opening `தொண்டைக்` continues scan 39; `பண்ணையைப்` checked as historical `ணை`; final `தேவையான` continues to scan 41;
+- scan 41: opening `பொருளாகிவிட்டேன்.` establishes `தேவையான பொருளாகிவிட்டேன்.`; `புரியவில்லையே` was checked as a complete old/faint `லை`-family cluster; final `கல்யா` remains a physical page split;
+- scan 42: opening `ணத்தை` establishes `கல்யாணத்தை`; historical `லை / ளை / னை / ணா` families checked; page ends cleanly.
 
-Physical page-boundary evidence from the latest batch:
-
-- scan 33 `சதா` + scan 34 `என் இருதயப் பீடத்திலே...`;
-- scan 35 `அத` + scan 36 `னுடைய` → `அதனுடைய`;
-- scan 36 `தூக்கிச்` + scan 37 `சென்றதாக` → `தூக்கிச் சென்றதாக`.
-
-Source spacing/splits were preserved only where truly source-significant; ordinary line/typesetting joins established from the same physical page were normalized into the intended word identity during canonical entry, including `கொள்வதுண்டு`, `கட்டளையிட்டாள்`, and `கண்ணம்மாக்களைக்`.
-
-All scans **1–37** remain `needs-review`. No page is verified.
+No post-entry glyph correction was required in scans 38–42 because character identities were decoded before canonical entry. All scans 1–42 remain `needs-review`.
 
 ## Current stage
 
 - source registration: complete;
 - page map: **49 / 49**;
-- canonical records: **37 / 49 — scans 1–37**;
+- canonical records: **42 / 49 — scans 1–42**;
 - `verified`: **0**;
-- `needs-review`: **37**;
+- `needs-review`: **42**;
 - `partial`: **0**;
-- `not-started`: **12 — scans 38–49**;
+- `not-started`: **7 — scans 43–49**;
 - retrospective historical-glyph audit on scans 1–27: **COMPLETE**;
-- glyph-aware first-pass transcription: **complete through scan 37**;
+- glyph-aware first-pass transcription: **complete through scan 42**;
 - verification freeze: **ACTIVE**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil: **BLOCKED**;
@@ -97,29 +80,32 @@ All scans **1–37** remain `needs-review`. No page is verified.
 
 Printed-page behavior remains: scans 1–6 unnumbered; scan 7 visibly printed **6**; scan 8 unnumbered; scans 9–49 visibly printed **8–48**.
 
-Structural observations:
+## Structural observations
 
-- scan 15 / printed 14 — internal heading `உத்தண்டி`;
-- scan 19 / printed 18 — internal heading `கண்ணம்மா`;
-- scan 32 / printed 31 — internal heading `குமுதா`;
-- scan 37 / printed 36 closes குமுதாவின் signed first-person statement;
-- scan 38 is expected to contain `வீரன்`, but that must be confirmed directly from source before recording it as an internal heading.
+Directly confirmed internal headings:
+
+- scan 15 / printed 14 — `உத்தண்டி`;
+- scan 19 / printed 18 — `கண்ணம்மா`;
+- scan 32 / printed 31 — `குமுதா`;
+- scan 38 / printed 37 — `வீரன்`.
+
+Scan 45 is expected to contain `உலகநாதர்` and scan 46 is expected to contain `கண்ணம்மா`, but both must be directly confirmed from source before being recorded as structure.
 
 ## Exact next activity
 
-**Transcribe scans 38–42 / printed pages 37–41.**
+**Transcribe scans 43–47 / printed pages 42–46.**
 
 For each scan independently:
 
 1. inspect the complete page at enlarged/high resolution;
-2. directly confirm whether scan 38 contains internal heading `வீரன்`;
-3. apply the complete 13-form historical reference during first transcription and remain alert for other legacy ambiguity;
+2. apply the complete reusable historical-glyph procedure and all 13 known reform-sensitive forms during first transcription;
+3. directly confirm the expected internal heading `உலகநாதர்` on scan 45 and `கண்ணம்மா` on scan 46 before recording either;
 4. preserve exact source spelling, punctuation, paragraphing and physical page boundaries;
 5. create every page as `needs-review`; do not mark anything `verified`;
 6. update page-map, historical-glyph audit, general audit, work/root READMEs and HANDOVER;
-7. stop after scan 42.
+7. stop after scan 47.
 
-Do not begin scan 43, assembled Tamil, or English translation in that activity.
+Do not begin scan 48, assembled Tamil, or English translation in that activity.
 
 ---
 
