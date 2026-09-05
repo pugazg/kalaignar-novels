@@ -6,160 +6,84 @@
 - Branch: `main`
 - Primary guide: `NOVEL_PROCESSING_GUIDE.md`
 - Reusable historical-glyph guide: `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-- Current target: `works/periya-idathup-pen/`
-- Completed reference implementation: `works/balipeedam-nokki/`
+- Current target: **none — awaiting the next source/work supplied or named by the user**
+- Completed reference implementations:
+  - `works/balipeedam-nokki/` — unqualified release-ready reference;
+  - `works/periya-idathup-pen/` — completed qualified-release reference with an explicit canonical verification freeze.
 
-Before changing the active work, fetch live `main` first and read the root guides/README/handover plus the active-work README, `audit.md`, Tamil audit records, `ASSEMBLED_TAMIL_AUDIT.md`, `sections/README.md`, translation plan/progress/glossary, all batch reviews, `TRANSLATION_REVIEW.md`, `RELEASE_REPORT.md` and relevant Tamil/English sections. The source PDF remains controlling and must not be committed.
+Before changing repository state, fetch live `main` first. For a new work, follow `NEXT_NOVEL_CHAT_PROMPT.md` and `NOVEL_PROCESSING_GUIDE.md`. Do not reopen completed works merely because a historical audit/review records an earlier stage. Source PDFs remain controlling evidence and must not be committed.
 
-## பெரிய இடத்துப் பெண் — source identity
+## பெரிய இடத்துப் பெண் — COMPLETED durable state
 
-- source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf`;
-- SHA-256: `50db9c55d670065bd81088ee07e4527f5531a9ab15e3c4533d6b10eda8d09e9628`;
-- size: **70,952,481 bytes**;
-- scans: **49**;
-- title: **பெரிய இடத்துப் பெண்**;
-- author: **மு. கருணாநிதி**;
-- publisher/place: **திராவிடன் பதிப்பகம் / வேலூர் (வ. ஆ.)**;
-- edition: **எட்டாம் பதிப்பு: ஜூலை 1953**;
-- price: **விலை 0—8—0**;
-- sales rights: **எம். எஸ். ராஜுலு கம்பெனி, 286, சைனா பஜார், சென்னை-1**;
-- final printer colophon: **ஸ்ரீமகள் அச்சகம், சென்னை-1**.
+Source: `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf`  
+SHA-256: `50db9c55d670065bd81088ee07e4527f5531a9ab15e3c4533d6b10eda8d09e9628`  
+Scans: **49**  
+Title: **பெரிய இடத்துப் பெண்**  
+Author: **மு. கருணாநிதி**  
+Publisher/place: **திராவிடன் பதிப்பகம் / வேலூர் (வ. ஆ.)**  
+Edition: **எட்டாம் பதிப்பு: ஜூலை 1953**  
+Final printer colophon: **ஸ்ரீமகள் அச்சகம், சென்னை-1**.
 
-## Verification freeze — MUST PRESERVE
+### Verification freeze — MUST PRESERVE
 
-**Do not mark any canonical page in this work as `verified`.**
+**Do not mark any canonical page in this work as `verified` unless the user explicitly changes the instruction.**
 
-Known user-supplied Periyar-reform reference set:
+Known Periyar-reform-sensitive reference set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Determine character identity from source pixels and encode that identity in modern Unicode. Do not global-replace or modernize wording, spelling, grammar, punctuation or vocabulary.
+Canonical state remains **0 verified / 49 `needs-review`**. The assembled Tamil layer's **PASSED**, English **VERIFIED**, and qualified release-readiness statuses are independent of that freeze.
 
-Canonical state remains **0 verified / 49 `needs-review`**. The assembled Tamil layer's **PASSED**, English whole-work **VERIFIED**, and release-readiness statuses are independent of that freeze.
-
-## Canonical / Tamil state
+### Canonical / Tamil state
 
 - page map: **49 / 49**;
 - canonical page records: **49 / 49**;
 - dedicated full-source audit: **COMPLETE — 49 / 49 directly reviewed**;
-- assembled Tamil: **PASSED**;
+- assembled Tamil: **PASSED — seven files covering narrative scans 8–49**;
 - source PDF committed: **No**.
 
-Confirmed historical corrections include scan 14 `ஆவலைக்`, `நின்றார்`; scan 16 `போகிறாயே`; corrected `நன்றாக` family; scan 25 `வேலை மட்டுந்தானா?`; scan 33 `கண்ணாடி`; scan 43 `இளிச்சவாயனாக`; scan 46 `நானா ஆள்?`; scan 47 `விட வேணா?`.
+Confirmed historical-glyph corrections include scan 14 `ஆவலைக்`, `நின்றார்`; scan 16 `போகிறாயே`; the corrected `நன்றாக` family; scan 25 `வேலை மட்டுந்தானா?`; scan 33 `கண்ணாடி`; scan 43 `இளிச்சவாயனாக`; scan 46 `நானா ஆள்?`; and scan 47 `விட வேணா?`.
 
-The source is one continuous work. Internal headings:
+The source remains one continuous work with internal headings `உத்தண்டி`, `கண்ணம்மா`, `குமுதா`, `வீரன்`, `உலகநாதர்`, `கண்ணம்மா`.
 
-- scan 15 — `உத்தண்டி`;
-- scan 19 — `கண்ணம்மா`;
-- scan 32 — `குமுதா`;
-- scan 38 — `வீரன்`;
-- scan 45 — `உலகநாதர்`;
-- scan 46 — `கண்ணம்மா`.
-
-Assembled Tamil files:
-
-1. `sections/01-opening.md`;
-2. `sections/02-uthandi.md`;
-3. `sections/03-kannamma-first.md`;
-4. `sections/04-kumudha.md`;
-5. `sections/05-veeran.md`;
-6. `sections/06-ulaganathar.md`;
-7. `sections/07-kannamma-conclusion.md`.
-
-## English translation state
+### English / release state
 
 Working English title: **The Woman of the Great House**.
 
-Authority hierarchy:
-
-`source scan → canonical pages/ → assembled sections/ → English`
-
-Translation control files:
-
-- `works/periya-idathup-pen/translations/en/TRANSLATION_PLAN.md` — **COMPLETE**;
-- `works/periya-idathup-pen/translations/en/README.md`;
-- `works/periya-idathup-pen/translations/en/PROGRESS.md`;
-- `works/periya-idathup-pen/translations/en/GLOSSARY.md`;
-- `works/periya-idathup-pen/translations/en/TRANSLATION_REVIEW.md` — **PASSED / ENGLISH VERIFIED**;
-- `works/periya-idathup-pen/translations/en/RELEASE_REPORT.md` — **PASSED WITH QUALIFICATION**.
-
-### English section / batch state
-
-1. `translations/en/sections/01-opening.md` — **REVIEWED / PASS**.
-2. `translations/en/sections/02-uthandi.md` — **REVIEWED / PASS**.
-3. `translations/en/sections/03-kannamma-first.md` — Batches 3A + 3B — **REVIEWED / PASS**.
-4. `translations/en/sections/04-kumudha.md` — **REVIEWED / PASS**.
-5. `translations/en/sections/05-veeran.md` — **REVIEWED / PASS**.
-6. `translations/en/sections/06-ulaganathar.md` — **REVIEWED / PASS**.
-7. `translations/en/sections/07-kannamma-conclusion.md` — **REVIEWED / PASS**.
-
-All **8 / 8** planned translation batches are reviewed. Section files retain batch-level `reviewed`; whole-work status is **VERIFIED** through the completed `TRANSLATION_REVIEW.md` cross-section alignment.
-
-### Final bilingual review controls
-
-The final review confirmed:
-
-- no substantive omission/duplication across scans 8–49;
-- source-printed section order and transitions preserved;
-- narrator isolation preserved across Uthandi, both Kannamma accounts, Kumudha, Veeran and Ulaganathar;
-- Veeran's contradictory interpretation is not retroactively rewritten from Kumudha or final Kannamma evidence;
-- Ulaganathar's `குமுதாவைக் காதலித்தது` remains his own self-description;
-- names, `Aththan`, `Anni`, `talaiyari`, Calcutta, class/debt and moral/sexual terminology remain controlled;
-- final `கற்பழிக்கப்பட்டாள்` is translated directly as “was raped”;
-- religious/mythological rhetoric remains source-bound;
-- source-specific difficult forms remain documented/cautious, not normalized;
-- page joins and provenance remain intact;
-- final narrative ending remains separate from the printer colophon.
-
-One English-only consistency correction was made during final review: scan-49 `ரதி` is now **Rati**, replacing the earlier **Rathi** romanisation and matching `TRANSLATION_PLAN.md`. No Tamil text changed.
-
-## Release-readiness state
-
-The release pass in `translations/en/RELEASE_REPORT.md` confirmed:
-
-- seven English reader files present;
-- translation control/review records present;
-- root/work/English navigation and status synchronized;
-- whole-work English **VERIFIED**;
-- source PDF excluded from the repository;
-- final narrative and printer colophon separated;
-- canonical verification freeze unchanged.
-
-**Release verdict: RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION.**
-
-This is the only accurate full-package release wording while the freeze remains active. The English layer itself is release-ready, but canonical Tamil remains **0 verified / 49 `needs-review`** by explicit user instruction.
-
-Release readiness is an editorial/archival workflow status, not a determination of copyright, licensing, distribution or republication rights.
-
-## Current durable stage
-
-- source registration: complete;
-- canonical Tamil: **49 / 49**;
-- full Tamil source comparison: **COMPLETE**;
-- assembled Tamil: **PASSED**;
-- canonical `verified`: **0**;
-- canonical `needs-review`: **49**;
-- verification freeze: **ACTIVE**;
-- English translation plan: **COMPLETE**;
 - English section files: **7 / 7 reviewed**;
 - translation batches: **8 / 8 reviewed**;
 - final bilingual review: **PASSED**;
-- **whole-work English: VERIFIED**;
-- release report: **COMPLETE**;
-- **package: RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
+- whole-work English: **VERIFIED**;
+- release-readiness pass: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
+- release report: `works/periya-idathup-pen/translations/en/RELEASE_REPORT.md`;
+- repository documentation closeout: `works/periya-idathup-pen/COMPLETION_SYNC_AUDIT.md`.
 
-## Exact next activity
+Accurate package wording:
 
-No further mandatory processing remains for `பெரிய இடத்துப் பெண்` under the current instructions.
+> **English layer release-ready; archival package RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION — 0 verified / 49 `needs-review`, freeze ACTIVE.**
 
-**Do not lift, reinterpret or bypass the canonical Tamil verification freeze automatically.** If future work resumes on this title, first preserve live `main` and this qualified release state. Canonical page statuses may change only if the user explicitly changes the freeze instruction. Otherwise move to another source/work only when the user supplies or names it.
+Section files intentionally retain batch-level `reviewed`; whole-work English `VERIFIED` is established by `translations/en/TRANSLATION_REVIEW.md`.
+
+The final review found one English-only romanisation drift: scan-49 `ரதி` was corrected from **Rathi** to **Rati**. Tamil was unchanged.
+
+Release readiness is an editorial/archival workflow status, not a determination of copyright, licensing, distribution or republication rights.
+
+### No remaining mandatory activity on this title
+
+Do not lift, reinterpret or bypass the canonical Tamil verification freeze automatically. Do not restart source audit, assembly, translation, final bilingual review or release review because an older stage document described them as future work. The repository-wide completion sync marks those older instructions as superseded historical stage notes.
+
+If the user explicitly reopens this title, first preserve the live completed state and the freeze. Otherwise, the next repository activity is to onboard the next source/work supplied or named by the user.
 
 ---
 
 ## Completed prior work — புதையல்
 
-The prior `புதையல்` work remains unchanged at its durable release state: 448/448 canonical records, 446 completed, two physical-loss scans 223–224 still `needs-review`, assembled Tamil complete, whole-work English verified, release-ready with those two qualifications.
+`புதையல்` remains at its durable release state: **448 / 448** canonical records, **446** completed, two physical-loss scans **223–224** still `needs-review`, assembled Tamil complete, whole-work English VERIFIED, release-ready with those two qualifications.
 
 ## Completed prior work — பலிபீடம் நோக்கி
 
-`பலிபீடம் நோக்கி` remains unchanged: Tamil 34/34 verified, assembled Tamil PASSED, English VERIFIED, archival package RELEASE-READY.
+`பலிபீடம் நோக்கி` remains unchanged: Tamil **34 / 34 verified**, assembled Tamil PASSED, English VERIFIED, archival package RELEASE-READY.
+
+## Exact next repository activity
+
+**Await a new source/work.** Once the user supplies or names one, fetch live `main`, follow `NEXT_NOVEL_CHAT_PROMPT.md`, inspect the actual source, and begin source-first intake. There is currently no active work.
