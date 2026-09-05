@@ -16,8 +16,9 @@ The attached scan is the controlling source.
 - `verified`: **0**;
 - `needs-review`: **27 / 49 — scans 1–27**;
 - `partial`: **0**;
-- remaining `not-started`: **22**;
-- historical-glyph retrospective audit: **OPEN**;
+- remaining `not-started`: **22 — scans 28–49**;
+- historical-glyph retrospective audit over existing canonical pages: **27 / 27 COMPLETE**;
+- verification freeze: **ACTIVE — do not mark pages verified**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil `sections/`: **blocked / not started**;
 - English translation: **blocked / not started**;
@@ -32,30 +33,46 @@ Historical-glyph audit: [`HISTORICAL_GLYPH_AUDIT.md`](HISTORICAL_GLYPH_AUDIT.md)
 
 **Do not mark any page in this work `verified`.**
 
-The user identified a systematic historical-typeform failure: the 1953 source uses a pre-reform Tamil glyph corresponding to modern Unicode `றா`, and its printed shape can resemble modern `று`. Earlier transcription incorrectly treated that visual resemblance as character identity.
+The user identified a systematic historical-typeform failure. The full known Periyar-reform reference set for this source is:
 
-Because this risk can affect the transcription from the beginning, every existing canonical record for scans **1–27** has been reopened as `needs-review`. New pages must also be created as `needs-review` while this project-wide historical-glyph audit remains open, unless the user explicitly changes this policy.
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+Scans **1–27** have now been re-audited against this set at enlarged/high resolution. They remain `needs-review` by user instruction. New pages must be transcribed with the same glyph-aware method from first pass and also remain `needs-review` unless the user explicitly changes the policy.
 
 ## Confirmed legacy-glyph corrections
 
-| Scan | Printed page | Earlier transcription | Correct Unicode reading |
-|---:|:---:|---|---|
-| 20 | 19 | `நன்றுகத்` | `நன்றாகத்` |
-| 21 | 20 | `நன்றுகத்தான்` | `நன்றாகத்தான்` |
-| 24 | 23 | `நன்றுக` | `நன்றாக` |
-| 24 | 23 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` |
+| Scan | Printed page | Earlier transcription | Correct Unicode reading | Identity |
+|---:|:---:|---|---|---|
+| 14 | 13 | `ஆவிலைக்` | `ஆவலைக்` | `லை` |
+| 14 | 13 | `நின்றூர்` | `நின்றார்` | `றா` |
+| 16 | 15 | `போகிறயே` | `போகிறாயே` | `றா` |
+| 20 | 19 | `நன்றுகத்` | `நன்றாகத்` | `றா` |
+| 21 | 20 | `நன்றுகத்தான்` | `நன்றாகத்தான்` | `றா` |
+| 24 | 23 | `நன்றுக` | `நன்றாக` | `றா` |
+| 24 | 23 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` | `றா` |
+| 25 | 24 | `வேலை மட்டுந்தானு?` | `வேலை மட்டுந்தானா?` | `னா` |
 
-These are glyph-identification corrections, not modernization of source wording.
+These are glyph-identification corrections, not modernization of source wording. The scan-25 correction demonstrates that the problem is broader than `றா`: the historical `னா` form can likewise be mistaken for a modern-looking glyph.
+
+## Independent source-text corrections found during re-audit
+
+- scan 4: `சமூகத்தின்` → `சமுதாயத்தின்`;
+- scan 5: `அற்பிய` → `அரும்பிய`;
+- scan 5: `சமூகமும்` → `சமுதாயம்`;
+- scan 7 / printed 6: `உள்ளங்களை` → `உள்ளங்களே`;
+- scan 12 / printed 11: `தாவும்போது பயப்பட்ட பூனை` → `தாவும்போது பயப்படாத பூனை`;
+- scan 12 / printed 11: `பயப்பட்டது போல -` → `பயப்பட்டதுபோல -`;
+- scan 19 / printed 18: `செக்கச் செவேலென்றோன்றின.` → `செக்கச் செவேலென்றேதோன்றின.`.
 
 ## Existing transcription coverage
 
 ### Scans 1–7 — front matter
 
-Canonical records exist for the cover, copy-specific annotation page, publication details, `திரை விலக`, first `பதிப்புரை`, and eighth-edition `பதிப்புரை`. All are now `needs-review` pending the retrospective glyph audit.
+Canonical records exist for the cover, copy-specific annotation page, publication details, `திரை விலக`, first `பதிப்புரை`, and eighth-edition `பதிப்புரை`. All remain `needs-review`.
 
 ### Scans 8–27 — narrative
 
-Canonical narrative records exist continuously through [`pages/0027-periya-idathup-pen-20.md`](pages/0027-periya-idathup-pen-20.md). All are now `needs-review`.
+Canonical narrative records exist continuously through [`pages/0027-periya-idathup-pen-20.md`](pages/0027-periya-idathup-pen-20.md). The retrospective glyph pass is complete through this point, but all records remain `needs-review`.
 
 Visible internal headings identified so far:
 
@@ -83,12 +100,10 @@ The copy shows age staining, specks, occasional edge/binding wear, faint bleed-t
 
 ## Historical-glyph rule for this source
 
-Do not copy a historical glyph according to what modern glyph it superficially resembles. Determine the historical character identity from the full glyph cluster and same-edition evidence, then encode that identity in modern Unicode. In particular, the user-confirmed old `றா` form must not be transcribed as `று` merely because of visual resemblance.
+Do not copy a historical glyph according to what modern glyph it superficially resembles. Determine the historical character identity from the full glyph cluster and same-edition evidence, then encode that identity in modern Unicode. Apply the full 13-form reference on every new page from first transcription.
 
 Do not mechanically global-replace. Each occurrence must be checked against the source pixels.
 
 ## Next activity
 
-Do **not** continue to scans 28–32 yet.
-
-Perform a systematic retrospective historical-glyph audit of scans **1–27**, in source order, recording every correction with scan/printed-page provenance. Keep every page `needs-review`. Only after that audit is complete should new-page transcription resume at scan 28.
+Resume source-first transcription at **scans 28–32 / printed pages 27–31**. Resolve scan 27's open parenthetical continuation only from the visible opening of scan 28. Apply the historical-glyph rule during first-pass transcription, keep every new page `needs-review`, preserve scan 32's `குமுதா` as an internal heading if visibly confirmed, synchronize page-map/audit/READMEs/HANDOVER, and stop after scan 32.
