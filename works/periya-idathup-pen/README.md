@@ -12,13 +12,13 @@ The attached scan is the controlling source.
 
 - source registration: **complete**;
 - source page manifest: **49 / 49 scans mapped**;
-- canonical Tamil page records: **42 / 49 — scans 1–42**;
+- canonical Tamil page records: **47 / 49 — scans 1–47**;
 - `verified`: **0**;
-- `needs-review`: **42 / 49 — scans 1–42**;
+- `needs-review`: **47 / 49 — scans 1–47**;
 - `partial`: **0**;
-- remaining `not-started`: **7 — scans 43–49**;
+- remaining `not-started`: **2 — scans 48–49**;
 - historical-glyph retrospective audit over scans 1–27: **COMPLETE**;
-- glyph-aware first-pass transcription: **active; complete through scan 42**;
+- glyph-aware first-pass transcription: **active; complete through scan 47**;
 - verification freeze: **ACTIVE — do not mark pages verified**;
 - Tamil source audit: **NOT PASSED**;
 - assembled Tamil `sections/`: **blocked / not started**;
@@ -64,30 +64,32 @@ These are glyph-identification corrections, not modernization of source wording.
 
 Canonical records exist for the cover, copy-specific annotation page, publication details, `திரை விலக`, first `பதிப்புரை`, and eighth-edition `பதிப்புரை`. All remain `needs-review`.
 
-### Scans 8–42 — narrative
+### Scans 8–47 — narrative
 
-Canonical narrative records now exist continuously through [`pages/0042-periya-idathup-pen-35.md`](pages/0042-periya-idathup-pen-35.md). All remain `needs-review`.
+Canonical narrative records now exist continuously through [`pages/0047-periya-idathup-pen-40.md`](pages/0047-periya-idathup-pen-40.md). All remain `needs-review`.
 
 Directly confirmed internal textual headings:
 
 - scan 15 / printed 14 — `உத்தண்டி`;
 - scan 19 / printed 18 — `கண்ணம்மா`;
 - scan 32 / printed 31 — `குமுதா`;
-- scan 38 / printed 37 — `வீரன்`.
+- scan 38 / printed 37 — `வீரன்`;
+- scan 45 / printed 44 — `உலகநாதர்`;
+- scan 46 / printed 45 — `கண்ணம்மா`.
 
 They remain internal structure within the same continuous work; identifying a heading does not verify the page.
 
-## Latest glyph-aware batch — scans 38–42
+## Latest glyph-aware batch — scans 43–47
 
 Five new canonical records were created directly from enlarged source inspection with the complete historical-glyph method applied before entry.
 
 Important source findings:
 
-- scan 38 directly confirms internal heading `வீரன்`; historical `ளை` in `வளைவுகள்`, `ணை` in `பண்ணைத்`, and `ணா` in `கல்யாணம்` were checked by identity;
-- scan 39 explicitly checks `இன்னொருநாள்` (`னொ`) and `மற்றொருநாள்` (`றொ`); final `ஈரமில்லாத` continues on scan 40;
-- scan 40 opening `தொண்டைக்` establishes `ஈரமில்லாத தொண்டைக்...`; final `தேவையான` continues on scan 41;
-- scan 41 opening `பொருளாகிவிட்டேன்.` establishes `தேவையான பொருளாகிவிட்டேன்.`; `புரியவில்லையே` was checked as a complete old/faint `லை` family cluster; final `கல்யா` is preserved as a physical split;
-- scan 42 opening `ணத்தை` establishes `கல்யாணத்தை`; the page ends with a complete sentence.
+- scan 43 ends at `கடவுள்`; scan 44 opens `பொறுப்பாரா?`, establishing `கடவுள் பொறுப்பாரா?`;
+- scan 45 directly confirms internal heading `உலகநாதர்`;
+- scan 46 directly confirms internal heading `கண்ணம்மா`;
+- scan 46 `காரண` + scan 47 `மாயிருந்தேன்!` → `காரணமாயிருந்தேன்!`;
+- scan 47 retains source-specific `வக்குப் பேதி`, `அவமானந்`, `கல்மனங்`, and `விட வேணு?` and ends physically at `எழுதி`, which must be resolved only from scan 48.
 
 No page was marked verified and no global historical-glyph replacement was used.
 
@@ -110,4 +112,4 @@ The copy shows age staining, specks, occasional edge/binding wear, faint bleed-t
 
 ## Next activity
 
-Transcribe **scans 43–47 / printed pages 42–46** as the next source-first batch. Directly confirm expected internal headings `உலகநாதர்` on scan 45 and `கண்ணம்மா` on scan 46, apply all historical-form checks during first transcription, keep every new page `needs-review`, preserve source spelling/punctuation/page boundaries, update status documents, and stop after scan 47. Do not begin assembled Tamil or English translation.
+Transcribe **scans 48–49 / printed pages 47–48** as the final source-first batch. Resolve scan 47's trailing `எழுதி` only from scan 48, directly inspect scan 49's narrative ending and printer colophon, apply all historical-form checks during first transcription, keep both pages `needs-review`, update status documents, and stop. Do not begin assembled Tamil or English translation.
