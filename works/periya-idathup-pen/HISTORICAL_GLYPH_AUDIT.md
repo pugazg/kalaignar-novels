@@ -30,6 +30,7 @@ The chart is a decoding reference, not permission to modernize spelling, grammar
 | 4 | — | `சமூகத்தின்` | `சமுதாயத்தின்` | lexical/source-text correction |
 | 5 | — | `அற்பிய` | `அரும்பிய` | lexical/source-text correction |
 | 5 | — | `சமூகமும்` | `சமுதாயம்` | lexical/source-text correction |
+| 7 | 6 | `உள்ளங்களை` | `உள்ளங்களே` | line-break/source-text correction |
 
 ## Retrospective pass progress
 
@@ -41,6 +42,7 @@ The chart is a decoding reference, not permission to modernize spelling, grammar
 | 4 | — | complete | six historical-form occurrences confirmed; `சமூகத்தின்` → `சமுதாயத்தின்` | `needs-review` |
 | 5 | — | complete | four historical-form occurrences confirmed; two lexical corrections | `needs-review` |
 | 6 | — | complete | five historical-form occurrences confirmed; no text correction | `needs-review` |
+| 7 | 6 | complete | seven historical-form occurrences confirmed; `உள்ளங்களை` → `உள்ளங்களே` | `needs-review` |
 
 ### Scan 1
 
@@ -52,13 +54,7 @@ No original 1953 source-work print is present. The later printed gift label was 
 
 ### Scan 3
 
-Positive historical forms already encoded correctly:
-
-- `ஜூலை` — `லை`;
-- `விலை` — `லை`;
-- `விற்பனை` — `னை`;
-- `சைனா` — `னா`;
-- `சென்னை` — `னை`.
+Positive historical forms already encoded correctly: `ஜூலை` (`லை`), `விலை` (`லை`), `விற்பனை` (`னை`), `சைனா` (`னா`), `சென்னை` (`னை`).
 
 ### Scan 4
 
@@ -70,19 +66,25 @@ Positive historical forms already encoded correctly: `அதினைச்` (`�
 
 ### Scan 6
 
-The full `எட்டாம் பதிப்பு / பதிப்புரை` page was re-read at enlarged/high resolution.
+Positive historical forms already encoded correctly: `கருணாநிதி` (`ணா`), `நிலையில்` (`லை`), `இல்லை` (`லை`), `அதனால்` (`னா`), `கற்பனைதான்` (`னை`). No independent text correction required. Source-supported `வனிதையர்களின்`, `வாலிபக் கிழங்களோடு`, `புரையோடிக்கொண்டிருக்கும்`, and `நம்முன். காட்சியளிக்கத்தான்` retained.
+
+### Scan 7
+
+The full printed page 6 was re-read at enlarged/high resolution.
 
 Positive historical forms already encoded correctly:
 
-- `கருணாநிதி` — `ணா`;
-- `நிலையில்` — `லை`;
-- `இல்லை` — `லை`;
-- `அதனால்` — `னா`;
-- `கற்பனைதான்` — `னை`.
+- `வெள்ளை` — `ளை`;
+- `விற்பனையாவதிலிருந்து` — `னை`;
+- `மலை` — `லை`;
+- `இன்னொரு` — `னொ`;
+- `மூலை` — `லை`;
+- `போகிறாள்` — `றா`;
+- `முன்னிலையில்` — `லை`.
 
-No independent lexical/source-text correction was required. Source-supported `வனிதையர்களின்`, `வாலிபக் கிழங்களோடு`, `புரையோடிக்கொண்டிருக்கும்`, and punctuation `நம்முன். காட்சியளிக்கத்தான்` were rechecked and retained unchanged.
+The pass exposed one independent earlier transcription error at a physical line break: source `உள்ளங்` + `களே` gives **`உள்ளங்களே`**, not `உள்ளங்களை`. The canonical scan-7 record was corrected. Source-supported `மாசு மருவற்ற`, `விற்பனையாவதிலிருந்து`, `வெள்ளிடை மலை!`, `திரைக் கதையாக`, `போகிறாள், என்பதை`, and `என்று உங்கள்,` were rechecked and retained.
 
-**Progress: 6 / 27 existing canonical scans reviewed; scans 7–27 pending.** All reviewed pages remain `needs-review`.
+**Progress: 7 / 27 existing canonical scans reviewed; scans 8–27 pending.** All reviewed pages remain `needs-review`.
 
 ## Audit rule
 
@@ -102,7 +104,7 @@ The 13-form chart is a minimum known reference set; remain alert for other legac
 ## Gate consequence
 
 - canonical records: **27 / 49**;
-- retrospective historical-glyph pass: **6 / 27 — scans 1–6**;
+- retrospective historical-glyph pass: **7 / 27 — scans 1–7**;
 - `verified`: **0**;
 - `needs-review`: **27 — scans 1–27**;
 - `partial`: **0**;
@@ -113,4 +115,4 @@ The 13-form chart is a minimum known reference set; remain alert for other legac
 
 ## Exact next activity
 
-Audit **scan 7 only** next. Inspect the whole scan at enlarged/high resolution against the complete 13-form reference, make only pixel-supported corrections, record the result, keep scan 7 `needs-review`, and stop.
+Audit **scan 8 only** next. Inspect the whole scan at enlarged/high resolution against the complete 13-form reference, make only pixel-supported corrections, record the result, keep scan 8 `needs-review`, and stop.
