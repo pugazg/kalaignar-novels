@@ -21,7 +21,7 @@ The attached scan is the controlling source.
 - Tamil source-comparison audit: **COMPLETE**;
 - assembled Tamil reading layer: **PASSED — 7 source-structured files covering narrative scans 8–49**;
 - English translation plan: **COMPLETE**;
-- English translation: **STARTED — Sections 01–05 REVIEWED; 5 / 7 sections reviewed, 0 / 7 verified; 6 / 8 translation batches reviewed**;
+- English translation: **STARTED — Sections 01–06 REVIEWED; 6 / 7 sections reviewed, 0 / 7 verified; 7 / 8 translation batches reviewed**;
 - source PDF committed: **No**.
 
 Key records:
@@ -41,6 +41,7 @@ Key records:
 - [`translations/en/BATCH_03_REVIEW.md`](translations/en/BATCH_03_REVIEW.md)
 - [`translations/en/BATCH_04_REVIEW.md`](translations/en/BATCH_04_REVIEW.md)
 - [`translations/en/BATCH_05_REVIEW.md`](translations/en/BATCH_05_REVIEW.md)
+- [`translations/en/BATCH_06_REVIEW.md`](translations/en/BATCH_06_REVIEW.md)
 - [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md)
 
 ## Verification freeze
@@ -117,19 +118,14 @@ Reviewed English sections:
 2. [`translations/en/sections/02-uthandi.md`](translations/en/sections/02-uthandi.md) — scan 15 `உத்தண்டி` through scan 19 before `கண்ணம்மா` — **REVIEWED**;
 3. [`translations/en/sections/03-kannamma-first.md`](translations/en/sections/03-kannamma-first.md) — scan 19 first `கண்ணம்மா` through scan 31 — **REVIEWED**; planned Batches 3A + 3B both complete;
 4. [`translations/en/sections/04-kumudha.md`](translations/en/sections/04-kumudha.md) — scans 32–37 — **REVIEWED**;
-5. [`translations/en/sections/05-veeran.md`](translations/en/sections/05-veeran.md) — scans 38–44 — **REVIEWED**.
+5. [`translations/en/sections/05-veeran.md`](translations/en/sections/05-veeran.md) — scans 38–44 — **REVIEWED**;
+6. [`translations/en/sections/06-ulaganathar.md`](translations/en/sections/06-ulaganathar.md) — scan 45 — **REVIEWED**.
 
-The three newly completed sections preserve distinct narrator authority rather than harmonising their contradictions:
+Narrator isolation remains a governing English rule. Ulaganathar's scan-45 self-justification, including his description of his conduct toward Kumudha as `காதலித்தது`, is preserved as his own claim and is not harmonised with Kumudha's earlier testimony or Kannamma's later conclusion.
 
-- first Kannamma account: her self-justifying religious/moral rhetoric, marriage grievance, Veeran relationship, pregnancy termination, and plan against Kumudha are preserved as **Kannamma's** claims;
-- Kumudha: the signed letter structure, her account of coercion/violation, diamond ingestion and final social plea are preserved as **Kumudha's** testimony;
-- Veeran: his later accusation that Kumudha willingly betrayed him remains **Veeran's limited interpretation** and is not corrected inside his prose using Kumudha's earlier statement or Kannamma's later confession.
+Batch 6 source-check found no new Tamil issue. Source-sensitive `என் உப்பைத்தின்றவன்`, `எல்லாம் அந்தத் தடவை செய்த வேலை. கண்ணம்மா.`, `பசப்பு வார்த்தை`, `கள்ளி`, and `பத்திர காளி` are documented in the Batch 6 review rather than normalized.
 
-Source-checks for Sections 03–05 reconfirmed the established joins through scans 19–44, including `என்னிலே`, `காலக்ஷேபங்கூட`, `மட்டும்`, `ஒய்யாரக்`, `கவலையில்லை`, `நிலையிலேயே`, `அதனுடைய`, `தூக்கிச் சென்றதாக`, `தேவையான பொருளாகிவிட்டேன்`, `கல்யாணத்தை`, and `கடவுள் பொறுப்பாரா?`.
-
-Historical-glyph corrections already established in Tamil, including scan 33 `கண்ணாடி` and scan 43 `இளிச்சவாயனாக`, are reflected in the English from the final canonical readings.
-
-No Tamil canonical correction was triggered by translation/review of Sections 01–05.
+No Tamil canonical correction was triggered by translation/review of Sections 01–06.
 
 ## Printed-page behaviour
 
@@ -140,4 +136,4 @@ No Tamil canonical correction was triggered by translation/review of Sections 01
 
 ## Next activity
 
-Translate and review **English Batch 6 — `உலகநாதர்`**, the complete source-printed account on scan 45 / printed page 44. Preserve Ulaganathar's own first-person accusation and limited viewpoint without correcting it from the later Kannamma conclusion. Use canonical scan 45 as final textual authority, and keep all 49 canonical pages `needs-review` under the active verification freeze.
+Translate and review **English Batch 7 — final `கண்ணம்மா` conclusion**, scans 46–49. Preserve the already-audited historical-glyph corrections on scans 46–47, the established scan 46→47, 47→48 and 48→49 joins, the final narrative ending, and the separate printer colophon. After Batch 7 review, perform a whole-work bilingual review before any English `verified` decision.
