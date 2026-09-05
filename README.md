@@ -11,6 +11,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 ## Project continuation documents
 
 - [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md)
+- [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) — reusable old-Tamil-glyph → modern-Unicode transcription procedure for future works
 - [`HANDOVER.md`](HANDOVER.md)
 - [`NEXT_NOVEL_CHAT_PROMPT.md`](NEXT_NOVEL_CHAT_PROMPT.md)
 
@@ -18,7 +19,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 
 | நூல் | ஆசிரியர் | பதிப்பு | நிலை |
 |---|---|---|---|
-| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **source registered; 49/49 scans mapped; 37/49 canonical pages; scans 1–27 retrospective glyph pass COMPLETE; scans 28–37 glyph-aware first-pass complete; verification freeze ACTIVE; 0 verified / 37 `needs-review`; next scans 38–42; Tamil audit NOT PASSED; English blocked** |
+| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **source registered; 49/49 scans mapped; 42/49 canonical pages; scans 1–27 retrospective glyph pass COMPLETE; scans 28–42 glyph-aware first-pass complete; verification freeze ACTIVE; 0 verified / 42 `needs-review`; next scans 43–47; Tamil audit NOT PASSED; English blocked** |
 
 ## Completed works
 
@@ -26,6 +27,10 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 |---|---|---|---|
 | [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **448 canonical / 446 verified-complete / 2 physical-loss `needs-review`; Parts 001–010 part-complete; English VERIFIED; repository package RELEASE-READY WITH QUALIFICATION** |
 | [பலிபீடம் நோக்கி](works/balipeedam-nokki/README.md) | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **Tamil 34/34 verified; assembled Tamil PASSED; English VERIFIED; archival package RELEASE-READY** |
+
+## Historical Tamil glyph handling
+
+For older Tamil sources, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) before deciding difficult glyphs. Its governing rule is: **identify the historical character identity from source pixels first, then encode that identity in modern Unicode without modernizing the source wording.** The documented minimum Periyar-reform-sensitive set is `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
 ## புதையல் — final release state
 
