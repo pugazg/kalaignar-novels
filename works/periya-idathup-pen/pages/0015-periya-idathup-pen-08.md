@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf"
-transcription_method: "direct visual comparison with enlarged source scan"
+transcription_method: "direct visual comparison with enlarged source scan; historical-glyph re-audit performed for this scan"
 ---
 
 காதே! எப்படியாவது ஒருநாள்....குமுதா என் படுக்கையை அலங்கரிக்க வேண்டும்....இதை நீதான் செய்ய வேண்டும்....தயவு செய்! உன் காலைப் பிடிக்கிறேன். இரங்கமாட்டாயா?” என்று வேண்டினார்.
@@ -20,11 +20,18 @@ transcription_method: "direct visual comparison with enlarged source scan"
 
 அவருக்கு நான் பட்டிருக்கும் கடன் 500 ரூபாய். உலோபி மனுஷன் நம்மை நம்பி எப்படிக் கடன் கொடுத்தார் என்று நினைத்தேன். அவருடைய தாராள புத்தியின் சரியான காரணம் இப்பொழுதுதான் தெரிந்
 
+## Historical-glyph re-audit — scan 15
+
+The entire printed page was checked at enlarged/high resolution against the complete 13-form reference. Historical clusters including `னை` in `எத்தனையோ` / `நினைத்தேன்`, `ளை` in `இளையவர்` / `விளையாடுகிறாள்`, and `றா` in `விளையாடுகிறாள்` were confirmed and were already represented with the intended modern Unicode identities.
+
+No historical-glyph correction or independent source-text correction was required on this page. `உத்தண்டி` remains an internal heading in the same work.
+
+This page remains `needs-review`; it is not verified.
+
 ## Scan observations
 
 - visible printed page number: **14**.
 - opening `காதே!` completes scan 14's boundary `நினைக்` as `நினைக்காதே!` across the physical page break.
-- internal heading `உத்தண்டி` is retained as an internal textual heading within the same work.
 - source forms `பல் முளைத்த`, `பாட்டன் பூட்டன்`, `என்றுமே அடிவயிற்றில் 'பசீர்'`, `மண்டிக்கடை`, and `உலோபி மனுஷன்` were retained.
 - final `தெரிந்` continues on scan 16 with `தது.`.
 
