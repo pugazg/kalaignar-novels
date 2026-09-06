@@ -12,11 +12,9 @@
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve any newer durable work. Do not reset or repeat completed work merely because this handover records an older checkpoint.
+Fetch live `main` first. Preserve newer durable work. Do not reset or repeat completed work because a copied checkpoint is older.
 
-Last confirmed live checkpoint when this handover was prepared:
-
-`708ffce5ec4304ed19afcb44ccd6908f8ea7a16e` — **`Transcribe வெள்ளிக்கிழமை scans 13-17`**
+Last durable transcription checkpoint represented by this handover: **scans 18–22 / Chapter 2 completion**. The commit carrying this file should be verified on live `main` before further source work.
 
 Before any source-dependent change, read completely:
 
@@ -31,7 +29,7 @@ Before any source-dependent change, read completely:
 9. `works/vellikkizhamai/audit.md`
 10. existing `works/vellikkizhamai/pages/*.md`
 
-The controlling PDF must be attached/resolved again in the new chat before scan-level visual work. Do not commit the source PDF.
+The controlling PDF must be attached/resolved before scan-level visual work. Do not commit the source PDF.
 
 ---
 
@@ -43,24 +41,20 @@ File size: **251,126,214 bytes**
 Recorded actual PDF scans: **179**  
 Source text layer: **none / image-only**  
 Title: **வெள்ளிக்கிழமை**  
-Author as printed on source: **மு. கருணாநிதி**  
+Author as printed: **மு. கருணாநிதி**  
 Publisher: **திராவிடப்பண்ணை**  
 Edition: **இரண்டாம் பதிப்பு: 1968**  
 Price: **ரூ. 2-50**  
 Printer: **சக்திவேல் பிரஸ், திருச்சிராப்பள்ளி-2.**
 
-User-supplied catalogue/context form `கலைஞர் மு. கருணாநிதி` is contextual only; canonical source metadata preserves the cover wording `மு. கருணாநிதி`.
-
 ## Current durable state
 
 - page manifest: **179 / 179 scans represented**;
-- canonical page records: **17 / 179**;
+- canonical page records: **22 / 179**;
 - scans 1–3 front matter: **verified**;
 - scans 4–12 / Chapter 1: **verified / complete**;
-- scans 13–17 / Chapter 2 opening: **verified**;
-- printed-page mapping established through scan 17: scan 4 and scan 9 unnumbered; scans 5–8 = printed **4–7**; scans 10–17 = printed **9–16**;
-- Chapter 1 closes on scan 12;
-- scan 13 begins source-printed Chapter 2;
+- scans 13–22 / Chapter 2: **verified / complete**;
+- printed-page mapping through scan 22: scan 4 and scan 9 unnumbered; scans 5–8 = printed **4–7**; scans 10–22 = printed **9–21**;
 - scan 23 is directly confirmed as Chapter 3 opening;
 - later chapter openings directly located at scans 33, 45, 52, 60, 68 for Chapters 4–8;
 - full later chapter map: **pending**;
@@ -69,105 +63,73 @@ User-supplied catalogue/context form `கலைஞர் மு. கருணா
 - English translation: **blocked until Tamil gate passes**;
 - source PDF committed: **No**.
 
-## Important previous-chat status — scans 18–22
-
-The previous chat opened and visually inspected scans **18–22** and confirmed their visible printed pages as **17–21**. They continue Chapter 2 and end immediately before scan 23 / Chapter 3.
-
-However, **no canonical page records for scans 18–22 were committed and no durable verified transcription exists for those scans**. Some provisional reading work happened in-chat, but it must not be treated as repository authority.
-
-Therefore, in a fresh chat:
-
-- reattach/resolve the controlling PDF;
-- re-inspect scans 18–22 from source pixels;
-- independently source-check every transcription decision;
-- only then create/commit canonical pages 0018–0022.
-
-Do not claim 22/179 complete until the commit actually lands on live `main`.
-
 ## Completed source-sensitive checkpoints
 
-### Scans 4–8
+### Scans 4–12 / Chapter 1
 
-Historical-glyph gate applied page by page. The scan-8 held cluster is source-supported as:
-
-**`களைத்துத் தூங்கிவிட்டால்`**
-
-with historical `ளை` identity. No contextual guess, spelling modernization, or global replacement was used.
-
-Boundary notes:
-- scan 4 final `ஏதோ` → scan 5;
-- scan 5 final `அவைகளே` → scan 6 `கேலிக்குரியதாக ஆக்கிய...`;
-- scan 8 final `கிழக்கு வானம் வெளுக்கத்` → scan 9 `துவங்கிவிட்டது.`
-
-### Scans 9–12 / Chapter 1 completion
-
-- source-specific scan 9 `குழப்பட்டு` preserved;
-- source-specific scan 12 `அந்தப் பருக்கூட்டமே` preserved;
-- Tiruppavai quotations are transcribed from this scanned edition, not replaced with an external canonical text;
-- scan 12 closes Chapter 1;
-- no unresolved glyph/source item remains through scan 12.
+- scan 8 `களைத்துத் தூங்கிவிட்டால்` resolved as historical `ளை`;
+- scan 9 `குழப்பட்டு` retained;
+- scan 12 `அந்தப் பருக்கூட்டமே` retained;
+- Tiruppavai passages transcribed from this edition;
+- Chapter 1 closes on scan 12.
 
 ### Scans 13–17 / Chapter 2 opening
 
-- scan 13 / printed 12 begins Chapter 2;
-- source-sensitive wording preserved, including `எடுபிடி ஆள் அப்புகள்`, `இன்பபுரி வெண்புருக்கள்`, `வேலையில்ல`, `நல்லதாப் போச்சு`;
-- scan 14 final `அதிலே` → scan 15 `வரும் அர்ச்சுனன்...`;
-- scan 16 final `எண்ணும்` → scan 17 `போது—`;
-- scan 17 ends `“சுசீலா! நீ?”`; Suseela's reply begins on scan 18;
-- no unresolved glyph/source item remains through scan 17.
+- scan 13 `எடுபிடி ஆள் அப்புகள்` retained;
+- scan 16 `இன்பபுரி வெண்புருக்கள்` retained;
+- scan 17 `வேலையில்ல`, `நல்லதாப் போச்சு` retained;
+- scan 14 `அதிலே` → scan 15 `வரும் அர்ச்சுனன்...`;
+- scan 16 `எண்ணும்` → scan 17 `போது—`;
+- scan 17 `“சுசீலா! நீ?”` → scan 18 reply.
+
+### Scans 18–22 / Chapter 2 completion
+
+All five scans directly inspected at enlarged/native resolution; visible printed pages **17–21** confirmed; mandatory historical-glyph set checked; later pen/underline/handwriting excluded; no unresolved cluster remains.
+
+Source-sensitive readings include:
+
+- scan 18 `கற்காததைக்`, `பவிஷும்`, historical-`றா` `கக்குகிறாள்`;
+- scan 19 `வைதீகந்தான்`, `வைதீகப் பழங்கள்`, `கொல்லென`, `வந்துவிட்டானு`, `போகலாம்னு`;
+- scan 20 historical-`றா` `என்றான்`, `நிச்சயமாயிட்டுது`, `குறிக்கிலே`, `வர்றாங்க`;
+- scan 21 `சொல்றே`, `வர்ற`, `வரணும்`, `போறான்`, `வந்துட்டே`;
+- scan 22 `அள்ளிக்கொண்டு`, `இழைந்தது`, `வர்ற வேளையிலே`.
+
+Continuity: scan 21 final `“லேடி டாக்டர் வந்தாச்சுல்லே?”` → scan 22 reply. Scan 22 closes Chapter 2 immediately before scan 23 / Chapter 3.
 
 ## Source authority and transcription rules
 
-Authority order:
+Authority order: **controlling source scan → canonical `pages/` → later assembled Tamil → later English**.
 
-**controlling source scan → canonical `pages/` → later assembled Tamil → later English**
-
-OCR, Wikisource, web copies, or machine extraction may be used only as secondary reading aids. They are never controlling authority. Any candidate reading must be confirmed against the supplied source pixels before entering canonical text.
-
-Do not silently modernize or correct spelling, wording, grammar, punctuation, vocabulary, names, dialogue, or structure.
-
-Separate printed text from later underlining, ticks, handwriting, stamps, bleed-through, and scan artefacts.
+OCR/web text may be secondary aids only. Do not silently modernize or correct source spelling, wording, grammar, punctuation, vocabulary, names, dialogue, or structure. Separate printed text from later marks and scan artefacts.
 
 ## Historical Tamil glyph rule — mandatory
 
-For every body page inspect the complete glyph at enlarged/native resolution. Explicitly consider at minimum:
-
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
-
-Before deciding a difficult reading:
-
-- inspect the complete glyph cluster at high/native resolution;
-- consider historical typeforms and faint vowel signs;
-- compare same-edition forms when useful;
-- require positive pixel evidence;
-- never global-replace;
-- preserve source oddities when actually printed;
-- leave genuine uncertainty `needs-review` rather than guessing.
+For every body page explicitly consider at minimum `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Inspect complete glyph clusters at enlarged/native resolution, compare same-edition forms where useful, require positive pixel evidence, never global-replace, and leave genuine uncertainty `needs-review`.
 
 ## Exact next activity
 
-Process **scans 18–22 only**, completing Chapter 2 immediately before scan 23 / Chapter 3.
+Process **scans 23–27 only**, beginning Chapter 3.
 
 For each scan:
 
-1. inspect the whole page and enlarged difficult clusters;
+1. inspect whole page and enlarged difficult clusters;
 2. transcribe printed Tamil source-faithfully;
-3. record the visible printed page number individually — expected from direct prior visual check: scans 18–22 = printed **17–21**, but still confirm from the scan;
+3. confirm visible printed page number individually;
 4. run historical-glyph pre-correction checks;
-5. preserve page boundaries and cross-page continuity;
-6. keep later pen/pencil/handwriting outside canonical text;
-7. create `works/vellikkizhamai/pages/0018-...md` through `0022-...md` using the repository's existing naming/front-matter pattern;
-8. update `works/vellikkizhamai/indexes/page-map.md`, `audit.md`, work README, root README, this handover, and the next-chat prompt if the next checkpoint changes;
-9. commit the batch narrowly, suggested message: **`Transcribe வெள்ளிக்கிழமை scans 18-22`**;
-10. verify live `main` after the ref update.
+5. preserve page boundaries/cross-page continuity;
+6. exclude later pen/pencil/handwriting;
+7. create canonical page records using the existing filename/front-matter pattern;
+8. update page map, audit, work README, root README, handover and next-chat prompt;
+9. commit narrowly;
+10. verify live `main` after ref update.
 
-Stop before scan 23 unless explicitly instructed farther.
+Do not start English or assembled Tamil. Do not reopen completed prior novels.
 
 ---
 
 ## Completed work — பெரிய இடத்துப் பெண்
 
-Completed with 49/49 source-comparison coverage, assembled Tamil PASSED, English VERIFIED, and RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION. Canonical freeze remains 0 verified / 49 `needs-review`.
+49/49 source-comparison coverage; assembled Tamil PASSED; English VERIFIED; RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION; canonical freeze remains 0 verified / 49 `needs-review`.
 
 ## Completed work — புதையல்
 

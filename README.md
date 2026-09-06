@@ -25,14 +25,15 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **17 / 179**;
+- canonical page records: **22 / 179**;
 - scans 1–3 front matter: **verified**;
 - scans 4–12 / Chapter 1: **directly transcribed and verified; Chapter 1 complete**;
-- scans 13–17 / Chapter 2 opening: **directly transcribed and verified**;
-- historical-glyph/source-sensitive checks: **PASS through scan 17**, including scan 8 `களைத்துத்`, scan 9 `குழப்பட்டு`, scan 12 `அந்தப் பருக்கூட்டமே`, and source-specific Chapter 2 readings preserved without normalization;
-- next batch: **scans 18–22**, completing Chapter 2 before scan 23 / Chapter 3.
+- scans 13–22 / Chapter 2: **directly transcribed and verified; Chapter 2 complete**;
+- historical-glyph/source-sensitive checks: **PASS through scan 22**;
+- printed-page mapping through scan 22: scan 4 and scan 9 unnumbered; scans 5–8 = **4–7**; scans 10–22 = **9–21**;
+- next batch: **scans 23–27**, beginning Chapter 3 at the directly confirmed scan-23 opening.
 
-The source is image-only and uses older Tamil print conventions. Every body page must use the historical-glyph pre-correction workflow in `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Later underlining/ticks/handwriting must remain separate from printed text. The source PDF remains outside the repository.
+The source is image-only and uses older Tamil print conventions. Every body page must use the historical-glyph pre-correction workflow in `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Later underlining/ticks/handwriting remain separate from printed text. The source PDF remains outside the repository.
 
 ## Completed works
 
@@ -44,15 +45,15 @@ The source is image-only and uses older Tamil print conventions. Every body page
 
 ## Historical Tamil glyph handling
 
-For older Tamil sources, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) before deciding difficult glyphs. Its governing rule is: **identify the historical character identity from source pixels first, then encode that identity in modern Unicode without modernizing the source wording.** The documented minimum Periyar-reform-sensitive set is `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+For older Tamil sources, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md). Governing rule: **identify historical character identity from source pixels first, then encode that identity in modern Unicode without modernizing source wording.** Minimum set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-`வெள்ளிக்கிழமை` (1968) is the current active work. Scans 4–17 have passed direct high-resolution transcription and historical-glyph checking. Chapter 1 is complete through scan 12; scans 13–17 begin Chapter 2. Scan 8's initially held cluster is source-supported as `களைத்துத் தூங்கிவிட்டால்`, with historical `ளை` identity. No contextual guess or global replacement was used.
+For `வெள்ளிக்கிழமை`, scans 4–22 have passed direct high-resolution transcription and historical-glyph checking. Chapter 1 is complete through scan 12 and Chapter 2 through scan 22. Source-specific readings remain preserved without normalization; scan 8's earlier held cluster is `களைத்துத் தூங்கிவிட்டால்`, and the scan-20 `என்றான்` forms were decoded as historical `றா` identities from source pixels/same-edition type behaviour.
 
 The completed whole-work audit of `பெரிய இடத்துப் பெண்` remains a reference for historical-glyph handling; its canonical freeze remains unchanged.
 
 ## பெரிய இடத்துப் பெண் — completed archival / English state
 
-Working English title: **The Woman of the Great House**. All seven source-structured English sections are reviewed; the whole-work bilingual review PASSED and English is VERIFIED. Its package is **RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION** because canonical Tamil remains 0 verified / 49 `needs-review` under the user-mandated freeze. No further mandatory processing remains under that instruction.
+Working English title: **The Woman of the Great House**. All seven source-structured English sections are reviewed; the whole-work bilingual review PASSED and English is VERIFIED. Its package is **RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION** because canonical Tamil remains 0 verified / 49 `needs-review` under the user-mandated freeze.
 
 ## புதையல் — final release state
 

@@ -15,11 +15,11 @@ This is the active source in `pugazg/kalaignar-novels`.
 - SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`;
 - PDF text layer: **none — image-only scan**;
 - page manifest: **179 / 179 scans represented**;
-- canonical page records: **17 / 179**;
+- canonical page records: **22 / 179**;
 - scans 1–3 front matter: **verified**;
 - scans 4–12 / Chapter 1: **directly transcribed and verified / complete**;
-- scans 13–17 / Chapter 2 opening batch: **directly transcribed and verified**;
-- printed mapping established through scan 17: scan 4 and scan 9 unnumbered; scans 5–8 = printed **4–7**; scans 10–17 = printed **9–16**;
+- scans 13–22 / Chapter 2: **directly transcribed and verified / complete**;
+- printed mapping established through scan 22: scan 4 and scan 9 unnumbered; scans 5–8 = printed **4–7**; scans 10–22 = printed **9–21**;
 - Tamil full-source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**.
@@ -30,56 +30,44 @@ Direct inspection confirms scan 1 title `வெள்ளிக்கிழமை
 
 The user's catalogue-style author form `கலைஞர் மு. கருணாநிதி` remains contextual; canonical source metadata preserves the cover wording `மு. கருணாநிதி`.
 
-## User-supplied contextual description
-
-The user supplied a synopsis explaining that the novel rejects any intrinsic specialness of Friday and follows a family trapped in a dangerous social situation, including the ruin of a vulnerable woman's life on a Friday. This is retained as contextual orientation only, not as source transcription.
-
 ## Structural observations
 
 - scan 4 — Chapter 1 opening;
-- scans 13, 23, 33, 45, 52, 60, 68 — directly located Chapter 2–8 openings;
+- scan 13 — Chapter 2 opening;
+- scan 23 — Chapter 3 opening;
+- scans 33, 45, 52, 60, 68 — directly located Chapter 4–8 openings;
 - full later chapter map remains pending;
-- scan 179 / printed 178 contains the final narrative paragraph plus illustration;
-- no separate back-cover scan follows scan 179.
+- scan 179 / printed 178 contains the final narrative paragraph plus illustration.
 
 Do not infer unreviewed chapter boundaries or printed-page numbers from sequence alone.
 
-## First narrative batch — scans 4–8
+## Completed Tamil transcription batches
 
-Direct high-resolution comparison is complete for all five pages. Printed text only was transcribed; later pen/underline material was excluded.
+### Scans 4–8
 
-Historical-glyph pre-correction review was run page by page. The one cluster held back during the first pass on scan 8 is now resolved from native/enlarged pixels plus same-edition comparison: **`களைத்துத் தூங்கிவிட்டால்`**, with historical `ளை` identity. No global replacement or lexical modernization was used.
+Direct high-resolution comparison complete. Historical-glyph review passed. Scan 8's held cluster is source-supported as **`களைத்துத் தூங்கிவிட்டால்`**, with historical `ளை` identity.
 
-Cross-page continuity retained in canonical records:
+### Scans 9–12 — Chapter 1 completion
 
-- scan 4 final `ஏதோ` → scan 5 opening;
-- scan 5 final `அவைகளே` → scan 6 opening `கேலிக்குரியதாக ஆக்கிய...`;
-- scan 8 final `கிழக்கு வானம் வெளுக்கத்` → scan 9.
+Source-specific scan 9 `குழப்பட்டு` and scan 12 `அந்தப் பருக்கூட்டமே` are preserved. Tiruppavai quotations are transcribed from this edition. Scan 12 closes Chapter 1.
 
-## Second narrative batch — scans 9–12
+### Scans 13–17 — Chapter 2 opening
 
-Direct high-resolution comparison is complete for all four pages, finishing Chapter 1 immediately before scan 13 / Chapter 2. Printed text only was transcribed and the historical-glyph pre-correction gate passed on each scan.
+Source-sensitive wording retained, including scan 13 `எடுபிடி ஆள் அப்புகள்`, scan 16 `இன்பபுரி வெண்புருக்கள்`, scan 17 `வேலையில்ல` / `நல்லதாப் போச்சு`. Cross-page joins: scan 14 `அதிலே` → scan 15 `வரும் அர்ச்சுனன்...`; scan 16 `எண்ணும்` → scan 17 `போது—`; scan 17 `“சுசீலா! நீ?”` → scan 18 reply.
 
-Source-sensitive readings retained without normalization include scan 9 **`குழப்பட்டு`** and scan 12 **`அந்தப் பருக்கூட்டமே`**. The Tiruppavai quotations on scans 10–12 are transcribed from this edition rather than replaced with an external canonical version.
+### Scans 18–22 — Chapter 2 completion
 
-Cross-page / structural continuity:
+Direct enlarged/native source comparison and historical-glyph pre-correction checks passed for all five scans. Visible printed pages are **17–21**.
 
-- scan 8 `கிழக்கு வானம் வெளுக்கத்` + scan 9 `துவங்கிவிட்டது.`;
-- scan 10 final `இருந்தாள்—` continues into scan 11's quoted question;
-- scan 12 closes Chapter 1; scan 13 begins source-printed Chapter 2.
+Source-sensitive readings preserved include:
 
-## Third narrative batch — scans 13–17
+- scan 18: `கற்காததைக்`, `பவிஷும்`, historical-`றா` forms including `கக்குகிறாள்`;
+- scan 19: `வைதீகந்தான்`, `வைதீகப் பழங்கள்`, `கொல்லென`, `வந்துவிட்டானு`, `போகலாம்னு`;
+- scan 20: historical-`றா` `என்றான்`, plus `நிச்சயமாயிட்டுது`, `குறிக்கிலே`, `வர்றாங்க`;
+- scan 21: colloquial forms including `சொல்றே`, `வர்ற`, `வரணும்`, `போறான்`, `வந்துட்டே`;
+- scan 22: `அள்ளிக்கொண்டு`, `இழைந்தது`, `வர்ற வேளையிலே`.
 
-Direct high-resolution comparison is complete for the first five pages of Chapter 2. Scan 13 is the source-printed Chapter 2 opening; scans 13–17 correspond to printed pages **12–16**. Printed text only was transcribed and later pen/underline/handwriting marks were excluded.
-
-Historical-glyph/source-sensitive review passed on all five scans. Source-specific wording is preserved without normalization, including scan 13 `எடுபிடி ஆள் அப்புகள்`, scan 16 `இன்பபுரி வெண்புருக்கள்`, and scan 17 colloquial `வேலையில்ல` / `நல்லதாப் போச்சு`.
-
-Cross-page / structural continuity:
-
-- scan 14 final `அதிலே` → scan 15 opening `வரும் அர்ச்சுனன்...`;
-- scan 16 final `எண்ணும்` → scan 17 opening `போது—`;
-- scan 17 final `“சுசீலா! நீ?”` continues with Suseela's reply on scan 18;
-- no text from scan 18 has been moved backward.
+Later pen/underline/handwriting was excluded throughout. Scan 21 `“லேடி டாக்டர் வந்தாச்சுல்லே?”` → scan 22 reply. Scan 22 closes Chapter 2 immediately before scan 23 / Chapter 3.
 
 ## Historical Tamil glyph policy
 
@@ -90,11 +78,8 @@ Use root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. For every body page in
 - [`metadata/source.md`](metadata/source.md)
 - [`indexes/page-map.md`](indexes/page-map.md)
 - [`audit.md`](audit.md)
-- [`pages/0001-cover.md`](pages/0001-cover.md)
-- [`pages/0002-copy-note.md`](pages/0002-copy-note.md)
-- [`pages/0003-publication.md`](pages/0003-publication.md)
-- [`pages/0004-vellikkizhamai-01.md`](pages/0004-vellikkizhamai-01.md) through [`pages/0017-vellikkizhamai-14.md`](pages/0017-vellikkizhamai-14.md)
+- [`pages/0001-cover.md`](pages/0001-cover.md) through [`pages/0022-vellikkizhamai-19.md`](pages/0022-vellikkizhamai-19.md)
 
 ## Exact next activity
 
-Process scans **18–22**, continuing and completing Chapter 2 immediately before scan 23 / Chapter 3. Directly inspect each scan, populate visible printed-page numbers individually, apply the historical-glyph pre-correction gate, update page map/audit/status documents, and commit the batch. Do not commit the source PDF.
+Process scans **23–27**, beginning source-printed Chapter 3 at scan 23. Directly inspect each scan, record each visible printed page number, apply historical-glyph pre-correction, preserve source boundaries and later-mark separation, update page map/audit/status documents, and commit narrowly. Do not start English and do not commit the source PDF.
