@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 Fetch live `main` first. Preserve newer durable work. Do not reset or repeat completed pages because this prompt may contain an older checkpoint.
 
-Current durable state when prepared: **33 / 179 canonical records, all 33 verified; historical-glyph PASS through scan 33.** Verify live `main` before changing anything.
+Current durable state when prepared: **34 / 179 canonical records, all 34 verified; historical-glyph PASS through scan 34.** Verify live `main` before changing anything.
 
 ## Controlling source
 
@@ -32,14 +32,14 @@ Read completely: `NOVEL_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPT
 ## Current state
 
 - manifest **179 / 179**;
-- canonical **33 / 179, all verified**;
+- canonical **34 / 179, all verified**;
 - scans 1–3 front matter verified;
 - scans 4–12 Chapter 1 verified / complete;
 - scans 13–22 Chapter 2 verified / complete;
 - scans 23–32 Chapter 3 verified;
 - scan 33 / printed **32** is a verified mixed boundary page: Chapter 3 carryover at top, then centered source-printed `4`, then Chapter 4 opening;
-- scans 28–32 former `partial` holds are resolved by enlarged/native source-pixel review;
-- historical-glyph PASS through scan 33;
+- scan 34 / printed **33** is verified Chapter 4 continuation;
+- historical-glyph PASS through scan 34;
 - full Tamil audit, assembled Tamil and English have not started.
 
 ## Historical-glyph rule
@@ -50,12 +50,14 @@ Mandatory historical set for every body page:
 
 Only positive source-pixel evidence can clear a page. Do not modernize source spelling/grammar/punctuation, do not infer from context/OCR, and never global-replace.
 
-## Durable scan-33 boundary
+## Durable scan-33 / scan-34 continuity
 
-Scan 33 ends `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே`. Its continuation belongs to scan 34 and must not be supplied from context or moved backward.
+Scan 33 ends `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே`; scan 34 begins `போவதாக இருக்கிறாள்.`. This physical boundary is verified and must remain reversible.
+
+Scan 34 source-specific readings include `நயினு`, `நயினுமுகம்மது`, `சேர்ந்து போகாமல்`, `முழுமுயற்சி`, `தானும்போய்`, and `பேச்செடுத்தான்`; do not silently normalize them.
 
 ## Exact next activity
 
-Process **scan 34** directly from sufficient-resolution source pixels, continue Chapter 4 from scan 33, populate its printed-page value only from its own visible source number, apply the full historical-glyph gate, create the canonical page record, synchronize page-map/audit/status docs, commit narrowly, verify live `main`, and stop unless explicitly instructed farther.
+Process **scan 35** directly from sufficient-resolution source pixels, continue Chapter 4 from scan 34, populate its printed-page value only from its own visible source number, apply the full historical-glyph gate, create the canonical page record, synchronize page-map/audit/status docs, commit narrowly, verify live `main`, and stop unless explicitly instructed farther.
 
 Do not start English or assembled Tamil. Do not reopen completed prior novels.

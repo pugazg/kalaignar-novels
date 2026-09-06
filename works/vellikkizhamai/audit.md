@@ -14,12 +14,12 @@
 | Source identity inspected | **complete for intake** |
 | Actual PDF page count / size / checksum | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **33 / 179 — all 33 verified** |
+| Canonical page records | **34 / 179 — all 34 verified** |
 | Front matter scans 1–3 | **verified** |
-| Body transcription | **scans 4–33 verified; Chapters 1–2 complete; Chapter 3 complete through its carryover on scan 33; Chapter 4 opens on scan 33** |
-| Printed-page map | **partial — confirmed through scan 33; scans 28–32 = 27–31; scan 33 = 32** |
+| Body transcription | **scans 4–34 verified; Chapters 1–2 complete; Chapter 3 complete through its carryover on scan 33; Chapter 4 verified through scan 34** |
+| Printed-page map | **partial — confirmed through scan 34; scans 28–32 = 27–31; scan 33 = 32; scan 34 = 33** |
 | Chapter map | **partial — Chapters 1–8 located, with scan-33 mixed boundary preserved** |
-| Historical-glyph policy | **enabled; scans 4–33 passed** |
+| Historical-glyph policy | **enabled; scans 4–34 passed** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -72,7 +72,22 @@ Direct enlarged inspection of scan **33 / printed page 32** confirms this exact 
 
 The historical-glyph gate was completed for the whole page. In particular, the old-form line-split cluster printed as `நட்டு` + `வனர்` was decoded from source pixels as **`நட்டுவனார்`** (`னா` family), while `கற்பனை` was checked for `னை`. No Chapter 3 carryover was moved backward into scan 32.
 
-Scan 33 ends `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே`; its continuation remains for scan 34 and is not supplied from context.
+Scan 33 ends `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே`; its continuation remains physically on scan 34.
+
+## Scan 34 — Chapter 4 continuation verified
+
+**Result: VERIFIED.**
+
+Direct enlarged/native inspection of scan **34 / printed page 33** confirms that the page begins `போவதாக இருக்கிறாள்.`, completing scan 33's final `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே` across the physical page boundary. No text was moved backward.
+
+The full historical set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was checked. Representative direct clearances include:
+
+- `துணையாக` — `ணை` family;
+- `சோலை` / `சோலையானாலும்` — `லை` family;
+- `தன்னைத்` — `னை` family;
+- `பெண்ணைப்` — `ணை` family.
+
+Source-specific forms were retained exactly from the scan, including `நயினு`, first-occurrence `நயினுமுகம்மது`, the printed phrase `சேர்ந்து போகாமல்`, `தன்னைத் தலைமைப் பாத்திரமாக்கிக்கொண்டு`, `முழுமுயற்சி`, `தானும்போய்`, and `பேச்செடுத்தான்`. No contextual modernization or OCR repair was used. No unresolved source cluster remains on scan 34.
 
 ## Source marks / contamination risks
 
@@ -80,7 +95,7 @@ Later underlining, ticks and handwriting occur in the copy and remain outside ca
 
 ## Unresolved project items
 
-- scans **34–179** canonical processing;
+- scans **35–179** canonical processing;
 - printed-page mapping for later scans;
 - chapter openings after Chapter 8;
 - final complete Tamil audit;
@@ -89,4 +104,4 @@ Later underlining, ticks and handwriting occur in the copy and remain outside ca
 
 ## Exact next activity
 
-**Stop at the verified scan-33 checkpoint unless explicitly instructed farther.** When continuation is authorized, process **scan 34** by direct visual inspection, continue Chapter 4, populate its printed-page value only from source evidence, and apply the same 13-family historical-glyph gate. English and assembled Tamil remain blocked.
+**Stop at the verified scan-34 checkpoint unless explicitly instructed farther.** When continuation is authorized, process **scan 35** by direct visual inspection, continue Chapter 4, populate its printed-page value only from source evidence, and apply the same 13-family historical-glyph gate. English and assembled Tamil remain blocked.

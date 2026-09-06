@@ -13,14 +13,15 @@
 - SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`;
 - PDF text layer: **none — image-only scan**;
 - page manifest: **179 / 179 scans represented**;
-- canonical page records: **33 / 179**;
-- canonical status split: **33 verified / 0 partial**;
+- canonical page records: **34 / 179**;
+- canonical status split: **34 verified / 0 partial**;
 - scans 1–3 front matter: **verified**;
 - scans 4–12 / Chapter 1: **verified / complete**;
 - scans 13–22 / Chapter 2: **verified / complete**;
 - scans 23–32 / Chapter 3: **verified through printed page 31**;
 - scan 33 / printed page 32: **verified mixed Chapter 3 / Chapter 4 boundary page**;
-- historical-glyph gate: **PASS through scan 33**;
+- scan 34 / printed page 33: **verified Chapter 4 continuation**;
+- historical-glyph gate: **PASS through scan 34**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**.
@@ -35,6 +36,7 @@ Direct inspection confirms source title `வெள்ளிக்கிழமை
 - scan 13 — Chapter 2 opening;
 - scan 23 — Chapter 3 opening;
 - **scan 33 / printed 32 opens with a short Chapter 3 carryover, then the source-printed Chapter 4 heading and opening on the same scan**;
+- scan 34 / printed 33 continues Chapter 4;
 - later located chapter headings: scans 45, 52, 60, 68 for Chapters 5–8;
 - full later chapter map remains pending.
 
@@ -46,9 +48,10 @@ Do not infer unreviewed chapter boundaries or move text across physical scan bou
 - scans 13–22: Chapter 2 verified / complete;
 - scans 23–27: Chapter 3 opening verified;
 - scans 28–32: printed pages 27–31, source-faithful Tamil transcription and historical-glyph verification completed;
-- scan 33: printed page 32, mixed Chapter 3 carryover + Chapter 4 heading/opening verified.
+- scan 33: printed page 32, mixed Chapter 3 carryover + Chapter 4 heading/opening verified;
+- scan 34: printed page 33, Chapter 4 continuation verified from enlarged/native source pixels.
 
-Source-sensitive decisions through scan 33 remain durable. The scans 28–33 clearance used enlarged/native source pixels and the mandatory historical set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`; no OCR/context reading was promoted without visual source support.
+Source-sensitive decisions through scan 34 remain durable. Every cleared body page used the mandatory historical set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`; no OCR/context reading was promoted without visual source support.
 
 ## Scans 28–33 — source-review resolution
 
@@ -61,7 +64,11 @@ Boundary findings remain:
 - scan 31 ends `மூன்றாவது`, continued on scan 32 by `ஆள் வேம்பு!`;
 - Chapter 3 continues beyond scan 32;
 - scan 33 preserves its Chapter 3 carryover, centered `4`, and Chapter 4 opening in that source order;
-- scan 33 ends `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே`, which remains for scan 34 to continue.
+- scan 33 ends `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே`, continued physically on scan 34 by `போவதாக இருக்கிறாள்.`.
+
+## Scan 34 source-sensitive notes
+
+Scan 34 was inspected directly at enlarged/native resolution. Its visible printed page number is **33**. Source-specific forms such as `நயினு`, `நயினுமுகம்மது`, `சேர்ந்து போகாமல்`, `முழுமுயற்சி`, `தானும்போய்`, and `பேச்செடுத்தான்` are preserved as printed rather than regularized from context. The page remains within Chapter 4.
 
 ## Historical Tamil glyph policy
 
@@ -72,8 +79,8 @@ Use root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Only source-proven cha
 - [`metadata/source.md`](metadata/source.md)
 - [`indexes/page-map.md`](indexes/page-map.md)
 - [`audit.md`](audit.md)
-- [`pages/0001-cover.md`](pages/0001-cover.md) through [`pages/0033-vellikkizhamai-30.md`](pages/0033-vellikkizhamai-30.md)
+- [`pages/0001-cover.md`](pages/0001-cover.md) through [`pages/0034-vellikkizhamai-31.md`](pages/0034-vellikkizhamai-31.md)
 
 ## Exact next activity
 
-**Stop at the completed scan-33 checkpoint unless explicitly instructed farther.** When continuation is authorized, process **scan 34** directly from source pixels, continue Chapter 4, populate its printed-page value only from that scan, and retain the same historical-glyph gate. Do not start assembled Tamil or English.
+**Stop at the completed scan-34 checkpoint unless explicitly instructed farther.** When continuation is authorized, process **scan 35** directly from source pixels, continue Chapter 4, populate its printed-page value only from that scan, and retain the same historical-glyph gate. Do not start assembled Tamil or English.

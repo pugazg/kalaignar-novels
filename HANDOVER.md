@@ -14,7 +14,7 @@
 
 Fetch live `main` first and preserve newer durable work. Do not repeat completed work because a copied checkpoint is older.
 
-Current handover state: **33 / 179 canonical records, all 33 verified; historical-glyph PASS through scan 33.** Scans 28–32 former `partial` holds are resolved, and scan 33's mixed Chapter 3 / Chapter 4 boundary is verified. Verify live `main` before further source work.
+Current handover state: **34 / 179 canonical records, all 34 verified; historical-glyph PASS through scan 34.** Scan 33's mixed Chapter 3 / Chapter 4 boundary remains verified, and scan 34 continues Chapter 4. Verify live `main` before further source work.
 
 Before any source-dependent change, read completely:
 
@@ -46,13 +46,13 @@ Edition: **இரண்டாம் பதிப்பு: 1968**
 ## Current durable state
 
 - manifest: **179 / 179 represented**;
-- canonical records: **33 / 179, all verified**;
+- canonical records: **34 / 179, all verified**;
 - Chapter 1: scans 4–12 verified / complete;
 - Chapter 2: scans 13–22 verified / complete;
 - Chapter 3: scans 23–32 plus the carryover at top of scan 33 verified;
-- Chapter 4: source heading/opening begins on scan 33 and is verified through that physical page;
-- printed page numbers confirmed: scans 28–32 = **27–31**, scan 33 = **32**;
-- historical-glyph checks: **PASS through scan 33**;
+- Chapter 4: source heading/opening begins on scan 33; scan 34 is verified continuation;
+- printed page numbers confirmed: scans 28–32 = **27–31**, scan 33 = **32**, scan 34 = **33**;
+- historical-glyph checks: **PASS through scan 34**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**;
 - source PDF committed: **No**.
 
@@ -75,9 +75,15 @@ Scan 33 / printed page 32 contains, in this exact order:
 2. the centered source-printed **`4`** heading;
 3. the Chapter 4 opening.
 
-The carryover was not moved backward into scan 32. The page ends `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே`, whose continuation remains for scan 34.
+The carryover was not moved backward into scan 32. The page ends `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே`, whose continuation is on scan 34.
 
 Historical-glyph clearance on scan 33 includes the source line-split old-form cluster `நட்டு` + `வனர்`, decoded as **`நட்டுவனார்`** (`னா` family) from the source pixels.
+
+## Verified scan 34
+
+Scan 34 / printed page 33 begins `போவதாக இருக்கிறாள்.`, directly continuing the final phrase from scan 33. It remains within Chapter 4 and passed the complete 13-family historical-glyph gate.
+
+Source-specific forms intentionally retained include `நயினு`, first-occurrence `நயினுமுகம்மது`, `சேர்ந்து போகாமல்`, `முழுமுயற்சி`, `தானும்போய்`, and `பேச்செடுத்தான்`. These were read from enlarged/native source pixels and were not normalized from expected modern wording.
 
 ## Source authority / historical-glyph rule
 
@@ -87,12 +93,12 @@ Do not modernize spelling, grammar, punctuation, vocabulary, names, dialogue, or
 
 ## Exact next activity
 
-**Stop at scan 33 unless the user explicitly instructs farther.** When continuation is authorized:
+**Stop at scan 34 unless the user explicitly instructs farther.** When continuation is authorized:
 
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. process **scan 34** directly from source pixels, continuing Chapter 4 from scan 33;
-4. populate scan 34's printed-page value only from its own visible source number;
+3. process **scan 35** directly from source pixels, continuing Chapter 4;
+4. populate scan 35's printed-page value only from its own visible source number;
 5. apply the full historical-glyph gate;
 6. synchronize page-map/audit/status docs and commit narrowly.
 
