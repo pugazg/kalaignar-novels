@@ -6,14 +6,15 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count from direct file inspection: **179**;
 - initial page manifest: **179 / 179 represented below**;
-- canonical page records created so far: **22 / 179**;
+- canonical page records created so far: **27 / 179**;
 - direct front-matter transcription: scans **1–3 verified**;
-- body transcription: scans **4–22 verified**;
+- body transcription: scans **4–27 verified**;
 - Chapter 1: **complete / scans 4–12**;
 - Chapter 2: **complete / scans 13–22 verified**;
+- Chapter 3: **in progress / scans 23–27 verified**;
 - printed-page values marked `pending` must be populated only by direct visual inspection; they are not inferred from sequence.
 
-Directly confirmed numbering through scan 22:
+Directly confirmed numbering through scan 27:
 - scan 4: no visible printed page number;
 - scan 5: printed page 4;
 - scan 6: printed page 5;
@@ -22,6 +23,7 @@ Directly confirmed numbering through scan 22:
 - scan 9: no visible printed page number;
 - scans 10–17: printed pages **9–16**;
 - scans 18–22: printed pages **17–21**;
+- scans 23–27: printed pages **22–26**;
 - scan 68: printed page 67;
 - scan 176: printed page 175;
 - scan 179: printed page 178.
@@ -41,9 +43,10 @@ The full chapter map is still pending. Do not infer later chapter boundaries fro
 Current transcription checkpoint:
 - scans **4–12** / Chapter 1 directly transcribed and visually verified;
 - scans **13–22** / Chapter 2 directly transcribed and visually verified; Chapter 2 is complete;
+- scans **23–27** / Chapter 3 opening directly transcribed and visually verified;
 - scans **18–22** passed enlarged/native source comparison and the historical-glyph pre-correction gate;
 - later pen/underline/handwriting marks are excluded from printed text;
-- next batch: scans **23–27**, beginning Chapter 3 at the already-confirmed scan-23 chapter opening.
+- next batch: scans **28–32**, completing Chapter 3 before the already-confirmed scan-33 / Chapter 4 opening.
 
 | Scan | Printed page | Page type | Status | Note |
 |---:|:---:|---|---|---|
@@ -69,11 +72,11 @@ Current transcription checkpoint:
 | 20 | 19 | body | verified | Chapter 2; Tiger/Vembu dialogue; historical `என்றான்` (`றா`) resolved |
 | 21 | 20 | body | verified | Chapter 2; final `லேடி டாக்டர் வந்தாச்சுல்லே?` continues to scan 22 |
 | 22 | 21 | body | verified | Chapter 2 ending; சிந்தாமணி taken for medical care |
-| 23 | pending | body / chapter opening | not-started | Chapter 3 opening directly confirmed; next transcription batch begins here |
-| 24 | pending | body | not-started |  |
-| 25 | pending | body | not-started |  |
-| 26 | pending | body | not-started |  |
-| 27 | pending | body | not-started |  |
+| 23 | 22 | body / chapter opening | verified | Chapter 3 opening |
+| 24 | 23 | body | verified | Chapter 3; `உணர்ந்திருந்ததோடு` → `மட்டுமல்ல;` |
+| 25 | 24 | body | verified | Chapter 3; opens cross-page `அவர்` → `கள்தானே` |
+| 26 | 25 | body | verified | Chapter 3; opens `தான்.` completing `சேர்ந்தான்.` |
+| 27 | 26 | body | verified | Chapter 3; dialogue continues to scan 28 |
 | 28 | pending | body | not-started |  |
 | 29 | pending | body | not-started |  |
 | 30 | pending | body | not-started |  |
