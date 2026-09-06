@@ -6,83 +6,76 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count from direct file inspection: **179**;
 - initial page manifest: **179 / 179 represented below**;
-- canonical page records created so far: **27 / 179**;
+- canonical page records created so far: **32 / 179**;
 - direct front-matter transcription: scans **1–3 verified**;
-- body transcription: scans **4–27 verified**;
+- verified body transcription: scans **4–27 verified**;
+- partial source-review records: scans **28–32**;
 - Chapter 1: **complete / scans 4–12**;
-- Chapter 2: **complete / scans 13–22 verified**;
-- Chapter 3: **in progress / scans 23–27 verified**;
+- Chapter 2: **complete / scans 13–22**;
+- Chapter 3: **scans 23–27 verified; scans 28–32 partial; continues into scan 33**;
+- historical-glyph gate: **PASS through scan 27; pending scans 28–32**;
 - printed-page values marked `pending` must be populated only by direct visual inspection; they are not inferred from sequence.
 
-Directly confirmed numbering through scan 27:
+Directly confirmed numbering:
 - scan 4: no visible printed page number;
-- scan 5: printed page 4;
-- scan 6: printed page 5;
-- scan 7: printed page 6;
-- scan 8: printed page 7;
+- scans 5–8: printed **4–7**;
 - scan 9: no visible printed page number;
-- scans 10–17: printed pages **9–16**;
-- scans 18–22: printed pages **17–21**;
-- scans 23–27: printed pages **22–26**;
-- scan 68: printed page 67;
-- scan 176: printed page 175;
-- scan 179: printed page 178.
+- scans 10–17: printed **9–16**;
+- scans 18–22: printed **17–21**;
+- scans 23–27: printed **22–26**;
+- scans 28–32: printed **27–31**;
+- scan 33: printed **32**;
+- scan 68: printed **67**;
+- scan 176: printed **175**;
+- scan 179: printed **178**.
 
-Confirmed early chapter openings from direct scan inspection:
-- scan 4 — Chapter 1;
-- scan 13 — Chapter 2;
-- scan 23 — Chapter 3;
-- scan 33 — Chapter 4;
-- scan 45 — Chapter 5;
-- scan 52 — Chapter 6;
-- scan 60 — Chapter 7;
-- scan 68 — Chapter 8;
+Confirmed chapter structure:
+- scan 4 — Chapter 1 opening;
+- scan 13 — Chapter 2 opening;
+- scan 23 — Chapter 3 opening;
+- scan 33 — **Chapter 3 carryover at top, then Chapter 4 heading/opening on same scan**;
+- scan 45 — Chapter 5 heading located;
+- scan 52 — Chapter 6 heading located;
+- scan 60 — Chapter 7 heading located;
+- scan 68 — Chapter 8 heading located.
 
-The full chapter map is still pending. Do not infer later chapter boundaries from spacing or page count.
-
-Current transcription checkpoint:
-- scans **4–12** / Chapter 1 directly transcribed and visually verified;
-- scans **13–22** / Chapter 2 directly transcribed and visually verified; Chapter 2 is complete;
-- scans **23–27** / Chapter 3 opening directly transcribed and visually verified;
-- scans **18–22** passed enlarged/native source comparison and the historical-glyph pre-correction gate;
-- later pen/underline/handwriting marks are excluded from printed text;
-- next batch: scans **28–32**, completing Chapter 3 before the already-confirmed scan-33 / Chapter 4 opening.
+The full later chapter map remains pending. Do not infer boundaries from sequence alone.
 
 | Scan | Printed page | Page type | Status | Note |
 |---:|:---:|---|---|---|
 | 1 | — | cover | verified | Title/author/publisher cover |
 | 2 | — | copy-specific front matter | verified | Blank leaf with later donor label |
 | 3 | — | publication | verified | Second edition 1968 / price / printer |
-| 4 | — | body / chapter opening | verified | Chapter 1; source title + heading; no visible printed page number |
+| 4 | — | body / chapter opening | verified | Chapter 1; no visible printed page number |
 | 5 | 4 | body | verified | Chapter 1 |
-| 6 | 5 | body | verified | Chapter 1; later underline excluded from printed text |
+| 6 | 5 | body | verified | Chapter 1; later underline excluded |
 | 7 | 6 | body | verified | Chapter 1 |
-| 8 | 7 | body | verified | Chapter 1; `களைத்துத்` historical `ளை` resolved |
-| 9 | — | body | verified | Chapter 1; completes scan 8 `வெளுக்கத்` → `துவங்கிவிட்டது` |
-| 10 | 9 | body | verified | Chapter 1; Tiruppavai quotation preserved as printed |
-| 11 | 10 | body | verified | Chapter 1; Tiruppavai quotation / dialogue |
+| 8 | 7 | body | verified | Chapter 1; historical `ளை` resolution recorded |
+| 9 | — | body | verified | Chapter 1; cross-page continuation |
+| 10 | 9 | body | verified | Chapter 1 |
+| 11 | 10 | body | verified | Chapter 1 |
 | 12 | 11 | body | verified | Chapter 1 ending |
 | 13 | 12 | body / chapter opening | verified | Chapter 2 opening |
-| 14 | 13 | body | verified | Chapter 2; final `அதிலே` continues to scan 15 |
-| 15 | 14 | body | verified | Chapter 2; source three-star separator |
-| 16 | 15 | body | verified | Chapter 2; final `எண்ணும்` continues to scan 17 |
-| 17 | 16 | body | verified | Chapter 2; final `சுசீலா! நீ?` continues to scan 18 |
-| 18 | 17 | body | verified | Chapter 2; Suseela reply; historical `றா` checks complete |
-| 19 | 18 | body | verified | Chapter 2; Tiger introduced; source-specific colloquial/lexical forms retained |
-| 20 | 19 | body | verified | Chapter 2; Tiger/Vembu dialogue; historical `என்றான்` (`றா`) resolved |
-| 21 | 20 | body | verified | Chapter 2; final `லேடி டாக்டர் வந்தாச்சுல்லே?` continues to scan 22 |
-| 22 | 21 | body | verified | Chapter 2 ending; சிந்தாமணி taken for medical care |
+| 14 | 13 | body | verified | Chapter 2 |
+| 15 | 14 | body | verified | Chapter 2 |
+| 16 | 15 | body | verified | Chapter 2 |
+| 17 | 16 | body | verified | Chapter 2 |
+| 18 | 17 | body | verified | Chapter 2 |
+| 19 | 18 | body | verified | Chapter 2 |
+| 20 | 19 | body | verified | Chapter 2 |
+| 21 | 20 | body | verified | Chapter 2 |
+| 22 | 21 | body | verified | Chapter 2 ending |
 | 23 | 22 | body / chapter opening | verified | Chapter 3 opening |
-| 24 | 23 | body | verified | Chapter 3; `உணர்ந்திருந்ததோடு` → `மட்டுமல்ல;` |
-| 25 | 24 | body | verified | Chapter 3; opens cross-page `அவர்` → `கள்தானே` |
-| 26 | 25 | body | verified | Chapter 3; opens `தான்.` completing `சேர்ந்தான்.` |
-| 27 | 26 | body | verified | Chapter 3; dialogue continues to scan 28 |
-| 28 | pending | body | not-started |  |
-| 29 | pending | body | not-started |  |
-| 30 | pending | body | not-started |  |
-| 31 | pending | body | not-started |  |
-| 32 | pending | body | not-started |  |
-| 33 | pending | body | not-started |  |
+| 24 | 23 | body | verified | Chapter 3 |
+| 25 | 24 | body | verified | Chapter 3 |
+| 26 | 25 | body | verified | Chapter 3 |
+| 27 | 26 | body | verified | Chapter 3; final question continues to scan 28 |
+| 28 | 27 | body | partial | Chapter 3; printed page/structure confirmed; full transcription and historical-glyph verification pending |
+| 29 | 28 | body | partial | Chapter 3; printed page/structure confirmed; full transcription and historical-glyph verification pending |
+| 30 | 29 | body | partial | Chapter 3; printed page/structure confirmed; full transcription and historical-glyph verification pending |
+| 31 | 30 | body | partial | Chapter 3; printed page/structure confirmed; full transcription and historical-glyph verification pending |
+| 32 | 31 | body | partial | Chapter 3; continues into scan 33; full transcription and historical-glyph verification pending |
+| 33 | 32 | body / chapter boundary | not-started | Chapter 3 carryover at top; Chapter 4 heading/opening follows on same scan |
 | 34 | pending | body | not-started |  |
 | 35 | pending | body | not-started |  |
 | 36 | pending | body | not-started |  |
@@ -94,14 +87,14 @@ Current transcription checkpoint:
 | 42 | pending | body | not-started |  |
 | 43 | pending | body | not-started |  |
 | 44 | pending | body | not-started |  |
-| 45 | pending | body | not-started |  |
+| 45 | pending | body | not-started | Chapter 5 heading directly located |
 | 46 | pending | body | not-started |  |
 | 47 | pending | body | not-started |  |
 | 48 | pending | body | not-started |  |
 | 49 | pending | body | not-started |  |
 | 50 | pending | body | not-started |  |
 | 51 | pending | body | not-started |  |
-| 52 | pending | body | not-started |  |
+| 52 | pending | body | not-started | Chapter 6 heading directly located |
 | 53 | pending | body | not-started |  |
 | 54 | pending | body | not-started |  |
 | 55 | pending | body | not-started |  |
@@ -109,7 +102,7 @@ Current transcription checkpoint:
 | 57 | pending | body | not-started |  |
 | 58 | pending | body | not-started |  |
 | 59 | pending | body | not-started |  |
-| 60 | pending | body | not-started |  |
+| 60 | pending | body | not-started | Chapter 7 heading directly located |
 | 61 | pending | body | not-started |  |
 | 62 | pending | body | not-started |  |
 | 63 | pending | body | not-started |  |
@@ -117,7 +110,7 @@ Current transcription checkpoint:
 | 65 | pending | body | not-started |  |
 | 66 | pending | body | not-started |  |
 | 67 | pending | body | not-started |  |
-| 68 | pending | body | not-started |  |
+| 68 | 67 | body / chapter opening | not-started | Chapter 8 heading directly located; printed page directly confirmed |
 | 69 | pending | body | not-started |  |
 | 70 | pending | body | not-started |  |
 | 71 | pending | body | not-started |  |
@@ -225,7 +218,11 @@ Current transcription checkpoint:
 | 173 | pending | body | not-started |  |
 | 174 | pending | body | not-started |  |
 | 175 | pending | body | not-started |  |
-| 176 | pending | body | not-started |  |
+| 176 | 175 | body | not-started | Printed page directly confirmed |
 | 177 | pending | body | not-started |  |
 | 178 | pending | body | not-started |  |
-| 179 | pending | body | not-started |  |
+| 179 | 178 | body / final page | not-started | Printed page directly confirmed; final narrative paragraph plus illustration |
+
+## Exact next activity
+
+Re-review scans **28–32** at sufficient resolution and complete their full Tamil transcription + historical-glyph verification. Then process **scan 33**, preserving its Chapter 3 carryover and Chapter 4 heading/opening on the same physical page. Do not mark any partial page verified until the direct visual gate passes.

@@ -25,14 +25,16 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **27 / 179**;
+- canonical page records: **32 / 179 — 27 verified + scans 28–32 partial source-review holds**;
 - scans 1–3 front matter: **verified**;
-- scans 4–12 / Chapter 1: **directly transcribed and verified; Chapter 1 complete**;
-- scans 13–22 / Chapter 2: **directly transcribed and verified; Chapter 2 complete**;
-- scans 23–27 / Chapter 3 opening: **directly transcribed and verified**;
-- historical-glyph/source-sensitive checks: **PASS through scan 27**;
-- printed-page mapping through scan 27: scan 4 and scan 9 unnumbered; scans 5–8 = **4–7**; scans 10–27 = **9–26**;
-- next batch: **scans 28–32**, completing Chapter 3 before the directly confirmed scan-33 / Chapter 4 opening.
+- scans 4–12 / Chapter 1: **verified / complete**;
+- scans 13–22 / Chapter 2: **verified / complete**;
+- scans 23–27 / Chapter 3 opening: **verified**;
+- scans 28–32: **printed-page/structure review complete; full Tamil and historical-glyph verification pending**;
+- historical-glyph/source-sensitive checks: **PASS through scan 27; pending for scans 28–32**;
+- printed-page mapping confirmed through scan 33: scans 28–32 = **27–31**; scan 33 = **32**;
+- structural correction: scan 33 begins with **Chapter 3 carryover**, followed on the same scan by the source-printed **Chapter 4** heading;
+- next activity: obtain/review sufficient-resolution source for scans **28–32**, complete their source-faithful Tamil + historical-glyph verification, then process scan **33** without moving its Chapter 3 carryover backward.
 
 The source is image-only and uses older Tamil print conventions. Every body page must use the historical-glyph pre-correction workflow in `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Later underlining/ticks/handwriting remain separate from printed text. The source PDF remains outside the repository.
 
@@ -48,17 +50,7 @@ The source is image-only and uses older Tamil print conventions. Every body page
 
 For older Tamil sources, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md). Governing rule: **identify historical character identity from source pixels first, then encode that identity in modern Unicode without modernizing source wording.** Minimum set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-For `வெள்ளிக்கிழமை`, scans 4–27 have passed direct high-resolution transcription and historical-glyph checking. Chapter 1 is complete through scan 12, Chapter 2 through scan 22, and Chapter 3 is in progress through scan 27. Source-specific readings remain preserved without normalization; scan 8's earlier held cluster is `களைத்துத் தூங்கிவிட்டால்`, and the scan-20 `என்றான்` forms were decoded as historical `றா` identities from source pixels/same-edition type behaviour.
-
-The completed whole-work audit of `பெரிய இடத்துப் பெண்` remains a reference for historical-glyph handling; its canonical freeze remains unchanged.
-
-## பெரிய இடத்துப் பெண் — completed archival / English state
-
-Working English title: **The Woman of the Great House**. All seven source-structured English sections are reviewed; the whole-work bilingual review PASSED and English is VERIFIED. Its package is **RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION** because canonical Tamil remains 0 verified / 49 `needs-review` under the user-mandated freeze.
-
-## புதையல் — final release state
-
-Received derivatives cover scans **1–448**. The narrative ends on scan 447 / printed 443; scan 448 is the unnumbered printer colophon `அன்பு அச்சகம், பொறையார்.` Final canonical count is 448, with 446 verified-complete and scans 223–224 retained `needs-review` because of physical loss. Whole-work English remains VERIFIED and the package RELEASE-READY WITH QUALIFICATION.
+For `வெள்ளிக்கிழமை`, scans 4–27 have passed direct transcription and historical-glyph checking. Scans 28–32 are intentionally `partial`: their printed pages and structure are confirmed, but no full Tamil transcription is asserted until sufficient-resolution character-level review is possible.
 
 ## Release-status meaning
 

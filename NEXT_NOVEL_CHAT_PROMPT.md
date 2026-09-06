@@ -1,130 +1,63 @@
 # Next Chat Prompt — வெள்ளிக்கிழமை
 
-Continue the Kalaignar Novels / Story Books archival project directly in:
-
-`pugazg/kalaignar-novels`
-
-Branch: `main`  
-Active work: `works/vellikkizhamai/` — **வெள்ளிக்கிழமை**
+Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reset or repeat completed pages because this copied prompt contains an older checkpoint.
+Fetch live `main` first. Preserve newer durable work. Do not reset or repeat completed pages because this prompt may contain an older checkpoint.
 
-Current durable transcription checkpoint: **scans 23–27 / Chapter 3 opening**. Verify the live commit carrying this state before further source work.
+Current durable state when prepared: **32 / 179 canonical records = 27 verified + scans 28–32 `partial` source-review holds.** Verify live `main` before changing anything.
 
-## CONTROLLING SOURCE MUST BE ATTACHED AGAIN
+## Controlling source
 
-Before scan-level visual work, attach/resolve:
+Attach/resolve `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` before source-level visual work.
 
-`TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
+Recorded identity:
 
-Recorded source identity:
+- SHA-256 `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`;
+- size **251,126,214 bytes**;
+- actual scans **179**;
+- image-only;
+- title **வெள்ளிக்கிழமை**;
+- author as printed **மு. கருணாநிதி**;
+- publisher **திராவிடப்பண்ணை**;
+- edition **இரண்டாம் பதிப்பு: 1968**.
 
-- SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`;
-- file size: **251,126,214 bytes**;
-- recorded actual scans: **179**;
-- image-only / no parsed text layer;
-- title: **வெள்ளிக்கிழமை**;
-- author as printed: **மு. கருணாநிதி**;
-- publisher: **திராவிடப்பண்ணை**;
-- edition: **இரண்டாம் பதிப்பு: 1968**;
-- price: **ரூ. 2-50**;
-- printer: **சக்திவேல் பிரஸ், திருச்சிராப்பள்ளி-2.**
-
-Do **not** commit the PDF.
+Do not commit the PDF.
 
 ## Mandatory startup
 
-Read completely before any source-dependent change:
+Read completely: `NOVEL_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, root `README.md`, `HANDOVER.md`, this prompt, work README, metadata/source, page-map, audit, and existing canonical pages.
 
-1. `NOVEL_PROCESSING_GUIDE.md`
-2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-3. root `README.md`
-4. root `HANDOVER.md`
-5. this `NEXT_NOVEL_CHAT_PROMPT.md`
-6. `works/vellikkizhamai/README.md`
-7. `works/vellikkizhamai/metadata/source.md`
-8. `works/vellikkizhamai/indexes/page-map.md`
-9. `works/vellikkizhamai/audit.md`
-10. existing `works/vellikkizhamai/pages/*.md`
+## Current state
 
-## Current durable state
+- manifest **179 / 179**;
+- canonical **32 / 179**;
+- scans 1–3 front matter verified;
+- scans 4–12 Chapter 1 verified / complete;
+- scans 13–22 Chapter 2 verified / complete;
+- scans 23–27 Chapter 3 verified;
+- scans 28–32 = printed **27–31**, structural source review complete but full Tamil/historical-glyph verification pending;
+- historical-glyph PASS through scan 27 only;
+- scan 33 = printed **32** and is a mixed boundary page: Chapter 3 carryover at top, then source-printed Chapter 4 heading/opening;
+- full Tamil audit, assembled Tamil and English have not started.
 
-- page manifest: **179 / 179 scans represented**;
-- canonical page records: **27 / 179**;
-- scans 1–3 front matter: **verified**;
-- scans 4–12 / Chapter 1: **verified / complete**;
-- scans 13–22 / Chapter 2: **verified / complete**;
-- scans 23–27 / Chapter 3 opening: **verified**;
-- printed mapping through scan 27: scan 4 and scan 9 unnumbered; scans 5–8 = printed **4–7**; scans 10–27 = printed **9–26**;
-- scan 23 is directly confirmed Chapter 3 opening;
-- Tamil full-source audit: **not started**;
-- assembled Tamil: **not started**;
-- English translation: **blocked until Tamil gate passes**.
+## Scans 28–32 — do not overclaim
 
-## Completed source-sensitive decisions
+Canonical files 0028–0032 are intentionally `partial`. The previous source rendering allowed confident page-number and structure review, but not reliable character-level verification of every historical Tamil cluster. Do not treat those pages as transcribed/verified and do not fill them from context, OCR or outside text.
 
-Do not reopen without genuine contrary source evidence:
-
-- scan 8: `களைத்துத் தூங்கிவிட்டால்` — historical `ளை`;
-- scan 9: `குழப்பட்டு`;
-- scan 12: `அந்தப் பருக்கூட்டமே`;
-- scans 10–12 Tiruppavai text is source-edition transcription;
-- scan 13: `எடுபிடி ஆள் அப்புகள்`;
-- scan 16: `இன்பபுரி வெண்புருக்கள்`;
-- scan 17: `வேலையில்ல`, `நல்லதாப் போச்சு`;
-- scan 18: `கற்காததைக்`, `பவிஷும்`, historical-`றா` forms including `கக்குகிறாள்`;
-- scan 19: `வைதீகந்தான்`, `வைதீகப் பழங்கள்`, `கொல்லென`, `வந்துவிட்டானு`, `போகலாம்னு`;
-- scan 20: historical-`றா` `என்றான்`, `நிச்சயமாயிட்டுது`, `குறிக்கிலே`, `வர்றாங்க`;
-- scan 21: source colloquials `சொல்றே`, `வர்ற`, `வரணும்`, `போறான்`, `வந்துட்டே`;
-- scan 22: `அள்ளிக்கொண்டு`, `இழைந்தது`, `வர்ற வேளையிலே`.
-
-Known continuity:
-
-- scan 17 `“சுசீலா! நீ?”` → scan 18 reply;
-- scan 21 `“லேடி டாக்டர் வந்தாச்சுல்லே?”` → scan 22 reply;
-- scan 22 closes Chapter 2; scan 23 begins Chapter 3.
-
-Additional completed Chapter 3 source-sensitive decisions:
-
-- scan 23: `வயதினள்`, `அரிச்சுவடிதானே`, `‘ஸ்டெதாஸ் கோப்பை’`;
-- scan 24: source spacing `மருத்துவ மனைக்கு`, `வைத்திய சாலையைத்`;
-- scan 25: `புளகாங்கிதம்கொண்டிருந்தார்`, `ஊருக்கேதெரியும்`, `ஆனந்திக்குக்கூடத்தான்`;
-- scan 26: `வெண்புர`, `கைகாரி`, `கிண்டினான்`, `சூடேற்ற`;
-- scan 27: `அய்யனாருன்னு`, `புறப்பட்டாங்க`, `பெக்கிற`, `அப்பறந்தான்`.
-
-Known continuity: scan 23 `உணர்ந்திருந்ததோடு` → scan 24 `மட்டுமல்ல;`; scan 24 `அவர்` → scan 25 `கள்தானே`; scan 25 `சேர்ந்` → scan 26 `தான்.`; scan 27 dialogue continues to scan 28.
-
-## Source authority
-
-Authority order: **controlling source scan → canonical `pages/` → later assembled Tamil → later English**.
-
-OCR, Wikisource, web text, or machine extraction may be used only as secondary reading aids. Never let them override the supplied source scan. Do not silently modernize/correct source spelling, wording, grammar, punctuation, vocabulary, names, dialogue, or structure. Separate printed text from later underlining, ticks, handwriting, stamps, bleed-through, and scan artefacts.
-
-## Historical Tamil glyph rule — mandatory
-
-Every body page must explicitly check at minimum:
+Mandatory historical set for each page:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Inspect complete glyph clusters at high/native resolution; consider historical typeforms and faint vowel signs; compare same-edition forms where useful; require positive pixel evidence; never global-replace; preserve actual source oddities; leave genuine uncertainty `needs-review`.
+Only positive source-pixel evidence can clear the page.
+
+## Corrected scan-33 boundary
+
+Chapter 3 continues beyond scan 32. Scan 33 / printed 32 first contains a short Chapter 3 carryover, then the centered heading `4`, then Chapter 4 text. Preserve this physical boundary exactly; do not move scan-33 carryover into scan 32.
 
 ## Exact next activity
 
-Process **scans 28–32 only**, continuing and completing Chapter 3 immediately before the directly confirmed scan-33 / Chapter 4 opening.
+Re-open scans **28–32** at sufficient resolution and finish their source-faithful Tamil transcription + historical-glyph audit. Mark each `verified` only after direct visual clearance. Then process **scan 33**, preserving both the Chapter 3 carryover and the Chapter 4 heading/opening. Synchronize page-map/audit/status docs, commit narrowly, verify live `main`, and stop unless explicitly instructed farther.
 
-For each scan:
-
-1. inspect the whole page and enlarged difficult clusters;
-2. transcribe printed Tamil source-faithfully;
-3. confirm visible printed page number individually;
-4. run historical-glyph pre-correction checks;
-5. preserve source page boundaries and cross-page continuity;
-6. exclude later pen/pencil/handwriting from canonical printed text;
-7. create canonical page records following the existing filename/front-matter pattern;
-8. update `works/vellikkizhamai/indexes/page-map.md`, `audit.md`, work README, root README, `HANDOVER.md`, and this prompt;
-9. commit narrowly;
-10. verify live `main` after commit/ref update.
-
-Stop after scan 32 unless explicitly instructed farther. Do not start English or assembled Tamil. Do not reopen completed prior novels.
+Do not start English or assembled Tamil. Do not reopen completed prior novels.
