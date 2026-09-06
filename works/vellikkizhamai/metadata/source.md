@@ -39,11 +39,11 @@ Scan 2 is largely blank and contains a later donor label:
 
 This is recorded as copy-specific provenance, not as part of the novel's printed narrative.
 
-Several sampled body pages contain later underlining, ticks or handwritten marks. These must remain separate from printed source text during transcription.
+Several body pages contain later underlining, ticks, brackets or handwritten marks. These remain outside canonical printed text during transcription.
 
 ## Scan condition
 
-Initial direct inspection shows:
+Direct inspection shows:
 
 - age-toned paper;
 - scattered stains/specks;
@@ -55,39 +55,57 @@ Initial direct inspection shows:
 
 No OCR or parsed text is available as source authority.
 
-## Printed-page behaviour — intake observations only
+## Public mirror / source-resolution aid
 
-The full printed-page map has **not** yet been audited. Do not infer unreviewed numbers.
+A public Wikimedia Commons file page exists for `வெள்ளிக்கிழமை.pdf`, described there as a 1968 work uploaded from the Tamil Digital Library. Commons exposes PDF page previews up to **1,335 × 2,048** and reports an original scan geometry of **6,554 × 10,054** pixels across **179 pages**.
 
-Directly inspected examples:
+Commons file page:
 
-- scan 1: no printed page number;
-- scan 2: no printed page number;
-- scan 3: no printed page number;
+`https://commons.wikimedia.org/wiki/File:வெள்ளிக்கிழமை.pdf`
+
+Tamil Digital Library record:
+
+`https://tamildigitallibrary.in/Articles/நூல்-64233-வெள்ளிக்கிழமை`
+
+These are **resolution/recovery aids only**. The attached file identified by the SHA-256 above remains the controlling source. A mirror page may assist difficult-glyph inspection only after its physical page and printed content are visually reconciled to the controlling scan; mirror OCR or web text never overrides source pixels.
+
+## Printed-page behaviour — current direct map
+
+Do not infer unreviewed printed numbers from sequence.
+
+Directly confirmed:
+
+- scans 1–3: no printed page number;
 - scan 4: Chapter 1 opening; no visible printed page number;
-- scan 5: printed page **4**;
-- scan 68: printed page **67**;
-- scan 176: printed page **175**;
-- scan 179: printed page **178**.
+- scans 5–8: printed **4–7**;
+- scan 9: no visible printed page number;
+- scans 10–17: printed **9–16**;
+- scans 18–22: printed **17–21**;
+- scans 23–27: printed **22–26**;
+- scans 28–32: printed **27–31**;
+- scan 33: printed **32**;
+- scan 68: printed **67**;
+- scan 176: printed **175**;
+- scan 179: printed **178**.
 
-All remaining printed-page values stay pending until their own scan is inspected.
+All other printed-page values remain pending until their own scan is visually inspected.
 
-## Structural observations — provisional
+## Structural observations — current direct map
 
-The source is being treated as one continuous novel unless later source evidence shows otherwise.
+The source is treated as one continuous novel unless later source evidence shows otherwise.
 
-Directly confirmed early numbered chapter openings:
+Directly confirmed early numbered chapter openings / boundaries:
 
-- scan 4 — Chapter 1;
-- scan 13 — Chapter 2;
-- scan 23 — Chapter 3;
-- scan 33 — Chapter 4;
-- scan 45 — Chapter 5;
-- scan 52 — Chapter 6;
-- scan 60 — Chapter 7;
-- scan 68 — Chapter 8.
+- scan 4 — Chapter 1 opening;
+- scan 13 — Chapter 2 opening;
+- scan 23 — Chapter 3 opening;
+- scan 33 — **Chapter 3 carryover at top, then centered Chapter 4 heading/opening on the same physical scan**;
+- scan 45 — Chapter 5 heading located;
+- scan 52 — Chapter 6 heading located;
+- scan 60 — Chapter 7 heading located;
+- scan 68 — Chapter 8 heading located.
 
-The full chapter count and later chapter-opening scans remain to be mapped directly from the source.
+The full later chapter map remains pending. Do not infer boundaries from sequence alone.
 
 The final scan is scan 179 / printed page 178. It ends the narrative with the two men returning to Bengaluru while remembering the two women whose lives had left an indelible place in their memories; an illustration follows on the same page. No later scan/back-cover page is present in this PDF.
 
@@ -112,16 +130,22 @@ Rules:
 - encode only the proven historical character identity in modern Unicode;
 - preserve source spelling, vocabulary, grammar, punctuation and spacing choices;
 - no global replacement;
-- uncertain clusters remain `needs-review`.
+- uncertain clusters remain `needs-review` / `partial` and are never guessed.
 
-## Current intake state
+## Current durable state
 
 - page manifest: **179 / 179 represented**;
-- canonical page records: **3 / 179**;
-- scans 1–3: **verified** by direct visual comparison;
-- body transcription: **not started**;
-- full chapter map: **pending**;
-- full printed-page map: **pending**;
+- canonical page records: **32 / 179**;
+- scans 1–3: **verified** front matter;
+- scans 4–12: **verified**, Chapter 1 complete;
+- scans 13–22: **verified**, Chapter 2 complete;
+- scans 23–27: **verified**, Chapter 3 opening block;
+- scans 28–32: **partial source-review holds**, printed pages 27–31 confirmed; full Tamil + historical-glyph clearance pending;
+- historical-glyph gate: **PASS through scan 27**;
+- scan 33: printed page 32; Chapter 3 carryover followed by Chapter 4 heading/opening;
+- full Tamil source audit: **not started**;
+- assembled Tamil: **not started**;
+- English: **blocked until Tamil gate passes**;
 - source PDF: **not committed**.
 
-Next: transcribe and source-check scans **4–8** as the first narrative batch.
+Next: resolve scans **28–32** at sufficient source-pixel resolution, promote each page only after source-faithful transcription and historical-glyph clearance, then process mixed-boundary scan **33**.
