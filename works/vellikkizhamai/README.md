@@ -15,11 +15,12 @@ This is the active source in `pugazg/kalaignar-novels`.
 - SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`;
 - PDF text layer: **none — image-only scan**;
 - page manifest: **179 / 179 scans represented**;
-- canonical page records: **22 / 179**;
+- canonical page records: **27 / 179**;
 - scans 1–3 front matter: **verified**;
 - scans 4–12 / Chapter 1: **directly transcribed and verified / complete**;
 - scans 13–22 / Chapter 2: **directly transcribed and verified / complete**;
-- printed mapping established through scan 22: scan 4 and scan 9 unnumbered; scans 5–8 = printed **4–7**; scans 10–22 = printed **9–21**;
+- scans 23–27 / Chapter 3 opening: **directly transcribed and verified**;
+- printed mapping established through scan 27: scan 4 and scan 9 unnumbered; scans 5–8 = printed **4–7**; scans 10–27 = printed **9–26**;
 - Tamil full-source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**.
@@ -69,6 +70,14 @@ Source-sensitive readings preserved include:
 
 Later pen/underline/handwriting was excluded throughout. Scan 21 `“லேடி டாக்டர் வந்தாச்சுல்லே?”` → scan 22 reply. Scan 22 closes Chapter 2 immediately before scan 23 / Chapter 3.
 
+## Fifth narrative batch — scans 23–27 / Chapter 3 opening
+
+Direct enlarged/native source comparison and historical-glyph pre-correction checks passed for all five scans. Visible printed pages are **22–26**. Scan 23 is the source-printed Chapter 3 opening.
+
+Source-sensitive readings preserved include scan 23 `வயதினள்`, `அரிச்சுவடிதானே`, `‘ஸ்டெதாஸ் கோப்பை’`; scan 24 source spacing `மருத்துவ மனைக்கு` / `வைத்திய சாலையைத்`; scan 25 `புளகாங்கிதம்கொண்டிருந்தார்`, `ஊருக்கேதெரியும்`, `ஆனந்திக்குக்கூடத்தான்`; scan 26 `வெண்புர`, `கைகாரி`, `கிண்டினான்`, `சூடேற்ற`; and scan 27's colloquial dialogue including `அய்யனாருன்னு`, `புறப்பட்டாங்க`, `பெக்கிற`, `அப்பறந்தான்`.
+
+Cross-page continuity: scan 23 `உணர்ந்திருந்ததோடு` → scan 24 `மட்டுமல்ல;`; scan 24 `அவர்` → scan 25 `கள்தானே`; scan 25 `சேர்ந்` → scan 26 `தான்.`. Scan 27 ends with a dialogue question continuing into scan 28.
+
 ## Historical Tamil glyph policy
 
 Use root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. For every body page inspect the complete glyph cluster at enlarged/native resolution, consider `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, compare same-edition forms where useful, encode only proven character identity, preserve source wording/punctuation, and never global-replace.
@@ -78,8 +87,8 @@ Use root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. For every body page in
 - [`metadata/source.md`](metadata/source.md)
 - [`indexes/page-map.md`](indexes/page-map.md)
 - [`audit.md`](audit.md)
-- [`pages/0001-cover.md`](pages/0001-cover.md) through [`pages/0022-vellikkizhamai-19.md`](pages/0022-vellikkizhamai-19.md)
+- [`pages/0001-cover.md`](pages/0001-cover.md) through [`pages/0027-vellikkizhamai-24.md`](pages/0027-vellikkizhamai-24.md)
 
 ## Exact next activity
 
-Process scans **23–27**, beginning source-printed Chapter 3 at scan 23. Directly inspect each scan, record each visible printed page number, apply historical-glyph pre-correction, preserve source boundaries and later-mark separation, update page map/audit/status documents, and commit narrowly. Do not start English and do not commit the source PDF.
+Process scans **28–32**, continuing and completing Chapter 3 immediately before scan 33 / Chapter 4. Directly inspect each scan, record each visible printed page number, apply historical-glyph pre-correction, preserve source boundaries and later-mark separation, update page map/audit/status documents, and commit narrowly. Do not start English and do not commit the source PDF.

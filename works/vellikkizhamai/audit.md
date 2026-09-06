@@ -14,12 +14,12 @@
 | Source identity inspected | **complete for intake** |
 | Actual PDF page count / size / checksum | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **22 / 179** |
+| Canonical page records | **27 / 179** |
 | Front matter scans 1–3 | **verified** |
-| Body transcription | **scans 4–22 verified; Chapters 1–2 complete** |
-| Printed-page map | **partial — scan 4/9 unnumbered; scans 5–8 = 4–7; scans 10–22 = 9–21** |
+| Body transcription | **scans 4–27 verified; Chapters 1–2 complete; Chapter 3 in progress** |
+| Printed-page map | **partial — scan 4/9 unnumbered; scans 5–8 = 4–7; scans 10–27 = 9–26** |
 | Chapter map | **partial — Chapters 1–8 directly located** |
-| Historical-glyph policy | **enabled; scans 4–22 passed** |
+| Historical-glyph policy | **enabled; scans 4–27 passed** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -58,6 +58,20 @@ All five scans were inspected at enlarged/native resolution against the mandator
 - scan 21 `“லேடி டாக்டர் வந்தாச்சுல்லே?”` → scan 22 opening reply;
 - scan 22 closes Chapter 2; scan 23 is the directly confirmed Chapter 3 opening.
 
+## Fifth narrative batch — scans 23–27
+
+**Result: PASS / VERIFIED page records created; Chapter 3 begun.**
+
+- scan 23: printed page **22**; source-printed Chapter 3 opening; `வயதினள்`, `அரிச்சுவடிதானே`, `‘ஸ்டெதாஸ் கோப்பை’` retained;
+- scan 24: printed page **23**; source spacing `மருத்துவ மனைக்கு` / `வைத்திய சாலையைத்` retained;
+- scan 25: printed page **24**; `புளகாங்கிதம்கொண்டிருந்தார்`, `ஊருக்கேதெரியும்`, `ஆனந்திக்குக்கூடத்தான்` retained;
+- scan 26: printed page **25**; `வெண்புர`, `கைகாரி`, `கிண்டினான்`, `சூடேற்ற` source-checked at enlarged resolution;
+- scan 27: printed page **26**; colloquial dialogue including `அய்யனாருன்னு`, `புறப்பட்டாங்க`, `பெக்கிற`, `அப்பறந்தான்` retained.
+
+All five scans passed the mandatory historical-glyph set check at enlarged/native resolution. No global replacement or lexical modernization was used. Later pen/underline marks were excluded. No unresolved source cluster remains in scans 23–27.
+
+Cross-page continuity: scan 23 `உணர்ந்திருந்ததோடு` → scan 24 `மட்டுமல்ல;`; scan 24 `அவர்` → scan 25 `கள்தானே` = `அவர்கள்தானே`; scan 25 `சேர்ந்` → scan 26 `தான்.` = `சேர்ந்தான்.`; scan 27's final dialogue question continues to scan 28.
+
 ## Source marks / contamination risks
 
 Later underlining, ticks and handwriting occur in the copy and remain outside canonical novel text. Age-toning, stains, bleed-through and uneven ink remain glyph-reading risks for later batches.
@@ -68,7 +82,7 @@ Directly confirmed chapter openings: scan 4 (1), 13 (2), 23 (3), 33 (4), 45 (5),
 
 ## Unresolved project items
 
-- scans **23–179** canonical transcription;
+- scans **28–179** canonical transcription;
 - printed-page mapping for remaining scans;
 - chapter openings after Chapter 8;
 - historical-glyph decisions for later body pages;
@@ -77,4 +91,4 @@ Directly confirmed chapter openings: scan 4 (1), 13 (2), 23 (3), 33 (4), 45 (5),
 
 ## Exact next activity
 
-Process scans **23–27**, beginning Chapter 3 at scan 23. Perform direct high-resolution transcription, visible-page-number confirmation, historical-glyph checks, page-map/status synchronization and a narrow commit. English work remains blocked.
+Process scans **28–32** to complete Chapter 3 before scan 33 / Chapter 4. Perform direct high-resolution transcription, visible-page-number confirmation, historical-glyph checks, page-map/status synchronization and a narrow commit. English work remains blocked.

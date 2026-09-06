@@ -14,7 +14,7 @@
 
 Fetch live `main` first. Preserve newer durable work. Do not reset or repeat completed work because a copied checkpoint is older.
 
-Last durable transcription checkpoint represented by this handover: **scans 18–22 / Chapter 2 completion**. The commit carrying this file should be verified on live `main` before further source work.
+Last durable transcription checkpoint represented by this handover: **scans 23–27 / Chapter 3 opening**. The commit carrying this file should be verified on live `main` before further source work.
 
 Before any source-dependent change, read completely:
 
@@ -50,11 +50,12 @@ Printer: **சக்திவேல் பிரஸ், திருச்சி
 ## Current durable state
 
 - page manifest: **179 / 179 scans represented**;
-- canonical page records: **22 / 179**;
+- canonical page records: **27 / 179**;
 - scans 1–3 front matter: **verified**;
 - scans 4–12 / Chapter 1: **verified / complete**;
 - scans 13–22 / Chapter 2: **verified / complete**;
-- printed-page mapping through scan 22: scan 4 and scan 9 unnumbered; scans 5–8 = printed **4–7**; scans 10–22 = printed **9–21**;
+- scans 23–27 / Chapter 3 opening: **verified**;
+- printed-page mapping through scan 27: scan 4 and scan 9 unnumbered; scans 5–8 = printed **4–7**; scans 10–27 = printed **9–26**;
 - scan 23 is directly confirmed as Chapter 3 opening;
 - later chapter openings directly located at scans 33, 45, 52, 60, 68 for Chapters 4–8;
 - full later chapter map: **pending**;
@@ -96,6 +97,14 @@ Source-sensitive readings include:
 
 Continuity: scan 21 final `“லேடி டாக்டர் வந்தாச்சுல்லே?”` → scan 22 reply. Scan 22 closes Chapter 2 immediately before scan 23 / Chapter 3.
 
+### Scans 23–27 / Chapter 3 opening
+
+All five scans directly inspected at enlarged/native resolution; visible printed pages **22–26** confirmed; mandatory historical-glyph set checked; later pen/underline/handwriting excluded; no unresolved cluster remains.
+
+Source-sensitive readings include scan 23 `வயதினள்`, `அரிச்சுவடிதானே`, `‘ஸ்டெதாஸ் கோப்பை’`; scan 24 source spacing `மருத்துவ மனைக்கு` / `வைத்திய சாலையைத்`; scan 25 `புளகாங்கிதம்கொண்டிருந்தார்`, `ஊருக்கேதெரியும்`, `ஆனந்திக்குக்கூடத்தான்`; scan 26 `வெண்புர`, `கைகாரி`, `கிண்டினான்`, `சூடேற்ற`; scan 27 colloquial dialogue including `அய்யனாருன்னு`, `புறப்பட்டாங்க`, `பெக்கிற`, `அப்பறந்தான்`.
+
+Continuity: scan 23 `உணர்ந்திருந்ததோடு` → scan 24 `மட்டுமல்ல;`; scan 24 `அவர்` → scan 25 `கள்தானே`; scan 25 `சேர்ந்` → scan 26 `தான்.`; scan 27 ends with a question continuing to scan 28.
+
 ## Source authority and transcription rules
 
 Authority order: **controlling source scan → canonical `pages/` → later assembled Tamil → later English**.
@@ -108,7 +117,7 @@ For every body page explicitly consider at minimum `ணா / ணை / ணொ / �
 
 ## Exact next activity
 
-Process **scans 23–27 only**, beginning Chapter 3.
+Process **scans 28–32 only**, continuing and completing Chapter 3 before scan 33 / Chapter 4.
 
 For each scan:
 
