@@ -25,13 +25,14 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **22 / 179**;
+- canonical page records: **27 / 179**;
 - scans 1–3 front matter: **verified**;
 - scans 4–12 / Chapter 1: **directly transcribed and verified; Chapter 1 complete**;
 - scans 13–22 / Chapter 2: **directly transcribed and verified; Chapter 2 complete**;
-- historical-glyph/source-sensitive checks: **PASS through scan 22**;
-- printed-page mapping through scan 22: scan 4 and scan 9 unnumbered; scans 5–8 = **4–7**; scans 10–22 = **9–21**;
-- next batch: **scans 23–27**, beginning Chapter 3 at the directly confirmed scan-23 opening.
+- scans 23–27 / Chapter 3 opening: **directly transcribed and verified**;
+- historical-glyph/source-sensitive checks: **PASS through scan 27**;
+- printed-page mapping through scan 27: scan 4 and scan 9 unnumbered; scans 5–8 = **4–7**; scans 10–27 = **9–26**;
+- next batch: **scans 28–32**, completing Chapter 3 before the directly confirmed scan-33 / Chapter 4 opening.
 
 The source is image-only and uses older Tamil print conventions. Every body page must use the historical-glyph pre-correction workflow in `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Later underlining/ticks/handwriting remain separate from printed text. The source PDF remains outside the repository.
 
@@ -47,7 +48,7 @@ The source is image-only and uses older Tamil print conventions. Every body page
 
 For older Tamil sources, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md). Governing rule: **identify historical character identity from source pixels first, then encode that identity in modern Unicode without modernizing source wording.** Minimum set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-For `வெள்ளிக்கிழமை`, scans 4–22 have passed direct high-resolution transcription and historical-glyph checking. Chapter 1 is complete through scan 12 and Chapter 2 through scan 22. Source-specific readings remain preserved without normalization; scan 8's earlier held cluster is `களைத்துத் தூங்கிவிட்டால்`, and the scan-20 `என்றான்` forms were decoded as historical `றா` identities from source pixels/same-edition type behaviour.
+For `வெள்ளிக்கிழமை`, scans 4–27 have passed direct high-resolution transcription and historical-glyph checking. Chapter 1 is complete through scan 12, Chapter 2 through scan 22, and Chapter 3 is in progress through scan 27. Source-specific readings remain preserved without normalization; scan 8's earlier held cluster is `களைத்துத் தூங்கிவிட்டால்`, and the scan-20 `என்றான்` forms were decoded as historical `றா` identities from source pixels/same-edition type behaviour.
 
 The completed whole-work audit of `பெரிய இடத்துப் பெண்` remains a reference for historical-glyph handling; its canonical freeze remains unchanged.
 
