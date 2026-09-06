@@ -11,7 +11,7 @@ Active work: `works/vellikkizhamai/` — **வெள்ளிக்கிழம�
 
 Fetch live `main` first. Preserve newer durable work. Do not reset or repeat completed pages because this copied prompt contains an older checkpoint.
 
-Current durable transcription checkpoint: **scans 18–22 / Chapter 2 completion**. Verify the live commit carrying this state before further source work.
+Current durable transcription checkpoint: **scans 23–27 / Chapter 3 opening**. Verify the live commit carrying this state before further source work.
 
 ## CONTROLLING SOURCE MUST BE ATTACHED AGAIN
 
@@ -52,11 +52,12 @@ Read completely before any source-dependent change:
 ## Current durable state
 
 - page manifest: **179 / 179 scans represented**;
-- canonical page records: **22 / 179**;
+- canonical page records: **27 / 179**;
 - scans 1–3 front matter: **verified**;
 - scans 4–12 / Chapter 1: **verified / complete**;
 - scans 13–22 / Chapter 2: **verified / complete**;
-- printed mapping through scan 22: scan 4 and scan 9 unnumbered; scans 5–8 = printed **4–7**; scans 10–22 = printed **9–21**;
+- scans 23–27 / Chapter 3 opening: **verified**;
+- printed mapping through scan 27: scan 4 and scan 9 unnumbered; scans 5–8 = printed **4–7**; scans 10–27 = printed **9–26**;
 - scan 23 is directly confirmed Chapter 3 opening;
 - Tamil full-source audit: **not started**;
 - assembled Tamil: **not started**;
@@ -85,6 +86,16 @@ Known continuity:
 - scan 21 `“லேடி டாக்டர் வந்தாச்சுல்லே?”` → scan 22 reply;
 - scan 22 closes Chapter 2; scan 23 begins Chapter 3.
 
+Additional completed Chapter 3 source-sensitive decisions:
+
+- scan 23: `வயதினள்`, `அரிச்சுவடிதானே`, `‘ஸ்டெதாஸ் கோப்பை’`;
+- scan 24: source spacing `மருத்துவ மனைக்கு`, `வைத்திய சாலையைத்`;
+- scan 25: `புளகாங்கிதம்கொண்டிருந்தார்`, `ஊருக்கேதெரியும்`, `ஆனந்திக்குக்கூடத்தான்`;
+- scan 26: `வெண்புர`, `கைகாரி`, `கிண்டினான்`, `சூடேற்ற`;
+- scan 27: `அய்யனாருன்னு`, `புறப்பட்டாங்க`, `பெக்கிற`, `அப்பறந்தான்`.
+
+Known continuity: scan 23 `உணர்ந்திருந்ததோடு` → scan 24 `மட்டுமல்ல;`; scan 24 `அவர்` → scan 25 `கள்தானே`; scan 25 `சேர்ந்` → scan 26 `தான்.`; scan 27 dialogue continues to scan 28.
+
 ## Source authority
 
 Authority order: **controlling source scan → canonical `pages/` → later assembled Tamil → later English**.
@@ -101,7 +112,7 @@ Inspect complete glyph clusters at high/native resolution; consider historical t
 
 ## Exact next activity
 
-Process **scans 23–27 only**, beginning Chapter 3 at the source-printed scan-23 heading.
+Process **scans 28–32 only**, continuing and completing Chapter 3 immediately before the directly confirmed scan-33 / Chapter 4 opening.
 
 For each scan:
 
@@ -116,4 +127,4 @@ For each scan:
 9. commit narrowly;
 10. verify live `main` after commit/ref update.
 
-Stop after scan 27 unless explicitly instructed farther. Do not start English or assembled Tamil. Do not reopen completed prior novels.
+Stop after scan 32 unless explicitly instructed farther. Do not start English or assembled Tamil. Do not reopen completed prior novels.
