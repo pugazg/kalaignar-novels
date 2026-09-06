@@ -14,12 +14,12 @@
 | Source identity inspected | **complete for intake** |
 | Actual PDF page count / size / checksum | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **34 / 179 — all 34 verified** |
+| Canonical page records | **35 / 179 — all 35 verified** |
 | Front matter scans 1–3 | **verified** |
-| Body transcription | **scans 4–34 verified; Chapters 1–2 complete; Chapter 3 complete through its carryover on scan 33; Chapter 4 verified through scan 34** |
-| Printed-page map | **partial — confirmed through scan 34; scans 28–32 = 27–31; scan 33 = 32; scan 34 = 33** |
+| Body transcription | **scans 4–35 verified; Chapters 1–2 complete; Chapter 3 complete through its carryover on scan 33; Chapter 4 verified through scan 35** |
+| Printed-page map | **partial — confirmed through scan 35; scans 28–32 = 27–31; scan 33 = 32; scan 34 = 33; scan 35 = 34** |
 | Chapter map | **partial — Chapters 1–8 located, with scan-33 mixed boundary preserved** |
-| Historical-glyph policy | **enabled; scans 4–34 passed** |
+| Historical-glyph policy | **enabled; scans 4–35 passed** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -89,13 +89,31 @@ The full historical set `ணா / ணை / ணொ / ணோ / லை / ளை / �
 
 Source-specific forms were retained exactly from the scan, including `நயினு`, first-occurrence `நயினுமுகம்மது`, the printed phrase `சேர்ந்து போகாமல்`, `தன்னைத் தலைமைப் பாத்திரமாக்கிக்கொண்டு`, `முழுமுயற்சி`, `தானும்போய்`, and `பேச்செடுத்தான்`. No contextual modernization or OCR repair was used. No unresolved source cluster remains on scan 34.
 
+## Scan 35 — Chapter 4 dialogue continuation verified
+
+**Result: VERIFIED.**
+
+Direct enlarged/native inspection of scan **35 / printed page 34** confirms continuation of the அழகப்பன்–நயினு conversation in Chapter 4. The full historical set was checked before Unicode transcription.
+
+Representative source-sensitive findings:
+
+- `பட்டினால்` — the printed old-form cluster was positively decoded as historical `னா`; it was not copied as its modern visual look-alike;
+- `முல்லைச்சரமா` — `லை` family checked directly;
+- `பெண்ணைக்` — `ணை` family checked directly;
+- source spacing `குல்லாய் கூட` is preserved;
+- source wording `தெரிந்துகொள்ளவேண்டுமாக்கும்`, `மொட்டையடித்துக்கொள்ளாமலே`, `கிராப்புத் தலையுடனேயே`, and `கழட்டப்படுவதை` is retained without normalization.
+
+The source also prints an opening quotation mark before the narrative sentence `நயினுவின் கேலி அதிகமாயிற்று! அழகப்பன் வெட்கத்தால் தலை குனிந்தான்.` with no matching closing mark visible before the next quoted speech. That punctuation oddity is preserved rather than silently repaired. A later dark underline/mark near the beginning of the following `என்னப்பா...` speech was excluded from canonical printed text.
+
+No unresolved source cluster remains on scan 35. No scan-36 text was moved backward.
+
 ## Source marks / contamination risks
 
 Later underlining, ticks and handwriting occur in the copy and remain outside canonical novel text. Age-toning, stains, bleed-through and uneven ink remain glyph-reading risks for all future scans.
 
 ## Unresolved project items
 
-- scans **35–179** canonical processing;
+- scans **36–179** canonical processing;
 - printed-page mapping for later scans;
 - chapter openings after Chapter 8;
 - final complete Tamil audit;
@@ -104,4 +122,4 @@ Later underlining, ticks and handwriting occur in the copy and remain outside ca
 
 ## Exact next activity
 
-**Stop at the verified scan-34 checkpoint unless explicitly instructed farther.** When continuation is authorized, process **scan 35** by direct visual inspection, continue Chapter 4, populate its printed-page value only from source evidence, and apply the same 13-family historical-glyph gate. English and assembled Tamil remain blocked.
+**Stop at the verified scan-35 checkpoint unless explicitly instructed farther.** When continuation is authorized, process **scan 36** by direct visual inspection, continue Chapter 4, populate its printed-page value only from source evidence, and apply the same 13-family historical-glyph gate. English and assembled Tamil remain blocked.

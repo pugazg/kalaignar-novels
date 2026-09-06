@@ -14,7 +14,7 @@
 
 Fetch live `main` first and preserve newer durable work. Do not repeat completed work because a copied checkpoint is older.
 
-Current handover state: **34 / 179 canonical records, all 34 verified; historical-glyph PASS through scan 34.** Scan 33's mixed Chapter 3 / Chapter 4 boundary remains verified, and scan 34 continues Chapter 4. Verify live `main` before further source work.
+Current handover state: **35 / 179 canonical records, all 35 verified; historical-glyph PASS through scan 35.** Scan 33's mixed Chapter 3 / Chapter 4 boundary remains verified, and scans 34–35 continue Chapter 4. Verify live `main` before further source work.
 
 Before any source-dependent change, read completely:
 
@@ -46,13 +46,13 @@ Edition: **இரண்டாம் பதிப்பு: 1968**
 ## Current durable state
 
 - manifest: **179 / 179 represented**;
-- canonical records: **34 / 179, all verified**;
+- canonical records: **35 / 179, all verified**;
 - Chapter 1: scans 4–12 verified / complete;
 - Chapter 2: scans 13–22 verified / complete;
 - Chapter 3: scans 23–32 plus the carryover at top of scan 33 verified;
-- Chapter 4: source heading/opening begins on scan 33; scan 34 is verified continuation;
-- printed page numbers confirmed: scans 28–32 = **27–31**, scan 33 = **32**, scan 34 = **33**;
-- historical-glyph checks: **PASS through scan 34**;
+- Chapter 4: source heading/opening begins on scan 33; scans 34–35 are verified continuation;
+- printed page numbers confirmed: scans 28–32 = **27–31**, scan 33 = **32**, scan 34 = **33**, scan 35 = **34**;
+- historical-glyph checks: **PASS through scan 35**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**;
 - source PDF committed: **No**.
 
@@ -85,6 +85,22 @@ Scan 34 / printed page 33 begins `போவதாக இருக்கிறா
 
 Source-specific forms intentionally retained include `நயினு`, first-occurrence `நயினுமுகம்மது`, `சேர்ந்து போகாமல்`, `முழுமுயற்சி`, `தானும்போய்`, and `பேச்செடுத்தான்`. These were read from enlarged/native source pixels and were not normalized from expected modern wording.
 
+## Verified scan 35
+
+Scan 35 / printed page 34 continues the Chapter 4 conversation between அழகப்பன் and நயினு. It passed the complete 13-family historical-glyph gate.
+
+Key source-sensitive findings:
+
+- old-form `பட்டினால்` positively decoded with historical `னா` identity;
+- `முல்லைச்சரமா` checked for `லை`;
+- `பெண்ணைக்` checked for `ணை`;
+- source spacing `குல்லாய் கூட` retained;
+- `தெரிந்துகொள்ளவேண்டுமாக்கும்`, `மொட்டையடித்துக்கொள்ளாமலே`, `கிராப்புத் தலையுடனேயே`, and `கழட்டப்படுவதை` retained without normalization;
+- unmatched opening quotation before `நயினுவின் கேலி அதிகமாயிற்று!` preserved as printed;
+- later dark underline/mark near the next speech excluded from canonical text.
+
+No unresolved source cluster remains on scan 35. No scan-36 text was moved backward.
+
 ## Source authority / historical-glyph rule
 
 Authority: **controlling source scan → canonical `pages/` → later assembled Tamil → later English**.
@@ -93,12 +109,12 @@ Do not modernize spelling, grammar, punctuation, vocabulary, names, dialogue, or
 
 ## Exact next activity
 
-**Stop at scan 34 unless the user explicitly instructs farther.** When continuation is authorized:
+**Stop at scan 35 unless the user explicitly instructs farther.** When continuation is authorized:
 
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. process **scan 35** directly from source pixels, continuing Chapter 4;
-4. populate scan 35's printed-page value only from its own visible source number;
+3. process **scan 36** directly from source pixels, continuing Chapter 4 from scan 35;
+4. populate scan 36's printed-page value only from its own visible source number;
 5. apply the full historical-glyph gate;
 6. synchronize page-map/audit/status docs and commit narrowly.
 
