@@ -1,0 +1,26 @@
+name: vellikkizhamai-scan28-ocr
+
+on:
+  push:
+    branches:
+      - work/vellikkizhamai-scan28-ocr
+
+jobs:
+  ocr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Tamil OCR tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-tam
+      - name: Download public-domain source mirror
+        run: |
+          curl -L --fail --retry 3 -o /tmp/velli.pdf 'https://commons.wikimedia.org/wiki/Special:Redirect/file/%E0%AE%B5%E0%AF%86%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B4%E0%AE%AE%E0%AF%88.pdf'
+          pdfinfo /tmp/velli.pdf | grep -E 'Pages|Page size|File size'
+      - name: OCR scans 28-32 for diagnostic comparison only
+        run: |
+          for p in 28 29 30 31 32; do
+            echo "========== SCAN ${p} =========="
+            pdftoppm -f "$p" -singlefile -jpeg -r 400 /tmp/velli.pdf "/tmp/velli-${p}"
+            tesseract "/tmp/velli-${p}.jpg" stdout -l tam --psm 6 2>/dev/null
+          done
