@@ -6,12 +6,12 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count: **179**;
 - page manifest: **179 / 179 represented below**;
-- canonical page records: **91 / 179, all verified**;
-- verified body transcription: **scans 4–91**;
-- historical-glyph gate: **PASS through scan 91**;
+- canonical page records: **96 / 179, all verified**;
+- verified body transcription: **scans 4–96**;
+- historical-glyph gate: **PASS through scan 96**;
 - scans 62–65 directly map to printed pages **61–64**;
 - scan 66 visibly prints only **`5`**; this source value is preserved and `65` is not inferred;
-- scans 67–91 directly map to printed pages **66–90**;
+- scans 67–96 directly map to printed pages **66–95**;
 - printed-page values marked `pending` are not inferred.
 
 ## Durable correction
@@ -29,7 +29,8 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 - scan 59 — mixed Chapter 6 / Chapter 7 (**not scan 60**);
 - scan 68 — mixed Chapter 7 / Chapter 8; centered `8`;
 - scan 75 — mixed Chapter 8 / Chapter 9; centered `9`;
-- scan 85 — mixed Chapter 9 / Chapter 10; centered `10`.
+- scan 85 — mixed Chapter 9 / Chapter 10; centered `10`;
+- scan 92 — mixed Chapter 10 / Chapter 11; centered `11`.
 
 | Scan | Printed page | Page type | Status | Note |
 |---:|:---:|---|---|---|
@@ -124,11 +125,11 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 | 89 | 88 | body | verified | Chapter 10; ends physical fragment `மறுத்துவிட்` |
 | 90 | 89 | body | verified | Chapter 10; begins physical continuation `டால்` |
 | 91 | 90 | body | verified | Chapter 10; ends `என்று எட்டணா பணத்தையும்`, continuing to scan 92 |
-| 92 | pending | body | not-started |  |
-| 93 | pending | body | not-started |  |
-| 94 | pending | body | not-started |  |
-| 95 | pending | body | not-started |  |
-| 96 | pending | body | not-started |  |
+| 92 | 91 | body / chapter boundary | verified | Mixed Chapter 10 / Chapter 11 boundary; centered `11`; begins `நீட்டினன்.` and ends `வெறிபிடித்துப்` |
+| 93 | 92 | body | verified | Chapter 11; begins `போயிருக்கிறார்`; historical `பெண்ணாகப்` (`ணா`) cleared |
+| 94 | 93 | body | verified | Chapter 11; source `புறக்கப்போகிறேன்` retained; ends `இருவரும் ஒருவரை` |
+| 95 | 94 | body | verified | Chapter 11; begins `தழுவிக்கொண்டு`; Ramayana paragraph enlarged-review clearance |
+| 96 | 95 | body | verified | Chapter 11; source `வெளித்தாவரத்திலே`; ends `ஒரு நாற்காலியில் உட்`, continuing to scan 97 |
 | 97 | pending | body | not-started |  |
 | 98 | pending | body | not-started |  |
 | 99 | pending | body | not-started |  |
@@ -215,4 +216,4 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 
 ## Exact next activity
 
-Process **scans 92–96** as the next 5-page iteration. Do not start assembled Tamil or English.
+Process **scans 97–101** as the next 5-page iteration. Do not start assembled Tamil or English.
