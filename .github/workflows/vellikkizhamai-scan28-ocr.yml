@@ -17,10 +17,8 @@ jobs:
         run: |
           curl -L --fail --retry 3 -o /tmp/velli.pdf 'https://commons.wikimedia.org/wiki/Special:Redirect/file/%E0%AE%B5%E0%AF%86%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B4%E0%AE%AE%E0%AF%88.pdf'
           pdfinfo /tmp/velli.pdf | grep -E 'Pages|Page size|File size'
-      - name: OCR scans 28-32 for diagnostic comparison only
+      - name: OCR scan 28 for diagnostic comparison only
         run: |
-          for p in 28 29 30 31 32; do
-            echo "========== SCAN ${p} =========="
-            pdftoppm -f "$p" -singlefile -jpeg -scale-to 5000 /tmp/velli.pdf "/tmp/velli-${p}"
-            tesseract "/tmp/velli-${p}.jpg" stdout -l tam --psm 6 2>/dev/null
-          done
+          echo '========== SCAN 28 =========='
+          pdftoppm -f 28 -singlefile -jpeg -scale-to 3500 /tmp/velli.pdf /tmp/velli-28
+          tesseract /tmp/velli-28.jpg stdout -l tam --psm 6 2>/dev/null
