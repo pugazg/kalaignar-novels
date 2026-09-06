@@ -14,12 +14,12 @@
 | Source identity inspected | **complete for intake** |
 | Actual PDF page count / size / checksum | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **17 / 179** |
+| Canonical page records | **22 / 179** |
 | Front matter scans 1–3 | **verified** |
-| Body transcription | **scans 4–17 verified; Chapter 1 complete; Chapter 2 in progress** |
-| Printed-page map | **partial — scan 4/9 unnumbered; scans 5–8 = 4–7; scans 10–17 = 9–16** |
+| Body transcription | **scans 4–22 verified; Chapters 1–2 complete** |
+| Printed-page map | **partial — scan 4/9 unnumbered; scans 5–8 = 4–7; scans 10–22 = 9–21** |
 | Chapter map | **partial — Chapters 1–8 directly located** |
-| Historical-glyph policy | **enabled; scans 4–17 passed** |
+| Historical-glyph policy | **enabled; scans 4–22 passed** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -30,81 +30,37 @@ Scans 1–3 remain verified: cover identity, copy-specific donor label, and seco
 
 ## First narrative batch — scans 4–8
 
-**Result: PASS / VERIFIED page records created.**
-
-- scan 4: source title + Chapter 1; no visible printed page number;
-- scan 5: printed page 4;
-- scan 6: printed page 5;
-- scan 7: printed page 6;
-- scan 8: printed page 7.
-
-All five scans were directly compared at enlarged/native resolution. Later markings were excluded from printed transcription; notably the underline beneath `சிந்தாமணி` on scan 6 is recorded as copy-specific marking only.
-
-### Historical-glyph checkpoint
-
-Every page was checked against the known minimum set:
-
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
-
-The held scan-8 cluster was resolved without contextual guessing. Native/enlarged pixels and same-edition `ளை` evidence establish:
-
-- source-supported Unicode: **`களைத்துத் தூங்கிவிட்டால்`**;
-- historical family: **`ளை`**;
-- action: character identity decoded only; source wording not modernized.
-
-No global replacement was used. No unresolved glyph cluster remains in scans 4–8.
-
-### Cross-page continuity
-
-- scan 4 `ஏதோ` continues into scan 5;
-- scan 5 `அவைகளே` continues into scan 6 `கேலிக்குரியதாக ஆக்கிய என்னை...`;
-- scan 8 `கிழக்கு வானம் வெளுக்கத்` continues into scan 9.
-
-The canonical page layer retains these physical boundaries instead of moving text across scans.
+**PASS / VERIFIED.** Historical-glyph gate passed. Scan 8 `களைத்துத் தூங்கிவிட்டால்` is source-supported with historical `ளை` identity. No unresolved cluster remains.
 
 ## Second narrative batch — scans 9–12
 
-**Result: PASS / VERIFIED page records created; Chapter 1 complete.**
-
-- scan 9: no visible printed page number; starts `துவங்கிவிட்டது.` and completes scan 8's `கிழக்கு வானம் வெளுக்கத்`;
-- scan 10: printed page 9; Tiruppavai quotation preserved from this source;
-- scan 11: printed page 10; Tiruppavai/dialogue sequence source-checked;
-- scan 12: printed page 11; Chapter 1 closing page; scan 13 is Chapter 2.
-
-Historical-glyph/source-sensitive checkpoint:
-
-- all four pages checked against the known historical set at enlarged/native resolution;
-- scan 9 **`குழப்பட்டு`** is preserved as printed rather than normalized;
-- scan 11 **`என்றாள் ராதா!`** is encoded from the historical printed character identity;
-- scan 12 **`அந்தப் பருக்கூட்டமே`** is preserved as printed rather than contextually rewritten;
-- no unresolved source cluster remains in scans 9–12;
-- no global replacement was used.
-
-The Tiruppavai passages were transcribed from the scanned edition itself; outside/canonical verse wording was not used to silently repair the source.
+**PASS / VERIFIED; Chapter 1 complete.** Scan 9 `குழப்பட்டு`, scan 12 `அந்தப் பருக்கூட்டமே`, and source-edition Tiruppavai text are preserved without normalization. No unresolved cluster remains.
 
 ## Third narrative batch — scans 13–17
 
-**Result: PASS / VERIFIED page records created; Chapter 2 begun.**
+**PASS / VERIFIED; Chapter 2 begun.** Source-sensitive scan 13 `எடுபிடி ஆள் அப்புகள்`, scan 16 `இன்பபுரி வெண்புருக்கள்`, scan 17 `வேலையில்ல` / `நல்லதாப் போச்சு` retained. Cross-page joins: scan 14 → 15, scan 16 → 17, scan 17 question → scan 18 reply.
 
-- scan 13: printed page 12; source-printed Chapter 2 opening;
-- scan 14: printed page 13;
-- scan 15: printed page 14; source three-star separator retained;
-- scan 16: printed page 15; source three-star separator retained;
-- scan 17: printed page 16; continues into scan 18.
+## Fourth narrative batch — scans 18–22
 
-Historical-glyph/source-sensitive checkpoint:
+**Result: PASS / VERIFIED page records created; Chapter 2 complete.**
 
-- all five pages checked at enlarged/native resolution against the known historical set;
-- later pen underlines, ticks and marginal handwriting were excluded from canonical printed text;
-- scan 13 `எடுபிடி ஆள் அப்புகள்`, scan 16 `இன்பபுரி வெண்புருக்கள்`, and scan 17 `வேலையில்ல` / `நல்லதாப் போச்சு` are retained as source readings rather than normalized;
-- no unresolved source cluster remains in scans 13–17;
-- no global replacement was used.
+- scan 18: printed page **17**; Suseela reply; `கற்காததைக்`, `பவிஷும்`; historical `றா` clusters checked;
+- scan 19: printed page **18**; `வைதீகந்தான்`, `வைதீகப் பழங்கள்`, `கொல்லென`, `வந்துவிட்டானு`, `போகலாம்னு` retained;
+- scan 20: printed page **19**; Tiger/Vembu dialogue; two `என்றான்` forms decoded as historical `றா`; `நிச்சயமாயிட்டுது`, `குறிக்கிலே`, `வர்றாங்க` retained;
+- scan 21: printed page **20**; colloquial `சொல்றே`, `வர்ற`, `வரணும்`, `போறான்`, `வந்துட்டே` retained; final question continues to scan 22;
+- scan 22: printed page **21**; `அள்ளிக்கொண்டு`, `இழைந்தது`, `வர்ற வேளையிலே` retained; Chapter 2 closes.
 
-Cross-page continuity: scan 14 `அதிலே` → scan 15 `வரும் அர்ச்சுனன்...`; scan 16 `எண்ணும்` → scan 17 `போது—`; scan 17 `“சுசீலா! நீ?”` continues on scan 18.
+All five scans were inspected at enlarged/native resolution against the mandatory set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Character identity was determined from source pixels before Unicode encoding. No global replacement or lexical modernization was used. Later underlining, ticks and marginal handwriting were excluded. No unresolved source cluster remains in scans 18–22.
+
+### Cross-page / structural continuity
+
+- scan 17 `“சுசீலா! நீ?”` → scan 18 opening reply;
+- scan 21 `“லேடி டாக்டர் வந்தாச்சுல்லே?”` → scan 22 opening reply;
+- scan 22 closes Chapter 2; scan 23 is the directly confirmed Chapter 3 opening.
 
 ## Source marks / contamination risks
 
-Later underlining, ticks and handwriting occur in the copy and must remain outside canonical novel text. Age-toning, stains, bleed-through and uneven ink remain glyph-reading risks for later batches.
+Later underlining, ticks and handwriting occur in the copy and remain outside canonical novel text. Age-toning, stains, bleed-through and uneven ink remain glyph-reading risks for later batches.
 
 ## Structural checkpoint
 
@@ -112,7 +68,7 @@ Directly confirmed chapter openings: scan 4 (1), 13 (2), 23 (3), 33 (4), 45 (5),
 
 ## Unresolved project items
 
-- scans **18–179** canonical transcription;
+- scans **23–179** canonical transcription;
 - printed-page mapping for remaining scans;
 - chapter openings after Chapter 8;
 - historical-glyph decisions for later body pages;
@@ -121,4 +77,4 @@ Directly confirmed chapter openings: scan 4 (1), 13 (2), 23 (3), 33 (4), 45 (5),
 
 ## Exact next activity
 
-Process scans **18–22** to complete Chapter 2 before scan 23 / Chapter 3. Perform direct high-resolution transcription, historical-glyph checks, page-map/status synchronization and a narrow commit. English work remains blocked.
+Process scans **23–27**, beginning Chapter 3 at scan 23. Perform direct high-resolution transcription, visible-page-number confirmation, historical-glyph checks, page-map/status synchronization and a narrow commit. English work remains blocked.
