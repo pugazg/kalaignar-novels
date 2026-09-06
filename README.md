@@ -25,7 +25,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **86 / 179 — all 86 verified**;
+- canonical page records: **91 / 179 — all 91 verified**;
 - scans 1–3 front matter: **verified**;
 - Chapters 1–3: **verified through scan 33 carryover**;
 - Chapter 4: **scan 33 opening through scan 45 pre-heading carryover — verified**;
@@ -34,20 +34,24 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - Chapter 7: **scan 59 below heading `7` through scan 68 pre-heading carryover — verified**;
 - Chapter 8: **scan 68 below heading `8` through scan 75 pre-heading carryover — verified**;
 - Chapter 9: **scan 75 below heading `9` through scan 85 pre-heading carryover — verified**;
-- Chapter 10: **scan 85 below heading `10` through scan 86 — verified continuation**;
-- historical-glyph/source-sensitive checks: **PASS through scan 86**;
+- Chapter 10: **scan 85 below heading `10` through scan 91 — verified continuation**;
+- historical-glyph/source-sensitive checks: **PASS through scan 91**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**;
-- next 25-scan iteration: **scans 87–111**.
+- next 5-scan iteration: **scans 92–96**.
 
 ### Durable name correction — `நயினா`
 
-The recurring character name is **`நயினா`**, not `நயினு`. Reinspection of the controlling scan shows that the historical `னா` typeform had been misread as `னு`. Scan 34 directly gives the same-edition witness `நயினா என்பது நயினாமுகம்மது என்ற பெயரின் சுருக்கம்`. Canonical scans 34–86 use `நயினா`; future transcription must not regress to `நயினு`.
+The recurring character name is **`நயினா`**, not `நயினு`. Reinspection of the controlling scan shows that the historical `னா` typeform had been misread as `னு`. Scan 34 directly gives the same-edition witness `நயினா என்பது நயினாமுகம்மது என்ற பெயரின் சுருக்கம்`. Canonical scans 34–91 use `நயினா`; future transcription must not regress to `நயினு`.
 
 ### Source-number anomaly — scan 66
 
-Scan **66** visibly prints only **`5`** at the page-number positions; no tens digit is present even under enlarged/native inspection. Canonical `printed_page` therefore records the visible source value `5` rather than silently inferring `65`. Scans 67–86 then visibly print `66–85`.
+Scan **66** visibly prints only **`5`** at the page-number positions; no tens digit is present even under enlarged/native inspection. Canonical `printed_page` therefore records the visible source value `5` rather than silently inferring `65`. Scans 67–91 then visibly print `66–90`.
+
+### Completed 5-scan batch — scans 87–91
+
+Scans **87–91 / printed 86–90** are verified Chapter 10 continuation. Physical continuities are preserved, including scan 89 `மறுத்துவிட்` → scan 90 `டால்`, and scan 91's final `என்று எட்டணா பணத்தையும்` continuing onto scan 92. Every page passed the mandatory historical-glyph gate.
 
 ## Completed works
 

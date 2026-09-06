@@ -13,18 +13,18 @@
 |---|---|
 | Source identity / checksum / page count | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **86 / 179 — all 86 verified** |
-| Body transcription | **scans 4–86 verified** |
-| Printed-page map | **directly confirmed through scan 86; scan 66 visibly prints only `5`** |
-| Chapter map | **direct through Chapter 10 opening/continuation** |
-| Historical-glyph policy | **PASS through scan 86** |
+| Canonical page records | **91 / 179 — all 91 verified** |
+| Body transcription | **scans 4–91 verified** |
+| Printed-page map | **directly confirmed through scan 91; scan 66 visibly prints only `5`** |
+| Chapter map | **direct through Chapter 10 continuation at scan 91** |
+| Historical-glyph policy | **PASS through scan 91** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
 
 ## Durable correction — recurring name
 
-The earlier `நயினு` reading is incorrect. Direct enlarged reinspection shows the recurring name as **`நயினா`**; the old `னா` typeform had been mistaken for `னு`. Scan 34 supplies explicit same-edition evidence with the expansion `நயினாமுகம்மது`. Scans 34–86 retain the corrected reading. This is a historical-glyph correction, not a modernization.
+The earlier `நயினு` reading is incorrect. Direct enlarged reinspection shows the recurring name as **`நயினா`**; the old `னா` typeform had been mistaken for `னு`. Scan 34 supplies explicit same-edition evidence with the expansion `நயினாமுகம்மது`. Scans 34–91 retain the corrected reading. This is a historical-glyph correction, not a modernization.
 
 ## Verified earlier checkpoints
 
@@ -55,9 +55,20 @@ Every scan was inspected directly at sufficient source resolution and checked ag
 - **scan 85:** mixed Chapter 9 / Chapter 10 boundary preserved;
 - **scan 86:** `நயினா முகம்மது` retains the corrected same-edition `னா` reading.
 
+## 5-page iteration — scans 87–91
+
+**Result: VERIFIED / 5 OF 5 COMPLETE.**
+
+- scans 87–91: Chapter 10 continuation; printed pages **86–90**;
+- scan 87 directly continues scan 86's final question;
+- scan 89 `மறுத்துவிட்` → scan 90 `டால்` preserves the physical word split;
+- scan 91 ends `என்று எட்டணா பணத்தையும்`, continuing onto scan 92.
+
+All five scans were inspected directly at sufficient source resolution and checked against the mandatory 13-family historical set. Source-specific wording and grammar were retained without OCR repair or modernization. No unresolved source cluster remains in scans 87–91.
+
 ## Unresolved project items
 
-- scans **87–179** canonical processing;
+- scans **92–179** canonical processing;
 - later printed-page mapping and later chapter boundaries;
 - final complete Tamil audit;
 - assembled Tamil reading layer;
@@ -65,4 +76,4 @@ Every scan was inspected directly at sufficient source resolution and checked ag
 
 ## Exact next activity
 
-Process **scans 87–111** as the next 25-page source-first iteration, then synchronize status documents and commit. Do not start assembled Tamil or English.
+Process **scans 92–96** as the next 5-page source-first iteration, then synchronize status documents and commit. Do not start assembled Tamil or English.

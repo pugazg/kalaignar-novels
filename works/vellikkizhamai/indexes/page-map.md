@@ -6,12 +6,12 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count: **179**;
 - page manifest: **179 / 179 represented below**;
-- canonical page records: **86 / 179, all verified**;
-- verified body transcription: **scans 4–86**;
-- historical-glyph gate: **PASS through scan 86**;
+- canonical page records: **91 / 179, all verified**;
+- verified body transcription: **scans 4–91**;
+- historical-glyph gate: **PASS through scan 91**;
 - scans 62–65 directly map to printed pages **61–64**;
 - scan 66 visibly prints only **`5`**; this source value is preserved and `65` is not inferred;
-- scans 67–86 directly map to printed pages **66–85**;
+- scans 67–91 directly map to printed pages **66–90**;
 - printed-page values marked `pending` are not inferred.
 
 ## Durable correction
@@ -119,11 +119,11 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 | 84 | 83 | body | verified | Chapter 9 |
 | 85 | 84 | body / chapter boundary | verified | Mixed Chapter 9 / Chapter 10 boundary; centered `10` |
 | 86 | 85 | body | verified | Chapter 10; batch checkpoint; final question continues to scan 87 |
-| 87 | pending | body | not-started |  |
-| 88 | pending | body | not-started |  |
-| 89 | pending | body | not-started |  |
-| 90 | pending | body | not-started |  |
-| 91 | pending | body | not-started |  |
+| 87 | 86 | body | verified | Chapter 10; continues scan 86 final question; ends `ஆனந்திக்கு உன்னையும்` |
+| 88 | 87 | body | verified | Chapter 10; begins continuation `என்னையும் பிரிக்கும் வேலை...` |
+| 89 | 88 | body | verified | Chapter 10; ends physical fragment `மறுத்துவிட்` |
+| 90 | 89 | body | verified | Chapter 10; begins physical continuation `டால்` |
+| 91 | 90 | body | verified | Chapter 10; ends `என்று எட்டணா பணத்தையும்`, continuing to scan 92 |
 | 92 | pending | body | not-started |  |
 | 93 | pending | body | not-started |  |
 | 94 | pending | body | not-started |  |
@@ -215,4 +215,4 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 
 ## Exact next activity
 
-Process **scans 87–111** as the next 25-page iteration. Do not start assembled Tamil or English.
+Process **scans 92–96** as the next 5-page iteration. Do not start assembled Tamil or English.

@@ -14,7 +14,7 @@
 
 Fetch live `main` first and preserve newer durable work.
 
-Current handover state: **86 / 179 canonical records, all 86 verified; historical-glyph PASS through scan 86.** The user-directed cadence is **25 physical scans per iteration**.
+Current handover state: **91 / 179 canonical records, all 91 verified; historical-glyph PASS through scan 91.** The user-directed cadence is **5 physical scans per iteration**.
 
 ## Controlling source
 
@@ -37,17 +37,17 @@ Read completely before source-dependent work: `NOVEL_PROCESSING_GUIDE.md`, `HIST
 ## Durable state
 
 - manifest **179 / 179**;
-- canonical **86 / 179, all verified**;
+- canonical **91 / 179, all verified**;
 - Chapter 7 / 8 boundary: **scan 68 / printed 67**;
 - Chapter 8 / 9 boundary: **scan 75 / printed 74**;
 - Chapter 9 / 10 boundary: **scan 85 / printed 84**;
-- Chapter 10 verified through **scan 86 / printed 85**;
-- historical-glyph checks: **PASS through scan 86**;
+- Chapter 10 verified through **scan 91 / printed 90**;
+- historical-glyph checks: **PASS through scan 91**;
 - full Tamil audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Critical historical-glyph correction — `நயினா`
 
-The recurring name is **`நயினா`**, not `நயினு`. The old historical `னா` typeform had been misread as `னு`. Scan 34 directly establishes `நயினா` and the expansion `நயினாமுகம்மது`. Canonical scans 34–86 retain the corrected reading. Future work must not regress to `நயினு`.
+The recurring name is **`நயினா`**, not `நயினு`. The old historical `னா` typeform had been misread as `னு`. Scan 34 directly establishes `நயினா` and the expansion `நயினாமுகம்மது`. Canonical scans 34–91 retain the corrected reading. Future work must not regress to `நயினு`.
 
 ## Completed 25-page batch — scans 62–86
 
@@ -61,16 +61,20 @@ Important durable findings:
 - scan 82 bottom standalone `6` is a printer/signature mark, not a chapter heading;
 - scan 86 continues Chapter 10 and ends with a question that physically continues on scan 87.
 
+## Completed 5-page batch — scans 87–91
+
+All five scans passed direct visual transcription and the 13-family historical-glyph gate. Chapter 10 continues across the batch. Durable physical continuities include scan 89 `மறுத்துவிட்` → scan 90 `டால்`, and scan 91 `என்று எட்டணா பணத்தையும்` → scan 92 continuation. No unresolved source cluster remains.
+
 ## Exact next activity
 
 1. re-fetch live `main`;
 2. resolve controlling PDF;
-3. process **scans 87–111** in one 25-scan iteration;
+3. process **scans 92–96** in one 5-scan iteration;
 4. inspect each printed page number directly;
 5. preserve all chapter/page boundaries in physical source order;
 6. apply the full historical-glyph gate page by page;
 7. synchronize page-map/audit/status docs and commit narrowly;
-8. stop after scan 111 unless explicitly instructed farther.
+8. stop after scan 96 unless explicitly instructed farther.
 
 Do not start assembled Tamil or English. Do not reopen completed prior novels.
 

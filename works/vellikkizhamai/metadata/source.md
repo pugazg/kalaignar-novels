@@ -36,13 +36,13 @@ A Wikimedia Commons copy and Tamil Digital Library record may assist difficult-g
 - scan 33: printed 32;
 - scans 34–65: printed **33–64**, directly inspected;
 - scan 66: visibly prints only **`5`** at the source page-number positions; no tens digit is visible, so canonical `printed_page` is `5` rather than an inferred `65`;
-- scans 67–86: printed **66–85**, directly inspected;
+- scans 67–91: printed **66–90**, directly inspected;
 - scan 176: printed 175;
 - scan 179: printed 178.
 
 All other printed-page values remain pending until their own scan is visually inspected.
 
-## Structural observations — direct map through scan 86
+## Structural observations — direct map through scan 91
 
 - scan 4 — Chapter 1 opening;
 - scan 13 — Chapter 2 opening;
@@ -54,7 +54,7 @@ All other printed-page values remain pending until their own scan is visually in
 - scan 68 — Chapter 7 carryover above centered `8`, Chapter 8 below;
 - scan 75 — Chapter 8 carryover above centered `9`, Chapter 9 below;
 - scan 85 — Chapter 9 carryover above centered `10`, Chapter 10 below;
-- scan 86 — Chapter 10 continuation.
+- scans 86–91 — Chapter 10 continuation.
 
 ## Historical-name correction
 
@@ -69,12 +69,13 @@ Read character identity from enlarged source pixels, compare same-edition eviden
 ## Current durable state
 
 - manifest: **179 / 179 represented**;
-- canonical: **86 / 179, all 86 verified**;
-- historical-glyph PASS through scan 86;
+- canonical: **91 / 179, all 91 verified**;
+- historical-glyph PASS through scan 91;
 - scans 62–86 completed as one 25-page iteration;
+- scans 87–91 completed as one 5-page iteration;
 - full Tamil source audit: not started;
 - assembled Tamil: not started;
 - English: blocked;
 - source PDF: not committed.
 
-Next: **scans 87–111** as the next 25-page iteration.
+Next: **scans 92–96** as the next 5-page iteration.
