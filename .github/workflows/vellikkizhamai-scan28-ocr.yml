@@ -21,6 +21,6 @@ jobs:
         run: |
           for p in 28 29 30 31 32; do
             echo "========== SCAN ${p} =========="
-            pdftoppm -f "$p" -singlefile -jpeg -r 400 /tmp/velli.pdf "/tmp/velli-${p}"
+            pdftoppm -f "$p" -singlefile -jpeg -scale-to 5000 /tmp/velli.pdf "/tmp/velli-${p}"
             tesseract "/tmp/velli-${p}.jpg" stdout -l tam --psm 6 2>/dev/null
           done
