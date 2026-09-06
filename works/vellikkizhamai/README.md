@@ -13,15 +13,15 @@
 - SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`;
 - PDF text layer: **none — image-only scan**;
 - page manifest: **179 / 179 scans represented**;
-- canonical page records: **35 / 179**;
-- canonical status split: **35 verified / 0 partial**;
+- canonical page records: **36 / 179**;
+- canonical status split: **36 verified / 0 partial**;
 - scans 1–3 front matter: **verified**;
 - scans 4–12 / Chapter 1: **verified / complete**;
 - scans 13–22 / Chapter 2: **verified / complete**;
 - scans 23–32 / Chapter 3: **verified through printed page 31**;
 - scan 33 / printed page 32: **verified mixed Chapter 3 / Chapter 4 boundary page**;
-- scans 34–35 / printed pages 33–34: **verified Chapter 4 continuation**;
-- historical-glyph gate: **PASS through scan 35**;
+- scans 34–36 / printed pages 33–35: **verified Chapter 4 continuation**;
+- historical-glyph gate: **PASS through scan 36**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**.
@@ -36,7 +36,7 @@ Direct inspection confirms source title `வெள்ளிக்கிழமை
 - scan 13 — Chapter 2 opening;
 - scan 23 — Chapter 3 opening;
 - **scan 33 / printed 32 opens with a short Chapter 3 carryover, then the source-printed Chapter 4 heading and opening on the same scan**;
-- scans 34–35 continue Chapter 4;
+- scans 34–36 continue Chapter 4;
 - later located chapter headings: scans 45, 52, 60, 68 for Chapters 5–8;
 - full later chapter map remains pending.
 
@@ -50,9 +50,10 @@ Do not infer unreviewed chapter boundaries or move text across physical scan bou
 - scans 28–32: printed pages 27–31, source-faithful Tamil transcription and historical-glyph verification completed;
 - scan 33: printed page 32, mixed Chapter 3 carryover + Chapter 4 heading/opening verified;
 - scan 34: printed page 33, Chapter 4 continuation verified from enlarged/native source pixels;
-- scan 35: printed page 34, Chapter 4 dialogue continuation verified from enlarged/native source pixels.
+- scan 35: printed page 34, Chapter 4 dialogue continuation verified from enlarged/native source pixels;
+- scan 36: printed page 35, Chapter 4 dialogue continuation verified from enlarged/native source pixels.
 
-Source-sensitive decisions through scan 35 remain durable. Every cleared body page used the mandatory historical set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`; no OCR/context reading was promoted without visual source support.
+Source-sensitive decisions through scan 36 remain durable. Every cleared body page used the mandatory historical set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`; no OCR/context reading was promoted without visual source support.
 
 ## Scans 28–33 — source-review resolution
 
@@ -77,6 +78,12 @@ Scan 35 / printed page **34** continues the Chapter 4 conversation between அ�
 
 Source-specific wording and spacing including `தெரிந்துகொள்ளவேண்டுமாக்கும்`, `மொட்டையடித்துக்கொள்ளாமலே`, `குல்லாய் கூட`, `கிராப்புத் தலையுடனேயே`, and `கழட்டப்படுவதை` are retained. The source also prints an unmatched opening quotation mark before the narrative sentence `நயினுவின் கேலி அதிகமாயிற்று!`; this punctuation oddity is preserved rather than normalized.
 
+## Scan 36 source-sensitive notes
+
+Scan 36 / printed page **35** continues the same Chapter 4 dialogue. Direct enlarged review cleared `மாமனார்` and `சனாதன` against the historical `னா` family; `பெண்ணைப்`, `கவலைப்படாமல்`, and `மாறுதல்` were checked against `ணை` / `லை` / `றா` families respectively.
+
+Source-specific forms `என்னமோ`, `இரேன்`, `சந்தேகந்தான்`, `புளுகுகிறாயா`, `கைலியில்லாமல்`, `குல்லா இல்லாமல்`, and `காண்பித்துக்கொடுத்துவிடாதா` are preserved as printed. The quoted `‘கோஷா’` and source punctuation remain unchanged.
+
 ## Historical Tamil glyph policy
 
 Use root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Only source-proven character identity may be encoded; never global-replace, modernize, or use context to guess an unclear cluster.
@@ -86,8 +93,8 @@ Use root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Only source-proven cha
 - [`metadata/source.md`](metadata/source.md)
 - [`indexes/page-map.md`](indexes/page-map.md)
 - [`audit.md`](audit.md)
-- [`pages/0001-cover.md`](pages/0001-cover.md) through [`pages/0035-vellikkizhamai-32.md`](pages/0035-vellikkizhamai-32.md)
+- [`pages/0001-cover.md`](pages/0001-cover.md) through [`pages/0036-vellikkizhamai-33.md`](pages/0036-vellikkizhamai-33.md)
 
 ## Exact next activity
 
-**Stop at the completed scan-35 checkpoint unless explicitly instructed farther.** When continuation is authorized, process **scan 36** directly from source pixels, continue Chapter 4, populate its printed-page value only from that scan, and retain the same historical-glyph gate. Do not start assembled Tamil or English.
+**Stop at the completed scan-36 checkpoint unless explicitly instructed farther.** When continuation is authorized, process **scan 37** directly from source pixels, continue Chapter 4, populate its printed-page value only from that scan, and retain the same historical-glyph gate. Do not start assembled Tamil or English.

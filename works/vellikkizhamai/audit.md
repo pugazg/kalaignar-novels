@@ -14,12 +14,12 @@
 | Source identity inspected | **complete for intake** |
 | Actual PDF page count / size / checksum | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **35 / 179 — all 35 verified** |
+| Canonical page records | **36 / 179 — all 36 verified** |
 | Front matter scans 1–3 | **verified** |
-| Body transcription | **scans 4–35 verified; Chapters 1–2 complete; Chapter 3 complete through its carryover on scan 33; Chapter 4 verified through scan 35** |
-| Printed-page map | **partial — confirmed through scan 35; scans 28–32 = 27–31; scan 33 = 32; scan 34 = 33; scan 35 = 34** |
+| Body transcription | **scans 4–36 verified; Chapters 1–2 complete; Chapter 3 complete through its carryover on scan 33; Chapter 4 verified through scan 36** |
+| Printed-page map | **partial — confirmed through scan 36; scans 28–32 = 27–31; scan 33 = 32; scan 34 = 33; scan 35 = 34; scan 36 = 35** |
 | Chapter map | **partial — Chapters 1–8 located, with scan-33 mixed boundary preserved** |
-| Historical-glyph policy | **enabled; scans 4–35 passed** |
+| Historical-glyph policy | **enabled; scans 4–36 passed** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -80,14 +80,9 @@ Scan 33 ends `பெண்வீடு பார்ப்பதற்குத�
 
 Direct enlarged/native inspection of scan **34 / printed page 33** confirms that the page begins `போவதாக இருக்கிறாள்.`, completing scan 33's final `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே` across the physical page boundary. No text was moved backward.
 
-The full historical set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was checked. Representative direct clearances include:
+The full historical set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was checked. Representative direct clearances include `துணையாக` (`ணை`), `சோலை` / `சோலையானாலும்` (`லை`), `தன்னைத்` (`னை`), and `பெண்ணைப்` (`ணை`).
 
-- `துணையாக` — `ணை` family;
-- `சோலை` / `சோலையானாலும்` — `லை` family;
-- `தன்னைத்` — `னை` family;
-- `பெண்ணைப்` — `ணை` family.
-
-Source-specific forms were retained exactly from the scan, including `நயினு`, first-occurrence `நயினுமுகம்மது`, the printed phrase `சேர்ந்து போகாமல்`, `தன்னைத் தலைமைப் பாத்திரமாக்கிக்கொண்டு`, `முழுமுயற்சி`, `தானும்போய்`, and `பேச்செடுத்தான்`. No contextual modernization or OCR repair was used. No unresolved source cluster remains on scan 34.
+Source-specific forms were retained exactly from the scan, including `நயினு`, first-occurrence `நயினுமுகம்மது`, `சேர்ந்து போகாமல்`, `தன்னைத் தலைமைப் பாத்திரமாக்கிக்கொண்டு`, `முழுமுயற்சி`, `தானும்போய்`, and `பேச்செடுத்தான்`. No contextual modernization or OCR repair was used. No unresolved source cluster remains on scan 34.
 
 ## Scan 35 — Chapter 4 dialogue continuation verified
 
@@ -97,7 +92,7 @@ Direct enlarged/native inspection of scan **35 / printed page 34** confirms cont
 
 Representative source-sensitive findings:
 
-- `பட்டினால்` — the printed old-form cluster was positively decoded as historical `னா`; it was not copied as its modern visual look-alike;
+- `பட்டினால்` — the printed old-form cluster was positively decoded as historical `னா`;
 - `முல்லைச்சரமா` — `லை` family checked directly;
 - `பெண்ணைக்` — `ணை` family checked directly;
 - source spacing `குல்லாய் கூட` is preserved;
@@ -107,13 +102,30 @@ The source also prints an opening quotation mark before the narrative sentence `
 
 No unresolved source cluster remains on scan 35. No scan-36 text was moved backward.
 
+## Scan 36 — Chapter 4 dialogue continuation verified
+
+**Result: VERIFIED.**
+
+Direct enlarged/native inspection of scan **36 / printed page 35** confirms continued அழகப்பன்–நயினு dialogue. The full 13-family historical-glyph set was checked before Unicode transcription.
+
+Representative direct clearances and source-sensitive findings:
+
+- `மாமனார்` and `சனாதன` — historical `னா` identity positively decoded from the source typeforms;
+- `பெண்ணைப்` — `ணை` family checked directly;
+- `கவலைப்படாமல்` — `லை` family checked directly;
+- `மாறுதல்` — `றா` family checked directly;
+- source-specific forms `என்னமோ`, `இரேன்`, `சந்தேகந்தான்`, `புளுகுகிறாயா`, `கைலியில்லாமல்`, `குல்லா இல்லாமல்`, and `காண்பித்துக்கொடுத்துவிடாதா` are retained without normalization;
+- the quoted `‘கோஷா’` and the page's dash/semicolon punctuation are preserved.
+
+No unresolved source cluster remains on scan 36. No scan-37 text was moved backward.
+
 ## Source marks / contamination risks
 
 Later underlining, ticks and handwriting occur in the copy and remain outside canonical novel text. Age-toning, stains, bleed-through and uneven ink remain glyph-reading risks for all future scans.
 
 ## Unresolved project items
 
-- scans **36–179** canonical processing;
+- scans **37–179** canonical processing;
 - printed-page mapping for later scans;
 - chapter openings after Chapter 8;
 - final complete Tamil audit;
@@ -122,4 +134,4 @@ Later underlining, ticks and handwriting occur in the copy and remain outside ca
 
 ## Exact next activity
 
-**Stop at the verified scan-35 checkpoint unless explicitly instructed farther.** When continuation is authorized, process **scan 36** by direct visual inspection, continue Chapter 4, populate its printed-page value only from source evidence, and apply the same 13-family historical-glyph gate. English and assembled Tamil remain blocked.
+**Stop at the verified scan-36 checkpoint unless explicitly instructed farther.** When continuation is authorized, process **scan 37** by direct visual inspection, continue Chapter 4, populate its printed-page value only from source evidence, and apply the same 13-family historical-glyph gate. English and assembled Tamil remain blocked.

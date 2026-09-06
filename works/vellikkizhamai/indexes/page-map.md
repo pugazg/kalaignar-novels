@@ -6,14 +6,14 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count from direct file inspection: **179**;
 - initial page manifest: **179 / 179 represented below**;
-- canonical page records created so far: **35 / 179**;
+- canonical page records created so far: **36 / 179**;
 - direct front-matter transcription: scans **1–3 verified**;
-- verified body transcription: scans **4–35 verified**;
+- verified body transcription: scans **4–36 verified**;
 - Chapter 1: **complete / scans 4–12**;
 - Chapter 2: **complete / scans 13–22**;
 - Chapter 3: **verified / scans 23–32 plus carryover at top of scan 33**;
-- Chapter 4: **opening verified on scan 33 below the centered source heading `4`; continuation verified through scan 35**;
-- historical-glyph gate: **PASS through scan 35**;
+- Chapter 4: **opening verified on scan 33 below the centered source heading `4`; continuation verified through scan 36**;
+- historical-glyph gate: **PASS through scan 36**;
 - printed-page values marked `pending` must be populated only by direct visual inspection; they are not inferred from sequence.
 
 Directly confirmed numbering:
@@ -27,6 +27,7 @@ Directly confirmed numbering:
 - scan 33: printed **32**;
 - scan 34: printed **33**;
 - scan 35: printed **34**;
+- scan 36: printed **35**;
 - scan 68: printed **67**;
 - scan 176: printed **175**;
 - scan 179: printed **178**.
@@ -36,7 +37,7 @@ Confirmed chapter structure:
 - scan 13 — Chapter 2 opening;
 - scan 23 — Chapter 3 opening;
 - scan 33 — **Chapter 3 carryover at top, then Chapter 4 heading/opening on same scan**;
-- scans 34–35 — Chapter 4 continuation;
+- scans 34–36 — Chapter 4 continuation;
 - scan 45 — Chapter 5 heading located;
 - scan 52 — Chapter 6 heading located;
 - scan 60 — Chapter 7 heading located;
@@ -81,7 +82,7 @@ The full later chapter map remains pending. Do not infer boundaries from sequenc
 | 33 | 32 | body / chapter boundary | verified | Chapter 3 carryover at top; centered Chapter 4 heading/opening follows on same scan |
 | 34 | 33 | body | verified | Chapter 4; continues scan 33 with `போவதாக இருக்கிறாள்.`; source-sensitive `நயினு` / `பேச்செடுத்தான்` retained |
 | 35 | 34 | body | verified | Chapter 4; அழகப்பன்–நயினு dialogue; `பட்டினால்` historical `னா` cleared; source `குல்லாய் கூட` and unmatched opening quote preserved |
-| 36 | pending | body | not-started |  |
+| 36 | 35 | body | verified | Chapter 4; அழகப்பன்–நயினு dialogue; `மாமனார்` / `சனாதன` historical `னா` cleared; source `சந்தேகந்தான்` / `புளுகுகிறாயா` retained |
 | 37 | pending | body | not-started |  |
 | 38 | pending | body | not-started |  |
 | 39 | pending | body | not-started |  |
@@ -228,4 +229,4 @@ The full later chapter map remains pending. Do not infer boundaries from sequenc
 
 ## Exact next activity
 
-**Stop at scan 35 unless explicitly instructed farther.** On continuation, process **scan 36** by direct source inspection, continue Chapter 4, and populate its printed-page value only from that scan. Do not start assembled Tamil or English.
+**Stop at scan 36 unless explicitly instructed farther.** On continuation, process **scan 37** by direct source inspection, continue Chapter 4, and populate its printed-page value only from that scan. Do not start assembled Tamil or English.

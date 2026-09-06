@@ -86,6 +86,7 @@ Directly confirmed:
 - scan 33: printed **32**;
 - scan 34: printed **33**;
 - scan 35: printed **34**;
+- scan 36: printed **35**;
 - scan 68: printed **67**;
 - scan 176: printed **175**;
 - scan 179: printed **178**.
@@ -102,7 +103,7 @@ Directly confirmed early numbered chapter openings / boundaries:
 - scan 13 — Chapter 2 opening;
 - scan 23 — Chapter 3 opening;
 - scan 33 — **Chapter 3 carryover at top, then centered Chapter 4 heading/opening on the same physical scan**;
-- scans 34–35 — Chapter 4 continuation;
+- scans 34–36 — Chapter 4 continuation;
 - scan 45 — Chapter 5 heading located;
 - scan 52 — Chapter 6 heading located;
 - scan 60 — Chapter 7 heading located;
@@ -138,15 +139,15 @@ Rules:
 ## Current durable state
 
 - page manifest: **179 / 179 represented**;
-- canonical page records: **35 / 179**;
+- canonical page records: **36 / 179**;
 - scans 1–3: **verified** front matter;
 - scans 4–12: **verified**, Chapter 1 complete;
 - scans 13–22: **verified**, Chapter 2 complete;
 - scans 23–32: **verified**, Chapter 3 through printed page 31;
 - scan 33: **verified**, printed page 32; Chapter 3 carryover followed by Chapter 4 heading/opening;
-- scans 34–35: **verified**, printed pages 33–34; Chapter 4 continuation;
+- scans 34–36: **verified**, printed pages 33–35; Chapter 4 continuation;
 - former scans 28–32 `partial` source-review holds: **resolved by enlarged/native source-pixel review**;
-- historical-glyph gate: **PASS through scan 35**;
+- historical-glyph gate: **PASS through scan 36**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English: **blocked until Tamil gate passes**;
@@ -154,4 +155,6 @@ Rules:
 
 Scan 34 directly continues scan 33's final `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே` with `போவதாக இருக்கிறாள்.` Scan 35 continues the அழகப்பன்–நயினு Chapter 4 conversation. On scan 35, `பட்டினால்` was directly resolved as an old-form `னா` cluster; source-specific `குல்லாய் கூட`, `கிராப்புத் தலையுடனேயே`, and the unmatched opening quotation before `நயினுவின் கேலி அதிகமாயிற்று!` are preserved.
 
-Next when explicitly instructed: process **scan 36** directly from source pixels, preserving Chapter 4 continuity and populating scan 36's printed-page value only from direct inspection. Do not start assembled Tamil or English.
+Scan 36 / printed page 35 continues the same conversation. Historical `னா` identity was directly cleared in `மாமனார்` and `சனாதன`; source-specific `என்னமோ`, `இரேன்`, `சந்தேகந்தான்`, `புளுகுகிறாயா`, `கைலியில்லாமல்`, and `குல்லா இல்லாமல்` are retained.
+
+Next when explicitly instructed: process **scan 37** directly from source pixels, preserving Chapter 4 continuity and populating scan 37's printed-page value only from direct inspection. Do not start assembled Tamil or English.

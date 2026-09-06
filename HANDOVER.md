@@ -14,7 +14,7 @@
 
 Fetch live `main` first and preserve newer durable work. Do not repeat completed work because a copied checkpoint is older.
 
-Current handover state: **35 / 179 canonical records, all 35 verified; historical-glyph PASS through scan 35.** Scan 33's mixed Chapter 3 / Chapter 4 boundary remains verified, and scans 34–35 continue Chapter 4. Verify live `main` before further source work.
+Current handover state: **36 / 179 canonical records, all 36 verified; historical-glyph PASS through scan 36.** Scan 33's mixed Chapter 3 / Chapter 4 boundary remains verified, and scans 34–36 continue Chapter 4. Verify live `main` before further source work.
 
 Before any source-dependent change, read completely:
 
@@ -46,13 +46,13 @@ Edition: **இரண்டாம் பதிப்பு: 1968**
 ## Current durable state
 
 - manifest: **179 / 179 represented**;
-- canonical records: **35 / 179, all verified**;
+- canonical records: **36 / 179, all verified**;
 - Chapter 1: scans 4–12 verified / complete;
 - Chapter 2: scans 13–22 verified / complete;
 - Chapter 3: scans 23–32 plus the carryover at top of scan 33 verified;
-- Chapter 4: source heading/opening begins on scan 33; scans 34–35 are verified continuation;
-- printed page numbers confirmed: scans 28–32 = **27–31**, scan 33 = **32**, scan 34 = **33**, scan 35 = **34**;
-- historical-glyph checks: **PASS through scan 35**;
+- Chapter 4: source heading/opening begins on scan 33; scans 34–36 are verified continuation;
+- printed page numbers confirmed: scans 28–32 = **27–31**, scan 33 = **32**, scan 34 = **33**, scan 35 = **34**, scan 36 = **35**;
+- historical-glyph checks: **PASS through scan 36**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**;
 - source PDF committed: **No**.
 
@@ -83,7 +83,7 @@ Historical-glyph clearance on scan 33 includes the source line-split old-form cl
 
 Scan 34 / printed page 33 begins `போவதாக இருக்கிறாள்.`, directly continuing the final phrase from scan 33. It remains within Chapter 4 and passed the complete 13-family historical-glyph gate.
 
-Source-specific forms intentionally retained include `நயினு`, first-occurrence `நயினுமுகம்மது`, `சேர்ந்து போகாமல்`, `முழுமுயற்சி`, `தானும்போய்`, and `பேச்செடுத்தான்`. These were read from enlarged/native source pixels and were not normalized from expected modern wording.
+Source-specific forms intentionally retained include `நயினு`, first-occurrence `நயினுமுகம்மது`, `சேர்ந்து போகாமல்`, `முழுமுயற்சி`, `தானும்போய்`, and `பேச்செடுத்தான்`.
 
 ## Verified scan 35
 
@@ -99,7 +99,20 @@ Key source-sensitive findings:
 - unmatched opening quotation before `நயினுவின் கேலி அதிகமாயிற்று!` preserved as printed;
 - later dark underline/mark near the next speech excluded from canonical text.
 
-No unresolved source cluster remains on scan 35. No scan-36 text was moved backward.
+## Verified scan 36
+
+Scan 36 / printed page 35 continues the same Chapter 4 dialogue and passed the full historical-glyph gate.
+
+Key source-sensitive findings:
+
+- `மாமனார்` and `சனாதன` directly cleared as historical `னா` identities;
+- `பெண்ணைப்` checked for `ணை`;
+- `கவலைப்படாமல்` checked for `லை`;
+- `மாறுதல்` checked for `றா`;
+- source-specific `என்னமோ`, `இரேன்`, `சந்தேகந்தான்`, `புளுகுகிறாயா`, `கைலியில்லாமல்`, `குல்லா இல்லாமல்`, and `காண்பித்துக்கொடுத்துவிடாதா` retained;
+- quoted `‘கோஷா’` and source punctuation preserved.
+
+No unresolved source cluster remains on scan 36. No scan-37 text was moved backward.
 
 ## Source authority / historical-glyph rule
 
@@ -109,12 +122,12 @@ Do not modernize spelling, grammar, punctuation, vocabulary, names, dialogue, or
 
 ## Exact next activity
 
-**Stop at scan 35 unless the user explicitly instructs farther.** When continuation is authorized:
+**Stop at scan 36 unless the user explicitly instructs farther.** When continuation is authorized:
 
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. process **scan 36** directly from source pixels, continuing Chapter 4 from scan 35;
-4. populate scan 36's printed-page value only from its own visible source number;
+3. process **scan 37** directly from source pixels, continuing Chapter 4 from scan 36;
+4. populate scan 37's printed-page value only from its own visible source number;
 5. apply the full historical-glyph gate;
 6. synchronize page-map/audit/status docs and commit narrowly.
 

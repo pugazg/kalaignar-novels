@@ -25,18 +25,18 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **35 / 179 — all 35 verified**;
+- canonical page records: **36 / 179 — all 36 verified**;
 - scans 1–3 front matter: **verified**;
 - scans 4–12 / Chapter 1: **verified / complete**;
 - scans 13–22 / Chapter 2: **verified / complete**;
 - scans 23–32 / Chapter 3: **verified through printed page 31**;
 - scan 33 / printed page 32: **verified mixed boundary page — Chapter 3 carryover, then source-printed Chapter 4 heading/opening**;
-- scans 34–35 / printed pages 33–34: **verified Chapter 4 continuation**;
-- historical-glyph/source-sensitive checks: **PASS through scan 35**;
+- scans 34–36 / printed pages 33–35: **verified Chapter 4 continuation**;
+- historical-glyph/source-sensitive checks: **PASS through scan 36**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**;
-- next activity when explicitly instructed: process **scan 36** directly from source pixels and continue Chapter 4; do not infer its printed number or start assembled Tamil/English.
+- next activity when explicitly instructed: process **scan 37** directly from source pixels and continue Chapter 4; do not infer its printed number or start assembled Tamil/English.
 
 The source is image-only and uses older Tamil print conventions. Every body page must use the historical-glyph pre-correction workflow in `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Later underlining/ticks/handwriting remain separate from printed text. The source PDF remains outside the repository.
 
@@ -52,7 +52,7 @@ The source is image-only and uses older Tamil print conventions. Every body page
 
 For older Tamil sources, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md). Governing rule: **identify historical character identity from source pixels first, then encode that identity in modern Unicode without modernizing source wording.** Minimum set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-For `வெள்ளிக்கிழமை`, scans 4–35 have passed direct transcription and historical-glyph checking. Scan 33 preserves the physical Chapter 3 / Chapter 4 boundary exactly; scans 34–35 continue Chapter 4 from the source without moving text across scan boundaries. Scan 35 includes a source-supported old-form `னா` resolution in `பட்டினால்`.
+For `வெள்ளிக்கிழமை`, scans 4–36 have passed direct transcription and historical-glyph checking. Scan 33 preserves the physical Chapter 3 / Chapter 4 boundary exactly; scans 34–36 continue Chapter 4 from the source without moving text across scan boundaries. Scan 36 includes direct old-form `னா` clearance in `மாமனார்` / `சனாதன` and preserves source-specific `சந்தேகந்தான்`, `புளுகுகிறாயா`, and `கைலியில்லாமல்`.
 
 ## Release-status meaning
 
