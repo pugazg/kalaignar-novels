@@ -6,10 +6,12 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count: **179**;
 - page manifest: **179 / 179 represented below**;
-- canonical page records: **61 / 179, all verified**;
-- verified body transcription: **scans 4–61**;
-- historical-glyph gate: **PASS through scan 61**;
-- scans 37–61 directly map to printed pages **36–60**;
+- canonical page records: **86 / 179, all verified**;
+- verified body transcription: **scans 4–86**;
+- historical-glyph gate: **PASS through scan 86**;
+- scans 62–65 directly map to printed pages **61–64**;
+- scan 66 visibly prints only **`5`**; this source value is preserved and `65` is not inferred;
+- scans 67–86 directly map to printed pages **66–85**;
 - printed-page values marked `pending` are not inferred.
 
 ## Durable correction
@@ -25,7 +27,9 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 - scan 45 — mixed Chapter 4 / Chapter 5;
 - scan 52 — Chapter 6 opening;
 - scan 59 — mixed Chapter 6 / Chapter 7 (**not scan 60**);
-- scan 68 — Chapter 8 heading previously directly located.
+- scan 68 — mixed Chapter 7 / Chapter 8; centered `8`;
+- scan 75 — mixed Chapter 8 / Chapter 9; centered `9`;
+- scan 85 — mixed Chapter 9 / Chapter 10; centered `10`.
 
 | Scan | Printed page | Page type | Status | Note |
 |---:|:---:|---|---|---|
@@ -89,32 +93,32 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 | 58 | 57 | body | verified | Chapter 6; `யாரும் சிந்திக்கவில்லை இதுவரையில்` |
 | 59 | 58 | body / chapter boundary | verified | Mixed Chapter 6 / Chapter 7 boundary; centered `7` |
 | 60 | 59 | body | verified | Chapter 7 |
-| 61 | 60 | body | verified | Chapter 7 continuation; batch checkpoint |
-| 62 | pending | body | not-started |  |
-| 63 | pending | body | not-started |  |
-| 64 | pending | body | not-started |  |
-| 65 | pending | body | not-started |  |
-| 66 | pending | body | not-started |  |
-| 67 | pending | body | not-started |  |
-| 68 | 67 | body / chapter opening | not-started | Chapter 8 heading directly located previously; printed 67 |
-| 69 | pending | body | not-started |  |
-| 70 | pending | body | not-started |  |
-| 71 | pending | body | not-started |  |
-| 72 | pending | body | not-started |  |
-| 73 | pending | body | not-started |  |
-| 74 | pending | body | not-started |  |
-| 75 | pending | body | not-started |  |
-| 76 | pending | body | not-started |  |
-| 77 | pending | body | not-started |  |
-| 78 | pending | body | not-started |  |
-| 79 | pending | body | not-started |  |
-| 80 | pending | body | not-started |  |
-| 81 | pending | body | not-started |  |
-| 82 | pending | body | not-started |  |
-| 83 | pending | body | not-started |  |
-| 84 | pending | body | not-started |  |
-| 85 | pending | body | not-started |  |
-| 86 | pending | body | not-started |  |
+| 61 | 60 | body | verified | Chapter 7 continuation; prior batch checkpoint |
+| 62 | 61 | body | verified | Chapter 7 |
+| 63 | 62 | body | verified | Chapter 7 |
+| 64 | 63 | body | verified | Chapter 7 |
+| 65 | 64 | body | verified | Chapter 7 |
+| 66 | 5 | body | verified | Chapter 7; source prints page number only `5`; `பாதகன் டைகரைப் பழிவாங்கும் புலிக்குணம்...` cleared |
+| 67 | 66 | body | verified | Chapter 7 |
+| 68 | 67 | body / chapter boundary | verified | Mixed Chapter 7 / Chapter 8 boundary; centered `8` |
+| 69 | 68 | body | verified | Chapter 8 |
+| 70 | 69 | body | verified | Chapter 8 |
+| 71 | 70 | body | verified | Chapter 8 |
+| 72 | 71 | body | verified | Chapter 8 |
+| 73 | 72 | body | verified | Chapter 8 |
+| 74 | 73 | body | verified | Chapter 8; source `எவனோ ஒருத்தன் உளறின` retained |
+| 75 | 74 | body / chapter boundary | verified | Mixed Chapter 8 / Chapter 9 boundary; centered `9` |
+| 76 | 75 | body | verified | Chapter 9 |
+| 77 | 76 | body | verified | Chapter 9 |
+| 78 | 77 | body | verified | Chapter 9 |
+| 79 | 78 | body | verified | Chapter 9 |
+| 80 | 79 | body | verified | Chapter 9 |
+| 81 | 80 | body | verified | Chapter 9 |
+| 82 | 81 | body | verified | Chapter 9; bottom standalone `6` is printer/signature mark, not chapter heading |
+| 83 | 82 | body | verified | Chapter 9 |
+| 84 | 83 | body | verified | Chapter 9 |
+| 85 | 84 | body / chapter boundary | verified | Mixed Chapter 9 / Chapter 10 boundary; centered `10` |
+| 86 | 85 | body | verified | Chapter 10; batch checkpoint; final question continues to scan 87 |
 | 87 | pending | body | not-started |  |
 | 88 | pending | body | not-started |  |
 | 89 | pending | body | not-started |  |
@@ -211,4 +215,4 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 
 ## Exact next activity
 
-Process **scans 62–86** as the next 25-page iteration. Do not start assembled Tamil or English.
+Process **scans 87–111** as the next 25-page iteration. Do not start assembled Tamil or English.

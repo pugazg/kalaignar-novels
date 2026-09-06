@@ -13,44 +13,51 @@
 |---|---|
 | Source identity / checksum / page count | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **61 / 179 — all 61 verified** |
-| Body transcription | **scans 4–61 verified** |
-| Printed-page map | **directly confirmed through scan 61; scans 37–61 = printed 36–60** |
-| Chapter map | **direct through Chapter 7 opening; Chapter 8 previously located at scan 68** |
-| Historical-glyph policy | **PASS through scan 61** |
+| Canonical page records | **86 / 179 — all 86 verified** |
+| Body transcription | **scans 4–86 verified** |
+| Printed-page map | **directly confirmed through scan 86; scan 66 visibly prints only `5`** |
+| Chapter map | **direct through Chapter 10 opening/continuation** |
+| Historical-glyph policy | **PASS through scan 86** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
 
 ## Durable correction — recurring name
 
-The earlier `நயினு` reading is incorrect. Direct enlarged reinspection shows the recurring name as **`நயினா`**; the old `னா` typeform had been mistaken for `னு`. Scan 34 supplies explicit same-edition evidence with the expansion `நயினாமுகம்மது`. Scans 34–61 were corrected accordingly. This is a historical-glyph correction, not a modernization.
+The earlier `நயினு` reading is incorrect. Direct enlarged reinspection shows the recurring name as **`நயினா`**; the old `னா` typeform had been mistaken for `னு`. Scan 34 supplies explicit same-edition evidence with the expansion `நயினாமுகம்மது`. Scans 34–86 retain the corrected reading. This is a historical-glyph correction, not a modernization.
 
 ## Verified earlier checkpoints
 
-Scans 1–36 remain source-verified. Durable physical continuities and source-sensitive readings recorded in the page files remain authoritative unless contrary source-pixel evidence appears. The scan-33 mixed Chapter 3/4 boundary remains preserved.
+Scans 1–36 remain source-verified. Scans 37–61 were completed as a 25-page iteration, including mixed Chapter 4/5 boundary on scan 45, Chapter 6 opening on scan 52, and mixed Chapter 6/7 boundary on scan 59. Durable physical continuities and source-sensitive readings recorded in the page files remain authoritative unless contrary source-pixel evidence appears.
 
-## 25-page iteration — scans 37–61
+## 25-page iteration — scans 62–86
 
 **Result: VERIFIED / 25 OF 25 COMPLETE.**
 
-- scans 37–44: Chapter 4 continuation;
-- scan 45: Chapter 4 carryover + centered `5` + Chapter 5 opening;
-- scans 46–51: Chapter 5 continuation/end;
-- scan 52: centered `6` / Chapter 6 opening;
-- scans 53–58: Chapter 6 continuation;
-- scan 59: Chapter 6 carryover + centered `7` + Chapter 7 opening;
-- scans 60–61: Chapter 7 continuation.
+- scans 62–67: Chapter 7 continuation;
+- scan 68: Chapter 7 carryover + centered `8` + Chapter 8 opening;
+- scans 69–74: Chapter 8 continuation;
+- scan 75: Chapter 8 carryover + centered `9` + Chapter 9 opening;
+- scans 76–84: Chapter 9 continuation;
+- scan 85: Chapter 9 carryover + centered `10` + Chapter 10 opening;
+- scan 86: Chapter 10 continuation.
 
-Each page was inspected directly at sufficient resolution and checked against the mandatory set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. No OCR/context reading was promoted without pixel support. Physical word splits were retained, including scan 53 `அனுப்பப்பட்டிருக்க` → scan 54 `கிறார்கள்`. Directly resolved source readings include scan 38 `முந்நூறு` and scan 58 `யாரும் சிந்திக்கவில்லை இதுவரையில்`.
+Every scan was inspected directly at sufficient source resolution and checked against the mandatory set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. No OCR/context reading was promoted without pixel support.
 
-## Corrected chapter map finding
+### Source-first resolutions in this batch
 
-An earlier provisional note located Chapter 7 at scan 60. Direct review of the controlling scan shows the centered **`7` is on scan 59 / printed page 58**, after Chapter 6 carryover on the same physical page. All status documents must use scan 59 for the Chapter 7 boundary.
+- **scan 66:** the source visibly prints page number `5` at the page-number positions; no tens digit is present, so `65` is not inferred;
+- **scan 66:** enlarged review positively cleared `பாதகன் டைகரைப் பழிவாங்கும் புலிக்குணம் பெற்று விட்டது, அந்தப் புள்ளிமான்!`;
+- **scan 68:** mixed Chapter 7 / Chapter 8 boundary preserved in physical order;
+- **scan 74:** historical `னா` / `றா` identities cleared in `சிவனார்` / `மாறாக`; source `எவனோ ஒருத்தன் உளறின` retained without grammar repair;
+- **scan 75:** mixed Chapter 8 / Chapter 9 boundary preserved;
+- **scan 82:** standalone bottom `6` identified as a printer/signature mark, not a chapter heading;
+- **scan 85:** mixed Chapter 9 / Chapter 10 boundary preserved;
+- **scan 86:** `நயினா முகம்மது` retains the corrected same-edition `னா` reading.
 
 ## Unresolved project items
 
-- scans **62–179** canonical processing;
+- scans **87–179** canonical processing;
 - later printed-page mapping and later chapter boundaries;
 - final complete Tamil audit;
 - assembled Tamil reading layer;
@@ -58,4 +65,4 @@ An earlier provisional note located Chapter 7 at scan 60. Direct review of the c
 
 ## Exact next activity
 
-Process **scans 62–86** as the next 25-page source-first iteration, then synchronize status documents and commit. Do not start assembled Tamil or English.
+Process **scans 87–111** as the next 25-page source-first iteration, then synchronize status documents and commit. Do not start assembled Tamil or English.

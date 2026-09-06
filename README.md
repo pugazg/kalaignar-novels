@@ -25,24 +25,29 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **61 / 179 — all 61 verified**;
+- canonical page records: **86 / 179 — all 86 verified**;
 - scans 1–3 front matter: **verified**;
-- scans 4–12 / Chapter 1: **verified / complete**;
-- scans 13–22 / Chapter 2: **verified / complete**;
-- scans 23–32 / Chapter 3: **verified / complete, plus carryover at top of scan 33**;
+- Chapters 1–3: **verified through scan 33 carryover**;
 - Chapter 4: **scan 33 opening through scan 45 pre-heading carryover — verified**;
 - Chapter 5: **scan 45 below heading `5` through scan 51 — verified**;
 - Chapter 6: **scan 52 through scan 59 pre-heading carryover — verified**;
-- Chapter 7: **scan 59 below heading `7` through scan 61 — verified continuation**;
-- historical-glyph/source-sensitive checks: **PASS through scan 61**;
+- Chapter 7: **scan 59 below heading `7` through scan 68 pre-heading carryover — verified**;
+- Chapter 8: **scan 68 below heading `8` through scan 75 pre-heading carryover — verified**;
+- Chapter 9: **scan 75 below heading `9` through scan 85 pre-heading carryover — verified**;
+- Chapter 10: **scan 85 below heading `10` through scan 86 — verified continuation**;
+- historical-glyph/source-sensitive checks: **PASS through scan 86**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**;
-- next 25-scan iteration: **scans 62–86**.
+- next 25-scan iteration: **scans 87–111**.
 
 ### Durable name correction — `நயினா`
 
-The recurring character name is **`நயினா`**, not `நயினு`. Reinspection of the controlling scan shows that the historical `னா` typeform had been misread as `னு`. Scan 34 directly gives the same-edition witness `நயினா என்பது நயினாமுகம்மது என்ற பெயரின் சுருக்கம்`. Canonical scans 34–61 now use `நயினா`; future transcription must not regress to `நயினு`.
+The recurring character name is **`நயினா`**, not `நயினு`. Reinspection of the controlling scan shows that the historical `னா` typeform had been misread as `னு`. Scan 34 directly gives the same-edition witness `நயினா என்பது நயினாமுகம்மது என்ற பெயரின் சுருக்கம்`. Canonical scans 34–86 use `நயினா`; future transcription must not regress to `நயினு`.
+
+### Source-number anomaly — scan 66
+
+Scan **66** visibly prints only **`5`** at the page-number positions; no tens digit is present even under enlarged/native inspection. Canonical `printed_page` therefore records the visible source value `5` rather than silently inferring `65`. Scans 67–86 then visibly print `66–85`.
 
 ## Completed works
 

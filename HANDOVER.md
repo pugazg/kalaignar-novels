@@ -14,7 +14,7 @@
 
 Fetch live `main` first and preserve newer durable work.
 
-Current handover state: **61 / 179 canonical records, all 61 verified; historical-glyph PASS through scan 61.** The user-directed cadence is **25 physical scans per iteration**.
+Current handover state: **86 / 179 canonical records, all 86 verified; historical-glyph PASS through scan 86.** The user-directed cadence is **25 physical scans per iteration**.
 
 ## Controlling source
 
@@ -37,32 +37,40 @@ Read completely before source-dependent work: `NOVEL_PROCESSING_GUIDE.md`, `HIST
 ## Durable state
 
 - manifest **179 / 179**;
-- canonical **61 / 179, all verified**;
-- printed pages directly confirmed through scan 61; scans 37–61 = **36–60**;
-- Chapter 4/5 boundary: **scan 45**;
-- Chapter 6 opening: **scan 52**;
-- Chapter 6/7 boundary: **scan 59** (not scan 60);
-- Chapter 8 previously located: **scan 68 / printed 67**;
+- canonical **86 / 179, all verified**;
+- Chapter 7 / 8 boundary: **scan 68 / printed 67**;
+- Chapter 8 / 9 boundary: **scan 75 / printed 74**;
+- Chapter 9 / 10 boundary: **scan 85 / printed 84**;
+- Chapter 10 verified through **scan 86 / printed 85**;
+- historical-glyph checks: **PASS through scan 86**;
 - full Tamil audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Critical historical-glyph correction — `நயினா`
 
-The recurring name is **`நயினா`**, not `நயினு`. The old historical `னா` typeform had been misread as `னு`. Scan 34 directly establishes `நயினா` and the expansion `நயினாமுகம்மது`. Existing scans 34–36 and the complete scans 37–61 batch have been corrected. Future work must retain `நயினா` and must not regress to `நயினு`.
+The recurring name is **`நயினா`**, not `நயினு`. The old historical `னா` typeform had been misread as `னு`. Scan 34 directly establishes `நயினா` and the expansion `நயினாமுகம்மது`. Canonical scans 34–86 retain the corrected reading. Future work must not regress to `நயினு`.
 
-## Completed 25-page batch — scans 37–61
+## Completed 25-page batch — scans 62–86
 
-All 25 scans passed direct visual transcription and the 13-family historical-glyph gate. Source-first physical boundaries are preserved, including mixed boundary scans 45 and 59. No unresolved source cluster remains in the batch.
+All 25 scans passed direct visual transcription and the 13-family historical-glyph gate. Source-first physical boundaries are preserved, including mixed boundary scans 68, 75 and 85. No unresolved source cluster remains in the batch.
+
+Important durable findings:
+
+- scan 66 visibly prints only page number `5`; never infer `65` in canonical metadata;
+- scan 66 source reading `பாதகன் டைகரைப் பழிவாங்கும் புலிக்குணம் பெற்று விட்டது, அந்தப் புள்ளிமான்!`;
+- scan 74 source `சிவனார்`, `மாறாக`, and `எவனோ ஒருத்தன் உளறின`;
+- scan 82 bottom standalone `6` is a printer/signature mark, not a chapter heading;
+- scan 86 continues Chapter 10 and ends with a question that physically continues on scan 87.
 
 ## Exact next activity
 
 1. re-fetch live `main`;
 2. resolve controlling PDF;
-3. process **scans 62–86** in one 25-scan iteration;
+3. process **scans 87–111** in one 25-scan iteration;
 4. inspect each printed page number directly;
-5. preserve Chapter 7 continuation and the known Chapter 8 opening at scan 68 in its physical position;
+5. preserve all chapter/page boundaries in physical source order;
 6. apply the full historical-glyph gate page by page;
 7. synchronize page-map/audit/status docs and commit narrowly;
-8. stop after scan 86 unless explicitly instructed farther.
+8. stop after scan 111 unless explicitly instructed farther.
 
 Do not start assembled Tamil or English. Do not reopen completed prior novels.
 

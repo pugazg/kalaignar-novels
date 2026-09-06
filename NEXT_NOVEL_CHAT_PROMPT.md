@@ -4,7 +4,7 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Current durable state when prepared: **61 / 179 canonical records, all 61 verified; historical-glyph PASS through scan 61.**
+Fetch live `main` first. Preserve newer durable work. Current durable state when prepared: **86 / 179 canonical records, all 86 verified; historical-glyph PASS through scan 86.**
 
 ## Controlling source
 
@@ -16,15 +16,18 @@ Read `NOVEL_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md
 
 ## Durable correction — DO NOT REGRESS
 
-The recurring character name is **`நயினா`**, not `நயினு`. The historical `னா` typeform was previously mistaken for `னு`. Scan 34 directly establishes `நயினா` and `நயினாமுகம்மது`. Scans 34–61 are corrected. Treat this as authoritative same-edition historical-glyph evidence.
+The recurring character name is **`நயினா`**, not `நயினு`. The historical `னா` typeform was previously mistaken for `னு`. Scan 34 directly establishes `நயினா` and `நயினாமுகம்மது`. Canonical scans 34–86 use the corrected reading.
 
 ## Current chapter state
 
-- scan 45 / printed 44: mixed Chapter 4 / Chapter 5 boundary;
-- scan 52 / printed 51: Chapter 6 opening;
-- scan 59 / printed 58: mixed Chapter 6 / Chapter 7 boundary — **corrected from the earlier stale scan-60 note**;
-- scan 61 / printed 60: Chapter 7 continuation;
-- scan 68 / printed 67: Chapter 8 heading previously directly located.
+- scan 68 / printed 67: mixed Chapter 7 / Chapter 8 boundary;
+- scan 75 / printed 74: mixed Chapter 8 / Chapter 9 boundary;
+- scan 85 / printed 84: mixed Chapter 9 / Chapter 10 boundary;
+- scan 86 / printed 85: Chapter 10 continuation; final question continues physically to scan 87.
+
+## Durable source-number anomaly
+
+Scan **66** visibly prints only **`5`** at the page-number positions. Canonical `printed_page` is therefore `5`; never silently infer `65`.
 
 ## Historical-glyph rule
 
@@ -32,6 +35,6 @@ Mandatory set on every body page: `ணா / ணை / ணொ / ணோ / லை / 
 
 ## Exact next activity — 25-page cadence
 
-Process **scans 62–86** in one iteration. Directly inspect each scan, preserve physical boundaries, populate printed page numbers only from visible source evidence, apply the full historical-glyph gate, create/update canonical records, synchronize status documents, commit, verify live `main`, and stop after scan 86 unless instructed farther.
+Process **scans 87–111** in one iteration. Directly inspect each scan, preserve physical boundaries, populate printed page numbers only from visible source evidence, apply the full historical-glyph gate, create/update canonical records, synchronize status documents, commit, verify live `main`, and stop after scan 111 unless instructed farther.
 
 Do not start English or assembled Tamil. Do not reopen completed prior novels.

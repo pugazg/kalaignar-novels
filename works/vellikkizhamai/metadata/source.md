@@ -34,14 +34,15 @@ A Wikimedia Commons copy and Tamil Digital Library record may assist difficult-g
 - scans 23–27: printed 22–26;
 - scans 28–32: printed 27–31;
 - scan 33: printed 32;
-- scans 34–61: printed **33–60**, directly inspected;
-- scan 68: printed 67, previously directly confirmed;
+- scans 34–65: printed **33–64**, directly inspected;
+- scan 66: visibly prints only **`5`** at the source page-number positions; no tens digit is visible, so canonical `printed_page` is `5` rather than an inferred `65`;
+- scans 67–86: printed **66–85**, directly inspected;
 - scan 176: printed 175;
 - scan 179: printed 178.
 
 All other printed-page values remain pending until their own scan is visually inspected.
 
-## Structural observations — direct map through scan 61
+## Structural observations — direct map through scan 86
 
 - scan 4 — Chapter 1 opening;
 - scan 13 — Chapter 2 opening;
@@ -50,7 +51,10 @@ All other printed-page values remain pending until their own scan is visually in
 - scan 45 — Chapter 4 carryover above centered `5`, Chapter 5 below;
 - scan 52 — centered `6`, Chapter 6 opening;
 - scan 59 — Chapter 6 carryover above centered `7`, Chapter 7 below;
-- scan 68 — Chapter 8 heading directly located previously.
+- scan 68 — Chapter 7 carryover above centered `8`, Chapter 8 below;
+- scan 75 — Chapter 8 carryover above centered `9`, Chapter 9 below;
+- scan 85 — Chapter 9 carryover above centered `10`, Chapter 10 below;
+- scan 86 — Chapter 10 continuation.
 
 ## Historical-name correction
 
@@ -65,12 +69,12 @@ Read character identity from enlarged source pixels, compare same-edition eviden
 ## Current durable state
 
 - manifest: **179 / 179 represented**;
-- canonical: **61 / 179, all 61 verified**;
-- historical-glyph PASS through scan 61;
-- scans 37–61 completed as one 25-page iteration;
+- canonical: **86 / 179, all 86 verified**;
+- historical-glyph PASS through scan 86;
+- scans 62–86 completed as one 25-page iteration;
 - full Tamil source audit: not started;
 - assembled Tamil: not started;
 - English: blocked;
 - source PDF: not committed.
 
-Next: **scans 62–86** as the next 25-page iteration.
+Next: **scans 87–111** as the next 25-page iteration.
