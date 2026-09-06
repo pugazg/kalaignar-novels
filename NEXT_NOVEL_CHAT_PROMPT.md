@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 Fetch live `main` first. Preserve newer durable work. Do not reset or repeat completed pages because this prompt may contain an older checkpoint.
 
-Current durable state when prepared: **32 / 179 canonical records = 27 verified + scans 28–32 `partial` source-review holds.** Verify live `main` before changing anything.
+Current durable state when prepared: **33 / 179 canonical records, all 33 verified; historical-glyph PASS through scan 33.** Verify live `main` before changing anything.
 
 ## Controlling source
 
@@ -32,32 +32,30 @@ Read completely: `NOVEL_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPT
 ## Current state
 
 - manifest **179 / 179**;
-- canonical **32 / 179**;
+- canonical **33 / 179, all verified**;
 - scans 1–3 front matter verified;
 - scans 4–12 Chapter 1 verified / complete;
 - scans 13–22 Chapter 2 verified / complete;
-- scans 23–27 Chapter 3 verified;
-- scans 28–32 = printed **27–31**, structural source review complete but full Tamil/historical-glyph verification pending;
-- historical-glyph PASS through scan 27 only;
-- scan 33 = printed **32** and is a mixed boundary page: Chapter 3 carryover at top, then source-printed Chapter 4 heading/opening;
+- scans 23–32 Chapter 3 verified;
+- scan 33 / printed **32** is a verified mixed boundary page: Chapter 3 carryover at top, then centered source-printed `4`, then Chapter 4 opening;
+- scans 28–32 former `partial` holds are resolved by enlarged/native source-pixel review;
+- historical-glyph PASS through scan 33;
 - full Tamil audit, assembled Tamil and English have not started.
 
-## Scans 28–32 — do not overclaim
+## Historical-glyph rule
 
-Canonical files 0028–0032 are intentionally `partial`. The previous source rendering allowed confident page-number and structure review, but not reliable character-level verification of every historical Tamil cluster. Do not treat those pages as transcribed/verified and do not fill them from context, OCR or outside text.
-
-Mandatory historical set for each page:
+Mandatory historical set for every body page:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Only positive source-pixel evidence can clear the page.
+Only positive source-pixel evidence can clear a page. Do not modernize source spelling/grammar/punctuation, do not infer from context/OCR, and never global-replace.
 
-## Corrected scan-33 boundary
+## Durable scan-33 boundary
 
-Chapter 3 continues beyond scan 32. Scan 33 / printed 32 first contains a short Chapter 3 carryover, then the centered heading `4`, then Chapter 4 text. Preserve this physical boundary exactly; do not move scan-33 carryover into scan 32.
+Scan 33 ends `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே`. Its continuation belongs to scan 34 and must not be supplied from context or moved backward.
 
 ## Exact next activity
 
-Re-open scans **28–32** at sufficient resolution and finish their source-faithful Tamil transcription + historical-glyph audit. Mark each `verified` only after direct visual clearance. Then process **scan 33**, preserving both the Chapter 3 carryover and the Chapter 4 heading/opening. Synchronize page-map/audit/status docs, commit narrowly, verify live `main`, and stop unless explicitly instructed farther.
+Process **scan 34** directly from sufficient-resolution source pixels, continue Chapter 4 from scan 33, populate its printed-page value only from its own visible source number, apply the full historical-glyph gate, create the canonical page record, synchronize page-map/audit/status docs, commit narrowly, verify live `main`, and stop unless explicitly instructed farther.
 
 Do not start English or assembled Tamil. Do not reopen completed prior novels.

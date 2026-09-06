@@ -14,7 +14,7 @@
 
 Fetch live `main` first and preserve newer durable work. Do not repeat completed work because a copied checkpoint is older.
 
-Current handover state: **32 / 179 canonical records = 27 verified + scans 28–32 `partial` source-review holds.** Verify the live commit carrying this state before further source work.
+Current handover state: **33 / 179 canonical records, all 33 verified; historical-glyph PASS through scan 33.** Scans 28–32 former `partial` holds are resolved, and scan 33's mixed Chapter 3 / Chapter 4 boundary is verified. Verify live `main` before further source work.
 
 Before any source-dependent change, read completely:
 
@@ -46,31 +46,38 @@ Edition: **இரண்டாம் பதிப்பு: 1968**
 ## Current durable state
 
 - manifest: **179 / 179 represented**;
-- canonical records: **32 / 179**;
-- verified records through scan 27; scans 28–32 are **partial**;
+- canonical records: **33 / 179, all verified**;
 - Chapter 1: scans 4–12 verified / complete;
 - Chapter 2: scans 13–22 verified / complete;
-- Chapter 3: scans 23–27 verified; scans 28–32 partial; continues into the top of scan 33;
+- Chapter 3: scans 23–32 plus the carryover at top of scan 33 verified;
+- Chapter 4: source heading/opening begins on scan 33 and is verified through that physical page;
 - printed page numbers confirmed: scans 28–32 = **27–31**, scan 33 = **32**;
-- historical-glyph checks: **PASS through scan 27; pending scans 28–32**;
-- full Tamil source audit / assembled Tamil / English: **not started / blocked**;
+- historical-glyph checks: **PASS through scan 33**;
+- full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**;
 - source PDF committed: **No**.
 
-## Important source-resolution status — scans 28–32
+## Resolved source-resolution hold — scans 28–32
 
-The physical scans were directly inspected and their printed-page numbers and Chapter 3 structure were confirmed. The currently available rendered source, however, is insufficient for reliable character-level historical-glyph verification at this project's standard. Accordingly, canonical files 0028–0032 are deliberately `partial`; they contain source-review metadata rather than a guessed full transcription.
+The former `partial` records for scans 28–32 were re-opened at enlarged/native source resolution. Each page now has source-faithful Tamil transcription and a completed check of the mandatory set:
 
-Do **not** upgrade them to `verified` from context, OCR, web text or a low-resolution rendering. Re-open sufficient-resolution source pixels, check every difficult cluster and the mandatory historical set, then transcribe source-faithfully.
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-## Corrected scan-33 boundary
+No OCR/context reading was promoted without direct pixel evidence. Important physical continuities remain preserved:
 
-Scan 33 / printed page 32 contains:
+- scan 28 `விஷயத்தை வெளி` → scan 29 `யில் சொல்லாதே...`;
+- scan 31 `மூன்றாவது` → scan 32 `ஆள் வேம்பு!`.
 
-1. a short **Chapter 3 carryover** passage at the top;
-2. the centered source-printed **4** heading;
-3. the Chapter 4 opening below the heading.
+## Verified scan-33 boundary
 
-Therefore Chapter 3 does not end on scan 32. Never move the scan-33 carryover backward into scan 32.
+Scan 33 / printed page 32 contains, in this exact order:
+
+1. a short **Chapter 3 carryover** dialogue paragraph;
+2. the centered source-printed **`4`** heading;
+3. the Chapter 4 opening.
+
+The carryover was not moved backward into scan 32. The page ends `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே`, whose continuation remains for scan 34.
+
+Historical-glyph clearance on scan 33 includes the source line-split old-form cluster `நட்டு` + `வனர்`, decoded as **`நட்டுவனார்`** (`னா` family) from the source pixels.
 
 ## Source authority / historical-glyph rule
 
@@ -80,12 +87,14 @@ Do not modernize spelling, grammar, punctuation, vocabulary, names, dialogue, or
 
 ## Exact next activity
 
-1. Re-review scans **28–32** at sufficient resolution.
-2. Complete their source-faithful Tamil transcription and historical-glyph checks page by page.
-3. Change a page from `partial` to `verified` only after its direct visual gate passes.
-4. Then process **scan 33**, preserving Chapter 3 carryover and Chapter 4 heading/opening on that same physical page.
-5. Synchronize page-map, audit, work README, root README, handover and continuation prompt.
-6. Commit narrowly and verify live `main`.
+**Stop at scan 33 unless the user explicitly instructs farther.** When continuation is authorized:
+
+1. re-fetch live `main`;
+2. resolve the controlling PDF;
+3. process **scan 34** directly from source pixels, continuing Chapter 4 from scan 33;
+4. populate scan 34's printed-page value only from its own visible source number;
+5. apply the full historical-glyph gate;
+6. synchronize page-map/audit/status docs and commit narrowly.
 
 Do not start English or assembled Tamil. Do not reopen completed prior novels.
 

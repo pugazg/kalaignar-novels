@@ -14,12 +14,12 @@
 | Source identity inspected | **complete for intake** |
 | Actual PDF page count / size / checksum | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **32 / 179 — 27 verified + 5 partial** |
+| Canonical page records | **33 / 179 — all 33 verified** |
 | Front matter scans 1–3 | **verified** |
-| Body transcription | **scans 4–27 verified; scans 28–32 partial source-review; Chapters 1–2 complete; Chapter 3 continues into scan 33** |
+| Body transcription | **scans 4–33 verified; Chapters 1–2 complete; Chapter 3 complete through its carryover on scan 33; Chapter 4 opens on scan 33** |
 | Printed-page map | **partial — confirmed through scan 33; scans 28–32 = 27–31; scan 33 = 32** |
-| Chapter map | **partial — Chapters 1–8 located, with corrected scan-33 mixed boundary** |
-| Historical-glyph policy | **enabled; scans 4–27 passed; scans 28–32 pending** |
+| Chapter map | **partial — Chapters 1–8 located, with scan-33 mixed boundary preserved** |
+| Historical-glyph policy | **enabled; scans 4–33 passed** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -30,9 +30,9 @@ Scans 1–3 front matter remain verified. Scans 4–12 complete Chapter 1, scans
 
 Key Chapter 3 continuity through scan 27: scan 23 `உணர்ந்திருந்ததோடு` → scan 24 `மட்டுமல்ல;`; scan 24 `அவர்` → scan 25 `கள்தானே`; scan 25 `சேர்ந்` → scan 26 `தான்.`; scan 27 ends with `“என்ன—என்ன? விவரமாச் சொல்லு!”`, whose reply begins on scan 28.
 
-## Sixth narrative batch — scans 28–32
+## Scans 28–32 — former source-review hold resolved
 
-**Result: PARTIAL / SOURCE-REVIEW HOLD.**
+**Result: VERIFIED / SOURCE-PIXEL CLEARANCE COMPLETE.**
 
 - scan 28: printed page **27**;
 - scan 29: printed page **28**;
@@ -40,38 +40,53 @@ Key Chapter 3 continuity through scan 27: scan 23 `உணர்ந்திர�
 - scan 31: printed page **30**;
 - scan 32: printed page **31**.
 
-All five physical scans were directly inspected for visible page number, page identity and structure. However, the currently available rendered source is not sufficient for reliable character-by-character historical-glyph verification at the repository's archival standard. Therefore:
+The earlier `partial` records existed because the first available rendering did not support reliable character-by-character historical-glyph verification. The controlling PDF was re-opened at enlarged/native resolution, and each page was checked directly before promotion to `verified`.
 
-- no guessed full Tamil transcription is asserted;
-- the five canonical records are `partial`, not `verified`;
-- mandatory review of `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains pending;
-- no lexical modernization or context-based repair was performed;
-- later pen/pencil/underline marks remain outside canonical printed text.
+For every scan 28–32:
 
-### Structural correction at scan 33
+- the full known set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was explicitly considered;
+- difficult clusters were read from source pixels, not OCR/context;
+- no global replacement or lexical modernization was used;
+- later pen/pencil/underline marks remain outside canonical printed text;
+- no unresolved source cluster remains.
 
-Direct inspection of scan **33 / printed page 32** shows that it does **not** begin immediately with Chapter 4. A short Chapter 3 carryover passage appears at the top; the centered source-printed **4** heading follows on the same physical scan, and Chapter 4 begins below it.
+### Source-sensitive findings retained
 
-Consequences:
+- scan 28: source-specific colloquial forms are preserved; `சாவுக்களை` was cleared with the historical `ளை` identity, and `ஏறச்சொன்னார்` / `நின்றார்` were checked against `றா` / `னா` families;
+- scan 28 → 29: the physical word split is preserved as scan 28 `விஷயத்தை வெளி` → scan 29 `யில் சொல்லாதே...`;
+- scan 29: `வரவேற்றாள்`, `நம்பினாள்`, `அவனை`, and related historical-family clusters were cleared directly;
+- scan 30: `தேவனைப்` was positively resolved as the historical `னை` family; source-specific `பாவையுந்தன்`, `பிரக்ஞை`, and `தாட்சண்யம்` remain unchanged;
+- scan 31: `மற்றொருவன்` was checked for `றொ`; unusual source compounds such as `சித்ரவதைசெய்ய`, `இதுவெனக்கொண்டு`, and `உன்னைப்பற்றித்தெரிந்தவர்கள்` remain source-faithful;
+- scan 31 → 32: scan 31 ends `மூன்றாவது`; scan 32 begins `ஆள் வேம்பு!`;
+- scan 32: source forms including `அந்த ரகந்தான்`, `மருத்துவ மனை`, `செளக்கியப்படுத்துமாறு`, and `வந்துசேர்ந்தான்` are preserved.
 
-- Chapter 3 does not end on scan 32;
-- scan 33 is a mixed boundary page: Chapter 3 carryover + Chapter 4 opening;
-- no carryover text from scan 33 may be moved backward into scan 32;
-- the earlier shorthand “scan 33 — Chapter 4 opening” remains useful for locating the heading, but must not be read as saying the physical scan contains only Chapter 4.
+## Scan 33 — corrected mixed boundary verified
+
+**Result: VERIFIED.**
+
+Direct enlarged inspection of scan **33 / printed page 32** confirms this exact physical order:
+
+1. Chapter 3 carryover: `“ஆனந்தி! கொஞ்சம் உன்னிடம் தனியாகப் பேச வேண்டும், இப்படி வாயேன்!” ...`;
+2. centered source-printed heading **`4`**;
+3. Chapter 4 opening beginning `சிந்தாமணி கண்ட இன்பக் கனவுகளின்...`.
+
+The historical-glyph gate was completed for the whole page. In particular, the old-form line-split cluster printed as `நட்டு` + `வனர்` was decoded from source pixels as **`நட்டுவனார்`** (`னா` family), while `கற்பனை` was checked for `னை`. No Chapter 3 carryover was moved backward into scan 32.
+
+Scan 33 ends `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே`; its continuation remains for scan 34 and is not supplied from context.
 
 ## Source marks / contamination risks
 
-Later underlining, ticks and handwriting occur in the copy and remain outside canonical novel text. Age-toning, stains, bleed-through and uneven ink remain glyph-reading risks.
+Later underlining, ticks and handwriting occur in the copy and remain outside canonical novel text. Age-toning, stains, bleed-through and uneven ink remain glyph-reading risks for all future scans.
 
 ## Unresolved project items
 
-- scans **28–32** full source-faithful Tamil transcription and historical-glyph verification;
-- scan **33** Chapter 3 carryover + Chapter 4 opening transcription;
-- scans 34–179 canonical processing;
+- scans **34–179** canonical processing;
 - printed-page mapping for later scans;
 - chapter openings after Chapter 8;
-- final complete Tamil audit, assembly and English stages.
+- final complete Tamil audit;
+- assembled Tamil reading layer;
+- English stages after the Tamil gate passes.
 
 ## Exact next activity
 
-Obtain/review scans **28–32** at sufficient resolution, finish their character-level Tamil transcription and historical-glyph checks, and mark each `verified` only after direct source confirmation. Then process scan **33** while preserving its two-part Chapter 3 / Chapter 4 structure. English remains blocked.
+**Stop at the verified scan-33 checkpoint unless explicitly instructed farther.** When continuation is authorized, process **scan 34** by direct visual inspection, continue Chapter 4, populate its printed-page value only from source evidence, and apply the same 13-family historical-glyph gate. English and assembled Tamil remain blocked.

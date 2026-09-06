@@ -135,17 +135,17 @@ Rules:
 ## Current durable state
 
 - page manifest: **179 / 179 represented**;
-- canonical page records: **32 / 179**;
+- canonical page records: **33 / 179**;
 - scans 1–3: **verified** front matter;
 - scans 4–12: **verified**, Chapter 1 complete;
 - scans 13–22: **verified**, Chapter 2 complete;
-- scans 23–27: **verified**, Chapter 3 opening block;
-- scans 28–32: **partial source-review holds**, printed pages 27–31 confirmed; full Tamil + historical-glyph clearance pending;
-- historical-glyph gate: **PASS through scan 27**;
-- scan 33: printed page 32; Chapter 3 carryover followed by Chapter 4 heading/opening;
+- scans 23–32: **verified**, Chapter 3 through printed page 31;
+- scan 33: **verified**, printed page 32; Chapter 3 carryover followed by Chapter 4 heading/opening;
+- former scans 28–32 `partial` source-review holds: **resolved by enlarged/native source-pixel review**;
+- historical-glyph gate: **PASS through scan 33**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English: **blocked until Tamil gate passes**;
 - source PDF: **not committed**.
 
-Next: resolve scans **28–32** at sufficient source-pixel resolution, promote each page only after source-faithful transcription and historical-glyph clearance, then process mixed-boundary scan **33**.
+Next when explicitly instructed: process **scan 34** directly from source pixels, preserving the scan-33 final continuation and populating scan 34's printed-page value only from direct inspection. Do not start assembled Tamil or English.

@@ -25,16 +25,17 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **32 / 179 — 27 verified + scans 28–32 partial source-review holds**;
+- canonical page records: **33 / 179 — all 33 verified**;
 - scans 1–3 front matter: **verified**;
 - scans 4–12 / Chapter 1: **verified / complete**;
 - scans 13–22 / Chapter 2: **verified / complete**;
-- scans 23–27 / Chapter 3 opening: **verified**;
-- scans 28–32: **printed-page/structure review complete; full Tamil and historical-glyph verification pending**;
-- historical-glyph/source-sensitive checks: **PASS through scan 27; pending for scans 28–32**;
-- printed-page mapping confirmed through scan 33: scans 28–32 = **27–31**; scan 33 = **32**;
-- structural correction: scan 33 begins with **Chapter 3 carryover**, followed on the same scan by the source-printed **Chapter 4** heading;
-- next activity: obtain/review sufficient-resolution source for scans **28–32**, complete their source-faithful Tamil + historical-glyph verification, then process scan **33** without moving its Chapter 3 carryover backward.
+- scans 23–32 / Chapter 3: **verified through printed page 31**;
+- scan 33 / printed page 32: **verified mixed boundary page — Chapter 3 carryover, then source-printed Chapter 4 heading/opening**;
+- historical-glyph/source-sensitive checks: **PASS through scan 33**;
+- full Tamil source audit: **not started**;
+- assembled Tamil: **not started**;
+- English translation: **blocked until Tamil gate passes**;
+- next activity when explicitly instructed: process **scan 34** directly from source pixels and continue Chapter 4; do not infer its printed number or start assembled Tamil/English.
 
 The source is image-only and uses older Tamil print conventions. Every body page must use the historical-glyph pre-correction workflow in `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Later underlining/ticks/handwriting remain separate from printed text. The source PDF remains outside the repository.
 
@@ -50,7 +51,7 @@ The source is image-only and uses older Tamil print conventions. Every body page
 
 For older Tamil sources, use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md). Governing rule: **identify historical character identity from source pixels first, then encode that identity in modern Unicode without modernizing source wording.** Minimum set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-For `வெள்ளிக்கிழமை`, scans 4–27 have passed direct transcription and historical-glyph checking. Scans 28–32 are intentionally `partial`: their printed pages and structure are confirmed, but no full Tamil transcription is asserted until sufficient-resolution character-level review is possible.
+For `வெள்ளிக்கிழமை`, scans 4–33 have passed direct transcription and historical-glyph checking. Scan 33 preserves the physical Chapter 3 / Chapter 4 boundary exactly; no carryover text was shifted backward into scan 32.
 
 ## Release-status meaning
 

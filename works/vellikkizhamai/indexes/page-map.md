@@ -6,14 +6,14 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count from direct file inspection: **179**;
 - initial page manifest: **179 / 179 represented below**;
-- canonical page records created so far: **32 / 179**;
+- canonical page records created so far: **33 / 179**;
 - direct front-matter transcription: scans **1–3 verified**;
-- verified body transcription: scans **4–27 verified**;
-- partial source-review records: scans **28–32**;
+- verified body transcription: scans **4–33 verified**;
 - Chapter 1: **complete / scans 4–12**;
 - Chapter 2: **complete / scans 13–22**;
-- Chapter 3: **scans 23–27 verified; scans 28–32 partial; continues into scan 33**;
-- historical-glyph gate: **PASS through scan 27; pending scans 28–32**;
+- Chapter 3: **verified / scans 23–32 plus carryover at top of scan 33**;
+- Chapter 4: **opening verified on scan 33 below the centered source heading `4`**;
+- historical-glyph gate: **PASS through scan 33**;
 - printed-page values marked `pending` must be populated only by direct visual inspection; they are not inferred from sequence.
 
 Directly confirmed numbering:
@@ -70,12 +70,12 @@ The full later chapter map remains pending. Do not infer boundaries from sequenc
 | 25 | 24 | body | verified | Chapter 3 |
 | 26 | 25 | body | verified | Chapter 3 |
 | 27 | 26 | body | verified | Chapter 3; final question continues to scan 28 |
-| 28 | 27 | body | partial | Chapter 3; printed page/structure confirmed; full transcription and historical-glyph verification pending |
-| 29 | 28 | body | partial | Chapter 3; printed page/structure confirmed; full transcription and historical-glyph verification pending |
-| 30 | 29 | body | partial | Chapter 3; printed page/structure confirmed; full transcription and historical-glyph verification pending |
-| 31 | 30 | body | partial | Chapter 3; printed page/structure confirmed; full transcription and historical-glyph verification pending |
-| 32 | 31 | body | partial | Chapter 3; continues into scan 33; full transcription and historical-glyph verification pending |
-| 33 | 32 | body / chapter boundary | not-started | Chapter 3 carryover at top; Chapter 4 heading/opening follows on same scan |
+| 28 | 27 | body | verified | Chapter 3; full Tamil + historical-glyph verification complete; ends `விஷயத்தை வெளி` |
+| 29 | 28 | body | verified | Chapter 3; begins physical continuation `யில் சொல்லாதே...` |
+| 30 | 29 | body | verified | Chapter 3; `தேவனைப்` historical `னை` identity cleared |
+| 31 | 30 | body | verified | Chapter 3; ends `மூன்றாவது`, continuing to scan 32 |
+| 32 | 31 | body | verified | Chapter 3; begins `ஆள் வேம்பு!`; continues into scan 33 |
+| 33 | 32 | body / chapter boundary | verified | Chapter 3 carryover at top; centered Chapter 4 heading/opening follows on same scan |
 | 34 | pending | body | not-started |  |
 | 35 | pending | body | not-started |  |
 | 36 | pending | body | not-started |  |
@@ -225,4 +225,4 @@ The full later chapter map remains pending. Do not infer boundaries from sequenc
 
 ## Exact next activity
 
-Re-review scans **28–32** at sufficient resolution and complete their full Tamil transcription + historical-glyph verification. Then process **scan 33**, preserving its Chapter 3 carryover and Chapter 4 heading/opening on the same physical page. Do not mark any partial page verified until the direct visual gate passes.
+**Stop at scan 33 unless explicitly instructed farther.** On continuation, process **scan 34** by direct source inspection, continue Chapter 4, and populate its printed-page value only from that scan. Do not start assembled Tamil or English.

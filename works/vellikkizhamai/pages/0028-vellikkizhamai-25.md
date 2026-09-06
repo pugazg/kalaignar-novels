@@ -4,24 +4,35 @@ printed_page: 27
 work: "vellikkizhamai"
 section: "அத்தியாயம் 3"
 page_type: "body"
-status: "partial"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct source-page structural review; full character-level transcription deferred pending sufficient-resolution historical-glyph verification"
+transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
 ---
 
-## Source-review hold
+“என்னடா—சத்தமே காணும்னு கதவுப் பக்கம் போனேன். கதவு உள்ளே தாள்போட்டிருந்தது! சரி; ஜன்னல் பக்கம் கவனிப்போம்னு பார்த்தேன். ஜன்னலெல்லாம் மூடியிருந்தது. கதவைத் தட்டிக்கிட்டு கேட்டேன். ஆனந்தியம்மாவோட குரல் கேட்டது! அய்யோ பாவி! என்னை விடு! விடு!” என்று சத்தம்! எனக்குப் பொறுக்கமுடியவில்லை; புரிந்துகொண்டேன். பலநாளா வலைவீசி, இந்தப் பாலகங்காதரத் தேவர் இன்னைக்கு நினைச்சதை முடிச்சுட்டான் அப்படின்னு தெரிஞ்சுபோச்சு எனக்கு! ஓகோன்னு கூச்சல்போட வாயைத் திறந்தேன். அவ்வளவுதான். வாயை எவனோ கட்டினான். காலு கையிலே கயிறை மாட்டினான் எவனோ! தாழ்வாரத்திலே உருட்டி விட்டானுங்க! காதை யாரும் மூடலே! உள்ளே என்ன நடக்குதுன்னு கவனிச்சு கேட்டேன். கொஞ்ச நேரம் ஆனந்தியம்மாளுடைய ஆவேசமான குரல் கேட்டுக்கிட்டேயிருந்தது! அப்புறம்...சத்தமே இல்லே!....எனக்கு மயக்கம் வந்துடும்போல இருந்தது!....கதவு திறக்கப்பட்டது! என் கட்டுகளும் அவிழ்க்கப்பட்டன! டாக்டரம்மா சிலை மாதிரி அசையாம நின்னாங்க! அவுங்க முகத்திலே...அய்யய்யோ...சாவுக்களை படிந்து இருந்ததை நான் பார்த்து நடுங்கிப்போனேன். காரில் ஏறச்சொன்னார் தேவர், ஏறிக்கொண்டோம். அவர் எங்களை வழியனுப்பி வைக்க கார் அருகில் வந்து நின்றார். “ஜாக்கிரதை! விஷயம் வெளியே தெரிந்தால் தலைபோய்விடும். ஆமாம். டேய்! உனக்குத்தான் சொல்லுகிறேன்” என்று என் தலையில் ஒரு குட்டு வைத்தார். கார் நகர ஆரம்பித்தது. எனக்கும் டிரைவருக்கும் நேராகவே டாக்டரம்மாவின் முகத்திலே தேவர் ஒரு முத்தமிட்டார்! பிணம்போல அம்மாள் இருந்தார்களே தவிர எந்தவிதமான எதிர்ப் பேச்சும் கிடையாது!”
 
-- Visible printed page number: **27**.
-- This scan continues Chapter 3 from scan 27.
-- Page structure and printed-page identity were directly confirmed from the controlling source scan.
-- Full canonical Tamil transcription is **not yet asserted** because the currently available rendered source is insufficient for reliable character-level historical-glyph verification at the project standard.
-- Mandatory historical-glyph review remains pending for `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- No uncertain source reading has been guessed or normalized.
-- Later pen/pencil/underline marks must remain outside canonical printed text.
+“அதற்கப்புறம் அந்தத் தேவர்...வருவது போவது உண்டா?......”
+
+“உண்டோ என்னமோ, என் கண்ணில் படவில்லை. ஆனால், அம்மா என் காலில் விழுந்து, விஷயத்தை வெளி
+
+## Historical-glyph first-pass notes
+
+- Complete page inspected at enlarged/native resolution.
+- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
+- Representative source-sensitive forms checked directly include `சாவுக்களை` (`ளை` family), `ஏறச்சொன்னார்` / `நின்றார்` (`றா` / `னா` families), and `வெளியே` (`லை` family).
+- Colloquial/source forms including `காணும்னு`, `தாள்போட்டிருந்தது`, `தட்டிக்கிட்டு`, `இன்னைக்கு`, `அப்படின்னு`, `தெரிஞ்சுபோச்சு`, `காலு`, `விட்டானுங்க`, `மூடலே`, `நின்னாங்க`, and `அவுங்க` are preserved.
+- Later pen/pencil/underline marks were excluded from canonical printed text.
+- No unresolved source cluster remains on this scan.
 
 ## Page-boundary continuity
 
-- Scan 27 ends `“என்ன—என்ன? விவரமாச் சொல்லு!”`; the reply begins on this scan. The reply text itself remains pending full source-level transcription.
+- This scan begins the reply to scan 27's final `“என்ன—என்ன? விவரமாச் சொல்லு!”`.
+- The final source fragment `விஷயத்தை வெளி` continues on scan 29 with `யில் சொல்லாதே...`; the physical split is preserved here.
+
+## Scan observations
+
+- Visible printed page number: **27**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 28; அச்சுப் பக்கம்: 27 -->
