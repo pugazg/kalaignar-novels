@@ -12,7 +12,7 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “ஆராய்ச்சியில்லையப்பா — அனுபவ உண்மை! என்னமோ—உனக்கு உன் ஆசைப்படியே ஓவியம்போல ஒரு பெண் கிடைத்திருக்கிறது — அந்த ஓவியம் பேசுமா பேசாதா? சிரிக்குமா? சிரித்தால் பல் இருக்குமா — இருக்காதா? — நடக்குமா? நடக்கக் கால் உண்டா? நொண்டியா? — இவைகளையெல்லாம் நாங்கள் பார்த்துவிட்டு வருகிறோம். நீ கவலைப்படாமல் இரேன்!”
 
-“நயினு உனக்கு எல்லாம் விளையாட்டுதான்! நீ பெண்ணைப் பார்க்கமுடியாது!”
+“நயினா உனக்கு எல்லாம் விளையாட்டுதான்! நீ பெண்ணைப் பார்க்கமுடியாது!”
 
 “ஏன்—எங்களைப்போல ‘கோஷா’ முறை ஏதாவது உண்டா?”
 
@@ -20,7 +20,7 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “உண்மையாகவா; அல்லது நீ வரவேண்டுமென்பதற்காகப் புளுகுகிறாயா?”
 
-“உண்மைதான் நயினு; உண்மைதான்!!”
+“உண்மைதான் நயினா; உண்மைதான்!!”
 
 “அப்படியானால், நான் கைலியில்லாமல், குல்லா இல்லாமல் போகிறேன்!”
 
@@ -37,6 +37,7 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 - Complete page inspected at enlarged/native resolution.
 - Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 - Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
+- The recurring name is `நயினா`; the historical `னா` typeform was previously misread as `னு` and is corrected using the direct scan plus scan-34 same-edition evidence.
 - `மாமனார்` and `சனாதன` were directly cleared against the historical `னா` family; `பெண்ணைப்` was checked for `ணை`, `கவலைப்படாமல்` for `லை`, and `மாறுதல்` for `றா`.
 - Source-specific forms including `என்னமோ`, `இரேன்`, `சந்தேகந்தான்`, `புளுகுகிறாயா`, `கைலியில்லாமல்`, `குல்லா இல்லாமல்`, and `காண்பித்துக்கொடுத்துவிடாதா` are preserved as printed.
 - The quoted word `‘கோஷா’` and the source's dash/semicolon punctuation are retained.
@@ -45,7 +46,7 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 ## Page-boundary continuity
 
-- This page continues the Chapter 4 அழகப்பன்–நயினு conversation from scan 35, whose final line is `“சரி சரி! உன் ஆராய்ச்சியை வளர்த்தாதே! தயவு செய்து நிறுத்து!”`.
+- This page continues the Chapter 4 அழகப்பன்–நயினா conversation from scan 35, whose final line is `“சரி சரி! உன் ஆராய்ச்சியை வளர்த்தாதே! தயவு செய்து நிறுத்து!”`.
 - No scan-37 text is moved backward; Chapter 4 continues beyond this physical page.
 
 ## Scan observations
