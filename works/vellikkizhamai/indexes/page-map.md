@@ -6,12 +6,12 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count: **179**;
 - page manifest: **179 / 179 represented below**;
-- canonical page records: **96 / 179, all verified**;
-- verified body transcription: **scans 4–96**;
-- historical-glyph gate: **PASS through scan 96**;
+- canonical page records: **101 / 179, all verified**;
+- verified body transcription: **scans 4–101**;
+- historical-glyph gate: **PASS through scan 101**;
 - scans 62–65 directly map to printed pages **61–64**;
 - scan 66 visibly prints only **`5`**; this source value is preserved and `65` is not inferred;
-- scans 67–96 directly map to printed pages **66–95**;
+- scans 67–101 directly map to printed pages **66–100**;
 - printed-page values marked `pending` are not inferred.
 
 ## Durable correction
@@ -30,7 +30,8 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 - scan 68 — mixed Chapter 7 / Chapter 8; centered `8`;
 - scan 75 — mixed Chapter 8 / Chapter 9; centered `9`;
 - scan 85 — mixed Chapter 9 / Chapter 10; centered `10`;
-- scan 92 — mixed Chapter 10 / Chapter 11; centered `11`.
+- scan 92 — mixed Chapter 10 / Chapter 11; centered `11`;
+- scan 99 — mixed Chapter 11 / Chapter 12; centered `12`.
 
 | Scan | Printed page | Page type | Status | Note |
 |---:|:---:|---|---|---|
@@ -130,11 +131,11 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 | 94 | 93 | body | verified | Chapter 11; source `புறக்கப்போகிறேன்` retained; ends `இருவரும் ஒருவரை` |
 | 95 | 94 | body | verified | Chapter 11; begins `தழுவிக்கொண்டு`; Ramayana paragraph enlarged-review clearance |
 | 96 | 95 | body | verified | Chapter 11; source `வெளித்தாவரத்திலே`; ends `ஒரு நாற்காலியில் உட்`, continuing to scan 97 |
-| 97 | pending | body | not-started |  |
-| 98 | pending | body | not-started |  |
-| 99 | pending | body | not-started |  |
-| 100 | pending | body | not-started |  |
-| 101 | pending | body | not-started |  |
+| 97 | 96 | body | verified | Chapter 11; begins `கார்ந்துகொண்டு`; ends `நயினா`, continuing as `நயினாவைத்` on scan 98 |
+| 98 | 97 | body | verified | Chapter 11; bottom standalone `7` is printer/signature mark; ends `இருந்` |
+| 99 | 98 | body / chapter boundary | verified | Mixed Chapter 11 / Chapter 12 boundary; begins `தால்......`; centered `12` |
+| 100 | 99 | body | verified | Chapter 12; fantasy-flight passage; source `நடன மாடுகிறது` / `கிழிபட்ட` retained |
+| 101 | 100 | body | verified | Chapter 12; poison added to medicine; ends `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி` |
 | 102 | pending | body | not-started |  |
 | 103 | pending | body | not-started |  |
 | 104 | pending | body | not-started |  |
@@ -216,4 +217,4 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 
 ## Exact next activity
 
-Process **scans 97–101** as the next 5-page iteration. Do not start assembled Tamil or English.
+Process **scans 102–106** as the next 5-page iteration. Do not start assembled Tamil or English.

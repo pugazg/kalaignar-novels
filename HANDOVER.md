@@ -9,7 +9,7 @@
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Current state: **96 / 179 canonical records, all 96 verified; historical-glyph PASS through scan 96.** User-directed cadence: **5 physical scans per iteration**.
+Fetch live `main` first and preserve newer durable work. Current state: **101 / 179 canonical records, all 101 verified; historical-glyph PASS through scan 101.** User-directed cadence: **5 physical scans per iteration**.
 
 ## Controlling source
 
@@ -18,10 +18,12 @@ Fetch live `main` first and preserve newer durable work. Current state: **96 / 1
 ## Durable state
 
 - manifest **179 / 179**;
-- canonical **96 / 179, all verified**;
+- canonical **101 / 179, all verified**;
 - Chapter 9/10 boundary: scan 85 / printed 84;
 - **Chapter 10/11 boundary: scan 92 / printed 91**;
-- Chapter 11 verified through scan 96 / printed 95;
+- Chapter 11 verified through scan 99 pre-heading carryover / printed 98;
+- **Chapter 11/12 boundary: scan 99 / printed 98**;
+- Chapter 12 verified through scan 101 / printed 100;
 - full Tamil audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Do not regress
@@ -31,21 +33,29 @@ Fetch live `main` first and preserve newer durable work. Current state: **96 / 1
 - scan 93 `பெண்ணாகப்` historical `ணா`;
 - scan 94 `புறக்கப்போகிறேன்`;
 - scan 95 Ramayana paragraph source-specific forms retained after enlarged review;
-- scan 96 `வெளித்தாவரத்திலே` and `நயினா முகம்மது`.
+- scan 96 `வெளித்தாவரத்திலே` and `நயினா முகம்மது`;
+- scan 98 bottom standalone `7` is a printer/signature mark, not a chapter heading;
+- scan 99 mixed Chapter 11/12 boundary with centered `12`;
+- scan 100 source `நடன மாடுகிறது`, `கிழிபட்ட`;
+- scan 101 poison-to-medicine passage ends `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி`.
 
 ## Completed 5-page batch — scans 92–96
 
 All five scans passed direct visual transcription and the 13-family historical-glyph gate. No unresolved source cluster remains. Scan 96 ends `ஒரு நாற்காலியில் உட்`, continuing to scan 97.
 
+## Completed 5-page batch — scans 97–101
+
+All five scans passed direct visual transcription and the 13-family historical-glyph gate. Printed pages 96–100 were inspected directly. Durable physical continuities: scan 96 `ஒரு நாற்காலியில் உட்` → scan 97 `கார்ந்துகொண்டு`; scan 97 final `நயினா` → scan 98 `வைத் தாக்காமல் இல்லை`; scan 98 `இருந்` → scan 99 `தால்......`. Scan 99 preserves Chapter 11 carryover followed by centered `12` and Chapter 12 opening. Scan 101 ends `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி`, continuing to scan 102. No unresolved source cluster remains.
+
 ## Exact next activity
 
 1. re-fetch live `main`;
 2. resolve controlling PDF;
-3. process **scans 97–101** in one 5-scan iteration;
+3. process **scans 102–106** in one 5-scan iteration;
 4. inspect printed numbers directly and preserve physical boundaries;
 5. apply historical-glyph gate page by page;
 6. synchronize page-map/audit/status docs, commit, verify live `main`;
-7. stop after scan 101 unless explicitly instructed farther.
+7. stop after scan 106 unless explicitly instructed farther.
 
 Do not start assembled Tamil or English. Do not reopen completed prior novels.
 

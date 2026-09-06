@@ -4,7 +4,7 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Current durable state when prepared: **96 / 179 canonical records, all 96 verified; historical-glyph PASS through scan 96.** Cadence: **5 scans per iteration**.
+Fetch live `main` first. Current durable state when prepared: **101 / 179 canonical records, all 101 verified; historical-glyph PASS through scan 101.** Cadence: **5 scans per iteration**.
 
 ## Source
 
@@ -17,9 +17,11 @@ Read the processing guides, root README, HANDOVER, work README, metadata/source,
 - `நயினா` is authoritative, not `நயினு`;
 - scan 66 page number is source-visible `5`;
 - scan 92 / printed 91 is mixed Chapter 10 / Chapter 11 with centered `11`;
-- scan 96 / printed 95 continues Chapter 11 and ends `ஒரு நாற்காலியில் உட்`, physically continuing to scan 97;
+- scan 96 / printed 95 ends `ஒரு நாற்காலியில் உட்`, continued by scan 97 `கார்ந்துகொண்டு`;
+- scan 99 / printed 98 is mixed Chapter 11 / Chapter 12 with centered `12`;
+- scan 101 / printed 100 continues Chapter 12 and ends `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி`, physically continuing to scan 102;
 - mandatory historical set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`; no OCR/context guessing or global replacement.
 
 ## Exact next activity
 
-Process **scans 97–101** in one 5-page iteration, synchronize status docs, commit, verify live `main`, and stop after scan 101. Do not start English or assembled Tamil.
+Process **scans 102–106** in one 5-page iteration, synchronize status docs, commit, verify live `main`, and stop after scan 106. Do not start English or assembled Tamil.
