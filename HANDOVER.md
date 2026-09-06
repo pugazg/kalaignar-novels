@@ -12,24 +12,9 @@
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Do not repeat completed work because a copied checkpoint is older.
+Fetch live `main` first and preserve newer durable work.
 
-Current handover state: **36 / 179 canonical records, all 36 verified; historical-glyph PASS through scan 36.** Scan 33's mixed Chapter 3 / Chapter 4 boundary remains verified, and scans 34–36 continue Chapter 4. Verify live `main` before further source work.
-
-Before any source-dependent change, read completely:
-
-1. `NOVEL_PROCESSING_GUIDE.md`
-2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-3. root `README.md`
-4. this `HANDOVER.md`
-5. `NEXT_NOVEL_CHAT_PROMPT.md`
-6. `works/vellikkizhamai/README.md`
-7. `works/vellikkizhamai/metadata/source.md`
-8. `works/vellikkizhamai/indexes/page-map.md`
-9. `works/vellikkizhamai/audit.md`
-10. existing `works/vellikkizhamai/pages/*.md`
-
-The controlling PDF must be attached/resolved before scan-level visual work. Do not commit the source PDF.
+Current handover state: **61 / 179 canonical records, all 61 verified; historical-glyph PASS through scan 61.** The user-directed cadence is **25 physical scans per iteration**.
 
 ## Controlling source
 
@@ -37,104 +22,52 @@ The controlling PDF must be attached/resolved before scan-level visual work. Do 
 SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`  
 File size: **251,126,214 bytes**  
 Actual scans: **179**  
-Image-only / no text layer  
+Image-only  
 Title: **வெள்ளிக்கிழமை**  
-Author as printed: **மு. கருணாநிதி**  
+Author: **மு. கருணாநிதி**  
 Publisher: **திராவிடப்பண்ணை**  
 Edition: **இரண்டாம் பதிப்பு: 1968**
 
-## Current durable state
+Do not commit the source PDF.
 
-- manifest: **179 / 179 represented**;
-- canonical records: **36 / 179, all verified**;
-- Chapter 1: scans 4–12 verified / complete;
-- Chapter 2: scans 13–22 verified / complete;
-- Chapter 3: scans 23–32 plus the carryover at top of scan 33 verified;
-- Chapter 4: source heading/opening begins on scan 33; scans 34–36 are verified continuation;
-- printed page numbers confirmed: scans 28–32 = **27–31**, scan 33 = **32**, scan 34 = **33**, scan 35 = **34**, scan 36 = **35**;
-- historical-glyph checks: **PASS through scan 36**;
-- full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**;
-- source PDF committed: **No**.
+## Mandatory startup
 
-## Resolved source-resolution hold — scans 28–32
+Read completely before source-dependent work: `NOVEL_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, root `README.md`, this `HANDOVER.md`, `NEXT_NOVEL_CHAT_PROMPT.md`, work README, metadata/source, page-map, audit, and relevant canonical page records.
 
-The former `partial` records for scans 28–32 were re-opened at enlarged/native source resolution. Each page now has source-faithful Tamil transcription and a completed check of the mandatory set:
+## Durable state
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+- manifest **179 / 179**;
+- canonical **61 / 179, all verified**;
+- printed pages directly confirmed through scan 61; scans 37–61 = **36–60**;
+- Chapter 4/5 boundary: **scan 45**;
+- Chapter 6 opening: **scan 52**;
+- Chapter 6/7 boundary: **scan 59** (not scan 60);
+- Chapter 8 previously located: **scan 68 / printed 67**;
+- full Tamil audit / assembled Tamil / English: **not started / not started / blocked**.
 
-No OCR/context reading was promoted without direct pixel evidence. Important physical continuities remain preserved:
+## Critical historical-glyph correction — `நயினா`
 
-- scan 28 `விஷயத்தை வெளி` → scan 29 `யில் சொல்லாதே...`;
-- scan 31 `மூன்றாவது` → scan 32 `ஆள் வேம்பு!`.
+The recurring name is **`நயினா`**, not `நயினு`. The old historical `னா` typeform had been misread as `னு`. Scan 34 directly establishes `நயினா` and the expansion `நயினாமுகம்மது`. Existing scans 34–36 and the complete scans 37–61 batch have been corrected. Future work must retain `நயினா` and must not regress to `நயினு`.
 
-## Verified scan-33 boundary
+## Completed 25-page batch — scans 37–61
 
-Scan 33 / printed page 32 contains, in this exact order:
-
-1. a short **Chapter 3 carryover** dialogue paragraph;
-2. the centered source-printed **`4`** heading;
-3. the Chapter 4 opening.
-
-The carryover was not moved backward into scan 32. The page ends `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே`, whose continuation is on scan 34.
-
-Historical-glyph clearance on scan 33 includes the source line-split old-form cluster `நட்டு` + `வனர்`, decoded as **`நட்டுவனார்`** (`னா` family) from the source pixels.
-
-## Verified scan 34
-
-Scan 34 / printed page 33 begins `போவதாக இருக்கிறாள்.`, directly continuing the final phrase from scan 33. It remains within Chapter 4 and passed the complete 13-family historical-glyph gate.
-
-Source-specific forms intentionally retained include `நயினு`, first-occurrence `நயினுமுகம்மது`, `சேர்ந்து போகாமல்`, `முழுமுயற்சி`, `தானும்போய்`, and `பேச்செடுத்தான்`.
-
-## Verified scan 35
-
-Scan 35 / printed page 34 continues the Chapter 4 conversation between அழகப்பன் and நயினு. It passed the complete 13-family historical-glyph gate.
-
-Key source-sensitive findings:
-
-- old-form `பட்டினால்` positively decoded with historical `னா` identity;
-- `முல்லைச்சரமா` checked for `லை`;
-- `பெண்ணைக்` checked for `ணை`;
-- source spacing `குல்லாய் கூட` retained;
-- `தெரிந்துகொள்ளவேண்டுமாக்கும்`, `மொட்டையடித்துக்கொள்ளாமலே`, `கிராப்புத் தலையுடனேயே`, and `கழட்டப்படுவதை` retained without normalization;
-- unmatched opening quotation before `நயினுவின் கேலி அதிகமாயிற்று!` preserved as printed;
-- later dark underline/mark near the next speech excluded from canonical text.
-
-## Verified scan 36
-
-Scan 36 / printed page 35 continues the same Chapter 4 dialogue and passed the full historical-glyph gate.
-
-Key source-sensitive findings:
-
-- `மாமனார்` and `சனாதன` directly cleared as historical `னா` identities;
-- `பெண்ணைப்` checked for `ணை`;
-- `கவலைப்படாமல்` checked for `லை`;
-- `மாறுதல்` checked for `றா`;
-- source-specific `என்னமோ`, `இரேன்`, `சந்தேகந்தான்`, `புளுகுகிறாயா`, `கைலியில்லாமல்`, `குல்லா இல்லாமல்`, and `காண்பித்துக்கொடுத்துவிடாதா` retained;
-- quoted `‘கோஷா’` and source punctuation preserved.
-
-No unresolved source cluster remains on scan 36. No scan-37 text was moved backward.
-
-## Source authority / historical-glyph rule
-
-Authority: **controlling source scan → canonical `pages/` → later assembled Tamil → later English**.
-
-Do not modernize spelling, grammar, punctuation, vocabulary, names, dialogue, or structure. Keep later marks outside printed text. Every body page must explicitly consider `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`; require positive pixel evidence and never global-replace.
+All 25 scans passed direct visual transcription and the 13-family historical-glyph gate. Source-first physical boundaries are preserved, including mixed boundary scans 45 and 59. No unresolved source cluster remains in the batch.
 
 ## Exact next activity
 
-**Stop at scan 36 unless the user explicitly instructs farther.** When continuation is authorized:
-
 1. re-fetch live `main`;
-2. resolve the controlling PDF;
-3. process **scan 37** directly from source pixels, continuing Chapter 4 from scan 36;
-4. populate scan 37's printed-page value only from its own visible source number;
-5. apply the full historical-glyph gate;
-6. synchronize page-map/audit/status docs and commit narrowly.
+2. resolve controlling PDF;
+3. process **scans 62–86** in one 25-scan iteration;
+4. inspect each printed page number directly;
+5. preserve Chapter 7 continuation and the known Chapter 8 opening at scan 68 in its physical position;
+6. apply the full historical-glyph gate page by page;
+7. synchronize page-map/audit/status docs and commit narrowly;
+8. stop after scan 86 unless explicitly instructed farther.
 
-Do not start English or assembled Tamil. Do not reopen completed prior novels.
+Do not start assembled Tamil or English. Do not reopen completed prior novels.
 
 ## Completed works — preserve
 
-- **பெரிய இடத்துப் பெண்**: 49/49 source-comparison coverage; assembled Tamil PASSED; English VERIFIED; release-ready with canonical-Tamil verification qualification; freeze remains 0 verified / 49 `needs-review`.
+- **பெரிய இடத்துப் பெண்**: 49/49 source-comparison coverage; assembled Tamil PASSED; English VERIFIED; release-ready with canonical-Tamil verification qualification.
 - **புதையல்**: 448/448 canonical; 446 complete; scans 223–224 physical-loss `needs-review`; English VERIFIED; release-ready with qualification.
 - **பலிபீடம் நோக்கி**: Tamil 34/34 verified; assembled Tamil PASSED; English VERIFIED; archival package RELEASE-READY.

@@ -4,58 +4,40 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 ## Intake state
 
-- actual PDF scan count from direct file inspection: **179**;
-- initial page manifest: **179 / 179 represented below**;
-- canonical page records created so far: **36 / 179**;
-- direct front-matter transcription: scans **1–3 verified**;
-- verified body transcription: scans **4–36 verified**;
-- Chapter 1: **complete / scans 4–12**;
-- Chapter 2: **complete / scans 13–22**;
-- Chapter 3: **verified / scans 23–32 plus carryover at top of scan 33**;
-- Chapter 4: **opening verified on scan 33 below the centered source heading `4`; continuation verified through scan 36**;
-- historical-glyph gate: **PASS through scan 36**;
-- printed-page values marked `pending` must be populated only by direct visual inspection; they are not inferred from sequence.
+- actual PDF scan count: **179**;
+- page manifest: **179 / 179 represented below**;
+- canonical page records: **61 / 179, all verified**;
+- verified body transcription: **scans 4–61**;
+- historical-glyph gate: **PASS through scan 61**;
+- scans 37–61 directly map to printed pages **36–60**;
+- printed-page values marked `pending` are not inferred.
 
-Directly confirmed numbering:
-- scan 4: no visible printed page number;
-- scans 5–8: printed **4–7**;
-- scan 9: no visible printed page number;
-- scans 10–17: printed **9–16**;
-- scans 18–22: printed **17–21**;
-- scans 23–27: printed **22–26**;
-- scans 28–32: printed **27–31**;
-- scan 33: printed **32**;
-- scan 34: printed **33**;
-- scan 35: printed **34**;
-- scan 36: printed **35**;
-- scan 68: printed **67**;
-- scan 176: printed **175**;
-- scan 179: printed **178**.
+## Durable correction
 
-Confirmed chapter structure:
-- scan 4 — Chapter 1 opening;
-- scan 13 — Chapter 2 opening;
-- scan 23 — Chapter 3 opening;
-- scan 33 — **Chapter 3 carryover at top, then Chapter 4 heading/opening on same scan**;
-- scans 34–36 — Chapter 4 continuation;
-- scan 45 — Chapter 5 heading located;
-- scan 52 — Chapter 6 heading located;
-- scan 60 — Chapter 7 heading located;
-- scan 68 — Chapter 8 heading located.
+Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 supplies the explicit same-edition witness and the corrected expansion `நயினாமுகம்மது`.
 
-The full later chapter map remains pending. Do not infer boundaries from sequence alone.
+## Confirmed chapter structure
+
+- scan 4 — Chapter 1;
+- scan 13 — Chapter 2;
+- scan 23 — Chapter 3;
+- scan 33 — mixed Chapter 3 / Chapter 4;
+- scan 45 — mixed Chapter 4 / Chapter 5;
+- scan 52 — Chapter 6 opening;
+- scan 59 — mixed Chapter 6 / Chapter 7 (**not scan 60**);
+- scan 68 — Chapter 8 heading previously directly located.
 
 | Scan | Printed page | Page type | Status | Note |
 |---:|:---:|---|---|---|
 | 1 | — | cover | verified | Title/author/publisher cover |
 | 2 | — | copy-specific front matter | verified | Blank leaf with later donor label |
 | 3 | — | publication | verified | Second edition 1968 / price / printer |
-| 4 | — | body / chapter opening | verified | Chapter 1; no visible printed page number |
+| 4 | — | body / chapter opening | verified | Chapter 1 opening; no visible printed page number |
 | 5 | 4 | body | verified | Chapter 1 |
-| 6 | 5 | body | verified | Chapter 1; later underline excluded |
+| 6 | 5 | body | verified | Chapter 1 |
 | 7 | 6 | body | verified | Chapter 1 |
 | 8 | 7 | body | verified | Chapter 1; historical `ளை` resolution recorded |
-| 9 | — | body | verified | Chapter 1; cross-page continuation |
+| 9 | — | body | verified | Chapter 1; no visible printed number; cross-page continuation |
 | 10 | 9 | body | verified | Chapter 1 |
 | 11 | 10 | body | verified | Chapter 1 |
 | 12 | 11 | body | verified | Chapter 1 ending |
@@ -74,47 +56,47 @@ The full later chapter map remains pending. Do not infer boundaries from sequenc
 | 25 | 24 | body | verified | Chapter 3 |
 | 26 | 25 | body | verified | Chapter 3 |
 | 27 | 26 | body | verified | Chapter 3; final question continues to scan 28 |
-| 28 | 27 | body | verified | Chapter 3; full Tamil + historical-glyph verification complete; ends `விஷயத்தை வெளி` |
-| 29 | 28 | body | verified | Chapter 3; begins physical continuation `யில் சொல்லாதே...` |
-| 30 | 29 | body | verified | Chapter 3; `தேவனைப்` historical `னை` identity cleared |
-| 31 | 30 | body | verified | Chapter 3; ends `மூன்றாவது`, continuing to scan 32 |
-| 32 | 31 | body | verified | Chapter 3; begins `ஆள் வேம்பு!`; continues into scan 33 |
-| 33 | 32 | body / chapter boundary | verified | Chapter 3 carryover at top; centered Chapter 4 heading/opening follows on same scan |
-| 34 | 33 | body | verified | Chapter 4; continues scan 33 with `போவதாக இருக்கிறாள்.`; source-sensitive `நயினு` / `பேச்செடுத்தான்` retained |
-| 35 | 34 | body | verified | Chapter 4; அழகப்பன்–நயினு dialogue; `பட்டினால்` historical `னா` cleared; source `குல்லாய் கூட` and unmatched opening quote preserved |
-| 36 | 35 | body | verified | Chapter 4; அழகப்பன்–நயினு dialogue; `மாமனார்` / `சனாதன` historical `னா` cleared; source `சந்தேகந்தான்` / `புளுகுகிறாயா` retained |
-| 37 | pending | body | not-started |  |
-| 38 | pending | body | not-started |  |
-| 39 | pending | body | not-started |  |
-| 40 | pending | body | not-started |  |
-| 41 | pending | body | not-started |  |
-| 42 | pending | body | not-started |  |
-| 43 | pending | body | not-started |  |
-| 44 | pending | body | not-started |  |
-| 45 | pending | body | not-started | Chapter 5 heading directly located |
-| 46 | pending | body | not-started |  |
-| 47 | pending | body | not-started |  |
-| 48 | pending | body | not-started |  |
-| 49 | pending | body | not-started |  |
-| 50 | pending | body | not-started |  |
-| 51 | pending | body | not-started |  |
-| 52 | pending | body | not-started | Chapter 6 heading directly located |
-| 53 | pending | body | not-started |  |
-| 54 | pending | body | not-started |  |
-| 55 | pending | body | not-started |  |
-| 56 | pending | body | not-started |  |
-| 57 | pending | body | not-started |  |
-| 58 | pending | body | not-started |  |
-| 59 | pending | body | not-started |  |
-| 60 | pending | body | not-started | Chapter 7 heading directly located |
-| 61 | pending | body | not-started |  |
+| 28 | 27 | body | verified | Chapter 3; ends `விஷயத்தை வெளி` |
+| 29 | 28 | body | verified | Chapter 3; begins continuation `யில் சொல்லாதே...` |
+| 30 | 29 | body | verified | Chapter 3; `தேவனைப்` historical `னை` cleared |
+| 31 | 30 | body | verified | Chapter 3; ends `மூன்றாவது` |
+| 32 | 31 | body | verified | Chapter 3; begins `ஆள் வேம்பு!` |
+| 33 | 32 | body / chapter boundary | verified | Mixed Chapter 3 / Chapter 4 boundary; centered `4` |
+| 34 | 33 | body | verified | Chapter 4; recurring name corrected to `நயினா` |
+| 35 | 34 | body | verified | Chapter 4; `நயினா`; old-form `பட்டினால்` `னா` cleared |
+| 36 | 35 | body | verified | Chapter 4; `நயினா`; historical `மாமனார்` / `சனாதன` cleared |
+| 37 | 36 | body | verified | Chapter 4 |
+| 38 | 37 | body | verified | Chapter 4 |
+| 39 | 38 | body | verified | Chapter 4 |
+| 40 | 39 | body | verified | Chapter 4 |
+| 41 | 40 | body | verified | Chapter 4 |
+| 42 | 41 | body | verified | Chapter 4 |
+| 43 | 42 | body | verified | Chapter 4 |
+| 44 | 43 | body | verified | Chapter 4 |
+| 45 | 44 | body / chapter boundary | verified | Mixed Chapter 4 / Chapter 5 boundary; centered `5` |
+| 46 | 45 | body | verified | Chapter 5 |
+| 47 | 46 | body | verified | Chapter 5 |
+| 48 | 47 | body | verified | Chapter 5 |
+| 49 | 48 | body | verified | Chapter 5 |
+| 50 | 49 | body | verified | Chapter 5 |
+| 51 | 50 | body | verified | Chapter 5 ending |
+| 52 | 51 | body / chapter opening | verified | Chapter 6 opening; centered `6` |
+| 53 | 52 | body | verified | Chapter 6; ends `அனுப்பப்பட்டிருக்க` |
+| 54 | 53 | body | verified | Chapter 6; begins `கிறார்கள்` |
+| 55 | 54 | body | verified | Chapter 6 |
+| 56 | 55 | body | verified | Chapter 6 |
+| 57 | 56 | body | verified | Chapter 6 |
+| 58 | 57 | body | verified | Chapter 6; `யாரும் சிந்திக்கவில்லை இதுவரையில்` |
+| 59 | 58 | body / chapter boundary | verified | Mixed Chapter 6 / Chapter 7 boundary; centered `7` |
+| 60 | 59 | body | verified | Chapter 7 |
+| 61 | 60 | body | verified | Chapter 7 continuation; batch checkpoint |
 | 62 | pending | body | not-started |  |
 | 63 | pending | body | not-started |  |
 | 64 | pending | body | not-started |  |
 | 65 | pending | body | not-started |  |
 | 66 | pending | body | not-started |  |
 | 67 | pending | body | not-started |  |
-| 68 | 67 | body / chapter opening | not-started | Chapter 8 heading directly located; printed page directly confirmed |
+| 68 | 67 | body / chapter opening | not-started | Chapter 8 heading directly located previously; printed 67 |
 | 69 | pending | body | not-started |  |
 | 70 | pending | body | not-started |  |
 | 71 | pending | body | not-started |  |
@@ -225,8 +207,8 @@ The full later chapter map remains pending. Do not infer boundaries from sequenc
 | 176 | 175 | body | not-started | Printed page directly confirmed |
 | 177 | pending | body | not-started |  |
 | 178 | pending | body | not-started |  |
-| 179 | 178 | body / final page | not-started | Printed page directly confirmed; final narrative paragraph plus illustration |
+| 179 | 178 | body / final page | not-started | Printed 178; final narrative paragraph plus illustration |
 
 ## Exact next activity
 
-**Stop at scan 36 unless explicitly instructed farther.** On continuation, process **scan 37** by direct source inspection, continue Chapter 4, and populate its printed-page value only from that scan. Do not start assembled Tamil or English.
+Process **scans 62–86** as the next 25-page iteration. Do not start assembled Tamil or English.

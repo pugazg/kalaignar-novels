@@ -11,127 +11,51 @@
 
 | Check | Status |
 |---|---|
-| Source identity inspected | **complete for intake** |
-| Actual PDF page count / size / checksum | **complete** |
+| Source identity / checksum / page count | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **36 / 179 — all 36 verified** |
-| Front matter scans 1–3 | **verified** |
-| Body transcription | **scans 4–36 verified; Chapters 1–2 complete; Chapter 3 complete through its carryover on scan 33; Chapter 4 verified through scan 36** |
-| Printed-page map | **partial — confirmed through scan 36; scans 28–32 = 27–31; scan 33 = 32; scan 34 = 33; scan 35 = 34; scan 36 = 35** |
-| Chapter map | **partial — Chapters 1–8 located, with scan-33 mixed boundary preserved** |
-| Historical-glyph policy | **enabled; scans 4–36 passed** |
+| Canonical page records | **61 / 179 — all 61 verified** |
+| Body transcription | **scans 4–61 verified** |
+| Printed-page map | **directly confirmed through scan 61; scans 37–61 = printed 36–60** |
+| Chapter map | **direct through Chapter 7 opening; Chapter 8 previously located at scan 68** |
+| Historical-glyph policy | **PASS through scan 61** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
 
-## Verified checkpoints through scan 27
+## Durable correction — recurring name
 
-Scans 1–3 front matter remain verified. Scans 4–12 complete Chapter 1, scans 13–22 complete Chapter 2, and scans 23–27 begin Chapter 3. All verified body scans through 27 passed enlarged/native source comparison and the mandatory historical-glyph workflow. Durable source-specific readings remain in the canonical page records and prior audit history; they are not reopened without contrary source evidence.
+The earlier `நயினு` reading is incorrect. Direct enlarged reinspection shows the recurring name as **`நயினா`**; the old `னா` typeform had been mistaken for `னு`. Scan 34 supplies explicit same-edition evidence with the expansion `நயினாமுகம்மது`. Scans 34–61 were corrected accordingly. This is a historical-glyph correction, not a modernization.
 
-Key Chapter 3 continuity through scan 27: scan 23 `உணர்ந்திருந்ததோடு` → scan 24 `மட்டுமல்ல;`; scan 24 `அவர்` → scan 25 `கள்தானே`; scan 25 `சேர்ந்` → scan 26 `தான்.`; scan 27 ends with `“என்ன—என்ன? விவரமாச் சொல்லு!”`, whose reply begins on scan 28.
+## Verified earlier checkpoints
 
-## Scans 28–32 — former source-review hold resolved
+Scans 1–36 remain source-verified. Durable physical continuities and source-sensitive readings recorded in the page files remain authoritative unless contrary source-pixel evidence appears. The scan-33 mixed Chapter 3/4 boundary remains preserved.
 
-**Result: VERIFIED / SOURCE-PIXEL CLEARANCE COMPLETE.**
+## 25-page iteration — scans 37–61
 
-- scan 28: printed page **27**;
-- scan 29: printed page **28**;
-- scan 30: printed page **29**;
-- scan 31: printed page **30**;
-- scan 32: printed page **31**.
+**Result: VERIFIED / 25 OF 25 COMPLETE.**
 
-The earlier `partial` records existed because the first available rendering did not support reliable character-by-character historical-glyph verification. The controlling PDF was re-opened at enlarged/native resolution, and each page was checked directly before promotion to `verified`.
+- scans 37–44: Chapter 4 continuation;
+- scan 45: Chapter 4 carryover + centered `5` + Chapter 5 opening;
+- scans 46–51: Chapter 5 continuation/end;
+- scan 52: centered `6` / Chapter 6 opening;
+- scans 53–58: Chapter 6 continuation;
+- scan 59: Chapter 6 carryover + centered `7` + Chapter 7 opening;
+- scans 60–61: Chapter 7 continuation.
 
-For every scan 28–32:
+Each page was inspected directly at sufficient resolution and checked against the mandatory set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. No OCR/context reading was promoted without pixel support. Physical word splits were retained, including scan 53 `அனுப்பப்பட்டிருக்க` → scan 54 `கிறார்கள்`. Directly resolved source readings include scan 38 `முந்நூறு` and scan 58 `யாரும் சிந்திக்கவில்லை இதுவரையில்`.
 
-- the full known set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was explicitly considered;
-- difficult clusters were read from source pixels, not OCR/context;
-- no global replacement or lexical modernization was used;
-- later pen/pencil/underline marks remain outside canonical printed text;
-- no unresolved source cluster remains.
+## Corrected chapter map finding
 
-### Source-sensitive findings retained
-
-- scan 28: source-specific colloquial forms are preserved; `சாவுக்களை` was cleared with the historical `ளை` identity, and `ஏறச்சொன்னார்` / `நின்றார்` were checked against `றா` / `னா` families;
-- scan 28 → 29: the physical word split is preserved as scan 28 `விஷயத்தை வெளி` → scan 29 `யில் சொல்லாதே...`;
-- scan 29: `வரவேற்றாள்`, `நம்பினாள்`, `அவனை`, and related historical-family clusters were cleared directly;
-- scan 30: `தேவனைப்` was positively resolved as the historical `னை` family; source-specific `பாவையுந்தன்`, `பிரக்ஞை`, and `தாட்சண்யம்` remain unchanged;
-- scan 31: `மற்றொருவன்` was checked for `றொ`; unusual source compounds such as `சித்ரவதைசெய்ய`, `இதுவெனக்கொண்டு`, and `உன்னைப்பற்றித்தெரிந்தவர்கள்` remain source-faithful;
-- scan 31 → 32: scan 31 ends `மூன்றாவது`; scan 32 begins `ஆள் வேம்பு!`;
-- scan 32: source forms including `அந்த ரகந்தான்`, `மருத்துவ மனை`, `செளக்கியப்படுத்துமாறு`, and `வந்துசேர்ந்தான்` are preserved.
-
-## Scan 33 — corrected mixed boundary verified
-
-**Result: VERIFIED.**
-
-Direct enlarged inspection of scan **33 / printed page 32** confirms this exact physical order:
-
-1. Chapter 3 carryover: `“ஆனந்தி! கொஞ்சம் உன்னிடம் தனியாகப் பேச வேண்டும், இப்படி வாயேன்!” ...`;
-2. centered source-printed heading **`4`**;
-3. Chapter 4 opening beginning `சிந்தாமணி கண்ட இன்பக் கனவுகளின்...`.
-
-The historical-glyph gate was completed for the whole page. In particular, the old-form line-split cluster printed as `நட்டு` + `வனர்` was decoded from source pixels as **`நட்டுவனார்`** (`னா` family), while `கற்பனை` was checked for `னை`. No Chapter 3 carryover was moved backward into scan 32.
-
-Scan 33 ends `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே`; its continuation remains physically on scan 34.
-
-## Scan 34 — Chapter 4 continuation verified
-
-**Result: VERIFIED.**
-
-Direct enlarged/native inspection of scan **34 / printed page 33** confirms that the page begins `போவதாக இருக்கிறாள்.`, completing scan 33's final `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே` across the physical page boundary. No text was moved backward.
-
-The full historical set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was checked. Representative direct clearances include `துணையாக` (`ணை`), `சோலை` / `சோலையானாலும்` (`லை`), `தன்னைத்` (`னை`), and `பெண்ணைப்` (`ணை`).
-
-Source-specific forms were retained exactly from the scan, including `நயினு`, first-occurrence `நயினுமுகம்மது`, `சேர்ந்து போகாமல்`, `தன்னைத் தலைமைப் பாத்திரமாக்கிக்கொண்டு`, `முழுமுயற்சி`, `தானும்போய்`, and `பேச்செடுத்தான்`. No contextual modernization or OCR repair was used. No unresolved source cluster remains on scan 34.
-
-## Scan 35 — Chapter 4 dialogue continuation verified
-
-**Result: VERIFIED.**
-
-Direct enlarged/native inspection of scan **35 / printed page 34** confirms continuation of the அழகப்பன்–நயினு conversation in Chapter 4. The full historical set was checked before Unicode transcription.
-
-Representative source-sensitive findings:
-
-- `பட்டினால்` — the printed old-form cluster was positively decoded as historical `னா`;
-- `முல்லைச்சரமா` — `லை` family checked directly;
-- `பெண்ணைக்` — `ணை` family checked directly;
-- source spacing `குல்லாய் கூட` is preserved;
-- source wording `தெரிந்துகொள்ளவேண்டுமாக்கும்`, `மொட்டையடித்துக்கொள்ளாமலே`, `கிராப்புத் தலையுடனேயே`, and `கழட்டப்படுவதை` is retained without normalization.
-
-The source also prints an opening quotation mark before the narrative sentence `நயினுவின் கேலி அதிகமாயிற்று! அழகப்பன் வெட்கத்தால் தலை குனிந்தான்.` with no matching closing mark visible before the next quoted speech. That punctuation oddity is preserved rather than silently repaired. A later dark underline/mark near the beginning of the following `என்னப்பா...` speech was excluded from canonical printed text.
-
-No unresolved source cluster remains on scan 35. No scan-36 text was moved backward.
-
-## Scan 36 — Chapter 4 dialogue continuation verified
-
-**Result: VERIFIED.**
-
-Direct enlarged/native inspection of scan **36 / printed page 35** confirms continued அழகப்பன்–நயினு dialogue. The full 13-family historical-glyph set was checked before Unicode transcription.
-
-Representative direct clearances and source-sensitive findings:
-
-- `மாமனார்` and `சனாதன` — historical `னா` identity positively decoded from the source typeforms;
-- `பெண்ணைப்` — `ணை` family checked directly;
-- `கவலைப்படாமல்` — `லை` family checked directly;
-- `மாறுதல்` — `றா` family checked directly;
-- source-specific forms `என்னமோ`, `இரேன்`, `சந்தேகந்தான்`, `புளுகுகிறாயா`, `கைலியில்லாமல்`, `குல்லா இல்லாமல்`, and `காண்பித்துக்கொடுத்துவிடாதா` are retained without normalization;
-- the quoted `‘கோஷா’` and the page's dash/semicolon punctuation are preserved.
-
-No unresolved source cluster remains on scan 36. No scan-37 text was moved backward.
-
-## Source marks / contamination risks
-
-Later underlining, ticks and handwriting occur in the copy and remain outside canonical novel text. Age-toning, stains, bleed-through and uneven ink remain glyph-reading risks for all future scans.
+An earlier provisional note located Chapter 7 at scan 60. Direct review of the controlling scan shows the centered **`7` is on scan 59 / printed page 58**, after Chapter 6 carryover on the same physical page. All status documents must use scan 59 for the Chapter 7 boundary.
 
 ## Unresolved project items
 
-- scans **37–179** canonical processing;
-- printed-page mapping for later scans;
-- chapter openings after Chapter 8;
+- scans **62–179** canonical processing;
+- later printed-page mapping and later chapter boundaries;
 - final complete Tamil audit;
 - assembled Tamil reading layer;
-- English stages after the Tamil gate passes.
+- English stages after Tamil gate passes.
 
 ## Exact next activity
 
-**Stop at the verified scan-36 checkpoint unless explicitly instructed farther.** When continuation is authorized, process **scan 37** by direct visual inspection, continue Chapter 4, populate its printed-page value only from source evidence, and apply the same 13-family historical-glyph gate. English and assembled Tamil remain blocked.
+Process **scans 62–86** as the next 25-page source-first iteration, then synchronize status documents and commit. Do not start assembled Tamil or English.
