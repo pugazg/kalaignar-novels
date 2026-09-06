@@ -6,12 +6,12 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count: **179**;
 - page manifest: **179 / 179 represented below**;
-- canonical page records: **101 / 179, all verified**;
-- verified body transcription: **scans 4–101**;
-- historical-glyph gate: **PASS through scan 101**;
+- canonical page records: **106 / 179, all verified**;
+- verified body transcription: **scans 4–106**;
+- historical-glyph gate: **PASS through scan 106**;
 - scans 62–65 directly map to printed pages **61–64**;
 - scan 66 visibly prints only **`5`**; this source value is preserved and `65` is not inferred;
-- scans 67–101 directly map to printed pages **66–100**;
+- scans 67–106 directly map to printed pages **66–105**;
 - printed-page values marked `pending` are not inferred.
 
 ## Durable correction
@@ -120,7 +120,7 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 | 83 | 82 | body | verified | Chapter 9 |
 | 84 | 83 | body | verified | Chapter 9 |
 | 85 | 84 | body / chapter boundary | verified | Mixed Chapter 9 / Chapter 10 boundary; centered `10` |
-| 86 | 85 | body | verified | Chapter 10; batch checkpoint; final question continues to scan 87 |
+| 86 | 85 | body | verified | Chapter 10; final question continues to scan 87 |
 | 87 | 86 | body | verified | Chapter 10; continues scan 86 final question; ends `ஆனந்திக்கு உன்னையும்` |
 | 88 | 87 | body | verified | Chapter 10; begins continuation `என்னையும் பிரிக்கும் வேலை...` |
 | 89 | 88 | body | verified | Chapter 10; ends physical fragment `மறுத்துவிட்` |
@@ -128,19 +128,19 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 | 91 | 90 | body | verified | Chapter 10; ends `என்று எட்டணா பணத்தையும்`, continuing to scan 92 |
 | 92 | 91 | body / chapter boundary | verified | Mixed Chapter 10 / Chapter 11 boundary; centered `11`; begins `நீட்டினன்.` and ends `வெறிபிடித்துப்` |
 | 93 | 92 | body | verified | Chapter 11; begins `போயிருக்கிறார்`; historical `பெண்ணாகப்` (`ணா`) cleared |
-| 94 | 93 | body | verified | Chapter 11; source `புறக்கப்போகிறேன்` retained; ends `இருவரும் ஒருவரை` |
+| 94 | 93 | body | verified | Chapter 11; source `புறக்கப்போகிறேன்`; ends `இருவரும் ஒருவரை` |
 | 95 | 94 | body | verified | Chapter 11; begins `தழுவிக்கொண்டு`; Ramayana paragraph enlarged-review clearance |
-| 96 | 95 | body | verified | Chapter 11; source `வெளித்தாவரத்திலே`; ends `ஒரு நாற்காலியில் உட்`, continuing to scan 97 |
-| 97 | 96 | body | verified | Chapter 11; begins `கார்ந்துகொண்டு`; ends `நயினா`, continuing as `நயினாவைத்` on scan 98 |
-| 98 | 97 | body | verified | Chapter 11; bottom standalone `7` is printer/signature mark; ends `இருந்` |
+| 96 | 95 | body | verified | Chapter 11; source `வெளித்தாவரத்திலே`; ends `ஒரு நாற்காலியில் உட்` |
+| 97 | 96 | body | verified | Chapter 11; begins `கார்ந்துகொண்டு`; ends `நயினா` |
+| 98 | 97 | body | verified | Chapter 11; bottom standalone `7` printer/signature mark; ends `இருந்` |
 | 99 | 98 | body / chapter boundary | verified | Mixed Chapter 11 / Chapter 12 boundary; begins `தால்......`; centered `12` |
 | 100 | 99 | body | verified | Chapter 12; fantasy-flight passage; source `நடன மாடுகிறது` / `கிழிபட்ட` retained |
 | 101 | 100 | body | verified | Chapter 12; poison added to medicine; ends `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி` |
-| 102 | pending | body | not-started |  |
-| 103 | pending | body | not-started |  |
-| 104 | pending | body | not-started |  |
-| 105 | pending | body | not-started |  |
-| 106 | pending | body | not-started |  |
+| 102 | 101 | body | verified | Chapter 12; begins `புரண்டு படுத்தாள்`; source `கண்கொட்டாமல்` / `அடைத்துக்கொள்வானேன்?` / `ஆட்டினள்` |
+| 103 | 102 | body | verified | Chapter 12; source `என்னால்`; `அவள் டாக்டர்! அதனால் அதைக் கண்டுபிடித்துவிட்டாள்.`; ends `சொல்லு` |
+| 104 | 103 | body | verified | Chapter 12; begins `கிறேன்`; source `விபத்தினில்`; ends `உபசரிக்கிற` |
+| 105 | 104 | body | verified | Chapter 12; source `விஷங்கலக்கலாம்`; ends `கட்டிப்போட்டது உன்` |
+| 106 | 105 | body | verified | Chapter 12; begins `சௌந்தர்யம்!`; source `தவறுக சந்தேகப்பட்டுவிட்டேன்`; ends `அவள் கண்களில்` |
 | 107 | pending | body | not-started |  |
 | 108 | pending | body | not-started |  |
 | 109 | pending | body | not-started |  |
@@ -217,4 +217,4 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 
 ## Exact next activity
 
-Process **scans 102–106** as the next 5-page iteration. Do not start assembled Tamil or English.
+Process **scans 107–111** as the next 5-page iteration. Do not start assembled Tamil or English.

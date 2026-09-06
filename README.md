@@ -25,39 +25,26 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **101 / 179 — all 101 verified**;
-- scans 1–3 front matter: **verified**;
-- Chapters 1–3: **verified through scan 33 carryover**;
-- Chapter 4: **scan 33 opening through scan 45 pre-heading carryover — verified**;
-- Chapter 5: **scan 45 below heading `5` through scan 51 — verified**;
-- Chapter 6: **scan 52 through scan 59 pre-heading carryover — verified**;
-- Chapter 7: **scan 59 below heading `7` through scan 68 pre-heading carryover — verified**;
-- Chapter 8: **scan 68 below heading `8` through scan 75 pre-heading carryover — verified**;
-- Chapter 9: **scan 75 below heading `9` through scan 85 pre-heading carryover — verified**;
-- Chapter 10: **scan 85 below heading `10` through scan 92 pre-heading carryover — verified**;
-- Chapter 11: **scan 92 below centered `11` through scan 99 pre-heading carryover — verified**;
-- Chapter 12: **scan 99 below centered `12` through scan 101 — verified continuation**;
-- historical-glyph/source-sensitive checks: **PASS through scan 101**;
+- canonical page records: **106 / 179 — all 106 verified**;
+- Chapters 1–11: **verified through scan 99 pre-heading carryover**;
+- Chapter 12: **scan 99 below centered `12` through scan 106 / printed 105 — verified continuation**;
+- historical-glyph/source-sensitive checks: **PASS through scan 106**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**;
-- next 5-scan iteration: **scans 102–106**.
+- next 5-scan iteration: **scans 107–111**.
 
 ### Durable name correction — `நயினா`
 
-The recurring character name is **`நயினா`**, not `நயினு`. Reinspection of the controlling scan shows that the historical `னா` typeform had been misread as `னு`. Scan 34 directly gives the same-edition witness `நயினா என்பது நயினாமுகம்மது என்ற பெயரின் சுருக்கம்`. Canonical scans 34–101 use `நயினா`; future transcription must not regress to `நயினு`.
+The recurring character name is **`நயினா`**, not `நயினு`. Reinspection of the controlling scan shows that the historical `னா` typeform had been misread as `னு`. Scan 34 directly gives the same-edition witness `நயினா என்பது நயினாமுகம்மது என்ற பெயரின் சுருக்கம்`. Canonical scans 34–106 use `நயினா`; future transcription must not regress to `நயினு`.
 
 ### Source-number anomaly — scan 66
 
-Scan **66** visibly prints only **`5`** at the page-number positions; no tens digit is present even under enlarged/native inspection. Canonical `printed_page` therefore records the visible source value `5` rather than silently inferring `65`. Scans 67–101 visibly print `66–100`.
+Scan **66** visibly prints only **`5`** at the page-number positions; no tens digit is present even under enlarged/native inspection. Canonical `printed_page` therefore records the visible source value `5` rather than silently inferring `65`. Scans 67–106 visibly print `66–105`.
 
-### Completed 5-scan batch — scans 92–96
+### Completed 5-scan batch — scans 102–106
 
-Scans **92–96 / printed 91–95** are verified. Scan 92 preserves Chapter 10 carryover followed by centered `11` and Chapter 11 opening. Physical continuities include scan 91 `என்று எட்டணா பணத்தையும்` → scan 92 `நீட்டினன்.`, scan 92 `வெறிபிடித்துப்` → scan 93 `போயிருக்கிறார்`, scan 94 `இருவரும் ஒருவரை` → scan 95 `தழுவிக்கொண்டு`, and scan 96 `ஒரு நாற்காலியில் உட்` → scan 97 continuation. Every page passed the mandatory historical-glyph gate.
-
-### Completed 5-scan batch — scans 97–101
-
-Scans **97–101 / printed 96–100** are verified. Scan 99 preserves Chapter 11 carryover followed by centered `12` and Chapter 12 opening. Cross-page continuities include scan 96 `ஒரு நாற்காலியில் உட்` → scan 97 `கார்ந்துகொண்டு`, scan 97 final `நயினா` → scan 98 `வைத் தாக்காமல் இல்லை`, and scan 98 `இருந்` → scan 99 `தால்......`. Scan 98 bottom standalone `7` is a printer/signature mark, not a chapter heading. Scan 101 ends `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி` for continuation on scan 102. Every page passed the mandatory historical-glyph gate.
+Scans **102–106 / printed 101–105** are verified Chapter 12 continuation. Direct source review corrected source-sensitive readings before commit: scan 102 `கண்கொட்டாமல்`, `அடைத்துக்கொள்வானேன்?`, `ஆட்டினள்`; scan 103 `என்னால் உங்களுக்கு வீண் சிரமம்` and `அவள் டாக்டர்! அதனால் அதைக் கண்டுபிடித்துவிட்டாள்.`; scan 104 `விபத்தினில்`; scan 105 `விஷங்கலக்கலாம்`; scan 106 source `தவறுக சந்தேகப்பட்டுவிட்டேன்`. Physical continuities are preserved, including scan 103 `சொல்லு` → scan 104 `கிறேன்`, scan 105 `உன்` → scan 106 `சௌந்தர்யம்!`, and scan 106 `அவள் கண்களில்` → scan 107 continuation.
 
 ## Completed works
 
