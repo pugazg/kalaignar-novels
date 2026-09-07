@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 போய்க்கொண்டிருந்தார்களாம். கணவன் காரை ஓட்டிக் கொண்டிருந்தான். பக்கத்திலே மனைவி! கார் போய்க்கொண்டிருக்கும்போதே அருகேயுள்ள மனைவிக்கு அவன் ஒரு முத்தம் கொடுத்தானும்—முத்தம் பெற்ற அவள் கேட்டாளாம்; “நீங்கள் முத்தம் தரும்போது உங்கள் கவனம் என் கன்னத்தில் இருந்ததா? அல்லது எதிரில் உள்ள சாலையில் இருந்ததா?” என்று! நீயாயிருந்தால் அதற்கு என்ன பதில் சொல்லியிருப்பாய்? சொல்லு பார்க்கலாம்!”
@@ -28,16 +28,16 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 - Opening completes scan 38; final `சாலையின் குறுக்கே` continues to scan 40.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected directly at enlarged/native source resolution.
-- Checked the mandatory reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement, OCR repair, or lexical modernization was used.
-- Source spelling, punctuation, dialogue forms, and physical page boundaries are preserved; later marks are excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed from source pixels include `மனைவி` (`னை`), `சாலையில்` (`லை`), `நயினா` (`னா`), and `வளைத்துக்கொண்டார்கள்` (`ளை`).
+- The page's dialogue and source-specific wording were retained exactly; no grammatical or lexical normalization was introduced.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Scan observations
 
 - Visible printed page number: **38**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 39; அச்சுப் பக்கம்: 38 -->

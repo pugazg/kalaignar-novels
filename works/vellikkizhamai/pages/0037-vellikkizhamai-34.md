@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “சரி! சரி! மத ஆராய்ச்சியிலே இறங்கிவிட்டாயா? உருப்பட்ட மாதிரிதான்!”
@@ -34,16 +34,16 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 - Continues Chapter 4 after scan 36; final `அழகப்பன்,` continues the traveller list on scan 38.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected directly at enlarged/native source resolution.
-- Checked the mandatory reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement, OCR repair, or lexical modernization was used.
-- Source spelling, punctuation, dialogue forms, and physical page boundaries are preserved; later marks are excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed from source pixels: `பெண்ணைச்` (`ணை`), `மாப்பிள்ளைக்கு` (`ளை`), `கல்யாணத்துக்குச்` (`ணா`), `நயினா` / `மாமனார்` (`னா`), `புண்ணியமில்லை` (`லை`), and `மாற்ற` (`றா`).
+- Source spelling, punctuation, dialogue forms, and the physical page boundary were preserved; no grammatical expectation was used as proof.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Scan observations
 
 - Visible printed page number: **36**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 37; அச்சுப் பக்கம்: 36 -->

@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “ஆராய்ச்சியில்லையப்பா — அனுபவ உண்மை! என்னமோ—உனக்கு உன் ஆசைப்படியே ஓவியம்போல ஒரு பெண் கிடைத்திருக்கிறது — அந்த ஓவியம் பேசுமா பேசாதா? சிரிக்குமா? சிரித்தால் பல் இருக்குமா — இருக்காதா? — நடக்குமா? நடக்கக் கால் உண்டா? நொண்டியா? — இவைகளையெல்லாம் நாங்கள் பார்த்துவிட்டு வருகிறோம். நீ கவலைப்படாமல் இரேன்!”
@@ -32,17 +32,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “காது குத்துகிறவன்தான் இந்து என்று எனக்குத் தெரியும்! குத்திக்கொண்டால் போகிறது! மனிதனுக்கு மனிதன் ஆண்டவன் படைத்த அவயவங்களே சில மாறுதல் பண்ணிக்கொள்வதுதானேடா மதம்!”
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- The recurring name is `நயினா`; the historical `னா` typeform was previously misread as `னு` and is corrected using the direct scan plus scan-34 same-edition evidence.
-- `மாமனார்` and `சனாதன` were directly cleared against the historical `னா` family; `பெண்ணைப்` was checked for `ணை`, `கவலைப்படாமல்` for `லை`, and `மாறுதல்` for `றா`.
-- Source-specific forms including `என்னமோ`, `இரேன்`, `சந்தேகந்தான்`, `புளுகுகிறாயா`, `கைலியில்லாமல்`, `குல்லா இல்லாமல்`, and `காண்பித்துக்கொடுத்துவிடாதா` are preserved as printed.
-- The quoted word `‘கோஷா’` and the source's dash/semicolon punctuation are retained.
-- No later handwritten/underline mark is incorporated into canonical text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed directly from source pixels: `நயினா` / `மாமனார்` (`னா`), `பெண்ணைப்` (`ணை`), `கவலைப்படாமல்` (`லை`), `எங்களைப்போல` (`ளை`), and `மாறுதல்` (`றா`).
+- The recurring `நயினா` spelling was independently reconfirmed on this scan; no inference from the scan-34 expansion was needed.
+- Source-specific forms including `என்னமோ`, `இரேன்`, `சந்தேகந்தான்`, `புளுகுகிறாயா`, `கைலியில்லாமல்`, `குல்லா இல்லாமல்`, and `காண்பித்துக்கொடுத்துவிடாதா` remain exactly as printed.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Page-boundary continuity
 
@@ -52,5 +48,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **35**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 36; அச்சுப் பக்கம்: 35 -->

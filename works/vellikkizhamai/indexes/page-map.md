@@ -10,7 +10,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - body transcription: **through scan 111**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–35; PENDING scans 36–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–40; PENDING scans 41–101**;
 - scans 62–65 directly map to printed pages **61–64**;
 - scan 66 visibly prints only **`5`**; `65` is not inferred;
 - scans 67–111 directly map to printed pages **66–110**;
@@ -22,9 +22,9 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 
 ## Historical-glyph gate reopening
 
-The earlier work-level PASS remains withdrawn pending full retrospective review because old metal-type identities were misread in several records. Scans **1–35** and **102–111** have now been source-pixel re-audited. Scans **36–101** remain to be retrospectively audited before forward work resumes.
+The earlier work-level PASS remains withdrawn pending full retrospective review because old metal-type identities were misread in several records. Scans **1–40** and **102–111** have now been source-pixel re-audited. Scans **41–101** remain to be retrospectively audited before forward work resumes.
 
-Scan 4 also received one separate ordinary source-fidelity correction: `பெருகிடுகிறது` → `பெருகிவிடுகிறது`. This is not a historical-glyph substitution. Scans 6–35 required no canonical text correction.
+Scan 4 received a separate ordinary source-fidelity correction `பெருகிடுகிறது` → `பெருகிவிடுகிறது`. Scans 6–35 required no canonical correction. The scans 36–40 batch added source-supported corrections at scan 38 (`கண்ணின்` → `களைப்பின்`) and scan 40 (`எண்ணையாவது` → `என்னையாவது`, `அவர்களோ` → `அவர்களை`, `கைவற்றுப்போனேன்` → `கைவற்றுப்போனான்`).
 
 ## Confirmed chapter structure
 
@@ -74,16 +74,16 @@ Scan 4 also received one separate ordinary source-fidelity correction: `பெ�
 | 28 | 27 | body | verified | Chapter 3; retrospective glyph audit PASS (`னை`, `லை`, `னா`, `றா`, `ளை` confirmed); ends `விஷயத்தை வெளி` |
 | 29 | 28 | body | verified | Chapter 3; retrospective glyph audit PASS (`றா`, `னை`, `னா`, `லை` confirmed); begins `யில் சொல்லாதே...` |
 | 30 | 29 | body | verified | Chapter 3; retrospective glyph audit PASS (`னை`, `ணொ`, `றா`, `னா`, `லை` confirmed); `பெண்ணொருத்தி` `ணொ` source-confirmed |
-| 31 | 30 | body | verified | Chapter 3; retrospective glyph audit PASS (`னா`, `றா`, `றொ`, `னை`, `லை` confirmed); `அவ்விதமானாள்` retained; ends `மூன்றாவது` |
+| 31 | 30 | body | verified | Chapter 3; retrospective glyph audit PASS (`னா`, `றா`, `றொ`, `னை`, `லை` confirmed); ends `மூன்றாவது` |
 | 32 | 31 | body | verified | Chapter 3; retrospective glyph audit PASS (`னா`, `னை`, `றோ`, `ளை`, `லை` confirmed); begins `ஆள் வேம்பு!` |
-| 33 | 32 | body / chapter boundary | verified | Mixed Chapter 3 / Chapter 4; centered `4`; retrospective glyph audit PASS (`னா`, `னை`, `றா`, `ணா`, `ளை`, `லை` confirmed); `நட்டுவனார்` reconfirmed |
-| 34 | 33 | body | verified | Chapter 4; retrospective glyph audit PASS (`னா`, `ணை`, `லை`, `னை` confirmed); same-edition `நயினா` / `நயினாமுகம்மது` witness reconfirmed |
-| 35 | 34 | body | verified | Chapter 4; retrospective glyph audit PASS (`னா`, `லை`, `ணை`, `னை`, `ணா` confirmed); recurring `நயினா` reconfirmed |
-| 36 | 35 | body | verified | Chapter 4; retrospective glyph audit pending |
-| 37 | 36 | body | verified | Chapter 4; retrospective glyph audit pending |
-| 38 | 37 | body | verified | Chapter 4; retrospective glyph audit pending |
-| 39 | 38 | body | verified | Chapter 4; retrospective glyph audit pending |
-| 40 | 39 | body | verified | Chapter 4; retrospective glyph audit pending |
+| 33 | 32 | body / chapter boundary | verified | Mixed Chapter 3 / Chapter 4; centered `4`; retrospective glyph audit PASS; `நட்டுவனார்` confirmed |
+| 34 | 33 | body | verified | Chapter 4; retrospective glyph audit PASS; `நயினா` / `நயினாமுகம்மது` same-edition witness reconfirmed |
+| 35 | 34 | body | verified | Chapter 4; retrospective glyph audit PASS; `நயினா`, `பட்டினால்`, `முல்லைச்சரமா`, `பெண்ணைக்`, `எத்தனையோ`, `கல்யாணம்` confirmed |
+| 36 | 35 | body | verified | Chapter 4; retrospective glyph audit PASS; `நயினா`, `மாமனார்`, `பெண்ணைப்`, `கவலைப்படாமல்`, `எங்களைப்போல`, `மாறுதல்` confirmed |
+| 37 | 36 | body | verified | Chapter 4; retrospective glyph audit PASS; `பெண்ணைச்`, `மாப்பிள்ளைக்கு`, `கல்யாணத்துக்குச்`, `நயினா`, `புண்ணியமில்லை`, `மாற்ற` confirmed |
+| 38 | 37 | body | verified | Chapter 4; retrospective glyph audit PASS after `கண்ணின் மிகுதியால்` → `களைப்பின் மிகுதியால்` (`ளை`) |
+| 39 | 38 | body | verified | Chapter 4; retrospective glyph audit PASS (`னை`, `லை`, `னா`, `ளை` confirmed); ends `சாலையின் குறுக்கே` |
+| 40 | 39 | body | verified | Chapter 4; retrospective glyph audit PASS after `எண்ணையாவது` → `என்னையாவது`, `அவர்களோ` → `அவர்களை`, `கைவற்றுப்போனேன்` → `கைவற்றுப்போனான்` |
 | 41 | 40 | body | verified | Chapter 4; retrospective glyph audit pending |
 | 42 | 41 | body | verified | Chapter 4; retrospective glyph audit pending |
 | 43 | 42 | body | verified | Chapter 4; retrospective glyph audit pending |
@@ -226,4 +226,4 @@ Scan 4 also received one separate ordinary source-fidelity correction: `பெ�
 
 ## Exact next activity
 
-Perform **retrospective historical-glyph audit scans 36–40** as the next 5-scan iteration. Forward scans 112–116 remain paused until scans 1–101 are retrospectively cleared.
+Perform **retrospective historical-glyph audit scans 41–45** as the next 5-scan iteration. Forward scans 112–116 remain paused until scans 1–101 are retrospectively cleared.

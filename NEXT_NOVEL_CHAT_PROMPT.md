@@ -16,88 +16,49 @@ Resolve `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-25
 - Chapter 13 transcribed through scan 111 / printed 110;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–35; PENDING scans 36–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–40; PENDING scans 41–101**;
 - forward transcription at scan 112 is paused until retrospective coverage is cleared.
 
-## Retrospective results — scans 1–35
+## Retrospective results — scans 1–40
 
 ### Scans 1–5
 
-All five scans passed direct source-pixel review against the mandatory 13 families. No historical-glyph correction was required. Representative confirmed identities: scan 1 `கருணாநிதி` (`ணா`) / `திராவிடப்பண்ணை` (`ணை`); scan 3 `விலை` (`லை`); scan 4 `அன்னைப்` / `மாவீரனைப்` (`னை`) and `போனான்` (`னா`); scan 5 `சாணமிட்டு` (`ணா`) / `நன்றாக` (`றா`).
-
-Separate source comparison corrected scan 4 `பெருகிடுகிறது` → **`பெருகிவிடுகிறது`**. Do not treat this as a glyph-family correction.
+PASS. No historical-glyph correction. Separate source comparison corrected scan 4 `பெருகிடுகிறது` → **`பெருகிவிடுகிறது`**; this is not a glyph-family substitution.
 
 ### Scans 6–10
 
-All five scans passed direct source-pixel review against the complete 13-family set. No canonical text correction was required.
-
-- scan 6: `என்னை` (`னை`), `மறுவேலை` (`லை`), `உளறுகிறேனா` (`னா`), `தூங்காமலிருந்திருக்கிறோமே` (`றோ`) confirmed;
-- scan 7: `எத்தனையோ` (`னை`), `எண்ணுகிறாளா` (`றா`), `இல்லைத்தான்` / `விடிவதில்லை` (`லை`) confirmed;
-- scan 8: `களைத்துத்` (`ளை`) reconfirmed and `போறான்` (`றா`) independently confirmed; `அய் யோன்னு` retained as printed;
-- scan 9: `காளைகளாயிற்றே` (`ளை`), `முல்லை` / `தொல்லைப்பட்டு` (`லை`) confirmed; `குழப்பட்டு` retained;
-- scan 10: `புறாக்கள்` (`றா`), `கொடியன்றோ` / `தினந்தோறும்` (`றோ`), `நாணாதாய்` (`ணா`), `எங்களை` (`ளை`) confirmed.
-
-No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 6–10.
+PASS with no canonical correction. Source-specific `அய் யோன்னு` and `குழப்பட்டு` were retained exactly as printed.
 
 ### Scans 11–15
 
-All five scans passed direct source-pixel review against the complete 13-family set. No canonical text correction was required.
-
-- scan 11: `இத்தனை` (`னை`), `கண்களை` (`ளை`), `துயிலணைமேல்` (`ணை`), `நன்றாகத்` / `என்றாள்` (`றா`) confirmed;
-- scan 12: `தாமரையானாள்` (`னா`), `நிலையிலுள்ள` / `சேலைக்குக்கூட` / `கிட்டுவதில்லை` (`லை`), `நாள்தோறும்` (`றோ`) confirmed;
-- scan 13: `பிள்ளைவீடு`, `மாப்பிள்ளை`, `காளை` (`ளை`), `எத்துணை` (`ணை`), `பெற்றோர்களால்` (`றோ`) confirmed;
-- scan 14: `என்றாள்`, `நின்றாள்` (`றா`), `நடக்கவில்லையோ` (`லை`) confirmed;
-- scan 15: `அர்ச்சுனனை` (`னை`), `கூறினாளாம்` / `தானா?` / `நன்னாள்` (`னா`), `ஒப்பிடுகிறார்களே` (`றா`) confirmed.
-
-No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 11–15.
+PASS with no canonical correction. Representative confirmations include `என்றாள்`, `தாமரையானாள்`, `மாப்பிள்ளை`, `எத்துணை`, `பெற்றோர்களால்`, and `அர்ச்சுனனை`.
 
 ### Scans 16–20
 
-All five scans passed direct source-pixel review against the complete 13-family set. No canonical text correction was required.
-
-- scan 16: `நாணவேண்டும்` (`ணா`), `கலைக்` / `நீரலைகள்` (`லை`), `அணைப்பை` (`ணை`), `போனாள்` (`னா`), `கொடியன்றோ` / `தோற்றோட` (`றோ`) confirmed;
-- scan 17: `வெறுத்துவிடுவதில்லை` (`லை`), `அத்தானை` (`னை`), `கல்யாணத்துக்கு` (`ணா`), `போகிறாள்` / `போயிருக்கிறார்` (`றா`) confirmed; `வேலையில்ல` specifically rechecked and retained as genuine final `ல்ல`;
-- scan 18: `கல்யாணமானவள்` (`ணா`, `னா`), `காலையிலே` (`லை`), `கக்குகிறாள்` / `என்றாள்` (`றா`) confirmed;
-- scan 19: `மாப்பிள்ளை` (`ளை`) and `நின்றான்` (`றா`) confirmed; `வந்துவிட்டானு` specifically rechecked for old-`னா` confusion and retained as genuine final `னு`;
-- scan 20: `கவலைப்படாமல்` (`லை`), `தவிக்கிறான்` / both `என்றான்` occurrences / `வர்றாங்க` (`றா`), `கல்யாணம்` (`ணா`) confirmed.
-
-No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 16–20.
+PASS with no canonical correction. Scan 17 `வேலையில்ல` is genuine final `ல்ல`; scan 19 `வந்துவிட்டானு` is genuine final `னு`.
 
 ### Scans 21–25
 
-All five scans passed direct source-pixel review against the complete 13-family set. No canonical text correction was required.
-
-- scan 21: `கிளிப்பிள்ளை` / `மாப்பிள்ளை` / `நல்லவேளை` (`ளை`), `கல்யாணம்` (`ணா`), `வருகிறார்களாம்` / `போகிறார்கள்` / `போறான்` (`றா`), `உன்னை` (`னை`) confirmed; `வரணும்` independently retained as genuine `ணு`;
-- scan 22: `சொன்னாங்க` / `ஏறினாள்` / `திரும்பினாள்` / `கதறினாள்` (`னா`), `அவளை` / `வேளையிலே` (`ளை`), `பேச்சில்லை` (`லை`) confirmed;
-- scan 23: `வருகிறாள்` / `என்றாலும்` / `பாய்கிறார்கள்` (`றா`), `யாருமில்லை` / `கழுத்திலே` / `இல்லைத்தான்` (`லை`), `எத்தனை` (`னை`) confirmed; high-risk `வயதினள்` independently retained as genuine `னள்`, not `வயதினாள்`;
-- scan 24: `மருத்துவ மனைக்கு` / `மருத்துவமனை` / `அத்தனையும்` (`னை`), `பிணைக்கப்படுவார்கள்` (`ணை`), `எண்ணுகிறாளோ` / `கையாளுகிறாளோ` (`றா`), `நிலைமைகளை` / `வேண்டுகோளை` / `செல்லப்பிள்ளை` (`ளை`) confirmed;
-- scan 25: `வேலையை` / `பணியவில்லை` / `வேலைக்காரனாக` (`லை`), `பெற்றோர்கள்` (`றோ`), `டைகரானான்` (`னா`), `அவளைத்` (`ளை`) confirmed.
-
-No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 21–25.
+PASS with no canonical correction. Scan 21 `வரணும்` is genuine `ணு`; scan 23 `வயதினள்` is genuine `னள்`, not `வயதினாள்`.
 
 ### Scans 26–30
 
-All five scans passed direct source-pixel review against the complete 13-family set. No canonical text correction was required.
-
-- scan 26: `பெண்ணை` (`ணை`), `வேலைக்கார` (`லை`), `நடத்துகிறாளே` (`றா`), `ஆரம்பித்தான்` / `கிண்டினான்` (`னா`), `வளைத்து` (`ளை`) confirmed;
-- scan 27: `பண்ணையிருக்கே` / `பண்ணைக்காரரைக்கூட` / `பண்ணையிலேயிருந்து` (`ணை`), `காணோமே` (`ணோ`), `ஓடிவந்தான்` (`னா`), `அம்மாளை` (`ளை`), `இல்லை` (`லை`) confirmed;
-- scan 28: `என்னை` (`னை`), `வலைவீசி` / `படவில்லை` (`லை`), `கட்டினான்` / `மாட்டினான்` (`னா`), `நின்றார்` (`றா`), `சாவுக்களை` (`ளை`) confirmed;
-- scan 29: `வரவேற்றாள்` (`றா`), `தன்னைப்` / `அவனை` (`னை`), `நம்பினாள்` / `அழுதான்` (`னா`), `முடியவில்லை` (`லை`) confirmed;
-- scan 30: `இத்தனை` / `தேவனைப்` (`னை`), `பெண்ணொருத்தி` (`ணொ`), `அலறினாள்` (`றா`, `னா`), `கவலைப்படாதே` (`லை`), `நான்தான்` (`னா`) confirmed.
-
-The uncommon `ணோ` in scan 27 `காணோமே` and `ணொ` in scan 30 `பெண்ணொருத்தி` were explicitly resolved from source pixels. No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 26–30.
+PASS with no canonical correction. Scan 27 `காணோமே` is confirmed `ணோ`; scan 30 `பெண்ணொருத்தி` is confirmed `ணொ`.
 
 ### Scans 31–35
 
-All five scans passed direct source-pixel review against the complete 13-family set. No canonical text correction was required.
+PASS with no canonical correction. Scan 31 `அவ்விதமானாள்` is source-confirmed; scan 33 `நட்டுவனார்` is source-confirmed; scans 34–35 reconfirm recurring `நயினா`, not `நயினு`.
 
-- scan 31: `அவ்விதமானாள்` (`னா`), `மாற்ற` / `மாற்றிக்கொண்டாள்` (`றா`), `மற்றொருவன்` (`றொ`), `எத்தனை` / `உன்னைப்பற்றித்தெரிந்தவர்கள்` (`னை`), `முல்லைத்தோட்டம்` (`லை`) confirmed; high-risk `அவ்விதமானாள்` independently retained;
-- scan 32: `ஆனாலும்` / `கூறினாள்` / `வந்துசேர்ந்தான்` (`னா`), `அவனையும்` (`னை`), `பெற்றோர்களுக்கு` (`றோ`), `மாப்பிள்ளை` / `களைப்புடன்` (`ளை`), `மாலையிலே` (`லை`) confirmed;
-- scan 33: `நட்டுவனார்` (`னா`), `கற்பனை` (`னை`), `மாற்றியமைக்கப்பட்டு` / `நின்றான்` (`றா`), `கல்யாணத்தை` (`ணா`), `பிள்ளைக்கு` / `கிள்ளை` / `அவளை` (`ளை`), `தொல்லை` (`லை`) confirmed;
-- scan 34: repeated `நயினா` / `நயினாமுகம்மது` (`னா`) forms reconfirmed; `துணையாக` / `பெண்ணைப்` (`ணை`), `சோலை` / `சோலையானாலும்` (`லை`), `தன்னைத்` (`னை`) confirmed;
-- scan 35: `நயினாவின்` / `நயினா` / `பட்டினால்` (`னா`), `முல்லைச்சரமா` / `இல்லையா` (`லை`), `பெண்ணைக்` (`ணை`), `எத்தனையோ` (`னை`), `கல்யாணம்` (`ணா`) confirmed.
+### Scans 36–40
 
-No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 31–35.
+PASS after four positive source-supported corrections:
+
+- scan 38 `கண்ணின் மிகுதியால்` → **`களைப்பின் மிகுதியால்`** (`ளை`);
+- scan 40 `எண்ணையாவது` → **`என்னையாவது`** (`னை`);
+- scan 40 `அவர்களோ` → **`அவர்களை`** (`ளை`);
+- scan 40 `கைவற்றுப்போனேன்` → **`கைவற்றுப்போனான்`** (`னா`).
+
+Scans 36, 37 and 39 required no canonical correction. No global replacement, grammar-driven normalization or silent modernization was used.
 
 ## Critical historical-glyph rule
 
@@ -107,10 +68,12 @@ The earlier pass sometimes treated old Tamil metal-type shapes as modern look-al
 
 Identify character identity from enlarged/native source pixels first. Grammar may indicate where to inspect but is never proof. Preserve all source spelling, grammar and punctuation after decoding the character identity. Never global-replace.
 
-Confirmed corrective examples in scans 102–111 include `நன்றுகக்` → `நன்றாகக்`, `என்றுள்` → `என்றாள்`, missing-`ஆ` corrections such as `திமிறினன்` → `திமிறினான்`, `சொன்னு` → `சொன்னா`, and `பெண்ணு?` → `பெண்ணா?`. Nearby forms must still be decided independently. Scan 23 `வயதினள்` is a confirmed counterexample: retain it exactly; do not infer `வயதினாள்`. Scan 31 `அவ்விதமானாள்` is independently source-confirmed, and scans 34–35 reconfirm recurring `நயினா`.
+Confirmed corrective examples in scans 102–111 include `நன்றுகக்` → `நன்றாகக்`, `என்றுள்` → `என்றாள்`, missing-`ஆ` corrections such as `திமிறினன்` → `திமிறினான்`, `சொன்னு` → `சொன்னா`, and `பெண்ணு?` → `பெண்ணா?`. Nearby forms must still be decided independently.
+
+Preserve confirmed counterexamples and durable identities: scan 23 `வயதினள்`; scan 27 `காணோமே`; scan 30 `பெண்ணொருத்தி`; scan 31 `அவ்விதமானாள்`; scan 33 `நட்டுவனார்`; recurring `நயினா`; scan 38 `களைப்பின்`; scan 40 `என்னையாவது`, `அவர்களை`, `கைவற்றுப்போனான்`.
 
 ## Exact next activity
 
-Perform the **retrospective historical-glyph re-audit of scans 36–40** as the next 5-scan iteration. Synchronize page records/audit/status documents and commit only positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
+Perform the **retrospective historical-glyph re-audit of scans 41–45** as the next 5-scan iteration. Synchronize page records/audit/status documents and commit only positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
 
 Do not start assembled Tamil or English.
