@@ -7,12 +7,12 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “என்னய்யா ஒரே குழப்பம்! நான் பார்த்தது சிந்தாமணியேதான்—பக்கத்திலேயிருந்தது அவள் குழந்தையேதான்—நீர் கூறும் தங்கத்திற்குப் பொருள் என்ன? விளக்கம்!”
 
-“அவசரப்படவேண்டாம். கண்ணால் கண்டதும் பொய், காதால் கேட்டதும் பொய், தீர விசாரிப்பதே மெய்—என்ற பழமொழியை நினைவுபடுத்திக்கொள்ள வேண்டிய நேரம் இது! சிந்தாமணியின் அருகிலேயிருந்தது அவள் குழந்தையல்ல!”
+“அவசரப்படவேண்டாம். கண்ணால் கண்டதும் பொய், காதால் கேட்டதும் பொய், தீர விசாரிப்பதே மெய்—என்ற பழமொழியை நினைவுபடுத்திக்கொள்ள வேண்டிய நேரம் இது! சிந்தாமணியின் அருகிலே இருந்தது அவள் குழந்தையல்ல!”
 
 “என்ன? என்ன? என்ன சொல்கிறீர்?” என்று துள்ளிக்குதித்தான் அழகப்பன்.
 
@@ -26,16 +26,16 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 - Chapter 7 continuation; final question continues into scan 61.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected directly at enlarged/native source resolution.
-- Checked the mandatory reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement, OCR repair, or lexical modernization was used.
-- Source spelling, punctuation, dialogue forms, and physical page boundaries are preserved; later marks are excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `கண்ணால்` (`ணா`), `அணைந்தது` (`ணை`), `தங்களை` (`ளை`), and `நயினா` (`னா`).
+- Source pixels correct `அருகிலேயிருந்தது` → **`அருகிலே இருந்தது`**. This is an ordinary source spacing correction, not a historical-family substitution.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Scan observations
 
 - Visible printed page number: **59**.
+- Retrospective historical-glyph audit: **PASS after source-supported spacing correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 60; அச்சுப் பக்கம்: 59 -->

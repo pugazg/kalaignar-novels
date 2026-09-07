@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “சகோதரி மாதிரி வைத்துக்கொள்ளுங்களேன்—தூரத்து உறவு! அவ்வளவுதான்!”
@@ -44,16 +44,16 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 - Mixed boundary page: Chapter 6 dialogue ends above centered source heading `7`; Chapter 7 begins below it.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected directly at enlarged/native source resolution.
-- Checked the mandatory reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement, OCR repair, or lexical modernization was used.
-- Source spelling, punctuation, dialogue forms, and physical page boundaries are preserved; later marks are excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include repeated `இல்லை` (`லை`) and `பெண்ணை` (`ணை`).
+- No canonical text correction was required in this retrospective batch; the existing lexical readings are supported by the source pixels.
+- No global replacement, grammatical normalization, or silent modernization was used.
 
 ## Scan observations
 
 - Visible printed page number: **58**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 59; அச்சுப் பக்கம்: 58 -->
