@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 இன்பக்கனவுகளோ உற்பத்தி செய்வதின் மர்மந்தான் என்ன? அடுத்தத் தெருவில் இருக்கும் என் தோழி கிளியோ-அவளது கிறிஸ்தவ மதத்திற்கு ஆண்டிலே ஒரு வெள்ளிக்கிழமை மகத்துவம் பொருந்திய வெள்ளிக்கிழமை யென்றும்-அன்று எசுநாதருக்கு ஏற்றநாளென்றும் கூறி சர்ச்சுக்குப் போவாள். அப்போதெல்லாம் வெள்ளிக்கிழமைக்கு என் நெஞ்சத்தில் இவ்வளவு பெரிய முக்கியத்துவம் ஏற்பட்டதேயில்லை.
@@ -18,11 +18,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 திங்கட்கிழமை-சோமவாரம்! சோமவார விரதத்திற்கு திவ்யமான நாளாம்! ‘செவ்வாயோ வெறுவாயோ’ என்பார்கள்! பொன் அகப்பட்டாலும் புதன் அகப்படாதாம்-அவ்வளவு அருமையானதாம் அந்தக் கிழமை. செவ்வாய்க்கிழமை இரவு தூங்க ஆரம்பித்து வியாழக்கிழமை காலையில் எழுந்திருக்கிறேனே; அவனுக்குத்தான் புதன் அகப்படாது என்று நான் கிண்டல் கூட செய்வேன். இப்படியெல்லாம் கிழமைகளைப்பற்றி கிழங்கள் வர்ணிக்கும்போது அவைகளே
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution against the known 13 historical families.
+- Complete page was re-inspected against all 13 mandatory historical families.
+- `சாணமிட்டு` was checked for `ணா`; `நன்றாக` was checked specifically for the historical `றா` identity documented in the guide’s `நன்றுக` → `நன்றாக` failure mode.
+- The canonical Unicode readings on this scan are already source-supported; no historical-glyph correction is required.
 - Source forms such as `எசுநாதருக்கு`, `வஜ்ராயுதம்`, and the punctuation/spacing of the weekday sayings are preserved rather than normalized.
-- No global replacement was used; no unresolved glyph cluster remains on this scan.
+- No global replacement was used.
 
 ## Page-boundary continuity
 
@@ -32,5 +34,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **4**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 5; அச்சுப் பக்கம்: 4 -->

@@ -15,7 +15,7 @@ Fetch live `main` first and preserve newer durable work.
 
 `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-256 `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`, **251,126,214 bytes**, **179 scans**, image-only, second edition 1968. Do not commit PDF.
 
-## Current durable state after corrective glyph work
+## Current durable state
 
 - manifest **179 / 179**;
 - canonical records **111 / 179**;
@@ -23,25 +23,26 @@ Fetch live `main` first and preserve newer durable work.
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph audit: **PENDING scans 1–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–5; PENDING scans 6–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
+
+## Retrospective batch completed — scans 1–5
+
+All five scans were re-inspected under the complete 13-family checklist.
+
+- scan 1: `கருணாநிதி` (`ணா`) and `திராவிடப்பண்ணை` (`ணை`) confirmed;
+- scan 2: donor-label text checked; no historical correction required;
+- scan 3: `விலை` (`லை`) confirmed;
+- scan 4: `அன்னைப்`, `மாவீரனைப்` (`னை`), `போனான்` (`னா`), `மாலையிலே` checked; no historical-glyph correction required;
+- scan 5: `சாணமிட்டு` (`ணா`) and `நன்றாக` (`றா`) confirmed.
+
+A separate ordinary source comparison corrected scan 4 `பெருகிடுகிறது` → **`பெருகிவிடுகிறது`**. No global replacement was used.
 
 ## Critical process correction
 
-The previous historical-glyph pass was not applied correctly in several places. Old metal-type shapes were sometimes retained as their modern visual look-alikes instead of being decoded to their actual character identities, contrary to `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+The previous historical-glyph pass was not applied correctly in several places. Old metal-type shapes were sometimes retained as modern visual look-alikes instead of being decoded to actual character identities. Confirmed corrective work in scans 102–111 remains controlling, including `நன்றாகக்`, `தவறாக`, `என்றாள்`, missing-`ஆ` corrections, `சொன்னா`, and `பெண்ணா?`.
 
-Confirmed corrections now made in scans 102–111 include:
-
-- scan 102 `ஆட்டினள்` → `ஆட்டினாள்`;
-- scan 103 `நன்றுகக்` → `நன்றாகக்`; `கத்தினள்` → `கத்தினாள்`;
-- scan 104 `கூறினள்` → `கூறினாள்`;
-- scan 106 `திருப்பினள்` → `திருப்பினாள்`; `என்றுள்` → `என்றாள்`; `நன்றுகக்` → `நன்றாகக்`; `தவறுக` → `தவறாக`;
-- scan 107 `கூறினள்` → `கூறினாள்`; `கொட்டினன்` → `கொட்டினான்`; `என்றுள்` → `என்றாள்`; `ஓடினன்` → `ஓடினான்`; `ஓடினர்கள்` → `ஓடினார்கள்`;
-- scan 108 `திமிறினன்` → `திமிறினான்`; `நடுங்கினள்` → `நடுங்கினாள்`;
-- scan 109 `சொன்னு` → `சொன்னா`; `பொய்தானு?` → `பொய்தானா?`;
-- scan 110 `பெண்ணு?` → `பெண்ணா?`.
-
-No global replacement was used. Nearby apparent forms must be decided independently. Scan 109 `கூறினன்` / `சொன்னன்` and scan 110 `புளுகினன்` were rechecked and retained.
+Do not infer similar-looking forms from grammar. Every occurrence must be decided independently from source pixels.
 
 ## Preserve these structural/source decisions
 
@@ -54,14 +55,14 @@ No global replacement was used. Nearby apparent forms must be decided independen
 
 ## Exact next activity
 
-Forward transcription is paused until the earlier historical-glyph coverage is trustworthy.
+Forward transcription remains paused.
 
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. perform retrospective historical-glyph audit of **scans 1–5** as one 5-scan iteration;
+3. perform retrospective historical-glyph audit of **scans 6–10** as one 5-scan iteration;
 4. explicitly test all 13 families on source pixels;
-5. correct only positively supported character identities; never infer from grammar alone and never global-replace;
-6. synchronize audit/status docs and commit;
+5. correct only positively supported character identities; never infer from grammar and never global-replace;
+6. synchronize page-map/audit/status docs and commit;
 7. continue retrospectively in 5-scan order until scans 1–101 are cleared;
 8. only then resume forward transcription at scan 112.
 

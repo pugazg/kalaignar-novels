@@ -12,14 +12,32 @@
 | Chapter map | **direct through Chapter 13 continuation at scan 111** |
 | Historical-glyph work-level gate | **REOPENED** |
 | Corrective historical-glyph re-audit | **PASS scans 102–111** |
-| Retrospective historical-glyph re-audit | **PENDING scans 1–101** |
+| Retrospective historical-glyph re-audit | **PASS scans 1–5; PENDING scans 6–101** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
 
 ## Why the gate was reopened
 
-The historical-glyph guide requires character identity to be decoded from the old type before Unicode transcription. The earlier pass failed this rule in multiple places by treating old glyphs as modern look-alikes. Because the same typeface is used across the work, the earlier work-level PASS claim is withdrawn pending retrospective review.
+The historical-glyph guide requires character identity to be decoded from the old type before Unicode transcription. The earlier pass failed this rule in multiple places by treating old glyphs as modern look-alikes. Because the same typeface is used across the work, the earlier work-level PASS claim remains withdrawn pending retrospective review.
+
+## Retrospective re-audit — scans 1–5
+
+**Result: PASS for historical-glyph identity / 5 OF 5 COMPLETE.**
+
+All five scans were re-inspected against the complete mandatory set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+
+| Scan | Representative source check | Historical family / result |
+|---:|---|---|
+| 1 | `கருணாநிதி`; `திராவிடப்பண்ணை` | `ணா`, `ணை` confirmed; no correction |
+| 2 | copy-specific donor label | no historical-family correction required |
+| 3 | `விலை` | `லை` confirmed; no correction |
+| 4 | `அன்னைப்`, `மாவீரனைப்`, `போனான்`, `மாலையிலே` | `னை` / `னா` / `லை` identities confirmed; no glyph correction |
+| 5 | `சாணமிட்டு`, `நன்றாக` | `ணா`, `றா` confirmed; no glyph correction |
+
+A separate ordinary source-fidelity comparison on scan 4 corrected earlier `பெருகிடுகிறது` → **`பெருகிவிடுகிறது`**. This is not counted as a historical-glyph substitution.
+
+No global replacement was used. Retrospective coverage now advances to scans **6–10**.
 
 ## Corrective re-audit — scans 102–111
 
@@ -59,7 +77,7 @@ Scan 105 and scan 111 were also rechecked and required no confirmed historical-g
 
 ## Unresolved project items
 
-- **retrospective historical-glyph re-audit scans 1–101**;
+- **retrospective historical-glyph re-audit scans 6–101**;
 - scans **112–179** forward canonical processing;
 - final complete Tamil audit;
 - assembled Tamil;
@@ -67,4 +85,4 @@ Scan 105 and scan 111 were also rechecked and required no confirmed historical-g
 
 ## Exact next activity
 
-Do **not** resume forward transcription yet. Process **scans 1–5** as the first retrospective 5-scan historical-glyph audit batch, update any confirmed Unicode corrections from source pixels, and continue chronologically.
+Do **not** resume forward transcription yet. Process **scans 6–10** as the next retrospective 5-scan historical-glyph audit batch, update only source-supported Unicode corrections, synchronize status documents, and continue chronologically.

@@ -10,7 +10,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - body transcription: **through scan 111**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PENDING scans 1–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–5; PENDING scans 6–101**;
 - scans 62–65 directly map to printed pages **61–64**;
 - scan 66 visibly prints only **`5`**; `65` is not inferred;
 - scans 67–111 directly map to printed pages **66–110**;
@@ -22,7 +22,9 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 
 ## Historical-glyph gate reopening
 
-The earlier work-level PASS is withdrawn pending retrospective review because old metal-type identities were misread in several records. Scans 102–111 have been source-pixel re-audited and corrected. Scans 1–101 remain to be retrospectively audited before forward work resumes.
+The earlier work-level PASS remains withdrawn pending full retrospective review because old metal-type identities were misread in several records. Scans **1–5** and **102–111** have now been source-pixel re-audited. Scans **6–101** remain to be retrospectively audited before forward work resumes.
+
+Scan 4 also received one separate ordinary source-fidelity correction: `பெருகிடுகிறது` → `பெருகிவிடுகிறது`. This is not a historical-glyph substitution.
 
 ## Confirmed chapter structure
 
@@ -42,11 +44,11 @@ The earlier work-level PASS is withdrawn pending retrospective review because ol
 
 | Scan | Printed page | Page type | Status | Note |
 |---:|:---:|---|---|---|
-| 1 | — | cover | verified | Title/author/publisher cover; retrospective glyph audit pending |
-| 2 | — | copy-specific front matter | verified | Blank leaf with later donor label; retrospective glyph audit pending |
-| 3 | — | publication | verified | Second edition 1968 / price / printer; retrospective glyph audit pending |
-| 4 | — | body / chapter opening | verified | Chapter 1 opening; no visible printed page number; retrospective glyph audit pending |
-| 5 | 4 | body | verified | Chapter 1; retrospective glyph audit pending |
+| 1 | — | cover | verified | Title/author/publisher cover; retrospective glyph audit PASS (`ணா`, `ணை` confirmed) |
+| 2 | — | copy-specific front matter | verified | Blank leaf with later donor label; retrospective glyph audit PASS |
+| 3 | — | publication | verified | Second edition 1968 / price / printer; retrospective glyph audit PASS (`லை` confirmed) |
+| 4 | — | body / chapter opening | verified | Chapter 1 opening; retrospective glyph audit PASS; source correction `பெருகிடுகிறது` → `பெருகிவிடுகிறது` |
+| 5 | 4 | body | verified | Chapter 1; retrospective glyph audit PASS (`ணா`, `றா` confirmed) |
 | 6 | 5 | body | verified | Chapter 1; retrospective glyph audit pending |
 | 7 | 6 | body | verified | Chapter 1; retrospective glyph audit pending |
 | 8 | 7 | body | verified | Chapter 1; earlier historical `ளை` resolution; retrospective glyph audit pending |
@@ -224,4 +226,4 @@ The earlier work-level PASS is withdrawn pending retrospective review because ol
 
 ## Exact next activity
 
-Perform **retrospective historical-glyph audit scans 1–5** as the next 5-scan iteration. Forward scans 112–116 remain paused until scans 1–101 are retrospectively cleared.
+Perform **retrospective historical-glyph audit scans 6–10** as the next 5-scan iteration. Forward scans 112–116 remain paused until scans 1–101 are retrospectively cleared.

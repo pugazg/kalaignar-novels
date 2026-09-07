@@ -16,27 +16,27 @@ Resolve `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-25
 - Chapter 13 transcribed through scan 111 / printed 110;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PENDING scans 1–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–5; PENDING scans 6–101**;
 - forward transcription at scan 112 is paused until retrospective coverage is cleared.
 
-## Critical historical-glyph correction
+## First retrospective batch result — scans 1–5
 
-The previous pass sometimes treated old Tamil metal-type shapes as their modern look-alikes instead of decoding the historical character identity first. This violates `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+All five scans passed direct source-pixel review against the mandatory 13 families. No historical-glyph correction was required. Representative confirmed identities: scan 1 `கருணாநிதி` (`ணா`) / `திராவிடப்பண்ணை` (`ணை`); scan 3 `விலை` (`லை`); scan 4 `அன்னைப்` / `மாவீரனைப்` (`னை`) and `போனான்` (`னா`); scan 5 `சாணமிட்டு` (`ணா`) / `நன்றாக` (`றா`).
 
-Confirmed corrections already applied in scans 102–111 include:
+Separate source comparison corrected scan 4 `பெருகிடுகிறது` → **`பெருகிவிடுகிறது`**. Do not treat this as a glyph-family correction.
 
-`ஆட்டினள்` → `ஆட்டினாள்`; `நன்றுகக்` → `நன்றாகக்`; `கத்தினள்` → `கத்தினாள்`; `கூறினள்` → `கூறினாள்`; `திருப்பினள்` → `திருப்பினாள்`; `என்றுள்` → `என்றாள்`; `தவறுக` → `தவறாக`; `கொட்டினன்` → `கொட்டினான்`; `ஓடினன்` → `ஓடினான்`; `ஓடினர்கள்` → `ஓடினார்கள்`; `திமிறினன்` → `திமிறினான்`; `நடுங்கினள்` → `நடுங்கினாள்`; `சொன்னு` → `சொன்னா`; `பொய்தானு?` → `பொய்தானா?`; `பெண்ணு?` → `பெண்ணா?`.
+## Critical historical-glyph rule
 
-Do **not** global-replace. Scan 109 `கூறினன்` / `சொன்னன்` and scan 110 `புளுகினன்` were separately checked and retained.
-
-## Mandatory glyph families
+The earlier pass sometimes treated old Tamil metal-type shapes as modern look-alikes instead of decoding the historical character identity first. Mandatory set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Identify character identity from enlarged/native source pixels first. Grammar may indicate where to inspect but is never proof. Preserve all source spelling, grammar and punctuation after decoding the character identity.
+Identify character identity from enlarged/native source pixels first. Grammar may indicate where to inspect but is never proof. Preserve all source spelling, grammar and punctuation after decoding the character identity. Never global-replace.
+
+Confirmed corrective examples in scans 102–111 include `நன்றுகக்` → `நன்றாகக்`, `என்றுள்` → `என்றாள்`, missing-`ஆ` corrections such as `திமிறினன்` → `திமிறினான்`, `சொன்னு` → `சொன்னா`, and `பெண்ணு?` → `பெண்ணா?`. Nearby forms must still be decided independently.
 
 ## Exact next activity
 
-Perform the **retrospective historical-glyph re-audit of scans 1–5** as the next 5-scan iteration. Synchronize the page records/audit/status documents and commit any positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
+Perform the **retrospective historical-glyph re-audit of scans 6–10** as the next 5-scan iteration. Synchronize page records/audit/status documents and commit only positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
 
 Do not start assembled Tamil or English.
