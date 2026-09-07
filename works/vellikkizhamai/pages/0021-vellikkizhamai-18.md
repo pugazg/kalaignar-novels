@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “ஜட்ஜ்மெண்ட் என்ன ஆச்சு?”
@@ -44,14 +44,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “லேடி டாக்டர் வந்தாச்சுல்லே?”
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- Genuine colloquial forms such as `சொல்றே`, `வர்ற`, `வரணும்`, `போறான்`, `வந்துட்டே`, and `மதிக்கலேன்னு` were retained after source-pixel review and were not expanded into formal Tamil.
-- Later marginal pen marks were excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed directly from source pixels: `கிளிப்பிள்ளை` / `மாப்பிள்ளை` / `நல்லவேளை` (`ளை`), `கல்யாணம்` (`ணா`), `வருகிறார்களாம்` / `போகிறார்கள்` / `போறான்` (`றா`), and `உன்னை` (`னை`).
+- Colloquial `வரணும்` was independently rechecked because an old `ணா` form must not be inferred from grammar; the scan supports genuine `ணு`, so the source form remains unchanged.
+- Other source colloquialisms including `சொல்றே`, `வர்ற`, `மதிக்கலேன்னு`, and `வந்துட்டே` remain exactly as printed.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Page-boundary continuity
 
@@ -60,5 +59,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **20**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 21; அச்சுப் பக்கம்: 20 -->

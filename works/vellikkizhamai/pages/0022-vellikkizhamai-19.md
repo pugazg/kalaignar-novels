@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “வந்தாச்சே!......அவங்கதானே உன்னைக் கூப்பிட்டுக்கிட்டு வரச்சொன்னாங்க...பத்து நாளா உன்னைப் பார்க்காம ஏக்கம் பிடிச்சு கிடக்கிறுங்க அம்மா!”
@@ -20,15 +20,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 சிந்தாமணி, லேடி டாக்டர் ஆனந்தியின் ஆஸ்பத்திரிக்கு எடுத்துச் செல்லப்பட்டாள். அவள் பிழைப்பாளா என்ற சந்தேகம் பலமாக எழுந்துவிட்டது சிவநேசருக்கும்—சிவகாமிக்கும்!
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- Source-specific colloquial forms including `அவங்கதானே`, `கூப்பிட்டுக்கிட்டு`, `வரச்சொன்னாங்க`, `பார்க்காம`, and `வர்ற வேளையிலே` are preserved.
-- `அள்ளிக்கொண்டு` and `இழைந்தது` are retained from the source pixels rather than contextually rewritten.
-- Later underlining/pen marks were excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed directly from source pixels: `சொன்னாங்க`, `ஏறினாள்`, `திரும்பினாள்`, `கதறினாள்` (`னா`); `அவளை` / `வேளையிலே` (`ளை`); and `பேச்சில்லை` / the `லை` component in `வேளையிலே` (`லை`).
+- The existing source-specific readings `அள்ளிக்கொண்டு` and `இழைந்தது` were rechecked in context and remain as printed; they were not normalized from semantic expectation.
+- Colloquial forms including `அவங்கதானே`, `கூப்பிட்டுக்கிட்டு`, `வரச்சொன்னாங்க`, `பார்க்காம`, and `வர்ற வேளையிலே` are preserved.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Page-boundary continuity
 
@@ -38,5 +36,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **21**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 22; அச்சுப் பக்கம்: 21 -->

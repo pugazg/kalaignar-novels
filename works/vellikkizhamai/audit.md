@@ -12,7 +12,7 @@
 | Chapter map | **direct through Chapter 13 continuation at scan 111** |
 | Historical-glyph work-level gate | **REOPENED** |
 | Corrective historical-glyph re-audit | **PASS scans 102–111** |
-| Retrospective historical-glyph re-audit | **PASS scans 1–20; PENDING scans 21–101** |
+| Retrospective historical-glyph re-audit | **PASS scans 1–25; PENDING scans 26–101** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -87,7 +87,23 @@ All five scans were re-inspected against the complete mandatory set `ணா / �
 
 No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was required in scans 16–20.
 
-Retrospective coverage now advances to scans **21–25**.
+## Retrospective re-audit — scans 21–25
+
+**Result: PASS for historical-glyph identity / 5 OF 5 COMPLETE.**
+
+All five scans were re-inspected against the complete mandatory set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. High-risk near-lookalikes were decided independently from their own source pixels rather than from morphology or colloquial expectation.
+
+| Scan | Representative source check | Historical family / result |
+|---:|---|---|
+| 21 | `கிளிப்பிள்ளை`, `மாப்பிள்ளை`, `நல்லவேளை`, `கல்யாணம்`, `வருகிறார்களாம்`, `போகிறார்கள்`, `போறான்`, `உன்னை` | `ளை`, `ணா`, `றா`, `னை` confirmed; `வரணும்` retained as genuine `ணு`; no correction |
+| 22 | `சொன்னாங்க`, `ஏறினாள்`, `திரும்பினாள்`, `கதறினாள்`, `அவளை`, `வேளையிலே`, `பேச்சில்லை` | `னா`, `ளை`, `லை` confirmed; no correction |
+| 23 | `வருகிறாள்`, `என்றாலும்`, `பாய்கிறார்கள்`, `யாருமில்லை`, `கழுத்திலே`, `இல்லைத்தான்`, `எத்தனை` | `றா`, `லை`, `னை` confirmed; `வயதினள்` retained as genuine `னள்`, not `வயதினாள்` |
+| 24 | `மருத்துவ மனைக்கு`, `மருத்துவமனை`, `அத்தனையும்`, `பிணைக்கப்படுவார்கள்`, `எண்ணுகிறாளோ`, `கையாளுகிறாளோ`, `நிலைமைகளை`, `வேண்டுகோளை`, `செல்லப்பிள்ளை` | `னை`, `ணை`, `றா`, `ளை` confirmed; no correction |
+| 25 | `வேலையை`, `பணியவில்லை`, `வேலைக்காரனாக`, `பெற்றோர்கள்`, `டைகரானான்`, `அவளைத்` | `லை`, `றோ`, `னா`, `ளை` confirmed; no correction |
+
+No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was required in scans 21–25.
+
+Retrospective coverage now advances to scans **26–30**.
 
 ## Corrective re-audit — scans 102–111
 
@@ -127,7 +143,7 @@ Scan 105 and scan 111 were also rechecked and required no confirmed historical-g
 
 ## Unresolved project items
 
-- **retrospective historical-glyph re-audit scans 21–101**;
+- **retrospective historical-glyph re-audit scans 26–101**;
 - scans **112–179** forward canonical processing;
 - final complete Tamil audit;
 - assembled Tamil;
@@ -135,4 +151,4 @@ Scan 105 and scan 111 were also rechecked and required no confirmed historical-g
 
 ## Exact next activity
 
-Do **not** resume forward transcription yet. Process **scans 21–25** as the next retrospective 5-scan historical-glyph audit batch, update only source-supported Unicode corrections, synchronize status documents, and continue chronologically.
+Do **not** resume forward transcription yet. Process **scans 26–30** as the next retrospective 5-scan historical-glyph audit batch, update only source-supported Unicode corrections, synchronize status documents, and continue chronologically.
