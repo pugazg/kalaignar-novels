@@ -7,12 +7,12 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
-“காரியம் அனேகமாக முடிபுமுற்றுவிட்டது வேம்பு! ஆள் பத்திரந்தானே!” என்று ஆவலோடு வினவினான் டைகர்!
+“காரியம் அநேகமாக முடிவு முற்றுவிட்டது வேம்பு! ஆள் பத்திரந்தானே!” என்று ஆவலோடு வினவினான் டைகர்!
 
-“ஓ! அதெல்லாம் பூட்டியபடியே கிடக்கிறது பொருள் உள்ளே! போகலாம்! போய் இஷ்டத்தைப் பூர்த்திசெய்து கொள்ளலாம்!” என்று வேம்பு பரிகாசம் செய்தான்.
+“ஓ! அதெல்லாம் பூட்டியபடியே கிடக்கிறது பொருள் உள்ளே! போகலாம்! போய் இஷ்டத்தைப் பூர்த்தி செய்து கொள்ளலாம்!” என்று வேம்பு பரிகாசம் செய்தான்.
 
 “இல்ல வேம்பு! இப்போதே நான் அவளை அவள் வீட்டுக்குக் கொண்டுபோய் விட்டுப் போகிறேன். இனி எனக்கும் அவளுக்கும் நிச்சயமாகத் திருமணம் நடந்தே தீரும். அதில் அணுவளவும் சந்தேகமில்லை!” இந்தச் சேதியை உற்சாகத்தோடு உரைத்தவாறு படிகளில் ஓடினான் டைகர்!
 
@@ -20,12 +20,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 மாடிக் கதவைத் திறந்துகொண்டு டைகர் பிரவேசித்தான். அங்கேயுள்ள ஒரு பெரிய அறையும் பூட்டப்பட்டிருந்தது. அதன் கதவையும் திறந்தான். உள்ளே இருள் சூழ்ந்திருந்தது. மின்சார விளக்கைப் பொருத்தினான். அந்த ஒளியிலே சிந்தாமணி கீழே உருண்டு கிடப்பது தெரிந்தது. அவள் கைகால்கள் கட்டப்பட்டிருந்தன. அதிர்ச்சியால் தாக்குண்டவன்போல, “ஆகா! இது என்ன கோரம்! சிந்தாமணி! உன்னை யார் இப்படியெல்லாம் கொடுமைப்படுத்தியது?” என்று கேட்டவாறே அவளைக் கட்டுகளில் இருந்து விடுவித்தான். சோர்வுற்ற நிலையிலே சிந்தாமணி எழுந்து நின்றாள். மீண்டும் டைகர், “சொல் சிந்தாமணி! உன்னை கஷ்டத்திற்குள்ளாக்கியது யார்? காரணம் என்ன?”
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete scan inspected directly at enlarged/native source resolution; mandatory historical-glyph set checked before Unicode transcription.
-- Corrected recurring name `நயினா முகம்மது` is retained under the same-edition historical `னா` rule; it is not regressed to `நயினு`.
-- Source forms `முடிபுமுற்றுவிட்டது`, `பத்திரந்தானே`, `இஷ்டத்தைப்`, `ஆஸ்பத்திரிக்குப்`, `பிரவேசித்தான்`, and `கைகால்கள்` are preserved.
-- No unresolved source cluster remains.
+- Complete scan re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `நயினா` (`னா`), `அவளை` (`ளை`), `சந்தேகமில்லை` / `பாலையூர்` (`லை`), and `நின்றாள்` in its source form.
+- Ordinary source-fidelity corrections: `அனேகமாக` → **`அநேகமாக`**; `முடிபுமுற்றுவிட்டது` → **`முடிவு முற்றுவிட்டது`**; `பூர்த்திசெய்து` → **`பூர்த்தி செய்து`**.
+- Source-specific `பத்திரந்தானே`, `இஷ்டத்தைப்`, `ஆஸ்பத்திரிக்குப்`, `பிரவேசித்தான்`, and `கைகால்கள்` were retained without normalization.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -35,5 +36,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **85**.
+- Retrospective historical-glyph audit: **PASS after three ordinary source-fidelity corrections**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 86; அச்சுப் பக்கம்: 85 -->

@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “போகலாம் சிந்தாமணி — ஆனால் ஒரு வேண்டுகோள்! எப்படியும் நாம் இருவரும் கல்யாணம் செய்து கொண்டு சதிபதிகளாய் வாழப்போகிறோம் என்பது நிச்சயமாகிவிட்டது. அதனால்......”
@@ -20,12 +20,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 குற்றவாளியின் சார்பில் வாதாடிய அவர், இறுதியாகத் தன் பேச்சை முடிக்கும்போது—“இந்தப் பெண் இவனால் கற்பழிக்கப்பட்டதாகச் சொல்லப்படுகிறது — இவளுக்கு இஷ்டமில்லாமலே அந்தக் காரியம் நடந்ததாகவும் விளக்கப்படுகிறது. ஒரு பெண் இறுதிவரையில் மறுத்துவிட்
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete scan inspected directly at enlarged/native source resolution; all 13 mandatory historical families checked.
-- Historical `லை` was positively decoded in `குளக்கரையிலே` / `முல்லை`; `னை` was checked in `தன்னையே`; `ணா`-family contexts were reviewed in `இராவணனின்` and neighboring clusters.
-- Source-sensitive forms `இருதயத்தை`, `விழுந்ததினால்`, `கற்பு நிலை யிழக்கவில்லையென்பதால்தானே`, `சூர்ப்பனகை`, `மயக்கத்தை அதிகமாக்கிற்று`, and `நீதி மன்றத்தில்` are retained without modernization.
-- No unresolved source cluster remains.
+- Complete scan re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `கல்யாணம்` (`ணா`), `முல்லை` / `குளக்கரையிலே` / `கவலை` (`லை`), `தன்னையே` (`னை`), and neighboring `றா` / `றோ` contexts inspected directly from the source pixels.
+- Source-sensitive forms `இருதயத்தை`, `விழுந்ததினால்`, `கற்பு நிலை யிழக்கவில்லையென்பதால்தானே`, `சூர்ப்பனகை`, `மயக்கத்தை அதிகமாக்கிற்று`, and `நீதி மன்றத்தில்` were retained without modernization.
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -35,5 +36,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **88**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 89; அச்சுப் பக்கம்: 88 -->

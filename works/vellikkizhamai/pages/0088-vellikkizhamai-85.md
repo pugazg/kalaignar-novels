@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 என்னையும் பிரிக்கும் வேலை சுலபமாகிவிட்டது. உன்னை யார் கண்ணிலும் படாமல் மறைத்து ஏதோ ஒரு பயங்கரமான திட்டத்திற்கு ஏற்பாடு செய்திருக்கிறாள். அதற்குள் தெய்வம் அவளுக்குக் கூலி கொடுத்துவிட்டது. கார் விபத்தில் சிக்கிப் பாலையூர் ஆஸ்பத்திரியில் படுத்திருக்கிறாள், உயிருக்குப் போராடிக்கொண்டு!
@@ -22,12 +22,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “டைகர்! வீண்பேச்சு தேவையில்லை. வீட்டுக்குப் போகலாம்!”
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete scan inspected directly at enlarged/native source resolution and the full 13-family historical-glyph set checked.
-- `நானு` was positively read with the historical `னா` identity rather than the misleading old visual form; `உன்னை` / `என்னை` were checked for `னை`.
-- Source forms and spacing including `கக்கி விட்டான்`, `சந்தேகப் படுகிறாய்`, `புளுகு மூட்டையை`, and `ஓடோடியும்` are preserved as printed.
-- No unresolved source cluster remains.
+- Complete scan re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `பெற்றோர்` (`றோ`), `பாலையூர்` / `முடியவில்லை` / `தேவையில்லை` (`லை`), `என்னை` / `உன்னை` (`னை`), and source `நானு` with its initial `னா` identity.
+- Source-specific `நானு`, `கக்கி விட்டான்`, `சந்தேகப் படுகிறாய்`, `புளுகு மூட்டையை`, and `ஓடோடியும்` were independently rechecked and retained without normalization.
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -37,5 +38,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **87**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 88; அச்சுப் பக்கம்: 87 -->
