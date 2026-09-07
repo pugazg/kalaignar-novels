@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 பட்டுவிட்டது அவனுக்கு! “வீட்டுக்கு வந்தவர்களிடம் இப்படிப் பேசினால் தவறு எண்ணிக்கொள்ளமாட்டார்களா?” என்று சிவகாமி அறிவுறுத்திய பிறகுதான் சிவநேசர் சிறிது அடங்கினார். தாயாரம்மாளின் பார்வை வீடு முழுதும் சுழன்றுகொண்டிருந்தது. அவள் கண்களுக்குச் சரியான ஒளியில்லாத காரணத்தால் மிகமிகக் கூர்ந்து எல்லாத் திசைகளிலும் பார்வையை ஓட்டினாள். அதே நிலைதான் அழகப்பனுக்கும்! சிவகாமி கடைசியாக மெதுவாகப் பேச்சையெடுத்து—சிந்தாமணிக்கு ஏற்பட்ட விபத்தைக் கூறினாள்.
@@ -30,16 +30,16 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 - Opening `பட்டுவிட்டது` completes scan 42 physical split; Chapter 4 continues.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected directly at enlarged/native source resolution.
-- Checked the mandatory reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement, OCR repair, or lexical modernization was used.
-- Source spelling, punctuation, dialogue forms, and physical page boundaries are preserved; later marks are excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed independently include `மனைவிக்கும்` (`னை`), `சரியில்லை` (`லை`), `மாற்றமாகிவிடவே` (`றா`), `பெண்ணைப்` (`ணை`), and `நயினாவும்` (`னா`).
+- No historical-glyph substitution or ordinary lexical correction was required on this scan.
+- Source spelling, punctuation and dialogue forms were preserved; no global replacement or grammar-driven normalization was used.
 
 ## Scan observations
 
 - Visible printed page number: **42**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 43; அச்சுப் பக்கம்: 42 -->

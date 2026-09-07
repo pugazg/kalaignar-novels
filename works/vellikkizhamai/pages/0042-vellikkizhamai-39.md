@@ -7,12 +7,12 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 அறிமுகப்படுத்திக்கொண்டு நயினா முகமது பதில் கூறினான்.
 
-“மாப்பிள்ளை இப்போது வீட்டுக்கு வர பொறுத்துச் சரியில்லை! அடுத்த மாதந்தான் வரலாமென்று பஞ்சாங்கத்தில் போட்டிருக்கிறது! அதனால்தான் அவர் வரவேண்டாம்... அப்படின்னு...... நினைச்சேன்!” என்று இழுத்தார் சிவநேசர். அவரது சுதன உள்ளம் சடங்குகள், சாஸ்திரங்களுக்கு அடிமைப்பட்ட உள்ளம் கிரக பலனுக்கு விரோதமாக மாப்பிள்ளை வருகைதந்ததை ஏற்க மறுத்துவிட்டது. அதை வெளியில் காட்டாமலும் அவரால் இருக்க முடியவில்லை.
+“மாப்பிள்ளை இப்போது வீட்டுக்கு வர பொருத்தம் சரியில்லை! அடுத்த மாதந்தான் வரலாமென்று பஞ்சாங்கத்தில் போட்டிருக்கிறது! அதனால்தான் அவர் வரவேண்டாம்... அப்படின்னு...... நினைச்சேன்!” என்று இழுத்தார் சிவநேசர். அவரது சனதன உள்ளம் சடங்குகள், சாஸ்திரங்களுக்கு அடிமைப்பட்ட உள்ளம் கிரக பலனுக்கு விரோதமாக மாப்பிள்ளை வருகைதந்ததை ஏற்க மறுத்துவிட்டது. அதை வெளியில் காட்டாமலும் அவரால் இருக்க முடியவில்லை.
 
 “கிரகம் சரியில்லாவிட்டாலும், ஏதோ தோஷம் கழிச்சா சரியாப்போயிடும்னு சொன்னார் ஜோசியர்! அதனால்தான் பையனை அழைச்சுகிட்டு வந்தோம்!”
 
@@ -28,16 +28,16 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 - Opening completes scan 41; final physical fragment `ஏற்` continues as `பட்டுவிட்டது` on scan 43.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected directly at enlarged/native source resolution.
-- Checked the mandatory reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement, OCR repair, or lexical modernization was used.
-- Source spelling, punctuation, dialogue forms, and physical page boundaries are preserved; later marks are excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative historical-family identities confirmed from source pixels include `மாப்பிள்ளை` (`ளை`), `சரியில்லை` (`லை`), `பையனை` (`னை`), repeated `நயினா` (`னா`), and `கூறினாள்` (`னா`). No historical-family substitution was required.
+- Two separate ordinary source-fidelity corrections were positively supported by the scan: `பொறுத்துச்` → **`பொருத்தம்`** and `சுதன` → **`சனதன`**. These are not historical-glyph substitutions and were not inferred from grammar.
+- Source-specific wording such as `ஒண்ணுவது`, `அப்படின்னு`, `அசடுவழிந்தது`, and the printed punctuation were retained exactly; no global replacement or silent modernization was used.
 
 ## Scan observations
 
 - Visible printed page number: **41**.
+- Retrospective historical-glyph audit: **PASS**, with 2 ordinary source-fidelity corrections.
 
 <!-- மூல ஸ்கேன் பக்கம்: 42; அச்சுப் பக்கம்: 41 -->

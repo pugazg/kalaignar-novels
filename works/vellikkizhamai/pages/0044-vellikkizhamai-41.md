@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “சிவ சிவா” என்று வாயில் அடித்துக்கொண்டாள் தாயாரம்மாள்.
@@ -26,16 +26,17 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 - Final physical fragment `நர்சு அவர்` continues as `களச்` on scan 45, forming `அவர்களைச்` across the page boundary.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected directly at enlarged/native source resolution.
-- Checked the mandatory reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement, OCR repair, or lexical modernization was used.
-- Source spelling, punctuation, dialogue forms, and physical page boundaries are preserved; later marks are excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed independently include `மாப்பிள்ளை` (`ளை`), `நல்லநாள்` / repeated `நயினா` (`னா`), `புறப்பட்டார்கள்` / `மறுத்தாள்` (`றா`), `இல்லையா` (`லை`), and `போனாள்` (`னா`).
+- No historical-glyph substitution or ordinary lexical correction was required on this scan.
+- The cross-page `அவர்` + `களச்` boundary remains physical and reversible; no text from scan 45 was moved backward.
+- No global replacement or silent modernization was used.
 
 ## Scan observations
 
 - Visible printed page number: **43**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 44; அச்சுப் பக்கம்: 43 -->

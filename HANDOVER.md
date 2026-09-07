@@ -23,7 +23,7 @@ Fetch live `main` first and preserve newer durable work.
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–40; PENDING scans 41–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–45; PENDING scans 46–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective batches completed
@@ -65,7 +65,26 @@ PASS after four source-supported corrections:
 - scan 40: `அவர்களோ` → **`அவர்களை`** (`ளை`);
 - scan 40: `கைவற்றுப்போனேன்` → **`கைவற்றுப்போனான்`** (`னா`).
 
-Scans 36, 37 and 39 required no canonical correction. No global replacement, grammar-driven normalization or silent modernization was used.
+Scans 36, 37 and 39 required no canonical correction.
+
+### Scans 41–45
+
+**PASS / 5 OF 5 COMPLETE.** No historical-family substitution was required.
+
+Representative direct source confirmations:
+
+- scan 41: `நயினா` (`னா`), `சாகவில்லையா` (`லை`), `நல்லவேளை` / `மாப்பிள்ளை` (`ளை`), `தவறாமல்` (`றா`);
+- scan 42: `மாப்பிள்ளை` (`ளை`), `சரியில்லை` (`லை`), `பையனை` (`னை`), repeated `நயினா` / `கூறினாள்` (`னா`);
+- scan 43: `மனைவிக்கும்` (`னை`), `மாற்றமாகிவிடவே` (`றா`), `பெண்ணைப்` (`ணை`), `நயினாவும்` (`னா`);
+- scan 44: `மாப்பிள்ளை` (`ளை`), `நல்லநாள்` / `நயினா` / `போனாள்` (`னா`), `புறப்பட்டார்கள்` / `மறுத்தாள்` (`றா`), `இல்லையா` (`லை`);
+- scan 45: `அழைத்துப்போனாள்` (`னா`), `களைப்பு` / `நல்லவேளை` / `களிப்பை` (`ளை`), `தொல்லை` / `காலையிலேதான்` (`லை`), repeated `நயினா` (`னா`).
+
+Two separate ordinary source-fidelity corrections were required on scan 42 and are not historical-glyph substitutions:
+
+- `பொறுத்துச்` → **`பொருத்தம்`**;
+- `சுதன` → **`சனதன`**.
+
+Scans 41, 43, 44 and 45 required no canonical text correction. Scan 45 remains the verified mixed Chapter 4 / Chapter 5 boundary with centered source heading `5`. No global replacement, grammar-driven normalization or silent modernization was used.
 
 ## Critical process correction
 
@@ -87,6 +106,8 @@ Character identity must be decided from enlarged/native source pixels first. Gra
 - scan 33 `நட்டுவனார்` is source-supported;
 - scan 38 phrase is **`களைப்பின் மிகுதியால்`**;
 - scan 40 forms are **`என்னையாவது`**, **`அவர்களை`**, **`கைவற்றுப்போனான்`**;
+- scan 42 source wording includes **`பொருத்தம் சரியில்லை`** and **`சனதன உள்ளம்`**;
+- scan 45 is mixed Chapter 4 / Chapter 5 with centered `5`;
 - scan 66 visible page number is **`5`**, never infer `65`;
 - scan 98 bottom standalone `7` is a printer/signature mark, not a chapter heading;
 - scan 99 is mixed Chapter 11 / Chapter 12 with centered `12`;
@@ -99,7 +120,7 @@ Forward transcription remains paused.
 
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. perform retrospective historical-glyph audit of **scans 41–45** as one 5-scan iteration;
+3. perform retrospective historical-glyph audit of **scans 46–50** as one 5-scan iteration;
 4. explicitly test all 13 families on source pixels;
 5. correct only positively supported character identities; never infer from grammar and never global-replace;
 6. synchronize page records, page-map, audit, README/status/handover documents and commit;

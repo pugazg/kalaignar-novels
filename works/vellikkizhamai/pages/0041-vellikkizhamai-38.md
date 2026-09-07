@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 கொண்டு அழுதாள். முரடர்கள் பின்னங்கால் பிடரியில் இடிபட ஓட ஆரம்பித்தார்கள்.
@@ -30,16 +30,16 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 - Opening `கொண்டு அழுதாள்.` completes scan 40; final `தன்னைத்தானே` continues to scan 42.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected directly at enlarged/native source resolution.
-- Checked the mandatory reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement, OCR repair, or lexical modernization was used.
-- Source spelling, punctuation, dialogue forms, and physical page boundaries are preserved; later marks are excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source identities confirmed independently: `நயினா` (`னா`), `சாகவில்லையா` (`லை`), `நல்லவேளை` / `மாப்பிள்ளை` (`ளை`), `தவறாமல்` (`றா`), and `நாழிகையில்` (`னா`).
+- No historical-glyph substitution or ordinary lexical correction was required on this scan.
+- Source spelling, punctuation, dialogue forms and physical page boundary were preserved; no global replacement or silent modernization was used.
 
 ## Scan observations
 
 - Visible printed page number: **40**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 41; அச்சுப் பக்கம்: 40 -->
