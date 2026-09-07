@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “ஓகோ! ஆசையிலே அன்னமா, மயிலா என்று தெரிந்துகொள்ளவேண்டுமாக்கும்! பேச்சிலே கிளியா, குயிலா எனத் தெரியவேண்டும்—சிரிப்பிலே முல்லைச்சரமா, முத்தாரமா என்று பார்த்துவிடவேண்டும்—இல்லையா?”
@@ -30,17 +30,14 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “சரி சரி! உன் ஆராய்ச்சியை வளர்த்தாதே! தயவு செய்து நிறுத்து!”
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- The recurring name is `நயினா`; the historical `னா` typeform was previously misread as `னு` and is corrected here using scan-34 same-edition evidence plus direct page inspection.
-- `பட்டினால்` was directly resolved from the old-form `னா` cluster; `முல்லைச்சரமா` was checked for the `லை` family, and `பெண்ணைக்` for the `ணை` family.
-- Source-specific forms and spacing including `தெரிந்துகொள்ளவேண்டுமாக்கும்`, `மொட்டையடித்துக்கொள்ளாமலே`, `குல்லாய் கூட`, `கிராப்புத் தலையுடனேயே`, and `கழட்டப்படுவதை` are preserved as printed.
-- The source prints an opening quotation mark before the narrative line `நயினாவின் கேலி அதிகமாயிற்று!`; no matching closing mark is visible before the next quoted speech, so the punctuation oddity is preserved rather than silently repaired.
-- A later dark underline/mark near the start of the `என்னப்பா...` paragraph was excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed directly from source pixels: `நயினாவின்` / `நயினா` / `பட்டினால்` (`னா`), `முல்லைச்சரமா` / `இல்லையா` (`லை`), `பெண்ணைக்` (`ணை`), `எத்தனையோ` (`னை`), and `கல்யாணம்` (`ணா`).
+- The recurring `நயினா` form was independently rechecked on this page against the same-edition scan-34 witness; the source again supports `னா`, not the old visual look-alike `னு`.
+- The source punctuation oddity remains controlling: an opening quotation mark appears before narrative `நயினாவின் கேலி அதிகமாயிற்று!` with no visible matching close before the next speech. It is preserved rather than silently repaired.
+- Source-specific forms and spacing including `தெரிந்துகொள்ளவேண்டுமாக்கும்`, `மொட்டையடித்துக்கொள்ளாமலே`, `குல்லாய் கூட`, `கிராப்புத் தலையுடனேயே`, and `கழட்டப்படுவதை` remain exactly as printed.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Page-boundary continuity
 
@@ -50,5 +47,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **34**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 35; அச்சுப் பக்கம்: 34 -->

@@ -16,10 +16,10 @@ Resolve `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-25
 - Chapter 13 transcribed through scan 111 / printed 110;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–30; PENDING scans 31–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–35; PENDING scans 36–101**;
 - forward transcription at scan 112 is paused until retrospective coverage is cleared.
 
-## Retrospective results — scans 1–30
+## Retrospective results — scans 1–35
 
 ### Scans 1–5
 
@@ -87,6 +87,18 @@ All five scans passed direct source-pixel review against the complete 13-family 
 
 The uncommon `ணோ` in scan 27 `காணோமே` and `ணொ` in scan 30 `பெண்ணொருத்தி` were explicitly resolved from source pixels. No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 26–30.
 
+### Scans 31–35
+
+All five scans passed direct source-pixel review against the complete 13-family set. No canonical text correction was required.
+
+- scan 31: `அவ்விதமானாள்` (`னா`), `மாற்ற` / `மாற்றிக்கொண்டாள்` (`றா`), `மற்றொருவன்` (`றொ`), `எத்தனை` / `உன்னைப்பற்றித்தெரிந்தவர்கள்` (`னை`), `முல்லைத்தோட்டம்` (`லை`) confirmed; high-risk `அவ்விதமானாள்` independently retained;
+- scan 32: `ஆனாலும்` / `கூறினாள்` / `வந்துசேர்ந்தான்` (`னா`), `அவனையும்` (`னை`), `பெற்றோர்களுக்கு` (`றோ`), `மாப்பிள்ளை` / `களைப்புடன்` (`ளை`), `மாலையிலே` (`லை`) confirmed;
+- scan 33: `நட்டுவனார்` (`னா`), `கற்பனை` (`னை`), `மாற்றியமைக்கப்பட்டு` / `நின்றான்` (`றா`), `கல்யாணத்தை` (`ணா`), `பிள்ளைக்கு` / `கிள்ளை` / `அவளை` (`ளை`), `தொல்லை` (`லை`) confirmed;
+- scan 34: repeated `நயினா` / `நயினாமுகம்மது` (`னா`) forms reconfirmed; `துணையாக` / `பெண்ணைப்` (`ணை`), `சோலை` / `சோலையானாலும்` (`லை`), `தன்னைத்` (`னை`) confirmed;
+- scan 35: `நயினாவின்` / `நயினா` / `பட்டினால்` (`னா`), `முல்லைச்சரமா` / `இல்லையா` (`லை`), `பெண்ணைக்` (`ணை`), `எத்தனையோ` (`னை`), `கல்யாணம்` (`ணா`) confirmed.
+
+No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 31–35.
+
 ## Critical historical-glyph rule
 
 The earlier pass sometimes treated old Tamil metal-type shapes as modern look-alikes instead of decoding the historical character identity first. Mandatory set:
@@ -95,10 +107,10 @@ The earlier pass sometimes treated old Tamil metal-type shapes as modern look-al
 
 Identify character identity from enlarged/native source pixels first. Grammar may indicate where to inspect but is never proof. Preserve all source spelling, grammar and punctuation after decoding the character identity. Never global-replace.
 
-Confirmed corrective examples in scans 102–111 include `நன்றுகக்` → `நன்றாகக்`, `என்றுள்` → `என்றாள்`, missing-`ஆ` corrections such as `திமிறினன்` → `திமிறினான்`, `சொன்னு` → `சொன்னா`, and `பெண்ணு?` → `பெண்ணா?`. Nearby forms must still be decided independently. Scan 23 `வயதினள்` is a confirmed counterexample: retain it exactly; do not infer `வயதினாள்`.
+Confirmed corrective examples in scans 102–111 include `நன்றுகக்` → `நன்றாகக்`, `என்றுள்` → `என்றாள்`, missing-`ஆ` corrections such as `திமிறினன்` → `திமிறினான்`, `சொன்னு` → `சொன்னா`, and `பெண்ணு?` → `பெண்ணா?`. Nearby forms must still be decided independently. Scan 23 `வயதினள்` is a confirmed counterexample: retain it exactly; do not infer `வயதினாள்`. Scan 31 `அவ்விதமானாள்` is independently source-confirmed, and scans 34–35 reconfirm recurring `நயினா`.
 
 ## Exact next activity
 
-Perform the **retrospective historical-glyph re-audit of scans 31–35** as the next 5-scan iteration. Synchronize page records/audit/status documents and commit only positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
+Perform the **retrospective historical-glyph re-audit of scans 36–40** as the next 5-scan iteration. Synchronize page records/audit/status documents and commit only positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
 
 Do not start assembled Tamil or English.

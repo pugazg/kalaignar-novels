@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 போவதாக இருக்கிறாள். அவளுக்குத் துணையாக அவனது நண்பன் நயினா செல்வதாக இருக்கிறான்; நயினா என்பது நயினாமுகம்மது என்ற பெயரின் சுருக்கம். அழகப்பனும் நயினாவும் ஆருயிர்த் தோழர்கள்; ஒரே தெருவினர். ஒரே பள்ளிக்கூடத்தில் படித்தவர்கள். ஒரே மாதிரி இருவரும் பரீட்சையில் ‘சுழி’ வாங்குபவர்கள்! அழகப்பன் உலகத்தை அவனுடைய சுற்றளவுக்குமேல் பெரிதாக மதிப்பவன். நயினாவுக்கோ உலகம் ஒரு விளையாட்டு மைதானம். அழகப்பன் எதையுமே ஆழ்ந்து சிந்திப்பான். நயினாவோ எல்லாவற்றையும் அலட்சியப்படுத்திவிடுவான். வாழ்க்கை என்பது மனிதன் திட்டமிட்டு அழைத்துக்கொள்ள வேண்டிய சிங்காரச் சோலை! இது அழகப்பனின் தத்துவம்.
@@ -22,16 +22,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “படம்; அசையாது! பேசாது! சிரிக்காது!” என்றான் அழகப்பன்.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- User correction prompted re-inspection of the recurring name: the old `னா` typeform had previously been misread as `னு`. Direct same-edition evidence on this scan confirms `நயினா` and the expansion `நயினாமுகம்மது`.
-- Representative source-sensitive forms checked directly include `துணையாக` (`ணை` family), `சோலை` / `சோலையானாலும்` (`லை` family), `தன்னைத்` (`னை` family), and `பெண்ணைப்` (`ணை` family).
-- Source-specific forms including `நயினா`, `நயினாமுகம்மது`, `சேர்ந்து போகாமல்`, `தன்னைத் தலைமைப் பாத்திரமாக்கிக்கொண்டு`, `முழுமுயற்சி`, `தானும்போய்`, and `பேச்செடுத்தான்` are preserved as printed.
-- No later handwritten/underline mark is incorporated into canonical text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- The recurring-name evidence was rechecked directly: `நயினா`, `நயினாமுகம்மது`, `நயினாவும்`, `நயினாவுக்கோ`, and `நயினாவின்` all support the historical `னா` identity. The same-edition expansion `நயினா என்பது நயினாமுகம்மது என்ற பெயரின் சுருக்கம்` remains the controlling witness.
+- Additional representative identities confirmed from source pixels include `துணையாக` / `பெண்ணைப்` (`ணை`), `சோலை` / `சோலையானாலும்` (`லை`), and `தன்னைத்` (`னை`).
+- Source-specific forms including `நயினா`, `நயினாமுகம்மது`, `சேர்ந்து போகாமல்`, `தன்னைத் தலைமைப் பாத்திரமாக்கிக்கொண்டு`, `முழுமுயற்சி`, `தானும்போய்`, and `பேச்செடுத்தான்` remain exactly as printed.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Page-boundary continuity
 
@@ -41,5 +38,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **33**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 34; அச்சுப் பக்கம்: 33 -->

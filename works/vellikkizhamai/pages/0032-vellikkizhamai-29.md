@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 ஆள் வேம்பு! இந்த மூவரையும் ஒழித்துவிட்டால் ஆனந்தியின் களங்கம் பற்றிப் பேச ஆளே கிடையாது உலகில்! அதற்கப்புறம் திருமணம்” என்பான் டைகர்! ஆனந்திக்கு அந்த வாதம் பிடிக்காதுதான். ஆனாலும் பொறுத்துக் கொள்வாள். அவனையும் விட்டு விட்டு எப்படி வாழ்வது? உயிர்மேல் ஆசை உள்ளவர்கள் முருங்கைக் கொம்பானாலும் பிடித்துக்கொண்டு கரையேறத்தானே முயற்சிக்கிறார்கள்! அந்த ரகந்தான் ஆனந்தி!
@@ -18,15 +18,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 அவளோ, சிறிதுநேரத்துக்கு முன்புதான் விழித்து... மீண்டும் கண்மூடி அயர்ந்திருக்கிறாள். அதனால் மகளிடம் எதுவும் பேசாமலே—மாலையிலே வருவதாக டாக்டரிடம் கூறிவிட்டு வீட்டுக்குப் புறப்பட்டனர். அவர்கள் போன சிறிது நேரத்திற்கெல்லாம் டைகர் மருத்துவ மனைக்கு வேம்புடன் வந்துசேர்ந்தான். அவனிடம் ஆனந்தி, சிந்தாமணியின் விபத்து குறித்துச் சொன்னாள். டைகரும், வேம்புவும் சிந்தாமணி களைப்புடன் கண்ணயர்ந்திருக்கும் கட்டில் பக்கம் போய்ப் பார்த்துவிட்டுத் திரும்பினார்கள். டைகரின் கண்களிலே ஒரு புது விதமான சுழற்சி! நெற்றியிலே நீண்ட ஆழமான பயங்கரம் நிறைந்த சுருக்கங்கள்!
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- Representative source-sensitive forms checked directly include `ஆனாலும்` (`னா` family), `அவனையும்` (`னை` family), and the old-print clusters in `பெற்றோர்களுக்கு` / `நெற்றியிலே`.
-- Source-specific `அந்த ரகந்தான்`, `மருத்துவ மனை`, `செளக்கியப்படுத்துமாறு`, and `வந்துசேர்ந்தான்` are preserved as printed.
-- Later pen/pencil/underline marks were excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed directly from source pixels: `ஆனாலும்` / `கூறினாள்` / `வந்துசேர்ந்தான்` (`னா`), `அவனையும்` (`னை`), `பெற்றோர்களுக்கு` (`றோ`), `மாப்பிள்ளை` / `களைப்புடன்` (`ளை`), and `கவலைக்கிடமாக` / `மாலையிலே` (`லை`).
+- Each present family was resolved independently from its printed cluster; no ending was expanded or regularized from grammatical expectation.
+- Source-specific `அந்த ரகந்தான்`, `மருத்துவ மனை`, `செளக்கியப்படுத்துமாறு`, and `வந்துசேர்ந்தான்` remain exactly as printed.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Page-boundary continuity
 
@@ -36,5 +34,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **31**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 32; அச்சுப் பக்கம்: 31 -->

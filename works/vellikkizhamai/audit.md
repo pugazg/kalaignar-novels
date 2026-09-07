@@ -12,7 +12,7 @@
 | Chapter map | **direct through Chapter 13 continuation at scan 111** |
 | Historical-glyph work-level gate | **REOPENED** |
 | Corrective historical-glyph re-audit | **PASS scans 102–111** |
-| Retrospective historical-glyph re-audit | **PASS scans 1–30; PENDING scans 31–101** |
+| Retrospective historical-glyph re-audit | **PASS scans 1–35; PENDING scans 36–101** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -119,7 +119,23 @@ All five scans were re-inspected against the complete mandatory set `ணா / �
 
 No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was required in scans 26–30.
 
-Retrospective coverage now advances to scans **31–35**.
+## Retrospective re-audit — scans 31–35
+
+**Result: PASS for historical-glyph identity / 5 OF 5 COMPLETE.**
+
+All five scans were re-inspected against the complete mandatory set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. High-risk `னா` and recurring-name forms were decided from their own source pixels rather than from morphology.
+
+| Scan | Representative source check | Historical family / result |
+|---:|---|---|
+| 31 | `அவ்விதமானாள்`, `மாற்ற`, `மாற்றிக்கொண்டாள்`, `மற்றொருவன்`, `எத்தனை`, `உன்னைப்பற்றித்தெரிந்தவர்கள்`, `முல்லைத்தோட்டம்` | `னா`, `றா`, `றொ`, `னை`, `லை` confirmed; `அவ்விதமானாள்` independently rechecked; no correction |
+| 32 | `ஆனாலும்`, `கூறினாள்`, `வந்துசேர்ந்தான்`, `அவனையும்`, `பெற்றோர்களுக்கு`, `மாப்பிள்ளை`, `களைப்புடன்`, `மாலையிலே` | `னா`, `னை`, `றோ`, `ளை`, `லை` confirmed; no correction |
+| 33 | `நட்டுவனார்`, `கற்பனை`, `மாற்றியமைக்கப்பட்டு`, `நின்றான்`, `கல்யாணத்தை`, `பிள்ளைக்கு`, `கிள்ளை`, `அவளை`, `தொல்லை` | `னா`, `னை`, `றா`, `ணா`, `ளை`, `லை` confirmed; line-broken `நட்டு` + `வனார்` re-decoded as `நட்டுவனார்`; no correction |
+| 34 | repeated `நயினா` / `நயினாமுகம்மது`; `துணையாக`, `பெண்ணைப்`, `சோலை`, `சோலையானாலும்`, `தன்னைத்` | `னா`, `ணை`, `லை`, `னை` confirmed; same-edition recurring-name witness reconfirmed; no correction |
+| 35 | `நயினாவின்`, `நயினா`, `பட்டினால்`, `முல்லைச்சரமா`, `இல்லையா`, `பெண்ணைக்`, `எத்தனையோ`, `கல்யாணம்` | `னா`, `லை`, `ணை`, `னை`, `ணா` confirmed; recurring `நயினா` independently rechecked; no correction |
+
+The unmatched opening quotation before scan-35 narrative `நயினாவின் கேலி அதிகமாயிற்று!` is source punctuation and remains unchanged. No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was required in scans 31–35.
+
+Retrospective coverage now advances to scans **36–40**.
 
 ## Corrective re-audit — scans 102–111
 
@@ -159,7 +175,7 @@ Scan 105 and scan 111 were also rechecked and required no confirmed historical-g
 
 ## Unresolved project items
 
-- **retrospective historical-glyph re-audit scans 31–101**;
+- **retrospective historical-glyph re-audit scans 36–101**;
 - scans **112–179** forward canonical processing;
 - final complete Tamil audit;
 - assembled Tamil;
@@ -167,4 +183,4 @@ Scan 105 and scan 111 were also rechecked and required no confirmed historical-g
 
 ## Exact next activity
 
-Do **not** resume forward transcription yet. Process **scans 31–35** as the next retrospective 5-scan historical-glyph audit batch, update only source-supported Unicode corrections, synchronize status documents, and continue chronologically.
+Do **not** resume forward transcription yet. Process **scans 36–40** as the next retrospective 5-scan historical-glyph audit batch, update only source-supported Unicode corrections, synchronize status documents, and continue chronologically.

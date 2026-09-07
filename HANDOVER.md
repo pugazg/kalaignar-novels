@@ -23,7 +23,7 @@ Fetch live `main` first and preserve newer durable work.
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–30; PENDING scans 31–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–35; PENDING scans 36–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective batch completed — scans 1–5
@@ -98,6 +98,18 @@ All five scans passed direct source-pixel review against the complete 13-family 
 
 The uncommon `ணோ` in scan 27 `காணோமே` and `ணொ` in scan 30 `பெண்ணொருத்தி` were resolved directly from source pixels. No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 26–30.
 
+## Retrospective batch completed — scans 31–35
+
+All five scans passed direct source-pixel review against the complete 13-family set. No canonical text correction was required.
+
+- scan 31: `அவ்விதமானாள்` (`னா`), `மாற்ற` / `மாற்றிக்கொண்டாள்` (`றா`), `மற்றொருவன்` (`றொ`), `எத்தனை` / `உன்னைப்பற்றித்தெரிந்தவர்கள்` (`னை`), `முல்லைத்தோட்டம்` (`லை`) confirmed; high-risk `அவ்விதமானாள்` independently retained;
+- scan 32: `ஆனாலும்` / `கூறினாள்` / `வந்துசேர்ந்தான்` (`னா`), `அவனையும்` (`னை`), `பெற்றோர்களுக்கு` (`றோ`), `மாப்பிள்ளை` / `களைப்புடன்` (`ளை`), `மாலையிலே` (`லை`) confirmed;
+- scan 33: `நட்டுவனார்` (`னா`), `கற்பனை` (`னை`), `மாற்றியமைக்கப்பட்டு` / `நின்றான்` (`றா`), `கல்யாணத்தை` (`ணா`), `பிள்ளைக்கு` / `கிள்ளை` / `அவளை` (`ளை`), `தொல்லை` (`லை`) confirmed;
+- scan 34: repeated `நயினா` / `நயினாமுகம்மது` (`னா`) forms reconfirmed; `துணையாக` / `பெண்ணைப்` (`ணை`), `சோலை` / `சோலையானாலும்` (`லை`), `தன்னைத்` (`னை`) confirmed;
+- scan 35: `நயினாவின்` / `நயினா` / `பட்டினால்` (`னா`), `முல்லைச்சரமா` / `இல்லையா` (`லை`), `பெண்ணைக்` (`ணை`), `எத்தனையோ` (`னை`), `கல்யாணம்` (`ணா`) confirmed.
+
+No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 31–35.
+
 ## Critical process correction
 
 The previous historical-glyph pass was not applied correctly in several places. Old metal-type shapes were sometimes retained as modern visual look-alikes instead of being decoded to actual character identities. Confirmed corrective work in scans 102–111 remains controlling, including `நன்றாகக்`, `தவறாக`, `என்றாள்`, missing-`ஆ` corrections, `சொன்னா`, and `பெண்ணா?`.
@@ -106,9 +118,11 @@ Do not infer similar-looking forms from grammar. Every occurrence must be decide
 
 ## Preserve these structural/source decisions
 
-- recurring name **`நயினா`**, not `நயினு`;
+- recurring name **`நயினா`**, not `நயினு`; scan 34's same-edition expansion and scan 35 independently reconfirm it;
 - scan 23 source form **`வயதினள்`** is genuine and must not be converted to `வயதினாள்` merely from the later missing-`ஆ` failure pattern;
 - scan 27 source `காணோமே` is confirmed `ணோ`; scan 30 `பெண்ணொருத்தி` is confirmed `ணொ`;
+- scan 31 source `அவ்விதமானாள்` is confirmed `னா` before final `ள்` and must not be reduced to a modern-lookalike form;
+- scan 33 line-broken `நட்டு` + `வனார்` is source-supported `நட்டுவனார்`;
 - scan 66 visible page number is **`5`**, never infer `65`;
 - scan 98 bottom standalone `7` is a printer/signature mark, not a chapter heading;
 - scan 99 is mixed Chapter 11 / Chapter 12 with centered `12`;
@@ -121,7 +135,7 @@ Forward transcription remains paused.
 
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. perform retrospective historical-glyph audit of **scans 31–35** as one 5-scan iteration;
+3. perform retrospective historical-glyph audit of **scans 36–40** as one 5-scan iteration;
 4. explicitly test all 13 families on source pixels;
 5. correct only positively supported character identities; never infer from grammar and never global-replace;
 6. synchronize page-map/audit/status docs and commit;

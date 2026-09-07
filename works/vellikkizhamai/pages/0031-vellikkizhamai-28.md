@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 தனக்காகக் கவலை எடுத்துக்கொள்ளக்கூடிய ஒருவன் இருக்கிறானே என்று நினைத்துப் பெருமூச்சு விட்டுத்தான் அவளால் முடிந்ததே தவிர அவனது தோள்களிலே தன் தலை சாய்க்கப்பட்டிருப்பதையும், அவளால் வேறுபாடாக உணரமுடியவில்லை.
@@ -20,15 +20,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 வேம்பு மூலம் கிடைத்த கரும்பு இதுவெனக்கொண்டு டைகர் மகிழ்ந்தான்! தொழில் முறைக்கு ஊனம் வந்துவிடக் கூடாதே என்று சற்று ரகசியமாகவே அவனது தொடர்பை வைத்துக்கொண்டிருந்தாள் ஆனந்தி! பலாத்காரமாகக் கற்பழிக்கப்படுவது பாப விமோசனத்திற்கு உரியதுதான்—பிராயச்சித்தம் செய்திட ஏற்றதுதான் என ஆறுதல் கூறுவான் அவன் ஆனந்திக்கு! அவளும் மகிழ்வாள். இருவருமே வாழ்க்கை ஜோடிகள் ஆகிவிட்டால் என்ன என்று நினைப்பான், ஜாடையாகச் சொல்லுவான். “காலத்தை எதிர்நோக்கியிருக்கிறேன்—உன்னைப்பற்றித்தெரிந்தவர்கள் இந்த உலகத்தில் மூன்றுபேர் இருக்கிறார்கள்; ஒருவன் தேவர்! மற்றொருவன் அவன் கார் டிரைவர்! மூன்றாவது
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- Representative source-sensitive forms checked directly include `மற்றொருவன்` (`றொ` family), `மாற்ற` / `மாற்றிக்கொண்டாள்` (`றா` family), and `தன்னைப்பற்றித்தெரிந்தவர்கள்`-type `னை`/`ற` clusters where applicable.
-- Source-specific forms including `சித்ரவதைசெய்ய`, `இதுவெனக்கொண்டு`, `பாப விமோசனத்திற்கு`, and `உன்னைப்பற்றித்தெரிந்தவர்கள்` are preserved without modernization or respacing.
-- Later pen/pencil/underline marks were excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed directly from source pixels: `அவ்விதமானாள்` (`னா`), `மாற்ற` / `மாற்றிக்கொண்டாள்` (`றா`), `மற்றொருவன்` (`றொ`), `எத்தனை` / `உன்னைப்பற்றித்தெரிந்தவர்கள்` (`னை`), and `கவலை` / `முல்லைக்` / `முல்லைத்தோட்டம்` (`லை`).
+- High-risk `அவ்விதமானாள்` was checked independently because the historical `னா` typeform before final `ள்` has produced false modern-lookalike readings elsewhere in this work; the source supports the existing Unicode form.
+- Source-specific `சித்ரவதைசெய்ய`, `இதுவெனக்கொண்டு`, `பாப விமோசனத்திற்கு`, and `உன்னைப்பற்றித்தெரிந்தவர்கள்` remain exactly as printed.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Page-boundary continuity
 
@@ -37,5 +35,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **30**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 31; அச்சுப் பக்கம்: 30 -->
