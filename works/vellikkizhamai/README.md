@@ -16,7 +16,7 @@
 - Chapter 13 transcribed through scan 111 / printed 110;
 - **historical-glyph work-level gate: REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–70; pending scans 71–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–75; pending scans 76–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective historical-glyph batches
@@ -108,6 +108,20 @@ Positively source-supported ordinary fidelity corrections:
 
 Representative historical-family confirmations include scan 66 `கொண்டுபோனான்` / `தேவையில்லை` / `தாயாரம்மாளை` / `பெண்ணைக்`; scan 67 `முல்லை`, `அவனை`, `துணையானால்`, `காட்டாறு`; scan 68 repeated `நயினா`, `என்னை`, `குறிக்கோளை`, `பாலையூர்`; scan 69 repeated `நயினா`, `வேலைகளையெல்லாம்`, `நிம்மதியில்லாமல்`; scan 70 repeated `நயினா`, `அழகப்பனைத்`, `நியாயமில்லை`, `பாற் சென்றிருக்கிறது`.
 
+### Scans 71–75
+
+**PASS / 5 OF 5 COMPLETE. No historical-family substitution or other positively supported canonical text correction was required.**
+
+Representative source-confirmed historical identities:
+
+- scan 71: repeated `நயினா` / `நயினாவின்` / `நயினாமீது` (`னா`), `களிப்படைந்தான்` (`ளை`, `னா`), `பூனைபோலிருக்கிறது` (`னை`), `காற்றின்` (`றா`);
+- scan 72: repeated `நயினா` (`னா`), `திரும்பினான்` / `கொண்டான்` / `யோசித்தான்` (`னா`), `நாற்காலியைத்` (`றா`), `பாலையூர்` / `காலையில்` / `இயலவில்லை` (`லை`), `கண்களைத்` (`ளை`), `அவனை` (`னை`);
+- scan 73: repeated `நயினா` / `நயினாவை` (`னா`, `னை`), `திருப்பினாள்` (`னா`), `நிலவு` / `புரியவில்லை` (`லை`), `களங்கமற்ற` / `கொந்தளிப்பு` (`ளை`);
+- scan 74: `சிவனார்` (`னா`), `மாறாக` (`றா`), `நல்லவேளை` / `மாப்பிள்ளை` (`ளை`), `கவலைப்படாமல்` / `காணவில்லை` (`லை`), `சிந்தாமணியைப்` (`ணை`);
+- scan 75: `காணப்படவில்லை` / `யாருமில்லை` / `பேசவே இல்லை` (`லை`); old-type missing-`ஆ` risk was independently checked in dialogue tags such as `என்றாள்`, `கதறினாள்`, `உருண்டாள்`.
+
+Scan 75 is the mixed Chapter 8 / Chapter 9 boundary with centered source `9`. Source-specific forms `நாலந்து`, `மௌனக் ஒலி`, `குருடிக் களிப்படைந்தான்`, `வெட்பத்தையும்`, `அக்ரம`, `கற்பைவிற்று`, `எவனோ ஒருத்தன் உளறின`, `வேறுமாப்பிள்ளை`, `ஒருத்திமட்டும்`, `நாழிகையாகத்`, `கூறினர்களே`, and `தடுத்துங்கூட` remain unchanged.
+
 ## Why the historical-glyph gate was reopened
 
 The previous pass incorrectly treated several historical Tamil typeforms as modern visual look-alikes. The guide requires identifying the historical character first and then encoding that identity in Unicode. Confirmed corrective work in scans 102–111 remains controlling, including `நன்றாகக்`, `தவறாக`, `என்றாள்`, multiple missing-`ஆ` forms, `சொன்னா`, and `பெண்ணா?`.
@@ -144,6 +158,10 @@ No blanket morphological correction is permitted. Nearby forms are independently
 - scan 68 is the mixed Chapter 7 / Chapter 8 boundary with centered `8`; its quoted sentence prints `பாலையூர் மருத்துவ மனையில்`, and source spacing includes `பணி புரியலாமென்று`;
 - scan 69 source spacing is `விடக் கூடாதம்மா`;
 - scan 70 source has `இருப்பது கூட`, `நயினாவிடம் கூட சொல்லிவிடலாமே`, and `அவன் சற்று அழுத்தந்திருத்தமாகவே`;
+- scan 71 preserves `நாலந்து`, `மௌனக் ஒலி`, `குருடிக் களிப்படைந்தான்`;
+- scan 73 preserves `வெட்பத்தையும்`, `அக்ரம`, `கற்பைவிற்று`;
+- scan 74 preserves `எவனோ ஒருத்தன் உளறின`, `வேறுமாப்பிள்ளை`, `ஒருத்திமட்டும்`;
+- scan 75 is the mixed Chapter 8 / Chapter 9 boundary with centered `9`; `நாழிகையாகத்`, `கூறினர்களே`, `தடுத்துங்கூட` remain exact;
 - scan 111 ends physical `சிறிதா`; scan 112 begins `வது`.
 
 ## Key records
@@ -155,6 +173,6 @@ No blanket morphological correction is permitted. Nearby forms are independently
 
 ## Exact next activity
 
-Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 71–75**, synchronize page records and status documents, and continue chronologically until scans 1–101 are cleared. Only then resume forward transcription.
+Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 76–80**, synchronize page records and status documents, and continue chronologically until scans 1–101 are cleared. Only then resume forward transcription.
 
 Do not start assembled Tamil or English.

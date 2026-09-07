@@ -12,7 +12,7 @@
 | Chapter map | **direct through Chapter 13 continuation at scan 111** |
 | Historical-glyph work-level gate | **REOPENED** |
 | Corrective historical-glyph re-audit | **PASS scans 102–111** |
-| Retrospective historical-glyph re-audit | **PASS scans 1–70; PENDING scans 71–101** |
+| Retrospective historical-glyph re-audit | **PASS scans 1–75; PENDING scans 76–101** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -150,6 +150,20 @@ Representative historical-family confirmations: scan 66 `கொண்டுப�
 
 Scan 68 remains the mixed Chapter 7 / Chapter 8 boundary with centered source-printed `8`. No global replacement, grammatical normalization, or silent modernization was used.
 
+## Scans 71–75
+
+**PASS / 5 OF 5 COMPLETE. No historical-family substitution or other positively supported canonical text correction was required.**
+
+| Scan | Representative source check | Result |
+|---:|---|---|
+| 71 | `நயினா` / `நயினாவின்` / `நயினாமீது`, `களிப்படைந்தான்`, `பூனைபோலிருக்கிறது`, `காற்றின்` | `னா`, `ளை`, `னை`, `றா` confirmed; no correction |
+| 72 | `நயினா`, `திரும்பினான்`, `நாற்காலியைத்`, `பாலையூர்`, `கண்களைத்`, `அவனை` | `னா`, `றா`, `லை`, `ளை`, `னை` confirmed; no correction |
+| 73 | `நயினா` / `நயினாவை`, `திருப்பினாள்`, `நிலவு`, `களங்கமற்ற` | `னா`, `னை`, `லை`, `ளை` confirmed; no correction |
+| 74 | `சிவனார்`, `மாறாக`, `நல்லவேளை`, `மாப்பிள்ளை`, `கவலைப்படாமல்`, `சிந்தாமணியைப்` | `னா`, `றா`, `ளை`, `லை`, `ணை` confirmed; no correction |
+| 75 | `காணப்படவில்லை`, `யாருமில்லை`, `பேசவே இல்லை`; `என்றாள்`, `கதறினாள்`, `உருண்டாள்` old-type risk checked | `லை` and missing-`ஆ` risk resolved from source pixels; no correction |
+
+Source-specific forms `நாலந்து`, `மௌனக் ஒலி`, `பாங்கர்கள்`, `குருடிக் களிப்படைந்தான்`, `வெட்பத்தையும்`, `அக்ரம`, `கற்பைவிற்று`, `எவனோ ஒருத்தன் உளறின`, `வேறுமாப்பிள்ளை`, `ஒருத்திமட்டும்`, `நாழிகையாகத்`, `கூறினர்களே`, `தடுத்துங்கூட`, and `தாக்கத் துவங்கினர்` remain exact. Scan 75 remains the mixed Chapter 8 / Chapter 9 boundary with centered source `9`. No global replacement, grammatical normalization, or silent modernization was used.
+
 ## Corrective re-audit — scans 102–111
 
 **PASS.** Controlling confirmed corrections include `ஆட்டினாள்`, `நன்றாகக்`, `கத்தினாள்`, `கூறினாள்`, `திருப்பினாள்`, `என்றாள்`, `தவறாக`, `கொட்டினான்`, `ஓடினான்`, `ஓடினார்கள்`, `திமிறினான்`, `நடுங்கினாள்`, `சொன்னா`, `பொய்தானா?`, and `பெண்ணா?`. Scan 109 `கூறினன்` / `சொன்னன்` and scan 110 `புளுகினன்` remain independently confirmed source forms.
@@ -162,6 +176,7 @@ Scan 68 remains the mixed Chapter 7 / Chapter 8 boundary with centered source-pr
 - scan 59: mixed Chapter 6 / Chapter 7 with centered `7`;
 - scan 66: source visibly prints only page number `5`; never infer `65`;
 - scan 68: mixed Chapter 7 / Chapter 8 with centered `8`;
+- scan 75: mixed Chapter 8 / Chapter 9 with centered `9`;
 - scan 92: mixed Chapter 10 / Chapter 11 with centered `11`;
 - scan 99: mixed Chapter 11 / Chapter 12 with centered `12`;
 - scan 107: mixed Chapter 12 / Chapter 13 with centered `13`;
@@ -169,7 +184,7 @@ Scan 68 remains the mixed Chapter 7 / Chapter 8 boundary with centered source-pr
 
 ## Unresolved project items
 
-- retrospective historical-glyph re-audit scans **71–101**;
+- retrospective historical-glyph re-audit scans **76–101**;
 - scans **112–179** forward canonical processing;
 - final complete Tamil source audit;
 - assembled Tamil;
@@ -177,4 +192,4 @@ Scan 68 remains the mixed Chapter 7 / Chapter 8 boundary with centered source-pr
 
 ## Exact next activity
 
-Do **not** resume forward transcription yet. Process **scans 71–75** as the next retrospective 5-scan historical-glyph audit batch, update only positively source-supported corrections, synchronize page/status documents, and continue chronologically.
+Do **not** resume forward transcription yet. Process **scans 76–80** as the next retrospective 5-scan historical-glyph audit batch, update only positively source-supported corrections, synchronize page/status documents, and continue chronologically.
