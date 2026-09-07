@@ -16,7 +16,7 @@
 - Chapter 13 transcribed through scan 111 / printed 110;
 - **historical-glyph work-level gate: REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–75; pending scans 76–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–80; pending scans 81–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective historical-glyph batches
@@ -122,6 +122,25 @@ Representative source-confirmed historical identities:
 
 Scan 75 is the mixed Chapter 8 / Chapter 9 boundary with centered source `9`. Source-specific forms `நாலந்து`, `மௌனக் ஒலி`, `குருடிக் களிப்படைந்தான்`, `வெட்பத்தையும்`, `அக்ரம`, `கற்பைவிற்று`, `எவனோ ஒருத்தன் உளறின`, `வேறுமாப்பிள்ளை`, `ஒருத்திமட்டும்`, `நாழிகையாகத்`, `கூறினர்களே`, and `தடுத்துங்கூட` remain unchanged.
 
+### Scans 76–80
+
+**PASS / 5 OF 5 COMPLETE. No historical-family substitution was required.** Scans 76–78 required no canonical text correction.
+
+Positively source-supported ordinary fidelity corrections:
+
+- scan 79: `தனியிலே` → **`தலையிலே`** in `மானேந்தி மழுவேந்தி தலையிலே கங்கையேந்திப்...`;
+- scan 80: `கற்பமாக` → **`கர்ப்பமாக`** in `நீ கல்யாணத்துக்குள் கர்ப்பமாக வேண்டுமென்று...`.
+
+Representative source-confirmed historical identities:
+
+- scan 76: `போனாள்` / `இருந்தாளே` / `தோன்றினார்கள்` (`னா`), `சிந்தாமணியைப்` (`ணை`), `அவளைப்பற்றி` (`ளை`), `வேலையைப்` (`லை`);
+- scan 77: `மாப்பிள்ளை` (`ளை`), `தொல்லைகளை` (`லை`, `ளை`), `பூரிப்படைந்தார்கள்` (`னா`), `தோற்றமெடுக்கும்` (`றோ`);
+- scan 78: `பொறாமைக்காரர்கள்` (`றா`), `பலியானாள்` (`னா`), `வழியில்லை` / `தெரியவில்லை` (`லை`);
+- scan 79: `ஓடினாள்` / `நின்றாள்` (`னா`), `காளை` (`ளை`), `தலையிலே` (`லை`), `திறந்தாற்போல` (`றா`);
+- scan 80: `கவலைப்படாதே` (`லை`), `மாற்ற` / `மாறவேண்டும்` (`றா`), `கல்யாணத்துக்குள்` (`ணா`), `என்னைப்பற்றி` (`னை`).
+
+Source-specific colloquial and unusual forms on scans 76–80 were otherwise preserved, including `பொண்டாட்டி`, `பலே கைகாரியமா`, `அறுநீர்ப் பறவைகளாயுள்ள`, `சிருஷ்டித்துக்கொண்டு`, `ரகளைப்படுகிறது`, `இதவிடக்`, `அழைப்புகிறேன்`, `ஜவாப்தாரி`, and `காம சத்யபாமா`. No global replacement, grammatical normalization, or silent modernization was used.
+
 ## Why the historical-glyph gate was reopened
 
 The previous pass incorrectly treated several historical Tamil typeforms as modern visual look-alikes. The guide requires identifying the historical character first and then encoding that identity in Unicode. Confirmed corrective work in scans 102–111 remains controlling, including `நன்றாகக்`, `தவறாக`, `என்றாள்`, multiple missing-`ஆ` forms, `சொன்னா`, and `பெண்ணா?`.
@@ -162,6 +181,8 @@ No blanket morphological correction is permitted. Nearby forms are independently
 - scan 73 preserves `வெட்பத்தையும்`, `அக்ரம`, `கற்பைவிற்று`;
 - scan 74 preserves `எவனோ ஒருத்தன் உளறின`, `வேறுமாப்பிள்ளை`, `ஒருத்திமட்டும்`;
 - scan 75 is the mixed Chapter 8 / Chapter 9 boundary with centered `9`; `நாழிகையாகத்`, `கூறினர்களே`, `தடுத்துங்கூட` remain exact;
+- scan 79 preserves source `மானேந்தி மழுவேந்தி தலையிலே கங்கையேந்திப்...`;
+- scan 80 preserves source `நீ கல்யாணத்துக்குள் கர்ப்பமாக வேண்டுமென்று...`;
 - scan 111 ends physical `சிறிதா`; scan 112 begins `வது`.
 
 ## Key records
@@ -173,6 +194,6 @@ No blanket morphological correction is permitted. Nearby forms are independently
 
 ## Exact next activity
 
-Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 76–80**, synchronize page records and status documents, and continue chronologically until scans 1–101 are cleared. Only then resume forward transcription.
+Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 81–85**, synchronize page records and status documents, and continue chronologically until scans 1–101 are cleared. Only then resume forward transcription.
 
 Do not start assembled Tamil or English.

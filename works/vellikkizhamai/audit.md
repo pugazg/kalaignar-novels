@@ -12,7 +12,7 @@
 | Chapter map | **direct through Chapter 13 continuation at scan 111** |
 | Historical-glyph work-level gate | **REOPENED** |
 | Corrective historical-glyph re-audit | **PASS scans 102–111** |
-| Retrospective historical-glyph re-audit | **PASS scans 1–75; PENDING scans 76–101** |
+| Retrospective historical-glyph re-audit | **PASS scans 1–80; PENDING scans 81–101** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -164,6 +164,27 @@ Scan 68 remains the mixed Chapter 7 / Chapter 8 boundary with centered source-pr
 
 Source-specific forms `நாலந்து`, `மௌனக் ஒலி`, `பாங்கர்கள்`, `குருடிக் களிப்படைந்தான்`, `வெட்பத்தையும்`, `அக்ரம`, `கற்பைவிற்று`, `எவனோ ஒருத்தன் உளறின`, `வேறுமாப்பிள்ளை`, `ஒருத்திமட்டும்`, `நாழிகையாகத்`, `கூறினர்களே`, `தடுத்துங்கூட`, and `தாக்கத் துவங்கினர்` remain exact. Scan 75 remains the mixed Chapter 8 / Chapter 9 boundary with centered source `9`. No global replacement, grammatical normalization, or silent modernization was used.
 
+## Scans 76–80
+
+**PASS / 5 OF 5 COMPLETE. No historical-family substitution was required.** Scans 76–78 required no canonical text correction.
+
+| Scan | Earlier canonical | Source-supported | Classification |
+|---:|---|---|---|
+| 79 | `தனியிலே` | **`தலையிலே`** | ordinary lexical source correction |
+| 80 | `கற்பமாக` | **`கர்ப்பமாக`** | ordinary lexical source correction |
+
+Representative historical-family confirmations:
+
+| Scan | Representative source check | Result |
+|---:|---|---|
+| 76 | `போனாள்` / `இருந்தாளே` / `தோன்றினார்கள்`, `சிந்தாமணியைப்`, `அவளைப்பற்றி`, `வேலையைப்` | `னா`, `ணை`, `ளை`, `லை` confirmed; no correction |
+| 77 | `மாப்பிள்ளை`, `தொல்லைகளை`, `பூரிப்படைந்தார்கள்`, `தோற்றமெடுக்கும்` | `ளை`, `லை`, `னா`, `றோ` confirmed; no correction |
+| 78 | `பொறாமைக்காரர்கள்`, `பலியானாள்`, `வழியில்லை` / `தெரியவில்லை` | `றா`, `னா`, `லை` confirmed; no correction |
+| 79 | `ஓடினாள்` / `நின்றாள்`, `காளை`, `தலையிலே`, `திறந்தாற்போல` | `னா`, `ளை`, `லை`, `றா` confirmed; ordinary lexical correction applied |
+| 80 | `கவலைப்படாதே`, `மாற்ற` / `மாறவேண்டும்`, `கல்யாணத்துக்குள்`, `என்னைப்பற்றி` | `லை`, `றா`, `ணா`, `னை` confirmed; ordinary lexical correction applied |
+
+Source-specific `பொண்டாட்டி`, `பலே கைகாரியமா`, `அறுநீர்ப் பறவைகளாயுள்ள`, `சிருஷ்டித்துக்கொண்டு`, `ரகளைப்படுகிறது`, `இதவிடக்`, `அழைப்புகிறேன்`, `ஜவாப்தாரி`, and `காம சத்யபாமா` remain exact. No global replacement, grammatical normalization, or silent modernization was used.
+
 ## Corrective re-audit — scans 102–111
 
 **PASS.** Controlling confirmed corrections include `ஆட்டினாள்`, `நன்றாகக்`, `கத்தினாள்`, `கூறினாள்`, `திருப்பினாள்`, `என்றாள்`, `தவறாக`, `கொட்டினான்`, `ஓடினான்`, `ஓடினார்கள்`, `திமிறினான்`, `நடுங்கினாள்`, `சொன்னா`, `பொய்தானா?`, and `பெண்ணா?`. Scan 109 `கூறினன்` / `சொன்னன்` and scan 110 `புளுகினன்` remain independently confirmed source forms.
@@ -184,7 +205,7 @@ Source-specific forms `நாலந்து`, `மௌனக் ஒலி`, `ப
 
 ## Unresolved project items
 
-- retrospective historical-glyph re-audit scans **76–101**;
+- retrospective historical-glyph re-audit scans **81–101**;
 - scans **112–179** forward canonical processing;
 - final complete Tamil source audit;
 - assembled Tamil;
@@ -192,4 +213,4 @@ Source-specific forms `நாலந்து`, `மௌனக் ஒலி`, `ப
 
 ## Exact next activity
 
-Do **not** resume forward transcription yet. Process **scans 76–80** as the next retrospective 5-scan historical-glyph audit batch, update only positively source-supported corrections, synchronize page/status documents, and continue chronologically.
+Do **not** resume forward transcription yet. Process **scans 81–85** as the next retrospective 5-scan historical-glyph audit batch, update only positively source-supported corrections, synchronize page/status documents, and continue chronologically.

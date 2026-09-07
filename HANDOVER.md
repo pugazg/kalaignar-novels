@@ -23,7 +23,7 @@ Fetch live `main` first and preserve newer durable work.
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–75; PENDING scans 76–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–80; PENDING scans 81–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective batches completed
@@ -43,6 +43,7 @@ Fetch live `main` first and preserve newer durable work.
 - **61–65:** **PASS / 5 OF 5 COMPLETE; no canonical text correction required.** Representative source confirmations include scan 61 `நயினா` / `நயினாவின்` (`னா`) and `உனக்கில்லை` (`லை`); scan 62 `நயினா` (`னா`) / `இல்லை` (`லை`) with genuine source `பொய்தானு` and `பேசினன்`; scan 63 `மாப்பிள்ளை` (`ளை`), `திருமணமானவள்` (`ணா`), `நியாயமில்லை` (`லை`), repeated `நயினா` (`னா`), with genuine `நோக்கினன்`; scan 64 `மாறிவிடுவதா` / `காப்பாற்றுவேன்` (`றா`), `அவளை` (`ளை`), `நிலைநாட்டுவேன்` / `நிறைவேறவில்லை` (`லை`), `நயினா` (`னா`); scan 65 `அவனைப்` (`னை`), repeated `நயினா` (`னா`), `திருப்பினாள்` (`னா`).
 - **66–70:** **PASS / 5 OF 5 COMPLETE; no historical-family substitution.** Scan 66 no canonical correction; scan 67 `பிறர் கெடுவதையே`; scan 68 quoted `பாலையூர் மருத்துவ மனையில்`, `பணி புரியலாமென்று`, `தொலையமாட்டார்களா என்றும்`; scan 69 `விடக் கூடாதம்மா`; scan 70 `இருப்பது கூட`, `நயினாவிடம் கூட சொல்லிவிடலாமே`, `அவன் சற்று அழுத்தந்திருத்தமாகவே`.
 - **71–75:** **PASS / 5 OF 5 COMPLETE; no historical-family substitution and no canonical text correction required.** Representative confirmations: scan 71 repeated `நயினா`, `களிப்படைந்தான்`, `பூனைபோலிருக்கிறது`; scan 72 `நாற்காலியைத்`, `பாலையூர்`, `கண்களைத்`; scan 73 `திருப்பினாள்`, `நிலவு`; scan 74 `சிவனார்`, `மாறாக`, `மாப்பிள்ளை`; scan 75 `காணப்படவில்லை`, `யாருமில்லை`. Scan 75 is the mixed Chapter 8 / Chapter 9 boundary with centered `9`.
+- **76–80:** **PASS / 5 OF 5 COMPLETE; no historical-family substitution.** Scans 76–78 required no canonical correction. Scan 79 corrected `தனியிலே` → **`தலையிலே`**; scan 80 corrected `கற்பமாக` → **`கர்ப்பமாக`**. Representative confirmations include scan 76 `போனாள்` / `சிந்தாமணியைப்` / `அவளைப்பற்றி`, scan 77 `மாப்பிள்ளை` / `தொல்லைகளை` / `தோற்றமெடுக்கும்`, scan 78 `பொறாமைக்காரர்கள்` / `பலியானாள்` / `வழியில்லை`, scan 79 `காளை` / `தலையிலே` / `திறந்தாற்போல`, and scan 80 `கவலைப்படாதே` / `மாற்ற` / `கல்யாணத்துக்குள்` / `என்னைப்பற்றி`.
 
 ## Critical process correction
 
@@ -86,6 +87,8 @@ Corrective scans 102–111 remain controlling for the known failure mode, includ
 - scan 73 preserves `வெட்பத்தையும்`, `அக்ரம`, `கற்பைவிற்று`;
 - scan 74 preserves `எவனோ ஒருத்தன் உளறின`, `வேறுமாப்பிள்ளை`, `ஒருத்திமட்டும்`;
 - scan 75 mixed Chapter 8 / 9 with centered `9`; preserves `நாழிகையாகத்`, `கூறினர்களே`, `தடுத்துங்கூட`;
+- scan 79 preserves source `மானேந்தி மழுவேந்தி தலையிலே கங்கையேந்திப்...`;
+- scan 80 preserves source `நீ கல்யாணத்துக்குள் கர்ப்பமாக வேண்டுமென்று...`;
 - scan 98 bottom standalone `7` is a printer/signature mark;
 - scan 99 mixed Chapter 11 / 12 with centered `12`;
 - scan 107 mixed Chapter 12 / 13 with centered `13`;
@@ -97,7 +100,7 @@ Forward transcription remains paused.
 
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. perform retrospective historical-glyph audit of **scans 76–80** as one 5-scan iteration;
+3. perform retrospective historical-glyph audit of **scans 81–85** as one 5-scan iteration;
 4. explicitly test all 13 families on source pixels;
 5. correct only positively source-supported character identities or ordinary source-text mismatches; never infer from grammar and never global-replace;
 6. synchronize page records, page-map, audit, README/status/handover documents and commit;
