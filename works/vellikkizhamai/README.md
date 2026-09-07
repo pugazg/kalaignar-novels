@@ -16,7 +16,7 @@
 - Chapter 13 transcribed through scan 111 / printed 110;
 - **historical-glyph work-level gate: REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–80; pending scans 81–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–85; pending scans 86–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective historical-glyph batches
@@ -141,6 +141,20 @@ Representative source-confirmed historical identities:
 
 Source-specific colloquial and unusual forms on scans 76–80 were otherwise preserved, including `பொண்டாட்டி`, `பலே கைகாரியமா`, `அறுநீர்ப் பறவைகளாயுள்ள`, `சிருஷ்டித்துக்கொண்டு`, `ரகளைப்படுகிறது`, `இதவிடக்`, `அழைப்புகிறேன்`, `ஜவாப்தாரி`, and `காம சத்யபாமா`. No global replacement, grammatical normalization, or silent modernization was used.
 
+### Scans 81–85
+
+**PASS / 5 OF 5 COMPLETE.** Five positively source-supported corrections were made; one is a mandatory historical-family correction.
+
+- scan 81: `கண்ணி கழியாத` → **`கன்னி கழியாத`**;
+- scan 82: `பின்னர்ப் பிறிட்டு` → **`பின்னர் பீறிட்டு`**;
+- scan 83: `திருமணம்?` → **`திருமணமா?`** (`ணா`);
+- scan 84: `துணியமுடியுமா?` → **`துணிய முடியுமா?`**;
+- scan 85: `மருத்துவ மனைின்` → **`மருத்துவ மனையின்`** (`னை` source identity confirmed).
+
+Representative source-confirmed historical identities include scan 81 `கல்யாணம்` (`ணா`), `அவளை` (`ளை`), `கவலைப்படுகிறீர்கள்` (`லை`), `என்றான்` / `சீறினாள்` (`றா`); scan 82 `அணை` (`ணை`), `மணிமேகலை` (`லை`), `பிள்ளை` (`ளை`), `கல்யாணம்` (`ணா`); scan 83 `திருமணமா?` (`ணா`), `பிணத்தைத்தான்` (`ணை`), `அவளை` (`ளை`), `பயலை` (`லை`), `என்றாள்` (`றா`); scan 84 `சிந்தாமணியை` (`ணை`), `அவளை` (`ளை`), `மாற்றிவிடுவான்` (`றா`), `நம்பினாள்` / `எண்ணினாள்` / `தயாரானாள்` (`னா`); scan 85 `மனையின்` (`னை`), `மாப்பிள்ளையாகிவிட்டால்` (`ளை`), `கருதினாள்` / `துணியமாட்டாள்` (`னா`), `கல்யாணம்` (`ணா`), `தொலையும்` (`லை`), `மாறாக` (`றா`).
+
+Scan 82's bottom standalone `6` remains a printer/signature mark. Scan 85 remains the mixed Chapter 9 / Chapter 10 boundary with centered source `10`. No global replacement, grammatical normalization, or silent modernization was used.
+
 ## Why the historical-glyph gate was reopened
 
 The previous pass incorrectly treated several historical Tamil typeforms as modern visual look-alikes. The guide requires identifying the historical character first and then encoding that identity in Unicode. Confirmed corrective work in scans 102–111 remains controlling, including `நன்றாகக்`, `தவறாக`, `என்றாள்`, multiple missing-`ஆ` forms, `சொன்னா`, and `பெண்ணா?`.
@@ -183,6 +197,11 @@ No blanket morphological correction is permitted. Nearby forms are independently
 - scan 75 is the mixed Chapter 8 / Chapter 9 boundary with centered `9`; `நாழிகையாகத்`, `கூறினர்களே`, `தடுத்துங்கூட` remain exact;
 - scan 79 preserves source `மானேந்தி மழுவேந்தி தலையிலே கங்கையேந்திப்...`;
 - scan 80 preserves source `நீ கல்யாணத்துக்குள் கர்ப்பமாக வேண்டுமென்று...`;
+- scan 81 source is `கன்னி கழியாத`;
+- scan 82 source is `பின்னர் பீறிட்டு` and bottom `6` is a printer/signature mark;
+- scan 83 source is `திருமணமா?` (`ணா`);
+- scan 84 source spacing is `துணிய முடியுமா?`;
+- scan 85 mixed Chapter 9 / 10 with centered `10`; source is `மருத்துவ மனையின் மேல்மாடிக்குச்`;
 - scan 111 ends physical `சிறிதா`; scan 112 begins `வது`.
 
 ## Key records
@@ -194,6 +213,6 @@ No blanket morphological correction is permitted. Nearby forms are independently
 
 ## Exact next activity
 
-Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 81–85**, synchronize page records and status documents, and continue chronologically until scans 1–101 are cleared. Only then resume forward transcription.
+Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 86–90**, synchronize page records and status documents, and continue chronologically until scans 1–101 are cleared. Only then resume forward transcription.
 
 Do not start assembled Tamil or English.

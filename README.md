@@ -30,7 +30,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - **historical-glyph work-level gate REOPENED** after a systematic old-type decoding error was found;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–80; pending scans 81–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–85; pending scans 86–101**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**.
@@ -48,7 +48,8 @@ All retrospective scans explicitly test the mandatory old-type families `ணா 
 - scans **61–65**: **PASS / 5 OF 5 COMPLETE with no canonical correction.** Source-pixel confirmations include scan 61 `நயினா` / `நயினாவின்` (`னா`) and `உனக்கில்லை` (`லை`); scan 62 `நயினா` (`னா`) / `இல்லை` (`லை`) with genuine `பொய்தானு` and `பேசினன்`; scan 63 `மாப்பிள்ளை` (`ளை`), `திருமணமானவள்` (`ணா`), `நியாயமில்லை` (`லை`), repeated `நயினா` (`னா`) with genuine `நோக்கினன்`; scan 64 `மாறிவிடுவதா` / `காப்பாற்றுவேன்` (`றா`), `அவளை` (`ளை`), `நிலைநாட்டுவேன்` / `நிறைவேறவில்லை` (`லை`), `நயினா` (`னா`); scan 65 `அவனைப்` (`னை`), repeated `நயினா` (`னா`), `திருப்பினாள்` (`னா`);
 - scans **66–70**: **PASS / 5 OF 5 COMPLETE; no historical-family substitution.** Scan 66 required no canonical correction and visibly prints only page number `5`. Ordinary source-fidelity corrections: scan 67 `பிறர் கெடுவதை` → **`பிறர் கெடுவதையே`**; scan 68 quoted `பாலையூர் மருத்துவமனையில்` → **`பாலையூர் மருத்துவ மனையில்`**, `பணிபுரியலாமென்று` → **`பணி புரியலாமென்று`**, `தொலையமாட்டார்களா என்று` → **`தொலையமாட்டார்களா என்றும்`**; scan 69 `விடக்கூடாதம்மா` → **`விடக் கூடாதம்மா`**; scan 70 `இருப்பதுகூட` → **`இருப்பது கூட`**, `நயினாவிடம் கூடச் சொல்லிவிடலாமே` → **`நயினாவிடம் கூட சொல்லிவிடலாமே`**, `அவன் சுற்று அழுத்தந்திருத்தமாகவே` → **`அவன் சற்று அழுத்தந்திருத்தமாகவே`**;
 - scans **71–75**: **PASS / 5 OF 5 COMPLETE; no historical-family substitution and no canonical text correction required.** Source-pixel checks include recurring `நயினா` (`னா`), scan 71 `களிப்படைந்தான்` (`ளை`, `னா`) / `பூனைபோலிருக்கிறது` (`னை`), scan 72 `நாற்காலியைத்` (`றா`) / `பாலையூர்` (`லை`) / `கண்களைத்` (`ளை`), scan 73 `திருப்பினாள்` (`னா`) / `நிலவு` (`லை`), scan 74 `சிவனார்` (`னா`) / `மாறாக` (`றா`) / `மாப்பிள்ளை` (`ளை`), and scan 75 `காணப்படவில்லை` / `யாருமில்லை` (`லை`). Scan 75 remains the mixed Chapter 8 / Chapter 9 boundary with centered `9`;
-- scans **76–80**: **PASS / 5 OF 5 COMPLETE; no historical-family substitution.** Scans 76–78 required no canonical correction. Scan 79 corrected ordinary source text `தனியிலே` → **`தலையிலே`** in `மானேந்தி மழுவேந்தி தலையிலே கங்கையேந்திப்...`; scan 80 corrected `கற்பமாக` → **`கர்ப்பமாக`** in `நீ கல்யாணத்துக்குள் கர்ப்பமாக வேண்டுமென்று...`. Representative confirmations include scan 76 `போனாள்` / `சிந்தாமணியைப்` / `அவளைப்பற்றி`, scan 77 `மாப்பிள்ளை` / `தொல்லைகளை` / `தோற்றமெடுக்கும்`, scan 78 `பொறாமைக்காரர்கள்` / `பலியானாள்` / `வழியில்லை`, scan 79 `ஓடினாள்` / `காளை` / `தலையிலே` / `திறந்தாற்போல`, and scan 80 `கவலைப்படாதே` / `மாற்ற` / `கல்யாணத்துக்குள்` / `என்னைப்பற்றி`.
+- scans **76–80**: **PASS / 5 OF 5 COMPLETE; no historical-family substitution.** Scans 76–78 required no canonical correction. Scan 79 corrected ordinary source text `தனியிலே` → **`தலையிலே`** in `மானேந்தி மழுவேந்தி தலையிலே கங்கையேந்திப்...`; scan 80 corrected `கற்பமாக` → **`கர்ப்பமாக`** in `நீ கல்யாணத்துக்குள் கர்ப்பமாக வேண்டுமென்று...`. Representative confirmations include scan 76 `போனாள்` / `சிந்தாமணியைப்` / `அவளைப்பற்றி`, scan 77 `மாப்பிள்ளை` / `தொல்லைகளை` / `தோற்றமெடுக்கும்`, scan 78 `பொறாமைக்காரர்கள்` / `பலியானாள்` / `வழியில்லை`, scan 79 `ஓடினாள்` / `காளை` / `தலையிலே` / `திறந்தாற்போல`, and scan 80 `கவலைப்படாதே` / `மாற்ற` / `கல்யாணத்துக்குள்` / `என்னைப்பற்றி`;
+- scans **81–85**: **PASS / 5 OF 5 COMPLETE with five source-supported corrections.** Scan 81 `கண்ணி கழியாத` → **`கன்னி கழியாத`**; scan 82 `பின்னர்ப் பிறிட்டு` → **`பின்னர் பீறிட்டு`**; scan 83 `திருமணம்?` → **`திருமணமா?`** (`ணா`); scan 84 `துணியமுடியுமா?` → **`துணிய முடியுமா?`**; scan 85 `மருத்துவ மனைின்` → **`மருத்துவ மனையின்`** (`னை`). Scan 82 bottom `6` is a printer/signature mark; scan 85 remains the mixed Chapter 9 / Chapter 10 boundary with centered `10`.
 
 Corrective scans **102–111** remain controlling for the known failure mode, including `நன்றாகக்`, `தவறாக`, `என்றாள்`, missing-`ஆ` corrections, `சொன்னா`, and `பெண்ணா?`.
 
@@ -88,6 +89,11 @@ Corrective scans **102–111** remain controlling for the known failure mode, in
 - scan 75 is the mixed Chapter 8 / Chapter 9 boundary with centered `9`; source forms `நாழிகையாகத்`, `கூறினர்களே`, `தடுத்துங்கூட` remain exact;
 - scan 79 source phrase is `மானேந்தி மழுவேந்தி தலையிலே கங்கையேந்திப்...`;
 - scan 80 source phrase is `நீ கல்யாணத்துக்குள் கர்ப்பமாக வேண்டுமென்று...`;
+- scan 81 source is `கன்னி கழியாத`;
+- scan 82 source is `பின்னர் பீறிட்டு`; bottom standalone `6` remains a printer/signature mark;
+- scan 83 source is `திருமணமா?` (`ணா`);
+- scan 84 source spacing is `துணிய முடியுமா?`;
+- scan 85 is the mixed Chapter 9 / Chapter 10 boundary with centered `10`; source is `மருத்துவ மனையின் மேல்மாடிக்குச்`;
 - scan 98 bottom standalone `7` is a printer/signature mark;
 - scan 111 ends physical `சிறிதா`; scan 112 begins source-visible `வது`.
 
@@ -105,7 +111,7 @@ Use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRA
 
 ## Next activity
 
-Continue the retrospective historical-glyph re-audit in the next 5-scan batch: **scans 81–85**. Forward transcription at scan 112 remains paused until scans 1–101 are cleared.
+Continue the retrospective historical-glyph re-audit in the next 5-scan batch: **scans 86–90**. Forward transcription at scan 112 remains paused until scans 1–101 are cleared.
 
 ## Release-status meaning
 

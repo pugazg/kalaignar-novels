@@ -12,7 +12,7 @@
 | Chapter map | **direct through Chapter 13 continuation at scan 111** |
 | Historical-glyph work-level gate | **REOPENED** |
 | Corrective historical-glyph re-audit | **PASS scans 102–111** |
-| Retrospective historical-glyph re-audit | **PASS scans 1–80; PENDING scans 81–101** |
+| Retrospective historical-glyph re-audit | **PASS scans 1–85; PENDING scans 86–101** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -185,6 +185,30 @@ Representative historical-family confirmations:
 
 Source-specific `பொண்டாட்டி`, `பலே கைகாரியமா`, `அறுநீர்ப் பறவைகளாயுள்ள`, `சிருஷ்டித்துக்கொண்டு`, `ரகளைப்படுகிறது`, `இதவிடக்`, `அழைப்புகிறேன்`, `ஜவாப்தாரி`, and `காம சத்யபாமா` remain exact. No global replacement, grammatical normalization, or silent modernization was used.
 
+## Scans 81–85
+
+**PASS / 5 OF 5 COMPLETE.** Five positively source-supported corrections were made.
+
+| Scan | Earlier canonical | Source-supported | Classification |
+|---:|---|---|---|
+| 81 | `கண்ணி கழியாத` | **`கன்னி கழியாத`** | ordinary lexical source correction |
+| 82 | `பின்னர்ப் பிறிட்டு` | **`பின்னர் பீறிட்டு`** | ordinary lexical/source wording correction |
+| 83 | `திருமணம்?` | **`திருமணமா?`** | mandatory `ணா` historical-family correction |
+| 84 | `துணியமுடியுமா?` | **`துணிய முடியுமா?`** | source spacing |
+| 85 | `மருத்துவ மனைின்` | **`மருத்துவ மனையின்`** | ordinary lexical/source correction; `னை` confirmed |
+
+Representative historical-family confirmations:
+
+| Scan | Representative source check | Result |
+|---:|---|---|
+| 81 | `கல்யாணம்`, `அவளை`, `கவலைப்படுகிறீர்கள்`, `என்றான்` / `சீறினாள்` | `ணா`, `ளை`, `லை`, `றா` confirmed |
+| 82 | `அணை`, `மணிமேகலை`, `பிள்ளை`, `கல்யாணம்` | `ணை`, `லை`, `ளை`, `ணா` confirmed |
+| 83 | `திருமணமா?`, `பிணத்தைத்தான்`, `அவளை`, `பயலை`, `என்றாள்` | `ணா`, `ணை`, `ளை`, `லை`, `றா` confirmed |
+| 84 | `சிந்தாமணியை`, `அவளை`, `மாற்றிவிடுவான்`, `நம்பினாள்` / `எண்ணினாள்` / `தயாரானாள்` | `ணை`, `ளை`, `றா`, `னா` confirmed |
+| 85 | `மனையின்`, `மாப்பிள்ளையாகிவிட்டால்`, `கருதினாள்` / `துணியமாட்டாள்`, `கல்யாணம்`, `தொலையும்`, `மாறாக` | `னை`, `ளை`, `னா`, `ணா`, `லை`, `றா` confirmed |
+
+Scan 82 bottom standalone `6` remains a printer/signature mark. Scan 85 remains the mixed Chapter 9 / Chapter 10 boundary with centered source `10`. Source-specific wording and punctuation were otherwise preserved. No global replacement, grammatical normalization, or silent modernization was used.
+
 ## Corrective re-audit — scans 102–111
 
 **PASS.** Controlling confirmed corrections include `ஆட்டினாள்`, `நன்றாகக்`, `கத்தினாள்`, `கூறினாள்`, `திருப்பினாள்`, `என்றாள்`, `தவறாக`, `கொட்டினான்`, `ஓடினான்`, `ஓடினார்கள்`, `திமிறினான்`, `நடுங்கினாள்`, `சொன்னா`, `பொய்தானா?`, and `பெண்ணா?`. Scan 109 `கூறினன்` / `சொன்னன்` and scan 110 `புளுகினன்` remain independently confirmed source forms.
@@ -198,6 +222,8 @@ Source-specific `பொண்டாட்டி`, `பலே கைகாரி�
 - scan 66: source visibly prints only page number `5`; never infer `65`;
 - scan 68: mixed Chapter 7 / Chapter 8 with centered `8`;
 - scan 75: mixed Chapter 8 / Chapter 9 with centered `9`;
+- scan 82: bottom standalone `6` is a printer/signature mark;
+- scan 85: mixed Chapter 9 / Chapter 10 with centered `10`;
 - scan 92: mixed Chapter 10 / Chapter 11 with centered `11`;
 - scan 99: mixed Chapter 11 / Chapter 12 with centered `12`;
 - scan 107: mixed Chapter 12 / Chapter 13 with centered `13`;
@@ -205,7 +231,7 @@ Source-specific `பொண்டாட்டி`, `பலே கைகாரி�
 
 ## Unresolved project items
 
-- retrospective historical-glyph re-audit scans **81–101**;
+- retrospective historical-glyph re-audit scans **86–101**;
 - scans **112–179** forward canonical processing;
 - final complete Tamil source audit;
 - assembled Tamil;
@@ -213,4 +239,4 @@ Source-specific `பொண்டாட்டி`, `பலே கைகாரி�
 
 ## Exact next activity
 
-Do **not** resume forward transcription yet. Process **scans 81–85** as the next retrospective 5-scan historical-glyph audit batch, update only positively source-supported corrections, synchronize page/status documents, and continue chronologically.
+Do **not** resume forward transcription yet. Process **scans 86–90** as the next retrospective 5-scan historical-glyph audit batch, update only positively source-supported corrections, synchronize page/status documents, and continue chronologically.
