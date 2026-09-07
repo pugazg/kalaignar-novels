@@ -23,7 +23,7 @@ Fetch live `main` first and preserve newer durable work.
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–60; PENDING scans 61–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–65; PENDING scans 66–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective batches completed
@@ -40,6 +40,7 @@ Fetch live `main` first and preserve newer durable work.
 - **46–50:** PASS; corrections include scan 46 `வேஷம் கலைந்துவிட்டதம்மா`, `தப்பி விட்டோம்`, `தடை போட்டார்களே`, `நெருப்பு மொழிகளும்`, `அசைவற்றுப் போனார்`; scan 47 `மானத்தைப்பற்றியே கவலைப்படாத`, `அளிப்பதாக`; scan 48 `அகரமம்`; scan 49 `மாசமறுவற்ற`; scan 50 no correction.
 - **51–55:** PASS; scan 52 `குபு குபு`, `அவங்களுக்கே தான்`, `பாலையூர்`, `பாலையூர் மருத்துவ மனையில்`; scan 54 `விரும்பினன்`, `இந்த மன தத்துவத்தை`; scan 55 `மருத்துவ மனையிலிருந்து`; scans 51 and 53 no correction.
 - **56–60:** PASS; scan 56 `எடுத்துக் காட்டும்`, `பொறுத்துக் கொள்ள`; scan 57 `நிலநாட்டும்`; scan 58 `மருத்துவ மனையில்`, `இந்த சொல்மட்டும்`; scan 59 no correction; scan 60 `அருகிலே இருந்தது`.
+- **61–65:** **PASS / 5 OF 5 COMPLETE; no canonical text correction required.** Representative source confirmations include scan 61 `நயினா` / `நயினாவின்` (`னா`) and `உனக்கில்லை` (`லை`); scan 62 `நயினா` (`னா`) / `இல்லை` (`லை`) with genuine source `பொய்தானு` and `பேசினன்`; scan 63 `மாப்பிள்ளை` (`ளை`), `திருமணமானவள்` (`ணா`), `நியாயமில்லை` (`லை`), repeated `நயினா` (`னா`), with genuine `நோக்கினன்`; scan 64 `மாறிவிடுவதா` / `காப்பாற்றுவேன்` (`றா`), `அவளை` (`ளை`), `நிலைநாட்டுவேன்` / `நிறைவேறவில்லை` (`லை`), `நயினா` (`னா`); scan 65 `அவனைப்` (`னை`), repeated `நயினா` (`னா`), `திருப்பினாள்` (`னா`).
 
 ## Critical process correction
 
@@ -72,6 +73,8 @@ Corrective scans 102–111 remain controlling for the known failure mode, includ
 - scan 58 `மருத்துவ மனையில்`, `இந்த சொல்மட்டும்`;
 - scan 59 mixed Chapter 6 / 7 with centered `7`;
 - scan 60 `அருகிலே இருந்தது`;
+- scan 62 `பொய்தானு` and `பேசினன்` remain genuine source forms;
+- scan 63 `நோக்கினன்` remains genuine source form;
 - scan 66 visible page number is `5`, never infer `65`;
 - scan 98 bottom standalone `7` is a printer/signature mark;
 - scan 99 mixed Chapter 11 / 12 with centered `12`;
@@ -84,7 +87,7 @@ Forward transcription remains paused.
 
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. perform retrospective historical-glyph audit of **scans 61–65** as one 5-scan iteration;
+3. perform retrospective historical-glyph audit of **scans 66–70** as one 5-scan iteration;
 4. explicitly test all 13 families on source pixels;
 5. correct only positively source-supported character identities or ordinary source-text mismatches; never infer from grammar and never global-replace;
 6. synchronize page records, page-map, audit, README/status/handover documents and commit;

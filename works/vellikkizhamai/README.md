@@ -16,7 +16,7 @@
 - Chapter 13 transcribed through scan 111 / printed 110;
 - **historical-glyph work-level gate: REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–60; pending scans 61–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–65; pending scans 66–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective historical-glyph batches
@@ -83,6 +83,18 @@ Character identity is decided from enlarged/native source pixels first. Grammar 
 
 Representative source-confirmed historical identities include scan 56 `கண்ணை` (`ணை`), `வேலைக்கே` (`லை`), `பெண்களை` (`ளை`), `கதறினாள்` (`னா`); scan 57 `மாப்பிள்ளை`, `வேலைகளை`, `நயினா`, `சிந்திக்கவில்லையா`; scan 58 `சிந்திக்கவில்லை`, `முதலிலேயே`, `விடுபடவில்லை`, `நயினா`; scan 59 `இல்லை`, `பெண்ணை`; scan 60 `கண்ணால்` (`ணா`), `அணைந்தது` (`ணை`), `தங்களை` (`ளை`), `நயினா` (`னா`).
 
+### Scans 61–65
+
+**PASS / 5 OF 5 COMPLETE. No historical-family substitution or other canonical text correction was required.**
+
+Representative source-confirmed historical identities:
+
+- scan 61: `நயினா` / `நயினாவின்` (`னா`), `இல்லை` / `உனக்கில்லை` (`லை`);
+- scan 62: `நயினா` (`னா`), `இல்லை` (`லை`); source-specific `பொய்தானு` and `பேசினன்` remain genuine and were not expanded;
+- scan 63: `மாப்பிள்ளை` (`ளை`), repeated `நயினா` (`னா`), `திருமணமானவள்` (`ணா`), `நியாயமில்லை` / `வழியில்லை` (`லை`); `நோக்கினன்` remains genuine;
+- scan 64: `மாறிவிடுவதா` / `காப்பாற்றுவேன்` (`றா`), `அவளை` (`ளை`), `நிலைநாட்டுவேன்` / `நிறைவேறவில்லை` (`லை`), `நயினா` (`னா`);
+- scan 65: `அவனைப்` (`னை`), repeated `நயினா` / `நயினாவும்` (`னா`), `திருப்பினாள்` (`னா`).
+
 ## Why the historical-glyph gate was reopened
 
 The previous pass incorrectly treated several historical Tamil typeforms as modern visual look-alikes. The guide requires identifying the historical character first and then encoding that identity in Unicode. Confirmed corrective work in scans 102–111 remains controlling, including `நன்றாகக்`, `தவறாக`, `என்றாள்`, multiple missing-`ஆ` forms, `சொன்னா`, and `பெண்ணா?`.
@@ -112,6 +124,8 @@ No blanket morphological correction is permitted. Nearby forms are independently
 - scan 58 source has `மருத்துவ மனையில்` and `இந்த சொல்மட்டும்`;
 - scan 59 is the mixed Chapter 6 / Chapter 7 boundary with centered `7`;
 - scan 60 source has `அருகிலே இருந்தது`;
+- scan 62 preserves genuine `பொய்தானு` / `பேசினன்`;
+- scan 63 preserves genuine `நோக்கினன்`;
 - scan 66 visibly prints only `5`; never infer `65`;
 - scan 111 ends physical `சிறிதா`; scan 112 begins `வது`.
 
@@ -124,6 +138,6 @@ No blanket morphological correction is permitted. Nearby forms are independently
 
 ## Exact next activity
 
-Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 61–65**, synchronize page records and status documents, and continue chronologically until scans 1–101 are cleared. Only then resume forward transcription.
+Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 66–70**, synchronize page records and status documents, and continue chronologically until scans 1–101 are cleared. Only then resume forward transcription.
 
 Do not start assembled Tamil or English.

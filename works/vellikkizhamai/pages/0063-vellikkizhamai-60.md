@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “சரி! சரி! விஷயத்தைச் சொல்லட்டும்” என்று அழகப்பன் டைகர் முகத்தை உற்று நோக்கினன்.
@@ -28,12 +28,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “இன்னும் என்ன இருக்கிறது சேதி! ஆஸ்பத்திரிக்கு நீங்கள் இருவரும் வந்தபோது மாப்பிள்ளை வீட்டார் என்று எங்களுக்குத் தெரியாது! நீங்கள் வரப்போகிற சேதிகூட எங்களுக்குத் தெரிய நியாயமில்லை! சிந்தாமணியைப் பற்றிய சந்தேகமும் எங்களுக்கு எழுந்திட வழியில்லை! அவள் திருமணமானவள் என்றே எண்ணிக்கொண்டிருந்தோம். நீங்கள் ஆஸ்பத்திரியிலிருந்து ஆக்ரோஷ புருஷர்களாய் வெளியேறிய பிறகுதான் விசாரித்தோம்! விஷயம் தெரிந்தது! அய்யோ, நம்மால் ஒருத்தியின் வாழ்க்கை
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected directly at enlarged/native source resolution; full 13-family historical-glyph set checked.
-- `நயினா` retained with historical `னா` identity.
-- Source-specific wording such as `ஜாடை`, `ஜம்பமாக`, `சேதிகூட`, `ஆலகாலவிஷத்தைக்`, and `ஆக்ரோஷ புருஷர்களாய்` is preserved.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `மாப்பிள்ளை` (`ளை`), repeated `நயினா` (`னா`), `திருமணமானவள்` (`ணா`), and `நியாயமில்லை` / `வழியில்லை` (`லை`).
+- `நோக்கினன்` remains a genuine source counterexample and was not expanded to a `னா` form.
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -42,5 +43,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **62**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 63; அச்சுப் பக்கம்: 62 -->

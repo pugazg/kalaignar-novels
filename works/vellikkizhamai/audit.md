@@ -12,7 +12,7 @@
 | Chapter map | **direct through Chapter 13 continuation at scan 111** |
 | Historical-glyph work-level gate | **REOPENED** |
 | Corrective historical-glyph re-audit | **PASS scans 102–111** |
-| Retrospective historical-glyph re-audit | **PASS scans 1–60; PENDING scans 61–101** |
+| Retrospective historical-glyph re-audit | **PASS scans 1–65; PENDING scans 66–101** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -117,6 +117,20 @@ Scan 53 `பருவத்தினள்` and scan 54 `விரும்ப�
 
 Representative historical-family confirmations: scan 56 `கண்ணை` (`ணை`), `வேலைக்கே` (`லை`), `பெண்களை` (`ளை`), `கதறினாள்` (`னா`); scan 57 `மாப்பிள்ளை`, `வேலைகளை`, `நயினா`, `சிந்திக்கவில்லையா`; scan 58 `சிந்திக்கவில்லை`, `முதலிலேயே`, `விடுபடவில்லை`, `நயினா`; scan 59 `இல்லை`, `பெண்ணை`; scan 60 `கண்ணால்` (`ணா`), `அணைந்தது` (`ணை`), `தங்களை` (`ளை`), `நயினா` (`னா`).
 
+## Scans 61–65
+
+**PASS / 5 OF 5 COMPLETE. No historical-family substitution or other positively supported canonical text correction was required.**
+
+| Scan | Representative source check | Result |
+|---:|---|---|
+| 61 | `நயினா` / `நயினாவின்`, `இல்லை` / `உனக்கில்லை` | `னா`, `லை` confirmed; no correction |
+| 62 | `நயினா`, `இல்லை`; source `பொய்தானு`, `பேசினன்` | `னா`, `லை` confirmed; counterexamples retained; no correction |
+| 63 | `மாப்பிள்ளை`, `நயினா`, `திருமணமானவள்`, `நியாயமில்லை`, `வழியில்லை`; source `நோக்கினன்` | `ளை`, `னா`, `ணா`, `லை` confirmed; no correction |
+| 64 | `மாறிவிடுவதா`, `காப்பாற்றுவேன்`, `அவளை`, `நிலைநாட்டுவேன்`, `நிறைவேறவில்லை`, `நயினா` | `றா`, `ளை`, `லை`, `னா` confirmed; no correction |
+| 65 | `அவனைப்`, `நயினா` / `நயினாவும்`, `திருப்பினாள்` | `னை`, `னா` confirmed; no correction |
+
+`பொய்தானு`, `பேசினன்`, and `நோக்கினன்` were independently rechecked rather than automatically expanded under the known missing-`ஆ` failure mode. No global replacement, grammatical normalization, or silent modernization was used.
+
 ## Corrective re-audit — scans 102–111
 
 **PASS.** Controlling confirmed corrections include `ஆட்டினாள்`, `நன்றாகக்`, `கத்தினாள்`, `கூறினாள்`, `திருப்பினாள்`, `என்றாள்`, `தவறாக`, `கொட்டினான்`, `ஓடினான்`, `ஓடினார்கள்`, `திமிறினான்`, `நடுங்கினாள்`, `சொன்னா`, `பொய்தானா?`, and `பெண்ணா?`. Scan 109 `கூறினன்` / `சொன்னன்` and scan 110 `புளுகினன்` remain independently confirmed source forms.
@@ -135,7 +149,7 @@ Representative historical-family confirmations: scan 56 `கண்ணை` (`ண�
 
 ## Unresolved project items
 
-- retrospective historical-glyph re-audit scans **61–101**;
+- retrospective historical-glyph re-audit scans **66–101**;
 - scans **112–179** forward canonical processing;
 - final complete Tamil source audit;
 - assembled Tamil;
@@ -143,4 +157,4 @@ Representative historical-family confirmations: scan 56 `கண்ணை` (`ண�
 
 ## Exact next activity
 
-Do **not** resume forward transcription yet. Process **scans 61–65** as the next retrospective 5-scan historical-glyph audit batch, update only positively source-supported corrections, synchronize page/status documents, and continue chronologically.
+Do **not** resume forward transcription yet. Process **scans 66–70** as the next retrospective 5-scan historical-glyph audit batch, update only positively source-supported corrections, synchronize page/status documents, and continue chronologically.

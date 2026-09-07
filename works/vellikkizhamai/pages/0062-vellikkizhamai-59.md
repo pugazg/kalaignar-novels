@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “தான் சொன்னதெல்லாம் பொய்தான். என்னை விட்டுவிடுங்கள் ஓடிவிடுகிறேன்.”
@@ -28,13 +28,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “இப்படியெல்லாம் பயல்கள் பாரத்தைப் போடுவார்கள் என்று பயந்துதானே எங்கள் ஆண்டவன் கல்லாகவும் இல்லை; சிலையாகவும் இல்லை; கண்ணுக்குத் தெரியாமலே இருக்கிறார்!” என்று கடுகடுப்போடு கூறினான் நயினா.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected directly at enlarged/native source resolution.
-- Checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` before Unicode transcription.
-- Recurring name is retained as `நயினா`; historical `னா` is not regressed to `னு`.
-- Source-specific dialogue spelling and punctuation, including `பொய்தானு`, `போடுறயா`, quoted `பவுண்டு` / `டன்`, and unusual source phrase `லஞ்சம் படுத்துகிற`, are preserved rather than normalized.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include repeated `நயினா` (`னா`) and `இல்லை` (`லை`).
+- Source-specific `பொய்தானு` and `பேசினன்` were independently rechecked and retained; they must not be expanded merely from the known old-`னா` failure mode.
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -44,5 +44,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **61**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 62; அச்சுப் பக்கம்: 61 -->

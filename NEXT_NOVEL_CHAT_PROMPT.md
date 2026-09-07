@@ -16,10 +16,10 @@ Resolve `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-25
 - Chapter 13 transcribed through scan 111 / printed 110;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–60; PENDING scans 61–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–65; PENDING scans 66–101**;
 - forward transcription at scan 112 is paused until retrospective coverage is cleared.
 
-## Retrospective results through scan 60
+## Retrospective results through scan 65
 
 - scans 1–5: PASS; separate scan-4 source correction `பெருகிடுகிறது` → `பெருகிவிடுகிறது`;
 - scans 6–10: PASS, no canonical correction;
@@ -32,7 +32,8 @@ Resolve `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-25
 - scans 41–45: PASS; no historical-family substitution. Scan 42 received two ordinary source-fidelity corrections: `பொறுத்துச்` → **`பொருத்தம்`**, `சுதன` → **`சனதன`**;
 - scans 46–50: PASS. Scan 46 corrected `தோஷம் கழந்துவிட்டதம்மா` → **`வேஷம் கலைந்துவிட்டதம்மா`**, first `தப்பிவிட்டோம்` → **`தப்பி விட்டோம்`**, `தடையோட்டார்களே` → **`தடை போட்டார்களே`**, `நெருப்புமொழிகளும்` → **`நெருப்பு மொழிகளும்`**, `அசைவற்று போனார்` → **`அசைவற்றுப் போனார்`**. Scan 47 corrected `மானத்தைப்பற்றிய கவலையுண்டு` → **`மானத்தைப்பற்றியே கவலைப்படாத`** and `அனுப்பதாக` → **`அளிப்பதாக`**. Scan 48 corrected source spelling `அக்ரமம்` → **`அகரமம்`**. Scan 49 corrected `மாசுமறுவற்ற` → **`மாசமறுவற்ற`**. Scan 50 required no correction;
 - scans 51–55: PASS. Scan 52 corrected `குபுகுபு` → **`குபு குபு`**, `அவங்களுக்கேதான்` → **`அவங்களுக்கே தான்`**, both `பாலூர்` occurrences → **`பாலையூர்`**, and `பாலூர் மருத்துவமனையில்` → **`பாலையூர் மருத்துவ மனையில்`**. Scan 54 corrected `விரும்பினான்` → **`விரும்பினன்`** and `இந்த மனத் தத்துவத்தை` → **`இந்த மன தத்துவத்தை`**. Scan 55 corrected `மருத்துவமனையிலிருந்து` → **`மருத்துவ மனையிலிருந்து`**. Scans 51 and 53 required no canonical correction;
-- scans 56–60: PASS. Scan 56 corrected `எடுத்துக்காட்டும்` → **`எடுத்துக் காட்டும்`** and `பொறுத்துக்கொள்ள` → **`பொறுத்துக் கொள்ள`**. Scan 57 corrected `நிலைநாட்டும்` → **`நிலநாட்டும்`**. Scan 58 corrected `மருத்துவமனையில்` → **`மருத்துவ மனையில்`** and `இந்தச் சொல்மட்டும்` → **`இந்த சொல்மட்டும்`**. Scan 59 required no canonical correction. Scan 60 corrected `அருகிலேயிருந்தது` → **`அருகிலே இருந்தது`**.
+- scans 56–60: PASS. Scan 56 corrected `எடுத்துக்காட்டும்` → **`எடுத்துக் காட்டும்`** and `பொறுத்துக்கொள்ள` → **`பொறுத்துக் கொள்ள`**. Scan 57 corrected `நிலைநாட்டும்` → **`நிலநாட்டும்`**. Scan 58 corrected `மருத்துவமனையில்` → **`மருத்துவ மனையில்`** and `இந்தச் சொல்மட்டும்` → **`இந்த சொல்மட்டும்`**. Scan 59 required no canonical correction. Scan 60 corrected `அருகிலேயிருந்தது` → **`அருகிலே இருந்தது`**;
+- scans 61–65: **PASS / 5 OF 5 COMPLETE; no canonical text correction required**. Representative source confirmations include scan 61 `நயினா` / `நயினாவின்` (`னா`) and `உனக்கில்லை` (`லை`); scan 62 `நயினா` (`னா`) / `இல்லை` (`லை`) with genuine source `பொய்தானு` and `பேசினன்`; scan 63 `மாப்பிள்ளை` (`ளை`), `திருமணமானவள்` (`ணா`), `நியாயமில்லை` (`லை`), repeated `நயினா` (`னா`), with genuine `நோக்கினன்`; scan 64 `மாறிவிடுவதா` / `காப்பாற்றுவேன்` (`றா`), `அவளை` (`ளை`), `நிலைநாட்டுவேன்` / `நிறைவேறவில்லை` (`லை`), `நயினா` (`னா`); scan 65 `அவனைப்` (`னை`), repeated `நயினா` (`னா`), and `திருப்பினாள்` (`னா`).
 
 Scan 45 is the mixed Chapter 4 / Chapter 5 boundary with centered source heading `5`. Scan 52 is the source-printed Chapter 6 opening with centered `6`. Scan 59 is the mixed Chapter 6 / Chapter 7 boundary with centered `7`.
 
@@ -46,10 +47,10 @@ Identify character identity from enlarged/native source pixels first. Grammar ma
 
 Confirmed corrective examples in scans 102–111 include `நன்றுகக்` → `நன்றாகக்`, `என்றுள்` → `என்றாள்`, missing-`ஆ` corrections such as `திமிறினன்` → `திமிறினான்`, `சொன்னு` → `சொன்னா`, and `பெண்ணு?` → `பெண்ணா?`. Nearby forms must still be decided independently.
 
-Preserve confirmed counterexamples and source-specific forms, especially scan 23 `வயதினள்`, scan 17 `வேலையில்ல`, scan 19 `வந்துவிட்டானு`, scan 21 `வரணும்`, scan 45 `தடுத்தான?`, scan 48 `அகரமம்`, scan 50 `ஏமுட்டான்` / `புறப்படடா`, scan 53 `பருவத்தினள்`, scan 54 `விரும்பினன்`, and scan 55 `வேறுயிற்றே` / `பேசினர்கள்`.
+Preserve confirmed counterexamples and source-specific forms, especially scan 23 `வயதினள்`, scan 17 `வேலையில்ல`, scan 19 `வந்துவிட்டானு`, scan 21 `வரணும்`, scan 45 `தடுத்தான?`, scan 48 `அகரமம்`, scan 50 `ஏமுட்டான்` / `புறப்படடா`, scan 53 `பருவத்தினள்`, scan 54 `விரும்பினன்`, scan 55 `வேறுயிற்றே` / `பேசினர்கள்`, scan 62 `பொய்தானு` / `பேசினன்`, and scan 63 `நோக்கினன்`.
 
 ## Exact next activity
 
-Perform the **retrospective historical-glyph re-audit of scans 61–65** as the next 5-scan iteration. Synchronize page records/audit/status documents and commit only positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
+Perform the **retrospective historical-glyph re-audit of scans 66–70** as the next 5-scan iteration. Synchronize page records/audit/status documents and commit only positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
 
 Do not start assembled Tamil or English.

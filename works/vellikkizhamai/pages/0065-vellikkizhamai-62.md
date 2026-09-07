@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 நீங்கள் காத்திருக்கத் தேவையில்லை! ஊருக்குப் புறப்படலாம்!” என்று பீடிகை போட்டான்.
@@ -22,12 +22,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “ஹார்லிக்ஸ் கொடுங்கள்!” என்று டாக்டர்கள் சிபார்சு செய்தனர். அவசர அவசரமாக டைகர் ‘ஹார்லிக்ஸ்’ தயாரித்து, அதை ஆனந்தியின் உதட்டருகே
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native source resolution; full mandatory historical-glyph set checked.
-- All occurrences of the recurring name are encoded as `நயினா` after historical `னா` review.
-- Source forms `விழிச்சாச்சு`, `டைகர்மட்டுமே`, `அக்ரமக்காரன்`, `இரக்க சுபாவமுடையவள்`, and quoted `ஹார்லிக்ஸ்` are preserved.
-- No unresolved source cluster remains.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `அவனைப்` (`னை`), repeated `நயினா` / `நயினாவும்` (`னா`), and `திருப்பினாள்` (`னா`).
+- Source-specific `விழிச்சாச்சு`, `டைகர்மட்டுமே`, and `அக்ரமக்காரன்` remain unchanged.
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -37,5 +38,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **64**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 65; அச்சுப் பக்கம்: 64 -->
