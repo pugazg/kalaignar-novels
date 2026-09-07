@@ -16,7 +16,7 @@
 - Chapter 13 transcribed through scan 111 / printed 110;
 - **historical-glyph work-level gate: REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–90; pending scans 91–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–95; pending scans 96–101**;
 - forward scan 112: **paused**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
@@ -91,6 +91,17 @@ Character identity is decided from enlarged/native source pixels first. Grammar 
 - scan 89 ends physical `மறுத்துவிட்`; scan 90 begins `டால்`;
 - scan 90 `மாறினள்` and `கத்தினள்` were independently checked from source pixels and retained rather than grammar-normalized.
 
+### Scans 91–95
+
+**PASS / 5 OF 5 COMPLETE.**
+
+- scan 91: mandatory-family `கருதினலும்` → **`கருதினாலும்`** (`னா`); source spacing `உதவிபுரிவதுபோல` → **`உதவி புரிவதுபோல`**;
+- scans 92–95: no canonical correction;
+- scan 92 retains genuine `நீட்டினன்`, `துரிதப்படுத்தினன்`, `அமர்த்தினன்` and the centered Chapter `11` boundary;
+- scan 93 retains genuine `பொத்தினன்`;
+- scan 94 retains `தொடங்கினார்`, `புறக்கப்போகிறேன்`;
+- scan 95 retains genuine `தொடங்கினள்`, source `பயந்தோடிக்`, and `முக்கிய வாசிக் கதை`.
+
 ## Why the historical-glyph gate remains reopened
 
 The earlier pass sometimes treated old Tamil metal-type shapes as modern look-alikes. Corrective scans **102–111** demonstrated the failure mode with confirmed corrections including `நன்றாகக்`, `தவறாக`, `என்றாள்`, multiple missing-`ஆ` forms, `சொன்னா`, and `பெண்ணா?`. No blanket morphological correction is permitted; nearby forms must be independently source-checked.
@@ -125,7 +136,10 @@ The earlier pass sometimes treated old Tamil metal-type shapes as modern look-al
 - scan 88 `நானு` genuine;
 - scan 89 / 90 physical split `மறுத்துவிட்` + `டால்`;
 - scan 90 `மாறினள்`, `கத்தினள்` genuine source forms;
-- scan 92 mixed Chapter 10 / 11 with centered `11`;
+- scan 91 `கருதினாலும்` (`னா`) and source spacing `உதவி புரிவதுபோல`;
+- scan 92 mixed Chapter 10 / 11 with centered `11`; `நீட்டினன்`, `துரிதப்படுத்தினன்`, `அமர்த்தினன்` genuine;
+- scan 93 `பொத்தினன்` genuine;
+- scan 95 `தொடங்கினள்` genuine;
 - scan 98 bottom `7` printer/signature mark;
 - scan 99 mixed Chapter 11 / 12 with centered `12`;
 - scan 107 mixed Chapter 12 / 13 with centered `13`;
@@ -140,6 +154,6 @@ The earlier pass sometimes treated old Tamil metal-type shapes as modern look-al
 
 ## Exact next activity
 
-Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 91–95**, synchronize page records and status documents, and continue chronologically until scans 1–101 are cleared. Only then resume forward transcription.
+Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 96–100**, synchronize page records and status documents, and continue chronologically through scan 101. Only then resume forward transcription.
 
 Do not start assembled Tamil or English.

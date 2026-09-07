@@ -12,7 +12,7 @@
 | Chapter map | **direct through Chapter 13 continuation at scan 111** |
 | Historical-glyph work-level gate | **REOPENED** |
 | Corrective historical-glyph re-audit | **PASS scans 102–111** |
-| Retrospective historical-glyph re-audit | **PASS scans 1–90; PENDING scans 91–101** |
+| Retrospective historical-glyph re-audit | **PASS scans 1–95; PENDING scans 96–101** |
 | Forward transcription | **paused at scan 112** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
@@ -192,6 +192,23 @@ Representative direct source checks:
 
 Physical continuity is preserved: scan 89 ends `மறுத்துவிட்`; scan 90 begins `டால்`.
 
+### Scans 91–95
+
+**PASS / 5 OF 5 COMPLETE.** Scans 92–95 required no canonical correction.
+
+| Scan | Earlier canonical | Source-supported | Classification |
+|---:|---|---|---|
+| 91 | `கருதினலும்` | **`கருதினாலும்`** | mandatory `னா` correction |
+| 91 | `உதவிபுரிவதுபோல` | **`உதவி புரிவதுபோல`** | source spacing |
+
+Representative direct source checks:
+
+- scan 91: `கல்யாணத்திற்கு` / `எட்டணா` (`ணா`), `உன்னை` / `வண்டிக்காரனைப்` (`னை`); `மாற்றினன்`, `கூறினன்`, `நிறுத்தினன்` rechecked independently; source-specific `இப்படி யெல்லாம்`, `உள்ளூரப்`, `இடந்தராதேயென்று`, `அவுங்க`, `வண்டிச் சத்தம்` retained;
+- scan 92: `பூரணமாக` (`ணா`), `அவளை` / `கிடப்பவளை` (`ளை`), `தன்னை` (`னை`), `திமிறியவாறே` (`றா`); genuine `நீட்டினன்`, `துரிதப்படுத்தினன்`, `அமர்த்தினன்` retained; centered Chapter `11` preserved;
+- scan 93: `பெண்ணாகப்` (`ணா`), `வளையல்கள்` (`ளை`), `எல்லைமீறிவிட்டது` (`லை`), `அடிக்கின்றாய்` (`றா`); `பொத்தினன்` retained;
+- scan 94: `மாப்பிள்ளை` (`ளை`), `காலை` (`லை`), `மனைவியைப்` (`னை`); `தொடங்கினார்` source-rechecked and retained; source `புறக்கப்போகிறேன்` preserved;
+- scan 95: `வெள்ளிக்கிழமை` / `காட்டிலே` / `நாட்டிலே` (`லை`), `நன்றாக` (`றா`); genuine `தொடங்கினள்` retained; source-specific `நம்ப`, `பயந்தோடிக்`, `முக்கிய வாசிக் கதை` and Ramayana wording preserved.
+
 ## Structural results to preserve
 
 - scan 33: mixed Chapter 3 / 4 with centered `4`;
@@ -212,7 +229,7 @@ Physical continuity is preserved: scan 89 ends `மறுத்துவிட�
 
 ## Unresolved project items
 
-- retrospective historical-glyph re-audit scans **91–101**;
+- retrospective historical-glyph re-audit scans **96–101**;
 - scans **112–179** forward canonical processing;
 - final complete Tamil source audit;
 - assembled Tamil;
@@ -220,4 +237,4 @@ Physical continuity is preserved: scan 89 ends `மறுத்துவிட�
 
 ## Exact next activity
 
-Do **not** resume forward transcription yet. Process **scans 91–95** as the next retrospective 5-scan historical-glyph audit batch. Correct only positively source-supported identities or ordinary source mismatches, synchronize page/status documents, then continue chronologically through scan 101.
+Do **not** resume forward transcription yet. Process **scans 96–100** as the next retrospective 5-scan historical-glyph audit batch. Correct only positively source-supported identities or ordinary source mismatches, synchronize page/status documents, then finish scan 101 before resuming forward work.

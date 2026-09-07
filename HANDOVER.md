@@ -23,7 +23,7 @@ Fetch live `main` first and preserve newer durable work.
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–90; PENDING scans 91–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–95; PENDING scans 96–101**;
 - forward transcription at scan 112: **paused**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
@@ -56,7 +56,8 @@ Corrective scans 102–111 remain controlling for the known failure mode, includ
 - **71–75:** PASS; no canonical correction; scan 75 is the mixed Chapter 8 / 9 boundary with centered `9`.
 - **76–80:** PASS; no historical-family substitution. Scans 76–78 no correction; scan 79 `தனியிலே` → **`தலையிலே`**; scan 80 `கற்பமாக` → **`கர்ப்பமாக`**.
 - **81–85:** PASS with five source-supported corrections: scan 81 `கண்ணி கழியாத` → **`கன்னி கழியாத`**; scan 82 `பின்னர்ப் பிறிட்டு` → **`பின்னர் பீறிட்டு`**; scan 83 `திருமணம்?` → **`திருமணமா?`** (`ணா`); scan 84 `துணியமுடியுமா?` → **`துணிய முடியுமா?`**; scan 85 `மருத்துவ மனைின்` → **`மருத்துவ மனையின்`** (`னை`). Scan 82 bottom standalone `6` remains a printer/signature mark; scan 85 is the mixed Chapter 9 / 10 boundary with centered `10`.
-- **86–90:** **PASS / 5 OF 5 COMPLETE.** Scan 86 ordinary source corrections `அனேகமாக` → **`அநேகமாக`**, `முடிபுமுற்றுவிட்டது` → **`முடிவு முற்றுவிட்டது`**, `பூர்த்திசெய்து` → **`பூர்த்தி செய்து`**. Scan 87 corrected `கேட்டதுபோல்` → **`கேட்டதுபோல`** and mandatory historical-family `மாறுக` → **`மாறாக`** (`றா`). Scans 88–90 required no canonical correction. Scan 88 source `நானு` remains exact. Scan 89 retains the physical ending `மறுத்துவிட்`; scan 90 begins `டால்`. Scan 90 `மாறினள்` and `கத்தினள்` were independently source-pixel checked and retained, not normalized to `மாறினாள்` / `கத்தினாள்`.
+- **86–90:** PASS. Scan 86 ordinary source corrections `அனேகமாக` → **`அநேகமாக`**, `முடிபுமுற்றுவிட்டது` → **`முடிவு முற்றுவிட்டது`**, `பூர்த்திசெய்து` → **`பூர்த்தி செய்து`**. Scan 87 corrected `கேட்டதுபோல்` → **`கேட்டதுபோல`** and mandatory historical-family `மாறுக` → **`மாறாக`** (`றா`). Scans 88–90 required no canonical correction. Scan 88 `நானு` remains exact; scan 89 ends `மறுத்துவிட்`; scan 90 begins `டால்`; scan 90 `மாறினள்` and `கத்தினள்` remain source-exact.
+- **91–95:** **PASS / 5 OF 5 COMPLETE.** Scan 91 corrected mandatory-family `கருதினலும்` → **`கருதினாலும்`** (`னா`) and source spacing `உதவிபுரிவதுபோல` → **`உதவி புரிவதுபோல`**. Scans 92–95 required no canonical correction. Preserve scan 92 `நீட்டினன்`, `துரிதப்படுத்தினன்`, `அமர்த்தினன்` and centered Chapter `11`; scan 93 `பொத்தினன்`; scan 94 `தொடங்கினார்`, `புறக்கப்போகிறேன்`; scan 95 `தொடங்கினள்`, `பயந்தோடிக்`, `முக்கிய வாசிக் கதை`.
 
 ## Preserve these structural/source decisions
 
@@ -94,7 +95,11 @@ Corrective scans 102–111 remain controlling for the known failure mode, includ
 - scan 88 `நானு` genuine source form;
 - scan 89 ends physical `மறுத்துவிட்`; scan 90 begins `டால்`;
 - scan 90 `மாறினள்`, `கத்தினள்` remain source-exact;
-- scan 92 mixed Chapter 10 / 11 with centered `11`;
+- scan 91 `கருதினாலும்` (`னா`), `உதவி புரிவதுபோல`;
+- scan 92 mixed Chapter 10 / 11 with centered `11`; `நீட்டினன்`, `துரிதப்படுத்தினன்`, `அமர்த்தினன்` genuine;
+- scan 93 `பொத்தினன்` genuine;
+- scan 94 `புறக்கப்போகிறேன்` preserved;
+- scan 95 `தொடங்கினள்`, `பயந்தோடிக்`, `முக்கிய வாசிக் கதை` preserved;
 - scan 98 bottom standalone `7` printer/signature mark;
 - scan 99 mixed Chapter 11 / 12 with centered `12`;
 - scan 107 mixed Chapter 12 / 13 with centered `13`;
@@ -106,11 +111,11 @@ Forward transcription remains paused.
 
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. perform retrospective historical-glyph audit of **scans 91–95** as the next 5-scan iteration;
+3. perform retrospective historical-glyph audit of **scans 96–100** as the next 5-scan iteration;
 4. explicitly test all 13 mandatory families on source pixels;
 5. correct only positively source-supported character identities or ordinary source-text mismatches; never infer from grammar and never global-replace;
 6. synchronize page records, page-map, audit, README/status/handover documents and commit;
-7. continue retrospectively in 5-scan order through scan 101;
+7. finish the remaining retrospective scan **101**;
 8. only after scans 1–101 are cleared, resume forward transcription at scan 112.
 
 Do not start assembled Tamil or English.
