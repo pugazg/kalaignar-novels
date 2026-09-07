@@ -9,53 +9,66 @@
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Current state: **106 / 179 canonical records, all 106 verified; historical-glyph PASS through scan 106.** User-directed cadence: **5 physical scans per iteration**.
+Fetch live `main` first and preserve newer durable work.
 
 ## Controlling source
 
 `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-256 `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`, **251,126,214 bytes**, **179 scans**, image-only, second edition 1968. Do not commit PDF.
 
-## Durable state
+## Current durable state after corrective glyph work
 
 - manifest **179 / 179**;
-- canonical **106 / 179, all verified**;
-- Chapter 10/11 boundary: scan 92 / printed 91;
-- Chapter 11/12 boundary: scan 99 / printed 98;
-- Chapter 12 verified through scan 106 / printed 105;
-- historical-glyph checks: **PASS through scan 106**;
-- full Tamil audit / assembled Tamil / English: **not started / not started / blocked**.
+- canonical records **111 / 179**;
+- Chapter 12/13 boundary: **scan 107 / printed 106**, centered `13`;
+- Chapter 13 transcribed through **scan 111 / printed 110**;
+- historical-glyph work-level gate: **REOPENED**;
+- corrective historical-glyph re-audit: **PASS scans 102–111**;
+- retrospective historical-glyph audit: **PENDING scans 1–101**;
+- full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
-## Do not regress
+## Critical process correction
+
+The previous historical-glyph pass was not applied correctly in several places. Old metal-type shapes were sometimes retained as their modern visual look-alikes instead of being decoded to their actual character identities, contrary to `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+
+Confirmed corrections now made in scans 102–111 include:
+
+- scan 102 `ஆட்டினள்` → `ஆட்டினாள்`;
+- scan 103 `நன்றுகக்` → `நன்றாகக்`; `கத்தினள்` → `கத்தினாள்`;
+- scan 104 `கூறினள்` → `கூறினாள்`;
+- scan 106 `திருப்பினள்` → `திருப்பினாள்`; `என்றுள்` → `என்றாள்`; `நன்றுகக்` → `நன்றாகக்`; `தவறுக` → `தவறாக`;
+- scan 107 `கூறினள்` → `கூறினாள்`; `கொட்டினன்` → `கொட்டினான்`; `என்றுள்` → `என்றாள்`; `ஓடினன்` → `ஓடினான்`; `ஓடினர்கள்` → `ஓடினார்கள்`;
+- scan 108 `திமிறினன்` → `திமிறினான்`; `நடுங்கினள்` → `நடுங்கினாள்`;
+- scan 109 `சொன்னு` → `சொன்னா`; `பொய்தானு?` → `பொய்தானா?`;
+- scan 110 `பெண்ணு?` → `பெண்ணா?`.
+
+No global replacement was used. Nearby apparent forms must be decided independently. Scan 109 `கூறினன்` / `சொன்னன்` and scan 110 `புளுகினன்` were rechecked and retained.
+
+## Preserve these structural/source decisions
 
 - recurring name **`நயினா`**, not `நயினு`;
-- scan 66 page number source-visible **`5`**;
-- scan 96 `வெளித்தாவரத்திலே`;
+- scan 66 visible page number is **`5`**, never infer `65`;
 - scan 98 bottom standalone `7` is a printer/signature mark, not a chapter heading;
-- scan 99 mixed Chapter 11/12 boundary with centered `12`;
-- scan 102 `கண்கொட்டாமல்`, `அடைத்துக்கொள்வானேன்?`, `ஆட்டினள்`;
-- scan 103 `என்னால் உங்களுக்கு வீண் சிரமம்`; `அவள் டாக்டர்! அதனால் அதைக் கண்டுபிடித்துவிட்டாள்.`;
-- scan 104 `விபத்தினில்`;
-- scan 105 `விஷங்கலக்கலாம்`;
-- scan 106 `தவறுக சந்தேகப்பட்டுவிட்டேன்` and final `அவள் கண்களில்`.
-
-## Completed 5-page batch — scans 102–106
-
-All five scans passed direct visual transcription and the 13-family historical-glyph gate. Printed pages 101–105 were inspected directly. Physical continuities: scan 101 `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி` → scan 102 `புரண்டு படுத்தாள்`; scan 103 `சொல்லு` → scan 104 `கிறேன்`; scan 105 `உன்` → scan 106 `சௌந்தர்யம்!`; scan 106 ends `அவள் கண்களில்`, continuing to scan 107. No unresolved source cluster remains.
+- scan 99 is mixed Chapter 11 / Chapter 12 with centered `12`;
+- scan 107 is mixed Chapter 12 / Chapter 13 with centered `13`;
+- scan 111 ends physical `சிறிதா`; scan 112 begins source-visible `வது`, forming `சிறிதாவது` across the page boundary.
 
 ## Exact next activity
 
-1. re-fetch live `main`;
-2. resolve controlling PDF;
-3. process **scans 107–111** in one 5-scan iteration;
-4. inspect printed numbers directly and preserve physical boundaries;
-5. apply historical-glyph gate page by page;
-6. synchronize page-map/audit/status docs, commit, verify live `main`;
-7. stop after scan 111 unless explicitly instructed farther.
+Forward transcription is paused until the earlier historical-glyph coverage is trustworthy.
 
-Do not start assembled Tamil or English. Do not reopen completed prior novels.
+1. re-fetch live `main`;
+2. resolve the controlling PDF;
+3. perform retrospective historical-glyph audit of **scans 1–5** as one 5-scan iteration;
+4. explicitly test all 13 families on source pixels;
+5. correct only positively supported character identities; never infer from grammar alone and never global-replace;
+6. synchronize audit/status docs and commit;
+7. continue retrospectively in 5-scan order until scans 1–101 are cleared;
+8. only then resume forward transcription at scan 112.
+
+Do not start assembled Tamil or English.
 
 ## Completed works — preserve
 
-- **பெரிய இடத்துப் பெண்**: 49/49 source-comparison coverage; assembled Tamil PASSED; English VERIFIED; release-ready with canonical-Tamil verification qualification.
-- **புதையல்**: 448/448 canonical; 446 complete; scans 223–224 physical-loss `needs-review`; English VERIFIED; release-ready with qualification.
-- **பலிபீடம் நோக்கி**: Tamil 34/34 verified; assembled Tamil PASSED; English VERIFIED; archival package RELEASE-READY.
+- **பெரிய இடத்துப் பெண்**: source audit complete; assembled Tamil PASSED; English VERIFIED; release-ready with qualification.
+- **புதையல்**: 448 canonical / 446 complete / 2 physical-loss `needs-review`; English VERIFIED; release-ready with qualification.
+- **பலிபீடம் நோக்கி**: Tamil 34/34 verified; assembled Tamil PASSED; English VERIFIED; release-ready.
