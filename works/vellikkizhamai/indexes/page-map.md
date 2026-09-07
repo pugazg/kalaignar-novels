@@ -10,7 +10,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - body transcription: **through scan 111**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–25; PENDING scans 26–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–30; PENDING scans 31–101**;
 - scans 62–65 directly map to printed pages **61–64**;
 - scan 66 visibly prints only **`5`**; `65` is not inferred;
 - scans 67–111 directly map to printed pages **66–110**;
@@ -22,9 +22,9 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 
 ## Historical-glyph gate reopening
 
-The earlier work-level PASS remains withdrawn pending full retrospective review because old metal-type identities were misread in several records. Scans **1–25** and **102–111** have now been source-pixel re-audited. Scans **26–101** remain to be retrospectively audited before forward work resumes.
+The earlier work-level PASS remains withdrawn pending full retrospective review because old metal-type identities were misread in several records. Scans **1–30** and **102–111** have now been source-pixel re-audited. Scans **31–101** remain to be retrospectively audited before forward work resumes.
 
-Scan 4 also received one separate ordinary source-fidelity correction: `பெருகிடுகிறது` → `பெருகிவிடுகிறது`. This is not a historical-glyph substitution. Scans 6–25 required no canonical text correction.
+Scan 4 also received one separate ordinary source-fidelity correction: `பெருகிடுகிறது` → `பெருகிவிடுகிறது`. This is not a historical-glyph substitution. Scans 6–30 required no canonical text correction.
 
 ## Confirmed chapter structure
 
@@ -69,11 +69,11 @@ Scan 4 also received one separate ordinary source-fidelity correction: `பெ�
 | 23 | 22 | body / chapter opening | verified | Chapter 3 opening; retrospective glyph audit PASS (`றா`, `லை`, `னை` confirmed); `வயதினள்` retained as genuine `னள்` |
 | 24 | 23 | body | verified | Chapter 3; retrospective glyph audit PASS (`னை`, `ணை`, `றா`, `ளை` confirmed) |
 | 25 | 24 | body | verified | Chapter 3; retrospective glyph audit PASS (`லை`, `றோ`, `னா`, `ளை` confirmed) |
-| 26 | 25 | body | verified | Chapter 3; retrospective glyph audit pending |
-| 27 | 26 | body | verified | Chapter 3; final question continues to scan 28; retrospective glyph audit pending |
-| 28 | 27 | body | verified | Chapter 3; ends `விஷயத்தை வெளி`; retrospective glyph audit pending |
-| 29 | 28 | body | verified | Chapter 3; begins `யில் சொல்லாதே...`; retrospective glyph audit pending |
-| 30 | 29 | body | verified | Chapter 3; earlier `தேவனைப்` `னை` check; retrospective glyph audit pending |
+| 26 | 25 | body | verified | Chapter 3; retrospective glyph audit PASS (`ணை`, `லை`, `றா`, `னா`, `ளை` confirmed) |
+| 27 | 26 | body | verified | Chapter 3; retrospective glyph audit PASS (`ணை`, `ணோ`, `னா`, `ளை`, `லை` confirmed); final question continues to scan 28 |
+| 28 | 27 | body | verified | Chapter 3; retrospective glyph audit PASS (`னை`, `லை`, `னா`, `றா`, `ளை` confirmed); ends `விஷயத்தை வெளி` |
+| 29 | 28 | body | verified | Chapter 3; retrospective glyph audit PASS (`றா`, `னை`, `னா`, `லை` confirmed); begins `யில் சொல்லாதே...` |
+| 30 | 29 | body | verified | Chapter 3; retrospective glyph audit PASS (`னை`, `ணொ`, `றா`, `னா`, `லை` confirmed); `பெண்ணொருத்தி` `ணொ` source-confirmed |
 | 31 | 30 | body | verified | Chapter 3; ends `மூன்றாவது`; retrospective glyph audit pending |
 | 32 | 31 | body | verified | Chapter 3; begins `ஆள் வேம்பு!`; retrospective glyph audit pending |
 | 33 | 32 | body / chapter boundary | verified | Mixed Chapter 3 / Chapter 4; centered `4`; retrospective glyph audit pending |
@@ -226,4 +226,4 @@ Scan 4 also received one separate ordinary source-fidelity correction: `பெ�
 
 ## Exact next activity
 
-Perform **retrospective historical-glyph audit scans 26–30** as the next 5-scan iteration. Forward scans 112–116 remain paused until scans 1–101 are retrospectively cleared.
+Perform **retrospective historical-glyph audit scans 31–35** as the next 5-scan iteration. Forward scans 112–116 remain paused until scans 1–101 are retrospectively cleared.

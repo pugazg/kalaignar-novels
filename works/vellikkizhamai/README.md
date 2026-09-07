@@ -18,7 +18,7 @@
 - Chapter 13 transcribed through scan 111 / printed 110;
 - **historical-glyph work-level gate: REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–25; pending scans 26–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–30; pending scans 31–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective batch — scans 1–5
@@ -89,6 +89,20 @@ All five scans were re-inspected directly against the complete 13-family set. No
 
 No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 21–25.
 
+## Retrospective batch — scans 26–30
+
+**Result: HISTORICAL-GLYPH PASS / 5 OF 5 COMPLETE.**
+
+All five scans were re-inspected directly against the complete 13-family set. No canonical text correction was required in this batch.
+
+- scan 26: `பெண்ணை` (`ணை`), `வேலைக்கார` (`லை`), `நடத்துகிறாளே` (`றா`), `ஆரம்பித்தான்` / `கிண்டினான்` (`னா`), `வளைத்து` (`ளை`) confirmed;
+- scan 27: `பண்ணையிருக்கே` / `பண்ணைக்காரரைக்கூட` / `பண்ணையிலேயிருந்து` (`ணை`), `காணோமே` (`ணோ`), `ஓடிவந்தான்` (`னா`), `அம்மாளை` (`ளை`), `இல்லை` (`லை`) confirmed;
+- scan 28: `என்னை` (`னை`), `வலைவீசி` / `படவில்லை` (`லை`), `கட்டினான்` / `மாட்டினான்` (`னா`), `நின்றார்` (`றா`), `சாவுக்களை` (`ளை`) confirmed;
+- scan 29: `வரவேற்றாள்` (`றா`), `தன்னைப்` / `அவனை` (`னை`), `நம்பினாள்` / `அழுதான்` (`னா`), `முடியவில்லை` (`லை`) confirmed;
+- scan 30: `இத்தனை` / `தேவனைப்` (`னை`), `பெண்ணொருத்தி` (`ணொ`), `அலறினாள்` (`றா`, `னா`), `கவலைப்படாதே` (`லை`), `நான்தான்` (`னா`) confirmed.
+
+The uncommon `ணோ` in `காணோமே` and `ணொ` in `பெண்ணொருத்தி` were explicitly resolved from source pixels. No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 26–30.
+
 ## Why the historical-glyph gate was reopened
 
 The previous pass incorrectly treated several historical Tamil typeforms as their modern visual look-alikes. The guide requires the opposite: identify the historical character first, then encode that identity in Unicode. Confirmed corrections already applied in scans 102–111 include `நன்றுகக்` → `நன்றாகக்`, `தவறுக` → `தவறாக`, `என்றுள்` → `என்றாள்`, multiple missing-`ஆ` forms, `சொன்னு` → `சொன்னா`, and `பெண்ணு?` → `பெண்ணா?`.
@@ -108,4 +122,4 @@ Use root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Every older-print page
 
 ## Exact next activity
 
-Keep forward scans 112–116 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 26–30**, synchronize status documents, and continue chronologically until scans 1–101 are cleared.
+Keep forward scans 112–116 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 31–35**, synchronize status documents, and continue chronologically until scans 1–101 are cleared.

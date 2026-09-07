@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “பறிக்காத செந்தாமரைப் புஷ்பம்போல் இருந்த உன் முகத்திலே—எப்படித்தான் இவ்வளவு களங்கக் கீறல்கள் விழுந்ததோ தெரியவில்லை...பால் நிலவு உன் முகம் என்று பாராட்டித் திரிவேனே; அந்த நிலவு இப்படியா தேய்ந்து விடுவது?”
@@ -26,15 +26,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “கவலைப்படாதே! இந்த சேதி இனி என்னைத்தவிர வேறு யாருக்கும் தெரியாது. பெண்ணொருத்தி தனியாக இருந்ததால் அல்லவா அந்தத் தேவனின் திமிராட்டத்திற்கு இடங்கொடுத்துவிட்டது! இனி நான்தான் உனக்கும் உன் கற்புக்கும் காவல்!” எனக் கண்ணீர் விட்டபடி—தேம்பித் தேம்பி அழுதபடி—ஆனந்தியின் கரங்களை எடுத்துத் தன் கன்னங்களிலே பொத்திக்கொண்டான். ஆனந்தியை இப்போது தாட்சண்யம் வந்து அடிமையாக்கிக் கொண்டது.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- `தேவனைப்` was directly cleared as the historical `னை` family rather than a modern-shape look-alike; `அலறினாள்` was also checked for `றா` / `னா` identities.
-- Source-specific `பாவையுந்தன்`, `அல்லாடுகிறார்கள்`, `பிரக்ஞை`, and `தாட்சண்யம்` are preserved as printed.
-- Later pen/pencil/underline marks were excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed directly from source pixels: `இத்தனை` / `தேவனைப்` (`னை`), `பெண்ணொருத்தி` (`ணொ`), `அலறினாள்` (`றா`, `னா`), `கவலைப்படாதே` (`லை`), and `நான்தான்` (`னா`).
+- The comparatively uncommon `ணொ` identity in `பெண்ணொருத்தி` was explicitly resolved from the printed source cluster; it was not inferred from grammar or modern spelling expectation.
+- Source-specific `பாவையுந்தன்`, `அல்லாடுகிறார்கள்`, `பிரக்ஞை`, and `தாட்சண்யம்` remain exactly as printed.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Page-boundary continuity
 
@@ -43,5 +41,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **29**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 30; அச்சுப் பக்கம்: 29 -->

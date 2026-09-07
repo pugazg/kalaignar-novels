@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 யில் சொல்லாதே என்று கேட்டுக்கொண்டார்கள். நான் இப்போது உன் காலிலே விழுந்து கேட்டுக்கொள்ளுகிறேன்; காதை சுத்தமாகக் கழுவிவிடு!”
@@ -28,15 +28,12 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “என்ன சொல்கிறீர்கள்? என் முகம் பயங்கரமாக இருக்கிறதா?”
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- Representative source-sensitive forms checked directly include `வரவேற்றாள்` (`றா` family), `நம்பினாள்` (`னா` family), and `தன்னைப்` / `அவனை` (`னை` family).
-- Source wording including `என்றும்போல்`, `பால்ய சிநேகிதன்`, `வெள்ளாடுகளே—புள்ளிமான்களைக்`, `பாசந்தான்`, and `என்றைக்குமில்லாத` is preserved without lexical repair.
-- Later pen/pencil/underline marks were excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed directly from source pixels: `வரவேற்றாள்` (`றா`), `தன்னைப்` / `அவனை` (`னை`), `நம்பினாள்` / `அழுதான்` (`னா`), and `முடியவில்லை` (`லை`).
+- Source wording including `என்றும்போல்`, `பால்ய சிநேகிதன்`, `வெள்ளாடுகளே—புள்ளிமான்களைக்`, `பாசந்தான்`, and `என்றைக்குமில்லாத` remains exactly as printed.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Page-boundary continuity
 
@@ -46,5 +43,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **28**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 29; அச்சுப் பக்கம்: 28 -->

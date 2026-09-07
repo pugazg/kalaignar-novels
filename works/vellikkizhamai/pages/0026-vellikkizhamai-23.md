@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 தான். ஊரார் கைதேர்ந்தவள்—கனிவு மிக்கவள் என்று பாராட்டுகிறார்கள். நோயாளிகளோ அவள் தரும் மருந்தாலும், அதைவிட மேலான அன்புப் பணியாலும் நலிவு நீங்கி வாழ்த்துகின்றனர்.
@@ -22,15 +22,12 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “எப்படிடா வேம்பு—எப்படி?”
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- Source-specific `வெண்புர`, `கைகாரி`, `கிண்டினான்`, `அப்படிங்கிற`, and colloquial dialogue forms are retained from source pixels.
-- The `சூடேற்ற` cluster was checked directly at enlarged resolution.
-- Later pen/underline marks were excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed directly from source pixels: `பெண்ணை` (`ணை`), `வேலைக்கார` (`லை`), `நடத்துகிறாளே` (`றா`), `ஆரம்பித்தான்` / `கிண்டினான்` (`னா`), and `வளைத்து` (`ளை`).
+- Source-specific `வெண்புர`, `கைகாரி`, `அப்படிங்கிற`, and other colloquial forms remain exactly as printed; the `சூடேற்ற` cluster was also rechecked.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Page-boundary continuity
 
@@ -39,5 +36,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **25**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 26; அச்சுப் பக்கம்: 25 -->

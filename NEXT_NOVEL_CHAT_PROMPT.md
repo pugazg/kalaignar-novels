@@ -16,10 +16,10 @@ Resolve `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-25
 - Chapter 13 transcribed through scan 111 / printed 110;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–25; PENDING scans 26–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–30; PENDING scans 31–101**;
 - forward transcription at scan 112 is paused until retrospective coverage is cleared.
 
-## Retrospective results — scans 1–25
+## Retrospective results — scans 1–30
 
 ### Scans 1–5
 
@@ -75,6 +75,18 @@ All five scans passed direct source-pixel review against the complete 13-family 
 
 No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 21–25.
 
+### Scans 26–30
+
+All five scans passed direct source-pixel review against the complete 13-family set. No canonical text correction was required.
+
+- scan 26: `பெண்ணை` (`ணை`), `வேலைக்கார` (`லை`), `நடத்துகிறாளே` (`றா`), `ஆரம்பித்தான்` / `கிண்டினான்` (`னா`), `வளைத்து` (`ளை`) confirmed;
+- scan 27: `பண்ணையிருக்கே` / `பண்ணைக்காரரைக்கூட` / `பண்ணையிலேயிருந்து` (`ணை`), `காணோமே` (`ணோ`), `ஓடிவந்தான்` (`னா`), `அம்மாளை` (`ளை`), `இல்லை` (`லை`) confirmed;
+- scan 28: `என்னை` (`னை`), `வலைவீசி` / `படவில்லை` (`லை`), `கட்டினான்` / `மாட்டினான்` (`னா`), `நின்றார்` (`றா`), `சாவுக்களை` (`ளை`) confirmed;
+- scan 29: `வரவேற்றாள்` (`றா`), `தன்னைப்` / `அவனை` (`னை`), `நம்பினாள்` / `அழுதான்` (`னா`), `முடியவில்லை` (`லை`) confirmed;
+- scan 30: `இத்தனை` / `தேவனைப்` (`னை`), `பெண்ணொருத்தி` (`ணொ`), `அலறினாள்` (`றா`, `னா`), `கவலைப்படாதே` (`லை`), `நான்தான்` (`னா`) confirmed.
+
+The uncommon `ணோ` in scan 27 `காணோமே` and `ணொ` in scan 30 `பெண்ணொருத்தி` were explicitly resolved from source pixels. No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 26–30.
+
 ## Critical historical-glyph rule
 
 The earlier pass sometimes treated old Tamil metal-type shapes as modern look-alikes instead of decoding the historical character identity first. Mandatory set:
@@ -87,6 +99,6 @@ Confirmed corrective examples in scans 102–111 include `நன்றுகக�
 
 ## Exact next activity
 
-Perform the **retrospective historical-glyph re-audit of scans 26–30** as the next 5-scan iteration. Synchronize page records/audit/status documents and commit only positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
+Perform the **retrospective historical-glyph re-audit of scans 31–35** as the next 5-scan iteration. Synchronize page records/audit/status documents and commit only positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
 
 Do not start assembled Tamil or English.
