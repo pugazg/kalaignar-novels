@@ -10,7 +10,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - body transcription: **through scan 111**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–15; PENDING scans 16–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–20; PENDING scans 21–101**;
 - scans 62–65 directly map to printed pages **61–64**;
 - scan 66 visibly prints only **`5`**; `65` is not inferred;
 - scans 67–111 directly map to printed pages **66–110**;
@@ -22,9 +22,9 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 
 ## Historical-glyph gate reopening
 
-The earlier work-level PASS remains withdrawn pending full retrospective review because old metal-type identities were misread in several records. Scans **1–15** and **102–111** have now been source-pixel re-audited. Scans **16–101** remain to be retrospectively audited before forward work resumes.
+The earlier work-level PASS remains withdrawn pending full retrospective review because old metal-type identities were misread in several records. Scans **1–20** and **102–111** have now been source-pixel re-audited. Scans **21–101** remain to be retrospectively audited before forward work resumes.
 
-Scan 4 also received one separate ordinary source-fidelity correction: `பெருகிடுகிறது` → `பெருகிவிடுகிறது`. This is not a historical-glyph substitution. Scans 6–15 required no canonical text correction.
+Scan 4 also received one separate ordinary source-fidelity correction: `பெருகிடுகிறது` → `பெருகிவிடுகிறது`. This is not a historical-glyph substitution. Scans 6–20 required no canonical text correction.
 
 ## Confirmed chapter structure
 
@@ -59,11 +59,11 @@ Scan 4 also received one separate ordinary source-fidelity correction: `பெ�
 | 13 | 12 | body / chapter opening | verified | Chapter 2 opening; retrospective glyph audit PASS (`ளை`, `ணை`, `றோ` confirmed) |
 | 14 | 13 | body | verified | Chapter 2; retrospective glyph audit PASS (`றா`, `லை` confirmed) |
 | 15 | 14 | body | verified | Chapter 2; retrospective glyph audit PASS (`னை`, `னா`, `றா` confirmed) |
-| 16 | 15 | body | verified | Chapter 2; retrospective glyph audit pending |
-| 17 | 16 | body | verified | Chapter 2; retrospective glyph audit pending |
-| 18 | 17 | body | verified | Chapter 2; retrospective glyph audit pending |
-| 19 | 18 | body | verified | Chapter 2; retrospective glyph audit pending |
-| 20 | 19 | body | verified | Chapter 2; retrospective glyph audit pending |
+| 16 | 15 | body | verified | Chapter 2; retrospective glyph audit PASS (`ணா`, `லை`, `ணை`, `னா`, `றோ` confirmed) |
+| 17 | 16 | body | verified | Chapter 2; retrospective glyph audit PASS (`லை`, `னை`, `ணா`, `றா` confirmed); `வேலையில்ல` retained as source final `ல்ல` |
+| 18 | 17 | body | verified | Chapter 2; retrospective glyph audit PASS (`ணா`, `னா`, `லை`, `றா` confirmed) |
+| 19 | 18 | body | verified | Chapter 2; retrospective glyph audit PASS (`ளை`, `றா` confirmed); `வந்துவிட்டானு` retained as genuine final `னு` |
+| 20 | 19 | body | verified | Chapter 2; retrospective glyph audit PASS (`லை`, `றா`, `ணா` confirmed) |
 | 21 | 20 | body | verified | Chapter 2; retrospective glyph audit pending |
 | 22 | 21 | body | verified | Chapter 2 ending; retrospective glyph audit pending |
 | 23 | 22 | body / chapter opening | verified | Chapter 3 opening; retrospective glyph audit pending |
@@ -226,4 +226,4 @@ Scan 4 also received one separate ordinary source-fidelity correction: `பெ�
 
 ## Exact next activity
 
-Perform **retrospective historical-glyph audit scans 16–20** as the next 5-scan iteration. Forward scans 112–116 remain paused until scans 1–101 are retrospectively cleared.
+Perform **retrospective historical-glyph audit scans 21–25** as the next 5-scan iteration. Forward scans 112–116 remain paused until scans 1–101 are retrospectively cleared.

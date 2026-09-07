@@ -30,7 +30,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - **historical-glyph work-level gate REOPENED** after a systematic old-type decoding error was found;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–15; pending scans 16–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–20; pending scans 21–101**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**.
@@ -56,6 +56,14 @@ The third retrospective 5-scan batch is complete. All 13 mandatory historical fa
 Representative confirmations include scan 11 `இத்தனை` (`னை`), `கண்களை` (`ளை`), `துயிலணைமேல்` (`ணை`), `நன்றாகத்` / `என்றாள்` (`றா`); scan 12 `தாமரையானாள்` (`னா`), `நிலையிலுள்ள` / `சேலைக்குக்கூட` / `கிட்டுவதில்லை` (`லை`), `நாள்தோறும்` (`றோ`); scan 13 `பிள்ளைவீடு`, `மாப்பிள்ளை`, `காளை` (`ளை`), `எத்துணை` (`ணை`), `பெற்றோர்களால்` (`றோ`); scan 14 `என்றாள்`, `நின்றாள்` (`றா`) and `நடக்கவில்லையோ` (`லை`); and scan 15 `அர்ச்சுனனை` (`னை`), `கூறினாளாம்` / `தானா?` / `நன்னாள்` (`னா`), `ஒப்பிடுகிறார்களே` (`றா`).
 
 No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was required in scans 11–15.
+
+### Retrospective glyph audit — scans 16–20
+
+The fourth retrospective 5-scan batch is complete. All 13 mandatory historical families were explicitly considered on every scan, and no canonical text correction was required.
+
+Representative confirmations include scan 16 `நாணவேண்டும்` (`ணா`), `கலைக்` / `நீரலைகள்` (`லை`), `அணைப்பை` (`ணை`), `போனாள்` (`னா`), `கொடியன்றோ` / `தோற்றோட` (`றோ`); scan 17 `வெறுத்துவிடுவதில்லை` (`லை`), `அத்தானை` (`னை`), `கல்யாணத்துக்கு` (`ணா`), `போகிறாள்` (`றா`); scan 18 `கல்யாணமானவள்` (`ணா`, `னா`), `காலையிலே` (`லை`), `கக்குகிறாள்` / `என்றாள்` (`றா`); scan 19 `மாப்பிள்ளை` (`ளை`) and `நின்றான்` (`றா`); and scan 20 `கவலைப்படாமல்` (`லை`), `தவிக்கிறான்` / `என்றான்` / `வர்றாங்க` (`றா`), `கல்யாணம்` (`ணா`).
+
+Two high-risk colloquial forms were specifically rechecked rather than normalized: scan 17 `வேலையில்ல` remains genuine final `ல்ல`, and scan 19 `வந்துவிட்டானு` remains genuine final `னு` rather than an old-`னா` misread. No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was required in scans 16–20.
 
 ### Historical-glyph corrective finding
 
@@ -85,7 +93,7 @@ Use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRA
 
 ## Next activity
 
-Continue the retrospective historical-glyph re-audit in the next 5-scan batch: **scans 16–20**. Forward transcription at scan 112 remains paused until scans 1–101 are cleared.
+Continue the retrospective historical-glyph re-audit in the next 5-scan batch: **scans 21–25**. Forward transcription at scan 112 remains paused until scans 1–101 are cleared.
 
 ## Release-status meaning
 

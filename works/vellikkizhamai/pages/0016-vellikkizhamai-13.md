@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 உல்லாசப் படகு—அதில் ஓய்யார கீதம்—கதைகளில் வரும் காதலர்கள்—காட்சிகளில் தோற்றுகின்ற இன்பபுரி வெண்புருக்கள்—அவர்கள் எல்லாம் தோற்றோட நேரிட்டாலும் ஆச்சரியமில்லை. காதல் மகா காவியத்தின் சாகாத பாத்திரங்கள் எனைக் கண்டு நாணவேண்டும். இல்லறத்து விளக்கு இவளன்றோ—இதுவன்றோ நல்ல குடும்பம்—பல கலைக் கழகமெனும் சொல்லுக்கு எடுத்துக்காட்டு என ஊர் முழுவதும் புகழவேண்டும்...
@@ -24,14 +24,12 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 ஆயிரமாயிரம் உணர்ச்சிகளால் தாக்கப்பட்டு மெய் மறந்து போனாள். ஆண்டாளும், ராதாவும் மற்ற தோழிகளும் சிந்தாமணியின் எதிர்கால எழிலோவியத்தைக் கேலித் தூரிகை கொண்டு எழுதிக் காட்டினர். மதுவை வாயிலே ஊற்றும்போது கசப்பாகத்தானிருக்கிறது. சிறிது நேரத்திற்குப் பிறகு அது தரும் இன்ப மயக்கத்தை எண்ணும்
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- Later ticks/pen marks were excluded from canonical printed text.
-- Source-specific `இன்பபுரி வெண்புருக்கள்` is retained as printed rather than normalized from expectation.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source identities confirmed independently: `நாணவேண்டும்` (`ணா`), `கலைக்` / `நீரலைகள்` (`லை`), `அணைப்பை` (`ணை`), `போனாள்` (`னா`), and `கொடியன்றோ` / `தோற்றோட` (`றோ`).
+- Source-specific `இன்பபுரி வெண்புருக்கள்` remains unchanged; the audit did not use lexical expectation to rewrite it.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Page-boundary continuity
 
@@ -41,5 +39,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 - Visible printed page number: **15**.
 - Source-printed three-star separator is retained as a distinct structural marker.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 16; அச்சுப் பக்கம்: 15 -->

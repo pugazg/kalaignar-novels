@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 அடுத்த படித்துறையிலே நின்றவாறு அவர்களையே கண்களால் விழுங்கிக்கொண்டிருந்தான் அந்த மனிதன். டைகர் என்று அவர்கள் அழைத்ததற்கு ஏற்ப தோற்றமுடையவன்தான் அவன். அவனது முகத்திலே மிருக சுபாவத்தின் சாயல் செதுக்கப்பட்டிருந்தது. அவனது பெரிய விழிகளிலே பயங்கரம் பளிச்சிட்டது. அவன் பல் துலக்கும் அந்தத் தோரணை மூலமாகவே உள்ளத்தில் கொழுந்துவிட்டு உடலைத் தகித்துக்கொண்டிருக்கும் காமத் தீக்கு ஆளாகித் தவிக்கிறான் என்ற நிலை புரிந்தது.
@@ -26,18 +26,17 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “என் கதை இனிமேல்தான் தொடரப்போகிறது. நேற்று சிவநேசனிடம் சென்று கடைசியாகப் பெண் கேட்டேன். எனக்கும் அந்தக் கிழட்டுப் பயலுக்குமுள்ள பழைய சொந்தபந்தம் எல்லாம் சொல்லி, எனக்குத்தான் சிந்தாமணி உரியவள் என்று கூறினேன், வாதாடினேன் வக்கீல்போல்!”
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- The two `என்றான்` occurrences were resolved as historical `றா` identities from enlarged source pixels / same-edition type behaviour; the old form can visually resemble a modern `று`-like cluster.
-- Source-specific colloquial forms including `நிச்சயமாயிட்டுது`, `குறிக்கிலே`, and `வர்றாங்க` are preserved as printed.
-- Later underlining/pen marks were excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed: `கவலைப்படாமல்` (`லை`), `தவிக்கிறான்` / both `என்றான்` occurrences / `வர்றாங்க` (`றா`), and `கல்யாணம்` (`ணா`).
+- Both `என்றான்` occurrences were independently checked from their own source clusters; no mechanical carry-over from the corrective `என்றுள்` → `என்றாள்` cases was used.
+- Source-specific colloquial forms `நிச்சயமாயிட்டுது`, `குறிக்கிலே`, and `வர்றாங்க` remain exactly as printed.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Scan observations
 
 - Visible printed page number: **19**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 20; அச்சுப் பக்கம்: 19 -->

@@ -23,7 +23,7 @@ Fetch live `main` first and preserve newer durable work.
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–15; PENDING scans 16–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–20; PENDING scans 21–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective batch completed — scans 1–5
@@ -62,6 +62,18 @@ All five scans passed direct source-pixel review against the complete 13-family 
 
 No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 11–15.
 
+## Retrospective batch completed — scans 16–20
+
+All five scans passed direct source-pixel review against the complete 13-family set. No canonical text correction was required.
+
+- scan 16: `நாணவேண்டும்` (`ணா`), `கலைக்` / `நீரலைகள்` (`லை`), `அணைப்பை` (`ணை`), `போனாள்` (`னா`), `கொடியன்றோ` / `தோற்றோட` (`றோ`) confirmed;
+- scan 17: `வெறுத்துவிடுவதில்லை` (`லை`), `அத்தானை` (`னை`), `கல்யாணத்துக்கு` (`ணா`), `போகிறாள்` / `போயிருக்கிறார்` (`றா`) confirmed; `வேலையில்ல` independently rechecked and retained as source final `ல்ல`;
+- scan 18: `கல்யாணமானவள்` (`ணா`, `னா`), `காலையிலே` (`லை`), `கக்குகிறாள்` / `என்றாள்` (`றா`) confirmed;
+- scan 19: `மாப்பிள்ளை` (`ளை`) and `நின்றான்` (`றா`) confirmed; `வந்துவிட்டானு` independently rechecked and retained as genuine final `னு`, not converted to `னா`;
+- scan 20: `கவலைப்படாமல்` (`லை`), `தவிக்கிறான்` / both `என்றான்` occurrences / `வர்றாங்க` (`றா`), `கல்யாணம்` (`ணா`) confirmed.
+
+No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 16–20.
+
 ## Critical process correction
 
 The previous historical-glyph pass was not applied correctly in several places. Old metal-type shapes were sometimes retained as modern visual look-alikes instead of being decoded to actual character identities. Confirmed corrective work in scans 102–111 remains controlling, including `நன்றாகக்`, `தவறாக`, `என்றாள்`, missing-`ஆ` corrections, `சொன்னா`, and `பெண்ணா?`.
@@ -83,7 +95,7 @@ Forward transcription remains paused.
 
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. perform retrospective historical-glyph audit of **scans 16–20** as one 5-scan iteration;
+3. perform retrospective historical-glyph audit of **scans 21–25** as one 5-scan iteration;
 4. explicitly test all 13 families on source pixels;
 5. correct only positively supported character identities; never infer from grammar and never global-replace;
 6. synchronize page-map/audit/status docs and commit;

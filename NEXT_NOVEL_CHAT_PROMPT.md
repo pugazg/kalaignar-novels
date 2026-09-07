@@ -16,10 +16,10 @@ Resolve `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-25
 - Chapter 13 transcribed through scan 111 / printed 110;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–15; PENDING scans 16–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–20; PENDING scans 21–101**;
 - forward transcription at scan 112 is paused until retrospective coverage is cleared.
 
-## Retrospective results — scans 1–15
+## Retrospective results — scans 1–20
 
 ### Scans 1–5
 
@@ -51,6 +51,18 @@ All five scans passed direct source-pixel review against the complete 13-family 
 
 No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 11–15.
 
+### Scans 16–20
+
+All five scans passed direct source-pixel review against the complete 13-family set. No canonical text correction was required.
+
+- scan 16: `நாணவேண்டும்` (`ணா`), `கலைக்` / `நீரலைகள்` (`லை`), `அணைப்பை` (`ணை`), `போனாள்` (`னா`), `கொடியன்றோ` / `தோற்றோட` (`றோ`) confirmed;
+- scan 17: `வெறுத்துவிடுவதில்லை` (`லை`), `அத்தானை` (`னை`), `கல்யாணத்துக்கு` (`ணா`), `போகிறாள்` / `போயிருக்கிறார்` (`றா`) confirmed; `வேலையில்ல` specifically rechecked and retained as genuine final `ல்ல`;
+- scan 18: `கல்யாணமானவள்` (`ணா`, `னா`), `காலையிலே` (`லை`), `கக்குகிறாள்` / `என்றாள்` (`றா`) confirmed;
+- scan 19: `மாப்பிள்ளை` (`ளை`) and `நின்றான்` (`றா`) confirmed; `வந்துவிட்டானு` specifically rechecked for old-`னா` confusion and retained as genuine final `னு`;
+- scan 20: `கவலைப்படாமல்` (`லை`), `தவிக்கிறான்` / both `என்றான்` occurrences / `வர்றாங்க` (`றா`), `கல்யாணம்` (`ணா`) confirmed.
+
+No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 16–20.
+
 ## Critical historical-glyph rule
 
 The earlier pass sometimes treated old Tamil metal-type shapes as modern look-alikes instead of decoding the historical character identity first. Mandatory set:
@@ -63,6 +75,6 @@ Confirmed corrective examples in scans 102–111 include `நன்றுகக�
 
 ## Exact next activity
 
-Perform the **retrospective historical-glyph re-audit of scans 16–20** as the next 5-scan iteration. Synchronize page records/audit/status documents and commit only positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
+Perform the **retrospective historical-glyph re-audit of scans 21–25** as the next 5-scan iteration. Synchronize page records/audit/status documents and commit only positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
 
 Do not start assembled Tamil or English.

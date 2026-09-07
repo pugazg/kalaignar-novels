@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “நான் ஓடாத கடிகாரம் ஒன்று தரப்போகிறேன். அப்போதுதான் கால வரையறையின்றிக் காதல் பேசி முடிந்துகொண்டேயிருக்கும்.”
@@ -40,15 +40,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 சிந்தாமணியின் கன்னம் இப்போது அசல் செந்தாமரையாகிற்று! பதில் சொல்லாமல் தண்ணீரில் தலையை அமுக்கி மூழ்க ஆரம்பித்தாள்.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- Historical `றா` identities in forms including `கக்குகிறாள்` / `என்றாள்` were checked against the same-edition type behaviour before encoding.
-- Source-specific `பவிஷும்` is retained as printed.
-- Later pen/pencil marks were excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed: `கல்யாணமானவள்` (`ணா`, `னா`), `காலையிலே` (`லை`), and `கக்குகிறாள்` / `என்றாள்` (`றா`).
+- `என்றாள் ஆண்டாள்` was independently rechecked because this old `றா` cluster has failed elsewhere in the work; the existing Unicode reading is source-supported.
+- Source-specific `பவிஷும்` remains unchanged.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Page-boundary continuity
 
@@ -57,5 +55,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **17**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 18; அச்சுப் பக்கம்: 17 -->

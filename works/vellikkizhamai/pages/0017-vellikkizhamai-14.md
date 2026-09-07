@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 போது—ஆரம்பத்தில் ஏற்படும் கசப்பை அடியோடு வெறுத்துவிடுவதில்லை. வெறும் முகச் சுளிப்போடு நின்று விடுகிறார்கள். அந்த முகச் சுளிப்புதான் தோழிகள் கிண்டல் செய்யும்போது சிந்தாமணியின் முகத்திலும் ஏற்பட்டது. இன்னும் சிறிது அவரைப் பற்றிப் பேசமாட்டார்களா? என்ற ஆவலே அவளுக்கு அதிகமாயிற்று. கசப்பைச் சமாளித்துக்கொண்டே ‘இன்னும் இன்னும்’ என்று கள் பருகுகிறவனுக்கு ஏற்ற உதாரணமானாள் அவள்.
@@ -34,14 +34,12 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “சுசீலா! நீ?”
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- Later marginal handwriting/pen marks were excluded from canonical printed text.
-- Colloquial/source-specific forms such as `வேலையில்ல` and `நல்லதாப் போச்சு` are preserved as printed.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed: `வெறுத்துவிடுவதில்லை` (`லை`), `அத்தானை` (`னை`), `கல்யாணத்துக்கு` (`ணா`), and `போகிறாள்` / `போயிருக்கிறார்` (`றா`).
+- The colloquial `வேலையில்ல` was specifically rechecked against the historical `லை` risk and against the clearer `வெறுத்துவிடுவதில்லை` form on the same scan; the source-supported reading remains genuine final `ல்ல`, not an inferred `இல்லை` expansion.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Page-boundary continuity
 
@@ -51,5 +49,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **16**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 17; அச்சுப் பக்கம்: 16 -->
