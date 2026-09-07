@@ -7,12 +7,12 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 கஷ்டத்தைப் பார்த்துக்கொண்டிருக்க மாட்டேன். சத்தியமாகச் சொல்லுகிறேன்; சிந்தாமணியைக் கொண்டுவந்து உங்கள் கையில் ஒப்புவிக்கவேண்டியது என் பொறுப்பு! என் கடமை! நீங்கள் சொன்னாலும் சொல்லாவிட்டாலும் அது என் வேலை!”
 
-“சிந்தாமணி திரும்பி வருவதும் ஒன்றுதான் அவள் வராமல் அங்கேயே சாவதும் ஒன்றுதான்! அவளைப்பற்றி ஊர் முடிவுகட்டிவிட்டது! அவமானச் சின்னம் என்று அபிப்ராயம் தெரிவித்துவிட்டது! என் கண்மணி திரும்பி வந்து காலமெல்லாம் கண்ணீருங் கம்பலையுமாக கண்ணி கழியாத குமரியாக இருப்பதைவிட அவள் செத்து விடுவது மேல்!”
+“சிந்தாமணி திரும்பி வருவதும் ஒன்றுதான் அவள் வராமல் அங்கேயே சாவதும் ஒன்றுதான்! அவளைப்பற்றி ஊர் முடிவுகட்டிவிட்டது! அவமானச் சின்னம் என்று அபிப்ராயம் தெரிவித்துவிட்டது! என் கண்மணி திரும்பி வந்து காலமெல்லாம் கண்ணீருங் கம்பலையுமாக கன்னி கழியாத குமரியாக இருப்பதைவிட அவள் செத்து விடுவது மேல்!”
 
 இதைச் சொல்லியபடி தலையைச் சுவரில் சாய்த்தவாறு கண்ணீர் உகுத்தாள் சிவகாமி.
 
@@ -24,12 +24,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “என்ன அத்தை! உங்களுக்குமாமா மாதிரி ஏதாவது பிடித்துவிட்டதா என்ன? உண்மையிலே சொல்லுங்கள்—சிந்தாமணி களங்கமற்றவள் என்று நீங்கள் நம்புகிறீர்களா இல்லையா?” டைகர் கேட்டான் இப்படி!
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Entire scan inspected at enlarged/native source resolution; mandatory historical-glyph set checked.
-- Source-specific `கண்ணீருங் கம்பலையுமாக`, `கண்ணி கழியாத`, `ராமகிருஷ்ணு`, and dialogue grammar are preserved.
-- Historical `ளா` / `னா` families were checked before Unicode encoding; no modernization or global replacement was used.
-- No unresolved source cluster remains.
+- Complete scan re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `கல்யாணம்` (`ணா`), `அவளை` / `அவளைப்பற்றி` (`ளை`), `கவலைப்படுகிறீர்கள்` (`லை`), and `என்றான்` / `சீறினாள்` (`றா`).
+- Ordinary source-fidelity correction: `கண்ணி கழியாத` → **`கன்னி கழியாத`**.
+- Source-specific `கண்ணீருங் கம்பலையுமாக`, `ராமகிருஷ்ணு`, and dialogue grammar were retained without normalization.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -39,5 +40,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **80**.
+- Retrospective historical-glyph audit: **PASS after one ordinary source-fidelity correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 81; அச்சுப் பக்கம்: 80 -->

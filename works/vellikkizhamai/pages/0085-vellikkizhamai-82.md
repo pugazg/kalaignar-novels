@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; mixed chapter boundary preserved; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; mixed chapter boundary preserved; retrospective historical-glyph audit completed"
 ---
 
 டைகர் தன் வீட்டு மாப்பிள்ளையாகிவிட்டால், ஊர்வாய் அச்சத்தால் அடைபடும் என்றும் கருதினாள்.
@@ -24,14 +24,16 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 # 10
 
-சிவகாமியிடம் பெற்ற சத்தியத்தையெண்ணிப் பூரிப்படைந்தவாறு டைகர், நேராக ஆனந்தியின் மருத்துவ இல்லத்தை நோக்கி நடந்தான். சிவகாமி சத்தியத்திற்குப் பயந்தவள் என்பதும் அதுவும் குலதெய்வத்திற்கு மாறாக எதுவும் செய்யத் துணியமாட்டாள் என்பதும் டைகரின் நம்பிக்கைக்கு அதிக வலுவூட்டின. மருத்துவ மனைின் மேல்மாடிக்குச் செல்லும் படிக்கட்டில் ‘தட தட’ வென பூட்ஸ் ஓசையைக் கிளப்பியவாறு கால்களை வேகமாகப் பதியவைத்தான். அப்போது “என்ன சார்?” என்ற கேலி கலந்த சிரிப்போடு வேம்பு கீழிருந்து கூப்பிட்டான்.
+சிவகாமியிடம் பெற்ற சத்தியத்தையெண்ணிப் பூரிப்படைந்தவாறு டைகர், நேராக ஆனந்தியின் மருத்துவ இல்லத்தை நோக்கி நடந்தான். சிவகாமி சத்தியத்திற்குப் பயந்தவள் என்பதும் அதுவும் குலதெய்வத்திற்கு மாறாக எதுவும் செய்யத் துணியமாட்டாள் என்பதும் டைகரின் நம்பிக்கைக்கு அதிக வலுவூட்டின. மருத்துவ மனையின் மேல்மாடிக்குச் செல்லும் படிக்கட்டில் ‘தட தட’ வென பூட்ஸ் ஓசையைக் கிளப்பியவாறு கால்களை வேகமாகப் பதியவைத்தான். அப்போது “என்ன சார்?” என்ற கேலி கலந்த சிரிப்போடு வேம்பு கீழிருந்து கூப்பிட்டான்.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete physical scan inspected at enlarged/native resolution; full 13-family historical-glyph set checked.
-- The centered `10` is preserved at its physical source position; Chapter 9 text above and Chapter 10 text below are not moved across the boundary.
-- Source forms `ஊர்வாய்`, `பழிபாவம்`, `குத்துவிளக்கு`, `குங்குமப்பொட்டு`, `சத்தியத்தையெண்ணிப்`, `தட தட`, and `பூட்ஸ்` are preserved.
-- No unresolved source cluster remains.
+- Complete physical scan re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Ordinary source-fidelity correction: `மருத்துவ மனைின்` → **`மருத்துவ மனையின்`**; source confirms the `னை` identity in `மனையின்`.
+- Representative source-confirmed identities also include `மாப்பிள்ளையாகிவிட்டால்` (`ளை`), `கருதினாள்` / `துணியமாட்டாள்` (`னா`), `கல்யாணம்` (`ணா`), `தொலையும்` (`லை`), and `மாறாக` (`றா`).
+- The centered `10` remains at its physical source position; Chapter 9 text above and Chapter 10 text below were not moved.
+- Source forms `ஊர்வாய்`, `பழிபாவம்`, `குத்துவிளக்கு`, `குங்குமப்பொட்டு`, `சத்தியத்தையெண்ணிப்`, `தட தட`, and `பூட்ஸ்` were retained.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -42,5 +44,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **84**.
+- Retrospective historical-glyph audit: **PASS after one ordinary source-fidelity correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 85; அச்சுப் பக்கம்: 84 -->

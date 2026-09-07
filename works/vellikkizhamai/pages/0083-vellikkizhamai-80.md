@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “என்ன அத்தை சொல்கிறீர்கள்! சிந்தாமணி திரும்பி வரவேண்டுமல்லவா?”
@@ -16,7 +16,7 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “அப்படியானால் திருமணம்?”
 
-“திருமணம்?” சிவகாமி பெருமூச்சு விட்டாள்!
+“திருமணமா?” சிவகாமி பெருமூச்சு விட்டாள்!
 
 “அத்தை! முடிவாகச் சொல்லுங்கள்! நீங்கள் உறுதி கொடுத்தால் நாலுபேரறிய நாகரிகமான முறையில் திருமணம் நடக்கும். இல்லாவிட்டால் எங்களுக்குத் திருமணமான சேதியைக் கேள்விப்படுவீர்கள்!”
 
@@ -36,12 +36,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “பிறகென்ன; ஏமாற்றிவிடலாம் பயலை என்று எண்ணுகிறீர்களா? அதெல்லாம் முடியாது! குலதெய்வத்துக்கு நேராக ஆணையிட்டு சம்மதம் தரவேண்டும்.”
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete scan inspected directly at enlarged/native source resolution; mandatory historical-glyph set checked.
-- Source forms `நாலுபேரறிய`, `காட்டுராஜா`, `போலீஸ் இலாகா`, `கெஞ்சுந்தோரணையில்`, and `குலதெய்வத்துக்கு` are retained.
-- Historical `ளா` identities in dialogue tags were decoded from source pixels before Unicode transcription.
-- No unresolved source cluster remains.
+- Complete scan re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Mandatory-family correction from source pixels: `திருமணம்?` → **`திருமணமா?`** (`ணா`).
+- Representative source-confirmed identities also include `பிணத்தைத்தான்` (`ணை`), `அவளை` (`ளை`), `பயலை` (`லை`), and `என்றாள்` (`றா`).
+- Source forms `நாலுபேரறிய`, `காட்டுராஜா`, `போலீஸ் இலாகா`, `கெஞ்சுந்தோரணையில்`, and `குலதெய்வத்துக்கு` were retained.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -50,5 +51,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **82**.
+- Retrospective historical-glyph audit: **PASS after one `ணா` correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 83; அச்சுப் பக்கம்: 82 -->
