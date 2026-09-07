@@ -7,10 +7,10 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
-அசைந்துகொண்டிருக்கின்றனவே! பிறர் கெடுவதை விரும்புகிற இந்த வையகம் ஆனந்தி போன்ற ரோஜா மலர்களையும் அரளிப்பூ கூட்டத்தினிடையே துவளியிருக்கிறது என்பதை நான் ஆதார பூர்வமாக உணர முடிகிறது! இந்த நல்ல பெண்மணிகளன்றே நாட்டையும் வீட்டையும் வாழ்விக்கவந்த உத்தமிகள்! எனக்கு வர இருந்தவள் சிந்தாமணி! அல்ல; அல்ல! புழுதி மண்ணிலே அழுந்து சிந்திவிட்ட மணி! சிதறிவிட்ட மணி! அவளுக்குப் பெயர்தான் சிந்தாமணி! இவளோ ஆனந்தி! பெயரிலே கொஞ்சம் நவநாகரிக பாணி மினுக்குகிறது! உத்தியோகமும் அப்படித்தான்! ஆனால் உள்ளமோ தங்கம்! தங்கம் என்று கூடச் சொல்ல இயலாது—அந்த உபமானத்திற்கும் இந்த டைகர் புதிய வியாக்கியானம் கொடுத்துவிட்டான். இது தணல் படாத தங்கம்! கரம் படாத முல்லை! களங்கம் படாத வெள்ளி நிலவு! இந்த மாதரசி எனக்கு வாழ்க்கைத் துணையானால்?......”
+அசைந்துகொண்டிருக்கின்றனவே! பிறர் கெடுவதையே விரும்புகிற இந்த வையகம் ஆனந்தி போன்ற ரோஜா மலர்களையும் அரளிப்பூ கூட்டத்தினிடையே துவளியிருக்கிறது என்பதை நான் ஆதார பூர்வமாக உணர முடிகிறது! இந்த நல்ல பெண்மணிகளன்றே நாட்டையும் வீட்டையும் வாழ்விக்கவந்த உத்தமிகள்! எனக்கு வர இருந்தவள் சிந்தாமணி! அல்ல; அல்ல! புழுதி மண்ணிலே அழுந்து சிந்திவிட்ட மணி! சிதறிவிட்ட மணி! அவளுக்குப் பெயர்தான் சிந்தாமணி! இவளோ ஆனந்தி! பெயரிலே கொஞ்சம் நவநாகரிக பாணி மினுக்குகிறது! உத்தியோகமும் அப்படித்தான்! ஆனால் உள்ளமோ தங்கம்! தங்கம் என்று கூடச் சொல்ல இயலாது—அந்த உபமானத்திற்கும் இந்த டைகர் புதிய வியாக்கியானம் கொடுத்துவிட்டான். இது தணல் படாத தங்கம்! கரம் படாத முல்லை! களங்கம் படாத வெள்ளி நிலவு! இந்த மாதரசி எனக்கு வாழ்க்கைத் துணையானால்?......”
 
 கேள்விக்குறியில்லை; ஆவலைக் காட்டும் அறிகுறி எழுந்தது அழகப்பனின் இருதயத்தில்! நினைவு காட்டாறு தானே! எங்கு வேண்டுமானாலும், எப்படி வேண்டுமானாலும் பிரயாணம் செய்யுமல்லவா? அந்தப் பிரயாணத்திற்கும் ஒரு முற்றுப்புள்ளி உண்டே! காட்டாறு காட்டிலேயே பாய்ந்து விரிந்து மறைந்து ஒழிந்துவிடும்! அல்லது கழனிக் கிடையே செல்லும் குட்டி வாய்க்கால்போல சிறுத்துக் கடலிலே கலக்கும் இரண்டாவது நிலையைப்பெற்றது அழகப்பனின் நினைவு நதி!
 
@@ -18,12 +18,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 மணமகள் தேடும் படலத்திற்கு ஒரு முற்றுப்புள்ளி வைத்துவிட்டு ஆனந்தியைத் தன் துணைவியாக்கிக்கொள்ள வேண்டியதுதான் தன் வாழ்வின் அடுத்த அத்தியாயம் என்று முடிவு செய்தான்.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Entire scan inspected directly at enlarged/native resolution; mandatory historical set checked.
-- Source-specific forms `அரளிப்பூ`, `ஆதார பூர்வமாக`, `நவநாகரிக`, `வியாக்கியானம்`, `கழனிக் கிடையே`, and `நிலையைப்பெற்றது` are retained.
-- Historical `னா` families on this page were read from source pixels before encoding; no global substitutions used.
-- No unresolved source cluster remains.
+- Entire scan re-inspected directly against the mandatory 13-family set at enlarged/native source resolution.
+- Representative source-confirmed identities include `முல்லை` / `நிலையைப்பெற்றது` (`லை`), `அவனை` (`னை`), `துணையானால்` (`ணை`, `னா`), `காட்டாறு` (`றா`), and `செய்துகொண்டான்` (`னா`).
+- No historical-family substitution was required.
+- Separate ordinary source-fidelity correction: `பிறர் கெடுவதை` → **`பிறர் கெடுவதையே`**, directly visible in the source line.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -33,5 +34,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **66**.
+- Retrospective historical-glyph audit: **PASS after one ordinary source-fidelity correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 67; அச்சுப் பக்கம்: 66 -->

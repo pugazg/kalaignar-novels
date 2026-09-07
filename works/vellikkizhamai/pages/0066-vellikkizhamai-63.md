@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 கொண்டுபோனான். அதை அவள் மறுத்துவிட்டாள். ஆனாலும் நினைத்தார்கள், அவளுக்கு ‘ஹார்லிக்ஸ்’ தேவையில்லையென்று ஆனால் அவளுக்கு இப்போது அந்த டைகரின் உபசாரம் தேவையில்லை! ஏன்; டைகரே தேவையில்லை! அவளே ‘டைகரா’க மாறியிருக்கிறாள் இப்போது!
@@ -24,11 +24,12 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “எவ்வளவு நல்லவள்—யாரோ ஒரு தவறு செய்த பெண்ணைக் காப்பாற்றுவதற்காக அவளுக்கு எவ்வளவு ஆத்திரம் ஏற்பட்டிருக்கிறது! தன் நிலைமறந்து, எதிரே வருவது என்ன என்கிற உணர்ச்சியுமற்று, ஒரு பெண்ணுக்கு வாழ்வளிக்க விரும்பிய இவளது இருதயத்திற்கு ஈடு இணைதான் ஏது! அழகி மட்டுமல்ல; அன்பின் உரு! ஆகா, இவளது கண்களிலேதான் எத்துணை ஆழமான கவர்ச்சி! ‘குஞ்சி அழகும், கொவ்வை இதழ் அழகும், கோமளக் கண் அழகும் அழகல்ல; இவைகள் அனைத்தையும் விட மேலான என் நெஞ்சத்து அழகே அழகு’ என்று சொல்லாமல் சொல்லுவதுபோல் அவளது அற்புத விழிகள்
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Full page inspected at enlarged/native resolution; mandatory 13-family historical set checked before Unicode transcription.
-- Source-specific words/phrases `டைகரா`, `பாதகன் டைகரைப் பழிவாங்கும்`, `ஒய்வாக`, `இருப்புக் கொள்ளவில்லை`, `வாழ்வளிக்க`, and poetic `குஞ்சி அழகும்` are retained without contextual rewriting.
-- No unresolved glyph cluster remains in the body text.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `கொண்டுபோனான்` (`னா`), `தேவையில்லை` / `நிலைமறந்து` (`லை`), `தாயாரம்மாளை` / `களைப்பாயிருக்கும்` (`ளை`), `பெண்ணைக்` / `எத்துணை` (`ணை`), and `காப்பாற்றுவதற்காக` (`றா`).
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- Source-specific `ஒய்வாக` and `சாப்பிடு அம்மா` were retained from direct pixels; no grammar-driven normalization was used.
 
 ## Page-boundary continuity
 
@@ -38,5 +39,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - The source page visibly prints only **`5`** at the top-right and again at the bottom; no tens digit is visible even at native/enlarged resolution. Canonical `printed_page` therefore records **5**, not an inferred 65.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 66; அச்சில் காணப்படும் எண்: 5 -->
