@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 போயிருக்கிறார்” என்று சப்தமிட்டபடி டைகர், அவளை இழுக்க அணைத்துக்கொண்டானே தவிர, பிடியைச் சிறிதும் தளர்த்தவில்லை.
@@ -30,19 +30,23 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ஒருதலைக் காதல்!
 உருப்படாக் காதல்!”
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete scan inspected directly at enlarged/native source resolution; mandatory historical-glyph set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` checked before Unicode transcription.
-- Historical `ணா` identity in `பெண்ணாகப்` was resolved from the old-form type rather than its modern visual resemblance; `அடிக்கின்றாய்` was checked against the `றா` family.
-- Source spelling, grammar, punctuation and physical page boundaries are preserved; no OCR/context repair or global replacement was used.
-- No unresolved source cluster remains.
+- Complete scan re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `பெண்ணாகப்` (`ணா`), `மனைவியையும்` / neighboring `னை` family contexts, `வளையல்கள்` (`ளை`), `எல்லைமீறிவிட்டது` (`லை`), and `அடிக்கின்றாய்` (`றா`).
+- `பொத்தினன்` was independently checked against the known missing-`ஆ` failure mode and retained exactly as printed.
+- Source-specific `அவளை இழுக்க அணைத்துக்கொண்டானே`, `ஆகாகா`, `அபிதான சிந்தாமணி`, verse wording, and punctuation were retained without normalization.
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
-- Opening completes scan 92’s final `வெறிபிடித்துப்`; Chapter 11 continues to scan 94.
+- Opening completes scan 92’s final `வெறிபிடித்துப்`.
+- Chapter 11 continues to scan 94.
 
 ## Scan observations
 
 - Visible printed page number: **92**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 93; அச்சுப் பக்கம்: 92 -->
