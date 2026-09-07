@@ -18,7 +18,7 @@
 - Chapter 13 transcribed through scan 111 / printed 110;
 - **historical-glyph work-level gate: REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–5; pending scans 6–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–10; pending scans 11–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective batch — scans 1–5
@@ -32,6 +32,20 @@
 - scan 5: `சாணமிட்டு` (`ணா`) and `நன்றாக` (`றா`) confirmed.
 
 Separate ordinary source comparison on scan 4 corrected **`பெருகிடுகிறது` → `பெருகிவிடுகிறது`**. This is a source-fidelity correction, not a historical-glyph substitution. No global replacement was used.
+
+## Retrospective batch — scans 6–10
+
+**Result: HISTORICAL-GLYPH PASS / 5 OF 5 COMPLETE.**
+
+All five scans were re-inspected directly against the complete 13-family set. No canonical text correction was required in this batch.
+
+- scan 6: `என்னை` (`னை`), `மறுவேலை` (`லை`), `உளறுகிறேனா` (`னா`), `தூங்காமலிருந்திருக்கிறோமே` (`றோ`) confirmed;
+- scan 7: `எத்தனையோ` (`னை`), `எண்ணுகிறாளா` (`றா`), `இல்லைத்தான்` / `விடிவதில்லை` (`லை`) confirmed;
+- scan 8: earlier `களைத்துத்` (`ளை`) resolution reconfirmed; `போறான்` (`றா`) independently confirmed; colloquial `அய் யோன்னு` retained as printed;
+- scan 9: `காளைகளாயிற்றே` (`ளை`), `முல்லை` / `தொல்லைப்பட்டு` (`லை`) confirmed; source-specific `குழப்பட்டு` retained;
+- scan 10: `புறாக்கள்` (`றா`), `கொடியன்றோ` / `தினந்தோறும்` (`றோ`), `நாணாதாய்` (`ணா`), `எங்களை` (`ளை`) confirmed.
+
+No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 6–10.
 
 ## Why the historical-glyph gate was reopened
 
@@ -52,4 +66,4 @@ Use root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Every older-print page
 
 ## Exact next activity
 
-Keep forward scans 112–116 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 6–10**, synchronize status documents, and continue chronologically until scans 1–101 are cleared.
+Keep forward scans 112–116 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 11–15**, synchronize status documents, and continue chronologically until scans 1–101 are cleared.

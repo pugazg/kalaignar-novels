@@ -23,7 +23,7 @@ Fetch live `main` first and preserve newer durable work.
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–5; PENDING scans 6–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–10; PENDING scans 11–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective batch completed — scans 1–5
@@ -37,6 +37,18 @@ All five scans were re-inspected under the complete 13-family checklist.
 - scan 5: `சாணமிட்டு` (`ணா`) and `நன்றாக` (`றா`) confirmed.
 
 A separate ordinary source comparison corrected scan 4 `பெருகிடுகிறது` → **`பெருகிவிடுகிறது`**. No global replacement was used.
+
+## Retrospective batch completed — scans 6–10
+
+All five scans passed direct source-pixel review against the complete 13-family set. No canonical text correction was required.
+
+- scan 6: `என்னை` (`னை`), `மறுவேலை` (`லை`), `உளறுகிறேனா` (`னா`), `தூங்காமலிருந்திருக்கிறோமே` (`றோ`) confirmed;
+- scan 7: `எத்தனையோ` (`னை`), `எண்ணுகிறாளா` (`றா`), `இல்லைத்தான்` / `விடிவதில்லை` (`லை`) confirmed;
+- scan 8: `களைத்துத்` (`ளை`) reconfirmed and `போறான்` (`றா`) independently confirmed; `அய் யோன்னு` preserved as printed;
+- scan 9: `காளைகளாயிற்றே` (`ளை`), `முல்லை` / `தொல்லைப்பட்டு` (`லை`) confirmed; `குழப்பட்டு` preserved;
+- scan 10: `புறாக்கள்` (`றா`), `கொடியன்றோ` / `தினந்தோறும்` (`றோ`), `நாணாதாய்` (`ணா`), `எங்களை` (`ளை`) confirmed.
+
+No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 6–10.
 
 ## Critical process correction
 
@@ -59,7 +71,7 @@ Forward transcription remains paused.
 
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. perform retrospective historical-glyph audit of **scans 6–10** as one 5-scan iteration;
+3. perform retrospective historical-glyph audit of **scans 11–15** as one 5-scan iteration;
 4. explicitly test all 13 families on source pixels;
 5. correct only positively supported character identities; never infer from grammar and never global-replace;
 6. synchronize page-map/audit/status docs and commit;

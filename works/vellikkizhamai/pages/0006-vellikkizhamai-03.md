@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 கேலிக்குரியதாக ஆக்கிய என்னை இந்த வெள்ளிக்கிழமை-அதுவும் நாளைக் காலையில் வர இருக்கிற வெள்ளிக்கிழமை-இப்படிக் கவர்ந்து விடுவானேன்!
@@ -20,11 +20,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 அருகிலிருந்த விளக்கைத் தூண்டிவிட்டு சுவரில் தொங்கிக்கொண்டிருந்த கடிகாரத்தை நோக்கினாள். மணி ஐந்து! அதேசமயத்தில் அவள் வீட்டுத் தெருக்கோடியில் உள்ள கடிகார மண்டபத்திலேயிருந்து ஐந்து பெரிய ஒலிகள் எழுந்து, பொழுது விரைவில் விடியப்போகிறது என்பதை அவளுக்கு அறிவித்தன. மணிக்கூண்டு கடிகாரக் கணக்குப்படி வழக்கமாகக் கூவிக்கொண்டிருக்கும் சேவலும் தனது ‘கொக்கரக்கோ’ கீதத்தை ஆரம்பித்து சூரியனுக்குத் திருப்பள்ளி எழுச்சி பாடிற்று! சிந்தாமணிக்கு அப்போதுதான் ஆச்சரியம் அளவுகடந்து போயிற்று; இரவு முழுதும் தூங்காமலிருந்திருக்கிறோமே என்று!
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution against the known historical set.
+- Complete page was re-inspected against all 13 mandatory historical families.
+- Representative identities checked directly from the source pixels: `என்னை` (`னை`), `மறுவேலை` (`லை`), `உளறுகிறேனா` (`னா`), and `தூங்காமலிருந்திருக்கிறோமே` (`றோ`).
+- The canonical Unicode readings on this scan are already source-supported; no historical-glyph correction is required.
 - The later underline beneath `சிந்தாமணி` is copy-specific pen marking and is not part of the canonical text.
-- No global replacement or silent modernization was used; no unresolved glyph cluster remains on this scan.
+- No global replacement or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -34,5 +36,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **5**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 6; அச்சுப் பக்கம்: 5 -->

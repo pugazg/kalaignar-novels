@@ -12,7 +12,7 @@
 | Chapter map | **direct through Chapter 13 continuation at scan 111** |
 | Historical-glyph work-level gate | **REOPENED** |
 | Corrective historical-glyph re-audit | **PASS scans 102–111** |
-| Retrospective historical-glyph re-audit | **PASS scans 1–5; PENDING scans 6–101** |
+| Retrospective historical-glyph re-audit | **PASS scans 1–10; PENDING scans 11–101** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -37,7 +37,25 @@ All five scans were re-inspected against the complete mandatory set `ணா / �
 
 A separate ordinary source-fidelity comparison on scan 4 corrected earlier `பெருகிடுகிறது` → **`பெருகிவிடுகிறது`**. This is not counted as a historical-glyph substitution.
 
-No global replacement was used. Retrospective coverage now advances to scans **6–10**.
+No global replacement was used.
+
+## Retrospective re-audit — scans 6–10
+
+**Result: PASS for historical-glyph identity / 5 OF 5 COMPLETE.**
+
+All five scans were re-inspected against the complete mandatory set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Families without a relevant occurrence on a given scan were still explicitly considered; only source-pixel evidence was used to clear present forms.
+
+| Scan | Representative source check | Historical family / result |
+|---:|---|---|
+| 6 | `என்னை`, `மறுவேலை`, `உளறுகிறேனா`, `தூங்காமலிருந்திருக்கிறோமே` | `னை`, `லை`, `னா`, `றோ` confirmed; no correction |
+| 7 | `எத்தனையோ`, `எண்ணுகிறாளா`, `இல்லைத்தான்`, `விடிவதில்லை` | `னை`, `றா`, `லை` confirmed; no correction |
+| 8 | `களைத்துத்`, `போறான்` | `ளை`, `றா` confirmed; earlier `களைத்துத்` resolution reconfirmed; no new correction |
+| 9 | `காளைகளாயிற்றே`, `முல்லை`, `தொல்லைப்பட்டு` | `ளை`, `லை` confirmed; no correction |
+| 10 | `புறாக்கள்`, `கொடியன்றோ`, `தினந்தோறும்`, `நாணாதாய்`, `எங்களை` | `றா`, `றோ`, `ணா`, `ளை` confirmed; no correction |
+
+Source-specific non-glyph forms were not normalized: scan 8 `அய் யோன்னு` and scan 9 `குழப்பட்டு` remain as printed. No historical-glyph substitution, ordinary lexical correction or global replacement was required in scans 6–10.
+
+Retrospective coverage now advances to scans **11–15**.
 
 ## Corrective re-audit — scans 102–111
 
@@ -77,7 +95,7 @@ Scan 105 and scan 111 were also rechecked and required no confirmed historical-g
 
 ## Unresolved project items
 
-- **retrospective historical-glyph re-audit scans 6–101**;
+- **retrospective historical-glyph re-audit scans 11–101**;
 - scans **112–179** forward canonical processing;
 - final complete Tamil audit;
 - assembled Tamil;
@@ -85,4 +103,4 @@ Scan 105 and scan 111 were also rechecked and required no confirmed historical-g
 
 ## Exact next activity
 
-Do **not** resume forward transcription yet. Process **scans 6–10** as the next retrospective 5-scan historical-glyph audit batch, update only source-supported Unicode corrections, synchronize status documents, and continue chronologically.
+Do **not** resume forward transcription yet. Process **scans 11–15** as the next retrospective 5-scan historical-glyph audit batch, update only source-supported Unicode corrections, synchronize status documents, and continue chronologically.

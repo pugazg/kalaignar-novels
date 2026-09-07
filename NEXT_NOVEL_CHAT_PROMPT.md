@@ -16,14 +16,28 @@ Resolve `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-25
 - Chapter 13 transcribed through scan 111 / printed 110;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–5; PENDING scans 6–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–10; PENDING scans 11–101**;
 - forward transcription at scan 112 is paused until retrospective coverage is cleared.
 
-## First retrospective batch result — scans 1–5
+## Retrospective results — scans 1–10
+
+### Scans 1–5
 
 All five scans passed direct source-pixel review against the mandatory 13 families. No historical-glyph correction was required. Representative confirmed identities: scan 1 `கருணாநிதி` (`ணா`) / `திராவிடப்பண்ணை` (`ணை`); scan 3 `விலை` (`லை`); scan 4 `அன்னைப்` / `மாவீரனைப்` (`னை`) and `போனான்` (`னா`); scan 5 `சாணமிட்டு` (`ணா`) / `நன்றாக` (`றா`).
 
 Separate source comparison corrected scan 4 `பெருகிடுகிறது` → **`பெருகிவிடுகிறது`**. Do not treat this as a glyph-family correction.
+
+### Scans 6–10
+
+All five scans passed direct source-pixel review against the complete 13-family set. No canonical text correction was required.
+
+- scan 6: `என்னை` (`னை`), `மறுவேலை` (`லை`), `உளறுகிறேனா` (`னா`), `தூங்காமலிருந்திருக்கிறோமே` (`றோ`) confirmed;
+- scan 7: `எத்தனையோ` (`னை`), `எண்ணுகிறாளா` (`றா`), `இல்லைத்தான்` / `விடிவதில்லை` (`லை`) confirmed;
+- scan 8: `களைத்துத்` (`ளை`) reconfirmed and `போறான்` (`றா`) independently confirmed; `அய் யோன்னு` retained as printed;
+- scan 9: `காளைகளாயிற்றே` (`ளை`), `முல்லை` / `தொல்லைப்பட்டு` (`லை`) confirmed; `குழப்பட்டு` retained;
+- scan 10: `புறாக்கள்` (`றா`), `கொடியன்றோ` / `தினந்தோறும்` (`றோ`), `நாணாதாய்` (`ணா`), `எங்களை` (`ளை`) confirmed.
+
+No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 6–10.
 
 ## Critical historical-glyph rule
 
@@ -37,6 +51,6 @@ Confirmed corrective examples in scans 102–111 include `நன்றுகக�
 
 ## Exact next activity
 
-Perform the **retrospective historical-glyph re-audit of scans 6–10** as the next 5-scan iteration. Synchronize page records/audit/status documents and commit only positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
+Perform the **retrospective historical-glyph re-audit of scans 11–15** as the next 5-scan iteration. Synchronize page records/audit/status documents and commit only positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
 
 Do not start assembled Tamil or English.

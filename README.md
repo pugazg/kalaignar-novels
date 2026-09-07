@@ -30,7 +30,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - **historical-glyph work-level gate REOPENED** after a systematic old-type decoding error was found;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–5; pending scans 6–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–10; pending scans 11–101**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**.
@@ -40,6 +40,14 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 The first retrospective 5-scan batch is complete. All 13 mandatory historical families were explicitly tested against the source. No historical-character identity correction was required in scans 1–5. Representative confirmations include cover `கருணாநிதி` (`ணா`), `திராவிடப்பண்ணை` (`ணை`), publication-page `விலை` (`லை`), scan 4 `அன்னைப்` / `மாவீரனைப்` (`னை`) and `போனான்` (`னா`), and scan 5 `சாணமிட்டு` (`ணா`) / `நன்றாக` (`றா`).
 
 A separate ordinary source-fidelity check on scan 4 corrected **`பெருகிடுகிறது` → `பெருகிவிடுகிறது`**. No global replacement was used.
+
+### Retrospective glyph audit — scans 6–10
+
+The second retrospective 5-scan batch is complete. All 13 mandatory historical families were explicitly considered on every scan, and no canonical text correction was required.
+
+Representative confirmations include scan 6 `என்னை` (`னை`), `மறுவேலை` (`லை`), `உளறுகிறேனா` (`னா`), `தூங்காமலிருந்திருக்கிறோமே` (`றோ`); scan 7 `எத்தனையோ` (`னை`), `எண்ணுகிறாளா` (`றா`), `இல்லைத்தான்` / `விடிவதில்லை` (`லை`); scan 8 `களைத்துத்` (`ளை`) and `போறான்` (`றா`); scan 9 `காளைகளாயிற்றே` (`ளை`), `முல்லை` / `தொல்லைப்பட்டு` (`லை`); and scan 10 `புறாக்கள்` (`றா`), `கொடியன்றோ` / `தினந்தோறும்` (`றோ`), `நாணாதாய்` (`ணா`), `எங்களை` (`ளை`).
+
+Source-specific non-glyph forms `அய் யோன்னு` (scan 8) and `குழப்பட்டு` (scan 9) were retained as printed. No global replacement or silent modernization was used.
 
 ### Historical-glyph corrective finding
 
@@ -69,7 +77,7 @@ Use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRA
 
 ## Next activity
 
-Continue the retrospective historical-glyph re-audit in the next 5-scan batch: **scans 6–10**. Forward transcription at scan 112 remains paused until scans 1–101 are cleared.
+Continue the retrospective historical-glyph re-audit in the next 5-scan batch: **scans 11–15**. Forward transcription at scan 112 remains paused until scans 1–101 are cleared.
 
 ## Release-status meaning
 

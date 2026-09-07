@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 துவங்கிவிட்டது. சிந்தாமணியின் எதிர்காலத்தைப் பற்றிய புதிய அறிவிப்பா அது? அதோ, உழவர்கள் மாடுகளை ஒட்டிக்கொண்டு கலப்பைகளைச் சுமந்தவாறு கழனி நோக்கிப் புறப்பட்டுவிட்டார்கள்!
@@ -18,17 +18,18 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 இரவு முழுதும் எண்ணங்களால் குழப்பட்டு—தூங்காமல் தொல்லைப்பட்டு—அந்தத் தொல்லையிலும் ஒரு சுகம் கண்டு—புதியதோர் பாதையிலே அடியெடுத்துவைக்கும் ஆனந்தத்தோடு புறப்பட்ட அவளுக்கு—கிழக்கிலே காணப்பட்ட இளங்கதிர், அபாயம் அறிவிக்கும் ஒரு சிகப்பு விளக்குப் போலவும் தென்பட்டது! திடுக்கிட்டாள். பின் சமாளித்துக் கொண்டாள்.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was read from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- No unresolved historical-glyph cluster remains on this scan.
+- Complete page was re-inspected against all 13 mandatory historical families.
+- Representative identities checked directly from the source pixels: `காளைகளாயிற்றே` (`ளை`) and `முல்லை` / `தொல்லைப்பட்டு` (`லை`).
+- The canonical Unicode readings on this scan are already source-supported; no historical-glyph correction is required.
+- Source-specific `குழப்பட்டு` is preserved as printed; it was not silently normalized or treated as a glyph-family issue.
+- No global replacement was used.
 
 ## Page-boundary / scan observations
 
 - No visible printed page number is present in the scan.
 - Opening `துவங்கிவிட்டது.` completes scan 8 `கிழக்கு வானம் வெளுக்கத்` → `கிழக்கு வானம் வெளுக்கத் துவங்கிவிட்டது.`
-- Source-specific `குழப்பட்டு` is preserved as printed; it was not silently normalized.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 9; அச்சுப் பக்கம்: — -->
