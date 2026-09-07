@@ -23,7 +23,7 @@ Fetch live `main` first and preserve newer durable work.
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–45; PENDING scans 46–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–50; PENDING scans 51–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective batches completed
@@ -69,22 +69,19 @@ Scans 36, 37 and 39 required no canonical correction.
 
 ### Scans 41–45
 
-**PASS / 5 OF 5 COMPLETE.** No historical-family substitution was required.
+PASS / 5 OF 5 COMPLETE. No historical-family substitution was required. Scan 42 separately corrected ordinary source text `பொறுத்துச்` → **`பொருத்தம்`** and `சுதன` → **`சனதன`**. Scan 45 remains the mixed Chapter 4 / Chapter 5 boundary with centered source heading `5`.
 
-Representative direct source confirmations:
+### Scans 46–50
 
-- scan 41: `நயினா` (`னா`), `சாகவில்லையா` (`லை`), `நல்லவேளை` / `மாப்பிள்ளை` (`ளை`), `தவறாமல்` (`றா`);
-- scan 42: `மாப்பிள்ளை` (`ளை`), `சரியில்லை` (`லை`), `பையனை` (`னை`), repeated `நயினா` / `கூறினாள்` (`னா`);
-- scan 43: `மனைவிக்கும்` (`னை`), `மாற்றமாகிவிடவே` (`றா`), `பெண்ணைப்` (`ணை`), `நயினாவும்` (`னா`);
-- scan 44: `மாப்பிள்ளை` (`ளை`), `நல்லநாள்` / `நயினா` / `போனாள்` (`னா`), `புறப்பட்டார்கள்` / `மறுத்தாள்` (`றா`), `இல்லையா` (`லை`);
-- scan 45: `அழைத்துப்போனாள்` (`னா`), `களைப்பு` / `நல்லவேளை` / `களிப்பை` (`ளை`), `தொல்லை` / `காலையிலேதான்` (`லை`), repeated `நயினா` (`னா`).
+**PASS / 5 OF 5 COMPLETE.** Scans 46–49 received positively source-supported corrections; scan 50 required none.
 
-Two separate ordinary source-fidelity corrections were required on scan 42 and are not historical-glyph substitutions:
+- scan 46: `தோஷம் கழந்துவிட்டதம்மா` → **`வேஷம் கலைந்துவிட்டதம்மா`**, first `தப்பிவிட்டோம்` → **`தப்பி விட்டோம்`**, `தடையோட்டார்களே` → **`தடை போட்டார்களே`**, `நெருப்புமொழிகளும்` → **`நெருப்பு மொழிகளும்`**, `அசைவற்று போனார்` → **`அசைவற்றுப் போனார்`**;
+- scan 47: `மானத்தைப்பற்றிய கவலையுண்டு` → **`மானத்தைப்பற்றியே கவலைப்படாத`**, `அனுப்பதாக` → **`அளிப்பதாக`**;
+- scan 48: source spelling `அக்ரமம்` → **`அகரமம்`**;
+- scan 49: `மாசுமறுவற்ற` → **`மாசமறுவற்ற`**;
+- scan 50: no canonical correction; source forms `ஏமுட்டான்` and `புறப்படடா` retained.
 
-- `பொறுத்துச்` → **`பொருத்தம்`**;
-- `சுதன` → **`சனதன`**.
-
-Scans 41, 43, 44 and 45 required no canonical text correction. Scan 45 remains the verified mixed Chapter 4 / Chapter 5 boundary with centered source heading `5`. No global replacement, grammar-driven normalization or silent modernization was used.
+Representative historical-family confirmations include scan 46 `மாப்பிள்ளை` / `நல்ல வேளை` (`ளை`), `நயினா` (`னா`), `கலைந்துவிட்டதம்மா` (`லை`); scan 47 `மாப்பிள்ளை` (`ளை`), `என்னை` (`னை`), `கவலைப்படாத` (`லை`), `நயினா` (`னா`), `தாயாகியிருக்கிறாள்` (`றா`); scan 48 `நயினாவும்` (`னா`) and `களைப்பால்` (`ளை`); scan 49 `கல்யாணம்` (`ணா`), `மாற்றிக்கொள்ளுங்கள்` (`றா`), `மாப்பிள்ளை` (`ளை`), `நாள்தோறும்` (`றோ`); scan 50 `நயினா` (`னா`), `பெண்ணை` / `கண்ணை` (`ணை`), `பரவாயில்லை` (`லை`), `மாசற்றவள்` (`றா`).
 
 ## Critical process correction
 
@@ -108,6 +105,10 @@ Character identity must be decided from enlarged/native source pixels first. Gra
 - scan 40 forms are **`என்னையாவது`**, **`அவர்களை`**, **`கைவற்றுப்போனான்`**;
 - scan 42 source wording includes **`பொருத்தம் சரியில்லை`** and **`சனதன உள்ளம்`**;
 - scan 45 is mixed Chapter 4 / Chapter 5 with centered `5`;
+- scan 46 source has **`வேஷம் கலைந்துவிட்டதம்மா`**, **`தடை போட்டார்களே`**, **`அசைவற்றுப் போனார்`**;
+- scan 47 source has **`மானத்தைப்பற்றியே கவலைப்படாத`**, **`அளிப்பதாக`**;
+- scan 48 source spelling is **`அகரமம்`**;
+- scan 49 source form is **`மாசமறுவற்ற`**;
 - scan 66 visible page number is **`5`**, never infer `65`;
 - scan 98 bottom standalone `7` is a printer/signature mark, not a chapter heading;
 - scan 99 is mixed Chapter 11 / Chapter 12 with centered `12`;
@@ -120,7 +121,7 @@ Forward transcription remains paused.
 
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. perform retrospective historical-glyph audit of **scans 46–50** as one 5-scan iteration;
+3. perform retrospective historical-glyph audit of **scans 51–55** as one 5-scan iteration;
 4. explicitly test all 13 families on source pixels;
 5. correct only positively supported character identities; never infer from grammar and never global-replace;
 6. synchronize page records, page-map, audit, README/status/handover documents and commit;

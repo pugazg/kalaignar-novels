@@ -10,7 +10,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - body transcription: **through scan 111**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–45; PENDING scans 46–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–50; PENDING scans 51–101**;
 - scans 62–65 directly map to printed pages **61–64**;
 - scan 66 visibly prints only **`5`**; `65` is not inferred;
 - scans 67–111 directly map to printed pages **66–110**;
@@ -22,9 +22,9 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 
 ## Historical-glyph gate reopening
 
-The earlier work-level PASS remains withdrawn pending full retrospective review because old metal-type identities were misread in several records. Scans **1–45** and **102–111** have now been source-pixel re-audited. Scans **46–101** remain to be retrospectively audited before forward work resumes.
+The earlier work-level PASS remains withdrawn pending full retrospective review because old metal-type identities were misread in several records. Scans **1–50** and **102–111** have now been source-pixel re-audited. Scans **51–101** remain to be retrospectively audited before forward work resumes.
 
-Scan 4 received a separate ordinary source-fidelity correction `பெருகிடுகிறது` → `பெருகிவிடுகிறது`. Scans 6–35 required no canonical correction. The scans 36–40 batch added source-supported corrections at scan 38 (`கண்ணின்` → `களைப்பின்`) and scan 40 (`எண்ணையாவது` → `என்னையாவது`, `அவர்களோ` → `அவர்களை`, `கைவற்றுப்போனேன்` → `கைவற்றுப்போனான்`). Scans 41–45 required no historical-family substitution; scan 42 separately corrected ordinary source text `பொறுத்துச்` → `பொருத்தம்` and `சுதன` → `சனதன`.
+Scan 4 received a separate ordinary source-fidelity correction `பெருகிடுகிறது` → `பெருகிவிடுகிறது`. Scans 6–35 required no canonical correction. The scans 36–40 batch added source-supported corrections at scan 38 (`கண்ணின்` → `களைப்பின்`) and scan 40 (`எண்ணையாவது` → `என்னையாவது`, `அவர்களோ` → `அவர்களை`, `கைவற்றுப்போனேன்` → `கைவற்றுப்போனான்`). Scans 41–45 required no historical-family substitution; scan 42 separately corrected ordinary source text `பொறுத்துச்` → `பொருத்தம்` and `சுதன` → `சனதன`. Scans 46–50 PASS: scan 46 corrected `தோஷம் கழந்துவிட்டதம்மா` → `வேஷம் கலைந்துவிட்டதம்மா`, first `தப்பிவிட்டோம்` → `தப்பி விட்டோம்`, `தடையோட்டார்களே` → `தடை போட்டார்களே`, `நெருப்புமொழிகளும்` → `நெருப்பு மொழிகளும்`, `அசைவற்று போனார்` → `அசைவற்றுப் போனார்`; scan 47 corrected `மானத்தைப்பற்றிய கவலையுண்டு` → `மானத்தைப்பற்றியே கவலைப்படாத`, `அனுப்பதாக` → `அளிப்பதாக`; scan 48 preserves source `அகரமம்`; scan 49 preserves source `மாசமறுவற்ற`; scan 50 required no correction.
 
 ## Confirmed chapter structure
 
@@ -89,11 +89,11 @@ Scan 4 received a separate ordinary source-fidelity correction `பெருக�
 | 43 | 42 | body | verified | Chapter 4; retrospective glyph audit PASS (`னை`, `லை`, `றா`, `ணை`, `னா` confirmed) |
 | 44 | 43 | body | verified | Chapter 4; retrospective glyph audit PASS (`ளை`, `னா`, `றா`, `லை` confirmed); ends physical `நர்சு அவர்` |
 | 45 | 44 | body / chapter boundary | verified | Mixed Chapter 4 / Chapter 5; centered `5`; retrospective glyph audit PASS (`னா`, `ளை`, `லை` confirmed) |
-| 46 | 45 | body | verified | Chapter 5; retrospective glyph audit pending |
-| 47 | 46 | body | verified | Chapter 5; retrospective glyph audit pending |
-| 48 | 47 | body | verified | Chapter 5; retrospective glyph audit pending |
-| 49 | 48 | body | verified | Chapter 5; retrospective glyph audit pending |
-| 50 | 49 | body | verified | Chapter 5; retrospective glyph audit pending |
+| 46 | 45 | body | verified | Chapter 5; retrospective glyph audit PASS after source corrections `வேஷம் கலைந்துவிட்டதம்மா`, `தப்பி விட்டோம்`, `தடை போட்டார்களே`, `நெருப்பு மொழிகளும்`, `அசைவற்றுப் போனார்`; `லை` confirmed in `கலைந்த...` |
+| 47 | 46 | body | verified | Chapter 5; retrospective glyph audit PASS after `மானத்தைப்பற்றியே கவலைப்படாத`, `அளிப்பதாக`; `ளை`, `னை`, `லை`, `னா`, `றா` confirmed |
+| 48 | 47 | body | verified | Chapter 5; retrospective glyph audit PASS; source spelling corrected to `அகரமம்`; `னா`, `ளை` confirmed |
+| 49 | 48 | body | verified | Chapter 5; retrospective glyph audit PASS; source form corrected to `மாசமறுவற்ற`; `ணா`, `றா`, `ளை`, `றோ` confirmed |
+| 50 | 49 | body | verified | Chapter 5; retrospective glyph audit PASS; no correction; `னா`, `ணை`, `லை`, `றா` confirmed; `ஏமுட்டான்`, `புறப்படடா` retained |
 | 51 | 50 | body | verified | Chapter 5 ending; retrospective glyph audit pending |
 | 52 | 51 | body / chapter opening | verified | Chapter 6 opening; centered `6`; retrospective glyph audit pending |
 | 53 | 52 | body | verified | Chapter 6; ends `அனுப்பப்பட்டிருக்க`; retrospective glyph audit pending |
@@ -226,4 +226,4 @@ Scan 4 received a separate ordinary source-fidelity correction `பெருக�
 
 ## Exact next activity
 
-Perform **retrospective historical-glyph audit scans 46–50** as the next 5-scan iteration. Forward scan 112 remains paused until scans 1–101 are retrospectively cleared.
+Perform **retrospective historical-glyph audit scans 51–55** as the next 5-scan iteration. Forward scan 112 remains paused until scans 1–101 are retrospectively cleared.

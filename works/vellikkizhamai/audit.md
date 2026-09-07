@@ -12,7 +12,7 @@
 | Chapter map | **direct through Chapter 13 continuation at scan 111** |
 | Historical-glyph work-level gate | **REOPENED** |
 | Corrective historical-glyph re-audit | **PASS scans 102–111** |
-| Retrospective historical-glyph re-audit | **PASS scans 1–45; PENDING scans 46–101** |
+| Retrospective historical-glyph re-audit | **PASS scans 1–50; PENDING scans 51–101** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -89,6 +89,28 @@ Two separate **ordinary source-fidelity corrections** were positively supported 
 
 The source-visible `சரியில்லை` on scan 42 was independently checked and remains unchanged; it must not be shortened merely because the old `லை` form can be visually deceptive. Scan 45's centered `5` remains the Chapter 4 / Chapter 5 boundary. No global replacement, lexical modernization or grammar-driven repair was used.
 
+## Retrospective re-audit — scans 46–50
+
+**PASS / 5 OF 5 COMPLETE after source-supported corrections on scans 46–49. Scan 50 required no correction.**
+
+All five scans were re-inspected directly against the complete 13-family set. Character identities and ordinary lexical readings were accepted only where positively supported by enlarged/native source pixels.
+
+| Scan | Earlier canonical | Source-supported | Classification |
+|---:|---|---|---|
+| 46 | `தோஷம் கழந்துவிட்டதம்மா` | **`வேஷம் கலைந்துவிட்டதம்மா`** | source fidelity; `லை` identity directly confirmed in `கலைந்த...` |
+| 46 | first `தப்பிவிட்டோம்` | **`தப்பி விட்டோம்`** | ordinary source spacing |
+| 46 | `தடையோட்டார்களே` | **`தடை போட்டார்களே`** | ordinary source-text correction |
+| 46 | `நெருப்புமொழிகளும்` | **`நெருப்பு மொழிகளும்`** | ordinary source spacing |
+| 46 | `அசைவற்று போனார்` | **`அசைவற்றுப் போனார்`** | ordinary source-text correction |
+| 47 | `மானத்தைப்பற்றிய கவலையுண்டு` | **`மானத்தைப்பற்றியே கவலைப்படாத`** | source-text correction; `லை` confirmed in `கவலை...` |
+| 47 | `அனுப்பதாக` | **`அளிப்பதாக`** | ordinary source-text correction |
+| 48 | `அக்ரமம்` | **`அகரமம்`** | source spelling retained exactly |
+| 49 | `மாசுமறுவற்ற` | **`மாசமறுவற்ற`** | ordinary source-text correction |
+
+Representative historical-family confirmations include scan 46 `மாப்பிள்ளை` / `நல்ல வேளை` (`ளை`), `நயினா` (`னா`), `கலைந்துவிட்டதம்மா` (`லை`); scan 47 `மாப்பிள்ளை` (`ளை`), `என்னை` (`னை`), `கவலைப்படாத` (`லை`), `நயினா` (`னா`), `தாயாகியிருக்கிறாள்` (`றா`); scan 48 `நயினாவும்` (`னா`) and `களைப்பால்` (`ளை`); scan 49 `கல்யாணம்` (`ணா`), `மாற்றிக்கொள்ளுங்கள்` (`றா`), `மாப்பிள்ளை` (`ளை`), `நாள்தோறும்` (`றோ`); and scan 50 `நயினா` (`னா`), `பெண்ணை` / `கண்ணை` (`ணை`), `பரவாயில்லை` (`லை`), `மாசற்றவள்` (`றா`).
+
+No global replacement, grammar-driven normalization, or silent modernization was used. Source-specific scan-50 forms `ஏமுட்டான்` and `புறப்படடா` were retained exactly as printed.
+
 ## Corrective re-audit — scans 102–111
 
 **PASS for the ten-scan corrective range.** Confirmed historical corrections include `ஆட்டினாள்`, `நன்றாகக்`, `கத்தினாள்`, `கூறினாள்`, `திருப்பினாள்`, `என்றாள்`, `தவறாக`, `கொட்டினான்`, `ஓடினான்`, `ஓடினார்கள்`, `திமிறினான்`, `நடுங்கினாள்`, `சொன்னா`, `பொய்தானா?`, and `பெண்ணா?`. Scan 109 `கூறினன்` / `சொன்னன்` and scan 110 `புளுகினன்` were independently rechecked and retained. No global replacement was used.
@@ -105,7 +127,7 @@ The source-visible `சரியில்லை` on scan 42 was independently ch
 
 ## Unresolved project items
 
-- **retrospective historical-glyph re-audit scans 46–101**;
+- **retrospective historical-glyph re-audit scans 51–101**;
 - scans **112–179** forward canonical processing;
 - final complete Tamil audit;
 - assembled Tamil;
@@ -113,4 +135,4 @@ The source-visible `சரியில்லை` on scan 42 was independently ch
 
 ## Exact next activity
 
-Do **not** resume forward transcription yet. Process **scans 46–50** as the next retrospective 5-scan historical-glyph audit batch, update only positively source-supported corrections, synchronize page/status documents, and continue chronologically.
+Do **not** resume forward transcription yet. Process **scans 51–55** as the next retrospective 5-scan historical-glyph audit batch, update only positively source-supported corrections, synchronize page/status documents, and continue chronologically.

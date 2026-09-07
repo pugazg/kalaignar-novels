@@ -7,10 +7,10 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
-மாட்டார்கள்! புறப்படம்மா; புறப்படு!” என்று அவசரப்படுத்தினான். சிவநேசர் வெறிகொண்டவர்போல் “என் பெண், தாயாகிவிட்டாளா? அக்ரமம்! அபாண்டம்! அய்யோ! அடுக்காது! அடுக்காது! யாரோ என் குடும்பத்தைக் கெடுக்க சூழ்ச்சி செய்துவிட்டார்கள்! பெரிய இடத்திலே உறவு ஏற்படப் போகிறது சிவநேசனுக்கு என்று உறுமிக்கொண்டிருந்தவர்கள் இப்படி ஒரு பயங்கரமான உபாயத்தைக் கையாண்டிருக்கிறார்கள்! நம்பாதீர்கள்! நம்பாதீர்கள்!! யாரோ கட்டிவிட்ட கதை இது!” என்று புலம்பியழுதார்!
+மாட்டார்கள்! புறப்படம்மா; புறப்படு!” என்று அவசரப்படுத்தினான். சிவநேசர் வெறிகொண்டவர்போல் “என் பெண், தாயாகிவிட்டாளா? அகரமம்! அபாண்டம்! அய்யோ! அடுக்காது! அடுக்காது! யாரோ என் குடும்பத்தைக் கெடுக்க சூழ்ச்சி செய்துவிட்டார்கள்! பெரிய இடத்திலே உறவு ஏற்படப் போகிறது சிவநேசனுக்கு என்று உறுமிக்கொண்டிருந்தவர்கள் இப்படி ஒரு பயங்கரமான உபாயத்தைக் கையாண்டிருக்கிறார்கள்! நம்பாதீர்கள்! நம்பாதீர்கள்!! யாரோ கட்டிவிட்ட கதை இது!” என்று புலம்பியழுதார்!
 
 “ஆகா! உணர்ச்சிகரமான நடிப்பு! நாடகத்திலே சினிமாவிலே ‘அப்பா’ வேடத்திற்கு அபாரமான பொருத்தம்!” என்று கூறி கலகலவெனச் சிரித்தான் அழகப்பன்.
 
@@ -30,16 +30,16 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 - Opening completes scan 47; final `சொல்லிவிட்டுப் போய்` continues to scan 49.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected directly at enlarged/native source resolution.
-- Checked the mandatory reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement, OCR repair, or lexical modernization was used.
-- Source spelling, punctuation, dialogue forms, and physical page boundaries are preserved; later marks are excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `நயினாவும்` (`னா`), `களைப்பால்` (`ளை`), and source-visible `சரியில்லை`-family typography elsewhere in the same edition remained a comparison control.
+- Positive ordinary source-fidelity correction: `அக்ரமம்` → **`அகரமம்`** exactly as printed.
+- No historical-family substitution, global replacement, grammar-driven respelling, or silent modernization was used.
 
 ## Scan observations
 
 - Visible printed page number: **47**.
+- Retrospective historical-glyph audit: **PASS after 1 ordinary source correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 48; அச்சுப் பக்கம்: 47 -->

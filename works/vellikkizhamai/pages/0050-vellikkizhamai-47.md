@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 கிண்டலும் செய்தான்; இடையிடையே சீறியும் விழுந்தான் அழகப்பன். இவ்வளவு நேரம் மெளனமாக இருந்து இந்த அசம்பாவித நிகழ்ச்சியைக் கவனித்துக் கொண்டிருந்த நயினா முகமது, சிவநேசரை அணுகி மெதுவாக “நான் ஒன்று கேட்கிறேன் கோபித்துக்கொள்ளக்கூடாது! நீங்கள் சந்தேகப்படுவது தவறு என்றால் நீங்கள் ஏன் உங்கள் மகள் தூய்மையான பெண் என்பதை நிரூபிக்கக்கூடாது? அதற்காக முயற்சி எடுத்துக்கொள்ளுங்களேன்!” என்று கூறினான். சிவநேசர் சிறிது யோசித்தார். அதற்குள் அழகப்பன் குறுக்கிட்டான். “அடே நயினா! ஏமுட்டான்! இனிமேல் என்னடா நிரூபிப்பது! இருவரும் நேரிலேயே பார்த்தோம்—இதற்கு சாட்சிவேறு வேண்டுமா? புறப்படடா!” என்று அதட்டினான்.
@@ -18,16 +18,16 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 - Opening completes scan 49; final `தாயாரின் கையைப்` continues to scan 51.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected directly at enlarged/native source resolution.
-- Checked the mandatory reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement, OCR repair, or lexical modernization was used.
-- Source spelling, punctuation, dialogue forms, and physical page boundaries are preserved; later marks are excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `நயினா` (`னா`), `பெண்ணை` / `கண்ணை` (`ணை`), `பரவாயில்லை` (`லை`), and `மாசற்றவள்` (`றா`).
+- No canonical text correction was required on this scan.
+- Source-specific forms including `ஏமுட்டான்`, `புறப்படடா`, and the printed punctuation were retained exactly; no global replacement or silent modernization was used.
 
 ## Scan observations
 
 - Visible printed page number: **49**.
+- Retrospective historical-glyph audit: **PASS; no correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 50; அச்சுப் பக்கம்: 49 -->

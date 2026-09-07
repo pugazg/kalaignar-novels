@@ -18,7 +18,7 @@
 - Chapter 13 transcribed through scan 111 / printed 110;
 - **historical-glyph work-level gate: REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–45; pending scans 46–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–50; pending scans 51–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective historical-glyph batches
@@ -75,6 +75,18 @@ Representative confirmations:
 
 Scan 42 required two **ordinary source-fidelity** corrections, not historical-glyph substitutions: `பொறுத்துச்` → **`பொருத்தம்`** and `சுதன` → **`சனதன`**. Scans 41, 43, 44 and 45 required no canonical correction. Scan 45 remains the mixed Chapter 4 / Chapter 5 boundary with centered source heading `5`.
 
+### Scans 46–50
+
+**PASS / 5 OF 5 COMPLETE.** Scans 46–49 received positively source-supported corrections; scan 50 required no canonical correction.
+
+- scan 46: `தோஷம் கழந்துவிட்டதம்மா` → **`வேஷம் கலைந்துவிட்டதம்மா`**, first `தப்பிவிட்டோம்` → **`தப்பி விட்டோம்`**, `தடையோட்டார்களே` → **`தடை போட்டார்களே`**, `நெருப்புமொழிகளும்` → **`நெருப்பு மொழிகளும்`**, `அசைவற்று போனார்` → **`அசைவற்றுப் போனார்`**; `கலை...` directly confirms historical `லை`;
+- scan 47: `மானத்தைப்பற்றிய கவலையுண்டு` → **`மானத்தைப்பற்றியே கவலைப்படாத`**, `அனுப்பதாக` → **`அளிப்பதாக`**;
+- scan 48: source spelling `அக்ரமம்` → **`அகரமம்`**;
+- scan 49: `மாசுமறுவற்ற` → **`மாசமறுவற்ற`**;
+- scan 50: no correction; source-specific `ஏமுட்டான்` and `புறப்படடா` retained exactly.
+
+Representative historical-family confirmations include `மாப்பிள்ளை`, `நல்ல வேளை`, `கலைந்துவிட்டதம்மா`, `என்னை`, `கவலைப்படாத`, `நயினா`, `களைப்பால்`, `கல்யாணம்`, `நாள்தோறும்`, `பெண்ணை`, `கண்ணை`, `பரவாயில்லை`, and `மாசற்றவள்`.
+
 ## Why the historical-glyph gate was reopened
 
 The previous pass incorrectly treated several historical Tamil typeforms as their modern visual look-alikes. The guide requires the opposite: identify the historical character first, then encode that identity in Unicode. Confirmed corrections already applied in scans 102–111 include `நன்றுகக்` → `நன்றாகக்`, `தவறுக` → `தவறாக`, `என்றுள்` → `என்றாள்`, multiple missing-`ஆ` forms, `சொன்னு` → `சொன்னா`, and `பெண்ணு?` → `பெண்ணா?`.
@@ -91,6 +103,10 @@ No blanket morphological correction is permitted. Nearby forms are independently
 - scan 40 `என்னையாவது`, `அவர்களை`, `கைவற்றுப்போனான்` are controlling;
 - scan 42 source reads **`பொருத்தம் சரியில்லை`** and **`சனதன உள்ளம்`**;
 - scan 45 has the Chapter 4 / 5 boundary with centered `5`;
+- scan 46 source has **`வேஷம் கலைந்துவிட்டதம்மா`**, **`தடை போட்டார்களே`**, **`அசைவற்றுப் போனார்`**;
+- scan 47 source has **`மானத்தைப்பற்றியே கவலைப்படாத`** and **`அளிப்பதாக`**;
+- scan 48 preserves **`அகரமம்`** exactly as printed;
+- scan 49 preserves **`மாசமறுவற்ற`**;
 - scan 66 visibly prints only `5`; never infer `65`;
 - scan 111 ends physical `சிறிதா`; scan 112 begins `வது`.
 
@@ -103,6 +119,6 @@ No blanket morphological correction is permitted. Nearby forms are independently
 
 ## Exact next activity
 
-Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 46–50**, synchronize page records and status documents, and continue chronologically until scans 1–101 are cleared. Only then resume forward transcription.
+Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 51–55**, synchronize page records and status documents, and continue chronologically until scans 1–101 are cleared. Only then resume forward transcription.
 
 Do not start assembled Tamil or English.
