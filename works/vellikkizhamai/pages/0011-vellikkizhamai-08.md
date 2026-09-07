@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “இத்தனை நாள் இல்லாமல் இன்று மட்டும் எப்படியடி அதிகாலையில் விழித்துக்கொண்டாய்?” என்று கேட்பார்கள்—அதற்குப் பயந்துகொண்டு சிந்தாமணி தூங்குவது போலப் படுத்துக்கொண்டாள்.
@@ -33,18 +33,17 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 கொத்தலர் பூங்குழல் நப்பின்னைக் கொங்கைமேல்
 வைத்துக் கிடந்த மலர்மார்பா வாய்திறவாய்!”
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was read from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- No unresolved historical-glyph cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed directly from the scan: `இத்தனை` (`னை`), `கண்களை` (`ளை`), `துயிலணைமேல்` (`ணை`), `நன்றாகத்` (`றா`), and `என்றாள்` (`றா` full-cluster identity).
+- `என்றாள் ராதா!` was independently rechecked because the same old-type family has produced `என்றுள்` → `என்றாள்` failures elsewhere; this occurrence is already correctly encoded.
+- Tiruppavai verse lines remain exactly as printed in this edition.
+- No historical-glyph correction, global replacement or silent modernization was required.
 
 ## Page-boundary / scan observations
 
 - Visible printed page number: **10**.
 - Opening quoted question continues the setup at the end of scan 10.
-- `என்றாள் ராதா!` was read from the historical printed glyph identity; no visual-look-alike transcription was retained.
-- Tiruppavai verse lines are preserved exactly as printed in this edition.
 
 <!-- மூல ஸ்கேன் பக்கம்: 11; அச்சுப் பக்கம்: 10 -->

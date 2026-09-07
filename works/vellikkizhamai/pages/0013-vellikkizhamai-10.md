@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 # 2
@@ -18,13 +18,12 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “அழகில் அர்ச்சுனன்—அதற்குமேல் கேட்காதே போ!” என்றார் பாரதத்தைக் கரைகண்ட அவளது தகப்பனார் சிவநேசர்.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- Later pen underlines/marks were excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed directly from the scan: `பிள்ளைவீடு`, `மாப்பிள்ளை`, `காளை` (`ளை`), `எத்துணை` (`ணை`), and `பெற்றோர்களால்` (`றோ`).
+- Chapter heading `2` and later pen marks remain structural/copy-specific observations rather than body-text alterations.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required in this retrospective pass.
 
 ## Scan observations
 

@@ -16,10 +16,10 @@ Resolve `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-25
 - Chapter 13 transcribed through scan 111 / printed 110;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–10; PENDING scans 11–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–15; PENDING scans 16–101**;
 - forward transcription at scan 112 is paused until retrospective coverage is cleared.
 
-## Retrospective results — scans 1–10
+## Retrospective results — scans 1–15
 
 ### Scans 1–5
 
@@ -39,6 +39,18 @@ All five scans passed direct source-pixel review against the complete 13-family 
 
 No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 6–10.
 
+### Scans 11–15
+
+All five scans passed direct source-pixel review against the complete 13-family set. No canonical text correction was required.
+
+- scan 11: `இத்தனை` (`னை`), `கண்களை` (`ளை`), `துயிலணைமேல்` (`ணை`), `நன்றாகத்` / `என்றாள்` (`றா`) confirmed;
+- scan 12: `தாமரையானாள்` (`னா`), `நிலையிலுள்ள` / `சேலைக்குக்கூட` / `கிட்டுவதில்லை` (`லை`), `நாள்தோறும்` (`றோ`) confirmed;
+- scan 13: `பிள்ளைவீடு`, `மாப்பிள்ளை`, `காளை` (`ளை`), `எத்துணை` (`ணை`), `பெற்றோர்களால்` (`றோ`) confirmed;
+- scan 14: `என்றாள்`, `நின்றாள்` (`றா`), `நடக்கவில்லையோ` (`லை`) confirmed;
+- scan 15: `அர்ச்சுனனை` (`னை`), `கூறினாளாம்` / `தானா?` / `நன்னாள்` (`னா`), `ஒப்பிடுகிறார்களே` (`றா`) confirmed.
+
+No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was made in scans 11–15.
+
 ## Critical historical-glyph rule
 
 The earlier pass sometimes treated old Tamil metal-type shapes as modern look-alikes instead of decoding the historical character identity first. Mandatory set:
@@ -51,6 +63,6 @@ Confirmed corrective examples in scans 102–111 include `நன்றுகக�
 
 ## Exact next activity
 
-Perform the **retrospective historical-glyph re-audit of scans 11–15** as the next 5-scan iteration. Synchronize page records/audit/status documents and commit only positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
+Perform the **retrospective historical-glyph re-audit of scans 16–20** as the next 5-scan iteration. Synchronize page records/audit/status documents and commit only positively supported corrections. Continue retrospectively in 5-scan batches through scan 101. Only then resume forward work at scan 112.
 
 Do not start assembled Tamil or English.

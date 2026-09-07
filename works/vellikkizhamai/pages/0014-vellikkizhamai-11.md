@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 அப்போது அருகே இருந்த ஆண்டாள்—குறும்புக்காரியாயிற்றே; சும்மாயிருப்பாளா—துருதுருத்த வாயை மூடிக்கொண்டு!
@@ -30,13 +30,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “அர்ச்சுனன் மாதிரி அழகன் என்றாரே அப்பா!... ஆகா! நான் எவ்வளவு பாக்கியம் செய்தவள்! பாரதம் நடந்ததோ நடக்கவில்லையோ—பொய்யோ—புளுகோ அதைப்பற்றியெல்லாம் எனக்குக் கவலையில்லை.... அதிலே
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected at enlarged/native resolution.
-- Checked the known reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement or spelling modernization was used.
-- Later underlines/ticks were excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative identities confirmed directly from the scan: `என்றாள்` and `நின்றாள்` (`றா` full-cluster identity), plus `நடக்கவில்லையோ` (`லை`).
+- The two `றா`-family forms were checked independently rather than inferred from grammar or from other occurrences.
+- Later underlines/ticks remain excluded from canonical printed text.
+- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
 
 ## Page-boundary continuity
 

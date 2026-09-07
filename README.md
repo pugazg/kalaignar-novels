@@ -30,7 +30,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - **historical-glyph work-level gate REOPENED** after a systematic old-type decoding error was found;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–10; pending scans 11–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–15; pending scans 16–101**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**.
@@ -48,6 +48,14 @@ The second retrospective 5-scan batch is complete. All 13 mandatory historical f
 Representative confirmations include scan 6 `என்னை` (`னை`), `மறுவேலை` (`லை`), `உளறுகிறேனா` (`னா`), `தூங்காமலிருந்திருக்கிறோமே` (`றோ`); scan 7 `எத்தனையோ` (`னை`), `எண்ணுகிறாளா` (`றா`), `இல்லைத்தான்` / `விடிவதில்லை` (`லை`); scan 8 `களைத்துத்` (`ளை`) and `போறான்` (`றா`); scan 9 `காளைகளாயிற்றே` (`ளை`), `முல்லை` / `தொல்லைப்பட்டு` (`லை`); and scan 10 `புறாக்கள்` (`றா`), `கொடியன்றோ` / `தினந்தோறும்` (`றோ`), `நாணாதாய்` (`ணா`), `எங்களை` (`ளை`).
 
 Source-specific non-glyph forms `அய் யோன்னு` (scan 8) and `குழப்பட்டு` (scan 9) were retained as printed. No global replacement or silent modernization was used.
+
+### Retrospective glyph audit — scans 11–15
+
+The third retrospective 5-scan batch is complete. All 13 mandatory historical families were explicitly considered on every scan, and no canonical text correction was required.
+
+Representative confirmations include scan 11 `இத்தனை` (`னை`), `கண்களை` (`ளை`), `துயிலணைமேல்` (`ணை`), `நன்றாகத்` / `என்றாள்` (`றா`); scan 12 `தாமரையானாள்` (`னா`), `நிலையிலுள்ள` / `சேலைக்குக்கூட` / `கிட்டுவதில்லை` (`லை`), `நாள்தோறும்` (`றோ`); scan 13 `பிள்ளைவீடு`, `மாப்பிள்ளை`, `காளை` (`ளை`), `எத்துணை` (`ணை`), `பெற்றோர்களால்` (`றோ`); scan 14 `என்றாள்`, `நின்றாள்` (`றா`) and `நடக்கவில்லையோ` (`லை`); and scan 15 `அர்ச்சுனனை` (`னை`), `கூறினாளாம்` / `தானா?` / `நன்னாள்` (`னா`), `ஒப்பிடுகிறார்களே` (`றா`).
+
+No historical-glyph substitution, ordinary lexical correction, global replacement or silent modernization was required in scans 11–15.
 
 ### Historical-glyph corrective finding
 
@@ -77,7 +85,7 @@ Use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRA
 
 ## Next activity
 
-Continue the retrospective historical-glyph re-audit in the next 5-scan batch: **scans 11–15**. Forward transcription at scan 112 remains paused until scans 1–101 are cleared.
+Continue the retrospective historical-glyph re-audit in the next 5-scan batch: **scans 16–20**. Forward transcription at scan 112 remains paused until scans 1–101 are cleared.
 
 ## Release-status meaning
 
