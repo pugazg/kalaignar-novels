@@ -7,19 +7,20 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 நயினா முகம்மது அவர்களை வழியனுப்பிவிட்டு டைகருடன் மருத்துவமனைக்குத் திரும்பினான். ஆனந்தி படுத்திருக்கும் கட்டிலுக்குச் சிறிது தூரத்தில் ஒரு நாற்காலியைத் தூக்கிப் போட்டுக்கொண்டு நயினா உட்கார்ந்து கொண்டான். அவனை எப்படியாவது துரத்திவிடவேண்டும் என்று துடியாய்த் துடித்தான் டைகர். தான் மட்டுமே ஆனந்திக்கு வேண்டியவன் என்றும், நயினா ஆனந்திக்குத் தெரியாதவனென்றும்—அதனால் அவன் இங்கிருக்கத் தேவையில்லையென்றும்—டாக்டர்களிடம் சொல்லி அவனைத் துரத்திவிடலாமா என்று யோசித்தான். அப்படிச் சொல்லும் போது ஒருவேளை, ஆனந்தியே தனக்கு எதிர்ப்பாக இருந்துவிட்டால் என்ன செய்வது என்ற அச்சமும் பிறந்தது! செய்வதறியாது விழித்தான் டைகர்! பிறகு நயினாவிடம்... “நீங்கள்தான் இங்கிருக்கிறீர்களே; ஆனந்தியைப் பார்த்துக்கொள்ளுங்கள்! நான் காலையில் வருகிறேன்” என்று கூறிவிட்டுப் பாலையூர் மருத்துவமனையிலிருந்து வேகமாகப் புறப்பட்டான்! பயங்கரமான திட்டமொன்றுக்கான அடித்தளம் அவன் நெஞ்சப் படுகுழியில் அமைவதை அவனது முகம் எடுத்துக் காட்டிற்று!
 
 மாலைச் சூரியன் மேற்கிசையிலிருந்து பொன்னிறக் கதிர்களை மருத்துவமனைப் பலகணி வழியாக ஆனந்தியின் மீது கொட்டினான். அந்த மஞ்சள் நிற வெயிலிலே ஆனந்தியின் மந்தகாச முகம் ஒளிசிந்திக்கொண்டிருந்தது. ஆனந்தி, லேசாகக் கண்களைத் திறந்து சுற்றுமுற்றும் பார்த்தாள். உடனே நயினா அவளருகே ஓடி, “என்ன வேண்டும்?” என்று கேட்டான் ஆனந்திக்குப் பேச இயலவில்லை. இதழ்கள் அசைத்தாள். நயினா யூகமாக “ஹார்லிக்ஸா?” என்று வினவினான். அவளது சுந்தர விழிகள் ஆமோதிப்பதுபோல் அசைந்தன. அவசர அவசரமாக ‘ஹார்லிக்ஸ்’ தயாரிக்கத் தொடங்கினான். தயாரிக்கும் போதே இன்ப நினைவுகள்! ‘ஹார்லிக்ஸ்’ நாம்தானே அவளுக்குத் தரவேண்டும்—ஆகா—எவ்வளவு அருமையான வாய்ப்பு! ‘ஹார்லிக்ஸ்’ குவளையை அவள் இதழ் அருகே நீட்டும்போது; என் விழிகளும் சந்திக்குமல்லவா?
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Entire scan inspected at enlarged/native source resolution; full historical-glyph set checked.
-- `நயினா` / `நயினா முகம்மது` retain historical `னா` identity.
-- Source forms `துடியாய்த் துடித்தான்`, `செய்வதறியாது`, `பலகணி`, `மந்தகாச`, `ஒளிசிந்திக்கொண்டிருந்தது`, and `ஆமோதிப்பதுபோல்` are preserved.
-- No unresolved source cluster remains.
+- Entire scan re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include repeated `நயினா` (`னா`), `திரும்பினான்` / `கொண்டான்` / `யோசித்தான்` (`னா`), `நாற்காலியைத்` (`றா`), `பாலையூர்` / `காலையில்` / `இயலவில்லை` (`லை`), `கண்களைத்` (`ளை`), and `அவனை` (`னை`).
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- Source-specific `துடியாய்த் துடித்தான்`, `செய்வதறியாது`, `பலகணி`, `மந்தகாச`, `ஒளிசிந்திக்கொண்டிருந்தது`, and `ஆமோதிப்பதுபோல்` were retained exactly.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -29,5 +30,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **71**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 72; அச்சுப் பக்கம்: 71 -->

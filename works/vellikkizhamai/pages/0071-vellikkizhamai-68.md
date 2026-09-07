@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 அழகப்பனும் அவளருகே வந்து “நான் கூட போய் வருகிறேன்” என்றான். ஆனந்தி ஏதோ பேச முயன்றாள் போகவேண்டாமென்று சொல்வதற்கு எண்ணுகிறாள் என்று கற்பனை செய்துகொண்டான் அழகு! அவனை ஆனந்தி, இமைக்காமல் அப்படியே பார்த்தாள். “நீங்களுமா?” என்பது போல ஒரு மௌனக் ஒலி மட்டும் கிளம்பிற்று அவளிடமிருந்து!
@@ -18,12 +18,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 இப்படிக் குருடிக் களிப்படைந்தான் அழகு. அந்த ஒரு புன்னகை அவன் உள்ளத்திலே அவ்வளவு கற்பனைகளை எழுப்பியது. வானத்திலே சஞ்சரிக்கும் மேகங்கள் காற்றின் மோதுதலால் ஒன்றுசேரும்போதும் பிரியும்போதும் ஆகா! இது யானைபோலிருக்கிறது; இது பூனைபோலிருக்கிறது என்று கற்பனை செய்வதில்லையா? அதுபோலவே ஆனந்தியின் இதழ் அசைவுக்கு அழகப்பன் புதுப்புது அர்த்தங்களை தனக்குள்ளாகவே படைப்பித்துக்கொண்டான். நயினா முகம்மது அந்தப் புன்னகையிலே போதை தலைக்கேறியவனாய் நின்றான். இறுதியில் அழகப்பன் பிரியமுடியாமல் அந்த இடத்தைவிட்டுப் பிரிந்து தாயாரம்மாளுடன் காரில் ஏறி உட்கார்ந்தான். நயினா
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Full scan inspected directly; mandatory historical-glyph set checked before Unicode transcription.
-- `நயினா`, `நயினாவின்`, `நயினாமீது`, and `நயினா முகம்மது` retain historical `னா` identity.
-- Source forms `நாலந்து`, `மௌனக் ஒலி`, `பாங்கர்கள்`, `குருடிக் களிப்படைந்தான்`, `ஒன்றுசேரும்போதும்`, and `தனக்குள்ளாகவே` are preserved.
-- No unresolved source cluster remains.
+- Complete scan re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include repeated `நயினா` / `நயினாவின்` / `நயினாமீது` (`னா`), `களிப்படைந்தான்` (`ளை`, `னா`), `பூனைபோலிருக்கிறது` (`னை`), and `காற்றின்` (`றா`).
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- Source-specific `நாலந்து`, `மௌனக் ஒலி`, `பாங்கர்கள்`, `குருடிக் களிப்படைந்தான்`, `ஒன்றுசேரும்போதும்`, and `தனக்குள்ளாகவே` were retained without normalization.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -33,5 +34,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **70**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 71; அச்சுப் பக்கம்: 70 -->

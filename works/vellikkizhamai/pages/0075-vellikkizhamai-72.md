@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; mixed chapter boundary preserved; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; mixed chapter boundary preserved; retrospective historical-glyph audit completed"
 ---
 
 சிந்தாமணி காணப்படவில்லை. தூங்கிக்கொண்டிருந்த நர்ஸை எழுப்பி, “எங்கே சிந்தாமணி?” என்று கேட்டாள்!
@@ -22,12 +22,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 ஊர் மக்கள் கூடினர். சிவநேசர் அவர்களையெல்லாம் வெறிகொண்ட வார்த்தைகளால் தாக்கத் துவங்கினர். அவரை வலுக்கட்டாயமாக அங்கிருந்து இழுத்துச் சென்று
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete physical scan inspected at enlarged/native resolution; the full 13-family historical-glyph set was checked.
-- Historical `ளா` identity was cleared in source dialogue tags such as `என்றாள்` rather than copied from the old visual form.
-- The centered source `9` is preserved at its physical location; no text is moved across the chapter boundary.
-- No unresolved source cluster remains.
+- Complete physical scan re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution; centered Chapter `9` remains at the source boundary.
+- Representative source-confirmed identities include `காணப்படவில்லை` / `யாருமில்லை` / `பேசவே இல்லை` (`லை`), `என்றாள்` / `கதறினாள்` / `உருண்டாள்` contexts independently checked for the known old-type missing-`ஆ` risk, and `பெண்ணே` / `தங்களுக்குத்` nearby `ண` forms independently checked.
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- Source-specific `நாழிகையாகத்`, `கூறினர்களே`, `தடுத்துங்கூட`, and `தாக்கத் துவங்கினர்` were retained exactly.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -38,5 +39,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **74**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 75; அச்சுப் பக்கம்: 74 -->

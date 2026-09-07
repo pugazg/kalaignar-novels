@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 என்ன? பாவம்; பைத்தியக்கார சிவநேசர்; இந்தச் சிக்கலுக்கு சிவனார் வழி காட்டுவார் என்று பரிபூரணமாக நம்பினார்!
@@ -20,12 +20,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “ஏன் போகிறது மானம்? எவனோ ஒருத்தன் உளறின என்பதற்காகத் தங்கம் பித்தளையாகிவிடுமா?” என்று சிவகாமி ஆத்திரத்தோடு பேசினாள். இருவரும் ஆனந்தியின் மருத்துவ மனைக்குள் நுழைந்தார்கள். வாயிற்புறத்தில் யாருமில்லை. ஆனந்தி, விபத்துக்குள்ளாகிப் பாலையூர் சென்றுவிட்டதால் மருத்துவமனை வெறிச்சென்று காணப்பட்டது. வழக்கமாக வரவேற்கும் வேம்புவைக்கூட காணவில்லை. நர்ஸ் ஒருத்திமட்டும் சாய்வு நாற்காலியில் சாய்ந்தவாறு தூங்கிக்கொண்டிருந்தாள். சிவகாமி, சிந்தாமணி படுத்திருந்த கட்டிலண்டை வேகமாகப் போனாள். அங்கே
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete scan inspected directly at enlarged/native source resolution; the mandatory 13-family historical-glyph set was checked before Unicode transcription.
-- Historical `னா` / `றா` identities were decoded from the source in readings including `சிவனார்` and `மாறாக`; the former `னு`-like visual shape was not copied literally.
-- Source-specific wording `எவனோ ஒருத்தன் உளறின` is retained from direct source-pixel review; no grammatical modernization was applied.
-- No unresolved source cluster remains on this scan.
+- Complete scan re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `சிவனார்` (`னா`), `மாறாக` (`றா`), `நல்லவேளை` / `மாப்பிள்ளை` (`ளை`), `கவலைப்படாமல்` / `காணவில்லை` (`லை`), and `சிந்தாமணியைப்` (`ணை`).
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- Source-specific wording `எவனோ ஒருத்தன் உளறின`, `மருத்துவ மனைக்குப்`, `வேறுமாப்பிள்ளை`, `வேம்புவைக்கூட`, and `ஒருத்திமட்டும்` was retained without grammatical or spacing normalization.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -35,5 +36,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **73**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 74; அச்சுப் பக்கம்: 73 -->

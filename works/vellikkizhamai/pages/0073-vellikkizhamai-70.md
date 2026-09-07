@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 இதுவரை சந்தித்தது போலில்லாமல் அந்த சந்திப்பில் ஒரு நெருக்கம் இருக்குமல்லவா? நினைக்கவே இனித்தது நெஞ்சம். ‘ஹார்லிக்ஸை’ எடுத்துக்கொண்டு எழுந்தான் நயினா!....அந்தோ, அவனது எண்ணக் கோட்டை தவிடுபொடியாகிவிட்டது...... நர்ஸ் வேகமாக வந்து கொண்டே, “என்ன ஹார்லிக்ஸா?” எனக்கேட்டபடி அவன் கையிலிருந்த குவளையை வாங்கி ஆனந்தியிடம் திருப்பினாள். நர்ஸ் குறுக்கீடு நயினாவை மரம்போலச் செய்துவிட்டது. வெட்பத்தையும் வேதனையையும் வெளியில் காட்டிக்கொள்ளாமல் அவன் பழையபடி உட்கார்ந்து கொண்டான். ஆனந்திக்கு வேண்டிய வசதிகளைச் செய்து விட்டு, நர்ஸ் அதை விட்டு அகன்றாள். இனி அடுத்த சந்தர்ப்பம் எப்போது கிடைக்குமென்று எதிர்பார்த்தபடி நயினா உட்கார்ந்திருந்தான்.
@@ -16,13 +16,14 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 சிந்தாமணி மாசற்ற மாணிக்கம், களங்கமற்ற நிலவு என்றெல்லாம் சீராட்டிப் பாராட்டி வளர்த்த சிவநேசரும், சிவகாமியும் எரிமலையின் தீக்குழம்பால் தாக்குண்டது போலத் துடித்துத் தேம்பி அழுதனர். தெய்வமே துணை என்று இருப்பவள் சிவகாமி. அவனன்றி ஓரணுவும் அசையாது என்று அழுத்தமாக நம்பிக்கிடப்பவர் சிவநேசர்! அவனையுமறியாமல் இந்த அக்ரம அசைவு எப்படி ஏற்பட்டது என்று அவருக்கே புரியவில்லை! பூமி அசைவுகளையும்—பூகம்ப அதிர்ச்சிகளையும்—பூவோடும் பிஞ்சோடும் குடும்பங்கள் புயல்காற்றில் சிக்கி மடிவதையும், கடற்கொந்தளிப்பில் நாடு நகரங்கள் நாசமாவதையும் அமைதியோடு பார்த்துக்கொண்டிருக்கிற “ஆண்டவன்” சிவநேசர் குடும்பத்திலே ஏற்பட்ட சிறு கொந்தளிப்பு கண்டா அதிர்ச்சி அடைந்துவிடப் போகிறான்! கற்பைவிற்று. உடலை விலைகூறி, உல்லாசிகளுடன் தேகத்தை உராசிக் காசு பெறும் “உத்தமி”களை உலவவிட்டு வேடிக்கை பார்க்கும் “ஆண்டவன்” சிந்தாமணியின்மீது ஏற்பட்ட களங்கத்தைத் துடைப்பதற்கு ஓடோடியும் வரவேண்டுமா
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete scan inspected directly at enlarged/native source resolution; all mandatory historical glyph families checked.
-- `நயினா` readings preserve historical `னா` identity.
-- Source-specific forms and compounds including `வெட்பத்தையும்`, `நம்பிக்கிடப்பவர்`, `அவனையுமறியாமல்`, `அக்ரம`, `கடற்கொந்தளிப்பில்`, `கற்பைவிற்று`, `விலைகூறி`, `உராசிக்`, and `உலவவிட்டு` are retained.
-- Three centered source ornaments are represented by `* * *`.
-- No unresolved source cluster remains.
+- Complete scan re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include repeated `நயினா` / `நயினாவை` (`னா`, `னை`), `திருப்பினாள்` (`னா`), `நிலவு` / `புரியவில்லை` (`லை`), `களங்கமற்ற` / `கொந்தளிப்பு` (`ளை`), and `மாசற்ற` / `காற்றில்` (`றா` contexts independently checked).
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- Source-specific `வெட்பத்தையும்`, `நம்பிக்கிடப்பவர்`, `அவனையுமறியாமல்`, `அக்ரம`, `கடற்கொந்தளிப்பில்`, `கற்பைவிற்று`, `விலைகூறி`, `உராசிக்`, and `உலவவிட்டு` were retained exactly.
+- The three centered source ornaments remain represented as `* * *`.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -32,5 +33,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **72**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 73; அச்சுப் பக்கம்: 72 -->
