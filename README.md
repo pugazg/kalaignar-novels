@@ -30,7 +30,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - **historical-glyph work-level gate REOPENED** after a systematic old-type decoding error was found;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–65; pending scans 66–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–70; pending scans 71–101**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**.
@@ -45,7 +45,8 @@ All retrospective scans explicitly test the mandatory old-type families `ணா 
 - scans **46–50**: PASS. Source-supported corrections include scan 46 `தோஷம் கழந்துவிட்டதம்மா` → **`வேஷம் கலைந்துவிட்டதம்மா`**, `தடையோட்டார்களே` → **`தடை போட்டார்களே`**, `அசைவற்று போனார்` → **`அசைவற்றுப் போனார்`**; scan 47 `மானத்தைப்பற்றிய கவலையுண்டு` → **`மானத்தைப்பற்றியே கவலைப்படாத`**, `அனுப்பதாக` → **`அளிப்பதாக`**; scan 48 `அக்ரமம்` → **`அகரமம்`**; scan 49 `மாசுமறுவற்ற` → **`மாசமறுவற்ற`**. Scan 50 required no correction;
 - scans **51–55**: PASS. Scan 52 corrected `குபுகுபு` → **`குபு குபு`**, `அவங்களுக்கேதான்` → **`அவங்களுக்கே தான்`**, `பாலூர்` → **`பாலையூர்`** in both occurrences, and `பாலூர் மருத்துவமனையில்` → **`பாலையூர் மருத்துவ மனையில்`**. Scan 54 corrected `விரும்பினான்` → **`விரும்பினன்`** and `இந்த மனத் தத்துவத்தை` → **`இந்த மன தத்துவத்தை`**. Scan 55 corrected `மருத்துவமனையிலிருந்து` → **`மருத்துவ மனையிலிருந்து`**. Scans 51 and 53 required no canonical correction;
 - scans **56–60**: PASS. Scan 56 corrected `எடுத்துக்காட்டும்` → **`எடுத்துக் காட்டும்`** and `பொறுத்துக்கொள்ள` → **`பொறுத்துக் கொள்ள`**. Scan 57 corrected `நிலைநாட்டும்` → **`நிலநாட்டும்`**. Scan 58 corrected `மருத்துவமனையில்` → **`மருத்துவ மனையில்`** and `இந்தச் சொல்மட்டும்` → **`இந்த சொல்மட்டும்`**. Scan 59 required no correction. Scan 60 corrected `அருகிலேயிருந்தது` → **`அருகிலே இருந்தது`**;
-- scans **61–65**: **PASS / 5 OF 5 COMPLETE with no canonical correction.** Source-pixel confirmations include scan 61 `நயினா` / `நயினாவின்` (`னா`) and `உனக்கில்லை` (`லை`); scan 62 `நயினா` (`னா`) / `இல்லை` (`லை`) with genuine `பொய்தானு` and `பேசினன்`; scan 63 `மாப்பிள்ளை` (`ளை`), `திருமணமானவள்` (`ணா`), `நியாயமில்லை` (`லை`), repeated `நயினா` (`னா`) with genuine `நோக்கினன்`; scan 64 `மாறிவிடுவதா` / `காப்பாற்றுவேன்` (`றா`), `அவளை` (`ளை`), `நிலைநாட்டுவேன்` / `நிறைவேறவில்லை` (`லை`), `நயினா` (`னா`); scan 65 `அவனைப்` (`னை`), repeated `நயினா` (`னா`), `திருப்பினாள்` (`னா`).
+- scans **61–65**: **PASS / 5 OF 5 COMPLETE with no canonical correction.** Source-pixel confirmations include scan 61 `நயினா` / `நயினாவின்` (`னா`) and `உனக்கில்லை` (`லை`); scan 62 `நயினா` (`னா`) / `இல்லை` (`லை`) with genuine `பொய்தானு` and `பேசினன்`; scan 63 `மாப்பிள்ளை` (`ளை`), `திருமணமானவள்` (`ணா`), `நியாயமில்லை` (`லை`), repeated `நயினா` (`னா`) with genuine `நோக்கினன்`; scan 64 `மாறிவிடுவதா` / `காப்பாற்றுவேன்` (`றா`), `அவளை` (`ளை`), `நிலைநாட்டுவேன்` / `நிறைவேறவில்லை` (`லை`), `நயினா` (`னா`); scan 65 `அவனைப்` (`னை`), repeated `நயினா` (`னா`), `திருப்பினாள்` (`னா`);
+- scans **66–70**: **PASS / 5 OF 5 COMPLETE; no historical-family substitution.** Scan 66 required no canonical correction and visibly prints only page number `5`. Ordinary source-fidelity corrections: scan 67 `பிறர் கெடுவதை` → **`பிறர் கெடுவதையே`**; scan 68 quoted `பாலையூர் மருத்துவமனையில்` → **`பாலையூர் மருத்துவ மனையில்`**, `பணிபுரியலாமென்று` → **`பணி புரியலாமென்று`**, `தொலையமாட்டார்களா என்று` → **`தொலையமாட்டார்களா என்றும்`**; scan 69 `விடக்கூடாதம்மா` → **`விடக் கூடாதம்மா`**; scan 70 `இருப்பதுகூட` → **`இருப்பது கூட`**, `நயினாவிடம் கூடச் சொல்லிவிடலாமே` → **`நயினாவிடம் கூட சொல்லிவிடலாமே`**, `அவன் சுற்று அழுத்தந்திருத்தமாகவே` → **`அவன் சற்று அழுத்தந்திருத்தமாகவே`**.
 
 Corrective scans **102–111** remain controlling for the known failure mode, including `நன்றாகக்`, `தவறாக`, `என்றாள்`, missing-`ஆ` corrections, `சொன்னா`, and `பெண்ணா?`.
 
@@ -75,6 +76,10 @@ Corrective scans **102–111** remain controlling for the known failure mode, in
 - scan 62 preserves genuine `பொய்தானு` / `பேசினன்`;
 - scan 63 preserves genuine `நோக்கினன்`;
 - scan 66 visibly prints only page number `5`; no `65` is inferred;
+- scan 67 source phrase is `பிறர் கெடுவதையே`;
+- scan 68 remains the mixed Chapter 7 / Chapter 8 boundary with centered `8`; its quoted occurrence is `பாலையூர் மருத்துவ மனையில்`, and source spacing includes `பணி புரியலாமென்று`;
+- scan 69 source spacing is `விடக் கூடாதம்மா`;
+- scan 70 preserves `இருப்பது கூட`, `நயினாவிடம் கூட சொல்லிவிடலாமே`, and `அவன் சற்று அழுத்தந்திருத்தமாகவே`;
 - scan 98 bottom standalone `7` is a printer/signature mark;
 - scan 111 ends physical `சிறிதா`; scan 112 begins source-visible `வது`.
 
@@ -92,7 +97,7 @@ Use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRA
 
 ## Next activity
 
-Continue the retrospective historical-glyph re-audit in the next 5-scan batch: **scans 66–70**. Forward transcription at scan 112 remains paused until scans 1–101 are cleared.
+Continue the retrospective historical-glyph re-audit in the next 5-scan batch: **scans 71–75**. Forward transcription at scan 112 remains paused until scans 1–101 are cleared.
 
 ## Release-status meaning
 

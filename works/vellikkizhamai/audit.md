@@ -12,7 +12,7 @@
 | Chapter map | **direct through Chapter 13 continuation at scan 111** |
 | Historical-glyph work-level gate | **REOPENED** |
 | Corrective historical-glyph re-audit | **PASS scans 102–111** |
-| Retrospective historical-glyph re-audit | **PASS scans 1–65; PENDING scans 66–101** |
+| Retrospective historical-glyph re-audit | **PASS scans 1–70; PENDING scans 71–101** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -131,6 +131,25 @@ Representative historical-family confirmations: scan 56 `கண்ணை` (`ண�
 
 `பொய்தானு`, `பேசினன்`, and `நோக்கினன்` were independently rechecked rather than automatically expanded under the known missing-`ஆ` failure mode. No global replacement, grammatical normalization, or silent modernization was used.
 
+## Scans 66–70
+
+**PASS / 5 OF 5 COMPLETE. No historical-family substitution was required.** Scan 66 required no canonical text correction and retains the physically visible page number `5`.
+
+| Scan | Earlier canonical | Source-supported | Classification |
+|---:|---|---|---|
+| 67 | `பிறர் கெடுவதை` | **`பிறர் கெடுவதையே`** | ordinary lexical source correction |
+| 68 | quoted `பாலையூர் மருத்துவமனையில்` | **`பாலையூர் மருத்துவ மனையில்`** | source spacing |
+| 68 | `பணிபுரியலாமென்று` | **`பணி புரியலாமென்று`** | source spacing |
+| 68 | `தொலையமாட்டார்களா என்று` | **`தொலையமாட்டார்களா என்றும்`** | ordinary lexical source correction |
+| 69 | `விடக்கூடாதம்மா` | **`விடக் கூடாதம்மா`** | source spacing |
+| 70 | `இருப்பதுகூட` | **`இருப்பது கூட`** | source spacing |
+| 70 | `நயினாவிடம் கூடச் சொல்லிவிடலாமே` | **`நயினாவிடம் கூட சொல்லிவிடலாமே`** | source text / sandhi fidelity |
+| 70 | `அவன் சுற்று அழுத்தந்திருத்தமாகவே` | **`அவன் சற்று அழுத்தந்திருத்தமாகவே`** | ordinary lexical source correction |
+
+Representative historical-family confirmations: scan 66 `கொண்டுபோனான்` (`னா`), `தேவையில்லை` (`லை`), `தாயாரம்மாளை` (`ளை`), `பெண்ணைக்` (`ணை`), `காப்பாற்றுவதற்காக` (`றா`); scan 67 `முல்லை` (`லை`), `அவனை` (`னை`), `துணையானால்` (`ணை`, `னா`), `காட்டாறு` (`றா`); scan 68 repeated `நயினா` (`னா`), `என்னை` (`னை`), `குறிக்கோளை` (`ளை`), `பாலையூர்` (`லை`); scan 69 repeated `நயினா` (`னா`), `வேலைகளையெல்லாம்` (`லை`, `ளை`), `நிம்மதியில்லாமல்` (`லை`); scan 70 repeated `நயினா` (`னா`), `அழகப்பனைத்` (`னை`), `நியாயமில்லை` (`லை`), `பாற் சென்றிருக்கிறது` (`றா`).
+
+Scan 68 remains the mixed Chapter 7 / Chapter 8 boundary with centered source-printed `8`. No global replacement, grammatical normalization, or silent modernization was used.
+
 ## Corrective re-audit — scans 102–111
 
 **PASS.** Controlling confirmed corrections include `ஆட்டினாள்`, `நன்றாகக்`, `கத்தினாள்`, `கூறினாள்`, `திருப்பினாள்`, `என்றாள்`, `தவறாக`, `கொட்டினான்`, `ஓடினான்`, `ஓடினார்கள்`, `திமிறினான்`, `நடுங்கினாள்`, `சொன்னா`, `பொய்தானா?`, and `பெண்ணா?`. Scan 109 `கூறினன்` / `சொன்னன்` and scan 110 `புளுகினன்` remain independently confirmed source forms.
@@ -142,6 +161,7 @@ Representative historical-family confirmations: scan 56 `கண்ணை` (`ண�
 - scan 52: Chapter 6 opening with centered `6`;
 - scan 59: mixed Chapter 6 / Chapter 7 with centered `7`;
 - scan 66: source visibly prints only page number `5`; never infer `65`;
+- scan 68: mixed Chapter 7 / Chapter 8 with centered `8`;
 - scan 92: mixed Chapter 10 / Chapter 11 with centered `11`;
 - scan 99: mixed Chapter 11 / Chapter 12 with centered `12`;
 - scan 107: mixed Chapter 12 / Chapter 13 with centered `13`;
@@ -149,7 +169,7 @@ Representative historical-family confirmations: scan 56 `கண்ணை` (`ண�
 
 ## Unresolved project items
 
-- retrospective historical-glyph re-audit scans **66–101**;
+- retrospective historical-glyph re-audit scans **71–101**;
 - scans **112–179** forward canonical processing;
 - final complete Tamil source audit;
 - assembled Tamil;
@@ -157,4 +177,4 @@ Representative historical-family confirmations: scan 56 `கண்ணை` (`ண�
 
 ## Exact next activity
 
-Do **not** resume forward transcription yet. Process **scans 66–70** as the next retrospective 5-scan historical-glyph audit batch, update only positively source-supported corrections, synchronize page/status documents, and continue chronologically.
+Do **not** resume forward transcription yet. Process **scans 71–75** as the next retrospective 5-scan historical-glyph audit batch, update only positively source-supported corrections, synchronize page/status documents, and continue chronologically.

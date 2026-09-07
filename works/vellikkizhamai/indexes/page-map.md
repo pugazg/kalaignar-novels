@@ -10,7 +10,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - body transcription: **through scan 111**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–65; PENDING scans 66–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–70; PENDING scans 71–101**;
 - scans 62–65 directly map to printed pages **61–64**;
 - scan 66 visibly prints only **`5`**; `65` is not inferred;
 - scans 67–111 directly map to printed pages **66–110**;
@@ -22,9 +22,9 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 
 ## Historical-glyph gate reopening
 
-The earlier work-level PASS remains withdrawn pending full retrospective review because old metal-type identities were misread in several records. Scans **1–65** and **102–111** have now been source-pixel re-audited. Scans **66–101** remain to be retrospectively audited before forward work resumes.
+The earlier work-level PASS remains withdrawn pending full retrospective review because old metal-type identities were misread in several records. Scans **1–70** and **102–111** have now been source-pixel re-audited. Scans **71–101** remain to be retrospectively audited before forward work resumes.
 
-Scan 4 received a separate ordinary source-fidelity correction `பெருகிடுகிறது` → `பெருகிவிடுகிறது`. Scans 6–35 required no canonical correction. The scans 36–40 batch added source-supported corrections at scan 38 (`கண்ணின்` → `களைப்பின்`) and scan 40 (`எண்ணையாவது` → `என்னையாவது`, `அவர்களோ` → `அவர்களை`, `கைவற்றுப்போனேன்` → `கைவற்றுப்போனான்`). Scans 41–45 required no historical-family substitution; scan 42 separately corrected `பொறுத்துச்` → `பொருத்தம்` and `சுதன` → `சனதன`. Scans 46–50 PASS with source-supported corrections on scans 46–49; scan 50 required none. Scans 51–55 PASS with source-supported corrections on scans 52, 54 and 55. Scans 56–60 PASS: scan 56 corrected `எடுத்துக்காட்டும்` → `எடுத்துக் காட்டும்` and `பொறுத்துக்கொள்ள` → `பொறுத்துக் கொள்ள`; scan 57 `நிலைநாட்டும்` → `நிலநாட்டும்`; scan 58 `மருத்துவமனையில்` → `மருத்துவ மனையில்` and `இந்தச் சொல்மட்டும்` → `இந்த சொல்மட்டும்`; scan 59 required no correction; scan 60 `அருகிலேயிருந்தது` → `அருகிலே இருந்தது`. Scans 61–65 PASS with no canonical correction; source-specific `பொய்தானு`, `பேசினன்`, and `நோக்கினன்` were independently retained rather than automatically expanded.
+Scan 4 received a separate ordinary source-fidelity correction `பெருகிடுகிறது` → `பெருகிவிடுகிறது`. Scans 6–35 required no canonical correction. The scans 36–40 batch added source-supported corrections at scan 38 (`கண்ணின்` → `களைப்பின்`) and scan 40 (`எண்ணையாவது` → `என்னையாவது`, `அவர்களோ` → `அவர்களை`, `கைவற்றுப்போனேன்` → `கைவற்றுப்போனான்`). Scans 41–45 required no historical-family substitution; scan 42 separately corrected `பொறுத்துச்` → `பொருத்தம்` and `சுதன` → `சனதன`. Scans 46–50 PASS with source-supported corrections on scans 46–49; scan 50 required none. Scans 51–55 PASS with source-supported corrections on scans 52, 54 and 55. Scans 56–60 PASS: scan 56 corrected `எடுத்துக்காட்டும்` → `எடுத்துக் காட்டும்` and `பொறுத்துக்கொள்ள` → `பொறுத்துக் கொள்ள`; scan 57 `நிலைநாட்டும்` → `நிலநாட்டும்`; scan 58 `மருத்துவமனையில்` → `மருத்துவ மனையில்` and `இந்தச் சொல்மட்டும்` → `இந்த சொல்மட்டும்`; scan 59 required no correction; scan 60 `அருகிலேயிருந்தது` → `அருகிலே இருந்தது`. Scans 61–65 PASS with no canonical correction; source-specific `பொய்தானு`, `பேசினன்`, and `நோக்கினன்` were independently retained rather than automatically expanded. Scans 66–70 PASS with no historical-family substitution: scan 66 required no canonical correction; scan 67 corrected `பிறர் கெடுவதை` → `பிறர் கெடுவதையே`; scan 68 corrected quoted `பாலையூர் மருத்துவமனையில்` → `பாலையூர் மருத்துவ மனையில்`, `பணிபுரியலாமென்று` → `பணி புரியலாமென்று`, and `தொலையமாட்டார்களா என்று` → `தொலையமாட்டார்களா என்றும்`; scan 69 corrected `விடக்கூடாதம்மா` → `விடக் கூடாதம்மா`; scan 70 corrected `இருப்பதுகூட` → `இருப்பது கூட`, `நயினாவிடம் கூடச் சொல்லிவிடலாமே` → `நயினாவிடம் கூட சொல்லிவிடலாமே`, and `அவன் சுற்று அழுத்தந்திருத்தமாகவே` → `அவன் சற்று அழுத்தந்திருத்தமாகவே`.
 
 ## Confirmed chapter structure
 
@@ -109,11 +109,11 @@ Scan 4 received a separate ordinary source-fidelity correction `பெருக�
 | 63 | 62 | body | verified | Chapter 7; retrospective glyph audit PASS; no canonical correction; `ளை`, `னா`, `ணா`, `லை` confirmed; `நோக்கினன்` retained |
 | 64 | 63 | body | verified | Chapter 7; retrospective glyph audit PASS; no canonical correction; `றா`, `ளை`, `லை`, `னா` confirmed |
 | 65 | 64 | body | verified | Chapter 7; retrospective glyph audit PASS; no canonical correction; `னை`, `னா` confirmed |
-| 66 | 5 | body | verified | Chapter 7; source visibly prints only `5`; retrospective glyph audit pending |
-| 67 | 66 | body | verified | Chapter 7; retrospective glyph audit pending |
-| 68 | 67 | body / chapter boundary | verified | Mixed Chapter 7 / Chapter 8; centered `8`; retrospective glyph audit pending |
-| 69 | 68 | body | verified | Chapter 8; retrospective glyph audit pending |
-| 70 | 69 | body | verified | Chapter 8; retrospective glyph audit pending |
+| 66 | 5 | body | verified | Chapter 7; source visibly prints only `5`; retrospective glyph audit PASS; no canonical correction; `னா`, `லை`, `ளை`, `ணை`, `றா` confirmed |
+| 67 | 66 | body | verified | Chapter 7; retrospective glyph audit PASS after `பிறர் கெடுவதை` → `பிறர் கெடுவதையே`; `லை`, `னை`, `ணை`, `னா`, `றா` confirmed |
+| 68 | 67 | body / chapter boundary | verified | Mixed Chapter 7 / Chapter 8; centered `8`; retrospective glyph audit PASS after quoted `பாலையூர் மருத்துவ மனையில்`, `பணி புரியலாமென்று`, `தொலையமாட்டார்களா என்றும்`; `னா`, `னை`, `ளை`, `லை` confirmed |
+| 69 | 68 | body | verified | Chapter 8; retrospective glyph audit PASS after `விடக்கூடாதம்மா` → `விடக் கூடாதம்மா`; `னா`, `லை`, `ளை` confirmed |
+| 70 | 69 | body | verified | Chapter 8; retrospective glyph audit PASS after `இருப்பது கூட`, `நயினாவிடம் கூட சொல்லிவிடலாமே`, `அவன் சற்று அழுத்தந்திருத்தமாகவே`; `னா`, `னை`, `லை`, `றா` confirmed |
 | 71 | 70 | body | verified | Chapter 8; retrospective glyph audit pending |
 | 72 | 71 | body | verified | Chapter 8; retrospective glyph audit pending |
 | 73 | 72 | body | verified | Chapter 8; retrospective glyph audit pending |
@@ -226,4 +226,4 @@ Scan 4 received a separate ordinary source-fidelity correction `பெருக�
 
 ## Exact next activity
 
-Perform **retrospective historical-glyph audit scans 66–70** as the next 5-scan iteration. Forward scan 112 remains paused until scans 1–101 are retrospectively cleared.
+Perform **retrospective historical-glyph audit scans 71–75** as the next 5-scan iteration. Forward scan 112 remains paused until scans 1–101 are retrospectively cleared.

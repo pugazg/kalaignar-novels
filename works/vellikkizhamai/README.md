@@ -16,7 +16,7 @@
 - Chapter 13 transcribed through scan 111 / printed 110;
 - **historical-glyph work-level gate: REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–65; pending scans 66–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–70; pending scans 71–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective historical-glyph batches
@@ -95,6 +95,19 @@ Representative source-confirmed historical identities:
 - scan 64: `மாறிவிடுவதா` / `காப்பாற்றுவேன்` (`றா`), `அவளை` (`ளை`), `நிலைநாட்டுவேன்` / `நிறைவேறவில்லை` (`லை`), `நயினா` (`னா`);
 - scan 65: `அவனைப்` (`னை`), repeated `நயினா` / `நயினாவும்` (`னா`), `திருப்பினாள்` (`னா`).
 
+### Scans 66–70
+
+**PASS / 5 OF 5 COMPLETE. No historical-family substitution was required.** Scan 66 required no canonical correction and retains the physically visible page number `5` rather than inferred `65`.
+
+Positively source-supported ordinary fidelity corrections:
+
+- scan 67: `பிறர் கெடுவதை` → **`பிறர் கெடுவதையே`**;
+- scan 68: quoted `பாலையூர் மருத்துவமனையில்` → **`பாலையூர் மருத்துவ மனையில்`**; `பணிபுரியலாமென்று` → **`பணி புரியலாமென்று`**; `தொலையமாட்டார்களா என்று` → **`தொலையமாட்டார்களா என்றும்`**;
+- scan 69: `விடக்கூடாதம்மா` → **`விடக் கூடாதம்மா`**;
+- scan 70: `இருப்பதுகூட` → **`இருப்பது கூட`**; `நயினாவிடம் கூடச் சொல்லிவிடலாமே` → **`நயினாவிடம் கூட சொல்லிவிடலாமே`**; `அவன் சுற்று அழுத்தந்திருத்தமாகவே` → **`அவன் சற்று அழுத்தந்திருத்தமாகவே`**.
+
+Representative historical-family confirmations include scan 66 `கொண்டுபோனான்` / `தேவையில்லை` / `தாயாரம்மாளை` / `பெண்ணைக்`; scan 67 `முல்லை`, `அவனை`, `துணையானால்`, `காட்டாறு`; scan 68 repeated `நயினா`, `என்னை`, `குறிக்கோளை`, `பாலையூர்`; scan 69 repeated `நயினா`, `வேலைகளையெல்லாம்`, `நிம்மதியில்லாமல்`; scan 70 repeated `நயினா`, `அழகப்பனைத்`, `நியாயமில்லை`, `பாற் சென்றிருக்கிறது`.
+
 ## Why the historical-glyph gate was reopened
 
 The previous pass incorrectly treated several historical Tamil typeforms as modern visual look-alikes. The guide requires identifying the historical character first and then encoding that identity in Unicode. Confirmed corrective work in scans 102–111 remains controlling, including `நன்றாகக்`, `தவறாக`, `என்றாள்`, multiple missing-`ஆ` forms, `சொன்னா`, and `பெண்ணா?`.
@@ -127,6 +140,10 @@ No blanket morphological correction is permitted. Nearby forms are independently
 - scan 62 preserves genuine `பொய்தானு` / `பேசினன்`;
 - scan 63 preserves genuine `நோக்கினன்`;
 - scan 66 visibly prints only `5`; never infer `65`;
+- scan 67 source phrase is `பிறர் கெடுவதையே`;
+- scan 68 is the mixed Chapter 7 / Chapter 8 boundary with centered `8`; its quoted sentence prints `பாலையூர் மருத்துவ மனையில்`, and source spacing includes `பணி புரியலாமென்று`;
+- scan 69 source spacing is `விடக் கூடாதம்மா`;
+- scan 70 source has `இருப்பது கூட`, `நயினாவிடம் கூட சொல்லிவிடலாமே`, and `அவன் சற்று அழுத்தந்திருத்தமாகவே`;
 - scan 111 ends physical `சிறிதா`; scan 112 begins `வது`.
 
 ## Key records
@@ -138,6 +155,6 @@ No blanket morphological correction is permitted. Nearby forms are independently
 
 ## Exact next activity
 
-Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 66–70**, synchronize page records and status documents, and continue chronologically until scans 1–101 are cleared. Only then resume forward transcription.
+Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 71–75**, synchronize page records and status documents, and continue chronologically until scans 1–101 are cleared. Only then resume forward transcription.
 
 Do not start assembled Tamil or English.
