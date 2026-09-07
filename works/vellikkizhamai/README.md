@@ -18,7 +18,7 @@
 - Chapter 13 transcribed through scan 111 / printed 110;
 - **historical-glyph work-level gate: REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–50; pending scans 51–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–55; pending scans 56–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective historical-glyph batches
@@ -87,6 +87,16 @@ Scan 42 required two **ordinary source-fidelity** corrections, not historical-gl
 
 Representative historical-family confirmations include `மாப்பிள்ளை`, `நல்ல வேளை`, `கலைந்துவிட்டதம்மா`, `என்னை`, `கவலைப்படாத`, `நயினா`, `களைப்பால்`, `கல்யாணம்`, `நாள்தோறும்`, `பெண்ணை`, `கண்ணை`, `பரவாயில்லை`, and `மாசற்றவள்`.
 
+### Scans 51–55
+
+**PASS / 5 OF 5 COMPLETE.** Scans 52, 54 and 55 received source-supported corrections; scans 51 and 53 required none.
+
+- scan 52: `குபுகுபு` → **`குபு குபு`**, `அவங்களுக்கேதான்` → **`அவங்களுக்கே தான்`**, both `பாலூர்` readings → **`பாலையூர்`**, and `பாலூர் மருத்துவமனையில்` → **`பாலையூர் மருத்துவ மனையில்`**; `பாலை...` directly confirms historical `லை`;
+- scan 54: `விரும்பினான்` → **`விரும்பினன்`**, and `இந்த மனத் தத்துவத்தை` → **`இந்த மன தத்துவத்தை`**;
+- scan 55: `மருத்துவமனையிலிருந்து` → **`மருத்துவ மனையிலிருந்து`**.
+
+Scan 53 `பருவத்தினள்` and scan 54 `விரும்பினன்` were independently rechecked as counterexamples to automatic `னா` expansion and are genuine source forms. Scan 55 `வேறுயிற்றே` and `பேசினர்கள்` are also retained exactly as printed.
+
 ## Why the historical-glyph gate was reopened
 
 The previous pass incorrectly treated several historical Tamil typeforms as their modern visual look-alikes. The guide requires the opposite: identify the historical character first, then encode that identity in Unicode. Confirmed corrections already applied in scans 102–111 include `நன்றுகக்` → `நன்றாகக்`, `தவறுக` → `தவறாக`, `என்றுள்` → `என்றாள்`, multiple missing-`ஆ` forms, `சொன்னு` → `சொன்னா`, and `பெண்ணு?` → `பெண்ணா?`.
@@ -107,6 +117,10 @@ No blanket morphological correction is permitted. Nearby forms are independently
 - scan 47 source has **`மானத்தைப்பற்றியே கவலைப்படாத`** and **`அளிப்பதாக`**;
 - scan 48 preserves **`அகரமம்`** exactly as printed;
 - scan 49 preserves **`மாசமறுவற்ற`**;
+- scan 52 source has **`பாலையூர்`** and **`பாலையூர் மருத்துவ மனையில்`**;
+- scan 53 preserves genuine **`பருவத்தினள்`**;
+- scan 54 preserves genuine **`விரும்பினன்`** and source **`இந்த மன தத்துவத்தை`**;
+- scan 55 source spacing is **`மருத்துவ மனையிலிருந்து`**;
 - scan 66 visibly prints only `5`; never infer `65`;
 - scan 111 ends physical `சிறிதா`; scan 112 begins `வது`.
 
@@ -119,6 +133,6 @@ No blanket morphological correction is permitted. Nearby forms are independently
 
 ## Exact next activity
 
-Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 51–55**, synchronize page records and status documents, and continue chronologically until scans 1–101 are cleared. Only then resume forward transcription.
+Keep forward scan 112 paused. Perform the next retrospective 5-scan historical-glyph audit on **scans 56–60**, synchronize page records and status documents, and continue chronologically until scans 1–101 are cleared. Only then resume forward transcription.
 
 Do not start assembled Tamil or English.

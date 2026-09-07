@@ -23,7 +23,7 @@ Fetch live `main` first and preserve newer durable work.
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–50; PENDING scans 51–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–55; PENDING scans 56–101**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Retrospective batches completed
@@ -81,7 +81,15 @@ PASS / 5 OF 5 COMPLETE. No historical-family substitution was required. Scan 42 
 - scan 49: `மாசுமறுவற்ற` → **`மாசமறுவற்ற`**;
 - scan 50: no canonical correction; source forms `ஏமுட்டான்` and `புறப்படடா` retained.
 
-Representative historical-family confirmations include scan 46 `மாப்பிள்ளை` / `நல்ல வேளை` (`ளை`), `நயினா` (`னா`), `கலைந்துவிட்டதம்மா` (`லை`); scan 47 `மாப்பிள்ளை` (`ளை`), `என்னை` (`னை`), `கவலைப்படாத` (`லை`), `நயினா` (`னா`), `தாயாகியிருக்கிறாள்` (`றா`); scan 48 `நயினாவும்` (`னா`) and `களைப்பால்` (`ளை`); scan 49 `கல்யாணம்` (`ணா`), `மாற்றிக்கொள்ளுங்கள்` (`றா`), `மாப்பிள்ளை` (`ளை`), `நாள்தோறும்` (`றோ`); scan 50 `நயினா` (`னா`), `பெண்ணை` / `கண்ணை` (`ணை`), `பரவாயில்லை` (`லை`), `மாசற்றவள்` (`றா`).
+### Scans 51–55
+
+**PASS / 5 OF 5 COMPLETE.** Scans 52, 54 and 55 received positively source-supported corrections; scans 51 and 53 required none.
+
+- scan 52: `குபுகுபு` → **`குபு குபு`**, `அவங்களுக்கேதான்` → **`அவங்களுக்கே தான்`**, both `பாலூர்` occurrences → **`பாலையூர்`**, and `பாலூர் மருத்துவமனையில்` → **`பாலையூர் மருத்துவ மனையில்`**; `பாலை...` directly confirms historical `லை`;
+- scan 54: `விரும்பினான்` → **`விரும்பினன்`**, and `இந்த மனத் தத்துவத்தை` → **`இந்த மன தத்துவத்தை`**;
+- scan 55: `மருத்துவமனையிலிருந்து` → **`மருத்துவ மனையிலிருந்து`**.
+
+Scan 53 `பருவத்தினள்` and scan 54 `விரும்பினன்` were independently rechecked as counterexamples to automatic `னா` expansion and are genuine source forms. Scan 55 `வேறுயிற்றே` and `பேசினர்கள்` remain exactly as printed.
 
 ## Critical process correction
 
@@ -109,6 +117,10 @@ Character identity must be decided from enlarged/native source pixels first. Gra
 - scan 47 source has **`மானத்தைப்பற்றியே கவலைப்படாத`**, **`அளிப்பதாக`**;
 - scan 48 source spelling is **`அகரமம்`**;
 - scan 49 source form is **`மாசமறுவற்ற`**;
+- scan 52 source has **`பாலையூர்`**, **`பாலையூர் மருத்துவ மனையில்`**;
+- scan 53 source **`பருவத்தினள்`** remains genuine;
+- scan 54 source has **`விரும்பினன்`**, **`இந்த மன தத்துவத்தை`**;
+- scan 55 source spacing is **`மருத்துவ மனையிலிருந்து`**;
 - scan 66 visible page number is **`5`**, never infer `65`;
 - scan 98 bottom standalone `7` is a printer/signature mark, not a chapter heading;
 - scan 99 is mixed Chapter 11 / Chapter 12 with centered `12`;
@@ -121,7 +133,7 @@ Forward transcription remains paused.
 
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. perform retrospective historical-glyph audit of **scans 51–55** as one 5-scan iteration;
+3. perform retrospective historical-glyph audit of **scans 56–60** as one 5-scan iteration;
 4. explicitly test all 13 families on source pixels;
 5. correct only positively supported character identities; never infer from grammar and never global-replace;
 6. synchronize page records, page-map, audit, README/status/handover documents and commit;

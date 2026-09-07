@@ -30,7 +30,7 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - Chapter 13 transcribed through **scan 111 / printed 110**;
 - **historical-glyph work-level gate REOPENED** after a systematic old-type decoding error was found;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–50; pending scans 51–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–55; pending scans 56–101**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**.
@@ -42,7 +42,8 @@ All retrospective scans explicitly test the mandatory old-type families `ணா 
 - scans **1–35**: PASS; scan 4 additionally received ordinary source correction `பெருகிடுகிறது` → `பெருகிவிடுகிறது`; confirmed counterexamples/source forms include `வேலையில்ல`, `வந்துவிட்டானு`, `வரணும்`, `வயதினள்`, `காணோமே`, `பெண்ணொருத்தி`, `அவ்விதமானாள்`, `நட்டுவனார்`, and recurring `நயினா`;
 - scans **36–40**: PASS after scan 38 `கண்ணின் மிகுதியால்` → `களைப்பின் மிகுதியால்`, and scan 40 `எண்ணையாவது` → `என்னையாவது`, `அவர்களோ` → `அவர்களை`, `கைவற்றுப்போனேன்` → `கைவற்றுப்போனான்`;
 - scans **41–45**: PASS with no historical-family substitution; scan 42 separately corrected ordinary source text `பொறுத்துச்` → **`பொருத்தம்`** and `சுதன` → **`சனதன`**. Scan 45 remains the mixed Chapter 4 / Chapter 5 boundary with centered `5`;
-- scans **46–50**: PASS. Source-supported corrections include scan 46 `தோஷம் கழந்துவிட்டதம்மா` → **`வேஷம் கலைந்துவிட்டதம்மா`**, `தடையோட்டார்களே` → **`தடை போட்டார்களே`**, `அசைவற்று போனார்` → **`அசைவற்றுப் போனார்`**; scan 47 `மானத்தைப்பற்றிய கவலையுண்டு` → **`மானத்தைப்பற்றியே கவலைப்படாத`**, `அனுப்பதாக` → **`அளிப்பதாக`**; scan 48 `அக்ரமம்` → **`அகரமம்`**; scan 49 `மாசுமறுவற்ற` → **`மாசமறுவற்ற`**. Scan 50 required no correction.
+- scans **46–50**: PASS. Source-supported corrections include scan 46 `தோஷம் கழந்துவிட்டதம்மா` → **`வேஷம் கலைந்துவிட்டதம்மா`**, `தடையோட்டார்களே` → **`தடை போட்டார்களே`**, `அசைவற்று போனார்` → **`அசைவற்றுப் போனார்`**; scan 47 `மானத்தைப்பற்றிய கவலையுண்டு` → **`மானத்தைப்பற்றியே கவலைப்படாத`**, `அனுப்பதாக` → **`அளிப்பதாக`**; scan 48 `அக்ரமம்` → **`அகரமம்`**; scan 49 `மாசுமறுவற்ற` → **`மாசமறுவற்ற`**. Scan 50 required no correction;
+- scans **51–55**: PASS. Scan 52 corrected `குபுகுபு` → **`குபு குபு`**, `அவங்களுக்கேதான்` → **`அவங்களுக்கே தான்`**, `பாலூர்` → **`பாலையூர்`** in both occurrences, and `பாலூர் மருத்துவமனையில்` → **`பாலையூர் மருத்துவ மனையில்`**. Scan 54 corrected `விரும்பினான்` → **`விரும்பினன்`** and `இந்த மனத் தத்துவத்தை` → **`இந்த மன தத்துவத்தை`**. Scan 55 corrected `மருத்துவமனையிலிருந்து` → **`மருத்துவ மனையிலிருந்து`**. Scans 51 and 53 required no canonical correction.
 
 Corrective scans **102–111** remain controlling for the known failure mode, including `நன்றாகக்`, `தவறாக`, `என்றாள்`, missing-`ஆ` corrections, `சொன்னா`, and `பெண்ணா?`.
 
@@ -60,6 +61,10 @@ Corrective scans **102–111** remain controlling for the known failure mode, in
 - scan 47 has `மானத்தைப்பற்றியே கவலைப்படாத`, `அளிப்பதாக`;
 - scan 48 preserves source `அகரமம்`;
 - scan 49 preserves source `மாசமறுவற்ற`;
+- scan 52 has source `பாலையூர்` and `பாலையூர் மருத்துவ மனையில்`;
+- scan 53 preserves genuine `பருவத்தினள்`;
+- scan 54 preserves genuine `விரும்பினன்` and source `இந்த மன தத்துவத்தை`;
+- scan 55 has source spacing `மருத்துவ மனையிலிருந்து`;
 - scan 66 visibly prints only page number `5`; no `65` is inferred;
 - scan 98 bottom standalone `7` is a printer/signature mark;
 - scan 111 ends physical `சிறிதா`; scan 112 begins source-visible `வது`.
@@ -78,7 +83,7 @@ Use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRA
 
 ## Next activity
 
-Continue the retrospective historical-glyph re-audit in the next 5-scan batch: **scans 51–55**. Forward transcription at scan 112 remains paused until scans 1–101 are cleared.
+Continue the retrospective historical-glyph re-audit in the next 5-scan batch: **scans 56–60**. Forward transcription at scan 112 remains paused until scans 1–101 are cleared.
 
 ## Release-status meaning
 

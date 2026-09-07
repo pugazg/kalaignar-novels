@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 பிடித்து வெளியே அழைத்துக்கொண்டு புறப்பட்டான் அழகு! நயினாவுக்கும் எந்த முடிவும் தோன்றவில்லை. அவனும் பின்தொடர்ந்தான்.
@@ -22,16 +22,16 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 - Opening completes scan 50; Chapter 5 ends on this physical page.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected directly at enlarged/native source resolution.
-- Checked the mandatory reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement, OCR repair, or lexical modernization was used.
-- Source spelling, punctuation, dialogue forms, and physical page boundaries are preserved; later marks are excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `மண்ணாய்ப்` (`ணா`), `நயினா` (`னா`), `மாறி மாறிச்` (`றா`), and `நல்லவேளை` (`ளை`).
+- No historical-family substitution or ordinary canonical text correction was required.
+- Source spelling, punctuation, dialogue forms, colloquialisms, and physical page boundaries remain unchanged; no global replacement or silent modernization was used.
 
 ## Scan observations
 
 - Visible printed page number: **50**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 51; அச்சுப் பக்கம்: 50 -->

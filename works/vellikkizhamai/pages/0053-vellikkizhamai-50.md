@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 என்றும் டாக்டர்கள் அபிப்பிராயம் தெரிவித்தார்கள். தாயாரம்மாளை மருத்துவ மனையில் விட்டுவிட்டு அழகப்பனும் நயினாவும் விபத்து குறித்துப் போலீசாருக்குத் தெரிவிக்கப் புறப்பட்டனர்.
@@ -32,16 +32,17 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 - Opening `என்றும் டாக்டர்கள்...` completes scan 52; final `அனுப்பப்பட்டிருக்க` continues as `கிறார்கள்` on scan 54.
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete page inspected directly at enlarged/native source resolution.
-- Checked the mandatory reform-sensitive set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- Character identity was decoded from source pixels before Unicode transcription; no global replacement, OCR repair, or lexical modernization was used.
-- Source spelling, punctuation, dialogue forms, and physical page boundaries are preserved; later marks are excluded from canonical printed text.
-- No unresolved source cluster remains on this scan.
+- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `வளைப்பாள்` (`ளை`), `உளறுகிறாள்` (`றா`), and `தாயில்லை` (`லை`).
+- `பருவத்தினள்` was independently rechecked because nearby historical `னா` failures can tempt expansion; the source genuinely supports final `னள்`, so **`பருவத்தினள்` is retained exactly**.
+- No historical-family substitution or ordinary canonical text correction was required.
+- No global replacement or silent modernization was used.
 
 ## Scan observations
 
 - Visible printed page number: **52**.
+- Retrospective historical-glyph audit: **PASS**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 53; அச்சுப் பக்கம்: 52 -->
