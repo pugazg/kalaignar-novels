@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “விஷயம் வெளிச்சமாகித்தானே மாப்பிள்ளை வீட்டார் மனமுடைந்து திரும்பியிருக்கிறார்கள்” என்று தங்களுடைய அரைகுறைச் சந்தேகங்களையும் போக்கிக்கொண்டார்கள் தீர்முடிவுக்காரர்கள் சிலர்!
@@ -18,12 +18,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “ஒருவேளை நமக்கும் தெரியாத உண்மையாக இருக்குமோ?” என்ற சந்தேகம் துளிர்விடத் தொடங்கியது, தோழிகள் சிலருக்கு! எந்த மணமும் இல்லாத இடத்திலே “எலுமிச்சம்பழ வாடை வீசுகிறது” என்று மந்திரவாதி நூறுமுறை நம்புவதுபோல் சொல்வானேயானால் நமக்குக் கூட அந்த வாடை வீசுவதுபோல் தோன்றலாம். பொய்யைப் பத்துமுறை வற்புறுத்திச் சொன்னால் மெய்யாகத் தோற்றமெடுக்கும் என்பார்கள். அப்படிச் சொன்னதானே “கடவுள்” என்ற சொல்லே வாழ்க்கை அகராதியிலே பெரிய எழுத்துக்களில் அச்சடித்து வைத்திருக்கிறார்கள்! உலக மக்கள் ஏமாற்றும் பொய்மைகளே உண்மை
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Entire scan inspected directly at enlarged/native resolution; mandatory historical-glyph set checked.
-- Source-specific compounds and wording including `தீர்முடிவுக்காரர்கள்`, `தவிடுபொடியாகிவிட்டது`, `அறுநீர்ப் பறவைகளாயுள்ள`, and `எலுமிச்சம்பழ` are retained.
-- The source argument and punctuation are preserved without contextual rewriting.
-- No unresolved source cluster remains.
+- Entire scan re-inspected directly against the mandatory 13-family set at enlarged/native source resolution.
+- Representative source-confirmed identities include `மாப்பிள்ளை` (`ளை`), `தொல்லைகளை` (`லை`, `ளை`), `பூரிப்படைந்தார்கள்` (`னா`), and `தோற்றமெடுக்கும்` (`றோ`).
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- Source-specific compounds and wording including `தீர்முடிவுக்காரர்கள்`, `தவிடுபொடியாகிவிட்டது`, `அறுநீர்ப் பறவைகளாயுள்ள`, and `எலுமிச்சம்பழ` were retained without normalization.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -33,5 +34,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **76**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 77; அச்சுப் பக்கம்: 76 -->

@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 களாக உருவெறிக்க முடியும் என்கிறபோது சிந்தாமணியைப்பற்றிய செய்திகள் தீப்போலப் பரவி அப்படித்தானிருக்கமுடியுமென்று தீர்மானமாக ஆக்கப்படுவது பெரிய காரியமா என்ன? புனிதமானவர்களையும் புகழடைந்தவர்களையும் பற்றி பொல்லாங்கு பேசும் பொறாமைக்காரர்கள் சூழ்ந்திருக்கிற இந்த உலகத்தில் சிந்தாமணியைப்போன்ற செந்தாமரைகளை, ‘எரிச்சல் எருமைகள்’ மிதிக்காமல் விடுவார்களா?
@@ -16,12 +16,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 சிவநேசரை வீட்டிலே அடைத்துவிட்டு, சிவகாமிக்கு ஆறுதல் கூறிவிட்டு ஊராரும் தெருவாரும் தங்கள் கடமைகளைக் கவனிக்கப் புறப்பட்டார்கள். சிவகாமி என்ன செய்வதென்று தோன்றாமல் உட்கார்ந்திருந்தாள். கணவனிடம் யோசனைகள் கேட்கவோ வழியில்லை. அவர் காளி போல் கத்திக்கொண்டு கிடக்கிறார். சிந்தாமணி போன மார்க்கமோ தெரியவில்லை. தெருவிலேயுள்ளவர்களோ தெளிவான யோசனை எதுவும் தெரிவிக்கவில்லை. “ஆகட்டும், நாளைக்குப் பார்க்கலாம்” என்று கூறிப் பொறுப்பைக் கழித்துக்கொண்டு போய்விட்டார்கள். சிந்தாமணியைப் பற்றி ஊரே சந்தேகப்பட்டுப் பேசுகிறது. அவளோடு சேர்ந்திருந்த தோழிகளும் குழப்பத்தில் மூழ்கிவிட்டார்கள். சிவகாமி தனித்து விடப்பட்டிருக்கிறாள். அவளால் எதைத் தீர்மானிக்க முடியும்? தாயொருத்திக்குத்தான் தன் செல்வியைப்பற்றிய ஐயம் எழவேயில்லை! அவள் தூய ஜோதி என்று சிவகாமி மட்டுமே குழப்பமின்றி உணர்ந்திருந்
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete scan inspected directly at enlarged/native source resolution; full 13-family historical-glyph gate applied.
-- Historical `றா` / `ளா` identities were checked in `பொறாமைக்காரர்கள்`, `பலியானாள்`, and related forms.
-- Source-specific forms `பொழிந்தவண்ணமிருந்தது`, `மூன்றெழுத்துக்கு`, `குற்றங்குறைகளைத்`, and `சிருஷ்டித்துக்கொண்டு` are preserved.
-- No unresolved source cluster remains.
+- Complete scan re-inspected directly at enlarged/native source resolution against all 13 mandatory historical families.
+- Representative source-confirmed identities include `பொறாமைக்காரர்கள்` (`றா`), `பலியானாள்` (`னா`), and `வழியில்லை` / `தெரியவில்லை` (`லை`).
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- Source-specific forms `பொழிந்தவண்ணமிருந்தது`, `மூன்றெழுத்துக்கு`, `குற்றங்குறைகளைத்`, and `சிருஷ்டித்துக்கொண்டு` were retained without normalization.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -31,5 +32,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **77**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 78; அச்சுப் பக்கம்: 77 -->

@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “இன்னும் என்னப்பா வரவேண்டும்? குடும்பத்து மானமே போனபிறகு மிச்சம் என்ன இருக்கிறது! என் உயிர்தான் இருக்கிறது! அதையும் அந்தப் பாழும் கடவுள் பறித்துக்கொண்டு போகமாட்டேன் என்கிறானே!”
@@ -24,16 +24,18 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “டைகர் எங்கள் விதியை யாராலும் மாற்ற முடியாது. நீ உன் வேலையைப் பார்த்துக்கொண்டு போ!” என்று அழுகை ஆத்திரத்தோடு சிவகாமி கூறினாள்.
 
-“அதுதான் சரி! அதுதான் சரி! விதியை மாற்ற எவனும் முடியாது! சிந்தாமணி! உன் விதியை என்னால் மாற்ற முடிந்ததா? நீ கேடுகெட்டவளாக மாறவேண்டும் என்று விதி இருந்திருக்கிறது! நீ கல்யாணத்துக்குள் கற்பமாக வேண்டுமென்று விதி இருந்திருக்கிறது! விதியே விதியே விதியே!...என் தலைவிதியே! என் தலைவிதியே! காம சத்யபாமா! கதவைத் திறவாய்! திறவாய்!!” சிவநேசரின் கூச்சல் அதிகமாயிற்று. டைகர் சிவகாமியிடம் மிகப் பணிவோடும், குழைவோடும் பேச்சைத் தொடங்கினான்.
+“அதுதான் சரி! அதுதான் சரி! விதியை மாற்ற எவனும் முடியாது! சிந்தாமணி! உன் விதியை என்னால் மாற்ற முடிந்ததா? நீ கேடுகெட்டவளாக மாறவேண்டும் என்று விதி இருந்திருக்கிறது! நீ கல்யாணத்துக்குள் கர்ப்பமாக வேண்டுமென்று விதி இருந்திருக்கிறது! விதியே விதியே விதியே!...என் தலைவிதியே! என் தலைவிதியே! காம சத்யபாமா! கதவைத் திறவாய்! திறவாய்!!” சிவநேசரின் கூச்சல் அதிகமாயிற்று. டைகர் சிவகாமியிடம் மிகப் பணிவோடும், குழைவோடும் பேச்சைத் தொடங்கினான்.
 
 “அத்தை! என்னைப்பற்றி நீங்களும் மாமாவும் போட்டிருக்கிற கணக்கு தவறு! நான் நல்லவனுக்கு நல்லவன்! கெட்டவனுக்குக் கெட்டவன்! நீங்கள் என்னை அலட்சியப்படுத்தினாலும் நான் உங்களுக்கு வந்த
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete scan inspected directly at enlarged/native source resolution; full historical-glyph set checked.
-- Source forms `இதவிடக்`, `ஜவாப்தாரி`, `கற்பமாக`, and `காம சத்யபாமா` are preserved as printed rather than normalized.
-- Historical `ளா` identity was checked in `வடித்தாள்` / `கூறினாள்` and related forms.
-- No unresolved source cluster remains.
+- Complete scan re-inspected directly at enlarged/native source resolution against all 13 mandatory historical families.
+- Representative source-confirmed identities include `கவலைப்படாதே` (`லை`), repeated `மாற்ற` / `மாறவேண்டும்` (`றா`), `கல்யாணத்துக்குள்` (`ணா`), and `என்னைப்பற்றி` (`னை`).
+- No historical-family substitution was required.
+- Separate positively source-supported ordinary lexical correction: `கற்பமாக` → **`கர்ப்பமாக`** in `நீ கல்யாணத்துக்குள் கர்ப்பமாக வேண்டுமென்று...`.
+- Source-specific `இதவிடக்`, `அழைப்புகிறேன்`, `ஜவாப்தாரி`, and `காம சத்யபாமா` remain unchanged; no grammatical modernization was applied.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -43,5 +45,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **79**.
+- Retrospective historical-glyph audit: **PASS after one ordinary source-fidelity correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 80; அச்சுப் பக்கம்: 79 -->

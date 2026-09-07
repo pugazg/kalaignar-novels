@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 வீட்டிலேபோட்டுப் பூட்டிவைத்தார்கள் ஊர் மக்கள். சிவகாமியின் மனம் மரத்துப்போய்விட்டது. அசைவற்றுப் போனாள். இனி என்ன இருக்கிறது நடப்பதற்கு; எல்லாம் நடந்துவிட்டது என்ற குமுறல் அவள் நெஞ்சிலே மேலோங்கியிருந்து அறையிலே அடைக்கப்பட்ட சிவநேசர் கூச்சல் போட்டவாறு கதவைத்தட்டி ரகளா செய்து கொண்டிருந்தார். சிந்தாமணியைப் பற்றி ஊரிலே பலவாறு பேச்சு ஆரம்பமாயிற்று! அவளது தோழிகள் அவளுக்காக வாதாடத் தோன்றினார்கள்.
@@ -24,12 +24,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “நாக்கு என்ன நாரத்தம்பழமா! அழுகிப்போக! போடி போக்கிரி, உன் வேலையைப் பார்த்துக் கொண்டு!” என்று அவளை அடக்கினாள் ஊர்ப் பெரியமனுஷி ஒருத்தி!
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete scan inspected directly at enlarged/native source resolution; full mandatory historical-glyph set checked.
-- Historical `ளா` was positively decoded in `போனாள்`, `இருந்தாளே`, `அவள்தான்`, `ஆண்டாள்`, and `அடக்கினாள்`.
-- Source-specific colloquial forms including `பொண்டாட்டி`, `பலே கைகாரியமா`, `பச்சை உடம்பு`, and `நாரத்தம்பழமா` are preserved.
-- No unresolved source cluster remains.
+- Complete scan re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `போனாள்` / `இருந்தாளே` / `தோன்றினார்கள்` (`னா`), `சிந்தாமணியைப்` (`ணை`), `அவளைப்பற்றி` (`ளை`), and `வேலையைப்` (`லை`).
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- Source-specific colloquial forms including `பொண்டாட்டி`, `பலே கைகாரியமா`, `பச்சை உடம்பு`, and `நாரத்தம்பழமா` were retained without normalization.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -39,5 +40,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **75**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 76; அச்சுப் பக்கம்: 75 -->
