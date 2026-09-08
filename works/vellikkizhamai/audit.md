@@ -12,7 +12,7 @@
 | Chapter map | **direct through Chapter 13 continuation at scan 111** |
 | Historical-glyph work-level gate | **REOPENED** |
 | Corrective historical-glyph re-audit | **PASS scans 102–111** |
-| Retrospective historical-glyph re-audit | **PASS scans 1–95; PENDING scans 96–101** |
+| Retrospective historical-glyph re-audit | **PASS scans 1–100; PENDING scan 101** |
 | Forward transcription | **paused at scan 112** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
@@ -209,6 +209,24 @@ Representative direct source checks:
 - scan 94: `மாப்பிள்ளை` (`ளை`), `காலை` (`லை`), `மனைவியைப்` (`னை`); `தொடங்கினார்` source-rechecked and retained; source `புறக்கப்போகிறேன்` preserved;
 - scan 95: `வெள்ளிக்கிழமை` / `காட்டிலே` / `நாட்டிலே` (`லை`), `நன்றாக` (`றா`); genuine `தொடங்கினள்` retained; source-specific `நம்ப`, `பயந்தோடிக்`, `முக்கிய வாசிக் கதை` and Ramayana wording preserved.
 
+### Scans 96–100
+
+**PASS / 5 OF 5 COMPLETE.** Scans 96, 97 and 100 required no canonical correction.
+
+| Scan | Earlier canonical | Source-supported | Classification |
+|---:|---|---|---|
+| 98 | `நன்றுக` | **`நன்றாக`** | mandatory `றா` correction |
+| 99 | first `நன்றுகத்` | **`நன்றாகத்`** | mandatory `றா` correction |
+| 99 | second `நன்றுகத்` | **`நன்றாகத்`** | mandatory `றா` correction |
+
+Representative direct source checks:
+
+- scan 96: recurring `நயினா` (`னா`), `நாற்காலியில்` (`றா`), `கவலையோடு` (`லை`); source `வெளித்தாவரத்திலே` and genuine `கிடத்தினன்` retained;
+- scan 97: `நாணம்` (`ணா`), `மாறி மாறி` (`றா`), recurring `நயினா` (`னா`); source `இந்நிலே காதலிக்கும் உண்டு`, `பாழுங் காலில்`, `இடைஞ்சல்களும்` retained;
+- scan 98: source-correct `நன்றாக` (`றா`), `நாற்காலியில்` (`றா`), recurring `நயினா` (`னா`); source `பனிரெண்டு`, `கட்டிலண்டை`, `முடிவுகட்டினான்` retained; bottom standalone `7` is a printer/signature mark;
+- scan 99: both `நன்றாகத்` (`றா`) corrected directly from source pixels; recurring `நயினா` (`னா`) retained; source `கொண்டதானது`, `ஓசைகேட்கவே`, `வியர்த்துக்கொட்டி`, `ஈனசுரத்தில்` preserved; centered Chapter `12` remains in place;
+- scan 100: recurring `நயினா` (`னா`), `பறக்கிறான்` / `பறக்கிறார்கள்` (`றா`), `என்னைக்` (`னை`); source `எழில் மயமான`, `நடன மாடுகிறது`, `கிழிபட்ட`, `பொல பொலவென்று`, `லஸ்தர் விளக்கு` retained.
+
 ## Structural results to preserve
 
 - scan 33: mixed Chapter 3 / 4 with centered `4`;
@@ -229,7 +247,7 @@ Representative direct source checks:
 
 ## Unresolved project items
 
-- retrospective historical-glyph re-audit scans **96–101**;
+- retrospective historical-glyph re-audit **scan 101**;
 - scans **112–179** forward canonical processing;
 - final complete Tamil source audit;
 - assembled Tamil;
@@ -237,4 +255,4 @@ Representative direct source checks:
 
 ## Exact next activity
 
-Do **not** resume forward transcription yet. Process **scans 96–100** as the next retrospective 5-scan historical-glyph audit batch. Correct only positively source-supported identities or ordinary source mismatches, synchronize page/status documents, then finish scan 101 before resuming forward work.
+Do **not** resume forward transcription yet. Finish retrospective historical-glyph audit **scan 101**, synchronize page/status documents, then resume forward work at scan 112 only after the retrospective gate is fully cleared.
