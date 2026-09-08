@@ -25,13 +25,14 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **111 / 179**;
+- canonical page records: **112 / 179**;
 - Chapter 12/13 boundary: **scan 107 / printed 106**, centered `13`;
-- Chapter 13 transcribed through **scan 111 / printed 110**;
-- historical-glyph coverage on existing canonical scans: **PASS scans 1–111**;
+- Chapter 13 transcribed through **scan 112 / printed 111**;
+- historical-glyph coverage on existing canonical scans: **PASS scans 1–112**;
 - retrospective historical-glyph re-audit: **PASS scans 1–101 / COMPLETE**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- forward transcription: **unblocked; next at scan 112**;
+- prospective forward historical-glyph check: **PASS scan 112**;
+- forward transcription: **resumed; next at scan 113**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**.
@@ -58,6 +59,10 @@ All retrospective scans explicitly test the mandatory old-type families `ணா 
 
 Corrective scans **102–111** remain controlling examples for the known failure mode, including `நன்றாகக்`, `தவறாக`, `என்றாள்`, missing-`ஆ` corrections, `சொன்னா`, and `பெண்ணா?`.
 
+### Forward transcription after historical-glyph closure
+
+- scan **112 / printed 111**: **VERIFIED / historical-glyph PASS.** Physical opening `வது` completes scan 111 `சிறிதா`, forming `சிறிதாவது`. Representative confirmed families include `பெண்ணையாவது` / `சிந்தாமணியை` (`ணை`), `பிள்ளை` / `களைப்பாயிருக்கும்` (`ளை`), `பாலைவனமாக்குவது` (`லை`), `மனைவிதான்` (`னை`), and `நயினா` (`னா`). Source `கருதினன்` was independently checked and retained rather than expanded to `கருதினான்`; `திருமணந்தான்`, `மனத்திலேயிருந்த`, and `அனுதாபந்தான்` remain source-exact.
+
 ### Durable structural decisions
 
 - scan 33 — mixed Chapter 3 / 4, centered `4`;
@@ -75,7 +80,7 @@ Corrective scans **102–111** remain controlling examples for the known failure
 - scan 99 — mixed Chapter 11 / 12, centered `12`;
 - scan 101 — final retrospective scan; ends `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி` and continues physically on scan 102;
 - scan 107 — mixed Chapter 12 / 13, centered `13`;
-- scan 111 ends `சிறிதா`; scan 112 begins `வது`.
+- scan 111 / 112 — physical split `சிறிதா` + `வது` preserved as cross-page `சிறிதாவது`.
 
 ## Completed works
 
@@ -91,7 +96,7 @@ Use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRA
 
 ## Next activity
 
-Resume forward canonical processing at **scan 112**, preserving the mandatory historical-glyph checks on every newly transcribed scan. Do not start assembled Tamil or English.
+Continue forward canonical processing at **scan 113**, preserving the mandatory historical-glyph checks on every newly transcribed scan. Do not start assembled Tamil or English.
 
 ## Release-status meaning
 
