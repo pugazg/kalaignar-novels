@@ -14,15 +14,15 @@
 - canonical page records: **111 / 179**;
 - Chapter 12/13 boundary: **scan 107 / printed 106**, centered `13`;
 - Chapter 13 transcribed through scan 111 / printed 110;
-- **historical-glyph work-level gate: REOPENED**;
+- historical-glyph coverage on existing canonical scans: **PASS scans 1–111**;
+- retrospective historical-glyph re-audit: **PASS scans 1–101 / COMPLETE**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–100; pending scan 101**;
-- forward scan 112: **paused**;
+- forward scan 112: **unblocked / next**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Mandatory historical-glyph rule
 
-Every retrospective scan is checked directly against:
+Every retrospective or forward scan is checked directly against:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
@@ -113,9 +113,13 @@ Character identity is decided from enlarged/native source pixels first. Grammar 
 - scan 99 remains the mixed Chapter 11 / 12 boundary with centered `12`;
 - source-specific `வெளித்தாவரத்திலே`, `இந்நிலே காதலிக்கும் உண்டு`, `பனிரெண்டு`, `கட்டிலண்டை`, `கொண்டதானது`, `ஓசைகேட்கவே`, `வியர்த்துக்கொட்டி`, `எழில் மயமான`, `நடன மாடுகிறது`, and `லஸ்தர் விளக்கு` were retained.
 
-## Why the historical-glyph gate remains reopened
+### Scan 101 — retrospective closure
 
-The earlier pass sometimes treated old Tamil metal-type shapes as modern look-alikes. Corrective scans **102–111** demonstrated the failure mode with confirmed corrections including `நன்றாகக்`, `தவறாக`, `என்றாள்`, multiple missing-`ஆ` forms, `சொன்னா`, and `பெண்ணா?`. No blanket morphological correction is permitted; nearby forms must be independently source-checked.
+**PASS.** No mandatory-family correction. Ordinary source-spacing correction: `கண்விழித்துப்` → **`கண் விழித்துப்`**. Representative historical-family identities `காட்டுகிறார்களே` (`றா`), `பெண்ணாகவே` (`ணா`), `கண்களை` (`ளை`), `நயினா` / `வைத்துக்கொண்டிருந்தான்` (`னா`), and `தேவையில்லையென்று` (`லை`) were confirmed directly from source pixels. Source-specific `வேலைகூடத்`, `முகக் கண்களை`, `சீசாமீது`, `கொப்பளித்துக்கிளம்பி`, and `நாழிகைக்குப்` remain exact.
+
+## Historical-glyph gate status
+
+The earlier pass sometimes treated old Tamil metal-type shapes as modern look-alikes. Corrective scans **102–111** demonstrated the failure mode with confirmed corrections including `நன்றாகக்`, `தவறாக`, `என்றாள்`, multiple missing-`ஆ` forms, `சொன்னா`, and `பெண்ணா?`. The retrospective re-audit of scans **1–101 is now complete**, and together with corrective scans **102–111**, all existing canonical scans **1–111** have direct historical-glyph coverage. Future forward pages must continue the same source-pixel rule; no blanket morphological correction is permitted.
 
 ## Durable source / structure decisions
 
@@ -153,6 +157,7 @@ The earlier pass sometimes treated old Tamil metal-type shapes as modern look-al
 - scan 95 `தொடங்கினள்` genuine;
 - scan 98 `நன்றாக` (`றா`); bottom `7` printer/signature mark;
 - scan 99 both `நன்றாகத்` (`றா`); mixed Chapter 11 / 12 with centered `12`;
+- scan 101 `கண் விழித்துப்`; retrospective audit closure;
 - scan 107 mixed Chapter 12 / 13 with centered `13`;
 - scan 111 ends `சிறிதா`; scan 112 begins `வது`.
 
@@ -165,6 +170,4 @@ The earlier pass sometimes treated old Tamil metal-type shapes as modern look-al
 
 ## Exact next activity
 
-Keep forward scan 112 paused. Finish the remaining retrospective historical-glyph audit on **scan 101**, synchronize page/status documents, and only then resume forward transcription at scan 112.
-
-Do not start assembled Tamil or English.
+Resume forward canonical processing at **scan 112** using the same direct source-pixel historical-glyph checks on every new scan. Do not start assembled Tamil or English.

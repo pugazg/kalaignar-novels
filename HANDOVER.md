@@ -21,15 +21,15 @@ Fetch live `main` first and preserve newer durable work.
 - canonical records **111 / 179**;
 - Chapter 12/13 boundary: **scan 107 / printed 106**, centered `13`;
 - Chapter 13 transcribed through **scan 111 / printed 110**;
-- historical-glyph work-level gate: **REOPENED**;
+- historical-glyph coverage on existing canonical scans: **PASS scans 1–111**;
+- retrospective historical-glyph re-audit: **PASS scans 1–101 / COMPLETE**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–100; PENDING scan 101**;
-- forward transcription at scan 112: **paused**;
+- forward transcription at scan 112: **UNBLOCKED / NEXT**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Critical historical-glyph rule
 
-Mandatory set on every retrospective scan:
+Mandatory set on every scan:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
@@ -58,7 +58,12 @@ Corrective scans 102–111 remain controlling for the known failure mode, includ
 - **81–85:** PASS with five source-supported corrections: scan 81 `கண்ணி கழியாத` → **`கன்னி கழியாத`**; scan 82 `பின்னர்ப் பிறிட்டு` → **`பின்னர் பீறிட்டு`**; scan 83 `திருமணம்?` → **`திருமணமா?`** (`ணா`); scan 84 `துணியமுடியுமா?` → **`துணிய முடியுமா?`**; scan 85 `மருத்துவ மனைின்` → **`மருத்துவ மனையின்`** (`னை`). Scan 82 bottom standalone `6` remains a printer/signature mark; scan 85 is the mixed Chapter 9 / 10 boundary with centered `10`.
 - **86–90:** PASS. Scan 86 ordinary source corrections `அனேகமாக` → **`அநேகமாக`**, `முடிபுமுற்றுவிட்டது` → **`முடிவு முற்றுவிட்டது`**, `பூர்த்திசெய்து` → **`பூர்த்தி செய்து`**. Scan 87 corrected `கேட்டதுபோல்` → **`கேட்டதுபோல`** and mandatory historical-family `மாறுக` → **`மாறாக`** (`றா`). Scans 88–90 required no canonical correction. Scan 88 `நானு` remains exact; scan 89 ends `மறுத்துவிட்`; scan 90 begins `டால்`; scan 90 `மாறினள்` and `கத்தினள்` remain source-exact.
 - **91–95:** PASS. Scan 91 corrected mandatory-family `கருதினலும்` → **`கருதினாலும்`** (`னா`) and source spacing `உதவிபுரிவதுபோல` → **`உதவி புரிவதுபோல`**. Scans 92–95 required no canonical correction. Preserve scan 92 `நீட்டினன்`, `துரிதப்படுத்தினன்`, `அமர்த்தினன்` and centered Chapter `11`; scan 93 `பொத்தினன்`; scan 94 `தொடங்கினார்`, `புறக்கப்போகிறேன்`; scan 95 `தொடங்கினள்`, `பயந்தோடிக்`, `முக்கிய வாசிக் கதை`.
-- **96–100:** **PASS / 5 OF 5 COMPLETE.** Scans 96, 97, and 100 required no canonical correction. Scan 98 corrected mandatory-family `நன்றுக` → **`நன்றாக`** (`றா`). Scan 99 corrected both `நன்றுகத்` occurrences → **`நன்றாகத்`** (`றா`). Preserve scan 96 `வெளித்தாவரத்திலே`, `கிடத்தினன்`; scan 97 `இந்நிலே காதலிக்கும் உண்டு`; scan 98 `பனிரெண்டு`, `கட்டிலண்டை` and bottom `7` printer/signature mark; scan 99 `கொண்டதானது`, `ஓசைகேட்கவே` and centered Chapter `12`; scan 100 `நடன மாடுகிறது`, `லஸ்தர் விளக்கு`.
+- **96–100:** PASS. Scans 96, 97, and 100 required no canonical correction. Scan 98 corrected mandatory-family `நன்றுக` → **`நன்றாக`** (`றா`). Scan 99 corrected both `நன்றுகத்` occurrences → **`நன்றாகத்`** (`றா`). Preserve scan 96 `வெளித்தாவரத்திலே`, `கிடத்தினன்`; scan 97 `இந்நிலே காதலிக்கும் உண்டு`; scan 98 `பனிரெண்டு`, `கட்டிலண்டை` and bottom `7` printer/signature mark; scan 99 `கொண்டதானது`, `ஓசைகேட்கவே` and centered Chapter `12`; scan 100 `நடன மாடுகிறது`, `லஸ்தர் விளக்கு`.
+- **101:** **PASS / RETROSPECTIVE CLOSURE.** No mandatory-family correction. Ordinary source spacing `கண்விழித்துப்` → **`கண் விழித்துப்`**. Representative source-confirmed identities include `காட்டுகிறார்களே` (`றா`), `பெண்ணாகவே` (`ணா`), `கண்களை` (`ளை`), recurring `நயினா` / `வைத்துக்கொண்டிருந்தான்` (`னா`), and `தேவையில்லையென்று` (`லை`). Preserve `வேலைகூடத்`, `முகக் கண்களை`, `சீசாமீது`, `கொப்பளித்துக்கிளம்பி`, `நாழிகைக்குப்`.
+
+## Historical-glyph closure
+
+Retrospective scans **1–101 are complete / PASS**. Together with the already completed corrective scans **102–111**, all existing canonical scans **1–111** now have direct source-pixel historical-glyph coverage. This closes the retrospective hold and unblocks forward transcription. The same 13-family source-pixel check remains mandatory for every new forward scan.
 
 ## Preserve these structural/source decisions
 
@@ -103,21 +108,21 @@ Corrective scans 102–111 remain controlling for the known failure mode, includ
 - scan 95 `தொடங்கினள்`, `பயந்தோடிக்`, `முக்கிய வாசிக் கதை` preserved;
 - scan 98 `நன்றாக` (`றா`); bottom standalone `7` printer/signature mark;
 - scan 99 both `நன்றாகத்` (`றா`); mixed Chapter 11 / 12 with centered `12`;
+- scan 101 `கண் விழித்துப்`; ends `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி`, continued on scan 102;
 - scan 107 mixed Chapter 12 / 13 with centered `13`;
 - scan 111 ends physical `சிறிதா`; scan 112 begins `வது`.
 
 ## Exact next activity
 
-Forward transcription remains paused.
+Forward transcription may now resume.
 
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. finish retrospective historical-glyph audit of **scan 101**;
-4. explicitly test all 13 mandatory families on source pixels;
-5. correct only positively source-supported character identities or ordinary source-text mismatches; never infer from grammar and never global-replace;
-6. synchronize page records, page-map, audit, README/status/handover documents and commit;
-7. once scan 101 is cleared, close the retrospective gate for scans 1–101;
-8. only then resume forward transcription at scan 112.
+3. resume forward canonical processing at **scan 112**;
+4. preserve the scan-111/112 physical continuation `சிறிதா` + `வது`;
+5. apply the mandatory 13-family historical-glyph check directly from source pixels on every newly transcribed scan;
+6. preserve source spelling, punctuation, spacing, colloquial forms, and page/chapter boundaries;
+7. synchronize page records, page-map, audit, README/status/handover documents and commit.
 
 Do not start assembled Tamil or English.
 

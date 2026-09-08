@@ -10,17 +10,17 @@
 | Body transcription | **through scan 111** |
 | Printed-page map | **directly confirmed through scan 111; scan 66 visibly prints only `5`** |
 | Chapter map | **direct through Chapter 13 continuation at scan 111** |
-| Historical-glyph work-level gate | **REOPENED** |
+| Existing canonical historical-glyph coverage | **PASS scans 1–111** |
+| Retrospective historical-glyph re-audit | **PASS scans 1–101 / COMPLETE** |
 | Corrective historical-glyph re-audit | **PASS scans 102–111** |
-| Retrospective historical-glyph re-audit | **PASS scans 1–100; PENDING scan 101** |
-| Forward transcription | **paused at scan 112** |
+| Forward transcription | **unblocked; next at scan 112** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
 
 ## Historical-glyph rule
 
-Mandatory family set on every retrospective scan:
+Mandatory family set on every retrospective and forward scan:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
@@ -227,6 +227,20 @@ Representative direct source checks:
 - scan 99: both `நன்றாகத்` (`றா`) corrected directly from source pixels; recurring `நயினா` (`னா`) retained; source `கொண்டதானது`, `ஓசைகேட்கவே`, `வியர்த்துக்கொட்டி`, `ஈனசுரத்தில்` preserved; centered Chapter `12` remains in place;
 - scan 100: recurring `நயினா` (`னா`), `பறக்கிறான்` / `பறக்கிறார்கள்` (`றா`), `என்னைக்` (`னை`); source `எழில் மயமான`, `நடன மாடுகிறது`, `கிழிபட்ட`, `பொல பொலவென்று`, `லஸ்தர் விளக்கு` retained.
 
+### Scan 101 — retrospective closure
+
+**PASS.** No mandatory historical-family substitution was required.
+
+| Scan | Earlier canonical | Source-supported | Classification |
+|---:|---|---|---|
+| 101 | `கண்விழித்துப்` | **`கண் விழித்துப்`** | ordinary source spacing |
+
+Representative direct source checks: `காட்டுகிறார்களே` (`றா`), `பெண்ணாகவே` (`ணா`), `கண்களை` (`ளை`), recurring `நயினா` / `வைத்துக்கொண்டிருந்தான்` (`னா`), and `தேவையில்லையென்று` (`லை`). Source-specific `வேலைகூடத்`, `முகக் கண்களை`, `சீசாமீது`, `கொப்பளித்துக்கிளம்பி`, and `நாழிகைக்குப்` were retained. Scan 101 ends physical `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி`, which continues on already corrective-audited scan 102.
+
+## Retrospective closure
+
+Retrospective scans **1–101 are COMPLETE / PASS**. Together with corrective scans **102–111**, every existing canonical scan **1–111** has direct source-pixel historical-glyph coverage. The historical-glyph rule remains mandatory prospectively for scans 112–179; this closure does not waive per-scan source checking on new transcription.
+
 ## Structural results to preserve
 
 - scan 33: mixed Chapter 3 / 4 with centered `4`;
@@ -242,12 +256,12 @@ Representative direct source checks:
 - scan 92: mixed Chapter 10 / 11 with centered `11`;
 - scan 98: bottom standalone `7` printer/signature mark;
 - scan 99: mixed Chapter 11 / 12 with centered `12`;
+- scan 101: ends `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி`, continued by scan 102;
 - scan 107: mixed Chapter 12 / 13 with centered `13`;
 - scan 111 ends physical `சிறிதா`; scan 112 begins source-visible `வது`.
 
 ## Unresolved project items
 
-- retrospective historical-glyph re-audit **scan 101**;
 - scans **112–179** forward canonical processing;
 - final complete Tamil source audit;
 - assembled Tamil;
@@ -255,4 +269,4 @@ Representative direct source checks:
 
 ## Exact next activity
 
-Do **not** resume forward transcription yet. Finish retrospective historical-glyph audit **scan 101**, synchronize page/status documents, then resume forward work at scan 112 only after the retrospective gate is fully cleared.
+Resume forward canonical processing at **scan 112**. Preserve the existing scan-111/112 physical split (`சிறிதா` + source-visible `வது`) and apply the mandatory 13-family historical-glyph check directly from source pixels on every new scan. Do not start assembled Tamil or English.
