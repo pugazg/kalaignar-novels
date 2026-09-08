@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 “இதோ இவள்தான் காணமற்போன சீதை! ஹே ராவண! நீ என் சீதையைத் தூக்கிக்கொண்டு வந்தாய்?......சொல்! சொல்!”
@@ -18,12 +18,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 பாலையூர் மருத்துவ விடுதியில் ஆனந்திக்கு தன் கையால் ஏதாவது அளிக்கக்கூடிய சந்தர்ப்பம் எப்போது கிடைக்கும் என்ற ஆவலோடு துடித்துக் கிடந்த நயினா முகம்மதுக்கு அப்படியொரு வாய்ப்பு நள்ளிரவில் கிடைத்தது. விடுதியின் சட்டப்படி வெளித்தாவரத்திலே மட்டுமே நயினா முகம்மது தங்கிட முடிந்தது. ஆனந்தியின் அருகாமையிலேயிருக்கும் சூழ்நிலை அமையாமற்போய்விட்டது. ஆனாலும் அவன் தூங்கவில்லை. ஒரு நாற்காலியில் உட்
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete scan inspected directly at enlarged/native source resolution; mandatory historical-glyph set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` checked before Unicode transcription.
-- Corrected recurring `நயினா முகம்மது` is retained under the same-edition historical `னா` rule. The unusual but source-visible `வெளித்தாவரத்திலே` was checked directly and is preserved rather than contextually changed.
-- Source spelling, grammar, punctuation and physical page boundaries are preserved; no OCR/context repair or global replacement was used.
-- No unresolved source cluster remains.
+- Complete scan re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include recurring `நயினா` (`னா`), `நாற்காலியில்` (`றா`), `கவலையோடு` (`லை`), and neighboring `னை` / `ளை` family contexts checked independently from source pixels.
+- Source-specific `வெளித்தாவரத்திலே`, `கிடத்தினன்`, spelling, grammar, punctuation, and physical page boundary were retained without normalization.
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -32,5 +33,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **95**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 96; அச்சுப் பக்கம்: 95 -->

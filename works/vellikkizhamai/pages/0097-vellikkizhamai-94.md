@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; historical-glyph pre-correction check completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
 ---
 
 கார்ந்துகொண்டு, தாழ்வாரத்தில் இருந்தபடியே அவளைக் கவனித்துக்கொண்டிருந்தான். “அவள் அசையமாட்டாளா? ஒருகணம் விழிக்கமாட்டாளா?”—தனக்குத்தானே கேட்டுக்கொண்டான். தன்னைத் தவிர மருத்துவ மனையில் யாருமே விழித்திருக்கவில்லை யென்பதையும் உணர்ந்தான். அவனுக்கு ஒரு ஆசை; சிறிதுநேரம் ஆனந்தியின் முகத்தை அப்படியே இமைகொட்டாமல் பார்த்துக்கொண்டிருக்க வேண்டுமென்று!
@@ -16,12 +16,13 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 அந்த ஆசை உந்தித் தள்ள, நயினா முகம்மது மெதுவாக எழுந்து தாழ்வாரத்தைக் கடந்து, உள்ளே செல்ல முயன்றான். அவளை நிதானமாகப் பார்த்து ரசிக்க அவன் உள்ளத்திலே அப்படியொரு ஆவல் தீ மூண்டெழுந்தது. அடிமேல் அடிவைத்து நடந்தான். திருட்டுத்தனமாக இப்படி நடக்கும்போதுதான் பாழுங் காலில் “சொடக்கு” முறியும்! “படக்—படக்” என்று கால் விரல்களிலே ஒலி கிளம்பும்! அதைவிட ஆபத்து தொண்டையிலே ஏதோ ஒன்று அடைப்பதுபோல உணர்ச்சி ஏற்படும்! கனைத்துக் கொள்ளத் தோன்றும்! இதற்கிடைஞ்சல்களும் நயினா
 
-## Historical-glyph first-pass notes
+## Historical-glyph retrospective notes
 
-- Complete scan inspected directly at enlarged/native source resolution; mandatory historical-glyph set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` checked before Unicode transcription.
-- Corrected recurring `நயினா முகம்மது` is retained under the same-edition historical `னா` rule; `நாணம்` was also checked against the historical `ணா` family.
-- Source forms `விழித்திருக்கவில்லை யென்பதையும்`, `இந்நிலே காதலிக்கும் உண்டு`, `பாழுங் காலில்`, and `இடைஞ்சல்களும்` are preserved without modernization.
-- No unresolved source cluster remains.
+- Complete scan re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
+- Representative source-confirmed identities include `நாணம்` (`ணா`), `மாறி மாறி` (`றா`), recurring `நயினா` (`னா`), and `மருத்துவ மனையில்` / neighboring `லை` family contexts.
+- Source-specific `விழித்திருக்கவில்லை யென்பதையும்`, `இந்நிலே காதலிக்கும் உண்டு`, `பாழுங் காலில்`, and `இடைஞ்சல்களும்` were retained without modernization.
+- No historical-family substitution or other positively supported canonical text correction was required on this scan.
+- No global replacement, grammar-driven repair, or silent modernization was used.
 
 ## Page-boundary continuity
 
@@ -31,5 +32,6 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 ## Scan observations
 
 - Visible printed page number: **96**.
+- Retrospective historical-glyph audit: **PASS; no canonical correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 97; அச்சுப் பக்கம்: 96 -->
