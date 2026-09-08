@@ -10,7 +10,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - body transcription: **through scan 111**;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–95; PENDING scans 96–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–100; PENDING scan 101**;
 - scans 62–65 directly map to printed pages **61–64**;
 - scan 66 visibly prints only **`5`**; `65` is not inferred;
 - scans 67–111 directly map to printed pages **66–110**;
@@ -22,9 +22,9 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 
 ## Historical-glyph gate reopening
 
-The earlier work-level PASS remains withdrawn pending full retrospective review because old metal-type identities were misread in several records. Scans **1–95** and **102–111** have now been source-pixel re-audited. Scans **96–101** remain before forward work can resume.
+The earlier work-level PASS remains withdrawn pending full retrospective review because old metal-type identities were misread in several records. Scans **1–100** and **102–111** have now been source-pixel re-audited. Only scan **101** remains before forward work can resume.
 
-Key retrospective corrections through scan 95: scan 4 `பெருகிடுகிறது` → `பெருகிவிடுகிறது`; scan 38 `கண்ணின்` → `களைப்பின்`; scan 40 `எண்ணையாவது` → `என்னையாவது`, `அவர்களோ` → `அவர்களை`, `கைவற்றுப்போனேன்` → `கைவற்றுப்போனான்`; scan 42 `பொறுத்துச்` → `பொருத்தம்`, `சுதன` → `சனதன`; scans 46–49 source corrections; scans 52, 54, 55 source corrections; scans 56–60 source corrections except scan 59; scans 61–65 no canonical correction; scans 66–70 source corrections except scan 66; scans 71–75 no canonical correction; scan 79 `தனியிலே` → `தலையிலே`; scan 80 `கற்பமாக` → `கர்ப்பமாக`; scans 81–85 corrections `கன்னி கழியாத`, `பின்னர் பீறிட்டு`, `திருமணமா?`, `துணிய முடியுமா?`, `மருத்துவ மனையின்`; scans 86–90 PASS with scan 86 `அநேகமாக`, `முடிவு முற்றுவிட்டது`, `பூர்த்தி செய்து`, scan 87 `கேட்டதுபோல`, `மாறாக` (`றா`), scans 88–90 no correction; scans 91–95 PASS with scan 91 `கருதினாலும்` (`னா`) and source spacing `உதவி புரிவதுபோல`, scans 92–95 no correction. Genuine source forms retained include scan 90 `மாறினள்`, `கத்தினள்`; scan 92 `நீட்டினன்`, `துரிதப்படுத்தினன்`, `அமர்த்தினன்`; scan 93 `பொத்தினன்`; scan 95 `தொடங்கினள்`.
+Key retrospective corrections through scan 100: scan 4 `பெருகிடுகிறது` → `பெருகிவிடுகிறது`; scan 38 `கண்ணின்` → `களைப்பின்`; scan 40 `எண்ணையாவது` → `என்னையாவது`, `அவர்களோ` → `அவர்களை`, `கைவற்றுப்போனேன்` → `கைவற்றுப்போனான்`; scan 42 `பொறுத்துச்` → `பொருத்தம்`, `சுதன` → `சனதன`; scans 46–49 source corrections; scans 52, 54, 55 source corrections; scans 56–60 source corrections except scan 59; scans 61–65 no canonical correction; scans 66–70 source corrections except scan 66; scans 71–75 no canonical correction; scan 79 `தனியிலே` → `தலையிலே`; scan 80 `கற்பமாக` → `கர்ப்பமாக`; scans 81–85 corrections `கன்னி கழியாத`, `பின்னர் பீறிட்டு`, `திருமணமா?`, `துணிய முடியுமா?`, `மருத்துவ மனையின்`; scans 86–90 PASS with scan 86 `அநேகமாக`, `முடிவு முற்றுவிட்டது`, `பூர்த்தி செய்து`, scan 87 `கேட்டதுபோல`, `மாறாக` (`றா`), scans 88–90 no correction; scans 91–95 PASS with scan 91 `கருதினாலும்` (`னா`) and `உதவி புரிவதுபோல`, scans 92–95 no correction; scans 96–100 PASS with scan 98 `நன்றுக` → `நன்றாக` (`றா`) and scan 99 both `நன்றுகத்` occurrences → `நன்றாகத்` (`றா`), scans 96, 97, 100 no correction. Genuine source forms retained include scan 90 `மாறினள்`, `கத்தினள்`; scan 92 `நீட்டினன்`, `துரிதப்படுத்தினன்`, `அமர்த்தினன்`; scan 93 `பொத்தினன்`; scan 95 `தொடங்கினள்`; scan 96 `வெளித்தாவரத்திலே`, `கிடத்தினன்`; scan 97 `இந்நிலே காதலிக்கும் உண்டு`; scan 98 `பனிரெண்டு`, `கட்டிலண்டை`; scan 99 `கொண்டதானது`, `ஓசைகேட்கவே`; scan 100 `நடன மாடுகிறது`, `லஸ்தர் விளக்கு`.
 
 ## Confirmed chapter structure
 
@@ -139,11 +139,11 @@ Key retrospective corrections through scan 95: scan 4 `பெருகிடு�
 | 93 | 92 | body | verified | Chapter 11; audit PASS; no correction; `பொத்தினன்` retained |
 | 94 | 93 | body | verified | Chapter 11; audit PASS; no correction; source `தொடங்கினார்`, `புறக்கப்போகிறேன்` retained |
 | 95 | 94 | body | verified | Chapter 11; audit PASS; no correction; `தொடங்கினள்`, `பயந்தோடிக்`, `முக்கிய வாசிக் கதை` retained |
-| 96 | 95 | body | verified | Chapter 11; source `வெளித்தாவரத்திலே`; retrospective glyph audit pending |
-| 97 | 96 | body | verified | Chapter 11; retrospective glyph audit pending |
-| 98 | 97 | body | verified | Chapter 11; bottom `7` printer/signature mark; retrospective glyph audit pending |
-| 99 | 98 | body / chapter boundary | verified | Mixed Chapter 11 / 12; centered `12`; retrospective glyph audit pending |
-| 100 | 99 | body | verified | Chapter 12; retrospective glyph audit pending |
+| 96 | 95 | body | verified | Chapter 11; audit PASS; no correction; `வெளித்தாவரத்திலே`, `கிடத்தினன்` retained |
+| 97 | 96 | body | verified | Chapter 11; audit PASS; no correction; `இந்நிலே காதலிக்கும் உண்டு` retained |
+| 98 | 97 | body | verified | Chapter 11; audit PASS after `நன்றுக` → `நன்றாக` (`றா`); bottom `7` printer/signature mark |
+| 99 | 98 | body / chapter boundary | verified | Mixed Chapter 11 / 12; centered `12`; audit PASS after both `நன்றுகத்` → `நன்றாகத்` (`றா`) |
+| 100 | 99 | body | verified | Chapter 12; audit PASS; no correction; `நடன மாடுகிறது`, `லஸ்தர் விளக்கு` retained |
 | 101 | 100 | body | verified | Chapter 12; ends `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி`; retrospective glyph audit pending |
 | 102 | 101 | body | verified | Corrective glyph audit PASS; `ஆட்டினாள்` |
 | 103 | 102 | body | verified | Corrective glyph audit PASS; `நன்றாகக்`, `கத்தினாள்`; ends `சொல்லு` |
@@ -226,4 +226,4 @@ Key retrospective corrections through scan 95: scan 4 `பெருகிடு�
 
 ## Exact next activity
 
-Perform **retrospective historical-glyph audit scans 96–100** as the next 5-scan iteration. Forward scan 112 remains paused until scans 1–101 are retrospectively cleared.
+Perform the remaining retrospective historical-glyph audit on **scan 101**. Forward scan 112 remains paused until scan 101 is cleared.
