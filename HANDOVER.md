@@ -18,13 +18,14 @@ Fetch live `main` first and preserve newer durable work.
 ## Current durable state
 
 - manifest **179 / 179**;
-- canonical records **111 / 179**;
+- canonical records **112 / 179**;
 - Chapter 12/13 boundary: **scan 107 / printed 106**, centered `13`;
-- Chapter 13 transcribed through **scan 111 / printed 110**;
-- historical-glyph coverage on existing canonical scans: **PASS scans 1–111**;
+- Chapter 13 transcribed through **scan 112 / printed 111**;
+- historical-glyph coverage on existing canonical scans: **PASS scans 1–112**;
 - retrospective historical-glyph re-audit: **PASS scans 1–101 / COMPLETE**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- forward transcription at scan 112: **UNBLOCKED / NEXT**;
+- prospective forward historical-glyph check: **PASS scan 112**;
+- forward transcription at scan 113: **NEXT**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Critical historical-glyph rule
@@ -63,7 +64,21 @@ Corrective scans 102–111 remain controlling for the known failure mode, includ
 
 ## Historical-glyph closure
 
-Retrospective scans **1–101 are complete / PASS**. Together with the already completed corrective scans **102–111**, all existing canonical scans **1–111** now have direct source-pixel historical-glyph coverage. This closes the retrospective hold and unblocks forward transcription. The same 13-family source-pixel check remains mandatory for every new forward scan.
+Retrospective scans **1–101 are complete / PASS**. Together with the already completed corrective scans **102–111**, all canonical scans **1–111** had direct source-pixel historical-glyph coverage at closure. The same 13-family source-pixel check remains mandatory for every new forward scan.
+
+## Forward canonical processing after closure
+
+### Scan 112 / printed 111
+
+**VERIFIED / historical-glyph PASS.**
+
+- Opening physical `வது` completes scan 111 final `சிறிதா`, forming cross-page `சிறிதாவது`.
+- Mandatory-family confirmations include `பெண்ணையாவது` / `சிந்தாமணியை` (`ணை`), `பிள்ளை` / `களைப்பாயிருக்கும்` (`ளை`), `பாலைவனமாக்குவது` (`லை`), `மனைவிதான்` (`னை`), and recurring `நயினா` (`னா`).
+- `கருதினன்` was independently checked against the missing-`ஆ` failure mode and retained; it is not normalized to `கருதினான்`.
+- Source-specific `திருமணந்தான்`, `மனத்திலேயிருந்த`, and `அனுதாபந்தான்` remain exact.
+- No unresolved source cluster remains.
+
+Existing canonical historical-glyph coverage is now **PASS scans 1–112**.
 
 ## Preserve these structural/source decisions
 
@@ -110,19 +125,17 @@ Retrospective scans **1–101 are complete / PASS**. Together with the already c
 - scan 99 both `நன்றாகத்` (`றா`); mixed Chapter 11 / 12 with centered `12`;
 - scan 101 `கண் விழித்துப்`; ends `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி`, continued on scan 102;
 - scan 107 mixed Chapter 12 / 13 with centered `13`;
-- scan 111 ends physical `சிறிதா`; scan 112 begins `வது`.
+- scan 111 / 112 physical split `சிறிதா` + `வது` preserved as `சிறிதாவது`;
+- scan 112 `கருதினன்` source-confirmed genuine.
 
 ## Exact next activity
 
-Forward transcription may now resume.
-
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. resume forward canonical processing at **scan 112**;
-4. preserve the scan-111/112 physical continuation `சிறிதா` + `வது`;
-5. apply the mandatory 13-family historical-glyph check directly from source pixels on every newly transcribed scan;
-6. preserve source spelling, punctuation, spacing, colloquial forms, and page/chapter boundaries;
-7. synchronize page records, page-map, audit, README/status/handover documents and commit.
+3. continue forward canonical processing at **scan 113**;
+4. apply the mandatory 13-family historical-glyph check directly from source pixels before encoding;
+5. preserve source spelling, punctuation, spacing, colloquial forms, and page/chapter boundaries;
+6. synchronize page records, page-map, audit, README/status/handover documents and commit.
 
 Do not start assembled Tamil or English.
 
