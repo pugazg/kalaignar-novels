@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; expanded corrective historical-glyph re-audit completed"
 ---
 
 “எப்படியடி திடீரென்று பெண் வீடு பார்க்க வருகிறார்கள்?”
@@ -32,21 +32,20 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “அடி அடி...அதோ பார் டைகர்! டைகர்!” என்று ஒருவருக்கொருவர் அச்சத்தோடு சுட்டிக்காட்டினர்.
 
-“வந்துவிட்டானு......மண்டுகம்?” என்று கேலியும் ஆத்திரமும் கலந்த குரலில் கேட்டாள் சிந்தாமணி.
+“வந்துவிட்டானா......மண்டுகம்?” என்று கேலியும் ஆத்திரமும் கலந்த குரலில் கேட்டாள் சிந்தாமணி.
 
 “நான் அப்பொழுதே சொன்னேன்—சீக்கிரம் வீட்டுக்குப் போகலாமென்று! இந்தப் பாவிப்பயல் பார்வையிலே படாமல் போகலாம்னு கேட்டீங்களா?” என்று அங்கலாய்த்தாள் காந்தா!
 
-## Historical-glyph retrospective notes
+## Historical-glyph expanded corrective notes
 
-- Complete page re-inspected against all 13 mandatory historical families at enlarged/native source resolution.
-- Representative identities confirmed: `மாப்பிள்ளை` (`ளை`) and `நின்றான்` (`றா`); other present families were checked independently rather than inferred from neighboring words.
-- The colloquial `வந்துவிட்டானு` was specifically rechecked for the known old-`னா` → modern-`னு` visual-confusion risk. The source pixels support the existing final `னு`; it is retained and is **not** normalized to `வந்துவிட்டானா`.
-- Source-specific `வைதீகந்தான்`, `கொல்லென`, and `போகலாம்னு` remain unchanged.
-- No historical-glyph correction, ordinary lexical correction, global replacement or silent modernization was required.
+- The high-risk final cluster was re-inspected against enlarged source pixels after the later old-`னா` failure pattern was recognized.
+- Earlier `வந்துவிட்டானு` is corrected to source-supported **`வந்துவிட்டானா`** (`னா`).
+- Genuine colloquial `போகலாம்னு` remains unchanged; the correction is character-identity based, not grammatical normalization.
+- No global replacement or silent modernization was used.
 
 ## Scan observations
 
 - Visible printed page number: **18**.
-- Retrospective historical-glyph audit: **PASS**.
+- Expanded corrective historical-glyph audit: **PASS after correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 19; அச்சுப் பக்கம்: 18 -->

@@ -7,10 +7,10 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; mandatory historical-glyph check completed during forward transcription"
+transcription_method: "direct visual comparison with enlarged/native source scan; expanded corrective historical-glyph re-audit completed"
 ---
 
-பாசமும் பற்றும் அதிகமாகப் பெருக்கெடுத்து சோகம் உச்சக் கட்டத்தை அடையுமல்லவா? ஆனந்தியும் அப்படித்தான் ஆவள்! விம்மி விம்மிக் கதறினள். நான் விஷம்! தீண்டத்தகாதவள்!” என்று முனகினள்!
+பாசமும் பற்றும் அதிகமாகப் பெருக்கெடுத்து சோகம் உச்சக் கட்டத்தை அடையுமல்லவா? ஆனந்தியும் அப்படித்தான் ஆவள்! விம்மி விம்மிக் கதறினாள். நான் விஷம்! தீண்டத்தகாதவள்!” என்று முனகினாள்!
 
 “இருந்தால் என்ன? நான் முஸ்லீம்! சாதி வித்தியாசம் எனக்குக் கிடையாது!” என்றான் நயினா.
 
@@ -30,21 +30,20 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “ஆனந்தி யார் தெரியுமா? அவள் கற்பிழந்தவள்! டைகரின் வைப்பாட்டி!”
 
-## Historical-glyph forward notes
+## Historical-glyph expanded corrective notes
 
-- Complete physical scan inspected directly against all 13 mandatory historical families at enlarged/native source resolution before encoding.
-- Representative source-confirmed identities include `ஆக்கவில்லை` (`லை`), `என்னை` (`னை`), and recurring `நயினா` (`னா`); the remaining mandatory families were explicitly checked for candidate clusters on this page.
-- Source-specific `அப்படித்தான் ஆவள்`, `கதறினள்`, `முனகினள்`, `சீழ்`, `அமராழ்`, and `அசைவற்றுவிட்டான்` are preserved exactly from source pixels.
-- No unresolved source cluster remains. No global replacement or grammar-driven repair was used.
+- Expanded old-type comparison corrects `கதறினள்` and `முனகினள்` to **`கதறினாள்`** and **`முனகினாள்`**.
+- Source-specific **`அப்படித்தான் ஆவள்`** remains exactly as printed; it is not grammar-normalized.
+- `சீழ்`, `அமராழ்`, `அசைவற்றுவிட்டான்`, and recurring `நயினா` remain source-confirmed.
 
 ## Page-boundary continuity
 
-- Scan 114 begins `பாசமும் பற்றும்...`, directly continuing scan 113’s final `ஆறுதல் கூறுவதற்கு ஒருவர் அருகே இருக்கும்போது`.
+- Scan 114 begins `பாசமும் பற்றும்...`, continuing scan 113.
 - Bottom standalone `8` is a printer/signature mark and is not narrative text.
 
 ## Scan observations
 
 - Visible printed page number: **113**.
-- Forward historical-glyph check: **PASS**.
+- Expanded corrective historical-glyph audit: **PASS after corrections**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 114; அச்சுப் பக்கம்: 113 -->

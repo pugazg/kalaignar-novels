@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; corrective historical-glyph audit completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; expanded corrective historical-glyph re-audit completed"
 ---
 
 கேள்விகள் நயினா முகம்மதின் நெஞ்சத்தைக் குடைந்தன. அவன் ஆனந்தியிடம் டைகரைப் பற்றிக்கேட்டான்.
@@ -22,9 +22,9 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “அப்படியானால் அவன் என்னிடம் கூறியதெல்லாம் பொய்தானா?”
 
-“என்ன கூறினன்?”
+“என்ன கூறினான்?”
 
-“முதலில் சிந்தாமணியைக் களங்கமற்றவள் என்று சொன்னன். பிறகு, அவள் செய்த மாபெரும் தவறை மறைப்பதற்காகவே நீ இவ்வளவு கஷ்டப்பட்டாய் என்று கதைத்தான்!”
+“முதலில் சிந்தாமணியைக் களங்கமற்றவள் என்று சொன்னான். பிறகு, அவள் செய்த மாபெரும் தவறை மறைப்பதற்காகவே நீ இவ்வளவு கஷ்டப்பட்டாய் என்று கதைத்தான்!”
 
 “அவன் சொன்ன இரண்டு கருத்துக்களில் நீங்கள் எதை நம்பினீர்கள்!”
 
@@ -40,23 +40,21 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “எனக்கொன்றும் நீங்கள் நினைப்பது போல புனிதமான உள்ளம் இல்லை! சுருக்கமாகச் சொல்லப்போனால்
 
-## Historical-glyph corrective notes
+## Historical-glyph expanded corrective notes
 
-- Full page was re-audited against the source with the historical-glyph guide open.
-- Earlier apparent `சொன்னு` is corrected to source-supported `சொன்னா` (`னா` family).
-- Earlier apparent `பொய்தானு?` is corrected to `பொய்தானா?` (`னா` family).
-- `கூறினன்` and `சொன்னன்` were rechecked separately and are retained; they are not globally changed merely because nearby `னா` forms required correction.
-- Corrected `நயினா முகம்மது` remains controlling; `சண்டாளன்`, `களங்கமற்றவள்`, `சீரழிந்தவள்`, and `என்னைப்பற்றிய` were rechecked from source pixels.
+- Earlier source corrections `சொன்னா` and `பொய்தானா?` remain controlling.
+- Expanded same-type comparison corrects `கூறினன்` → **`கூறினான்`** and `சொன்னன்` → **`சொன்னான்`**.
+- `நயினா முகம்மது`, `சண்டாளன்`, `களங்கமற்றவள்`, `சீரழிந்தவள்`, and `என்னைப்பற்றிய` were rechecked independently.
 - Source forms `பெரிய மனுஷன்` and `அமையாதாவென்று` remain unchanged.
-- No unresolved source cluster remains on scan 109.
 
 ## Page-boundary continuity
 
 - Opening follows scan 108’s three questions about டைகர்.
-- Final `சுருக்கமாகச் சொல்லப்போனால்` continues directly on scan 110 with `நான் ஒரு புழுதிமேடு!`.
+- Final `சுருக்கமாகச் சொல்லப்போனால்` continues on scan 110 with `நான் ஒரு புழுதிமேடு!`.
 
 ## Scan observations
 
 - Visible printed page number: **108**.
+- Expanded corrective historical-glyph audit: **PASS after corrections**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 109; அச்சுப் பக்கம்: 108 -->

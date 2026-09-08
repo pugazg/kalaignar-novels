@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; mandatory historical-glyph check completed during forward transcription"
+transcription_method: "direct visual comparison with enlarged/native source scan; expanded corrective historical-glyph re-audit completed"
 ---
 
 “பிறகு?”
@@ -32,26 +32,24 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “என்ன சொல்லுகிறாய் ஆனந்தி!”
 
-ஆனந்தி பேசவில்லை; அழுதாள். நயினா முகம்மது தன்னையறியாமல் அவளது கண்களைத் துடைத்துக் கொண்டே, “அழாதே!” என்று ஆறுதல் கூறினன்.
+ஆனந்தி பேசவில்லை; அழுதாள். நயினா முகம்மது தன்னையறியாமல் அவளது கண்களைத் துடைத்துக் கொண்டே, “அழாதே!” என்று ஆறுதல் கூறினான்.
 
 ஆறுதல் கூறுவதற்கு ஒருவர் அருகே இருக்கும்போது
 
-## Historical-glyph forward notes
+## Historical-glyph expanded corrective notes
 
-- Complete physical scan inspected directly against all 13 mandatory historical families at enlarged/native source resolution before encoding.
-- Representative source-confirmed identities include `உன்னை` / `என்னை` / `எத்தனையோ` / `தன்னையறியாமல்` (`னை`), `கண்களைத்` (`ளை`), `விரும்பவில்லை` / `தெரியவில்லை` (`லை`), and recurring `நயினா` (`னா`); the remaining mandatory families were explicitly checked for candidate clusters on this page.
-- `கூறினன்` was independently rechecked against the known missing-`ஆ` failure mode and is retained as the genuine source form; it is not normalized to `கூறினான்`.
-- Source-specific `பிடிகை`, `கூளம்`, `தவங்கிடந்து`, `அவையடக்கம்போலவே`, punctuation, spacing and colloquial wording are preserved.
-- No unresolved source cluster remains. No global replacement or grammar-driven repair was used.
+- The former `கூறினன்` counterexample classification is corrected to source-supported **`கூறினான்`**.
+- `உன்னை`, `என்னை`, `எத்தனையோ`, `தன்னையறியாமல்`, `கண்களைத்`, `விரும்பவில்லை`, `தெரியவில்லை`, and recurring `நயினா` remain independently confirmed.
+- Source-specific `பிடிகை`, `கூளம்`, `தவங்கிடந்து`, and `அவையடக்கம்போலவே` remain unchanged.
 
 ## Page-boundary continuity
 
-- Scan 113 begins with a fresh reply `“பிறகு?”` after scan 112’s final `“நீங்கள் மிகவும் நல்லவர்!”`.
-- Final physical phrase `ஆறுதல் கூறுவதற்கு ஒருவர் அருகே இருக்கும்போது` continues directly on scan 114 with source-visible `பாசமும் பற்றும்...`; no scan-114 text is moved backward.
+- Scan 113 begins with `“பிறகு?”` after scan 112’s final reply.
+- Final `ஆறுதல் கூறுவதற்கு ஒருவர் அருகே இருக்கும்போது` continues on scan 114 with `பாசமும் பற்றும்...`.
 
 ## Scan observations
 
 - Visible printed page number: **112**.
-- Forward historical-glyph check: **PASS**.
+- Expanded corrective historical-glyph audit: **PASS after correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 113; அச்சுப் பக்கம்: 112 -->

@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; retrospective historical-glyph audit completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; expanded corrective historical-glyph re-audit completed"
 ---
 
 என்றும் டாக்டர்கள் அபிப்பிராயம் தெரிவித்தார்கள். தாயாரம்மாளை மருத்துவ மனையில் விட்டுவிட்டு அழகப்பனும் நயினாவும் விபத்து குறித்துப் போலீசாருக்குத் தெரிவிக்கப் புறப்பட்டனர்.
@@ -22,7 +22,7 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 அழகப்பனை அவனது அவசர முடிவுகளிலேயிருந்து விடுவிப்பதற்காகவும் அவள் அந்தக் கூச்சலை எழுப்பியிருக்கலாம்.
 
-சிந்தாமணி ஒரு குழந்தைக்குத் தாயில்லை என்பதும்—அவள் கன்னிப் பருவத்தினள் என்பதும்—ஆனந்தி அறியாததல்லவே!—
+சிந்தாமணி ஒரு குழந்தைக்குத் தாயில்லை என்பதும்—அவள் கன்னிப் பருவத்தினாள் என்பதும்—ஆனந்தி அறியாததல்லவே!—
 
 அவளது நல்ல இருதயம் முதன் முதலாகப் பிறருக்குக் கேடு விளைவிக்க முயன்று அந்த முயற்சியிலேயே துவண்டிருக்கிறது—அதன் விளைவுதான் கார் விபத்து!
 
@@ -32,17 +32,16 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 - Opening `என்றும் டாக்டர்கள்...` completes scan 52; final `அனுப்பப்பட்டிருக்க` continues as `கிறார்கள்` on scan 54.
 
-## Historical-glyph retrospective notes
+## Historical-glyph expanded corrective notes
 
-- Complete page re-inspected directly against all 13 mandatory historical families at enlarged/native source resolution.
-- Representative source-confirmed identities include `வளைப்பாள்` (`ளை`), `உளறுகிறாள்` (`றா`), and `தாயில்லை` (`லை`).
-- `பருவத்தினள்` was independently rechecked because nearby historical `னா` failures can tempt expansion; the source genuinely supports final `னள்`, so **`பருவத்தினள்` is retained exactly**.
-- No historical-family substitution or ordinary canonical text correction was required.
-- No global replacement or silent modernization was used.
+- The former `பருவத்தினள்` classification was rechecked against enlarged same-edition type.
+- Source supports **`பருவத்தினாள்`**; the earlier short reading was a missing-`ஆ` glyph-decoding error.
+- `வளைப்பாள்`, `உளறுகிறாள்`, and `தாயில்லை` remain independently source-confirmed.
+- No grammar-driven repair or global replacement was used.
 
 ## Scan observations
 
 - Visible printed page number: **52**.
-- Retrospective historical-glyph audit: **PASS**.
+- Expanded corrective historical-glyph audit: **PASS after correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 53; அச்சுப் பக்கம்: 52 -->

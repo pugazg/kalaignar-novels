@@ -7,7 +7,7 @@ page_type: "body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
-transcription_method: "direct visual comparison with enlarged/native source scan; corrective historical-glyph audit completed"
+transcription_method: "direct visual comparison with enlarged/native source scan; expanded corrective historical-glyph re-audit completed"
 ---
 
 நான் ஒரு புழுதிமேடு! இந்தப் புழுதிக்காற்று, “புண்யவதி” ஒருத்தியின் புனிதமான வாழ்க்கையை அசுத்தப்படுத்தக் காரணமாயிருந்துவிட்டதேயென்று நினைக்கும் போது நெஞ்சு படபடக்கிறது!”
@@ -18,24 +18,23 @@ transcription_method: "direct visual comparison with enlarged/native source scan
 
 “நான் சொல்வதை நம்புங்கள். அந்தப் பாதகன் டைகரின் பேச்சைக் கேட்டு, பிரசவ ஆஸ்பத்திரியில் இருந்த வேறொருத்தியின் குழந்தையை சிந்தாமணியின் அருகே படுக்கவைத்து அவளைக் குற்றம் சுமத்திய துரோகியாகிவிட்டேன் நான்! சிந்தாமணி, அவனுக்கு மாமன் மகள்! தூரத்து உறவு! பெங்களூர் மாப்பிள்ளைக்கு சிந்தாமணியைக் கொடுக்கப்போகிற சேதி கேள்விப்பட்டதும் தனக்கு உதவாது அழிந்துபோகட்டும் என்று நினைத்து அவள்மீது வேசிப் பட்டம் சூட்ட இப்படியொரு சூழ்ச்சியை ஏற்பாடு செய்தான்.
 
-“நான் முதலில் தடுத்தேன். சிந்தாமணியின் நன்மைக்காகவும் அவள் பெற்றோர்களின் நன்மைக்காகவுமே அதைச் செய்வதாக என்னிடம் புளுகினன். ஏமாந்தேன். சிந்தாமணியை அவன் அபகரிக்கவே அப்படிச் சதி நடத்துகிறான் என்பது எனக்குப் புரியாது. நீங்களும் உங்கள் நண்பரும் மருத்துவ மனைக்கு வந்து, சிந்தாமணியை வாய்க்கு வந்தவாறு வசை பாடிவிட்டுப் போனதுமுதல் என் மனம் ஒரு நிலையில் இல்லை. மனச்சாட்சி, என்னைப் பார்த்துக் காரி உமிழ்ந்தது. “நீயும் ஒரு பெண்ணா?””
+“நான் முதலில் தடுத்தேன். சிந்தாமணியின் நன்மைக்காகவும் அவள் பெற்றோர்களின் நன்மைக்காகவுமே அதைச் செய்வதாக என்னிடம் புளுகினான். ஏமாந்தேன். சிந்தாமணியை அவன் அபகரிக்கவே அப்படிச் சதி நடத்துகிறான் என்பது எனக்குப் புரியாது. நீங்களும் உங்கள் நண்பரும் மருத்துவ மனைக்கு வந்து, சிந்தாமணியை வாய்க்கு வந்தவாறு வசை பாடிவிட்டுப் போனதுமுதல் என் மனம் ஒரு நிலையில் இல்லை. மனச்சாட்சி, என்னைப் பார்த்துக் காரி உமிழ்ந்தது. “நீயும் ஒரு பெண்ணா?””
 
-## Historical-glyph corrective notes
+## Historical-glyph expanded corrective notes
 
-- Full page was re-audited with the historical-glyph guide.
-- Earlier apparent `பெண்ணு?` is corrected to source-supported `பெண்ணா?`; this is the guide’s `ணா` family, not a colloquial `ணு` reading.
-- `புளுகினன்` was rechecked separately and is retained; no blanket `னன்` → `னான்` replacement was made.
-- `நயினாவின்`, `பெங்களூர்`, `பெற்றோர்களின்`, and other reform-sensitive clusters were checked individually.
+- Earlier correction `பெண்ணா?` remains source-confirmed.
+- Expanded old-type comparison corrects `புளுகினன்` to **`புளுகினான்`**.
 - Source forms `புண்யவதி`, `துல்யமாகத்`, `வேறொருத்தியின்`, `வேசிப் பட்டம்`, and `அபகரிக்கவே` remain unchanged.
-- No unresolved source cluster remains on scan 110.
+- No blanket `னன்` replacement was used.
 
 ## Page-boundary continuity
 
 - Opening `நான் ஒரு புழுதிமேடு!` completes scan 109’s final `சுருக்கமாகச் சொல்லப்போனால்`.
-- Final quoted `“நீயும் ஒரு பெண்ணா?”` is completed at the physical end of scan 110; the narrator’s reflection continues on scan 111.
+- Final quoted `“நீயும் ஒரு பெண்ணா?”` is completed at the physical end of scan 110.
 
 ## Scan observations
 
 - Visible printed page number: **109**.
+- Expanded corrective historical-glyph audit: **PASS after correction**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 110; அச்சுப் பக்கம்: 109 -->
