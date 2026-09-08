@@ -1,0 +1,51 @@
+---
+scan_page: 112
+printed_page: 111
+work: "vellikkizhamai"
+section: "அத்தியாயம் 13"
+page_type: "body"
+status: "verified"
+language: "ta"
+source_filename: "TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf"
+transcription_method: "direct visual comparison with enlarged/native source scan; mandatory historical-glyph check completed during forward transcription"
+---
+
+வது சிந்தித்திருக்கவேண்டும். உங்கள் அம்மாவையாவது, அல்லது வேறொரு பெண்ணையாவது விட்டு சிந்தாமணியை சோதித்துப் பார்த்து, உண்மையில் அவள் பிள்ளை பெற்றவளா?—என்பதை ஆராய்ந்திருக்கவேண்டும்! அவளது உடலமைப்பு மூலம் உண்மை விளக்கப்பட்டிருக்கும். இவை எதுவுமின்றி, ஒரு பரிதாபத்திற்குரிய பாவையைப் பாலைவனமாக்குவது நியாயமா? நீங்களே சொல்லுங்கள்! இப்போது ஒன்றும் முழுகிவிடவில்லை. சிந்தாமணியின் வாழ்க்கை எழிலாக்குவது உங்கள் கையில் இருக்கிறது. உங்கள் தோழரின் மனதை உடனடியாக மாற்றுங்கள். உடைந்துபோன வீணையாக சிந்தாமணியை ஆக்காமல் பாதுகாத்திடப் பாதை வகுத்திடுங்கள்!”,
+
+நயினா முகம்மதுவுக்கு ஆனந்தியின் பேச்சு, நம்பிக்கையூட்டிற்று. அவசர முடிவினால் ஒரு குடும்பப் பெண்ணின் வாழ்வை விஷமாக்கிவிட்டதாகக் கருதினன்; கண்ணீர் வடித்தான்.
+
+“சரி ஆனந்தி! சிந்தாமணி அழகப்பனின் மனைவிதான்! அதற்கு நான் பொறுப்பு! என் அவசர முடிவுக்கு நான் செய்துகொள்ளும் பிராயச்சித்தமே, அழகப்பன்—சிந்தாமணி திருமணந்தான்!...”
+
+“அப்பாடா... என் மனத்திலேயிருந்த பாரம் குறைந்தது! சத்தியமாகச் சொல்லுங்கள்—அழகப்பர் சிந்தாமணி திருமணத்தை...”
+
+“நடத்தியே தீருவேன்!......ஆனந்தி! அதை முடிந்த விஷயமாகவே கருது! இன்னும் முடியாமலிருக்கிற நம் விஷயத்தைப்பற்றி நாளைக்குப் பேசுவோம்—களைப்பாயிருக்கும் தூங்கு!”
+
+“நம் விஷயமா?...இதற்கு முடிவே கிடையாது!”,
+
+“என்ன சொல்லுகிறாய் ஆனந்தி?”
+
+“உங்களை நான் புரிந்துகொண்டேன், உங்கள்மீது எனக்கு அனுதாபந்தான் பிறக்கிறது!”
+
+“ஏன்?”
+
+“நீங்கள் மிகவும் நல்லவர்!”
+
+## Historical-glyph forward notes
+
+- Complete physical scan inspected directly against all 13 mandatory historical families at enlarged/native source resolution before encoding.
+- Representative source-confirmed identities include `பெண்ணையாவது` / `சிந்தாமணியை` (`ணை`), `பிள்ளை` / `களைப்பாயிருக்கும்` (`ளை`), `பாலைவனமாக்குவது` (`லை`), `மனைவிதான்` (`னை`), and recurring `நயினா` (`னா`).
+- `கருதினன்` was independently rechecked against the known missing-`ஆ` failure mode and is retained as the genuine source form; it is not normalized to `கருதினான்`.
+- Source-specific `திருமணந்தான்`, `மனத்திலேயிருந்த`, `அனுதாபந்தான்`, punctuation, spacing and colloquial forms are preserved.
+- No unresolved source cluster remains. No global replacement or grammar-driven repair was used.
+
+## Page-boundary continuity
+
+- Opening physical fragment `வது` completes scan 111’s final `சிறிதா`, forming cross-page `சிறிதாவது`; no scan-111 text is moved forward.
+- This page ends with complete dialogue `“நீங்கள் மிகவும் நல்லவர்!”`; scan 113 begins a new reply.
+
+## Scan observations
+
+- Visible printed page number: **111**.
+- Forward historical-glyph check: **PASS**.
+
+<!-- மூல ஸ்கேன் பக்கம்: 112; அச்சுப் பக்கம்: 111 -->
