@@ -21,11 +21,12 @@
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **138 / 179**;
+- canonical page records: **143 / 179**;
 - Chapter 16 / 17 boundary: **scan 134 / printed 133**, centered `17`;
-- Chapter 17 transcribed through **scan 138 / printed 137**;
-- historical-glyph coverage: **PASS scans 1–138**;
-- next forward iteration: **scans 139–143**;
+- Chapter 18 opening: **scan 142 / printed 141**, centered `18`;
+- Chapter 18 transcribed through **scan 143 / printed 142**;
+- historical-glyph coverage: **PASS scans 1–143**;
+- next forward iteration: **scans 144–148**;
 - batch size: **5 scans**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
@@ -43,7 +44,7 @@ Source pixels decide identity. Grammar is only a locator. Preserve source spelli
 
 Five-page batches use a bounded pipeline: transcribe all five full pages first, run one batch-level 13-family sweep, allow at most one targeted enlargement for a genuinely unclear token, record a source hold if still unresolved, then update page records and status documents together in one atomic commit. Prior PASS pages are not reopened without new direct source evidence.
 
-Recent durable boundaries include `அழகப்ப` + `னுடைய` = `அழகப்பனுடைய`, `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`, `வருத்தத்` + `தோடு` = `வருத்தத்தோடு`, and the scan 137 / 138 open quotation `“இதோ,` → `கொண்டுவருகிறேன்”`. Scan 138 ends literal `‘மளமள’`.
+Recent durable boundaries include scan 138 / 139 `‘மளமள’` → `வென்று...`, scan 139 / 140 `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`, scan 140 / 141 `நயினா` → `எதுவும் பேசவில்லை.`, and scan 142 / 143 `வாசகங்கள்` → `இருந்தன.`. Source-specific forms newly preserved include `வழங்கினை`, `சூறாவளி`, `காணத் வேண்டிப்போலவே`, `கைகாரியானாள்`, `நனைந்துபோன`, `அனைவருங்கூடி`, `விளக்கமுறைக்கவேண்டுமென்று`, and `எங்ஙனம்`.
 
 ## Completed works
 
@@ -55,4 +56,4 @@ Recent durable boundaries include `அழகப்ப` + `னுடைய` = `�
 
 ## Next activity
 
-Process **scans 139–143** as one bounded 5-page iteration. Establish scan 139 only from direct source evidence after scan 138's literal final `‘மளமள’`. Do not start assembled Tamil or English.
+Process **scans 144–148** as one bounded 5-page iteration. Establish scan 144 only from direct source evidence after scan 143's complete final sentence. Do not start assembled Tamil or English.

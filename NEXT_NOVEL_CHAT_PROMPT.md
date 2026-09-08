@@ -8,12 +8,12 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 ## Current durable state
 
-- canonical records: **138 / 179**;
-- Chapter 16 opens: **scan 127 / printed 126**, centered `16`;
+- canonical records: **143 / 179**;
 - Chapter 16 / 17 boundary: **scan 134 / printed 133**, centered `17`;
-- Chapter 17 transcribed through **scan 138 / printed 137**;
-- historical-glyph coverage: **PASS scans 1–138**;
-- next iteration: **scans 139–143**;
+- Chapter 18 opens: **scan 142 / printed 141**, centered `18`;
+- Chapter 18 transcribed through **scan 143 / printed 142**;
+- historical-glyph coverage: **PASS scans 1–143**;
+- next iteration: **scans 144–148**;
 - batch size: **5 scans**;
 - assembled Tamil / English: **not started / blocked**.
 
@@ -33,19 +33,18 @@ Check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / �
 
 ## Recent source boundaries to preserve
 
-- scan 129 / 130: `அழகப்ப` + `னுடைய` = `அழகப்பனுடைய`;
-- scan 130 bottom `9` printer/signature mark;
-- scan 131 / 132: `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`;
-- scan 134: Chapter 16 / 17 boundary, centered `17`;
-- scan 134 / 135: `நயினாவின்` → `கேள்வி`;
-- scan 135 / 136: `வருத்தத்` + `தோடு` = `வருத்தத்தோடு`;
-- scan 137 / 138: open quotation `“இதோ,` → `கொண்டுவருகிறேன்”`;
-- scan 138 ends literal `‘மளமள’`; establish scan 139 only from direct source.
+- scan 137 / 138: `“இதோ,` → `கொண்டுவருகிறேன்”`;
+- scan 138 / 139: `‘மளமள’` → `வென்று...`;
+- scan 139 / 140: `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`;
+- scan 140 / 141: `நயினா` → `எதுவும் பேசவில்லை.`;
+- scan 142: Chapter 18 opening, centered `18`;
+- scan 142 / 143: `வாசகங்கள்` → `இருந்தன.`;
+- scan 143 ends a complete sentence; establish scan 144 only from direct source.
 
 ## Source-specific recent forms
 
-Preserve confirmed source forms such as `முழுசம்`, `எழுதியிட்டான்`, `பார்த்து.`, `செளக்கியந்தானே!`, `சொல்லுகிறாளாக்கும்`, `பதிலக் கேள்வி`, `சிக்கலங்கிப்போயிருக்கிறோம்`, and `வந்துவிட்டுமா?`.
+Preserve confirmed source forms such as `வழங்கினை`, `சூறாவளி`, `காணத் வேண்டிப்போலவே`, `கைகாரியானாள்`, `நினைக்காதீர்கள்`, `நனைந்துபோன`, `அனைவருங்கூடி`, `விளக்கமுறைக்கவேண்டுமென்று`, `ஆனந்திமீது`, and `எங்ஙனம்`.
 
 ## Exact next activity
 
-Process **scans 139–143** in one bounded 5-page iteration. Do not start assembled Tamil or English.
+Process **scans 144–148** in one bounded 5-page iteration. Do not start assembled Tamil or English.

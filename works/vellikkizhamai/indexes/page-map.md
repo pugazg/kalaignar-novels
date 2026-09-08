@@ -6,10 +6,10 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count: **179**;
 - mapping coverage: **179 / 179 represented by ranges and exceptions below**;
-- canonical page records: **138 / 179**;
-- body transcription: **through scan 138 / printed 137**;
-- historical-glyph coverage: **PASS scans 1–138**;
-- next forward processing: **scans 139–143**, 5 scans per iteration;
+- canonical page records: **143 / 179**;
+- body transcription: **through scan 143 / printed 142**;
+- historical-glyph coverage: **PASS scans 1–143**;
+- next forward processing: **scans 144–148**, 5 scans per iteration;
 - printed-page values are never inferred where the source has not been directly confirmed.
 
 Detailed lexical/glyph evidence remains in each canonical page record and `../audit.md`.
@@ -22,8 +22,8 @@ Detailed lexical/glyph evidence remains in each canonical page record and `../au
 - scan **9** — body page with no visible printed number recorded;
 - scans **10–65** — printed **9–64**;
 - scan **66** — source visibly prints only **`5`**; never infer `65`;
-- scans **67–138** — printed **66–137**;
-- scans **139–175** — pending direct source confirmation;
+- scans **67–143** — printed **66–142**;
+- scans **144–175** — pending direct source confirmation;
 - scan **176** — printed **175**, directly confirmed;
 - scans **177–178** — pending direct source confirmation;
 - scan **179** — printed **178**, final narrative page plus illustration.
@@ -46,7 +46,8 @@ Detailed lexical/glyph evidence remains in each canonical page record and `../au
 - scan 115 — Chapter 13 / 14 boundary, centered `14`;
 - scan 120 — Chapter 14 / 15 boundary, centered `15`;
 - scan 127 — Chapter 16 opening, centered `16`;
-- scan 134 — Chapter 16 / 17 boundary, centered `17`.
+- scan 134 — Chapter 16 / 17 boundary, centered `17`;
+- scan 142 — Chapter 18 opening, centered `18`.
 
 ## Historical-glyph rule
 
@@ -75,31 +76,34 @@ Grammar is only a locator. Character identity comes from source pixels and same-
 - scan 134 / 135 — `நயினாவின்` → `கேள்வி`;
 - scan 135 / 136 — `வருத்தத்` + `தோடு` = `வருத்தத்தோடு`;
 - scan 137 / 138 — `“இதோ,` → `கொண்டுவருகிறேன்”`;
-- scan 138 ends literal `‘மளமள’`.
+- scan 138 / 139 — `‘மளமள’` → `வென்று...`;
+- scan 139 / 140 — `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`;
+- scan 140 / 141 — `நயினா` → `எதுவும் பேசவில்லை.`;
+- scan 142 / 143 — `வாசகங்கள்` → `இருந்தன.`.
 
-## Current canonical end — scans 129–138
+## Current canonical end — scans 134–143
 
 | Scan | Printed | Section | Status | Durable note |
 |---:|---:|---|---|---|
-| 129 | 128 | Chapter 16 | verified | begins `அவளை`; ends `அழகப்ப` |
-| 130 | 129 | Chapter 16 | verified | begins `னுடைய` → `அழகப்பனுடைய`; `நயினா`; bottom `9` |
-| 131 | 130 | Chapter 16 | verified | `நயினாமுகம்மது`, `நயினாவின்`; ends `பின்னிக்` |
-| 132 | 131 | Chapter 16 | verified | begins `கொண்டன;` → `பின்னிக்கொண்டன`; `நயினாவிடமிருந்து` |
-| 133 | 132 | Chapter 16 | verified | `நயினா முகம்மது`, `நயினாவுக்கு`, `நகை நட்டுக்களை` |
-| 134 | 133 | Chapter 16 / 17 | verified | centered `17`; `முழுசம்`, `எழுதியிட்டான்`; ends `நயினாவின்` |
+| 134 | 133 | Chapter 16 / 17 | verified | centered `17`; ends `நயினாவின்` |
 | 135 | 134 | Chapter 17 | verified | begins `கேள்வி`; ends `வருத்தத்` |
 | 136 | 135 | Chapter 17 | verified | begins `தோடு` → `வருத்தத்தோடு`; `பதிலக் கேள்வி` |
-| 137 | 136 | Chapter 17 | verified | `சிக்கலங்கிப்போயிருக்கிறோம்`; ends `“இதோ,` |
-| 138 | 137 | Chapter 17 | verified | begins `கொண்டுவருகிறேன்”`; `வந்துவிட்டுமா?`; ends `‘மளமள’` |
+| 137 | 136 | Chapter 17 | verified | ends open `“இதோ,` |
+| 138 | 137 | Chapter 17 | verified | begins `கொண்டுவருகிறேன்”`; ends `‘மளமள’` |
+| 139 | 138 | Chapter 17 | verified | begins `வென்று`; ends `புயலால் தாக்குண்டவன்போல` |
+| 140 | 139 | Chapter 17 | verified | begins `ஆனேன் அன்று!`; `வழங்கினை`, `சூறாவளி`; ends `நயினா` |
+| 141 | 140 | Chapter 17 | verified | begins `எதுவும் பேசவில்லை.`; `காணத் வேண்டிப்போலவே`; ends complete sentence |
+| 142 | 141 | Chapter 18 opening | verified | centered `18`; `கைகாரியானாள்`, `நனைந்துபோன`; ends `வாசகங்கள்` |
+| 143 | 142 | Chapter 18 | verified | begins `இருந்தன.`; `அனைவருங்கூடி`, `எங்ஙனம்`; ends complete sentence |
 
 ## Remaining scan-status ranges
 
-- scans **1–138** — canonical / verified;
-- scans **139–175** — not started;
+- scans **1–143** — canonical / verified;
+- scans **144–175** — not started;
 - scan **176** — not started; printed 175 directly confirmed;
 - scans **177–178** — not started;
 - scan **179** — not started; printed 178, final page.
 
 ## Exact next activity
 
-Process **scans 139–143** as the next bounded 5-scan iteration. Establish scan 139 only from direct source evidence after scan 138's literal final `‘மளமள’`. Do not start assembled Tamil or English.
+Process **scans 144–148** as the next bounded 5-scan iteration. Establish scan 144 only from direct source evidence. Do not start assembled Tamil or English.

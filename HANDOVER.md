@@ -18,13 +18,14 @@ Fetch live `main` first and preserve newer durable work.
 ## Current durable state
 
 - manifest **179 / 179**;
-- canonical records **138 / 179**;
+- canonical records **143 / 179**;
 - Chapter 14 / 15 boundary: **scan 120 / printed 119**, centered `15`;
 - Chapter 16 opens: **scan 127 / printed 126**, centered `16`;
 - Chapter 16 / 17 boundary: **scan 134 / printed 133**, centered `17`;
-- Chapter 17 transcribed through **scan 138 / printed 137**;
-- historical-glyph coverage: **PASS scans 1–138**;
-- next forward iteration: **scans 139–143**;
+- Chapter 18 opens: **scan 142 / printed 141**, centered `18`;
+- Chapter 18 transcribed through **scan 143 / printed 142**;
+- historical-glyph coverage: **PASS scans 1–143**;
+- next forward iteration: **scans 144–148**;
 - batch size: **5 scans**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
@@ -53,14 +54,16 @@ For each 5-scan batch:
 
 ## Recent durable results
 
-- scan 129 / 130: physical `அழகப்ப` + `னுடைய` = `அழகப்பனுடைய`;
-- scan 130 bottom `9` printer/signature mark;
-- scan 131 / 132: physical `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`;
-- scan 134: mixed Chapter 16 / 17 boundary, centered `17`; preserve `முழுசம்`, `எழுதியிட்டான்`; ends `நயினாவின்`;
-- scan 135: begins `கேள்வி`; preserve `பார்த்து.`, `செளக்கியந்தானே!`, `இப்படி யென்றால்`; ends `வருத்தத்`;
-- scan 136: begins `தோடு`, completing `வருத்தத்தோடு`; preserve `சொல்லுகிறாளாக்கும்`, `பதிலக் கேள்வி`;
-- scan 137: preserve `சிக்கலங்கிப்போயிருக்கிறோம்`; ends open quote `“இதோ,`;
-- scan 138: begins `கொண்டுவருகிறேன்”`; preserve `வந்துவிட்டுமா?`; ends literal `‘மளமள’`.
+- scan 134: Chapter 16 / 17 boundary, centered `17`; ends `நயினாவின்`;
+- scan 135: begins `கேள்வி`; ends `வருத்தத்`;
+- scan 136: begins `தோடு`, completing `வருத்தத்தோடு`;
+- scan 137: ends open quote `“இதோ,`;
+- scan 138: begins `கொண்டுவருகிறேன்”`; ends literal `‘மளமள’`;
+- scan 139: begins `வென்று`, continuing `‘மளமள’`; preserve `அவளையும் இணங்கவைத்து`; ends `புயலால் தாக்குண்டவன்போல`;
+- scan 140: begins `ஆனேன் அன்று!`; preserve `வழங்கினை`, `சூறாவளி`, `நானுந்தான்`; ends `நயினா`;
+- scan 141: begins `எதுவும் பேசவில்லை.`; preserve `காணத் வேண்டிப்போலவே`, `சிந்தாமணியோட`, `யொருவர்`;
+- scan 142: Chapter 18 opening, centered `18`; preserve `கைகாரியானாள்`, `நினைக்காதீர்கள்`, `நனைந்துபோன`; ends `வாசகங்கள்`;
+- scan 143: begins `இருந்தன.`; preserve `அனைவருங்கூடி`, `விளக்கமுறைக்கவேண்டுமென்று`, `ஆனந்திமீது`, `எங்ஙனம்`; ends complete sentence.
 
 ## Structural/source decisions to preserve
 
@@ -80,14 +83,18 @@ For each 5-scan batch:
 - scan 134 / 135 `நயினாவின்` → `கேள்வி`;
 - scan 135 / 136 `வருத்தத்` + `தோடு` = `வருத்தத்தோடு`;
 - scan 137 / 138 `“இதோ,` → `கொண்டுவருகிறேன்”`;
-- scan 138 ends `‘மளமள’`; continue only from direct scan-139 evidence.
+- scan 138 / 139 `‘மளமள’` → `வென்று...`;
+- scan 139 / 140 `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`;
+- scan 140 / 141 `நயினா` → `எதுவும் பேசவில்லை.`;
+- scan 142 / 143 `வாசகங்கள்` → `இருந்தன.`;
+- scan 143 ends complete sentence.
 
 ## Exact next activity
 
 1. re-fetch live `main`;
 2. resolve controlling source;
-3. process **scans 139–143** in one bounded 5-page iteration;
-4. establish scan 139 only from direct source pixels after scan 138's literal `‘மளமள’`;
+3. process **scans 144–148** in one bounded 5-page iteration;
+4. establish scan 144 only from direct source pixels;
 5. run one batch glyph sweep and bounded ambiguity handling;
 6. synchronize page records and status documents and commit atomically.
 

@@ -11,13 +11,14 @@
 - actual PDF scan count: **179**; size **251,126,214 bytes**;
 - SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`;
 - page manifest: **179 / 179**;
-- canonical page records: **138 / 179**;
+- canonical page records: **143 / 179**;
 - Chapter 14 / 15 boundary: **scan 120 / printed 119**, centered `15`;
 - Chapter 16 opening: **scan 127 / printed 126**, centered `16`;
 - Chapter 16 / 17 boundary: **scan 134 / printed 133**, centered `17`;
-- Chapter 17 transcribed through **scan 138 / printed 137**;
-- historical-glyph coverage: **PASS scans 1–138**;
-- next forward batch: **scans 139–143**;
+- Chapter 18 opening: **scan 142 / printed 141**, centered `18`;
+- Chapter 18 transcribed through **scan 143 / printed 142**;
+- historical-glyph coverage: **PASS scans 1–143**;
+- next forward batch: **scans 144–148**;
 - batch size: **5 scans per iteration**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
@@ -45,16 +46,16 @@ Use the bounded 5-page workflow:
 
 ## Recent forward results
 
-- **scan 129 / printed 128:** PASS; begins `அவளை`; ends physical `அழகப்ப`;
-- **scan 130 / printed 129:** PASS; begins `னுடைய` → `அழகப்பனுடைய`; `நயினா`; bottom `9` printer/signature mark;
-- **scan 131 / printed 130:** PASS; `நயினாமுகம்மது`, `நயினாவின்`; ends `பின்னிக்`;
-- **scan 132 / printed 131:** PASS; begins `கொண்டன;` → `பின்னிக்கொண்டன`; `நயினாவிடமிருந்து`;
-- **scan 133 / printed 132:** PASS; `நயினா முகம்மது`, `நயினாவுக்கு`, `நகை நட்டுக்களை`;
-- **scan 134 / printed 133:** PASS; mixed Chapter 16 / 17 boundary, centered `17`; preserve `முழுசம்`, `எழுதியிட்டான்`; ends physical `நயினாவின்`;
-- **scan 135 / printed 134:** PASS; begins `கேள்வி`; preserve `பார்த்து.`, `செளக்கியந்தானே!`, `இப்படி யென்றால்`; ends physical `வருத்தத்`;
-- **scan 136 / printed 135:** PASS; begins `தோடு` → `வருத்தத்தோடு`; preserve `சொல்லுகிறாளாக்கும்`, `பதிலக் கேள்வி`;
-- **scan 137 / printed 136:** PASS; preserve `சிக்கலங்கிப்போயிருக்கிறோம்`; ends inside open quotation `“இதோ,`;
-- **scan 138 / printed 137:** PASS; begins `கொண்டுவருகிறேன்”`; preserve `வந்துவிட்டுமா?`; ends literal `‘மளமள’`.
+- **scan 134 / printed 133:** PASS; mixed Chapter 16 / 17 boundary, centered `17`; ends physical `நயினாவின்`;
+- **scan 135 / printed 134:** PASS; begins `கேள்வி`; ends physical `வருத்தத்`;
+- **scan 136 / printed 135:** PASS; begins `தோடு` → `வருத்தத்தோடு`; preserve `பதிலக் கேள்வி`;
+- **scan 137 / printed 136:** PASS; preserve `சிக்கலங்கிப்போயிருக்கிறோம்`; ends open quotation `“இதோ,`;
+- **scan 138 / printed 137:** PASS; begins `கொண்டுவருகிறேன்”`; preserve `வந்துவிட்டுமா?`; ends literal `‘மளமள’`;
+- **scan 139 / printed 138:** PASS; begins `வென்று` after scan 138 `‘மளமள’`; preserve `அவளையும் இணங்கவைத்து`; ends `புயலால் தாக்குண்டவன்போல`;
+- **scan 140 / printed 139:** PASS; begins `ஆனேன் அன்று!`; preserve `வழங்கினை`, `சூறாவளி`, `நானுந்தான்`; ends physical `நயினா`;
+- **scan 141 / printed 140:** PASS; begins `எதுவும் பேசவில்லை.`; preserve `காணத் வேண்டிப்போலவே`, `சிந்தாமணியோட`, `யொருவர்`;
+- **scan 142 / printed 141:** PASS; Chapter 18 opening, centered `18`; preserve `கைகாரியானாள்`, `நினைக்காதீர்கள்`, `நனைந்துபோன`; ends `வாசகங்கள்`;
+- **scan 143 / printed 142:** PASS; begins `இருந்தன.`; preserve `அனைவருங்கூடி`, `விளக்கமுறைக்கவேண்டுமென்று`, `ஆனந்திமீது`, `எங்ஙனம்`; ends complete sentence.
 
 ## Durable physical/source boundaries
 
@@ -65,15 +66,18 @@ Use the bounded 5-page workflow:
 - scan 134 / 135: `நயினாவின்` → `கேள்வி`;
 - scan 135 / 136: `வருத்தத்` + `தோடு` = `வருத்தத்தோடு`;
 - scan 137 / 138: `“இதோ,` → `கொண்டுவருகிறேன்”`;
-- scan 138 ends literal `‘மளமள’`; do not complete from inference.
+- scan 138 / 139: `‘மளமள’` → `வென்று...`;
+- scan 139 / 140: `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`;
+- scan 140 / 141: `நயினா` → `எதுவும் பேசவில்லை.`;
+- scan 142 / 143: `வாசகங்கள்` → `இருந்தன.`.
 
 ## Key records
 
 - [`metadata/source.md`](metadata/source.md)
 - [`indexes/page-map.md`](indexes/page-map.md)
 - [`audit.md`](audit.md)
-- canonical pages through [`pages/0138-vellikkizhamai-135.md`](pages/0138-vellikkizhamai-135.md)
+- canonical pages through [`pages/0143-vellikkizhamai-140.md`](pages/0143-vellikkizhamai-140.md)
 
 ## Exact next activity
 
-Process **scans 139–143** as one bounded 5-page forward iteration. Establish scan 139 only from direct source evidence, beginning from scan 138's literal final `‘மளமள’`. Do not start assembled Tamil or English.
+Process **scans 144–148** as one bounded 5-page forward iteration. Establish scan 144 only from direct source evidence. Do not start assembled Tamil or English.
