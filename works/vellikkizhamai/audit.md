@@ -6,14 +6,15 @@
 |---|---|
 | Source identity / checksum / page count | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **111 / 179** |
-| Body transcription | **through scan 111** |
-| Printed-page map | **directly confirmed through scan 111; scan 66 visibly prints only `5`** |
-| Chapter map | **direct through Chapter 13 continuation at scan 111** |
-| Existing canonical historical-glyph coverage | **PASS scans 1–111** |
+| Canonical page records | **112 / 179** |
+| Body transcription | **through scan 112** |
+| Printed-page map | **directly confirmed through scan 112; scan 66 visibly prints only `5`** |
+| Chapter map | **direct through Chapter 13 continuation at scan 112** |
+| Existing canonical historical-glyph coverage | **PASS scans 1–112** |
 | Retrospective historical-glyph re-audit | **PASS scans 1–101 / COMPLETE** |
 | Corrective historical-glyph re-audit | **PASS scans 102–111** |
-| Forward transcription | **unblocked; next at scan 112** |
+| Prospective forward historical-glyph check | **PASS scan 112** |
+| Forward transcription | **resumed; next at scan 113** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -239,7 +240,21 @@ Representative direct source checks: `காட்டுகிறார்கள
 
 ## Retrospective closure
 
-Retrospective scans **1–101 are COMPLETE / PASS**. Together with corrective scans **102–111**, every existing canonical scan **1–111** has direct source-pixel historical-glyph coverage. The historical-glyph rule remains mandatory prospectively for scans 112–179; this closure does not waive per-scan source checking on new transcription.
+Retrospective scans **1–101 are COMPLETE / PASS**. Together with corrective scans **102–111**, every canonical scan **1–111** had direct source-pixel historical-glyph coverage at closure. The historical-glyph rule remains mandatory prospectively for scans 112–179; this closure does not waive per-scan source checking on new transcription.
+
+## Forward canonical processing after closure
+
+### Scan 112 / printed 111
+
+**VERIFIED / historical-glyph PASS.**
+
+- Physical opening `வது` completes scan 111’s final `சிறிதா`, forming cross-page `சிறிதாவது`.
+- Representative mandatory-family confirmations: `பெண்ணையாவது` / `சிந்தாமணியை` (`ணை`), `பிள்ளை` / `களைப்பாயிருக்கும்` (`ளை`), `பாலைவனமாக்குவது` (`லை`), `மனைவிதான்` (`னை`), recurring `நயினா` (`னா`).
+- `கருதினன்` was independently source-pixel checked against the known missing-`ஆ` failure mode and retained; it is not `கருதினான்`.
+- Source-specific `திருமணந்தான்`, `மனத்திலேயிருந்த`, and `அனுதாபந்தான்` are preserved.
+- No unresolved source cluster remains; no global replacement or grammar-driven repair was used.
+
+Existing canonical historical-glyph coverage is therefore **PASS scans 1–112**.
 
 ## Structural results to preserve
 
@@ -258,15 +273,15 @@ Retrospective scans **1–101 are COMPLETE / PASS**. Together with corrective sc
 - scan 99: mixed Chapter 11 / 12 with centered `12`;
 - scan 101: ends `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி`, continued by scan 102;
 - scan 107: mixed Chapter 12 / 13 with centered `13`;
-- scan 111 ends physical `சிறிதா`; scan 112 begins source-visible `வது`.
+- scan 111/112: physical split `சிறிதா` + `வது` preserved as cross-page `சிறிதாவது`.
 
 ## Unresolved project items
 
-- scans **112–179** forward canonical processing;
+- scans **113–179** forward canonical processing;
 - final complete Tamil source audit;
 - assembled Tamil;
 - English after Tamil gate.
 
 ## Exact next activity
 
-Resume forward canonical processing at **scan 112**. Preserve the existing scan-111/112 physical split (`சிறிதா` + source-visible `வது`) and apply the mandatory 13-family historical-glyph check directly from source pixels on every new scan. Do not start assembled Tamil or English.
+Continue forward canonical processing at **scan 113** and apply the mandatory 13-family historical-glyph check directly from source pixels before encoding. Do not start assembled Tamil or English.
