@@ -4,9 +4,7 @@
 
 ## மூலக் கொள்கை
 
-> **மூல ஸ்கேன் page/structure authority. புதையல் scan 280 onward lexical words user-supplied Gemini baseline-ல் இருந்து source-correct செய்யப்படாது; complete baseline omission இருந்தால் explicit user disposition தேவை.**
-
-Source PDF / split PDF / uploaded baseline files repository-யில் commit செய்யப்படாது.
+> **மூல ஸ்கேன் page/structure authority.** Source PDF / split PDF / uploaded baseline files repository-யில் commit செய்யப்படாது.
 
 ## Project continuation documents
 
@@ -25,81 +23,47 @@ Source PDF / split PDF / uploaded baseline files repository-யில் commit 
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **113 / 179**;
-- Chapter 12/13 boundary: **scan 107 / printed 106**, centered `13`;
-- Chapter 13 transcribed through **scan 113 / printed 112**;
-- historical-glyph coverage on existing canonical scans: **PASS scans 1–113**;
+- canonical page records: **118 / 179**;
+- Chapter 12 / 13 boundary: **scan 107 / printed 106**, centered `13`;
+- Chapter 13 / 14 boundary: **scan 115 / printed 114**, centered `14`;
+- Chapter 14 transcribed through **scan 118 / printed 117**;
+- historical-glyph coverage on existing canonical scans: **PASS scans 1–118**;
 - retrospective historical-glyph re-audit: **PASS scans 1–101 / COMPLETE**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- prospective forward historical-glyph check: **PASS scans 112–113**;
-- forward transcription: **resumed; next at scan 114**;
+- prospective forward historical-glyph check: **PASS scans 112–118**;
+- forward transcription: **next 5-page iteration scans 119–123**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**.
 
-### Retrospective glyph audit — durable summary
+### Historical Tamil glyph handling
 
-All retrospective scans explicitly test the mandatory old-type families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` from enlarged/native source pixels. Grammar is only a locator; source wording is not normalized and no global replacement is permitted.
+Use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md). Mandatory family set on every scan:
 
-- scans **1–35**: PASS. Durable source decisions include scan 4 `பெருகிவிடுகிறது`; scan 17 `வேலையில்ல`; scan 19 `வந்துவிட்டானு`; scan 21 `வரணும்`; scan 23 `வயதினள்`; scan 27 `காணோமே` (`ணோ`); scan 30 `பெண்ணொருத்தி` (`ணொ`); scan 31 `அவ்விதமானாள்`; scan 33 `நட்டுவனார்`; recurring **`நயினா`**;
-- scans **36–40**: PASS after scan 38 `கண்ணின் மிகுதியால்` → **`களைப்பின் மிகுதியால்`** and scan 40 `எண்ணையாவது` → **`என்னையாவது`**, `அவர்களோ` → **`அவர்களை`**, `கைவற்றுப்போனேன்` → **`கைவற்றுப்போனான்`**;
-- scans **41–45**: PASS; scan 42 ordinary source corrections `பொறுத்துச்` → **`பொருத்தம்`**, `சுதன` → **`சனதன`**; scan 45 remains the mixed Chapter 4 / 5 boundary with centered `5`;
-- scans **46–50**: PASS; source corrections include scan 46 `வேஷம் கலைந்துவிட்டதம்மா`, `தப்பி விட்டோம்`, `தடை போட்டார்களே`, `நெருப்பு மொழிகளும்`, `அசைவற்றுப் போனார்`; scan 47 `மானத்தைப்பற்றியே கவலைப்படாத`, `அளிப்பதாக`; scan 48 `அகரமம்`; scan 49 `மாசமறுவற்ற`; scan 50 no correction;
-- scans **51–55**: PASS; scan 52 `குபு குபு`, `அவங்களுக்கே தான்`, `பாலையூர்`, `பாலையூர் மருத்துவ மனையில்`; scan 54 `விரும்பினன்`, `இந்த மன தத்துவத்தை`; scan 55 `மருத்துவ மனையிலிருந்து`; scans 51 and 53 no correction;
-- scans **56–60**: PASS; scan 56 `எடுத்துக் காட்டும்`, `பொறுத்துக் கொள்ள`; scan 57 `நிலநாட்டும்`; scan 58 `மருத்துவ மனையில்`, `இந்த சொல்மட்டும்`; scan 59 no correction; scan 60 `அருகிலே இருந்தது`;
-- scans **61–65**: PASS with no canonical correction; preserve genuine `பொய்தானு`, `பேசினன்`, `நோக்கினன்`;
-- scans **66–70**: PASS; scan 66 visibly prints only page `5`; scan 67 `பிறர் கெடுவதையே`; scan 68 quoted `பாலையூர் மருத்துவ மனையில்`, `பணி புரியலாமென்று`, `தொலையமாட்டார்களா என்றும்`; scan 69 `விடக் கூடாதம்மா`; scan 70 `இருப்பது கூட`, `நயினாவிடம் கூட சொல்லிவிடலாமே`, `அவன் சற்று அழுத்தந்திருத்தமாகவே`;
-- scans **71–75**: PASS with no canonical correction; scan 75 mixed Chapter 8 / 9 with centered `9`;
-- scans **76–80**: PASS; scans 76–78 no correction; scan 79 `தனியிலே` → **`தலையிலே`**; scan 80 `கற்பமாக` → **`கர்ப்பமாக`**;
-- scans **81–85**: PASS after scan 81 `கண்ணி கழியாத` → **`கன்னி கழியாத`**; scan 82 `பின்னர்ப் பிறிட்டு` → **`பின்னர் பீறிட்டு`**; scan 83 `திருமணம்?` → **`திருமணமா?`** (`ணா`); scan 84 `துணியமுடியுமா?` → **`துணிய முடியுமா?`**; scan 85 `மருத்துவ மனைின்` → **`மருத்துவ மனையின்`** (`னை`). Scan 82 bottom `6` remains a printer/signature mark; scan 85 mixed Chapter 9 / 10 with centered `10`;
-- scans **86–90**: **PASS / 5 OF 5 COMPLETE.** Scan 86 corrected `அனேகமாக` → **`அநேகமாக`**, `முடிபுமுற்றுவிட்டது` → **`முடிவு முற்றுவிட்டது`**, and `பூர்த்திசெய்து` → **`பூர்த்தி செய்து`**. Scan 87 corrected `கேட்டதுபோல்` → **`கேட்டதுபோல`** and historical-family `மாறுக` → **`மாறாக`** (`றா`). Scans 88–90 required no canonical correction. Scan 88 `நானு` remains source-exact; scan 89 ends physical `மறுத்துவிட்`; scan 90 begins `டால்`; scan 90 `மாறினள்` and `கத்தினள்` were source-pixel rechecked and retained;
-- scans **91–95**: **PASS / 5 OF 5 COMPLETE.** Scan 91 corrected historical-family `கருதினலும்` → **`கருதினாலும்`** (`னா`) and source spacing `உதவிபுரிவதுபோல` → **`உதவி புரிவதுபோல`**. Scans 92–95 required no canonical correction. Scan 92 preserves centered Chapter `11` and genuine `நீட்டினன்`, `துரிதப்படுத்தினன்`, `அமர்த்தினன்`; scan 93 retains `பொத்தினன்`; scan 94 retains source `தொடங்கினார்` and `புறக்கப்போகிறேன்`; scan 95 retains genuine `தொடங்கினள்`, source `பயந்தோடிக்`, and `முக்கிய வாசிக் கதை`;
-- scans **96–100**: **PASS / 5 OF 5 COMPLETE.** Scans 96, 97 and 100 required no canonical correction. Scan 98 corrected historical-family `நன்றுக` → **`நன்றாக`** (`றா`). Scan 99 corrected both `நன்றுகத்` occurrences → **`நன்றாகத்`** (`றா`). Scan 98 bottom standalone `7` remains a printer/signature mark; scan 99 remains the mixed Chapter 11 / 12 boundary with centered `12`;
-- scan **101**: **PASS / RETROSPECTIVE CLOSURE.** No mandatory historical-family substitution was required. Ordinary source-spacing correction `கண்விழித்துப்` → **`கண் விழித்துப்`**. Source-specific `வேலைகூடத்`, `முகக் கண்களை`, `சீசாமீது`, `கொப்பளித்துக்கிளம்பி`, and `நாழிகைக்குப்` remain exact.
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Corrective scans **102–111** remain controlling examples for the known failure mode, including `நன்றாகக்`, `தவறாக`, `என்றாள்`, missing-`ஆ` corrections, `சொன்னா`, and `பெண்ணா?`.
+Identify character identity from source pixels first. Grammar is only a locator. Preserve source spelling, grammar, punctuation, spacing and colloquial forms. Never global-replace.
 
-### Forward transcription after historical-glyph closure
+Durable counterexamples that must not be grammar-normalized include `வயதினள்`, `பருவத்தினள்`, `மாறினள்`, `கத்தினள்`, `நீட்டினன்`, `அமர்த்தினன்`, `பொத்தினன்`, `தொடங்கினள்`, `கருதினன்`, and `கூறினன்`. Recurring character name is **`நயினா`**, not `நயினு`.
 
-- scan **112 / printed 111**: **VERIFIED / historical-glyph PASS.** Physical opening `வது` completes scan 111 `சிறிதா`, forming `சிறிதாவது`. Representative confirmed families include `பெண்ணையாவது` / `சிந்தாமணியை` (`ணை`), `பிள்ளை` / `களைப்பாயிருக்கும்` (`ளை`), `பாலைவனமாக்குவது` (`லை`), `மனைவிதான்` (`னை`), and `நயினா` (`னா`). Source `கருதினன்` was independently checked and retained rather than expanded to `கருதினான்`; `திருமணந்தான்`, `மனத்திலேயிருந்த`, and `அனுதாபந்தான்` remain source-exact.
-- scan **113 / printed 112**: **VERIFIED / historical-glyph PASS.** Representative checks include `உன்னை` / `என்னை` / `எத்தனையோ` / `தன்னையறியாமல்` (`னை`), `கண்களைத்` (`ளை`), `விரும்பவில்லை` / `தெரியவில்லை` (`லை`), and `நயினா` (`னா`). Source `கூறினன்` was independently checked and retained; `பிடிகை`, `கூளம்`, `தவங்கிடந்து`, and `அவையடக்கம்போலவே` remain source-exact. Final `ஆறுதல் கூறுவதற்கு ஒருவர் அருகே இருக்கும்போது` continues on scan 114 with `பாசமும் பற்றும்...`.
+### Recent forward results
 
-### Durable structural decisions
-
-- scan 33 — mixed Chapter 3 / 4, centered `4`;
-- scan 45 — mixed Chapter 4 / 5, centered `5`;
-- scan 52 — Chapter 6 opening, centered `6`;
-- scan 59 — mixed Chapter 6 / 7, centered `7`;
-- scan 66 — visible printed page only `5`; never infer `65`;
-- scan 68 — mixed Chapter 7 / 8, centered `8`;
-- scan 75 — mixed Chapter 8 / 9, centered `9`;
-- scan 82 — bottom standalone `6` is printer/signature mark;
-- scan 85 — mixed Chapter 9 / 10, centered `10`;
-- scan 89 / 90 — physical split `மறுத்துவிட்` + `டால்` preserved;
-- scan 92 — mixed Chapter 10 / 11, centered `11`;
-- scan 98 — bottom standalone `7` is printer/signature mark;
-- scan 99 — mixed Chapter 11 / 12, centered `12`;
-- scan 101 — final retrospective scan; ends `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி` and continues physically on scan 102;
-- scan 107 — mixed Chapter 12 / 13, centered `13`;
-- scan 111 / 112 — physical split `சிறிதா` + `வது` preserved as cross-page `சிறிதாவது`;
-- scan 113 / 114 — physical sentence continues after `ஆறுதல் கூறுவதற்கு ஒருவர் அருகே இருக்கும்போது` with scan 114 `பாசமும் பற்றும்...`.
+- scan 112 / printed 111: PASS; physical `சிறிதா` + `வது` = `சிறிதாவது`; genuine `கருதினன்`;
+- scan 113 / printed 112: PASS; genuine `கூறினன்`; ends `ஆறுதல் கூறுவதற்கு ஒருவர் அருகே இருக்கும்போது`;
+- scan 114 / printed 113: PASS; continues `பாசமும் பற்றும்...`; source `அப்படித்தான் ஆவள்`, `கதறினள்`, `முனகினள்`, `அமராழ்`; bottom `8` printer/signature mark;
+- scan 115 / printed 114: PASS; mixed Chapter 13 / 14, centered `14`; source `சூடான`, `கண்டு பிடித்த`, `நமைச்சலுக்கு`;
+- scan 116 / printed 115: PASS; `தவறாகக்`, `சித்திரப் புள்`, `பூர்வ ஜென்ம பூஜாபலன்`, genuine `தொடங்கினள்`;
+- scan 117 / printed 116: PASS; genuine `கத்தினள்`; physical final source `உட்` retained without inventing a completion;
+- scan 118 / printed 117: PASS; begins `எவ்வளவோ முயன்றும் நடக்கவில்லை.`; final dialogue continues to scan 119 with source-visible `வருகிறேன்.........`.
 
 ## Completed works
 
-| நூல் | ஆசிரியர் | பதிப்பு | நிலை |
-|---|---|---|---|
-| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | மு. கருணாநிதி | எட்டாம் பதிப்பு, ஜூலை 1953 | **49/49 canonical pages complete; full Tamil source audit COMPLETE; assembled Tamil PASSED; English VERIFIED; release-ready with canonical-Tamil verification qualification** |
-| [புதையல்](works/pudhaiyal/README.md) | கலைஞர் மு. கருணாநிதி, எம். எல். ஏ. | மூன்றாம் பதிப்பு, செப்டம்பர் 1961 | **448 canonical / 446 verified-complete / 2 physical-loss `needs-review`; English VERIFIED; repository package RELEASE-READY WITH QUALIFICATION** |
-| [பலிபீடம் நோக்கி](works/balipeedam-nokki/README.md) | மு. கருணாநிதி | முதல் பதிப்பு, ஏப்ரல் 1947 | **Tamil 34/34 verified; assembled Tamil PASSED; English VERIFIED; archival package RELEASE-READY** |
-
-## Historical Tamil glyph handling
-
-Use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md). Identify the historical character identity from source pixels first, then encode that identity in modern Unicode. Minimum set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Never global-replace.
+| நூல் | நிலை |
+|---|---|
+| பெரிய இடத்துப் பெண் | **49/49 canonical complete; Tamil source audit complete; assembled Tamil PASSED; English VERIFIED; release-ready with qualification** |
+| புதையல் | **448 canonical / 446 complete / 2 physical-loss `needs-review`; English VERIFIED; release-ready with qualification** |
+| பலிபீடம் நோக்கி | **Tamil 34/34 verified; assembled Tamil PASSED; English VERIFIED; release-ready** |
 
 ## Next activity
 
-Continue forward canonical processing at **scan 114**, preserving the scan-113/114 physical continuation and mandatory historical-glyph checks on every newly transcribed scan. Do not start assembled Tamil or English.
-
-## Release-status meaning
-
-Repository release-readiness is an editorial/archival workflow status. It is not a determination of copyright, licensing, distribution or public-domain status.
+Process **scans 119–123** as one 5-page forward iteration. Preserve the scan 118 / 119 continuation and apply direct source-pixel historical-glyph checks on every scan. Do not start assembled Tamil or English.
