@@ -11,13 +11,13 @@
 - actual PDF scan count: **179**; size **251,126,214 bytes**;
 - SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`;
 - page manifest: **179 / 179**;
-- canonical page records: **128 / 179**;
+- canonical page records: **133 / 179**;
 - Chapter 12 / 13 boundary: **scan 107 / printed 106**, centered `13`;
 - Chapter 13 / 14 boundary: **scan 115 / printed 114**, centered `14`;
 - Chapter 14 / 15 boundary: **scan 120 / printed 119**, centered `15`;
-- Chapter 16 transcribed through **scan 128 / printed 127**;
-- historical-glyph coverage on existing canonical scans: **PASS scans 1–128 after expanded corrective re-audit plus forward source-pixel checks**;
-- next forward batch: **scans 129–133**;
+- Chapter 16 transcribed through **scan 133 / printed 132**;
+- historical-glyph coverage on existing canonical scans: **PASS scans 1–133 after expanded corrective re-audit plus forward source-pixel checks**;
+- next forward batch: **scans 134–138**;
 - batch size: **5 scans per iteration**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
@@ -33,7 +33,7 @@ Character identity is decided from enlarged/native source pixels first. Grammar 
 
 The earlier audit incorrectly labelled several old-type `னா` / `றா` forms as genuine `னன்` / `னள்` / `னு` counterexamples. Those claims are superseded by the corrected canonical records.
 
-Representative controlling corrections include `வந்துவிட்டானா`, `வயதினாள்`, `பருவத்தினாள்`, `விரும்பினான்`, `பொய்தானா?`, `பேசினான்`, `நோக்கினான்`, `மாறினாள்`, `கத்தினாள்`, `நீட்டினான்`, `அமர்த்தினான்`, `பொத்தினான்`, `தொடங்கினாள்`, `கருதினான்`, `கூறினான்`, and the forward forms confirmed on scans 119–128.
+Representative controlling corrections include `வந்துவிட்டானா`, `வயதினாள்`, `பருவத்தினாள்`, `விரும்பினான்`, `பொய்தானா?`, `பேசினான்`, `நோக்கினான்`, `மாறினாள்`, `கத்தினாள்`, `நீட்டினான்`, `அமர்த்தினான்`, `பொத்தினான்`, `தொடங்கினாள்`, `கருதினான்`, `கூறினான்`, and the forward forms confirmed on scans 119–133.
 
 This does **not** authorize grammar normalization. Independently confirmed source-specific forms remain unchanged, including `வேலையில்ல`, `வரணும்`, `நானு`, recurring `நயினா`, scan 114 `அப்படித்தான் ஆவள்`, scan 123 literal `கார்ந்து கொண்டாள்.`, and other source-specific clusters.
 
@@ -64,10 +64,25 @@ This does **not** authorize grammar normalization. Independently confirmed sourc
 **VERIFIED / historical-glyph PASS.** Preserve `நாலைந்து`, `திடுதிடுவென`, `கதவண்டை`, `ஏறினார்கள்`, `கோதைக்கு`, `படாடோபக்காரி`.
 
 ### Scan 127 / printed 126
-**VERIFIED / historical-glyph PASS. Chapter 16 opening.** Centered `16`; preserve `புறக்கூடு`, `புடைசூழ`, `நிலை குலறியது`; ends physical `வாழ்`.
+**VERIFIED / historical-glyph PASS. Chapter 16 opening.** Centered `16`; preserve `புறக்கூடு`, `புடைசூழ`, `நிலை வுலறியது`; ends physical `வாழ்`.
 
 ### Scan 128 / printed 127
-**VERIFIED / historical-glyph PASS.** Begins `விலே`, forming cross-page `வாழ்விலே`; preserve `அணுஅணுவாகக்`, `வலியப்போய்`, `அவனைச் சூழ்ந்தது`; ends `ஏறும்போது`.
+**VERIFIED / historical-glyph PASS.** Begins `விலே` forming cross-page `வாழ் விலே`; preserve `அணுஅணுவாகக்`, `வலியப்போய்`, `அவனைச் சூழ்ந்தது`; ends `ஏறும்போது`.
+
+### Scan 129 / printed 128
+**VERIFIED / historical-glyph PASS.** Begins `அவளை`, continuing scan 128 `ஏறும்போது`; preserve `விழலுக்கிறைத்த`, `மனிதப்புழு`, `கழிசடை`, `சிந்துவாற்றுச்`; ends literal `அழகப்ப`.
+
+### Scan 130 / printed 129
+**VERIFIED / historical-glyph PASS.** Begins `னுடைய`, completing `அழகப்பனுடைய`; same-edition historical identity confirms `நயினா`; preserve `மங்காகர`, `துயிலுற்றி யெழுந்தாள்`, `எண்ணங்களே முழங்கிக்கொண்டிருந்தன`; bottom `9` printer/signature mark; ends `காதலர்கள்`.
+
+### Scan 131 / printed 130
+**VERIFIED / historical-glyph PASS.** Continues `காதலர்கள் இருதயமென்னும்...`; same-edition `நயினாமுகம்மது`, `நயினாவின்`; preserve `ஒருக் கணம்`, `“! சே !!`; ends literal `பின்னிக்`.
+
+### Scan 132 / printed 131
+**VERIFIED / historical-glyph PASS.** Begins `கொண்டன;`, completing `பின்னிக்கொண்டன`; same-edition `நயினாவிடமிருந்து`; both `என்றால்` source-confirmed after historical `றா` comparison; preserve `நிரம்பப் படித்த`, `வேட்டாக்கர்`; ends complete sentence.
+
+### Scan 133 / printed 132
+**VERIFIED / historical-glyph PASS.** Preserve same-edition `நயினா முகம்மது`, `நயினாவுக்கு`, `நகை நட்டுக்களை`; preserve `தடு மாறியவாறு`, `கம்பி நீட்டி விட்டான்`, `நோட்டுக்கத்தையைக்`, `வெளியிற்சென்று`; ends complete sentence.
 
 ## Durable structural decisions
 
@@ -98,14 +113,19 @@ This does **not** authorize grammar normalization. Independently confirmed sourc
 - scan 127 Chapter 16 opening, centered `16`;
 - scan 127 / 128 physical split `வாழ்` + `விலே` = `வாழ்விலே`;
 - scan 128 ends physical `ஏறும்போது`; continue only from direct scan-129 evidence.
+- scan 128 / 129 direct continuation `ஏறும்போது` + `அவளை...`;
+- scan 129 / 130 physical split `அழகப்ப` + `னுடைய` = `அழகப்பனுடைய`;
+- scan 130 bottom `9` printer/signature mark;
+- scan 131 / 132 physical split `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`;
+- scan 133 ends a complete sentence; no scan-134 text inferred.
 
 ## Key records
 
 - [`metadata/source.md`](metadata/source.md)
 - [`indexes/page-map.md`](indexes/page-map.md)
 - [`audit.md`](audit.md)
-- canonical pages through [`pages/0128-vellikkizhamai-125.md`](pages/0128-vellikkizhamai-125.md)
+- canonical pages through [`pages/0133-vellikkizhamai-130.md`](pages/0133-vellikkizhamai-130.md)
 
 ## Exact next activity
 
-Process **scans 129–133** as one 5-page forward iteration. Use the bounded production workflow: transcribe all five full pages first, run one 13-family glyph sweep over the batch, allow at most one targeted enlargement per genuinely unclear token, and record an explicit source hold instead of repeatedly re-cropping. Preserve scan 128 / 129 continuity directly from source. Do not start assembled Tamil or English.
+Process **scans 134–138** as one 5-page forward iteration. Use the bounded production workflow: transcribe all five full pages first, run one 13-family glyph sweep over the batch, allow at most one targeted enlargement per genuinely unclear token, and record an explicit source hold instead of repeatedly re-cropping. Preserve the durable scan 129 / 130 and scan 131 / 132 physical splits; establish scan 134 only from direct source evidence. Do not start assembled Tamil or English.

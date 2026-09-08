@@ -5,30 +5,28 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 ## Intake state
 
 - actual PDF scan count: **179**;
-- page manifest: **179 / 179 represented below**;
-- canonical page records: **128 / 179**;
-- body transcription: **through scan 128 / printed 127**;
-- Chapter 13 / 14 boundary: **scan 115 / printed 114**, centered `14`;
-- Chapter 14 / 15 boundary: **scan 120 / printed 119**, centered `15`;
-- canonical historical-glyph coverage: **PASS scans 1–128**;
-- scan 66 visibly prints only **`5`**; `65` is not inferred;
-- scans 67–128 directly map to printed pages **66–127**;
-- forward canonical processing is **next at scans 129–133**, with **5 scans per iteration**;
-- printed-page values marked `pending` are not inferred.
+- mapping coverage: **179 / 179 represented by the ranges and exceptions below**;
+- canonical page records: **133 / 179**;
+- body transcription: **through scan 133 / printed 132**;
+- canonical historical-glyph coverage: **PASS scans 1–133**;
+- forward canonical processing: **next scans 134–138**, **5 scans per iteration**;
+- printed-page values are never inferred where the source has not been directly confirmed.
 
-## Durable correction
+Detailed lexical and glyph evidence remains in each canonical page record and `../audit.md`. This page map records scan/printed-page mapping, chapter structure, status, and durable physical-boundary exceptions without duplicating every page-level audit note.
 
-Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 supplies the same-edition witness `நயினா என்பது நயினாமுகம்மது என்ற பெயரின் சுருக்கம்`.
+## Printed-page mapping
 
-## Historical-glyph closure and expanded corrective re-audit
-
-The mandatory source-pixel family set is `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Grammar is only a locator; source wording is not normalized and global replacement is prohibited.
-
-The earlier audit incorrectly classified several old-type `னா` / `றா` shapes as genuine `னன்` / `னள்` / `னு` forms. The expanded corrective re-audit supersedes those claims. Canonical scans **1–128 are PASS** after correction and forward source-pixel checking.
-
-Independently verified source-specific forms such as `வேலையில்ல`, `வரணும்`, `நானு`, recurring `நயினா`, scan 114 `அப்படித்தான் ஆவள்`, and source-specific forms on scans 119–128 remain unchanged.
-
-Detailed lexical/glyph evidence remains in each canonical page record and `audit.md`; this inventory tracks scan/printed-page mapping, status, chapter structure and durable physical-boundary exceptions.
+- scans **1–3** — front matter; no printed body-page mapping;
+- scan **4** — Chapter 1 opening; no visible printed body-page number recorded;
+- scans **5–8** — printed **4–7**;
+- scan **9** — body page with no visible printed number recorded;
+- scans **10–65** — printed **9–64**;
+- scan **66** — source visibly prints only **`5`**; never infer `65`;
+- scans **67–133** — printed **66–132**;
+- scans **134–175** — pending direct source confirmation;
+- scan **176** — printed **175**, directly confirmed;
+- scans **177–178** — pending direct source confirmation;
+- scan **179** — printed **178**, final narrative page plus illustration.
 
 ## Confirmed chapter structure
 
@@ -47,192 +45,65 @@ Detailed lexical/glyph evidence remains in each canonical page record and `audit
 - scan 107 — mixed Chapter 12 / Chapter 13, centered `13`;
 - scan 115 — mixed Chapter 13 / Chapter 14, centered `14`;
 - scan 120 — mixed Chapter 14 / Chapter 15, centered `15`;
-- scan 127 — Chapter 16 opening, centered `16`;
+- scan 127 — Chapter 16 opening, centered `16`.
 
-## Page inventory
+## Historical-glyph rule
 
-| Scan | Printed page | Page type | Status | Note |
-|---:|:---:|---|---|---|
-| 1 | — | cover | verified | Title/author/publisher; historical-glyph audit PASS |
-| 2 | — | copy-specific front matter | verified | Blank leaf / donor label; historical-glyph audit PASS |
-| 3 | — | publication | verified | Second edition 1968; historical-glyph audit PASS |
-| 4 | — | body / chapter opening | verified | Chapter 1 opening; audit PASS |
-| 5 | 4 | body | verified | Chapter 1; audit PASS |
-| 6 | 5 | body | verified | Chapter 1; audit PASS |
-| 7 | 6 | body | verified | Chapter 1; audit PASS |
-| 8 | 7 | body | verified | Chapter 1; audit PASS |
-| 9 | — | body | verified | Chapter 1; audit PASS |
-| 10 | 9 | body | verified | Chapter 1; audit PASS |
-| 11 | 10 | body | verified | Chapter 1; audit PASS |
-| 12 | 11 | body | verified | Chapter 1; audit PASS |
-| 13 | 12 | body / chapter opening | verified | Chapter 2 opening; audit PASS |
-| 14 | 13 | body | verified | Chapter 2; audit PASS |
-| 15 | 14 | body | verified | Chapter 2; audit PASS |
-| 16 | 15 | body | verified | Chapter 2; audit PASS |
-| 17 | 16 | body | verified | Chapter 2; audit PASS |
-| 18 | 17 | body | verified | Chapter 2; audit PASS |
-| 19 | 18 | body | verified | Chapter 2; audit PASS |
-| 20 | 19 | body | verified | Chapter 2; audit PASS |
-| 21 | 20 | body | verified | Chapter 2; audit PASS |
-| 22 | 21 | body | verified | Chapter 2; audit PASS |
-| 23 | 22 | body / chapter opening | verified | Chapter 3 opening; audit PASS |
-| 24 | 23 | body | verified | Chapter 3; audit PASS |
-| 25 | 24 | body | verified | Chapter 3; audit PASS |
-| 26 | 25 | body | verified | Chapter 3; audit PASS |
-| 27 | 26 | body | verified | Chapter 3; audit PASS |
-| 28 | 27 | body | verified | Chapter 3; audit PASS |
-| 29 | 28 | body | verified | Chapter 3; audit PASS |
-| 30 | 29 | body | verified | Chapter 3; audit PASS |
-| 31 | 30 | body | verified | Chapter 3; audit PASS |
-| 32 | 31 | body | verified | Chapter 3; audit PASS |
-| 33 | 32 | body / chapter boundary | verified | Mixed Chapter 3 / 4; centered `4` |
-| 34 | 33 | body | verified | Chapter 4; audit PASS |
-| 35 | 34 | body | verified | Chapter 4; audit PASS |
-| 36 | 35 | body | verified | Chapter 4; audit PASS |
-| 37 | 36 | body | verified | Chapter 4; audit PASS |
-| 38 | 37 | body | verified | Chapter 4; audit PASS |
-| 39 | 38 | body | verified | Chapter 4; audit PASS |
-| 40 | 39 | body | verified | Chapter 4; audit PASS |
-| 41 | 40 | body | verified | Chapter 4; audit PASS |
-| 42 | 41 | body | verified | Chapter 4; audit PASS |
-| 43 | 42 | body | verified | Chapter 4; audit PASS |
-| 44 | 43 | body | verified | Chapter 4; audit PASS |
-| 45 | 44 | body / chapter boundary | verified | Mixed Chapter 4 / 5; centered `5` |
-| 46 | 45 | body | verified | Chapter 5; audit PASS |
-| 47 | 46 | body | verified | Chapter 5; audit PASS |
-| 48 | 47 | body | verified | Chapter 5; audit PASS |
-| 49 | 48 | body | verified | Chapter 5; audit PASS |
-| 50 | 49 | body | verified | Chapter 5; audit PASS |
-| 51 | 50 | body | verified | Chapter 5; audit PASS |
-| 52 | 51 | body / chapter opening | verified | Chapter 6 opening; centered `6`; audit PASS |
-| 53 | 52 | body | verified | Chapter 6; audit PASS |
-| 54 | 53 | body | verified | Chapter 6; audit PASS |
-| 55 | 54 | body | verified | Chapter 6; audit PASS |
-| 56 | 55 | body | verified | Chapter 6; audit PASS |
-| 57 | 56 | body | verified | Chapter 6; audit PASS |
-| 58 | 57 | body | verified | Chapter 6; audit PASS |
-| 59 | 58 | body / chapter boundary | verified | Mixed Chapter 6 / 7; centered `7` |
-| 60 | 59 | body | verified | Chapter 7; audit PASS |
-| 61 | 60 | body | verified | Chapter 7; audit PASS |
-| 62 | 61 | body | verified | Chapter 7; audit PASS |
-| 63 | 62 | body | verified | Chapter 7; audit PASS |
-| 64 | 63 | body | verified | Chapter 7; audit PASS |
-| 65 | 64 | body | verified | Chapter 7; audit PASS |
-| 66 | 5 | body | verified | Source visibly prints only `5`; never infer `65` |
-| 67 | 66 | body | verified | Chapter 7; audit PASS |
-| 68 | 67 | body / chapter boundary | verified | Mixed Chapter 7 / 8; centered `8` |
-| 69 | 68 | body | verified | Chapter 8; audit PASS |
-| 70 | 69 | body | verified | Chapter 8; audit PASS |
-| 71 | 70 | body | verified | Chapter 8; audit PASS |
-| 72 | 71 | body | verified | Chapter 8; audit PASS |
-| 73 | 72 | body | verified | Chapter 8; audit PASS |
-| 74 | 73 | body | verified | Chapter 8; audit PASS |
-| 75 | 74 | body / chapter boundary | verified | Mixed Chapter 8 / 9; centered `9` |
-| 76 | 75 | body | verified | Chapter 9; audit PASS |
-| 77 | 76 | body | verified | Chapter 9; audit PASS |
-| 78 | 77 | body | verified | Chapter 9; audit PASS |
-| 79 | 78 | body | verified | Chapter 9; audit PASS |
-| 80 | 79 | body | verified | Chapter 9; audit PASS |
-| 81 | 80 | body | verified | Chapter 9; audit PASS |
-| 82 | 81 | body | verified | Chapter 9; bottom `6` printer/signature mark |
-| 83 | 82 | body | verified | Chapter 9; audit PASS |
-| 84 | 83 | body | verified | Chapter 9; audit PASS |
-| 85 | 84 | body / chapter boundary | verified | Mixed Chapter 9 / 10; centered `10` |
-| 86 | 85 | body | verified | Chapter 10; audit PASS |
-| 87 | 86 | body | verified | Chapter 10; audit PASS |
-| 88 | 87 | body | verified | Chapter 10; audit PASS |
-| 89 | 88 | body | verified | Chapter 10; ends physical `மறுத்துவிட்` |
-| 90 | 89 | body | verified | Chapter 10; begins physical `டால்` |
-| 91 | 90 | body | verified | Chapter 10; audit PASS |
-| 92 | 91 | body / chapter boundary | verified | Mixed Chapter 10 / 11; centered `11` |
-| 93 | 92 | body | verified | Chapter 11; audit PASS |
-| 94 | 93 | body | verified | Chapter 11; audit PASS |
-| 95 | 94 | body | verified | Chapter 11; audit PASS |
-| 96 | 95 | body | verified | Chapter 11; audit PASS |
-| 97 | 96 | body | verified | Chapter 11; audit PASS |
-| 98 | 97 | body | verified | Chapter 11; bottom `7` printer/signature mark |
-| 99 | 98 | body / chapter boundary | verified | Mixed Chapter 11 / 12; centered `12` |
-| 100 | 99 | body | verified | Chapter 12; audit PASS |
-| 101 | 100 | body | verified | Chapter 12; audit PASS |
-| 102 | 101 | body | verified | Chapter 12; audit PASS |
-| 103 | 102 | body | verified | Chapter 12; audit PASS |
-| 104 | 103 | body | verified | Chapter 12; audit PASS |
-| 105 | 104 | body | verified | Chapter 12; audit PASS |
-| 106 | 105 | body | verified | Chapter 12; audit PASS |
-| 107 | 106 | body / chapter boundary | verified | Mixed Chapter 12 / 13; centered `13` |
-| 108 | 107 | body | verified | Chapter 13; audit PASS |
-| 109 | 108 | body | verified | Chapter 13; audit PASS |
-| 110 | 109 | body | verified | Chapter 13; audit PASS |
-| 111 | 110 | body | verified | Chapter 13; ends physical `சிறிதா` |
-| 112 | 111 | body | verified | Chapter 13; begins `வது`; cross-page `சிறிதாவது` |
-| 113 | 112 | body | verified | Chapter 13; audit PASS |
-| 114 | 113 | body | verified | Chapter 13; bottom `8` printer/signature mark |
-| 115 | 114 | body / chapter boundary | verified | Mixed Chapter 13 / 14; centered `14` |
-| 116 | 115 | body | verified | Chapter 14; audit PASS |
-| 117 | 116 | body | verified | Chapter 14; ends literal source `உட்` |
-| 118 | 117 | body | verified | Chapter 14; begins `எவ்வளவோ...`; no completion invented for scan 117; dialogue continues |
-| 119 | 118 | body | verified | Chapter 14; begins `வருகிறேன்.........`; `ஓடினாள்` source-confirmed; ends `கவனித்து` |
-| 120 | 119 | body / chapter boundary | verified | Mixed Chapter 14 / 15; centered `15`; `நின்றாள்`; one `எண்ணினான்`; separate `ஏங்கினான்` |
-| 121 | 120 | body | verified | Chapter 15; `குமுறினாள்`, `அலறினாள்`, both `ஓடினான்`; ends `வண்டியில்` |
-| 122 | 121 | body | verified | Chapter 15; `வருகிறானா`, `போகிறாள்`, `கிளம்பியிருக்கிறாள்`; ends `...அவளுக்குப் பக்கத்திலே` |
-| 123 | 122 | body | verified | Chapter 15; literal opening `கார்ந்து கொண்டாள்.`; `நோக்கினாள்`, `நன்றாகக்`, `தோன்றினாள்`; `தண்டனைகளையெல்லாம்விட`, `கதவண்டை` |
-| 124 | 123 | body | verified | Chapter 15; `வயதானவளை`; ends `புகை`; glyph PASS |
-| 125 | 124 | body | verified | Chapter 15; begins `வண்டி`; cross-page `புகைவண்டி`; `வனைத்`, `அழகப்பனைத்`; glyph PASS |
-| 126 | 125 | body | verified | Chapter 15; `நாலைந்து`, `ஏறினார்கள்`, `கதவண்டை`; glyph PASS |
-| 127 | 126 | body / chapter opening | verified | Chapter 16 opening; centered `16`; `புறக்கூடு`, `புடைசூழ`; ends `வாழ்`; glyph PASS |
-| 128 | 127 | body | verified | Chapter 16; begins `விலே` → `வாழ்விலே`; `அவனைச் சூழ்ந்தது`; ends `ஏறும்போது`; glyph PASS |
-| 129 | pending | body | not-started |  |
-| 130 | pending | body | not-started |  |
-| 131 | pending | body | not-started |  |
-| 132 | pending | body | not-started |  |
-| 133 | pending | body | not-started |  |
-| 134 | pending | body | not-started |  |
-| 135 | pending | body | not-started |  |
-| 136 | pending | body | not-started |  |
-| 137 | pending | body | not-started |  |
-| 138 | pending | body | not-started |  |
-| 139 | pending | body | not-started |  |
-| 140 | pending | body | not-started |  |
-| 141 | pending | body | not-started |  |
-| 142 | pending | body | not-started |  |
-| 143 | pending | body | not-started |  |
-| 144 | pending | body | not-started |  |
-| 145 | pending | body | not-started |  |
-| 146 | pending | body | not-started |  |
-| 147 | pending | body | not-started |  |
-| 148 | pending | body | not-started |  |
-| 149 | pending | body | not-started |  |
-| 150 | pending | body | not-started |  |
-| 151 | pending | body | not-started |  |
-| 152 | pending | body | not-started |  |
-| 153 | pending | body | not-started |  |
-| 154 | pending | body | not-started |  |
-| 155 | pending | body | not-started |  |
-| 156 | pending | body | not-started |  |
-| 157 | pending | body | not-started |  |
-| 158 | pending | body | not-started |  |
-| 159 | pending | body | not-started |  |
-| 160 | pending | body | not-started |  |
-| 161 | pending | body | not-started |  |
-| 162 | pending | body | not-started |  |
-| 163 | pending | body | not-started |  |
-| 164 | pending | body | not-started |  |
-| 165 | pending | body | not-started |  |
-| 166 | pending | body | not-started |  |
-| 167 | pending | body | not-started |  |
-| 168 | pending | body | not-started |  |
-| 169 | pending | body | not-started |  |
-| 170 | pending | body | not-started |  |
-| 171 | pending | body | not-started |  |
-| 172 | pending | body | not-started |  |
-| 173 | pending | body | not-started |  |
-| 174 | pending | body | not-started |  |
-| 175 | pending | body | not-started |  |
-| 176 | 175 | body | not-started | Printed page directly confirmed |
-| 177 | pending | body | not-started |  |
-| 178 | pending | body | not-started |  |
-| 179 | 178 | body / final page | not-started | Printed 178; final narrative paragraph plus illustration |
+Mandatory source-pixel family set on every scan:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+Grammar is only a locator. Character identity comes from source pixels and same-edition comparison. Never global-replace or normalize source wording. The expanded corrective re-audit supersedes earlier false short-form readings caused by old-type `னா` / `றா` shapes. Recurring **`நயினா`** remains the controlling same-edition form.
+
+## Durable physical/source exceptions
+
+- scan 66 visibly prints only `5`; do not infer `65`;
+- scan 82 bottom `6` — printer/signature mark;
+- scan 89 / 90 — physical `மறுத்துவிட்` + `டால்`;
+- scan 98 bottom `7` — printer/signature mark;
+- scan 111 / 112 — physical `சிறிதா` + `வது` = `சிறிதாவது`;
+- scan 114 bottom `8` — printer/signature mark;
+- scan 117 / 118 — literal `உட்` → `எவ்வளவோ...`; no grammatical reconstruction;
+- scan 118 / 119 — open dialogue continues with `வருகிறேன்.........`;
+- scan 119 / 120 — `கவனித்து` → `விட்டான்.`;
+- scan 121 / 122 — `வண்டியில்` → `ஒரே கூட்டம்.`;
+- scan 122 / 123 — `...அவளுக்குப் பக்கத்திலே` → literal `கார்ந்து கொண்டாள்.`; never reconstruct `உட்கார்ந்து` without source evidence;
+- scan 124 / 125 — physical `புகை` + `வண்டி` = `புகைவண்டி`;
+- scan 127 / 128 — physical `வாழ்` + `விலே` = `வாழ்விலே`;
+- scan 128 / 129 — direct continuation `ஏறும்போது` → `அவளை...`;
+- scan 129 / 130 — physical `அழகப்ப` + `னுடைய` = `அழகப்பனுடைய`;
+- scan 130 bottom `9` — printer/signature mark;
+- scan 131 / 132 — physical `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`;
+- scan 133 ends a complete sentence; scan 134 must be established only from direct source evidence.
+
+## Current canonical end — scans 119–133
+
+| Scan | Printed | Section | Status | Durable note |
+|---:|---:|---|---|---|
+| 119 | 118 | Chapter 14 | verified | begins `வருகிறேன்.........`; `ஓடினாள்`; ends `கவனித்து` |
+| 120 | 119 | Chapter 14 / 15 | verified | centered `15`; `நின்றாள்`; one `எண்ணினான்`; separate `ஏங்கினான்` |
+| 121 | 120 | Chapter 15 | verified | `குமுறினாள்`, `அலறினாள்`, both `ஓடினான்`; ends `வண்டியில்` |
+| 122 | 121 | Chapter 15 | verified | `வருகிறானா`, `போகிறாள்`, `கிளம்பியிருக்கிறாள்`; ends `...அவளுக்குப் பக்கத்திலே` |
+| 123 | 122 | Chapter 15 | verified | literal `கார்ந்து கொண்டாள்.`; `தண்டனைகளையெல்லாம்விட`; `கதவண்டை` |
+| 124 | 123 | Chapter 15 | verified | `வயதானவளை`; ends `புகை` |
+| 125 | 124 | Chapter 15 | verified | begins `வண்டி`; cross-page `புகைவண்டி`; `வனைத்`, `அழகப்பனைத்` |
+| 126 | 125 | Chapter 15 | verified | `நாலைந்து`, `ஏறினார்கள்`, `கதவண்டை` |
+| 127 | 126 | Chapter 16 opening | verified | centered `16`; `புறக்கூடு`, `புடைசூழ`; ends `வாழ்` |
+| 128 | 127 | Chapter 16 | verified | begins `விலே` → `வாழ்விலே`; `அவனைச் சூழ்ந்தது`; ends `ஏறும்போது` |
+| 129 | 128 | Chapter 16 | verified | begins `அவளை`; `விழலுக்கிறைத்த`, `மனிதப்புழு`, `சிந்துவாற்றுச்`; ends `அழகப்ப` |
+| 130 | 129 | Chapter 16 | verified | begins `னுடைய` → `அழகப்பனுடைய`; `நயினா`; `மங்காகர`; bottom `9` printer mark |
+| 131 | 130 | Chapter 16 | verified | `நயினாமுகம்மது`, `நயினாவின்`; ends `பின்னிக்` |
+| 132 | 131 | Chapter 16 | verified | begins `கொண்டன;` → `பின்னிக்கொண்டன`; `நயினாவிடமிருந்து`; both `என்றால்` |
+| 133 | 132 | Chapter 16 | verified | `நயினா முகம்மது`, `நயினாவுக்கு`, `நகை நட்டுக்களை`; glyph PASS |
+
+## Remaining scan-status ranges
+
+- scans **1–133** — canonical / verified;
+- scans **134–175** — not started;
+- scan **176** — not started; printed 175 directly confirmed;
+- scans **177–178** — not started;
+- scan **179** — not started; printed 178, final page.
 
 ## Exact next activity
 
-Process **scans 129–133** as the next 5-scan forward iteration. Use the bounded production workflow: transcribe all five full pages first, run one batch-level 13-family glyph sweep, and allow at most one targeted enlargement per genuinely unclear token before recording a source hold. Preserve scan 128 / 129 continuity from direct source evidence. Do not start assembled Tamil or English.
+Process **scans 134–138** as the next 5-scan forward iteration. Use the bounded production workflow: transcribe all five full pages first, run one batch-level mandatory 13-family glyph sweep, and allow at most one targeted enlargement per genuinely unclear token before recording a source hold. Do not reopen scans 129–133 unless new source evidence directly contradicts them. Do not start assembled Tamil or English.

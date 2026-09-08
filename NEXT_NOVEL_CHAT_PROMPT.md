@@ -8,12 +8,12 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 ## Current durable state
 
-- canonical records: **128 / 179**;
+- canonical records: **133 / 179**;
 - Chapter 14 / 15 boundary: **scan 120 / printed 119**, centered `15`;
 - Chapter 16 opens **scan 127 / printed 126**, centered `16`;
-- Chapter 16 transcribed through **scan 128 / printed 127**;
-- historical-glyph coverage: **PASS scans 1–128**;
-- next iteration: **scans 129–133**;
+- Chapter 16 transcribed through **scan 133 / printed 132**;
+- historical-glyph coverage: **PASS scans 1–133**;
+- next iteration: **scans 134–138**;
 - batch size: **5 scans**;
 - assembled Tamil / English: **not started / blocked**.
 
@@ -36,8 +36,12 @@ Check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / �
 - scan 124 / 125: physical `புகை` + `வண்டி` = `புகைவண்டி`;
 - scan 127: Chapter 16 opening, centered `16`;
 - scan 127 / 128: physical `வாழ்` + `விலே` = `வாழ்விலே`;
-- scan 128 ends literal `ஏறும்போது`; establish scan 129 continuation only from direct source evidence.
+- scan 128 / 129: direct continuation `ஏறும்போது` → `அவளை...`;
+- scan 129 / 130: physical `அழகப்ப` + `னுடைய` = `அழகப்பனுடைய`;
+- scan 130 bottom `9` printer/signature mark;
+- scan 131 / 132: physical `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`;
+- scan 133 ends a complete sentence; establish scan 134 only from direct source.
 
 ## Exact next activity
 
-Process **scans 129–133** in one bounded 5-page iteration using the production workflow above. Do not start assembled Tamil or English.
+Process **scans 134–138** in one bounded 5-page iteration using the production workflow above. Do not reopen scans 129–133 unless new source evidence directly contradicts them. Do not start assembled Tamil or English.
