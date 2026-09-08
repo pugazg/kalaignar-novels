@@ -6,14 +6,14 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count: **179**;
 - page manifest: **179 / 179 represented below**;
-- canonical page records: **123 / 179**;
-- body transcription: **through scan 123 / printed 122**;
+- canonical page records: **128 / 179**;
+- body transcription: **through scan 128 / printed 127**;
 - Chapter 13 / 14 boundary: **scan 115 / printed 114**, centered `14`;
 - Chapter 14 / 15 boundary: **scan 120 / printed 119**, centered `15`;
-- canonical historical-glyph coverage: **PASS scans 1–123**;
+- canonical historical-glyph coverage: **PASS scans 1–128**;
 - scan 66 visibly prints only **`5`**; `65` is not inferred;
-- scans 67–123 directly map to printed pages **66–122**;
-- forward canonical processing is **next at scans 124–128**, with **5 scans per iteration**;
+- scans 67–128 directly map to printed pages **66–127**;
+- forward canonical processing is **next at scans 129–133**, with **5 scans per iteration**;
 - printed-page values marked `pending` are not inferred.
 
 ## Durable correction
@@ -24,9 +24,9 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 
 The mandatory source-pixel family set is `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Grammar is only a locator; source wording is not normalized and global replacement is prohibited.
 
-The earlier audit incorrectly classified several old-type `னா` / `றா` shapes as genuine `னன்` / `னள்` / `னு` forms. The expanded corrective re-audit supersedes those claims. Canonical scans **1–123 are PASS** after correction and forward source-pixel checking.
+The earlier audit incorrectly classified several old-type `னா` / `றா` shapes as genuine `னன்` / `னள்` / `னு` forms. The expanded corrective re-audit supersedes those claims. Canonical scans **1–128 are PASS** after correction and forward source-pixel checking.
 
-Independently verified source-specific forms such as `வேலையில்ல`, `வரணும்`, `நானு`, recurring `நயினா`, scan 114 `அப்படித்தான் ஆவள்`, and source-specific forms on scans 119–123 remain unchanged.
+Independently verified source-specific forms such as `வேலையில்ல`, `வரணும்`, `நானு`, recurring `நயினா`, scan 114 `அப்படித்தான் ஆவள்`, and source-specific forms on scans 119–128 remain unchanged.
 
 Detailed lexical/glyph evidence remains in each canonical page record and `audit.md`; this inventory tracks scan/printed-page mapping, status, chapter structure and durable physical-boundary exceptions.
 
@@ -47,6 +47,7 @@ Detailed lexical/glyph evidence remains in each canonical page record and `audit
 - scan 107 — mixed Chapter 12 / Chapter 13, centered `13`;
 - scan 115 — mixed Chapter 13 / Chapter 14, centered `14`;
 - scan 120 — mixed Chapter 14 / Chapter 15, centered `15`;
+- scan 127 — Chapter 16 opening, centered `16`;
 
 ## Page inventory
 
@@ -175,11 +176,11 @@ Detailed lexical/glyph evidence remains in each canonical page record and `audit
 | 121 | 120 | body | verified | Chapter 15; `குமுறினாள்`, `அலறினாள்`, both `ஓடினான்`; ends `வண்டியில்` |
 | 122 | 121 | body | verified | Chapter 15; `வருகிறானா`, `போகிறாள்`, `கிளம்பியிருக்கிறாள்`; ends `...அவளுக்குப் பக்கத்திலே` |
 | 123 | 122 | body | verified | Chapter 15; literal opening `கார்ந்து கொண்டாள்.`; `நோக்கினாள்`, `நன்றாகக்`, `தோன்றினாள்`; `தண்டனைகளையெல்லாம்விட`, `கதவண்டை` |
-| 124 | pending | body | not-started |  |
-| 125 | pending | body | not-started |  |
-| 126 | pending | body | not-started |  |
-| 127 | pending | body | not-started |  |
-| 128 | pending | body | not-started |  |
+| 124 | 123 | body | verified | Chapter 15; `வயதானவளை`; ends `புகை`; glyph PASS |
+| 125 | 124 | body | verified | Chapter 15; begins `வண்டி`; cross-page `புகைவண்டி`; `வனைத்`, `அழகப்பனைத்`; glyph PASS |
+| 126 | 125 | body | verified | Chapter 15; `நாலைந்து`, `ஏறினார்கள்`, `கதவண்டை`; glyph PASS |
+| 127 | 126 | body / chapter opening | verified | Chapter 16 opening; centered `16`; `புறக்கூடு`, `புடைசூழ`; ends `வாழ்`; glyph PASS |
+| 128 | 127 | body | verified | Chapter 16; begins `விலே` → `வாழ்விலே`; `அவனைச் சூழ்ந்தது`; ends `ஏறும்போது`; glyph PASS |
 | 129 | pending | body | not-started |  |
 | 130 | pending | body | not-started |  |
 | 131 | pending | body | not-started |  |
@@ -234,4 +235,4 @@ Detailed lexical/glyph evidence remains in each canonical page record and `audit
 
 ## Exact next activity
 
-Process **scans 124–128** as the next 5-scan forward iteration. Apply the mandatory 13-family historical-glyph checks directly from source pixels on every scan. Re-establish the scan 123 / 124 boundary from the source. Do not start assembled Tamil or English.
+Process **scans 129–133** as the next 5-scan forward iteration. Use the bounded production workflow: transcribe all five full pages first, run one batch-level 13-family glyph sweep, and allow at most one targeted enlargement per genuinely unclear token before recording a source hold. Preserve scan 128 / 129 continuity from direct source evidence. Do not start assembled Tamil or English.

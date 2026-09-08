@@ -11,13 +11,13 @@
 - actual PDF scan count: **179**; size **251,126,214 bytes**;
 - SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`;
 - page manifest: **179 / 179**;
-- canonical page records: **123 / 179**;
+- canonical page records: **128 / 179**;
 - Chapter 12 / 13 boundary: **scan 107 / printed 106**, centered `13`;
 - Chapter 13 / 14 boundary: **scan 115 / printed 114**, centered `14`;
 - Chapter 14 / 15 boundary: **scan 120 / printed 119**, centered `15`;
-- Chapter 15 transcribed through **scan 123 / printed 122**;
-- historical-glyph coverage on existing canonical scans: **PASS scans 1–123 after expanded corrective re-audit plus forward source-pixel checks**;
-- next forward batch: **scans 124–128**;
+- Chapter 16 transcribed through **scan 128 / printed 127**;
+- historical-glyph coverage on existing canonical scans: **PASS scans 1–128 after expanded corrective re-audit plus forward source-pixel checks**;
+- next forward batch: **scans 129–133**;
 - batch size: **5 scans per iteration**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
@@ -33,7 +33,7 @@ Character identity is decided from enlarged/native source pixels first. Grammar 
 
 The earlier audit incorrectly labelled several old-type `னா` / `றா` forms as genuine `னன்` / `னள்` / `னு` counterexamples. Those claims are superseded by the corrected canonical records.
 
-Representative controlling corrections include `வந்துவிட்டானா`, `வயதினாள்`, `பருவத்தினாள்`, `விரும்பினான்`, `பொய்தானா?`, `பேசினான்`, `நோக்கினான்`, `மாறினாள்`, `கத்தினாள்`, `நீட்டினான்`, `அமர்த்தினான்`, `பொத்தினான்`, `தொடங்கினாள்`, `கருதினான்`, `கூறினான்`, and the forward forms confirmed on scans 119–123.
+Representative controlling corrections include `வந்துவிட்டானா`, `வயதினாள்`, `பருவத்தினாள்`, `விரும்பினான்`, `பொய்தானா?`, `பேசினான்`, `நோக்கினான்`, `மாறினாள்`, `கத்தினாள்`, `நீட்டினான்`, `அமர்த்தினான்`, `பொத்தினான்`, `தொடங்கினாள்`, `கருதினான்`, `கூறினான்`, and the forward forms confirmed on scans 119–128.
 
 This does **not** authorize grammar normalization. Independently confirmed source-specific forms remain unchanged, including `வேலையில்ல`, `வரணும்`, `நானு`, recurring `நயினா`, scan 114 `அப்படித்தான் ஆவள்`, scan 123 literal `கார்ந்து கொண்டாள்.`, and other source-specific clusters.
 
@@ -53,6 +53,21 @@ This does **not** authorize grammar normalization. Independently confirmed sourc
 
 ### Scan 123 / printed 122
 **VERIFIED / historical-glyph PASS.** Literal physical opening `கார்ந்து கொண்டாள்.` is retained without grammar repair; source-confirmed `நோக்கினாள்`, `நன்றாகக்`, `தோன்றினாள்`; disputed lexical clusters closed directly from source pixels, including `மாது சிரோன்மணி`, `தண்டனைகளையெல்லாம்விட`, `கதவண்டை`; ends `கவனித்தாள்.`.
+
+### Scan 124 / printed 123
+**VERIFIED / historical-glyph PASS.** Source-confirmed `வயதானவளை`, `ஏற்றிக்கொண்டிருந்தான்`; ends physical `புகை`.
+
+### Scan 125 / printed 124
+**VERIFIED / historical-glyph PASS.** Begins `வண்டி`, forming cross-page `புகைவண்டி`; preserve `சூடேறிவிட்டது`, `வனைத்`, `அழகப்பனைத்`, `சேச்சே`; emphatic closing lines retained.
+
+### Scan 126 / printed 125
+**VERIFIED / historical-glyph PASS.** Preserve `நாலைந்து`, `திடுதிடுவென`, `கதவண்டை`, `ஏறினார்கள்`, `கோதைக்கு`, `படாடோபக்காரி`.
+
+### Scan 127 / printed 126
+**VERIFIED / historical-glyph PASS. Chapter 16 opening.** Centered `16`; preserve `புறக்கூடு`, `புடைசூழ`, `நிலை குலறியது`; ends physical `வாழ்`.
+
+### Scan 128 / printed 127
+**VERIFIED / historical-glyph PASS.** Begins `விலே`, forming cross-page `வாழ்விலே`; preserve `அணுஅணுவாகக்`, `வலியப்போய்`, `அவனைச் சூழ்ந்தது`; ends `ஏறும்போது`.
 
 ## Durable structural decisions
 
@@ -78,15 +93,19 @@ This does **not** authorize grammar normalization. Independently confirmed sourc
 - scan 119 / 120 physical continuation `கவனித்து` → `விட்டான்.`;
 - scan 120 mixed Chapter 14 / 15, centered `15`;
 - scan 121 / 122 physical boundary `வண்டியில்` → `ஒரே கூட்டம்.`;
-- scan 122 / 123 literal boundary `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`; never reconstruct `உட்கார்ந்து` without source evidence.
+- scan 122 / 123 literal boundary `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`; never reconstruct `உட்கார்ந்து` without source evidence;
+- scan 124 / 125 physical split `புகை` + `வண்டி` = `புகைவண்டி`;
+- scan 127 Chapter 16 opening, centered `16`;
+- scan 127 / 128 physical split `வாழ்` + `விலே` = `வாழ்விலே`;
+- scan 128 ends physical `ஏறும்போது`; continue only from direct scan-129 evidence.
 
 ## Key records
 
 - [`metadata/source.md`](metadata/source.md)
 - [`indexes/page-map.md`](indexes/page-map.md)
 - [`audit.md`](audit.md)
-- canonical pages through [`pages/0123-vellikkizhamai-120.md`](pages/0123-vellikkizhamai-120.md)
+- canonical pages through [`pages/0128-vellikkizhamai-125.md`](pages/0128-vellikkizhamai-125.md)
 
 ## Exact next activity
 
-Process **scans 124–128** as one 5-page forward iteration using direct source-pixel historical-glyph checks. Re-establish scan 123 / 124 continuity from the controlling source before encoding. Do not start assembled Tamil or English.
+Process **scans 129–133** as one 5-page forward iteration. Use the bounded production workflow: transcribe all five full pages first, run one 13-family glyph sweep over the batch, allow at most one targeted enlargement per genuinely unclear token, and record an explicit source hold instead of repeatedly re-cropping. Preserve scan 128 / 129 continuity directly from source. Do not start assembled Tamil or English.

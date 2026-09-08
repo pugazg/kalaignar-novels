@@ -1,58 +1,43 @@
 # Next Chat Prompt — வெள்ளிக்கிழமை
 
-Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`.
-
-## LIVE MAIN IS AUTHORITATIVE
-
-Fetch live `main` first and preserve newer durable work.
+Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`. Live `main` is authoritative.
 
 ## Source
 
-Resolve `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-256 `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`, **179 scans**, image-only, second edition 1968. Do not commit it.
+`TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-256 `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`, **179 scans**, image-only, second edition 1968. Do not commit it.
 
-## Current state
+## Current durable state
 
-- canonical records: **123 / 179**;
-- Chapter 15 transcribed through **scan 123 / printed 122**;
-- Chapter 13 / 14 boundary: **scan 115 / printed 114**, centered `14`;
+- canonical records: **128 / 179**;
 - Chapter 14 / 15 boundary: **scan 120 / printed 119**, centered `15`;
-- historical-glyph coverage: **PASS scans 1–123**;
-- next iteration: **scans 124–128**;
-- batch size: **5 scans per iteration**.
+- Chapter 16 opens **scan 127 / printed 126**, centered `16`;
+- Chapter 16 transcribed through **scan 128 / printed 127**;
+- historical-glyph coverage: **PASS scans 1–128**;
+- next iteration: **scans 129–133**;
+- batch size: **5 scans**;
+- assembled Tamil / English: **not started / blocked**.
 
-## Critical historical-glyph rule
+## Mandatory glyph rule
 
-Mandatory set:
+Check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` from source pixels. Grammar is only a locator. Never global-replace or normalize source wording.
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+## Production workflow — use this to avoid slow iterations
 
-Identify character identity from enlarged/native source pixels first. Grammar may indicate where to inspect but is never proof. Preserve all source spelling, grammar, punctuation, spacing and colloquial forms after decoding character identity. Never global-replace.
+1. Fetch live `main` once.
+2. Transcribe all five full pages straight through before stopping for ambiguities.
+3. Run one batch-level 13-family historical-glyph sweep.
+4. For a genuinely unclear token, allow **one targeted enlargement only**.
+5. If still unresolved, record a source hold / `needs-review` item and continue; do not repeatedly crop the same word.
+6. Create five page records, update audit/page-map/README/HANDOVER/prompt together, then make one atomic commit.
+7. Do not reopen previously PASS scans unless new source evidence directly contradicts them.
 
-### Expanded corrective re-audit — do not regress
+## Recent source boundaries to preserve
 
-Earlier status documents falsely called several old-type `னா` / `றா` forms genuine `னன்` / `னள்` / `னு` counterexamples. Corrected canonical records are authoritative.
-
-These are source-pixel character identities, **not** a blanket grammatical conversion. Preserve independently verified source forms including `வேலையில்ல`, `வரணும்`, `நானு`, recurring `நயினா`, scan 114 `அப்படித்தான் ஆவள்`, and source-specific forms on scans 119–123.
-
-An apparent `னன்` / `னள்` / `னு` must be independently compared with same-edition old type before declaring it genuine.
-
-## Recent forward results
-
-- scan 119 / printed 118: PASS; continuation `வருகிறேன்.........`; `ஓடினாள்`; ends `கவனித்து`;
-- scan 120 / printed 119: PASS; begins `விட்டான்.`; mixed Chapter 14 / 15, centered `15`; `நின்றாள்`; one source-visible `எண்ணினான்`, plus separate `ஏங்கினான்`;
-- scan 121 / printed 120: PASS; `குமுறினாள்`, `அலறினாள்`, both `ஓடினான்`; ends `வண்டியில்`;
-- scan 122 / printed 121: PASS; `வருகிறானா`, `போகிறாள்`, `கிளம்பியிருக்கிறாள்`; ends `சிந்தாமணி, அவளுக்குப் பக்கத்திலே`;
-- scan 123 / printed 122: PASS; literal opening `கார்ந்து கொண்டாள்.`; `நோக்கினாள்`, `நன்றாகக்`, `தோன்றினாள்`; source-resolved `மாது சிரோன்மணி`, `தண்டனைகளையெல்லாம்விட`, `கதவண்டை`; ends `கவனித்தாள்.`.
+- scan 124 / 125: physical `புகை` + `வண்டி` = `புகைவண்டி`;
+- scan 127: Chapter 16 opening, centered `16`;
+- scan 127 / 128: physical `வாழ்` + `விலே` = `வாழ்விலே`;
+- scan 128 ends literal `ஏறும்போது`; establish scan 129 continuation only from direct source evidence.
 
 ## Exact next activity
 
-Process **scans 124–128** in one iteration.
-
-- Inspect each scan directly from the controlling source at enlarged/native resolution.
-- Re-establish the scan 123 / 124 boundary from the source; do not assume how scan 123's final `கவனித்தாள்.` continues.
-- Apply the mandatory 13-family historical-glyph check before encoding each scan.
-- Preserve source spelling, grammar, punctuation, spacing, colloquial forms, physical page boundaries and chapter structure.
-- Correct only positively source-supported identities; never infer from grammar and never global-replace.
-- Synchronize page records, `audit.md`, `indexes/page-map.md`, root/work README, `HANDOVER.md`, and this prompt after the iteration.
-
-Do not start assembled Tamil or English.
+Process **scans 129–133** in one bounded 5-page iteration using the production workflow above. Do not start assembled Tamil or English.
