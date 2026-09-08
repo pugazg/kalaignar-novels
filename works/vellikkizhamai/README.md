@@ -11,14 +11,14 @@
 - actual PDF scan count: **179**; size **251,126,214 bytes**;
 - SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`;
 - page manifest: **179 / 179**;
-- canonical page records: **112 / 179**;
+- canonical page records: **113 / 179**;
 - Chapter 12/13 boundary: **scan 107 / printed 106**, centered `13`;
-- Chapter 13 transcribed through scan 112 / printed 111;
-- historical-glyph coverage on existing canonical scans: **PASS scans 1–112**;
+- Chapter 13 transcribed through scan 113 / printed 112;
+- historical-glyph coverage on existing canonical scans: **PASS scans 1–113**;
 - retrospective historical-glyph re-audit: **PASS scans 1–101 / COMPLETE**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- prospective forward historical-glyph check: **PASS scan 112**;
-- forward scan 113: **next**;
+- prospective forward historical-glyph check: **PASS scans 112–113**;
+- forward scan 114: **next**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Mandatory historical-glyph rule
@@ -120,7 +120,7 @@ Character identity is decided from enlarged/native source pixels first. Grammar 
 
 ## Historical-glyph gate status
 
-The earlier pass sometimes treated old Tamil metal-type shapes as modern look-alikes. Corrective scans **102–111** demonstrated the failure mode with confirmed corrections including `நன்றாகக்`, `தவறாக`, `என்றாள்`, multiple missing-`ஆ` forms, `சொன்னா`, and `பெண்ணா?`. The retrospective re-audit of scans **1–101 is now complete**, and together with corrective scans **102–111**, all canonical scans **1–111** have direct historical-glyph coverage. Forward scan **112** has now also passed the same mandatory source-pixel check, so existing canonical coverage is **PASS scans 1–112**. Future forward pages must continue the same rule; no blanket morphological correction is permitted.
+The earlier pass sometimes treated old Tamil metal-type shapes as modern look-alikes. Corrective scans **102–111** demonstrated the failure mode with confirmed corrections including `நன்றாகக்`, `தவறாக`, `என்றாள்`, multiple missing-`ஆ` forms, `சொன்னா`, and `பெண்ணா?`. The retrospective re-audit of scans **1–101 is now complete**, and together with corrective scans **102–111**, all canonical scans **1–111** have direct historical-glyph coverage. Forward scans **112–113** have now also passed the same mandatory source-pixel check, so existing canonical coverage is **PASS scans 1–113**. Future forward pages must continue the same rule; no blanket morphological correction is permitted.
 
 ## Forward canonical processing
 
@@ -132,6 +132,16 @@ The earlier pass sometimes treated old Tamil metal-type shapes as modern look-al
 - mandatory-family checks include `பெண்ணையாவது` / `சிந்தாமணியை` (`ணை`), `பிள்ளை` / `களைப்பாயிருக்கும்` (`ளை`), `பாலைவனமாக்குவது` (`லை`), `மனைவிதான்` (`னை`), and recurring `நயினா` (`னா`);
 - `கருதினன்` was independently checked against the missing-`ஆ` failure mode and retained as source-exact rather than normalized to `கருதினான்`;
 - source-specific `திருமணந்தான்`, `மனத்திலேயிருந்த`, and `அனுதாபந்தான்` are preserved;
+- no unresolved source cluster remains.
+
+### Scan 113 / printed 112
+
+**VERIFIED / historical-glyph PASS.**
+
+- direct checks include `உன்னை` / `என்னை` / `எத்தனையோ` / `தன்னையறியாமல்` (`னை`), `கண்களைத்` (`ளை`), `விரும்பவில்லை` / `தெரியவில்லை` (`லை`), and recurring `நயினா` (`னா`);
+- `கூறினன்` was independently checked against the missing-`ஆ` failure mode and retained as genuine source text rather than normalized to `கூறினான்`;
+- source-specific `பிடிகை`, `கூளம்`, `தவங்கிடந்து`, and `அவையடக்கம்போலவே` are preserved;
+- final physical phrase `ஆறுதல் கூறுவதற்கு ஒருவர் அருகே இருக்கும்போது` continues on scan 114 with `பாசமும் பற்றும்...`;
 - no unresolved source cluster remains.
 
 ## Durable source / structure decisions
@@ -173,15 +183,16 @@ The earlier pass sometimes treated old Tamil metal-type shapes as modern look-al
 - scan 101 `கண் விழித்துப்`; retrospective audit closure;
 - scan 107 mixed Chapter 12 / 13 with centered `13`;
 - scan 111 / 112 physical split `சிறிதா` + `வது` preserved as `சிறிதாவது`;
-- scan 112 `கருதினன்` is source-confirmed genuine.
+- scan 112 `கருதினன்` is source-confirmed genuine;
+- scan 113 `கூறினன்` is source-confirmed genuine; final phrase continues on scan 114.
 
 ## Key records
 
 - [`metadata/source.md`](metadata/source.md)
 - [`indexes/page-map.md`](indexes/page-map.md)
 - [`audit.md`](audit.md)
-- canonical pages through [`pages/0112-vellikkizhamai-109.md`](pages/0112-vellikkizhamai-109.md)
+- canonical pages through [`pages/0113-vellikkizhamai-110.md`](pages/0113-vellikkizhamai-110.md)
 
 ## Exact next activity
 
-Continue forward canonical processing at **scan 113** using the same direct source-pixel historical-glyph checks. Do not start assembled Tamil or English.
+Continue forward canonical processing at **scan 114** using the same direct source-pixel historical-glyph checks. Preserve the scan-113/114 physical continuation beginning `பாசமும் பற்றும்...`. Do not start assembled Tamil or English.

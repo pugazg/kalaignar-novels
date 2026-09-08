@@ -6,16 +6,16 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count: **179**;
 - page manifest: **179 / 179 represented below**;
-- canonical page records: **112 / 179**;
-- body transcription: **through scan 112**;
-- existing canonical historical-glyph coverage: **PASS scans 1–112**;
+- canonical page records: **113 / 179**;
+- body transcription: **through scan 113**;
+- existing canonical historical-glyph coverage: **PASS scans 1–113**;
 - retrospective historical-glyph re-audit: **PASS scans 1–101 / COMPLETE**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- prospective forward historical-glyph check: **PASS scan 112**;
+- prospective forward historical-glyph check: **PASS scans 112–113**;
 - scans 62–65 directly map to printed pages **61–64**;
 - scan 66 visibly prints only **`5`**; `65` is not inferred;
-- scans 67–112 directly map to printed pages **66–111**;
-- forward canonical processing is **next at scan 113**;
+- scans 67–113 directly map to printed pages **66–112**;
+- forward canonical processing is **next at scan 114**;
 - printed-page values marked `pending` are not inferred.
 
 ## Durable correction
@@ -24,11 +24,13 @@ Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 
 
 ## Historical-glyph closure and forward coverage
 
-The earlier work-level PASS was withdrawn because old metal-type identities had been misread in several records. Retrospective scans **1–101** are complete, and corrective scans **102–111** were already complete. Forward scan **112** has now also passed direct source-pixel historical-glyph inspection. Therefore every existing canonical scan **1–112** has direct historical-glyph coverage. The same mandatory source-pixel rule continues prospectively for scans 113–179.
+The earlier work-level PASS was withdrawn because old metal-type identities had been misread in several records. Retrospective scans **1–101** are complete, and corrective scans **102–111** were already complete. Forward scans **112–113** have now also passed direct source-pixel historical-glyph inspection. Therefore every existing canonical scan **1–113** has direct historical-glyph coverage. The same mandatory source-pixel rule continues prospectively for scans 114–179.
 
 Key retrospective corrections through scan 101: scan 4 `பெருகிடுகிறது` → `பெருகிவிடுகிறது`; scan 38 `கண்ணின்` → `களைப்பின்`; scan 40 `எண்ணையாவது` → `என்னையாவது`, `அவர்களோ` → `அவர்களை`, `கைவற்றுப்போனேன்` → `கைவற்றுப்போனான்`; scan 42 `பொறுத்துச்` → `பொருத்தம்`, `சுதன` → `சனதன`; scans 46–49 source corrections; scans 52, 54, 55 source corrections; scans 56–60 source corrections except scan 59; scans 61–65 no canonical correction; scans 66–70 source corrections except scan 66; scans 71–75 no canonical correction; scan 79 `தனியிலே` → `தலையிலே`; scan 80 `கற்பமாக` → `கர்ப்பமாக`; scans 81–85 corrections `கன்னி கழியாத`, `பின்னர் பீறிட்டு`, `திருமணமா?`, `துணிய முடியுமா?`, `மருத்துவ மனையின்`; scans 86–90 PASS with scan 86 `அநேகமாக`, `முடிவு முற்றுவிட்டது`, `பூர்த்தி செய்து`, scan 87 `கேட்டதுபோல`, `மாறாக` (`றா`), scans 88–90 no correction; scans 91–95 PASS with scan 91 `கருதினாலும்` (`னா`) and `உதவி புரிவதுபோல`, scans 92–95 no correction; scans 96–100 PASS with scan 98 `நன்றுக` → `நன்றாக` (`றா`) and scan 99 both `நன்றுகத்` occurrences → `நன்றாகத்` (`றா`), scans 96, 97, 100 no correction; scan 101 PASS with ordinary spacing `கண்விழித்துப்` → `கண் விழித்துப்` and no mandatory-family correction. Genuine source forms retained include scan 90 `மாறினள்`, `கத்தினள்`; scan 92 `நீட்டினன்`, `துரிதப்படுத்தினன்`, `அமர்த்தினன்`; scan 93 `பொத்தினன்`; scan 95 `தொடங்கினள்`; scan 96 `வெளித்தாவரத்திலே`, `கிடத்தினன்`; scan 97 `இந்நிலே காதலிக்கும் உண்டு`; scan 98 `பனிரெண்டு`, `கட்டிலண்டை`; scan 99 `கொண்டதானது`, `ஓசைகேட்கவே`; scan 100 `நடன மாடுகிறது`, `லஸ்தர் விளக்கு`; scan 101 `வேலைகூடத்`, `சீசாமீது`, `கொப்பளித்துக்கிளம்பி`.
 
 Forward scan 112 preserves the physical scan-111/112 split `சிறிதா` + `வது`, confirms mandatory families including `பெண்ணையாவது` / `சிந்தாமணியை` (`ணை`), `பிள்ளை` / `களைப்பாயிருக்கும்` (`ளை`), `பாலைவனமாக்குவது` (`லை`), `மனைவிதான்` (`னை`), `நயினா` (`னா`), and retains source-genuine `கருதினன்`.
+
+Forward scan 113 confirms `உன்னை` / `என்னை` / `எத்தனையோ` / `தன்னையறியாமல்` (`னை`), `கண்களைத்` (`ளை`), `விரும்பவில்லை` / `தெரியவில்லை` (`லை`), and `நயினா` (`னா`); retains source-genuine `கூறினன்`, `பிடிகை`, `கூளம்`, `தவங்கிடந்து`, and `அவையடக்கம்போலவே`. Its final physical phrase continues on scan 114 with `பாசமும் பற்றும்...`.
 
 ## Confirmed chapter structure
 
@@ -160,8 +162,8 @@ Forward scan 112 preserves the physical scan-111/112 split `சிறிதா` 
 | 110 | 109 | body | verified | Corrective glyph audit PASS; `பெண்ணா?`; `புளுகினன்` retained |
 | 111 | 110 | body | verified | Corrective glyph audit PASS; ends physical `சிறிதா` |
 | 112 | 111 | body | verified | Chapter 13; forward glyph PASS; begins physical `வது` completing scan 111 `சிறிதா`; `கருதினன்` source-confirmed genuine |
-| 113 | pending | body | not-started | Forward work next |
-| 114 | pending | body | not-started | Forward work pending |
+| 113 | 112 | body | verified | Chapter 13; forward glyph PASS; `கூறினன்`, `பிடிகை`, `கூளம்`, `தவங்கிடந்து` source-confirmed; ends `ஆறுதல் கூறுவதற்கு ஒருவர் அருகே இருக்கும்போது` |
+| 114 | pending | body | not-started | Forward work next; begins continuation `பாசமும் பற்றும்...` |
 | 115 | pending | body | not-started | Forward work pending |
 | 116 | pending | body | not-started | Forward work pending |
 | 117 | pending | body | not-started |  |
@@ -230,4 +232,4 @@ Forward scan 112 preserves the physical scan-111/112 split `சிறிதா` 
 
 ## Exact next activity
 
-Continue forward canonical processing at **scan 113** and apply the mandatory historical-glyph checks directly from source pixels.
+Continue forward canonical processing at **scan 114** and apply the mandatory historical-glyph checks directly from source pixels. Preserve the physical continuation from scan 113.

@@ -18,14 +18,14 @@ Fetch live `main` first and preserve newer durable work.
 ## Current durable state
 
 - manifest **179 / 179**;
-- canonical records **112 / 179**;
+- canonical records **113 / 179**;
 - Chapter 12/13 boundary: **scan 107 / printed 106**, centered `13`;
-- Chapter 13 transcribed through **scan 112 / printed 111**;
-- historical-glyph coverage on existing canonical scans: **PASS scans 1–112**;
+- Chapter 13 transcribed through **scan 113 / printed 112**;
+- historical-glyph coverage on existing canonical scans: **PASS scans 1–113**;
 - retrospective historical-glyph re-audit: **PASS scans 1–101 / COMPLETE**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- prospective forward historical-glyph check: **PASS scan 112**;
-- forward transcription at scan 113: **NEXT**;
+- prospective forward historical-glyph check: **PASS scans 112–113**;
+- forward transcription at scan 114: **NEXT**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Critical historical-glyph rule
@@ -78,7 +78,17 @@ Retrospective scans **1–101 are complete / PASS**. Together with the already c
 - Source-specific `திருமணந்தான்`, `மனத்திலேயிருந்த`, and `அனுதாபந்தான்` remain exact.
 - No unresolved source cluster remains.
 
-Existing canonical historical-glyph coverage is now **PASS scans 1–112**.
+### Scan 113 / printed 112
+
+**VERIFIED / historical-glyph PASS.**
+
+- Mandatory-family confirmations include `உன்னை` / `என்னை` / `எத்தனையோ` / `தன்னையறியாமல்` (`னை`), `கண்களைத்` (`ளை`), `விரும்பவில்லை` / `தெரியவில்லை` (`லை`), and recurring `நயினா` (`னா`).
+- `கூறினன்` was independently checked against the missing-`ஆ` failure mode and retained; it is not normalized to `கூறினான்`.
+- Source-specific `பிடிகை`, `கூளம்`, `தவங்கிடந்து`, and `அவையடக்கம்போலவே` remain exact.
+- Final physical phrase `ஆறுதல் கூறுவதற்கு ஒருவர் அருகே இருக்கும்போது` continues on scan 114 with source-visible `பாசமும் பற்றும்...`.
+- No unresolved source cluster remains.
+
+Existing canonical historical-glyph coverage is now **PASS scans 1–113**.
 
 ## Preserve these structural/source decisions
 
@@ -126,16 +136,18 @@ Existing canonical historical-glyph coverage is now **PASS scans 1–112**.
 - scan 101 `கண் விழித்துப்`; ends `சிறிது நாழிகைக்குப் பிறகு ஆனந்தி`, continued on scan 102;
 - scan 107 mixed Chapter 12 / 13 with centered `13`;
 - scan 111 / 112 physical split `சிறிதா` + `வது` preserved as `சிறிதாவது`;
-- scan 112 `கருதினன்` source-confirmed genuine.
+- scan 112 `கருதினன்` source-confirmed genuine;
+- scan 113 `கூறினன்` source-confirmed genuine; scan 113/114 sentence continues with scan 114 `பாசமும் பற்றும்...`.
 
 ## Exact next activity
 
 1. re-fetch live `main`;
 2. resolve the controlling PDF;
-3. continue forward canonical processing at **scan 113**;
-4. apply the mandatory 13-family historical-glyph check directly from source pixels before encoding;
-5. preserve source spelling, punctuation, spacing, colloquial forms, and page/chapter boundaries;
-6. synchronize page records, page-map, audit, README/status/handover documents and commit.
+3. continue forward canonical processing at **scan 114**;
+4. preserve the scan-113/114 physical continuation;
+5. apply the mandatory 13-family historical-glyph check directly from source pixels before encoding;
+6. preserve source spelling, punctuation, spacing, colloquial forms, and page/chapter boundaries;
+7. synchronize page records, page-map, audit, README/status/handover documents and commit.
 
 Do not start assembled Tamil or English.
 
