@@ -11,13 +11,14 @@
 - actual PDF scan count: **179**; size **251,126,214 bytes**;
 - SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`;
 - page manifest: **179 / 179**;
-- canonical page records: **111 / 179**;
+- canonical page records: **112 / 179**;
 - Chapter 12/13 boundary: **scan 107 / printed 106**, centered `13`;
-- Chapter 13 transcribed through scan 111 / printed 110;
-- historical-glyph coverage on existing canonical scans: **PASS scans 1–111**;
+- Chapter 13 transcribed through scan 112 / printed 111;
+- historical-glyph coverage on existing canonical scans: **PASS scans 1–112**;
 - retrospective historical-glyph re-audit: **PASS scans 1–101 / COMPLETE**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- forward scan 112: **unblocked / next**;
+- prospective forward historical-glyph check: **PASS scan 112**;
+- forward scan 113: **next**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Mandatory historical-glyph rule
@@ -119,7 +120,19 @@ Character identity is decided from enlarged/native source pixels first. Grammar 
 
 ## Historical-glyph gate status
 
-The earlier pass sometimes treated old Tamil metal-type shapes as modern look-alikes. Corrective scans **102–111** demonstrated the failure mode with confirmed corrections including `நன்றாகக்`, `தவறாக`, `என்றாள்`, multiple missing-`ஆ` forms, `சொன்னா`, and `பெண்ணா?`. The retrospective re-audit of scans **1–101 is now complete**, and together with corrective scans **102–111**, all existing canonical scans **1–111** have direct historical-glyph coverage. Future forward pages must continue the same source-pixel rule; no blanket morphological correction is permitted.
+The earlier pass sometimes treated old Tamil metal-type shapes as modern look-alikes. Corrective scans **102–111** demonstrated the failure mode with confirmed corrections including `நன்றாகக்`, `தவறாக`, `என்றாள்`, multiple missing-`ஆ` forms, `சொன்னா`, and `பெண்ணா?`. The retrospective re-audit of scans **1–101 is now complete**, and together with corrective scans **102–111**, all canonical scans **1–111** have direct historical-glyph coverage. Forward scan **112** has now also passed the same mandatory source-pixel check, so existing canonical coverage is **PASS scans 1–112**. Future forward pages must continue the same rule; no blanket morphological correction is permitted.
+
+## Forward canonical processing
+
+### Scan 112 / printed 111
+
+**VERIFIED / historical-glyph PASS.**
+
+- opening physical `வது` completes scan 111 final `சிறிதா`, forming cross-page `சிறிதாவது`;
+- mandatory-family checks include `பெண்ணையாவது` / `சிந்தாமணியை` (`ணை`), `பிள்ளை` / `களைப்பாயிருக்கும்` (`ளை`), `பாலைவனமாக்குவது` (`லை`), `மனைவிதான்` (`னை`), and recurring `நயினா` (`னா`);
+- `கருதினன்` was independently checked against the missing-`ஆ` failure mode and retained as source-exact rather than normalized to `கருதினான்`;
+- source-specific `திருமணந்தான்`, `மனத்திலேயிருந்த`, and `அனுதாபந்தான்` are preserved;
+- no unresolved source cluster remains.
 
 ## Durable source / structure decisions
 
@@ -159,15 +172,16 @@ The earlier pass sometimes treated old Tamil metal-type shapes as modern look-al
 - scan 99 both `நன்றாகத்` (`றா`); mixed Chapter 11 / 12 with centered `12`;
 - scan 101 `கண் விழித்துப்`; retrospective audit closure;
 - scan 107 mixed Chapter 12 / 13 with centered `13`;
-- scan 111 ends `சிறிதா`; scan 112 begins `வது`.
+- scan 111 / 112 physical split `சிறிதா` + `வது` preserved as `சிறிதாவது`;
+- scan 112 `கருதினன்` is source-confirmed genuine.
 
 ## Key records
 
 - [`metadata/source.md`](metadata/source.md)
 - [`indexes/page-map.md`](indexes/page-map.md)
 - [`audit.md`](audit.md)
-- canonical pages through [`pages/0111-vellikkizhamai-108.md`](pages/0111-vellikkizhamai-108.md)
+- canonical pages through [`pages/0112-vellikkizhamai-109.md`](pages/0112-vellikkizhamai-109.md)
 
 ## Exact next activity
 
-Resume forward canonical processing at **scan 112** using the same direct source-pixel historical-glyph checks on every new scan. Do not start assembled Tamil or English.
+Continue forward canonical processing at **scan 113** using the same direct source-pixel historical-glyph checks. Do not start assembled Tamil or English.
