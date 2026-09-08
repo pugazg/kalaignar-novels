@@ -18,105 +18,78 @@ Fetch live `main` first and preserve newer durable work.
 ## Current durable state
 
 - manifest **179 / 179**;
-- canonical records **133 / 179**;
-- Chapter 12 / 13 boundary: **scan 107 / printed 106**, centered `13`;
-- Chapter 13 / 14 boundary: **scan 115 / printed 114**, centered `14`;
+- canonical records **138 / 179**;
 - Chapter 14 / 15 boundary: **scan 120 / printed 119**, centered `15`;
-- Chapter 16 transcribed through **scan 133 / printed 132**;
-- historical-glyph coverage: **PASS scans 1–133**;
-- next forward iteration: **scans 134–138**;
-- batch size: **5 scans per iteration**;
+- Chapter 16 opens: **scan 127 / printed 126**, centered `16`;
+- Chapter 16 / 17 boundary: **scan 134 / printed 133**, centered `17`;
+- Chapter 17 transcribed through **scan 138 / printed 137**;
+- historical-glyph coverage: **PASS scans 1–138**;
+- next forward iteration: **scans 139–143**;
+- batch size: **5 scans**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
 ## Critical historical-glyph rule
 
-Mandatory set on every scan:
+Mandatory set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Identify character identity from enlarged/native source pixels first. Grammar is only a locator, never proof. Preserve source spelling, grammar, punctuation, spacing and colloquial forms. Never global-replace.
+Identify character identity from source pixels first. Grammar is only a locator, never proof. Preserve source spelling, grammar, punctuation, spacing and colloquial forms. Never global-replace.
 
-### Expanded corrective re-audit — controlling lesson
+The expanded corrective re-audit remains controlling. Apparent short-looking old type must be checked against same-edition forms before classification. Independently source-confirmed forms such as `வேலையில்ல`, `வரணும்`, `நானு`, recurring **`நயினா`**, scan 114 `அப்படித்தான் ஆவள்`, and later source-specific clusters remain unchanged.
 
-Earlier audit status falsely classified multiple old-type `னா` / `றா` shapes as genuine short-looking `னன்` / `னள்` / `னு` forms. Those claims are superseded by source-pixel comparison and the corrected canonical records.
+## Production workflow
 
-Do **not** convert by grammar. Independently confirmed source-specific forms remain, including `வேலையில்ல`, `வரணும்`, `நானு`, recurring **`நயினா`**, scan 114 **`அப்படித்தான் ஆவள்`**, and the source-specific spellings and physical discontinuities preserved on scans 119–133.
+For each 5-scan batch:
 
-An apparent `னன்` / `னள்` / `னு` must be compared with same-edition historical type at enlarged/native resolution before it can be called genuine.
+1. fetch live `main` once;
+2. transcribe all five full pages first;
+3. run one batch-level mandatory 13-family glyph sweep;
+4. allow at most one targeted enlargement for a genuinely unclear token;
+5. if still unresolved, record a source hold and continue;
+6. create five page records and synchronize audit/page-map/README/HANDOVER/prompt together;
+7. make one atomic commit;
+8. do not reopen prior PASS scans without new source evidence.
 
-## Historical-glyph coverage
+## Recent durable results
 
-- scans **1–101**: retrospective audit performed;
-- scans **102–111**: corrective audit performed;
-- scans **112–118**: forward audit performed;
-- expanded corrective re-audit repaired old-type `னா` / `றா` misses across the existing corpus;
-- scans **119–133**: mandatory forward source-pixel audit performed;
-- canonical scans **1–133 are PASS**.
+- scan 129 / 130: physical `அழகப்ப` + `னுடைய` = `அழகப்பனுடைய`;
+- scan 130 bottom `9` printer/signature mark;
+- scan 131 / 132: physical `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`;
+- scan 134: mixed Chapter 16 / 17 boundary, centered `17`; preserve `முழுசம்`, `எழுதியிட்டான்`; ends `நயினாவின்`;
+- scan 135: begins `கேள்வி`; preserve `பார்த்து.`, `செளக்கியந்தானே!`, `இப்படி யென்றால்`; ends `வருத்தத்`;
+- scan 136: begins `தோடு`, completing `வருத்தத்தோடு`; preserve `சொல்லுகிறாளாக்கும்`, `பதிலக் கேள்வி`;
+- scan 137: preserve `சிக்கலங்கிப்போயிருக்கிறோம்`; ends open quote `“இதோ,`;
+- scan 138: begins `கொண்டுவருகிறேன்”`; preserve `வந்துவிட்டுமா?`; ends literal `‘மளமள’`.
 
-## Recent forward results
+## Structural/source decisions to preserve
 
-- scan 119: continues source-visible `வருகிறேன்.........`; `ஓடினாள்` confirmed; preserve `பதைக்`, `வஞ்சங்`, `நச்சரவு`, `ஜாடையாக`; ends `கவனித்து`;
-- scan 120: begins `விட்டான்.`; mixed Chapter 14 / 15 with centered `15`; `நின்றாள்` and one `எண்ணினான்` confirmed; previous “both `எண்ணினான்`” target note superseded; separate `ஏங்கினான்` retained;
-- scan 121: `குமுறினாள்`, `அலறினாள்`, both `ஓடினான்`; preserve `கரந்தொட்டுப்`, `ஆத்திரமனைத்தையும்`, `புறப்படத்தயாராக`; ends `வண்டியில்`;
-- scan 122: `வருகிறானா`, `போகிறாள்`, `கிளம்பியிருக்கிறாள்`; preserve `தீமரென`, `தொத்திக்கொண்டான்`, `பலகணி`; ends `சிந்தாமணி, அவளுக்குப் பக்கத்திலே`;
-- scan 123: literal physical opening `கார்ந்து கொண்டாள்.` retained; `நோக்கினாள்`, `நன்றாகக்`, `தோன்றினாள்`; disputed lexical clusters resolved as `மாது சிரோன்மணி`, `தண்டனைகளையெல்லாம்விட`, `கதவண்டை`; ends `கவனித்தாள்.`.
-
-- scan 124: `வயதானவளை`, `ஏற்றிக்கொண்டிருந்தான்`; ends `புகை`;
-- scan 125: begins `வண்டி` → cross-page `புகைவண்டி`; preserve `சூடேறிவிட்டது`, `வனைத்`, `அழகப்பனைத்`;
-- scan 126: `நாலைந்து`, `திடுதிடுவென`, `ஏறினார்கள்`, `கதவண்டை`;
-- scan 127: Chapter 16 opening centered `16`; preserve `புறக்கூடு`, `புடைசூழ`; ends `வாழ்`;
-- scan 128: begins `விலே` → cross-page `வாழ்விலே`; preserve `அவனைச் சூழ்ந்தது`; ends `ஏறும்போது`.
-- scan 129: begins `அவளை`, continuing scan 128; preserve `விழலுக்கிறைத்த`, `மனிதப்புழு`, `சிந்துவாற்றுச்`; ends `அழகப்ப`;
-- scan 130: begins `னுடைய` → `அழகப்பனுடைய`; historical `நயினா`; source `மங்காகர`; bottom `9` printer/signature mark;
-- scan 131: historical `நயினாமுகம்மது`, `நயினாவின்`; ends `பின்னிக்`;
-- scan 132: begins `கொண்டன;` → `பின்னிக்கொண்டன`; historical `நயினாவிடமிருந்து`, both `என்றால்`;
-- scan 133: historical `நயினா முகம்மது`, `நயினாவுக்கு`, `நகை நட்டுக்களை`; ends complete sentence.
-
-## Preserve structural/source decisions
-
-- scan 33 Chapter 3 / 4, centered `4`;
-- scan 45 Chapter 4 / 5, centered `5`;
-- scan 52 Chapter 6 opening, centered `6`;
-- scan 59 Chapter 6 / 7, centered `7`;
 - scan 66 visible printed number only `5`;
-- scan 68 Chapter 7 / 8, centered `8`;
-- scan 75 Chapter 8 / 9, centered `9`;
 - scan 82 bottom `6` printer/signature mark;
-- scan 85 Chapter 9 / 10, centered `10`;
 - scan 89 / 90 `மறுத்துவிட்` + `டால்`;
-- scan 92 Chapter 10 / 11, centered `11`;
 - scan 98 bottom `7` printer/signature mark;
-- scan 99 Chapter 11 / 12, centered `12`;
-- scan 107 Chapter 12 / 13, centered `13`;
-- scan 111 / 112 `சிறிதா` + `வது`;
+- scan 111 / 112 `சிறிதா` + `வது` = `சிறிதாவது`;
 - scan 114 bottom `8` printer/signature mark;
-- scan 115 Chapter 13 / 14, centered `14`;
 - scan 117 / 118 literal `உட்` → `எவ்வளவோ...` source discontinuity;
-- scan 118 / 119 open dialogue continuation;
 - scan 119 / 120 `கவனித்து` → `விட்டான்.`;
-- scan 120 Chapter 14 / 15, centered `15`;
-- scan 121 / 122 `வண்டியில்` → `ஒரே கூட்டம்.`;
 - scan 122 / 123 literal `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`; no grammatical reconstruction;
 - scan 124 / 125 `புகை` + `வண்டி` = `புகைவண்டி`;
-- scan 127 Chapter 16 opening, centered `16`;
 - scan 127 / 128 `வாழ்` + `விலே` = `வாழ்விலே`;
-- scan 128 ends `ஏறும்போது`.
-- scan 128 / 129 direct continuation `ஏறும்போது` → `அவளை...`;
 - scan 129 / 130 `அழகப்ப` + `னுடைய` = `அழகப்பனுடைய`;
-- scan 130 bottom `9` printer/signature mark;
 - scan 131 / 132 `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`;
-- scan 133 ends complete sentence.
+- scan 134 / 135 `நயினாவின்` → `கேள்வி`;
+- scan 135 / 136 `வருத்தத்` + `தோடு` = `வருத்தத்தோடு`;
+- scan 137 / 138 `“இதோ,` → `கொண்டுவருகிறேன்”`;
+- scan 138 ends `‘மளமள’`; continue only from direct scan-139 evidence.
 
 ## Exact next activity
 
 1. re-fetch live `main`;
 2. resolve controlling source;
-3. process **scans 134–138** in one 5-page iteration;
-4. preserve the durable scan 129 / 130 and scan 131 / 132 physical splits; establish scan 134 only from direct source pixels;
-5. transcribe all five pages first, then run one mandatory 13-family batch sweep;
-6. allow at most one targeted enlargement per genuinely unclear token; if still unresolved, record a source hold and continue;
-7. preserve source wording and physical boundaries; never infer from grammar or global-replace;
-8. synchronize page records, audit, page-map, README/status/handover documents and commit.
+3. process **scans 139–143** in one bounded 5-page iteration;
+4. establish scan 139 only from direct source pixels after scan 138's literal `‘மளமள’`;
+5. run one batch glyph sweep and bounded ambiguity handling;
+6. synchronize page records and status documents and commit atomically.
 
 Do not start assembled Tamil or English.
 
