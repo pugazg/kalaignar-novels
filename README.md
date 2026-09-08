@@ -23,12 +23,13 @@
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **118 / 179**;
+- canonical page records: **123 / 179**;
 - Chapter 12 / 13 boundary: **scan 107 / printed 106**, centered `13`;
 - Chapter 13 / 14 boundary: **scan 115 / printed 114**, centered `14`;
-- Chapter 14 transcribed through **scan 118 / printed 117**;
-- historical-glyph coverage on existing canonical scans: **PASS scans 1–118 after expanded corrective re-audit**;
-- forward transcription: **next 5-page iteration scans 119–123**;
+- Chapter 14 / 15 boundary: **scan 120 / printed 119**, centered `15`;
+- Chapter 15 transcribed through **scan 123 / printed 122**;
+- historical-glyph coverage on existing canonical scans: **PASS scans 1–123**;
+- forward transcription: **next 5-page iteration scans 124–128**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
 - English translation: **blocked until Tamil gate passes**.
@@ -41,19 +42,15 @@ Use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRA
 
 Identify character identity from source pixels first. Grammar is only a locator. Preserve source spelling, grammar, punctuation, spacing and colloquial forms. Never global-replace.
 
-The expanded corrective re-audit overturned earlier false “genuine counterexample” readings caused by old-type `னா` / `றா` shapes. Corrected canonical examples include `வந்துவிட்டானா`, `வயதினாள்`, `பருவத்தினாள்`, `விரும்பினான்`, `பொய்தானா?`, `பேசினான்`, `நோக்கினான்`, `மாறினாள்`, `கத்தினாள்`, `நீட்டினான்`, `அமர்த்தினான்`, `பொத்தினான்`, `தொடங்கினாள்`, `கருதினான்`, and `கூறினான்`.
-
-This is not a grammar-normalization rule. Independently source-confirmed forms such as `வேலையில்ல`, `வரணும்`, `நானு`, recurring **`நயினா`**, and scan 114 `அப்படித்தான் ஆவள்` remain unchanged.
+The expanded corrective re-audit overturned earlier false “genuine counterexample” readings caused by old-type `னா` / `றா` shapes. This is not a grammar-normalization rule. Independently source-confirmed forms such as `வேலையில்ல`, `வரணும்`, `நானு`, recurring **`நயினா`**, scan 114 `அப்படித்தான் ஆவள்`, and source-specific forms on scans 119–123 remain unchanged.
 
 ### Recent forward results
 
-- scan 112 / printed 111: PASS; physical `சிறிதா` + `வது` = `சிறிதாவது`; corrected `கருதினான்`;
-- scan 113 / printed 112: PASS; corrected `கூறினான்`; ends `ஆறுதல் கூறுவதற்கு ஒருவர் அருகே இருக்கும்போது`;
-- scan 114 / printed 113: PASS; continues `பாசமும் பற்றும்...`; preserve `அப்படித்தான் ஆவள்`, `சீழ்`, `அமராழ்`; corrected `கதறினாள்`, `முனகினாள்`; bottom `8` printer/signature mark;
-- scan 115 / printed 114: PASS; mixed Chapter 13 / 14, centered `14`; source `சூடான`, `கண்டு பிடித்த`, `நமைச்சலுக்கு`;
-- scan 116 / printed 115: PASS; `தவறாகக்`, `சித்திரப் புள்`, `பூர்வ ஜென்ம பூஜாபலன்`; corrected `தொடங்கினாள்`;
-- scan 117 / printed 116: PASS; corrected `கதறினாள்`, `கத்தினாள்`; physical final source `உட்` retained without inventing a completion;
-- scan 118 / printed 117: PASS; corrected both `கிளம்பினாள்`; begins `எவ்வளவோ முயன்றும் நடக்கவில்லை.`; final dialogue continues to scan 119 with source-visible `வருகிறேன்.........`.
+- scan 119 / printed 118: PASS; continues `வருகிறேன்.........`; source-confirmed `ஓடினாள்`; ends `கவனித்து`;
+- scan 120 / printed 119: PASS; begins `விட்டான்.`; mixed Chapter 14 / 15, centered `15`; source-confirmed `நின்றாள்` and one `எண்ணினான்`; separate `ஏங்கினான்` retained;
+- scan 121 / printed 120: PASS; `குமுறினாள்`, `அலறினாள்`, both `ஓடினான்`; ends `வண்டியில்`;
+- scan 122 / printed 121: PASS; `வருகிறானா`, `போகிறாள்`, `கிளம்பியிருக்கிறாள்`; ends `சிந்தாமணி, அவளுக்குப் பக்கத்திலே`;
+- scan 123 / printed 122: PASS; literal opening `கார்ந்து கொண்டாள்.` retained; `நோக்கினாள்`, `நன்றாகக்`, `தோன்றினாள்`; source-resolved `மாது சிரோன்மணி`, `தண்டனைகளையெல்லாம்விட`, `கதவண்டை`.
 
 ## Completed works
 
@@ -65,4 +62,4 @@ This is not a grammar-normalization rule. Independently source-confirmed forms s
 
 ## Next activity
 
-Process **scans 119–123** as one 5-page forward iteration. Preserve the scan 118 / 119 continuation and apply direct source-pixel historical-glyph checks on every scan. Do not start assembled Tamil or English.
+Process **scans 124–128** as one 5-page forward iteration. Re-establish scan 123 / 124 continuity from the controlling source and apply direct source-pixel historical-glyph checks on every scan. Do not start assembled Tamil or English.
