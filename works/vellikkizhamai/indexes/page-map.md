@@ -9,29 +9,27 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - canonical page records: **118 / 179**;
 - body transcription: **through scan 118 / printed 117**;
 - Chapter 13 / 14 boundary: **scan 115 / printed 114**, centered `14`;
-- existing canonical historical-glyph coverage: **PASS scans 1–118**;
-- retrospective historical-glyph re-audit: **PASS scans 1–101 / COMPLETE**;
-- corrective historical-glyph re-audit: **PASS scans 102–111**;
-- prospective forward historical-glyph check: **PASS scans 112–118**;
+- canonical historical-glyph coverage: **PASS scans 1–118 after expanded corrective re-audit**;
 - scans 62–65 directly map to printed pages **61–64**;
 - scan 66 visibly prints only **`5`**; `65` is not inferred;
 - scans 67–118 directly map to printed pages **66–117**;
-- forward canonical processing is **next at scan 119**, with **5 scans per iteration**;
+- source mapping for scans **119–123** confirms printed **118–122** and the Chapter 14 / 15 boundary on scan **120**, but canonical transcription is still pending;
+- forward canonical processing is **next at scans 119–123**, with **5 scans per iteration**;
 - printed-page values marked `pending` are not inferred.
 
 ## Durable correction
 
 Recurring character name: **`நயினா`**, not `நயினு`. Scan 34 supplies the same-edition witness `நயினா என்பது நயினாமுகம்மது என்ற பெயரின் சுருக்கம்`.
 
-## Historical-glyph closure and forward coverage
+## Historical-glyph closure and expanded corrective re-audit
 
 The mandatory source-pixel family set is `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Grammar is only a locator; source wording is not normalized and global replacement is prohibited.
 
-Retrospective scans **1–101** are complete; corrective scans **102–111** are PASS; forward scans **112–118** are PASS. Every existing canonical scan **1–118** therefore has direct historical-glyph coverage.
+The earlier audit incorrectly classified several old-type `னா` / `றா` shapes as genuine `னன்` / `னள்` / `னு` forms. The expanded corrective re-audit supersedes those claims. Current canonical scans **1–118 are PASS after correction**.
 
-Key durable corrections through scan 101 include scan 4 `பெருகிவிடுகிறது`; scan 38 `களைப்பின்`; scan 40 `என்னையாவது`, `அவர்களை`, `கைவற்றுப்போனான்`; scan 42 `பொருத்தம்`, `சனதன`; scan 52 `பாலையூர்`; scan 54 `விரும்பினன்`; scan 57 `நிலநாட்டும்`; scan 79 `தலையிலே`; scan 80 `கர்ப்பமாக`; scan 81 `கன்னி கழியாத`; scan 82 `பின்னர் பீறிட்டு`; scan 83 `திருமணமா?`; scan 85 `மருத்துவ மனையின்`; scan 87 `மாறாக`; scan 91 `கருதினாலும்`; scan 98 `நன்றாக`; scan 99 both `நன்றாகத்`; scan 101 `கண் விழித்துப்`. Genuine counterexamples such as `மாறினள்`, `கத்தினள்`, `நீட்டினன்`, `அமர்த்தினன்`, `பொத்தினன்`, `தொடங்கினள்`, `கருதினன்`, and `கூறினன்` are source-confirmed and are not grammar-normalized.
+Key corrected readings include scan 19 `வந்துவிட்டானா`; scan 23 `வயதினாள்`; scan 53 `பருவத்தினாள்`; scan 54 `விரும்பினான்`; scan 62 `பொய்தானா?`, `பேசினான்`; scan 63 `நோக்கினான்`; scan 90 `மாறினாள்`, `கத்தினாள்`; scan 91 `மாற்றினான்`, `கூறினான்`, `நிறுத்தினான்`; scan 92 `நீட்டினான்`, `துரிதப்படுத்தினான்`, `அமர்த்தினான்`; scan 93 `பொத்தினான்`; scan 95 `தொடங்கினாள்`; scan 96 `கிடத்தினான்`; scan 109 `கூறினான்`, `சொன்னான்`; scan 110 `புளுகினான்`; scan 112 `கருதினான்`; scan 113 `கூறினான்`; scan 114 `கதறினாள்`, `முனகினாள்`; scan 116 `தொடங்கினாள்`; scan 117 `கதறினாள்`, `கத்தினாள்`; scan 118 both `கிளம்பினாள்` occurrences.
 
-Forward scans 114–118 preserve source-specific forms including scan 114 `அப்படித்தான் ஆவள்`, `கதறினள்`, `முனகினள்`, `அமராழ்`; scan 115 `சூடான`, `கண்டு பிடித்த`, `நமைச்சலுக்கு`; scan 116 `தவறாகக்`, `சித்திரப் புள்`, `பூர்வ ஜென்ம பூஜாபலன்`, `தொடங்கினள்`; scan 117 genuine `கத்தினள்`, `கல்லெடுப்பும்`; scan 118 `களங்கப் பனியை`, `பத்தரைமாற்றுத்`, `கல்யாணந்தானே`, `தணலாயிருக்கிறது`.
+These corrections do not authorize grammatical modernization. Independently verified source-specific forms such as `வேலையில்ல`, `வரணும்`, `நானு`, recurring `நயினா`, and scan 114 `அப்படித்தான் ஆவள்` remain unchanged.
 
 ## Confirmed chapter structure
 
@@ -48,7 +46,8 @@ Forward scans 114–118 preserve source-specific forms including scan 114 `அ�
 - scan 92 — mixed Chapter 10 / Chapter 11, centered `11`;
 - scan 99 — mixed Chapter 11 / Chapter 12, centered `12`;
 - scan 107 — mixed Chapter 12 / Chapter 13, centered `13`;
-- scan 115 — mixed Chapter 13 / Chapter 14, centered `14`.
+- scan 115 — mixed Chapter 13 / Chapter 14, centered `14`;
+- scan 120 — mixed Chapter 14 / Chapter 15, centered `15` (**source mapped; canonical transcription pending**).
 
 ## Page inventory
 
@@ -70,13 +69,13 @@ Forward scans 114–118 preserve source-specific forms including scan 114 `அ�
 | 14 | 13 | body | verified | Chapter 2; audit PASS |
 | 15 | 14 | body | verified | Chapter 2; audit PASS |
 | 16 | 15 | body | verified | Chapter 2; audit PASS |
-| 17 | 16 | body | verified | Chapter 2; `வேலையில்ல` genuine |
+| 17 | 16 | body | verified | Chapter 2; source-specific `வேலையில்ல` |
 | 18 | 17 | body | verified | Chapter 2; audit PASS |
-| 19 | 18 | body | verified | Chapter 2; `வந்துவிட்டானு` genuine |
+| 19 | 18 | body | verified | Chapter 2; expanded re-audit `வந்துவிட்டானா` |
 | 20 | 19 | body | verified | Chapter 2; audit PASS |
-| 21 | 20 | body | verified | Chapter 2; `வரணும்` genuine |
+| 21 | 20 | body | verified | Chapter 2; source-specific `வரணும்` |
 | 22 | 21 | body | verified | Chapter 2; audit PASS |
-| 23 | 22 | body / chapter opening | verified | Chapter 3 opening; `வயதினள்` genuine |
+| 23 | 22 | body / chapter opening | verified | Chapter 3 opening; expanded re-audit `வயதினாள்` |
 | 24 | 23 | body | verified | Chapter 3; audit PASS |
 | 25 | 24 | body | verified | Chapter 3; audit PASS |
 | 26 | 25 | body | verified | Chapter 3; audit PASS |
@@ -106,8 +105,8 @@ Forward scans 114–118 preserve source-specific forms including scan 114 `அ�
 | 50 | 49 | body | verified | Chapter 5; `ஏமுட்டான்`, `புறப்படடா` retained |
 | 51 | 50 | body | verified | Chapter 5 ending; audit PASS |
 | 52 | 51 | body / chapter opening | verified | Chapter 6; centered `6`; `குபு குபு`, `அவங்களுக்கே தான்`, `பாலையூர்`, `பாலையூர் மருத்துவ மனையில்` |
-| 53 | 52 | body | verified | Chapter 6; `பருவத்தினள்` genuine; ends `அனுப்பப்பட்டிருக்க` |
-| 54 | 53 | body | verified | Chapter 6; `விரும்பினன்`, `இந்த மன தத்துவத்தை`; begins `கிறார்கள்` |
+| 53 | 52 | body | verified | Chapter 6; expanded re-audit `பருவத்தினாள்`; ends `அனுப்பப்பட்டிருக்க` |
+| 54 | 53 | body | verified | Chapter 6; expanded re-audit `விரும்பினான்`; source `இந்த மன தத்துவத்தை`; begins `கிறார்கள்` |
 | 55 | 54 | body | verified | Chapter 6; `மருத்துவ மனையிலிருந்து` |
 | 56 | 55 | body | verified | Chapter 6; `எடுத்துக் காட்டும்`, `பொறுத்துக் கொள்ள` |
 | 57 | 56 | body | verified | Chapter 6; `நிலநாட்டும்` |
@@ -115,8 +114,8 @@ Forward scans 114–118 preserve source-specific forms including scan 114 `அ�
 | 59 | 58 | body / chapter boundary | verified | Mixed Chapter 6 / 7; centered `7`; audit PASS |
 | 60 | 59 | body | verified | Chapter 7; `அருகிலே இருந்தது` |
 | 61 | 60 | body | verified | Chapter 7; audit PASS |
-| 62 | 61 | body | verified | Chapter 7; `பொய்தானு`, `பேசினன்` retained |
-| 63 | 62 | body | verified | Chapter 7; `நோக்கினன்` retained |
+| 62 | 61 | body | verified | Chapter 7; expanded re-audit `பொய்தானா?`, `பேசினான்` |
+| 63 | 62 | body | verified | Chapter 7; expanded re-audit `நோக்கினான்` |
 | 64 | 63 | body | verified | Chapter 7; audit PASS |
 | 65 | 64 | body | verified | Chapter 7; audit PASS |
 | 66 | 5 | body | verified | Chapter 7; source visibly prints only `5`; never infer `65` |
@@ -141,15 +140,15 @@ Forward scans 114–118 preserve source-specific forms including scan 114 `அ�
 | 85 | 84 | body / chapter boundary | verified | Mixed Chapter 9 / 10; centered `10`; `மருத்துவ மனையின்` |
 | 86 | 85 | body | verified | Chapter 10; `அநேகமாக`, `முடிவு முற்றுவிட்டது`, `பூர்த்தி செய்து`; final question continues to scan 87 |
 | 87 | 86 | body | verified | Chapter 10; `கேட்டதுபோல`, `மாறாக` (`றா`); ends `ஆனந்திக்கு உன்னையும்` |
-| 88 | 87 | body | verified | Chapter 10; `நானு` retained |
+| 88 | 87 | body | verified | Chapter 10; source-specific `நானு` |
 | 89 | 88 | body | verified | Chapter 10; ends physical `மறுத்துவிட்` |
-| 90 | 89 | body | verified | Chapter 10; begins physical `டால்`; `மாறினள்`, `கத்தினள்` retained |
-| 91 | 90 | body | verified | Chapter 10; `கருதினாலும்` (`னா`), `உதவி புரிவதுபோல`; ends `என்று எட்டணா பணத்தையும்` |
-| 92 | 91 | body / chapter boundary | verified | Mixed Chapter 10 / 11; centered `11`; genuine `நீட்டினன்`, `துரிதப்படுத்தினன்`, `அமர்த்தினன்` |
-| 93 | 92 | body | verified | Chapter 11; `பொத்தினன்` retained |
+| 90 | 89 | body | verified | Chapter 10; begins physical `டால்`; expanded re-audit `மாறினாள்`, `கத்தினாள்` |
+| 91 | 90 | body | verified | Chapter 10; `கருதினாலும்`; expanded re-audit `மாற்றினான்`, `கூறினான்`, `நிறுத்தினான்`; ends `என்று எட்டணா பணத்தையும்` |
+| 92 | 91 | body / chapter boundary | verified | Mixed Chapter 10 / 11; centered `11`; expanded re-audit `நீட்டினான்`, `துரிதப்படுத்தினான்`, `அமர்த்தினான்` |
+| 93 | 92 | body | verified | Chapter 11; expanded re-audit `பொத்தினான்` |
 | 94 | 93 | body | verified | Chapter 11; `தொடங்கினார்`, `புறக்கப்போகிறேன்` retained |
-| 95 | 94 | body | verified | Chapter 11; `தொடங்கினள்`, `பயந்தோடிக்`, `முக்கிய வாசிக் கதை` retained |
-| 96 | 95 | body | verified | Chapter 11; `வெளித்தாவரத்திலே`, `கிடத்தினன்` retained |
+| 95 | 94 | body | verified | Chapter 11; expanded re-audit `தொடங்கினாள்`; preserve `பயந்தோடிக்`, `முக்கிய வாசிக் கதை` |
+| 96 | 95 | body | verified | Chapter 11; `வெளித்தாவரத்திலே`; expanded re-audit `கிடத்தினான்` |
 | 97 | 96 | body | verified | Chapter 11; `இந்நிலே காதலிக்கும் உண்டு` retained |
 | 98 | 97 | body | verified | Chapter 11; `நன்றாக` (`றா`); bottom `7` printer/signature mark |
 | 99 | 98 | body / chapter boundary | verified | Mixed Chapter 11 / 12; centered `12`; both `நன்றாகத்` (`றா`) |
@@ -158,25 +157,25 @@ Forward scans 114–118 preserve source-specific forms including scan 114 `அ�
 | 102 | 101 | body | verified | Corrective glyph audit PASS; `ஆட்டினாள்` |
 | 103 | 102 | body | verified | Corrective glyph audit PASS; `நன்றாகக்`, `கத்தினாள்`; ends `சொல்லு` |
 | 104 | 103 | body | verified | Corrective glyph audit PASS; begins `கிறேன்`; `கூறினாள்`; ends `உபசரிக்கிற` |
-| 105 | 104 | body | verified | Corrective glyph audit PASS; no confirmed historical correction; ends `கட்டிப்போட்டது உன்` |
+| 105 | 104 | body | verified | Corrective glyph audit PASS; ends `கட்டிப்போட்டது உன்` |
 | 106 | 105 | body | verified | Corrective glyph audit PASS; `திருப்பினாள்`, `என்றாள்`, `நன்றாகக்`, `தவறாக`; ends `அவள் கண்களில்` |
 | 107 | 106 | body / chapter boundary | verified | Corrective glyph audit PASS; mixed Chapter 12 / 13; centered `13`; ends `தப்பித்துவிட` |
 | 108 | 107 | body | verified | Corrective glyph audit PASS; `திமிறினான்`, `நடுங்கினாள்` |
-| 109 | 108 | body | verified | Corrective glyph audit PASS; `சொன்னா`, `பொய்தானா?`; `கூறினன்` / `சொன்னன்` retained |
-| 110 | 109 | body | verified | Corrective glyph audit PASS; `பெண்ணா?`; `புளுகினன்` retained |
+| 109 | 108 | body | verified | Expanded re-audit `கூறினான்`, `சொன்னான்`; `சொன்னா`, `பொய்தானா?` |
+| 110 | 109 | body | verified | Expanded re-audit `புளுகினான்`; `பெண்ணா?` |
 | 111 | 110 | body | verified | Corrective glyph audit PASS; ends physical `சிறிதா` |
-| 112 | 111 | body | verified | Chapter 13; forward glyph PASS; begins `வது` completing scan 111 `சிறிதா`; `கருதினன்` genuine |
-| 113 | 112 | body | verified | Chapter 13; forward glyph PASS; `கூறினன்`, `பிடிகை`, `கூளம்`, `தவங்கிடந்து`; ends `ஆறுதல் கூறுவதற்கு ஒருவர் அருகே இருக்கும்போது` |
-| 114 | 113 | body | verified | Chapter 13; forward glyph PASS; begins continuation `பாசமும் பற்றும்...`; bottom `8` printer/signature mark; `அமராழ்`, `கதறினள்`, `முனகினள்` retained |
-| 115 | 114 | body / chapter boundary | verified | Mixed Chapter 13 / 14; centered `14`; forward glyph PASS; `சூடான`, `கண்டு பிடித்த`, `நமைச்சலுக்கு` retained |
-| 116 | 115 | body | verified | Chapter 14; forward glyph PASS; `தவறாகக்` (`றா`), `சித்திரப் புள்`, `பூர்வ ஜென்ம பூஜாபலன்`; ends `நான் யாருக்கு என்ன துரோகம்` |
-| 117 | 116 | body | verified | Chapter 14; forward glyph PASS; `கத்தினள்` genuine; ends literal source `உட்` |
-| 118 | 117 | body | verified | Chapter 14; forward glyph PASS; begins `எவ்வளவோ...` without inferring a completion of scan 117 `உட்`; `களங்கப் பனியை`, `தணலாயிருக்கிறது`; final dialogue continues to scan 119 |
-| 119 | pending | body | not-started | Forward work next; begins source-visible continuation `வருகிறேன்.........` |
-| 120 | pending | body | not-started |  |
-| 121 | pending | body | not-started |  |
-| 122 | pending | body | not-started |  |
-| 123 | pending | body | not-started |  |
+| 112 | 111 | body | verified | Chapter 13; expanded glyph PASS; begins `வது` completing scan 111 `சிறிதா`; corrected `கருதினான்` |
+| 113 | 112 | body | verified | Chapter 13; expanded glyph PASS; corrected `கூறினான்`; preserve `பிடிகை`, `கூளம்`, `தவங்கிடந்து`; ends `ஆறுதல் கூறுவதற்கு ஒருவர் அருகே இருக்கும்போது` |
+| 114 | 113 | body | verified | Chapter 13; expanded glyph PASS; begins `பாசமும் பற்றும்...`; preserve `அப்படித்தான் ஆவள்`, `அமராழ்`; corrected `கதறினாள்`, `முனகினாள்`; bottom `8` printer/signature mark |
+| 115 | 114 | body / chapter boundary | verified | Mixed Chapter 13 / 14; centered `14`; expanded glyph PASS; `சூடான`, `கண்டு பிடித்த`, `நமைச்சலுக்கு` |
+| 116 | 115 | body | verified | Chapter 14; expanded glyph PASS; `தவறாகக்`, `சித்திரப் புள்`, `பூர்வ ஜென்ம பூஜாபலன்`; corrected `தொடங்கினாள்`; ends `நான் யாருக்கு என்ன துரோகம்` |
+| 117 | 116 | body | verified | Chapter 14; expanded glyph PASS; corrected `கதறினாள்`, `கத்தினாள்`; ends literal source `உட்` |
+| 118 | 117 | body | verified | Chapter 14; expanded glyph PASS; corrected both `கிளம்பினாள்`; begins `எவ்வளவோ...`; final dialogue continues to scan 119 |
+| 119 | 118 | body | not-started | Source mapping confirmed; begins continuation `வருகிறேன்.........`; canonical transcription pending |
+| 120 | 119 | body / chapter boundary | not-started | Source mapping confirmed; mixed Chapter 14 / 15, centered `15`; canonical transcription pending |
+| 121 | 120 | body | not-started | Source mapping confirmed; Chapter 15; canonical transcription pending |
+| 122 | 121 | body | not-started | Source mapping confirmed; Chapter 15; canonical transcription pending |
+| 123 | 122 | body | not-started | Source mapping confirmed; Chapter 15; disputed lexical clusters require direct-pixel closure before canonical encoding |
 | 124 | pending | body | not-started |  |
 | 125 | pending | body | not-started |  |
 | 126 | pending | body | not-started |  |
@@ -236,4 +235,4 @@ Forward scans 114–118 preserve source-specific forms including scan 114 `அ�
 
 ## Exact next activity
 
-Process the next **5-scan forward iteration: scans 119–123**, beginning at scan 119. Apply the mandatory 13-family historical-glyph checks directly from source pixels on every scan. Preserve the scan 118 / 119 open-dialogue continuation beginning source-visible `வருகிறேன்.........`. Do not start assembled Tamil or English.
+Process **scans 119–123** as the next 5-scan forward iteration. Apply the mandatory 13-family historical-glyph checks directly from source pixels on every scan. Preserve the scan 118 / 119 continuation beginning `வருகிறேன்.........` and the scan-120 Chapter 15 boundary. Do not start assembled Tamil or English.
