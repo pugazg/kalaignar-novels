@@ -6,10 +6,10 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count: **179**;
 - mapping coverage: **179 / 179 represented by ranges and exceptions below**;
-- canonical page records: **143 / 179**;
-- body transcription: **through scan 143 / printed 142**;
-- historical-glyph coverage: **PASS scans 1–143**;
-- next forward processing: **scans 144–148**, 5 scans per iteration;
+- canonical page records: **148 / 179**;
+- body transcription: **through scan 148 / printed 147**;
+- historical-glyph coverage: **PASS scans 1–148**;
+- next forward processing: **scans 149–153**, 5 scans per iteration;
 - printed-page values are never inferred where the source has not been directly confirmed.
 
 Detailed lexical/glyph evidence remains in each canonical page record and `../audit.md`.
@@ -22,8 +22,8 @@ Detailed lexical/glyph evidence remains in each canonical page record and `../au
 - scan **9** — body page with no visible printed number recorded;
 - scans **10–65** — printed **9–64**;
 - scan **66** — source visibly prints only **`5`**; never infer `65`;
-- scans **67–143** — printed **66–142**;
-- scans **144–175** — pending direct source confirmation;
+- scans **67–148** — printed **66–147**;
+- scans **149–175** — pending direct source confirmation;
 - scan **176** — printed **175**, directly confirmed;
 - scans **177–178** — pending direct source confirmation;
 - scan **179** — printed **178**, final narrative page plus illustration.
@@ -79,31 +79,36 @@ Grammar is only a locator. Character identity comes from source pixels and same-
 - scan 138 / 139 — `‘மளமள’` → `வென்று...`;
 - scan 139 / 140 — `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`;
 - scan 140 / 141 — `நயினா` → `எதுவும் பேசவில்லை.`;
-- scan 142 / 143 — `வாசகங்கள்` → `இருந்தன.`.
+- scan 142 / 143 — `வாசகங்கள்` → `இருந்தன.`;
+- scan 144 / 145 — `வரவழைத்துக்` + `கொண்டான்` = `வரவழைத்துக் கொண்டான்`;
+- scan 145 / 146 — `ஏது` → `அவ்வளவு அக்கறை!`;
+- scan 146 bottom `10` — printer/signature mark;
+- scan 146 / 147 — `கூறியதுதான்` + `தாமதம்;` = `கூறியதுதான் தாமதம்;`;
+- scan 147 / 148 — `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`.
 
-## Current canonical end — scans 134–143
+## Current canonical end — scans 139–148
 
 | Scan | Printed | Section | Status | Durable note |
 |---:|---:|---|---|---|
-| 134 | 133 | Chapter 16 / 17 | verified | centered `17`; ends `நயினாவின்` |
-| 135 | 134 | Chapter 17 | verified | begins `கேள்வி`; ends `வருத்தத்` |
-| 136 | 135 | Chapter 17 | verified | begins `தோடு` → `வருத்தத்தோடு`; `பதிலக் கேள்வி` |
-| 137 | 136 | Chapter 17 | verified | ends open `“இதோ,` |
-| 138 | 137 | Chapter 17 | verified | begins `கொண்டுவருகிறேன்”`; ends `‘மளமள’` |
 | 139 | 138 | Chapter 17 | verified | begins `வென்று`; ends `புயலால் தாக்குண்டவன்போல` |
 | 140 | 139 | Chapter 17 | verified | begins `ஆனேன் அன்று!`; `வழங்கினை`, `சூறாவளி`; ends `நயினா` |
-| 141 | 140 | Chapter 17 | verified | begins `எதுவும் பேசவில்லை.`; `காணத் வேண்டிப்போலவே`; ends complete sentence |
-| 142 | 141 | Chapter 18 opening | verified | centered `18`; `கைகாரியானாள்`, `நனைந்துபோன`; ends `வாசகங்கள்` |
-| 143 | 142 | Chapter 18 | verified | begins `இருந்தன.`; `அனைவருங்கூடி`, `எங்ஙனம்`; ends complete sentence |
+| 141 | 140 | Chapter 17 | verified | begins `எதுவும் பேசவில்லை.`; ends complete sentence |
+| 142 | 141 | Chapter 18 opening | verified | centered `18`; ends `வாசகங்கள்` |
+| 143 | 142 | Chapter 18 | verified | begins `இருந்தன.`; ends complete sentence |
+| 144 | 143 | Chapter 18 | verified | `ஆள்மயக்கும்`; ends `வரவழைத்துக்` |
+| 145 | 144 | Chapter 18 | verified | begins `கொண்டான் நயினா!`; three-star divider; ends `ஏது` |
+| 146 | 145 | Chapter 18 | verified | begins `அவ்வளவு அக்கறை!`; bottom `10` printer mark; ends `கூறியதுதான்` |
+| 147 | 146 | Chapter 18 | verified | begins `தாமதம்;`; ends `சந்திப்` |
+| 148 | 147 | Chapter 18 | verified | begins `பதற்காக!`; `விறிட்டுக்`; ends complete sentence |
 
 ## Remaining scan-status ranges
 
-- scans **1–143** — canonical / verified;
-- scans **144–175** — not started;
+- scans **1–148** — canonical / verified;
+- scans **149–175** — not started;
 - scan **176** — not started; printed 175 directly confirmed;
 - scans **177–178** — not started;
 - scan **179** — not started; printed 178, final page.
 
 ## Exact next activity
 
-Process **scans 144–148** as the next bounded 5-scan iteration. Establish scan 144 only from direct source evidence. Do not start assembled Tamil or English.
+Process **scans 149–153** as the next bounded 5-scan iteration. Establish scan 149 only from direct source evidence after scan 148's complete ending. Do not start assembled Tamil or English.

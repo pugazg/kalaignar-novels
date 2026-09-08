@@ -6,12 +6,12 @@
 |---|---|
 | Source identity / checksum / page count | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **143 / 179** |
-| Body transcription | **through scan 143 / printed 142** |
-| Printed-page map | **directly confirmed through scan 143; scan 66 visibly prints only `5`** |
+| Canonical page records | **148 / 179** |
+| Body transcription | **through scan 148 / printed 147** |
+| Printed-page map | **directly confirmed through scan 148; scan 66 visibly prints only `5`** |
 | Chapter map | **direct through Chapter 18; Chapter 18 opens at scan 142** |
-| Historical-glyph coverage | **PASS scans 1–143** |
-| Forward transcription | **next 5-scan iteration 144–148** |
+| Historical-glyph coverage | **PASS scans 1–148** |
+| Forward transcription | **next 5-scan iteration 149–153** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -22,11 +22,7 @@ Mandatory family set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Character identity is decided from source pixels first; grammar is only a locator. Never global-replace or silently modernize source wording.
-
-## Expanded corrective re-audit — controlling result
-
-Earlier audit work incorrectly treated several old-type `னா` / `றா` shapes as genuine short-looking forms. Those classifications are superseded by corrected canonical records and same-edition source comparison. These are character-identity corrections, not grammatical normalization. Independently source-confirmed `வேலையில்ல`, `வரணும்`, `நானு`, recurring `நயினா`, scan 114 `அப்படித்தான் ஆவள்`, and later source-specific spellings remain untouched.
+Character identity is decided from source pixels first; grammar is only a locator. Never global-replace or silently modernize source wording. The expanded corrective re-audit remains controlling; independently source-confirmed forms such as recurring `நயினா` and later source-specific spellings remain untouched.
 
 ## Coverage
 
@@ -34,40 +30,40 @@ Earlier audit work incorrectly treated several old-type `னா` / `றா` shap
 - scans **102–111**: corrective audit;
 - scans **112–118**: forward audit;
 - expanded corrective re-audit repaired old-type `னா` / `றா` misses across the existing corpus;
-- scans **119–143**: forward source-pixel audit with the mandatory 13-family set;
-- current canonical scans **1–143 are PASS**.
+- scans **119–148**: forward source-pixel audit with the mandatory 13-family set;
+- current canonical scans **1–148 are PASS**.
 
 ## Current forward end
 
-### Scan 134 / printed 133
-**VERIFIED / PASS. Chapter 16 / 17 boundary.** Centered `17`; ends physical `நயினாவின்`.
-
-### Scan 135 / printed 134
-**VERIFIED / PASS.** Begins `கேள்வி`; ends physical `வருத்தத்`.
-
-### Scan 136 / printed 135
-**VERIFIED / PASS.** Begins `தோடு`, completing `வருத்தத்தோடு`; source-specific `பதிலக் கேள்வி` retained.
-
-### Scan 137 / printed 136
-**VERIFIED / PASS.** Ends inside open quotation `“இதோ,`.
-
-### Scan 138 / printed 137
-**VERIFIED / PASS.** Begins `கொண்டுவருகிறேன்”`; source `வந்துவிட்டுமா?`; ends literal `‘மளமள’`.
-
 ### Scan 139 / printed 138
-**VERIFIED / PASS.** Begins `வென்று`, continuing scan 138's `‘மளமள’`; source-specific `அவளையும் இணங்கவைத்து`, `அவளுக்கு நேராக`, `குற்றம்புரிந்தவன்`; ends physical `புயலால் தாக்குண்டவன்போல`.
+**VERIFIED / PASS.** Begins `வென்று`, continuing scan 138 `‘மளமள’`; ends physical `புயலால் தாக்குண்டவன்போல`.
 
 ### Scan 140 / printed 139
-**VERIFIED / PASS.** Begins `ஆனேன் அன்று!`; source-pixel `வழங்கினை`; preserve `சூறாவளி`, `காரணகர்த்தாக்களில்`, `நானுந்தான்`; ends physical `நயினா`.
+**VERIFIED / PASS.** Begins `ஆனேன் அன்று!`; preserve `வழங்கினை`, `சூறாவளி`, `நானுந்தான்`; ends `நயினா`.
 
 ### Scan 141 / printed 140
-**VERIFIED / PASS.** Begins `எதுவும் பேசவில்லை.`; preserve source `காணத் வேண்டிப்போலவே`, `சிந்தாமணியோட`, `அபின்`, `யொருவர்`; ends complete sentence.
+**VERIFIED / PASS.** Begins `எதுவும் பேசவில்லை.`; preserve `காணத் வேண்டிப்போலவே`, `சிந்தாமணியோட`, `யொருவர்`; ends complete sentence.
 
 ### Scan 142 / printed 141
-**VERIFIED / PASS. Chapter 18 opening.** Centered `18`; preserve `கெளரவமாக`, `கைகாரியானாள்`, `ஊமையாகிவிட்டது`, `பலாத்காரமாக`, `நினைக்காதீர்கள்`, `நனைந்துபோன`; ends physical `வாசகங்கள்`.
+**VERIFIED / PASS. Chapter 18 opening.** Centered `18`; preserve `கைகாரியானாள்`, `நினைக்காதீர்கள்`, `நனைந்துபோன`; ends `வாசகங்கள்`.
 
 ### Scan 143 / printed 142
-**VERIFIED / PASS.** Begins `இருந்தன.`, completing scan 142; preserve `அனைவருங்கூடி`, `முன்னறிவிப்பும்`, `விளக்கமுறைக்கவேண்டுமென்று`, `ஆனந்திமீது`, `எங்ஙனம்`; ends complete sentence.
+**VERIFIED / PASS.** Begins `இருந்தன.`; preserve `அனைவருங்கூடி`, `விளக்கமுறைக்கவேண்டுமென்று`, `ஆனந்திமீது`, `எங்ஙனம்`; ends complete sentence.
+
+### Scan 144 / printed 143
+**VERIFIED / PASS.** Preserve `தவறுக் கருதிவிட்டானே`, `ஆள்மயக்கும்`, `தவறுக் கருத்துக்கூடும்`; ends physical `வரவழைத்துக்`.
+
+### Scan 145 / printed 144
+**VERIFIED / PASS.** Begins `கொண்டான் நயினா!`, completing scan 144; three-star divider preserved; preserve `காற்று வாக்கில்`, `புளகாங்கித மூட்டுவனவாக`; ends physical `ஏது`.
+
+### Scan 146 / printed 145
+**VERIFIED / PASS.** Begins `அவ்வளவு அக்கறை!`, continuing scan 145; preserve `இளந் தாடியுடனும்`, `பட்டுச் சொக்காய்`, `பெங்களூர் பெரியசாமின்னு`; bottom `10` printer/signature mark; ends physical `கூறியதுதான்`.
+
+### Scan 147 / printed 146
+**VERIFIED / PASS.** Begins `தாமதம்;`, completing `கூறியதுதான் தாமதம்;`; preserve `மிரளமிரள`, `என்றைக்கிருந்தாலும்`, `கூட்டிட்டாள்`; ends physical `சந்திப்`.
+
+### Scan 148 / printed 147
+**VERIFIED / PASS.** Begins `பதற்காக!`, completing `சந்திப்பதற்காக!`; preserve `சிற்றவள்`, `செந்தேள்கள்`, `விறிட்டுக்`, `நிம்மதியாக`; ends complete sentence.
 
 ## Structural/source decisions to preserve
 
@@ -91,7 +87,7 @@ Earlier audit work incorrectly treated several old-type `னா` / `றா` shap
 - scan 117 / 118 literal source discontinuity `உட்` → `எவ்வளவோ...`;
 - scan 119 / 120 `கவனித்து` → `விட்டான்.`;
 - scan 120 Chapter 14 / 15, centered `15`;
-- scan 122 / 123 literal boundary `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`;
+- scan 122 / 123 literal `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`;
 - scan 124 / 125 `புகை` + `வண்டி` = `புகைவண்டி`;
 - scan 127 Chapter 16 opening, centered `16`;
 - scan 127 / 128 `வாழ்` + `விலே` = `வாழ்விலே`;
@@ -101,14 +97,19 @@ Earlier audit work incorrectly treated several old-type `னா` / `றா` shap
 - scan 134 Chapter 16 / 17 boundary, centered `17`;
 - scan 134 / 135 `நயினாவின்` → `கேள்வி`;
 - scan 135 / 136 `வருத்தத்` + `தோடு` = `வருத்தத்தோடு`;
-- scan 137 / 138 open quotation `“இதோ,` → `கொண்டுவருகிறேன்”`;
+- scan 137 / 138 `“இதோ,` → `கொண்டுவருகிறேன்”`;
 - scan 138 / 139 `‘மளமள’` → `வென்று...`;
 - scan 139 / 140 `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`;
 - scan 140 / 141 `நயினா` → `எதுவும் பேசவில்லை.`;
 - scan 142 Chapter 18 opening, centered `18`;
 - scan 142 / 143 `வாசகங்கள்` → `இருந்தன.`;
-- scan 143 ends complete sentence.
+- scan 144 / 145 `வரவழைத்துக்` + `கொண்டான்`;
+- scan 145 / 146 `ஏது` → `அவ்வளவு அக்கறை!`;
+- scan 146 bottom `10` printer/signature mark;
+- scan 146 / 147 `கூறியதுதான்` + `தாமதம்;`;
+- scan 147 / 148 `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`;
+- scan 148 ends complete sentence.
 
 ## Exact next activity
 
-Process **scans 144–148** using the bounded production workflow: transcribe all five pages first, run one mandatory 13-family batch sweep, allow at most one targeted enlargement per genuinely unclear token, and record a source hold if still unresolved. Do not start assembled Tamil or English.
+Process **scans 149–153** using the bounded production workflow: transcribe all five pages first, run one mandatory 13-family batch sweep, allow at most one targeted enlargement per genuinely unclear token, and record a source hold if still unresolved. Do not start assembled Tamil or English.

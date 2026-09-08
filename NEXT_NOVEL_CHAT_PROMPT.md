@@ -8,12 +8,12 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 ## Current durable state
 
-- canonical records: **143 / 179**;
+- canonical records: **148 / 179**;
 - Chapter 16 / 17 boundary: **scan 134 / printed 133**, centered `17`;
 - Chapter 18 opens: **scan 142 / printed 141**, centered `18`;
-- Chapter 18 transcribed through **scan 143 / printed 142**;
-- historical-glyph coverage: **PASS scans 1–143**;
-- next iteration: **scans 144–148**;
+- Chapter 18 transcribed through **scan 148 / printed 147**;
+- historical-glyph coverage: **PASS scans 1–148**;
+- next iteration: **scans 149–153**;
 - batch size: **5 scans**;
 - assembled Tamil / English: **not started / blocked**.
 
@@ -33,18 +33,19 @@ Check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / �
 
 ## Recent source boundaries to preserve
 
-- scan 137 / 138: `“இதோ,` → `கொண்டுவருகிறேன்”`;
-- scan 138 / 139: `‘மளமள’` → `வென்று...`;
-- scan 139 / 140: `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`;
-- scan 140 / 141: `நயினா` → `எதுவும் பேசவில்லை.`;
 - scan 142: Chapter 18 opening, centered `18`;
 - scan 142 / 143: `வாசகங்கள்` → `இருந்தன.`;
-- scan 143 ends a complete sentence; establish scan 144 only from direct source.
+- scan 144 / 145: `வரவழைத்துக்` + `கொண்டான்` = `வரவழைத்துக் கொண்டான்`;
+- scan 145 / 146: `ஏது` → `அவ்வளவு அக்கறை!`;
+- scan 146 bottom `10` printer/signature mark;
+- scan 146 / 147: `கூறியதுதான்` + `தாமதம்;` = `கூறியதுதான் தாமதம்;`;
+- scan 147 / 148: `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`;
+- scan 148 ends a complete sentence; establish scan 149 only from direct source.
 
 ## Source-specific recent forms
 
-Preserve confirmed source forms such as `வழங்கினை`, `சூறாவளி`, `காணத் வேண்டிப்போலவே`, `கைகாரியானாள்`, `நினைக்காதீர்கள்`, `நனைந்துபோன`, `அனைவருங்கூடி`, `விளக்கமுறைக்கவேண்டுமென்று`, `ஆனந்திமீது`, and `எங்ஙனம்`.
+Preserve confirmed source forms such as `தவறுக் கருதிவிட்டானே`, `ஆள்மயக்கும்`, `தவறுக் கருத்துக்கூடும்`, `காற்று வாக்கில்`, `புளகாங்கித மூட்டுவனவாக`, `இளந் தாடியுடனும்`, `பட்டுச் சொக்காய்`, `பெங்களூர் பெரியசாமின்னு`, `மிரளமிரள`, `என்றைக்கிருந்தாலும்`, `கூட்டிட்டாள்`, `சிற்றவள்`, `செந்தேள்கள்`, `விறிட்டுக்`, and `நிம்மதியாக`.
 
 ## Exact next activity
 
-Process **scans 144–148** in one bounded 5-page iteration. Do not start assembled Tamil or English.
+Process **scans 149–153** in one bounded 5-page iteration. Do not start assembled Tamil or English.
