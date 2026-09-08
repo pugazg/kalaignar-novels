@@ -27,10 +27,7 @@
 - Chapter 12 / 13 boundary: **scan 107 / printed 106**, centered `13`;
 - Chapter 13 / 14 boundary: **scan 115 / printed 114**, centered `14`;
 - Chapter 14 transcribed through **scan 118 / printed 117**;
-- historical-glyph coverage on existing canonical scans: **PASS scans 1–118**;
-- retrospective historical-glyph re-audit: **PASS scans 1–101 / COMPLETE**;
-- corrective historical-glyph re-audit: **PASS scans 102–111**;
-- prospective forward historical-glyph check: **PASS scans 112–118**;
+- historical-glyph coverage on existing canonical scans: **PASS scans 1–118 after expanded corrective re-audit**;
 - forward transcription: **next 5-page iteration scans 119–123**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
@@ -44,17 +41,19 @@ Use [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRA
 
 Identify character identity from source pixels first. Grammar is only a locator. Preserve source spelling, grammar, punctuation, spacing and colloquial forms. Never global-replace.
 
-Durable counterexamples that must not be grammar-normalized include `வயதினள்`, `பருவத்தினள்`, `மாறினள்`, `கத்தினள்`, `நீட்டினன்`, `அமர்த்தினன்`, `பொத்தினன்`, `தொடங்கினள்`, `கருதினன்`, and `கூறினன்`. Recurring character name is **`நயினா`**, not `நயினு`.
+The expanded corrective re-audit overturned earlier false “genuine counterexample” readings caused by old-type `னா` / `றா` shapes. Corrected canonical examples include `வந்துவிட்டானா`, `வயதினாள்`, `பருவத்தினாள்`, `விரும்பினான்`, `பொய்தானா?`, `பேசினான்`, `நோக்கினான்`, `மாறினாள்`, `கத்தினாள்`, `நீட்டினான்`, `அமர்த்தினான்`, `பொத்தினான்`, `தொடங்கினாள்`, `கருதினான்`, and `கூறினான்`.
+
+This is not a grammar-normalization rule. Independently source-confirmed forms such as `வேலையில்ல`, `வரணும்`, `நானு`, recurring **`நயினா`**, and scan 114 `அப்படித்தான் ஆவள்` remain unchanged.
 
 ### Recent forward results
 
-- scan 112 / printed 111: PASS; physical `சிறிதா` + `வது` = `சிறிதாவது`; genuine `கருதினன்`;
-- scan 113 / printed 112: PASS; genuine `கூறினன்`; ends `ஆறுதல் கூறுவதற்கு ஒருவர் அருகே இருக்கும்போது`;
-- scan 114 / printed 113: PASS; continues `பாசமும் பற்றும்...`; source `அப்படித்தான் ஆவள்`, `கதறினள்`, `முனகினள்`, `அமராழ்`; bottom `8` printer/signature mark;
+- scan 112 / printed 111: PASS; physical `சிறிதா` + `வது` = `சிறிதாவது`; corrected `கருதினான்`;
+- scan 113 / printed 112: PASS; corrected `கூறினான்`; ends `ஆறுதல் கூறுவதற்கு ஒருவர் அருகே இருக்கும்போது`;
+- scan 114 / printed 113: PASS; continues `பாசமும் பற்றும்...`; preserve `அப்படித்தான் ஆவள்`, `சீழ்`, `அமராழ்`; corrected `கதறினாள்`, `முனகினாள்`; bottom `8` printer/signature mark;
 - scan 115 / printed 114: PASS; mixed Chapter 13 / 14, centered `14`; source `சூடான`, `கண்டு பிடித்த`, `நமைச்சலுக்கு`;
-- scan 116 / printed 115: PASS; `தவறாகக்`, `சித்திரப் புள்`, `பூர்வ ஜென்ம பூஜாபலன்`, genuine `தொடங்கினள்`;
-- scan 117 / printed 116: PASS; genuine `கத்தினள்`; physical final source `உட்` retained without inventing a completion;
-- scan 118 / printed 117: PASS; begins `எவ்வளவோ முயன்றும் நடக்கவில்லை.`; final dialogue continues to scan 119 with source-visible `வருகிறேன்.........`.
+- scan 116 / printed 115: PASS; `தவறாகக்`, `சித்திரப் புள்`, `பூர்வ ஜென்ம பூஜாபலன்`; corrected `தொடங்கினாள்`;
+- scan 117 / printed 116: PASS; corrected `கதறினாள்`, `கத்தினாள்`; physical final source `உட்` retained without inventing a completion;
+- scan 118 / printed 117: PASS; corrected both `கிளம்பினாள்`; begins `எவ்வளவோ முயன்றும் நடக்கவில்லை.`; final dialogue continues to scan 119 with source-visible `வருகிறேன்.........`.
 
 ## Completed works
 
