@@ -16,7 +16,7 @@ Resolve `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-25
 - Chapter 13 transcribed through scan 111 / printed 110;
 - historical-glyph work-level gate: **REOPENED**;
 - corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–95; PENDING scans 96–101**;
+- retrospective historical-glyph re-audit: **PASS scans 1–100; PENDING scan 101**;
 - forward transcription at scan 112 is paused until retrospective coverage is cleared.
 
 ## Critical historical-glyph rule
@@ -29,7 +29,7 @@ Identify character identity from enlarged/native source pixels first. Grammar ma
 
 Corrective examples in scans 102–111 remain controlling for the known old-type failure mode, including `நன்றாகக்`, `தவறாக`, `என்றாள்`, missing-`ஆ` corrections such as `திமிறினான்`, `சொன்னா`, and `பெண்ணா?`. Nearby forms must still be decided independently.
 
-## Retrospective results through scan 95
+## Retrospective results through scan 100
 
 - scans 1–35: PASS; scan 4 ordinary `பெருகிடுகிறது` → `பெருகிவிடுகிறது`; preserve confirmed counterexamples including `வேலையில்ல`, `வந்துவிட்டானு`, `வரணும்`, `வயதினள்`, `காணோமே`, `பெண்ணொருத்தி`, `அவ்விதமானாள்`, `நட்டுவனார்`, recurring `நயினா`;
 - scans 36–40: PASS after scan 38 `கண்ணின் மிகுதியால்` → `களைப்பின் மிகுதியால்`; scan 40 `எண்ணையாவது` → `என்னையாவது`, `அவர்களோ` → `அவர்களை`, `கைவற்றுப்போனேன்` → `கைவற்றுப்போனான்`;
@@ -43,7 +43,8 @@ Corrective examples in scans 102–111 remain controlling for the known old-type
 - scans 76–80: PASS; scans 76–78 no correction; scan 79 `தனியிலே` → `தலையிலே`; scan 80 `கற்பமாக` → `கர்ப்பமாக`;
 - scans 81–85: PASS with corrections: scan 81 `கண்ணி கழியாத` → `கன்னி கழியாத`; scan 82 `பின்னர்ப் பிறிட்டு` → `பின்னர் பீறிட்டு`; scan 83 `திருமணம்?` → `திருமணமா?` (`ணா`); scan 84 `துணியமுடியுமா?` → `துணிய முடியுமா?`; scan 85 `மருத்துவ மனைின்` → `மருத்துவ மனையின்` (`னை`). Scan 82 bottom `6` is a printer/signature mark; scan 85 mixed Chapter 9 / 10 with centered `10`;
 - scans 86–90: PASS. Scan 86: `அனேகமாக` → **`அநேகமாக`**, `முடிபுமுற்றுவிட்டது` → **`முடிவு முற்றுவிட்டது`**, `பூர்த்திசெய்து` → **`பூர்த்தி செய்து`**. Scan 87: `கேட்டதுபோல்` → **`கேட்டதுபோல`** and historical-family `மாறுக` → **`மாறாக`** (`றா`). Scans 88–90 required no canonical correction. Preserve scan 88 `நானு`; scan 89 physical ending `மறுத்துவிட்`; scan 90 physical opening `டால்`; scan 90 `மாறினள்` and `கத்தினள்` remain exact;
-- scans 91–95: **PASS / 5 OF 5 COMPLETE**. Scan 91: `கருதினலும்` → **`கருதினாலும்`** (`னா`) and `உதவிபுரிவதுபோல` → **`உதவி புரிவதுபோல`**. Scans 92–95 required no canonical correction. Preserve scan 92 `நீட்டினன்`, `துரிதப்படுத்தினன்`, `அமர்த்தினன்` and centered Chapter `11`; scan 93 `பொத்தினன்`; scan 94 `தொடங்கினார்`, `புறக்கப்போகிறேன்`; scan 95 `தொடங்கினள்`, `பயந்தோடிக்`, `முக்கிய வாசிக் கதை`.
+- scans 91–95: PASS. Scan 91: `கருதினலும்` → **`கருதினாலும்`** (`னா`) and `உதவிபுரிவதுபோல` → **`உதவி புரிவதுபோல`**. Scans 92–95 required no canonical correction. Preserve scan 92 `நீட்டினன்`, `துரிதப்படுத்தினன்`, `அமர்த்தினன்` and centered Chapter `11`; scan 93 `பொத்தினன்`; scan 94 `தொடங்கினார்`, `புறக்கப்போகிறேன்`; scan 95 `தொடங்கினள்`, `பயந்தோடிக்`, `முக்கிய வாசிக் கதை`;
+- scans 96–100: **PASS / 5 OF 5 COMPLETE**. Scans 96, 97 and 100 required no canonical correction. Scan 98: `நன்றுக` → **`நன்றாக`** (`றா`). Scan 99: both `நன்றுகத்` occurrences → **`நன்றாகத்`** (`றா`). Preserve scan 96 `வெளித்தாவரத்திலே`, `கிடத்தினன்`; scan 97 `இந்நிலே காதலிக்கும் உண்டு`; scan 98 `பனிரெண்டு`, `கட்டிலண்டை` and bottom `7` printer/signature mark; scan 99 `கொண்டதானது`, `ஓசைகேட்கவே` and centered Chapter `12`; scan 100 `நடன மாடுகிறது`, `லஸ்தர் விளக்கு`.
 
 ## Structural decisions to preserve
 
@@ -65,6 +66,6 @@ Corrective examples in scans 102–111 remain controlling for the known old-type
 
 ## Exact next activity
 
-Perform the **retrospective historical-glyph re-audit of scans 96–100** as the next 5-scan iteration. Synchronize page records, `audit.md`, `indexes/page-map.md`, root/work README, `HANDOVER.md`, and this prompt. Commit only positively source-supported corrections. After that, finish the remaining retrospective **scan 101**. Only when scans 1–101 are cleared may forward work resume at scan 112.
+Perform the **remaining retrospective historical-glyph re-audit of scan 101**. Synchronize its page record, `audit.md`, `indexes/page-map.md`, root/work README, `HANDOVER.md`, and this prompt. Commit only positively source-supported corrections. Once scan 101 is cleared, retrospective scans 1–101 are complete and forward work may resume at scan 112.
 
 Do not start assembled Tamil or English.
