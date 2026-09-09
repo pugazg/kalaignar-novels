@@ -9,8 +9,8 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - canonical page records: **179 / 179 — COMPLETE**;
 - body transcription: **through final scan 179 / printed 178**;
 - forward historical-glyph coverage: **PASS scans 1–179**;
-- user-directed second glyph re-audit: **IN PROGRESS — scans 119–133 PASS / 15 of 61; 0 corrections**;
-- second re-audit next batch: **134–138**;
+- user-directed second glyph re-audit: **IN PROGRESS — scans 119–138 PASS / 20 of 61; 0 corrections**;
+- second re-audit next batch: **139–143**;
 - printed-page values are source-confirmed, not inferred.
 
 ## Printed-page mapping
@@ -77,8 +77,13 @@ Grammar is only a locator. Character identity comes from source pixels and same-
 | 131 | 130 | Chapter 16 | PASS | 0 | `நயினாமுகம்மது`; `நயினாவின்`; `பாராட்டிக்கொண்டாள்`; ends `பின்னிக்` |
 | 132 | 131 | Chapter 16 | PASS | 0 | begins `கொண்டன;`; both `நயினாவிடமிருந்து`; both `என்றால்`; `இறந்துவிட்டாள்` |
 | 133 | 132 | Chapter 16 | PASS | 0 | `நயினா முகம்மது`; `நகை நட்டுக்களை`; `நயினாவுக்கு`; `வெளியேறினான்` |
+| 134 | 133 | Chapter 16 / 17 boundary | PASS | 0 | centered `17`; `நயினாவின்`; `கத்தினான்`; `உபசரித்தாள்`; ends `நயினாவின்` |
+| 135 | 134 | Chapter 17 | PASS | 0 | begins `கேள்வி`; `நயினா`; `திறந்தாள்`; `என்றான்`; `சொன்னான்`; ends `வருத்தத்` |
+| 136 | 135 | Chapter 17 | PASS | 0 | begins `தோடு`; `விரும்பினாள்`; `காட்டினாள்`; `புறப்பட்டான்`; `இழுத்தாள்` |
+| 137 | 136 | Chapter 17 | PASS | 0 | `நானும்`; `கண்ணால்`; `மாறிவிட்டது`; `நம் வாழ்வில்`; ends `“இதோ,` |
+| 138 | 137 | Chapter 17 | PASS | 0 | begins `கொண்டுவருகிறேன்”`; `திண்டாடினாள்`; `எதிர்பார்த்தான்`; `ஊற்றினாள்`; ends `‘மளமள’` |
 
-Remaining second-pass ranges: **134–179 pending**. Next exact iteration: **134–138**.
+Remaining second-pass ranges: **139–179 pending**. Next exact iteration: **139–143**.
 
 ## Durable physical/source exceptions
 
@@ -128,10 +133,10 @@ Remaining second-pass ranges: **134–179 pending**. Next exact iteration: **134
 ## Remaining scan-status ranges
 
 - scans **1–179** — canonical / verified;
-- second re-audit **119–133 PASS**;
-- second re-audit **134–179 pending**;
+- second re-audit **119–138 PASS**;
+- second re-audit **139–179 pending**;
 - no page-level transcription gap remains.
 
 ## Exact next activity
 
-User-directed second historical-glyph re-audit **scans 134–138** only, then continue in 5-scan iterations through scan 179.
+User-directed second historical-glyph re-audit **scans 139–143** only, then continue in 5-scan iterations through scan 179.

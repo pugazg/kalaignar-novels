@@ -12,8 +12,8 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - final narrative: **scan 179 / printed 178**;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- second historical-glyph re-audit: **IN PROGRESS — scans 119–133 PASS / 15 of 61 complete**;
-- second-pass corrections through scan 133: **0**;
+- second historical-glyph re-audit: **IN PROGRESS — scans 119–138 PASS / 20 of 61 complete**;
+- second-pass corrections through scan 138: **0**;
 - assembled Tamil / English: **not started / blocked**.
 
 ## Controlling phase — second historical-Tamil-glyph re-audit
@@ -22,7 +22,7 @@ The user explicitly requested one more independent glyph audit from **scan 119 t
 
 Sequence:
 
-`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
 
 Mandatory families on every scan:
 
@@ -44,15 +44,16 @@ Rules:
 - **119–123:** PASS — 0 corrections / 0 unresolved.
 - **124–128:** PASS — 0 corrections / 0 unresolved. Preserve `புகை` → `வண்டி`, centered `16` on scan 127, and `வாழ்` → `விலே`.
 - **129–133:** PASS — 0 corrections / 0 unresolved. Preserve `அழகப்ப` → `னுடைய`, scan 130 bottom `9` as a printer/signature mark, and `பின்னிக்` → `கொண்டன`.
+- **134–138:** PASS — 0 corrections / 0 unresolved. Preserve centered `17`, `நயினாவின்` → `கேள்வி`, `வருத்தத்` → `தோடு`, `“இதோ,` → `கொண்டுவருகிறேன்”`, and final `‘மளமள’`.
 
 ## Exact next activity
 
-Process **scans 134–138** only. Preserve known physical/source evidence:
+Process **scans 139–143** only. Preserve known physical/source evidence:
 
-- scan 134: centered `17` opens Chapter 17;
-- scan 134 / 135: `நயினாவின்` → `கேள்வி`;
-- scan 135 / 136: `வருத்தத்` + `தோடு` = `வருத்தத்தோடு`;
-- scan 137 / 138: `“இதோ,` → `கொண்டுவருகிறேன்”`;
-- scan 138 ends literal `‘மளமள’`; its already-recorded continuation begins on scan 139.
+- scan 138 / 139: `‘மளமள’` → `வென்று...`;
+- scan 139 / 140: `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`;
+- scan 140 / 141: `நயினா` → `எதுவும் பேசவில்லை.`;
+- scan 142: centered `18` opens Chapter 18;
+- scan 142 / 143: `வாசகங்கள்` → `இருந்தன`.
 
-Do not reopen scans 119–133 without new direct source evidence. Do not start assembled Tamil or English.
+Do not reopen scans 119–138 without new direct source evidence. Do not start assembled Tamil or English.

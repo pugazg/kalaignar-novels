@@ -15,9 +15,9 @@
 - final narrative: **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–133 PASS / 15 of 61 scans complete**;
-- second re-audit corrections through scan 133: **0**;
-- second re-audit next batch: **scans 134–138**;
+- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–138 PASS / 20 of 61 scans complete**;
+- second re-audit corrections through scan 138: **0**;
+- second re-audit next batch: **scans 139–143**;
 - second re-audit batch size: **5 scans per iteration**;
 - full Tamil source audit / assembled Tamil / English: **blocked pending second glyph re-audit / not started / blocked**.
 
@@ -55,7 +55,19 @@ All five scans were independently re-read from the controlling source against al
 - **132 / printed 131:** PASS; begins `கொண்டன;`, preserving `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`; reconfirmed both `நயினாவிடமிருந்து` occurrences, both `என்றால்` occurrences, `ஏங்கிக்கொண்டிருந்தான்`, `அலறிவிட்டான்`, `இறந்துவிட்டாள்`.
 - **133 / printed 132:** PASS; reconfirmed `நயினா முகம்மது`, `நகை நட்டுக்களை`, `அழகப்பனை`, `நயினாவுக்கு`, `செய்தாள்`, `வெளியேறினான்`; page ends complete.
 
-No canonical Tamil text changed in scans 119–133 during the second re-audit.
+### Batch 4 — scans 134–138
+
+All five scans were independently re-read from the controlling source against all 13 mandatory historical-glyph families. **Result: PASS — 0 corrections / 0 unresolved.**
+
+- **134 / printed 133:** PASS; centered `17` reconfirmed; `நயினாவின்`, `படித்தான்`, `கத்தினான்`, `கிளம்பினான்`, `சேர்ந்தான்`, `உபசரித்தாள்`, `கேட்டான்` reconfirmed; physical end `நயினாவின்` retained.
+- **135 / printed 134:** PASS; begins `கேள்வி`; `நயினா`, `தலையசைத்துப்`, `திறந்தாள்`, `கேட்டாள்`, `என்றான்`, `என்றாள்`, `நோக்கினான்`, `சொன்னான்` reconfirmed; physical end `வருத்தத்` retained.
+- **136 / printed 135:** PASS; begins `தோடு`, preserving `வருத்தத்` + `தோடு` = `வருத்தத்தோடு`; `விரும்பினாள்`, `காட்டினாள்`, `நினைத்தான்`, `புறப்பட்டான்`, `மகிழ்ந்துகொண்டான்`, `இழுத்தாள்` reconfirmed.
+- **137 / printed 136:** PASS; `நானும்`, `கண்ணால்`, `நான்`, `மாறிவிட்டது`, `நம் வாழ்வில்`, `விரட்டினாள்`, `துடித்தான்`, `பார்த்தான்` reconfirmed; physical end `“இதோ,` retained.
+- **138 / printed 137:** PASS; begins `கொண்டுவருகிறேன்”`, preserving the open quotation from scan 137; `வந்தாள்`, `கொடுத்தாள்`, `போனான்`, `கேட்டான்`, `வினவினாள்`, `கூறினான்`, `திண்டாடினாள்`, `வந்துசேர்ந்தான்`, `சொன்னாள்`, `எதிர்பார்த்தான்`, `போய்விட்டான்`, `என்றான்`, `ஊற்றினாள்`, `நிறுத்திவிட்டான்` reconfirmed; physical end `‘மளமள’` retained.
+
+No genuinely unclear token required a targeted enlargement.
+
+No canonical Tamil text changed in scans 119–138 during the second re-audit.
 
 ## Durable boundaries retained
 
@@ -68,7 +80,12 @@ No canonical Tamil text changed in scans 119–133 during the second re-audit.
 - scan 127 / 128: `வாழ்` + `விலே` = `வாழ்விலே`;
 - scan 129 / 130: `அழகப்ப` + `னுடைய` = `அழகப்பனுடைய`;
 - scan 130 bottom `9`: printer/signature mark, not body text;
-- scan 131 / 132: `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`.
+- scan 131 / 132: `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`;
+- scan 134: centered `17` opens Chapter 17;
+- scan 134 / 135: `நயினாவின்` → `கேள்வி`;
+- scan 135 / 136: `வருத்தத்` + `தோடு` = `வருத்தத்தோடு`;
+- scan 137 / 138: `“இதோ,` → `கொண்டுவருகிறேன்”`;
+- scan 138 / 139: `‘மளமள’` → `வென்று...`.
 
 Older source/boundary decisions remain authoritative in `audit.md` and `indexes/page-map.md`.
 
@@ -81,4 +98,4 @@ Older source/boundary decisions remain authoritative in `audit.md` and `indexes/
 
 ## Exact next activity
 
-Perform the second historical-Tamil-glyph re-audit for **scans 134–138** only. Preserve scan 134 centered `17`, scan 134 / 135 `நயினாவின்` → `கேள்வி`, scan 135 / 136 `வருத்தத்` + `தோடு` = `வருத்தத்தோடு`, scan 137 / 138 `“இதோ,` → `கொண்டுவருகிறேன்”`, and scan 138 physical end `‘மளமள’` before its already-recorded scan-139 continuation. Do not start assembled Tamil or English.
+Perform the second historical-Tamil-glyph re-audit for **scans 139–143** only. Preserve scan 138 / 139 `‘மளமள’` → `வென்று...`, scan 139 / 140 `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`, scan 140 / 141 `நயினா` → `எதுவும் பேசவில்லை.`, scan 142 centered `18`, and scan 142 / 143 `வாசகங்கள்` → `இருந்தன`. Do not start assembled Tamil or English.
