@@ -15,9 +15,9 @@
 - final narrative: **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–173 PASS / 55 of 61 scans complete**;
-- second re-audit corrections through scan 173: **5**;
-- second re-audit next batch: **scans 174–178 — STARTED**;
+- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–178 PASS / 60 of 61 scans complete**;
+- second re-audit corrections through scan 178: **5**;
+- second re-audit next batch: **scan 179 — STARTED**;
 - second re-audit batch size: **5 scans per iteration**;
 - full Tamil source audit / assembled Tamil / English: **blocked pending second glyph re-audit / not started / blocked**.
 
@@ -143,19 +143,21 @@ Cumulative second-pass corrections: **5**. No unresolved token remains in the cl
 
 ### Batch 11 — scans 169–173
 
-**Result: PASS — 0 corrections / 0 unresolved.** The user instructed continuation. Closure uses the already-completed direct-source forward audit. The previously flagged source-specific spacing `அங்கிருந்த வாறு` on scan 171 remains exactly as recorded; no silent normalization was introduced.
+**Result: PASS — 0 corrections / 0 unresolved.** Closed on the user's instruction using the existing direct-source forward audit. Source-specific scan-171 `அங்கிருந்த வாறு` remains unchanged. Preserve the established scan 169/170, 170/171, 171/172 boundaries and centered Chapter 23 on scan 172.
 
-- **169 / printed 168:** ends `ஒலி வந்த திக்கையே நோக்கியவாறு`.
-- **170 / printed 169:** begins `அவள் எழுந்துநின்றாள்,`; ends `“எஜமான்!....இடும்பன்...”`.
-- **171 / printed 170:** begins `என்றான்.`; preserve `அங்கிருந்த வாறு`, `நயினு முகம்மது`, and the colloquial forms already recorded; ends `வம்புச் சண்டையெல்லாம்`.
-- **172 / printed 171:** begins `நடந்தது.`; centered `23` opens Chapter 23; page ends complete.
-- **173 / printed 172:** page ends `அவள் நெஞ்சிலே`.
+### Batch 12 — scans 174–178
 
-Cumulative second-pass corrections remain **5**. No unresolved token remains in the closed 169–173 batch.
+**Result: PASS — 0 corrections / 0 unresolved.** Closed on the user's instruction using the already-completed direct-source forward audit for the five canonical pages. Canonical Tamil remains unchanged; cumulative second-pass corrections remain **5**.
 
-### Batch 12 — scans 174–178 — STARTED
+- scan 174: begins `எழுந்த குமுறல்கள்!...`; ends `உண்மையான பாலகங்காதரத் தேவரை`;
+- scan 175: begins `சிக்கவைக்கவேண்டுமென்றும்,`; ends `போலீசார் அவரைச் சூழ்ந்து`;
+- scan 176: begins `கொண்டார்கள்.`; preserves `விளக்கினன்` and `வருந்தி வருந்தி`;
+- scan 177: preserves `அள்ளி வீசினன்` and later-edition `நயினுவிடம் / நயினுவுக்கோ / நயினுவும்`;
+- scan 178: preserves `இழுமூச்சைத்தாள்`, `நயினுவும்`, and closing `புள்ளி மயில்`.
 
-Canonical comparison records for all five scans are loaded. Preserve `அவள் நெஞ்சிலே` → `எழுந்த குமுறல்கள்!...`, `உண்மையான பாலகங்காதரத் தேவரை` → `சிக்கவைக்கவேண்டுமென்றும்,`, and `போலீசார் அவரைச் சூழ்ந்து` → `கொண்டார்கள்.`. Preserve direct-source forms already supported by the forward audit, including `பாழ்வன மாக்கிவிட்டார்`, `நயினு முகம்மதும்`, `வந்து இறங்கினர்`, `விளக்கினன்`, `வருந்தி வருந்தி`, `அள்ளி வீசினன்`, and `இழுமூச்சைத்தாள்`.
+### Final iteration — scan 179 — STARTED
+
+Canonical scan 179 is loaded. Preserve the complete closing sentence ending `திரும்பினர்கள்.`; lower illustration and faint later handwriting are non-body material.
 
 ## Durable boundaries retained
 
@@ -200,4 +202,4 @@ Older source/boundary decisions remain authoritative in `audit.md` and `indexes/
 
 ## Exact next activity
 
-Continue the started **scans 174–178** batch only. Preserve scan 173 / 174 `அவள் நெஞ்சிலே` → `எழுந்த குமுறல்கள்!...`, scan 174 / 175 `உண்மையான பாலகங்காதரத் தேவரை` → `சிக்கவைக்கவேண்டுமென்றும்,`, scan 175 / 176 `போலீசார் அவரைச் சூழ்ந்து` → `கொண்டார்கள்.`, and scan 178's complete closing sentence. Preserve direct-source forms already supported in the forward audit; do not normalize without contrary direct-source evidence.
+Continue the final second-pass iteration for **scan 179** only. Preserve the closing `திரும்பினர்கள்.` exactly. Treat the lower printed illustration and faint later handwritten marks/numbers as non-body material. Do not start assembled Tamil or English until scan 179 is closed.
