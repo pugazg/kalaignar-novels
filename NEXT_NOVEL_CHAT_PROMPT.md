@@ -12,15 +12,17 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - final narrative: **scan 179 / printed 178**;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
+- second historical-glyph re-audit: **IN PROGRESS — scans 119–123 PASS / 5 of 61 complete**;
+- second-pass corrections through scan 123: **0**;
 - assembled Tamil / English: **not started / blocked**.
 
-## New controlling phase — second historical-Tamil-glyph re-audit
+## Controlling phase — second historical-Tamil-glyph re-audit
 
 The user explicitly requested one more independent glyph audit from **scan 119 through the end**, exactly **5 scans per iteration**.
 
 Sequence:
 
-`119–123 → 124–128 → 129–133 → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 → 129–133 → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
 
 Mandatory families on every scan:
 
@@ -37,6 +39,16 @@ Rules:
 8. one atomic commit per 5-scan iteration;
 9. do not start assembled Tamil or English until the entire second re-audit 119–179 is complete.
 
-## First exact activity
+## Completed second-pass batch — scans 119–123
 
-Process **scans 119–123** only. Preserve known physical boundaries including scan 119 / 120 `கவனித்து` → `விட்டான்.` and scan 122 / 123 literal `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`. Do not reopen scans 1–118.
+**PASS — 0 corrections / 0 unresolved.** Canonical Tamil is unchanged. Preserve the already verified physical joins `கவனித்து` → `விட்டான்.` and literal `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`.
+
+## Exact next activity
+
+Process **scans 124–128** only. Preserve known physical/structural evidence:
+
+- scan 124 / 125: `புகை` + `வண்டி` = `புகைவண்டி`;
+- scan 127: centered `16` opens Chapter 16;
+- scan 127 / 128: `வாழ்` + `விலே` = `வாழ்விலே`.
+
+Do not reopen scans 119–123 without new direct source evidence. Do not start assembled Tamil or English.

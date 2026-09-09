@@ -19,12 +19,12 @@ Fetch live `main` first and preserve newer durable work.
 
 - manifest **179 / 179**;
 - canonical records **179 / 179 — COMPLETE**;
-- Chapter 23 opens **scan 172 / printed 171**, centered `23`;
 - final narrative **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
 - forward mandatory historical-glyph coverage **PASS scans 1–179**;
 - unresolved source holds **0**;
-- user-directed second historical-glyph re-audit **PENDING scans 119–179**;
-- second re-audit next batch **119–123**, exactly 5 scans per iteration;
+- user-directed second historical-glyph re-audit **IN PROGRESS**;
+- second re-audit completed **scans 119–123 / 5 of 61 scans — PASS, 0 corrections, 0 unresolved**;
+- second re-audit next batch **124–128**, exactly 5 scans per iteration;
 - full Tamil source audit / assembled Tamil / English: **blocked pending second re-audit / not started / blocked**.
 
 ## Critical historical-glyph rule
@@ -33,30 +33,27 @@ Mandatory set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Identify character identity from source pixels first. Grammar is only a locator, never proof. Preserve source spelling, grammar, punctuation, spacing and colloquial forms. Never global-replace.
+Identify character identity from source pixels first. Grammar is only a locator, never proof. Preserve source spelling, grammar, punctuation, spacing and colloquial forms. Never global-replace or silently normalize.
 
-## Final page-level results — scans 174–179
+## Second re-audit result — scans 119–123
 
-- scan 174 / printed 173: PASS; `விவரிக்கவொண்ண`, `வாசற்படிகூட`, `சனாதனி`, `பக்தசிரோன்மணியை`, `பாழ்வன மாக்கிவிட்டார்`, `நயினு முகம்மதும்`; ends `உண்மையான பாலகங்காதரத் தேவரை`;
-- scan 175 / printed 174: PASS; `விமரிசையாக`, `‘திபு திபு’`, `இரத்தக் கறை`, `வந்து இறங்கினர்`; ends `போலீசார் அவரைச் சூழ்ந்து`;
-- scan 176 / printed 175: PASS; begins `கொண்டார்கள்.`; `நயினு முகம்மதும்`, `நயினு முகம்மது`, `விளக்கினன்`, `வருந்தி வருந்தி`; ends complete `யூகம் தெரிவித்தான்.`;
-- scan 177 / printed 176: PASS; `அள்ளி வீசினன்`, `நயினுவிடம்`, `அபின் கடத்தல் வழக்கில்`, `ருஜுவாகிவிட்டதென்றும்`, `தானொரு`;
-- scan 178 / printed 177: PASS; `தழுதழுத்தது`, `தடாலெனத்`, `இழுமூச்சைத்தாள்`, `நயினுவும்`, `புள்ளி மயில்`; ends complete `வெள்ளிக்கிழமையிலே!`;
-- scan 179 / printed 178: PASS; final `திரும்பினர்கள்.`; lower illustration and later handwriting are non-body.
+**PASS — 0 corrections / 0 unresolved.** The five canonical page texts remain unchanged.
 
-No unresolved source holds remain through scan 179.
+- scan 119: `ஓடினாள்` and reform-sensitive `பாலையூர்` clusters reconfirmed; ends `கவனித்து`;
+- scan 120: `தொண்ணூறு`, `எண்ணினான்`, `ஏங்கினான்`, `நின்றாள்` reconfirmed; centered `15` preserved; begins `விட்டான்.`;
+- scan 121: `குமுறினாள்`, `அலறினாள்`, both `ஓடினான்` occurrences reconfirmed; ends `வண்டியில்`;
+- scan 122: `வருகிறானா`, `போகிறாள்`, `கிளம்பியிருக்கிறாள்` reconfirmed; ends `சிந்தாமணி, அவளுக்குப் பக்கத்திலே`;
+- scan 123: `நோக்கினாள்`, `நன்றாகக்`, `தோன்றினாள்` reconfirmed; literal source opening `கார்ந்து கொண்டாள்.` retained.
 
-## User-directed second glyph re-audit
+## User-directed second glyph re-audit sequence
 
-Required exact sequence:
+`119–123 ✓ → 124–128 → 129–133 → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
 
-`119–123 → 124–128 → 129–133 → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
-
-For each iteration: source pixels first; all 13 families; only individually supported corrections; no global replace; document corrections or zero-correction PASS; do not start assembled Tamil until the entire 119–179 re-audit is complete.
+For every iteration: source pixels first; all 13 families; only individually supported corrections; no global replacement; record corrections or explicit zero-correction PASS; do not start assembled Tamil until the entire 119–179 re-audit is complete.
 
 ## Exact next activity
 
-Re-audit historical Tamil glyphs in **scans 119–123** and commit that five-page audit result atomically.
+Re-audit historical Tamil glyphs in **scans 124–128** and commit that five-page audit result atomically. Preserve scan 124 / 125 `புகை` + `வண்டி`, scan 127 centered `16`, and scan 127 / 128 `வாழ்` + `விலே`.
 
 ## Completed works — preserve
 

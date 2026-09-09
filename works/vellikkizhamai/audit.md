@@ -11,8 +11,9 @@
 | Printed-page map | **directly confirmed through scan 179; scan 66 visibly prints only `5`** |
 | Chapter map | **direct through Chapter 23; Chapter 23 opens at scan 172** |
 | Forward historical-glyph coverage | **PASS scans 1–179** |
-| User-directed second historical-glyph re-audit | **NOT STARTED — scans 119–179** |
-| Second re-audit next batch | **119–123** |
+| User-directed second historical-glyph re-audit | **IN PROGRESS — scans 119–123 PASS / 5 of 61** |
+| Second re-audit corrections | **0 through scan 123** |
+| Second re-audit next batch | **124–128** |
 | Full Tamil source audit | **blocked pending second glyph re-audit** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -23,7 +24,7 @@ Mandatory family set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Character identity is decided from source pixels first; grammar is only a locator. Never global-replace or silently modernize source wording. Recurring source forms and later direct colloquial variants are preserved scan by scan.
+Character identity is decided from source pixels first; grammar is only a locator. Never global-replace or silently modernize source wording. Recurring source forms and direct colloquial variants are preserved scan by scan.
 
 ## Coverage
 
@@ -31,40 +32,40 @@ Character identity is decided from source pixels first; grammar is only a locato
 - scans **102–111**: corrective audit;
 - scans **112–118**: forward audit;
 - expanded corrective re-audit repaired old-type `னா` / `றா` misses across the existing corpus;
-- scans **119–179**: forward source-pixel audit with the mandatory 13-family set;
-- canonical scans **1–179 are PASS** for the forward pass;
-- user has ordered an additional independent re-audit of **119–179**, exactly **5 scans per iteration**, before full Tamil audit / assembled Tamil.
+- scans **119–179**: original forward source-pixel audit with the mandatory 13-family set — PASS;
+- user-directed independent second re-audit: **119–123 PASS / 5 of 61; 0 corrections**;
+- remaining second-pass scans: **124–179**.
 
-## Final verified batch
+## Second historical-glyph re-audit — Batch 1 / scans 119–123
 
-### Scan 174 / printed 173
-**VERIFIED / PASS.** Begins `எழுந்த குமுறல்கள்!...` after scan 173's physical `அவள் நெஞ்சிலே`. Preserve `விவரிக்கவொண்ண`, `வாசற்படிகூட`, `சனாதனி`, `பக்தசிரோன்மணியை`, `பாழ்வன மாக்கிவிட்டார்`, and direct later `நயினு முகம்மதும்`. Ends physical `உண்மையான பாலகங்காதரத் தேவரை`.
+Method: each physical scan was independently re-read at enlarged/native source resolution against all 13 mandatory families, with the canonical page record used only as the comparison target. No grammar-based repair, global replacement, or silent normalization was used.
 
-### Scan 175 / printed 174
-**VERIFIED / PASS.** Begins `சிக்கவைக்கவேண்டுமென்றும்`; preserve `விமரிசையாக`, `‘திபு திபு’`, `இரத்தக் கறை`, and source `வந்து இறங்கினர்`. Ends physical `போலீசார் அவரைச் சூழ்ந்து`.
+### Scan 119 / printed 118
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Reform-sensitive clusters were reconfirmed directly, including `ஓடினாள்` and recurring `பாலையூர்` forms. Source-specific `பதைக்`, `வஞ்சங்`, `நச்சரவு`, `ஜாடையாக` remain unchanged. Physical end `கவனித்து` remains correct.
 
-### Scan 176 / printed 175
-**VERIFIED / PASS.** Begins `கொண்டார்கள்.`; preserve `நயினு முகம்மதும்`, `நயினு முகம்மது`, source spacing contrast `மருத்துவ மனைக்குத்` / `மருத்துவமனையிலிருந்து`, `விளக்கினன்`, and source-specific `வருந்தி வருந்தி`. Ends complete `யூகம் தெரிவித்தான்.`.
+### Scan 120 / printed 119
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms `தொண்ணூறு`, `எண்ணினான்`, separate `ஏங்கினான்`, and `நின்றாள்`. Centered `15` remains the Chapter 14 / 15 boundary. Physical beginning `விட்டான்.` correctly completes scan 119.
 
-### Scan 177 / printed 176
-**VERIFIED / PASS.** Preserve `அள்ளி வீசினன்`, `நயினுவிடம்`, `நயினுவுக்கோ`, `அபின் கடத்தல் வழக்கில்`, `ருஜுவாகிவிட்டதென்றும்`, and `தானொரு`. Ends complete `அவள் அவன் காலில் விழுந்துக் கண்ணீர் பொழிந்தாள்.`.
+### Scan 121 / printed 120
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms `குமுறினாள்`, `அலறினாள்`, and both `ஓடினான்` occurrences. Source-specific `கரந்தொட்டுப்`, `ஆத்திரமனைத்தையும்`, `அவன்கையில்`, `புறப்படத்தயாராக`, and the `ரயில்வே` / `இரயில்` mix remain unchanged. Physical end `வண்டியில்` remains correct.
 
-### Scan 178 / printed 177
-**VERIFIED / PASS.** Preserve `தழுதழுத்தது`, `தடாலெனத்`, source-specific `இழுமூச்சைத்தாள்`, later `நயினுவும்`, and `புள்ளி மயில்`. Ends complete `சபதத்தை நிறைவேற்றிக்கொண்டு அந்தப் புள்ளி மயில் சவமாகிவிட்டது, வெள்ளிக்கிழமையிலே!`.
+### Scan 122 / printed 121
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms `வருகிறானா`, `போகிறாள்`, `கிளம்பியிருக்கிறாள்` and related old-type clusters. Source-specific `தீமரென`, `அவளையுமறியாமல்`, `தொத்திக்கொண்டான்`, `பலகணி`, and punctuation/spacing remain unchanged. Physical end `சிந்தாமணி, அவளுக்குப் பக்கத்திலே` remains correct.
 
-### Scan 179 / printed 178
-**VERIFIED / PASS. Final narrative page.** Preserve source-specific final `திரும்பினர்கள்.`. Lower-page printed illustration is non-body visual material; faint later handwriting is excluded from canonical narrative. Canonical page-level coverage reaches **179 / 179**.
+### Scan 123 / printed 122
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms `நோக்கினாள்`, `நன்றாகக்`, `தோன்றினாள்` and related clusters. Literal source opening `கார்ந்து கொண்டாள்.` is retained without reconstruction to `உட்கார்ந்து`. `மாது சிரோன்மணி`, `தண்டனைகளையெல்லாம்விட`, and `கதவண்டை` remain source-faithful.
 
-No unresolved source holds remain through scan 179.
+**Batch verdict: PASS — 5/5 scans, 0 corrections, 0 unresolved. Canonical Tamil text unchanged.**
 
 ## Structural/source decisions to preserve
 
 - scan 66 visibly prints only `5`; never infer `65`;
-- scan 82 bottom `6`, scan 98 bottom `7`, scan 114 bottom `8`, scan 130 bottom `9`, scan 146 bottom `10`, scan 162 bottom `11—A`: printer/signature marks;
+- printer/signature marks: scans 82 `6`, 98 `7`, 114 `8`, 130 `9`, 146 `10`, 162 `11—A`;
 - scan 89 / 90 `மறுத்துவிட்` + `டால்`;
 - scan 111 / 112 `சிறிதா` + `வது` = `சிறிதாவது`;
 - scan 117 / 118 literal `உட்` → `எவ்வளவோ...`; no grammatical reconstruction;
 - scan 119 / 120 `கவனித்து` → `விட்டான்.`;
+- scan 121 / 122 `வண்டியில்` → `ஒரே கூட்டம்.`;
 - scan 122 / 123 literal `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`;
 - scan 124 / 125 `புகை` + `வண்டி` = `புகைவண்டி`;
 - scan 127 / 128 `வாழ்` + `விலே` = `வாழ்விலே`;
@@ -76,54 +77,35 @@ No unresolved source holds remain through scan 179.
 - scan 138 / 139 `‘மளமள’` → `வென்று...`;
 - scan 139 / 140 `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`;
 - scan 140 / 141 `நயினா` → `எதுவும் பேசவில்லை.`;
-- scan 142 Chapter 18 opening, centered `18`;
 - scan 142 / 143 `வாசகங்கள்` → `இருந்தன.`;
 - scan 144 / 145 `வரவழைத்துக்` + `கொண்டான்`;
-- scan 145 / 146 `ஏது` → `அவ்வளவு அக்கறை!`;
 - scan 146 / 147 `கூறியதுதான்` + `தாமதம்;`;
 - scan 147 / 148 `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`;
-- scan 149 Chapter 19 opening, centered `19`;
 - scan 149 / 150 `புறப்` + `பட்டுவிட்டாயே!`;
 - scan 150 / 151 `தேவ` + `லோகத்தில்`;
 - scan 152 / 153 `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
-- scan 154 Chapter 20 opening, centered `20`;
 - scan 155 / 156 `சோலை` + `யில்`;
 - scan 156 / 157 literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`;
 - scan 157 / 158 `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`;
 - scan 158 / 159 `வராத` + `கண்ணீர்,`;
 - scan 159 / 160 `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`;
-- scan 160 Chapter 21 opening, centered `21`;
 - scan 160 / 161 `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது...`;
-- scan 163 ends complete `கொலைகாரா!”`;
 - scan 164 / 165 `கத்தி` + `னான்.` = `கத்தினான்.`;
-- scan 165 printed `* * *` divider; ends `அதற்குள்`;
 - scan 165 / 166 `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`;
-- scan 166 Chapter 22 opening, centered `22`;
-- scan 166 / 167 physical em-dash → direct source `அம்மாவின் பக்கத்திலே...`;
+- scan 166 / 167 physical em-dash → direct source continuation;
 - scan 167 / 168 `போய்ச் சேர்ந்து` → `விடவேண்டுமென்ற...`;
 - scan 169 / 170 `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`;
 - scan 170 / 171 `“எஜமான்!....இடும்பன்...”` → `என்றான்.`;
 - scan 171 / 172 `வம்புச் சண்டையெல்லாம்` + `நடந்தது.`;
-- scan 172 Chapter 23 opening, centered `23`;
 - scan 173 / 174 `அவள் நெஞ்சிலே` → `எழுந்த குமுறல்கள்!...`;
 - scan 174 / 175 `உண்மையான பாலகங்காதரத் தேவரை` → `சிக்கவைக்கவேண்டுமென்றும்,`;
 - scan 175 / 176 `போலீசார் அவரைச் சூழ்ந்து` → `கொண்டார்கள்.`;
-- scans 176–179 end on complete source sentences; scan 179 is the final narrative page.
+- scan 179 lower illustration and faint handwriting are non-body material.
 
-## User-directed second historical-glyph re-audit plan
+## Second re-audit sequence
 
-Process exactly five scans per iteration:
-
-`119–123 → 124–128 → 129–133 → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
-
-Each iteration must:
-1. use source pixels, not grammar, as character authority;
-2. inspect all 13 mandatory families;
-3. make only individually source-supported corrections;
-4. never global-replace;
-5. record corrections / zero-correction PASS and unresolved holds;
-6. update durable audit state before moving to the next batch.
+`119–123 ✓ → 124–128 → 129–133 → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
 
 ## Exact next activity
 
-Second historical-glyph re-audit **scans 119–123**. Do not start assembled Tamil or English.
+Run the independent second historical-glyph audit for **scans 124–128** only. Preserve scan 124 / 125 `புகை` + `வண்டி`, scan 127 centered `16`, and scan 127 / 128 `வாழ்` + `விலே`. Do not start assembled Tamil or English.

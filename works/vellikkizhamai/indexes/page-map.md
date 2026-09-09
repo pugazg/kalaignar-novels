@@ -9,7 +9,8 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - canonical page records: **179 / 179 — COMPLETE**;
 - body transcription: **through final scan 179 / printed 178**;
 - forward historical-glyph coverage: **PASS scans 1–179**;
-- user-directed second glyph re-audit: **pending scans 119–179; next 119–123**;
+- user-directed second glyph re-audit: **IN PROGRESS — scans 119–123 PASS / 5 of 61; 0 corrections**;
+- second re-audit next batch: **124–128**;
 - printed-page values are source-confirmed, not inferred.
 
 ## Printed-page mapping
@@ -51,54 +52,67 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 ## Historical-glyph rule
 
-Mandatory source-pixel set on every scan:
+Mandatory source-pixel set on every second-pass scan:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
 Grammar is only a locator. Character identity comes from source pixels and same-edition comparison. Never global-replace or normalize source wording.
 
+## Second historical-glyph re-audit status
+
+| Scan | Printed | Section | Second-pass status | Corrections | Durable note |
+|---:|---:|---|---|---:|---|
+| 119 | 118 | Chapter 14 | PASS | 0 | `ஓடினாள்`; ends `கவனித்து` |
+| 120 | 119 | Chapter 14 / 15 | PASS | 0 | `தொண்ணூறு`; `எண்ணினான்`; `ஏங்கினான்`; `நின்றாள்`; centered `15` |
+| 121 | 120 | Chapter 15 | PASS | 0 | `குமுறினாள்`; `அலறினாள்`; both `ஓடினான்`; ends `வண்டியில்` |
+| 122 | 121 | Chapter 15 | PASS | 0 | `வருகிறானா`; `போகிறாள்`; `கிளம்பியிருக்கிறாள்`; ends `...அவளுக்குப் பக்கத்திலே` |
+| 123 | 122 | Chapter 15 | PASS | 0 | literal opening `கார்ந்து கொண்டாள்.`; `நோக்கினாள்`; `நன்றாகக்`; `தோன்றினாள்` |
+
+Remaining second-pass ranges: **124–179 pending**. Next exact iteration: **124–128**.
+
 ## Durable physical/source exceptions
 
 - scan 66 visibly prints only `5`;
 - printer/signature marks: scans 82 `6`, 98 `7`, 114 `8`, 130 `9`, 146 `10`, 162 `11—A`;
-- scan 89 / 90 `மறுத்துவிட்` + `டால்`;
-- scan 111 / 112 `சிறிதா` + `வது`;
-- scan 117 / 118 literal `உட்` → `எவ்வளவோ...`;
-- scan 119 / 120 `கவனித்து` → `விட்டான்.`;
-- scan 122 / 123 literal `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`;
-- scan 124 / 125 `புகை` + `வண்டி`;
-- scan 127 / 128 `வாழ்` + `விலே`;
-- scan 129 / 130 `அழகப்ப` + `னுடைய`;
-- scan 131 / 132 `பின்னிக்` + `கொண்டன`;
-- scan 134 / 135 `நயினாவின்` → `கேள்வி`;
-- scan 135 / 136 `வருத்தத்` + `தோடு`;
-- scan 137 / 138 `“இதோ,` → `கொண்டுவருகிறேன்”`;
-- scan 138 / 139 `‘மளமள’` → `வென்று...`;
-- scan 139 / 140 `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`;
-- scan 140 / 141 `நயினா` → `எதுவும் பேசவில்லை.`;
-- scan 142 / 143 `வாசகங்கள்` → `இருந்தன.`;
-- scan 144 / 145 `வரவழைத்துக்` + `கொண்டான்`;
-- scan 146 / 147 `கூறியதுதான்` + `தாமதம்;`;
-- scan 147 / 148 `சந்திப்` + `பதற்காக!`;
-- scan 149 / 150 `புறப்` + `பட்டுவிட்டாயே!`;
-- scan 150 / 151 `தேவ` + `லோகத்தில்`;
-- scan 152 / 153 `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
-- scan 155 / 156 `சோலை` + `யில்`;
-- scan 156 / 157 literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`;
-- scan 157 / 158 `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`;
-- scan 158 / 159 `வராத` + `கண்ணீர்,`;
-- scan 159 / 160 `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`;
-- scan 160 / 161 `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது...`;
-- scan 164 / 165 `கத்தி` + `னான்.`;
-- scan 165 / 166 `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`;
-- scan 166 / 167 physical em-dash → direct source continuation;
-- scan 167 / 168 `போய்ச் சேர்ந்து` → `விடவேண்டுமென்ற...`;
-- scan 169 / 170 `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`;
-- scan 170 / 171 `“எஜமான்!....இடும்பன்...”` → `என்றான்.`;
-- scan 171 / 172 `வம்புச் சண்டையெல்லாம்` + `நடந்தது.`;
-- scan 173 / 174 `அவள் நெஞ்சிலே` → `எழுந்த குமுறல்கள்!...`;
-- scan 174 / 175 `உண்மையான பாலகங்காதரத் தேவரை` → `சிக்கவைக்கவேண்டுமென்றும்,`;
-- scan 175 / 176 `போலீசார் அவரைச் சூழ்ந்து` → `கொண்டார்கள்.`;
+- scan 89 / 90 — `மறுத்துவிட்` + `டால்`;
+- scan 111 / 112 — `சிறிதா` + `வது`;
+- scan 117 / 118 — literal `உட்` → `எவ்வளவோ...`;
+- scan 119 / 120 — `கவனித்து` → `விட்டான்.`;
+- scan 121 / 122 — `வண்டியில்` → `ஒரே கூட்டம்.`;
+- scan 122 / 123 — literal `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`;
+- scan 124 / 125 — `புகை` + `வண்டி`;
+- scan 127 / 128 — `வாழ்` + `விலே`;
+- scan 129 / 130 — `அழகப்ப` + `னுடைய`;
+- scan 131 / 132 — `பின்னிக்` + `கொண்டன`;
+- scan 134 / 135 — `நயினாவின்` → `கேள்வி`;
+- scan 135 / 136 — `வருத்தத்` + `தோடு`;
+- scan 137 / 138 — `“இதோ,` → `கொண்டுவருகிறேன்”`;
+- scan 138 / 139 — `‘மளமள’` → `வென்று...`;
+- scan 139 / 140 — `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`;
+- scan 140 / 141 — `நயினா` → `எதுவும் பேசவில்லை.`;
+- scan 142 / 143 — `வாசகங்கள்` → `இருந்தன.`;
+- scan 144 / 145 — `வரவழைத்துக்` + `கொண்டான்`;
+- scan 146 / 147 — `கூறியதுதான்` + `தாமதம்;`;
+- scan 147 / 148 — `சந்திப்` + `பதற்காக!`;
+- scan 149 / 150 — `புறப்` + `பட்டுவிட்டாயே!`;
+- scan 150 / 151 — `தேவ` + `லோகத்தில்`;
+- scan 152 / 153 — `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
+- scan 155 / 156 — `சோலை` + `யில்`;
+- scan 156 / 157 — literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`;
+- scan 157 / 158 — `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`;
+- scan 158 / 159 — `வராத` + `கண்ணீர்,`;
+- scan 159 / 160 — `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`;
+- scan 160 / 161 — `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது...`;
+- scan 164 / 165 — `கத்தி` + `னான்.`;
+- scan 165 / 166 — `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`;
+- scan 166 / 167 — physical em-dash → direct source continuation;
+- scan 167 / 168 — `போய்ச் சேர்ந்து` → `விடவேண்டுமென்ற...`;
+- scan 169 / 170 — `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`;
+- scan 170 / 171 — `“எஜமான்!....இடும்பன்...”` → `என்றான்.`;
+- scan 171 / 172 — `வம்புச் சண்டையெல்லாம்` + `நடந்தது.`;
+- scan 173 / 174 — `அவள் நெஞ்சிலே` → `எழுந்த குமுறல்கள்!...`;
+- scan 174 / 175 — `உண்மையான பாலகங்காதரத் தேவரை` → `சிக்கவைக்கவேண்டுமென்றும்,`;
+- scan 175 / 176 — `போலீசார் அவரைச் சூழ்ந்து` → `கொண்டார்கள்.`;
 - scan 179 lower illustration and faint handwriting are non-body material.
 
 ## Final canonical end — scans 170–179
@@ -119,8 +133,10 @@ Grammar is only a locator. Character identity comes from source pixels and same-
 ## Remaining scan-status ranges
 
 - scans **1–179** — canonical / verified;
+- second re-audit **119–123 PASS**;
+- second re-audit **124–179 pending**;
 - no page-level transcription gap remains.
 
 ## Exact next activity
 
-User-directed second historical-glyph re-audit **scans 119–123**, then continue in 5-scan iterations through scan 179.
+User-directed second historical-glyph re-audit **scans 124–128** only, then continue in 5-scan iterations through scan 179.

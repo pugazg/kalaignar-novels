@@ -12,45 +12,43 @@
 - SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`;
 - page manifest: **179 / 179**;
 - canonical page records: **179 / 179 — COMPLETE**;
-- Chapter 23 opens: **scan 172 / printed 171**, centered `23`;
-- Chapter 23 / novel transcription ends: **scan 179 / printed 178**;
+- final narrative: **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- user-directed second historical-glyph re-audit: **NOT STARTED — scans 119–179**;
-- second re-audit next batch: **scans 119–123**;
+- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–123 PASS / 5 of 61 scans complete**;
+- second re-audit corrections through scan 123: **0**;
+- second re-audit next batch: **scans 124–128**;
 - second re-audit batch size: **5 scans per iteration**;
 - full Tamil source audit / assembled Tamil / English: **blocked pending second glyph re-audit / not started / blocked**.
 
 ## Mandatory historical-glyph rule
 
-Every scan is checked directly against:
+Every re-audit scan is checked directly against:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Character identity comes from source pixels first. Grammar is only a locator. Preserve source spelling, grammar, punctuation, spacing, colloquial forms and physical page boundaries. Never global-replace. Recurring `நயினா` remains controlling where directly printed; later direct forms such as `நயினு` are also preserved exactly.
+Character identity comes from source pixels first. Grammar is only a locator. Preserve source spelling, grammar, punctuation, spacing, colloquial forms and physical page boundaries. Never global-replace or silently normalize.
 
-## Final transcription batch — scans 174–179
+## Second historical-glyph re-audit — batch 1 / scans 119–123
 
-- **174 / printed 173:** PASS; begins `எழுந்த குமுறல்கள்!...` continuing scan 173 `அவள் நெஞ்சிலே`; preserve `விவரிக்கவொண்ண`, `வாசற்படிகூட`, `சனாதனி`, `பக்தசிரோன்மணியை`, `பாழ்வன மாக்கிவிட்டார்`, `நயினு முகம்மதும்`; ends `உண்மையான பாலகங்காதரத் தேவரை`.
-- **175 / printed 174:** PASS; begins `சிக்கவைக்கவேண்டுமென்றும்`; preserve `விமரிசையாக`, `‘திபு திபு’`, `இரத்தக் கறை`, `வந்து இறங்கினர்`; ends `போலீசார் அவரைச் சூழ்ந்து`.
-- **176 / printed 175:** PASS; begins `கொண்டார்கள்.`; preserve `நயினு முகம்மதும்`, `நயினு முகம்மது`, `மருத்துவ மனைக்குத்`, `மருத்துவமனையிலிருந்து`, `விளக்கினன்`, source-specific `வருந்தி வருந்தி`; ends complete `யூகம் தெரிவித்தான்.`.
-- **177 / printed 176:** PASS; preserve `அள்ளி வீசினன்`, `நயினுவிடம்`, `நயினுவுக்கோ`, `அபின் கடத்தல் வழக்கில்`, `ருஜுவாகிவிட்டதென்றும்`, `தானொரு`; ends complete `அவள் அவன் காலில் விழுந்துக் கண்ணீர் பொழிந்தாள்.`.
-- **178 / printed 177:** PASS; preserve `தழுதழுத்தது`, `தடாலெனத்`, source-specific `இழுமூச்சைத்தாள்`, `நயினுவும்`, and `புள்ளி மயில்`; ends complete `வெள்ளிக்கிழமையிலே!`.
-- **179 / printed 178:** PASS; final narrative paragraph ends source-specific `திரும்பினர்கள்.`; lower-page illustration retained as non-body visual material; faint later handwriting excluded from canonical narrative.
+All five scans were independently re-read from the controlling source after canonical completion. **Result: PASS — 0 corrections / 0 unresolved.**
 
-No unresolved source hold remains through scan 179.
+- **119 / printed 118:** PASS; old-type/reform-sensitive forms rechecked directly, including `ஓடினாள்` and recurring `பாலையூர்` clusters; physical end `கவனித்து` retained.
+- **120 / printed 119:** PASS; `தொண்ணூறு`, `எண்ணினான்`, `ஏங்கினான்`, `நின்றாள்` and related reform-sensitive clusters confirmed; centered `15` remains the Chapter 14 / 15 boundary; begins `விட்டான்.`.
+- **121 / printed 120:** PASS; `குமுறினாள்`, `அலறினாள்`, both source `ஓடினான்` occurrences and related forms confirmed; ends physical `வண்டியில்`.
+- **122 / printed 121:** PASS; `வருகிறானா`, `போகிறாள்`, `கிளம்பியிருக்கிறாள்` and related old-type clusters confirmed; ends physical `சிந்தாமணி, அவளுக்குப் பக்கத்திலே`.
+- **123 / printed 122:** PASS; `நோக்கினாள்`, `நன்றாகக்`, `தோன்றினாள்` and related clusters confirmed; literal source opening `கார்ந்து கொண்டாள்.` remains unchanged.
 
-## Final durable boundaries
+No canonical Tamil text changed in this second-pass batch.
 
-- scan 173 / 174: `அவள் நெஞ்சிலே` → `எழுந்த குமுறல்கள்!...`;
-- scan 174 / 175: `உண்மையான பாலகங்காதரத் தேவரை` → `சிக்கவைக்கவேண்டுமென்றும்,`;
-- scan 175 / 176: `போலீசார் அவரைச் சூழ்ந்து` → `கொண்டார்கள்.`;
-- scan 176 ends complete `யூகம் தெரிவித்தான்.`;
-- scan 177 ends complete `அவள் அவன் காலில் விழுந்துக் கண்ணீர் பொழிந்தாள்.`;
-- scan 178 ends complete `...வெள்ளிக்கிழமையிலே!`;
-- scan 179 final narrative ends complete `திரும்பினர்கள்.`.
+## Durable boundaries retained
 
-Older durable boundaries and printer/signature-mark decisions remain authoritative in `audit.md` and `indexes/page-map.md`.
+- scan 119 / 120: `கவனித்து` → `விட்டான்.`;
+- scan 120: centered `15` opens Chapter 15;
+- scan 121 / 122: `வண்டியில்` → `ஒரே கூட்டம்.`;
+- scan 122 / 123: literal `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`; no grammatical reconstruction.
+
+Older source/boundary decisions remain authoritative in `audit.md` and `indexes/page-map.md`.
 
 ## Key records
 
@@ -61,4 +59,4 @@ Older durable boundaries and printer/signature-mark decisions remain authoritati
 
 ## Exact next activity
 
-Perform the user-directed **second historical-Tamil-glyph re-audit, scans 119–123**, as the first 5-page iteration of the 119–179 re-audit. Do not start assembled Tamil or English.
+Perform the second historical-Tamil-glyph re-audit for **scans 124–128** only, as the next 5-page iteration. Preserve known boundaries including scan 124 / 125 `புகை` + `வண்டி` = `புகைவண்டி`, scan 127 centered `16`, and scan 127 / 128 `வாழ்` + `விலே` = `வாழ்விலே`. Do not start assembled Tamil or English.
