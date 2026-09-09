@@ -6,12 +6,12 @@
 |---|---|
 | Source identity / checksum / page count | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **148 / 179** |
-| Body transcription | **through scan 148 / printed 147** |
-| Printed-page map | **directly confirmed through scan 148; scan 66 visibly prints only `5`** |
-| Chapter map | **direct through Chapter 18; Chapter 18 opens at scan 142** |
-| Historical-glyph coverage | **PASS scans 1–148** |
-| Forward transcription | **next 5-scan iteration 149–153** |
+| Canonical page records | **153 / 179** |
+| Body transcription | **through scan 153 / printed 152** |
+| Printed-page map | **directly confirmed through scan 153; scan 66 visibly prints only `5`** |
+| Chapter map | **direct through Chapter 19; Chapter 19 opens at scan 149** |
+| Historical-glyph coverage | **PASS scans 1–153** |
+| Forward transcription | **next 5-scan iteration 154–158** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -22,7 +22,7 @@ Mandatory family set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Character identity is decided from source pixels first; grammar is only a locator. Never global-replace or silently modernize source wording. The expanded corrective re-audit remains controlling; independently source-confirmed forms such as recurring `நயினா` and later source-specific spellings remain untouched.
+Character identity is decided from source pixels first; grammar is only a locator. Never global-replace or silently modernize source wording. The expanded corrective re-audit remains controlling; independently source-confirmed forms such as recurring `நயினா` remain untouched.
 
 ## Coverage
 
@@ -30,40 +30,27 @@ Character identity is decided from source pixels first; grammar is only a locato
 - scans **102–111**: corrective audit;
 - scans **112–118**: forward audit;
 - expanded corrective re-audit repaired old-type `னா` / `றா` misses across the existing corpus;
-- scans **119–148**: forward source-pixel audit with the mandatory 13-family set;
-- current canonical scans **1–148 are PASS**.
+- scans **119–153**: forward source-pixel audit with the mandatory 13-family set;
+- current canonical scans **1–153 are PASS**.
 
-## Current forward end
+## Latest verified batch
 
-### Scan 139 / printed 138
-**VERIFIED / PASS.** Begins `வென்று`, continuing scan 138 `‘மளமள’`; ends physical `புயலால் தாக்குண்டவன்போல`.
+### Scan 149 / printed 148
+**VERIFIED / PASS. Chapter 19 opening.** Centered `19`; direct source begins a new chapter after scan 148's complete ending. Preserve source forms including `துயர்களை யேற்று`; ends physical `புறப்`.
 
-### Scan 140 / printed 139
-**VERIFIED / PASS.** Begins `ஆனேன் அன்று!`; preserve `வழங்கினை`, `சூறாவளி`, `நானுந்தான்`; ends `நயினா`.
+### Scan 150 / printed 149
+**VERIFIED / PASS.** Begins `பட்டுவிட்டாயே!`, completing scan 149; source-specific wording retained; ends physical `தேவ`.
 
-### Scan 141 / printed 140
-**VERIFIED / PASS.** Begins `எதுவும் பேசவில்லை.`; preserve `காணத் வேண்டிப்போலவே`, `சிந்தாமணியோட`, `யொருவர்`; ends complete sentence.
+### Scan 151 / printed 150
+**VERIFIED / PASS.** Begins `லோகத்தில்`, completing `தேவலோகத்தில்`; source-specific `ஆவேசங்கொண்டு`, `மருத்துவ மனையிருக்கும்`, and `துவங்கியது` retained; ends a complete question.
 
-### Scan 142 / printed 141
-**VERIFIED / PASS. Chapter 18 opening.** Centered `18`; preserve `கைகாரியானாள்`, `நினைக்காதீர்கள்`, `நனைந்துபோன`; ends `வாசகங்கள்`.
+### Scan 152 / printed 151
+**VERIFIED / PASS.** Recurring old-type `நயினா` and `நயினாதான்` directly confirmed; `அவ்விடம்`, `அழகுவின்`, and `கொசுவலையிருக்கிறது` retained; ends `வழக்கமாக உறங்கும்`.
 
-### Scan 143 / printed 142
-**VERIFIED / PASS.** Begins `இருந்தன.`; preserve `அனைவருங்கூடி`, `விளக்கமுறைக்கவேண்டுமென்று`, `ஆனந்திமீது`, `எங்ஙனம்`; ends complete sentence.
+### Scan 153 / printed 152
+**VERIFIED / PASS.** Begins `அறைக்கல்லவா போகிறாள்!`; source-specific `பீறிட்டுப்`, `ஸ்பரிச`, `நயினா முகமதுவும்`, and `ஈன சுரத்தில்` retained; ends a complete sentence.
 
-### Scan 144 / printed 143
-**VERIFIED / PASS.** Preserve `தவறுக் கருதிவிட்டானே`, `ஆள்மயக்கும்`, `தவறுக் கருத்துக்கூடும்`; ends physical `வரவழைத்துக்`.
-
-### Scan 145 / printed 144
-**VERIFIED / PASS.** Begins `கொண்டான் நயினா!`, completing scan 144; three-star divider preserved; preserve `காற்று வாக்கில்`, `புளகாங்கித மூட்டுவனவாக`; ends physical `ஏது`.
-
-### Scan 146 / printed 145
-**VERIFIED / PASS.** Begins `அவ்வளவு அக்கறை!`, continuing scan 145; preserve `இளந் தாடியுடனும்`, `பட்டுச் சொக்காய்`, `பெங்களூர் பெரியசாமின்னு`; bottom `10` printer/signature mark; ends physical `கூறியதுதான்`.
-
-### Scan 147 / printed 146
-**VERIFIED / PASS.** Begins `தாமதம்;`, completing `கூறியதுதான் தாமதம்;`; preserve `மிரளமிரள`, `என்றைக்கிருந்தாலும்`, `கூட்டிட்டாள்`; ends physical `சந்திப்`.
-
-### Scan 148 / printed 147
-**VERIFIED / PASS.** Begins `பதற்காக!`, completing `சந்திப்பதற்காக!`; preserve `சிற்றவள்`, `செந்தேள்கள்`, `விறிட்டுக்`, `நிம்மதியாக`; ends complete sentence.
+No unresolved source holds remain in scans 149–153.
 
 ## Structural/source decisions to preserve
 
@@ -108,8 +95,14 @@ Character identity is decided from source pixels first; grammar is only a locato
 - scan 146 bottom `10` printer/signature mark;
 - scan 146 / 147 `கூறியதுதான்` + `தாமதம்;`;
 - scan 147 / 148 `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`;
-- scan 148 ends complete sentence.
+- scan 148 ends complete sentence;
+- scan 149 Chapter 19 opening, centered `19`;
+- scan 149 / 150 `புறப்` + `பட்டுவிட்டாயே!` = `புறப்பட்டுவிட்டாயே!`;
+- scan 150 / 151 `தேவ` + `லோகத்தில்` = `தேவலோகத்தில்`;
+- scan 151 ends complete `பிடித்து விட்டால்...?` question;
+- scan 152 / 153 `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
+- scan 153 ends complete sentence.
 
 ## Exact next activity
 
-Process **scans 149–153** using the bounded production workflow: transcribe all five pages first, run one mandatory 13-family batch sweep, allow at most one targeted enlargement per genuinely unclear token, and record a source hold if still unresolved. Do not start assembled Tamil or English.
+Process **scans 154–158** using the bounded production workflow: transcribe all five pages first, run one mandatory 13-family batch sweep, allow at most one targeted enlargement per genuinely unclear token, and record a source hold if still unresolved. Do not start assembled Tamil or English.

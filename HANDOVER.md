@@ -18,12 +18,13 @@ Fetch live `main` first and preserve newer durable work.
 ## Current durable state
 
 - manifest **179 / 179**;
-- canonical records **148 / 179**;
+- canonical records **153 / 179**;
 - Chapter 16 / 17 boundary: **scan 134 / printed 133**, centered `17`;
 - Chapter 18 opens: **scan 142 / printed 141**, centered `18`;
-- Chapter 18 transcribed through **scan 148 / printed 147**;
-- historical-glyph coverage: **PASS scans 1–148**;
-- next forward iteration: **scans 149–153**;
+- Chapter 19 opens: **scan 149 / printed 148**, centered `19`;
+- Chapter 19 transcribed through **scan 153 / printed 152**;
+- historical-glyph coverage: **PASS scans 1–153**;
+- next forward iteration: **scans 154–158**;
 - batch size: **5 scans**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
@@ -52,16 +53,16 @@ For each 5-scan batch:
 
 ## Recent durable results
 
-- scan 139: begins `வென்று`, continuing `‘மளமள’`; ends `புயலால் தாக்குண்டவன்போல`;
-- scan 140: begins `ஆனேன் அன்று!`; preserve `வழங்கினை`, `சூறாவளி`, `நானுந்தான்`; ends `நயினா`;
-- scan 141: begins `எதுவும் பேசவில்லை.`; preserve `காணத் வேண்டிப்போலவே`, `சிந்தாமணியோட`, `யொருவர்`;
-- scan 142: Chapter 18 opening, centered `18`; preserve `கைகாரியானாள்`, `நினைக்காதீர்கள்`, `நனைந்துபோன`; ends `வாசகங்கள்`;
-- scan 143: begins `இருந்தன.`; preserve `அனைவருங்கூடி`, `விளக்கமுறைக்கவேண்டுமென்று`, `ஆனந்திமீது`, `எங்ஙனம்`; ends complete sentence;
-- scan 144: preserve `தவறுக் கருதிவிட்டானே`, `ஆள்மயக்கும்`, `தவறுக் கருத்துக்கூடும்`; ends `வரவழைத்துக்`;
+- scan 144: preserve `தவறுக் கருதிவிட்டானே`, `ஆள்மயக்கும்`, `தவறுக் கருத்துக்கூடும்`; ends physical `வரவழைத்துக்`;
 - scan 145: begins `கொண்டான் நயினா!`; printed three-star divider; preserve `காற்று வாக்கில்`, `புளகாங்கித மூட்டுவனவாக`; ends `ஏது`;
 - scan 146: begins `அவ்வளவு அக்கறை!`; preserve `இளந் தாடியுடனும்`, `பட்டுச் சொக்காய்`, `பெங்களூர் பெரியசாமின்னு`; bottom `10` printer/signature mark; ends `கூறியதுதான்`;
 - scan 147: begins `தாமதம்;`; preserve `மிரளமிரள`, `என்றைக்கிருந்தாலும்`, `கூட்டிட்டாள்`; ends `சந்திப்`;
-- scan 148: begins `பதற்காக!`; preserve `சிற்றவள்`, `செந்தேள்கள்`, `விறிட்டுக்`, `நிம்மதியாக`; ends complete sentence.
+- scan 148: begins `பதற்காக!`; preserve `சிற்றவள்`, `செந்தேள்கள்`, `விறிட்டுக்`, `நிம்மதியாக`; ends complete sentence;
+- scan 149: Chapter 19 opening, centered `19`; preserve `சாவைத்தவிர`, `“மாங்கல்ய”மும்`, `துயர்களை யேற்று`, `நவிந்துபோனாயே`; ends physical `புறப்`;
+- scan 150: begins `பட்டுவிட்டாயே!`; preserve `இழிவுப்படு குழியிலே`, `பெண்ணுருவப் பேய்`, `முதல்வேலை`, source `எமனாக`; ends physical `தேவ`;
+- scan 151: begins `லோகத்தில்`; preserve `ஆவேசங்கொண்டு`, `வெறிபிடித்தவள்போல`, `மருத்துவ மனையிருக்கும்`, `துவங்கியது`, `சேச்சே...`; ends completed `பிடித்து விட்டால்...?` question;
+- scan 152: preserve `அவ்விடம்`, `நயினா வலியுறுத்தியதன்பேரில்`, `அழகுவின்`, `நயினாதான்`, `கொசுவலையிருக்கிறது`; ends `வழக்கமாக உறங்கும்`;
+- scan 153: begins `அறைக்கல்லவா போகிறாள்!`; preserve `பீறிட்டுப்`, `ஸ்பரிச`, `நயினா முகமதுவும்`, `ஈன சுரத்தில்`; ends complete sentence.
 
 ## Structural/source decisions to preserve
 
@@ -90,14 +91,20 @@ For each 5-scan batch:
 - scan 146 bottom `10` printer/signature mark;
 - scan 146 / 147 `கூறியதுதான்` + `தாமதம்;`;
 - scan 147 / 148 `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`;
-- scan 148 ends complete sentence.
+- scan 148 ends complete sentence;
+- scan 149 opens Chapter 19, centered `19`;
+- scan 149 / 150 `புறப்` + `பட்டுவிட்டாயே!` = `புறப்பட்டுவிட்டாயே!`;
+- scan 150 / 151 `தேவ` + `லோகத்தில்` = `தேவலோகத்தில்`;
+- scan 151 ends completed question `பிடித்து விட்டால்...?`;
+- scan 152 / 153 `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
+- scan 153 ends complete sentence.
 
 ## Exact next activity
 
 1. re-fetch live `main`;
 2. resolve controlling source;
-3. process **scans 149–153** in one bounded 5-page iteration;
-4. establish scan 149 only from direct source pixels after scan 148's complete ending;
+3. process **scans 154–158** in one bounded 5-page iteration;
+4. establish scan 154 only from direct source pixels after scan 153's complete ending;
 5. run one batch glyph sweep and bounded ambiguity handling;
 6. synchronize page records and status documents and commit atomically.
 

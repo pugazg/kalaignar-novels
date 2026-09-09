@@ -6,10 +6,10 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count: **179**;
 - mapping coverage: **179 / 179 represented by ranges and exceptions below**;
-- canonical page records: **148 / 179**;
-- body transcription: **through scan 148 / printed 147**;
-- historical-glyph coverage: **PASS scans 1–148**;
-- next forward processing: **scans 149–153**, 5 scans per iteration;
+- canonical page records: **153 / 179**;
+- body transcription: **through scan 153 / printed 152**;
+- historical-glyph coverage: **PASS scans 1–153**;
+- next forward processing: **scans 154–158**, 5 scans per iteration;
 - printed-page values are never inferred where the source has not been directly confirmed.
 
 Detailed lexical/glyph evidence remains in each canonical page record and `../audit.md`.
@@ -22,8 +22,8 @@ Detailed lexical/glyph evidence remains in each canonical page record and `../au
 - scan **9** — body page with no visible printed number recorded;
 - scans **10–65** — printed **9–64**;
 - scan **66** — source visibly prints only **`5`**; never infer `65`;
-- scans **67–148** — printed **66–147**;
-- scans **149–175** — pending direct source confirmation;
+- scans **67–153** — printed **66–152**;
+- scans **154–175** — pending direct source confirmation;
 - scan **176** — printed **175**, directly confirmed;
 - scans **177–178** — pending direct source confirmation;
 - scan **179** — printed **178**, final narrative page plus illustration.
@@ -47,7 +47,8 @@ Detailed lexical/glyph evidence remains in each canonical page record and `../au
 - scan 120 — Chapter 14 / 15 boundary, centered `15`;
 - scan 127 — Chapter 16 opening, centered `16`;
 - scan 134 — Chapter 16 / 17 boundary, centered `17`;
-- scan 142 — Chapter 18 opening, centered `18`.
+- scan 142 — Chapter 18 opening, centered `18`;
+- scan 149 — Chapter 19 opening, centered `19`.
 
 ## Historical-glyph rule
 
@@ -84,31 +85,36 @@ Grammar is only a locator. Character identity comes from source pixels and same-
 - scan 145 / 146 — `ஏது` → `அவ்வளவு அக்கறை!`;
 - scan 146 bottom `10` — printer/signature mark;
 - scan 146 / 147 — `கூறியதுதான்` + `தாமதம்;` = `கூறியதுதான் தாமதம்;`;
-- scan 147 / 148 — `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`.
+- scan 147 / 148 — `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`;
+- scan 149 — Chapter 19 opening, centered `19`;
+- scan 149 / 150 — `புறப்` + `பட்டுவிட்டாயே!` = `புறப்பட்டுவிட்டாயே!`;
+- scan 150 / 151 — `தேவ` + `லோகத்தில்` = `தேவலோகத்தில்`;
+- scan 152 / 153 — `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
+- scan 153 ends a complete sentence.
 
-## Current canonical end — scans 139–148
+## Current canonical end — scans 144–153
 
 | Scan | Printed | Section | Status | Durable note |
 |---:|---:|---|---|---|
-| 139 | 138 | Chapter 17 | verified | begins `வென்று`; ends `புயலால் தாக்குண்டவன்போல` |
-| 140 | 139 | Chapter 17 | verified | begins `ஆனேன் அன்று!`; `வழங்கினை`, `சூறாவளி`; ends `நயினா` |
-| 141 | 140 | Chapter 17 | verified | begins `எதுவும் பேசவில்லை.`; ends complete sentence |
-| 142 | 141 | Chapter 18 opening | verified | centered `18`; ends `வாசகங்கள்` |
-| 143 | 142 | Chapter 18 | verified | begins `இருந்தன.`; ends complete sentence |
 | 144 | 143 | Chapter 18 | verified | `ஆள்மயக்கும்`; ends `வரவழைத்துக்` |
 | 145 | 144 | Chapter 18 | verified | begins `கொண்டான் நயினா!`; three-star divider; ends `ஏது` |
-| 146 | 145 | Chapter 18 | verified | begins `அவ்வளவு அக்கறை!`; bottom `10` printer mark; ends `கூறியதுதான்` |
+| 146 | 145 | Chapter 18 | verified | bottom `10` printer mark; ends `கூறியதுதான்` |
 | 147 | 146 | Chapter 18 | verified | begins `தாமதம்;`; ends `சந்திப்` |
-| 148 | 147 | Chapter 18 | verified | begins `பதற்காக!`; `விறிட்டுக்`; ends complete sentence |
+| 148 | 147 | Chapter 18 | verified | begins `பதற்காக!`; ends complete sentence |
+| 149 | 148 | Chapter 19 opening | verified | centered `19`; ends `புறப்` |
+| 150 | 149 | Chapter 19 | verified | begins `பட்டுவிட்டாயே!`; ends `தேவ` |
+| 151 | 150 | Chapter 19 | verified | begins `லோகத்தில்`; ends complete question |
+| 152 | 151 | Chapter 19 | verified | `நயினாதான்`; ends `வழக்கமாக உறங்கும்` |
+| 153 | 152 | Chapter 19 | verified | begins `அறைக்கல்லவா போகிறாள்!`; ends complete sentence |
 
 ## Remaining scan-status ranges
 
-- scans **1–148** — canonical / verified;
-- scans **149–175** — not started;
+- scans **1–153** — canonical / verified;
+- scans **154–175** — not started;
 - scan **176** — not started; printed 175 directly confirmed;
 - scans **177–178** — not started;
 - scan **179** — not started; printed 178, final page.
 
 ## Exact next activity
 
-Process **scans 149–153** as the next bounded 5-scan iteration. Establish scan 149 only from direct source evidence after scan 148's complete ending. Do not start assembled Tamil or English.
+Process **scans 154–158** as the next bounded 5-scan iteration. Establish scan 154 only from direct source evidence after scan 153's complete ending. Do not start assembled Tamil or English.

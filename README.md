@@ -21,12 +21,13 @@
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **148 / 179**;
+- canonical page records: **153 / 179**;
 - Chapter 16 / 17 boundary: **scan 134 / printed 133**, centered `17`;
 - Chapter 18 opening: **scan 142 / printed 141**, centered `18`;
-- Chapter 18 transcribed through **scan 148 / printed 147**;
-- historical-glyph coverage: **PASS scans 1–148**;
-- next forward iteration: **scans 149–153**;
+- Chapter 19 opening: **scan 149 / printed 148**, centered `19`;
+- Chapter 19 transcribed through **scan 153 / printed 152**;
+- historical-glyph coverage: **PASS scans 1–153**;
+- next forward iteration: **scans 154–158**;
 - batch size: **5 scans**;
 - full Tamil source audit: **not started**;
 - assembled Tamil: **not started**;
@@ -44,7 +45,7 @@ Source pixels decide identity. Grammar is only a locator. Preserve source spelli
 
 Five-page batches use a bounded pipeline: transcribe all five full pages first, run one batch-level 13-family sweep, allow at most one targeted enlargement for a genuinely unclear token, record a source hold if still unresolved, then update page records and status documents together in one atomic commit. Prior PASS pages are not reopened without new direct source evidence.
 
-Recent durable boundaries include scan 144 / 145 `வரவழைத்துக்` + `கொண்டான்`, scan 145 / 146 `ஏது` → `அவ்வளவு அக்கறை!`, scan 146 / 147 `கூறியதுதான்` + `தாமதம்;`, and scan 147 / 148 `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`. Scan 146 bottom `10` is a printer/signature mark. Source-specific forms newly preserved include `ஆள்மயக்கும்`, `காற்று வாக்கில்`, `புளகாங்கித மூட்டுவனவாக`, `இளந் தாடியுடனும்`, `பட்டுச் சொக்காய்`, `மிரளமிரள`, `கூட்டிட்டாள்`, `சிற்றவள்`, and `விறிட்டுக்`.
+Recent durable boundaries include scan 149 / 150 `புறப்` + `பட்டுவிட்டாயே!` = `புறப்பட்டுவிட்டாயே!`, scan 150 / 151 `தேவ` + `லோகத்தில்` = `தேவலோகத்தில்`, and scan 152 / 153 `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`. Scan 149 opens Chapter 19 with centered `19`. New source-specific forms preserved include `துயர்களை யேற்று`, `இழிவுப்படு குழியிலே`, `ஆவேசங்கொண்டு`, `மருத்துவ மனையிருக்கும்`, `அவ்விடம்`, `அழகுவின்`, `நயினாதான்`, `பீறிட்டுப்`, and `நயினா முகமதுவும்`.
 
 ## Completed works
 
@@ -56,4 +57,4 @@ Recent durable boundaries include scan 144 / 145 `வரவழைத்துக
 
 ## Next activity
 
-Process **scans 149–153** as one bounded 5-page iteration. Establish scan 149 only from direct source evidence after scan 148's complete final sentence. Do not start assembled Tamil or English.
+Process **scans 154–158** as one bounded 5-page iteration. Establish scan 154 only from direct source evidence after scan 153's complete final sentence. Do not start assembled Tamil or English.
