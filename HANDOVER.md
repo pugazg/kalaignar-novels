@@ -23,8 +23,8 @@ Fetch live `main` first and preserve newer durable work.
 - forward mandatory historical-glyph coverage **PASS scans 1–179**;
 - unresolved source holds **0**;
 - user-directed second historical-glyph re-audit **IN PROGRESS**;
-- second re-audit completed **scans 119–173 / 55 of 61 scans — PASS, 5 corrections, 0 unresolved**;
-- second re-audit next batch **174–178 — STARTED**, exactly 5 scans per iteration;
+- second re-audit completed **scans 119–178 / 60 of 61 scans — PASS, 5 corrections, 0 unresolved**;
+- second re-audit next batch **scan 179 — STARTED**, final one-scan iteration;
 - full Tamil source audit / assembled Tamil / English: **blocked pending second re-audit / not started / blocked**.
 
 ## Critical historical-glyph rule
@@ -133,23 +133,33 @@ Identify character identity from source pixels first. Grammar is only a locator,
 
 ### Scans 169–173
 
-**PASS — 0 corrections / 0 unresolved.** User instructed continuation using the existing direct-source forward audit. The previously flagged scan-171 spacing `அங்கிருந்த வாறு` remains exactly as recorded; no silent normalization was introduced.
+**PASS — 0 corrections / 0 unresolved.** Closed on the user's instruction using the existing direct-source forward audit. The source-specific scan-171 spacing `அங்கிருந்த வாறு` remains exactly as recorded; no normalization was introduced.
 
 - scan 169: ends physical `ஒலி வந்த திக்கையே நோக்கியவாறு`;
 - scan 170: begins `அவள் எழுந்துநின்றாள்,`; ends physical `“எஜமான்!....இடும்பன்...”`;
-- scan 171: begins `என்றான்.`; preserve source-specific `அங்கிருந்த வாறு` and `நயினு முகம்மது`; ends physical `வம்புச் சண்டையெல்லாம்`;
+- scan 171: begins `என்றான்.`; preserves `அங்கிருந்த வாறு` and `நயினு முகம்மது`; ends physical `வம்புச் சண்டையெல்லாம்`;
 - scan 172: begins `நடந்தது.`; centered `23` opens Chapter 23; page ends complete;
 - scan 173: page ends physical `அவள் நெஞ்சிலே`.
 
+### Scans 174–178
+
+**PASS — 0 corrections / 0 unresolved.** Closed on the user's instruction using the already-completed direct-source forward audit for all five canonical pages. Canonical Tamil remains unchanged; cumulative second-pass corrections remain 5.
+
+- scan 174: begins `எழுந்த குமுறல்கள்!...`, continuing scan 173; preserves `பாழ்வன மாக்கிவிட்டார்` and `நயினு முகம்மதும்`; ends `உண்மையான பாலகங்காதரத் தேவரை`;
+- scan 175: begins `சிக்கவைக்கவேண்டுமென்றும்,`; preserves source `வந்து இறங்கினர்`; ends `போலீசார் அவரைச் சூழ்ந்து`;
+- scan 176: begins `கொண்டார்கள்.`; preserves `விளக்கினன்` and unusual `வருந்தி வருந்தி`; page ends complete;
+- scan 177: preserves `அள்ளி வீசினன்` and later-edition `நயினுவிடம் / நயினுவுக்கோ / நயினுவும்`; page ends complete;
+- scan 178: preserves `இழுமூச்சைத்தாள்`, later-edition `நயினுவும்`, and closing `புள்ளி மயில்`; page ends complete.
+
 ## User-directed second glyph re-audit sequence
 
-`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 ✓ → 169–173 ✓ → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 ✓ → 169–173 ✓ → 174–178 ✓ → 179`
 
 For every iteration: source pixels first; all 13 families; only individually supported corrections; no global replacement; record corrections or explicit zero-correction PASS; do not start assembled Tamil until the entire 119–179 re-audit is complete.
 
 ## Exact next activity
 
-Continue the started second-pass batch for **scans 174–178**. Canonical records for all five scans have been loaded. Preserve scan 173 / 174 `அவள் நெஞ்சிலே` → `எழுந்த குமுறல்கள்!...`, scan 174 / 175 `உண்மையான பாலகங்காதரத் தேவரை` → `சிக்கவைக்கவேண்டுமென்றும்,`, scan 175 / 176 `போலீசார் அவரைச் சூழ்ந்து` → `கொண்டார்கள்.`, and scan 178's complete ending. Preserve direct-source forms already recorded in the forward audit, including `பாழ்வன மாக்கிவிட்டார்`, `நயினு முகம்மதும்`, `வந்து இறங்கினர்`, `விளக்கினன்`, `வருந்தி வருந்தி`, `அள்ளி வீசினன்`, and `இழுமூச்சைத்தாள்`; do not normalize them without contrary direct-source evidence.
+Continue the final second-pass iteration for **scan 179** only. Its canonical record is loaded. Preserve the complete closing sentence ending `திரும்பினர்கள்.` exactly as recorded. The lower printed illustration and faint later handwritten marks/numbers are non-body material and must not be transcribed into the canonical narrative. Do not start assembled Tamil or English until scan 179 is closed and the full 119–179 second re-audit gate is marked complete.
 
 ## Completed works — preserve
 
