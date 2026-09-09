@@ -24,7 +24,7 @@ transcription_method: "bounded production pass from full/native source; mandator
 
 திகைப்பிலாழ்ந்த இன்ஸ்பெக்டரும் அழகு, நயினா இருவரையும் கைது செய்ய உத்தரவிட்டார். ஆனந்தியின் பிரேதம் பரிசோதனைக்காக பாலையூர் மருத்துவமனைக்கு எடுத்துச் செல்லப்பட்டது.
 
-எந்தப் பாலையூர் மருத்துவ மனையில் ஆனந்திக்கும் நயினாவுக்கும் காதல் வளர்ந்ததோ, அந்தப் பாலையூர் மருத்துவ மனைக்கு அவனது சவம் பரிசோதனைக்காகக் கொண்டு செல்லப்பட்டது. அழகுவும், நயினாவும் விலங்கிடப்பட்டு அழைத்துச் செல்லப்பட்டனர்.
+எந்தப் பாலையூர் மருத்துவ மனையில் ஆனந்திக்கும் நயினாவுக்கும் காதல் வளர்ந்ததோ, அந்தப் பாலையூர் மருத்துவ மனைக்கு அவளது சவம் பரிசோதனைக்காகக் கொண்டு செல்லப்பட்டது. அழகுவும், நயினாவும் விலங்கிடப்பட்டு அழைத்துச் செல்லப்பட்டனர்.
 
 * * *
 
@@ -35,6 +35,7 @@ transcription_method: "bounded production pass from full/native source; mandator
 - Full physical scan transcribed before the batch historical-glyph sweep.
 - Mandatory 13-family source-pixel sweep completed; recurring `நயினா` and old-type families in `தாயார்`, `தான்தான்`, and related clusters were checked directly.
 - Preserve source-specific `கிழத் தாயார்`, `தியாகம்செய்யத்`, `கொலைத்துவிட்டான்`, `திகைப்பிலாழ்ந்த`, and the source's `மருத்துவமனை` / `மருத்துவ மனை` spacing variation.
+- Direct-source correction supplied during the second re-audit: `அவனது சவம்` → `அவளது சவம்`.
 - No unresolved source hold remains. No global replacement was used.
 
 ## Page-boundary continuity
