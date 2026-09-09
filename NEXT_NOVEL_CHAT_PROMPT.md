@@ -12,8 +12,8 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - final narrative: **scan 179 / printed 178**;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- second historical-glyph re-audit: **IN PROGRESS — scans 119–143 PASS / 25 of 61 complete**;
-- second-pass corrections through scan 143: **0**;
+- second historical-glyph re-audit: **IN PROGRESS — scans 119–148 PASS / 30 of 61 complete**;
+- second-pass corrections through scan 148: **0**;
 - assembled Tamil / English: **not started / blocked**.
 
 ## Controlling phase — second historical-Tamil-glyph re-audit
@@ -22,7 +22,7 @@ The user explicitly requested one more independent glyph audit from **scan 119 t
 
 Sequence:
 
-`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
 
 Mandatory families on every scan:
 
@@ -46,14 +46,15 @@ Rules:
 - **129–133:** PASS — 0 corrections / 0 unresolved. Preserve `அழகப்ப` → `னுடைய`, scan 130 bottom `9` as a printer/signature mark, and `பின்னிக்` → `கொண்டன`.
 - **134–138:** PASS — 0 corrections / 0 unresolved. Preserve centered `17`, `நயினாவின்` → `கேள்வி`, `வருத்தத்` → `தோடு`, `“இதோ,` → `கொண்டுவருகிறேன்”`, and final `‘மளமள’`.
 - **139–143:** PASS — 0 corrections / 0 unresolved. Preserve `‘மளமள’` → `வென்று`, `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`, `நயினா` → `எதுவும் பேசவில்லை.`, centered `18`, and `வாசகங்கள்` → `இருந்தன`.
+- **144–148:** PASS — 0 corrections / 0 unresolved. Preserve `வரவழைத்துக்` + `கொண்டான்`, scan 146 bottom `10` printer/signature mark, `கூறியதுதான்` + `தாமதம்;`, and `சந்திப்` + `பதற்காக!`.
 
 ## Exact next activity
 
-Process **scans 144–148** only. Preserve known physical/source evidence:
+Process **scans 149–153** only. Preserve known physical/source evidence:
 
-- scan 144 / 145: `வரவழைத்துக்` + `கொண்டான்`;
-- scan 146 bottom standalone `10` is a printer/signature mark, not body text;
-- scan 146 / 147: `கூறியதுதான்` + `தாமதம்;`;
-- scan 147 / 148: `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`.
+- scan 149 centered `19` opens Chapter 19;
+- scan 149 / 150: `புறப்` + `பட்டுவிட்டாயே!` = `புறப்பட்டுவிட்டாயே!`;
+- scan 150 / 151: `தேவ` + `லோகத்தில்` = `தேவலோகத்தில்`;
+- scan 152 / 153: `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`.
 
-Do not reopen scans 119–143 without new direct source evidence. Do not start assembled Tamil or English.
+Do not reopen scans 119–148 without new direct source evidence. Do not start assembled Tamil or English.

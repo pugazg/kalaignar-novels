@@ -11,9 +11,9 @@
 | Printed-page map | **directly confirmed through scan 179; scan 66 visibly prints only `5`** |
 | Chapter map | **direct through Chapter 23; Chapter 23 opens at scan 172** |
 | Forward historical-glyph coverage | **PASS scans 1–179** |
-| User-directed second historical-glyph re-audit | **IN PROGRESS — scans 119–143 PASS / 25 of 61** |
-| Second re-audit corrections | **0 through scan 143** |
-| Second re-audit next batch | **144–148** |
+| User-directed second historical-glyph re-audit | **IN PROGRESS — scans 119–148 PASS / 30 of 61** |
+| Second re-audit corrections | **0 through scan 148** |
+| Second re-audit next batch | **149–153** |
 | Full Tamil source audit | **blocked pending second glyph re-audit** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -33,8 +33,8 @@ Character identity is decided from source pixels first; grammar is only a locato
 - scans **112–118**: forward audit;
 - expanded corrective re-audit repaired old-type `னா` / `றா` misses across the existing corpus;
 - scans **119–179**: original forward source-pixel audit with the mandatory 13-family set — PASS;
-- user-directed independent second re-audit: **119–143 PASS / 25 of 61; 0 corrections**;
-- remaining second-pass scans: **144–179**.
+- user-directed independent second re-audit: **119–148 PASS / 30 of 61; 0 corrections**;
+- remaining second-pass scans: **149–179**.
 
 ## Second historical-glyph re-audit — Batch 1 / scans 119–123
 
@@ -124,6 +124,27 @@ Method: each physical scan was independently re-read at enlarged/native source r
 
 **Batch verdict: PASS — 5/5 scans, 0 corrections, 0 unresolved. Canonical Tamil text unchanged.**
 
+## Second historical-glyph re-audit — Batch 6 / scans 144–148
+
+Method: each physical scan was independently re-read at enlarged/native source resolution against all 13 mandatory families, with the canonical page record used only as the comparison target. No grammar-based repair, global replacement, or silent normalization was used. No genuinely unclear token required a targeted enlargement.
+
+### Scan 144 / printed 143
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms recurring `நயினா`, `கருதிவிட்டானே`, `கேட்டிருப்பான்`, `பார்த்துவிட்டான்`, and `விழுந்துவிட்டானே`. Physical end `வரவழைத்துக்` remains correct.
+
+### Scan 145 / printed 144
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Physical beginning `கொண்டான் நயினா!` completes scan 144's final `வரவழைத்துக்`. Direct source reconfirms `மாறிக்கொண்டேயிருப்பதைப்`, `கவனிப்பானே`, `தொடங்கினான்`, `செய்தாள்`, `கிடைத்துவிட்டதாக`, and `பரப்பினார்கள்`. Physical end `ஏது` remains correct.
+
+### Scan 146 / printed 145
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Physical beginning `அவ்வளவு அக்கறை!` continues scan 145's final `ஏது`. Direct source reconfirms `கொண்டிருந்தாள்`, `வந்துசேர்ந்தது`, `வந்தாள்`, `நின்றுகொண்டிருந்தார்`, `கேட்டாள்`, `நான்தான்`, `நின்றாள்`, `புறப்பட்டார்கள்`, and `என்றாள்`. Bottom standalone `10` is a printer/signature mark, not body text. Physical end `கூறியதுதான்` remains correct.
+
+### Scan 147 / printed 146
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Physical beginning `தாமதம்;` completes scan 146's final `கூறியதுதான்`. Direct source reconfirms `மாறிவிட்டது`, `சொல்லிவிட்டேன்`, `ஆரம்பித்தாள்`, `கூறினார்`, `கேட்டால்தானே`, `கூட்டிட்டாள்`, `புறப்பட்டு`, `கூறினாள்`, and `புறப்பட்டாள்`. Physical end `சந்திப்` remains correct.
+
+### Scan 148 / printed 147
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Physical beginning `பதற்காக!` completes scan 147's final `சந்திப்` as source-visible `சந்திப்பதற்காக!`. Direct source reconfirms `புறப்பட்டாள்`, `தூண்டிவிட்டன`, `பாவியாகிவிட்டேன்`, `பார்ப்பேன்`, `ஓடிக்கொண்டேயிருந்தாள்`, `வந்துசேர்ந்தாள்`, `தோன்றியது`, `கத்தினாள்`, `மோதிக்கொண்டாள்`, `கூச்சலிட்டாள்`, `பார்த்தாள்`, `கதறினாள்`, and `ஊஞ்சலாடிக்கொண்டிருந்தாள்`.
+
+**Batch verdict: PASS — 5/5 scans, 0 corrections, 0 unresolved. Canonical Tamil text unchanged.**
+
 ## Structural/source decisions to preserve
 
 - scan 66 visibly prints only `5`; never infer `65`;
@@ -171,8 +192,8 @@ Method: each physical scan was independently re-read at enlarged/native source r
 
 ## Second re-audit sequence
 
-`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
 
 ## Exact next activity
 
-Run the independent second historical-glyph audit for **scans 144–148** only. Preserve scan 144 / 145 `வரவழைத்துக்` + `கொண்டான்`, scan 146 bottom standalone `10` as a printer/signature mark, scan 146 / 147 `கூறியதுதான்` + `தாமதம்;`, and scan 147 / 148 `சந்திப்` + `பதற்காக!`. Do not start assembled Tamil or English.
+Run the independent second historical-glyph audit for **scans 149–153** only. Preserve centered `19` on scan 149, scan 149 / 150 `புறப்` + `பட்டுவிட்டாயே!`, scan 150 / 151 `தேவ` + `லோகத்தில்`, and scan 152 / 153 `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`. Do not start assembled Tamil or English.

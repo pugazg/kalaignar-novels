@@ -15,9 +15,9 @@
 - final narrative: **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–143 PASS / 25 of 61 scans complete**;
-- second re-audit corrections through scan 143: **0**;
-- second re-audit next batch: **scans 144–148**;
+- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–148 PASS / 30 of 61 scans complete**;
+- second re-audit corrections through scan 148: **0**;
+- second re-audit next batch: **scans 149–153**;
 - second re-audit batch size: **5 scans per iteration**;
 - full Tamil source audit / assembled Tamil / English: **blocked pending second glyph re-audit / not started / blocked**.
 
@@ -81,6 +81,18 @@ All five scans were independently re-read from the controlling source after cano
 
 No canonical Tamil text changed in scans 139–143 during the second re-audit.
 
+### Batch 6 — scans 144–148
+
+All five scans were independently re-read from the controlling source against the mandatory 13-family historical-glyph set. **Result: PASS — 0 corrections / 0 unresolved.**
+
+- **144 / printed 143:** PASS; recurring `நயினா`, `கருதிவிட்டானே`, `கேட்டிருப்பான்`, `பார்த்துவிட்டான்`, `விழுந்துவிட்டானே` reconfirmed; physical end `வரவழைத்துக்` retained.
+- **145 / printed 144:** PASS; begins `கொண்டான் நயினா!`; `மாறிக்கொண்டேயிருப்பதைப்`, `கவனிப்பானே`, `தொடங்கினான்`, `செய்தாள்`, `கிடைத்துவிட்டதாக`, `பரப்பினார்கள்` reconfirmed; physical end `ஏது` retained.
+- **146 / printed 145:** PASS; begins `அவ்வளவு அக்கறை!`; `கொண்டிருந்தாள்`, `வந்துசேர்ந்தது`, `வந்தாள்`, `நின்றுகொண்டிருந்தார்`, `கேட்டாள்`, `நான்தான்`, `நின்றாள்`, `புறப்பட்டார்கள்`, `என்றாள்` reconfirmed; bottom standalone `10` remains a printer/signature mark; physical end `கூறியதுதான்` retained.
+- **147 / printed 146:** PASS; begins `தாமதம்;`; `மாறிவிட்டது`, `சொல்லிவிட்டேன்`, `ஆரம்பித்தாள்`, `கூறினார்`, `கேட்டால்தானே`, `கூட்டிட்டாள்`, `புறப்பட்டு`, `கூறினாள்`, `புறப்பட்டாள்` reconfirmed; physical end `சந்திப்` retained.
+- **148 / printed 147:** PASS; begins `பதற்காக!`; `புறப்பட்டாள்`, `தூண்டிவிட்டன`, `பாவியாகிவிட்டேன்`, `பார்ப்பேன்`, `ஓடிக்கொண்டேயிருந்தாள்`, `வந்துசேர்ந்தாள்`, `தோன்றியது`, `கத்தினாள்`, `மோதிக்கொண்டாள்`, `கூச்சலிட்டாள்`, `பார்த்தாள்`, `கதறினாள்`, `ஊஞ்சலாடிக்கொண்டிருந்தாள்` reconfirmed.
+
+No genuinely unclear token required a targeted enlargement. No canonical Tamil text changed in scans 144–148 during the second re-audit.
+
 ## Durable boundaries retained
 
 - scan 119 / 120: `கவனித்து` → `விட்டான்.`;
@@ -98,6 +110,10 @@ No canonical Tamil text changed in scans 139–143 during the second re-audit.
 - scan 135 / 136: `வருத்தத்` + `தோடு` = `வருத்தத்தோடு`;
 - scan 137 / 138: `“இதோ,` → `கொண்டுவருகிறேன்”`;
 - scan 138 / 139: `‘மளமள’` → `வென்று...`.
+- scan 144 / 145: `வரவழைத்துக்` + `கொண்டான்`;
+- scan 146 bottom `10`: printer/signature mark, not body text;
+- scan 146 / 147: `கூறியதுதான்` + `தாமதம்;`;
+- scan 147 / 148: `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`;
 
 Older source/boundary decisions remain authoritative in `audit.md` and `indexes/page-map.md`.
 
@@ -110,4 +126,4 @@ Older source/boundary decisions remain authoritative in `audit.md` and `indexes/
 
 ## Exact next activity
 
-Perform the second historical-Tamil-glyph re-audit for **scans 144–148** only. Preserve scan 144 / 145 `வரவழைத்துக்` + `கொண்டான்`, scan 146 bottom standalone `10` as a printer/signature mark, scan 146 / 147 `கூறியதுதான்` + `தாமதம்;`, and scan 147 / 148 `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`. Do not start assembled Tamil or English.
+Perform the second historical-Tamil-glyph re-audit for **scans 149–153** only. Preserve centered `19` on scan 149, scan 149 / 150 `புறப்` + `பட்டுவிட்டாயே!`, scan 150 / 151 `தேவ` + `லோகத்தில்`, and scan 152 / 153 `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`. Do not start assembled Tamil or English.
