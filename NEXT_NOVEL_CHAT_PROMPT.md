@@ -1,4 +1,4 @@
-# Next Chat Prompt — வெள்ளிக்கிழமை / second historical-glyph re-audit
+# Next Chat Prompt — வெள்ளிக்கிழமை / full Tamil source audit
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,17 +12,18 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - final narrative: **scan 179 / printed 178**;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- second historical-glyph re-audit: **IN PROGRESS — scans 119–178 PASS / 60 of 61 complete**;
-- second-pass corrections through scan 178: **5**;
-- assembled Tamil / English: **not started / blocked**.
+- second historical-glyph re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61**;
+- second-pass corrections: **5 total / 0 unresolved**;
+- full Tamil source audit: **READY / NEXT — not started**;
+- assembled Tamil / English: **not started / blocked pending Tamil source audit and assembly gate**.
 
-## Controlling phase — second historical-Tamil-glyph re-audit
+## Completed controlling phase — second historical-Tamil-glyph re-audit
 
 The user explicitly requested one more independent glyph audit from **scan 119 through the end**, exactly **5 scans per iteration**.
 
 Sequence:
 
-`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 ✓ → 169–173 ✓ → 174–178 ✓ → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 ✓ → 169–173 ✓ → 174–178 ✓ → 179 ✓`
 
 Mandatory families on every scan:
 
@@ -53,15 +54,21 @@ Rules:
 - **164–168:** PASS — 3 corrections / 0 unresolved. User direct-source corrections: scan 164 `நயினாவில்` → `நயினாவால்`; scan 164 `“என் சார்?”` → `“ஏன் சார்?”`; scan 165 `அவனது சவம்` → `அவளது சவம்`. Preserve `கத்தி` + `னான்.`, `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`, centered `22`, the scan 166 / 167 physical em-dash, and `போய்ச் சேர்ந்து` + `விடவேண்டுமென்ற`.
 - **169–173:** PASS — 0 corrections / 0 unresolved. Closed on the user's instruction using the existing direct-source forward audit. Preserve source-specific scan-171 `அங்கிருந்த வாறு`, `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`, `“எஜமான்!....இடும்பன்...”` → `என்றான்.`, `வம்புச் சண்டையெல்லாம்` + `நடந்தது.`, centered `23`, and scan 173 physical end `அவள் நெஞ்சிலே`.
 - **174–178:** PASS — 0 corrections / 0 unresolved. Closed using the already-completed direct-source forward audit. Preserve `அவள் நெஞ்சிலே` → `எழுந்த குமுறல்கள்!...`, `உண்மையான பாலகங்காதரத் தேவரை` → `சிக்கவைக்கவேண்டுமென்றும்,`, `போலீசார் அவரைச் சூழ்ந்து` → `கொண்டார்கள்.`, plus source forms `பாழ்வன மாக்கிவிட்டார்`, `நயினு முகம்மதும்`, `வந்து இறங்கினர்`, `விளக்கினன்`, `வருந்தி வருந்தி`, `அள்ளி வீசினன்`, and `இழுமூச்சைத்தாள்`.
+- **179:** PASS — 0 corrections / 0 unresolved. Preserve final `திரும்பினர்கள்.`; lower printed illustration and faint later handwriting remain non-body material. **Second re-audit COMPLETE — 61/61 scans, 5 total corrections, 0 unresolved.**
 
 ## Exact next activity
 
-Final iteration **scan 179** is started and its canonical record is loaded. Verify that single scan only. Preserve:
+Begin the **full Tamil source audit** before assembled Tamil. Follow `NOVEL_PROCESSING_GUIDE.md` and use `works/balipeedam-nokki/` only as a structural reference. Check the complete canonical `pages/` layer for:
 
-- complete closing narrative ending `திரும்பினர்கள்.`;
-- lower printed illustration as non-body visual material;
-- faint later handwritten marks/numbers as non-body annotations.
+1. scan coverage **179 / 179** and continuous records;
+2. `verified` / unresolved status consistency;
+3. single-work identity and chapter/section structure;
+4. printed-page map and known source exceptions;
+5. all durable cross-page joins without silent reconstruction;
+6. the five second-pass source corrections and all source-specific forms;
+7. printed text vs illustration / handwriting / printer-signature marks separation;
+8. consistency among page records, `metadata/source.md`, `indexes/page-map.md`, README and `audit.md`.
 
-Do not transcribe the illustration or later handwriting into canonical text. Do not start assembled Tamil or English until scan 179 is closed and the full second re-audit gate passes.
+When all checks pass, mark the **Tamil source layer PASSED**. Only after that may the assembled Tamil `sections/` layer begin. Do not start English translation yet.
 
-Do not reopen scans 119–178 without new direct source evidence. Do not start assembled Tamil or English.
+Do not reopen the completed 119–179 second glyph re-audit without new direct-source evidence.
