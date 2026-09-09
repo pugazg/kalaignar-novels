@@ -12,8 +12,8 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - final narrative: **scan 179 / printed 178**;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- second historical-glyph re-audit: **IN PROGRESS — scans 119–148 PASS / 30 of 61 complete**;
-- second-pass corrections through scan 148: **0**;
+- second historical-glyph re-audit: **IN PROGRESS — scans 119–153 PASS / 35 of 61 complete**;
+- second-pass corrections through scan 153: **1**;
 - assembled Tamil / English: **not started / blocked**.
 
 ## Controlling phase — second historical-Tamil-glyph re-audit
@@ -22,7 +22,7 @@ The user explicitly requested one more independent glyph audit from **scan 119 t
 
 Sequence:
 
-`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
 
 Mandatory families on every scan:
 
@@ -47,14 +47,16 @@ Rules:
 - **134–138:** PASS — 0 corrections / 0 unresolved. Preserve centered `17`, `நயினாவின்` → `கேள்வி`, `வருத்தத்` → `தோடு`, `“இதோ,` → `கொண்டுவருகிறேன்”`, and final `‘மளமள’`.
 - **139–143:** PASS — 0 corrections / 0 unresolved. Preserve `‘மளமள’` → `வென்று`, `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`, `நயினா` → `எதுவும் பேசவில்லை.`, centered `18`, and `வாசகங்கள்` → `இருந்தன`.
 - **144–148:** PASS — 0 corrections / 0 unresolved. Preserve `வரவழைத்துக்` + `கொண்டான்`, scan 146 bottom `10` printer/signature mark, `கூறியதுதான்` + `தாமதம்;`, and `சந்திப்` + `பதற்காக!`.
+- **149–153:** PASS — 1 correction / 0 unresolved. All historical-glyph identities pass; scan 151 source punctuation corrected `அங்கே வந்து.` → `அங்கே வந்து,`. Preserve centered `19`, `புறப்` + `பட்டுவிட்டாயே!`, `தேவ` + `லோகத்தில்`, and `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`.
 
 ## Exact next activity
 
-Process **scans 149–153** only. Preserve known physical/source evidence:
+Process **scans 154–158** only. Preserve known physical/source evidence:
 
-- scan 149 centered `19` opens Chapter 19;
-- scan 149 / 150: `புறப்` + `பட்டுவிட்டாயே!` = `புறப்பட்டுவிட்டாயே!`;
-- scan 150 / 151: `தேவ` + `லோகத்தில்` = `தேவலோகத்தில்`;
-- scan 152 / 153: `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`.
+- scan 154 centered `20` opens Chapter 20 after Chapter 19 text on the same scan;
+- scan 155 / 156: `சோலை` + `யில்` = `சோலையில்`;
+- scan 156 / 157: literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`; do not reconstruct missing grammar or punctuation;
+- scan 157 / 158: `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`;
+- scan 158 / 159: `வராத` + `கண்ணீர்,`.
 
-Do not reopen scans 119–148 without new direct source evidence. Do not start assembled Tamil or English.
+Do not reopen scans 119–153 without new direct source evidence. Do not start assembled Tamil or English.

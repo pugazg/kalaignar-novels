@@ -15,9 +15,9 @@
 - final narrative: **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–148 PASS / 30 of 61 scans complete**;
-- second re-audit corrections through scan 148: **0**;
-- second re-audit next batch: **scans 149–153**;
+- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–153 PASS / 35 of 61 scans complete**;
+- second re-audit corrections through scan 153: **1**;
+- second re-audit next batch: **scans 154–158**;
 - second re-audit batch size: **5 scans per iteration**;
 - full Tamil source audit / assembled Tamil / English: **blocked pending second glyph re-audit / not started / blocked**.
 
@@ -93,6 +93,18 @@ All five scans were independently re-read from the controlling source against th
 
 No genuinely unclear token required a targeted enlargement. No canonical Tamil text changed in scans 144–148 during the second re-audit.
 
+### Batch 7 — scans 149–153
+
+All five scans were independently re-read from the controlling source against the mandatory 13-family historical-glyph set. **Result: PASS — 1 correction / 0 unresolved.** Historical-glyph corrections: **0**; canonical source-fidelity correction: **1 punctuation mark on scan 151**.
+
+- **149 / printed 148:** PASS; centered `19` opens Chapter 19; `என்னதான்`, `பெண்ணை`, `காலை`, `இல்லையென்று`, `என்றாகிவிட்டது`, `நான்` reconfirmed; physical end `புறப்` retained.
+- **150 / printed 149:** PASS; begins `பட்டுவிட்டாயே!`; `நீதான்`, `எத்தனை`, `எமனாக`, `முதல்வேலை`, `தூக்குமேடையில்` reconfirmed; physical end `தேவ` retained.
+- **151 / printed 150:** PASS after one source-fidelity correction; begins `லோகத்தில்`; `நயினா`, `வலைவீசுகிறாள்`, `தீருவாள்`, `களவுமாக` reconfirmed. A targeted source enlargement confirmed the punctuation after `அங்கே வந்து` is a comma, so canonical `அங்கே வந்து.` was corrected to `அங்கே வந்து,`.
+- **152 / printed 151:** PASS; recurring `நயினா`, `நயினாவின்`, `நயினாதான்`, `கொசுவலையிருக்கிறது`, `அறைக்கல்லவா` reconfirmed; physical end `வழக்கமாக உறங்கும்` retained.
+- **153 / printed 152:** PASS; begins `அறைக்கல்லவா போகிறாள்!`; `நயினா`, `கொசுவலைக்குள்ளே`, `தலைகுனிந்துகொண்டான்`, `பீறிட்டுப்`, `நயினா முகமதுவும்` reconfirmed.
+
+No unresolved token remains. One targeted enlargement was used on scan 151 for the punctuation distinction; no historical-glyph correction was required.
+
 ## Durable boundaries retained
 
 - scan 119 / 120: `கவனித்து` → `விட்டான்.`;
@@ -114,6 +126,11 @@ No genuinely unclear token required a targeted enlargement. No canonical Tamil t
 - scan 146 bottom `10`: printer/signature mark, not body text;
 - scan 146 / 147: `கூறியதுதான்` + `தாமதம்;`;
 - scan 147 / 148: `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`;
+- scan 149: centered `19` opens Chapter 19;
+- scan 149 / 150: `புறப்` + `பட்டுவிட்டாயே!` = `புறப்பட்டுவிட்டாயே!`;
+- scan 150 / 151: `தேவ` + `லோகத்தில்` = `தேவலோகத்தில்`;
+- scan 151: source punctuation after `அங்கே வந்து` is comma, not period;
+- scan 152 / 153: `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
 
 Older source/boundary decisions remain authoritative in `audit.md` and `indexes/page-map.md`.
 
@@ -126,4 +143,4 @@ Older source/boundary decisions remain authoritative in `audit.md` and `indexes/
 
 ## Exact next activity
 
-Perform the second historical-Tamil-glyph re-audit for **scans 149–153** only. Preserve centered `19` on scan 149, scan 149 / 150 `புறப்` + `பட்டுவிட்டாயே!`, scan 150 / 151 `தேவ` + `லோகத்தில்`, and scan 152 / 153 `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`. Do not start assembled Tamil or English.
+Perform the second historical-Tamil-glyph re-audit for **scans 154–158** only. Preserve centered `20` on scan 154, scan 155 / 156 `சோலை` + `யில்`, scan 156 / 157 literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`, scan 157 / 158 `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`, and scan 158 / 159 `வராத` + `கண்ணீர்,`. Do not start assembled Tamil or English.

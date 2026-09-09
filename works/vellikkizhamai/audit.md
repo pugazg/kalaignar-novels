@@ -11,9 +11,9 @@
 | Printed-page map | **directly confirmed through scan 179; scan 66 visibly prints only `5`** |
 | Chapter map | **direct through Chapter 23; Chapter 23 opens at scan 172** |
 | Forward historical-glyph coverage | **PASS scans 1–179** |
-| User-directed second historical-glyph re-audit | **IN PROGRESS — scans 119–148 PASS / 30 of 61** |
-| Second re-audit corrections | **0 through scan 148** |
-| Second re-audit next batch | **149–153** |
+| User-directed second historical-glyph re-audit | **IN PROGRESS — scans 119–153 PASS / 35 of 61** |
+| Second re-audit corrections | **1 through scan 153** |
+| Second re-audit next batch | **154–158** |
 | Full Tamil source audit | **blocked pending second glyph re-audit** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -33,8 +33,8 @@ Character identity is decided from source pixels first; grammar is only a locato
 - scans **112–118**: forward audit;
 - expanded corrective re-audit repaired old-type `னா` / `றா` misses across the existing corpus;
 - scans **119–179**: original forward source-pixel audit with the mandatory 13-family set — PASS;
-- user-directed independent second re-audit: **119–148 PASS / 30 of 61; 0 corrections**;
-- remaining second-pass scans: **149–179**.
+- user-directed independent second re-audit: **119–153 PASS / 35 of 61; 1 correction**;
+- remaining second-pass scans: **154–179**.
 
 ## Second historical-glyph re-audit — Batch 1 / scans 119–123
 
@@ -145,6 +145,27 @@ Method: each physical scan was independently re-read at enlarged/native source r
 
 **Batch verdict: PASS — 5/5 scans, 0 corrections, 0 unresolved. Canonical Tamil text unchanged.**
 
+## Second historical-glyph re-audit — Batch 7 / scans 149–153
+
+Method: each physical scan was independently re-read at enlarged/native source resolution against all 13 mandatory families, with the canonical page record used only as the comparison target. Source pixels controlled. One targeted enlargement was required on scan 151 to resolve punctuation; no grammar-based repair, global replacement, or silent normalization was used.
+
+### Scan 149 / printed 148
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Centered `19` directly opens Chapter 19. Direct source reconfirms `என்னதான்`, `பெண்ணை`, `காலை`, `இல்லையென்று`, `என்றாகிவிட்டது`, and `நான்`. Physical end `புறப்` remains correct.
+
+### Scan 150 / printed 149
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Physical beginning `பட்டுவிட்டாயே!` completes scan 149's final `புறப்`. Direct source reconfirms `நீதான்`, `எத்தனை`, `எமனாக`, `முதல்வேலை`, and `தூக்குமேடையில்`. Physical end `தேவ` remains correct.
+
+### Scan 151 / printed 150
+**SECOND-PASS PASS — 1 correction / 0 unresolved.** Physical beginning `லோகத்தில்` completes scan 150's final `தேவ`. Direct source reconfirms `நயினா`, `வலைவீசுகிறாள்`, `தீருவாள்`, and `களவுமாக`. A targeted enlargement directly shows `அங்கே வந்து,`; canonical `அங்கே வந்து.` was corrected to `அங்கே வந்து,`. This is a punctuation/source-fidelity correction, not a historical-glyph correction.
+
+### Scan 152 / printed 151
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms recurring `நயினா`, `நயினாவின்`, `நயினாதான்`, `கொசுவலையிருக்கிறது`, and `அறைக்கல்லவா`. Physical end `வழக்கமாக உறங்கும்` remains correct.
+
+### Scan 153 / printed 152
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Physical beginning `அறைக்கல்லவா போகிறாள்!` continues scan 152's final `வழக்கமாக உறங்கும்`. Direct source reconfirms `நயினா`, `கொசுவலைக்குள்ளே`, `தலைகுனிந்துகொண்டான்`, `பீறிட்டுப்`, and source name form `நயினா முகமதுவும்`. Scan ends a complete source sentence.
+
+**Batch verdict: PASS — 5/5 scans, 1 correction, 0 unresolved. Historical-glyph corrections 0; canonical punctuation corrections 1.**
+
 ## Structural/source decisions to preserve
 
 - scan 66 visibly prints only `5`; never infer `65`;
@@ -171,6 +192,7 @@ Method: each physical scan was independently re-read at enlarged/native source r
 - scan 147 / 148 `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`;
 - scan 149 / 150 `புறப்` + `பட்டுவிட்டாயே!`;
 - scan 150 / 151 `தேவ` + `லோகத்தில்`;
+- scan 151 source punctuation: `அங்கே வந்து,` (comma; canonical period corrected in second re-audit);
 - scan 152 / 153 `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
 - scan 155 / 156 `சோலை` + `யில்`;
 - scan 156 / 157 literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`;
@@ -192,8 +214,8 @@ Method: each physical scan was independently re-read at enlarged/native source r
 
 ## Second re-audit sequence
 
-`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
 
 ## Exact next activity
 
-Run the independent second historical-glyph audit for **scans 149–153** only. Preserve centered `19` on scan 149, scan 149 / 150 `புறப்` + `பட்டுவிட்டாயே!`, scan 150 / 151 `தேவ` + `லோகத்தில்`, and scan 152 / 153 `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`. Do not start assembled Tamil or English.
+Run the independent second historical-glyph audit for **scans 154–158** only. Preserve centered `20` on scan 154, scan 155 / 156 `சோலை` + `யில்`, scan 156 / 157 literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.` without reconstruction, scan 157 / 158 `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`, and scan 158 / 159 `வராத` + `கண்ணீர்,`. Do not start assembled Tamil or English.

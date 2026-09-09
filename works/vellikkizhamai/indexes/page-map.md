@@ -9,8 +9,8 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - canonical page records: **179 / 179 — COMPLETE**;
 - body transcription: **through final scan 179 / printed 178**;
 - forward historical-glyph coverage: **PASS scans 1–179**;
-- user-directed second glyph re-audit: **IN PROGRESS — scans 119–148 PASS / 30 of 61; 0 corrections**;
-- second re-audit next batch: **149–153**;
+- user-directed second glyph re-audit: **IN PROGRESS — scans 119–153 PASS / 35 of 61; 1 correction**;
+- second re-audit next batch: **154–158**;
 - printed-page values are source-confirmed, not inferred.
 
 ## Printed-page mapping
@@ -92,8 +92,13 @@ Grammar is only a locator. Character identity comes from source pixels and same-
 | 146 | 145 | Chapter 18 | PASS | 0 | begins `அவ்வளவு அக்கறை!`; `நான்தான்`; `புறப்பட்டார்கள்`; bottom `10` printer/signature mark; ends `கூறியதுதான்` |
 | 147 | 146 | Chapter 18 | PASS | 0 | begins `தாமதம்;`; `சொல்லிவிட்டேன்`; `கூட்டிட்டாள்`; `புறப்பட்டாள்`; ends `சந்திப்` |
 | 148 | 147 | Chapter 18 | PASS | 0 | begins `பதற்காக!`; `பாவியாகிவிட்டேன்`; `ஓடிக்கொண்டேயிருந்தாள்`; `ஊஞ்சலாடிக்கொண்டிருந்தாள்` |
+| 149 | 148 | Chapter 19 opening | PASS | 0 | centered `19`; `என்னதான்`; `பெண்ணை`; `காலை`; ends `புறப்` |
+| 150 | 149 | Chapter 19 | PASS | 0 | begins `பட்டுவிட்டாயே!`; `நீதான்`; `எத்தனை`; `எமனாக`; ends `தேவ` |
+| 151 | 150 | Chapter 19 | PASS | 1 | begins `லோகத்தில்`; `நயினா`; `வலைவீசுகிறாள்`; corrected source punctuation `அங்கே வந்து.` → `அங்கே வந்து,` |
+| 152 | 151 | Chapter 19 | PASS | 0 | `நயினா`; `நயினாவின்`; `நயினாதான்`; `கொசுவலையிருக்கிறது`; ends `வழக்கமாக உறங்கும்` |
+| 153 | 152 | Chapter 19 | PASS | 0 | begins `அறைக்கல்லவா போகிறாள்!`; `நயினா`; `பீறிட்டுப்`; `நயினா முகமதுவும்` |
 
-Remaining second-pass ranges: **149–179 pending**. Next exact iteration: **149–153**.
+Remaining second-pass ranges: **154–179 pending**. Next exact iteration: **154–158**.
 
 ## Durable physical/source exceptions
 
@@ -121,6 +126,7 @@ Remaining second-pass ranges: **149–179 pending**. Next exact iteration: **149
 - scan 147 / 148 — `சந்திப்` + `பதற்காக!`;
 - scan 149 / 150 — `புறப்` + `பட்டுவிட்டாயே!`;
 - scan 150 / 151 — `தேவ` + `லோகத்தில்`;
+- scan 151 — source punctuation `அங்கே வந்து,` (comma; canonical period corrected in second re-audit);
 - scan 152 / 153 — `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
 - scan 155 / 156 — `சோலை` + `யில்`;
 - scan 156 / 157 — literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`;
@@ -143,10 +149,10 @@ Remaining second-pass ranges: **149–179 pending**. Next exact iteration: **149
 ## Remaining scan-status ranges
 
 - scans **1–179** — canonical / verified;
-- second re-audit **119–148 PASS**;
-- second re-audit **149–179 pending**;
+- second re-audit **119–153 PASS**;
+- second re-audit **154–179 pending**;
 - no page-level transcription gap remains.
 
 ## Exact next activity
 
-User-directed second historical-glyph re-audit **scans 149–153** only, then continue in 5-scan iterations through scan 179.
+User-directed second historical-glyph re-audit **scans 154–158** only, then continue in 5-scan iterations through scan 179. Preserve centered `20` on scan 154, `சோலை` + `யில்`, literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`, `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`, and `வராத` + `கண்ணீர்,`.
