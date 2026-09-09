@@ -9,8 +9,8 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - canonical page records: **179 / 179 — COMPLETE**;
 - body transcription: **through final scan 179 / printed 178**;
 - forward historical-glyph coverage: **PASS scans 1–179**;
-- user-directed second glyph re-audit: **IN PROGRESS — scans 119–168 PASS / 50 of 61; 5 corrections**;
-- second re-audit next batch: **169–173 — STARTED**;
+- user-directed second glyph re-audit: **IN PROGRESS — scans 119–173 PASS / 55 of 61; 5 corrections**;
+- second re-audit next batch: **174–178 — STARTED**;
 - printed-page values are source-confirmed, not inferred.
 
 ## Printed-page mapping
@@ -112,8 +112,18 @@ Grammar is only a locator. Character identity comes from source pixels and same-
 | 166 | 165 | Chapter 21 / 22 boundary | PASS | 0 | begins `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`; centered `22`; ends physical em-dash |
 | 167 | 166 | Chapter 22 | PASS | 0 | direct continuation after em-dash; ends `போய்ச் சேர்ந்து` |
 | 168 | 167 | Chapter 22 | PASS | 0 | begins `விடவேண்டுமென்ற`; complete ending |
+| 169 | 168 | Chapter 22 | PASS | 0 | ends `ஒலி வந்த திக்கையே நோக்கியவாறு` |
+| 170 | 169 | Chapter 22 | PASS | 0 | begins `அவள் எழுந்துநின்றாள்,`; ends `“எஜமான்!....இடும்பன்...”` |
+| 171 | 170 | Chapter 22 | PASS | 0 | begins `என்றான்.`; preserve `அங்கிருந்த வாறு`, `நயினு முகம்மது`; ends `வம்புச் சண்டையெல்லாம்` |
+| 172 | 171 | Chapter 22 / 23 boundary | PASS | 0 | begins `நடந்தது.`; centered `23`; complete ending |
+| 173 | 172 | Chapter 23 | PASS | 0 | ends `அவள் நெஞ்சிலே` |
+| 174 | 173 | Chapter 23 | STARTED | 0 | begins `எழுந்த குமுறல்கள்!...`; ends `உண்மையான பாலகங்காதரத் தேவரை` |
+| 175 | 174 | Chapter 23 | STARTED | 0 | begins `சிக்கவைக்கவேண்டுமென்றும்,`; ends `போலீசார் அவரைச் சூழ்ந்து` |
+| 176 | 175 | Chapter 23 | STARTED | 0 | begins `கொண்டார்கள்.`; complete ending |
+| 177 | 176 | Chapter 23 | STARTED | 0 | complete page |
+| 178 | 177 | Chapter 23 | STARTED | 0 | complete ending `...வெள்ளிக்கிழமையிலே!` |
 
-Remaining second-pass ranges: **169–179 pending**. Next exact iteration: **169–173 — STARTED**.
+Remaining second-pass ranges: **174–179 pending**. Next exact iteration: **174–178 — STARTED**.
 
 ## Durable physical/source exceptions
 
@@ -165,10 +175,10 @@ Remaining second-pass ranges: **169–179 pending**. Next exact iteration: **169
 ## Remaining scan-status ranges
 
 - scans **1–179** — canonical / verified;
-- second re-audit **119–168 PASS**;
-- second re-audit **169–179 pending**;
+- second re-audit **119–173 PASS**;
+- second re-audit **174–179 pending**;
 - no page-level transcription gap remains.
 
 ## Exact next activity
 
-Continue the started second historical-glyph batch **scans 169–173** only. Preserve `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`, `“எஜமான்!....இடும்பன்...”` → `என்றான்.`, `வம்புச் சண்டையெல்லாம்` + `நடந்தது.`, centered `23` on scan 172, and scan 173 `அவள் நெஞ்சிலே` → direct source continuation. Direct-source confirmation is required for suspicious scan-171 spacing `அங்கிருந்த வாறு` before closure.
+Continue the started second historical-glyph batch **scans 174–178** only. Preserve `அவள் நெஞ்சிலே` → `எழுந்த குமுறல்கள்!...`, `உண்மையான பாலகங்காதரத் தேவரை` → `சிக்கவைக்கவேண்டுமென்றும்,`, `போலீசார் அவரைச் சூழ்ந்து` → `கொண்டார்கள்.`, and scan 178's complete ending. Preserve direct-source forms already recorded in the forward audit; do not normalize without contrary direct-source evidence.
