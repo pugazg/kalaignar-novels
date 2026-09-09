@@ -13,9 +13,9 @@
 | Printed-page map | **directly confirmed through scan 179; scan 66 visibly prints only `5`** |
 | Chapter map | **direct through Chapter 23; Chapter 23 opens at scan 172** |
 | Forward historical-glyph coverage | **PASS scans 1–179** |
-| User-directed second historical-glyph re-audit | **IN PROGRESS — scans 119–158 PASS / 40 of 61** |
-| Second re-audit corrections | **1 through scan 158; 1 additional source correction identified in pending scan 163** |
-| Second re-audit next batch | **159–163** |
+| User-directed second historical-glyph re-audit | **IN PROGRESS — scans 119–163 PASS / 45 of 61** |
+| Second re-audit corrections | **2 through scan 163** |
+| Second re-audit next batch | **164–168 — STARTED** |
 | Full Tamil source audit | **blocked pending second glyph re-audit** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -38,8 +38,8 @@ Character identity is decided from source pixels first; grammar is only a locato
 - **144–148:** PASS — 0 corrections / 0 unresolved.
 - **149–153:** PASS — 1 correction / 0 unresolved. Scan 151 source punctuation corrected `அங்கே வந்து.` → `அங்கே வந்து,`; historical-glyph corrections 0.
 - **154–158:** PASS — 0 corrections / 0 unresolved. Canonical Tamil unchanged.
-- **159–163:** IN PROGRESS — scan 163 direct-source correction identified and applied: `மேனித்தின்மீது` → `பிணத்தின் மீது`; batch not yet closed.
-- Remaining second-pass scans: **159–179**.
+- **159–163:** PASS — 1 correction / 0 unresolved. User-authorized closure using the existing direct-source forward audit plus the user direct-source correction on scan 163: `மேனித்தின்மீது` → `பிணத்தின் மீது`.
+- Remaining second-pass scans: **164–179**.
 
 ## Batch 8 — scans 154–158
 
@@ -67,9 +67,21 @@ Method: each physical scan was independently re-read from the rendered controlli
 
 **Batch verdict: PASS — 5/5 scans, 0 corrections, 0 unresolved. Canonical Tamil unchanged; cumulative second-pass corrections remain 1.**
 
-## Pending Batch 9 source correction — scan 163
+## Batch 9 — scans 159–163
 
-User direct-source reading reconfirms that the canonical phrase `ஆனந்தியின் மேனித்தின்மீது` is not source-faithful. The source reads `ஆனந்தியின் பிணத்தின் மீது`. Canonical scan 163 has therefore been corrected from `மேனித்தின்மீது` to `பிணத்தின் மீது`. This correction is durable, but the **159–163 batch remains IN PROGRESS** until the independent second-pass closure is completed.
+Closure basis: the user explicitly instructed that this batch be closed. The five canonical records already had completed direct-source forward audits; during this second-pass review the user directly corrected scan 163. This closure is therefore recorded as a user-authorized second-pass closure and is **not** described as a fresh independent pixel re-read of every scan.
+
+- scan 159 / printed 158: begins `கண்ணீர்,`, completing scan 158 `வராத`; ends `அழகப்பனுக்கும்`;
+- scan 160 / printed 159: begins `ஒன்றும் புரியவில்லை.`; centered `21`; ends `நமது தூய நட்பு`; earlier targeted source review preserves `மன்னித்துவிடடா`;
+- scan 161 / printed 160: begins `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`; complete ending;
+- scan 162 / printed 161: bottom `11—A` is a printer/signature mark, not body text; complete ending;
+- scan 163 / printed 162: direct-source correction `ஆனந்தியின் மேனித்தின்மீது` → `ஆனந்தியின் பிணத்தின் மீது`; ends `கொலைகாரா!”`.
+
+**Batch verdict: PASS — 5/5 scans, 1 correction, 0 unresolved. Cumulative second-pass corrections: 2.**
+
+## Batch 10 — scans 164–168 — STARTED
+
+Canonical comparison records for scans 164–168 have been loaded. Known boundaries are preserved. Direct-source confirmation remains required before closure for scan 164 `நயினாவில்`, scan 164 `என் சார்?`, and scan 165 `அவனது சவம்`; these are only locators for review and must not be grammar-corrected without source evidence.
 
 ## Structural/source decisions to preserve
 
@@ -85,7 +97,7 @@ User direct-source reading reconfirms that the canonical phrase `ஆனந்த
 - scan 158 / 159 `வராத` + `கண்ணீர்,`;
 - scan 159 / 160 `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`;
 - scan 160 / 161 `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது...`;
-- scan 163 source correction: `மேனித்தின்மீது` → `பிணத்தின் மீது`; do not restore the former reading;
+- scan 163 source correction: `மேனித்தின்மீது` → `பிணத்தின் மீது`; do not restore former reading;
 - scan 164 / 165 `கத்தி` + `னான்.` = `கத்தினான்.`;
 - scan 165 / 166 `அதற்குள்` → direct source continuation;
 - scan 166 / 167 physical em-dash → direct source continuation;
@@ -100,8 +112,8 @@ User direct-source reading reconfirms that the canonical phrase `ஆனந்த
 
 ## Second re-audit sequence
 
-`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 → 164–168 → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 → 169–173 → 174–178 → 179`
 
 ## Exact next activity
 
-Run the independent second historical-glyph audit for **scans 159–163** only. Preserve scan 158 / 159 `வராத` + `கண்ணீர்,`, scan 159 / 160 `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`, centered `21` on scan 160, scan 160 / 161 `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`, scan 162 bottom `11—A` as a printer/signature mark, and scan 163 source `பிணத்தின் மீது` (not `மேனித்தின்மீது`). Do not start assembled Tamil or English.
+Continue the started second-pass audit for **scans 164–168** only. Preserve scan 164 / 165 `கத்தி` + `னான்.` = `கத்தினான்.`, scan 165 / 166 `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`, centered `22` on scan 166, the scan 166 / 167 physical em-dash, and scan 167 / 168 `போய்ச் சேர்ந்து` + `விடவேண்டுமென்ற`. Resolve scan 164 `நயினாவில்`, scan 164 `என் சார்?`, and scan 165 `அவனது சவம்` from direct source before closure. Do not start assembled Tamil or English.

@@ -23,8 +23,8 @@ Fetch live `main` first and preserve newer durable work.
 - forward mandatory historical-glyph coverage **PASS scans 1–179**;
 - unresolved source holds **0**;
 - user-directed second historical-glyph re-audit **IN PROGRESS**;
-- second re-audit completed **scans 119–158 / 40 of 61 scans — PASS, 1 correction, 0 unresolved**;
-- second re-audit next batch **159–163**, exactly 5 scans per iteration;
+- second re-audit completed **scans 119–163 / 45 of 61 scans — PASS, 2 corrections, 0 unresolved**;
+- second re-audit next batch **164–168**, exactly 5 scans per iteration;
 - full Tamil source audit / assembled Tamil / English: **blocked pending second re-audit / not started / blocked**.
 
 ## Critical historical-glyph rule
@@ -111,15 +111,25 @@ Identify character identity from source pixels first. Grammar is only a locator,
 - scan 157: begins direct source `நயினா எதிர்த்தே அடிக்கவில்லை.`; recurring `நயினா`, `ஒன்றாக`, `குற்றவாளிக்கூண்டு`, `ஆக்ரோஷத்தோடு`, and `குமுறின` reconfirmed; physical end literal `பயங்கரமாக—`;
 - scan 158: begins `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`; `நயினா`, `மாறாக`, `தள்ளாடியபடியே`, `நாற்காலியில்`, and `சமயங்கூட` reconfirmed; physical end literal `வராத`, continuing with scan 159 `கண்ணீர்,`.
 
+### Scans 159–163
+
+**PASS — 1 correction / 0 unresolved.** Batch closed on the user's explicit instruction using the already-completed direct-source forward audit for all five scans plus the user's direct-source correction on scan 163. This closure is not represented as a new independent pixel re-read of every scan. Cumulative second-pass corrections are now 2.
+
+- scan 159: begins `கண்ணீர்,`, completing scan 158 `வராத`; ends literal `அழகப்பனுக்கும்`;
+- scan 160: begins `ஒன்றும் புரியவில்லை.`; centered `21` opens Chapter 21; ends `நமது தூய நட்பு`; source-specific `மன்னித்துவிடடா` remains preserved from earlier targeted source review;
+- scan 161: begins `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`; page ends complete;
+- scan 162: bottom `11—A` remains a printer/signature mark, not body text; page ends complete;
+- scan 163: user direct-source correction applied: `ஆனந்தியின் மேனித்தின்மீது` → `ஆனந்தியின் பிணத்தின் மீது`; page ends `கொலைகாரா!”`.
+
 ## User-directed second glyph re-audit sequence
 
-`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 → 164–168 → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 → 169–173 → 174–178 → 179`
 
 For every iteration: source pixels first; all 13 families; only individually supported corrections; no global replacement; record corrections or explicit zero-correction PASS; do not start assembled Tamil until the entire 119–179 re-audit is complete.
 
 ## Exact next activity
 
-Re-audit historical Tamil glyphs in **scans 159–163** and commit that five-page audit result atomically. Preserve scan 158 / 159 `வராத` + `கண்ணீர்,`, scan 159 / 160 `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`, centered `21` on scan 160, scan 160 / 161 `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`, and scan 162 bottom `11—A` as a printer/signature mark.
+Continue the started second-pass batch for **scans 164–168**. Canonical records for all five scans have been loaded. Preserve scan 164 / 165 `கத்தி` + `னான்.` = `கத்தினான்.`, scan 165 / 166 `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`, centered `22` on scan 166, the physical em-dash at scan 166 / 167, and scan 167 / 168 `போய்ச் சேர்ந்து` + `விடவேண்டுமென்ற`. Before closing the batch, directly confirm the source readings of scan 164 `நயினாவில்`, scan 164 `என் சார்?`, and scan 165 `அவனது சவம்`; grammar is only a locator, so do not silently change them.
 
 ## Completed works — preserve
 

@@ -15,9 +15,9 @@
 - final narrative: **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–158 PASS / 40 of 61 scans complete**;
-- second re-audit corrections through scan 158: **1**;
-- second re-audit next batch: **scans 159–163**;
+- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–163 PASS / 45 of 61 scans complete**;
+- second re-audit corrections through scan 163: **2**;
+- second re-audit next batch: **scans 164–168 — STARTED**;
 - second re-audit batch size: **5 scans per iteration**;
 - full Tamil source audit / assembled Tamil / English: **blocked pending second glyph re-audit / not started / blocked**.
 
@@ -117,6 +117,22 @@ All five scans were independently re-read from the controlling source against th
 
 No canonical Tamil text changed in scans 154–158 during the second re-audit. No unresolved token remains.
 
+### Batch 9 — scans 159–163
+
+**Result: PASS — 1 correction / 0 unresolved.** The user explicitly authorized closing this batch. Closure uses the already-completed direct-source forward audit for all five scans plus the user's direct-source correction on scan 163; it is not described as a fresh independent pixel re-read of every page.
+
+- **159 / printed 158:** begins `கண்ணீர்,`, completing scan 158 `வராத`; ends `அழகப்பனுக்கும்`.
+- **160 / printed 159:** begins `ஒன்றும் புரியவில்லை.`; centered `21` opens Chapter 21; ends `நமது தூய நட்பு`; preserve earlier targeted-source `மன்னித்துவிடடா`.
+- **161 / printed 160:** begins `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`; page ends complete.
+- **162 / printed 161:** bottom `11—A` is a printer/signature mark, not body text; page ends complete.
+- **163 / printed 162:** corrected from canonical `ஆனந்தியின் மேனித்தின்மீது` to direct-source `ஆனந்தியின் பிணத்தின் மீது`; page ends `கொலைகாரா!”`.
+
+Cumulative second-pass corrections: **2** — scan 151 punctuation and scan 163 source phrase. No unresolved token remains in the closed 159–163 batch.
+
+### Batch 10 — scans 164–168 — STARTED
+
+Canonical comparison records for all five scans have been loaded. Preserve `கத்தி` + `னான்.`, `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`, centered `22` on scan 166, the scan 166 / 167 physical em-dash, and `போய்ச் சேர்ந்து` + `விடவேண்டுமென்ற`. Direct-source confirmation is still needed before closure for scan 164 `நயினாவில்`, scan 164 `என் சார்?`, and scan 165 `அவனது சவம்`.
+
 ## Durable boundaries retained
 
 - scan 119 / 120: `கவனித்து` → `விட்டான்.`;
@@ -160,4 +176,4 @@ Older source/boundary decisions remain authoritative in `audit.md` and `indexes/
 
 ## Exact next activity
 
-Perform the second historical-Tamil-glyph re-audit for **scans 159–163** only. Preserve scan 158 / 159 `வராத` + `கண்ணீர்,`, scan 159 / 160 `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`, centered `21` on scan 160, scan 160 / 161 `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`, and scan 162 bottom `11—A` as a printer/signature mark. Do not start assembled Tamil or English.
+Continue the started **scans 164–168** batch only. Preserve scan 164 / 165 `கத்தி` + `னான்.`, scan 165 / 166 `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`, centered `22` on scan 166, scan 166 / 167 physical em-dash, and scan 167 / 168 `போய்ச் சேர்ந்து` + `விடவேண்டுமென்ற`. Resolve direct-source readings for `நயினாவில்`, `என் சார்?`, and `அவனது சவம்` before closing. Do not start assembled Tamil or English.

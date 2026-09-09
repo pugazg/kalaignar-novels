@@ -9,8 +9,8 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - canonical page records: **179 / 179 — COMPLETE**;
 - body transcription: **through final scan 179 / printed 178**;
 - forward historical-glyph coverage: **PASS scans 1–179**;
-- user-directed second glyph re-audit: **IN PROGRESS — scans 119–158 PASS / 40 of 61; 1 correction**;
-- second re-audit next batch: **159–163**;
+- user-directed second glyph re-audit: **IN PROGRESS — scans 119–163 PASS / 45 of 61; 2 corrections**;
+- second re-audit next batch: **164–168 — STARTED**;
 - printed-page values are source-confirmed, not inferred.
 
 ## Printed-page mapping
@@ -102,8 +102,13 @@ Grammar is only a locator. Character identity comes from source pixels and same-
 | 156 | 155 | Chapter 20 | PASS | 0 | begins `யில்`; `நயினா`; `விட்டானா`; `நயினாமீது`; ends `தலையிலும் காயம்` |
 | 157 | 156 | Chapter 20 | PASS | 0 | begins `நயினா எதிர்த்தே அடிக்கவில்லை.`; `குற்றவாளிக்கூண்டு`; ends `பயங்கரமாக—` |
 | 158 | 157 | Chapter 20 | PASS | 0 | begins `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`; `நயினா`; `மாறாக`; ends `வராத` |
+| 159 | 158 | Chapter 20 | PASS | 0 | begins `கண்ணீர்,`; ends `அழகப்பனுக்கும்` |
+| 160 | 159 | Chapter 20 / 21 boundary | PASS | 0 | begins `ஒன்றும் புரியவில்லை.`; centered `21`; ends `நமது தூய நட்பு` |
+| 161 | 160 | Chapter 21 | PASS | 0 | begins `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`; complete ending |
+| 162 | 161 | Chapter 21 | PASS | 0 | bottom `11—A` printer/signature mark; complete ending |
+| 163 | 162 | Chapter 21 | PASS | 1 | corrected `மேனித்தின்மீது` → `பிணத்தின் மீது`; ends `கொலைகாரா!”` |
 
-Remaining second-pass ranges: **159–179 pending**. Next exact iteration: **159–163**.
+Remaining second-pass ranges: **164–179 pending**. Next exact iteration: **164–168 — STARTED**.
 
 ## Durable physical/source exceptions
 
@@ -139,6 +144,7 @@ Remaining second-pass ranges: **159–179 pending**. Next exact iteration: **159
 - scan 158 / 159 — `வராத` + `கண்ணீர்,`;
 - scan 159 / 160 — `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`;
 - scan 160 / 161 — `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது...`;
+- scan 163 — source correction `மேனித்தின்மீது` → `பிணத்தின் மீது`;
 - scan 164 / 165 — `கத்தி` + `னான்.`;
 - scan 165 / 166 — `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`;
 - scan 166 / 167 — physical em-dash → direct source continuation;
@@ -154,10 +160,10 @@ Remaining second-pass ranges: **159–179 pending**. Next exact iteration: **159
 ## Remaining scan-status ranges
 
 - scans **1–179** — canonical / verified;
-- second re-audit **119–158 PASS**;
-- second re-audit **159–179 pending**;
+- second re-audit **119–163 PASS**;
+- second re-audit **164–179 pending**;
 - no page-level transcription gap remains.
 
 ## Exact next activity
 
-User-directed second historical-glyph re-audit **scans 159–163** only, then continue in 5-scan iterations through scan 179. Preserve `வராத` + `கண்ணீர்,`, `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`, centered `21` on scan 160, `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`, and scan 162 bottom `11—A` as a printer/signature mark.
+Continue the started second historical-glyph batch **scans 164–168** only. Preserve `கத்தி` + `னான்.`, `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`, centered `22` on scan 166, the scan 166 / 167 physical em-dash, and `போய்ச் சேர்ந்து` + `விடவேண்டுமென்ற`. Direct-source confirmation is required for scan 164 `நயினாவில்`, scan 164 `என் சார்?`, and scan 165 `அவனது சவம்` before closure.
