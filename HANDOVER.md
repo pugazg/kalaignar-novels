@@ -18,13 +18,13 @@ Fetch live `main` first and preserve newer durable work.
 ## Current durable state
 
 - manifest **179 / 179**;
-- canonical records **153 / 179**;
-- Chapter 16 / 17 boundary: **scan 134 / printed 133**, centered `17`;
+- canonical records **158 / 179**;
 - Chapter 18 opens: **scan 142 / printed 141**, centered `18`;
 - Chapter 19 opens: **scan 149 / printed 148**, centered `19`;
-- Chapter 19 transcribed through **scan 153 / printed 152**;
-- historical-glyph coverage: **PASS scans 1–153**;
-- next forward iteration: **scans 154–158**;
+- Chapter 20 opens: **scan 154 / printed 153**, centered `20`;
+- Chapter 20 transcribed through **scan 158 / printed 157**;
+- historical-glyph coverage: **PASS scans 1–158**;
+- next forward iteration: **scans 159–163**;
 - batch size: **5 scans**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
@@ -53,16 +53,16 @@ For each 5-scan batch:
 
 ## Recent durable results
 
-- scan 144: preserve `தவறுக் கருதிவிட்டானே`, `ஆள்மயக்கும்`, `தவறுக் கருத்துக்கூடும்`; ends physical `வரவழைத்துக்`;
-- scan 145: begins `கொண்டான் நயினா!`; printed three-star divider; preserve `காற்று வாக்கில்`, `புளகாங்கித மூட்டுவனவாக`; ends `ஏது`;
-- scan 146: begins `அவ்வளவு அக்கறை!`; preserve `இளந் தாடியுடனும்`, `பட்டுச் சொக்காய்`, `பெங்களூர் பெரியசாமின்னு`; bottom `10` printer/signature mark; ends `கூறியதுதான்`;
-- scan 147: begins `தாமதம்;`; preserve `மிரளமிரள`, `என்றைக்கிருந்தாலும்`, `கூட்டிட்டாள்`; ends `சந்திப்`;
-- scan 148: begins `பதற்காக!`; preserve `சிற்றவள்`, `செந்தேள்கள்`, `விறிட்டுக்`, `நிம்மதியாக`; ends complete sentence;
-- scan 149: Chapter 19 opening, centered `19`; preserve `சாவைத்தவிர`, `“மாங்கல்ய”மும்`, `துயர்களை யேற்று`, `நவிந்துபோனாயே`; ends physical `புறப்`;
-- scan 150: begins `பட்டுவிட்டாயே!`; preserve `இழிவுப்படு குழியிலே`, `பெண்ணுருவப் பேய்`, `முதல்வேலை`, source `எமனாக`; ends physical `தேவ`;
-- scan 151: begins `லோகத்தில்`; preserve `ஆவேசங்கொண்டு`, `வெறிபிடித்தவள்போல`, `மருத்துவ மனையிருக்கும்`, `துவங்கியது`, `சேச்சே...`; ends completed `பிடித்து விட்டால்...?` question;
-- scan 152: preserve `அவ்விடம்`, `நயினா வலியுறுத்தியதன்பேரில்`, `அழகுவின்`, `நயினாதான்`, `கொசுவலையிருக்கிறது`; ends `வழக்கமாக உறங்கும்`;
-- scan 153: begins `அறைக்கல்லவா போகிறாள்!`; preserve `பீறிட்டுப்`, `ஸ்பரிச`, `நயினா முகமதுவும்`, `ஈன சுரத்தில்`; ends complete sentence.
+- scan 149: Chapter 19 opening, centered `19`; ends physical `புறப்`;
+- scan 150: begins `பட்டுவிட்டாயே!`; ends physical `தேவ`;
+- scan 151: begins `லோகத்தில்`; ends completed `பிடித்து விட்டால்...?` question;
+- scan 152: preserve recurring `நயினா` / `நயினாதான்`; ends `வழக்கமாக உறங்கும்`;
+- scan 153: begins `அறைக்கல்லவா போகிறாள்!`; preserve `பீறிட்டுப்`, `ஸ்பரிச`, `நயினா முகமதுவும்`, `ஈன சுரத்தில்`; ends complete sentence;
+- scan 154: Chapter 19 / 20 boundary, centered `20`; targeted enlargement confirms `சோகடிப்புமானான்`; preserve `ஈனசுரத்தில்`, `மலை மலையாக`, `அலை அலையாக`;
+- scan 155: preserve `சஞ்சீவி`, `சிபாரிசு`, `அபாக்கியவதி`, `அழுக்கேறிய`, `நிலைமைகண்டு`, `நடந்துகொண்டதாகக்கருதி`, `தீக் காட்டால்`; ends physical `சோலை`;
+- scan 156: begins `யில்`, completing `சோலையில்`; preserve `அவ்வளவுங்`, `பண்டமாற்று`, `கன்றிப்போய்விட்டது`, `நயினாமீது`; ends physical `தலையிலும் காயம்`;
+- scan 157: begins direct source `நயினா எதிர்த்தே அடிக்கவில்லை.`; old-type `றா` in `ஒன்றாக` confirmed; preserve `அலட்சியச்`, `குற்றவாளிக்கூண்டு`, `ஆக்ரோஷத்தோடு`, `குமுறின`; ends `பயங்கரமாக—`;
+- scan 158: begins `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`; preserve `மாறாக`, `ஸ்தம்பித்து`, `ஆருயிர்த் தோழனிடத்திலே`, `சமயங்கூட`; ends physical `வராத`.
 
 ## Structural/source decisions to preserve
 
@@ -97,14 +97,19 @@ For each 5-scan batch:
 - scan 150 / 151 `தேவ` + `லோகத்தில்` = `தேவலோகத்தில்`;
 - scan 151 ends completed question `பிடித்து விட்டால்...?`;
 - scan 152 / 153 `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
-- scan 153 ends complete sentence.
+- scan 153 ends complete sentence;
+- scan 154 opens Chapter 20, centered `20`;
+- scan 155 / 156 `சோலை` + `யில்` = `சோலையில்`;
+- scan 156 / 157 literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`; no grammatical reconstruction;
+- scan 157 / 158 `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`;
+- scan 158 ends physical `வராத`.
 
 ## Exact next activity
 
 1. re-fetch live `main`;
 2. resolve controlling source;
-3. process **scans 154–158** in one bounded 5-page iteration;
-4. establish scan 154 only from direct source pixels after scan 153's complete ending;
+3. process **scans 159–163** in one bounded 5-page iteration;
+4. establish scan 159 only from direct source pixels after scan 158's physical final `வராத`;
 5. run one batch glyph sweep and bounded ambiguity handling;
 6. synchronize page records and status documents and commit atomically.
 

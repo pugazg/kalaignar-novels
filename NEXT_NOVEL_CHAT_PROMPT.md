@@ -8,12 +8,12 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 ## Current durable state
 
-- canonical records: **153 / 179**;
-- Chapter 18 opens: **scan 142 / printed 141**, centered `18`;
+- canonical records: **158 / 179**;
 - Chapter 19 opens: **scan 149 / printed 148**, centered `19`;
-- Chapter 19 transcribed through **scan 153 / printed 152**;
-- historical-glyph coverage: **PASS scans 1–153**;
-- next iteration: **scans 154–158**;
+- Chapter 20 opens: **scan 154 / printed 153**, centered `20`;
+- Chapter 20 transcribed through **scan 158 / printed 157**;
+- historical-glyph coverage: **PASS scans 1–158**;
+- next iteration: **scans 159–163**;
 - batch size: **5 scans**;
 - assembled Tamil / English: **not started / blocked**.
 
@@ -33,19 +33,16 @@ Check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / �
 
 ## Recent source boundaries to preserve
 
-- scan 147 / 148: `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`;
-- scan 148 ends a complete sentence;
-- scan 149: Chapter 19 opening, centered `19`;
-- scan 149 / 150: `புறப்` + `பட்டுவிட்டாயே!` = `புறப்பட்டுவிட்டாயே!`;
-- scan 150 / 151: `தேவ` + `லோகத்தில்` = `தேவலோகத்தில்`;
-- scan 151 ends the complete question `பிடித்து விட்டால்...?`;
-- scan 152 / 153: `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
-- scan 153 ends a complete sentence; establish scan 154 only from direct source.
+- scan 154: Chapter 19 / 20 boundary, centered `20`;
+- scan 155 / 156: `சோலை` + `யில்` = `சோலையில்`;
+- scan 156 / 157: literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`; do not grammatically reconstruct the boundary;
+- scan 157 / 158: `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`;
+- scan 158 ends physical `வராத`; establish scan 159 only from direct source.
 
 ## Source-specific recent forms
 
-Preserve confirmed source forms such as `துயர்களை யேற்று`, `இழிவுப்படு குழியிலே`, `ஆவேசங்கொண்டு`, `வெறிபிடித்தவள்போல`, `மருத்துவ மனையிருக்கும்`, `துவங்கியது`, `அவ்விடம்`, `நயினா வலியுறுத்தியதன்பேரில்`, `அழகுவின்`, `நயினாதான்`, `பீறிட்டுப்`, `ஸ்பரிச`, `நயினா முகமதுவும்`, and `ஈன சுரத்தில்`.
+Preserve confirmed source forms such as `சோகடிப்புமானான்`, `ஈனசுரத்தில்`, `மலை மலையாக`, `அலை அலையாக`, `சஞ்சீவி`, `சிபாரிசு`, `அபாக்கியவதி`, `நிலைமைகண்டு`, `நடந்துகொண்டதாகக்கருதி`, `அவ்வளவுங்`, `பண்டமாற்று`, `கன்றிப்போய்விட்டது`, `நயினாமீது`, `அலட்சியச்`, `குற்றவாளிக்கூண்டு`, `ஆக்ரோஷத்தோடு`, `குமுறின`, `மாறாக`, `ஸ்தம்பித்து`, `ஆருயிர்த் தோழனிடத்திலே`, and `சமயங்கூட`.
 
 ## Exact next activity
 
-Process **scans 154–158** in one bounded 5-page iteration. Do not start assembled Tamil or English.
+Process **scans 159–163** in one bounded 5-page iteration. Do not start assembled Tamil or English.

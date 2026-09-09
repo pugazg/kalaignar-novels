@@ -6,12 +6,12 @@
 |---|---|
 | Source identity / checksum / page count | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **153 / 179** |
-| Body transcription | **through scan 153 / printed 152** |
-| Printed-page map | **directly confirmed through scan 153; scan 66 visibly prints only `5`** |
-| Chapter map | **direct through Chapter 19; Chapter 19 opens at scan 149** |
-| Historical-glyph coverage | **PASS scans 1–153** |
-| Forward transcription | **next 5-scan iteration 154–158** |
+| Canonical page records | **158 / 179** |
+| Body transcription | **through scan 158 / printed 157** |
+| Printed-page map | **directly confirmed through scan 158; scan 66 visibly prints only `5`** |
+| Chapter map | **direct through Chapter 20; Chapter 20 opens at scan 154** |
+| Historical-glyph coverage | **PASS scans 1–158** |
+| Forward transcription | **next 5-scan iteration 159–163** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -30,27 +30,27 @@ Character identity is decided from source pixels first; grammar is only a locato
 - scans **102–111**: corrective audit;
 - scans **112–118**: forward audit;
 - expanded corrective re-audit repaired old-type `னா` / `றா` misses across the existing corpus;
-- scans **119–153**: forward source-pixel audit with the mandatory 13-family set;
-- current canonical scans **1–153 are PASS**.
+- scans **119–158**: forward source-pixel audit with the mandatory 13-family set;
+- current canonical scans **1–158 are PASS**.
 
 ## Latest verified batch
 
-### Scan 149 / printed 148
-**VERIFIED / PASS. Chapter 19 opening.** Centered `19`; direct source begins a new chapter after scan 148's complete ending. Preserve source forms including `துயர்களை யேற்று`; ends physical `புறப்`.
+### Scan 154 / printed 153
+**VERIFIED / PASS. Chapter 19 / 20 boundary.** Direct source begins with `“விடுங்கள் தயவு செய்து என்னை!”`; centered `20` opens Chapter 20 mid-scan. Same-edition comparison confirms recurring old-type `நயினா`; one targeted enlargement confirms source-specific `சோகடிப்புமானான்`. Preserve `ஈனசுரத்தில்`, `மலை மலையாக`, and `அலை அலையாக`.
 
-### Scan 150 / printed 149
-**VERIFIED / PASS.** Begins `பட்டுவிட்டாயே!`, completing scan 149; source-specific wording retained; ends physical `தேவ`.
+### Scan 155 / printed 154
+**VERIFIED / PASS.** Preserve `சஞ்சீவி`, `சிபாரிசு`, `அபாக்கியவதி`, `அழுக்கேறிய`, `நிலைமைகண்டு`, `நடந்துகொண்டதாகக்கருதி`, and `தீக் காட்டால்`; ends physical `சோலை`.
 
-### Scan 151 / printed 150
-**VERIFIED / PASS.** Begins `லோகத்தில்`, completing `தேவலோகத்தில்`; source-specific `ஆவேசங்கொண்டு`, `மருத்துவ மனையிருக்கும்`, and `துவங்கியது` retained; ends a complete question.
+### Scan 156 / printed 155
+**VERIFIED / PASS.** Begins physical `யில்`, completing `சோலையில்`; same-edition old-type `நயினா` / interrogative `விட்டானா` confirmed. Preserve `அவ்வளவுங்`, `பண்டமாற்று`, `கன்றிப்போய்விட்டது`, and `நயினாமீது`; ends physical `தலையிலும் காயம்` with no supplied punctuation.
 
-### Scan 152 / printed 151
-**VERIFIED / PASS.** Recurring old-type `நயினா` and `நயினாதான்` directly confirmed; `அவ்விடம்`, `அழகுவின்`, and `கொசுவலையிருக்கிறது` retained; ends `வழக்கமாக உறங்கும்`.
+### Scan 157 / printed 156
+**VERIFIED / PASS.** Begins direct source `நயினா எதிர்த்தே அடிக்கவில்லை.` after the literal scan-156 ending. Old-type `றா` in `ஒன்றாக` confirmed. Preserve `அலட்சியச்`, `குற்றவாளிக்கூண்டு`, `உலர்ந்துபோன`, `ஆக்ரோஷத்தோடு`, and `குமுறின`; ends physical `பயங்கரமாக—`.
 
-### Scan 153 / printed 152
-**VERIFIED / PASS.** Begins `அறைக்கல்லவா போகிறாள்!`; source-specific `பீறிட்டுப்`, `ஸ்பரிச`, `நயினா முகமதுவும்`, and `ஈன சுரத்தில்` retained; ends a complete sentence.
+### Scan 158 / printed 157
+**VERIFIED / PASS.** Begins `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`, continuing scan 157. Same-edition comparison confirms `நயினா` and old-type `றா` in `மாறாக`. Preserve `வேசியாக்கியவளின்`, `மங்கலான`, `ஸ்தம்பித்து`, `ஆருயிர்த் தோழனிடத்திலே`, and `சமயங்கூட`; ends physical `வராத`.
 
-No unresolved source holds remain in scans 149–153.
+No unresolved source holds remain in scans 154–158.
 
 ## Structural/source decisions to preserve
 
@@ -101,8 +101,13 @@ No unresolved source holds remain in scans 149–153.
 - scan 150 / 151 `தேவ` + `லோகத்தில்` = `தேவலோகத்தில்`;
 - scan 151 ends complete `பிடித்து விட்டால்...?` question;
 - scan 152 / 153 `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
-- scan 153 ends complete sentence.
+- scan 153 ends complete sentence;
+- scan 154 Chapter 19 / 20 boundary, centered `20`;
+- scan 155 / 156 `சோலை` + `யில்` = `சோலையில்`;
+- scan 156 / 157 literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`; no grammatical reconstruction;
+- scan 157 / 158 `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`;
+- scan 158 ends physical `வராத`.
 
 ## Exact next activity
 
-Process **scans 154–158** using the bounded production workflow: transcribe all five pages first, run one mandatory 13-family batch sweep, allow at most one targeted enlargement per genuinely unclear token, and record a source hold if still unresolved. Do not start assembled Tamil or English.
+Process **scans 159–163** using the bounded production workflow: transcribe all five pages first, run one mandatory 13-family batch sweep, allow at most one targeted enlargement per genuinely unclear token, and record a source hold if still unresolved. Establish scan 159 only from direct source after scan 158's physical `வராத`. Do not start assembled Tamil or English.
