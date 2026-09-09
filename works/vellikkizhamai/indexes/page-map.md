@@ -9,8 +9,8 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - canonical page records: **179 / 179 — COMPLETE**;
 - body transcription: **through final scan 179 / printed 178**;
 - forward historical-glyph coverage: **PASS scans 1–179**;
-- user-directed second glyph re-audit: **IN PROGRESS — scans 119–163 PASS / 45 of 61; 2 corrections**;
-- second re-audit next batch: **164–168 — STARTED**;
+- user-directed second glyph re-audit: **IN PROGRESS — scans 119–168 PASS / 50 of 61; 5 corrections**;
+- second re-audit next batch: **169–173 — STARTED**;
 - printed-page values are source-confirmed, not inferred.
 
 ## Printed-page mapping
@@ -107,8 +107,13 @@ Grammar is only a locator. Character identity comes from source pixels and same-
 | 161 | 160 | Chapter 21 | PASS | 0 | begins `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`; complete ending |
 | 162 | 161 | Chapter 21 | PASS | 0 | bottom `11—A` printer/signature mark; complete ending |
 | 163 | 162 | Chapter 21 | PASS | 1 | corrected `மேனித்தின்மீது` → `பிணத்தின் மீது`; ends `கொலைகாரா!”` |
+| 164 | 163 | Chapter 21 | PASS | 2 | corrected `நயினாவில்` → `நயினாவால்`; `என் சார்?` → `ஏன் சார்?`; ends `கத்தி` |
+| 165 | 164 | Chapter 21 | PASS | 1 | begins `னான்.`; corrected `அவனது சவம்` → `அவளது சவம்`; ends `அதற்குள்` |
+| 166 | 165 | Chapter 21 / 22 boundary | PASS | 0 | begins `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`; centered `22`; ends physical em-dash |
+| 167 | 166 | Chapter 22 | PASS | 0 | direct continuation after em-dash; ends `போய்ச் சேர்ந்து` |
+| 168 | 167 | Chapter 22 | PASS | 0 | begins `விடவேண்டுமென்ற`; complete ending |
 
-Remaining second-pass ranges: **164–179 pending**. Next exact iteration: **164–168 — STARTED**.
+Remaining second-pass ranges: **169–179 pending**. Next exact iteration: **169–173 — STARTED**.
 
 ## Durable physical/source exceptions
 
@@ -160,10 +165,10 @@ Remaining second-pass ranges: **164–179 pending**. Next exact iteration: **164
 ## Remaining scan-status ranges
 
 - scans **1–179** — canonical / verified;
-- second re-audit **119–163 PASS**;
-- second re-audit **164–179 pending**;
+- second re-audit **119–168 PASS**;
+- second re-audit **169–179 pending**;
 - no page-level transcription gap remains.
 
 ## Exact next activity
 
-Continue the started second historical-glyph batch **scans 164–168** only. Preserve `கத்தி` + `னான்.`, `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`, centered `22` on scan 166, the scan 166 / 167 physical em-dash, and `போய்ச் சேர்ந்து` + `விடவேண்டுமென்ற`. Direct-source confirmation is required for scan 164 `நயினாவில்`, scan 164 `என் சார்?`, and scan 165 `அவனது சவம்` before closure.
+Continue the started second historical-glyph batch **scans 169–173** only. Preserve `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`, `“எஜமான்!....இடும்பன்...”` → `என்றான்.`, `வம்புச் சண்டையெல்லாம்` + `நடந்தது.`, centered `23` on scan 172, and scan 173 `அவள் நெஞ்சிலே` → direct source continuation. Direct-source confirmation is required for suspicious scan-171 spacing `அங்கிருந்த வாறு` before closure.
