@@ -23,8 +23,10 @@ Fetch live `main` first and preserve newer durable work.
 - forward mandatory historical-glyph coverage **PASS scans 1–179**;
 - unresolved source holds **0**;
 - user-directed second historical-glyph re-audit **COMPLETE — scans 119–179 / 61 of 61 scans — PASS, 5 corrections, 0 unresolved**;
-- full Tamil source audit: **READY / NEXT — not started**;
-- assembled Tamil / English: **not started / blocked pending Tamil source audit and assembly gate**.
+- full Tamil source audit: **PASSED**;
+- Tamil source layer: **PASSED**;
+- assembled Tamil: **READY / NEXT — not started**;
+- English: **blocked until assembled Tamil passes its own consistency gate**.
 
 ## Critical historical-glyph rule
 
@@ -165,9 +167,13 @@ Identify character identity from source pixels first. Grammar is only a locator,
 
 The user-directed 119–179 second historical-glyph re-audit is now complete: **61 / 61 scans PASS, 5 cumulative corrections, 0 unresolved**. Do not reopen it without new direct-source evidence.
 
+## Full Tamil source audit result
+
+**PASSED.** Live canonical coverage is 179/179 continuous records with 0 unresolved source holds. Source identity, printed-page mapping, Chapters 1–23, historical-glyph gates, five second-pass corrections, durable cross-page joins, and non-body mark separation are consistent. `metadata/source.md` was the one stale control document found during this audit (it still described 111/179 and an old reopened gate); it has been synchronized to the completed state. No canonical page text changed in this audit.
+
 ## Exact next activity
 
-Begin the **full Tamil source audit** required by `NOVEL_PROCESSING_GUIDE.md` before creating assembled Tamil. Audit the complete canonical `pages/` layer for coverage, verified-status consistency, work identity, printed-page/chapter mapping, structural decisions, cross-page continuity, source-specific corrections and separation of printed text from non-body marks. Treat the audited `pages/` records as canonical authority. Do **not** start assembled Tamil until this full Tamil source audit is explicitly marked **PASSED**.
+Begin the **assembled Tamil reading layer** from the PASSED canonical `pages/` layer. Preserve page provenance and source wording, and join only verified cross-page continuities. Use the source's 23-chapter structure as the primary organization. After assembly, run its own source-coverage / continuity / canonical-authority check. Do not start English until assembled Tamil is marked **PASSED**.
 
 ## Completed works — preserve
 

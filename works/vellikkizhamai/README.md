@@ -17,8 +17,10 @@
 - unresolved source holds: **0**;
 - user-directed second historical-glyph re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61 scans**;
 - second re-audit corrections: **5 total / 0 unresolved**;
-- full Tamil source audit: **READY / NEXT — not started**;
-- assembled Tamil / English: **not started / blocked pending Tamil source audit and assembly gate**.
+- full Tamil source audit: **PASSED**;
+- Tamil source layer: **PASSED**;
+- assembled Tamil: **READY / NEXT — not started**;
+- English: **blocked until assembled Tamil passes its own consistency gate**.
 
 ## Mandatory historical-glyph rule
 
@@ -201,6 +203,10 @@ Older source/boundary decisions remain authoritative in `audit.md` and `indexes/
 - [`audit.md`](audit.md)
 - canonical pages through [`pages/0179-vellikkizhamai-176.md`](pages/0179-vellikkizhamai-176.md)
 
+## Full Tamil source audit result
+
+**PASSED.** The canonical source layer has 179/179 continuous page records, Chapters 1–23, source-confirmed printed-page mapping, 0 unresolved source holds, complete historical-glyph gates, and the five second-pass source corrections preserved. The audit also found `metadata/source.md` carrying an obsolete 111-page progress snapshot; it was synchronized to the completed 179-page state. No canonical Tamil text change was required by the full source audit.
+
 ## Exact next activity
 
-Begin the **full Tamil source audit** across all 179 canonical page records. Verify page/manifest consistency, all records' statuses and work identity, printed-page and chapter structure, known cross-page joins, source-specific corrections/forms, and separation of printed text from non-body marks. Once this canonical Tamil source layer passes, record **Tamil source layer: PASSED** and only then start assembled Tamil. English remains blocked.
+Create the **assembled Tamil reading layer** from the audited canonical `pages/` records. Preserve source wording and provenance; join only verified cross-page continuities; structure the reading layer around the source's 23 chapters. Run the assembled layer's own completeness/continuity check before marking it PASSED. English remains blocked until assembled Tamil passes.

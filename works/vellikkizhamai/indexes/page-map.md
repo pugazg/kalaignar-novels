@@ -10,7 +10,9 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - body transcription: **through final scan 179 / printed 178**;
 - forward historical-glyph coverage: **PASS scans 1–179**;
 - user-directed second glyph re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61; 5 corrections / 0 unresolved**;
-- full Tamil source audit: **READY / NEXT — not started**;
+- full Tamil source audit: **PASSED**;
+- Tamil source layer: **PASSED**;
+- assembled Tamil: **READY / NEXT — not started**;
 - printed-page values are source-confirmed, not inferred.
 
 ## Printed-page mapping
@@ -49,6 +51,12 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - scan 166 — Chapter 22 opening, centered `22`;
 - scan 172 — Chapter 23 opening, centered `23`;
 - scan 179 — final Chapter 23 narrative page plus illustration.
+
+## Full Tamil source audit gate
+
+**PASSED.** The live page tree is continuous `0001`–`0179` with 179 canonical records. Printed-page mapping and Chapters 1–23 remain source-confirmed; second historical-glyph re-audit is 61/61 PASS with 5 corrections and 0 unresolved. Durable cross-page joins and printer/signature/non-body decisions remain unchanged. `metadata/source.md` was synchronized from an obsolete 111-page progress snapshot to the completed state. No canonical page text changed during the full source audit.
+
+Next layer: **assembled Tamil reading layer — READY / NEXT**.
 
 ## Historical-glyph rule
 
@@ -177,9 +185,10 @@ Second re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61; 5 corrections /
 
 - scans **1–179** — canonical / verified;
 - second re-audit **119–179 PASS / COMPLETE**;
-- full Tamil source audit **not started / next gate**;
+- full Tamil source audit **PASSED**;
+- assembled Tamil reading layer **READY / NEXT — not started**;
 - no page-level transcription gap remains.
 
 ## Exact next activity
 
-Begin the **full Tamil source audit** of all 179 canonical records. Reconcile the manifest/page map against page front matter, verified statuses, work/section identity, printed-page values, chapter boundaries, durable continuity decisions, five source corrections, and non-body material handling. Only after this audit passes may the assembled Tamil reading layer begin.
+Build the **assembled Tamil reading layer** from the PASSED canonical `pages/` source layer. Preserve source wording and page provenance, organize around the source's 23 chapters, and join only verified cross-page continuities. Run the assembled layer's own source-coverage / continuity / canonical-authority consistency check before marking it **PASSED**. English remains blocked until then.

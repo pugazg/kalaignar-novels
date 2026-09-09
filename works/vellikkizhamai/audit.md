@@ -15,9 +15,67 @@
 | Forward historical-glyph coverage | **PASS scans 1–179** |
 | User-directed second historical-glyph re-audit | **COMPLETE — scans 119–179 PASS / 61 of 61** |
 | Second re-audit corrections | **5 total / 0 unresolved** |
-| Full Tamil source audit | **READY / NEXT — not started** |
-| Assembled Tamil | **not started** |
-| English translation | **blocked until Tamil gate passes** |
+| Full Tamil source audit | **PASSED** |
+| Assembled Tamil | **READY / NEXT — not started** |
+| English translation | **blocked until assembled Tamil passes** |
+
+## Full Tamil source audit — PASSED
+
+The complete canonical Tamil page layer was audited after closure of the second historical-glyph re-audit. This is a structural/source-consistency gate over the already source-audited canonical records; it does not silently retranscribe or normalize the work.
+
+### Final page-layer coverage gate
+
+| Check | Result |
+|---|---|
+| Source identity / checksum | **PASS** — source metadata agrees on filename, SHA-256, 251,126,214 bytes and 179 scans |
+| Canonical page-tree coverage | **PASS — 179 / 179**, continuous filenames `0001` through `0179`; page tree is not truncated |
+| Canonical completion / unresolved state | **PASS — 179 / 179 COMPLETE; 0 unresolved source holds** |
+| Work identity | **PASS — single work `vellikkizhamai`** |
+| Printed-page mapping | **PASS** — source-confirmed exceptions retained, especially scan 66 printed `5` and scans 67–179 → printed 66–178 |
+| Chapter structure | **PASS — Chapters 1–23**, with final Chapter 23 narrative on scan 179 |
+| Historical-glyph gates | **PASS** — forward scans 1–179; second re-audit 119–179 = 61/61 PASS |
+| Second-pass corrections | **PASS — 5 source-supported corrections present; 0 unresolved** |
+| Cross-page continuity | **PASS** — durable physical joins preserved without grammar-driven reconstruction |
+| Printed text vs non-body material | **PASS** — printer/signature marks, scan-179 illustration and later handwriting remain excluded from body text |
+| Metadata / README / page-map / audit synchronization | **PASS after audit synchronization** — stale `metadata/source.md` progress state was updated to the completed 179-page state |
+
+### Page metadata / manifest consistency
+
+The live `pages/` Git tree contains exactly the continuous record sequence `0001`–`0179`, beginning with three front-matter records and continuing through the final body/illustration record. Representative live front-matter and body records across the work confirm `work: "vellikkizhamai"`, Tamil language, the controlling source filename, and `status: "verified"`; the completed project state records no remaining `needs-review`, `not-started`, or unresolved source hold. Legacy descriptive filename suffixes are preserved and are not treated as printed-page numbers; `scan_page` / `printed_page` front matter remains authoritative.
+
+### Structural / printed-page audit
+
+The work remains one novel with **23 chapters**. The confirmed printed-page exceptions are preserved: front matter scans 1–3; scan 4 without a printed body-page number; scans 5–8 printed 4–7; scan 9 without a visible printed number; scans 10–65 printed 9–64; scan 66 visibly prints only `5`; scans 67–179 map to printed 66–178. No missing number is silently inferred.
+
+### Source-correction audit
+
+The five second-pass corrections are present in the canonical layer and remain individually source-supported:
+
+1. scan 151 `அங்கே வந்து.` → `அங்கே வந்து,`;
+2. scan 163 `மேனித்தின்மீது` → `பிணத்தின் மீது`;
+3. scan 164 `நயினாவில்` → `நயினாவால்`;
+4. scan 164 `“என் சார்?”` → `“ஏன் சார்?”`;
+5. scan 165 `அவனது சவம்` → `அவளது சவம்`.
+
+No additional canonical text change was required by this full Tamil source audit.
+
+### Continuity audit
+
+Durable page-boundary joins recorded in this audit and the page map were checked as structural decisions, not rewritten prose. Important late-work examples include `புகை` + `வண்டி`, `வாழ்` + `விலே`, `அழகப்ப` + `னுடைய`, `பின்னிக்` + `கொண்டன`, `புறப்` + `பட்டுவிட்டாயே!`, `தேவ` + `லோகத்தில்`, `சோலை` + `யில்`, `கத்தி` + `னான்.`, and the deliberately literal scan 156/157 transition `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`. No grammatical reconstruction was introduced.
+
+### Printed text vs copy-specific marks
+
+Printer/signature marks at scans 82 `6`, 98 `7`, 114 `8`, 130 `9`, 146 `10`, and 162 `11—A` remain observations rather than narrative. Scan 179's lower printed illustration and faint later handwritten marks/numbers remain non-body material.
+
+## Canonical Tamil source result
+
+**Transcription coverage: COMPLETE — 179 / 179.**  
+**Historical-glyph/source review: COMPLETE.**  
+**Page/metadata/manifest consistency audit: PASSED.**  
+**Unresolved source readings: 0.**  
+**Tamil source layer: PASSED.**
+
+The audited `pages/` records remain the canonical preservation layer. The next stage is the derived **assembled Tamil reading layer**; it may join only verified page-boundary continuities and must preserve provenance back to canonical pages. English remains blocked until assembled Tamil passes its own consistency audit.
 
 ## Historical-glyph rule
 
@@ -154,4 +212,4 @@ Closure basis: canonical scan 179 already had a completed direct-source forward 
 
 ## Exact next activity
 
-Run the **full Tamil source audit** of the canonical page layer, following `NOVEL_PROCESSING_GUIDE.md`: final coverage/status gate, structural audit, page metadata/manifest consistency, printed-page mapping, continuity audit, source-correction audit, and printed-text-vs-non-body-mark separation. If all checks pass, mark **Tamil source layer: PASSED**. Do not create assembled Tamil until that gate passes; English remains blocked.
+Build the **assembled Tamil reading layer** from the now-PASSED canonical `pages/` source layer. Follow `NOVEL_PROCESSING_GUIDE.md`: derive prose only from audited page records, preserve source wording/punctuation, retain page provenance, and join only already-verified cross-page continuities. Define section boundaries from the source's 23-chapter structure without force-fitting another work. After assembly, run its own source-coverage / continuity / canonical-authority consistency check and mark assembled Tamil **PASSED** only if every gate succeeds. English remains blocked until then.

@@ -11,41 +11,57 @@
 
 ## Printed-page direct map
 
-- scans 1–3: no printed number; scan 4: none; scans 5–8: 4–7; scan 9: none;
-- scans 10–65: printed scan-minus-one;
-- scan 66: visibly prints only **`5`**; no `65` inference;
-- scans 67–111: printed scan-minus-one (**66–110**), directly inspected;
-- scan 176: 175; scan 179: 178.
+- scans **1–3**: front matter; no printed body-page number;
+- scan **4**: Chapter 1 opening; no visible printed body-page number recorded;
+- scans **5–8**: printed **4–7**;
+- scan **9**: body page with no visible printed number recorded;
+- scans **10–65**: printed **9–64**;
+- scan **66**: source visibly prints only **`5`**; never infer `65`;
+- scans **67–179**: printed **66–178**.
 
-## Structural map through scan 111
+Printed-page values are source-confirmed rather than inferred from sequence.
 
-Chapter openings/boundaries: scan 4 `1`; scan 13 `2`; scan 23 `3`; scan 33 mixed `3/4`; scan 45 mixed `4/5`; scan 52 `6`; scan 59 mixed `6/7`; scan 68 mixed `7/8`; scan 75 mixed `8/9`; scan 85 mixed `9/10`; scan 92 mixed `10/11`; scan 99 mixed `11/12`; scan 107 mixed `12/13`. Chapter 13 continues through scan 111.
+## Confirmed chapter structure
 
-## Historical-glyph gate status
+Chapter openings/boundaries are recorded at scans **4, 13, 23, 33, 45, 52, 59, 68, 75, 85, 92, 99, 107, 115, 120, 127, 134, 142, 149, 154, 160, 166, 172**, covering Chapters **1–23**. Scan **179 / printed 178** is the final Chapter 23 narrative page and ends `திரும்பினர்கள்.`.
 
-The work-level historical-glyph gate remains **REOPENED** until retrospective coverage through scan 101 is complete.
+## Historical-glyph / source-fidelity gates
 
-- corrective historical-glyph re-audit: **PASS scans 102–111**;
-- retrospective historical-glyph re-audit: **PASS scans 1–5; pending scans 6–101**;
-- forward work at scan 112 remains paused.
+- mandatory forward historical-glyph coverage: **PASS scans 1–179**;
+- user-directed second historical-glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS**;
+- second re-audit corrections: **5 total / 0 unresolved**;
+- unresolved source holds: **0**.
 
-### Retrospective batch scans 1–5
+The mandatory historical families are:
 
-All five scans were re-inspected against the mandatory families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Representative source confirmations: scan 1 `கருணாநிதி` (`ணா`) and `திராவிடப்பண்ணை` (`ணை`); scan 3 `விலை` (`லை`); scan 4 `அன்னைப்` / `மாவீரனைப்` (`னை`) and `போனான்` (`னா`); scan 5 `சாணமிட்டு` (`ணா`) and `நன்றாக` (`றா`). No historical-glyph Unicode correction was required in scans 1–5.
+Source pixels control character identity. Grammar is only a locator. No global replacements or silent modernization are permitted.
 
-A separate direct source comparison corrected scan 4 `பெருகிடுகிறது` to source-visible **`பெருகிவிடுகிறது`**. This is a lexical/source-fidelity correction, not a historical-glyph change.
+### Second re-audit source corrections
 
-No global replacements are permitted. Similar-looking forms must be decided individually from source pixels.
+1. scan 151: `அங்கே வந்து.` → source punctuation **`அங்கே வந்து,`**;
+2. scan 163: `ஆனந்தியின் மேனித்தின்மீது` → **`ஆனந்தியின் பிணத்தின் மீது`**;
+3. scan 164: `நயினாவில்` → **`நயினாவால்`**;
+4. scan 164: `“என் சார்?”` → **`“ஏன் சார்?”`**;
+5. scan 165: `அவனது சவம்` → **`அவளது சவம்`**.
+
+Earlier source-level resolutions and historical-glyph corrections remain documented in `audit.md` and `AUDIT_HISTORY_THROUGH_153.md`; they are not re-normalized here.
+
+## Printed text vs copy-specific marks
+
+Printer/signature marks remain outside body text, including scans **82 `6`, 98 `7`, 114 `8`, 130 `9`, 146 `10`, 162 `11—A`**. On scan 179, the lower printed illustration and faint later handwritten marks/numbers are recorded as non-body material and are not transcribed into the canonical narrative.
 
 ## Current durable state
 
-- manifest **179 / 179**;
-- canonical page records **111 / 179**;
-- Chapter 13 transcribed through scan 111 / printed 110;
-- historical-glyph re-audit PASS ranges: **1–5 and 102–111**;
-- retrospective gap: **6–101**;
-- full Tamil audit / assembled Tamil / English: not started / not started / blocked.
+- manifest / scan coverage: **179 / 179**;
+- canonical page records: **179 / 179 — COMPLETE**;
+- final narrative: **scan 179 / printed 178**;
+- historical-glyph gates: **PASS / COMPLETE**;
+- unresolved source holds: **0**;
+- full Tamil source audit: **PASSED**;
+- Tamil source layer: **PASSED**;
+- assembled Tamil: **READY / NEXT — not started**;
+- English: **blocked until assembled Tamil passes its own consistency gate**.
 
-Next: **retrospective historical-glyph re-audit scans 6–10**.
+Next: create and audit the **assembled Tamil reading layer** from canonical `pages/`, preserving page provenance and joining only already-verified page-boundary continuities.
