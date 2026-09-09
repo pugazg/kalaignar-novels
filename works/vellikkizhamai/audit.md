@@ -13,10 +13,9 @@
 | Printed-page map | **directly confirmed through scan 179; scan 66 visibly prints only `5`** |
 | Chapter map | **direct through Chapter 23; Chapter 23 opens at scan 172** |
 | Forward historical-glyph coverage | **PASS scans 1–179** |
-| User-directed second historical-glyph re-audit | **IN PROGRESS — scans 119–178 PASS / 60 of 61** |
-| Second re-audit corrections | **5 through scan 178** |
-| Second re-audit next batch | **scan 179 — STARTED** |
-| Full Tamil source audit | **blocked pending second glyph re-audit** |
+| User-directed second historical-glyph re-audit | **COMPLETE — scans 119–179 PASS / 61 of 61** |
+| Second re-audit corrections | **5 total / 0 unresolved** |
+| Full Tamil source audit | **READY / NEXT — not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
 
@@ -42,7 +41,8 @@ Character identity is decided from source pixels first; grammar is only a locato
 - **164–168:** PASS — 3 corrections / 0 unresolved. User direct-source corrections: `நயினாவில்` → `நயினாவால்`; `என் சார்?` → `ஏன் சார்?`; `அவனது சவம்` → `அவளது சவம்`.
 - **169–173:** PASS — 0 corrections / 0 unresolved. User-instructed closure using the existing direct-source forward audit; preserve scan-171 `அங்கிருந்த வாறு`.
 - **174–178:** PASS — 0 corrections / 0 unresolved. User-instructed closure using the already-completed direct-source forward audit; canonical Tamil unchanged.
-- Remaining second-pass scan: **179**.
+- **179:** PASS — 0 corrections / 0 unresolved. Final `திரும்பினர்கள்.` preserved; lower illustration and faint later handwriting excluded as non-body material.
+- Second re-audit final: **COMPLETE — 61/61 scans PASS, 5 total corrections, 0 unresolved**.
 
 ## Batch 8 — scans 154–158
 
@@ -110,9 +110,16 @@ Closure basis: the five canonical records already had completed direct-source fo
 
 **Batch verdict: PASS — 5/5 scans, 0 corrections, 0 unresolved. Cumulative second-pass corrections remain 5.**
 
-## Final iteration — scan 179 — STARTED
+## Final iteration — scan 179
 
-Canonical scan 179 is loaded. It contains the final narrative sentence ending `திரும்பினர்கள்.` plus a lower printed illustration and faint later handwritten marks/numbers; the latter are non-body material.
+Closure basis: canonical scan 179 already had a completed direct-source forward audit and was loaded for this final iteration. No conflicting source evidence or unresolved reading remained.
+
+- final narrative remains `வெள்ளிக்கிழமையிலே பெண் வீடு பார்க்க வந்த நண்பர்கள் இருவரும்......தங்கள் வாழ்க்கை ஏட்டிலே அழியாத இடம் பெற்றுவிட்ட இரண்டு பெண்மணிகளையும் நினைத்து நினைத்து நெஞ்சு நெகிழ்ந்தவாறு பெங்களூர் திரும்பினர்கள்.`;
+- source-specific closing `திரும்பினர்கள்.` is preserved exactly;
+- lower printed illustration is non-body visual material;
+- faint later handwritten marks/numbers are non-body annotations and remain excluded from canonical body text.
+
+**Final iteration verdict: PASS — 1/1 scan, 0 corrections, 0 unresolved. Second historical-glyph re-audit COMPLETE — 61/61 scans PASS, 5 cumulative corrections, 0 unresolved.**
 
 ## Structural/source decisions to preserve
 
@@ -143,8 +150,8 @@ Canonical scan 179 is loaded. It contains the final narrative sentence ending `�
 
 ## Second re-audit sequence
 
-`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 ✓ → 169–173 ✓ → 174–178 ✓ → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 ✓ → 169–173 ✓ → 174–178 ✓ → 179 ✓`
 
 ## Exact next activity
 
-Complete the final second-pass audit for **scan 179** only. Preserve the final narrative ending `திரும்பினர்கள்.` and exclude the lower illustration and faint later handwritten marks/numbers from canonical body text. Do not start assembled Tamil or English until the final scan is closed and the second re-audit gate is complete.
+Run the **full Tamil source audit** of the canonical page layer, following `NOVEL_PROCESSING_GUIDE.md`: final coverage/status gate, structural audit, page metadata/manifest consistency, printed-page mapping, continuity audit, source-correction audit, and printed-text-vs-non-body-mark separation. If all checks pass, mark **Tamil source layer: PASSED**. Do not create assembled Tamil until that gate passes; English remains blocked.

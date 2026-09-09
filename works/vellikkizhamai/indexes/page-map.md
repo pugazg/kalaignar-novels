@@ -9,8 +9,8 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - canonical page records: **179 / 179 — COMPLETE**;
 - body transcription: **through final scan 179 / printed 178**;
 - forward historical-glyph coverage: **PASS scans 1–179**;
-- user-directed second glyph re-audit: **IN PROGRESS — scans 119–178 PASS / 60 of 61; 5 corrections**;
-- second re-audit next batch: **scan 179 — STARTED**;
+- user-directed second glyph re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61; 5 corrections / 0 unresolved**;
+- full Tamil source audit: **READY / NEXT — not started**;
 - printed-page values are source-confirmed, not inferred.
 
 ## Printed-page mapping
@@ -122,8 +122,9 @@ Grammar is only a locator. Character identity comes from source pixels and same-
 | 176 | 175 | Chapter 23 | PASS | 0 | begins `கொண்டார்கள்.`; preserves `விளக்கினன்`, `வருந்தி வருந்தி` |
 | 177 | 176 | Chapter 23 | PASS | 0 | preserves `அள்ளி வீசினன்`, later-edition `நயினுவும்`; complete ending |
 | 178 | 177 | Chapter 23 | PASS | 0 | preserves `இழுமூச்சைத்தாள்`, `புள்ளி மயில்`; complete ending |
+| 179 | 178 | Chapter 23 final narrative / illustration | PASS | 0 | final `திரும்பினர்கள்.`; lower illustration + faint later handwriting are non-body material |
 
-Remaining second-pass scan: **179 pending**. Next exact iteration: **scan 179 — STARTED**.
+Second re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61; 5 corrections / 0 unresolved**.
 
 ## Durable physical/source exceptions
 
@@ -175,10 +176,10 @@ Remaining second-pass scan: **179 pending**. Next exact iteration: **scan 179 �
 ## Remaining scan-status ranges
 
 - scans **1–179** — canonical / verified;
-- second re-audit **119–178 PASS**;
-- second re-audit **scan 179 pending**;
+- second re-audit **119–179 PASS / COMPLETE**;
+- full Tamil source audit **not started / next gate**;
 - no page-level transcription gap remains.
 
 ## Exact next activity
 
-Complete the final second historical-glyph iteration for **scan 179** only. Preserve final narrative `திரும்பினர்கள்.`; lower printed illustration and faint later handwritten marks/numbers are non-body material and must remain excluded from canonical text.
+Begin the **full Tamil source audit** of all 179 canonical records. Reconcile the manifest/page map against page front matter, verified statuses, work/section identity, printed-page values, chapter boundaries, durable continuity decisions, five source corrections, and non-body material handling. Only after this audit passes may the assembled Tamil reading layer begin.

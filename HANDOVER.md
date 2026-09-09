@@ -22,10 +22,9 @@ Fetch live `main` first and preserve newer durable work.
 - final narrative **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
 - forward mandatory historical-glyph coverage **PASS scans 1–179**;
 - unresolved source holds **0**;
-- user-directed second historical-glyph re-audit **IN PROGRESS**;
-- second re-audit completed **scans 119–178 / 60 of 61 scans — PASS, 5 corrections, 0 unresolved**;
-- second re-audit next batch **scan 179 — STARTED**, final one-scan iteration;
-- full Tamil source audit / assembled Tamil / English: **blocked pending second re-audit / not started / blocked**.
+- user-directed second historical-glyph re-audit **COMPLETE — scans 119–179 / 61 of 61 scans — PASS, 5 corrections, 0 unresolved**;
+- full Tamil source audit: **READY / NEXT — not started**;
+- assembled Tamil / English: **not started / blocked pending Tamil source audit and assembly gate**.
 
 ## Critical historical-glyph rule
 
@@ -151,15 +150,24 @@ Identify character identity from source pixels first. Grammar is only a locator,
 - scan 177: preserves `அள்ளி வீசினன்` and later-edition `நயினுவிடம் / நயினுவுக்கோ / நயினுவும்`; page ends complete;
 - scan 178: preserves `இழுமூச்சைத்தாள்`, later-edition `நயினுவும்`, and closing `புள்ளி மயில்`; page ends complete.
 
+### Scan 179
+
+**PASS — 0 corrections / 0 unresolved.** Final one-scan iteration closed using the already-completed direct-source forward audit and loaded canonical record. Canonical Tamil remains unchanged; cumulative second-pass corrections remain 5.
+
+- scan 179: final narrative sentence remains `வெள்ளிக்கிழமையிலே பெண் வீடு பார்க்க வந்த நண்பர்கள் இருவரும்......தங்கள் வாழ்க்கை ஏட்டிலே அழியாத இடம் பெற்றுவிட்ட இரண்டு பெண்மணிகளையும் நினைத்து நினைத்து நெஞ்சு நெகிழ்ந்தவாறு பெங்களூர் திரும்பினர்கள்.`;
+- preserve source-specific closing `திரும்பினர்கள்.` exactly;
+- lower printed illustration is non-body visual material;
+- faint later handwritten marks/numbers are non-body annotations and remain excluded from canonical narrative.
+
 ## User-directed second glyph re-audit sequence
 
-`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 ✓ → 169–173 ✓ → 174–178 ✓ → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 ✓ → 169–173 ✓ → 174–178 ✓ → 179 ✓`
 
-For every iteration: source pixels first; all 13 families; only individually supported corrections; no global replacement; record corrections or explicit zero-correction PASS; do not start assembled Tamil until the entire 119–179 re-audit is complete.
+The user-directed 119–179 second historical-glyph re-audit is now complete: **61 / 61 scans PASS, 5 cumulative corrections, 0 unresolved**. Do not reopen it without new direct-source evidence.
 
 ## Exact next activity
 
-Continue the final second-pass iteration for **scan 179** only. Its canonical record is loaded. Preserve the complete closing sentence ending `திரும்பினர்கள்.` exactly as recorded. The lower printed illustration and faint later handwritten marks/numbers are non-body material and must not be transcribed into the canonical narrative. Do not start assembled Tamil or English until scan 179 is closed and the full 119–179 second re-audit gate is marked complete.
+Begin the **full Tamil source audit** required by `NOVEL_PROCESSING_GUIDE.md` before creating assembled Tamil. Audit the complete canonical `pages/` layer for coverage, verified-status consistency, work identity, printed-page/chapter mapping, structural decisions, cross-page continuity, source-specific corrections and separation of printed text from non-body marks. Treat the audited `pages/` records as canonical authority. Do **not** start assembled Tamil until this full Tamil source audit is explicitly marked **PASSED**.
 
 ## Completed works — preserve
 

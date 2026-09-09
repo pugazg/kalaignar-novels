@@ -15,11 +15,10 @@
 - final narrative: **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–178 PASS / 60 of 61 scans complete**;
-- second re-audit corrections through scan 178: **5**;
-- second re-audit next batch: **scan 179 — STARTED**;
-- second re-audit batch size: **5 scans per iteration**;
-- full Tamil source audit / assembled Tamil / English: **blocked pending second glyph re-audit / not started / blocked**.
+- user-directed second historical-glyph re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61 scans**;
+- second re-audit corrections: **5 total / 0 unresolved**;
+- full Tamil source audit: **READY / NEXT — not started**;
+- assembled Tamil / English: **not started / blocked pending Tamil source audit and assembly gate**.
 
 ## Mandatory historical-glyph rule
 
@@ -155,9 +154,11 @@ Cumulative second-pass corrections: **5**. No unresolved token remains in the cl
 - scan 177: preserves `அள்ளி வீசினன்` and later-edition `நயினுவிடம் / நயினுவுக்கோ / நயினுவும்`;
 - scan 178: preserves `இழுமூச்சைத்தாள்`, `நயினுவும்`, and closing `புள்ளி மயில்`.
 
-### Final iteration — scan 179 — STARTED
+### Final iteration — scan 179
 
-Canonical scan 179 is loaded. Preserve the complete closing sentence ending `திரும்பினர்கள்.`; lower illustration and faint later handwriting are non-body material.
+**PASS — 0 corrections / 0 unresolved.** Final narrative remains unchanged and ends `திரும்பினர்கள்.` exactly as recorded. The lower printed illustration and faint later handwritten marks/numbers remain non-body material.
+
+**Second historical-glyph re-audit final result: COMPLETE — 61 / 61 scans PASS, 5 cumulative corrections, 0 unresolved.**
 
 ## Durable boundaries retained
 
@@ -202,4 +203,4 @@ Older source/boundary decisions remain authoritative in `audit.md` and `indexes/
 
 ## Exact next activity
 
-Continue the final second-pass iteration for **scan 179** only. Preserve the closing `திரும்பினர்கள்.` exactly. Treat the lower printed illustration and faint later handwritten marks/numbers as non-body material. Do not start assembled Tamil or English until scan 179 is closed.
+Begin the **full Tamil source audit** across all 179 canonical page records. Verify page/manifest consistency, all records' statuses and work identity, printed-page and chapter structure, known cross-page joins, source-specific corrections/forms, and separation of printed text from non-body marks. Once this canonical Tamil source layer passes, record **Tamil source layer: PASSED** and only then start assembled Tamil. English remains blocked.
