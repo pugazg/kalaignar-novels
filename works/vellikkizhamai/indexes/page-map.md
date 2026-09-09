@@ -6,10 +6,10 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count: **179**;
 - mapping coverage: **179 / 179 represented by ranges and exceptions below**;
-- canonical page records: **163 / 179**;
-- body transcription: **through scan 163 / printed 162**;
-- historical-glyph coverage: **PASS scans 1–163**;
-- next forward processing: **scans 164–168**, 5 scans per iteration;
+- canonical page records: **168 / 179**;
+- body transcription: **through scan 168 / printed 167**;
+- historical-glyph coverage: **PASS scans 1–168**;
+- next forward processing: **scans 169–173**, 5 scans per iteration;
 - printed-page values are never inferred where the source has not been directly confirmed.
 
 Detailed lexical/glyph evidence remains in each canonical page record and `../audit.md`.
@@ -22,8 +22,8 @@ Detailed lexical/glyph evidence remains in each canonical page record and `../au
 - scan **9** — body page with no visible printed number recorded;
 - scans **10–65** — printed **9–64**;
 - scan **66** — source visibly prints only **`5`**; never infer `65`;
-- scans **67–163** — printed **66–162**;
-- scans **164–175** — pending direct source confirmation;
+- scans **67–168** — printed **66–167**;
+- scans **169–175** — pending direct source confirmation;
 - scan **176** — printed **175**, directly confirmed;
 - scans **177–178** — pending direct source confirmation;
 - scan **179** — printed **178**, final narrative page plus illustration.
@@ -50,7 +50,8 @@ Detailed lexical/glyph evidence remains in each canonical page record and `../au
 - scan 142 — Chapter 18 opening, centered `18`;
 - scan 149 — Chapter 19 opening, centered `19`;
 - scan 154 — Chapter 19 / 20 boundary, centered `20`;
-- scan 160 — Chapter 20 / 21 boundary, centered `21`.
+- scan 160 — Chapter 20 / 21 boundary, centered `21`;
+- scan 166 — Chapter 21 / 22 boundary, centered `22`.
 
 ## Historical-glyph rule
 
@@ -101,31 +102,38 @@ Grammar is only a locator. Character identity comes from source pixels and same-
 - scan 160 — Chapter 20 / 21 boundary, centered `21`;
 - scan 160 / 161 — `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது...`;
 - scan 162 bottom `11—A` — printer/signature mark;
-- scan 163 ends complete quoted accusation `கொலைகாரா!”`.
+- scan 163 ends complete quoted accusation `கொலைகாரா!”`;
+- scan 164 / 165 — `கத்தி` + `னான்.` = `கத்தினான்.`;
+- scan 165 — printed `* * *` divider; ends physical `அதற்குள்`;
+- scan 165 / 166 — `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`;
+- scan 166 — Chapter 21 / 22 boundary, centered `22`;
+- scan 166 / 167 — physical em-dash → direct source `அம்மாவின் பக்கத்திலே...`; no grammatical reconstruction;
+- scan 167 / 168 — `போய்ச் சேர்ந்து` → `விடவேண்டுமென்ற...`;
+- scan 168 — ends complete sentence `அவனைக் கடந்து நடந்துகொண்டிருந்தாள்.`.
 
-## Current canonical end — scans 154–163
+## Current canonical end — scans 159–168
 
 | Scan | Printed | Section | Status | Durable note |
 |---:|---:|---|---|---|
-| 154 | 153 | Chapter 19 / 20 boundary | verified | centered `20`; `சோகடிப்புமானான்` confirmed |
-| 155 | 154 | Chapter 20 | verified | ends `சோலை` |
-| 156 | 155 | Chapter 20 | verified | begins `யில்`; ends `தலையிலும் காயம்` |
-| 157 | 156 | Chapter 20 | verified | begins `நயினா எதிர்த்தே அடிக்கவில்லை.`; ends `பயங்கரமாக—` |
-| 158 | 157 | Chapter 20 | verified | begins `ஆனந்தியிருக்கும்`; ends `வராத` |
 | 159 | 158 | Chapter 20 | verified | begins `கண்ணீர்,`; ends `அழகப்பனுக்கும்` |
-| 160 | 159 | Chapter 20 / 21 boundary | verified | begins `ஒன்றும் புரியவில்லை.`; centered `21`; ends `நமது தூய நட்பு` |
-| 161 | 160 | Chapter 21 | verified | begins `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`; ends complete question-and-attribution |
-| 162 | 161 | Chapter 21 | verified | bottom `11—A` printer/signature mark; ends complete sentence |
-| 163 | 162 | Chapter 21 | verified | ends complete `கொலைகாரா!”` quote |
+| 160 | 159 | Chapter 20 / 21 boundary | verified | centered `21`; ends `நமது தூய நட்பு` |
+| 161 | 160 | Chapter 21 | verified | ends complete question-and-attribution |
+| 162 | 161 | Chapter 21 | verified | bottom `11—A` printer/signature mark |
+| 163 | 162 | Chapter 21 | verified | ends `கொலைகாரா!”` |
+| 164 | 163 | Chapter 21 | verified | ends `கத்தி` |
+| 165 | 164 | Chapter 21 | verified | begins `னான்.`; `* * *` divider; ends `அதற்குள்` |
+| 166 | 165 | Chapter 21 / 22 boundary | verified | centered `22`; ends physical em-dash |
+| 167 | 166 | Chapter 22 | verified | `அகப்பட்டாக`; `பாலகங்காதரத் தேவரின்`; ends `போய்ச் சேர்ந்து` |
+| 168 | 167 | Chapter 22 | verified | begins `விடவேண்டுமென்ற`; ends complete sentence |
 
 ## Remaining scan-status ranges
 
-- scans **1–163** — canonical / verified;
-- scans **164–175** — not started;
+- scans **1–168** — canonical / verified;
+- scans **169–175** — not started;
 - scan **176** — not started; printed 175 directly confirmed;
 - scans **177–178** — not started;
 - scan **179** — not started; printed 178, final page.
 
 ## Exact next activity
 
-Process **scans 164–168** as the next bounded 5-scan iteration. Establish scan 164 only from direct source evidence after scan 163's complete `கொலைகாரா!”` ending. Do not start assembled Tamil or English.
+Process **scans 169–173** as the next bounded 5-scan iteration. Establish scan 169 only from direct source evidence after scan 168's complete ending. Do not start assembled Tamil or English.
