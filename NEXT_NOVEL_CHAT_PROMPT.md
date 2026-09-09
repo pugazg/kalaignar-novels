@@ -8,13 +8,14 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 ## Current durable state
 
-- canonical records: **168 / 179**;
+- canonical records: **173 / 179**;
 - Chapter 20 opens: **scan 154 / printed 153**, centered `20`;
 - Chapter 21 opens: **scan 160 / printed 159**, centered `21`;
 - Chapter 22 opens: **scan 166 / printed 165**, centered `22`;
-- Chapter 22 transcribed through **scan 168 / printed 167**;
-- historical-glyph coverage: **PASS scans 1–168**;
-- next iteration: **scans 169–173**;
+- Chapter 23 opens: **scan 172 / printed 171**, centered `23`;
+- Chapter 23 transcribed through **scan 173 / printed 172**;
+- historical-glyph coverage: **PASS scans 1–173**;
+- next iteration: **scans 174–178**;
 - batch size: **5 scans**;
 - assembled Tamil / English: **not started / blocked**.
 
@@ -34,18 +35,17 @@ Check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / �
 
 ## Recent source boundaries to preserve
 
-- scan 164 / 165: `கத்தி` + `னான்.` = `கத்தினான்.`;
-- scan 165 contains printed `* * *` divider and ends physical `அதற்குள்`;
-- scan 165 / 166: `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`;
-- scan 166: Chapter 21 / 22 boundary, centered `22`;
-- scan 166 / 167: physical em-dash → direct source `அம்மாவின் பக்கத்திலே...`; no grammatical reconstruction;
-- scan 167 / 168: `போய்ச் சேர்ந்து` → `விடவேண்டுமென்ற...`;
-- scan 168 ends complete `அவனைக் கடந்து நடந்துகொண்டிருந்தாள்.`; establish scan 169 only from direct source.
+- scan 169 / 170: `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`;
+- scan 170 / 171: `“எஜமான்!....இடும்பன்...”` → `என்றான்.`;
+- scan 171 / 172: `வம்புச் சண்டையெல்லாம்` + `நடந்தது.` = `வம்புச் சண்டையெல்லாம் நடந்தது.`;
+- scan 172: Chapter 22 / 23 boundary, centered `23`;
+- scan 172 ends complete; scan 173 begins a new source sentence;
+- scan 173 ends physical `அவள் நெஞ்சிலே`; establish scan 174 only from direct source.
 
 ## Source-specific recent forms
 
-Preserve confirmed source forms such as `எந்தசம்பந்தமுமில்லை`, `கன ரக`, `‘பூட்ஸ்’கள்`, `‘திபு திபு’`, `அடையாளங்`, `கிழத் தாயார்`, `தியாகம்செய்யத்`, `கொலைத்துவிட்டான்`, `திகைப்பிலாழ்ந்த`, `அதிகப்படுத்திற்று`, `அபின்`, `விபச்சாரிப் பட்டத்தோடு`, `மனக்கோட்டை யெல்லாம்`, `மண் கோட்டைக்குள்ளே`, `அகப்பட்டாக`, `பாலகங்காதரத் தேவரின்`, `ஐந்துமைல்`, `வழக்குபற்றி`, `அழகப்பனைப்பற்றியும்`, `இடங்கொடுக்கமாட்டார்களா`, `வெகுவிரைவில்`, `சவச்சடங்குகளைச்`, `சேதியாக`, `மானம் போனதேயென்று`, `குடும்பந்தான்`, `மூன்றுமைல்`, and `நிதானமாயில்லை`.
+Preserve confirmed source forms such as `பொம்பளை`, `வளவுகளிலே`, `இடும்பனு`, `வேணும்`, `பார்க்கணுமா`, `இந்தஹாலில்`, `நாசிக்குத்தானே`, `சரக் சரக்`, `திகை சூழ்ந்தது`, `ஏமாற்றியிருக்கிறான்போலிருக்கிறது`, `தோற்றந்தான்`, `நீங்கள்தானு`, `கனைத்துக்கொண்டார்`, direct scan-171 `நயினு முகம்மது`, `முடிச்சுட்டேன்`, `பார்க்கலியே`, `இல்லீங்க`, `முழிச்சிகிட்டு`, `பண்ணினானுங்க`, `வம்புச் சண்டையெல்லாம்`, `விழுந்தா`, `போட்டுட்டு`, `இன்னேரம்`, `அவ தீர்ந்திருப்பா`, `கோட்டைக்குள்`, `குழி தோண்டினான்`, `மொந்தை`, `போயி`, `அங்கு தான்`, `ஒளிந்திருந்தாவது`, `மனப் போராட்டத்திற்கு`, `நாதியற்ற`, `நாலைந்து`, `சுமந்துவந்து கொண்டிருந்ததைச்`, and `சுடலைக்கு`.
 
 ## Exact next activity
 
-Process **scans 169–173** in one bounded 5-page iteration. Do not start assembled Tamil or English.
+Process **scans 174–178** in one bounded 5-page iteration. Do not start assembled Tamil or English.

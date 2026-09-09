@@ -6,12 +6,12 @@
 |---|---|
 | Source identity / checksum / page count | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **168 / 179** |
-| Body transcription | **through scan 168 / printed 167** |
-| Printed-page map | **directly confirmed through scan 168; scan 66 visibly prints only `5`** |
-| Chapter map | **direct through Chapter 22; Chapter 22 opens at scan 166** |
-| Historical-glyph coverage | **PASS scans 1–168** |
-| Forward transcription | **next 5-scan iteration 169–173** |
+| Canonical page records | **173 / 179** |
+| Body transcription | **through scan 173 / printed 172** |
+| Printed-page map | **directly confirmed through scan 173; scan 66 visibly prints only `5`** |
+| Chapter map | **direct through Chapter 23; Chapter 23 opens at scan 172** |
+| Historical-glyph coverage | **PASS scans 1–173** |
+| Forward transcription | **next 5-scan iteration 174–178** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -22,7 +22,7 @@ Mandatory family set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Character identity is decided from source pixels first; grammar is only a locator. Never global-replace or silently modernize source wording. The expanded corrective re-audit remains controlling; independently source-confirmed forms such as recurring `நயினா` remain untouched.
+Character identity is decided from source pixels first; grammar is only a locator. Never global-replace or silently modernize source wording. The expanded corrective re-audit remains controlling. Recurring `நயினா` remains a controlling same-edition form, but a later scan is preserved exactly when direct source pixels visibly print a different colloquial form, as scan 171 does with `நயினு`.
 
 ## Coverage
 
@@ -30,27 +30,27 @@ Character identity is decided from source pixels first; grammar is only a locato
 - scans **102–111**: corrective audit;
 - scans **112–118**: forward audit;
 - expanded corrective re-audit repaired old-type `னா` / `றா` misses across the existing corpus;
-- scans **119–168**: forward source-pixel audit with the mandatory 13-family set;
-- current canonical scans **1–168 are PASS**.
+- scans **119–173**: forward source-pixel audit with the mandatory 13-family set;
+- current canonical scans **1–173 are PASS**.
 
 ## Latest verified batch
 
-### Scan 164 / printed 163
-**VERIFIED / PASS.** Direct source follows scan 163's complete quoted ending. Preserve `எந்தசம்பந்தமுமில்லை`, `கன ரக`, `‘பூட்ஸ்’கள்`, `‘திபு திபு’`, `பிரவேசித்தனர்`, and `அடையாளங்`. The page ends physical `கத்தி`.
+### Scan 169 / printed 168
+**VERIFIED / PASS.** Establishes a new source sentence after scan 168's complete ending. Preserve `பொம்பளை`, `வளவுகளிலே`, `இடும்பனு`, `வேணும்`, `பார்க்கணுமா`, `இந்தஹாலில்`, and `சரக் சரக்`. One targeted enlargement resolves direct source `நாசிக்குத்தானே`. Ends physical `ஒலி வந்த திக்கையே நோக்கியவாறு`.
 
-### Scan 165 / printed 164
-**VERIFIED / PASS.** Begins physical `னான்.`, completing `கத்தினான்.`. Preserve `கிழத் தாயார்`, `தியாகம்செய்யத்`, `கொலைத்துவிட்டான்`, `திகைப்பிலாழ்ந்த`, and the source's `மருத்துவமனை` / `மருத்துவ மனை` spacing variation. Printed `* * *` divider retained. Ends physical `அதற்குள்`.
+### Scan 170 / printed 169
+**VERIFIED / PASS.** Begins `அவள் எழுந்துநின்றாள்,`, continuing scan 169. Preserve `திகை சூழ்ந்தது`, `ஏமாற்றியிருக்கிறான்போலிருக்கிறது`, `தோற்றந்தான்`, and `நீங்கள்தானு`. Targeted source enlargement confirms mandatory-family old-type `னை` in source-specific `கனைத்துக்கொண்டார்`. Ends physical `“எஜமான்!....இடும்பன்...”`.
 
-### Scan 166 / printed 165
-**VERIFIED / PASS. Chapter 21 / 22 boundary.** Begins direct continuation `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`; centered `22` opens Chapter 22. Preserve `அதிகப்படுத்திற்று`, `அபின்`, `விபச்சாரிப் பட்டத்தோடு`, `மனக்கோட்டை யெல்லாம்`, and `மண் கோட்டைக்குள்ளே`. Ends physical em-dash after `என்று பரிதாபம் காட்டுவர்—`.
+### Scan 171 / printed 170
+**VERIFIED / PASS.** Begins `என்றான்.`, completing scan 170's physical speech. Preserve source colloquialisms `முடிச்சுட்டேன்`, `பார்க்கலியே`, `இல்லீங்க`, `முழிச்சிகிட்டு`, `பண்ணினானுங்க`; direct pixels visibly print `நயினு முகம்மது`, which is not normalized to recurring `நயினா`. Ends physical `வம்புச் சண்டையெல்லாம்`.
 
-### Scan 167 / printed 166
-**VERIFIED / PASS.** Begins direct source after the preceding physical em-dash. Targeted source review confirms source-specific `அகப்பட்டாக` and the name `பாலகங்காதரத் தேவரின்`. Preserve `ஐந்துமைல்`, `வழக்குபற்றி`, `அழகப்பனைப்பற்றியும்`, `இடங்கொடுக்கமாட்டார்களா`, and `வெகுவிரைவில்`. Ends physical `போய்ச் சேர்ந்து`.
+### Scan 172 / printed 171
+**VERIFIED / PASS. Chapter 22 / 23 boundary.** Begins `நடந்தது.`, completing scan 171. Preserve `விழுந்தா`, `போட்டுட்டு`, `இன்னேரம்`, `அவ தீர்ந்திருப்பா`, direct source `கோட்டைக்குள்`, `குழி தோண்டினான்`, `மொந்தை`, and `போயி`. Centered `23` opens Chapter 23. Preserve the literal fragment `அவள் அந்தப் பகுதியைவிட்டு வெளியேறுவதற்கு!`; no grammatical reconstruction. Ends a complete sentence.
 
-### Scan 168 / printed 167
-**VERIFIED / PASS.** Begins `விடவேண்டுமென்ற`, directly continuing scan 167. Preserve `சவச்சடங்குகளைச்`, source-specific `சேதியாக`, `மானம் போனதேயென்று`, `குடும்பந்தான்`, `ஐந்துமைல்`, `மூன்றுமைல்`, and `நிதானமாயில்லை`. Ends complete `அவனைக் கடந்து நடந்துகொண்டிருந்தாள்.`
+### Scan 173 / printed 172
+**VERIFIED / PASS.** Preserve `அங்கு தான்`, `ஒளிந்திருந்தாவது`, `மனப் போராட்டத்திற்கு`, `நாதியற்ற`, `நாலைந்து`, `சுமந்துவந்து கொண்டிருந்ததைச்`, and `சுடலைக்கு`. Direct source visibly supplies no punctuation between the first `சிந்தாமணி` and `ஒரு நாலைந்து பேர்`; no punctuation was inserted. Ends physical `அவள் நெஞ்சிலே`.
 
-No unresolved source holds remain in scans 164–168.
+No unresolved source holds remain in scans 169–173.
 
 ## Structural/source decisions to preserve
 
@@ -119,8 +119,14 @@ No unresolved source holds remain in scans 164–168.
 - scan 166 Chapter 21 / 22 boundary, centered `22`;
 - scan 166 / 167 physical em-dash → direct source `அம்மாவின் பக்கத்திலே...`; no grammatical reconstruction;
 - scan 167 / 168 `போய்ச் சேர்ந்து` → `விடவேண்டுமென்ற...`;
-- scan 168 ends complete sentence `அவனைக் கடந்து நடந்துகொண்டிருந்தாள்.`.
+- scan 168 ends complete sentence `அவனைக் கடந்து நடந்துகொண்டிருந்தாள்.`;
+- scan 169 / 170 `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`;
+- scan 170 / 171 `“எஜமான்!....இடும்பன்...”` → `என்றான்.`;
+- scan 171 / 172 `வம்புச் சண்டையெல்லாம்` + `நடந்தது.` = `வம்புச் சண்டையெல்லாம் நடந்தது.`;
+- scan 172 Chapter 22 / 23 boundary, centered `23`;
+- scan 172 ends complete sentence; scan 173 begins a new source sentence;
+- scan 173 ends physical `அவள் நெஞ்சிலே`.
 
 ## Exact next activity
 
-Process **scans 169–173** using the bounded production workflow: transcribe all five pages first, run one mandatory 13-family batch sweep, allow at most one targeted enlargement per genuinely unclear token, and record a source hold if still unresolved. Establish scan 169 only from direct source after scan 168's complete ending. Do not start assembled Tamil or English.
+Process **scans 174–178** using the bounded production workflow: transcribe all five pages first, run one mandatory 13-family batch sweep, allow at most one targeted enlargement per genuinely unclear token, and record a source hold if still unresolved. Establish scan 174 only from direct source after scan 173's physical `அவள் நெஞ்சிலே` ending. Do not start assembled Tamil or English.

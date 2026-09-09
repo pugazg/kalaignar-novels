@@ -6,10 +6,10 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count: **179**;
 - mapping coverage: **179 / 179 represented by ranges and exceptions below**;
-- canonical page records: **168 / 179**;
-- body transcription: **through scan 168 / printed 167**;
-- historical-glyph coverage: **PASS scans 1–168**;
-- next forward processing: **scans 169–173**, 5 scans per iteration;
+- canonical page records: **173 / 179**;
+- body transcription: **through scan 173 / printed 172**;
+- historical-glyph coverage: **PASS scans 1–173**;
+- next forward processing: **scans 174–178**, 5 scans per iteration;
 - printed-page values are never inferred where the source has not been directly confirmed.
 
 Detailed lexical/glyph evidence remains in each canonical page record and `../audit.md`.
@@ -22,8 +22,8 @@ Detailed lexical/glyph evidence remains in each canonical page record and `../au
 - scan **9** — body page with no visible printed number recorded;
 - scans **10–65** — printed **9–64**;
 - scan **66** — source visibly prints only **`5`**; never infer `65`;
-- scans **67–168** — printed **66–167**;
-- scans **169–175** — pending direct source confirmation;
+- scans **67–173** — printed **66–172**;
+- scans **174–175** — pending direct source confirmation;
 - scan **176** — printed **175**, directly confirmed;
 - scans **177–178** — pending direct source confirmation;
 - scan **179** — printed **178**, final narrative page plus illustration.
@@ -51,7 +51,8 @@ Detailed lexical/glyph evidence remains in each canonical page record and `../au
 - scan 149 — Chapter 19 opening, centered `19`;
 - scan 154 — Chapter 19 / 20 boundary, centered `20`;
 - scan 160 — Chapter 20 / 21 boundary, centered `21`;
-- scan 166 — Chapter 21 / 22 boundary, centered `22`.
+- scan 166 — Chapter 21 / 22 boundary, centered `22`;
+- scan 172 — Chapter 22 / 23 boundary, centered `23`.
 
 ## Historical-glyph rule
 
@@ -59,7 +60,7 @@ Mandatory source-pixel set on every scan:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Grammar is only a locator. Character identity comes from source pixels and same-edition comparison. Never global-replace or normalize source wording. Recurring **`நயினா`** remains a controlling same-edition form.
+Grammar is only a locator. Character identity comes from source pixels and same-edition comparison. Never global-replace or normalize source wording. Recurring **`நயினா`** remains a controlling same-edition form except where a later scan directly and visibly prints a different form.
 
 ## Durable physical/source exceptions
 
@@ -109,31 +110,37 @@ Grammar is only a locator. Character identity comes from source pixels and same-
 - scan 166 — Chapter 21 / 22 boundary, centered `22`;
 - scan 166 / 167 — physical em-dash → direct source `அம்மாவின் பக்கத்திலே...`; no grammatical reconstruction;
 - scan 167 / 168 — `போய்ச் சேர்ந்து` → `விடவேண்டுமென்ற...`;
-- scan 168 — ends complete sentence `அவனைக் கடந்து நடந்துகொண்டிருந்தாள்.`.
+- scan 168 — ends complete sentence `அவனைக் கடந்து நடந்துகொண்டிருந்தாள்.`;
+- scan 169 / 170 — `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`;
+- scan 170 / 171 — `“எஜமான்!....இடும்பன்...”` → `என்றான்.`;
+- scan 171 / 172 — `வம்புச் சண்டையெல்லாம்` + `நடந்தது.` = `வம்புச் சண்டையெல்லாம் நடந்தது.`;
+- scan 172 — Chapter 22 / 23 boundary, centered `23`;
+- scan 172 — ends complete sentence; scan 173 begins a new source sentence;
+- scan 173 — ends physical `அவள் நெஞ்சிலே`.
 
-## Current canonical end — scans 159–168
+## Current canonical end — scans 164–173
 
 | Scan | Printed | Section | Status | Durable note |
 |---:|---:|---|---|---|
-| 159 | 158 | Chapter 20 | verified | begins `கண்ணீர்,`; ends `அழகப்பனுக்கும்` |
-| 160 | 159 | Chapter 20 / 21 boundary | verified | centered `21`; ends `நமது தூய நட்பு` |
-| 161 | 160 | Chapter 21 | verified | ends complete question-and-attribution |
-| 162 | 161 | Chapter 21 | verified | bottom `11—A` printer/signature mark |
-| 163 | 162 | Chapter 21 | verified | ends `கொலைகாரா!”` |
 | 164 | 163 | Chapter 21 | verified | ends `கத்தி` |
 | 165 | 164 | Chapter 21 | verified | begins `னான்.`; `* * *` divider; ends `அதற்குள்` |
 | 166 | 165 | Chapter 21 / 22 boundary | verified | centered `22`; ends physical em-dash |
 | 167 | 166 | Chapter 22 | verified | `அகப்பட்டாக`; `பாலகங்காதரத் தேவரின்`; ends `போய்ச் சேர்ந்து` |
 | 168 | 167 | Chapter 22 | verified | begins `விடவேண்டுமென்ற`; ends complete sentence |
+| 169 | 168 | Chapter 22 | verified | `நாசிக்குத்தானே`; ends `ஒலி வந்த திக்கையே நோக்கியவாறு` |
+| 170 | 169 | Chapter 22 | verified | `கனைத்துக்கொண்டார்`; ends `“எஜமான்!....இடும்பன்...”` |
+| 171 | 170 | Chapter 22 | verified | direct `நயினு முகம்மது`; ends `வம்புச் சண்டையெல்லாம்` |
+| 172 | 171 | Chapter 22 / 23 boundary | verified | begins `நடந்தது.`; centered `23`; ends complete sentence |
+| 173 | 172 | Chapter 23 | verified | no punctuation at first `சிந்தாமணி` / `ஒரு நாலைந்து`; ends `அவள் நெஞ்சிலே` |
 
 ## Remaining scan-status ranges
 
-- scans **1–168** — canonical / verified;
-- scans **169–175** — not started;
+- scans **1–173** — canonical / verified;
+- scans **174–175** — not started;
 - scan **176** — not started; printed 175 directly confirmed;
 - scans **177–178** — not started;
 - scan **179** — not started; printed 178, final page.
 
 ## Exact next activity
 
-Process **scans 169–173** as the next bounded 5-scan iteration. Establish scan 169 only from direct source evidence after scan 168's complete ending. Do not start assembled Tamil or English.
+Process **scans 174–178** as the next bounded 5-scan iteration. Establish scan 174 only from direct source evidence after scan 173's physical `அவள் நெஞ்சிலே` ending. Do not start assembled Tamil or English.
