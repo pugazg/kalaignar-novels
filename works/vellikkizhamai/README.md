@@ -19,7 +19,7 @@
 - second re-audit corrections: **5 total / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **IN PROGRESS — Chapter 1 / 23 VERIFIED; scans 4–12 assembled**;
+- assembled Tamil: **IN PROGRESS — Chapters 1–2 / 23 VERIFIED; scans 4–22 assembled**;
 - English: **blocked until assembled Tamil passes its own consistency gate**.
 
 ## Mandatory historical-glyph rule
@@ -211,12 +211,17 @@ Older source/boundary decisions remain authoritative in `audit.md` and `indexes/
 
 - assembly directory: `sections/`;
 - `01-chapter-01.md` — **VERIFIED**, scans **4–12**;
-- current assembled chapter coverage: **1 / 23**;
+- `02-chapter-02.md` — **VERIFIED**, scans **13–22**;
+- current assembled chapter coverage: **2 / 23**;
 - canonical `pages/` unchanged;
 - whole assembled layer remains **IN PROGRESS**.
 
-Chapter 1 preserves page provenance and uses only verified joins: scan 4→5 (`ஏதோ` → `இன்பக்கனவுகளோ`), scan 5→6 (`அவைகளே` → `கேலிக்குரியதாக`), scan 8→9 (`கிழக்கு வானம் வெளுக்கத்` → `துவங்கிவிட்டது.`), and scan 10→11 (`இருந்தாள்—` → quoted continuation). Tiruppavai verse layout is preserved as source text.
+Chapter 1 preserves page provenance and only verified joins: scan 4→5 (`ஏதோ` → `இன்பக்கனவுகளோ`), scan 5→6 (`அவைகளே` → `கேலிக்குரியதாக`), scan 8→9 (`கிழக்கு வானம் வெளுக்கத்` → `துவங்கிவிட்டது.`), and scan 10→11 (`இருந்தாள்—` → quoted continuation). Tiruppavai verse layout is preserved as source text.
+
+Chapter 2 preserves source wording and page provenance. Verified continuities are scan 14→15 (`அதிலே` → `வரும் அர்ச்சுனன்`), scan 16→17 (`எண்ணும்` → `போது—`), scan 17→18 dialogue reply after `“சுசீலா! நீ?”`, and scan 21→22 dialogue reply after `“லேடி டாக்டர் வந்தாச்சுல்லே?”`.
+
+Assembly boundary rule: if one physical scan contains the end of one chapter and a source-printed centered heading for the next, split the reading sections at that heading; do not mechanically assign the entire scan to either chapter.
 
 ## Exact next activity
 
-Assemble **Chapter 2 only — scans 13–22** into `sections/02-chapter-02.md`; verify provenance and canonical fidelity, then advance assembly progress to **2 / 23**. English remains blocked.
+Assemble **Chapter 3 only — scan 23 through scan 33 before centered `4`** into `sections/03-chapter-03.md`. Split scan 33 at the centered Chapter 4 heading and leave its post-heading text for the next iteration. Verify provenance and canonical fidelity, then advance assembly progress to **3 / 23**. English remains blocked.

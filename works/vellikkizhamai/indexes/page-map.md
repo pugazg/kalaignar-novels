@@ -12,7 +12,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - user-directed second glyph re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61; 5 corrections / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **IN PROGRESS — Chapter 1 / 23 VERIFIED; scans 4–12 assembled**;
+- assembled Tamil: **IN PROGRESS — Chapters 1–2 / 23 VERIFIED; scans 4–22 assembled**;
 - printed-page values are source-confirmed, not inferred.
 
 ## Printed-page mapping
@@ -56,7 +56,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 **PASSED.** The live page tree is continuous `0001`–`0179` with 179 canonical records. Printed-page mapping and Chapters 1–23 remain source-confirmed; second historical-glyph re-audit is 61/61 PASS with 5 corrections and 0 unresolved. Durable cross-page joins and printer/signature/non-body decisions remain unchanged. `metadata/source.md` was synchronized from an obsolete 111-page progress snapshot to the completed state. No canonical page text changed during the full source audit.
 
-Assembled layer: **IN PROGRESS — Chapter 1 / 23 VERIFIED; scans 4–12**.
+Next layer: **assembled Tamil reading layer — READY / NEXT**.
 
 ## Historical-glyph rule
 
@@ -186,19 +186,41 @@ Second re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61; 5 corrections /
 - scans **1–179** — canonical / verified;
 - second re-audit **119–179 PASS / COMPLETE**;
 - full Tamil source audit **PASSED**;
-- assembled Tamil reading layer **IN PROGRESS — Chapter 1 / 23 VERIFIED; scans 4–12**;
+- assembled Tamil reading layer **IN PROGRESS — Chapters 1–2 / 23 VERIFIED; scans 4–22**;
 - no page-level transcription gap remains.
 
 ## Assembled Tamil chapter coverage
 
-| Chapter | Source scans | Assembly status |
-|---:|---:|---|
-| 1 | 4–12 | **VERIFIED** |
-| 2 | 13–22 | **NEXT** |
-| 3–23 | 23–179 | pending |
+| Chapter | Source coverage | Assembly status |
+|---:|---|---|
+| 1 | scans 4–12 | **VERIFIED** |
+| 2 | scans 13–22 | **VERIFIED** |
+| 3 | scan 23 → scan 33 before centered `4` | **NEXT** |
+| 4 | scan 33 after centered `4` → scan 45 before centered `5` | pending |
+| 5 | scan 45 after centered `5` → scan 51 | pending |
+| 6 | scan 52 → scan 59 before centered `7` | pending |
+| 7 | scan 59 after centered `7` → scan 68 before centered `8` | pending |
+| 8 | scan 68 after centered `8` → scan 75 before centered `9` | pending |
+| 9 | scan 75 after centered `9` → scan 85 before centered `10` | pending |
+| 10 | scan 85 after centered `10` → scan 92 before centered `11` | pending |
+| 11 | scan 92 after centered `11` → scan 99 before centered `12` | pending |
+| 12 | scan 99 after centered `12` → scan 107 before centered `13` | pending |
+| 13 | scan 107 after centered `13` → scan 115 before centered `14` | pending |
+| 14 | scan 115 after centered `14` → scan 120 before centered `15` | pending |
+| 15 | scan 120 after centered `15` → scan 127 before centered `16` | pending |
+| 16 | scan 127 after centered `16` → scan 134 before centered `17` | pending |
+| 17 | scan 134 after centered `17` → scan 142 before centered `18` | pending |
+| 18 | scan 142 after centered `18` → scan 149 before centered `19` | pending |
+| 19 | scan 149 after centered `19` → scan 154 before centered `20` | pending |
+| 20 | scan 154 after centered `20` → scan 160 before centered `21` | pending |
+| 21 | scan 160 after centered `21` → scan 166 before centered `22` | pending |
+| 22 | scan 166 after centered `22` → scan 172 before centered `23` | pending |
+| 23 | scan 172 after centered `23` → scan 179 | pending |
 
-`sections/01-chapter-01.md` retains reversible provenance and only verified page-boundary joins. Canonical `pages/` remain authoritative and unchanged.
+`sections/01-chapter-01.md` and `sections/02-chapter-02.md` retain reversible provenance and only verified page-boundary continuities. Canonical `pages/` remain authoritative and unchanged.
+
+Mixed boundary scans are split inside the scan at the source-printed centered chapter heading (for example scan 33 contains the Chapter 3→4 boundary, and scan 154 contains the Chapter 19→20 boundary).
 
 ## Exact next activity
 
-Assemble **Chapter 2 only — scans 13–22** into `sections/02-chapter-02.md`, verify against canonical records, then advance assembly coverage to **2 / 23**. English remains blocked.
+Assemble **Chapter 3 only — scan 23 through scan 33 before centered `4`** into `sections/03-chapter-03.md`; split scan 33 at the centered heading and leave its post-heading text for Chapter 4. Verify against canonical records, then advance assembly coverage to **3 / 23**. English remains blocked.

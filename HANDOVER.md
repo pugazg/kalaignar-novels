@@ -25,7 +25,7 @@ Fetch live `main` first and preserve newer durable work.
 - user-directed second historical-glyph re-audit **COMPLETE — scans 119–179 / 61 of 61 scans — PASS, 5 corrections, 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **IN PROGRESS — Chapter 1 / 23 VERIFIED; scans 4–12 assembled**;
+- assembled Tamil: **IN PROGRESS — Chapters 1–2 / 23 VERIFIED; scans 4–22 assembled**;
 - English: **blocked until assembled Tamil passes its own consistency gate**.
 
 ## Critical historical-glyph rule
@@ -173,15 +173,17 @@ The user-directed 119–179 second historical-glyph re-audit is now complete: **
 
 ## Assembled Tamil reading layer — progress
 
-- `sections/README.md` created with the 23-chapter map and authority rules.
+- `sections/README.md` carries the source-faithful 23-chapter map and authority rules.
 - `sections/01-chapter-01.md` — **VERIFIED**, source scans **4–12**, Chapter 1.
-- Chapter 1 is derived only from audited canonical page records; source spelling, punctuation, Tiruppavai verse layout and paragraph structure are preserved.
-- Verified cross-page continuities assembled with reversible inline provenance, including scan 4 `ஏதோ` → scan 5 `இன்பக்கனவுகளோ`, scan 5 `அவைகளே` → scan 6 `கேலிக்குரியதாக`, scan 8 `கிழக்கு வானம் வெளுக்கத்` → scan 9 `துவங்கிவிட்டது.`, and scan 10 `இருந்தாள்—` → scan 11 quoted continuation.
+- `sections/02-chapter-02.md` — **VERIFIED**, source scans **13–22**, Chapter 2.
+- Chapter 1 preserves source spelling, punctuation, Tiruppavai verse layout, paragraph structure and only verified joins.
+- Chapter 2 is derived only from audited canonical page records. Verified continuities include scan 14 `அதிலே` → scan 15 `வரும் அர்ச்சுனன்`, scan 16 `எண்ணும்` → scan 17 `போது—`, plus the dialogue continuities scan 17→18 and scan 21→22.
 - Canonical `pages/` files remain unchanged. Whole assembled layer is **not yet PASSED**.
+- Mixed chapter-boundary scans must be split at the source-printed centered chapter heading; never assign a whole boundary scan mechanically to one chapter.
 
 ## Exact next activity
 
-Assemble and verify **Chapter 2 only — scans 13–22** into `works/vellikkizhamai/sections/02-chapter-02.md`, using the same source-faithful provenance convention. Do not start Chapter 3 or English in the same iteration. After Chapter 2 passes, update assembly progress to **2 / 23**.
+Assemble and verify **Chapter 3 only — scan 23 through scan 33 before centered `4`** into `works/vellikkizhamai/sections/03-chapter-03.md`. Split scan 33 exactly at the source-printed centered Chapter 4 heading; its pre-heading text belongs to Chapter 3 and its post-heading text belongs to Chapter 4. Do not start Chapter 4 or English in the same iteration. After Chapter 3 passes, update assembly progress to **3 / 23**.
 
 ## Completed works — preserve
 
