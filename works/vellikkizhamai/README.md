@@ -15,9 +15,9 @@
 - final narrative: **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–138 PASS / 20 of 61 scans complete**;
-- second re-audit corrections through scan 138: **0**;
-- second re-audit next batch: **scans 139–143**;
+- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–143 PASS / 25 of 61 scans complete**;
+- second re-audit corrections through scan 143: **0**;
+- second re-audit next batch: **scans 144–148**;
 - second re-audit batch size: **5 scans per iteration**;
 - full Tamil source audit / assembled Tamil / English: **blocked pending second glyph re-audit / not started / blocked**.
 
@@ -69,6 +69,18 @@ No genuinely unclear token required a targeted enlargement.
 
 No canonical Tamil text changed in scans 119–138 during the second re-audit.
 
+### Batch 5 — scans 139–143
+
+All five scans were independently re-read from the controlling source after canonical completion. **Result: PASS — 0 corrections / 0 unresolved.**
+
+- **139 / printed 138:** PASS; begins `வென்று`, continuing scan 138 final `‘மளமள’`; reconfirmed `போய்விட்டாள்`, `உட்கார்ந்திருந்தாள்`, `கேட்டுக்கொண்டாள்`, `எண்ணினான்`, `கூறுகிறாயா`, `நினைப்பதைத்தான்`; physical end `புயலால் தாக்குண்டவன்போல` retained.
+- **140 / printed 139:** PASS; begins `ஆனேன் அன்று!`; reconfirmed `வழங்கினை`, `நானும்`, `நானே`, `நானுந்தான்`, `நின்றாள்`, `தழுவினான்`, `சென்றாள்`, `நயினா`; physical end `நயினா` retained.
+- **141 / printed 140:** PASS; begins `எதுவும் பேசவில்லை.`; reconfirmed `கேட்டான்`, `சாப்பிட்டுவிட்டேன்`, `கூப்பிட்டான்`, `வந்தாள்`, `கொடுத்தான்`, `ஏங்கினாள்`, `செய்துகொண்டாராம்`, `நின்றுவிட்டார்கள்`.
+- **142 / printed 141:** PASS; centered `18` opens Chapter 18; reconfirmed `விபச்சாரியானாள்`, `கைகாரியானாள்`, `உயிரோடிருந்தால்`, `நானே`, `நிரூபிக்கப்பட்டால்`, `நல்லவள்`; physical end `வாசகங்கள்` retained.
+- **143 / printed 142:** PASS; begins `இருந்தன.`; reconfirmed `திரும்பினார்கள்`, `சென்றாள்`, `நடந்துகொண்டதும்`, `விட்டுக்கொண்டான்`, `இருக்கிறதென்று`, `இருந்திருக்கக்கூடும்`, `தவித்தான்`.
+
+No canonical Tamil text changed in scans 139–143 during the second re-audit.
+
 ## Durable boundaries retained
 
 - scan 119 / 120: `கவனித்து` → `விட்டான்.`;
@@ -98,4 +110,4 @@ Older source/boundary decisions remain authoritative in `audit.md` and `indexes/
 
 ## Exact next activity
 
-Perform the second historical-Tamil-glyph re-audit for **scans 139–143** only. Preserve scan 138 / 139 `‘மளமள’` → `வென்று...`, scan 139 / 140 `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`, scan 140 / 141 `நயினா` → `எதுவும் பேசவில்லை.`, scan 142 centered `18`, and scan 142 / 143 `வாசகங்கள்` → `இருந்தன`. Do not start assembled Tamil or English.
+Perform the second historical-Tamil-glyph re-audit for **scans 144–148** only. Preserve scan 144 / 145 `வரவழைத்துக்` + `கொண்டான்`, scan 146 bottom standalone `10` as a printer/signature mark, scan 146 / 147 `கூறியதுதான்` + `தாமதம்;`, and scan 147 / 148 `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`. Do not start assembled Tamil or English.
