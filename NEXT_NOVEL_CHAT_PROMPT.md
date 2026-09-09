@@ -12,8 +12,8 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - final narrative: **scan 179 / printed 178**;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- second historical-glyph re-audit: **IN PROGRESS — scans 119–168 PASS / 50 of 61 complete**;
-- second-pass corrections through scan 168: **5**;
+- second historical-glyph re-audit: **IN PROGRESS — scans 119–173 PASS / 55 of 61 complete**;
+- second-pass corrections through scan 173: **5**;
 - assembled Tamil / English: **not started / blocked**.
 
 ## Controlling phase — second historical-Tamil-glyph re-audit
@@ -22,7 +22,7 @@ The user explicitly requested one more independent glyph audit from **scan 119 t
 
 Sequence:
 
-`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 ✓ → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 ✓ → 169–173 ✓ → 174–178 → 179`
 
 Mandatory families on every scan:
 
@@ -51,17 +51,17 @@ Rules:
 - **154–158:** PASS — 0 corrections / 0 unresolved. Preserve centered `20` on scan 154, `சோலை` + `யில்`, literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.` without reconstruction, `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`, and `வராத` + `கண்ணீர்,`.
 - **159–163:** PASS — 1 correction / 0 unresolved. Closed on the user's explicit instruction using the existing direct-source forward audit plus the user's direct-source correction on scan 163. Corrected `ஆனந்தியின் மேனித்தின்மீது` → `ஆனந்தியின் பிணத்தின் மீது`. Preserve `வராத` + `கண்ணீர்,`, `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`, centered `21`, `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`, and scan 162 bottom `11—A`.
 - **164–168:** PASS — 3 corrections / 0 unresolved. User direct-source corrections: scan 164 `நயினாவில்` → `நயினாவால்`; scan 164 `“என் சார்?”` → `“ஏன் சார்?”`; scan 165 `அவனது சவம்` → `அவளது சவம்`. Preserve `கத்தி` + `னான்.`, `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`, centered `22`, the scan 166 / 167 physical em-dash, and `போய்ச் சேர்ந்து` + `விடவேண்டுமென்ற`.
+- **169–173:** PASS — 0 corrections / 0 unresolved. Closed on the user's instruction to proceed using the existing direct-source forward audit. Preserve source-specific scan-171 `அங்கிருந்த வாறு` exactly as already recorded; no normalization was introduced. Preserve `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`, `“எஜமான்!....இடும்பன்...”` → `என்றான்.`, `வம்புச் சண்டையெல்லாம்` + `நடந்தது.`, centered `23`, and scan 173 physical end `அவள் நெஞ்சிலே`.
 
 ## Exact next activity
 
-Batch **169–173** has been started: canonical records for all five scans are loaded. Continue source-level verification for these five scans only. Preserve:
+Batch **174–178** has been started: canonical records for all five scans are loaded. Continue source-level verification for these five scans only. Preserve:
 
-- scan 169 / 170: `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`;
-- scan 170 / 171: `“எஜமான்!....இடும்பன்...”` → `என்றான்.`;
-- scan 171 / 172: `வம்புச் சண்டையெல்லாம்` + `நடந்தது.`;
-- scan 172 centered `23` opens Chapter 23;
-- scan 173 / 174: `அவள் நெஞ்சிலே` → direct source continuation.
+- scan 173 / 174: `அவள் நெஞ்சிலே` → `எழுந்த குமுறல்கள்!...`;
+- scan 174 / 175: `உண்மையான பாலகங்காதரத் தேவரை` → `சிக்கவைக்கவேண்டுமென்றும்,`;
+- scan 175 / 176: `போலீசார் அவரைச் சூழ்ந்து` → `கொண்டார்கள்.`;
+- scan 178 ends the complete sentence `சபதத்தை நிறைவேற்றிக்கொண்டு அந்தப் புள்ளி மயில் சவமாகிவிட்டது, வெள்ளிக்கிழமையிலே!`.
 
-Before closing 169–173, directly confirm the suspicious scan-171 spacing `அங்கிருந்த வாறு`; do not normalize it without source evidence.
+Preserve source-specific forms already supported by the forward audit, including `பாழ்வன மாக்கிவிட்டார்`, `நயினு முகம்மதும்`, `வந்து இறங்கினர்`, `விளக்கினன்`, `வருந்தி வருந்தி`, `அள்ளி வீசினன்`, and `இழுமூச்சைத்தாள்`; do not normalize them without contrary direct-source evidence.
 
-Do not reopen scans 119–168 without new direct source evidence. Do not start assembled Tamil or English.
+Do not reopen scans 119–173 without new direct source evidence. Do not start assembled Tamil or English.

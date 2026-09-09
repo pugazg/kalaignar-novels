@@ -13,9 +13,9 @@
 | Printed-page map | **directly confirmed through scan 179; scan 66 visibly prints only `5`** |
 | Chapter map | **direct through Chapter 23; Chapter 23 opens at scan 172** |
 | Forward historical-glyph coverage | **PASS scans 1–179** |
-| User-directed second historical-glyph re-audit | **IN PROGRESS — scans 119–168 PASS / 50 of 61** |
-| Second re-audit corrections | **5 through scan 168** |
-| Second re-audit next batch | **169–173 — STARTED** |
+| User-directed second historical-glyph re-audit | **IN PROGRESS — scans 119–173 PASS / 55 of 61** |
+| Second re-audit corrections | **5 through scan 173** |
+| Second re-audit next batch | **174–178 — STARTED** |
 | Full Tamil source audit | **blocked pending second glyph re-audit** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -40,7 +40,8 @@ Character identity is decided from source pixels first; grammar is only a locato
 - **154–158:** PASS — 0 corrections / 0 unresolved. Canonical Tamil unchanged.
 - **159–163:** PASS — 1 correction / 0 unresolved. User-authorized closure using the existing direct-source forward audit plus the user direct-source correction on scan 163: `மேனித்தின்மீது` → `பிணத்தின் மீது`.
 - **164–168:** PASS — 3 corrections / 0 unresolved. User direct-source corrections: `நயினாவில்` → `நயினாவால்`; `என் சார்?` → `ஏன் சார்?`; `அவனது சவம்` → `அவளது சவம்`.
-- Remaining second-pass scans: **169–179**.
+- **169–173:** PASS — 0 corrections / 0 unresolved. User instructed continuation; closure uses the existing direct-source forward audit. Source-specific scan-171 spacing `அங்கிருந்த வாறு` is retained exactly as already recorded because no contrary direct-source evidence was supplied.
+- Remaining second-pass scans: **174–179**.
 
 ## Batch 8 — scans 154–158
 
@@ -92,9 +93,21 @@ Closure basis: all five canonical records had completed direct-source forward au
 
 **Batch verdict: PASS — 5/5 scans, 3 corrections, 0 unresolved. Cumulative second-pass corrections: 5.**
 
-## Batch 11 — scans 169–173 — STARTED
+## Batch 11 — scans 169–173
 
-Canonical comparison records for scans 169–173 have been loaded. Preserve the established boundaries and centered Chapter 23 on scan 172. Direct-source confirmation remains required before closure for suspicious scan-171 spacing `அங்கிருந்த வாறு`; do not normalize it without evidence.
+Closure basis: the user instructed continuation after the one flagged spacing check. The five canonical records already carry direct-source forward audits with no unresolved source hold. No contrary source reading was supplied, so source-specific scan-171 `அங்கிருந்த வாறு` remains unchanged rather than being normalized.
+
+- scan 169 / printed 168: page begins a new sentence; physical end `ஒலி வந்த திக்கையே நோக்கியவாறு`;
+- scan 170 / printed 169: begins `அவள் எழுந்துநின்றாள்,`; physical end `“எஜமான்!....இடும்பன்...”`;
+- scan 171 / printed 170: begins `என்றான்.`; preserve source-specific `அங்கிருந்த வாறு` and colloquial `நயினு முகம்மது`; physical end `வம்புச் சண்டையெல்லாம்`;
+- scan 172 / printed 171: begins `நடந்தது.`; centered `23` opens Chapter 23; page ends complete;
+- scan 173 / printed 172: page begins a new Chapter 23 sentence; physical end `அவள் நெஞ்சிலே`.
+
+**Batch verdict: PASS — 5/5 scans, 0 corrections, 0 unresolved. Cumulative second-pass corrections remain 5.**
+
+## Batch 12 — scans 174–178 — STARTED
+
+Canonical comparison records for scans 174–178 have been loaded. Preserve the established source boundaries and direct-source forms. No canonical correction has been applied in this batch yet.
 
 ## Structural/source decisions to preserve
 
@@ -115,18 +128,18 @@ Canonical comparison records for scans 169–173 have been loaded. Preserve the 
 - scan 165 / 166 `அதற்குள்` → direct source continuation;
 - scan 166 / 167 physical em-dash → direct source continuation;
 - scan 167 / 168 `போய்ச் சேர்ந்து` → direct source continuation;
-- scan 169 / 170 `ஒலி வந்த திக்கையே நோக்கியவாறு` → direct source continuation;
+- scan 169 / 170 `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`;
 - scan 170 / 171 `“எஜமான்!....இடும்பன்...”` → `என்றான்.`;
 - scan 171 / 172 `வம்புச் சண்டையெல்லாம்` + `நடந்தது.`;
-- scan 173 / 174 `அவள் நெஞ்சிலே` → direct source continuation;
-- scan 174 / 175 `உண்மையான பாலகங்காதரத் தேவரை` → direct source continuation;
+- scan 173 / 174 `அவள் நெஞ்சிலே` → `எழுந்த குமுறல்கள்!...`;
+- scan 174 / 175 `உண்மையான பாலகங்காதரத் தேவரை` → `சிக்கவைக்கவேண்டுமென்றும்,`;
 - scan 175 / 176 `போலீசார் அவரைச் சூழ்ந்து` → `கொண்டார்கள்.`;
 - scan 179 lower illustration and faint handwriting are non-body material.
 
 ## Second re-audit sequence
 
-`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 ✓ → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 ✓ → 169–173 ✓ → 174–178 → 179`
 
 ## Exact next activity
 
-Continue the started second-pass audit for **scans 169–173** only. Preserve scan 169 / 170 `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`, scan 170 / 171 `“எஜமான்!....இடும்பன்...”` → `என்றான்.`, scan 171 / 172 `வம்புச் சண்டையெல்லாம்` + `நடந்தது.`, centered `23` on scan 172, and scan 173 / 174 `அவள் நெஞ்சிலே` → direct source continuation. Resolve suspicious scan-171 spacing `அங்கிருந்த வாறு` from direct source before closure. Do not start assembled Tamil or English.
+Continue the started second-pass audit for **scans 174–178** only. Preserve scan 173 / 174 `அவள் நெஞ்சிலே` → `எழுந்த குமுறல்கள்!...`, scan 174 / 175 `உண்மையான பாலகங்காதரத் தேவரை` → `சிக்கவைக்கவேண்டுமென்றும்,`, scan 175 / 176 `போலீசார் அவரைச் சூழ்ந்து` → `கொண்டார்கள்.`, and scan 178's complete closing sentence. Preserve direct-source forms already recorded in the forward audit, including `பாழ்வன மாக்கிவிட்டார்`, `நயினு முகம்மதும்`, `வந்து இறங்கினர்`, `விளக்கினன்`, `வருந்தி வருந்தி`, `அள்ளி வீசினன்`, and `இழுமூச்சைத்தாள்`. Do not start assembled Tamil or English.
