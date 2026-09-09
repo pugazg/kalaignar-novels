@@ -15,9 +15,9 @@
 - final narrative: **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–153 PASS / 35 of 61 scans complete**;
-- second re-audit corrections through scan 153: **1**;
-- second re-audit next batch: **scans 154–158**;
+- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–158 PASS / 40 of 61 scans complete**;
+- second re-audit corrections through scan 158: **1**;
+- second re-audit next batch: **scans 159–163**;
 - second re-audit batch size: **5 scans per iteration**;
 - full Tamil source audit / assembled Tamil / English: **blocked pending second glyph re-audit / not started / blocked**.
 
@@ -105,6 +105,18 @@ All five scans were independently re-read from the controlling source against th
 
 No unresolved token remains. One targeted enlargement was used on scan 151 for the punctuation distinction; no historical-glyph correction was required.
 
+### Batch 8 — scans 154–158
+
+All five scans were independently re-read from the controlling source against the mandatory 13-family historical-glyph set. **Result: PASS — 0 corrections / 0 unresolved.** Canonical Tamil remained unchanged; cumulative second-pass corrections remain **1** from the earlier scan-151 punctuation fix.
+
+- **154 / printed 153:** PASS; Chapter 19 text precedes centered `20`, which opens Chapter 20 mid-scan; `நயினாவுக்குக்`, `நயினா`, `என்னை`, `உன்னை`, `அவனை`, `தழுதழுத்த` reconfirmed; source-specific `சோகடிப்புமானான்` and `ஈனசுரத்தில்` retained.
+- **155 / printed 154:** PASS; `நீயாக`, `என்னை`, `நானும்`, `நல்லவள்`, `நடந்துகொண்டதாகக்கருதி`, `தீக் காட்டால்` reconfirmed; physical end `சோலை` retained.
+- **156 / printed 155:** PASS; begins `யில்`, completing `சோலையில்`; `நயினா`, `விட்டானா`, `நின்றான்`, `தாங்கிக்கொள்ள`, `நயினாமீது`, `கன்றிப்போய்விட்டது` reconfirmed; physical end `தலையிலும் காயம்` retained without inferred punctuation.
+- **157 / printed 156:** PASS; begins direct source `நயினா எதிர்த்தே அடிக்கவில்லை.`; `நயினா`, `ஒன்றாக`, `குற்றவாளிக்கூண்டு`, `ஆக்ரோஷத்தோடு`, `குமுறின` reconfirmed; physical end `பயங்கரமாக—` retained.
+- **158 / printed 157:** PASS; begins `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`; `நயினா`, `மாறாக`, `தள்ளாடியபடியே`, `நாற்காலியில்`, `சமயங்கூட` reconfirmed; physical end `வராத` retained.
+
+No canonical Tamil text changed in scans 154–158 during the second re-audit. No unresolved token remains.
+
 ## Durable boundaries retained
 
 - scan 119 / 120: `கவனித்து` → `விட்டான்.`;
@@ -131,6 +143,11 @@ No unresolved token remains. One targeted enlargement was used on scan 151 for t
 - scan 150 / 151: `தேவ` + `லோகத்தில்` = `தேவலோகத்தில்`;
 - scan 151: source punctuation after `அங்கே வந்து` is comma, not period;
 - scan 152 / 153: `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
+- scan 154: centered `20` opens Chapter 20 after Chapter 19 text on the same scan;
+- scan 155 / 156: `சோலை` + `யில்` = `சோலையில்`;
+- scan 156 / 157: literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.` without reconstruction;
+- scan 157 / 158: `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`;
+- scan 158 / 159: `வராத` + `கண்ணீர்,`;
 
 Older source/boundary decisions remain authoritative in `audit.md` and `indexes/page-map.md`.
 
@@ -143,4 +160,4 @@ Older source/boundary decisions remain authoritative in `audit.md` and `indexes/
 
 ## Exact next activity
 
-Perform the second historical-Tamil-glyph re-audit for **scans 154–158** only. Preserve centered `20` on scan 154, scan 155 / 156 `சோலை` + `யில்`, scan 156 / 157 literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`, scan 157 / 158 `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`, and scan 158 / 159 `வராத` + `கண்ணீர்,`. Do not start assembled Tamil or English.
+Perform the second historical-Tamil-glyph re-audit for **scans 159–163** only. Preserve scan 158 / 159 `வராத` + `கண்ணீர்,`, scan 159 / 160 `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`, centered `21` on scan 160, scan 160 / 161 `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`, and scan 162 bottom `11—A` as a printer/signature mark. Do not start assembled Tamil or English.

@@ -9,8 +9,8 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - canonical page records: **179 / 179 — COMPLETE**;
 - body transcription: **through final scan 179 / printed 178**;
 - forward historical-glyph coverage: **PASS scans 1–179**;
-- user-directed second glyph re-audit: **IN PROGRESS — scans 119–153 PASS / 35 of 61; 1 correction**;
-- second re-audit next batch: **154–158**;
+- user-directed second glyph re-audit: **IN PROGRESS — scans 119–158 PASS / 40 of 61; 1 correction**;
+- second re-audit next batch: **159–163**;
 - printed-page values are source-confirmed, not inferred.
 
 ## Printed-page mapping
@@ -97,8 +97,13 @@ Grammar is only a locator. Character identity comes from source pixels and same-
 | 151 | 150 | Chapter 19 | PASS | 1 | begins `லோகத்தில்`; `நயினா`; `வலைவீசுகிறாள்`; corrected source punctuation `அங்கே வந்து.` → `அங்கே வந்து,` |
 | 152 | 151 | Chapter 19 | PASS | 0 | `நயினா`; `நயினாவின்`; `நயினாதான்`; `கொசுவலையிருக்கிறது`; ends `வழக்கமாக உறங்கும்` |
 | 153 | 152 | Chapter 19 | PASS | 0 | begins `அறைக்கல்லவா போகிறாள்!`; `நயினா`; `பீறிட்டுப்`; `நயினா முகமதுவும்` |
+| 154 | 153 | Chapter 19 / 20 boundary | PASS | 0 | centered `20`; `நயினா`; `என்னை`; source-specific `சோகடிப்புமானான்` |
+| 155 | 154 | Chapter 20 | PASS | 0 | `நீயாக`; `நானும்`; `நல்லவள்`; ends `சோலை` |
+| 156 | 155 | Chapter 20 | PASS | 0 | begins `யில்`; `நயினா`; `விட்டானா`; `நயினாமீது`; ends `தலையிலும் காயம்` |
+| 157 | 156 | Chapter 20 | PASS | 0 | begins `நயினா எதிர்த்தே அடிக்கவில்லை.`; `குற்றவாளிக்கூண்டு`; ends `பயங்கரமாக—` |
+| 158 | 157 | Chapter 20 | PASS | 0 | begins `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`; `நயினா`; `மாறாக`; ends `வராத` |
 
-Remaining second-pass ranges: **154–179 pending**. Next exact iteration: **154–158**.
+Remaining second-pass ranges: **159–179 pending**. Next exact iteration: **159–163**.
 
 ## Durable physical/source exceptions
 
@@ -149,10 +154,10 @@ Remaining second-pass ranges: **154–179 pending**. Next exact iteration: **154
 ## Remaining scan-status ranges
 
 - scans **1–179** — canonical / verified;
-- second re-audit **119–153 PASS**;
-- second re-audit **154–179 pending**;
+- second re-audit **119–158 PASS**;
+- second re-audit **159–179 pending**;
 - no page-level transcription gap remains.
 
 ## Exact next activity
 
-User-directed second historical-glyph re-audit **scans 154–158** only, then continue in 5-scan iterations through scan 179. Preserve centered `20` on scan 154, `சோலை` + `யில்`, literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`, `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`, and `வராத` + `கண்ணீர்,`.
+User-directed second historical-glyph re-audit **scans 159–163** only, then continue in 5-scan iterations through scan 179. Preserve `வராத` + `கண்ணீர்,`, `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`, centered `21` on scan 160, `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`, and scan 162 bottom `11—A` as a printer/signature mark.

@@ -23,8 +23,8 @@ Fetch live `main` first and preserve newer durable work.
 - forward mandatory historical-glyph coverage **PASS scans 1–179**;
 - unresolved source holds **0**;
 - user-directed second historical-glyph re-audit **IN PROGRESS**;
-- second re-audit completed **scans 119–153 / 35 of 61 scans — PASS, 1 correction, 0 unresolved**;
-- second re-audit next batch **154–158**, exactly 5 scans per iteration;
+- second re-audit completed **scans 119–158 / 40 of 61 scans — PASS, 1 correction, 0 unresolved**;
+- second re-audit next batch **159–163**, exactly 5 scans per iteration;
 - full Tamil source audit / assembled Tamil / English: **blocked pending second re-audit / not started / blocked**.
 
 ## Critical historical-glyph rule
@@ -101,15 +101,25 @@ Identify character identity from source pixels first. Grammar is only a locator,
 - scan 152: recurring `நயினா`, `நயினாவின்`, `நயினாதான்`, `கொசுவலையிருக்கிறது`, and `அறைக்கல்லவா` reconfirmed; ends literal `வழக்கமாக உறங்கும்`;
 - scan 153: begins `அறைக்கல்லவா போகிறாள்!`; `நயினா`, `கொசுவலைக்குள்ளே`, `தலைகுனிந்துகொண்டான்`, `பீறிட்டுப்`, and source form `நயினா முகமதுவும்` reconfirmed.
 
+### Scans 154–158
+
+**PASS — 0 corrections / 0 unresolved.** Canonical Tamil unchanged; cumulative second-pass corrections remain 1 (the earlier scan-151 punctuation correction).
+
+- scan 154: Chapter 19 text continues before centered `20`, which opens Chapter 20 mid-scan; `நயினாவுக்குக்`, `நயினா`, `என்னை`, `உன்னை`, `அவனை`, and `தழுதழுத்த` reconfirmed; source-specific `சோகடிப்புமானான்` and `ஈனசுரத்தில்` retained;
+- scan 155: `நீயாக`, `என்னை`, `நானும்`, `நல்லவள்`, `நடந்துகொண்டதாகக்கருதி`, and `தீக் காட்டால்` reconfirmed; physical end literal `சோலை`;
+- scan 156: begins literal `யில்`, completing `சோலையில்`; recurring `நயினா`, `விட்டானா`, `நின்றான்`, `தாங்கிக்கொள்ள`, `நயினாமீது`, and `கன்றிப்போய்விட்டது` reconfirmed; physical end literal `தலையிலும் காயம்` without supplied punctuation;
+- scan 157: begins direct source `நயினா எதிர்த்தே அடிக்கவில்லை.`; recurring `நயினா`, `ஒன்றாக`, `குற்றவாளிக்கூண்டு`, `ஆக்ரோஷத்தோடு`, and `குமுறின` reconfirmed; physical end literal `பயங்கரமாக—`;
+- scan 158: begins `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`; `நயினா`, `மாறாக`, `தள்ளாடியபடியே`, `நாற்காலியில்`, and `சமயங்கூட` reconfirmed; physical end literal `வராத`, continuing with scan 159 `கண்ணீர்,`.
+
 ## User-directed second glyph re-audit sequence
 
-`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 → 164–168 → 169–173 → 174–178 → 179`
 
 For every iteration: source pixels first; all 13 families; only individually supported corrections; no global replacement; record corrections or explicit zero-correction PASS; do not start assembled Tamil until the entire 119–179 re-audit is complete.
 
 ## Exact next activity
 
-Re-audit historical Tamil glyphs in **scans 154–158** and commit that five-page audit result atomically. Preserve centered `20` on scan 154, scan 155 / 156 `சோலை` + `யில்` = `சோலையில்`, scan 156 / 157 literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.` without reconstruction, scan 157 / 158 `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`, and scan 158 / 159 `வராத` + `கண்ணீர்,`.
+Re-audit historical Tamil glyphs in **scans 159–163** and commit that five-page audit result atomically. Preserve scan 158 / 159 `வராத` + `கண்ணீர்,`, scan 159 / 160 `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`, centered `21` on scan 160, scan 160 / 161 `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`, and scan 162 bottom `11—A` as a printer/signature mark.
 
 ## Completed works — preserve
 
