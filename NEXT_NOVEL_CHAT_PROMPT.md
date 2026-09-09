@@ -1,51 +1,42 @@
-# Next Chat Prompt — வெள்ளிக்கிழமை
+# Next Chat Prompt — வெள்ளிக்கிழமை / second historical-glyph re-audit
 
-Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`. Live `main` is authoritative.
+Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Source
 
 `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-256 `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`, **179 scans**, image-only, second edition 1968. Do not commit it.
 
-## Current durable state
+## Durable state
 
-- canonical records: **173 / 179**;
-- Chapter 20 opens: **scan 154 / printed 153**, centered `20`;
-- Chapter 21 opens: **scan 160 / printed 159**, centered `21`;
-- Chapter 22 opens: **scan 166 / printed 165**, centered `22`;
-- Chapter 23 opens: **scan 172 / printed 171**, centered `23`;
-- Chapter 23 transcribed through **scan 173 / printed 172**;
-- historical-glyph coverage: **PASS scans 1–173**;
-- next iteration: **scans 174–178**;
-- batch size: **5 scans**;
+- canonical page records: **179 / 179 — COMPLETE**;
+- final narrative: **scan 179 / printed 178**;
+- forward mandatory historical-glyph coverage: **PASS scans 1–179**;
+- unresolved source holds: **0**;
 - assembled Tamil / English: **not started / blocked**.
 
-## Mandatory glyph rule
+## New controlling phase — second historical-Tamil-glyph re-audit
 
-Check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` from source pixels. Grammar is only a locator. Never global-replace or normalize source wording.
+The user explicitly requested one more independent glyph audit from **scan 119 through the end**, exactly **5 scans per iteration**.
 
-## Production workflow
+Sequence:
 
-1. Fetch live `main` once.
-2. Transcribe all five full pages straight through.
-3. Run one batch-level 13-family historical-glyph sweep.
-4. For a genuinely unclear token, allow **one targeted enlargement only**.
-5. If still unresolved, record a source hold / `needs-review` and continue.
-6. Create five page records, update audit/page-map/README/HANDOVER/prompt together, then make one atomic commit.
-7. Do not reopen previously PASS scans unless new direct source evidence contradicts them.
+`119–123 → 124–128 → 129–133 → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
 
-## Recent source boundaries to preserve
+Mandatory families on every scan:
 
-- scan 169 / 170: `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`;
-- scan 170 / 171: `“எஜமான்!....இடும்பன்...”` → `என்றான்.`;
-- scan 171 / 172: `வம்புச் சண்டையெல்லாம்` + `நடந்தது.` = `வம்புச் சண்டையெல்லாம் நடந்தது.`;
-- scan 172: Chapter 22 / 23 boundary, centered `23`;
-- scan 172 ends complete; scan 173 begins a new source sentence;
-- scan 173 ends physical `அவள் நெஞ்சிலே`; establish scan 174 only from direct source.
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-## Source-specific recent forms
+Rules:
+1. source pixels first; grammar only a locator;
+2. compare each canonical page record against the source scan;
+3. no global replacements or silent normalization;
+4. one targeted enlargement per genuinely unclear token if needed;
+5. if still unresolved, record a source hold instead of guessing;
+6. record every correction, or explicitly record zero-correction PASS;
+7. update affected page records plus `audit.md`, page map / README / HANDOVER / this prompt when phase state changes;
+8. one atomic commit per 5-scan iteration;
+9. do not start assembled Tamil or English until the entire second re-audit 119–179 is complete.
 
-Preserve confirmed source forms such as `பொம்பளை`, `வளவுகளிலே`, `இடும்பனு`, `வேணும்`, `பார்க்கணுமா`, `இந்தஹாலில்`, `நாசிக்குத்தானே`, `சரக் சரக்`, `திகை சூழ்ந்தது`, `ஏமாற்றியிருக்கிறான்போலிருக்கிறது`, `தோற்றந்தான்`, `நீங்கள்தானு`, `கனைத்துக்கொண்டார்`, direct scan-171 `நயினு முகம்மது`, `முடிச்சுட்டேன்`, `பார்க்கலியே`, `இல்லீங்க`, `முழிச்சிகிட்டு`, `பண்ணினானுங்க`, `வம்புச் சண்டையெல்லாம்`, `விழுந்தா`, `போட்டுட்டு`, `இன்னேரம்`, `அவ தீர்ந்திருப்பா`, `கோட்டைக்குள்`, `குழி தோண்டினான்`, `மொந்தை`, `போயி`, `அங்கு தான்`, `ஒளிந்திருந்தாவது`, `மனப் போராட்டத்திற்கு`, `நாதியற்ற`, `நாலைந்து`, `சுமந்துவந்து கொண்டிருந்ததைச்`, and `சுடலைக்கு`.
+## First exact activity
 
-## Exact next activity
-
-Process **scans 174–178** in one bounded 5-page iteration. Do not start assembled Tamil or English.
+Process **scans 119–123** only. Preserve known physical boundaries including scan 119 / 120 `கவனித்து` → `விட்டான்.` and scan 122 / 123 literal `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`. Do not reopen scans 1–118.

@@ -5,14 +5,12 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 ## Intake state
 
 - actual PDF scan count: **179**;
-- mapping coverage: **179 / 179 represented by ranges and exceptions below**;
-- canonical page records: **173 / 179**;
-- body transcription: **through scan 173 / printed 172**;
-- historical-glyph coverage: **PASS scans 1–173**;
-- next forward processing: **scans 174–178**, 5 scans per iteration;
-- printed-page values are never inferred where the source has not been directly confirmed.
-
-Detailed lexical/glyph evidence remains in each canonical page record and `../audit.md`.
+- mapping coverage: **179 / 179**;
+- canonical page records: **179 / 179 — COMPLETE**;
+- body transcription: **through final scan 179 / printed 178**;
+- forward historical-glyph coverage: **PASS scans 1–179**;
+- user-directed second glyph re-audit: **pending scans 119–179; next 119–123**;
+- printed-page values are source-confirmed, not inferred.
 
 ## Printed-page mapping
 
@@ -22,37 +20,34 @@ Detailed lexical/glyph evidence remains in each canonical page record and `../au
 - scan **9** — body page with no visible printed number recorded;
 - scans **10–65** — printed **9–64**;
 - scan **66** — source visibly prints only **`5`**; never infer `65`;
-- scans **67–173** — printed **66–172**;
-- scans **174–175** — pending direct source confirmation;
-- scan **176** — printed **175**, directly confirmed;
-- scans **177–178** — pending direct source confirmation;
-- scan **179** — printed **178**, final narrative page plus illustration.
+- scans **67–179** — printed **66–178**.
 
 ## Confirmed chapter structure
 
 - scan 4 — Chapter 1;
 - scan 13 — Chapter 2;
 - scan 23 — Chapter 3;
-- scan 33 — Chapter 3 / 4 boundary, centered `4`;
-- scan 45 — Chapter 4 / 5 boundary, centered `5`;
+- scan 33 — Chapter 4 boundary, centered `4`;
+- scan 45 — Chapter 5 boundary, centered `5`;
 - scan 52 — Chapter 6 opening, centered `6`;
-- scan 59 — Chapter 6 / 7 boundary, centered `7`;
-- scan 68 — Chapter 7 / 8 boundary, centered `8`;
-- scan 75 — Chapter 8 / 9 boundary, centered `9`;
-- scan 85 — Chapter 9 / 10 boundary, centered `10`;
-- scan 92 — Chapter 10 / 11 boundary, centered `11`;
-- scan 99 — Chapter 11 / 12 boundary, centered `12`;
-- scan 107 — Chapter 12 / 13 boundary, centered `13`;
-- scan 115 — Chapter 13 / 14 boundary, centered `14`;
-- scan 120 — Chapter 14 / 15 boundary, centered `15`;
+- scan 59 — Chapter 7 boundary, centered `7`;
+- scan 68 — Chapter 8 boundary, centered `8`;
+- scan 75 — Chapter 9 boundary, centered `9`;
+- scan 85 — Chapter 10 boundary, centered `10`;
+- scan 92 — Chapter 11 boundary, centered `11`;
+- scan 99 — Chapter 12 boundary, centered `12`;
+- scan 107 — Chapter 13 boundary, centered `13`;
+- scan 115 — Chapter 14 boundary, centered `14`;
+- scan 120 — Chapter 15 boundary, centered `15`;
 - scan 127 — Chapter 16 opening, centered `16`;
-- scan 134 — Chapter 16 / 17 boundary, centered `17`;
+- scan 134 — Chapter 17 boundary, centered `17`;
 - scan 142 — Chapter 18 opening, centered `18`;
 - scan 149 — Chapter 19 opening, centered `19`;
-- scan 154 — Chapter 19 / 20 boundary, centered `20`;
-- scan 160 — Chapter 20 / 21 boundary, centered `21`;
-- scan 166 — Chapter 21 / 22 boundary, centered `22`;
-- scan 172 — Chapter 22 / 23 boundary, centered `23`.
+- scan 154 — Chapter 20 opening, centered `20`;
+- scan 160 — Chapter 21 opening, centered `21`;
+- scan 166 — Chapter 22 opening, centered `22`;
+- scan 172 — Chapter 23 opening, centered `23`;
+- scan 179 — final Chapter 23 narrative page plus illustration.
 
 ## Historical-glyph rule
 
@@ -60,87 +55,72 @@ Mandatory source-pixel set on every scan:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Grammar is only a locator. Character identity comes from source pixels and same-edition comparison. Never global-replace or normalize source wording. Recurring **`நயினா`** remains a controlling same-edition form except where a later scan directly and visibly prints a different form.
+Grammar is only a locator. Character identity comes from source pixels and same-edition comparison. Never global-replace or normalize source wording.
 
 ## Durable physical/source exceptions
 
 - scan 66 visibly prints only `5`;
-- scan 82 bottom `6` printer/signature mark;
-- scan 89 / 90 — `மறுத்துவிட்` + `டால்`;
-- scan 98 bottom `7` printer/signature mark;
-- scan 111 / 112 — `சிறிதா` + `வது` = `சிறிதாவது`;
-- scan 114 bottom `8` printer/signature mark;
-- scan 117 / 118 — literal `உட்` → `எவ்வளவோ...`; no grammatical reconstruction;
-- scan 119 / 120 — `கவனித்து` → `விட்டான்.`;
-- scan 122 / 123 — literal `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`;
-- scan 124 / 125 — `புகை` + `வண்டி` = `புகைவண்டி`;
-- scan 127 / 128 — `வாழ்` + `விலே` = `வாழ்விலே`;
-- scan 129 / 130 — `அழகப்ப` + `னுடைய` = `அழகப்பனுடைய`;
-- scan 130 bottom `9` printer/signature mark;
-- scan 131 / 132 — `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`;
-- scan 134 / 135 — `நயினாவின்` → `கேள்வி`;
-- scan 135 / 136 — `வருத்தத்` + `தோடு` = `வருத்தத்தோடு`;
-- scan 137 / 138 — `“இதோ,` → `கொண்டுவருகிறேன்”`;
-- scan 138 / 139 — `‘மளமள’` → `வென்று...`;
-- scan 139 / 140 — `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`;
-- scan 140 / 141 — `நயினா` → `எதுவும் பேசவில்லை.`;
-- scan 142 / 143 — `வாசகங்கள்` → `இருந்தன.`;
-- scan 144 / 145 — `வரவழைத்துக்` + `கொண்டான்` = `வரவழைத்துக் கொண்டான்`;
-- scan 145 / 146 — `ஏது` → `அவ்வளவு அக்கறை!`;
-- scan 146 bottom `10` — printer/signature mark;
-- scan 146 / 147 — `கூறியதுதான்` + `தாமதம்;` = `கூறியதுதான் தாமதம்;`;
-- scan 147 / 148 — `சந்திப்` + `பதற்காக!` = `சந்திப்பதற்காக!`;
-- scan 149 — Chapter 19 opening, centered `19`;
-- scan 149 / 150 — `புறப்` + `பட்டுவிட்டாயே!` = `புறப்பட்டுவிட்டாயே!`;
-- scan 150 / 151 — `தேவ` + `லோகத்தில்` = `தேவலோகத்தில்`;
-- scan 152 / 153 — `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
-- scan 154 — Chapter 19 / 20 boundary, centered `20`;
-- scan 155 / 156 — `சோலை` + `யில்` = `சோலையில்`;
-- scan 156 / 157 — literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`; no grammatical reconstruction;
-- scan 157 / 158 — `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`;
-- scan 158 / 159 — `வராத` + `கண்ணீர்,` = `வராத கண்ணீர்,`;
-- scan 159 / 160 — `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`;
-- scan 160 — Chapter 20 / 21 boundary, centered `21`;
-- scan 160 / 161 — `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது...`;
-- scan 162 bottom `11—A` — printer/signature mark;
-- scan 163 ends complete quoted accusation `கொலைகாரா!”`;
-- scan 164 / 165 — `கத்தி` + `னான்.` = `கத்தினான்.`;
-- scan 165 — printed `* * *` divider; ends physical `அதற்குள்`;
-- scan 165 / 166 — `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`;
-- scan 166 — Chapter 21 / 22 boundary, centered `22`;
-- scan 166 / 167 — physical em-dash → direct source `அம்மாவின் பக்கத்திலே...`; no grammatical reconstruction;
-- scan 167 / 168 — `போய்ச் சேர்ந்து` → `விடவேண்டுமென்ற...`;
-- scan 168 — ends complete sentence `அவனைக் கடந்து நடந்துகொண்டிருந்தாள்.`;
-- scan 169 / 170 — `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`;
-- scan 170 / 171 — `“எஜமான்!....இடும்பன்...”` → `என்றான்.`;
-- scan 171 / 172 — `வம்புச் சண்டையெல்லாம்` + `நடந்தது.` = `வம்புச் சண்டையெல்லாம் நடந்தது.`;
-- scan 172 — Chapter 22 / 23 boundary, centered `23`;
-- scan 172 — ends complete sentence; scan 173 begins a new source sentence;
-- scan 173 — ends physical `அவள் நெஞ்சிலே`.
+- printer/signature marks: scans 82 `6`, 98 `7`, 114 `8`, 130 `9`, 146 `10`, 162 `11—A`;
+- scan 89 / 90 `மறுத்துவிட்` + `டால்`;
+- scan 111 / 112 `சிறிதா` + `வது`;
+- scan 117 / 118 literal `உட்` → `எவ்வளவோ...`;
+- scan 119 / 120 `கவனித்து` → `விட்டான்.`;
+- scan 122 / 123 literal `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`;
+- scan 124 / 125 `புகை` + `வண்டி`;
+- scan 127 / 128 `வாழ்` + `விலே`;
+- scan 129 / 130 `அழகப்ப` + `னுடைய`;
+- scan 131 / 132 `பின்னிக்` + `கொண்டன`;
+- scan 134 / 135 `நயினாவின்` → `கேள்வி`;
+- scan 135 / 136 `வருத்தத்` + `தோடு`;
+- scan 137 / 138 `“இதோ,` → `கொண்டுவருகிறேன்”`;
+- scan 138 / 139 `‘மளமள’` → `வென்று...`;
+- scan 139 / 140 `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`;
+- scan 140 / 141 `நயினா` → `எதுவும் பேசவில்லை.`;
+- scan 142 / 143 `வாசகங்கள்` → `இருந்தன.`;
+- scan 144 / 145 `வரவழைத்துக்` + `கொண்டான்`;
+- scan 146 / 147 `கூறியதுதான்` + `தாமதம்;`;
+- scan 147 / 148 `சந்திப்` + `பதற்காக!`;
+- scan 149 / 150 `புறப்` + `பட்டுவிட்டாயே!`;
+- scan 150 / 151 `தேவ` + `லோகத்தில்`;
+- scan 152 / 153 `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
+- scan 155 / 156 `சோலை` + `யில்`;
+- scan 156 / 157 literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`;
+- scan 157 / 158 `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`;
+- scan 158 / 159 `வராத` + `கண்ணீர்,`;
+- scan 159 / 160 `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`;
+- scan 160 / 161 `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது...`;
+- scan 164 / 165 `கத்தி` + `னான்.`;
+- scan 165 / 166 `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`;
+- scan 166 / 167 physical em-dash → direct source continuation;
+- scan 167 / 168 `போய்ச் சேர்ந்து` → `விடவேண்டுமென்ற...`;
+- scan 169 / 170 `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`;
+- scan 170 / 171 `“எஜமான்!....இடும்பன்...”` → `என்றான்.`;
+- scan 171 / 172 `வம்புச் சண்டையெல்லாம்` + `நடந்தது.`;
+- scan 173 / 174 `அவள் நெஞ்சிலே` → `எழுந்த குமுறல்கள்!...`;
+- scan 174 / 175 `உண்மையான பாலகங்காதரத் தேவரை` → `சிக்கவைக்கவேண்டுமென்றும்,`;
+- scan 175 / 176 `போலீசார் அவரைச் சூழ்ந்து` → `கொண்டார்கள்.`;
+- scan 179 lower illustration and faint handwriting are non-body material.
 
-## Current canonical end — scans 164–173
+## Final canonical end — scans 170–179
 
 | Scan | Printed | Section | Status | Durable note |
 |---:|---:|---|---|---|
-| 164 | 163 | Chapter 21 | verified | ends `கத்தி` |
-| 165 | 164 | Chapter 21 | verified | begins `னான்.`; `* * *` divider; ends `அதற்குள்` |
-| 166 | 165 | Chapter 21 / 22 boundary | verified | centered `22`; ends physical em-dash |
-| 167 | 166 | Chapter 22 | verified | `அகப்பட்டாக`; `பாலகங்காதரத் தேவரின்`; ends `போய்ச் சேர்ந்து` |
-| 168 | 167 | Chapter 22 | verified | begins `விடவேண்டுமென்ற`; ends complete sentence |
-| 169 | 168 | Chapter 22 | verified | `நாசிக்குத்தானே`; ends `ஒலி வந்த திக்கையே நோக்கியவாறு` |
-| 170 | 169 | Chapter 22 | verified | `கனைத்துக்கொண்டார்`; ends `“எஜமான்!....இடும்பன்...”` |
+| 170 | 169 | Chapter 22 | verified | `கனைத்துக்கொண்டார்`; ends physical speech |
 | 171 | 170 | Chapter 22 | verified | direct `நயினு முகம்மது`; ends `வம்புச் சண்டையெல்லாம்` |
-| 172 | 171 | Chapter 22 / 23 boundary | verified | begins `நடந்தது.`; centered `23`; ends complete sentence |
-| 173 | 172 | Chapter 23 | verified | no punctuation at first `சிந்தாமணி` / `ஒரு நாலைந்து`; ends `அவள் நெஞ்சிலே` |
+| 172 | 171 | Chapter 22 / 23 boundary | verified | centered `23` |
+| 173 | 172 | Chapter 23 | verified | ends `அவள் நெஞ்சிலே` |
+| 174 | 173 | Chapter 23 | verified | begins continuation; ends `உண்மையான பாலகங்காதரத் தேவரை` |
+| 175 | 174 | Chapter 23 | verified | ends `போலீசார் அவரைச் சூழ்ந்து` |
+| 176 | 175 | Chapter 23 | verified | begins `கொண்டார்கள்.`; ends complete |
+| 177 | 176 | Chapter 23 | verified | `அபின் கடத்தல் வழக்கில்`; ends complete |
+| 178 | 177 | Chapter 23 | verified | `இழுமூச்சைத்தாள்`; ends `வெள்ளிக்கிழமையிலே!` |
+| 179 | 178 | Chapter 23 / final illustration | verified | final narrative `திரும்பினர்கள்.` |
 
 ## Remaining scan-status ranges
 
-- scans **1–173** — canonical / verified;
-- scans **174–175** — not started;
-- scan **176** — not started; printed 175 directly confirmed;
-- scans **177–178** — not started;
-- scan **179** — not started; printed 178, final page.
+- scans **1–179** — canonical / verified;
+- no page-level transcription gap remains.
 
 ## Exact next activity
 
-Process **scans 174–178** as the next bounded 5-scan iteration. Establish scan 174 only from direct source evidence after scan 173's physical `அவள் நெஞ்சிலே` ending. Do not start assembled Tamil or English.
+User-directed second historical-glyph re-audit **scans 119–123**, then continue in 5-scan iterations through scan 179.
