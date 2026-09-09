@@ -9,8 +9,8 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - canonical page records: **179 / 179 — COMPLETE**;
 - body transcription: **through final scan 179 / printed 178**;
 - forward historical-glyph coverage: **PASS scans 1–179**;
-- user-directed second glyph re-audit: **IN PROGRESS — scans 119–123 PASS / 5 of 61; 0 corrections**;
-- second re-audit next batch: **124–128**;
+- user-directed second glyph re-audit: **IN PROGRESS — scans 119–128 PASS / 10 of 61; 0 corrections**;
+- second re-audit next batch: **129–133**;
 - printed-page values are source-confirmed, not inferred.
 
 ## Printed-page mapping
@@ -67,8 +67,13 @@ Grammar is only a locator. Character identity comes from source pixels and same-
 | 121 | 120 | Chapter 15 | PASS | 0 | `குமுறினாள்`; `அலறினாள்`; both `ஓடினான்`; ends `வண்டியில்` |
 | 122 | 121 | Chapter 15 | PASS | 0 | `வருகிறானா`; `போகிறாள்`; `கிளம்பியிருக்கிறாள்`; ends `...அவளுக்குப் பக்கத்திலே` |
 | 123 | 122 | Chapter 15 | PASS | 0 | literal opening `கார்ந்து கொண்டாள்.`; `நோக்கினாள்`; `நன்றாகக்`; `தோன்றினாள்` |
+| 124 | 123 | Chapter 15 | PASS | 0 | `நீட்டினாள்`; `வயதானவளை`; `ஏற்றிக்கொண்டிருந்தான்`; ends `புகை` |
+| 125 | 124 | Chapter 15 | PASS | 0 | begins `வண்டி`; `அழகப்பனையும்`; `அவளைத்`; `அழகப்பனைத்`; `கணவனாக` |
+| 126 | 125 | Chapter 15 | PASS | 0 | `நின்றது`; `ஏறினார்கள்`; `சிந்தாமணியின்`; `எங்ஙனம்` |
+| 127 | 126 | Chapter 16 opening | PASS | 0 | centered `16`; `சிக்கிக்கொண்டாள்`; `இறங்கினாள்`; ends `வாழ்` |
+| 128 | 127 | Chapter 16 | PASS | 0 | begins `விலே`; `நின்று`; `அவளைப்`; `அவனைச் சூழ்ந்தது`; `ஏற்றினார்கள்` |
 
-Remaining second-pass ranges: **124–179 pending**. Next exact iteration: **124–128**.
+Remaining second-pass ranges: **129–179 pending**. Next exact iteration: **129–133**.
 
 ## Durable physical/source exceptions
 
@@ -115,28 +120,13 @@ Remaining second-pass ranges: **124–179 pending**. Next exact iteration: **124
 - scan 175 / 176 — `போலீசார் அவரைச் சூழ்ந்து` → `கொண்டார்கள்.`;
 - scan 179 lower illustration and faint handwriting are non-body material.
 
-## Final canonical end — scans 170–179
-
-| Scan | Printed | Section | Status | Durable note |
-|---:|---:|---|---|---|
-| 170 | 169 | Chapter 22 | verified | `கனைத்துக்கொண்டார்`; ends physical speech |
-| 171 | 170 | Chapter 22 | verified | direct `நயினு முகம்மது`; ends `வம்புச் சண்டையெல்லாம்` |
-| 172 | 171 | Chapter 22 / 23 boundary | verified | centered `23` |
-| 173 | 172 | Chapter 23 | verified | ends `அவள் நெஞ்சிலே` |
-| 174 | 173 | Chapter 23 | verified | begins continuation; ends `உண்மையான பாலகங்காதரத் தேவரை` |
-| 175 | 174 | Chapter 23 | verified | ends `போலீசார் அவரைச் சூழ்ந்து` |
-| 176 | 175 | Chapter 23 | verified | begins `கொண்டார்கள்.`; ends complete |
-| 177 | 176 | Chapter 23 | verified | `அபின் கடத்தல் வழக்கில்`; ends complete |
-| 178 | 177 | Chapter 23 | verified | `இழுமூச்சைத்தாள்`; ends `வெள்ளிக்கிழமையிலே!` |
-| 179 | 178 | Chapter 23 / final illustration | verified | final narrative `திரும்பினர்கள்.` |
-
 ## Remaining scan-status ranges
 
 - scans **1–179** — canonical / verified;
-- second re-audit **119–123 PASS**;
-- second re-audit **124–179 pending**;
+- second re-audit **119–128 PASS**;
+- second re-audit **129–179 pending**;
 - no page-level transcription gap remains.
 
 ## Exact next activity
 
-User-directed second historical-glyph re-audit **scans 124–128** only, then continue in 5-scan iterations through scan 179.
+User-directed second historical-glyph re-audit **scans 129–133** only, then continue in 5-scan iterations through scan 179.

@@ -23,8 +23,8 @@ Fetch live `main` first and preserve newer durable work.
 - forward mandatory historical-glyph coverage **PASS scans 1–179**;
 - unresolved source holds **0**;
 - user-directed second historical-glyph re-audit **IN PROGRESS**;
-- second re-audit completed **scans 119–123 / 5 of 61 scans — PASS, 0 corrections, 0 unresolved**;
-- second re-audit next batch **124–128**, exactly 5 scans per iteration;
+- second re-audit completed **scans 119–128 / 10 of 61 scans — PASS, 0 corrections, 0 unresolved**;
+- second re-audit next batch **129–133**, exactly 5 scans per iteration;
 - full Tamil source audit / assembled Tamil / English: **blocked pending second re-audit / not started / blocked**.
 
 ## Critical historical-glyph rule
@@ -35,25 +35,31 @@ Mandatory set:
 
 Identify character identity from source pixels first. Grammar is only a locator, never proof. Preserve source spelling, grammar, punctuation, spacing and colloquial forms. Never global-replace or silently normalize.
 
-## Second re-audit result — scans 119–123
+## Second re-audit results
 
-**PASS — 0 corrections / 0 unresolved.** The five canonical page texts remain unchanged.
+### Scans 119–123
 
-- scan 119: `ஓடினாள்` and reform-sensitive `பாலையூர்` clusters reconfirmed; ends `கவனித்து`;
-- scan 120: `தொண்ணூறு`, `எண்ணினான்`, `ஏங்கினான்`, `நின்றாள்` reconfirmed; centered `15` preserved; begins `விட்டான்.`;
-- scan 121: `குமுறினாள்`, `அலறினாள்`, both `ஓடினான்` occurrences reconfirmed; ends `வண்டியில்`;
-- scan 122: `வருகிறானா`, `போகிறாள்`, `கிளம்பியிருக்கிறாள்` reconfirmed; ends `சிந்தாமணி, அவளுக்குப் பக்கத்திலே`;
-- scan 123: `நோக்கினாள்`, `நன்றாகக்`, `தோன்றினாள்` reconfirmed; literal source opening `கார்ந்து கொண்டாள்.` retained.
+**PASS — 0 corrections / 0 unresolved.** Canonical Tamil unchanged.
+
+### Scans 124–128
+
+**PASS — 0 corrections / 0 unresolved.** Canonical Tamil unchanged.
+
+- scan 124: `நீட்டினாள்`, `வயதானவளை`, `ஏற்றிக்கொண்டிருந்தான்`, `அழகப்பனும்` reconfirmed; ends `புகை`;
+- scan 125: `அழகப்பனையும்`, `அவளைத்`, `அழகப்பனைத்`, `கணவனாக` reconfirmed; begins `வண்டி`;
+- scan 126: `நின்றது`, `ஏறினார்கள்`, `சிந்தாமணியின்`, `எங்ஙனம்` reconfirmed;
+- scan 127: centered `16`; `சிக்கிக்கொண்டாள்`, `இறங்கினாள்`, `அவளைத்தான்`, `நீட்டினான்` reconfirmed; ends `வாழ்`;
+- scan 128: begins `விலே`; `நின்று`, `அவளைப்`, `அவனைச் சூழ்ந்தது`, `ஏற்றினார்கள்` reconfirmed.
 
 ## User-directed second glyph re-audit sequence
 
-`119–123 ✓ → 124–128 → 129–133 → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
 
 For every iteration: source pixels first; all 13 families; only individually supported corrections; no global replacement; record corrections or explicit zero-correction PASS; do not start assembled Tamil until the entire 119–179 re-audit is complete.
 
 ## Exact next activity
 
-Re-audit historical Tamil glyphs in **scans 124–128** and commit that five-page audit result atomically. Preserve scan 124 / 125 `புகை` + `வண்டி`, scan 127 centered `16`, and scan 127 / 128 `வாழ்` + `விலே`.
+Re-audit historical Tamil glyphs in **scans 129–133** and commit that five-page audit result atomically. Preserve scan 129 / 130 `அழகப்ப` + `னுடைய` = `அழகப்பனுடைய`, scan 130 bottom `9` printer/signature mark, and scan 131 / 132 `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`.
 
 ## Completed works — preserve
 

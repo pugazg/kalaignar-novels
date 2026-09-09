@@ -12,8 +12,8 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - final narrative: **scan 179 / printed 178**;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- second historical-glyph re-audit: **IN PROGRESS — scans 119–123 PASS / 5 of 61 complete**;
-- second-pass corrections through scan 123: **0**;
+- second historical-glyph re-audit: **IN PROGRESS — scans 119–128 PASS / 10 of 61 complete**;
+- second-pass corrections through scan 128: **0**;
 - assembled Tamil / English: **not started / blocked**.
 
 ## Controlling phase — second historical-Tamil-glyph re-audit
@@ -22,7 +22,7 @@ The user explicitly requested one more independent glyph audit from **scan 119 t
 
 Sequence:
 
-`119–123 ✓ → 124–128 → 129–133 → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
 
 Mandatory families on every scan:
 
@@ -39,16 +39,17 @@ Rules:
 8. one atomic commit per 5-scan iteration;
 9. do not start assembled Tamil or English until the entire second re-audit 119–179 is complete.
 
-## Completed second-pass batch — scans 119–123
+## Completed second-pass batches
 
-**PASS — 0 corrections / 0 unresolved.** Canonical Tamil is unchanged. Preserve the already verified physical joins `கவனித்து` → `விட்டான்.` and literal `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`.
+- **119–123:** PASS — 0 corrections / 0 unresolved.
+- **124–128:** PASS — 0 corrections / 0 unresolved. Preserve `புகை` → `வண்டி`, centered `16` on scan 127, and `வாழ்` → `விலே`.
 
 ## Exact next activity
 
-Process **scans 124–128** only. Preserve known physical/structural evidence:
+Process **scans 129–133** only. Preserve known physical/source evidence:
 
-- scan 124 / 125: `புகை` + `வண்டி` = `புகைவண்டி`;
-- scan 127: centered `16` opens Chapter 16;
-- scan 127 / 128: `வாழ்` + `விலே` = `வாழ்விலே`.
+- scan 129 / 130: `அழகப்ப` + `னுடைய` = `அழகப்பனுடைய`;
+- scan 130 bottom `9` is a printer/signature mark, not body text;
+- scan 131 / 132: `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`.
 
-Do not reopen scans 119–123 without new direct source evidence. Do not start assembled Tamil or English.
+Do not reopen scans 119–128 without new direct source evidence. Do not start assembled Tamil or English.

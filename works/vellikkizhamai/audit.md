@@ -11,9 +11,9 @@
 | Printed-page map | **directly confirmed through scan 179; scan 66 visibly prints only `5`** |
 | Chapter map | **direct through Chapter 23; Chapter 23 opens at scan 172** |
 | Forward historical-glyph coverage | **PASS scans 1–179** |
-| User-directed second historical-glyph re-audit | **IN PROGRESS — scans 119–123 PASS / 5 of 61** |
-| Second re-audit corrections | **0 through scan 123** |
-| Second re-audit next batch | **124–128** |
+| User-directed second historical-glyph re-audit | **IN PROGRESS — scans 119–128 PASS / 10 of 61** |
+| Second re-audit corrections | **0 through scan 128** |
+| Second re-audit next batch | **129–133** |
 | Full Tamil source audit | **blocked pending second glyph re-audit** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -33,27 +33,31 @@ Character identity is decided from source pixels first; grammar is only a locato
 - scans **112–118**: forward audit;
 - expanded corrective re-audit repaired old-type `னா` / `றா` misses across the existing corpus;
 - scans **119–179**: original forward source-pixel audit with the mandatory 13-family set — PASS;
-- user-directed independent second re-audit: **119–123 PASS / 5 of 61; 0 corrections**;
-- remaining second-pass scans: **124–179**.
+- user-directed independent second re-audit: **119–128 PASS / 10 of 61; 0 corrections**;
+- remaining second-pass scans: **129–179**.
 
 ## Second historical-glyph re-audit — Batch 1 / scans 119–123
 
+**PASS — 5/5 scans, 0 corrections, 0 unresolved. Canonical Tamil unchanged.**
+
+## Second historical-glyph re-audit — Batch 2 / scans 124–128
+
 Method: each physical scan was independently re-read at enlarged/native source resolution against all 13 mandatory families, with the canonical page record used only as the comparison target. No grammar-based repair, global replacement, or silent normalization was used.
 
-### Scan 119 / printed 118
-**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Reform-sensitive clusters were reconfirmed directly, including `ஓடினாள்` and recurring `பாலையூர்` forms. Source-specific `பதைக்`, `வஞ்சங்`, `நச்சரவு`, `ஜாடையாக` remain unchanged. Physical end `கவனித்து` remains correct.
+### Scan 124 / printed 123
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms `நீட்டினாள்`, `வயதானவளை`, `ஏற்றிக்கொண்டிருந்தான்`, and `அழகப்பனும்`. Source wording/spacing remains unchanged. Physical end `புகை` remains correct.
 
-### Scan 120 / printed 119
-**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms `தொண்ணூறு`, `எண்ணினான்`, separate `ஏங்கினான்`, and `நின்றாள்`. Centered `15` remains the Chapter 14 / 15 boundary. Physical beginning `விட்டான்.` correctly completes scan 119.
+### Scan 125 / printed 124
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms `அழகப்பனையும்`, `அவளைத்`, `அழகப்பனைத்`, and `கணவனாக`. Source-specific `வனைத்`, `சேச்சே`, `கள்ளங்கபடமற்ற` remain unchanged. Physical beginning `வண்டி` correctly continues scan 124's `புகை`.
 
-### Scan 121 / printed 120
-**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms `குமுறினாள்`, `அலறினாள்`, and both `ஓடினான்` occurrences. Source-specific `கரந்தொட்டுப்`, `ஆத்திரமனைத்தையும்`, `அவன்கையில்`, `புறப்படத்தயாராக`, and the `ரயில்வே` / `இரயில்` mix remain unchanged. Physical end `வண்டியில்` remains correct.
+### Scan 126 / printed 125
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms `நின்றது`, `ஏறினார்கள்`, `சிந்தாமணியின்`, and `எங்ஙனம்`. Source-specific `நாலைந்து`, `திடுதிடுவென`, `கதவண்டை`, `கோதைக்கு`, `படாடோபக்காரி` remain unchanged.
 
-### Scan 122 / printed 121
-**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms `வருகிறானா`, `போகிறாள்`, `கிளம்பியிருக்கிறாள்` and related old-type clusters. Source-specific `தீமரென`, `அவளையுமறியாமல்`, `தொத்திக்கொண்டான்`, `பலகணி`, and punctuation/spacing remain unchanged. Physical end `சிந்தாமணி, அவளுக்குப் பக்கத்திலே` remains correct.
+### Scan 127 / printed 126
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Centered `16` is directly reconfirmed as the Chapter 16 opening. Direct source reconfirms `சிக்கிக்கொண்டாள்`, `இறங்கினாள்`, `அவளைத்தான்`, and `நீட்டினான்`. Source-specific `புறக்கூடு`, `புடைசூழ`, `துவங்கினர்`, `நிலை குலறியது` remain unchanged. Physical end `வாழ்` remains correct.
 
-### Scan 123 / printed 122
-**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms `நோக்கினாள்`, `நன்றாகக்`, `தோன்றினாள்` and related clusters. Literal source opening `கார்ந்து கொண்டாள்.` is retained without reconstruction to `உட்கார்ந்து`. `மாது சிரோன்மணி`, `தண்டனைகளையெல்லாம்விட`, and `கதவண்டை` remain source-faithful.
+### Scan 128 / printed 127
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Physical beginning `விலே` correctly completes scan 127's `வாழ்` as source-visible `வாழ்விலே`. Direct source reconfirms `நின்று`, `அவளைப்`, `அவனைச் சூழ்ந்தது`, and `ஏற்றினார்கள்`. Source-specific `அணுஅணுவாகக்`, `வலியப்போய்`, `எட்டி எட்டி`, `போலீஸ் வேன்` remain unchanged.
 
 **Batch verdict: PASS — 5/5 scans, 0 corrections, 0 unresolved. Canonical Tamil text unchanged.**
 
@@ -104,8 +108,8 @@ Method: each physical scan was independently re-read at enlarged/native source r
 
 ## Second re-audit sequence
 
-`119–123 ✓ → 124–128 → 129–133 → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
 
 ## Exact next activity
 
-Run the independent second historical-glyph audit for **scans 124–128** only. Preserve scan 124 / 125 `புகை` + `வண்டி`, scan 127 centered `16`, and scan 127 / 128 `வாழ்` + `விலே`. Do not start assembled Tamil or English.
+Run the independent second historical-glyph audit for **scans 129–133** only. Preserve scan 129 / 130 `அழகப்ப` + `னுடைய`, scan 130 bottom `9` printer/signature mark, and scan 131 / 132 `பின்னிக்` + `கொண்டன`. Do not start assembled Tamil or English.
