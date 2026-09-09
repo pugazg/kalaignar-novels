@@ -11,9 +11,9 @@
 | Printed-page map | **directly confirmed through scan 179; scan 66 visibly prints only `5`** |
 | Chapter map | **direct through Chapter 23; Chapter 23 opens at scan 172** |
 | Forward historical-glyph coverage | **PASS scans 1–179** |
-| User-directed second historical-glyph re-audit | **IN PROGRESS — scans 119–128 PASS / 10 of 61** |
-| Second re-audit corrections | **0 through scan 128** |
-| Second re-audit next batch | **129–133** |
+| User-directed second historical-glyph re-audit | **IN PROGRESS — scans 119–133 PASS / 15 of 61** |
+| Second re-audit corrections | **0 through scan 133** |
+| Second re-audit next batch | **134–138** |
 | Full Tamil source audit | **blocked pending second glyph re-audit** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -33,8 +33,8 @@ Character identity is decided from source pixels first; grammar is only a locato
 - scans **112–118**: forward audit;
 - expanded corrective re-audit repaired old-type `னா` / `றா` misses across the existing corpus;
 - scans **119–179**: original forward source-pixel audit with the mandatory 13-family set — PASS;
-- user-directed independent second re-audit: **119–128 PASS / 10 of 61; 0 corrections**;
-- remaining second-pass scans: **129–179**.
+- user-directed independent second re-audit: **119–133 PASS / 15 of 61; 0 corrections**;
+- remaining second-pass scans: **134–179**.
 
 ## Second historical-glyph re-audit — Batch 1 / scans 119–123
 
@@ -58,6 +58,27 @@ Method: each physical scan was independently re-read at enlarged/native source r
 
 ### Scan 128 / printed 127
 **SECOND-PASS PASS — 0 corrections / 0 unresolved.** Physical beginning `விலே` correctly completes scan 127's `வாழ்` as source-visible `வாழ்விலே`. Direct source reconfirms `நின்று`, `அவளைப்`, `அவனைச் சூழ்ந்தது`, and `ஏற்றினார்கள்`. Source-specific `அணுஅணுவாகக்`, `வலியப்போய்`, `எட்டி எட்டி`, `போலீஸ் வேன்` remain unchanged.
+
+**Batch verdict: PASS — 5/5 scans, 0 corrections, 0 unresolved. Canonical Tamil text unchanged.**
+
+## Second historical-glyph re-audit — Batch 3 / scans 129–133
+
+Method: each physical scan was independently re-read from the controlling source against all 13 mandatory families, with the canonical page record used only as the comparison target. No grammar-based repair, global replacement, or silent normalization was used. No genuinely unclear token required a targeted enlargement.
+
+### Scan 129 / printed 128
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms `அவளை`, `அவளைக்`, `என்றான்`, `கண்டிருப்பான்`, and `வந்திருக்கவேண்டிய`. Source-specific `விழலுக்கிறைத்த`, `மனிதப்புழு`, `கழிசடை`, `சிந்துவாற்றுச்`, `புனிதவதியை`, and `பின்ன மூளை` remain unchanged. Physical end `அழகப்ப` remains correct.
+
+### Scan 130 / printed 129
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Physical beginning `னுடைய` correctly completes scan 129's `அழகப்ப` as source-visible `அழகப்பனுடைய`. Direct source reconfirms `நயினா`, `தலையசைத்தாள்`, `நாணத்தாலோ`, `கண்ணாளா`, and `வரமாட்டாள்`. Source-specific `மங்காகர`, `துயிலுற்றி யெழுந்தாள்`, and `எண்ணங்களே முழங்கிக்கொண்டிருந்தன` remain unchanged. Bottom standalone `9` remains a printer/signature mark, not body text.
+
+### Scan 131 / printed 130
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms `நயினாமுகம்மது`, `நயினாவின்`, `திறந்தாள்`, `பாராட்டிக்கொண்டாள்`, `மாறாமலிருந்தால்`, and `உகுத்தாள்`. Source-specific punctuation/wording `“! சே !!` and `ஒருக் கணம்` remain unchanged. Physical end `பின்னிக்` remains correct.
+
+### Scan 132 / printed 131
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Physical beginning `கொண்டன;` correctly completes scan 131's `பின்னிக்` as source-visible `பின்னிக்கொண்டன`. Direct source reconfirms both `நயினாவிடமிருந்து` occurrences, both `என்றால்` occurrences, `ஏங்கிக்கொண்டிருந்தான்`, `அலறிவிட்டான்`, and `இறந்துவிட்டாள்`. Source-specific `நிரம்பப் படித்த`, `வேட்டாக்கர்`, and `மிக மிகச்` remain unchanged.
+
+### Scan 133 / printed 132
+**SECOND-PASS PASS — 0 corrections / 0 unresolved.** Direct source reconfirms `நயினா முகம்மது`, `நகை நட்டுக்களை`, `அழகப்பனை`, `நயினாவுக்கு`, `செய்தாள்`, and `வெளியேறினான்`. Source-specific `தடு மாறியவாறு`, `கம்பி நீட்டி விட்டான்`, `ஆயிரரூபாய்க்கு`, `நோட்டுக்கத்தையைக்`, `ஒப்பாரிவைக்க`, and `வெளியிற்சென்று` remain unchanged. Page ends complete.
 
 **Batch verdict: PASS — 5/5 scans, 0 corrections, 0 unresolved. Canonical Tamil text unchanged.**
 
@@ -108,8 +129,8 @@ Method: each physical scan was independently re-read at enlarged/native source r
 
 ## Second re-audit sequence
 
-`119–123 ✓ → 124–128 ✓ → 129–133 → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
 
 ## Exact next activity
 
-Run the independent second historical-glyph audit for **scans 129–133** only. Preserve scan 129 / 130 `அழகப்ப` + `னுடைய`, scan 130 bottom `9` printer/signature mark, and scan 131 / 132 `பின்னிக்` + `கொண்டன`. Do not start assembled Tamil or English.
+Run the independent second historical-glyph audit for **scans 134–138** only. Preserve scan 134 centered `17`, scan 134 / 135 `நயினாவின்` → `கேள்வி`, scan 135 / 136 `வருத்தத்` + `தோடு`, scan 137 / 138 `“இதோ,` → `கொண்டுவருகிறேன்”`, and scan 138 physical end `‘மளமள’`. Do not start assembled Tamil or English.

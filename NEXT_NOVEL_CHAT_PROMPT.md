@@ -12,8 +12,8 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - final narrative: **scan 179 / printed 178**;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- second historical-glyph re-audit: **IN PROGRESS — scans 119–128 PASS / 10 of 61 complete**;
-- second-pass corrections through scan 128: **0**;
+- second historical-glyph re-audit: **IN PROGRESS — scans 119–133 PASS / 15 of 61 complete**;
+- second-pass corrections through scan 133: **0**;
 - assembled Tamil / English: **not started / blocked**.
 
 ## Controlling phase — second historical-Tamil-glyph re-audit
@@ -22,7 +22,7 @@ The user explicitly requested one more independent glyph audit from **scan 119 t
 
 Sequence:
 
-`119–123 ✓ → 124–128 ✓ → 129–133 → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 → 139–143 → 144–148 → 149–153 → 154–158 → 159–163 → 164–168 → 169–173 → 174–178 → 179`
 
 Mandatory families on every scan:
 
@@ -43,13 +43,16 @@ Rules:
 
 - **119–123:** PASS — 0 corrections / 0 unresolved.
 - **124–128:** PASS — 0 corrections / 0 unresolved. Preserve `புகை` → `வண்டி`, centered `16` on scan 127, and `வாழ்` → `விலே`.
+- **129–133:** PASS — 0 corrections / 0 unresolved. Preserve `அழகப்ப` → `னுடைய`, scan 130 bottom `9` as a printer/signature mark, and `பின்னிக்` → `கொண்டன`.
 
 ## Exact next activity
 
-Process **scans 129–133** only. Preserve known physical/source evidence:
+Process **scans 134–138** only. Preserve known physical/source evidence:
 
-- scan 129 / 130: `அழகப்ப` + `னுடைய` = `அழகப்பனுடைய`;
-- scan 130 bottom `9` is a printer/signature mark, not body text;
-- scan 131 / 132: `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`.
+- scan 134: centered `17` opens Chapter 17;
+- scan 134 / 135: `நயினாவின்` → `கேள்வி`;
+- scan 135 / 136: `வருத்தத்` + `தோடு` = `வருத்தத்தோடு`;
+- scan 137 / 138: `“இதோ,` → `கொண்டுவருகிறேன்”`;
+- scan 138 ends literal `‘மளமள’`; its already-recorded continuation begins on scan 139.
 
-Do not reopen scans 119–128 without new direct source evidence. Do not start assembled Tamil or English.
+Do not reopen scans 119–133 without new direct source evidence. Do not start assembled Tamil or English.
