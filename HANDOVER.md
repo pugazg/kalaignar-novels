@@ -23,8 +23,8 @@ Fetch live `main` first and preserve newer durable work.
 - forward mandatory historical-glyph coverage **PASS scans 1–179**;
 - unresolved source holds **0**;
 - user-directed second historical-glyph re-audit **IN PROGRESS**;
-- second re-audit completed **scans 119–163 / 45 of 61 scans — PASS, 2 corrections, 0 unresolved**;
-- second re-audit next batch **164–168**, exactly 5 scans per iteration;
+- second re-audit completed **scans 119–168 / 50 of 61 scans — PASS, 5 corrections, 0 unresolved**;
+- second re-audit next batch **169–173 — STARTED**, exactly 5 scans per iteration;
 - full Tamil source audit / assembled Tamil / English: **blocked pending second re-audit / not started / blocked**.
 
 ## Critical historical-glyph rule
@@ -121,15 +121,25 @@ Identify character identity from source pixels first. Grammar is only a locator,
 - scan 162: bottom `11—A` remains a printer/signature mark, not body text; page ends complete;
 - scan 163: user direct-source correction applied: `ஆனந்தியின் மேனித்தின்மீது` → `ஆனந்தியின் பிணத்தின் மீது`; page ends `கொலைகாரா!”`.
 
+### Scans 164–168
+
+**PASS — 3 corrections / 0 unresolved.** The user directly confirmed all three suspicious source readings; the remaining canonical text and previously established source/boundary decisions for the five scans remain unchanged. Cumulative second-pass corrections are now 5.
+
+- scan 164: corrected `நயினாவில்` → `நயினாவால்` and dialogue `“என் சார்?”` → `“ஏன் சார்?”`; physical end `கத்தி` retained;
+- scan 165: begins `னான்.`, completing `கத்தினான்.`; corrected `அவனது சவம்` → `அவளது சவம்`; physical end `அதற்குள்` retained;
+- scan 166: begins `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`; centered `22` opens Chapter 22; physical em-dash ending retained;
+- scan 167: direct continuation after the physical em-dash retained; physical end `போய்ச் சேர்ந்து`;
+- scan 168: begins `விடவேண்டுமென்ற`; remaining canonical text unchanged and page ends complete.
+
 ## User-directed second glyph re-audit sequence
 
-`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 → 169–173 → 174–178 → 179`
+`119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 ✓ → 169–173 → 174–178 → 179`
 
 For every iteration: source pixels first; all 13 families; only individually supported corrections; no global replacement; record corrections or explicit zero-correction PASS; do not start assembled Tamil until the entire 119–179 re-audit is complete.
 
 ## Exact next activity
 
-Continue the started second-pass batch for **scans 164–168**. Canonical records for all five scans have been loaded. Preserve scan 164 / 165 `கத்தி` + `னான்.` = `கத்தினான்.`, scan 165 / 166 `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`, centered `22` on scan 166, the physical em-dash at scan 166 / 167, and scan 167 / 168 `போய்ச் சேர்ந்து` + `விடவேண்டுமென்ற`. Before closing the batch, directly confirm the source readings of scan 164 `நயினாவில்`, scan 164 `என் சார்?`, and scan 165 `அவனது சவம்`; grammar is only a locator, so do not silently change them.
+Continue the started second-pass batch for **scans 169–173**. Canonical records for all five scans have been loaded. Preserve scan 169 / 170 `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`, scan 170 / 171 `“எஜமான்!....இடும்பன்...”` → `என்றான்.`, scan 171 / 172 `வம்புச் சண்டையெல்லாம்` + `நடந்தது.`, centered `23` on scan 172, and scan 173 / 174 `அவள் நெஞ்சிலே` → direct source continuation. Before closing the batch, directly confirm the suspicious scan-171 spacing `அங்கிருந்த வாறு`; do not normalize it without source evidence.
 
 ## Completed works — preserve
 

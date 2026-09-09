@@ -15,9 +15,9 @@
 - final narrative: **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
 - forward mandatory historical-glyph coverage: **PASS scans 1–179**;
 - unresolved source holds: **0**;
-- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–163 PASS / 45 of 61 scans complete**;
-- second re-audit corrections through scan 163: **2**;
-- second re-audit next batch: **scans 164–168 — STARTED**;
+- user-directed second historical-glyph re-audit: **IN PROGRESS — scans 119–168 PASS / 50 of 61 scans complete**;
+- second re-audit corrections through scan 168: **5**;
+- second re-audit next batch: **scans 169–173 — STARTED**;
 - second re-audit batch size: **5 scans per iteration**;
 - full Tamil source audit / assembled Tamil / English: **blocked pending second glyph re-audit / not started / blocked**.
 
@@ -129,9 +129,21 @@ No canonical Tamil text changed in scans 154–158 during the second re-audit. N
 
 Cumulative second-pass corrections: **2** — scan 151 punctuation and scan 163 source phrase. No unresolved token remains in the closed 159–163 batch.
 
-### Batch 10 — scans 164–168 — STARTED
+### Batch 10 — scans 164–168
 
-Canonical comparison records for all five scans have been loaded. Preserve `கத்தி` + `னான்.`, `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`, centered `22` on scan 166, the scan 166 / 167 physical em-dash, and `போய்ச் சேர்ந்து` + `விடவேண்டுமென்ற`. Direct-source confirmation is still needed before closure for scan 164 `நயினாவில்`, scan 164 `என் சார்?`, and scan 165 `அவனது சவம்`.
+**Result: PASS — 3 corrections / 0 unresolved.** The user directly confirmed the three suspicious readings from the source.
+
+- **164 / printed 163:** corrected `நயினாவில்` → `நயினாவால்` and `“என் சார்?”` → `“ஏன் சார்?”`; physical end `கத்தி`.
+- **165 / printed 164:** begins `னான்.` completing `கத்தினான்.`; corrected `அவனது சவம்` → `அவளது சவம்`; physical end `அதற்குள்`.
+- **166 / printed 165:** begins `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`; centered `22`; physical em-dash ending preserved.
+- **167 / printed 166:** direct continuation after the em-dash; physical end `போய்ச் சேர்ந்து`.
+- **168 / printed 167:** begins `விடவேண்டுமென்ற`; complete ending.
+
+Cumulative second-pass corrections: **5**. No unresolved token remains in the closed 164–168 batch.
+
+### Batch 11 — scans 169–173 — STARTED
+
+Canonical comparison records for all five scans are loaded. Preserve `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`, `“எஜமான்!....இடும்பன்...”` → `என்றான்.`, `வம்புச் சண்டையெல்லாம்` + `நடந்தது.`, centered `23` on scan 172, and scan 173 physical end `அவள் நெஞ்சிலே`. Direct-source confirmation is still needed before closure for suspicious scan-171 spacing `அங்கிருந்த வாறு`.
 
 ## Durable boundaries retained
 
@@ -176,4 +188,4 @@ Older source/boundary decisions remain authoritative in `audit.md` and `indexes/
 
 ## Exact next activity
 
-Continue the started **scans 164–168** batch only. Preserve scan 164 / 165 `கத்தி` + `னான்.`, scan 165 / 166 `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`, centered `22` on scan 166, scan 166 / 167 physical em-dash, and scan 167 / 168 `போய்ச் சேர்ந்து` + `விடவேண்டுமென்ற`. Resolve direct-source readings for `நயினாவில்`, `என் சார்?`, and `அவனது சவம்` before closing. Do not start assembled Tamil or English.
+Continue the started **scans 169–173** batch only. Preserve scan 169 / 170 `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`, scan 170 / 171 `“எஜமான்!....இடும்பன்...”` → `என்றான்.`, scan 171 / 172 `வம்புச் சண்டையெல்லாம்` + `நடந்தது.`, centered `23` on scan 172, and scan 173 / 174 `அவள் நெஞ்சிலே` → direct source continuation. Directly confirm suspicious scan-171 spacing `அங்கிருந்த வாறு` before closure; do not normalize without source evidence.
