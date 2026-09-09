@@ -18,13 +18,14 @@ Fetch live `main` first and preserve newer durable work.
 ## Current durable state
 
 - manifest **179 / 179**;
-- canonical records **158 / 179**;
+- canonical records **163 / 179**;
 - Chapter 18 opens: **scan 142 / printed 141**, centered `18`;
 - Chapter 19 opens: **scan 149 / printed 148**, centered `19`;
 - Chapter 20 opens: **scan 154 / printed 153**, centered `20`;
-- Chapter 20 transcribed through **scan 158 / printed 157**;
-- historical-glyph coverage: **PASS scans 1–158**;
-- next forward iteration: **scans 159–163**;
+- Chapter 21 opens: **scan 160 / printed 159**, centered `21`;
+- Chapter 21 transcribed through **scan 163 / printed 162**;
+- historical-glyph coverage: **PASS scans 1–163**;
+- next forward iteration: **scans 164–168**;
 - batch size: **5 scans**;
 - full Tamil source audit / assembled Tamil / English: **not started / not started / blocked**.
 
@@ -53,16 +54,18 @@ For each 5-scan batch:
 
 ## Recent durable results
 
-- scan 149: Chapter 19 opening, centered `19`; ends physical `புறப்`;
-- scan 150: begins `பட்டுவிட்டாயே!`; ends physical `தேவ`;
-- scan 151: begins `லோகத்தில்`; ends completed `பிடித்து விட்டால்...?` question;
-- scan 152: preserve recurring `நயினா` / `நயினாதான்`; ends `வழக்கமாக உறங்கும்`;
-- scan 153: begins `அறைக்கல்லவா போகிறாள்!`; preserve `பீறிட்டுப்`, `ஸ்பரிச`, `நயினா முகமதுவும்`, `ஈன சுரத்தில்`; ends complete sentence;
 - scan 154: Chapter 19 / 20 boundary, centered `20`; targeted enlargement confirms `சோகடிப்புமானான்`; preserve `ஈனசுரத்தில்`, `மலை மலையாக`, `அலை அலையாக`;
 - scan 155: preserve `சஞ்சீவி`, `சிபாரிசு`, `அபாக்கியவதி`, `அழுக்கேறிய`, `நிலைமைகண்டு`, `நடந்துகொண்டதாகக்கருதி`, `தீக் காட்டால்`; ends physical `சோலை`;
 - scan 156: begins `யில்`, completing `சோலையில்`; preserve `அவ்வளவுங்`, `பண்டமாற்று`, `கன்றிப்போய்விட்டது`, `நயினாமீது`; ends physical `தலையிலும் காயம்`;
 - scan 157: begins direct source `நயினா எதிர்த்தே அடிக்கவில்லை.`; old-type `றா` in `ஒன்றாக` confirmed; preserve `அலட்சியச்`, `குற்றவாளிக்கூண்டு`, `ஆக்ரோஷத்தோடு`, `குமுறின`; ends `பயங்கரமாக—`;
-- scan 158: begins `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`; preserve `மாறாக`, `ஸ்தம்பித்து`, `ஆருயிர்த் தோழனிடத்திலே`, `சமயங்கூட`; ends physical `வராத`.
+- scan 158: begins `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`; preserve `மாறாக`, `ஸ்தம்பித்து`, `ஆருயிர்த் தோழனிடத்திலே`, `சமயங்கூட`; ends physical `வராத`;
+- scan 159: begins `கண்ணீர்,`, completing `வராத கண்ணீர்,`; preserve `உள்ளங்`, `உதயமாயிற்று`, `ஜோடியாக`, `தம்பதிகளாக்குகிறேன்`; ends physical `அழகப்பனுக்கும்`;
+- scan 160: begins `ஒன்றும் புரியவில்லை.`; centered `21` opens Chapter 21; one targeted enlargement confirms source-specific `மன்னித்துவிடடா`; preserve `குடிமுழுகிவிடவில்லை`, `இவ்வளவுதூரம்`, `இப்படி யொரு`, `தீயசக்தி`, `காதல்வீடு`; ends physical `நமது தூய நட்பு`;
+- scan 161: begins `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`; historical `றா` in `சூறாவளியை` confirmed; preserve `பழி-பாவம்`, `பிராயச்சித்தம்`, `மனச்சாட்சியைக்`; ends complete question-and-attribution;
+- scan 162: preserve `பத்தரைமாற்றுப் பசும்பொன்`, `அஸ்தமித்துப்போகும்`, `அவகாசமெடுத்துக்கொண்டு`, `அறைநோக்கிச்`, `புயலுக்குப்பின்`; bottom `11—A` is a printer/signature mark; ends complete sentence;
+- scan 163: preserve `‘குபு குபு’`, `சண்டாளப்பட்டம்`, `முழு நிலவு ஒளியாக்கப்பட்டது போல்`, `மேனித்தின்மீது`, `காரண கர்த்தாவானேன்`, `இருக்கவேண்டாமென்று`; ends complete `கொலைகாரா!”` quote.
+
+No unresolved source holds remain through scan 163.
 
 ## Structural/source decisions to preserve
 
@@ -78,6 +81,7 @@ For each 5-scan batch:
 - scan 124 / 125 `புகை` + `வண்டி` = `புகைவண்டி`;
 - scan 127 / 128 `வாழ்` + `விலே` = `வாழ்விலே`;
 - scan 129 / 130 `அழகப்ப` + `னுடைய` = `அழகப்பனுடைய`;
+- scan 130 bottom `9` printer/signature mark;
 - scan 131 / 132 `பின்னிக்` + `கொண்டன` = `பின்னிக்கொண்டன`;
 - scan 134 / 135 `நயினாவின்` → `கேள்வி`;
 - scan 135 / 136 `வருத்தத்` + `தோடு` = `வருத்தத்தோடு`;
@@ -102,14 +106,20 @@ For each 5-scan batch:
 - scan 155 / 156 `சோலை` + `யில்` = `சோலையில்`;
 - scan 156 / 157 literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`; no grammatical reconstruction;
 - scan 157 / 158 `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`;
-- scan 158 ends physical `வராத`.
+- scan 158 / 159 `வராத` + `கண்ணீர்,` = `வராத கண்ணீர்,`;
+- scan 159 / 160 `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`;
+- scan 160 opens Chapter 21, centered `21`;
+- scan 160 / 161 `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது...`;
+- scan 161 ends complete question-and-attribution;
+- scan 162 bottom `11—A` printer/signature mark; ends complete sentence;
+- scan 163 ends complete quoted accusation `கொலைகாரா!”`.
 
 ## Exact next activity
 
 1. re-fetch live `main`;
 2. resolve controlling source;
-3. process **scans 159–163** in one bounded 5-page iteration;
-4. establish scan 159 only from direct source pixels after scan 158's physical final `வராத`;
+3. process **scans 164–168** in one bounded 5-page iteration;
+4. establish scan 164 only from direct source pixels after scan 163's complete `கொலைகாரா!”` ending;
 5. run one batch glyph sweep and bounded ambiguity handling;
 6. synchronize page records and status documents and commit atomically.
 

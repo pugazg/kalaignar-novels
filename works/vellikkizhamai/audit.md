@@ -6,12 +6,12 @@
 |---|---|
 | Source identity / checksum / page count | **complete** |
 | Initial scan manifest | **179 / 179 represented** |
-| Canonical page records | **158 / 179** |
-| Body transcription | **through scan 158 / printed 157** |
-| Printed-page map | **directly confirmed through scan 158; scan 66 visibly prints only `5`** |
-| Chapter map | **direct through Chapter 20; Chapter 20 opens at scan 154** |
-| Historical-glyph coverage | **PASS scans 1–158** |
-| Forward transcription | **next 5-scan iteration 159–163** |
+| Canonical page records | **163 / 179** |
+| Body transcription | **through scan 163 / printed 162** |
+| Printed-page map | **directly confirmed through scan 163; scan 66 visibly prints only `5`** |
+| Chapter map | **direct through Chapter 21; Chapter 21 opens at scan 160** |
+| Historical-glyph coverage | **PASS scans 1–163** |
+| Forward transcription | **next 5-scan iteration 164–168** |
 | Full Tamil source audit | **not started** |
 | Assembled Tamil | **not started** |
 | English translation | **blocked until Tamil gate passes** |
@@ -30,27 +30,27 @@ Character identity is decided from source pixels first; grammar is only a locato
 - scans **102–111**: corrective audit;
 - scans **112–118**: forward audit;
 - expanded corrective re-audit repaired old-type `னா` / `றா` misses across the existing corpus;
-- scans **119–158**: forward source-pixel audit with the mandatory 13-family set;
-- current canonical scans **1–158 are PASS**.
+- scans **119–163**: forward source-pixel audit with the mandatory 13-family set;
+- current canonical scans **1–163 are PASS**.
 
 ## Latest verified batch
 
-### Scan 154 / printed 153
-**VERIFIED / PASS. Chapter 19 / 20 boundary.** Direct source begins with `“விடுங்கள் தயவு செய்து என்னை!”`; centered `20` opens Chapter 20 mid-scan. Same-edition comparison confirms recurring old-type `நயினா`; one targeted enlargement confirms source-specific `சோகடிப்புமானான்`. Preserve `ஈனசுரத்தில்`, `மலை மலையாக`, and `அலை அலையாக`.
+### Scan 159 / printed 158
+**VERIFIED / PASS.** Begins direct source `கண்ணீர்,`, completing scan 158's physical `வராத`. Same-edition comparison confirms recurring `நயினா` and historical `ளை` in `அவளையும்`. Preserve `உள்ளங்`, `உதயமாயிற்று`, `ஜோடியாக`, and `தம்பதிகளாக்குகிறேன்`; ends physical `அழகப்பனுக்கும்`.
 
-### Scan 155 / printed 154
-**VERIFIED / PASS.** Preserve `சஞ்சீவி`, `சிபாரிசு`, `அபாக்கியவதி`, `அழுக்கேறிய`, `நிலைமைகண்டு`, `நடந்துகொண்டதாகக்கருதி`, and `தீக் காட்டால்`; ends physical `சோலை`.
+### Scan 160 / printed 159
+**VERIFIED / PASS. Chapter 20 / 21 boundary.** Begins `ஒன்றும் புரியவில்லை.`; centered `21` opens Chapter 21. Historical `ளை` in `அவளை` and old-form `றா` in `என்றான்` were checked against same-edition evidence. One targeted enlargement confirms source-specific `மன்னித்துவிடடா`. Preserve `குடிமுழுகிவிடவில்லை`, `இவ்வளவுதூரம்`, `இப்படி யொரு`, `தீயசக்தி`, and `காதல்வீடு`; ends physical `நமது தூய நட்பு`.
 
-### Scan 156 / printed 155
-**VERIFIED / PASS.** Begins physical `யில்`, completing `சோலையில்`; same-edition old-type `நயினா` / interrogative `விட்டானா` confirmed. Preserve `அவ்வளவுங்`, `பண்டமாற்று`, `கன்றிப்போய்விட்டது`, and `நயினாமீது`; ends physical `தலையிலும் காயம்` with no supplied punctuation.
+### Scan 161 / printed 160
+**VERIFIED / PASS.** Begins `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`, continuing scan 160. Historical `றா` in `சூறாவளியை` confirmed. Preserve `பழி-பாவம்`, `நீர்வீழ்ச்சியைத்`, `பிராயச்சித்தம்`, `அவளுக்குக்`, and `மனச்சாட்சியைக்`; ends complete `“சிந்தாமணி கைது செய்யப்பட்டிருப்பது எப்படி?” என்றான் அழகு.`
 
-### Scan 157 / printed 156
-**VERIFIED / PASS.** Begins direct source `நயினா எதிர்த்தே அடிக்கவில்லை.` after the literal scan-156 ending. Old-type `றா` in `ஒன்றாக` confirmed. Preserve `அலட்சியச்`, `குற்றவாளிக்கூண்டு`, `உலர்ந்துபோன`, `ஆக்ரோஷத்தோடு`, and `குமுறின`; ends physical `பயங்கரமாக—`.
+### Scan 162 / printed 161
+**VERIFIED / PASS.** Preserve `பத்தரைமாற்றுப் பசும்பொன்`, `அஸ்தமித்துப்போகும்`, `அவகாசமெடுத்துக்கொண்டு`, `அறைநோக்கிச்`, and `புயலுக்குப்பின்`. Bottom `11—A` is a printer/signature mark, not body text. Ends complete `ஆனந்தியின் அறையிலே கண்டார்கள்.`
 
-### Scan 158 / printed 157
-**VERIFIED / PASS.** Begins `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`, continuing scan 157. Same-edition comparison confirms `நயினா` and old-type `றா` in `மாறாக`. Preserve `வேசியாக்கியவளின்`, `மங்கலான`, `ஸ்தம்பித்து`, `ஆருயிர்த் தோழனிடத்திலே`, and `சமயங்கூட`; ends physical `வராத`.
+### Scan 163 / printed 162
+**VERIFIED / PASS.** Preserve `‘குபு குபு’`, `அக்கிரமத்தைச்`, `சண்டாளப்பட்டம்`, `முழு நிலவு ஒளியாக்கப்பட்டது போல்`, `மேனித்தின்மீது`, `காரண கர்த்தாவானேன்`, and `இருக்கவேண்டாமென்று`. Ends complete quoted accusation `கொலைகாரா!”`.
 
-No unresolved source holds remain in scans 154–158.
+No unresolved source holds remain in scans 159–163.
 
 ## Structural/source decisions to preserve
 
@@ -106,8 +106,14 @@ No unresolved source holds remain in scans 154–158.
 - scan 155 / 156 `சோலை` + `யில்` = `சோலையில்`;
 - scan 156 / 157 literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`; no grammatical reconstruction;
 - scan 157 / 158 `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`;
-- scan 158 ends physical `வராத`.
+- scan 158 / 159 `வராத` + `கண்ணீர்,` = `வராத கண்ணீர்,`;
+- scan 159 / 160 `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`;
+- scan 160 Chapter 20 / 21 boundary, centered `21`;
+- scan 160 / 161 `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது...`;
+- scan 161 ends complete question-and-attribution;
+- scan 162 bottom `11—A` printer/signature mark; ends complete sentence;
+- scan 163 ends complete quoted accusation `கொலைகாரா!”`.
 
 ## Exact next activity
 
-Process **scans 159–163** using the bounded production workflow: transcribe all five pages first, run one mandatory 13-family batch sweep, allow at most one targeted enlargement per genuinely unclear token, and record a source hold if still unresolved. Establish scan 159 only from direct source after scan 158's physical `வராத`. Do not start assembled Tamil or English.
+Process **scans 164–168** using the bounded production workflow: transcribe all five pages first, run one mandatory 13-family batch sweep, allow at most one targeted enlargement per genuinely unclear token, and record a source hold if still unresolved. Establish scan 164 only from direct source after scan 163's complete `கொலைகாரா!”` ending. Do not start assembled Tamil or English.

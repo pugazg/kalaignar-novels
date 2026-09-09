@@ -6,10 +6,10 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count: **179**;
 - mapping coverage: **179 / 179 represented by ranges and exceptions below**;
-- canonical page records: **158 / 179**;
-- body transcription: **through scan 158 / printed 157**;
-- historical-glyph coverage: **PASS scans 1–158**;
-- next forward processing: **scans 159–163**, 5 scans per iteration;
+- canonical page records: **163 / 179**;
+- body transcription: **through scan 163 / printed 162**;
+- historical-glyph coverage: **PASS scans 1–163**;
+- next forward processing: **scans 164–168**, 5 scans per iteration;
 - printed-page values are never inferred where the source has not been directly confirmed.
 
 Detailed lexical/glyph evidence remains in each canonical page record and `../audit.md`.
@@ -22,8 +22,8 @@ Detailed lexical/glyph evidence remains in each canonical page record and `../au
 - scan **9** — body page with no visible printed number recorded;
 - scans **10–65** — printed **9–64**;
 - scan **66** — source visibly prints only **`5`**; never infer `65`;
-- scans **67–158** — printed **66–157**;
-- scans **159–175** — pending direct source confirmation;
+- scans **67–163** — printed **66–162**;
+- scans **164–175** — pending direct source confirmation;
 - scan **176** — printed **175**, directly confirmed;
 - scans **177–178** — pending direct source confirmation;
 - scan **179** — printed **178**, final narrative page plus illustration.
@@ -49,7 +49,8 @@ Detailed lexical/glyph evidence remains in each canonical page record and `../au
 - scan 134 — Chapter 16 / 17 boundary, centered `17`;
 - scan 142 — Chapter 18 opening, centered `18`;
 - scan 149 — Chapter 19 opening, centered `19`;
-- scan 154 — Chapter 19 / 20 boundary, centered `20`.
+- scan 154 — Chapter 19 / 20 boundary, centered `20`;
+- scan 160 — Chapter 20 / 21 boundary, centered `21`.
 
 ## Historical-glyph rule
 
@@ -95,31 +96,36 @@ Grammar is only a locator. Character identity comes from source pixels and same-
 - scan 155 / 156 — `சோலை` + `யில்` = `சோலையில்`;
 - scan 156 / 157 — literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`; no grammatical reconstruction;
 - scan 157 / 158 — `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`;
-- scan 158 — ends physical `வராத`.
+- scan 158 / 159 — `வராத` + `கண்ணீர்,` = `வராத கண்ணீர்,`;
+- scan 159 / 160 — `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`;
+- scan 160 — Chapter 20 / 21 boundary, centered `21`;
+- scan 160 / 161 — `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது...`;
+- scan 162 bottom `11—A` — printer/signature mark;
+- scan 163 ends complete quoted accusation `கொலைகாரா!”`.
 
-## Current canonical end — scans 149–158
+## Current canonical end — scans 154–163
 
 | Scan | Printed | Section | Status | Durable note |
 |---:|---:|---|---|---|
-| 149 | 148 | Chapter 19 opening | verified | centered `19`; ends `புறப்` |
-| 150 | 149 | Chapter 19 | verified | begins `பட்டுவிட்டாயே!`; ends `தேவ` |
-| 151 | 150 | Chapter 19 | verified | begins `லோகத்தில்`; ends complete question |
-| 152 | 151 | Chapter 19 | verified | `நயினாதான்`; ends `வழக்கமாக உறங்கும்` |
-| 153 | 152 | Chapter 19 | verified | begins `அறைக்கல்லவா போகிறாள்!`; ends complete sentence |
 | 154 | 153 | Chapter 19 / 20 boundary | verified | centered `20`; `சோகடிப்புமானான்` confirmed |
 | 155 | 154 | Chapter 20 | verified | ends `சோலை` |
 | 156 | 155 | Chapter 20 | verified | begins `யில்`; ends `தலையிலும் காயம்` |
 | 157 | 156 | Chapter 20 | verified | begins `நயினா எதிர்த்தே அடிக்கவில்லை.`; ends `பயங்கரமாக—` |
 | 158 | 157 | Chapter 20 | verified | begins `ஆனந்தியிருக்கும்`; ends `வராத` |
+| 159 | 158 | Chapter 20 | verified | begins `கண்ணீர்,`; ends `அழகப்பனுக்கும்` |
+| 160 | 159 | Chapter 20 / 21 boundary | verified | begins `ஒன்றும் புரியவில்லை.`; centered `21`; ends `நமது தூய நட்பு` |
+| 161 | 160 | Chapter 21 | verified | begins `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`; ends complete question-and-attribution |
+| 162 | 161 | Chapter 21 | verified | bottom `11—A` printer/signature mark; ends complete sentence |
+| 163 | 162 | Chapter 21 | verified | ends complete `கொலைகாரா!”` quote |
 
 ## Remaining scan-status ranges
 
-- scans **1–158** — canonical / verified;
-- scans **159–175** — not started;
+- scans **1–163** — canonical / verified;
+- scans **164–175** — not started;
 - scan **176** — not started; printed 175 directly confirmed;
 - scans **177–178** — not started;
 - scan **179** — not started; printed 178, final page.
 
 ## Exact next activity
 
-Process **scans 159–163** as the next bounded 5-scan iteration. Establish scan 159 only from direct source evidence after scan 158's physical `வராத`. Do not start assembled Tamil or English.
+Process **scans 164–168** as the next bounded 5-scan iteration. Establish scan 164 only from direct source evidence after scan 163's complete `கொலைகாரா!”` ending. Do not start assembled Tamil or English.

@@ -8,12 +8,13 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 ## Current durable state
 
-- canonical records: **158 / 179**;
+- canonical records: **163 / 179**;
 - Chapter 19 opens: **scan 149 / printed 148**, centered `19`;
 - Chapter 20 opens: **scan 154 / printed 153**, centered `20`;
-- Chapter 20 transcribed through **scan 158 / printed 157**;
-- historical-glyph coverage: **PASS scans 1–158**;
-- next iteration: **scans 159–163**;
+- Chapter 21 opens: **scan 160 / printed 159**, centered `21`;
+- Chapter 21 transcribed through **scan 163 / printed 162**;
+- historical-glyph coverage: **PASS scans 1–163**;
+- next iteration: **scans 164–168**;
 - batch size: **5 scans**;
 - assembled Tamil / English: **not started / blocked**.
 
@@ -33,16 +34,18 @@ Check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / �
 
 ## Recent source boundaries to preserve
 
-- scan 154: Chapter 19 / 20 boundary, centered `20`;
-- scan 155 / 156: `சோலை` + `யில்` = `சோலையில்`;
-- scan 156 / 157: literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`; do not grammatically reconstruct the boundary;
-- scan 157 / 158: `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`;
-- scan 158 ends physical `வராத`; establish scan 159 only from direct source.
+- scan 158 / 159: `வராத` + `கண்ணீர்,` = `வராத கண்ணீர்,`;
+- scan 159 / 160: `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`;
+- scan 160: Chapter 20 / 21 boundary, centered `21`;
+- scan 160 / 161: `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது...`;
+- scan 161 ends complete `“சிந்தாமணி கைது செய்யப்பட்டிருப்பது எப்படி?” என்றான் அழகு.`;
+- scan 162 bottom `11—A` is a printer/signature mark; narrative ends complete `ஆனந்தியின் அறையிலே கண்டார்கள்.`;
+- scan 163 ends complete quoted accusation `கொலைகாரா!”`; establish scan 164 only from direct source.
 
 ## Source-specific recent forms
 
-Preserve confirmed source forms such as `சோகடிப்புமானான்`, `ஈனசுரத்தில்`, `மலை மலையாக`, `அலை அலையாக`, `சஞ்சீவி`, `சிபாரிசு`, `அபாக்கியவதி`, `நிலைமைகண்டு`, `நடந்துகொண்டதாகக்கருதி`, `அவ்வளவுங்`, `பண்டமாற்று`, `கன்றிப்போய்விட்டது`, `நயினாமீது`, `அலட்சியச்`, `குற்றவாளிக்கூண்டு`, `ஆக்ரோஷத்தோடு`, `குமுறின`, `மாறாக`, `ஸ்தம்பித்து`, `ஆருயிர்த் தோழனிடத்திலே`, and `சமயங்கூட`.
+Preserve confirmed source forms such as `உள்ளங்`, `உதயமாயிற்று`, `ஜோடியாக`, `தம்பதிகளாக்குகிறேன்`, `குடிமுழுகிவிடவில்லை`, `இவ்வளவுதூரம்`, `இப்படி யொரு`, `தீயசக்தி`, `காதல்வீடு`, `மன்னித்துவிடடா`, `சூறாவளியை`, `பழி-பாவம்`, `பிராயச்சித்தம்`, `மனச்சாட்சியைக்`, `பத்தரைமாற்றுப் பசும்பொன்`, `அஸ்தமித்துப்போகும்`, `அவகாசமெடுத்துக்கொண்டு`, `அறைநோக்கிச்`, `புயலுக்குப்பின்`, `சண்டாளப்பட்டம்`, `மேனித்தின்மீது`, `காரண கர்த்தாவானேன்`, and `இருக்கவேண்டாமென்று`.
 
 ## Exact next activity
 
-Process **scans 159–163** in one bounded 5-page iteration. Do not start assembled Tamil or English.
+Process **scans 164–168** in one bounded 5-page iteration. Do not start assembled Tamil or English.
