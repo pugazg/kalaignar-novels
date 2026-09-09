@@ -16,7 +16,7 @@
 | User-directed second historical-glyph re-audit | **COMPLETE — scans 119–179 PASS / 61 of 61** |
 | Second re-audit corrections | **5 total / 0 unresolved** |
 | Full Tamil source audit | **PASSED** |
-| Assembled Tamil | **READY / NEXT — not started** |
+| Assembled Tamil | **IN PROGRESS — Chapter 1 / 23 VERIFIED; scans 4–12** |
 | English translation | **blocked until assembled Tamil passes** |
 
 ## Full Tamil source audit — PASSED
@@ -75,7 +75,7 @@ Printer/signature marks at scans 82 `6`, 98 `7`, 114 `8`, 130 `9`, 146 `10`, and
 **Unresolved source readings: 0.**  
 **Tamil source layer: PASSED.**
 
-The audited `pages/` records remain the canonical preservation layer. The next stage is the derived **assembled Tamil reading layer**; it may join only verified page-boundary continuities and must preserve provenance back to canonical pages. English remains blocked until assembled Tamil passes its own consistency audit.
+The audited `pages/` records remain the canonical preservation layer. The derived **assembled Tamil reading layer** is now **IN PROGRESS**. Chapter 1 (scans 4–12) has been assembled and verified; English remains blocked until all 23 chapters and the final assembled-layer consistency audit pass.
 
 ## Historical-glyph rule
 
@@ -210,6 +210,23 @@ Closure basis: canonical scan 179 already had a completed direct-source forward 
 
 `119–123 ✓ → 124–128 ✓ → 129–133 ✓ → 134–138 ✓ → 139–143 ✓ → 144–148 ✓ → 149–153 ✓ → 154–158 ✓ → 159–163 ✓ → 164–168 ✓ → 169–173 ✓ → 174–178 ✓ → 179 ✓`
 
+## Assembled Tamil audit — Chapter 1
+
+**Chapter 1 / scans 4–12: VERIFIED.**
+
+Checks completed:
+
+- source-chapter boundary: PASS — scan 4 opens Chapter 1; scan 12 completes it; scan 13 opens Chapter 2;
+- canonical derivation: PASS — reading prose derived only from verified `pages/` records;
+- source wording/punctuation: PASS — no modernization or grammar repair introduced;
+- verse structure: PASS — source-printed Tiruppavai lines preserved;
+- non-body material exclusion: PASS — historical-glyph/audit notes and scan observations excluded from reading prose;
+- provenance: PASS — scan/printed-page comments retained and joins are reversible;
+- verified joins: PASS — 4→5 `ஏதோ`/`இன்பக்கனவுகளோ`, 5→6 `அவைகளே`/`கேலிக்குரியதாக`, 8→9 `கிழக்கு வானம் வெளுக்கத்`/`துவங்கிவிட்டது.`, 10→11 `இருந்தாள்—`/quoted continuation;
+- canonical mutation: PASS — no `pages/` file changed.
+
+Whole assembled layer status remains **IN PROGRESS — 1 / 23 chapters**.
+
 ## Exact next activity
 
-Build the **assembled Tamil reading layer** from the now-PASSED canonical `pages/` source layer. Follow `NOVEL_PROCESSING_GUIDE.md`: derive prose only from audited page records, preserve source wording/punctuation, retain page provenance, and join only already-verified cross-page continuities. Define section boundaries from the source's 23-chapter structure without force-fitting another work. After assembly, run its own source-coverage / continuity / canonical-authority consistency check and mark assembled Tamil **PASSED** only if every gate succeeds. English remains blocked until then.
+Assemble and verify **Chapter 2 only — scans 13–22** as `sections/02-chapter-02.md`. Then advance the assembly audit to **2 / 23**. Do not begin Chapter 3 or English in the same iteration.

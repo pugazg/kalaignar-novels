@@ -25,7 +25,7 @@ Fetch live `main` first and preserve newer durable work.
 - user-directed second historical-glyph re-audit **COMPLETE — scans 119–179 / 61 of 61 scans — PASS, 5 corrections, 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **READY / NEXT — not started**;
+- assembled Tamil: **IN PROGRESS — Chapter 1 / 23 VERIFIED; scans 4–12 assembled**;
 - English: **blocked until assembled Tamil passes its own consistency gate**.
 
 ## Critical historical-glyph rule
@@ -171,9 +171,17 @@ The user-directed 119–179 second historical-glyph re-audit is now complete: **
 
 **PASSED.** Live canonical coverage is 179/179 continuous records with 0 unresolved source holds. Source identity, printed-page mapping, Chapters 1–23, historical-glyph gates, five second-pass corrections, durable cross-page joins, and non-body mark separation are consistent. `metadata/source.md` was the one stale control document found during this audit (it still described 111/179 and an old reopened gate); it has been synchronized to the completed state. No canonical page text changed in this audit.
 
+## Assembled Tamil reading layer — progress
+
+- `sections/README.md` created with the 23-chapter map and authority rules.
+- `sections/01-chapter-01.md` — **VERIFIED**, source scans **4–12**, Chapter 1.
+- Chapter 1 is derived only from audited canonical page records; source spelling, punctuation, Tiruppavai verse layout and paragraph structure are preserved.
+- Verified cross-page continuities assembled with reversible inline provenance, including scan 4 `ஏதோ` → scan 5 `இன்பக்கனவுகளோ`, scan 5 `அவைகளே` → scan 6 `கேலிக்குரியதாக`, scan 8 `கிழக்கு வானம் வெளுக்கத்` → scan 9 `துவங்கிவிட்டது.`, and scan 10 `இருந்தாள்—` → scan 11 quoted continuation.
+- Canonical `pages/` files remain unchanged. Whole assembled layer is **not yet PASSED**.
+
 ## Exact next activity
 
-Begin the **assembled Tamil reading layer** from the PASSED canonical `pages/` layer. Preserve page provenance and source wording, and join only verified cross-page continuities. Use the source's 23-chapter structure as the primary organization. After assembly, run its own source-coverage / continuity / canonical-authority check. Do not start English until assembled Tamil is marked **PASSED**.
+Assemble and verify **Chapter 2 only — scans 13–22** into `works/vellikkizhamai/sections/02-chapter-02.md`, using the same source-faithful provenance convention. Do not start Chapter 3 or English in the same iteration. After Chapter 2 passes, update assembly progress to **2 / 23**.
 
 ## Completed works — preserve
 

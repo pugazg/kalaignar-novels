@@ -12,7 +12,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - user-directed second glyph re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61; 5 corrections / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **READY / NEXT — not started**;
+- assembled Tamil: **IN PROGRESS — Chapter 1 / 23 VERIFIED; scans 4–12 assembled**;
 - printed-page values are source-confirmed, not inferred.
 
 ## Printed-page mapping
@@ -56,7 +56,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 **PASSED.** The live page tree is continuous `0001`–`0179` with 179 canonical records. Printed-page mapping and Chapters 1–23 remain source-confirmed; second historical-glyph re-audit is 61/61 PASS with 5 corrections and 0 unresolved. Durable cross-page joins and printer/signature/non-body decisions remain unchanged. `metadata/source.md` was synchronized from an obsolete 111-page progress snapshot to the completed state. No canonical page text changed during the full source audit.
 
-Next layer: **assembled Tamil reading layer — READY / NEXT**.
+Assembled layer: **IN PROGRESS — Chapter 1 / 23 VERIFIED; scans 4–12**.
 
 ## Historical-glyph rule
 
@@ -186,9 +186,19 @@ Second re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61; 5 corrections /
 - scans **1–179** — canonical / verified;
 - second re-audit **119–179 PASS / COMPLETE**;
 - full Tamil source audit **PASSED**;
-- assembled Tamil reading layer **READY / NEXT — not started**;
+- assembled Tamil reading layer **IN PROGRESS — Chapter 1 / 23 VERIFIED; scans 4–12**;
 - no page-level transcription gap remains.
+
+## Assembled Tamil chapter coverage
+
+| Chapter | Source scans | Assembly status |
+|---:|---:|---|
+| 1 | 4–12 | **VERIFIED** |
+| 2 | 13–22 | **NEXT** |
+| 3–23 | 23–179 | pending |
+
+`sections/01-chapter-01.md` retains reversible provenance and only verified page-boundary joins. Canonical `pages/` remain authoritative and unchanged.
 
 ## Exact next activity
 
-Build the **assembled Tamil reading layer** from the PASSED canonical `pages/` source layer. Preserve source wording and page provenance, organize around the source's 23 chapters, and join only verified cross-page continuities. Run the assembled layer's own source-coverage / continuity / canonical-authority consistency check before marking it **PASSED**. English remains blocked until then.
+Assemble **Chapter 2 only — scans 13–22** into `sections/02-chapter-02.md`, verify against canonical records, then advance assembly coverage to **2 / 23**. English remains blocked.

@@ -19,7 +19,7 @@
 - second re-audit corrections: **5 total / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **READY / NEXT — not started**;
+- assembled Tamil: **IN PROGRESS — Chapter 1 / 23 VERIFIED; scans 4–12 assembled**;
 - English: **blocked until assembled Tamil passes its own consistency gate**.
 
 ## Mandatory historical-glyph rule
@@ -207,6 +207,16 @@ Older source/boundary decisions remain authoritative in `audit.md` and `indexes/
 
 **PASSED.** The canonical source layer has 179/179 continuous page records, Chapters 1–23, source-confirmed printed-page mapping, 0 unresolved source holds, complete historical-glyph gates, and the five second-pass source corrections preserved. The audit also found `metadata/source.md` carrying an obsolete 111-page progress snapshot; it was synchronized to the completed 179-page state. No canonical Tamil text change was required by the full source audit.
 
+## Assembled Tamil reading layer — progress
+
+- assembly directory: `sections/`;
+- `01-chapter-01.md` — **VERIFIED**, scans **4–12**;
+- current assembled chapter coverage: **1 / 23**;
+- canonical `pages/` unchanged;
+- whole assembled layer remains **IN PROGRESS**.
+
+Chapter 1 preserves page provenance and uses only verified joins: scan 4→5 (`ஏதோ` → `இன்பக்கனவுகளோ`), scan 5→6 (`அவைகளே` → `கேலிக்குரியதாக`), scan 8→9 (`கிழக்கு வானம் வெளுக்கத்` → `துவங்கிவிட்டது.`), and scan 10→11 (`இருந்தாள்—` → quoted continuation). Tiruppavai verse layout is preserved as source text.
+
 ## Exact next activity
 
-Create the **assembled Tamil reading layer** from the audited canonical `pages/` records. Preserve source wording and provenance; join only verified cross-page continuities; structure the reading layer around the source's 23 chapters. Run the assembled layer's own completeness/continuity check before marking it PASSED. English remains blocked until assembled Tamil passes.
+Assemble **Chapter 2 only — scans 13–22** into `sections/02-chapter-02.md`; verify provenance and canonical fidelity, then advance assembly progress to **2 / 23**. English remains blocked.

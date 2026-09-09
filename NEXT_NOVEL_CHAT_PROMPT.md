@@ -1,60 +1,55 @@
-# Next Chat Prompt — வெள்ளிக்கிழமை / assembled Tamil reading layer
+# Next Chat Prompt — வெள்ளிக்கிழமை / assembled Tamil Chapter 2
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Source
+## Source / authority
 
-`TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-256 `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`, **179 scans**, image-only, second edition 1968. Do not commit it.
+Controlling source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-256 `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`, 179 scans, second edition 1968. Do not commit it.
+
+Authority order for this phase: audited canonical `pages/` → derived `sections/`. Never re-transcribe or normalize during assembly.
 
 ## Durable state
 
-- canonical page records: **179 / 179 — COMPLETE**;
-- final narrative: **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
-- forward mandatory historical-glyph coverage: **PASS scans 1–179**;
-- second historical-glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS**;
-- second-pass corrections: **5 total / 0 unresolved**;
-- unresolved source holds: **0**;
-- full Tamil source audit: **PASSED**;
-- Tamil source layer: **PASSED**;
-- assembled Tamil: **READY / NEXT — not started**;
-- English: **blocked until assembled Tamil passes its own consistency gate**.
+- canonical page records: **179 / 179 — COMPLETE / VERIFIED**;
+- Tamil source audit: **PASSED**;
+- second historical-glyph re-audit: **COMPLETE — 61 / 61, 5 corrections, 0 unresolved**;
+- assembled Tamil: **IN PROGRESS — Chapter 1 / 23 VERIFIED**;
+- assembled source coverage: **scans 4–12**;
+- English: **blocked until all 23 assembled chapters pass the final assembled-layer consistency gate**.
 
-## Full Tamil source audit result
+## Completed assembly batch
 
-The full canonical-layer audit PASSED: 179/179 continuous records, single `vellikkizhamai` work identity, Chapters 1–23, source-confirmed printed-page mapping including scan 66's visible `5`, historical-glyph gates complete, five second-pass source corrections present, durable page-boundary continuities preserved, and non-body marks kept out of narrative. `metadata/source.md` was synchronized because it still contained an obsolete 111/179 progress snapshot. No canonical Tamil text changed in the full source audit.
+`works/vellikkizhamai/sections/01-chapter-01.md`
 
-Do not reopen the completed 119–179 second glyph re-audit or the PASSED Tamil source layer without new direct-source evidence.
+- source coverage: scans **4–12**;
+- Chapter 1 only;
+- derived solely from audited `pages/`;
+- page provenance retained with HTML comments;
+- only verified cross-page continuities joined;
+- Tiruppavai verse structure preserved;
+- canonical page files unchanged;
+- section status: **VERIFIED**.
 
-## Controlling phase — assembled Tamil reading layer
+Verified joins include scan 4 `ஏதோ` → scan 5 `இன்பக்கனவுகளோ`, scan 5 `அவைகளே` → scan 6 `கேலிக்குரியதாக`, scan 8 `கிழக்கு வானம் வெளுக்கத்` → scan 9 `துவங்கிவிட்டது.`, and scan 10 `இருந்தாள்—` → scan 11 quoted continuation.
 
-Follow `NOVEL_PROCESSING_GUIDE.md`. The canonical `pages/` records remain authority.
+## Assembly rules
 
-Assembly rules:
+Follow `NOVEL_PROCESSING_GUIDE.md` and `works/balipeedam-nokki/sections/` conventions:
 
-1. derive assembled prose only from audited canonical `pages/`;
-2. preserve source spelling, punctuation, dialogue, historical forms and intentional oddities;
-3. exclude page observations, printer/signature marks, illustration descriptions and later handwriting from reading prose;
-4. retain provenance back to source scans/pages (HTML comments or the repository's established assembly convention);
-5. join only already-verified cross-page continuities — never repair grammar or infer missing text;
-6. use the source's **23-chapter structure** as the primary organization; do not force-fit another work's section scheme;
-7. canonical page files must not be changed merely to make assembly read smoothly;
-8. after assembly, run a complete source-coverage / chapter-boundary / cross-page-continuity / canonical-authority consistency check;
-9. mark assembled Tamil **PASSED** only after that check;
-10. do not start English translation until assembled Tamil PASSES.
-
-## Source decisions that assembly must preserve
-
-- scan 66 visibly prints only `5`; do not infer `65`;
-- printer/signature marks are non-body: scans 82 `6`, 98 `7`, 114 `8`, 130 `9`, 146 `10`, 162 `11—A`;
-- scan 151 source punctuation is `அங்கே வந்து,`;
-- scan 163 canonical source phrase is `ஆனந்தியின் பிணத்தின் மீது`;
-- scan 164 source forms include `நயினாவால்` and `“ஏன் சார்?”`;
-- scan 165 source is `அவளது சவம்`;
-- scan 171 preserves `அங்கிருந்த வாறு`;
-- scan 179 ends `திரும்பினர்கள்.`; lower illustration and faint later handwriting are non-body.
-
-Verified joins include, among others: `புகை` + `வண்டி`, `வாழ்` + `விலே`, `அழகப்ப` + `னுடைய`, `பின்னிக்` + `கொண்டன`, `புறப்` + `பட்டுவிட்டாயே!`, `தேவ` + `லோகத்தில்`, `சோலை` + `யில்`, `கத்தி` + `னான்.`. Preserve the literal scan 156/157 transition `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.` without reconstruction.
+1. derive only from audited canonical page text;
+2. preserve source spelling, punctuation, dialogue, historical forms, paragraph/verse structure and oddities;
+3. exclude page-audit notes, printer/signature marks, illustrations and later handwriting from reading prose;
+4. retain reversible source-scan/page provenance;
+5. join only continuities already verified in canonical page/audit records;
+6. do not alter canonical `pages/` merely for readability;
+7. one source chapter per assembly iteration / commit;
+8. do not mark the whole assembled layer PASSED until Chapters 1–23 and the final consistency gate are complete;
+9. English remains blocked.
 
 ## Exact next activity
 
-Inspect the completed reference assembly conventions in `works/balipeedam-nokki/` and the existing `works/vellikkizhamai/` directory. Then create the **assembled Tamil reading layer** for `வெள்ளிக்கிழமை` from all 179 canonical records, organized by the source's 23 chapters, with provenance and only verified joins. Run the assembled-layer audit before declaring it PASSED. English remains blocked.
+Create and verify **Chapter 2 only**, source scans **13–22**, as:
+
+`works/vellikkizhamai/sections/02-chapter-02.md`
+
+Preserve provenance and verified joins. Then update `sections/README.md`, work README, `audit.md`, `HANDOVER.md`, this prompt, and the page-map assembly state to **2 / 23**. Do not begin Chapter 3 in the same iteration.
