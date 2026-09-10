@@ -1,38 +1,44 @@
 # English Translation — அரும்பு
 
-Status: **WHOLE-WORK ENGLISH VERIFIED — SECTION 16 PASS / COMPLETE**.
+Status: **SECTION 17 NOT READY — SECTION 16 CORRECTIVE RE-OPEN REQUIRED**.
 
 Working English title: **The Bud**.
 
-The audited Tamil `../../pages/` layer remains final textual authority; [`../../sections/01-arumbu.md`](../../sections/01-arumbu.md) is reading-continuity support. The English reading layer is [`sections/01-arumbu.md`](sections/01-arumbu.md).
+The audited Tamil `../../pages/` layer remains final textual authority; `../../sections/01-arumbu.md` is reading-continuity support. The English reading layer is `sections/01-arumbu.md`.
 
 ## Gate state
 
 - Section 14 translation plan — **PASS / COMPLETE**;
-- Batch 1 scans **6–10** — **REVIEWED / COMPLETE**;
-- Batch 2 scans **11–15** — **REVIEWED / COMPLETE**;
-- Batch 3 scans **16–20** — **REVIEWED / COMPLETE**;
-- Batch 4 scans **21–23** — **REVIEWED / COMPLETE**;
+- English Batches 1–4 — **4 / 4 REVIEWED / COMPLETE**;
 - English source coverage — **18 / 18 scans, 6–23**;
-- Section 16 whole-work bilingual review — **PASS / COMPLETE**;
-- whole-work English — **VERIFIED**;
-- unresolved translation items — **0**;
-- Section 17 release-readiness — **NEXT**.
+- Section 16 whole-work bilingual review — **previously PASS / COMPLETE; corrective re-open now required**;
+- whole-work English VERIFIED label — **SUSPENDED pending scan-17 correction/recheck**;
+- Section 17 release-readiness — **NOT READY**;
+- release blocker — **1 English/source fidelity mismatch**.
 
-## Section 16 closure
+## Release-preflight blocker
 
-[`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) records the independent full-work comparison against all 18 canonical Tamil records. The review checked complete coverage/order, duplication, omissions/additions, speaker and actor agency, recurring names/terminology, source rhetoric, every established cross-page join, one-section structural identity, provenance, protected source oddities, and the final page.
+Section 17 found that canonical scan 17 / printed page 13 reads:
 
-Three English-only corrections were made during the gate:
+`எனக்குப் பொய் அம்மா வேணும்! நிஜ அம்மாதான் வேணும்!`
 
-1. scan 15→16 `without any want` → **`safe and sound`** for `ஒரு குறையும் இல்லாம காப்பாத்துங்க`;
-2. scan 21→22 ambiguous `he` → **Kumar** to preserve source responsibility;
-3. scan 23 `inheritance of womankind` → **`the feeling of motherhood belongs to womankind`** for `பெண் குலத்தின் சொத்தாயிற்றே`.
+but the current English has:
 
-After correction: **0 material omissions / 0 source-like additions / 0 unresolved items**. Canonical Tamil was not changed.
+`I don't want a fake Amma! I want my real Amma!`
 
-Protected source handling remains locked in [`GLOSSARY.md`](GLOSSARY.md): scan 22 `பேசினேன்` → **I spoke**; scan 23 `அம்மனார்` → **Ammanar**; final `இனி:......` → **from now on:......**; no unprinted **The End**.
+The inserted English negation `don't` is not present in the audited source. Because source strangeness must not be silently corrected from context, the English sentence requires a narrow corrective re-open and re-verification. Canonical Tamil remains unchanged.
+
+See `RELEASE_REPORT.md` for the Section 17 NOT READY verdict.
+
+## Existing protected source handling
+
+These remain valid:
+
+- scan 22 `பேசினேன்` → **I spoke**;
+- scan 23 `அம்மனார்` → **Ammanar**;
+- final `இனி:......` → **from now on:......**;
+- no source `முற்றும்` → no **The End**.
 
 ## Exact next activity
 
-Execute **Section 17 release-readiness for `அரும்பு` only**. Create `RELEASE_REPORT.md`; verify work/source identity, Tamil and English inventories, bilingual-review result, reader-facing navigation, authority hierarchy, structural identity, documented source oddities, canonical-Tamil immutability, and source-PDF exclusion. Record an archival/editorial release-ready or not-ready verdict and stop before another component work.
+Perform a **narrow Section 16 corrective re-open for scan 17 only**: preserve the affirmative source wording in English, document the oddity in `GLOSSARY.md` and `TRANSLATION_REVIEW.md`, recheck the affected paragraph and joins, restore VERIFIED only if the correction passes, synchronize controls, commit, and stop. Then rerun Section 17 release-readiness.
