@@ -20,7 +20,7 @@ Component handling:
 
 - [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **ACTIVE**;
 - [`சாரப்பள்ளம் சாமுண்டி`](works/sarapallam-samundi/README.md) — scans 24–48 — registered / queued;
-- [`பெரிய இடத்துப் பெண்`](works/periya-idathup-pen/README.md) — scans 49–74 — registered as an **additional witness** to the existing work, not a duplicate;
+- [`பெரிய இடத்துப் பெண்`](works/periya-idathup-pen/README.md) — scans 49–74 — additional witness to the existing work, not a duplicate;
 - [`நடுத்தெரு நாராயணி`](works/nadutheru-narayani/README.md) — scans 75–90 — registered / queued.
 
 Collection front matter is scans 1–5; publisher catalogue/back-cover matter is scans 91–92. The source PDF remains external to the repository.
@@ -29,21 +29,22 @@ Collection front matter is scans 1–5; publisher catalogue/back-cover matter is
 
 Source batches use three separately durable checkpoints:
 
-1. T1 direct transcription/canonical records;
-2. T2 independent historical-glyph re-read;
-3. T3 final source-fidelity closure.
+1. T1 — one direct visual transcription pass + canonical records;
+2. T2 — independent historical-glyph re-read;
+3. T3 — final source-fidelity closure.
+
+T1 must not absorb T2/T3-style repeated verification. Each stage synchronizes controls and commits separately.
 
 Current `அரும்பு` state:
 
-- canonical records: **5 / 18**;
+- canonical records: **10 / 18 — scans 6–15**;
 - verified records: **5 / 18 — scans 6–10**;
-- scans 6–10 T1: **PASS / COMPLETE**;
-- scans 6–10 T2: **PASS / COMPLETE — 4 corrections / 0 unresolved**;
-- scans 6–10 T3: **PASS / COMPLETE — 19 additional corrections / 0 unresolved**;
-- scans 11–15 T1: **NEXT**;
-- scans 11–15 T2/T3: blocked until the preceding checkpoint is durably complete.
+- scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
+- scans 11–15 T1: **PASS / COMPLETE — 5 `needs-review` records**;
+- scans 11–15 T2: **NEXT**;
+- scans 11–15 T3: blocked until T2 passes.
 
-Exact next action: **`அரும்பு` scans 11–15 / T1 only**. Directly transcribe those five physical scans, create non-final canonical records using only directly visible printed-page numbers, synchronize controls, commit, and stop before T2.
+Directly visible printed pages for scans 11–15 are **6, 7, 8, 10, 11**; printed page 9 is not inferred. Exact next action: **`அரும்பு` scans 11–15 / T2 only**, then control sync + separate commit + stop before T3.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 

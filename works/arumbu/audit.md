@@ -6,10 +6,13 @@
 |---|---|
 | Collection/source intake | **PASS / COMPLETE** |
 | Work identity / scan boundary | **PASS — scans 6–23** |
-| Page-level Tamil transcription | **IN PROGRESS — 5 / 18 canonical records** |
+| Page-level Tamil transcription | **IN PROGRESS — 10 / 18 canonical records** |
 | Scans 6–10 T1 | **PASS / COMPLETE** |
 | Scans 6–10 T2 historical-glyph gate | **PASS / COMPLETE — 4 corrections / 0 unresolved** |
 | Scans 6–10 T3 final source-fidelity closure | **PASS / COMPLETE — 19 additional corrections / 0 unresolved** |
+| Scans 11–15 T1 | **PASS / COMPLETE — 5 records / needs-review** |
+| Scans 11–15 T2 | **NEXT** |
+| Scans 11–15 T3 | BLOCKED by T2 |
 | Verified canonical pages | **5 / 18 — scans 6–10** |
 | Full Tamil audit | BLOCKED until all component pages complete |
 | Assembled Tamil | BLOCKED |
@@ -21,42 +24,33 @@ No source PDF is committed.
 
 The active source workflow follows root `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`:
 
-- **T1** — direct visual transcription + canonical page records + printed-page visibility; control sync + commit;
+- **T1** — one direct visual transcription pass + canonical page records + exact visible printed-page numbering; control sync + commit;
 - **T2** — independent historical-glyph re-read; control sync + commit;
 - **T3** — final source-fidelity closure; control sync + commit.
 
-Each checkpoint is kept as a separate durable state.
+T1 does not absorb repeated crop loops, independent glyph verification, or exhaustive fidelity checking. Difficult first-pass readings may remain `needs-review` for T2/T3.
 
 ## Closed batch — scans 6–10
 
-### T1 — PASS / COMPLETE
-
-Canonical records created for scans 6–10. Printed-page visibility: `null`, `2`, `3`, `4`, `5`.
-
-### T2 — PASS / COMPLETE
-
-Independent historical-glyph re-read completed across all five pages. Four direct character-identity corrections were made and **0 unresolved historical glyphs** remain. See [`T2_BATCH_006_010.md`](T2_BATCH_006_010.md).
-
-### T3 — PASS / COMPLETE
-
-Final source-fidelity re-read completed across all five pages. It checked omissions, duplicated/displaced text, paragraph/page structure, printed-page visibility, non-body material, physical joins and the retained T2 fixes.
-
-T3 made **19 additional source-pixel corrections** and left **0 unresolved source readings**. See [`T3_BATCH_006_010.md`](T3_BATCH_006_010.md).
-
-The five canonical page records are therefore **VERIFIED**.
-
-Physical joins retained in-place:
-
-- scan 7→8: `நடந்` / `தேறின.`;
-- scan 8→9: `அபிநய` / `அசைவுகளை...`;
-- scan 9→10: `...வைத்தியரை அழைத்து` / `வந்துவிடுகிறேன்”...`.
+T1, T2 and T3 are **PASS / COMPLETE**. Five records are **VERIFIED**. See `T1_BATCH_006_010.md`, `T2_BATCH_006_010.md`, `T3_BATCH_006_010.md`.
 
 ## Active batch — scans 11–15
 
-- T1 — **NEXT**;
-- T2 — BLOCKED by T1;
-- T3 — BLOCKED by T2.
+### T1 — PASS / COMPLETE
 
-## Exact next activity
+See [`T1_BATCH_011_015.md`](T1_BATCH_011_015.md).
 
-Execute **T1 only** for physical scans **11–15**: visually transcribe each complete page, create canonical page records with only directly visible printed-page numbers, preserve physical joins/non-body material, leave records `needs-review`, synchronize controls, commit, and stop before T2. Do not begin scan 16.
+- five direct visual first-pass records created;
+- page states remain `needs-review`;
+- directly visible printed pages: **6, 7, 8, 10, 11**;
+- printed page 9 is **not inferred**;
+- scan 13 illustration is separated from body text;
+- joins preserved: 11→12 `போய்` / `விட்டனர்.` and 13→14 `ஊற்றெடுத்துக் கிளம்பிவரும்` / `அருவி!`;
+- scan 15 ends at source-visible `செல்லக்`; scan 16 was not inspected;
+- no T2/T3 work was folded into T1.
+
+### T2 — NEXT
+
+Independently re-read scans 11–15 under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, correct only source-supported character identities, synchronize controls, commit, and stop before T3.
+
+Do not begin scan 16.
