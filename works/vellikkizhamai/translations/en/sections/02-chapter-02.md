@@ -151,7 +151,7 @@ The laughter stopped at once. They spoke softly among themselves.
 
 "Hey, hey... look there! Tiger! Tiger!" they pointed out to one another in fear.
 
-"Has that frog come... that mandukam?" Chintamani asked, her voice mixing mockery and anger.
+"Has that frog come?" Chintamani asked, her voice mixing mockery and anger.
 
 "I told you earlier that we should go home quickly! Did any of you listen when I said we should leave before that wretch laid eyes on us?" Kanta lamented.
 
