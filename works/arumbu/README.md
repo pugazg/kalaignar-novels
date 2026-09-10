@@ -7,59 +7,44 @@
 
 ## Current state
 
-- work identity: **CONFIRMED from component title page**;
+- work identity: **CONFIRMED**;
 - collection/source intake: **COMPLETE**;
 - physical component span: **18 scans**;
 - canonical page records: **15 / 18 — scans 6–20**;
-- verified pages: **10 / 18 — scans 6–15 contiguous**;
+- verified pages: **15 / 18 — scans 6–20 contiguous**;
 - scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
 - scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
-- scans 16–20 T1 direct visual transcription: **PASS / COMPLETE**;
-- scans 16–20 T2 historical-glyph re-read: **PASS / COMPLETE — 1 character-identity correction / 0 unresolved**;
-- scans 16–20 page status: **5 `needs-review`**;
-- scans 16–20 T3 final source-fidelity closure: **NEXT**;
-- scans 21–23: **not started**;
+- scans 16–20 T1: **PASS / COMPLETE**;
+- scans 16–20 T2: **PASS / COMPLETE — 1 correction / 0 unresolved**;
+- scans 16–20 T3: **PASS / COMPLETE — 11 additional corrections / 0 unresolved**;
+- scans 21–23 T1: **NEXT**;
 - assembled Tamil: **BLOCKED**;
 - English: **BLOCKED**.
 
-This work is the first component of the 1978 four-story compilation and shares its title with the volume itself. Collection provenance is recorded at `../../collections/arumbu-1978/`.
+This is the first component of the 1978 four-story compilation. Collection provenance is recorded at `../../collections/arumbu-1978/`.
 
-## Active checkpoint workflow
+## Checkpoint workflow
 
-Source batches follow root [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](../../SOURCE_BATCH_CHECKPOINT_WORKFLOW.md):
-
-1. **T1** — one direct visual transcription pass + canonical records + exact visible numbering → control sync → commit → stop;
-2. **T2** — independent historical-glyph / character-identity re-read → control sync → commit → stop;
-3. **T3** — exhaustive final source-fidelity closure → control sync → commit → stop;
-4. only after T3 may the next batch begin.
-
-T1 must not absorb repeated character-level crop loops, historical-glyph verification, or exhaustive T3 checking.
+Source batches follow [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](../../SOURCE_BATCH_CHECKPOINT_WORKFLOW.md): T1 direct transcription → sync/commit/stop; T2 independent historical-glyph re-read → sync/commit/stop; T3 final source-fidelity closure → sync/commit/stop.
 
 ## Closed batches
 
 ### Scans 6–10
 
-- [`T1_BATCH_006_010.md`](T1_BATCH_006_010.md) — PASS;
-- [`T2_BATCH_006_010.md`](T2_BATCH_006_010.md) — PASS, 4 character-identity corrections / 0 unresolved;
-- [`T3_BATCH_006_010.md`](T3_BATCH_006_010.md) — PASS, 19 additional source-fidelity corrections / 0 unresolved;
-- five records — **VERIFIED**.
+T1/T2/T3 **PASS / COMPLETE**; five records **VERIFIED**. T2: 4 corrections; T3: 19 additional corrections; unresolved: 0.
 
 ### Scans 11–15
 
-- [`T1_BATCH_011_015.md`](T1_BATCH_011_015.md) — PASS;
-- [`T2_BATCH_011_015.md`](T2_BATCH_011_015.md) — PASS, 1 historical `ளை` correction / 0 unresolved;
-- [`T3_BATCH_011_015.md`](T3_BATCH_011_015.md) — PASS, 2 additional source-fidelity corrections / 0 unresolved;
+T1/T2/T3 **PASS / COMPLETE**; five records **VERIFIED**. T2: 1 correction; T3: 2 additional corrections; unresolved: 0.
+
+### Scans 16–20
+
+- [`T1_BATCH_016_020.md`](T1_BATCH_016_020.md) — PASS;
+- [`T2_BATCH_016_020.md`](T2_BATCH_016_020.md) — PASS, 1 character-identity correction / 0 unresolved;
+- [`T3_BATCH_016_020.md`](T3_BATCH_016_020.md) — PASS, 11 additional source-fidelity corrections / 0 unresolved;
 - five records — **VERIFIED**.
 
-## Active batch — scans 16–20
-
-- [`T1_BATCH_016_020.md`](T1_BATCH_016_020.md) — **PASS / COMPLETE**;
-- [`T2_BATCH_016_020.md`](T2_BATCH_016_020.md) — **PASS / COMPLETE — 1 character-identity correction / 0 unresolved**;
-- T3 — **NEXT**.
-
-T2 corrected scan 17 `தனியாத பாசத்தைத்` → **`தணியாத பாசத்தைத்`** from direct source pixels. All five records remain `needs-review` until T3.
-
-Directly visible printed pages are **12, 13, 14, 15, 16**.
+Directly visible printed pages: **12, 13, 14, 15, 16**.
 
 Preserved physical joins:
 
@@ -70,4 +55,4 @@ Preserved physical joins:
 
 ## Exact next activity
 
-**T3 final source-fidelity closure for physical scans 16–20 only.** Re-read the five canonical records against direct source pixels for omissions, duplicated/misplaced text, punctuation/spacing fidelity, joins and non-body separation; apply only scan-supported corrections; mark pages verified only if the batch fully passes; synchronize controls, commit T3 separately, and stop before scan 21.
+**T1 for final physical scans 21–23 only.** Visually transcribe each whole page once, create three canonical `needs-review` records, record only directly visible printed-page numbers, preserve physical joins/non-body material, synchronize controls, commit T1 immediately, and stop before T2. Do not begin `சாரப்பள்ளம் சாமுண்டி` in the same checkpoint.

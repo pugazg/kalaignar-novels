@@ -34,58 +34,32 @@ Scans 1–5 are collection front matter; scans 91–92 publisher catalogue/back-
 
 ## Small-task checkpoint workflow
 
-Root `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md` is authoritative:
-
-1. **T1** — one direct visual transcription pass + canonical records + exact visible numbering → control sync → commit → stop;
-2. **T2** — independent historical-glyph / character-identity re-read → control sync → commit → stop;
-3. **T3** — final source-fidelity closure → control sync → commit → stop;
-4. only then may the next source batch begin.
-
-Do not fold T2/T3 work into T1.
+Root `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md` is authoritative: T1 direct visual transcription → sync/commit/stop; T2 independent historical-glyph re-read → sync/commit/stop; T3 final source-fidelity closure → sync/commit/stop. Do not fold later-stage work into an earlier checkpoint.
 
 ## `அரும்பு` durable state
 
 - work span: **18 scans — physical 6–23**;
 - canonical records: **15 / 18 — scans 6–20**;
-- verified canonical records: **10 / 18 — scans 6–15 contiguous**;
+- verified canonical records: **15 / 18 — scans 6–20 contiguous**;
 - scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
 - scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
 - scans 16–20 T1: **PASS / COMPLETE**;
-- scans 16–20 T2: **PASS / COMPLETE — 1 character-identity correction / 0 unresolved**;
-- scans 16–20 T3: **NEXT**;
-- scans 21–23: not started.
+- scans 16–20 T2: **PASS / COMPLETE — 1 correction / 0 unresolved**;
+- scans 16–20 T3: **PASS / COMPLETE — 11 additional corrections / 0 unresolved**;
+- scans 21–23 T1: **NEXT**;
+- assembled Tamil and English remain BLOCKED.
 
-Scans 16–20 directly visible printed pages: **12, 13, 14, 15, 16**.
+Scans 16–20 directly visible printed pages: **12, 13, 14, 15, 16**. Preserved joins: 15→16 `செல்லக்` / `குழந்தையை—...`; 16→17 `அவர்களைக்-` / `கவனிக்கிறான்.`; 18→19 `செலவா` / `யிற்று.`; 19→20 `கடிந்துகொண்` / `டிருக்கிறாள்.`.
 
-T2 correction:
-
-- scan 17 / printed 13: `தனியாத பாசத்தைத்` → **`தணியாத பாசத்தைத்`**; direct source pixels show retroflex `ண`. Known 13-family corrections in this T2 batch: 0; additional character-identity corrections: 1; unresolved: 0.
-
-Physical joins/edges retained:
-
-- 15→16: `செல்லக்` / `குழந்தையை—...`;
-- 16→17: `அவர்களைக்-` / `கவனிக்கிறான்.`;
-- 18→19: `செலவா` / `யிற்று.`;
-- 19→20: `கடிந்துகொண்` / `டிருக்கிறாள்.`.
-
-Checkpoint records now include:
-
-- `works/arumbu/T1_BATCH_016_020.md` — PASS;
-- `works/arumbu/T2_BATCH_016_020.md` — PASS.
-
-## Numbering/source rule
-
-Record printed page numbers only when directly visible. Never infer missing numbering from sequence. Source pixels control fidelity decisions; OCR/context is not authority.
+T3 restored source-supported wording including `அனுயாசமாகக்`, `இருதயத்திலே`, `அடியெடுத்து வைத்த`, `அலுவலகத்திலிருந்து`, `என்ற ஆராய்ச்சியில்`, `பழகும், வளமும் இருக்கும் போதே`, scan-19 wording/spacing, and scan-20 `தூங்காமல் புரண்டுகொண்டிருந்த குமார், மெதுவாக எழுந்தான்.`. Unresolved source readings: **0**.
 
 ## Exact next activity
 
-Execute **`அரும்பு` scans 16–20 / T3 only**:
+Execute **`அரும்பு` scans 21–23 / T1 only**:
 
-- final source-fidelity comparison of the five canonical records against direct source pixels;
-- check omissions, duplication/misplacement, source spelling, punctuation/spacing, joins and non-body separation;
-- apply only direct-source-supported corrections;
-- mark all five pages `verified` only if the complete T3 batch passes with no unresolved readings;
-- synchronize affected controls and commit T3 separately;
-- stop before scan 21.
-
-Do not begin another component or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.
+- visually transcribe each complete physical scan once;
+- create canonical `needs-review` records;
+- record only directly visible printed-page numbers;
+- preserve physical joins, illustrations and non-body marks separately;
+- synchronize affected controls and commit T1 immediately;
+- stop before T2 and before starting `சாரப்பள்ளம் சாமுண்டி`.

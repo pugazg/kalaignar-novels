@@ -23,8 +23,6 @@ Component handling:
 - [`பெரிய இடத்துப் பெண்`](works/periya-idathup-pen/README.md) — scans 49–74 — additional witness to the existing work, not a duplicate;
 - [`நடுத்தெரு நாராயணி`](works/nadutheru-narayani/README.md) — scans 75–90 — registered / queued.
 
-Collection front matter is scans 1–5; publisher catalogue/back-cover matter is scans 91–92. The source PDF remains external to the repository.
-
 ### Active small-task checkpoint
 
 Source batches use three separately durable checkpoints: T1 direct transcription/canonical records, T2 independent historical-glyph re-read, and T3 final source-fidelity closure. Each stage synchronizes controls and commits separately.
@@ -32,15 +30,15 @@ Source batches use three separately durable checkpoints: T1 direct transcription
 Current `அரும்பு` state:
 
 - canonical records: **15 / 18 — scans 6–20**;
-- verified records: **10 / 18 — scans 6–15 contiguous**;
+- verified records: **15 / 18 — scans 6–20 contiguous**;
 - scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
 - scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
-- scans 16–20 T1: **PASS / COMPLETE**;
-- scans 16–20 T2: **PASS / COMPLETE — 1 character-identity correction / 0 unresolved**;
-- scans 16–20 T3: **NEXT**;
-- scans 21–23: not-started.
+- scans 16–20 T1/T2/T3: **PASS / COMPLETE**;
+- scans 16–20 T2: 1 correction / 0 unresolved;
+- scans 16–20 T3: 11 additional source-fidelity corrections / 0 unresolved;
+- scans 21–23 T1: **NEXT**.
 
-T2 corrected scan 17 `தனியாத பாசத்தைத்` → **`தணியாத பாசத்தைத்`**. Directly visible printed pages for scans 16–20 are **12, 13, 14, 15, 16**. Exact next action: **`அரும்பு` scans 16–20 / T3 only**, followed by control sync + separate commit + stop before scan 21.
+Exact next action: **`அரும்பு` scans 21–23 / T1 only**, followed by control sync + separate commit + stop before T2.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 
