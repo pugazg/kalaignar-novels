@@ -19,12 +19,18 @@ This directory records the source-volume identity and component-work map for the
 | Physical scans | Component | Repository handling | Current state |
 |---|---|---|---|
 | 1–5 | collection front matter | `collections/arumbu-1978/` | REGISTERED |
-| 6–23 | `அரும்பு` | `works/arumbu/` | **TAMIL + ASSEMBLED TAMIL + ENGLISH PLAN PASSED; ENGLISH BATCHES 1–3 REVIEWED; BATCH 4 NEXT** |
+| 6–23 | `அரும்பு` | `works/arumbu/` | **TAMIL + ASSEMBLED TAMIL + ENGLISH PLAN PASSED; ENGLISH BATCHES 1–4 REVIEWED; SECTION 16 BILINGUAL REVIEW NEXT** |
 | 24–48 | `சாரப்பள்ளம் சாமுண்டி` | `works/sarapallam-samundi/` | INTAKE COMPLETE / QUEUED |
 | 49–74 | `பெரிய இடத்துப் பெண்` | existing work | ADDITIONAL SOURCE WITNESS REGISTERED |
 | 75–90 | `நடுத்தெரு நாராயணி` | `works/nadutheru-narayani/` | INTAKE COMPLETE / QUEUED |
 | 91–92 | publisher catalogue / back cover | collection | REGISTERED |
 
-For `அரும்பு`, canonical Tamil is **18/18 VERIFIED**, whole-work Tamil audit and assembled Tamil are **PASS**, English Batches **1–3** are **REVIEWED / COMPLETE**, and current English coverage is **15/18 scans (6–20)**. Batch 4 scans **21–23** is next.
+For `அரும்பு`, canonical Tamil is **18/18 VERIFIED**, whole-work Tamil audit and assembled Tamil are **PASS**, all four controlled English batches are **REVIEWED / COMPLETE**, and English prose coverage is **18/18 scans (6–23)**. Whole-work English remains **NOT YET VERIFIED** until the separate Section 16 bilingual review passes.
 
-The printed-page 8→10 jump remains source-visible without inventing page 9. Protected final-batch source oddities remain `பேசினேன்`, `அம்மனார்`, `இனி:......`, and the absence of explicit `முற்றும்`. The controlling PDF remains excluded from the repository.
+Batch 4 preserves the source-confirmed final oddities: scan 22 `பேசினேன்` as **I spoke**, scan 23 `அம்மனார்` as **Ammanar**, final `இனி:......` as **from now on:......**, and the absence of explicit `முற்றும்` by adding no **The End**.
+
+The printed-page 8→10 jump remains source-visible without inventing page 9. The controlling PDF remains excluded from the repository.
+
+## Exact next activity
+
+Execute the **Section 16 whole-work bilingual review** for `works/arumbu/` only, create `translations/en/TRANSLATION_REVIEW.md`, and mark English VERIFIED only if the full-work review passes. Stop before Section 17 release-readiness and before beginning another component work.
