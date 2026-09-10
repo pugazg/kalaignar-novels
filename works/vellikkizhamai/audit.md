@@ -14,7 +14,7 @@
 | Second-pass corrections | **5 total / 0 unresolved** |
 | Full Tamil source audit | **PASSED** |
 | Tamil source layer | **PASSED** |
-| Assembled Tamil | **IN PROGRESS — Chapters 1–19 / 23 VERIFIED** |
+| Assembled Tamil | **IN PROGRESS — Chapters 1–20 / 23 VERIFIED** |
 | English translation | **blocked until assembled Tamil passes** |
 
 ## Source-layer closure
@@ -26,6 +26,7 @@ The canonical `pages/` layer is complete and remains controlling. Source-specifi
 - Chapters 1–4 — **VERIFIED** in earlier chapter-sized iterations.
 - Chapters 5–9 — **VERIFIED** in an explicit user-authorized five-chapter batch.
 - Chapters 10–19 — **VERIFIED** in an explicit user-authorized ten-chapter batch.
+- Chapter 20 — **VERIFIED** in the default one-chapter workflow.
 
 ### Chapters 10–19 batch
 
@@ -48,8 +49,16 @@ A separate physical discontinuity at scan 117→118 remains deliberately **unrep
 
 Non-body printer/signature marks remain excluded from assembled prose, including scan 98 bottom `7`, scan 114 bottom `8`, scan 130 bottom `9`, scan 146 bottom `10`, and earlier recorded marks.
 
+### Chapter 20
+
+Chapter 20 was derived only from verified canonical scans **154 after centered `20` through 160 before centered `21`**. Scan 154's Chapter 19 carryover and scan 160's Chapter 21 opening were excluded at their centered headings. No canonical page record changed.
+
+Verified source continuities were represented reversibly: `சோலை` + `யில்` across scans 155→156; `பயங்கரமாக—` → `ஆனந்தியிருக்கும்` across scans 157→158; `வராத` + `கண்ணீர்,` across scans 158→159; and `அழகப்பனுக்கும்` + `ஒன்றும் புரியவில்லை.` across scans 159→160. The scan 156→157 source boundary remains literal and deliberately unrepaired: scan 156 ends `தலையிலும் காயம்` with no supplied punctuation and scan 157 begins `நயினா எதிர்த்தே அடிக்கவில்லை.`
+
+Chapter 20 assembly verification: **PASS — 0 unresolved / 0 canonical changes**.
+
 ## Assembled-layer status
 
-**IN PROGRESS — 19 / 23 chapters VERIFIED.**
+**IN PROGRESS — 20 / 23 chapters VERIFIED.**
 
-Exact next activity: assemble **Chapter 20**, from **scan 154 after centered `20` through scan 160 before centered `21`**, into `sections/20-chapter-20.md`. English remains blocked.
+Exact next activity: assemble **Chapter 21**, from **scan 160 after centered `21` through scan 166 before centered `22`**, into `sections/21-chapter-21.md`. English remains blocked.

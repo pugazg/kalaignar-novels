@@ -1,4 +1,4 @@
-# Next Chat Prompt — வெள்ளிக்கிழமை / assembled Tamil Chapter 20
+# Next Chat Prompt — வெள்ளிக்கிழமை / assembled Tamil Chapter 21
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -15,8 +15,8 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - second-pass corrections: **5 total / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **IN PROGRESS — Chapters 1–19 / 23 VERIFIED**;
-- assembled source coverage reaches **scan 154 before centered `20`**;
+- assembled Tamil: **IN PROGRESS — Chapters 1–20 / 23 VERIFIED**;
+- assembled source coverage reaches **scan 160 before centered `21`**;
 - English: **blocked until assembled Tamil passes its final consistency gate**.
 
 Do not reopen completed source/glyph work without genuinely new direct-source evidence.
@@ -25,9 +25,10 @@ Do not reopen completed source/glyph work without genuinely new direct-source ev
 
 - Chapters 1–4: previously VERIFIED in `sections/01` through `sections/04`;
 - Chapters 5–9: VERIFIED in a user-authorized five-chapter batch;
-- Chapters 10–19: VERIFIED in a user-authorized ten-chapter batch.
+- Chapters 10–19: VERIFIED in a user-authorized ten-chapter batch;
+- Chapter 20: VERIFIED in the default one-chapter workflow as `sections/20-chapter-20.md`.
 
-The Chapters 10–19 batch created `sections/10-chapter-10.md` through `sections/19-chapter-19.md`, all derived only from canonical page records. Mixed boundary scans were split at centered headings. Canonical source oddities and physical discontinuities were not repaired by grammar. No canonical `pages/` file changed.
+Chapter 20 covers scan 154 after centered `20` through scan 160 before centered `21`, derived only from canonical page records. Verified cross-page continuities were represented reversibly, while the literal scan 156→157 discontinuity was not repaired. Mixed boundary scans 154 and 160 were split at centered headings. No canonical `pages/` file changed.
 
 ## Assembly rules
 
@@ -43,10 +44,10 @@ The Chapters 10–19 batch created `sections/10-chapter-10.md` through `sections
 
 ## Exact next activity
 
-Create and verify **Chapter 20**:
+Create and verify **Chapter 21**:
 
-`works/vellikkizhamai/sections/20-chapter-20.md`
+`works/vellikkizhamai/sections/21-chapter-21.md`
 
-Coverage: **scan 154 after centered `20` through scan 160 before centered `21`**.
+Coverage: **scan 160 after centered `21` through scan 166 before centered `22`**.
 
-Then synchronize `sections/README.md`, work `README.md`, `audit.md`, `HANDOVER.md`, this prompt and `indexes/page-map.md` to **20 / 23**. Do not start English.
+Then synchronize `sections/README.md`, work `README.md`, `audit.md`, `HANDOVER.md`, this prompt and `indexes/page-map.md` to **21 / 23**. Do not start English.

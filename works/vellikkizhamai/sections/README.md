@@ -27,8 +27,8 @@ The source has **23 chapters**. Mixed boundary scans are split at the source-pri
 | `17-chapter-17.md` | scan 134 after centered `17` → scan 142 before centered `18` | 17 | **VERIFIED** |
 | `18-chapter-18.md` | scan 142 after centered `18` → scan 149 before centered `19` | 18 | **VERIFIED** |
 | `19-chapter-19.md` | scan 149 after centered `19` → scan 154 before centered `20` | 19 | **VERIFIED** |
-| `20-chapter-20.md` | scan 154 after centered `20` → scan 160 before centered `21` | 20 | next |
-| `21-chapter-21.md` | scan 160 after centered `21` → scan 166 before centered `22` | 21 | pending |
+| `20-chapter-20.md` | scan 154 after centered `20` → scan 160 before centered `21` | 20 | **VERIFIED** |
+| `21-chapter-21.md` | scan 160 after centered `21` → scan 166 before centered `22` | 21 | next |
 | `22-chapter-22.md` | scan 166 after centered `22` → scan 172 before centered `23` | 22 | pending |
 | `23-chapter-23.md` | scan 172 after centered `23` → scan 179 | 23 | pending |
 
@@ -54,8 +54,14 @@ Important source-preservation decisions remain reversible in the section files, 
 
 Printer/signature marks remain excluded from reading prose, including scan 130 bottom `9`, scan 146 bottom `10`, and earlier recorded non-body marks.
 
+## Chapter 20 verification
+
+Chapter **20** was assembled from canonical scans **154 after centered `20` through 160 before centered `21`** and independently checked against those verified records. Mixed boundary scans 154 and 160 were split only at centered `20` and `21`; no canonical `pages/` file changed.
+
+Verified reading-layer joins are preserved reversibly: scan 155 `சோலை` + scan 156 `யில்` → `சோலையில்`; scan 157 `பயங்கரமாக—` continues with scan 158 `ஆனந்தியிருக்கும்`; scan 158 `வராத` + scan 159 `கண்ணீர்,`; and scan 159 `அழகப்பனுக்கும்` + scan 160 `ஒன்றும் புரியவில்லை.` The scan 156→157 physical discontinuity remains literal as `தலையிலும் காயம்` followed by `நயினா எதிர்த்தே அடிக்கவில்லை.` with no supplied punctuation or inferred repair.
+
 ## Current status
 
-**Assembly: IN PROGRESS — 19 / 23 chapters VERIFIED.**
+**Assembly: IN PROGRESS — 20 / 23 chapters VERIFIED.**
 
-Next: **Chapter 20 — scan 154 after centered `20` through scan 160 before centered `21`**. English remains blocked until the complete assembled Tamil layer passes its final consistency gate.
+Next: **Chapter 21 — scan 160 after centered `21` through scan 166 before centered `22`**. English remains blocked until the complete assembled Tamil layer passes its final consistency gate.

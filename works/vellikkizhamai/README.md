@@ -19,7 +19,7 @@
 - second-pass corrections: **5 total / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **IN PROGRESS — Chapters 1–19 / 23 VERIFIED**;
+- assembled Tamil: **IN PROGRESS — Chapters 1–20 / 23 VERIFIED**;
 - English: **blocked until assembled Tamil passes its final consistency gate**.
 
 ## Canonical authority
@@ -49,11 +49,12 @@
 | 17 | scan 134 after centered `17` → scan 142 before centered `18` | **VERIFIED** |
 | 18 | scan 142 after centered `18` → scan 149 before centered `19` | **VERIFIED** |
 | 19 | scan 149 after centered `19` → scan 154 before centered `20` | **VERIFIED** |
-| 20 | scan 154 after centered `20` → scan 160 before centered `21` | **NEXT** |
-| 21–23 | remaining source chapters | pending |
+| 20 | scan 154 after centered `20` → scan 160 before centered `21` | **VERIFIED** |
+| 21 | scan 160 after centered `21` → scan 166 before centered `22` | **NEXT** |
+| 22–23 | remaining source chapters | pending |
 
-Chapters 10–19 were assembled together because the user explicitly authorized the ten-chapter batch. Mixed chapter-boundary scans were split at their centered source headings; literal canonical source discontinuities were preserved without grammatical repair; printer/signature marks were excluded. No canonical page record changed.
+Chapters 10–19 were assembled together because the user explicitly authorized the ten-chapter batch. Chapter 20 was then assembled in the default one-chapter workflow. Mixed chapter-boundary scans were split at their centered source headings; verified cross-page continuities were joined reversibly; literal canonical source discontinuities were preserved without grammatical repair; printer/signature marks were excluded. No canonical page record changed.
 
 ## Exact next activity
 
-Assemble and verify **Chapter 20** into `sections/20-chapter-20.md`, covering **scan 154 after centered `20` through scan 160 before centered `21`**. English remains blocked.
+Assemble and verify **Chapter 21** into `sections/21-chapter-21.md`, covering **scan 160 after centered `21` through scan 166 before centered `22`**. English remains blocked.

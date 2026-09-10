@@ -12,7 +12,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - second historical-glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS; 5 corrections / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **IN PROGRESS — Chapters 1–19 / 23 VERIFIED**.
+- assembled Tamil: **IN PROGRESS — Chapters 1–20 / 23 VERIFIED**.
 
 ## Printed-page mapping
 
@@ -74,8 +74,8 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 | 17 | scan 134 after centered `17` → scan 142 before centered `18` | **VERIFIED** |
 | 18 | scan 142 after centered `18` → scan 149 before centered `19` | **VERIFIED** |
 | 19 | scan 149 after centered `19` → scan 154 before centered `20` | **VERIFIED** |
-| 20 | scan 154 after centered `20` → scan 160 before centered `21` | **NEXT** |
-| 21 | scan 160 after centered `21` → scan 166 before centered `22` | pending |
+| 20 | scan 154 after centered `20` → scan 160 before centered `21` | **VERIFIED** |
+| 21 | scan 160 after centered `21` → scan 166 before centered `22` | **NEXT** |
 | 22 | scan 166 after centered `22` → scan 172 before centered `23` | pending |
 | 23 | scan 172 after centered `23` → scan 179 | pending |
 
@@ -83,6 +83,10 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 The user explicitly authorized a ten-chapter batch. Mixed boundary scans were split at centered headings; verified page joins were represented reversibly; source oddities and physical discontinuities were not normalized. In particular, scan 117→118 and scan 122→123 remain literal canonical discontinuities rather than reconstructed prose. No canonical page record changed during the batch.
 
+## Chapter 20 assembly decisions
+
+Chapter 20 was assembled only from canonical scan 154 after centered `20` through scan 160 before centered `21`. Verified continuities are recorded reversibly in the section file for scans 155→156, 157→158, 158→159, and 159→160. The scan 156→157 physical discontinuity remains literal, with no inferred punctuation or completion. No canonical page record changed.
+
 ## Exact next activity
 
-Assemble **Chapter 20 — scan 154 after centered `20` through scan 160 before centered `21`** into `sections/20-chapter-20.md`; verify against canonical pages, then advance assembly state to **20 / 23**. English remains blocked.
+Assemble **Chapter 21 — scan 160 after centered `21` through scan 166 before centered `22`** into `sections/21-chapter-21.md`; verify against canonical pages, then advance assembly state to **21 / 23**. English remains blocked.
