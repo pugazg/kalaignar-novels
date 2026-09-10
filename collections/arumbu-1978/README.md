@@ -23,7 +23,7 @@ The publisher note states that the volume contains four Kalaignar stories and th
 | Physical scans | Component | Repository handling | Current state |
 |---|---|---|---|
 | 1–5 | collection cover/title/publication/publisher matter | `collections/arumbu-1978/` | REGISTERED |
-| 6–23 | `அரும்பு` | `works/arumbu/` | **TAMIL SOURCE + ASSEMBLED TAMIL PASSED — ENGLISH PLAN NEXT** |
+| 6–23 | `அரும்பு` | `works/arumbu/` | **TAMIL SOURCE + ASSEMBLED TAMIL + ENGLISH PLAN PASSED — BATCH 1 PILOT NEXT** |
 | 24–48 | `சாரப்பள்ளம் சாமுண்டி` | `works/sarapallam-samundi/` | NEW WORK / INTAKE COMPLETE / QUEUED |
 | 49–74 | `பெரிய இடத்துப் பெண்` | existing `works/periya-idathup-pen/` | ADDITIONAL SOURCE WITNESS REGISTERED |
 | 75–90 | `நடுத்தெரு நாராயணி` | `works/nadutheru-narayani/` | NEW WORK / INTAKE COMPLETE / QUEUED |
@@ -48,11 +48,15 @@ For the first component `அரும்பு`:
 - whole-work Tamil audit **PASS / COMPLETE**;
 - Tamil source layer **PASSED**;
 - assembled Tamil **PASS / COMPLETE — 1 / 1 section**;
-- English translation plan **NEXT**;
-- English prose **BLOCKED until the plan exists**.
+- Section 14 English translation plan **PASS / COMPLETE**;
+- working English title **The Bud**;
+- English prose **NOT STARTED**;
+- Batch 1 pilot scans **6–10 — NEXT**.
 
-The assembled Tamil layer is derived only from the 18 audited canonical records and keeps reversible scan provenance. The source-visible printed-number jump from scan 13 / printed 8 to scan 14 / printed 10 remains explicit without inventing printed page 9. Source-confirmed `பேசினேன்` and `அம்மனார்` remain unchanged. The controlling PDF remains excluded from the repository.
+The assembled Tamil layer is derived only from the 18 audited canonical records and keeps reversible scan provenance. The English translation plan preserves the same authority order and one-section structure while using four controlled source-aligned batches: 6–10, 11–15, 16–20, and 21–23.
+
+The source-visible printed-number jump from scan 13 / printed 8 to scan 14 / printed 10 remains explicit without inventing printed page 9. Source-confirmed `பேசினேன்`, `அம்மனார்`, and final `இனி:......` are protected from silent normalization. The controlling PDF remains excluded from the repository.
 
 ## Exact next activity
 
-Prepare the Section 14 English translation plan for `works/arumbu/` only. Do not start English prose, `சாரப்பள்ளம் சாமுண்டி`, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.
+Execute English **Batch 1 pilot for `works/arumbu/`, scans 6–10 only**. Source-check it against canonical Tamil, synchronize controls, commit, and stop before Batch 2, `சாரப்பள்ளம் சாமுண்டி`, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison.
