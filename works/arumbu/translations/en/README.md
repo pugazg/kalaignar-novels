@@ -13,4 +13,11 @@ Planned controlled batches:
 3. scans **16–20**;
 4. scans **21–23**.
 
-No English prose is present yet. `PROGRESS.md`, `GLOSSARY.md`, and `sections/01-arumbu.md` will be initialized with Batch 1 so the pilot's actual decisions, rather than speculative ones, become durable controls.
+Current controls:
+
+- [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md) — **PASS / COMPLETE**;
+- [`PLAN_CHECKPOINT.md`](PLAN_CHECKPOINT.md) — planning checkpoint record;
+- [`PROGRESS.md`](PROGRESS.md) — initialized;
+- [`GLOSSARY.md`](GLOSSARY.md) — initialized with provisional/protected terms; applicable choices are locked during Batch 1 source-check/review.
+
+No English prose is present yet. The next checkpoint is **Batch 1 pilot — scans 6–10 only**.
