@@ -5,13 +5,11 @@ Working English title: **The Bud**.
 - Section 14 translation plan: **PASS / COMPLETE**.
 - English prose coverage: **COMPLETE — 18 / 18 source scans, scans 6–23**.
 - Batches 1–4: **4 / 4 REVIEWED / COMPLETE**.
-- Section 16 whole-work bilingual review: **PASS / COMPLETE**.
-- Whole-work English: **VERIFIED**.
-- Whole-work review corrections: **3 English-only / 0 canonical-Tamil changes**.
-- Material omissions after review: **0**.
-- Source-like additions after review: **0**.
-- Unresolved translation items: **0**.
-- Section 17 release-readiness: **NEXT**.
+- Section 16 whole-work bilingual review: **previously PASS; corrective re-open required**.
+- Whole-work English VERIFIED label: **SUSPENDED pending correction/recheck**.
+- Section 17 release-readiness: **NOT READY**.
+- Release blockers: **1 source-fidelity mismatch**.
+- Canonical Tamil changes during release preflight: **0**.
 
 ## Batch coverage
 
@@ -19,23 +17,17 @@ Working English title: **The Bud**.
 |---|---:|---|
 | 1 — pilot | 6–10 | **REVIEWED / COMPLETE** |
 | 2 | 11–15 | **REVIEWED / COMPLETE** |
-| 3 | 16–20 | **REVIEWED / COMPLETE** |
+| 3 | 16–20 | **REVIEWED / COMPLETE; one scan-17 sentence now requires whole-work corrective recheck** |
 | 4 | 21–23 | **REVIEWED / COMPLETE** |
 
-## Section 16 review
+## Section 17 release-preflight finding
 
-See [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md). The full English section was independently compared against canonical Tamil pages `0006`–`0023`, not merely accepted from batch-level verdicts.
+Canonical scan 17 contains affirmative `எனக்குப் பொய் அம்மா வேணும்!`; the current English says `I don't want a fake Amma!`, adding a negative absent from source. The controlling scan was re-inspected and supports the canonical affirmative reading.
 
-Three corrections were applied and rechecked:
+This is recorded in `RELEASE_REPORT.md`. Section 16 must be narrowly reopened before the English can again be called whole-work VERIFIED.
 
-- scan 15→16: `please protect him without any want` → **`please keep him safe and sound`**;
-- scan 21→22: ambiguous `he` → explicit **Kumar** for source agency;
-- scan 23: `Motherhood is the inheritance of womankind` → **`The feeling of motherhood belongs to womankind`**.
-
-Protected source oddities remain: **I spoke / Ammanar / from now on:...... / no The End**.
-
-Canonical audited Tamil `../../pages/` remains final textual authority. The assembled Tamil section remains continuity support only.
+The previously documented Section 16 corrections at scans 15→16, 21→22 and 23 remain valid. Protected source forms **I spoke / Ammanar / from now on:...... / no The End** also remain valid.
 
 ## Exact next activity
 
-Execute **Section 17 release-readiness** and create `RELEASE_REPORT.md`. Do not begin another source component in the same checkpoint.
+Correct and independently recheck the scan-17 English sentence only; update `GLOSSARY.md` and `TRANSLATION_REVIEW.md`; restore whole-work VERIFIED only if the recheck passes; synchronize controls and stop. Rerun Section 17 afterward.
