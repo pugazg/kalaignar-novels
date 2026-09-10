@@ -18,29 +18,30 @@
 
 Component handling:
 
-- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **TAMIL SOURCE + ASSEMBLED TAMIL + ENGLISH PLAN PASSED / ENGLISH BATCHES 1–2 REVIEWED / BATCH 3 NEXT**;
+- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **TAMIL SOURCE + ASSEMBLED TAMIL + ENGLISH PLAN PASSED / ENGLISH BATCHES 1–3 REVIEWED / BATCH 4 NEXT**;
 - [`சாரப்பள்ளம் சாமுண்டி`](works/sarapallam-samundi/README.md) — scans 24–48 — registered / queued;
 - [`பெரிய இடத்துப் பெண்`](works/periya-idathup-pen/README.md) — scans 49–74 — additional witness to the existing work, not a duplicate;
 - [`நடுத்தெரு நாராயணி`](works/nadutheru-narayani/README.md) — scans 75–90 — registered / queued.
 
 ### Current `அரும்பு` state
 
-- canonical / verified records: **18 / 18 — scans 6–23 contiguous**;
+- canonical / verified Tamil records: **18 / 18 — scans 6–23 contiguous**;
 - all T1/T2/T3 source batches: **PASS / COMPLETE**;
 - whole-work Tamil audit: **PASS / COMPLETE**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - English translation plan: **PASS / COMPLETE**;
 - working English title: **The Bud**;
-- English Batch 1 pilot — scans **6–10**: **REVIEWED / COMPLETE**;
+- English Batch 1 — scans **6–10**: **REVIEWED / COMPLETE**;
 - English Batch 2 — scans **11–15**: **REVIEWED / COMPLETE**;
-- current English coverage: **10 / 18 source scans — scans 6–15**;
-- English Batch 3 — scans **16–20**: **NEXT**.
+- English Batch 3 — scans **16–20**: **REVIEWED / COMPLETE**;
+- current English coverage: **15 / 18 source scans — scans 6–20**;
+- English Batch 4 — scans **21–23**: **NEXT**.
 
-The English reading layer is being built in [`works/arumbu/translations/en/sections/01-arumbu.md`](works/arumbu/translations/en/sections/01-arumbu.md). Batches 1 and 2 were each checked back against their canonical Tamil page records and closed with **0 omissions, 0 source-like additions and 0 unresolved translation items**.
+The English reading layer is [`works/arumbu/translations/en/sections/01-arumbu.md`](works/arumbu/translations/en/sections/01-arumbu.md). Batch 3 was checked against canonical Tamil pages 0016–0020 and closed with **0 omissions, 0 source-like additions and 0 unresolved translation items**. No scan 21 English prose is present.
 
-The source-visible pagination remains exact: scan 6 is unnumbered; scans 7–13 show 2–8; scan 14 shows 10; scans 15–23 show 11–19. No printed page 9 is inferred. Source-confirmed `பேசினேன்`, `அம்மனார்`, final `இனி:......`, and the absence of explicit `முற்றும்` remain protected from silent normalization.
+The source-visible pagination remains exact: scan 6 is unnumbered; scans 7–13 show 2–8; scan 14 shows 10; scans 15–23 show 11–19. No printed page 9 is inferred. Source-confirmed `பேசினேன்`, `அம்மனார்`, final `இனி:......`, and the absence of explicit `முற்றும்` remain protected for Batch 4.
 
-Exact next action: **translate and fully source-check English Batch 3 for `அரும்பு`, scans 16–20 only**, synchronize controls, commit, and stop before Batch 4 or `சாரப்பள்ளம் சாமுண்டி`.
+Exact next action: **translate and fully source-check English Batch 4 for `அரும்பு`, scans 21–23 only**, synchronize controls, commit, and stop before the Section 16 whole-work bilingual review.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 
