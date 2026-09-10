@@ -1,4 +1,4 @@
-# Next Chat Prompt — அரும்பு / scans 11–15 / T3 final source-fidelity checkpoint
+# Next Chat Prompt — அரும்பு / scans 16–20 / T1 transcription checkpoint
 
 Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections/arumbu-1978/`, active work `works/arumbu/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -32,51 +32,46 @@ Read before source-dependent work:
 3. `works/arumbu/README.md`;
 4. `works/arumbu/indexes/page-map.md`;
 5. `works/arumbu/audit.md`;
-6. `works/arumbu/T1_BATCH_011_015.md`;
-7. `works/arumbu/T2_BATCH_011_015.md`;
-8. canonical records `works/arumbu/pages/0011-arumbu-06.md` through `0015-arumbu-11.md`.
+6. `works/arumbu/T3_BATCH_011_015.md`;
+7. verified scan-15 record only for physical continuity.
 
 ## Durable state
 
-Scans 6–10 are CLOSED / VERIFIED after T1+T2+T3.
+Scans 6–10: **T1 + T2 + T3 PASS / VERIFIED**.
 
-Scans 11–15:
+Scans 11–15: **T1 + T2 + T3 PASS / VERIFIED**.
 
-- T1 — **PASS / COMPLETE**;
-- T2 — **PASS / COMPLETE — 1 correction / 0 unresolved**;
-- T3 — **NEXT**;
-- five canonical records remain `needs-review`;
-- directly visible printed pages: **6, 7, 8, 10, 11**;
-- **do not infer printed page 9**.
+- T2 corrections scans 11–15: **1 / 0 unresolved**;
+- T3 corrections scans 11–15: **2 / 0 unresolved**;
+- canonical records: **10 / 18**;
+- verified records: **10 / 18 — scans 6–15 contiguous**;
+- directly visible printed pages on scans 11–15: **6, 7, 8, 10, 11**;
+- printed page 9 is not inferred;
+- scan 15 ends physically at `செல்லக்`.
 
-T2 correction:
+Do not reopen closed scans 6–15 without genuinely new source evidence.
 
-- scan 12 `திருக்குவள நண்பன்` → **`திருக்குவளை நண்பன்`** — historical `ளை` confirmed from source pixels.
+## Small-task discipline
 
-Preserved joins/edges:
+- **T1** = one direct visual transcription pass only; create canonical `needs-review` records, sync controls, commit, stop.
+- **T2** = independent historical-glyph / character-identity re-read; targeted crops only for actual uncertainty; sync, commit, stop.
+- **T3** = exhaustive final source-fidelity closure; sync, commit, stop.
 
-- 11→12 `போய்` / `விட்டனர்.`;
-- 13→14 `ஊற்றெடுத்துக் கிளம்பிவரும்` / `அருவி!`;
-- scan 15 ends physically at `செல்லக்`; scan 16 has not been inspected.
+Do not fold later-stage work into T1.
 
-Scan 13's large illustration is non-body material.
+## Exact next activity — scans 16–20 / T1 only
 
-## Updated small-task discipline
+Process physical scans **16–20**:
 
-- **T1** = one direct visual transcription pass only.
-- **T2** = independent historical-glyph / character-identity re-read only.
-- **T3** = exhaustive final source-fidelity closure.
-- synchronize controls and commit after each stage, then stop.
-
-## Exact next activity — scans 11–15 / T3 only
-
-- re-read the five complete scans directly against their canonical records;
-- check for omissions, duplicated/displaced text, wrong words, punctuation/spacing, paragraph structure, physical page joins, visible numbering and non-body separation;
-- use enlarged crops only where a real T3 reading is uncertain;
-- apply only source-supported fidelity corrections;
-- retain the T2 `திருக்குவளை` correction unless direct source evidence contradicts it;
-- mark all five records `verified` only if the full T3 pass succeeds with no unresolved readings;
-- synchronize controls and commit T3 immediately;
+- visually transcribe each whole page once from direct source pixels;
+- create one canonical record per scan under `works/arumbu/pages/`;
+- record a printed page number only when directly visible; never infer numbering;
+- preserve source spelling, punctuation, dialogue, paragraph structure and physical page-boundary fragments on a first-pass basis;
+- preserve illustrations/non-body marks as observations rather than narrative text;
+- if one difficult first-pass reading remains, mark it for later review rather than running repeated T2/T3-style crop loops;
+- do **not** run the independent historical-glyph T2 pass yet;
+- leave all new records `needs-review`;
+- synchronize controls and commit T1 immediately;
 - stop.
 
-Do **not** inspect scan 16, start the next batch, begin another component, or start the 1978 `பெரிய இடத்துப் பெண்` witness comparison in this checkpoint.
+Do **not** begin scan 21, T2 for scans 16–20, another component, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in this checkpoint.

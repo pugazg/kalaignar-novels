@@ -7,7 +7,7 @@
 - Live `main` is authoritative.
 - Active source: **1978 `அரும்பு` four-story compilation**.
 - Active work: `works/arumbu/`.
-- Latest completed work remains `works/vellikkizhamai/` — RELEASE-READY / CLOSED.
+- `works/vellikkizhamai/` remains RELEASE-READY / CLOSED.
 
 ## Controlling compilation source
 
@@ -17,8 +17,6 @@
 - size: **117,270,339 bytes**
 - physical scans: **92**
 - image-only
-- title: **அரும்பு**
-- author: **கலைஞர் மு. கருணாநிதி**
 - publisher: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**
 - edition: **முதற் பதிப்பு — 1978**
 - source PDF: **DO NOT COMMIT**.
@@ -43,40 +41,39 @@ Root `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md` is authoritative:
 3. **T3** — final source-fidelity closure → control sync → commit → stop;
 4. only then may the next source batch begin.
 
-Do not fold repeated crop loops, historical-glyph verification, or exhaustive fidelity checking into T1. T2 is confined to independent glyph/character identity; T3 owns the exhaustive fidelity review.
+Do not fold T2/T3 work into T1.
 
 ## `அரும்பு` durable state
 
 - work span: **18 scans — physical 6–23**;
 - canonical records: **10 / 18 — scans 6–15**;
-- verified canonical records: **5 / 18 — scans 6–10**;
+- verified canonical records: **10 / 18 — scans 6–15 contiguous**;
 - scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
 - scans 11–15 T1: **PASS / COMPLETE**;
-- scans 11–15 T2: **PASS / COMPLETE — 1 historical `ளை` correction / 0 unresolved**;
-- scans 11–15 T3: **NEXT**;
-- scans 16–23: not started.
+- scans 11–15 T2: **PASS / COMPLETE — 1 correction / 0 unresolved**;
+- scans 11–15 T3: **PASS / COMPLETE — 2 corrections / 0 unresolved**;
+- scans 16–20 T1: **NEXT**;
+- scans 16–20 T2/T3: BLOCKED by preceding checkpoint;
+- scans 21–23: not started.
 
 Scans 11–15 directly visible printed pages: **6, 7, 8, 10, 11**. Printed page **9 is not inferred**.
 
-T2 correction:
-
-- scan 12 / printed 7: `திருக்குவள நண்பன்` → **`திருக்குவளை நண்பன்`**; direct source pixels retain the final historical `ளை`.
-
-Physical joins/edges retained:
+Closed-batch source joins/edges:
 
 - 11→12: `போய்` / `விட்டனர்.`;
 - 13→14: `ஊற்றெடுத்துக் கிளம்பிவரும்` / `அருவி!`;
-- scan 15 ends physically at `செல்லக்`; scan 16 has not been inspected.
+- scan 15 ends physically at `செல்லக்`.
 
 Scan 13 contains a large printed illustration, kept outside narrative text.
 
-Checkpoint records:
+Checkpoint records now include:
 
 - `works/arumbu/T1_BATCH_006_010.md` — PASS;
 - `works/arumbu/T2_BATCH_006_010.md` — PASS;
 - `works/arumbu/T3_BATCH_006_010.md` — PASS;
 - `works/arumbu/T1_BATCH_011_015.md` — PASS;
-- `works/arumbu/T2_BATCH_011_015.md` — PASS, 1 correction / 0 unresolved.
+- `works/arumbu/T2_BATCH_011_015.md` — PASS;
+- `works/arumbu/T3_BATCH_011_015.md` — PASS.
 
 ## Numbering/source rule
 
@@ -84,14 +81,15 @@ Record printed page numbers only when directly visible. Never infer missing numb
 
 ## Exact next activity
 
-Execute **`அரும்பு` scans 11–15 / T3 only**:
+Execute **`அரும்பு` scans 16–20 / T1 only**:
 
-- perform the exhaustive final source-fidelity re-read of all five complete pages;
-- check omissions, duplicated/displaced text, punctuation/spacing, paragraph structure, physical joins, printed-page visibility and non-body separation;
-- preserve the T2 `திருக்குவளை` correction unless direct source evidence contradicts it;
-- correct only direct-source-supported readings;
-- mark pages `verified` only if T3 fully passes;
-- synchronize affected controls and commit T3 separately;
-- stop before scan 16.
+- visually transcribe each complete physical scan once;
+- create canonical page records under `works/arumbu/pages/`;
+- record only directly visible printed-page numbers;
+- preserve page-boundary fragments, illustrations and non-body marks separately;
+- do not run T2/T3 in the same checkpoint;
+- leave the new records `needs-review`;
+- synchronize affected controls and commit T1 immediately;
+- stop before T2 or scan 21.
 
 Do not begin another component or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.

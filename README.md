@@ -27,27 +27,19 @@ Collection front matter is scans 1–5; publisher catalogue/back-cover matter is
 
 ### Active small-task checkpoint
 
-Source batches use three separately durable checkpoints:
-
-1. T1 — one direct visual transcription pass + canonical records;
-2. T2 — independent historical-glyph / character-identity re-read;
-3. T3 — final source-fidelity closure.
-
-Each stage synchronizes controls and commits separately; T1/T2/T3 work is not folded together.
+Source batches use three separately durable checkpoints: T1 direct transcription/canonical records, T2 independent historical-glyph re-read, and T3 final source-fidelity closure. Each stage synchronizes controls and commits separately.
 
 Current `அரும்பு` state:
 
 - canonical records: **10 / 18 — scans 6–15**;
-- verified records: **5 / 18 — scans 6–10**;
+- verified records: **10 / 18 — scans 6–15 contiguous**;
 - scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
-- scans 11–15 T1: **PASS / COMPLETE**;
-- scans 11–15 T2: **PASS / COMPLETE — 1 historical `ளை` correction / 0 unresolved**;
-- scans 11–15 T3: **NEXT**;
-- scans 11–15 remain `needs-review` until T3.
+- scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
+- scans 11–15 T2: 1 historical-glyph correction / 0 unresolved;
+- scans 11–15 T3: 2 additional source-fidelity corrections / 0 unresolved;
+- scans 16–20 T1: **NEXT**.
 
-T2 corrected scan 12 `திருக்குவள நண்பன்` to **`திருக்குவளை நண்பன்`**. Directly visible printed pages remain **6, 7, 8, 10, 11**; printed page 9 is not inferred.
-
-Exact next action: **`அரும்பு` scans 11–15 / T3 only**, then control sync + separate commit + stop before scan 16.
+Directly visible printed pages for scans 11–15 are **6, 7, 8, 10, 11**; printed page 9 is not inferred. Exact next action: **`அரும்பு` scans 16–20 / T1 only**, followed by control sync + separate commit + stop before T2.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 
