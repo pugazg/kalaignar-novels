@@ -86,6 +86,12 @@ Checks completed:
 
 **ASSEMBLED TAMIL READING LAYER — PASSED.**
 
+## English planning status
+
+`../translations/en/TRANSLATION_PLAN.md` is now **PASS / COMPLETE** under Section 14. Working English title: **The Bud**. The planned English layer remains one final section translated in four controlled batches: scans **6–10**, **11–15**, **16–20**, and **21–23**.
+
+The audited `pages/` layer remains final textual authority; this assembled section remains reading-continuity support.
+
 ## Next stage
 
-Prepare the Section 14 English translation plan. English prose must not begin until that plan exists. The audited `pages/` layer remains final textual authority; this assembled section is the reader-continuity layer.
+Execute **English Batch 1 pilot — scans 6–10 only**, source-check it against canonical pages, synchronize the English controls, and stop before Batch 2.
