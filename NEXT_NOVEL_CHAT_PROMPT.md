@@ -1,4 +1,4 @@
-# Next Chat Prompt — அரும்பு / English Batch 4 scans 21–23
+# Next Chat Prompt — அரும்பு / Section 16 whole-work bilingual review
 
 Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections/arumbu-1978/`, active work `works/arumbu/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -17,7 +17,7 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 ## Durable compilation structure
 
 - scans 1–5 — collection front matter;
-- scans 6–23 — `அரும்பு` — **TAMIL SOURCE + ASSEMBLED TAMIL + ENGLISH PLAN PASSED; BATCHES 1–3 REVIEWED**;
+- scans 6–23 — `அரும்பு` — **TAMIL SOURCE + ASSEMBLED TAMIL + ENGLISH PLAN PASSED; ENGLISH BATCHES 1–4 REVIEWED; SECTION 16 NEXT**;
 - scans 24–48 — `சாரப்பள்ளம் சாமுண்டி` — queued;
 - scans 49–74 — `பெரிய இடத்துப் பெண்` — additional witness only;
 - scans 75–90 — `நடுத்தெரு நாராயணி` — queued;
@@ -25,9 +25,9 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 
 ## Mandatory startup
 
-Read before Batch 4:
+Read before Section 16 work:
 
-1. `NOVEL_PROCESSING_GUIDE.md`, especially Sections 14–16;
+1. `NOVEL_PROCESSING_GUIDE.md`, especially Section 16;
 2. root `HANDOVER.md`;
 3. `works/arumbu/README.md`;
 4. `works/arumbu/audit.md`;
@@ -36,10 +36,11 @@ Read before Batch 4:
 7. `works/arumbu/translations/en/PROGRESS.md`;
 8. `works/arumbu/translations/en/GLOSSARY.md`;
 9. `works/arumbu/translations/en/BATCH_03_REVIEW.md`;
-10. current English `works/arumbu/translations/en/sections/01-arumbu.md`;
-11. canonical page records `works/arumbu/pages/0021-arumbu-17.md`, `0022-arumbu-18.md`, `0023-arumbu-19.md`.
+10. `works/arumbu/translations/en/BATCH_04_REVIEW.md`;
+11. complete English `works/arumbu/translations/en/sections/01-arumbu.md`;
+12. all canonical Tamil page records `works/arumbu/pages/0006-arumbu-01.md` through `0023-arumbu-19.md`.
 
-Do not reopen closed Tamil work or English Batches 1–3 unless genuinely new source evidence or a documented translation inconsistency requires it.
+Do not reopen closed Tamil work or reviewed English batches unless the whole-work review identifies a concrete mismatch that must be documented and corrected.
 
 ## Durable `அரும்பு` state
 
@@ -48,38 +49,41 @@ Do not reopen closed Tamil work or English Batches 1–3 unless genuinely new so
 - whole-work Tamil audit: **PASS / COMPLETE**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - English translation plan: **PASS / COMPLETE**;
-- working English title: **The Bud**;
 - Batch 1 scans **6–10**: **REVIEWED / COMPLETE**;
 - Batch 2 scans **11–15**: **REVIEWED / COMPLETE**;
 - Batch 3 scans **16–20**: **REVIEWED / COMPLETE**;
-- English coverage: **15 / 18 source scans — scans 6–20**;
-- Batch 4 scans **21–23**: **NEXT**.
+- Batch 4 scans **21–23**: **REVIEWED / COMPLETE**;
+- English coverage: **18 / 18 source scans — scans 6–23**;
+- whole-work English: **NOT YET VERIFIED**;
+- Section 16 whole-work bilingual review: **NEXT**.
 
-## Locked conventions
+## Locked final-batch source decisions
 
-Preserve all decisions in `GLOSSARY.md`, including recurring **bud / leaf** imagery, names, cultural terms, child `Amma` register, source rhetoric, paragraph/speaker boundaries, and reversible source comments. Batch 3 additionally locks `gomedhakam gem`, `Moodevi`, `thazhai frond`, and the fake/real/doll `Amma` contrast.
+Preserve these unless the review finds an actual source/translation mismatch:
 
-## Protected final-batch source oddities
+- scan 22 `பேசினேன்` → **I spoke**, preserving source first-person;
+- scan 23 `அம்மனார்` → **Ammanar**, not normalized to Ammanur;
+- scan 23 `இனி:......` → **from now on:......**, retaining the colon-plus-six-dot form;
+- scan 23 has no explicit `முற்றும்` → no **The End**.
 
-Batch 4 must explicitly resolve and document, without silently correcting the Tamil:
+## Exact next activity — Section 16 only
 
-- scan 22 source-confirmed **`பேசினேன்`** — first-person form inside otherwise third-person narration;
-- scan 23 source-confirmed **`அம்மனார்`** — do not silently normalize to earlier `அம்மனூர்`;
-- scan 23 final source punctuation **`இனி:......`**;
-- scan 23 has **no explicit `முற்றும்`** — do not add “The End”.
+Create `works/arumbu/translations/en/TRANSLATION_REVIEW.md` and perform an independent whole-work bilingual review of scans **6–23**. Explicitly check:
 
-## Exact next activity — Batch 4 only
+- complete coverage and source order;
+- no duplicate source span;
+- no material omission;
+- no source-like addition;
+- speaker attribution and actor agency;
+- recurring names/titles/terminology;
+- political/religious/social rhetorical force;
+- all established cross-page joins;
+- one-section structural identity;
+- recurring bud/leaf imagery through the ending;
+- protected source oddities;
+- final-page punctuation and absence of an unprinted ending marker;
+- scan/page provenance.
 
-Translate **scans 21–23 only** under Section 15:
+If and only if all checks pass, mark whole-work English **VERIFIED**, synchronize translation/work/root controls, commit, and stop.
 
-- append only that audited Tamil span to `translations/en/sections/01-arumbu.md`;
-- preserve reversible scan/page provenance;
-- source-check every new passage against canonical pages 0021–0023;
-- explicitly document the three protected oddity decisions in `GLOSSARY.md` and the batch review record;
-- preserve recurring final bud/leaf imagery and source emotional force;
-- mark Batch 4 **reviewed** only after complete source comparison;
-- synchronize translation/work/root controls, commit, and stop.
-
-After Batch 4 closes, the **next separate checkpoint** is Section 16 whole-work bilingual review. Do not perform that review in the same checkpoint.
-
-Do **not** start `சாரப்பள்ளம் சாமுண்டி` or the 1978 `பெரிய இடத்துப் பெண்` witness comparison.
+Do **not** perform Section 17 release-readiness, start `சாரப்பள்ளம் சாமுண்டி`, or begin the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.
