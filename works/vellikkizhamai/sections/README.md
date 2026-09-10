@@ -1,32 +1,18 @@
 # Assembled Tamil Reading Layer — வெள்ளிக்கிழமை
 
-இந்த `sections/` அடுக்கு வாசிப்பதற்காகத் தொகுக்கப்படும் **source-faithful assembled layer**. இது canonical archival transcription அல்ல.
-
-## Authority
-
-Canonical source-preservation layer:
-
-`../pages/`
-
-அந்த 179 page records source audit முடித்து `verified` செய்யப்பட்டவை. இந்த assembled layer அவற்றிலிருந்து மட்டுமே உருவாக்கப்படுகிறது.
-
-> **முரண்பாடு ஏற்பட்டால் `pages/` record-தான் controlling archival text.**
-
-Source PDF repository-க்குள் commit செய்யப்படாது.
+This `sections/` layer is a source-faithful reading layer derived only from audited canonical `../pages/` records. Canonical `pages/` remain authoritative if any conflict appears.
 
 ## Assembly structure
 
-Source-printed **23 chapters** தான் section boundaries. ஒவ்வொரு chapter-மும் தனி assembled Markdown file ஆக உருவாக்கப்படுகிறது; வேறு work-ன் section scheme force-fit செய்யப்படாது.
-
-Boundary scan ஒன்று இரண்டு chapters-ஐ கொண்டிருந்தால் அந்த scan source-printed centered chapter heading-இல் split செய்யப்படும். முழு scan-ஐ mechanically ஒரு chapter-க்கு assign செய்யக்கூடாது.
+The source has **23 chapters**. Mixed boundary scans are split at the source-printed centered chapter heading; a whole physical scan is never mechanically assigned to one chapter.
 
 | File | Source coverage | Chapter | Status |
 |---|---|---:|---|
 | `01-chapter-01.md` | scans 4–12 | 1 | **VERIFIED** |
 | `02-chapter-02.md` | scans 13–22 | 2 | **VERIFIED** |
 | `03-chapter-03.md` | scan 23 → scan 33 before centered `4` | 3 | **VERIFIED** |
-| `04-chapter-04.md` | scan 33 after centered `4` → scan 45 before centered `5` | 4 | next |
-| `05-chapter-05.md` | scan 45 after centered `5` → scan 51 | 5 | pending |
+| `04-chapter-04.md` | scan 33 after centered `4` → scan 45 before centered `5` | 4 | **VERIFIED** |
+| `05-chapter-05.md` | scan 45 after centered `5` → scan 51 | 5 | next |
 | `06-chapter-06.md` | scan 52 → scan 59 before centered `7` | 6 | pending |
 | `07-chapter-07.md` | scan 59 after centered `7` → scan 68 before centered `8` | 7 | pending |
 | `08-chapter-08.md` | scan 68 after centered `8` → scan 75 before centered `9` | 8 | pending |
@@ -48,57 +34,34 @@ Boundary scan ஒன்று இரண்டு chapters-ஐ கொண்டி
 
 ## Assembly rules
 
-1. Text is derived only from audited canonical `pages/` records.
-2. Historical spelling, punctuation, dialogue, colloquial forms, source oddities, paragraph structure and verse layout are preserved.
-3. Historical-glyph notes, scan observations, printer/signature marks, illustration descriptions and later handwriting are not inserted into reading prose.
-4. HTML comments retain source-scan / printed-page provenance without interrupting normal reading.
-5. Cross-page fragments are joined only where the canonical audit already established continuity.
-6. Canonical `pages/` files are never changed merely to make assembly read smoothly.
-7. One source chapter is assembled and verified per iteration / commit.
-8. The whole assembled layer is not `PASSED` until Chapters 1–23 and a final coverage / continuity / canonical-authority audit pass.
+1. Derive prose only from verified canonical `pages/` records.
+2. Preserve source spelling, punctuation, dialogue, historical forms, colloquial forms and intentional oddities.
+3. Exclude audit notes, printer/signature marks, illustrations and later handwriting from reading prose.
+4. Keep reversible source provenance with HTML comments.
+5. Join only already-verified page-boundary continuities.
+6. Never change canonical page files merely to smooth assembled prose.
+7. Assemble and verify one source chapter per iteration / commit.
+8. Do not mark the layer `PASSED` until all 23 chapters and the final coverage / boundary / continuity / authority audit pass.
 
-## Chapter 1 verification
+## Chapter 4 verification
 
-`01-chapter-01.md` covers scans **4–12** and is **VERIFIED**.
+`04-chapter-04.md` is **VERIFIED** from the post-`4` portion of scan 33 through the pre-`5` portion of scan 45.
 
-Verified cross-page continuities represented with reversible inline comments:
+Verified boundary continuities retained with reversible provenance include:
 
-- scan 4 `ஏதோ` → scan 5 `இன்பக்கனவுகளோ`;
-- scan 5 `அவைகளே` → scan 6 `கேலிக்குரியதாக`;
-- scan 8 `கிழக்கு வானம் வெளுக்கத்` → scan 9 `துவங்கிவிட்டது.`;
-- scan 10 `இருந்தாள்—` → scan 11 quoted continuation.
+- scan 33 `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே` → scan 34 `போவதாக இருக்கிறாள்.`;
+- scan 37 `அழகப்பன்,` → scan 38 `நயினா, தாயார்...`;
+- scan 38 `காரில்` → scan 39 `போய்க்கொண்டிருந்தார்களாம்.`;
+- scan 39 `சாலையின் குறுக்கே` → scan 40 `கிடந்தவனும்...`;
+- scan 40 `அடித்து மோதிக்` → scan 41 `கொண்டு அழுதாள்.`;
+- scan 41 `தன்னைத்தானே` → scan 42 `அறிமுகப்படுத்திக்கொண்டு...`;
+- scan 42 `ஏற்` + scan 43 `பட்டுவிட்டது`;
+- scan 44 `நர்சு அவர்` + scan 45 `களச்...` is retained literally from the canonical page records without silent repair.
 
-The source-printed Tiruppavai verse lines in scans 10–11 are retained as verse lines, not flattened into prose. No canonical page text changed during assembly.
-
-## Chapter 2 verification
-
-`02-chapter-02.md` covers scans **13–22** and is **VERIFIED**.
-
-Verified cross-page continuities represented with reversible provenance:
-
-- scan 14 `அதிலே` → scan 15 `வரும் அர்ச்சுனன்`;
-- scan 16 `எண்ணும்` → scan 17 `போது—`;
-- scan 17→18 preserves the dialogue reply after `“சுசீலா! நீ?”`;
-- scan 21→22 preserves the dialogue reply after `“லேடி டாக்டர் வந்தாச்சுல்லே?”`.
-
-Source `* * *` separators and paragraph/dialogue structure are retained. No canonical page text changed during assembly.
-
-## Chapter 3 verification
-
-`03-chapter-03.md` covers **scan 23 through the Chapter 3 carryover at the top of scan 33 before centered `4`** and is **VERIFIED**.
-
-Verified cross-page continuities represented with reversible provenance:
-
-- scan 23 `உணர்ந்திருந்ததோடு` → scan 24 `மட்டுமல்ல;`;
-- scan 24 `அவர்` + scan 25 `கள்தானே` → `அவர்கள்தானே`;
-- scan 25 `சேர்ந்` + scan 26 `தான்.` → `சேர்ந்தான்.`;
-- scan 28 `விஷயத்தை வெளி` + scan 29 `யில் சொல்லாதே` → `விஷயத்தை வெளியில் சொல்லாதே`;
-- scan 31 `மூன்றாவது` → scan 32 `ஆள் வேம்பு!`.
-
-Scan 33 was split at the source-printed centered `4`: only the opening Chapter 3 dialogue paragraph is present in `03-chapter-03.md`; the Chapter 4 heading and all post-heading prose are reserved for `04-chapter-04.md`. No canonical page text changed during assembly.
+Scan 45 was split at centered source heading `5`; all post-heading Chapter 5 prose is reserved for `05-chapter-05.md`. The source punctuation oddity on scan 35 (opening quote before narrative `நயினாவின் கேலி...`) is preserved exactly. No canonical page text changed during Chapter 4 assembly.
 
 ## Current status
 
-**Assembly: IN PROGRESS — 3 / 23 chapters VERIFIED.**
+**Assembly: IN PROGRESS — 4 / 23 chapters VERIFIED.**
 
-Next: Chapter 4, from **scan 33 after centered `4` through scan 45 before centered `5`**. Both boundary scans must be split at their source-printed centered headings. English remains blocked until the complete assembled layer passes its final consistency gate.
+Next: **Chapter 5 — scan 45 after centered `5` through scan 51**. English remains blocked until the complete assembled Tamil layer passes its final consistency gate.
