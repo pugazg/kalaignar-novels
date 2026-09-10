@@ -19,9 +19,11 @@ Source physical span: **scans 6–23** of the 92-scan 1978 compilation.
 | 18 | 14 | `../pages/0018-arumbu-14.md` | **VERIFIED — T1+T2+T3 PASS** |
 | 19 | 15 | `../pages/0019-arumbu-15.md` | **VERIFIED — T1+T2+T3 PASS** |
 | 20 | 16 | `../pages/0020-arumbu-16.md` | **VERIFIED — T1+T2+T3 PASS** |
-| 21–23 | record only after direct page inspection | — | **T1 NEXT** |
+| 21 | 17 | `../pages/0021-arumbu-17.md` | **T1 COMPLETE — `needs-review`** |
+| 22 | 18 | `../pages/0022-arumbu-18.md` | **T1 COMPLETE — `needs-review`** |
+| 23 | 19 | `../pages/0023-arumbu-19.md` | **T1 COMPLETE — `needs-review`** |
 
-Canonical page records: **15 / 18**.  
+Canonical page records: **18 / 18 — scans 6–23**.  
 Verified canonical records: **15 / 18 — scans 6–20 contiguous**.  
 Unresolved source readings in verified range: **0**.
 
@@ -38,10 +40,20 @@ Preserved scans 16–20 joins:
 - 18→19: `செலவா` → `யிற்று.`;
 - 19→20: `கடிந்துகொண்` → `டிருக்கிறாள்.`.
 
-## Active checkpoint — scans 21–23
+## Active final batch — scans 21–23
 
-- T1 — **NEXT**;
-- T2 — BLOCKED by T1;
+- T1 — **PASS / COMPLETE**;
+- T2 — **NEXT**;
 - T3 — BLOCKED by T2.
 
-Every checkpoint synchronizes controls and commits separately. Do not begin `சாரப்பள்ளம் சாமுண்டி` until the final `அரும்பு` scans pass their required gates.
+Directly visible printed pages: **17, 18, 19**.
+
+Continuity retained:
+
+- 20→21: `அவனது அம்மா படம்!` → `அதை எடுத்து...`;
+- 21→22: `அப்பா பாப்பாவை நினைத்து` → `அழுதுகொண்டே யிருக்கிறாரே!`;
+- 22→23: scan 22 closes a complete sentence; scan 23 begins `அவளையறியாமல்,...`.
+
+Scan 23 is the final physical page of this component and contains no explicit `முற்றும்`.
+
+Every checkpoint synchronizes controls and commits separately. Do not begin `சாரப்பள்ளம் சாமுண்டி` until scans 21–23 pass T2 and T3.
