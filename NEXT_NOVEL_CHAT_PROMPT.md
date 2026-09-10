@@ -1,4 +1,4 @@
-# Next Chat Prompt — அரும்பு / English Batch 2 scans 11–15
+# Next Chat Prompt — அரும்பு / English Batch 3 scans 16–20
 
 Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections/arumbu-1978/`, active work `works/arumbu/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -17,7 +17,7 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 ## Durable compilation structure
 
 - scans 1–5 — collection front matter;
-- scans 6–23 — `அரும்பு` — **TAMIL SOURCE + ASSEMBLED TAMIL + ENGLISH PLAN PASSED; BATCH 1 REVIEWED**;
+- scans 6–23 — `அரும்பு` — **TAMIL SOURCE + ASSEMBLED TAMIL + ENGLISH PLAN PASSED; BATCHES 1–2 REVIEWED**;
 - scans 24–48 — `சாரப்பள்ளம் சாமுண்டி` — queued;
 - scans 49–74 — `பெரிய இடத்துப் பெண்` — additional witness only;
 - scans 75–90 — `நடுத்தெரு நாராயணி` — queued;
@@ -25,7 +25,7 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 
 ## Mandatory startup
 
-Read before English Batch 2 work:
+Read before English Batch 3 work:
 
 1. `NOVEL_PROCESSING_GUIDE.md`, especially Sections 14–16;
 2. root `HANDOVER.md`;
@@ -38,9 +38,9 @@ Read before English Batch 2 work:
 9. `works/arumbu/translations/en/PROGRESS.md`;
 10. `works/arumbu/translations/en/GLOSSARY.md`;
 11. current English `works/arumbu/translations/en/sections/01-arumbu.md`;
-12. canonical page records `works/arumbu/pages/0011-arumbu-06.md` through `0015-arumbu-11.md`.
+12. canonical page records `works/arumbu/pages/0016-arumbu-12.md` through `0020-arumbu-16.md`.
 
-Do not reopen Tamil source transcription, Tamil assembly or Batch 1 unless genuinely new source evidence or a documented translation inconsistency requires it.
+Do not reopen Tamil source transcription, Tamil assembly, Batch 1, or Batch 2 unless genuinely new direct-source evidence or a documented translation inconsistency requires it.
 
 ## Durable `அரும்பு` state
 
@@ -52,40 +52,46 @@ Do not reopen Tamil source transcription, Tamil assembly or Batch 1 unless genui
 - English translation plan: **PASS / COMPLETE**;
 - working English title: **The Bud**;
 - Batch 1 pilot scans **6–10**: **REVIEWED / COMPLETE**;
-- English coverage: **5 / 18 source scans**;
-- Batch 2 scans **11–15**: **NEXT**.
+- Batch 2 scans **11–15**: **REVIEWED / COMPLETE**;
+- English coverage: **10 / 18 source scans — scans 6–15**;
+- Batch 3 scans **16–20**: **NEXT**.
 
-## Batch 1 locked conventions
+## Locked conventions through Batch 2
 
-Preserve the current `GLOSSARY.md` decisions unless a direct source conflict is documented. Important locked choices include:
+Preserve `GLOSSARY.md`. Important locked choices include:
 
 - `அரும்பு` → **bud**, title **The Bud**;
 - names: Gokul, Gomathi, Kumar, Rathinam;
-- Thirukkuvalai, Ammanur, Chennai;
+- Thirukkuvalai, Ammanur, Chennai, Mayavaram;
+- Madras Mail;
 - `அக்கிரகாரம்` → **agraharam**;
 - `ஓம குண்டம்` → **homa fire-pit**;
-- `அம்மி` → **ammi**;
-- `அரசாணி` → **arasani**;
-- `புதுமை முறை` → **new-style** / new-style manner, without importing an unprinted movement label;
+- `அம்மி` → **ammi**; `அரசாணி` → **arasani**;
+- `புதுமை முறை` → **new-style**;
 - `வாழ்க்கை ஒப்பந்த விழா` → **life-contract ceremony**;
-- direct `அப்பா` → **Appa** where emotional/direct; `father` in narration;
-- source ellipses, repetition, agency, speaker boundaries and rhetorical force remain visible where material;
-- all English spans retain reversible scan/page HTML provenance.
+- `ஒப்பாரி` → **oppari**; `ஆராரோ` → **Aararo**;
+- `அத்தை மகன்` → **aunt's son**;
+- `பொட்டு` → **pottu**; `மாங்கல்யம்` → **mangalyam**; `மகாலட்சுமி` → **Mahalakshmi**;
+- source-period `ரெளடிக் கும்பல்` → **“rowdy” gang**;
+- direct emotional `அப்பா` → **Appa** and narration → **father**;
+- source ellipses, repetition, agency, speaker boundaries, imagery and rhetorical force remain visible;
+- every English span retains reversible scan/page HTML provenance.
 
-Later protected source facts still apply: scan 22 `பேசினேன்`, scan 23 `அம்மனார்`, final `இனி:......`, printed-page jump 8→10, and no explicit `முற்றும்`.
+The source-visible scan 13 / printed 8 → scan 14 / printed 10 jump is already preserved; do not invent printed page 9.
 
-## Exact next activity — Batch 2 only
+Later protected source facts remain: scan 22 `பேசினேன்`, scan 23 `அம்மனார்`, final `இனி:......`, and no explicit `முற்றும்`.
 
-Translate **scans 11–15 only** under Section 15:
+## Exact next activity — Batch 3 only
 
-- append the new English span to `works/arumbu/translations/en/sections/01-arumbu.md` without altering the reviewed Batch 1 prose unless an actual review issue is found and documented;
+Translate **scans 16–20 only** under Section 15:
+
+- append the new English span to `works/arumbu/translations/en/sections/01-arumbu.md` without altering reviewed Batches 1–2 unless an actual review issue is found and documented;
 - translate every substantive sentence/dialogue unit in source order; do not summarize;
 - retain reversible `<!-- source: scan ...; printed page: ... -->` provenance;
-- use assembled Tamil for continuity but compare every new translated passage back to canonical pages 0011–0015;
-- preserve emotional force, agency, repetition, child/family register, rhetoric and locked pilot conventions;
-- add or lock only genuinely new Batch 2 terminology in `GLOSSARY.md`;
-- update `translations/en/README.md` and `PROGRESS.md`;
-- Batch 2 may be marked **reviewed** only after source comparison;
-- synchronize work/root controls, commit, and stop.
+- use assembled Tamil for continuity but compare every new translated passage back to canonical pages 0016–0020;
+- preserve emotional force, agency, repetition, child/family register, recurring bud imagery and all locked conventions;
+- add or lock only genuinely new Batch 3 terminology in `GLOSSARY.md`;
+- Batch 3 may be marked **reviewed** only after source comparison;
+- synchronize translation/work/root controls, commit, and stop.
 
-Do **not** start Batch 3, `சாரப்பள்ளம் சாமுண்டி`, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.
+Do **not** start Batch 4, `சாரப்பள்ளம் சாமுண்டி`, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.

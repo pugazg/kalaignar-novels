@@ -5,16 +5,27 @@ Working English title: **The Bud**.
 - Section 14 translation plan: **PASS / COMPLETE**.
 - English prose: **IN PROGRESS**.
 - Batch 1 pilot — scans 6–10: **REVIEWED / COMPLETE**.
-- Batch 2 — scans 11–15: **NEXT**.
-- Batch 3 — scans 16–20: **BLOCKED until Batch 2 is reviewed**.
-- Batch 4 — scans 21–23: **BLOCKED**.
-- Current English coverage: **5 / 18 source scans — scans 6–10**.
+- Batch 2 — scans 11–15: **REVIEWED / COMPLETE**.
+- Batch 3 — scans 16–20: **NEXT**.
+- Batch 4 — scans 21–23: **BLOCKED until Batch 3 is reviewed**.
+- Current English coverage: **10 / 18 source scans — scans 6–15**.
 - Whole-work bilingual review: **BLOCKED until all four batches are reviewed**.
 - Release-readiness: **BLOCKED**.
 
 ## Batch 1 review record
 
 - basis: audited canonical Tamil pages `../../pages/0006-arumbu-01.md` through `../../pages/0010-arumbu-05.md`;
+- destination: `sections/01-arumbu.md`;
+- draft translation: **COMPLETE**;
+- source check: **PASS**;
+- review: **PASS**;
+- omissions / source-like additions: **0 / 0**;
+- unresolved translation items: **0**;
+- pilot glossary/style lock: **COMPLETE**.
+
+## Batch 2 review record
+
+- basis: audited canonical Tamil pages `../../pages/0011-arumbu-06.md` through `../../pages/0015-arumbu-11.md`;
 - assembled Tamil used only for continuity;
 - destination: `sections/01-arumbu.md`;
 - draft translation: **COMPLETE**;
@@ -22,8 +33,9 @@ Working English title: **The Bud**.
 - review: **PASS**;
 - omissions / source-like additions found at closure: **0 / 0**;
 - unresolved translation items: **0**;
-- pilot glossary/style lock: **COMPLETE**;
 - scan/page provenance: **PASS**;
-- no scan 11 prose included.
+- source-visible scan 13 / printed 8 → scan 14 / printed 10 jump retained without inventing printed page 9;
+- scan 15 remains intentionally open at the source fragment corresponding to `செல்லக்`; no scan 16 English prose is included;
+- new Batch 2 terminology/style decisions synchronized in `GLOSSARY.md`.
 
 The canonical audited Tamil `../../pages/` records remain final textual authority. The assembled Tamil section is reading-continuity support only.
