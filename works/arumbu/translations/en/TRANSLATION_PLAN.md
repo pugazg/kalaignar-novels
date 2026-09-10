@@ -53,17 +53,18 @@ Do not translate from memory, OCR, an internet edition, a normalized retelling o
 
 ```text
 works/arumbu/translations/en/
-  TRANSLATION_PLAN.md            # this checkpoint
-  README.md                      # create when Batch 1 begins
-  PROGRESS.md                    # create when Batch 1 begins
-  GLOSSARY.md                    # create with the pilot and lock decisions progressively
+  TRANSLATION_PLAN.md            # PASS / COMPLETE
+  README.md                      # initialized at planning checkpoint
+  PROGRESS.md                    # initialized at planning checkpoint
+  GLOSSARY.md                    # initialized; pilot locks applicable decisions
+  PLAN_CHECKPOINT.md             # planning checkpoint record
   sections/
-    01-arumbu.md                 # built in controlled batches; final one-section reading layer
+    01-arumbu.md                 # create with Batch 1; build in controlled batches
   TRANSLATION_REVIEW.md          # create only after all English batches are reviewed
   RELEASE_REPORT.md              # create only after whole-work bilingual verification
 ```
 
-This planning checkpoint creates no English prose.
+The planning checkpoint creates controls only; **no English prose is created before Batch 1**.
 
 ---
 
@@ -254,17 +255,18 @@ After all four batches are reviewed:
 
 **SECTION 14 ENGLISH TRANSLATION PLAN — PASS / COMPLETE.**
 
-No English prose has been created in this checkpoint.
+Initialized planning controls: `README.md`, `PROGRESS.md`, `GLOSSARY.md`, and `PLAN_CHECKPOINT.md`. No English prose has been created.
 
 ## Exact next activity
 
 Execute **Batch 1 — pilot, scans 6–10 only**:
 
-- create `translations/en/README.md`, `PROGRESS.md`, `GLOSSARY.md`, and `sections/01-arumbu.md` as needed for the pilot;
+- create `translations/en/sections/01-arumbu.md` with the pilot portion only;
 - translate only the audited Tamil corresponding to scans **6–10**;
 - retain scan/page provenance;
 - source-check the pilot back against canonical `pages/0006...0010`;
-- lock pilot terminology/style decisions in `GLOSSARY.md`;
+- lock pilot terminology/style decisions in the already-initialized `GLOSSARY.md`;
+- update `README.md` and `PROGRESS.md`;
 - mark Batch 1 `reviewed` only after source comparison;
 - synchronize controls, commit, and stop before Batch 2;
 - do not begin `சாரப்பள்ளம் சாமுண்டி` or the 1978 `பெரிய இடத்துப் பெண்` witness comparison.
