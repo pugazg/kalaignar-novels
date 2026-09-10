@@ -15,16 +15,31 @@
 **Unresolved English translation holds:** **0**  
 **Final bilingual review:** **PASSED**  
 **Whole-work English:** **VERIFIED**  
-**Release-readiness gate:** **READY / NEXT**
+**Section 17 release-readiness:** **PASSED**  
+**Archival/editorial package:** **RELEASE-READY**
 
-## Whole-work bilingual review closure
+## Bilingual-review closure
 
-The Section 16 gate passed after a whole-work order/coverage/consistency audit layered on the completed per-batch source checks. Seven final English corrections were made across Chapters 12, 14, 15, 16, 17 and 19: two Chapter 12 source-fidelity refinements; explicit preservation of the 117→118 and 122→123 physical discontinuities; correction of the Chapter 16 one-thousand-rupee amount; `நல்லெண்ணெய்` → “gingelly oil” in Chapter 17; and clarification of Chapter 19's room-swap knowledge state.
+The Section 16 whole-work gate passed after a complete order/coverage/consistency review layered on the completed per-batch source checks. Seven English-only fidelity/presentation corrections were made across Chapters 12, 14, 15, 16, 17 and 19. Canonical Tamil `pages/` and assembled Tamil chapter prose were unchanged.
 
-All 23 chapters remain in exact Tamil chapter order. Mixed boundaries, page/scan joins, the scan-66 visible `5`, the three known physical discontinuities and scan-179 non-body exclusion pass. No canonical Tamil `pages/` or assembled Tamil `sections/` were changed by the English review.
+## Release-readiness closure
 
-## Exact next activity
+The Section 17 gate verified:
 
-Run the **Section 17 release-readiness gate** in `RELEASE_REPORT.md`. It must verify reader-facing navigation, authority hierarchy, structural identity, documented source oddities, Tamil/English inventories and gate results, source-PDF exclusion, zero unauthorized Tamil changes during the release pass, non-blocking editorial limitations and the final archival/editorial release-ready verdict.
+- work and 1968 second-edition source identity;
+- canonical Tamil inventory **179 / 179**;
+- assembled Tamil inventory **23 / 23**;
+- English inventory **23 / 23**;
+- Tamil audit and bilingual review — **PASSED**;
+- reader-facing navigation — **PASSED and synchronized**;
+- authority hierarchy and one-to-one 23-chapter structural identity — **PASSED**;
+- source oddities at scan 66, 117→118, 122→123, 156→157 and scan 179 — **preserved**;
+- recursive repository-tree check — **no committed `.pdf` path**;
+- canonical Tamil changes during release pass — **0**;
+- unresolved Tamil / English holds — **0 / 0**.
 
-Do not equate archival/editorial release readiness with copyright, licensing, commercial republication or public-domain status.
+## Final state
+
+`வெள்ளிக்கிழமை` / _Friday_ is **RELEASE-READY within this archive**. This is an archival/editorial verdict only; copyright, licensing, republication and commercial-use questions remain outside the gate.
+
+The work is now closed as a completed reference implementation. Reopen only for genuinely new direct-source evidence or a separately authorized derived-edition task.

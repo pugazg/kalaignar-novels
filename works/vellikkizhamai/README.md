@@ -6,7 +6,9 @@
 **SHA-256:** `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`  
 **Scans:** 179
 
-## Current archival state
+## Release status
+
+**ARCHIVAL / EDITORIAL RELEASE-READY — COMPLETE.**
 
 - canonical Tamil page records — **179 / 179 COMPLETE / VERIFIED**;
 - unresolved Tamil source holds — **0**;
@@ -14,21 +16,44 @@
 - Tamil assembled reading layer — **PASSED / 23 of 23 chapters**;
 - final assembled consistency gate — **PASSED / 0 unresolved / 0 canonical changes**;
 - English translation plan — **COMPLETE**;
-- English chapters present/reviewed — **23 / 23**;
+- English chapter files — **23 / 23 REVIEWED**;
 - English coverage — **scan 4 through final narrative scan 179**;
 - unresolved English translation holds — **0**;
 - final bilingual review — **PASSED**;
 - whole-work English — **VERIFIED**;
-- release-readiness gate — **READY / NEXT**.
+- Section 17 release-readiness gate — **PASSED**;
+- source PDF in repository — **NO**.
 
-Canonical `pages/` remain controlling. PASSED Tamil `sections/` provide continuous reading. English is derived and never authorizes changes to Tamil.
+Canonical [`pages/`](pages/) remain controlling. PASSED Tamil [`sections/`](sections/) provide continuous reading. English is derived and never authorizes silent changes to Tamil.
 
-## English verification
+## Reader entry points
 
-All four translation batches are complete. The final whole-work bilingual gate checked exact chapter/source order, omission/duplication/addition risk, agency/speaker knowledge, recurring terminology, charged rhetoric, dialogue/verse, joins/boundaries, the three physical discontinuities, scan 66 and scan 179 provenance.
+- Source / edition identity — [`metadata/source.md`](metadata/source.md)
+- Scan and chapter map — [`indexes/page-map.md`](indexes/page-map.md)
+- Gate history — [`audit.md`](audit.md)
+- Canonical Tamil page records — [`pages/`](pages/)
+- Tamil reading layer — [`sections/README.md`](sections/README.md)
+- English translation — [`translations/en/README.md`](translations/en/README.md)
+- Final bilingual review — [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+- Final release report — [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
 
-Seven final English-only corrections were made across Chapters 12, 14, 15, 16, 17 and 19. No canonical Tamil `pages/` or assembled Tamil `sections/` changed.
+## Preserved source conditions
 
-## Exact next activity
+Release readiness retains the source exactly where it is unusual or physically discontinuous:
 
-Run the Section 17 **English release-readiness review** in `translations/en/RELEASE_REPORT.md`. Only that gate may declare the work archival/editorial **release-ready**.
+- scan 66 visibly prints only `5`; `65` is never inferred;
+- physical discontinuities at scans **117→118**, **122→123** and **156→157** remain unrepaired;
+- mixed chapter-boundary scans are split only at source-centered headings;
+- scan 179 contributes final narrative only; its lower illustration and later handwriting remain non-body material.
+
+The final bilingual review made seven English-only fidelity/presentation corrections across Chapters 12, 14, 15, 16, 17 and 19. No canonical Tamil page or assembled Tamil chapter prose changed.
+
+## Release meaning
+
+The Section 17 gate found the Tamil archive, assembled reading layer, verified English translation, navigation, provenance and repository inventory **release-ready within this archive**.
+
+This is an archival/editorial verdict only. It does **not** determine copyright, licensing, public-domain status, republication rights or commercial-use permission.
+
+## Closure
+
+This work is now a **completed reference implementation**. Do not reopen it without genuinely new direct-source evidence or a separately authorized derived-edition task.

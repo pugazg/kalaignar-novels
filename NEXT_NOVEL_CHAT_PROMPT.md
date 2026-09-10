@@ -1,47 +1,50 @@
-# Next Chat Prompt — வெள்ளிக்கிழமை / Release Readiness
+# Next Chat Prompt — Kalaignar Novels Archive / Next Source Intake
 
-Continue in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Controlling source
+## Durable checkpoint
 
-`TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-256 `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`, 179 scans, image-only, second edition 1968. Do not commit it.
+There is no active unfinished work at this checkpoint.
 
-## Closed Tamil state
+Latest completed work: `works/vellikkizhamai/` — **RELEASE-READY / CLOSED**.
 
-Canonical Tamil 179/179 VERIFIED; historical-glyph/full source audit PASSED; assembled Tamil 23/23 PASSED; 0 unresolved Tamil source holds. Known literal discontinuities remain at scans 117→118, 122→123 and 156→157.
+`வெள்ளிக்கிழமை` durable state:
 
-## English state
-
-- translation plan — COMPLETE;
-- Chapters 1–23 — REVIEWED / COMPLETE;
-- coverage — scan 4 through final narrative scan 179;
-- unresolved English translation holds — 0;
+- canonical Tamil — **179 / 179 VERIFIED**;
+- historical-glyph/full Tamil source audit — **PASSED**;
+- assembled Tamil — **23 / 23 PASSED**;
+- English chapters — **23 / 23 REVIEWED**;
 - final bilingual review — **PASSED**;
 - whole-work English — **VERIFIED**;
-- release-readiness gate — **READY / NOT YET RUN**.
+- Section 17 release-readiness — **PASSED**;
+- unresolved Tamil / English holds — **0 / 0**;
+- final release report — `works/vellikkizhamai/translations/en/RELEASE_REPORT.md`.
 
-The final bilingual gate made seven English-only corrections across Chapters 12, 14, 15, 16, 17 and 19. See `translations/en/TRANSLATION_REVIEW.md` and `GLOSSARY.md`. No canonical Tamil page or assembled Tamil section changed.
+Do **not** reopen `வெள்ளிக்கிழமை` from an older prompt unless genuinely new direct-source evidence, another edition, or a separately authorized derived-edition task appears.
 
-## Mandatory startup
+## Mandatory startup for the next source
 
-Read `NOVEL_PROCESSING_GUIDE.md` Sections 16–18, root `HANDOVER.md`, `works/vellikkizhamai/README.md`, `audit.md`, `indexes/page-map.md`, `translations/en/README.md`, `PROGRESS.md`, `GLOSSARY.md`, `TRANSLATION_REVIEW.md`, `RELEASE_REPORT.md`, and the English chapter inventory.
+Before changing anything:
+
+1. fetch live `main` and preserve newer durable work;
+2. read root `README.md`;
+3. read `NOVEL_PROCESSING_GUIDE.md` completely;
+4. read `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` if the new source uses historical Tamil print;
+5. read root `HANDOVER.md` and this prompt;
+6. inspect `works/` to determine whether the supplied work already has a directory;
+7. inspect the actual newly supplied source pages before trusting filename/title/year/edition assumptions;
+8. use `works/balipeedam-nokki/` and completed `works/vellikkizhamai/` only as workflow references, never as templates that override the new source's structure;
+9. do not commit any source PDF.
 
 ## Exact next activity
 
-Run the Section 17 **release-readiness review** and update `translations/en/RELEASE_REPORT.md`.
+When the next source is supplied, run **source intake / registration**:
 
-Verify:
+- establish title, author, publisher, edition/date and other bibliographic details from the actual scans;
+- record filename, SHA-256, size, physical scan count and scan condition;
+- identify printed-page numbering behaviour, blanks, illustrations, copy-specific marks and front/back matter;
+- create or reuse the correct `works/<slug>/` directory;
+- create/update `metadata/source.md`, initial `indexes/page-map.md`, work `README.md`, `audit.md`, root `HANDOVER.md` and this prompt;
+- only then open page-level transcription under the guide's source-first workflow.
 
-1. work identity and 1968 second-edition source identity;
-2. Tamil 179-page-record inventory and 23-section assembled inventory;
-3. English 23-section inventory and whole-work VERIFIED state;
-4. Tamil audit and final bilingual-review PASS results;
-5. reader-facing navigation and links/paths among work/translation/section controls;
-6. authority hierarchy and one-to-one 23-chapter structural identity;
-7. documented source oddities: scan 66, scans 117→118, 122→123, 156→157, and scan 179 non-body exclusion;
-8. source PDF remains excluded from the repository;
-9. no unauthorized canonical Tamil changes during the release pass;
-10. any non-blocking editorial limitations;
-11. final archival/editorial **release-ready / not-ready** verdict.
-
-If the gate passes, synchronize root/work/translation README, audit, handover and this prompt. Keep copyright/licensing/commercial-publication status explicitly separate from the archival/editorial verdict.
+If no new source is attached, stop at the completed checkpoint rather than inventing a next work.

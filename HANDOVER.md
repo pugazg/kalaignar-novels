@@ -4,14 +4,15 @@
 
 - Repository: `pugazg/kalaignar-novels`
 - Branch: `main`
-- Active work: `works/vellikkizhamai/`
 - Live `main` is authoritative.
+- Active unfinished work: **none at this checkpoint**.
+- Latest completed work: `works/vellikkizhamai/`.
 
-## Controlling source
+## Latest completed source — வெள்ளிக்கிழமை
 
-`TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-256 `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`, 179 scans, image-only, second edition 1968. Do not commit it.
+Controlling source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-256 `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`, 179 scans, image-only, second edition 1968. The source PDF is **not committed**.
 
-## Closed Tamil state
+### Closed Tamil state
 
 - canonical page records — **179 / 179 COMPLETE / VERIFIED**;
 - unresolved Tamil source holds — **0**;
@@ -19,9 +20,9 @@
 - assembled Tamil — **PASSED / 23 of 23 chapters**;
 - final assembled consistency gate — **PASSED / 0 unresolved / 0 canonical changes**.
 
-Do not reopen completed Tamil work without genuinely new direct-source evidence. Known literal discontinuities remain at scans 117→118, 122→123 and 156→157.
+Known literal discontinuities remain deliberately unrepaired at scans **117→118**, **122→123** and **156→157**. Scan 66 visibly prints only `5`; scan 179 contributes final narrative only.
 
-## English state
+### Closed English state
 
 Working title: **_Friday_**.
 
@@ -31,18 +32,33 @@ Working title: **_Friday_**.
 - unresolved English translation holds — **0**;
 - final whole-work bilingual review — **PASSED**;
 - whole-work English — **VERIFIED**;
-- release-readiness gate — **READY / NEXT**.
+- Section 17 release-readiness — **PASSED**;
+- combined archival/editorial package — **RELEASE-READY**.
 
-The final bilingual review made seven English-only fidelity/presentation corrections across Chapters 12, 14, 15, 16, 17 and 19. It confirmed exact chapter/source order, no remaining substantive omission/duplication/material addition, agency/speaker/knowledge-state fidelity, glossary consistency, charged rhetoric, all joins/boundaries, scan 66, the three source discontinuities and scan 179 non-body exclusion. No canonical Tamil page or assembled-section file changed.
+The Section 16 review made seven English-only fidelity/presentation corrections across Chapters 12, 14, 15, 16, 17 and 19. The Section 17 gate synchronized navigation/status documents, verified inventories, authority hierarchy, source oddities and repository-tree PDF exclusion, and made **0 changes** to canonical Tamil.
 
-## Batch rule
+Final release report: `works/vellikkizhamai/translations/en/RELEASE_REPORT.md`.
 
-The larger Batch 3 (Chapters 5–11) and Batch 4 (Chapters 12–23) were user-authorized exceptions. The repository's normal controlled-batch method is unchanged for future works.
+## Closure rule
+
+`வெள்ளிக்கிழமை` is now a completed reference implementation. Do not reopen it from an older prompt. Reopen only if genuinely new direct-source evidence, a newly supplied edition, or a separately authorized derived-edition task requires it.
+
+The larger English Batches 3 and 4 were explicit user-authorized exceptions; the normal controlled-batch workflow remains unchanged for future sources.
 
 ## Exact next activity
 
-Run the Section 17 **release-readiness review** in `works/vellikkizhamai/translations/en/RELEASE_REPORT.md`.
+Onboard the **next source edition** under `NOVEL_PROCESSING_GUIDE.md`:
 
-Required checks: work/source identity; Tamil and English inventories; Tamil audit and bilingual-review results; reader-facing navigation; authority hierarchy; structural identity; documented source oddities; source-PDF exclusion; zero unauthorized Tamil change during the release pass; non-blocking editorial limitations; and final archival/editorial release-ready / not-ready verdict.
+1. fetch live `main` and preserve newer durable work;
+2. read root `README.md`, `NOVEL_PROCESSING_GUIDE.md`, this handover and `NEXT_NOVEL_CHAT_PROMPT.md`;
+3. inspect the newly supplied source itself before trusting its filename;
+4. determine whether the work already exists in `works/` before creating a directory;
+5. register source identity/checksum/scan structure and build the initial page map;
+6. if the print uses older Tamil forms, apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` from the start;
+7. never commit the source PDF.
 
-Do not treat release-ready as a copyright, licensing, commercial-republication or public-domain determination.
+No new source is currently selected in this handover.
+
+## Release-status note
+
+`RELEASE-READY` is an archival/editorial repository verdict only. Copyright, licensing, public-domain, republication and commercial-use questions remain separate.

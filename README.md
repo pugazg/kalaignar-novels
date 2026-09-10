@@ -6,25 +6,32 @@
 
 ## Project controls
 
-- `NOVEL_PROCESSING_GUIDE.md`
-- `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-- `HANDOVER.md`
-- `NEXT_NOVEL_CHAT_PROMPT.md`
+- [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md)
+- [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md)
+- [`HANDOVER.md`](HANDOVER.md)
+- [`NEXT_NOVEL_CHAT_PROMPT.md`](NEXT_NOVEL_CHAT_PROMPT.md)
 
-## Active work — வெள்ளிக்கிழமை
+## Current queue
 
-Source: 1968 second edition, 179 scans. Canonical Tamil **179 / 179 VERIFIED**; historical-glyph and full Tamil source audit **PASSED**; assembled Tamil **23 / 23 PASSED**.
+There is **no active unfinished work** at this checkpoint. The latest project, [`வெள்ளிக்கிழமை`](works/vellikkizhamai/README.md), has completed the full source-registration → Tamil audit → assembled Tamil → English translation → bilingual review → release-readiness workflow.
 
-English working title: **_Friday_**. Translation plan is complete; English Chapters **1–23 / 23 are REVIEWED**, covering scan 4 through final narrative scan 179, with **0 unresolved English translation holds**.
+Exact next action: **onboard the next source edition** under `NOVEL_PROCESSING_GUIDE.md`. Do not reopen a completed work from a stale prompt unless genuinely new direct-source evidence appears.
 
-The final whole-work bilingual review has **PASSED**, so English is now **VERIFIED**. The review made seven English-only source-fidelity/presentation corrections across Chapters 12, 14, 15, 16, 17 and 19 and confirmed that no canonical Tamil `pages/` or assembled Tamil `sections/` changed.
+## Latest completed work — வெள்ளிக்கிழமை
 
-Release readiness is **READY / NEXT**, not yet passed. Next: run `works/vellikkizhamai/translations/en/RELEASE_REPORT.md` under Section 17 of the processing guide.
+[`works/vellikkizhamai/`](works/vellikkizhamai/README.md) — 1968 second edition, **179 / 179 canonical Tamil VERIFIED**, assembled Tamil **23 / 23 PASSED**, English **23 / 23 REVIEWED**, final bilingual review **PASSED**, whole-work English **VERIFIED**, Section 17 release-readiness **PASSED**.
+
+Final release report: [`works/vellikkizhamai/translations/en/RELEASE_REPORT.md`](works/vellikkizhamai/translations/en/RELEASE_REPORT.md).
 
 ## Completed works
 
 | நூல் | நிலை |
 |---|---|
+| [வெள்ளிக்கிழமை](works/vellikkizhamai/README.md) | Tamil 179/179 verified; assembled Tamil 23/23 PASSED; English VERIFIED; **release-ready** |
 | பெரிய இடத்துப் பெண் | Tamil source/assembly complete; English VERIFIED; release-ready with qualification |
 | புதையல் | canonical 448; 446 complete / 2 physical-loss needs-review; English VERIFIED; release-ready with qualification |
-| பலிபீடம் நோக்கி | Tamil 34/34 verified; assembled Tamil PASSED; English VERIFIED; release-ready |
+| [பலிபீடம் நோக்கி](works/balipeedam-nokki/README.md) | Tamil 34/34 verified; assembled Tamil PASSED; English VERIFIED; release-ready |
+
+## Release-status note
+
+Repository `release-ready` is an **archival/editorial** judgment. It does not automatically determine copyright, licensing, public-domain status, republication rights or commercial-use permission for an underlying work, scan or translation.

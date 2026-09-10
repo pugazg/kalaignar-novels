@@ -2,7 +2,7 @@
 
 Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — 179 scans; canonical mapping **179 / 179 COMPLETE / VERIFIED**.
 
-Tamil source/glyph audit and 23-chapter assembled Tamil layer: **PASSED**. English chapter layer: **23 / 23 REVIEWED**. Final bilingual review: **PASSED**. Whole-work English: **VERIFIED**.
+Tamil source/glyph audit and 23-chapter assembled Tamil layer: **PASSED**. English chapter layer: **23 / 23 REVIEWED**. Final bilingual review: **PASSED**. Whole-work English: **VERIFIED**. Section 17 release-readiness: **PASSED / RELEASE-READY**.
 
 ## Printed-page mapping
 
@@ -14,7 +14,7 @@ Tamil source/glyph audit and 23-chapter assembled Tamil layer: **PASSED**. Engli
 - scan 66 — source visibly prints only **`5`**; never infer `65`;
 - scans 67–179 — printed 66–178.
 
-## Chapter map / English state
+## Chapter map / final state
 
 | Chapter | Source coverage | Tamil | English chapter |
 |---:|---|---|---|
@@ -42,8 +42,16 @@ Tamil source/glyph audit and 23-chapter assembled Tamil layer: **PASSED**. Engli
 | 22 | scan 166 after `22` → scan 172 before `23` | VERIFIED | REVIEWED |
 | 23 | scan 172 after `23` → final narrative scan 179 | VERIFIED | REVIEWED |
 
-**Whole-work English state:** VERIFIED by `translations/en/TRANSLATION_REVIEW.md`. Individual chapter frontmatter remains `reviewed` by design.
+**Whole-work English:** VERIFIED by [`../translations/en/TRANSLATION_REVIEW.md`](../translations/en/TRANSLATION_REVIEW.md). Individual chapter front matter remains `reviewed` by design. Final release verdict is recorded in [`../translations/en/RELEASE_REPORT.md`](../translations/en/RELEASE_REPORT.md).
 
-Known physical discontinuities remain at scans 117→118, 122→123 and 156→157. Final scan 179 contains final narrative only; lower illustration/later handwriting remains excluded.
+## Source-oddity map
 
-Next: Section 17 release-readiness gate.
+- scan 66: printed number visibly `5`, not inferred `65`;
+- scan 117→118: literal physical discontinuity preserved;
+- scan 122→123: literal physical discontinuity preserved without supplied grammar;
+- scan 156→157: literal physical discontinuity preserved without supplied punctuation/missing text;
+- scan 179: final narrative only; lower illustration and later handwriting excluded from body text.
+
+## Closure
+
+**Release-readiness: PASSED.** No further processing gate remains for this source edition. Canonical `pages/` remain controlling and should be reopened only with genuinely new direct-source evidence.

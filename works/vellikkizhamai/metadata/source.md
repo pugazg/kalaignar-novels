@@ -7,7 +7,10 @@
 - SHA-256: `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`
 - file size: **251,126,214 bytes**
 - actual scans: **179**; image-only
-- title: **வெள்ளிக்கிழமை**; author: **மு. கருணாநிதி**; publisher: **திராவிடப்பண்ணை**; edition: **1968**.
+- title: **வெள்ளிக்கிழமை**
+- author: **மு. கருணாநிதி**
+- publisher: **திராவிடப்பண்ணை**
+- edition/year: **Second edition — 1968**
 
 ## Printed-page direct map
 
@@ -52,16 +55,20 @@ Earlier source-level resolutions and historical-glyph corrections remain documen
 
 Printer/signature marks remain outside body text, including scans **82 `6`, 98 `7`, 114 `8`, 130 `9`, 146 `10`, 162 `11—A`**. On scan 179, the lower printed illustration and faint later handwritten marks/numbers are recorded as non-body material and are not transcribed into the canonical narrative.
 
-## Current durable state
+## Durable completed state
 
-- manifest / scan coverage: **179 / 179**;
-- canonical page records: **179 / 179 — COMPLETE**;
-- final narrative: **scan 179 / printed 178**;
-- historical-glyph gates: **PASS / COMPLETE**;
-- unresolved source holds: **0**;
-- full Tamil source audit: **PASSED**;
-- Tamil source layer: **PASSED**;
-- assembled Tamil: **READY / NEXT — not started**;
-- English: **blocked until assembled Tamil passes its own consistency gate**.
+- manifest / scan coverage — **179 / 179**;
+- canonical page records — **179 / 179 COMPLETE / VERIFIED**;
+- final narrative — **scan 179 / printed 178**;
+- historical-glyph gates — **PASS / COMPLETE**;
+- unresolved Tamil source holds — **0**;
+- full Tamil source audit — **PASSED**;
+- assembled Tamil — **PASSED / 23 of 23 chapters**;
+- English chapter layer — **23 / 23 REVIEWED**;
+- final bilingual review — **PASSED**;
+- whole-work English — **VERIFIED**;
+- unresolved English translation holds — **0**;
+- Section 17 release-readiness — **PASSED**;
+- combined repository package — **RELEASE-READY within this archive**.
 
-Next: create and audit the **assembled Tamil reading layer** from canonical `pages/`, preserving page provenance and joining only already-verified page-boundary continuities.
+The source PDF remains external to the repository. Reopen this source record only for genuinely new direct-source evidence or a separately authorized new-edition comparison.
