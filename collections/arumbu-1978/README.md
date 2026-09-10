@@ -19,18 +19,16 @@ This directory records the source-volume identity and component-work map for the
 | Physical scans | Component | Repository handling | Current state |
 |---|---|---|---|
 | 1–5 | collection front matter | `collections/arumbu-1978/` | REGISTERED |
-| 6–23 | `அரும்பு` | `works/arumbu/` | **TAMIL + ASSEMBLED TAMIL PASSED / ENGLISH VERIFIED / SECTION 17 RELEASE-READINESS NEXT** |
+| 6–23 | `அரும்பு` | `works/arumbu/` | **TAMIL / ASSEMBLED TAMIL PASSED; RELEASE NOT READY — scan-17 English correction required** |
 | 24–48 | `சாரப்பள்ளம் சாமுண்டி` | `works/sarapallam-samundi/` | INTAKE COMPLETE / QUEUED |
 | 49–74 | `பெரிய இடத்துப் பெண்` | existing work | ADDITIONAL SOURCE WITNESS REGISTERED |
 | 75–90 | `நடுத்தெரு நாராயணி` | `works/nadutheru-narayani/` | INTAKE COMPLETE / QUEUED |
 | 91–92 | publisher catalogue / back cover | collection | REGISTERED |
 
-For `அரும்பு`, canonical Tamil is **18/18 VERIFIED**, whole-work Tamil audit and assembled Tamil are **PASS**, all four English batches are reviewed, and Section 16 whole-work bilingual review is **PASS / COMPLETE**. Whole-work English is **VERIFIED** with **0 unresolved translation items**.
-
-Section 16 made three English-only corrections and did not alter canonical Tamil. Protected final source handling remains scan 22 `பேசினேன்` → **I spoke**, scan 23 `அம்மனார்` → **Ammanar**, final `இனி:......` → **from now on:......**, and no unprinted **The End**.
+For `அரும்பு`, canonical Tamil is **18/18 VERIFIED** and assembled Tamil is **PASS / COMPLETE**. English covers all 18 source scans, but Section 17 release preflight found a source-fidelity mismatch on scan 17: canonical affirmative `பொய் அம்மா வேணும்` is currently rendered with an inserted English negative `don't`. `works/arumbu/translations/en/RELEASE_REPORT.md` records **NOT READY**.
 
 The printed-page 8→10 jump remains source-visible without inventing page 9. The controlling PDF remains excluded from the repository.
 
 ## Exact next activity
 
-Execute **Section 17 release-readiness for `works/arumbu/` only** and create `translations/en/RELEASE_REPORT.md`. Stop before beginning another component work.
+Perform the narrow Section 16 scan-17 English corrective re-open, reverify the affected translation, synchronize controls, and stop. Rerun Section 17 before starting `சாரப்பள்ளம் சாமுண்டி` or the 1978 `பெரிய இடத்துப் பெண்` witness comparison.
