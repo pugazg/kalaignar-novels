@@ -14,24 +14,20 @@
 - verified pages: **18 / 18 — scans 6–23 contiguous**;
 - scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
 - scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
-- scans 16–20 T1: **PASS / COMPLETE**;
-- scans 16–20 T2: **PASS / COMPLETE — 1 correction / 0 unresolved**;
-- scans 16–20 T3: **PASS / COMPLETE — 11 additional corrections / 0 unresolved**;
-- scans 21–23 T1: **PASS / COMPLETE**;
-- scans 21–23 T2: **PASS / COMPLETE — 0 corrections / 0 unresolved**;
-- scans 21–23 T3: **PASS / COMPLETE — 4 additional corrections / 0 unresolved**;
-- page-level source gates: **PASS / COMPLETE — 18 / 18 VERIFIED**;
-- whole-work Tamil audit: **NEXT**;
-- assembled Tamil: **BLOCKED by whole-work Tamil audit**;
+- scans 16–20 T1/T2/T3: **PASS / COMPLETE**;
+- scans 21–23 T1/T2/T3: **PASS / COMPLETE**;
+- whole-work Tamil audit: **PASS / COMPLETE**;
+- Tamil source layer: **PASSED**;
+- assembled Tamil: **NEXT**;
 - English: **BLOCKED**.
 
 This is the first component of the 1978 four-story compilation. Collection provenance is recorded at `../../collections/arumbu-1978/`.
 
 ## Checkpoint workflow
 
-Source batches follow [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](../../SOURCE_BATCH_CHECKPOINT_WORKFLOW.md): T1 direct transcription → sync/commit/stop; T2 independent historical-glyph re-read → sync/commit/stop; T3 final source-fidelity closure → sync/commit/stop.
+Source batches followed [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](../../SOURCE_BATCH_CHECKPOINT_WORKFLOW.md): T1 direct transcription → sync/commit/stop; T2 independent historical-glyph re-read → sync/commit/stop; T3 final source-fidelity closure → sync/commit/stop. After all 18 pages closed, the separate Section 12 whole-work Tamil audit was completed before any reading-layer derivation.
 
-## Closed batches
+## Closed source batches
 
 ### Scans 6–10
 
@@ -43,27 +39,41 @@ T1/T2/T3 **PASS / COMPLETE**; five records **VERIFIED**. T2: 1 correction; T3: 2
 
 ### Scans 16–20
 
-- [`T1_BATCH_016_020.md`](T1_BATCH_016_020.md) — PASS;
-- [`T2_BATCH_016_020.md`](T2_BATCH_016_020.md) — PASS, 1 character-identity correction / 0 unresolved;
-- [`T3_BATCH_016_020.md`](T3_BATCH_016_020.md) — PASS, 11 additional source-fidelity corrections / 0 unresolved;
-- five records — **VERIFIED**.
+T1/T2/T3 **PASS / COMPLETE**; five records **VERIFIED**. T2: 1 character-identity correction; T3: 11 additional source-fidelity corrections; unresolved: 0.
 
-### Scans 21–23 — CLOSED / VERIFIED
+### Scans 21–23
 
 - [`T1_BATCH_021_023.md`](T1_BATCH_021_023.md) — **PASS / COMPLETE**;
 - [`T2_BATCH_021_023.md`](T2_BATCH_021_023.md) — **PASS / COMPLETE — 0 corrections / 0 unresolved**;
 - [`T3_BATCH_021_023.md`](T3_BATCH_021_023.md) — **PASS / COMPLETE — 4 corrections / 0 unresolved**;
-- canonical records — scans 21, 22, 23 / printed pages **17, 18, 19** — all **VERIFIED**;
-- T3 corrected scan-21 punctuation `பார்த்தான்:` / `கிடந்தன:` to source periods, scan-22 `ஆஸ்பத்திரியிலே` → `ஆஸ்பத்திரியில்`, and scan-23 final `இனி......` → `இனி:......`;
-- T2-confirmed `பேசினேன்` and `அம்மனார்` remain source-faithful and unchanged;
-- scan 23 is the final physical page of `அரும்பு`; no explicit `முற்றும்` is printed.
+- three records — **VERIFIED**;
+- directly visible printed pages: **17, 18, 19**;
+- scan 23 is the final physical page; no explicit `முற்றும்` is printed.
 
-Preserved final continuity:
+Source-confirmed unusual readings `பேசினேன்` (scan 22) and `அம்மனார்` (scan 23) remain unchanged.
 
-- 20→21: `அவனது அம்மா படம்!` → `அதை எடுத்து...`;
-- 21→22: `அப்பா பாப்பாவை நினைத்து` → `அழுதுகொண்டே யிருக்கிறாரே!`;
-- 22→23: completed sentence → new paragraph `அவளையறியாமல்,...`.
+## Whole-work Tamil audit
+
+**PASS / COMPLETE.** See [`audit.md`](audit.md).
+
+The audit confirms:
+
+- complete contiguous physical coverage for scans **6–23** and **18 / 18 VERIFIED** page records;
+- collection/work metadata agreement and source-PDF exclusion;
+- source-supported printed-page mapping, including scan 6 unnumbered and the visible scan 13→14 printed-number jump **8 → 10** without inventing page 9;
+- physical narrative continuity across that jump (`ஊற்றெடுத்துக் கிளம்பிவரும்` → `அருவி!`);
+- historical-glyph and final source-fidelity unresolved counts both **0**;
+- source spelling, punctuation, period forms and unusual readings preserved without silent modernization;
+- no source-backed chapter divisions requiring multiple assembled sections.
 
 ## Exact next activity
 
-Run the **whole-work Tamil audit gate for `அரும்பு` only** under `NOVEL_PROCESSING_GUIDE.md` Section 12. Reconcile all 18 canonical records, the page map, metadata, structural identity, page-number evidence, cross-page continuity, unresolved-item state, historical-glyph coverage and source-PDF exclusion. Confirm that no silent modernization/correction remains and record a clear PASS/hold result. Stop before assembled Tamil, English, or `சாரப்பள்ளம் சாமுண்டி`.
+Create the **assembled Tamil reading layer only**:
+
+- `sections/README.md`;
+- `sections/01-arumbu.md` as a continuous source-faithful reading layer unless direct structure evidence requires otherwise;
+- derive only from verified canonical `pages/` records;
+- preserve source wording and retain reversible page provenance comments;
+- join only already-established cross-page continuations;
+- do not invent chapters or begin English translation;
+- synchronize controls and commit, then stop before `சாரப்பள்ளம் சாமுண்டி`.

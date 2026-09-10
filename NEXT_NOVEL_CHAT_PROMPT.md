@@ -1,4 +1,4 @@
-# Next Chat Prompt — அரும்பு / whole-work Tamil audit gate
+# Next Chat Prompt — அரும்பு / assembled Tamil reading layer
 
 Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections/arumbu-1978/`, active work `works/arumbu/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -17,7 +17,7 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 ## Durable compilation structure
 
 - scans 1–5 — collection front matter;
-- scans 6–23 — `அரும்பு` — ACTIVE, page-level source gates complete;
+- scans 6–23 — `அரும்பு` — **TAMIL SOURCE LAYER PASSED**;
 - scans 24–48 — `சாரப்பள்ளம் சாமுண்டி` — queued;
 - scans 49–74 — `பெரிய இடத்துப் பெண்` — additional witness only;
 - scans 75–90 — `நடுத்தெரு நாராயணி` — queued;
@@ -25,66 +25,53 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 
 ## Mandatory startup
 
-Read before the audit:
+Read before assembled-layer work:
 
-1. `NOVEL_PROCESSING_GUIDE.md`, especially Section 12 Tamil audit gate;
-2. `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`;
-3. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
-4. root `HANDOVER.md`;
-5. `collections/arumbu-1978/README.md`;
-6. `works/arumbu/README.md`;
-7. `works/arumbu/metadata/source.md`;
-8. `works/arumbu/indexes/page-map.md`;
-9. `works/arumbu/audit.md`;
-10. `works/arumbu/T1_BATCH_021_023.md`;
-11. `works/arumbu/T2_BATCH_021_023.md`;
-12. `works/arumbu/T3_BATCH_021_023.md`;
-13. canonical page records under `works/arumbu/pages/` as needed to reconcile the complete inventory and continuity.
+1. `NOVEL_PROCESSING_GUIDE.md`, especially Section 13 assembled Tamil reading layer;
+2. root `HANDOVER.md`;
+3. `collections/arumbu-1978/README.md`;
+4. `works/arumbu/README.md`;
+5. `works/arumbu/audit.md`;
+6. `works/arumbu/indexes/page-map.md`;
+7. all verified canonical page records under `works/arumbu/pages/` needed to derive the continuous reading layer.
 
-## Durable state
+Do not reopen source transcription unless genuinely new direct source evidence appears.
 
-Page-level source processing for `அரும்பு` is complete:
+## Durable `அரும்பு` state
 
-- canonical records: **18 / 18 — scans 6–23**;
+- physical source span: **scans 6–23 / 18 scans**;
+- canonical records: **18 / 18**;
 - verified records: **18 / 18 — scans 6–23 contiguous**;
-- scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
-- scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
-- scans 16–20 T1/T2/T3: **PASS / COMPLETE**;
-- scans 21–23 T1: **PASS / COMPLETE**;
-- scans 21–23 T2: **PASS / COMPLETE — 0 corrections / 0 unresolved**;
-- scans 21–23 T3: **PASS / COMPLETE — 4 corrections / 0 unresolved**;
-- whole-work Tamil audit: **NEXT**;
-- assembled Tamil / English remain BLOCKED.
+- all T1/T2/T3 page-level gates: **PASS / COMPLETE**;
+- whole-work Tamil audit: **PASS / COMPLETE**;
+- Tamil source layer: **PASSED**;
+- unresolved historical glyphs: **0**;
+- unresolved source readings: **0**;
+- assembled Tamil: **NEXT**;
+- English: **BLOCKED**.
 
-Final-batch T3 corrections:
+Important source facts to preserve:
 
-- scan 21 `பார்த்தான்:` → `பார்த்தான்.`;
-- scan 21 `கிடந்தன:` → `கிடந்தன.`;
-- scan 22 `ஆஸ்பத்திரியிலே` → `ஆஸ்பத்திரியில்`;
-- scan 23 `இனி......` → `இனி:......`.
+- scan 6 has no directly visible printed number; keep it unnumbered in provenance;
+- scan 13 / printed 8 → scan 14 / printed 10 is a source-visible pagination jump; do not invent page 9;
+- the 13→14 narrative join is `ஊற்றெடுத்துக் கிளம்பிவரும்` / `அருவி!`;
+- scan 22 source-confirmed `பேசினேன்` remains unchanged;
+- scan 23 source-confirmed `அம்மனார்` remains unchanged;
+- scan 23 is the final physical page and has no explicit `முற்றும்`;
+- no source-backed chapter divisions have been identified for this work.
 
-Source-confirmed unusual readings remain:
+## Exact next activity — assembled Tamil only
 
-- scan 22 — `பேசினேன்`;
-- scan 23 — `அம்மனார்`.
+Build the readable Tamil derivation under `works/arumbu/sections/`:
 
-Scan 23 is the final physical page of `அரும்பு`; no explicit `முற்றும்` is printed.
+- create `works/arumbu/sections/README.md` describing the derivation/provenance rules and section inventory;
+- create `works/arumbu/sections/01-arumbu.md` as one continuous source-faithful reading section unless the verified canonical records directly demonstrate a different structural division;
+- derive text **only** from the 18 audited canonical page records; do not independently re-transcribe from the PDF;
+- preserve source spelling, punctuation, paragraphing, dialogue, rhetoric, period forms and documented unusual readings;
+- join only positively established cross-page word/sentence continuations for readability;
+- retain reversible source-page provenance comments so every assembled passage can be traced back to its physical scan/page record;
+- do not modernize, silently correct, invent chapters, or fabricate printed page 9;
+- synchronize `works/arumbu/README.md`, `works/arumbu/audit.md`, root `HANDOVER.md`, root `README.md`, and this prompt as affected;
+- commit the assembled-Tamil checkpoint and stop.
 
-## Exact next activity — whole-work Tamil audit only
-
-Run the Section 12 Tamil audit gate for `அரும்பு`:
-
-- confirm all **18 / 18** source scans have canonical records and page-map coverage with no gap;
-- confirm all 18 records are `verified` and every required page-level T1/T2/T3 gate is durably recorded;
-- reconcile `works/arumbu/metadata/source.md` and collection provenance with the controlling source identity;
-- confirm visible printed-page mapping, including unnumbered scan 6 and final visible printed page 19 on scan 23;
-- confirm cross-page joins and component boundaries are coherent and reversible;
-- confirm illustrations/footer/non-body observations are separated from narrative text;
-- confirm historical-glyph coverage is complete and unresolved historical/source readings are **0**;
-- confirm no silent modernization, context reconstruction or unsupported normalization remains in the canonical layer;
-- confirm the source PDF remains excluded from the repository;
-- update `works/arumbu/audit.md` with an explicit whole-work Tamil audit PASS/hold result;
-- synchronize `works/arumbu/README.md`, page map if needed, root `HANDOVER.md`, `NEXT_NOVEL_CHAT_PROMPT.md`, root `README.md`, and collection status if affected;
-- commit the audit checkpoint and stop.
-
-Do **not** create assembled Tamil sections, start English, begin `சாரப்பள்ளம் சாமுண்டி`, or perform the 1978 `பெரிய இடத்துப் பெண்` witness comparison in this checkpoint.
+Do **not** begin English translation, `சாரப்பள்ளம் சாமுண்டி`, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.

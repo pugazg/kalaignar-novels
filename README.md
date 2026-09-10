@@ -18,7 +18,7 @@
 
 Component handling:
 
-- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **ACTIVE; page-level T1/T2/T3 complete, whole-work Tamil audit next**;
+- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **TAMIL SOURCE LAYER PASSED / ASSEMBLED TAMIL NEXT**;
 - [`சாரப்பள்ளம் சாமுண்டி`](works/sarapallam-samundi/README.md) — scans 24–48 — registered / queued;
 - [`பெரிய இடத்துப் பெண்`](works/periya-idathup-pen/README.md) — scans 49–74 — additional witness to the existing work, not a duplicate;
 - [`நடுத்தெரு நாராயணி`](works/nadutheru-narayani/README.md) — scans 75–90 — registered / queued.
@@ -30,17 +30,17 @@ Component handling:
 - scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
 - scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
 - scans 16–20 T1/T2/T3: **PASS / COMPLETE**;
-- scans 16–20 T2: 1 correction / 0 unresolved;
-- scans 16–20 T3: 11 additional source-fidelity corrections / 0 unresolved;
-- scans 21–23 T1: **PASS / COMPLETE**;
-- scans 21–23 T2: **PASS / COMPLETE — 0 corrections / 0 unresolved**;
-- scans 21–23 T3: **PASS / COMPLETE — 4 additional corrections / 0 unresolved**;
-- whole-work Tamil audit: **NEXT**;
-- assembled Tamil / English: **BLOCKED until the Tamil audit gate passes**.
+- scans 21–23 T1/T2/T3: **PASS / COMPLETE**;
+- historical-glyph unresolved items: **0**;
+- source-fidelity unresolved items: **0**;
+- whole-work Tamil audit: **PASS / COMPLETE**;
+- Tamil source layer: **PASSED**;
+- assembled Tamil: **NEXT**;
+- English: **BLOCKED**.
 
-Final-batch T3 corrected two scan-21 punctuation marks, scan-22 `ஆஸ்பத்திரியிலே` → `ஆஸ்பத்திரியில்`, and scan-23 `இனி......` → `இனி:......`. T2-confirmed source readings `பேசினேன்` and `அம்மனார்` remain unchanged.
+The Tamil audit preserves the source-visible printed pagination exactly: scan 6 is unnumbered; scans 7–13 show 2–8; scan 14 shows 10; scans 15–23 show 11–19. No printed page 9 is inferred. Physical narrative continuity across scans 13→14 is directly established.
 
-Exact next action: **run the whole-work Tamil audit gate for `அரும்பு` only**, synchronize controls, commit, and stop before assembled Tamil, English, `சாரப்பள்ளம் சாமுண்டி`, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison.
+Exact next action: **build the assembled Tamil reading layer for `அரும்பு` only from its 18 verified canonical records**, synchronize controls, commit, and stop before English or `சாரப்பள்ளம் சாமுண்டி`.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 

@@ -25,35 +25,43 @@ Source physical span: **scans 6–23** of the 92-scan 1978 compilation.
 
 Canonical page records: **18 / 18 — scans 6–23**.  
 Verified canonical records: **18 / 18 — scans 6–23 contiguous**.  
+Whole-work Tamil audit: **PASS / COMPLETE**.  
+Tamil source layer: **PASSED**.  
 Unresolved historical glyphs: **0**.  
-Unresolved source readings after page-level T3 closure: **0**.
+Unresolved source readings: **0**.
+
+## Printed-page behaviour
+
+- scan 6 is the opening page and has no clearly visible printed number; `null` is retained rather than inferring `1`;
+- visible printed numbers run **2–8** on scans 7–13;
+- scan 14 visibly prints **10**, producing a source-visible numbering jump **8 → 10**;
+- scans 15–23 visibly print **11–19**;
+- no synthetic printed page 9 is created.
+
+The printed-number jump does not create a physical source-coverage gap: scan 13 ends `ஊற்றெடுத்துக் கிளம்பிவரும்` and scan 14 begins `அருவி!`, preserving direct narrative continuity.
 
 ## Closed batches
 
 - scans 6–10 — T1+T2+T3 PASS / VERIFIED;
 - scans 11–15 — T1+T2+T3 PASS / VERIFIED;
-- scans 16–20 — T1+T2+T3 PASS / VERIFIED; T2 1 correction; T3 11 additional corrections; 0 unresolved;
-- scans 21–23 — T1+T2+T3 PASS / VERIFIED; T2 0 corrections; T3 4 additional corrections; 0 unresolved.
+- scans 16–20 — T1+T2+T3 PASS / VERIFIED;
+- scans 21–23 — T1+T2+T3 PASS / VERIFIED.
 
-Final-batch T3 corrections:
+Across the full component, T2 left **0 unresolved historical glyphs** and T3 left **0 unresolved source readings**.
 
-- scan 21: `பார்த்தான்:` → `பார்த்தான்.`;
-- scan 21: `கிடந்தன:` → `கிடந்தன.`;
-- scan 22: `ஆஸ்பத்திரியிலே` → `ஆஸ்பத்திரியில்`;
-- scan 23: `இனி......` → `இனி:......`.
+Representative preserved joins include:
 
-Continuity retained:
-
+- 13→14: `ஊற்றெடுத்துக் கிளம்பிவரும்` → `அருவி!`;
 - 15→16: `செல்லக்` → `குழந்தையை—...`;
 - 16→17: `அவர்களைக்-` → `கவனிக்கிறான்.`;
 - 18→19: `செலவா` → `யிற்று.`;
 - 19→20: `கடிந்துகொண்` → `டிருக்கிறாள்.`;
 - 20→21: `அவனது அம்மா படம்!` → `அதை எடுத்து...`;
 - 21→22: `அப்பா பாப்பாவை நினைத்து` → `அழுதுகொண்டே யிருக்கிறாரே!`;
-- 22→23: scan 22 closes a complete sentence; scan 23 begins `அவளையறியாமல்,...`.
+- 22→23: completed sentence → new paragraph `அவளையறியாமல்,...`.
 
 Scan 23 is the final physical page of this component and contains no explicit `முற்றும்`.
 
-## Exact next gate
+## Exact next activity
 
-**Whole-work Tamil audit — NEXT.** Page-level T1/T2/T3 coverage is complete, but the Section 12 Tamil audit in `NOVEL_PROCESSING_GUIDE.md` must still reconcile inventory, metadata, mapping, continuity, structural identity, unresolved state and source exclusion before the Tamil source layer can be marked PASSED. Do not begin assembled Tamil, English, or `சாரப்பள்ளம் சாமுண்டி` in that same checkpoint.
+Build the assembled Tamil reading layer from these **18 audited records**. Do not re-transcribe, modernize, invent a missing printed page/chapter, start English, or begin `சாரப்பள்ளம் சாமுண்டி` in the same checkpoint.
