@@ -25,7 +25,7 @@ Collection-level intake: `collections/arumbu-1978/` — **COMPLETE**.
 
 ## Component map
 
-1. `அரும்பு` — scans **6–23** — `works/arumbu/` — **ACTIVE**.
+1. `அரும்பு` — scans **6–23** — `works/arumbu/` — **ACTIVE; final batch T1 complete, T2 next**.
 2. `சாரப்பள்ளம் சாமுண்டி` — scans **24–48** — queued.
 3. `பெரிய இடத்துப் பெண்` — scans **49–74** — additional 1978 witness only; existing controlling source/canonical freeze unchanged.
 4. `நடுத்தெரு நாராயணி` — scans **75–90** — queued.
@@ -39,27 +39,32 @@ Root `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md` is authoritative: T1 direct visual tr
 ## `அரும்பு` durable state
 
 - work span: **18 scans — physical 6–23**;
-- canonical records: **15 / 18 — scans 6–20**;
+- canonical records: **18 / 18 — scans 6–23**;
 - verified canonical records: **15 / 18 — scans 6–20 contiguous**;
 - scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
 - scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
 - scans 16–20 T1: **PASS / COMPLETE**;
 - scans 16–20 T2: **PASS / COMPLETE — 1 correction / 0 unresolved**;
 - scans 16–20 T3: **PASS / COMPLETE — 11 additional corrections / 0 unresolved**;
-- scans 21–23 T1: **NEXT**;
+- scans 21–23 T1: **PASS / COMPLETE**;
+- scans 21–23 T2: **NEXT**;
+- scans 21–23 T3: BLOCKED by T2;
 - assembled Tamil and English remain BLOCKED.
 
-Scans 16–20 directly visible printed pages: **12, 13, 14, 15, 16**. Preserved joins: 15→16 `செல்லக்` / `குழந்தையை—...`; 16→17 `அவர்களைக்-` / `கவனிக்கிறான்.`; 18→19 `செலவா` / `யிற்று.`; 19→20 `கடிந்துகொண்` / `டிருக்கிறாள்.`.
+Scans 21–23 directly visible printed pages: **17, 18, 19**. Scan 21 T1 was committed separately at `89c41ba57f634bf222cb484d605f32217ccb7176`; scans 22–23 completed the bounded T1 range and the controls are now synchronized.
 
-T3 restored source-supported wording including `அனுயாசமாகக்`, `இருதயத்திலே`, `அடியெடுத்து வைத்த`, `அலுவலகத்திலிருந்து`, `என்ற ஆராய்ச்சியில்`, `பழகும், வளமும் இருக்கும் போதே`, scan-19 wording/spacing, and scan-20 `தூங்காமல் புரண்டுகொண்டிருந்த குமார், மெதுவாக எழுந்தான்.`. Unresolved source readings: **0**.
+Preserved final-batch continuity: 20→21 `அவனது அம்மா படம்!` / `அதை எடுத்து...`; 21→22 `அப்பா பாப்பாவை நினைத்து` / `அழுதுகொண்டே யிருக்கிறாரே!`; 22→23 completed sentence / new paragraph `அவளையறியாமல்,...`.
+
+Scan 23 is the final physical page of `அரும்பு`; no explicit `முற்றும்` is printed. The three final records remain `needs-review` until T2 and T3 pass.
 
 ## Exact next activity
 
-Execute **`அரும்பு` scans 21–23 / T1 only**:
+Execute **`அரும்பு` scans 21–23 / T2 only**:
 
-- visually transcribe each complete physical scan once;
-- create canonical `needs-review` records;
-- record only directly visible printed-page numbers;
-- preserve physical joins, illustrations and non-body marks separately;
-- synchronize affected controls and commit T1 immediately;
-- stop before T2 and before starting `சாரப்பள்ளம் சாமுண்டி`.
+- independently re-read all three complete physical scans against `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+- explicitly check the sensitive historical glyph families required by the guide;
+- correct character identity only when direct source pixels support it;
+- use crops/enhancements only for genuinely uncertain readings;
+- record corrections and any unresolved glyphs in the work/batch audit;
+- synchronize affected controls and commit T2 immediately;
+- stop before T3 and before starting `சாரப்பள்ளம் சாமுண்டி`.
