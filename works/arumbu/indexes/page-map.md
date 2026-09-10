@@ -26,49 +26,27 @@ Source physical span: **scans 6–23** of the 92-scan 1978 compilation.
 Canonical / verified records: **18 / 18 — scans 6–23 contiguous**.  
 Whole-work Tamil audit: **PASS / COMPLETE**.  
 Assembled Tamil: **PASS / COMPLETE — 1 / 1 section**.  
-English batches: **4 / 4 REVIEWED / COMPLETE — scans 6–23 covered**.  
-Section 16 was previously marked **PASS / English VERIFIED**, but Section 17 release preflight found a scan-17 source-fidelity blocker; a narrow Section 16 corrective re-open is **NEXT**.  
-Section 17 release-readiness: **NOT READY / correction required**.  
-Unresolved historical glyphs / canonical source readings: **0 / 0**.
+English: **18 / 18 scans; Section 16 PASS / whole-work VERIFIED after scan-17 corrective re-open**.  
+Section 17 release-readiness: **RERUN NEXT — previous blocker resolved**.
 
 ## Printed-page behaviour
 
-- scan 6 is unnumbered; no printed page 1 is inferred;
-- scans 7–13 visibly print 2–8;
-- scan 14 visibly prints 10, preserving the source jump **8 → 10**;
-- scans 15–23 visibly print 11–19;
-- no synthetic printed page 9 is created.
-
-The number jump does not create a source gap: scan 13 ends `ஊற்றெடுத்துக் கிளம்பிவரும்` and scan 14 begins `அருவி!`.
+- scan 6 unnumbered;
+- scans 7–13 printed 2–8;
+- scan 14 printed 10;
+- scans 15–23 printed 11–19;
+- no synthetic printed page 9.
 
 ## Established joins
 
-- 7→8: `நடந்` → `தேறின.`;
-- 8→9: `அபிநய` → `அசைவுகளை`;
-- 9→10: `வைத்தியரை அழைத்து` → `வந்துவிடுகிறேன்”`;
-- 11→12: `போய்` → `விட்டனர்.`;
-- 13→14: `ஊற்றெடுத்துக் கிளம்பிவரும்` → `அருவி!`;
-- 15→16: `செல்லக்` → `குழந்தையை—...`;
-- 16→17: `அவர்களைக்-` → `கவனிக்கிறான்.`;
-- 17→18: `குமார்` → `பள்ளிக்கூடத்தில்...`;
-- 18→19: `செலவா` → `யிற்று.`;
-- 19→20: `கடிந்துகொண்` → `டிருக்கிறாள்.`;
-- 20→21: `அவனது அம்மா படம்!` → `அதை எடுத்து...`;
-- 21→22: `அப்பா பாப்பாவை நினைத்து` → `அழுதுகொண்டே யிருக்கிறாரே!`;
-- 22→23: completed sentence → new paragraph `அவளையறியாமல்,...`.
+7→8 `நடந்` / `தேறின.`; 8→9 `அபிநய` / `அசைவுகளை`; 9→10 `வைத்தியரை அழைத்து` / `வந்துவிடுகிறேன்”`; 11→12 `போய்` / `விட்டனர்.`; 13→14 `ஊற்றெடுத்துக் கிளம்பிவரும்` / `அருவி!`; 15→16 `செல்லக்` / `குழந்தையை—...`; 16→17 `அவர்களைக்-` / `கவனிக்கிறான்.`; 17→18 `குமார்` / `பள்ளிக்கூடத்தில்...`; 18→19 `செலவா` / `யிற்று.`; 19→20 `கடிந்துகொண்` / `டிருக்கிறாள்.`; 20→21 `அவனது அம்மா படம்!` / `அதை எடுத்து...`; 21→22 `அப்பா பாப்பாவை நினைத்து` / `அழுதுகொண்டே யிருக்கிறாரே!`.
 
-Scan 23 is the final physical page and contains no explicit `முற்றும்`.
+Scan 23 is final and has no explicit `முற்றும்`.
 
-## Reading layers
+## Corrective English note
 
-- Tamil: `../sections/01-arumbu.md` — **PASSED / COMPLETE**;
-- English: `../translations/en/sections/01-arumbu.md` — full scan coverage exists, but release closure is blocked pending the documented scan-17 correction;
-- release preflight record: `../translations/en/RELEASE_REPORT.md`.
-
-## Release-gate blocker
-
-Canonical scan 17 reads `எனக்குப் பொய் அம்மா வேணும்!`, while current English inserts `don't` in “I don't want a fake Amma!”. The canonical/source affirmative must not be silently normalized. See `../translations/en/RELEASE_REPORT.md`.
+Scan 17 affirmative `எனக்குப் பொய் அம்மா வேணும்!` is now preserved as **“I want a fake Amma!”**, not context-normalized to a negative. The paragraph and 16→17 / 17→18 joins passed corrective review.
 
 ## Exact next activity
 
-Perform the **narrow Section 16 corrective re-open for scan 17 only**, synchronize English/review controls, and stop. Then rerun Section 17 release-readiness before beginning another component work.
+Rerun Section 17 release-readiness and stop before another component.
