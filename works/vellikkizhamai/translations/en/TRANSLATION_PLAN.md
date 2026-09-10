@@ -4,35 +4,27 @@
 
 Create a clear, source-bound English translation of **மு. கருணாநிதியின் `வெள்ளிக்கிழமை`** from the audited 1968 second-edition Tamil preserved in this repository.
 
-Working English title:
+Working English title: **_Friday_**.
 
-**_Friday_**
+`வெள்ளிக்கிழமை` remains the authoritative archival title. `_Friday_` is a working English reading title, not a replacement bibliographic title.
 
-`வெள்ளிக்கிழமை` remains the authoritative archival title. `_Friday_` is the working English reading title, not a replacement bibliographic title.
-
-The translation must preserve the novel's narrative sequence, dialogue, emotional intensity, irony, social criticism, religious/caste language, repetitions, abrupt turns, source oddities and chapter structure without turning it into a modern adaptation.
-
----
+The English must preserve narrative sequence, dialogue, emotional intensity, irony, humour, social criticism, religious/caste language, repetition, abrupt turns, source oddities and the 23-chapter structure without turning the novel into a modern adaptation.
 
 ## 2. Source-authority hierarchy
 
-Translation follows this authority order:
+Translation follows this order:
 
-1. **Controlling source scan** — `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`; ultimate authority if a Tamil reading ever has to be reopened.
-2. **Canonical audited Tamil page records** — `../../pages/`; controlling repository text for exact wording, punctuation, names, source oddities and provenance.
-3. **PASSED assembled Tamil chapters** — `../../sections/`; continuous reading layer and already-verified page-boundary joins.
-4. **Metadata / audit / page map** — `../../metadata/source.md`, `../../audit.md`, `../../indexes/page-map.md`.
-5. **English translation** — derived layer only.
+1. controlling source scan — `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`, if a Tamil reading must ever be reopened;
+2. canonical audited Tamil `../../pages/` records — controlling repository text for exact wording, punctuation, names, source oddities and provenance;
+3. PASSED assembled Tamil `../../sections/` — continuous reading layer and verified page-boundary joins;
+4. metadata/audit/page-map controls;
+5. English translation — derived layer only.
 
-Normal translation review works from the canonical audited Tamil `pages/` plus the PASSED `sections/` layer. If the English review reveals a possible Tamil transcription problem, stop translation at that point and reopen the scan; never silently correct Tamil inside English.
+If English review exposes a possible Tamil problem, stop translation at that point and reopen the source. Never silently repair Tamil through English. Do not translate from OCR, memory, an internet edition, a later edition or a normalized retelling.
 
-Do not translate from OCR, memory, an internet edition, a later edition or a normalized retelling.
+## 3. English structure
 
----
-
-## 3. English file structure
-
-Final English reading structure mirrors the 23 verified Tamil chapters one-to-one:
+The final English reading layer mirrors the 23 verified Tamil chapters one-to-one:
 
 ```text
 works/vellikkizhamai/translations/en/
@@ -49,297 +41,200 @@ works/vellikkizhamai/translations/en/
     23-chapter-23.md
 ```
 
-Each English chapter file is created only when that chapter is translated. Empty translation files must not be pre-created merely to make the inventory look complete.
+Create a chapter file only when that chapter is actually translated. Do not pre-create empty prose files.
 
----
+## 4. Controlled batch map
 
-## 4. Controlled batch plan
+| Batch | Chapters | Source coverage | Status |
+|---|---:|---|---|
+| **1 — pilot** | 1 | scans 4–12 | **REVIEWED / COMPLETE** |
+| **2** | 2–4 | scan 13 → scan 45 before centered `5` | **REVIEWED / COMPLETE** |
+| **3** | 5–7 | scan 45 after centered `5` → scan 68 before centered `8` | **NEXT / NOT STARTED** |
+| 4 | 8–10 | scan 68 after centered `8` → scan 92 before centered `11` | planned |
+| 5 | 11–13 | scan 92 after centered `11` → scan 115 before centered `14` | planned |
+| 6 | 14–16 | scan 115 after centered `14` → scan 134 before centered `17` | planned |
+| 7 | 17–19 | scan 134 after centered `17` → scan 154 before centered `20` | planned |
+| 8 | 20–21 | scan 154 after centered `20` → scan 166 before centered `22` | planned |
+| 9 | 22–23 | scan 166 after centered `22` → final narrative scan 179 | planned |
 
-Use a small bounded workflow. Batch 1 is the mandatory single-chapter pilot; subsequent default batches cover at most three contiguous chapters. A larger batch requires explicit user authorization.
-
-| Batch | Tamil chapters | Source coverage | English destinations | Status |
-|---|---|---|---|---|
-| **1 — pilot** | 1 | scans 4–12 | `sections/01-chapter-01.md` | **REVIEWED / COMPLETE** |
-| **2** | 2–4 | scan 13 → scan 45 before centered `5` | `02`–`04` | **NEXT / NOT STARTED** |
-| **3** | 5–7 | scan 45 after centered `5` → scan 68 before centered `8` | `05`–`07` | planned |
-| **4** | 8–10 | scan 68 after centered `8` → scan 92 before centered `11` | `08`–`10` | planned |
-| **5** | 11–13 | scan 92 after centered `11` → scan 115 before centered `14` | `11`–`13` | planned |
-| **6** | 14–16 | scan 115 after centered `14` → scan 134 before centered `17` | `14`–`16` | planned |
-| **7** | 17–19 | scan 134 after centered `17` → scan 154 before centered `20` | `17`–`19` | planned |
-| **8** | 20–21 | scan 154 after centered `20` → scan 166 before centered `22` | `20`–`21` | planned |
-| **9** | 22–23 | scan 166 after centered `22` → final narrative scan 179 | `22`–`23` | planned |
-
-Chapter boundaries remain exactly those of the PASSED Tamil reading layer. In particular, Chapter 15 ends on scan 126 and Chapter 16 begins cleanly at centered `16` on scan 127.
-
----
+Default post-pilot batches cover at most three contiguous chapters. A larger batch requires explicit user authorization.
 
 ## 5. Pilot / style lock
 
-Batch 1 / Chapter 1 was the style pilot and is now **REVIEWED / COMPLETE**.
+Chapter 1 was the mandatory pilot and is **REVIEWED**. Its decisions remain controlling unless later source context requires a documented change.
 
-The pilot review checked:
+Pilot lock includes:
 
-- narrator voice and paragraph rhythm;
-- handling of `வெள்ளிக்கிழமை` / Friday as a repeated thematic word;
-- rhetorical questions, exclamations and repetition;
-- religious references and comparisons;
-- colloquial speech versus narration;
-- names/place forms encountered in the pilot;
-- source-page provenance comments;
-- treatment of source punctuation without mechanical modernization;
-- translation of Tiruppavai excerpts only from the lines printed in this source edition.
+- `_Friday_` / repeated **Friday** handling;
+- readable but source-bound narration;
+- standard English dialogue quotation marks;
+- preservation of rhetorical questions, repetition and abrupt turns;
+- source-scan comments and reversible join comments;
+- source-bound treatment of religious/cultural terms and embedded Tiruppavai lines;
+- no explanatory theology, folklore or modern social commentary inside prose.
 
-The resulting recurring choices are now locked in `GLOSSARY.md` unless later source context genuinely requires a documented change.
-
----
+`GLOSSARY.md` is the live consistency ledger for these choices.
 
 ## 6. Core translation principles
 
-1. **No summarising.** Every substantive paragraph, dialogue unit, list, quotation, rhetorical question and narratorial aside must be represented.
-2. **Readable but source-bound English.** Reorder syntax only as needed for intelligibility; do not add explanation absent from Tamil.
+1. **No summarising.** Represent every substantive narrative paragraph, dialogue unit, quotation, verse unit, list and rhetorical question.
+2. **Readable but source-bound English.** Reorder syntax only when necessary for intelligibility; do not add interpretation absent from Tamil.
 3. **Preserve agency.** Do not change who acts, speaks, accuses, suffers, decides or knows something.
 4. **Preserve force.** Anger, ridicule, shame, affection, melodrama, irony, accusation and repetition must not be softened.
-5. **Do not intensify.** Do not make sexual, caste, religious, moral or violent language harsher or more categorical than the Tamil.
-6. **Do not beautify.** Do not convert the novel into polished contemporary literary English at the cost of source character.
-7. **Preserve source strangeness.** Verified awkwardness or discontinuity is not permission to invent the presumed intended Tamil.
-8. **No modern explanations inside prose.** Necessary context belongs only in a clearly marked translator note or `GLOSSARY.md`.
-9. **Keep chapters aligned.** English chapter 1 corresponds only to Tamil chapter 1, and so on through chapter 23.
-10. **Auditability over smoothness.** When source fidelity and stylistic smoothness conflict, preserve fidelity and document the issue.
+5. **Do not intensify.** Do not make sexual, caste, religious, moral or violent language harsher or more categorical than the source.
+6. **Do not beautify.** This is not a contemporary literary rewrite.
+7. **Preserve source strangeness.** Verified awkwardness/discontinuity is not permission to invent the presumed intended Tamil.
+8. **No modern explanations inside prose.** Necessary consistency/context belongs in `GLOSSARY.md` or a clearly marked translator note.
+9. **Keep chapter alignment exact.** English Chapter N corresponds only to Tamil Chapter N.
+10. **Auditability over smoothness.** When fidelity and elegance conflict, preserve fidelity and document the issue.
 
----
+## 7. Names, transliteration and shortened forms
 
-## 7. Names, shortened forms and place names
+Use stable readable romanization without diacritics unless an established English form is clearly preferable. Preserve source distinctions between full and shortened/familiar names.
 
-Use stable readable romanization without diacritics unless an established English form is clearly preferable. Preserve source distinctions between a full name and a shortened/familiar form.
+Locked examples after Batches 1–2 include:
 
-Chapter 1-confirmed entries are locked in `GLOSSARY.md`; later names below remain seed decisions until first reviewed use.
+- Chintamani;
+- Azhagappan / Azhagu;
+- Naina Muhammad / Naina;
+- Anandi;
+- Sivanesar;
+- Sivakami;
+- Tiger;
+- Vembu;
+- Balagangadhara Thevar;
+- Vedapuram;
+- Bangalore.
 
-| Tamil source form | Planned English form | Policy |
-|---|---|---|
-| `சிந்தாமணி` | **Chintamani** | **LOCKED in Chapter 1** |
-| `அழகப்பன்` | **Azhagappan** | full name; seed |
-| `அழகு` | **Azhagu** | preserve shortened/familiar source form; seed |
-| `நயினா முகம்மது` | **Naina Muhammad** | stable readable form; seed |
-| `நயினா` | **Naina** | preserve source-shortened form; seed |
-| `ஆனந்தி` | **Anandi** | conservative readable form; seed |
-| `சிவகாமி` | **Sivakami** | conservative readable form; seed |
-| `சிவநேசர்` | **Sivanesar** | conservative readable form; seed |
-| `டைகர்` | **Tiger** | source itself uses the English-derived name |
-| `பாலகங்காதரத் தேவர்` | **Balagangadhara Thevar** | conservative form; do not add an external historical identity |
-| `இடும்பன்` | **Idumban** | conservative readable form |
-| `வேதபுரம்` | **Vedapuram** | **LOCKED in Chapter 1** |
-| `பாலையூர்` | **Palaiyur** | source-facing place form; seed |
-| `பெங்களூர்` | **Bangalore** | stable English form appropriate to the source period |
+The full live table is in `GLOSSARY.md`. English name choices never authorize changes to canonical Tamil.
 
-This table is a consistency tool for English only. It never authorizes changes to Tamil `pages/` or `sections/`.
+## 8. Religious, caste, sexual-stigma and socially charged language
 
-If a later chapter supplies a clearer name/title relationship, update the glossary with an audit note rather than retroactively guessing.
+Translate charged language as the source narrator's or character's rhetoric.
 
----
+- do not censor or euphemize;
+- do not intensify;
+- do not add present-day approval/disapproval;
+- distinguish source voice from modern editorial voice by simply not adding editorial voice to the prose;
+- preserve explicit religious difference and astrological/ritual humour;
+- preserve historically loaded chastity/sexual-stigma language at its source force and document recurring choices in `GLOSSARY.md`.
 
-## 8. Religious, caste and socially charged vocabulary
+Chapter 3 establishes specific handling for `கற்பு`, forced violation, `பாப விமோசனம்`, `பிராயச்சித்தம்` and related rhetoric. These renderings are source-fidelity decisions, not endorsement of the source's social assumptions.
 
-The novel contains explicit religious references, caste language, inter-religious relationship language, sexual/moral stigma and social judgement. Translate these as the source's narrative/dialogue rhetoric.
+## 9. Culture-specific, ritual and period terms
 
-Policy:
+Use a direct English equivalent when it does not distort meaning. Retain a readable transliteration when a specifically Tamil/Indian object, institution, ritual term or period term would be flattened by a loose substitute.
 
-- `முஸ்லீம்` → **Muslim**;
-- `சாதி` → normally **caste**, according to sentence grammar;
-- `மதம்` → **religion / faith** according to context; do not erase the distinction when characters explicitly discuss conversion or difference;
-- `ராமாயணம்` → **Ramayana**;
-- `மணிமேகலை` → **Manimekalai**;
-- Christian / church references use standard English terms when the Tamil clearly uses those identities;
-- terms carrying sexual or moral stigma such as `விபச்சாரி`, `வேசி`, `வைப்பாட்டி` must be translated with equivalent force appropriate to the immediate sentence — neither euphemized nor intensified — and recurring choices must be documented in `GLOSSARY.md`;
-- caste/religious insults, jokes, criticism or polemic belong to the source voice or character voice; do not add present-day approval/disapproval inside the translation.
+Locked/established examples include:
 
-Where a term has no clean English equivalent, conservative transliteration plus a short glossary note is preferable to an invented explanation.
+- kolam;
+- mangalyam;
+- kumkum;
+- Tiruppavai;
+- yaazh;
+- kuduguduppai;
+- paladai;
+- kendi;
+- gosha;
+- panchangam;
+- dosha;
+- sastras.
 
----
+Use `GLOSSARY.md` for first-use and consistency decisions rather than inserting essays into translated prose.
 
-## 9. Cultural, ritual, kinship and period vocabulary
-
-For culture-specific vocabulary:
-
-1. use a direct English equivalent when one exists without loss;
-2. retain a readable transliteration when the term denotes a specifically Tamil/Indian institution, kinship relation, ritual object or social practice that would be distorted by an approximate English substitute;
-3. explain only on first materially important use, preferably in `GLOSSARY.md` rather than interrupting prose;
-4. preserve period objects and borrowed vocabulary as period language rather than updating them to present-day equivalents.
-
-Source-era loanwords such as railway/police/lock-up/Horlicks-type vocabulary should be rendered according to their clear meaning while preserving the period setting. Do not infer brands, institutions or offices not actually supported by the Tamil.
-
----
-
-## 10. Dialogue, quotation, punctuation and paragraph policy
+## 10. Dialogue, punctuation and paragraph policy
 
 1. Spoken dialogue uses standard English double quotation marks.
-2. Quotation inside dialogue uses single quotation marks.
-3. Do not invent speaker labels where the Tamil identifies speakers only through narration/context.
-4. Preserve paragraph boundaries unless English grammar requires a minimal split; never merge separate source paragraphs merely for smoothness.
-5. Preserve rhetorical ellipses, repeated exclamation, abrupt fragments and pauses in force. Exact historical dot counts need not be copied mechanically when normal English typography can preserve the same effect.
-6. Do not silently close or complete a sentence at a source boundary when the audited Tamil does not support completion.
-7. Preserve songs, slogans, letters, quoted passages or visually distinct textual units as distinct Markdown blocks when encountered.
-8. Chapter headings remain simple numbered chapter headings matching the Tamil structure.
+2. Quotations inside speech use single quotation marks.
+3. Do not invent speaker labels.
+4. Preserve source paragraph units unless English grammar requires only a minimal split.
+5. Preserve rhetorical ellipses, repeated exclamation and abrupt fragments in force; exact historical dot counts need not be reproduced mechanically.
+6. Never silently complete a source-boundary fragment that audited Tamil leaves incomplete.
+7. Preserve visually distinct songs/verses/quoted units as distinct Markdown blocks.
+8. Chapter headings remain simple numbered headings matching Tamil structure.
 
----
+## 11. Source oddities and discontinuities
 
-## 11. Source oddity / discontinuity policy
+The PASSED Tamil layer deliberately preserves physical discontinuities that English must not repair by inference.
 
-The PASSED Tamil layer deliberately preserves physical discontinuities that must **not** be repaired by English inference.
+Known whole-work examples:
 
-Known examples:
+- scan 117→118: `உட்` → `எவ்வளவோ முயன்றும் நடக்கவில்லை.`;
+- scan 122→123: `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`;
+- scan 156→157: `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`.
 
-- scan **117→118**: `உட்` followed by `எவ்வளவோ முயன்றும் நடக்கவில்லை.`;
-- scan **122→123**: `...அவளுக்குப் பக்கத்திலே` followed by source-visible `கார்ந்து கொண்டாள்.`;
-- scan **156→157**: `தலையிலும் காயம்` followed by `நயினா எதிர்த்தே அடிக்கவில்லை.` with no supplied punctuation.
+Preserve the supported abruptness/uncertainty, retain provenance, and reopen the controlling scan if a later translation review genuinely raises doubt about Tamil.
 
-English handling:
-
-- preserve the abruptness or uncertainty;
-- never invent the missing word/sentence from grammar or plot expectation;
-- add an unobtrusive source comment and, only if necessary for reader understanding, a short translator note;
-- if a later English review suggests the Tamil record may itself be wrong, reopen the controlling scan before changing anything.
-
-Printed-page anomalies are also preserved in provenance. For example, scan 66 visibly prints only `5`; English provenance must not silently infer printed page 65.
-
----
+Printed-page anomalies are also preserved. Scan 66 visibly prints only `5`; English provenance must never silently infer printed page 65.
 
 ## 12. Page/source traceability
 
-Each English chapter file includes front matter similar to:
+Each English chapter file includes front matter with work, chapter, language, translation status, batch, source section, source scans and canonical source.
 
-```yaml
----
-work: "vellikkizhamai"
-chapter: 1
-language: "en"
-translation_status: "reviewed"
-source_section: "../../../sections/01-chapter-01.md"
-source_scans: "4-12"
-canonical_source: "../../../pages/"
----
-```
-
-Retain unobtrusive HTML comments at meaningful source boundaries:
+Retain unobtrusive HTML comments at meaningful scan boundaries and verified cross-page joins, for example:
 
 ```html
-<!-- source: scan 12; printed page: 11 -->
+<!-- source: scan 45; printed page: 44; Chapter 4 before centered 5 -->
 ```
-
-For a verified cross-page join:
 
 ```html
-<!-- source join: scan X `fragment` → scan Y `continuation` -->
+<!-- source join: scan X fragment → scan Y continuation -->
 ```
 
-Use the already-verified Tamil `sections/` markers as the guide to joins, then source-check against canonical `pages/` before marking the English batch reviewed.
-
----
+Mixed chapter-boundary scans must be split only at the source-printed centered heading.
 
 ## 13. Glossary policy
 
-`GLOSSARY.md` is a controlled consistency ledger, not a dictionary.
+`GLOSSARY.md` is a controlled consistency ledger, not a dictionary. Record recurring names, shortened forms, places, religious/caste/social terms, period terms, source metaphors/wordplay, difficult source forms and any later change in an earlier English decision.
 
-Record:
+Do not populate it speculatively. Lock entries when reviewed source context supports them.
 
-- recurring names and shortened forms;
-- place-name decisions;
-- religious/caste/social terminology;
-- kinship and ritual terms whose English handling needs consistency;
-- period loanwords where multiple English forms are possible;
-- source oddities that materially affect English;
-- any decision changed after later context, with the reason and affected chapters.
+## 14. Review statuses and per-batch gate
 
-Do not fill the glossary speculatively. Add or lock entries only when source context supports them.
+Statuses:
 
----
-
-## 14. Review statuses
-
-Use these statuses:
-
-- `planned` — no translation prose yet;
-- `draft-translated` — complete first English draft exists for the stated chapter/range;
-- `source-checked` — every English paragraph/dialogue unit checked against canonical Tamil pages;
-- `reviewed` — source fidelity, rhetoric, names/terms, dialogue/agency and English readability reviewed;
-- whole-work `verified` — final bilingual alignment across all 23 chapters has passed.
-
-No chapter is `reviewed` merely because it reads fluently.
-
----
-
-## 15. Per-batch workflow / checklist
+- `planned`;
+- `draft-translated`;
+- `source-checked`;
+- `reviewed`;
+- whole-work `verified` only after final bilingual review.
 
 For each batch:
 
-1. translate only the PASSED Tamil layer;
-2. create only the chapter files in that batch;
-3. preserve source-scan provenance comments;
-4. source-check every English paragraph/dialogue unit against canonical `pages/`;
+1. translate only PASSED Tamil;
+2. create only files in the authorized batch;
+3. preserve provenance;
+4. source-check against canonical authority;
 5. verify names, numbers, places, relationships, quoted wording and agency;
-6. verify rhetorical questions, repetition, insults, irony, emotional intensity and socially charged language;
-7. verify every cross-page join and mixed chapter-boundary scan;
-8. confirm no source oddity/discontinuity was silently repaired;
-9. update `GLOSSARY.md` only for established recurring decisions;
-10. update `PROGRESS.md`, English `README.md`, work `README.md`, root `HANDOVER.md` and `NEXT_NOVEL_CHAT_PROMPT.md`;
-11. commit the completed bounded batch before starting another;
-12. report batch result and next exact batch.
+6. verify rhetoric, humour, insults, emotional force and charged language;
+7. verify joins and mixed chapter-boundary scans;
+8. ensure no source oddity was silently repaired;
+9. update glossary and progress/status controls;
+10. commit the bounded batch before starting another.
 
----
+## 15. Final bilingual review and release
 
-## 16. Final bilingual review gate
+After all 23 chapters are `reviewed`, complete `TRANSLATION_REVIEW.md` for coverage/order, omissions/duplications, additions, agency, names, charged terminology, rhetoric, dialogue, boundaries, discontinuities, provenance and readability without modernization.
 
-After all 23 English chapters are `reviewed`, complete `TRANSLATION_REVIEW.md` across the whole work.
+Only after that review passes may whole-work English be called **verified**.
 
-The final review must check:
+Then complete `RELEASE_REPORT.md`, confirming Tamil authority, 23/23 reviewed English chapters, glossary consistency, navigation, no unauthorized Tamil changes, source-PDF exclusion, and archival/editorial release readiness separate from copyright/licensing questions.
 
-- complete 23-chapter coverage and ordering;
-- no omitted or duplicated Tamil span;
-- no material source-like addition;
-- speaker attribution and agency;
-- recurring names, shortened forms, kinship and titles;
-- religious/caste/socially charged terminology;
-- recurring metaphors and rhetorical repetition;
-- dialogue / quotation integrity;
-- every mixed chapter-boundary scan;
-- source discontinuities and oddities;
-- page provenance;
-- English readability without modernization or adaptation.
-
-Only after this gate passes may whole-work English be called **verified**.
-
----
-
-## 17. Release gate
-
-After whole-work English verification, complete `RELEASE_REPORT.md` and confirm:
-
-- Tamil canonical page layer: **PASSED**;
-- assembled Tamil: **PASSED**;
-- English chapters: **23 / 23 present and reviewed**;
-- final bilingual review: **PASSED**;
-- glossary consistency: checked;
-- reader navigation: checked;
-- source PDF remains uncommitted;
-- canonical Tamil remains unchanged by translation/release work;
-- archival/editorial release verdict is stated separately from copyright/licensing questions.
-
----
-
-## 18. Current status / next action
+## 16. Current status / exact next activity
 
 **Tamil canonical source:** PASSED  
 **Tamil assembled reading layer:** PASSED  
 **English translation plan:** COMPLETE  
-**English package scaffolding:** INITIALIZED  
-**English translation prose:** **1 / 23 chapters REVIEWED**  
-**Pilot style / glossary lock:** **COMPLETE**
+**English chapters reviewed:** **4 / 23**  
+**English coverage:** **scan 4 through scan 45 before centered `5`**  
+**Whole-work English:** NOT VERIFIED
 
-### Exact next activity
+### Next
 
-Run **Batch 2 — Chapters 2–4**:
+Run **Batch 3 — Chapters 5–7**:
 
-- Chapter 2 — scans **13–22**;
-- Chapter 3 — scan **23 through scan 33 before centered `4`**;
-- Chapter 4 — scan **33 after centered `4` through scan 45 before centered `5`**.
+- `sections/05-chapter-05.md` — scan 45 after centered `5` through scan 51;
+- `sections/06-chapter-06.md` — scan 52 through scan 59 before centered `7`;
+- `sections/07-chapter-07.md` — scan 59 after centered `7` through scan 68 before centered `8`.
 
-Create `sections/02-chapter-02.md` through `04-chapter-04.md`, source-check each against canonical Tamil `pages/`, review the complete bounded batch and update controls before starting Chapter 5.
+Translate, source-check, review, synchronize and commit those three chapters only. **Do not start Chapter 8 in the same default iteration.**

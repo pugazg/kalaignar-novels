@@ -36,69 +36,47 @@ Fetch live `main` first and preserve newer durable work. Do not reopen completed
 - assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
 - final assembled consistency gate: **PASSED — 0 unresolved / 0 canonical changes**.
 
-Known literal discontinuities remain at scans 117→118, 122→123 and 156→157. Chapter 15 ends on scan 126; Chapter 16 opens cleanly on scan 127. Scan 179 contributes final narrative only in the reading layer.
+Known literal discontinuities remain at scans 117→118, 122→123 and 156→157. Chapter 15 ends on scan 126; Chapter 16 begins on scan 127. Scan 179 contributes final narrative only in the reading layer.
 
 ## English translation state
 
 Working English title: **_Friday_**.
 
-- `translations/en/TRANSLATION_PLAN.md` — **COMPLETE**;
-- Batch 1 pilot / Chapter 1 — **REVIEWED / COMPLETE**;
-- English chapter files present — **1 / 23**;
-- reviewed English chapters — **1 / 23**;
-- English source coverage — **scans 4–12**;
-- `GLOSSARY.md` — pilot style/terminology decisions **LOCKED**;
-- `TRANSLATION_REVIEW.md` — **BLOCKED** until 23 / 23 chapters are reviewed;
-- `RELEASE_REPORT.md` — **BLOCKED** until bilingual review passes.
+- translation plan — **COMPLETE**;
+- Chapter 1 / scans 4–12 — **REVIEWED**;
+- Chapter 2 / scans 13–22 — **REVIEWED**;
+- Chapter 3 / scan 23 through scan 33 before centered `4` — **REVIEWED**;
+- Chapter 4 / scan 33 after centered `4` through scan 45 before centered `5` — **REVIEWED**;
+- English chapters present/reviewed — **4 / 23**;
+- current English coverage — **scan 4 through scan 45 before centered `5`**;
+- whole-work English — **NOT VERIFIED**;
+- final bilingual review — **BLOCKED**;
+- release report — **BLOCKED**.
 
-## Batch 1 pilot closure
+Batch 2 preserved the source's mixed scan-33 Chapter 3→4 boundary and mixed scan-45 Chapter 4→5 boundary. No Chapter 5 English prose has started. Batch 2 produced **0 canonical Tamil changes** and **0 unresolved English holds**.
 
-File:
+`translations/en/GLOSSARY.md` now locks Batch 2 choices for Azhagappan/Azhagu, Sivanesar, Sivakami, Anandi, Naina Muhammad/Naina, Tiger, Vembu, Balagangadhara Thevar, Chapter 2 mythological/literary names, `paladai`, `kendi`, `minor`, `gosha`, `Sanatana Hindu`, `panchangam`, `dosha`, `sastras`, and the source-bound Chapter 3 assault/chastity terminology.
 
-`works/vellikkizhamai/translations/en/sections/01-chapter-01.md`
+## English batch map
 
-Source-check authority:
-
-- PASSED Tamil `works/vellikkizhamai/sections/01-chapter-01.md` for continuous reading;
-- canonical verified page records for scans **4–12** (`0004` through `0012`) for textual checking.
-
-Pilot result: **PASS / REVIEWED — 0 unresolved / 0 Tamil changes**.
-
-Verified pilot properties:
-
-- all substantive Chapter 1 content represented in order;
-- source scan / printed-page provenance preserved;
-- reversible joins retained at scans 4→5, 5→6, 8→9 and 10→11;
-- Chintamani’s first-person monologue and subsequent third-person narration remain distinct;
-- rhetorical questions, weekday jokes, repeated exclamations, religious/cultural references and emotional force preserved;
-- Tiruppavai excerpts translated only from the lines printed in this edition;
-- no external canonical verse translation or modern doctrinal explanation inserted;
-- canonical Tamil files unchanged.
-
-Pilot style and terminology choices are now durable in `translations/en/GLOSSARY.md`.
-
-## Remaining batch map
-
-1. Chapter 1 / scans 4–12 — **REVIEWED / COMPLETE**;
-2. Chapters 2–4 — scan 13 → scan 45 before centered `5` — **NEXT**;
-3. Chapters 5–7 — scan 45 after centered `5` → scan 68 before centered `8`;
-4. Chapters 8–10 — scan 68 after centered `8` → scan 92 before centered `11`;
-5. Chapters 11–13 — scan 92 after centered `11` → scan 115 before centered `14`;
-6. Chapters 14–16 — scan 115 after centered `14` → scan 134 before centered `17`;
-7. Chapters 17–19 — scan 134 after centered `17` → scan 154 before centered `20`;
-8. Chapters 20–21 — scan 154 after centered `20` → scan 166 before centered `22`;
-9. Chapters 22–23 — scan 166 after centered `22` → final narrative scan 179.
-
-Default batches after the pilot contain at most three contiguous chapters. A larger batch requires explicit user authorization.
+1. Chapter 1 / scans 4–12 — **REVIEWED**;
+2. Chapters 2–4 / scan 13 → scan 45 before centered `5` — **REVIEWED**;
+3. Chapters 5–7 / scan 45 after centered `5` → scan 68 before centered `8` — **NEXT**;
+4. Chapters 8–10 / scan 68 after centered `8` → scan 92 before centered `11`;
+5. Chapters 11–13 / scan 92 after centered `11` → scan 115 before centered `14`;
+6. Chapters 14–16 / scan 115 after centered `14` → scan 134 before centered `17`;
+7. Chapters 17–19 / scan 134 after centered `17` → scan 154 before centered `20`;
+8. Chapters 20–21 / scan 154 after centered `20` → scan 166 before centered `22`;
+9. Chapters 22–23 / scan 166 after centered `22` → final narrative scan 179.
 
 ## Exact next activity
 
-Run **English Batch 2 — Chapters 2–4**.
+Run **English Batch 3 — Chapters 5–7**.
 
 Create and fully review:
 
-- `works/vellikkizhamai/translations/en/sections/02-chapter-02.md` — scans 13–22;
-- `works/vellikkizhamai/translations/en/sections/03-chapter-03.md` — scan 23 through scan 33 before centered `4`;
-- `works/vellikkizhamai/translations/en/sections/04-chapter-04.md` — scan 33 after centered `4` through scan 45 before centered `5`.
+- `works/vellikkizhamai/translations/en/sections/05-chapter-05.md` — scan 45 after centered `5` through scan 51;
+- `works/vellikkizhamai/translations/en/sections/06-chapter-06.md` — scan 52 through scan 59 before centered `7`;
+- `works/vellikkizhamai/translations/en/sections/07-chapter-07.md` — scan 59 after centered `7` through scan 68 before centered `8`.
 
-Use PASSED Tamil sections for continuous reading and canonical `pages/` for source checking. Translate every substantive unit, preserve provenance and locked pilot conventions, source-check/review all three chapters, synchronize controls, and commit the bounded batch. Do **not** start Chapter 5 in the same default iteration.
+Use PASSED Tamil sections for continuity and canonical `pages/` as source authority. Preserve source force, provenance and glossary decisions. Commit the bounded batch before moving on. **Do not start Chapter 8 in the same default iteration.**

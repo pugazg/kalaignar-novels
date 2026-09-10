@@ -1,4 +1,4 @@
-# Next Chat Prompt — வெள்ளிக்கிழமை / English Batch 2 Chapters 2–4
+# Next Chat Prompt — வெள்ளிக்கிழமை / English Batch 3 Chapters 5–7
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,75 +10,57 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 - canonical page records: **179 / 179 — COMPLETE / VERIFIED**;
 - unresolved source holds: **0**;
-- historical-glyph gates: **PASS / COMPLETE**;
+- historical-glyph gates: **PASSED / COMPLETE**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
 - assembled Tamil: **PASSED — 23 / 23 chapters**;
 - final assembled consistency gate: **PASSED — 0 unresolved / 0 canonical changes**.
 
-Do not reopen Tamil source/glyph/assembly work without genuinely new direct-source evidence.
+Do not reopen Tamil source/glyph/assembly work without genuinely new direct-source evidence. Known literal discontinuities remain at scans 117→118, 122→123 and 156→157; English must never silently repair them.
 
-Known literal discontinuities remain at scans 117→118, 122→123 and 156→157; English must never silently repair them.
-
-## English durable state
+## English state
 
 Working English title: **_Friday_**.
 
-Read before translating:
+- translation plan — **COMPLETE**;
+- Batch 1 / Chapter 1 — **REVIEWED**;
+- Batch 2 / Chapters 2–4 — **REVIEWED**;
+- English chapters present/reviewed — **4 / 23**;
+- English source coverage — **scan 4 through scan 45 before centered `5`**;
+- unresolved English holds — **0**;
+- final bilingual review / release — **BLOCKED**.
+
+Batch 2 preserved scan 33 as a mixed Chapter 3→4 boundary and stopped Chapter 4 above centered `5` on scan 45. No Chapter 5 prose has started.
+
+## Read before translating
 
 1. `NOVEL_PROCESSING_GUIDE.md` Sections 14–17;
-2. `works/vellikkizhamai/translations/en/TRANSLATION_PLAN.md` completely;
+2. `works/vellikkizhamai/translations/en/TRANSLATION_PLAN.md`;
 3. `works/vellikkizhamai/translations/en/README.md`;
 4. `works/vellikkizhamai/translations/en/PROGRESS.md`;
 5. `works/vellikkizhamai/translations/en/GLOSSARY.md`;
-6. reviewed pilot `works/vellikkizhamai/translations/en/sections/01-chapter-01.md` for established English conventions;
-7. PASSED Tamil Chapters 2–4;
-8. canonical page records for the Batch 2 scan range as source-check authority.
+6. PASSED Tamil `works/vellikkizhamai/sections/05-chapter-05.md`, `06-chapter-06.md`, `07-chapter-07.md`;
+7. canonical page records covering the Batch 3 scan ranges for source checking.
 
-Current English state:
+## Exact next activity — Batch 3
 
-- plan — **COMPLETE**;
-- Batch 1 / Chapter 1 — **REVIEWED / COMPLETE**;
-- English chapters present/reviewed — **1 / 23**;
-- source coverage — **scans 4–12**;
-- pilot glossary/style lock — **COMPLETE**;
-- final bilingual review / release — **BLOCKED**.
+Translate and fully review **Chapters 5–7 only**:
 
-## Batch 1 pilot precedent
+- Chapter 5: scan **45 after centered `5` through scan 51** → `translations/en/sections/05-chapter-05.md`;
+- Chapter 6: scan **52 through scan 59 before centered `7`** → `translations/en/sections/06-chapter-06.md`;
+- Chapter 7: scan **59 after centered `7` through scan 68 before centered `8`** → `translations/en/sections/07-chapter-07.md`.
 
-Chapter 1 was source-checked against canonical scans 4–12 and closed **PASS / REVIEWED — 0 unresolved / 0 Tamil changes**.
+### Mandatory workflow
 
-Locked conventions include:
+1. Translate every substantive Tamil narrative paragraph/dialogue unit — no summary or omission.
+2. Use PASSED Tamil sections for continuity; canonical `pages/` remain source authority.
+3. Preserve source provenance and verified joins with HTML comments.
+4. Preserve narrator voice, agency, dialogue, rhetoric, humour, religious/caste/social language and period vocabulary without modernization.
+5. Apply locked `GLOSSARY.md` choices; add new entries only where Batch 3 establishes recurring decisions.
+6. Never silently repair source oddities or discontinuities.
+7. Source-check and review all three chapters before marking them `reviewed`.
+8. Preserve any mixed scan-59 Chapter 6→7 split at the centered `7` heading.
+9. Update `PROGRESS.md`, glossary and all durable status/control documents.
+10. Commit the bounded Batch 3 before beginning anything later.
 
-- `வெள்ளிக்கிழமை` → **Friday** with repetition preserved;
-- **Chintamani**, **Vedapuram**, and Chapter 1 source-facing name forms;
-- `kolam`, `mangalyam`, `kumkum`, `Tiruppavai`, `yaazh`, `kuduguduppai` handling;
-- standard English dialogue quotation with source rhetoric/repetition preserved;
-- HTML provenance markers at meaningful scan boundaries and verified joins;
-- embedded Tiruppavai lines translated only from the wording printed in this edition;
-- no explanatory doctrinal/social additions inside prose.
-
-`GLOSSARY.md` governs these recurring English choices unless later source context requires a documented change.
-
-## Exact next activity — Batch 2
-
-Translate and fully review **Chapters 2–4** only:
-
-1. `translations/en/sections/02-chapter-02.md` — scans **13–22**;
-2. `translations/en/sections/03-chapter-03.md` — scan **23 through scan 33 before centered `4`**;
-3. `translations/en/sections/04-chapter-04.md` — scan **33 after centered `4` through scan 45 before centered `5`**.
-
-### Mandatory Batch 2 workflow
-
-1. Translate every substantive Tamil paragraph/dialogue/quoted unit — no summary or omission.
-2. Use PASSED assembled Tamil for continuous reading; canonical `pages/` remain source-check authority.
-3. Preserve source provenance with HTML comments at meaningful page boundaries and verified joins.
-4. Preserve speaker agency, names/relationships, narrator voice, rhetorical questions, repetition, irony, emotional force and socially/religiously charged language.
-5. Apply locked pilot conventions from `GLOSSARY.md`; add new glossary decisions only when Batch 2 establishes recurring terms/names.
-6. Do not add explanations inside translated prose.
-7. Source-check every English paragraph/dialogue unit against canonical pages for scans 13 through 45 before centered `5`.
-8. Mark each chapter `reviewed` only after source fidelity and English readability review pass.
-9. Update `PROGRESS.md`, English/sections README, work `README.md`, `audit.md`, root `HANDOVER.md`, this prompt, root `README.md` and page-map status.
-10. Commit the bounded Batch 2 before beginning another batch.
-
-Do **not** start Chapter 5 in the same default iteration unless separately authorized.
+**Do not start Chapter 8 in this default iteration.**

@@ -22,62 +22,50 @@
 - assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
 - final assembled Tamil consistency gate: **PASSED — 0 unresolved / 0 canonical changes**;
 - English translation plan: **COMPLETE**;
-- English Batch 1 pilot / Chapter 1: **REVIEWED / COMPLETE**;
-- English chapters present/reviewed: **1 / 23**;
-- English source coverage: **scans 4–12**;
-- next English activity: **Batch 2 — Chapters 2–4**.
+- English chapters: **4 / 23 present and REVIEWED**;
+- English coverage: **scan 4 through scan 45 before centered `5`**;
+- whole-work English: **NOT VERIFIED**;
+- final bilingual review / release: **BLOCKED**.
 
 ## Canonical authority
 
-`pages/` is the archival preservation layer and remains controlling. The PASSED `sections/` layer is the continuous Tamil reading layer. English is a derived layer only; if English conflicts with canonical Tamil, canonical Tamil governs.
+`pages/` is the archival preservation layer and remains controlling. The PASSED `sections/` layer is the continuous Tamil reading layer. English under `translations/en/` is a derived layer only; if English conflicts with canonical Tamil, canonical Tamil governs.
 
 Completed Tamil source/glyph/assembly gates must not be reopened without genuinely new direct-source evidence.
 
-## Assembled Tamil progress
+## Closed Tamil state
 
-All **23 / 23 chapters are VERIFIED and the assembled Tamil layer is PASSED**. Chapter 15 ends on scan 126; Chapter 16 begins cleanly at centered `16` on scan 127. The known literal discontinuities at scans 117→118, 122→123 and 156→157 remain unrepaired. Scan 179 contributes final narrative only; its lower illustration and later handwriting remain excluded.
+All **23 / 23 Tamil chapters are VERIFIED** and the assembled Tamil layer is PASSED. Chapter 15 ends on scan 126; Chapter 16 opens on scan 127. Known literal discontinuities at scans 117→118, 122→123 and 156→157 remain unrepaired. Scan 179 contributes final narrative only; its lower illustration and later handwriting remain excluded.
 
-## English translation state
+## English translation progress
 
 Working English title: **_Friday_**.
 
-English controls under [`translations/en/`](translations/en/):
+Reviewed chapters:
 
-- [`TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md) — **COMPLETE**;
-- [`README.md`](translations/en/README.md);
-- [`PROGRESS.md`](translations/en/PROGRESS.md);
-- [`GLOSSARY.md`](translations/en/GLOSSARY.md) — pilot style/terminology lock complete;
-- [`sections/README.md`](translations/en/sections/README.md);
-- [`TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) — blocked until all chapters are reviewed;
-- [`RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md) — blocked until bilingual review passes.
+1. Chapter 1 — scans 4–12 — **REVIEWED**;
+2. Chapter 2 — scans 13–22 — **REVIEWED**;
+3. Chapter 3 — scan 23 through scan 33 before centered `4` — **REVIEWED**;
+4. Chapter 4 — scan 33 after centered `4` through scan 45 before centered `5` — **REVIEWED**.
 
-The final English structure mirrors the Tamil one-to-one as 23 chapter files. Batch 1 was the mandatory single-chapter pilot; subsequent default batches contain at most three contiguous chapters unless explicitly enlarged by the user.
+Batch 2 preserved the mixed scan-33 Chapter 3→4 split and stopped Chapter 4 at centered `5` on scan 45. No Chapter 5 prose has been translated yet. The glossary now locks Batch 2 names, literary/mythological references, period religious/astrological vocabulary, and Chapter 3's source-bound assault/chastity/stigma terminology.
 
-## English Batch 1 pilot closure
+English controls:
 
-[`translations/en/sections/01-chapter-01.md`](translations/en/sections/01-chapter-01.md) covers **scans 4–12** and is **REVIEWED**.
-
-The pilot was checked against canonical page records `0004` through `0012` and passed:
-
-- complete paragraph/dialogue/quoted-verse representation;
-- source scan and printed-page provenance;
-- reversible joins at scans 4→5, 5→6, 8→9 and 10→11;
-- first-person interior monologue / third-person narration transition;
-- rhetorical questions, humour, repetition and emotional force;
-- religious/cultural terminology without added doctrinal explanation;
-- Tiruppavai excerpts translated only from the lines printed in this edition;
-- no canonical Tamil changes.
-
-Pilot result: **PASS / REVIEWED — 0 unresolved / 0 Tamil changes**.
-
-Recurring pilot decisions are locked in `translations/en/GLOSSARY.md`.
+- [`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md)
+- [`translations/en/README.md`](translations/en/README.md)
+- [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md)
+- [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
+- [`translations/en/sections/README.md`](translations/en/sections/README.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) — blocked
+- [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md) — blocked
 
 ## Exact next activity
 
-Run **English Batch 2 — Chapters 2–4**:
+Run **English Batch 3 — Chapters 5–7**:
 
-- Chapter 2 — scans **13–22**;
-- Chapter 3 — scan **23 through scan 33 before centered `4`**;
-- Chapter 4 — scan **33 after centered `4` through scan 45 before centered `5`**.
+- `translations/en/sections/05-chapter-05.md` — scan 45 after centered `5` through scan 51;
+- `translations/en/sections/06-chapter-06.md` — scan 52 through scan 59 before centered `7`;
+- `translations/en/sections/07-chapter-07.md` — scan 59 after centered `7` through scan 68 before centered `8`.
 
-Create `translations/en/sections/02-chapter-02.md` through `04-chapter-04.md`, source-check against canonical `pages/`, review the entire bounded batch, update controls and commit. Do not start Chapter 5 in the same default iteration.
+Translate from PASSED Tamil sections, source-check against canonical `pages/`, update glossary/progress controls, and commit the bounded batch. **Do not start Chapter 8 in the same default iteration.**

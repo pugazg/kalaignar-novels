@@ -4,9 +4,10 @@
 
 **NOT STARTED / BLOCKED.**
 
-This file is an initialized release-control placeholder. It must remain blocked until the whole-work bilingual review passes.
+This file is the release-control placeholder. It must remain blocked until the whole-work bilingual review passes.
 
-Current English progress: **1 / 23 chapters reviewed; scans 4–12 complete**.
+Current English chapters reviewed: **4 / 23**.  
+Current English coverage: **scan 4 through scan 45 before centered `5`**.
 
 ## Release preconditions
 
@@ -24,22 +25,10 @@ The final release pass must confirm:
 
 ## Required final report content
 
-When the gate opens, record:
-
-- work and source-edition identity;
-- Tamil inventory;
-- English inventory;
-- bilingual review result;
-- navigation QA;
-- authority hierarchy;
-- documented source oddities/discontinuities;
-- confirmation of zero unauthorized canonical Tamil changes;
-- source-PDF exclusion;
-- editorial limitations;
-- final release-ready / not-ready verdict.
+When the gate opens, record work/source-edition identity, Tamil inventory, English inventory, bilingual review result, navigation QA, authority hierarchy, documented source oddities/discontinuities, confirmation of zero unauthorized canonical Tamil changes, source-PDF exclusion, editorial limitations and a final release-ready/not-ready verdict.
 
 Release readiness is an archival/editorial verdict only; it does not itself determine copyright, licensing or commercial-republication rights.
 
 ## Verdict
 
-**BLOCKED — English translation is in progress; 1 / 23 chapters are reviewed and the final bilingual review has not run.**
+**BLOCKED — 4 / 23 English chapters reviewed; final bilingual review not yet available.**

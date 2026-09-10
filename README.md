@@ -28,20 +28,24 @@
 - assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
 - final assembled Tamil consistency gate: **PASSED — 0 unresolved / 0 canonical changes**;
 - English translation plan: **COMPLETE**;
-- English Batch 1 pilot / Chapter 1: **REVIEWED / COMPLETE**;
-- English chapters present/reviewed: **1 / 23**;
-- English source coverage: **scans 4–12**;
-- next activity: **English Batch 2 — Chapters 2–4**.
+- English chapters: **4 / 23 REVIEWED**;
+- English coverage: **scan 4 through scan 45 before centered `5`**;
+- next activity: **English Batch 3 — Chapters 5–7**.
 
 ### English translation structure
 
 Working English title: **_Friday_**.
 
-The final English layer mirrors the PASSED Tamil structure one-to-one as **23 chapter files**. Batch 1 was the mandatory single-chapter pilot and has passed source/readability review. Subsequent default batches cover at most three contiguous chapters unless the user explicitly authorizes a larger batch.
+The final English layer mirrors the PASSED Tamil structure one-to-one as **23 chapter files**. Chapter 1 was the style pilot. Batch 2 completed Chapters 2–4. Default later batches cover at most three contiguous chapters unless the user explicitly authorizes a larger batch.
 
-English controls are under [`works/vellikkizhamai/translations/en/`](works/vellikkizhamai/translations/en/). Chapter 1 is available at [`sections/01-chapter-01.md`](works/vellikkizhamai/translations/en/sections/01-chapter-01.md). The bilingual review and release report remain blocked until all English chapters are reviewed.
+Current reviewed English:
 
-Batch 1 result: **PASS / REVIEWED — 0 unresolved / 0 Tamil changes**. Pilot style/terminology decisions are locked in the English glossary.
+- Chapter 1 — scans 4–12;
+- Chapter 2 — scans 13–22;
+- Chapter 3 — scan 23 to scan 33 above centered `4`;
+- Chapter 4 — scan 33 below centered `4` to scan 45 above centered `5`.
+
+Whole-work English verification and release remain blocked until all 23 chapters are reviewed and the final bilingual gate passes.
 
 ## Completed works
 
@@ -53,4 +57,4 @@ Batch 1 result: **PASS / REVIEWED — 0 unresolved / 0 Tamil changes**. Pilot st
 
 ## Next activity
 
-Translate, source-check and review `வெள்ளிக்கிழமை` **Chapters 2–4** as English Batch 2, covering scan **13 through scan 45 before centered `5`**. Do not start Chapter 5 in the same default iteration.
+Translate, source-check and review `வெள்ளிக்கிழமை` **Chapters 5–7** as English Batch 3, covering scan 45 after centered `5` through scan 68 before centered `8`. Do not begin Chapter 8 in the same default iteration.

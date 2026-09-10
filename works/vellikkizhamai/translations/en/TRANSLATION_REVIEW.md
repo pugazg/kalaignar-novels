@@ -4,10 +4,15 @@
 
 **NOT STARTED / BLOCKED.**
 
-This file is initialized as the final-review control only. The bilingual review must not run until all 23 English chapter files have completed batch-level source checks and review.
+This file is the final-review control. The bilingual review must not run until all 23 English chapter files have completed batch-level source checks and review.
 
-Current English chapters reviewed: **1 / 23**.  
-Reviewed source coverage: **scans 4–12 / Chapter 1**.
+Current English chapters reviewed: **4 / 23**.  
+Current English coverage: **scan 4 through scan 45 before centered `5`**.
+
+Completed batches:
+
+- Batch 1 — Chapter 1 — **REVIEWED**;
+- Batch 2 — Chapters 2–4 — **REVIEWED**.
 
 ## Preconditions
 
@@ -16,7 +21,7 @@ Before this gate may run:
 - English chapters `01` through `23` all exist;
 - every chapter is at least `reviewed`;
 - `PROGRESS.md` shows complete source coverage;
-- `GLOSSARY.md` contains the locked recurring terminology/name decisions;
+- `GLOSSARY.md` contains locked recurring terminology/name decisions;
 - no unresolved English-source fidelity hold remains.
 
 ## Final review checklist
@@ -38,10 +43,6 @@ When opened, review the whole work end-to-end for:
 13. English readability without modernization or adaptation;
 14. canonical Tamil unchanged by translation work.
 
-## Current batch evidence
+## Current verdict
 
-Batch 1 / Chapter 1 is **REVIEWED / COMPLETE** and may be treated as passed batch-level evidence when the final gate eventually runs. It does not by itself open the whole-work review.
-
-## Verdict
-
-**PENDING / BLOCKED.** Whole-work English must not be called `verified` until 23 / 23 chapters are reviewed and this file records a completed PASS.
+**BLOCKED — 4 / 23 English chapters reviewed.** Whole-work English must not be called `verified` until this file records a completed PASS.

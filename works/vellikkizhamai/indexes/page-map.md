@@ -8,14 +8,14 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - mapping coverage: **179 / 179**;
 - canonical page records: **179 / 179 — COMPLETE / VERIFIED**;
 - body transcription: **through final scan 179 / printed 178**;
-- forward historical-glyph coverage: **PASS scans 1–179**;
-- second historical-glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS; 5 corrections / 0 unresolved**;
+- historical-glyph gates: **PASSED / COMPLETE**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
 - assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
 - final assembled consistency gate: **PASSED — 0 unresolved / 0 canonical changes**;
 - English translation plan: **COMPLETE**;
-- English prose: **Chapter 1 REVIEWED — 1 / 23 chapters; scans 4–12**.
+- English chapters: **4 / 23 REVIEWED**;
+- English coverage: **scan 4 through scan 45 before centered `5`**.
 
 ## Printed-page mapping
 
@@ -56,15 +56,15 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 ## Tamil / English chapter coverage
 
-| Chapter | Source coverage | Tamil status | English status |
+| Chapter | Source coverage | Tamil | English |
 |---:|---|---|---|
-| 1 | scans 4–12 | **VERIFIED** | **REVIEWED / COMPLETE** |
-| 2 | scans 13–22 | **VERIFIED** | **NEXT / Batch 2** |
-| 3 | scan 23 → scan 33 before centered `4` | **VERIFIED** | **NEXT / Batch 2** |
-| 4 | scan 33 after centered `4` → scan 45 before centered `5` | **VERIFIED** | **NEXT / Batch 2** |
-| 5 | scan 45 after centered `5` → scan 51 | **VERIFIED** | planned |
-| 6 | scan 52 → scan 59 before centered `7` | **VERIFIED** | planned |
-| 7 | scan 59 after centered `7` → scan 68 before centered `8` | **VERIFIED** | planned |
+| 1 | scans 4–12 | **VERIFIED** | **REVIEWED** |
+| 2 | scans 13–22 | **VERIFIED** | **REVIEWED** |
+| 3 | scan 23 → scan 33 before centered `4` | **VERIFIED** | **REVIEWED** |
+| 4 | scan 33 after centered `4` → scan 45 before centered `5` | **VERIFIED** | **REVIEWED** |
+| 5 | scan 45 after centered `5` → scan 51 | **VERIFIED** | **NEXT — Batch 3** |
+| 6 | scan 52 → scan 59 before centered `7` | **VERIFIED** | **NEXT — Batch 3** |
+| 7 | scan 59 after centered `7` → scan 68 before centered `8` | **VERIFIED** | **NEXT — Batch 3** |
 | 8 | scan 68 after centered `8` → scan 75 before centered `9` | **VERIFIED** | planned |
 | 9 | scan 75 after centered `9` → scan 85 before centered `10` | **VERIFIED** | planned |
 | 10 | scan 85 after centered `10` → scan 92 before centered `11` | **VERIFIED** | planned |
@@ -82,28 +82,12 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 | 22 | scan 166 after centered `22` → scan 172 before centered `23` | **VERIFIED** | planned |
 | 23 | scan 172 after centered `23` → scan 179 | **VERIFIED** | planned |
 
-## English Chapter 1 pilot mapping
+## English Batch 2 boundary audit
 
-Chapter 1 English uses source markers for scans 4–12 and preserves the actual printed-page behavior:
-
-- scan 4 — no printed number;
-- scans 5–8 — printed 4–7;
-- scan 9 — no printed number;
-- scans 10–12 — printed 9–11.
-
-Verified source joins represented reversibly in the English pilot:
-
-- scan 4 `ஏதோ` → scan 5 `இன்பக்கனவுகளோ`;
-- scan 5 `அவைகளே` → scan 6 `கேலிக்குரியதாக`;
-- scan 8 `கிழக்கு வானம் வெளுக்கத்` → scan 9 `துவங்கிவிட்டது.`;
-- scan 10 `இருந்தாள்—` → scan 11 opening quoted question.
-
-Pilot status: **REVIEWED / COMPLETE — 0 unresolved / 0 Tamil changes**.
-
-## Translation planning note
-
-English mirrors this chapter map one-to-one. After the reviewed Chapter 1 pilot, default batches cover at most three contiguous chapters. English provenance must preserve the actual scan/printed-page mapping, including the scan-66 printed `5` anomaly, and must not repair known source discontinuities.
+- scan 33 canonical record is explicitly `அத்தியாயம் 3 / அத்தியாயம் 4`; Chapter 3 English ends above centered `4`, Chapter 4 begins below it;
+- scan 45 canonical record is explicitly `அத்தியாயம் 4 / அத்தியாயம் 5`; Chapter 4 English ends above centered `5`, and Chapter 5 remains unstarted;
+- English work made **0 canonical Tamil changes**.
 
 ## Exact next activity
 
-Translate and review **English Batch 2 — Chapters 2–4**, covering scan 13 through scan 45 before centered `5`. Do not start Chapter 5 in the same default iteration.
+Translate and review English **Chapters 5–7** as Batch 3, preserving the mixed scan-59 Chapter 6→7 split at centered `7` and stopping before centered `8` on scan 68.
