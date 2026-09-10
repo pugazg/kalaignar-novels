@@ -51,26 +51,26 @@ Structural identity / provenance: **PASS**.
 
 ## Release-blocking fidelity finding
 
-Section 17 rechecked reader-facing English against the canonical Tamil at a source-sensitive passage and found a concrete mismatch that Section 16 did not record.
+Section 17 rechecked reader-facing English against canonical Tamil at a source-sensitive passage and found a concrete mismatch that Section 16 did not record.
 
 Canonical scan 17 / printed page 13 reads:
 
 `“எனக்குப் பொய் அம்மா வேணும்! நிஜ அம்மாதான் வேணும்!”`
 
-The current verified English reads:
+The current English reads:
 
 `“I don't want a fake Amma! I want my real Amma!”`
 
-The English inserts the negation **`don't`**, but the audited canonical Tamil has affirmative **`வேணும்`**. The controlling source pixels were also re-inspected during release preflight and support the canonical affirmative reading. Under this repository's source-fidelity rule, the source strangeness must not be silently repaired from context.
+The English inserts the negation **`don't`**, but audited canonical Tamil has affirmative **`வேணும்`**. The controlling source pixels were also re-inspected during release preflight and support the canonical affirmative reading. Under this repository's source-fidelity rule, source strangeness must not be silently repaired from context.
 
 Therefore:
 
-- current Section 16 `PASS / VERIFIED` state requires a **narrow corrective re-open**;
-- current claim of **0 material source-like alterations** cannot be used for release closure until this sentence is corrected and rechecked;
+- Section 16 requires a **narrow corrective re-open**;
+- whole-work English VERIFIED is suspended until this sentence is corrected and rechecked;
 - canonical Tamil must remain unchanged;
-- the English should preserve the source-confirmed affirmative wording rather than infer an unprinted negative.
+- English must preserve the source-confirmed affirmative wording rather than infer an unprinted negative.
 
-This is a **release blocker**.
+This remains the sole release blocker.
 
 ## Previously documented source oddities
 
@@ -81,14 +81,9 @@ These remain correctly protected and are not blockers:
 - final `இனி:......` → **from now on:......**;
 - no explicit `முற்றும்` → no **The End**.
 
-## Navigation/control consistency findings
+## Navigation/control consistency
 
-Two archival controls were also found stale during the release pass:
-
-- `../../indexes/page-map.md` still states English prose **NOT STARTED / Batch 1 next**;
-- `../../sections/README.md` still describes English Batch 1 as the next stage.
-
-These do not change source text, but they must be synchronized before a future release-ready verdict because reader/project status navigation must reflect live durable state.
+The release pass found two stale archival controls: `../../indexes/page-map.md` still said English was not started, and `../../sections/README.md` still named Batch 1 as next. Both were **synchronized during this Section 17 checkpoint**. They are no longer blockers.
 
 ## Canonical Tamil immutability
 
@@ -98,17 +93,17 @@ Canonical Tamil files were **not changed** during this release-readiness pass.
 
 **NOT READY.**
 
-Release-readiness is blocked by the scan-17 English negation mismatch. The stale page-map/assembled-section status controls must also be synchronized.
+Release-readiness is blocked only by the scan-17 English negation mismatch.
 
 ## Exact next activity
 
 Perform a **narrow Section 16 corrective re-open for scan 17 only**:
 
-1. change the English clause so that it preserves the source-confirmed affirmative `பொய் அம்மா வேணும்` rather than inserting `don't`;
+1. change the English clause so it preserves source-confirmed affirmative `பொய் அம்மா வேணும்` rather than inserting `don't`;
 2. document the source oddity and correction in `GLOSSARY.md` and `TRANSLATION_REVIEW.md`;
-3. recheck the affected scan-17 paragraph against canonical `../../pages/0017-arumbu-13.md` and its 16→17 / 17→18 joins;
+3. recheck the affected scan-17 paragraph and its 16→17 / 17→18 joins against canonical `../../pages/0017-arumbu-13.md`;
 4. restore whole-work English `VERIFIED` only after that check passes;
-5. synchronize `PROGRESS.md`, English/work/root controls, `../../indexes/page-map.md`, and `../../sections/README.md`;
+5. synchronize affected English/work/root controls;
 6. commit and stop.
 
 After that corrective checkpoint, rerun Section 17 release-readiness. Do **not** start `சாரப்பள்ளம் சாமுண்டி` or the 1978 `பெரிய இடத்துப் பெண்` witness comparison before release closure.
