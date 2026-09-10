@@ -142,7 +142,7 @@ Azhagappan could not truly believe those words. Yet Tiger was standing there wee
 
 Could his friend be such a great scoundrel? Azhagappan fell into confusion. Tiger quickly drew him to his side. The old mother too joined Tiger's side and began pouring curses upon Naina.
 
-In the end Azhagappan gave Tiger a bundle of notes worth a thousand rupees and tried to console him.
+In the end Azhagappan gave Tiger a bundle of notes worth one thousand rupees and tried to console him.
 
 "A thousand rupees—can it equal Anandi's life?" Tiger began another lament.
 
