@@ -15,7 +15,7 @@ working_title: "Friday"
 
 <!-- source: scan 99; printed page 98; post-centered 12 -->
 
-Hearing the sound of someone approaching, Naina Muhammad hurried away from Anandi's bed and returned to the veranda. Sweat had poured over his whole body and soaked his clothes. He told himself how cowardly even manhood could make men: deciding something about a woman by oneself, wondering whether she would agree, and then beginning the first steps toward that imagined conclusion.
+Hearing the sound of someone approaching, Naina Muhammad hurried away from Anandi's bed and returned to the veranda. Sweat had poured over his whole body and soaked his clothes. He told himself how such matters could turn even manly men into cowards: deciding something about a woman by oneself, wondering whether she would agree, and then beginning the first steps toward that imagined conclusion.
 
 From the veranda he watched to see who was approaching Anandi's room. A nurse opened another door and entered carrying a medicine bottle. Seeing Anandi sleeping soundly, she called to her twice in a low voice. Anandi did not wake.
 
@@ -43,7 +43,7 @@ A short while later Anandi turned in bed. The sound of her groan made Naina spri
 
 "What do you need?" he asked anxiously.
 
-Anandi looked at him without blinking for a little while. He clearly understood that her gaze held surprise, trust and a certain cool tenderness. He could hardly contain the fullness rising in his heart.
+Anandi looked at him without blinking for a little while. He clearly understood that her gaze held surprise, trust and a certain coolness. He could hardly contain the fullness rising in his heart.
 
 <!-- source join: scan 101 ends `ஆனந்தி`; scan 102 begins `புரண்டு படுத்தாள்.` -->
 <!-- source: scan 102; printed page 101 -->
