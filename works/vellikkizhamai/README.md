@@ -19,9 +19,9 @@
 - second-pass corrections: **5 total / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil content: **COMPLETE — Chapters 1–23 / 23 VERIFIED**;
-- final assembled-layer consistency gate: **PENDING / NOT YET RUN**;
-- English: **blocked until the final assembled Tamil consistency gate passes**.
+- assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
+- final assembled Tamil consistency gate: **PASSED — 0 unresolved / 0 canonical changes**;
+- English translation: **NOT STARTED — translation planning gate open; prose blocked until `translations/en/TRANSLATION_PLAN.md` exists**.
 
 ## Canonical authority
 
@@ -45,7 +45,7 @@
 | 12 | scan 99 after centered `12` → scan 107 before centered `13` | **VERIFIED** |
 | 13 | scan 107 after centered `13` → scan 115 before centered `14` | **VERIFIED** |
 | 14 | scan 115 after centered `14` → scan 120 before centered `15` | **VERIFIED** |
-| 15 | scan 120 after centered `15` → scan 127 before centered `16` | **VERIFIED** |
+| 15 | scan 120 after centered `15` → scan 126 | **VERIFIED** |
 | 16 | scan 127 after centered `16` → scan 134 before centered `17` | **VERIFIED** |
 | 17 | scan 134 after centered `17` → scan 142 before centered `18` | **VERIFIED** |
 | 18 | scan 142 after centered `18` → scan 149 before centered `19` | **VERIFIED** |
@@ -55,12 +55,29 @@
 | 22 | scan 166 after centered `22` → scan 172 before centered `23` | **VERIFIED** |
 | 23 | scan 172 after centered `23` → scan 179 | **VERIFIED** |
 
-Chapters 5–9, 10–19, and 21–23 were assembled in larger contiguous batches only after explicit user authorization. Chapter 20 used the default one-chapter workflow. Mixed chapter-boundary scans were split at centered source headings; verified continuities were represented reversibly; literal source discontinuities were not repaired by grammar; printer/signature marks and scan 179's lower illustration/later handwriting were excluded. No canonical page record changed.
+## Final assembled Tamil consistency gate
 
-## Remaining-chapter closure
+The gate checked all 23 section files against `sections/README.md`, `indexes/page-map.md`, the already-verified canonical `pages/` authority and repository history.
 
-Chapters **21–23** are now assembled and individually **VERIFIED**. Their coverage is scan 160 after centered `21` through final narrative scan 179, split at centered `22` on scan 166 and centered `23` on scan 172. Verification result: **PASS — 3 / 3 chapters, 0 unresolved / 0 canonical changes**.
+Result: **PASS**.
+
+- exactly **23 / 23** chapter sections, ordered 1–23;
+- narrative coverage is contiguous from scan 4 through final narrative scan 179;
+- mixed chapter-boundary scans are split at source-printed centered headings;
+- verified cross-page joins remain reversible through HTML provenance comments;
+- known source discontinuities at scans **117→118**, **122→123** and **156→157** remain literal and unrepaired;
+- printer/signature marks, illustrations and later handwriting are excluded from assembled prose;
+- scan 179 includes only final narrative text in the reading layer;
+- comparison from source-audit checkpoint `591fe29f7ce6bb7f814f165b757098e89fe25aa5` through completed assembly head `52d7dcd9d6c5d561ca14f69fd850d37a55963310` confirms that no canonical `pages/` file changed during assembly.
+
+Final gate: **PASS — 23 / 23 chapters; 0 unresolved / 0 canonical changes**.
 
 ## Exact next activity
 
-Run the **final assembled Tamil consistency gate** across `sections/01-chapter-01.md` through `sections/23-chapter-23.md`: confirm complete chapter/source coverage, centered-heading boundary splits, only verified cross-page joins, preserved canonical oddities/discontinuities, exclusion of non-body material, and zero unauthorized canonical `pages/` changes. Do not start English until this gate passes.
+Create the mandatory English translation plan:
+
+`works/vellikkizhamai/translations/en/TRANSLATION_PLAN.md`
+
+Follow `NOVEL_PROCESSING_GUIDE.md` Section 14. Define the working English title, authority hierarchy, section/batch plan, translation style, transliteration/name policy, political/religious/caste terminology policy, historical-office/ritual-term handling, punctuation/dialogue policy, source-oddity policy, page traceability, and review states/gates.
+
+**Do not begin English prose in the same iteration.**

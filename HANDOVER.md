@@ -10,7 +10,7 @@
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Do not reopen completed source/glyph gates without genuinely new direct-source evidence.
+Fetch live `main` first and preserve newer durable work. Do not reopen completed Tamil source/glyph/assembly gates without genuinely new direct-source evidence.
 
 ## Controlling source
 
@@ -23,7 +23,7 @@ Fetch live `main` first and preserve newer durable work. Do not reopen completed
 - image-only
 - do **not** commit the PDF.
 
-## Durable source-layer state
+## Durable Tamil state
 
 - canonical page records: **179 / 179 — COMPLETE / VERIFIED**;
 - final narrative: **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
@@ -32,36 +32,48 @@ Fetch live `main` first and preserve newer durable work. Do not reopen completed
 - user-directed second historical-glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS**;
 - second-pass corrections: **5 total / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
-- Tamil source layer: **PASSED**.
+- Tamil source layer: **PASSED**;
+- assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
+- final assembled consistency gate: **PASSED — 0 unresolved / 0 canonical changes**.
 
-## Assembled Tamil reading layer
+## Final assembled Tamil gate closure
 
-- assembly content: **COMPLETE — Chapters 1–23 / 23 VERIFIED**;
-- final assembled-layer consistency gate: **PENDING / NOT YET RUN**;
-- Chapters 1–4 were completed in chapter-sized iterations;
-- Chapters 5–9 were assembled together under explicit user authorization;
-- Chapters 10–19 were assembled together under explicit user authorization;
-- Chapter 20 was assembled in the default one-chapter workflow;
-- Chapters 21–23 were assembled together after the user explicitly authorized all remaining chapters;
-- assembled source coverage now reaches **final narrative scan 179 / printed 178**;
-- canonical `pages/` remain controlling authority;
-- no canonical page record changed during assembled-layer work;
-- English remains **blocked** until the final assembled-layer consistency gate passes.
+The gate confirmed exactly 23 chapter section files, contiguous coverage from scan 4 through final narrative scan 179, correct centered-heading splits, source-supported reversible joins, preservation of literal source discontinuities and source oddities, exclusion of printer/signature marks and non-body visual/later-handwritten material, and canonical-authority integrity.
 
-## Remaining-chapter closure
+Important preserved discontinuities remain:
 
-- Chapter 21: scan 160 after centered `21` → scan 166 before centered `22` — **VERIFIED**;
-- Chapter 22: scan 166 after centered `22` → scan 172 before centered `23` — **VERIFIED**;
-- Chapter 23: scan 172 after centered `23` → scan 179 — **VERIFIED**.
+- scan 117→118: `உட்` → `எவ்வளவோ முயன்றும் நடக்கவில்லை.`;
+- scan 122→123: `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`;
+- scan 156→157: `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`.
 
-Mixed boundary scans 160, 166 and 172 were split only at centered chapter headings. Verified page continuities were represented reversibly. Scan 179 contributes only its final narrative paragraph; its lower printed illustration and later handwriting remain excluded. Remaining-chapter batch result: **PASS — 3 / 3 chapters, 0 unresolved / 0 canonical changes**.
+Chapter 15 ends on scan **126**; Chapter 16 opens cleanly on centered `16` at scan **127**.
 
-## Assembly workflow
+Repository comparison from passed source-audit checkpoint `591fe29f7ce6bb7f814f165b757098e89fe25aa5` through completed assembly head `52d7dcd9d6c5d561ca14f69fd850d37a55963310` shows **no canonical `works/vellikkizhamai/pages/` changes** during assembly.
 
-Derive only from audited canonical `pages/`, preserve reversible provenance, join only verified page continuities, and never normalize source wording merely for reading flow. Larger chapter batches require explicit user authorization.
+## English state
+
+English prose is **NOT STARTED**.
+
+The Tamil gates now permit translation planning, but `NOVEL_PROCESSING_GUIDE.md` requires a mandatory plan before any English prose.
 
 ## Exact next activity
 
-Run the **final assembled Tamil consistency gate** across `works/vellikkizhamai/sections/01-chapter-01.md` through `23-chapter-23.md`.
+Create:
 
-Required checks: 23/23 chapter coverage; source coverage and centered-heading boundary splits; all cross-page joins source-supported and reversible; canonical oddities and unresolved physical discontinuities preserved; printer/signature marks, illustrations and later handwriting excluded; canonical `pages/` unchanged by assembly. If and only if the gate passes, synchronize status to assembled Tamil **PASSED**. Do not start English in the same iteration unless separately authorized.
+`works/vellikkizhamai/translations/en/TRANSLATION_PLAN.md`
+
+The plan must define at minimum:
+
+- working English title;
+- source authority hierarchy;
+- chapter/section and batch plan;
+- translation style;
+- name/transliteration policy;
+- political, religious and caste terminology policy;
+- historical office / ritual term handling;
+- punctuation and dialogue policy;
+- source oddity policy;
+- page/source traceability;
+- review states and gates.
+
+Do **not** begin English prose in that same planning iteration.

@@ -22,7 +22,7 @@ The source has **23 chapters**. Mixed boundary scans are split at the source-pri
 | `12-chapter-12.md` | scan 99 after centered `12` → scan 107 before centered `13` | 12 | **VERIFIED** |
 | `13-chapter-13.md` | scan 107 after centered `13` → scan 115 before centered `14` | 13 | **VERIFIED** |
 | `14-chapter-14.md` | scan 115 after centered `14` → scan 120 before centered `15` | 14 | **VERIFIED** |
-| `15-chapter-15.md` | scan 120 after centered `15` → scan 127 before centered `16` | 15 | **VERIFIED** |
+| `15-chapter-15.md` | scan 120 after centered `15` → scan 126 | 15 | **VERIFIED** |
 | `16-chapter-16.md` | scan 127 after centered `16` → scan 134 before centered `17` | 16 | **VERIFIED** |
 | `17-chapter-17.md` | scan 134 after centered `17` → scan 142 before centered `18` | 17 | **VERIFIED** |
 | `18-chapter-18.md` | scan 142 after centered `18` → scan 149 before centered `19` | 18 | **VERIFIED** |
@@ -41,32 +41,38 @@ The source has **23 chapters**. Mixed boundary scans are split at the source-pri
 5. Join only already-verified page-boundary continuities; never invent missing text from grammar.
 6. Split mixed boundary scans only at the source-printed centered chapter heading.
 7. Canonical `pages/` remain controlling authority and are never changed merely to smooth reading flow.
-8. Default workflow is one chapter per iteration; larger contiguous batches require explicit user authorization. Chapters 5–9, 10–19, and the remaining Chapters 21–23 were explicit user-authorized batches.
-9. Do not mark this layer `PASSED` until the final coverage / boundary / continuity / canonical-authority consistency gate passes.
 
-## Verified assembly history
+## Assembly history
 
 - Chapters **1–4** — completed in chapter-sized iterations.
 - Chapters **5–9** — verified in a user-authorized five-chapter batch.
 - Chapters **10–19** — verified in a user-authorized ten-chapter batch.
 - Chapter **20** — verified in the default one-chapter workflow.
-- Chapters **21–23** — verified together after the user explicitly authorized assembly of all remaining chapters.
+- Chapters **21–23** — verified together after explicit user authorization to assemble all remaining chapters.
 
 Across all assembly work, mixed physical scans were split only at centered source headings, canonical source oddities were preserved, printer/signature marks were excluded, and no canonical `pages/` record was changed.
 
-## Chapters 21–23 verification
+## Final assembled Tamil consistency gate
 
-Chapter 21 covers **scan 160 after centered `21` through scan 166 before centered `22`**. Reversible source continuities include scan 160 `நமது தூய நட்பு` → scan 161 `ஒரு பெண்ணால்...`, scan 164 `கத்தி` + scan 165 `னான்.` → `கத்தினான்.`, and scan 165 `அதற்குள்` → scan 166 `யாரோ...`.
+**PASS — 2026-09-10.**
 
-Chapter 22 covers **scan 166 after centered `22` through scan 172 before centered `23`**. Reversible continuities include scan 166 `என்று பரிதாபம் காட்டுவர்—` → scan 167 `அம்மாவின்...`, scan 167 `போய்ச் சேர்ந்து` → scan 168 `விடவேண்டுமென்ற`, scan 169 `ஒலி வந்த திக்கையே நோக்கியவாறு` → scan 170 `அவள் எழுந்துநின்றாள்,`, scan 170 `“எஜமான்!....இடும்பன்...”` → scan 171 `என்றான்.`, and scan 171 `வம்புச் சண்டையெல்லாம்` → scan 172 `நடந்தது.`.
+The final gate confirmed:
 
-Chapter 23 covers **scan 172 after centered `23` through final scan 179**. Reversible continuities include scan 173 `அவள் நெஞ்சிலே` → scan 174 `எழுந்த குமுறல்கள்!...`, scan 174 `உண்மையான பாலகங்காதரத் தேவரை` → scan 175 `சிக்கவைக்கவேண்டுமென்றும்`, and scan 175 `போலீசார் அவரைச் சூழ்ந்து` → scan 176 `கொண்டார்கள்.`. Scan 179 contributes only its final narrative paragraph; the lower printed illustration and later handwriting remain excluded.
+- exactly **23 / 23** chapter section files, with `section_order` **1–23**, `status: verified`, and derivation from audited canonical page records;
+- contiguous narrative coverage from Chapter 1 opening on **scan 4** through the final narrative on **scan 179 / printed 178**;
+- correct chapter-boundary treatment, including centered mixed-scan splits at scans **33, 45, 59, 68, 75, 85, 92, 99, 107, 115, 120, 134, 142, 149, 154, 160, 166 and 172**, plus clean chapter openings where the source starts a chapter on a fresh scan;
+- Chapter 15 correctly ends on **scan 126**, with Chapter 16 opening cleanly on **scan 127**;
+- every assembled cross-page join remains source-verified and reversible through provenance comments;
+- literal source discontinuities remain unrepaired, including scan **117→118** (`உட்` → `எவ்வளவோ முயன்றும் நடக்கவில்லை.`), scan **122→123** (`...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`), and scan **156→157** (`தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`);
+- non-body printer/signature marks are absent from assembled prose, and scan 179 contributes only its final narrative paragraph while its lower illustration and later handwriting remain excluded;
+- comparison from the passed Tamil-source checkpoint `591fe29f7ce6bb7f814f165b757098e89fe25aa5` through the completed assembly head `52d7dcd9d6c5d561ca14f69fd850d37a55963310` shows **no canonical `works/vellikkizhamai/pages/` changes**.
 
-Remaining-chapter assembly verification: **PASS — 3 / 3 chapters, 0 unresolved, 0 canonical changes**.
+Final gate result: **PASS — 23 / 23 chapters; 0 unresolved; 0 canonical changes.**
 
 ## Current status
 
-**Assembly content: COMPLETE — 23 / 23 chapters VERIFIED.**  
-**Final assembled-layer consistency gate: PENDING / NOT YET RUN.**
+**ASSEMBLED TAMIL: PASSED — 23 / 23 chapters VERIFIED.**
 
-Next: run the final assembled Tamil consistency gate across all 23 section files. English remains blocked until that gate passes.
+English prose has **not** started. The translation-planning gate is now open.
+
+Next: create `../translations/en/TRANSLATION_PLAN.md` as required by `NOVEL_PROCESSING_GUIDE.md`. Do not begin English prose until that plan exists.

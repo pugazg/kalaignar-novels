@@ -28,9 +28,9 @@
 - second historical-glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS; 5 corrections / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil content: **COMPLETE — Chapters 1–23 / 23 VERIFIED**;
-- final assembled Tamil consistency gate: **PENDING / NOT YET RUN**;
-- English translation: **blocked until the final assembled Tamil consistency gate passes**.
+- assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
+- final assembled Tamil consistency gate: **PASSED — 0 unresolved / 0 canonical changes**;
+- English translation: **NOT STARTED — translation planning gate open; prose blocked until the mandatory plan exists**.
 
 ### Historical Tamil glyph handling
 
@@ -40,11 +40,13 @@ Mandatory family set on source-dependent historical-glyph work:
 
 Source pixels decide identity. Grammar is only a locator. Preserve source spelling, grammar, punctuation, spacing, colloquial forms and physical boundaries. Never global-replace.
 
-### Current assembly state
+### Current Tamil state
 
-The canonical `works/vellikkizhamai/pages/` layer is closed and controlling. The derived `sections/` reading layer now contains **23 / 23 VERIFIED chapters**, all derived only from canonical records. Mixed physical scans were split at centered source chapter headings; verified page continuities are reversible with provenance comments; literal source discontinuities and oddities remain unrepaired; printer/signature marks and non-body visual/later-handwritten material are excluded. No canonical page record changed during assembly.
+The canonical `works/vellikkizhamai/pages/` layer is closed and controlling. The derived `sections/` reading layer contains **23 / 23 VERIFIED chapters** and has passed its final consistency gate.
 
-The final remaining Chapters **21–23** were assembled together under explicit user authorization, covering scan 160 after centered `21` through final narrative scan 179, with centered boundaries `22` on scan 166 and `23` on scan 172. Remaining-batch verification: **PASS — 3 / 3 chapters, 0 unresolved / 0 canonical changes**.
+The gate confirmed complete narrative coverage from scan 4 through final narrative scan 179, correct centered-heading chapter splits, only source-verified reversible joins, preservation of literal source discontinuities/oddities, exclusion of printer/signature marks and non-body visual/later-handwritten material, and no canonical page changes during assembly.
+
+Chapter 15 ends on scan **126**; Chapter 16 opens cleanly on centered `16` at scan **127**. Scan 179 contributes only final narrative text to the reading layer.
 
 ## Completed works
 
@@ -56,4 +58,8 @@ The final remaining Chapters **21–23** were assembled together under explicit 
 
 ## Next activity
 
-Run the **final assembled Tamil consistency gate** for `வெள்ளிக்கிழமை` across all 23 section files. Confirm complete source/chapter coverage, correct centered-heading splits, only source-verified reversible joins, preservation of canonical oddities/discontinuities, exclusion of non-body material, and zero unauthorized canonical `pages/` changes. Do not start English until that gate passes.
+Create the mandatory English translation plan for `வெள்ளிக்கிழமை`:
+
+`works/vellikkizhamai/translations/en/TRANSLATION_PLAN.md`
+
+Follow `NOVEL_PROCESSING_GUIDE.md` Section 14. Do not begin English prose until the plan exists.

@@ -12,8 +12,8 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - second historical-glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS; 5 corrections / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil content: **COMPLETE — Chapters 1–23 / 23 VERIFIED**;
-- final assembled consistency gate: **PENDING / NOT YET RUN**.
+- assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
+- final assembled consistency gate: **PASSED — 0 unresolved / 0 canonical changes**.
 
 ## Printed-page mapping
 
@@ -70,7 +70,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 | 12 | scan 99 after centered `12` → scan 107 before centered `13` | **VERIFIED** |
 | 13 | scan 107 after centered `13` → scan 115 before centered `14` | **VERIFIED** |
 | 14 | scan 115 after centered `14` → scan 120 before centered `15` | **VERIFIED** |
-| 15 | scan 120 after centered `15` → scan 127 before centered `16` | **VERIFIED** |
+| 15 | scan 120 after centered `15` → scan 126 | **VERIFIED** |
 | 16 | scan 127 after centered `16` → scan 134 before centered `17` | **VERIFIED** |
 | 17 | scan 134 after centered `17` → scan 142 before centered `18` | **VERIFIED** |
 | 18 | scan 142 after centered `18` → scan 149 before centered `19` | **VERIFIED** |
@@ -80,18 +80,16 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 | 22 | scan 166 after centered `22` → scan 172 before centered `23` | **VERIFIED** |
 | 23 | scan 172 after centered `23` → scan 179 | **VERIFIED** |
 
-## Assembly decisions
+## Final assembled consistency gate
 
-Earlier verified assembly preserves mixed-boundary splits, reversible cross-page joins, literal source discontinuities and canonical oddities without normalization. No canonical page record changed.
+**PASS.** The chapter ranges above match the 23 section front matters and the source-supported chapter map. Chapter 15 ends at scan 126; scan 127 is the clean Chapter 16 opening.
 
-For the user-authorized remaining batch:
+Verified reading-layer continuities remain reversible. Known literal source discontinuities at scans 117→118, 122→123 and 156→157 remain unrepaired. Printer/signature marks and non-body material remain excluded, including scan 179's lower illustration and later handwriting.
 
-- Chapter 21 uses scan 160 after centered `21` through scan 166 before centered `22`;
-- Chapter 22 uses scan 166 after centered `22` through scan 172 before centered `23`;
-- Chapter 23 uses scan 172 after centered `23` through scan 179;
-- scan 179's lower printed illustration and later handwriting are excluded from assembled prose;
-- remaining-batch verification: **PASS — 3 / 3 chapters, 0 unresolved / 0 canonical changes**.
+Repository comparison from source-audit checkpoint `591fe29f7ce6bb7f814f165b757098e89fe25aa5` through completed assembly head `52d7dcd9d6c5d561ca14f69fd850d37a55963310` confirms that no canonical `works/vellikkizhamai/pages/` file changed during assembly.
+
+Final gate result: **PASS — 23 / 23 chapters; 0 unresolved / 0 canonical changes**.
 
 ## Exact next activity
 
-Run the **final assembled Tamil consistency gate** across all 23 section files and canonical source mapping. Confirm complete chapter coverage, correct mixed-boundary splits, only verified reversible joins, preservation of source discontinuities/oddities, non-body exclusions, and canonical-authority integrity. English remains blocked until that gate passes.
+Create `works/vellikkizhamai/translations/en/TRANSLATION_PLAN.md` according to `NOVEL_PROCESSING_GUIDE.md` Section 14. English prose remains not started until that mandatory plan exists.
