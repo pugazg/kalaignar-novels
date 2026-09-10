@@ -18,7 +18,7 @@
 
 Component handling:
 
-- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **TAMIL SOURCE + ASSEMBLED TAMIL PASSED / ENGLISH PLAN NEXT**;
+- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **TAMIL SOURCE + ASSEMBLED TAMIL + ENGLISH PLAN PASSED / BATCH 1 PILOT NEXT**;
 - [`சாரப்பள்ளம் சாமுண்டி`](works/sarapallam-samundi/README.md) — scans 24–48 — registered / queued;
 - [`பெரிய இடத்துப் பெண்`](works/periya-idathup-pen/README.md) — scans 49–74 — additional witness to the existing work, not a duplicate;
 - [`நடுத்தெரு நாராயணி`](works/nadutheru-narayani/README.md) — scans 75–90 — registered / queued.
@@ -27,21 +27,22 @@ Component handling:
 
 - canonical records: **18 / 18 — scans 6–23**;
 - verified records: **18 / 18 — scans 6–23 contiguous**;
-- scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
-- scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
-- scans 16–20 T1/T2/T3: **PASS / COMPLETE**;
-- scans 21–23 T1/T2/T3: **PASS / COMPLETE**;
+- all four T1/T2/T3 source batches: **PASS / COMPLETE**;
 - historical-glyph unresolved items: **0**;
 - source-fidelity unresolved items: **0**;
 - whole-work Tamil audit: **PASS / COMPLETE**;
 - Tamil source layer: **PASSED**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
-- English translation plan: **NEXT**;
-- English prose: **BLOCKED until plan completion**.
+- English translation plan: **PASS / COMPLETE**;
+- working English title: **The Bud**;
+- English prose: **NOT STARTED**;
+- Batch 1 pilot — scans **6–10**: **NEXT**.
 
-The assembled Tamil layer is [`works/arumbu/sections/01-arumbu.md`](works/arumbu/sections/01-arumbu.md), derived only from the 18 audited canonical records and retaining reversible scan provenance. The source-visible printed pagination remains exact: scan 6 is unnumbered; scans 7–13 show 2–8; scan 14 shows 10; scans 15–23 show 11–19. No printed page 9 is inferred. Source-confirmed `பேசினேன்` and `அம்மனார்` remain unchanged, and no unprinted `முற்றும்` is added.
+The assembled Tamil layer is [`works/arumbu/sections/01-arumbu.md`](works/arumbu/sections/01-arumbu.md), derived only from the 18 audited canonical records and retaining reversible scan provenance. The English planning controls are under [`works/arumbu/translations/en/`](works/arumbu/translations/en/README.md).
 
-Exact next action: **prepare the Section 14 English translation plan for `அரும்பு` only**, synchronize controls, commit, and stop before English prose or `சாரப்பள்ளம் சாமுண்டி`.
+The source-visible printed pagination remains exact: scan 6 is unnumbered; scans 7–13 show 2–8; scan 14 shows 10; scans 15–23 show 11–19. No printed page 9 is inferred. Source-confirmed `பேசினேன்`, `அம்மனார்`, and final `இனி:......` remain protected from silent normalization, and no unprinted `முற்றும்` is added.
+
+Exact next action: **translate and fully source-check English Batch 1 pilot for `அரும்பு`, scans 6–10 only**, synchronize controls, commit, and stop before Batch 2 or `சாரப்பள்ளம் சாமுண்டி`.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 
