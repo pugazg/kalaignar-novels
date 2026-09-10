@@ -1,4 +1,4 @@
-# Next Chat Prompt — அரும்பு / scans 21–23 / T1 transcription checkpoint
+# Next Chat Prompt — அரும்பு / scans 21–23 / T2 historical-glyph checkpoint
 
 Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections/arumbu-1978/`, active work `works/arumbu/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -28,54 +28,60 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 Read before source-dependent work:
 
 1. `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`;
-2. root `HANDOVER.md`;
-3. `works/arumbu/README.md`;
-4. `works/arumbu/indexes/page-map.md`;
-5. `works/arumbu/audit.md`;
-6. `works/arumbu/T3_BATCH_016_020.md`;
-7. verified scan-20 record only for physical continuity.
+2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+3. root `HANDOVER.md`;
+4. `works/arumbu/README.md`;
+5. `works/arumbu/indexes/page-map.md`;
+6. `works/arumbu/audit.md`;
+7. `works/arumbu/T1_BATCH_021_023.md`;
+8. canonical scan records `works/arumbu/pages/0021-arumbu-17.md`, `0022-arumbu-18.md`, `0023-arumbu-19.md`.
 
 ## Durable state
 
 Scans **6–20 are CLOSED / VERIFIED** after T1+T2+T3.
 
-Scans 16–20:
+Final scans **21–23**:
 
-- T1 — PASS / COMPLETE;
-- T2 — PASS / COMPLETE — 1 correction / 0 unresolved;
-- T3 — PASS / COMPLETE — 11 additional corrections / 0 unresolved;
-- directly visible printed pages: **12, 13, 14, 15, 16**.
+- directly visible printed pages: **17, 18, 19**;
+- T1 — **PASS / COMPLETE**;
+- canonical records — **3 / 3 present**, all `needs-review`;
+- T2 — **NEXT**;
+- T3 — BLOCKED by T2.
 
 Current totals:
 
-- canonical records: **15 / 18**;
+- canonical records: **18 / 18 — scans 6–23**;
 - verified records: **15 / 18 — scans 6–20 contiguous**;
 - unresolved source readings in verified range: **0**;
-- scans 21–23: not started.
+- assembled Tamil / English remain BLOCKED.
+
+Scan 21 T1 was committed separately at `89c41ba57f634bf222cb484d605f32217ccb7176`; the completed T1 batch record is `works/arumbu/T1_BATCH_021_023.md`.
+
+T2 should independently re-check the first-pass source readings `பேசினேன்` (scan 22) and `அம்மனார்` (scan 23) without context-normalizing them.
 
 Do not reopen scans 6–20 without genuinely new source evidence.
 
 ## Small-task discipline
 
-- **T1** = one direct visual transcription pass only; create canonical `needs-review` records, sync controls, commit, stop.
-- **T2** = independent historical-glyph / character-identity re-read; targeted crops only for actual uncertainty; sync, commit, stop.
-- **T3** = exhaustive final source-fidelity closure; sync, commit, stop.
+- **T1** = direct visual transcription only — COMPLETE for scans 21–23.
+- **T2** = independent historical-glyph / character-identity re-read — current checkpoint.
+- **T3** = exhaustive final source-fidelity closure — blocked until T2 is durably committed.
 
-Do not fold T2/T3 work into T1.
+Do not fold T3 into T2.
 
-## Exact next activity — scans 21–23 / T1 only
+## Exact next activity — scans 21–23 / T2 only
 
-Process the final three physical scans of `அரும்பு`, **21–23**:
+Independently re-read complete physical scans **21, 22 and 23** against `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`:
 
-- visually transcribe each whole page once from direct source pixels;
-- create one canonical record per scan under `works/arumbu/pages/`;
-- record a printed page number only when directly visible; never infer numbering;
-- preserve source spelling, punctuation, dialogue, paragraph structure and physical page-boundary fragments on a first-pass basis;
-- preserve illustrations/non-body marks as observations rather than narrative text;
-- if a difficult first-pass reading remains, mark it for T2/T3 instead of running repeated crop loops;
-- do **not** run T2 or T3 in this checkpoint;
-- leave all three new records `needs-review`;
-- synchronize controls and commit T1 immediately;
-- stop.
+- check the complete pages, not only already-suspected words;
+- explicitly cover the sensitive families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- compare same-edition forms only when necessary;
+- correct character identity only when directly supported by source pixels;
+- do not modernize spelling, grammar or vocabulary;
+- create crops/enhancements only for genuinely uncertain readings;
+- record every correction and any unresolved glyph in the T2 batch/work audit;
+- keep all three page records `needs-review`;
+- synchronize affected controls and commit T2 immediately;
+- stop before T3.
 
 Do **not** begin `சாரப்பள்ளம் சாமுண்டி`, perform the 1978 `பெரிய இடத்துப் பெண்` witness comparison, or start English/assembly work in this checkpoint.
