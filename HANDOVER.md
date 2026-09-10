@@ -36,32 +36,40 @@ Fetch live `main` first and preserve newer durable work. Do not reopen completed
 
 ## Assembled Tamil reading layer
 
-- **IN PROGRESS — Chapters 1–9 / 23 VERIFIED**;
-- Chapters 1–4 were completed in earlier chapter-sized commits;
-- at the user's explicit direction, Chapters **5–9** were assembled together as one contiguous batch;
-- assembled source coverage now reaches **scan 85 immediately before centered `10`**;
+- **IN PROGRESS — Chapters 1–19 / 23 VERIFIED**;
+- Chapters 1–4 were completed in chapter-sized commits;
+- Chapters 5–9 were assembled together under explicit user authorization;
+- Chapters 10–19 were assembled together under explicit user authorization;
+- assembled source coverage now reaches **scan 154 immediately before centered `20`**;
 - canonical `pages/` remain controlling authority;
-- no canonical page record changed during the Chapters 5–9 assembly batch;
+- no canonical page record changed during assembled-layer work;
 - English remains **blocked** until all 23 chapters and the final assembled-layer consistency gate pass.
 
-## Chapters 5–9 durable coverage
+## Chapters 10–19 closure
 
-- Chapter 5: scan 45 after centered `5` through scan 51 — **VERIFIED**;
-- Chapter 6: scan 52 through scan 59 before centered `7` — **VERIFIED**;
-- Chapter 7: scan 59 after centered `7` through scan 68 before centered `8` — **VERIFIED**;
-- Chapter 8: scan 68 after centered `8` through scan 75 before centered `9` — **VERIFIED**;
-- Chapter 9: scan 75 after centered `9` through scan 85 before centered `10` — **VERIFIED**.
+Verified coverage:
 
-Mixed scans 59, 68, 75 and 85 are split only at their source-printed centered headings. Scan 66's printed-page value remains source-visible `5`; scan 82's bottom standalone `6` remains a non-body printer/signature mark.
+- Chapter 10: scan 85 after centered `10` → scan 92 before centered `11`;
+- Chapter 11: scan 92 after centered `11` → scan 99 before centered `12`;
+- Chapter 12: scan 99 after centered `12` → scan 107 before centered `13`;
+- Chapter 13: scan 107 after centered `13` → scan 115 before centered `14`;
+- Chapter 14: scan 115 after centered `14` → scan 120 before centered `15`;
+- Chapter 15: scan 120 after centered `15` → scan 127 before centered `16`;
+- Chapter 16: scan 127 after centered `16` → scan 134 before centered `17`;
+- Chapter 17: scan 134 after centered `17` → scan 142 before centered `18`;
+- Chapter 18: scan 142 after centered `18` → scan 149 before centered `19`;
+- Chapter 19: scan 149 after centered `19` → scan 154 before centered `20`.
+
+Mixed boundary scans were split at their source-printed centered headings. Literal source discontinuities and unusual forms remain un-repaired when the canonical page records explicitly preserve them. Printer/signature marks remain excluded from reading prose.
 
 ## Assembly workflow
 
-The default remains one source chapter per iteration / commit. A multi-chapter assembly is allowed only on explicit user authorization; the Chapters 5–9 batch was explicitly authorized. Always derive only from audited canonical `pages/`, preserve reversible provenance, join only verified page continuities, and never normalize source wording merely for reading flow.
+Derive only from audited canonical `pages/`, preserve reversible provenance, join only verified page continuities, and never normalize source wording merely for reading flow. The default is one chapter per iteration; process multiple chapters only when the user explicitly authorizes a larger batch.
 
 ## Exact next activity
 
-Assemble and verify **Chapter 10** as:
+Assemble and verify **Chapter 20** as:
 
-`works/vellikkizhamai/sections/10-chapter-10.md`
+`works/vellikkizhamai/sections/20-chapter-20.md`
 
-Coverage: **scan 85 after centered `10` through scan 92 before centered `11`**. English remains blocked.
+Coverage: **scan 154 after centered `20` through scan 160 before centered `21`**. English remains blocked.

@@ -12,7 +12,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - second historical-glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS; 5 corrections / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **IN PROGRESS — Chapters 1–9 / 23 VERIFIED**.
+- assembled Tamil: **IN PROGRESS — Chapters 1–19 / 23 VERIFIED**.
 
 ## Printed-page mapping
 
@@ -64,27 +64,25 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 | 7 | scan 59 after centered `7` → scan 68 before centered `8` | **VERIFIED** |
 | 8 | scan 68 after centered `8` → scan 75 before centered `9` | **VERIFIED** |
 | 9 | scan 75 after centered `9` → scan 85 before centered `10` | **VERIFIED** |
-| 10 | scan 85 after centered `10` → scan 92 before centered `11` | **NEXT** |
-| 11 | scan 92 after centered `11` → scan 99 before centered `12` | pending |
-| 12 | scan 99 after centered `12` → scan 107 before centered `13` | pending |
-| 13 | scan 107 after centered `13` → scan 115 before centered `14` | pending |
-| 14 | scan 115 after centered `14` → scan 120 before centered `15` | pending |
-| 15 | scan 120 after centered `15` → scan 127 before centered `16` | pending |
-| 16 | scan 127 after centered `16` → scan 134 before centered `17` | pending |
-| 17 | scan 134 after centered `17` → scan 142 before centered `18` | pending |
-| 18 | scan 142 after centered `18` → scan 149 before centered `19` | pending |
-| 19 | scan 149 after centered `19` → scan 154 before centered `20` | pending |
-| 20 | scan 154 after centered `20` → scan 160 before centered `21` | pending |
+| 10 | scan 85 after centered `10` → scan 92 before centered `11` | **VERIFIED** |
+| 11 | scan 92 after centered `11` → scan 99 before centered `12` | **VERIFIED** |
+| 12 | scan 99 after centered `12` → scan 107 before centered `13` | **VERIFIED** |
+| 13 | scan 107 after centered `13` → scan 115 before centered `14` | **VERIFIED** |
+| 14 | scan 115 after centered `14` → scan 120 before centered `15` | **VERIFIED** |
+| 15 | scan 120 after centered `15` → scan 127 before centered `16` | **VERIFIED** |
+| 16 | scan 127 after centered `16` → scan 134 before centered `17` | **VERIFIED** |
+| 17 | scan 134 after centered `17` → scan 142 before centered `18` | **VERIFIED** |
+| 18 | scan 142 after centered `18` → scan 149 before centered `19` | **VERIFIED** |
+| 19 | scan 149 after centered `19` → scan 154 before centered `20` | **VERIFIED** |
+| 20 | scan 154 after centered `20` → scan 160 before centered `21` | **NEXT** |
 | 21 | scan 160 after centered `21` → scan 166 before centered `22` | pending |
 | 22 | scan 166 after centered `22` → scan 172 before centered `23` | pending |
 | 23 | scan 172 after centered `23` → scan 179 | pending |
 
-## Chapters 5–9 assembly decisions
+## Chapters 10–19 assembly decisions
 
-The user explicitly authorized a five-chapter batch. Chapters 5–9 were independently derived from canonical records and committed together. Mixed scans 59, 68, 75 and 85 are split at the centered headings; no post-heading text is assigned backward to the preceding chapter. Scan 66's source-visible printed number remains only `5`; scan 82's standalone bottom `6` remains non-body.
-
-No canonical page record changed during Chapters 5–9 assembly.
+The user explicitly authorized a ten-chapter batch. Mixed boundary scans were split at centered headings; verified page joins were represented reversibly; source oddities and physical discontinuities were not normalized. In particular, scan 117→118 and scan 122→123 remain literal canonical discontinuities rather than reconstructed prose. No canonical page record changed during the batch.
 
 ## Exact next activity
 
-Assemble **Chapter 10 — scan 85 after centered `10` through scan 92 before centered `11`** into `sections/10-chapter-10.md`; then advance assembly state to **10 / 23**. English remains blocked.
+Assemble **Chapter 20 — scan 154 after centered `20` through scan 160 before centered `21`** into `sections/20-chapter-20.md`; verify against canonical pages, then advance assembly state to **20 / 23**. English remains blocked.

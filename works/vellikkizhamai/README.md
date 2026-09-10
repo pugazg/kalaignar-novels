@@ -19,7 +19,7 @@
 - second-pass corrections: **5 total / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **IN PROGRESS — Chapters 1–9 / 23 VERIFIED**;
+- assembled Tamil: **IN PROGRESS — Chapters 1–19 / 23 VERIFIED**;
 - English: **blocked until assembled Tamil passes its final consistency gate**.
 
 ## Canonical authority
@@ -39,11 +39,21 @@
 | 7 | scan 59 after centered `7` → scan 68 before centered `8` | **VERIFIED** |
 | 8 | scan 68 after centered `8` → scan 75 before centered `9` | **VERIFIED** |
 | 9 | scan 75 after centered `9` → scan 85 before centered `10` | **VERIFIED** |
-| 10 | scan 85 after centered `10` → scan 92 before centered `11` | **NEXT** |
-| 11–23 | remaining source chapters | pending |
+| 10 | scan 85 after centered `10` → scan 92 before centered `11` | **VERIFIED** |
+| 11 | scan 92 after centered `11` → scan 99 before centered `12` | **VERIFIED** |
+| 12 | scan 99 after centered `12` → scan 107 before centered `13` | **VERIFIED** |
+| 13 | scan 107 after centered `13` → scan 115 before centered `14` | **VERIFIED** |
+| 14 | scan 115 after centered `14` → scan 120 before centered `15` | **VERIFIED** |
+| 15 | scan 120 after centered `15` → scan 127 before centered `16` | **VERIFIED** |
+| 16 | scan 127 after centered `16` → scan 134 before centered `17` | **VERIFIED** |
+| 17 | scan 134 after centered `17` → scan 142 before centered `18` | **VERIFIED** |
+| 18 | scan 142 after centered `18` → scan 149 before centered `19` | **VERIFIED** |
+| 19 | scan 149 after centered `19` → scan 154 before centered `20` | **VERIFIED** |
+| 20 | scan 154 after centered `20` → scan 160 before centered `21` | **NEXT** |
+| 21–23 | remaining source chapters | pending |
 
-Chapters 5–9 were assembled together only because the user explicitly authorized a five-chapter batch. Mixed scans 59, 68, 75 and 85 were split at their source headings; scan 66's visible printed number remains `5`, and scan 82's bottom `6` remains excluded as a printer/signature mark. No canonical page record changed during this assembly batch.
+Chapters 10–19 were assembled together because the user explicitly authorized the ten-chapter batch. Mixed chapter-boundary scans were split at their centered source headings; literal canonical source discontinuities were preserved without grammatical repair; printer/signature marks were excluded. No canonical page record changed.
 
 ## Exact next activity
 
-Assemble and verify **Chapter 10** into `sections/10-chapter-10.md`, covering **scan 85 after centered `10` through scan 92 before centered `11`**. English remains blocked.
+Assemble and verify **Chapter 20** into `sections/20-chapter-20.md`, covering **scan 154 after centered `20` through scan 160 before centered `21`**. English remains blocked.
