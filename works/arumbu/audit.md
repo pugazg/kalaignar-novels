@@ -7,10 +7,11 @@
 | Collection/source intake | **PASS / COMPLETE** |
 | Work identity / scan boundary | **PASS — scans 6–23** |
 | Page-level Tamil transcription | **IN PROGRESS — 5 / 18 canonical records** |
-| Active batch T1 scans 6–10 | **PASS / COMPLETE** |
-| Active batch T2 scans 6–10 | **PASS / COMPLETE — 4 character-identity corrections / 0 unresolved** |
-| Final source-fidelity closure | **T3 NEXT — scans 6–10** |
-| Full Tamil audit | BLOCKED |
+| Scans 6–10 T1 | **PASS / COMPLETE** |
+| Scans 6–10 T2 historical-glyph gate | **PASS / COMPLETE — 4 corrections / 0 unresolved** |
+| Scans 6–10 T3 final source-fidelity closure | **PASS / COMPLETE — 19 additional corrections / 0 unresolved** |
+| Verified canonical pages | **5 / 18 — scans 6–10** |
+| Full Tamil audit | BLOCKED until all component pages complete |
 | Assembled Tamil | BLOCKED |
 | English | BLOCKED |
 
@@ -24,49 +25,38 @@ The active source workflow follows root `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`:
 - **T2** — independent historical-glyph re-read; control sync + commit;
 - **T3** — final source-fidelity closure; control sync + commit.
 
-Each checkpoint is a separate durable commit.
+Each checkpoint is kept as a separate durable state.
 
-## Active batch — scans 6–10
+## Closed batch — scans 6–10
 
 ### T1 — PASS / COMPLETE
 
-Canonical records:
-
-- `pages/0006-arumbu-01.md` — printed page `null`;
-- `pages/0007-arumbu-02.md` — printed page `2`;
-- `pages/0008-arumbu-03.md` — printed page `3`;
-- `pages/0009-arumbu-04.md` — printed page `4`;
-- `pages/0010-arumbu-05.md` — printed page `5`.
-
-T1 checkpoint audit: [`T1_BATCH_006_010.md`](T1_BATCH_006_010.md).
+Canonical records created for scans 6–10. Printed-page visibility: `null`, `2`, `3`, `4`, `5`.
 
 ### T2 — PASS / COMPLETE
 
-Every complete scan was independently re-read against the full known historical set:
+Independent historical-glyph re-read completed across all five pages. Four direct character-identity corrections were made and **0 unresolved historical glyphs** remain. See [`T2_BATCH_006_010.md`](T2_BATCH_006_010.md).
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+### T3 — PASS / COMPLETE
 
-Corrections from direct source pixels:
+Final source-fidelity re-read completed across all five pages. It checked omissions, duplicated/displaced text, paragraph/page structure, printed-page visibility, non-body material, physical joins and the retained T2 fixes.
 
-| Scan | T1 reading | T2 source-supported reading | Classification |
-|---:|---|---|---|
-| 7 | `மனத்திற்குப்` | `மணத்திற்குப்` | additional character identity |
-| 8 | `கிழவனுக்குவா` | `கிழவனாகவா` | historical `னா` |
-| 8 | `கிழவனுக்குவும்` | `கிழவனாகவும்` | historical `னா` |
-| 10 | `அவனுடைய` | `அவளுடைய` | additional character identity |
+T3 made **19 additional source-pixel corrections** and left **0 unresolved source readings**. See [`T3_BATCH_006_010.md`](T3_BATCH_006_010.md).
 
-- total character-identity corrections: **4**;
-- corrections within the mandatory 13-family set: **2**, both `னா` on scan 8;
-- additional character-identity corrections: **2**;
-- unresolved glyphs after T2: **0**;
-- canonical page states remain **5 `needs-review` / 0 verified**.
+The five canonical page records are therefore **VERIFIED**.
 
-T2 checkpoint audit: [`T2_BATCH_006_010.md`](T2_BATCH_006_010.md).
+Physical joins retained in-place:
 
-### T3 — NEXT
+- scan 7→8: `நடந்` / `தேறின.`;
+- scan 8→9: `அபிநய` / `அசைவுகளை...`;
+- scan 9→10: `...வைத்தியரை அழைத்து` / `வந்துவிடுகிறேன்”...`.
 
-Perform the final independent source-fidelity closure for scans 6–10. Check omissions, duplicated or misplaced text, physical joins, printed-page visibility, illustration/body separation and the T2 corrections. Only T3 may close/verify this batch if all source checks pass.
+## Active batch — scans 11–15
+
+- T1 — **NEXT**;
+- T2 — BLOCKED by T1;
+- T3 — BLOCKED by T2.
 
 ## Exact next activity
 
-Execute **T3 only** for physical scans **6–10**, synchronize controls, commit separately, and stop before scan 11.
+Execute **T1 only** for physical scans **11–15**: visually transcribe each complete page, create canonical page records with only directly visible printed-page numbers, preserve physical joins/non-body material, leave records `needs-review`, synchronize controls, commit, and stop before T2. Do not begin scan 16.

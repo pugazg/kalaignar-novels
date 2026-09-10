@@ -1,4 +1,4 @@
-# Next Chat Prompt — அரும்பு / scans 6–10 / T3 source-fidelity closure
+# Next Chat Prompt — அரும்பு / scans 11–15 / T1 transcription checkpoint
 
 Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections/arumbu-1978/`, active work `works/arumbu/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -36,45 +36,50 @@ Read before source-dependent work:
 7. `works/arumbu/audit.md`;
 8. `works/arumbu/T1_BATCH_006_010.md`;
 9. `works/arumbu/T2_BATCH_006_010.md`;
-10. canonical records `works/arumbu/pages/0006-arumbu-01.md` through `0010-arumbu-05.md`.
+10. `works/arumbu/T3_BATCH_006_010.md`;
+11. verified canonical records `works/arumbu/pages/0006-arumbu-01.md` through `0010-arumbu-05.md` for continuity only.
 
-## Durable T1/T2 state — scans 6–10
+## Durable closed state — scans 6–10
 
-- T1 direct transcription/canonical records: **PASS / COMPLETE**;
-- T2 independent historical-glyph re-read: **PASS / COMPLETE**;
-- canonical records: **5 / 18 total work scans**;
-- printed pages: scan 6 `null`; scans 7–10 **2, 3, 4, 5**;
-- all five page records remain `needs-review`; none is verified yet;
-- T2 corrections: **4 / unresolved glyphs 0**.
+- T1 — **PASS / COMPLETE**;
+- T2 — **PASS / COMPLETE — 4 character-identity corrections / 0 unresolved**;
+- T3 — **PASS / COMPLETE — 19 additional source-fidelity corrections / 0 unresolved**;
+- canonical records: **5 / 18**;
+- verified canonical records: **5 / 18**;
+- printed-page visibility: scan 6 `null`; scans 7–10 = **2, 3, 4, 5**.
 
-T2 corrections:
-
-- scan 7 `மனத்திற்குப்` → `மணத்திற்குப்`;
-- scan 8 `கிழவனுக்குவா` → `கிழவனாகவா`;
-- scan 8 `கிழவனுக்குவும்` → `கிழவனாகவும்`;
-- scan 10 `அவனுடைய` → `அவளுடைய`.
-
-The two scan-8 corrections are historical `னா` decoding corrections. The scan-7 and scan-10 changes are additional direct character-identity corrections found during the independent page re-read.
-
-Preserved physical joins:
+Preserved joins:
 
 - 7→8 `நடந்` / `தேறின.`;
 - 8→9 `அபிநய` / `அசைவுகளை...`;
 - 9→10 `...வைத்தியரை அழைத்து` / `வந்துவிடுகிறேன்”...`.
 
-## Exact next activity — T3 only
+Do not reopen scans 6–10 unless genuinely new direct-source evidence appears.
 
-Perform the **final independent source-fidelity closure for physical scans 6–10**.
+## Small-task workflow — mandatory
 
-- compare every complete canonical page directly against source pixels;
-- check for omissions, duplicated text, accidental normalization and misplaced fragments;
-- verify the three physical page joins without moving fragments between records;
-- reconfirm printed-page visibility and scan 6 title-illustration/body separation;
-- reconfirm the four T2 character-identity corrections from the source;
-- resolve only direct-source-supported issues;
-- if all mandatory checks pass, change scans 6–10 from `needs-review` to `verified`;
-- create `T3_BATCH_006_010.md`;
-- synchronize work README, page map, audit, root HANDOVER, next prompt and root README;
-- commit T3 separately and stop.
+For each bounded scan batch:
 
-Do **not** begin scan 11, start another component, or compare the 1978 `பெரிய இடத்துப் பெண்` witness in the same checkpoint.
+- **T1** direct visual transcription + canonical records + exact printed-page visibility → control sync → commit → stop;
+- **T2** independent historical-glyph re-read → control sync → commit → stop;
+- **T3** final source-fidelity closure → control sync → commit → stop.
+
+Do not combine these by default.
+
+## Exact next activity — scans 11–15 / T1 only
+
+Process physical scans **11–15**:
+
+- visually transcribe each whole page once from direct source pixels;
+- create one canonical record per scan under `works/arumbu/pages/`;
+- record a printed page number only when directly visible; **do not infer numbering from the prior sequence**;
+- preserve all source spelling, punctuation, dialogue, paragraph structure and physical page-boundary fragments;
+- preserve illustrations/non-body marks as observations rather than narrative text;
+- use enlarged crops only for an actually uncertain reading;
+- do not use OCR/context as authority;
+- do **not** run the independent historical-glyph T2 pass yet;
+- leave all five new records `needs-review` because T2/T3 remain pending;
+- synchronize affected controls and commit T1 immediately;
+- stop.
+
+Do **not** begin scan 16, T2 for scans 11–15, another component, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in this checkpoint.

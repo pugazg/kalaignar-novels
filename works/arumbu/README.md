@@ -12,11 +12,11 @@
 - physical component span: **18 scans**;
 - canonical page records: **5 / 18** — scans **6–10**;
 - scans 6–10 T1 direct visual transcription: **PASS / COMPLETE**;
-- scans 6–10 T2 independent historical-glyph re-read: **PASS / COMPLETE**;
-- T2 character-identity corrections: **4 total** — 2 historical `னா` occurrences + 2 additional direct character corrections;
-- unresolved T2 glyphs: **0**;
-- page status: **5 `needs-review` / 0 verified**;
-- final source-fidelity closure: **T3 NEXT for scans 6–10**;
+- scans 6–10 T2 historical-glyph re-read: **PASS / COMPLETE**;
+- scans 6–10 T3 final source-fidelity closure: **PASS / COMPLETE**;
+- verified pages: **5 / 18**;
+- unresolved source readings in verified range: **0**;
+- next bounded batch: **scans 11–15 / T1 NEXT**;
 - assembled Tamil: **BLOCKED**;
 - English: **BLOCKED**.
 
@@ -24,46 +24,43 @@ This work is the first component of the 1978 four-story compilation and shares i
 
 ## Active checkpoint workflow
 
-Source batches follow root [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](../../SOURCE_BATCH_CHECKPOINT_WORKFLOW.md). A five-scan batch is processed as three separately committed checkpoints:
+Source batches follow root [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](../../SOURCE_BATCH_CHECKPOINT_WORKFLOW.md). Each bounded source batch is processed through three separately durable checkpoints:
 
 1. **T1 — direct transcription / canonical records** → synchronize controls → commit;
 2. **T2 — independent historical-glyph re-read** → synchronize controls → commit;
 3. **T3 — final source-fidelity closure** → synchronize controls → commit;
 4. only after T3 may the next batch begin.
 
-## Completed checkpoints — scans 6–10
+Crops/enhancements are created only for genuinely uncertain readings.
 
-### T1 — PASS
+## Closed batch — scans 6–10
 
-- five canonical page records created under `pages/`;
-- printed-page visibility preserved exactly: scan 6 `null`; scans 7–10 show **2, 3, 4, 5**;
-- scan 6 title illustration documented separately from narrative;
-- physical joins preserved without moving text:
-  - 7→8 `நடந்` / `தேறின.`;
-  - 8→9 `அபிநய` / `அசைவுகளை...`;
-  - 9→10 `...வைத்தியரை அழைத்து` / `வந்துவிடுகிறேன்”...`.
+Checkpoint records:
 
-Checkpoint record: [`T1_BATCH_006_010.md`](T1_BATCH_006_010.md).
+- [`T1_BATCH_006_010.md`](T1_BATCH_006_010.md) — PASS;
+- [`T2_BATCH_006_010.md`](T2_BATCH_006_010.md) — PASS, 4 character-identity corrections / 0 unresolved;
+- [`T3_BATCH_006_010.md`](T3_BATCH_006_010.md) — PASS, 19 additional source-fidelity corrections / 0 unresolved.
 
-### T2 — PASS
+Printed-page visibility is preserved exactly: scan 6 `null`; scans 7–10 show **2, 3, 4, 5**.
 
-Independent full-page historical-glyph re-read completed across all five scans using the 13-family reference set.
+Physical joins remain in their source records:
 
-Corrections:
+- 7→8 `நடந்` / `தேறின.`;
+- 8→9 `அபிநய` / `அசைவுகளை...`;
+- 9→10 `...வைத்தியரை அழைத்து` / `வந்துவிடுகிறேன்”...`.
 
-- scan 7: `மனத்திற்குப்` → `மணத்திற்குப்`;
-- scan 8: `கிழவனுக்குவா` → `கிழவனாகவா`;
-- scan 8: `கிழவனுக்குவும்` → `கிழவனாகவும்`;
-- scan 10: `அவனுடைய` → `அவளுடைய`.
-
-The two scan-8 corrections are historical `னா` decoding corrections. The scan-7 and scan-10 changes are additional direct character-identity corrections caught during the independent page re-read. **0 unresolved glyphs** remain after T2.
-
-Checkpoint record: [`T2_BATCH_006_010.md`](T2_BATCH_006_010.md).
-
-All five pages remain `needs-review` because T3 has not yet run.
+All five canonical records are now **VERIFIED**.
 
 ## Exact next activity
 
-**T3 for physical scans 6–10 only.**
+**T1 for physical scans 11–15 only.**
 
-Perform the final independent source-fidelity closure: check omissions, duplication, misplaced fragments, page joins, printed-page visibility, illustration/body separation and the applied T2 corrections against the scans. Resolve only direct-source-supported issues; mark pages verified only if the gate fully passes. Synchronize controls and commit T3 separately. Stop before scan 11.
+- visually transcribe each whole source page once;
+- create one canonical record per scan under `pages/`;
+- record a printed page number only when directly visible; never infer missing numbering from sequence;
+- preserve page-boundary fragments, illustrations and non-body material exactly;
+- leave the new records `needs-review` because their T2/T3 checkpoints will still be pending;
+- synchronize controls and commit T1 immediately;
+- stop before T2 for scans 11–15.
+
+Do not begin scan 16 or another component in the same checkpoint.

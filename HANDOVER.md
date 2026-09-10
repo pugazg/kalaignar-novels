@@ -25,6 +25,8 @@
 
 Collection-level intake: `collections/arumbu-1978/` — **COMPLETE**.
 
+The volume contains four distinct Kalaignar stories; the first story supplies the compilation title.
+
 ## Component map
 
 1. `அரும்பு` — physical scans **6–23** — `works/arumbu/` — **ACTIVE**.
@@ -36,28 +38,28 @@ Collection front matter: scans **1–5**. Publisher catalogue/back-cover matter:
 
 ## Small-task checkpoint workflow
 
-Root [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](SOURCE_BATCH_CHECKPOINT_WORKFLOW.md) is authoritative:
+Root [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](SOURCE_BATCH_CHECKPOINT_WORKFLOW.md) is authoritative for active page-level batches:
 
-1. **T1 — direct transcription / canonical records / printed-page visibility** → sync → commit → stop;
-2. **T2 — independent historical-glyph re-read** → sync → commit → stop;
-3. **T3 — final source-fidelity closure** → sync → commit → stop;
+1. **T1 — direct transcription / canonical records / printed-page visibility** → control sync → commit → stop;
+2. **T2 — independent historical-glyph re-read** → control sync → commit → stop;
+3. **T3 — final source-fidelity closure** → control sync → commit → stop;
 4. only then may the next bounded source batch begin.
+
+Do not combine the stages by default.
 
 ## `அரும்பு` durable state
 
 - work span: **18 scans — physical 6–23**;
 - canonical records: **5 / 18**;
-- current covered range: **scans 6–10**;
-- scans 6–10 T1 direct visual transcription: **PASS / COMPLETE**;
-- scans 6–10 T2 historical-glyph re-read: **PASS / COMPLETE**;
-- T2 corrections: **4 character-identity corrections / 0 unresolved**;
-- historical 13-family corrections: **2 `னா` occurrences on scan 8**;
-- additional direct character corrections: scan 7 `மனத்திற்குப்` → `மணத்திற்குப்`; scan 10 `அவனுடைய` → `அவளுடைய`;
-- scans 6–10 page states: **5 `needs-review` / 0 verified**;
-- scans 6–10 T3 final source-fidelity closure: **NEXT**;
-- scans 11–15: **BLOCKED until scans 6–10 T3 passes**.
+- verified canonical records: **5 / 18**;
+- verified contiguous range: **scans 6–10**;
+- scans 6–10 T1: **PASS / COMPLETE**;
+- scans 6–10 T2: **PASS / COMPLETE — 4 character-identity corrections / 0 unresolved**;
+- scans 6–10 T3: **PASS / COMPLETE — 19 additional source-fidelity corrections / 0 unresolved**;
+- scans 11–15 T1: **NEXT**;
+- scans 11–15 T2/T3: BLOCKED until preceding checkpoint passes.
 
-Printed-page visibility remains:
+Printed-page visibility in the verified range:
 
 - scan 6 — `null` / no visible printed number;
 - scan 7 — `2`;
@@ -65,7 +67,7 @@ Printed-page visibility remains:
 - scan 9 — `4`;
 - scan 10 — `5`.
 
-Physical page joins retained in their source records:
+Physical joins retained in their source records:
 
 - 7→8: `நடந்` / `தேறின.`;
 - 8→9: `அபிநய` / `அசைவுகளை...`;
@@ -73,19 +75,30 @@ Physical page joins retained in their source records:
 
 Checkpoint audits:
 
-- T1: `works/arumbu/T1_BATCH_006_010.md`;
-- T2: `works/arumbu/T2_BATCH_006_010.md`.
+- `works/arumbu/T1_BATCH_006_010.md` — PASS;
+- `works/arumbu/T2_BATCH_006_010.md` — PASS;
+- `works/arumbu/T3_BATCH_006_010.md` — PASS.
+
+## Numbering/source rule
+
+Record printed page numbers only when directly visible on the physical scan. Never infer a missing number from sequence. Historical Tamil glyph identity and all fidelity corrections must be supported by direct source pixels; OCR/context is not authority.
+
+## Closed prior work
+
+`வெள்ளிக்கிழமை / Friday` remains RELEASE-READY and closed unless genuinely new direct-source evidence or a separately authorized new-edition/derived task appears.
 
 ## Exact next activity
 
-Run **`அரும்பு` scans 6–10 / T3 only**:
+Execute **`அரும்பு` scans 11–15 / T1 only**:
 
-- independently compare every complete canonical page against the source scans;
-- check omissions, duplicated text, misplaced physical fragments and the three documented page joins;
-- reconfirm scan/printed numbering and scan 6 illustration/body separation;
-- reconfirm the four T2 character-identity corrections;
-- resolve only what direct source pixels support;
-- if all source checks pass, mark scans 6–10 `verified` and close the batch;
-- synchronize controls, create the T3 batch audit, commit T3 separately, and stop.
+- visually transcribe each complete physical scan once;
+- create canonical page records under `works/arumbu/pages/`;
+- record only directly visible printed-page numbers;
+- preserve page-boundary fragments, illustrations and non-body marks separately;
+- do not use OCR/context as authority;
+- do not run the independent historical-glyph T2 pass in the same checkpoint;
+- leave the new records `needs-review`;
+- synchronize affected work/root controls and commit T1 immediately;
+- stop before T2 or scan 16.
 
-Do not begin scan 11, another component, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.
+Do not begin another component or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.

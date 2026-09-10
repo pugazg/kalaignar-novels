@@ -27,7 +27,7 @@ Collection front matter is scans 1–5; publisher catalogue/back-cover matter is
 
 ### Active small-task checkpoint
 
-Source batches use three separately committed checkpoints:
+Source batches use three separately durable checkpoints:
 
 1. T1 direct transcription/canonical records;
 2. T2 independent historical-glyph re-read;
@@ -35,15 +35,15 @@ Source batches use three separately committed checkpoints:
 
 Current `அரும்பு` state:
 
-- canonical records: **5 / 18** — scans 6–10;
+- canonical records: **5 / 18**;
+- verified records: **5 / 18 — scans 6–10**;
 - scans 6–10 T1: **PASS / COMPLETE**;
-- scans 6–10 T2: **PASS / COMPLETE — 4 character-identity corrections / 0 unresolved**;
-- historical 13-family corrections: **2 `னா` occurrences on scan 8**;
-- pages verified: **0**; all five remain `needs-review`;
-- scans 6–10 T3: **NEXT**;
-- scans 11–15: blocked until current batch passes T3.
+- scans 6–10 T2: **PASS / COMPLETE — 4 corrections / 0 unresolved**;
+- scans 6–10 T3: **PASS / COMPLETE — 19 additional corrections / 0 unresolved**;
+- scans 11–15 T1: **NEXT**;
+- scans 11–15 T2/T3: blocked until the preceding checkpoint is durably complete.
 
-Exact next action: **`அரும்பு` scans 6–10 / T3 only**. Run the final independent source-fidelity closure, synchronize controls, commit separately, and stop before scan 11.
+Exact next action: **`அரும்பு` scans 11–15 / T1 only**. Directly transcribe those five physical scans, create non-final canonical records using only directly visible printed-page numbers, synchronize controls, commit, and stop before T2.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 
