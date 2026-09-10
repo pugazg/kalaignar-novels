@@ -7,13 +7,14 @@
 ## Project controls
 
 - [`NOVEL_PROCESSING_GUIDE.md`](NOVEL_PROCESSING_GUIDE.md)
+- [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](SOURCE_BATCH_CHECKPOINT_WORKFLOW.md)
 - [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md)
 - [`HANDOVER.md`](HANDOVER.md)
 - [`NEXT_NOVEL_CHAT_PROMPT.md`](NEXT_NOVEL_CHAT_PROMPT.md)
 
 ## Active source — `அரும்பு` 1978 compilation
 
-The newly registered source [`collections/arumbu-1978/`](collections/arumbu-1978/README.md) is a **92-scan first-edition 1978 compilation containing four distinct Kalaignar stories**. Collection/source intake is complete; narrative transcription has not yet started.
+The newly registered source [`collections/arumbu-1978/`](collections/arumbu-1978/README.md) is a **92-scan first-edition 1978 compilation containing four distinct Kalaignar stories**. Collection/source intake is complete; narrative transcription has not yet been durably committed.
 
 Component handling:
 
@@ -24,7 +25,15 @@ Component handling:
 
 Collection front matter is scans 1–5; publisher catalogue/back-cover matter is scans 91–92. The source PDF remains external to the repository.
 
-Exact next action: process `அரும்பு` physical scans **6–10** as the first five-scan source/transcription batch.
+### Active small-task checkpoint
+
+The user requested that each five-scan source batch be split into smaller durable tasks. `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md` now requires a separate control synchronization and commit after each stage:
+
+1. T1 direct transcription/canonical records;
+2. T2 independent historical-glyph re-read;
+3. T3 final source-fidelity closure.
+
+Exact next action: **`அரும்பு` scans 6–10 / T1 only**. Complete the direct visual transcription and canonical page records, synchronize controls, commit, and stop before T2.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 

@@ -29,7 +29,7 @@ The publisher note establishes that the volume contains four Kalaignar stories a
 
 ## Component map
 
-1. `அரும்பு` — physical scans **6–23** — new work `works/arumbu/` — **ACTIVE / transcription 0 of 18**.
+1. `அரும்பு` — physical scans **6–23** — new work `works/arumbu/` — **ACTIVE / transcription 0 of 18 durably committed**.
 2. `சாரப்பள்ளம் சாமுண்டி` — scans **24–48** — new work `works/sarapallam-samundi/` — REGISTERED / QUEUED.
 3. `பெரிய இடத்துப் பெண்` — scans **49–74** — existing `works/periya-idathup-pen/`; registered as **additional 1978 witness only**. Existing 1953 controlling source and verification freeze remain unchanged. No witness comparison has been run.
 4. `நடுத்தெரு நாராயணி` — scans **75–90** — new work `works/nadutheru-narayani/` — REGISTERED / QUEUED.
@@ -40,7 +40,20 @@ Collection front matter: scans **1–5**. Publisher catalogue/back-cover matter:
 
 The component opening scans 6, 24, 49 and 75 do not show a clearly visible printed page number. Use `printed_page: null` unless a number is directly visible; never infer missing numbers from sequence.
 
-Historical Tamil glyph identity must be checked from source pixels from the first transcription batch onward. OCR/context is not authority.
+Historical Tamil glyph identity must be checked from source pixels. OCR/context is not authority.
+
+## New small-task checkpoint workflow
+
+The user explicitly requested that source batches be broken into smaller durable tasks. Root [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](SOURCE_BATCH_CHECKPOINT_WORKFLOW.md) is now authoritative for active page-level batches.
+
+For each bounded five-scan range:
+
+1. **T1 — direct transcription / canonical page records / printed-page visibility**; synchronize controls and commit; stop.
+2. **T2 — independent historical-glyph re-read**; create crops only for actual uncertainty; synchronize controls and commit; stop.
+3. **T3 — final source-fidelity closure / page verification where permitted**; synchronize controls and commit; stop.
+4. only after T3 may the next scan batch begin.
+
+Do not combine T1, T2 and T3 by default. Every smaller task gets its own control synchronization and commit.
 
 ## Closed prior work
 
@@ -48,15 +61,14 @@ Historical Tamil glyph identity must be checked from source pixels from the firs
 
 ## Exact next activity
 
-Process **`அரும்பு` physical scans 6–10** as one five-scan batch:
+Execute **`அரும்பு` scans 6–10 / T1 only**:
 
-1. visually read each full scan once;
-2. create canonical page records under `works/arumbu/pages/` using source physical scan numbers;
-3. preserve printed-number visibility exactly;
-4. transcribe full printed narrative/illustration text without OCR guesswork or normalization;
-5. apply the historical-glyph gate during the same pass;
-6. create a batch audit record and update `page-map.md`, work README, audit, root HANDOVER and next prompt;
-7. commit immediately after the five scans;
-8. do not start scan 11 or another component in the same iteration.
+- visually transcribe each whole scan once;
+- create canonical page records under `works/arumbu/pages/`;
+- preserve exact printed-number visibility: scan 6 is unnumbered; record scans 7–10 only from directly visible numbers;
+- preserve illustrations/non-body marks separately;
+- leave records non-final because T2/T3 are pending;
+- synchronize `works/arumbu/README.md`, `indexes/page-map.md`, `audit.md`, root HANDOVER, next prompt and root README as affected;
+- commit T1 immediately and stop.
 
-Do not compare the 1978 `பெரிய இடத்துப் பெண்` witness yet; that is a separate later activity.
+Do **not** perform the independent historical-glyph re-read in the same checkpoint. Do not begin scan 11 or another component.
