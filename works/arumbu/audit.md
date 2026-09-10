@@ -14,54 +14,37 @@
 | Whole-work Tamil audit | **PASS / COMPLETE** |
 | Assembled Tamil | **PASS / COMPLETE — 1 / 1 section** |
 | English translation plan | **PASS / COMPLETE** |
-| English Batch 1 — scans 6–10 | **REVIEWED / COMPLETE** |
-| English Batch 2 — scans 11–15 | **REVIEWED / COMPLETE** |
-| English Batch 3 — scans 16–20 | **REVIEWED / COMPLETE** |
-| English Batch 4 — scans 21–23 | **REVIEWED / COMPLETE** |
-| Current English coverage | **18 / 18 source scans — scans 6–23** |
-| Whole-work bilingual review | **NEXT — Section 16** |
-| Whole-work English | **NOT YET VERIFIED** |
+| English Batches 1–4 | **4 / 4 REVIEWED / COMPLETE** |
+| English coverage | **18 / 18 source scans — scans 6–23** |
+| Section 16 whole-work bilingual review | **PASS / COMPLETE** |
+| Whole-work English | **VERIFIED** |
+| Unresolved translation items | **0** |
+| Section 17 release-readiness | **NEXT** |
 
 No source PDF is committed.
 
 ## Tamil archival state
 
-All **18 / 18** canonical records are verified. T2 made **6** source-supported character-identity corrections with **0** unresolved historical glyphs; T3 made **36** further source-fidelity corrections with **0** unresolved source readings. The whole-work Tamil audit and one-section assembled Tamil layer remain **PASS / COMPLETE**.
+All **18/18** canonical records are verified. T2 corrections: **6** with **0** unresolved historical glyphs. T3 corrections: **36** with **0** unresolved source readings. Whole-work Tamil audit and one-section assembled Tamil remain **PASS / COMPLETE**.
 
-Durable source facts remain unchanged: scan 6 is unnumbered; scans 7–13 print 2–8; scan 14 prints 10; scans 15–23 print 11–19; no printed page 9 is invented; scan 23 has no explicit `முற்றும்`; source-confirmed `பேசினேன்`, `அம்மனார்`, and final `இனி:......` remain unchanged in canonical Tamil.
+Durable source facts: scan 6 unnumbered; scans 7–13 print 2–8; scan 14 prints 10; scans 15–23 print 11–19; no printed page 9 invented; scan 23 has no explicit `முற்றும்`; source-confirmed `பேசினேன்`, `அம்மனார்`, and final `இனி:......` remain unchanged in canonical Tamil.
 
-## English translation authority
+## Section 16 whole-work bilingual review
 
-Working title: **The Bud**. Authority order remains audited canonical Tamil `pages/` first, assembled Tamil for continuity second, and metadata/audit/page-map for provenance and structure. The English remains one continuous reading section.
+Artifact: `translations/en/TRANSLATION_REVIEW.md`.
 
-## Controlled English batches
+The complete English one-section reading layer was independently compared against all canonical Tamil pages scans **6–23**. Review covered source coverage/order, duplicates, material omissions/additions, speaker attribution, actor responsibility, recurring names/terms, source rhetoric, all established cross-page joins, source oddities, provenance, final-page treatment and component identity.
 
-All four Section 15 batches are **REVIEWED / COMPLETE**:
+Three English-only corrections were made and rechecked:
 
-- Batch 1 — scans **6–10**;
-- Batch 2 — scans **11–15**;
-- Batch 3 — scans **16–20**;
-- Batch 4 — scans **21–23**.
+1. scan 15→16 `without any want` → **`safe and sound`**;
+2. scan 21→22 ambiguous `he` → explicit **Kumar**;
+3. scan 23 `inheritance of womankind` → **`the feeling of motherhood belongs to womankind`**.
 
-Current English coverage: **18 / 18 source scans**.
+Final Section 16 closure: **0 material omissions / 0 source-like additions / 0 unresolved translation items**. Canonical Tamil changed: **No**. Whole-work English: **VERIFIED**.
 
-### Batch 4 closure
-
-Artifact: `translations/en/sections/01-arumbu.md`, now covering scans **6–23**.
-
-Batch 4 was translated only from canonical records `pages/0021-arumbu-17.md` through `pages/0023-arumbu-19.md`, then checked back against all three records. Review checks passed for complete sentence/dialogue coverage, actor/speaker agency, grief and child register, source rhetoric, final bud/leaf imagery, punctuation, provenance, final-page identity and absence of an unprinted ending marker.
-
-Protected source decisions:
-
-- `பேசினேன்` → **I spoke**, preserving the first-person shift;
-- `அம்மனார்` → **Ammanar**, not normalized to earlier Ammanur;
-- `இனி:......` → **from now on:......**, preserving colon-plus-six-dot punctuation;
-- no explicit `முற்றும்` → no **The End** added.
-
-Batch 4 closure: **0 omissions / 0 source-like additions / 0 unresolved translation items**. See `translations/en/BATCH_04_REVIEW.md`.
+Protected source handling remains **I spoke / Ammanar / from now on:...... / no The End**.
 
 ## Exact next activity
 
-Create `translations/en/TRANSLATION_REVIEW.md` and execute the **Section 16 whole-work bilingual review** across scans **6–23**. Only after that independent whole-work gate passes may English be marked **VERIFIED**. Stop before Section 17 release-readiness.
-
-Do not begin `சாரப்பள்ளம் சாமுண்டி` or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.
+Execute **Section 17 release-readiness**, create `translations/en/RELEASE_REPORT.md`, synchronize controls, commit, and stop before `சாரப்பள்ளம் சாமுண்டி` or the 1978 `பெரிய இடத்துப் பெண்` witness comparison.

@@ -6,8 +6,8 @@ section_title: "The Bud"
 language: "en"
 planned_source_scans: "6-23"
 translated_source_scans: "6-23"
-status: "reviewed"
-batch_status: "Batches 1-4 — reviewed; whole-work bilingual review pending"
+status: "verified"
+batch_status: "Batches 1-4 reviewed; Section 16 whole-work bilingual review PASS"
 derived_from: "audited Tamil pages/ records; assembled Tamil used for continuity"
 ---
 
@@ -139,7 +139,7 @@ The manservant said, “The child kept looking and looking at the picture and cr
 
 Tears brimmed in Gokul's eyes! “What picture?” Gomathi asked. “Your elder sister's picture!” he said. She asked the servant for it, took the picture and looked at it. Her eyes too filled with tears. “Our lady went away with flowers and pottu, with turmeric and mangalyam still upon her!” the maid cried.
 
-“You have come, mother! You too look like Mahalakshmi. Our little master.. Sir's beloved<!-- source join: scan 15 / printed 11 ends `செல்லக்`; scan 16 / printed 12 begins `குழந்தையை—` --> child—the diamond born from our lady's womb—please protect him without any want, Amma!” The servant himself finished saying what Gokul ought to have said. After taking leave of Gomathi, Gokul set out for the newspaper office.
+“You have come, mother! You too look like Mahalakshmi. Our little master.. Sir's beloved<!-- source join: scan 15 / printed 11 ends `செல்லக்`; scan 16 / printed 12 begins `குழந்தையை—` --> child—the diamond born from our lady's womb—please keep him safe and sound, Amma!” The servant himself finished saying what Gokul ought to have said. After taking leave of Gomathi, Gokul set out for the newspaper office.
 
 <!-- Batch 2 closure: scans 11-15 translated, source-checked against canonical pages 0011-0015, and reviewed. -->
 
@@ -227,7 +227,7 @@ What did he know of the doctor's warning that the child must not be exposed to c
 
 Gomathi touched the child. The baby lay stiff. She had been dead for quite some time! At that first single cry itself, she had gone! But the blame... fell on Kumar's head! Gomathi picked up a water jug that was there and hurled it hard at Kumar's head! “Ayyo! Amma!” Kumar screamed. The jug missed its mark—fell on the picture of his mother that was on his bed and shattered it to pieces. Kumar picked up the picture, pressed it to his face and wept. The broken shards of glass scratched all over his beautiful face, and blood seeped out! Gokul did not know what to cry over.
 
-For two or three days Kumar had hardly eaten properly. They said he was the reason the baby had been put in a pit and buried, didn't they? Ayyo, Appa keeps crying thinking of the baby<!-- source join: scan 21 / printed 17 ends `அப்பா பாப்பாவை நினைத்து`; scan 22 / printed 18 begins `அழுதுகொண்டே யிருக்கிறாரே!` -->! Isn't he the reason for that too? Gokul tried everything, but he could not console him.
+For two or three days Kumar had hardly eaten properly. They said he was the reason the baby had been put in a pit and buried, didn't they? Ayyo, Appa keeps crying thinking of the baby<!-- source join: scan 21 / printed 17 ends `அப்பா பாப்பாவை நினைத்து`; scan 22 / printed 18 begins `அழுதுகொண்டே யிருக்கிறாரே!` -->! And wasn't Kumar the reason for that too? Gokul tried everything, but he could not console him.
 
 <!-- source: scan 22; printed page: 18 -->
 
@@ -255,7 +255,7 @@ Leaves fell from the tree near where she sat. Seeing them, she screamed. Of the 
 
 “Don't be afraid, Amma!.. When I grow big, I'll protect you—don't be afraid, Amma!” Kumar sobbed, holding her chin.
 
-That child's words of support widened her heart, which had shrunk tight! Must the feeling of motherhood come only to a woman who has borne a child? Or should it be shown only to a child born of her own womb? Motherhood is the inheritance of womankind! That feeling burst from Gomathi's heart and embraced Kumar!
+That child's words of support widened her heart, which had shrunk tight! Must the feeling of motherhood come only to a woman who has borne a child? Or should it be shown only to a child born of her own womb? The feeling of motherhood belongs to womankind! That feeling burst from Gomathi's heart and embraced Kumar!
 
 The two pressed cheek to cheek. Gomathi's tears washed over the scars from the scratches cut by the shards of glass from Amma's picture!
 
@@ -263,4 +263,5 @@ The nurse came running! Gomathi started! The joyous news came that Gokul had sur
 
 The two leaves that protect the bud had been in danger of falling away—but now it was once again two leaves and one bud! This new beginning was also a joyous beginning toward becoming, from now on:...... two leaves and two buds!<!-- source oddity: final Tamil has `இனி:......`; the colon-plus-six-dot form is deliberately retained in English. No explicit `முற்றும்` is printed, so no “The End” is added. -->
 
-<!-- Batch 4 closure: scans 21-23 translated, source-checked against canonical pages 0021-0023, and reviewed. English batch coverage is now scans 6-23 / 18 of 18; Section 16 whole-work bilingual review remains a separate next checkpoint. -->
+<!-- Batch 4 closure: scans 21-23 translated, source-checked against canonical pages 0021-0023, and reviewed. English batch coverage is scans 6-23 / 18 of 18. -->
+<!-- Section 16 whole-work bilingual review: PASS / VERIFIED; see ../TRANSLATION_REVIEW.md. -->

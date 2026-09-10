@@ -1,8 +1,8 @@
 # English Translation Glossary — அரும்பு
 
-Status: **BATCHES 1–4 STYLE / TERMINOLOGY LOCKED — scans 6–23 REVIEWED**.
+Status: **WHOLE-WORK LOCKED — SECTION 16 PASS / ENGLISH VERIFIED**.
 
-This file records source-bound translation decisions. Decisions marked **LOCKED** were source-checked in reviewed English batches and may be changed later only through an explicit documented review; they never alter the audited Tamil source.
+This file records source-bound translation decisions. Decisions marked **LOCKED** were source-checked and whole-work reviewed; they may change only through an explicit documented correction and never alter canonical Tamil silently.
 
 | Tamil | English handling | State |
 |---|---|---|
@@ -15,8 +15,8 @@ This file records source-bound translation decisions. Decisions marked **LOCKED*
 | `அம்மனூர்` | **Ammanur** | **LOCKED** for normal source form |
 | `சென்னை` | **Chennai** | **LOCKED** |
 | `மாயவரம்` | **Mayavaram** | **LOCKED** — preserve source-period place form |
-| `மதராஸ் மெயில்` | **Madras Mail** | **LOCKED** — preserve source-period train name |
-| `அக்கிரகாரம்` | **agraharam** | **LOCKED** — conservative transliteration |
+| `மதராஸ் மெயில்` | **Madras Mail** | **LOCKED** |
+| `அக்கிரகாரம்` | **agraharam** | **LOCKED** |
 | `புரோகிதர்` | **priest** | **LOCKED** |
 | `ஓம குண்டம்` | **homa fire-pit** | **LOCKED** |
 | `அம்மி` | **ammi** | **LOCKED** |
@@ -41,34 +41,38 @@ This file records source-bound translation decisions. Decisions marked **LOCKED*
 | `மாங்கல்யம்` | **mangalyam** | **LOCKED** |
 | `மகாலட்சுமி` | **Mahalakshmi** | **LOCKED** |
 | `ரெளடிக் கும்பல்` | **“rowdy” gang** | **LOCKED** |
-| `கோமேதகக் கல்` | **gomedhakam gem** | **LOCKED** — conservative source-facing transliteration rather than supplying an unstated gem identification |
+| `கோமேதகக் கல்` | **gomedhakam gem** | **LOCKED** — do not supply an unstated gem identification |
 | `கெளதம புத்தர்` | **Gautama Buddha** | **LOCKED** |
 | `பாலபுத்தர்` | **young Buddha** | **LOCKED** |
-| `வீர நெப்போலியன்` | **valiant Napoleon** | **LOCKED** — preserve source comparison |
+| `வீர நெப்போலியன்` | **valiant Napoleon** | **LOCKED** |
 | `ராஜா` as affectionate child vocative | **my king** | **LOCKED** |
-| `பொய் அம்மா / நிஜ அம்மா / பொம்மை அம்மா` | **fake Amma / real Amma / doll Amma** | **LOCKED** — retain Kumar's child register and contrast |
-| `மூதேவி` | **Moodevi** | **LOCKED** — conservative transliteration because the narration itself stresses that Kumar does not know its meaning |
-| `தாழை மடல்` | **thazhai frond** | **LOCKED** — preserve the directional-thorn metaphor without adding botanical explanation inside prose |
-| scan 22 `பேசினேன்` | **I spoke** in `The phone rang; I spoke.` | **LOCKED** — preserve source-confirmed first-person anomaly; do not normalize to third person |
-| scan 23 `அம்மனார்` | **Ammanar** | **LOCKED** — preserve source-confirmed form distinct from earlier `அம்மனூர்` / Ammanur |
-| scan 23 `இனி:......` | **from now on:......** | **LOCKED** — retain colon-plus-six-dot punctuation visibly |
-| final-page absence of `முற்றும்` | no **The End** added | **LOCKED** — source has no explicit end marker |
+| `பொய் அம்மா / நிஜ அம்மா / பொம்மை அம்மா` | **fake Amma / real Amma / doll Amma** | **LOCKED** |
+| `மூதேவி` | **Moodevi** | **LOCKED** — conservative transliteration; source notes Kumar does not know its meaning |
+| `தாழை மடல்` | **thazhai frond** | **LOCKED** |
+| scan 22 `பேசினேன்` | **I spoke** in `The phone rang; I spoke.` | **LOCKED** — preserve first-person anomaly |
+| scan 23 `அம்மனார்` | **Ammanar** | **LOCKED** — distinct from earlier Ammanur |
+| scan 23 `இனி:......` | **from now on:......** | **LOCKED** — retain colon-plus-six-dot form |
+| final-page absence of `முற்றும்` | no **The End** added | **LOCKED** |
+
+## Whole-work Section 16 corrections
+
+The final bilingual review changed English only, then rechecked each revision against canonical Tamil:
+
+- `ஒரு குறையும் இல்லாம காப்பாத்துங்க` → **keep him safe and sound**; the earlier `without any want` risked a material-deprivation reading absent from source;
+- scan 21→22 `அதற்கும் அவன்தானே காரணம்!` → **And wasn't Kumar the reason for that too?**; explicit naming removes an English-only antecedent ambiguity while preserving source responsibility;
+- scan 23 `தாய்மை உணர்ச்சி, பெண் குலத்தின் சொத்தாயிற்றே!` → **The feeling of motherhood belongs to womankind!**; avoids adding the earlier `inheritance` concept.
 
 ## Locked style conventions
 
-Batches 1–4 establish and preserve these conventions:
-
 - readable but source-bound English; no sentence-level summarising;
-- source paragraph and speaker boundaries preserved;
-- ellipses, repetition and rhetorical punctuation retained where materially expressive;
+- preserve source paragraph/speaker boundaries, actor responsibility, expressive ellipses/repetition and rhetorical force;
 - English syntax may be naturalized without adding motive, explanation or historical identification absent from Tamil;
-- cultural terms are translated functionally only when source meaning is clear; otherwise conservative transliteration is preferred;
-- direct emotional kin terms may remain transliterated (`Appa`, `Paatti`, `Amma`) while narration uses ordinary English where appropriate;
+- cultural terms are translated functionally only when clear; otherwise conservative transliteration is preferred;
+- direct emotional kin terms may remain transliterated (`Appa`, `Paatti`, `Amma`);
 - recurring bud/leaf imagery remains connected through the final sentence;
-- source social and gendered generalizations are translated as the author's rhetoric rather than silently softened or endorsed by explanatory prose;
-- scan/page provenance remains in HTML comments;
-- established cross-page fragments may be translated as one natural English unit only when the Tamil audit already established the join;
-- no source-backed chapter divisions are invented;
-- source-confirmed textual oddities remain visible in English and are documented rather than silently repaired.
+- source social/gendered generalizations remain the author's rhetoric rather than being silently softened or endorsed;
+- scan/page provenance remains reversible in HTML comments;
+- verified cross-page fragments may be joined naturally but no false section/chapter boundary is introduced;
+- source-confirmed oddities remain visible/documented rather than silently repaired.
 
-All four English batches are now reviewed. The next separate gate is the Section 16 whole-work bilingual review; these locks remain subject only to an explicitly documented whole-work correction.
+Whole-work bilingual review: **PASS / COMPLETE**. Whole-work English: **VERIFIED**. See `TRANSLATION_REVIEW.md`.

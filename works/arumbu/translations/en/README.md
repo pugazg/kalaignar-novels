@@ -1,47 +1,38 @@
 # English Translation — அரும்பு
 
-Status: **ALL FOUR BATCHES REVIEWED — WHOLE-WORK BILINGUAL REVIEW NEXT**.
-
-The mandatory Section 14 translation plan is complete at [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md). The audited Tamil `../../pages/` layer remains final textual authority; [`../../sections/01-arumbu.md`](../../sections/01-arumbu.md) is reading-continuity support.
+Status: **WHOLE-WORK ENGLISH VERIFIED — SECTION 16 PASS / COMPLETE**.
 
 Working English title: **The Bud**.
 
-## Batch state
+The audited Tamil `../../pages/` layer remains final textual authority; [`../../sections/01-arumbu.md`](../../sections/01-arumbu.md) is reading-continuity support. The English reading layer is [`sections/01-arumbu.md`](sections/01-arumbu.md).
 
-1. scans **6–10** — pilot — **REVIEWED / COMPLETE**;
-2. scans **11–15** — **REVIEWED / COMPLETE**;
-3. scans **16–20** — **REVIEWED / COMPLETE**;
-4. scans **21–23** — **REVIEWED / COMPLETE**.
+## Gate state
 
-English reading file: [`sections/01-arumbu.md`](sections/01-arumbu.md).
+- Section 14 translation plan — **PASS / COMPLETE**;
+- Batch 1 scans **6–10** — **REVIEWED / COMPLETE**;
+- Batch 2 scans **11–15** — **REVIEWED / COMPLETE**;
+- Batch 3 scans **16–20** — **REVIEWED / COMPLETE**;
+- Batch 4 scans **21–23** — **REVIEWED / COMPLETE**;
+- English source coverage — **18 / 18 scans, 6–23**;
+- Section 16 whole-work bilingual review — **PASS / COMPLETE**;
+- whole-work English — **VERIFIED**;
+- unresolved translation items — **0**;
+- Section 17 release-readiness — **NEXT**.
 
-Current translated coverage: **scans 6–23 / 18 of 18 source scans**. The final English reading layer is one continuous section. All four controlled batches have been source-checked and reviewed, but whole-work English is **not yet VERIFIED** until the separate Section 16 bilingual review passes.
+## Section 16 closure
 
-## Batch 4 — scans 21–23
+[`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) records the independent full-work comparison against all 18 canonical Tamil records. The review checked complete coverage/order, duplication, omissions/additions, speaker and actor agency, recurring names/terminology, source rhetoric, every established cross-page join, one-section structural identity, provenance, protected source oddities, and the final page.
 
-The final three source scans were appended after reviewed Batch 3 and checked back against canonical Tamil pages `0021-arumbu-17.md` through `0023-arumbu-19.md`.
+Three English-only corrections were made during the gate:
 
-Review result: **PASS / REVIEWED** with **0 omissions, 0 source-like additions and 0 unresolved translation items**.
+1. scan 15→16 `without any want` → **`safe and sound`** for `ஒரு குறையும் இல்லாம காப்பாத்துங்க`;
+2. scan 21→22 ambiguous `he` → **Kumar** to preserve source responsibility;
+3. scan 23 `inheritance of womankind` → **`the feeling of motherhood belongs to womankind`** for `பெண் குலத்தின் சொத்தாயிற்றே`.
 
-Protected source decisions are now locked in [`GLOSSARY.md`](GLOSSARY.md):
+After correction: **0 material omissions / 0 source-like additions / 0 unresolved items**. Canonical Tamil was not changed.
 
-- scan 22 `பேசினேன்` → **`I spoke`**, preserving the source-confirmed first-person shift;
-- scan 23 `அம்மனார்` → **Ammanar**, without normalizing it to earlier Ammanur;
-- scan 23 final `இனி:......` → **`from now on:......`**, retaining the unusual punctuation;
-- no explicit `முற்றும்` is printed, so no **The End** is added.
-
-The final bud/leaf motif remains source-connected through the closing sentence. See [`BATCH_04_REVIEW.md`](BATCH_04_REVIEW.md).
-
-## Controls
-
-- [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md) — **PASS / COMPLETE**;
-- [`PLAN_CHECKPOINT.md`](PLAN_CHECKPOINT.md) — planning checkpoint record;
-- [`PROGRESS.md`](PROGRESS.md) — **4 / 4 batches REVIEWED**;
-- [`GLOSSARY.md`](GLOSSARY.md) — Batches 1–4 style/terminology locks;
-- [`BATCH_03_REVIEW.md`](BATCH_03_REVIEW.md) — Batch 3 review record;
-- [`BATCH_04_REVIEW.md`](BATCH_04_REVIEW.md) — Batch 4 review record;
-- [`sections/01-arumbu.md`](sections/01-arumbu.md) — English prose for scans 6–23.
+Protected source handling remains locked in [`GLOSSARY.md`](GLOSSARY.md): scan 22 `பேசினேன்` → **I spoke**; scan 23 `அம்மனார்` → **Ammanar**; final `இனி:......` → **from now on:......**; no unprinted **The End**.
 
 ## Exact next activity
 
-Create `TRANSLATION_REVIEW.md` and execute **Section 16 whole-work bilingual review** across the entire work. Check coverage, order, duplication, omissions/additions, agency, speaker attribution, recurring terminology, rhetoric, all cross-page joins, source oddities, final-page treatment and provenance. Only after that passes may whole-work English be called **VERIFIED**. Stop before Section 17 release-readiness.
+Execute **Section 17 release-readiness for `அரும்பு` only**. Create `RELEASE_REPORT.md`; verify work/source identity, Tamil and English inventories, bilingual-review result, reader-facing navigation, authority hierarchy, structural identity, documented source oddities, canonical-Tamil immutability, and source-PDF exclusion. Record an archival/editorial release-ready or not-ready verdict and stop before another component work.

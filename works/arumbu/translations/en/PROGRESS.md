@@ -4,56 +4,38 @@ Working English title: **The Bud**.
 
 - Section 14 translation plan: **PASS / COMPLETE**.
 - English prose coverage: **COMPLETE — 18 / 18 source scans, scans 6–23**.
-- Batch 1 pilot — scans 6–10: **REVIEWED / COMPLETE**.
-- Batch 2 — scans 11–15: **REVIEWED / COMPLETE**.
-- Batch 3 — scans 16–20: **REVIEWED / COMPLETE**.
-- Batch 4 — scans 21–23: **REVIEWED / COMPLETE**.
-- All controlled English batches: **4 / 4 REVIEWED**.
-- Whole-work bilingual review: **NEXT — Section 16**.
-- Whole-work English status: **NOT YET VERIFIED**.
-- Release-readiness: **BLOCKED until whole-work bilingual review passes**.
+- Batches 1–4: **4 / 4 REVIEWED / COMPLETE**.
+- Section 16 whole-work bilingual review: **PASS / COMPLETE**.
+- Whole-work English: **VERIFIED**.
+- Whole-work review corrections: **3 English-only / 0 canonical-Tamil changes**.
+- Material omissions after review: **0**.
+- Source-like additions after review: **0**.
+- Unresolved translation items: **0**.
+- Section 17 release-readiness: **NEXT**.
 
-## Batch 1 review record
+## Batch coverage
 
-- basis: audited canonical Tamil pages `../../pages/0006-arumbu-01.md` through `../../pages/0010-arumbu-05.md`;
-- source check / review: **PASS**;
-- omissions / source-like additions: **0 / 0**;
-- unresolved translation items: **0**.
+| Batch | Scans | State |
+|---|---:|---|
+| 1 — pilot | 6–10 | **REVIEWED / COMPLETE** |
+| 2 | 11–15 | **REVIEWED / COMPLETE** |
+| 3 | 16–20 | **REVIEWED / COMPLETE** |
+| 4 | 21–23 | **REVIEWED / COMPLETE** |
 
-## Batch 2 review record
+## Section 16 review
 
-- basis: audited canonical Tamil pages `../../pages/0011-arumbu-06.md` through `../../pages/0015-arumbu-11.md`;
-- source check / review: **PASS**;
-- omissions / source-like additions: **0 / 0**;
-- unresolved translation items: **0**;
-- source-visible scan 13 / printed 8 → scan 14 / printed 10 jump retained without inventing printed page 9.
+See [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md). The full English section was independently compared against canonical Tamil pages `0006`–`0023`, not merely accepted from batch-level verdicts.
 
-## Batch 3 review record
+Three corrections were applied and rechecked:
 
-- basis: audited canonical Tamil pages `../../pages/0016-arumbu-12.md` through `../../pages/0020-arumbu-16.md`;
-- source check / review: **PASS**;
-- omissions / source-like additions: **0 / 0**;
-- unresolved translation items: **0**;
-- recurring bud/leaf imagery, child register, rhetoric and reversible joins preserved.
+- scan 15→16: `please protect him without any want` → **`please keep him safe and sound`**;
+- scan 21→22: ambiguous `he` → explicit **Kumar** for source agency;
+- scan 23: `Motherhood is the inheritance of womankind` → **`The feeling of motherhood belongs to womankind`**.
 
-## Batch 4 review record
+Protected source oddities remain: **I spoke / Ammanar / from now on:...... / no The End**.
 
-- basis: audited canonical Tamil pages `../../pages/0021-arumbu-17.md` through `../../pages/0023-arumbu-19.md`;
-- destination: `sections/01-arumbu.md`;
-- draft translation: **COMPLETE**;
-- source check: **PASS**;
-- review: **PASS**;
-- omissions / source-like additions at closure: **0 / 0**;
-- unresolved translation items: **0**;
-- scan/page provenance: **PASS**;
-- scan 22 `பேசினேன்` → **`I spoke`**, preserving the first-person anomaly;
-- scan 23 `அம்மனார்` → **Ammanar**, not normalized to earlier Ammanur;
-- final `இனி:......` → **`from now on:......`**, retaining the colon-plus-six-dot form;
-- no explicit `முற்றும்` exists, so no **The End** was added;
-- final recurring two-leaf / one-bud → two-leaf / two-bud imagery preserved.
-
-Canonical audited Tamil `../../pages/` records remain final textual authority. The assembled Tamil section remains reading-continuity support only.
+Canonical audited Tamil `../../pages/` remains final textual authority. The assembled Tamil section remains continuity support only.
 
 ## Exact next activity
 
-Create `TRANSLATION_REVIEW.md` and execute the **Section 16 whole-work bilingual review** across scans **6–23**. Do not call the whole-work English `VERIFIED` until that separate review passes.
+Execute **Section 17 release-readiness** and create `RELEASE_REPORT.md`. Do not begin another source component in the same checkpoint.
