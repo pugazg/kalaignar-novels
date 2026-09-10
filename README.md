@@ -37,10 +37,10 @@ Current `அரும்பு` state:
 - scans 16–20 T2: 1 correction / 0 unresolved;
 - scans 16–20 T3: 11 additional source-fidelity corrections / 0 unresolved;
 - scans 21–23 T1: **PASS / COMPLETE**;
-- scans 21–23 T2: **NEXT**;
-- scans 21–23 T3: BLOCKED by T2.
+- scans 21–23 T2: **PASS / COMPLETE — 0 corrections / 0 unresolved**;
+- scans 21–23 T3: **NEXT**.
 
-Exact next action: **`அரும்பு` scans 21–23 / T2 only**, followed by control sync + separate commit + stop before T3.
+Exact next action: **`அரும்பு` scans 21–23 / T3 only**, followed by control sync + separate commit + stop before `சாரப்பள்ளம் சாமுண்டி`.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 

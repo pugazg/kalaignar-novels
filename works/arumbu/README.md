@@ -18,8 +18,8 @@
 - scans 16–20 T2: **PASS / COMPLETE — 1 correction / 0 unresolved**;
 - scans 16–20 T3: **PASS / COMPLETE — 11 additional corrections / 0 unresolved**;
 - scans 21–23 T1: **PASS / COMPLETE**;
-- scans 21–23 T2: **NEXT**;
-- scans 21–23 T3: BLOCKED by T2;
+- scans 21–23 T2: **PASS / COMPLETE — 0 corrections / 0 unresolved**;
+- scans 21–23 T3: **NEXT**;
 - assembled Tamil: **BLOCKED**;
 - English: **BLOCKED**.
 
@@ -58,11 +58,12 @@ Preserved physical joins:
 ## Active final batch — scans 21–23
 
 - [`T1_BATCH_021_023.md`](T1_BATCH_021_023.md) — **PASS / COMPLETE**;
-- canonical records — scans 21, 22, 23 / printed pages **17, 18, 19** — all `needs-review`;
-- scan 21 T1 was committed separately at `89c41ba57f634bf222cb484d605f32217ccb7176`; scans 22–23 complete the bounded T1 range;
+- [`T2_BATCH_021_023.md`](T2_BATCH_021_023.md) — **PASS / COMPLETE — 0 corrections / 0 unresolved**;
+- canonical records — scans 21, 22, 23 / printed pages **17, 18, 19** — all `needs-review` pending T3;
+- the full known historical-glyph family set was explicitly checked on every page;
+- enlarged source pixels confirm scan 22 `பேசினேன்` and scan 23 `அம்மனார்`; both remain source-faithful and unchanged;
 - scan 23 is the final physical page of `அரும்பு`; no explicit `முற்றும்` is printed;
-- T2 — **NEXT**;
-- T3 — BLOCKED by T2.
+- T3 — **NEXT**.
 
 Preserved continuity:
 
@@ -72,4 +73,4 @@ Preserved continuity:
 
 ## Exact next activity
 
-**T2 for final physical scans 21–23 only.** Independently re-read all three complete source pages against the historical-Tamil glyph guide, correct character identity only when direct pixels support it, record corrections/unresolved glyphs, synchronize controls, commit T2, and stop before T3. Do not begin `சாரப்பள்ளம் சாமுண்டி` in the same checkpoint.
+**T3 for final physical scans 21–23 only.** Independently compare all three complete pages with direct source pixels for omissions, unsupported text, punctuation, page joins, printed-page visibility and non-body separation; retain T2-confirmed character identities unless source pixels prove otherwise; synchronize controls, commit T3, and stop before beginning `சாரப்பள்ளம் சாமுண்டி`.

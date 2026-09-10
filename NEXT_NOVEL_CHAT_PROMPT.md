@@ -1,4 +1,4 @@
-# Next Chat Prompt — அரும்பு / scans 21–23 / T2 historical-glyph checkpoint
+# Next Chat Prompt — அரும்பு / scans 21–23 / T3 final source-fidelity checkpoint
 
 Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections/arumbu-1978/`, active work `works/arumbu/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -34,7 +34,8 @@ Read before source-dependent work:
 5. `works/arumbu/indexes/page-map.md`;
 6. `works/arumbu/audit.md`;
 7. `works/arumbu/T1_BATCH_021_023.md`;
-8. canonical scan records `works/arumbu/pages/0021-arumbu-17.md`, `0022-arumbu-18.md`, `0023-arumbu-19.md`.
+8. `works/arumbu/T2_BATCH_021_023.md`;
+9. canonical scan records `works/arumbu/pages/0021-arumbu-17.md`, `0022-arumbu-18.md`, `0023-arumbu-19.md`.
 
 ## Durable state
 
@@ -44,44 +45,48 @@ Final scans **21–23**:
 
 - directly visible printed pages: **17, 18, 19**;
 - T1 — **PASS / COMPLETE**;
-- canonical records — **3 / 3 present**, all `needs-review`;
-- T2 — **NEXT**;
-- T3 — BLOCKED by T2.
+- T2 — **PASS / COMPLETE — 0 character-identity corrections / 0 unresolved historical glyphs**;
+- canonical records — **3 / 3 present**, all `needs-review` pending T3;
+- T3 — **NEXT**.
 
 Current totals:
 
 - canonical records: **18 / 18 — scans 6–23**;
 - verified records: **15 / 18 — scans 6–20 contiguous**;
-- unresolved source readings in verified range: **0**;
 - assembled Tamil / English remain BLOCKED.
 
-Scan 21 T1 was committed separately at `89c41ba57f634bf222cb484d605f32217ccb7176`; the completed T1 batch record is `works/arumbu/T1_BATCH_021_023.md`.
+The independent T2 pass explicitly checked the full known set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` on every complete page.
 
-T2 should independently re-check the first-pass source readings `பேசினேன்` (scan 22) and `அம்மனார்` (scan 23) without context-normalizing them.
+Important source-confirmed readings:
+
+- scan 22 — **`பேசினேன்`** is directly visible in enlarged source pixels; do not context-normalize it;
+- scan 23 — **`அம்மனார்`** is directly visible and its `னா` identity is confirmed; do not context-normalize it.
 
 Do not reopen scans 6–20 without genuinely new source evidence.
 
 ## Small-task discipline
 
-- **T1** = direct visual transcription only — COMPLETE for scans 21–23.
-- **T2** = independent historical-glyph / character-identity re-read — current checkpoint.
-- **T3** = exhaustive final source-fidelity closure — blocked until T2 is durably committed.
+- **T1** = COMPLETE for scans 21–23.
+- **T2** = COMPLETE for scans 21–23.
+- **T3** = current checkpoint: exhaustive final source-fidelity closure.
 
-Do not fold T3 into T2.
+Do not begin the next component within T3.
 
-## Exact next activity — scans 21–23 / T2 only
+## Exact next activity — scans 21–23 / T3 only
 
-Independently re-read complete physical scans **21, 22 and 23** against `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`:
+Independently compare complete physical scans **21, 22 and 23** against direct source pixels:
 
-- check the complete pages, not only already-suspected words;
-- explicitly cover the sensitive families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-- compare same-edition forms only when necessary;
-- correct character identity only when directly supported by source pixels;
-- do not modernize spelling, grammar or vocabulary;
-- create crops/enhancements only for genuinely uncertain readings;
-- record every correction and any unresolved glyph in the T2 batch/work audit;
-- keep all three page records `needs-review`;
-- synchronize affected controls and commit T2 immediately;
-- stop before T3.
+- check the entire printed text for omissions, duplicates, unsupported words or misplaced fragments;
+- check source spelling, punctuation, dialogue marks, paragraph structure and spacing where source-visible;
+- confirm printed-page numbers **17, 18, 19**, page type and final-page behavior;
+- confirm 20→21, 21→22 and 22→23 physical continuity;
+- confirm illustrations/non-body material remain separate from narrative text;
+- confirm T2 findings are represented correctly;
+- preserve source-confirmed `பேசினேன்` and `அம்மனார்` unless direct pixels positively prove a different reading;
+- resolve only what the scan directly supports; do not modernize or reconstruct from context;
+- record every T3 correction and any unresolved source reading;
+- if all mandatory gates pass, mark all three records `verified`, making `அரும்பு` **18 / 18 VERIFIED**;
+- synchronize work/root controls and commit T3 immediately;
+- stop.
 
 Do **not** begin `சாரப்பள்ளம் சாமுண்டி`, perform the 1978 `பெரிய இடத்துப் பெண்` witness comparison, or start English/assembly work in this checkpoint.

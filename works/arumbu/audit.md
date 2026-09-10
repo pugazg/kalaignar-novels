@@ -14,9 +14,9 @@
 | Scans 16–20 T3 | **PASS / COMPLETE — 11 corrections / 0 unresolved** |
 | Verified canonical pages | **15 / 18 — scans 6–20 contiguous** |
 | Scans 21–23 T1 | **PASS / COMPLETE** |
-| Scans 21–23 T2 | **NEXT** |
-| Scans 21–23 T3 | BLOCKED by T2 |
-| Full Tamil audit | BLOCKED until final batch T2/T3 closes |
+| Scans 21–23 T2 | **PASS / COMPLETE — 0 corrections / 0 unresolved** |
+| Scans 21–23 T3 | **NEXT** |
+| Full Tamil audit | BLOCKED until final batch T3 closes |
 | Assembled Tamil | BLOCKED |
 | English | BLOCKED |
 
@@ -44,19 +44,28 @@ Physical joins retained: 15→16 `செல்லக்` / `குழந்த�
 
 ## Active final batch — scans 21–23
 
-T1 — **PASS / COMPLETE**.
+T1 — **PASS / COMPLETE**.  
+T2 — **PASS / COMPLETE — 0 character-identity corrections / 0 unresolved historical glyphs**.
 
-- scan 21 / printed 17 — canonical `needs-review`; T1 committed at `89c41ba57f634bf222cb484d605f32217ccb7176`;
-- scan 22 / printed 18 — canonical `needs-review`;
-- scan 23 / printed 19 — canonical `needs-review`;
-- canonical records now **18 / 18**;
-- verified records remain **15 / 18** pending T2/T3;
+- scan 21 / printed 17 — canonical `needs-review` pending T3;
+- scan 22 / printed 18 — canonical `needs-review` pending T3;
+- scan 23 / printed 19 — canonical `needs-review` pending T3;
+- canonical records remain **18 / 18**;
+- verified records remain **15 / 18** until T3;
 - scan 23 is the final physical page of `அரும்பு`; no explicit `முற்றும்` is printed.
+
+T2 independently re-read each complete page at enlarged/native resolution and explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+
+Representative confirmations:
+
+- scan 21: `அணைத்துக்கொண்டான்`, `கண்ணாடித்`, `இல்லை`, `பிள்ளைதான்`, `நன்றாகத்`;
+- scan 22: `வேலை`, `காலைப்`, `அவனைச்`, `மனைவியின்`, `தன்னாலேயே`;
+- scan 23: `கண்ணாடித்`, `இலைகளும்`, `பிள்ளையைப்`, `புறாக்களில்`, `அம்மனார்`, `தன்னை`.
+
+The T1 readings `பேசினேன்` (scan 22) and `அம்மனார்` (scan 23) were directly confirmed from enlarged source pixels and remain unchanged; neither was context-normalized.
 
 Physical continuity retained: 20→21 `அவனது அம்மா படம்!` / `அதை எடுத்து...`; 21→22 `அப்பா பாப்பாவை நினைத்து` / `அழுதுகொண்டே யிருக்கிறாரே!`; 22→23 completed sentence / new paragraph.
 
-T2 should independently re-check the first-pass source readings `பேசினேன்` (scan 22) and `அம்மனார்` (scan 23) without context-normalizing them.
-
 ## Exact next activity
 
-Execute **T2 only for physical scans 21–23**: independently re-read the complete pages against the historical-Tamil glyph guide, record source-supported character corrections and any unresolved glyphs, synchronize controls, commit, and stop before T3 or the next component.
+Execute **T3 only for physical scans 21–23**: perform an independent complete source-fidelity comparison for omissions, unsupported text, punctuation, page joins, printed-page visibility and non-body separation; preserve T2-confirmed character identities unless direct source pixels prove otherwise; synchronize controls, commit, and stop before the next component.

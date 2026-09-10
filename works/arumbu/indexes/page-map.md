@@ -19,13 +19,13 @@ Source physical span: **scans 6–23** of the 92-scan 1978 compilation.
 | 18 | 14 | `../pages/0018-arumbu-14.md` | **VERIFIED — T1+T2+T3 PASS** |
 | 19 | 15 | `../pages/0019-arumbu-15.md` | **VERIFIED — T1+T2+T3 PASS** |
 | 20 | 16 | `../pages/0020-arumbu-16.md` | **VERIFIED — T1+T2+T3 PASS** |
-| 21 | 17 | `../pages/0021-arumbu-17.md` | **T1 COMPLETE — `needs-review`** |
-| 22 | 18 | `../pages/0022-arumbu-18.md` | **T1 COMPLETE — `needs-review`** |
-| 23 | 19 | `../pages/0023-arumbu-19.md` | **T1 COMPLETE — `needs-review`** |
+| 21 | 17 | `../pages/0021-arumbu-17.md` | **T1+T2 COMPLETE — `needs-review` pending T3** |
+| 22 | 18 | `../pages/0022-arumbu-18.md` | **T1+T2 COMPLETE — `needs-review` pending T3** |
+| 23 | 19 | `../pages/0023-arumbu-19.md` | **T1+T2 COMPLETE — `needs-review` pending T3** |
 
 Canonical page records: **18 / 18 — scans 6–23**.  
 Verified canonical records: **15 / 18 — scans 6–20 contiguous**.  
-Unresolved source readings in verified range: **0**.
+Unresolved historical glyphs after T2 on scans 21–23: **0**.
 
 ## Closed batches
 
@@ -43,10 +43,12 @@ Preserved scans 16–20 joins:
 ## Active final batch — scans 21–23
 
 - T1 — **PASS / COMPLETE**;
-- T2 — **NEXT**;
-- T3 — BLOCKED by T2.
+- T2 — **PASS / COMPLETE — 0 corrections / 0 unresolved**;
+- T3 — **NEXT**.
 
 Directly visible printed pages: **17, 18, 19**.
+
+T2 independently checked the complete pages against the full known historical-glyph family set. Enlarged source pixels confirm scan 22 `பேசினேன்` and scan 23 `அம்மனார்`; both are retained unchanged.
 
 Continuity retained:
 
@@ -56,4 +58,4 @@ Continuity retained:
 
 Scan 23 is the final physical page of this component and contains no explicit `முற்றும்`.
 
-Every checkpoint synchronizes controls and commits separately. Do not begin `சாரப்பள்ளம் சாமுண்டி` until scans 21–23 pass T2 and T3.
+Every checkpoint synchronizes controls and commits separately. Do not begin `சாரப்பள்ளம் சாமுண்டி` until scans 21–23 pass T3.
