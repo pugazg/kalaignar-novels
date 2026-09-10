@@ -15,9 +15,9 @@
 - scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
 - scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
 - scans 16–20 T1 direct visual transcription: **PASS / COMPLETE**;
+- scans 16–20 T2 historical-glyph re-read: **PASS / COMPLETE — 1 character-identity correction / 0 unresolved**;
 - scans 16–20 page status: **5 `needs-review`**;
-- scans 16–20 T2 historical-glyph re-read: **NEXT**;
-- scans 16–20 T3 final source-fidelity closure: **BLOCKED by T2**;
+- scans 16–20 T3 final source-fidelity closure: **NEXT**;
 - scans 21–23: **not started**;
 - assembled Tamil: **BLOCKED**;
 - English: **BLOCKED**.
@@ -53,9 +53,13 @@ T1 must not absorb repeated character-level crop loops, historical-glyph verific
 
 ## Active batch — scans 16–20
 
-[`T1_BATCH_016_020.md`](T1_BATCH_016_020.md) — **PASS / COMPLETE**.
+- [`T1_BATCH_016_020.md`](T1_BATCH_016_020.md) — **PASS / COMPLETE**;
+- [`T2_BATCH_016_020.md`](T2_BATCH_016_020.md) — **PASS / COMPLETE — 1 character-identity correction / 0 unresolved**;
+- T3 — **NEXT**.
 
-Directly visible printed pages are **12, 13, 14, 15, 16**. All five new records remain `needs-review` because T2 and T3 have not run.
+T2 corrected scan 17 `தனியாத பாசத்தைத்` → **`தணியாத பாசத்தைத்`** from direct source pixels. All five records remain `needs-review` until T3.
+
+Directly visible printed pages are **12, 13, 14, 15, 16**.
 
 Preserved physical joins:
 
@@ -66,4 +70,4 @@ Preserved physical joins:
 
 ## Exact next activity
 
-**T2 for physical scans 16–20 only.** Independently re-read the five complete pages under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, correct only source-supported character identity, record corrections/unresolved forms, synchronize controls, commit T2, and stop before T3. Do not begin scan 21.
+**T3 final source-fidelity closure for physical scans 16–20 only.** Re-read the five canonical records against direct source pixels for omissions, duplicated/misplaced text, punctuation/spacing fidelity, joins and non-body separation; apply only scan-supported corrections; mark pages verified only if the batch fully passes; synchronize controls, commit T3 separately, and stop before scan 21.

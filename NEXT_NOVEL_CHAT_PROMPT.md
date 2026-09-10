@@ -1,4 +1,4 @@
-# Next Chat Prompt — அரும்பு / scans 16–20 / T2 historical-glyph checkpoint
+# Next Chat Prompt — அரும்பு / scans 16–20 / T3 source-fidelity checkpoint
 
 Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections/arumbu-1978/`, active work `works/arumbu/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -28,12 +28,12 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 Read before source-dependent work:
 
 1. `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`;
-2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
-3. root `HANDOVER.md`;
-4. `works/arumbu/README.md`;
-5. `works/arumbu/indexes/page-map.md`;
-6. `works/arumbu/audit.md`;
-7. `works/arumbu/T1_BATCH_016_020.md`;
+2. root `HANDOVER.md`;
+3. `works/arumbu/README.md`;
+4. `works/arumbu/indexes/page-map.md`;
+5. `works/arumbu/audit.md`;
+6. `works/arumbu/T1_BATCH_016_020.md`;
+7. `works/arumbu/T2_BATCH_016_020.md`;
 8. canonical records `works/arumbu/pages/0016-arumbu-12.md` through `0020-arumbu-16.md`.
 
 ## Durable state
@@ -43,12 +43,16 @@ Scans 6–15 are CLOSED / VERIFIED after T1+T2+T3.
 Scans 16–20:
 
 - T1 — **PASS / COMPLETE**;
-- T2 — **NEXT**;
-- T3 — BLOCKED;
+- T2 — **PASS / COMPLETE — 1 character-identity correction / 0 unresolved**;
+- T3 — **NEXT**;
 - five canonical records exist and remain `needs-review`;
 - directly visible printed pages: **12, 13, 14, 15, 16**.
 
-T1 joins/edges:
+T2 correction:
+
+- scan 17 / printed 13: `தனியாத பாசத்தைத்` → **`தணியாத பாசத்தைத்`**; source shows retroflex `ண`.
+
+Preserved joins/edges:
 
 - 15→16 `செல்லக்` / `குழந்தையை—...`;
 - 16→17 `அவர்களைக்-` / `கவனிக்கிறான்.`;
@@ -58,20 +62,20 @@ T1 joins/edges:
 ## Small-task discipline
 
 - **T1** = one direct visual transcription pass only.
-- **T2** = independent historical-glyph / character-identity re-read; targeted crops only for actual uncertainty.
+- **T2** = independent historical-glyph / character-identity re-read only.
 - **T3** = exhaustive final source-fidelity closure.
 - synchronize controls and commit after each stage, then stop.
 
-## Exact next activity — scans 16–20 / T2 only
+## Exact next activity — scans 16–20 / T3 only
 
-- independently re-read the five complete scans under the historical-glyph guide;
-- check the mandatory reform-sensitive families and other genuinely ambiguous character identities;
-- use same-page/same-edition comparisons when needed;
-- create enlarged crops only for actual uncertainty, not routinely;
-- correct only source-supported character identities;
-- record every T2 correction and unresolved form in a dedicated `T2_BATCH_016_020.md`;
-- leave all five page records `needs-review` because T3 remains pending;
-- synchronize controls and commit T2 immediately;
+- compare all five complete canonical records line-by-line against direct source pixels;
+- check omissions, duplicated or misplaced text, source spelling, punctuation and spacing, dialogue marks, paragraph boundaries, physical joins and any non-body material;
+- do not silently normalize grammar or vocabulary;
+- apply only direct-source-supported corrections;
+- if any reading remains genuinely unresolved, keep the affected page `needs-review` and record the hold;
+- if the batch fully passes, mark all five pages `verified`;
+- create/update dedicated `T3_BATCH_016_020.md`;
+- synchronize controls and commit T3 immediately;
 - stop.
 
-Do **not** perform T3, inspect scan 21, begin another component, or start the 1978 `பெரிய இடத்துப் பெண்` witness comparison.
+Do **not** inspect or transcribe scan 21, begin another component, or start the 1978 `பெரிய இடத்துப் பெண்` witness comparison in this checkpoint.

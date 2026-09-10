@@ -51,20 +51,27 @@ Do not fold T2/T3 work into T1.
 - scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
 - scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
 - scans 16–20 T1: **PASS / COMPLETE**;
-- scans 16–20 T2: **NEXT**;
-- scans 16–20 T3: BLOCKED by T2;
+- scans 16–20 T2: **PASS / COMPLETE — 1 character-identity correction / 0 unresolved**;
+- scans 16–20 T3: **NEXT**;
 - scans 21–23: not started.
 
 Scans 16–20 directly visible printed pages: **12, 13, 14, 15, 16**.
 
-T1 physical joins/edges retained:
+T2 correction:
+
+- scan 17 / printed 13: `தனியாத பாசத்தைத்` → **`தணியாத பாசத்தைத்`**; direct source pixels show retroflex `ண`. Known 13-family corrections in this T2 batch: 0; additional character-identity corrections: 1; unresolved: 0.
+
+Physical joins/edges retained:
 
 - 15→16: `செல்லக்` / `குழந்தையை—...`;
 - 16→17: `அவர்களைக்-` / `கவனிக்கிறான்.`;
 - 18→19: `செலவா` / `யிற்று.`;
 - 19→20: `கடிந்துகொண்` / `டிருக்கிறாள்.`.
 
-Checkpoint records now include `works/arumbu/T1_BATCH_016_020.md` — PASS.
+Checkpoint records now include:
+
+- `works/arumbu/T1_BATCH_016_020.md` — PASS;
+- `works/arumbu/T2_BATCH_016_020.md` — PASS.
 
 ## Numbering/source rule
 
@@ -72,15 +79,13 @@ Record printed page numbers only when directly visible. Never infer missing numb
 
 ## Exact next activity
 
-Execute **`அரும்பு` scans 16–20 / T2 only**:
+Execute **`அரும்பு` scans 16–20 / T3 only**:
 
-- independently re-read all five complete pages under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
-- focus on character identity and known historical-glyph families;
-- create targeted crops only for actual uncertainty;
-- correct only direct-source-supported character identities;
-- record corrections and any unresolved forms;
-- keep page status `needs-review` until T3;
-- synchronize affected controls and commit T2 separately;
-- stop before T3 and before scan 21.
+- final source-fidelity comparison of the five canonical records against direct source pixels;
+- check omissions, duplication/misplacement, source spelling, punctuation/spacing, joins and non-body separation;
+- apply only direct-source-supported corrections;
+- mark all five pages `verified` only if the complete T3 batch passes with no unresolved readings;
+- synchronize affected controls and commit T3 separately;
+- stop before scan 21.
 
 Do not begin another component or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.
