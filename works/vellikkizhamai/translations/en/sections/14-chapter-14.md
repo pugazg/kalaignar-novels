@@ -52,7 +52,7 @@ Her mother could not stop the stream of her daughter's tears. She too wept. Chin
 
 "I must establish that I am pure. I want no marriage—no stone memorial either! It is enough if my father and the world say that I am unstained. I would not mind dying the instant I heard those good words. Until it is proved that I am innocent, I will not die! I will not die!"
 
-Chintamani shouted like a woman possessed. Sivakami moved to calm her and make her sit—
+Chintamani shouted like a woman possessed. Sivakami, to calm her and make her sit—
 
 <!-- source: scan 118; printed page 117; literal source begins after unresolved physical discontinuity; no inferred completion -->
 
