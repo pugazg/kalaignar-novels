@@ -5,9 +5,9 @@ section_order: 1
 section_title: "The Bud"
 language: "en"
 planned_source_scans: "6-23"
-translated_source_scans: "6-15"
+translated_source_scans: "6-20"
 status: "partial"
-batch_status: "Batch 2 — reviewed"
+batch_status: "Batch 3 — reviewed"
 derived_from: "audited Tamil pages/ records; assembled Tamil used for continuity"
 ---
 
@@ -139,6 +139,72 @@ The manservant said, “The child kept looking and looking at the picture and cr
 
 Tears brimmed in Gokul's eyes! “What picture?” Gomathi asked. “Your elder sister's picture!” he said. She asked the servant for it, took the picture and looked at it. Her eyes too filled with tears. “Our lady went away with flowers and pottu, with turmeric and mangalyam still upon her!” the maid cried.
 
-“You have come, mother! You too look like Mahalakshmi. Our little master.. Sir's beloved
+“You have come, mother! You too look like Mahalakshmi. Our little master.. Sir's beloved<!-- source join: scan 15 / printed 11 ends `செல்லக்`; scan 16 / printed 12 begins `குழந்தையை—` --> child—the diamond born from our lady's womb—please protect him without any want, Amma!” The servant himself finished saying what Gokul ought to have said. After taking leave of Gomathi, Gokul set out for the newspaper office.
 
-<!-- Batch 2 closure: scans 11-15 translated, source-checked against canonical pages 0011-0015, and reviewed. No scan 16 English prose is included. -->
+<!-- Batch 2 closure: scans 11-15 translated, source-checked against canonical pages 0011-0015, and reviewed. -->
+
+<!-- source: scan 16; printed page: 12 -->
+
+That day, every article Editor Gokul wrote was full of flavour! The editorial had a fresh twist! His friends began asking the reason. When they heard it, everyone rejoiced. That day he climbed with ease the fifty steps leading up to the editor's room. Having slipped and fallen on the first step of life, and having picked up at the place where he fell the gomedhakam gem called Kumar, only now, after all these years, had he dared to set foot on the next step. He asked all his friends whether, when there was a child by the first wife, it was right or wrong to marry another woman as a second wife. He gathered together each person's experiences. Among them he received answers both favourable and unfavourable to him.
+
+At school, little Kumar sat in a corner thinking about something. What was he going to think about—what editorial to write, like his father, about a world war? Or, like his schoolteacher, whether the agitation for a salary increase would succeed? All his thoughts were about his mother!
+
+The boys who were playing teased him.
+
+“Look, Gautama Buddha is deep in thought!” a mischievous boy recited the lesson he had learned that day. Little Kumar, that tender child, did not even know what “Gautama Buddha” meant! He was in a different class altogether!
+
+When school ended, all the children ran home in groups, romping and making merry. Kumar alone walked by himself. As the children returned home, their mothers stood at the entrances, came forward to receive them, lifted them up and kissed them. Kumar watched them.<!-- source join: scan 16 / printed 12 ends `அவர்களைக்-`; scan 17 / printed 13 begins `கவனிக்கிறான்.`; translated jointly as `Kumar watched them.` -->
+
+<!-- source: scan 17; printed page: 13 -->
+
+There was a weariness in that bud's walk! Turmoil in his eyes! A storm in his heart! Could that young gold bear such a cruel fire? It melted and ran! ‘If I had an Amma, she too would come forward like this, lift me up, kiss me and welcome me!’
+
+Perhaps that crescent moon sobbed just so! All the other children had gone to their own homes. Kumar alone was walking toward his house. There—his house! Who was that new figure at the doorway? Could it be... Amma? As he stepped onto the threshold, Gomathi swept him into her arms and held him close! An unexpected feeling seemed to shake Kumar's heart! Tears streamed from his eyes in torrents. Gomathi began to tremble. She thought Kumar had not accepted her. Her heart became a battlefield! This family was a plant whose bud had yet to unfold! She feared that she herself might have become hot water poured at its roots! Before long, Kumar's body began to burn with fever. Gomathi burst into tears. Gokul, returning from the office with snacks for the child, was shaken by the sight. “Look, there's Amma, dear!” he said, pointing to Gomathi.
+
+“I don't want a fake Amma! I want my real Amma!” Kumar lamented. To Gomathi, those words were like sparks flying in a gunpowder works! Kumar's fever rose. An opportunity arose for Gomathi to remain inseparable from the child. That opportunity helped create an undying affection between them. It is in times of danger that the ‘meter’ of friendship, love and affection rises. Why—in some cases one could even say that it begins then! Were not Gokul and Gomathi's love themselves an example of that? Little by little Kumar regained his health. When he rose well again, he was a new Kumar who called Gomathi “Amma!” with all his heart. Gomathi's joy knew no bounds. She began caring for the child so much that even Gokul grew weary of it. Kumar had found an Amma. To send him to school, to come forward and receive him when he returned from school—he had found a wonderful Amma! Now Kumar<!-- source join: scan 17 / printed 13 ends `குமார்`; scan 18 / printed 14 begins `பள்ளிக்கூடத்தில்...` --> no longer sat at school like a young Buddha.... He made mischief like a valiant Napoleon.
+
+<!-- source: scan 18; printed page: 14 -->
+
+These days, when he returned home and saw the other boys being welcomed and fussed over by their mothers, Kumar merely glanced at them with great indifference and walked on proudly.
+
+Before, Kumar had been one leaf and one bud. Now he had become two leaves and one bud!
+
+Gokul had to stay awake until very late at night waiting for Gomathi to come—to the bedroom! The reason was that she would come to Gokul only after telling Kumar a story, singing him a song and putting him to sleep. Gokul even felt a little vexed by it! Yet the manservant and maid frequently kept telling Kumar that a little baby was going to come to the house to play with him.
+
+Where would that baby come from? How would it come? What would it be like? Kumar immersed himself in this investigation and waited eagerly for its arrival.
+
+One day Gokul took ‘leave’ from the office and stayed at home. Gomathi's labour pains became severe that day. Kumar understood nothing. “Why is Amma shouting like this?” he asked his father. He asked the servants. Even if one were the great Socrates, could one answer a child's argumentative questions? Gomathi answered Kumar through action and became the mother of a baby girl. The baby Kumar had been waiting for had arrived.
+
+“Amma, Amma! Can I take the baby with me to school?”
+
+Kissing Kumar, Gomathi embraced him and said, “Not now, my king!” In that loving touch, the bud lost all awareness of itself.
+
+In this world, jealousy shows its head even when people deal with one another as equals and there is abundance; so there was nothing surprising in a similar ember of jealousy flaring within Gomathi, without her knowing it, when she saw that her own child was weaker and less robust than Kumar.
+
+From the day the baby was born, she was constantly ill! All of Gomathi's time was spent caring for her.<!-- source join: scan 18 / printed 14 ends `செலவா`; scan 19 / printed 15 begins `யிற்று.`; translated jointly as the completed sentence above -->
+
+<!-- source: scan 19; printed page: 15 -->
+
+On top of that, Gomathi was upset that Gokul had not taken her child to a good doctor so that the illness might go away. One day she spoke angrily to her husband: “Because she's my child, you take it lightly!” The words “my child,” drawing that distinction, struck Gokul's heart like a sledgehammer blow. Women are affectionate to other children only until they themselves have a child. Perhaps even that affection is due to the old belief that only by being affectionate in that way will a child be born! Will not the new idea—that one should always be affectionate to all children—grow in women's hearts?
+
+Thus Gokul plunged into thought, making a sweeping reckoning about women as a whole! He had never imagined Gomathi would come to the point of speaking in terms of ‘my child—your child’! ‘Where has “Mother” Gomathi gone? Why has the Gomathi whom Kumar happily placed in the position of Amma disappeared?’ Gokul became a sea of confusion! There was no need for Gomathi's affection toward Kumar to have diminished merely because the baby had arrived! Yet the baby's health had brought Gomathi to that state!
+
+One day Kumar, with great difficulty, lifted the baby from where she was lying and carried her toward the street. Seeing it, Gomathi flew into a rage. “Hey, Moodevi—why are you carrying the child away to kill her?” she shouted, snatching the baby from him and going inside. Kumar stood there, seen through the lattice window, thinking, ‘I must have done something wrong; that's why Amma is scolding me!’ His young mouth showed a smile even while both eyes poured tears. What did that bud know of the meaning of ‘Moodevi’?
+
+Gomathi's anxiety over her child grew stronger. She could not bear to see the baby becoming thinner day by day. One day the child developed a severe fever. Seething with anguish, Gomathi was scolding her husband, asking whether he could not bring some good doctor.<!-- source join: scan 19 / printed 15 ends `கடிந்துகொண்`; scan 20 / printed 16 begins `டிருக்கிறாள்.`; translated jointly as the completed sentence above -->
+
+<!-- source: scan 20; printed page: 16 -->
+
+Just then a doctor appeared before them.
+
+“Who called you and brought you here, sir?” Gokul asked in surprise.
+
+“This fellow right here!” said the doctor, pointing to Kumar.
+
+At once Gokul scooped up his son, embraced him and showered him with kisses.
+
+But, contrary to Kumar's expectation, he did not receive even a drop of a kiss from his Amma! Why? Kumar thought.... Should such a young heart be engaged in such weighty thinking? ‘I don't have a real Amma! This is a fake Amma—a doll Amma!’ Such a conclusion must have dawned in his mind! He took his books and went off to school. The maid saw him on his way. After examining the child, the doctor gave medicine and said, “It is a somewhat dangerous illness; make sure the cold wind does not touch her; we'll see afterward!” and left. Gomathi's grief multiplied many times over! “My child has become like this because she wasn't properly cared for until now!” she snapped at her husband. He was bewildered. Stroke a thazhai frond from one direction and its thorn will not prick; stroke it from the opposite direction and the thorn will pierce and wound the hand! Gokul did not want to swim against the current with Gomathi and wound his heart still further. It was the anguish of an ordinary woman. He believed he could calm it through his own silence.
+
+After school, Kumar returned home. For the past few days it had been the maid who came forward to receive him and take him in. After dinner everyone went to bed; Gomathi and the baby were on one bed! Gokul slept reclining in a chair. Kumar, who had been tossing without sleeping, slowly got up. He searched quietly in a corner of the room. What was he looking for in this darkness? He did not find what he sought in the room. Slowly he went downstairs. He searched there too. There was a tall bureau; he placed a chair against it and climbed up. Ah! There it was—what he had been looking for! His mother's picture!
+
+<!-- Batch 3 closure: scans 16-20 translated, source-checked against canonical pages 0016-0020, and reviewed. No scan 21 English prose is included. -->
