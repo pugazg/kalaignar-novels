@@ -12,7 +12,8 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - second historical-glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS; 5 corrections / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **IN PROGRESS — Chapters 1–20 / 23 VERIFIED**.
+- assembled Tamil content: **COMPLETE — Chapters 1–23 / 23 VERIFIED**;
+- final assembled consistency gate: **PENDING / NOT YET RUN**.
 
 ## Printed-page mapping
 
@@ -75,18 +76,22 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 | 18 | scan 142 after centered `18` → scan 149 before centered `19` | **VERIFIED** |
 | 19 | scan 149 after centered `19` → scan 154 before centered `20` | **VERIFIED** |
 | 20 | scan 154 after centered `20` → scan 160 before centered `21` | **VERIFIED** |
-| 21 | scan 160 after centered `21` → scan 166 before centered `22` | **NEXT** |
-| 22 | scan 166 after centered `22` → scan 172 before centered `23` | pending |
-| 23 | scan 172 after centered `23` → scan 179 | pending |
+| 21 | scan 160 after centered `21` → scan 166 before centered `22` | **VERIFIED** |
+| 22 | scan 166 after centered `22` → scan 172 before centered `23` | **VERIFIED** |
+| 23 | scan 172 after centered `23` → scan 179 | **VERIFIED** |
 
-## Chapters 10–19 assembly decisions
+## Assembly decisions
 
-The user explicitly authorized a ten-chapter batch. Mixed boundary scans were split at centered headings; verified page joins were represented reversibly; source oddities and physical discontinuities were not normalized. In particular, scan 117→118 and scan 122→123 remain literal canonical discontinuities rather than reconstructed prose. No canonical page record changed during the batch.
+Earlier verified assembly preserves mixed-boundary splits, reversible cross-page joins, literal source discontinuities and canonical oddities without normalization. No canonical page record changed.
 
-## Chapter 20 assembly decisions
+For the user-authorized remaining batch:
 
-Chapter 20 was assembled only from canonical scan 154 after centered `20` through scan 160 before centered `21`. Verified continuities are recorded reversibly in the section file for scans 155→156, 157→158, 158→159, and 159→160. The scan 156→157 physical discontinuity remains literal, with no inferred punctuation or completion. No canonical page record changed.
+- Chapter 21 uses scan 160 after centered `21` through scan 166 before centered `22`;
+- Chapter 22 uses scan 166 after centered `22` through scan 172 before centered `23`;
+- Chapter 23 uses scan 172 after centered `23` through scan 179;
+- scan 179's lower printed illustration and later handwriting are excluded from assembled prose;
+- remaining-batch verification: **PASS — 3 / 3 chapters, 0 unresolved / 0 canonical changes**.
 
 ## Exact next activity
 
-Assemble **Chapter 21 — scan 160 after centered `21` through scan 166 before centered `22`** into `sections/21-chapter-21.md`; verify against canonical pages, then advance assembly state to **21 / 23**. English remains blocked.
+Run the **final assembled Tamil consistency gate** across all 23 section files and canonical source mapping. Confirm complete chapter coverage, correct mixed-boundary splits, only verified reversible joins, preservation of source discontinuities/oddities, non-body exclusions, and canonical-authority integrity. English remains blocked until that gate passes.

@@ -21,31 +21,30 @@
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
 - page manifest: **179 / 179 represented**;
-- canonical page records: **153 / 179**;
-- Chapter 16 / 17 boundary: **scan 134 / printed 133**, centered `17`;
-- Chapter 18 opening: **scan 142 / printed 141**, centered `18`;
-- Chapter 19 opening: **scan 149 / printed 148**, centered `19`;
-- Chapter 19 transcribed through **scan 153 / printed 152**;
-- historical-glyph coverage: **PASS scans 1–153**;
-- next forward iteration: **scans 154–158**;
-- batch size: **5 scans**;
-- full Tamil source audit: **not started**;
-- assembled Tamil: **not started**;
-- English translation: **blocked until Tamil gate passes**.
+- canonical page records: **179 / 179 — COMPLETE / VERIFIED**;
+- final narrative: **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
+- unresolved source holds: **0**;
+- forward historical-glyph coverage: **PASS scans 1–179**;
+- second historical-glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS; 5 corrections / 0 unresolved**;
+- full Tamil source audit: **PASSED**;
+- Tamil source layer: **PASSED**;
+- assembled Tamil content: **COMPLETE — Chapters 1–23 / 23 VERIFIED**;
+- final assembled Tamil consistency gate: **PENDING / NOT YET RUN**;
+- English translation: **blocked until the final assembled Tamil consistency gate passes**.
 
 ### Historical Tamil glyph handling
 
-Mandatory family set on every scan:
+Mandatory family set on source-dependent historical-glyph work:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
 Source pixels decide identity. Grammar is only a locator. Preserve source spelling, grammar, punctuation, spacing, colloquial forms and physical boundaries. Never global-replace.
 
-### Current production workflow
+### Current assembly state
 
-Five-page batches use a bounded pipeline: transcribe all five full pages first, run one batch-level 13-family sweep, allow at most one targeted enlargement for a genuinely unclear token, record a source hold if still unresolved, then update page records and status documents together in one atomic commit. Prior PASS pages are not reopened without new direct source evidence.
+The canonical `works/vellikkizhamai/pages/` layer is closed and controlling. The derived `sections/` reading layer now contains **23 / 23 VERIFIED chapters**, all derived only from canonical records. Mixed physical scans were split at centered source chapter headings; verified page continuities are reversible with provenance comments; literal source discontinuities and oddities remain unrepaired; printer/signature marks and non-body visual/later-handwritten material are excluded. No canonical page record changed during assembly.
 
-Recent durable boundaries include scan 149 / 150 `புறப்` + `பட்டுவிட்டாயே!` = `புறப்பட்டுவிட்டாயே!`, scan 150 / 151 `தேவ` + `லோகத்தில்` = `தேவலோகத்தில்`, and scan 152 / 153 `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`. Scan 149 opens Chapter 19 with centered `19`. New source-specific forms preserved include `துயர்களை யேற்று`, `இழிவுப்படு குழியிலே`, `ஆவேசங்கொண்டு`, `மருத்துவ மனையிருக்கும்`, `அவ்விடம்`, `அழகுவின்`, `நயினாதான்`, `பீறிட்டுப்`, and `நயினா முகமதுவும்`.
+The final remaining Chapters **21–23** were assembled together under explicit user authorization, covering scan 160 after centered `21` through final narrative scan 179, with centered boundaries `22` on scan 166 and `23` on scan 172. Remaining-batch verification: **PASS — 3 / 3 chapters, 0 unresolved / 0 canonical changes**.
 
 ## Completed works
 
@@ -57,4 +56,4 @@ Recent durable boundaries include scan 149 / 150 `புறப்` + `பட்�
 
 ## Next activity
 
-Process **scans 154–158** as one bounded 5-page iteration. Establish scan 154 only from direct source evidence after scan 153's complete final sentence. Do not start assembled Tamil or English.
+Run the **final assembled Tamil consistency gate** for `வெள்ளிக்கிழமை` across all 23 section files. Confirm complete source/chapter coverage, correct centered-heading splits, only source-verified reversible joins, preservation of canonical oddities/discontinuities, exclusion of non-body material, and zero unauthorized canonical `pages/` changes. Do not start English until that gate passes.

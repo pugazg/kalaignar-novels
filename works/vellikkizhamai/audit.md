@@ -14,8 +14,9 @@
 | Second-pass corrections | **5 total / 0 unresolved** |
 | Full Tamil source audit | **PASSED** |
 | Tamil source layer | **PASSED** |
-| Assembled Tamil | **IN PROGRESS — Chapters 1–20 / 23 VERIFIED** |
-| English translation | **blocked until assembled Tamil passes** |
+| Assembled Tamil content | **COMPLETE — Chapters 1–23 / 23 VERIFIED** |
+| Final assembled consistency gate | **PENDING / NOT YET RUN** |
+| English translation | **blocked until final assembled consistency gate passes** |
 
 ## Source-layer closure
 
@@ -27,38 +28,31 @@ The canonical `pages/` layer is complete and remains controlling. Source-specifi
 - Chapters 5–9 — **VERIFIED** in an explicit user-authorized five-chapter batch.
 - Chapters 10–19 — **VERIFIED** in an explicit user-authorized ten-chapter batch.
 - Chapter 20 — **VERIFIED** in the default one-chapter workflow.
+- Chapters 21–23 — **VERIFIED** together after the user explicitly authorized assembly of all remaining chapters.
 
-### Chapters 10–19 batch
+No canonical `pages/` file was changed by any assembled-layer iteration.
 
-Each chapter was derived independently from audited canonical page records, then marked VERIFIED. No canonical `pages/` file changed.
+### Earlier preserved source decisions
 
-- Chapter 10 — scan 85 after centered `10` → scan 92 before centered `11`.
-- Chapter 11 — scan 92 after centered `11` → scan 99 before centered `12`.
-- Chapter 12 — scan 99 after centered `12` → scan 107 before centered `13`.
-- Chapter 13 — scan 107 after centered `13` → scan 115 before centered `14`.
-- Chapter 14 — scan 115 after centered `14` → scan 120 before centered `15`.
-- Chapter 15 — scan 120 after centered `15` → scan 127 before centered `16`.
-- Chapter 16 — scan 127 after centered `16` → scan 134 before centered `17`.
-- Chapter 17 — scan 134 after centered `17` → scan 142 before centered `18`.
-- Chapter 18 — scan 142 after centered `18` → scan 149 before centered `19`.
-- Chapter 19 — scan 149 after centered `19` → scan 154 before centered `20`.
-
-Mixed physical scans were split only at centered source chapter headings. Representative verified continuities preserved reversibly include `எட்டணா பணத்தையும்` → `நீட்டினான்`, `வெறிபிடித்துப்` → `போயிருக்கிறார்`, `உட்` + `கார்ந்துகொண்டு` where source explicitly supports that word across scans 96–97, `இருந்` + `தால்......`, `சொல்லு` + `கிறேன் போலீசை!`, `அவள் கண்களில்` → `நீர் கலங்கிற்று`, `சிறிதா` + `வது`, `கவனித்து` + `விட்டான்`, `புகை` + `வண்டி`, `வாழ்` + `விலே`, `அழகப்ப` + `னுடைய`, `பின்னிக்` + `கொண்டன`, `வருத்தத்` + `தோடு`, `சந்திப்` + `பதற்காக!`, and `தேவ` + `லோகத்தில்`.
-
-A separate physical discontinuity at scan 117→118 remains deliberately **unrepaired**: scan 117 ends literal `உட்`, while scan 118 begins `எவ்வளவோ முயன்றும் நடக்கவில்லை.` Canonical authority does not permit inventing missing text. Likewise scan 122→123 retains literal `...அவளுக்குப் பக்கத்திலே` followed by source-visible `கார்ந்து கொண்டாள்.` without normalization.
-
-Non-body printer/signature marks remain excluded from assembled prose, including scan 98 bottom `7`, scan 114 bottom `8`, scan 130 bottom `9`, scan 146 bottom `10`, and earlier recorded marks.
+Mixed physical scans were split only at centered source chapter headings. Representative verified continuities remain reversible in section files, while physical source discontinuities at scan 117→118 (`உட்` followed by `எவ்வளவோ முயன்றும் நடக்கவில்லை.`) and scan 122→123 (`...அவளுக்குப் பக்கத்திலே` followed by `கார்ந்து கொண்டாள்.`) remain deliberately unrepaired. Non-body printer/signature marks remain excluded, including scan 98 bottom `7`, scan 114 bottom `8`, scan 130 bottom `9`, scan 146 bottom `10`, and other recorded marks.
 
 ### Chapter 20
 
-Chapter 20 was derived only from verified canonical scans **154 after centered `20` through 160 before centered `21`**. Scan 154's Chapter 19 carryover and scan 160's Chapter 21 opening were excluded at their centered headings. No canonical page record changed.
+Chapter 20 covers **scan 154 after centered `20` through scan 160 before centered `21`**. Verified continuities were represented reversibly for `சோலை` + `யில்`, `பயங்கரமாக—` → `ஆனந்தியிருக்கும்`, `வராத` + `கண்ணீர்,`, and `அழகப்பனுக்கும்` + `ஒன்றும் புரியவில்லை.` The scan 156→157 boundary remains literal: scan 156 ends `தலையிலும் காயம்` with no supplied punctuation and scan 157 begins `நயினா எதிர்த்தே அடிக்கவில்லை.` Chapter 20 verification: **PASS — 0 unresolved / 0 canonical changes**.
 
-Verified source continuities were represented reversibly: `சோலை` + `யில்` across scans 155→156; `பயங்கரமாக—` → `ஆனந்தியிருக்கும்` across scans 157→158; `வராத` + `கண்ணீர்,` across scans 158→159; and `அழகப்பனுக்கும்` + `ஒன்றும் புரியவில்லை.` across scans 159→160. The scan 156→157 source boundary remains literal and deliberately unrepaired: scan 156 ends `தலையிலும் காயம்` with no supplied punctuation and scan 157 begins `நயினா எதிர்த்தே அடிக்கவில்லை.`
+### Chapters 21–23 remaining batch
 
-Chapter 20 assembly verification: **PASS — 0 unresolved / 0 canonical changes**.
+Chapter 21 covers **scan 160 after centered `21` through scan 166 before centered `22`**. Verified continuities include scan 160 `நமது தூய நட்பு` → scan 161 `ஒரு பெண்ணால்...`, scan 164 `கத்தி` + scan 165 `னான்.` → `கத்தினான்.`, and scan 165 `அதற்குள்` → scan 166 `யாரோ...`.
+
+Chapter 22 covers **scan 166 after centered `22` through scan 172 before centered `23`**. Verified continuities include scan 166 `என்று பரிதாபம் காட்டுவர்—` → scan 167 `அம்மாவின்...`, scan 167 `போய்ச் சேர்ந்து` → scan 168 `விடவேண்டுமென்ற`, scan 169 `ஒலி வந்த திக்கையே நோக்கியவாறு` → scan 170 `அவள் எழுந்துநின்றாள்,`, scan 170 `“எஜமான்!....இடும்பன்...”` → scan 171 `என்றான்.`, and scan 171 `வம்புச் சண்டையெல்லாம்` → scan 172 `நடந்தது.`.
+
+Chapter 23 covers **scan 172 after centered `23` through final scan 179**. Verified continuities include scan 173 `அவள் நெஞ்சிலே` → scan 174 `எழுந்த குமுறல்கள்!...`, scan 174 `உண்மையான பாலகங்காதரத் தேவரை` → scan 175 `சிக்கவைக்கவேண்டுமென்றும்`, and scan 175 `போலீசார் அவரைச் சூழ்ந்து` → scan 176 `கொண்டார்கள்.`. Scan 179 contributes its final narrative paragraph only; its lower printed illustration and later handwriting are excluded from assembled prose.
+
+Remaining-chapter assembly verification: **PASS — 3 / 3 chapters, 0 unresolved / 0 canonical changes**.
 
 ## Assembled-layer status
 
-**IN PROGRESS — 20 / 23 chapters VERIFIED.**
+**ASSEMBLY CONTENT COMPLETE — 23 / 23 chapters VERIFIED.**  
+**FINAL CONSISTENCY GATE PENDING.**
 
-Exact next activity: assemble **Chapter 21**, from **scan 160 after centered `21` through scan 166 before centered `22`**, into `sections/21-chapter-21.md`. English remains blocked.
+Exact next activity: run the final assembled Tamil consistency gate across all 23 section files. Verify complete chapter/source coverage, centered-heading splits, only source-supported boundary joins, preservation of canonical oddities/discontinuities, non-body exclusions, and canonical-authority integrity. English remains blocked until that gate passes.

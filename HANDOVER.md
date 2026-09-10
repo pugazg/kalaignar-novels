@@ -36,32 +36,32 @@ Fetch live `main` first and preserve newer durable work. Do not reopen completed
 
 ## Assembled Tamil reading layer
 
-- **IN PROGRESS — Chapters 1–20 / 23 VERIFIED**;
-- Chapters 1–4 were completed in chapter-sized commits;
+- assembly content: **COMPLETE — Chapters 1–23 / 23 VERIFIED**;
+- final assembled-layer consistency gate: **PENDING / NOT YET RUN**;
+- Chapters 1–4 were completed in chapter-sized iterations;
 - Chapters 5–9 were assembled together under explicit user authorization;
 - Chapters 10–19 were assembled together under explicit user authorization;
-- Chapter 20 was assembled and verified in the default one-chapter workflow;
-- assembled source coverage now reaches **scan 160 immediately before centered `21`**;
+- Chapter 20 was assembled in the default one-chapter workflow;
+- Chapters 21–23 were assembled together after the user explicitly authorized all remaining chapters;
+- assembled source coverage now reaches **final narrative scan 179 / printed 178**;
 - canonical `pages/` remain controlling authority;
 - no canonical page record changed during assembled-layer work;
-- English remains **blocked** until all 23 chapters and the final assembled-layer consistency gate pass.
+- English remains **blocked** until the final assembled-layer consistency gate passes.
 
-## Chapter 20 closure
+## Remaining-chapter closure
 
-Verified coverage: **scan 154 after centered `20` → scan 160 before centered `21`**.
+- Chapter 21: scan 160 after centered `21` → scan 166 before centered `22` — **VERIFIED**;
+- Chapter 22: scan 166 after centered `22` → scan 172 before centered `23` — **VERIFIED**;
+- Chapter 23: scan 172 after centered `23` → scan 179 — **VERIFIED**.
 
-The reading layer preserves reversible joins for scan 155 `சோலை` + scan 156 `யில்`, scan 157 `பயங்கரமாக—` → scan 158 `ஆனந்தியிருக்கும்`, scan 158 `வராத` + scan 159 `கண்ணீர்,`, and scan 159 `அழகப்பனுக்கும்` + scan 160 `ஒன்றும் புரியவில்லை.` The scan 156→157 discontinuity remains literal: `தலையிலும் காயம்` followed by `நயினா எதிர்த்தே அடிக்கவில்லை.` with no supplied punctuation or inferred repair.
-
-Mixed boundary scans 154 and 160 were split at centered `20` and `21`. Chapter 20 assembly verification: **PASS — 0 unresolved / 0 canonical changes**.
+Mixed boundary scans 160, 166 and 172 were split only at centered chapter headings. Verified page continuities were represented reversibly. Scan 179 contributes only its final narrative paragraph; its lower printed illustration and later handwriting remain excluded. Remaining-chapter batch result: **PASS — 3 / 3 chapters, 0 unresolved / 0 canonical changes**.
 
 ## Assembly workflow
 
-Derive only from audited canonical `pages/`, preserve reversible provenance, join only verified page continuities, and never normalize source wording merely for reading flow. The default is one chapter per iteration; process multiple chapters only when the user explicitly authorizes a larger batch.
+Derive only from audited canonical `pages/`, preserve reversible provenance, join only verified page continuities, and never normalize source wording merely for reading flow. Larger chapter batches require explicit user authorization.
 
 ## Exact next activity
 
-Assemble and verify **Chapter 21** as:
+Run the **final assembled Tamil consistency gate** across `works/vellikkizhamai/sections/01-chapter-01.md` through `23-chapter-23.md`.
 
-`works/vellikkizhamai/sections/21-chapter-21.md`
-
-Coverage: **scan 160 after centered `21` through scan 166 before centered `22`**. English remains blocked.
+Required checks: 23/23 chapter coverage; source coverage and centered-heading boundary splits; all cross-page joins source-supported and reversible; canonical oddities and unresolved physical discontinuities preserved; printer/signature marks, illustrations and later handwriting excluded; canonical `pages/` unchanged by assembly. If and only if the gate passes, synchronize status to assembled Tamil **PASSED**. Do not start English in the same iteration unless separately authorized.

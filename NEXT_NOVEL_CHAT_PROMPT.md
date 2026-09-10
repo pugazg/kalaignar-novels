@@ -1,4 +1,4 @@
-# Next Chat Prompt — வெள்ளிக்கிழமை / assembled Tamil Chapter 21
+# Next Chat Prompt — வெள்ளிக்கிழமை / assembled Tamil final consistency gate
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -15,39 +15,46 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - second-pass corrections: **5 total / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **IN PROGRESS — Chapters 1–20 / 23 VERIFIED**;
-- assembled source coverage reaches **scan 160 before centered `21`**;
-- English: **blocked until assembled Tamil passes its final consistency gate**.
+- assembled Tamil content: **COMPLETE — Chapters 1–23 / 23 VERIFIED**;
+- assembled source coverage reaches **final narrative scan 179 / printed 178**;
+- final assembled-layer consistency gate: **PENDING / NOT YET RUN**;
+- English: **blocked until the final consistency gate passes**.
 
 Do not reopen completed source/glyph work without genuinely new direct-source evidence.
 
 ## Completed assembly
 
-- Chapters 1–4: previously VERIFIED in `sections/01` through `sections/04`;
+- Chapters 1–4: VERIFIED in chapter-sized iterations;
 - Chapters 5–9: VERIFIED in a user-authorized five-chapter batch;
 - Chapters 10–19: VERIFIED in a user-authorized ten-chapter batch;
-- Chapter 20: VERIFIED in the default one-chapter workflow as `sections/20-chapter-20.md`.
+- Chapter 20: VERIFIED in the default one-chapter workflow;
+- Chapters 21–23: VERIFIED in a user-authorized remaining-chapter batch.
 
-Chapter 20 covers scan 154 after centered `20` through scan 160 before centered `21`, derived only from canonical page records. Verified cross-page continuities were represented reversibly, while the literal scan 156→157 discontinuity was not repaired. Mixed boundary scans 154 and 160 were split at centered headings. No canonical `pages/` file changed.
+The remaining batch created `sections/21-chapter-21.md`, `sections/22-chapter-22.md`, and `sections/23-chapter-23.md`. Chapter boundaries on scans 160 (`21`), 166 (`22`) and 172 (`23`) were split at centered source headings. Verified cross-page continuities are reversible with HTML comments. Scan 179 contributes only final narrative text; its lower illustration and later handwriting remain excluded. No canonical `pages/` file changed. Remaining-batch verification: **PASS — 3 / 3 chapters, 0 unresolved / 0 canonical changes**.
 
 ## Assembly rules
 
-1. Derive assembled prose only from verified canonical `pages/` records.
+1. Canonical verified `pages/` records remain controlling authority.
 2. Preserve source spelling, punctuation, dialogue, historical and colloquial forms.
 3. Exclude audit notes, printer/signature marks, illustration descriptions and later handwriting.
 4. Retain reversible source provenance with HTML comments.
 5. Join only already-verified page-boundary continuities; never repair grammar by inference.
 6. Split mixed boundary scans at the source-printed centered chapter heading.
-7. Canonical `pages/` remain controlling authority and must not be edited merely for reading-flow smoothness.
-8. Default workflow is one chapter per iteration; process a larger contiguous batch only on explicit user authorization.
-9. English remains blocked until all 23 assembled chapters and the final consistency gate pass.
+7. Do not edit canonical `pages/` merely for reading-flow smoothness.
+8. English remains blocked until the final consistency gate passes.
 
 ## Exact next activity
 
-Create and verify **Chapter 21**:
+Run the **final assembled Tamil consistency gate** across all 23 section files, `sections/README.md`, `indexes/page-map.md`, and canonical `pages/` authority.
 
-`works/vellikkizhamai/sections/21-chapter-21.md`
+The gate must confirm:
 
-Coverage: **scan 160 after centered `21` through scan 166 before centered `22`**.
+- exactly **23 / 23** chapter section files with contiguous chapter coverage;
+- complete source coverage from Chapter 1 opening through final narrative scan 179, without cross-chapter leakage at mixed boundary scans;
+- centered chapter headings split correctly at scans 33, 45, 59, 68, 75, 85, 92, 99, 107, 115, 120, 134, 142, 149, 154, 160, 166 and 172, with clean openings at the other recorded chapter starts;
+- every assembled cross-page join is already source-verified and reversible;
+- known literal source discontinuities/oddities remain unrepaired rather than grammar-normalized;
+- printer/signature marks, illustrations and later handwriting are absent from assembled prose;
+- canonical `pages/` were not changed by assembly.
 
-Then synchronize `sections/README.md`, work `README.md`, `audit.md`, `HANDOVER.md`, this prompt and `indexes/page-map.md` to **21 / 23**. Do not start English.
+If every check passes, synchronize `sections/README.md`, work `README.md`, `audit.md`, `HANDOVER.md`, this prompt, `indexes/page-map.md`, and root `README.md` to **assembled Tamil PASSED**. Do **not** start English in the same iteration unless separately authorized.
