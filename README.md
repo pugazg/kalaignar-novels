@@ -18,7 +18,7 @@
 
 Component handling:
 
-- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **TAMIL SOURCE LAYER PASSED / ASSEMBLED TAMIL NEXT**;
+- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **TAMIL SOURCE + ASSEMBLED TAMIL PASSED / ENGLISH PLAN NEXT**;
 - [`சாரப்பள்ளம் சாமுண்டி`](works/sarapallam-samundi/README.md) — scans 24–48 — registered / queued;
 - [`பெரிய இடத்துப் பெண்`](works/periya-idathup-pen/README.md) — scans 49–74 — additional witness to the existing work, not a duplicate;
 - [`நடுத்தெரு நாராயணி`](works/nadutheru-narayani/README.md) — scans 75–90 — registered / queued.
@@ -35,12 +35,13 @@ Component handling:
 - source-fidelity unresolved items: **0**;
 - whole-work Tamil audit: **PASS / COMPLETE**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **NEXT**;
-- English: **BLOCKED**.
+- assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
+- English translation plan: **NEXT**;
+- English prose: **BLOCKED until plan completion**.
 
-The Tamil audit preserves the source-visible printed pagination exactly: scan 6 is unnumbered; scans 7–13 show 2–8; scan 14 shows 10; scans 15–23 show 11–19. No printed page 9 is inferred. Physical narrative continuity across scans 13→14 is directly established.
+The assembled Tamil layer is [`works/arumbu/sections/01-arumbu.md`](works/arumbu/sections/01-arumbu.md), derived only from the 18 audited canonical records and retaining reversible scan provenance. The source-visible printed pagination remains exact: scan 6 is unnumbered; scans 7–13 show 2–8; scan 14 shows 10; scans 15–23 show 11–19. No printed page 9 is inferred. Source-confirmed `பேசினேன்` and `அம்மனார்` remain unchanged, and no unprinted `முற்றும்` is added.
 
-Exact next action: **build the assembled Tamil reading layer for `அரும்பு` only from its 18 verified canonical records**, synchronize controls, commit, and stop before English or `சாரப்பள்ளம் சாமுண்டி`.
+Exact next action: **prepare the Section 14 English translation plan for `அரும்பு` only**, synchronize controls, commit, and stop before English prose or `சாரப்பள்ளம் சாமுண்டி`.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 

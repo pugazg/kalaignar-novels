@@ -27,6 +27,7 @@ Canonical page records: **18 / 18 — scans 6–23**.
 Verified canonical records: **18 / 18 — scans 6–23 contiguous**.  
 Whole-work Tamil audit: **PASS / COMPLETE**.  
 Tamil source layer: **PASSED**.  
+Assembled Tamil: **PASS / COMPLETE — 1 / 1 section (`../sections/01-arumbu.md`)**.  
 Unresolved historical glyphs: **0**.  
 Unresolved source readings: **0**.
 
@@ -40,7 +41,7 @@ Unresolved source readings: **0**.
 
 The printed-number jump does not create a physical source-coverage gap: scan 13 ends `ஊற்றெடுத்துக் கிளம்பிவரும்` and scan 14 begins `அருவி!`, preserving direct narrative continuity.
 
-## Closed batches
+## Closed source batches
 
 - scans 6–10 — T1+T2+T3 PASS / VERIFIED;
 - scans 11–15 — T1+T2+T3 PASS / VERIFIED;
@@ -49,11 +50,16 @@ The printed-number jump does not create a physical source-coverage gap: scan 13 
 
 Across the full component, T2 left **0 unresolved historical glyphs** and T3 left **0 unresolved source readings**.
 
-Representative preserved joins include:
+Representative preserved page-level joins include:
 
+- 7→8: `நடந்` → `தேறின.`;
+- 8→9: `அபிநய` → `அசைவுகளை`;
+- 9→10: `வைத்தியரை அழைத்து` → `வந்துவிடுகிறேன்”`;
+- 11→12: `போய்` → `விட்டனர்.`;
 - 13→14: `ஊற்றெடுத்துக் கிளம்பிவரும்` → `அருவி!`;
 - 15→16: `செல்லக்` → `குழந்தையை—...`;
 - 16→17: `அவர்களைக்-` → `கவனிக்கிறான்.`;
+- 17→18: `குமார்` → `பள்ளிக்கூடத்தில்...`;
 - 18→19: `செலவா` → `யிற்று.`;
 - 19→20: `கடிந்துகொண்` → `டிருக்கிறாள்.`;
 - 20→21: `அவனது அம்மா படம்!` → `அதை எடுத்து...`;
@@ -62,6 +68,16 @@ Representative preserved joins include:
 
 Scan 23 is the final physical page of this component and contains no explicit `முற்றும்`.
 
+## Assembled reading layer
+
+Section 13 assembly is complete:
+
+- `../sections/README.md` records derivation and verification;
+- `../sections/01-arumbu.md` covers scans **6–23** in one continuous section;
+- all cross-page joins used in the reading layer remain reversible through HTML source comments;
+- no source-backed chapter division or printed page 9 was invented;
+- canonical page records remain unchanged.
+
 ## Exact next activity
 
-Build the assembled Tamil reading layer from these **18 audited records**. Do not re-transcribe, modernize, invent a missing printed page/chapter, start English, or begin `சாரப்பள்ளம் சாமுண்டி` in the same checkpoint.
+Prepare the **Section 14 English translation plan** for `அரும்பு` only. Do not begin English prose, `சாரப்பள்ளம் சாமுண்டி`, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.

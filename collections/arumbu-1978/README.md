@@ -23,7 +23,7 @@ The publisher note states that the volume contains four Kalaignar stories and th
 | Physical scans | Component | Repository handling | Current state |
 |---|---|---|---|
 | 1–5 | collection cover/title/publication/publisher matter | `collections/arumbu-1978/` | REGISTERED |
-| 6–23 | `அரும்பு` | `works/arumbu/` | **TAMIL SOURCE LAYER PASSED — ASSEMBLED TAMIL NEXT** |
+| 6–23 | `அரும்பு` | `works/arumbu/` | **TAMIL SOURCE + ASSEMBLED TAMIL PASSED — ENGLISH PLAN NEXT** |
 | 24–48 | `சாரப்பள்ளம் சாமுண்டி` | `works/sarapallam-samundi/` | NEW WORK / INTAKE COMPLETE / QUEUED |
 | 49–74 | `பெரிய இடத்துப் பெண்` | existing `works/periya-idathup-pen/` | ADDITIONAL SOURCE WITNESS REGISTERED |
 | 75–90 | `நடுத்தெரு நாராயணி` | `works/nadutheru-narayani/` | NEW WORK / INTAKE COMPLETE / QUEUED |
@@ -47,11 +47,12 @@ For the first component `அரும்பு`:
 - all page-level T1/T2/T3 gates **PASS / COMPLETE**;
 - whole-work Tamil audit **PASS / COMPLETE**;
 - Tamil source layer **PASSED**;
-- assembled Tamil **NEXT**;
-- English **BLOCKED**.
+- assembled Tamil **PASS / COMPLETE — 1 / 1 section**;
+- English translation plan **NEXT**;
+- English prose **BLOCKED until the plan exists**.
 
-The whole-work audit preserves the source-visible printed-number jump from scan 13 / printed 8 to scan 14 / printed 10 without inventing printed page 9; physical narrative continuity is directly established across the scans. The controlling PDF remains excluded from the repository.
+The assembled Tamil layer is derived only from the 18 audited canonical records and keeps reversible scan provenance. The source-visible printed-number jump from scan 13 / printed 8 to scan 14 / printed 10 remains explicit without inventing printed page 9. Source-confirmed `பேசினேன்` and `அம்மனார்` remain unchanged. The controlling PDF remains excluded from the repository.
 
 ## Exact next activity
 
-Build the assembled Tamil reading layer for `works/arumbu/` only from its audited canonical pages. Do not start `சாரப்பள்ளம் சாமுண்டி`, the 1978 `பெரிய இடத்துப் பெண்` witness comparison, or English in the same checkpoint.
+Prepare the Section 14 English translation plan for `works/arumbu/` only. Do not start English prose, `சாரப்பள்ளம் சாமுண்டி`, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.

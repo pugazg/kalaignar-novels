@@ -16,14 +16,15 @@
 | Source-fidelity unresolved items | **0** |
 | Whole-work Tamil audit | **PASS / COMPLETE** |
 | Tamil source layer | **PASSED** |
-| Assembled Tamil | **NEXT** |
-| English | BLOCKED until assembled Tamil is complete |
+| Assembled Tamil | **PASS / COMPLETE — 1 / 1 section** |
+| English translation plan | **NEXT** |
+| English prose | BLOCKED until Section 14 plan exists |
 
 No source PDF is committed.
 
 ## Checkpoint model
 
-Bounded source work followed root `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`: T1 direct visual first pass, T2 independent historical-glyph / character-identity re-read, and T3 final source-fidelity closure. Every bounded checkpoint was synchronized and committed separately. After full page-level closure, this document records the separate whole-work Tamil audit required by `NOVEL_PROCESSING_GUIDE.md` Section 12.
+Bounded source work followed root `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`: T1 direct visual first pass, T2 independent historical-glyph / character-identity re-read, and T3 final source-fidelity closure. Every bounded checkpoint was synchronized and committed separately. After full page-level closure, the separate whole-work Tamil audit required by `NOVEL_PROCESSING_GUIDE.md` Section 12 passed before the Section 13 assembled reading layer was created.
 
 ## Closed page-level batches
 
@@ -48,7 +49,7 @@ The Section 12 Tamil audit was reconciled against the controlling 1978 compilati
 - canonical records: **18 / 18**;
 - verified records: **18 / 18**;
 - physical scan coverage is contiguous with no repository record gap;
-- all body pages have completed direct visual source review through T3.
+- all body pages completed direct visual source review through T3.
 
 ### Source identity and metadata
 
@@ -80,7 +81,7 @@ The visible numbering therefore jumps **8 → 10** between physical scans 13 and
 - final joins remain confirmed: 20→21 `அவனது அம்மா படம்!` / `அதை எடுத்து...`; 21→22 `அப்பா பாப்பாவை நினைத்து` / `அழுதுகொண்டே யிருக்கிறாரே!`; 22→23 completed sentence / new paragraph `அவளையறியாமல்,...`;
 - scan 23 is the final physical page of `அரும்பு`; no explicit `முற்றும்` is printed;
 - page type and narrative/non-body separation remain explicit; for example scan 21 footer `க. க—2` remains outside the narrative body;
-- no source-backed chapter divisions are recorded inside this short work, so downstream assembly must not invent artificial chapters.
+- no source-backed chapter divisions are recorded inside this short work.
 
 ### Fidelity and unresolved-item state
 
@@ -94,22 +95,49 @@ The visible numbering therefore jumps **8 → 10** between physical scans 13 and
 
 A recursive live-tree check at the page-level closure checkpoint found no repository path matching `TVA_BOK_0064361_அரும்பு.pdf`. The controlling PDF remains excluded from version control as required.
 
-## Audit result
+## Tamil source audit result
 
 **TAMIL SOURCE AUDIT — PASS / COMPLETE.**
 
-`அரும்பு` now has a fully verified source-level Tamil layer: **18 / 18 canonical records**, all page-level T1/T2/T3 gates closed, **0 unresolved historical glyphs**, and **0 unresolved source readings**.
+`அரும்பு` has a fully verified source-level Tamil layer: **18 / 18 canonical records**, all page-level T1/T2/T3 gates closed, **0 unresolved historical glyphs**, and **0 unresolved source readings**.
 
-This PASS opens the assembled Tamil reading-layer stage. It does not authorize English translation or the next compilation component in the same checkpoint.
+## Assembled Tamil reading layer — PASS / COMPLETE
+
+Section 13 was completed only after the Tamil source audit passed.
+
+Artifacts:
+
+- `sections/README.md` — derivation/authority, section inventory, join inventory and verification record;
+- `sections/01-arumbu.md` — one continuous reading section covering source scans **6–23**.
+
+### Assembly interpretation
+
+The audited source demonstrates one continuous short work and no source-backed chapter divisions. Therefore a single reading section is used. The assembled layer is a derivative convenience layer only; the canonical `pages/` records remain controlling archival text.
+
+### Assembly fidelity checks
+
+The completed section was reconciled against all 18 verified page records. The following checks passed:
+
+- scans **6–23** represented once and in physical order;
+- **18 / 18** canonical records represented;
+- no narrative page omitted or duplicated;
+- no page-level T1/T2/T3 notes or copy-specific non-body observations inserted into prose;
+- source title retained, opening illustration omitted from prose as required by the canonical page separation;
+- source spelling, punctuation, dialogue, rhetoric and period forms preserved;
+- cross-page fragment joins made only where page-level audit had already established continuity;
+- reversible HTML source comments preserve physical scan/printed-page provenance;
+- scan 13 / printed 8 → scan 14 / printed 10 remains traceable and no printed page 9 is invented;
+- source-confirmed scan 22 `பேசினேன்`, scan 23 `அம்மனார்`, and scan 23 `இனி:......` remain unchanged;
+- no artificial chapter divisions introduced;
+- no unprinted `முற்றும்` added;
+- canonical `pages/` files remain unchanged by the assembly checkpoint.
+
+Representative joined boundaries in the reading layer include `நடந்`/`தேறின.`, `போய்`/`விட்டனர்.`, `செலவா`/`யிற்று.`, `கடிந்துகொண்`/`டிருக்கிறாள்.`, and the documented 13→14, 20→21 and 21→22 continuities.
+
+**ASSEMBLED TAMIL READING LAYER — PASS / COMPLETE.**
 
 ## Exact next activity
 
-Build the **assembled Tamil reading layer for `அரும்பு` only** under `NOVEL_PROCESSING_GUIDE.md` Section 13:
+Prepare the **Section 14 English translation plan only** for `அரும்பு`.
 
-- create `works/arumbu/sections/README.md`;
-- create a source-faithful continuous reading section, expected as `works/arumbu/sections/01-arumbu.md` unless direct structure evidence requires otherwise;
-- derive only from the 18 audited canonical page records — do not re-transcribe;
-- preserve source spelling, punctuation, paragraphs and documented unusual readings;
-- join only positively established physical page continuations while retaining reversible page provenance comments;
-- do not invent chapter divisions;
-- synchronize controls, commit the assembled-Tamil checkpoint, and stop before English or `சாரப்பள்ளம் சாமுண்டி`.
+The plan must define the working English title, source authority hierarchy, section/batch plan, translation style, name/transliteration policy, terminology handling, punctuation/dialogue policy, source-oddity handling, page traceability and review gates. Do not begin English prose translation, `சாரப்பள்ளம் சாமுண்டி`, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.

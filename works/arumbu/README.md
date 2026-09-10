@@ -18,14 +18,15 @@
 - scans 21–23 T1/T2/T3: **PASS / COMPLETE**;
 - whole-work Tamil audit: **PASS / COMPLETE**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **NEXT**;
-- English: **BLOCKED**.
+- assembled Tamil: **1 / 1 section — PASSED**;
+- English translation plan: **NEXT**;
+- English prose: **BLOCKED until the Section 14 plan exists**.
 
 This is the first component of the 1978 four-story compilation. Collection provenance is recorded at `../../collections/arumbu-1978/`.
 
 ## Checkpoint workflow
 
-Source batches followed [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](../../SOURCE_BATCH_CHECKPOINT_WORKFLOW.md): T1 direct transcription → sync/commit/stop; T2 independent historical-glyph re-read → sync/commit/stop; T3 final source-fidelity closure → sync/commit/stop. After all 18 pages closed, the separate Section 12 whole-work Tamil audit was completed before any reading-layer derivation.
+Source batches followed [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](../../SOURCE_BATCH_CHECKPOINT_WORKFLOW.md): T1 direct transcription → sync/commit/stop; T2 independent historical-glyph re-read → sync/commit/stop; T3 final source-fidelity closure → sync/commit/stop. After all 18 pages closed, the separate Section 12 whole-work Tamil audit passed before the Section 13 reading layer was derived.
 
 ## Closed source batches
 
@@ -66,14 +67,25 @@ The audit confirms:
 - source spelling, punctuation, period forms and unusual readings preserved without silent modernization;
 - no source-backed chapter divisions requiring multiple assembled sections.
 
+## Assembled Tamil reading layer
+
+**PASS / COMPLETE — 1 / 1 section.**
+
+- [`sections/README.md`](sections/README.md) records derivation, authority, section coverage and assembly verification;
+- [`sections/01-arumbu.md`](sections/01-arumbu.md) covers physical scans **6–23** as one continuous source-faithful reading section;
+- the layer is derived only from the audited canonical `pages/` records; canonical page files were not changed;
+- verified cross-page fragments are joined only for readability and remain reversible through inline source-provenance comments;
+- scan 13 / printed 8 → scan 14 / printed 10 remains explicitly traceable and printed page 9 is not invented;
+- source-confirmed `பேசினேன்`, `அம்மனார்`, and final `இனி:......` are retained unchanged;
+- no artificial chapter divisions and no unprinted `முற்றும்` were added.
+
 ## Exact next activity
 
-Create the **assembled Tamil reading layer only**:
+Prepare the **Section 14 English translation plan only** for `அரும்பு`:
 
-- `sections/README.md`;
-- `sections/01-arumbu.md` as a continuous source-faithful reading layer unless direct structure evidence requires otherwise;
-- derive only from verified canonical `pages/` records;
-- preserve source wording and retain reversible page provenance comments;
-- join only already-established cross-page continuations;
-- do not invent chapters or begin English translation;
-- synchronize controls and commit, then stop before `சாரப்பள்ளம் சாமுண்டி`.
+- create `translations/en/TRANSLATION_PLAN.md` with working English title, authority hierarchy, section/batch plan, translation style, transliteration/name policy, terminology policy, punctuation/dialogue policy, source-oddity handling, page traceability and review gates;
+- initialize the minimum English control files required by the guide only if the plan checkpoint needs them;
+- treat audited `pages/` as final textual authority and `sections/01-arumbu.md` as reader-continuity support;
+- do **not** begin English prose translation in the same checkpoint;
+- do **not** begin `சாரப்பள்ளம் சாமுண்டி` or the 1978 `பெரிய இடத்துப் பெண்` witness comparison;
+- synchronize controls, commit the planning checkpoint, and stop.
