@@ -20,33 +20,25 @@
 - source edition: **இரண்டாம் பதிப்பு, 1968**;
 - source PDF: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`;
 - actual PDF scans: **179**;
-- page manifest: **179 / 179 represented**;
 - canonical page records: **179 / 179 — COMPLETE / VERIFIED**;
-- final narrative: **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
 - unresolved source holds: **0**;
-- forward historical-glyph coverage: **PASS scans 1–179**;
-- second historical-glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS; 5 corrections / 0 unresolved**;
+- historical-glyph gates: **PASSED / COMPLETE**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
 - assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
 - final assembled Tamil consistency gate: **PASSED — 0 unresolved / 0 canonical changes**;
-- English translation: **NOT STARTED — translation planning gate open; prose blocked until the mandatory plan exists**.
+- English translation plan: **COMPLETE**;
+- English control package: **INITIALIZED**;
+- English prose: **NOT STARTED — 0 / 23 chapters**;
+- next activity: **English Batch 1 pilot — Chapter 1 / scans 4–12**.
 
-### Historical Tamil glyph handling
+### English translation structure
 
-Mandatory family set on source-dependent historical-glyph work:
+Working English title: **_Friday_**.
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+The final English layer mirrors the PASSED Tamil structure one-to-one as **23 chapter files**. Batch 1 is a single-chapter pilot; subsequent default batches cover at most three contiguous chapters unless the user explicitly authorizes a larger batch.
 
-Source pixels decide identity. Grammar is only a locator. Preserve source spelling, grammar, punctuation, spacing, colloquial forms and physical boundaries. Never global-replace.
-
-### Current Tamil state
-
-The canonical `works/vellikkizhamai/pages/` layer is closed and controlling. The derived `sections/` reading layer contains **23 / 23 VERIFIED chapters** and has passed its final consistency gate.
-
-The gate confirmed complete narrative coverage from scan 4 through final narrative scan 179, correct centered-heading chapter splits, only source-verified reversible joins, preservation of literal source discontinuities/oddities, exclusion of printer/signature marks and non-body visual/later-handwritten material, and no canonical page changes during assembly.
-
-Chapter 15 ends on scan **126**; Chapter 16 opens cleanly on centered `16` at scan **127**. Scan 179 contributes only final narrative text to the reading layer.
+English controls are under [`works/vellikkizhamai/translations/en/`](works/vellikkizhamai/translations/en/). The bilingual review and release report are initialized but blocked until translation is complete. No English prose was created during the planning phase.
 
 ## Completed works
 
@@ -58,8 +50,4 @@ Chapter 15 ends on scan **126**; Chapter 16 opens cleanly on centered `16` at sc
 
 ## Next activity
 
-Create the mandatory English translation plan for `வெள்ளிக்கிழமை`:
-
-`works/vellikkizhamai/translations/en/TRANSLATION_PLAN.md`
-
-Follow `NOVEL_PROCESSING_GUIDE.md` Section 14. Do not begin English prose until the plan exists.
+Translate and review `வெள்ளிக்கிழமை` **Chapter 1 only** as English Batch 1, source scans **4–12**, then lock pilot glossary/style decisions and commit before Batch 2.

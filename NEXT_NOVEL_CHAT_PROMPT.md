@@ -1,4 +1,4 @@
-# Next Chat Prompt — வெள்ளிக்கிழமை / English translation plan
+# Next Chat Prompt — வெள்ளிக்கிழமை / English Batch 1 pilot
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,60 +6,60 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — SHA-256 `ac241cbfbe3d47d76f22140f43c662176ba29a91521b826a1a8f5c75cf3081d3`, **179 scans**, image-only, second edition 1968. Do not commit it.
 
-## Durable Tamil state
+## Closed Tamil state
 
 - canonical page records: **179 / 179 — COMPLETE / VERIFIED**;
 - unresolved source holds: **0**;
 - forward historical-glyph coverage: **PASS scans 1–179**;
 - second historical-glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS**;
-- second-pass corrections: **5 total / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
-- final assembled Tamil consistency gate: **PASSED — 23 / 23; 0 unresolved / 0 canonical changes**.
+- assembled Tamil: **PASSED — 23 / 23 chapters**;
+- final assembled consistency gate: **PASSED — 0 unresolved / 0 canonical changes**.
 
-Do not reopen completed Tamil source/glyph/assembly work without genuinely new direct-source evidence.
+Do not reopen Tamil source/glyph/assembly work without genuinely new direct-source evidence.
 
-## Final assembled gate evidence
+Known literal discontinuities remain at scans 117→118, 122→123 and 156→157; English must never silently repair them.
 
-The final consistency gate confirmed:
+## English planning state
 
-- exactly 23 chapter section files in contiguous chapter order;
-- complete narrative coverage from scan 4 through final narrative scan 179 / printed 178;
-- correct centered-heading chapter splits and clean openings;
-- Chapter 15 ends on scan 126 and Chapter 16 opens cleanly on scan 127;
-- every reading-layer page join is already source-verified and reversible;
-- literal discontinuities at scans 117→118, 122→123 and 156→157 remain unrepaired;
-- printer/signature marks, illustrations and later handwriting are absent from assembled prose;
-- source-audit checkpoint `591fe29f7ce6bb7f814f165b757098e89fe25aa5` → completed assembly head `52d7dcd9d6c5d561ca14f69fd850d37a55963310` contains no canonical `works/vellikkizhamai/pages/` changes.
+Working English title: **_Friday_**.
 
-## English state
+Read before translating:
 
-English prose: **NOT STARTED**.
+1. `NOVEL_PROCESSING_GUIDE.md` Sections 14–17;
+2. `works/vellikkizhamai/translations/en/TRANSLATION_PLAN.md` completely;
+3. `works/vellikkizhamai/translations/en/README.md`;
+4. `works/vellikkizhamai/translations/en/PROGRESS.md`;
+5. `works/vellikkizhamai/translations/en/GLOSSARY.md`;
+6. PASSED Tamil `works/vellikkizhamai/sections/01-chapter-01.md`;
+7. canonical page records covering scans 4–12 as needed for source checking.
 
-The translation-planning gate is open. `NOVEL_PROCESSING_GUIDE.md` Section 14 requires a translation plan before prose translation begins.
+Current English state:
 
-## Exact next activity
+- plan — **COMPLETE**;
+- controls — **INITIALIZED**;
+- English prose — **NOT STARTED**;
+- chapters present/reviewed — **0 / 23**;
+- final bilingual review / release — **BLOCKED**.
 
-Create:
+## Exact next activity — Batch 1 pilot
 
-`works/vellikkizhamai/translations/en/TRANSLATION_PLAN.md`
+Translate **Chapter 1 only**, scans **4–12**, into:
 
-Read `NOVEL_PROCESSING_GUIDE.md` Section 14 and relevant completed English implementations for structure reference only. The plan must define:
+`works/vellikkizhamai/translations/en/sections/01-chapter-01.md`
 
-1. working English title;
-2. source authority hierarchy — source scan → canonical Tamil `pages/` → assembled Tamil `sections/` → English;
-3. 23-chapter translation structure and proposed batch size;
-4. translation style and fidelity rules;
-5. names and transliteration policy;
-6. political / religious / caste terminology policy;
-7. handling of historical offices, ritual terms and culture-specific vocabulary;
-8. dialogue, punctuation and paragraph policy;
-9. source oddity / discontinuity policy — never silently repair the Tamil source in English;
-10. page/source traceability method;
-11. glossary policy;
-12. review states and gates through whole-work bilingual verification and release review.
+### Mandatory pilot workflow
 
-Also establish the planned supporting English files/directories described by the guide, but **do not write English translation prose in this iteration**.
+1. Translate every substantive Tamil paragraph/dialogue unit — no summary or omission.
+2. Use PASSED assembled Tamil for continuous reading, but canonical `pages/` remain source-check authority.
+3. Preserve source provenance with HTML comments at meaningful page boundaries and verified joins.
+4. Preserve narrator voice, rhetorical questions, repetition, irony, emotional force and religious/cultural references without modernization.
+5. Do not add explanations inside translated prose.
+6. Source-check the complete English chapter against canonical scans/pages 4–12.
+7. Mark the chapter `reviewed` only after both source fidelity and English readability review pass.
+8. Lock recurring pilot choices in `GLOSSARY.md`, especially title/day-name handling, names, religious terms, punctuation/dialogue conventions and recurring rhetorical style.
+9. Update `PROGRESS.md`, English `README.md`, work `README.md`, `audit.md`, root `HANDOVER.md`, this prompt and root `README.md`.
+10. Commit Batch 1 before beginning Batch 2.
 
-After the plan is created and reviewed, synchronize work/root status documents so the next activity is the first controlled English translation batch.
+Do **not** start Chapters 2–4 in the same iteration unless separately authorized.

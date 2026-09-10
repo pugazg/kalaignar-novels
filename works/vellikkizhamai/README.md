@@ -21,63 +21,43 @@
 - Tamil source layer: **PASSED**;
 - assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
 - final assembled Tamil consistency gate: **PASSED — 0 unresolved / 0 canonical changes**;
-- English translation: **NOT STARTED — translation planning gate open; prose blocked until `translations/en/TRANSLATION_PLAN.md` exists**.
+- English translation plan: **COMPLETE**;
+- English control package: **INITIALIZED**;
+- English prose: **NOT STARTED — 0 / 23 chapters**;
+- next English activity: **Batch 1 pilot — Chapter 1 / scans 4–12**.
 
 ## Canonical authority
 
-`pages/` is the archival preservation layer and remains controlling. The derived `sections/` layer may join only already-verified page-boundary continuities and must preserve source spelling, punctuation, dialogue, historical forms, colloquial forms and intentional oddities. Assembly never authorizes silent normalization of canonical text.
+`pages/` is the archival preservation layer and remains controlling. The PASSED `sections/` layer is the continuous Tamil reading layer. English is a derived layer only; if English conflicts with canonical Tamil, canonical Tamil governs.
+
+Completed Tamil source/glyph/assembly gates must not be reopened without genuinely new direct-source evidence.
 
 ## Assembled Tamil progress
 
-| Chapter | Source coverage | Status |
-|---:|---|---|
-| 1 | scans 4–12 | **VERIFIED** |
-| 2 | scans 13–22 | **VERIFIED** |
-| 3 | scan 23 → scan 33 before centered `4` | **VERIFIED** |
-| 4 | scan 33 after centered `4` → scan 45 before centered `5` | **VERIFIED** |
-| 5 | scan 45 after centered `5` → scan 51 | **VERIFIED** |
-| 6 | scan 52 → scan 59 before centered `7` | **VERIFIED** |
-| 7 | scan 59 after centered `7` → scan 68 before centered `8` | **VERIFIED** |
-| 8 | scan 68 after centered `8` → scan 75 before centered `9` | **VERIFIED** |
-| 9 | scan 75 after centered `9` → scan 85 before centered `10` | **VERIFIED** |
-| 10 | scan 85 after centered `10` → scan 92 before centered `11` | **VERIFIED** |
-| 11 | scan 92 after centered `11` → scan 99 before centered `12` | **VERIFIED** |
-| 12 | scan 99 after centered `12` → scan 107 before centered `13` | **VERIFIED** |
-| 13 | scan 107 after centered `13` → scan 115 before centered `14` | **VERIFIED** |
-| 14 | scan 115 after centered `14` → scan 120 before centered `15` | **VERIFIED** |
-| 15 | scan 120 after centered `15` → scan 126 | **VERIFIED** |
-| 16 | scan 127 after centered `16` → scan 134 before centered `17` | **VERIFIED** |
-| 17 | scan 134 after centered `17` → scan 142 before centered `18` | **VERIFIED** |
-| 18 | scan 142 after centered `18` → scan 149 before centered `19` | **VERIFIED** |
-| 19 | scan 149 after centered `19` → scan 154 before centered `20` | **VERIFIED** |
-| 20 | scan 154 after centered `20` → scan 160 before centered `21` | **VERIFIED** |
-| 21 | scan 160 after centered `21` → scan 166 before centered `22` | **VERIFIED** |
-| 22 | scan 166 after centered `22` → scan 172 before centered `23` | **VERIFIED** |
-| 23 | scan 172 after centered `23` → scan 179 | **VERIFIED** |
+All **23 / 23 chapters are VERIFIED and the assembled Tamil layer is PASSED**. Chapter 15 ends on scan 126; Chapter 16 begins cleanly at centered `16` on scan 127. The known literal discontinuities at scans 117→118, 122→123 and 156→157 remain unrepaired. Scan 179 contributes final narrative only; its lower illustration and later handwriting remain excluded.
 
-## Final assembled Tamil consistency gate
+## English translation planning
 
-The gate checked all 23 section files against `sections/README.md`, `indexes/page-map.md`, the already-verified canonical `pages/` authority and repository history.
+Working English title: **_Friday_**.
 
-Result: **PASS**.
+English controls now exist under [`translations/en/`](translations/en/):
 
-- exactly **23 / 23** chapter sections, ordered 1–23;
-- narrative coverage is contiguous from scan 4 through final narrative scan 179;
-- mixed chapter-boundary scans are split at source-printed centered headings;
-- verified cross-page joins remain reversible through HTML provenance comments;
-- known source discontinuities at scans **117→118**, **122→123** and **156→157** remain literal and unrepaired;
-- printer/signature marks, illustrations and later handwriting are excluded from assembled prose;
-- scan 179 includes only final narrative text in the reading layer;
-- comparison from source-audit checkpoint `591fe29f7ce6bb7f814f165b757098e89fe25aa5` through completed assembly head `52d7dcd9d6c5d561ca14f69fd850d37a55963310` confirms that no canonical `pages/` file changed during assembly.
+- [`TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md)
+- [`README.md`](translations/en/README.md)
+- [`PROGRESS.md`](translations/en/PROGRESS.md)
+- [`GLOSSARY.md`](translations/en/GLOSSARY.md)
+- [`sections/README.md`](translations/en/sections/README.md)
+- [`TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) — blocked until all chapters are reviewed
+- [`RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md) — blocked until bilingual review passes
 
-Final gate: **PASS — 23 / 23 chapters; 0 unresolved / 0 canonical changes**.
+The final English structure mirrors the Tamil one-to-one as 23 chapter files. Batch 1 is a mandatory single-chapter pilot; subsequent default batches contain at most three contiguous chapters unless explicitly enlarged by the user.
+
+No English translation prose was created during planning.
 
 ## Exact next activity
 
-Create the mandatory English translation plan:
+Translate and fully review **Batch 1 — Chapter 1 only**, source scans **4–12**, into:
 
-`works/vellikkizhamai/translations/en/TRANSLATION_PLAN.md`
+`translations/en/sections/01-chapter-01.md`
 
-Follow `NOVEL_PROCESSING_GUIDE.md` Section 14. Define the working English title, authority hierarchy, section/batch plan, translation style, transliteration/name policy, political/religious/caste terminology policy, historical-office/ritual-term handling, punctuation/dialogue policy, source-oddity policy, page traceability, and review states/gates.
-
-**Do not begin English prose in the same iteration.**
+Use the PASSED Tamil `sections/01-chapter-01.md` for continuous reading and canonical `pages/` for source checking. Preserve provenance comments. After review, lock recurring pilot decisions in `translations/en/GLOSSARY.md`, update progress/control docs, and commit before Batch 2.

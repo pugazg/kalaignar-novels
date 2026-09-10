@@ -13,7 +13,9 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
 - assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
-- final assembled consistency gate: **PASSED — 0 unresolved / 0 canonical changes**.
+- final assembled consistency gate: **PASSED — 0 unresolved / 0 canonical changes**;
+- English translation plan: **COMPLETE**;
+- English prose: **NOT STARTED — 0 / 23 chapters**.
 
 ## Printed-page mapping
 
@@ -54,42 +56,36 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 ## Assembled Tamil chapter coverage
 
-| Chapter | Source coverage | Assembly status |
-|---:|---|---|
-| 1 | scans 4–12 | **VERIFIED** |
-| 2 | scans 13–22 | **VERIFIED** |
-| 3 | scan 23 → scan 33 before centered `4` | **VERIFIED** |
-| 4 | scan 33 after centered `4` → scan 45 before centered `5` | **VERIFIED** |
-| 5 | scan 45 after centered `5` → scan 51 | **VERIFIED** |
-| 6 | scan 52 → scan 59 before centered `7` | **VERIFIED** |
-| 7 | scan 59 after centered `7` → scan 68 before centered `8` | **VERIFIED** |
-| 8 | scan 68 after centered `8` → scan 75 before centered `9` | **VERIFIED** |
-| 9 | scan 75 after centered `9` → scan 85 before centered `10` | **VERIFIED** |
-| 10 | scan 85 after centered `10` → scan 92 before centered `11` | **VERIFIED** |
-| 11 | scan 92 after centered `11` → scan 99 before centered `12` | **VERIFIED** |
-| 12 | scan 99 after centered `12` → scan 107 before centered `13` | **VERIFIED** |
-| 13 | scan 107 after centered `13` → scan 115 before centered `14` | **VERIFIED** |
-| 14 | scan 115 after centered `14` → scan 120 before centered `15` | **VERIFIED** |
-| 15 | scan 120 after centered `15` → scan 126 | **VERIFIED** |
-| 16 | scan 127 after centered `16` → scan 134 before centered `17` | **VERIFIED** |
-| 17 | scan 134 after centered `17` → scan 142 before centered `18` | **VERIFIED** |
-| 18 | scan 142 after centered `18` → scan 149 before centered `19` | **VERIFIED** |
-| 19 | scan 149 after centered `19` → scan 154 before centered `20` | **VERIFIED** |
-| 20 | scan 154 after centered `20` → scan 160 before centered `21` | **VERIFIED** |
-| 21 | scan 160 after centered `21` → scan 166 before centered `22` | **VERIFIED** |
-| 22 | scan 166 after centered `22` → scan 172 before centered `23` | **VERIFIED** |
-| 23 | scan 172 after centered `23` → scan 179 | **VERIFIED** |
+| Chapter | Source coverage | Tamil status | English status |
+|---:|---|---|---|
+| 1 | scans 4–12 | **VERIFIED** | **NEXT / NOT STARTED** |
+| 2 | scans 13–22 | **VERIFIED** | planned |
+| 3 | scan 23 → scan 33 before centered `4` | **VERIFIED** | planned |
+| 4 | scan 33 after centered `4` → scan 45 before centered `5` | **VERIFIED** | planned |
+| 5 | scan 45 after centered `5` → scan 51 | **VERIFIED** | planned |
+| 6 | scan 52 → scan 59 before centered `7` | **VERIFIED** | planned |
+| 7 | scan 59 after centered `7` → scan 68 before centered `8` | **VERIFIED** | planned |
+| 8 | scan 68 after centered `8` → scan 75 before centered `9` | **VERIFIED** | planned |
+| 9 | scan 75 after centered `9` → scan 85 before centered `10` | **VERIFIED** | planned |
+| 10 | scan 85 after centered `10` → scan 92 before centered `11` | **VERIFIED** | planned |
+| 11 | scan 92 after centered `11` → scan 99 before centered `12` | **VERIFIED** | planned |
+| 12 | scan 99 after centered `12` → scan 107 before centered `13` | **VERIFIED** | planned |
+| 13 | scan 107 after centered `13` → scan 115 before centered `14` | **VERIFIED** | planned |
+| 14 | scan 115 after centered `14` → scan 120 before centered `15` | **VERIFIED** | planned |
+| 15 | scan 120 after centered `15` → scan 126 | **VERIFIED** | planned |
+| 16 | scan 127 after centered `16` → scan 134 before centered `17` | **VERIFIED** | planned |
+| 17 | scan 134 after centered `17` → scan 142 before centered `18` | **VERIFIED** | planned |
+| 18 | scan 142 after centered `18` → scan 149 before centered `19` | **VERIFIED** | planned |
+| 19 | scan 149 after centered `19` → scan 154 before centered `20` | **VERIFIED** | planned |
+| 20 | scan 154 after centered `20` → scan 160 before centered `21` | **VERIFIED** | planned |
+| 21 | scan 160 after centered `21` → scan 166 before centered `22` | **VERIFIED** | planned |
+| 22 | scan 166 after centered `22` → scan 172 before centered `23` | **VERIFIED** | planned |
+| 23 | scan 172 after centered `23` → scan 179 | **VERIFIED** | planned |
 
-## Final assembled consistency gate
+## Translation planning note
 
-**PASS.** The chapter ranges above match the 23 section front matters and the source-supported chapter map. Chapter 15 ends at scan 126; scan 127 is the clean Chapter 16 opening.
-
-Verified reading-layer continuities remain reversible. Known literal source discontinuities at scans 117→118, 122→123 and 156→157 remain unrepaired. Printer/signature marks and non-body material remain excluded, including scan 179's lower illustration and later handwriting.
-
-Repository comparison from source-audit checkpoint `591fe29f7ce6bb7f814f165b757098e89fe25aa5` through completed assembly head `52d7dcd9d6c5d561ca14f69fd850d37a55963310` confirms that no canonical `works/vellikkizhamai/pages/` file changed during assembly.
-
-Final gate result: **PASS — 23 / 23 chapters; 0 unresolved / 0 canonical changes**.
+English mirrors this chapter map one-to-one. Batch 1 is Chapter 1 only; later default batches cover at most three contiguous chapters. English provenance must preserve the actual scan/printed-page mapping, including the scan-66 printed `5` anomaly, and must not repair known source discontinuities.
 
 ## Exact next activity
 
-Create `works/vellikkizhamai/translations/en/TRANSLATION_PLAN.md` according to `NOVEL_PROCESSING_GUIDE.md` Section 14. English prose remains not started until that mandatory plan exists.
+Translate and review **English Chapter 1 / scans 4–12** as the Batch 1 pilot. No later chapter is authorized in the same default iteration.

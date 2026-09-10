@@ -29,51 +29,61 @@ Fetch live `main` first and preserve newer durable work. Do not reopen completed
 - final narrative: **scan 179 / printed 178**, ending `திரும்பினர்கள்.`;
 - unresolved source holds: **0**;
 - forward historical-glyph coverage: **PASS scans 1–179**;
-- user-directed second historical-glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS**;
+- second historical-glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS**;
 - second-pass corrections: **5 total / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
 - assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
 - final assembled consistency gate: **PASSED — 0 unresolved / 0 canonical changes**.
 
-## Final assembled Tamil gate closure
+Known literal discontinuities remain at scans 117→118, 122→123 and 156→157. Chapter 15 ends on scan 126; Chapter 16 opens cleanly on scan 127. Scan 179 contributes final narrative only in the reading layer.
 
-The gate confirmed exactly 23 chapter section files, contiguous coverage from scan 4 through final narrative scan 179, correct centered-heading splits, source-supported reversible joins, preservation of literal source discontinuities and source oddities, exclusion of printer/signature marks and non-body visual/later-handwritten material, and canonical-authority integrity.
+## English planning state
 
-Important preserved discontinuities remain:
+Working English title: **_Friday_**.
 
-- scan 117→118: `உட்` → `எவ்வளவோ முயன்றும் நடக்கவில்லை.`;
-- scan 122→123: `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`;
-- scan 156→157: `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`.
+- `translations/en/TRANSLATION_PLAN.md` — **COMPLETE**;
+- English `README.md` — initialized;
+- `PROGRESS.md` — initialized;
+- `GLOSSARY.md` — initialized with seed consistency decisions;
+- `sections/README.md` — planned 23-chapter inventory;
+- `TRANSLATION_REVIEW.md` — initialized / **BLOCKED**;
+- `RELEASE_REPORT.md` — initialized / **BLOCKED**;
+- English chapter prose — **NOT STARTED — 0 / 23**.
 
-Chapter 15 ends on scan **126**; Chapter 16 opens cleanly on centered `16` at scan **127**.
+Final English structure mirrors the Tamil chapters one-to-one. Batch 1 is a single-chapter pilot. Subsequent default batches contain at most three contiguous chapters unless the user explicitly authorizes a larger batch.
 
-Repository comparison from passed source-audit checkpoint `591fe29f7ce6bb7f814f165b757098e89fe25aa5` through completed assembly head `52d7dcd9d6c5d561ca14f69fd850d37a55963310` shows **no canonical `works/vellikkizhamai/pages/` changes** during assembly.
+The plan requires source-bound readable English; no summarization; preservation of agency, dialogue, emotional/rhetorical force, religious/caste/social language and source oddities; page provenance; and no silent repair of the three known physical discontinuities.
 
-## English state
+## Batch map
 
-English prose is **NOT STARTED**.
-
-The Tamil gates now permit translation planning, but `NOVEL_PROCESSING_GUIDE.md` requires a mandatory plan before any English prose.
+1. Chapter 1 / scans 4–12 — **pilot / NEXT**;
+2. Chapters 2–4 — scan 13 → scan 45 before centered `5`;
+3. Chapters 5–7 — scan 45 after centered `5` → scan 68 before centered `8`;
+4. Chapters 8–10 — scan 68 after centered `8` → scan 92 before centered `11`;
+5. Chapters 11–13 — scan 92 after centered `11` → scan 115 before centered `14`;
+6. Chapters 14–16 — scan 115 after centered `14` → scan 134 before centered `17`;
+7. Chapters 17–19 — scan 134 after centered `17` → scan 154 before centered `20`;
+8. Chapters 20–21 — scan 154 after centered `20` → scan 166 before centered `22`;
+9. Chapters 22–23 — scan 166 after centered `22` → final narrative scan 179.
 
 ## Exact next activity
 
+Run **English Batch 1 pilot — Chapter 1 only**.
+
 Create:
 
-`works/vellikkizhamai/translations/en/TRANSLATION_PLAN.md`
+`works/vellikkizhamai/translations/en/sections/01-chapter-01.md`
 
-The plan must define at minimum:
+Source: PASSED Tamil `works/vellikkizhamai/sections/01-chapter-01.md`, scans **4–12**, with canonical `pages/` as source-check authority.
 
-- working English title;
-- source authority hierarchy;
-- chapter/section and batch plan;
-- translation style;
-- name/transliteration policy;
-- political, religious and caste terminology policy;
-- historical office / ritual term handling;
-- punctuation and dialogue policy;
-- source oddity policy;
-- page/source traceability;
-- review states and gates.
+Requirements:
 
-Do **not** begin English prose in that same planning iteration.
+- translate all substantive Tamil content; no summary/omission;
+- retain source provenance comments;
+- preserve narrator voice, rhetorical questions, repetition, religious references and source punctuation force;
+- source-check every English paragraph/dialogue unit against canonical Tamil pages;
+- review readability without modernization;
+- update `GLOSSARY.md` with locked pilot decisions;
+- update `PROGRESS.md`, English/work/root status docs;
+- commit the bounded pilot before Batch 2.
