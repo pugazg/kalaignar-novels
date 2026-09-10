@@ -10,9 +10,11 @@
 - work identity: **CONFIRMED from component title page**;
 - collection/source intake: **COMPLETE**;
 - physical component span: **18 scans**;
-- canonical page records: **0 / 18**;
-- transcription: **NOT STARTED**;
-- historical-glyph/source audit: **NOT STARTED**;
+- canonical page records: **5 / 18** — scans **6–10**;
+- direct visual transcription: **T1 COMPLETE for scans 6–10**;
+- page status: **5 `needs-review` / 0 verified**;
+- historical-glyph gate: **T2 NEXT for scans 6–10**;
+- final source-fidelity closure: **T3 BLOCKED by T2**;
 - assembled Tamil: **BLOCKED**;
 - English: **BLOCKED**.
 
@@ -20,9 +22,7 @@ This work is the first component of the 1978 four-story compilation and shares i
 
 ## Active checkpoint workflow
 
-Source batches now follow root [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](../../SOURCE_BATCH_CHECKPOINT_WORKFLOW.md). A five-scan batch is not completed in one large operation.
-
-For each bounded batch:
+Source batches follow root [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](../../SOURCE_BATCH_CHECKPOINT_WORKFLOW.md). A five-scan batch is processed as three separately committed checkpoints:
 
 1. **T1 — direct transcription / canonical records** → synchronize controls → commit;
 2. **T2 — independent historical-glyph re-read** → synchronize controls → commit;
@@ -31,16 +31,21 @@ For each bounded batch:
 
 Crops/enhancements are created only for genuinely uncertain readings.
 
+## Completed checkpoint — scans 6–10 / T1
+
+- five canonical page records created under `pages/`;
+- printed-page visibility preserved exactly: scan 6 `null`; scans 7–10 show **2, 3, 4, 5**;
+- scan 6 title illustration documented separately from narrative;
+- physical joins preserved without moving text:
+  - 7→8 `நடந்` / `தேறின.`;
+  - 8→9 `அபிநய` / `அசைவுகளை...`;
+  - 9→10 `...வைத்தியரை அழைத்து` / `வந்துவிடுகிறேன்”...`;
+- all five pages remain `needs-review` because T2 and T3 have not yet passed.
+
+Checkpoint record: [`T1_BATCH_006_010.md`](T1_BATCH_006_010.md).
+
 ## Exact next activity
 
-**T1 for physical scans 6–10 only.**
+**T2 for physical scans 6–10 only.**
 
-- visually transcribe each whole page once;
-- create one canonical page record per scan;
-- preserve printed-page visibility exactly: scan 6 remains `null`; scans 7–10 use only the directly visible printed numbers;
-- preserve illustrations/non-body material separately;
-- leave the records non-final (`needs-review`) because T2 and T3 have not yet run;
-- synchronize controls and commit immediately;
-- stop before the independent historical-glyph re-read.
-
-Do not begin scan 11 or another component in the same checkpoint.
+Independently re-read all five scans under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, explicitly check the full known sensitive-family set, correct only source-supported character identity, record any corrections/unresolved glyphs, synchronize controls and commit. Stop before T3 and do not begin scan 11.

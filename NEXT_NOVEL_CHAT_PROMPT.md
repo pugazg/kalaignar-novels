@@ -1,4 +1,4 @@
-# Next Chat Prompt — அரும்பு / scans 6–10 / T1 transcription checkpoint
+# Next Chat Prompt — அரும்பு / scans 6–10 / T2 historical-glyph checkpoint
 
 Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections/arumbu-1978/`, active work `works/arumbu/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -14,16 +14,14 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 - முதற் பதிப்பு 1978
 - source PDF must **not** be committed.
 
-## Compilation structure — durable
+## Durable compilation structure
 
 - scans 1–5 — collection front matter;
 - scans 6–23 — `அரும்பு` — ACTIVE;
 - scans 24–48 — `சாரப்பள்ளம் சாமுண்டி` — queued;
-- scans 49–74 — `பெரிய இடத்துப் பெண்` — registered only as a second witness to existing work;
+- scans 49–74 — `பெரிய இடத்துப் பெண்` — registered only as an additional witness;
 - scans 75–90 — `நடுத்தெரு நாராயணி` — queued;
 - scans 91–92 — publisher catalogue/back cover.
-
-Collection intake and all four component boundaries are **REGISTERED / COMPLETE**. No narrative transcription from this PDF has yet been durably committed.
 
 ## Mandatory startup
 
@@ -33,41 +31,43 @@ Read before source-dependent work:
 2. `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`;
 3. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
 4. root `HANDOVER.md`;
-5. `collections/arumbu-1978/README.md`;
-6. `collections/arumbu-1978/metadata/source.md`;
-7. `collections/arumbu-1978/indexes/work-map.md`;
-8. `works/arumbu/README.md`;
-9. `works/arumbu/metadata/source.md`;
-10. `works/arumbu/indexes/page-map.md`;
-11. `works/arumbu/audit.md`.
+5. `works/arumbu/README.md`;
+6. `works/arumbu/indexes/page-map.md`;
+7. `works/arumbu/audit.md`;
+8. `works/arumbu/T1_BATCH_006_010.md`;
+9. canonical records `works/arumbu/pages/0006-arumbu-01.md` through `0010-arumbu-05.md`.
 
-## Small-task workflow — mandatory
+## Durable T1 state — scans 6–10
 
-Do **not** process transcription + historical-glyph audit + closure in one operation.
+T1 direct transcription/canonical-record checkpoint is **PASS / COMPLETE**.
 
-For scans 6–10 the durable sequence is:
+- canonical records: **5 / 18 total work scans**;
+- scan 6 printed page: `null`;
+- scans 7–10 printed pages: **2, 3, 4, 5**;
+- all five records remain `needs-review`;
+- no page is verified;
+- T2 and T3 remain separate commits.
 
-- **T1** direct visual transcription + canonical records + exact printed-page visibility → control sync → commit;
-- **T2** independent historical-glyph re-read → control sync → commit;
-- **T3** final source-fidelity closure → control sync → commit;
-- only then begin scans 11–15.
+Preserved physical joins:
 
-Each task is a separate commit. Crops/enhancements are created only for genuinely uncertain readings.
+- 7→8 `நடந்` / `தேறின.`;
+- 8→9 `அபிநய` / `அசைவுகளை...`;
+- 9→10 `...வைத்தியரை அழைத்து` / `வந்துவிடுகிறேன்”...`.
 
-## Exact next activity — T1 only
+## Exact next activity — T2 only
 
-Process physical scans **6–10**:
+Perform an **independent historical-glyph re-read of physical scans 6–10**.
 
-- visually transcribe each whole page once;
-- create one canonical record per scan under `works/arumbu/pages/`;
-- scan 6 opening printed page number is **not visibly present**; use `printed_page: null`;
-- scans 7–10: preserve only the directly visible printed numbers;
-- preserve illustrations and non-body marks separately from narrative;
-- preserve physical page-boundary fragments exactly and document joins without silently moving text;
-- do not use OCR/context as authority;
-- do **not** run the independent historical-glyph T2 re-read yet;
-- leave the five page records `needs-review` because T2 and T3 remain pending;
-- synchronize controls and commit T1 immediately;
+- re-read every complete page from source pixels rather than merely proofreading T1 text;
+- explicitly check the full known sensitive-family set:
+  `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- compare clearer same-edition forms when needed;
+- correct Unicode character identity only where the source directly supports it;
+- do not modernize spelling, grammar, punctuation or vocabulary;
+- create crops/enhancements only when an actual glyph reading is uncertain;
+- update page-level notes and work audit with every correction or unresolved form;
+- keep pages `needs-review` because T3 has not yet run;
+- synchronize controls and commit T2 immediately;
 - stop.
 
-Do **not** start scan 11, T2, another component, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in this checkpoint.
+Do **not** perform T3, begin scan 11, start another component, or compare the 1978 `பெரிய இடத்துப் பெண்` witness in the same checkpoint.

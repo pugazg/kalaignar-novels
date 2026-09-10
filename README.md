@@ -14,11 +14,11 @@
 
 ## Active source — `அரும்பு` 1978 compilation
 
-The newly registered source [`collections/arumbu-1978/`](collections/arumbu-1978/README.md) is a **92-scan first-edition 1978 compilation containing four distinct Kalaignar stories**. Collection/source intake is complete; narrative transcription has not yet been durably committed.
+[`collections/arumbu-1978/`](collections/arumbu-1978/README.md) is a **92-scan first-edition 1978 compilation containing four distinct Kalaignar stories**. Collection/source intake is complete.
 
 Component handling:
 
-- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **active next work**;
+- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **ACTIVE**;
 - [`சாரப்பள்ளம் சாமுண்டி`](works/sarapallam-samundi/README.md) — scans 24–48 — registered / queued;
 - [`பெரிய இடத்துப் பெண்`](works/periya-idathup-pen/README.md) — scans 49–74 — registered as an **additional witness** to the existing work, not a duplicate;
 - [`நடுத்தெரு நாராயணி`](works/nadutheru-narayani/README.md) — scans 75–90 — registered / queued.
@@ -27,13 +27,22 @@ Collection front matter is scans 1–5; publisher catalogue/back-cover matter is
 
 ### Active small-task checkpoint
 
-The user requested that each five-scan source batch be split into smaller durable tasks. `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md` now requires a separate control synchronization and commit after each stage:
+Source batches use three separately committed checkpoints:
 
 1. T1 direct transcription/canonical records;
 2. T2 independent historical-glyph re-read;
 3. T3 final source-fidelity closure.
 
-Exact next action: **`அரும்பு` scans 6–10 / T1 only**. Complete the direct visual transcription and canonical page records, synchronize controls, commit, and stop before T2.
+Current `அரும்பு` state:
+
+- canonical records: **5 / 18** — scans 6–10;
+- scans 6–10 T1: **PASS / COMPLETE**;
+- pages verified: **0**; all five remain `needs-review`;
+- scans 6–10 T2: **NEXT**;
+- scans 6–10 T3: BLOCKED by T2;
+- scans 11–15: blocked until current batch passes T3.
+
+Exact next action: **`அரும்பு` scans 6–10 / T2 only**. Independently re-read the five pages for historical Tamil glyph identity, synchronize controls, commit, and stop before T3.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 
