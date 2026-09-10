@@ -17,12 +17,12 @@ This is translation, not modernization or adaptation. Canonical Tamil `../../pag
 | Section 14 plan | **PASS / COMPLETE** |
 | Batch 1 scans 6–10 | **REVIEWED / COMPLETE** |
 | Batch 2 scans 11–15 | **REVIEWED / COMPLETE** |
-| Batch 3 scans 16–20 | **REVIEWED / COMPLETE; scan-17 sentence requires whole-work corrective recheck** |
+| Batch 3 scans 16–20 | **REVIEWED / COMPLETE after later scan-17 corrective verification** |
 | Batch 4 scans 21–23 | **REVIEWED / COMPLETE** |
 | English physical coverage | **18 / 18 scans** |
-| Section 16 whole-work review | **previously PASS; corrective re-open required** |
-| Whole-work VERIFIED label | **SUSPENDED pending corrective recheck** |
-| Section 17 release-readiness | **NOT READY — 1 fidelity blocker** |
+| Section 16 whole-work review | **PASS / COMPLETE including corrective re-open** |
+| Whole-work English | **VERIFIED** |
+| Section 17 release-readiness | **RERUN NEXT — previous NOT READY blocker resolved** |
 
 ## Translation policy
 
@@ -35,27 +35,22 @@ This is translation, not modernization or adaptation. Canonical Tamil `../../pag
 - retain reversible scan/page provenance;
 - do not invent chapters, printed pages or ending markers.
 
-## Established source decisions
+## Protected source decisions
 
-`GLOSSARY.md` remains the detailed lock authority. Existing protected forms include:
+`GLOSSARY.md` is the detailed lock authority. Important source-confirmed oddities include:
 
+- scan 17 `எனக்குப் பொய் அம்மா வேணும்!` → **I want a fake Amma!** — affirmative source wording retained despite contextual strangeness;
 - scan 22 `பேசினேன்` → **I spoke**;
 - scan 23 `அம்மனார்` → **Ammanar**;
 - scan 23 `இனி:......` → **from now on:......**;
 - no explicit `முற்றும்` → no **The End**.
 
-## Release-preflight corrective finding
+## Section 16 final state
 
-Section 17 found that canonical scan 17 reads:
+The original whole-work review made three English-only corrections. Section 17 preflight then found one further scan-17 mismatch; a narrow Section 16 corrective re-open preserved affirmative `வேணும்`, rechecked the full paragraph and joins, and restored whole-work English **VERIFIED**.
 
-`எனக்குப் பொய் அம்மா வேணும்! நிஜ அம்மாதான் வேணும்!`
-
-while current English says:
-
-`I don't want a fake Amma! I want my real Amma!`
-
-The English inserts `don't`, absent from the audited source. Direct scan re-inspection supports affirmative `வேணும்`. This must be corrected under a narrow Section 16 re-open before whole-work VERIFIED can be restored and Section 17 rerun.
+Total Section-16 English-only corrections: **4**. Canonical Tamil changes: **0**. Unresolved translation items: **0**.
 
 ## Exact next activity
 
-Correct/recheck the scan-17 English sentence only, document the source-confirmed affirmative oddity in `GLOSSARY.md` and `TRANSLATION_REVIEW.md`, restore VERIFIED only after the corrective comparison passes, synchronize controls, commit, and stop. Then rerun Section 17 in a separate checkpoint.
+Rerun **Section 17 release-readiness** using the corrected English. Do not begin another component in the same checkpoint.
