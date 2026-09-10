@@ -55,12 +55,12 @@ Each English chapter file is created only when that chapter is translated. Empty
 
 ## 4. Controlled batch plan
 
-Use a small bounded workflow. Batch 1 is a mandatory single-chapter pilot; subsequent default batches cover at most three contiguous chapters. A larger batch requires explicit user authorization.
+Use a small bounded workflow. Batch 1 is the mandatory single-chapter pilot; subsequent default batches cover at most three contiguous chapters. A larger batch requires explicit user authorization.
 
 | Batch | Tamil chapters | Source coverage | English destinations | Status |
 |---|---|---|---|---|
-| **1 — pilot** | 1 | scans 4–12 | `sections/01-chapter-01.md` | planned |
-| **2** | 2–4 | scan 13 → scan 45 before centered `5` | `02`–`04` | planned |
+| **1 — pilot** | 1 | scans 4–12 | `sections/01-chapter-01.md` | **REVIEWED / COMPLETE** |
+| **2** | 2–4 | scan 13 → scan 45 before centered `5` | `02`–`04` | **NEXT / NOT STARTED** |
 | **3** | 5–7 | scan 45 after centered `5` → scan 68 before centered `8` | `05`–`07` | planned |
 | **4** | 8–10 | scan 68 after centered `8` → scan 92 before centered `11` | `08`–`10` | planned |
 | **5** | 11–13 | scan 92 after centered `11` → scan 115 before centered `14` | `11`–`13` | planned |
@@ -75,9 +75,9 @@ Chapter boundaries remain exactly those of the PASSED Tamil reading layer. In pa
 
 ## 5. Pilot / style lock
 
-Batch 1 / Chapter 1 is the style pilot.
+Batch 1 / Chapter 1 was the style pilot and is now **REVIEWED / COMPLETE**.
 
-Before Batch 2 begins, review Chapter 1 for:
+The pilot review checked:
 
 - narrator voice and paragraph rhythm;
 - handling of `வெள்ளிக்கிழமை` / Friday as a repeated thematic word;
@@ -86,9 +86,10 @@ Before Batch 2 begins, review Chapter 1 for:
 - colloquial speech versus narration;
 - names/place forms encountered in the pilot;
 - source-page provenance comments;
-- treatment of source punctuation without mechanical modernization.
+- treatment of source punctuation without mechanical modernization;
+- translation of Tiruppavai excerpts only from the lines printed in this source edition.
 
-After pilot review, update `GLOSSARY.md` and freeze recurring decisions unless later source context genuinely requires a documented change.
+The resulting recurring choices are now locked in `GLOSSARY.md` unless later source context genuinely requires a documented change.
 
 ---
 
@@ -111,23 +112,23 @@ After pilot review, update `GLOSSARY.md` and freeze recurring decisions unless l
 
 Use stable readable romanization without diacritics unless an established English form is clearly preferable. Preserve source distinctions between a full name and a shortened/familiar form.
 
-Initial consistency table — to be confirmed during the pilot and early batches:
+Chapter 1-confirmed entries are locked in `GLOSSARY.md`; later names below remain seed decisions until first reviewed use.
 
 | Tamil source form | Planned English form | Policy |
 |---|---|---|
-| `சிந்தாமணி` | **Chintamani** | stable readable form |
-| `அழகப்பன்` | **Azhagappan** | full name |
-| `அழகு` | **Azhagu** | preserve shortened/familiar source form; do not silently expand |
-| `நயினா முகம்மது` | **Naina Muhammad** | stable readable form; retain full name where source uses it |
-| `நயினா` | **Naina** | preserve source-shortened form |
-| `ஆனந்தி` | **Anandi** | conservative readable form |
-| `சிவகாமி` | **Sivakami** | conservative readable form |
-| `சிவநேசர்` | **Sivanesar** | conservative readable form |
+| `சிந்தாமணி` | **Chintamani** | **LOCKED in Chapter 1** |
+| `அழகப்பன்` | **Azhagappan** | full name; seed |
+| `அழகு` | **Azhagu** | preserve shortened/familiar source form; seed |
+| `நயினா முகம்மது` | **Naina Muhammad** | stable readable form; seed |
+| `நயினா` | **Naina** | preserve source-shortened form; seed |
+| `ஆனந்தி` | **Anandi** | conservative readable form; seed |
+| `சிவகாமி` | **Sivakami** | conservative readable form; seed |
+| `சிவநேசர்` | **Sivanesar** | conservative readable form; seed |
 | `டைகர்` | **Tiger** | source itself uses the English-derived name |
 | `பாலகங்காதரத் தேவர்` | **Balagangadhara Thevar** | conservative form; do not add an external historical identity |
 | `இடும்பன்` | **Idumban** | conservative readable form |
-| `வேதபுரம்` | **Vedapuram** | source-facing place form |
-| `பாலையூர்` | **Palaiyur** | source-facing place form |
+| `வேதபுரம்` | **Vedapuram** | **LOCKED in Chapter 1** |
+| `பாலையூர்` | **Palaiyur** | source-facing place form; seed |
 | `பெங்களூர்` | **Bangalore** | stable English form appropriate to the source period |
 
 This table is a consistency tool for English only. It never authorizes changes to Tamil `pages/` or `sections/`.
@@ -147,7 +148,7 @@ Policy:
 - `மதம்` → **religion / faith** according to context; do not erase the distinction when characters explicitly discuss conversion or difference;
 - `ராமாயணம்` → **Ramayana**;
 - `மணிமேகலை` → **Manimekalai**;
-- Christian / church references should use standard English terms when the Tamil clearly uses those identities;
+- Christian / church references use standard English terms when the Tamil clearly uses those identities;
 - terms carrying sexual or moral stigma such as `விபச்சாரி`, `வேசி`, `வைப்பாட்டி` must be translated with equivalent force appropriate to the immediate sentence — neither euphemized nor intensified — and recurring choices must be documented in `GLOSSARY.md`;
 - caste/religious insults, jokes, criticism or polemic belong to the source voice or character voice; do not add present-day approval/disapproval inside the translation.
 
@@ -204,14 +205,14 @@ Printed-page anomalies are also preserved in provenance. For example, scan 66 vi
 
 ## 12. Page/source traceability
 
-Each English chapter file must include front matter similar to:
+Each English chapter file includes front matter similar to:
 
 ```yaml
 ---
 work: "vellikkizhamai"
 chapter: 1
 language: "en"
-translation_status: "draft-translated"
+translation_status: "reviewed"
 source_section: "../../../sections/01-chapter-01.md"
 source_scans: "4-12"
 canonical_source: "../../../pages/"
@@ -221,7 +222,7 @@ canonical_source: "../../../pages/"
 Retain unobtrusive HTML comments at meaningful source boundaries:
 
 ```html
-<!-- source: scan 12; printed page 11 -->
+<!-- source: scan 12; printed page: 11 -->
 ```
 
 For a verified cross-page join:
@@ -330,12 +331,15 @@ After whole-work English verification, complete `RELEASE_REPORT.md` and confirm:
 **Tamil assembled reading layer:** PASSED  
 **English translation plan:** COMPLETE  
 **English package scaffolding:** INITIALIZED  
-**English translation prose:** NOT STARTED
+**English translation prose:** **1 / 23 chapters REVIEWED**  
+**Pilot style / glossary lock:** **COMPLETE**
 
 ### Exact next activity
 
-Run **Batch 1 — pilot: Chapter 1 only**, translating `../../sections/01-chapter-01.md` / scans **4–12** into:
+Run **Batch 2 — Chapters 2–4**:
 
-`sections/01-chapter-01.md`
+- Chapter 2 — scans **13–22**;
+- Chapter 3 — scan **23 through scan 33 before centered `4`**;
+- Chapter 4 — scan **33 after centered `4` through scan 45 before centered `5`**.
 
-Then source-check and review that pilot, update `GLOSSARY.md` with locked style/terminology decisions, and commit before starting Batch 2.
+Create `sections/02-chapter-02.md` through `04-chapter-04.md`, source-check each against canonical Tamil `pages/`, review the complete bounded batch and update controls before starting Chapter 5.

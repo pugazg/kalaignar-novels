@@ -17,13 +17,13 @@ working_title: "Friday"
 
 <!-- source: scan 4; printed page: — -->
 
-“Tomorrow dawns Friday. A very special day for me. How many Fridays have come and gone in my life; many more are yet to come. Yet where has this one Friday alone acquired such immense importance! The more I think of it, the sweeter my heart feels. My wonder only grows. When I was young—in my school days—the day on which my mother gave birth to me was simply Sunday. But now the question, ‘Even if a thousand Sundays came, could they equal the Friday that is about to come to me?’ rises majestically in my heart like a warrior riding on horseback with a banner flying. How is that?
+“When dawn breaks, it will be Friday. A very special day for me. How many Fridays have come and gone in my life; many more are yet to come. Yet where has this one Friday alone acquired such immense importance! The more I think of it, the sweeter my heart feels. My wonder only grows. When I was young—in my school days—the day on which my mother gave birth to me was simply Sunday. But now the question, ‘Even if a thousand Sundays came, could they equal the Friday I am about to reach?’ rises majestically in my heart like a warrior riding on horseback with a banner flying. How is that?
 
 “This evening a band of mendicants went along the street begging. One of them went singing, ‘The horse was born on Friday, Raja Desingu.’ I have read that song many times in our large-print Raja Desingu book; I have heard it too. Why should it stir in me today a feeling it never stirred before! Whether Raja Desingu’s horse was born on Friday or Saturday—or whether it had never been born at all—my heart used to pour out a dismissive laugh. Why is that rustic song alone now sinking deep into it and producing some<!-- source join: scan 4 ends `ஏதோ`; scan 5 begins `இன்பக்கனவுகளோ` --> sweet dreams? My friend Kili in the next street says that in her Christian religion one Friday in the year is a Friday of great significance, a day sacred to Jesus, and she goes to church. Even then Friday never acquired such great importance in my heart.
 
 <!-- source: scan 5; printed page: 4 -->
 
-“‘On a Friday of all days—without cleaning the house and threshold, without smearing the floor with cow-dung, without drawing a kolam and beautifying the place—can a family woman be so lazy?’ I have seen mothers-in-law in many houses turn that question into a thunderbolt for battle. I have also seen them light a fine lamp for the household deity on Friday evening and make an offering.
+“‘On a Friday of all days—without cleaning the house and threshold, without smearing the floor with cow-dung, without drawing a kolam and beautifying the place—can a woman of the household be so lazy?’ I have seen mothers-in-law in many houses turn that question into a thunderbolt for battle. I have also seen them light a fine lamp for the household deity on Friday evening and make an offering.
 
 “I remember well a Bhagavathar at a comic concert held in our street saying that Friday was as sacred to women as the mangalyam, turmeric and kumkum, and winning the unanimous applause of the women of the street. Whenever anyone starts listing the names of the weekdays, laughter wells up in me.
 
@@ -31,7 +31,7 @@ working_title: "Friday"
 
 <!-- source: scan 6; printed page: 5 -->
 
-“The day Mahatma Gandhi, that noble man of the world, was killed was also a Friday. A Friday bathed in the tears of the world’s people, tossed about by their sighs, and gone forever! Only now do I realize that Friday has the power not merely to become the lap that bore Gandhi’s corpse, but also to become the auspicious turmeric that will plunge me into joy. Do I realize it... or am I babbling something? Shame! Shame! It feels as though I have spoken aloud—what if someone hears me! If they do, by morning they will beat the drum all over the village and make us hang our head before they attend to anything else!”
+“The day Mahatma Gandhi, that noble man of the world, was killed was also a Friday. A Friday bathed in the tears of the world’s people, tossed about by their sighs, and gone forever! Only now do I realize that Friday has the power not merely to become the lap that bore Gandhi’s corpse, but also to become the turmeric that will plunge me into joy. Do I realize it... or am I babbling something? Tch! Tch! It feels as though I have spoken aloud—what if someone hears me! If they do, by morning they will beat the drum all over the village and make us hang our heads before they attend to anything else!”
 
 Chintamani kept tossing on her bed. Waves of thought rolled and rolled within her.
 
@@ -63,7 +63,7 @@ All night she had been confused by thoughts, troubled by sleeplessness, finding 
 
 <!-- source: scan 10; printed page: 9 -->
 
-In a little while her friends would come to call her for a bath! They came every day. Vedapuram was neither quite village nor quite town, and until seven in the morning its large pond belonged only to the women of that area. Young women in the bloom of youth left home at daybreak like pigeons flying from their cote and finished their duties before men began moving about, returning home again. Chintamani belonged to one part of that flock. Was she not a young vine in bloom too? And among that whole group, Chintamani was the one who rose from bed a little later in the morning!
+In a little while her friends would come to call her for a bath! They came every day. Vedapuram was neither quite village nor quite town, and until seven in the morning its large pond belonged only to the women of that area. Young women in the bloom of youth left home at daybreak like pigeons flying from their cote and finished their duties before men began moving about, returning home again. Chintamani was one of that flock. Was she not a young vine in bloom too? And among that whole group, Chintamani was the one who rose from bed a little later in the morning!
 
 Her friends would come, pester her awake and take her along to bathe.
 
@@ -107,7 +107,7 @@ Before Andal had even finished singing, Chintamani could no longer bear her ange
 
 “Andal! What kind of indecent song is this? Stop! Stop!” Chintamani ordered.
 
-“This is not a song by *this* Andal, dear! It is a devotional song that Mother Andal, the sacred daughter of Periyalvar, sang to Perumal!” Andal said with a laugh. The whole group burst into laughter and set out toward the bathing pond.
+“This is not a song by *this* Andal, dear! It is a devotional song that Mother Andal, the sacred daughter of Periyalvar, sang to Perumal!” Andal said with a laugh. The whole group burst into laughter and set out toward the sacred pond.
 
 With a copper pot resting on her slender waist, Chintamani walked like the moon among the stars. She became the lotus of that lotusless pond. Even the green sari she wore did not have the fortune of enjoying the full beauty of her body, which could make one wonder whether it was ivory or gold; but that crystal-clear pond enjoyed that great fortune every dawn. Scooping up and splashing the pond water, singing and dancing, carried by a flood of feeling that rose without her even realizing it, Chintamani bathed, swam and played.
 

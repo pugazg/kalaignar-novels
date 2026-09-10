@@ -6,7 +6,8 @@
 
 This file is initialized as the final-review control only. The bilingual review must not run until all 23 English chapter files have completed batch-level source checks and review.
 
-Current English chapters reviewed: **0 / 23**.
+Current English chapters reviewed: **1 / 23**.  
+Reviewed source coverage: **scans 4–12 / Chapter 1**.
 
 ## Preconditions
 
@@ -37,6 +38,10 @@ When opened, review the whole work end-to-end for:
 13. English readability without modernization or adaptation;
 14. canonical Tamil unchanged by translation work.
 
+## Current batch evidence
+
+Batch 1 / Chapter 1 is **REVIEWED / COMPLETE** and may be treated as passed batch-level evidence when the final gate eventually runs. It does not by itself open the whole-work review.
+
 ## Verdict
 
-**PENDING.** Whole-work English must not be called `verified` until this file records a completed PASS.
+**PENDING / BLOCKED.** Whole-work English must not be called `verified` until 23 / 23 chapters are reviewed and this file records a completed PASS.

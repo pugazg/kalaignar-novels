@@ -38,27 +38,49 @@ Fetch live `main` first and preserve newer durable work. Do not reopen completed
 
 Known literal discontinuities remain at scans 117→118, 122→123 and 156→157. Chapter 15 ends on scan 126; Chapter 16 opens cleanly on scan 127. Scan 179 contributes final narrative only in the reading layer.
 
-## English planning state
+## English translation state
 
 Working English title: **_Friday_**.
 
 - `translations/en/TRANSLATION_PLAN.md` — **COMPLETE**;
-- English `README.md` — initialized;
-- `PROGRESS.md` — initialized;
-- `GLOSSARY.md` — initialized with seed consistency decisions;
-- `sections/README.md` — planned 23-chapter inventory;
-- `TRANSLATION_REVIEW.md` — initialized / **BLOCKED**;
-- `RELEASE_REPORT.md` — initialized / **BLOCKED**;
-- English chapter prose — **NOT STARTED — 0 / 23**.
+- Batch 1 pilot / Chapter 1 — **REVIEWED / COMPLETE**;
+- English chapter files present — **1 / 23**;
+- reviewed English chapters — **1 / 23**;
+- English source coverage — **scans 4–12**;
+- `GLOSSARY.md` — pilot style/terminology decisions **LOCKED**;
+- `TRANSLATION_REVIEW.md` — **BLOCKED** until 23 / 23 chapters are reviewed;
+- `RELEASE_REPORT.md` — **BLOCKED** until bilingual review passes.
 
-Final English structure mirrors the Tamil chapters one-to-one. Batch 1 is a single-chapter pilot. Subsequent default batches contain at most three contiguous chapters unless the user explicitly authorizes a larger batch.
+## Batch 1 pilot closure
 
-The plan requires source-bound readable English; no summarization; preservation of agency, dialogue, emotional/rhetorical force, religious/caste/social language and source oddities; page provenance; and no silent repair of the three known physical discontinuities.
+File:
 
-## Batch map
+`works/vellikkizhamai/translations/en/sections/01-chapter-01.md`
 
-1. Chapter 1 / scans 4–12 — **pilot / NEXT**;
-2. Chapters 2–4 — scan 13 → scan 45 before centered `5`;
+Source-check authority:
+
+- PASSED Tamil `works/vellikkizhamai/sections/01-chapter-01.md` for continuous reading;
+- canonical verified page records for scans **4–12** (`0004` through `0012`) for textual checking.
+
+Pilot result: **PASS / REVIEWED — 0 unresolved / 0 Tamil changes**.
+
+Verified pilot properties:
+
+- all substantive Chapter 1 content represented in order;
+- source scan / printed-page provenance preserved;
+- reversible joins retained at scans 4→5, 5→6, 8→9 and 10→11;
+- Chintamani’s first-person monologue and subsequent third-person narration remain distinct;
+- rhetorical questions, weekday jokes, repeated exclamations, religious/cultural references and emotional force preserved;
+- Tiruppavai excerpts translated only from the lines printed in this edition;
+- no external canonical verse translation or modern doctrinal explanation inserted;
+- canonical Tamil files unchanged.
+
+Pilot style and terminology choices are now durable in `translations/en/GLOSSARY.md`.
+
+## Remaining batch map
+
+1. Chapter 1 / scans 4–12 — **REVIEWED / COMPLETE**;
+2. Chapters 2–4 — scan 13 → scan 45 before centered `5` — **NEXT**;
 3. Chapters 5–7 — scan 45 after centered `5` → scan 68 before centered `8`;
 4. Chapters 8–10 — scan 68 after centered `8` → scan 92 before centered `11`;
 5. Chapters 11–13 — scan 92 after centered `11` → scan 115 before centered `14`;
@@ -67,23 +89,16 @@ The plan requires source-bound readable English; no summarization; preservation 
 8. Chapters 20–21 — scan 154 after centered `20` → scan 166 before centered `22`;
 9. Chapters 22–23 — scan 166 after centered `22` → final narrative scan 179.
 
+Default batches after the pilot contain at most three contiguous chapters. A larger batch requires explicit user authorization.
+
 ## Exact next activity
 
-Run **English Batch 1 pilot — Chapter 1 only**.
+Run **English Batch 2 — Chapters 2–4**.
 
-Create:
+Create and fully review:
 
-`works/vellikkizhamai/translations/en/sections/01-chapter-01.md`
+- `works/vellikkizhamai/translations/en/sections/02-chapter-02.md` — scans 13–22;
+- `works/vellikkizhamai/translations/en/sections/03-chapter-03.md` — scan 23 through scan 33 before centered `4`;
+- `works/vellikkizhamai/translations/en/sections/04-chapter-04.md` — scan 33 after centered `4` through scan 45 before centered `5`.
 
-Source: PASSED Tamil `works/vellikkizhamai/sections/01-chapter-01.md`, scans **4–12**, with canonical `pages/` as source-check authority.
-
-Requirements:
-
-- translate all substantive Tamil content; no summary/omission;
-- retain source provenance comments;
-- preserve narrator voice, rhetorical questions, repetition, religious references and source punctuation force;
-- source-check every English paragraph/dialogue unit against canonical Tamil pages;
-- review readability without modernization;
-- update `GLOSSARY.md` with locked pilot decisions;
-- update `PROGRESS.md`, English/work/root status docs;
-- commit the bounded pilot before Batch 2.
+Use PASSED Tamil sections for continuous reading and canonical `pages/` for source checking. Translate every substantive unit, preserve provenance and locked pilot conventions, source-check/review all three chapters, synchronize controls, and commit the bounded batch. Do **not** start Chapter 5 in the same default iteration.

@@ -15,7 +15,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
 - final assembled consistency gate: **PASSED — 0 unresolved / 0 canonical changes**;
 - English translation plan: **COMPLETE**;
-- English prose: **NOT STARTED — 0 / 23 chapters**.
+- English prose: **Chapter 1 REVIEWED — 1 / 23 chapters; scans 4–12**.
 
 ## Printed-page mapping
 
@@ -54,14 +54,14 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - scan 172 — Chapter 22→23 boundary, centered `23`;
 - scan 179 — final Chapter 23 narrative page plus non-body illustration / later handwriting.
 
-## Assembled Tamil chapter coverage
+## Tamil / English chapter coverage
 
 | Chapter | Source coverage | Tamil status | English status |
 |---:|---|---|---|
-| 1 | scans 4–12 | **VERIFIED** | **NEXT / NOT STARTED** |
-| 2 | scans 13–22 | **VERIFIED** | planned |
-| 3 | scan 23 → scan 33 before centered `4` | **VERIFIED** | planned |
-| 4 | scan 33 after centered `4` → scan 45 before centered `5` | **VERIFIED** | planned |
+| 1 | scans 4–12 | **VERIFIED** | **REVIEWED / COMPLETE** |
+| 2 | scans 13–22 | **VERIFIED** | **NEXT / Batch 2** |
+| 3 | scan 23 → scan 33 before centered `4` | **VERIFIED** | **NEXT / Batch 2** |
+| 4 | scan 33 after centered `4` → scan 45 before centered `5` | **VERIFIED** | **NEXT / Batch 2** |
 | 5 | scan 45 after centered `5` → scan 51 | **VERIFIED** | planned |
 | 6 | scan 52 → scan 59 before centered `7` | **VERIFIED** | planned |
 | 7 | scan 59 after centered `7` → scan 68 before centered `8` | **VERIFIED** | planned |
@@ -82,10 +82,28 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 | 22 | scan 166 after centered `22` → scan 172 before centered `23` | **VERIFIED** | planned |
 | 23 | scan 172 after centered `23` → scan 179 | **VERIFIED** | planned |
 
+## English Chapter 1 pilot mapping
+
+Chapter 1 English uses source markers for scans 4–12 and preserves the actual printed-page behavior:
+
+- scan 4 — no printed number;
+- scans 5–8 — printed 4–7;
+- scan 9 — no printed number;
+- scans 10–12 — printed 9–11.
+
+Verified source joins represented reversibly in the English pilot:
+
+- scan 4 `ஏதோ` → scan 5 `இன்பக்கனவுகளோ`;
+- scan 5 `அவைகளே` → scan 6 `கேலிக்குரியதாக`;
+- scan 8 `கிழக்கு வானம் வெளுக்கத்` → scan 9 `துவங்கிவிட்டது.`;
+- scan 10 `இருந்தாள்—` → scan 11 opening quoted question.
+
+Pilot status: **REVIEWED / COMPLETE — 0 unresolved / 0 Tamil changes**.
+
 ## Translation planning note
 
-English mirrors this chapter map one-to-one. Batch 1 is Chapter 1 only; later default batches cover at most three contiguous chapters. English provenance must preserve the actual scan/printed-page mapping, including the scan-66 printed `5` anomaly, and must not repair known source discontinuities.
+English mirrors this chapter map one-to-one. After the reviewed Chapter 1 pilot, default batches cover at most three contiguous chapters. English provenance must preserve the actual scan/printed-page mapping, including the scan-66 printed `5` anomaly, and must not repair known source discontinuities.
 
 ## Exact next activity
 
-Translate and review **English Chapter 1 / scans 4–12** as the Batch 1 pilot. No later chapter is authorized in the same default iteration.
+Translate and review **English Batch 2 — Chapters 2–4**, covering scan 13 through scan 45 before centered `5`. Do not start Chapter 5 in the same default iteration.

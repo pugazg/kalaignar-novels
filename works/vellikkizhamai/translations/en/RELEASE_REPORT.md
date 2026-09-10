@@ -6,6 +6,8 @@
 
 This file is an initialized release-control placeholder. It must remain blocked until the whole-work bilingual review passes.
 
+Current English progress: **1 / 23 chapters reviewed; scans 4–12 complete**.
+
 ## Release preconditions
 
 The final release pass must confirm:
@@ -40,4 +42,4 @@ Release readiness is an archival/editorial verdict only; it does not itself dete
 
 ## Verdict
 
-**BLOCKED — English prose has not started.**
+**BLOCKED — English translation is in progress; 1 / 23 chapters are reviewed and the final bilingual review has not run.**

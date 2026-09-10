@@ -28,17 +28,20 @@
 - assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
 - final assembled Tamil consistency gate: **PASSED — 0 unresolved / 0 canonical changes**;
 - English translation plan: **COMPLETE**;
-- English control package: **INITIALIZED**;
-- English prose: **NOT STARTED — 0 / 23 chapters**;
-- next activity: **English Batch 1 pilot — Chapter 1 / scans 4–12**.
+- English Batch 1 pilot / Chapter 1: **REVIEWED / COMPLETE**;
+- English chapters present/reviewed: **1 / 23**;
+- English source coverage: **scans 4–12**;
+- next activity: **English Batch 2 — Chapters 2–4**.
 
 ### English translation structure
 
 Working English title: **_Friday_**.
 
-The final English layer mirrors the PASSED Tamil structure one-to-one as **23 chapter files**. Batch 1 is a single-chapter pilot; subsequent default batches cover at most three contiguous chapters unless the user explicitly authorizes a larger batch.
+The final English layer mirrors the PASSED Tamil structure one-to-one as **23 chapter files**. Batch 1 was the mandatory single-chapter pilot and has passed source/readability review. Subsequent default batches cover at most three contiguous chapters unless the user explicitly authorizes a larger batch.
 
-English controls are under [`works/vellikkizhamai/translations/en/`](works/vellikkizhamai/translations/en/). The bilingual review and release report are initialized but blocked until translation is complete. No English prose was created during the planning phase.
+English controls are under [`works/vellikkizhamai/translations/en/`](works/vellikkizhamai/translations/en/). Chapter 1 is available at [`sections/01-chapter-01.md`](works/vellikkizhamai/translations/en/sections/01-chapter-01.md). The bilingual review and release report remain blocked until all English chapters are reviewed.
+
+Batch 1 result: **PASS / REVIEWED — 0 unresolved / 0 Tamil changes**. Pilot style/terminology decisions are locked in the English glossary.
 
 ## Completed works
 
@@ -50,4 +53,4 @@ English controls are under [`works/vellikkizhamai/translations/en/`](works/velli
 
 ## Next activity
 
-Translate and review `வெள்ளிக்கிழமை` **Chapter 1 only** as English Batch 1, source scans **4–12**, then lock pilot glossary/style decisions and commit before Batch 2.
+Translate, source-check and review `வெள்ளிக்கிழமை` **Chapters 2–4** as English Batch 2, covering scan **13 through scan 45 before centered `5`**. Do not start Chapter 5 in the same default iteration.
