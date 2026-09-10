@@ -1,6 +1,6 @@
 # English Translation Glossary — அரும்பு
 
-Status: **WHOLE-WORK LOCKED — SECTION 16 PASS / ENGLISH VERIFIED**.
+Status: **WHOLE-WORK LOCKED — SECTION 16 PASS / ENGLISH VERIFIED, INCLUDING SCAN-17 CORRECTIVE RE-OPEN**.
 
 This file records source-bound translation decisions. Decisions marked **LOCKED** were source-checked and whole-work reviewed; they may change only through an explicit documented correction and never alter canonical Tamil silently.
 
@@ -47,6 +47,7 @@ This file records source-bound translation decisions. Decisions marked **LOCKED*
 | `வீர நெப்போலியன்` | **valiant Napoleon** | **LOCKED** |
 | `ராஜா` as affectionate child vocative | **my king** | **LOCKED** |
 | `பொய் அம்மா / நிஜ அம்மா / பொம்மை அம்மா` | **fake Amma / real Amma / doll Amma** | **LOCKED** |
+| scan 17 `எனக்குப் பொய் அம்மா வேணும்!` | **I want a fake Amma!** | **LOCKED** — preserve source-confirmed affirmative `வேணும்`; do not infer `வேணாம்` or insert an English negative from context |
 | `மூதேவி` | **Moodevi** | **LOCKED** — conservative transliteration; source notes Kumar does not know its meaning |
 | `தாழை மடல்` | **thazhai frond** | **LOCKED** |
 | scan 22 `பேசினேன்` | **I spoke** in `The phone rang; I spoke.` | **LOCKED** — preserve first-person anomaly |
@@ -54,13 +55,14 @@ This file records source-bound translation decisions. Decisions marked **LOCKED*
 | scan 23 `இனி:......` | **from now on:......** | **LOCKED** — retain colon-plus-six-dot form |
 | final-page absence of `முற்றும்` | no **The End** added | **LOCKED** |
 
-## Whole-work Section 16 corrections
+## Whole-work Section 16 corrections, including corrective re-open
 
 The final bilingual review changed English only, then rechecked each revision against canonical Tamil:
 
 - `ஒரு குறையும் இல்லாம காப்பாத்துங்க` → **keep him safe and sound**; the earlier `without any want` risked a material-deprivation reading absent from source;
 - scan 21→22 `அதற்கும் அவன்தானே காரணம்!` → **And wasn't Kumar the reason for that too?**; explicit naming removes an English-only antecedent ambiguity while preserving source responsibility;
 - scan 23 `தாய்மை உணர்ச்சி, பெண் குலத்தின் சொத்தாயிற்றே!` → **The feeling of motherhood belongs to womankind!**; avoids adding the earlier `inheritance` concept.
+- scan 17 release-preflight correction: `எனக்குப் பொய் அம்மா வேணும்! நிஜ அம்மாதான் வேணும்!` → **I want a fake Amma! It's my real Amma I want!**; preserves affirmative `வேணும்` exactly as source-supported instead of silently supplying the contextually expected negative.
 
 ## Locked style conventions
 
@@ -75,4 +77,4 @@ The final bilingual review changed English only, then rechecked each revision ag
 - verified cross-page fragments may be joined naturally but no false section/chapter boundary is introduced;
 - source-confirmed oddities remain visible/documented rather than silently repaired.
 
-Whole-work bilingual review: **PASS / COMPLETE**. Whole-work English: **VERIFIED**. See `TRANSLATION_REVIEW.md`.
+Whole-work bilingual review, including the narrow scan-17 corrective re-open: **PASS / COMPLETE**. Whole-work English: **VERIFIED**. Section 17 release-readiness must now be rerun separately. See `TRANSLATION_REVIEW.md` and `RELEASE_REPORT.md`.
