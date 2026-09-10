@@ -11,24 +11,31 @@
 - [`HANDOVER.md`](HANDOVER.md)
 - [`NEXT_NOVEL_CHAT_PROMPT.md`](NEXT_NOVEL_CHAT_PROMPT.md)
 
-## Current queue
+## Active source — `அரும்பு` 1978 compilation
 
-There is **no active unfinished work** at this checkpoint. The latest project, [`வெள்ளிக்கிழமை`](works/vellikkizhamai/README.md), has completed the full source-registration → Tamil audit → assembled Tamil → English translation → bilingual review → release-readiness workflow.
+The newly registered source [`collections/arumbu-1978/`](collections/arumbu-1978/README.md) is a **92-scan first-edition 1978 compilation containing four distinct Kalaignar stories**. Collection/source intake is complete; narrative transcription has not yet started.
 
-Exact next action: **onboard the next source edition** under `NOVEL_PROCESSING_GUIDE.md`. Do not reopen a completed work from a stale prompt unless genuinely new direct-source evidence appears.
+Component handling:
+
+- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **active next work**;
+- [`சாரப்பள்ளம் சாமுண்டி`](works/sarapallam-samundi/README.md) — scans 24–48 — registered / queued;
+- [`பெரிய இடத்துப் பெண்`](works/periya-idathup-pen/README.md) — scans 49–74 — registered as an **additional witness** to the existing work, not a duplicate;
+- [`நடுத்தெரு நாராயணி`](works/nadutheru-narayani/README.md) — scans 75–90 — registered / queued.
+
+Collection front matter is scans 1–5; publisher catalogue/back-cover matter is scans 91–92. The source PDF remains external to the repository.
+
+Exact next action: process `அரும்பு` physical scans **6–10** as the first five-scan source/transcription batch.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 
 [`works/vellikkizhamai/`](works/vellikkizhamai/README.md) — 1968 second edition, **179 / 179 canonical Tamil VERIFIED**, assembled Tamil **23 / 23 PASSED**, English **23 / 23 REVIEWED**, final bilingual review **PASSED**, whole-work English **VERIFIED**, Section 17 release-readiness **PASSED**.
-
-Final release report: [`works/vellikkizhamai/translations/en/RELEASE_REPORT.md`](works/vellikkizhamai/translations/en/RELEASE_REPORT.md).
 
 ## Completed works
 
 | நூல் | நிலை |
 |---|---|
 | [வெள்ளிக்கிழமை](works/vellikkizhamai/README.md) | Tamil 179/179 verified; assembled Tamil 23/23 PASSED; English VERIFIED; **release-ready** |
-| பெரிய இடத்துப் பெண் | Tamil source/assembly complete; English VERIFIED; release-ready with qualification |
+| [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | 1953 controlling edition; English VERIFIED; release-ready with qualification; 1978 additional witness registered |
 | புதையல் | canonical 448; 446 complete / 2 physical-loss needs-review; English VERIFIED; release-ready with qualification |
 | [பலிபீடம் நோக்கி](works/balipeedam-nokki/README.md) | Tamil 34/34 verified; assembled Tamil PASSED; English VERIFIED; release-ready |
 

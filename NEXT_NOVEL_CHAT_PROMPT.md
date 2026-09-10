@@ -1,50 +1,56 @@
-# Next Chat Prompt — Kalaignar Novels Archive / Next Source Intake
+# Next Chat Prompt — அரும்பு / physical scans 6–10
 
-Continue in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections/arumbu-1978/`, active work `works/arumbu/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Durable checkpoint
+## Controlling source
 
-There is no active unfinished work at this checkpoint.
+`TVA_BOK_0064361_அரும்பு.pdf`
 
-Latest completed work: `works/vellikkizhamai/` — **RELEASE-READY / CLOSED**.
+- SHA-256 `04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc`
+- **117,270,339 bytes**
+- **92 physical scans**
+- image-only
+- தமிழ்க்கனி பதிப்பகம், சென்னை-28
+- முதற் பதிப்பு 1978
+- source PDF must **not** be committed.
 
-`வெள்ளிக்கிழமை` durable state:
+## Compilation structure — durable
 
-- canonical Tamil — **179 / 179 VERIFIED**;
-- historical-glyph/full Tamil source audit — **PASSED**;
-- assembled Tamil — **23 / 23 PASSED**;
-- English chapters — **23 / 23 REVIEWED**;
-- final bilingual review — **PASSED**;
-- whole-work English — **VERIFIED**;
-- Section 17 release-readiness — **PASSED**;
-- unresolved Tamil / English holds — **0 / 0**;
-- final release report — `works/vellikkizhamai/translations/en/RELEASE_REPORT.md`.
+- scans 1–5 — collection front matter;
+- scans 6–23 — `அரும்பு` — ACTIVE;
+- scans 24–48 — `சாரப்பள்ளம் சாமுண்டி` — queued;
+- scans 49–74 — `பெரிய இடத்துப் பெண்` — registered only as a second witness to existing work;
+- scans 75–90 — `நடுத்தெரு நாராயணி` — queued;
+- scans 91–92 — publisher catalogue/back cover.
 
-Do **not** reopen `வெள்ளிக்கிழமை` from an older prompt unless genuinely new direct-source evidence, another edition, or a separately authorized derived-edition task appears.
+Collection intake and all four component boundaries are **REGISTERED / COMPLETE**. No narrative transcription from this PDF has started.
 
-## Mandatory startup for the next source
+## Mandatory startup
 
-Before changing anything:
+Read before source-dependent work:
 
-1. fetch live `main` and preserve newer durable work;
-2. read root `README.md`;
-3. read `NOVEL_PROCESSING_GUIDE.md` completely;
-4. read `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` if the new source uses historical Tamil print;
-5. read root `HANDOVER.md` and this prompt;
-6. inspect `works/` to determine whether the supplied work already has a directory;
-7. inspect the actual newly supplied source pages before trusting filename/title/year/edition assumptions;
-8. use `works/balipeedam-nokki/` and completed `works/vellikkizhamai/` only as workflow references, never as templates that override the new source's structure;
-9. do not commit any source PDF.
+1. `NOVEL_PROCESSING_GUIDE.md`;
+2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+3. root `HANDOVER.md`;
+4. `collections/arumbu-1978/README.md`;
+5. `collections/arumbu-1978/metadata/source.md`;
+6. `collections/arumbu-1978/indexes/work-map.md`;
+7. `works/arumbu/README.md`;
+8. `works/arumbu/metadata/source.md`;
+9. `works/arumbu/indexes/page-map.md`;
+10. `works/arumbu/audit.md`.
 
-## Exact next activity
+## Exact next activity — five scans only
 
-When the next source is supplied, run **source intake / registration**:
+Process physical scans **6–10** as the first `அரும்பு` batch.
 
-- establish title, author, publisher, edition/date and other bibliographic details from the actual scans;
-- record filename, SHA-256, size, physical scan count and scan condition;
-- identify printed-page numbering behaviour, blanks, illustrations, copy-specific marks and front/back matter;
-- create or reuse the correct `works/<slug>/` directory;
-- create/update `metadata/source.md`, initial `indexes/page-map.md`, work `README.md`, `audit.md`, root `HANDOVER.md` and this prompt;
-- only then open page-level transcription under the guide's source-first workflow.
+- visually transcribe each whole page once;
+- create one canonical record per physical scan under `works/arumbu/pages/`;
+- scan 6 opening printed page number is **not visibly present**; do not infer `1`;
+- record subsequent printed numbers only as directly visible;
+- preserve illustrations/non-body marks separately from printed narrative;
+- use source pixels to resolve historical glyph identity; no contextual/OCR guessing;
+- update page map, work audit, README, handover and this prompt;
+- commit the bounded five-scan batch immediately.
 
-If no new source is attached, stop at the completed checkpoint rather than inventing a next work.
+Do **not** start scan 11, `சாரப்பள்ளம் சாமுண்டி`, `நடுத்தெரு நாராயணி`, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same iteration.
