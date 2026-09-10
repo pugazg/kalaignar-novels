@@ -1,4 +1,4 @@
-# Next Chat Prompt — அரும்பு / Section 14 English translation plan
+# Next Chat Prompt — அரும்பு / English Batch 1 pilot scans 6–10
 
 Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections/arumbu-1978/`, active work `works/arumbu/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -17,7 +17,7 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 ## Durable compilation structure
 
 - scans 1–5 — collection front matter;
-- scans 6–23 — `அரும்பு` — **TAMIL SOURCE + ASSEMBLED TAMIL PASSED**;
+- scans 6–23 — `அரும்பு` — **TAMIL SOURCE + ASSEMBLED TAMIL + ENGLISH PLAN PASSED**;
 - scans 24–48 — `சாரப்பள்ளம் சாமுண்டி` — queued;
 - scans 49–74 — `பெரிய இடத்துப் பெண்` — additional witness only;
 - scans 75–90 — `நடுத்தெரு நாராயணி` — queued;
@@ -25,63 +25,66 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 
 ## Mandatory startup
 
-Read before English planning work:
+Read before English prose work:
 
-1. `NOVEL_PROCESSING_GUIDE.md`, especially Sections 13–15 and Section 14 in full;
+1. `NOVEL_PROCESSING_GUIDE.md`, especially Sections 14–16;
 2. root `HANDOVER.md`;
-3. `collections/arumbu-1978/README.md`;
-4. `works/arumbu/README.md`;
-5. `works/arumbu/audit.md`;
-6. `works/arumbu/indexes/page-map.md`;
-7. `works/arumbu/sections/README.md`;
-8. `works/arumbu/sections/01-arumbu.md`;
-9. consult audited canonical `works/arumbu/pages/` records whenever a wording/traceability decision needs the final textual authority.
+3. `works/arumbu/README.md`;
+4. `works/arumbu/audit.md`;
+5. `works/arumbu/sections/README.md`;
+6. `works/arumbu/sections/01-arumbu.md`;
+7. `works/arumbu/translations/en/TRANSLATION_PLAN.md` **in full**;
+8. `works/arumbu/translations/en/README.md`;
+9. `works/arumbu/translations/en/PROGRESS.md`;
+10. `works/arumbu/translations/en/GLOSSARY.md`;
+11. canonical page records `works/arumbu/pages/0006-arumbu-01.md` through `0010-arumbu-05.md`.
 
-Do not reopen Tamil source transcription or assembly unless genuinely new direct source evidence appears.
+Do not reopen Tamil source transcription or assembly unless genuinely new direct-source evidence appears.
 
 ## Durable `அரும்பு` state
 
 - physical source span: **scans 6–23 / 18 scans**;
-- canonical records: **18 / 18**;
-- verified records: **18 / 18 — scans 6–23 contiguous**;
+- canonical records: **18 / 18 VERIFIED**;
 - all T1/T2/T3 page-level gates: **PASS / COMPLETE**;
 - whole-work Tamil audit: **PASS / COMPLETE**;
-- Tamil source layer: **PASSED**;
-- unresolved historical glyphs: **0**;
-- unresolved source readings: **0**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
-- assembled file: `works/arumbu/sections/01-arumbu.md` — scans **6–23**;
-- English translation plan: **NEXT**;
-- English prose: **BLOCKED until the plan exists**.
+- English translation plan: **PASS / COMPLETE**;
+- working English title: **The Bud**;
+- English prose: **NOT STARTED**;
+- next checkpoint: **Batch 1 pilot — scans 6–10**.
 
-Important source/assembly facts to preserve:
+## Translation plan essentials
 
-- scan 6 has no directly visible printed number; no printed page 1 is inferred;
-- scan 13 / printed 8 → scan 14 / printed 10 is a source-visible pagination jump; do not invent page 9;
-- the 13→14 narrative join is `ஊற்றெடுத்துக் கிளம்பிவரும்` / `அருவி!`;
-- scan 22 source-confirmed `பேசினேன்` remains unchanged;
-- scan 23 source-confirmed `அம்மனார்` remains unchanged;
-- scan 23 source-confirmed final punctuation `இனி:......` remains unchanged;
-- scan 23 is the final physical page and has no explicit `முற்றும்`;
-- no source-backed chapter divisions exist; assembled Tamil is one continuous section;
-- canonical `pages/` remain the final textual authority; `sections/01-arumbu.md` is the reading-continuity derivative.
+Final English structure is one continuous section, translated in four controlled source-aligned batches:
 
-## Exact next activity — English translation planning only
+1. **6–10 — pilot**;
+2. 11–15;
+3. 16–20;
+4. 21–23.
 
-Execute `NOVEL_PROCESSING_GUIDE.md` Section 14 for `அரும்பு`:
+Authority order:
 
-- create `works/arumbu/translations/en/TRANSLATION_PLAN.md`;
-- define the working English title;
-- state the source authority hierarchy, with audited `pages/` controlling disputed wording and the assembled Tamil section used for continuity;
-- define the translation section/batch strategy for the single Tamil reading section;
-- define translation style and fidelity rules;
-- define names/transliteration policy;
-- define handling for political, religious, caste, historical, colloquial and culturally specific terms where applicable;
-- define punctuation/dialogue policy;
-- define source-oddity policy, explicitly preserving awareness of `பேசினேன்`, `அம்மனார்`, the pagination jump and the unprinted `முற்றும்`;
-- define page/scan traceability and review states/gates;
-- initialize only the minimum English control files needed for a coherent planned state if required by the guide;
-- synchronize `works/arumbu/README.md`, `works/arumbu/audit.md`, root `HANDOVER.md`, root `README.md`, collection status and this prompt as affected;
-- commit the planning checkpoint and stop.
+1. audited canonical Tamil `pages/` — final textual authority;
+2. assembled Tamil `sections/01-arumbu.md` — reading continuity;
+3. metadata/audit/page-map — structural and provenance controls.
 
-Do **not** begin English prose translation, `சாரப்பள்ளம் சாமுண்டி`, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.
+Working English title: **The Bud**.
+
+Important protected source facts for later batches remain unchanged: scan 22 `பேசினேன்`, scan 23 `அம்மனார்`, final `இனி:......`, printed-page jump 8→10, and no explicit `முற்றும்`.
+
+## Exact next activity — Batch 1 pilot only
+
+Translate **scans 6–10 only** under Section 15:
+
+- create `works/arumbu/translations/en/sections/01-arumbu.md` with the pilot portion only;
+- translate every substantive sentence/dialogue unit in source order; do not summarize;
+- retain reversible `<!-- source: scan ...; printed page: ... -->` provenance;
+- use the assembled Tamil for continuity but compare every translated passage back to canonical pages 0006–0010;
+- preserve emotional force, agency, repetition, child/family register, rhetoric and source oddities;
+- do not silently label `புதுமை முறை` as a specific movement/ceremony name not printed in the source;
+- lock applicable names, cultural/ritual terms, dialogue/punctuation and `அரும்பு` / **bud** imagery decisions in `GLOSSARY.md` only after the pilot source-check;
+- update `translations/en/README.md` and `PROGRESS.md`;
+- Batch 1 may be marked **reviewed** only after source comparison;
+- synchronize work/root controls, commit, and stop.
+
+Do **not** start Batch 2, `சாரப்பள்ளம் சாமுண்டி`, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.
