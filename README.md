@@ -15,9 +15,11 @@
 
 Source: 1968 second edition, 179 scans. Canonical Tamil **179 / 179 VERIFIED**; historical-glyph and full Tamil source audit **PASSED**; assembled Tamil **23 / 23 PASSED**.
 
-English working title: **_Friday_**. Translation plan is complete. English Chapters **1–11 / 23 are REVIEWED**, covering scan 4 through scan 99 before centered `12`, with **0 unresolved English translation holds**. Batch 3 (Chapters 5–11) was explicitly enlarged to seven chapters by user authorization. Final bilingual review and release remain blocked until English is complete.
+English working title: **_Friday_**. Translation plan is complete. English Chapters **1–23 / 23 are REVIEWED**, covering scan 4 through final narrative scan 179, with **0 unresolved English translation holds**. Batch 3 (Chapters 5–11) and final-remainder Batch 4 (Chapters 12–23) were enlarged only by explicit user authorization.
 
-Next: English **Chapters 12–14**, scan 99 after centered `12` through scan 120 before centered `15`. Default batch size is again at most three contiguous chapters unless explicitly enlarged.
+The English chapter layer is complete, but whole-work English is **NOT YET VERIFIED**. Final bilingual review is **READY / NEXT**; release remains blocked until that gate passes.
+
+Next: run `works/vellikkizhamai/translations/en/TRANSLATION_REVIEW.md` across all 23 English chapters against PASSED/canonical Tamil authority.
 
 ## Completed works
 
