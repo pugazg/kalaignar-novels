@@ -5,9 +5,9 @@ section_order: 1
 section_title: "The Bud"
 language: "en"
 planned_source_scans: "6-23"
-translated_source_scans: "6-20"
-status: "partial"
-batch_status: "Batch 3 — reviewed"
+translated_source_scans: "6-23"
+status: "reviewed"
+batch_status: "Batches 1-4 — reviewed; whole-work bilingual review pending"
 derived_from: "audited Tamil pages/ records; assembled Tamil used for continuity"
 ---
 
@@ -208,3 +208,59 @@ But, contrary to Kumar's expectation, he did not receive even a drop of a kiss f
 After school, Kumar returned home. For the past few days it had been the maid who came forward to receive him and take him in. After dinner everyone went to bed; Gomathi and the baby were on one bed! Gokul slept reclining in a chair. Kumar, who had been tossing without sleeping, slowly got up. He searched quietly in a corner of the room. What was he looking for in this darkness? He did not find what he sought in the room. Slowly he went downstairs. He searched there too. There was a tall bureau; he placed a chair against it and climbed up. Ah! There it was—what he had been looking for! His mother's picture!
 
 <!-- Batch 3 closure: scans 16-20 translated, source-checked against canonical pages 0016-0020, and reviewed. No scan 21 English prose is included. -->
+
+<!-- source: scan 21; printed page: 17 -->
+
+He took it and held it to his chest. He came back to bed with the picture! He lay down beside Amma's picture. “On that cot, the baby and her mother! Here, on this cot, Amma and me—ayyo!” It was Gomathi who had caused such a different poison to be poured into the heart of that bud!
+
+No! No! It was her child, in the form of illness!
+
+The baby lying beside Gomathi cried; Gomathi was sleeping soundly. She was exhausted from keeping her eyes open for many days! Kumar got up and looked. All the windows were closed.
+
+‘The baby has no air; that's why she's crying!’—that was his thought. He opened the window shutters wide. A chill breeze began to blow. As soon as that cold air touched the baby, she too became quiet. Delighted that what he had thought was right, Kumar patted the baby and went back to his own bed.
+
+What did he know of the doctor's warning that the child must not be exposed to cold? He fell asleep. Everyone slept deeply. Dawn! Gomathi woke and saw that the window was open.
+
+“Ayyo! Who opened the window?” she shouted. Gokul woke with a start.
+
+“I did, Amma! I opened it because the baby needed air!” Kumar said as he got up and ran over.
+
+Gomathi touched the child. The baby lay stiff. She had been dead for quite some time! At that first single cry itself, she had gone! But the blame... fell on Kumar's head! Gomathi picked up a water jug that was there and hurled it hard at Kumar's head! “Ayyo! Amma!” Kumar screamed. The jug missed its mark—fell on the picture of his mother that was on his bed and shattered it to pieces. Kumar picked up the picture, pressed it to his face and wept. The broken shards of glass scratched all over his beautiful face, and blood seeped out! Gokul did not know what to cry over.
+
+For two or three days Kumar had hardly eaten properly. They said he was the reason the baby had been put in a pit and buried, didn't they? Ayyo, Appa keeps crying thinking of the baby<!-- source join: scan 21 / printed 17 ends `அப்பா பாப்பாவை நினைத்து`; scan 22 / printed 18 begins `அழுதுகொண்டே யிருக்கிறாரே!` -->! Isn't he the reason for that too? Gokul tried everything, but he could not console him.
+
+<!-- source: scan 22; printed page: 18 -->
+
+“The child is gone—will she come back because you cry, Gomathi? Console Kumar! He has pined away like this!” Gokul pleaded with her in a trembling voice. It was no use. Gokul floundered, not knowing any way to calm the storm in his mind. He called Kumar and tried to force him to eat. Kumar refused. In the customary manner of taking one's anger at one's wife out on the child, Gokul struck Kumar a hard slap on the cheek and flew off to the office!
+
+“Appa! Why should you hit me?” That tender child could find no answer! Without saying anything, he got up and went to school.
+
+At the newspaper office, Gokul could not get any work done. Even when it became six in the evening, he could not finish the article he had intended to write. Isn't peace of mind the chief capital of a writer? He burned within as he thought again and again of having struck the precious treasure he had nurtured with such care. It seemed as though his first wife had come before him, fallen at his feet crying, and begged, ‘At least from now on, don't hit our treasure like this!’ The phone rang; I spoke.<!-- source oddity: scan 22 prints first-person `பேசினேன்`; English deliberately preserves the first-person shift as `I spoke` rather than normalizing it to third person. -->
+
+“Kumar went to school and still hasn't returned! He isn't at the school either!” the servant reported. Gokul's head spun. He ran out of the room. Crying “Kumar!” he set foot on the stairs. He felt as though the whole world had gone dark! A terrifying whirl before his eyes! Gokul's foot slipped! He tumbled down the steps with a clatter. The staircase was a flood of blood!
+
+At the hospital, Gokul was in critical condition! Hearing this, Gomathi came running, crying and writhing in anguish. No one allowed her inside. They made her sit outside. He still had not regained consciousness. Only if he regained consciousness within the next ten minutes would he live—otherwise he would not survive. That was the information given to her! She realized that it was because of her—because of her own conduct—that danger had come to her husband.
+
+<!-- source: scan 23; printed page: 19 -->
+
+Without her knowing it, her love for her husband was renewed!
+
+Leaves fell from the tree near where she sat. Seeing them, she screamed. Of the two pigeons perched on a branch, one rose and flew away!—seeing that, she cried aloud! At that moment Kumar, who had gone to Appa's office to ask why he had been beaten and had come from there to the hospital with the help of the peon, saw Amma crying and ran to her.
+
+“Kumar! It looks as though Appa is going to let us down!” Gomathi wailed, clutching him to her and crying out!
+
+“Don't cry, Amma!” That bud wiped her eyes with his tender shoot-like hands!
+
+“Who will support us from now on, my king?” she sobbed. Before her mind's eye appeared and disappeared the scene in the hut at Ammanar, where she had clung to Gokul's feet and asked for support.<!-- source oddity: scan 23 prints `அம்மனார்`, unlike earlier `அம்மனூர்`; English preserves this occurrence as `Ammanar` rather than normalizing it to `Ammanur`. -->
+
+“Don't be afraid, Amma!.. When I grow big, I'll protect you—don't be afraid, Amma!” Kumar sobbed, holding her chin.
+
+That child's words of support widened her heart, which had shrunk tight! Must the feeling of motherhood come only to a woman who has borne a child? Or should it be shown only to a child born of her own womb? Motherhood is the inheritance of womankind! That feeling burst from Gomathi's heart and embraced Kumar!
+
+The two pressed cheek to cheek. Gomathi's tears washed over the scars from the scratches cut by the shards of glass from Amma's picture!
+
+The nurse came running! Gomathi started! The joyous news came that Gokul had survived. Kumar and Gomathi ran inside! Gokul saw Kumar on Gomathi's hip. Truly, only now had he survived.
+
+The two leaves that protect the bud had been in danger of falling away—but now it was once again two leaves and one bud! This new beginning was also a joyous beginning toward becoming, from now on:...... two leaves and two buds!<!-- source oddity: final Tamil has `இனி:......`; the colon-plus-six-dot form is deliberately retained in English. No explicit `முற்றும்` is printed, so no “The End” is added. -->
+
+<!-- Batch 4 closure: scans 21-23 translated, source-checked against canonical pages 0021-0023, and reviewed. English batch coverage is now scans 6-23 / 18 of 18; Section 16 whole-work bilingual review remains a separate next checkpoint. -->
