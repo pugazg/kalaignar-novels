@@ -15,8 +15,7 @@
 
 - canonical page records — **179 / 179 COMPLETE / VERIFIED**;
 - unresolved Tamil source holds — **0**;
-- historical-glyph gates — **PASSED / COMPLETE**;
-- full Tamil source audit — **PASSED**;
+- historical-glyph gates / full Tamil source audit — **PASSED**;
 - assembled Tamil — **PASSED / 23 of 23 chapters**;
 - final assembled consistency gate — **PASSED / 0 unresolved / 0 canonical changes**.
 
@@ -29,24 +28,25 @@ Working title: **_Friday_**.
 - translation plan — **COMPLETE**;
 - Batch 1 Chapter 1 — **REVIEWED**;
 - Batch 2 Chapters 2–4 — **REVIEWED**;
-- Batch 3 Chapters 5–11 — **REVIEWED**, explicitly enlarged by the user's request to process seven chapters;
-- English chapters present/reviewed — **11 / 23**;
-- English coverage — **scan 4 through scan 99 before centered `12`**;
+- Batch 3 Chapters 5–11 — **REVIEWED**, enlarged by explicit user authorization;
+- Batch 4 Chapters 12–23 — **REVIEWED**, final remainder enlarged by explicit user authorization;
+- English chapters present/reviewed — **23 / 23**;
+- English coverage — **scan 4 through final narrative scan 179**;
 - unresolved English translation holds — **0**;
-- final bilingual review / release — **BLOCKED**.
+- final bilingual review — **READY / NEXT**;
+- whole-work English — **NOT YET VERIFIED**;
+- release — **BLOCKED pending bilingual review**.
 
-Batch 3 preserved mixed boundaries at scans 59, 68, 75, 85, 92 and 99 and the scan-66 printed `5` anomaly. No canonical Tamil page or assembled-section file changed.
+The final remainder preserves mixed chapter boundaries through scan 172, the physical discontinuities at scans 117→118, 122→123 and 156→157, and final scan 179 narrative/non-body exclusion. No canonical Tamil page or assembled-section file was changed.
 
-## Default batch rule
+## Batch rule
 
-The seven-chapter enlargement applied only to Batch 3. Default post-pilot work returns to at most **three contiguous chapters** unless the user explicitly enlarges a later iteration.
+The larger Batch 3 and final-remainder Batch 4 were user-authorized exceptions. The repository's normal controlled-batch method is unchanged for future works.
 
 ## Exact next activity
 
-Run English **Batch 4 — Chapters 12–14**:
+Run the **final whole-work bilingual review** in `works/vellikkizhamai/translations/en/TRANSLATION_REVIEW.md` across Chapters 1–23.
 
-1. Chapter 12 — scan 99 after centered `12` → scan 107 before centered `13`;
-2. Chapter 13 — scan 107 after centered `13` → scan 115 before centered `14`;
-3. Chapter 14 — scan 115 after centered `14` → scan 120 before centered `15`.
+Required checks: chapter/order/source-span completeness; omitted/duplicated/materially-added content; agency and speaker attribution; names/relationships/late source variants; glossary consistency; religious/caste/social/sexual-stigma terminology; rhetoric/dialogue/verse; every source join and mixed boundary; discontinuities at 117→118, 122→123 and 156→157; scan 66 printed-page anomaly; scan 179 final non-body exclusion; provenance; readability without modernization; and zero unauthorized Tamil changes.
 
-Translate all substantive Tamil; retain provenance and source oddities; source-check/review the three files; update glossary/progress/status controls; commit before Chapter 15. Do not begin Chapter 15 unless separately authorized.
+Only after that review records PASS may whole-work English be marked **VERIFIED** and release-readiness work begin.

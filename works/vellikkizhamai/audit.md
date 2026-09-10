@@ -10,38 +10,41 @@ Detailed historical/source history remains in repository history and `AUDIT_HIST
 | Historical-glyph / full Tamil source audit | **PASSED** |
 | Tamil assembled reading layer | **PASSED — 23 / 23** |
 | English translation plan | **COMPLETE** |
-| English reviewed | **11 / 23 chapters** |
-| English coverage | **scan 4 → scan 99 before centered `12`** |
+| English chapter files | **23 / 23 REVIEWED** |
+| English coverage | **scan 4 → final narrative scan 179** |
 | English unresolved holds | **0** |
-| Final bilingual review | **BLOCKED** |
-| Release | **BLOCKED** |
+| Final bilingual review | **READY / NEXT** |
+| Whole-work English | **NOT YET VERIFIED** |
+| Release | **BLOCKED pending bilingual review** |
 
 ## English batch ledger
 
 - Batch 1 — Chapter 1 — REVIEWED.
 - Batch 2 — Chapters 2–4 — REVIEWED.
-- Batch 3 — Chapters 5–11 — REVIEWED after explicit user authorization to process seven chapters together.
+- Batch 3 — Chapters 5–11 — REVIEWED after explicit user authorization to enlarge the batch.
+- Batch 4 — Chapters 12–23 — REVIEWED after explicit user authorization to process the complete remaining English remainder.
 
-### Batch 3 review
+## Batch 4 review — Chapters 12–23
 
-**PASS.** The seven English chapter files represent the substantive PASSED Tamil content from scan 45 after centered `5` through scan 99 before centered `12`.
+**PASS at chapter/batch level.** The twelve English files represent the substantive PASSED Tamil content from scan 99 after centered `12` through final narrative scan 179.
 
-Checked boundary authority:
+Boundary/source checks include:
 
-- scan 51 ends Chapter 5; scan 52 cleanly opens Chapter 6;
-- scan 59: Chapter 6 above centered `7`, Chapter 7 below;
-- scan 68: Chapter 7 above centered `8`, Chapter 8 below;
-- scan 75: Chapter 8 above centered `9`, Chapter 9 below;
-- scan 85: Chapter 9 above centered `10`, Chapter 10 below;
-- scan 92: Chapter 10 above centered `11`, Chapter 11 below;
-- scan 99: Chapter 11 above centered `12`; Chapter 12 excluded.
-
-Source joins remain reversible through comments. Scan 66's visible printed-page anomaly `5` is preserved. Sensitive sexual/chastity/stigma language, Sivanesar's manic/mythological speech and religious/social polemic are treated as source rhetoric, without modern explanatory additions. No canonical Tamil `pages/` or assembled Tamil `sections/` were changed during English work.
+- mixed boundaries at scans 99, 107, 115, 120, 134, 142, 149, 154, 160, 166 and 172 preserved;
+- clean Chapter 16 opening at scan 127 preserved;
+- scan 117→118 discontinuity retained without inferred completion;
+- scan 122→123 discontinuity retained and explicitly marked without grammatical reconstruction;
+- scan 156→157 discontinuity retained without supplied punctuation/missing Tamil;
+- real/fake Balagangadhara Thevar identity follows narrative revelation rather than backward normalization;
+- source rhetoric concerning chastity/stigma, religion, suicide, accusation, violence and social judgment remains source-bound;
+- scan 179 final narrative preserved; non-body illustration/later handwriting remains excluded;
+- no canonical Tamil `pages/` or assembled Tamil `sections/` changed during English work;
+- unresolved English holds — **0**.
 
 ## Closed Tamil authority
 
-Known whole-work source discontinuities at scans 117→118, 122→123 and 156→157 remain deliberate and must not be repaired by English inference.
+Known whole-work source discontinuities at scans 117→118, 122→123 and 156→157 remain deliberate. English must not repair them by inference.
 
 ## Exact next activity
 
-English Batch 4 — Chapters **12–14**, scan 99 after centered `12` through scan 120 before centered `15`. Default batch size is again three chapters.
+Run the **final bilingual review** across Chapters 1–23. This separate whole-work gate must check complete order/coverage, omissions/duplications/additions, agency/speaker fidelity, glossary consistency, charged terminology, rhetoric/dialogue, all boundaries/joins/discontinuities, provenance and readability without modernization. Only a PASS may promote whole-work English to **VERIFIED**.

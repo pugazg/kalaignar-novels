@@ -15,17 +15,19 @@ English mirrors the 23 PASSED Tamil chapters one-to-one. Canonical Tamil remains
 | `09-chapter-09.md` | scan 75 after centered `9` → scan 85 before centered `10` | **REVIEWED** |
 | `10-chapter-10.md` | scan 85 after centered `10` → scan 92 before centered `11` | **REVIEWED** |
 | `11-chapter-11.md` | scan 92 after centered `11` → scan 99 before centered `12` | **REVIEWED** |
-| `12-chapter-12.md` | scan 99 after centered `12` → scan 107 before centered `13` | **NEXT / NOT STARTED** |
-| `13-chapter-13.md` | scan 107 after centered `13` → scan 115 before centered `14` | **NEXT / NOT STARTED** |
-| `14-chapter-14.md` | scan 115 after centered `14` → scan 120 before centered `15` | **NEXT / NOT STARTED** |
-| `15-chapter-15.md` | scan 120 after centered `15` → scan 126 | planned |
-| `16-chapter-16.md` | scan 127 after centered `16` → scan 134 before centered `17` | planned |
-| `17-chapter-17.md` | scan 134 after centered `17` → scan 142 before centered `18` | planned |
-| `18-chapter-18.md` | scan 142 after centered `18` → scan 149 before centered `19` | planned |
-| `19-chapter-19.md` | scan 149 after centered `19` → scan 154 before centered `20` | planned |
-| `20-chapter-20.md` | scan 154 after centered `20` → scan 160 before centered `21` | planned |
-| `21-chapter-21.md` | scan 160 after centered `21` → scan 166 before centered `22` | planned |
-| `22-chapter-22.md` | scan 166 after centered `22` → scan 172 before centered `23` | planned |
-| `23-chapter-23.md` | scan 172 after centered `23` → final narrative scan 179 | planned |
+| `12-chapter-12.md` | scan 99 after centered `12` → scan 107 before centered `13` | **REVIEWED** |
+| `13-chapter-13.md` | scan 107 after centered `13` → scan 115 before centered `14` | **REVIEWED** |
+| `14-chapter-14.md` | scan 115 after centered `14` → scan 120 before centered `15` | **REVIEWED** |
+| `15-chapter-15.md` | scan 120 after centered `15` → scan 126 | **REVIEWED** |
+| `16-chapter-16.md` | scan 127 after centered `16` → scan 134 before centered `17` | **REVIEWED** |
+| `17-chapter-17.md` | scan 134 after centered `17` → scan 142 before centered `18` | **REVIEWED** |
+| `18-chapter-18.md` | scan 142 after centered `18` → scan 149 before centered `19` | **REVIEWED** |
+| `19-chapter-19.md` | scan 149 after centered `19` → scan 154 before centered `20` | **REVIEWED** |
+| `20-chapter-20.md` | scan 154 after centered `20` → scan 160 before centered `21` | **REVIEWED** |
+| `21-chapter-21.md` | scan 160 after centered `21` → scan 166 before centered `22` | **REVIEWED** |
+| `22-chapter-22.md` | scan 166 after centered `22` → scan 172 before centered `23` | **REVIEWED** |
+| `23-chapter-23.md` | scan 172 after centered `23` → final narrative scan 179 | **REVIEWED** |
 
-**Current:** 11 / 23 English chapters present and reviewed. Batch 3 was explicitly enlarged to Chapters 5–11 by user authorization. Next default batch: Chapters 12–14 only.
+**English chapter layer: 23 / 23 REVIEWED.** Source coverage is continuous from scan 4 through final narrative scan 179. Unresolved English translation holds: **0**.
+
+The final bilingual review is now the next gate. Until it passes, the whole-work English state remains **NOT YET VERIFIED**.

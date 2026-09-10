@@ -4,7 +4,7 @@ This is the controlled consistency ledger for _Friday_. It never overrides canon
 
 ## Current state
 
-**Batches 1–3 / Chapters 1–11 — REVIEWED.** Decisions below are locked unless later source context gives a documented reason to change them.
+**Chapters 1–23 — REVIEWED.** Decisions below are locked for final bilingual review unless a direct source comparison supplies a documented reason to change them.
 
 ## Core names / places
 
@@ -13,22 +13,24 @@ This is the controlled consistency ledger for _Friday_. It never overrides canon
 | `வெள்ளிக்கிழமை` | **Friday** | working title/day-name; preserve deliberate repetition |
 | `சிந்தாமணி` | **Chintamani** | locked |
 | `அழகப்பன்` / `அழகு` | **Azhagappan / Azhagu** | preserve full/short distinction |
-| `நயினா முகம்மது` / `நயினா` | **Naina Muhammad / Naina** | preserve full/short distinction |
+| `நயினா முகம்மது` / `நயினா` / late `நயினு` | **Naina Muhammad / Naina** | late `நயினு` is a source spelling variant of the established character; never alter Tamil |
 | `ஆனந்தி` | **Anandi** | locked |
 | `சிவநேசர்` | **Sivanesar** | locked |
 | `சிவகாமி` | **Sivakami** | locked |
 | `டைகர்` | **Tiger** | source-derived English name |
-| `ராமகிருஷ்ணன்` / vocative `ராமகிருஷ்ணு` | **Ramakrishnan / Ramakrishnu** | retain source vocative distinction in dialogue |
-| `வேம்பு` | **Vembu** | retain personal name; preserve neem/sugarcane wordplay without prose explanation |
-| `பாலகங்காதரத் தேவர்` | **Balagangadhara Thevar** | no external historical identification |
+| `ராமகிருஷ்ணன்` / `ராமகிருஷ்ணு` | **Ramakrishnan / Ramakrishnu** | retain source vocative distinction where used |
+| `வேம்பு` | **Vembu** | retain personal name |
+| `பாலகங்காதரத் தேவர்` | **Balagangadhara Thevar** | retain as source name; do not resolve real/fake identity before the narrative does |
+| `பெரியசாமி` | **Periyasami** | lawyer in Chapter 18 |
+| `இடும்பன்` | **Idumban** | locked in Chapters 22–23 |
 | `வேதபுரம்` | **Vedapuram** | locked |
-| `பாலையூர்` | **Palaiyur** | **LOCKED in Chapters 6–11** |
+| `பாலையூர்` | **Palaiyur** | locked |
+| `அய்யனார் பண்ணை` | **Ayyanar farm** | locked in Chapters 22–23 |
 | `பெங்களூர்` | **Bangalore** | period-appropriate established English form |
-| `கிளி`, `ஆண்டாள்`, `ராதா`, `சுசீலா`, `சரோ`, `காந்தா`, `ஜெயா` | **Kili, Andal, Radha, Susheela, Saro, Kanta, Jaya** | locked source-facing forms |
 
 ## Literary / mythological names and works
 
-Use conservative source-facing forms: **Bharata, Arjuna, Dharman/Dharma, Parvati, Paramasiva, Alli, Pavalakkodi, Subhadra, Maharaja Shivaji, Bilvamangala, Kamba Ramayanam, Ramayana, Manimekalai, Kannagi Devi, Kunti Devi, Pandu Maharaja, Rama, Sita, Ravana, Hanuman, Sugriva, Valmiki, Visvamitra, Tataka, Ahalya, Karaikkal Ammaiyar, Iyarppagai Nayanar, Siruthondar, Darukavana, Dandakaranya, Kailasa**. These are source-text renderings, not external identifications or annotations.
+Use conservative source-facing forms: **Bharata, Arjuna, Dharman/Dharma, Parvati, Paramasiva, Alli, Pavalakkodi, Subhadra, Maharaja Shivaji, Bilvamangala, Kamba Ramayanam, Ramayana, Manimekalai, Kannagi Devi, Kunti Devi, Pandu Maharaja, Rama, Sita, Ravana, Hanuman, Sugriva, Valmiki, Visvamitra, Tataka, Ahalya, Karaikkal Ammaiyar, Iyarppagai Nayanar, Siruthondar, Darukavana, Dandakaranya, Kailasa, Sanjeevi**. These are source-text renderings, not external identifications.
 
 ## Religious / cultural / period terms
 
@@ -37,7 +39,7 @@ Use conservative source-facing forms: **Bharata, Arjuna, Dharman/Dharma, Parvati
 | `கோலம்` | **kolam** | retained cultural term |
 | `மாங்கல்யம்` | **mangalyam** | retained |
 | `குங்குமம்` | **kumkum** | retained |
-| `குத்துவிளக்கு` | **kuthuvilakku** | **LOCKED in Chapter 9** |
+| `குத்துவிளக்கு` | **kuthuvilakku** | retained |
 | `திருப்பாவை` | **Tiruppavai** | translate only lines printed in this edition |
 | `யாழ்` | **yaazh** | retained |
 | `குடுகுடுப்பை` | **kuduguduppai** | retained |
@@ -48,49 +50,55 @@ Use conservative source-facing forms: **Bharata, Arjuna, Dharman/Dharma, Parvati
 | `தோஷம்` | **dosha** | retained |
 | `சாஸ்திரம்` | **sastras** | retained in source-era context |
 | `லேடி டாக்டர்` | **Lady Doctor** | retain period usage where natural |
-| `ஹார்லிக்ஸ்` | **Horlicks** | **LOCKED in Chapters 7–8** |
-| `ஹை ஜம்ப்` | **“high jump”** | retain source-era English loanword |
-| `மைனர்` | **“minor”** | source-era status term; do not reconstruct a legal title |
-| `புத்த பிக்ஷுணி` | **Buddhist bhikkhuni** | locked in Chapter 9 |
-| `ரசம்` | ***rasa*** | retain where Chapter 11 discusses aesthetic delight |
+| `ஹார்லிக்ஸ்` | **Horlicks** | locked |
+| `ரசம்` | ***rasa*** | retain in Chapter 11 aesthetic discussion |
+| `லஸ்தர் விளக்கு` | **luster lamp** | source-era image; do not modernize |
+| `அபின்` | **opium** | locked for Chapters 15–23 |
+| `லாக் அப்` | **lock-up** | locked |
+| `டி. எஸ். பி.` | **DSP** | source police title; no institutional expansion in prose |
+| `காலட்சேபம்` | **kalakshepam** | Chapter 23 uses **Bharata kalakshepam** |
+| `அம்மிக் குழவி` | **grinding-stone roller** | locked for murder scene |
+| `அரிவாள்` | **aruval** | retained in Chapter 22–23 evidence scene |
+| `பன்னீர்` | **rosewater** | Chapter 16 emotional metaphor |
 
 ## Chastity / assault / stigma language
 
 Translate historical/source rhetoric without endorsement, euphemism, intensification or modern editorial commentary.
 
-- `கற்பு` → **chastity** where that historical concept is explicitly invoked.
-- `கற்புக்கரசி` → **queen of chastity**.
-- forced sexual violation language remains explicit but source-bounded.
+- `கற்பு` → **chastity** where explicitly invoked.
+- `கற்பிழந்தவள்` → **woman who has lost her chastity** in Anandi's self-description.
+- `வைப்பாட்டி` → **kept woman** in the source's historical/social insult context.
+- `வேசி` / `விபசாரி` → contextually **prostitute / whore** or **prostitute**, preserving source force and speaker attribution.
 - `பாப விமோசனம்` → **absolution from sin**; `பிராயச்சித்தம்` → **atonement**.
-- Chapter 10's source insults `வேசி` / `விபசாரி` are rendered **prostitute / whore** in the order used there; this records character abuse, not editorial terminology.
-- Chapter 10's lawyer/needle passage is preserved as source rhetoric and must not be rewritten as a modern legal or medical proposition.
+- sexual-assault/chastity arguments remain source rhetoric; do not rewrite as modern law, medicine or moral commentary.
 
-## Batch 3 locks / special handling
+## Final-remainder locks / special handling
 
-- Scan 66 visibly prints only **`5`**; never infer printed page 65 in English provenance.
-- `நிறுத்துங்கள்!` recurring after Anandi's accident → **“Stop!”**, preserving repetition.
-- `தங்கமானவள்` in Tiger/Azhagappan wordplay → **pure gold / gold** according to immediate syntax; preserve the later fire/gold reinterpretation.
-- `கண்ணால் கண்டதும் பொய், காதால் கேட்டதும் பொய், தீர விசாரிப்பதே மெய்` → preserve as the source proverb about eye/ear evidence and thorough inquiry.
-- Religious satire/polemic in Chapters 7–11 remains source voice; do not add explanatory theology.
-- Sivanesar's manic songs and mythological strings in Chapters 9 and 11 remain visibly distinct blocks/utterances; do not rationalize their logic.
-- `கைத்துப்பாக்கி` → **pistol / handgun** by immediate sentence context.
+- `விஷம்! விஷம்!!` → **“Poison! Poison!!”**; Chapter 12's poison/nectar wordplay remains explicit.
+- `மதம் ஏன் மாறவேண்டும்—மனம் மாறாமலிருந்தால் போதும்!` preserves the religion/heart contrast rather than adding commentary.
+- Chapter 15's source discontinuity `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.` remains explicitly unresolved; English supplies no missing grammar.
+- Chapter 16 source oddity `மங்காகர` is retained as **“mangakara”** rather than silently normalized.
+- Real/fake **Balagangadhara Thevar** remains unresolved in English until Chapter 23 reveals the false Thevar as Tiger.
+- Chapter 18's suicide letter, Chapters 19/22 self-harm thoughts and Chapter 23's final poisoning are translated as source narrative without added explanation.
+- Chapter 22's `அரிவாள்` is retained as **aruval** because it is a concrete source/evidence object.
+- Chapter 23's final `வெள்ளிக்கிழமை` repetitions remain **Friday** to preserve the structural/thematic return.
 
 ## Earlier locked decisions retained
 
-**Raja Desingu, Bhagavathar, Somavaram, Somavara fast, Periyalvar, Perumal, Nappinnai, Christian religion, Jesus, church, household deity, mullai, copper pot, Sanatana Hindu, astrologer, planetary indications/results, atheists, Idimuzhakkam, paladai, kendi, gosha, panchangam, dosha, sastras.**
+**Raja Desingu, Bhagavathar, Somavaram, Somavara fast, Periyalvar, Perumal, Nappinnai, Christian religion, Jesus, church, household deity, mullai, copper pot, Sanatana Hindu, astrologer, planetary indications/results, atheists, Idimuzhakkam, paladai, kendi, gosha, panchangam, dosha, sastras, kuthuvilakku, Buddhist bhikkhuni.**
 
-Chapter 1 weekday jokes remain literal rather than replaced by unrelated English proverbs. Embedded Tiruppavai verse remains a fresh rendering of only the lines printed in this edition.
+Chapter 1 weekday jokes remain literal rather than replaced by unrelated English proverbs. Embedded Tiruppavai verse remains a fresh rendering only of lines printed in this edition.
 
-## Style lock through Chapter 11
+## Style lock through Chapter 23
 
 1. no summarizing or source-like additions;
 2. readable but source-bound English;
-3. preserve agency, rhetorical questions, repetitions, abrupt turns, humour, melodrama and insults;
+3. preserve agency, rhetorical questions, repetition, abrupt turns, humour, melodrama and insults;
 4. preserve paragraph/dialogue units except minimal English syntactic adjustment;
 5. standard double quotation marks for speech and single quotation marks within speech;
 6. keep HTML source comments and reversible joins;
-7. keep mixed chapter-boundary scans split only at centered source headings;
-8. do not add theology, caste history, folklore interpretation, sexual-morality commentary or contemporary social commentary inside prose;
+7. mixed chapter-boundary scans split only at centered source headings;
+8. no added theology, caste history, folklore interpretation, sexual-morality commentary or contemporary social commentary inside prose;
 9. preserve source strangeness rather than grammar-repairing it;
 10. canonical Tamil remains controlling.
 
@@ -104,4 +112,4 @@ Never silently repair:
 
 ## Change rule
 
-Any later change to a recurring English decision must record the old choice, new choice, source evidence/chapter range, reason, and affected English files. Never alter canonical Tamil through this glossary.
+Any change discovered during final bilingual review must record the old English choice, new choice, exact Tamil/source evidence, reason, and affected English files. Never alter canonical Tamil through this glossary.

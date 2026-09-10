@@ -9,33 +9,35 @@ Working English title: **_Friday_**. Tamil `வெள்ளிக்கிழம
 - Tamil canonical source — **PASSED / 179 of 179**;
 - assembled Tamil — **PASSED / 23 of 23**;
 - English plan — **COMPLETE**;
-- English chapters present/reviewed — **11 / 23**;
-- English source coverage — **scan 4 through scan 99 before centered `12`**;
+- English chapters present/reviewed — **23 / 23**;
+- English source coverage — **scan 4 through final narrative scan 179**;
 - unresolved English holds — **0**;
-- final bilingual review — **BLOCKED**;
-- release report — **BLOCKED**.
+- final bilingual review — **READY / NEXT**;
+- whole-work English — **NOT YET VERIFIED**;
+- release report — **BLOCKED pending bilingual review**.
 
 ## Authority
 
-Controlling scan → `../../pages/` → PASSED `../../sections/` → English. If English conflicts with Tamil, Tamil governs.
+Controlling scan → `../../pages/` → PASSED `../../sections/` → English. If English conflicts with Tamil, Tamil governs. Translation work does not authorize changes to canonical Tamil.
 
 ## Batch history
 
-- Batch 1 — Chapter 1 — reviewed;
-- Batch 2 — Chapters 2–4 — reviewed;
-- Batch 3 — Chapters 5–11 — reviewed after explicit user authorization to process seven chapters in one iteration.
+- Batch 1 — Chapter 1 — **REVIEWED**;
+- Batch 2 — Chapters 2–4 — **REVIEWED**;
+- Batch 3 — Chapters 5–11 — **REVIEWED**, enlarged by explicit user authorization;
+- Batch 4 — Chapters 12–23 — **REVIEWED**, final remainder enlarged by explicit user authorization.
 
-The default now returns to at most three contiguous chapters per batch.
+All 23 English chapter files now exist. The final remainder preserves the physical source discontinuities at scans 117→118, 122→123 and 156→157 without inferred repairs, and carries final narrative provenance through scan 179.
 
 ## Controls
 
-- `TRANSLATION_PLAN.md` — method and batch plan;
-- `PROGRESS.md` — translation ledger;
+- `TRANSLATION_PLAN.md` — method and completed batch history;
+- `PROGRESS.md` — chapter/source ledger;
 - `GLOSSARY.md` — locked consistency decisions;
 - `sections/README.md` — 23-chapter inventory;
-- `TRANSLATION_REVIEW.md` — blocked until 23/23 reviewed;
+- `TRANSLATION_REVIEW.md` — **READY / NEXT** whole-work gate;
 - `RELEASE_REPORT.md` — blocked until bilingual review passes.
 
 ## Exact next activity
 
-Translate, source-check and review **Batch 4 — Chapters 12–14**, covering scan 99 after centered `12` through scan 120 before centered `15`. Do not start Chapter 15 in the same default iteration.
+Run the final bilingual review across Chapters 1–23. Do not mark English `verified` and do not open release readiness until that gate records a PASS.
