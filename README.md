@@ -18,7 +18,7 @@
 
 Component handling:
 
-- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **TAMIL SOURCE + ASSEMBLED TAMIL + ENGLISH PLAN PASSED / ENGLISH BATCHES 1–3 REVIEWED / BATCH 4 NEXT**;
+- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **TAMIL SOURCE + ASSEMBLED TAMIL + ENGLISH PLAN PASSED / ENGLISH BATCHES 1–4 REVIEWED / SECTION 16 BILINGUAL REVIEW NEXT**;
 - [`சாரப்பள்ளம் சாமுண்டி`](works/sarapallam-samundi/README.md) — scans 24–48 — registered / queued;
 - [`பெரிய இடத்துப் பெண்`](works/periya-idathup-pen/README.md) — scans 49–74 — additional witness to the existing work, not a duplicate;
 - [`நடுத்தெரு நாராயணி`](works/nadutheru-narayani/README.md) — scans 75–90 — registered / queued.
@@ -30,18 +30,16 @@ Component handling:
 - whole-work Tamil audit: **PASS / COMPLETE**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - English translation plan: **PASS / COMPLETE**;
-- working English title: **The Bud**;
-- English Batch 1 — scans **6–10**: **REVIEWED / COMPLETE**;
-- English Batch 2 — scans **11–15**: **REVIEWED / COMPLETE**;
-- English Batch 3 — scans **16–20**: **REVIEWED / COMPLETE**;
-- current English coverage: **15 / 18 source scans — scans 6–20**;
-- English Batch 4 — scans **21–23**: **NEXT**.
+- English Batches 1–4: **4 / 4 REVIEWED / COMPLETE**;
+- English prose coverage: **18 / 18 source scans — scans 6–23**;
+- whole-work bilingual review: **NEXT — Section 16**;
+- whole-work English: **NOT YET VERIFIED**.
 
-The English reading layer is [`works/arumbu/translations/en/sections/01-arumbu.md`](works/arumbu/translations/en/sections/01-arumbu.md). Batch 3 was checked against canonical Tamil pages 0016–0020 and closed with **0 omissions, 0 source-like additions and 0 unresolved translation items**. No scan 21 English prose is present.
+The complete English reading layer is [`works/arumbu/translations/en/sections/01-arumbu.md`](works/arumbu/translations/en/sections/01-arumbu.md). The final Batch 4 checkpoint was checked against canonical Tamil pages 0021–0023 and closed with **0 omissions, 0 source-like additions and 0 unresolved translation items**.
 
-The source-visible pagination remains exact: scan 6 is unnumbered; scans 7–13 show 2–8; scan 14 shows 10; scans 15–23 show 11–19. No printed page 9 is inferred. Source-confirmed `பேசினேன்`, `அம்மனார்`, final `இனி:......`, and the absence of explicit `முற்றும்` remain protected for Batch 4.
+Source-visible pagination remains exact: scan 6 is unnumbered; scans 7–13 show 2–8; scan 14 shows 10; scans 15–23 show 11–19. No printed page 9 is inferred. Final protected handling preserves `பேசினேன்` → **I spoke**, `அம்மனார்` → **Ammanar**, `இனி:......` → **from now on:......**, and adds no **The End** because no explicit `முற்றும்` is printed.
 
-Exact next action: **translate and fully source-check English Batch 4 for `அரும்பு`, scans 21–23 only**, synchronize controls, commit, and stop before the Section 16 whole-work bilingual review.
+Exact next action: **create `TRANSLATION_REVIEW.md` and execute the Section 16 whole-work bilingual review for `அரும்பு` only**. Mark English VERIFIED only if that gate passes, then stop before Section 17 release-readiness or another component work.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 
