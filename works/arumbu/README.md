@@ -10,14 +10,16 @@
 - work identity: **CONFIRMED**;
 - collection/source intake: **COMPLETE**;
 - physical component span: **18 scans**;
-- canonical page records: **15 / 18 — scans 6–20**;
+- canonical page records: **18 / 18 — scans 6–23**;
 - verified pages: **15 / 18 — scans 6–20 contiguous**;
 - scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
 - scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
 - scans 16–20 T1: **PASS / COMPLETE**;
 - scans 16–20 T2: **PASS / COMPLETE — 1 correction / 0 unresolved**;
 - scans 16–20 T3: **PASS / COMPLETE — 11 additional corrections / 0 unresolved**;
-- scans 21–23 T1: **NEXT**;
+- scans 21–23 T1: **PASS / COMPLETE**;
+- scans 21–23 T2: **NEXT**;
+- scans 21–23 T3: BLOCKED by T2;
 - assembled Tamil: **BLOCKED**;
 - English: **BLOCKED**.
 
@@ -53,6 +55,21 @@ Preserved physical joins:
 - 18→19 `செலவா` / `யிற்று.`;
 - 19→20 `கடிந்துகொண்` / `டிருக்கிறாள்.`.
 
+## Active final batch — scans 21–23
+
+- [`T1_BATCH_021_023.md`](T1_BATCH_021_023.md) — **PASS / COMPLETE**;
+- canonical records — scans 21, 22, 23 / printed pages **17, 18, 19** — all `needs-review`;
+- scan 21 T1 was committed separately at `89c41ba57f634bf222cb484d605f32217ccb7176`; scans 22–23 complete the bounded T1 range;
+- scan 23 is the final physical page of `அரும்பு`; no explicit `முற்றும்` is printed;
+- T2 — **NEXT**;
+- T3 — BLOCKED by T2.
+
+Preserved continuity:
+
+- 20→21: `அவனது அம்மா படம்!` → `அதை எடுத்து...`;
+- 21→22: `அப்பா பாப்பாவை நினைத்து` → `அழுதுகொண்டே யிருக்கிறாரே!`;
+- 22→23: completed sentence → new paragraph `அவளையறியாமல்,...`.
+
 ## Exact next activity
 
-**T1 for final physical scans 21–23 only.** Visually transcribe each whole page once, create three canonical `needs-review` records, record only directly visible printed-page numbers, preserve physical joins/non-body material, synchronize controls, commit T1 immediately, and stop before T2. Do not begin `சாரப்பள்ளம் சாமுண்டி` in the same checkpoint.
+**T2 for final physical scans 21–23 only.** Independently re-read all three complete source pages against the historical-Tamil glyph guide, correct character identity only when direct pixels support it, record corrections/unresolved glyphs, synchronize controls, commit T2, and stop before T3. Do not begin `சாரப்பள்ளம் சாமுண்டி` in the same checkpoint.
