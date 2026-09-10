@@ -119,7 +119,7 @@ Anandi struggled with emotions she could not show. She had hoped to bring up Chi
 
 Velu arrived with breakfast. Anandi asked him to serve it. Azhagappan expected her to sit nearby and eat too. She did not. Velu placed tiffin and coffee before him and left to attend to hospital work.
 
-Azhagappan did not even like gingelly oil, but asked, "Is there a little good oil?"
+Azhagappan did not even like gingelly oil, but asked, "Is there a little gingelly oil?"
 
 With no other choice, Anandi brought some and poured it. Saying, "Enough! Enough!" Azhagappan caught her hand to stop her. The oil jar in her hand overturned onto the table.
 
