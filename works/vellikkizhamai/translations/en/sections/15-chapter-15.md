@@ -56,9 +56,7 @@ Around her neck were two strands of chain. Diamonds at her ears; bangles only to
 
 Again and again she looked through the window, then glanced beneath the bench on which she sat, then closed her eyes for a little while. Chintamani, beside her—
 
-<!-- source: scan 123; printed page 122; literal Tamil resumes `கார்ந்து கொண்டாள்.`; no grammatical reconstruction -->
-
-*[The source resumes here with the incomplete Tamil phrase `கார்ந்து கொண்டாள்.`; no missing element is supplied in English.]*
+<!-- source: scan 123; printed page 122; literal Tamil resumes `கார்ந்து கொண்டாள்.`; no grammatical reconstruction or English completion supplied -->
 
 The wealthy woman stared at Chintamani. The gaze produced fear and disgust in her. When the woman closed her eyes as though asleep, Chintamani examined her more carefully and felt still more uneasy. An unscented blue kanakambaram flower sat in her hair; some perfume with the biting sharpness of chilli had been smeared on her body. Sitting without restraint or modest reserve, that "jewel among women" seemed a riddle to Chintamani.
 
