@@ -16,31 +16,29 @@
 - English translation plan: **PASS / COMPLETE**;
 - English Batches 1–4: **4 / 4 REVIEWED / COMPLETE**;
 - English coverage: **18 / 18 scans — scans 6–23**;
-- Section 16 whole-work bilingual review: **PASS / COMPLETE**;
-- whole-work English: **VERIFIED**;
-- unresolved translation items: **0**;
-- Section 17 release-readiness: **NEXT**.
+- Section 16: **corrective re-open required after release preflight**;
+- whole-work English VERIFIED label: **SUSPENDED pending correction/recheck**;
+- Section 17 release-readiness: **NOT READY — 1 fidelity blocker**.
 
 This is the first component of the 1978 four-story compilation; collection provenance is under `../../collections/arumbu-1978/`.
 
 ## Tamil archival layer
 
-All **18/18** canonical records are verified. T2 made **6** source-supported character-identity corrections and left **0** unresolved historical glyphs; T3 made **36** additional source-fidelity corrections and left **0** unresolved source readings.
+All **18/18** canonical records are verified. T2 made **6** source-supported character-identity corrections with **0** unresolved historical glyphs; T3 made **36** additional source-fidelity corrections with **0** unresolved source readings.
 
-Source-visible pagination remains exact: scan 6 unnumbered; scans 7–13 printed 2–8; scan 14 printed 10; scans 15–23 printed 11–19. No printed page 9 is invented. Canonical source-confirmed `பேசினேன்`, `அம்மனார்`, final `இனி:......`, and the absence of explicit `முற்றும்` remain unchanged.
+Source-visible pagination remains exact: scan 6 unnumbered; scans 7–13 printed 2–8; scan 14 printed 10; scans 15–23 printed 11–19. No printed page 9 is invented. Canonical `பேசினேன்`, `அம்மனார்`, final `இனி:......`, and the absence of explicit `முற்றும்` remain unchanged.
 
-## Assembled Tamil
+## Reading layers
 
-[`sections/01-arumbu.md`](sections/01-arumbu.md) is **PASS / COMPLETE — 1/1 section**, covering scans 6–23. Canonical `pages/` remain final textual authority.
+Tamil `sections/01-arumbu.md` is **PASS / COMPLETE — 1/1 section**. Canonical `pages/` remain final textual authority.
 
-## English translation
+English `translations/en/sections/01-arumbu.md` covers scans 6–23 in one section. Section 17 preflight, however, found a release-blocking mismatch at scan 17:
 
-Working English title: **The Bud**. [`translations/en/sections/01-arumbu.md`](translations/en/sections/01-arumbu.md) covers scans 6–23 as one continuous verified English section.
+- canonical: `எனக்குப் பொய் அம்மா வேணும்! நிஜ அம்மாதான் வேணும்!`;
+- current English: `I don't want a fake Amma! I want my real Amma!`.
 
-[`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) records the Section 16 independent whole-work review. It found and corrected three English-only issues: scan 15→16 `safe and sound`, scan 21→22 explicit Kumar agency, and scan 23 `The feeling of motherhood belongs to womankind!`. After recheck: **0 material omissions / 0 source-like additions / 0 unresolved items**. Canonical Tamil was not changed.
-
-Protected translation handling remains: `பேசினேன்` → **I spoke**; `அம்மனார்` → **Ammanar**; `இனி:......` → **from now on:......**; no unprinted **The End**.
+The English inserts a negation absent from the audited source. `translations/en/RELEASE_REPORT.md` therefore records **NOT READY**. Canonical Tamil was not changed.
 
 ## Exact next activity
 
-Execute **Section 17 release-readiness for `அரும்பு` only**: create `translations/en/RELEASE_REPORT.md`, verify work/source identity, Tamil/English inventories, Section 16 result, reader navigation, authority hierarchy, structural identity, source oddities, canonical-Tamil immutability, and source-PDF exclusion; record the archival/editorial verdict, synchronize controls, commit, and stop before another component work.
+Perform the narrow **Section 16 corrective re-open for scan 17 only**, preserve the source-confirmed affirmative wording, document/recheck it, synchronize controls, and stop. Then rerun Section 17 before starting another component.
