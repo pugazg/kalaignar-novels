@@ -20,13 +20,13 @@ The publisher note states that the volume contains four Kalaignar stories and th
 
 ## Component map
 
-| Physical scans | Component | Repository handling | Intake state |
+| Physical scans | Component | Repository handling | Current state |
 |---|---|---|---|
 | 1–5 | collection cover/title/publication/publisher matter | `collections/arumbu-1978/` | REGISTERED |
-| 6–23 | `அரும்பு` | `works/arumbu/` | NEW WORK / INTAKE COMPLETE |
-| 24–48 | `சாரப்பள்ளம் சாமுண்டி` | `works/sarapallam-samundi/` | NEW WORK / INTAKE COMPLETE |
+| 6–23 | `அரும்பு` | `works/arumbu/` | **18 / 18 VERIFIED; T1/T2/T3 COMPLETE; WHOLE-WORK TAMIL AUDIT NEXT** |
+| 24–48 | `சாரப்பள்ளம் சாமுண்டி` | `works/sarapallam-samundi/` | INTAKE COMPLETE / QUEUED |
 | 49–74 | `பெரிய இடத்துப் பெண்` | existing `works/periya-idathup-pen/` | ADDITIONAL SOURCE WITNESS REGISTERED |
-| 75–90 | `நடுத்தெரு நாராயணி` | `works/nadutheru-narayani/` | NEW WORK / INTAKE COMPLETE |
+| 75–90 | `நடுத்தெரு நாராயணி` | `works/nadutheru-narayani/` | INTAKE COMPLETE / QUEUED |
 | 91–92 | publisher catalogue / back cover | `collections/arumbu-1978/` | REGISTERED |
 
 The opening page of each component is visually title-led and does not carry a clearly visible printed page number. Printed page numbers must therefore be recorded from the source only when visibly present; do not infer them from sequence.
@@ -37,6 +37,10 @@ This 92-scan PDF is **one compilation source containing four distinct narrative 
 
 ## Current gate
 
-**COLLECTION SOURCE INTAKE: COMPLETE.** No narrative transcription has been started from this PDF.
+**COLLECTION SOURCE INTAKE: COMPLETE.**
 
-Exact next activity: begin page-level source processing for `works/arumbu/` in a five-scan batch, physical scans **6–10**, under the historical-glyph/source-first rules. Do not start the other components in the same iteration.
+For the first component `அரும்பு`, page-level source processing is now complete: scans **6–23**, **18 / 18 canonical records VERIFIED**, with all T1/T2/T3 checkpoints closed and no unresolved source readings. The final batch scans 21–23 closed with **4 T3 corrections / 0 unresolved**.
+
+The collection-level control previously still described narrative transcription as not started; that stale state is superseded by the live work records and is corrected here.
+
+Exact next activity: run the **whole-work Tamil audit gate for `works/arumbu/` only** under `NOVEL_PROCESSING_GUIDE.md` Section 12. Do not start `சாரப்பள்ளம் சாமுண்டி`, assembled Tamil, English, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.

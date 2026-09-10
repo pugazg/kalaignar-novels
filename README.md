@@ -18,19 +18,15 @@
 
 Component handling:
 
-- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **ACTIVE**;
+- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **ACTIVE; page-level T1/T2/T3 complete, whole-work Tamil audit next**;
 - [`சாரப்பள்ளம் சாமுண்டி`](works/sarapallam-samundi/README.md) — scans 24–48 — registered / queued;
 - [`பெரிய இடத்துப் பெண்`](works/periya-idathup-pen/README.md) — scans 49–74 — additional witness to the existing work, not a duplicate;
 - [`நடுத்தெரு நாராயணி`](works/nadutheru-narayani/README.md) — scans 75–90 — registered / queued.
 
-### Active small-task checkpoint
-
-Source batches use three separately durable checkpoints: T1 direct transcription/canonical records, T2 independent historical-glyph re-read, and T3 final source-fidelity closure. Each stage synchronizes controls and commits separately.
-
-Current `அரும்பு` state:
+### Current `அரும்பு` state
 
 - canonical records: **18 / 18 — scans 6–23**;
-- verified records: **15 / 18 — scans 6–20 contiguous**;
+- verified records: **18 / 18 — scans 6–23 contiguous**;
 - scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
 - scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
 - scans 16–20 T1/T2/T3: **PASS / COMPLETE**;
@@ -38,9 +34,13 @@ Current `அரும்பு` state:
 - scans 16–20 T3: 11 additional source-fidelity corrections / 0 unresolved;
 - scans 21–23 T1: **PASS / COMPLETE**;
 - scans 21–23 T2: **PASS / COMPLETE — 0 corrections / 0 unresolved**;
-- scans 21–23 T3: **NEXT**.
+- scans 21–23 T3: **PASS / COMPLETE — 4 additional corrections / 0 unresolved**;
+- whole-work Tamil audit: **NEXT**;
+- assembled Tamil / English: **BLOCKED until the Tamil audit gate passes**.
 
-Exact next action: **`அரும்பு` scans 21–23 / T3 only**, followed by control sync + separate commit + stop before `சாரப்பள்ளம் சாமுண்டி`.
+Final-batch T3 corrected two scan-21 punctuation marks, scan-22 `ஆஸ்பத்திரியிலே` → `ஆஸ்பத்திரியில்`, and scan-23 `இனி......` → `இனி:......`. T2-confirmed source readings `பேசினேன்` and `அம்மனார்` remain unchanged.
+
+Exact next action: **run the whole-work Tamil audit gate for `அரும்பு` only**, synchronize controls, commit, and stop before assembled Tamil, English, `சாரப்பள்ளம் சாமுண்டி`, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 

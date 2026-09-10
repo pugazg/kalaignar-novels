@@ -1,4 +1,4 @@
-# Next Chat Prompt — அரும்பு / scans 21–23 / T3 final source-fidelity checkpoint
+# Next Chat Prompt — அரும்பு / whole-work Tamil audit gate
 
 Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections/arumbu-1978/`, active work `works/arumbu/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -17,7 +17,7 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 ## Durable compilation structure
 
 - scans 1–5 — collection front matter;
-- scans 6–23 — `அரும்பு` — ACTIVE;
+- scans 6–23 — `அரும்பு` — ACTIVE, page-level source gates complete;
 - scans 24–48 — `சாரப்பள்ளம் சாமுண்டி` — queued;
 - scans 49–74 — `பெரிய இடத்துப் பெண்` — additional witness only;
 - scans 75–90 — `நடுத்தெரு நாராயணி` — queued;
@@ -25,68 +25,66 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 
 ## Mandatory startup
 
-Read before source-dependent work:
+Read before the audit:
 
-1. `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`;
-2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
-3. root `HANDOVER.md`;
-4. `works/arumbu/README.md`;
-5. `works/arumbu/indexes/page-map.md`;
-6. `works/arumbu/audit.md`;
-7. `works/arumbu/T1_BATCH_021_023.md`;
-8. `works/arumbu/T2_BATCH_021_023.md`;
-9. canonical scan records `works/arumbu/pages/0021-arumbu-17.md`, `0022-arumbu-18.md`, `0023-arumbu-19.md`.
+1. `NOVEL_PROCESSING_GUIDE.md`, especially Section 12 Tamil audit gate;
+2. `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`;
+3. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+4. root `HANDOVER.md`;
+5. `collections/arumbu-1978/README.md`;
+6. `works/arumbu/README.md`;
+7. `works/arumbu/metadata/source.md`;
+8. `works/arumbu/indexes/page-map.md`;
+9. `works/arumbu/audit.md`;
+10. `works/arumbu/T1_BATCH_021_023.md`;
+11. `works/arumbu/T2_BATCH_021_023.md`;
+12. `works/arumbu/T3_BATCH_021_023.md`;
+13. canonical page records under `works/arumbu/pages/` as needed to reconcile the complete inventory and continuity.
 
 ## Durable state
 
-Scans **6–20 are CLOSED / VERIFIED** after T1+T2+T3.
-
-Final scans **21–23**:
-
-- directly visible printed pages: **17, 18, 19**;
-- T1 — **PASS / COMPLETE**;
-- T2 — **PASS / COMPLETE — 0 character-identity corrections / 0 unresolved historical glyphs**;
-- canonical records — **3 / 3 present**, all `needs-review` pending T3;
-- T3 — **NEXT**.
-
-Current totals:
+Page-level source processing for `அரும்பு` is complete:
 
 - canonical records: **18 / 18 — scans 6–23**;
-- verified records: **15 / 18 — scans 6–20 contiguous**;
+- verified records: **18 / 18 — scans 6–23 contiguous**;
+- scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
+- scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
+- scans 16–20 T1/T2/T3: **PASS / COMPLETE**;
+- scans 21–23 T1: **PASS / COMPLETE**;
+- scans 21–23 T2: **PASS / COMPLETE — 0 corrections / 0 unresolved**;
+- scans 21–23 T3: **PASS / COMPLETE — 4 corrections / 0 unresolved**;
+- whole-work Tamil audit: **NEXT**;
 - assembled Tamil / English remain BLOCKED.
 
-The independent T2 pass explicitly checked the full known set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` on every complete page.
+Final-batch T3 corrections:
 
-Important source-confirmed readings:
+- scan 21 `பார்த்தான்:` → `பார்த்தான்.`;
+- scan 21 `கிடந்தன:` → `கிடந்தன.`;
+- scan 22 `ஆஸ்பத்திரியிலே` → `ஆஸ்பத்திரியில்`;
+- scan 23 `இனி......` → `இனி:......`.
 
-- scan 22 — **`பேசினேன்`** is directly visible in enlarged source pixels; do not context-normalize it;
-- scan 23 — **`அம்மனார்`** is directly visible and its `னா` identity is confirmed; do not context-normalize it.
+Source-confirmed unusual readings remain:
 
-Do not reopen scans 6–20 without genuinely new source evidence.
+- scan 22 — `பேசினேன்`;
+- scan 23 — `அம்மனார்`.
 
-## Small-task discipline
+Scan 23 is the final physical page of `அரும்பு`; no explicit `முற்றும்` is printed.
 
-- **T1** = COMPLETE for scans 21–23.
-- **T2** = COMPLETE for scans 21–23.
-- **T3** = current checkpoint: exhaustive final source-fidelity closure.
+## Exact next activity — whole-work Tamil audit only
 
-Do not begin the next component within T3.
+Run the Section 12 Tamil audit gate for `அரும்பு`:
 
-## Exact next activity — scans 21–23 / T3 only
+- confirm all **18 / 18** source scans have canonical records and page-map coverage with no gap;
+- confirm all 18 records are `verified` and every required page-level T1/T2/T3 gate is durably recorded;
+- reconcile `works/arumbu/metadata/source.md` and collection provenance with the controlling source identity;
+- confirm visible printed-page mapping, including unnumbered scan 6 and final visible printed page 19 on scan 23;
+- confirm cross-page joins and component boundaries are coherent and reversible;
+- confirm illustrations/footer/non-body observations are separated from narrative text;
+- confirm historical-glyph coverage is complete and unresolved historical/source readings are **0**;
+- confirm no silent modernization, context reconstruction or unsupported normalization remains in the canonical layer;
+- confirm the source PDF remains excluded from the repository;
+- update `works/arumbu/audit.md` with an explicit whole-work Tamil audit PASS/hold result;
+- synchronize `works/arumbu/README.md`, page map if needed, root `HANDOVER.md`, `NEXT_NOVEL_CHAT_PROMPT.md`, root `README.md`, and collection status if affected;
+- commit the audit checkpoint and stop.
 
-Independently compare complete physical scans **21, 22 and 23** against direct source pixels:
-
-- check the entire printed text for omissions, duplicates, unsupported words or misplaced fragments;
-- check source spelling, punctuation, dialogue marks, paragraph structure and spacing where source-visible;
-- confirm printed-page numbers **17, 18, 19**, page type and final-page behavior;
-- confirm 20→21, 21→22 and 22→23 physical continuity;
-- confirm illustrations/non-body material remain separate from narrative text;
-- confirm T2 findings are represented correctly;
-- preserve source-confirmed `பேசினேன்` and `அம்மனார்` unless direct pixels positively prove a different reading;
-- resolve only what the scan directly supports; do not modernize or reconstruct from context;
-- record every T3 correction and any unresolved source reading;
-- if all mandatory gates pass, mark all three records `verified`, making `அரும்பு` **18 / 18 VERIFIED**;
-- synchronize work/root controls and commit T3 immediately;
-- stop.
-
-Do **not** begin `சாரப்பள்ளம் சாமுண்டி`, perform the 1978 `பெரிய இடத்துப் பெண்` witness comparison, or start English/assembly work in this checkpoint.
+Do **not** create assembled Tamil sections, start English, begin `சாரப்பள்ளம் சாமுண்டி`, or perform the 1978 `பெரிய இடத்துப் பெண்` witness comparison in this checkpoint.
