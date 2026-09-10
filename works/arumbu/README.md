@@ -20,8 +20,9 @@
 - Tamil source layer: **PASSED**;
 - assembled Tamil: **1 / 1 section — PASSED**;
 - English translation plan: **PASS / COMPLETE**;
-- English prose: **NOT STARTED**;
-- next English checkpoint: **Batch 1 pilot — scans 6–10**.
+- English Batch 1 pilot — scans **6–10**: **REVIEWED / COMPLETE**;
+- current English coverage: **5 / 18 source scans**;
+- next English checkpoint: **Batch 2 — scans 11–15**.
 
 This is the first component of the 1978 four-story compilation. Collection provenance is recorded at `../../collections/arumbu-1978/`.
 
@@ -73,34 +74,31 @@ The visible printed-page jump scan 13 / printed 8 → scan 14 / printed 10 is pr
 - source-confirmed `பேசினேன்`, `அம்மனார்`, and final `இனி:......` are retained unchanged;
 - no artificial chapter divisions and no unprinted `முற்றும்` were added.
 
-## English translation plan
+## English translation
 
-**SECTION 14 — PASS / COMPLETE.**
+Section 14 plan: **PASS / COMPLETE**. Working English title: **The Bud**.
 
-English controls now live under [`translations/en/`](translations/en/):
+English controls live under [`translations/en/`](translations/en/). The final English structure remains one continuous section translated in four controlled source-aligned batches: **6–10**, **11–15**, **16–20**, **21–23**.
 
-- [`TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md) — governing plan;
-- [`README.md`](translations/en/README.md) — planned-state summary;
-- [`PROGRESS.md`](translations/en/PROGRESS.md) — batch progress;
-- [`GLOSSARY.md`](translations/en/GLOSSARY.md) — provisional/protected terminology;
-- [`PLAN_CHECKPOINT.md`](translations/en/PLAN_CHECKPOINT.md) — durable planning checkpoint.
+### Batch 1 pilot — scans 6–10
 
-Working English title: **The Bud**.
+**REVIEWED / COMPLETE.** [`translations/en/sections/01-arumbu.md`](translations/en/sections/01-arumbu.md) now contains the English reading layer through scan 10 only.
 
-The final English structure remains one section, but prose will be produced in four controlled source-aligned batches: **6–10**, **11–15**, **16–20**, **21–23**. Batch 1 is the mandatory pilot. Audited `pages/` remain final textual authority; assembled Tamil is continuity support.
+The pilot was translated from canonical pages `0006`–`0010`, then checked back against those same audited records for complete coverage, agency, speaker boundaries, paragraph order, page joins, names, ritual/cultural terms, punctuation, repetition and emotional force. Unresolved translation items at closure: **0**. No scan 11 prose is present.
 
-The plan explicitly protects scan 22 `பேசினேன்`, scan 23 `அம்மனார்`, final `இனி:......`, the printed-page 8→10 jump, and the absence of explicit `முற்றும்` from silent normalization.
+Pilot terminology and style decisions are locked in [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md). [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md) records **5 / 18 source scans** translated and reviewed.
+
+The plan continues to protect scan 22 `பேசினேன்`, scan 23 `அம்மனார்`, final `இனி:......`, the printed-page 8→10 jump, and the absence of explicit `முற்றும்` from silent normalization.
 
 ## Exact next activity
 
-Execute **English Batch 1 pilot — scans 6–10 only**:
+Execute **English Batch 2 — scans 11–15 only**:
 
-- translate only audited Tamil for scans **6–10**;
-- create/update `translations/en/sections/01-arumbu.md` for the pilot span;
+- append only audited Tamil for scans **11–15** to `translations/en/sections/01-arumbu.md`;
 - retain reversible scan/page provenance;
-- source-check English back against canonical page records `0006`–`0010`;
-- lock applicable name, terminology, cultural-term, punctuation and dialogue decisions in `GLOSSARY.md`;
-- update `translations/en/README.md` and `PROGRESS.md`;
-- mark Batch 1 `reviewed` only after source comparison;
-- synchronize controls, commit, and stop before Batch 2;
+- source-check the new English span against canonical page records `0011`–`0015`;
+- preserve the locked Batch 1 style/terminology unless an explicit source-backed conflict requires documented review;
+- update `translations/en/README.md`, `PROGRESS.md`, `GLOSSARY.md` and affected work/root controls;
+- mark Batch 2 `reviewed` only after source comparison;
+- commit and stop before Batch 3;
 - do **not** begin `சாரப்பள்ளம் சாமுண்டி` or the 1978 `பெரிய இடத்துப் பெண்` witness comparison.

@@ -18,101 +18,67 @@
 | Tamil source layer | **PASSED** |
 | Assembled Tamil | **PASS / COMPLETE — 1 / 1 section** |
 | English translation plan | **PASS / COMPLETE** |
-| English prose | **NOT STARTED** |
-| Next English checkpoint | **Batch 1 pilot — scans 6–10** |
+| English Batch 1 pilot — scans 6–10 | **REVIEWED / COMPLETE** |
+| Current English coverage | **5 / 18 source scans** |
+| English Batch 2 — scans 11–15 | **NEXT** |
+| Whole-work bilingual review | **BLOCKED until all English batches are reviewed** |
 
 No source PDF is committed.
 
-## Checkpoint model
+## Tamil archival state
 
-Bounded source work followed root `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`: T1 direct visual first pass, T2 independent historical-glyph / character-identity re-read, and T3 final source-fidelity closure. Every bounded checkpoint was synchronized and committed separately. After full page-level closure, the separate whole-work Tamil audit required by `NOVEL_PROCESSING_GUIDE.md` Section 12 passed before the Section 13 assembled reading layer was created.
-
-## Closed page-level batches
-
-All four source ranges are closed:
+All four Tamil source batches are closed:
 
 - scans **6–10** — T1/T2/T3 PASS / VERIFIED;
 - scans **11–15** — T1/T2/T3 PASS / VERIFIED;
 - scans **16–20** — T1/T2/T3 PASS / VERIFIED;
 - scans **21–23** — T1/T2/T3 PASS / VERIFIED.
 
-Across the component, the dedicated T2 passes made **6 source-supported character-identity corrections** and left **0 unresolved historical glyphs**. The T3 passes made **36 additional source-fidelity corrections** and left **0 unresolved source readings**.
+Across the component, dedicated T2 passes made **6 source-supported character-identity corrections** and left **0 unresolved historical glyphs**. T3 passes made **36 additional source-fidelity corrections** and left **0 unresolved source readings**.
 
-Final-batch source-confirmed unusual readings remain unchanged: scan 22 **`பேசினேன்`** and scan 23 **`அம்மனார்`**. They were not context-normalized.
+The Section 12 whole-work Tamil audit remains **PASS / COMPLETE**. Durable source facts remain unchanged: scan 6 is unnumbered; scans 7–13 print 2–8; scan 14 prints 10; scans 15–23 print 11–19; no printed page 9 is invented; scan 23 has no explicit `முற்றும்`; source-confirmed `பேசினேன்`, `அம்மனார்`, and final `இனி:......` remain protected from silent normalization.
 
-## Whole-work Tamil audit — PASS / COMPLETE
+## Assembled Tamil reading layer
 
-The Section 12 Tamil audit reconciled the controlling 1978 compilation, work metadata, page map, all closed T1/T2/T3 batch records, and all 18 verified canonical page records.
+Section 13 remains **PASS / COMPLETE — 1 / 1 section**. `sections/01-arumbu.md` covers scans **6–23** once and in source order, retains reversible provenance and uses only previously established cross-page joins. Canonical `pages/` remain unchanged and controlling.
 
-Durable findings:
+## Section 14 English translation plan
 
-- physical work span: **scans 6–23**, exactly **18 scans**;
-- canonical / verified records: **18 / 18**;
-- scan 6 has no visibly printed page number and remains `null`;
-- scans 7–13 visibly print **2–8**;
-- scan 14 visibly prints **10**;
-- scans 15–23 visibly print **11–19**;
-- no synthetic printed page 9 is inserted;
-- physical continuity across 13→14 is `ஊற்றெடுத்துக் கிளம்பிவரும்` → `அருவி!`;
-- scan 23 is the final page and has no explicit `முற்றும்`;
-- no source-backed chapter divisions exist;
-- historical-glyph unresolved items: **0**;
-- source-fidelity unresolved items: **0**;
-- controlling PDF remains excluded from the repository.
+**PASS / COMPLETE.** Working English title: **The Bud**. Final English structure remains one continuous section built in four controlled source-aligned batches: **6–10**, **11–15**, **16–20**, **21–23**.
 
-**TAMIL SOURCE AUDIT — PASS / COMPLETE.**
+Authority remains:
 
-## Assembled Tamil reading layer — PASS / COMPLETE
+1. audited canonical Tamil `pages/` — final textual authority;
+2. assembled Tamil `sections/01-arumbu.md` — reading continuity;
+3. metadata/audit/page map — structural and provenance controls.
 
-Section 13 was completed only after the Tamil source audit passed.
+## English Batch 1 pilot — scans 6–10 — REVIEWED / COMPLETE
 
-Artifacts:
+Artifact: `translations/en/sections/01-arumbu.md`.
 
-- `sections/README.md` — derivation/authority, section inventory, join inventory and verification record;
-- `sections/01-arumbu.md` — one continuous reading section covering scans **6–23**.
+The pilot was translated from canonical records `pages/0006-arumbu-01.md` through `pages/0010-arumbu-05.md`. Assembled Tamil was used only for already-audited continuity. The English span was then checked back against all five canonical records.
 
-Checks passed:
+Review checks passed:
 
-- scans **6–23** represented once and in source order;
-- **18 / 18** canonical records represented;
-- no artificial chapter split;
-- only previously established page continuations joined;
-- reversible scan/page provenance retained;
-- printed-page 8→10 jump preserved without inventing 9;
-- `பேசினேன்`, `அம்மனார்`, and `இனி:......` retained;
-- no unprinted `முற்றும்` added;
-- canonical `pages/` unchanged.
+- source coverage: scans **6–10**, exactly five source scans;
+- every substantive sentence and dialogue unit represented in source order;
+- no scan 11 prose introduced;
+- speaker/actor agency preserved;
+- paragraph and dialogue boundaries preserved;
+- established 7→8, 8→9 and 9→10 cross-page continuities retained with reversible HTML provenance;
+- scan 6 remains unnumbered in provenance; printed pages 2–5 retained for scans 7–10;
+- names/place names consistent with the translation plan;
+- `புதுமை முறை` rendered source-neutrally as **new-style**, without importing an unprinted movement label;
+- pilot ritual/cultural terms locked conservatively in `translations/en/GLOSSARY.md`;
+- ellipses, repetition, rhetorical/emotional force and quoted metaphors retained where material;
+- omissions at closure: **0**;
+- source-like additions at closure: **0**;
+- unresolved translation items: **0**.
 
-**ASSEMBLED TAMIL READING LAYER — PASS / COMPLETE.**
-
-## Section 14 English translation plan — PASS / COMPLETE
-
-The required translation plan now exists at `translations/en/TRANSLATION_PLAN.md`.
-
-Planning decisions:
-
-- working English title: **The Bud**;
-- final English reading structure: **one section**, matching the audited Tamil structure;
-- controlled source-aligned translation batches: **6–10**, **11–15**, **16–20**, **21–23**;
-- Batch 1 is the mandatory pilot;
-- audited `pages/` are final textual authority; assembled Tamil is continuity support;
-- names/transliteration, cultural/ritual terminology, dialogue/punctuation, child register and recurring `அரும்பு` / bud imagery have explicit policies;
-- scan 22 `பேசினேன்`, scan 23 `அம்மனார்`, scan 23 `இனி:......`, the visible printed-page 8→10 jump and the absence of `முற்றும்` are protected from silent normalization;
-- `translations/en/README.md`, `PROGRESS.md`, `GLOSSARY.md` and `PLAN_CHECKPOINT.md` are initialized;
-- **no English prose has been created**.
-
-**SECTION 14 ENGLISH TRANSLATION PLAN — PASS / COMPLETE.**
+Pilot terminology/style lock: **COMPLETE**. Batch 1 state: `draft-translated → source-checked → reviewed` — **PASS**.
 
 ## Exact next activity
 
-Execute **English Batch 1 pilot — scans 6–10 only** under `NOVEL_PROCESSING_GUIDE.md` Section 15:
+Execute **English Batch 2 — scans 11–15 only**. Append only that audited span to the existing English section, source-check it against canonical pages 0011–0015, preserve locked pilot decisions unless a documented source conflict requires review, synchronize controls, commit, and stop before Batch 3.
 
-- translate only audited Tamil for scans **6–10**;
-- write the pilot span into `translations/en/sections/01-arumbu.md`;
-- preserve scan/page provenance;
-- source-check every translated paragraph back against canonical page records 0006–0010;
-- update/lock applicable `GLOSSARY.md` decisions;
-- update `translations/en/README.md` and `PROGRESS.md`;
-- mark Batch 1 `reviewed` only after source comparison;
-- synchronize controls and commit;
-- stop before Batch 2, `சாரப்பள்ளம் சாமுண்டி`, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison.
+Do not begin `சாரப்பள்ளம் சாமுண்டி` or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.

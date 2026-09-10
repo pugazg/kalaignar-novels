@@ -18,7 +18,7 @@
 
 Component handling:
 
-- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **TAMIL SOURCE + ASSEMBLED TAMIL + ENGLISH PLAN PASSED / BATCH 1 PILOT NEXT**;
+- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **TAMIL SOURCE + ASSEMBLED TAMIL + ENGLISH PLAN PASSED / ENGLISH BATCH 1 REVIEWED / BATCH 2 NEXT**;
 - [`சாரப்பள்ளம் சாமுண்டி`](works/sarapallam-samundi/README.md) — scans 24–48 — registered / queued;
 - [`பெரிய இடத்துப் பெண்`](works/periya-idathup-pen/README.md) — scans 49–74 — additional witness to the existing work, not a duplicate;
 - [`நடுத்தெரு நாராயணி`](works/nadutheru-narayani/README.md) — scans 75–90 — registered / queued.
@@ -35,14 +35,17 @@ Component handling:
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - English translation plan: **PASS / COMPLETE**;
 - working English title: **The Bud**;
-- English prose: **NOT STARTED**;
-- Batch 1 pilot — scans **6–10**: **NEXT**.
+- English Batch 1 pilot — scans **6–10**: **REVIEWED / COMPLETE**;
+- current English coverage: **5 / 18 source scans**;
+- English Batch 2 — scans **11–15**: **NEXT**.
 
-The assembled Tamil layer is [`works/arumbu/sections/01-arumbu.md`](works/arumbu/sections/01-arumbu.md), derived only from the 18 audited canonical records and retaining reversible scan provenance. The English planning controls are under [`works/arumbu/translations/en/`](works/arumbu/translations/en/README.md).
+The assembled Tamil layer is [`works/arumbu/sections/01-arumbu.md`](works/arumbu/sections/01-arumbu.md), derived only from the 18 audited canonical records and retaining reversible scan provenance. The English layer is being built in [`works/arumbu/translations/en/sections/01-arumbu.md`](works/arumbu/translations/en/sections/01-arumbu.md) in four controlled source-aligned batches.
+
+Batch 1 has been source-checked against canonical pages 0006–0010 and reviewed with **0 omissions, 0 source-like additions, 0 unresolved translation items**. Pilot terminology/style decisions are locked in [`works/arumbu/translations/en/GLOSSARY.md`](works/arumbu/translations/en/GLOSSARY.md).
 
 The source-visible printed pagination remains exact: scan 6 is unnumbered; scans 7–13 show 2–8; scan 14 shows 10; scans 15–23 show 11–19. No printed page 9 is inferred. Source-confirmed `பேசினேன்`, `அம்மனார்`, and final `இனி:......` remain protected from silent normalization, and no unprinted `முற்றும்` is added.
 
-Exact next action: **translate and fully source-check English Batch 1 pilot for `அரும்பு`, scans 6–10 only**, synchronize controls, commit, and stop before Batch 2 or `சாரப்பள்ளம் சாமுண்டி`.
+Exact next action: **translate and fully source-check English Batch 2 for `அரும்பு`, scans 11–15 only**, synchronize controls, commit, and stop before Batch 3 or `சாரப்பள்ளம் சாமுண்டி`.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 
