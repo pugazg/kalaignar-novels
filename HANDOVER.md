@@ -46,34 +46,25 @@ Do not fold T2/T3 work into T1.
 ## `அரும்பு` durable state
 
 - work span: **18 scans — physical 6–23**;
-- canonical records: **10 / 18 — scans 6–15**;
+- canonical records: **15 / 18 — scans 6–20**;
 - verified canonical records: **10 / 18 — scans 6–15 contiguous**;
 - scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
-- scans 11–15 T1: **PASS / COMPLETE**;
-- scans 11–15 T2: **PASS / COMPLETE — 1 correction / 0 unresolved**;
-- scans 11–15 T3: **PASS / COMPLETE — 2 corrections / 0 unresolved**;
-- scans 16–20 T1: **NEXT**;
-- scans 16–20 T2/T3: BLOCKED by preceding checkpoint;
+- scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
+- scans 16–20 T1: **PASS / COMPLETE**;
+- scans 16–20 T2: **NEXT**;
+- scans 16–20 T3: BLOCKED by T2;
 - scans 21–23: not started.
 
-Scans 11–15 directly visible printed pages: **6, 7, 8, 10, 11**. Printed page **9 is not inferred**.
+Scans 16–20 directly visible printed pages: **12, 13, 14, 15, 16**.
 
-Closed-batch source joins/edges:
+T1 physical joins/edges retained:
 
-- 11→12: `போய்` / `விட்டனர்.`;
-- 13→14: `ஊற்றெடுத்துக் கிளம்பிவரும்` / `அருவி!`;
-- scan 15 ends physically at `செல்லக்`.
+- 15→16: `செல்லக்` / `குழந்தையை—...`;
+- 16→17: `அவர்களைக்-` / `கவனிக்கிறான்.`;
+- 18→19: `செலவா` / `யிற்று.`;
+- 19→20: `கடிந்துகொண்` / `டிருக்கிறாள்.`.
 
-Scan 13 contains a large printed illustration, kept outside narrative text.
-
-Checkpoint records now include:
-
-- `works/arumbu/T1_BATCH_006_010.md` — PASS;
-- `works/arumbu/T2_BATCH_006_010.md` — PASS;
-- `works/arumbu/T3_BATCH_006_010.md` — PASS;
-- `works/arumbu/T1_BATCH_011_015.md` — PASS;
-- `works/arumbu/T2_BATCH_011_015.md` — PASS;
-- `works/arumbu/T3_BATCH_011_015.md` — PASS.
+Checkpoint records now include `works/arumbu/T1_BATCH_016_020.md` — PASS.
 
 ## Numbering/source rule
 
@@ -81,15 +72,15 @@ Record printed page numbers only when directly visible. Never infer missing numb
 
 ## Exact next activity
 
-Execute **`அரும்பு` scans 16–20 / T1 only**:
+Execute **`அரும்பு` scans 16–20 / T2 only**:
 
-- visually transcribe each complete physical scan once;
-- create canonical page records under `works/arumbu/pages/`;
-- record only directly visible printed-page numbers;
-- preserve page-boundary fragments, illustrations and non-body marks separately;
-- do not run T2/T3 in the same checkpoint;
-- leave the new records `needs-review`;
-- synchronize affected controls and commit T1 immediately;
-- stop before T2 or scan 21.
+- independently re-read all five complete pages under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+- focus on character identity and known historical-glyph families;
+- create targeted crops only for actual uncertainty;
+- correct only direct-source-supported character identities;
+- record corrections and any unresolved forms;
+- keep page status `needs-review` until T3;
+- synchronize affected controls and commit T2 separately;
+- stop before T3 and before scan 21.
 
 Do not begin another component or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.

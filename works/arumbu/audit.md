@@ -6,13 +6,14 @@
 |---|---|
 | Collection/source intake | **PASS / COMPLETE** |
 | Work identity / scan boundary | **PASS — scans 6–23** |
-| Page-level Tamil transcription | **IN PROGRESS — 10 / 18 canonical records** |
+| Page-level Tamil transcription | **IN PROGRESS — 15 / 18 canonical records** |
 | Scans 6–10 T1/T2/T3 | **PASS / COMPLETE — VERIFIED** |
-| Scans 11–15 T1 | **PASS / COMPLETE** |
-| Scans 11–15 T2 | **PASS / COMPLETE — 1 correction / 0 unresolved** |
-| Scans 11–15 T3 | **PASS / COMPLETE — 2 corrections / 0 unresolved** |
+| Scans 11–15 T1/T2/T3 | **PASS / COMPLETE — VERIFIED** |
+| Scans 16–20 T1 | **PASS / COMPLETE — 5 records / needs-review** |
+| Scans 16–20 T2 | **NEXT** |
+| Scans 16–20 T3 | BLOCKED by T2 |
 | Verified canonical pages | **10 / 18 — scans 6–15 contiguous** |
-| Scans 16–20 T1 | **NEXT** |
+| Scans 21–23 | not-started |
 | Full Tamil audit | BLOCKED until all component pages complete |
 | Assembled Tamil | BLOCKED |
 | English | BLOCKED |
@@ -21,51 +22,28 @@ No source PDF is committed.
 
 ## Checkpoint model
 
-The active workflow follows root `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`:
+The active workflow follows root `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`: T1 direct visual first pass, T2 independent historical-glyph / character-identity re-read, T3 final source-fidelity closure. Each checkpoint synchronizes controls and commits separately.
 
-- **T1** — one direct visual transcription pass + canonical records + exact visible numbering; control sync + commit;
-- **T2** — independent historical-glyph / character-identity re-read; control sync + commit;
-- **T3** — final source-fidelity closure; control sync + commit.
+## Closed batches
 
-Each checkpoint remains a separate durable state.
-
-## Closed batch — scans 6–10
-
-T1, T2 and T3 are **PASS / COMPLETE**. Five canonical records are **VERIFIED**. T2 made 4 character-identity corrections; T3 made 19 additional source-fidelity corrections; unresolved readings: 0.
-
-## Closed batch — scans 11–15
-
-### T1 — PASS / COMPLETE
-
-Five direct visual first-pass records created. Directly visible printed pages: **6, 7, 8, 10, 11**. Printed page 9 was not inferred. Scan 13 illustration was kept separate from body text.
-
-### T2 — PASS / COMPLETE
-
-One historical-glyph correction on scan 12: `திருக்குவள நண்பன்` → **`திருக்குவளை நண்பன்`**. Unresolved historical glyphs: **0**.
-
-### T3 — PASS / COMPLETE
-
-Final source-fidelity closure found **2** additional corrections, both on scan 12:
-
-1. `கோமதி அழுது அழுது கொண்டிருப்பதைப் பார்த்தான்.` → **`கோமதி அழுது கொண்டிருப்பதைப் பார்த்தான்.`**;
-2. `சாப்பாடுகூடப் போடவில்லை!` → source-visible **`சாப்பாடுகூடப் போட்டவில்லையே!`**.
-
-Scans 11, 13, 14 and 15 required no T3 text correction. Unresolved source readings: **0**.
-
-Physical joins/edges retained:
-
-- 11→12 `போய்` / `விட்டனர்.`;
-- 13→14 `ஊற்றெடுத்துக் கிளம்பிவரும்` / `அருவி!`;
-- scan 15 ends at `செல்லக்`; no scan-16 completion was inferred during this closed batch.
-
-The five scans are now **VERIFIED**.
+Scans 6–10 and 11–15 have T1 + T2 + T3 **PASS / COMPLETE** and are **VERIFIED**. The verified contiguous range is scans **6–15**.
 
 ## Active batch — scans 16–20
 
-- T1 — **NEXT**;
-- T2 — BLOCKED by T1;
-- T3 — BLOCKED by T2.
+### T1 — PASS / COMPLETE
 
-## Exact next activity
+See [`T1_BATCH_016_020.md`](T1_BATCH_016_020.md).
 
-Execute **T1 only** for physical scans **16–20**: visually transcribe each complete page once, create canonical `needs-review` records using only directly visible printed-page numbers, preserve physical joins/non-body material, synchronize controls, commit, and stop before T2. Do not begin scan 21.
+- five direct visual first-pass records created;
+- page states remain `needs-review`;
+- directly visible printed pages: **12, 13, 14, 15, 16**;
+- no numbering was inferred;
+- preserved physical joins: 15→16 `செல்லக்` / `குழந்தையை—...`; 16→17 `அவர்களைக்-` / `கவனிக்கிறான்.`; 18→19 `செலவா` / `யிற்று.`; 19→20 `கடிந்துகொண்` / `டிருக்கிறாள்.`;
+- no scan 21 text was inspected;
+- no T2/T3 work was folded into T1.
+
+### T2 — NEXT
+
+Independently re-read scans 16–20 under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, correct only source-supported character identities, synchronize controls, commit, and stop before T3.
+
+Do not begin scan 21.

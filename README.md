@@ -31,15 +31,16 @@ Source batches use three separately durable checkpoints: T1 direct transcription
 
 Current `அரும்பு` state:
 
-- canonical records: **10 / 18 — scans 6–15**;
+- canonical records: **15 / 18 — scans 6–20**;
 - verified records: **10 / 18 — scans 6–15 contiguous**;
 - scans 6–10 T1/T2/T3: **PASS / COMPLETE**;
 - scans 11–15 T1/T2/T3: **PASS / COMPLETE**;
-- scans 11–15 T2: 1 historical-glyph correction / 0 unresolved;
-- scans 11–15 T3: 2 additional source-fidelity corrections / 0 unresolved;
-- scans 16–20 T1: **NEXT**.
+- scans 16–20 T1: **PASS / COMPLETE — 5 `needs-review` records**;
+- scans 16–20 T2: **NEXT**;
+- scans 16–20 T3: blocked until T2 passes;
+- scans 21–23: not-started.
 
-Directly visible printed pages for scans 11–15 are **6, 7, 8, 10, 11**; printed page 9 is not inferred. Exact next action: **`அரும்பு` scans 16–20 / T1 only**, followed by control sync + separate commit + stop before T2.
+Directly visible printed pages for scans 16–20 are **12, 13, 14, 15, 16**. Exact next action: **`அரும்பு` scans 16–20 / T2 only**, followed by control sync + separate commit + stop before T3.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 
