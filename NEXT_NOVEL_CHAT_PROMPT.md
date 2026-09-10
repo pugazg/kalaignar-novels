@@ -1,4 +1,4 @@
-# Next Chat Prompt — வெள்ளிக்கிழமை / English Batch 4 Chapters 12–14
+# Next Chat Prompt — வெள்ளிக்கிழமை / Final Bilingual Review
 
 Continue in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -14,23 +14,33 @@ Known literal source discontinuities remain at scans 117→118, 122→123 and 15
 
 ## English state
 
-- plan — COMPLETE;
-- Chapters 1–11 — **REVIEWED**;
-- English coverage — **scan 4 through scan 99 before centered `12`**;
+- translation plan — **COMPLETE**;
+- Chapters 1–23 — **REVIEWED / COMPLETE**;
+- English coverage — **scan 4 through final narrative scan 179**;
 - unresolved English translation holds — **0**;
-- Batch 3 Chapters 5–11 was explicitly enlarged by the user to seven chapters;
-- final bilingual review / release — BLOCKED.
+- Batch 3 Chapters 5–11 was explicitly enlarged by the user;
+- final-remainder Batch 4 Chapters 12–23 was explicitly enlarged by the user;
+- final bilingual review — **READY / NOT YET RUN**;
+- whole-work English — **NOT YET VERIFIED**;
+- release — **BLOCKED pending final bilingual review**.
 
-Read before translating: `NOVEL_PROCESSING_GUIDE.md` Sections 14–17, `translations/en/TRANSLATION_PLAN.md`, `PROGRESS.md`, `GLOSSARY.md`, and PASSED Tamil Chapters 12–14 plus canonical pages as needed for source checking.
+Read before review: `NOVEL_PROCESSING_GUIDE.md` Sections 14–17, `translations/en/TRANSLATION_PLAN.md`, `PROGRESS.md`, `GLOSSARY.md`, `TRANSLATION_REVIEW.md`, all 23 English chapter files, corresponding PASSED Tamil chapters, and canonical page records where a wording/provenance question requires the controlling text.
 
 ## Exact next activity
 
-Run **English Batch 4 — Chapters 12–14**:
+Run the **final whole-work bilingual review** across Chapters 1–23. Verify:
 
-- `translations/en/sections/12-chapter-12.md` — scan 99 after centered `12` through scan 107 before centered `13`;
-- `translations/en/sections/13-chapter-13.md` — scan 107 after centered `13` through scan 115 before centered `14`;
-- `translations/en/sections/14-chapter-14.md` — scan 115 after centered `14` through scan 120 before centered `15`.
+1. all 23 chapters in correct order and complete source coverage;
+2. no omitted or duplicated Tamil narrative/dialogue/quotation unit;
+3. no material source-like addition or explanatory rewriting;
+4. agency, speaker attribution, relationships and knowledge states;
+5. names, shortened forms, late `நயினு` source variant and real/fake Balagangadhara Thevar narrative handling;
+6. glossary consistency and charged religious/caste/social/sexual-stigma terminology;
+7. rhetoric, repetition, humour, insult, emotional force, dialogue and verse;
+8. every mixed chapter boundary and reversible source join;
+9. scans 117→118, 122→123 and 156→157 without inferred repair;
+10. scan 66's visible printed `5` anomaly and scan 179 final narrative/non-body exclusion;
+11. page/scan provenance comments and readability without modernization;
+12. zero unauthorized changes to canonical Tamil `pages/` or assembled Tamil `sections/`.
 
-Translate every substantive Tamil unit; preserve source-bound agency, dialogue, rhetoric, charged language, oddities and HTML provenance; verify mixed boundaries at scans 99, 107, 115 and 120; source-check and mark reviewed only after fidelity/readability review; update glossary/progress/control docs; commit the bounded batch.
-
-The default batch is again three chapters. **Do not start Chapter 15 in the same iteration unless separately authorized.**
+If and only if all checks pass: mark `TRANSLATION_REVIEW.md` PASS, promote whole-work English to **VERIFIED**, synchronize controls, and make the next activity the English release-readiness report. Do not mark release-ready in the same gate unless separately authorized by the workflow.
