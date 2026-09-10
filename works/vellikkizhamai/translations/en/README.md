@@ -12,32 +12,33 @@ Working English title: **_Friday_**. Tamil `வெள்ளிக்கிழம
 - English chapters present/reviewed — **23 / 23**;
 - English source coverage — **scan 4 through final narrative scan 179**;
 - unresolved English holds — **0**;
-- final bilingual review — **READY / NEXT**;
-- whole-work English — **NOT YET VERIFIED**;
-- release report — **BLOCKED pending bilingual review**.
+- final bilingual review — **PASSED**;
+- whole-work English — **VERIFIED**;
+- release-readiness report — **READY / NEXT**.
 
 ## Authority
 
-Controlling scan → `../../pages/` → PASSED `../../sections/` → English. If English conflicts with Tamil, Tamil governs. Translation work does not authorize changes to canonical Tamil.
+Controlling scan → `../../pages/` → PASSED `../../sections/` → English. If English conflicts with Tamil, Tamil governs. Translation work never authorizes changes to canonical Tamil.
 
-## Batch history
+## Completed translation stages
 
-- Batch 1 — Chapter 1 — **REVIEWED**;
-- Batch 2 — Chapters 2–4 — **REVIEWED**;
-- Batch 3 — Chapters 5–11 — **REVIEWED**, enlarged by explicit user authorization;
-- Batch 4 — Chapters 12–23 — **REVIEWED**, final remainder enlarged by explicit user authorization.
+- Batch 1 — Chapter 1 — REVIEWED;
+- Batch 2 — Chapters 2–4 — REVIEWED;
+- Batch 3 — Chapters 5–11 — REVIEWED, enlarged by explicit user authorization;
+- Batch 4 — Chapters 12–23 — REVIEWED, enlarged by explicit user authorization;
+- final whole-work bilingual review — **PASSED / English VERIFIED**.
 
-All 23 English chapter files now exist. The final remainder preserves the physical source discontinuities at scans 117→118, 122→123 and 156→157 without inferred repairs, and carries final narrative provenance through scan 179.
+The final bilingual gate made seven English-only fidelity/presentation corrections across Chapters 12, 14, 15, 16, 17 and 19. The three physical source discontinuities, scan-66 printed-number anomaly, all mixed chapter boundaries and scan-179 final-body exclusion remain preserved. No Tamil canonical or assembled file changed.
 
 ## Controls
 
 - `TRANSLATION_PLAN.md` — method and completed batch history;
-- `PROGRESS.md` — chapter/source ledger;
-- `GLOSSARY.md` — locked consistency decisions;
+- `PROGRESS.md` — translation and verification ledger;
+- `GLOSSARY.md` — locked consistency decisions and final-review corrections;
 - `sections/README.md` — 23-chapter inventory;
-- `TRANSLATION_REVIEW.md` — **READY / NEXT** whole-work gate;
-- `RELEASE_REPORT.md` — blocked until bilingual review passes.
+- `TRANSLATION_REVIEW.md` — **PASSED**;
+- `RELEASE_REPORT.md` — **READY / NEXT**.
 
 ## Exact next activity
 
-Run the final bilingual review across Chapters 1–23. Do not mark English `verified` and do not open release readiness until that gate records a PASS.
+Run the Section 17 **release-readiness review**. Do not call the work release-ready until `RELEASE_REPORT.md` itself records a PASS.

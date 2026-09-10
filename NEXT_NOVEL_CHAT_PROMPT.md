@@ -1,4 +1,4 @@
-# Next Chat Prompt — வெள்ளிக்கிழமை / Final Bilingual Review
+# Next Chat Prompt — வெள்ளிக்கிழமை / Release Readiness
 
 Continue in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,39 +8,40 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikk
 
 ## Closed Tamil state
 
-Canonical Tamil 179/179 VERIFIED; historical-glyph/full source audit PASSED; assembled Tamil 23/23 PASSED; 0 unresolved Tamil source holds. Do not reopen without genuinely new direct-source evidence.
-
-Known literal source discontinuities remain at scans 117→118, 122→123 and 156→157. English must not silently repair them.
+Canonical Tamil 179/179 VERIFIED; historical-glyph/full source audit PASSED; assembled Tamil 23/23 PASSED; 0 unresolved Tamil source holds. Known literal discontinuities remain at scans 117→118, 122→123 and 156→157.
 
 ## English state
 
-- translation plan — **COMPLETE**;
-- Chapters 1–23 — **REVIEWED / COMPLETE**;
-- English coverage — **scan 4 through final narrative scan 179**;
-- unresolved English translation holds — **0**;
-- Batch 3 Chapters 5–11 was explicitly enlarged by the user;
-- final-remainder Batch 4 Chapters 12–23 was explicitly enlarged by the user;
-- final bilingual review — **READY / NOT YET RUN**;
-- whole-work English — **NOT YET VERIFIED**;
-- release — **BLOCKED pending final bilingual review**.
+- translation plan — COMPLETE;
+- Chapters 1–23 — REVIEWED / COMPLETE;
+- coverage — scan 4 through final narrative scan 179;
+- unresolved English translation holds — 0;
+- final bilingual review — **PASSED**;
+- whole-work English — **VERIFIED**;
+- release-readiness gate — **READY / NOT YET RUN**.
 
-Read before review: `NOVEL_PROCESSING_GUIDE.md` Sections 14–17, `translations/en/TRANSLATION_PLAN.md`, `PROGRESS.md`, `GLOSSARY.md`, `TRANSLATION_REVIEW.md`, all 23 English chapter files, corresponding PASSED Tamil chapters, and canonical page records where a wording/provenance question requires the controlling text.
+The final bilingual gate made seven English-only corrections across Chapters 12, 14, 15, 16, 17 and 19. See `translations/en/TRANSLATION_REVIEW.md` and `GLOSSARY.md`. No canonical Tamil page or assembled Tamil section changed.
+
+## Mandatory startup
+
+Read `NOVEL_PROCESSING_GUIDE.md` Sections 16–18, root `HANDOVER.md`, `works/vellikkizhamai/README.md`, `audit.md`, `indexes/page-map.md`, `translations/en/README.md`, `PROGRESS.md`, `GLOSSARY.md`, `TRANSLATION_REVIEW.md`, `RELEASE_REPORT.md`, and the English chapter inventory.
 
 ## Exact next activity
 
-Run the **final whole-work bilingual review** across Chapters 1–23. Verify:
+Run the Section 17 **release-readiness review** and update `translations/en/RELEASE_REPORT.md`.
 
-1. all 23 chapters in correct order and complete source coverage;
-2. no omitted or duplicated Tamil narrative/dialogue/quotation unit;
-3. no material source-like addition or explanatory rewriting;
-4. agency, speaker attribution, relationships and knowledge states;
-5. names, shortened forms, late `நயினு` source variant and real/fake Balagangadhara Thevar narrative handling;
-6. glossary consistency and charged religious/caste/social/sexual-stigma terminology;
-7. rhetoric, repetition, humour, insult, emotional force, dialogue and verse;
-8. every mixed chapter boundary and reversible source join;
-9. scans 117→118, 122→123 and 156→157 without inferred repair;
-10. scan 66's visible printed `5` anomaly and scan 179 final narrative/non-body exclusion;
-11. page/scan provenance comments and readability without modernization;
-12. zero unauthorized changes to canonical Tamil `pages/` or assembled Tamil `sections/`.
+Verify:
 
-If and only if all checks pass: mark `TRANSLATION_REVIEW.md` PASS, promote whole-work English to **VERIFIED**, synchronize controls, and make the next activity the English release-readiness report. Do not mark release-ready in the same gate unless separately authorized by the workflow.
+1. work identity and 1968 second-edition source identity;
+2. Tamil 179-page-record inventory and 23-section assembled inventory;
+3. English 23-section inventory and whole-work VERIFIED state;
+4. Tamil audit and final bilingual-review PASS results;
+5. reader-facing navigation and links/paths among work/translation/section controls;
+6. authority hierarchy and one-to-one 23-chapter structural identity;
+7. documented source oddities: scan 66, scans 117→118, 122→123, 156→157, and scan 179 non-body exclusion;
+8. source PDF remains excluded from the repository;
+9. no unauthorized canonical Tamil changes during the release pass;
+10. any non-blocking editorial limitations;
+11. final archival/editorial **release-ready / not-ready** verdict.
+
+If the gate passes, synchronize root/work/translation README, audit, handover and this prompt. Keep copyright/licensing/commercial-publication status explicitly separate from the archival/editorial verdict.

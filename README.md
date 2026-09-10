@@ -15,11 +15,11 @@
 
 Source: 1968 second edition, 179 scans. Canonical Tamil **179 / 179 VERIFIED**; historical-glyph and full Tamil source audit **PASSED**; assembled Tamil **23 / 23 PASSED**.
 
-English working title: **_Friday_**. Translation plan is complete. English Chapters **1–23 / 23 are REVIEWED**, covering scan 4 through final narrative scan 179, with **0 unresolved English translation holds**. Batch 3 (Chapters 5–11) and final-remainder Batch 4 (Chapters 12–23) were enlarged only by explicit user authorization.
+English working title: **_Friday_**. Translation plan is complete; English Chapters **1–23 / 23 are REVIEWED**, covering scan 4 through final narrative scan 179, with **0 unresolved English translation holds**.
 
-The English chapter layer is complete, but whole-work English is **NOT YET VERIFIED**. Final bilingual review is **READY / NEXT**; release remains blocked until that gate passes.
+The final whole-work bilingual review has **PASSED**, so English is now **VERIFIED**. The review made seven English-only source-fidelity/presentation corrections across Chapters 12, 14, 15, 16, 17 and 19 and confirmed that no canonical Tamil `pages/` or assembled Tamil `sections/` changed.
 
-Next: run `works/vellikkizhamai/translations/en/TRANSLATION_REVIEW.md` across all 23 English chapters against PASSED/canonical Tamil authority.
+Release readiness is **READY / NEXT**, not yet passed. Next: run `works/vellikkizhamai/translations/en/RELEASE_REPORT.md` under Section 17 of the processing guide.
 
 ## Completed works
 

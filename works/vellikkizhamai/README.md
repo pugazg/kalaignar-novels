@@ -17,21 +17,18 @@
 - English chapters present/reviewed — **23 / 23**;
 - English coverage — **scan 4 through final narrative scan 179**;
 - unresolved English translation holds — **0**;
-- final bilingual review — **READY / NEXT**;
-- whole-work English — **NOT YET VERIFIED**;
-- release — **BLOCKED pending bilingual review**.
+- final bilingual review — **PASSED**;
+- whole-work English — **VERIFIED**;
+- release-readiness gate — **READY / NEXT**.
 
 Canonical `pages/` remain controlling. PASSED Tamil `sections/` provide continuous reading. English is derived and never authorizes changes to Tamil.
 
-## English batch history
+## English verification
 
-- Batch 1 — Chapter 1 — **REVIEWED**;
-- Batch 2 — Chapters 2–4 — **REVIEWED**;
-- Batch 3 — Chapters 5–11 — **REVIEWED**, explicitly enlarged by user authorization;
-- Batch 4 — Chapters 12–23 — **REVIEWED**, final remainder explicitly enlarged by user authorization.
+All four translation batches are complete. The final whole-work bilingual gate checked exact chapter/source order, omission/duplication/addition risk, agency/speaker knowledge, recurring terminology, charged rhetoric, dialogue/verse, joins/boundaries, the three physical discontinuities, scan 66 and scan 179 provenance.
 
-Final-remainder translation preserved the known physical discontinuities at scans 117→118, 122→123 and 156→157 without inference; preserved mixed chapter boundaries through scan 172; and carried the final narrative through scan 179 while excluding the lower illustration/later handwriting already excluded by Tamil authority. No Tamil page or assembled-section file was changed.
+Seven final English-only corrections were made across Chapters 12, 14, 15, 16, 17 and 19. No canonical Tamil `pages/` or assembled Tamil `sections/` changed.
 
 ## Exact next activity
 
-Run the **final whole-work bilingual review** across all 23 English chapters against canonical/PASSED Tamil authority. Only after that gate passes may whole-work English be called **VERIFIED** and release readiness begin.
+Run the Section 17 **English release-readiness review** in `translations/en/RELEASE_REPORT.md`. Only that gate may declare the work archival/editorial **release-ready**.

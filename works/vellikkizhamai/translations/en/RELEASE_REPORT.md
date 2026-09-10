@@ -2,16 +2,36 @@
 
 ## Gate state
 
-**NOT STARTED / BLOCKED BY FINAL BILINGUAL REVIEW.**
+**READY / NOT YET RUN.**
 
-Tamil canonical and assembled layers are PASSED. English now has **23 / 23 chapters REVIEWED**, covering scan 4 through final narrative scan 179, with **0 unresolved English translation holds**.
+Prerequisites are now satisfied:
 
-The translation chapter layer is complete, but whole-work English is **NOT YET VERIFIED** because `TRANSLATION_REVIEW.md` has not yet run to PASS.
+- canonical Tamil — **179 / 179 VERIFIED / PASSED**;
+- assembled Tamil — **23 / 23 PASSED**;
+- English chapters — **23 / 23 REVIEWED**;
+- final bilingual review — **PASSED**;
+- whole-work English — **VERIFIED**;
+- unresolved English translation holds — **0**.
 
-Release remains blocked until that final bilingual review confirms complete source coverage/order, no omissions/duplications/additions, glossary consistency, agency/speaker fidelity, boundary/discontinuity fidelity, reader navigation, zero unauthorized Tamil changes and source-PDF exclusion.
+## Release-readiness checklist — NEXT
 
-Copyright/licensing readiness remains a separate question from archival/editorial readiness.
+Run the Section 17 gate and record:
 
-## Verdict
+1. work and source-edition identity;
+2. Tamil page inventory and assembled-section inventory;
+3. English 23-section inventory;
+4. Tamil audit result and bilingual review result;
+5. reader-facing navigation check;
+6. authority hierarchy and structural identity;
+7. documented source oddities, including scan 66 and discontinuities 117→118, 122→123 and 156→157;
+8. scan 179 final-body/non-body exclusion;
+9. confirmation that canonical Tamil was not changed during the release pass;
+10. confirmation that the controlling source PDF is not committed;
+11. any non-blocking editorial limitations;
+12. final **release-ready / not-ready** archival-editorial verdict.
 
-**BLOCKED — translation complete at chapter-review level; final bilingual verification still required.**
+## Current verdict
+
+**READY FOR RELEASE-READINESS REVIEW — not yet declared release-ready.**
+
+Archival/editorial release readiness is separate from copyright, licensing, commercial republication or public-domain status.

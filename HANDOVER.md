@@ -26,27 +26,23 @@ Do not reopen completed Tamil work without genuinely new direct-source evidence.
 Working title: **_Friday_**.
 
 - translation plan — **COMPLETE**;
-- Batch 1 Chapter 1 — **REVIEWED**;
-- Batch 2 Chapters 2–4 — **REVIEWED**;
-- Batch 3 Chapters 5–11 — **REVIEWED**, enlarged by explicit user authorization;
-- Batch 4 Chapters 12–23 — **REVIEWED**, final remainder enlarged by explicit user authorization;
-- English chapters present/reviewed — **23 / 23**;
+- English chapter files — **23 / 23 REVIEWED**;
 - English coverage — **scan 4 through final narrative scan 179**;
 - unresolved English translation holds — **0**;
-- final bilingual review — **READY / NEXT**;
-- whole-work English — **NOT YET VERIFIED**;
-- release — **BLOCKED pending bilingual review**.
+- final whole-work bilingual review — **PASSED**;
+- whole-work English — **VERIFIED**;
+- release-readiness gate — **READY / NEXT**.
 
-The final remainder preserves mixed chapter boundaries through scan 172, the physical discontinuities at scans 117→118, 122→123 and 156→157, and final scan 179 narrative/non-body exclusion. No canonical Tamil page or assembled-section file was changed.
+The final bilingual review made seven English-only fidelity/presentation corrections across Chapters 12, 14, 15, 16, 17 and 19. It confirmed exact chapter/source order, no remaining substantive omission/duplication/material addition, agency/speaker/knowledge-state fidelity, glossary consistency, charged rhetoric, all joins/boundaries, scan 66, the three source discontinuities and scan 179 non-body exclusion. No canonical Tamil page or assembled-section file changed.
 
 ## Batch rule
 
-The larger Batch 3 and final-remainder Batch 4 were user-authorized exceptions. The repository's normal controlled-batch method is unchanged for future works.
+The larger Batch 3 (Chapters 5–11) and Batch 4 (Chapters 12–23) were user-authorized exceptions. The repository's normal controlled-batch method is unchanged for future works.
 
 ## Exact next activity
 
-Run the **final whole-work bilingual review** in `works/vellikkizhamai/translations/en/TRANSLATION_REVIEW.md` across Chapters 1–23.
+Run the Section 17 **release-readiness review** in `works/vellikkizhamai/translations/en/RELEASE_REPORT.md`.
 
-Required checks: chapter/order/source-span completeness; omitted/duplicated/materially-added content; agency and speaker attribution; names/relationships/late source variants; glossary consistency; religious/caste/social/sexual-stigma terminology; rhetoric/dialogue/verse; every source join and mixed boundary; discontinuities at 117→118, 122→123 and 156→157; scan 66 printed-page anomaly; scan 179 final non-body exclusion; provenance; readability without modernization; and zero unauthorized Tamil changes.
+Required checks: work/source identity; Tamil and English inventories; Tamil audit and bilingual-review results; reader-facing navigation; authority hierarchy; structural identity; documented source oddities; source-PDF exclusion; zero unauthorized Tamil change during the release pass; non-blocking editorial limitations; and final archival/editorial release-ready / not-ready verdict.
 
-Only after that review records PASS may whole-work English be marked **VERIFIED** and release-readiness work begin.
+Do not treat release-ready as a copyright, licensing, commercial-republication or public-domain determination.

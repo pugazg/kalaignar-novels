@@ -13,38 +13,38 @@ Detailed historical/source history remains in repository history and `AUDIT_HIST
 | English chapter files | **23 / 23 REVIEWED** |
 | English coverage | **scan 4 → final narrative scan 179** |
 | English unresolved holds | **0** |
-| Final bilingual review | **READY / NEXT** |
-| Whole-work English | **NOT YET VERIFIED** |
-| Release | **BLOCKED pending bilingual review** |
+| Final bilingual review | **PASSED** |
+| Whole-work English | **VERIFIED** |
+| Release-readiness | **READY / NEXT** |
 
 ## English batch ledger
 
 - Batch 1 — Chapter 1 — REVIEWED.
 - Batch 2 — Chapters 2–4 — REVIEWED.
 - Batch 3 — Chapters 5–11 — REVIEWED after explicit user authorization to enlarge the batch.
-- Batch 4 — Chapters 12–23 — REVIEWED after explicit user authorization to process the complete remaining English remainder.
+- Batch 4 — Chapters 12–23 — REVIEWED after explicit user authorization to process the complete remainder.
 
-## Batch 4 review — Chapters 12–23
+## Final bilingual review
 
-**PASS at chapter/batch level.** The twelve English files represent the substantive PASSED Tamil content from scan 99 after centered `12` through final narrative scan 179.
+**PASS.** The Section 16 gate rechecked whole-work order/coverage and global consistency on top of the completed batch source checks.
 
-Boundary/source checks include:
+Final review corrections:
 
-- mixed boundaries at scans 99, 107, 115, 120, 134, 142, 149, 154, 160, 166 and 172 preserved;
-- clean Chapter 16 opening at scan 127 preserved;
-- scan 117→118 discontinuity retained without inferred completion;
-- scan 122→123 discontinuity retained and explicitly marked without grammatical reconstruction;
-- scan 156→157 discontinuity retained without supplied punctuation/missing Tamil;
-- real/fake Balagangadhara Thevar identity follows narrative revelation rather than backward normalization;
-- source rhetoric concerning chastity/stigma, religion, suicide, accusation, violence and social judgment remains source-bound;
-- scan 179 final narrative preserved; non-body illustration/later handwriting remains excluded;
-- no canonical Tamil `pages/` or assembled Tamil `sections/` changed during English work;
-- unresolved English holds — **0**.
+- Chapter 12: two source-fidelity refinements (`ஆண்மைக்கு...` agency and `குளிர்ச்சி` without added “tenderness”);
+- Chapter 14: scan 117→118 pre-break English left syntactically incomplete rather than silently repairing `உட்`;
+- Chapter 15: scan 122→123 visible editorial explanation removed; provenance remains HTML-only and no missing grammar is supplied;
+- Chapter 16: rupee amount corrected to a bundle of notes worth one thousand rupees;
+- Chapter 17: `நல்லெண்ணெய்` rendered consistently as gingelly oil in the request;
+- Chapter 19: room-swap logic clarified so character knowledge and agency remain correct.
+
+Whole-work checks passed for 23/23 order, continuous scan coverage, no remaining substantive omission/duplication/material addition, speaker/agency fidelity, names/relationships, glossary terms, religious/social/sexual-stigma rhetoric, dialogue/verse, all mixed boundaries and joins, scan 66 printed `5`, the three physical discontinuities and scan 179 final-body exclusion.
+
+A compare against the pre-English checkpoint confirms English work changed no canonical Tamil `pages/` and no assembled Tamil `sections/`.
 
 ## Closed Tamil authority
 
-Known whole-work source discontinuities at scans 117→118, 122→123 and 156→157 remain deliberate. English must not repair them by inference.
+Known source discontinuities at scans 117→118, 122→123 and 156→157 remain deliberate and unrepaired. Canonical Tamil stays authoritative.
 
 ## Exact next activity
 
-Run the **final bilingual review** across Chapters 1–23. This separate whole-work gate must check complete order/coverage, omissions/duplications/additions, agency/speaker fidelity, glossary consistency, charged terminology, rhetoric/dialogue, all boundaries/joins/discontinuities, provenance and readability without modernization. Only a PASS may promote whole-work English to **VERIFIED**.
+Run the Section 17 **release-readiness gate**. It must check inventories, reader navigation, authority hierarchy, structural identity, oddities, source-PDF exclusion, zero Tamil changes during the release pass, editorial limitations and the final archival/editorial release-ready verdict.
