@@ -77,7 +77,7 @@ Again footsteps cut through the midnight silence. Naina hid himself and fixed hi
 
 It was Anandi. She was going into the room where Azhagu lay. She believed Naina would be sleeping there.
 
-Most of Naina's suspicion disappeared. If she truly had designs on Azhagappan, would she not have come to the room where *he* was? Instead she was entering the room where Naina usually slept.
+Most of Naina's suspicion disappeared. If she truly had her eye on Azhagappan, would she not have gone to Azhagappan's usual room—the room Naina himself was now occupying? Instead she was going to the room where Naina normally slept.
 
 Naina lowered his head in shame. Yet an uncontrollable curiosity burst from his heart. He wanted to know what was happening in Azhagappan's room and slowly moved toward it.
 
