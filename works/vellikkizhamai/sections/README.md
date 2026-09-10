@@ -24,8 +24,8 @@ Boundary scan ஒன்று இரண்டு chapters-ஐ கொண்டி
 |---|---|---:|---|
 | `01-chapter-01.md` | scans 4–12 | 1 | **VERIFIED** |
 | `02-chapter-02.md` | scans 13–22 | 2 | **VERIFIED** |
-| `03-chapter-03.md` | scan 23 → scan 33 before centered `4` | 3 | next |
-| `04-chapter-04.md` | scan 33 after centered `4` → scan 45 before centered `5` | 4 | pending |
+| `03-chapter-03.md` | scan 23 → scan 33 before centered `4` | 3 | **VERIFIED** |
+| `04-chapter-04.md` | scan 33 after centered `4` → scan 45 before centered `5` | 4 | next |
 | `05-chapter-05.md` | scan 45 after centered `5` → scan 51 | 5 | pending |
 | `06-chapter-06.md` | scan 52 → scan 59 before centered `7` | 6 | pending |
 | `07-chapter-07.md` | scan 59 after centered `7` → scan 68 before centered `8` | 7 | pending |
@@ -83,8 +83,22 @@ Verified cross-page continuities represented with reversible provenance:
 
 Source `* * *` separators and paragraph/dialogue structure are retained. No canonical page text changed during assembly.
 
+## Chapter 3 verification
+
+`03-chapter-03.md` covers **scan 23 through the Chapter 3 carryover at the top of scan 33 before centered `4`** and is **VERIFIED**.
+
+Verified cross-page continuities represented with reversible provenance:
+
+- scan 23 `உணர்ந்திருந்ததோடு` → scan 24 `மட்டுமல்ல;`;
+- scan 24 `அவர்` + scan 25 `கள்தானே` → `அவர்கள்தானே`;
+- scan 25 `சேர்ந்` + scan 26 `தான்.` → `சேர்ந்தான்.`;
+- scan 28 `விஷயத்தை வெளி` + scan 29 `யில் சொல்லாதே` → `விஷயத்தை வெளியில் சொல்லாதே`;
+- scan 31 `மூன்றாவது` → scan 32 `ஆள் வேம்பு!`.
+
+Scan 33 was split at the source-printed centered `4`: only the opening Chapter 3 dialogue paragraph is present in `03-chapter-03.md`; the Chapter 4 heading and all post-heading prose are reserved for `04-chapter-04.md`. No canonical page text changed during assembly.
+
 ## Current status
 
-**Assembly: IN PROGRESS — 2 / 23 chapters VERIFIED.**
+**Assembly: IN PROGRESS — 3 / 23 chapters VERIFIED.**
 
-Next: Chapter 3, from **scan 23 through scan 33 before centered `4`**. Scan 33 must be split at the source-printed centered Chapter 4 heading. English remains blocked until the complete assembled layer passes its final consistency gate.
+Next: Chapter 4, from **scan 33 after centered `4` through scan 45 before centered `5`**. Both boundary scans must be split at their source-printed centered headings. English remains blocked until the complete assembled layer passes its final consistency gate.

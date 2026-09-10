@@ -6,13 +6,14 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 - actual PDF scan count: **179**;
 - mapping coverage: **179 / 179**;
-- canonical page records: **179 / 179 — COMPLETE**;
+- canonical page records: **179 / 179 — COMPLETE / VERIFIED**;
 - body transcription: **through final scan 179 / printed 178**;
 - forward historical-glyph coverage: **PASS scans 1–179**;
-- user-directed second glyph re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61; 5 corrections / 0 unresolved**;
+- user-directed second glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS; 5 corrections / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **IN PROGRESS — Chapters 1–2 / 23 VERIFIED; scans 4–22 assembled**;
+- assembled Tamil: **IN PROGRESS — Chapters 1–3 / 23 VERIFIED**;
+- assembled source coverage: **scan 4 through scan 33 before centered `4`**;
 - printed-page values are source-confirmed, not inferred.
 
 ## Printed-page mapping
@@ -27,112 +28,45 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 
 ## Confirmed chapter structure
 
-- scan 4 — Chapter 1;
-- scan 13 — Chapter 2;
-- scan 23 — Chapter 3;
-- scan 33 — Chapter 4 boundary, centered `4`;
-- scan 45 — Chapter 5 boundary, centered `5`;
-- scan 52 — Chapter 6 opening, centered `6`;
-- scan 59 — Chapter 7 boundary, centered `7`;
-- scan 68 — Chapter 8 boundary, centered `8`;
-- scan 75 — Chapter 9 boundary, centered `9`;
-- scan 85 — Chapter 10 boundary, centered `10`;
-- scan 92 — Chapter 11 boundary, centered `11`;
-- scan 99 — Chapter 12 boundary, centered `12`;
-- scan 107 — Chapter 13 boundary, centered `13`;
-- scan 115 — Chapter 14 boundary, centered `14`;
-- scan 120 — Chapter 15 boundary, centered `15`;
-- scan 127 — Chapter 16 opening, centered `16`;
-- scan 134 — Chapter 17 boundary, centered `17`;
-- scan 142 — Chapter 18 opening, centered `18`;
-- scan 149 — Chapter 19 opening, centered `19`;
-- scan 154 — Chapter 20 opening, centered `20`;
-- scan 160 — Chapter 21 opening, centered `21`;
-- scan 166 — Chapter 22 opening, centered `22`;
-- scan 172 — Chapter 23 opening, centered `23`;
-- scan 179 — final Chapter 23 narrative page plus illustration.
+| Chapter | Source boundary / coverage |
+|---:|---|
+| 1 | opens scan 4 |
+| 2 | opens scan 13 |
+| 3 | opens scan 23; ends on scan 33 before centered `4` |
+| 4 | scan 33 after centered `4` → scan 45 before centered `5` |
+| 5 | scan 45 after centered `5` → scan 51 |
+| 6 | opens scan 52; runs to scan 59 before centered `7` |
+| 7 | scan 59 after centered `7` → scan 68 before centered `8` |
+| 8 | scan 68 after centered `8` → scan 75 before centered `9` |
+| 9 | scan 75 after centered `9` → scan 85 before centered `10` |
+| 10 | scan 85 after centered `10` → scan 92 before centered `11` |
+| 11 | scan 92 after centered `11` → scan 99 before centered `12` |
+| 12 | scan 99 after centered `12` → scan 107 before centered `13` |
+| 13 | scan 107 after centered `13` → scan 115 before centered `14` |
+| 14 | scan 115 after centered `14` → scan 120 before centered `15` |
+| 15 | scan 120 after centered `15` → scan 127 before centered `16` |
+| 16 | scan 127 after centered `16` → scan 134 before centered `17` |
+| 17 | scan 134 after centered `17` → scan 142 before centered `18` |
+| 18 | scan 142 after centered `18` → scan 149 before centered `19` |
+| 19 | scan 149 after centered `19` → scan 154 before centered `20` |
+| 20 | scan 154 after centered `20` → scan 160 before centered `21` |
+| 21 | scan 160 after centered `21` → scan 166 before centered `22` |
+| 22 | scan 166 after centered `22` → scan 172 before centered `23` |
+| 23 | scan 172 after centered `23` → final scan 179 |
+
+Mixed boundary scans are split at the actual source-printed centered chapter heading; they are never mechanically assigned as whole scans to one chapter.
 
 ## Full Tamil source audit gate
 
-**PASSED.** The live page tree is continuous `0001`–`0179` with 179 canonical records. Printed-page mapping and Chapters 1–23 remain source-confirmed; second historical-glyph re-audit is 61/61 PASS with 5 corrections and 0 unresolved. Durable cross-page joins and printer/signature/non-body decisions remain unchanged. `metadata/source.md` was synchronized from an obsolete 111-page progress snapshot to the completed state. No canonical page text changed during the full source audit.
+**PASSED.** The live canonical page tree is continuous `0001`–`0179`, with 179 verified records, 0 unresolved source holds, all 23 chapters represented, source-confirmed printed-page exceptions preserved, and all glyph/source gates complete.
 
-Next layer: **assembled Tamil reading layer — READY / NEXT**.
+Five final source-supported corrections:
 
-## Historical-glyph rule
-
-Mandatory source-pixel set on every second-pass scan:
-
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
-
-Grammar is only a locator. Character identity comes from source pixels and same-edition comparison. Never global-replace or normalize source wording.
-
-## Second historical-glyph re-audit status
-
-| Scan | Printed | Section | Second-pass status | Corrections | Durable note |
-|---:|---:|---|---|---:|---|
-| 119 | 118 | Chapter 14 | PASS | 0 | `ஓடினாள்`; ends `கவனித்து` |
-| 120 | 119 | Chapter 14 / 15 | PASS | 0 | `தொண்ணூறு`; `எண்ணினான்`; `ஏங்கினான்`; `நின்றாள்`; centered `15` |
-| 121 | 120 | Chapter 15 | PASS | 0 | `குமுறினாள்`; `அலறினாள்`; both `ஓடினான்`; ends `வண்டியில்` |
-| 122 | 121 | Chapter 15 | PASS | 0 | `வருகிறானா`; `போகிறாள்`; `கிளம்பியிருக்கிறாள்`; ends `...அவளுக்குப் பக்கத்திலே` |
-| 123 | 122 | Chapter 15 | PASS | 0 | literal opening `கார்ந்து கொண்டாள்.`; `நோக்கினாள்`; `நன்றாகக்`; `தோன்றினாள்` |
-| 124 | 123 | Chapter 15 | PASS | 0 | `நீட்டினாள்`; `வயதானவளை`; `ஏற்றிக்கொண்டிருந்தான்`; ends `புகை` |
-| 125 | 124 | Chapter 15 | PASS | 0 | begins `வண்டி`; `அழகப்பனையும்`; `அவளைத்`; `அழகப்பனைத்`; `கணவனாக` |
-| 126 | 125 | Chapter 15 | PASS | 0 | `நின்றது`; `ஏறினார்கள்`; `சிந்தாமணியின்`; `எங்ஙனம்` |
-| 127 | 126 | Chapter 16 opening | PASS | 0 | centered `16`; `சிக்கிக்கொண்டாள்`; `இறங்கினாள்`; ends `வாழ்` |
-| 128 | 127 | Chapter 16 | PASS | 0 | begins `விலே`; `நின்று`; `அவளைப்`; `அவனைச் சூழ்ந்தது`; `ஏற்றினார்கள்` |
-| 129 | 128 | Chapter 16 | PASS | 0 | `அவளை`; `அவளைக்`; `என்றான்`; `கண்டிருப்பான்`; ends `அழகப்ப` |
-| 130 | 129 | Chapter 16 | PASS | 0 | begins `னுடைய`; `நயினா`; `கண்ணாளா`; `வரமாட்டாள்`; bottom `9` printer/signature mark |
-| 131 | 130 | Chapter 16 | PASS | 0 | `நயினாமுகம்மது`; `நயினாவின்`; `பாராட்டிக்கொண்டாள்`; ends `பின்னிக்` |
-| 132 | 131 | Chapter 16 | PASS | 0 | begins `கொண்டன;`; both `நயினாவிடமிருந்து`; both `என்றால்`; `இறந்துவிட்டாள்` |
-| 133 | 132 | Chapter 16 | PASS | 0 | `நயினா முகம்மது`; `நகை நட்டுக்களை`; `நயினாவுக்கு`; `வெளியேறினான்` |
-| 134 | 133 | Chapter 16 / 17 boundary | PASS | 0 | centered `17`; `நயினாவின்`; `கத்தினான்`; `உபசரித்தாள்`; ends `நயினாவின்` |
-| 135 | 134 | Chapter 17 | PASS | 0 | begins `கேள்வி`; `நயினா`; `திறந்தாள்`; `என்றான்`; `சொன்னான்`; ends `வருத்தத்` |
-| 136 | 135 | Chapter 17 | PASS | 0 | begins `தோடு`; `விரும்பினாள்`; `காட்டினாள்`; `புறப்பட்டான்`; `இழுத்தாள்` |
-| 137 | 136 | Chapter 17 | PASS | 0 | `நானும்`; `கண்ணால்`; `மாறிவிட்டது`; `நம் வாழ்வில்`; ends `“இதோ,` |
-| 138 | 137 | Chapter 17 | PASS | 0 | begins `கொண்டுவருகிறேன்”`; `திண்டாடினாள்`; `எதிர்பார்த்தான்`; `ஊற்றினாள்`; ends `‘மளமள’` |
-| 139 | 138 | Chapter 17 | PASS | 0 | begins `வென்று`; `போய்விட்டாள்`; `கேட்டுக்கொண்டாள்`; ends `புயலால் தாக்குண்டவன்போல` |
-| 140 | 139 | Chapter 17 | PASS | 0 | begins `ஆனேன் அன்று!`; `நானும்`; `நானே`; `நானுந்தான்`; ends `நயினா` |
-| 141 | 140 | Chapter 17 | PASS | 0 | begins `எதுவும் பேசவில்லை.`; `கூப்பிட்டான்`; `ஏங்கினாள்`; `நின்றுவிட்டார்கள்` |
-| 142 | 141 | Chapter 18 opening | PASS | 0 | centered `18`; `விபச்சாரியானாள்`; `கைகாரியானாள்`; ends `வாசகங்கள்` |
-| 143 | 142 | Chapter 18 | PASS | 0 | begins `இருந்தன.`; `திரும்பினார்கள்`; `நடந்துகொண்டதும்`; `எங்ஙனம்`; `தவித்தான்` |
-| 144 | 143 | Chapter 18 | PASS | 0 | `நயினா`; `கருதிவிட்டானே`; `கேட்டிருப்பான்`; ends `வரவழைத்துக்` |
-| 145 | 144 | Chapter 18 | PASS | 0 | begins `கொண்டான் நயினா!`; `கவனிப்பானே`; `தொடங்கினான்`; ends `ஏது` |
-| 146 | 145 | Chapter 18 | PASS | 0 | begins `அவ்வளவு அக்கறை!`; `நான்தான்`; `புறப்பட்டார்கள்`; bottom `10` printer/signature mark; ends `கூறியதுதான்` |
-| 147 | 146 | Chapter 18 | PASS | 0 | begins `தாமதம்;`; `சொல்லிவிட்டேன்`; `கூட்டிட்டாள்`; `புறப்பட்டாள்`; ends `சந்திப்` |
-| 148 | 147 | Chapter 18 | PASS | 0 | begins `பதற்காக!`; `பாவியாகிவிட்டேன்`; `ஓடிக்கொண்டேயிருந்தாள்`; `ஊஞ்சலாடிக்கொண்டிருந்தாள்` |
-| 149 | 148 | Chapter 19 opening | PASS | 0 | centered `19`; `என்னதான்`; `பெண்ணை`; `காலை`; ends `புறப்` |
-| 150 | 149 | Chapter 19 | PASS | 0 | begins `பட்டுவிட்டாயே!`; `நீதான்`; `எத்தனை`; `எமனாக`; ends `தேவ` |
-| 151 | 150 | Chapter 19 | PASS | 1 | begins `லோகத்தில்`; `நயினா`; `வலைவீசுகிறாள்`; corrected source punctuation `அங்கே வந்து.` → `அங்கே வந்து,` |
-| 152 | 151 | Chapter 19 | PASS | 0 | `நயினா`; `நயினாவின்`; `நயினாதான்`; `கொசுவலையிருக்கிறது`; ends `வழக்கமாக உறங்கும்` |
-| 153 | 152 | Chapter 19 | PASS | 0 | begins `அறைக்கல்லவா போகிறாள்!`; `நயினா`; `பீறிட்டுப்`; `நயினா முகமதுவும்` |
-| 154 | 153 | Chapter 19 / 20 boundary | PASS | 0 | centered `20`; `நயினா`; `என்னை`; source-specific `சோகடிப்புமானான்` |
-| 155 | 154 | Chapter 20 | PASS | 0 | `நீயாக`; `நானும்`; `நல்லவள்`; ends `சோலை` |
-| 156 | 155 | Chapter 20 | PASS | 0 | begins `யில்`; `நயினா`; `விட்டானா`; `நயினாமீது`; ends `தலையிலும் காயம்` |
-| 157 | 156 | Chapter 20 | PASS | 0 | begins `நயினா எதிர்த்தே அடிக்கவில்லை.`; `குற்றவாளிக்கூண்டு`; ends `பயங்கரமாக—` |
-| 158 | 157 | Chapter 20 | PASS | 0 | begins `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`; `நயினா`; `மாறாக`; ends `வராத` |
-| 159 | 158 | Chapter 20 | PASS | 0 | begins `கண்ணீர்,`; ends `அழகப்பனுக்கும்` |
-| 160 | 159 | Chapter 20 / 21 boundary | PASS | 0 | begins `ஒன்றும் புரியவில்லை.`; centered `21`; ends `நமது தூய நட்பு` |
-| 161 | 160 | Chapter 21 | PASS | 0 | begins `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது`; complete ending |
-| 162 | 161 | Chapter 21 | PASS | 0 | bottom `11—A` printer/signature mark; complete ending |
-| 163 | 162 | Chapter 21 | PASS | 1 | corrected `மேனித்தின்மீது` → `பிணத்தின் மீது`; ends `கொலைகாரா!”` |
-| 164 | 163 | Chapter 21 | PASS | 2 | corrected `நயினாவில்` → `நயினாவால்`; `என் சார்?` → `ஏன் சார்?`; ends `கத்தி` |
-| 165 | 164 | Chapter 21 | PASS | 1 | begins `னான்.`; corrected `அவனது சவம்` → `அவளது சவம்`; ends `அதற்குள்` |
-| 166 | 165 | Chapter 21 / 22 boundary | PASS | 0 | begins `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`; centered `22`; ends physical em-dash |
-| 167 | 166 | Chapter 22 | PASS | 0 | direct continuation after em-dash; ends `போய்ச் சேர்ந்து` |
-| 168 | 167 | Chapter 22 | PASS | 0 | begins `விடவேண்டுமென்ற`; complete ending |
-| 169 | 168 | Chapter 22 | PASS | 0 | ends `ஒலி வந்த திக்கையே நோக்கியவாறு` |
-| 170 | 169 | Chapter 22 | PASS | 0 | begins `அவள் எழுந்துநின்றாள்,`; ends `“எஜமான்!....இடும்பன்...”` |
-| 171 | 170 | Chapter 22 | PASS | 0 | begins `என்றான்.`; preserve `அங்கிருந்த வாறு`, `நயினு முகம்மது`; ends `வம்புச் சண்டையெல்லாம்` |
-| 172 | 171 | Chapter 22 / 23 boundary | PASS | 0 | begins `நடந்தது.`; centered `23`; complete ending |
-| 173 | 172 | Chapter 23 | PASS | 0 | ends `அவள் நெஞ்சிலே` |
-| 174 | 173 | Chapter 23 | PASS | 0 | begins `எழுந்த குமுறல்கள்!...`; ends `உண்மையான பாலகங்காதரத் தேவரை` |
-| 175 | 174 | Chapter 23 | PASS | 0 | begins `சிக்கவைக்கவேண்டுமென்றும்,`; ends `போலீசார் அவரைச் சூழ்ந்து` |
-| 176 | 175 | Chapter 23 | PASS | 0 | begins `கொண்டார்கள்.`; preserves `விளக்கினன்`, `வருந்தி வருந்தி` |
-| 177 | 176 | Chapter 23 | PASS | 0 | preserves `அள்ளி வீசினன்`, later-edition `நயினுவும்`; complete ending |
-| 178 | 177 | Chapter 23 | PASS | 0 | preserves `இழுமூச்சைத்தாள்`, `புள்ளி மயில்`; complete ending |
-| 179 | 178 | Chapter 23 final narrative / illustration | PASS | 0 | final `திரும்பினர்கள்.`; lower illustration + faint later handwriting are non-body material |
-
-Second re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61; 5 corrections / 0 unresolved**.
+1. scan 151 `அங்கே வந்து.` → `அங்கே வந்து,`;
+2. scan 163 `மேனித்தின்மீது` → `பிணத்தின் மீது`;
+3. scan 164 `நயினாவில்` → `நயினாவால்`;
+4. scan 164 `“என் சார்?”` → `“ஏன் சார்?”`;
+5. scan 165 `அவனது சவம்` → `அவளது சவம்`.
 
 ## Durable physical/source exceptions
 
@@ -148,46 +82,29 @@ Second re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61; 5 corrections /
 - scan 127 / 128 — `வாழ்` + `விலே`;
 - scan 129 / 130 — `அழகப்ப` + `னுடைய`;
 - scan 131 / 132 — `பின்னிக்` + `கொண்டன`;
-- scan 134 / 135 — `நயினாவின்` → `கேள்வி`;
 - scan 135 / 136 — `வருத்தத்` + `தோடு`;
 - scan 137 / 138 — `“இதோ,` → `கொண்டுவருகிறேன்”`;
-- scan 138 / 139 — `‘மளமள’` → `வென்று...`;
-- scan 139 / 140 — `புயலால் தாக்குண்டவன்போல` → `ஆனேன் அன்று!`;
-- scan 140 / 141 — `நயினா` → `எதுவும் பேசவில்லை.`;
-- scan 142 / 143 — `வாசகங்கள்` → `இருந்தன.`;
 - scan 144 / 145 — `வரவழைத்துக்` + `கொண்டான்`;
 - scan 146 / 147 — `கூறியதுதான்` + `தாமதம்;`;
 - scan 147 / 148 — `சந்திப்` + `பதற்காக!`;
 - scan 149 / 150 — `புறப்` + `பட்டுவிட்டாயே!`;
 - scan 150 / 151 — `தேவ` + `லோகத்தில்`;
-- scan 151 — source punctuation `அங்கே வந்து,` (comma; canonical period corrected in second re-audit);
+- scan 151 punctuation — `அங்கே வந்து,`;
 - scan 152 / 153 — `வழக்கமாக உறங்கும்` → `அறைக்கல்லவா போகிறாள்!`;
 - scan 155 / 156 — `சோலை` + `யில்`;
 - scan 156 / 157 — literal `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`;
-- scan 157 / 158 — `பயங்கரமாக—` → `ஆனந்தியிருக்கும் அறையை நோக்கி நடக்கத் தொடங்கினாள்.`;
 - scan 158 / 159 — `வராத` + `கண்ணீர்,`;
-- scan 159 / 160 — `அழகப்பனுக்கும்` → `ஒன்றும் புரியவில்லை.`;
 - scan 160 / 161 — `நமது தூய நட்பு` → `ஒரு பெண்ணால் பிரிக்கப்பட்டுவிட்டது...`;
-- scan 163 — source correction `மேனித்தின்மீது` → `பிணத்தின் மீது`;
 - scan 164 / 165 — `கத்தி` + `னான்.`;
-- scan 165 / 166 — `அதற்குள்` → `யாரோ அந்த வேலையைச் செய்து முடித்துவிட்டார்கள்!`;
-- scan 166 / 167 — physical em-dash → direct source continuation;
 - scan 167 / 168 — `போய்ச் சேர்ந்து` → `விடவேண்டுமென்ற...`;
 - scan 169 / 170 — `ஒலி வந்த திக்கையே நோக்கியவாறு` → `அவள் எழுந்துநின்றாள்,`;
 - scan 170 / 171 — `“எஜமான்!....இடும்பன்...”` → `என்றான்.`;
+- scan 171 preserves `அங்கிருந்த வாறு`;
 - scan 171 / 172 — `வம்புச் சண்டையெல்லாம்` + `நடந்தது.`;
 - scan 173 / 174 — `அவள் நெஞ்சிலே` → `எழுந்த குமுறல்கள்!...`;
 - scan 174 / 175 — `உண்மையான பாலகங்காதரத் தேவரை` → `சிக்கவைக்கவேண்டுமென்றும்,`;
 - scan 175 / 176 — `போலீசார் அவரைச் சூழ்ந்து` → `கொண்டார்கள்.`;
 - scan 179 lower illustration and faint handwriting are non-body material.
-
-## Remaining scan-status ranges
-
-- scans **1–179** — canonical / verified;
-- second re-audit **119–179 PASS / COMPLETE**;
-- full Tamil source audit **PASSED**;
-- assembled Tamil reading layer **IN PROGRESS — Chapters 1–2 / 23 VERIFIED; scans 4–22**;
-- no page-level transcription gap remains.
 
 ## Assembled Tamil chapter coverage
 
@@ -195,8 +112,8 @@ Second re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61; 5 corrections /
 |---:|---|---|
 | 1 | scans 4–12 | **VERIFIED** |
 | 2 | scans 13–22 | **VERIFIED** |
-| 3 | scan 23 → scan 33 before centered `4` | **NEXT** |
-| 4 | scan 33 after centered `4` → scan 45 before centered `5` | pending |
+| 3 | scan 23 → scan 33 before centered `4` | **VERIFIED** |
+| 4 | scan 33 after centered `4` → scan 45 before centered `5` | **NEXT** |
 | 5 | scan 45 after centered `5` → scan 51 | pending |
 | 6 | scan 52 → scan 59 before centered `7` | pending |
 | 7 | scan 59 after centered `7` → scan 68 before centered `8` | pending |
@@ -217,10 +134,16 @@ Second re-audit: **COMPLETE — scans 119–179 PASS / 61 of 61; 5 corrections /
 | 22 | scan 166 after centered `22` → scan 172 before centered `23` | pending |
 | 23 | scan 172 after centered `23` → scan 179 | pending |
 
-`sections/01-chapter-01.md` and `sections/02-chapter-02.md` retain reversible provenance and only verified page-boundary continuities. Canonical `pages/` remain authoritative and unchanged.
+Chapter 3 reading-layer joins additionally preserve:
 
-Mixed boundary scans are split inside the scan at the source-printed centered chapter heading (for example scan 33 contains the Chapter 3→4 boundary, and scan 154 contains the Chapter 19→20 boundary).
+- 23→24 `உணர்ந்திருந்ததோடு` → `மட்டுமல்ல;`;
+- 24→25 `அவர்` + `கள்தானே`;
+- 25→26 `சேர்ந்` + `தான்.`;
+- 28→29 `விஷயத்தை வெளி` + `யில் சொல்லாதே`;
+- 31→32 `மூன்றாவது` → `ஆள் வேம்பு!`.
+
+Scan 33 is split at centered `4`: the opening dialogue belongs to Chapter 3 and post-heading prose belongs to Chapter 4.
 
 ## Exact next activity
 
-Assemble **Chapter 3 only — scan 23 through scan 33 before centered `4`** into `sections/03-chapter-03.md`; split scan 33 at the centered heading and leave its post-heading text for Chapter 4. Verify against canonical records, then advance assembly coverage to **3 / 23**. English remains blocked.
+Assemble **Chapter 4 only — scan 33 after centered `4` through scan 45 before centered `5`** into `sections/04-chapter-04.md`; verify only against canonical records, then advance assembly state to **4 / 23**. English remains blocked.

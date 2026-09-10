@@ -1,4 +1,4 @@
-# Next Chat Prompt — வெள்ளிக்கிழமை / assembled Tamil Chapter 3
+# Next Chat Prompt — வெள்ளிக்கிழமை / assembled Tamil Chapter 4
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -16,8 +16,8 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - unresolved source holds: **0**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **IN PROGRESS — Chapters 1–2 / 23 VERIFIED**;
-- assembled source coverage: **scans 4–22**;
+- assembled Tamil: **IN PROGRESS — Chapters 1–3 / 23 VERIFIED**;
+- assembled source coverage: **scan 4 through scan 33 before centered `4`**;
 - English: **blocked until assembled Tamil passes its own consistency gate**.
 
 ## Full Tamil source audit result
@@ -30,10 +30,12 @@ Do not reopen the completed 119–179 second glyph re-audit or the PASSED Tamil 
 
 - `works/vellikkizhamai/sections/01-chapter-01.md` — **VERIFIED**, scans **4–12**.
 - `works/vellikkizhamai/sections/02-chapter-02.md` — **VERIFIED**, scans **13–22**.
-- Both sections derive solely from audited canonical `pages/`; reversible source provenance is retained and canonical page files are unchanged.
+- `works/vellikkizhamai/sections/03-chapter-03.md` — **VERIFIED**, **scan 23 through the Chapter 3 carryover at the top of scan 33 before centered `4`**.
+- All assembled sections derive solely from audited canonical `pages/`; reversible source provenance is retained and canonical page files are unchanged.
 - Chapter 1 verified joins include scan 4 `ஏதோ` → scan 5 `இன்பக்கனவுகளோ`, scan 5 `அவைகளே` → scan 6 `கேலிக்குரியதாக`, scan 8 `கிழக்கு வானம் வெளுக்கத்` → scan 9 `துவங்கிவிட்டது.`, and scan 10 `இருந்தாள்—` → scan 11 quoted continuation.
 - Chapter 2 verified continuities include scan 14 `அதிலே` → scan 15 `வரும் அர்ச்சுனன்`, scan 16 `எண்ணும்` → scan 17 `போது—`, the scan 17→18 dialogue reply after `“சுசீலா! நீ?”`, and the scan 21→22 dialogue reply after `“லேடி டாக்டர் வந்தாச்சுல்லே?”`.
-
+- Chapter 3 verified joins include scan 23 `உணர்ந்திருந்ததோடு` → scan 24 `மட்டுமல்ல;`, scan 24 `அவர்` + scan 25 `கள்தானே`, scan 25 `சேர்ந்` + scan 26 `தான்.`, scan 28 `விஷயத்தை வெளி` + scan 29 `யில் சொல்லாதே`, and scan 31 `மூன்றாவது` → scan 32 `ஆள் வேம்பு!`.
+- Scan 33 is a mixed Chapter 3→4 boundary and was split exactly at the centered source-printed `4`; Chapter 3 contains only the opening pre-heading dialogue paragraph.
 
 ## Controlling phase — assembled Tamil reading layer
 
@@ -68,8 +70,8 @@ Verified joins include, among others: `புகை` + `வண்டி`, `வ�
 
 ## Exact next activity
 
-Create and verify **Chapter 3 only**, from **scan 23 through scan 33 before centered `4`**, as:
+Create and verify **Chapter 4 only**, from **scan 33 after centered `4` through scan 45 before centered `5`**, as:
 
-`works/vellikkizhamai/sections/03-chapter-03.md`
+`works/vellikkizhamai/sections/04-chapter-04.md`
 
-Scan 33 is a mixed Chapter 3→4 boundary scan: include only the text before the source-printed centered `4` in Chapter 3, and leave the post-heading text for Chapter 4. Preserve provenance and only verified joins. Then update `sections/README.md`, work README, `audit.md`, `HANDOVER.md`, this prompt, and the page-map assembly state to **3 / 23**. Do not begin Chapter 4 or English in the same iteration.
+Scan 33 is a mixed Chapter 3→4 boundary scan: begin Chapter 4 only below the source-printed centered `4`. Scan 45 is the Chapter 4→5 boundary: include only the text before centered `5` in Chapter 4 and leave the post-heading text for Chapter 5. Preserve provenance and only verified joins. Then update `sections/README.md`, work README, `audit.md`, `HANDOVER.md`, this prompt, and the page-map assembly state to **4 / 23**. Do not begin Chapter 5 or English in the same iteration.
