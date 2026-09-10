@@ -14,6 +14,8 @@ Result: **DRAFT-TRANSLATED → SOURCE-CHECKED → REVIEWED / PASS**.
 
 Checks completed: complete source-order coverage; dialogue and agency; source rhetoric and gendered/social framing; recurring bud/leaf imagery; child register; cross-page continuities 15→16, 16→17, 17→18, 18→19 and 19→20; names and locked terminology; punctuation/emphasis; scan/page provenance; no scan 21 prose.
 
+During source-check, the scan-19 lattice-window clause was tightened to preserve the source's active viewing relation: Kumar watches through the lattice as Gomathi takes the baby inside; the earlier passive wording was not retained at closure.
+
 Closure counts:
 
 - omissions: **0**;
