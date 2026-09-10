@@ -1,6 +1,6 @@
 # English Translation Glossary — அரும்பு
 
-Status: **BATCHES 1–3 STYLE / TERMINOLOGY LOCKED — scans 6–20 REVIEWED**.
+Status: **BATCHES 1–4 STYLE / TERMINOLOGY LOCKED — scans 6–23 REVIEWED**.
 
 This file records source-bound translation decisions. Decisions marked **LOCKED** were source-checked in reviewed English batches and may be changed later only through an explicit documented review; they never alter the audited Tamil source.
 
@@ -49,13 +49,14 @@ This file records source-bound translation decisions. Decisions marked **LOCKED*
 | `பொய் அம்மா / நிஜ அம்மா / பொம்மை அம்மா` | **fake Amma / real Amma / doll Amma** | **LOCKED** — retain Kumar's child register and contrast |
 | `மூதேவி` | **Moodevi** | **LOCKED** — conservative transliteration because the narration itself stresses that Kumar does not know its meaning |
 | `தாழை மடல்` | **thazhai frond** | **LOCKED** — preserve the directional-thorn metaphor without adding botanical explanation inside prose |
-| scan 22 `பேசினேன்` | preserve first-person anomaly; do not silently change to third person | protected source oddity — Batch 4 decision pending |
-| scan 23 `அம்மனார்` | conservative source-facing rendering such as **Ammanar**, with note if needed | protected source oddity — Batch 4 decision pending |
-| scan 23 `இனி:......` | retain/document unusual final punctuation | protected source oddity — Batch 4 decision pending |
+| scan 22 `பேசினேன்` | **I spoke** in `The phone rang; I spoke.` | **LOCKED** — preserve source-confirmed first-person anomaly; do not normalize to third person |
+| scan 23 `அம்மனார்` | **Ammanar** | **LOCKED** — preserve source-confirmed form distinct from earlier `அம்மனூர்` / Ammanur |
+| scan 23 `இனி:......` | **from now on:......** | **LOCKED** — retain colon-plus-six-dot punctuation visibly |
+| final-page absence of `முற்றும்` | no **The End** added | **LOCKED** — source has no explicit end marker |
 
 ## Locked style conventions
 
-Batches 1–3 establish and preserve these conventions:
+Batches 1–4 establish and preserve these conventions:
 
 - readable but source-bound English; no sentence-level summarising;
 - source paragraph and speaker boundaries preserved;
@@ -63,10 +64,11 @@ Batches 1–3 establish and preserve these conventions:
 - English syntax may be naturalized without adding motive, explanation or historical identification absent from Tamil;
 - cultural terms are translated functionally only when source meaning is clear; otherwise conservative transliteration is preferred;
 - direct emotional kin terms may remain transliterated (`Appa`, `Paatti`, `Amma`) while narration uses ordinary English where appropriate;
-- recurring bud/leaf imagery remains connected across the work;
+- recurring bud/leaf imagery remains connected through the final sentence;
 - source social and gendered generalizations are translated as the author's rhetoric rather than silently softened or endorsed by explanatory prose;
 - scan/page provenance remains in HTML comments;
 - established cross-page fragments may be translated as one natural English unit only when the Tamil audit already established the join;
-- no source-backed chapter divisions are invented.
+- no source-backed chapter divisions are invented;
+- source-confirmed textual oddities remain visible in English and are documented rather than silently repaired.
 
-Batch 4 must preserve these locks while explicitly resolving the protected scan 22–23 source oddities.
+All four English batches are now reviewed. The next separate gate is the Section 16 whole-work bilingual review; these locks remain subject only to an explicitly documented whole-work correction.
