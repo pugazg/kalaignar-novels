@@ -23,3 +23,7 @@ Closure counts:
 - unresolved translation items: **0**.
 
 New Batch 3 terms/style decisions are recorded in `GLOSSARY.md`. Canonical Tamil remains unchanged.
+
+## Later whole-work corrective note
+
+Section 17 release preflight later detected one scan-17 English error inside this batch: affirmative source `எனக்குப் பொய் அம்மா வேணும்!` had been rendered with an inserted negative (“I don't want a fake Amma!”). A narrow Section 16 corrective re-open changed it to **“I want a fake Amma! It's my real Amma I want!”**, rechecked the full scan-17 paragraph plus 16→17 and 17→18 joins, and found no further mismatch. Canonical Tamil was unchanged. Batch 3 remains **REVIEWED / COMPLETE** after that corrective verification.
