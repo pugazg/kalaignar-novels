@@ -16,28 +16,26 @@
 
 [`collections/arumbu-1978/`](collections/arumbu-1978/README.md) is a **92-scan first-edition 1978 compilation containing four distinct Kalaignar stories**.
 
-Component handling:
-
-- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **TAMIL / ASSEMBLED TAMIL PASSED; SECTION 17 NOT READY — scan-17 English correction required**;
-- [`சாரப்பள்ளம் சாமுண்டி`](works/sarapallam-samundi/README.md) — scans 24–48 — registered / queued;
-- [`பெரிய இடத்துப் பெண்`](works/periya-idathup-pen/README.md) — scans 49–74 — additional witness to the existing work, not a duplicate;
-- [`நடுத்தெரு நாராயணி`](works/nadutheru-narayani/README.md) — scans 75–90 — registered / queued.
+- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **TAMIL / ASSEMBLED TAMIL PASSED; ENGLISH VERIFIED AFTER SCAN-17 CORRECTIVE RE-OPEN; SECTION 17 RERUN NEXT**;
+- [`சாரப்பள்ளம் சாமுண்டி`](works/sarapallam-samundi/README.md) — scans 24–48 — queued;
+- [`பெரிய இடத்துப் பெண்`](works/periya-idathup-pen/README.md) — scans 49–74 — additional 1978 witness;
+- [`நடுத்தெரு நாராயணி`](works/nadutheru-narayani/README.md) — scans 75–90 — queued.
 
 ### Current `அரும்பு` state
 
-- canonical Tamil: **18 / 18 VERIFIED**;
-- all T1/T2/T3 source batches: **PASS / COMPLETE**;
-- whole-work Tamil audit: **PASS / COMPLETE**;
-- assembled Tamil: **1 / 1 PASSED**;
-- English batches: **4 / 4 REVIEWED / COMPLETE**, full scans 6–23 coverage;
-- Section 17 release-readiness: **NOT READY**;
-- blocker: canonical scan 17 affirmative `எனக்குப் பொய் அம்மா வேணும்!` is currently translated with an inserted negative `I don't want a fake Amma!`;
-- whole-work English VERIFIED label: **SUSPENDED pending narrow corrective recheck**;
-- canonical Tamil changes during release preflight: **0**.
+- canonical Tamil **18/18 VERIFIED**;
+- Tamil T1/T2/T3 and whole-work audit **PASS**;
+- assembled Tamil **1/1 PASS**;
+- English **18/18 scans**, Section 16 **PASS / VERIFIED** after corrective re-open;
+- total Section-16 English-only corrections **4**;
+- unresolved translation items **0**;
+- canonical Tamil corrective changes **0**;
+- previous Section 17 NOT READY blocker **resolved**;
+- Section 17 formal rerun **NEXT**.
 
-[`works/arumbu/translations/en/RELEASE_REPORT.md`](works/arumbu/translations/en/RELEASE_REPORT.md) records the release-preflight failure. The source PDF remains excluded from the repository; no `.pdf` path was found in the live recursive tree.
+The corrected scan-17 English now preserves source affirmative `எனக்குப் பொய் அம்மா வேணும்!` as **“I want a fake Amma!”** rather than inserting an unprinted negative.
 
-Exact next action: **narrow Section 16 corrective re-open for scan 17 only**, then rerun Section 17. Do not start another component before release closure.
+Exact next action: **rerun Section 17 release-readiness for `அரும்பு` only**. Stop before another component.
 
 ## Latest completed work — வெள்ளிக்கிழமை
 
@@ -54,4 +52,4 @@ Exact next action: **narrow Section 16 corrective re-open for scan 17 only**, th
 
 ## Release-status note
 
-Repository `release-ready` is an **archival/editorial** judgment. It does not automatically determine copyright, licensing, public-domain status, republication rights or commercial-use permission for an underlying work, scan or translation.
+Repository `release-ready` is an **archival/editorial** judgment. It does not automatically determine copyright, licensing, public-domain status, republication rights or commercial-use permission.
