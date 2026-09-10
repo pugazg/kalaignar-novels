@@ -4,7 +4,7 @@
 
 Section 16 final bilingual review under `NOVEL_PROCESSING_GUIDE.md`.
 
-Result: **PASS / COMPLETE — WHOLE-WORK ENGLISH VERIFIED**.
+Result: **PASS / COMPLETE — WHOLE-WORK ENGLISH VERIFIED, INCLUDING SCAN-17 CORRECTIVE RE-OPEN**.
 
 Working English title: **The Bud**.
 
@@ -44,7 +44,7 @@ The bilingual review re-read the complete English as one work and compared it ag
 
 ## Whole-work corrections made during Section 16
 
-Three English-only corrections were required before closure. Canonical Tamil was **not changed**.
+Four English-only corrections were required across the original whole-work review and later corrective re-open. Canonical Tamil was **not changed**.
 
 1. **Scan 15→16 join — semantic readability**
    - Tamil: `ஒரு குறையும் இல்லாம காப்பாத்துங்க, அம்மா!`
@@ -63,6 +63,12 @@ Three English-only corrections were required before closure. Canonical Tamil was
    - pre-review English: `Motherhood is the inheritance of womankind!`
    - final English: **`The feeling of motherhood belongs to womankind!`**
    - reason: `inheritance` added a concept not required by source `சொத்து`; the revised wording stays closer to the source assertion.
+
+4. **Scan 17 — source-confirmed affirmative oddity / corrective re-open after Section 17 preflight**
+   - Tamil: `எனக்குப் பொய் அம்மா வேணும்! நிஜ அம்மாதான் வேணும்!`
+   - pre-correction English: `I don't want a fake Amma! I want my real Amma!`
+   - final English: **`I want a fake Amma! It's my real Amma I want!`**
+   - reason: the audited Tamil and re-inspected source pixels have affirmative `வேணும்`; the earlier English silently inserted a contextually expected negative. The corrective rendering preserves the source strangeness rather than changing it to unprinted `வேணாம்` / “don't want.”
 
 After these corrections the affected passages were rechecked against their canonical Tamil records. Unresolved whole-work translation items: **0**.
 
@@ -99,6 +105,18 @@ Source-visible pagination remains reversible: scan 6 is unnumbered; scans 7–13
 
 The whole-work pass confirms continuity of the central **bud / leaf** metaphor from title and child imagery through the final movement from **one leaf / one bud**, to **two leaves / one bud**, and finally toward **two leaves / two buds**. Locked names and cultural/source-facing terms remain consistent with `GLOSSARY.md`.
 
+## Corrective re-open verification
+
+The later Section 17 release preflight reopened **only the scan-17 sentence above**. The complete affected scan-17 paragraph was rechecked against canonical `../../pages/0017-arumbu-13.md`, together with the established **16→17** join (`அவர்களைக்-` / `கவனிக்கிறான்.`) and **17→18** join (`குமார்` / `பள்ளிக்கூடத்தில்...`). No additional mismatch was found in that bounded recheck.
+
+- canonical Tamil changes during corrective re-open: **0**;
+- corrective English changes: **1**;
+- total Section-16 English-only corrections now recorded: **4**;
+- unresolved translation items after corrective recheck: **0**;
+- whole-work English: **VERIFIED**.
+
+The previous Section 17 NOT READY report remains a truthful record of the failed release attempt; its blocker is now resolved, but Section 17 must be rerun as a separate checkpoint.
+
 ## Final verdict
 
 **SECTION 16 WHOLE-WORK BILINGUAL REVIEW — PASS / COMPLETE.**
@@ -110,4 +128,4 @@ The whole-work pass confirms continuity of the central **bud / leaf** metaphor f
 - whole-work English: **VERIFIED**;
 - canonical Tamil changed during Section 16: **No**.
 
-The next separate checkpoint is **Section 17 release-readiness** and creation of `RELEASE_REPORT.md`. Do not conflate this bilingual-review verdict with copyright/licensing/public-domain status.
+The next separate checkpoint is a **rerun of Section 17 release-readiness** using the corrected English. Do not conflate the bilingual-review or eventual release-ready verdict with copyright/licensing/public-domain status.
