@@ -1,4 +1,4 @@
-# Next Chat Prompt — அரும்பு / Section 17 release-readiness
+# Next Chat Prompt — அரும்பு / scan-17 Section 16 corrective re-open
 
 Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections/arumbu-1978/`, active work `works/arumbu/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -17,7 +17,7 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 ## Durable compilation structure
 
 - scans 1–5 — collection front matter;
-- scans 6–23 — `அரும்பு` — **TAMIL + ASSEMBLED TAMIL PASSED / ENGLISH VERIFIED / SECTION 17 NEXT**;
+- scans 6–23 — `அரும்பு` — **TAMIL / ASSEMBLED TAMIL PASSED; SECTION 17 NOT READY — corrective English re-open active**;
 - scans 24–48 — `சாரப்பள்ளம் சாமுண்டி` — queued;
 - scans 49–74 — `பெரிய இடத்துப் பெண்` — additional witness only;
 - scans 75–90 — `நடுத்தெரு நாராயணி` — queued;
@@ -25,63 +25,52 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 
 ## Mandatory startup
 
-Read before Section 17:
+Read before changing anything:
 
-1. `NOVEL_PROCESSING_GUIDE.md`, especially Section 17;
-2. root `HANDOVER.md`;
+1. `NOVEL_PROCESSING_GUIDE.md`, especially Sections 15–17;
+2. `HANDOVER.md`;
 3. `works/arumbu/README.md`;
 4. `works/arumbu/audit.md`;
-5. `works/arumbu/sections/README.md`;
-6. `works/arumbu/translations/en/TRANSLATION_PLAN.md`;
-7. `works/arumbu/translations/en/README.md`;
-8. `works/arumbu/translations/en/PROGRESS.md`;
-9. `works/arumbu/translations/en/GLOSSARY.md`;
-10. `works/arumbu/translations/en/TRANSLATION_REVIEW.md`;
-11. complete English `works/arumbu/translations/en/sections/01-arumbu.md`;
-12. page map / metadata controls needed to verify inventory and navigation.
+5. `works/arumbu/indexes/page-map.md`;
+6. `works/arumbu/translations/en/README.md`;
+7. `works/arumbu/translations/en/PROGRESS.md`;
+8. `works/arumbu/translations/en/GLOSSARY.md`;
+9. `works/arumbu/translations/en/TRANSLATION_REVIEW.md`;
+10. `works/arumbu/translations/en/RELEASE_REPORT.md`;
+11. canonical `works/arumbu/pages/0017-arumbu-13.md`;
+12. English `works/arumbu/translations/en/sections/01-arumbu.md` around scan 17.
 
-Do not reopen closed Tamil work or verified English unless genuine source evidence or a concrete release-gate inconsistency requires correction.
-
-## Durable `அரும்பு` state
+## Durable Tamil state
 
 - canonical Tamil records: **18 / 18 VERIFIED**;
-- all T1/T2/T3 source gates: **PASS / COMPLETE**;
+- T1/T2/T3: **PASS / COMPLETE**;
 - whole-work Tamil audit: **PASS / COMPLETE**;
-- assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
-- English translation plan: **PASS / COMPLETE**;
-- English Batches 1–4: **4 / 4 REVIEWED / COMPLETE**;
-- English coverage: **18 / 18 scans — scans 6–23**;
-- Section 16 whole-work bilingual review: **PASS / COMPLETE**;
-- whole-work English: **VERIFIED**;
-- Section 16 corrections: **3 English-only**;
-- material omissions / source-like additions / unresolved items after review: **0 / 0 / 0**;
-- canonical Tamil changes during Section 16: **0**;
-- Section 17 release-readiness: **NEXT**.
+- assembled Tamil: **1 / 1 PASSED**;
+- canonical Tamil must remain unchanged during this corrective checkpoint.
 
-## Section 16 protected final state
+## Release-preflight blocker
 
-- scan 22 `பேசினேன்` → **I spoke**;
-- scan 23 `அம்மனார்` → **Ammanar**, not Ammanur;
-- final `இனி:......` → **from now on:......**;
-- no source `முற்றும்` → no **The End**;
-- the central bud/leaf motif remains connected through the final sentence;
-- source scan/page provenance remains reversible;
-- no source-backed chapter divisions exist.
+Section 17 found a concrete mismatch missed by the earlier Section 16 review.
 
-## Exact next activity — Section 17 only
+Canonical scan 17 / printed page 13:
 
-Create `works/arumbu/translations/en/RELEASE_REPORT.md` and execute the release-readiness gate required by `NOVEL_PROCESSING_GUIDE.md`:
+`“எனக்குப் பொய் அம்மா வேணும்! நிஜ அம்மாதான் வேணும்!”`
 
-- verify work identity and 1978 source-edition identity;
-- verify Tamil canonical inventory **18/18** and assembled Tamil **1/1**;
-- verify English section inventory and Section 16 **PASS / VERIFIED** state;
-- check reader-facing navigation and links;
-- reconfirm authority hierarchy and one-work/one-section structural identity;
-- document source oddities/pagination anomaly;
-- confirm canonical Tamil was not changed during the release pass;
-- confirm the source PDF is not committed;
-- record any non-blocking editorial limitations;
-- issue a final **release-ready / not-ready archival/editorial verdict**;
-- synchronize controls, commit, and stop.
+Current English:
 
-Do **not** begin `சாரப்பள்ளம் சாமுண்டி` or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.
+`“I don't want a fake Amma! I want my real Amma!”`
+
+The source has affirmative **`வேணும்`**; the English inserts an unprinted negative **`don't`**. Direct scan re-inspection supports the canonical affirmative reading. Do not infer or restore `வேணாம்` from context.
+
+## Exact next activity — corrective checkpoint only
+
+1. Correct only the affected scan-17 English sentence so it preserves the source-confirmed affirmative wording. A source-bound rendering should retain the strangeness rather than normalize it; e.g. **`I want a fake Amma! It's my real Amma I want!`**.
+2. Add a concise provenance comment beside the sentence documenting that affirmative `வேணும்` is source-confirmed and intentionally not normalized.
+3. Update `GLOSSARY.md` with this protected source oddity.
+4. Update `TRANSLATION_REVIEW.md` to record the release-preflight correction and recheck; previous Section 16 correction count must no longer remain stale.
+5. Recheck the full scan-17 paragraph plus established 16→17 and 17→18 joins against canonical Tamil.
+6. If PASS, restore whole-work English **VERIFIED** with **0 unresolved translation items**.
+7. Synchronize `PROGRESS.md`, English/work/audit/root controls and `RELEASE_REPORT.md` only as needed to say the corrective checkpoint passed but **Section 17 still requires rerun**.
+8. Commit and stop.
+
+Do **not** rerun Section 17 release-readiness in the same corrective checkpoint. Do **not** start `சாரப்பள்ளம் சாமுண்டி` or the 1978 `பெரிய இடத்துப் பெண்` witness comparison.
