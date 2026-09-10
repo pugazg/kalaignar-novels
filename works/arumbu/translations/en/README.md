@@ -1,8 +1,8 @@
 # English Translation — அரும்பு
 
-Status: **IN PROGRESS — Batches 1–3 REVIEWED**.
+Status: **ALL FOUR BATCHES REVIEWED — WHOLE-WORK BILINGUAL REVIEW NEXT**.
 
-The mandatory Section 14 translation plan is complete at [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md). The audited Tamil `../../pages/` layer is final textual authority; [`../../sections/01-arumbu.md`](../../sections/01-arumbu.md) is the reading-continuity derivative.
+The mandatory Section 14 translation plan is complete at [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md). The audited Tamil `../../pages/` layer remains final textual authority; [`../../sections/01-arumbu.md`](../../sections/01-arumbu.md) is reading-continuity support.
 
 Working English title: **The Bud**.
 
@@ -11,37 +11,37 @@ Working English title: **The Bud**.
 1. scans **6–10** — pilot — **REVIEWED / COMPLETE**;
 2. scans **11–15** — **REVIEWED / COMPLETE**;
 3. scans **16–20** — **REVIEWED / COMPLETE**;
-4. scans **21–23** — **NEXT**.
+4. scans **21–23** — **REVIEWED / COMPLETE**.
 
 English reading file: [`sections/01-arumbu.md`](sections/01-arumbu.md).
 
-Current translated coverage: **scans 6–20 / 15 of 18 source scans**. The final English structure remains one continuous section; the file remains partial until Batch 4 closes.
+Current translated coverage: **scans 6–23 / 18 of 18 source scans**. The final English reading layer is one continuous section. All four controlled batches have been source-checked and reviewed, but whole-work English is **not yet VERIFIED** until the separate Section 16 bilingual review passes.
 
-## Batch 3 — scans 16–20
+## Batch 4 — scans 21–23
 
-The five-scan span was appended after reviewed Batch 2 and checked back against canonical Tamil pages `0016-arumbu-12.md` through `0020-arumbu-16.md`.
+The final three source scans were appended after reviewed Batch 3 and checked back against canonical Tamil pages `0021-arumbu-17.md` through `0023-arumbu-19.md`.
 
 Review result: **PASS / REVIEWED** with **0 omissions, 0 source-like additions and 0 unresolved translation items**.
 
-Durable Batch 3 details:
+Protected source decisions are now locked in [`GLOSSARY.md`](GLOSSARY.md):
 
-- joins 15→16, 16→17, 17→18, 18→19 and 19→20 remain reversible through source comments;
-- recurring **bud / leaf** imagery remains connected;
-- Kumar's child register, `Amma` contrasts and source rhetoric are preserved;
-- new source-facing terms including `gomedhakam gem`, `Moodevi` and `thazhai frond` are locked in [`GLOSSARY.md`](GLOSSARY.md);
-- scan 20 closes at `His mother's picture!`;
-- no scan 21 English prose is present.
+- scan 22 `பேசினேன்` → **`I spoke`**, preserving the source-confirmed first-person shift;
+- scan 23 `அம்மனார்` → **Ammanar**, without normalizing it to earlier Ammanur;
+- scan 23 final `இனி:......` → **`from now on:......`**, retaining the unusual punctuation;
+- no explicit `முற்றும்` is printed, so no **The End** is added.
 
-See [`BATCH_03_REVIEW.md`](BATCH_03_REVIEW.md) for the checkpoint record.
+The final bud/leaf motif remains source-connected through the closing sentence. See [`BATCH_04_REVIEW.md`](BATCH_04_REVIEW.md).
 
 ## Controls
 
 - [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md) — **PASS / COMPLETE**;
 - [`PLAN_CHECKPOINT.md`](PLAN_CHECKPOINT.md) — planning checkpoint record;
-- [`PROGRESS.md`](PROGRESS.md) — current batch progress;
-- [`GLOSSARY.md`](GLOSSARY.md) — Batches 1–3 style/terminology locks;
-- [`sections/01-arumbu.md`](sections/01-arumbu.md) — English prose through scan 20 only.
+- [`PROGRESS.md`](PROGRESS.md) — **4 / 4 batches REVIEWED**;
+- [`GLOSSARY.md`](GLOSSARY.md) — Batches 1–4 style/terminology locks;
+- [`BATCH_03_REVIEW.md`](BATCH_03_REVIEW.md) — Batch 3 review record;
+- [`BATCH_04_REVIEW.md`](BATCH_04_REVIEW.md) — Batch 4 review record;
+- [`sections/01-arumbu.md`](sections/01-arumbu.md) — English prose for scans 6–23.
 
 ## Exact next activity
 
-Execute **Batch 4 — scans 21–23 only**: append the final audited source span, explicitly resolve the protected `பேசினேன்`, `அம்மனார்` and `இனி:......` translation handling, source-check against canonical pages 0021–0023, synchronize controls, commit, and stop before the whole-work bilingual review.
+Create `TRANSLATION_REVIEW.md` and execute **Section 16 whole-work bilingual review** across the entire work. Check coverage, order, duplication, omissions/additions, agency, speaker attribution, recurring terminology, rhetoric, all cross-page joins, source oddities, final-page treatment and provenance. Only after that passes may whole-work English be called **VERIFIED**. Stop before Section 17 release-readiness.
