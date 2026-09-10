@@ -8,8 +8,8 @@
 | Work identity / scan boundary | **PASS — scans 6–23** |
 | Page-level Tamil transcription | **IN PROGRESS — 5 / 18 canonical records** |
 | Active batch T1 scans 6–10 | **PASS / COMPLETE** |
-| Historical-glyph gate | **T2 NEXT — scans 6–10** |
-| Final source-fidelity closure | **T3 BLOCKED by T2** |
+| Active batch T2 scans 6–10 | **PASS / COMPLETE — 4 character-identity corrections / 0 unresolved** |
+| Final source-fidelity closure | **T3 NEXT — scans 6–10** |
 | Full Tamil audit | BLOCKED |
 | Assembled Tamil | BLOCKED |
 | English | BLOCKED |
@@ -38,24 +38,35 @@ Canonical records:
 - `pages/0009-arumbu-04.md` — printed page `4`;
 - `pages/0010-arumbu-05.md` — printed page `5`.
 
-All five remain `needs-review`.
-
-Physical joins retained in-place:
-
-- scan 7→8: `நடந்` / `தேறின.`;
-- scan 8→9: `அபிநய` / `அசைவுகளை...`;
-- scan 9→10: `...வைத்தியரை அழைத்து` / `வந்துவிடுகிறேன்”...`.
-
 T1 checkpoint audit: [`T1_BATCH_006_010.md`](T1_BATCH_006_010.md).
 
-### T2 — NEXT
+### T2 — PASS / COMPLETE
 
-Run an independent full-page historical-glyph re-read across scans 6–10. The T1 transcription does **not** constitute this gate. Record source-supported corrections and unresolved forms separately.
+Every complete scan was independently re-read against the full known historical set:
 
-### T3 — BLOCKED
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-Do not run final source-fidelity closure until T2 is durably committed.
+Corrections from direct source pixels:
+
+| Scan | T1 reading | T2 source-supported reading | Classification |
+|---:|---|---|---|
+| 7 | `மனத்திற்குப்` | `மணத்திற்குப்` | additional character identity |
+| 8 | `கிழவனுக்குவா` | `கிழவனாகவா` | historical `னா` |
+| 8 | `கிழவனுக்குவும்` | `கிழவனாகவும்` | historical `னா` |
+| 10 | `அவனுடைய` | `அவளுடைய` | additional character identity |
+
+- total character-identity corrections: **4**;
+- corrections within the mandatory 13-family set: **2**, both `னா` on scan 8;
+- additional character-identity corrections: **2**;
+- unresolved glyphs after T2: **0**;
+- canonical page states remain **5 `needs-review` / 0 verified**.
+
+T2 checkpoint audit: [`T2_BATCH_006_010.md`](T2_BATCH_006_010.md).
+
+### T3 — NEXT
+
+Perform the final independent source-fidelity closure for scans 6–10. Check omissions, duplicated or misplaced text, physical joins, printed-page visibility, illustration/body separation and the T2 corrections. Only T3 may close/verify this batch if all source checks pass.
 
 ## Exact next activity
 
-Execute **T2 only** for physical scans **6–10**, synchronize controls, commit, and stop before T3. Do not begin scan 11.
+Execute **T3 only** for physical scans **6–10**, synchronize controls, commit separately, and stop before scan 11.

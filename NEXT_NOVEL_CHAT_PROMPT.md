@@ -1,4 +1,4 @@
-# Next Chat Prompt — அரும்பு / scans 6–10 / T2 historical-glyph checkpoint
+# Next Chat Prompt — அரும்பு / scans 6–10 / T3 source-fidelity closure
 
 Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections/arumbu-1978/`, active work `works/arumbu/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -35,18 +35,26 @@ Read before source-dependent work:
 6. `works/arumbu/indexes/page-map.md`;
 7. `works/arumbu/audit.md`;
 8. `works/arumbu/T1_BATCH_006_010.md`;
-9. canonical records `works/arumbu/pages/0006-arumbu-01.md` through `0010-arumbu-05.md`.
+9. `works/arumbu/T2_BATCH_006_010.md`;
+10. canonical records `works/arumbu/pages/0006-arumbu-01.md` through `0010-arumbu-05.md`.
 
-## Durable T1 state — scans 6–10
+## Durable T1/T2 state — scans 6–10
 
-T1 direct transcription/canonical-record checkpoint is **PASS / COMPLETE**.
-
+- T1 direct transcription/canonical records: **PASS / COMPLETE**;
+- T2 independent historical-glyph re-read: **PASS / COMPLETE**;
 - canonical records: **5 / 18 total work scans**;
-- scan 6 printed page: `null`;
-- scans 7–10 printed pages: **2, 3, 4, 5**;
-- all five records remain `needs-review`;
-- no page is verified;
-- T2 and T3 remain separate commits.
+- printed pages: scan 6 `null`; scans 7–10 **2, 3, 4, 5**;
+- all five page records remain `needs-review`; none is verified yet;
+- T2 corrections: **4 / unresolved glyphs 0**.
+
+T2 corrections:
+
+- scan 7 `மனத்திற்குப்` → `மணத்திற்குப்`;
+- scan 8 `கிழவனுக்குவா` → `கிழவனாகவா`;
+- scan 8 `கிழவனுக்குவும்` → `கிழவனாகவும்`;
+- scan 10 `அவனுடைய` → `அவளுடைய`.
+
+The two scan-8 corrections are historical `னா` decoding corrections. The scan-7 and scan-10 changes are additional direct character-identity corrections found during the independent page re-read.
 
 Preserved physical joins:
 
@@ -54,20 +62,19 @@ Preserved physical joins:
 - 8→9 `அபிநய` / `அசைவுகளை...`;
 - 9→10 `...வைத்தியரை அழைத்து` / `வந்துவிடுகிறேன்”...`.
 
-## Exact next activity — T2 only
+## Exact next activity — T3 only
 
-Perform an **independent historical-glyph re-read of physical scans 6–10**.
+Perform the **final independent source-fidelity closure for physical scans 6–10**.
 
-- re-read every complete page from source pixels rather than merely proofreading T1 text;
-- explicitly check the full known sensitive-family set:
-  `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-- compare clearer same-edition forms when needed;
-- correct Unicode character identity only where the source directly supports it;
-- do not modernize spelling, grammar, punctuation or vocabulary;
-- create crops/enhancements only when an actual glyph reading is uncertain;
-- update page-level notes and work audit with every correction or unresolved form;
-- keep pages `needs-review` because T3 has not yet run;
-- synchronize controls and commit T2 immediately;
-- stop.
+- compare every complete canonical page directly against source pixels;
+- check for omissions, duplicated text, accidental normalization and misplaced fragments;
+- verify the three physical page joins without moving fragments between records;
+- reconfirm printed-page visibility and scan 6 title-illustration/body separation;
+- reconfirm the four T2 character-identity corrections from the source;
+- resolve only direct-source-supported issues;
+- if all mandatory checks pass, change scans 6–10 from `needs-review` to `verified`;
+- create `T3_BATCH_006_010.md`;
+- synchronize work README, page map, audit, root HANDOVER, next prompt and root README;
+- commit T3 separately and stop.
 
-Do **not** perform T3, begin scan 11, start another component, or compare the 1978 `பெரிய இடத்துப் பெண்` witness in the same checkpoint.
+Do **not** begin scan 11, start another component, or compare the 1978 `பெரிய இடத்துப் பெண்` witness in the same checkpoint.

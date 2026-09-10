@@ -11,10 +11,12 @@
 - collection/source intake: **COMPLETE**;
 - physical component span: **18 scans**;
 - canonical page records: **5 / 18** — scans **6–10**;
-- direct visual transcription: **T1 COMPLETE for scans 6–10**;
+- scans 6–10 T1 direct visual transcription: **PASS / COMPLETE**;
+- scans 6–10 T2 independent historical-glyph re-read: **PASS / COMPLETE**;
+- T2 character-identity corrections: **4 total** — 2 historical `னா` occurrences + 2 additional direct character corrections;
+- unresolved T2 glyphs: **0**;
 - page status: **5 `needs-review` / 0 verified**;
-- historical-glyph gate: **T2 NEXT for scans 6–10**;
-- final source-fidelity closure: **T3 BLOCKED by T2**;
+- final source-fidelity closure: **T3 NEXT for scans 6–10**;
 - assembled Tamil: **BLOCKED**;
 - English: **BLOCKED**.
 
@@ -29,9 +31,9 @@ Source batches follow root [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](../../SOURCE_
 3. **T3 — final source-fidelity closure** → synchronize controls → commit;
 4. only after T3 may the next batch begin.
 
-Crops/enhancements are created only for genuinely uncertain readings.
+## Completed checkpoints — scans 6–10
 
-## Completed checkpoint — scans 6–10 / T1
+### T1 — PASS
 
 - five canonical page records created under `pages/`;
 - printed-page visibility preserved exactly: scan 6 `null`; scans 7–10 show **2, 3, 4, 5**;
@@ -39,13 +41,29 @@ Crops/enhancements are created only for genuinely uncertain readings.
 - physical joins preserved without moving text:
   - 7→8 `நடந்` / `தேறின.`;
   - 8→9 `அபிநய` / `அசைவுகளை...`;
-  - 9→10 `...வைத்தியரை அழைத்து` / `வந்துவிடுகிறேன்”...`;
-- all five pages remain `needs-review` because T2 and T3 have not yet passed.
+  - 9→10 `...வைத்தியரை அழைத்து` / `வந்துவிடுகிறேன்”...`.
 
 Checkpoint record: [`T1_BATCH_006_010.md`](T1_BATCH_006_010.md).
 
+### T2 — PASS
+
+Independent full-page historical-glyph re-read completed across all five scans using the 13-family reference set.
+
+Corrections:
+
+- scan 7: `மனத்திற்குப்` → `மணத்திற்குப்`;
+- scan 8: `கிழவனுக்குவா` → `கிழவனாகவா`;
+- scan 8: `கிழவனுக்குவும்` → `கிழவனாகவும்`;
+- scan 10: `அவனுடைய` → `அவளுடைய`.
+
+The two scan-8 corrections are historical `னா` decoding corrections. The scan-7 and scan-10 changes are additional direct character-identity corrections caught during the independent page re-read. **0 unresolved glyphs** remain after T2.
+
+Checkpoint record: [`T2_BATCH_006_010.md`](T2_BATCH_006_010.md).
+
+All five pages remain `needs-review` because T3 has not yet run.
+
 ## Exact next activity
 
-**T2 for physical scans 6–10 only.**
+**T3 for physical scans 6–10 only.**
 
-Independently re-read all five scans under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, explicitly check the full known sensitive-family set, correct only source-supported character identity, record any corrections/unresolved glyphs, synchronize controls and commit. Stop before T3 and do not begin scan 11.
+Perform the final independent source-fidelity closure: check omissions, duplication, misplaced fragments, page joins, printed-page visibility, illustration/body separation and the applied T2 corrections against the scans. Resolve only direct-source-supported issues; mark pages verified only if the gate fully passes. Synchronize controls and commit T3 separately. Stop before scan 11.

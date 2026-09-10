@@ -25,8 +25,6 @@
 
 Collection-level intake: `collections/arumbu-1978/` — **COMPLETE**.
 
-The volume contains four distinct Kalaignar stories; the first story supplies the compilation title.
-
 ## Component map
 
 1. `அரும்பு` — physical scans **6–23** — `works/arumbu/` — **ACTIVE**.
@@ -38,11 +36,11 @@ Collection front matter: scans **1–5**. Publisher catalogue/back-cover matter:
 
 ## Small-task checkpoint workflow
 
-Root [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](SOURCE_BATCH_CHECKPOINT_WORKFLOW.md) is authoritative for active page-level batches:
+Root [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](SOURCE_BATCH_CHECKPOINT_WORKFLOW.md) is authoritative:
 
-1. **T1 — direct transcription / canonical records / printed-page visibility** → control sync → commit → stop;
-2. **T2 — independent historical-glyph re-read** → control sync → commit → stop;
-3. **T3 — final source-fidelity closure** → control sync → commit → stop;
+1. **T1 — direct transcription / canonical records / printed-page visibility** → sync → commit → stop;
+2. **T2 — independent historical-glyph re-read** → sync → commit → stop;
+3. **T3 — final source-fidelity closure** → sync → commit → stop;
 4. only then may the next bounded source batch begin.
 
 ## `அரும்பு` durable state
@@ -51,12 +49,15 @@ Root [`SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`](SOURCE_BATCH_CHECKPOINT_WORKFLOW.md
 - canonical records: **5 / 18**;
 - current covered range: **scans 6–10**;
 - scans 6–10 T1 direct visual transcription: **PASS / COMPLETE**;
+- scans 6–10 T2 historical-glyph re-read: **PASS / COMPLETE**;
+- T2 corrections: **4 character-identity corrections / 0 unresolved**;
+- historical 13-family corrections: **2 `னா` occurrences on scan 8**;
+- additional direct character corrections: scan 7 `மனத்திற்குப்` → `மணத்திற்குப்`; scan 10 `அவனுடைய` → `அவளுடைய`;
 - scans 6–10 page states: **5 `needs-review` / 0 verified**;
-- scans 6–10 T2 historical-glyph re-read: **NEXT**;
-- scans 6–10 T3 final source-fidelity closure: **BLOCKED by T2**;
+- scans 6–10 T3 final source-fidelity closure: **NEXT**;
 - scans 11–15: **BLOCKED until scans 6–10 T3 passes**.
 
-Printed-page visibility in the committed T1 range:
+Printed-page visibility remains:
 
 - scan 6 — `null` / no visible printed number;
 - scan 7 — `2`;
@@ -70,19 +71,21 @@ Physical page joins retained in their source records:
 - 8→9: `அபிநய` / `அசைவுகளை...`;
 - 9→10: `...வைத்தியரை அழைத்து` / `வந்துவிடுகிறேன்”...`.
 
-T1 audit: `works/arumbu/T1_BATCH_006_010.md`.
+Checkpoint audits:
+
+- T1: `works/arumbu/T1_BATCH_006_010.md`;
+- T2: `works/arumbu/T2_BATCH_006_010.md`.
 
 ## Exact next activity
 
-Run **`அரும்பு` scans 6–10 / T2 only**:
+Run **`அரும்பு` scans 6–10 / T3 only**:
 
-- independently re-read every full page under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
-- explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-- compare same-edition forms where needed;
-- correct only character identity supported by source pixels;
-- do not modernize source wording;
-- create crops/enhancements only for actual uncertainty;
-- record corrections/unresolved forms in page/work audit;
-- synchronize controls, commit T2, and stop before T3.
+- independently compare every complete canonical page against the source scans;
+- check omissions, duplicated text, misplaced physical fragments and the three documented page joins;
+- reconfirm scan/printed numbering and scan 6 illustration/body separation;
+- reconfirm the four T2 character-identity corrections;
+- resolve only what direct source pixels support;
+- if all source checks pass, mark scans 6–10 `verified` and close the batch;
+- synchronize controls, create the T3 batch audit, commit T3 separately, and stop.
 
 Do not begin scan 11, another component, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.
