@@ -28,6 +28,9 @@ Verified canonical records: **18 / 18 — scans 6–23 contiguous**.
 Whole-work Tamil audit: **PASS / COMPLETE**.  
 Tamil source layer: **PASSED**.  
 Assembled Tamil: **PASS / COMPLETE — 1 / 1 section (`../sections/01-arumbu.md`)**.  
+English translation plan: **PASS / COMPLETE**.  
+English prose: **NOT STARTED**.  
+Next English checkpoint: **Batch 1 pilot — scans 6–10**.  
 Unresolved historical glyphs: **0**.  
 Unresolved source readings: **0**.
 
@@ -78,6 +81,16 @@ Section 13 assembly is complete:
 - no source-backed chapter division or printed page 9 was invented;
 - canonical page records remain unchanged.
 
+## English planning layer
+
+Section 14 planning is complete under `../translations/en/`:
+
+- `TRANSLATION_PLAN.md` — **PASS / COMPLETE**;
+- working English title — **The Bud**;
+- planned final English structure — one section;
+- controlled batches — **6–10**, **11–15**, **16–20**, **21–23**;
+- no English prose has yet been translated.
+
 ## Exact next activity
 
-Prepare the **Section 14 English translation plan** for `அரும்பு` only. Do not begin English prose, `சாரப்பள்ளம் சாமுண்டி`, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.
+Execute **English Batch 1 pilot — scans 6–10 only**, source-check against canonical Tamil, update English controls, synchronize project controls, commit, and stop before Batch 2 or another compilation component.
