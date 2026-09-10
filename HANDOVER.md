@@ -36,36 +36,32 @@ Fetch live `main` first and preserve newer durable work. Do not reopen completed
 
 ## Assembled Tamil reading layer
 
-- **IN PROGRESS — Chapters 1–4 / 23 VERIFIED**;
-- Chapter 1: scans 4–12;
-- Chapter 2: scans 13–22;
-- Chapter 3: scan 23 through scan 33 before centered `4`;
-- Chapter 4: scan 33 after centered `4` through scan 45 before centered `5`;
-- assembled source coverage now reaches the Chapter 4 carryover on scan 45 immediately before centered `5`;
+- **IN PROGRESS — Chapters 1–9 / 23 VERIFIED**;
+- Chapters 1–4 were completed in earlier chapter-sized commits;
+- at the user's explicit direction, Chapters **5–9** were assembled together as one contiguous batch;
+- assembled source coverage now reaches **scan 85 immediately before centered `10`**;
 - canonical `pages/` remain controlling authority;
-- English remains **blocked** until the full assembled Tamil layer and final consistency gate pass.
+- no canonical page record changed during the Chapters 5–9 assembly batch;
+- English remains **blocked** until all 23 chapters and the final assembled-layer consistency gate pass.
 
-## Chapter 4 closure
+## Chapters 5–9 durable coverage
 
-`works/vellikkizhamai/sections/04-chapter-04.md` is **VERIFIED**. It derives only from canonical scans 33–45 and preserves source-specific spelling, punctuation and dialogue forms.
+- Chapter 5: scan 45 after centered `5` through scan 51 — **VERIFIED**;
+- Chapter 6: scan 52 through scan 59 before centered `7` — **VERIFIED**;
+- Chapter 7: scan 59 after centered `7` through scan 68 before centered `8` — **VERIFIED**;
+- Chapter 8: scan 68 after centered `8` through scan 75 before centered `9` — **VERIFIED**;
+- Chapter 9: scan 75 after centered `9` through scan 85 before centered `10` — **VERIFIED**.
 
-Important verified joins retained reversibly:
+Mixed scans 59, 68, 75 and 85 are split only at their source-printed centered headings. Scan 66's printed-page value remains source-visible `5`; scan 82's bottom standalone `6` remains a non-body printer/signature mark.
 
-- 33→34 `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே` → `போவதாக இருக்கிறாள்.`;
-- 37→38 `அழகப்பன்,` → `நயினா, தாயார்...`;
-- 38→39 `காரில்` → `போய்க்கொண்டிருந்தார்களாம்.`;
-- 39→40 `சாலையின் குறுக்கே` → `கிடந்தவனும்...`;
-- 40→41 `அடித்து மோதிக்` → `கொண்டு அழுதாள்.`;
-- 41→42 `தன்னைத்தானே` → `அறிமுகப்படுத்திக்கொண்டு...`;
-- 42→43 `ஏற்` + `பட்டுவிட்டது`;
-- 44→45 literal canonical fragments `நர்சு அவர்` + `களச்...` are preserved without grammar-driven repair.
+## Assembly workflow
 
-Scan 45 is a mixed Chapter 4→5 boundary page. Chapter 4 stops before centered `5`; Chapter 5 starts only below it. No canonical page record changed during assembly.
+The default remains one source chapter per iteration / commit. A multi-chapter assembly is allowed only on explicit user authorization; the Chapters 5–9 batch was explicitly authorized. Always derive only from audited canonical `pages/`, preserve reversible provenance, join only verified page continuities, and never normalize source wording merely for reading flow.
 
 ## Exact next activity
 
-Assemble and verify **Chapter 5 only** as:
+Assemble and verify **Chapter 10** as:
 
-`works/vellikkizhamai/sections/05-chapter-05.md`
+`works/vellikkizhamai/sections/10-chapter-10.md`
 
-Coverage: **scan 45 after centered `5` through scan 51**. Preserve canonical wording and reversible provenance. Do not start Chapter 6 or English in the same iteration.
+Coverage: **scan 85 after centered `10` through scan 92 before centered `11`**. English remains blocked.

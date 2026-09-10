@@ -12,7 +12,7 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 - second historical-glyph re-audit: **COMPLETE — scans 119–179 / 61 of 61 PASS; 5 corrections / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **IN PROGRESS — Chapters 1–4 / 23 VERIFIED**.
+- assembled Tamil: **IN PROGRESS — Chapters 1–9 / 23 VERIFIED**.
 
 ## Printed-page mapping
 
@@ -59,12 +59,12 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 | 2 | scans 13–22 | **VERIFIED** |
 | 3 | scan 23 → scan 33 before centered `4` | **VERIFIED** |
 | 4 | scan 33 after centered `4` → scan 45 before centered `5` | **VERIFIED** |
-| 5 | scan 45 after centered `5` → scan 51 | **NEXT** |
-| 6 | scan 52 → scan 59 before centered `7` | pending |
-| 7 | scan 59 after centered `7` → scan 68 before centered `8` | pending |
-| 8 | scan 68 after centered `8` → scan 75 before centered `9` | pending |
-| 9 | scan 75 after centered `9` → scan 85 before centered `10` | pending |
-| 10 | scan 85 after centered `10` → scan 92 before centered `11` | pending |
+| 5 | scan 45 after centered `5` → scan 51 | **VERIFIED** |
+| 6 | scan 52 → scan 59 before centered `7` | **VERIFIED** |
+| 7 | scan 59 after centered `7` → scan 68 before centered `8` | **VERIFIED** |
+| 8 | scan 68 after centered `8` → scan 75 before centered `9` | **VERIFIED** |
+| 9 | scan 75 after centered `9` → scan 85 before centered `10` | **VERIFIED** |
+| 10 | scan 85 after centered `10` → scan 92 before centered `11` | **NEXT** |
 | 11 | scan 92 after centered `11` → scan 99 before centered `12` | pending |
 | 12 | scan 99 after centered `12` → scan 107 before centered `13` | pending |
 | 13 | scan 107 after centered `13` → scan 115 before centered `14` | pending |
@@ -79,12 +79,12 @@ Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
 | 22 | scan 166 after centered `22` → scan 172 before centered `23` | pending |
 | 23 | scan 172 after centered `23` → scan 179 | pending |
 
-## Chapter 4 assembly decisions
+## Chapters 5–9 assembly decisions
 
-Mixed boundary scans 33 and 45 were split at centered headings `4` and `5`. Verified page joins were represented reversibly; canonical source oddities were not normalized. In particular, scan 35's unmatched opening quotation is preserved, and the literal scan-44/45 canonical fragments `நர்சு அவர்` + `களச்...` remain unaltered.
+The user explicitly authorized a five-chapter batch. Chapters 5–9 were independently derived from canonical records and committed together. Mixed scans 59, 68, 75 and 85 are split at the centered headings; no post-heading text is assigned backward to the preceding chapter. Scan 66's source-visible printed number remains only `5`; scan 82's standalone bottom `6` remains non-body.
 
-No canonical page record changed during Chapter 4 assembly.
+No canonical page record changed during Chapters 5–9 assembly.
 
 ## Exact next activity
 
-Assemble **Chapter 5 only — scan 45 after centered `5` through scan 51** into `sections/05-chapter-05.md`; verify against canonical pages, then advance assembly state to **5 / 23**. English remains blocked.
+Assemble **Chapter 10 — scan 85 after centered `10` through scan 92 before centered `11`** into `sections/10-chapter-10.md`; then advance assembly state to **10 / 23**. English remains blocked.

@@ -14,48 +14,44 @@
 | Second-pass corrections | **5 total / 0 unresolved** |
 | Full Tamil source audit | **PASSED** |
 | Tamil source layer | **PASSED** |
-| Assembled Tamil | **IN PROGRESS — Chapters 1–4 / 23 VERIFIED** |
+| Assembled Tamil | **IN PROGRESS — Chapters 1–9 / 23 VERIFIED** |
 | English translation | **blocked until assembled Tamil passes** |
 
 ## Source-layer closure
 
-The canonical `pages/` layer is complete and remains controlling. Source-specific printed-page exceptions, historical glyph decisions, page-boundary continuities, printer/signature marks and non-body material decisions remain preserved. No source-layer gate was reopened during Chapter 4 assembly.
+The canonical `pages/` layer is complete and remains controlling. Source-specific printed-page exceptions, historical glyph decisions, page-boundary continuities, printer/signature marks and non-body material decisions remain preserved. No source-layer gate was reopened during assembled-layer work.
 
 ## Assembled Tamil audit ledger
 
-### Chapter 1
+- Chapter 1 — **VERIFIED**, scans 4–12.
+- Chapter 2 — **VERIFIED**, scans 13–22.
+- Chapter 3 — **VERIFIED**, scan 23 through scan 33 before centered `4`.
+- Chapter 4 — **VERIFIED**, scan 33 after centered `4` through scan 45 before centered `5`.
 
-**VERIFIED — scans 4–12.** Canonical pages unchanged.
+### User-authorized Chapters 5–9 batch
 
-### Chapter 2
+The user explicitly instructed: **assemble 5 chapters**. Therefore the normal one-chapter iteration rule was overridden for this contiguous batch only. Each chapter was still derived and checked independently against the audited canonical page records before being marked VERIFIED.
 
-**VERIFIED — scans 13–22.** Canonical pages unchanged.
+- Chapter 5 — **VERIFIED**, scan 45 after centered `5` through scan 51.
+- Chapter 6 — **VERIFIED**, scan 52 through scan 59 before centered `7`.
+- Chapter 7 — **VERIFIED**, scan 59 after centered `7` through scan 68 before centered `8`.
+- Chapter 8 — **VERIFIED**, scan 68 after centered `8` through scan 75 before centered `9`.
+- Chapter 9 — **VERIFIED**, scan 75 after centered `9` through scan 85 before centered `10`.
 
-### Chapter 3
+Mixed physical scans 59, 68, 75 and 85 were split exactly at centered source headings. Chapter 6 begins at centered `6` on scan 52. No canonical `pages/` file changed.
 
-**VERIFIED — scan 23 through scan 33 before centered `4`.** Scan 33 split at the source heading. Canonical pages unchanged.
+Representative verified continuities retained reversibly in the assembled sections include:
 
-### Chapter 4
+- Chapter 5: `விரும்ப` + `மாட்டார்கள்`; `கேலியும்` → `கிண்டலும் செய்தான்`; `தாயாரின் கையைப்` → `பிடித்து`;
+- Chapter 6: `அனுப்பப்பட்டிருக்க` + `கிறார்கள்`; `பிறந்` + `திருக்கிற`; `கண்டிப்பான` → `முடிவெடுத்தது.`;
+- Chapter 7: `அய்யோ, நம்மால் ஒருத்தியின் வாழ்க்கை` → `கெட்டுவிடுமே`; `அதை ஆனந்தியின் உதட்டருகே` → `கொண்டுபோனான்`; `அவளது அற்புத விழிகள்` → `அசைந்துகொண்டிருக்கின்றனவே!`;
+- Chapter 8: `எதிர்` + `பார்த்து`; `ஏங்கியிருப்` + `பதாகவும்`; `வரவேண்டுமா` → `என்ன?`; `அங்கே` → `சிந்தாமணி காணப்படவில்லை.`;
+- Chapter 9: `இழுத்துச் சென்று` → `வீட்டிலேபோட்டுப்`; `உண்மை` + `களாக`; `உணர்ந்திருந்` + `தாள்.`; `அதோடு,` → `டைகர் தன் வீட்டு...`.
 
-**VERIFIED — scan 33 after centered `4` through scan 45 before centered `5`.**
-
-Assembly was derived only from the audited canonical page records. Reversible source provenance was retained. Verified boundary continuities represented in the assembled section include:
-
-- 33→34 `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே` → `போவதாக இருக்கிறாள்.`;
-- 37→38 `அழகப்பன்,` → `நயினா, தாயார்...`;
-- 38→39 `காரில்` → `போய்க்கொண்டிருந்தார்களாம்.`;
-- 39→40 `சாலையின் குறுக்கே` → `கிடந்தவனும்...`;
-- 40→41 `அடித்து மோதிக்` → `கொண்டு அழுதாள்.`;
-- 41→42 `தன்னைத்தானே` → `அறிமுகப்படுத்திக்கொண்டு...`;
-- 42→43 `ஏற்` + `பட்டுவிட்டது`;
-- 44→45 literal canonical fragments `நர்சு அவர்` + `களச்...` retained without silent repair.
-
-The scan-35 opening quotation before narrative `நயினாவின் கேலி அதிகமாயிற்று!` is retained because the canonical source record explicitly preserves that source punctuation oddity.
-
-Scan 45 was split at centered `5`. Chapter 4 contains only its pre-heading text. Post-heading text is reserved for Chapter 5. No canonical Tamil page text changed during assembly.
+Durable source exceptions remain respected: scan 66 visibly prints only `5`; scan 82 bottom standalone `6` is a printer/signature mark and is excluded from reading prose. Source-specific punctuation, spelling, spacing and colloquial forms remain as the canonical records support them.
 
 ## Assembled-layer status
 
-**IN PROGRESS — 4 / 23 chapters VERIFIED.**
+**IN PROGRESS — 9 / 23 chapters VERIFIED.**
 
-Exact next activity: assemble **Chapter 5 only**, from **scan 45 after centered `5` through scan 51**, into `sections/05-chapter-05.md`, then synchronize the coordinated state files to 5/23. English remains blocked.
+Exact next activity: assemble **Chapter 10**, from **scan 85 after centered `10` through scan 92 before centered `11`**, into `sections/10-chapter-10.md`. English remains blocked.

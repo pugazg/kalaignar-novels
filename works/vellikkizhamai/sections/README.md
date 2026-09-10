@@ -12,12 +12,12 @@ The source has **23 chapters**. Mixed boundary scans are split at the source-pri
 | `02-chapter-02.md` | scans 13–22 | 2 | **VERIFIED** |
 | `03-chapter-03.md` | scan 23 → scan 33 before centered `4` | 3 | **VERIFIED** |
 | `04-chapter-04.md` | scan 33 after centered `4` → scan 45 before centered `5` | 4 | **VERIFIED** |
-| `05-chapter-05.md` | scan 45 after centered `5` → scan 51 | 5 | next |
-| `06-chapter-06.md` | scan 52 → scan 59 before centered `7` | 6 | pending |
-| `07-chapter-07.md` | scan 59 after centered `7` → scan 68 before centered `8` | 7 | pending |
-| `08-chapter-08.md` | scan 68 after centered `8` → scan 75 before centered `9` | 8 | pending |
-| `09-chapter-09.md` | scan 75 after centered `9` → scan 85 before centered `10` | 9 | pending |
-| `10-chapter-10.md` | scan 85 after centered `10` → scan 92 before centered `11` | 10 | pending |
+| `05-chapter-05.md` | scan 45 after centered `5` → scan 51 | 5 | **VERIFIED** |
+| `06-chapter-06.md` | scan 52 → scan 59 before centered `7` | 6 | **VERIFIED** |
+| `07-chapter-07.md` | scan 59 after centered `7` → scan 68 before centered `8` | 7 | **VERIFIED** |
+| `08-chapter-08.md` | scan 68 after centered `8` → scan 75 before centered `9` | 8 | **VERIFIED** |
+| `09-chapter-09.md` | scan 75 after centered `9` → scan 85 before centered `10` | 9 | **VERIFIED** |
+| `10-chapter-10.md` | scan 85 after centered `10` → scan 92 before centered `11` | 10 | next |
 | `11-chapter-11.md` | scan 92 after centered `11` → scan 99 before centered `12` | 11 | pending |
 | `12-chapter-12.md` | scan 99 after centered `12` → scan 107 before centered `13` | 12 | pending |
 | `13-chapter-13.md` | scan 107 after centered `13` → scan 115 before centered `14` | 13 | pending |
@@ -40,28 +40,27 @@ The source has **23 chapters**. Mixed boundary scans are split at the source-pri
 4. Keep reversible source provenance with HTML comments.
 5. Join only already-verified page-boundary continuities.
 6. Never change canonical page files merely to smooth assembled prose.
-7. Assemble and verify one source chapter per iteration / commit.
+7. Default workflow is one source chapter per iteration / commit; a larger contiguous batch may be assembled only when the user explicitly authorizes it. The Chapters 5–9 batch is such an explicit exception.
 8. Do not mark the layer `PASSED` until all 23 chapters and the final coverage / boundary / continuity / authority audit pass.
 
-## Chapter 4 verification
+## Chapters 5–9 batch verification
 
-`04-chapter-04.md` is **VERIFIED** from the post-`4` portion of scan 33 through the pre-`5` portion of scan 45.
+At the user's explicit direction, Chapters **5, 6, 7, 8 and 9** were assembled and verified together from audited canonical records. No canonical `pages/` file changed.
 
-Verified boundary continuities retained with reversible provenance include:
+Mixed chapter boundaries were split at centered source headings on scans **59 (`7`)**, **68 (`8`)**, **75 (`9`)** and **85 (`10`)**. Chapter 6 starts cleanly at centered `6` on scan 52. Chapter 5 ends on scan 51.
 
-- scan 33 `பெண்வீடு பார்ப்பதற்குத் தாயார் மட்டுமே` → scan 34 `போவதாக இருக்கிறாள்.`;
-- scan 37 `அழகப்பன்,` → scan 38 `நயினா, தாயார்...`;
-- scan 38 `காரில்` → scan 39 `போய்க்கொண்டிருந்தார்களாம்.`;
-- scan 39 `சாலையின் குறுக்கே` → scan 40 `கிடந்தவனும்...`;
-- scan 40 `அடித்து மோதிக்` → scan 41 `கொண்டு அழுதாள்.`;
-- scan 41 `தன்னைத்தானே` → scan 42 `அறிமுகப்படுத்திக்கொண்டு...`;
-- scan 42 `ஏற்` + scan 43 `பட்டுவிட்டது`;
-- scan 44 `நர்சு அவர்` + scan 45 `களச்...` is retained literally from the canonical page records without silent repair.
+Representative verified joins retained reversibly include:
 
-Scan 45 was split at centered source heading `5`; all post-heading Chapter 5 prose is reserved for `05-chapter-05.md`. The source punctuation oddity on scan 35 (opening quote before narrative `நயினாவின் கேலி...`) is preserved exactly. No canonical page text changed during Chapter 4 assembly.
+- Chapter 5: scan 46→47 `நயினா மெளனமாக` → `நின்றான்.`; scan 47→48 `விரும்ப` + `மாட்டார்கள்`; scan 49→50 `கேலியும்` → `கிண்டலும் செய்தான்`; scan 50→51 `தாயாரின் கையைப்` → `பிடித்து`;
+- Chapter 6: scan 52→53 `ஆபத்து வந்திருக்கலாம்` → `என்றும்`; scan 53→54 `அனுப்பப்பட்டிருக்க` + `கிறார்கள்`; scan 54→55 `பிறந்` + `திருக்கிற`; scan 56→57 `கண்டிப்பான` → `முடிவெடுத்தது.`;
+- Chapter 7: scan 63→64 `அய்யோ, நம்மால் ஒருத்தியின் வாழ்க்கை` → `கெட்டுவிடுமே`; scan 65→66 `அதை ஆனந்தியின் உதட்டருகே` → `கொண்டுபோனான்`; scan 66→67 `அவளது அற்புத விழிகள்` → `அசைந்துகொண்டிருக்கின்றனவே!`;
+- Chapter 8: scan 68→69 `எதிர்` + `பார்த்து`; scan 69→70 `ஏங்கியிருப்` + `பதாகவும்`; scan 73→74 `வரவேண்டுமா` → `என்ன?`; scan 74→75 `அங்கே` → `சிந்தாமணி காணப்படவில்லை.`;
+- Chapter 9: scan 75→76 `இழுத்துச் சென்று` → `வீட்டிலேபோட்டுப்`; scan 77→78 `உண்மை` + `களாக`; scan 78→79 `உணர்ந்திருந்` + `தாள்.`; scan 80→81 `வந்த` → `கஷ்டத்தைப்`; scan 84→85 `அதோடு,` → `டைகர் தன் வீட்டு...`.
+
+Scan 66's visible printed page number remains only `5`. Scan 82's bottom standalone `6` is excluded as a printer/signature mark. Source-specific punctuation, spacing, colloquial forms and canonical corrections remain unchanged.
 
 ## Current status
 
-**Assembly: IN PROGRESS — 4 / 23 chapters VERIFIED.**
+**Assembly: IN PROGRESS — 9 / 23 chapters VERIFIED.**
 
-Next: **Chapter 5 — scan 45 after centered `5` through scan 51**. English remains blocked until the complete assembled Tamil layer passes its final consistency gate.
+Next: **Chapter 10 — scan 85 after centered `10` through scan 92 before centered `11`**. English remains blocked until the complete assembled Tamil layer passes its final consistency gate.

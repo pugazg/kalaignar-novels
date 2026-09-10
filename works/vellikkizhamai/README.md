@@ -19,7 +19,7 @@
 - second-pass corrections: **5 total / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **IN PROGRESS — Chapters 1–4 / 23 VERIFIED**;
+- assembled Tamil: **IN PROGRESS — Chapters 1–9 / 23 VERIFIED**;
 - English: **blocked until assembled Tamil passes its final consistency gate**.
 
 ## Canonical authority
@@ -34,11 +34,16 @@
 | 2 | scans 13–22 | **VERIFIED** |
 | 3 | scan 23 → scan 33 before centered `4` | **VERIFIED** |
 | 4 | scan 33 after centered `4` → scan 45 before centered `5` | **VERIFIED** |
-| 5 | scan 45 after centered `5` → scan 51 | **NEXT** |
-| 6–23 | remaining source chapters | pending |
+| 5 | scan 45 after centered `5` → scan 51 | **VERIFIED** |
+| 6 | scan 52 → scan 59 before centered `7` | **VERIFIED** |
+| 7 | scan 59 after centered `7` → scan 68 before centered `8` | **VERIFIED** |
+| 8 | scan 68 after centered `8` → scan 75 before centered `9` | **VERIFIED** |
+| 9 | scan 75 after centered `9` → scan 85 before centered `10` | **VERIFIED** |
+| 10 | scan 85 after centered `10` → scan 92 before centered `11` | **NEXT** |
+| 11–23 | remaining source chapters | pending |
 
-Chapter 4 assembly preserves the mixed boundaries at scans 33 and 45, verified page joins, and the scan-35 source punctuation oddity. The literal canonical scan-44/45 fragments `நர்சு அவர்` + `களச்...` are retained without grammar-driven repair. No canonical page record changed during Chapter 4 assembly.
+Chapters 5–9 were assembled together only because the user explicitly authorized a five-chapter batch. Mixed scans 59, 68, 75 and 85 were split at their source headings; scan 66's visible printed number remains `5`, and scan 82's bottom `6` remains excluded as a printer/signature mark. No canonical page record changed during this assembly batch.
 
 ## Exact next activity
 
-Assemble and verify **Chapter 5 only** into `sections/05-chapter-05.md`, covering **scan 45 after centered `5` through scan 51**. Do not begin Chapter 6 or English in the same iteration.
+Assemble and verify **Chapter 10** into `sections/10-chapter-10.md`, covering **scan 85 after centered `10` through scan 92 before centered `11`**. English remains blocked.

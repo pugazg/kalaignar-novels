@@ -1,4 +1,4 @@
-# Next Chat Prompt — வெள்ளிக்கிழமை / assembled Tamil Chapter 5
+# Next Chat Prompt — வெள்ளிக்கிழமை / assembled Tamil Chapter 10
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/vellikkizhamai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -15,20 +15,22 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - second-pass corrections: **5 total / 0 unresolved**;
 - full Tamil source audit: **PASSED**;
 - Tamil source layer: **PASSED**;
-- assembled Tamil: **IN PROGRESS — Chapters 1–4 / 23 VERIFIED**;
-- assembled source coverage reaches **scan 45 before centered `5`**;
+- assembled Tamil: **IN PROGRESS — Chapters 1–9 / 23 VERIFIED**;
+- assembled source coverage reaches **scan 85 before centered `10`**;
 - English: **blocked until assembled Tamil passes its final consistency gate**.
 
 Do not reopen completed source/glyph work without genuinely new direct-source evidence.
 
 ## Completed assembly
 
-- `sections/01-chapter-01.md` — scans 4–12 — VERIFIED;
-- `sections/02-chapter-02.md` — scans 13–22 — VERIFIED;
-- `sections/03-chapter-03.md` — scan 23 through scan 33 before centered `4` — VERIFIED;
-- `sections/04-chapter-04.md` — scan 33 after centered `4` through scan 45 before centered `5` — VERIFIED.
+- Chapters 1–4: previously VERIFIED in `sections/01` through `sections/04`;
+- `sections/05-chapter-05.md` — scan 45 after centered `5` through scan 51 — VERIFIED;
+- `sections/06-chapter-06.md` — scan 52 through scan 59 before centered `7` — VERIFIED;
+- `sections/07-chapter-07.md` — scan 59 after centered `7` through scan 68 before centered `8` — VERIFIED;
+- `sections/08-chapter-08.md` — scan 68 after centered `8` through scan 75 before centered `9` — VERIFIED;
+- `sections/09-chapter-09.md` — scan 75 after centered `9` through scan 85 before centered `10` — VERIFIED.
 
-Chapter 4 preserves canonical source oddities and verified joins. Scan 45 is split at centered `5`; only pre-heading text is in Chapter 4. No canonical page record changed during assembly.
+The user explicitly authorized Chapters 5–9 as one five-chapter assembly batch. No canonical `pages/` file changed. Mixed scans 59, 68, 75 and 85 were split at centered headings. Scan 66's visible printed page remains `5`; scan 82 bottom `6` remains a non-body printer/signature mark.
 
 ## Assembly rules
 
@@ -39,15 +41,15 @@ Chapter 4 preserves canonical source oddities and verified joins. Scan 45 is spl
 5. Join only already-verified page-boundary continuities; never repair grammar by inference.
 6. Split mixed boundary scans at the source-printed centered chapter heading.
 7. Canonical `pages/` remain controlling authority and must not be edited merely for reading-flow smoothness.
-8. One source chapter per iteration / commit.
+8. Default workflow is one chapter per iteration / commit; process multiple chapters only when the user explicitly authorizes a larger batch.
 9. English remains blocked until all 23 assembled chapters and the final consistency gate pass.
 
 ## Exact next activity
 
-Create and verify **Chapter 5 only**:
+Create and verify **Chapter 10**:
 
-`works/vellikkizhamai/sections/05-chapter-05.md`
+`works/vellikkizhamai/sections/10-chapter-10.md`
 
-Coverage: **scan 45 after centered `5` through scan 51**.
+Coverage: **scan 85 after centered `10` through scan 92 before centered `11`**.
 
-Then synchronize `sections/README.md`, work `README.md`, `audit.md`, `HANDOVER.md`, this prompt and `indexes/page-map.md` to **5 / 23**. Do not begin Chapter 6 or English in the same iteration.
+Then synchronize `sections/README.md`, work `README.md`, `audit.md`, `HANDOVER.md`, this prompt and `indexes/page-map.md` to **10 / 23**. Do not start English.
