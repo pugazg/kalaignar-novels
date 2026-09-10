@@ -1,190 +1,107 @@
 # English Translation Glossary / Consistency Ledger — வெள்ளிக்கிழமை
 
-This file records recurring English decisions for _Friday_. It is a controlled translation ledger, not a dictionary and not authority over Tamil.
+This is the controlled consistency ledger for _Friday_. It never overrides canonical Tamil.
 
 ## Current state
 
-**Batches 1–2 / Chapters 1–4 — REVIEWED.**  
-Decisions below are locked unless later source context supplies a documented reason to change them.
+**Batches 1–3 / Chapters 1–11 — REVIEWED.** Decisions below are locked unless later source context gives a documented reason to change them.
 
-## Working title / thematic day-name
+## Core names / places
 
-| Tamil | English | Status / note |
+| Tamil | English | Policy |
 |---|---|---|
-| `வெள்ளிக்கிழமை` | **Friday** | **LOCKED** — working English title and normal day-name rendering; Tamil title remains archival authority |
-
-When the source repeats `வெள்ளிக்கிழமை`, the English normally repeats **Friday** rather than stylistically varying it.
-
-## Names and places
-
-| Tamil source form | English form | Status / policy |
-|---|---|---|
-| `சிந்தாமணி` | **Chintamani** | **LOCKED** |
-| `கிளி` | **Kili** | **LOCKED** — source name; do not translate to “Parrot” |
-| `ஆண்டாள்` | **Andal** | **LOCKED** |
-| `ராதா` | **Radha** | **LOCKED** |
-| `ராஜா தேசிங்கு` | **Raja Desingu** | **LOCKED** — source-facing form |
-| `வேதபுரம்` | **Vedapuram** | **LOCKED** |
-| `அழகப்பன்` | **Azhagappan** | **LOCKED in Chapter 2** — full form |
-| `அழகு` | **Azhagu** | **LOCKED in Chapter 4** — preserve shortened/familiar source form |
-| `நயினா முகம்மது` | **Naina Muhammad** | **LOCKED in Chapter 4** |
-| `நயினா` | **Naina** | **LOCKED** — preserve shortened source form |
-| `ஆனந்தி` | **Anandi** | **LOCKED in Chapters 2–3** |
-| `சிவகாமி` | **Sivakami** | **LOCKED in Chapter 2** |
-| `சிவநேசர்` | **Sivanesar** | **LOCKED in Chapter 2** |
-| `டைகர்` | **Tiger** | **LOCKED** — source-derived English name |
-| `வேம்பு` | **Vembu** | **LOCKED in Chapter 2**; retain as personal name, with neem/sugarcane wordplay documented below |
-| `பாலகங்காதரத் தேவர்` | **Balagangadhara Thevar** | **LOCKED in Chapter 3** — no external historical identity added |
-| `சுசீலா` | **Susheela** | **LOCKED in Chapter 2** |
-| `சரோ` | **Saro** | **LOCKED in Chapter 2** |
-| `காந்தா` | **Kanta** | **LOCKED in Chapter 2** |
-| `ஜெயா` | **Jaya** | **LOCKED in Chapter 2** |
-| `பெங்களூர்` | **Bangalore** | **LOCKED** — period-appropriate established English form |
-| `பாலையூர்` | **Palaiyur** | seed for later chapters |
-| `இடும்பன்` | **Idumban** | seed for later chapters |
+| `வெள்ளிக்கிழமை` | **Friday** | working title/day-name; preserve deliberate repetition |
+| `சிந்தாமணி` | **Chintamani** | locked |
+| `அழகப்பன்` / `அழகு` | **Azhagappan / Azhagu** | preserve full/short distinction |
+| `நயினா முகம்மது` / `நயினா` | **Naina Muhammad / Naina** | preserve full/short distinction |
+| `ஆனந்தி` | **Anandi** | locked |
+| `சிவநேசர்` | **Sivanesar** | locked |
+| `சிவகாமி` | **Sivakami** | locked |
+| `டைகர்` | **Tiger** | source-derived English name |
+| `ராமகிருஷ்ணன்` / vocative `ராமகிருஷ்ணு` | **Ramakrishnan / Ramakrishnu** | retain source vocative distinction in dialogue |
+| `வேம்பு` | **Vembu** | retain personal name; preserve neem/sugarcane wordplay without prose explanation |
+| `பாலகங்காதரத் தேவர்` | **Balagangadhara Thevar** | no external historical identification |
+| `வேதபுரம்` | **Vedapuram** | locked |
+| `பாலையூர்` | **Palaiyur** | **LOCKED in Chapters 6–11** |
+| `பெங்களூர்` | **Bangalore** | period-appropriate established English form |
+| `கிளி`, `ஆண்டாள்`, `ராதா`, `சுசீலா`, `சரோ`, `காந்தா`, `ஜெயா` | **Kili, Andal, Radha, Susheela, Saro, Kanta, Jaya** | locked source-facing forms |
 
 ## Literary / mythological names and works
 
-| Tamil | English handling | Status / policy |
+Use conservative source-facing forms: **Bharata, Arjuna, Dharman/Dharma, Parvati, Paramasiva, Alli, Pavalakkodi, Subhadra, Maharaja Shivaji, Bilvamangala, Kamba Ramayanam, Ramayana, Manimekalai, Kannagi Devi, Kunti Devi, Pandu Maharaja, Rama, Sita, Ravana, Hanuman, Sugriva, Valmiki, Visvamitra, Tataka, Ahalya, Karaikkal Ammaiyar, Iyarppagai Nayanar, Siruthondar, Darukavana, Dandakaranya, Kailasa**. These are source-text renderings, not external identifications or annotations.
+
+## Religious / cultural / period terms
+
+| Tamil/source term | English handling | Policy |
 |---|---|---|
-| `பாரதம்` | **Bharata** | **LOCKED in Chapter 2** — source-facing shorthand for the epic; do not import external commentary |
-| `அர்ச்சுனன்` | **Arjuna** | **LOCKED** |
-| `தருமன்` | **Dharman / Dharma** according to syntax | **LOCKED for Chapter 2** |
-| `பார்வதி` | **Parvati** | **LOCKED** |
-| `பரமசிவன்` | **Paramasiva** | **LOCKED** |
-| `அல்லி` | **Alli** | **LOCKED** |
-| `பவளக்கொடி` | **Pavalakkodi** | **LOCKED** |
-| `சுபத்திரை` | **Subhadra** | **LOCKED** |
-| `சிவாஜி மகாராஜா` | **Maharaja Shivaji** | **LOCKED** |
-| `பில்வமங்களா` | **Bilvamangala** | **LOCKED in Chapter 2** |
-| `கம்பராமாயணம்` | **Kamba Ramayanam** | **LOCKED** |
+| `கோலம்` | **kolam** | retained cultural term |
+| `மாங்கல்யம்` | **mangalyam** | retained |
+| `குங்குமம்` | **kumkum** | retained |
+| `குத்துவிளக்கு` | **kuthuvilakku** | **LOCKED in Chapter 9** |
+| `திருப்பாவை` | **Tiruppavai** | translate only lines printed in this edition |
+| `யாழ்` | **yaazh** | retained |
+| `குடுகுடுப்பை` | **kuduguduppai** | retained |
+| `பாலாடை` | **paladai feeding cup** | minimal functional gloss |
+| `கெண்டி` | **kendi** | retained |
+| `கோஷா` | **gosha** | retained |
+| `பஞ்சாங்கம்` | **panchangam** | retained |
+| `தோஷம்` | **dosha** | retained |
+| `சாஸ்திரம்` | **sastras** | retained in source-era context |
+| `லேடி டாக்டர்` | **Lady Doctor** | retain period usage where natural |
+| `ஹார்லிக்ஸ்` | **Horlicks** | **LOCKED in Chapters 7–8** |
+| `ஹை ஜம்ப்` | **“high jump”** | retain source-era English loanword |
+| `மைனர்` | **“minor”** | source-era status term; do not reconstruct a legal title |
+| `புத்த பிக்ஷுணி` | **Buddhist bhikkhuni** | locked in Chapter 9 |
+| `ரசம்` | ***rasa*** | retain where Chapter 11 discusses aesthetic delight |
 
-These are translations/transliterations of names appearing in the source, not independent historical or textual identifications.
+## Chastity / assault / stigma language
 
-## Chapter 1 religious / cultural vocabulary
+Translate historical/source rhetoric without endorsement, euphemism, intensification or modern editorial commentary.
 
-| Tamil | English handling | Status / policy |
-|---|---|---|
-| `கிறிஸ்தவ மதம்` | **Christian religion** | **LOCKED** |
-| `எசுநாதர்` | **Jesus** | **LOCKED** — no doctrinal expansion |
-| `சர்ச்சு` | **church** | **LOCKED** |
-| `கோலம்` | **kolam** | **LOCKED** |
-| `மாங்கல்யம்` | **mangalyam** | **LOCKED** |
-| `மஞ்சள்` | **turmeric** | **LOCKED** |
-| `குங்குமம்` | **kumkum** | **LOCKED** |
-| `குலதெய்வம்` | **household deity** | **LOCKED for Chapter 1 context** |
-| `பாகவதர்` | **Bhagavathar** | **LOCKED** |
-| `சோமவாரம்` | **Somavaram** | **LOCKED** |
-| `சோமவார விரதம்` | **Somavara fast** | **LOCKED** |
-| `திருப்பாவை` | **Tiruppavai** | **LOCKED** — translate only lines printed in this edition |
-| `பெரியாழ்வார்` | **Periyalvar** | **LOCKED** |
-| `பெருமாள்` | **Perumal** | **LOCKED** |
-| `நப்பின்னை` | **Nappinnai** | **LOCKED** |
-| `திருக்குளம்` | **sacred pond** | **LOCKED for Chapter 1 context** |
+- `கற்பு` → **chastity** where that historical concept is explicitly invoked.
+- `கற்புக்கரசி` → **queen of chastity**.
+- forced sexual violation language remains explicit but source-bounded.
+- `பாப விமோசனம்` → **absolution from sin**; `பிராயச்சித்தம்` → **atonement**.
+- Chapter 10's source insults `வேசி` / `விபசாரி` are rendered **prostitute / whore** in the order used there; this records character abuse, not editorial terminology.
+- Chapter 10's lawyer/needle passage is preserved as source rhetoric and must not be rewritten as a modern legal or medical proposition.
 
-### Tiruppavai quotation rule
+## Batch 3 locks / special handling
 
-The English verses are fresh renderings of the exact lines printed in this edition. Do not substitute an external/canonical English translation or silently repair the Tamil from outside witnesses.
+- Scan 66 visibly prints only **`5`**; never infer printed page 65 in English provenance.
+- `நிறுத்துங்கள்!` recurring after Anandi's accident → **“Stop!”**, preserving repetition.
+- `தங்கமானவள்` in Tiger/Azhagappan wordplay → **pure gold / gold** according to immediate syntax; preserve the later fire/gold reinterpretation.
+- `கண்ணால் கண்டதும் பொய், காதால் கேட்டதும் பொய், தீர விசாரிப்பதே மெய்` → preserve as the source proverb about eye/ear evidence and thorough inquiry.
+- Religious satire/polemic in Chapters 7–11 remains source voice; do not add explanatory theology.
+- Sivanesar's manic songs and mythological strings in Chapters 9 and 11 remain visibly distinct blocks/utterances; do not rationalize their logic.
+- `கைத்துப்பாக்கி` → **pistol / handgun** by immediate sentence context.
 
-## Batch 2 social / religious / period vocabulary
+## Earlier locked decisions retained
 
-| Tamil | English handling | Status / policy |
-|---|---|---|
-| `பாலாடை` | **paladai feeding cup** | **LOCKED in Chapter 2** — retain object name plus minimal functional gloss |
-| `கெண்டி` | **kendi** | **LOCKED in Chapter 2** |
-| `வைதீகம் / வைதீகப் பழங்கள்` | **orthodox / orthodox old-timers** | **LOCKED for Chapter 2 comic context** |
-| `மண்டுகம்` | **frog** | source insult; translate meaning rather than inventing a name |
-| `லேடி டாக்டர்` | **Lady Doctor** in character/narrative period usage | **LOCKED**; ordinary references may use “doctor” where English grammar requires |
-| `மைனர்` | **“minor”** | **LOCKED as a source-era social/status term**; do not silently replace with a reconstructed legal title |
-| `இடிமுழக்கம்` | ***Idimuzhakkam*** | **LOCKED** as printed newspaper title; no external identification |
-| `கோஷா` | **gosha** | **LOCKED in Chapter 4** — source term for gender seclusion/purdah context |
-| `சனாதன இந்து` | **Sanatana Hindu** | **LOCKED** — preserve source religious phrasing |
-| `பஞ்சாங்கம்` | **panchangam** | **LOCKED** |
-| `ஜோசியர்` | **astrologer** | **LOCKED** |
-| `கிரகபலன்` | **planetary indications / planetary results** | **LOCKED by sentence context** |
-| `தோஷம்` | **dosha** | **LOCKED**; retain source term in ritual/astrological context |
-| `சாஸ்திரம்` | **sastras** | **LOCKED in Chapter 4** |
-| `நாஸ்திகர்` | **atheists** | **LOCKED** |
-| `சிவ சிவா` | **“Siva! Siva!”** | **LOCKED** as exclamation |
-| `பிரசவக் களைப்பு` | **exhausted from childbirth / childbirth exhaustion** | **LOCKED to immediate context** |
+**Raja Desingu, Bhagavathar, Somavaram, Somavara fast, Periyalvar, Perumal, Nappinnai, Christian religion, Jesus, church, household deity, mullai, copper pot, Sanatana Hindu, astrologer, planetary indications/results, atheists, Idimuzhakkam, paladai, kendi, gosha, panchangam, dosha, sastras.**
 
-## Batch 2 chastity / assault / stigma vocabulary
+Chapter 1 weekday jokes remain literal rather than replaced by unrelated English proverbs. Embedded Tiruppavai verse remains a fresh rendering of only the lines printed in this edition.
 
-Chapter 3 contains sexual assault and historically loaded chastity language. Translation preserves the source's rhetoric without endorsing, softening or intensifying it.
+## Style lock through Chapter 11
 
-| Tamil | English handling | Policy |
-|---|---|---|
-| `கற்பு` | **chastity** | **LOCKED for Chapter 3 historical rhetoric** |
-| `கற்பைப் பாழ்படுத்திய` | **violated your chastity** | **LOCKED for Tiger's accusation** |
-| `பலாத்காரமாகக் கற்பழிக்கப்படுவது` | **chastity taken by force** / contextually explicit forced violation | preserve source force; do not add legal terminology absent from source |
-| `பாப விமோசனம்` | **absolution from sin** | **LOCKED** |
-| `பிராயச்சித்தம்` | **atonement** | **LOCKED** |
-| `பகவதியின் பலிபீடம்` | **the sacrificial altar of a goddess** | **LOCKED as source metaphor** |
+1. no summarizing or source-like additions;
+2. readable but source-bound English;
+3. preserve agency, rhetorical questions, repetitions, abrupt turns, humour, melodrama and insults;
+4. preserve paragraph/dialogue units except minimal English syntactic adjustment;
+5. standard double quotation marks for speech and single quotation marks within speech;
+6. keep HTML source comments and reversible joins;
+7. keep mixed chapter-boundary scans split only at centered source headings;
+8. do not add theology, caste history, folklore interpretation, sexual-morality commentary or contemporary social commentary inside prose;
+9. preserve source strangeness rather than grammar-repairing it;
+10. canonical Tamil remains controlling.
 
-The narration's statements about shame, chastity and women are translated as historical/source rhetoric, not modern editorial claims.
+## Whole-work source-discontinuity ledger
 
-## Batch 2 metaphor / wordplay notes
-
-- `வேம்பு` is retained as **Vembu**. In Chapter 3 the line `வேம்பு மூலம் கிடைத்த கரும்பு` plays on *vembu* (neem) versus *karumbu* (sugarcane). English keeps **“sugarcane obtained through Vembu”** without inserting an explanatory aside into prose.
-- `முள்வேலி ... முல்லைக் கொல்லை` is rendered as **thorn fence / jasmine field**, preserving the protective metaphor without modern explanation.
-- `மானுக்கு புலி—காவல்` is preserved as the deliberate paradox of **a tiger guarding a deer**.
-- Chapter 4's ear-piercing exchange is a wordplay sequence. English keeps the literal ear-piercing dialogue and does not replace it with an unrelated English pun.
-- `குல்லாய்` is rendered **cap** in the extended marriage metaphor; `கிரீடம்` remains **crown**.
-
-## Chapter 1 sound / period / image vocabulary
-
-| Tamil | English handling | Status / policy |
-|---|---|---|
-| `யாழ்` | **yaazh** | **LOCKED** |
-| `தாதன்` in the dawn scene | **conch-blower** | **LOCKED for this context** |
-| `தெள்! தெள்!! தெள்!!!` | ***Thel! Thel!! Thel!!!*** | **LOCKED** |
-| `குடுகுடுப்பைக்காரன்` | **kuduguduppai man** | **LOCKED** |
-| `குடுகுடுப்பை` | **kuduguduppai** | **LOCKED** |
-| `அய் யோ / அய்யோ` | **Aiyyo / Ayyo** | retain exclamatory force; spelling may follow immediate dialogue consistency |
-| `முல்லை` | **mullai** | **LOCKED in source imagery** |
-| `செப்புக்குடம்` | **copper pot** | **LOCKED** |
-
-## Weekday wordplay policy
-
-Chapter 1 deliberately jokes about weekday names and sayings. Preserve the joke rather than replacing it with an unrelated English proverb.
-
-- `செவ்வாயோ வெறுவாயோ` → **“Tuesday—or an empty mouth!”**;
-- `பொன் அகப்பட்டாலும் புதன் அகப்படாது` → **“You may get hold of gold, but never of Wednesday.”**
-
-## Style lock after Batches 1–2
-
-1. readable but source-bound English; no summarizing;
-2. preserve rhetorical questions, repeated exclamations, abrupt turns, humour and melodramatic force;
-3. preserve first-person interior monologue / third-person narration transitions;
-4. standard English double quotation marks for speech and single quotation marks for quotations within speech;
-5. preserve paragraph units unless English syntax requires only a minimal adjustment;
-6. source joins remain reversible with HTML comments;
-7. source page markers remain at meaningful scan boundaries;
-8. do not add explanatory theology, caste history, folklore interpretation, sexual-morality commentary or modern social commentary inside translated prose;
-9. preserve insults, religious/caste/social rhetoric and sexual-stigma language at source force—neither euphemize nor intensify;
-10. when source metaphor or period vocabulary is odd but intelligible, preserve the oddity and document it here rather than normalizing it away.
-
-## Continuing seed policy
-
-| Tamil | Default handling | Policy |
-|---|---|---|
-| `முஸ்லீம்` | **Muslim** | stable identity term |
-| `சாதி` | **caste** | adjust grammar, not social force |
-| `மதம்` | **religion / faith** | choose by sentence context |
-| `ராமாயணம்` | **Ramayana** | stable title |
-| `மணிமேகலை` | **Manimekalai** | stable title |
-| `விபச்சாரி` / `வேசி` / `வைப்பாட்டி` | context-sensitive | do not euphemize or intensify; lock only after reviewed context |
-
-## Source-discontinuity ledger
-
-These are not translation problems to be silently solved:
+Never silently repair:
 
 - scan 117→118: `உட்` → `எவ்வளவோ முயன்றும் நடக்கவில்லை.`;
 - scan 122→123: `...அவளுக்குப் பக்கத்திலே` → `கார்ந்து கொண்டாள்.`;
 - scan 156→157: `தலையிலும் காயம்` → `நயினா எதிர்த்தே அடிக்கவில்லை.`.
 
-English must preserve supported meaning/abruptness and provenance without inventing missing Tamil.
-
 ## Change rule
 
-When a later chapter requires a different recurring decision, record the old choice, new choice, source evidence/chapter range, reason, and files requiring synchronized correction. Never change canonical Tamil through this glossary.
+Any later change to a recurring English decision must record the old choice, new choice, source evidence/chapter range, reason, and affected English files. Never alter canonical Tamil through this glossary.

@@ -1,93 +1,45 @@
 # Page Map — வெள்ளிக்கிழமை
 
-Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf`
+Source: `TVA_BOK_0064233_வெள்ளிக்கிழமை.pdf` — 179 scans; canonical mapping **179 / 179 COMPLETE / VERIFIED**.
 
-## Intake / source state
-
-- actual PDF scan count: **179**;
-- mapping coverage: **179 / 179**;
-- canonical page records: **179 / 179 — COMPLETE / VERIFIED**;
-- body transcription: **through final scan 179 / printed 178**;
-- historical-glyph gates: **PASSED / COMPLETE**;
-- full Tamil source audit: **PASSED**;
-- Tamil source layer: **PASSED**;
-- assembled Tamil: **PASSED — Chapters 1–23 / 23 VERIFIED**;
-- final assembled consistency gate: **PASSED — 0 unresolved / 0 canonical changes**;
-- English translation plan: **COMPLETE**;
-- English chapters: **4 / 23 REVIEWED**;
-- English coverage: **scan 4 through scan 45 before centered `5`**.
+Tamil source/glyph audit and 23-chapter assembled Tamil layer: **PASSED**.
 
 ## Printed-page mapping
 
 - scans 1–3 — front matter;
-- scan 4 — Chapter 1 opening, no visible printed body-page number recorded;
+- scan 4 — Chapter 1 opening, no visible printed body-page number;
 - scans 5–8 — printed 4–7;
-- scan 9 — body page with no visible printed number recorded;
+- scan 9 — no visible printed number;
 - scans 10–65 — printed 9–64;
-- scan 66 — source visibly prints only `5`; never infer `65`;
+- scan 66 — source visibly prints only **`5`**; never infer `65`;
 - scans 67–179 — printed 66–178.
 
-## Confirmed chapter boundaries
-
-- scan 4 — Chapter 1;
-- scan 13 — Chapter 2;
-- scan 23 — Chapter 3;
-- scan 33 — Chapter 3→4 boundary, centered `4`;
-- scan 45 — Chapter 4→5 boundary, centered `5`;
-- scan 52 — Chapter 6 opening, centered `6`;
-- scan 59 — Chapter 6→7 boundary, centered `7`;
-- scan 68 — Chapter 7→8 boundary, centered `8`;
-- scan 75 — Chapter 8→9 boundary, centered `9`;
-- scan 85 — Chapter 9→10 boundary, centered `10`;
-- scan 92 — Chapter 10→11 boundary, centered `11`;
-- scan 99 — Chapter 11→12 boundary, centered `12`;
-- scan 107 — Chapter 12→13 boundary, centered `13`;
-- scan 115 — Chapter 13→14 boundary, centered `14`;
-- scan 120 — Chapter 14→15 boundary, centered `15`;
-- scan 127 — Chapter 16 opening, centered `16`;
-- scan 134 — Chapter 16→17 boundary, centered `17`;
-- scan 142 — Chapter 18 opening, centered `18`;
-- scan 149 — Chapter 19 opening, centered `19`;
-- scan 154 — Chapter 19→20 boundary, centered `20`;
-- scan 160 — Chapter 20→21 boundary, centered `21`;
-- scan 166 — Chapter 21→22 boundary, centered `22`;
-- scan 172 — Chapter 22→23 boundary, centered `23`;
-- scan 179 — final Chapter 23 narrative page plus non-body illustration / later handwriting.
-
-## Tamil / English chapter coverage
+## Chapter map / English state
 
 | Chapter | Source coverage | Tamil | English |
 |---:|---|---|---|
-| 1 | scans 4–12 | **VERIFIED** | **REVIEWED** |
-| 2 | scans 13–22 | **VERIFIED** | **REVIEWED** |
-| 3 | scan 23 → scan 33 before centered `4` | **VERIFIED** | **REVIEWED** |
-| 4 | scan 33 after centered `4` → scan 45 before centered `5` | **VERIFIED** | **REVIEWED** |
-| 5 | scan 45 after centered `5` → scan 51 | **VERIFIED** | **NEXT — Batch 3** |
-| 6 | scan 52 → scan 59 before centered `7` | **VERIFIED** | **NEXT — Batch 3** |
-| 7 | scan 59 after centered `7` → scan 68 before centered `8` | **VERIFIED** | **NEXT — Batch 3** |
-| 8 | scan 68 after centered `8` → scan 75 before centered `9` | **VERIFIED** | planned |
-| 9 | scan 75 after centered `9` → scan 85 before centered `10` | **VERIFIED** | planned |
-| 10 | scan 85 after centered `10` → scan 92 before centered `11` | **VERIFIED** | planned |
-| 11 | scan 92 after centered `11` → scan 99 before centered `12` | **VERIFIED** | planned |
-| 12 | scan 99 after centered `12` → scan 107 before centered `13` | **VERIFIED** | planned |
-| 13 | scan 107 after centered `13` → scan 115 before centered `14` | **VERIFIED** | planned |
-| 14 | scan 115 after centered `14` → scan 120 before centered `15` | **VERIFIED** | planned |
-| 15 | scan 120 after centered `15` → scan 126 | **VERIFIED** | planned |
-| 16 | scan 127 after centered `16` → scan 134 before centered `17` | **VERIFIED** | planned |
-| 17 | scan 134 after centered `17` → scan 142 before centered `18` | **VERIFIED** | planned |
-| 18 | scan 142 after centered `18` → scan 149 before centered `19` | **VERIFIED** | planned |
-| 19 | scan 149 after centered `19` → scan 154 before centered `20` | **VERIFIED** | planned |
-| 20 | scan 154 after centered `20` → scan 160 before centered `21` | **VERIFIED** | planned |
-| 21 | scan 160 after centered `21` → scan 166 before centered `22` | **VERIFIED** | planned |
-| 22 | scan 166 after centered `22` → scan 172 before centered `23` | **VERIFIED** | planned |
-| 23 | scan 172 after centered `23` → scan 179 | **VERIFIED** | planned |
+| 1 | scans 4–12 | VERIFIED | **REVIEWED** |
+| 2 | scans 13–22 | VERIFIED | **REVIEWED** |
+| 3 | scan 23 → scan 33 before `4` | VERIFIED | **REVIEWED** |
+| 4 | scan 33 after `4` → scan 45 before `5` | VERIFIED | **REVIEWED** |
+| 5 | scan 45 after `5` → scan 51 | VERIFIED | **REVIEWED** |
+| 6 | scan 52 → scan 59 before `7` | VERIFIED | **REVIEWED** |
+| 7 | scan 59 after `7` → scan 68 before `8` | VERIFIED | **REVIEWED** |
+| 8 | scan 68 after `8` → scan 75 before `9` | VERIFIED | **REVIEWED** |
+| 9 | scan 75 after `9` → scan 85 before `10` | VERIFIED | **REVIEWED** |
+| 10 | scan 85 after `10` → scan 92 before `11` | VERIFIED | **REVIEWED** |
+| 11 | scan 92 after `11` → scan 99 before `12` | VERIFIED | **REVIEWED** |
+| 12 | scan 99 after `12` → scan 107 before `13` | VERIFIED | **NEXT** |
+| 13 | scan 107 after `13` → scan 115 before `14` | VERIFIED | **NEXT** |
+| 14 | scan 115 after `14` → scan 120 before `15` | VERIFIED | **NEXT** |
+| 15 | scan 120 after `15` → scan 126 | VERIFIED | planned |
+| 16 | scan 127 after `16` → scan 134 before `17` | VERIFIED | planned |
+| 17 | scan 134 after `17` → scan 142 before `18` | VERIFIED | planned |
+| 18 | scan 142 after `18` → scan 149 before `19` | VERIFIED | planned |
+| 19 | scan 149 after `19` → scan 154 before `20` | VERIFIED | planned |
+| 20 | scan 154 after `20` → scan 160 before `21` | VERIFIED | planned |
+| 21 | scan 160 after `21` → scan 166 before `22` | VERIFIED | planned |
+| 22 | scan 166 after `22` → scan 172 before `23` | VERIFIED | planned |
+| 23 | scan 172 after `23` → final narrative scan 179 | VERIFIED | planned |
 
-## English Batch 2 boundary audit
-
-- scan 33 canonical record is explicitly `அத்தியாயம் 3 / அத்தியாயம் 4`; Chapter 3 English ends above centered `4`, Chapter 4 begins below it;
-- scan 45 canonical record is explicitly `அத்தியாயம் 4 / அத்தியாயம் 5`; Chapter 4 English ends above centered `5`, and Chapter 5 remains unstarted;
-- English work made **0 canonical Tamil changes**.
-
-## Exact next activity
-
-Translate and review English **Chapters 5–7** as Batch 3, preserving the mixed scan-59 Chapter 6→7 split at centered `7` and stopping before centered `8` on scan 68.
+English reviewed: **11 / 23**; coverage through scan 99 before centered `12`; unresolved English holds 0. Batch 3 Chapters 5–11 was a user-authorized seven-chapter expansion. Next default batch: Chapters 12–14.

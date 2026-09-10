@@ -4,31 +4,10 @@
 
 **NOT STARTED / BLOCKED.**
 
-This file is the release-control placeholder. It must remain blocked until the whole-work bilingual review passes.
+Tamil canonical and assembled layers are PASSED. English currently has **11 / 23 chapters reviewed**, through scan 99 before centered `12`, with 0 unresolved English translation holds. Final bilingual review has not run.
 
-Current English chapters reviewed: **4 / 23**.  
-Current English coverage: **scan 4 through scan 45 before centered `5`**.
-
-## Release preconditions
-
-The final release pass must confirm:
-
-- Tamil canonical page layer: **PASSED**;
-- assembled Tamil layer: **PASSED**;
-- English chapters: **23 / 23 present and reviewed**;
-- `TRANSLATION_REVIEW.md`: **PASSED**;
-- `GLOSSARY.md`: consistency-checked;
-- reader-facing navigation: complete;
-- no unresolved source/translation holds;
-- canonical Tamil unchanged by translation/release work;
-- source PDF remains outside the repository.
-
-## Required final report content
-
-When the gate opens, record work/source-edition identity, Tamil inventory, English inventory, bilingual review result, navigation QA, authority hierarchy, documented source oddities/discontinuities, confirmation of zero unauthorized canonical Tamil changes, source-PDF exclusion, editorial limitations and a final release-ready/not-ready verdict.
-
-Release readiness is an archival/editorial verdict only; it does not itself determine copyright, licensing or commercial-republication rights.
+Release remains blocked until all 23 English chapters are reviewed and `TRANSLATION_REVIEW.md` passes. Final release must also confirm glossary consistency, reader navigation, zero unauthorized canonical Tamil changes, source-PDF exclusion, and archival/editorial readiness separately from copyright/licensing questions.
 
 ## Verdict
 
-**BLOCKED — 4 / 23 English chapters reviewed; final bilingual review not yet available.**
+**BLOCKED — English translation incomplete (11 / 23).**
