@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 கோயில் எவ்வாறு அமைக்கப்பட வேண்டும் என்பதுபற்றித் தீவிரமாக யோசிக்கத் தொடங்கினார்கள்.
@@ -36,5 +36,12 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 - printed page 26 is directly visible;
 - opening completes scan 28 final `குந்தவையாரும்`;
-- final fragment `கோயில் விமானத்தின் நிழல் தரையில்` continues to scan 30;
-- T2/T3 pending; page remains needs-review.
+- final fragment `கோயில் விமானத்தின் நிழல் தரையில்` continues to scan 30.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read against direct source pixels;
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- no T1 character-identity correction required;
+- unresolved historical glyphs: **0**;
+- page remains `needs-review` pending T3.
