@@ -1683,3 +1683,586 @@ W4 scans **64–67** are **REVIEWED / COMPLETE**.
 - canonical / assembled / English changes: **0 / 0 / 0**.
 
 Next comparison batch: **W5 — scans 68–72 only**.
+
+
+## W5 — scans 68–72
+
+### V1978-0189 — `உபசாரங்கள்` / `உபகாரங்கள்`
+- class: **WORDING**
+- 1978: `கண்ணம்மா எனக்குச் செய்யும் உபகாரங்கள் பலமாயிருக்கும்.`
+- 1953: `கண்ணம்மா எனக்குச் செய்யும் உபசாரங்கள் பலமாயிருக்கும்.`
+- location: 1978 scan68 / p66; controlling scan38 / p37
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0190 — first Kannamma-complaint sentence rewrite
+- class: **WORDING**
+- 1978: `ஒரு நாள் கண்ணம்மா, உலகநாதருக்கு வீட்டைப் பற்றிய கவலையே இல்லை என்று குறைப்பட ஆரம்பித்தாள்.`
+- 1953: `ஒருநாள் கண்ணம்மா, உலகநாதருக்கு வீட்டைப் பற்றிய கவலையே இல்லை என்று குறைப்படலம் ஆரம்பித்தாள்.`
+- location: scan68 / controlling scan39
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0191 — `இன்னொருநாள்` / `இன்னொரு நாள்`
+- class: **SPELLING / GLYPH**
+- 1978: `இன்னொரு நாள்`
+- 1953: `இன்னொருநாள்`
+- location: scan68
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0192 — `ஊர்க் கதை` / `ஊர்க்கதை`
+- class: **SPELLING / GLYPH**
+- 1978: `ஏதாவது ஊர்க்கதை இருந்தால் சொல்லு`
+- 1953: `ஏதாவது ஊர்க் கதை இருந்தால் சொல்லு!`
+- location: scan68
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0193 — `பத்து மணி` / `பத்துமணி`
+- class: **SPELLING / GLYPH**
+- 1978: `இரவு பத்துமணி வரையில்`
+- 1953: `இரவு பத்து மணி வரையில்`
+- location: scan68
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0194 — complaint punctuation
+- class: **PUNCTUATION**
+- 1978: `எனக்குப் பிடிக்கிறதில்லை; சுத்த அசடு!`
+- 1953: `எனக்குப் பிடிக்கிறதில்லை. சுத்த அசடு!`
+- location: scan68
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0195 — `முடித்தாள்` punctuation
+- class: **PUNCTUATION**
+- 1978: `என்று முடித்தாள்; “எல்லாம் சரியாகிவிடும் அம்மா”`
+- 1953: `என்று முடித்தாள். “எல்லாம் சரியாகிவிடும் அம்மா”`
+- location: scan68
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0196 — `என்னப்பா அவசரம்` punctuation
+- class: **PUNCTUATION**
+- 1978: `“என்னப்பா அவசரம்”`
+- 1953: `“என்னப்பா அவசரம்!”`
+- location: scan68
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0197 — `இளம் வயதுள்ள` / `இளம்வயதுள்ள`
+- class: **SPELLING / GLYPH**
+- 1978: `இளம்வயதுள்ள பெண்ணுடன்`
+- 1953: `இளம் வயதுள்ள பெண்ணுடன்`
+- location: scan68
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0198 — young-woman clause punctuation
+- class: **PUNCTUATION**
+- 1978: `பெண்ணுடன், உட்கார்ந்து பேசிக்கொண்டிருப்பதே`
+- 1953: `பெண்ணுடன்; உட்கார்ந்து பேசிக்கொண்டிருப்பதே`
+- location: scan68
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0199 — `வற்றிவிட்டது` / `வற்றி விட்டது`
+- class: **SPELLING / GLYPH**
+- 1978: `வாயில் நீரில்லை; வற்றி விட்டது.`
+- 1953: `வாயில் நீரில்லை; வற்றிவிட்டது.`
+- location: scan68
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0200 — `ஏற்பட்டதுபோல்` / `ஏற்பட்டது போல்`
+- class: **SPELLING / GLYPH**
+- 1978: `ஒரு தொந்தரவு ஏற்பட்டது போல் இருந்தது.`
+- 1953: `ஒரு தொந்தரவு ஏற்பட்டதுபோல் இருந்தது.`
+- location: scan68
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0201 — `விழுந்து விட்டதையும்` / `விழுந்துவிட்டதையும்`
+- class: **SPELLING / GLYPH**
+- 1978: `முண்டாசு அவிழ்ந்து விழுந்துவிட்டதையும்`
+- 1953: `முண்டாசு அவிழ்ந்து விழுந்து விட்டதையும்`
+- location: scan68
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0202 — `நல்ல இடத்து ஸ்திரீ` / `நல்ல இடத்துப் பெண்`
+- class: **WORDING**
+- 1978: `ஒரு நல்ல இடத்துப் பெண் இவ்வளவு கேவலமாகப் போய்விட்டாளே`
+- 1953: `ஒரு நல்ல இடத்து ஸ்திரீ இவ்வளவு கேவலமாகப் போய்விட்டாளே`
+- location: scan68 / controlling scan40
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0203 — `ஆசை நாயகியாக` / `ஆசைநாயகி`
+- class: **WORDING**
+- 1978: `ஒரு கூலிக்காரனுக்கு ஆசைநாயகி ஆவதென்றால்`
+- 1953: `ஒரு கூலிக்காரனுக்கு ஆசை நாயகியாக ஆவதென்றால்`
+- location: scan68
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0204 — scan68 late segmentation cluster
+- class: **SPELLING / GLYPH**
+- 1978: `நீண்ட நேரம்`; `எஜமானியம்மாளுக்கு`
+- 1953: `நீண்டநேரம்`; `எஜமானி யம்மாளுக்கு`
+- location: scan68
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0205 — `அன்பைக்கூட` / `அன்பைக்கூடக்`
+- class: **SPELLING / GLYPH**
+- 1978: `குமுதாவின் மேலிருந்த அன்பைக்கூடக் கொஞ்சநாள்`
+- 1953: `குமுதாவின் மேலிருந்த அன்பைக்கூட கொஞ்சநாள்`
+- location: scan69 / p67
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0206 — `கேட்கவேண்டியதில்லை` punctuation / spacing
+- class: **PUNCTUATION**
+- 1978: `பிறகு கேட்க வேண்டியதில்லை;`
+- 1953: `பிறகு கேட்கவேண்டியதில்லை.`
+- location: scan69
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0207 — status-rise sentence
+- class: **PUNCTUATION**
+- 1978: `என் பதவி ஒரு படி உயர்ந்ததாக மாறிவிட்டது!`
+- 1953: `என் பதவி ஒருபடி உயர்ந்ததாக மாறிவிட்டது.`
+- location: scan69
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0208 — Bhartruhari reference rewritten
+- class: **WORDING**
+- 1978: `‘ராஜா பார்த்துஹரி’ நாடகத்திலே பார்த்திருக்கிறேன்`
+- 1953: `‘ராஜாபர்த்ருஹரி’ கதையிலே பார்த்திருக்கிறேன்`
+- location: scan69
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0209 — `ஒருநாள்` / `ஒரு நாள்`
+- class: **SPELLING / GLYPH**
+- 1978: `ஒரு நாள் கண்ணம்மா என்னிடம்`
+- 1953: `ஒருநாள் கண்ணம்மா என்னிடம்`
+- location: scan69
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0210 — `அவளை நான் கேட்டேன்` / `அவளிடம் நான் கேட்டேன்`
+- class: **WORDING**
+- 1978: `அதில் என்ன எழுதியிருக்கிறது என்று அவளிடம் நான் கேட்டேன்.`
+- 1953: `அதில் என்ன எழுதியிருக்கிறது என்று அவளை நான் கேட்டேன்.`
+- location: scan69
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0211 — `லாகவமாக` / `லாவகமாக`
+- class: **WORDING**
+- 1978: `உடம்பை லாவகமாக அசைத்தாள்.`
+- 1953: `உடம்பை லாகவமாக அசைத்தாள்.`
+- location: scan69
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0212 — `சுவீர்` / `சுரீர்`
+- class: **WORDING**
+- 1978: `கார்க்குச்சியால் உடம்பில் ‘சுரீர்’ என்று குத்தியதுபோல்`
+- 1953: `கார்க்குச்சியால் உடம்பில் ‘சுவீர்’ என்று குத்தியதுபோல்`
+- location: scan69
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0213 — medicine-return joining cluster
+- class: **SPELLING / GLYPH**
+- 1978: `வந்து விட்டேன்`; `அதைச் சாப்பிட்டாள்`
+- 1953: `வந்துவிட்டேன்`; `அதை சாப்பிட்டாள்`
+- location: scan69
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0214 — storm sentence segmentation
+- class: **SPELLING / GLYPH**
+- 1978: `என் மனத்தில்`; `பெரியதொரு பள்ளத்தில்`
+- 1953: `என் மனதில்`; `பெரிய தொரு பள்ளத்தில்`
+- location: scan69
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0215 — `கண்ணம்மாவினையும்` / `கண்ணம்மாவையும்`
+- class: **WORDING**
+- 1978: `கண்ணம்மாவையும் என்னையும் பற்றி`
+- 1953: `கண்ணம்மாவினையும் என்னையும் பற்றி`
+- location: scan69
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0216 — `அவள்` / `அவளை`
+- class: **WORDING**
+- 1978: `அவளை நிமிர்ந்து பார்ப்பதுகூடக் கிடையாது.`
+- 1953: `அவள் நிமிர்ந்து பார்ப்பதுகூடக் கிடையாது.`
+- location: scan69
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0217 — return-to-Kumudha punctuation cluster
+- class: **PUNCTUATION**
+- 1978: `எனது ஆசைகள் எல்லாம் குமுதாவிடம் திரும்பின.`; `உத்தண்டி மாமா கூறினார். எனக்கு அடக்க முடியாத ஆனந்தம்!`
+- 1953: `எனது ஆசைகள் எல்லாம் குமுதாவிடம் திரும்பின—`; `உத்தண்டி மாமா கூறினார்; எனக்கு அடக்க முடியாத ஆனந்தம்!`
+- location: scan69
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0218 — `சந்திக்கும்படி` / `சந்திக்கும் படிக்`
+- class: **WORDING**
+- 1978: scan69→70 `அடிக்கடி தன்னைச் சந்திக்கும் / படிக் கூறினாள்.`
+- 1953: `அடிக்கடி தன்னைச் சந்திக்கும்படி கூறினாள்.`
+- location: scan69→70
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0219 — departure joining cluster
+- class: **SPELLING / GLYPH**
+- 1978: `தீனி வைத்து விட்டு`; `புறப்பட்டுக்கொண்டிருந்தேன்`; `கண்ணம்மா ஓடி வந்தாள்`
+- 1953: `தீனி வைத்துவிட்டு`; `புறப்பட்டுக் கொண்டிருந்தேன்`; `கண்ணம்மா ஓடிவந்தாள்`
+- location: scan70 / p68
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0220 — agitation / room joining cluster
+- class: **SPELLING / GLYPH**
+- 1978: `பரபரவென்று`; `திமிரிக் கொண்டு`; `அறைப்பக்கம்`
+- 1953: `பரபர வென்று`; `திமிர்க்கொண்டு`; `அறைப் பக்கம்`
+- location: scan70
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0221 — `பார்த்த போது` / `பார்த்தபோது`; `வர்ணிக்க` / `வருணிக்க`
+- class: **WORDING**
+- 1978: `அதைப் பார்த்தபோது என் மனம் பட்ட பாட்டை எப்படி வருணிக்கமுடியும்?`
+- 1953: `அதைப் பார்த்த போது என் மனம் பட்ட பாட்டை எப்படி வர்ணிக்க முடியும்?`
+- location: scan70
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0222 — dragged-away clause
+- class: **SPELLING / GLYPH**
+- 1978: `என்னை உடனே இழுத்துக்கொண்டு போய் விடாவிட்டால்`
+- 1953: `என்னை உடனே இழுத்துக்கொண்டுபோய் விடாவிட்டால்`
+- location: scan70
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0223 — `போக்கியதைப்` / `யோக்கியதையைப்`
+- class: **WORDING**
+- 1978: `உன் ஆசைக் காதலி குமுதாவின் யோக்கியதையைப் பார்த்தாயா?`
+- 1953: `உன் ஆசைக் காதலி குமுதாவின் போக்கியதைப் பார்த்தாயா?`
+- location: scan70 / controlling scan43
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0224 — `கூறிக்கொண்டு இருந்த` / `கூறிக்கொண்டிருந்த`
+- class: **SPELLING / GLYPH**
+- 1978: `உயிரை வைத்திருப்பதாகக் கூறிக்கொண்டிருந்த குமுதா`
+- 1953: `உயிரை வைத்திருப்பதாகக் கூறிக்கொண்டு இருந்த குமுதா`
+- location: scan70
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0225 — `விபசாரி` / `விபச்சாரி`
+- class: **SPELLING / GLYPH**
+- 1978: `குமுதா ஒரு விபச்சாரி!`
+- 1953: `குமுதா ஒரு விபசாரி!`
+- location: scan70
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0226 — eyes / hands rhetoric rewritten
+- class: **WORDING**
+- 1978: `எந்தக் கண்கள் ... பார்த்தனவோ, அந்தக் கண்கள் ... எந்தக் கரங்கள் ... துடித்தனவோ, அந்தக் கரங்கள் அவளை ஒடித்தெரியத் துடித்தன.`
+- 1953: `எந்தக் கண்கள் ... பார்த்தனவோ! அந்தக் கண்கள் ... எந்தக் கரங்கள் ... துடித்தனவோ! அந்தக் கரங்களே அவளை ஒடித் தெரியத் துடித்தன.`
+- location: scan70
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0227 — `அந்தக் குமுதாவுக்கு` / `இந்தக் குமுதாவுக்கு`
+- class: **WORDING**
+- 1978: `அக்கறை இந்தக் குமுதாவுக்கு இல்லையே!`
+- 1953: `அக்கறை அந்தக் குமுதாவுக்கு இல்லையே!`
+- location: scan70
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0228 — `உடல் விற்றதை` / `உடலை விற்றதை`
+- class: **WORDING**
+- 1978: `உலகநாதருக்கு உடலை விற்றதை நான் நேரில் கண்டேனே`
+- 1953: `உலகநாதருக்கு உடல் விற்றதை நான் நேரில் கண்டேனே!`
+- location: scan70
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0229 — `தண்டன்` / `தண்டனை`
+- class: **WORDING**
+- 1978: `குமுதாவுக்குச் சரியான தண்டனை கிடைத்தது.`
+- 1953: `குமுதாவுக்குச் சரியான தண்டன் கிடைத்தது.`
+- location: scan70 / controlling scan43
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0230 — divine-error question
+- class: **PUNCTUATION**
+- 1978: `தெய்வமே சகிக்காத தவறையல்லவா அவள் செய்தாள்?`
+- 1953: `தெய்வமே சகிக்காத தவறை அல்லவா அவள் செய்தாள்!`
+- location: scan70
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0231 — illness / obscene-life punctuation reset
+- class: **PUNCTUATION**
+- 1978: `வாந்தி பேதிக்கு இலக்கானாள், அந்த வஞ்சகி! ... ஆபாச வாழ்க்கை அழிந்தது. என் சாபம்...`
+- 1953: `வாந்தி பேதிக்கு இலக்கானாள். அந்த வஞ்சகி! ... ஆபாச வாழ்க்கை அழிந்தது, என் சாபம்...`
+- location: scan71 / p69; controlling scan44
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0232 — `ஏமாந்து போனவன்` / `ஏமாந்துபோனவன்`
+- class: **SPELLING / GLYPH**
+- 1978: `ஏமாந்துபோனவன் கொடுத்த சாபமல்லவா?`
+- 1953: `ஏமாந்து போனவன் கொடுத்த சாபமல்லவா?`
+- location: scan71
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0233 — `இராக்ஷசியின்` / `இராட்சசியின்`
+- class: **SPELLING / GLYPH**
+- 1978: `அந்த இராட்சசியின் முகத்தில்`
+- 1953: `அந்த இராக்ஷசியின் முகத்தில்`
+- location: scan71
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0234 — departure-from-deathbed joining
+- class: **SPELLING / GLYPH**
+- 1978: `அந்த இடத்தை விட்டுப் போய்விட்டேன்.`
+- 1953: `அந்த இடத்தை விட்டுப் போய் விட்டேன்.`
+- location: scan71
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0235 — `விபசாரியை` / `விபச்சாரியை`
+- class: **SPELLING / GLYPH**
+- 1978: `அந்த விபச்சாரியை இவர் ஏன் பெற்றார்?`
+- 1953: `அந்த விபசாரியை இவர் ஏன் பெற்றார்?`
+- location: scan71
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0236 — Veeran closing punctuation
+- class: **PUNCTUATION**
+- 1978: `இப்பொழுது என்னைப் பாருங்கள், நான் வண்டிக்கார வீரனா?`
+- 1953: `இப்பொழுது என்னைப் பாருங்கள்! நான் வண்டிக்கார வீரனா?`
+- location: scan71
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0237 — `உலகநாதர்` heading punctuation
+- class: **HEADING / STRUCTURE**
+- 1978: `உலகநாதர்:`
+- 1953: `உலகநாதர்`
+- location: scan71 / p69 vs controlling scan45 / p44
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0238 — `உப்பைத்தின்றவன்தான்` / `உப்பைத் தின்றவன்தான்`
+- class: **SPELLING / GLYPH**
+- 1978: `என் உப்பைத் தின்றவன்தான் இந்த வேலை செய்துவிட்டான்.`
+- 1953: `என் உப்பைத்தின்றவன்தான் இந்த வேலை செய்துவிட்டான்.`
+- location: scan71
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0239 — standalone `கண்ணம்மா.` sentence removed
+- class: **PUNCTUATION**
+- 1978: `எல்லாம் அந்தத் தடவை செய்தவேலை. கண்ணம்மா என்னைக் கடவுளாகப் பாவிப்பதாகச் சொன்னாளே!`
+- 1953: `எல்லாம் அந்தத் தடவை செய்த வேலை. கண்ணம்மா. என்னைக் கடவுளாகப் பாவிப்பதாகச் சொன்னாளே!`
+- location: scan71 / controlling scan45
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0240 — `விபசாரி!` repositioned into Kannamma phrase
+- class: **ORDER**
+- 1978: `வீரனுக்கும் விபச்சாரி கண்ணம்மாவுக்கும் எத்தனை நாள் தொடர்பு?`
+- 1953: `விபசாரி! வீரனுக்கும் கண்ணம்மாவுக்கும் எத்தனை நாள் தொடர்பு?`
+- location: scan71
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0241 — Ulaganathar early joining cluster
+- class: **SPELLING / GLYPH**
+- 1978: `உலகத்தில்`; `இழுக்கு வந்துவிட்டதே`; `அடக் கடவுளே!`
+- 1953: `உலகத்திலே`; `இழுக்கு வந்து விட்டதே`; `அட கடவுளே!`
+- location: scan71
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0242 — Ulaganathar self-description joining
+- class: **SPELLING / GLYPH**
+- 1978: `ஒத்துக்கொள்கிறேன்`; `எனக்கு உணர்ச்சியில்லை`
+- 1953: `ஒத்துக் கொள்கிறேன்`; `எனக்கு உணர்ச்சி இல்லை`
+- location: scan71→72
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0243 — `கூறமுடியுமா` / `கூற முடியுமா`
+- class: **SPELLING / GLYPH**
+- 1978: `எனக்கு உணர்ச்சியில்லை என்று யாராவது கூற முடியுமா?`
+- 1953: `எனக்கு உணர்ச்சி இல்லை என்று யாராவது கூறமுடியுமா?`
+- location: scan72 / p70
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0244 — poison / sweet-word warning rewritten
+- class: **WORDING**
+- 1978: `பாம்பின் விஷத்தையும் நம்பலாம்! உன் பசப்பு வார்த்தையை நம்ப முடியாதடி!`
+- 1953: `பாம்பின் விஷத்தையும் நம்பலாம்; உன் பசப்பு வார்த்தையை நம்ப முடியாதபடி`
+- location: scan72 / controlling scan45
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0245 — `சொல்லி இருக்கலாமல்லவா கள்ளி` punctuation / joining
+- class: **PUNCTUATION**
+- 1978: `அப்பொழுதே என்னிடம் சொல்லியிருக்கலாமல்லவா? கள்ளி!`
+- 1953: `அப்பொழுதே என்னிடம் சொல்லி இருக்கலாமல்லவா கள்ளி!`
+- location: scan72
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0246 — `பாசமுள்ளவள்போல்` / `பாசமுள்ளவள் போல்`
+- class: **SPELLING / GLYPH**
+- 1978: `பாசமுள்ளவள் போல் நாடகம் ஆடியே`
+- 1953: `பாசமுள்ளவள்போல் நாடகம் ஆடியே`
+- location: scan72
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0247 — `நல்லது காட்டுமா` / `நல்வழி காட்டுமா`
+- class: **WORDING**
+- 1978: `உனக்குத் தெய்வம் நல்வழி காட்டுமா?`
+- 1953: `உனக்குத் தெய்வம் நல்லது காட்டுமா?`
+- location: scan72
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0248 — final `கண்ணம்மா` heading punctuation
+- class: **HEADING / STRUCTURE**
+- 1978: `கண்ணம்மா :`
+- 1953: `கண்ணம்மா`
+- location: scan72 / p70 vs controlling scan46 / p45
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0249 — mythological-opening punctuation / joining
+- class: **PUNCTUATION**
+- 1978: `ஏமாந்துவிட்டாளே! உலகத்தில் நடக்கும் அத்தனை அக்கிரமங்களும் தெய்வங்கள் காட்டிய வழிகள்தானே!`
+- 1953: `ஏமாந்து விட்டாளே, உலகத்திலே நடக்கும் அத்தனை அக்கிரமங்களும் தெய்வங்கள் காட்டிய வழிகள் தானே.`
+- location: scan72 / controlling scan46
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0250 — anger / accusation joining cluster
+- class: **SPELLING / GLYPH**
+- 1978: `கோபித்துக்கொண்டிருப்பார்`; `விபச்சாரி`; `சொல்வார். எது`
+- 1953: `கோபித்துக் கொண்டிருப்பார்`; `விபசாரி`; `சொல்வார், எது`
+- location: scan72
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0251 — departure sentence inflection
+- class: **WORDING**
+- 1978: `வீரனுடன் வெளியூருக்குப் புறப்பட்டுவிட்டதை வேண்டுமானால் புதிய காரியம் என்று சொல்லலாம்.`
+- 1953: `வீரனுடன் வெளியூருக்குப் புறப்பட்டு விட்டேன் வேண்டுமானால் புதிய காரியம் என்று சொல்லலாம்.`
+- location: scan72
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0252 — conduct / Kumudha phrase joining
+- class: **SPELLING / GLYPH**
+- 1978: `உலகநாதர் ஒழுங்காக நடந்துகொண்டாரா`; `குமுதாமேல் ஆசையும் மோகமும்`
+- 1953: `உலகநாதர் ஒழுங்காக நடந்து கொண்டாரா`; `குமுதா மேல் ஆசையும் மோகமும்`
+- location: scan72
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0253 — `நானா ஆள்?` / source-visible `நானு ஆள்?`
+- class: **WORDING**
+- 1978: `அவர்களுக்குத் துரோகம் செய்ய நானு ஆள்?`
+- 1953 controlling: `அவர்களுக்கு துரோகம் செய்ய நானா ஆள்?`
+- location: scan72 / controlling scan46
+- confidence: **CONFIRMED**
+- comparison note: 1978 modern-type source visibly prints `நானு`; do not import the 1953 historical-glyph correction into this witness
+- action: **record-only / no canonical change**
+
+### V1978-0254 — `அதை கெடுத்தது` / `அதைக் கெடுத்தவர்`
+- class: **WORDING**
+- 1978: `அதைக் கெடுத்தவர் என் கணவர்தானே!`
+- 1953: `அதை கெடுத்தது என் கணவர்தானே!`
+- location: scan72
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0255 — husband-doll / lost-position joining cluster
+- class: **SPELLING / GLYPH**
+- 1978: `பொம்மையாகவாவது`; `இழந்துவிட்டார்`
+- 1953: `பொம்மையாகாவது`; `இழந்து விட்டார்`
+- location: scan72
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0256 — 1953 cause-of-death sentence omitted
+- class: **OMISSION**
+- 1978: after `எனக்கு உலகநாதர் மேல் இரக்கம் எப்படிப் பிறக்கும்?` proceeds directly to `பெண்ணினத்தைச் சேர்ந்த குமுதாவை நான் அந்தப் பாடு படுத்தாவிட்டால் வீரனின் விருந்து கிடைக்குமா?`
+- 1953: includes `பெண்ணினத்தைச் சேர்ந்த குமுதாவின் சாவுக்கே நான் தானே காரணமாயிருந்தேன்!` before `குமுதாவை நான் அந்தப் பாடு படுத்தாவிட்டால்...`
+- location: 1978 scan72 / controlling scan46→47
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0257 — room-observation punctuation
+- class: **PUNCTUATION**
+- 1978: `உலகநாதரும் குமுதாவும் ஒரே அறையில் இருந்ததை வீரன் பார்த்தான்; பார்க்கும்படி நான் செய்தேன்.`
+- 1953: `உலகநாதரும் குமுதாவும் ஒரே அறையில் இருந்ததை வீரன் பார்த்தான்—பார்க்கும்படி நான் செய்தேன்.`
+- location: scan72
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0258 — `குமுதா வக்குப்` / `குமுதாவுக்குப்`
+- class: **WORDING**
+- 1978: `மறுநாள் காலையில் குமுதாவுக்குப் பேதி கண்டது.`
+- 1953: `மறுநாள் காலையில் குமுதா வக்குப் பேதி கண்டது.`
+- location: scan72 / controlling final-Kannamma opening
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0259 — `அவமானந்` / `அவமானம்`
+- class: **SPELLING / GLYPH**
+- 1978: `அவள் அவமானம் தாங்கமாட்டாது வைரத்தைத் தின்றுவிட்டாள்`
+- 1953: `அவள் அவமானந் தாங்கமாட்டாது வைரத்தைத் தின்றுவிட்டாள்`
+- location: scan72
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+## W5 closure
+
+W5 scans **68–72** are **REVIEWED / COMPLETE**.
+
+- new W5 textual / structural variant entries: **71** (`V1978-0189`–`V1978-0259`);
+- cumulative textual / structural variant entries: **259**;
+- unresolved W5 source readings: **0**;
+- canonical / assembled / English changes: **0 / 0 / 0**.
+
+Next comparison batch: **W6 — scans 73–74 only**.

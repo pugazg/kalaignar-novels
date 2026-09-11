@@ -1,4 +1,4 @@
-# Next Chat Prompt — பெரிய இடத்துப் பெண் / 1978 witness W5 scans 68–72
+# Next Chat Prompt — பெரிய இடத்துப் பெண் / 1978 witness W6 scans 73–74
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -15,11 +15,12 @@ The 1978 `அரும்பு` printing is **additional witness only**. Compar
 - W2 scans 54–58: **REVIEWED / COMPLETE**;
 - W3 scans 59–63: **REVIEWED / COMPLETE**;
 - W4 scans 64–67: **REVIEWED / COMPLETE**;
-- coverage: **19 / 26 scans**;
-- batches: **4 / 6 complete**;
-- cumulative textual / structural variant entries: **188**;
+- W5 scans 68–72: **REVIEWED / COMPLETE**;
+- coverage: **24 / 26 scans**;
+- batches: **5 / 6 complete**;
+- cumulative textual / structural variant entries: **259**;
 - non-textual witness features: **2**;
-- unresolved readings through W4: **0**;
+- unresolved readings through W5: **0**;
 - canonical / assembled / English changes: **0 / 0 / 0**.
 
 Read before work:
@@ -30,24 +31,25 @@ Read before work:
 4. `SCAN_MAP.md`;
 5. `PROGRESS.md`;
 6. `VARIANTS.md`;
-7. `W4_SCANS_064_067.md`;
-8. controlling canonical/assembled Tamil needed for W5.
+7. `W5_SCANS_068_072.md`;
+8. controlling canonical/assembled Tamil needed for the final span.
 
-## Exact next activity — W5 only
+## Exact next activity — W6 only
 
-Compare **1978 scans 68–72 / printed pages 66–70**.
+Compare **1978 scans 73–74 / printed pages 71–72**.
 
-- scans68–70 / p66–68 — `வீரன்`;
-- scan71 / p69 — `உலகநாதர்` heading appears;
-- scan72 / p70 — final `கண்ணம்மா` heading appears.
+- scan73 / p71 — final `கண்ணம்மா` narration;
+- scan74 / p72 — final narration and work ending.
 
 Rules:
 
 - direct 1978 pixels control witness readings;
 - 1953 remains controlling;
-- compare all printed W5 text;
+- compare all remaining printed W6 text;
 - record source-proven wording, spelling/glyph, punctuation, omission/addition/order/structure differences;
-- page breaks and line wraps alone are not variants;
+- preserve the already confirmed paratext fact that the 1953 printer colophon is absent in the 1978 witness;
 - uncertain readings remain **UNRESOLVED**;
 - do not modify canonical Tamil, assembled Tamil, English, release status or page-status freeze;
-- create `W5_SCANS_068_072.md`, update variant/progress/control records, commit, and stop before scan73 / W6.
+- create `W6_SCANS_073_074.md`, update variant/progress/control records, commit, and stop.
+
+After W6, the witness comparison may be marked complete, but **do not automatically apply witness variants to the controlling 1953 package**.
