@@ -17,18 +17,20 @@ TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2
 
 சாரப்பள்ளம் சாமுண்டி spans **scans 24–48 / 25 scans**.
 
-- canonical records: **15 / 25 — scans 24–38**;
+- canonical records: **20 / 25 — scans 24–43**;
 - verified: **15 / 25 — scans 24–38**;
-- scans 24–33: **T1+T2+T3 PASS / VERIFIED**;
-- scans 34–38: **T1+T2+T3 PASS / VERIFIED**;
-- scans 34–38 T3: **8 corrections / 0 unresolved source readings**;
-- final historical-glyph corrections scans 34–38: **5 / 0 unresolved**;
-- scans 39–48: **NOT STARTED**.
+- scans 24–38: **T1+T2+T3 PASS / VERIFIED**;
+- scans 39–43 T1: **PASS / COMPLETE**;
+- scans 39–43 T2: **NEXT**;
+- scans 39–43 T3: **BLOCKED by T2**;
+- scans 44–48: **NOT STARTED**.
 
-Key T3 corrections include scan34 `போய் விட்டது` / `போதும்;”`; scan35 `நிறைவேற்றி விட்டான்`; scan38 `சொல்லுவது`, `நடனச் சிற்பங்களை`, `இனியன்விட்டே`, and `அந்தப் பேறு`.
+Fourth-batch printed pages are directly visible as scan39=36, scan40=37, scan41=38, scan42=39, scan43=40. New records remain needs-review.
+
+Physical joins: 38→39 தள்ளிப் போட்டுக்கொண்டே / போகிறது.; 39→40 இவள் உதவியை நீ பெற்று அரசர் / பெருமானின் ஆசையை...; 42→43 ...சிறகு / முளைத்துக் கிளம்பிவிட்டதா?. Scan43 final அவன் அன்றையதினம் continues beyond the batch.
 
 ## Exact next activity
 
-Execute **T1 direct transcription for scans 39–43 only** under SOURCE_BATCH_CHECKPOINT_WORKFLOW.md. Create five canonical records from direct source pixels, synchronize controls, commit, and stop before T2.
+Execute **T2 independent historical-glyph / character-identity re-read for scans 39–43 only**. Check each complete scan and all sensitive glyph families, correct only from direct source pixels, synchronize controls, commit, and stop before T3.
 
-Do not begin scan 44 or the 1978 பெரிய இடத்துப் பெண் witness comparison.
+Do not begin scan 44 or the 1978 பெரிய இடத்துப் பெண் witness comparison in the same checkpoint.

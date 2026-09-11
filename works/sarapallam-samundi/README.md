@@ -8,20 +8,27 @@
 ## Current state
 
 - component span: **25 scans**;
-- canonical page records: **15 / 25 — scans 24–38**;
+- canonical page records: **20 / 25 — scans 24–43**;
 - verified records: **15 / 25 — scans 24–38**;
-- scans 24–33: **T1+T2+T3 PASS / VERIFIED**;
-- scans 34–38: **T1+T2+T3 PASS / VERIFIED**;
-- scans 34–38 T3: **8 source-fidelity corrections / 0 unresolved**;
-- final historical-glyph corrections for scans 34–38: **5 / 0 unresolved**;
-- scans 39–48: **NOT STARTED**.
+- scans 24–38: **T1+T2+T3 PASS / VERIFIED**;
+- scans 39–43 T1: **PASS / COMPLETE**;
+- scans 39–43 T2: **NEXT**;
+- scans 39–43 T3: **BLOCKED by T2**;
+- scans 44–48: **NOT STARTED**.
 
-## Third-batch closure
+## Fourth-batch T1
 
-T3 corrected source spacing/punctuation and several scan-38 fidelity issues, including `சொல்லுவது`, `நடனச் சிற்பங்களை`, `இனியன்விட்டே`, and `அந்தப் பேறு`. It also caught one historical `ளை` identity missed by T2.
+Physical scans **39–43** were directly visually transcribed as printed pages **36–40**. All five new records remain needs-review pending independent T2 historical-glyph review and T3 final source-fidelity closure.
 
-All scans **34–38 / printed pages 31–35** are now VERIFIED.
+Important continuity:
+
+- 38→39: தள்ளிப் போட்டுக்கொண்டே / போகிறது.;
+- 39→40: இவள் உதவியை நீ பெற்று அரசர் / பெருமானின் ஆசையை...;
+- 42→43: ...சிறகு / முளைத்துக் கிளம்பிவிட்டதா?;
+- scan 43 ends அவன் அன்றையதினம் and continues beyond the batch.
+
+Source-sensitive first-pass readings were retained rather than inferred from context.
 
 ## Exact next activity
 
-Execute **T1 direct transcription for scans 39–43 only**. Create five canonical records from direct source pixels, preserve only visibly printed page numbers, synchronize controls, commit, and stop before T2.
+Execute **T2 independent historical-glyph / character-identity re-read for scans 39–43 only**, synchronize controls, commit, and stop before T3 or scan 44.

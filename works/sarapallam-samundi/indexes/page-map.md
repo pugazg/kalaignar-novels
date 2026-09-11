@@ -19,20 +19,25 @@ Physical source span: **24–48 / 25 scans**.
 | 36 | 33 | ../pages/0036-sarapallam-samundi-33.md | **VERIFIED — T1+T2+T3 PASS** |
 | 37 | 34 | ../pages/0037-sarapallam-samundi-34.md | **VERIFIED — T1+T2+T3 PASS** |
 | 38 | 35 | ../pages/0038-sarapallam-samundi-35.md | **VERIFIED — T1+T2+T3 PASS** |
-| 39–48 | verify directly batch-by-batch | — | **NOT STARTED** |
+| 39 | 36 | ../pages/0039-sarapallam-samundi-36.md | **T1 PASS / needs-review** |
+| 40 | 37 | ../pages/0040-sarapallam-samundi-37.md | **T1 PASS / needs-review** |
+| 41 | 38 | ../pages/0041-sarapallam-samundi-38.md | **T1 PASS / needs-review** |
+| 42 | 39 | ../pages/0042-sarapallam-samundi-39.md | **T1 PASS / needs-review** |
+| 43 | 40 | ../pages/0043-sarapallam-samundi-40.md | **T1 PASS / needs-review** |
+| 44–48 | verify directly batch-by-batch | — | **NOT STARTED** |
 
-Canonical records: **15 / 25**.  
+Canonical records: **20 / 25**.  
 Verified records: **15 / 25**.  
-Scans 24–38: **T1+T2+T3 PASS / VERIFIED**.  
-Unresolved historical glyphs / source readings: **0 / 0**.
+Scans 39–43 T1: **PASS / COMPLETE**.  
+Scans 39–43 T2: **NEXT**.
 
 ## Continuity
 
-- 35→36: `நூற்றெட்டுத் தாண்` / `டவ நிலைகள்தான்`;
-- 36→37: `தாண்டவ நிலைக்கு ஏற்றவாறு` / `பாவம் பிடித்துக் காட்ட வேண்டும்.`;
-- 37→38: continuous quoted lament;
-- scan 38 ends `தள்ளிப் போட்டுக்கொண்டே`, continuing beyond this batch.
+- 38→39: தள்ளிப் போட்டுக்கொண்டே / போகிறது.;
+- 39→40: இவள் உதவியை நீ பெற்று அரசர் / பெருமானின் ஆசையை...;
+- 42→43: ...சிறகு / முளைத்துக் கிளம்பிவிட்டதா?;
+- scan 43 ends அவன் அன்றையதினம், continuing beyond this batch.
 
 ## Exact next activity
 
-T1 direct transcription of scans **39–43 only**.
+T2 independent historical-glyph re-read of scans **39–43 only**.

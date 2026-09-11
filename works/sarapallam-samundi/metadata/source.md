@@ -11,13 +11,14 @@
 - scan 28 is an unnumbered **landscape two-page illustration spread**
 - scans 29–33 visibly print **26–30**
 - scans 34–38 visibly print **31–35**
+- scans 39–43 visibly print **36–40**
 - scan 48 was intake-observed to visibly print **45**
 - source PDF committed: **No**
 
 ## Processing state
 
 - scans 24–38: **T1+T2+T3 PASS / VERIFIED — 15/25**;
-- scans 34–38 T3: **8 corrections / 0 unresolved source readings**;
-- final historical-glyph corrections scans 34–38: **5 / 0 unresolved**;
-- scans 39–48: **NOT STARTED**;
-- next: **T1 scans 39–43**.
+- scans 39–43: **T1 PASS / COMPLETE — needs-review**;
+- canonical records: **20/25**;
+- verified records: **15/25**;
+- next: **T2 scans 39–43**.

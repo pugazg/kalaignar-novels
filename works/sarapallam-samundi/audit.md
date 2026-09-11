@@ -6,27 +6,30 @@
 |---|---|
 | Source intake | **COMPLETE** |
 | Component boundary | **PASS — scans 24–48** |
-| Canonical records | **15 / 25 — scans 24–38** |
+| Canonical records | **20 / 25 — scans 24–43** |
 | Verified records | **15 / 25 — scans 24–38** |
-| T1/T2/T3 scans 24–33 | **PASS / VERIFIED** |
-| T1/T2/T3 scans 34–38 | **PASS / VERIFIED** |
-| T3 scans 34–38 | **PASS / COMPLETE — 8 corrections / 0 unresolved** |
-| Historical-glyph final scans 34–38 | **5 corrections / 0 unresolved** |
-| Scans 39–48 | **NOT STARTED** |
+| T1/T2/T3 scans 24–38 | **PASS / VERIFIED** |
+| T1 scans 39–43 | **PASS / COMPLETE** |
+| T2 scans 39–43 | **NEXT** |
+| T3 scans 39–43 | **BLOCKED by T2** |
+| Scans 44–48 | **NOT STARTED** |
 | Downstream whole-work gates | **BLOCKED** |
 
 No source PDF is committed.
 
-## Third-batch T3 findings
+## Fourth-batch T1 findings
 
-The final source pass corrected **8 source-fidelity items** across scans 34–38:
+Scans **39–43 / printed pages 36–40** were visually transcribed once from direct source pixels. Five canonical records were created and remain needs-review.
 
-- scan 34: `போய் விட்டது` and restored `போதும்;”`;
-- scan 35: `நிறைவேற்றி விட்டான்`;
-- scan 38: `சொல்லுவது`, comma after `உரைகளைக் கேட்டு,`, `நடனச் சிற்பங்களை`, `இனியன்விட்டே`, and `அந்தப் பேறு`.
+Recorded physical continuities:
 
-T3 caught one additional historical-`ளை` identity on scan 38, raising final historical-glyph corrections for scans 34–38 from **4 to 5**. Unresolved historical glyphs: **0**. Unresolved source readings: **0**.
+- 38→39: தள்ளிப் போட்டுக்கொண்டே / போகிறது.;
+- 39→40: இவள் உதவியை நீ பெற்று அரசர் / பெருமானின் ஆசையை...;
+- 42→43: ...சிறகு / முளைத்துக் கிளம்பிவிட்டதா?;
+- scan43 final அவன் அன்றையதினம் continues beyond the batch.
+
+Source-sensitive visual readings including scan40 கிழ மட்டுமே, scan41 இளஞனும் / நீர்த்திவலை, and scan43 தீண்டாக்குவானேன் / பித்தனுக are queued for independent T2/T3 review.
 
 ## Exact next activity
 
-Run **T1 scans 39–43 only**; do not begin T2 or scan 44 in the same checkpoint.
+Run T2 for scans **39–43 only**; do not perform T3 or begin scan 44 in the same checkpoint.
