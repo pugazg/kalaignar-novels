@@ -5,9 +5,9 @@ section_order: 1
 section_title: "Sarapallam Samundi"
 language: "en"
 planned_source_scans: "24-48"
-translated_source_scans: "24-28"
+translated_source_scans: "24-33"
 status: "in-progress"
-batch_status: "Batch 1 scans 24-28 REVIEWED; Batches 2-5 not started"
+batch_status: "Batches 1-2 scans 24-33 REVIEWED; Batches 3-5 not started"
 derived_from: "audited Tamil pages/ records; assembled Tamil used for continuity"
 ---
 
@@ -57,4 +57,99 @@ How many, how many plans Rajaraja drew up to raise that temple! Were all his int
 
 The answer to that question is this story!
 
-The senior official in charge of carrying out the sacred work of the temple was Kandaradittan. Kandaradittan was the son of Madhurantaka Chola, Rajaraja's paternal uncle. One day, the king, Rajendra, and Rajaraja's elder sister Kundavai summoned Kandaradittan and
+The senior official in charge of carrying out the sacred work of the temple was Kandaradittan. Kandaradittan was the son of Madhurantaka Chola, Rajaraja's paternal uncle. One day, the king, Rajendra, and Rajaraja's elder sister Kundavai summoned Kandaradittan and<!-- source: scan 29; printed page: 26 --> began to deliberate seriously on how the temple should be laid out.
+
+Kundavai expressed the view that the temple should be given the name Rajarajeswaram.
+
+“The temple must have seven gateways. Fifteen statues of gatekeepers must be installed there,” said Rajendra.
+
+“Rajendra is always concerned only about security! Rajendra! Will statues protect the temple?” the king asked with a laugh.
+
+“I know that we have to protect the statues. Still, I only said they should be there for beauty,” replied the prince. His wish was accepted.
+
+“Could we not arrange the three entrances in the old manner, as the Torana Gateway, the Tirumaligai Gateway and the Tiru Anukkan Gateway?” Kandaradittan asked. The king nodded, “Yes.” Kundavai immediately interrupted: “No, no. Those gateway names must be changed. As a sign that Rajaraja is like Yama to the Keralas, the first tower gateway should be called Keralantakan Gateway, and the second tower gateway Rajarajan Tiruvasal,” she said. Rajaraja, who was not accustomed to speaking against his elder sister, remained quiet.
+
+“I am planning to make the vimana above the sanctum rise to a good height, with thirteen tower storeys,” said Kandaradittan, and everyone accepted the proposal with delight.
+
+“The stupi vessel to be placed at the summit of that vimana tower must be a copper vessel weighing three thousand palam. It must be covered with gold sheet weighing about three thousand kalanju.”
+
+When Rajaraja voiced this wish, Kundavai let a smile play across her face and gazed at her younger brother to her heart's content with eyes overflowing with affection.
+
+“Arrangements must be made to engrave inscriptions in the temple bearing accounts of the Chola Empire's glory and news of its victories,” said Kundavai.
+
+“Tell the sculptors to make it so wondrously that the shadow of the temple's vimana will<!-- source: scan 30; printed page: 27 --> not fall on the ground,” Rajendra declared enthusiastically.
+
+“The mention of sculptors reminded me—Kandaradittan! I have had a wish for a very long time! It must be fulfilled in that temple,” the king began excitedly. Everyone looked only at him.
+
+“There is that sacred tandava said to have been danced by the Lord....”
+
+Before he could finish, Rajendra interrupted:
+
+“Why, Father? Is only the Lord able to dance it? So many maidens dance it!”
+
+“Rajendra! Your mischief will never leave you! I look upon that tandava with an artist's appreciation. It is a sublime art! If your wife Panchavan Madevi were here now, she would have joined my side and attacked you!” said the king with affectionate anger.
+
+“Why not now? She has only gone to Mummudi Cholapuram. Shall I go and bring her back?”
+
+That was Rajendra's question.
+
+Kundavai, in the meantime, laughed and said:
+
+“No, no. She will be back tomorrow. Until then, postpone your argument!”
+
+“Aunt! You say I have no passion for art. Father! Do you believe that?”
+
+Rajendra asked Kundavai affectionately.
+
+“Che, che! Who said that? It has been brought to my notice many times that your wife Panchavan Madevi dances and you sing.”
+
+Rajendra lowered his head in embarrassment at Kundavai's teasing.
+
+“All right, all right! If you keep interrupting, I am going to forget what I came to say. Kandaradittan! Everyone knows that I have a deep interest in the Lord's seven kinds of dance! On the inner base row of the upper level of the temple we are going to build, arrangements must be made to carve the Lord's tandavas as sculptures. The one hundred and eight movement postures must be made into one hundred and eight sculptures. In every sculpture, the life and<!-- source: scan 31; printed page: 28 --> pulse of art must shine. No matter how much wealth it costs to create those sculptures. A highly skilled sculptor must be chosen at once. Fulfilling this wish of mine is your foremost responsibility.”
+
+Rajaraja spoke these words with great emotion. Seeing the immeasurable concern the king showed for creating the one hundred and eight works of sculpture, Kundavai and Rajendra looked at one another in amazement.
+
+After setting out many more definite plans for raising the temple, Kandaradittan took his leave, promising to begin the work. The king then summoned the commander Krishnan Raman, Mummudi Chola Brahmarayan, and entrusted to him the responsibility of building the sacred circumambulatory cloister for the temple.
+
+Kandaradittan and Brahmarayan threw themselves eagerly into the work, intent on completing Rajarajeswaram within four or five years. Skilled sculptors were brought in from all over the land. Stones were piled up like mountains. So that the temple's affairs might proceed without deficiency, the king granted thirty-five villages to the temple by inscription under the designation devadana villages. To ensure that the temple works proceeded without deficiency, four hundred deva women were settled to the north and south around the temple. Among those women were performers skilled in dance and song. For temple service, kotti-mattalam players, veena players, performers of moraviyam, vangiyam, paadaliyam and udukkai, those who sounded the muttirai conch, and players of parai instruments called uvachcha-parai, sakadai and karadikai were all brought in. Each was separately granted one veli of land as an endowment. Temple treasurers, accountants, lamp-lighters, garland-makers, guards, carpenters and workers called kannars were also appointed. Even before all the temple work was completed, the king had the materials needed for the temple gathered and saw that it was splendidly provided for.
+
+Every day, great numbers of people from many parts of the country gathered in Tanjavur to see the Chola Empire's victorious monument of art rising with its feet planted in the lap of Mother Tanjai. The Chola capital looked as though every day were a festival.
+
+<!-- source: scan 32; printed page: 29 -->
+
+Those who came to see that magnificent sight arrived and departed in wave after wave like the sea. Every day, people from new villages surrounded Tanjavur, watched the temple grow, and went away.
+
+Only one grey-haired old woman came without fail each day. At dusk she would stand a short distance from the place where the temple was being built and gaze at it without blinking. A few goats would stand around her. Later, when the hour had grown late, she would return with the goats.
+
+Though her hair had turned grey, she had combed it and tied it neatly. She must have been nearing seventy. Yet she did not need a staff to stand; one could tell at a glance that hers was a body hardened by work. A kind of blossoming would appear on her wrinkled face as she watched Rajarajeswaram rise little by little toward the sky. Even from a distance she could clearly see the work being carried out by the sculptors and the other workers. Some sculptors, who had noticed the old woman coming every day and watching the sacred work with great enthusiasm, approached her one day and began a conversation.
+
+She earned her living by raising goats. Her name was Azhagi. She lived in a tiny hamlet four kal from Tanjavur.
+
+The sculptors learned these details by asking her.
+
+“Why, Paatti, do you have so much interest at this age?”
+
+A young sculptor put the question with a slight barb.
+
+“This work being done by Emperor Rajaraja will keep the name of Tanjavur on people's lips for generation after generation. My only worry is how I can contribute my share to this work,” replied that ripe fruit with a deep sigh.
+
+“In this immense sacred work, where gold and wealth are being poured out in thousands and crores, what help can a goat-rearer like you give, Paatti?”
+
+another sculptor asked mockingly.
+
+The question stirred anger in old Azhagi.
+
+<!-- source: scan 33; printed page: 30 -->
+
+She mastered it and looked straight up at that sculptor. Ah! How sharp even those aged eyes were! He lowered his head and walked away in another direction.
+
+That struggle had been going on within her for many days. Her unquenchable desire was to contribute whatever share she could to that worthy work of historical importance. At this age, apart from grazing goats, what other hard work could she do? Could she carry stones for those building the enclosure wall? Did her body have enough strength to fetch water for mixing mortar and pour it out pot after pot? Even so, she had resolved that she must somehow make at least a small contribution of her own to the beauty and rise of Rajarajeswaram, which would stand touching the mansion of clouds and proclaim the valour, victories and wise deeds of Rajaraja, the red-rayed sun of the Chola Empire. What she could not decide at once was what form that help should take. After a day or two of deep thought, she called the sculptors working on the temple and announced her decision.
+
+It was this: every evening, after finishing their work, twenty sculptors were to accept the food she provided.
+
+The list would rotate, twenty people each day. She could not feed everyone at the same time. Understanding the old woman's feeling, heartfelt affection, attachment and love for Chola country, the sculptors agreed to her request.
+
+For the sculptors, an evening meal at the old woman's house became a celebration in itself. They noticed that the goats she raised were dwindling one by one. Only by selling them was she able to feast the sculptors.
+
+She did not appear to feel even the slightest concern that the goats were diminishing. One day, the sculptors praised old Azhagi's pure affection and sense of duty to Rajendra, who had come to inspect the temple works. The next night, a thousand goats were brought and left standing at the entrance to the old woman's house.
+

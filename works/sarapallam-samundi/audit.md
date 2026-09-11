@@ -12,8 +12,9 @@
 | Assembled Tamil | **PASS / COMPLETE — 1 / 1 section** |
 | English translation plan | **PASS / COMPLETE** |
 | English Batch 1 — scans 24–28 | **REVIEWED / COMPLETE** |
-| English Batch 2 — scans 29–33 | **NEXT** |
-| English coverage | **5 / 25 scans** |
+| English Batch 2 — scans 29–33 | **REVIEWED / COMPLETE** |
+| English Batch 3 — scans 34–38 | **NEXT** |
+| English coverage | **10 / 25 scans** |
 | Whole-work English | **IN PROGRESS / NOT VERIFIED** |
 
 No source PDF is committed.
@@ -55,6 +56,10 @@ Section 14 is **PASS / COMPLETE**. The working English title is **Sarapallam Sam
 
 Scans **24–28** passed draft translation and canonical-Tamil source check. Coverage/order, rhetoric and agency, recurring names/terms, the 24→25 and 25→26 continuities, the 26→27 split-word join, scan-28 illustration exclusion, and the incomplete 28→29 boundary all pass. Material omissions / source-like additions / unresolved items: **0 / 0 / 0**. Canonical Tamil changes: **0**.
 
+## English Batch 2 review
+
+Scans **29–33** passed draft translation and canonical-Tamil source check. The 28→29 completion, 29→30 and 30→31 joins, scan-29 corrected source form, temple terminology/measures, personnel list and Azhagi sequence all pass. Material omissions / source-like additions / unresolved items: **0 / 0 / 0**. Canonical Tamil changes: **0**.
+
 ## Exact next activity
 
-English Batch 2 — scans **29–33 only**. Whole-work English remains unverified.
+English Batch 3 — scans **34–38 only**. Whole-work English remains unverified.

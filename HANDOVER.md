@@ -25,9 +25,9 @@ TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2
 - unresolved source readings: **0**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - English translation plan: **PASS / COMPLETE**;
-- English coverage: **5 / 25 scans**;
-- English Batch 1 — scans **24–28: REVIEWED / COMPLETE**;
-- English Batch 2 — scans **29–33: NEXT**;
+- English coverage: **10 / 25 scans**;
+- English Batches 1–2 — scans **24–33: REVIEWED / COMPLETE**;
+- English Batch 3 — scans **34–38: NEXT**;
 - whole-work English: **IN PROGRESS / NOT VERIFIED**.
 
 Whole-work mapping and continuity passed, including scan28's unnumbered landscape illustration spread and scan48's narrative-ending / separately printed historical-note distinction.
@@ -46,6 +46,10 @@ Audit report: works/sarapallam-samundi/FULL_TAMIL_SOURCE_AUDIT.md.
 
 The pilot translation for scans **24–28** is **REVIEWED / COMPLETE**. `translations/en/README.md`, `PROGRESS.md`, `GLOSSARY.md`, `BATCH_01_REVIEW.md`, and the in-progress one-section English file are now established. Source-check found **0 material omissions, 0 source-like additions and 0 unresolved items**. The scan-28 illustration is excluded, and the 28→29 sentence is intentionally left open until Batch 2.
 
+## English Batch 2 closure
+
+Scans **29–33** are **REVIEWED / COMPLETE**. The prior 28→29 open sentence is closed using scan 29 only; verified joins and the scan-29 corrected reading are preserved; terminology decisions are locked in the glossary. Cumulative English coverage is **10/25 scans**, with **0 material omissions / 0 source-like additions / 0 unresolved items** through Batch 2.
+
 ## Exact next activity
 
-**English Batch 2 — scans 29–33 only.** Continue/source-check only that span, update the existing English controls, commit, and stop before Batch 3. Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.
+**English Batch 3 — scans 34–38 only.** Continue/source-check only that span, update controls, commit, and stop before Batch 4. Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.

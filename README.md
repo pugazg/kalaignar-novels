@@ -5,7 +5,7 @@
 ## Active source — அரும்பு 1978 compilation
 
 - அரும்பு — scans 6–23 — **RELEASE-READY / CLOSED**;
-- சாரப்பள்ளம் சாமுண்டி — scans 24–48 — **ACTIVE: English 5/25; Batch 1 REVIEWED; Batch 2 scans 29–33 NEXT**;
+- சாரப்பள்ளம் சாமுண்டி — scans 24–48 — **ACTIVE: English 10/25; Batches 1–2 REVIEWED; Batch 3 scans 34–38 NEXT**;
 - பெரிய இடத்துப் பெண் — scans 49–74 — additional 1978 witness;
 - நடுத்தெரு நாராயணி — scans 75–90 — queued.
 
@@ -18,13 +18,13 @@
 - residual: scan29 வாயாலிருந்துவிட்டான் → **வாளாயிருந்துவிட்டான்**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - English translation plan: **PASS / COMPLETE**;
-- English coverage: **5 / 25 scans**;
-- English Batch 1 — scans **24–28: REVIEWED / COMPLETE**;
-- English Batch 2 — scans **29–33: NEXT**;
+- English coverage: **10 / 25 scans**;
+- English Batches 1–2 — scans **24–33: REVIEWED / COMPLETE**;
+- English Batch 3 — scans **34–38: NEXT**;
 - whole-work English: **IN PROGRESS / NOT VERIFIED**;
 - source PDF remains excluded.
 
-Exact next action: **English Batch 2 for சாரப்பள்ளம் சாமுண்டி — scans 29–33 only**.
+Exact next action: **English Batch 3 for சாரப்பள்ளம் சாமுண்டி — scans 34–38 only**.
 
 ## Completed works
 

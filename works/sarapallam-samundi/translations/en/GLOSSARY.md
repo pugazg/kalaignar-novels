@@ -1,6 +1,6 @@
 # English Translation Glossary — சாரப்பள்ளம் சாமுண்டி
 
-Status: **IN PROGRESS — BATCH 1 DECISIONS SOURCE-CHECKED / LOCKED FOR CONTINUITY**.
+Status: **IN PROGRESS — BATCHES 1–2 DECISIONS SOURCE-CHECKED / LOCKED FOR CONTINUITY**.
 
 This file records source-bound translation decisions. Canonical Tamil remains authoritative. A locked English decision may be changed only through an explicit documented correction; it never silently alters Tamil.
 
@@ -62,3 +62,43 @@ This file records source-bound translation decisions. Canonical Tamil remains au
 - scan 28 ends with `குந்தவையாரும்` and continues into scan 29; Batch 1 English therefore ends with the incomplete conjunction **and**, without importing any scan 29 prose.
 
 Batch 1 source-check: **PASS / REVIEWED**.
+
+## Batch 2 terminology decisions
+
+| Tamil | English handling | State |
+|---|---|---|
+| `வாளாயிருந்துவிட்டான்` | **remained quiet** | **LOCKED** — source-corrected scan-29 reading; do not revive earlier `வாயாலிருந்துவிட்டான்` |
+| `தோரணவாயில்` | **Torana Gateway** | **LOCKED** |
+| `திருமாளிகை வாயில்` | **Tirumaligai Gateway** | **LOCKED** |
+| `திருஅணுக்கன் வாயில்` | **Tiru Anukkan Gateway** | **LOCKED** |
+| `கேரளாந்தகன் வாசல்` | **Keralantakan Gateway** | **LOCKED** |
+| `இராசராசன் திருவாசல்` | **Rajarajan Tiruvasal** | **LOCKED** |
+| `கார்ப்பக்கிரகம்` | **sanctum** | **LOCKED** contextual equivalent |
+| `விமானம்` | **vimana** | **LOCKED** |
+| `ஸ்தூபிக்குடம்` | **stupi vessel** | **LOCKED** conservative rendering |
+| `பலம் / கழஞ்சு / வேலி / கல்` | **palam / kalanju / veli / kal** | **LOCKED** — retain historical measures; no metric conversion |
+| `திருத்தாண்டவம்` | **sacred tandava** | **LOCKED** |
+| `ஆரணங்குகள்` | **maidens** | **LOCKED** in scan-30 dialogue |
+| `எழுவகை ஆடல்கள்` | **seven kinds of dance** | **LOCKED** |
+| `நூற்றெட்டு நடை நிலைகள்` | **one hundred and eight movement postures** | **LOCKED** |
+| `திருச்சுற்று மாளிகை` | **sacred circumambulatory cloister** | **LOCKED** |
+| `தேவதானச்சிற்றூர்கள்` | **devadana villages** | **LOCKED** |
+| `தேவ மாதர்கள்` | **deva women** | **LOCKED** — preserve source institutional term without added identification |
+| temple music terms `கொட்டி மத்தளம், மொராவியம், வங்கியம், பாடலியம், உடுக்கை, முத்திரைச் சங்கம், உவச்சப் பறை, சகடை, கரடிகை` | conservative transliteration in English | **LOCKED** |
+| `கன்னார்` | **workers called kannars** | **LOCKED** — source-bound occupational label; do not silently modernize |
+| `பாட்டி` in direct address | **Paatti** | **LOCKED** |
+| `பழுத்த பழம்` | **that ripe fruit** | **LOCKED** — preserve source's conspicuous age metaphor |
+| `அழகி` | **Azhagi** | **LOCKED** |
+| `தஞ்சை மாதா` | **Mother Tanjai** | **LOCKED** |
+| `முகில்மாடம்` | **mansion of clouds** | **LOCKED** source metaphor |
+
+## Batch 2 boundary decisions
+
+- scan 28→29: the already reviewed fragment ending `குந்தவையாரும்` is completed only with authorized scan-29 prose;
+- scan 29→30: `தரையில்` → `விழாதவாறு` is translated as one sentence: the vimana's shadow **will not fall on the ground**;
+- scan 30→31: `உயிர்ப்பும்` → `துடிப்பும்` is translated jointly as **the life and pulse of art**;
+- scan 31→32 is a complete source paragraph boundary;
+- scan 32→33 is a complete source paragraph boundary;
+- scan 33 ends cleanly; no scan-34 prose is imported.
+
+Batch 2 source-check: **PASS / REVIEWED**.

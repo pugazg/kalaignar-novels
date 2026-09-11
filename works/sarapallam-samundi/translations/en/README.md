@@ -1,6 +1,6 @@
 # English Translation — சாரப்பள்ளம் சாமுண்டி
 
-Status: **IN PROGRESS — BATCH 1 REVIEWED**.
+Status: **IN PROGRESS — BATCHES 1–2 REVIEWED**.
 
 Working English title: **Sarapallam Samundi**.
 
@@ -10,15 +10,16 @@ Canonical Tamil `../../pages/` remains final textual authority. PASSED assembled
 
 - Section 14 translation plan — **PASS / COMPLETE**;
 - Batch 1 pilot, scans **24–28** — **REVIEWED / COMPLETE**;
-- English coverage — **5 / 25 scans**;
-- Batches 2–5 — **NOT STARTED**;
+- Batch 2, scans **29–33** — **REVIEWED / COMPLETE**;
+- English coverage — **10 / 25 scans**;
+- Batches 3–5 — **NOT STARTED**;
 - whole-work bilingual review — **NOT STARTED**;
 - whole-work English — **NOT VERIFIED**;
 - canonical Tamil changes during English work — **0**;
-- unresolved Batch 1 translation items — **0**.
+- unresolved Batch 1–2 translation items — **0**.
 
-Scan 28 ends in the middle of a source sentence that continues into scan 29. The English section therefore deliberately ends Batch 1 with the corresponding incomplete clause. It will be completed only when authorized Batch 2 begins; no scan 29 prose is present yet.
+Batch 2 completes the verified scan 28→29 sentence, preserves the scan 29→30 shadow-sentence continuation and the scan 30→31 `உயிர்ப்பும்`→`துடிப்பும்` join, and introduces Azhagi without importing scan 34. Scan 28's illustration remains excluded from English prose.
 
-Scan 28's illustration is excluded from English prose exactly as required by the translation plan.
+Batch 2 source-check: **0 material omissions / 0 source-like additions / 0 unresolved items**.
 
-Next: **English Batch 2 — scans 29–33 only**.
+Next: **English Batch 3 — scans 34–38 only**.
