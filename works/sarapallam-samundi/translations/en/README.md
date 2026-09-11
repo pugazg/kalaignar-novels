@@ -1,6 +1,6 @@
 # English Translation — சாரப்பள்ளம் சாமுண்டி
 
-Status: **WHOLE-WORK ENGLISH VERIFIED — SECTION 16 PASS / COMPLETE**.
+Status: **RELEASE-READY / CLOSED — SECTION 17 PASS / COMPLETE**.
 
 Working English title: **Sarapallam Samundi**.
 
@@ -17,6 +17,8 @@ Canonical Tamil `../../pages/` remains final textual authority. PASSED assembled
 - English coverage — **25 / 25 scans**;
 - whole-work bilingual review — **PASS / COMPLETE**;
 - whole-work English — **VERIFIED**;
+- Section 17 release-readiness — **PASS / COMPLETE**;
+- archival/editorial verdict — **RELEASE-READY / CLOSED**;
 - canonical Tamil changes during English work — **0**;
 - unresolved Batches 1–5 translation items — **0**.
 
@@ -26,4 +28,6 @@ Batch 5 source-check: **0 material omissions / 0 source-like additions / 0 unres
 
 Section 16 whole-work bilingual review: **PASS / COMPLETE**. See `TRANSLATION_REVIEW.md`.
 
-Next: **Section 17 release-readiness gate**.
+Release report: `RELEASE_REPORT.md` — **PASS / COMPLETE**.
+
+No further mandatory processing remains for `சாரப்பள்ளம் சாமுண்டி` under the current workflow.

@@ -53,4 +53,4 @@ Whole-work audit-ல் உறுதிப்படுத்தப்பட்�
 
 **Assembled Tamil: PASS / COMPLETE — 1 / 1 section.**
 
-English translation plan is the next workflow gate; it was **not** created in this checkpoint.
+English translation, Section 16 whole-work bilingual review, and Section 17 release-readiness have since completed. Whole-work English is **VERIFIED** and the archival/editorial package is **RELEASE-READY / CLOSED**.

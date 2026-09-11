@@ -50,8 +50,9 @@ English translation plan: **PASS / COMPLETE**.
 English coverage: **25 / 25 scans** — scans **24–48 REVIEWED / COMPLETE**.  
 Section 16 whole-work bilingual review: **PASS / COMPLETE**.  
 Whole-work English: **VERIFIED**.  
-Section 17 release-readiness: **NEXT**.
+Section 17 release-readiness: **PASS / COMPLETE**.  
+Archival/editorial package: **RELEASE-READY / CLOSED**.
 
-## Exact next activity
+## Release state
 
-Section 17 release-readiness gate.
+`சாரப்பள்ளம் சாமுண்டி` is **RELEASE-READY / CLOSED** under the archival/editorial workflow.

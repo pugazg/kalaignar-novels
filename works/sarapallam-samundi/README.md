@@ -18,6 +18,8 @@
 - English Batches 1–5 — scans **24–48: REVIEWED / COMPLETE**;
 - Section 16 whole-work bilingual review: **PASS / COMPLETE**;
 - whole-work English: **VERIFIED**;
+- Section 17 release-readiness: **PASS / COMPLETE**;
+- archival/editorial package status: **RELEASE-READY / CLOSED**;
 
 ## Whole-work audit closure
 
@@ -61,6 +63,10 @@ Scans **44–48** are **REVIEWED / COMPLETE**. The 43→44, 44→45, 46→47 and
 
 `translations/en/TRANSLATION_REVIEW.md` is **PASS / COMPLETE**. Complete coverage/order, omission/addition, speaker/agency, recurring terminology, rhetoric, cross-page joins, protected source oddities, scan-28 illustration exclusion, scan-48 narrative/note separation and one-section identity all pass. Whole-work English is **VERIFIED**.
 
-## Exact next activity
+## Release-readiness closure
 
-**Section 17 release-readiness gate only.** Create `translations/en/RELEASE_REPORT.md`, perform the archival/editorial release-readiness checks, synchronize controls, commit, and stop.
+`translations/en/RELEASE_REPORT.md` is **PASS / COMPLETE**. Work/source identity, Tamil and English inventories, Tamil audit, bilingual review, reader navigation, authority hierarchy, structural identity, source oddities, zero canonical-Tamil mutation in the release pass, and source-PDF exclusion all pass.
+
+**Archival/editorial verdict: RELEASE-READY / CLOSED.**
+
+No further mandatory processing remains for `சாரப்பள்ளம் சாமுண்டி` under the current workflow.

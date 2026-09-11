@@ -15,13 +15,15 @@
 |---|---|---|
 | 1–5 | front matter | REGISTERED |
 | 6–23 | அரும்பு | **RELEASE-READY / CLOSED** |
-| 24–48 | சாரப்பள்ளம் சாமுண்டி | **ACTIVE — English 25/25 VERIFIED; Section 17 release-readiness NEXT** |
-| 49–74 | பெரிய இடத்துப் பெண் | ADDITIONAL SOURCE WITNESS REGISTERED |
+| 24–48 | சாரப்பள்ளம் சாமுண்டி | **RELEASE-READY / CLOSED** |
+| 49–74 | பெரிய இடத்துப் பெண் | **ADDITIONAL SOURCE WITNESS — COMPARISON NEXT** |
 | 75–90 | நடுத்தெரு நாராயணி | QUEUED |
 | 91–92 | publisher catalogue / back cover | REGISTERED |
 
 சாரப்பள்ளம் சாமுண்டி has **25/25 canonical and verified records**. The independent whole-work Tamil audit is **PASS / COMPLETE after 1 residual source correction** with **0 unresolved**. The assembled Tamil reading layer is **PASS / COMPLETE — 1 / 1 section**.
 
-English translation planning is **PASS / COMPLETE**. Batches 1–5, scans **24–48**, are **REVIEWED / COMPLETE**; Section 16 whole-work bilingual review is **PASS / COMPLETE**; whole-work English is **VERIFIED**.
+English translation planning is **PASS / COMPLETE**. Batches 1–5, scans **24–48**, are **REVIEWED / COMPLETE**; Section 16 whole-work bilingual review is **PASS / COMPLETE**; whole-work English is **VERIFIED**; Section 17 release-readiness is **PASS / COMPLETE**.
 
-Next: **Section 17 release-readiness gate**.
+`சாரப்பள்ளம் சாமுண்டி` archival/editorial package: **RELEASE-READY / CLOSED**.
+
+Next: **dedicated 1978 பெரிய இடத்துப் பெண் witness comparison for scans 49–74**.

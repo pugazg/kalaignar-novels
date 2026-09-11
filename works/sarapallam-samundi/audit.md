@@ -19,7 +19,8 @@
 | English coverage | **25 / 25 scans** |
 | Section 16 whole-work bilingual review | **PASS / COMPLETE** |
 | Whole-work English | **VERIFIED** |
-| Section 17 release-readiness | **NEXT** |
+| Section 17 release-readiness | **PASS / COMPLETE** |
+| Archival/editorial package | **RELEASE-READY / CLOSED** |
 
 No source PDF is committed.
 
@@ -80,6 +81,8 @@ Scans **44–48** passed draft translation and canonical-Tamil source check. The
 
 `translations/en/TRANSLATION_REVIEW.md` is **PASS / COMPLETE**. Coverage/order, duplicate-span, omission/addition, speaker attribution, agency, recurring names/terms, rhetoric, dance/temple terminology, cross-page joins, protected source oddities, scan-28 illustration exclusion, scan-48 source-note separation and one-section identity all pass. Whole-work English is **VERIFIED**.
 
-## Exact next activity
+## Section 17 release-readiness
 
-Section 17 release-readiness gate only. Whole-work English is already verified; release readiness remains a separate archival/editorial verdict.
+`translations/en/RELEASE_REPORT.md` is **PASS / COMPLETE**. Tamil/English inventories, navigation, authority hierarchy, structural identity, documented source oddities, zero canonical-Tamil mutation in the release pass, and source-PDF exclusion all pass.
+
+**Archival/editorial verdict: RELEASE-READY / CLOSED.**

@@ -15,6 +15,8 @@ Working English title: **Sarapallam Samundi**.
 - One-section English file: **VERIFIED**.
 - Whole-work bilingual review: **PASS / COMPLETE**.
 - Whole-work English: **VERIFIED**.
+- Section 17 release-readiness: **PASS / COMPLETE**.
+- Package status: **RELEASE-READY / CLOSED**.
 - Canonical Tamil changes: **0**.
 - Batches 1–5 material omissions / source-like additions / unresolved items: **0 / 0 / 0**.
 
@@ -22,4 +24,4 @@ Batches 1–4 remain reviewed. Batch 5 source-check passed against scans 44–48
 
 **Section 16: PASS / COMPLETE. Whole-work English: VERIFIED.**
 
-**Next: Section 17 release-readiness gate.**
+**Section 17: PASS / COMPLETE. Package: RELEASE-READY / CLOSED.**
