@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 போகிறது. அதை நினைத்து ஏங்கிக்கொண்டிருந்த இனியனின் காதில் “தம்பீ!” என்று யாரோ அழைக்கும் ஒலி கேட்டது. திடுக்கிட்டுத் திரும்பிப் பார்த்தான். கிழவி அழகி அவனருகே வந்தாள். அவளைப் பார்த்த இனியனின் கண்கள் அவளுக்குப் பின்னால் நின்ற அழகிய பெண்மீது பாய்ந்தன.
@@ -54,3 +54,12 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - final fragment இவள் உதவியை நீ பெற்று அரசர் continues to scan 40;
 - first-pass source-sensitive forms and spacing are intentionally preserved for T2/T3;
 - page remains needs-review.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read against direct source pixels;
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative sensitive forms including `ஆலிலை`, `நூலிழை`, `அவளைப்` and `அவளுக்குப்` were rechecked at character-identity level;
+- no T1 character-identity correction was required;
+- unresolved historical glyphs: **0**;
+- page remains `needs-review` pending T3.

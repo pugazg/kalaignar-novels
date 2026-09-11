@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 பெருமானின் ஆசையை விரைவில் நிறைவேற்ற முடியுமா - என்று சொல்லு!”
@@ -36,3 +36,13 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - page closes a complete sentence;
 - no T2 historical-glyph re-read was folded into this checkpoint;
 - page remains needs-review.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read against direct source pixels;
+- explicitly checked the full known historical-glyph family set;
+- source-sensitive `ஆடு வளர்க்கும் கிழ மட்டுமே பயின்ற அழகியின் திருமகள்` was re-read and retained exactly as printed; no contextual completion was inserted;
+- representative `லை / ளை / றா / னா / னை` family occurrences were checked throughout the page;
+- no T1 character-identity correction was required;
+- unresolved historical glyphs: **0**;
+- page remains `needs-review` pending T3.

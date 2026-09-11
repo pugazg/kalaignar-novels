@@ -12,23 +12,19 @@
 - verified records: **15 / 25 — scans 24–38**;
 - scans 24–38: **T1+T2+T3 PASS / VERIFIED**;
 - scans 39–43 T1: **PASS / COMPLETE**;
-- scans 39–43 T2: **NEXT**;
-- scans 39–43 T3: **BLOCKED by T2**;
+- scans 39–43 T2: **PASS / COMPLETE — 2 corrections / 0 unresolved historical glyphs**;
+- scans 39–43 T3: **NEXT**;
 - scans 44–48: **NOT STARTED**.
 
-## Fourth-batch T1
+## Fourth-batch T2
 
-Physical scans **39–43** were directly visually transcribed as printed pages **36–40**. All five new records remain needs-review pending independent T2 historical-glyph review and T3 final source-fidelity closure.
+Direct source-pixel re-read corrected two historical character identities:
 
-Important continuity:
+- scan 41 `இளஞனும்` → **`இளைஞனும்`**;
+- scan 43 `பித்தனுக` → **`பித்தனாக`**.
 
-- 38→39: தள்ளிப் போட்டுக்கொண்டே / போகிறது.;
-- 39→40: இவள் உதவியை நீ பெற்று அரசர் / பெருமானின் ஆசையை...;
-- 42→43: ...சிறகு / முளைத்துக் கிளம்பிவிட்டதா?;
-- scan 43 ends அவன் அன்றையதினம் and continues beyond the batch.
-
-Source-sensitive first-pass readings were retained rather than inferred from context.
+The source-sensitive forms `கிழ மட்டுமே`, `நீர்த்திவலை`, and `தீண்டாக்குவானேன்` were independently rechecked and retained as printed. All five records remain `needs-review` pending T3.
 
 ## Exact next activity
 
-Execute **T2 independent historical-glyph / character-identity re-read for scans 39–43 only**, synchronize controls, commit, and stop before T3 or scan 44.
+Execute **T3 final source-fidelity closure for scans 39–43 only**, synchronize controls, commit, and stop before scan 44.

@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 “கேட்க வேண்டுமா என்ன? அவளால் கலை பிழைக்கப் போகிறது! அவளால் கலை வாழப் போகிறது! அவளால் கலை வளமுறப் போகிறது!” என்று பேரானந்தத்தில் பிதற்றத் தொடங்கினான் அந்த வாலிபச் சிற்பி.
@@ -27,3 +27,12 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - source-period spacing such as சிற்பங்களை யல்லவா is retained;
 - complete printed text was transcribed directly from the source scan;
 - T2/T3 pending; page remains needs-review.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read against direct source pixels;
+- explicitly checked the full known historical-glyph family set;
+- representative source forms including `அவளை`, `சேலைத்`, `அவளைக்` and `காணவில்லையென்றதும்` were rechecked at character-identity level;
+- no T1 character-identity correction was required;
+- unresolved historical glyphs: **0**;
+- page remains `needs-review` pending T3.
