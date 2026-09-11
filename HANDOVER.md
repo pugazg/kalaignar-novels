@@ -6,49 +6,50 @@
 - Branch: `main`
 - **Live `main` is authoritative.**
 - Active source: **1978 `அரும்பு` four-story compilation**.
-- Active work: `works/arumbu/`.
+- Active work: **`works/sarapallam-samundi/`**.
+- `works/arumbu/` is **RELEASE-READY / CLOSED**.
 - `works/vellikkizhamai/` remains RELEASE-READY / CLOSED.
 
-## Source
+## Controlling compilation source
 
-`TVA_BOK_0064361_அரும்பு.pdf` — SHA-256 `04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc`, **117,270,339 bytes**, **92 scans**, image-only, தமிழ்க்கனி பதிப்பகம், முதற் பதிப்பு 1978. **DO NOT COMMIT source PDF.**
+`TVA_BOK_0064361_அரும்பு.pdf`
 
-## Component map
+- SHA-256: `04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc`
+- size: **117,270,339 bytes**
+- physical scans: **92**
+- image-only
+- publisher: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**
+- edition: **முதற் பதிப்பு — 1978**
+- source PDF: **DO NOT COMMIT**.
 
-1. `அரும்பு` scans **6–23** — **TAMIL / ASSEMBLED TAMIL PASSED; ENGLISH VERIFIED AFTER CORRECTIVE RE-OPEN; SECTION 17 RERUN NEXT**.
-2. `சாரப்பள்ளம் சாமுண்டி` scans **24–48** — queued.
-3. `பெரிய இடத்துப் பெண்` scans **49–74** — additional 1978 witness only.
-4. `நடுத்தெரு நாராயணி` scans **75–90** — queued.
+## Component state
 
-## Durable `அரும்பு` state
+1. `அரும்பு` scans 6–23 — **RELEASE-READY / CLOSED**.
+2. `சாரப்பள்ளம் சாமுண்டி` scans 24–48 — **ACTIVE NEXT; T1 scans 24–28**.
+3. `பெரிய இடத்துப் பெண்` scans 49–74 — additional 1978 witness only; do not replace its existing controlling edition.
+4. `நடுத்தெரு நாராயணி` scans 75–90 — queued.
 
-- canonical Tamil: **18/18 VERIFIED**;
-- T1/T2/T3: **PASS / COMPLETE**;
-- T2 corrections **6**, unresolved historical glyphs **0**;
-- T3 corrections **36**, unresolved source readings **0**;
-- whole-work Tamil audit: **PASS / COMPLETE**;
-- assembled Tamil: **1/1 PASS**;
-- English Batches 1–4: **4/4 REVIEWED**;
-- English coverage: **18/18 scans**;
-- Section 16: **PASS / COMPLETE after scan-17 corrective re-open**;
-- whole-work English: **VERIFIED**;
-- total Section-16 English-only corrections: **4**;
-- unresolved translation items: **0**;
-- canonical Tamil changes during corrective re-open: **0**;
-- Section 17: **RERUN NEXT**.
+## Closed `அரும்பு` result
 
-## Corrective finding resolved
+- canonical Tamil **18/18 VERIFIED**;
+- assembled Tamil **1/1 PASS**;
+- English **18/18 scans / VERIFIED**;
+- Section 16 **PASS**, including scan-17 corrective re-open;
+- Section 17 rerun **PASS / COMPLETE**;
+- final archival/editorial verdict **RELEASE-READY**;
+- source PDF excluded.
 
-The failed Section 17 preflight found canonical `எனக்குப் பொய் அம்மா வேணும்!` had been rendered with an inserted English negative. It is now source-faithfully preserved as:
+## Active `சாரப்பள்ளம் சாமுண்டி` state
 
-**“I want a fake Amma! It's my real Amma I want!”**
-
-Direct source pixels and canonical scan 17 support affirmative `வேணும்`. The full scan-17 paragraph plus 16→17 / 17→18 joins passed corrective recheck. `TRANSLATION_REVIEW.md` and `GLOSSARY.md` record the decision.
-
-Previously protected oddities remain: **I spoke / Ammanar / from now on:...... / no The End**.
+- work span: **scans 24–48 / 25 scans**;
+- scan 24 visibly opens title `சாரப்பள்ளம் சாமுண்டி`;
+- scan 24 printed number: not visibly recorded;
+- scan 25 prints **21**; scan 48 prints **45**;
+- canonical records: **0/25**;
+- T1/T2/T3: **NOT STARTED**.
 
 ## Exact next activity
 
-Rerun **Section 17 release-readiness for `அரும்பு` only**. Read Section 17 of `NOVEL_PROCESSING_GUIDE.md`, `RELEASE_REPORT.md`, corrected English and synchronized controls; verify inventories/navigation/authority/structure/source oddities/canonical-Tamil immutability/source-PDF exclusion; issue final archival/editorial verdict; commit and stop.
+Execute **T1 direct transcription for scans 24–28 only** under `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`. Create/complete five canonical page records, synchronize affected controls, commit, and stop before T2.
 
-Do **not** start `சாரப்பள்ளம் சாமுண்டி` or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in that checkpoint.
+Do not begin scans 29+ or any `பெரிய இடத்துப் பெண்` witness comparison in that checkpoint.

@@ -1,6 +1,6 @@
-# Next Chat Prompt — அரும்பு / Section 17 release-readiness rerun
+# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / T1 scans 24–28
 
-Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections/arumbu-1978/`, active work `works/arumbu/`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/sarapallam-samundi/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Controlling source
 
@@ -14,65 +14,54 @@ Continue in `pugazg/kalaignar-novels`, branch `main`, active source `collections
 - முதற் பதிப்பு 1978
 - source PDF must **not** be committed.
 
-## Durable state
+## Closed preceding component
 
-- `அரும்பு` scans **6–23**;
-- canonical Tamil **18/18 VERIFIED**;
-- T1/T2/T3 and whole-work Tamil audit **PASS / COMPLETE**;
-- assembled Tamil **1/1 PASS**;
-- English Batches 1–4 **REVIEWED / COMPLETE**;
-- English coverage **18/18 scans**;
-- Section 16 whole-work bilingual review **PASS / COMPLETE after scan-17 corrective re-open**;
-- whole-work English **VERIFIED**;
-- total Section-16 English-only corrections **4**;
-- unresolved translation items **0**;
-- canonical Tamil changes during corrective re-open **0**;
-- previous Section 17 verdict **NOT READY**, but its sole fidelity blocker is now **RESOLVED**;
-- formal Section 17 rerun **NEXT**.
+`works/arumbu/` scans 6–23 is **RELEASE-READY / CLOSED**. Do not reopen it without genuinely new source evidence.
 
-## Corrective source decision
+## Active component
 
-Canonical/source scan 17 reads:
+`சாரப்பள்ளம் சாமுண்டி`:
 
-`“எனக்குப் பொய் அம்மா வேணும்! நிஜ அம்மாதான் வேணும்!”`
-
-The earlier English inserted `don't`. The corrected verified English is:
-
-**“I want a fake Amma! It's my real Amma I want!”**
-
-This intentionally preserves affirmative `வேணும்` rather than context-normalizing it to an unprinted negative. The full scan-17 paragraph and 16→17 / 17→18 joins were rechecked.
+- physical scans **24–48** — **25 scans**;
+- scan 24 visibly opens title `சாரப்பள்ளம் சாமுண்டி`;
+- scan 24 printed number is not visibly recorded;
+- scan 25 visibly prints **21**;
+- scan 48 visibly prints **45**;
+- canonical records **0/25**;
+- T1/T2/T3 **NOT STARTED**.
 
 ## Mandatory startup
 
-Read:
+Read completely before source-dependent work:
 
-1. `NOVEL_PROCESSING_GUIDE.md`, especially Section 17;
-2. `HANDOVER.md`;
-3. `works/arumbu/README.md`;
-4. `works/arumbu/audit.md`;
-5. `works/arumbu/indexes/page-map.md`;
-6. `works/arumbu/sections/README.md`;
-7. `works/arumbu/translations/en/README.md`;
-8. `works/arumbu/translations/en/PROGRESS.md`;
-9. `works/arumbu/translations/en/GLOSSARY.md`;
-10. `works/arumbu/translations/en/TRANSLATION_REVIEW.md`;
-11. `works/arumbu/translations/en/RELEASE_REPORT.md`;
-12. corrected `works/arumbu/translations/en/sections/01-arumbu.md`.
+1. `NOVEL_PROCESSING_GUIDE.md`;
+2. `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`;
+3. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+4. root `HANDOVER.md`;
+5. this `NEXT_NOVEL_CHAT_PROMPT.md`;
+6. `collections/arumbu-1978/README.md`;
+7. `collections/arumbu-1978/indexes/work-map.md`;
+8. `works/sarapallam-samundi/README.md`;
+9. `works/sarapallam-samundi/metadata/source.md`;
+10. `works/sarapallam-samundi/indexes/page-map.md`.
 
-## Exact next activity — Section 17 rerun only
+Use the controlling source pixels directly. If continuing in a fresh chat, attach the same controlling PDF before visual transcription.
 
-Re-run release-readiness and verify:
+## Exact next activity — T1 only
 
-- work/source-edition identity;
-- Tamil canonical inventory **18/18** and assembled Tamil **1/1**;
-- English section inventory and corrected Section 16 VERIFIED state;
-- reader-facing navigation and control consistency;
-- authority hierarchy and one-work/one-section identity;
-- source pagination anomaly and protected oddities;
-- canonical Tamil remains unchanged;
-- source PDF remains uncommitted;
-- any non-blocking editorial limitations.
+Process **physical scans 24–28 as one five-scan T1 batch**:
 
-If all checks pass, update `RELEASE_REPORT.md` to **RELEASE-READY** (archival/editorial), synchronize work/collection/root controls, commit, and stop.
+- visually read each whole source page once;
+- create one canonical `pages/` record per physical scan;
+- preserve only visibly printed `printed_page` values;
+- preserve title treatments, illustrations and non-body marks separately;
+- transcribe complete printed Tamil directly from source;
+- preserve source spelling, punctuation, dialogue, paragraph structure and page-boundary fragments;
+- do not use OCR or contextual expectation as authority;
+- do **not** perform independent historical-glyph T2 in this checkpoint;
+- leave records `needs-review` pending T2/T3;
+- create a T1 batch record if consistent with current work convention;
+- synchronize work/page-map/audit/root handover/next prompt/root README;
+- commit and stop.
 
-Do **not** start `சாரப்பள்ளம் சாமுண்டி` or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.
+Do not begin T2, scans 29+, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.

@@ -128,4 +128,4 @@ The previous Section 17 NOT READY report remains a truthful record of the failed
 - whole-work English: **VERIFIED**;
 - canonical Tamil changed during Section 16: **No**.
 
-The next separate checkpoint is a **rerun of Section 17 release-readiness** using the corrected English. Do not conflate the bilingual-review or eventual release-ready verdict with copyright/licensing/public-domain status.
+A subsequent independent **Section 17 release-readiness rerun PASSED** after this corrective review. `RELEASE_REPORT.md` records the final **RELEASE-READY** archival/editorial verdict. This does not determine copyright, licensing, public-domain status or republication rights.

@@ -1,42 +1,34 @@
 # Audit — அரும்பு
 
-## Gate state
+## Final gate state
 
 | Stage | Status |
 |---|---|
 | Collection/source intake | **PASS / COMPLETE** |
 | Work identity / scan boundary | **PASS — scans 6–23** |
-| Page-level Tamil transcription | **COMPLETE — 18 / 18 canonical records** |
-| All T1/T2/T3 source batches | **PASS / COMPLETE — VERIFIED** |
+| Canonical Tamil | **18 / 18 VERIFIED** |
+| T1/T2/T3 source gates | **PASS / COMPLETE** |
 | Historical-glyph unresolved items | **0** |
 | Source-fidelity unresolved items | **0** |
 | Whole-work Tamil audit | **PASS / COMPLETE** |
 | Assembled Tamil | **PASS / COMPLETE — 1 / 1 section** |
 | English Batches 1–4 | **4 / 4 REVIEWED / COMPLETE** |
-| English coverage | **18 / 18 scans — scans 6–23** |
-| Section 16 whole-work bilingual review | **PASS / COMPLETE after corrective re-open** |
+| Section 16 bilingual review | **PASS / COMPLETE after corrective re-open** |
 | Whole-work English | **VERIFIED** |
 | Unresolved translation items | **0** |
-| Section 17 release-readiness | **RERUN NEXT — prior NOT READY blocker resolved** |
+| Section 17 release-readiness rerun | **PASS / COMPLETE** |
+| Final archival/editorial status | **RELEASE-READY** |
 
 No source PDF is committed.
 
-## Corrective bilingual finding
+## Corrective history
 
-Section 17 preflight caught one mismatch missed by the original Section 16 review:
+The first Section 17 attempt found one English-only mismatch at scan 17: source affirmative `வேணும்` had been rendered with an inserted negative. The narrow Section 16 corrective re-open changed it to **“I want a fake Amma! It's my real Amma I want!”**, rechecked the full paragraph and 16→17 / 17→18 joins, and restored whole-work English VERIFIED.
 
-- canonical scan 17: `எனக்குப் பொய் அம்மா வேணும்! நிஜ அம்மாதான் வேணும்!`;
-- pre-correction English: `I don't want a fake Amma! I want my real Amma!`;
-- corrected English: **`I want a fake Amma! It's my real Amma I want!`**.
+Total Section-16 English-only corrections: **4**. Canonical Tamil changes: **0**.
 
-The affirmative `வேணும்` is source-confirmed. The correction removes the English-only negative and deliberately preserves the source strangeness. The complete affected scan-17 paragraph and 16→17 / 17→18 joins were rechecked with **0 further mismatch**.
+## Release rerun
 
-Total Section-16 English-only corrections: **4**. Canonical Tamil changed: **No**.
+Release inventory, navigation, authority hierarchy, one-work/one-section identity, source oddities, canonical-Tamil immutability and source-PDF exclusion all pass. No unresolved archival/editorial blocker remains.
 
-## Remaining release state
-
-The previous `translations/en/RELEASE_REPORT.md` verdict remains historically **NOT READY** because that gate failed before this correction. Its sole fidelity blocker is now resolved. A fresh Section 17 rerun is required before release-ready can be asserted.
-
-## Exact next activity
-
-Rerun Section 17 release-readiness, synchronize the resulting verdict, commit, and stop before another component.
+**அரும்பு — RELEASE-READY / CLOSED.**

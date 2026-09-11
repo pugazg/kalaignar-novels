@@ -14,37 +14,22 @@
 
 ## Active source — `அரும்பு` 1978 compilation
 
-[`collections/arumbu-1978/`](collections/arumbu-1978/README.md) is a **92-scan first-edition 1978 compilation containing four distinct Kalaignar stories**.
-
-- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **TAMIL / ASSEMBLED TAMIL PASSED; ENGLISH VERIFIED AFTER SCAN-17 CORRECTIVE RE-OPEN; SECTION 17 RERUN NEXT**;
-- [`சாரப்பள்ளம் சாமுண்டி`](works/sarapallam-samundi/README.md) — scans 24–48 — queued;
+- [`அரும்பு`](works/arumbu/README.md) — scans 6–23 — **RELEASE-READY / CLOSED**;
+- [`சாரப்பள்ளம் சாமுண்டி`](works/sarapallam-samundi/README.md) — scans 24–48 — **ACTIVE NEXT — T1 scans 24–28**;
 - [`பெரிய இடத்துப் பெண்`](works/periya-idathup-pen/README.md) — scans 49–74 — additional 1978 witness;
 - [`நடுத்தெரு நாராயணி`](works/nadutheru-narayani/README.md) — scans 75–90 — queued.
 
-### Current `அரும்பு` state
+### Newly completed — அரும்பு
 
-- canonical Tamil **18/18 VERIFIED**;
-- Tamil T1/T2/T3 and whole-work audit **PASS**;
-- assembled Tamil **1/1 PASS**;
-- English **18/18 scans**, Section 16 **PASS / VERIFIED** after corrective re-open;
-- total Section-16 English-only corrections **4**;
-- unresolved translation items **0**;
-- canonical Tamil corrective changes **0**;
-- previous Section 17 NOT READY blocker **resolved**;
-- Section 17 formal rerun **NEXT**.
+`அரும்பு` has canonical Tamil **18/18 VERIFIED**, assembled Tamil **1/1 PASS**, whole-work English **VERIFIED**, and Section 17 **PASS / RELEASE-READY** after the documented scan-17 corrective re-open.
 
-The corrected scan-17 English now preserves source affirmative `எனக்குப் பொய் அம்மா வேணும்!` as **“I want a fake Amma!”** rather than inserting an unprinted negative.
-
-Exact next action: **rerun Section 17 release-readiness for `அரும்பு` only**. Stop before another component.
-
-## Latest completed work — வெள்ளிக்கிழமை
-
-[`works/vellikkizhamai/`](works/vellikkizhamai/README.md) — 1968 second edition, **179 / 179 canonical Tamil VERIFIED**, assembled Tamil **23 / 23 PASSED**, English **23 / 23 REVIEWED**, final bilingual review **PASSED**, whole-work English **VERIFIED**, Section 17 release-readiness **PASSED**.
+Exact next action: **`சாரப்பள்ளம் சாமுண்டி` T1 scans 24–28 only**.
 
 ## Completed works
 
 | நூல் | நிலை |
 |---|---|
+| [அரும்பு](works/arumbu/README.md) | Tamil 18/18 VERIFIED; assembled Tamil PASS; English VERIFIED; **release-ready** |
 | [வெள்ளிக்கிழமை](works/vellikkizhamai/README.md) | Tamil 179/179 verified; assembled Tamil 23/23 PASSED; English VERIFIED; **release-ready** |
 | [பெரிய இடத்துப் பெண்](works/periya-idathup-pen/README.md) | 1953 controlling edition; English VERIFIED; release-ready with qualification; 1978 additional witness registered |
 | புதையல் | canonical 448; 446 complete / 2 physical-loss needs-review; English VERIFIED; release-ready with qualification |

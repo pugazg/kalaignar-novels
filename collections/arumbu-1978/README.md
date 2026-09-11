@@ -16,16 +16,16 @@
 | Scans | Component | State |
 |---|---|---|
 | 1–5 | front matter | REGISTERED |
-| 6–23 | `அரும்பு` | **TAMIL/ASSEMBLED TAMIL PASSED; ENGLISH VERIFIED AFTER CORRECTIVE RE-OPEN; SECTION 17 RERUN NEXT** |
-| 24–48 | `சாரப்பள்ளம் சாமுண்டி` | INTAKE COMPLETE / QUEUED |
+| 6–23 | `அரும்பு` | **RELEASE-READY / CLOSED** |
+| 24–48 | `சாரப்பள்ளம் சாமுண்டி` | **ACTIVE NEXT — T1 scans 24–28** |
 | 49–74 | `பெரிய இடத்துப் பெண்` | ADDITIONAL SOURCE WITNESS REGISTERED |
 | 75–90 | `நடுத்தெரு நாராயணி` | INTAKE COMPLETE / QUEUED |
 | 91–92 | publisher catalogue / back cover | REGISTERED |
 
-For `அரும்பு`, canonical Tamil is **18/18 VERIFIED**, assembled Tamil **PASS**, English covers **18/18 scans**, and Section 16 is **PASS / COMPLETE** after a narrow scan-17 corrective re-open. The previous Section 17 NOT READY blocker has been corrected but release-readiness must be rerun separately.
+`அரும்பு` completed Tamil, assembled Tamil, English, bilingual review and Section 17 release-readiness. Its final archival/editorial verdict is **RELEASE-READY**.
 
-The printed 8→10 page-number jump remains source-visible without inventing page 9. Source PDF remains excluded.
+The controlling PDF remains excluded from the repository.
 
 ## Exact next activity
 
-Rerun Section 17 release-readiness for `works/arumbu/` only. Stop before starting another component.
+Begin `சாரப்பள்ளம் சாமுண்டி` with **T1 direct transcription for physical scans 24–28 only**, synchronize controls, commit, and stop before T2.
