@@ -1,6 +1,6 @@
 # English Translation — சாரப்பள்ளம் சாமுண்டி
 
-Status: **IN PROGRESS — BATCHES 1–2 REVIEWED**.
+Status: **IN PROGRESS — BATCHES 1–3 REVIEWED**.
 
 Working English title: **Sarapallam Samundi**.
 
@@ -11,15 +11,16 @@ Canonical Tamil `../../pages/` remains final textual authority. PASSED assembled
 - Section 14 translation plan — **PASS / COMPLETE**;
 - Batch 1 pilot, scans **24–28** — **REVIEWED / COMPLETE**;
 - Batch 2, scans **29–33** — **REVIEWED / COMPLETE**;
-- English coverage — **10 / 25 scans**;
-- Batches 3–5 — **NOT STARTED**;
+- Batch 3, scans **34–38** — **REVIEWED / COMPLETE**;
+- English coverage — **15 / 25 scans**;
+- Batches 4–5 — **NOT STARTED**;
 - whole-work bilingual review — **NOT STARTED**;
 - whole-work English — **NOT VERIFIED**;
 - canonical Tamil changes during English work — **0**;
-- unresolved Batch 1–2 translation items — **0**.
+- unresolved Batches 1–3 translation items — **0**.
 
-Batch 2 completes the verified scan 28→29 sentence, preserves the scan 29→30 shadow-sentence continuation and the scan 30→31 `உயிர்ப்பும்`→`துடிப்பும்` join, and introduces Azhagi without importing scan 34. Scan 28's illustration remains excluded from English prose.
+Batch 3 covers Azhagi's audience with Rajaraja, the Sarapallam ramp/stone episode, the delayed 108 tandava sculptures, Iniyan's introduction, the failed dancer search, Rajaraja's outburst and Iniyan's waiting. The scan 35→36 split `தாண்`+`டவ` and scan 36→37 continuation are preserved. Scan 38 ends mid-sentence and the English deliberately remains open; no scan 39 prose is present.
 
-Batch 2 source-check: **0 material omissions / 0 source-like additions / 0 unresolved items**.
+Batch 3 source-check: **0 material omissions / 0 source-like additions / 0 unresolved items**.
 
-Next: **English Batch 3 — scans 34–38 only**.
+Next: **English Batch 4 — scans 39–43 only**.

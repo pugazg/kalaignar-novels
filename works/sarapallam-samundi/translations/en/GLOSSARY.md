@@ -1,6 +1,6 @@
 # English Translation Glossary — சாரப்பள்ளம் சாமுண்டி
 
-Status: **IN PROGRESS — BATCHES 1–2 DECISIONS SOURCE-CHECKED / LOCKED FOR CONTINUITY**.
+Status: **IN PROGRESS — BATCHES 1–3 DECISIONS SOURCE-CHECKED / LOCKED FOR CONTINUITY**.
 
 This file records source-bound translation decisions. Canonical Tamil remains authoritative. A locked English decision may be changed only through an explicit documented correction; it never silently alters Tamil.
 
@@ -102,3 +102,38 @@ Batch 1 source-check: **PASS / REVIEWED**.
 - scan 33 ends cleanly; no scan-34 prose is imported.
 
 Batch 2 source-check: **PASS / REVIEWED**.
+
+
+## Batch 3 terminology and protected-source decisions
+
+| Tamil | English handling | State |
+|---|---|---|
+| `லீலா விநோதம்` | **the Lord's wondrous play** | **LOCKED** contextual religious rendering |
+| scan 34 `நிழலில் தானம்மா` | **I am standing here only in your shade, Mother** | **LOCKED** — source oddity preserved/documented, not silently rewritten in Tamil |
+| scan 34 `மன்னர் மன்னு` | **O king of kings!** | **LOCKED** contextual vocative; exact unusual Tamil form remains protected |
+| `சாரம்` | **ramp** | **LOCKED** from the source's rolling-stone construction context |
+| `சாரப்பள்ளம்` | **Sarapallam** | **LOCKED** |
+| `அழகிக்குளம்` | **Azhagi Kulam** | **LOCKED** |
+| scan 35→36 `தாண்` + `டவ` | **tandava** | **LOCKED** — source split preserved by provenance marker inside transliteration |
+| scan 36 `தொடங்கப் பெறுமைக்கு` | **for the sculptural work still not having begun** | **LOCKED contextual rendering** — exact source oddity remains documented |
+| `இனியன்` | **Iniyan** | **LOCKED** |
+| `மாமல்லபுரம்` | **Mamallapuram** | **LOCKED** |
+| `பாவம் பிடித்துக் காட்ட` | **demonstrate the required bhava** | **LOCKED**; retain `bhava` as technical dance term |
+| `நக்கன் ராசராச கேசரி` | **Nakkan Rajaraja Kesari** | **LOCKED** |
+| `நக்கன் சோழகுல சுந்தரி` | **Nakkan Chola Kula Sundari** | **LOCKED** |
+| `அகோர / ஆனந்த / அற்புத / திரிபுர தாண்டவம்` | **Aghora / Ananda / Arpuda / Tripura Tandava** | **LOCKED** |
+| `மகேந்திர மலை` | **Mahendra Mountain** | **LOCKED** |
+| `வெறிக்கூத்து` | **a frenzy** | **LOCKED** in Rajaraja's rhetorical contrast with valour |
+| `ஊமையாய் ஆமையாய்` | **mute and withdrawn like turtles** | **LOCKED** — preserve conspicuous source comparison |
+| `ஒரே கல்லில் செதுக்கப்பட்ட பெரிய நந்தி` | **the great Nandi statue carved from a single stone** | **LOCKED** |
+| scan 38 `தள்ளிப் போட்டுக்கொண்டே` | English left **open at batch boundary** | **LOCKED** — finite continuation `போகிறது` belongs to scan 39 and is not imported |
+
+## Batch 3 boundary decisions
+
+- scan 34 begins a fresh source paragraph after scan 33;
+- scan 35→36 splits the Tamil word `தாண்` + `டவ`; English `tandava` carries the source marker inside the transliterated word;
+- scan 36→37 continues the sculptor's sentence: the dancer must demonstrate the required `bhava` appropriate to the tandava posture;
+- scan 37→38 is a complete rhetorical paragraph boundary;
+- scan 38 ends mid-sentence at `தள்ளிப் போட்டுக்கொண்டே`; English ends with a corresponding open clause and does not translate scan-39 `போகிறது`.
+
+Batch 3 source-check: **PASS / REVIEWED**.

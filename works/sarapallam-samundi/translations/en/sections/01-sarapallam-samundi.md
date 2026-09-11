@@ -5,9 +5,9 @@ section_order: 1
 section_title: "Sarapallam Samundi"
 language: "en"
 planned_source_scans: "24-48"
-translated_source_scans: "24-33"
+translated_source_scans: "24-38"
 status: "in-progress"
-batch_status: "Batches 1-2 scans 24-33 REVIEWED; Batches 3-5 not started"
+batch_status: "Batches 1-3 scans 24-38 REVIEWED; Batches 4-5 not started"
 derived_from: "audited Tamil pages/ records; assembled Tamil used for continuity"
 ---
 
@@ -152,4 +152,92 @@ The list would rotate, twenty people each day. She could not feed everyone at th
 For the sculptors, an evening meal at the old woman's house became a celebration in itself. They noticed that the goats she raised were dwindling one by one. Only by selling them was she able to feast the sculptors.
 
 She did not appear to feel even the slightest concern that the goats were diminishing. One day, the sculptors praised old Azhagi's pure affection and sense of duty to Rajendra, who had come to inspect the temple works. The next night, a thousand goats were brought and left standing at the entrance to the old woman's house.
+
+<!-- source: scan 34; printed page: 31 -->
+
+When the old woman saw them in the morning, she danced for joy, saying, “This is surely one of the Lord's wondrous plays!” She never came to know that it was Rajendra's generous help. Rajendra had her brought before him and introduced her to his father. Even then, she said only that the Lord had given her the goats. Seeing the old woman's enthusiasm, Rajaraja looked at her kindly and said, “Mother! If you have any wish, you may tell me. I shall make arrangements to have it fulfilled at once.”
+
+“Great Emperor! What greater blessing could there be for me than being called ‘Mother’ by your sacred lips! The honour of having fed the sculptors who labour in Rajarajeswaram, which will proclaim your imperishable name for years and years, is enough for me.”
+
+So saying, old Azhagi moved to fall at the king's sacred feet in worship. The king stopped her and said with compassion:
+
+“Mother! I understand your pure heart. The deeds of a king are not meant to bring glory to the king alone! Nor, in my view, should they. Whoever labours for the greatness of the Chola Empire, whoever they may be, deserves my gratitude. The Chola realm of today is not the result of my individual strength alone! Nor was this empire created only by the sword-strength of my valiant son standing here! It is a realm created by the heroic shoulders of countless jewels of the Chola clan and by the good wishes of mothers like you! I am standing here only in your shade, Mother! So ask freely for whatever you desire.”
+
+The old woman opened her mouth as though to say something, hesitated for a moment, and then continued:
+
+“O king of kings! This poor woman has one petition. I heard the sculptors say that a single very large stone is needed for the upper level of the temple's vimana. I have such a stone in my possession. I ask you to accept it.”
+
+Before she could finish saying this, tears had welled in the old woman's eyes.
+
+<!-- source: scan 35; printed page: 32 -->
+
+“A single stone?”
+
+The king looked at the sculptors in astonishment and asked.
+
+“Yes, great king! Even Kandaradittan expressed the view that it would be splendid if the platform atop the vimana were made from a single stone. The prince too has approved it,” the sculptors said respectfully.
+
+“The vimana is being built high enough to touch the sky. Would it be possible to take such an enormous stone all the way to its summit?” Rajaraja asked.
+
+At once the old woman bowed her head with great respect.
+
+“King of kings! If a ramp is built from my house, it will be very easy to raise that stone to the summit of the tower. There are four kal between my house and the tower. If a ramp is built from there, the stone can be rolled along the ramp just as it would be rolled along a road and taken up onto the vimana.”
+
+The great Chola king was astonished by her remarkable intelligence. He decided to use the stone she offered as the platform stone of the vimana. Announcing that decision with a smile overflowing from his face, he sighed and said, “Hmm!.. No matter how great a temple I build, in the end the Lord is going to say, ‘We dwell here in delight beneath the shade given by the old woman!’” It was not a sigh of weariness! It was a sigh of joy!
+
+Following Azhagi's advice, the sculptors began building a ramp from her house four kal away, placed the huge stone upon it, and carried it to the vimana. The place where that ramp was built immediately began to be called “Sarapallam.” The king also expressed his gratitude by having a pond called Azhagi Kulam created in Tanjavur, honouring the old woman's subtle intelligence and spirit of service.
+
+The temple had reached the stage of completion. Kandaradittan had carried out all the works in accordance with the advice given by Rajaraja, Rajendra and Kundavai. But the one hundred and eight tan<!-- source: scan 36; printed page: 33 -->dava postures desired by the king had still not even begun to be carved. This remained a great deficiency in Rajaraja's heart. He would have no peace until that work was completed.
+
+A full-scale discussion about it arose in the Chola palace. The king ordered Kandaradittan to be brought at once. Rajaraja, Rajendra, his wife Panchavan Madevi, Kundavai and other members of the Chola family took part in the discussion. Explaining Rajaraja's state of mind, Kundavai spoke to Kandaradittan with deep feeling.
+
+“For what reason has the king's wish not been attended to?”
+
+That was Kundavai's question.
+
+“It is wrong to imagine that it has not been attended to. After searching throughout the land, only last week did I find a highly skilled sculptor.”
+
+That was Kandaradittan's reply.
+
+“Even a week after finding a highly skilled sculptor, what strange reason do you have for the sculptural work still not having begun?”
+
+To the king's question, charged with anger, Kandaradittan calmly gave his explanation.
+
+“He is a sculptor who breathes life into stone and makes it leap! He is young! But his art has the maturity of refinement. He can carve even soft flowers into a black granite rock. Once he takes the chisel in his hand, gives the back of a rock a tap and begins his work, before long a maiden is smiling from that rock; he shows a parrot pecking at fruit; he even sets before us the cowherd—Maayan—making music.”
+
+“Who is he? His name?”
+
+“He has come from Mamallapuram. His name is Iniyan.”
+
+“If he possesses such ability, my question is why he delays making the tandava sculptures!”
+
+“That is what I am coming to. To help him create the tandava sculptures, a woman who has systematically studied the art of dance and gained good proficiency must stand before him and, whenever required, in a manner appropriate to the tandava posture,<!-- source: scan 37; printed page: 34 --> demonstrate the required bhava. Only then, he has declared firmly, can he carve the learned tandava postures.”
+
+“Oh! He seems to be a true artist who shapes nature into art! You could have made arrangements as he asked! Why the delay?”
+
+“No properly trained women dancers could be found.”
+
+“What a wonder? I have appointed four hundred deva women, granting each of them one veli of land as an endowment. Is there not even one among them who knows how to dance?”
+
+“One hundred women dancers have already danced before that sculptor.”
+
+“Not one among a hundred was good enough?”
+
+“Queens of the dance such as Nakkan Rajaraja Kesari and Nakkan Chola Kula Sundari have all danced, displaying the full measure of their skill. He points out a different fault in each of them and rejects them. His judgment too seems correct.”
+
+“Is that so?”
+
+“Yes! The woman who performs the Aghora Tandava beautifully makes a mistake in the Ananda Tandava. The woman who earned praise for performing the Arpuda Tandava finishes the Tripura Tandava as though she were treading on fire. In this way they have all been rejected.”
+
+“The life has gone out of art in the Chola Empire. Is that not what this means, Kandaradittan? I had thought the glory of Chola land as the land that nurtured art would endure. That hope has been dashed into the dust. When the future praises me, saying that I conquered Kalinga and conquered Eelam, will there not also sound with it the disgraceful charge that during my reign I was defeated in trying to fulfil even one wish of my own? What has become of the heaps of wealth spent for the growth of art? Has some great calamity struck the very heads of the schools that train people properly in art? Shame! Shame!! My navy has thrown the kings along the western coast into turmoil. Now the news that art has withered in Chola country is what throws me into turmoil. The victory pillar I planted on Mahendra Mountain! Through this fire-like news that art has perished in Tanjavur, they now tell me without words: ‘All those things are in vain!’”
+
+<!-- source: scan 38; printed page: 35 -->
+
+“In the future, is the extent of our empire what is going to remain? Even if it does, what of it? People may look at it and judge my valour. But the future will ask, ‘Is the conduct of a barbarian with no heart for art to be called valour? Is it not a frenzy?’ Who will answer that question? My statue in the Tanjavur temple? No! No! Do not disgrace that statue! I order it to be smashed to pieces at once!”
+
+Everyone was shocked on hearing Rajaraja's words, mixed with fury and sorrow. Tears brimmed in Kundavai's eyes. Kandaradittan silently turned away. Panchavan Madevi kept looking only at the face of her husband Rajendra.
+
+Wishing to calm his father's anger, Rajendra, with a trembling voice and his face buried at his father's feet, said firmly, “Father! Do not speak like that. Have you ever issued an order that we failed to carry out? I myself take responsibility for having that sculptor Iniyan carve the dance sculptures in all one hundred and eight postures. Put aside your worry!” Hearing his son's assurance, Rajaraja too grew somewhat calm.
+
+One evening after that incident, all those engaged in the temple work finished their day's labour and were leaving to eat and rest. Only Iniyan, the sculptor who had come from Mamallapuram, sat beside the great Nandi statue carved from a single stone, gazing at the sky and letting his thoughts run. Anyone could have guessed from the worry spread across his face that, though many days had passed since his arrival, he still had not had the opportunity to begin the sculptural work assigned to him. The king who had summoned him was Rajaraja, the peerless emperor of the Chola Empire. At the sound of his name, enemy countries lay subdued, mute and withdrawn like turtles. Such a great warrior had summoned him. And the task entrusted to him was one of immense distinction. If he completed it, the name of the sculptor Iniyan would sound in the world of art alongside the name of Rajaraja! But that good fortune, instead of coming quickly, keeps being put off and put off,
 

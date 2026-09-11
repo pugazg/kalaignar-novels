@@ -25,9 +25,9 @@ TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2
 - unresolved source readings: **0**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - English translation plan: **PASS / COMPLETE**;
-- English coverage: **10 / 25 scans**;
-- English Batches 1–2 — scans **24–33: REVIEWED / COMPLETE**;
-- English Batch 3 — scans **34–38: NEXT**;
+- English coverage: **15 / 25 scans**;
+- English Batches 1–3 — scans **24–38: REVIEWED / COMPLETE**;
+- English Batch 4 — scans **39–43: NEXT**;
 - whole-work English: **IN PROGRESS / NOT VERIFIED**.
 
 Whole-work mapping and continuity passed, including scan28's unnumbered landscape illustration spread and scan48's narrative-ending / separately printed historical-note distinction.
@@ -50,6 +50,10 @@ The pilot translation for scans **24–28** is **REVIEWED / COMPLETE**. `transla
 
 Scans **29–33** are **REVIEWED / COMPLETE**. The prior 28→29 open sentence is closed using scan 29 only; verified joins and the scan-29 corrected reading are preserved; terminology decisions are locked in the glossary. Cumulative English coverage is **10/25 scans**, with **0 material omissions / 0 source-like additions / 0 unresolved items** through Batch 2.
 
+## English Batch 3 closure
+
+Scans **34–38** are **REVIEWED / COMPLETE**. Source-check preserves Azhagi's royal audience, Sarapallam naming, protected source oddities, the 35→36 split `தாண்`+`டவ`, 36→37 dancer-model continuation and Rajaraja/Iniyan sequence. Cumulative English coverage is **15/25 scans** with **0 omissions / 0 source-like additions / 0 unresolved items**. Scan 38 remains deliberately open into scan 39; scan-39 prose is absent.
+
 ## Exact next activity
 
-**English Batch 3 — scans 34–38 only.** Continue/source-check only that span, update controls, commit, and stop before Batch 4. Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.
+**English Batch 4 — scans 39–43 only.** Complete the open 38→39 sentence using scan 39, continue/source-check only that span, update controls, commit, and stop before Batch 5. Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.

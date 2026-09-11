@@ -13,8 +13,9 @@
 | English translation plan | **PASS / COMPLETE** |
 | English Batch 1 — scans 24–28 | **REVIEWED / COMPLETE** |
 | English Batch 2 — scans 29–33 | **REVIEWED / COMPLETE** |
-| English Batch 3 — scans 34–38 | **NEXT** |
-| English coverage | **10 / 25 scans** |
+| English Batch 3 — scans 34–38 | **REVIEWED / COMPLETE** |
+| English Batch 4 — scans 39–43 | **NEXT** |
+| English coverage | **15 / 25 scans** |
 | Whole-work English | **IN PROGRESS / NOT VERIFIED** |
 
 No source PDF is committed.
@@ -60,6 +61,10 @@ Scans **24–28** passed draft translation and canonical-Tamil source check. Cov
 
 Scans **29–33** passed draft translation and canonical-Tamil source check. The 28→29 completion, 29→30 and 30→31 joins, scan-29 corrected source form, temple terminology/measures, personnel list and Azhagi sequence all pass. Material omissions / source-like additions / unresolved items: **0 / 0 / 0**. Canonical Tamil changes: **0**.
 
+## English Batch 3 review
+
+Scans **34–38** passed draft translation and canonical-Tamil source check. Azhagi/Sarapallam, protected source oddities, 35→36 and 36→37 joins, Iniyan/dancer terminology, Rajaraja's rhetoric and the incomplete 38→39 boundary all pass. Material omissions / source-like additions / unresolved items: **0 / 0 / 0**. Canonical Tamil changes: **0**.
+
 ## Exact next activity
 
-English Batch 3 — scans **34–38 only**. Whole-work English remains unverified.
+English Batch 4 — scans **39–43 only**. Whole-work English remains unverified.
