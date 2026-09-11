@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 கோடியென வெளிப்பட்டன. அவை இராசராசனின் வெற்றி ஒளியைப் பாய்ச்சின.
@@ -27,3 +27,12 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - final வீழ்ச்சி continues onto scan 27;
 - first-pass source-sensitive readings to recheck independently in T2/T3 include மாற்றரைச், அமரபுசங்கனை, மீனிசா, மாளவி, and நுளம்பபாடி;
 - T2/T3 pending; page remains needs-review.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read at enlarged resolution against direct source pixels;
+- explicitly checked the full known set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative confirmed source identity: `ஆனைப்படை` (`னை`);
+- first-pass source-sensitive forms `மாற்றரைச்`, `அமரபுசங்கனை`, `மீனிசா`, `மாளவி`, and `நுளம்பபாடி` were rechecked for character identity and retained;
+- no T1 character-identity correction was required;
+- unresolved historical glyphs: **0**.

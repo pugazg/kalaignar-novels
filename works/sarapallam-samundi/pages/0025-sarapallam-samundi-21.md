@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 எண்ணங்கொண்டு செயலாற்றினான் இராசராசன். சுற்றியுள்ள மன்னர்களால் என்றைக்கும் சோழநாட்டுக்கு விபத்து ஏற்படக் கூடும் என யோசித்து அதை முன்கூட்டியே தவிர்க்கவேண்டி, நாட்டின் படை பலத்தைப் பெருக்குவதிலும், அரண் உறுதிப்படுத்துவதிலும் நாட்டு மக்களுக்கு எல்லாக் காலத்திலும், வளமான வாழ்வு அமையவேண்டும் என்பதிலும் தன் ஆற்றல் முழுவதையும் செலவிட்டான். அவனது மகன் இராசேந்திரன் ஒரு வேங்கைப் புலி. திரும்பிய பக்கமெல்லாம் வெற்றிக் கனிக் குவிக்கக்கூடிய மாவீரன். இராசேந்திரனின் முதல் மனைவியின் பெயர் பஞ்சவன் மாதேவி ; மனைவியிடம் கொண்டுள்ள அன்பின் காரணமாக தனக்குப் பஞ்சவன் மாராயன் என்ற புனைப் பெயரைச் சூட்டிக்கொண்டான் போலும்! “மாராயம்” என்பது படைத் தலைவர்க்கு அரசனால் செய்யப்படும் சிறப்பு. இராசேந்திரன் முடி சூட்டிக் கொள்ளும் வரையில் சோழ நாட்டின் படைத் தளபதியாக இருந்து சோழப் பேரரசின் பரப்பளவை விரிவுபடுத்துவதில் கண்ணுங்கருத்துமாய் இருந்தான். தந்தையைப் போலவே இராசேந்திரனும் கலையார்வம் கொண்டவன். அந்தக் கலைச் செல்வத்தை அவனுக்கு வாரி வழங்கும் வள்ளலாக அமைந்தாள், மனைவி பஞ்சவன் மாதேவி.
@@ -23,3 +23,12 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - final fragment மின்னல்கள் ஆயிரம், continues to scan 26;
 - source-period wording/punctuation retained on first pass;
 - T2/T3 pending; page remains needs-review.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read at enlarged resolution against direct source pixels;
+- explicitly checked the full known set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative confirmed source identities include `மனைவியின்` (`னை`) and `நாலைந்து` (`லை`);
+- first-pass `கண்ணுங்கருத்துமாய்` and surrounding clusters were rechecked without normalization;
+- no T1 character-identity correction was required;
+- unresolved historical glyphs: **0**.

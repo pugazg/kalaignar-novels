@@ -19,4 +19,10 @@ The 1978 பெரிய இடத்துப் பெண் span remains an a
 
 ## Current active processing
 
-அரும்பு is RELEASE-READY / CLOSED. சாரப்பள்ளம் சாமுண்டி T1 scans 24–28 is PASS / COMPLETE; T2 for the same five scans is NEXT.
+அரும்பு is **RELEASE-READY / CLOSED**.
+
+சாரப்பள்ளம் சாமுண்டி:
+- scans 24–28 T1 — **PASS / COMPLETE**;
+- scans 24–28 T2 — **PASS / COMPLETE — 0 corrections / 0 unresolved historical glyphs**;
+- scans 24–28 T3 — **NEXT**;
+- scans 29–48 — **NOT STARTED**.

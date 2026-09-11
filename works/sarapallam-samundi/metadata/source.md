@@ -17,8 +17,8 @@
 
 ## Pagination caution
 
-Do not assume a one-scan/one-printed-page sequence across this component. T1 established that scan 28 itself is an unnumbered two-page spread. Printed-page values must therefore be recorded only from direct visibility, batch by batch; no synthetic 24/25 is assigned to scan 28.
+Do not assume a one-scan/one-printed-page sequence across this component. Scan 28 is an unnumbered two-page spread. Printed-page values must be recorded only from direct visibility, batch by batch.
 
 ## Current processing state
 
-T1 direct transcription is complete for scans **24–28**. T2/T3 are pending. Scans 29–48 are not yet transcribed.
+Scans 24–28: **T1 PASS / T2 PASS**. T2 found **0 character-identity corrections and 0 unresolved historical glyphs**. T3 is next. Scans 29–48 are not yet transcribed.

@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 # சாரப்பள்ளம் சாமுண்டி
@@ -29,3 +29,11 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - illustration is treated as non-body visual material and not converted into prose;
 - final fragment வேண்டுமென்ற continues directly to scan 25;
 - T2/T3 remain pending; page stays needs-review.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read at enlarged resolution against direct source pixels;
+- explicitly checked the full known set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative confirmed source identities include `தலைவணங்கிப்` (`லை`) and `நான்கைந்து` (`னா` family context);
+- no T1 character-identity correction was required;
+- unresolved historical glyphs: **0**.

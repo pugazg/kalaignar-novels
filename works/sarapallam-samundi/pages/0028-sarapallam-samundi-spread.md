@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 அந்தக் கேள்விக்குப் பதில்தான் இந்தக் கதை!
@@ -23,3 +23,11 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - final குந்தவையாரும் continues beyond this physical scan;
 - this layout finding corrects the earlier coarse intake assumption that every scan after 25 carried a consecutive visible printed number;
 - T2/T3 pending; page remains needs-review.
+
+## T2 independent historical-glyph notes
+
+- complete landscape spread independently re-read from direct source pixels;
+- explicitly checked the full known set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`; no ambiguous sensitive-family occurrence required correction on the short printed text;
+- `printed_page` remains `null`; no page number is visible and no value was inferred;
+- no T1 character-identity correction was required;
+- unresolved historical glyphs: **0**.

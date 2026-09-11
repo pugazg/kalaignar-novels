@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 யுற்றது. தடிகைபாடியும் இராசராசனுக்குத் தலைவணங்கி நின்றது. அடுத்துக் கொல்லம் படையெடுப்பு ; கொடுங்கோளூர் மீது போர்! இரு நாடுகளையும் அடக்கிக் ‘கீர்த்திப்பராகிரமச் சோழன்’ என்ற பட்டத்தைப் பெற்றான் இராசராசன். மேலைக் கடற்கரையோரத்து மன்னர்கள் அனைவரையும் அடக்க முனைந்து, இராசேந்திரன் படைகொண்டு சென்று, துளுவர், கொங்கணர் ஆகியோரைச் சிறைப் பிடித்தும், சேரையும் தெலுங்கரையும் முறியடித்தும் சோழ பூமிக்கு ஒப்பற்ற வெற்றியைத் தேடிக் கொடுத்தான்.
@@ -29,3 +29,12 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - page closes with the question ஏன் ஈடேறவில்லை?;
 - first-pass source-sensitive terms to recheck independently include கீர்த்திப்பராகிரமச், சத்தியாச்ரயன், முந்நீர்ப் பழந்தீவு பன்னீராயிரமும், and அவனிக்கு;
 - T2/T3 pending; page remains needs-review.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read at enlarged resolution against direct source pixels;
+- explicitly checked the full known set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative confirmed source identities include `மேலைக்` (`லை`) and `அனைவரையும்` (`னை`);
+- first-pass `கீர்த்திப்பராகிரமச்`, `சத்தியாச்ரயன்`, `முந்நீர்ப் பழந்தீவு பன்னீராயிரமும்`, and `அவனிக்கு` were rechecked for character identity and retained;
+- no T1 character-identity correction was required;
+- unresolved historical glyphs: **0**.

@@ -9,31 +9,23 @@
 | Canonical records | **5 / 25 — scans 24–28** |
 | Verified records | **0 / 25** |
 | T1 scans 24–28 | **PASS / COMPLETE** |
-| T2 scans 24–28 | **NEXT** |
-| T3 scans 24–28 | **BLOCKED by T2** |
+| T2 scans 24–28 | **PASS / COMPLETE — 0 corrections / 0 unresolved** |
+| T3 scans 24–28 | **NEXT** |
 | Scans 29–48 | **NOT STARTED** |
 | Downstream whole-work gates | **BLOCKED** |
 
 No source PDF is committed.
 
-## T1 findings
+## T2 historical-glyph audit
 
-Direct whole-scan visual transcription was completed for physical scans 24–28. All five canonical records remain needs-review pending independent T2 and T3.
+Each complete scan 24–28 was independently re-read from enlarged direct source pixels. The known sensitive set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was explicitly checked.
 
-Visible printed-page state:
+Representative confirmed forms include `தலைவணங்கிப்`, `நான்கைந்து`, `மனைவியின்`, `நாலைந்து`, `ஆனைப்படை`, `மேலைக்`, and `அனைவரையும்`.
 
-- scan 24 — null;
-- scan 25 — 21;
-- scan 26 — 22;
-- scan 27 — 23;
-- scan 28 — null.
+T1 source-sensitive forms such as `மாற்றரைச்`, `அமரபுசங்கனை`, `மீனிசா`, `மாளவி`, `நுளம்பபாடி`, `கீர்த்திப்பராகிரமச்`, `சத்தியாச்ரயன்`, `முந்நீர்ப் பழந்தீவு பன்னீராயிரமும்`, and `அவனிக்கு` were rechecked for character identity and retained.
 
-Scan 28 is a landscape two-page illustration spread. No visible printed page number is present, so no 24/25 value was inferred.
-
-Continuity across the batch is durably recorded in T1_BATCH_024_028.md.
-
-First-pass source-sensitive forms that deserve explicit independent review include மாற்றரைச், அமரபுசங்கனை, மீனிசா, மாளவி, நுளம்பபாடி, கீர்த்திப்பராகிரமச், சத்தியாச்ரயன், முந்நீர்ப் பழந்தீவு பன்னீராயிரமும் and அவனிக்கு.
+T2 corrections: **0**. Unresolved historical glyphs: **0**. Canonical records remain needs-review pending T3.
 
 ## Exact next activity
 
-Run T2 for scans 24–28 only; do not perform T3 or begin scan 29 in the same checkpoint.
+Run T3 for scans 24–28 only; do not begin scan 29 in the same checkpoint.
