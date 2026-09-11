@@ -2,76 +2,85 @@
 
 ## Repository
 
-- Repository: pugazg/kalaignar-novels
-- Branch: main
+- Repository: `pugazg/kalaignar-novels`
+- Branch: `main`
 - **Live main is authoritative.**
-- Active source: **1978 அரும்பு four-story compilation**
-- Active work: **works/sarapallam-samundi/**
-- works/arumbu/ is **RELEASE-READY / CLOSED**.
+- Active work: **`works/periya-idathup-pen/` — 1978 additional-witness comparison**
+- `works/sarapallam-samundi/`: **RELEASE-READY / CLOSED**
+- 1953 `பெரிய இடத்துப் பெண்` package: **RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**
 
-## Controlling source
+## Controlling 1953 source
 
-TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc, **92 scans**, image-only, தமிழ்க்கனி பதிப்பகம், முதற் பதிப்பு 1978. **DO NOT COMMIT source PDF.**
+`TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf`
 
-## Active durable state
+- SHA-256: `50db9c55d670065bd81088ee07e4527f5531a9ab15e3c4533d6b10eda8d09e9628`
+- size: **70,952,481 bytes**
+- scans: **49**
+- edition: **எட்டாம் பதிப்பு — ஜூலை 1953**
+- controlling source: **YES**
+- source PDF committed: **No**
+- canonical state: **0 verified / 49 needs-review — verification freeze ACTIVE**
+- assembled Tamil: **PASSED**
+- whole-work English: **VERIFIED**
+- release verdict: **RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**
 
-சாரப்பள்ளம் சாமுண்டி spans **scans 24–48 / 25 scans**.
+## Active 1978 additional witness
 
-- canonical records: **25 / 25 — COMPLETE / VERIFIED**;
-- page-level T1/T2/T3: **PASS / COMPLETE**;
-- whole-work Tamil audit: **PASS / COMPLETE after 1 residual direct-source correction**;
-- residual correction: scan29 / printed26 வாயாலிருந்துவிட்டான் → **வாளாயிருந்துவிட்டான்**;
-- unresolved historical glyphs: **0**;
-- unresolved source readings: **0**;
-- assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
-- English translation plan: **PASS / COMPLETE**;
-- English coverage: **25 / 25 scans**;
-- English Batches 1–5 — scans **24–48: REVIEWED / COMPLETE**;
-- Section 16 whole-work bilingual review: **PASS / COMPLETE**;
-- whole-work English: **VERIFIED**;
-- Section 17 release-readiness: **PASS / COMPLETE**;
-- archival/editorial package: **RELEASE-READY / CLOSED**;
+`TVA_BOK_0064361_அரும்பு.pdf`
 
-Whole-work mapping and continuity passed, including scan28's unnumbered landscape illustration spread and scan48's narrative-ending / separately printed historical-note distinction.
+- SHA-256: `04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc`
+- size: **117,270,339 bytes**
+- compilation scans: **92**
+- edition: **முதற் பதிப்பு — 1978**
+- publisher: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**
+- witness physical scans: **49–74 / 26 scans**
+- controlling source: **NO — witness only**
+- source PDF committed: **No**
 
-Audit report: works/sarapallam-samundi/FULL_TAMIL_SOURCE_AUDIT.md.
+## Durable witness-comparison state
 
-## Assembled Tamil closure
+- comparison plan: `works/periya-idathup-pen/witness-comparison/arumbu-1978/COMPARISON_PLAN.md` — **PASS / COMPLETE**;
+- source-visible map: `works/periya-idathup-pen/witness-comparison/arumbu-1978/SCAN_MAP.md` — **PASS / COMPLETE**;
+- progress: **0 / 26 scans compared; 0 / 6 batches complete**;
+- confirmed textual variants: **0**;
+- confirmed paratext variants: **1** — the 1953 printer colophon is absent after the 1978 narrative ending;
+- canonical / assembled / English changes: **0**.
 
-`works/sarapallam-samundi/sections/01-sarapallam-samundi.md` is **PASS / COMPLETE** as the single source-backed Tamil reading section for scans 24–48. It is derived only from audited canonical records and passes coverage, order, provenance-marker, verified-join and text-consistency checks. Scan 28 illustration material is not narrated, and scan 48 keeps the story ending distinct from the source-printed `குறிப்பு :`.
+Source-visible mapping facts:
 
-## English translation planning closure
+- scan49 — unnumbered title/opening;
+- scan50 — printed47;
+- scan53 / p50 — `உத்தண்டி`;
+- scan56 / p53 — `கண்ணம்மா`;
+- scan57 — one physical spread containing printed **54–55**;
+- scan64 / p62 — `குமுதா`;
+- scan67 / p65 — `வீரன்`;
+- scan71 / p69 — `உலகநாதர்`;
+- scan72 / p70 — final `கண்ணம்மா`;
+- scan74 / p72 — narrative ending.
 
-`works/sarapallam-samundi/translations/en/TRANSLATION_PLAN.md` is **PASS / COMPLETE**. Working English title: **Sarapallam Samundi**. The one-section translation is divided into five controlled five-scan batches: **24–28**, **29–33**, **34–38**, **39–43**, **44–48**. Batch boundaries are workflow boundaries only, not source structure.
+## Authority rules
 
-## English Batch 1 closure
-
-The pilot translation for scans **24–28** is **REVIEWED / COMPLETE**. `translations/en/README.md`, `PROGRESS.md`, `GLOSSARY.md`, `BATCH_01_REVIEW.md`, and the in-progress one-section English file are now established. Source-check found **0 material omissions, 0 source-like additions and 0 unresolved items**. The scan-28 illustration is excluded, and the 28→29 sentence is intentionally left open until Batch 2.
-
-## English Batch 2 closure
-
-Scans **29–33** are **REVIEWED / COMPLETE**. The prior 28→29 open sentence is closed using scan 29 only; verified joins and the scan-29 corrected reading are preserved; terminology decisions are locked in the glossary. Cumulative English coverage is **10/25 scans**, with **0 material omissions / 0 source-like additions / 0 unresolved items** through Batch 2.
-
-## English Batch 3 closure
-
-Scans **34–38** are **REVIEWED / COMPLETE**. Source-check preserves Azhagi's royal audience, Sarapallam naming, protected source oddities, the 35→36 split `தாண்`+`டவ`, 36→37 dancer-model continuation and Rajaraja/Iniyan sequence. Cumulative English coverage is **15/25 scans** with **0 omissions / 0 source-like additions / 0 unresolved items**. Scan 38 remains deliberately open into scan 39; scan-39 prose is absent.
-
-## English Batch 4 closure
-
-Scans **39–43** are **REVIEWED / COMPLETE**. The open 38→39 sentence is closed using scan 39; Samundi's introduction/dance trial, sculpture sequence and Iniyan's emotional shift are source-checked; protected source oddities are locked in the glossary. Cumulative English coverage is **20/25 scans** with **0 omissions / 0 source-like additions / 0 unresolved items**. Scan 43 remains deliberately open into scan 44; scan-44 prose is absent.
-
-## English Batch 5 closure
-
-Scans **44–48** are **REVIEWED / COMPLETE**. All five English batches now cover **25/25 scans**. The final batch preserves the 43→44, 44→45, 46→47 and 47→48 continuities, protected source oddities, the Panchavan Madevi revelation, narrative ending, and the separate scan-48 source-printed `குறிப்பு :`. Batch-level omissions / source-like additions / unresolved items remain **0 / 0 / 0**. At the Batch 5 checkpoint, whole-work English remained **NOT VERIFIED pending Section 16**; Section 16 has since passed below.
-
-## Section 16 whole-work bilingual review closure
-
-`works/sarapallam-samundi/translations/en/TRANSLATION_REVIEW.md` is **PASS / COMPLETE**. All 25 scans are represented once in order; batch-level and whole-work omission/addition checks pass; speaker attribution, agency, names/terms, rhetoric, cross-page joins, protected source oddities, scan-28 illustration exclusion, scan-48 narrative/note separation and one-section identity pass. Whole-work English is **VERIFIED**.
-
-## Section 17 release-readiness closure
-
-`works/sarapallam-samundi/translations/en/RELEASE_REPORT.md` is **PASS / COMPLETE**. `சாரப்பள்ளம் சாமுண்டி` is **RELEASE-READY / CLOSED** as an archival/editorial package. No canonical Tamil changed during the release pass, and the repository tree contains no committed PDF.
+- The **1953 eighth edition remains controlling**.
+- The 1978 printing is **additional witness only**.
+- Comparison is **record-only**.
+- Do not alter canonical Tamil, assembled Tamil, English, release status or the canonical verification freeze.
+- Do not assume a later witness is corrected or superior.
+- Read the 1978 source pixels directly; if uncertain, record **UNRESOLVED** rather than infer.
+- Keep layout/illustration differences separate from lexical variants.
 
 ## Exact next activity
 
-Begin the **dedicated 1978 `பெரிய இடத்துப் பெண்` additional-witness comparison** as a separate checkpoint. The existing 1953 eighth edition remains controlling; the 1978 scans 49–74 are witness-only and comparison must not silently alter canonical Tamil, assembled Tamil or English.
+**W1 — compare 1978 scans 49–53 only.**
+
+For each scan:
+
+1. visually read the complete 1978 source page;
+2. align it to the controlling 1953 canonical/assembled span;
+3. record every confirmed variant in `witness-comparison/arumbu-1978/VARIANTS.md`;
+4. update `PROGRESS.md`;
+5. create a W1 review record;
+6. synchronize controls and commit;
+7. stop before scan54 / W2.
+
+No controlling/assembled/English text changes are authorized.

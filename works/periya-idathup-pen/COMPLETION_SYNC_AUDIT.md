@@ -18,7 +18,8 @@ This record closes the repository-wide documentation synchronization after `ப�
 - whole-work English: **VERIFIED**;
 - release-readiness pass: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
 - source PDF committed: **No**;
-- further mandatory processing under current instructions: **None**.
+- further mandatory processing for the **1953 controlling edition itself**: **None**;
+- separate 1978 additional-witness comparison: **ACTIVE — plan/mapping complete; 0/26 compared**.
 
 Accurate package wording:
 
@@ -44,7 +45,7 @@ The documentation closeout does **not** rewrite archival content merely to make 
 
 ## Completion rule for future chats
 
-`பெரிய இடத்துப் பெண்` is a **completed work with a preserved canonical-status qualification**, not an active work.
+`பெரிய இடத்துப் பெண்` remains a **completed 1953 controlling package with a preserved canonical-status qualification**. A later 1978 additional-witness comparison may proceed as a separate evidence layer without reopening that completed package.
 
 A future session must not reopen translation, assembly, source audit or page-status work merely because a document records the chronology of an earlier stage. Live `main`, this audit, root `HANDOVER.md`, the work `README.md`, `audit.md`, `translations/en/TRANSLATION_REVIEW.md`, and `translations/en/RELEASE_REPORT.md` define the durable completed state.
 
@@ -66,4 +67,4 @@ The synchronized documents now agree on the same durable state:
 
 ## Next repository activity
 
-There is **no active novel/story work** after this closeout. Await the next source/work supplied or named by the user, then onboard it according to `NOVEL_PROCESSING_GUIDE.md` and `NEXT_NOVEL_CHAT_PROMPT.md`.
+A new, separate activity is now active: the 1978 `அரும்பு` additional-witness comparison. Its plan/mapping is complete and W1 scans 49–53 are next. This activity must not silently edit the completed 1953 canonical, assembled or English layers.

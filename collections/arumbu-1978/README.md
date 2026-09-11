@@ -16,7 +16,7 @@
 | 1–5 | front matter | REGISTERED |
 | 6–23 | அரும்பு | **RELEASE-READY / CLOSED** |
 | 24–48 | சாரப்பள்ளம் சாமுண்டி | **RELEASE-READY / CLOSED** |
-| 49–74 | பெரிய இடத்துப் பெண் | **ADDITIONAL SOURCE WITNESS — COMPARISON NEXT** |
+| 49–74 | பெரிய இடத்துப் பெண் | **WITNESS PLAN/MAP COMPLETE — W1 scans 49–53 NEXT** |
 | 75–90 | நடுத்தெரு நாராயணி | QUEUED |
 | 91–92 | publisher catalogue / back cover | REGISTERED |
 
@@ -26,4 +26,6 @@ English translation planning is **PASS / COMPLETE**. Batches 1–5, scans **24�
 
 `சாரப்பள்ளம் சாமுண்டி` archival/editorial package: **RELEASE-READY / CLOSED**.
 
-Next: **dedicated 1978 பெரிய இடத்துப் பெண் witness comparison for scans 49–74**.
+1978 `பெரிய இடத்துப் பெண்` witness mapping is **PASS / COMPLETE**. Scan 57 is the source-visible two-page spread for printed 54–55. Line comparison remains **0/26 scans**.
+
+Next: **W1 — scans 49–53 only**.

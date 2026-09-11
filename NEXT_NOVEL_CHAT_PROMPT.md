@@ -1,80 +1,70 @@
-# Next Chat Prompt — பெரிய இடத்துப் பெண் / 1978 additional-witness comparison
+# Next Chat Prompt — பெரிய இடத்துப் பெண் / 1978 witness W1 scans 49–53
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Closed prior work
-
-`works/sarapallam-samundi/` is now **RELEASE-READY / CLOSED**:
-
-- Tamil canonical records **25/25 VERIFIED**;
-- whole-work Tamil audit **PASS / COMPLETE**;
-- assembled Tamil **PASS / COMPLETE**;
-- whole-work English **VERIFIED**;
-- Section 16 bilingual review **PASS / COMPLETE**;
-- Section 17 release-readiness **PASS / COMPLETE**;
-- release report: `works/sarapallam-samundi/translations/en/RELEASE_REPORT.md`.
-
-Do not reopen it without genuinely new source/provenance/fidelity evidence.
-
-## Next work
-
-Existing work:
-
-`works/periya-idathup-pen/`
-
-Controlling edition remains:
+## Controlling edition — DO NOT MODIFY
 
 `TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf`
 
-The 1953 eighth-edition archival package is already **RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION** and its canonical verification freeze remains active.
+- SHA-256: `50db9c55d670065bd81088ee07e4527f5531a9ab15e3c4533d6b10eda8d09e9628`
+- scans: **49**
+- edition: **எட்டாம் பதிப்பு — ஜூலை 1953**
+- canonical: **0 verified / 49 needs-review**
+- verification freeze: **ACTIVE**
+- assembled Tamil: **PASSED**
+- English: **VERIFIED**
+- package: **RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**
 
-Additional 1978 witness:
+## 1978 witness
 
 `TVA_BOK_0064361_அரும்பு.pdf`
 
 - SHA-256: `04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc`
-- compilation edition: **முதற் பதிப்பு — 1978**
+- edition: **முதற் பதிப்பு — 1978**
 - publisher: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**
-- witness physical scans: **49–74 / 26 scans**
-- scan 49: title/opening;
-- scan 50: visible printed 47;
-- scan 74: visible printed 72;
-- source PDF committed: **No**.
+- witness scans: **49–74 / 26**
+- source PDF committed: **No**
 
-Witness registration:
+## Durable setup
 
-`works/periya-idathup-pen/metadata/witness-arumbu-1978.md`
+Read completely:
 
-Current witness status: **REGISTERED / NOT YET COMPARED**.
+1. root `HANDOVER.md`;
+2. this prompt;
+3. `works/periya-idathup-pen/README.md`;
+4. `works/periya-idathup-pen/audit.md`;
+5. `works/periya-idathup-pen/metadata/source.md`;
+6. `works/periya-idathup-pen/metadata/witness-arumbu-1978.md`;
+7. `works/periya-idathup-pen/witness-comparison/arumbu-1978/COMPARISON_PLAN.md`;
+8. `works/periya-idathup-pen/witness-comparison/arumbu-1978/SCAN_MAP.md`;
+9. `works/periya-idathup-pen/witness-comparison/arumbu-1978/PROGRESS.md`;
+10. `works/periya-idathup-pen/witness-comparison/arumbu-1978/VARIANTS.md`;
+11. controlling assembled sections / canonical pages needed for W1.
 
-## Mandatory startup
+Current state:
 
-Read completely before comparison work:
+- plan / mapping: **PASS / COMPLETE**;
+- scans compared: **0 / 26**;
+- batches complete: **0 / 6**;
+- W1: **NEXT**.
 
-1. `NOVEL_PROCESSING_GUIDE.md`;
-2. root `HANDOVER.md`;
-3. this prompt;
-4. `works/periya-idathup-pen/README.md`;
-5. `works/periya-idathup-pen/audit.md`;
-6. `works/periya-idathup-pen/metadata/source.md`;
-7. `works/periya-idathup-pen/metadata/witness-arumbu-1978.md`;
-8. `works/periya-idathup-pen/indexes/page-map.md`;
-9. `works/periya-idathup-pen/COMPLETION_SYNC_AUDIT.md`;
-10. `works/periya-idathup-pen/FULL_TAMIL_SOURCE_AUDIT.md`.
+## Exact next activity — W1 only
 
-## Authority rules
+Compare **1978 scans 49–53**.
 
-- The **1953 eighth edition remains controlling** for the existing archival package.
-- The 1978 `அரும்பு` printing is **additional witness only**.
-- Do not assume the 1978 witness is identical, complete, abridged, corrected or superior.
-- The existing canonical-page verification freeze remains unchanged.
-- Witness comparison does **not** authorize edits to canonical Tamil, assembled Tamil or English.
-- Record differences as witness evidence first; do not silently reconcile editions.
+- scan49: unnumbered title/opening;
+- scan50: printed47;
+- scan51: printed48;
+- scan52: printed49;
+- scan53: printed50 and contains the `உத்தண்டி` transition.
 
-## Exact next activity
+Rules:
 
-Start the dedicated **1978 witness-comparison pass** for scans **49–74**.
-
-First establish a durable comparison plan / mapping between the 1978 witness and the controlling 1953 text, including how physical scans and printed pages align and how variants will be recorded. Then process the comparison in bounded batches rather than attempting all 26 scans in one uncontrolled pass.
-
-Do not change the controlling 1953 canonical Tamil, assembled Tamil, English translation, or release verdict unless a later explicit decision authorizes such changes.
+- direct 1978 source pixels are authoritative for the witness;
+- 1953 canonical/assembled Tamil is controlling for the existing package;
+- compare the complete printed text of each W1 scan;
+- record exact source-supported variants by class;
+- page-break/layout changes are not wording variants;
+- uncertain readings remain **UNRESOLVED**;
+- do not alter canonical Tamil, assembled Tamil, English, release status or page-status freeze;
+- create `W1_SCANS_049_053.md`, update `VARIANTS.md` and `PROGRESS.md`, synchronize status controls, commit, and stop before scan54 / W2.

@@ -96,7 +96,7 @@ The source PDF itself must remain outside this Git repository.
 
 A later printing of this work is now registered from the 1978 four-story compilation `அரும்பு`, physical scans **49–74**. See [`witness-arumbu-1978.md`](witness-arumbu-1978.md).
 
-This witness is **not** the controlling source and has not yet been compared line by line with the 1953 edition. Its registration does not change the current canonical verification freeze or authorize any canonical/assembled/English edits.
+This witness is **not** the controlling source. Its comparison plan and source-visible scan/heading mapping are now complete; line-by-line comparison remains **0 / 26 scans** with W1 scans 49–53 next. Its registration/comparison does not change the canonical verification freeze or authorize any canonical/assembled/English edits.
 
 ## Completed downstream state
 
@@ -111,4 +111,4 @@ This witness is **not** the controlling source and has not yet been compared lin
 - release-readiness: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
 - completion documentation sync: [`../COMPLETION_SYNC_AUDIT.md`](../COMPLETION_SYNC_AUDIT.md).
 
-No further mandatory processing remains for the 1953 controlling source edition under the current instructions. The canonical verification freeze must not be lifted automatically.
+No further mandatory processing remains for the 1953 controlling source edition itself. A separate record-only comparison of the 1978 additional witness is now active; it must not alter the completed 1953 package or lift the canonical verification freeze.

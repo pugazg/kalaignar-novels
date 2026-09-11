@@ -26,6 +26,9 @@ The supplied scan is the controlling source.
 - **whole-work English translation: VERIFIED**;
 - release-readiness pass: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
 - repository-wide completion documentation sync: **COMPLETE**;
+- 1978 additional-witness comparison plan / mapping: **PASS / COMPLETE**;
+- 1978 witness line-comparison coverage: **0 / 26 scans**;
+- next witness batch: **W1 — scans 49–53**;
 - source PDF committed: **No**.
 
 **Repository package status: RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION.**
@@ -157,6 +160,16 @@ Release readiness is an editorial/archival status, not a determination of copyri
 - scan 8: unnumbered;
 - scans 9–49: printed pages **8–48**.
 
+## 1978 additional-witness comparison
+
+The completed 1953 package remains controlling and unchanged. A separate record-only comparison of the 1978 `அரும்பு` witness is now active.
+
+- comparison plan: [`witness-comparison/arumbu-1978/COMPARISON_PLAN.md`](witness-comparison/arumbu-1978/COMPARISON_PLAN.md) — **PASS / COMPLETE**;
+- source-visible scan map: [`witness-comparison/arumbu-1978/SCAN_MAP.md`](witness-comparison/arumbu-1978/SCAN_MAP.md) — **PASS / COMPLETE**;
+- progress: **0 / 26 scans compared; 0 / 6 batches complete**;
+- confirmed pre-comparison paratext differences: **1**;
+- canonical / assembled / English changes: **0**.
+
 ## Current gate
 
-No further mandatory Tamil source-comparison, assembled-reader, English translation, bilingual-review, release-report, or completion-documentation work remains under the current instructions. Preserve the canonical verification freeze exactly as instructed unless the user explicitly changes its disposition.
+**W1 — compare 1978 scans 49–53 only.** Preserve the 1953 control, canonical verification freeze, assembled Tamil, English and qualified release verdict unchanged.
