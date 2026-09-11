@@ -1,70 +1,41 @@
-# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / assembled Tamil
+# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / English translation plan
 
-Continue directly in pugazg/kalaignar-novels, branch main, active work works/sarapallam-samundi/. **LIVE MAIN IS AUTHORITATIVE.**
-
-## Controlling source
-
-TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc, **92 physical scans**, image-only, first edition 1978. Source PDF must not be committed.
+Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/sarapallam-samundi/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Durable state
 
-- component scans **24–48 / 25 scans**;
+- scans **24–48 / 25 scans**;
 - canonical / verified records **25/25 — COMPLETE**;
 - page-level T1/T2/T3 **PASS / COMPLETE**;
 - whole-work Tamil audit **PASS / COMPLETE**;
-- whole-work residual corrections **1**;
+- assembled Tamil **PASS / COMPLETE — 1 / 1 section**;
+- assembled section: `works/sarapallam-samundi/sections/01-sarapallam-samundi.md`;
 - unresolved historical glyphs / source readings **0 / 0**;
-- assembled Tamil **NEXT**;
-- English **NOT STARTED / BLOCKED**.
+- English translation plan **NEXT**;
+- English prose **NOT STARTED / BLOCKED until plan exists**.
 
-Whole-work audit residual:
-
-- scan29 / printed26 வாயாலிருந்துவிட்டான் → source **வாளாயிருந்துவிட்டான்**.
-
-Structural facts:
-
-- scan24 is the unnumbered title opening;
-- scan28 is an unnumbered landscape two-page illustration spread; only its printed prose belongs in the reading text;
-- scans29–48 print 26–45;
-- scan48 closes the narrative and then prints a distinct historical குறிப்பு :;
-- no source-backed chapter divisions have been identified.
+The assembled layer is derived only from audited canonical records, carries reversible provenance for scans 24–48, preserves verified cross-page joins, excludes scan-28 illustration content from prose, and keeps scan-48 narrative ending separate from the source-printed `குறிப்பு :`.
 
 ## Mandatory startup
 
 Read completely:
 
-1. NOVEL_PROCESSING_GUIDE.md — especially Section 13;
-2. HANDOVER.md;
+1. `NOVEL_PROCESSING_GUIDE.md` — especially Section 14;
+2. `HANDOVER.md`;
 3. this prompt;
-4. works/sarapallam-samundi/README.md;
-5. works/sarapallam-samundi/FULL_TAMIL_SOURCE_AUDIT.md;
-6. works/sarapallam-samundi/indexes/page-map.md;
-7. all 25 audited canonical pages/ records;
-8. assembled Tamil exemplar works/arumbu/sections/README.md and works/arumbu/sections/01-arumbu.md.
+4. `works/sarapallam-samundi/README.md`;
+5. `works/sarapallam-samundi/audit.md`;
+6. `works/sarapallam-samundi/sections/README.md`;
+7. `works/sarapallam-samundi/sections/01-sarapallam-samundi.md`.
 
-## Exact next activity — assembled Tamil only
+## Exact next activity — English translation plan only
 
-Create the source-faithful assembled Tamil reading layer from the audited canonical pages/ records only.
+Create:
 
-Expected structure unless a genuine source-backed subdivision is found:
+`works/sarapallam-samundi/translations/en/TRANSLATION_PLAN.md`
 
-- works/sarapallam-samundi/sections/README.md;
-- works/sarapallam-samundi/sections/01-sarapallam-samundi.md;
-- one continuous section covering scans **24–48**.
+The plan must define the Section-14 items: working English title, source-authority hierarchy, section/batch plan, translation style, name/transliteration policy, political/religious/caste terminology policy, historical offices/ritual terms, cinematic vocabulary where relevant, punctuation/dialogue policy, source-oddity policy, page traceability, review states and gates.
 
-Rules:
+Synchronize work/root/collection controls, commit, and stop.
 
-- do not retranscribe independently;
-- do not modernize or silently correct Tamil;
-- canonical pages/ records remain controlling authority;
-- include reversible source-scan / printed-page provenance markers;
-- join only verified page-boundary fragments;
-- preserve paragraph/dialogue/list structure;
-- do not narrate scan28 illustration into prose;
-- preserve scan48 narrative ending and the subsequent source-printed குறிப்பு : as distinct units;
-- perform a consistency check back against all 25 canonical records;
-- mark assembled Tamil PASSED only after order, coverage, joins and text consistency pass;
-- synchronize work/root/collection handover/status controls;
-- commit and stop.
-
-Do not create the English translation plan, translate English, or begin the 1978 பெரிய இடத்துப் பெண் witness comparison in the same checkpoint.
+**Do not translate English prose in the same checkpoint. Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.**

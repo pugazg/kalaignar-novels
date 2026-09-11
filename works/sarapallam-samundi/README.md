@@ -12,8 +12,9 @@
 - scans 24–48: **T1+T2+T3 PASS / VERIFIED**;
 - whole-work Tamil audit: **PASS / COMPLETE after 1 residual source-fidelity correction**;
 - whole-work audit unresolved historical glyphs / source readings: **0 / 0**;
-- assembled Tamil: **NEXT**;
-- English: **BLOCKED until assembled Tamil passes**.
+- assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
+- English translation plan: **NEXT**;
+- English prose: **BLOCKED until the translation plan exists**.
 
 ## Whole-work audit closure
 
@@ -25,6 +26,10 @@ One residual page-level mismatch was found and corrected on scan 29 / printed 26
 
 No other unresolved source issue remains. See FULL_TAMIL_SOURCE_AUDIT.md.
 
+## Assembled Tamil closure
+
+The reading layer is **PASS / COMPLETE — 1 / 1 section** at `sections/01-sarapallam-samundi.md`. It is derived only from the 25 audited canonical records, carries reversible scan provenance for all scans 24–48, preserves only verified joins, excludes scan-28 illustration content from prose, and keeps the scan-48 narrative ending separate from the source-printed `குறிப்பு :`.
+
 ## Exact next activity
 
-Create and consistency-check the **assembled Tamil reading layer** from the audited pages/ records only. Preserve reversible scan provenance, verified joins, scan-28 illustration separation and scan-48 narrative/note distinction. Stop before the English translation plan.
+Create `translations/en/TRANSLATION_PLAN.md` under Section 14 of `NOVEL_PROCESSING_GUIDE.md`. Do not begin English prose in the same checkpoint.

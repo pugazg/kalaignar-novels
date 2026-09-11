@@ -34,6 +34,7 @@ Canonical records: **25 / 25 — COMPLETE**.
 Verified records: **25 / 25 — COMPLETE**.  
 Page-level T1/T2/T3: **PASS / COMPLETE**.  
 Whole-work Tamil audit: **PASS / COMPLETE**.  
+Assembled Tamil: **PASS / COMPLETE — 1 / 1 section**.  
 Unresolved historical glyphs / source readings: **0 / 0**.
 
 ## Structural facts
@@ -47,4 +48,4 @@ Unresolved historical glyphs / source readings: **0 / 0**.
 
 ## Exact next activity
 
-Assembled Tamil reading layer from the audited pages/ records.
+English translation plan under Section 14 of `NOVEL_PROCESSING_GUIDE.md`; English prose remains blocked until the plan exists.

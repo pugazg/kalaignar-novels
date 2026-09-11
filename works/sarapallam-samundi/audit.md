@@ -9,9 +9,9 @@
 | Canonical records | **25 / 25 — COMPLETE / VERIFIED** |
 | T1/T2/T3 scans 24–48 | **PASS / VERIFIED** |
 | Whole-work Tamil audit | **PASS / COMPLETE — 1 residual correction / 0 unresolved** |
-| Assembled Tamil | **NEXT** |
-| English translation plan | **BLOCKED** |
-| English translation | **BLOCKED** |
+| Assembled Tamil | **PASS / COMPLETE — 1 / 1 section** |
+| English translation plan | **NEXT** |
+| English translation | **BLOCKED until plan exists** |
 
 No source PDF is committed.
 
@@ -40,6 +40,10 @@ The whole-work pass also reconfirmed:
 
 Full report: FULL_TAMIL_SOURCE_AUDIT.md.
 
+## Assembled Tamil consistency gate
+
+The derived reading layer covers scans **24–48** in one section. All **25/25** provenance markers are present in physical order; canonical-text derivation, verified page-boundary joins, scan-28 illustration exclusion, scan-29 corrected reading, and scan-48 narrative / source-note separation all pass. No retranscription or modernization was introduced.
+
 ## Exact next activity
 
-Create the assembled Tamil reading layer from audited canonical pages only; do not start English in the same checkpoint.
+Create the English translation plan required by Section 14. English prose remains blocked until that plan exists.
