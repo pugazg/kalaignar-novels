@@ -24,25 +24,23 @@ Physical source span: **24–48 / 25 scans**.
 | 41 | 38 | ../pages/0041-sarapallam-samundi-38.md | **VERIFIED — T1+T2+T3 PASS** |
 | 42 | 39 | ../pages/0042-sarapallam-samundi-39.md | **VERIFIED — T1+T2+T3 PASS** |
 | 43 | 40 | ../pages/0043-sarapallam-samundi-40.md | **VERIFIED — T1+T2+T3 PASS** |
-| 44 | 41 | ../pages/0044-sarapallam-samundi-41.md | **T1+T2 PASS / needs-review** |
-| 45 | 42 | ../pages/0045-sarapallam-samundi-42.md | **T1+T2 PASS / needs-review** |
-| 46 | 43 | ../pages/0046-sarapallam-samundi-43.md | **T1+T2 PASS / needs-review** |
-| 47 | 44 | ../pages/0047-sarapallam-samundi-44.md | **T1+T2 PASS / needs-review** |
-| 48 | 45 | ../pages/0048-sarapallam-samundi-45.md | **T1+T2 PASS / needs-review — story ending + source note** |
+| 44 | 41 | ../pages/0044-sarapallam-samundi-41.md | **VERIFIED — T1+T2+T3 PASS** |
+| 45 | 42 | ../pages/0045-sarapallam-samundi-42.md | **VERIFIED — T1+T2+T3 PASS** |
+| 46 | 43 | ../pages/0046-sarapallam-samundi-43.md | **VERIFIED — T1+T2+T3 PASS** |
+| 47 | 44 | ../pages/0047-sarapallam-samundi-44.md | **VERIFIED — T1+T2+T3 PASS** |
+| 48 | 45 | ../pages/0048-sarapallam-samundi-45.md | **VERIFIED — T1+T2+T3 PASS — story ending + source note** |
 
 Canonical records: **25 / 25 — COMPLETE**.  
-Verified records: **20 / 25**.  
-Scans 44–48 T2: **PASS / COMPLETE — 5 corrections / 0 unresolved historical glyphs**.  
-Scans 44–48 T3: **NEXT**.
+Verified records: **25 / 25 — COMPLETE**.  
+Scans 24–48: **T1+T2+T3 PASS / VERIFIED**.  
+Unresolved historical glyphs / source readings: **0 / 0**.
 
-## Continuity
+## Structural facts
 
-- 43→44: `அவன் அன்றையதினம்` / `சுவைத்துக்கொண்டே...`;
-- 44→45: `என்று அவள் புன்னகை` / `பொங்கக் கூறியபோது...`;
-- 46→47: `விம்மி அழத்` / `தொடங்கினாள்.`;
-- 47→48: `திரும்பினார்-` / `அனைவரும் இனியன் பக்கம் திரும்பினர்.`;
-- scan48 closes the story and preserves the separately printed historical note.
+- scan28 is an unnumbered landscape two-page illustration spread;
+- printed pages continue from 26 on scan29 through 45 on scan48;
+- scan48 closes the narrative and then preserves a separately printed historical note.
 
 ## Exact next activity
 
-T3 final source-fidelity closure of scans **44–48 only**.
+Whole-work Tamil audit across scans **24–48**.

@@ -1,4 +1,4 @@
-# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / T3 scans 44–48
+# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / whole-work Tamil audit
 
 Continue directly in pugazg/kalaignar-novels, branch main, active work works/sarapallam-samundi/. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,34 +10,50 @@ TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2
 
 - component scans **24–48 / 25 scans**;
 - canonical records **25/25 — COMPLETE**;
-- verified **20/25 — scans 24–43**;
-- scans 24–43 **T1+T2+T3 PASS / VERIFIED**;
-- scans 44–48 **T1+T2 PASS / needs-review**;
-- scans 44–48 T2 **5 corrections / 0 unresolved historical glyphs**;
-- scans 44–48 **T3 NEXT**.
+- verified records **25/25 — COMPLETE**;
+- all page-level T1/T2/T3 gates **PASS / VERIFIED**;
+- unresolved historical glyphs: **0**;
+- unresolved page-level source readings: **0**;
+- whole-work Tamil audit: **NEXT**;
+- assembled Tamil: **NOT STARTED / BLOCKED until audit**.
 
-## T2 corrections to preserve
+Final-batch T2 corrections: 5. Final-batch T3 corrections: 6.
 
-- scan44 `சில மிக அழகாயிருக்கிறது` → `சிலை மிக அழகாயிருக்கிறது`;
-- scan44 `எண்பதொன்றாவது` → `எண்பத்தொன்றாவது`;
-- scan44 `எண்பத்திரண்டாவது சில` → `எண்பத்திரண்டாவது சிலை`;
-- scan47 `சிலத்தொண்டு` → `சிலைத் தொண்டு`;
-- scan47 `என்னுடைய சில ஆசையை` → `என்னுடைய சிலை ஆசையை`.
+Scan28 is the unnumbered landscape illustration spread. Scan48 contains the narrative ending followed by a separately printed historical `குறிப்பு :`.
 
-Also preserve source-confirmed scan46 `மானழியது` / `கைநெருப்பு`, scan47 `எவரே ஒரு சிலருன்`, and scan48 `அனைவரும்` unless T3 direct pixels prove an ordinary transcription issue distinct from historical-glyph identity.
+## Mandatory startup
 
-## Exact next activity — T3 only
+Read completely:
 
-Perform final independent source-fidelity closure for physical scans **44–48**:
+1. NOVEL_PROCESSING_GUIDE.md
+2. SOURCE_BATCH_CHECKPOINT_WORKFLOW.md
+3. HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md
+4. HANDOVER.md
+5. this prompt
+6. collections/arumbu-1978/README.md
+7. collections/arumbu-1978/indexes/work-map.md
+8. works/sarapallam-samundi/README.md
+9. works/sarapallam-samundi/metadata/source.md
+10. works/sarapallam-samundi/indexes/page-map.md
+11. works/sarapallam-samundi/audit.md
+12. all T1/T2/T3 batch files
+13. all 25 canonical page records
+14. completed whole-work Tamil audit exemplar(s) from an already closed work such as works/arumbu/.
 
-- compare each complete source scan against its canonical record;
-- check omissions, duplicated/misplaced text, source wording, punctuation and paragraph boundaries;
-- confirm 43→44, 44→45, 46→47 and 47→48 continuity;
-- confirm all T2 character identities remain correct;
-- confirm scan48 story ending and source-printed `குறிப்பு :` separation;
-- correct only what direct source pixels support;
-- if all five pass, mark them `verified`;
-- create/update T3 batch audit and synchronize controls;
+## Exact next activity — whole-work Tamil audit only
+
+Independently audit the complete Tamil canonical layer across physical scans **24–48**:
+
+- verify all 25 canonical records are present, ordered and verified;
+- compare the complete work against source pixels at whole-work level, not merely trusting batch closure;
+- check omissions, duplication, page-boundary fragments and physical joins;
+- recheck printed-page mapping, including scan28 unnumbered landscape spread;
+- confirm title/illustration handling and that non-body source material was not silently narrated;
+- confirm scan48 narrative ending and the source-printed historical `குறிப்பு :` remain distinct and complete;
+- preserve source spelling, punctuation, unusual forms and historical-glyph decisions;
+- correct only genuinely source-proven residual issues;
+- create a durable whole-work Tamil audit report modeled on completed work precedent;
+- synchronize work/root/collection handover and status controls;
 - commit and stop.
 
-Do not begin the whole-work Tamil audit or the 1978 பெரிய இடத்துப் பெண் witness comparison in the same checkpoint.
+Do not assemble Tamil, start English, or begin the 1978 பெரிய இடத்துப் பெண் witness comparison in the same checkpoint.

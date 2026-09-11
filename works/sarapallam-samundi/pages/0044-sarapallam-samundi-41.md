@@ -4,13 +4,13 @@ printed_page: 41
 work: "sarapallam-samundi"
 section: "சாரப்பள்ளம் சாமுண்டி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; final source-fidelity T3 complete"
 ---
 
-சுவைத்துக்கொண்டே ஒருவாறு அன்றையப்பணியை முடித்தான்-
+சுவைத்துக்கொண்டே ஒருவாறு அன்றையப்பணியை முடித்தான்.
 “சிலை மிக அழகாயிருக்கிறது!” என்று சாமுண்டி பாராட்டிவிட்டுத் தான் போனாள். ஆனால் அவனுக்கு என்னவோ அவ்வளவு திருப்தியில்லை.
 
 இப்படியே சில நாட்கள் நகர்ந்தன. சாமுண்டியின் உள்ளத்திலும் இனியனைப் பற்றிய குழப்பம் எழுந்திருக்கிறது என்பதற்கு அறிகுறிகள் அவள் முகத்தில் தோன்றியவண்ணம் இருந்தன.
@@ -46,3 +46,12 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - corrected `எண்பதொன்றாவது` → source **`எண்பத்தொன்றாவது`** at direct character-identity level;
 - unresolved historical glyphs: **0**;
 - page remains `needs-review` pending T3.
+
+## T3 final source-fidelity notes
+
+- complete scan independently compared against direct source pixels;
+- corrected the opening continuation's page-internal mark `முடித்தான்-` → source **`முடித்தான்.`**;
+- all three T2 corrections (`சிலை`, `எண்பத்தொன்றாவது`, final `சிலை`) were reconfirmed;
+- scan 43→44 and 44→45 continuity, printed page **41**, dialogue and paragraph order were checked;
+- unresolved source readings: **0**;
+- page status: **VERIFIED**.

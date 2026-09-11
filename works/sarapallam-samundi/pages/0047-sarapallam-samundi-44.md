@@ -4,10 +4,10 @@ printed_page: 44
 work: "sarapallam-samundi"
 section: "சாரப்பள்ளம் சாமுண்டி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; final source-fidelity T3 complete"
 ---
 
 தொடங்கினாள்.
@@ -16,7 +16,7 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 இராசேந்திரன் அவளை இறுக அணைத்தவாறு ஆறுதல் மொழியில்,
 
-“பஞ்சவன் மாதேவி! கலைத் தொண்டினைப் பழிக்காதே! எவரே ஒரு சிலருன் செய்த தவற்றுக்காகக் கலையின் மீதே வெறுப்புக் கொள்ளலாமா? பாவம்; இனியன் தெரியாமல் செய்த பிழைதான் இது! அவனை மன்னித்துவிடலாம்!”
+“பஞ்சவன் மாதேவி! கலைத் தொண்டினைப் பழிக்காதே! எவரோ ஒரு சிலருன் செய்த தவற்றுக்காகக் கலையின் மீதே வெறுப்புக் கொள்ளலாமா? பாவம்; இனியன் தெரியாமல் செய்த பிழைதான் இது! அவனை மன்னித்துவிடலாம்!”
 
 இந்த உரையாடல் இனியனைத் தட்டி எழுப்பியது.
 
@@ -62,3 +62,13 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - source-sensitive `எவரே ஒரு சிலருன்` was rechecked and retained exactly as printed rather than normalized;
 - unresolved historical glyphs: **0**;
 - page remains `needs-review` pending T3.
+
+## T3 final source-fidelity notes
+
+- complete scan independently compared against direct source pixels;
+- corrected `எவரே ஒரு சிலருன்` → source **`எவரோ ஒரு சிலருன்`**;
+- T2 `சிலைத் தொண்டு` and `சிலை ஆசையை` were reconfirmed from direct pixels;
+- source-period `ஒரு சிலருன்` and `நிறைவேற்று வதற்கு` were retained rather than context-normalized;
+- scan 46→47 / 47→48 continuity, printed page **44**, dialogue and paragraph sequence were checked;
+- unresolved source readings: **0**;
+- page status: **VERIFIED**.

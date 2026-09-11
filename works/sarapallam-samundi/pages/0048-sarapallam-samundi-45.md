@@ -4,13 +4,13 @@ printed_page: 45
 work: "sarapallam-samundi"
 section: "சாரப்பள்ளம் சாமுண்டி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; final source-fidelity T3 complete"
 ---
 
-அனைவரும் இனியன் பக்கம் திரும்பினர். அவனே அங்குக் காணவில்லை.
+அனைவரும் இனியன் பக்கம் திரும்பினர். அவன் அங்குக் காணவில்லை.
 
 அவன் ஓடினான்! ஓடினான்! யாரும் அவனைப் பிடித்து மன்னிக்க முடியாத தூரத்துக்கு ஓடியே போய்விட்டான்!
 
@@ -34,3 +34,14 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - story ending and source-printed `குறிப்பு :` remain structurally separate source units;
 - unresolved historical glyphs: **0**;
 - page remains `needs-review` pending T3.
+
+## T3 final source-fidelity notes
+
+- complete scan independently compared against direct source pixels;
+- corrected `அவனே அங்குக் காணவில்லை` → source **`அவன் அங்குக் காணவில்லை`**;
+- story ending was independently rechecked;
+- the separately printed `குறிப்பு :` historical-basis paragraph was rechecked as source content and remains structurally distinct from the narrative ending;
+- printed page **45** and scan 47→48 continuation were reconfirmed;
+- no additional historical-glyph correction was required;
+- unresolved source readings: **0**;
+- page status: **VERIFIED**.
