@@ -7,12 +7,12 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 தொடங்கினாள்.
 
-“அத்தான்! போதும் நான் செய்த சிலத்தொண்டு!!” என்று கதறினாள்.
+“அத்தான்! போதும் நான் செய்த சிலைத் தொண்டு!!” என்று கதறினாள்.
 
 இராசேந்திரன் அவளை இறுக அணைத்தவாறு ஆறுதல் மொழியில்,
 
@@ -40,7 +40,7 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 இனியனுக்கு இப்போது எங்கு நிற்கிறோம் என்றே புரியவில்லை! அவன் செத்துக்கொண்டிருக்கிறான்!! அவனுக்கே தெரியவில்லை!
 
-அழுதுகொண்டிருக்கும் மருமகளிடம் வந்து இராசராசன் “பஞ்சவன் மாதேவி! என்னுடைய சில ஆசையை நிறைவேற்று வதற்கு உன் கணவன் இராசேந்திரன் இட்ட கட்டளையை எனக்காக ஏற்றுக்கொண்டு நீ செய்த தியாகத்தை நான் என்றும் மறவேன். உங்களுக்குத் துணையாக இருந்து உதவிய கிழவி அழகியை எப்படிப் பாராட்டுவதென்றே தெரியவில்லை, அவள் உன்னைச் சிற்பக் கூடத்திற்கு அனுப்பியது மட்டுமல்ல; கண்ணுங் கருத்துமாக இருந்து உன்னைப் பாதுகாத்தும் வந்திருக்கிறாள். நேற்றைய தினம் அவள் கொடுத்த செய்திக்குப் பிறகுதான் சிற்பியின் மீது சந்தேகமுற்ற நாங்கள் இன்று இங்கு வந்தோம். உனக்கு நாங்கள் அளித்த தொல்லைக்காக எங்களை மன்னித்துவிடு!” என்று கண்ணீர் பொங்கக் கூறியதும், “சக்கரவர்த்தி! அப்படிச் சொல்லாதீர்கள்!” என்றவாறு அரசரின் காலில் விழுந்து வணங்கினாள் பஞ்சவன்மாதேவி!
+அழுதுகொண்டிருக்கும் மருமகளிடம் வந்து இராசராசன் “பஞ்சவன் மாதேவி! என்னுடைய சிலை ஆசையை நிறைவேற்று வதற்கு உன் கணவன் இராசேந்திரன் இட்ட கட்டளையை எனக்காக ஏற்றுக்கொண்டு நீ செய்த தியாகத்தை நான் என்றும் மறவேன். உங்களுக்குத் துணையாக இருந்து உதவிய கிழவி அழகியை எப்படிப் பாராட்டுவதென்றே தெரியவில்லை, அவள் உன்னைச் சிற்பக் கூடத்திற்கு அனுப்பியது மட்டுமல்ல; கண்ணுங் கருத்துமாக இருந்து உன்னைப் பாதுகாத்தும் வந்திருக்கிறாள். நேற்றைய தினம் அவள் கொடுத்த செய்திக்குப் பிறகுதான் சிற்பியின் மீது சந்தேகமுற்ற நாங்கள் இன்று இங்கு வந்தோம். உனக்கு நாங்கள் அளித்த தொல்லைக்காக எங்களை மன்னித்துவிடு!” என்று கண்ணீர் பொங்கக் கூறியதும், “சக்கரவர்த்தி! அப்படிச் சொல்லாதீர்கள்!” என்றவாறு அரசரின் காலில் விழுந்து வணங்கினாள் பஞ்சவன்மாதேவி!
 
 “யார் யாரை மன்னிப்பது?” என்று அவள் அரசரைப் பார்த்துத் தேம்பும் குரலில் கேட்டாள்.
 
@@ -53,3 +53,12 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - final dash after `திரும்பினார்-` is preserved as a physical continuation to scan 48;
 - source-sensitive first-pass forms including `சிலத்தொண்டு` and `எவரே ஒரு சிலருன்` are deliberately left for independent T2/T3 source checking;
 - page remains `needs-review`.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read against direct source pixels;
+- explicitly checked the full known historical-glyph family set;
+- corrected T1 `சிலத்தொண்டு` → source **`சிலைத் தொண்டு`** and `என்னுடைய சில ஆசையை` → **`என்னுடைய சிலை ஆசையை`** as historical `லை` identities;
+- source-sensitive `எவரே ஒரு சிலருன்` was rechecked and retained exactly as printed rather than normalized;
+- unresolved historical glyphs: **0**;
+- page remains `needs-review` pending T3.

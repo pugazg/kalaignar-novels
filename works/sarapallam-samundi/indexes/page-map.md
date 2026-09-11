@@ -24,16 +24,16 @@ Physical source span: **24–48 / 25 scans**.
 | 41 | 38 | ../pages/0041-sarapallam-samundi-38.md | **VERIFIED — T1+T2+T3 PASS** |
 | 42 | 39 | ../pages/0042-sarapallam-samundi-39.md | **VERIFIED — T1+T2+T3 PASS** |
 | 43 | 40 | ../pages/0043-sarapallam-samundi-40.md | **VERIFIED — T1+T2+T3 PASS** |
-| 44 | 41 | ../pages/0044-sarapallam-samundi-41.md | **T1 PASS / needs-review** |
-| 45 | 42 | ../pages/0045-sarapallam-samundi-42.md | **T1 PASS / needs-review** |
-| 46 | 43 | ../pages/0046-sarapallam-samundi-43.md | **T1 PASS / needs-review** |
-| 47 | 44 | ../pages/0047-sarapallam-samundi-44.md | **T1 PASS / needs-review** |
-| 48 | 45 | ../pages/0048-sarapallam-samundi-45.md | **T1 PASS / needs-review — story ending + source note** |
+| 44 | 41 | ../pages/0044-sarapallam-samundi-41.md | **T1+T2 PASS / needs-review** |
+| 45 | 42 | ../pages/0045-sarapallam-samundi-42.md | **T1+T2 PASS / needs-review** |
+| 46 | 43 | ../pages/0046-sarapallam-samundi-43.md | **T1+T2 PASS / needs-review** |
+| 47 | 44 | ../pages/0047-sarapallam-samundi-44.md | **T1+T2 PASS / needs-review** |
+| 48 | 45 | ../pages/0048-sarapallam-samundi-45.md | **T1+T2 PASS / needs-review — story ending + source note** |
 
 Canonical records: **25 / 25 — COMPLETE**.  
 Verified records: **20 / 25**.  
-Scans 44–48 T1: **PASS / COMPLETE**.  
-Scans 44–48 T2: **NEXT**.
+Scans 44–48 T2: **PASS / COMPLETE — 5 corrections / 0 unresolved historical glyphs**.  
+Scans 44–48 T3: **NEXT**.
 
 ## Continuity
 
@@ -41,8 +41,8 @@ Scans 44–48 T2: **NEXT**.
 - 44→45: `என்று அவள் புன்னகை` / `பொங்கக் கூறியபோது...`;
 - 46→47: `விம்மி அழத்` / `தொடங்கினாள்.`;
 - 47→48: `திரும்பினார்-` / `அனைவரும் இனியன் பக்கம் திரும்பினர்.`;
-- scan 48 closes the story and preserves a separately printed historical note.
+- scan48 closes the story and preserves the separately printed historical note.
 
 ## Exact next activity
 
-T2 independent historical-glyph re-read of scans **44–48 only**.
+T3 final source-fidelity closure of scans **44–48 only**.

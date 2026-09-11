@@ -1,4 +1,4 @@
-# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / T2 scans 44–48
+# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / T3 scans 44–48
 
 Continue directly in pugazg/kalaignar-novels, branch main, active work works/sarapallam-samundi/. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,34 +12,32 @@ TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2
 - canonical records **25/25 — COMPLETE**;
 - verified **20/25 — scans 24–43**;
 - scans 24–43 **T1+T2+T3 PASS / VERIFIED**;
-- scans 44–48 **T1 PASS / COMPLETE**;
-- scans 44–48 **T2 NEXT**.
+- scans 44–48 **T1+T2 PASS / needs-review**;
+- scans 44–48 T2 **5 corrections / 0 unresolved historical glyphs**;
+- scans 44–48 **T3 NEXT**.
 
-Printed pages for the final batch: **44→41, 45→42, 46→43, 47→44, 48→45**.
+## T2 corrections to preserve
 
-Physical/structural points to preserve:
+- scan44 `சில மிக அழகாயிருக்கிறது` → `சிலை மிக அழகாயிருக்கிறது`;
+- scan44 `எண்பதொன்றாவது` → `எண்பத்தொன்றாவது`;
+- scan44 `எண்பத்திரண்டாவது சில` → `எண்பத்திரண்டாவது சிலை`;
+- scan47 `சிலத்தொண்டு` → `சிலைத் தொண்டு`;
+- scan47 `என்னுடைய சில ஆசையை` → `என்னுடைய சிலை ஆசையை`.
 
-- 43→44: `அவன் அன்றையதினம்` / `சுவைத்துக்கொண்டே...`;
-- 44→45: `என்று அவள் புன்னகை` / `பொங்கக் கூறியபோது...`;
-- 46→47: `விம்மி அழத்` / `தொடங்கினாள்.`;
-- 47→48: `திரும்பினார்-` / `அனைவரும் இனியன் பக்கம் திரும்பினர்.`;
-- scan48 story ending is followed by a source-printed `குறிப்பு :` and both are canonical source text.
+Also preserve source-confirmed scan46 `மானழியது` / `கைநெருப்பு`, scan47 `எவரே ஒரு சிலருன்`, and scan48 `அனைவரும்` unless T3 direct pixels prove an ordinary transcription issue distinct from historical-glyph identity.
 
-## Mandatory startup
+## Exact next activity — T3 only
 
-Read NOVEL_PROCESSING_GUIDE.md, SOURCE_BATCH_CHECKPOINT_WORKFLOW.md, HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md, HANDOVER.md, this prompt, collection README/work-map, work README/source/page-map/audit, T1_BATCH_044_048.md, and canonical page records 0044–0048.
+Perform final independent source-fidelity closure for physical scans **44–48**:
 
-## Exact next activity — T2 only
-
-Independently re-read physical scans **44–48** against direct source pixels.
-
-- check each complete scan;
-- explicitly cover ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ;
-- distinguish character identity from lexical expectation;
-- explicitly recheck first-pass source-sensitive readings including scan44 `சில மிக அழகாயிருக்கிறது` / `எண்பத்திரண்டாவது சில`, scan46 `மானழியது`, scan47 `சிலத்தொண்டு` / `எவரே ஒரு சிலருன்`, and scan48 `அனைவரும்`;
-- correct only when direct source pixels positively support character identity;
-- do not modernize spelling/grammar/vocabulary;
-- update page notes plus T2 batch/audit/control files;
+- compare each complete source scan against its canonical record;
+- check omissions, duplicated/misplaced text, source wording, punctuation and paragraph boundaries;
+- confirm 43→44, 44→45, 46→47 and 47→48 continuity;
+- confirm all T2 character identities remain correct;
+- confirm scan48 story ending and source-printed `குறிப்பு :` separation;
+- correct only what direct source pixels support;
+- if all five pass, mark them `verified`;
+- create/update T3 batch audit and synchronize controls;
 - commit and stop.
 
-Do not perform T3 or begin the 1978 பெரிய இடத்துப் பெண் witness comparison in the same checkpoint.
+Do not begin the whole-work Tamil audit or the 1978 பெரிய இடத்துப் பெண் witness comparison in the same checkpoint.

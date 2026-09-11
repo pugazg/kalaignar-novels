@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 அனைவரும் இனியன் பக்கம் திரும்பினர். அவனே அங்குக் காணவில்லை.
@@ -24,3 +24,13 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - the source-printed note is preserved as printed content, not an editorial repository note;
 - this is the final physical scan of `சாரப்பள்ளம் சாமுண்டி`;
 - T2/T3 pending; page remains `needs-review`.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read against direct source pixels;
+- explicitly checked the full known historical-glyph family set;
+- opening `அனைவரும்` and historical-note occurrences including `நிலைகளைப்`, `அடிவரிசையில்` and `சிற்பங்களாகச்` were rechecked at character-identity level;
+- no T1 character-identity correction was required;
+- story ending and source-printed `குறிப்பு :` remain structurally separate source units;
+- unresolved historical glyphs: **0**;
+- page remains `needs-review` pending T3.

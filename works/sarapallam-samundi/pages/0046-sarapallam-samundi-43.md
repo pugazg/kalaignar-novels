@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 அவன் நா ஒட்டிக்கொண்டது. அவள் ஆடத் தொடங்கினாள்.
@@ -25,3 +25,12 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - final fragment `விம்மி அழத்` continues to scan 47;
 - first-pass source-sensitive forms such as `எண்பத்தொரு சிலைகளும்`, `மானழியது`, and `கைநெருப்பு` are retained for later independent review;
 - page remains `needs-review`.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read against direct source pixels;
+- explicitly checked the full known historical-glyph family set;
+- `அவன் அவளைப்`, `எண்பத்தொரு சிலைகளும்`, `மானழியது` and `கைநெருப்பு` were independently rechecked and retained exactly as printed;
+- no T1 character-identity correction was required;
+- unresolved historical glyphs: **0**;
+- page remains `needs-review` pending T3.

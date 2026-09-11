@@ -21,15 +21,15 @@ TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2
 - verified: **20 / 25 — scans 24–43**;
 - scans 24–43: **T1+T2+T3 PASS / VERIFIED**;
 - scans 44–48 T1: **PASS / COMPLETE**;
-- scans 44–48 T2: **NEXT**;
-- scans 44–48 T3: **BLOCKED by T2**.
+- scans 44–48 T2: **PASS / COMPLETE — 5 corrections / 0 unresolved historical glyphs**;
+- scans 44–48 T3: **NEXT**.
 
-Final-batch printed pages are directly visible as scan44=41, scan45=42, scan46=43, scan47=44, scan48=45. Scan48 contains the story ending followed by the source-printed historical `குறிப்பு :`.
+Final-batch T2 corrections: scan44 `சிலை` (2 occurrences) + `எண்பத்தொன்றாவது`; scan47 `சிலைத் தொண்டு` + `சிலை ஆசையை`. Scans45/46/48 required no T2 character correction.
 
-Complete canonical page coverage is achieved, but whole-work Tamil verification is still blocked by final-batch T2/T3.
+Whole-work Tamil verification remains blocked only by final-batch T3.
 
 ## Exact next activity
 
-Execute **T2 independent historical-glyph / character-identity re-read for scans 44–48 only**. Check every complete scan and the sensitive glyph families, correct only from direct source pixels, synchronize controls, commit, and stop before T3.
+Execute **T3 final source-fidelity closure for scans 44–48 only**. If all five pass, mark them verified, synchronize controls, commit, and stop before the whole-work Tamil audit.
 
 Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.
