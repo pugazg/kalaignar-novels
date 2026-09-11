@@ -1,29 +1,37 @@
 # சாரப்பள்ளம் சாமுண்டி
 
 **ஆசிரியர்:** கலைஞர் மு. கருணாநிதி  
-**Source volume:** `அரும்பு` — தமிழ்க்கனி பதிப்பகம், முதற் பதிப்பு 1978  
+**Source volume:** அரும்பு — தமிழ்க்கனி பதிப்பகம், முதற் பதிப்பு 1978  
 **Source physical range:** scans **24–48**  
 **Source PDF committed:** No
 
 ## Current state
 
 - component span: **25 scans**;
-- canonical page records: **10 / 25 — scans 24–33**;
+- canonical page records: **15 / 25 — scans 24–38**;
 - verified records: **10 / 25 — scans 24–33**;
 - scans 24–28: **T1+T2+T3 PASS / VERIFIED**;
 - scans 29–33: **T1+T2+T3 PASS / VERIFIED**;
-- scans 29–33 T3: **13 source-fidelity correction items / 0 unresolved**;
-- final historical-glyph corrections for scans 29–33: **11 / 0 unresolved**;
-- scans 34–48: **NOT STARTED**.
+- scans 34–38 T1: **PASS / COMPLETE**;
+- scans 34–38 T2: **NEXT**;
+- scans 34–38 T3: **BLOCKED by T2**;
+- scans 39–48: **NOT STARTED**.
 
-Collection provenance: `../../collections/arumbu-1978/`.
+Collection provenance: ../../collections/arumbu-1978/.
 
-## Second batch closure
+## Third-batch T1
 
-T3 corrected ordinary transcription omissions/misreadings on all five pages and caught two historical identities that T2 had missed: scan29 `சிலைகளை` and scan31 `பிரமராயனை`.
+Physical scans **34–38** were directly visually transcribed as printed pages **31–35**. All five new records remain needs-review pending the independent historical-glyph T2 pass and T3 final source-fidelity closure.
 
-The largest correction was scan 33: the incorrect overnight-lodging reconstruction was removed and replaced with the directly printed source passage describing the rotating twenty-person meal list, the sculptors' acceptance, the evening meal, the shrinking flock and sale of goats.
+Important physical continuations:
+
+- scan 35 → 36: நூற்றெட்டுத் தாண் / டவ நிலைகள்தான்;
+- scan 36 → 37: தாண்டவ நிலைக்கு ஏற்றவாறு / பாவம் பிடித்துக் காட்ட வேண்டும்.;
+- scan 37 → 38: the king's lament continues;
+- scan 38 ends தள்ளிப் போட்டுக்கொண்டே and continues beyond the batch.
+
+Source-sensitive first-pass readings are intentionally preserved for T2 rather than modernized.
 
 ## Exact next activity
 
-Execute **T1 direct transcription for scans 34–38 only**. Create five canonical records from direct source pixels, preserve only visibly printed page numbers, synchronize controls, commit, and stop before T2.
+Execute **T2 independent historical-glyph / character-identity re-read for scans 34–38 only**, synchronize controls, commit, and stop before T3 or scan 39.

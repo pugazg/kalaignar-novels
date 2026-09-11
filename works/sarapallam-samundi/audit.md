@@ -6,29 +6,31 @@
 |---|---|
 | Source intake | **COMPLETE** |
 | Component boundary | **PASS — scans 24–48** |
-| Canonical records | **10 / 25 — scans 24–33** |
+| Canonical records | **15 / 25 — scans 24–38** |
 | Verified records | **10 / 25 — scans 24–33** |
 | T1/T2/T3 scans 24–28 | **PASS / VERIFIED** |
 | T1/T2/T3 scans 29–33 | **PASS / VERIFIED** |
-| T3 scans 29–33 | **13 correction items / 0 unresolved** |
-| Historical-glyph final scans 29–33 | **11 corrections / 0 unresolved** |
-| Scans 34–48 | **NOT STARTED** |
+| T1 scans 34–38 | **PASS / COMPLETE** |
+| T2 scans 34–38 | **NEXT** |
+| T3 scans 34–38 | **BLOCKED by T2** |
+| Scans 39–48 | **NOT STARTED** |
 | Downstream whole-work gates | **BLOCKED** |
 
 No source PDF is committed.
 
-## Second-batch T3 findings
+## Third-batch T1 findings
 
-The final source pass corrected **13 source-fidelity items/blocks** across scans 29–33. Major findings include:
+Scans **34–38** / printed pages **31–35** were visually transcribed once from direct source pixels. Five canonical records were created and remain needs-review.
 
-- scan 29: restored `சிலைகளை` and a substantial omitted passage explaining the gateway names;
-- scan 30: corrected `அவனையே` and source quote/word separation;
-- scan 31: corrected `ஒருவனை`, `பிரமராயனை`, `என்ற பெயரால்`, and `கோயிலைச் சுற்றி வடக்கிலும் தெற்கிலுமாக`;
-- scan 32: corrected `சூழ்ந்துகொண்டு` and `அவளை நெருங்கிப் பேச்சுக் கொடுக்கத் தொடங்கினர்`;
-- scan 33: removed the unsupported overnight-stay reconstruction and restored the complete printed meal/rotating-list/goat-sale passage.
+Cross-page fragments are preserved without assembly-layer rewriting:
 
-T3 also caught two historical identities missed during T2, raising final historical-glyph corrections for scans 29–33 from **9 to 11**. Unresolved historical glyphs: **0**. Unresolved source readings: **0**.
+- 35→36: நூற்றெட்டுத் தாண் / டவ நிலைகள்தான்;
+- 36→37: தாண்டவ நிலைக்கு ஏற்றவாறு / பாவம் பிடித்துக் காட்ட வேண்டும்.;
+- 37→38: continuous quoted lament;
+- scan 38 final தள்ளிப் போட்டுக்கொண்டே continues beyond this batch.
+
+Source-sensitive visual readings such as நிழலில் தானம்மா, மன்னர் மன்னு, போகிறோர் and தொடங்கப் பெறுமைக்கு remain for independent T2/T3 source review.
 
 ## Exact next activity
 
-Run **T1 scans 34–38 only**; do not begin T2 or scan 39 in the same checkpoint.
+Run T2 for scans **34–38 only**; do not perform T3 or begin scan 39 in the same checkpoint.
