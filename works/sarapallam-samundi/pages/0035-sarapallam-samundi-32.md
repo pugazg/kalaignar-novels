@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 “ஒரே கல்லா ?”
@@ -22,7 +22,7 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 “அரசர்க்கரசே ! என் வீட்டிலிருந்து சாரம் ஒன்று கட்டினால் கோபுரத்தின் உச்சிக்கு அந்தக் கல்லை ஏற்றுவது மிகச் சுலபமாக இருக்கும். என் வீட்டுக்கும் கோபுரத்திற்கும் இடையே நான்கு கல் தொலைவு இருக்கும். அங்கிருந்து சாரம் கட்டினால் கல்லைச் சாலையில் உருட்டிக்கொண்டு போவது போலச் சாரத்தில் உருட்டிச் சென்று விமானத்தில் ஏற்றிச் சென்றுவிடலாம்.” என்று வழி சொல்லிக் கொடுத்தாள்.
 
-அவளது வியத்தகு அறிவினைக் கண்டு சோழப் பெருவேந்தன் திகைத்துப்போனான். அவள் அளிக்கும் கல்லை விமானத் தளமாகப் பயன்படுத்த அவன் முடிவு செய்துவிட்டான். அந்த முடிவினைப் புன்னகை ததும்ப அறிவித்தவாறு, “ம் !.. நான் என்னதான் பெரிய கோயிலைக் கட்டினாலும் கடைசியில் ஆண்டவன் ‘யாம் கிழவி அளித்த நிழலில் உவந்திருப்பினோமே !’ எனக் கூறிவிடப் போகிறோர்” என்று பெருமூச்சுவிட்டுக்கொண்டான். அது ஆயாச மூச்சல்ல ! ஆனந்த மூச்சு !
+அவளது வியத்தகு அறிவினைக் கண்டு சோழப் பெருவேந்தன் திகைத்துப்போனான். அவள் அளிக்கும் கல்லை விமானத் தளமாகப் பயன்படுத்த அவன் முடிவு செய்துவிட்டான். அந்த முடிவினைப் புன்னகை ததும்ப அறிவித்தவாறு, “ம் !.. நான் என்னதான் பெரிய கோயிலைக் கட்டினாலும் கடைசியில் ஆண்டவன் ‘யாம் கிழவி அளித்த நிழலில் உவந்திருப்பினோமே !’ எனக் கூறிவிடப் போகிறார்” என்று பெருமூச்சுவிட்டுக்கொண்டான். அது ஆயாச மூச்சல்ல ! ஆனந்த மூச்சு !
 
 அழகி கூறிய ஆலோசனையின்படியே நான்கு கல் தொலைவிலுள்ள அவள் வீட்டிலிருந்து சாரம் கட்ட ஆரம்பித்து, அதில் அந்தப் பெரும் கல்லைத் தூக்கிவைத்து விமானத்திற்குக் கொண்டு சென்றார்கள் சிற்பிகள். சாரம் கட்டப்பட்ட அந்த இடத்திற்குச் ‘சாரப்பள்ளம்’ என்ற பெயரும் உடனே வழங்கத் தொடங்கிற்று. கிழவியின் நுண்ணறிவையும், தொண்டு உள்ளத்தையும் கெளரவிக்கும் முறையில் தஞ்சையில் அழகிக்குளம் ஒன்றை அமைக்கச் செய்தும் நன்றியைத் தெரிவித்துக்கொண்டான் அரசன்.
 
@@ -35,3 +35,12 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - final fragment நூற்றெட்டுத் தாண் continues physically to scan 36;
 - source-sensitive first-pass form போகிறோர் is retained for T2 rather than context-normalized;
 - T2/T3 pending; page remains needs-review.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read against direct source pixels;
+- explicitly checked the full known historical-glyph family set;
+- corrected T1 `போகிறோர்` → **`போகிறார்`**; direct source pixels support historical `றா` identity;
+- the cross-page `நூற்றெட்டுத் தாண்` fragment was rechecked and retained;
+- unresolved historical glyphs: **0**;
+- page remains `needs-review` pending T3.

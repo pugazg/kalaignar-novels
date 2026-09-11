@@ -10,28 +10,23 @@
 - component span: **25 scans**;
 - canonical page records: **15 / 25 — scans 24–38**;
 - verified records: **10 / 25 — scans 24–33**;
-- scans 24–28: **T1+T2+T3 PASS / VERIFIED**;
-- scans 29–33: **T1+T2+T3 PASS / VERIFIED**;
+- scans 24–33: **T1+T2+T3 PASS / VERIFIED**;
 - scans 34–38 T1: **PASS / COMPLETE**;
-- scans 34–38 T2: **NEXT**;
-- scans 34–38 T3: **BLOCKED by T2**;
+- scans 34–38 T2: **PASS / COMPLETE — 4 corrections / 0 unresolved historical glyphs**;
+- scans 34–38 T3: **NEXT**;
 - scans 39–48: **NOT STARTED**.
 
-Collection provenance: ../../collections/arumbu-1978/.
+## Third-batch T2
 
-## Third-batch T1
+Direct source-pixel reread corrected four historical character identities:
 
-Physical scans **34–38** were directly visually transcribed as printed pages **31–35**. All five new records remain needs-review pending the independent historical-glyph T2 pass and T3 final source-fidelity closure.
+- scan34 `அவளே` → `அவளை`;
+- scan34 `ஆடுகளே` → `ஆடுகளை`;
+- scan35 `போகிறோர்` → `போகிறார்`;
+- scan37 `மேலேக்` → `மேலைக்`.
 
-Important physical continuations:
-
-- scan 35 → 36: நூற்றெட்டுத் தாண் / டவ நிலைகள்தான்;
-- scan 36 → 37: தாண்டவ நிலைக்கு ஏற்றவாறு / பாவம் பிடித்துக் காட்ட வேண்டும்.;
-- scan 37 → 38: the king's lament continues;
-- scan 38 ends தள்ளிப் போட்டுக்கொண்டே and continues beyond the batch.
-
-Source-sensitive first-pass readings are intentionally preserved for T2 rather than modernized.
+The flagged forms `நிழலில் தானம்மா`, `மன்னர் மன்னு`, `நூற்றெட்டுத் தாண்`, and `தொடங்கப் பெறுமைக்கு` were independently checked and retained where printed. All five records remain `needs-review` pending T3.
 
 ## Exact next activity
 
-Execute **T2 independent historical-glyph / character-identity re-read for scans 34–38 only**, synchronize controls, commit, and stop before T3 or scan 39.
+Execute **T3 final source-fidelity closure for scans 34–38 only**, synchronize controls, commit, and stop before scan 39.

@@ -21,16 +21,14 @@ TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2
 - verified: **10 / 25 — scans 24–33**;
 - scans 24–33: **T1+T2+T3 PASS / VERIFIED**;
 - scans 34–38 T1: **PASS / COMPLETE**;
-- scans 34–38 T2: **NEXT**;
-- scans 34–38 T3: **BLOCKED by T2**;
+- scans 34–38 T2: **PASS / COMPLETE — 4 corrections / 0 unresolved historical glyphs**;
+- scans 34–38 T3: **NEXT**;
 - scans 39–48: **NOT STARTED**.
 
-Third-batch printed pages are directly visible as scan34=31, scan35=32, scan36=33, scan37=34, scan38=35. The new records remain needs-review.
-
-Important T1 physical joins: 35→36 நூற்றெட்டுத் தாண் / டவ நிலைகள்தான்; 36→37 தாண்டவ நிலைக்கு ஏற்றவாறு / பாவம் பிடித்துக் காட்ட வேண்டும்.; scan 38 ends தள்ளிப் போட்டுக்கொண்டே and continues beyond the batch.
+T2 corrected scan34 `அவளை`, `ஆடுகளை`; scan35 `போகிறார்`; scan37 `மேலைக்`. Source-sensitive `நிழலில் தானம்மா`, `மன்னர் மன்னு`, `நூற்றெட்டுத் தாண்`, and `தொடங்கப் பெறுமைக்கு` were rechecked and retained.
 
 ## Exact next activity
 
-Execute **T2 independent historical-glyph / character-identity re-read for scans 34–38 only**. Check each complete scan and all sensitive glyph families, correct only from direct source pixels, synchronize controls, commit, and stop before T3.
+Execute **T3 final source-fidelity closure for scans 34–38 only**. Check complete-page omissions/duplication/punctuation/joins and T2 findings, synchronize controls, commit, and stop before scan 39.
 
 Do not begin scan 39 or the 1978 பெரிய இடத்துப் பெண் witness comparison in the same checkpoint.

@@ -14,14 +14,11 @@
 - scan 48 was intake-observed to visibly print **45**
 - source PDF committed: **No**
 
-## Pagination caution
-
-Do not infer absent printed numbers from sequence. Scan 28 remains printed_page null. All later mappings are recorded from directly visible source numbering.
-
 ## Processing state
 
 - scans 24–33: **T1+T2+T3 PASS / VERIFIED — 10/25**;
-- scans 34–38: **T1 PASS / COMPLETE — needs-review**;
+- scans 34–38: **T1+T2 PASS / needs-review**;
+- scans 34–38 T2: **4 corrections / 0 unresolved historical glyphs**;
 - canonical records: **15/25**;
 - verified records: **10/25**;
-- next: **T2 scans 34–38**.
+- next: **T3 scans 34–38**.

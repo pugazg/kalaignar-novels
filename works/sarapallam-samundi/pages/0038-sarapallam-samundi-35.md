@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 எதிர்காலத்தில் நமது பேரரசின் பரப்பளவா மிச்சம் இருக்கப்போகிறது ? இருந்தால்தான் என்ன ? அதைப் பார்த்து எனது வீரத்தை மதிப்பிடலாம். ‘கலையுள்ளம் இல்லாத காட்டுமிராண்டியின் போக்கிற்கு வீரமென்று பெயர் ? வெறிக்கூத்தல்லவா ?’ - என்று எதிர்காலம் கேள்வி கேட்குமே ! அதற்குப் பதில் சொல்லவது யார்? தஞ்சைக் கோயிலில் இருக்கும் என் சிலையா ? வேண்டாம் ! வேண்டாம் ! அந்தச் சிலையை அவமானப்படுத்த வேண்டாம் ! இப்போதே அதனை உடைத்தெறிந்துவிட உத்தரவிடுகிறேன் !”
@@ -25,3 +25,12 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - final fragment தள்ளிப் போட்டுக்கொண்டே continues beyond this batch to scan 39;
 - first-pass source wording/punctuation is preserved; T2/T3 pending;
 - page remains needs-review.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read against direct source pixels;
+- explicitly checked the full known historical-glyph family set;
+- representative `லை / ளை / றா / னா / னை` family occurrences were checked in context;
+- no T1 character-identity correction was required;
+- unresolved historical glyphs: **0**;
+- page remains `needs-review` pending T3.

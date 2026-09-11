@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 டவ நிலைகள்தான் இன்னும் செதுக்கிடத் தொடங்கவில்லை. இது இராசராசன் இதயத்தில் பெருங் குறையாகவே இருந்தது. அந்த வேலை பூர்த்தியடையாமல் அவனுக்கு நிம்மதி கிடையாது.
@@ -43,3 +43,12 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - final fragment continues directly to scan 37;
 - source-sensitive first-pass phrase தொடங்கப் பெறுமைக்கு is retained for later source/glyph review;
 - T2/T3 pending; page remains needs-review.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read against direct source pixels;
+- explicitly checked the full known historical-glyph family set;
+- no T1 character-identity correction was required;
+- source-sensitive `தொடங்கப் பெறுமைக்கு` was rechecked and retained as printed; no lexical modernization was applied;
+- unresolved historical glyphs: **0**;
+- page remains `needs-review` pending T3.

@@ -1,4 +1,4 @@
-# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / T2 scans 34–38
+# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / T3 scans 34–38
 
 Continue directly in pugazg/kalaignar-novels, branch main, active work works/sarapallam-samundi/. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,29 +12,33 @@ TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2
 - canonical records **15/25 — scans 24–38**;
 - verified **10/25 — scans 24–33**;
 - scans 24–33 **T1+T2+T3 PASS / VERIFIED**;
-- scans 34–38 **T1 PASS / COMPLETE**;
-- scans 34–38 **T2 NEXT**;
+- scans 34–38 **T1+T2 PASS / needs-review**;
+- scans 34–38 T2 **4 corrections / 0 unresolved historical glyphs**;
+- scans 34–38 **T3 NEXT**;
 - scans 39–48 **NOT STARTED**.
 
-Printed pages for the new batch: **34→31, 35→32, 36→33, 37→34, 38→35**.
+## T2 corrections to preserve
 
-Physical joins to preserve: scan35 நூற்றெட்டுத் தாண் → scan36 டவ நிலைகள்தான்; scan36 தாண்டவ நிலைக்கு ஏற்றவாறு → scan37 பாவம் பிடித்துக் காட்ட வேண்டும்.; scan37→38 is a continuous quotation; scan38 ends தள்ளிப் போட்டுக்கொண்டே.
+- scan34 `அவளே` → `அவளை`;
+- scan34 `ஆடுகளே` → `ஆடுகளை`;
+- scan35 `போகிறோர்` → `போகிறார்`;
+- scan37 `மேலேக்` → `மேலைக்`.
 
-## Mandatory startup
+Also preserve source-confirmed `நிழலில் தானம்மா`, `மன்னர் மன்னு`, `நூற்றெட்டுத் தாண்`, and `தொடங்கப் பெறுமைக்கு` unless T3 direct pixels prove a separate ordinary transcription issue.
 
-Read NOVEL_PROCESSING_GUIDE.md, SOURCE_BATCH_CHECKPOINT_WORKFLOW.md, HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md, HANDOVER.md, this prompt, collection README/work-map, work README/source/page-map/audit, T1_BATCH_034_038.md, and canonical page records 0034–0038.
+## Exact next activity — T3 only
 
-## Exact next activity — T2 only
+Perform final independent source-fidelity closure for physical scans **34–38**:
 
-Independently re-read physical scans **34–38** against direct source pixels.
-
-- check each complete scan;
-- explicitly cover ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ;
-- distinguish character identity from lexical expectation;
-- explicitly recheck T1 source-sensitive readings including நிழலில் தானம்மா, மன்னர் மன்னு, போகிறோர் and தொடங்கப் பெறுமைக்கு;
-- correct only when direct source pixels positively support the character identity;
-- do not modernize spelling/grammar/vocabulary;
-- update page notes plus T2 batch/audit/control files;
+- compare each complete source scan against its canonical record;
+- check omissions, duplicated/misplaced text, punctuation, paragraph boundaries and printed-page values;
+- confirm scan35→36, scan36→37 and scan37→38 continuity;
+- confirm all T2 character identities remain correct;
+- inspect ordinary transcription issues separately from historical-glyph identity;
+- correct only what direct source pixels support;
+- leave genuinely unresolved readings `needs-review`;
+- if all five pass, mark them `verified`;
+- create/update the T3 batch audit and synchronize controls;
 - commit and stop.
 
-Do not perform T3 or begin scan 39 in the same checkpoint.
+Do not begin scan 39 in the same checkpoint.
