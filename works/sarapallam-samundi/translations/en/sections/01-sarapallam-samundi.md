@@ -6,8 +6,8 @@ section_title: "Sarapallam Samundi"
 language: "en"
 planned_source_scans: "24-48"
 translated_source_scans: "24-48"
-status: "reviewed"
-batch_status: "Batches 1-5 scans 24-48 REVIEWED; whole-work bilingual review pending"
+status: "verified"
+batch_status: "Batches 1-5 scans 24-48 REVIEWED; Section 16 PASS; whole-work VERIFIED"
 derived_from: "audited Tamil pages/ records; assembled Tamil used for continuity"
 ---
 

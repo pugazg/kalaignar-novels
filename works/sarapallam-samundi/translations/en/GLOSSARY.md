@@ -1,6 +1,6 @@
 # English Translation Glossary — சாரப்பள்ளம் சாமுண்டி
 
-Status: **BATCHES 1–5 SOURCE-CHECKED / LOCKED — WHOLE-WORK REVIEW PENDING**.
+Status: **LOCKED / WHOLE-WORK ENGLISH VERIFIED — SECTION 16 PASS**.
 
 This file records source-bound translation decisions. Canonical Tamil remains authoritative. A locked English decision may be changed only through an explicit documented correction; it never silently alters Tamil.
 
@@ -204,4 +204,4 @@ Batch 4 source-check: **PASS / REVIEWED**.
 
 Batch 5 source-check: **PASS / REVIEWED**.
 
-All five controlled English batches are now **REVIEWED / COMPLETE**. Whole-work English remains **NOT VERIFIED** pending Section 16 bilingual review.
+All five controlled English batches are **REVIEWED / COMPLETE**. Section 16 whole-work bilingual review is **PASS / COMPLETE**; whole-work English is **VERIFIED**.

@@ -16,8 +16,8 @@
 - English translation plan: **PASS / COMPLETE**;
 - English coverage: **25 / 25 scans**;
 - English Batches 1–5 — scans **24–48: REVIEWED / COMPLETE**;
-- Section 16 whole-work bilingual review: **NEXT**;
-- whole-work English: **IN PROGRESS / NOT VERIFIED**.
+- Section 16 whole-work bilingual review: **PASS / COMPLETE**;
+- whole-work English: **VERIFIED**;
 
 ## Whole-work audit closure
 
@@ -57,6 +57,10 @@ Scans **39–43** are **REVIEWED / COMPLETE**. The open 38→39 sentence is comp
 
 Scans **44–48** are **REVIEWED / COMPLETE**. The 43→44, 44→45, 46→47 and 47→48 continuities are source-checked; the Panchavan Madevi revelation and final narrative are complete; scan 48 keeps the narrative ending distinct from the source-printed `குறிப்பு :`. Batch 5 source-check: **0 omissions / 0 source-like additions / 0 unresolved items**. English coverage is now **25/25 scans**, but whole-work English is **NOT VERIFIED** until Section 16 passes.
 
+## Whole-work English verification
+
+`translations/en/TRANSLATION_REVIEW.md` is **PASS / COMPLETE**. Complete coverage/order, omission/addition, speaker/agency, recurring terminology, rhetoric, cross-page joins, protected source oddities, scan-28 illustration exclusion, scan-48 narrative/note separation and one-section identity all pass. Whole-work English is **VERIFIED**.
+
 ## Exact next activity
 
-**Section 16 whole-work bilingual review only.** Create `translations/en/TRANSLATION_REVIEW.md`, audit the complete English against the canonical Tamil/assembled layer, and only if every Section 16 gate passes mark whole-work English `verified`.
+**Section 17 release-readiness gate only.** Create `translations/en/RELEASE_REPORT.md`, perform the archival/editorial release-readiness checks, synchronize controls, commit, and stop.

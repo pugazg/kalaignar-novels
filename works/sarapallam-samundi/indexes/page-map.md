@@ -48,9 +48,10 @@ Unresolved historical glyphs / source readings: **0 / 0**.
 
 English translation plan: **PASS / COMPLETE**.  
 English coverage: **25 / 25 scans** — scans **24–48 REVIEWED / COMPLETE**.  
-Section 16 whole-work bilingual review: **NEXT**.  
-Whole-work English: **NOT VERIFIED**.
+Section 16 whole-work bilingual review: **PASS / COMPLETE**.  
+Whole-work English: **VERIFIED**.  
+Section 17 release-readiness: **NEXT**.
 
 ## Exact next activity
 
-Section 16 whole-work bilingual review.
+Section 17 release-readiness gate.

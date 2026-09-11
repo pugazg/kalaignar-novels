@@ -1,6 +1,6 @@
 # English Translation — சாரப்பள்ளம் சாமுண்டி
 
-Status: **BATCHES COMPLETE — WHOLE-WORK REVIEW PENDING**.
+Status: **WHOLE-WORK ENGLISH VERIFIED — SECTION 16 PASS / COMPLETE**.
 
 Working English title: **Sarapallam Samundi**.
 
@@ -15,8 +15,8 @@ Canonical Tamil `../../pages/` remains final textual authority. PASSED assembled
 - Batch 4, scans **39–43** — **REVIEWED / COMPLETE**;
 - Batch 5, scans **44–48** — **REVIEWED / COMPLETE**;
 - English coverage — **25 / 25 scans**;
-- whole-work bilingual review — **NEXT / NOT STARTED**;
-- whole-work English — **NOT VERIFIED until Section 16 passes**;
+- whole-work bilingual review — **PASS / COMPLETE**;
+- whole-work English — **VERIFIED**;
 - canonical Tamil changes during English work — **0**;
 - unresolved Batches 1–5 translation items — **0**.
 
@@ -24,4 +24,6 @@ Batch 5 completes the open 43→44 sentence, covers the eighty-first/eighty-seco
 
 Batch 5 source-check: **0 material omissions / 0 source-like additions / 0 unresolved items**.
 
-Next: **Section 16 whole-work bilingual review**. Do not call the English whole-work verified until that separate review passes.
+Section 16 whole-work bilingual review: **PASS / COMPLETE**. See `TRANSLATION_REVIEW.md`.
+
+Next: **Section 17 release-readiness gate**.

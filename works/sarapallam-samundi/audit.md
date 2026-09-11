@@ -17,8 +17,9 @@
 | English Batch 4 — scans 39–43 | **REVIEWED / COMPLETE** |
 | English Batch 5 — scans 44–48 | **REVIEWED / COMPLETE** |
 | English coverage | **25 / 25 scans** |
-| Section 16 whole-work bilingual review | **NEXT** |
-| Whole-work English | **NOT VERIFIED** |
+| Section 16 whole-work bilingual review | **PASS / COMPLETE** |
+| Whole-work English | **VERIFIED** |
+| Section 17 release-readiness | **NEXT** |
 
 No source PDF is committed.
 
@@ -75,6 +76,10 @@ Scans **39–43** passed draft translation and canonical-Tamil source check. Sam
 
 Scans **44–48** passed draft translation and canonical-Tamil source check. The 43→44, 44→45, 46→47 and 47→48 continuities, protected source oddities, Panchavan Madevi revelation, narrative ending and distinct source note all pass. Material omissions / source-like additions / unresolved items: **0 / 0 / 0**. Canonical Tamil changes: **0**.
 
+## Section 16 whole-work bilingual review
+
+`translations/en/TRANSLATION_REVIEW.md` is **PASS / COMPLETE**. Coverage/order, duplicate-span, omission/addition, speaker attribution, agency, recurring names/terms, rhetoric, dance/temple terminology, cross-page joins, protected source oddities, scan-28 illustration exclusion, scan-48 source-note separation and one-section identity all pass. Whole-work English is **VERIFIED**.
+
 ## Exact next activity
 
-Section 16 whole-work bilingual review. English has **25/25 reviewed scan coverage** but remains **NOT VERIFIED** until that gate passes.
+Section 17 release-readiness gate only. Whole-work English is already verified; release readiness remains a separate archival/editorial verdict.

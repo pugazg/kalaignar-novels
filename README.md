@@ -5,7 +5,7 @@
 ## Active source — அரும்பு 1978 compilation
 
 - அரும்பு — scans 6–23 — **RELEASE-READY / CLOSED**;
-- சாரப்பள்ளம் சாமுண்டி — scans 24–48 — **ACTIVE: English 25/25 REVIEWED; Section 16 bilingual review NEXT**;
+- சாரப்பள்ளம் சாமுண்டி — scans 24–48 — **ACTIVE: English 25/25 VERIFIED; Section 17 release-readiness NEXT**;
 - பெரிய இடத்துப் பெண் — scans 49–74 — additional 1978 witness;
 - நடுத்தெரு நாராயணி — scans 75–90 — queued.
 
@@ -20,11 +20,12 @@
 - English translation plan: **PASS / COMPLETE**;
 - English coverage: **25 / 25 scans**;
 - English Batches 1–5 — scans **24–48: REVIEWED / COMPLETE**;
-- Section 16 whole-work bilingual review: **NEXT**;
-- whole-work English: **IN PROGRESS / NOT VERIFIED**;
+- Section 16 whole-work bilingual review: **PASS / COMPLETE**;
+- whole-work English: **VERIFIED**;
+- Section 17 release-readiness: **NEXT**;
 - source PDF remains excluded.
 
-Exact next action: **Section 16 whole-work bilingual review for சாரப்பள்ளம் சாமுண்டி**.
+Exact next action: **Section 17 release-readiness gate for சாரப்பள்ளம் சாமுண்டி**.
 
 ## Completed works
 

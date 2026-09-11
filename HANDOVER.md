@@ -27,8 +27,9 @@ TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2
 - English translation plan: **PASS / COMPLETE**;
 - English coverage: **25 / 25 scans**;
 - English Batches 1–5 — scans **24–48: REVIEWED / COMPLETE**;
-- Section 16 whole-work bilingual review: **NEXT**;
-- whole-work English: **IN PROGRESS / NOT VERIFIED**.
+- Section 16 whole-work bilingual review: **PASS / COMPLETE**;
+- whole-work English: **VERIFIED**;
+- Section 17 release-readiness: **NEXT**;
 
 Whole-work mapping and continuity passed, including scan28's unnumbered landscape illustration spread and scan48's narrative-ending / separately printed historical-note distinction.
 
@@ -62,6 +63,10 @@ Scans **39–43** are **REVIEWED / COMPLETE**. The open 38→39 sentence is clos
 
 Scans **44–48** are **REVIEWED / COMPLETE**. All five English batches now cover **25/25 scans**. The final batch preserves the 43→44, 44→45, 46→47 and 47→48 continuities, protected source oddities, the Panchavan Madevi revelation, narrative ending, and the separate scan-48 source-printed `குறிப்பு :`. Batch-level omissions / source-like additions / unresolved items remain **0 / 0 / 0**. Whole-work English is still **NOT VERIFIED**.
 
+## Section 16 whole-work bilingual review closure
+
+`works/sarapallam-samundi/translations/en/TRANSLATION_REVIEW.md` is **PASS / COMPLETE**. All 25 scans are represented once in order; batch-level and whole-work omission/addition checks pass; speaker attribution, agency, names/terms, rhetoric, cross-page joins, protected source oddities, scan-28 illustration exclusion, scan-48 narrative/note separation and one-section identity pass. Whole-work English is **VERIFIED**.
+
 ## Exact next activity
 
-**Section 16 whole-work bilingual review only.** Create `works/sarapallam-samundi/translations/en/TRANSLATION_REVIEW.md`, check the complete 25-scan English layer against canonical Tamil and the assembled structure, and mark whole-work English verified only if every Section 16 gate passes. Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.
+**Section 17 release-readiness gate only.** Create `works/sarapallam-samundi/translations/en/RELEASE_REPORT.md`, record the required archival/editorial release checks and verdict, synchronize controls, commit, and stop. Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.
