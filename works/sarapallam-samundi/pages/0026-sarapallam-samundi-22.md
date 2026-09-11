@@ -4,10 +4,10 @@ printed_page: 22
 work: "sarapallam-samundi"
 section: "சாரப்பள்ளம் சாமுண்டி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; final source-fidelity T3 complete"
 ---
 
 கோடியென வெளிப்பட்டன. அவை இராசராசனின் வெற்றி ஒளியைப் பாய்ச்சின.
@@ -16,7 +16,7 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 பின்னர், குடமலை நாட்டு மன்னன்மீது தஞ்சை, பழி தீர்த்துக் கொள்ளக் கிளம்பியது. அந்த நாட்டிற்குத் தஞ்சையிலிருந்து அனுப்பப்பட்ட தூதன் கொல்லப்பட்ட செய்தி கேள்வியுற்ற சோழவேந்தன் இராசராசன் படைகொண்டு புறப்பட்டான். பெரிய காடுகள் பதினெட்டுக்கும் மேற்பட்டவைகளைத் தாண்டி, குடமலை நாட்டின் தலைநகரான வலிவுமிக்க உதகைப்பட்டினத்தை அழித்து வெற்றிமாலை சூடினான். குடமலை நாட்டு அரசன் மீனிசா போர்க்களத்தில் பெருவீரம் காட்டிப் போரிட்டான் என்பதை இராசேந்திரன் மூலம் அறிந்து, அந்த மீனிசாவுக்கு மாளவி என்ற நகரத்தை நன்கொடையாக வழங்கினான்.
 
-கீழைச் சாளுக்கிய நாட்டில் அரசுக்கட்டில் யாருக்குச் சொந்தம் என்பதிலே பெருங் குழப்பம் மூண்டிருந்தது. சக்திவர்மன் என்பவனும் அவன் மரபினரும் நாட்டைவிட்டுத் துரத்தப்பட்டனர். இராசராசன் சக்திவர்மனுக்கு ஆதரவு காட்டி அவனது எதிரிகளை முறியடித்துக் கீழைச்சாளுக்கிய நாட்டுக்குச் சக்திவர்மனை அரசனாக்கினான். சக்திவர்மனின் தம்பி விமலாதித்தனுக்கு இராசராசனின் மகள் சிறிய குந்தவையை மணம் செய்துகொடுத்துக் கீழைச்சாளுக்கிய நாட்டின் நட்பைப் பலப்படுத்திக்கொண்டது சோழநாடு!
+கீழைச் சாளுக்கிய நாட்டில் அரசுக்கட்டில் யாருக்குச் சொந்தம் என்பதிலே பெருங் குழப்பம் மூண்டிருந்தது. சக்திவர்மன் என்பவனும் அவன் மரபினரும் நாட்டைவிட்டுத் துரத்தப்பட்டனர். இராசராசன் சக்திவர்மனுக்கு ஆதரவு காட்டி அவனது எதிரிகளை முறியடித்துக் கீழைச்சாளுக்கிய நாட்டுக்குச் சக்திவர்மனை அரசனாக்கினான். சக்திவர்மனின் தம்பி விமலாதித்தனுக்கு இராசராசனின் மகள் சிறிய குந்தவையை மணம் செய்துகொடுத்துக் கீழைச் சாளுக்கிய நாட்டின் நட்பைப் பலப்படுத்திக்கொண்டது சோழநாடு!
 
 பின்னர், கலிங்கத்தில் நடந்த கடும்போரில் இராசராசன் வாகை சூடினான். கங்கபாடியின் மீது போர் தொடுத்து, அதன் தலைநகரான தாலக்காட்டைப் பிடித்து, அதற்கு இராசராசபுரம் எனப் பெயர் மாற்றினான். அதே வேகத்தில் நுளம்பபாடி வீழ்ச்சி
 
@@ -36,3 +36,14 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - first-pass source-sensitive forms `மாற்றரைச்`, `அமரபுசங்கனை`, `மீனிசா`, `மாளவி`, and `நுளம்பபாடி` were rechecked for character identity and retained;
 - no T1 character-identity correction was required;
 - unresolved historical glyphs: **0**.
+
+## T3 final source-fidelity notes
+
+- complete scan independently compared again against direct source pixels;
+- checked omissions, duplication, punctuation, paragraph boundaries, printed-page visibility, illustration/non-body separation and physical continuity;
+- corrected the third source occurrence `கீழைச்சாளுக்கிய நாட்டின்` → **`கீழைச் சாளுக்கிய நாட்டின்`**; the earlier `கீழைச்சாளுக்கிய நாட்டுக்குச்` occurrence remains unspaced because that is what the source prints there;
+- recorded cross-scan continuity remains source-supported;
+- unresolved source readings: **0**;
+- page status: **VERIFIED**.
+
+<!-- source physical scan: 26; T1 PASS / T2 PASS / T3 PASS / VERIFIED -->

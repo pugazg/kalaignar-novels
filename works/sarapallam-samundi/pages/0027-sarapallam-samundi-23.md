@@ -4,10 +4,10 @@ printed_page: 23
 work: "sarapallam-samundi"
 section: "சாரப்பள்ளம் சாமுண்டி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; final source-fidelity T3 complete"
 ---
 
 யுற்றது. தடிகைபாடியும் இராசராசனுக்குத் தலைவணங்கி நின்றது. அடுத்துக் கொல்லம் படையெடுப்பு ; கொடுங்கோளூர் மீது போர்! இரு நாடுகளையும் அடக்கிக் ‘கீர்த்திப்பராகிரமச் சோழன்’ என்ற பட்டத்தைப் பெற்றான் இராசராசன். மேலைக் கடற்கரையோரத்து மன்னர்கள் அனைவரையும் அடக்க முனைந்து, இராசேந்திரன் படைகொண்டு சென்று, துளுவர், கொங்கணர் ஆகியோரைச் சிறைப் பிடித்தும், சேரையும் தெலுங்கரையும் முறியடித்தும் சோழ பூமிக்கு ஒப்பற்ற வெற்றியைத் தேடிக் கொடுத்தான்.
@@ -20,7 +20,7 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 இராசராசனின் ஈடும் எடுப்பும் அற்ற வீரத்தோற்றம் போலவே அந்தக் கோயிலும் நிமிர்ந்து நின்று, பழந்தமிழ்ப் பெருவீரனின் போர்ப்பரணியையும் கலை முழக்கத்தையும் அரசியல் பேரொளியையும் அவனிக்கு அறிவித்துக்கொண்டிருக்கிறது.
 
-அந்தக் கோயிலை எழுப்புவதற்கு இராசராசன் தீட்டிய திட்டங்கள் எத்தனை ; எத்தனை! அவன் எண்ணங்கள் அத்தனையும் நிறைவேறியனவா? அந்தக் கலைக்கோயிலில் அவன் காண வேண்டுமென்று விரும்பிய அனைத்தும் பூர்த்தி செய்யப்பட்டுவிட்டனவா? இல்லை! அவன் எண்ணம் முழுதும் ஈடேறவில்லை! ஏன் ஈடேறவில்லை?
+அந்தக் கோயிலை எழுப்புவதற்கு இராசராசன் தீட்டிய திட்டங்கள் எத்தனை ; எத்தனை! அவன் எண்ணங்கள் அத்தனையும் நிறைவேறியனவா? அந்தக் கலைக்கோயிலில் அவன் காண வேண்டுமென்று விரும்பிய அனைத்தும் பூர்த்தி செய்யப்பட்டு விட்டனவா? இல்லை! அவன் எண்ணம் முழுதும் ஈடேறவில்லை! ஏன் ஈடேறவில்லை?
 
 ## T1 direct-transcription notes
 
@@ -38,3 +38,14 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - first-pass `கீர்த்திப்பராகிரமச்`, `சத்தியாச்ரயன்`, `முந்நீர்ப் பழந்தீவு பன்னீராயிரமும்`, and `அவனிக்கு` were rechecked for character identity and retained;
 - no T1 character-identity correction was required;
 - unresolved historical glyphs: **0**.
+
+## T3 final source-fidelity notes
+
+- complete scan independently compared again against direct source pixels;
+- checked omissions, duplication, punctuation, paragraph boundaries, printed-page visibility, illustration/non-body separation and physical continuity;
+- corrected `பூர்த்தி செய்யப்பட்டுவிட்டனவா?` → source-supported **`பூர்த்தி செய்யப்பட்டு விட்டனவா?`**;
+- recorded cross-scan continuity remains source-supported;
+- unresolved source readings: **0**;
+- page status: **VERIFIED**.
+
+<!-- source physical scan: 27; T1 PASS / T2 PASS / T3 PASS / VERIFIED -->

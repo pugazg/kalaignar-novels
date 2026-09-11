@@ -4,13 +4,13 @@ printed_page: 21
 work: "sarapallam-samundi"
 section: "சாரப்பள்ளம் சாமுண்டி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; final source-fidelity T3 complete"
 ---
 
-எண்ணங்கொண்டு செயலாற்றினான் இராசராசன். சுற்றியுள்ள மன்னர்களால் என்றைக்கும் சோழநாட்டுக்கு விபத்து ஏற்படக் கூடும் என யோசித்து அதை முன்கூட்டியே தவிர்க்கவேண்டி, நாட்டின் படை பலத்தைப் பெருக்குவதிலும், அரண் உறுதிப்படுத்துவதிலும் நாட்டு மக்களுக்கு எல்லாக் காலத்திலும், வளமான வாழ்வு அமையவேண்டும் என்பதிலும் தன் ஆற்றல் முழுவதையும் செலவிட்டான். அவனது மகன் இராசேந்திரன் ஒரு வேங்கைப் புலி. திரும்பிய பக்கமெல்லாம் வெற்றிக் கனிக் குவிக்கக்கூடிய மாவீரன். இராசேந்திரனின் முதல் மனைவியின் பெயர் பஞ்சவன் மாதேவி ; மனைவியிடம் கொண்டுள்ள அன்பின் காரணமாக தனக்குப் பஞ்சவன் மாராயன் என்ற புனைப் பெயரைச் சூட்டிக்கொண்டான் போலும்! “மாராயம்” என்பது படைத் தலைவர்க்கு அரசனால் செய்யப்படும் சிறப்பு. இராசேந்திரன் முடி சூட்டிக் கொள்ளும் வரையில் சோழ நாட்டின் படைத் தளபதியாக இருந்து சோழப் பேரரசின் பரப்பளவை விரிவுபடுத்துவதில் கண்ணுங்கருத்துமாய் இருந்தான். தந்தையைப் போலவே இராசேந்திரனும் கலையார்வம் கொண்டவன். அந்தக் கலைச் செல்வத்தை அவனுக்கு வாரி வழங்கும் வள்ளலாக அமைந்தாள், மனைவி பஞ்சவன் மாதேவி.
+எண்ணங்கொண்டு செயலாற்றினான் இராசராசன். சுற்றியுள்ள மன்னர்களால் என்றைக்கும் சோழநாட்டுக்கு விபத்து ஏற்படக் கூடும் என யோசித்து அதை முன்கூட்டியே தவிர்க்கவேண்டி, நாட்டின் படை பலத்தைப் பெருக்குவதிலும், அரணை உறுதிப்படுத்துவதிலும் நாட்டு மக்களுக்கு எல்லாக் காலத்திலும், வளமான வாழ்வு அமையவேண்டும் என்பதிலும் தன் ஆற்றல் முழுவதையும் செலவிட்டான். அவனது மகன் இராசேந்திரன் ஒரு வேங்கைப் புலி. திரும்பிய பக்கமெல்லாம் வெற்றிக் கனிக் குவிக்கக்கூடிய மாவீரன். இராசேந்திரனின் முதல் மனைவியின் பெயர் பஞ்சவன் மாதேவி ; மனைவியிடம் கொண்டுள்ள அன்பின் காரணமாக தனக்குப் பஞ்சவன் மாராயன் என்ற புனைப் பெயரைச் சூட்டிக்கொண்டான் போலும்! “மாராயம்” என்பது படைத் தலைவர்க்கு அரசனால் செய்யப்படும் சிறப்பு. இராசேந்திரன் முடி சூட்டிக் கொள்ளும் வரையில் சோழ நாட்டின் படைத் தளபதியாக இருந்து சோழப் பேரரசின் பரப்பளவை விரிவுபடுத்துவதில் கண்ணுங்கருத்துமாய் இருந்தான். தந்தையைப் போலவே இராசேந்திரனும் கலையார்வம் கொண்டவன். அந்தக் கலைச் செல்வத்தை அவனுக்கு வாரி வழங்கும் வள்ளலாக அமைந்தாள், மனைவி பஞ்சவன் மாதேவி.
 
 தந்தை, மகன் இருவரது திறமையும், இருவரிடையே ஆழமாய் முகிழ்த்திருந்த அன்பும் சோழநாட்டை எஃகுக் கோட்டையாக மாற்றிடவும் பயன்பட்டன.
 
@@ -32,3 +32,14 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - first-pass `கண்ணுங்கருத்துமாய்` and surrounding clusters were rechecked without normalization;
 - no T1 character-identity correction was required;
 - unresolved historical glyphs: **0**.
+
+## T3 final source-fidelity notes
+
+- complete scan independently compared again against direct source pixels;
+- checked omissions, duplication, punctuation, paragraph boundaries, printed-page visibility, illustration/non-body separation and physical continuity;
+- corrected T1/T2 `அரண் உறுதிப்படுத்துவதிலும்` → source-supported **`அரணை உறுதிப்படுத்துவதிலும்`**;
+- recorded cross-scan continuity remains source-supported;
+- unresolved source readings: **0**;
+- page status: **VERIFIED**.
+
+<!-- source physical scan: 25; T1 PASS / T2 PASS / T3 PASS / VERIFIED -->

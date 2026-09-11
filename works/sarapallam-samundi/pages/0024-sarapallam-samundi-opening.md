@@ -4,10 +4,10 @@ printed_page: null
 work: "sarapallam-samundi"
 section: "சாரப்பள்ளம் சாமுண்டி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; final source-fidelity T3 complete"
 ---
 
 # சாரப்பள்ளம் சாமுண்டி
@@ -37,3 +37,14 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - representative confirmed source identities include `தலைவணங்கிப்` (`லை`) and `நான்கைந்து` (`னா` family context);
 - no T1 character-identity correction was required;
 - unresolved historical glyphs: **0**.
+
+## T3 final source-fidelity notes
+
+- complete scan independently compared again against direct source pixels;
+- checked omissions, duplication, punctuation, paragraph boundaries, printed-page visibility, illustration/non-body separation and physical continuity;
+- no additional T3 text correction required on scan 24; opening printed number remains null;
+- recorded cross-scan continuity remains source-supported;
+- unresolved source readings: **0**;
+- page status: **VERIFIED**.
+
+<!-- source physical scan: 24; T1 PASS / T2 PASS / T3 PASS / VERIFIED -->

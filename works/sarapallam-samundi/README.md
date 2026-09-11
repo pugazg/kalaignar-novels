@@ -10,26 +10,24 @@
 - source/work identity: **REGISTERED / CONFIRMED**;
 - component span: **25 scans**;
 - canonical page records: **5 / 25 — scans 24–28**;
-- verified records: **0 / 25**;
+- verified records: **5 / 25 — scans 24–28**;
 - scans 24–28 T1: **PASS / COMPLETE**;
-- scans 24–28 T2: **PASS / COMPLETE — 0 corrections / 0 unresolved glyphs**;
-- scans 24–28 T3: **NEXT**;
+- scans 24–28 T2: **PASS / COMPLETE — 0 corrections / 0 unresolved historical glyphs**;
+- scans 24–28 T3: **PASS / COMPLETE — 3 source-fidelity corrections / 0 unresolved**;
 - scans 29–48: **NOT STARTED**.
 
 Collection provenance: ../../collections/arumbu-1978/.
 
-## Source-layout findings
+## Closed first batch
 
-- scan 24 opens title சாரப்பள்ளம் சாமுண்டி and has no visible printed page number;
-- scans 25–27 visibly print 21–23;
-- scan 28 is a landscape two-page illustration spread with no visible printed page number;
-- no synthetic 24/25 is assigned to scan 28;
-- source PDF remains excluded.
+T3 corrected three source-fidelity issues:
 
-## T2 result
+1. scan 25 `அரண் உறுதிப்படுத்துவதிலும்` → **`அரணை உறுதிப்படுத்துவதிலும்`**;
+2. scan 26 later occurrence `கீழைச்சாளுக்கிய நாட்டின்` → **`கீழைச் சாளுக்கிய நாட்டின்`**;
+3. scan 27 `பூர்த்தி செய்யப்பட்டுவிட்டனவா?` → **`பூர்த்தி செய்யப்பட்டு விட்டனவா?`**.
 
-All five scans were independently re-read against direct source pixels with explicit coverage of the known historical-glyph families. No T1 character-identity correction was required and no historical glyph remains unresolved. Page status remains needs-review because T3 is still pending.
+Scan 28 remains an unnumbered landscape two-page illustration spread. Boundary-only inspection confirms its final `குந்தவையாரும்` continues into scan 29; scan 29 was not transcribed in this checkpoint.
 
 ## Exact next activity
 
-Execute **T3 final source-fidelity closure for scans 24–28 only**. Recheck omissions/duplication/page joins/printed-page visibility/non-body separation and T2 findings, mark pages verified only if the gate passes, synchronize controls, commit, and stop before scan 29.
+Execute **T1 direct transcription for scans 29–33 only**. Create five canonical records from direct source pixels, preserve only visibly printed page numbers, synchronize controls, commit, and stop before T2.

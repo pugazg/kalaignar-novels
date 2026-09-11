@@ -4,10 +4,10 @@ printed_page: null
 work: "sarapallam-samundi"
 section: "சாரப்பள்ளம் சாமுண்டி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; final source-fidelity T3 complete"
 ---
 
 அந்தக் கேள்விக்குப் பதில்தான் இந்தக் கதை!
@@ -31,3 +31,14 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - `printed_page` remains `null`; no page number is visible and no value was inferred;
 - no T1 character-identity correction was required;
 - unresolved historical glyphs: **0**.
+
+## T3 final source-fidelity notes
+
+- complete scan independently compared again against direct source pixels;
+- checked omissions, duplication, punctuation, paragraph boundaries, printed-page visibility, illustration/non-body separation and physical continuity;
+- no additional T3 text correction required on scan 28; landscape spread and printed_page null are reconfirmed;
+- boundary-only inspection of scan 29 confirms the final `குந்தவையாரும்` continues into `கோயில் எவ்வாறு...`; no scan-29 canonical record was created in this checkpoint;
+- unresolved source readings: **0**;
+- page status: **VERIFIED**.
+
+<!-- source physical scan: 28; T1 PASS / T2 PASS / T3 PASS / VERIFIED -->
