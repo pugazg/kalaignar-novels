@@ -55,7 +55,7 @@ Scans **39–43** are **REVIEWED / COMPLETE**. The open 38→39 sentence is comp
 
 ## English Batch 5 closure
 
-Scans **44–48** are **REVIEWED / COMPLETE**. The 43→44, 44→45, 46→47 and 47→48 continuities are source-checked; the Panchavan Madevi revelation and final narrative are complete; scan 48 keeps the narrative ending distinct from the source-printed `குறிப்பு :`. Batch 5 source-check: **0 omissions / 0 source-like additions / 0 unresolved items**. English coverage is now **25/25 scans**, but whole-work English is **NOT VERIFIED** until Section 16 passes.
+Scans **44–48** are **REVIEWED / COMPLETE**. The 43→44, 44→45, 46→47 and 47→48 continuities are source-checked; the Panchavan Madevi revelation and final narrative are complete; scan 48 keeps the narrative ending distinct from the source-printed `குறிப்பு :`. Batch 5 source-check: **0 omissions / 0 source-like additions / 0 unresolved items**. English coverage reached **25/25 scans** at that checkpoint; Section 16 has since passed and whole-work English is **VERIFIED** below.
 
 ## Whole-work English verification
 
