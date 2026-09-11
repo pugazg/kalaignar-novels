@@ -20,15 +20,13 @@
 - canonical records: **10 / 25 — scans 24–33**;
 - verified: **5 / 25 — scans 24–28**;
 - scans 24–28: **T1+T2+T3 PASS / VERIFIED**;
-- scans 29–33: **T1 PASS / COMPLETE**;
-- scans 29–33 T2: **NEXT**;
-- scans 29–33 T3: **BLOCKED by T2**;
+- scans 29–33 T1: **PASS / COMPLETE**;
+- scans 29–33 T2: **PASS / COMPLETE — 9 corrections / 0 unresolved historical glyphs**;
+- scans 29–33 T3: **NEXT**;
 - scans 34–48: **NOT STARTED**.
 
-Second-batch printed pages are directly visible as scan29=26, scan30=27, scan31=28, scan32=29, scan33=30. New records remain `needs-review` pending T2/T3.
+T2 corrections include scan30 `ஆண்டவன்தானா`; scan31 `சிற்பங்களை`, `யோசனைகளை`, `ஊர்களை`; scan32 `அவளைச்`, `நன்றாகப்`, `நன்றாக`; scan33 both `தன்னாலான` occurrences. All five records remain `needs-review` pending T3.
 
 ## Exact next activity
 
-Execute **T2 independent historical-glyph / character-identity re-read for scans 29–33 only**. Check each complete scan and all sensitive glyph families, make only source-pixel-supported character corrections, synchronize controls, commit, and stop before T3.
-
-Do not begin scan 34 or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.
+Execute **T3 final source-fidelity closure for scans 29–33 only**. Check complete-page omissions/duplication/punctuation/joins and T2 findings, synchronize controls, commit, and stop before scan 34.
