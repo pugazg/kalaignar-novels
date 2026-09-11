@@ -18,39 +18,38 @@ The 1953 eighth edition remains controlling. The 1978 `அரும்பு` pr
 - W1 scans **49–53**: **REVIEWED / COMPLETE**;
 - W2 scans **54–58**: **REVIEWED / COMPLETE**;
 - W3 scans **59–63**: **REVIEWED / COMPLETE**;
-- coverage: **15 / 26 scans**;
-- batches complete: **3 / 6**;
-- cumulative textual / structural variant entries: **141**;
+- W4 scans **64–67**: **REVIEWED / COMPLETE**;
+- coverage: **19 / 26 scans**;
+- batches complete: **4 / 6**;
+- cumulative textual / structural variant entries: **188**;
 - non-textual witness features: **2 total**;
 - confirmed paratext variants: **1**;
-- unresolved readings through W3: **0**;
+- unresolved readings through W4: **0**;
 - canonical / assembled / English changes: **0 / 0 / 0**.
 
-Representative W3 variants include:
+Representative W4 variants include:
 
-- `துணையாகச் செய்திருந்தால்` → `துணைவராகச் சேர்த்திருந்தால்`;
-- `கொடியேந்திப்` → `கொடியேற்றிப்`;
-- `பத்தினிமேல்` → `பத்தினிபோல்`;
-- `எஜமானி அம்மாள் அழைக்கிறதே` → `எஜமானி அம்மாள் ஆயிற்றே`;
-- `காரணந் தெரியாது விழித்தேன்` → `காரணம் தெரியாது தவித்தேன்`;
-- `இந்த வீணன்` → `இந்த வீணா?`;
-- `பணக்கார நல்லவர்?` → `பணக்காரரல்லவா?`;
-- `சிறல்களே` → `கீறல்களை`;
-- `குவலிக் கிடப்பார்` → `குலவிக் கிடப்பார்`;
-- `கண்ணம்மாவுக்குத் துணையாகச்` → `எனக்குத் துணையாகச்`;
-- `பச்சப் வார்த்தைகளைப்` → `பசப்பு வார்த்தைகளைப்`.
+- `எனக்கு ஒரு வருத்தம்` → `எனக்கு ஒரு விருப்பம்`;
+- `நான் படித்த பெண்தான்` → `நான் குறைவாகப் படித்த பெண்தான்`;
+- `படிந்த மனப்பான்மை` → `பரந்த மனப்பான்மை`;
+- `கண்ணம்மாள் சொன்னாள்` → `கண்ணம்மா சொன்னாள்`;
+- `என் நிலைமை தவறிவிட்டது` → `என் நிலை தவறிவிட்டது`;
+- `குமுதாவின் உடலில் ஒருவன் ருசிபார்த்து விட்டான்` → `குமுதாவின் உடலை ஒருவன் ருசி பார்த்து விட்டான்`;
+- `ராமப்ரபு` → `ராமப்பிரபு`;
+- `செல்வர் வீட்டுச் சீமாட்டி` → `செல்வந்தர் வீட்டுச் சீமாட்டி`;
+- `களங்க மடைந்தாள்` → `களங்கமடைந்தவள்`;
+- both `குமுதா` and `வீரன்` headings carry terminal `:` in the 1978 witness.
 
 ## Exact next activity
 
-**W4 — compare 1978 scans 64–67 only.**
+**W5 — compare 1978 scans 68–72 only.**
 
 Mapping:
 
-- scan64 / printed62 — `குமுதா` heading appears;
-- scan65 / printed63 — `குமுதா`;
-- scan66 / printed64 — `குமுதா`;
-- scan67 / printed65 — `வீரன்` heading appears.
+- scans68–70 / printed66–68 — `வீரன்`;
+- scan71 / printed69 — `உலகநாதர்` heading appears;
+- scan72 / printed70 — final `கண்ணம்மா` heading appears.
 
-Compare all printed text, create `W4_SCANS_064_067.md`, update `VARIANTS.md` / `PROGRESS.md` / controls, commit, and stop before scan68 / W5.
+Compare all printed text, create `W5_SCANS_068_072.md`, update `VARIANTS.md` / `PROGRESS.md` / controls, commit, and stop before scan73 / W6.
 
 No controlling/assembled/English changes are authorized.
