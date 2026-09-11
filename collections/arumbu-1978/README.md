@@ -16,8 +16,8 @@
 | 1–5 | front matter | REGISTERED |
 | 6–23 | அரும்பு | **RELEASE-READY / CLOSED** |
 | 24–48 | சாரப்பள்ளம் சாமுண்டி | **RELEASE-READY / CLOSED** |
-| 49–74 | பெரிய இடத்துப் பெண் | **WITNESS W1–W5 COMPLETE — 24/26; W6 scans 73–74 NEXT** |
-| 75–90 | நடுத்தெரு நாராயணி | QUEUED |
+| 49–74 | பெரிய இடத்துப் பெண் | **WITNESS COMPARISON COMPLETE / CLOSED — 26/26** |
+| 75–90 | நடுத்தெரு நாராயணி | **NEXT — canonical Batch N1 scans 75–79** |
 | 91–92 | publisher catalogue / back cover | REGISTERED |
 
 சாரப்பள்ளம் சாமுண்டி has **25/25 canonical and verified records**. The independent whole-work Tamil audit is **PASS / COMPLETE after 1 residual source correction** with **0 unresolved**. The assembled Tamil reading layer is **PASS / COMPLETE — 1 / 1 section**.
@@ -26,6 +26,6 @@ English translation planning is **PASS / COMPLETE**. Batches 1–5, scans **24�
 
 `சாரப்பள்ளம் சாமுண்டி` archival/editorial package: **RELEASE-READY / CLOSED**.
 
-1978 `பெரிய இடத்துப் பெண்` witness mapping is **PASS / COMPLETE**. Scan 57 is the source-visible two-page spread for printed 54–55. W1–W5 scans **49–72** are **REVIEWED / COMPLETE**. Line comparison is now **24/26 scans**, with **259 cumulative textual / structural variant entries** and **0 unresolved readings through W5**. The 1953 controlling package remains unchanged.
+1978 `பெரிய இடத்துப் பெண்` witness mapping is **PASS / COMPLETE**. Scan 57 is the source-visible two-page spread for printed 54–55. W1–W6 scans **49–74** are **REVIEWED / COMPLETE**. The 1978 witness comparison is **PASS / COMPLETE / CLOSED** with **285 registered textual / structural variant entries**, **2 non-textual features**, **1 paratext variant**, and **0 unresolved readings**. The 1953 controlling package remains unchanged.
 
-Next: **W6 — scans 73–74 only**.
+Next: **நடுத்தெரு நாராயணி — canonical Batch N1 scans 75–79**.

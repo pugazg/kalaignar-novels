@@ -1,6 +1,6 @@
 # 1978 Additional-Witness Comparison Plan — பெரிய இடத்துப் பெண்
 
-Status: **PLAN / MAPPING COMPLETE — W5 COMPLETE / W6 NEXT**.
+Status: **COMPLETE / CLOSED — ALL SIX BATCHES REVIEWED**.
 
 ## Purpose
 
@@ -146,8 +146,10 @@ A batch is complete only when:
 - physical/printed mapping: **COMPLETE**;
 - structural heading alignment: **COMPLETE**;
 - comparison plan: **COMPLETE**;
-- line-by-line witness comparison: **24 / 26 scans**;
-- comparison batches completed: **5 / 6**;
+- line-by-line witness comparison: **26 / 26 scans**;
+- comparison batches completed: **6 / 6**;
+- registered textual / structural variant entries: **285**;
+- unresolved witness readings: **0**;
 - canonical / assembled / English changes: **0**.
 
-**Next: W6 — scans 73–74 only.**
+**Comparison complete. No witness variant is authorized for automatic application to the 1953 controlling package.**

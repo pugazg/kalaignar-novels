@@ -30,11 +30,11 @@ Every canonical Tamil page remains `needs-review` under the user-mandated verifi
 | Release report | **COMPLETE** |
 | Release-readiness | **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION** |
 | 1978 witness plan / mapping | **PASS / COMPLETE** |
-| 1978 witness line comparison | **24 / 26 scans — W1–W5 COMPLETE** |
-| 1978 witness comparison batches | **5 / 6 — W6 NEXT** |
-| Cumulative textual / structural variants | **259** |
+| 1978 witness line comparison | **26 / 26 scans — COMPLETE / CLOSED** |
+| 1978 witness comparison batches | **6 / 6** |
+| Cumulative textual / structural variants | **285** |
 | Non-textual witness features | **2 total** |
-| Unresolved readings through W5 | **0** |
+| Unresolved witness readings | **0** |
 
 ## Control records
 
@@ -178,13 +178,13 @@ Editorial/archival release-readiness does not determine copyright, licensing, di
 The 1953 source edition remains completed and controlling. The 1978 witness comparison is a separate evidence-gathering activity.
 
 - plan / mapping: **PASS / COMPLETE**;
-- scans compared: **24 / 26**;
-- batches complete: **5 / 6**;
-- cumulative textual / structural variant entries: **259**;
+- scans compared: **26 / 26**;
+- batches complete: **6 / 6**;
+- cumulative textual / structural variant entries: **285**;
 - non-textual witness features: **2 total**;
 - confirmed paratext variants: **1** — 1953 printer colophon absent after the 1978 narrative ending;
 - canonical / assembled / English changes: **0**.
 
-**Next: W6 — scans 73–74 only.**
+**1978 witness comparison: PASS / COMPLETE / CLOSED.** No witness variant is automatically authorized for canonical application.
 
 Do not alter canonical Tamil page statuses unless the user explicitly changes the verification-freeze instruction.

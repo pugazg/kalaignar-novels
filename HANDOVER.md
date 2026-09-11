@@ -5,54 +5,60 @@
 - Repository: `pugazg/kalaignar-novels`
 - Branch: `main`
 - **Live main is authoritative.**
-- Active work: **`works/periya-idathup-pen/` — 1978 additional-witness comparison**
+- Newly closed activity: **`works/periya-idathup-pen/` — 1978 additional-witness comparison**
+- Next active work: **`works/nadutheru-narayani/`**
 - 1953 `பெரிய இடத்துப் பெண்` package: **RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**
 
-## Authority
+## பெரிய இடத்துப் பெண் — 1978 witness closure
 
-The 1953 eighth edition remains controlling. The 1978 `அரும்பு` printing is an **additional witness only**. Comparison is record-only and does not authorize changes to canonical Tamil, assembled Tamil, English, release status or the canonical verification freeze.
+The 1953 eighth edition remains controlling. The 1978 `அரும்பு` printing remains an **additional witness only**.
 
-## Durable witness-comparison state
+Final durable witness state:
 
-- plan / mapping: **PASS / COMPLETE**;
-- W1 scans **49–53**: **REVIEWED / COMPLETE**;
-- W2 scans **54–58**: **REVIEWED / COMPLETE**;
-- W3 scans **59–63**: **REVIEWED / COMPLETE**;
-- W4 scans **64–67**: **REVIEWED / COMPLETE**;
-- W5 scans **68–72**: **REVIEWED / COMPLETE**;
-- coverage: **24 / 26 scans**;
-- batches complete: **5 / 6**;
-- cumulative textual / structural variant entries: **259**;
-- non-textual witness features: **2 total**;
+- W1–W6: **REVIEWED / COMPLETE**;
+- physical scans compared: **26 / 26**;
+- batches complete: **6 / 6**;
+- registered textual / structural variant entries: **285**;
+- non-textual witness features: **2**;
 - confirmed paratext variants: **1**;
-- unresolved readings through W5: **0**;
-- canonical / assembled / English changes: **0 / 0 / 0**.
+- unresolved witness readings: **0**;
+- final review: `works/periya-idathup-pen/witness-comparison/arumbu-1978/WITNESS_COMPARISON_REVIEW.md` — **PASS / COMPLETE**;
+- canonical Tamil changes: **0**;
+- assembled Tamil changes: **0**;
+- English changes: **0**;
+- release-status changes: **0**;
+- verification-freeze changes: **0**.
 
-Representative W5 variants include:
+The 1978 evidence establishes a materially different later textual witness, but does **not** establish superiority or authorize automatic correction of the 1953 package.
 
-- `உபசாரங்கள்` → `உபகாரங்கள்`;
-- `குறைப்படலம் ஆரம்பித்தாள்` → `குறைப்பட ஆரம்பித்தாள்`;
-- `ஒரு நல்ல இடத்து ஸ்திரீ` → `ஒரு நல்ல இடத்துப் பெண்`;
-- `ராஜாபர்த்ருஹரி கதையிலே` → `ராஜா பார்த்துஹரி நாடகத்திலே`;
-- `சுவீர்` → `சுரீர்`;
-- `குமுதாவின் போக்கியதைப்` → `குமுதாவின் யோக்கியதையைப்`;
-- `அந்தக் குமுதாவுக்கு` → `இந்தக் குமுதாவுக்கு`;
-- `தண்டன்` → `தண்டனை`;
-- `விபசாரி! வீரனுக்கும் கண்ணம்மாவுக்கும்` → `வீரனுக்கும் விபச்சாரி கண்ணம்மாவுக்கும்`;
-- `உனக்குத் தெய்வம் நல்லது காட்டுமா?` → `உனக்குத் தெய்வம் நல்வழி காட்டுமா?`;
-- controlling `நானா ஆள்?` → source-visible 1978 `நானு ஆள்?`;
-- the 1953 sentence `பெண்ணினத்தைச் சேர்ந்த குமுதாவின் சாவுக்கே நான் தானே காரணமாயிருந்தேன்!` is omitted in the 1978 witness;
-- `குமுதா வக்குப் பேதி கண்டது` → `குமுதாவுக்குப் பேதி கண்டது`.
+## Next active work — நடுத்தெரு நாராயணி
+
+Source:
+
+`TVA_BOK_0064361_அரும்பு.pdf`
+
+- SHA-256: `04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc`
+- edition: **முதற் பதிப்பு — 1978**
+- publisher: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**
+- physical component scans: **75–90 / 16 scans**
+- source intake: **COMPLETE**
+- component boundary: **CONFIRMED**
+- canonical page records: **0 / 16**
+- transcription: **NOT STARTED**
+- source PDF committed: **No**
 
 ## Exact next activity
 
-**W6 — compare 1978 scans 73–74 only.**
+Start `நடுத்தெரு நாராயணி` canonical transcription **Batch N1 — scans 75–79 only**.
 
-Mapping:
+For each of the five scans:
 
-- scan73 / printed71 — final `கண்ணம்மா` narration;
-- scan74 / printed72 — final `கண்ணம்மா` narration and work ending.
+1. visually transcribe the complete printed page from source pixels;
+2. preserve source wording, punctuation, spelling and historical glyph identity;
+3. create/update canonical page records and source-page map;
+4. record uncertainty rather than infer;
+5. synchronize work/root/collection controls;
+6. commit immediately after the five-scan batch;
+7. stop before scan80.
 
-Compare all remaining printed text, create `W6_SCANS_073_074.md`, update `VARIANTS.md` / `PROGRESS.md` / controls, commit, and stop. Do not yet reinterpret the 1953 canonical package from the witness evidence.
-
-No controlling/assembled/English changes are authorized.
+Do not reopen the completed `பெரிய இடத்துப் பெண்` witness comparison unless genuinely new source evidence appears or the user explicitly authorizes editorial application of witness variants.

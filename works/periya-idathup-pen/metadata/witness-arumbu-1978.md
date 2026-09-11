@@ -21,7 +21,7 @@ A second printed witness of `பெரிய இடத்துப் பெண�
 
 The existing 1953 eighth-edition scan remains the controlling source for the current `works/periya-idathup-pen/` archival package. This 1978 printing is registered only as an **additional witness**.
 
-A dedicated witness-comparison workflow is active. The durable plan and source-visible mapping are complete, and W1 scans **49–53**, W2 scans **54–58**, W3 scans **59–63**, W4 scans **64–67**, and W5 scans **68–72** are **REVIEWED / COMPLETE**. Do **not** assume that the 1978 text is identical, complete, abridged, corrected or authoritative relative to the 1953 source until the bounded comparison batches establish that from the scans.
+A dedicated witness-comparison workflow is active. The durable plan and source-visible mapping are complete, and W1–W6, scans **49–74**, are **REVIEWED / COMPLETE**. The 1978 additional-witness comparison is **COMPLETE / CLOSED**. Do **not** assume that the 1978 text is identical, complete, abridged, corrected or authoritative relative to the 1953 source until the bounded comparison batches establish that from the scans.
 
 The existing canonical-page verification freeze remains unchanged. Registering this witness does not authorize edits to canonical Tamil, assembled Tamil or English.
 
@@ -31,12 +31,13 @@ The existing canonical-page verification freeze remains unchanged. Registering t
 - scan map: [`../witness-comparison/arumbu-1978/SCAN_MAP.md`](../witness-comparison/arumbu-1978/SCAN_MAP.md) — **PASS / COMPLETE**;
 - progress: [`../witness-comparison/arumbu-1978/PROGRESS.md`](../witness-comparison/arumbu-1978/PROGRESS.md);
 - variant register: [`../witness-comparison/arumbu-1978/VARIANTS.md`](../witness-comparison/arumbu-1978/VARIANTS.md);
-- line-comparison coverage: **24 / 26 scans**;
-- batches complete: **5 / 6**;
-- cumulative textual / structural variant entries: **259**;
+- line-comparison coverage: **26 / 26 scans**;
+- batches complete: **6 / 6**;
+- cumulative textual / structural variant entries: **285**;
 - non-textual witness features: **2 total**;
-- unresolved readings through W5: **0**;
-- next bounded batch: **W6 — scans 73–74 only**.
+- confirmed paratext variants: **1**;
+- unresolved witness readings: **0**;
+- status: **COMPLETE / CLOSED**.
 
 Source-visible mapping additionally confirms scan **57** is a two-page spread with printed **54–55**. The 1953 printer colophon `ஸ்ரீமகள் அச்சகம், சென்னை-1` is absent after the 1978 narrative ending; this is recorded as a paratext witness difference, not a canonical correction.
 
@@ -50,3 +51,7 @@ W3 review record: [`../witness-comparison/arumbu-1978/W3_SCANS_059_063.md`](../w
 W4 review record: [`../witness-comparison/arumbu-1978/W4_SCANS_064_067.md`](../witness-comparison/arumbu-1978/W4_SCANS_064_067.md) — **REVIEWED / COMPLETE**.
 
 W5 review record: [`../witness-comparison/arumbu-1978/W5_SCANS_068_072.md`](../witness-comparison/arumbu-1978/W5_SCANS_068_072.md) — **REVIEWED / COMPLETE**.
+
+W6 review record: [`../witness-comparison/arumbu-1978/W6_SCANS_073_074.md`](../witness-comparison/arumbu-1978/W6_SCANS_073_074.md) — **REVIEWED / COMPLETE**.
+
+Final witness review: [`../witness-comparison/arumbu-1978/WITNESS_COMPARISON_REVIEW.md`](../witness-comparison/arumbu-1978/WITNESS_COMPARISON_REVIEW.md) — **PASS / COMPLETE**.

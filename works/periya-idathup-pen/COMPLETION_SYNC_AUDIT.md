@@ -19,7 +19,7 @@ This record closes the repository-wide documentation synchronization after `ப�
 - release-readiness pass: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
 - source PDF committed: **No**;
 - further mandatory processing for the **1953 controlling edition itself**: **None**;
-- separate 1978 additional-witness comparison: **ACTIVE — W1–W5 complete; 24/26 compared**.
+- separate 1978 additional-witness comparison: **PASS / COMPLETE / CLOSED — 26/26 compared, 285 registered textual / structural variants, 0 unresolved**.
 
 Accurate package wording:
 
@@ -67,4 +67,4 @@ The synchronized documents now agree on the same durable state:
 
 ## Next repository activity
 
-A new, separate activity is now active: the 1978 `அரும்பு` additional-witness comparison. Its plan/mapping plus W1–W5 scans 49–72 are complete; final W6 scans 73–74 are next. This activity must not silently edit the completed 1953 canonical, assembled or English layers.
+A new, separate activity is now active: the 1978 `அரும்பு` additional-witness comparison. Its plan/mapping and W1–W6 scans 49–74 are complete. The witness evidence remains separate and has not altered the controlling 1953 package. This activity must not silently edit the completed 1953 canonical, assembled or English layers.

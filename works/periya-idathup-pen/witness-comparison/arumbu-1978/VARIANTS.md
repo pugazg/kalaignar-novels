@@ -2266,3 +2266,229 @@ W5 scans **68–72** are **REVIEWED / COMPLETE**.
 - canonical / assembled / English changes: **0 / 0 / 0**.
 
 Next comparison batch: **W6 — scans 73–74 only**.
+
+
+## W6 — scans 73–74
+
+### V1978-0260 — `தூளாகப் பட்டுக்` / `தூளாக்கப்பட்டுக்`
+- class: **WORDING**
+- 1978: `என் வைர மூக்குத்தி தூளாக்கப்பட்டுக் கிடந்தது`
+- 1953: `என் வைர மூக்குத்தி தூளாகப் பட்டுக் கிடந்தது`
+- location: 1978 scan73 / p71; controlling scan47 / p46
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0261 — `மறைத்து விட்டேன்` / `மறைத்துவிட்டேன்`
+- class: **SPELLING / GLYPH**
+- 1978: `நான் அந்தச் செய்தியை அப்படியே மறைத்துவிட்டேன்.`
+- 1953: `நான் அந்தச் செய்தியை அப்படியே மறைத்து விட்டேன்.`
+- location: scan73
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0262 — stone-heart sentence punctuation
+- class: **PUNCTUATION**
+- 1978: `அப்பொழுதும் கல்மனங் கரையவில்லை, வீரன்...`
+- 1953: `அப்பொழுதும் கல்மனங் கரையவில்லை. வீரன்...`
+- location: scan73
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0263 — `குமுதா மேல் ... தவிர` morphology / joining
+- class: **WORDING**
+- 1978: `வீரன் குமுதாமேல் ஆத்திரமாக இருந்தானே தவிரக்,`
+- 1953: `வீரன் குமுதா மேல் ஆத்திரமாக இருந்தானே தவிர,`
+- location: scan73
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0264 — controlling `விட வேணா?` / 1978 `விடவேணு?`
+- class: **WORDING**
+- 1978: `அவனைக் கவலைப்பட நான் விடவேணு?`
+- 1953 controlling: `அவனைக் கவலைப்பட நான் விட வேணா?`
+- location: scan73 / controlling scan47
+- confidence: **CONFIRMED**
+- comparison note: the 1978 modern-type source visibly prints `ணு`; do not import the controlling edition's historical-glyph identity into this witness
+- action: **record-only / no canonical change**
+
+### V1978-0265 — `இது வீரனுக்குக்` / `அது வீரனுக்குக்`
+- class: **WORDING**
+- 1978: `அது வீரனுக்குக் குமுதாவினால் எழுதப்பட்ட கடிதம்`
+- 1953: `இது வீரனுக்குக் குமுதாவினால் எழுதப்பட்ட கடிதம்`
+- location: scan73
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0266 — `சொல்லமுடியாது` / `சொல்ல முடியாது`
+- class: **SPELLING / GLYPH**
+- 1978: `அதைக் கடிதம் என்று கூடச் சொல்ல முடியாது.`
+- 1953: `அதைக் கடிதம் என்று கூடச் சொல்லமுடியாது.`
+- location: scan73
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0267 — explicit `கிழித்தேன்.` added
+- class: **ADDITION**
+- 1978: `அதை நான் எடுத்துப்படித்தேன்; கிழித்தேன். கிழித்து எறிந்ததோடு விடவில்லை.`
+- 1953: `அதை நான் எடுத்துப் படித்தேன். கிழித்து எறிந்ததோடு விடவில்லை.`
+- location: scan73 / controlling scan48
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0268 — `அகப்பட்டிருந்தது` / `அகப்பட்டிருந்தால்`
+- class: **WORDING**
+- 1978: `வீரன் கண்ணில் அந்தக் கடிதம் அகப்பட்டிருந்தால்,`
+- 1953: `வீரன் கண்ணில் அந்தக் கடிதம் அகப்பட்டிருந்தது,`
+- location: scan73
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0269 — conditional-clause boundary reset
+- class: **PUNCTUATION**
+- 1978: `அதிலுள்ள விஷயத்தை அவன் அறிந்திருந்தால்! என்னைச் சித்திரவதை செய்திருப்பான்.`
+- 1953: `அதிலுள்ள விஷயத்தை அவன் அறிந்திருந்தால் என்னைச் சித்திரவதை செய்திருப்பான்.`
+- location: scan73
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0270 — Calcutta-life punctuation
+- class: **PUNCTUATION**
+- 1978: `கல்கத்தாவில் நடக்கிறது எங்கள் வாழ்க்கை!`
+- 1953: `கல்கத்தாவில் நடக்கிறது எங்கள் வாழ்க்கை.`
+- location: scan73
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0271 — husband's grief punctuation
+- class: **PUNCTUATION**
+- 1978: `குமுதா இறந்துபோன கவலை வேறு அவருக்கு.`
+- 1953: `குமுதா இறந்துபோன கவலை வேறு அவருக்கு!`
+- location: scan73
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0272 — `வீட்டை விட்டுப்` / `வீட்டை விட்டு`
+- class: **SPELLING / GLYPH**
+- 1978: `நானும் வீரனும் வீட்டை விட்டு புறப்பட்டுவிட்டோம்.`
+- 1953: `நானும் வீரனும் வீட்டை விட்டுப் புறப்பட்டுவிட்டோம்.`
+- location: scan73
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0273 — rail-station sentence punctuation
+- class: **PUNCTUATION**
+- 1978: `ரயிலடிக்கு வீரன்தான் வண்டியோட்டி வந்தான், அதோடு...`
+- 1953: `ரயிலடிக்கு வீரன்தான் வண்டியோட்டி வந்தான். அதோடு...`
+- location: scan73
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0274 — `பலி பீடத்திலே` / `பலிபீடத்தில்`
+- class: **WORDING**
+- 1978: `இந்தப் பாழும் சமுதாயப் பலிபீடத்தில் தன் உயிரைத் தத்தம் செய்த`
+- 1953: `இந்தப் பாழும் சமுதாயப் பலி பீடத்திலே தன் உயிரைத் தத்தம் செய்த`
+- location: scan73 / controlling scan48
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0275 — care sentence punctuation
+- class: **PUNCTUATION**
+- 1978: `எங்களுக்கு என்ன கவலை வந்து கிடக்கிறது!`
+- 1953: `எங்களுக்கு என்ன கவலை வந்து கிடக்கிறது.`
+- location: scan73
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0276 — `மோட்ச சாம்ராஜ்யமாகி விட்டேனே` / `மோட்ச சாம்ராஜ்யமாகிவிட்டேன்`
+- class: **WORDING**
+- 1978: `நான்தான் அவனுக்கு மோட்ச சாம்ராஜ்யமாகிவிட்டேன்! பாவம்!`
+- 1953: `நான்தான் அவனுக்கு மோட்ச சாம்ராஜ்யமாகி விட்டேனே! பாவம்!`
+- location: scan74 / p72; controlling scan49 / p48
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0277 — stained-body sentence rewritten
+- class: **WORDING**
+- 1978: `உடல் அழுக்குப் பட்டுவிட்டது, அதைத் தீயில்...`
+- 1953: `உடல் அழுக்குப்பட்டு விட்டது. அதைத் தீயில்...`
+- location: scan74
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0278 — `குளிப்பாட்டிக் கொண்டிருந்தாள்` / `குளிப்பாட்டிக்கொண்டிருந்தாள்`
+- class: **SPELLING / GLYPH**
+- 1978: `அதைத் தீயில் குளிப்பாட்டிக்கொண்டிருந்தாள் குமுதா.`
+- 1953: `அதைத் தீயில் குளிப்பாட்டிக் கொண்டிருந்தாள் குமுதா.`
+- location: scan74
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0279 — `மட்டுமல்ல;` / comma
+- class: **PUNCTUATION**
+- 1978: `குமுதா உலகத்திலிருந்து மட்டுமல்ல, அவள் நம்பியிருந்த...`
+- 1953: `குமுதா உலகத்திலிருந்து மட்டுமல்ல; அவள் நம்பியிருந்த...`
+- location: scan74
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0280 — `வெகு தூரம்` / `வெகுதூரம்`
+- class: **SPELLING / GLYPH**
+- 1978: `இடத்தை விட்டு வெகுதூரம் போய்விட்டது.`
+- 1953: `இடத்தை விட்டு வெகு தூரம் போய்விட்டது`
+- location: scan74
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0281 — comma after jackal's howl
+- class: **PUNCTUATION**
+- 1978: `ஒரு நரியின் பயங்கரமான ஊளை, சோகத்தின் உச்ச ஸ்தாயியை எட்டிற்று.`
+- 1953: `ஒரு நரியின் பயங்கரமான ஊளை சோகத்தின் உச்ச ஸ்தாயியை எட்டிற்று.`
+- location: scan74
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0282 — `சுத்த முடர்கள்` / `சுத்த மூடர்கள்`
+- class: **WORDING**
+- 1978: `பக்தர்கள், சுத்த மூடர்கள்;`
+- 1953: `பக்தர்கள், சுத்த முடர்கள்;`
+- location: scan74
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0283 — Indra-world travel phrase substantially rewritten
+- class: **WORDING**
+- 1978: `இந்திர லோகத்தைக் காண எங்கேயோ போகவேண்டுமென்றிருக்கிறார்களே, அசடுகள்!`
+- 1953: `இந்திர லோகத்தைக் காண எங்கேயோ போகவேண்டு மென்னிருக்கலே, அசடுகள்!`
+- location: scan74
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0284 — `இந்திர லோகமா யிருப்பதை` / `இந்திர லோகமாயிருப்பதை`
+- class: **SPELLING / GLYPH**
+- 1978: `எங்கள் வீடு இந்திர லோகமாயிருப்பதை!`
+- 1953: `எங்கள் வீடு இந்திர லோகமா யிருப்பதை!`
+- location: scan74
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+### V1978-0285 — `பாடங் கற்றுக் கொள்ள` / `பாடங் கற்றுக்கொள்ள`
+- class: **SPELLING / GLYPH**
+- 1978: `ரதியும் மன்மதனும் பாடங் கற்றுக்கொள்ள எங்களிடம் வரவேண்டும்`
+- 1953: `ரதியும் மன்மதனும் பாடங் கற்றுக் கொள்ள எங்களிடம் வரவேண்டும்`
+- location: scan74
+- confidence: **CONFIRMED**
+- action: **record-only / no canonical change**
+
+## W6 closure
+
+W6 scans **73–74** are **REVIEWED / COMPLETE**.
+
+- new W6 textual / structural variant entries: **26** (`V1978-0260`–`V1978-0285`);
+- cumulative textual / structural variant entries: **285**;
+- non-textual witness features: **2 total**;
+- confirmed paratext variants: **1**;
+- unresolved W6 source readings: **0**;
+- cumulative unresolved witness readings: **0**;
+- canonical / assembled / English changes: **0 / 0 / 0**.
+
+# 1978 witness comparison: COMPLETE / CLOSED

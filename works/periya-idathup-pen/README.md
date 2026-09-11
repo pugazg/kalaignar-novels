@@ -27,12 +27,12 @@ The supplied scan is the controlling source.
 - release-readiness pass: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
 - repository-wide completion documentation sync: **COMPLETE**;
 - 1978 additional-witness comparison plan / mapping: **PASS / COMPLETE**;
-- 1978 witness line-comparison coverage: **24 / 26 scans**;
-- 1978 witness batches complete: **5 / 6**;
-- cumulative textual / structural variant entries: **259**;
+- 1978 witness line-comparison coverage: **26 / 26 scans — COMPLETE**;
+- 1978 witness batches complete: **6 / 6**;
+- cumulative textual / structural variant entries: **285**;
 - non-textual witness features: **2 total**;
-- unresolved source readings through W5: **0**;
-- next witness batch: **W6 — scans 73–74**;
+- unresolved witness readings: **0**;
+- 1978 witness comparison: **PASS / COMPLETE / CLOSED**;
 - source PDF committed: **No**.
 
 **Repository package status: RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION.**
@@ -170,16 +170,18 @@ The completed 1953 package remains controlling and unchanged. A separate record-
 
 - comparison plan: [`witness-comparison/arumbu-1978/COMPARISON_PLAN.md`](witness-comparison/arumbu-1978/COMPARISON_PLAN.md) — **PASS / COMPLETE**;
 - source-visible scan map: [`witness-comparison/arumbu-1978/SCAN_MAP.md`](witness-comparison/arumbu-1978/SCAN_MAP.md) — **PASS / COMPLETE**;
-- progress: **24 / 26 scans compared; 5 / 6 batches complete**;
+- progress: **26 / 26 scans compared; 6 / 6 batches complete**;
 - W1: **REVIEWED / COMPLETE — scans 49–53**;
 - W2: **REVIEWED / COMPLETE — scans 54–58**;
 - W3: **REVIEWED / COMPLETE — scans 59–63**;
 - W4: **REVIEWED / COMPLETE — scans 64–67**;
 - W5: **REVIEWED / COMPLETE — scans 68–72**;
-- cumulative textual / structural variant entries: **259**;
+- W6: **REVIEWED / COMPLETE — scans 73–74**;
+- final witness review: **PASS / COMPLETE**;
+- cumulative textual / structural variant entries: **285**;
 - confirmed pre-comparison paratext differences: **1**;
 - canonical / assembled / English changes: **0**.
 
 ## Current gate
 
-**W6 — compare 1978 scans 73–74 only.** Preserve the 1953 control, canonical verification freeze, assembled Tamil, English and qualified release verdict unchanged.
+**1978 witness comparison CLOSED.** Preserve the 1953 control, canonical verification freeze, assembled Tamil, English and qualified release verdict unchanged.
