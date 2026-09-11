@@ -15,11 +15,13 @@
 |---|---|---|
 | 1–5 | front matter | REGISTERED |
 | 6–23 | அரும்பு | **RELEASE-READY / CLOSED** |
-| 24–48 | சாரப்பள்ளம் சாமுண்டி | **ACTIVE — assembled Tamil PASS; English translation plan NEXT** |
+| 24–48 | சாரப்பள்ளம் சாமுண்டி | **ACTIVE — translation plan PASS; English Batch 1 scans 24–28 NEXT** |
 | 49–74 | பெரிய இடத்துப் பெண் | ADDITIONAL SOURCE WITNESS REGISTERED |
 | 75–90 | நடுத்தெரு நாராயணி | QUEUED |
 | 91–92 | publisher catalogue / back cover | REGISTERED |
 
 சாரப்பள்ளம் சாமுண்டி has **25/25 canonical and verified records**. The independent whole-work Tamil audit is **PASS / COMPLETE after 1 residual source correction** with **0 unresolved**. The assembled Tamil reading layer is **PASS / COMPLETE — 1 / 1 section**.
 
-Next: **English translation plan for சாரப்பள்ளம் சாமுண்டி**; English prose remains blocked until the plan exists.
+English translation planning is **PASS / COMPLETE**; English coverage remains **0/25 scans**.
+
+Next: **English Batch 1 pilot — scans 24–28 only**.

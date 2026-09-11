@@ -10,8 +10,10 @@
 | T1/T2/T3 scans 24–48 | **PASS / VERIFIED** |
 | Whole-work Tamil audit | **PASS / COMPLETE — 1 residual correction / 0 unresolved** |
 | Assembled Tamil | **PASS / COMPLETE — 1 / 1 section** |
-| English translation plan | **NEXT** |
-| English translation | **BLOCKED until plan exists** |
+| English translation plan | **PASS / COMPLETE** |
+| English Batch 1 — scans 24–28 | **NEXT** |
+| English coverage | **0 / 25 scans** |
+| Whole-work English | **NOT STARTED** |
 
 No source PDF is committed.
 
@@ -44,6 +46,10 @@ Full report: FULL_TAMIL_SOURCE_AUDIT.md.
 
 The derived reading layer covers scans **24–48** in one section. All **25/25** provenance markers are present in physical order; canonical-text derivation, verified page-boundary joins, scan-28 illustration exclusion, scan-29 corrected reading, and scan-48 narrative / source-note separation all pass. No retranscription or modernization was introduced.
 
+## English translation planning gate
+
+Section 14 is **PASS / COMPLETE**. The working English title is **Sarapallam Samundi**; final English structure is one continuous section; controlled batches are 24–28, 29–33, 34–38, 39–43 and 44–48. Source authority, terminology, source-oddity policy, provenance and review gates are locked in `translations/en/TRANSLATION_PLAN.md`.
+
 ## Exact next activity
 
-Create the English translation plan required by Section 14. English prose remains blocked until that plan exists.
+English Batch 1 pilot — scans **24–28 only**. Whole-work English remains unstarted.

@@ -13,8 +13,10 @@
 - whole-work Tamil audit: **PASS / COMPLETE after 1 residual source-fidelity correction**;
 - whole-work audit unresolved historical glyphs / source readings: **0 / 0**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
-- English translation plan: **NEXT**;
-- English prose: **BLOCKED until the translation plan exists**.
+- English translation plan: **PASS / COMPLETE**;
+- English coverage: **0 / 25 scans**;
+- English Batch 1 pilot — scans **24–28: NEXT**;
+- English prose: **NOT STARTED**.
 
 ## Whole-work audit closure
 
@@ -30,6 +32,10 @@ No other unresolved source issue remains. See FULL_TAMIL_SOURCE_AUDIT.md.
 
 The reading layer is **PASS / COMPLETE — 1 / 1 section** at `sections/01-sarapallam-samundi.md`. It is derived only from the 25 audited canonical records, carries reversible scan provenance for all scans 24–48, preserves only verified joins, excludes scan-28 illustration content from prose, and keeps the scan-48 narrative ending separate from the source-printed `குறிப்பு :`.
 
+## English translation plan
+
+`translations/en/TRANSLATION_PLAN.md` is **PASS / COMPLETE**. Working title: **Sarapallam Samundi**. English will remain one continuous section and use five controlled five-scan batches: 24–28, 29–33, 34–38, 39–43, 44–48. The plan locks source authority, transliteration, historical terminology, rhetoric, source-oddity handling, scan traceability, scan-28 illustration exclusion and scan-48 narrative/note separation.
+
 ## Exact next activity
 
-Create `translations/en/TRANSLATION_PLAN.md` under Section 14 of `NOVEL_PROCESSING_GUIDE.md`. Do not begin English prose in the same checkpoint.
+**English Batch 1 pilot — scans 24–28 only.** Translate and source-check that batch under Section 15, synchronize English controls, commit, and stop before Batch 2.

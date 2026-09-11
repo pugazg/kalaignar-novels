@@ -46,6 +46,9 @@ Unresolved historical glyphs / source readings: **0 / 0**.
 - scan 29 whole-work residual வாயாலிருந்துவிட்டான் was corrected to source **வாளாயிருந்துவிட்டான்**;
 - scan 48 closes the narrative and then preserves a separately printed historical note.
 
+English translation plan: **PASS / COMPLETE**.  
+English coverage: **0 / 25 scans**.
+
 ## Exact next activity
 
-English translation plan under Section 14 of `NOVEL_PROCESSING_GUIDE.md`; English prose remains blocked until the plan exists.
+English Batch 1 pilot — scans **24–28 only**.

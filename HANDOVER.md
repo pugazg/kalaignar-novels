@@ -24,8 +24,10 @@ TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2
 - unresolved historical glyphs: **0**;
 - unresolved source readings: **0**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
-- English translation plan: **NEXT**;
-- English prose: **BLOCKED until plan exists**.
+- English translation plan: **PASS / COMPLETE**;
+- English coverage: **0 / 25 scans**;
+- English Batch 1 pilot — scans **24–28: NEXT**;
+- whole-work English: **NOT STARTED**.
 
 Whole-work mapping and continuity passed, including scan28's unnumbered landscape illustration spread and scan48's narrative-ending / separately printed historical-note distinction.
 
@@ -35,6 +37,10 @@ Audit report: works/sarapallam-samundi/FULL_TAMIL_SOURCE_AUDIT.md.
 
 `works/sarapallam-samundi/sections/01-sarapallam-samundi.md` is **PASS / COMPLETE** as the single source-backed Tamil reading section for scans 24–48. It is derived only from audited canonical records and passes coverage, order, provenance-marker, verified-join and text-consistency checks. Scan 28 illustration material is not narrated, and scan 48 keeps the story ending distinct from the source-printed `குறிப்பு :`.
 
+## English translation planning closure
+
+`works/sarapallam-samundi/translations/en/TRANSLATION_PLAN.md` is **PASS / COMPLETE**. Working English title: **Sarapallam Samundi**. The one-section translation is divided into five controlled five-scan batches: **24–28**, **29–33**, **34–38**, **39–43**, **44–48**. Batch boundaries are workflow boundaries only, not source structure.
+
 ## Exact next activity
 
-Create the mandatory English translation plan at `works/sarapallam-samundi/translations/en/TRANSLATION_PLAN.md` under Section 14 of `NOVEL_PROCESSING_GUIDE.md`. Do not translate English prose until that plan is committed. Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.
+**English Batch 1 pilot — scans 24–28 only.** Create the Section 15 English controls as needed, translate/source-check only those scans, document terminology and source oddities, commit, and stop before Batch 2. Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.
