@@ -1,4 +1,4 @@
-# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / T2 scans 29–33
+# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / T3 scans 29–33
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/sarapallam-samundi/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -13,26 +13,29 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - verified **5/25 — scans 24–28**;
 - scans 24–28 **T1+T2+T3 PASS / VERIFIED**;
 - scans 29–33 **T1 PASS / COMPLETE**;
-- scans 29–33 **T2 NEXT**;
+- scans 29–33 **T2 PASS / COMPLETE — 9 corrections / 0 unresolved historical glyphs**;
+- scans 29–33 **T3 NEXT**;
 - scans 34–48 **NOT STARTED**.
 
-Printed pages for the new batch: **29→26, 30→27, 31→28, 32→29, 33→30**.
+## T2 corrections to preserve
 
-## Mandatory startup
+- scan30 `ஆண்டவன்தானா`;
+- scan31 `சிற்பங்களை`, `யோசனைகளை`, `ஊர்களை`;
+- scan32 `அவளைச்`, `நன்றாகப்`, `நன்றாக`;
+- scan33 both `தன்னாலான` occurrences.
 
-Read `NOVEL_PROCESSING_GUIDE.md`, `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `HANDOVER.md`, this prompt, work README/source/page-map/audit, `T1_BATCH_029_033.md`, and canonical page records 0029–0033.
+## Exact next activity — T3 only
 
-## Exact next activity — T2 only
+Perform final independent source-fidelity closure for physical scans **29–33**:
 
-Independently re-read physical scans **29–33** against direct source pixels.
-
-- check each complete scan, not only suspicious words;
-- explicitly cover `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-- distinguish character identity from expected modern spelling;
-- scan 33 `தன்னுலான` appears twice in T1 and must be independently source-checked, not normalized by context;
-- review source-sensitive names, compounds, spacing, dialogue marks and old glyphs only at character-identity level;
-- correct only when direct source pixels positively support it;
-- update page notes plus T2 batch/audit/control files;
+- compare each whole source scan against its canonical record;
+- check omissions, duplicated/misplaced text, punctuation, paragraph boundaries and printed-page values;
+- confirm 28→29, 29→30, 30→31 continuity and the complete boundaries at 31→32 and 32→33;
+- confirm all T2 character identities remain correct;
+- correct only what direct source pixels support;
+- leave genuinely unresolved readings `needs-review`;
+- if all five pass, mark them `verified`;
+- create/update the T3 batch audit and synchronize work/root controls;
 - commit and stop.
 
-Do not perform T3 or begin scan 34 in the same checkpoint.
+Do not begin scan 34 in the same checkpoint.
