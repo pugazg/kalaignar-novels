@@ -25,9 +25,9 @@ TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2
 - unresolved source readings: **0**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - English translation plan: **PASS / COMPLETE**;
-- English coverage: **15 / 25 scans**;
-- English Batches 1–3 — scans **24–38: REVIEWED / COMPLETE**;
-- English Batch 4 — scans **39–43: NEXT**;
+- English coverage: **20 / 25 scans**;
+- English Batches 1–4 — scans **24–43: REVIEWED / COMPLETE**;
+- English Batch 5 — scans **44–48: NEXT**;
 - whole-work English: **IN PROGRESS / NOT VERIFIED**.
 
 Whole-work mapping and continuity passed, including scan28's unnumbered landscape illustration spread and scan48's narrative-ending / separately printed historical-note distinction.
@@ -54,6 +54,10 @@ Scans **29–33** are **REVIEWED / COMPLETE**. The prior 28→29 open sentence i
 
 Scans **34–38** are **REVIEWED / COMPLETE**. Source-check preserves Azhagi's royal audience, Sarapallam naming, protected source oddities, the 35→36 split `தாண்`+`டவ`, 36→37 dancer-model continuation and Rajaraja/Iniyan sequence. Cumulative English coverage is **15/25 scans** with **0 omissions / 0 source-like additions / 0 unresolved items**. Scan 38 remains deliberately open into scan 39; scan-39 prose is absent.
 
+## English Batch 4 closure
+
+Scans **39–43** are **REVIEWED / COMPLETE**. The open 38→39 sentence is closed using scan 39; Samundi's introduction/dance trial, sculpture sequence and Iniyan's emotional shift are source-checked; protected source oddities are locked in the glossary. Cumulative English coverage is **20/25 scans** with **0 omissions / 0 source-like additions / 0 unresolved items**. Scan 43 remains deliberately open into scan 44; scan-44 prose is absent.
+
 ## Exact next activity
 
-**English Batch 4 — scans 39–43 only.** Complete the open 38→39 sentence using scan 39, continue/source-check only that span, update controls, commit, and stop before Batch 5. Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.
+**English Batch 5 — scans 44–48 only.** Complete the open 43→44 sentence using scan 44, translate/source-check the remaining work including the scan-48 narrative ending and distinct source-printed `குறிப்பு :`, update controls, commit, and stop before Section 16 whole-work bilingual review. Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.

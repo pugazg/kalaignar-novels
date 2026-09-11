@@ -1,6 +1,6 @@
 # English Translation Glossary — சாரப்பள்ளம் சாமுண்டி
 
-Status: **IN PROGRESS — BATCHES 1–3 DECISIONS SOURCE-CHECKED / LOCKED FOR CONTINUITY**.
+Status: **IN PROGRESS — BATCHES 1–4 DECISIONS SOURCE-CHECKED / LOCKED FOR CONTINUITY**.
 
 This file records source-bound translation decisions. Canonical Tamil remains authoritative. A locked English decision may be changed only through an explicit documented correction; it never silently alters Tamil.
 
@@ -137,3 +137,41 @@ Batch 2 source-check: **PASS / REVIEWED**.
 - scan 38 ends mid-sentence at `தள்ளிப் போட்டுக்கொண்டே`; English ends with a corresponding open clause and does not translate scan-39 `போகிறது`.
 
 Batch 3 source-check: **PASS / REVIEWED**.
+
+
+## Batch 4 terminology and protected-source decisions
+
+| Tamil | English handling | State |
+|---|---|---|
+| `தங்கமேனி` | **golden-hued body / golden body** | **LOCKED** descriptive source imagery |
+| `தாமரை முகம்` | **lotus face** | **LOCKED** |
+| `ஆலிலை வயிறு` | **belly like a banyan leaf** | **LOCKED**; preserve source simile |
+| `நூலிழை இடை` | **waist slender as a thread** | **LOCKED** |
+| `உறையூர்` | **Uraiyur** | **LOCKED** |
+| `ஊர்த்துவ தாண்டவம்` | **Urdhva Tandava** | **LOCKED** |
+| `ஆச்சரிய தாண்டவம்` | **Aachariya Tandava** | **LOCKED** conservative transliteration |
+| `அனவரதத் தாண்டவம்` | **Anavarata Tandava** | **LOCKED** |
+| `புஜங்க தாண்டவம்` | **Bhujanga Tandava** | **LOCKED** |
+| `சங்கார தாண்டவம்` | **Samhara Tandava** | **LOCKED** |
+| `பிரளய தாண்டவம்` | **Pralaya Tandava** | **LOCKED** |
+| scan 41 `நீர்த்திவலை` | **beads of moisture** | **LOCKED contextual rendering** — unusual source form remains documented |
+| `கலைமகள்` | **Kalaimagal** | **LOCKED** |
+| `கலைதேவி` | **Kalaidevi** | **LOCKED** |
+| `அபிநய பாவங்கள்` | **abhinaya bhavas** | **LOCKED** |
+| scan 42 `சிற்பங்களை யல்லவா` | **haven't you created sculptures even more beautiful than she is?** | **LOCKED contextual rendering** — exact source spacing/form remains protected |
+| scan 42 `ஏதோ ஓர் ஏக்கத்தை ஏற்பட்டது` | **some strange longing arose in Iniyan** | **LOCKED contextual rendering** — source grammatical oddity documented |
+| scan 42→43 `சிறகு` → `முளைத்துக் கிளம்பிவிட்டதா?` | **sprouted wings and taken flight?** | **LOCKED** |
+| scan 43 `தீண்டாக்குவானேன்` | **why should some feeling have touched him at the very root of that disturbance?** | **LOCKED cautious contextual rendering** — source oddity not normalized in Tamil |
+| scan 43 `சேலைத் தலைப்பு` | **the end of her sari** | **LOCKED** |
+| scan 43 `அன்றையதினம்` | English left **open at batch boundary** | **LOCKED** — continuation belongs to scan 44 |
+
+## Batch 4 boundary decisions
+
+- scan 38→39: the non-finite postponement clause is completed only by authorized scan-39 source; no meaning is imported from later scans;
+- scan 39→40 continues Azhagi's request that Iniyan accept Samundi's help and fulfil His Majesty's wish;
+- scan 40→41 is a complete source boundary between dance-test phases;
+- scan 41→42 is a complete source boundary after Azhagi asks whether Samundi should return the next day;
+- scan 42→43 splits `சிறகு` → `முளைத்துக் கிளம்பிவிட்டதா?`; English renders the thought jointly as **sprouted wings and taken flight?**;
+- scan 43 ends with `அன்றையதினம்`; English deliberately remains incomplete and does not import scan-44 prose.
+
+Batch 4 source-check: **PASS / REVIEWED**.

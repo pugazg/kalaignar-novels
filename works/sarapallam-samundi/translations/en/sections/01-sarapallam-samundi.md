@@ -5,9 +5,9 @@ section_order: 1
 section_title: "Sarapallam Samundi"
 language: "en"
 planned_source_scans: "24-48"
-translated_source_scans: "24-38"
+translated_source_scans: "24-43"
 status: "in-progress"
-batch_status: "Batches 1-3 scans 24-38 REVIEWED; Batches 4-5 not started"
+batch_status: "Batches 1-4 scans 24-43 REVIEWED; Batch 5 not started"
 derived_from: "audited Tamil pages/ records; assembled Tamil used for continuity"
 ---
 
@@ -239,5 +239,86 @@ Everyone was shocked on hearing Rajaraja's words, mixed with fury and sorrow. Te
 
 Wishing to calm his father's anger, Rajendra, with a trembling voice and his face buried at his father's feet, said firmly, “Father! Do not speak like that. Have you ever issued an order that we failed to carry out? I myself take responsibility for having that sculptor Iniyan carve the dance sculptures in all one hundred and eight postures. Put aside your worry!” Hearing his son's assurance, Rajaraja too grew somewhat calm.
 
-One evening after that incident, all those engaged in the temple work finished their day's labour and were leaving to eat and rest. Only Iniyan, the sculptor who had come from Mamallapuram, sat beside the great Nandi statue carved from a single stone, gazing at the sky and letting his thoughts run. Anyone could have guessed from the worry spread across his face that, though many days had passed since his arrival, he still had not had the opportunity to begin the sculptural work assigned to him. The king who had summoned him was Rajaraja, the peerless emperor of the Chola Empire. At the sound of his name, enemy countries lay subdued, mute and withdrawn like turtles. Such a great warrior had summoned him. And the task entrusted to him was one of immense distinction. If he completed it, the name of the sculptor Iniyan would sound in the world of art alongside the name of Rajaraja! But that good fortune, instead of coming quickly, keeps being put off and put off,
+One evening after that incident, all those engaged in the temple work finished their day's labour and were leaving to eat and rest. Only Iniyan, the sculptor who had come from Mamallapuram, sat beside the great Nandi statue carved from a single stone, gazing at the sky and letting his thoughts run. Anyone could have guessed from the worry spread across his face that, though many days had passed since his arrival, he still had not had the opportunity to begin the sculptural work assigned to him. The king who had summoned him was Rajaraja, the peerless emperor of the Chola Empire. At the sound of his name, enemy countries lay subdued, mute and withdrawn like turtles. Such a great warrior had summoned him. And the task entrusted to him was one of immense distinction. If he completed it, the name of the sculptor Iniyan would sound in the world of art alongside the name of Rajaraja! But that good fortune, instead of coming quickly, keeps being put off and put off<!-- source: scan 39; printed page: 36 -->.
 
+As Iniyan sat longing over that thought, he heard someone call, “Thambi!” Startled, he turned. Old Azhagi had come near him. Iniyan's eyes, on seeing her, darted toward the beautiful woman standing behind her.
+
+A golden-hued body.
+
+A lotus face.
+
+Small blue eyes.
+
+Graceful red lips.
+
+Brows like bows.
+
+Swelling breasts.
+
+A belly like a banyan leaf.
+
+A waist slender as a thread.
+
+Iniyan took in all that beauty in a single glance. It was the artistic gaze of a sculptor—not the lustful frenzy of a deranged mind!
+
+“Paatti! What do you want? Who is this woman?”
+
+“Thambi! She is my daughter! She came from Uraiyur only yesterday. I brought her especially to see you.”
+
+Iniyan looked at her carefully again. He could appreciate how those simple clothes poured still more radiance over one who stood there as beauty embodied.
+
+“What is your name, my dear?”
+
+Sweetness flowed through the answer she gave to the sculptor's question, in which dignity and kindness were blended.
+
+“My name is Samundi!”
+
+The old woman wished to explain to Iniyan why she had come.
+
+“Thambi! I have resolved to do every bit of help I can to bring this Rajarajeswaram to successful completion. That alone is the final goal of my life. I hear that although the sacred work of the temple has reached completion, His Majesty still has no peace of mind because the dance sculptures he desired have not yet been carved. They say your work is held up because no women dancers are available to perform the movements needed for the sculptures you must carve. That is why I have brought my daughter Samundi. She has been properly trained in the art of dance. She will dance in ways suited to your sculptures. Can you make use of her help and fulfil His Majesty<!-- source: scan 40; printed page: 37 -->'s wish quickly? Tell me!”
+
+Iniyan looked back and forth between the old woman and Samundi in astonishment.
+
+“I thought so from the very first—her physique seems made for dance! Come, Samundi, show me the bhava of a few tandava postures I ask for. Let us see!”
+
+Iniyan showered her with those gentle words.
+
+Hundreds of women highly accomplished in dance, women trained for it in schools of art, had failed and turned back from this trial. Seeing an ordinary woman boldly step forward—a woman born into a family that knew nothing of the art of dance, the daughter of Azhagi, who had learned only the ‘art’ of raising goats—gave him joy. It also stirred the hope that his sculptural work might at last be completed. Yet doubt rose up strongly enough to overcome that joy and eagerness. ‘Is she truly skilled? Will she be of help to me? Will she make my service to art succeed?’ Iniyan's heart became a vessel full of these question marks.
+
+Samundi touched the earth in reverence, offered salutation to the master, came to stand before the sculptor, and waited for movement from his lips. The old woman too sat on a step nearby, eagerly waiting to see how sculptor Iniyan would test and select her. Confidence that her daughter Samundi would succeed shone on the old woman's face.
+
+First he named the postures of the Urdhva Tandava and asked her to show their bhavas. Samundi quickly and with great precision demonstrated every expression he wanted. Next came the Aachariya Tandava! From her eyes opened wide, wonder itself seemed to pour forth!
+
+Iniyan was overcome at the sight of her dark pupils whirling like black beetles amid a silver mountain.
+
+During the Aghora Tandava, there was no knowing how that flower-like face turned into fire!
+
+<!-- source: scan 41; printed page: 38 -->
+
+He called for the Ananda Tandava. The fiery face smiled like the moon! Her curling fingers sent a new sensation through the hearts of those who watched! The heave of her breast revealed the summit of artistic beauty!
+
+The bhava of the Anavarata Tandava and the refinement of the Arpuda Tandava stole Iniyan's heart. He swelled with complete confidence that his effort would succeed. She demonstrated the bhavas belonging to the Tripura and Bhujanga Tandavas and won Iniyan's wholehearted praise.
+
+When she showed the emotional bhava of the Samhara Tandava, even a great warrior standing with sword in hand might have trembled.
+
+As she displayed certain postures of the Pralaya Tandava, the eyes of the art-absorbed young sculptor Iniyan glistened, filled with beads of moisture. Her hands moved; in them the sea raged! Her body shook and danced; in it mountains trembled! Her waist bent; in it rivers changed direction! Her eyes rolled; in them a volcano erupted! An angry smile—there, lightning in crores upon crores! As though the earth shook—as though an earthquake had come—as though storm and fire had leapt together as companions—Iniyan lost himself at the sight of the postures of the Pralaya dance she performed. Old Azhagi ran to her daughter, embraced her and kissed her forehead.
+
+Iniyan, who had stood there forgetting himself, moistened his tongue as though slowly returning to awareness and began: “Samundi! You are a goddess who ought to adorn the foremost seat in the world of art! One must say that Azhagi Paatti's merit was such that Kalaimagal herself was born from her womb. Paatti has accumulated great virtue. That is why the platform stone she gave has climbed to the summit of the vimana of this renowned tower. And the wealth of art born from her womb in you is going to be preserved along the inner base row of the temple's upper level. Samundi! It is my firm opinion that even if the Lord himself had come and danced these tandavas, he could not have defeated you.”
+
+The old woman interrupted Iniyan as he continued his praise and asked, “Then, Thambi, shall I tell Samundi to come here from tomorrow?”
+
+<!-- source: scan 42; printed page: 39 -->
+
+“Is there even any need to ask? Through her, art is going to survive! Through her, art is going to live! Through her, art is going to flourish!” the young sculptor began to rave in overwhelming joy.
+
+The next day Samundi arrived at the time Iniyan had specified. The sculptural work began! Whenever he wished, she demonstrated the necessary abhinaya bhavas and helped him fashion the first sculpture with beauty. Telling Samundi that he was confident they could complete one sculpture a day, he sent her home at the end of that first day.
+
+The next day too, the sculpture was completed just as they had expected. Then fifty days rolled by, one after another. Each day, when Samundi arrived, he would welcome her with “Come!” From time to time he would indicate the necessary bhava postures. In the evening he would dismiss her with “Go and come again!” At all other times there was only silence! It was the consciousness of art alone that ruled him.
+
+No one else was permitted into the place where the sculptural work was being done. Apart from Iniyan and Samundi, no one else stayed there. Now and then old Azhagi would come. She would marvel at her daughter's skill, kiss her and rejoice. She would praise Iniyan's artistic skill. “It is true that Samundi dances more beautifully than the Lord! But haven't you created sculptures even more beautiful than she is?” she would say in blessing, embracing her daughter and kissing the crown of her head. Then she would leave.
+
+One day after fifty days had passed, while Iniyan was carving the stone with great delicacy, the chisel struck the tip of his finger. He was, after all, in the full vigour of youth. Blood gushed out. Samundi became agitated. At once she tore the end of her sari and wrapped it around his finger. Because of this, the work was interrupted for two days. Samundi did not come near the temple. Not seeing her, some strange longing arose in Iniyan. Why had that longing arisen? From where had some feeling, never felt all these days, sprouted today? Did that mean some improper thought about her had been lying deposited at the bottom of his heart? And the moment he did not see her, had that thought sprouted wings<!-- source: scan 43; printed page: 40 --> and taken flight? All these days the sculptor had enjoyed her only with an artist's eye! Who, then, had suddenly created this new hunger in his eyes? No one else! She herself! Samundi herself! Had there been some special meaning in her gaze? No; until now he had not noticed! He had admired her beauty, but he had never been bewitched by it. Now he was melting over some remembered loveliness. In every posture she had danced, he had until then been enraptured only by the beauty of Kalaidevi. Now every limb of her beautiful body that had moved through those abhinayas was stirring his heart and torturing him.
+
+Could it perhaps be merely a disturbance caused by not seeing her? Even if that were so, why should some feeling have touched him at the very root of that disturbance? He was certainly not prepared to coat that feeling with the polish of art and hide it away.
+
+After letting him wander like a madman for a day or two in this way, Samundi came as usual to his sculpture hall. As usual he called, “Come.” But his voice trembled. She noticed it. He did not. “How is the wound on your finger?” she asked. “I didn't put on any medicine; after the end of your sari touched it, could the wound possibly fail to heal?” he blurted out rapidly. It took him a little while to calm that agitation. She looked at him with the expression of someone threatening him. Iniyan recovered himself and, saying, “Hmm! This is exactly the bhava needed for today's sculpture!” took up the chisel and began carving the stone. Contrary to usual, the sculptural work was still unfinished after evening had fallen. Saying that only a little remained and that he could finish it, he concentrated on his work by the light of torches. Only he knew why the work was not moving quickly that day! Wasn't one of Iniyan's eyes on the sculpture and the other on Samundi that day! In the torchlight Samundi's golden body seemed to gleam even more brightly; that day, he

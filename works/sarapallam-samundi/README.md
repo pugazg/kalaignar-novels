@@ -14,9 +14,9 @@
 - whole-work audit unresolved historical glyphs / source readings: **0 / 0**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - English translation plan: **PASS / COMPLETE**;
-- English coverage: **15 / 25 scans**;
-- English Batches 1–3 — scans **24–38: REVIEWED / COMPLETE**;
-- English Batch 4 — scans **39–43: NEXT**;
+- English coverage: **20 / 25 scans**;
+- English Batches 1–4 — scans **24–43: REVIEWED / COMPLETE**;
+- English Batch 5 — scans **44–48: NEXT**;
 - whole-work English: **IN PROGRESS / NOT VERIFIED**.
 
 ## Whole-work audit closure
@@ -49,6 +49,10 @@ Scans **29–33** are **REVIEWED / COMPLETE**. The open 28→29 sentence is now 
 
 Scans **34–38** are **REVIEWED / COMPLETE**. Azhagi's royal audience and Sarapallam episode, the 35→36 split `தாண்`+`டவ`, the 36→37 dancer-model continuation, Iniyan's introduction and Rajaraja's art/empire outburst are source-checked. Scan 38 remains open into scan 39 exactly at `தள்ளிப் போட்டுக்கொண்டே`; no scan 39 prose was imported. Batch 3 source-check: **0 omissions / 0 source-like additions / 0 unresolved items**.
 
+## English Batch 4 closure
+
+Scans **39–43** are **REVIEWED / COMPLETE**. The open 38→39 sentence is completed; Samundi's arrival/dance test, fifty-day sculpture sequence and Iniyan's emotional turn are source-checked; protected source oddities and the 42→43 join are documented. Scan 43 remains open at `அன்றையதினம்`; no scan 44 prose was imported. Batch 4 source-check: **0 omissions / 0 source-like additions / 0 unresolved items**.
+
 ## Exact next activity
 
-**English Batch 4 — scans 39–43 only.** Complete the open 38→39 sentence using authorized scan-39 prose, continue/source-check through scan 43, update controls, commit, and stop before Batch 5.
+**English Batch 5 — scans 44–48 only.** Complete the open 43→44 sentence using authorized scan-44 prose, translate/source-check the final five scans including the distinct scan-48 source note, update controls, commit, and stop before Section 16 whole-work bilingual review.

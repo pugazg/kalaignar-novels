@@ -14,8 +14,9 @@
 | English Batch 1 — scans 24–28 | **REVIEWED / COMPLETE** |
 | English Batch 2 — scans 29–33 | **REVIEWED / COMPLETE** |
 | English Batch 3 — scans 34–38 | **REVIEWED / COMPLETE** |
-| English Batch 4 — scans 39–43 | **NEXT** |
-| English coverage | **15 / 25 scans** |
+| English Batch 4 — scans 39–43 | **REVIEWED / COMPLETE** |
+| English Batch 5 — scans 44–48 | **NEXT** |
+| English coverage | **20 / 25 scans** |
 | Whole-work English | **IN PROGRESS / NOT VERIFIED** |
 
 No source PDF is committed.
@@ -65,6 +66,10 @@ Scans **29–33** passed draft translation and canonical-Tamil source check. The
 
 Scans **34–38** passed draft translation and canonical-Tamil source check. Azhagi/Sarapallam, protected source oddities, 35→36 and 36→37 joins, Iniyan/dancer terminology, Rajaraja's rhetoric and the incomplete 38→39 boundary all pass. Material omissions / source-like additions / unresolved items: **0 / 0 / 0**. Canonical Tamil changes: **0**.
 
+## English Batch 4 review
+
+Scans **39–43** passed draft translation and canonical-Tamil source check. Samundi's introduction/dance test, protected source oddities, 39→40 and 42→43 continuities, fifty-day sculpture sequence, injury and Iniyan's emotional shift all pass. Material omissions / source-like additions / unresolved items: **0 / 0 / 0**. Canonical Tamil changes: **0**.
+
 ## Exact next activity
 
-English Batch 4 — scans **39–43 only**. Whole-work English remains unverified.
+English Batch 5 — scans **44–48 only**. Whole-work English remains unverified pending final batch and Section 16 review.

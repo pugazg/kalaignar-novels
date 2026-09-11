@@ -1,4 +1,4 @@
-# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / English Batch 4
+# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / English Batch 5
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/sarapallam-samundi/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -9,19 +9,19 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - assembled Tamil **PASS / COMPLETE — 1 / 1 section**;
 - English translation plan **PASS / COMPLETE**;
 - working English title: **Sarapallam Samundi**;
-- English Batches 1–3 scans **24–38 — REVIEWED / COMPLETE**;
-- English coverage **15 / 25 scans**;
-- English Batch 4 scans **39–43 — NEXT**;
+- English Batches 1–4 scans **24–43 — REVIEWED / COMPLETE**;
+- English coverage **20 / 25 scans**;
+- English Batch 5 scans **44–48 — NEXT**;
 - whole-work English **IN PROGRESS / NOT VERIFIED**.
 
-Batch 3 source-check closure:
+Batch 4 source-check closure:
 
 - omissions / source-like additions / unresolved items: **0 / 0 / 0**;
-- Azhagi's audience, single-stone/ramp proposal and Sarapallam naming are source-checked;
-- scan 34 protected forms `நிழலில் தானம்மா` and `மன்னர் மன்னு` are documented;
-- scan 35→36 split `தாண்` + `டவ` and scan 36→37 dancer-model continuation are preserved;
-- Iniyan, named dancers/tandavas and Rajaraja's art/empire rhetoric are source-checked;
-- scan 38 ends at `தள்ளிப் போட்டுக்கொண்டே`; English remains open and contains **no scan 39 prose**.
+- open 38→39 sentence completed from authorized scan-39 source;
+- Samundi introduction and dance test preserve source imagery and named tandava forms;
+- scan 41 `நீர்த்திவலை`, scan 42 `சிற்பங்களை யல்லவா` / `ஏதோ ஓர் ஏக்கத்தை ஏற்பட்டது`, and scan 43 `தீண்டாக்குவானேன்` are documented;
+- scan 42→43 `சிறகு` continuation preserved;
+- scan 43 ends at `அன்றையதினம்`; English remains open and contains **no scan 44 prose**.
 
 ## Mandatory startup
 
@@ -36,22 +36,25 @@ Read completely:
 7. `works/sarapallam-samundi/translations/en/README.md`;
 8. `works/sarapallam-samundi/translations/en/PROGRESS.md`;
 9. `works/sarapallam-samundi/translations/en/GLOSSARY.md`;
-10. `works/sarapallam-samundi/translations/en/BATCH_03_REVIEW.md`;
-11. canonical Tamil records for scans **39–43**;
+10. `works/sarapallam-samundi/translations/en/BATCH_04_REVIEW.md`;
+11. canonical Tamil records for scans **44–48**;
 12. existing English section `works/sarapallam-samundi/translations/en/sections/01-sarapallam-samundi.md`.
 
-## Exact next activity — English Batch 4 only
+## Exact next activity — English Batch 5 only
 
-Process scans **39–43**.
+Process scans **44–48**.
 
-- first complete the open scan 38→39 sentence using authorized scan-39 prose;
-- translate only audited Tamil source for scans 39–43;
+- first complete the open scan 43→44 sentence using authorized scan-44 prose;
+- translate only audited Tamil source for scans 44–48;
 - preserve rhetoric, agency, dialogue, repetition, historical/religious/political force and source oddities;
 - preserve reversible source-scan provenance and verified joins;
+- keep scan 48's narrative ending distinct from the subsequent source-printed `குறிப்பு :`, translating the latter as a source note rather than part of the fictional scene;
 - obey locked glossary decisions and document new non-trivial terms;
-- source-check English against canonical Tamil scans 39–43;
-- mark Batch 4 reviewed only after source comparison passes;
+- source-check English against canonical Tamil scans 44–48;
+- mark Batch 5 reviewed only after source comparison passes;
 - update English and durable root/work/collection controls;
-- commit and stop before scan 44 / Batch 5.
+- commit and stop.
+
+After Batch 5, **do not call whole-work English verified yet**. The next separate activity must be the Section 16 whole-work bilingual review.
 
 Do not begin the 1978 `பெரிய இடத்துப் பெண்` witness comparison.
