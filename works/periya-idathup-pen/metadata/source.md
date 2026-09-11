@@ -96,7 +96,7 @@ The source PDF itself must remain outside this Git repository.
 
 A later printing of this work is now registered from the 1978 four-story compilation `அரும்பு`, physical scans **49–74**. See [`witness-arumbu-1978.md`](witness-arumbu-1978.md).
 
-This witness is **not** the controlling source. Its comparison plan and source-visible scan/heading mapping are now complete; line-by-line comparison remains **0 / 26 scans** with W1 scans 49–53 next. Its registration/comparison does not change the canonical verification freeze or authorize any canonical/assembled/English edits.
+This witness is **not** the controlling source. Its comparison plan and source-visible scan/heading mapping are complete; W1–W3 are reviewed and line-by-line comparison is **15 / 26 scans**, with W4 scans 64–67 next. Its registration/comparison does not change the canonical verification freeze or authorize any canonical/assembled/English edits.
 
 ## Completed downstream state
 
