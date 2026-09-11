@@ -1,73 +1,47 @@
-# Next Chat Prompt — பெரிய இடத்துப் பெண் / 1978 witness W2 scans 54–58
+# Next Chat Prompt — பெரிய இடத்துப் பெண் / 1978 witness W3 scans 59–63
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Controlling edition — DO NOT MODIFY
+## Authority
 
-`TVA_BOK_0064090_பெரிய_இடத்துப்_பெண்_1953.pdf`
+The controlling source remains the **1953 eighth edition**. Canonical Tamil remains **0 verified / 49 needs-review**, with the verification freeze **ACTIVE**. Assembled Tamil is **PASSED**, English is **VERIFIED**, and the package remains **RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**.
 
-- SHA-256: `50db9c55d670065bd81088ee07e4527f5531a9ab15e3c4533d6b10eda8d09e9628`
-- edition: **எட்டாம் பதிப்பு — ஜூலை 1953**
-- canonical: **0 verified / 49 needs-review**
-- verification freeze: **ACTIVE**
-- assembled Tamil: **PASSED**
-- English: **VERIFIED**
-- package: **RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**
-
-## 1978 witness
-
-`TVA_BOK_0064361_அரும்பு.pdf`
-
-- SHA-256: `04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc`
-- edition: **முதற் பதிப்பு — 1978**
-- publisher: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**
-- witness span: **49–74 / 26 scans**
-- source PDF committed: **No**
+The 1978 `அரும்பு` printing is **additional witness only**. Comparison is record-only.
 
 ## Durable comparison state
 
-Read completely:
+- plan / map: **PASS / COMPLETE**;
+- W1 scans 49–53: **REVIEWED / COMPLETE**;
+- W2 scans 54–58: **REVIEWED / COMPLETE**;
+- coverage: **10 / 26 scans**;
+- batches: **2 / 6 complete**;
+- cumulative textual / structural variant entries: **88**;
+- non-textual witness features: **2**;
+- unresolved readings through W2: **0**;
+- canonical / assembled / English changes: **0 / 0 / 0**.
+
+Read before work:
 
 1. root `HANDOVER.md`;
 2. this prompt;
-3. `works/periya-idathup-pen/README.md`;
-4. `works/periya-idathup-pen/audit.md`;
-5. `works/periya-idathup-pen/metadata/witness-arumbu-1978.md`;
-6. `works/periya-idathup-pen/witness-comparison/arumbu-1978/COMPARISON_PLAN.md`;
-7. `works/periya-idathup-pen/witness-comparison/arumbu-1978/SCAN_MAP.md`;
-8. `works/periya-idathup-pen/witness-comparison/arumbu-1978/PROGRESS.md`;
-9. `works/periya-idathup-pen/witness-comparison/arumbu-1978/VARIANTS.md`;
-10. `works/periya-idathup-pen/witness-comparison/arumbu-1978/W1_SCANS_049_053.md`;
-11. controlling canonical/assembled Tamil needed for W2.
+3. witness `COMPARISON_PLAN.md`;
+4. `SCAN_MAP.md`;
+5. `PROGRESS.md`;
+6. `VARIANTS.md`;
+7. `W2_SCANS_054_058.md`;
+8. controlling canonical/assembled Tamil needed for W3.
 
-Current state:
+## Exact next activity — W3 only
 
-- plan / map: **PASS / COMPLETE**;
-- W1 scans 49–53: **REVIEWED / COMPLETE**;
-- line comparison: **5 / 26 scans**;
-- batches complete: **1 / 6**;
-- W1 textual / structural variant entries: **36**;
-- W1 unresolved readings: **0**;
-- canonical / assembled / English changes: **0 / 0 / 0**.
-
-## Exact next activity — W2 only
-
-Compare **1978 scans 54–58**.
-
-- scan54 — printed51;
-- scan55 — printed52;
-- scan56 — printed53; first `கண்ணம்மா` heading;
-- scan57 — one physical landscape spread containing printed **54–55**; compare printed text, keep illustration non-textual;
-- scan58 — printed56.
+Compare **1978 scans 59–63 / printed pages 57–61**.
 
 Rules:
 
-- direct 1978 pixels control the witness reading;
-- 1953 remains controlling for the archival package;
-- compare all printed W2 text;
-- record source-proven variants only;
-- page breaks / line wraps are not wording variants;
-- illustration content is never converted into text;
+- direct 1978 pixels control witness readings;
+- 1953 remains controlling;
+- compare all printed text;
+- record source-proven wording, spelling/glyph, punctuation, omission/addition/order/structure differences;
+- page breaks and line wraps alone are not variants;
 - uncertain readings remain **UNRESOLVED**;
-- do not modify canonical Tamil, assembled Tamil, English, release status or page-status freeze;
-- create `W2_SCANS_054_058.md`, update `VARIANTS.md`, `PROGRESS.md` and controls, commit, and stop before scan59 / W3.
+- no canonical Tamil, assembled Tamil, English, release or freeze changes;
+- create `W3_SCANS_059_063.md`, update variant/progress/control records, commit, and stop before scan64 / W4.

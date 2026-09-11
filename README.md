@@ -6,7 +6,7 @@
 
 - அரும்பு — scans 6–23 — **RELEASE-READY / CLOSED**;
 - சாரப்பள்ளம் சாமுண்டி — scans 24–48 — **RELEASE-READY / CLOSED**;
-- பெரிய இடத்துப் பெண் — scans 49–74 — **1978 WITNESS W1 COMPLETE — 5/26; W2 scans 54–58 NEXT**;
+- பெரிய இடத்துப் பெண் — scans 49–74 — **1978 WITNESS W1–W2 COMPLETE — 10/26; W3 scans 59–63 NEXT**;
 - நடுத்தெரு நாராயணி — scans 75–90 — queued.
 
 ### Current சாரப்பள்ளம் சாமுண்டி state
@@ -26,7 +26,7 @@
 - archival/editorial package: **RELEASE-READY / CLOSED**;
 - source PDF remains excluded.
 
-Exact next action: **1978 பெரிய இடத்துப் பெண் witness Batch W2 — scans 54–58 only; 1953 edition remains controlling**.
+Exact next action: **1978 பெரிய இடத்துப் பெண் witness Batch W3 — scans 59–63 only; 1953 edition remains controlling**.
 
 ## Completed works
 
@@ -35,6 +35,6 @@ Exact next action: **1978 பெரிய இடத்துப் பெண் 
 | அரும்பு | Tamil 18/18 VERIFIED; assembled Tamil PASS; English VERIFIED; release-ready |
 | சாரப்பள்ளம் சாமுண்டி | Tamil 25/25 VERIFIED; assembled Tamil PASS; English VERIFIED; release-ready |
 | வெள்ளிக்கிழமை | Tamil 179/179 verified; English VERIFIED; release-ready |
-| பெரிய இடத்துப் பெண் | 1953 controlling edition release-ready with qualification; 1978 witness W1 complete (5/26), W2 next |
+| பெரிய இடத்துப் பெண் | 1953 controlling edition release-ready with qualification; 1978 witness W1–W2 complete (10/26), W3 next |
 | புதையல் | 446 complete / 2 physical-loss needs-review; English VERIFIED |
 | பலிபீடம் நோக்கி | Tamil 34/34 verified; English VERIFIED; release-ready |

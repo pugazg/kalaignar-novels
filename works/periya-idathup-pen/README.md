@@ -27,11 +27,12 @@ The supplied scan is the controlling source.
 - release-readiness pass: **PASSED WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION**;
 - repository-wide completion documentation sync: **COMPLETE**;
 - 1978 additional-witness comparison plan / mapping: **PASS / COMPLETE**;
-- 1978 witness line-comparison coverage: **5 / 26 scans**;
-- 1978 witness batches complete: **1 / 6**;
-- W1 variant entries: **36 textual / structural + 1 non-textual**;
-- unresolved W1 source readings: **0**;
-- next witness batch: **W2 — scans 54–58**;
+- 1978 witness line-comparison coverage: **10 / 26 scans**;
+- 1978 witness batches complete: **2 / 6**;
+- cumulative textual / structural variant entries: **88**;
+- non-textual witness features: **2 total**;
+- unresolved source readings through W2: **0**;
+- next witness batch: **W3 — scans 59–63**;
 - source PDF committed: **No**.
 
 **Repository package status: RELEASE-READY WITH CANONICAL-TAMIL VERIFICATION QUALIFICATION.**
@@ -169,12 +170,13 @@ The completed 1953 package remains controlling and unchanged. A separate record-
 
 - comparison plan: [`witness-comparison/arumbu-1978/COMPARISON_PLAN.md`](witness-comparison/arumbu-1978/COMPARISON_PLAN.md) — **PASS / COMPLETE**;
 - source-visible scan map: [`witness-comparison/arumbu-1978/SCAN_MAP.md`](witness-comparison/arumbu-1978/SCAN_MAP.md) — **PASS / COMPLETE**;
-- progress: **5 / 26 scans compared; 1 / 6 batches complete**;
+- progress: **10 / 26 scans compared; 2 / 6 batches complete**;
 - W1: **REVIEWED / COMPLETE — scans 49–53**;
-- confirmed W1 textual / structural variant entries: **36**;
+- W2: **REVIEWED / COMPLETE — scans 54–58**;
+- cumulative textual / structural variant entries: **88**;
 - confirmed pre-comparison paratext differences: **1**;
 - canonical / assembled / English changes: **0**.
 
 ## Current gate
 
-**W2 — compare 1978 scans 54–58 only.** Preserve the 1953 control, canonical verification freeze, assembled Tamil, English and qualified release verdict unchanged.
+**W3 — compare 1978 scans 59–63 only.** Preserve the 1953 control, canonical verification freeze, assembled Tamil, English and qualified release verdict unchanged.
