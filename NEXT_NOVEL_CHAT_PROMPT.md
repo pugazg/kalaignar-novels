@@ -1,4 +1,4 @@
-# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / T3 scans 29–33
+# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / T1 scans 34–38
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/sarapallam-samundi/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -9,33 +9,31 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 ## Durable state
 
 - component scans **24–48 / 25 scans**;
-- canonical records **10/25 — scans 24–33**;
-- verified **5/25 — scans 24–28**;
+- canonical / verified records **10/25 — scans 24–33**;
 - scans 24–28 **T1+T2+T3 PASS / VERIFIED**;
-- scans 29–33 **T1 PASS / COMPLETE**;
-- scans 29–33 **T2 PASS / COMPLETE — 9 corrections / 0 unresolved historical glyphs**;
-- scans 29–33 **T3 NEXT**;
+- scans 29–33 **T1+T2+T3 PASS / VERIFIED**;
+- scans 29–33 T3: **13 source-fidelity correction items / 0 unresolved**;
+- final historical-glyph corrections scans 29–33: **11 / 0 unresolved**;
 - scans 34–48 **NOT STARTED**.
 
-## T2 corrections to preserve
+T3 corrective history to preserve: scan29 restored `சிலைகளை` plus the omitted gateway-name explanation; scan30 corrected `அவனையே`; scan31 corrected `ஒருவனை`, `பிரமராயனை`, `என்ற பெயரால்`, and the `கோயிலைச் சுற்றி வடக்கிலும் தெற்கிலுமாக` clause; scan32 corrected `சூழ்ந்துகொண்டு` and `அவளை நெருங்கிப் பேச்சுக் கொடுக்க`; scan33 restored the full source meal/rotating-list/goat-sale passage.
 
-- scan30 `ஆண்டவன்தானா`;
-- scan31 `சிற்பங்களை`, `யோசனைகளை`, `ஊர்களை`;
-- scan32 `அவளைச்`, `நன்றாகப்`, `நன்றாக`;
-- scan33 both `தன்னாலான` occurrences.
+## Mandatory startup
 
-## Exact next activity — T3 only
+Read `NOVEL_PROCESSING_GUIDE.md`, `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `HANDOVER.md`, this prompt, collection README/work-map, work README/source/page-map/audit, and the T1/T2/T3 batch records through scans 29–33.
 
-Perform final independent source-fidelity closure for physical scans **29–33**:
+## Exact next activity — T1 only
 
-- compare each whole source scan against its canonical record;
-- check omissions, duplicated/misplaced text, punctuation, paragraph boundaries and printed-page values;
-- confirm 28→29, 29→30, 30→31 continuity and the complete boundaries at 31→32 and 32→33;
-- confirm all T2 character identities remain correct;
-- correct only what direct source pixels support;
-- leave genuinely unresolved readings `needs-review`;
-- if all five pass, mark them `verified`;
-- create/update the T3 batch audit and synchronize work/root controls;
-- commit and stop.
+Process physical scans **34–38** as one five-scan T1 batch:
 
-Do not begin scan 34 in the same checkpoint.
+- visually read each complete source scan once;
+- create one canonical page record per scan;
+- record only visibly printed page numbers;
+- preserve source spelling, punctuation, dialogue, paragraph structure and page-boundary fragments;
+- keep illustrations/non-body marks separate;
+- no OCR/context as authority;
+- do not perform T2 in the same checkpoint;
+- leave new records `needs-review`;
+- synchronize controls, commit, and stop.
+
+Do not begin T2, scan 39+, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.

@@ -2,12 +2,12 @@
 
 ## Repository
 
-- Repository: pugazg/kalaignar-novels
-- Branch: main
+- Repository: `pugazg/kalaignar-novels`
+- Branch: `main`
 - **Live main is authoritative.**
 - Active source: **1978 அரும்பு four-story compilation**
-- Active work: **works/sarapallam-samundi/**
-- works/arumbu/ is **RELEASE-READY / CLOSED**.
+- Active work: **`works/sarapallam-samundi/`**
+- `works/arumbu/` is **RELEASE-READY / CLOSED**.
 
 ## Controlling source
 
@@ -18,15 +18,17 @@
 `சாரப்பள்ளம் சாமுண்டி` spans **scans 24–48 / 25 scans**.
 
 - canonical records: **10 / 25 — scans 24–33**;
-- verified: **5 / 25 — scans 24–28**;
+- verified: **10 / 25 — scans 24–33**;
 - scans 24–28: **T1+T2+T3 PASS / VERIFIED**;
-- scans 29–33 T1: **PASS / COMPLETE**;
-- scans 29–33 T2: **PASS / COMPLETE — 9 corrections / 0 unresolved historical glyphs**;
-- scans 29–33 T3: **NEXT**;
+- scans 29–33: **T1+T2+T3 PASS / VERIFIED**;
+- scans 29–33 T3: **13 correction items / 0 unresolved source readings**;
+- final historical-glyph corrections scans 29–33: **11 / 0 unresolved**;
 - scans 34–48: **NOT STARTED**.
 
-T2 corrections include scan30 `ஆண்டவன்தானா`; scan31 `சிற்பங்களை`, `யோசனைகளை`, `ஊர்களை`; scan32 `அவளைச்`, `நன்றாகப்`, `நன்றாக`; scan33 both `தன்னாலான` occurrences. All five records remain `needs-review` pending T3.
+Important corrective history: the original scans 29–33 T2 checkpoint found 9 historical-glyph corrections; T3 caught two additional historical identities (`சிலைகளை`, `பிரமராயனை`) and substantial ordinary source-fidelity issues, including a major scan-33 omitted/reconstructed block.
 
 ## Exact next activity
 
-Execute **T3 final source-fidelity closure for scans 29–33 only**. Check complete-page omissions/duplication/punctuation/joins and T2 findings, synchronize controls, commit, and stop before scan 34.
+Execute **T1 direct transcription for scans 34–38 only** under `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`. Create five canonical records from direct source pixels, synchronize controls, commit, and stop before T2.
+
+Do not begin scan 39 or the 1978 `பெரிய இடத்துப் பெண்` witness comparison.
