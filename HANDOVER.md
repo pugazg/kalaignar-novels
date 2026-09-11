@@ -17,18 +17,19 @@ TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2
 
 சாரப்பள்ளம் சாமுண்டி spans **scans 24–48 / 25 scans**.
 
-- canonical records: **20 / 25 — scans 24–43**;
+- canonical records: **25 / 25 — COMPLETE**;
 - verified: **20 / 25 — scans 24–43**;
-- scans 24–38: **T1+T2+T3 PASS / VERIFIED**;
-- scans 39–43: **T1+T2+T3 PASS / VERIFIED**;
-- scans 39–43 T3: **8 corrections / 0 unresolved source readings**;
-- final historical-glyph corrections scans 39–43: **3 / 0 unresolved**;
-- scans 44–48: **NOT STARTED**.
+- scans 24–43: **T1+T2+T3 PASS / VERIFIED**;
+- scans 44–48 T1: **PASS / COMPLETE**;
+- scans 44–48 T2: **NEXT**;
+- scans 44–48 T3: **BLOCKED by T2**.
 
-Key T3 corrections include scan39 `ஏற்பட்ட வில்லையென்று`; scan40 `குளிர் மொழிகள்` / `கலை மட்டுமே`; scan41 `ஆனந்தத் தாண்டவம் என்றான்` / `தலைமைப் பீடத்தை`; scan43 `கலைக் கண்`, `உருகிக்கொண்டிருக்கிறான்`, `வழக்கத்திற்கு மாறாக`.
+Final-batch printed pages are directly visible as scan44=41, scan45=42, scan46=43, scan47=44, scan48=45. Scan48 contains the story ending followed by the source-printed historical `குறிப்பு :`.
+
+Complete canonical page coverage is achieved, but whole-work Tamil verification is still blocked by final-batch T2/T3.
 
 ## Exact next activity
 
-Execute **T1 direct transcription for scans 44–48 only** under SOURCE_BATCH_CHECKPOINT_WORKFLOW.md. Create the final five canonical records from direct source pixels, synchronize controls, commit, and stop before T2.
+Execute **T2 independent historical-glyph / character-identity re-read for scans 44–48 only**. Check every complete scan and the sensitive glyph families, correct only from direct source pixels, synchronize controls, commit, and stop before T3.
 
 Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.

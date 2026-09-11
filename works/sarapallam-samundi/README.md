@@ -8,20 +8,21 @@
 ## Current state
 
 - component span: **25 scans**;
-- canonical page records: **20 / 25 — scans 24–43**;
+- canonical page records: **25 / 25 — COMPLETE**;
 - verified records: **20 / 25 — scans 24–43**;
-- scans 24–38: **T1+T2+T3 PASS / VERIFIED**;
-- scans 39–43: **T1+T2+T3 PASS / VERIFIED**;
-- scans 39–43 T3: **8 source-fidelity corrections / 0 unresolved**;
-- final historical-glyph corrections scans 39–43: **3 / 0 unresolved**;
-- scans 44–48: **NOT STARTED**.
+- scans 24–43: **T1+T2+T3 PASS / VERIFIED**;
+- scans 44–48 T1: **PASS / COMPLETE**;
+- scans 44–48 T2: **NEXT**;
+- scans 44–48 T3: **BLOCKED by T2**.
 
-## Fourth-batch closure
+## Final-batch T1
 
-T3 corrected eight source-fidelity issues. Important corrections include scan40 `குளிர் மொழிகள்` and `ஆடு வளர்க்கும் கலை மட்டுமே`, scan41 `ஆனந்தத் தாண்டவம் என்றான்` / `தலைமைப் பீடத்தை`, and scan43 `கலைக் கண்`, `உருகிக்கொண்டிருக்கிறான்`, `வழக்கத்திற்கு மாறாக`.
+Physical scans **44–48** were directly visually transcribed as printed pages **41–45**. All five new records remain `needs-review` pending T2/T3.
 
-T3 also caught one historical `லை` identity missed by T2. All scans **39–43 / printed pages 36–40** are now VERIFIED.
+Scan 48 is structurally important: the story ends there, followed by a source-printed `குறிப்பு :` explaining the historical basis involving the 108 dance postures, 81 completed sculptures and an unfinished 82nd. That note is preserved as source text rather than repository editorial prose.
+
+Complete canonical source-page coverage now exists: **25/25**.
 
 ## Exact next activity
 
-Execute **T1 direct transcription for scans 44–48 only**. Create the final five canonical records from direct source pixels, synchronize controls, commit, and stop before T2.
+Execute **T2 independent historical-glyph / character-identity re-read for scans 44–48 only**, synchronize controls, commit, and stop before T3.

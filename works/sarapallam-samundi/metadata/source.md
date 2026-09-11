@@ -12,13 +12,14 @@
 - scans 29–33 visibly print **26–30**
 - scans 34–38 visibly print **31–35**
 - scans 39–43 visibly print **36–40**
-- scan 48 was intake-observed to visibly print **45**
+- scans 44–48 visibly print **41–45**
+- scan 48 contains the narrative ending followed by a source-printed historical `குறிப்பு :`
 - source PDF committed: **No**
 
 ## Processing state
 
 - scans 24–43: **T1+T2+T3 PASS / VERIFIED — 20/25**;
-- scans 39–43 T3: **8 corrections / 0 unresolved source readings**;
-- final historical-glyph corrections scans 39–43: **3 / 0 unresolved**;
-- scans 44–48: **NOT STARTED**;
-- next: **T1 scans 44–48**.
+- scans 44–48: **T1 PASS / COMPLETE — needs-review**;
+- canonical records: **25/25 COMPLETE**;
+- verified records: **20/25**;
+- next: **T2 scans 44–48**.

@@ -6,28 +6,31 @@
 |---|---|
 | Source intake | **COMPLETE** |
 | Component boundary | **PASS — scans 24–48** |
-| Canonical records | **20 / 25 — scans 24–43** |
+| Canonical records | **25 / 25 — COMPLETE** |
 | Verified records | **20 / 25 — scans 24–43** |
-| T1/T2/T3 scans 24–38 | **PASS / VERIFIED** |
-| T1/T2/T3 scans 39–43 | **PASS / VERIFIED** |
-| T3 scans 39–43 | **PASS / COMPLETE — 8 corrections / 0 unresolved** |
-| Historical-glyph final scans 39–43 | **3 corrections / 0 unresolved** |
-| Scans 44–48 | **NOT STARTED** |
-| Downstream whole-work gates | **BLOCKED** |
+| T1/T2/T3 scans 24–43 | **PASS / VERIFIED** |
+| T1 scans 44–48 | **PASS / COMPLETE** |
+| T2 scans 44–48 | **NEXT** |
+| T3 scans 44–48 | **BLOCKED by T2** |
+| Whole-work Tamil audit | **BLOCKED until final batch T2/T3** |
+| Downstream assembled/translation gates | **BLOCKED** |
 
 No source PDF is committed.
 
-## Fourth-batch T3 findings
+## Final-batch T1 findings
 
-The final source pass corrected **8 source-fidelity items** across scans 39–43:
+Scans **44–48 / printed pages 41–45** were visually transcribed once from direct source pixels. Five canonical records were created, bringing canonical coverage to **25/25**.
 
-- scan39: `ஏற்பட்ட வில்லையென்று`;
-- scan40: `குளிர் மொழிகள்`, `ஆடு வளர்க்கும் கலை மட்டுமே`;
-- scan41: `ஆனந்தத் தாண்டவம் என்றான்`, `தலைமைப் பீடத்தை`;
-- scan43: `கலைக் கண்`, `உருகிக்கொண்டிருக்கிறான்`, `வழக்கத்திற்கு மாறாக`.
+Key structural findings:
 
-T3 caught one additional historical-`லை` identity on scan40, raising final historical-glyph corrections for scans 39–43 from **2 to 3**. Unresolved historical glyphs: **0**. Unresolved source readings: **0**.
+- 43→44 continues `அவன் அன்றையதினம்` / `சுவைத்துக்கொண்டே...`;
+- 44→45 continues `என்று அவள் புன்னகை` / `பொங்கக் கூறியபோது...`;
+- 46→47 continues `விம்மி அழத்` / `தொடங்கினாள்.`;
+- 47→48 continues `திரும்பினார்-` / `அனைவரும் இனியன் பக்கம் திரும்பினர்.`;
+- scan 48 contains the narrative ending followed by a source-printed historical `குறிப்பு :`.
+
+Source-sensitive first-pass readings remain open for the independent T2/T3 passes.
 
 ## Exact next activity
 
-Run **T1 scans 44–48 only**; do not begin T2 in the same checkpoint.
+Run T2 for scans **44–48 only**; do not perform T3 in the same checkpoint.
