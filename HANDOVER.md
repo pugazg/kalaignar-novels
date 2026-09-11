@@ -25,9 +25,10 @@ TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2
 - unresolved source readings: **0**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - English translation plan: **PASS / COMPLETE**;
-- English coverage: **0 / 25 scans**;
-- English Batch 1 pilot — scans **24–28: NEXT**;
-- whole-work English: **NOT STARTED**.
+- English coverage: **5 / 25 scans**;
+- English Batch 1 — scans **24–28: REVIEWED / COMPLETE**;
+- English Batch 2 — scans **29–33: NEXT**;
+- whole-work English: **IN PROGRESS / NOT VERIFIED**.
 
 Whole-work mapping and continuity passed, including scan28's unnumbered landscape illustration spread and scan48's narrative-ending / separately printed historical-note distinction.
 
@@ -41,6 +42,10 @@ Audit report: works/sarapallam-samundi/FULL_TAMIL_SOURCE_AUDIT.md.
 
 `works/sarapallam-samundi/translations/en/TRANSLATION_PLAN.md` is **PASS / COMPLETE**. Working English title: **Sarapallam Samundi**. The one-section translation is divided into five controlled five-scan batches: **24–28**, **29–33**, **34–38**, **39–43**, **44–48**. Batch boundaries are workflow boundaries only, not source structure.
 
+## English Batch 1 closure
+
+The pilot translation for scans **24–28** is **REVIEWED / COMPLETE**. `translations/en/README.md`, `PROGRESS.md`, `GLOSSARY.md`, `BATCH_01_REVIEW.md`, and the in-progress one-section English file are now established. Source-check found **0 material omissions, 0 source-like additions and 0 unresolved items**. The scan-28 illustration is excluded, and the 28→29 sentence is intentionally left open until Batch 2.
+
 ## Exact next activity
 
-**English Batch 1 pilot — scans 24–28 only.** Create the Section 15 English controls as needed, translate/source-check only those scans, document terminology and source oddities, commit, and stop before Batch 2. Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.
+**English Batch 2 — scans 29–33 only.** Continue/source-check only that span, update the existing English controls, commit, and stop before Batch 3. Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.

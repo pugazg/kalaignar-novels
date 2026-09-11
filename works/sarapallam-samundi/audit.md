@@ -11,9 +11,10 @@
 | Whole-work Tamil audit | **PASS / COMPLETE — 1 residual correction / 0 unresolved** |
 | Assembled Tamil | **PASS / COMPLETE — 1 / 1 section** |
 | English translation plan | **PASS / COMPLETE** |
-| English Batch 1 — scans 24–28 | **NEXT** |
-| English coverage | **0 / 25 scans** |
-| Whole-work English | **NOT STARTED** |
+| English Batch 1 — scans 24–28 | **REVIEWED / COMPLETE** |
+| English Batch 2 — scans 29–33 | **NEXT** |
+| English coverage | **5 / 25 scans** |
+| Whole-work English | **IN PROGRESS / NOT VERIFIED** |
 
 No source PDF is committed.
 
@@ -50,6 +51,10 @@ The derived reading layer covers scans **24–48** in one section. All **25/25**
 
 Section 14 is **PASS / COMPLETE**. The working English title is **Sarapallam Samundi**; final English structure is one continuous section; controlled batches are 24–28, 29–33, 34–38, 39–43 and 44–48. Source authority, terminology, source-oddity policy, provenance and review gates are locked in `translations/en/TRANSLATION_PLAN.md`.
 
+## English Batch 1 review
+
+Scans **24–28** passed draft translation and canonical-Tamil source check. Coverage/order, rhetoric and agency, recurring names/terms, the 24→25 and 25→26 continuities, the 26→27 split-word join, scan-28 illustration exclusion, and the incomplete 28→29 boundary all pass. Material omissions / source-like additions / unresolved items: **0 / 0 / 0**. Canonical Tamil changes: **0**.
+
 ## Exact next activity
 
-English Batch 1 pilot — scans **24–28 only**. Whole-work English remains unstarted.
+English Batch 2 — scans **29–33 only**. Whole-work English remains unverified.
