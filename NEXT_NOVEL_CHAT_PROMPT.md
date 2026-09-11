@@ -1,67 +1,72 @@
-# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / T1 scans 24–28
+# Next Chat Prompt — சாரப்பள்ளம் சாமுண்டி / T2 scans 24–28
 
-Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/sarapallam-samundi/`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in pugazg/kalaignar-novels, branch main, active work works/sarapallam-samundi/. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Controlling source
 
-`TVA_BOK_0064361_அரும்பு.pdf`
+TVA_BOK_0064361_அரும்பு.pdf
 
-- SHA-256 `04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc`
-- **117,270,339 bytes**
-- **92 physical scans**
+- SHA-256 04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc
+- 117,270,339 bytes
+- 92 physical scans
 - image-only
 - தமிழ்க்கனி பதிப்பகம், சென்னை-28
 - முதற் பதிப்பு 1978
-- source PDF must **not** be committed.
+- source PDF must not be committed.
 
 ## Closed preceding component
 
-`works/arumbu/` scans 6–23 is **RELEASE-READY / CLOSED**. Do not reopen it without genuinely new source evidence.
+works/arumbu/ scans 6–23 is **RELEASE-READY / CLOSED**.
 
-## Active component
+## Active durable state
 
-`சாரப்பள்ளம் சாமுண்டி`:
+சாரப்பள்ளம் சாமுண்டி spans scans **24–48 / 25 scans**.
 
-- physical scans **24–48** — **25 scans**;
-- scan 24 visibly opens title `சாரப்பள்ளம் சாமுண்டி`;
-- scan 24 printed number is not visibly recorded;
-- scan 25 visibly prints **21**;
-- scan 48 visibly prints **45**;
-- canonical records **0/25**;
-- T1/T2/T3 **NOT STARTED**.
+- canonical records **5/25 — scans 24–28**;
+- verified **0/25**;
+- T1 scans 24–28 **PASS / COMPLETE**;
+- T2 scans 24–28 **NEXT**;
+- T3 scans 24–28 **BLOCKED**;
+- scans 29–48 **NOT STARTED**.
+
+Printed/layout observations:
+
+- scan 24 printed number null;
+- scan 25 = 21;
+- scan 26 = 22;
+- scan 27 = 23;
+- scan 28 = null, landscape two-page illustration spread;
+- do not infer printed 24/25 for scan 28.
 
 ## Mandatory startup
 
-Read completely before source-dependent work:
+Read:
 
-1. `NOVEL_PROCESSING_GUIDE.md`;
-2. `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`;
-3. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
-4. root `HANDOVER.md`;
-5. this `NEXT_NOVEL_CHAT_PROMPT.md`;
-6. `collections/arumbu-1978/README.md`;
-7. `collections/arumbu-1978/indexes/work-map.md`;
-8. `works/sarapallam-samundi/README.md`;
-9. `works/sarapallam-samundi/metadata/source.md`;
-10. `works/sarapallam-samundi/indexes/page-map.md`.
+1. NOVEL_PROCESSING_GUIDE.md;
+2. SOURCE_BATCH_CHECKPOINT_WORKFLOW.md;
+3. HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md;
+4. HANDOVER.md;
+5. this NEXT_NOVEL_CHAT_PROMPT.md;
+6. collections/arumbu-1978/README.md;
+7. collections/arumbu-1978/indexes/work-map.md;
+8. works/sarapallam-samundi/README.md;
+9. works/sarapallam-samundi/metadata/source.md;
+10. works/sarapallam-samundi/indexes/page-map.md;
+11. works/sarapallam-samundi/audit.md;
+12. works/sarapallam-samundi/T1_BATCH_024_028.md;
+13. canonical page records for scans 24–28.
 
-Use the controlling source pixels directly. If continuing in a fresh chat, attach the same controlling PDF before visual transcription.
+## Exact next activity — T2 only
 
-## Exact next activity — T1 only
+Independently re-read physical scans **24–28** against direct source pixels.
 
-Process **physical scans 24–28 as one five-scan T1 batch**:
-
-- visually read each whole source page once;
-- create one canonical `pages/` record per physical scan;
-- preserve only visibly printed `printed_page` values;
-- preserve title treatments, illustrations and non-body marks separately;
-- transcribe complete printed Tamil directly from source;
-- preserve source spelling, punctuation, dialogue, paragraph structure and page-boundary fragments;
-- do not use OCR or contextual expectation as authority;
-- do **not** perform independent historical-glyph T2 in this checkpoint;
-- leave records `needs-review` pending T2/T3;
-- create a T1 batch record if consistent with current work convention;
-- synchronize work/page-map/audit/root handover/next prompt/root README;
+- check each complete scan, not only already suspicious words;
+- explicitly cover ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ;
+- source-sensitive first-pass forms include மாற்றரைச், அமரபுசங்கனை, மீனிசா, மாளவி, நுளம்பபாடி, கீர்த்திப்பராகிரமச், சத்தியாச்ரயன், முந்நீர்ப் பழந்தீவு பன்னீராயிரமும் and அவனிக்கு;
+- correct character identity only when source pixels positively support it;
+- do not modernize spelling/grammar/vocabulary;
+- keep scan 28 printed_page null unless a number is directly visible;
+- update page notes plus T2 batch/audit/control files;
 - commit and stop.
 
-Do not begin T2, scans 29+, or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.
+Do not perform T3 or begin scan 29 in the same checkpoint.
