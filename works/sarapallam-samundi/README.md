@@ -12,16 +12,16 @@
 - verified records: **5 / 25 — scans 24–28**;
 - scans 24–28 T1/T2/T3: **PASS / VERIFIED**;
 - scans 29–33 T1: **PASS / COMPLETE**;
-- scans 29–33 T2: **NEXT**;
-- scans 29–33 T3: **BLOCKED by T2**;
+- scans 29–33 T2: **PASS / COMPLETE — 9 corrections / 0 unresolved historical glyphs**;
+- scans 29–33 T3: **NEXT**;
 - scans 34–48: **NOT STARTED**.
 
-Collection provenance: ../../collections/arumbu-1978/.
+## T2 corrections — scans 29–33
 
-## Pagination / continuity
+T2 corrected nine historical-glyph readings from direct source pixels: scan30 `ஆண்டவன்தானா`; scan31 `சிற்பங்களை`, `யோசனைகளை`, `ஊர்களை`; scan32 `அவளைச்`, `நன்றாகப்`, `நன்றாக`; scan33 both `தன்னாலான` occurrences.
 
-Scan 28 is an unnumbered landscape spread. Scans **29–33 visibly print 26–30**. The 28→29 continuation is now formally represented. Cross-scan continuations 29→30 and 30→31 are recorded in `T1_BATCH_029_033.md`.
+All five records remain `needs-review` until T3.
 
 ## Exact next activity
 
-Execute **T2 independent historical-glyph / character-identity re-read for scans 29–33 only**. Re-read all five complete scans from source pixels, synchronize controls, commit, and stop before T3 or scan 34.
+Execute **T3 final source-fidelity closure for scans 29–33 only**, synchronize controls, commit, and stop before scan 34.
