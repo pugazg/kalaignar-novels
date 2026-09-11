@@ -15,11 +15,11 @@
 |---|---|---|
 | 1–5 | front matter | REGISTERED |
 | 6–23 | அரும்பு | **RELEASE-READY / CLOSED** |
-| 24–48 | சாரப்பள்ளம் சாமுண்டி | **ACTIVE — scans 24–38 VERIFIED; scans 39–43 T1+T2 PASS / T3 NEXT** |
+| 24–48 | சாரப்பள்ளம் சாமுண்டி | **ACTIVE — scans 24–43 VERIFIED; T1 scans 44–48 NEXT** |
 | 49–74 | பெரிய இடத்துப் பெண் | ADDITIONAL SOURCE WITNESS REGISTERED |
 | 75–90 | நடுத்தெரு நாராயணி | QUEUED |
 | 91–92 | publisher catalogue / back cover | REGISTERED |
 
-சாரப்பள்ளம் சாமுண்டி has **20/25 canonical records**, of which **15/25 are VERIFIED**. T2 for scans 39–43 passed with **2 corrections / 0 unresolved historical glyphs**. The five records remain `needs-review` pending T3.
+சாரப்பள்ளம் சாமுண்டி now has **20/25 canonical records and 20/25 VERIFIED**. The scans 39–43 T3 pass closed with **8 source-fidelity corrections / 0 unresolved**.
 
-Next: **T3 scans 39–43 only**.
+Next: **T1 scans 44–48 only**.

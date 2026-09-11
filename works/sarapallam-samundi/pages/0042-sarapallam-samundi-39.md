@@ -4,10 +4,10 @@ printed_page: 39
 work: "sarapallam-samundi"
 section: "சாரப்பள்ளம் சாமுண்டி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; final source-fidelity T3 complete"
 ---
 
 “கேட்க வேண்டுமா என்ன? அவளால் கலை பிழைக்கப் போகிறது! அவளால் கலை வாழப் போகிறது! அவளால் கலை வளமுறப் போகிறது!” என்று பேரானந்தத்தில் பிதற்றத் தொடங்கினான் அந்த வாலிபச் சிற்பி.
@@ -36,3 +36,13 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - no T1 character-identity correction was required;
 - unresolved historical glyphs: **0**;
 - page remains `needs-review` pending T3.
+
+## T3 final source-fidelity notes
+
+- complete scan independently compared against direct source pixels;
+- no additional ordinary transcription or historical-glyph correction was required;
+- source-period `சிற்பங்களை யல்லவா` and the unusual `ஏதோ ஓர் ஏக்கத்தை ஏற்பட்டது` were reconfirmed rather than normalized;
+- scan 42→43 physical continuation `சிறகு` / `முளைத்துக் கிளம்பிவிட்டதா?` was reconfirmed;
+- printed page **39** and paragraph sequence were checked;
+- unresolved source readings: **0**;
+- page status: **VERIFIED**.

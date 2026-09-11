@@ -4,10 +4,10 @@ printed_page: 36
 work: "sarapallam-samundi"
 section: "சாரப்பள்ளம் சாமுண்டி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; final source-fidelity T3 complete"
 ---
 
 போகிறது. அதை நினைத்து ஏங்கிக்கொண்டிருந்த இனியனின் காதில் “தம்பீ!” என்று யாரோ அழைக்கும் ஒலி கேட்டது. திடுக்கிட்டுத் திரும்பிப் பார்த்தான். கிழவி அழகி அவனருகே வந்தாள். அவளைப் பார்த்த இனியனின் கண்கள் அவளுக்குப் பின்னால் நின்ற அழகிய பெண்மீது பாய்ந்தன.
@@ -44,7 +44,7 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 கிழவி, இனியனிடம் தான் வந்த காரியத்தை எடுத்துரைக்க விரும்பினாள்.
 
-“தம்பீ! இந்த இராசராசேச்சரத்தை வெற்றிகரமாகக் கட்டி முடிக்க என்னால் இயன்ற உதவிகளை யெல்லாம் செய்வ தென்று முடிவுகட்டிக் கொண்டிருக்கிறேன். அது ஒன்றுதான் என் வாழ்க்கையின் கடைசி இலட்சியமாகும். அரசர் பெருமான் விரும்பியவாறு நடனச் சிற்பங்கள் இன்னும் செதுக்கப்படாததால் ஆலயத் திருப்பணி முடிவடைந்தும் அவருக்கு மன நிறைவு ஏற்பட வில்லையென்று கேள்விப்பட்டேன். நீ செதுக்க வேண்டிய சிற்பங்களுக்குத் தேவையான நாட்டியமாடப் பெண்கள் கிடைக்காமல் வேலை தயங்கிக் கிடக்கிறதாமே? அதற்காகத்தான் என்மகள் சாமுண்டியை அழைத்து வந்திருக்கிறேன். இவள் நாட்டியக் கலையை முறையாகப் பயின்றவள். உன் சிற்பங்களுக்கு ஏற்றவாறு ஆடிக் காட்டுவாள். இவள் உதவியை நீ பெற்று அரசர்
+“தம்பீ! இந்த இராசராசேச்சரத்தை வெற்றிகரமாகக் கட்டி முடிக்க என்னால் இயன்ற உதவிகளை யெல்லாம் செய்வ தென்று முடிவுகட்டிக் கொண்டிருக்கிறேன். அது ஒன்றுதான் என் வாழ்க்கையின் கடைசி இலட்சியமாகும். அரசர் பெருமான் விரும்பியவாறு நடனச் சிற்பங்கள் இன்னும் செதுக்கப்படாததால் ஆலயத் திருப்பணி முடிவடைந்தும் அவருக்கு மன நிறைவு ஏற்பட்ட வில்லையென்று கேள்விப்பட்டேன். நீ செதுக்க வேண்டிய சிற்பங்களுக்குத் தேவையான நாட்டியமாடப் பெண்கள் கிடைக்காமல் வேலை தயங்கிக் கிடக்கிறதாமே? அதற்காகத்தான் என்மகள் சாமுண்டியை அழைத்து வந்திருக்கிறேன். இவள் நாட்டியக் கலையை முறையாகப் பயின்றவள். உன் சிற்பங்களுக்கு ஏற்றவாறு ஆடிக் காட்டுவாள். இவள் உதவியை நீ பெற்று அரசர்
 
 ## T1 direct-transcription notes
 
@@ -63,3 +63,13 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - no T1 character-identity correction was required;
 - unresolved historical glyphs: **0**;
 - page remains `needs-review` pending T3.
+
+## T3 final source-fidelity notes
+
+- complete scan independently compared against direct source pixels;
+- corrected `மன நிறைவு ஏற்பட வில்லையென்று` → **`மன நிறைவு ஏற்பட்ட வில்லையென்று`**;
+- descriptive-list layout and scan 38→39 / 39→40 physical continuity were reconfirmed;
+- no additional historical-glyph correction was required on this page;
+- printed page **36** and paragraph/dialogue sequence were checked;
+- unresolved source readings: **0**;
+- page status: **VERIFIED**.

@@ -7,27 +7,27 @@
 | Source intake | **COMPLETE** |
 | Component boundary | **PASS — scans 24–48** |
 | Canonical records | **20 / 25 — scans 24–43** |
-| Verified records | **15 / 25 — scans 24–38** |
+| Verified records | **20 / 25 — scans 24–43** |
 | T1/T2/T3 scans 24–38 | **PASS / VERIFIED** |
-| T1 scans 39–43 | **PASS / COMPLETE** |
-| T2 scans 39–43 | **PASS / COMPLETE — 2 corrections / 0 unresolved** |
-| T3 scans 39–43 | **NEXT** |
+| T1/T2/T3 scans 39–43 | **PASS / VERIFIED** |
+| T3 scans 39–43 | **PASS / COMPLETE — 8 corrections / 0 unresolved** |
+| Historical-glyph final scans 39–43 | **3 corrections / 0 unresolved** |
 | Scans 44–48 | **NOT STARTED** |
 | Downstream whole-work gates | **BLOCKED** |
 
 No source PDF is committed.
 
-## T2 historical-glyph corrections — scans 39–43
+## Fourth-batch T3 findings
 
-- scan41 `இளஞனும்` → **`இளைஞனும்`** — historical `ளை`;
-- scan43 `பித்தனுக` → **`பித்தனாக`** — historical `னா`.
+The final source pass corrected **8 source-fidelity items** across scans 39–43:
 
-T2 corrections: **2**. Unresolved historical glyphs: **0**.
+- scan39: `ஏற்பட்ட வில்லையென்று`;
+- scan40: `குளிர் மொழிகள்`, `ஆடு வளர்க்கும் கலை மட்டுமே`;
+- scan41: `ஆனந்தத் தாண்டவம் என்றான்`, `தலைமைப் பீடத்தை`;
+- scan43: `கலைக் கண்`, `உருகிக்கொண்டிருக்கிறான்`, `வழக்கத்திற்கு மாறாக`.
 
-Explicitly rechecked and retained from the source: scan40 `ஆடு வளர்க்கும் கிழ மட்டுமே பயின்ற அழகியின் திருமகள்`; scan41 `நீர்த்திவலை`; scan43 `தீண்டாக்குவானேன்`.
-
-All scans 39–43 remain `needs-review` pending T3.
+T3 caught one additional historical-`லை` identity on scan40, raising final historical-glyph corrections for scans 39–43 from **2 to 3**. Unresolved historical glyphs: **0**. Unresolved source readings: **0**.
 
 ## Exact next activity
 
-Run T3 for scans **39–43 only**; do not begin scan 44 in the same checkpoint.
+Run **T1 scans 44–48 only**; do not begin T2 in the same checkpoint.

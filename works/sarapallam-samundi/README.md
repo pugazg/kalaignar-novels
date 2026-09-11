@@ -9,22 +9,19 @@
 
 - component span: **25 scans**;
 - canonical page records: **20 / 25 — scans 24–43**;
-- verified records: **15 / 25 — scans 24–38**;
+- verified records: **20 / 25 — scans 24–43**;
 - scans 24–38: **T1+T2+T3 PASS / VERIFIED**;
-- scans 39–43 T1: **PASS / COMPLETE**;
-- scans 39–43 T2: **PASS / COMPLETE — 2 corrections / 0 unresolved historical glyphs**;
-- scans 39–43 T3: **NEXT**;
+- scans 39–43: **T1+T2+T3 PASS / VERIFIED**;
+- scans 39–43 T3: **8 source-fidelity corrections / 0 unresolved**;
+- final historical-glyph corrections scans 39–43: **3 / 0 unresolved**;
 - scans 44–48: **NOT STARTED**.
 
-## Fourth-batch T2
+## Fourth-batch closure
 
-Direct source-pixel re-read corrected two historical character identities:
+T3 corrected eight source-fidelity issues. Important corrections include scan40 `குளிர் மொழிகள்` and `ஆடு வளர்க்கும் கலை மட்டுமே`, scan41 `ஆனந்தத் தாண்டவம் என்றான்` / `தலைமைப் பீடத்தை`, and scan43 `கலைக் கண்`, `உருகிக்கொண்டிருக்கிறான்`, `வழக்கத்திற்கு மாறாக`.
 
-- scan 41 `இளஞனும்` → **`இளைஞனும்`**;
-- scan 43 `பித்தனுக` → **`பித்தனாக`**.
-
-The source-sensitive forms `கிழ மட்டுமே`, `நீர்த்திவலை`, and `தீண்டாக்குவானேன்` were independently rechecked and retained as printed. All five records remain `needs-review` pending T3.
+T3 also caught one historical `லை` identity missed by T2. All scans **39–43 / printed pages 36–40** are now VERIFIED.
 
 ## Exact next activity
 
-Execute **T3 final source-fidelity closure for scans 39–43 only**, synchronize controls, commit, and stop before scan 44.
+Execute **T1 direct transcription for scans 44–48 only**. Create the final five canonical records from direct source pixels, synchronize controls, commit, and stop before T2.
