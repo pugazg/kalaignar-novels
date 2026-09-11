@@ -15,9 +15,10 @@
 | English Batch 2 — scans 29–33 | **REVIEWED / COMPLETE** |
 | English Batch 3 — scans 34–38 | **REVIEWED / COMPLETE** |
 | English Batch 4 — scans 39–43 | **REVIEWED / COMPLETE** |
-| English Batch 5 — scans 44–48 | **NEXT** |
-| English coverage | **20 / 25 scans** |
-| Whole-work English | **IN PROGRESS / NOT VERIFIED** |
+| English Batch 5 — scans 44–48 | **REVIEWED / COMPLETE** |
+| English coverage | **25 / 25 scans** |
+| Section 16 whole-work bilingual review | **NEXT** |
+| Whole-work English | **NOT VERIFIED** |
 
 No source PDF is committed.
 
@@ -70,6 +71,10 @@ Scans **34–38** passed draft translation and canonical-Tamil source check. Azh
 
 Scans **39–43** passed draft translation and canonical-Tamil source check. Samundi's introduction/dance test, protected source oddities, 39→40 and 42→43 continuities, fifty-day sculpture sequence, injury and Iniyan's emotional shift all pass. Material omissions / source-like additions / unresolved items: **0 / 0 / 0**. Canonical Tamil changes: **0**.
 
+## English Batch 5 review
+
+Scans **44–48** passed draft translation and canonical-Tamil source check. The 43→44, 44→45, 46→47 and 47→48 continuities, protected source oddities, Panchavan Madevi revelation, narrative ending and distinct source note all pass. Material omissions / source-like additions / unresolved items: **0 / 0 / 0**. Canonical Tamil changes: **0**.
+
 ## Exact next activity
 
-English Batch 5 — scans **44–48 only**. Whole-work English remains unverified pending final batch and Section 16 review.
+Section 16 whole-work bilingual review. English has **25/25 reviewed scan coverage** but remains **NOT VERIFIED** until that gate passes.

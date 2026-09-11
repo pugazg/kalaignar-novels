@@ -1,6 +1,6 @@
 # English Translation Glossary — சாரப்பள்ளம் சாமுண்டி
 
-Status: **IN PROGRESS — BATCHES 1–4 DECISIONS SOURCE-CHECKED / LOCKED FOR CONTINUITY**.
+Status: **BATCHES 1–5 SOURCE-CHECKED / LOCKED — WHOLE-WORK REVIEW PENDING**.
 
 This file records source-bound translation decisions. Canonical Tamil remains authoritative. A locked English decision may be changed only through an explicit documented correction; it never silently alters Tamil.
 
@@ -175,3 +175,33 @@ Batch 3 source-check: **PASS / REVIEWED**.
 - scan 43 ends with `அன்றையதினம்`; English deliberately remains incomplete and does not import scan-44 prose.
 
 Batch 4 source-check: **PASS / REVIEWED**.
+
+
+## Batch 5 terminology and protected-source decisions
+
+| Tamil | English handling | State |
+|---|---|---|
+| `யக்ஞோபவீதம்` | **yajnopavita** | **LOCKED**; retain source ritual term rather than adding an explanatory gloss inside prose |
+| `செளந்தர்ய தாண்டவம்` | **Saundarya Tandava** | **LOCKED** |
+| `காந்தள் விரல்` | **kanthal-like finger** | **LOCKED** source simile |
+| scan 46 `எண்பத்தொரு சிலைகளும்` | **all eighty-one sculptures** | **LOCKED** |
+| scan 46 `மானழியது` | **The deer vanished!** | **LOCKED cautious contextual rendering** — unusual source form remains documented |
+| scan 46 `கைநெருப்பு` | **the fire in the Lord's hand** | **LOCKED contextual rendering** |
+| `அத்தான்` | **Aththan** | **LOCKED** relational form retained in direct address |
+| scan 47 `ஒரு சிலருன்` | **a mistake made by someone** | **LOCKED cautious contextual rendering** — exact source oddity remains protected |
+| scan 47 `நிறைவேற்று வதற்கு` | **in order to fulfil** | **LOCKED contextual rendering** — source spacing/form unchanged in Tamil |
+| `குறிப்பு :` | **Note:** | **LOCKED** — source-printed historical note, distinct from fictional narrative |
+
+## Batch 5 boundary and structural decisions
+
+- scan 43→44 completes the sentence about Iniyan savoring Samundi's torch-lit beauty while finishing the day's work;
+- scan 44→45 continues Samundi's smile into Iniyan's emotional response;
+- scan 45→46 is a complete source boundary before the Saundarya Tandava begins;
+- scan 46→47 continues `விம்மி அழத்` → `தொடங்கினாள்`, rendered as one sobbing action;
+- scan 47→48 continues `திரும்பினார்-` → `அனைவரும் இனியன் பக்கம் திரும்பினர்`, preserving the dash and collective turn;
+- scan 48 narrative ending is kept distinct from the subsequent source-printed `குறிப்பு :`;
+- the `குறிப்பு :` is translated as a source note, not folded into the fictional scene and not presented as a repository/editorial footnote.
+
+Batch 5 source-check: **PASS / REVIEWED**.
+
+All five controlled English batches are now **REVIEWED / COMPLETE**. Whole-work English remains **NOT VERIFIED** pending Section 16 bilingual review.

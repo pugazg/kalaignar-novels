@@ -5,9 +5,9 @@ section_order: 1
 section_title: "Sarapallam Samundi"
 language: "en"
 planned_source_scans: "24-48"
-translated_source_scans: "24-43"
-status: "in-progress"
-batch_status: "Batches 1-4 scans 24-43 REVIEWED; Batch 5 not started"
+translated_source_scans: "24-48"
+status: "reviewed"
+batch_status: "Batches 1-5 scans 24-48 REVIEWED; whole-work bilingual review pending"
 derived_from: "audited Tamil pages/ records; assembled Tamil used for continuity"
 ---
 
@@ -321,4 +321,99 @@ One day after fifty days had passed, while Iniyan was carving the stone with gre
 
 Could it perhaps be merely a disturbance caused by not seeing her? Even if that were so, why should some feeling have touched him at the very root of that disturbance? He was certainly not prepared to coat that feeling with the polish of art and hide it away.
 
-After letting him wander like a madman for a day or two in this way, Samundi came as usual to his sculpture hall. As usual he called, “Come.” But his voice trembled. She noticed it. He did not. “How is the wound on your finger?” she asked. “I didn't put on any medicine; after the end of your sari touched it, could the wound possibly fail to heal?” he blurted out rapidly. It took him a little while to calm that agitation. She looked at him with the expression of someone threatening him. Iniyan recovered himself and, saying, “Hmm! This is exactly the bhava needed for today's sculpture!” took up the chisel and began carving the stone. Contrary to usual, the sculptural work was still unfinished after evening had fallen. Saying that only a little remained and that he could finish it, he concentrated on his work by the light of torches. Only he knew why the work was not moving quickly that day! Wasn't one of Iniyan's eyes on the sculpture and the other on Samundi that day! In the torchlight Samundi's golden body seemed to gleam even more brightly; that day, he
+After letting him wander like a madman for a day or two in this way, Samundi came as usual to his sculpture hall. As usual he called, “Come.” But his voice trembled. She noticed it. He did not. “How is the wound on your finger?” she asked. “I didn't put on any medicine; after the end of your sari touched it, could the wound possibly fail to heal?” he blurted out rapidly. It took him a little while to calm that agitation. She looked at him with the expression of someone threatening him. Iniyan recovered himself and, saying, “Hmm! This is exactly the bhava needed for today's sculpture!” took up the chisel and began carving the stone. Contrary to usual, the sculptural work was still unfinished after evening had fallen. Saying that only a little remained and that he could finish it, he concentrated on his work by the light of torches. Only he knew why the work was not moving quickly that day! Wasn't one of Iniyan's eyes on the sculpture and the other on Samundi that day! In the torchlight Samundi's golden body seemed to gleam even more brightly; that day, he<!-- source: scan 44; printed page: 41 --> kept savoring the sight and somehow finished that day's work.
+
+“The sculpture is very beautiful!” Samundi praised it and left. But somehow he himself was not quite so satisfied.
+
+A few days passed in this way. Signs kept appearing on Samundi's face that confusion about Iniyan had arisen in her heart as well.
+
+That day he was explaining to Samundi the abhinaya for the eighty-first sculpture.
+
+“Show the bhava postures for the tandava in which the Lord dances with four arms, with the deer and axe, and with the yajnopavita!” he said. She then performed that bhava for him, dividing it part by part and demonstrating even the movements of the limbs separately.
+
+“Wouldn't it look even more beautiful if this hand were raised a little higher?” he asked, touching Samundi's arm as though to lift it.
+
+She moved sharply away from him. Iniyan, who had expected her cheek to redden, shyness to well up, and her head to bend, was disappointed.
+
+She simply resumed her artistic work as though no such incident had occurred. Embarrassment showed on Iniyan's face.
+
+Did she not like him? “Doesn't the whole town speak of me as Iniyan, the handsome one! Don't those who see my build and strong shoulders praise me, saying that I ought to have been born into a royal line! Am I, of all people, the one Samundi alone does not like?” Questions such as these were turning his heart into a sieve. Along with them, that day's work too proceeded without hindrance. In fear and agitation he worked with great intensity, completed the sculpture by evening, and told her, “Tomorrow, the eighty-second sculpture.”
+
+Samundi praised that day's sculpture at length. “You have created, through the strength of your chisel, the bhavas I danced for you!” she said with a smile<!-- source: scan 45; printed page: 42 --> overflowing across her face. His heart became like a cool lotus pond. She took leave and departed. His eyes, watching the beauty of her retreating figure, forgot to blink. He looked at the eighty-one sculptures he had carved. The sculptures suddenly disappeared. Eighty-one Samundis were dancing there. He lay absorbed in that dance. Those statues created with thoughts of art, taking Samundi's form in his heart, had kindled the fire of love and were dancing their tandava. He could no longer bear the blaze of that great fire. He counselled himself. However many times a cat that comes to knock over the milk pot is chased away, it runs off, returns in hiding, and circles the milk pot again. So it was with the mighty force of love that had bubbled up within his heart!
+
+The next day he too was ready to carve the eighty-second sculpture. She arrived as well. He welcomed her only with his gaze.
+
+His tongue would not rise to say, “Come.”
+
+“Today is the eighty-second, isn't it?” she said.
+
+“Yes!” he said.
+
+“There are still twenty-seven left!” she said.
+
+“Why? Is it difficult for you? Has even art become wearisome?”
+
+“No! No! I was only counting how many are still left. That's all!”
+
+“I was thinking, couldn't there be another hundred sculptures left? Should I not have the good fortune of beholding Samundi's artistic beauty for that many more days?”
+
+“I was thinking, why did the king of kings order one hundred and eight sculptures to be carved? Couldn't he have said only eighty-two?”
+
+“Are you teasing me, Samundi?”
+
+“No! No!... Hmm, let us attend to the work. Why waste words?”
+
+Samundi stood ready to show the bhavas for the dance posture. Iniyan too picked up the chisel and went near the stone. He felt as though he did not even have the strength to hold the chisel! Dizziness!
+
+“Saundarya Tandava!” he said in a trembling voice.
+
+<!-- source: scan 46; printed page: 43 -->
+
+His tongue stuck. She began to dance.
+
+She herself was a mine of beauty! What would happen if she were asked to dance the Saundarya Tandava within it? His head spun. A thought as though Rajarajeswaram itself were revolving upside down! Beyond his control, the chisel in his hand continued its artistic labour. She was not dancing on the earth. She danced in his tender heart; she danced in the pupils of his eyes; she danced in his nerves and veins; she danced in every drop of his blood. She danced; she danced; she kept on dancing! He imagined her silken feet dancing upon his head. He felt as though her ruby hands were embracing his chest. He imagined her eyes swallowing his eyes. Her lips, his lips..... Ayyo! Before that thought could go further, a chip of black stone flew into his eye and lodged there. He threw down the chisel and cried out, “Amma!”
+
+She panicked. She caught and supported him so that he would not fall. With her beautiful hands she lifted his face and, with a kanthal-like finger, very deftly removed the chip of black stone from his eye. That was all! A sudden flash of lightning! He seized her with all his strength and embraced her! Great thunder followed the lightning! A mighty storm! A reflection of the Pralaya Tandava! Samundi seized him and shoved him violently to the ground. He cried out and struck the floor. For a little while he did not rise. His eyes spun; the sculpture hall itself spun; all eighty-one sculptures he had carved spun and danced!
+
+The deer vanished! Then it bolted in fright! The deer turned into a tiger and sprang about! The snakes carved as though worn around the Lord's neck rose in thousands upon thousands with hoods spread and danced! The fire in the Lord's hand danced all around him! Iniyan tried to steady his spinning eyes and rise. He could not! At that moment Samundi heard a voice call, “Devi!” and turned. She was startled. Rajendra was hurrying toward her; behind him came Rajaraja Chola and Kundavai. Samundi ran to Rajendra, embraced him crying, “Aththan!” and, with tears streaming, began to sob<!-- source: scan 47; printed page: 44 -->.
+
+“Aththan! Enough of the service to sculpture that I have done!!” she cried.
+
+Holding her tightly and speaking words of comfort, Rajendra said:
+
+“Panchavan Madevi! Do not condemn service to art! Should we hate art itself because of a mistake made by someone? Poor Iniyan; this was a mistake he made without understanding! We can forgive him!”
+
+This conversation jolted Iniyan awake.
+
+Who was she?
+
+Panchavan Madevi?
+
+Was she not Samundi?
+
+Was she not the daughter of Azhagi of Sarapallam?
+
+Panchavan Madevi!
+
+Panchavan Madevi!!
+
+Rajendra's wife!
+
+Rajaraja's daughter-in-law!!
+
+Ayyo! What a wrong we have committed!!
+
+Iniyan no longer even understood where he was standing! He was dying!! He himself did not know it!
+
+Rajaraja came to his weeping daughter-in-law and said, “Panchavan Madevi! I shall never forget the sacrifice you made for my sake by accepting the command your husband Rajendra gave you in order to fulfil my desire for the sculptures. I do not know how to praise old Azhagi, who stood by you and helped you. Not only did she send you to the sculpture hall; she also kept watch over you and protected you with the greatest care. Only after the message she gave yesterday did we become suspicious of the sculptor and come here today. Forgive us for the trouble we caused you!” Tears welled as he spoke.
+
+“Emperor! Do not speak like that!” Panchavan Madevi said, falling at the king's feet in worship.
+
+“Who is to forgive whom?” she asked the king in a sobbing voice.
+
+“We shall all together forgive the sculptor Iniyan,” the king said, turning toward the place where he had been standing—<!-- source: scan 48; printed page: 45 -->everyone turned toward Iniyan. He was not there.
+
+He ran! He ran! He had run away to a distance from which no one could catch him and forgive him!
+
+**Note:** “Rajaraja arranged for the Lord's 108 tandava postures to be carved as sculptures along the inner base row of the upper level of the Great Temple. The work too was begun and carried on. But, for some reason, 81 sculptures were completed, while the 82nd was begun and left unfinished.” This story was written on the basis of that historical note.
+

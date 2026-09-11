@@ -47,8 +47,10 @@ Unresolved historical glyphs / source readings: **0 / 0**.
 - scan 48 closes the narrative and then preserves a separately printed historical note.
 
 English translation plan: **PASS / COMPLETE**.  
-English coverage: **20 / 25 scans** — scans **24–43 REVIEWED / COMPLETE**.
+English coverage: **25 / 25 scans** — scans **24–48 REVIEWED / COMPLETE**.  
+Section 16 whole-work bilingual review: **NEXT**.  
+Whole-work English: **NOT VERIFIED**.
 
 ## Exact next activity
 
-English Batch 5 — scans **44–48 only**.
+Section 16 whole-work bilingual review.

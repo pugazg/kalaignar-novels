@@ -14,9 +14,9 @@
 - whole-work audit unresolved historical glyphs / source readings: **0 / 0**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - English translation plan: **PASS / COMPLETE**;
-- English coverage: **20 / 25 scans**;
-- English Batches 1–4 — scans **24–43: REVIEWED / COMPLETE**;
-- English Batch 5 — scans **44–48: NEXT**;
+- English coverage: **25 / 25 scans**;
+- English Batches 1–5 — scans **24–48: REVIEWED / COMPLETE**;
+- Section 16 whole-work bilingual review: **NEXT**;
 - whole-work English: **IN PROGRESS / NOT VERIFIED**.
 
 ## Whole-work audit closure
@@ -53,6 +53,10 @@ Scans **34–38** are **REVIEWED / COMPLETE**. Azhagi's royal audience and Sarap
 
 Scans **39–43** are **REVIEWED / COMPLETE**. The open 38→39 sentence is completed; Samundi's arrival/dance test, fifty-day sculpture sequence and Iniyan's emotional turn are source-checked; protected source oddities and the 42→43 join are documented. Scan 43 remains open at `அன்றையதினம்`; no scan 44 prose was imported. Batch 4 source-check: **0 omissions / 0 source-like additions / 0 unresolved items**.
 
+## English Batch 5 closure
+
+Scans **44–48** are **REVIEWED / COMPLETE**. The 43→44, 44→45, 46→47 and 47→48 continuities are source-checked; the Panchavan Madevi revelation and final narrative are complete; scan 48 keeps the narrative ending distinct from the source-printed `குறிப்பு :`. Batch 5 source-check: **0 omissions / 0 source-like additions / 0 unresolved items**. English coverage is now **25/25 scans**, but whole-work English is **NOT VERIFIED** until Section 16 passes.
+
 ## Exact next activity
 
-**English Batch 5 — scans 44–48 only.** Complete the open 43→44 sentence using authorized scan-44 prose, translate/source-check the final five scans including the distinct scan-48 source note, update controls, commit, and stop before Section 16 whole-work bilingual review.
+**Section 16 whole-work bilingual review only.** Create `translations/en/TRANSLATION_REVIEW.md`, audit the complete English against the canonical Tamil/assembled layer, and only if every Section 16 gate passes mark whole-work English `verified`.
