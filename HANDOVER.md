@@ -11,23 +11,24 @@
 
 ## Controlling source
 
-TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc, **92 scans**, image-only, தமிழ்க்கனி பதிப்பகம், முதற் பதிப்பு 1978. **DO NOT COMMIT source PDF.**
+`TVA_BOK_0064361_அரும்பு.pdf` — SHA-256 `04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc`, **92 scans**, image-only, தமிழ்க்கனி பதிப்பகம், முதற் பதிப்பு 1978. **DO NOT COMMIT source PDF.**
 
 ## Active durable state
 
-சாரப்பள்ளம் சாமுண்டி spans **scans 24–48 / 25 scans**.
+`சாரப்பள்ளம் சாமுண்டி` spans **scans 24–48 / 25 scans**.
 
-- canonical records: **5/25**;
-- verified records: **5/25 — scans 24–28**;
-- T1 scans 24–28: **PASS**;
-- T2 scans 24–28: **PASS — 0 corrections / 0 unresolved glyphs**;
-- T3 scans 24–28: **PASS — 3 corrections / 0 unresolved source readings**;
-- scans 29–48: **NOT STARTED**.
+- canonical records: **10 / 25 — scans 24–33**;
+- verified: **5 / 25 — scans 24–28**;
+- scans 24–28: **T1+T2+T3 PASS / VERIFIED**;
+- scans 29–33: **T1 PASS / COMPLETE**;
+- scans 29–33 T2: **NEXT**;
+- scans 29–33 T3: **BLOCKED by T2**;
+- scans 34–48: **NOT STARTED**.
 
-T3 corrections: scan25 `அரணை`; scan26 later `கீழைச் சாளுக்கிய`; scan27 `செய்யப்பட்டு விட்டனவா?`. Scan28 remains unnumbered landscape spread. Boundary-only look at scan29 confirms 28→29 continuation; no scan29 record exists yet.
+Second-batch printed pages are directly visible as scan29=26, scan30=27, scan31=28, scan32=29, scan33=30. New records remain `needs-review` pending T2/T3.
 
 ## Exact next activity
 
-Execute **T1 direct transcription for scans 29–33 only** under SOURCE_BATCH_CHECKPOINT_WORKFLOW.md. Create five canonical records from direct source pixels, synchronize controls, commit, and stop before T2.
+Execute **T2 independent historical-glyph / character-identity re-read for scans 29–33 only**. Check each complete scan and all sensitive glyph families, make only source-pixel-supported character corrections, synchronize controls, commit, and stop before T3.
 
-Do not start scans 34+ or the 1978 பெரிய இடத்துப் பெண் witness comparison.
+Do not begin scan 34 or the 1978 `பெரிய இடத்துப் பெண்` witness comparison in the same checkpoint.

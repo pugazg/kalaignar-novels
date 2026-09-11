@@ -5,20 +5,21 @@
 ## Active source — அரும்பு 1978 compilation
 
 - அரும்பு — scans 6–23 — **RELEASE-READY / CLOSED**;
-- சாரப்பள்ளம் சாமுண்டி — scans 24–48 — **ACTIVE: scans 24–28 VERIFIED / T1 scans 29–33 NEXT**;
+- சாரப்பள்ளம் சாமுண்டி — scans 24–48 — **ACTIVE: scans 24–28 VERIFIED; scans 29–33 T1 PASS / T2 NEXT**;
 - பெரிய இடத்துப் பெண் — scans 49–74 — additional 1978 witness;
 - நடுத்தெரு நாராயணி — scans 75–90 — queued.
 
 ### Current சாரப்பள்ளம் சாமுண்டி state
 
-- canonical / verified records: **5 / 25**;
-- scans 24–28 T1/T2/T3: **PASS / COMPLETE**;
-- T2 corrections / unresolved glyphs: **0 / 0**;
-- T3 source-fidelity corrections / unresolved: **3 / 0**;
-- scan 28 remains an unnumbered landscape two-page spread;
+- canonical records: **10 / 25**;
+- verified records: **5 / 25**;
+- scans 24–28 T1/T2/T3: **PASS / VERIFIED**;
+- scans 29–33 T1: **PASS / COMPLETE**;
+- scans 29–33 T2: **NEXT**;
+- scans 34–48: **NOT STARTED**;
 - source PDF remains excluded.
 
-Exact next action: **T1 scans 29–33 only**.
+Exact next action: **T2 scans 29–33 only**.
 
 ## Completed works
 

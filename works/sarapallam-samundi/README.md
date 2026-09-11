@@ -7,27 +7,21 @@
 
 ## Current state
 
-- source/work identity: **REGISTERED / CONFIRMED**;
 - component span: **25 scans**;
-- canonical page records: **5 / 25 — scans 24–28**;
+- canonical page records: **10 / 25 — scans 24–33**;
 - verified records: **5 / 25 — scans 24–28**;
-- scans 24–28 T1: **PASS / COMPLETE**;
-- scans 24–28 T2: **PASS / COMPLETE — 0 corrections / 0 unresolved historical glyphs**;
-- scans 24–28 T3: **PASS / COMPLETE — 3 source-fidelity corrections / 0 unresolved**;
-- scans 29–48: **NOT STARTED**.
+- scans 24–28 T1/T2/T3: **PASS / VERIFIED**;
+- scans 29–33 T1: **PASS / COMPLETE**;
+- scans 29–33 T2: **NEXT**;
+- scans 29–33 T3: **BLOCKED by T2**;
+- scans 34–48: **NOT STARTED**.
 
 Collection provenance: ../../collections/arumbu-1978/.
 
-## Closed first batch
+## Pagination / continuity
 
-T3 corrected three source-fidelity issues:
-
-1. scan 25 `அரண் உறுதிப்படுத்துவதிலும்` → **`அரணை உறுதிப்படுத்துவதிலும்`**;
-2. scan 26 later occurrence `கீழைச்சாளுக்கிய நாட்டின்` → **`கீழைச் சாளுக்கிய நாட்டின்`**;
-3. scan 27 `பூர்த்தி செய்யப்பட்டுவிட்டனவா?` → **`பூர்த்தி செய்யப்பட்டு விட்டனவா?`**.
-
-Scan 28 remains an unnumbered landscape two-page illustration spread. Boundary-only inspection confirms its final `குந்தவையாரும்` continues into scan 29; scan 29 was not transcribed in this checkpoint.
+Scan 28 is an unnumbered landscape spread. Scans **29–33 visibly print 26–30**. The 28→29 continuation is now formally represented. Cross-scan continuations 29→30 and 30→31 are recorded in `T1_BATCH_029_033.md`.
 
 ## Exact next activity
 
-Execute **T1 direct transcription for scans 29–33 only**. Create five canonical records from direct source pixels, preserve only visibly printed page numbers, synchronize controls, commit, and stop before T2.
+Execute **T2 independent historical-glyph / character-identity re-read for scans 29–33 only**. Re-read all five complete scans from source pixels, synchronize controls, commit, and stop before T3 or scan 34.
