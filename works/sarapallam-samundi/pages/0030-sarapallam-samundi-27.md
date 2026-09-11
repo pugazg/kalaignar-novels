@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; T2/T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
 ---
 
 விழாதவாறு அத்துணை அற்புதமாக அமைக்கச் சொல்ல வேண்டும்” என்று உற்சாகத்துடன் கருத்தறிவித்தான் இராசேந்திரன்.
@@ -16,7 +16,7 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 “ஆண்டவன் ஆடியதாக உள்ள திருத்தாண்டவம் இருக்கிறதே....”
 
-—என்று அவன் முடிப்பதற்குள், “அதென்னப்பா; அதை ஆண்டவன்தானு ஆட முடியும்? எத்தனையோ ஆரணங்குகள் ஆடுகிறார்கள்!”
+—என்று அவன் முடிப்பதற்குள், “அதென்னப்பா; அதை ஆண்டவன்தானா ஆட முடியும்? எத்தனையோ ஆரணங்குகள் ஆடுகிறார்கள்!”
 
 — என்று குறுக்கிட்டான் இராசேந்திரன்.
 
@@ -44,5 +44,12 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 - printed page 27 is directly visible;
 - opening `விழாதவாறு` completes scan 29 final `கோயில் விமானத்தின் நிழல் தரையில்`;
-- final fragment `ஒவ்வொரு சிற்பத்திலும் கலையின் உயிர்ப்பும்` continues to scan 31;
-- T2/T3 pending; page remains needs-review.
+- final fragment continues to scan 31.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read against direct source pixels;
+- explicitly checked the required historical-glyph families;
+- corrected T1 `ஆண்டவன்தானு` → source-supported **`ஆண்டவன்தானா`** (`னா` identity);
+- unresolved historical glyphs: **0**;
+- page remains `needs-review` pending T3.
