@@ -4,10 +4,10 @@ printed_page: 33
 work: "sarapallam-samundi"
 section: "சாரப்பள்ளம் சாமுண்டி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; final source-fidelity T3 complete"
 ---
 
 டவ நிலைகள்தான் இன்னும் செதுக்கிடத் தொடங்கவில்லை. இது இராசராசன் இதயத்தில் பெருங் குறையாகவே இருந்தது. அந்த வேலை பூர்த்தியடையாமல் அவனுக்கு நிம்மதி கிடையாது.
@@ -52,3 +52,13 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - source-sensitive `தொடங்கப் பெறுமைக்கு` was rechecked and retained as printed; no lexical modernization was applied;
 - unresolved historical glyphs: **0**;
 - page remains `needs-review` pending T3.
+
+## T3 final source-fidelity notes
+
+- complete scan independently compared against direct source pixels;
+- no additional ordinary transcription correction was required;
+- source-sensitive `தொடங்கப் பெறுமைக்கு` was reconfirmed exactly as printed;
+- scan 35→36 join `நூற்றெட்டுத் தாண்` / `டவ நிலைகள்தான்` and scan 36→37 ending `தாண்டவ நிலைக்கு ஏற்றவாறு` were reconfirmed;
+- printed page **33** and paragraph/dialogue structure were checked;
+- unresolved source readings: **0**;
+- page status: **VERIFIED**.

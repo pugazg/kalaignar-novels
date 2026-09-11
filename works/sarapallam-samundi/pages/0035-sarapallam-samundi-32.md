@@ -4,10 +4,10 @@ printed_page: 32
 work: "sarapallam-samundi"
 section: "சாரப்பள்ளம் சாமுண்டி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; final source-fidelity T3 complete"
 ---
 
 “ஒரே கல்லா ?”
@@ -26,7 +26,7 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 அழகி கூறிய ஆலோசனையின்படியே நான்கு கல் தொலைவிலுள்ள அவள் வீட்டிலிருந்து சாரம் கட்ட ஆரம்பித்து, அதில் அந்தப் பெரும் கல்லைத் தூக்கிவைத்து விமானத்திற்குக் கொண்டு சென்றார்கள் சிற்பிகள். சாரம் கட்டப்பட்ட அந்த இடத்திற்குச் ‘சாரப்பள்ளம்’ என்ற பெயரும் உடனே வழங்கத் தொடங்கிற்று. கிழவியின் நுண்ணறிவையும், தொண்டு உள்ளத்தையும் கெளரவிக்கும் முறையில் தஞ்சையில் அழகிக்குளம் ஒன்றை அமைக்கச் செய்தும் நன்றியைத் தெரிவித்துக்கொண்டான் அரசன்.
 
-ஆலயம் முடிவடையும் கட்டத்தை அடைந்துவிட்டது. இராசராசனும் இராசேந்திரனும் குந்தவையாரும் கூறிய ஆலோசனைகளின்படி எல்லாப் பணிகளையும் கண்டராதித்தன் நிறைவேற்றிவிட்டான். ஆனால் அரசன் விரும்பியவாறு நூற்றெட்டுத் தாண்
+ஆலயம் முடிவடையும் கட்டத்தை அடைந்துவிட்டது. இராசராசனும் இராசேந்திரனும் குந்தவையாரும் கூறிய ஆலோசனைகளின்படி எல்லாப் பணிகளையும் கண்டராதித்தன் நிறைவேற்றி விட்டான். ஆனால் அரசன் விரும்பியவாறு நூற்றெட்டுத் தாண்
 
 ## T1 direct-transcription notes
 
@@ -44,3 +44,13 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - the cross-page `நூற்றெட்டுத் தாண்` fragment was rechecked and retained;
 - unresolved historical glyphs: **0**;
 - page remains `needs-review` pending T3.
+
+## T3 final source-fidelity notes
+
+- complete scan independently compared against direct source pixels;
+- corrected source word separation `நிறைவேற்றிவிட்டான்` → **`நிறைவேற்றி விட்டான்`**;
+- T2 `போகிறார்` was reconfirmed from the printed historical `றா` identity;
+- cross-page fragment `நூற்றெட்டுத் தாண்` was reconfirmed and remains physically split into scan 36 `டவ நிலைகள்தான்`;
+- printed page **32** and paragraph order were checked;
+- unresolved source readings: **0**;
+- page status: **VERIFIED**.

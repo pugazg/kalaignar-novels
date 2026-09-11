@@ -16,9 +16,8 @@
 
 ## Processing state
 
-- scans 24–33: **T1+T2+T3 PASS / VERIFIED — 10/25**;
-- scans 34–38: **T1+T2 PASS / needs-review**;
-- scans 34–38 T2: **4 corrections / 0 unresolved historical glyphs**;
-- canonical records: **15/25**;
-- verified records: **10/25**;
-- next: **T3 scans 34–38**.
+- scans 24–38: **T1+T2+T3 PASS / VERIFIED — 15/25**;
+- scans 34–38 T3: **8 corrections / 0 unresolved source readings**;
+- final historical-glyph corrections scans 34–38: **5 / 0 unresolved**;
+- scans 39–48: **NOT STARTED**;
+- next: **T1 scans 39–43**.

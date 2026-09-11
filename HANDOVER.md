@@ -18,17 +18,17 @@ TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2
 சாரப்பள்ளம் சாமுண்டி spans **scans 24–48 / 25 scans**.
 
 - canonical records: **15 / 25 — scans 24–38**;
-- verified: **10 / 25 — scans 24–33**;
+- verified: **15 / 25 — scans 24–38**;
 - scans 24–33: **T1+T2+T3 PASS / VERIFIED**;
-- scans 34–38 T1: **PASS / COMPLETE**;
-- scans 34–38 T2: **PASS / COMPLETE — 4 corrections / 0 unresolved historical glyphs**;
-- scans 34–38 T3: **NEXT**;
+- scans 34–38: **T1+T2+T3 PASS / VERIFIED**;
+- scans 34–38 T3: **8 corrections / 0 unresolved source readings**;
+- final historical-glyph corrections scans 34–38: **5 / 0 unresolved**;
 - scans 39–48: **NOT STARTED**.
 
-T2 corrected scan34 `அவளை`, `ஆடுகளை`; scan35 `போகிறார்`; scan37 `மேலைக்`. Source-sensitive `நிழலில் தானம்மா`, `மன்னர் மன்னு`, `நூற்றெட்டுத் தாண்`, and `தொடங்கப் பெறுமைக்கு` were rechecked and retained.
+Key T3 corrections include scan34 `போய் விட்டது` / `போதும்;”`; scan35 `நிறைவேற்றி விட்டான்`; scan38 `சொல்லுவது`, `நடனச் சிற்பங்களை`, `இனியன்விட்டே`, and `அந்தப் பேறு`.
 
 ## Exact next activity
 
-Execute **T3 final source-fidelity closure for scans 34–38 only**. Check complete-page omissions/duplication/punctuation/joins and T2 findings, synchronize controls, commit, and stop before scan 39.
+Execute **T1 direct transcription for scans 39–43 only** under SOURCE_BATCH_CHECKPOINT_WORKFLOW.md. Create five canonical records from direct source pixels, synchronize controls, commit, and stop before T2.
 
-Do not begin scan 39 or the 1978 பெரிய இடத்துப் பெண் witness comparison in the same checkpoint.
+Do not begin scan 44 or the 1978 பெரிய இடத்துப் பெண் witness comparison.

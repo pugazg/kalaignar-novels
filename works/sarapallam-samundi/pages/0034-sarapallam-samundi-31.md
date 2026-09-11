@@ -4,15 +4,15 @@ printed_page: 31
 work: "sarapallam-samundi"
 section: "சாரப்பள்ளம் சாமுண்டி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; final source-fidelity T3 complete"
 ---
 
-காலையில் அவைகளைக் கண்ட கிழவி, “ஆண்டவனின் லீலா விநோதம்தான் இது !” என்று ஆனந்தக்கூத்தாடினாள். இராசேந்திரனின் நல்லுதவியென்பது அவளுக்குத் தெரியாமலே போய்விட்டது. அவளை இராசேந்திரன் அழைத்துவரச் செய்து, தன் தந்தையிடம் அறிமுகப்படுத்திவைத்தான். அப்போதும் அவள் ஆடுகளை ஆண்டவன் அளித்தான் என்றுதான் சொன்னாள். கிழவியின் ஆர்வத்தைக் கண்ட இராசராசன் அவளைப் பார்த்துக் கனிவுடன் “அம்மையே ! உமது விருப்பம் எதாவது இருப்பின் தெரிவிக்கலாம். உடனே நிறைவேற்றுவதற்கு வழி செய்வேன்” என்றுரைத்தான்.
+காலையில் அவைகளைக் கண்ட கிழவி, “ஆண்டவனின் லீலா விநோதம்தான் இது !” என்று ஆனந்தக்கூத்தாடினாள். இராசேந்திரனின் நல்லுதவியென்பது அவளுக்குத் தெரியாமலே போய் விட்டது. அவளை இராசேந்திரன் அழைத்துவரச் செய்து, தன் தந்தையிடம் அறிமுகப்படுத்திவைத்தான். அப்போதும் அவள் ஆடுகளை ஆண்டவன் அளித்தான் என்றுதான் சொன்னாள். கிழவியின் ஆர்வத்தைக் கண்ட இராசராசன் அவளைப் பார்த்துக் கனிவுடன் “அம்மையே ! உமது விருப்பம் எதாவது இருப்பின் தெரிவிக்கலாம். உடனே நிறைவேற்றுவதற்கு வழி செய்வேன்” என்றுரைத்தான்.
 
-“சக்கரவர்த்தியார் அவர்களே ! தங்கள் திருவாயால் என்னை அம்மையே என்று அழைத்ததைவிட வேறென்ன பாக்கியம் இருக்கப்போகிறது எனக்கு ! தங்களின் அழியாத பெயரை ஆண்டாண்டுக் காலத்திற்கும் சொல்லிக்கொண்டிருக்கப்போகும் இராசராசேச்சரத்தில் பணிபுரியும் சிற்பிகளுக்கு உணவளித்த பெருமை யொன்றே எனக்குப் போதும்”
+“சக்கரவர்த்தியார் அவர்களே ! தங்கள் திருவாயால் என்னை அம்மையே என்று அழைத்ததைவிட வேறென்ன பாக்கியம் இருக்கப்போகிறது எனக்கு ! தங்களின் அழியாத பெயரை ஆண்டாண்டுக் காலத்திற்கும் சொல்லிக்கொண்டிருக்கப்போகும் இராசராசேச்சரத்தில் பணிபுரியும் சிற்பிகளுக்கு உணவளித்த பெருமை யொன்றே எனக்குப் போதும்;”
 
 என்று கூறி, மன்னனின் திருவடிகளில் விழுந்து வணங்கப் போன கிழவி அழகியை மன்னன் தடுத்து நிறுத்தி,
 
@@ -38,3 +38,14 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - source-sensitive `நிழலில் தானம்மா` and `மன்னர் மன்னு` were independently rechecked and retained exactly as printed;
 - unresolved historical glyphs: **0**;
 - page remains `needs-review` pending T3.
+
+## T3 final source-fidelity notes
+
+- complete scan independently compared against direct source pixels;
+- corrected source word separation `போய்விட்டது` → **`போய் விட்டது`**;
+- restored the source semicolon in `பெருமை யொன்றே எனக்குப் போதும்;”`;
+- T2 `அவளை` and `ஆடுகளை` historical-`ளை` corrections were reconfirmed;
+- source-sensitive `நிழலில் தானம்மா` and `மன்னர் மன்னு` were reconfirmed exactly as printed;
+- printed page **31**, paragraph order and punctuation were checked;
+- unresolved source readings: **0**;
+- page status: **VERIFIED**.

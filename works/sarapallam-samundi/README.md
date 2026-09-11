@@ -9,24 +9,19 @@
 
 - component span: **25 scans**;
 - canonical page records: **15 / 25 — scans 24–38**;
-- verified records: **10 / 25 — scans 24–33**;
+- verified records: **15 / 25 — scans 24–38**;
 - scans 24–33: **T1+T2+T3 PASS / VERIFIED**;
-- scans 34–38 T1: **PASS / COMPLETE**;
-- scans 34–38 T2: **PASS / COMPLETE — 4 corrections / 0 unresolved historical glyphs**;
-- scans 34–38 T3: **NEXT**;
+- scans 34–38: **T1+T2+T3 PASS / VERIFIED**;
+- scans 34–38 T3: **8 source-fidelity corrections / 0 unresolved**;
+- final historical-glyph corrections for scans 34–38: **5 / 0 unresolved**;
 - scans 39–48: **NOT STARTED**.
 
-## Third-batch T2
+## Third-batch closure
 
-Direct source-pixel reread corrected four historical character identities:
+T3 corrected source spacing/punctuation and several scan-38 fidelity issues, including `சொல்லுவது`, `நடனச் சிற்பங்களை`, `இனியன்விட்டே`, and `அந்தப் பேறு`. It also caught one historical `ளை` identity missed by T2.
 
-- scan34 `அவளே` → `அவளை`;
-- scan34 `ஆடுகளே` → `ஆடுகளை`;
-- scan35 `போகிறோர்` → `போகிறார்`;
-- scan37 `மேலேக்` → `மேலைக்`.
-
-The flagged forms `நிழலில் தானம்மா`, `மன்னர் மன்னு`, `நூற்றெட்டுத் தாண்`, and `தொடங்கப் பெறுமைக்கு` were independently checked and retained where printed. All five records remain `needs-review` pending T3.
+All scans **34–38 / printed pages 31–35** are now VERIFIED.
 
 ## Exact next activity
 
-Execute **T3 final source-fidelity closure for scans 34–38 only**, synchronize controls, commit, and stop before scan 39.
+Execute **T1 direct transcription for scans 39–43 only**. Create five canonical records from direct source pixels, preserve only visibly printed page numbers, synchronize controls, commit, and stop before T2.

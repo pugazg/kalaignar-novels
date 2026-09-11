@@ -4,10 +4,10 @@ printed_page: 34
 work: "sarapallam-samundi"
 section: "சாரப்பள்ளம் சாமுண்டி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; T3 pending"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 re-read complete; final source-fidelity T3 complete"
 ---
 
 பாவம் பிடித்துக் காட்ட வேண்டும். அப்போதுதான் கற்றறிந்த தாண்டவ நிலைச் சிற்பங்களைச் செதுக்க முடியும் என்று முடிவாகக் கூறிவிட்டான்.”
@@ -46,3 +46,14 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - other source-period wording, names and punctuation were not normalized;
 - unresolved historical glyphs: **0**;
 - page remains `needs-review` pending T3.
+
+## T3 final source-fidelity notes
+
+- complete scan independently compared against direct source pixels;
+- no additional ordinary transcription correction was required;
+- T2 `மேலைக் கடற்கரையோரத்து` historical-`லை` correction was reconfirmed;
+- the continuous quoted lament and scan 36→37 / 37→38 continuity were checked;
+- names, period wording and punctuation were retained without modernization;
+- printed page **34** was reconfirmed;
+- unresolved source readings: **0**;
+- page status: **VERIFIED**.
