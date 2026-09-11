@@ -6,32 +6,40 @@
 |---|---|
 | Source intake | **COMPLETE** |
 | Component boundary | **PASS — scans 24–48** |
-| Canonical records | **25 / 25 — COMPLETE** |
-| Verified records | **25 / 25 — COMPLETE** |
+| Canonical records | **25 / 25 — COMPLETE / VERIFIED** |
 | T1/T2/T3 scans 24–48 | **PASS / VERIFIED** |
-| Final-batch T2 scans 44–48 | **PASS — 5 corrections / 0 unresolved** |
-| Final-batch T3 scans 44–48 | **PASS — 6 corrections / 0 unresolved** |
-| Whole-work Tamil audit | **NEXT** |
-| Assembled Tamil | **BLOCKED** |
-| Translation gates | **BLOCKED** |
+| Whole-work Tamil audit | **PASS / COMPLETE — 1 residual correction / 0 unresolved** |
+| Assembled Tamil | **NEXT** |
+| English translation plan | **BLOCKED** |
+| English translation | **BLOCKED** |
 
 No source PDF is committed.
 
-## Final-batch T3 findings
+## Whole-work Tamil audit
 
-The final source-fidelity pass corrected **6 items**:
+The complete canonical layer was independently re-read across scans **24–48** after all page-level T1/T2/T3 gates had passed.
 
-- scan44 `முடித்தான்-` → **`முடித்தான்.`**;
-- scan46 `ஆடிக்கொண்டேயிருந்தாள்` → **`ஆடிக் கொண்டேயிருந்தாள்`**;
-- scan46 `ஆடுவதுபோல்` → **`ஆடுவது போல்`**;
-- scan46 `தழுவுவதுபோல்` → **`தழுவுவது போல்`**;
-- scan47 `எவரே` → **`எவரோ`**;
-- scan48 `அவனே` → **`அவன்`**.
+One residual direct-source mismatch was found:
 
-No additional historical-glyph correction was needed at T3. Final-batch historical-glyph result remains **5 corrections / 0 unresolved**.
+- scan 29 / printed 26: வாயாலிருந்துவிட்டான் → **வாளாயிருந்துவிட்டான்**.
 
-All page records are now VERIFIED. The next gate is the independent whole-work Tamil audit.
+This correction is based on direct source pixels and is not modernization.
+
+The whole-work pass also reconfirmed:
+
+- all 25 physical scans are represented once, in order;
+- scan 24 is an unnumbered title opening;
+- scans 25–27 visibly print 21–23;
+- scan 28 is an unnumbered landscape two-page illustration spread and receives no invented printed 24/25;
+- scans 29–48 visibly print 26–45;
+- all physical page joins are source-supported;
+- illustration/non-body content remains separate from narrative prose;
+- scan 48 closes the narrative and then prints a distinct historical குறிப்பு :;
+- unresolved historical glyphs: **0**;
+- unresolved source readings: **0**.
+
+Full report: FULL_TAMIL_SOURCE_AUDIT.md.
 
 ## Exact next activity
 
-Run the **whole-work Tamil audit** across all 25 canonical records; do not begin assembled Tamil in the same checkpoint.
+Create the assembled Tamil reading layer from audited canonical pages only; do not start English in the same checkpoint.

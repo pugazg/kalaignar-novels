@@ -5,22 +5,22 @@
 ## Active source — அரும்பு 1978 compilation
 
 - அரும்பு — scans 6–23 — **RELEASE-READY / CLOSED**;
-- சாரப்பள்ளம் சாமுண்டி — scans 24–48 — **ACTIVE: 25/25 VERIFIED; whole-work Tamil audit NEXT**;
+- சாரப்பள்ளம் சாமுண்டி — scans 24–48 — **ACTIVE: Tamil source audit PASS / assembled Tamil NEXT**;
 - பெரிய இடத்துப் பெண் — scans 49–74 — additional 1978 witness;
 - நடுத்தெரு நாராயணி — scans 75–90 — queued.
 
 ### Current சாரப்பள்ளம் சாமுண்டி state
 
-- canonical records: **25 / 25 — COMPLETE**;
-- verified records: **25 / 25 — COMPLETE**;
-- scans24–48: **T1/T2/T3 PASS / VERIFIED**;
-- final-batch T2 corrections / unresolved: **5 / 0**;
-- final-batch T3 corrections / unresolved: **6 / 0**;
-- whole-work Tamil audit: **NEXT**;
-- assembled Tamil: **BLOCKED**;
+- canonical / verified records: **25 / 25**;
+- page-level T1/T2/T3: **PASS / COMPLETE**;
+- whole-work Tamil audit: **PASS / COMPLETE**;
+- whole-work audit residual corrections: **1 / 0 unresolved**;
+- residual: scan29 வாயாலிருந்துவிட்டான் → **வாளாயிருந்துவிட்டான்**;
+- assembled Tamil: **NEXT**;
+- English: **BLOCKED**;
 - source PDF remains excluded.
 
-Exact next action: **whole-work Tamil audit for சாரப்பள்ளம் சாமுண்டி**.
+Exact next action: **assembled Tamil reading layer for சாரப்பள்ளம் சாமுண்டி**.
 
 ## Completed works
 

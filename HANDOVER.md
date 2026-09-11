@@ -17,20 +17,23 @@ TVA_BOK_0064361_அரும்பு.pdf — SHA-256 04a3013e1f58a1800867acc5d2
 
 சாரப்பள்ளம் சாமுண்டி spans **scans 24–48 / 25 scans**.
 
-- canonical records: **25 / 25 — COMPLETE**;
-- verified: **25 / 25 — COMPLETE**;
-- scans24–48: **T1+T2+T3 PASS / VERIFIED**;
-- final-batch T2 scans44–48: **5 corrections / 0 unresolved historical glyphs**;
-- final-batch T3 scans44–48: **6 corrections / 0 unresolved source readings**;
-- whole-work Tamil audit: **NEXT**;
-- assembled Tamil: **BLOCKED until whole-work audit**.
+- canonical records: **25 / 25 — COMPLETE / VERIFIED**;
+- page-level T1/T2/T3: **PASS / COMPLETE**;
+- whole-work Tamil audit: **PASS / COMPLETE after 1 residual direct-source correction**;
+- residual correction: scan29 / printed26 வாயாலிருந்துவிட்டான் → **வாளாயிருந்துவிட்டான்**;
+- unresolved historical glyphs: **0**;
+- unresolved source readings: **0**;
+- assembled Tamil: **NEXT**;
+- English: **BLOCKED**.
 
-Final T3 repairs: scan44 `முடித்தான்.`; scan46 `ஆடிக் கொண்டேயிருந்தாள்`, `ஆடுவது போல்`, `தழுவுவது போல்`; scan47 `எவரோ`; scan48 `அவன் அங்குக் காணவில்லை`.
+Whole-work mapping and continuity passed, including scan28's unnumbered landscape illustration spread and scan48's narrative-ending / separately printed historical-note distinction.
 
-Scan48 preserves the story ending and separately printed historical `குறிப்பு :`.
+Audit report: works/sarapallam-samundi/FULL_TAMIL_SOURCE_AUDIT.md.
 
 ## Exact next activity
 
-Run the **whole-work Tamil audit for சாரப்பள்ளம் சாமுண்டி** as a separate checkpoint. Audit all 25 verified canonical records and source structure across scans24–48, synchronize controls, commit, and stop before assembled Tamil.
+Create the **assembled Tamil reading layer** from audited canonical records only.
+
+Use one continuous source-backed section unless direct source structure proves otherwise. Preserve reversible scan markers and verified joins. Keep scan28 illustration material out of prose and preserve scan48 narrative ending and source குறிப்பு : as distinct units. Run the assembled consistency check, synchronize controls, commit, and stop before English translation planning.
 
 Do not begin the 1978 பெரிய இடத்துப் பெண் witness comparison.
