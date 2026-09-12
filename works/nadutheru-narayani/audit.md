@@ -86,4 +86,20 @@ Cumulative T2 through scan90: **16 / 16 pages verified, 40 corrections, 0 unreso
 
 T1 closure record: [`T1_COMPLETION.md`](T1_COMPLETION.md).
 
-**Next: assembled Tamil reading layer from the audited scans 75–90.**
+## Assembled Tamil consistency gate
+
+- section inventory: **1 / 1 — `sections/01-nadutheru-narayani.md`**;
+- canonical records represented: **16 / 16**;
+- provenance markers: **16 / 16**;
+- physical order: **75→90 PASS**;
+- normalized narrative derivation: **PASS — exact against audited canonical bodies**;
+- verified joins: **11 / 11 PASS**;
+- scan80 illustration excluded from prose: **PASS**;
+- scan90 terminal rule retained: **PASS**;
+- protected source forms: **PASS**;
+- canonical Tamil mutation during assembly: **0**;
+- retranscription / modernization introduced: **0**.
+
+**Assembled Tamil: PASS / COMPLETE — 1 / 1 section.**
+
+**Next: English translation plan. Do not begin translation prose before the plan exists.**

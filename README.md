@@ -7,7 +7,7 @@
 - அரும்பு — scans 6–23 — **RELEASE-READY / CLOSED**;
 - சாரப்பள்ளம் சாமுண்டி — scans 24–48 — **RELEASE-READY / CLOSED**;
 - பெரிய இடத்துப் பெண் — scans 49–74 — **1978 WITNESS COMPARISON COMPLETE / CLOSED — 26/26**;
-- நடுத்தெரு நாராயணி — scans 75–90 — **Tamil source layer PASS / COMPLETE — 16/16 VERIFIED; assembled Tamil NEXT**.
+- நடுத்தெரு நாராயணி — scans 75–90 — **Tamil 16/16 VERIFIED; whole-work audit PASS; assembled Tamil PASS / COMPLETE; English plan NEXT**.
 
 ### Current சாரப்பள்ளம் சாமுண்டி state
 
@@ -26,7 +26,7 @@
 - archival/editorial package: **RELEASE-READY / CLOSED**;
 - source PDF remains excluded.
 
-Exact next action: **நடுத்தெரு நாராயணி assembled Tamil reading layer from audited scans 75–90**.
+Exact next action: **நடுத்தெரு நாராயணி English translation planning — no translation prose yet**.
 
 ## Completed works
 

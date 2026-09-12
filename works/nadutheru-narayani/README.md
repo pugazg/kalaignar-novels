@@ -17,7 +17,9 @@
 - T2 / historical-glyph/source-fidelity review: **PASS / COMPLETE — scans 75–90**;
 - whole-work Tamil source audit: **PASS / COMPLETE — 0 residual canonical corrections / 0 unresolved**;
 - Tamil source layer: **PASS / COMPLETE**;
-- assembled Tamil: **NOT STARTED / NEXT**.
+- assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
+- assembled-vs-canonical consistency: **PASS — 16 / 16 scans**;
+- English translation plan: **NOT STARTED / NEXT**.
 
 Collection provenance: `../../collections/arumbu-1978/`.
 
@@ -29,4 +31,7 @@ T2 scans **75–90**: **PASS / COMPLETE / 16 of 16 verified** with **40 cumulati
 
 Whole-work audit record: [`FULL_TAMIL_SOURCE_AUDIT.md`](FULL_TAMIL_SOURCE_AUDIT.md).
 
-Next: **assemble the audited Tamil reading layer from scans 75–90**.
+Assembled Tamil: [`sections/01-nadutheru-narayani.md`](sections/01-nadutheru-narayani.md).  
+Reading-layer controls: [`sections/README.md`](sections/README.md).
+
+Next: **create the English translation plan; do not begin translation prose yet**.

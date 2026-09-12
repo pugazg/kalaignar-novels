@@ -31,7 +31,9 @@
 - T2 / historical-glyph source-fidelity review: **PASS / COMPLETE — scans 75–90**;
 - whole-work Tamil source audit: **PASS / COMPLETE — 0 residual canonical corrections / 0 unresolved**;
 - Tamil source layer: **PASS / COMPLETE**;
-- assembled Tamil: **NOT STARTED / NEXT**.
+- assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
+- assembled-vs-canonical consistency: **PASS — 16 / 16 scans / 11 joins / 0 mutation**;
+- English translation plan: **NOT STARTED / NEXT**.
 
 T1 closure: `works/nadutheru-narayani/T1_COMPLETION.md`.
 
@@ -39,19 +41,17 @@ T2 is **PASS / COMPLETE across scans 75–90**: **40 source-proven corrections /
 
 Whole-work audit record: `works/nadutheru-narayani/FULL_TAMIL_SOURCE_AUDIT.md`.
 
+Assembled Tamil records:
+
+- `works/nadutheru-narayani/sections/README.md`;
+- `works/nadutheru-narayani/sections/01-nadutheru-narayani.md`.
+
 ## Exact next activity
 
-Create the **assembled Tamil reading layer** from the audited canonical pages.
+Create the **English translation plan** required by the repository workflow.
 
-Requirements:
+Create `works/nadutheru-narayani/translations/en/TRANSLATION_PLAN.md` and synchronize the English-control README/progress files as appropriate, but **do not begin translation prose**.
 
-1. derive only from `works/nadutheru-narayani/pages/` — do not re-transcribe from the PDF;
-2. use one continuous section unless the source itself supplies a genuine structural split;
-3. preserve reversible source provenance for scans **75–90**;
-4. join only the confirmed page-boundary continuities already recorded in `indexes/page-map.md`;
-5. keep scan80's illustration out of prose while preserving its page provenance;
-6. preserve all source spelling, punctuation, dialect, rhetoric and protected oddities;
-7. preserve scan90's work ending and terminal rule;
-8. create/update `sections/README.md` and the assembled Tamil section, run a consistency gate against all 16 canonical records, synchronize controls, commit, and stop before English translation planning.
+The plan must lock the working English title, authority hierarchy, one-section structure, controlled translation batches, transliteration/name policy, caste/religious/temple terminology, colloquial dialogue policy, protected source oddities, punctuation/rhetoric, scan provenance, and review gates.
 
-Do not begin English translation yet.
+Stop after the plan/control layer is committed.
