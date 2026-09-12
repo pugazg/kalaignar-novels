@@ -16,9 +16,9 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 - publisher: **திராவிடப்பண்ணை**
 - edition: **இரண்டாம் பதிப்பு — 1968**
 - source size: **268,529,598 bytes**
-- attached artifact scans: **150**
-- user-confirmed complete extent: **198 pages**
-- completeness discrepancy: **OPEN — current attachment view is 48 pages short of the confirmed extent**
+- PDF scan images: **150**
+- user-confirmed printed/book extent: **198 pages**
+- pagination relationship: **OPEN — counts are not assumed 1:1; no 48-page loss is asserted**
 - SHA-256: **PENDING — hashing runtime unavailable during intake**
 - source PDF committed: **No**
 - source format: **image-only**
@@ -29,10 +29,11 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 - source intake: **REGISTERED / IN PROGRESS**;
 - front matter scans **1–4: VERIFIED / page records created**;
 - scan **5: body opening confirmed; not yet transcribed**;
-- page map: **150 / 150 currently exposed scans registered at intake level**;
-- complete source extent: **198 pages (user-confirmed)**;
+- page map: **150 / 150 PDF scan images registered at intake level**;
+- printed/book extent: **198 pages (user-confirmed)**;
+- scan→printed-page mapping: **OPEN**;
 - body T1: **NOT STARTED**;
-- terminal boundary: **BLOCKED — post-150 extent is required; scan 150 is not terminal**;
+- terminal boundary: **OPEN — scans 145–150 require direct visible-pagination / structural audit**;
 - historical-glyph review: **NOT STARTED**;
 - assembled Tamil / English: **BLOCKED**.
 
@@ -46,9 +47,10 @@ The supplied synopsis mentions folk arts such as கரகாட்டம், �
 
 ## Exact next activity
 
-1. resolve the source-completeness discrepancy: **198 pages confirmed by the user vs 150 PDF scans currently exposed by the attached artifact**;
-2. obtain/access the post-150 extent before making any terminal narrative/back-matter claim;
-3. compute/record SHA-256 when the hashing runtime is available;
-4. synchronize the page map once the additional extent is visible;
-5. a small T1 batch from scan 5 may be processed later as available-source work, but it must not be presented as evidence that the full source is complete;
-6. do not commit the PDF and do not reopen closed prior works.
+1. audit **PDF scans 145–150** directly and record the visible printed page number(s) on each scan;
+2. determine whether any of those scans are two-page spreads and whether scan 150 contains the source-visible ending / printed page 198 / publisher back matter;
+3. treat **150 scans** and **198 printed pages** as distinct measures — do not invent 48 missing PDF scans;
+4. extend the scan→printed-page mapping backward/forward only from direct source evidence;
+5. compute/record SHA-256 when the hashing runtime is available;
+6. once source structure is stable, begin bounded T1 from scan 5;
+7. do not commit the PDF and do not reopen closed prior works.

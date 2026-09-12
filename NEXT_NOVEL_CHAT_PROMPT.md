@@ -1,4 +1,4 @@
-# Next Chat Prompt — சுருளிமலை / source-completeness reconciliation
+# Next Chat Prompt — சுருளிமலை / scan-to-printed-page mapping
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/surulimalai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -13,25 +13,31 @@ Durable intake state:
 - publisher: **திராவிடப்பண்ணை**;
 - edition: **இரண்டாம் பதிப்பு — 1968**;
 - size: **268,529,598 bytes**;
-- currently attached artifact exposes: **150 PDF scans**;
-- user-confirmed complete extent: **198 pages**;
-- completeness discrepancy: **OPEN — 48-page gap relative to the current attachment view**;
+- PDF scan images: **150**;
+- user-confirmed printed/book extent: **198 pages**;
+- scan/page relationship: **OPEN — not assumed 1:1**;
+- missing-page count: **NOT ASSERTED**;
 - SHA-256: **PENDING**;
 - source PDF committed: **No**;
 - image-only source.
 
-Front matter scans **1–4** are already VERIFIED and recorded. Scan **5** is the source-visible body opening. Body T1 has not started.
+Front matter scans **1–4** are VERIFIED and recorded. Scan **5** is the source-visible body opening. Body T1 has not started.
 
-## Critical correction
+## Critical count rule
 
-Do **not** treat scan 150 as the work ending. The earlier 150-page completeness assumption was incorrect. The user explicitly confirms a complete extent of **198 pages**.
+Do not confuse **PDF scan count** with **printed-page count**. The user confirms **198 printed/book pages**, while the PDF exposes **150 scan images**. A scan may contain more than one printed page. The previous “48 missing pages” interpretation was unsupported and has been withdrawn.
 
 ## Exact next activity
 
-First reconcile/access the post-150 extent. Only after the full 198-page source extent is visible may the terminal narrative/back-matter boundary be audited.
+Perform a direct visual mapping audit of **scans 145–150**:
 
-Also compute/register SHA-256 if the runtime permits.
+- record every visible printed page number;
+- identify one-page vs multi-page/spread scans;
+- determine where narrative body visibly ends;
+- identify any illustrations, blank areas, publisher advertisements or back matter;
+- verify whether printed page **198** appears in the terminal scan region;
+- record cross-page continuity where the ending spans scan boundaries.
 
-After completeness is resolved, update `metadata/source.md`, `indexes/page-map.md`, root handover controls, and then choose a bounded T1 body batch beginning at scan 5.
+Then synchronize `metadata/source.md`, `indexes/page-map.md`, root controls, and set the next task to the first bounded Tamil T1 batch from scan 5.
 
-Do not invent missing pages, infer the ending from numbering, or commit the PDF.
+Do not infer printed page numbers from sequence and do not commit the PDF.

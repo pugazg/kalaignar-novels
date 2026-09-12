@@ -1,8 +1,8 @@
 # Page Map — சுருளிமலை
 
-Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`. **User-confirmed complete extent: 198 pages. Current attached artifact exposes 150 PDF scans.**
+Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`. **PDF: 150 scan images. User-confirmed printed/book extent: 198 pages. These counts are not assumed to be 1:1.**
 
-This is the initial intake manifest. Printed-page values remain `—` unless directly verified from the scan. No sequence-based page-number inference is allowed.
+This is the initial intake manifest. Printed-page values remain `—` unless directly verified from the scan. A PDF scan may contain one or more printed pages; no 1:1 scan/page assumption and no sequence-based page-number inference are allowed.
 
 | Scan | Printed page | Page type / function | Status | Note |
 |---:|---:|---|---|---|
@@ -150,21 +150,23 @@ This is the initial intake manifest. Printed-page values remain `—` unless dir
 | 142 | — | unclassified | **not-started** | direct visual classification pending |
 | 143 | — | unclassified | **not-started** | direct visual classification pending |
 | 144 | — | unclassified | **not-started** | direct visual classification pending |
-| 145 | — | unclassified / incomplete-source span | **not-started** | not terminal; complete source continues beyond current 150-scan artifact |
-| 146 | — | unclassified / incomplete-source span | **not-started** | not terminal; complete source continues beyond current 150-scan artifact |
-| 147 | — | unclassified / incomplete-source span | **not-started** | not terminal; complete source continues beyond current 150-scan artifact |
-| 148 | — | unclassified / incomplete-source span | **not-started** | not terminal; complete source continues beyond current 150-scan artifact |
-| 149 | — | unclassified / incomplete-source span | **not-started** | not terminal; complete source continues beyond current 150-scan artifact |
-| 150 | — | unclassified / incomplete-source span | **not-started** | not terminal; complete source continues beyond current 150-scan artifact |
+| 145 | — | terminal-region / mapping pending | **not-started** | inspect visible printed page(s), spread structure, ending/back matter directly |
+| 146 | — | terminal-region / mapping pending | **not-started** | inspect visible printed page(s), spread structure, ending/back matter directly |
+| 147 | — | terminal-region / mapping pending | **not-started** | inspect visible printed page(s), spread structure, ending/back matter directly |
+| 148 | — | terminal-region / mapping pending | **not-started** | inspect visible printed page(s), spread structure, ending/back matter directly |
+| 149 | — | terminal-region / mapping pending | **not-started** | inspect visible printed page(s), spread structure, ending/back matter directly |
+| 150 | — | terminal-region / mapping pending | **not-started** | inspect visible printed page(s), spread structure, ending/back matter directly |
 
 ## Intake counts
 
-- attached artifact scans registered: **150 / 150**;
-- user-confirmed complete extent: **198 pages**;
-- completeness gap relative to attached artifact: **48 pages**;
-- page records created/verified: **4 / 150 available scans**;
+- PDF scan images registered: **150 / 150**;
+- user-confirmed printed/book extent: **198 pages**;
+- 1:1 scan/page assumption: **REJECTED**;
+- missing-page count: **NOT ASSERTED**;
+- page records created/verified: **4 / 150 scan images**;
 - body T1: **0**;
-- terminal-boundary status: **BLOCKED — full 198-page extent not currently exposed**;
+- scan→printed-page mapping: **OPEN**;
+- terminal-boundary status: **OPEN / direct visual mapping required**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **resolve/access the post-150 source extent; do not infer an ending at scan 150.**
+Exact next: **audit scans 145–150 for visible printed-page numbers / spread structure / ending, then propagate the scan→print mapping backward as needed.**

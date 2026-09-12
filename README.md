@@ -4,12 +4,13 @@
 
 ## Active source — சுருளிமலை (1968 second edition)
 
-- source PDF: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf` — **attached artifact exposes 150 PDF scans; user-confirmed complete extent 198 pages / image-only / not committed**;
+- source PDF: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf` — **150 PDF scan images; user-confirmed book/printed extent 198 pages / image-only / not committed**;
 - source intake: **REGISTERED / IN PROGRESS**;
 - front matter scans 1–4: **VERIFIED**;
 - scan 5: **body opening confirmed / T1 not started**;
-- source completeness: **OPEN — complete extent 198 pages; attached artifact currently exposes only 150 scans**;
-- terminal boundary: **BLOCKED until pages/scans beyond 150 are available**;
+- pagination model: **150 PDF scans ≠ 198 printed/book pages; this is a count-basis distinction, not proof that 48 pages are missing**;
+- scan→printed-page mapping: **OPEN**;
+- terminal boundary: **OPEN — must be established from visible printed pagination / source structure, not from PDF scan count**;
 - SHA-256: **PENDING**.
 
 ### Latest completed source — அரும்பு 1978 compilation
@@ -35,7 +36,7 @@
 
 Closure record: `collections/arumbu-1978/PARATEXT_CLOSURE.md`.
 
-Exact next action: **resolve the 198-page source-completeness gap; do not treat scan 150 as the ending.**
+Exact next action: **map PDF scans to visible printed pages, beginning with terminal scans 145–150; determine whether scan 150 contains the printed-page ending/back matter.**
 
 ## Completed works
 
