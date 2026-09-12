@@ -12,4 +12,4 @@
 - scan 90 visibly prints `89`
 - source PDF committed: **No**
 
-Status: source registered only; transcription has not started.
+Status: source intake complete; canonical T1 transcription **IN PROGRESS — scans 75–79 / 5 of 16 complete**. All five current page records remain `needs-review`; no verified-page claim has been made. Next: scans 80–84.
