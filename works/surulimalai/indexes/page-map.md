@@ -10,11 +10,11 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 2 | — | front-matter / copy provenance | **verified** | later gift label kept separate |
 | 3 | — | title-page | **verified** | title/author/publisher/place confirmed |
 | 4 | — | publication-page | **verified** | second edition 1968 / copyright / price confirmed |
-| 5 | — | body opening | **not-started** | narrative opening visually confirmed; T1 not yet performed |
-| 6 | — | unclassified | **not-started** | direct visual classification pending |
-| 7 | — | unclassified | **not-started** | direct visual classification pending |
-| 8 | — | unclassified | **not-started** | direct visual classification pending |
-| 9 | — | unclassified | **not-started** | direct visual classification pending |
+| 5 | — | body opening | **t1-active** | attached source image opened; direct transcription in progress; printed page not yet recorded |
+| 6 | — | body | **t1-active** | attached source image opened; direct transcription in progress; printed page not yet recorded |
+| 7 | — | body | **t1-active** | attached source image opened; direct transcription in progress; printed page not yet recorded |
+| 8 | — | body | **t1-active** | attached source image opened; direct transcription in progress; printed page not yet recorded |
+| 9 | — | body | **t1-active** | attached source image opened; direct transcription in progress; printed page not yet recorded |
 | 10 | — | unclassified | **not-started** | direct visual classification pending |
 | 11 | — | unclassified | **not-started** | direct visual classification pending |
 | 12 | — | unclassified | **not-started** | direct visual classification pending |
@@ -163,9 +163,9 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
 - page records created/verified: **4 opening/front-matter records only**;
-- body T1: **0**;
+- body T1: **IN PROGRESS — scans 5–9 active**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **re-establish a full 198-page source view, then resume T1 scans 5–9 and terminal mapping from that complete representation.**
+Exact next: **complete T1 scans 5–9 from the attached PDF only; defer full-source/terminal reconciliation.**

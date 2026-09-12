@@ -32,7 +32,7 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 - page map: **current parser-visible pages 1–150 only; incomplete relative to 198-page source**;
 - source extent: **198 pages**;
 - prior scan→printed-page terminal mapping: **INVALIDATED**;
-- body T1: **NOT STARTED**;
+- body T1: **IN PROGRESS — scans 5–9 active from attached PDF only**;
 - terminal boundary: **UNKNOWN / full-source re-audit required**;
 - historical-glyph review: **NOT STARTED**;
 - assembled Tamil / English: **BLOCKED**.
@@ -47,11 +47,18 @@ The supplied synopsis mentions folk arts such as கரகாட்டம், �
 
 ## Exact next activity
 
-1. work only against a **complete 198-page representation** of the Tamil Digital Library/Wikisource copy;
-2. do not trust the current Files parser's 150-page ceiling for source structure;
-3. once full source access is restored, process **T1 pages/scans 5–9** from source pixels;
-4. later re-run terminal-boundary mapping against the actual final pages;
-5. preserve historical Tamil glyph rules and source fidelity;
-6. do not commit the PDF.
+Complete **Tamil T1 scans 5–9 only** from the attached PDF.
 
-The previous `TERMINAL_BOUNDARY_AUDIT.md` is retained only as an explicit invalidation record.
+Requirements:
+
+1. attached PDF is the only transcription source;
+2. the 198-page parser/source-extent discrepancy is deferred and does not block this batch;
+3. visually transcribe each whole source page;
+4. record only directly visible printed-page numbers;
+5. preserve source punctuation, spelling, paragraphing and historical glyphs;
+6. create five canonical records with `status: needs-review`;
+7. update `T1_BATCH_005_009.md`, page map and controls;
+8. commit and stop before scan10;
+9. no external website/source text and no PDF commit.
+
+Terminal-boundary reconciliation remains a later independent activity.

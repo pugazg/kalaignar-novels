@@ -21,7 +21,7 @@
 - body opening: **scan 5 confirmed**;
 - terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
 - prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
-- canonical body transcription: **NOT STARTED**;
+- canonical body transcription: **IN PROGRESS — T1 scans 5–9 active**;
 - historical-glyph/source-fidelity gate: **NOT STARTED**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
 - English translation: **NOT STARTED / BLOCKED**.
@@ -50,9 +50,12 @@ Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Do not proceed from the truncated 150-page Files representation as though it were complete. Resume bounded T1 only when operating against a **full 198-page view of the same source copy** (for example, a correctly ingested attachment/full source bytes or the matching Wikisource scan), while keeping the Tamil Digital Library scan as controlling identity.
+Proceed with bounded T1 on the early pages that are available in the **attached PDF**. The 198-page ingestion discrepancy is deferred and is **not a blocker** for scans 5–9. Use no external transcription source. Complete scans **5–9**, create needs-review canonical records, then stop before scan10.
 
 Do not start English or assembled Tamil work.
 
 
 Terminal audit: [`TERMINAL_BOUNDARY_AUDIT.md`](TERMINAL_BOUNDARY_AUDIT.md).
+
+
+Active T1 checkpoint: [`T1_BATCH_005_009.md`](T1_BATCH_005_009.md).

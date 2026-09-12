@@ -7,7 +7,8 @@
 - source PDF: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf` — **user/source-confirmed 198-page Tamil Digital Library/Wikisource copy; current ChatGPT Files parser exposes only 150 pages / image-only / not committed**;
 - source intake: **REGISTERED / IN PROGRESS**;
 - front matter scans 1–4: **VERIFIED**;
-- scan 5: **body opening confirmed / T1 not started**;
+- scan 5: **body opening confirmed**;
+- body T1: **IN PROGRESS — scans 5–9 active from attached PDF only**;
 - source-ingestion status: **DEGRADED IN THIS CHAT — Files reports `num_pages: 150` for a source the user confirms is 198 pages**;
 - prior 150-page scan→print reconciliation: **RETRACTED / INVALID**;
 - terminal boundary: **UNKNOWN in the current truncated parser view**;
@@ -36,7 +37,7 @@
 
 Closure record: `collections/arumbu-1978/PARATEXT_CLOSURE.md`.
 
-Exact next action: **continue சுருளிமலை only from a full 198-page source view (attached/full bytes or matching Wikisource scan); do not use the 150-page parser view for source-bound claims.**
+Exact next action: **complete சுருளிமலை T1 scans 5–9 from the attached PDF only; defer the 198-page ingestion issue until later.**
 
 ## Completed works
 

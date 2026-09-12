@@ -20,7 +20,8 @@ Open:
 - SHA-256 checksum;
 - scan→printed-page reconciliation: **150 PDF scan images vs 198 printed/book pages**;
 - complete per-scan page-type / visible printed-page mapping for the **intermediate body**, including multi-page scans where source-supported;
-- body T1/T2 and whole-work audit.
+- body T1/T2 and whole-work audit;
+- T1 scans **5–9 now ACTIVE** from attached PDF only.
 
 No canonical body transcription has started. No OCR output has been accepted as source authority.
 
@@ -47,3 +48,17 @@ Reason: performed against a parser representation that stops at page 150 even th
 
 Current status: **UNKNOWN / RE-AUDIT REQUIRED ON FULL SOURCE**.
 
+
+
+## T1 start — scans 5–9
+
+User directive: begin transcription now and resolve the complete-source/page-count issue later.
+
+- source scope: attached PDF only;
+- source images 5–9 opened successfully;
+- external transcription/reference sources: **0**;
+- T1 state: **IN PROGRESS**;
+- canonical body records completed: **0 / 5 at this start checkpoint**;
+- full-source/terminal discrepancy: **DEFERRED / NON-BLOCKING FOR THIS BATCH**.
+
+Checkpoint: [`T1_BATCH_005_009.md`](T1_BATCH_005_009.md).

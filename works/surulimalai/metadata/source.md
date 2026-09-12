@@ -65,9 +65,10 @@ The user supplied a descriptive synopsis mentioning கரகாட்டம்,
 
 1. compute and record the PDF SHA-256;
 2. obtain/use a **full 198-page representation of the same source copy**;
-3. invalidate and later redo terminal-boundary mapping against that complete representation;
-4. resume **T1 scans 5–9** only from the complete source view;
-5. do not infer source extent from the current Files parser's `num_pages: 150`.
+3. invalidate and later redo terminal-boundary mapping against the complete representation;
+4. **T1 scans 5–9 is ACTIVE now from the attached PDF pages currently available**;
+5. the 198-page ingestion issue is deferred and must not block early-page transcription;
+6. do not infer source extent from the current Files parser's `num_pages: 150`.
 
 
 Terminal-boundary audit: [`../TERMINAL_BOUNDARY_AUDIT.md`](../TERMINAL_BOUNDARY_AUDIT.md).
