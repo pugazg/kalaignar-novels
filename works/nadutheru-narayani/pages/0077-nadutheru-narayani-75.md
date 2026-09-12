@@ -4,13 +4,13 @@ printed_page: 75
 work: "nadutheru-narayani"
 section: "நடுத்தெரு நாராயணி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; historical-glyph/source-fidelity review pending"
+transcription_method: "direct visual transcription plus independent T2 source-fidelity / historical-glyph review"
 ---
 
-காதைத் துளைத்துக்கொண்டுதானிருந்தது. ரதத்திலே அவள் கண்ட நரகாசுர வதக்காட்சி, அவள் நெஞ்சைவிட்டு அகலவில்லை. நினைவுகள் அலை மோதின.
+காதைத் துளைத்துக்கொண்டுதானிருந்தது. ரதத்திலே அவள் கண்ட நரகாசுர வதக்காட்சி, அவள் நெஞ்சை விட்டு அகலவில்லை. நினைவுகள் அலை மோதின.
 
 நடுத்தெருவிலேதான் நாராயணியின் வீடு. நடுத்தெருவிலே வீடு கட்ட நகரசபையார் எப்படி அனுமதித்தார்கள் ; நகரசபையாருக்கு நாராயணியின் மீது அவ்வளவு அனுதாபம் விழக் காரணம் என்ன என்றெல்லாம் யாரும் சந்தேகப்படத் தேவையில்லை. அவள் வீடு இருந்த தெருவுக்குப் பெயரே நடுத்தெரு.
 
@@ -20,13 +20,14 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 அப்படி அழுவதற்காக அவள் ஆலயத்திற்குச் செல்லும்போதுதான் குருக்கள் கிருஷ்ணய்யரின் சந்திப்பு ஏற்பட்டது. கோயில் குருக்கள் என்ற போதிலும் மிடுக்கான நடையுடைய பாவனைகள் உடையவர். கழுத்திலே அழகான தங்கச் சங்கிலி; அந்தச் சங்கிலியின் முனையிலே ருத்ராட்சக்காய்; இடுப்பிலே மயில் கண் வேட்டி; மேலே ஒரு வெண் பட்டுத்துண்டு; பி. ஏ. குடுமியுடன் கூடிய அமெரிக்கன் கிராப்பு - இவைதான் கோயில் குருக்கள் கிருஷ்ணய்யரின் அடையாளங்கள் ! மறந்துவிட்டேன் ; மன்னிக்கவும் ; அன்றுடன் சலவை செய்யப்படும் பூணூல் உண்டு மார்பிலே ! விபூதிப் பூச்சு உண்டு ; விஷ்ணுவுக்கு விசேஷமான நாட்களிலே நாமமும் போடுவார் ! பட்டையாக அல்ல ; பக்குவமாக ; சிறிய கோடாக; சிங்காரம் கெடாமல் !
 
-## T1 direct-transcription notes
+## T2 source-fidelity / historical-glyph review
 
-- printed page **75** is directly visible;
-- opening `காதைத் துளைத்துக்கொண்டுதானிருந்தது` continues scan 76 final `வாணச் சத்தம் அவள்`;
-- source-specific compound `வாசரோஜாவேலியின்றிப்-பாதுகாக்க` is preserved exactly as read from the scan;
-- source wording `பி. ஏ. குடுமியுடன் கூடிய அமெரிக்கன் கிராப்பு` is preserved without modernization;
-- historical-glyph / second-pass source-fidelity review remains pending;
-- page status remains **needs-review**.
+- independent full-page source-pixel reread: **PASS**;
+- T2 correction: `நெஞ்சைவிட்டு` → source `நெஞ்சை விட்டு`;
+- cross-line source join `அன்று` + `டம்` reconfirmed as `அன்றுடன்`;
+- `வாசரோஜாவேலியின்றிப்-பாதுகாக்க` and `பி. ஏ. குடுமியுடன் கூடிய அமெரிக்கன் கிராப்பு` retained as source forms;
+- complete historical-family check performed;
+- unresolved readings: **0**;
+- page status: **verified**.
 
-<!-- source physical scan: 77; printed page: 75; T1 COMPLETE; REVIEW PENDING -->
+<!-- source physical scan: 77; printed page: 75; T1 COMPLETE; T2 PASS; VERIFIED -->

@@ -4,10 +4,10 @@ printed_page: 76
 work: "nadutheru-narayani"
 section: "நடுத்தெரு நாராயணி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; historical-glyph/source-fidelity review pending"
+transcription_method: "direct visual transcription plus independent T2 source-fidelity / historical-glyph review"
 ---
 
 வயதோ முப்பதுக்குமேல் இல்லை. இந்த ஒரு முதல் போதாதா- காதல் வியாபாரத்தை ஆரம்பிக்க?
@@ -20,13 +20,15 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 அன்றையதினம் வழக்கம்போல் நாராயணி வந்தாள். காத்திருந்த அய்யரும் பூத்திருந்த மல்லிகை வந்துவிட்டதென மகிழ்ந்தார். பரதம் நடக்குமிடத்திலும், பாட்டுக் கச்சேரி நடக்குமிடத்திலும் பக்தர்கள் தங்கள் கவனத்தைத் திருப்பியிருந்தனர்- நாராயணியோ கர்ப்பக் கிரகத்திற்குள்ளே நுழைந்தாள்- தாமரை மொட்டுப்போல் கரங்குவித்தாள். காமனை வெல்லும் விழி மூடினாள். இமை அணையைப் பிளந்துகொண்டு கண்ணீர் வெள்ளம் புறப்பட்டுக் கன்னத்தின் மேட்டிலே கீறுகளாகப் பிரிந்தது. ஆழ்ந்த பக்தியிலே மெய்மறந்து நின்றாள். ‘‘எனக்கு வழி காட்டு அப்பனே ! என்னை மட்டும் உலகத்திலே ஜீவித்திருக்க ஏன்
 
-## T1 direct-transcription notes
+## T2 source-fidelity / historical-glyph review
 
-- printed page **76** is directly visible;
-- source-specific form `புரு வலுவிலே` is preserved from the scan without contextual normalization;
-- final open quotation ends physically at `...ஜீவித்திருக்க ஏன்` and continues on scan 79;
-- no scan-79 wording is imported into this page record;
-- historical-glyph / second-pass source-fidelity review remains pending;
-- page status remains **needs-review**.
+- independent full-page source-pixel reread: **PASS**;
+- textual T2 corrections: **0**;
+- apparent source shape at `இல்லை.` was explicitly checked as a historical **`லை`** identity, not a shortened `இல்ல.`; Unicode `இல்லை.` is confirmed;
+- same-edition historical-form comparison and full 13-family check completed;
+- `புரு வலுவிலே` retained as the actual source wording;
+- scan78→79 open-quotation join reconfirmed;
+- unresolved readings: **0**;
+- page status: **verified**.
 
-<!-- source physical scan: 78; printed page: 76; T1 COMPLETE; REVIEW PENDING -->
+<!-- source physical scan: 78; printed page: 76; T1 COMPLETE; T2 PASS; VERIFIED -->

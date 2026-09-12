@@ -17,7 +17,7 @@
 | 6–23 | அரும்பு | **RELEASE-READY / CLOSED** |
 | 24–48 | சாரப்பள்ளம் சாமுண்டி | **RELEASE-READY / CLOSED** |
 | 49–74 | பெரிய இடத்துப் பெண் | **WITNESS COMPARISON COMPLETE / CLOSED — 26/26** |
-| 75–90 | நடுத்தெரு நாராயணி | **T1 COMPLETE 16/16 — T2 REVIEW NEXT** |
+| 75–90 | நடுத்தெரு நாராயணி | **T1 COMPLETE 16/16 — T2 5/16 VERIFIED; 80–84 NEXT** |
 | 91–92 | publisher catalogue / back cover | REGISTERED |
 
 சாரப்பள்ளம் சாமுண்டி has **25/25 canonical and verified records**. The independent whole-work Tamil audit is **PASS / COMPLETE after 1 residual source correction** with **0 unresolved**. The assembled Tamil reading layer is **PASS / COMPLETE — 1 / 1 section**.
@@ -30,4 +30,6 @@ English translation planning is **PASS / COMPLETE**. Batches 1–5, scans **24�
 
 `நடுத்தெரு நாராயணி` now has **16/16 canonical page records** and **T1 PASS / COMPLETE** across scans 75–90. All pages remain `needs-review`; verified coverage is **0/16** pending independent T2/historical-glyph review.
 
-Next: **T2 review scans 75–79**.
+T2 scans **75–79** are **PASS / VERIFIED** with **7 corrections** and **0 unresolved readings**.
+
+Next: **T2 scans 80–84**.

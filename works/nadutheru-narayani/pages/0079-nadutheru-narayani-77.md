@@ -4,10 +4,10 @@ printed_page: 77
 work: "nadutheru-narayani"
 section: "நடுத்தெரு நாராயணி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; historical-glyph/source-fidelity review pending"
+transcription_method: "direct visual transcription plus independent T2 source-fidelity / historical-glyph review"
 ---
 
 விட்டாய் ? பெரிய குடும்பத்திலே தனி மரமாய் நின்று தவிக்கிறேனே; இது உனக்கு நியாயந்தானா?’’ என்று கதறினாள்.
@@ -28,13 +28,15 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 ‘‘நாராயணி ! அடியேனே என்று ரட்சிப்பாய் ! தேவி விக்ரகத்தின் முன்னேகூட அடியேன் இப்படி நமஸ்கரித்தது கிடையாது.
 
-## T1 direct-transcription notes
+## T2 source-fidelity / historical-glyph review
 
-- printed page **77** is directly visible;
-- opening `விட்டாய் ?` continues scan 78 final `...ஜீவித்திருக்க ஏன்`;
-- dialect speech `நோக்கு ... நேக்கு ... நன்னுகத் ... தவிச்சிண்டிருக்கே` is preserved without normalization;
-- in `அப்பிரதக்ஷிணமாகச்`, the middle glyph cluster is partly affected by a dark source/print blemish; this T1 reading is therefore explicitly provisional and must be rechecked in the later character-level review;
-- final quotation remains open at the physical end of scan 79 and continues on scan 80; no scan-80 text is imported here;
-- page status remains **needs-review**.
+- independent full-page source-pixel reread: **PASS**;
+- textual T2 corrections: **0**;
+- formerly provisional `அப்பிரதக்ஷிணமாகச்` is now **positively resolved / confirmed** from enlarged source pixels despite the local print blemish;
+- dialect sequence `நோக்கு ... நேக்கு ... நன்னுகத் ... தவிச்சிண்டிருக்கே` retained unchanged;
+- historical-sensitive forms including `நாணத்தால்` were re-read at enlarged resolution;
+- scan78→79 and scan79→80 continuity boundaries reconfirmed;
+- unresolved readings: **0**;
+- page status: **verified**.
 
-<!-- source physical scan: 79; printed page: 77; T1 COMPLETE; REVIEW PENDING -->
+<!-- source physical scan: 79; printed page: 77; T1 COMPLETE; T2 PASS; VERIFIED -->

@@ -4,11 +4,11 @@ Physical source span: **75–90 / 16 scans**.
 
 | Scan | Printed page(s) | Page type | Status | Note |
 |---:|:---:|---|---|---|
-| 75 | null | body / title opening | **needs-review — T1 complete** | title + illustration |
-| 76 | 74 | body | **needs-review — T1 complete** | ends `வாணச் சத்தம் அவள்` |
-| 77 | 75 | body | **needs-review — T1 complete** | continues scan76 |
-| 78 | 76 | body | **needs-review — T1 complete** | ends `...ஜீவித்திருக்க ஏன்` |
-| 79 | 77 | body | **needs-review — T1 complete** | continues scan78; open quote |
+| 75 | null | body / title opening | **verified — T2 pass** | title + illustration |
+| 76 | 74 | body | **verified — T2 pass** | ends `வாணச் சத்தம் அவள்` |
+| 77 | 75 | body | **verified — T2 pass** | continues scan76 |
+| 78 | 76 | body | **verified — T2 pass** | ends `...ஜீவித்திருக்க ஏன்` |
+| 79 | 77 | body | **verified — T2 pass** | continues scan78; open quote |
 | 80 | **78–79** | body / illustrated spread | **needs-review — T1 complete** | one physical scan contains two printed pages |
 | 81 | 80 | body | **needs-review — T1 complete** | ends `காப்புக்` |
 | 82 | 81 | body | **needs-review — T1 complete** | continues scan81; footer `க.க.—6` |
@@ -23,7 +23,7 @@ Physical source span: **75–90 / 16 scans**.
 
 Canonical page records: **16 / 16**.  
 T1 coverage: **16 / 16 COMPLETE**.  
-Verified coverage: **0 / 16**.
+Verified coverage: **5 / 16**.
 
 ## Confirmed source joins
 
@@ -38,4 +38,4 @@ Verified coverage: **0 / 16**.
 - 87→88: `உன்` → `பேச்சு`
 - 88→89: `முரட்டுத்தனமாக` → `அவளது கரங்களை இழுத்த`
 
-Next: **T2 source-fidelity / historical-glyph review**.
+T2 scans **75–79**: **PASS / VERIFIED**. Next: **T2 scans 80–84**.

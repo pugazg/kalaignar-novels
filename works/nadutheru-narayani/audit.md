@@ -4,9 +4,9 @@ Source intake: **COMPLETE**.
 Component boundary: **scans 75–90 confirmed**.  
 Canonical page records: **16 / 16**.  
 T1 page transcription: **PASS / COMPLETE — 16 / 16 physical scans**.  
-Canonical verified pages: **0 / 16**.  
-Current statuses: **16 needs-review**.  
-T2 / historical-glyph review: **NOT STARTED**.  
+Canonical verified pages: **5 / 16**.  
+Current statuses: **5 verified / 11 needs-review**.  
+T2 / historical-glyph review: **IN PROGRESS — scans 75–79 PASS**.  
 Tamil audit gate: **NOT READY**.
 
 ## T1 mapping
@@ -25,7 +25,17 @@ Tamil audit gate: **NOT READY**.
 - no assembled Tamil layer has been created;
 - no page is marked verified.
 
-## Targeted T2 review items
+## T2 batch 1 — scans 75–79
+
+- status: **PASS / COMPLETE**;
+- verified pages: **5 / 5**;
+- source-proven corrections: **7**;
+- unresolved readings: **0**;
+- scan78 historical `லை` identity at `இல்லை.`: **CONFIRMED**;
+- scan79 `அப்பிரதக்ஷிணமாகச்`: **RESOLVED / CONFIRMED**;
+- review record: [`T2_SCANS_075_079.md`](T2_SCANS_075_079.md).
+
+## Remaining T2 review items
 
 - scan79 `அப்பிரதக்ஷிணமாகச்` source blemish;
 - scan81 `பூணால் வலையில்`;
@@ -37,4 +47,4 @@ Tamil audit gate: **NOT READY**.
 
 T1 closure record: [`T1_COMPLETION.md`](T1_COMPLETION.md).
 
-**Next: T2 source-fidelity / historical-glyph review — scans 75–79 first.**
+**Next: T2 source-fidelity / historical-glyph review — scans 80–84.**

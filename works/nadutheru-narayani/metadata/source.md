@@ -14,4 +14,4 @@
 - scan90: source-visible work ending
 - source PDF committed: **No**
 
-Status: source intake **COMPLETE**; T1 canonical transcription **PASS / COMPLETE — 16 / 16 physical scans**; verified pages **0 / 16**; all records remain `needs-review` pending independent T2 / historical-glyph source-fidelity review.
+Status: source intake **COMPLETE**; T1 canonical transcription **PASS / COMPLETE — 16 / 16 physical scans**; verified pages **5 / 16**; T2 scans **75–79 PASS**, while scans **80–90** remain `needs-review` pending independent T2 / historical-glyph source-fidelity review.

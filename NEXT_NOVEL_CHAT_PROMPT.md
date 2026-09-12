@@ -1,4 +1,4 @@
-# Next Chat Prompt — நடுத்தெரு நாராயணி / T2 review scans 75–79
+# Next Chat Prompt — நடுத்தெரு நாராயணி / T2 scans 80–84
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,45 +8,38 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AU
 
 - SHA-256: `04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc`
 - edition: **முதற் பதிப்பு — 1978**
-- publisher: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**
 - work span: **75–90 / 16 physical scans**
 - source PDF committed: **No**
 
 ## Durable state
 
 - canonical page records: **16 / 16**;
-- T1 transcription: **PASS / COMPLETE — scans 75–90**;
-- verified pages: **0 / 16**;
-- statuses: **16 needs-review**;
-- scan80: **two-page illustrated spread, printed 78–79**;
-- scan90: **work ending**;
-- T2 / historical-glyph review: **NOT STARTED**;
-- assembled Tamil: **NOT STARTED**;
-- English: **NOT STARTED**.
+- T1: **PASS / COMPLETE**;
+- T2 scans 75–79: **PASS / VERIFIED**;
+- verified pages: **5 / 16**;
+- remaining needs-review: **11 / 16**;
+- T2 corrections through scan79: **7**;
+- unresolved readings through scan79: **0**;
+- assembled Tamil / English: **NOT STARTED**.
 
-Read before work:
+T2 batch-1 findings:
 
-1. `NOVEL_PROCESSING_GUIDE.md`;
-2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
-3. root `HANDOVER.md`;
-4. this prompt;
-5. `works/nadutheru-narayani/T1_COMPLETION.md`;
-6. `works/nadutheru-narayani/audit.md`;
-7. `works/nadutheru-narayani/indexes/page-map.md`;
-8. canonical pages for scans75–79.
+- scan75: `ஓடி ஆடினர்` → `ஓடி-ஆடினர்`;
+- scan76: five source corrections — `கணைகளைக் கொண்டு`, `அவரின் தேவி`, `விசினுலோ`, `பேசினுலோ`, `குகையெனத்`;
+- scan77: `நெஞ்சைவிட்டு` → `நெஞ்சை விட்டு`;
+- scan78: historical `லை` at `இல்லை.` confirmed;
+- scan79: `அப்பிரதக்ஷிணமாகச்` resolved and confirmed.
 
-## Exact next activity — T2 batch 1
+## Exact next activity
 
-Independently re-read **scans 75–79** against the T1 records.
+Independently T2-review **scans 80–84**.
 
-Priority:
+Special attention:
 
-- resolve scan79 `அப்பிரதக்ஷிணமாகச்` source blemish;
-- check every historical-glyph-sensitive character;
-- verify punctuation, paragraphing and cross-page joins;
-- preserve genuine dialect/source oddities;
-- correct only source-proven T1 errors;
-- update page status only after the review actually passes;
-- synchronize controls and commit.
+- scan80 two-page printed spread **78–79**;
+- scan81 `பூணால் வலையில்`;
+- scan82 dense dialect/caste sequence and `வைப்பு / ஒய்ப்பு / வைப்`;
+- scan84 `பதி சொல் தட்டாத`;
+- all 13 historical-glyph-sensitive families on every page.
 
-Do not start assembled Tamil or translation in this checkpoint.
+Correct only source-proven T1 errors, mark a page verified only if its full T2 pass succeeds, synchronize controls, commit, and stop before scan85.
