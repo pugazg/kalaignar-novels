@@ -23,6 +23,6 @@ Durable T1 closure: [`T1_COMPLETION.md`](T1_COMPLETION.md).
 
 All physical source scans are now represented in canonical page records. Source-specific dialect, caste/religious rhetoric, punctuation and odd forms have not been silently normalized.
 
-T2 scans **75–79**: **PASS / VERIFIED** with **7 source-proven corrections** and **0 unresolved readings**.
+T2 scans **75–79**: **PASS / VERIFIED** with **15 source-proven corrections** and **0 unresolved readings**.
 
 Next: **T2 scans 80–84**.

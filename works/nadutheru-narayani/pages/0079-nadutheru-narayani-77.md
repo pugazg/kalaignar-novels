@@ -10,7 +10,7 @@ source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
 transcription_method: "direct visual transcription plus independent T2 source-fidelity / historical-glyph review"
 ---
 
-விட்டாய் ? பெரிய குடும்பத்திலே தனி மரமாய் நின்று தவிக்கிறேனே; இது உனக்கு நியாயந்தானா?’’ என்று கதறினாள்.
+விட்டாய்? பெரிய குடும்பத்திலே தனி மரமாய் நின்று தவிக்கிறேனே; இது உனக்கு நியாயந்தானா?’’ என்று கதறினாள்.
 
 பிரார்த்தனை முடிந்தது. பிரசாதம் தர அய்யர் வந்தார். விபூதியை வாங்கி நெற்றியிலே இட்டுக்கொண்டாள். திரும்பினாள்.
 
@@ -31,11 +31,11 @@ transcription_method: "direct visual transcription plus independent T2 source-fi
 ## T2 source-fidelity / historical-glyph review
 
 - independent full-page source-pixel reread: **PASS**;
-- textual T2 corrections: **0**;
-- formerly provisional `அப்பிரதக்ஷிணமாகச்` is now **positively resolved / confirmed** from enlarged source pixels despite the local print blemish;
+- punctuation corrected to source-visible opening `விட்டாய்?`;
+- formerly provisional `அப்பிரதக்ஷிணமாகச்` is **positively resolved / confirmed** from enlarged and contrast-enhanced source pixels; the middle cluster reads `தக்ஷிண`;
 - dialect sequence `நோக்கு ... நேக்கு ... நன்னுகத் ... தவிச்சிண்டிருக்கே` retained unchanged;
-- historical-sensitive forms including `நாணத்தால்` were re-read at enlarged resolution;
-- scan78→79 and scan79→80 continuity boundaries reconfirmed;
+- historical-sensitive forms including `நாணத்தால்` re-read at enlarged resolution;
+- scan78→79 and scan79→80 boundaries reconfirmed;
 - unresolved readings: **0**;
 - page status: **verified**.
 

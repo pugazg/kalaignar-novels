@@ -29,7 +29,7 @@ Tamil audit gate: **NOT READY**.
 
 - status: **PASS / COMPLETE**;
 - verified pages: **5 / 5**;
-- source-proven corrections: **7**;
+- source-proven corrections: **15**;
 - unresolved readings: **0**;
 - scan78 historical `லை` identity at `இல்லை.`: **CONFIRMED**;
 - scan79 `அப்பிரதக்ஷிணமாகச்`: **RESOLVED / CONFIRMED**;
@@ -37,7 +37,6 @@ Tamil audit gate: **NOT READY**.
 
 ## Remaining T2 review items
 
-- scan79 `அப்பிரதக்ஷிணமாகச்` source blemish;
 - scan81 `பூணால் வலையில்`;
 - scan82 dense dialect/caste paragraph and `வைப்பு / ஒய்ப்பு / வைப்`;
 - scan84 `பதி சொல் தட்டாத`;

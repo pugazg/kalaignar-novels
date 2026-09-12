@@ -18,7 +18,7 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AU
 - T2 scans 75–79: **PASS / VERIFIED**;
 - verified pages: **5 / 16**;
 - remaining needs-review: **11 / 16**;
-- T2 corrections through scan79: **7**;
+- T2 corrections through scan79: **15**;
 - unresolved readings through scan79: **0**;
 - assembled Tamil / English: **NOT STARTED**.
 
@@ -26,7 +26,9 @@ T2 batch-1 findings:
 
 - scan75: `ஓடி ஆடினர்` → `ஓடி-ஆடினர்`;
 - scan76: five source corrections — `கணைகளைக் கொண்டு`, `அவரின் தேவி`, `விசினுலோ`, `பேசினுலோ`, `குகையெனத்`;
-- scan77: `நெஞ்சைவிட்டு` → `நெஞ்சை விட்டு`;
+- scan77: `நெஞ்சைவிட்டு` → `நெஞ்சை விட்டு`; plus `என்ற செய்தி` → `என்று செய்தி`, `உயிர் பெற்று போன்ற` → `உயிர் பெற்றது போன்ற`, and `பருவம் - பருவம்` → `புருவம் - புருவம்`;
+- scan78: `ஆண்டுகளே` → `ஆண்டுகளேனோ`, `வைத்து படைத்துக்` → `வைத்துப் படைத்துக்`, paragraph punctuation after `திருப்பியிருந்தனர்`, and `மெய்மறந்து` → `மெய்யும் மறந்து`;
+- scan79: opening punctuation `விட்டாய் ?` → `விட்டாய்?`;
 - scan78: historical `லை` at `இல்லை.` confirmed;
 - scan79: `அப்பிரதக்ஷிணமாகச்` resolved and confirmed.
 
