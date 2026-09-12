@@ -31,11 +31,11 @@ Open:
 - SHA-256 checksum;
 - complete-source / terminal reconciliation against a full **198-page** representation;
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
-- T2 historical-glyph/source-form review for scans 15–19;
+- T3 final source-fidelity review for scans 15–19;
 - T1 onward from scan 20;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **verified through scan 14**; scans **15–19 have T1 complete and remain `needs-review`**. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **verified through scan 14**; scans **15–19 have T1/T2 complete and remain `needs-review` pending T3**. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -148,9 +148,10 @@ Structural/source observations:
 
 Checkpoint: [`T1_BATCH_010_014.md`](T1_BATCH_010_014.md).
 
-## T1 scans 15–19
+## T1/T2 scans 15–19
 
-Result: **COMPLETE / PASS — 5/5 canonical records created as `needs-review`**.
+T1: **COMPLETE / PASS — 5/5 canonical records**.  
+T2: **COMPLETE / PASS — 5/5; 5 corrections; unresolved historical/source-form readings 0**.
 
 | Scan | Printed page | Record | T1 |
 |---:|---:|---|---|
@@ -165,10 +166,20 @@ Structural/source observations:
 - scan15 begins printed page **13** and contains a classical quotation followed by explicit attribution to இளங்கோவடிகள் / சிலப்பதிகாரம்;
 - scan17 ends `தீச்சட்டி`; scan18 continues `சிங்காரந்தான்`;
 - scan19 ends `காலையில்`; scan20 was not opened;
-- difficult historical/source-form targets were recorded rather than context-corrected.
+- T2 resolved the difficult historical/source-form targets from source pixels only.
+
+T2 correction ledger:
+
+- scan15 — `தவறுமல்` → `தவறாமல்` — historical `றா`;
+- scan16 — `எதுவுமே யில்ல` → `எதுவுமே யில்லை` — historical `லை`;
+- scan16 — `யாருமில்லதான்` → `யாருமில்லைதான்` — historical `லை`;
+- scan18 — `வேணுங்கிறன்` → `வேணுங்கிறான்` — historical `றா`;
+- scan19 — `என்னைத் அம்மமேலே` → `என்னத்த அம்மமேலே` — direct source-form correction.
+
+Unresolved historical/source-form readings after T2: **0**.
 
 Checkpoint: [`T1_BATCH_015_019.md`](T1_BATCH_015_019.md).
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph/source-form review for scans 15–19 only** from the attached PDF/source pixels. Re-read all five complete scans, keep all pages `needs-review`, update controls, commit, and stop before scan20. The full-source/terminal issue remains deferred.
+Perform **T3 final source-fidelity review for scans 15–19 only** from the attached PDF/source pixels. Check full-page fidelity, promote only pages that pass, update controls, commit, and stop before scan20. The full-source/terminal issue remains deferred.
