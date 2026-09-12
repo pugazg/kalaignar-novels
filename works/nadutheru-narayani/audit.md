@@ -7,7 +7,7 @@ T1 page transcription: **PASS / COMPLETE — 16 / 16 physical scans**.
 Canonical verified pages: **16 / 16**.  
 Current statuses: **16 verified / 0 needs-review**.  
 T2 / historical-glyph review: **PASS / COMPLETE — scans 75–90**.  
-Tamil audit gate: **READY FOR WHOLE-WORK AUDIT / NOT YET PASSED**.
+Tamil audit gate: **PASS / COMPLETE**.
 
 ## T1 mapping
 
@@ -63,6 +63,27 @@ Cumulative T2 through scan84: **10 / 16 pages verified, 28 corrections, 0 unreso
 
 Cumulative T2 through scan90: **16 / 16 pages verified, 40 corrections, 0 unresolved readings**.
 
+## Whole-work Tamil source audit
+
+- status: **PASS / COMPLETE**;
+- controlling physical scans independently reconciled: **75–90 / 16 of 16**;
+- inventory / order: **PASS — no missing or duplicate canonical span**;
+- printed-page mapping: **PASS**;
+- canonical pages: **16 / 16 VERIFIED**;
+- cumulative T2 corrections rechecked: **40 / 40**;
+- residual canonical corrections discovered by whole-work audit: **0**;
+- unresolved historical glyphs: **0**;
+- unresolved source readings: **0**;
+- silent modernization / normalization detected: **0**;
+- scan80 printed **78–79** two-page illustrated spread handling: **PASS**;
+- scan90 narrative ending / terminal rule handling: **PASS**;
+- cross-scan continuities: **PASS — 11 / 11 listed joins reconfirmed**;
+- source PDF repository inclusion: **PASS — excluded**;
+- documentation/control cleanup: **3 stale T1-note statements corrected; canonical Tamil unchanged**;
+- full record: [`FULL_TAMIL_SOURCE_AUDIT.md`](FULL_TAMIL_SOURCE_AUDIT.md).
+
+**Tamil source layer verdict: PASS / COMPLETE.**
+
 T1 closure record: [`T1_COMPLETION.md`](T1_COMPLETION.md).
 
-**Next: whole-work Tamil source audit — independently re-read and reconcile scans 75–90 before assembled Tamil.**
+**Next: assembled Tamil reading layer from the audited scans 75–90.**

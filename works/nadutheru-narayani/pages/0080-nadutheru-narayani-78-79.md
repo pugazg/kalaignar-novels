@@ -29,7 +29,7 @@ transcription_method: "direct visual transcription from source scan; independent
 - one physical scan contains printed pages **78 and 79**;
 - scan79→80 join: scan79 ends `தேவி விக்ரகத்தின் முன்னேகூட அடியேன் இப்படி நமஸ்கரித்தது கிடையாது.`; printed page78 continues `நீதான் எனக்குத் தேவி! என்னை ஏற்றுக்கொள்!`;
 - the large two-page illustration is source material but is not narrated as prose;
-- historical-glyph / source-fidelity review remains pending;
+- historical-glyph / source-fidelity review was pending at T1 and is now complete at T2;
 - page status is **verified** after the independent T2 source-fidelity / historical-glyph pass.
 
 

@@ -29,7 +29,7 @@ transcription_method: "direct visual transcription from source scan; independent
 ## T1 direct-transcription notes
 
 - printed page **82** directly read;
-- source wording `தாமகர்த்தா`, `சூத்திரச்சியோடு`, and the colloquial dialogue are intentionally unnormalized at T1;
+- T1 provisionally read `தாமகர்த்தா`; T2 source-resolved it to `தர்மகர்த்தா`. Source `சூத்திரச்சியோடு` and the colloquial dialogue remain intentionally unnormalized;
 - final quoted phrase continues semantically on scan84;
 - page status is **verified** after the independent T2 source-fidelity / historical-glyph pass.
 

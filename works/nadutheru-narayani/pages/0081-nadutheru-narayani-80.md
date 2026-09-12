@@ -28,7 +28,7 @@ transcription_method: "direct visual transcription from source scan; independent
 
 - printed page **80** directly read;
 - scan80→81 dialogue continuity is preserved;
-- source-specific forms `பூணால் வலையில்` and `கோயில் குருக்களேத்` are retained at T1 without normalization;
+- T1 retained `பூணால் வலையில்` and provisionally read `கோயில் குருக்களேத்`; T2 confirmed the former and source-corrected the latter to `கோயில் குருக்களைத்`;
 - final fragment `கோயில் பிரகாரத்திலே காப்புக்` continues on scan82;
 - page status is **verified** after the independent T2 source-fidelity / historical-glyph pass.
 

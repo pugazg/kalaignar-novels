@@ -39,6 +39,7 @@ T2 verified coverage: **16 / 16 COMPLETE**.
 - 88→89: `முரட்டுத்தனமாக` → `அவளது கரங்களை இழுத்த`
 - 89→90: court verdict → `ஆயுள் தண்டனை!`
 
-T2 scans **75–90**: **PASS / COMPLETE / 16 of 16 verified**.
+T2 scans **75–90**: **PASS / COMPLETE / 16 of 16 verified**.  
+Whole-work Tamil source audit: **PASS / COMPLETE — 0 residual canonical corrections / 0 unresolved readings**.
 
-**Next: whole-work Tamil source audit across scans 75–90.**
+**Next: assembled Tamil reading layer.**

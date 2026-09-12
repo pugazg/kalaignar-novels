@@ -29,23 +29,29 @@
 - scan80 is a **two-page illustrated spread, printed 78–79**;
 - scan90 is the source-visible work ending;
 - T2 / historical-glyph source-fidelity review: **PASS / COMPLETE — scans 75–90**;
-- Tamil audit gate: **READY FOR WHOLE-WORK AUDIT / NOT YET PASSED**.
+- whole-work Tamil source audit: **PASS / COMPLETE — 0 residual canonical corrections / 0 unresolved**;
+- Tamil source layer: **PASS / COMPLETE**;
+- assembled Tamil: **NOT STARTED / NEXT**.
 
 T1 closure: `works/nadutheru-narayani/T1_COMPLETION.md`.
 
-T2 is now **PASS / COMPLETE across scans 75–90**. Batch totals: scans 75–79 = **15 corrections**, scans 80–84 = **13**, scans 85–90 = **12**; cumulative = **40 source-proven corrections / 0 unresolved readings**. Scan88 `ஒரு கடாரம் பத்திருக்கு` is confirmed unchanged. Scan89 is source-resolved to `பகற் கொள்ளைக்காரனைப்`, `டுமீல்! டுமீல்!`, and `அவர்கள் அய்யரை வீரராக்கிவிட்டார்கள்`. Scan86 confirms genuine colloquial `தல தப்பாதடி, தல தப்பாது`, not a faint historical `லை` form. All 16 canonical page records are now verified.
+T2 is **PASS / COMPLETE across scans 75–90**: **40 source-proven corrections / 0 unresolved readings / 16 of 16 pages verified**. The independent whole-work Tamil source audit has also **PASSED** with **0 residual canonical corrections / 0 unresolved historical glyphs / 0 unresolved source readings**. All 11 recorded cross-scan continuities, scan80's printed 78–79 illustrated spread, scan90's source-visible ending, protected source oddities, and source-PDF exclusion were reconfirmed.
+
+Whole-work audit record: `works/nadutheru-narayani/FULL_TAMIL_SOURCE_AUDIT.md`.
 
 ## Exact next activity
 
-Perform the **whole-work Tamil source audit — scans 75–90**.
+Create the **assembled Tamil reading layer** from the audited canonical pages.
 
-For the whole-work audit:
+Requirements:
 
-1. independently reconcile all **16 physical scans (75–90)** against the now-verified canonical records;
-2. confirm inventory/order, printed-page mapping, scan80 two-page spread, scan90 work ending and all cross-scan joins;
-3. recheck the cumulative **40 T2 corrections** and protected source oddities;
-4. verify there are no silent modernizations, duplicate/missing spans, unresolved historical glyphs or source readings;
-5. create/update the durable whole-work audit record and mark the Tamil source layer PASS only if the full gate succeeds;
-6. commit the bounded audit batch and stop before assembled Tamil.
+1. derive only from `works/nadutheru-narayani/pages/` — do not re-transcribe from the PDF;
+2. use one continuous section unless the source itself supplies a genuine structural split;
+3. preserve reversible source provenance for scans **75–90**;
+4. join only the confirmed page-boundary continuities already recorded in `indexes/page-map.md`;
+5. keep scan80's illustration out of prose while preserving its page provenance;
+6. preserve all source spelling, punctuation, dialect, rhetoric and protected oddities;
+7. preserve scan90's work ending and terminal rule;
+8. create/update `sections/README.md` and the assembled Tamil section, run a consistency gate against all 16 canonical records, synchronize controls, commit, and stop before English translation planning.
 
-Do not create assembled Tamil or English translation yet.
+Do not begin English translation yet.
