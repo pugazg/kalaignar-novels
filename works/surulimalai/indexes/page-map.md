@@ -30,11 +30,11 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 22 | 20 | body / chapter 1→2 transition | **verified** | T1/T2/T3 PASS; centered chapter no. 2 confirmed |
 | 23 | 21 | body / chapter 2 | **verified** | T1/T2/T3 PASS; source spacing/forms retained |
 | 24 | 22 | body / chapter 2 | **verified** | T1/T2/T3 PASS; ends `அதைத்`; scan25 not used |
-| 25 | — | unclassified | **not-started** | direct visual classification pending |
-| 26 | — | unclassified | **not-started** | direct visual classification pending |
-| 27 | — | unclassified | **not-started** | direct visual classification pending |
-| 28 | — | unclassified | **not-started** | direct visual classification pending |
-| 29 | — | unclassified | **not-started** | direct visual classification pending |
+| 25 | 23 | body / chapter 2 | **needs-review** | T1 complete; begins `தூக்குவதும்`; ends `வேகத்` |
+| 26 | 24 | body / chapter 2 | **needs-review** | T1 complete; begins `தில்`; direct speech crosses boundary; ends `எரிந்து விழுந்து` |
+| 27 | 25 | body / chapter 2 | **needs-review** | T1 complete; closes carried speech; ends `ஏதாவது` |
+| 28 | 26 | body / chapter 2 | **needs-review** | T1 complete; ends `“யாரது? நில்!” என்று கத்தினாள்.` |
+| 29 | 27 | body / chapter 2 | **needs-review** | T1 complete; night scene continues; scan30 not used |
 | 30 | — | unclassified | **not-started** | direct visual classification pending |
 | 31 | — | unclassified | **not-started** | direct visual classification pending |
 | 32 | — | unclassified | **not-started** | direct visual classification pending |
@@ -162,12 +162,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records: **24 total — 24 `verified`**;
-- body T1: **scans 5–24 COMPLETE / PASS**;
-- body T2: **scans 5–24 COMPLETE / PASS; scans 20–24 = 0 corrections; unresolved 0**;
+- page records: **29 total — 24 `verified` + 5 `needs-review`**;
+- body T1: **scans 5–24 VERIFIED; scans 25–29 T1 COMPLETE / PASS — 5/5 `needs-review`**;
+- body T2: **scans 5–24 COMPLETE / PASS; scans 25–29 NEXT**;
 - body T3: **scans 5–19 COMPLETE / PASS / VERIFIED; scans 15–19 = 0 corrections**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **process T1 scans 25–29 only; create five `needs-review` canonical records and stop before scan30. Full-source/terminal reconciliation remains deferred.**
+Exact next: **perform T2 independent historical-glyph/source-form review for scans 25–29 only; keep all five `needs-review` and stop before scan30. Full-source/terminal reconciliation remains deferred.**

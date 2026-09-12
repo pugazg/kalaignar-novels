@@ -21,9 +21,9 @@
 - body opening: **scan 5 VERIFIED**;
 - terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
 - prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
-- canonical body transcription: **scans 5–24 T1/T2/T3 COMPLETE / PASS — 20/20 VERIFIED**;
-- historical-glyph review: **scans 5–24 T2 COMPLETE / PASS; scans 20–24 = 0 corrections; unresolved 0**;
-- final source-fidelity review: **scans 5–24 T3 COMPLETE / PASS / VERIFIED; scans 20–24 = 0 corrections**;
+- canonical body transcription: **scans 5–24 VERIFIED; scans 25–29 T1 COMPLETE / PASS — 5/5 `needs-review`**;
+- historical-glyph review: **scans 5–24 T2 COMPLETE / PASS; scans 25–29 T2 NEXT**;
+- final source-fidelity review: **scans 5–24 T3 COMPLETE / PASS / VERIFIED; scans 25–29 T3 PENDING**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
 - English translation: **NOT STARTED / BLOCKED**.
 
@@ -58,7 +58,7 @@ Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Start the next bounded body batch: **T1 scans 25–29 only** from the attached source pixels. Create five canonical records as `needs-review`, update controls, commit, and stop before scan30. The 198-page ingestion discrepancy remains deferred.
+Perform **T2 independent historical-glyph/source-form review for scans 25–29 only** from the attached source pixels. Re-read all five pages independently, keep all records `needs-review`, update controls, commit, and stop before scan30. The 198-page ingestion discrepancy remains deferred.
 
 Do not start English or assembled Tamil work.
 
@@ -69,4 +69,5 @@ Terminal audit: [`TERMINAL_BOUNDARY_AUDIT.md`](TERMINAL_BOUNDARY_AUDIT.md).
 Completed T1/T2/T3 checkpoint: [`T1_BATCH_005_009.md`](T1_BATCH_005_009.md).  
 Completed T1/T2/T3 checkpoint: [`T1_BATCH_010_014.md`](T1_BATCH_010_014.md).  
 Completed T1/T2/T3 checkpoint: [`T1_BATCH_015_019.md`](T1_BATCH_015_019.md).  
-Completed T1/T2/T3 checkpoint: [`T1_BATCH_020_024.md`](T1_BATCH_020_024.md).
+Completed T1/T2/T3 checkpoint: [`T1_BATCH_020_024.md`](T1_BATCH_020_024.md).  
+Active T1 checkpoint: [`T1_BATCH_025_029.md`](T1_BATCH_025_029.md).

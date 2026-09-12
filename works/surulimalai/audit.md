@@ -31,10 +31,11 @@ Open:
 - SHA-256 checksum;
 - complete-source / terminal reconciliation against a full **198-page** representation;
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
-- T1 onward from scan 25;
+- T2 historical-glyph/source-form review for scans 25–29;
+- T1 onward from scan 30;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **verified through scan 24**. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **verified through scan 24**; scans **25–29 have T1 complete and remain `needs-review`**. No external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -246,6 +247,31 @@ All scans 20–24 are now **VERIFIED**.
 
 Checkpoint: [`T1_BATCH_020_024.md`](T1_BATCH_020_024.md).
 
+## T1 scans 25–29
+
+Result: **COMPLETE / PASS — 5/5 canonical records created as `needs-review`**.
+
+| Scan | Printed page | Record | T1 |
+|---:|---:|---|---|
+| 25 | 23 | `pages/0025-page-23.md` | PASS / needs-review |
+| 26 | 24 | `pages/0026-page-24.md` | PASS / needs-review |
+| 27 | 25 | `pages/0027-page-25.md` | PASS / needs-review |
+| 28 | 26 | `pages/0028-page-26.md` | PASS / needs-review |
+| 29 | 27 | `pages/0029-page-27.md` | PASS / needs-review |
+
+Structural/source observations:
+
+- scan24→25: `அதைத்` / `தூக்குவதும்`;
+- scan25→26: `வேகத்` / `தில்`;
+- scan26 direct speech crosses to scan27 and closes after `மைனாவாம்!`;
+- scan27 ends `ஏதாவது`; scan28 begins `எதிரொலி`;
+- scan28 ends with `“யாரது? நில்!” என்று கத்தினாள்.`;
+- scan29 continues the night scene and ends after `அவனை ஒருமுறை பார்த்தாள்.`;
+- scan30 was not opened;
+- difficult historical/source-form and punctuation clusters are explicitly queued for T2.
+
+Checkpoint: [`T1_BATCH_025_029.md`](T1_BATCH_025_029.md).
+
 ## Exact next activity
 
-Process **T1 scans 25–29 only** from the attached PDF/source pixels. Create five `needs-review` canonical page records, update controls, commit, and stop before scan30. The full-source/terminal issue remains deferred.
+Perform **T2 independent historical-glyph/source-form review for scans 25–29 only** from the attached PDF/source pixels. Re-read all five complete scans, keep all pages `needs-review`, update controls, commit, and stop before scan30. The full-source/terminal issue remains deferred.

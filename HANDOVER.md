@@ -22,40 +22,55 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 ## Durable state
 
 - scans **5–24 T1/T2/T3: VERIFIED**;
-- scans **20–24 T2 corrections: 0**;
-- scans **20–24 T3 corrections: 0**;
-- unresolved historical/source-form readings: **0**;
-- visible printed pages for scans20–24: **18, 19, 20, 21, 22**;
-- scan22 contains a centered chapter **2** after two closing paragraphs from the preceding scene;
-- scan25 has not been opened;
+- scans **25–29 T1: COMPLETE / PASS — 5/5 canonical records, all `needs-review`**;
+- scans **25–29 T2: NEXT**;
+- scans **25–29 T3: PENDING**;
+- visible printed pages for scans25–29: **23, 24, 25, 26, 27**;
+- all five scans continue chapter **2**;
+- scan30 has not been opened;
 - terminal/full-198-page issue remains **DEFERRED**.
 
-## T3 result — scans 20–24
+## Scans 25–29 structural observations
 
-- complete full-page source-fidelity recheck: **PASS 5/5**;
-- additional T3 text corrections: **0**;
-- omissions / duplicate text: **0 / 0**;
-- scan20 unusual nested quotation punctuation retained as source-exact;
-- scan21 isolated bottom-left `2` remains non-body / printer-signature material;
-- scan22 chapter transition re-confirmed: first two paragraphs close the preceding scene, then centered **2** begins chapter 2;
-- scan23 source spacing/forms and quoted `‘அதைக்’` retained;
-- scan24 terminal `அதைத்` re-confirmed; scan25 was not used;
-- all five canonical records promoted to **`verified`**.
+- scan24 ends `அதைத்`; scan25 begins `தூக்குவதும்`;
+- scan25 ends `வேகத்`; scan26 begins `தில்`;
+- scan26 direct speech continues onto scan27 and closes after `மைனாவாம்!`;
+- scan27 ends `ஏதாவது`; scan28 begins `எதிரொலி`;
+- scan28 ends with `“யாரது? நில்!” என்று கத்தினாள்.`;
+- scan29 continues the same night scene and ends after `வியப்பை விழிகளில் நிறைத்துக் கொண்டு அவனை ஒருமுறை பார்த்தாள்.`;
+- scan30 was not opened or processed.
+
+## T2 mandatory re-read targets — scans 25–29
+
+Audit all historical families occurrence-by-occurrence:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+Priority clusters:
+
+- scan25 — `பசியெடுத்தக்`, `“காதல்”`, `“சோச்சி”`, `“மியாவ்”`, terminal `வேகத்`;
+- scan26 — `“களுக்”`, `அபசகுனம்`, `காப்பாத்தும்மா`, `அங்குமிங்கும்`, `நிர்வாகியொருவரிடம்`, `விபரங் கேட்கச்`;
+- scan27 — `அடுத்தவீட்டு எதிர்த்த வீட்டுப்`, `பெண்களோடுகூட`, `“சிடு மூஞ்சி”`, `வேண்டிய மட்டும்`, `தாழ்ப்பாள்தான்`;
+- scan28 — `“ஸ்! அதான் தின்னுட்டியே... தூங்கு! தூங்கு!”`, `பிறகேன்`, `நா எழவில்லை`, `பள பள வென்று`, `விருட்டெனப்`;
+- scan29 — `சாவதானமாக`, `அவளையறியாமல்`, `அதிர்ச்சியிலேகூட`, `யாருமில்லை`, `எனத்தெரிந்த`, `நாக்கு குழறிற்று`, `திடும் பிரவேசத்தால்`, and the source dash/quotation structures.
+
+No contextual modernization is permitted. Attached source pixels control.
 
 ## Exact next activity
 
-Process **Tamil T1 scans 25–29 only**.
+Perform **Tamil T2 independent historical-glyph/source-form review for scans 25–29 only**.
 
 Requirements:
 
-1. attached PDF/source pixels are controlling;
-2. direct visual transcription only;
-3. no external transcription and no OCR authority;
-4. record only directly visible printed-page numbers;
-5. preserve source spelling, punctuation, paragraphing and historical Tamil glyph identity;
-6. create five canonical page records with `status: needs-review`;
-7. update page map, work README, audit, handover and next-chat prompt;
-8. commit and **stop before scan30**;
-9. terminal/full-198-page reconciliation remains deferred.
+1. attached PDF/source pixels only;
+2. independently re-read every complete scan;
+3. explicitly audit all 13 historical glyph families;
+4. no external transcription authority, no global replacement, no grammar/context correction;
+5. record every source-supported correction explicitly;
+6. retain genuine unusual source forms;
+7. keep all five page records `needs-review`; T3 remains separate;
+8. update `T1_BATCH_025_029.md`, page map, README, audit, handover and next-chat prompt;
+9. commit and **stop before scan30**;
+10. full-source/terminal reconciliation remains deferred.
 
 Source PDF must not be committed.
