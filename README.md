@@ -8,8 +8,8 @@
 - source intake: **REGISTERED / IN PROGRESS**;
 - front matter scans 1–4: **VERIFIED**;
 - scan 5: **body opening confirmed**;
-- body T1: **scans 5–14 COMPLETE / PASS**;
-- body T2: **scans 5–14 COMPLETE / PASS; scans 10–14 = 2 corrections; unresolved 0**;
+- body T1: **scans 5–14 VERIFIED; scans 15–19 COMPLETE / PASS — 5/5 `needs-review`**;
+- body T2: **scans 5–14 COMPLETE / PASS; scans 15–19 NEXT**;
 - body T3: **scans 5–14 COMPLETE / PASS / VERIFIED; scans 10–14 = 3 corrections**;
 - source-ingestion status: **DEGRADED IN THIS CHAT — Files reports `num_pages: 150` for a source the user confirms is 198 pages**;
 - prior 150-page scan→print reconciliation: **RETRACTED / INVALID**;
@@ -39,7 +39,7 @@
 
 Closure record: `collections/arumbu-1978/PARATEXT_CLOSURE.md`.
 
-Exact next action: **process சுருளிமலை T1 scans 15–19 only from the attached source; create five `needs-review` canonical records, commit, and stop before scan20. The 198-page ingestion issue remains deferred.**
+Exact next action: **perform சுருளிமலை T2 independent historical-glyph/source-form review for scans 15–19 only; keep all five records `needs-review`, commit, and stop before scan20. The 198-page ingestion issue remains deferred.**
 
 ## Completed works
 

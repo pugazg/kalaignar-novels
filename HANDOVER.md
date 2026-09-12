@@ -28,53 +28,53 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 - front matter scans **1–4: VERIFIED**;
 - scans **5–9 T1/T2/T3: COMPLETE / PASS — 5/5 VERIFIED**;
 - scans **10–14 T1/T2/T3: COMPLETE / PASS — 5/5 VERIFIED**;
-- scans **10–14 T2 corrections: 2**;
-- scans **10–14 T3 corrections: 3**;
-- scans **10–14 unresolved historical/source-form readings: 0**;
-- visible printed pages: **scan10=8, scan11=9, scan12=10, scan13=11, scan14=—**;
-- scan14 centered **1** is a chapter number, not a printed page number;
-- terminal mapping based on the truncated 150-page parser view: **INVALIDATED**;
+- scans **15–19 T1: COMPLETE / PASS — 5/5 canonical records, all `needs-review`**;
+- scans **15–19 T2: NEXT**;
+- scans **15–19 T3: PENDING**;
+- visible printed pages for scans15–19: **13, 14, 15, 16, 17**;
+- terminal mapping based on truncated parser view: **INVALIDATED**;
 - terminal boundary: **DEFERRED / UNKNOWN**;
 - assembled Tamil / English: **BLOCKED**.
 
-## Corrections — scans 10–14
+## Scans 15–19 structural observations
 
-T2:
+- all five scans continue chapter **1**;
+- scan15 contains a classical quotation followed by source-printed attribution to இளங்கோவடிகள் / சிலப்பதிகாரம்;
+- scan17 ends `தீச்சட்டி`; scan18 begins `சிங்காரந்தான்`;
+- scan19 ends `காலையில்`;
+- scan20 has **not** been opened or processed.
 
-- scan12 — `சிறிதுமில்லாதான்` → `சிறிதுமில்லைதான்`;
-- scan14 — `வேய்ங்குழலில்` → `வேய்குழலில்`.
+## T2 mandatory re-read targets — scans 15–19
 
-T3:
+Check all historical families occurrence-by-occurrence:
 
-- scan10 — `அவர்களே வீட்டுக்குள் ஓடச் செய்யும்!` → `அவர்களை வீட்டுக்குள் ஓடச் செய்யும்!`;
-- scan12 — `எவ்வளவு அமைதியாக யார் யாருக்கும் தெரியாமல்` → `எவ்வளவு அமைதியாக யாருக்கும் தெரியாமல்`;
-- scan12 — `கதிரவன் நீராவியாக்குவது,` → `கதிரவன் நீராவியாக்குவதும்,`.
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Source-specific forms retained after T2/T3 include `வாதீன`, `அவளத் தேவதையின்`, `அடி யெடுத்து`, `கண்ட தில்லை`, `இல்லை யெனப்`, `ஒரு பைத்தியத்தை மகனைத்`, `கண்டு பிடித்தான பிறகு`, and `செய்கின்றன வென்று`.
+Priority clusters:
 
-## Structural observations
+- scan15 — opening quotation: `கேடின்று`, `ஈர நிலத்தின்`, `வருவின்று`; also `தவறுமல்`, `ஆந்தைப்பாடினுள்`, `வயப்படுத்தும்`;
+- scan16 — `எதுவுமே யில்ல`, `யாருமில்லதான்`, `அவைகளுக் கெல்லாம்`, `விரும்ப வில்லையோ`;
+- scan17 — `கிடாரங்காய்`, `குழலூதேன்`, `வாண்ணே`, `காணேம்`, `அதேயேன்`;
+- scan18 — `வேணுங்கிறன்`, `இன்னைக் குத்தான்`, `அதுக் குத்தான்`, `கனியா குறிச்சி`, `தொடர்ந்தாப் போலே`, `எதிர்த்தாப்போல`;
+- scan19 — `என்னைத் அம்மமேலே`, `இல்லேன்னு`, `‘களுக்’ குன்னு`, `மறைஞ்சுட்டா`.
 
-- scan10 begins `குழல்`, physically continuing scan9 terminal `புல்லாங்`;
-- scan12 ends `எடுப்பார்`; scan13 begins `கைப்பிள்ளை!`;
-- scan13 ends `போவர்` without added punctuation;
-- scan14 begins the main chapter layer with large `சுருளிமலை` and chapter number **1**;
-- later blue/purple annotations on scans11 and 14 remain excluded;
-- scan15 has **not** been opened or processed.
+Do not use context to modernize or repair these forms. Source pixels control.
 
 ## Exact next activity
 
-Process **Tamil T1 scans 15–19 only**.
+Perform **Tamil T2 independent historical-glyph/source-form review for scans 15–19 only**.
 
 Requirements:
 
-1. attached PDF/source pixels are controlling;
-2. direct visual transcription only;
-3. no external transcription and no OCR authority;
-4. record only directly visible printed-page numbers;
-5. preserve source spelling, punctuation, paragraphing and historical Tamil glyph identity;
-6. create five canonical page records with `status: needs-review`;
-7. update page map, work README, audit, handover and next-chat prompt;
-8. commit and **stop before scan20**;
-9. terminal/full-198-page reconciliation remains deferred.
+1. attached PDF/source pixels only;
+2. independently re-read every complete scan;
+3. explicitly audit all 13 historical glyph families;
+4. no OCR authority, no global replacement, no grammar/context correction;
+5. record every source-supported correction explicitly;
+6. retain genuine unusual source forms;
+7. keep all five page records `needs-review`; T3 remains separate;
+8. update `T1_BATCH_015_019.md`, page map, README, audit, handover and next-chat prompt;
+9. commit and **stop before scan20**;
+10. full-source/terminal reconciliation remains deferred.
 
 Source PDF must not be committed.

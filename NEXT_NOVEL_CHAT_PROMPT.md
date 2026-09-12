@@ -1,4 +1,4 @@
-# Next Chat Prompt — சுருளிமலை / T1 scans 15–19
+# Next Chat Prompt — சுருளிமலை / T2 scans 15–19
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/surulimalai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -15,36 +15,34 @@ Attached `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`.
 - completeness/terminal issue remains **DEFERRED**;
 - source PDF committed: **No**.
 
-## Durable completed state
+## Durable state
 
-Scans **5–9**: T1/T2/T3 **VERIFIED**.
+Scans **5–14** are T1/T2/T3 **VERIFIED**.
 
-Scans **10–14**:
+Active checkpoint: `works/surulimalai/T1_BATCH_015_019.md`.
+
+Scans **15–19**:
 
 - T1: **COMPLETE / PASS — 5/5**;
-- T2: **COMPLETE / PASS — 5/5**;
-- T3: **COMPLETE / PASS — 5/5 VERIFIED**;
-- T2 corrections: **2**;
-- T3 corrections: **3**;
-- unresolved historical/source-form readings: **0**;
-- visible printed pages: **8, 9, 10, 11, —**;
-- scan14 chapter number: **1**;
-- scan15 has not been opened.
-
-Completed checkpoint: `works/surulimalai/T1_BATCH_010_014.md`.
+- canonical records: **5/5 `needs-review`**;
+- visible printed pages: **13, 14, 15, 16, 17**;
+- T2: **NEXT**;
+- T3: **PENDING**;
+- scan20 has not been opened.
 
 ## Exact next activity
 
-Process **T1 scans 15–19 only**:
+Perform **T2 independent historical-glyph/source-form review for scans 15–19 only**:
 
-- attached PDF/source pixels only;
-- direct visual transcription;
-- no external website/source transcription;
-- no OCR guesswork as authority;
-- preserve source spelling, punctuation, paragraphing and historical glyph identity;
-- record visible printed-page numbers only;
-- create five canonical page records as `needs-review`;
-- update page map, README, audit, handover and this next-chat prompt;
-- commit and **stop before scan20**.
+- attached source pixels only;
+- independently re-read all five full pages;
+- explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- no OCR authority, global replacement, or contextual modernization;
+- re-check all difficult clusters recorded in `T1_BATCH_015_019.md`;
+- record source-supported corrections explicitly;
+- leave all five pages `needs-review`;
+- do not start T3;
+- update controls and commit;
+- **stop before scan20**.
 
 The 198-page ingestion/terminal-boundary issue remains deferred.

@@ -31,10 +31,11 @@ Open:
 - SHA-256 checksum;
 - complete-source / terminal reconciliation against a full **198-page** representation;
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
-- T1 onward from scan 15;
+- T2 historical-glyph/source-form review for scans 15–19;
+- T1 onward from scan 20;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **verified through scan 14**. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **verified through scan 14**; scans **15–19 have T1 complete and remain `needs-review`**. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -147,6 +148,27 @@ Structural/source observations:
 
 Checkpoint: [`T1_BATCH_010_014.md`](T1_BATCH_010_014.md).
 
+## T1 scans 15–19
+
+Result: **COMPLETE / PASS — 5/5 canonical records created as `needs-review`**.
+
+| Scan | Printed page | Record | T1 |
+|---:|---:|---|---|
+| 15 | 13 | `pages/0015-page-13.md` | PASS / needs-review |
+| 16 | 14 | `pages/0016-page-14.md` | PASS / needs-review |
+| 17 | 15 | `pages/0017-page-15.md` | PASS / needs-review |
+| 18 | 16 | `pages/0018-page-16.md` | PASS / needs-review |
+| 19 | 17 | `pages/0019-page-17.md` | PASS / needs-review |
+
+Structural/source observations:
+
+- scan15 begins printed page **13** and contains a classical quotation followed by explicit attribution to இளங்கோவடிகள் / சிலப்பதிகாரம்;
+- scan17 ends `தீச்சட்டி`; scan18 continues `சிங்காரந்தான்`;
+- scan19 ends `காலையில்`; scan20 was not opened;
+- difficult historical/source-form targets were recorded rather than context-corrected.
+
+Checkpoint: [`T1_BATCH_015_019.md`](T1_BATCH_015_019.md).
+
 ## Exact next activity
 
-Process **T1 scans 15–19 only** from the attached PDF/source pixels. Create five `needs-review` canonical page records, update controls, commit, and stop before scan20. The full-source/terminal issue remains deferred.
+Perform **T2 independent historical-glyph/source-form review for scans 15–19 only** from the attached PDF/source pixels. Re-read all five complete scans, keep all pages `needs-review`, update controls, commit, and stop before scan20. The full-source/terminal issue remains deferred.
