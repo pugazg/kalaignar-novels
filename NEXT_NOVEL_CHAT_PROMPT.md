@@ -1,40 +1,51 @@
-# Next Chat Prompt — Kalaignar Novels Archive / register next source
+# Next Chat Prompt — சுருளிமலை / terminal-boundary intake audit
 
-Continue in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/surulimalai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Latest completed source
+## Controlling source
 
-The 1978 `அரும்பு` compilation is now **COLLECTION ARCHIVAL CLOSED**.
+`TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 
-- controlling source: `TVA_BOK_0064361_அரும்பு.pdf`;
-- physical scans: **92 / 92 accounted for**;
-- scans 1–5 collection front matter: **VERIFIED / CLOSED**;
-- `அரும்பு` scans 6–23: **RELEASE-READY / CLOSED**;
-- `சாரப்பள்ளம் சாமுண்டி` scans 24–48: **RELEASE-READY / CLOSED**;
-- 1978 `பெரிய இடத்துப் பெண்` witness scans 49–74: **COMPARISON COMPLETE / CLOSED**;
-- `நடுத்தெரு நாராயணி` scans 75–90: **RELEASE-READY / CLOSED**;
-- scans 91–92 publisher back matter: **VERIFIED / CLOSED**;
-- collection-level unresolved items: **0**;
-- source PDF committed: **No**.
+Source intake state:
 
-Collection closure record:
+- title: **சுருளிமலை**;
+- author: **கலைஞர் மு. கருணாநிதி**;
+- publisher: **திராவிடப்பண்ணை**;
+- edition: **இரண்டாம் பதிப்பு — 1968**;
+- size: **268,529,598 bytes**;
+- physical scans: **150**;
+- SHA-256: **PENDING**;
+- source PDF committed: **No**;
+- image-only source.
 
-`collections/arumbu-1978/PARATEXT_CLOSURE.md`
+Front matter scans **1–4** are already **VERIFIED** and recorded. Scan **5** is the source-visible body opening but body T1 has not started.
 
-## Current queue
+## Mandatory startup
 
-**No active unprocessed source is registered.**
+Read:
+
+- root `NOVEL_PROCESSING_GUIDE.md`;
+- root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+- root `HANDOVER.md`;
+- `works/surulimalai/README.md`;
+- `works/surulimalai/metadata/source.md`;
+- `works/surulimalai/indexes/page-map.md`.
 
 ## Exact next activity
 
-When the next source/work is supplied or selected:
+Perform a **direct visual terminal-boundary audit of scans 145–150**.
 
-1. fetch live `main`;
-2. read the root processing guides;
-3. inspect the controlling PDF directly;
-4. register checksum / size / page count / edition / publisher / source condition;
-5. identify work boundaries from source evidence;
-6. create the source map and first bounded activity;
-7. preserve all closed works unchanged unless genuinely new source evidence requires reopening them.
+Determine, only from source pixels:
 
-Do not invent a next work or source identity without controlling-source evidence.
+- which scans remain narrative body;
+- where the story visibly ends;
+- whether any publisher advertisement/back matter follows;
+- visible printed-page numbers, if any;
+- illustrations / blank areas / later marks;
+- any cross-page continuation at the terminal boundary.
+
+Do not infer the ending from scan count or expected page numbering.
+
+Also compute and register the SHA-256 if the runtime permits.
+
+After the boundary is source-confirmed, update the page map and controls, commit, and set the next bounded task to **T1 scans 5–9** (or another equally small first body batch if source structure requires it).

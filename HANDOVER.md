@@ -4,64 +4,47 @@
 
 - Repository: `pugazg/kalaignar-novels`
 - Branch: `main`
-- **Live main is authoritative.**
-- Active unprocessed source: **NONE REGISTERED**
+- **LIVE MAIN IS AUTHORITATIVE.**
+- Active work: **`works/surulimalai/`**
 
-## Latest completed source — அரும்பு 1978 compilation
+## Active source — சுருளிமலை
 
-Controlling source: `TVA_BOK_0064361_அரும்பு.pdf`
+Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 
-- SHA-256: `04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc`
-- size: **117,270,339 bytes**
-- physical scans: **92**
-- edition: **முதற் பதிப்பு : 1978**
-- publisher: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**
+- title: **சுருளிமலை**
+- author: **கலைஞர் மு. கருணாநிதி**
+- publisher: **திராவிடப்பண்ணை**
+- edition: **இரண்டாம் பதிப்பு — 1968**
+- source size: **268,529,598 bytes**
+- physical scans: **150**
+- SHA-256: **PENDING — hashing runtime unavailable during intake**
 - source PDF committed: **No**
+- source format: **image-only**
 
-## Full collection state
+## Durable intake state
 
-- scans **1–5** — collection front matter — **5/5 VERIFIED / CLOSED**;
-- scans **6–23** — `அரும்பு` — **RELEASE-READY / CLOSED**;
-- scans **24–48** — `சாரப்பள்ளம் சாமுண்டி` — **RELEASE-READY / CLOSED**;
-- scans **49–74** — 1978 `பெரிய இடத்துப் பெண்` additional witness — **COMPARISON COMPLETE / CLOSED — 26/26**;
-- scans **75–90** — `நடுத்தெரு நாராயணி` — **RELEASE-READY / CLOSED**;
-- scans **91–92** — publisher catalogue / back cover — **2/2 VERIFIED / CLOSED**.
+- no pre-existing `surulimalai` work directory was present;
+- source intake: **REGISTERED / IN PROGRESS**;
+- front matter scans **1–4: VERIFIED / page records created**;
+- scan **5: body opening confirmed; not yet transcribed**;
+- page map: **150 / 150 scans registered at intake level**;
+- body T1: **NOT STARTED**;
+- terminal boundary: **OPEN — scans 145–150 require visual audit**;
+- historical-glyph review: **NOT STARTED**;
+- assembled Tamil / English: **BLOCKED**.
 
-Physical source accounting: **92 / 92 scans**.  
-Collection-level unresolved items: **0**.  
-Collection verdict: **ARCHIVAL CLOSED**.
+Mandatory historical families:
 
-Collection paratext records:
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-- `collections/arumbu-1978/pages/README.md`;
-- `collections/arumbu-1978/pages/0001-cover.md`;
-- `collections/arumbu-1978/pages/0002-copy-provenance.md`;
-- `collections/arumbu-1978/pages/0003-title-page.md`;
-- `collections/arumbu-1978/pages/0004-publication.md`;
-- `collections/arumbu-1978/pages/0005-publisher-note.md`;
-- `collections/arumbu-1978/pages/0091-publisher-catalogue.md`;
-- `collections/arumbu-1978/pages/0092-back-cover.md`.
+## User-supplied project context
 
-Closure record:
-
-`collections/arumbu-1978/PARATEXT_CLOSURE.md`
-
-Source-proven metadata correction completed:
-
-- stale: `எழில்மணி அச்சகம், சென்னை-600014`
-- source-visible: **`எஷியன் அச்சகம், சென்னை-600014`**
-
-No closed story/witness canonical layer was modified during collection paratext closure.
+The supplied synopsis mentions folk arts such as கரகாட்டம், தீச்சட்டி எடுத்தல் and மயிலாட்டம், superstition, and the characters பூஞ்சோலை, பொன்மணி, கற்பூரம் and மைனா. Keep that synopsis separate from canonical source prose unless the controlling scan itself contains it.
 
 ## Exact next activity
 
-There is **no active unprocessed source currently registered** in the repository handover.
-
-Before starting another work:
-
-1. obtain/identify the next controlling source PDF;
-2. fetch live `main`;
-3. read `NOVEL_PROCESSING_GUIDE.md` and `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
-4. inspect the source scan itself;
-5. register source identity and work/component boundaries before transcription;
-6. do not reopen closed works unless genuinely new source evidence appears.
+1. visually inspect **scans 145–150** and determine the source-visible terminal narrative/back-matter structure;
+2. compute/record SHA-256 when the hashing runtime is available;
+3. synchronize `metadata/source.md` and `indexes/page-map.md`;
+4. only after the work span is source-confirmed, begin a small T1 body batch from scan 5;
+5. do not commit the PDF and do not reopen closed prior works.

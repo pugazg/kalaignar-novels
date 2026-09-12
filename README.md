@@ -2,7 +2,16 @@
 
 > **மூல ஸ்கேன் page/structure authority.** Source PDF files repository-யில் commit செய்யப்படாது.
 
-## Latest completed source — அரும்பு 1978 compilation
+## Active source — சுருளிமலை (1968 second edition)
+
+- source PDF: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf` — **150 scans / image-only / not committed**;
+- source intake: **REGISTERED / IN PROGRESS**;
+- front matter scans 1–4: **VERIFIED**;
+- scan 5: **body opening confirmed / T1 not started**;
+- terminal boundary: **OPEN — scans 145–150 audit next**;
+- SHA-256: **PENDING**.
+
+### Latest completed source — அரும்பு 1978 compilation
 
 - அரும்பு — scans 6–23 — **RELEASE-READY / CLOSED**;
 - சாரப்பள்ளம் சாமுண்டி — scans 24–48 — **RELEASE-READY / CLOSED**;
@@ -25,7 +34,7 @@
 
 Closure record: `collections/arumbu-1978/PARATEXT_CLOSURE.md`.
 
-Exact next action: **No active unprocessed source is currently registered. Register the next controlling source/work before transcription.**
+Exact next action: **சுருளிமலை terminal-boundary intake audit — scans 145–150; then first T1 body batch.**
 
 ## Completed works
 
