@@ -9,8 +9,8 @@
 - front matter scans 1–4: **VERIFIED**;
 - scan 5: **body opening confirmed**;
 - body T1: **scans 5–24 VERIFIED; scans 25–29 COMPLETE / PASS — 5/5 `needs-review`**;
-- body T2: **scans 5–24 COMPLETE / PASS; scans 25–29 NEXT**;
-- body T3: **scans 5–24 COMPLETE / PASS / VERIFIED; scans 25–29 PENDING**;
+- body T2: **scans 5–29 COMPLETE / PASS; scans 25–29 = 0 corrections; unresolved 0**;
+- body T3: **scans 5–24 COMPLETE / PASS / VERIFIED; scans 25–29 NEXT**;
 - source-ingestion status: **DEGRADED IN THIS CHAT — Files reports `num_pages: 150` for a source the user confirms is 198 pages**;
 - prior 150-page scan→print reconciliation: **RETRACTED / INVALID**;
 - terminal boundary: **UNKNOWN in the current truncated parser view**;
@@ -39,7 +39,7 @@
 
 Closure record: `collections/arumbu-1978/PARATEXT_CLOSURE.md`.
 
-Exact next action: **perform சுருளிமலை T2 independent historical-glyph/source-form review for scans 25–29 only; keep all five records `needs-review`, commit, and stop before scan30. The 198-page ingestion issue remains deferred.**
+Exact next action: **perform சுருளிமலை T3 final source-fidelity review for scans 25–29 only; promote pages only after T3 passes, commit, and stop before scan30. The 198-page ingestion issue remains deferred.**
 
 ## Completed works
 

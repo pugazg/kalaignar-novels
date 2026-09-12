@@ -46,7 +46,8 @@ No bibliographic value above is inferred from the filename alone.
 - scans 23–24 — T1/T2/T3 complete / **verified**; visible printed pages **21–22**;
 - T2 scans 20–24: **COMPLETE / PASS — 5/5; 0 corrections; unresolved historical/source-form readings 0**;
 - T3 scans 20–24: **COMPLETE / PASS — 5/5 VERIFIED; 0 additional corrections**;
-- scans 25–29 — T1 complete / `needs-review`; visible printed pages **23–27**; all continue chapter 2;
+- scans 25–29 — T1/T2 complete / `needs-review`; visible printed pages **23–27**; all continue chapter 2;
+- T2 scans 25–29: **COMPLETE / PASS — 5/5; 0 corrections; unresolved historical/source-form readings 0**;
 - scans 30–144 — not yet fully page-mapped in this intake checkpoint;
 - current Files parser exposes pages **1–150 only** for a source known to contain **198 pages**;
 - previous terminal mapping based on that representation is **invalidated**;
@@ -95,9 +96,10 @@ The user supplied a descriptive synopsis mentioning கரகாட்டம்,
 14. **T2 independent historical-glyph/source-form review for scans 20–24 is COMPLETE / PASS — 5/5; 0 corrections; unresolved 0**;
 15. **T3 final source-fidelity review for scans 20–24 is COMPLETE / PASS — 5/5 VERIFIED; 0 additional corrections**;
 16. **T1 scans 25–29 is COMPLETE / PASS — 5/5 canonical records, all `needs-review`**;
-17. **T2 independent historical-glyph/source-form review for scans 25–29 is NEXT**;
-18. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
-19. do not infer source extent from the current Files parser's `num_pages: 150`.
+17. **T2 independent historical-glyph/source-form review for scans 25–29 is COMPLETE / PASS — 5/5; 0 corrections; unresolved 0**;
+18. **T3 final source-fidelity review for scans 25–29 is NEXT**;
+19. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
+20. do not infer source extent from the current Files parser's `num_pages: 150`.
 
 
 Terminal-boundary audit: [`../TERMINAL_BOUNDARY_AUDIT.md`](../TERMINAL_BOUNDARY_AUDIT.md).

@@ -1,4 +1,4 @@
-# Next Chat Prompt — சுருளிமலை / T2 scans 25–29
+# Next Chat Prompt — சுருளிமலை / T3 scans 25–29
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/surulimalai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -24,25 +24,24 @@ Active checkpoint: `works/surulimalai/T1_BATCH_025_029.md`.
 Scans **25–29**:
 
 - T1: **COMPLETE / PASS — 5/5**;
-- canonical records: **5/5 `needs-review`**;
+- T2: **COMPLETE / PASS — 5/5**;
+- T2 corrections: **0**;
+- unresolved historical/source-form readings: **0**;
+- canonical records: **5/5 `needs-review` pending T3**;
 - visible printed pages: **23, 24, 25, 26, 27**;
 - all continue chapter **2**;
-- T2: **NEXT**;
-- T3: **PENDING**;
 - scan30 has not been opened.
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph/source-form review for scans 25–29 only**:
+Perform **T3 final source-fidelity review for scans 25–29 only**:
 
 - attached source pixels only;
-- independently re-read all five full pages;
-- explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-- no external transcription authority, global replacement, or contextual modernization;
-- re-check every difficult cluster recorded in `T1_BATCH_025_029.md`;
-- record source-supported corrections explicitly;
-- leave all five pages `needs-review`;
-- do not start T3;
+- compare every full page independently against its canonical record;
+- check omitted/repeated text, punctuation, paragraphing, visible page number and cross-page continuity;
+- retain source spelling and T2 decisions unless direct pixels positively require correction;
+- record each T3 correction in page notes and audit;
+- promote a page to `verified` only after it fully passes T3;
 - update controls and commit;
 - **stop before scan30**.
 

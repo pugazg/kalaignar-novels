@@ -31,11 +31,11 @@ Open:
 - SHA-256 checksum;
 - complete-source / terminal reconciliation against a full **198-page** representation;
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
-- T2 historical-glyph/source-form review for scans 25–29;
+- T3 final source-fidelity review for scans 25–29;
 - T1 onward from scan 30;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **verified through scan 24**; scans **25–29 have T1 complete and remain `needs-review`**. No external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **verified through scan 24**; scans **25–29 have T1/T2 complete and remain `needs-review` pending T3**. No external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -247,9 +247,10 @@ All scans 20–24 are now **VERIFIED**.
 
 Checkpoint: [`T1_BATCH_020_024.md`](T1_BATCH_020_024.md).
 
-## T1 scans 25–29
+## T1/T2 scans 25–29
 
-Result: **COMPLETE / PASS — 5/5 canonical records created as `needs-review`**.
+T1: **COMPLETE / PASS — 5/5 canonical records**.  
+T2: **COMPLETE / PASS — 5/5; 0 corrections; unresolved historical/source-form readings 0**.
 
 | Scan | Printed page | Record | T1 |
 |---:|---:|---|---|
@@ -268,10 +269,21 @@ Structural/source observations:
 - scan28 ends with `“யாரது? நில்!” என்று கத்தினாள்.`;
 - scan29 continues the night scene and ends after `அவனை ஒருமுறை பார்த்தாள்.`;
 - scan30 was not opened;
-- difficult historical/source-form and punctuation clusters are explicitly queued for T2.
+- difficult historical/source-form and punctuation clusters were independently re-read in T2 from source pixels only.
+
+T2 confirmed without change:
+
+- scan25 — `பசியெடுத்தக்`, `“காதல்”`, `“சோச்சி”`, `“மியாவ்”`, terminal `வேகத்`;
+- scan26 — `“களுக்”`, `அபசகுனம்`, `காப்பாத்தும்மா`, `அங்குமிங்கும்`, `நிர்வாகியொருவரிடம்`, `விபரங் கேட்கச்`;
+- scan27 — `அடுத்தவீட்டு எதிர்த்த வீட்டுப்`, `பெண்களோடுகூட`, `“சிடு மூஞ்சி”`, `வேண்டிய மட்டும்`, `தாழ்ப்பாள்தான்`, source punctuation at `காரணம்;` and `பிறக்கிறது—அதோடு`;
+- scan28 — `“ஸ்! அதான் தின்னுட்டியே... தூங்கு! தூங்கு!”`, `பிறகேன்`, `நா எழவில்லை`, `பள பள வென்று`, `விருட்டெனப்`;
+- scan29 — `சாவதானமாக`, `அவளையறியாமல்`, `அதிர்ச்சியிலேகூட`, `யாருமில்லை`, `எனத்தெரிந்த`, `நாக்கு குழறிற்று`, `திடும் பிரவேசத்தால்`; historical `லை` / `னா` identities re-confirmed; em-dash/quotation structures retained.
+
+T2 text corrections: **0**.  
+Unresolved historical/source-form readings after T2: **0**.
 
 Checkpoint: [`T1_BATCH_025_029.md`](T1_BATCH_025_029.md).
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph/source-form review for scans 25–29 only** from the attached PDF/source pixels. Re-read all five complete scans, keep all pages `needs-review`, update controls, commit, and stop before scan30. The full-source/terminal issue remains deferred.
+Perform **T3 final source-fidelity review for scans 25–29 only** from the attached PDF/source pixels. Check full-page fidelity, promote only pages that pass, update controls, commit, and stop before scan30. The full-source/terminal issue remains deferred.
