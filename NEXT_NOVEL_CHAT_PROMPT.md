@@ -1,39 +1,40 @@
-# Next Chat Prompt — நடுத்தெரு நாராயணி / English translation plan
+# Next Chat Prompt — நடுத்தெரு நாராயணி / English Batch 1 pilot
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Durable Tamil state
+## Durable state
 
-- source: `TVA_BOK_0064361_அரும்பு.pdf`;
-- edition: **முதற் பதிப்பு — 1978**;
-- work span: **75–90 / 16 physical scans**;
 - canonical Tamil: **16 / 16 VERIFIED**;
-- T2: **PASS / COMPLETE — 40 cumulative corrections / 0 unresolved**;
-- whole-work Tamil source audit: **PASS / COMPLETE — 0 residual canonical corrections**;
+- whole-work Tamil source audit: **PASS / COMPLETE**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
-- assembled provenance markers: **16 / 16**;
-- verified assembled joins: **11 / 11**;
-- canonical Tamil mutation during assembly: **0**;
-- English translation: **NOT STARTED**.
+- English translation plan: **PASS / COMPLETE**;
+- working English title: **Nadutheru Narayani**;
+- English coverage: **0 / 16 scans**;
+- English prose: **NOT STARTED**.
 
-Authoritative assembled layer:
-
-- `works/nadutheru-narayani/sections/README.md`;
-- `works/nadutheru-narayani/sections/01-nadutheru-narayani.md`.
-
-## Exact next activity
-
-Create the mandatory **English translation plan** before any translation prose.
-
-At minimum create/update:
+English plan/control files:
 
 - `works/nadutheru-narayani/translations/en/TRANSLATION_PLAN.md`;
 - `works/nadutheru-narayani/translations/en/README.md`;
 - `works/nadutheru-narayani/translations/en/PROGRESS.md`;
-- `works/nadutheru-narayani/translations/en/GLOSSARY.md` as an initial terminology-control file if the repository precedent requires it.
+- `works/nadutheru-narayani/translations/en/GLOSSARY.md`.
 
-The plan must define the working English title, authority hierarchy, one-section structure, controlled scan batches, transliteration/name policy, caste/religious/temple terminology, colloquial dialogue policy, protected source-oddity policy, punctuation/rhetoric policy, provenance requirements, and source-check/review gates.
+Controlled batches:
 
-Use the audited canonical `pages/` records as authority; the assembled Tamil is a derived reading layer. Preserve source rhetoric and difficult terminology without euphemizing or silently normalizing it.
+1. **75–79 — pilot / NEXT**
+2. **80–84 — blocked**
+3. **85–90 — blocked**
 
-**Do not write translation prose in this activity.** Commit only the planning/control layer, synchronize handover/status files, and stop.
+## Exact next activity
+
+Translate and source-check **Batch 1 scans 75–79 only**.
+
+Create `works/nadutheru-narayani/translations/en/sections/01-nadutheru-narayani.md`.
+
+Use canonical `pages/` as textual authority and the assembled Tamil only for continuity. Preserve source provenance, rhetoric, mythological satire, caste/social terminology and Krishnayyar's colloquial register without inventing an English ethnic accent.
+
+Do not translate scan80. The verified **79→80** continuation must remain explicitly open for Batch 2.
+
+During the pilot, finalize recurring glossary choices for `பிரகாரம்`, `விபூதி`, devotional address terms, and colloquial-register handling. Compare the English back against scans 75–79 canonical Tamil; record omissions/additions/agency/terminology/join results; mark Batch 1 `REVIEWED / COMPLETE` only if the source-check passes.
+
+Commit the bounded pilot and stop before Batch 2.

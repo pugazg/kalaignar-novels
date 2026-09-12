@@ -14,4 +14,4 @@
 - scan90: source-visible work ending
 - source PDF committed: **No**
 
-Status: source intake **COMPLETE**; T1 canonical transcription **PASS / COMPLETE — 16 / 16 physical scans**; verified pages **16 / 16**; T2 scans **75–90 PASS / COMPLETE** with **40 cumulative corrections / 0 unresolved readings**; whole-work Tamil source audit **PASS / COMPLETE — 0 residual canonical corrections / 0 unresolved readings**; Tamil source layer **PASS / COMPLETE**; assembled Tamil **PASS / COMPLETE — 1 / 1 section**; English translation plan **NEXT**.
+Status: source intake **COMPLETE**; T1 canonical transcription **PASS / COMPLETE — 16 / 16 physical scans**; verified pages **16 / 16**; T2 scans **75–90 PASS / COMPLETE** with **40 cumulative corrections / 0 unresolved readings**; whole-work Tamil source audit **PASS / COMPLETE — 0 residual canonical corrections / 0 unresolved readings**; Tamil source layer **PASS / COMPLETE**; assembled Tamil **PASS / COMPLETE — 1 / 1 section**; English translation plan **PASS / COMPLETE**; English coverage **0 / 16**; Batch 1 pilot scans **75–79 NEXT**.

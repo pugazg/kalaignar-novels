@@ -19,7 +19,9 @@
 - Tamil source layer: **PASS / COMPLETE**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - assembled-vs-canonical consistency: **PASS — 16 / 16 scans**;
-- English translation plan: **NOT STARTED / NEXT**.
+- English translation plan: **PASS / COMPLETE**;
+- English translation coverage: **0 / 16 scans — NOT STARTED**;
+- English Batch 1 pilot: **PLANNED / NEXT — scans 75–79**.
 
 Collection provenance: `../../collections/arumbu-1978/`.
 
@@ -34,4 +36,6 @@ Whole-work audit record: [`FULL_TAMIL_SOURCE_AUDIT.md`](FULL_TAMIL_SOURCE_AUDIT.
 Assembled Tamil: [`sections/01-nadutheru-narayani.md`](sections/01-nadutheru-narayani.md).  
 Reading-layer controls: [`sections/README.md`](sections/README.md).
 
-Next: **create the English translation plan; do not begin translation prose yet**.
+English controls: [`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md), [`translations/en/README.md`](translations/en/README.md), [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md), [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md).
+
+Next: **English Batch 1 pilot — scans 75–79 only**.

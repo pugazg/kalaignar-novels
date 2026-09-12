@@ -33,7 +33,9 @@
 - Tamil source layer: **PASS / COMPLETE**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - assembled-vs-canonical consistency: **PASS — 16 / 16 scans / 11 joins / 0 mutation**;
-- English translation plan: **NOT STARTED / NEXT**.
+- English translation plan: **PASS / COMPLETE**;
+- English coverage: **0 / 16 scans — NOT STARTED**;
+- English Batch 1 pilot: **PLANNED / NEXT — scans 75–79**.
 
 T1 closure: `works/nadutheru-narayani/T1_COMPLETION.md`.
 
@@ -46,12 +48,27 @@ Assembled Tamil records:
 - `works/nadutheru-narayani/sections/README.md`;
 - `works/nadutheru-narayani/sections/01-nadutheru-narayani.md`.
 
+English planning/control records:
+
+- `works/nadutheru-narayani/translations/en/TRANSLATION_PLAN.md`;
+- `works/nadutheru-narayani/translations/en/README.md`;
+- `works/nadutheru-narayani/translations/en/PROGRESS.md`;
+- `works/nadutheru-narayani/translations/en/GLOSSARY.md`.
+
 ## Exact next activity
 
-Create the **English translation plan** required by the repository workflow.
+Process **English Batch 1 pilot — scans 75–79 only**.
 
-Create `works/nadutheru-narayani/translations/en/TRANSLATION_PLAN.md` and synchronize the English-control README/progress files as appropriate, but **do not begin translation prose**.
+Requirements:
 
-The plan must lock the working English title, authority hierarchy, one-section structure, controlled translation batches, transliteration/name policy, caste/religious/temple terminology, colloquial dialogue policy, protected source oddities, punctuation/rhetoric, scan provenance, and review gates.
+1. create `translations/en/sections/01-nadutheru-narayani.md`;
+2. translate only canonical Tamil from scans **75–79**;
+3. preserve scan provenance and verified joins within the batch;
+4. do not import scan80 English prose; scan79→80 remains an open cross-batch continuity;
+5. apply the locked title/name/caste/religious/colloquial policies;
+6. lock pilot terminology decisions in `GLOSSARY.md`;
+7. source-check the English back against canonical Tamil for omissions, additions, speaker/agency drift, rhetoric and boundary handling;
+8. mark Batch 1 reviewed only if the source-check passes;
+9. synchronize controls, commit, and stop before Batch 2.
 
-Stop after the plan/control layer is committed.
+Do not alter canonical Tamil unless genuinely new source evidence appears.

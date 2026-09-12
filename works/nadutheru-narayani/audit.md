@@ -102,4 +102,19 @@ T1 closure record: [`T1_COMPLETION.md`](T1_COMPLETION.md).
 
 **Assembled Tamil: PASS / COMPLETE — 1 / 1 section.**
 
-**Next: English translation plan. Do not begin translation prose before the plan exists.**
+## English translation planning gate
+
+- Section 14 plan: **PASS / COMPLETE**;
+- working English title: **Nadutheru Narayani**;
+- English structure: **one continuous section**;
+- controlled batches: **75–79 / 80–84 / 85–90**;
+- authority hierarchy: **LOCKED**;
+- names/transliteration policy: **LOCKED**;
+- caste/religious/temple terminology policy: **LOCKED**;
+- colloquial dialogue policy: **LOCKED**;
+- protected source-oddity / wordplay policy: **LOCKED**;
+- provenance/review gates: **LOCKED**;
+- English prose created at this gate: **0**;
+- canonical Tamil changes during planning: **0**.
+
+**Next: English Batch 1 pilot — scans 75–79 only.**
