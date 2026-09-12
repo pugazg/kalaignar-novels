@@ -31,11 +31,10 @@ Open:
 - SHA-256 checksum;
 - complete-source / terminal reconciliation against a full **198-page** representation;
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
-- T3 final source-fidelity review for scans 20–24;
 - T1 onward from scan 25;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **verified through scan 19**; scans **20–24 have T1/T2 complete and remain `needs-review` pending T3**. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **verified through scan 24**. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -197,10 +196,11 @@ All scans 15–19 are now **VERIFIED**.
 
 Checkpoint: [`T1_BATCH_015_019.md`](T1_BATCH_015_019.md).
 
-## T1/T2 scans 20–24
+## T1/T2/T3 scans 20–24
 
-T1: **COMPLETE / PASS — 5/5 canonical records**.  
-T2: **COMPLETE / PASS — 5/5; 0 corrections; unresolved historical/source-form readings 0**.
+T1: **COMPLETE / PASS — 5/5**.  
+T2: **COMPLETE / PASS — 5/5; 0 corrections; unresolved historical/source-form readings 0**.  
+T3: **COMPLETE / PASS — 5/5 VERIFIED; 0 additional corrections**.
 
 | Scan | Printed page | Record | T1 |
 |---:|---:|---|---|
@@ -229,8 +229,23 @@ T2 confirmed without change:
 T2 text corrections: **0**.  
 Unresolved historical/source-form readings after T2: **0**.
 
+T3 independently confirmed:
+
+- all five complete page transcriptions against their source scans;
+- visible printed pages **18–22**;
+- scan20 source forms and unusual nested quotation punctuation;
+- scan20→21 physical continuation without silently joining page records;
+- scan21 isolated bottom-left `2` remains non-body / printer-signature material;
+- scan22 first two paragraphs close the prior scene and centered **2** begins chapter 2 on the same physical page;
+- scan23 source spacing/forms and quoted `‘அதைக்’`;
+- scan24 source forms, both short dialogue quotations, and terminal `அதைத்`;
+- omissions / duplicate text: **0 / 0**;
+- T3 text corrections: **0**.
+
+All scans 20–24 are now **VERIFIED**.
+
 Checkpoint: [`T1_BATCH_020_024.md`](T1_BATCH_020_024.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans 20–24 only** from the attached PDF/source pixels. Check full-page fidelity, promote only pages that pass, update controls, commit, and stop before scan25. The full-source/terminal issue remains deferred.
+Process **T1 scans 25–29 only** from the attached PDF/source pixels. Create five `needs-review` canonical page records, update controls, commit, and stop before scan30. The full-source/terminal issue remains deferred.

@@ -4,10 +4,10 @@ printed_page: 20
 work: "surulimalai"
 section: "1→2"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph/source-form T2 complete"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph/source-form T2 complete; T3 source-fidelity verified"
 ---
 
 அதற்குள் பஞ்சாயத்தாரும் மற்றவர்களும் அங்கே வந்து சேர்ந்தார்கள். சிங்காரம் அந்தப் பெண்ணுடைய முகத்தை மூடியிருந்த துணியை விலக்கினான். அவ்வளவுதான்; “அய்யோ!” என்று அலறிவிட்டான்!
@@ -30,7 +30,7 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - `section: "1→2"` records that source-visible transition rather than treating the chapter number as a page number;
 - source-looking forms `அறிமுகமானவளாய்த்தானிருக்க`, `இருக்குமென்பதற்கு`, `தீச்சட்டியேந்திக்`, `கர கரவெனப்`, and `வாலைக் குமரியை` are retained for independent T2/T3 re-read;
 - no OCR or external transcription was accepted as authority;
-- page status remains `needs-review`.
+- page status: `verified`.
 
 ## T2 independent historical-glyph/source-form notes
 
@@ -40,6 +40,17 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - the centered `2` is re-confirmed as the chapter-2 heading after two closing paragraphs from the prior scene;
 - no T1 character/source-form correction was required;
 - unresolved historical/source-form readings after T2: **0**;
-- page remains `needs-review` pending T3.
+- T2 result retained through T3; unresolved historical/source-form readings: **0**.
 
-<!-- source physical scan: 22; visible printed page: 20; chapter transition: 1→2; T1 COMPLETE / NEEDS-REVIEW -->
+## T3 final source-fidelity notes
+
+- complete scan compared again against the canonical record;
+- checked omissions, duplication, punctuation, paragraphing, visible printed page **20**, running-head/non-body handling and relevant cross-page continuity;
+- the first two paragraphs were confirmed as closing the preceding scene;
+- centered `2` was re-confirmed as the chapter-2 heading on the same physical page;
+- T2 source forms including `தீச்சட்டியேந்திக்`, `கர கரவெனப்`, and `வாலைக் குமரியை` remain source-supported;
+- T3 text corrections: **0**;
+- omissions / duplicate text: **0 / 0**;
+- T3 result: **PASS / VERIFIED**.
+
+<!-- source physical scan: 22; visible printed page: 20; chapter transition: 1→2; T1/T2/T3 COMPLETE / VERIFIED -->
