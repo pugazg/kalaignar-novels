@@ -1,4 +1,4 @@
-# Next Chat Prompt — சுருளிமலை / T1 scans 5–9
+# Next Chat Prompt — சுருளிமலை / resume from full 198-page source
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/surulimalai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,42 +6,36 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 
-Durable source state:
-
-- title: **சுருளிமலை**;
-- author: **கலைஞர் மு. கருணாநிதி**;
-- publisher: **திராவிடப்பண்ணை**;
-- edition: **இரண்டாம் பதிப்பு — 1968**;
-- PDF scan images: **150**;
-- printed/book extent: **198 pages**;
-- front matter scans **1–4 VERIFIED**;
-- terminal scans **140–149 = printed pages 189–198 VERIFIED**;
-- scan149 = **printed page 198 / narrative ending**;
-- scan150 = **back cover / excluded from body**;
-- terminal-boundary audit: **PASS / COMPLETE**;
-- body span: **scans 5–149**;
-- body T1: **NOT STARTED**;
-- SHA-256: **PENDING**;
+- Tamil Digital Library source copy;
+- same copy is mirrored in Wikisource;
+- source extent: **198 pages**;
+- current ChatGPT Files parser in the prior chat exposed only **150 pages** and is considered **truncated/degraded**;
 - source PDF committed: **No**.
 
-Terminal record:
+## Critical correction
 
-`works/surulimalai/TERMINAL_BOUNDARY_AUDIT.md`
+Do not use the prior 150-page parser representation to infer source extent or terminal structure.
+
+The former claims that:
+
+- scans140–149 = printed189–198;
+- scan149 = printed198 / ending;
+- scan150 = back cover;
+
+were **invalidated and retracted**.
+
+No canonical Tamil body transcription had yet been created, so no source text needs rollback.
 
 ## Exact next activity
 
-Process **T1 scans 5–9 only** as one bounded batch.
+Using a **full 198-page representation of the same source copy**, process **Tamil T1 pages/scans 5–9 only**:
 
-For every scan:
+- source pixels control;
+- no OCR guesswork;
+- record visible printed page numbers exactly;
+- preserve historical glyphs and punctuation;
+- distinguish later marks from printed text;
+- update page map and controls;
+- commit and stop before page/scan10.
 
-- transcribe the whole source-visible body text once;
-- record visible printed page number(s) directly from the scan;
-- if a PDF scan contains two printed pages, preserve that relationship explicitly;
-- source pixels are controlling authority;
-- no silent modernization, spelling repair, grammar repair or punctuation repair;
-- preserve historical Tamil glyphs and explicitly audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-- distinguish later handwriting/underlining from printed text;
-- synchronize page map, README, audit, handover and next prompt;
-- commit after scans 5–9 and stop before scan10.
-
-Do not infer intermediate printed-page numbers from the terminal mapping.
+Terminal-boundary auditing must wait until the actual final pages of the full 198-page representation are visible.

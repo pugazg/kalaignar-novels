@@ -4,23 +4,23 @@
 **வெளியீடு:** திராவிடப்பண்ணை  
 **பதிப்பு:** இரண்டாம் பதிப்பு — 1968  
 **Source PDF:** `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf` — **not committed**  
-**PDF scan images:** **150**  
-**User-confirmed book/printed extent:** **198 pages**
+**Source extent:** **198 pages — user/source confirmed**  
+**Current ChatGPT Files parser:** **truncated/degraded view reporting 150 pages**
 
 ## Current state
 
 - source registration: **IN PROGRESS / INTAKE REGISTERED**;
 - source file size: **268,529,598 bytes**;
 - SHA-256: **PENDING — runtime hash computation unavailable in this intake turn**;
-- PDF scan-image count: **150**;
-- user-confirmed book/printed extent: **198 pages**;
-- count-basis reconciliation: **150 scans vs 198 printed pages — no 48-page loss is asserted; some scan images may contain more than one printed page and the exact mapping must be source-verified**;
+- source extent: **198 pages**;
+- current Files-tool view: **reports only 150 pages for this same source artifact**;
+- diagnosis: **tool-side ingestion/parser truncation suspected; the 150-page representation is not authoritative for source extent or terminal structure**;
 - source text layer: **image-only / no usable parsed text**;
 - source title/author/publisher/edition: **VISUALLY CONFIRMED from scans 1, 3, 4**;
 - front matter scans **1–4**: **4/4 page records created / VERIFIED**;
 - body opening: **scan 5 confirmed**;
-- terminal work boundary: **PASS / COMPLETE — scan149 = printed page 198 / narrative ending; scan150 = back cover**;
-- terminal scan mapping: **scans 140–149 = printed pages 189–198, one page per scan**;
+- terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
+- prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
 - canonical body transcription: **NOT STARTED**;
 - historical-glyph/source-fidelity gate: **NOT STARTED**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
@@ -41,17 +41,16 @@ The user supplied the following catalogue-style description for project context.
 - scan 3 — title page;
 - scan 4 — edition / copyright / price page;
 - scan 5 — narrative/body opening;
-- scans 140–149 — **verified one-page scans for printed pages 189–198**;
-- scan 149 — **printed page 198 / source-visible narrative ending**;
-- scan 150 — **back cover / excluded from canonical body**;
-- do not invent `scan 151–198`: **198 is printed pagination, not PDF scan count**.
+- current parser exposes only pages **1–150** although the same source copy has **198 pages**;
+- therefore no terminal/body-boundary claim from pages 140–150 is durable;
+- full 198-page source view is required before terminal mapping or closure.
 
 Source map: [`indexes/page-map.md`](indexes/page-map.md).  
 Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Terminal mapping is now source-confirmed. Begin **Tamil T1 scans 5–9** as the first bounded body batch. For each scan, transcribe only what is visibly printed, record visible printed page(s), preserve historical glyphs, and stop after scan 9. SHA-256 remains a separate open provenance item.
+Do not proceed from the truncated 150-page Files representation as though it were complete. Resume bounded T1 only when operating against a **full 198-page view of the same source copy** (for example, a correctly ingested attachment/full source bytes or the matching Wikisource scan), while keeping the Tamil Digital Library scan as controlling identity.
 
 Do not start English or assembled Tamil work.
 

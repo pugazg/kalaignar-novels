@@ -5,9 +5,9 @@
 - source filename: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 - source PDF committed: **No**
 - file size: **268,529,598 bytes**
-- PDF scan images: **150**
-- user-confirmed book/printed extent: **198 pages**
-- pagination relationship: **PARTIALLY VERIFIED — terminal scans 140–149 map directly to printed pages 189–198; full intermediate mapping will be built during T1**
+- source extent: **198 pages — user/source confirmed**
+- current ChatGPT Files parser exposure: **150 pages only**
+- ingestion status: **TRUNCATED / DEGRADED VIEW — do not use parser-reported page count as source extent**
 - format: **image-only scanned PDF; no usable parsed text layer**
 - SHA-256: **PENDING — runtime hash computation unavailable in this intake turn**
 
@@ -32,12 +32,11 @@ No bibliographic value above is inferred from the filename alone.
 - scan 4 — publication/edition/copyright/price page;
 - scan 5 — body/narrative opening;
 - scans 6–144 — not yet fully page-mapped in this intake checkpoint;
-- scans 140–149 — **verified single-page scans for printed pages 189–198**;
-- scan 149 — **printed page 198 / source-visible narrative ending**;
-- scan 150 — **back cover / non-narrative outer matter**;
-- the PDF has **150 scan images**, while the printed/book extent is **198 pages**; intermediate scans may represent one or more printed pages.
+- current Files parser exposes pages **1–150 only** for a source known to contain **198 pages**;
+- previous terminal mapping based on that representation is **invalidated**;
+- no claim about page 198, narrative ending, or back cover is currently durable from this parser view.
 
-Terminal boundary is source-confirmed. Intermediate scan→printed-page mapping must still be recorded from source evidence as transcription proceeds.
+Terminal boundary must be re-audited only from a full 198-page source representation.
 
 ## Copy-specific / physical-source observations
 
@@ -65,10 +64,10 @@ The user supplied a descriptive synopsis mentioning கரகாட்டம்,
 ## Open intake items
 
 1. compute and record the PDF SHA-256;
-2. continue scan→printed-page mapping from direct visible pagination as T1 proceeds;
-3. begin **T1 scans 5–9**;
-4. preserve any one-page / multi-page scan relationships explicitly;
-5. keep scan150 excluded from the canonical body.
+2. obtain/use a **full 198-page representation of the same source copy**;
+3. invalidate and later redo terminal-boundary mapping against that complete representation;
+4. resume **T1 scans 5–9** only from the complete source view;
+5. do not infer source extent from the current Files parser's `num_pages: 150`.
 
 
 Terminal-boundary audit: [`../TERMINAL_BOUNDARY_AUDIT.md`](../TERMINAL_BOUNDARY_AUDIT.md).

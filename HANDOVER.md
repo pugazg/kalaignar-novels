@@ -16,9 +16,9 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 - publisher: **திராவிடப்பண்ணை**
 - edition: **இரண்டாம் பதிப்பு — 1968**
 - source size: **268,529,598 bytes**
-- PDF scan images: **150**
-- user-confirmed printed/book extent: **198 pages**
-- pagination relationship: **PARTIALLY VERIFIED — scans140–149 = printed189–198; intermediate mapping pending T1**
+- source extent: **198 pages — user/source confirmed**
+- current ChatGPT Files parser exposure: **150 pages only / truncated representation**
+- pagination relationship: **UNRESOLVED in current parser view**
 - SHA-256: **PENDING — hashing runtime unavailable during intake**
 - source PDF committed: **No**
 - source format: **image-only**
@@ -29,11 +29,11 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 - source intake: **REGISTERED / IN PROGRESS**;
 - front matter scans **1–4: VERIFIED / page records created**;
 - scan **5: body opening confirmed; not yet transcribed**;
-- page map: **150 / 150 PDF scan images registered at intake level**;
-- printed/book extent: **198 pages (user-confirmed)**;
-- scan→printed-page mapping: **terminal region VERIFIED — scans140–149 = printed189–198**;
+- page map: **current parser-visible pages 1–150 only; incomplete relative to 198-page source**;
+- source extent: **198 pages**;
+- prior scan→printed-page terminal mapping: **INVALIDATED**;
 - body T1: **NOT STARTED**;
-- terminal boundary: **PASS / COMPLETE — scan149 = printed198 / ending; scan150 = back cover**;
+- terminal boundary: **UNKNOWN / full-source re-audit required**;
 - historical-glyph review: **NOT STARTED**;
 - assembled Tamil / English: **BLOCKED**.
 
@@ -47,18 +47,11 @@ The supplied synopsis mentions folk arts such as கரகாட்டம், �
 
 ## Exact next activity
 
-Process **Tamil T1 scans 5–9 only**.
+1. work only against a **complete 198-page representation** of the Tamil Digital Library/Wikisource copy;
+2. do not trust the current Files parser's 150-page ceiling for source structure;
+3. once full source access is restored, process **T1 pages/scans 5–9** from source pixels;
+4. later re-run terminal-boundary mapping against the actual final pages;
+5. preserve historical Tamil glyph rules and source fidelity;
+6. do not commit the PDF.
 
-Requirements:
-
-1. visually transcribe each scan from the source pixels; no OCR guesswork;
-2. record the visible printed page number(s) for each scan, including any two-page spread exactly as seen;
-3. preserve punctuation, spelling, paragraphing and historical Tamil glyph forms;
-4. explicitly audit the historical families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-5. do not normalize copy-specific marks into source text;
-6. create/update canonical page records and page map;
-7. commit immediately after scans 5–9 and stop before scan10;
-8. SHA-256 remains an open provenance item if runtime hashing is still unavailable;
-9. do not commit the PDF and do not reopen closed prior works.
-
-Terminal audit record: `works/surulimalai/TERMINAL_BOUNDARY_AUDIT.md`.
+The previous `TERMINAL_BOUNDARY_AUDIT.md` is retained only as an explicit invalidation record.

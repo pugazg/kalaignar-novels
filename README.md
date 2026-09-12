@@ -4,13 +4,13 @@
 
 ## Active source — சுருளிமலை (1968 second edition)
 
-- source PDF: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf` — **150 PDF scan images; user-confirmed book/printed extent 198 pages / image-only / not committed**;
+- source PDF: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf` — **user/source-confirmed 198-page Tamil Digital Library/Wikisource copy; current ChatGPT Files parser exposes only 150 pages / image-only / not committed**;
 - source intake: **REGISTERED / IN PROGRESS**;
 - front matter scans 1–4: **VERIFIED**;
 - scan 5: **body opening confirmed / T1 not started**;
-- pagination model: **150 PDF scans ≠ 198 printed/book pages; this is a count-basis distinction, not proof that 48 pages are missing**;
-- scan→printed-page mapping: **terminal region VERIFIED — scans 140–149 = printed pages 189–198**;
-- terminal boundary: **PASS — scan149 = printed page 198 / narrative ending; scan150 = back cover**;
+- source-ingestion status: **DEGRADED IN THIS CHAT — Files reports `num_pages: 150` for a source the user confirms is 198 pages**;
+- prior 150-page scan→print reconciliation: **RETRACTED / INVALID**;
+- terminal boundary: **UNKNOWN in the current truncated parser view**;
 - SHA-256: **PENDING**.
 
 ### Latest completed source — அரும்பு 1978 compilation
@@ -36,7 +36,7 @@
 
 Closure record: `collections/arumbu-1978/PARATEXT_CLOSURE.md`.
 
-Exact next action: **சுருளிமலை Tamil T1 — scans 5–9; record visible printed-page mapping while transcribing.**
+Exact next action: **continue சுருளிமலை only from a full 198-page source view (attached/full bytes or matching Wikisource scan); do not use the 150-page parser view for source-bound claims.**
 
 ## Completed works
 

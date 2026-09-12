@@ -1,8 +1,8 @@
 # Page Map — சுருளிமலை
 
-Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`. **PDF: 150 scan images. User-confirmed printed/book extent: 198 pages. These counts are not assumed to be 1:1.**
+Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`. **Source extent: 198 pages. Current ChatGPT Files parser exposes only 150 pages; this representation is incomplete and must not define source structure.**
 
-This is the initial intake manifest. Printed-page values remain `—` unless directly verified from the scan. A PDF scan may contain one or more printed pages; no 1:1 scan/page assumption and no sequence-based page-number inference are allowed.
+This manifest currently covers only the pages exposed by the degraded Files parser. Printed-page values remain `—` unless directly verified from a complete source view. No source-ending or page-count inference may be made from the parser's 150-page ceiling.
 
 | Scan | Printed page | Page type / function | Status | Note |
 |---:|---:|---|---|---|
@@ -145,28 +145,27 @@ This is the initial intake manifest. Printed-page values remain `—` unless dir
 | 137 | — | unclassified | **not-started** | direct visual classification pending |
 | 138 | — | unclassified | **not-started** | direct visual classification pending |
 | 139 | — | unclassified | **not-started** | direct visual classification pending |
-| 140 | 189 | body | **verified-structure** | single printed page; terminal sequence anchor |
-| 141 | 190 | body | **verified-structure** | single printed page |
-| 142 | 191 | body | **verified-structure** | single printed page |
-| 143 | 192 | body | **verified-structure** | single printed page |
-| 144 | 193 | body | **verified-structure** | single printed page |
-| 145 | 194 | body | **verified-structure** | single printed page |
-| 146 | 195 | body | **verified-structure** | single printed page |
-| 147 | 196 | body | **verified-structure** | single printed page |
-| 148 | 197 | body | **verified-structure** | single printed page |
-| 149 | 198 | body ending | **verified-structure** | source-visible narrative ending |
-| 150 | — | back cover | **verified-structure** | non-narrative outer matter; excluded from body |
+| 140 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
+| 141 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
+| 142 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
+| 143 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
+| 144 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
+| 145 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
+| 146 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
+| 147 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
+| 148 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
+| 149 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
+| 150 | — | parser-visible page / terminal relation unknown | **provisional-only** | previous back-cover claim invalidated; full 198-page source required |
 
 ## Intake counts
 
-- PDF scan images registered: **150 / 150**;
-- user-confirmed printed/book extent: **198 pages**;
-- 1:1 scan/page assumption: **REJECTED**;
-- missing-page count: **NOT ASSERTED**;
-- page records created/verified: **4 / 150 scan images**;
+- current parser-visible pages registered: **150**;
+- authoritative source extent: **198 pages**;
+- parser completeness: **FAIL / TRUNCATED VIEW**;
+- page records created/verified: **4 opening/front-matter records only**;
 - body T1: **0**;
-- scan→printed-page mapping: **PARTIAL — terminal scans 140–149 = printed pages 189–198 VERIFIED**;
-- terminal-boundary status: **PASS / COMPLETE — scan149 ending; scan150 back cover**;
+- prior terminal scan→printed-page mapping: **INVALIDATED**;
+- terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **Tamil T1 scans 5–9; record visible printed page(s) per scan and stop after scan 9.**
+Exact next: **re-establish a full 198-page source view, then resume T1 scans 5–9 and terminal mapping from that complete representation.**

@@ -1,45 +1,23 @@
 # Terminal Boundary Audit — சுருளிமலை
 
-Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
+Status: **INVALIDATED / DO NOT USE**.
 
-Audit scope: **PDF scans 140–150**.
+The prior audit in this file was performed against the ChatGPT Files parser representation of the attached source. That representation reports only **150 pages**, while the user confirms — and the source identity corresponds to — the **198-page Tamil Digital Library copy also mirrored in Wikisource**.
 
-Method: direct visual inspection of the rendered source scans. Source pixels control. No printed page number is inferred from scan sequence alone.
+Therefore the earlier conclusions:
 
-## Verified terminal mapping
+- scans 140–149 = printed pages 189–198;
+- scan149 = printed page 198 / narrative ending;
+- scan150 = back cover;
 
-| PDF scan | Visible printed page(s) / function | Form | Result |
-|---:|---|---|---|
-| 140 | 189 | single printed page | **VERIFIED** |
-| 141 | 190 | single printed page | **VERIFIED** |
-| 142 | 191 | single printed page | **VERIFIED** |
-| 143 | 192 | single printed page | **VERIFIED** |
-| 144 | 193 | single printed page | **VERIFIED** |
-| 145 | 194 | single printed page | **VERIFIED** |
-| 146 | 195 | single printed page | **VERIFIED** |
-| 147 | 196 | single printed page | **VERIFIED** |
-| 148 | 197 | single printed page | **VERIFIED** |
-| 149 | 198 | single printed page / source-visible narrative ending | **VERIFIED** |
-| 150 | back cover / non-narrative outer matter | single scan | **VERIFIED / EXCLUDED FROM BODY** |
+are **retracted**.
 
-## Boundary result
+They were not sufficiently supported because the source representation available to the tool was truncated.
 
-- user-confirmed printed/book extent: **198 pages**;
-- printed page **198** is present on **PDF scan 149**;
-- narrative/body span therefore runs through **scan 149 / printed page 198**;
-- **scan 150 is back cover / non-narrative outer matter** and is not part of the canonical novel body;
-- no post-150 PDF scan is required to account for printed page 198;
-- the PDF's **150 scan images** and the book's **198 printed pages** are confirmed to be different count systems;
-- no “48 missing pages” condition exists.
+## Durable rule
 
-The final region scans **140–149** are one printed page per scan. Earlier parts of the PDF still require direct scan→printed-page mapping as T1 proceeds; this terminal audit does not infer the unseen intermediate mapping.
+The controlling source extent is **198 pages**. The current Files parser's `num_pages: 150` must not be used to define the book's extent, terminal boundary, printed-page mapping, or back-matter structure.
 
-## Continuity / ending
+A new terminal-boundary audit is required only after a **complete 198-page representation of the same source copy** is accessible.
 
-Scans **145–149** remain narrative body. Scan 149 visibly carries printed page **198** and closes the narrative. Scan 150 does not continue the story.
-
-Terminal boundary: **PASS / COMPLETE**.
-
-## Next activity
-
-Begin the first bounded Tamil T1 transcription batch at **scans 5–9**, recording visible printed page(s) per scan and preserving historical Tamil glyph forms. Do not use the terminal mapping to infer intermediate printed-page numbers.
+No canonical Tamil body transcription depended on the invalidated terminal mapping.

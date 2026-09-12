@@ -11,7 +11,7 @@ Completed:
 - attached source inspected directly at the opening;
 - title / author / publisher / edition verified from source scans;
 - source size / attached-artifact scan count registered;
-- user correction recorded: book/printed extent is **198 pages** while the PDF exposes **150 scan images**;
+- user correction/source identity recorded: this copy has **198 pages**; the ChatGPT Files parser currently exposes only **150 pages**;
 - front matter scans 1–4 recorded and marked verified;
 - source PDF excluded from repository.
 
@@ -25,35 +25,25 @@ Open:
 No canonical body transcription has started. No OCR output has been accepted as source authority.
 
 
-## Pagination-count correction
+## Source-ingestion correction
 
-The earlier follow-up overcorrected by treating **198 pages** as though it required **198 PDF scans**, creating an unsupported “48 missing pages” claim.
+The attached source is the Tamil Digital Library copy also mirrored in Wikisource, and its complete extent is **198 pages**.
 
-Current durable interpretation:
+In this chat, the Files service reports `num_pages: 150`. That parser/ingestion result is therefore **not an authoritative statement about the source PDF's actual extent**.
 
-- the PDF exposes **150 scan images**;
-- the user confirms the book/printed extent is **198 pages**;
-- these are different count systems and are **not assumed 1:1**;
-- no 48-page loss is asserted;
-- scan 150 is neither accepted nor rejected as terminal until its visible printed pagination and structural role are checked;
-- terminal scans **145–150** are therefore restored as the next direct-visual mapping target.
+Consequences:
 
-This correction changes metadata/control interpretation only; no canonical body text exists yet.
+- the earlier “150 scans vs 198 printed pages” reconciliation is withdrawn;
+- the later claim that scans 140–149 equal printed pages 189–198 is also withdrawn;
+- the claim that scan149 is the narrative ending and scan150 is the back cover is **invalidated**;
+- no canonical body text had been created from those claims, so no canonical transcription rollback is needed;
+- future source-bound work must use a complete 198-page representation of the same source copy.
 
+## Terminal-boundary audit status
 
-## Terminal-boundary / pagination audit
+Previous result: **INVALIDATED / DO NOT USE**.
 
-Result: **PASS / COMPLETE**.
+Reason: performed against a parser representation that stops at page 150 even though the source copy contains 198 pages.
 
-Direct visual source inspection established:
+Current status: **UNKNOWN / RE-AUDIT REQUIRED ON FULL SOURCE**.
 
-- scans 140–149 = visible printed pages **189–198**, one printed page per scan;
-- scan 149 = printed page **198** and source-visible narrative ending;
-- scan 150 = **back cover / non-narrative outer matter**;
-- no narrative continuation exists on scan150;
-- 150 PDF scans and 198 printed pages are therefore compatible count systems; no 48-page loss is asserted;
-- intermediate scan→printed-page mapping remains to be built only from direct source evidence during T1.
-
-Record: [`TERMINAL_BOUNDARY_AUDIT.md`](TERMINAL_BOUNDARY_AUDIT.md).
-
-Next: **T1 scans 5–9**.

@@ -2,20 +2,17 @@
 scan_page: 150
 printed_page: null
 work: "surulimalai"
-section: "back-matter"
-page_type: "back-cover"
-status: "verified-structural"
+section: "source-structure"
+page_type: "unknown-in-truncated-parser-view"
+status: "invalidated"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "direct visual structural inspection"
 ---
 
-# Back cover
+# INVALIDATED STRUCTURAL RECORD
 
-This scan is the physical **back cover / non-narrative outer matter** of the 1968 second-edition source.
+The earlier classification of parser-visible page 150 as the physical back cover is **withdrawn**.
 
-It follows the source-visible narrative ending on **scan 149 / printed page 198**.
+Reason: the ChatGPT Files parser exposes only 150 pages for a source copy whose complete extent is 198 pages. This record must not be used for source structure, canonical text, or terminal-boundary decisions.
 
-No text from this scan is imported into the canonical novel body.
-
-<!-- மூல ஸ்கேன் பக்கம்: 150; அச்சுப் பக்கம்: — -->
+Reclassify only from a complete 198-page source representation.
