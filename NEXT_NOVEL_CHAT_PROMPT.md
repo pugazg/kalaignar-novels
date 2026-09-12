@@ -1,4 +1,4 @@
-# Next Chat Prompt — நடுத்தெரு நாராயணி / English Batch 1 pilot
+# Next Chat Prompt — நடுத்தெரு நாராயணி / English Batch 2
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,33 +8,35 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AU
 - whole-work Tamil source audit: **PASS / COMPLETE**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - English translation plan: **PASS / COMPLETE**;
-- working English title: **Nadutheru Narayani**;
-- English coverage: **0 / 16 scans**;
-- English prose: **NOT STARTED**.
+- Batch 1 scans **75–79**: **REVIEWED / COMPLETE**;
+- English coverage: **5 / 16 scans**;
+- Batch 1 source-check: **0 omissions / 0 source-like additions / 0 unresolved blockers / 0 canonical Tamil changes**;
+- Batch 2 scans **80–84**: **NEXT**;
+- Batch 3 scans **85–90**: **BLOCKED**.
 
-English plan/control files:
+English working section:
 
-- `works/nadutheru-narayani/translations/en/TRANSLATION_PLAN.md`;
-- `works/nadutheru-narayani/translations/en/README.md`;
-- `works/nadutheru-narayani/translations/en/PROGRESS.md`;
-- `works/nadutheru-narayani/translations/en/GLOSSARY.md`.
+`works/nadutheru-narayani/translations/en/sections/01-nadutheru-narayani.md`
 
-Controlled batches:
+Batch 1 review:
 
-1. **75–79 — pilot / NEXT**
-2. **80–84 — blocked**
-3. **85–90 — blocked**
+`works/nadutheru-narayani/translations/en/BATCH_01_REVIEW.md`
 
 ## Exact next activity
 
-Translate and source-check **Batch 1 scans 75–79 only**.
+Translate and source-check **Batch 2 scans 80–84 only**.
 
-Create `works/nadutheru-narayani/translations/en/sections/01-nadutheru-narayani.md`.
+Start by completing the open **79→80** quotation. Continue the same English section; do not invent a chapter break.
 
-Use canonical `pages/` as textual authority and the assembled Tamil only for continuity. Preserve source provenance, rhetoric, mythological satire, caste/social terminology and Krishnayyar's colloquial register without inventing an English ethnic accent.
+Mandatory Batch 2 checks:
 
-Do not translate scan80. The verified **79→80** continuation must remain explicitly open for Batch 2.
+- scan80 is the printed **78–79** two-page illustrated spread — translate printed prose only, never narrate the illustration;
+- preserve caste/religious rhetoric and Krishnayyar's colloquial register without an invented English ethnic accent;
+- explicitly resolve English handling of protected `பூணால் வலையில்`;
+- explicitly preserve the `வைப்பு / ஒய்ப் / வைப்` wordplay and its relationship to English **wife**;
+- preserve `பதி சொல் தட்டாத` without silently correcting canonical Tamil;
+- preserve verified joins 79→80, 81→82, 83→84 and the open 84→85 continuation;
+- update `GLOSSARY.md`, `README.md`, `PROGRESS.md`, create `BATCH_02_REVIEW.md`, and source-check against canonical scans 80–84;
+- mark Batch 2 **REVIEWED / COMPLETE** only if omissions/additions/agency/terminology/join checks pass.
 
-During the pilot, finalize recurring glossary choices for `பிரகாரம்`, `விபூதி`, devotional address terms, and colloquial-register handling. Compare the English back against scans 75–79 canonical Tamil; record omissions/additions/agency/terminology/join results; mark Batch 1 `REVIEWED / COMPLETE` only if the source-check passes.
-
-Commit the bounded pilot and stop before Batch 2.
+Stop before translating scan85.

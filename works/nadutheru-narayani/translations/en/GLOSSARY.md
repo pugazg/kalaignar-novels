@@ -1,6 +1,6 @@
 # English Translation Glossary — நடுத்தெரு நாராயணி
 
-Status: **INITIAL / SECTION 14 PLAN LOCKED**.
+Status: **BATCH 1 PILOT LOCKED / ENGLISH IN PROGRESS**.
 
 This file records source-bound translation decisions. Canonical Tamil remains authoritative. A locked English decision may change only through an explicit documented correction; it never silently alters Tamil.
 
@@ -24,9 +24,9 @@ This file records source-bound translation decisions. Canonical Tamil remains au
 | `தர்மகர்த்தா` | **temple trustee (dharmakarta)** at first substantial use; then **temple trustee** | **LOCKED** |
 | `குருக்கள்` | **temple priest / priest** by syntax | **LOCKED** |
 | `கர்ப்பக்கிரகம்` | **sanctum** | **LOCKED** |
-| `பிரகாரம்` | pilot to choose stable **prakaram** vs descriptive English | **PILOT DECISION REQUIRED** |
+| `பிரகாரம்` | **prakaram**; use descriptive context where needed but retain the term | **LOCKED** |
 | `பிரசாதம்` | **prasadam** | **INITIAL LOCK** |
-| `விபூதி` | **vibhuti / sacred ash**; pilot fixes final recurring form | **PILOT DECISION REQUIRED** |
+| `விபூதி` | **vibhuti**; first descriptive occurrence may say **vibhuti, sacred ash** | **LOCKED** |
 | `பூணூல்` | **sacred thread** | **LOCKED** |
 | `பூணால் வலையில்` | protected source wording; translate conservatively without emending `பூணால்` | **BATCH 2 DECISION REQUIRED** |
 | `வைப்பு / ஒய்ப் / வைப்` | mandatory wordplay checkpoint; preserve relationship to English **wife** and do not flatten | **BATCH 2 DECISION REQUIRED** |
@@ -55,4 +55,28 @@ Batch 1 must lock recurring choices for:
 - the narrative handling of mythological satire and rhetorical comparison;
 - Krishnayyar's colloquial speech register.
 
-No English prose exists at this planning checkpoint.
+## Batch 1 pilot decisions
+
+| Tamil | English handling | State |
+|---|---|---|
+| `தலைத் தீபாவளி` | **first Deepavali after marriage** | **LOCKED** |
+| `ஆளுக்கு ஆளு-காணுவுக்குக் காணு` | **aalukku aalu—kaanukku kaanu** inside the narrator's own “meaningless alliterative dialogue” framing | **LOCKED / CONSERVATIVE** |
+| `எக்கண விசினுலோ ; என்ன வக்கண பேசினுலோ` | **ekkana visinulo; enna vakkana pesinulo**; source-opaque sequence retained rather than semantically invented | **LOCKED / CONSERVATIVE** |
+| `நாயன வித்துவான்கள்` | **Nayanam musicians** | **LOCKED** |
+| `துலாமுழுக்கு` | **Tula bath** | **LOCKED** |
+| `மோட்சலோகம்` | **realm of moksha** | **LOCKED** |
+| `பி. ஏ. குடுமி` | **B.A. kudumi** | **LOCKED** source hybrid satire |
+| `அமெரிக்கன் கிராப்பு` | **American crop** | **LOCKED** |
+| `நாமம்` | **namam**; context identifies the Vaishnavite forehead mark | **LOCKED** |
+| `புரு வலுவிலே` | **puru valuvile**; source wording retained without guessed repair | **LOCKED / CONSERVATIVE** |
+| `அபிஷேக ஆராதனை` | **abhisheka and aradhana rites** | **LOCKED** |
+| `உபயம்` | **ubayam**; temple sponsorship/observance context retained | **LOCKED** |
+| `சுவாமி` | **Swami** in direct devotional/respectful address | **LOCKED** |
+| `அடியேன்` | **this humble servant** where used as self-abasing devotional speech | **LOCKED** |
+| `தேவி` | **Goddess/goddess** according to referent; do not insert theology beyond source | **LOCKED** |
+| `அப்பிரதக்ஷிணம்` | **apradakshina, the counter-clockwise direction** on first substantial use | **LOCKED** |
+
+Krishnayyar's colloquial dialogue is rendered through informal vocabulary, contractions and rhythm, with **no invented English ethnic accent**.
+
+Batch 1 source-check closed with **0 material omissions / 0 source-like additions / 0 unresolved blockers**. English coverage is **5 / 16 scans**.
+

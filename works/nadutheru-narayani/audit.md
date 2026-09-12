@@ -117,4 +117,20 @@ T1 closure record: [`T1_COMPLETION.md`](T1_COMPLETION.md).
 - English prose created at this gate: **0**;
 - canonical Tamil changes during planning: **0**.
 
-**Next: English Batch 1 pilot — scans 75–79 only.**
+## English Batch 1 pilot — scans 75–79
+
+- state: **DRAFT-TRANSLATED → SOURCE-CHECKED → REVIEWED / COMPLETE**;
+- coverage: **5 / 5 batch scans; 5 / 16 whole-work scans**;
+- source provenance markers: **5 / 5**;
+- material omissions: **0**;
+- source-like additions: **0**;
+- unresolved translation blockers: **0**;
+- canonical Tamil changes: **0**;
+- scan76→77 join: **PASS**;
+- scan78→79 join: **PASS**;
+- scan79→80 open quotation: **PRESERVED OPEN / no Batch 2 prose borrowed**;
+- colloquial-register / rhetoric gate: **PASS**;
+- terminology decisions: **LOCKED in `translations/en/GLOSSARY.md`**;
+- review record: [`translations/en/BATCH_01_REVIEW.md`](translations/en/BATCH_01_REVIEW.md).
+
+**Next: English Batch 2 — scans 80–84 only.**

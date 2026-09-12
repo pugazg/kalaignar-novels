@@ -20,8 +20,9 @@
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - assembled-vs-canonical consistency: **PASS — 16 / 16 scans**;
 - English translation plan: **PASS / COMPLETE**;
-- English translation coverage: **0 / 16 scans — NOT STARTED**;
-- English Batch 1 pilot: **PLANNED / NEXT — scans 75–79**.
+- English translation coverage: **5 / 16 scans**;
+- English Batch 1 pilot: **REVIEWED / COMPLETE — scans 75–79**;
+- English Batch 2: **PLANNED / NEXT — scans 80–84**.
 
 Collection provenance: `../../collections/arumbu-1978/`.
 
@@ -38,4 +39,6 @@ Reading-layer controls: [`sections/README.md`](sections/README.md).
 
 English controls: [`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md), [`translations/en/README.md`](translations/en/README.md), [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md), [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md).
 
-Next: **English Batch 1 pilot — scans 75–79 only**.
+Batch 1 review: [`translations/en/BATCH_01_REVIEW.md`](translations/en/BATCH_01_REVIEW.md).
+
+Next: **English Batch 2 — scans 80–84 only**.
