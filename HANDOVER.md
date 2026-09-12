@@ -34,9 +34,11 @@
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - assembled-vs-canonical consistency: **PASS — 16 / 16 scans / 11 joins / 0 mutation**;
 - English translation plan: **PASS / COMPLETE**;
-- English coverage: **5 / 16 scans**;
-- English Batch 1 pilot: **REVIEWED / COMPLETE — scans 75–79**;
-- English Batch 2: **PLANNED / NEXT — scans 80–84**.
+- English coverage: **16 / 16 scans**;
+- English Batches 1–3: **REVIEWED / COMPLETE — scans 75–90**;
+- per-batch omissions / source-like additions / unresolved blockers: **0 / 0 / 0**;
+- whole-work bilingual review: **NOT STARTED / NEXT**;
+- whole-work English: **NOT YET VERIFIED**.
 
 T1 closure: `works/nadutheru-narayani/T1_COMPLETION.md`.
 
@@ -56,27 +58,27 @@ English planning/control records:
 - `works/nadutheru-narayani/translations/en/PROGRESS.md`;
 - `works/nadutheru-narayani/translations/en/GLOSSARY.md`.
 
-Batch 1 records:
+English batch records:
 
 - `works/nadutheru-narayani/translations/en/sections/01-nadutheru-narayani.md`;
-- `works/nadutheru-narayani/translations/en/BATCH_01_REVIEW.md`.
+- `works/nadutheru-narayani/translations/en/BATCH_01_REVIEW.md`;
+- `works/nadutheru-narayani/translations/en/BATCH_02_REVIEW.md`;
+- `works/nadutheru-narayani/translations/en/BATCH_03_REVIEW.md`.
 
-Batch 1 source-check: **5 / 5 scans; 0 omissions; 0 source-like additions; 0 unresolved blockers; 0 canonical Tamil changes**.
+Batches 1–3 source-check: **16 / 16 scans; 0 material omissions; 0 source-like additions; 0 unresolved blockers; 0 canonical Tamil changes**.
 
 ## Exact next activity
 
-Process **English Batch 2 — scans 80–84 only**.
+Perform the **Section 16 whole-work bilingual review**.
 
 Requirements:
 
-1. continue the existing one-section English file; do not create a second chapter;
-2. begin by completing the open scan79→80 quotation using scan80 canonical Tamil;
-3. translate only scans **80–84**;
-4. preserve scan80's printed 78–79 illustration boundary without converting the illustration into prose;
-5. preserve and explicitly review Batch 2 protected forms, especially `பூணால் வலையில்`, `வைப்பு / ஒய்ப் / வைப்`, and `பதி சொல் தட்டாத`;
-6. apply the locked caste/religious/colloquial/wordplay policies and add new decisions to `GLOSSARY.md`;
-7. source-check omissions, additions, speaker/agency drift, rhetoric and joins, including the closing scan84→85 continuation;
-8. mark Batch 2 reviewed only if the source-check passes;
-9. synchronize controls, commit, and stop before Batch 3.
+1. compare the complete English section against all **16/16** canonical Tamil records and the PASSED assembled Tamil continuity layer;
+2. verify all scan provenance markers **75–90** and all source-supported joins, including 76→77, 78→79, 79→80, 81→82, 83→84, 84→85, 85→86, 86→87, 87→88, 88→89 and 89→90;
+3. recheck names, caste/community terminology, religious/temple terms, colloquial register, source satire, `வைப்பு / wife / vaip` wordplay, protected oddities and sound effects;
+4. check omissions, additions, agency, speaker attribution, paragraph order, ending and terminal rule;
+5. create `works/nadutheru-narayani/translations/en/TRANSLATION_REVIEW.md`;
+6. mark whole-work English **VERIFIED** only if the independent bilingual review passes;
+7. synchronize controls, commit, and stop before release-readiness / Section 17.
 
 Do not alter canonical Tamil unless genuinely new source evidence appears.

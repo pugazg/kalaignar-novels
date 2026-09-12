@@ -1,6 +1,6 @@
 # English Translation Glossary — நடுத்தெரு நாராயணி
 
-Status: **BATCH 1 PILOT LOCKED / ENGLISH IN PROGRESS**.
+Status: **BATCHES 1–3 LOCKED / ENGLISH COVERAGE COMPLETE; WHOLE-WORK REVIEW NEXT**.
 
 This file records source-bound translation decisions. Canonical Tamil remains authoritative. A locked English decision may change only through an explicit documented correction; it never silently alters Tamil.
 
@@ -28,14 +28,14 @@ This file records source-bound translation decisions. Canonical Tamil remains au
 | `பிரசாதம்` | **prasadam** | **INITIAL LOCK** |
 | `விபூதி` | **vibhuti**; first descriptive occurrence may say **vibhuti, sacred ash** | **LOCKED** |
 | `பூணூல்` | **sacred thread** | **LOCKED** |
-| `பூணால் வலையில்` | protected source wording; translate conservatively without emending `பூணால்` | **BATCH 2 DECISION REQUIRED** |
-| `வைப்பு / ஒய்ப் / வைப்` | mandatory wordplay checkpoint; preserve relationship to English **wife** and do not flatten | **BATCH 2 DECISION REQUIRED** |
-| `பதி சொல் தட்டாத` | protected source phrase; render semantic force without rewriting canonical Tamil | **BATCH 2 DECISION REQUIRED** |
-| `தல தப்பாதடி, தல தப்பாது` | genuine short source form; translate sense without “correcting” Tamil | **BATCH 3 PROTECTED** |
-| `ஒரு கடாரம் பத்திருக்கு` | protected opaque source reading; no inferred correction | **BATCH 3 DECISION REQUIRED** |
-| `பகற் கொள்ளைக்காரனைப்` | source-confirmed phrase; likely literal “daylight robber” subject to sentence-level check | **BATCH 3 REVIEW** |
+| `பூணால் வலையில்` | **the poonāl net**; source form transliterated conservatively, not emended to `பூணூல்` | **LOCKED** |
+| `வைப்பு / ஒய்ப் / வைப்` | retain **vaippu** for the kept-woman label; Krishnayyar's joke explicitly links it to English **wife** and his spoken **vaip** | **LOCKED** |
+| `பதி சொல் தட்டாத` | **never went against her husband's word** | **LOCKED** |
+| `தல தப்பாதடி, தல தப்பாது` | **I won't escape, girl—I won't escape**; source short form remains unchanged in Tamil | **LOCKED** |
+| `ஒரு கடாரம் பத்திருக்கு` | **oru kadaram paththirukku**; retained untranslated because the verified source reading is semantically opaque | **LOCKED / CONSERVATIVE** |
+| `பகற் கொள்ளைக்காரனைப்` | **like a daylight robber** | **LOCKED** |
 | `டுமீல்! டுமீல்!` | **Dumeel! Dumeel!** | **LOCKED** source onomatopoeia |
-| `அவர்கள் அய்யரை வீரராக்கிவிட்டார்கள்` | preserve literal agency: they **made Iyer into a hero** | **BATCH 3 LOCK / SOURCE-CHECK** |
+| `அவர்கள் அய்யரை வீரராக்கிவிட்டார்கள்` | **They made Iyer into a hero** | **LOCKED** |
 
 ## Register policy
 
@@ -80,3 +80,34 @@ Krishnayyar's colloquial dialogue is rendered through informal vocabulary, contr
 
 Batch 1 source-check closed with **0 material omissions / 0 source-like additions / 0 unresolved blockers**. English coverage is **5 / 16 scans**.
 
+
+## Batch 2 decisions
+
+| Tamil | English handling | State |
+|---|---|---|
+| `காப்புக் கிரகம்` | **kaappuk-graham**; verified source compound retained conservatively rather than normalized | **LOCKED / CONSERVATIVE** |
+| `கலப்புத் திருமணம்` | **inter-caste marriage** | **LOCKED** |
+| `கற்பரசி` | **paragon of chastity** where required by context | **LOCKED** |
+| `தாசி` | **courtesan** | **LOCKED** |
+| `காமன்` | **Kama** | **LOCKED** |
+| `வாரியார்` | **Variyar**; no unprinted expansion of identity | **LOCKED** |
+| `இயற்பகை நாயனார்` | **Iyarpagai Nayanar** | **LOCKED** |
+
+Batch 2 source-check: **5 / 5 scans; 0 material omissions / 0 source-like additions / 0 unresolved blockers / 0 canonical Tamil changes**.
+
+## Batch 3 decisions
+
+| Tamil | English handling | State |
+|---|---|---|
+| `கைக்கு காப்பு / கைக்கு விலங்கு` | **shackles / handcuffs** in the explicit imprisonment context | **LOCKED** |
+| `குல ஸ்திரீ` | **respectable woman** in Krishnayyar's quoted claim | **LOCKED** |
+| `பளார்` | **Palaaaar!** as source slap sound | **LOCKED** |
+| `விபச்சாரி` | **prostitute** | **LOCKED** source accusation/self-description |
+| `பத்தினி` | **chaste wife** where used polemically | **LOCKED** |
+| `அம்மாமி` | **Ammami**; retain the source social/caste address rather than flatten it | **LOCKED** |
+| `மிஸஸ் நாயுடு` | **Mrs. Naidu** | **LOCKED** |
+| final `நடுத்தெரு` turn | retain **Nadutheru** and preserve the narrator's “different meaning” ambiguity; do not explain the innuendo inside prose | **LOCKED** |
+
+Batch 3 source-check: **6 / 6 scans; 0 material omissions / 0 source-like additions / 0 unresolved blockers / 0 canonical Tamil changes**.
+
+English batch coverage is now **16 / 16 scans**. Whole-work bilingual verification remains a separate next gate.

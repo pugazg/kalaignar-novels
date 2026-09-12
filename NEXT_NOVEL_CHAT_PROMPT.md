@@ -1,4 +1,4 @@
-# Next Chat Prompt — நடுத்தெரு நாராயணி / English Batch 2
+# Next Chat Prompt — நடுத்தெரு நாராயணி / Section 16 whole-work bilingual review
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -9,34 +9,31 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AU
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - English translation plan: **PASS / COMPLETE**;
 - Batch 1 scans **75–79**: **REVIEWED / COMPLETE**;
-- English coverage: **5 / 16 scans**;
-- Batch 1 source-check: **0 omissions / 0 source-like additions / 0 unresolved blockers / 0 canonical Tamil changes**;
-- Batch 2 scans **80–84**: **NEXT**;
-- Batch 3 scans **85–90**: **BLOCKED**.
+- Batch 2 scans **80–84**: **REVIEWED / COMPLETE**;
+- Batch 3 scans **85–90**: **REVIEWED / COMPLETE**;
+- English coverage: **16 / 16 scans**;
+- per-batch material omissions / source-like additions / unresolved blockers: **0 / 0 / 0**;
+- canonical Tamil changes during English work: **0**;
+- whole-work English: **NOT YET VERIFIED**.
 
-English working section:
+English section:
 
 `works/nadutheru-narayani/translations/en/sections/01-nadutheru-narayani.md`
 
-Batch 1 review:
+Batch reviews:
 
-`works/nadutheru-narayani/translations/en/BATCH_01_REVIEW.md`
+- `works/nadutheru-narayani/translations/en/BATCH_01_REVIEW.md`
+- `works/nadutheru-narayani/translations/en/BATCH_02_REVIEW.md`
+- `works/nadutheru-narayani/translations/en/BATCH_03_REVIEW.md`
 
 ## Exact next activity
 
-Translate and source-check **Batch 2 scans 80–84 only**.
+Perform **Section 16 whole-work bilingual review** across scans **75–90**.
 
-Start by completing the open **79→80** quotation. Continue the same English section; do not invent a chapter break.
+Create `works/nadutheru-narayani/translations/en/TRANSLATION_REVIEW.md`.
 
-Mandatory Batch 2 checks:
+Independently reconcile the complete English against canonical Tamil and the assembled Tamil continuity layer. Verify **16/16 provenance markers** and all **11 source joins**; recheck names, caste/community and temple terminology, Krishnayyar's colloquial register, political/religious satire, `vaippu / wife / vaip` wordplay, protected source oddities, `Dumeel! Dumeel!`, speaker/agency fidelity, scan80 illustration exclusion, scan90 ending and terminal rule.
 
-- scan80 is the printed **78–79** two-page illustrated spread — translate printed prose only, never narrate the illustration;
-- preserve caste/religious rhetoric and Krishnayyar's colloquial register without an invented English ethnic accent;
-- explicitly resolve English handling of protected `பூணால் வலையில்`;
-- explicitly preserve the `வைப்பு / ஒய்ப் / வைப்` wordplay and its relationship to English **wife**;
-- preserve `பதி சொல் தட்டாத` without silently correcting canonical Tamil;
-- preserve verified joins 79→80, 81→82, 83→84 and the open 84→85 continuation;
-- update `GLOSSARY.md`, `README.md`, `PROGRESS.md`, create `BATCH_02_REVIEW.md`, and source-check against canonical scans 80–84;
-- mark Batch 2 **REVIEWED / COMPLETE** only if omissions/additions/agency/terminology/join checks pass.
+Whole-work English may be marked **VERIFIED** only if omissions, additions, mistranslations/agency drift, unresolved terminology and structural defects are all closed.
 
-Stop before translating scan85.
+Stop after Section 16; do not begin Section 17 release-readiness in the same activity.

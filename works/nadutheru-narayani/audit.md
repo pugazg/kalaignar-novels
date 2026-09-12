@@ -133,4 +133,20 @@ T1 closure record: [`T1_COMPLETION.md`](T1_COMPLETION.md).
 - terminology decisions: **LOCKED in `translations/en/GLOSSARY.md`**;
 - review record: [`translations/en/BATCH_01_REVIEW.md`](translations/en/BATCH_01_REVIEW.md).
 
-**Next: English Batch 2 — scans 80–84 only.**
+## English Batches 2–3 — remaining scans 80–90
+
+- Batch 2 scans **80–84**: **REVIEWED / COMPLETE**;
+- Batch 3 scans **85–90**: **REVIEWED / COMPLETE**;
+- final English batch coverage: **16 / 16 scans**;
+- source provenance: **16 / 16 physical scan markers**;
+- Batch 2 omissions / additions / unresolved: **0 / 0 / 0**;
+- Batch 3 omissions / additions / unresolved: **0 / 0 / 0**;
+- scan80 illustration exclusion: **PASS**;
+- protected wordplay / oddity handling: **PASS / documented in glossary**;
+- scan90 ending / terminal rule: **PASS**;
+- canonical Tamil changes during English work: **0**;
+- reviews: [`translations/en/BATCH_02_REVIEW.md`](translations/en/BATCH_02_REVIEW.md), [`translations/en/BATCH_03_REVIEW.md`](translations/en/BATCH_03_REVIEW.md).
+
+**All translation batches are REVIEWED / COMPLETE, but whole-work English is NOT YET VERIFIED.**
+
+**Next: Section 16 whole-work bilingual review.**

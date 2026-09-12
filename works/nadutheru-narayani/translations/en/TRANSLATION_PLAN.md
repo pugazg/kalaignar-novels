@@ -188,8 +188,10 @@ After all three batches are reviewed, perform the whole-work bilingual review in
 
 This file establishes translation policy and batch boundaries only. **No English translation prose has been created in this checkpoint.**
 
+## Translation-batch completion
+
+Batches **1–3** now cover scans **75–90 / 16 of 16** and are **REVIEWED / COMPLETE** after per-batch source checks. This does not by itself make whole-work English VERIFIED.
+
 ## Exact next activity
 
-**English Batch 1 pilot — scans 75–79 only.**
-
-Create the English section file, translate/source-check only scans 75–79, preserve scan provenance and the verified joins inside the batch, document pilot terminology decisions, commit, and stop before scan80 / Batch 2.
+Perform the mandatory **Section 16 whole-work bilingual review** across the complete Tamil and English reading layers. Create `TRANSLATION_REVIEW.md`, reconcile names/terms/rhetoric/provenance and all 11 Tamil source joins against the complete English section, and mark whole-work English VERIFIED only if that independent review passes.

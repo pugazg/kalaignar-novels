@@ -20,9 +20,10 @@
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - assembled-vs-canonical consistency: **PASS — 16 / 16 scans**;
 - English translation plan: **PASS / COMPLETE**;
-- English translation coverage: **5 / 16 scans**;
-- English Batch 1 pilot: **REVIEWED / COMPLETE — scans 75–79**;
-- English Batch 2: **PLANNED / NEXT — scans 80–84**.
+- English translation coverage: **16 / 16 scans**;
+- English Batches 1–3: **REVIEWED / COMPLETE — scans 75–90**;
+- whole-work bilingual review: **NOT STARTED / NEXT**;
+- whole-work English: **NOT YET VERIFIED**.
 
 Collection provenance: `../../collections/arumbu-1978/`.
 
@@ -39,6 +40,6 @@ Reading-layer controls: [`sections/README.md`](sections/README.md).
 
 English controls: [`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md), [`translations/en/README.md`](translations/en/README.md), [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md), [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md).
 
-Batch 1 review: [`translations/en/BATCH_01_REVIEW.md`](translations/en/BATCH_01_REVIEW.md).
+Batch reviews: [`translations/en/BATCH_01_REVIEW.md`](translations/en/BATCH_01_REVIEW.md), [`translations/en/BATCH_02_REVIEW.md`](translations/en/BATCH_02_REVIEW.md), [`translations/en/BATCH_03_REVIEW.md`](translations/en/BATCH_03_REVIEW.md).
 
-Next: **English Batch 2 — scans 80–84 only**.
+Next: **Section 16 whole-work bilingual review**.
