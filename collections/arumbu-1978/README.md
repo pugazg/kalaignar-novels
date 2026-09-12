@@ -13,12 +13,12 @@
 
 | Scans | Component | State |
 |---|---|---|
-| 1–5 | front matter | REGISTERED |
+| 1–5 | front matter | **PARATEXT VERIFIED / CLOSED — 5/5** |
 | 6–23 | அரும்பு | **RELEASE-READY / CLOSED** |
 | 24–48 | சாரப்பள்ளம் சாமுண்டி | **RELEASE-READY / CLOSED** |
 | 49–74 | பெரிய இடத்துப் பெண் | **WITNESS COMPARISON COMPLETE / CLOSED — 26/26** |
 | 75–90 | நடுத்தெரு நாராயணி | **RELEASE-READY / CLOSED** |
-| 91–92 | publisher catalogue / back cover | REGISTERED |
+| 91–92 | publisher catalogue / back cover | **PARATEXT VERIFIED / CLOSED — 2/2** |
 
 சாரப்பள்ளம் சாமுண்டி has **25/25 canonical and verified records**. The independent whole-work Tamil audit is **PASS / COMPLETE after 1 residual source correction** with **0 unresolved**. The assembled Tamil reading layer is **PASS / COMPLETE — 1 / 1 section**.
 
@@ -38,4 +38,21 @@ English Batches **1–3**, scans **75–90**, are **REVIEWED / COMPLETE** with *
 
 `நடுத்தெரு நாராயணி` Section 17 release-readiness is **PASS / COMPLETE**; archival/editorial package: **RELEASE-READY / CLOSED**.
 
-Next unresolved collection-level archival span: **paratext scans 1–5 and 91–92**.
+Collection paratext scans **1–5 and 91–92** are now **7/7 VERIFIED / CLOSED**. The complete 92-scan compilation is fully accounted for.
+
+Collection paratext records: [`pages/README.md`](pages/README.md).  
+Closure record: [`PARATEXT_CLOSURE.md`](PARATEXT_CLOSURE.md).
+
+**அரும்பு 1978 collection verdict: ARCHIVAL CLOSED.**
+
+
+## Collection-level paratext closure
+
+- paratext scans: **7 / 7 VERIFIED**;
+- full source accounting: **92 / 92 scans**;
+- unresolved collection-level readings: **0**;
+- source PDF committed: **No**;
+- scan4 printer metadata corrected from stale `எழில்மணி அச்சகம்` to source-visible **`எஷியன் அச்சகம், சென்னை-600014`**;
+- no closed story/witness canonical layer was modified.
+
+**COLLECTION ARCHIVAL CLOSED.**

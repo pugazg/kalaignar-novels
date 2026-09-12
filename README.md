@@ -2,31 +2,30 @@
 
 > **மூல ஸ்கேன் page/structure authority.** Source PDF files repository-யில் commit செய்யப்படாது.
 
-## Active source — அரும்பு 1978 compilation
+## Latest completed source — அரும்பு 1978 compilation
 
 - அரும்பு — scans 6–23 — **RELEASE-READY / CLOSED**;
 - சாரப்பள்ளம் சாமுண்டி — scans 24–48 — **RELEASE-READY / CLOSED**;
 - பெரிய இடத்துப் பெண் — scans 49–74 — **1978 WITNESS COMPARISON COMPLETE / CLOSED — 26/26**;
-- நடுத்தெரு நாராயணி — scans 75–90 — **RELEASE-READY / CLOSED — Tamil + English VERIFIED**.
+- நடுத்தெரு நாராயணி — scans 75–90 — **RELEASE-READY / CLOSED — Tamil + English VERIFIED**;
+- collection paratext — scans 1–5 and 91–92 — **7/7 VERIFIED / CLOSED**;
+- full compilation accounting — **92/92 scans / COLLECTION ARCHIVAL CLOSED**.
 
-### Current சாரப்பள்ளம் சாமுண்டி state
+### அரும்பு 1978 collection closure
 
-- canonical / verified records: **25 / 25**;
-- page-level T1/T2/T3: **PASS / COMPLETE**;
-- whole-work Tamil audit: **PASS / COMPLETE**;
-- whole-work audit residual corrections: **1 / 0 unresolved**;
-- residual: scan29 வாயாலிருந்துவிட்டான் → **வாளாயிருந்துவிட்டான்**;
-- assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
-- English translation plan: **PASS / COMPLETE**;
-- English coverage: **25 / 25 scans**;
-- English Batches 1–5 — scans **24–48: REVIEWED / COMPLETE**;
-- Section 16 whole-work bilingual review: **PASS / COMPLETE**;
-- whole-work English: **VERIFIED**;
-- Section 17 release-readiness: **PASS / COMPLETE**;
-- archival/editorial package: **RELEASE-READY / CLOSED**;
-- source PDF remains excluded.
+- collection-level paratext records: **7 / 7 VERIFIED**;
+- front matter scans **1–5: CLOSED**;
+- back matter scans **91–92: CLOSED**;
+- four story/witness spans: **CLOSED**;
+- physical scan accounting: **92 / 92**;
+- unresolved collection-level items: **0**;
+- source metadata correction: scan4 printer **எஷியன் அச்சகம், சென்னை-600014**;
+- source PDF remains excluded;
+- collection verdict: **ARCHIVAL CLOSED**.
 
-Exact next action: **அரும்பு 1978 collection paratext closure — scans 1–5 and 91–92**.
+Closure record: `collections/arumbu-1978/PARATEXT_CLOSURE.md`.
+
+Exact next action: **No active unprocessed source is currently registered. Register the next controlling source/work before transcription.**
 
 ## Completed works
 

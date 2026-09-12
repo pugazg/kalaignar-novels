@@ -5,96 +5,63 @@
 - Repository: `pugazg/kalaignar-novels`
 - Branch: `main`
 - **Live main is authoritative.**
-- Active work: **அரும்பு 1978 collection-level paratext closure**
-- Prior `பெரிய இடத்துப் பெண்` witness comparison: **PASS / COMPLETE / CLOSED**
+- Active unprocessed source: **NONE REGISTERED**
 
-## Active source — நடுத்தெரு நாராயணி
+## Latest completed source — அரும்பு 1978 compilation
 
-`TVA_BOK_0064361_அரும்பு.pdf`
+Controlling source: `TVA_BOK_0064361_அரும்பு.pdf`
 
 - SHA-256: `04a3013e1f58a1800867acc5d2f159976c47994a64478036e6fe0201edf120bc`
-- edition: **முதற் பதிப்பு — 1978**
+- size: **117,270,339 bytes**
+- physical scans: **92**
+- edition: **முதற் பதிப்பு : 1978**
 - publisher: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**
-- work span: **75–90 / 16 physical scans**
 - source PDF committed: **No**
 
-## Durable Tamil state
+## Full collection state
 
-- source intake: **COMPLETE**;
-- component boundary: **CONFIRMED**;
-- canonical page records: **16 / 16**;
-- T1 transcription: **PASS / COMPLETE — scans 75–90**;
-- verified pages: **16 / 16**;
-- current statuses: **16 verified / 0 needs-review**;
-- scan80 is a **two-page illustrated spread, printed 78–79**;
-- scan90 is the source-visible work ending;
-- T2 / historical-glyph source-fidelity review: **PASS / COMPLETE — scans 75–90**;
-- whole-work Tamil source audit: **PASS / COMPLETE — 0 residual canonical corrections / 0 unresolved**;
-- Tamil source layer: **PASS / COMPLETE**;
-- assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
-- assembled-vs-canonical consistency: **PASS — 16 / 16 scans / 11 joins / 0 mutation**;
-- English translation plan: **PASS / COMPLETE**;
-- English coverage: **16 / 16 scans**;
-- English Batches 1–3: **REVIEWED / COMPLETE — scans 75–90**;
-- per-batch omissions / source-like additions / unresolved blockers: **0 / 0 / 0**;
-- whole-work bilingual review: **PASS / COMPLETE**;
-- whole-work English: **VERIFIED**;
-- Section 17 release-readiness: **PASS / COMPLETE**;
-- archival/editorial package: **RELEASE-READY / CLOSED**.
+- scans **1–5** — collection front matter — **5/5 VERIFIED / CLOSED**;
+- scans **6–23** — `அரும்பு` — **RELEASE-READY / CLOSED**;
+- scans **24–48** — `சாரப்பள்ளம் சாமுண்டி` — **RELEASE-READY / CLOSED**;
+- scans **49–74** — 1978 `பெரிய இடத்துப் பெண்` additional witness — **COMPARISON COMPLETE / CLOSED — 26/26**;
+- scans **75–90** — `நடுத்தெரு நாராயணி` — **RELEASE-READY / CLOSED**;
+- scans **91–92** — publisher catalogue / back cover — **2/2 VERIFIED / CLOSED**.
 
-T1 closure: `works/nadutheru-narayani/T1_COMPLETION.md`.
+Physical source accounting: **92 / 92 scans**.  
+Collection-level unresolved items: **0**.  
+Collection verdict: **ARCHIVAL CLOSED**.
 
-T2 is **PASS / COMPLETE across scans 75–90**: **40 source-proven corrections / 0 unresolved readings / 16 of 16 pages verified**. The independent whole-work Tamil source audit has also **PASSED** with **0 residual canonical corrections / 0 unresolved historical glyphs / 0 unresolved source readings**. All 11 recorded cross-scan continuities, scan80's printed 78–79 illustrated spread, scan90's source-visible ending, protected source oddities, and source-PDF exclusion were reconfirmed.
+Collection paratext records:
 
-Whole-work audit record: `works/nadutheru-narayani/FULL_TAMIL_SOURCE_AUDIT.md`.
+- `collections/arumbu-1978/pages/README.md`;
+- `collections/arumbu-1978/pages/0001-cover.md`;
+- `collections/arumbu-1978/pages/0002-copy-provenance.md`;
+- `collections/arumbu-1978/pages/0003-title-page.md`;
+- `collections/arumbu-1978/pages/0004-publication.md`;
+- `collections/arumbu-1978/pages/0005-publisher-note.md`;
+- `collections/arumbu-1978/pages/0091-publisher-catalogue.md`;
+- `collections/arumbu-1978/pages/0092-back-cover.md`.
 
-Assembled Tamil records:
+Closure record:
 
-- `works/nadutheru-narayani/sections/README.md`;
-- `works/nadutheru-narayani/sections/01-nadutheru-narayani.md`.
+`collections/arumbu-1978/PARATEXT_CLOSURE.md`
 
-English planning/control records:
+Source-proven metadata correction completed:
 
-- `works/nadutheru-narayani/translations/en/TRANSLATION_PLAN.md`;
-- `works/nadutheru-narayani/translations/en/README.md`;
-- `works/nadutheru-narayani/translations/en/PROGRESS.md`;
-- `works/nadutheru-narayani/translations/en/GLOSSARY.md`.
+- stale: `எழில்மணி அச்சகம், சென்னை-600014`
+- source-visible: **`எஷியன் அச்சகம், சென்னை-600014`**
 
-English batch records:
-
-- `works/nadutheru-narayani/translations/en/sections/01-nadutheru-narayani.md`;
-- `works/nadutheru-narayani/translations/en/BATCH_01_REVIEW.md`;
-- `works/nadutheru-narayani/translations/en/BATCH_02_REVIEW.md`;
-- `works/nadutheru-narayani/translations/en/BATCH_03_REVIEW.md`.
-
-Batches 1–3 source-check: **16 / 16 scans; 0 material omissions; 0 source-like additions; 0 unresolved blockers; 0 canonical Tamil changes**.
-
-Section 16 review record:
-
-- `works/nadutheru-narayani/translations/en/TRANSLATION_REVIEW.md`;
-- result: **PASS / COMPLETE**;
-- whole-work English: **VERIFIED**;
-- coverage: **16 / 16 scans**;
-- omissions / source-like additions / unresolved items: **0 / 0 / 0**;
-- verified joins: **11 / 11**;
-- canonical Tamil changes: **0**.
-
-Section 17 release record:
-
-- `works/nadutheru-narayani/translations/en/RELEASE_REPORT.md`;
-- result: **PASS / COMPLETE**;
-- archival/editorial verdict: **RELEASE-READY / CLOSED**;
-- canonical Tamil changes during release pass: **0**;
-- verified English prose changes during release pass: **0**;
-- source PDF committed: **No**.
-
-No further mandatory processing remains for `நடுத்தெரு நாராயணி`.
+No closed story/witness canonical layer was modified during collection paratext closure.
 
 ## Exact next activity
 
-Process the remaining **அரும்பு 1978 collection paratext** currently only REGISTERED in the collection map:
+There is **no active unprocessed source currently registered** in the repository handover.
 
-- scans **1–5** — collection front matter;
-- scans **91–92** — publisher catalogue / back cover.
+Before starting another work:
 
-Treat this as collection-level archival closure, not as part of any closed story. Inspect the controlling scans, create/synchronize any collection paratext records required by repository precedent, preserve non-story identity, and do not reopen the four completed story/witness spans unless genuinely new source evidence appears.
+1. obtain/identify the next controlling source PDF;
+2. fetch live `main`;
+3. read `NOVEL_PROCESSING_GUIDE.md` and `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+4. inspect the source scan itself;
+5. register source identity and work/component boundaries before transcription;
+6. do not reopen closed works unless genuinely new source evidence appears.

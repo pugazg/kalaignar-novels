@@ -1,36 +1,40 @@
-# Next Chat Prompt — அரும்பு 1978 / collection paratext closure
+# Next Chat Prompt — Kalaignar Novels Archive / register next source
 
-Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Closed component state
+## Latest completed source
 
-Within `TVA_BOK_0064361_அரும்பு.pdf`:
+The 1978 `அரும்பு` compilation is now **COLLECTION ARCHIVAL CLOSED**.
 
-- scans **6–23** — `அரும்பு` — **RELEASE-READY / CLOSED**;
-- scans **24–48** — `சாரப்பள்ளம் சாமுண்டி` — **RELEASE-READY / CLOSED**;
-- scans **49–74** — 1978 `பெரிய இடத்துப் பெண்` additional witness — **COMPARISON COMPLETE / CLOSED**;
-- scans **75–90** — `நடுத்தெரு நாராயணி` — **RELEASE-READY / CLOSED**.
+- controlling source: `TVA_BOK_0064361_அரும்பு.pdf`;
+- physical scans: **92 / 92 accounted for**;
+- scans 1–5 collection front matter: **VERIFIED / CLOSED**;
+- `அரும்பு` scans 6–23: **RELEASE-READY / CLOSED**;
+- `சாரப்பள்ளம் சாமுண்டி` scans 24–48: **RELEASE-READY / CLOSED**;
+- 1978 `பெரிய இடத்துப் பெண்` witness scans 49–74: **COMPARISON COMPLETE / CLOSED**;
+- `நடுத்தெரு நாராயணி` scans 75–90: **RELEASE-READY / CLOSED**;
+- scans 91–92 publisher back matter: **VERIFIED / CLOSED**;
+- collection-level unresolved items: **0**;
+- source PDF committed: **No**.
 
-`நடுத்தெரு நாராயணி` final state:
+Collection closure record:
 
-- canonical Tamil: **16 / 16 VERIFIED**;
-- whole-work Tamil audit: **PASS / COMPLETE**;
-- assembled Tamil: **PASS / COMPLETE**;
-- whole-work English: **VERIFIED**;
-- Section 16: **PASS / COMPLETE**;
-- Section 17: **PASS / COMPLETE**;
-- archival/editorial verdict: **RELEASE-READY / CLOSED**;
-- release report: `works/nadutheru-narayani/translations/en/RELEASE_REPORT.md`.
+`collections/arumbu-1978/PARATEXT_CLOSURE.md`
 
-Do not reopen any closed component unless genuinely new source evidence appears.
+## Current queue
+
+**No active unprocessed source is registered.**
 
 ## Exact next activity
 
-Process the remaining collection-level paratext spans that are still only **REGISTERED**:
+When the next source/work is supplied or selected:
 
-- scans **1–5** — front matter;
-- scans **91–92** — publisher catalogue / back cover.
+1. fetch live `main`;
+2. read the root processing guides;
+3. inspect the controlling PDF directly;
+4. register checksum / size / page count / edition / publisher / source condition;
+5. identify work boundaries from source evidence;
+6. create the source map and first bounded activity;
+7. preserve all closed works unchanged unless genuinely new source evidence requires reopening them.
 
-Use the same controlling source `TVA_BOK_0064361_அரும்பு.pdf`. Keep these scans explicitly at **collection level**; do not attach them to a story. Inspect source structure, record printed text/non-text features faithfully, synchronize `collections/arumbu-1978/` metadata/map/README and root handover controls, and determine whether the 1978 compilation can then be marked collection-level archival **CLOSED**.
-
-Do not modify the source PDF or closed canonical story layers.
+Do not invent a next work or source identity without controlling-source evidence.
