@@ -21,9 +21,9 @@
 - body opening: **scan 5 T1 complete / `needs-review`**;
 - terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
 - prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
-- canonical body transcription: **T1 scans 5–9 COMPLETE / PASS — 5/5 page records, all `needs-review`**;
+- canonical body transcription: **scans 5–9 T1/T2/T3 COMPLETE / PASS — 5/5 VERIFIED**;
 - historical-glyph review: **T2 COMPLETE / PASS — scans 5–9 = 5/5; 1 correction; unresolved historical glyphs 0**;
-- final source-fidelity review: **T3 NEXT — scans 5–9**;
+- final source-fidelity review: **T3 COMPLETE / PASS — scans 5–9 = 5/5; 6 corrections; all VERIFIED**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
 - English translation: **NOT STARTED / BLOCKED**.
 
@@ -41,8 +41,8 @@ The user supplied the following catalogue-style description for project context.
 - scan 2 — mostly blank/copy-provenance page with later gift label;
 - scan 3 — title page;
 - scan 4 — edition / copyright / price page;
-- scan 5 — unnumbered `அறிமுகம்`; T1 complete / `needs-review`;
-- scans 6–9 — T1 complete / `needs-review`; visible printed pages **4–7**;
+- scan 5 — unnumbered `அறிமுகம்`; T1/T2/T3 complete / **verified**;
+- scans 6–9 — T1/T2/T3 complete / **verified**; visible printed pages **4–7**;
 - current parser exposes only pages **1–150** although the same source copy has **198 pages**;
 - therefore no terminal/body-boundary claim from pages 140–150 is durable;
 - full 198-page source view is required before terminal mapping or closure.
@@ -52,7 +52,7 @@ Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans 5–9 only** against the attached source pixels. Check full-page text, punctuation, paragraphing, omissions/duplication, visible page numbers, non-body marks and cross-page continuity. Promote a page to `verified` only after T3 passes. Commit and stop before scan10. The 198-page ingestion discrepancy remains deferred.
+Start the next bounded body batch: **T1 scans 10–14 only** from the attached source pixels. Create five canonical records as `needs-review`, update controls, commit, and stop before scan15. The 198-page ingestion discrepancy remains deferred.
 
 Do not start English or assembled Tamil work.
 
@@ -60,4 +60,4 @@ Do not start English or assembled Tamil work.
 Terminal audit: [`TERMINAL_BOUNDARY_AUDIT.md`](TERMINAL_BOUNDARY_AUDIT.md).
 
 
-Active T1/T2 checkpoint: [`T1_BATCH_005_009.md`](T1_BATCH_005_009.md).
+Completed T1/T2/T3 checkpoint: [`T1_BATCH_005_009.md`](T1_BATCH_005_009.md).
