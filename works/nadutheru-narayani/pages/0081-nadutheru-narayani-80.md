@@ -4,10 +4,10 @@ printed_page: 80
 work: "nadutheru-narayani"
 section: "நடுத்தெரு நாராயணி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; historical-glyph/source-fidelity review pending"
+transcription_method: "direct visual transcription from source scan; independent T2 source-fidelity / historical-glyph review complete"
 ---
 
 “அருகில் ஒன்றும், தலையில் ஒன்றும் வைத்திருப்பவர்தானே ஆண்டவன் - இது தெரியாதோ நோக்கு!” என்று அவள் இடையைப் பிடித்து விளையாடினார் குருக்கள்.
@@ -18,11 +18,11 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 அய்யர் அவளை வாரியெடுத்துத் தாவியணைத்துத் தைரியம் கூறி வீட்டுக்கு அனுப்பிவைத்தார். அவளும், ஆண்டவன் அருள் பாலித்துவிட்டான் என்ற நம்பிக்கையோடு வீட்டுக்குப் புறப்பட்டாள். அய்யரும் அந்தத் தெய்வின் கன்னத்தைச் சுவைத்த உடனேக் கழுவாமலே ஆண்டவனுக்கு அர்ச்சனை மந்திரம் ஜெபிக்கக் கர்ப்பக்கிரகம் நோக்கி விரைந்தார்.
 
-கோயில் பிரகாரத்திலே வாக்கலித்த பிரகாரம், அய்யர் நாராயணியை எப்போதும் வைத்துக் காப்பாற்றுகிற அளவுக்கு அவள் வீட்டிற்கே வந்து சேர்ந்தார்.
+கோயில் பிரகாரத்திலே வாக்களித்த பிரகாரம், அய்யர் நாராயணியை எப்போதும் வைத்துக் காப்பாற்றுகிற அளவுக்கு அவள் வீட்டிற்கே வந்து சேர்ந்தார்.
 
 “கோயில் குருக்களுக்கு அடிச்சுதடா சான்ஸ்! கொய்யாப் பழமாக இருந்தாள் - அவளைக் கொய்துவிட்டார் அய்யர். என்ன இருந்தாலும் அனுபவிக்கப் பிறந்த ஜாதியப்பா அது! எத்தனையோ பேர் நத்திக்கிடந்தார்கள்; எல்லோரையும் எட்டி உதைத்துவிட்டுப் பூணால் வலையில் மாட்டிக்கொண்டது அந்தப் புள்ளிமான்! போகிறான் போ! அவனாவது சுவைக்கட்டும்!” -- இளங்காளைகளிடத்திலே இப்படிப் பொறாமை வடிவத்திலே ஆரம்பமான பேச்சு, விட்டுக் கொடுக்கும் தன்மையிலே முடிவு பெற்றது.
 
-கடவுளின் பக்கத்திலேயிருந்து கடமைகளைச் செய்கிற மனிதர் மிகவும் நல்லவராக இருப்பார்; நம்பியவரைக் கைவிடமாட்டார்; அதிலும் பிராமணர்; புரண்டு பேசமாட்டார்; பொய் கூறுவது பாவமெனக் கருதுவார்; பரமசிவன் பக்கத்திலே பார்வதிபோலத் தன்னையும் அருகே வைத்து ரட்சிப்பார் என்ற நம்பிக்கையிலே தான், நாராயணி, கோயில் குருக்களேத் தன் கணவனாக ஏற்றுக் கொள்ள முடிவு செய்தாள். கோயில் பிரகாரத்திலே காப்புக்
+கடவுளின் பக்கத்திலேயிருந்து கடமைகளைச் செய்கிற மனிதர் மிகவும் நல்லவராக இருப்பார்; நம்பியவரைக் கைவிடமாட்டார்; அதிலும் பிராமணர்; புரண்டு பேசமாட்டார்; பொய் கூறுவது பாவமெனக் கருதுவார்; பரமசிவன் பக்கத்திலே பார்வதிபோலத் தன்னையும் அருகே வைத்து ரட்சிப்பார் என்ற நம்பிக்கையிலே தான், நாராயணி, கோயில் குருக்களைத் தன் கணவனாக ஏற்றுக் கொள்ள முடிவு செய்தாள். கோயில் பிரகாரத்திலே காப்புக்
 
 ## T1 direct-transcription notes
 
@@ -30,6 +30,16 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - scan80→81 dialogue continuity is preserved;
 - source-specific forms `பூணால் வலையில்` and `கோயில் குருக்களேத்` are retained at T1 without normalization;
 - final fragment `கோயில் பிரகாரத்திலே காப்புக்` continues on scan82;
-- page status remains **needs-review**.
+- page status is **verified** after the independent T2 source-fidelity / historical-glyph pass.
 
-<!-- source physical scan: 81; printed page: 80; T1 COMPLETE; REVIEW PENDING -->
+
+## T2 source-fidelity / historical-glyph review
+
+- full printed page **80** independently re-read from source pixels;
+- source-proven T1 corrections: **2** — `வாக்கலித்த` → `வாக்களித்த`; `குருக்களேத்` → `குருக்களைத்`;
+- source oddity `பூணால் வலையில்` is **CONFIRMED** and retained unchanged;
+- `குருக்களைத்` resolves the historical `ளை` family from the source glyph;
+- all 13 historical-glyph-sensitive families were explicitly considered;
+- unresolved readings: **0**.
+
+<!-- source physical scan: 81; printed page: 80; T1 COMPLETE; T2 VERIFIED -->

@@ -4,10 +4,10 @@ printed_page: "78-79"
 work: "nadutheru-narayani"
 section: "நடுத்தெரு நாராயணி"
 page_type: "body / two-page illustrated spread"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; historical-glyph/source-fidelity review pending"
+transcription_method: "direct visual transcription from source scan; independent T2 source-fidelity / historical-glyph review complete"
 ---
 
 <!-- printed page 78 -->
@@ -30,6 +30,16 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - scan79→80 join: scan79 ends `தேவி விக்ரகத்தின் முன்னேகூட அடியேன் இப்படி நமஸ்கரித்தது கிடையாது.`; printed page78 continues `நீதான் எனக்குத் தேவி! என்னை ஏற்றுக்கொள்!`;
 - the large two-page illustration is source material but is not narrated as prose;
 - historical-glyph / source-fidelity review remains pending;
-- page status remains **needs-review**.
+- page status is **verified** after the independent T2 source-fidelity / historical-glyph pass.
 
-<!-- source physical scan: 80; printed pages: 78-79; T1 COMPLETE; REVIEW PENDING -->
+
+## T2 source-fidelity / historical-glyph review
+
+- full two-page printed spread **78–79** independently re-read from source pixels;
+- source illustration boundary and all three text units confirmed;
+- source-proven T1 corrections: **0**;
+- printed punctuation at `நானோ....` and `கோயில்....` confirmed;
+- all 13 historical-glyph-sensitive families were explicitly considered; representative `நானோ` confirms the historical `னோ` identity;
+- unresolved readings: **0**.
+
+<!-- source physical scan: 80; printed pages: 78-79; T1 COMPLETE; T2 VERIFIED -->

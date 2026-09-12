@@ -4,10 +4,10 @@ printed_page: 83
 work: "nadutheru-narayani"
 section: "நடுத்தெரு நாராயணி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; historical-glyph/source-fidelity review pending"
+transcription_method: "direct visual transcription from source scan; independent T2 source-fidelity / historical-glyph review complete"
 ---
 
 என்று அவள் பாடாதுதான் பாக்கி. அவ்வளவு பக்தியும் பாசமும் புருஷன்மீது ஏற்பட்டுவிட்டது அவளுக்கு.
@@ -47,6 +47,16 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - scan83→84 continuity: `“கண்ணே, மணி வண்ணா!”` → `என்று அவள் பாடாதுதான் பாக்கி.`;
 - unusual source form `பதி சொல் தட்டாத` retained without silent correction;
 - final fragment `அப்படி அவள் நகர்த்தும்` continues on scan85;
-- page status remains **needs-review**.
+- page status is **verified** after the independent T2 source-fidelity / historical-glyph pass.
 
-<!-- source physical scan: 84; printed page: 83; T1 COMPLETE; REVIEW PENDING -->
+
+## T2 source-fidelity / historical-glyph review
+
+- full printed page **83** independently re-read from source pixels;
+- source-proven T1 corrections: **0**;
+- source wording `பதி சொல் தட்டாத` is **CONFIRMED** and retained unchanged;
+- historical `லை` identities in forms including `உடலை` / `வில்லையே` were explicitly decoded rather than shortened;
+- all 13 historical-glyph-sensitive families were explicitly considered;
+- unresolved readings: **0**.
+
+<!-- source physical scan: 84; printed page: 83; T1 COMPLETE; T2 VERIFIED -->

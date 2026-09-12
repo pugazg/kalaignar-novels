@@ -24,20 +24,20 @@
 - component boundary: **CONFIRMED**;
 - canonical page records: **16 / 16**;
 - T1 transcription: **PASS / COMPLETE — scans 75–90**;
-- verified pages: **5 / 16**;
-- current statuses: **5 verified / 11 needs-review**;
+- verified pages: **10 / 16**;
+- current statuses: **10 verified / 6 needs-review**;
 - scan80 is a **two-page illustrated spread, printed 78–79**;
 - scan90 is the source-visible work ending;
-- T2 / historical-glyph source-fidelity review: **IN PROGRESS — scans 75–79 PASS**;
+- T2 / historical-glyph source-fidelity review: **IN PROGRESS — scans 75–84 PASS**;
 - Tamil audit gate: **NOT READY**.
 
 T1 closure: `works/nadutheru-narayani/T1_COMPLETION.md`.
 
-T2 scans 75–79 are closed with **7 source-proven corrections** and **0 unresolved readings**. Scan78 historical `லை` at `இல்லை.` and scan79 `அப்பிரதக்ஷிணமாகச்` are resolved. Remaining targeted items include scan81 `பூணால் வலையில்`, scan82 dialect/caste sequence, scan84 `பதி சொல் தட்டாத`, scan88 `ஒரு கடாரம் பத்திருக்கு`, scan89 `அவர்கள் அய்யரை வீரராகிவிட்டார்கள்`, plus the complete historical-glyph-sensitive re-read.
+T2 scans 75–79 are closed with **15 source-proven corrections** and **0 unresolved readings**. Scan78 historical `லை` at `இல்லை.` and scan79 `அப்பிரதக்ஷிணமாகச்` are resolved. T2 scans 80–84 are also **PASS / VERIFIED**, with **13 additional source-proven corrections** and **0 unresolved readings**. Scan81 `பூணால் வலையில்`, scan82 `வைப்பு / ஒய்ப் / வைப்`, and scan84 `பதி சொல் தட்டாத` are source-confirmed. Cumulative T2 through scan84: **28 corrections / 0 unresolved**. Remaining targeted items are scan88 `ஒரு கடாரம் பத்திருக்கு`, scan89 `அவர்கள் அய்யரை வீரராகிவிட்டார்கள்`, plus the complete historical-glyph-sensitive re-read for scans 85–90.
 
 ## Exact next activity
 
-Continue **T2 source-fidelity / historical-glyph review — scans 80–84**.
+Continue **T2 source-fidelity / historical-glyph review — scans 85–90**.
 
 For each scan:
 

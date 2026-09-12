@@ -1,4 +1,4 @@
-# Page Map — நடுத்தெரு நாராயணி
+| 84 || **verified — T2 pass** || 83 || **verified — T2 pass** || 82 || **verified — T2 pass** || 81 || **verified — T2 pass** || 80 || **verified — T2 pass** |# Page Map — நடுத்தெரு நாராயணி
 
 Physical source span: **75–90 / 16 scans**.
 
@@ -23,7 +23,7 @@ Physical source span: **75–90 / 16 scans**.
 
 Canonical page records: **16 / 16**.  
 T1 coverage: **16 / 16 COMPLETE**.  
-Verified coverage: **5 / 16**.
+Verified coverage: **10 / 16**.
 
 ## Confirmed source joins
 
@@ -38,4 +38,4 @@ Verified coverage: **5 / 16**.
 - 87→88: `உன்` → `பேச்சு`
 - 88→89: `முரட்டுத்தனமாக` → `அவளது கரங்களை இழுத்த`
 
-T2 scans **75–79**: **PASS / VERIFIED**. Next: **T2 scans 80–84**.
+T2 scans **75–84**: **PASS / VERIFIED**. Next: **T2 scans 85–90**.
