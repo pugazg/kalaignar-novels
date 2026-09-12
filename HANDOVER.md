@@ -21,47 +21,52 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 
 ## Durable state
 
-- scans **5–14 T1/T2/T3: VERIFIED**;
-- scans **15–19 T1/T2/T3: COMPLETE / PASS — 5/5 VERIFIED**;
-- scans **15–19 T2 corrections: 5**;
-- scans **15–19 T3 corrections: 0**;
-- unresolved historical/source-form readings: **0**;
-- visible printed pages for scans15–19: **13–17**;
-- scan20 has not been opened;
+- scans **5–19 T1/T2/T3: VERIFIED**;
+- scans **20–24 T1: COMPLETE / PASS — 5/5 canonical records, all `needs-review`**;
+- scans **20–24 T2: NEXT**;
+- scans **20–24 T3: PENDING**;
+- visible printed pages: **18, 19, 20, 21, 22**;
+- scan22 contains a centered chapter **2** after two closing paragraphs from the preceding scene;
+- scan25 has not been opened;
 - terminal/full-198-page issue remains **DEFERRED**.
 
-## T2 correction ledger — scans 15–19
+## Scans 20–24 structural observations
 
-- scan15 — `தவறுமல்` → **`தவறாமல்`** — historical `றா`;
-- scan16 — `எதுவுமே யில்ல` → **`எதுவுமே யில்லை`** — historical `லை`;
-- scan16 — `யாருமில்லதான்` → **`யாருமில்லைதான்`** — historical `லை`;
-- scan18 — `வேணுங்கிறன்` → **`வேணுங்கிறான்`** — historical `றா`;
-- scan19 — `என்னைத் அம்மமேலே` → **`என்னத்த அம்மமேலே`** — direct source-form correction.
+- scan20 ends `தாங்கிக்கொண்டு`; scan21 continues with dialogue;
+- scan21 small isolated bottom-left `2` is treated as a printer/signature mark, not a chapter heading;
+- scan22 is a chapter-transition page: prior scene closes, then centered **2** begins chapter 2;
+- scans23–24 continue chapter 2;
+- scan24 ends at `அதைத்`; scan25 was not used.
 
-## T3 result — scans 15–19
+## T2 mandatory re-read targets — scans 20–24
 
-- complete full-page source-fidelity recheck: **PASS 5/5**;
-- additional T3 text corrections: **0**;
-- omissions / duplicate text: **0 / 0**;
-- printed-page mapping **13–17** re-confirmed;
-- scan17→18 continuation `தீச்சட்டி` / `சிங்காரந்தான்` re-confirmed without page-record joining;
-- scan19 ends at `காலையில்`; scan20 was not used;
-- all five canonical records promoted to **`verified`**.
+Check all historical families occurrence-by-occurrence:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+Priority source-form/punctuation clusters:
+
+- scan20 — nested quotation around `நீ நான், ஒரு மடையன்;`; `வேலையவிடப்`, `நாழி`, `பிள்ளை யாண்டான்`, `விட்டகன்று`, `அருமருந்தன்ன`;
+- scan21 — `சும்மாகிட`, `தோள்மாத்திக்குவாரு`, `பொத்துன்னு`, `வச்சுருக்காரு`, `கயிற்றுச் சுருக்கை`;
+- scan22 — `அறிமுகமானவளாய்த்தானிருக்க`, `இருக்குமென்பதற்கு`, `தீச்சட்டியேந்திக்`, `கர கரவெனப்`, `வாலைக் குமரியை`;
+- scan23 — `கற்றவித்தையைக்`, `எப்படிப்பட்ட தென்று`, `ஊற்று வதற்கு`, `திலகங்களையிட்டு`, `நெற்றியிலே இல்ல`, `தண்ணீர் தந்த தடுமாற்றம்`;
+- scan24 — `கங்கணம்`, `ஜ்வாலை யெழுப்பி`, `அநாயாசமாக`, `கடைசலிட்டு`, `இருகோவைப் பழங்களாய்ப்`.
+
+No contextual modernization is permitted. Source pixels control.
 
 ## Exact next activity
 
-Process **Tamil T1 scans 20–24 only**.
+Perform **Tamil T2 independent historical-glyph/source-form review for scans 20–24 only**.
 
 Requirements:
 
-1. attached PDF/source pixels are controlling;
-2. direct visual transcription only;
-3. no external transcription and no OCR authority;
-4. record only directly visible printed-page numbers;
-5. preserve source spelling, punctuation, paragraphing and historical Tamil glyph identity;
-6. create five canonical page records with `status: needs-review`;
-7. update page map, work README, audit, handover and next-chat prompt;
-8. commit and **stop before scan25**;
-9. terminal/full-198-page reconciliation remains deferred.
-
-Source PDF must not be committed.
+1. attached PDF/source pixels only;
+2. independently re-read every complete scan;
+3. explicitly audit all 13 historical glyph families;
+4. no OCR authority, no global replacement, no grammar/context correction;
+5. record every source-supported correction explicitly;
+6. retain genuine unusual source forms;
+7. keep all five page records `needs-review`; T3 remains separate;
+8. update `T1_BATCH_020_024.md`, page map, README, audit, handover and next-chat prompt;
+9. commit and **stop before scan25**;
+10. full-source/terminal reconciliation remains deferred.

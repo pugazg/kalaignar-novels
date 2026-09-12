@@ -25,11 +25,11 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 17 | 15 | body / chapter 1 | **verified** | T1/T2/T3 PASS; ends `தீச்சட்டி` |
 | 18 | 16 | body / chapter 1 | **verified** | T1/T2/T3 PASS; `வேணுங்கிறன்`→`வேணுங்கிறான்` retained |
 | 19 | 17 | body / chapter 1 | **verified** | T1/T2/T3 PASS; `என்னைத்`→`என்னத்த` retained; ends `காலையில்` |
-| 20 | — | unclassified | **not-started** | direct visual classification pending |
-| 21 | — | unclassified | **not-started** | direct visual classification pending |
-| 22 | — | unclassified | **not-started** | direct visual classification pending |
-| 23 | — | unclassified | **not-started** | direct visual classification pending |
-| 24 | — | unclassified | **not-started** | direct visual classification pending |
+| 20 | 18 | body / chapter 1 | **needs-review** | T1 complete; ends `தாங்கிக்கொண்டு` |
+| 21 | 19 | body / chapter 1 | **needs-review** | T1 complete; bottom-left small `2` treated as printer/signature mark |
+| 22 | 20 | body / chapter 1→2 transition | **needs-review** | T1 complete; centered chapter no. 2 begins mid-page |
+| 23 | 21 | body / chapter 2 | **needs-review** | T1 complete; source spacing/forms retained |
+| 24 | 22 | body / chapter 2 | **needs-review** | T1 complete; ends `அதைத்`; scan25 not used |
 | 25 | — | unclassified | **not-started** | direct visual classification pending |
 | 26 | — | unclassified | **not-started** | direct visual classification pending |
 | 27 | — | unclassified | **not-started** | direct visual classification pending |
@@ -162,12 +162,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records: **19 total — 19 `verified`**;
-- body T1: **scans 5–19 COMPLETE / PASS**;
-- body T2: **scans 5–19 COMPLETE / PASS; scans 15–19 = 5 corrections; unresolved 0**;
+- page records: **24 total — 19 `verified` + 5 `needs-review`**;
+- body T1: **scans 5–19 VERIFIED; scans 20–24 T1 COMPLETE / PASS — 5/5 `needs-review`**;
+- body T2: **scans 5–19 COMPLETE / PASS; scans 20–24 NEXT**;
 - body T3: **scans 5–19 COMPLETE / PASS / VERIFIED; scans 15–19 = 0 corrections**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **process T1 scans 20–24 only; create five `needs-review` canonical records and stop before scan25. Full-source/terminal reconciliation remains deferred.**
+Exact next: **perform T2 independent historical-glyph/source-form review for scans 20–24 only; keep all five `needs-review` and stop before scan25. Full-source/terminal reconciliation remains deferred.**

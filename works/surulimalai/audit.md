@@ -31,10 +31,11 @@ Open:
 - SHA-256 checksum;
 - complete-source / terminal reconciliation against a full **198-page** representation;
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
-- T1 onward from scan 20;
+- T2 historical-glyph/source-form review for scans 20–24;
+- T1 onward from scan 25;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **verified through scan 19**. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **verified through scan 19**; scans **20–24 have T1 complete and remain `needs-review`**. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -196,6 +197,28 @@ All scans 15–19 are now **VERIFIED**.
 
 Checkpoint: [`T1_BATCH_015_019.md`](T1_BATCH_015_019.md).
 
+## T1 scans 20–24
+
+Result: **COMPLETE / PASS — 5/5 canonical records created as `needs-review`**.
+
+| Scan | Printed page | Record | T1 |
+|---:|---:|---|---|
+| 20 | 18 | `pages/0020-page-18.md` | PASS / needs-review |
+| 21 | 19 | `pages/0021-page-19.md` | PASS / needs-review |
+| 22 | 20 | `pages/0022-page-20-chapter-2.md` | PASS / needs-review |
+| 23 | 21 | `pages/0023-page-21.md` | PASS / needs-review |
+| 24 | 22 | `pages/0024-page-22.md` | PASS / needs-review |
+
+Structural/source observations:
+
+- scan20 ends `தாங்கிக்கொண்டு`; scan21 opens with the following dialogue;
+- scan21 small bottom-left `2` is treated as a printer/signature mark, not chapter structure;
+- scan22 contains a source-visible centered chapter **2** after two closing paragraphs from the preceding scene;
+- scan24 ends at `அதைத்`; scan25 was not opened;
+- difficult historical/source-form and punctuation clusters were recorded for T2 rather than context-corrected.
+
+Checkpoint: [`T1_BATCH_020_024.md`](T1_BATCH_020_024.md).
+
 ## Exact next activity
 
-Process **T1 scans 20–24 only** from the attached PDF/source pixels. Create five `needs-review` canonical page records, update controls, commit, and stop before scan25. The full-source/terminal issue remains deferred.
+Perform **T2 independent historical-glyph/source-form review for scans 20–24 only** from the attached PDF/source pixels. Re-read all five complete scans, keep all pages `needs-review`, update controls, commit, and stop before scan25. The full-source/terminal issue remains deferred.
