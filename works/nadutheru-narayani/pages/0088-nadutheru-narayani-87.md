@@ -4,10 +4,10 @@ printed_page: 87
 work: "nadutheru-narayani"
 section: "நடுத்தெரு நாராயணி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; historical-glyph/source-fidelity review pending"
+transcription_method: "direct visual transcription from source scan; independent T2 source-fidelity / historical-glyph review complete"
 ---
 
 பேச்சு!” என்றார். பிறகு வென்றார். கிருஷ்ணய்யர் மறுபடியும் கோயில் குருக்களானார். திருட்டுப்போன நகைகளைப் பற்றிச் சரியான புலன் கிடைக்கவில்லை என்று போலீசாரும் அறிவித்து விட்டனர். காலை முதல் அர்த்தஜாமப் பூஜை வரையிலே கிருஷ்ணய்யருக்குக் கோயிலிலே வேலைதான். இரவு இரண்டு மணி வரையில் தினந்தோறும் பக்தர்களுக்குப் பிரசங்கம் செய்வார். அதற்குமேல் கோயில் மண்டபத்திலேயே படுக்கை, உறக்கம் எல்லாம்! நாயுடுவுக்கும் நாராயணிக்கும் ஒரு குழந்தை பிறந்து, பிறந்த நாலாம் நாள் நல்ல வேளையாக அது இறந்துவிட்டது. அது உயிரோடு இருந்திருந்தால் ஒருவேளை நாயுடுவின் தொடர்பு அறுந்திருக்கலாம். நாராயணி, கிருஷ்ணய்யர் என்று தனக்கு ஒரு நாயகன் இருந்ததையே மறந்துவிட்டாள்.
@@ -27,9 +27,20 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 ## T1 direct-transcription notes
 
 - scan87→88 join: `உன்` + `பேச்சு`;
-- phrase around `ஒரு கடாரம் பத்திருக்கு` is a **provisional T1 source reading** and requires character-level review;
+- source phrase `ஒரு கடாரம் பத்திருக்கு` is **T2-CONFIRMED** from enlarged source pixels and retained unchanged;
 - narrative and dialogue remain source-bound;
 - final `முரட்டுத்தனமாக` continues on scan89;
-- page status remains **needs-review**.
+- page status is **verified** after the independent T2 source-fidelity / historical-glyph pass.
 
-<!-- source physical scan: 88; printed page: 87; T1 COMPLETE; REVIEW PENDING -->
+
+## T2 source-fidelity / historical-glyph review
+
+- full printed page **87** independently re-read from source pixels;
+- source-proven T1 corrections: **0**;
+- targeted phrase `ஒரு கடாரம் பத்திருக்கு` is **CONFIRMED / RETAINED** exactly as printed; it was not context-corrected;
+- source oddity `பிறகு வென்றார்` and the surrounding narrative were also retained unchanged;
+- scan87→88 and scan88→89 continuities were checked;
+- all 13 historical-glyph-sensitive families were explicitly considered;
+- unresolved readings: **0**.
+
+<!-- source physical scan: 88; printed page: 87; T1 COMPLETE; T2 VERIFIED -->

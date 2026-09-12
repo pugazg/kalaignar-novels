@@ -4,10 +4,10 @@ printed_page: 86
 work: "nadutheru-narayani"
 section: "நடுத்தெரு நாராயணி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; historical-glyph/source-fidelity review pending"
+transcription_method: "direct visual transcription from source scan; independent T2 source-fidelity / historical-glyph review complete"
 ---
 
 மனுஷன் - எனக்குச் சகோதரன் மாதிரி! அவன் மனசு வச்சாத்தான் என்னைக் காப்பாத்த முடியும். ஒரு குல ஸ்திரீ அஞ்சுபேர் வரை ஆடவாளிடம் தொடர்பு வச்சிக்கலாம்னு நம்ம பாரதமே சொல்லுதடி! கேளடி என் பிராண நாயகி - பத்து வருஷம் பதினைந்து வருஷம்னு என்ன ஜெயிலிலே போட்டுட்டா - அப்ப கவலைப்பட்டுக்கிட்டுதானே இருப்பே? அந்தக் கவலையில்லாமே இரண்டு பேரும் சந்தோஷமாயிருக்க சம்மதம் கொடடி!”
@@ -18,7 +18,7 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 நாராயணி கண்ணீரைத் துடைத்துக்கொண்டாள்.. ஏதோ ஒரு முடிவோடு எழுந்து நின்று நாயுடுவின் வரவை எதிர்நோக்கினாள். நாயுடுவும் ஆவலோடு உள்ளே நுழைந்தார். நாராயணி அவர் முகத்தை ஏக்கத்தோடு பார்த்தாள்.
 
-“வந்து விட்டேன் நாராயணி! நான் எங்கும் போகவில்லை. பக்கத்து அறையிலேதான் இருந்தேன். நீ என் உறுதியைச் சோதிப்பதற்காகவே பிடிவாதம் செய்தாய் என்பதைப் புரிந்துகொண்டேன்” என்று பல்ல இளித்தபடி அவளது பக்கம் வந்து நின்றார் நாயுடு. அவர் பேசி முடிப்பதற்குள்ளாக நாராயணி அவரது கைகளைப் பிடித்துக்கொண்டு “என்னை எப்போதும் வைத்துக் காப்பாற்றுவீர்களா?” என்று திடீரெனக் கேட்டுவிட்டுத் தேம்பி அழுதாள்.
+“வந்து விட்டேன் நாராயணி! நான் எங்கும் போகவில்லை. பக்கத்து அறையிலேதான் இருந்தேன். நீ என் உறுதியைச் சோதிப்பதற்காகவே பிடிவாதம் செய்தாய் என்பதைப் புரிந்து கொண்டேன்” என்று பல்ல இளித்தபடி அவளது பக்கம் வந்து நின்றார் நாயுடு. அவர் பேசி முடிப்பதற்குள்ளாக நாராயணி அவரது கைகளைப் பிடித்துக்கொண்டு “என்னை எப்போதும் வைத்துக் காப்பாற்றுவீர்களா?” என்று திடீரெனக் கேட்டுவிட்டுத் தேம்பி அழுதாள்.
 
 இதுபோன்ற வார்த்தை அவளிடமிருந்து வெளியாகும் என எதிர்பார்க்காத நாயுடுவும் திடுக்கிட்டார்.
 
@@ -34,6 +34,16 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - source colloquial/caste/sexual rhetoric is retained without modernization or softening;
 - double full stop after `துடைத்துக்கொண்டாள்..` is source-visible and retained;
 - final `உன்` continues on scan88;
-- page status remains **needs-review**.
+- page status is **verified** after the independent T2 source-fidelity / historical-glyph pass.
 
-<!-- source physical scan: 87; printed page: 86; T1 COMPLETE; REVIEW PENDING -->
+
+## T2 source-fidelity / historical-glyph review
+
+- full printed page **86** independently re-read from source pixels;
+- source-proven T1 corrections: **1** — `புரிந்துகொண்டேன்` → `புரிந்து கொண்டேன்`;
+- source double full stop at `துடைத்துக்கொண்டாள்..` was confirmed and retained;
+- scan86→87 and scan87→88 continuities were checked;
+- all 13 historical-glyph-sensitive families were explicitly considered, including old `லை` identities in the page's `நிலை...` forms;
+- unresolved readings: **0**.
+
+<!-- source physical scan: 87; printed page: 86; T1 COMPLETE; T2 VERIFIED -->

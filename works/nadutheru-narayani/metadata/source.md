@@ -14,4 +14,4 @@
 - scan90: source-visible work ending
 - source PDF committed: **No**
 
-Status: source intake **COMPLETE**; T1 canonical transcription **PASS / COMPLETE — 16 / 16 physical scans**; verified pages **10 / 16**; T2 scans **75–84 PASS**, while scans **85–90** remain `needs-review` pending independent T2 / historical-glyph source-fidelity review.
+Status: source intake **COMPLETE**; T1 canonical transcription **PASS / COMPLETE — 16 / 16 physical scans**; verified pages **16 / 16**; T2 scans **75–90 PASS / COMPLETE** with **40 cumulative corrections / 0 unresolved readings**; whole-work Tamil source audit is the next gate.

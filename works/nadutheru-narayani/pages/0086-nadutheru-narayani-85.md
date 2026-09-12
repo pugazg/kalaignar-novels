@@ -4,10 +4,10 @@ printed_page: 85
 work: "nadutheru-narayani"
 section: "நடுத்தெரு நாராயணி"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; historical-glyph/source-fidelity review pending"
+transcription_method: "direct visual transcription from source scan; independent T2 source-fidelity / historical-glyph review complete"
 ---
 
 கொன்று வெகு அருகினிலேதானிருந்தன. அவள் ஆத்திரத்தோடு கேட்டாள். “நீங்கள் செவிமடுக்கும் உபன்யாசங்களிலே இப்படித்தான் இன்னொருத்தன் மனைவியிடம் இன்பப் பிச்சை கேட்கச் சொல்லுகிறார்களோ?” என்று!
@@ -22,7 +22,7 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 
 கிருஷ்ணய்யர் பரிதாபமாகக் கேட்டார். நாராயணி பேசாமல் இருக்கவே, மீண்டும் அவரே பேச்சைத் தொடர்ந்தார்.
 
-“அடி என் கண்ணு! என் நிலைமை நோக்குத் தெரியாதடி! கைக்கு விலங்கு காத்துண்டு இருக்குடி!..... கோயிலில் அம்மன் தாலியையும், மூலவிக்ரகத்துத் தங்கக் கவசத்தையும் நான் திருடிவிட்டேன்னு பேரு கட்டிவிட்டானுங்கடி! வித்த இடத்திலே, அந்த வாங்கின பயலுகளும் என்னைக் காட்டிக்கொடுத்து விட்டானுங்கடி! இப்ப என்னடி பண்றது! தர்மகர்த்தா தயவு இல்லைன்னா தலை தப்பாதடி, தலை தப்பாது.”
+“அடி என் கண்ணு! என் நிலைமை நோக்குத் தெரியாதடி! கைக்கு விலங்கு காத்துண்டு இருக்குடி!..... கோயிலில் அம்மன் தாலியையும், மூலவிக்ரகத்துத் தங்கக் கவசத்தையும் நான் திருடிவிட்டேன்னு பேரு கட்டிவிட்டானுங்கடி! வித்த இடத்திலே, அந்த வாங்கின பயலுகளும் என்னைக் காட்டிக்கொடுத்து விட்டானுங்கடி! இப்ப என்னடி பண்றது! தர்மகர்த்தா தயவு இல்லேன்னு தல தப்பாதடி, தல தப்பாது.”
 
 நாராயணி அழுதுகொண்டிருந்தாளே தவிரப் பேசவில்லை. அவளது நெஞ்சிலே எத்தனையோ! குமுறல்கள்! கொழுந்துவிட்டெரியும் தீ ஜ்வாலையைப் போல இருந்தன அவள் கண்கள்.
 
@@ -34,6 +34,17 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - source allusion to `இயற்பகை நாயனார்` retained as visually read;
 - colloquial dialogue and source spellings remain unnormalized;
 - final `நல்ல` continues to scan87;
-- page status remains **needs-review**.
+- page status is **verified** after the independent T2 source-fidelity / historical-glyph pass.
 
-<!-- source physical scan: 86; printed page: 85; T1 COMPLETE; REVIEW PENDING -->
+
+## T2 source-fidelity / historical-glyph review
+
+- full printed page **85** independently re-read from source pixels;
+- source-proven T1 corrections: **2** — `இல்லைன்னா` → `இல்லேன்னு`; `தலை தப்பாதடி, தலை தப்பாது` → `தல தப்பாதடி, தல தப்பாது`;
+- the enlarged source confirms **genuine short `தல`**, not a faint historical `லை` form; no contextual normalization was applied;
+- source allusion `இயற்பகை நாயனார்` and the colloquial passage were retained as printed;
+- scan85→86 and scan86→87 continuities were checked;
+- all 13 historical-glyph-sensitive families were explicitly considered;
+- unresolved readings: **0**.
+
+<!-- source physical scan: 86; printed page: 85; T1 COMPLETE; T2 VERIFIED -->

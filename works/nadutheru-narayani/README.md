@@ -11,11 +11,11 @@
 - component span: **16 scans**;
 - canonical page records: **16 / 16**;
 - T1 transcription: **PASS / COMPLETE — scans 75–90**;
-- canonical verified pages: **10 / 16**;
-- current page status: **10 verified / 6 needs-review**;
+- canonical verified pages: **16 / 16**;
+- current page status: **16 verified / 0 needs-review**;
 - printed-page mapping: **COMPLETE — scan80 is printed 78–79 two-page spread; scan90 = printed89**;
-- T2 / historical-glyph/source-fidelity review: **IN PROGRESS — scans 75–84 PASS**;
-- Tamil audit gate: **NOT READY**.
+- T2 / historical-glyph/source-fidelity review: **PASS / COMPLETE — scans 75–90**;
+- Tamil audit gate: **READY FOR WHOLE-WORK AUDIT / NOT YET PASSED**.
 
 Collection provenance: `../../collections/arumbu-1978/`.
 
@@ -23,6 +23,6 @@ Durable T1 closure: [`T1_COMPLETION.md`](T1_COMPLETION.md).
 
 All physical source scans are now represented in canonical page records. Source-specific dialect, caste/religious rhetoric, punctuation and odd forms have not been silently normalized.
 
-T2 scans **75–84**: **PASS / VERIFIED** with **28 cumulative source-proven corrections** and **0 unresolved readings**. Batch 2 (scans 80–84) contributed **13** corrections.
+T2 scans **75–90**: **PASS / COMPLETE / 16 of 16 verified** with **40 cumulative source-proven corrections** and **0 unresolved readings**. Batch 3 (scans 85–90) contributed **12** corrections. Targeted scan88 `ஒரு கடாரம் பத்திருக்கு` is confirmed; scan89 is source-resolved to `அவர்கள் அய்யரை வீரராக்கிவிட்டார்கள்`.
 
-Next: **T2 scans 85–90**.
+Next: **whole-work Tamil source audit — scans 75–90**.

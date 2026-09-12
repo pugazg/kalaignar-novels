@@ -4,10 +4,10 @@ Source intake: **COMPLETE**.
 Component boundary: **scans 75–90 confirmed**.  
 Canonical page records: **16 / 16**.  
 T1 page transcription: **PASS / COMPLETE — 16 / 16 physical scans**.  
-Canonical verified pages: **10 / 16**.  
-Current statuses: **10 verified / 6 needs-review**.  
-T2 / historical-glyph review: **IN PROGRESS — scans 75–84 PASS**.  
-Tamil audit gate: **NOT READY**.
+Canonical verified pages: **16 / 16**.  
+Current statuses: **16 verified / 0 needs-review**.  
+T2 / historical-glyph review: **PASS / COMPLETE — scans 75–90**.  
+Tamil audit gate: **READY FOR WHOLE-WORK AUDIT / NOT YET PASSED**.
 
 ## T1 mapping
 
@@ -23,7 +23,7 @@ Tamil audit gate: **NOT READY**.
 - all cross-page joins are source-traceable;
 - scan90 is the source-visible work ending;
 - no assembled Tamil layer has been created;
-- T1 closed with all pages at `needs-review`; subsequent T2 has now verified **10 / 16** pages.
+- T1 closed with all pages at `needs-review`; T2 has now verified **16 / 16** pages.
 
 ## T2 batch 1 — scans 75–79
 
@@ -34,12 +34,6 @@ Tamil audit gate: **NOT READY**.
 - scan78 historical `லை` identity at `இல்லை.`: **CONFIRMED**;
 - scan79 `அப்பிரதக்ஷிணமாகச்`: **RESOLVED / CONFIRMED**;
 - review record: [`T2_SCANS_075_079.md`](T2_SCANS_075_079.md).
-
-## Remaining T2 review items
-
-- scan88 phrase around `ஒரு கடாரம் பத்திருக்கு`;
-- scan89 `அவர்கள் அய்யரை வீரராகிவிட்டார்கள்`;
-- full historical-glyph-sensitive re-read per repository guide for scans 85–90.
 
 ## T2 batch 2 — scans 80–84
 
@@ -55,6 +49,20 @@ Tamil audit gate: **NOT READY**.
 
 Cumulative T2 through scan84: **10 / 16 pages verified, 28 corrections, 0 unresolved readings**.
 
+## T2 batch 3 — scans 85–90
+
+- status: **PASS / COMPLETE**;
+- verified pages: **6 / 6**;
+- source-proven corrections: **12**;
+- unresolved readings: **0**;
+- scan86 genuine colloquial `தல தப்பாதடி, தல தப்பாது`: **CONFIRMED**; not misread as historical `லை`;
+- scan88 `ஒரு கடாரம் பத்திருக்கு`: **CONFIRMED / RETAINED**;
+- scan89 `பகற் கொள்ளைக்காரனைப்`, `டுமீல்! டுமீல்!`, and `அவர்கள் அய்யரை வீரராக்கிவிட்டார்கள்`: **SOURCE-RESOLVED**;
+- all 13 historical-glyph-sensitive families explicitly considered on every page;
+- review record: [`T2_SCANS_085_090.md`](T2_SCANS_085_090.md).
+
+Cumulative T2 through scan90: **16 / 16 pages verified, 40 corrections, 0 unresolved readings**.
+
 T1 closure record: [`T1_COMPLETION.md`](T1_COMPLETION.md).
 
-**Next: T2 source-fidelity / historical-glyph review — scans 85–90.**
+**Next: whole-work Tamil source audit — independently re-read and reconcile scans 75–90 before assembled Tamil.**

@@ -4,10 +4,10 @@ printed_page: 89
 work: "nadutheru-narayani"
 section: "நடுத்தெரு நாராயணி"
 page_type: "body / work ending"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064361_அரும்பு.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; historical-glyph/source-fidelity review pending"
+transcription_method: "direct visual transcription from source scan; independent T2 source-fidelity / historical-glyph review complete"
 ---
 
 ஆயுள் தண்டனை! அந்தமட்டில் ஆண்டவன் நாராயணியின் துப்பாக்கி முனையிலிருந்தும் நீதி மன்றத்தின் தூக்குத் தண்டனையிலிருந்தும் தன்னை விடுவித்தானே என்று மகிழ்ச்சி அய்யருக்கு!
@@ -24,6 +24,16 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - scan89→90 is a semantic continuation from verdict to `ஆயுள் தண்டனை!`;
 - terminal horizontal rule is preserved as an ending marker above;
 - no narrative source scan follows within the component span;
-- page status remains **needs-review**.
+- page status is **verified** after the independent T2 source-fidelity / historical-glyph pass.
 
-<!-- source physical scan: 90; printed page: 89; T1 COMPLETE; REVIEW PENDING; WORK END -->
+
+## T2 source-fidelity / historical-glyph review
+
+- full printed page **89** and the source-visible work ending were independently re-read from source pixels;
+- source-proven T1 corrections: **0**;
+- scan89→90 verdict continuation to `ஆயுள் தண்டனை!` is confirmed;
+- title-explanation passage, final Deepavali/Narakasura paragraph and terminal horizontal rule are source-confirmed;
+- all 13 historical-glyph-sensitive families were explicitly considered;
+- unresolved readings: **0**.
+
+<!-- source physical scan: 90; printed page: 89; T1 COMPLETE; T2 VERIFIED; WORK END -->

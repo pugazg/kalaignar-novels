@@ -1,4 +1,4 @@
-# Next Chat Prompt — நடுத்தெரு நாராயணி / T2 scans 85–90
+# Next Chat Prompt — நடுத்தெரு நாராயணி / whole-work Tamil source audit
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -15,38 +15,42 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AU
 
 - canonical page records: **16 / 16**;
 - T1: **PASS / COMPLETE**;
-- T2 scans 75–84: **PASS / VERIFIED**;
-- verified pages: **10 / 16**;
-- remaining needs-review: **6 / 16**;
-- cumulative T2 corrections through scan84: **28**;
-- unresolved readings through scan84: **0**;
-- assembled Tamil / English: **NOT STARTED**.
+- T2 scans 75–90: **PASS / COMPLETE**;
+- verified pages: **16 / 16**;
+- needs-review pages: **0 / 16**;
+- cumulative T2 source-proven corrections: **40**;
+- unresolved T2 readings: **0**;
+- assembled Tamil / English: **NOT STARTED**;
+- Tamil source audit: **NEXT / NOT YET PASSED**.
 
-T2 batch 2, scans **80–84**:
+T2 batch 3 — scans **85–90**:
 
-- status: **PASS / COMPLETE / 5 of 5 verified**;
-- source-proven corrections: **13**;
-- scan80: no correction; two-page printed spread **78–79** fully checked;
-- scan81: `வாக்கலித்த` → `வாக்களித்த`; `குருக்களேத்` → `குருக்களைத்`; source `பூணால் வலையில்` confirmed;
-- scan82: six corrections, including `மணாளனாக` → `மணாளனை`, `அதித்` → `ஆதித்`, `கேட்டுவைத்தாள்` → `கேட்டு வைத்தாள்`, `என்` → `ஏன்`, `கோபப்பட்டணும்` → `கோபப்படணும்`, and `ஒய்ப்பு` → source `ஒய்ப்`; source wordplay is **`வைப்பு / ஒய்ப் / வைப்`**;
-- scan83: five corrections — `தாமகர்த்தா` → `தர்மகர்த்தா`, `வாழ்கிறவன்` → `வாழுகிறவன்`, `அணைத்துக்காக` → `அணைத்தக்காக`, `இவரோ` → `இவனோ`, `இருக்கிறார்` → `இருக்கிறான்`;
-- scan84: no correction; source `பதி சொல் தட்டாத` confirmed;
-- all 13 historical-glyph-sensitive families were explicitly considered on each page;
-- unresolved readings: **0**.
+- **6 / 6 verified**;
+- **12 source-proven corrections / 0 unresolved**;
+- scan85: `பேச்சு வரவேயில்லை` → `பேச வாயெழவில்லை`; `காமன` → `காமனை`; `தூபம் போட்ட ஆரம்பித்தான்` → `தூபம் போட ஆரம்பித்தான்`;
+- scan86: `இல்லைன்னா` → `இல்லேன்னு`; source-confirmed `தல தப்பாதடி, தல தப்பாது` replaces T1 `தலை...` and is a genuine short form, not a historical-`லை` misread;
+- scan87: `புரிந்துகொண்டேன்` → `புரிந்து கொண்டேன்`;
+- scan88: no correction; `ஒரு கடாரம் பத்திருக்கு` **CONFIRMED / RETAINED**;
+- scan89: six corrections, including `பகற் கொள்ளைக்காரனைப்`, `டுமீல்! டுமீல்!`, and source-resolved `அவர்கள் அய்யரை வீரராக்கிவிட்டார்கள்`;
+- scan90: no correction; work ending and terminal rule confirmed;
+- all 13 historical-glyph-sensitive families were explicitly considered on every page.
+
+The page map has also been repaired/synchronized so scans **75–90** all show **verified — T2 pass**.
 
 ## Exact next activity
 
-Independently T2-review **scans 85–90** and complete the remaining T2 coverage.
+Perform the **whole-work Tamil source audit across scans 75–90**.
 
-Special attention:
+Independently verify:
 
-- scan85 continuation from scan84: `அப்படி அவள் நகர்த்தும்` → `போது`;
-- scan85→86: `ஒன்றுக்` → `கொன்று`;
-- scan86→87: `நல்ல` → `மனுஷன்`;
-- scan87→88: `உன்` → `பேச்சு`;
-- scan88 phrase around `ஒரு கடாரம் பத்திருக்கு`;
-- scan88→89: `முரட்டுத்தனமாக` → `அவளது கரங்களை இழுத்த`;
-- scan89 source clause `அவர்கள் அய்யரை வீரராகிவிட்டார்கள்`;
-- all 13 historical-glyph-sensitive families on every page.
+1. all **16 physical scans** are represented exactly once and in source order;
+2. printed-page mapping: scan75 unnumbered; scans76–79 = 74–77; scan80 = printed 78–79 two-page illustrated spread; scans81–90 = 80–89;
+3. every canonical page against controlling source pixels, with special attention to all **40 T2 corrections**;
+4. all confirmed joins: 76→77, 78→79, 79→80, 81→82, 83→84, 84→85, 85→86, 86→87, 87→88, 88→89, 89→90;
+5. protected source oddities including scan81 `பூணால் வலையில்`, scan82 `வைப்பு / ஒய்ப் / வைப்`, scan84 `பதி சொல் தட்டாத`, scan88 `ஒரு கடாரம் பத்திருக்கு`, scan89 `வீரராக்கிவிட்டார்கள்`;
+6. all 13 historical-glyph-sensitive families, with **0 silent normalization**;
+7. scan80 illustration handling and scan90 narrative ending / terminal rule;
+8. metadata, README, page-map and audit controls against the canonical layer;
+9. source PDF remains excluded from the repository.
 
-Correct only source-proven T1 errors, mark a page verified only if its full T2 pass succeeds, synchronize controls, commit the bounded batch, and do not begin assembled Tamil or English yet.
+If a residual mismatch is positively source-proven, correct it and record it. Create a durable whole-work audit record (following the repository precedent, e.g. `FULL_TAMIL_SOURCE_AUDIT.md`), synchronize controls, commit, and stop before assembled Tamil or English.
