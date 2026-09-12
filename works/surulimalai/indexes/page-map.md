@@ -10,11 +10,11 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 2 | — | front-matter / copy provenance | **verified** | later gift label kept separate |
 | 3 | — | title-page | **verified** | title/author/publisher/place confirmed |
 | 4 | — | publication-page | **verified** | second edition 1968 / copyright / price confirmed |
-| 5 | — | body opening | **t1-active** | attached source image opened; direct transcription in progress; printed page not yet recorded |
-| 6 | — | body | **t1-active** | attached source image opened; direct transcription in progress; printed page not yet recorded |
-| 7 | — | body | **t1-active** | attached source image opened; direct transcription in progress; printed page not yet recorded |
-| 8 | — | body | **t1-active** | attached source image opened; direct transcription in progress; printed page not yet recorded |
-| 9 | — | body | **t1-active** | attached source image opened; direct transcription in progress; printed page not yet recorded |
+| 5 | — | body / அறிமுகம் | **needs-review** | T1 complete; visible printed page number absent |
+| 6 | 4 | body | **needs-review** | T1 complete; page ends `வாய்ப்பாடு` |
+| 7 | 5 | body | **needs-review** | T1 complete; begins `பாடத்தின் “கோரஸ்”!!` |
+| 8 | 6 | body | **needs-review** | T1 complete; ends `யார் வீட்டில் உடல் நலிவு என்றாலும்` |
+| 9 | 7 | body | **needs-review** | T1 complete; later blue/purple marks excluded; page ends `புல்லாங்` |
 | 10 | — | unclassified | **not-started** | direct visual classification pending |
 | 11 | — | unclassified | **not-started** | direct visual classification pending |
 | 12 | — | unclassified | **not-started** | direct visual classification pending |
@@ -162,10 +162,11 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records created/verified: **4 opening/front-matter records only**;
-- body T1: **IN PROGRESS — scans 5–9 active**;
+- page records: **9 total — 4 front-matter `verified` + 5 body `needs-review`**;
+- body T1: **COMPLETE / PASS — scans 5–9 = 5/5**;
+- body T2: **NEXT — scans 5–9 independent historical-glyph review**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **complete T1 scans 5–9 from the attached PDF only; defer full-source/terminal reconciliation.**
+Exact next: **perform T2 independent historical-glyph review for scans 5–9 only; keep pages `needs-review` and stop before scan10. Full-source/terminal reconciliation remains deferred.**

@@ -30,8 +30,9 @@ No bibliographic value above is inferred from the filename alone.
 - scan 2 — mostly blank front-matter page with later copy-specific gift label;
 - scan 3 — title page;
 - scan 4 — publication/edition/copyright/price page;
-- scan 5 — body/narrative opening;
-- scans 6–144 — not yet fully page-mapped in this intake checkpoint;
+- scan 5 — unnumbered `அறிமுகம்`; T1 complete / `needs-review`;
+- scans 6–9 — T1 complete / `needs-review`; visible printed pages 4–7;
+- scans 10–144 — not yet fully page-mapped in this intake checkpoint;
 - current Files parser exposes pages **1–150 only** for a source known to contain **198 pages**;
 - previous terminal mapping based on that representation is **invalidated**;
 - no claim about page 198, narrative ending, or back cover is currently durable from this parser view.
@@ -66,9 +67,10 @@ The user supplied a descriptive synopsis mentioning கரகாட்டம்,
 1. compute and record the PDF SHA-256;
 2. obtain/use a **full 198-page representation of the same source copy**;
 3. invalidate and later redo terminal-boundary mapping against the complete representation;
-4. **T1 scans 5–9 is ACTIVE now from the attached PDF pages currently available**;
-5. the 198-page ingestion issue is deferred and must not block early-page transcription;
-6. do not infer source extent from the current Files parser's `num_pages: 150`.
+4. **T1 scans 5–9 is COMPLETE / PASS — 5/5 canonical records, all `needs-review`**;
+5. **T2 independent historical-glyph review for scans 5–9 is NEXT**;
+6. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
+7. do not infer source extent from the current Files parser's `num_pages: 150`.
 
 
 Terminal-boundary audit: [`../TERMINAL_BOUNDARY_AUDIT.md`](../TERMINAL_BOUNDARY_AUDIT.md).

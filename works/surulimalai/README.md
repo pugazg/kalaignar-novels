@@ -18,11 +18,12 @@
 - source text layer: **image-only / no usable parsed text**;
 - source title/author/publisher/edition: **VISUALLY CONFIRMED from scans 1, 3, 4**;
 - front matter scans **1–4**: **4/4 page records created / VERIFIED**;
-- body opening: **scan 5 confirmed**;
+- body opening: **scan 5 T1 complete / `needs-review`**;
 - terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
 - prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
-- canonical body transcription: **IN PROGRESS — T1 scans 5–9 active**;
-- historical-glyph/source-fidelity gate: **NOT STARTED**;
+- canonical body transcription: **T1 scans 5–9 COMPLETE / PASS — 5/5 page records, all `needs-review`**;
+- historical-glyph review: **T2 NEXT — scans 5–9**;
+- final source-fidelity review: **T3 PENDING — scans 5–9**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
 - English translation: **NOT STARTED / BLOCKED**.
 
@@ -40,7 +41,8 @@ The user supplied the following catalogue-style description for project context.
 - scan 2 — mostly blank/copy-provenance page with later gift label;
 - scan 3 — title page;
 - scan 4 — edition / copyright / price page;
-- scan 5 — narrative/body opening;
+- scan 5 — unnumbered `அறிமுகம்`; T1 complete / `needs-review`;
+- scans 6–9 — T1 complete / `needs-review`; visible printed pages **4–7**;
 - current parser exposes only pages **1–150** although the same source copy has **198 pages**;
 - therefore no terminal/body-boundary claim from pages 140–150 is durable;
 - full 198-page source view is required before terminal mapping or closure.
@@ -50,7 +52,7 @@ Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Proceed with bounded T1 on the early pages that are available in the **attached PDF**. The 198-page ingestion discrepancy is deferred and is **not a blocker** for scans 5–9. Use no external transcription source. Complete scans **5–9**, create needs-review canonical records, then stop before scan10.
+Perform **T2 independent historical-glyph review for scans 5–9 only** against the attached source pixels. Re-read all five pages independently, check all 13 known historical families occurrence-by-occurrence, keep pages `needs-review`, update controls, commit, and stop before scan10. The 198-page ingestion discrepancy remains deferred.
 
 Do not start English or assembled Tamil work.
 

@@ -6,29 +6,32 @@ Status: **IN PROGRESS**.
 
 Completed:
 
-- live repository checked; no prior `works/surulimalai/` existed;
+- live repository checked and current work continued in `works/surulimalai/`;
 - root processing guides reviewed;
 - attached source inspected directly at the opening;
 - title / author / publisher / edition verified from source scans;
 - source size / attached-artifact scan count registered;
 - user correction/source identity recorded: this copy has **198 pages**; the ChatGPT Files parser currently exposes only **150 pages**;
 - front matter scans 1–4 recorded and marked verified;
+- T1 scans **5–9 completed directly from attached source pixels**;
+- five canonical body records created as `needs-review`;
+- visible printed-page mapping recorded only where directly printed: **scan5 = —; scan6 = 4; scan7 = 5; scan8 = 6; scan9 = 7**;
 - source PDF excluded from repository.
 
 Open:
 
 - SHA-256 checksum;
-- scan→printed-page reconciliation: **150 PDF scan images vs 198 printed/book pages**;
-- complete per-scan page-type / visible printed-page mapping for the **intermediate body**, including multi-page scans where source-supported;
-- body T1/T2 and whole-work audit;
-- T1 scans **5–9 now ACTIVE** from attached PDF only.
+- complete-source / terminal reconciliation against a full **198-page** representation;
+- complete per-scan page-type / visible printed-page mapping for the remaining body;
+- T2 historical-glyph review for scans 5–9;
+- T3 final source-fidelity review for scans 5–9;
+- later body batches and whole-work Tamil audit.
 
-No canonical body transcription has started. No OCR output has been accepted as source authority.
-
+Canonical body transcription now exists for scans **5–9** only. All five records remain `needs-review`. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
-The attached source is the Tamil Digital Library copy also mirrored in Wikisource, and its complete extent is **198 pages**.
+The attached source is the registered source copy whose complete extent is **198 pages**.
 
 In this chat, the Files service reports `num_pages: 150`. That parser/ingestion result is therefore **not an authoritative statement about the source PDF's actual extent**.
 
@@ -37,8 +40,9 @@ Consequences:
 - the earlier “150 scans vs 198 printed pages” reconciliation is withdrawn;
 - the later claim that scans 140–149 equal printed pages 189–198 is also withdrawn;
 - the claim that scan149 is the narrative ending and scan150 is the back cover is **invalidated**;
-- no canonical body text had been created from those claims, so no canonical transcription rollback is needed;
-- future source-bound work must use a complete 198-page representation of the same source copy.
+- the invalid terminal claims did not create canonical body prose and therefore required no transcription rollback;
+- early source-visible pages may still be processed in bounded batches;
+- terminal reconciliation remains blocked until the full 198-page source representation is available.
 
 ## Terminal-boundary audit status
 
@@ -48,17 +52,30 @@ Reason: performed against a parser representation that stops at page 150 even th
 
 Current status: **UNKNOWN / RE-AUDIT REQUIRED ON FULL SOURCE**.
 
+## T1 scans 5–9 — completion
 
+Source scope: attached PDF pixels only.
 
-## T1 start — scans 5–9
+| Scan | Visible printed page | Record | T1 result |
+|---:|---:|---|---|
+| 5 | — | `pages/0005-arimugam.md` | **PASS / needs-review** |
+| 6 | 4 | `pages/0006-page-4.md` | **PASS / needs-review** |
+| 7 | 5 | `pages/0007-page-5.md` | **PASS / needs-review** |
+| 8 | 6 | `pages/0008-page-6.md` | **PASS / needs-review** |
+| 9 | 7 | `pages/0009-page-7.md` | **PASS / needs-review** |
 
-User directive: begin transcription now and resolve the complete-source/page-count issue later.
+Source-boundary observations:
 
-- source scope: attached PDF only;
-- source images 5–9 opened successfully;
-- external transcription/reference sources: **0**;
-- T1 state: **IN PROGRESS**;
-- canonical body records completed: **0 / 5 at this start checkpoint**;
-- full-source/terminal discrepancy: **DEFERRED / NON-BLOCKING FOR THIS BATCH**.
+- scan 5 is the unnumbered `அறிமுகம்`;
+- scan 6 ends `வாய்ப்பாடு`; scan 7 begins `பாடத்தின் “கோரஸ்”!!`;
+- scan 8 ends `யார் வீட்டில் உடல் நலிவு என்றாலும்`; scan 9 continues `பூஞ்சோலை அங்கிருப்பாள்.`;
+- later blue/purple underlining/bracket marks on scan 9 were excluded from canonical printed prose;
+- scan 9 ends `புல்லாங்`; scan 10 was not opened or used to complete that fragment.
+
+Historical-type observations for independent T2 re-read include the T1 representations `மட்டுந்தானா`, `வீட்டென்றால்`, `கிட்டவில்ல`, `பொன்னாலன்றே`, and `அதுலைதான்`. Their final T2 treatment must come from a fresh source-pixel pass, not from contextual expectation.
 
 Checkpoint: [`T1_BATCH_005_009.md`](T1_BATCH_005_009.md).
+
+## Exact next activity
+
+Perform **T2 independent historical-glyph review for scans 5–9 only**, checking all 13 known historical families occurrence-by-occurrence. Keep pages `needs-review`; T3 remains a separate gate. Commit and stop before scan 10.
