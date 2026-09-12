@@ -147,6 +147,27 @@ T1 closure record: [`T1_COMPLETION.md`](T1_COMPLETION.md).
 - canonical Tamil changes during English work: **0**;
 - reviews: [`translations/en/BATCH_02_REVIEW.md`](translations/en/BATCH_02_REVIEW.md), [`translations/en/BATCH_03_REVIEW.md`](translations/en/BATCH_03_REVIEW.md).
 
-**All translation batches are REVIEWED / COMPLETE, but whole-work English is NOT YET VERIFIED.**
+## Section 16 whole-work bilingual review
 
-**Next: Section 16 whole-work bilingual review.**
+- status: **PASS / COMPLETE**;
+- complete English coverage: **16 / 16 scans**;
+- scan order / provenance markers: **75→90 / 16 of 16 PASS**;
+- duplicate English scan markers: **0**;
+- material omissions: **0**;
+- source-like additions: **0**;
+- unresolved translation items: **0**;
+- speaker attribution / agency: **PASS**;
+- names / recurring terminology: **PASS**;
+- political / religious / caste rhetorical force: **PASS**;
+- colloquial register: **PASS**;
+- verified cross-page joins: **11 / 11 PASS**;
+- source-specific difficult readings / wordplay: **PASS / documented**;
+- scan80 illustration exclusion: **PASS**;
+- scan90 ending / terminal rule: **PASS**;
+- scans91–92 exclusion: **PASS**;
+- canonical Tamil changes during English translation/review: **0**;
+- review record: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
+
+**Whole-work English: VERIFIED.**
+
+**Next: Section 17 release-readiness.**

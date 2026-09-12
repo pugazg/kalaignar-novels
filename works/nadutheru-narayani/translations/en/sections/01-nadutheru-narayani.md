@@ -6,14 +6,14 @@ section_title: "Nadutheru Narayani"
 language: "en"
 planned_source_scans: "75-90"
 translated_source_scans: "75-90"
-status: "reviewed"
-batch_status: "Batches 1-3 scans 75-90 REVIEWED / COMPLETE; whole-work bilingual review pending"
+status: "verified"
+batch_status: "Batches 1-3 REVIEWED; Section 16 PASS; whole-work VERIFIED"
 derived_from: "audited Tamil pages/ records; assembled Tamil used for continuity"
 ---
 
 # Nadutheru Narayani
 
-> **Translator's note:** This English translation follows the audited 1978 Tamil source preserved in this repository. It is being built in controlled batches. The canonical Tamil page records remain authoritative; the assembled Tamil layer is used only for continuity. Source-specific satire, caste/religious rhetoric, colloquial register and unusual wording are not silently normalized.
+> **Translator's note:** This English translation follows the audited 1978 Tamil source preserved in this repository. It was built in controlled batches and has passed whole-work bilingual review. The canonical Tamil page records remain authoritative; the assembled Tamil layer is used only for continuity. Source-specific satire, caste/religious rhetoric, colloquial register and unusual wording are not silently normalized.
 
 <!-- source: scan 75; printed page: — -->
 

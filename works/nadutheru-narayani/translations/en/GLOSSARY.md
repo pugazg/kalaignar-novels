@@ -1,6 +1,6 @@
 # English Translation Glossary — நடுத்தெரு நாராயணி
 
-Status: **BATCHES 1–3 LOCKED / ENGLISH COVERAGE COMPLETE; WHOLE-WORK REVIEW NEXT**.
+Status: **LOCKED / WHOLE-WORK ENGLISH VERIFIED — SECTION 16 PASS**.
 
 This file records source-bound translation decisions. Canonical Tamil remains authoritative. A locked English decision may change only through an explicit documented correction; it never silently alters Tamil.
 
@@ -110,4 +110,4 @@ Batch 2 source-check: **5 / 5 scans; 0 material omissions / 0 source-like additi
 
 Batch 3 source-check: **6 / 6 scans; 0 material omissions / 0 source-like additions / 0 unresolved blockers / 0 canonical Tamil changes**.
 
-English batch coverage is now **16 / 16 scans**. Whole-work bilingual verification remains a separate next gate.
+English batch coverage is **16 / 16 scans**. Section 16 whole-work bilingual review is **PASS / COMPLETE** and whole-work English is **VERIFIED**.

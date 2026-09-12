@@ -194,4 +194,6 @@ Batches **1–3** now cover scans **75–90 / 16 of 16** and are **REVIEWED / CO
 
 ## Exact next activity
 
-Perform the mandatory **Section 16 whole-work bilingual review** across the complete Tamil and English reading layers. Create `TRANSLATION_REVIEW.md`, reconcile names/terms/rhetoric/provenance and all 11 Tamil source joins against the complete English section, and mark whole-work English VERIFIED only if that independent review passes.
+Section 16 whole-work bilingual review is **PASS / COMPLETE**; `TRANSLATION_REVIEW.md` records the independent reconciliation and whole-work English is **VERIFIED**.
+
+The exact next activity is the separate **Section 17 release-readiness** gate.

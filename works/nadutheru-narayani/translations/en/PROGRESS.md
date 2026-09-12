@@ -12,9 +12,9 @@ Working English title: **Nadutheru Narayani**.
 - English coverage: **16 / 16 scans**.
 - One-section English file: **COMPLETE / BATCH-REVIEWED**.
 - Batches 1–3 source-check: **PASS — 0 omissions / 0 source-like additions / 0 unresolved blockers**.
-- Whole-work bilingual review: **NOT STARTED / NEXT**.
-- Whole-work English: **NOT VERIFIED**.
-- Release-readiness: **NOT STARTED / BLOCKED**.
+- Whole-work bilingual review: **PASS / COMPLETE**.
+- Whole-work English: **VERIFIED**.
+- Release-readiness: **NOT STARTED / NEXT**.
 - Canonical Tamil changes during planning: **0**.
 
 ## Cross-batch continuity locks
@@ -23,4 +23,4 @@ Working English title: **Nadutheru Narayani**.
 - Batch 2 ends at scan84; scan84→85 is a verified continuation and must be rechecked when Batch 3 starts.
 - Batch 3 closes at scan90, the source-visible work ending.
 
-**Next: Section 16 whole-work bilingual review — scans 75–90.**
+**Next: Section 17 release-readiness.**

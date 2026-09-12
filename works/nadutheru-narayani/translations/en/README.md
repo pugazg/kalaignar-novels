@@ -1,6 +1,6 @@
 # English Translation — நடுத்தெரு நாராயணி
 
-Status: **BATCHES 1–3 REVIEWED / COMPLETE — WHOLE-WORK BILINGUAL REVIEW NEXT**.
+Status: **WHOLE-WORK ENGLISH VERIFIED — SECTION 16 PASS / COMPLETE**.
 
 Working English title: **Nadutheru Narayani**.
 
@@ -15,8 +15,9 @@ Canonical Tamil `../../pages/` remains final textual authority. PASSED assembled
 - English coverage — **16 / 16 scans**;
 - English reading section — **COMPLETE / BATCH-REVIEWED**;
 - Batches 1–3 source-check — **0 omissions / 0 source-like additions / 0 unresolved blockers**;
-- whole-work bilingual review — **NOT STARTED / NEXT**;
-- whole-work English — **NOT YET VERIFIED**;
+- whole-work bilingual review — **PASS / COMPLETE**;
+- whole-work English — **VERIFIED**;
+- Section 17 release-readiness — **NOT STARTED / NEXT**;
 - canonical Tamil changes during English work — **0**.
 
 Translation plan: `TRANSLATION_PLAN.md`.  
@@ -26,4 +27,6 @@ Progress control: `PROGRESS.md`.
 Batch reviews: [`BATCH_01_REVIEW.md`](BATCH_01_REVIEW.md), [`BATCH_02_REVIEW.md`](BATCH_02_REVIEW.md), [`BATCH_03_REVIEW.md`](BATCH_03_REVIEW.md).  
 English section: [`sections/01-nadutheru-narayani.md`](sections/01-nadutheru-narayani.md).
 
-Exact next activity: **Section 16 whole-work bilingual review across scans 75–90.**
+Whole-work review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
+
+Exact next activity: **Section 17 release-readiness**.

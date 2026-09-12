@@ -37,8 +37,9 @@
 - English coverage: **16 / 16 scans**;
 - English Batches 1–3: **REVIEWED / COMPLETE — scans 75–90**;
 - per-batch omissions / source-like additions / unresolved blockers: **0 / 0 / 0**;
-- whole-work bilingual review: **NOT STARTED / NEXT**;
-- whole-work English: **NOT YET VERIFIED**.
+- whole-work bilingual review: **PASS / COMPLETE**;
+- whole-work English: **VERIFIED**;
+- Section 17 release-readiness: **NOT STARTED / NEXT**.
 
 T1 closure: `works/nadutheru-narayani/T1_COMPLETION.md`.
 
@@ -67,18 +68,18 @@ English batch records:
 
 Batches 1–3 source-check: **16 / 16 scans; 0 material omissions; 0 source-like additions; 0 unresolved blockers; 0 canonical Tamil changes**.
 
+Section 16 review record:
+
+- `works/nadutheru-narayani/translations/en/TRANSLATION_REVIEW.md`;
+- result: **PASS / COMPLETE**;
+- whole-work English: **VERIFIED**;
+- coverage: **16 / 16 scans**;
+- omissions / source-like additions / unresolved items: **0 / 0 / 0**;
+- verified joins: **11 / 11**;
+- canonical Tamil changes: **0**.
+
 ## Exact next activity
 
-Perform the **Section 16 whole-work bilingual review**.
+Perform **Section 17 release-readiness** for `நடுத்தெரு நாராயணி`.
 
-Requirements:
-
-1. compare the complete English section against all **16/16** canonical Tamil records and the PASSED assembled Tamil continuity layer;
-2. verify all scan provenance markers **75–90** and all source-supported joins, including 76→77, 78→79, 79→80, 81→82, 83→84, 84→85, 85→86, 86→87, 87→88, 88→89 and 89→90;
-3. recheck names, caste/community terminology, religious/temple terms, colloquial register, source satire, `வைப்பு / wife / vaip` wordplay, protected oddities and sound effects;
-4. check omissions, additions, agency, speaker attribution, paragraph order, ending and terminal rule;
-5. create `works/nadutheru-narayani/translations/en/TRANSLATION_REVIEW.md`;
-6. mark whole-work English **VERIFIED** only if the independent bilingual review passes;
-7. synchronize controls, commit, and stop before release-readiness / Section 17.
-
-Do not alter canonical Tamil unless genuinely new source evidence appears.
+Create/update the release report and verify repository/package readiness only; do not reopen verified Tamil or English unless a genuine blocking defect is found.

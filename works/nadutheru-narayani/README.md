@@ -22,8 +22,9 @@
 - English translation plan: **PASS / COMPLETE**;
 - English translation coverage: **16 / 16 scans**;
 - English Batches 1–3: **REVIEWED / COMPLETE — scans 75–90**;
-- whole-work bilingual review: **NOT STARTED / NEXT**;
-- whole-work English: **NOT YET VERIFIED**.
+- whole-work bilingual review: **PASS / COMPLETE**;
+- whole-work English: **VERIFIED**;
+- Section 17 release-readiness: **NOT STARTED / NEXT**.
 
 Collection provenance: `../../collections/arumbu-1978/`.
 
@@ -42,4 +43,6 @@ English controls: [`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSL
 
 Batch reviews: [`translations/en/BATCH_01_REVIEW.md`](translations/en/BATCH_01_REVIEW.md), [`translations/en/BATCH_02_REVIEW.md`](translations/en/BATCH_02_REVIEW.md), [`translations/en/BATCH_03_REVIEW.md`](translations/en/BATCH_03_REVIEW.md).
 
-Next: **Section 16 whole-work bilingual review**.
+Whole-work English review: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
+
+Next: **Section 17 release-readiness**.

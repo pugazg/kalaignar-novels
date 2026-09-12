@@ -1,4 +1,4 @@
-# Next Chat Prompt — நடுத்தெரு நாராயணி / Section 16 whole-work bilingual review
+# Next Chat Prompt — நடுத்தெரு நாராயணி / Section 17 release-readiness
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,32 +8,24 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AU
 - whole-work Tamil source audit: **PASS / COMPLETE**;
 - assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
 - English translation plan: **PASS / COMPLETE**;
-- Batch 1 scans **75–79**: **REVIEWED / COMPLETE**;
-- Batch 2 scans **80–84**: **REVIEWED / COMPLETE**;
-- Batch 3 scans **85–90**: **REVIEWED / COMPLETE**;
+- English Batches 1–3: **REVIEWED / COMPLETE**;
 - English coverage: **16 / 16 scans**;
-- per-batch material omissions / source-like additions / unresolved blockers: **0 / 0 / 0**;
+- Section 16 whole-work bilingual review: **PASS / COMPLETE**;
+- whole-work English: **VERIFIED**;
+- material omissions / source-like additions / unresolved English items: **0 / 0 / 0**;
 - canonical Tamil changes during English work: **0**;
-- whole-work English: **NOT YET VERIFIED**.
+- Section 17 release-readiness: **NEXT**.
 
-English section:
+Whole-work bilingual review:
 
-`works/nadutheru-narayani/translations/en/sections/01-nadutheru-narayani.md`
-
-Batch reviews:
-
-- `works/nadutheru-narayani/translations/en/BATCH_01_REVIEW.md`
-- `works/nadutheru-narayani/translations/en/BATCH_02_REVIEW.md`
-- `works/nadutheru-narayani/translations/en/BATCH_03_REVIEW.md`
+`works/nadutheru-narayani/translations/en/TRANSLATION_REVIEW.md`
 
 ## Exact next activity
 
-Perform **Section 16 whole-work bilingual review** across scans **75–90**.
+Perform **Section 17 release-readiness**.
 
-Create `works/nadutheru-narayani/translations/en/TRANSLATION_REVIEW.md`.
+Check the final archival/editorial package against the repository workflow: source identity/provenance, canonical Tamil status, assembled Tamil status, English-plan and glossary controls, 16/16 English coverage, Section 16 verdict, source-PDF exclusion, required files/links/status synchronization, unresolved-item count, and release metadata.
 
-Independently reconcile the complete English against canonical Tamil and the assembled Tamil continuity layer. Verify **16/16 provenance markers** and all **11 source joins**; recheck names, caste/community and temple terminology, Krishnayyar's colloquial register, political/religious satire, `vaippu / wife / vaip` wordplay, protected source oddities, `Dumeel! Dumeel!`, speaker/agency fidelity, scan80 illustration exclusion, scan90 ending and terminal rule.
+Create `works/nadutheru-narayani/translations/en/RELEASE_REPORT.md` if the gate passes, synchronize all controls, commit, and close the work only if every Section 17 requirement passes.
 
-Whole-work English may be marked **VERIFIED** only if omissions, additions, mistranslations/agency drift, unresolved terminology and structural defects are all closed.
-
-Stop after Section 16; do not begin Section 17 release-readiness in the same activity.
+Do not modify canonical Tamil or verified English prose unless a genuine release-blocking defect is discovered.
