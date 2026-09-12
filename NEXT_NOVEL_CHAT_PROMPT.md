@@ -1,4 +1,4 @@
-# Next Chat Prompt — சுருளிமலை / T3 scans 15–19
+# Next Chat Prompt — சுருளிமலை / T1 scans 20–24
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/surulimalai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -15,41 +15,35 @@ Attached `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`.
 - completeness/terminal issue remains **DEFERRED**;
 - source PDF committed: **No**.
 
-## Durable state
+## Durable completed state
 
-Scans **5–14** are T1/T2/T3 **VERIFIED**.
-
-Active checkpoint: `works/surulimalai/T1_BATCH_015_019.md`.
+Scans **5–19** are T1/T2/T3 **VERIFIED**.
 
 Scans **15–19**:
 
 - T1: **COMPLETE / PASS — 5/5**;
 - T2: **COMPLETE / PASS — 5/5**;
+- T3: **COMPLETE / PASS — 5/5 VERIFIED**;
 - T2 corrections: **5**;
+- T3 corrections: **0**;
 - unresolved historical/source-form readings: **0**;
-- canonical records: **5/5 `needs-review` pending T3**;
 - visible printed pages: **13, 14, 15, 16, 17**;
 - scan20 has not been opened.
 
-T2 corrections:
-
-- scan15 `தவறுமல்` → `தவறாமல்`;
-- scan16 `எதுவுமே யில்ல` → `எதுவுமே யில்லை`;
-- scan16 `யாருமில்லதான்` → `யாருமில்லைதான்`;
-- scan18 `வேணுங்கிறன்` → `வேணுங்கிறான்`;
-- scan19 `என்னைத் அம்மமேலே` → `என்னத்த அம்மமேலே`.
+Completed checkpoint: `works/surulimalai/T1_BATCH_015_019.md`.
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans 15–19 only**:
+Process **T1 scans 20–24 only**:
 
-- attached source pixels only;
-- compare every full page independently against its canonical record;
-- check omissions/repetitions, punctuation, paragraphing, visible page number and cross-page continuity;
-- retain source spelling and T2 decisions unless direct pixels positively require correction;
-- record each T3 correction in page notes and audit;
-- promote a page to `verified` only after it fully passes T3;
-- update controls and commit;
-- **stop before scan20**.
+- attached PDF/source pixels only;
+- direct visual transcription;
+- no external website/source transcription;
+- no OCR guesswork as authority;
+- preserve source spelling, punctuation, paragraphing and historical glyph identity;
+- record visible printed-page numbers only;
+- create five canonical page records as `needs-review`;
+- update page map, README, audit, handover and this next-chat prompt;
+- commit and **stop before scan25**.
 
 The 198-page ingestion/terminal-boundary issue remains deferred.

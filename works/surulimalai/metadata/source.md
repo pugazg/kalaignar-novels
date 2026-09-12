@@ -38,8 +38,9 @@ No bibliographic value above is inferred from the filename alone.
 - scan 14 — chapter-1 opener; T1/T2/T3 complete / **verified**; large title `சுருளிமலை` + chapter number 1; no visible printed page number;
 - T2 scans 10–14 corrections: **2** — `சிறிதுமில்லாதான்`→`சிறிதுமில்லைதான்`; `வேய்ங்குழலில்`→`வேய்குழலில்`;
 - T3 scans 10–14 corrections: **3** — scan10 `அவர்களே`→`அவர்களை`; scan12 duplicate `யார்` removed; scan12 `நீராவியாக்குவது`→`நீராவியாக்குவதும்`;
-- scans 15–19 — T1/T2 complete / `needs-review`; visible printed pages **13–17**;
+- scans 15–19 — T1/T2/T3 complete / **verified**; visible printed pages **13–17**;
 - T2 scans 15–19 corrections: **5** — scan15 `தவறுமல்`→`தவறாமல்`; scan16 two historical `லை` corrections; scan18 `வேணுங்கிறன்`→`வேணுங்கிறான்`; scan19 `என்னைத்`→`என்னத்த`;
+- T3 scans 15–19: **COMPLETE / PASS — 5/5 VERIFIED; 0 additional corrections**;
 - scans 20–144 — not yet fully page-mapped in this intake checkpoint;
 - current Files parser exposes pages **1–150 only** for a source known to contain **198 pages**;
 - previous terminal mapping based on that representation is **invalidated**;
@@ -83,9 +84,10 @@ The user supplied a descriptive synopsis mentioning கரகாட்டம்,
 9. **T3 final source-fidelity review for scans 10–14 is COMPLETE / PASS — 5/5 VERIFIED; 3 corrections**;
 10. **T1 scans 15–19 is COMPLETE / PASS — 5/5 canonical records, all `needs-review`**;
 11. **T2 independent historical-glyph/source-form review for scans 15–19 is COMPLETE / PASS — 5/5; 5 corrections; unresolved 0**;
-12. **T3 final source-fidelity review for scans 15–19 is NEXT**;
-13. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
-14. do not infer source extent from the current Files parser's `num_pages: 150`.
+12. **T3 final source-fidelity review for scans 15–19 is COMPLETE / PASS — 5/5 VERIFIED; 0 additional corrections**;
+13. **T1 scans 20–24 is NEXT**;
+14. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
+15. do not infer source extent from the current Files parser's `num_pages: 150`.
 
 
 Terminal-boundary audit: [`../TERMINAL_BOUNDARY_AUDIT.md`](../TERMINAL_BOUNDARY_AUDIT.md).

@@ -31,11 +31,10 @@ Open:
 - SHA-256 checksum;
 - complete-source / terminal reconciliation against a full **198-page** representation;
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
-- T3 final source-fidelity review for scans 15–19;
 - T1 onward from scan 20;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **verified through scan 14**; scans **15–19 have T1/T2 complete and remain `needs-review` pending T3**. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **verified through scan 19**. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -148,10 +147,11 @@ Structural/source observations:
 
 Checkpoint: [`T1_BATCH_010_014.md`](T1_BATCH_010_014.md).
 
-## T1/T2 scans 15–19
+## T1/T2/T3 scans 15–19
 
-T1: **COMPLETE / PASS — 5/5 canonical records**.  
-T2: **COMPLETE / PASS — 5/5; 5 corrections; unresolved historical/source-form readings 0**.
+T1: **COMPLETE / PASS — 5/5**.  
+T2: **COMPLETE / PASS — 5/5; 5 corrections; unresolved historical/source-form readings 0**.  
+T3: **COMPLETE / PASS — 5/5 VERIFIED; 0 additional corrections**.
 
 | Scan | Printed page | Record | T1 |
 |---:|---:|---|---|
@@ -178,8 +178,24 @@ T2 correction ledger:
 
 Unresolved historical/source-form readings after T2: **0**.
 
+T3 independently confirmed:
+
+- all five complete page transcriptions against their source scans;
+- visible printed pages **13–17**;
+- the scan15 classical quotation and T2 historical-`றா` decision;
+- both scan16 historical-`லை` decisions and retained source spacing;
+- scan17 unusual source punctuation and terminal `தீச்சட்டி`;
+- scan17→18 physical continuation without silently joining canonical page records;
+- scan18 T2 historical-`றா` decision and colloquial forms;
+- scan19 `என்னத்த அம்மமேலே` and retained colloquial forms;
+- scan19 ends at `காலையில்`; scan20 was not consulted;
+- omissions / duplicate text: **0 / 0**;
+- T3 text corrections: **0**.
+
+All scans 15–19 are now **VERIFIED**.
+
 Checkpoint: [`T1_BATCH_015_019.md`](T1_BATCH_015_019.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans 15–19 only** from the attached PDF/source pixels. Check full-page fidelity, promote only pages that pass, update controls, commit, and stop before scan20. The full-source/terminal issue remains deferred.
+Process **T1 scans 20–24 only** from the attached PDF/source pixels. Create five `needs-review` canonical page records, update controls, commit, and stop before scan25. The full-source/terminal issue remains deferred.

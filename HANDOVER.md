@@ -22,12 +22,11 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 ## Durable state
 
 - scans **5–14 T1/T2/T3: VERIFIED**;
-- scans **15–19 T1: COMPLETE / PASS — 5/5**;
-- scans **15–19 T2: COMPLETE / PASS — 5/5**;
-- scans **15–19 canonical records: 5/5 `needs-review` pending T3**;
+- scans **15–19 T1/T2/T3: COMPLETE / PASS — 5/5 VERIFIED**;
 - scans **15–19 T2 corrections: 5**;
-- unresolved historical/source-form readings after T2: **0**;
-- visible printed pages: **13–17**;
+- scans **15–19 T3 corrections: 0**;
+- unresolved historical/source-form readings: **0**;
+- visible printed pages for scans15–19: **13–17**;
 - scan20 has not been opened;
 - terminal/full-198-page issue remains **DEFERRED**.
 
@@ -39,20 +38,30 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 - scan18 — `வேணுங்கிறன்` → **`வேணுங்கிறான்`** — historical `றா`;
 - scan19 — `என்னைத் அம்மமேலே` → **`என்னத்த அம்மமேலே`** — direct source-form correction.
 
-Source-specific unusual forms retained after direct re-read include the scan15 quotation, `ஆந்தைப்பாடினுள்`, `வயப்படுத்தும்`, `வாண்ணே`, `காணேம்`, `அதேயேன்`, `இன்னைக் குத்தான்`, `கனியா குறிச்சி`, `தொடர்ந்தாப் போலே`, `எதிர்த்தாப்போல`, `இல்லேன்னு`, and `‘களுக்’ குன்னு`.
+## T3 result — scans 15–19
+
+- complete full-page source-fidelity recheck: **PASS 5/5**;
+- additional T3 text corrections: **0**;
+- omissions / duplicate text: **0 / 0**;
+- printed-page mapping **13–17** re-confirmed;
+- scan17→18 continuation `தீச்சட்டி` / `சிங்காரந்தான்` re-confirmed without page-record joining;
+- scan19 ends at `காலையில்`; scan20 was not used;
+- all five canonical records promoted to **`verified`**.
 
 ## Exact next activity
 
-Perform **Tamil T3 final source-fidelity review for scans 15–19 only**.
+Process **Tamil T1 scans 20–24 only**.
 
 Requirements:
 
-1. attached source pixels only;
-2. compare every complete canonical page against its scan;
-3. check omissions, duplication, punctuation, paragraphing, printed page numbers and cross-page continuity;
-4. retain T2 decisions unless direct source evidence requires correction;
-5. record each T3 correction explicitly;
-6. promote pages to `verified` only after they fully pass T3;
-7. update `T1_BATCH_015_019.md`, page map, README, audit, handover and next-chat prompt;
-8. commit and **stop before scan20**;
+1. attached PDF/source pixels are controlling;
+2. direct visual transcription only;
+3. no external transcription and no OCR authority;
+4. record only directly visible printed-page numbers;
+5. preserve source spelling, punctuation, paragraphing and historical Tamil glyph identity;
+6. create five canonical page records with `status: needs-review`;
+7. update page map, work README, audit, handover and next-chat prompt;
+8. commit and **stop before scan25**;
 9. terminal/full-198-page reconciliation remains deferred.
+
+Source PDF must not be committed.
