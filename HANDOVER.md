@@ -18,7 +18,6 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 - source size: **268,529,598 bytes**
 - source extent: **198 pages — user/source confirmed**
 - current ChatGPT Files parser exposure: **150 pages only / truncated representation**
-- pagination relationship: **UNRESOLVED in current parser view**
 - SHA-256: **PENDING**
 - source PDF committed: **No**
 - source format: **image-only**
@@ -27,59 +26,61 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 
 - source intake: **REGISTERED / IN PROGRESS**;
 - front matter scans **1–4: VERIFIED**;
-- scans **5–9 T1: COMPLETE / PASS — 5/5**;
-- scans **5–9 T2: COMPLETE / PASS — 5/5**;
-- scans **5–9 T3: COMPLETE / PASS — 5/5**;
-- scans **5–9 canonical page records: 5/5 VERIFIED**;
-- T2 corrections: **1**;
-- T3 corrections: **6**;
-- unresolved historical glyphs: **0**;
-- visible printed-page mapping: **scan5 = unnumbered; scan6 = 4; scan7 = 5; scan8 = 6; scan9 = 7**;
-- page map: **current parser-visible pages 1–150 only; incomplete relative to 198-page source**;
-- prior scan→printed-page terminal mapping: **INVALIDATED**;
-- terminal boundary: **UNKNOWN / full-source re-audit required later**;
+- scans **5–9 T1/T2/T3: COMPLETE / PASS — 5/5 VERIFIED**;
+- scans **10–14 T1: COMPLETE / PASS — 5/5 canonical records, all `needs-review`**;
+- scans **10–14 T2: NEXT**;
+- scans **10–14 T3: PENDING**;
+- visible printed pages: **scan10=8, scan11=9, scan12=10, scan13=11, scan14=—**;
+- scan14 centered **1** is a chapter number, not a printed page number;
+- prior terminal mapping based on the truncated 150-page parser view: **INVALIDATED**;
+- terminal boundary: **DEFERRED / UNKNOWN**;
 - assembled Tamil / English: **BLOCKED**.
 
-## Durable correction ledger — scans 5–9
+## Completed scans 5–9 correction state
 
-T2:
+- T2 corrections: **1**;
+- T3 corrections: **6**;
+- unresolved historical glyphs: **0**.
 
-- scan9 — `கிட்டவில்ல` → `கிட்டவில்லை` — historical `லை`.
+## Scans 10–14 structural observations
 
-T3:
+- scan10 begins `குழல்`, physically continuing scan9 terminal `புல்லாங்`;
+- scan12 ends `எடுப்பார்`; scan13 begins `கைப்பிள்ளை!`;
+- scan13 ends `போவர்` without added punctuation;
+- scan14 starts the main chapter layer with large `சுருளிமலை` and chapter number **1**;
+- later blue/purple annotations on scans11 and 14 are excluded from canonical prose;
+- scan15 has **not** been opened or processed.
 
-- scan5 — `அவள் ஊரார் அறிவர்.` → `அவளை ஊரார் அறிவர்.`;
-- scan6 — `வாசகர்கள் இழுத்துச்` → `வாசகர்களை இழுத்துச்`;
-- scan6 — `அறிவிக்கப்பட வேண்டியதில்லை` → source-printed `அறிவிக்கப்பட்ட வேண்டியதில்லை`;
-- scan8 — `தோத்திரித்தேன்` → source-printed `தோத்தரித்தேன்`;
-- scan8 — `வேதனைகளானாள்` → source-printed `வேதனைக்கலமானாள்`;
-- scan9 — `கவலையால்` → source-printed `கவலியால்`.
+## T2 mandatory re-read targets — scans 10–14
 
-Source-specific unusual forms are preserved without grammar correction or modernization.
+Check all historical families occurrence-by-occurrence:
 
-## Source-boundary observations
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-- scan5 carries `அறிமுகம்` and no printed page number;
-- scan6 ends `வாய்ப்பாடு`; scan7 begins `பாடத்தின் “கோரஸ்”!!`;
-- scan8 ends `யார் வீட்டில் உடல் நலிவு என்றாலும்`; scan9 continues `பூஞ்சோலை அங்கிருப்பாள்.`;
-- scan9 later blue/purple annotations remain excluded from canonical prose;
-- scan9 ends `புல்லாங்`;
-- scan10 has not yet been processed.
+Pay particular attention to:
+
+- scan10 — `வாதீன`;
+- scan12 — `அடி யெடுத்து`, `கண்ட தில்லை`, `இல்லை யெனப்`;
+- scan13 — `ஒரு பைத்தியத்தை மகனைத்`;
+- scan14 — `கண்டு பிடித்தான பிறகு`, `செய்கின்றன வென்று`, `வேய்ங்குழலில்`.
+
+No contextual modernization is permitted. Source pixels decide character identity.
 
 ## Exact next activity
 
-Process **Tamil T1 scans 10–14 only**.
+Perform **Tamil T2 independent historical-glyph/source-form review for scans 10–14 only**.
 
 Requirements:
 
-1. attached PDF/source pixels are controlling;
-2. direct visual transcription only;
-3. no external transcription and no OCR authority;
-4. record only directly visible printed-page numbers;
-5. preserve source spelling, punctuation, paragraphing and historical Tamil glyph identity;
-6. create five canonical page records with `status: needs-review`;
-7. update page map, work README, audit, handover and next-chat prompt;
-8. commit and **stop before scan15**;
-9. terminal/full-198-page reconciliation remains deferred.
+1. attached PDF/source pixels only;
+2. independently re-read every complete scan;
+3. explicitly audit all 13 historical glyph families;
+4. no OCR authority, no global replacement, no grammar/context correction;
+5. record every source-supported correction explicitly;
+6. retain genuine unusual source forms;
+7. keep all five page records `needs-review`; T3 remains separate;
+8. update `T1_BATCH_010_014.md`, page map, README, audit, handover and next-chat prompt;
+9. commit and **stop before scan15**;
+10. full-source/terminal reconciliation remains deferred.
 
 Source PDF must not be committed.

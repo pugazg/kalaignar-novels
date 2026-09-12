@@ -17,6 +17,9 @@ Completed:
 - T2 scans **5–9: COMPLETE / PASS — 5/5**;
 - T3 scans **5–9: COMPLETE / PASS — 5/5**;
 - scans 5–9 canonical page records: **5/5 VERIFIED**;
+- T1 scans **10–14: COMPLETE / PASS — 5/5**;
+- scans 10–14 canonical page records: **5/5 `needs-review`**;
+- visible printed-page mapping added: **scan10 = 8; scan11 = 9; scan12 = 10; scan13 = 11; scan14 = — / chapter no. 1**;
 - visible printed-page mapping: **scan5 = —; scan6 = 4; scan7 = 5; scan8 = 6; scan9 = 7**;
 - T2 corrections: **1**;
 - T3 corrections: **6**;
@@ -28,10 +31,11 @@ Open:
 - SHA-256 checksum;
 - complete-source / terminal reconciliation against a full **198-page** representation;
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
-- T1 onward from scan 10;
+- T2 historical-glyph/source-form review for scans 10–14;
+- T1 onward from scan 15;
 - later whole-work Tamil audit.
 
-Canonical body transcription is verified through **scan 9**. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **verified through scan 9**; scans **10–14 have T1 complete and remain `needs-review`**. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -89,6 +93,29 @@ T3 also confirmed:
 
 Checkpoint: [`T1_BATCH_005_009.md`](T1_BATCH_005_009.md).
 
+## T1 scans 10–14
+
+Result: **COMPLETE / PASS — 5/5 canonical records created as `needs-review`**.
+
+| Scan | Printed page | Record | T1 |
+|---:|---:|---|---|
+| 10 | 8 | `pages/0010-page-8.md` | PASS / needs-review |
+| 11 | 9 | `pages/0011-page-9.md` | PASS / needs-review |
+| 12 | 10 | `pages/0012-page-10.md` | PASS / needs-review |
+| 13 | 11 | `pages/0013-page-11.md` | PASS / needs-review |
+| 14 | — | `pages/0014-chapter-1.md` | PASS / needs-review |
+
+Structural/source observations:
+
+- scan10 begins `குழல்`, physically continuing scan9's `புல்லாங்`;
+- scan12 ends `எடுப்பார்`; scan13 begins `கைப்பிள்ளை!`;
+- scan13 ends `போவர்` without invented punctuation;
+- scan14 begins the chapter layer with large `சுருளிமலை` and chapter number **1**; no visible printed page number is recorded;
+- later blue/purple marks on scans11 and 14 are excluded;
+- T2 targets recorded in the batch checkpoint include `வாதீன`, `ஒரு பைத்தியத்தை மகனைத்`, `கண்டு பிடித்தான பிறகு`, `செய்கின்றன வென்று`, and `வேய்ங்குழலில்`.
+
+Checkpoint: [`T1_BATCH_010_014.md`](T1_BATCH_010_014.md).
+
 ## Exact next activity
 
-Process **T1 scans 10–14 only** from the attached PDF/source pixels. Create five `needs-review` canonical page records, update controls, commit, and stop before scan 15. The full-source/terminal issue remains deferred.
+Perform **T2 independent historical-glyph/source-form review for scans 10–14 only** from the attached PDF/source pixels. Re-read all five complete scans, keep all pages `needs-review`, update controls, commit, and stop before scan15. The full-source/terminal issue remains deferred.
