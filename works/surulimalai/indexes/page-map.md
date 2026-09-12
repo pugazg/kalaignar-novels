@@ -1,6 +1,6 @@
 # Page Map — சுருளிமலை
 
-Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf` — **150 physical scans**.
+Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`. **User-confirmed complete extent: 198 pages. Current attached artifact exposes 150 PDF scans.**
 
 This is the initial intake manifest. Printed-page values remain `—` unless directly verified from the scan. No sequence-based page-number inference is allowed.
 
@@ -150,19 +150,21 @@ This is the initial intake manifest. Printed-page values remain `—` unless dir
 | 142 | — | unclassified | **not-started** | direct visual classification pending |
 | 143 | — | unclassified | **not-started** | direct visual classification pending |
 | 144 | — | unclassified | **not-started** | direct visual classification pending |
-| 145 | — | terminal-span pending classification | **not-started** | must be visually audited before work-ending/back-matter claim |
-| 146 | — | terminal-span pending classification | **not-started** | must be visually audited before work-ending/back-matter claim |
-| 147 | — | terminal-span pending classification | **not-started** | must be visually audited before work-ending/back-matter claim |
-| 148 | — | terminal-span pending classification | **not-started** | must be visually audited before work-ending/back-matter claim |
-| 149 | — | terminal-span pending classification | **not-started** | must be visually audited before work-ending/back-matter claim |
-| 150 | — | terminal-span pending classification | **not-started** | must be visually audited before work-ending/back-matter claim |
+| 145 | — | unclassified / incomplete-source span | **not-started** | not terminal; complete source continues beyond current 150-scan artifact |
+| 146 | — | unclassified / incomplete-source span | **not-started** | not terminal; complete source continues beyond current 150-scan artifact |
+| 147 | — | unclassified / incomplete-source span | **not-started** | not terminal; complete source continues beyond current 150-scan artifact |
+| 148 | — | unclassified / incomplete-source span | **not-started** | not terminal; complete source continues beyond current 150-scan artifact |
+| 149 | — | unclassified / incomplete-source span | **not-started** | not terminal; complete source continues beyond current 150-scan artifact |
+| 150 | — | unclassified / incomplete-source span | **not-started** | not terminal; complete source continues beyond current 150-scan artifact |
 
 ## Intake counts
 
-- physical scans registered: **150 / 150**;
-- page records created/verified: **4 / 150**;
+- attached artifact scans registered: **150 / 150**;
+- user-confirmed complete extent: **198 pages**;
+- completeness gap relative to attached artifact: **48 pages**;
+- page records created/verified: **4 / 150 available scans**;
 - body T1: **0**;
-- terminal-boundary status: **OPEN**;
+- terminal-boundary status: **BLOCKED — full 198-page extent not currently exposed**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **visually audit scans 145–150, settle terminal structure, then start bounded body T1.**
+Exact next: **resolve/access the post-150 source extent; do not infer an ending at scan 150.**

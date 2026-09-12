@@ -4,11 +4,12 @@
 
 ## Active source — சுருளிமலை (1968 second edition)
 
-- source PDF: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf` — **150 scans / image-only / not committed**;
+- source PDF: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf` — **attached artifact exposes 150 PDF scans; user-confirmed complete extent 198 pages / image-only / not committed**;
 - source intake: **REGISTERED / IN PROGRESS**;
 - front matter scans 1–4: **VERIFIED**;
 - scan 5: **body opening confirmed / T1 not started**;
-- terminal boundary: **OPEN — scans 145–150 audit next**;
+- source completeness: **OPEN — complete extent 198 pages; attached artifact currently exposes only 150 scans**;
+- terminal boundary: **BLOCKED until pages/scans beyond 150 are available**;
 - SHA-256: **PENDING**.
 
 ### Latest completed source — அரும்பு 1978 compilation
@@ -34,7 +35,7 @@
 
 Closure record: `collections/arumbu-1978/PARATEXT_CLOSURE.md`.
 
-Exact next action: **சுருளிமலை terminal-boundary intake audit — scans 145–150; then first T1 body batch.**
+Exact next action: **resolve the 198-page source-completeness gap; do not treat scan 150 as the ending.**
 
 ## Completed works
 

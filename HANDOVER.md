@@ -16,7 +16,9 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 - publisher: **திராவிடப்பண்ணை**
 - edition: **இரண்டாம் பதிப்பு — 1968**
 - source size: **268,529,598 bytes**
-- physical scans: **150**
+- attached artifact scans: **150**
+- user-confirmed complete extent: **198 pages**
+- completeness discrepancy: **OPEN — current attachment view is 48 pages short of the confirmed extent**
 - SHA-256: **PENDING — hashing runtime unavailable during intake**
 - source PDF committed: **No**
 - source format: **image-only**
@@ -27,9 +29,10 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 - source intake: **REGISTERED / IN PROGRESS**;
 - front matter scans **1–4: VERIFIED / page records created**;
 - scan **5: body opening confirmed; not yet transcribed**;
-- page map: **150 / 150 scans registered at intake level**;
+- page map: **150 / 150 currently exposed scans registered at intake level**;
+- complete source extent: **198 pages (user-confirmed)**;
 - body T1: **NOT STARTED**;
-- terminal boundary: **OPEN — scans 145–150 require visual audit**;
+- terminal boundary: **BLOCKED — post-150 extent is required; scan 150 is not terminal**;
 - historical-glyph review: **NOT STARTED**;
 - assembled Tamil / English: **BLOCKED**.
 
@@ -43,8 +46,9 @@ The supplied synopsis mentions folk arts such as கரகாட்டம், �
 
 ## Exact next activity
 
-1. visually inspect **scans 145–150** and determine the source-visible terminal narrative/back-matter structure;
-2. compute/record SHA-256 when the hashing runtime is available;
-3. synchronize `metadata/source.md` and `indexes/page-map.md`;
-4. only after the work span is source-confirmed, begin a small T1 body batch from scan 5;
-5. do not commit the PDF and do not reopen closed prior works.
+1. resolve the source-completeness discrepancy: **198 pages confirmed by the user vs 150 PDF scans currently exposed by the attached artifact**;
+2. obtain/access the post-150 extent before making any terminal narrative/back-matter claim;
+3. compute/record SHA-256 when the hashing runtime is available;
+4. synchronize the page map once the additional extent is visible;
+5. a small T1 batch from scan 5 may be processed later as available-source work, but it must not be presented as evidence that the full source is complete;
+6. do not commit the PDF and do not reopen closed prior works.

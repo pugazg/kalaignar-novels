@@ -5,7 +5,9 @@
 - source filename: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 - source PDF committed: **No**
 - file size: **268,529,598 bytes**
-- physical scans: **150**
+- attached artifact physical scans: **150**
+- user-confirmed complete extent: **198 pages**
+- source-completeness status: **OPEN — attached artifact is shorter than the confirmed complete extent**
 - format: **image-only scanned PDF; no usable parsed text layer**
 - SHA-256: **PENDING — runtime hash computation unavailable in this intake turn**
 
@@ -30,9 +32,10 @@ No bibliographic value above is inferred from the filename alone.
 - scan 4 — publication/edition/copyright/price page;
 - scan 5 — body/narrative opening;
 - scans 6–144 — not yet fully page-mapped in this intake checkpoint;
-- scans 145–150 — terminal-boundary classification **PENDING direct visual audit**.
+- scans 145–150 — **not a valid terminal candidate while the source is confirmed as 198 pages**;
+- pages/scans after 150 — **not exposed by the currently attached artifact and therefore unavailable for terminal-boundary verification**.
 
-The final narrative/back-matter boundary must not be inferred from scan count or sequence.
+The final narrative/back-matter boundary is **BLOCKED** until the complete 198-page extent is available. Scan 150 must not be treated as the ending.
 
 ## Copy-specific / physical-source observations
 
@@ -60,6 +63,7 @@ The user supplied a descriptive synopsis mentioning கரகாட்டம்,
 ## Open intake items
 
 1. compute and record the PDF SHA-256;
-2. visually classify scans **145–150** and establish the source-visible terminal boundary;
-3. expand the page map from intake status into direct scan-supported page types / visible printed-page numbers;
-4. only after boundary confirmation begin body T1 in small batches.
+2. reconcile the **198-page complete extent** against the currently exposed **150-scan attachment**;
+3. obtain/access the missing post-150 extent before any terminal-boundary claim;
+4. expand the page map from intake status into direct scan-supported page types / visible printed-page numbers;
+5. begin body T1 only as a bounded available-source activity, never as evidence of full-source completion.

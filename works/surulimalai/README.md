@@ -4,19 +4,22 @@
 **வெளியீடு:** திராவிடப்பண்ணை  
 **பதிப்பு:** இரண்டாம் பதிப்பு — 1968  
 **Source PDF:** `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf` — **not committed**  
-**Physical scans:** **150**
+**Attached artifact scans:** **150**  
+**User-confirmed complete extent:** **198 pages**
 
 ## Current state
 
 - source registration: **IN PROGRESS / INTAKE REGISTERED**;
 - source file size: **268,529,598 bytes**;
 - SHA-256: **PENDING — runtime hash computation unavailable in this intake turn**;
-- scan count: **150**;
+- attached artifact scan count: **150**;
+- user-confirmed complete extent: **198 pages**;
+- source-completeness discrepancy: **OPEN — 48 pages beyond the currently exposed 150-scan artifact are not available in this attachment view**;
 - source text layer: **image-only / no usable parsed text**;
 - source title/author/publisher/edition: **VISUALLY CONFIRMED from scans 1, 3, 4**;
 - front matter scans **1–4**: **4/4 page records created / VERIFIED**;
 - body opening: **scan 5 confirmed**;
-- terminal work boundary: **PENDING visual audit of scans 145–150**;
+- terminal work boundary: **BLOCKED — scan 150 must not be treated as terminal while the complete extent is 198 pages**;
 - canonical body transcription: **NOT STARTED**;
 - historical-glyph/source-fidelity gate: **NOT STARTED**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
@@ -37,13 +40,14 @@ The user supplied the following catalogue-style description for project context.
 - scan 3 — title page;
 - scan 4 — edition / copyright / price page;
 - scan 5 — narrative/body opening;
-- scans 145–150 — **must be visually audited before final body/back-matter boundary is asserted**.
+- scans 145–150 — **not terminal; they belong to an incomplete attached artifact relative to the user-confirmed 198-page extent**;
+- pages/scans beyond 150 — **required before final narrative/back-matter boundary can be asserted**.
 
 Source map: [`indexes/page-map.md`](indexes/page-map.md).  
 Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Perform the **terminal-boundary / source-structure audit for scans 145–150**, and compute/record SHA-256 when the hashing runtime is available. Then finalize the physical work span before starting bounded Tamil T1 transcription.
+Resolve the **source-completeness discrepancy first**: the user confirms **198 pages**, while the attached artifact currently exposes **150 PDF scans**. Obtain/access the remaining extent before any terminal-boundary claim. Compute/record SHA-256 when possible. Bounded T1 from the available opening may proceed later, but scan 150 must never be treated as the work ending.
 
 Do not start English or assembled Tamil work.
