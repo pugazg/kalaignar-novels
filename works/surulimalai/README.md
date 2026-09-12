@@ -22,8 +22,8 @@
 - terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
 - prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
 - canonical body transcription: **scans 5–19 VERIFIED; scans 20–24 T1 COMPLETE / PASS — 5/5 `needs-review`**;
-- historical-glyph review: **scans 5–19 T2 COMPLETE / PASS; scans 20–24 T2 NEXT**;
-- final source-fidelity review: **scans 5–19 T3 COMPLETE / PASS / VERIFIED; scans 15–19 = 0 corrections**;
+- historical-glyph review: **scans 5–24 T2 COMPLETE / PASS; scans 20–24 = 0 corrections; unresolved 0**;
+- final source-fidelity review: **scans 5–19 T3 COMPLETE / PASS / VERIFIED; scans 20–24 T3 NEXT**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
 - English translation: **NOT STARTED / BLOCKED**.
 
@@ -58,7 +58,7 @@ Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph/source-form review for scans 20–24 only** from the attached source pixels. Re-read all five pages independently, keep all records `needs-review`, update controls, commit, and stop before scan25. The 198-page ingestion discrepancy remains deferred.
+Perform **T3 final source-fidelity review for scans 20–24 only** from the attached source pixels. Keep pages `needs-review` until each passes T3, update controls, commit, and stop before scan25. The 198-page ingestion discrepancy remains deferred.
 
 Do not start English or assembled Tamil work.
 

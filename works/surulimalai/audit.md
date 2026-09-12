@@ -31,11 +31,11 @@ Open:
 - SHA-256 checksum;
 - complete-source / terminal reconciliation against a full **198-page** representation;
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
-- T2 historical-glyph/source-form review for scans 20–24;
+- T3 final source-fidelity review for scans 20–24;
 - T1 onward from scan 25;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **verified through scan 19**; scans **20–24 have T1 complete and remain `needs-review`**. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **verified through scan 19**; scans **20–24 have T1/T2 complete and remain `needs-review` pending T3**. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -197,9 +197,10 @@ All scans 15–19 are now **VERIFIED**.
 
 Checkpoint: [`T1_BATCH_015_019.md`](T1_BATCH_015_019.md).
 
-## T1 scans 20–24
+## T1/T2 scans 20–24
 
-Result: **COMPLETE / PASS — 5/5 canonical records created as `needs-review`**.
+T1: **COMPLETE / PASS — 5/5 canonical records**.  
+T2: **COMPLETE / PASS — 5/5; 0 corrections; unresolved historical/source-form readings 0**.
 
 | Scan | Printed page | Record | T1 |
 |---:|---:|---|---|
@@ -215,10 +216,21 @@ Structural/source observations:
 - scan21 small bottom-left `2` is treated as a printer/signature mark, not chapter structure;
 - scan22 contains a source-visible centered chapter **2** after two closing paragraphs from the preceding scene;
 - scan24 ends at `அதைத்`; scan25 was not opened;
-- difficult historical/source-form and punctuation clusters were recorded for T2 rather than context-corrected.
+- difficult historical/source-form and punctuation clusters were independently re-read in T2 from source pixels only.
+
+T2 confirmed without change:
+
+- scan20 — `வேலையவிடப்`, `நாழி`, `பிள்ளை யாண்டான்`, `விட்டகன்று`, `அருமருந்தன்ன`, plus the unusual nested quotation;
+- scan21 — `சும்மாகிட`, `தோள்மாத்திக்குவாரு`, `பொத்துன்னு`, `வச்சுருக்காரு`, `தொல்லையில்லாம`, `கயிற்றுச் சுருக்கை`; bottom-left `2` remains non-body;
+- scan22 — chapter-2 heading and source forms `அறிமுகமானவளாய்த்தானிருக்க`, `இருக்குமென்பதற்கு`, `தீச்சட்டியேந்திக்`, `கர கரவெனப்`, `வாலைக் குமரியை`;
+- scan23 — `கற்றவித்தையைக்`, `எப்படிப்பட்ட தென்று`, `ஊற்று வதற்கு`, `திலகங்களையிட்டு`, `நெற்றியிலே இல்ல`, `தண்ணீர் தந்த தடுமாற்றம்`, and quoted `‘அதைக்’`;
+- scan24 — `கங்கணம்`, `ஜ்வாலை யெழுப்பி`, `அநாயாசமாக`, `கடைசலிட்டு`, `இருகோவைப் பழங்களாய்ப்`, both short dialogue quotations, and terminal `அதைத்`.
+
+T2 text corrections: **0**.  
+Unresolved historical/source-form readings after T2: **0**.
 
 Checkpoint: [`T1_BATCH_020_024.md`](T1_BATCH_020_024.md).
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph/source-form review for scans 20–24 only** from the attached PDF/source pixels. Re-read all five complete scans, keep all pages `needs-review`, update controls, commit, and stop before scan25. The full-source/terminal issue remains deferred.
+Perform **T3 final source-fidelity review for scans 20–24 only** from the attached PDF/source pixels. Check full-page fidelity, promote only pages that pass, update controls, commit, and stop before scan25. The full-source/terminal issue remains deferred.
