@@ -9,15 +9,18 @@
 
 - source/work identity: **REGISTERED**;
 - component span: **16 scans**;
-- canonical page records: **5 / 16**;
-- T1 transcription: **IN PROGRESS — scans 75–79 COMPLETE**;
+- canonical page records: **16 / 16**;
+- T1 transcription: **PASS / COMPLETE — scans 75–90**;
 - canonical verified pages: **0 / 16**;
-- current page status: **5 needs-review / 11 not started**;
-- unresolved / targeted T1 review item: **scan79 `அப்பிரதக்ஷிணமாகச்` middle glyph cluster partly source-obscured**;
-- exact next batch: **N2 — scans 80–84**.
+- current page status: **16 needs-review**;
+- printed-page mapping: **COMPLETE — scan80 is printed 78–79 two-page spread; scan90 = printed89**;
+- T2 / historical-glyph/source-fidelity review: **NOT STARTED**;
+- Tamil audit gate: **NOT READY**.
 
 Collection provenance: `../../collections/arumbu-1978/`.
 
-Batch N1 scans **75–79** is **T1 COMPLETE / COMMITTED**. Cross-page joins 76→77 and 78→79 are source-recorded. No scan80 text is present in the N1 records.
+Durable T1 closure: [`T1_COMPLETION.md`](T1_COMPLETION.md).
 
-Next: **Batch N2 — scans 80–84 only**.
+All physical source scans are now represented in canonical page records. Source-specific dialect, caste/religious rhetoric, punctuation and odd forms have not been silently normalized.
+
+Next: **independent T2 source-fidelity / historical-glyph review — begin scans 75–79**.

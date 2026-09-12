@@ -6,10 +6,12 @@
 - publisher: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**
 - physical component scans: **75–90**
 - component scan count: **16**
-- scan 75 visibly opens with title **`நடுத்தெரு நாராயணி`**
-- scan 75 opening printed number: **not visibly recorded**
-- scan 76 visibly prints `74`
-- scan 90 visibly prints `89`
+- scan75 visibly opens with title **`நடுத்தெரு நாராயணி`**
+- scan75 opening printed number: **not visibly recorded**
+- scans76–79: printed **74–77**
+- scan80: **two-page spread, printed 78–79**
+- scans81–90: printed **80–89**
+- scan90: source-visible work ending
 - source PDF committed: **No**
 
-Status: source intake complete; canonical T1 transcription **IN PROGRESS — scans 75–79 / 5 of 16 complete**. All five current page records remain `needs-review`; no verified-page claim has been made. Next: scans 80–84.
+Status: source intake **COMPLETE**; T1 canonical transcription **PASS / COMPLETE — 16 / 16 physical scans**; verified pages **0 / 16**; all records remain `needs-review` pending independent T2 / historical-glyph source-fidelity review.
