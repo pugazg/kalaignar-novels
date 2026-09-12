@@ -4,10 +4,10 @@ printed_page: null
 work: "surulimalai"
 section: "1"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph/source-form T2 complete"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph/source-form T2 complete; T3 source-fidelity verified"
 ---
 
 # சுருளிமலை
@@ -28,7 +28,7 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - source-looking forms `கண்டு பிடித்தான பிறகு` and `செய்கின்றன வென்று` were independently re-read in T2 and retained; T1 `வேய்ங்குழலில்` was corrected to source-supported `வேய்குழலில்`;
 - a later blue marginal mark is excluded from canonical printed prose;
 - no OCR or external transcription was accepted as authority;
-- page status remains `needs-review`.
+- page status: `verified`.
 
 ## T2 independent historical-glyph/source-form notes
 
@@ -39,6 +39,18 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - chapter number **1** remains structural metadata, not a printed page number;
 - later blue marginal mark remains excluded from canonical prose;
 - unresolved historical/source-form readings after T2: **0**;
-- page remains `needs-review` pending T3.
+- T2 result retained through T3; unresolved historical/source-form readings: **0**.
 
-<!-- source physical scan: 14; visible printed page: —; chapter number: 1; T1 COMPLETE / NEEDS-REVIEW -->
+## T3 final source-fidelity notes
+
+- complete scan compared again against the canonical record;
+- checked omissions, duplication, punctuation, paragraphing, chapter structure, absence of a visible printed page number and later marginal marks;
+- large display title `சுருளிமலை` and centered chapter number **1** are confirmed as structural source content;
+- T2 correction `வேய்ங்குழலில்` → `வேய்குழலில்` was re-confirmed;
+- source forms `கண்டு பிடித்தான பிறகு` and `செய்கின்றன வென்று` remain retained;
+- later blue marginal mark remains excluded from canonical prose;
+- T3 text corrections: **0**;
+- omissions / duplicate text: **0 / 0**;
+- T3 result: **PASS / VERIFIED**.
+
+<!-- source physical scan: 14; visible printed page: —; chapter number: 1; T1/T2/T3 COMPLETE / VERIFIED -->

@@ -18,7 +18,7 @@ Completed:
 - T3 scans **5–9: COMPLETE / PASS — 5/5**;
 - scans 5–9 canonical page records: **5/5 VERIFIED**;
 - T1 scans **10–14: COMPLETE / PASS — 5/5**;
-- scans 10–14 canonical page records: **5/5 `needs-review`**;
+- scans 10–14 canonical page records: **5/5 VERIFIED**;
 - visible printed-page mapping added: **scan10 = 8; scan11 = 9; scan12 = 10; scan13 = 11; scan14 = — / chapter no. 1**;
 - visible printed-page mapping: **scan5 = —; scan6 = 4; scan7 = 5; scan8 = 6; scan9 = 7**;
 - T2 corrections: **1**;
@@ -31,11 +31,10 @@ Open:
 - SHA-256 checksum;
 - complete-source / terminal reconciliation against a full **198-page** representation;
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
-- T3 final source-fidelity review for scans 10–14;
 - T1 onward from scan 15;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **verified through scan 9**; scans **10–14 have T1/T2 complete and remain `needs-review` pending T3**. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **verified through scan 14**. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -93,10 +92,11 @@ T3 also confirmed:
 
 Checkpoint: [`T1_BATCH_005_009.md`](T1_BATCH_005_009.md).
 
-## T1/T2 scans 10–14
+## T1/T2/T3 scans 10–14
 
-T1: **COMPLETE / PASS — 5/5 canonical records**.  
-T2: **COMPLETE / PASS — 5/5; 2 corrections; unresolved historical/source-form readings 0**.
+T1: **COMPLETE / PASS — 5/5**.  
+T2: **COMPLETE / PASS — 5/5; 2 corrections; unresolved historical/source-form readings 0**.  
+T3: **COMPLETE / PASS — 5/5 VERIFIED; 3 corrections**.
 
 | Scan | Printed page | Record | T1 |
 |---:|---:|---|---|
@@ -119,6 +119,23 @@ T2 confirmed without change:
 - scan13 `ஒரு பைத்தியத்தை மகனைத்`;
 - scan14 `கண்டு பிடித்தான பிறகு`, `செய்கின்றன வென்று`.
 
+T3 correction ledger:
+
+- scan10 — `அவர்களே வீட்டுக்குள் ஓடச் செய்யும்!` → `அவர்களை வீட்டுக்குள் ஓடச் செய்யும்!`;
+- scan12 — `எவ்வளவு அமைதியாக யார் யாருக்கும் தெரியாமல்` → `எவ்வளவு அமைதியாக யாருக்கும் தெரியாமல்`;
+- scan12 — `கதிரவன் நீராவியாக்குவது,` → `கதிரவன் நீராவியாக்குவதும்,`.
+
+T3 also confirmed:
+
+- no omitted or duplicated body span remains on scans 10–14;
+- paragraph boundaries and visible page numbers match the source;
+- scan9→10 and scan12→13 continuities remain physically separated without silent joins;
+- scan13 ending `போவர்` is preserved without invented punctuation;
+- scan14 large title + chapter number **1** are structural source content, not a page number;
+- later blue/purple annotations on scans11 and 14 remain excluded;
+- T2 source-form decisions remain source-supported;
+- unresolved historical/source-form readings: **0**.
+
 Structural/source observations:
 
 - scan10 begins `குழல்`, physically continuing scan9's `புல்லாங்`;
@@ -132,4 +149,4 @@ Checkpoint: [`T1_BATCH_010_014.md`](T1_BATCH_010_014.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans 10–14 only** from the attached PDF/source pixels. Check full-page fidelity, promote only pages that pass, update controls, commit, and stop before scan15. The full-source/terminal issue remains deferred.
+Process **T1 scans 15–19 only** from the attached PDF/source pixels. Create five `needs-review` canonical page records, update controls, commit, and stop before scan20. The full-source/terminal issue remains deferred.

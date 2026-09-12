@@ -15,11 +15,11 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 7 | 5 | body | **verified** | T1/T2/T3 PASS; `மட்டுந்தானா` T2 decision retained |
 | 8 | 6 | body | **verified** | T1/T2/T3 PASS; source-specific forms retained |
 | 9 | 7 | body | **verified** | T1/T2/T3 PASS; later marks excluded; page ends `புல்லாங்` |
-| 10 | 8 | body / அறிமுகம் | **needs-review** | T1/T2 complete; T3 next; `வாதீன` retained |
-| 11 | 9 | body / அறிமுகம் | **needs-review** | T1/T2 complete; T3 next; later margin marks excluded |
-| 12 | 10 | body / அறிமுகம் | **needs-review** | T1/T2 complete; `சிறிதுமில்லாதான்`→`சிறிதுமில்லைதான்`; T3 next |
-| 13 | 11 | body / அறிமுகம் | **needs-review** | T1/T2 complete; unusual source phrase retained; T3 next |
-| 14 | — | body / chapter 1 opener | **needs-review** | T1/T2 complete; `வேய்ங்குழலில்`→`வேய்குழலில்`; T3 next |
+| 10 | 8 | body / அறிமுகம் | **verified** | T1/T2/T3 PASS; `அவர்களே`→`அவர்களை`; `வாதீன` retained |
+| 11 | 9 | body / அறிமுகம் | **verified** | T1/T2/T3 PASS; later margin marks excluded |
+| 12 | 10 | body / அறிமுகம் | **verified** | T1/T2/T3 PASS; 1 T2 + 2 T3 corrections; ends `எடுப்பார்` |
+| 13 | 11 | body / அறிமுகம் | **verified** | T1/T2/T3 PASS; unusual source phrase retained; ends `போவர்` |
+| 14 | — | body / chapter 1 opener | **verified** | T1/T2/T3 PASS; chapter no. 1; no visible printed page number |
 | 15 | — | unclassified | **not-started** | direct visual classification pending |
 | 16 | — | unclassified | **not-started** | direct visual classification pending |
 | 17 | — | unclassified | **not-started** | direct visual classification pending |
@@ -162,12 +162,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records: **14 total — 9 `verified` + 5 body `needs-review`**;
-- body T1: **scans 5–9 VERIFIED; scans 10–14 T1 COMPLETE / PASS — 5/5 `needs-review`**;
-- body T2: **scans 5–9 COMPLETE / PASS; scans 10–14 COMPLETE / PASS — 5/5; 2 corrections; unresolved 0**;
-- body T3: **COMPLETE / PASS — scans 5–9 = 5/5; 6 corrections; all VERIFIED**;
+- page records: **14 total — 14 `verified`**;
+- body T1: **scans 5–14 COMPLETE / PASS**;
+- body T2: **scans 5–14 COMPLETE / PASS; scans 10–14 = 2 corrections; unresolved 0**;
+- body T3: **scans 5–14 COMPLETE / PASS / VERIFIED; scans 10–14 = 3 corrections**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T3 final source-fidelity review for scans 10–14 only; promote pages only after T3 passes; stop before scan15. Full-source/terminal reconciliation remains deferred.**
+Exact next: **process T1 scans 15–19 only; create five `needs-review` canonical records and stop before scan20. Full-source/terminal reconciliation remains deferred.**
