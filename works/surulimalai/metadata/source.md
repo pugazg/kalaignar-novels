@@ -34,8 +34,9 @@ No bibliographic value above is inferred from the filename alone.
 - scans 6–9 — T1/T2/T3 complete / **verified**; visible printed pages 4–7;
 - T2 correction: scan9 `கிட்டவில்ல` → `கிட்டவில்லை` (historical `லை` identity);
 - T3 corrections: **6** across scans 5, 6, 8 and 9;
-- scans 10–13 — T1 complete / `needs-review`; visible printed pages **8–11**;
-- scan 14 — chapter-1 opener; T1 complete / `needs-review`; large title `சுருளிமலை` + chapter number 1; no visible printed page number;
+- scans 10–13 — T1/T2 complete / `needs-review`; visible printed pages **8–11**;
+- scan 14 — chapter-1 opener; T1/T2 complete / `needs-review`; large title `சுருளிமலை` + chapter number 1; no visible printed page number;
+- T2 scans 10–14 corrections: **2** — `சிறிதுமில்லாதான்`→`சிறிதுமில்லைதான்`; `வேய்ங்குழலில்`→`வேய்குழலில்`;
 - scans 15–144 — not yet fully page-mapped in this intake checkpoint;
 - current Files parser exposes pages **1–150 only** for a source known to contain **198 pages**;
 - previous terminal mapping based on that representation is **invalidated**;
@@ -71,13 +72,14 @@ The user supplied a descriptive synopsis mentioning கரகாட்டம்,
 1. compute and record the PDF SHA-256;
 2. obtain/use a **full 198-page representation of the same source copy**;
 3. invalidate and later redo terminal-boundary mapping against the complete representation;
-4. **T1 scans 5–9 is COMPLETE / PASS — 5/5 canonical records, all `needs-review`**;
+4. **scans 5–9 T1/T2/T3 COMPLETE / PASS — 5/5 VERIFIED**;
 5. **T2 independent historical-glyph review for scans 5–9 is COMPLETE / PASS — 5/5; 1 correction; unresolved historical glyphs 0**;
 6. **T3 final source-fidelity review for scans 5–9 is COMPLETE / PASS — 5/5 VERIFIED; 6 corrections**;
 7. **T1 scans 10–14 is COMPLETE / PASS — 5/5 canonical records, all `needs-review`**;
-8. **T2 independent historical-glyph/source-form review for scans 10–14 is NEXT**;
-9. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
-10. do not infer source extent from the current Files parser's `num_pages: 150`.
+8. **T2 independent historical-glyph/source-form review for scans 10–14 is COMPLETE / PASS — 5/5; 2 corrections; unresolved 0**;
+9. **T3 final source-fidelity review for scans 10–14 is NEXT**;
+10. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
+11. do not infer source extent from the current Files parser's `num_pages: 150`.
 
 
 Terminal-boundary audit: [`../TERMINAL_BOUNDARY_AUDIT.md`](../TERMINAL_BOUNDARY_AUDIT.md).

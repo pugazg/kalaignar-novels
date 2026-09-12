@@ -31,11 +31,11 @@ Open:
 - SHA-256 checksum;
 - complete-source / terminal reconciliation against a full **198-page** representation;
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
-- T2 historical-glyph/source-form review for scans 10–14;
+- T3 final source-fidelity review for scans 10–14;
 - T1 onward from scan 15;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **verified through scan 9**; scans **10–14 have T1 complete and remain `needs-review`**. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **verified through scan 9**; scans **10–14 have T1/T2 complete and remain `needs-review` pending T3**. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -93,9 +93,10 @@ T3 also confirmed:
 
 Checkpoint: [`T1_BATCH_005_009.md`](T1_BATCH_005_009.md).
 
-## T1 scans 10–14
+## T1/T2 scans 10–14
 
-Result: **COMPLETE / PASS — 5/5 canonical records created as `needs-review`**.
+T1: **COMPLETE / PASS — 5/5 canonical records**.  
+T2: **COMPLETE / PASS — 5/5; 2 corrections; unresolved historical/source-form readings 0**.
 
 | Scan | Printed page | Record | T1 |
 |---:|---:|---|---|
@@ -105,6 +106,19 @@ Result: **COMPLETE / PASS — 5/5 canonical records created as `needs-review`**.
 | 13 | 11 | `pages/0013-page-11.md` | PASS / needs-review |
 | 14 | — | `pages/0014-chapter-1.md` | PASS / needs-review |
 
+T2 correction ledger:
+
+- scan12 — `சிறிதுமில்லாதான்` → `சிறிதுமில்லைதான்` — historical `லை` identity;
+- scan14 — `வேய்ங்குழலில்` → `வேய்குழலில்` — direct-pixel source-form correction.
+
+T2 confirmed without change:
+
+- scan10 `வாதீன`;
+- scan11 `அவளத் தேவதையின்`, `நினைப்புடைய இளைஞன்`;
+- scan12 `அடி யெடுத்து`, `கண்ட தில்லை`, `இல்லை யெனப்`, `பூக்கரகம்`;
+- scan13 `ஒரு பைத்தியத்தை மகனைத்`;
+- scan14 `கண்டு பிடித்தான பிறகு`, `செய்கின்றன வென்று`.
+
 Structural/source observations:
 
 - scan10 begins `குழல்`, physically continuing scan9's `புல்லாங்`;
@@ -112,10 +126,10 @@ Structural/source observations:
 - scan13 ends `போவர்` without invented punctuation;
 - scan14 begins the chapter layer with large `சுருளிமலை` and chapter number **1**; no visible printed page number is recorded;
 - later blue/purple marks on scans11 and 14 are excluded;
-- T2 targets recorded in the batch checkpoint include `வாதீன`, `ஒரு பைத்தியத்தை மகனைத்`, `கண்டு பிடித்தான பிறகு`, `செய்கின்றன வென்று`, and `வேய்ங்குழலில்`.
+- T2 difficult clusters have now been independently resolved/confirmed; unresolved historical/source-form readings: **0**.
 
 Checkpoint: [`T1_BATCH_010_014.md`](T1_BATCH_010_014.md).
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph/source-form review for scans 10–14 only** from the attached PDF/source pixels. Re-read all five complete scans, keep all pages `needs-review`, update controls, commit, and stop before scan15. The full-source/terminal issue remains deferred.
+Perform **T3 final source-fidelity review for scans 10–14 only** from the attached PDF/source pixels. Check full-page fidelity, promote only pages that pass, update controls, commit, and stop before scan15. The full-source/terminal issue remains deferred.
