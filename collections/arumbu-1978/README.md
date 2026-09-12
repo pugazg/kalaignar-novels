@@ -17,7 +17,7 @@
 | 6–23 | அரும்பு | **RELEASE-READY / CLOSED** |
 | 24–48 | சாரப்பள்ளம் சாமுண்டி | **RELEASE-READY / CLOSED** |
 | 49–74 | பெரிய இடத்துப் பெண் | **WITNESS COMPARISON COMPLETE / CLOSED — 26/26** |
-| 75–90 | நடுத்தெரு நாராயணி | **Tamil 16/16 VERIFIED; assembled Tamil PASS; English VERIFIED; Section 17 NEXT** |
+| 75–90 | நடுத்தெரு நாராயணி | **RELEASE-READY / CLOSED** |
 | 91–92 | publisher catalogue / back cover | REGISTERED |
 
 சாரப்பள்ளம் சாமுண்டி has **25/25 canonical and verified records**. The independent whole-work Tamil audit is **PASS / COMPLETE after 1 residual source correction** with **0 unresolved**. The assembled Tamil reading layer is **PASS / COMPLETE — 1 / 1 section**.
@@ -32,8 +32,10 @@ English translation planning is **PASS / COMPLETE**. Batches 1–5, scans **24�
 
 Assembled Tamil reading layer is **PASS / COMPLETE — 1 / 1 section**, with **16/16 provenance markers**, **11/11 verified joins**, and **0 canonical Tamil mutation**.
 
-English translation plan is **PASS / COMPLETE**; no English prose has been created. Three controlled batches are locked: **75–79 / 80–84 / 85–90**.
+English translation plan is **PASS / COMPLETE**. The three controlled batches **75–79 / 80–84 / 85–90** are all **REVIEWED / COMPLETE**.
 
 English Batches **1–3**, scans **75–90**, are **REVIEWED / COMPLETE** with **16/16 scan coverage**. Section 16 whole-work bilingual review is **PASS / COMPLETE** with **0 material omissions / 0 source-like additions / 0 unresolved items**; whole-work English is **VERIFIED**.
 
-Next: **Section 17 release-readiness**.
+`நடுத்தெரு நாராயணி` Section 17 release-readiness is **PASS / COMPLETE**; archival/editorial package: **RELEASE-READY / CLOSED**.
+
+Next unresolved collection-level archival span: **paratext scans 1–5 and 91–92**.

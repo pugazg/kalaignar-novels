@@ -170,4 +170,21 @@ T1 closure record: [`T1_COMPLETION.md`](T1_COMPLETION.md).
 
 **Whole-work English: VERIFIED.**
 
-**Next: Section 17 release-readiness.**
+## Section 17 release-readiness
+
+- status: **PASS / COMPLETE**;
+- work identity / source edition identity: **PASS**;
+- canonical Tamil inventory: **16 / 16 VERIFIED**;
+- assembled Tamil inventory: **1 / 1 PASS**;
+- English inventory: **16 / 16 VERIFIED**;
+- Section 16 bilingual review: **PASS / COMPLETE**;
+- reader-facing navigation: **PASS**;
+- authority hierarchy / structural identity: **PASS**;
+- source oddities / wordplay documentation: **PASS**;
+- unresolved textual or structural blockers: **0**;
+- canonical Tamil changes during release pass: **0**;
+- verified English prose changes during release pass: **0**;
+- source PDF committed: **No**;
+- release report: [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md).
+
+**VERDICT: RELEASE-READY / CLOSED.**

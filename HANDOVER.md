@@ -5,7 +5,7 @@
 - Repository: `pugazg/kalaignar-novels`
 - Branch: `main`
 - **Live main is authoritative.**
-- Active work: **`works/nadutheru-narayani/`**
+- Active work: **அரும்பு 1978 collection-level paratext closure**
 - Prior `பெரிய இடத்துப் பெண்` witness comparison: **PASS / COMPLETE / CLOSED**
 
 ## Active source — நடுத்தெரு நாராயணி
@@ -39,7 +39,8 @@
 - per-batch omissions / source-like additions / unresolved blockers: **0 / 0 / 0**;
 - whole-work bilingual review: **PASS / COMPLETE**;
 - whole-work English: **VERIFIED**;
-- Section 17 release-readiness: **NOT STARTED / NEXT**.
+- Section 17 release-readiness: **PASS / COMPLETE**;
+- archival/editorial package: **RELEASE-READY / CLOSED**.
 
 T1 closure: `works/nadutheru-narayani/T1_COMPLETION.md`.
 
@@ -78,8 +79,22 @@ Section 16 review record:
 - verified joins: **11 / 11**;
 - canonical Tamil changes: **0**.
 
+Section 17 release record:
+
+- `works/nadutheru-narayani/translations/en/RELEASE_REPORT.md`;
+- result: **PASS / COMPLETE**;
+- archival/editorial verdict: **RELEASE-READY / CLOSED**;
+- canonical Tamil changes during release pass: **0**;
+- verified English prose changes during release pass: **0**;
+- source PDF committed: **No**.
+
+No further mandatory processing remains for `நடுத்தெரு நாராயணி`.
+
 ## Exact next activity
 
-Perform **Section 17 release-readiness** for `நடுத்தெரு நாராயணி`.
+Process the remaining **அரும்பு 1978 collection paratext** currently only REGISTERED in the collection map:
 
-Create/update the release report and verify repository/package readiness only; do not reopen verified Tamil or English unless a genuine blocking defect is found.
+- scans **1–5** — collection front matter;
+- scans **91–92** — publisher catalogue / back cover.
+
+Treat this as collection-level archival closure, not as part of any closed story. Inspect the controlling scans, create/synchronize any collection paratext records required by repository precedent, preserve non-story identity, and do not reopen the four completed story/witness spans unless genuinely new source evidence appears.

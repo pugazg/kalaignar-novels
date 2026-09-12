@@ -48,4 +48,4 @@ Whole-work audit-ல் உறுதிப்படுத்தப்பட்�
 
 **Assembled Tamil: PASS / COMPLETE — 1 / 1 section.**
 
-Next gate: **English translation planning**.
+English translation and Section 16/17 review are now complete. Work package: **RELEASE-READY / CLOSED**.

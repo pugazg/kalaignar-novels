@@ -1,31 +1,36 @@
-# Next Chat Prompt — நடுத்தெரு நாராயணி / Section 17 release-readiness
+# Next Chat Prompt — அரும்பு 1978 / collection paratext closure
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Durable state
+## Closed component state
+
+Within `TVA_BOK_0064361_அரும்பு.pdf`:
+
+- scans **6–23** — `அரும்பு` — **RELEASE-READY / CLOSED**;
+- scans **24–48** — `சாரப்பள்ளம் சாமுண்டி` — **RELEASE-READY / CLOSED**;
+- scans **49–74** — 1978 `பெரிய இடத்துப் பெண்` additional witness — **COMPARISON COMPLETE / CLOSED**;
+- scans **75–90** — `நடுத்தெரு நாராயணி` — **RELEASE-READY / CLOSED**.
+
+`நடுத்தெரு நாராயணி` final state:
 
 - canonical Tamil: **16 / 16 VERIFIED**;
-- whole-work Tamil source audit: **PASS / COMPLETE**;
-- assembled Tamil: **PASS / COMPLETE — 1 / 1 section**;
-- English translation plan: **PASS / COMPLETE**;
-- English Batches 1–3: **REVIEWED / COMPLETE**;
-- English coverage: **16 / 16 scans**;
-- Section 16 whole-work bilingual review: **PASS / COMPLETE**;
+- whole-work Tamil audit: **PASS / COMPLETE**;
+- assembled Tamil: **PASS / COMPLETE**;
 - whole-work English: **VERIFIED**;
-- material omissions / source-like additions / unresolved English items: **0 / 0 / 0**;
-- canonical Tamil changes during English work: **0**;
-- Section 17 release-readiness: **NEXT**.
+- Section 16: **PASS / COMPLETE**;
+- Section 17: **PASS / COMPLETE**;
+- archival/editorial verdict: **RELEASE-READY / CLOSED**;
+- release report: `works/nadutheru-narayani/translations/en/RELEASE_REPORT.md`.
 
-Whole-work bilingual review:
-
-`works/nadutheru-narayani/translations/en/TRANSLATION_REVIEW.md`
+Do not reopen any closed component unless genuinely new source evidence appears.
 
 ## Exact next activity
 
-Perform **Section 17 release-readiness**.
+Process the remaining collection-level paratext spans that are still only **REGISTERED**:
 
-Check the final archival/editorial package against the repository workflow: source identity/provenance, canonical Tamil status, assembled Tamil status, English-plan and glossary controls, 16/16 English coverage, Section 16 verdict, source-PDF exclusion, required files/links/status synchronization, unresolved-item count, and release metadata.
+- scans **1–5** — front matter;
+- scans **91–92** — publisher catalogue / back cover.
 
-Create `works/nadutheru-narayani/translations/en/RELEASE_REPORT.md` if the gate passes, synchronize all controls, commit, and close the work only if every Section 17 requirement passes.
+Use the same controlling source `TVA_BOK_0064361_அரும்பு.pdf`. Keep these scans explicitly at **collection level**; do not attach them to a story. Inspect source structure, record printed text/non-text features faithfully, synchronize `collections/arumbu-1978/` metadata/map/README and root handover controls, and determine whether the 1978 compilation can then be marked collection-level archival **CLOSED**.
 
-Do not modify canonical Tamil or verified English prose unless a genuine release-blocking defect is discovered.
+Do not modify the source PDF or closed canonical story layers.

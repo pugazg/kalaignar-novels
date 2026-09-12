@@ -159,4 +159,4 @@ Canonical Tamil changes during English translation/review: **0**.
 
 **Whole-work English status: VERIFIED.**
 
-The next separate gate is **Section 17 release-readiness**. This review does not perform or imply that release-readiness verdict.
+Section 17 was performed separately after this review and is recorded in `RELEASE_REPORT.md`; it is **PASS / COMPLETE — RELEASE-READY / CLOSED**.

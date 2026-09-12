@@ -196,4 +196,4 @@ Batches **1–3** now cover scans **75–90 / 16 of 16** and are **REVIEWED / CO
 
 Section 16 whole-work bilingual review is **PASS / COMPLETE**; `TRANSLATION_REVIEW.md` records the independent reconciliation and whole-work English is **VERIFIED**.
 
-The exact next activity is the separate **Section 17 release-readiness** gate.
+Section 17 release-readiness is now **PASS / COMPLETE**. The archival/editorial package is **RELEASE-READY / CLOSED**; no further mandatory work remains for this work under the current workflow.

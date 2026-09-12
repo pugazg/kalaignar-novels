@@ -24,7 +24,8 @@
 - English Batches 1–3: **REVIEWED / COMPLETE — scans 75–90**;
 - whole-work bilingual review: **PASS / COMPLETE**;
 - whole-work English: **VERIFIED**;
-- Section 17 release-readiness: **NOT STARTED / NEXT**.
+- Section 17 release-readiness: **PASS / COMPLETE**;
+- archival/editorial package: **RELEASE-READY / CLOSED**.
 
 Collection provenance: `../../collections/arumbu-1978/`.
 
@@ -43,6 +44,7 @@ English controls: [`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSL
 
 Batch reviews: [`translations/en/BATCH_01_REVIEW.md`](translations/en/BATCH_01_REVIEW.md), [`translations/en/BATCH_02_REVIEW.md`](translations/en/BATCH_02_REVIEW.md), [`translations/en/BATCH_03_REVIEW.md`](translations/en/BATCH_03_REVIEW.md).
 
-Whole-work English review: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
+Whole-work English review: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).  
+Release report: [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md).
 
-Next: **Section 17 release-readiness**.
+No further mandatory processing remains for this work under the current workflow.
