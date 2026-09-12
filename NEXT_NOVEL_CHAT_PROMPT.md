@@ -1,4 +1,4 @@
-# Next Chat Prompt — சுருளிமலை / scan-to-printed-page mapping
+# Next Chat Prompt — சுருளிமலை / T1 scans 5–9
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/surulimalai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,38 +6,42 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 
-Durable intake state:
+Durable source state:
 
 - title: **சுருளிமலை**;
 - author: **கலைஞர் மு. கருணாநிதி**;
 - publisher: **திராவிடப்பண்ணை**;
 - edition: **இரண்டாம் பதிப்பு — 1968**;
-- size: **268,529,598 bytes**;
 - PDF scan images: **150**;
-- user-confirmed printed/book extent: **198 pages**;
-- scan/page relationship: **OPEN — not assumed 1:1**;
-- missing-page count: **NOT ASSERTED**;
+- printed/book extent: **198 pages**;
+- front matter scans **1–4 VERIFIED**;
+- terminal scans **140–149 = printed pages 189–198 VERIFIED**;
+- scan149 = **printed page 198 / narrative ending**;
+- scan150 = **back cover / excluded from body**;
+- terminal-boundary audit: **PASS / COMPLETE**;
+- body span: **scans 5–149**;
+- body T1: **NOT STARTED**;
 - SHA-256: **PENDING**;
-- source PDF committed: **No**;
-- image-only source.
+- source PDF committed: **No**.
 
-Front matter scans **1–4** are VERIFIED and recorded. Scan **5** is the source-visible body opening. Body T1 has not started.
+Terminal record:
 
-## Critical count rule
-
-Do not confuse **PDF scan count** with **printed-page count**. The user confirms **198 printed/book pages**, while the PDF exposes **150 scan images**. A scan may contain more than one printed page. The previous “48 missing pages” interpretation was unsupported and has been withdrawn.
+`works/surulimalai/TERMINAL_BOUNDARY_AUDIT.md`
 
 ## Exact next activity
 
-Perform a direct visual mapping audit of **scans 145–150**:
+Process **T1 scans 5–9 only** as one bounded batch.
 
-- record every visible printed page number;
-- identify one-page vs multi-page/spread scans;
-- determine where narrative body visibly ends;
-- identify any illustrations, blank areas, publisher advertisements or back matter;
-- verify whether printed page **198** appears in the terminal scan region;
-- record cross-page continuity where the ending spans scan boundaries.
+For every scan:
 
-Then synchronize `metadata/source.md`, `indexes/page-map.md`, root controls, and set the next task to the first bounded Tamil T1 batch from scan 5.
+- transcribe the whole source-visible body text once;
+- record visible printed page number(s) directly from the scan;
+- if a PDF scan contains two printed pages, preserve that relationship explicitly;
+- source pixels are controlling authority;
+- no silent modernization, spelling repair, grammar repair or punctuation repair;
+- preserve historical Tamil glyphs and explicitly audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- distinguish later handwriting/underlining from printed text;
+- synchronize page map, README, audit, handover and next prompt;
+- commit after scans 5–9 and stop before scan10.
 
-Do not infer printed page numbers from sequence and do not commit the PDF.
+Do not infer intermediate printed-page numbers from the terminal mapping.

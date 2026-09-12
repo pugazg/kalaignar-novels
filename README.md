@@ -9,8 +9,8 @@
 - front matter scans 1–4: **VERIFIED**;
 - scan 5: **body opening confirmed / T1 not started**;
 - pagination model: **150 PDF scans ≠ 198 printed/book pages; this is a count-basis distinction, not proof that 48 pages are missing**;
-- scan→printed-page mapping: **OPEN**;
-- terminal boundary: **OPEN — must be established from visible printed pagination / source structure, not from PDF scan count**;
+- scan→printed-page mapping: **terminal region VERIFIED — scans 140–149 = printed pages 189–198**;
+- terminal boundary: **PASS — scan149 = printed page 198 / narrative ending; scan150 = back cover**;
 - SHA-256: **PENDING**.
 
 ### Latest completed source — அரும்பு 1978 compilation
@@ -36,7 +36,7 @@
 
 Closure record: `collections/arumbu-1978/PARATEXT_CLOSURE.md`.
 
-Exact next action: **map PDF scans to visible printed pages, beginning with terminal scans 145–150; determine whether scan 150 contains the printed-page ending/back matter.**
+Exact next action: **சுருளிமலை Tamil T1 — scans 5–9; record visible printed-page mapping while transcribing.**
 
 ## Completed works
 

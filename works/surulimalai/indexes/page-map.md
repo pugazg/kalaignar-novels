@@ -145,17 +145,17 @@ This is the initial intake manifest. Printed-page values remain `—` unless dir
 | 137 | — | unclassified | **not-started** | direct visual classification pending |
 | 138 | — | unclassified | **not-started** | direct visual classification pending |
 | 139 | — | unclassified | **not-started** | direct visual classification pending |
-| 140 | — | unclassified | **not-started** | direct visual classification pending |
-| 141 | — | unclassified | **not-started** | direct visual classification pending |
-| 142 | — | unclassified | **not-started** | direct visual classification pending |
-| 143 | — | unclassified | **not-started** | direct visual classification pending |
-| 144 | — | unclassified | **not-started** | direct visual classification pending |
-| 145 | — | terminal-region / mapping pending | **not-started** | inspect visible printed page(s), spread structure, ending/back matter directly |
-| 146 | — | terminal-region / mapping pending | **not-started** | inspect visible printed page(s), spread structure, ending/back matter directly |
-| 147 | — | terminal-region / mapping pending | **not-started** | inspect visible printed page(s), spread structure, ending/back matter directly |
-| 148 | — | terminal-region / mapping pending | **not-started** | inspect visible printed page(s), spread structure, ending/back matter directly |
-| 149 | — | terminal-region / mapping pending | **not-started** | inspect visible printed page(s), spread structure, ending/back matter directly |
-| 150 | — | terminal-region / mapping pending | **not-started** | inspect visible printed page(s), spread structure, ending/back matter directly |
+| 140 | 189 | body | **verified-structure** | single printed page; terminal sequence anchor |
+| 141 | 190 | body | **verified-structure** | single printed page |
+| 142 | 191 | body | **verified-structure** | single printed page |
+| 143 | 192 | body | **verified-structure** | single printed page |
+| 144 | 193 | body | **verified-structure** | single printed page |
+| 145 | 194 | body | **verified-structure** | single printed page |
+| 146 | 195 | body | **verified-structure** | single printed page |
+| 147 | 196 | body | **verified-structure** | single printed page |
+| 148 | 197 | body | **verified-structure** | single printed page |
+| 149 | 198 | body ending | **verified-structure** | source-visible narrative ending |
+| 150 | — | back cover | **verified-structure** | non-narrative outer matter; excluded from body |
 
 ## Intake counts
 
@@ -165,8 +165,8 @@ This is the initial intake manifest. Printed-page values remain `—` unless dir
 - missing-page count: **NOT ASSERTED**;
 - page records created/verified: **4 / 150 scan images**;
 - body T1: **0**;
-- scan→printed-page mapping: **OPEN**;
-- terminal-boundary status: **OPEN / direct visual mapping required**;
+- scan→printed-page mapping: **PARTIAL — terminal scans 140–149 = printed pages 189–198 VERIFIED**;
+- terminal-boundary status: **PASS / COMPLETE — scan149 ending; scan150 back cover**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **audit scans 145–150 for visible printed-page numbers / spread structure / ending, then propagate the scan→print mapping backward as needed.**
+Exact next: **Tamil T1 scans 5–9; record visible printed page(s) per scan and stop after scan 9.**

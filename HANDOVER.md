@@ -18,7 +18,7 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 - source size: **268,529,598 bytes**
 - PDF scan images: **150**
 - user-confirmed printed/book extent: **198 pages**
-- pagination relationship: **OPEN — counts are not assumed 1:1; no 48-page loss is asserted**
+- pagination relationship: **PARTIALLY VERIFIED — scans140–149 = printed189–198; intermediate mapping pending T1**
 - SHA-256: **PENDING — hashing runtime unavailable during intake**
 - source PDF committed: **No**
 - source format: **image-only**
@@ -31,9 +31,9 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 - scan **5: body opening confirmed; not yet transcribed**;
 - page map: **150 / 150 PDF scan images registered at intake level**;
 - printed/book extent: **198 pages (user-confirmed)**;
-- scan→printed-page mapping: **OPEN**;
+- scan→printed-page mapping: **terminal region VERIFIED — scans140–149 = printed189–198**;
 - body T1: **NOT STARTED**;
-- terminal boundary: **OPEN — scans 145–150 require direct visible-pagination / structural audit**;
+- terminal boundary: **PASS / COMPLETE — scan149 = printed198 / ending; scan150 = back cover**;
 - historical-glyph review: **NOT STARTED**;
 - assembled Tamil / English: **BLOCKED**.
 
@@ -47,10 +47,18 @@ The supplied synopsis mentions folk arts such as கரகாட்டம், �
 
 ## Exact next activity
 
-1. audit **PDF scans 145–150** directly and record the visible printed page number(s) on each scan;
-2. determine whether any of those scans are two-page spreads and whether scan 150 contains the source-visible ending / printed page 198 / publisher back matter;
-3. treat **150 scans** and **198 printed pages** as distinct measures — do not invent 48 missing PDF scans;
-4. extend the scan→printed-page mapping backward/forward only from direct source evidence;
-5. compute/record SHA-256 when the hashing runtime is available;
-6. once source structure is stable, begin bounded T1 from scan 5;
-7. do not commit the PDF and do not reopen closed prior works.
+Process **Tamil T1 scans 5–9 only**.
+
+Requirements:
+
+1. visually transcribe each scan from the source pixels; no OCR guesswork;
+2. record the visible printed page number(s) for each scan, including any two-page spread exactly as seen;
+3. preserve punctuation, spelling, paragraphing and historical Tamil glyph forms;
+4. explicitly audit the historical families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+5. do not normalize copy-specific marks into source text;
+6. create/update canonical page records and page map;
+7. commit immediately after scans 5–9 and stop before scan10;
+8. SHA-256 remains an open provenance item if runtime hashing is still unavailable;
+9. do not commit the PDF and do not reopen closed prior works.
+
+Terminal audit record: `works/surulimalai/TERMINAL_BOUNDARY_AUDIT.md`.

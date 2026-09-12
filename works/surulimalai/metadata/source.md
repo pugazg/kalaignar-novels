@@ -7,7 +7,7 @@
 - file size: **268,529,598 bytes**
 - PDF scan images: **150**
 - user-confirmed book/printed extent: **198 pages**
-- pagination relationship: **OPEN — scan count and printed-page count are different measures; no missing-page total is asserted until direct scan→print mapping is complete**
+- pagination relationship: **PARTIALLY VERIFIED — terminal scans 140–149 map directly to printed pages 189–198; full intermediate mapping will be built during T1**
 - format: **image-only scanned PDF; no usable parsed text layer**
 - SHA-256: **PENDING — runtime hash computation unavailable in this intake turn**
 
@@ -32,10 +32,12 @@ No bibliographic value above is inferred from the filename alone.
 - scan 4 — publication/edition/copyright/price page;
 - scan 5 — body/narrative opening;
 - scans 6–144 — not yet fully page-mapped in this intake checkpoint;
-- scans 145–150 — **terminal-region mapping pending direct visual verification**;
-- the PDF has **150 scan images**, while the user confirms **198 printed/book pages**; a scan may represent one or more printed pages.
+- scans 140–149 — **verified single-page scans for printed pages 189–198**;
+- scan 149 — **printed page 198 / source-visible narrative ending**;
+- scan 150 — **back cover / non-narrative outer matter**;
+- the PDF has **150 scan images**, while the printed/book extent is **198 pages**; intermediate scans may represent one or more printed pages.
 
-The final narrative/back-matter boundary must be established by visible printed-page numbers and source structure. Do not manufacture post-150 PDF scans merely because the printed extent is 198.
+Terminal boundary is source-confirmed. Intermediate scan→printed-page mapping must still be recorded from source evidence as transcription proceeds.
 
 ## Copy-specific / physical-source observations
 
@@ -63,7 +65,10 @@ The user supplied a descriptive synopsis mentioning கரகாட்டம்,
 ## Open intake items
 
 1. compute and record the PDF SHA-256;
-2. map **150 PDF scans** to the user-confirmed **198 printed/book pages** using visible source pagination;
-3. visually audit scans **145–150** to determine terminal narrative/back-matter structure and whether printed page 198 is present there;
-4. expand the page map with one-page / multi-page scan relationships and visible printed-page numbers;
-5. after source structure is confirmed, begin body T1 in bounded batches.
+2. continue scan→printed-page mapping from direct visible pagination as T1 proceeds;
+3. begin **T1 scans 5–9**;
+4. preserve any one-page / multi-page scan relationships explicitly;
+5. keep scan150 excluded from the canonical body.
+
+
+Terminal-boundary audit: [`../TERMINAL_BOUNDARY_AUDIT.md`](../TERMINAL_BOUNDARY_AUDIT.md).

@@ -19,8 +19,7 @@ Open:
 
 - SHA-256 checksum;
 - scan→printed-page reconciliation: **150 PDF scan images vs 198 printed/book pages**;
-- direct terminal-region audit of scans **145–150**;
-- complete per-scan page-type / visible printed-page mapping, including multi-page scans where source-supported;
+- complete per-scan page-type / visible printed-page mapping for the **intermediate body**, including multi-page scans where source-supported;
 - body T1/T2 and whole-work audit.
 
 No canonical body transcription has started. No OCR output has been accepted as source authority.
@@ -40,3 +39,21 @@ Current durable interpretation:
 - terminal scans **145–150** are therefore restored as the next direct-visual mapping target.
 
 This correction changes metadata/control interpretation only; no canonical body text exists yet.
+
+
+## Terminal-boundary / pagination audit
+
+Result: **PASS / COMPLETE**.
+
+Direct visual source inspection established:
+
+- scans 140–149 = visible printed pages **189–198**, one printed page per scan;
+- scan 149 = printed page **198** and source-visible narrative ending;
+- scan 150 = **back cover / non-narrative outer matter**;
+- no narrative continuation exists on scan150;
+- 150 PDF scans and 198 printed pages are therefore compatible count systems; no 48-page loss is asserted;
+- intermediate scan→printed-page mapping remains to be built only from direct source evidence during T1.
+
+Record: [`TERMINAL_BOUNDARY_AUDIT.md`](TERMINAL_BOUNDARY_AUDIT.md).
+
+Next: **T1 scans 5–9**.

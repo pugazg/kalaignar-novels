@@ -19,7 +19,8 @@
 - source title/author/publisher/edition: **VISUALLY CONFIRMED from scans 1, 3, 4**;
 - front matter scans **1–4**: **4/4 page records created / VERIFIED**;
 - body opening: **scan 5 confirmed**;
-- terminal work boundary: **OPEN — scan 150 may or may not contain the terminal printed pages/back matter; source-visible mapping is required**;
+- terminal work boundary: **PASS / COMPLETE — scan149 = printed page 198 / narrative ending; scan150 = back cover**;
+- terminal scan mapping: **scans 140–149 = printed pages 189–198, one page per scan**;
 - canonical body transcription: **NOT STARTED**;
 - historical-glyph/source-fidelity gate: **NOT STARTED**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
@@ -40,14 +41,19 @@ The user supplied the following catalogue-style description for project context.
 - scan 3 — title page;
 - scan 4 — edition / copyright / price page;
 - scan 5 — narrative/body opening;
-- scans 145–150 — **terminal-region audit candidates; inspect visible printed-page numbers / one-page-vs-spread structure directly**;
-- do not invent `scan 151–198`: **198 is the user-confirmed printed/book extent, while the PDF itself exposes 150 scan images**.
+- scans 140–149 — **verified one-page scans for printed pages 189–198**;
+- scan 149 — **printed page 198 / source-visible narrative ending**;
+- scan 150 — **back cover / excluded from canonical body**;
+- do not invent `scan 151–198`: **198 is printed pagination, not PDF scan count**.
 
 Source map: [`indexes/page-map.md`](indexes/page-map.md).  
 Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Perform a **scan→printed-page mapping audit**, beginning with scans **145–150** and selected earlier anchors. Determine from source pixels whether the final scan contains printed page 198 and/or back matter. Treat **150 PDF scans** and **198 printed/book pages** as different count systems, not as a presumed 48-page loss. Compute/record SHA-256 when possible. After the mapping is source-supported, begin bounded T1 from scan 5.
+Terminal mapping is now source-confirmed. Begin **Tamil T1 scans 5–9** as the first bounded body batch. For each scan, transcribe only what is visibly printed, record visible printed page(s), preserve historical glyphs, and stop after scan 9. SHA-256 remains a separate open provenance item.
 
 Do not start English or assembled Tamil work.
+
+
+Terminal audit: [`TERMINAL_BOUNDARY_AUDIT.md`](TERMINAL_BOUNDARY_AUDIT.md).
