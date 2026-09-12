@@ -10,11 +10,11 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 2 | — | front-matter / copy provenance | **verified** | later gift label kept separate |
 | 3 | — | title-page | **verified** | title/author/publisher/place confirmed |
 | 4 | — | publication-page | **verified** | second edition 1968 / copyright / price confirmed |
-| 5 | — | body / அறிமுகம் | **needs-review** | T1 complete; visible printed page number absent |
-| 6 | 4 | body | **needs-review** | T1 complete; page ends `வாய்ப்பாடு` |
-| 7 | 5 | body | **needs-review** | T1 complete; begins `பாடத்தின் “கோரஸ்”!!` |
-| 8 | 6 | body | **needs-review** | T1 complete; ends `யார் வீட்டில் உடல் நலிவு என்றாலும்` |
-| 9 | 7 | body | **needs-review** | T1 complete; later blue/purple marks excluded; page ends `புல்லாங்` |
+| 5 | — | body / அறிமுகம் | **needs-review** | T1/T2 complete; T3 next; visible printed page number absent |
+| 6 | 4 | body | **needs-review** | T1/T2 complete; T3 next; page ends `வாய்ப்பாடு` |
+| 7 | 5 | body | **needs-review** | T1/T2 complete; T3 next; `மட்டுந்தானா` historical `னா` confirmed |
+| 8 | 6 | body | **needs-review** | T1/T2 complete; T3 next; `வீட்டென்றால்` historical `றா` confirmed |
+| 9 | 7 | body | **needs-review** | T1/T2 complete; `கிட்டவில்ல`→`கிட்டவில்லை`; T3 next; page ends `புல்லாங்` |
 | 10 | — | unclassified | **not-started** | direct visual classification pending |
 | 11 | — | unclassified | **not-started** | direct visual classification pending |
 | 12 | — | unclassified | **not-started** | direct visual classification pending |
@@ -164,9 +164,10 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - parser completeness: **FAIL / TRUNCATED VIEW**;
 - page records: **9 total — 4 front-matter `verified` + 5 body `needs-review`**;
 - body T1: **COMPLETE / PASS — scans 5–9 = 5/5**;
-- body T2: **NEXT — scans 5–9 independent historical-glyph review**;
+- body T2: **COMPLETE / PASS — scans 5–9 = 5/5; 1 correction; unresolved historical glyphs 0**;
+- body T3: **NEXT — scans 5–9 final source-fidelity review**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T2 independent historical-glyph review for scans 5–9 only; keep pages `needs-review` and stop before scan10. Full-source/terminal reconciliation remains deferred.**
+Exact next: **perform T3 final source-fidelity review for scans 5–9 only; promote pages to `verified` only if T3 passes; stop before scan10. Full-source/terminal reconciliation remains deferred.**

@@ -13,9 +13,12 @@ Completed:
 - source size / attached-artifact scan count registered;
 - user correction/source identity recorded: this copy has **198 pages**; the ChatGPT Files parser currently exposes only **150 pages**;
 - front matter scans 1–4 recorded and marked verified;
-- T1 scans **5–9 completed directly from attached source pixels**;
-- five canonical body records created as `needs-review`;
+- T1 scans **5–9: COMPLETE / PASS — 5/5**;
+- T2 historical-glyph review scans **5–9: COMPLETE / PASS — 5/5**;
+- five canonical body records remain `needs-review` pending T3;
 - visible printed-page mapping recorded only where directly printed: **scan5 = —; scan6 = 4; scan7 = 5; scan8 = 6; scan9 = 7**;
+- T2 corrections: **1**;
+- unresolved historical glyphs after T2: **0**;
 - source PDF excluded from repository.
 
 Open:
@@ -23,11 +26,10 @@ Open:
 - SHA-256 checksum;
 - complete-source / terminal reconciliation against a full **198-page** representation;
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
-- T2 historical-glyph review for scans 5–9;
 - T3 final source-fidelity review for scans 5–9;
 - later body batches and whole-work Tamil audit.
 
-Canonical body transcription now exists for scans **5–9** only. All five records remain `needs-review`. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription exists for scans **5–9** only. All five records remain `needs-review` until T3. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -52,9 +54,7 @@ Reason: performed against a parser representation that stops at page 150 even th
 
 Current status: **UNKNOWN / RE-AUDIT REQUIRED ON FULL SOURCE**.
 
-## T1 scans 5–9 — completion
-
-Source scope: attached PDF pixels only.
+## T1 scans 5–9
 
 | Scan | Visible printed page | Record | T1 result |
 |---:|---:|---|---|
@@ -64,18 +64,42 @@ Source scope: attached PDF pixels only.
 | 8 | 6 | `pages/0008-page-6.md` | **PASS / needs-review** |
 | 9 | 7 | `pages/0009-page-7.md` | **PASS / needs-review** |
 
-Source-boundary observations:
+## T2 independent historical-glyph review — scans 5–9
+
+Result: **PASS / COMPLETE — 5/5**.
+
+Method:
+
+- independently re-read each complete scan at enlarged resolution;
+- explicitly checked the full known set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` occurrence-by-occurrence where present;
+- compared same-edition glyph evidence when a form was visually ambiguous;
+- no global replacement and no lexical/spelling modernization.
+
+Correction ledger:
+
+| Scan | T1/apparent reading | Source-supported reading | Historical family | Evidence |
+|---:|---|---|---|---|
+| 9 | `கிட்டவில்ல` | `கிட்டவில்லை` | `லை` | enlarged source pixels; same-edition `பூஞ்சோலை` / `சிலை` comparison |
+
+Confirmed without change:
+
+- scan 7 — `மட்டுந்தானா` = historical `னா`;
+- scan 8 — `வீட்டென்றால்` includes historical `றா` identity in `என்றால்`;
+- scan 8 — `பதினொறு` retained exactly as printed;
+- scan 9 — `பொன்னாலன்றே` and `அதுலைதான்` retained exactly as printed.
+
+Unresolved historical glyphs after T2: **0**.
+
+## Source-boundary observations
 
 - scan 5 is the unnumbered `அறிமுகம்`;
 - scan 6 ends `வாய்ப்பாடு`; scan 7 begins `பாடத்தின் “கோரஸ்”!!`;
 - scan 8 ends `யார் வீட்டில் உடல் நலிவு என்றாலும்`; scan 9 continues `பூஞ்சோலை அங்கிருப்பாள்.`;
-- later blue/purple underlining/bracket marks on scan 9 were excluded from canonical printed prose;
+- later blue/purple underlining/bracket marks on scan 9 remain excluded from canonical printed prose;
 - scan 9 ends `புல்லாங்`; scan 10 was not opened or used to complete that fragment.
-
-Historical-type observations for independent T2 re-read include the T1 representations `மட்டுந்தானா`, `வீட்டென்றால்`, `கிட்டவில்ல`, `பொன்னாலன்றே`, and `அதுலைதான்`. Their final T2 treatment must come from a fresh source-pixel pass, not from contextual expectation.
 
 Checkpoint: [`T1_BATCH_005_009.md`](T1_BATCH_005_009.md).
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph review for scans 5–9 only**, checking all 13 known historical families occurrence-by-occurrence. Keep pages `needs-review`; T3 remains a separate gate. Commit and stop before scan 10.
+Perform **T3 final source-fidelity review for scans 5–9 only**. Check the full text, punctuation, paragraph boundaries, omissions/duplication, visible page numbering, non-body marks and cross-page continuity. Pages remain `needs-review` until T3 passes. Commit and stop before scan 10.

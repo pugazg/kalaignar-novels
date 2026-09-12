@@ -26,48 +26,54 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 ## Durable state
 
 - source intake: **REGISTERED / IN PROGRESS**;
-- front matter scans **1–4: VERIFIED / page records created**;
-- T1 scans **5–9: COMPLETE / PASS — 5/5 canonical page records created as `needs-review`**;
-- visible printed-page mapping for this batch: **scan5 = unnumbered; scan6 = 4; scan7 = 5; scan8 = 6; scan9 = 7**;
+- front matter scans **1–4: VERIFIED**;
+- T1 scans **5–9: COMPLETE / PASS — 5/5**;
+- T2 historical-glyph review scans **5–9: COMPLETE / PASS — 5/5**;
+- canonical page status scans 5–9: **5/5 `needs-review` pending T3**;
+- T2 corrections: **1** — scan9 `கிட்டவில்ல` → `கிட்டவில்லை` (historical `லை`);
+- unresolved historical glyphs after T2: **0**;
+- visible printed-page mapping: **scan5 = unnumbered; scan6 = 4; scan7 = 5; scan8 = 6; scan9 = 7**;
 - page map: **current parser-visible pages 1–150 only; incomplete relative to 198-page source**;
 - prior scan→printed-page terminal mapping: **INVALIDATED**;
-- T2 historical-glyph review: **NEXT — scans 5–9 only**;
-- T3 final source-fidelity review: **PENDING**;
+- T3 final source-fidelity review: **NEXT — scans 5–9 only**;
 - terminal boundary: **UNKNOWN / full-source re-audit required later**;
 - assembled Tamil / English: **BLOCKED**.
 
-Mandatory historical families:
+Mandatory historical families checked in T2:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-## T1 source-boundary observations
+## T2 decisions
 
-- scan 5 visibly carries the heading `அறிமுகம்` and no printed page number;
+- scan 7 — `மட்டுந்தானா`: historical `னா` positively confirmed;
+- scan 8 — `வீட்டென்றால்`: historical `றா` identity in `என்றால்` confirmed;
+- scan 8 — `பதினொறு`: retained exactly as printed; no modernization;
+- scan 9 — `கிட்டவில்ல` corrected to `கிட்டவில்லை` from enlarged direct pixels and same-edition `லை` evidence;
+- scan 9 — `பொன்னாலன்றே` and `அதுலைதான்` retained exactly as source-supported forms.
+
+## Source-boundary observations
+
+- scan 5 visibly carries `அறிமுகம்` and no printed page number;
 - scan 6 ends `வாய்ப்பாடு`; scan 7 begins `பாடத்தின் “கோரஸ்”!!`;
 - scan 8 ends `யார் வீட்டில் உடல் நலிவு என்றாலும்`; scan 9 continues `பூஞ்சோலை அங்கிருப்பாள்.`;
-- scan 9 contains later blue/purple underlining/bracket marks that are not canonical printed prose;
-- scan 9 ends with the incomplete source fragment `புல்லாங்`;
-- scan 10 was not used during this T1 batch.
-
-## User-supplied project context
-
-The supplied synopsis mentions folk arts such as கரகாட்டம், தீச்சட்டி எடுத்தல் and மயிலாட்டம், superstition, and the characters பூஞ்சோலை, பொன்மணி, கற்பூரம் and மைனா. Keep that synopsis separate from canonical source prose unless the controlling scan itself contains it.
+- scan 9 later blue/purple marks are non-printed annotations and remain excluded;
+- scan 9 ends `புல்லாங்`;
+- scan 10 has not been used.
 
 ## Exact next activity
 
-Perform **Tamil T2 independent historical-glyph review for scans 5–9 only**.
+Perform **Tamil T3 final source-fidelity review for scans 5–9 only**.
 
 Requirements:
 
 1. attached source pixels are controlling;
-2. re-read all five scans independently rather than trusting T1;
-3. explicitly check all 13 known historical families occurrence-by-occurrence;
-4. no global replacement, OCR authority, contextual correction, or modernization;
-5. record each actual correction in page notes/audit;
-6. unresolved clusters remain `needs-review`;
-7. do not promote pages to `verified` during T2 — T3 remains separate;
-8. update `T1_BATCH_005_009.md`, page map, README, audit and handover;
-9. commit and **stop before scan10**;
-10. terminal/full-198-page reconciliation remains deferred.
+2. compare every canonical page against the complete scan again;
+3. check omissions, duplication, punctuation, paragraph boundaries, visible page numbering, non-body marks and cross-page continuity;
+4. retain T2 historical-glyph decisions unless new positive source evidence overturns them;
+5. record every T3 correction explicitly;
+6. only pages that fully pass T3 may move from `needs-review` to `verified`;
+7. update `T1_BATCH_005_009.md`, page map, README, audit, handover and next-chat prompt;
+8. commit and **stop before scan10**;
+9. terminal/full-198-page reconciliation remains deferred.
 
 Source PDF must not be committed.

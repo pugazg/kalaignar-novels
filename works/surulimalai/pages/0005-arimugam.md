@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph T2 complete"
 ---
 
 # அறிமுகம்
@@ -24,7 +24,16 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - heading `அறிமுகம்` is visibly printed;
 - no printed page number is visible; `printed_page` remains `null`;
 - no OCR or external transcription was accepted as authority;
-- T2 historical-glyph re-read and T3 source-fidelity review remain pending;
+- T2 historical-glyph re-read complete; T3 source-fidelity review remains pending;
 - page status remains `needs-review`.
+
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read at enlarged resolution against direct source pixels;
+- explicitly checked the full known set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` occurrence-by-occurrence where present;
+- representative confirmed source identities include `கணவனையோ` (`னை`) and `கொலை` (`லை`);
+- no T1 character-identity correction was required;
+- unresolved historical glyphs: **0**;
+- page remains `needs-review` pending T3.
 
 <!-- source physical scan: 5; visible printed page: —; T1 COMPLETE / NEEDS-REVIEW -->

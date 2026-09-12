@@ -30,8 +30,9 @@ No bibliographic value above is inferred from the filename alone.
 - scan 2 — mostly blank front-matter page with later copy-specific gift label;
 - scan 3 — title page;
 - scan 4 — publication/edition/copyright/price page;
-- scan 5 — unnumbered `அறிமுகம்`; T1 complete / `needs-review`;
-- scans 6–9 — T1 complete / `needs-review`; visible printed pages 4–7;
+- scan 5 — unnumbered `அறிமுகம்`; T1/T2 complete / `needs-review`;
+- scans 6–9 — T1/T2 complete / `needs-review`; visible printed pages 4–7;
+- T2 correction ledger: scan9 `கிட்டவில்ல` → `கிட்டவில்லை` (historical `லை` identity);
 - scans 10–144 — not yet fully page-mapped in this intake checkpoint;
 - current Files parser exposes pages **1–150 only** for a source known to contain **198 pages**;
 - previous terminal mapping based on that representation is **invalidated**;
@@ -68,9 +69,10 @@ The user supplied a descriptive synopsis mentioning கரகாட்டம்,
 2. obtain/use a **full 198-page representation of the same source copy**;
 3. invalidate and later redo terminal-boundary mapping against the complete representation;
 4. **T1 scans 5–9 is COMPLETE / PASS — 5/5 canonical records, all `needs-review`**;
-5. **T2 independent historical-glyph review for scans 5–9 is NEXT**;
-6. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
-7. do not infer source extent from the current Files parser's `num_pages: 150`.
+5. **T2 independent historical-glyph review for scans 5–9 is COMPLETE / PASS — 5/5; 1 correction; unresolved historical glyphs 0**;
+6. **T3 final source-fidelity review for scans 5–9 is NEXT**;
+7. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
+8. do not infer source extent from the current Files parser's `num_pages: 150`.
 
 
 Terminal-boundary audit: [`../TERMINAL_BOUNDARY_AUDIT.md`](../TERMINAL_BOUNDARY_AUDIT.md).

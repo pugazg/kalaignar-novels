@@ -22,8 +22,8 @@
 - terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
 - prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
 - canonical body transcription: **T1 scans 5–9 COMPLETE / PASS — 5/5 page records, all `needs-review`**;
-- historical-glyph review: **T2 NEXT — scans 5–9**;
-- final source-fidelity review: **T3 PENDING — scans 5–9**;
+- historical-glyph review: **T2 COMPLETE / PASS — scans 5–9 = 5/5; 1 correction; unresolved historical glyphs 0**;
+- final source-fidelity review: **T3 NEXT — scans 5–9**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
 - English translation: **NOT STARTED / BLOCKED**.
 
@@ -52,7 +52,7 @@ Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph review for scans 5–9 only** against the attached source pixels. Re-read all five pages independently, check all 13 known historical families occurrence-by-occurrence, keep pages `needs-review`, update controls, commit, and stop before scan10. The 198-page ingestion discrepancy remains deferred.
+Perform **T3 final source-fidelity review for scans 5–9 only** against the attached source pixels. Check full-page text, punctuation, paragraphing, omissions/duplication, visible page numbers, non-body marks and cross-page continuity. Promote a page to `verified` only after T3 passes. Commit and stop before scan10. The 198-page ingestion discrepancy remains deferred.
 
 Do not start English or assembled Tamil work.
 
@@ -60,4 +60,4 @@ Do not start English or assembled Tamil work.
 Terminal audit: [`TERMINAL_BOUNDARY_AUDIT.md`](TERMINAL_BOUNDARY_AUDIT.md).
 
 
-Active T1 checkpoint: [`T1_BATCH_005_009.md`](T1_BATCH_005_009.md).
+Active T1/T2 checkpoint: [`T1_BATCH_005_009.md`](T1_BATCH_005_009.md).
