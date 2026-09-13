@@ -35,11 +35,11 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 27 | 25 | body / chapter 2 | **verified** | T1/T2/T3 PASS; 2 T3 source-representation corrections |
 | 28 | 26 | body / chapter 2 | **verified** | T1/T2/T3 PASS; 5 T3 source-representation corrections |
 | 29 | 27 | body / chapter 3 opener | **verified** | T1/T2/T3 PASS; chapter 3 restored; 3 T3 source corrections + section 2→3 metadata correction |
-| 30 | — | unclassified | **not-started** | direct visual classification pending |
-| 31 | — | unclassified | **not-started** | direct visual classification pending |
-| 32 | — | unclassified | **not-started** | direct visual classification pending |
-| 33 | — | unclassified | **not-started** | direct visual classification pending |
-| 34 | — | unclassified | **not-started** | direct visual classification pending |
+| 30 | 28 | body / chapter 3 | **needs-review** | T1 complete; T2 next |
+| 31 | 29 | body / chapter 3 | **needs-review** | T1 complete; T2 next |
+| 32 | 30 | body / chapter 3 | **needs-review** | T1 complete; T2 next |
+| 33 | 31 | body / chapter 3 | **needs-review** | T1 complete; T2 next |
+| 34 | 32 | body / chapter 3 | **needs-review** | T1 complete; ends `அதில்`; scan35 not opened |
 | 35 | — | unclassified | **not-started** | direct visual classification pending |
 | 36 | — | unclassified | **not-started** | direct visual classification pending |
 | 37 | — | unclassified | **not-started** | direct visual classification pending |
@@ -162,12 +162,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records: **29 total — 29 `verified`**;
-- body T1: **scans 5–29 COMPLETE / PASS / VERIFIED**;
-- body T2: **scans 5–29 COMPLETE / PASS; unresolved 0**;
-- body T3: **scans 5–29 COMPLETE / PASS / VERIFIED**;
+- page records: **34 total — 29 `verified` + 5 `needs-review`**;
+- body T1: **scans 5–34 COMPLETE / PASS; scans 5–29 verified; scans 30–34 `needs-review`**;
+- body T2: **scans 5–29 COMPLETE / PASS; scans 30–34 NEXT**;
+- body T3: **scans 5–29 COMPLETE / PASS / VERIFIED; scans 30–34 NOT STARTED**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T1 direct visual transcription for scans 30–34 only; create canonical records and stop before scan35. Full-source/terminal reconciliation remains deferred.**
+Exact next: **perform T2 independent historical-glyph/source-form review for scans 30–34 only; retain pages `needs-review` pending T3. Full-source/terminal reconciliation remains deferred.**
