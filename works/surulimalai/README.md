@@ -21,9 +21,9 @@
 - body opening: **scan 5 VERIFIED**;
 - terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
 - prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
-- canonical body transcription: **scans 5–34 T1/T2/T3 COMPLETE / PASS / VERIFIED**;
-- historical-glyph review: **scans 5–34 T2 COMPLETE / PASS; scans30–34 = 4 corrections; unresolved 0**;
-- final source-fidelity review: **scans 5–34 T3 COMPLETE / PASS / VERIFIED; scans30–34 = 2 additional corrections**;
+- canonical body transcription: **scans 5–34 VERIFIED; scans35–39 T1 COMPLETE / PASS — 5/5 needs-review**;
+- historical-glyph review: **scans 5–34 T2 COMPLETE / PASS; scans35–39 T2 NEXT**;
+- final source-fidelity review: **scans 5–34 T3 COMPLETE / PASS / VERIFIED; scans35–39 T3 NOT STARTED**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
 - English translation: **NOT STARTED / BLOCKED**.
 
@@ -51,7 +51,10 @@ The user supplied the following catalogue-style description for project context.
 - scans 23–24 — chapter 2 body; T1/T2/T3 complete / **verified**; visible printed pages **21–22**;
 - scans 25–28 — chapter 2 body; T1/T2/T3 complete / **verified**; visible printed pages **23–26**;
 - scan 29 — printed page **27**; T1/T2/T3 complete / **verified**; source-visible chapter **3** begins at the top of the page;
-- scans 30–34 — chapter 3 body; T1/T2/T3 complete / **verified**; visible printed pages **28–32**; 4 T2 + 2 T3 corrections; scan35 not opened;
+- scans 30–34 — chapter 3 body; T1/T2/T3 complete / **verified**; visible printed pages **28–32**; 4 T2 + 2 T3 corrections;
+- scans 35–36 — chapter 3 body; T1 complete / **needs-review**; visible printed pages **33–34**;
+- scan 37 — printed page **35**; T1 complete / **needs-review**; chapter **4** begins mid-page after the closing chapter-3 paragraphs;
+- scans 38–39 — chapter 4 body; T1 complete / **needs-review**; visible printed pages **36–37**; scan40 not opened;
 - current parser exposes only pages **1–150** although the same source copy has **198 pages**;
 - therefore no terminal/body-boundary claim from pages 140–150 is durable;
 - full 198-page source view is required before terminal mapping or closure.
@@ -61,7 +64,7 @@ Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Begin **T1 direct visual transcription for scans 35–39 only** from the attached source pixels. Create canonical records, preserve source wording/punctuation, mark new pages `needs-review`, update controls, and stop before T2. The 198-page ingestion discrepancy remains deferred.
+Perform **T2 independent historical-glyph/source-form review for scans 35–39 only** from the attached source pixels. Record corrections, keep pages `needs-review` pending T3, update controls, commit, and stop before T3. The 198-page ingestion discrepancy remains deferred.
 
 Do not start English or assembled Tamil work.
 
@@ -77,3 +80,6 @@ Completed T1/T2/T3 checkpoint: [`T1_BATCH_025_029.md`](T1_BATCH_025_029.md).
 
 Completed T1/T2/T3 checkpoint: [`T1_BATCH_030_034.md`](T1_BATCH_030_034.md).  
 T3 audit: [`T3_AUDIT_030_034.md`](T3_AUDIT_030_034.md).
+
+
+Active T1 checkpoint: [`T1_BATCH_035_039.md`](T1_BATCH_035_039.md).
