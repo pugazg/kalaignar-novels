@@ -4,10 +4,10 @@ printed_page: 35
 work: "surulimalai"
 section: "3-4-transition"
 page_type: "body / chapter transition"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph/source-form T2 complete"
+transcription_method: "direct visual transcription from source scan; T1 complete; independent historical-glyph/source-form T2 complete; final source-fidelity T3 complete"
 ---
 
 “என்னால் படுத்திருக்க முடியவில்லை. அப்போதுதான் விழிப்பதுபோல் எழுந்தேன். ‘மைனு’ என்று அன்போடு கூப்பிட்டவாறு அருகே வந்தார் அந்த அர்ச்சுனர்! என் கன்னத்தில் காலை முத்தம் ஒன்றும் கொடுத்தார். அதைப் பெற்றுக்கொண்டு, அழுகையையும் ஆத்திரத்தையும் அடக்கிக்கொண்டு அறையை விட்டு வெளியே வந்தேன். வெளியே வந்த என் காதில்........ “அய்யய்யோ!” என்ற ஒப்பாரி சப்தம் கேட்டது!
@@ -37,6 +37,18 @@ transcription_method: "direct visual transcription from source scan; T1 complete
 - centered chapter **4** and the bottom-left printer/signature mark were re-confirmed structurally;
 - T2 corrections: **3**;
 - unresolved historical/source-form readings after T2: **0**;
-- page remains needs-review pending T3.
+- page remained needs-review pending T3.
 
-<!-- source physical scan: 37; visible printed page: 35; T1/T2 COMPLETE / NEEDS-REVIEW -->
+## T3 final source-fidelity notes
+
+- complete physical scan 37 independently re-checked against source pixels;
+- all three T2-integrated corrections remain source-supported;
+- the source-visible centered chapter **4** transition is confirmed;
+- the isolated bottom-left printer/signature number remains excluded from canonical body text;
+- printed page **35**, paragraph/dialogue boundaries, and physical page ending were re-confirmed;
+- omissions / duplicate body spans: **0 / 0**;
+- T3 text corrections: **0**;
+- unresolved source-form readings after T3: **0**;
+- final status: **verified**.
+
+<!-- source physical scan: 37; visible printed page: 35; T1/T2/T3 COMPLETE / VERIFIED -->
