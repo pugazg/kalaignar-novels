@@ -21,9 +21,9 @@
 - body opening: **scan 5 VERIFIED**;
 - terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
 - prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
-- canonical body transcription: **scans 5–24 VERIFIED; scans 25–29 T1 COMPLETE / PASS — 5/5 `needs-review`**;
-- historical-glyph review: **scans 5–29 T2 COMPLETE / PASS; scans 25–29 = 0 corrections; unresolved 0**;
-- final source-fidelity review: **scans 5–24 T3 COMPLETE / PASS / VERIFIED; scans 25–29 T3 NEXT**;
+- canonical body transcription: **scans 5–29 VERIFIED**;
+- historical-glyph review: **scans 5–29 T2 COMPLETE / PASS; unresolved 0**;
+- final source-fidelity review: **scans 5–29 T3 COMPLETE / PASS / VERIFIED**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
 - English translation: **NOT STARTED / BLOCKED**.
 
@@ -49,6 +49,8 @@ The user supplied the following catalogue-style description for project context.
 - scans 20–21 — chapter 1 body; T1/T2/T3 complete / **verified**; visible printed pages **18–19**;
 - scan 22 — printed page **20**; T1/T2/T3 complete / **verified**; chapter **2** begins mid-page after two closing paragraphs;
 - scans 23–24 — chapter 2 body; T1/T2/T3 complete / **verified**; visible printed pages **21–22**;
+- scans 25–28 — chapter 2 body; T1/T2/T3 complete / **verified**; visible printed pages **23–26**;
+- scan 29 — printed page **27**; T1/T2/T3 complete / **verified**; source-visible chapter **3** begins at the top of the page;
 - current parser exposes only pages **1–150** although the same source copy has **198 pages**;
 - therefore no terminal/body-boundary claim from pages 140–150 is durable;
 - full 198-page source view is required before terminal mapping or closure.
@@ -58,7 +60,7 @@ Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans 25–29 only** from the attached source pixels. Keep pages `needs-review` until each passes T3, update controls, commit, and stop before scan30. The 198-page ingestion discrepancy remains deferred.
+Perform **T1 direct visual transcription for scans 30–34 only** from the attached source pixels. Create canonical page records, update controls, commit, and stop before scan35. The 198-page ingestion discrepancy remains deferred.
 
 Do not start English or assembled Tamil work.
 
@@ -70,4 +72,4 @@ Completed T1/T2/T3 checkpoint: [`T1_BATCH_005_009.md`](T1_BATCH_005_009.md).
 Completed T1/T2/T3 checkpoint: [`T1_BATCH_010_014.md`](T1_BATCH_010_014.md).  
 Completed T1/T2/T3 checkpoint: [`T1_BATCH_015_019.md`](T1_BATCH_015_019.md).  
 Completed T1/T2/T3 checkpoint: [`T1_BATCH_020_024.md`](T1_BATCH_020_024.md).  
-Active T1 checkpoint: [`T1_BATCH_025_029.md`](T1_BATCH_025_029.md).
+Completed T1/T2/T3 checkpoint: [`T1_BATCH_025_029.md`](T1_BATCH_025_029.md).
