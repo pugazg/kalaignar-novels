@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1 complete through scan 39**. Scans **5–34 are T1/T2/T3 verified**; scans **35–39 are T1 complete / needs-review pending T2**. Visible printed pages for scans35–39 are **33–37**; scan37 introduces source-visible chapter **4** mid-page. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **T1/T2 complete through scan 39**. Scans **5–34 are T1/T2/T3 verified**; scans **35–39 are needs-review pending T3**. T2 applied **6** corrections to scans35–39; unresolved historical/source-form readings after T2: **0**. Visible printed pages are **33–37** and scan37 introduces source-visible chapter **4** mid-page. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -305,9 +305,10 @@ Checkpoint: [`T1_BATCH_030_034.md`](T1_BATCH_030_034.md).
 T2 audit: [`T2_AUDIT_030_034.md`](T2_AUDIT_030_034.md).  
 T3 audit: [`T3_AUDIT_030_034.md`](T3_AUDIT_030_034.md).
 
-## T1 scans 35–39
+## T1/T2 scans 35–39
 
-T1: **COMPLETE / PASS — 5/5 canonical records**.
+T1: **COMPLETE / PASS — 5/5 canonical records**.  
+T2: **COMPLETE / PASS — 5/5; 6 corrections; unresolved 0**.
 
 | Scan | Printed page | Record | T1 | Status |
 |---:|---:|---|---|---|
@@ -327,8 +328,9 @@ Structural/source observations:
 - scan40 was **not opened or used**;
 - T2 difficult source-form targets are recorded in `T1_BATCH_035_039.md`.
 
-Checkpoint: [`T1_BATCH_035_039.md`](T1_BATCH_035_039.md).
+Checkpoint: [`T1_BATCH_035_039.md`](T1_BATCH_035_039.md).  
+T2 audit: [`T2_AUDIT_035_039.md`](T2_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph/source-form review for scans 35–39 only**. Apply only source-supported corrections, retain pages `needs-review` pending T3, update controls, commit, and stop before T3.
+Perform **T3 final source-fidelity review for scans 35–39 only**. Re-check all five complete page records, the six T2 corrections, chapter-4 transition, source punctuation/page endings, and omissions/duplicates. Promote only pages that pass and stop before scan40.
