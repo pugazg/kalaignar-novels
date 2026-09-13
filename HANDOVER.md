@@ -22,19 +22,21 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 ## Durable state
 
 - scans **5–29 T1/T2/T3: VERIFIED**;
-- scans25–29 T3 source-pixel review and canonical integration: **COMPLETE / PASS — 5/5**;
-- scans25–29 T3 source-representation corrections applied: **17**;
-- scan29 derived metadata correction applied: **section/chapter 2 → 3**;
-- unresolved historical/source-form readings: **0**;
-- omissions / duplicated body spans after T3 scans25–29: **0 / 0**;
-- visible printed pages for scans25–29: **23–27**;
-- scans25–28 continue chapter **2**;
-- scan29 / printed27 begins source-visible chapter **3**;
-- scan30 was not opened during the completed scans25–29 checkpoint;
+- scans **30–34 T1: COMPLETE / PASS — 5/5**;
+- scans **30–34 canonical page records: 5/5 `needs-review` pending T2**;
+- visible printed pages scans30–34: **28–32**;
+- chapter **3** continues through scans30–34;
+- scan34 begins மைனாவின் autobiographical account and ends at source fragment `அதில்`;
+- scan35 was **not opened or used**;
+- T2 scans30–34: **NEXT**;
+- T3 scans30–34: **NOT STARTED**;
 - terminal/full-198-page issue remains **DEFERRED**.
+
+Completed prior checkpoint: `works/surulimalai/T1_BATCH_025_029.md`.  
+Active checkpoint: `works/surulimalai/T1_BATCH_030_034.md`.
 
 ## Exact next activity
 
-Process **T1 direct visual transcription for scans30–34 only** from the controlling source. Create canonical page records, preserve source-visible structure and spellings, update the checkpoint/indexes/handover, commit, and **stop before scan35**.
+Perform **T2 independent historical-glyph/source-form review for scans30–34 only** from the controlling source. Re-read source-specific and historical forms independently, record any corrections, retain pages as `needs-review` pending T3, update controls, and commit.
 
-Do not begin T2/T3 for scans30–34 until T1 is durably recorded. The 198-page ingestion/terminal-boundary issue remains deferred.
+Do **not** open scan35 and do **not** begin T3 in the same activity. The 198-page ingestion/terminal-boundary issue remains deferred.
