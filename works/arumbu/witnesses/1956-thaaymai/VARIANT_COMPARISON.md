@@ -70,6 +70,75 @@ These are retained as witness evidence only.
 - canonical-recheck candidates open: **0**
 - unresolved 1956 witness reading: **0**
 
+## Batch 2 — scans 69–78 / printed 67–76
+
+**COMPLETE / PASS — 10/10 witness scans reviewed.**
+
+### Physical / textual alignment
+
+The reviewed span runs from Gokul's sleepless night / Gomathi's father's death through Kumar's first encounter with Gomathi as his new mother and the subsequent fever / bonding sequence. Text anchors align continuously with the verified 1978 canonical.
+
+No major narrative block is added or omitted.
+
+### Material edition variants
+
+| 1956 witness | 1978 canonical | Disposition |
+|---|---|---|
+| `அம்மனூரில் இரண்டொரு நாட்கள் கழிந்து விட்டன` | `அம்மனூரில் இரண்டு நாட்கள் கழிந்துவிட்டன` | time-expression / lexical variant |
+| `தேன்பூச்சிகள்` | `தேனீக்களை` | lexical edition variant |
+| `சுவரிலே தாயின் படம்! ஆம் படமாகிவிட்டாள் அவன் தாயார்.` | `குமார் விழித்துக்கொள்கிறான். ‘கனவு’த் தாயாரைக் காணவில்லை!` | substantive post-dream narrative recast |
+| `நிஜ அம்மா தான் வேணும்!` | `நிஜ அம்மாதான் வேணும்!` | spacing-only difference; **independently confirms protected lexical reading** |
+
+### Witness-only layout evidence
+
+1956 uses explicit centered three-star scene-break ornaments at transitions that are not represented as prose in the 1978 assembled reading, including the shift back to the Ammanur thread after Kumar's dream.
+
+## Batch 3 — scans 79–87 / printed 77–79, 82–87
+
+**COMPLETE / PASS FOR ALL VISIBLE SOURCE PAGES — 9/9 physical scans reviewed.**
+
+### Source gap
+
+The supplied 1956 witness is physically incomplete:
+
+- scan **81** = printed **79**;
+- scan **82** = printed **82**;
+- printed pages **80–81 are absent**.
+
+The comparison therefore makes **no claim about 1956 wording on missing printed pages 80–81**. The 1978 canonical was used only to understand alignment around the gap, never to reconstruct or populate the missing 1956 text.
+
+### Visible alignment after the gap
+
+Source-visible scan 82 resumes in the Kumar / mother-photo / sick-baby sequence. The subsequent visible narrative through the baby death, Kumar's grief, Gokul's office accident, hospital reconciliation and final `இரு இலை, ஒரு மொட்டு` image aligns with the 1978 canonical.
+
+### Independent confirmations
+
+The 1956 witness independently supports several source-sensitive readings already protected in the 1978 canonical:
+
+- `எனக்குப் பொய் அம்மா வேணும்!` — confirmed earlier in Batch 2;
+- `பேசினேன்` — confirmed in the telephone / office sequence;
+- the ending retains the same `இரு இலை, ஒரு மொட்டு` / future `இரு இலை இரு மொட்டு` image.
+
+These confirmations do not require canonical edits.
+
+### Ending / layout
+
+1956 scan **87 / printed 87** closes the story with a terminal star ornament. Its final clause uses `இனி...` before the projected `இரு இலை இரு மொட்டு` future. The 1978 canonical preserves the same semantic ending with different punctuation.
+
+## Final disposition
+
+- 1956 physical scans reviewed: **28/28**
+- visible-source comparison: **PASS / CLOSED**
+- printed source completeness: **OPEN — 80–81 absent**
+- visible narrative structure: **equivalent outside the gap**
+- visible major additions / omissions: **0**
+- canonical Tamil changed: **No**
+- canonical English changed: **No**
+- canonical-recheck candidates opened: **0**
+- unresolved visible witness readings: **0**
+- gap reconstruction: **none**
+- witness status: **CLOSED FOR ALL SOURCE-VISIBLE PAGES / SOURCE GAP PRESERVED**
+
 ## Next comparison span
 
-1956 scans **69–78 / printed 67–76** — **10 source pages**.
+**NONE — all source-visible 1956 `அரும்பு` pages have been compared.**
