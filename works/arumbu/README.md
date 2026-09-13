@@ -5,6 +5,29 @@
 **Source physical range:** scans **6–23** of `TVA_BOK_0064361_அரும்பு.pdf`  
 **Source PDF committed:** No
 
+## Additional earlier witness — 1956 `தாய்மை`
+
+Comparison-only witness workspace:
+
+- `witnesses/1956-thaaymai/README.md`
+- `witnesses/1956-thaaymai/VARIANT_COMPARISON.md`
+
+Current witness state:
+
+- 1956 source: `TVA_BOK_0064112_தாய்மை.pdf`
+- witness physical range: **scans 60–87**
+- witness printed pages: **58–79**, then **82–87**
+- source limitation: **printed pages 80–81 absent**
+- reviewed: **9/28 scans — scans 60–68 / printed 58–66**
+- narrative structure in reviewed span: **equivalent**
+- material edition variants recorded: **5**
+- canonical Tamil / English changed: **No / No**
+- unresolved witness readings: **0**
+- canonical-recheck candidates open: **0**
+- exact next: **1956 scans 69–78 / printed 67–76 — 10 source pages**.
+
+The 1978 source remains controlling. Do not reconstruct missing 1956 printed pages 80–81 from the later edition.
+
 ## Final state
 
 - work/source identity: **CONFIRMED**;
