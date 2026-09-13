@@ -31,11 +31,11 @@ Open:
 - SHA-256 checksum;
 - complete-source / terminal reconciliation against a full **198-page** representation;
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
-- T3 final source-fidelity review for scans 25–29;
-- T1 onward from scan 30;
+- T2 independent historical-glyph/source-form review for scans 30–34;
+- T3 final source-fidelity review for scans 30–34 after T2;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **verified through scan 24**; scans **25–29 have T1/T2 complete and remain `needs-review` pending T3**. No external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **T1 complete through scan 34**. Scans **5–29 are T1/T2/T3 verified**; scans **30–34 are T1 complete / `needs-review` pending T2**. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -274,6 +274,30 @@ T3 closure:
 Checkpoint: [`T1_BATCH_025_029.md`](T1_BATCH_025_029.md).  
 T3 addendum: [`T3_AUDIT_025_029.md`](T3_AUDIT_025_029.md).
 
+## T1 scans 30–34
+
+T1: **COMPLETE / PASS — 5/5 canonical records**.
+
+| Scan | Printed page | Record | T1 | Final after T1 |
+|---:|---:|---|---|---|
+| 30 | 28 | `pages/0030-page-28.md` | PASS | **needs-review** |
+| 31 | 29 | `pages/0031-page-29.md` | PASS | **needs-review** |
+| 32 | 30 | `pages/0032-page-30.md` | PASS | **needs-review** |
+| 33 | 31 | `pages/0033-page-31.md` | PASS | **needs-review** |
+| 34 | 32 | `pages/0034-page-32.md` | PASS | **needs-review** |
+
+Structural/source observations:
+
+- chapter **3** continues through all five scans;
+- visible printed pages are **28–32**;
+- scan33 dialogue is answered at the opening of scan34;
+- scan34 begins மைனாவின் autobiographical account;
+- scan34 ends at `அதில்`;
+- scan35 was not opened or used;
+- source-specific/historical forms remain queued for independent T2 review.
+
+Checkpoint: [`T1_BATCH_030_034.md`](T1_BATCH_030_034.md).
+
 ## Exact next activity
 
-Perform **T1 direct visual transcription for scans 30–34 only**, create canonical page records, update controls, commit, and stop before scan35. The full-source/terminal issue remains deferred.
+Perform **T2 independent historical-glyph/source-form review for scans 30–34 only**. Record corrections, keep pages `needs-review` pending T3, update controls, and stop before T3.
