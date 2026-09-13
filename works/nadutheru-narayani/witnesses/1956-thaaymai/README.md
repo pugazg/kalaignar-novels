@@ -35,23 +35,24 @@ The 1956 witness never silently overwrites the verified 1978 canonical. Any poss
 
 ## Comparison state
 
-**IN PROGRESS — 15/26 witness scans reviewed.**
+**IN PROGRESS — 25/26 witness scans reviewed.**
 
 Completed span:
 
-- 1956 scans **34–48 / printed 32–46**
+- 1956 scans **34–58 / printed 32–56**
 - Batch 1 scans **34–38** aligned primarily against canonical 1978 scans **75–77**
 - Batch 2 scans **39–48** aligned primarily against canonical 1978 scans **78–84**
+- Batch 3 scans **49–58** aligned primarily against canonical 1978 scans **84–89**
 
 Result:
 
-- narrative sequence: **equivalent**
+- narrative sequence: **equivalent overall; one localized 1956-only dialogue line is present in the reviewed span**
 - major added / omitted narrative blocks in reviewed span: **0**
-- material edition variants recorded: **9**
+- material edition variants recorded: **16**
 - canonical Tamil changed: **No**
 - canonical English changed: **No**
 - unresolved witness readings: **0**
-- canonical-recheck candidates open: **2**
+- canonical-recheck candidates open: **4**
 
 ## Canonical-recheck candidate
 
@@ -96,6 +97,34 @@ No canonical Tamil or English was changed.
 
 Both remain **recheck-only** until the exact 1978 controlling scans are directly reopened.
 
+## Batch 3 findings — scans 49–58 / printed 47–56
+
+Batch 3 is **COMPLETE / PASS — 10/10 scans**.
+
+High-value edition findings include:
+
+- 1956 `நேக்காக நீ உடல் - பொருள் - ஆவி மூன்றையும் தியாகம் செய்வேன் னு சொன்னியே!` ↔ 1978 `...தியாகம் செய்யவேணும்னு சொன்னியே!`;
+- 1956 `காமன் அனுப்பி இருந்தது போலும்!` ↔ 1978 `காமனை அனுப்பியிருந்தது போலும்!`;
+- the 1956 இயற்பகை நாயனார் / புராண காலட்சேபம் sentence is lexically recast in the 1978 edition;
+- 1956 `ஏழெட்டு உறுப்பினர்களை விலைக்கு வாங்கி` ↔ current 1978 `ஏழெட்டு உறுப்பினர்களே விலைக்கு வாங்கி`;
+- 1956 contains the additional dialogue line `அடி விபசாரி! உனக்கு இவ்வளவு கொழுப்பா?` after Narayani slaps Krishna Iyer; that line is absent from the 1978 canonical;
+- 1956 `என்னை உங்களிடம் ஒப்படைத்தவன் இன்று முதல்` ↔ 1978 `என்னை உங்களிடம் ஒப்படைத்தவனே - இன்றுமுதல்`.
+
+No major narrative block is added or omitted, but the extra 1956 insult line is a genuine localized dialogue difference.
+
+No canonical Tamil or English was changed.
+
+## Canonical-recheck candidates
+
+1. 1956 scan **38 / printed 36**: `கர்வமடக்கும்` ↔ current 1978 `கருவமடக்கும்`.
+2. 1956 scan **46 / printed 44**: `பிராமணோத்தமரே!` ↔ current 1978 `பிராமணத் தமரே!`.
+3. 1956 scan **49 / printed 47**: `தனது கைகளால் வெறுப்போடு நகர்த்தினாள்` ↔ current 1978 `தனது கண்களால் வெறுப்போடு நகர்த்தினாள்`.
+4. 1956 scan **55 / printed 53**: `ஏழெட்டு உறுப்பினர்களை விலைக்கு வாங்கி` ↔ current 1978 `ஏழெட்டு உறுப்பினர்களே விலைக்கு வாங்கி`.
+
+All four remain **recheck-only** until the exact 1978 controlling scans are directly reopened.
+
 ## Next activity
 
-Continue the 1956 witness with **scans 49–58 / printed pages 47–56** — **10 source pages**.
+Finish the 1956 `நடுத்தெரு நாராயணி` witness with scan **59 / printed 57** (**1 page**), verify the ending and scan **60** forward boundary, then continue the same 10-page iteration with 1956 `அரும்பு` scans **60–68 / printed 58–66** (**9 pages**).
+
+Total next iteration: **10 source pages — scans 59–68**.
