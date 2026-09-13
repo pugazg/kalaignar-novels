@@ -31,11 +31,10 @@ Open:
 - SHA-256 checksum;
 - complete-source / terminal reconciliation against a full **198-page** representation;
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
-- T2 independent historical-glyph/source-form review for scans 30–34;
-- T3 final source-fidelity review for scans 30–34 after T2;
+- T3 final source-fidelity review for scans 30–34;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1 complete through scan 34**. Scans **5–29 are T1/T2/T3 verified**; scans **30–34 are T1 complete / `needs-review` pending T2**. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **T1/T2 complete through scan 34**. Scans **5–29 are T1/T2/T3 verified**; scans **30–34 are `needs-review` pending T3**. T2 corrections for scans30–34: **4**; unresolved historical/source-form readings: **0**. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -274,9 +273,10 @@ T3 closure:
 Checkpoint: [`T1_BATCH_025_029.md`](T1_BATCH_025_029.md).  
 T3 addendum: [`T3_AUDIT_025_029.md`](T3_AUDIT_025_029.md).
 
-## T1 scans 30–34
+## T1/T2 scans 30–34
 
-T1: **COMPLETE / PASS — 5/5 canonical records**.
+T1: **COMPLETE / PASS — 5/5 canonical records**.  
+T2: **COMPLETE / PASS — 5/5; 4 corrections; unresolved 0**.
 
 | Scan | Printed page | Record | T1 | Final after T1 |
 |---:|---:|---|---|---|
@@ -300,4 +300,4 @@ Checkpoint: [`T1_BATCH_030_034.md`](T1_BATCH_030_034.md).
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph/source-form review for scans 30–34 only**. Record corrections, keep pages `needs-review` pending T3, update controls, and stop before T3.
+Perform **T3 final source-fidelity review for scans 30–34 only**. Promote pages only after complete source-fidelity passes, update controls, commit, and stop before scan35.
