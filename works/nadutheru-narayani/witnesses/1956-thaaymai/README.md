@@ -35,22 +35,23 @@ The 1956 witness never silently overwrites the verified 1978 canonical. Any poss
 
 ## Comparison state
 
-**IN PROGRESS — 5/26 witness scans reviewed.**
+**IN PROGRESS — 15/26 witness scans reviewed.**
 
 Completed span:
 
-- 1956 scans **34–38 / printed 32–36**
-- aligned primarily against canonical 1978 scans **75–77**
+- 1956 scans **34–48 / printed 32–46**
+- Batch 1 scans **34–38** aligned primarily against canonical 1978 scans **75–77**
+- Batch 2 scans **39–48** aligned primarily against canonical 1978 scans **78–84**
 
 Result:
 
 - narrative sequence: **equivalent**
 - major added / omitted narrative blocks in reviewed span: **0**
-- material edition variants recorded: **3**
+- material edition variants recorded: **9**
 - canonical Tamil changed: **No**
 - canonical English changed: **No**
 - unresolved witness readings: **0**
-- canonical-recheck candidates open: **1**
+- canonical-recheck candidates open: **2**
 
 ## Canonical-recheck candidate
 
@@ -71,6 +72,30 @@ The 1956 form is semantically natural and differs by one letter cluster. This is
 
 Routine spacing, punctuation and sandhi-display changes are retained as edition evidence and are not canonicalized.
 
+## Batch 2 findings — scans 39–48 / printed 37–46
+
+Batch 2 is **COMPLETE / PASS — 10/10 scans**.
+
+High-value edition findings include:
+
+- 1956 `கண்ணீர்த் துளிகளே சிந்தினாள்` ↔ 1978 `கண்ணீர்த் துளிகளைச் சிந்தினாள்`;
+- 1956 `நேக்கு நன்னுத் தெரியும்` ↔ 1978 `நேக்கு நன்னுகத் தெரியும்`;
+- 1956 `தெண்டனிட்டு விழுந்தார்` ↔ 1978 `தெண்டனிட்டு வீழ்ந்தார்`;
+- 1956 `ஏனோ தெரியவில்லை` ↔ 1978 `ஏதோ தெரியவில்லை`;
+- 1956 `பாபமெனக் கருதுவார்` ↔ 1978 `பாவமெனக் கருதுவார்`;
+- 1956 `பிராமணோத்தமரே!` ↔ 1978 `பிராமணத் தமரே!`.
+
+The last item is a second canonical-recheck candidate because the 1956 reading is a coherent lexical form while the current 1978 canonical is unusual.
+
+No canonical Tamil or English was changed.
+
+## Canonical-recheck candidates
+
+1. 1956 scan **38 / printed 36**: `கர்வமடக்கும்` ↔ current 1978 `கருவமடக்கும்`.
+2. 1956 scan **46 / printed 44**: `பிராமணோத்தமரே!` ↔ current 1978 `பிராமணத் தமரே!`.
+
+Both remain **recheck-only** until the exact 1978 controlling scans are directly reopened.
+
 ## Next activity
 
-Continue the 1956 witness with **scans 39–48 / printed pages 37–46** — **10 source pages**.
+Continue the 1956 witness with **scans 49–58 / printed pages 47–56** — **10 source pages**.
