@@ -1,34 +1,38 @@
-# Next Chat Prompt — சுருளிமலை / T3 scans 30–34
+# Next Chat Prompt — சுருளிமலை / T1 scans 35–39
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/surulimalai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
+## Controlling source
+
+Attached `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`.
+
 ## Durable state
 
-- scans **5–29** are T1/T2/T3 **VERIFIED**;
-- scans **30–34** T1/T2: **COMPLETE / PASS — 5/5**;
-- T2 canonical integration: **COMPLETE — 5/5**;
-- T2 corrections applied: **4**;
-- unresolved historical/source-form readings: **0**;
-- scans30–34 remain **`needs-review` pending T3**;
-- T3 scans30–34: **NEXT**;
-- visible printed pages: **28–32**;
-- chapter **3** continues throughout the batch;
-- scan35 was **not opened**.
+- scans **5–34** are T1/T2/T3 **VERIFIED**;
+- scans30–34 T2 corrections: **4**;
+- scans30–34 T3 additional corrections: **2**;
+- unresolved source-form readings after T3: **0**;
+- visible printed pages through scan34: **28–32** for scans30–34;
+- chapter **3** continues through scan34;
+- scan34 ends at `அதில்`;
+- scan35 was **not opened** during the previous checkpoint;
+- scans35–39: **T1 NEXT**;
+- T2/T3 scans35–39: **NOT STARTED**.
 
-Checkpoint: `works/surulimalai/T1_BATCH_030_034.md`.  
-T2 audit: `works/surulimalai/T2_AUDIT_030_034.md`.
+Completed checkpoint: `works/surulimalai/T1_BATCH_030_034.md`.  
+T3 audit: `works/surulimalai/T3_AUDIT_030_034.md`.
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans30–34 only**:
+Perform **T1 direct visual transcription for scans35–39 only**:
 
-- independently compare each complete canonical page with the controlling source pixels;
-- verify paragraph/dialogue boundaries, punctuation, visible page numbers, page endings, and the four T2-integrated corrections;
-- check for omissions or duplicated spans;
-- promote a page to `verified` only if T3 passes;
-- record a T3 correction ledger and unresolved count;
-- update checkpoint, README, page-map, audit, handover and next prompt;
-- commit the batch;
-- **do not open scan35**.
+- open and independently read scans35–39 from source pixels;
+- identify visible printed-page numbers and chapter/structural context;
+- create one canonical page record per physical scan;
+- preserve source wording, colloquial forms, punctuation and page endings without normalization;
+- mark every new page `needs-review` pending T2;
+- create/update the five-scan checkpoint and repository controls;
+- commit;
+- stop before T2.
 
 The 198-page ingestion/terminal-boundary issue remains deferred.
