@@ -22,42 +22,30 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 ## Durable state
 
 - scans **5–24 T1/T2/T3: VERIFIED**;
-- scans **25–29 T1: COMPLETE / PASS — 5/5**;
-- scans **25–29 T2: COMPLETE / PASS — 5/5**;
-- scans **25–29 canonical records: 5/5 `needs-review` pending T3**;
-- scans **25–29 T2 corrections: 0**;
+- scans **25–26 T1/T2/T3: VERIFIED**;
+- scans **27–29 T1/T2: COMPLETE / PASS**;
+- scans **27–29 T3 source-pixel review: COMPLETE**;
+- scans **27–29 canonical T3 integration: PENDING**;
+- scans25–26 T3 corrections applied: **7** total;
+- scans27–29 T3 corrections identified, pending application: **10** total;
+- scan29 derived metadata correction identified, pending application: **chapter 2 → chapter 3**;
 - unresolved historical/source-form readings: **0**;
-- visible printed pages: **23, 24, 25, 26, 27**;
-- all five scans continue chapter **2**;
+- visible printed pages for scans25–29: **23–27**;
+- scans25–28 continue chapter **2**;
+- scan29 / printed27 begins source-visible chapter **3** at the top of the page;
 - scan30 has not been opened;
 - terminal/full-198-page issue remains **DEFERRED**.
 
-## T2 decisions — scans 25–29
+## Pending T3 corrections
 
-No text correction was required.
+- scan27 — remove non-source comma after `யாரோடும் அவள்`; `கலகலப்பாகப்` → `கல கலப்பாகப்`.
+- scan28 — restore two source paragraph boundaries; restore `விழிப்பு—அலைச்சல்—எல்லாம்!`; remove non-source full stop after `மாலைகள் அணிந்திருந்தாள்`; restore `“பள பள”`.
+- scan29 — restore centered source-visible chapter **3**; restore two paragraph boundaries; update section metadata **2→3**.
 
-Confirmed from source pixels:
-
-- scan25 — `பசியெடுத்தக்`, `“காதல்”`, `“சோச்சி”`, `“மியாவ்”`, terminal `வேகத்`;
-- scan26 — `“களுக்”`, `அபசகுனம்`, `காப்பாத்தும்மா`, `அங்குமிங்கும்`, `நிர்வாகியொருவரிடம்`, `விபரங் கேட்கச்`;
-- scan27 — `அடுத்தவீட்டு எதிர்த்த வீட்டுப்`, `பெண்களோடுகூட`, `“சிடு மூஞ்சி”`, `வேண்டிய மட்டும்`, `தாழ்ப்பாள்தான்`;
-- scan28 — `“ஸ்! அதான் தின்னுட்டியே... தூங்கு! தூங்கு!”`, `பிறகேன்`, `நா எழவில்லை`, `பள பள வென்று`, `விருட்டெனப்`;
-- scan29 — `சாவதானமாக`, `அவளையறியாமல்`, `அதிர்ச்சியிலேகூட`, `யாருமில்லை`, `எனத்தெரிந்த`, `நாக்கு குழறிற்று`, `திடும் பிரவேசத்தால்`;
-- historical `லை` in `யாருமில்லை` and `னா` in `மைனா` were re-confirmed;
-- source dash/quotation structures on scans27–29 were retained.
+Cross-page continuity is source-confirmed through scan29. Scan30 was not opened.
 
 ## Exact next activity
 
-Perform **Tamil T3 final source-fidelity review for scans 25–29 only**.
+Apply the already source-confirmed T3 corrections to **scans27–29 only**, promote each passing page to `verified`, update controls, and commit. **Do not open scan30 yet.**
 
-Requirements:
-
-1. attached PDF/source pixels only;
-2. compare every complete canonical page against its scan;
-3. check omissions, duplication, punctuation, paragraphing, visible page numbers and cross-page continuity;
-4. retain T2 decisions unless direct source evidence requires correction;
-5. record each T3 correction explicitly;
-6. promote pages to `verified` only after they fully pass T3;
-7. update `T1_BATCH_025_029.md`, page map, README, audit, handover and next-chat prompt;
-8. commit and **stop before scan30**;
-9. terminal/full-198-page reconciliation remains deferred.
+The 198-page ingestion/terminal-boundary issue remains deferred.
