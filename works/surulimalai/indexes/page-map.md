@@ -30,11 +30,11 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 22 | 20 | body / chapter 1→2 transition | **verified** | T1/T2/T3 PASS; centered chapter no. 2 confirmed |
 | 23 | 21 | body / chapter 2 | **verified** | T1/T2/T3 PASS; source spacing/forms retained |
 | 24 | 22 | body / chapter 2 | **verified** | T1/T2/T3 PASS; ends `அதைத்`; scan25 not used |
-| 25 | 23 | body / chapter 2 | **needs-review** | T1/T2 complete; 0 T2 corrections; T3 next |
-| 26 | 24 | body / chapter 2 | **needs-review** | T1/T2 complete; source forms retained; T3 next |
-| 27 | 25 | body / chapter 2 | **needs-review** | T1/T2 complete; punctuation/forms retained; T3 next |
-| 28 | 26 | body / chapter 2 | **needs-review** | T1/T2 complete; dialogue/source forms retained; T3 next |
-| 29 | 27 | body / chapter 2 | **needs-review** | T1/T2 complete; historical `லை` / `னா` confirmed; T3 next |
+| 25 | 23 | body / chapter 2 | **verified** | T1/T2/T3 PASS; 4 T3 source-representation corrections |
+| 26 | 24 | body / chapter 2 | **verified** | T1/T2/T3 PASS; 3 T3 source-representation corrections |
+| 27 | 25 | body / chapter 2 | **verified** | T1/T2/T3 PASS; 2 T3 source-representation corrections |
+| 28 | 26 | body / chapter 2 | **verified** | T1/T2/T3 PASS; 5 T3 source-representation corrections |
+| 29 | 27 | body / chapter 3 opener | **verified** | T1/T2/T3 PASS; chapter 3 restored; 3 T3 source corrections + section 2→3 metadata correction |
 | 30 | — | unclassified | **not-started** | direct visual classification pending |
 | 31 | — | unclassified | **not-started** | direct visual classification pending |
 | 32 | — | unclassified | **not-started** | direct visual classification pending |
@@ -162,12 +162,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records: **29 total — 24 `verified` + 5 `needs-review`**;
-- body T1: **scans 5–24 VERIFIED; scans 25–29 T1 COMPLETE / PASS — 5/5 `needs-review`**;
-- body T2: **scans 5–29 COMPLETE / PASS; scans 25–29 = 0 corrections; unresolved 0**;
-- body T3: **scans 5–19 COMPLETE / PASS / VERIFIED; scans 15–19 = 0 corrections**;
+- page records: **29 total — 29 `verified`**;
+- body T1: **scans 5–29 COMPLETE / PASS / VERIFIED**;
+- body T2: **scans 5–29 COMPLETE / PASS; unresolved 0**;
+- body T3: **scans 5–29 COMPLETE / PASS / VERIFIED**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T3 final source-fidelity review for scans 25–29 only; promote pages only after T3 passes; stop before scan30. Full-source/terminal reconciliation remains deferred.**
+Exact next: **perform T1 direct visual transcription for scans 30–34 only; create canonical records and stop before scan35. Full-source/terminal reconciliation remains deferred.**
