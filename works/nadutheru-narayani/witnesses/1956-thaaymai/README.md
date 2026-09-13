@@ -35,11 +35,11 @@ The 1956 witness never silently overwrites the verified 1978 canonical. Any poss
 
 ## Comparison state
 
-**IN PROGRESS — 25/26 witness scans reviewed.**
+**COMPARISON COMPLETE / PASS — 26/26 witness scans reviewed.**
 
 Completed span:
 
-- 1956 scans **34–58 / printed 32–56**
+- 1956 scans **34–59 / printed 32–57**
 - Batch 1 scans **34–38** aligned primarily against canonical 1978 scans **75–77**
 - Batch 2 scans **39–48** aligned primarily against canonical 1978 scans **78–84**
 - Batch 3 scans **49–58** aligned primarily against canonical 1978 scans **84–89**
@@ -123,8 +123,33 @@ No canonical Tamil or English was changed.
 
 All four remain **recheck-only** until the exact 1978 controlling scans are directly reopened.
 
-## Next activity
+## Final page — scan 59 / printed 57
 
-Finish the 1956 `நடுத்தெரு நாராயணி` witness with scan **59 / printed 57** (**1 page**), verify the ending and scan **60** forward boundary, then continue the same 10-page iteration with 1956 `அரும்பு` scans **60–68 / printed 58–66** (**9 pages**).
+**COMPLETE / PASS.**
 
-Total next iteration: **10 source pages — scans 59–68**.
+The final page preserves the same closing logic as the 1978 canonical:
+
+- Narayani becomes `நடுத்தெரு நாராயணி`;
+- the Narasimha Nayudu memory / mistaken killing reflection is retained;
+- the Narakasura-procession frame closes the story;
+- terminal star ornament is present.
+
+The closing page contains only ordinary spacing / punctuation / compound-joining differences; no new canonical-recheck candidate was opened.
+
+Forward boundary is clean:
+
+- scan **59 / printed 57** closes `நடுத்தெரு நாராயணி`;
+- scan **60** independently opens **`அரும்பு`**.
+
+## Final witness disposition
+
+- witness scans reviewed: **26/26**
+- narrative structure: **equivalent overall**
+- localized 1956-only dialogue line: **1**
+- canonical Tamil changed: **No**
+- canonical English changed: **No**
+- unresolved witness readings: **0**
+- canonical-recheck candidates remaining open: **4**
+- witness status: **CLOSED / PASS**
+
+The collection workflow now continues with the 1956 `அரும்பு` witness under `works/arumbu/witnesses/1956-thaaymai/`.
