@@ -21,9 +21,9 @@
 - body opening: **scan 5 VERIFIED**;
 - terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
 - prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
-- canonical body transcription: **scans 5–34 VERIFIED; scans35–39 T1/T2 COMPLETE / PASS — 5/5 needs-review pending T3**;
+- canonical body transcription: **scans 5–39 T1/T2/T3 COMPLETE / PASS / VERIFIED**;
 - historical-glyph review: **scans 5–39 T2 COMPLETE / PASS; scans35–39 = 6 corrections; unresolved 0**;
-- final source-fidelity review: **scans 5–34 T3 COMPLETE / PASS / VERIFIED; scans35–39 T3 NEXT**;
+- final source-fidelity review: **scans 5–39 T3 COMPLETE / PASS / VERIFIED; scans35–39 = 1 additional correction**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
 - English translation: **NOT STARTED / BLOCKED**.
 
@@ -64,7 +64,7 @@ Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans 35–39 only** from the attached source pixels. Confirm the six T2 corrections, complete-page fidelity, chapter transition, page endings, omissions/duplicates, update controls, and promote only pages that pass. The 198-page ingestion discrepancy remains deferred.
+Begin **T1 direct visual transcription for scans 40–44 only** from the attached source pixels. Create canonical records, preserve source wording/punctuation, mark new pages `needs-review`, update controls, and stop before T2. The 198-page ingestion discrepancy remains deferred.
 
 Do not start English or assembled Tamil work.
 
@@ -84,3 +84,4 @@ T3 audit: [`T3_AUDIT_030_034.md`](T3_AUDIT_030_034.md).
 
 Active T1 checkpoint: [`T1_BATCH_035_039.md`](T1_BATCH_035_039.md).
 T2 audit: [`T2_AUDIT_035_039.md`](T2_AUDIT_035_039.md).
+T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
