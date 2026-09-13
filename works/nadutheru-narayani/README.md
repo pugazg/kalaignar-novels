@@ -16,12 +16,12 @@ Current witness state:
 
 - 1956 source: `TVA_BOK_0064112_தாய்மை.pdf`
 - witness range: **scans 34–59 / printed 32–57**
-- reviewed: **5/26 scans — scans 34–38 / printed 32–36**
+- reviewed: **15/26 scans — scans 34–48 / printed 32–46**
 - narrative structure in reviewed span: **equivalent**
 - canonical Tamil / English changed: **No / No**
 - unresolved witness readings: **0**
-- canonical-recheck candidate: **1 — 1956 `கர்வமடக்கும்` vs current 1978 `கருவமடக்கும்`**
-- exact next: **1956 scans 39–48 / printed 37–46**.
+- canonical-recheck candidates: **2 — 1956 `கர்வமடக்கும்` vs current 1978 `கருவமடக்கும்`; 1956 `பிராமணோத்தமரே` vs current 1978 `பிராமணத் தமரே`**
+- exact next: **1956 scans 49–58 / printed 47–56**.
 
 The 1978 `அரும்பு` source remains controlling. The 1956 witness does not authorize canonical change by itself.
 
