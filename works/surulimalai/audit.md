@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 complete through scan 34**. Scans **5–34 are verified**. For scans30–34, T2 applied **4** corrections and T3 applied **2** additional source-fidelity corrections; unresolved source-form readings after T3: **0**. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **T1 complete through scan 39**. Scans **5–34 are T1/T2/T3 verified**; scans **35–39 are T1 complete / needs-review pending T2**. Visible printed pages for scans35–39 are **33–37**; scan37 introduces source-visible chapter **4** mid-page. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -305,6 +305,30 @@ Checkpoint: [`T1_BATCH_030_034.md`](T1_BATCH_030_034.md).
 T2 audit: [`T2_AUDIT_030_034.md`](T2_AUDIT_030_034.md).  
 T3 audit: [`T3_AUDIT_030_034.md`](T3_AUDIT_030_034.md).
 
+## T1 scans 35–39
+
+T1: **COMPLETE / PASS — 5/5 canonical records**.
+
+| Scan | Printed page | Record | T1 | Status |
+|---:|---:|---|---|---|
+| 35 | 33 | `pages/0035-page-33.md` | PASS | **needs-review** |
+| 36 | 34 | `pages/0036-page-34.md` | PASS | **needs-review** |
+| 37 | 35 | `pages/0037-page-35-chapter-4.md` | PASS | **needs-review** |
+| 38 | 36 | `pages/0038-page-36.md` | PASS | **needs-review** |
+| 39 | 37 | `pages/0039-page-37.md` | PASS | **needs-review** |
+
+Structural/source observations:
+
+- scans35–36 continue chapter **3**;
+- scan37 closes chapter 3 and introduces centered chapter **4** on the same physical page;
+- scan37's small bottom-left isolated number is treated as printer/signature material, not body text;
+- scans38–39 continue chapter **4**;
+- scan39 ends with சிங்காரம் beginning his response;
+- scan40 was **not opened or used**;
+- T2 difficult source-form targets are recorded in `T1_BATCH_035_039.md`.
+
+Checkpoint: [`T1_BATCH_035_039.md`](T1_BATCH_035_039.md).
+
 ## Exact next activity
 
-Begin **T1 direct visual transcription for scans 35–39 only**. Create canonical page records from source pixels, preserve source forms and punctuation, mark each new record `needs-review`, update controls, commit, and stop before T2.
+Perform **T2 independent historical-glyph/source-form review for scans 35–39 only**. Apply only source-supported corrections, retain pages `needs-review` pending T3, update controls, commit, and stop before T3.
