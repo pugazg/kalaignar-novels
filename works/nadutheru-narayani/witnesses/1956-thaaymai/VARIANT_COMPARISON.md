@@ -111,6 +111,69 @@ These are retained as witness evidence only.
   2. `பிராமணோத்தமரே` / `பிராமணத் தமரே`
 - unresolved 1956 witness reading: **0**
 
+## Batch 3 — scans 49–58 / printed 47–56
+
+**COMPLETE / PASS — 10/10 witness scans reviewed.**
+
+### Physical / textual alignment
+
+| 1956 scan / printed | Witness anchor | 1978 canonical alignment |
+|---:|---|---|
+| 49 / 47 | sacrifice request; Narayani faints and regains consciousness | canonical scan 84 → 85 |
+| 50 / 48 | Narasimha Nayudu revealed; Narayani rejects his advance | canonical scan 85 |
+| 51 / 49 | Nayudu's sermon retort / Iyarpagai example | canonical scan 85 → 86 |
+| 52 / 50 | Nayudu threatens; Krishna Iyer explains the theft case | canonical scan 86 |
+| 53 / 51 | Krishna Iyer pressures Narayani to accept Nayudu | canonical scan 86 → 87 |
+| 54 / 52 | Narayani accepts Nayudu's protection and rejects Iyer as husband | canonical scan 87 |
+| 55 / 53 | Iyer restored to temple; child / election-absence setup | canonical scan 88 |
+| 56 / 54 | Krishna Iyer returns to Narayani during Nayudu's absence | canonical scan 88 |
+| 57 / 55 | slap / confrontation / Narayani's condemnation | canonical scan 88 → 89 |
+| 58 / 56 | struggle, gunshots, Nayudu killed, police framing begins | canonical scan 89 |
+
+Overall narrative sequence remains the same. One localized 1956-only dialogue line occurs on scan 57.
+
+### Material edition variants
+
+| 1956 witness | 1978 canonical | Disposition |
+|---|---|---|
+| `நேக்காக நீ ... தியாகம் செய்வேன் னு சொன்னியே!` | `நேக்காக நீ ... தியாகம் செய்யவேணும்னு சொன்னியே!` | substantive dialogue wording variant |
+| `தனது கைகளால் வெறுப்போடு நகர்த்தினாள்` | `தனது கண்களால் வெறுப்போடு நகர்த்தினாள்` | **canonical-recheck candidate** |
+| `காமன் அனுப்பி இருந்தது போலும்!` | `காமனை அனுப்பியிருந்தது போலும்!` | case / syntax edition variant |
+| 1956 இயற்பகை நாயனார் sentence uses `புராண காலட்சேபம்` without the later `பற்றிப்` construction | 1978 recasts the clause as `இயற்பகை நாயனார் பற்றிப் புராண காலக்ஷேபம்...` | lexical / syntactic recast |
+| `ஏழெட்டு உறுப்பினர்களை விலைக்கு வாங்கி` | `ஏழெட்டு உறுப்பினர்களே விலைக்கு வாங்கி` | **canonical-recheck candidate** |
+| `என்னை உங்களிடம் ஒப்படைத்தவன் இன்று முதல்` | `என்னை உங்களிடம் ஒப்படைத்தவனே - இன்றுமுதல்` | vocative / syntax edition variant |
+| `அடி விபசாரி! உனக்கு இவ்வளவு கொழுப்பா?` | **absent** | localized 1956-only dialogue line |
+
+### Localized structural difference
+
+1956 scan **57 / printed 55** includes an explicit Krishna Iyer insult after Narayani slaps him:
+
+> `அடி விபசாரி! உனக்கு இவ்வளவு கொழுப்பா?`
+
+The verified 1978 canonical proceeds directly from the slap to Narayani's `நான் விபச்சாரிதான் அய்யரே...` response. This is a genuine edition-level dialogue omission/addition, not a line-wrap or punctuation difference.
+
+### Additional edition-style differences
+
+Examples include:
+
+- 1956 plural `இள மீசைகள்` ↔ 1978 singular `இளம் மீசை`;
+- 1956 `எது தவறினும்` ↔ 1978 `எது தவறினாலும்`;
+- 1956 `அருகாமையிலே தான்` ↔ 1978 `அருகினிலேதானிருந்தன`;
+- 1956 `தல தப்பாதுடி` ↔ 1978 `தல தப்பாதடி`;
+- ordinary joined/separated compounds and quote / dash differences.
+
+## Canonical disposition after Batch 3
+
+- canonical Tamil changed: **No**
+- canonical English changed: **No**
+- canonical verification status changed: **No**
+- canonical-recheck candidates open: **4**
+  1. `கர்வமடக்கும்` / `கருவமடக்கும்`
+  2. `பிராமணோத்தமரே` / `பிராமணத் தமரே`
+  3. `தனது கைகளால்` / `தனது கண்களால்`
+  4. `உறுப்பினர்களை` / `உறுப்பினர்களே`
+- unresolved 1956 witness reading: **0**
+
 ## Next comparison span
 
-1956 scans **49–58 / printed 47–56** — **10 source pages**.
+1956 scan **59 / printed 57** closes `நடுத்தெரு நாராயணி`; then continue into `அரும்பு` scans **60–68 / printed 58–66** so the next iteration remains **10 source pages total (scans 59–68)**.
