@@ -174,6 +174,35 @@ Examples include:
   4. `உறுப்பினர்களை` / `உறுப்பினர்களே`
 - unresolved 1956 witness reading: **0**
 
-## Next comparison span
+## Final page — scan 59 / printed 57
 
-1956 scan **59 / printed 57** closes `நடுத்தெரு நாராயணி`; then continue into `அரும்பு` scans **60–68 / printed 58–66** so the next iteration remains **10 source pages total (scans 59–68)**.
+**COMPLETE / PASS — 1/1 witness scan reviewed.**
+
+The 1956 ending aligns with the verified 1978 ending in all major narrative functions. Ordinary differences are limited to punctuation, spacing and joined/separated compounds, including forms such as `அற்ப புத்திக்கார` / `அற்பபுத்திக்கார`, `கொன்று விட்டாள்` / `கொன்றுவிட்டாள்`, and `அதனால் தான்` / `அதனால்தான்`.
+
+No new lexical block is added or omitted on the final page.
+
+Boundary:
+
+- scan **59 / printed 57** — terminal story page + star ornament;
+- scan **60** — independent `அரும்பு` opening.
+
+## Final disposition
+
+- witness scans reviewed: **26/26**
+- complete-story comparison: **PASS**
+- narrative structure: **equivalent overall**
+- localized 1956-only dialogue line: **1 — `அடி விபசாரி! உனக்கு இவ்வளவு கொழுப்பா?`**
+- canonical Tamil changed: **No**
+- canonical English changed: **No**
+- unresolved witness readings: **0**
+- canonical-recheck candidates remain open: **4**
+  1. `கர்வமடக்கும்` / `கருவமடக்கும்`
+  2. `பிராமணோத்தமரே` / `பிராமணத் தமரே`
+  3. `தனது கைகளால்` / `தனது கண்களால்`
+  4. `உறுப்பினர்களை` / `உறுப்பினர்களே`
+- witness comparison: **CLOSED / PASS**
+
+## Next collection witness
+
+1956 `அரும்பு` — scans **60–87**, with printed pages **80–81 absent from the supplied source**.
