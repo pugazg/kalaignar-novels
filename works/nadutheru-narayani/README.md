@@ -5,6 +5,26 @@
 **Source physical range:** scans **75–90**  
 **Source PDF committed:** No
 
+## Additional earlier witness — 1956 `தாய்மை`
+
+Comparison-only witness workspace:
+
+- `witnesses/1956-thaaymai/README.md`
+- `witnesses/1956-thaaymai/VARIANT_COMPARISON.md`
+
+Current witness state:
+
+- 1956 source: `TVA_BOK_0064112_தாய்மை.pdf`
+- witness range: **scans 34–59 / printed 32–57**
+- reviewed: **5/26 scans — scans 34–38 / printed 32–36**
+- narrative structure in reviewed span: **equivalent**
+- canonical Tamil / English changed: **No / No**
+- unresolved witness readings: **0**
+- canonical-recheck candidate: **1 — 1956 `கர்வமடக்கும்` vs current 1978 `கருவமடக்கும்`**
+- exact next: **1956 scans 39–48 / printed 37–46**.
+
+The 1978 `அரும்பு` source remains controlling. The 1956 witness does not authorize canonical change by itself.
+
 ## Current state
 
 - source/work identity: **REGISTERED**;
