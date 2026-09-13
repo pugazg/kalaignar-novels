@@ -1,4 +1,4 @@
-# Next Chat Prompt — சுருளிமலை / T1 scans 30–34
+# Next Chat Prompt — சுருளிமலை / T2 scans 30–34
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/surulimalai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,27 +18,30 @@ Attached `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`.
 ## Durable state
 
 - scans **5–29** are T1/T2/T3 **VERIFIED**;
-- scans25–29 T3 source-pixel review + canonical integration: **COMPLETE / PASS — 5/5**;
-- scans25–29 T3 source-representation corrections: **17 applied**;
-- scan29 derived metadata correction: **section/chapter 2 → 3 applied**;
-- scan29 / printed27 begins source-visible chapter **3**;
-- unresolved historical/source-form readings: **0**;
-- omissions / duplicated body spans after T3 scans25–29: **0 / 0**;
-- scan30 was not opened during the closed scans25–29 checkpoint.
+- scans **30–34** T1: **COMPLETE / PASS — 5/5**;
+- scans30–34 canonical records exist and remain **`needs-review`**;
+- visible printed pages: **28–32**;
+- chapter **3** continues throughout the batch;
+- scan34 ends at `அதில்`;
+- scan35 was **not opened**;
+- T2 scans30–34: **NEXT**;
+- T3 scans30–34: **NOT STARTED**.
 
-Completed checkpoint: `works/surulimalai/T1_BATCH_025_029.md`.
+Active checkpoint: `works/surulimalai/T1_BATCH_030_034.md`.
 
 ## Exact next activity
 
-Perform **T1 direct visual transcription for scans30–34 only**:
+Perform **T2 independent historical-glyph/source-form review for scans30–34 only**:
 
-- inspect complete source pixels for scans30–34;
-- create canonical page records with visible printed-page numbers and chapter metadata only when source-visible;
-- preserve source spelling, punctuation, paragraph boundaries, dialogue structure, and page endings;
-- do not normalize or silently repair uncertain readings;
-- record uncertain source readings explicitly as `needs-review`;
-- update `README.md`, `indexes/page-map.md`, `audit.md`, `HANDOVER.md`, and this prompt;
+- independently re-read the full source pixels for all five scans;
+- explicitly audit difficult historical glyph/source-form clusters;
+- verify the T1 targets listed in `T1_BATCH_030_034.md`;
+- apply only source-supported corrections;
+- record a T2 correction ledger and unresolved count;
+- keep all pages `needs-review` pending T3;
+- update `T1_BATCH_030_034.md`, `README.md`, `indexes/page-map.md`, `audit.md`, `HANDOVER.md`, and this prompt;
 - commit the batch;
-- **stop before scan35**.
+- **do not open scan35**;
+- **do not begin T3 in the same activity**.
 
-Do not begin T2/T3 for scans30–34 in the same activity unless separately requested. The 198-page ingestion/terminal-boundary issue remains deferred.
+The 198-page ingestion/terminal-boundary issue remains deferred.
