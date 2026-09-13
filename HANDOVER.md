@@ -22,22 +22,22 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 ## Durable state
 
 - scans **5–34 T1/T2/T3: VERIFIED**;
-- scans **30–34 T2 corrections: 4**;
-- scans **30–34 T3 additional corrections: 2**;
-- unresolved source-form readings after T3: **0**;
-- visible printed pages scans30–34: **28–32**;
-- chapter **3** continues through scans30–34;
-- scan34 ends at source fragment `அதில்`;
-- scan35 was **not opened or used** during closure;
-- scans35–39: **NOT STARTED / T1 NEXT**;
+- scans **35–39 T1: COMPLETE / PASS — 5/5**;
+- scans35–39 canonical records: **5/5 needs-review pending T2**;
+- visible printed pages scans35–39: **33–37**;
+- scans35–36 continue chapter **3**;
+- scan37 contains the source-visible chapter **4** transition;
+- scans38–39 continue chapter **4**;
+- scan40 was **not opened or used**;
+- T2 scans35–39: **NEXT**;
+- T3 scans35–39: **NOT STARTED**;
 - terminal/full-198-page issue remains **DEFERRED**.
 
 Completed checkpoint: `works/surulimalai/T1_BATCH_030_034.md`.  
-T2 audit: `works/surulimalai/T2_AUDIT_030_034.md`.  
-T3 audit: `works/surulimalai/T3_AUDIT_030_034.md`.
+Active checkpoint: `works/surulimalai/T1_BATCH_035_039.md`.
 
 ## Exact next activity
 
-Perform **T1 direct visual transcription for scans35–39 only** from the controlling source. Create canonical page records, preserve source forms/punctuation without normalization, mark each new page `needs-review` pending T2, update controls, and commit.
+Perform **T2 independent historical-glyph/source-form review for scans35–39 only** from the controlling source. Re-read all five scans independently, resolve source-form targets, apply only source-supported corrections, record corrections/unresolved count, keep pages needs-review pending T3, update controls, and commit.
 
-Do **not** begin T2 in the same activity. The 198-page ingestion/terminal-boundary issue remains deferred.
+Do **not** open scan40 and do **not** begin T3 in the same activity. The 198-page ingestion/terminal-boundary issue remains deferred.
