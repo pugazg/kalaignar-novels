@@ -31,10 +31,9 @@ Open:
 - SHA-256 checksum;
 - complete-source / terminal reconciliation against a full **198-page** representation;
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
-- T3 final source-fidelity review for scans 30–34;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2 complete through scan 34**. Scans **5–29 are T1/T2/T3 verified**; scans **30–34 are `needs-review` pending T3**. T2 corrections for scans30–34: **4**; unresolved historical/source-form readings: **0**. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **T1/T2/T3 complete through scan 34**. Scans **5–34 are verified**. For scans30–34, T2 applied **4** corrections and T3 applied **2** additional source-fidelity corrections; unresolved source-form readings after T3: **0**. No OCR output or external transcription has been accepted as source authority.
 
 ## Source-ingestion correction
 
@@ -273,31 +272,39 @@ T3 closure:
 Checkpoint: [`T1_BATCH_025_029.md`](T1_BATCH_025_029.md).  
 T3 addendum: [`T3_AUDIT_025_029.md`](T3_AUDIT_025_029.md).
 
-## T1/T2 scans 30–34
+## T1/T2/T3 scans 30–34
 
-T1: **COMPLETE / PASS — 5/5 canonical records**.  
-T2: **COMPLETE / PASS — 5/5; 4 corrections; unresolved 0**.
+T1: **COMPLETE / PASS — 5/5**.  
+T2: **COMPLETE / PASS — 5/5; 4 corrections; unresolved 0**.  
+T3: **COMPLETE / PASS — 5/5 VERIFIED; 2 additional corrections**.
 
-| Scan | Printed page | Record | T1 | Final after T1 |
-|---:|---:|---|---|---|
-| 30 | 28 | `pages/0030-page-28.md` | PASS | **needs-review** |
-| 31 | 29 | `pages/0031-page-29.md` | PASS | **needs-review** |
-| 32 | 30 | `pages/0032-page-30.md` | PASS | **needs-review** |
-| 33 | 31 | `pages/0033-page-31.md` | PASS | **needs-review** |
-| 34 | 32 | `pages/0034-page-32.md` | PASS | **needs-review** |
+| Scan | Printed page | Record | T1 | T2 | T3 | Final |
+|---:|---:|---|---|---|---|---|
+| 30 | 28 | `pages/0030-page-28.md` | PASS | PASS | PASS | **verified** |
+| 31 | 29 | `pages/0031-page-29.md` | PASS | PASS | PASS | **verified** |
+| 32 | 30 | `pages/0032-page-30.md` | PASS | PASS | PASS | **verified** |
+| 33 | 31 | `pages/0033-page-31.md` | PASS | PASS | PASS | **verified** |
+| 34 | 32 | `pages/0034-page-32.md` | PASS | PASS | PASS | **verified** |
 
-Structural/source observations:
+T3 closure confirmed:
 
-- chapter **3** continues through all five scans;
-- visible printed pages are **28–32**;
-- scan33 dialogue is answered at the opening of scan34;
-- scan34 begins மைனாவின் autobiographical account;
-- scan34 ends at `அதில்`;
-- scan35 was not opened or used;
-- source-specific/historical forms remain queued for independent T2 review.
+- visible printed pages **28–32**;
+- chapter **3** continues through the batch;
+- scan30 additional source-form correction: `விருப்பவில்லை`;
+- scan31 additional source-form correction: `கூறினன்`;
+- scan32 T2-integrated correction re-confirmed with no further change;
+- scan33 T2-integrated correction re-confirmed with no further change;
+- scan34 both T2-integrated corrections re-confirmed with no further change;
+- scan30→31, scan31→32, scan32→33, and scan33→34 continuity preserved without silently joining physical pages;
+- scan34 physical page ends exactly at `அதில்`;
+- omissions / duplicate body spans: **0 / 0**;
+- unresolved source-form readings after T3: **0**;
+- scan35 was **not opened or used**.
 
-Checkpoint: [`T1_BATCH_030_034.md`](T1_BATCH_030_034.md).
+Checkpoint: [`T1_BATCH_030_034.md`](T1_BATCH_030_034.md).  
+T2 audit: [`T2_AUDIT_030_034.md`](T2_AUDIT_030_034.md).  
+T3 audit: [`T3_AUDIT_030_034.md`](T3_AUDIT_030_034.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans 30–34 only**. Promote pages only after complete source-fidelity passes, update controls, commit, and stop before scan35.
+Begin **T1 direct visual transcription for scans 35–39 only**. Create canonical page records from source pixels, preserve source forms and punctuation, mark each new record `needs-review`, update controls, commit, and stop before T2.
