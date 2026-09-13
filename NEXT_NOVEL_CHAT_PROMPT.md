@@ -1,4 +1,4 @@
-# Next Chat Prompt — சுருளிமலை / T1 scans 35–39
+# Next Chat Prompt — சுருளிமலை / T2 scans 35–39
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/surulimalai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -9,30 +9,31 @@ Attached `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`.
 ## Durable state
 
 - scans **5–34** are T1/T2/T3 **VERIFIED**;
-- scans30–34 T2 corrections: **4**;
-- scans30–34 T3 additional corrections: **2**;
-- unresolved source-form readings after T3: **0**;
-- visible printed pages through scan34: **28–32** for scans30–34;
-- chapter **3** continues through scan34;
-- scan34 ends at `அதில்`;
-- scan35 was **not opened** during the previous checkpoint;
-- scans35–39: **T1 NEXT**;
-- T2/T3 scans35–39: **NOT STARTED**.
+- scans **35–39** T1: **COMPLETE / PASS — 5/5**;
+- scans35–39 canonical records: **5/5 needs-review**;
+- visible printed pages: **33–37**;
+- scans35–36 remain in chapter **3**;
+- scan37 closes chapter 3 and begins source-visible chapter **4** mid-page;
+- scans38–39 continue chapter **4**;
+- scan40 was **not opened**;
+- T2 scans35–39: **NEXT**;
+- T3 scans35–39: **NOT STARTED**.
 
-Completed checkpoint: `works/surulimalai/T1_BATCH_030_034.md`.  
-T3 audit: `works/surulimalai/T3_AUDIT_030_034.md`.
+Active checkpoint: `works/surulimalai/T1_BATCH_035_039.md`.
 
 ## Exact next activity
 
-Perform **T1 direct visual transcription for scans35–39 only**:
+Perform **T2 independent historical-glyph/source-form review for scans35–39 only**:
 
-- open and independently read scans35–39 from source pixels;
-- identify visible printed-page numbers and chapter/structural context;
-- create one canonical page record per physical scan;
-- preserve source wording, colloquial forms, punctuation and page endings without normalization;
-- mark every new page `needs-review` pending T2;
-- create/update the five-scan checkpoint and repository controls;
-- commit;
-- stop before T2.
+- independently re-read all five complete source scans;
+- verify the T1 target forms listed in the checkpoint;
+- verify the chapter-4 transition on scan37 and the bottom-left printer/signature mark;
+- apply only source-supported corrections;
+- record a T2 correction ledger and unresolved count;
+- keep all five pages needs-review pending T3;
+- update checkpoint, README, page-map, audit, handover, and this prompt;
+- commit the batch;
+- **do not open scan40**;
+- **do not begin T3 in the same activity**.
 
 The 198-page ingestion/terminal-boundary issue remains deferred.
