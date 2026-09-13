@@ -18,13 +18,15 @@ Current witness state:
 - witness physical range: **scans 60–87**
 - witness printed pages: **58–79**, then **82–87**
 - source limitation: **printed pages 80–81 absent**
-- reviewed: **9/28 scans — scans 60–68 / printed 58–66**
-- narrative structure in reviewed span: **equivalent**
-- material edition variants recorded: **5**
+- reviewed: **28/28 physical scans — CLOSED FOR ALL SOURCE-VISIBLE PAGES**
+- visible narrative structure: **equivalent outside the documented 1956 source gap**
+- material edition variants recorded: **11**
 - canonical Tamil / English changed: **No / No**
 - unresolved witness readings: **0**
 - canonical-recheck candidates open: **0**
-- exact next: **1956 scans 69–78 / printed 67–76 — 10 source pages**.
+- 1956 independently confirms protected `எனக்குப் பொய் அம்மா வேணும்!` and `பேசினேன்`
+- 1956 final page preserves the same `இரு இலை, ஒரு மொட்டு` ending image and carries a terminal star
+- exact next for this witness: **none — visible comparison closed; printed pages 80–81 remain absent from the 1956 source**.
 
 The 1978 source remains controlling. Do not reconstruct missing 1956 printed pages 80–81 from the later edition.
 
