@@ -22,22 +22,23 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 ## Durable state
 
 - scans **5–34 T1/T2/T3: VERIFIED**;
-- scans **35–39 T1: COMPLETE / PASS — 5/5**;
-- scans35–39 canonical records: **5/5 needs-review pending T2**;
+- scans **35–39 T1/T2: COMPLETE / PASS — 5/5**;
+- T2 corrections scans35–39: **6**;
+- unresolved historical/source-form readings after T2: **0**;
+- scans35–39 canonical records: **5/5 needs-review pending T3**;
 - visible printed pages scans35–39: **33–37**;
 - scans35–36 continue chapter **3**;
-- scan37 contains the source-visible chapter **4** transition;
+- scan37 closes chapter 3 and begins source-visible chapter **4** mid-page;
 - scans38–39 continue chapter **4**;
 - scan40 was **not opened or used**;
-- T2 scans35–39: **NEXT**;
-- T3 scans35–39: **NOT STARTED**;
+- T3 scans35–39: **NEXT**;
 - terminal/full-198-page issue remains **DEFERRED**.
 
-Completed checkpoint: `works/surulimalai/T1_BATCH_030_034.md`.  
-Active checkpoint: `works/surulimalai/T1_BATCH_035_039.md`.
+Active checkpoint: `works/surulimalai/T1_BATCH_035_039.md`.  
+T2 audit: `works/surulimalai/T2_AUDIT_035_039.md`.
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph/source-form review for scans35–39 only** from the controlling source. Re-read all five scans independently, resolve source-form targets, apply only source-supported corrections, record corrections/unresolved count, keep pages needs-review pending T3, update controls, and commit.
+Perform **T3 final source-fidelity review for scans35–39 only** from the controlling source. Re-check complete page fidelity, paragraph/dialogue boundaries, visible page numbers, scan37 chapter transition, page endings, the six T2-integrated corrections, and omissions/duplicates. Promote each page to `verified` only after it passes.
 
-Do **not** open scan40 and do **not** begin T3 in the same activity. The 198-page ingestion/terminal-boundary issue remains deferred.
+**Do not open scan40.** The 198-page ingestion/terminal-boundary issue remains deferred.
