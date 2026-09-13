@@ -247,43 +247,33 @@ All scans 20–24 are now **VERIFIED**.
 
 Checkpoint: [`T1_BATCH_020_024.md`](T1_BATCH_020_024.md).
 
-## T1/T2 scans 25–29
+## T1/T2/T3 scans 25–29
 
-T1: **COMPLETE / PASS — 5/5 canonical records**.  
-T2: **COMPLETE / PASS — 5/5; 0 corrections; unresolved historical/source-form readings 0**.
+T1: **COMPLETE / PASS — 5/5**.  
+T2: **COMPLETE / PASS — 5/5; 0 corrections; unresolved historical/source-form readings 0**.  
+T3: **COMPLETE / PASS — 5/5 VERIFIED**.
 
-| Scan | Printed page | Record | T1 |
-|---:|---:|---|---|
-| 25 | 23 | `pages/0025-page-23.md` | PASS / needs-review |
-| 26 | 24 | `pages/0026-page-24.md` | PASS / needs-review |
-| 27 | 25 | `pages/0027-page-25.md` | PASS / needs-review |
-| 28 | 26 | `pages/0028-page-26.md` | PASS / needs-review |
-| 29 | 27 | `pages/0029-page-27.md` | PASS / needs-review |
+| Scan | Printed page | Record | T1 | T2 | T3 | Final |
+|---:|---:|---|---|---|---|---|
+| 25 | 23 | `pages/0025-page-23.md` | PASS | PASS | PASS | **verified** |
+| 26 | 24 | `pages/0026-page-24.md` | PASS | PASS | PASS | **verified** |
+| 27 | 25 | `pages/0027-page-25.md` | PASS | PASS | PASS | **verified** |
+| 28 | 26 | `pages/0028-page-26.md` | PASS | PASS | PASS | **verified** |
+| 29 | 27 | `pages/0029-page-27.md` | PASS | PASS | PASS | **verified** |
 
-Structural/source observations:
+T3 closure:
 
-- scan24→25: `அதைத்` / `தூக்குவதும்`;
-- scan25→26: `வேகத்` / `தில்`;
-- scan26 direct speech crosses to scan27 and closes after `மைனாவாம்!`;
-- scan27 ends `ஏதாவது`; scan28 begins `எதிரொலி`;
-- scan28 ends with `“யாரது? நில்!” என்று கத்தினாள்.`;
-- scan29 continues the night scene and ends after `அவனை ஒருமுறை பார்த்தாள்.`;
-- scan30 was not opened;
-- difficult historical/source-form and punctuation clusters were independently re-read in T2 from source pixels only.
+- source-representation corrections applied: **17** total;
+- derived metadata corrections applied: **1**;
+- scan29 / printed27 is the source-visible chapter **3** opener;
+- omissions / duplicated body spans after T3: **0 / 0**;
+- unresolved historical/source-form readings: **0**;
+- cross-page continuity through scan29 confirmed;
+- scan30 was not opened during this checkpoint.
 
-T2 confirmed without change:
-
-- scan25 — `பசியெடுத்தக்`, `“காதல்”`, `“சோச்சி”`, `“மியாவ்”`, terminal `வேகத்`;
-- scan26 — `“களுக்”`, `அபசகுனம்`, `காப்பாத்தும்மா`, `அங்குமிங்கும்`, `நிர்வாகியொருவரிடம்`, `விபரங் கேட்கச்`;
-- scan27 — `அடுத்தவீட்டு எதிர்த்த வீட்டுப்`, `பெண்களோடுகூட`, `“சிடு மூஞ்சி”`, `வேண்டிய மட்டும்`, `தாழ்ப்பாள்தான்`, source punctuation at `காரணம்;` and `பிறக்கிறது—அதோடு`;
-- scan28 — `“ஸ்! அதான் தின்னுட்டியே... தூங்கு! தூங்கு!”`, `பிறகேன்`, `நா எழவில்லை`, `பள பள வென்று`, `விருட்டெனப்`;
-- scan29 — `சாவதானமாக`, `அவளையறியாமல்`, `அதிர்ச்சியிலேகூட`, `யாருமில்லை`, `எனத்தெரிந்த`, `நாக்கு குழறிற்று`, `திடும் பிரவேசத்தால்`; historical `லை` / `னா` identities re-confirmed; em-dash/quotation structures retained.
-
-T2 text corrections: **0**.  
-Unresolved historical/source-form readings after T2: **0**.
-
-Checkpoint: [`T1_BATCH_025_029.md`](T1_BATCH_025_029.md).
+Checkpoint: [`T1_BATCH_025_029.md`](T1_BATCH_025_029.md).  
+T3 addendum: [`T3_AUDIT_025_029.md`](T3_AUDIT_025_029.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans 25–29 only** from the attached PDF/source pixels. Check full-page fidelity, promote only pages that pass, update controls, commit, and stop before scan30. The full-source/terminal issue remains deferred.
+Perform **T1 direct visual transcription for scans 30–34 only**, create canonical page records, update controls, commit, and stop before scan35. The full-source/terminal issue remains deferred.
