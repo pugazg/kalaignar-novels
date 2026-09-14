@@ -33,7 +33,26 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 complete through scan 39**. Scans **5–39 are verified**. For scans35–39, T2 applied **6** corrections and T3 applied **1** additional correction; unresolved source-form readings after T3: **0**. Visible printed pages are **33–37** and scan37 contains the source-visible chapter **4** transition. No OCR output or external transcription has been accepted as source authority.
+Canonical body transcription is **T1 complete through scan 44**. Scans **5–39 are T1/T2/T3 verified**; scans **40–44 are T1 COMPLETE / PASS and remain `needs-review` pending T2**. For scans35–39, T2 applied **6** corrections and T3 applied **1** additional correction; unresolved source-form readings after completed T3: **0**. Scans40–44 map to printed pages **38–42** and continue chapter **4**. No OCR output or external transcription is accepted as source authority.
+
+
+## Scans 40–44 T1 gate
+
+Status: **COMPLETE / PASS — 5/5**.
+
+| Scan | Printed page | Structure | T1 | Status |
+|---:|---:|---|---|---|
+| 40 | 38 | body / chapter 4 | PASS | **needs-review** |
+| 41 | 39 | body / chapter 4 | PASS | **needs-review** |
+| 42 | 40 | body / chapter 4 | PASS | **needs-review** |
+| 43 | 41 | body / chapter 4 | PASS | **needs-review** |
+| 44 | 42 | body / chapter 4 | PASS | **needs-review** |
+
+- five canonical page records created from direct source-pixel reading;
+- scan39→40 continuation and all five physical page endings preserved;
+- scan45 was **not opened or used**;
+- T2/T3 for scans40–44 remain **NOT STARTED**;
+- next gate: **T2 independent historical-glyph/source-form review for scans40–44 only**.
 
 ## Source-ingestion correction
 

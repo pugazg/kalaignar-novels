@@ -46,9 +46,11 @@ No bibliographic value above is inferred from the filename alone.
 - scans 23–24 — T1/T2/T3 complete / **verified**; visible printed pages **21–22**;
 - T2 scans 20–24: **COMPLETE / PASS — 5/5; 0 corrections; unresolved historical/source-form readings 0**;
 - T3 scans 20–24: **COMPLETE / PASS — 5/5 VERIFIED; 0 additional corrections**;
-- scans 25–29 — T1/T2 complete / `needs-review`; visible printed pages **23–27**; all continue chapter 2;
-- T2 scans 25–29: **COMPLETE / PASS — 5/5; 0 corrections; unresolved historical/source-form readings 0**;
-- scans 30–144 — not yet fully page-mapped in this intake checkpoint;
+- scans 25–29 — T1/T2/T3 complete / **verified**; visible printed pages **23–27**;
+- scans 30–34 — T1/T2/T3 complete / **verified**; visible printed pages **28–32**;
+- scans 35–39 — T1/T2/T3 complete / **verified**; visible printed pages **33–37**; scan37 contains chapter **3→4** transition; scans35–39 T2 corrections **6**, T3 additional corrections **1**;
+- scans 40–44 — T1 complete / **needs-review** pending T2; visible printed pages **38–42**; chapter **4** continues; scan45 not opened;
+- scans 45–144 — not yet fully page-mapped in this intake checkpoint;
 - current Files parser exposes pages **1–150 only** for a source known to contain **198 pages**;
 - previous terminal mapping based on that representation is **invalidated**;
 - no claim about page 198, narrative ending, or back cover is currently durable from this parser view.
@@ -80,26 +82,13 @@ The user supplied a descriptive synopsis mentioning கரகாட்டம்,
 
 ## Open intake items
 
-1. compute and record the PDF SHA-256;
-2. obtain/use a **full 198-page representation of the same source copy**;
-3. invalidate and later redo terminal-boundary mapping against the complete representation;
-4. **scans 5–9 T1/T2/T3 COMPLETE / PASS — 5/5 VERIFIED**;
-5. **T2 independent historical-glyph review for scans 5–9 is COMPLETE / PASS — 5/5; 1 correction; unresolved historical glyphs 0**;
-6. **T3 final source-fidelity review for scans 5–9 is COMPLETE / PASS — 5/5 VERIFIED; 6 corrections**;
-7. **T1 scans 10–14 is COMPLETE / PASS — 5/5 canonical records, all `needs-review`**;
-8. **T2 independent historical-glyph/source-form review for scans 10–14 is COMPLETE / PASS — 5/5; 2 corrections; unresolved 0**;
-9. **T3 final source-fidelity review for scans 10–14 is COMPLETE / PASS — 5/5 VERIFIED; 3 corrections**;
-10. **T1 scans 15–19 is COMPLETE / PASS — 5/5 canonical records, all `needs-review`**;
-11. **T2 independent historical-glyph/source-form review for scans 15–19 is COMPLETE / PASS — 5/5; 5 corrections; unresolved 0**;
-12. **T3 final source-fidelity review for scans 15–19 is COMPLETE / PASS — 5/5 VERIFIED; 0 additional corrections**;
-13. **T1 scans 20–24 is COMPLETE / PASS — 5/5 canonical records, all `needs-review`**;
-14. **T2 independent historical-glyph/source-form review for scans 20–24 is COMPLETE / PASS — 5/5; 0 corrections; unresolved 0**;
-15. **T3 final source-fidelity review for scans 20–24 is COMPLETE / PASS — 5/5 VERIFIED; 0 additional corrections**;
-16. **T1 scans 25–29 is COMPLETE / PASS — 5/5 canonical records, all `needs-review`**;
-17. **T2 independent historical-glyph/source-form review for scans 25–29 is COMPLETE / PASS — 5/5; 0 corrections; unresolved 0**;
-18. **T3 final source-fidelity review for scans 25–29 is NEXT**;
-19. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
-20. do not infer source extent from the current Files parser's `num_pages: 150`.
-
+1. compute and record the PDF SHA-256 when the full source can be handled reliably;
+2. obtain/use a **full 198-page representation of the same source copy** for terminal reconciliation;
+3. scans **5–39 T1/T2/T3 COMPLETE / VERIFIED**;
+4. scans **40–44 T1 COMPLETE / PASS — 5/5 `needs-review`**;
+5. scans40–44 T2/T3: **NOT STARTED**;
+6. exact next: **T2 independent historical-glyph/source-form review for scans40–44 only**;
+7. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
+8. do not infer source extent from the current Files parser's `num_pages: 150`.
 
 Terminal-boundary audit: [`../TERMINAL_BOUNDARY_AUDIT.md`](../TERMINAL_BOUNDARY_AUDIT.md).
