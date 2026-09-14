@@ -45,11 +45,11 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 37 | 35 | body / chapter 3→4 transition | **verified** | T1/T2/T3 PASS; 3 T2 + 0 T3 corrections; centered chapter no. 4; bottom-left small 3 non-body |
 | 38 | 36 | body / chapter 4 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections |
 | 39 | 37 | body / chapter 4 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; scan40 not opened |
-| 40 | 38 | body / chapter 4 | **needs-review** | T1 PASS; T2/T3 not started |
-| 41 | 39 | body / chapter 4 | **needs-review** | T1 PASS; T2/T3 not started |
-| 42 | 40 | body / chapter 4 | **needs-review** | T1 PASS; T2/T3 not started |
-| 43 | 41 | body / chapter 4 | **needs-review** | T1 PASS; T2/T3 not started |
-| 44 | 42 | body / chapter 4 | **needs-review** | T1 PASS; T2/T3 not started |
+| 40 | 38 | body / chapter 4 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
+| 41 | 39 | body / chapter 4 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
+| 42 | 40 | body / chapter 4 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
+| 43 | 41 | body / chapter 4 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
+| 44 | 42 | body / chapter 4 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
 | 45 | — | unclassified | **not-started** | direct visual classification pending |
 | 46 | — | unclassified | **not-started** | direct visual classification pending |
 | 47 | — | unclassified | **not-started** | direct visual classification pending |
@@ -164,10 +164,10 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - parser completeness: **FAIL / TRUNCATED VIEW**;
 - page records: **44 total — 39 `verified` + 5 `needs-review`**;
 - body T1: **scans 5–44 COMPLETE / PASS**;
-- body T2: **scans 5–39 COMPLETE / PASS; scans40–44 NOT STARTED; scans35–39 = 6 corrections; unresolved 0 through completed T2**;
+- body T2: **scans 5–44 COMPLETE / PASS; scans35–39 = 6 corrections; scans40–44 = 0 corrections; unresolved 0 through scan44**;
 - body T3: **scans 5–39 COMPLETE / PASS / VERIFIED; scans40–44 NOT STARTED; scans35–39 = 1 additional correction**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **begin T2 independent historical-glyph/source-form review for scans 40–44 only; apply only source-proven corrections and stop before T3. Full-source/terminal reconciliation remains deferred.**
+Exact next: **begin T3 final source-fidelity review for scans 40–44 only; check every word/punctuation mark, omissions/duplications, page boundaries, and scan39→40 continuity; stop before scans45–49. Full-source/terminal reconciliation remains deferred.**

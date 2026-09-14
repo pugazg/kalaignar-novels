@@ -21,8 +21,8 @@
 - body opening: **scan 5 VERIFIED**;
 - terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
 - prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
-- canonical body transcription: **T1 scans 5–44 COMPLETE / PASS; scans 5–39 T2/T3 COMPLETE / VERIFIED; scans40–44 needs-review pending T2**;
-- historical-glyph review: **scans 5–39 T2 COMPLETE / PASS; scans35–39 = 6 corrections; unresolved 0**;
+- canonical body transcription: **T1 scans 5–44 COMPLETE / PASS; scans 5–39 T2/T3 COMPLETE / VERIFIED; scans40–44 T2 COMPLETE / PASS and remain needs-review pending T3**;
+- historical-glyph review: **scans 5–44 T2 COMPLETE / PASS; scans35–39 = 6 corrections; scans40–44 = 0 corrections; unresolved 0 through scan44**;
 - final source-fidelity review: **scans 5–39 T3 COMPLETE / PASS / VERIFIED; scans35–39 = 1 additional correction**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
 - English translation: **NOT STARTED / BLOCKED**.
@@ -55,7 +55,7 @@ The user supplied the following catalogue-style description for project context.
 - scans 35–36 — chapter 3 body; T1/T2/T3 complete / **verified**; visible printed pages **33–34**;
 - scan 37 — printed page **35**; T1/T2/T3 complete / **verified**; chapter **4** begins mid-page after the closing chapter-3 paragraphs;
 - scans 38–39 — chapter 4 body; T1/T2/T3 complete / **verified**; visible printed pages **36–37**;
-- scans 40–44 — chapter 4 body; T1 complete / **needs-review** pending T2; visible printed pages **38–42**; scan45 not opened;
+- scans 40–44 — chapter 4 body; T1/T2 complete / **needs-review** pending T3; T2 corrections **0**; visible printed pages **38–42**; scan45 not opened;
 - current parser exposes only pages **1–150** although the same source copy has **198 pages**;
 - therefore no terminal/body-boundary claim from pages 140–150 is durable;
 - full 198-page source view is required before terminal mapping or closure.
@@ -65,7 +65,7 @@ Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Begin **T2 independent historical-glyph/source-form review for scans 40–44 only** from the controlling source pixels. Apply only source-proven corrections, keep unresolved readings explicit, update controls, and stop before T3. The 198-page ingestion discrepancy remains deferred.
+Begin **T3 final source-fidelity review for scans 40–44 only** from the attached source pixels. Re-check every word/punctuation mark, omission/duplication risk, page boundaries, and scan39→40 continuity; apply only source-proven corrections, update controls, and freeze the five pages if clean. The 198-page ingestion discrepancy remains deferred.
 
 Do not start English or assembled Tamil work.
 
@@ -86,4 +86,5 @@ T3 audit: [`T3_AUDIT_030_034.md`](T3_AUDIT_030_034.md).
 Completed T1/T2/T3 checkpoint: [`T1_BATCH_035_039.md`](T1_BATCH_035_039.md).  
 T2 audit: [`T2_AUDIT_035_039.md`](T2_AUDIT_035_039.md).  
 T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).  
-Active T1 checkpoint: [`T1_BATCH_040_044.md`](T1_BATCH_040_044.md).
+Active T1/T2 checkpoint: [`T1_BATCH_040_044.md`](T1_BATCH_040_044.md).  
+T2 audit: [`T2_AUDIT_040_044.md`](T2_AUDIT_040_044.md).

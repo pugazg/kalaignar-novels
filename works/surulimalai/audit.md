@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1 complete through scan 44**. Scans **5–39 are T1/T2/T3 verified**; scans **40–44 are T1 COMPLETE / PASS and remain `needs-review` pending T2**. For scans35–39, T2 applied **6** corrections and T3 applied **1** additional correction; unresolved source-form readings after completed T3: **0**. Scans40–44 map to printed pages **38–42** and continue chapter **4**. No OCR output or external transcription is accepted as source authority.
+Canonical body transcription is **T1 complete through scan 44**. Scans **5–39 are T1/T2/T3 verified**; scans **40–44 are T1/T2 COMPLETE / PASS and remain `needs-review` pending T3**. For scans35–39, T2 applied **6** corrections and T3 applied **1** additional correction; scans40–44 T2 applied **0** corrections with **0 unresolved** historical/source-form readings. Scans40–44 map to printed pages **38–42** and continue chapter **4**. No OCR output or external transcription is accepted as source authority.
 
 
 ## Scans 40–44 T1 gate
@@ -51,8 +51,21 @@ Status: **COMPLETE / PASS — 5/5**.
 - five canonical page records created from direct source-pixel reading;
 - scan39→40 continuation and all five physical page endings preserved;
 - scan45 was **not opened or used**;
-- T2/T3 for scans40–44 remain **NOT STARTED**;
-- next gate: **T2 independent historical-glyph/source-form review for scans40–44 only**.
+- T2 for scans40–44: **COMPLETE / PASS — 5/5; 0 corrections; unresolved 0**;
+- T3 for scans40–44: **NOT STARTED**;
+- next gate: **T3 final source-fidelity review for scans40–44 only**.
+
+## Scans 40–44 T2 gate
+
+Status: **COMPLETE / PASS — 5/5**.
+
+- independent source-pixel historical-glyph/source-form re-read completed on all five scans;
+- mandatory glyph families checked wherever applicable;
+- T2 text corrections: **0**;
+- unresolved historical/source-form readings after T2: **0**;
+- all five records remain **needs-review** pending T3;
+- scan45 was not opened or used;
+- T2 audit: [`T2_AUDIT_040_044.md`](T2_AUDIT_040_044.md).
 
 ## Source-ingestion correction
 
