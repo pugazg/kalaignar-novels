@@ -7,7 +7,7 @@ page_type: "body / chapter transition"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "user-supplied extracted-text baseline aligned against controlling split source scan pixels; T1 complete"
+transcription_method: "user-supplied extracted-text baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete"
 ---
 
 தெருக்கதவு திறக்கப்பட்டது. சிங்காரம் நன்றியோடு பொன்மணியைப் பார்த்து விட்டு வீட்டை விட்டு வெளியேறினான். பொன்மணி, கதவைத் தாளிட்டுவிட்டு தன் இடத்திற்கு வந்து படுத்தாள்.
@@ -28,7 +28,7 @@ transcription_method: "user-supplied extracted-text baseline aligned against con
 
 பொன்மணி, பூஞ்சோலை இருவரும் போட்ட கூச்சலில் தூரத்திலேயுள்ள வீடுகளிலே இருந்து ஒரு சிலர் விளக்குகளுடன் ஓடிவந்தனர். அப்போதுதான் வீட்டை விட்டு வெளியேறிய தீச்சட்டி சிங்காரம் சப்தத்தைக் கேட்டுப் பதைப்போடு திரும்பினான். என்றாலும் ஒரு மரத்தடியில் ஒளிந்து நடப்பதைக் கவனித்தான். ஏனெனில் ஒரு வேளை தான் ஓடிவந்ததைத்தான் பூஞ்சோலை தெரிந்துகொண்டு கத்துகிறாளோ என்ற அச்சம் அவனுக்கு. திரும்பி வந்து மீண்டும் அவர்களிடையே சிக்கிக்கொண்டு அவஸ்தைப்பட அவன் தயாராயில்லை.
 
-அதற்குள் பக்கத்துத் தெருவினர் வீட்டு முன்னே கூடிவிட்ட
+அதற்குள் பக்கத்துத் தெருவினர் வீட்டு முன்னே கூடிவிட்
 ## T1 direct-transcription notes
 
 - physical scan **91** / visible printed page **89** transcribed from the user-supplied source-readable split `TVA_BOK_0064107_சுருளிமலை_1968_part_004_pages_91-120.pdf`;
@@ -40,4 +40,14 @@ transcription_method: "user-supplied extracted-text baseline aligned against con
 - source-looking spellings, punctuation, joins, and historical glyphs are left for independent T2 review rather than context-normalized;
 - page status: **needs-review** pending T2.
 
-<!-- source physical scan: 91; visible printed page: 89; ends: கூடிவிட்ட; T1 COMPLETE / NEEDS-REVIEW -->
+## T2 independent historical-glyph/source-form notes
+
+- complete physical scan independently re-checked against the controlling source pixels;
+- mandatory historical-glyph families checked wherever applicable: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- source-visible chapter marker **12** and source form `ஒலியில்லை` re-confirmed;
+- page-boundary correction leaves scan91 ending `கூடிவிட்`;
+- T2 text corrections: **1**;
+- unresolved historical/source-form readings after T2: **0**;
+- page remains **needs-review** pending T3.
+
+<!-- source physical scan: 91; visible printed page: 89; ends: கூடிவிட்ட; T1/T2 COMPLETE / NEEDS-REVIEW -->
