@@ -1,4 +1,20 @@
+| 48 | 46 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections; ends `அப்பா—` |
+| 49 | 47 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `அந்தப்பேய்`; scan50 not opened |
+| 50 | 48 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; scan49→50 continuation preserved |
+| 51 | 49 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
+| 52 | 50 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; verse lineation re-confirmed |
+| 53 | 51 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 corrections; `உளர`→`உளற` |
 | 54 | 52 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`; scan55 not opened |
+| 55 | — | unclassified | **not-started** | direct visual classification pending |
+| 56 | — | unclassified | **not-started** | direct visual classification pending |
+| 57 | — | unclassified | **not-started** | direct visual classification pending |
+| 58 | — | unclassified | **not-started** | direct visual classification pending |
+| 59 | — | unclassified | **not-started** | direct visual classification pending |
+| 60 | — | unclassified | **not-started** | direct visual classification pending |
+| 61 | — | unclassified | **not-started** | direct visual classification pending |
+| 62 | — | unclassified | **not-started** | direct visual classification pending |
+| 63 | — | unclassified | **not-started** | direct visual classification pending |
+| 64 | — | unclassified | **not-started** | direct visual classification pending |
 
 This manifest currently covers only the pages exposed by the degraded Files parser. Printed-page values remain `—` unless directly verified from a complete source view. No source-ending or page-count inference may be made from the parser's 150-page ceiling.
 
@@ -51,23 +67,6 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 45 | 43 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 corrections |
 | 46 | 44 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections |
 | 47 | 45 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 3 T2 + 0 T3 corrections |
-| 48 | 46 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections; ends `அப்பா—` |
-| 49 | 47 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `அந்தப்பேய்`; scan50 not opened |
-| 50 | 48 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started; scan49→50 continuation preserved |
-| 51 | 49 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started |
-| 52 | 50 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started; source-visible verse preserved |
-| 53 | 51 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started; ends `சிங்காரத்துக்குக் கல்யாணமாயிட்டுதா?` |
-| 54 | 52 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started; ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`; scan55 not opened |
-| 55 | — | unclassified | **not-started** | direct visual classification pending |
-| 56 | — | unclassified | **not-started** | direct visual classification pending |
-| 57 | — | unclassified | **not-started** | direct visual classification pending |
-| 58 | — | unclassified | **not-started** | direct visual classification pending |
-| 59 | — | unclassified | **not-started** | direct visual classification pending |
-| 60 | — | unclassified | **not-started** | direct visual classification pending |
-| 61 | — | unclassified | **not-started** | direct visual classification pending |
-| 62 | — | unclassified | **not-started** | direct visual classification pending |
-| 63 | — | unclassified | **not-started** | direct visual classification pending |
-| 64 | — | unclassified | **not-started** | direct visual classification pending |
 | 65 | — | unclassified | **not-started** | direct visual classification pending |
 | 66 | — | unclassified | **not-started** | direct visual classification pending |
 | 67 | — | unclassified | **not-started** | direct visual classification pending |
