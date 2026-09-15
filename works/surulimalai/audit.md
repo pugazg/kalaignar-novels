@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 VERIFIED through scan 154**. Scans **155–169** are T1 COMPLETE / PASS and remain needs-review pending T2. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
+Canonical body transcription is **T1/T2/T3 VERIFIED through scan 154**. Scans **155–169** are T1/T2 COMPLETE / PASS and remain needs-review pending T3. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
 
 
 ## Scans 40–44 T1 gate
@@ -650,7 +650,7 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph/source-form audit for scans155–169 only — 15 physical pages** and stop before T3 / scan170.
+Perform **T3 final source-fidelity review for scans155–169 only — 15 physical pages** and stop before scan170.
 
 
 ## Scans 95–109 T3 gate
@@ -897,3 +897,21 @@ Status: **COMPLETE / PASS — 15/15**.
 - all fifteen physical page openings/endings were source-pixel aligned;
 - T2: **NOT STARTED**;
 - checkpoint: [`T1_BATCH_155_169.md`](T1_BATCH_155_169.md).
+
+
+## Scans 155–169 T2 gate
+
+Status: **COMPLETE / PASS — 15/15**.
+
+- source-proven corrections: **117**;
+- per-scan counts: scan155 **3**; scan156 **7**; scan157 **12**; scan158 **12**; scan159 **7**; scan160 **8**; scan161 **9**; scan162 **4**; scan163 **10**; scan164 **6**; scan165 **3**; scan166 **16**; scan167 **9**; scan168 **5**; scan169 **6**;
+- mandatory historical-glyph families independently checked wherever applicable;
+- chapters **21** at scan156, **22** at scan160, and **23** at scan168 re-confirmed;
+- scan165 printer/signature number `11` remains excluded;
+- scan163→164 split `வருந்துவா` / `னேன்?` re-confirmed;
+- scan167→168 split `மழைத்` / `துளிகளைக்` re-confirmed;
+- scan169 ending `அந்தப்` re-confirmed;
+- unresolved historical/source-form readings: **0**;
+- all fifteen page records remain **needs-review pending T3**;
+- scan170 was **not opened or used**;
+- T2 audit: [`T2_AUDIT_155_169.md`](T2_AUDIT_155_169.md).
