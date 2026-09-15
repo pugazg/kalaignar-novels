@@ -94,22 +94,22 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 91 | 89 | body / chapter 11→12 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction; chapter 12 re-confirmed; ends `கூடிவிட்` |
 | 92 | 90 | body / chapter 12 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction; begins `டனர்.`; ends `எடுத்துக்` |
 | 93 | 91 | body / chapter 12 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; begins `காட்டுவதாக...`; ends quoted `நான் கும்பிட்ட தெய்வமெல்லாம் நல்ல தெய்வம்` |
-| 94 | 92 | body / chapter 12 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; begins `என்று...`; ends `முத்தாய்ப்பு வைத்தார் அவர்.`; scan95 not opened |
-| 95 | 93 | body / chapter 12 | **needs-review** | T1/T2 PASS; 3 T2 corrections; T3 not started |
-| 96 | 94 | body / chapter 12 | **needs-review** | T1/T2 PASS; 1 T2 correction; T3 not started |
-| 97 | 95 | body / chapter 12 | **needs-review** | T1/T2 PASS; 2 T2 corrections; T3 not started |
-| 98 | 96 | body / chapter 12 | **needs-review** | T1/T2 PASS; 1 T2 correction; T3 not started |
-| 99 | 97 | body / chapter 12 | **needs-review** | T1/T2 PASS; 2 T2 corrections; T3 not started |
-| 100 | 98 | body / chapter 12→13 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; chapter 13 re-confirmed |
-| 101 | 99 | body / chapter 13 | **needs-review** | T1/T2 PASS; 7 T2 corrections; T3 not started |
-| 102 | 100 | body / chapter 13 | **needs-review** | T1/T2 PASS; 11 T2 corrections; T3 not started |
-| 103 | 101 | body / chapter 13 | **needs-review** | T1/T2 PASS; 8 T2 corrections; T3 not started |
-| 104 | 102 | body / chapter 13 | **needs-review** | T1/T2 PASS; 15 T2 corrections; T3 not started |
-| 105 | 103 | body / chapter 13 | **needs-review** | T1/T2 PASS; 14 T2 corrections; T3 not started |
-| 106 | 104 | body / chapter 13 | **needs-review** | T1/T2 PASS; 6 T2 corrections; T3 not started |
-| 107 | 105 | body / chapter 13 | **needs-review** | T1/T2 PASS; 17 T2 corrections; T3 not started |
-| 108 | 106 | body / chapter 13→14 | **needs-review** | T1/T2 PASS; 13 T2 corrections; T3 not started; chapter 14 re-confirmed |
-| 109 | 107 | body / chapter 14 | **needs-review** | T1/T2 PASS; 20 T2 corrections; T3 not started; scan110 not opened |
+| 94 | 92 | body / chapter 12 | **verified** | T1/T2/T3 PASS; T3 dependency repair; ends `தெருவில்` |
+| 95 | 93 | body / chapter 12 | **verified** | T1/T2/T3 PASS; begins `அடிப்படுகிறவன்...`; ends `ஒரு விளக்க` |
+| 96 | 94 | body / chapter 12 | **verified** | T1/T2/T3 PASS; begins `முடியாத உணர்ச்சி...`; ends `என்றான் வாலிபன்.` |
+| 97 | 95 | body / chapter 12 | **verified** | T1/T2/T3 PASS; begins `பொன்மணி, தூண் மறைவில்...`; ends `வெளியில்தான்` |
+| 98 | 96 | body / chapter 12 | **verified** | T1/T2/T3 PASS; physical boundary repaired |
+| 99 | 97 | body / chapter 12→13 | **verified** | T1/T2/T3 PASS; source-visible chapter **13** |
+| 100 | 98 | body / chapter 13 | **verified** | T1/T2/T3 PASS; source-pixel re-segmentation complete |
+| 101 | 99 | body / chapter 13 | **verified** | T1/T2/T3 PASS; extraction-only numeral/source-form repairs complete |
+| 102 | 100 | body / chapter 13 | **verified** | T1/T2/T3 PASS; source-pixel re-segmentation complete |
+| 103 | 101 | body / chapter 13 | **verified** | T1/T2/T3 PASS; `கிராமியமிருந்தது` / `கிராமியக்` restored |
+| 104 | 102 | body / chapter 13 | **verified** | T1/T2/T3 PASS; source-pixel re-segmentation complete |
+| 105 | 103 | body / chapter 13 | **verified** | T1/T2/T3 PASS; true opening/ending restored |
+| 106 | 104 | body / chapter 13→14 | **verified** | T1/T2/T3 PASS; source-visible chapter **14** |
+| 107 | 105 | body / chapter 14 | **verified** | T1/T2/T3 PASS; ends `அவன் தெற்கு வீதியைக் கடந்து` |
+| 108 | 106 | body / chapter 14 | **verified** | T1/T2/T3 PASS; omitted latter source span restored; ends `அந்த மரத்தில் ஒருகிளையில்` |
+| 109 | 107 | body / chapter 14 | **verified** | T1/T2/T3 PASS; full source text restored through `என்று கூறினேன்.`; scan110 not opened |
 | 110 | — | unclassified | **not-started** | direct visual classification pending |
 | 111 | — | unclassified | **not-started** | direct visual classification pending |
 | 112 | — | unclassified | **not-started** | direct visual classification pending |

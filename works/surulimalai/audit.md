@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2 complete through scan 109**. Scans **5–94 are T1/T2/T3 VERIFIED**; scans **95–109 are T1/T2 COMPLETE / PASS and remain `needs-review` pending T3**. T2 corrections on scans95–109: **120**; unresolved: **0**.
+Canonical body transcription is **T1/T2/T3 VERIFIED through scan 109**. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
 
 
 ## Scans 40–44 T1 gate
@@ -651,3 +651,19 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 ## Exact next activity
 
 Perform **T3 final source-fidelity review for scans95–109 only — 15 physical pages** and stop before scan110.
+
+
+## Scans 95–109 T3 gate
+
+Status: **COMPLETE / PASS — 15/15 VERIFIED**.
+
+- scan94 was re-opened only as a dependency because the old scan94→95 physical boundary was wrong; scan94 now ends at source-visible `தெருவில்`;
+- scans95–109 were re-segmented strictly by physical source-page boundaries;
+- source-visible chapter **13** is on scan99 / printed97, not scan100;
+- source-visible chapter **14** is on scan106 / printed104, not scan108;
+- source-form/extraction misses repaired include `பயமில்லே`, `தீர்மானித்து விட்டார்`, `பிள்ளே`, `ஜனங்களெல்லாம்`, `சம்பாதிக்கிற`, `கரகமாடி`, `திருப்பிக்கொண்டாள்`, `கிராமியமிருந்தது`, `காட்டேரியம்மன்`, and `விடமாட்டாளாம்`;
+- omitted latter text of scan108 and complete source text of scan109 restored through `என்று கூறினேன்.`;
+- omissions / duplicate body spans after repair: **0 / 0**;
+- unresolved source-form readings after T3: **0**;
+- scan110 was **not opened or used**;
+- T3 audit: [`T3_AUDIT_095_109.md`](T3_AUDIT_095_109.md).
