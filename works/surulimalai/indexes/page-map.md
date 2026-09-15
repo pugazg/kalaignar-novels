@@ -172,21 +172,21 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 168 | 166 | body / chapter 22→23 | **verified** | T1/T2/T3 PASS; 5 T2 + 0 T3 corrections; begins `துளிகளைக்`; chapter **23** re-confirmed |
 | 169 | 167 | body / chapter 23 | **verified** | T1/T2/T3 PASS; 6 T2 + 4 T3 corrections; ends `அந்தப்`; scan170 not opened during T3 |
 
-| 170 | 168 | body / chapter 23 | **needs-review** | T1 PASS; T2 pending; begins `பொறுப்பினால்`; scan169→170 split re-confirmed |
-| 171 | 169 | body / chapter 23 | **needs-review** | T1 PASS; T2 pending |
-| 172 | 170 | body / chapter 23 | **needs-review** | T1 PASS; T2 pending |
-| 173 | 171 | body / chapter 23 | **needs-review** | T1 PASS; T2 pending |
-| 174 | 172 | body / chapter 23→24 | **needs-review** | T1 PASS; T2 pending; chapter **24** confirmed |
-| 175 | 173 | body / chapter 24 | **needs-review** | T1 PASS; T2 pending; ends `தவறு` |
-| 176 | 174 | body / chapter 24 | **needs-review** | T1 PASS; T2 pending; begins `களுக்காக`; split re-confirmed |
-| 177 | 175 | body / chapter 24 | **needs-review** | T1 PASS; T2 pending |
-| 178 | 176 | body / chapter 24 | **needs-review** | T1 PASS; T2 pending |
-| 179 | 177 | body / chapter 24 | **needs-review** | T1 PASS; T2 pending |
-| 180 | 178 | body / chapter 24 | **needs-review** | T1 PASS; T2 pending; part006 ends; ends `என்றான் நிதானமாக!` |
-| 181 | 179 | body / chapter 24→25 | **needs-review** | T1 PASS; T2 pending; part007 begins; chapter **25** confirmed; printer/signature `12` excluded |
-| 182 | 180 | body / chapter 25 | **needs-review** | T1 PASS; T2 pending; begins `தான் சொல்ல வேண்டும்.`; scan181→182 continuation preserved |
-| 183 | 181 | body / chapter 25 | **needs-review** | T1 PASS; T2 pending |
-| 184 | 182 | body / chapter 25 | **needs-review** | T1 PASS; T2 pending; scan185 not opened |
+| 170 | 168 | body / chapter 23 | **needs-review** | T1/T2 PASS; 2 T2 corrections; T3 pending; begins `பொறுப்பினால்`; scan169→170 split re-confirmed |
+| 171 | 169 | body / chapter 23 | **needs-review** | T1/T2 PASS; 2 T2 corrections; T3 pending |
+| 172 | 170 | body / chapter 23 | **needs-review** | T1/T2 PASS; 3 T2 corrections; T3 pending |
+| 173 | 171 | body / chapter 23 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 pending |
+| 174 | 172 | body / chapter 23→24 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 pending; chapter **24** confirmed |
+| 175 | 173 | body / chapter 24 | **needs-review** | T1/T2 PASS; 1 T2 correction; T3 pending; ends `தவறு` |
+| 176 | 174 | body / chapter 24 | **needs-review** | T1/T2 PASS; 3 T2 corrections; T3 pending; begins `களுக்காக`; split re-confirmed |
+| 177 | 175 | body / chapter 24 | **needs-review** | T1/T2 PASS; 2 T2 corrections; T3 pending |
+| 178 | 176 | body / chapter 24 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 pending |
+| 179 | 177 | body / chapter 24 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 pending |
+| 180 | 178 | body / chapter 24 | **needs-review** | T1/T2 PASS; 2 T2 corrections; T3 pending; part006 ends; ends `என்றான் நிதானமாக!` |
+| 181 | 179 | body / chapter 24→25 | **needs-review** | T1/T2 PASS; 3 T2 corrections; T3 pending; part007 begins; chapter **25** confirmed; printer/signature `12` excluded |
+| 182 | 180 | body / chapter 25 | **needs-review** | T1/T2 PASS; 7 T2 corrections; T3 pending; begins `தான் சொல்ல வேண்டும்.`; scan181→182 continuation preserved |
+| 183 | 181 | body / chapter 25 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 pending |
+| 184 | 182 | body / chapter 25 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 pending; scan185 not opened |
 
 ## Intake counts
 
@@ -195,10 +195,10 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - parser completeness for the monolithic artifact: **FAIL / TRUNCATED VIEW**; source-readable split derivatives are now being used beyond scan150;
 - page records: **184 total — 169 `verified` + 15 `needs-review`**;
 - body T1: **scans 5–184 COMPLETE / PASS**;
-- body T2: **scans 5–169 COMPLETE / PASS; scans170–184 pending T2**;
+- body T2: **scans 5–184 COMPLETE / PASS; scans170–184 = 25 corrections; unresolved 0**;
 - body T3: **scans 5–169 COMPLETE / PASS / VERIFIED; scans155–169 = 21 additional T3 corrections after 117 T2 corrections**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T2 independent historical-glyph/source-form audit for scans170–184 only — 15 physical pages; stop before T3 / scan185. Terminal reconciliation remains deferred.**
+Exact next: **perform T3 final source-fidelity review for scans170–184 only — 15 physical pages; re-confirm all 25 T2 corrections; stop before scan185. Terminal reconciliation remains deferred.**
