@@ -62,7 +62,8 @@ The user supplied the following catalogue-style description for project context.
 - scans 55–64 — previously completed / **verified**; visible printed pages **53–62**;
 - scans 65–79 — T1/T2/T3 complete / **verified**; visible printed pages **63–77**; chapter markers **8** at scan65, **9** at scan73, **10** at scan78 re-confirmed; T2 corrections **8**; T3 additional corrections **0**; unresolved **0**; scan79 ends `என்று கடிந்து கொண்டாள் பொன்மணி.`;
 - scans 80–94 — previously completed / **verified**; visible printed pages **78–92**;
-- scans 95–109 — T1/T2/T3 complete / **verified**; visible printed pages **93–107**; T3 repaired physical segmentation; chapter **13** is on scan99 / printed97 and chapter **14** on scan106 / printed104; omitted scan108–109 source text restored;\n- scans 110–124 — T1 complete / **needs-review pending T2**; visible printed pages **108–122**; chapter **15** at scan113, chapter **16** at scan120; scan123→124 split `அடுக்` / `டுக்காக`; scan125 not opened;
+- scans 95–109 — T1/T2/T3 complete / **verified**; visible printed pages **93–107**; T3 repaired physical segmentation; chapter **13** is on scan99 / printed97 and chapter **14** on scan106 / printed104; omitted scan108–109 source text restored;
+- scans 110–124 — T1 complete / **needs-review pending T2**; visible printed pages **108–122**; chapter **15** at scan113, chapter **16** at scan120; scan123→124 split `அடுக்` / `டுக்காக`; scan125 not opened;
 - current parser exposes only pages **1–150** although the same source copy has **198 pages**;
 - therefore no terminal/body-boundary claim from pages 140–150 is durable;
 - full 198-page source view is required before terminal mapping or closure.
