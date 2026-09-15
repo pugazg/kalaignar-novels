@@ -4,10 +4,10 @@ printed_page: null
 work: "surulimalai"
 section: null
 page_type: "back-cover / publisher-device"
-status: "needs-review"
+status: "verified"
 language: "ta+en"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "direct visual transcription from controlling split source scan pixels; T1 complete; independent source-form T2 complete"
+transcription_method: "direct visual transcription from controlling split source scan pixels; T1 complete; independent source-form T2 complete; final source-fidelity T3 complete"
 ---
 
 திராவிடப்பண்ணை
@@ -34,6 +34,19 @@ Wrapper Printed by : RAINBOW PRINTERS, Tiruchirappalli-8
 - terminal/full-198-page reconciliation remains **DEFERRED** by workflow policy;
 - physical page opening/ending re-confirmed;
 - unresolved historical/source-form readings after T2: **0**;
-- page remains **needs-review** pending T3.
+- historical T2 state: **needs-review** pending T3.
 
-<!-- source physical scan: 198; visible printed page: none; T1/T2 COMPLETE / NEEDS-REVIEW -->
+## T3 final source-fidelity notes
+
+- complete physical scan independently re-read against the controlling source pixels;
+- all T2 decisions on this page independently re-confirmed;
+- source-proven T3 changes: **0**;
+- publisher device `திராவிடப்பண்ணை` / `திருச்சி` re-confirmed;
+- wrapper-printer imprint re-confirmed;
+- no story-body text appears on this scan;
+- physical page opening/ending re-confirmed;
+- omissions / duplicate body spans after T3: **0 / 0**;
+- unresolved historical/source-form readings after T3: **0**;
+- final status: **verified**.
+
+<!-- source physical scan: 198; visible printed page: none; T1/T2/T3 COMPLETE / VERIFIED -->

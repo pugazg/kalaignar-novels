@@ -4,10 +4,10 @@ printed_page: 191
 work: "surulimalai"
 section: "26→27"
 page_type: "body / chapter transition"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete"
+transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete; final source-fidelity T3 complete"
 ---
 
 ## 27
@@ -18,7 +18,7 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 
 சிங்காரம் ஆபத்தான நிலைமையில் இல்லாவிட்டாலும் வலி பொறுக்க முடியாமல் கத்திக் கொண்டிருந்தான்.
 
-கற்பூரம் இருவரையும் பார்த்துப் பார்த்து கண்ணீர் விட்டபடி அங்கு நின்று கொண்டிருந்தாள். அண்ணன் பக்கத்திலே அவளுக்கு நெருங்குவதற்குப் பயம்—என்ன சொல்லி விடுவானோ என்ற அச்சம்!
+கற்பூரம் இருவரையும் பார்த்துப் பார்த்து கண்ணீர் விட்ட படி அங்கு நின்று கொண்டிருந்தாள். அண்ணன் பக்கத்திலே அவளுக்கு நெருங்குவதற்குப் பயம்—என்ன சொல்லி விடுவானோ என்ற அச்சம்!
 
 இப்படி இக்கட்டான நிலையில் தவித்துக் கொண்டிருந்த அவள் காதில் மாரியம்மன் திடலில் ஒலித்துக் கொண்டிருந்த முழக்கம் சற்று வேகமாகக் கேட்டது.
 
@@ -44,6 +44,17 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 - source-visible chapter **27** re-confirmed at scan193 / printed191;
 - physical page opening/ending re-confirmed;
 - unresolved historical/source-form readings after T2: **0**;
-- page remains **needs-review** pending T3.
+- historical T2 state: **needs-review** pending T3.
 
-<!-- source physical scan: 193; visible printed page: 191; T1/T2 COMPLETE / NEEDS-REVIEW -->
+## T3 final source-fidelity notes
+
+- complete physical scan independently re-read against the controlling source pixels;
+- all T2 decisions on this page independently re-confirmed;
+- source-proven T3 changes: **1**;
+- source-visible chapter **27** re-confirmed at scan193 / printed191;
+- physical page opening/ending re-confirmed;
+- omissions / duplicate body spans after T3: **0 / 0**;
+- unresolved historical/source-form readings after T3: **0**;
+- final status: **verified**.
+
+<!-- source physical scan: 193; visible printed page: 191; T1/T2/T3 COMPLETE / VERIFIED -->

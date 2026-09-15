@@ -4,10 +4,10 @@ printed_page: 184
 work: "surulimalai"
 section: "25→26"
 page_type: "body / chapter transition"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete"
+transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete; final source-fidelity T3 complete"
 ---
 
 பொன்மணி எதுவும் பேசாமல் வீடு நோக்கி நடந்து கொண்டிருந்தார்கள். அறவாழியும் அவளோடு வந்துகொண்டே யிருந்தான். ஊர்க் கோடியில் உள்ள ஒரு பாழுங் கிணற்றினருகே வந்ததும் பொன்மணி நின்றாள். அவனும் நின்றான். அவள் ஒரு நீண்ட பெருமூச்சு விட்டவாறு அவனையே பார்த்தாள். அதுவரையில் பேசாமல் வந்த அவள் அவனிடம் இரண்டொரு வார்த்தைகள் கூறினாள்.
@@ -40,6 +40,17 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 - source-visible chapter **26** re-confirmed at scan186 / printed184;
 - physical page opening/ending re-confirmed;
 - unresolved historical/source-form readings after T2: **0**;
-- page remains **needs-review** pending T3.
+- historical T2 state: **needs-review** pending T3.
 
-<!-- source physical scan: 186; visible printed page: 184; T1/T2 COMPLETE / NEEDS-REVIEW -->
+## T3 final source-fidelity notes
+
+- complete physical scan independently re-read against the controlling source pixels;
+- all T2 decisions on this page independently re-confirmed;
+- source-proven T3 changes: **0**;
+- source-visible chapter **26** re-confirmed at scan186 / printed184;
+- physical page opening/ending re-confirmed;
+- omissions / duplicate body spans after T3: **0 / 0**;
+- unresolved historical/source-form readings after T3: **0**;
+- final status: **verified**.
+
+<!-- source physical scan: 186; visible printed page: 184; T1/T2/T3 COMPLETE / VERIFIED -->

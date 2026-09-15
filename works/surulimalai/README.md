@@ -21,10 +21,10 @@
 - body opening: **scan 5 VERIFIED**;
 - terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
 - prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
-- canonical body transcription: **scans 5–184 T1/T2/T3 VERIFIED; scans185–198 T1/T2 COMPLETE / PASS — needs-review pending T3**;
+- canonical body transcription: **scans 5–198 T1/T2/T3 VERIFIED**;
 - historical-glyph review: **scans 5–184 T2 COMPLETE / PASS; scans170–184 = 25 source-proven corrections; unresolved 0**;
 - final source-fidelity review: **scans 5–184 T3 COMPLETE / PASS / VERIFIED**; scans170–184 checked all **25** T2 decisions, retained **24**, superseded **1** spacing decision, and applied **30** T3 source-fidelity changes total;
-- latest T2 extension: **scans185–198 COMPLETE / PASS — 14/14; 20 source-proven corrections; unresolved 0; chapters26/27; scan197 `[முற்றிற்று.]`; scan198 publisher-device/printer wrapper; T3 pending**;
+- latest T3 closure: **scans185–198 COMPLETE / PASS / VERIFIED — 14/14; all 20 T2 corrections re-confirmed; 13 additional T3 changes; unresolved 0; omissions/duplicates 0/0; chapters26/27; scan197 `[முற்றிற்று.]`; scan198 publisher-device/printer wrapper**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
 - English translation: **NOT STARTED / BLOCKED**.
 
@@ -69,7 +69,7 @@ The user supplied the following catalogue-style description for project context.
 - scans 140–154 — T1/T2/T3 complete / **verified**; visible printed pages **138–152**; T2 corrections **117** + T3 additional corrections **34**; unresolved **0**; source-visible chapter **19** at scan144 / printed142; chapter **20** at scan151 / printed149; scan149 printer/signature `10` excluded; part005→part006 continuity re-confirmed at scan150→151;
 - scans 155–169 — T1/T2/T3 complete / **verified**; visible printed pages **153–167**; T2 corrections **117** + T3 additional corrections **21**; unresolved **0**; omissions / duplicate body spans **0 / 0**; chapter **21** at scan156 / printed154; chapter **22** at scan160 / printed158; chapter **23** at scan168 / printed166; scan165 printer/signature `11` excluded; scan163→164 split `வருந்துவா` / `னேன்?`; scan167→168 split `மழைத்` / `துளிகளைக்`; scan169 ends `அந்தப்`; scan170 not opened during T3;
 - scans 170–184 — T1/T2/T3 complete / **verified**; visible printed pages **168–182**; T2 corrections **25** checked (24 retained, 1 spacing decision superseded); T3 changes **30**; unresolved **0**; omissions / duplicate body spans **0 / 0**; chapter **24** at scan174 / printed172; chapter **25** at scan181 / printed179; scan181 printer/signature `12` excluded; scan169→170 split `அந்தப்` / `பொறுப்பினால்`; scan175→176 split `தவறு` / `களுக்காக`; part006→part007 boundary scan180→181 re-confirmed; scan181→182 continuation preserved; scan185 not opened;
-- scans 185–198 — T1/T2 complete / **needs-review pending T3**; printed pages **183–195** on scans185–197; T2 corrections **20**; unresolved **0**; scan186 chapter **26**; scan193 chapter **27**; scan189 two source-visible divider positions; scan189→190 split `சாதமூட்டை` / `களுடன்`; scan190→191 split `குதிக்காமல்` / `தடுப்பேன்!`; scan194→195 split `தயங்` / `கிற்று.`; scan197 source ending `[முற்றிற்று.]`; scan198 back-cover/publisher-device with `திராவிடப்பண்ணை` / `திருச்சி` and wrapper-printer imprint;
+- scans 185–198 — T1/T2/T3 complete / **verified**; printed pages **183–195** on scans185–197; T2 corrections **20**; T3 changes **13**; unresolved **0**; omissions / duplicate body spans **0 / 0**; scan186 chapter **26**; scan193 chapter **27**; scan189 centered bullet scene dividers represented as `●`; scan189→190 split `சாதமூட்டை` / `களுடன்`; scan190→191 split `குதிக்காமல்` / `தடுப்பேன்!`; scan194→195 split `தயங்` / `கிற்று.`; scan197 source ending `[முற்றிற்று.]`; scan198 back-cover/publisher-device with `திராவிடப்பண்ணை` / `திருச்சி` and wrapper-printer imprint;
 - the monolithic-file parser exposes only pages **1–150**, but user-supplied split derivatives now provide source-readable access beyond that ceiling;
 - terminal/body-boundary reconciliation remains deliberately **DEFERRED** until the scheduled end-of-work pass; no terminal claim is inferred from the parser ceiling.
 
@@ -78,13 +78,11 @@ Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans185–198 only — 14 physical pages**.
+Perform the **terminal/full-198-page reconciliation only**.
 
-Use part007 extract pages **5–18**. Re-read every word, punctuation span, source-specific join, scene dividers, chapters **26/27**, physical splits, scan197 work ending, and scan198 publisher-device/printer-wrapper matter against source pixels. Re-confirm all **20** T2 corrections.
+Verify complete physical-source coverage and repository-control consistency across scans **1–198** before declaring final closure.
 
-Stop before terminal/full-198-page reconciliation.
-
-The terminal/full-198-page reconciliation remains deferred.
+Do not start English or assembled Tamil work until terminal reconciliation passes.
 
 Do not start English or assembled Tamil work in this T3 iteration.
 
@@ -193,3 +191,5 @@ T3 audit: [`T3_AUDIT_170_184.md`](T3_AUDIT_170_184.md).
 Active T1/T2 checkpoint: [`T1_BATCH_185_198.md`](T1_BATCH_185_198.md).
 
 T2 audit: [`T2_AUDIT_185_198.md`](T2_AUDIT_185_198.md).
+
+T3 audit: [`T3_AUDIT_185_198.md`](T3_AUDIT_185_198.md).

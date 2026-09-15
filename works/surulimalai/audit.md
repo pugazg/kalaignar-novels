@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 VERIFIED through scan 184**. Scans **185–198 are T1/T2 COMPLETE / PASS — 14/14 needs-review pending T3**. Their T2 audit applied **20** source-proven corrections and left **0 unresolved** historical/source-form readings. The scans170–184 T3 closure remains unchanged. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
+Canonical body transcription is **T1/T2/T3 VERIFIED through scan 198**. The scans185–198 T3 pass independently re-confirmed all **20** T2 corrections, added **13** final source-fidelity changes, and left **0 unresolved** readings with **0 / 0** omissions / duplicate body spans. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
 
 
 ## Scans 40–44 T1 gate
@@ -650,7 +650,7 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans185–198 only — 14 physical pages**; re-confirm all **20** T2 corrections and stop before terminal/full-198-page reconciliation.
+Perform the **terminal/full-198-page reconciliation only**; verify complete source coverage and control-file consistency before final closure.
 
 
 ## Scans 95–109 T3 gate
@@ -1058,4 +1058,25 @@ Status: **COMPLETE / PASS — 14/14**.
 - all fourteen records remain **needs-review pending T3**;
 - terminal/full-198-page reconciliation remains **DEFERRED**;
 - T2 audit: [`T2_AUDIT_185_198.md`](T2_AUDIT_185_198.md).
+
+## Scans 185–198 T3 gate
+
+Status: **COMPLETE / PASS — 14/14 VERIFIED**.
+
+- all **20** T2 corrections independently re-confirmed;
+- additional T3 source-fidelity changes: **13**;
+- per-scan T3 changes: scan185 **0**; scan186 **0**; scan187 **0**; scan188 **0**; scan189 **2**; scan190 **0**; scan191 **2**; scan192 **1**; scan193 **1**; scan194 **1**; scan195 **1**; scan196 **0**; scan197 **5**; scan198 **0**;
+- chapter **26** at scan186 and chapter **27** at scan193 re-confirmed;
+- scan189 source-visible centered bullet scene dividers represented as `●`;
+- scan189→190 split `சாதமூட்டை` / `களுடன்` re-confirmed;
+- scan190→191 split `குதிக்காமல்` / `தடுப்பேன்!` re-confirmed;
+- scan194→195 split `தயங்` / `கிற்று.` re-confirmed;
+- scan197 work ending `[முற்றிற்று.]` re-confirmed;
+- scan198 publisher-device/printer-wrapper matter re-confirmed;
+- omissions / duplicate body spans: **0 / 0**;
+- unresolved after T3: **0**;
+- scans185–198 final status: **verified**;
+- scans **5–198 are now T1/T2/T3 VERIFIED**;
+- terminal/full-198-page reconciliation remains **DEFERRED**;
+- T3 audit: [`T3_AUDIT_185_198.md`](T3_AUDIT_185_198.md).
 
