@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 VERIFIED through scan 169**. Scans **170–184 are T1/T2 COMPLETE / PASS — 15/15 and remain needs-review pending T3**. Their T2 audit applied **25** source-proven corrections and left **0 unresolved** historical/source-form readings. The scans155–169 T3 pass independently re-confirmed all **117** T2 corrections, added **21** source-proven final-fidelity corrections, and left **0 unresolved** readings with **0 / 0** omissions / duplicate body spans. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
+Canonical body transcription is **T1/T2/T3 VERIFIED through scan 184**. The scans170–184 T3 pass checked all **25** T2 decisions, retained **24**, superseded **1** source-spacing decision at scan181, and applied **30** T3 source-fidelity changes total (**29 additional + 1 T2 supersession**), with **0 unresolved** readings and **0 / 0** omissions / duplicate body spans. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
 
 
 ## Scans 40–44 T1 gate
@@ -650,7 +650,7 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans170–184 only — 15 physical pages**; re-confirm all **25** T2 corrections and stop before scan185.
+Perform **T1 scans185–198 only — 14 physical pages** using part007 extract pages **5–18**; stop before T2 / terminal reconciliation.
 
 
 ## Scans 95–109 T3 gate
@@ -987,4 +987,25 @@ Status: **COMPLETE / PASS — 15/15**.
 - all fifteen page records remain **needs-review pending T3**;
 - scan185 was **not opened or used**;
 - T2 audit: [`T2_AUDIT_170_184.md`](T2_AUDIT_170_184.md).
+
+## Scans 170–184 T3 gate
+
+Status: **COMPLETE / PASS — 15/15 VERIFIED**.
+
+- all **25** T2 decisions independently checked;
+- **24/25** T2 decisions retained unchanged;
+- **1/25** T2 spacing decision superseded at scan181: `யாருமேயில்லை` → source `யாருமே யில்லை`;
+- T3 source-fidelity changes: **30 total — 29 additional + 1 T2 supersession**;
+- per-scan T3 changes: scan170 **3**; scan171 **2**; scan172 **0**; scan173 **2**; scan174 **1**; scan175 **5**; scan176 **2**; scan177 **3**; scan178 **1**; scan179 **2**; scan180 **4**; scan181 **1**; scan182 **2**; scan183 **2**; scan184 **0**;
+- chapter **24** at scan174 and chapter **25** at scan181 re-confirmed;
+- scan181 printer/signature number `12` remains excluded;
+- scan169→170 split `அந்தப்` / `பொறுப்பினால்` re-confirmed;
+- scan175→176 split `தவறு` / `களுக்காக` re-confirmed;
+- part006→part007 physical continuity at scan180→181 re-confirmed;
+- scan181→182 sentence continuation `என்று` / `தான் சொல்ல வேண்டும்.` re-confirmed;
+- omissions / duplicate body spans: **0 / 0**;
+- unresolved after T3: **0**;
+- scans170–184 final status: **verified**;
+- scan185 was **not opened or used**;
+- T3 audit: [`T3_AUDIT_170_184.md`](T3_AUDIT_170_184.md).
 

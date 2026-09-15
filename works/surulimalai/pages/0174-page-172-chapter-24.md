@@ -4,10 +4,10 @@ printed_page: 172
 work: "surulimalai"
 section: "23→24"
 page_type: "body / chapter transition"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete"
+transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete; final source-fidelity T3 complete"
 ---
 
 —பதில் இல்லை.
@@ -24,7 +24,7 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 
 ஏதோ ஒரு சந்தேகம்—அப்பாவைத் தொட்டுப் பார்க்கிறாள். உடம்பு ஜில்லிட்டுப் போயிருக்கிறது. மூச்சு நின்று வெகு நேரமாகிறது!
 
-தாய், மருத்துவரை அழைத்துக் கொண்டு வேகமாக உள்ளே ஓடிவருகிறாள். வந்த வேகத்தில் நிலைப்படி தட்டி விடுகிறது. அப்படியே கீழே விழுகிறாள். சரியான அடி! நினைவு இல்லை! இவைகளையெல்லாம் காணாமல் அந்தக் குடும்பத்துத் தலைவன் நிம்மதியாகக் கண்களை மூடிக் கொள்கிறான்!
+தாய், மருத்துவரை அழைத்துக் கொண்டு வேகமாக உள்ளே ஓடிவருகிறாள். வந்த வேகத்தில் நிலைப்படி தட்டி விடுகிறது. அப்படியே கீழே விழுகிறாள். சரியான அடி! நினைவு இல்லை! இவைகளை யெல்லாம் காணாமல் அந்தக் குடும்பத்துத் தலைவன் நிம்மதியாகக் கண்களை மூடிக் கொள்கிறான்!
 
 ## 24
 
@@ -48,6 +48,17 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 - source-visible chapter **24** re-confirmed at scan174 / printed172;
 - physical page opening/ending re-confirmed;
 - unresolved historical/source-form readings after T2: **0**;
-- page remains **needs-review** pending T3.
+- historical T2 state: **needs-review** pending T3.
 
-<!-- source physical scan: 174; visible printed page: 172; T1/T2 COMPLETE / NEEDS-REVIEW -->
+## T3 final source-fidelity notes
+
+- complete physical scan independently re-read against the controlling source pixels;
+- T2 decisions on this page independently checked;
+- source-proven T3 changes: **1**;
+- source-visible chapter **24** re-confirmed at scan174 / printed172;
+- physical page opening/ending re-confirmed;
+- omissions / duplicate body spans after T3: **0 / 0**;
+- unresolved historical/source-form readings after T3: **0**;
+- final status: **verified**.
+
+<!-- source physical scan: 174; visible printed page: 172; T1/T2/T3 COMPLETE / VERIFIED -->
