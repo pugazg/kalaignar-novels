@@ -9,24 +9,21 @@
 
 ## Current state
 
-- source registration: **IN PROGRESS / INTAKE REGISTERED**;
-- source file size: **268,529,598 bytes**;
-- SHA-256: **PENDING — runtime hash computation unavailable in this intake turn**;
-- source extent: **198 pages**;
-- current Files-tool view of the original monolithic source: **reports only 150 pages for this same source artifact**; user-supplied split derivatives are used as controlling visual source beyond that parser ceiling;
-- diagnosis: **tool-side ingestion/parser truncation suspected; the 150-page representation is not authoritative for source extent or terminal structure**;
-- source text layer: **image-only / no usable parsed text**;
-- source title/author/publisher/edition: **VISUALLY CONFIRMED from scans 1, 3, 4**;
-- front matter scans **1–4**: **4/4 page records created / VERIFIED**;
-- body opening: **scan 5 VERIFIED**;
-- terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
-- prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
-- canonical body transcription: **scans 5–198 T1/T2/T3 VERIFIED**;
-- historical-glyph review: **scans 5–184 T2 COMPLETE / PASS; scans170–184 = 25 source-proven corrections; unresolved 0**;
-- final source-fidelity review: **scans 5–184 T3 COMPLETE / PASS / VERIFIED**; scans170–184 checked all **25** T2 decisions, retained **24**, superseded **1** spacing decision, and applied **30** T3 source-fidelity changes total;
-- latest T3 closure: **scans185–198 COMPLETE / PASS / VERIFIED — 14/14; all 20 T2 corrections re-confirmed; 13 additional T3 changes; unresolved 0; omissions/duplicates 0/0; chapters26/27; scan197 `[முற்றிற்று.]`; scan198 publisher-device/printer wrapper**;
-- assembled Tamil: **NOT STARTED / BLOCKED**;
-- English translation: **NOT STARTED / BLOCKED**.
+- source registration: **COMPLETE / PASS**;
+- complete source size: **268,529,598 bytes**;
+- SHA-256: **`3d940115bed12e818b8f3cbfbdfca56def0285aef803334f8711acf27f7408ea`**;
+- source extent: **198 physical pages — verified from the complete runtime PDF**;
+- historical Files parser view: **150 pages / truncated**, retained only as ingestion history;
+- front matter scans **1–4**: **VERIFIED**;
+- canonical page records: **198/198 VERIFIED — no gaps / no duplicates**;
+- canonical body/source transcription: **scans5–198 T1/T2/T3 VERIFIED**;
+- terminal boundary: **RESOLVED / PASS**;
+- scan197 / printed195: **`[முற்றிற்று.]`**;
+- scan198: **back-cover / publisher-device — no story body**;
+- terminal/full-198-page reconciliation: **COMPLETE / PASS**;
+- Tamil source-archival phase: **CLOSED**;
+- assembled Tamil: **NOT STARTED**;
+- English translation: **NOT STARTED**.
 
 Canonical authority is always the source scan. No OCR reading, contextual guess, spelling modernization or inferred printed-page number may override the source pixels.
 
@@ -70,126 +67,17 @@ The user supplied the following catalogue-style description for project context.
 - scans 155–169 — T1/T2/T3 complete / **verified**; visible printed pages **153–167**; T2 corrections **117** + T3 additional corrections **21**; unresolved **0**; omissions / duplicate body spans **0 / 0**; chapter **21** at scan156 / printed154; chapter **22** at scan160 / printed158; chapter **23** at scan168 / printed166; scan165 printer/signature `11` excluded; scan163→164 split `வருந்துவா` / `னேன்?`; scan167→168 split `மழைத்` / `துளிகளைக்`; scan169 ends `அந்தப்`; scan170 not opened during T3;
 - scans 170–184 — T1/T2/T3 complete / **verified**; visible printed pages **168–182**; T2 corrections **25** checked (24 retained, 1 spacing decision superseded); T3 changes **30**; unresolved **0**; omissions / duplicate body spans **0 / 0**; chapter **24** at scan174 / printed172; chapter **25** at scan181 / printed179; scan181 printer/signature `12` excluded; scan169→170 split `அந்தப்` / `பொறுப்பினால்`; scan175→176 split `தவறு` / `களுக்காக`; part006→part007 boundary scan180→181 re-confirmed; scan181→182 continuation preserved; scan185 not opened;
 - scans 185–198 — T1/T2/T3 complete / **verified**; printed pages **183–195** on scans185–197; T2 corrections **20**; T3 changes **13**; unresolved **0**; omissions / duplicate body spans **0 / 0**; scan186 chapter **26**; scan193 chapter **27**; scan189 centered bullet scene dividers represented as `●`; scan189→190 split `சாதமூட்டை` / `களுடன்`; scan190→191 split `குதிக்காமல்` / `தடுப்பேன்!`; scan194→195 split `தயங்` / `கிற்று.`; scan197 source ending `[முற்றிற்று.]`; scan198 back-cover/publisher-device with `திராவிடப்பண்ணை` / `திருச்சி` and wrapper-printer imprint;
-- the monolithic-file parser exposes only pages **1–150**, but user-supplied split derivatives now provide source-readable access beyond that ceiling;
-- terminal/body-boundary reconciliation remains deliberately **DEFERRED** until the scheduled end-of-work pass; no terminal claim is inferred from the parser ceiling.
+- the historical monolithic parser view exposed only pages **1–150**; the complete **198-page** runtime source has now superseded that limitation for terminal reconciliation;
+- terminal/full-source reconciliation is **COMPLETE / PASS**; see `TERMINAL_BOUNDARY_AUDIT.md`.
 
 Source map: [`indexes/page-map.md`](indexes/page-map.md).  
 Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Perform the **terminal/full-198-page reconciliation only**.
+In a **new activity**, build the **assembled Tamil master** from the 198 verified canonical page records.
 
-Verify complete physical-source coverage and repository-control consistency across scans **1–198** before declaring final closure.
+Preserve source chapter markers, source-visible scene dividers, paragraph order, physical-boundary decisions, and source-specific orthography. Run structural validation before beginning English translation.
 
-Do not start English or assembled Tamil work until terminal reconciliation passes.
-
-Do not start English or assembled Tamil work in this T3 iteration.
-
-
-Terminal audit: [`TERMINAL_BOUNDARY_AUDIT.md`](TERMINAL_BOUNDARY_AUDIT.md).
-
-
-Completed T1/T2/T3 checkpoint: [`T1_BATCH_005_009.md`](T1_BATCH_005_009.md).  
-Completed T1/T2/T3 checkpoint: [`T1_BATCH_010_014.md`](T1_BATCH_010_014.md).  
-Completed T1/T2/T3 checkpoint: [`T1_BATCH_015_019.md`](T1_BATCH_015_019.md).  
-Completed T1/T2/T3 checkpoint: [`T1_BATCH_020_024.md`](T1_BATCH_020_024.md).  
-Completed T1/T2/T3 checkpoint: [`T1_BATCH_025_029.md`](T1_BATCH_025_029.md).
-
-Completed T1/T2/T3 checkpoint: [`T1_BATCH_030_034.md`](T1_BATCH_030_034.md).  
-T3 audit: [`T3_AUDIT_030_034.md`](T3_AUDIT_030_034.md).
-
-
-Completed T1/T2/T3 checkpoint: [`T1_BATCH_035_039.md`](T1_BATCH_035_039.md).  
-T2 audit: [`T2_AUDIT_035_039.md`](T2_AUDIT_035_039.md).  
-T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).  
-Completed T1/T2/T3 checkpoint: [`T1_BATCH_040_044.md`](T1_BATCH_040_044.md).  
-T2 audit: [`T2_AUDIT_040_044.md`](T2_AUDIT_040_044.md).  
-T3 audit: [`T3_AUDIT_040_044.md`](T3_AUDIT_040_044.md).
-
-Completed T1/T2/T3 checkpoint: [`T1_BATCH_045_049.md`](T1_BATCH_045_049.md).
-
-T2 audit: [`T2_AUDIT_045_049.md`](T2_AUDIT_045_049.md).
-
-T3 audit: [`T3_AUDIT_045_049.md`](T3_AUDIT_045_049.md).
-
-
-Completed T1/T2/T3 checkpoint: [`T1_BATCH_050_054.md`](T1_BATCH_050_054.md).
-
-T2 audit: [`T2_AUDIT_050_054.md`](T2_AUDIT_050_054.md).
-
-T3 audit: [`T3_AUDIT_050_054.md`](T3_AUDIT_050_054.md).
-
-
-Active T1 checkpoint: [`T1_BATCH_055_064.md`](T1_BATCH_055_064.md).
-
-T2 audit: [`T2_AUDIT_055_064.md`](T2_AUDIT_055_064.md).
-
-T3 audit: [`T3_AUDIT_055_064.md`](T3_AUDIT_055_064.md).
-
-
-Active T1 checkpoint: [`T1_BATCH_065_079.md`](T1_BATCH_065_079.md).
-
-T2 audit: [`T2_AUDIT_065_079.md`](T2_AUDIT_065_079.md).
-
-T3 audit: [`T3_AUDIT_065_079.md`](T3_AUDIT_065_079.md).
-
-
-Active T1 checkpoint: [`T1_BATCH_080_094.md`](T1_BATCH_080_094.md).
-
-T2 audit: [`T2_AUDIT_080_094.md`](T2_AUDIT_080_094.md).
-
-T3 audit: [`T3_AUDIT_080_094.md`](T3_AUDIT_080_094.md).
-
-Active T1 checkpoint: [`T1_BATCH_095_109.md`](T1_BATCH_095_109.md).
-
-T2 audit: [`T2_AUDIT_095_109.md`](T2_AUDIT_095_109.md).
-
-
-T3 audit: [`T3_AUDIT_095_109.md`](T3_AUDIT_095_109.md).
-
-
-Active T1 checkpoint: [`T1_BATCH_110_124.md`](T1_BATCH_110_124.md).
-
-
-T2 audit: [`T2_AUDIT_110_124.md`](T2_AUDIT_110_124.md).
-
-
-T3 audit: [`T3_AUDIT_110_124.md`](T3_AUDIT_110_124.md).
-
-
-Active T1 checkpoint: [`T1_BATCH_125_139.md`](T1_BATCH_125_139.md).
-
-
-T2 audit: [`T2_AUDIT_125_139.md`](T2_AUDIT_125_139.md).
-
-
-T3 audit: [`T3_AUDIT_125_139.md`](T3_AUDIT_125_139.md).
-
-
-Active T1 checkpoint: [`T1_BATCH_140_154.md`](T1_BATCH_140_154.md).
-
-
-T2 audit: [`T2_AUDIT_140_154.md`](T2_AUDIT_140_154.md).
-
-
-T3 audit: [`T3_AUDIT_140_154.md`](T3_AUDIT_140_154.md).
-
-
-Completed T1/T2/T3 checkpoint: [`T1_BATCH_155_169.md`](T1_BATCH_155_169.md).
-
-T2 audit: [`T2_AUDIT_155_169.md`](T2_AUDIT_155_169.md).
-
-T3 audit: [`T3_AUDIT_155_169.md`](T3_AUDIT_155_169.md).
-
-Completed T1/T2/T3 checkpoint: [`T1_BATCH_170_184.md`](T1_BATCH_170_184.md).
-
-T2 audit: [`T2_AUDIT_170_184.md`](T2_AUDIT_170_184.md).
-
-T3 audit: [`T3_AUDIT_170_184.md`](T3_AUDIT_170_184.md).
-
-Active T1/T2 checkpoint: [`T1_BATCH_185_198.md`](T1_BATCH_185_198.md).
-
-T2 audit: [`T2_AUDIT_185_198.md`](T2_AUDIT_185_198.md).
-
-T3 audit: [`T3_AUDIT_185_198.md`](T3_AUDIT_185_198.md).
+Terminal audit: [`TERMINAL_BOUNDARY_AUDIT.md`](TERMINAL_BOUNDARY_AUDIT.md).  
+Final reconciliation: [`FINAL_RECONCILIATION.md`](FINAL_RECONCILIATION.md).

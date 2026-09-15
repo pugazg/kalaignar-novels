@@ -1,3 +1,9 @@
+# Superseded parser-derived record
+
+This file was moved out of `works/surulimalai/pages/` during the full-198-page terminal reconciliation so that the canonical page-record directory contains exactly one record per physical scan.
+
+Original invalidated record follows.
+
 ---
 scan_page: 150
 printed_page: null

@@ -2,14 +2,21 @@
 
 ## Source identity
 
-- source filename: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
+- project controlling filename: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
+- complete runtime-mounted representation: `TVA_BOK_0064107_சுருளிமலை_1968.pdf`
 - source PDF committed: **No**
 - file size: **268,529,598 bytes**
-- source extent: **198 pages — user/source confirmed**
-- current ChatGPT Files parser exposure: **150 pages only**
-- ingestion status: **TRUNCATED / DEGRADED VIEW — do not use parser-reported page count as source extent**
+- source extent: **198 physical pages**
+- SHA-256: **`3d940115bed12e818b8f3cbfbdfca56def0285aef803334f8711acf27f7408ea`**
 - format: **image-only scanned PDF; no usable parsed text layer**
-- SHA-256: **PENDING — runtime hash computation unavailable in this intake turn**
+- terminal reconciliation: **COMPLETE / PASS**
+
+The earlier ChatGPT Files parser exposed only **150 pages**. That truncated representation is retained only as ingestion history and is **not authoritative** for source extent, printed-page mapping, or terminal structure.
+
+A complete 198-page runtime representation is now available. Render checks at 30 dpi confirmed pixel-identical correspondence between the complete source and the supplied part007 derivative at:
+- full scan181 ↔ part007 page1;
+- full scan190 ↔ part007 page10;
+- full scan198 ↔ part007 page18.
 
 ## Bibliographic details directly visible in source
 
@@ -24,45 +31,19 @@
 
 No bibliographic value above is inferred from the filename alone.
 
-## Intake scan structure
+## Physical-source structure
 
-- scan 1 — colour cover; printed title/author plus cover illustration;
-- scan 2 — mostly blank front-matter page with later copy-specific gift label;
-- scan 3 — title page;
-- scan 4 — publication/edition/copyright/price page;
-- scan 5 — unnumbered `அறிமுகம்`; T1/T2/T3 complete / **verified**;
-- scans 6–9 — T1/T2/T3 complete / **verified**; visible printed pages 4–7;
-- T2 correction: scan9 `கிட்டவில்ல` → `கிட்டவில்லை` (historical `லை` identity);
-- T3 corrections: **6** across scans 5, 6, 8 and 9;
-- scans 10–13 — T1/T2/T3 complete / **verified**; visible printed pages **8–11**;
-- scan 14 — chapter-1 opener; T1/T2/T3 complete / **verified**; large title `சுருளிமலை` + chapter number 1; no visible printed page number;
-- T2 scans 10–14 corrections: **2** — `சிறிதுமில்லாதான்`→`சிறிதுமில்லைதான்`; `வேய்ங்குழலில்`→`வேய்குழலில்`;
-- T3 scans 10–14 corrections: **3** — scan10 `அவர்களே`→`அவர்களை`; scan12 duplicate `யார்` removed; scan12 `நீராவியாக்குவது`→`நீராவியாக்குவதும்`;
-- scans 15–19 — T1/T2/T3 complete / **verified**; visible printed pages **13–17**;
-- T2 scans 15–19 corrections: **5** — scan15 `தவறுமல்`→`தவறாமல்`; scan16 two historical `லை` corrections; scan18 `வேணுங்கிறன்`→`வேணுங்கிறான்`; scan19 `என்னைத்`→`என்னத்த`;
-- T3 scans 15–19: **COMPLETE / PASS — 5/5 VERIFIED; 0 additional corrections**;
-- scans 20–21 — T1/T2/T3 complete / **verified**; visible printed pages **18–19**;
-- scan 22 — T1/T2/T3 complete / **verified**; visible printed page **20**; centered chapter **2** begins mid-page;
-- scans 23–24 — T1/T2/T3 complete / **verified**; visible printed pages **21–22**;
-- T2 scans 20–24: **COMPLETE / PASS — 5/5; 0 corrections; unresolved historical/source-form readings 0**;
-- T3 scans 20–24: **COMPLETE / PASS — 5/5 VERIFIED; 0 additional corrections**;
-- scans 25–29 — T1/T2/T3 complete / **verified**; visible printed pages **23–27**;
-- scans 30–34 — T1/T2/T3 complete / **verified**; visible printed pages **28–32**;
-- scans 35–39 — T1/T2/T3 complete / **verified**; visible printed pages **33–37**; scan37 contains chapter **3→4** transition; scans35–39 T2 corrections **6**, T3 additional corrections **1**;
-- scans 40–43 — T1/T2/T3 complete / **verified**; visible printed pages **38–41**; chapter **4**;
-- scan 44 — printed page **42**; T1/T2/T3 complete / **verified**; centered chapter **5** opener; lower-page omission restored; source form `எரு`;
-- scans 45–49 — T1/T2/T3 complete / **verified**; visible printed pages **43–47**; chapter **5** continues; T2 corrections **8**; T3 additional corrections **0**; unresolved after T3 **0**; scan48→49 split `அப்பா—` / `—நீங்கள்...`; scan49 ends `அந்தப்பேய்`;
-- scans 50–54 — T1/T2/T3 complete / **verified**; visible printed pages **48–52**; chapter **5** continues; T2 corrections **1** (`உளர`→`உளற`); T3 additional corrections **0**; unresolved after T3 **0**; scan49→50 split `அந்தப்பேய்` / `அவள் எதிரே...`; scan54 ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`;
-- scans 55–64 — T1/T2/T3 complete / **verified**; visible printed pages **53–62**;
-- scans 65–79 — T1/T2/T3 complete / **verified**; visible printed pages **63–77**; chapter **8** at scan65, **9** at scan73, **10** at scan78 re-confirmed; T2 corrections **8**; T3 additional corrections **0**; unresolved after T3 **0**; scan68→69 and scan75→76 physical splits re-confirmed; scan79 ends `என்று கடிந்து கொண்டாள் பொன்மணி.`;
-- scans 80–94 — T1/T2/T3 complete / **verified**; visible printed pages **78–92**;
-- scans 95–109 — T1/T2 complete / **needs-review** pending T3; visible printed pages **93–107**; chapter **12→13** at scan100 and **13→14** at scan108 re-confirmed; T2 corrections **120**; unresolved after T2 **0**; scan110 not opened;
-- scans 45–144 — not yet fully page-mapped in this intake checkpoint;
-- current Files parser exposes pages **1–150 only** for a source known to contain **198 pages**;
-- previous terminal mapping based on that representation is **invalidated**;
-- no claim about page 198, narrative ending, or back cover is currently durable from this parser view.
+- scans **1–4** — front matter / copy provenance / title / publication page — **verified**;
+- scan **5** — unnumbered `அறிமுகம்`;
+- scans **5–197** — canonical Tamil textual body — **T1/T2/T3 VERIFIED**;
+- scan **197** / printed page **195** — source-visible work ending `[முற்றிற்று.]`;
+- scan **198** — back-cover / publisher-device matter, with `திராவிடப்பண்ணை`, `திருச்சி`, and wrapper-printer imprint; no story body;
+- canonical page-record set — **198 records for scans1–198 exactly once**.
 
-Terminal boundary must be re-audited only from a full 198-page source representation.
+Source-visible chapter markers are archived at scans:
+**14→1, 22→2, 29→3, 37→4, 44→5, 65→8, 73→9, 78→10, 85→11, 91→12, 99→13, 106→14, 113→15, 120→16, 127→17, 136→18, 144→19, 151→20, 156→21, 160→22, 168→23, 174→24, 181→25, 186→26, 193→27**.
+
+The source-visible numbering jumps from **5 to 8**. The archive preserves that source fact and does **not** invent chapter markers 6 or 7.
 
 ## Copy-specific / physical-source observations
 
@@ -70,12 +51,12 @@ Terminal boundary must be re-audited only from a full 198-page source representa
 - the volume is age-toned with staining and variable print density;
 - bleed-through / show-through is visible on multiple pages;
 - later pen/pencil underlining and marginal marks occur on body pages;
-- such marks must remain separate from source-printed prose;
-- printed illustrations / ornaments, if present, must not be silently converted to prose.
+- such marks remain separate from source-printed prose;
+- printed illustrations / ornaments are not silently converted to prose.
 
 ## Historical Tamil / glyph policy
 
-This 1968 edition must be processed with root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+This 1968 edition is processed under root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 
 Mandatory explicit audit families:
 
@@ -83,27 +64,13 @@ Mandatory explicit audit families:
 
 Source pixels control character identity. Grammar/context may locate a question but never prove a correction. No global replacement is allowed.
 
-## User-supplied catalogue description
+## Final source state
 
-The user supplied a descriptive synopsis mentioning கரகாட்டம், தீச்சட்டி எடுத்தல், மயிலாட்டம், மூடநம்பிக்கை, and the characters பூஞ்சோலை, பொன்மணி, கற்பூரம், மைனா. This is retained only as project context and is **not canonical source text** unless found and visually verified in the controlling edition.
+- scans **1–198** — complete physical-source mapping: **PASS**;
+- scans **5–198** — T1/T2/T3: **COMPLETE / PASS / VERIFIED**;
+- unresolved source-form readings: **0**;
+- terminal/full-198-page reconciliation: **COMPLETE / PASS**;
+- Tamil source-archival phase: **CLOSED**.
 
-## Open intake items
-
-1. compute and record the PDF SHA-256 when the full source can be handled reliably;
-2. obtain/use a **full 198-page representation of the same source copy** for terminal reconciliation;
-3. scans **5–49 T1/T2/T3 COMPLETE / VERIFIED**;
-4. scans **50–54 T1/T2/T3 COMPLETE / PASS / VERIFIED**;
-5. scans **55–64 T1/T2/T3 COMPLETE / PASS / VERIFIED**;
-6. scans **65–79 T1/T2/T3 COMPLETE / PASS / VERIFIED**;
-7. scans **80–94 T1/T2/T3 COMPLETE / PASS / VERIFIED**;
-8. scans **95–109 T1/T2 COMPLETE / PASS — 15/15 needs-review pending T3**;
-9. scans **95–109 sourced from the user-supplied split `part_004_pages_91-120`**;
-10. scans95–109 visible printed pages **93–107**; chapter **12→13** at scan100 and **13→14** at scan108;
-10. user-supplied MD used as baseline/navigation aid only; PDF pixels remain authoritative;
-12. source-looking word joins and chapter transitions remain pending independent T2;
-13. scan110 was **not opened or used**;
-14. exact next: **T3 scans95–109 only — 15 physical pages**;
-15. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
-16. do not infer source extent from the current Files parser's `num_pages: 150`.
-
-Terminal-boundary audit: [`../TERMINAL_BOUNDARY_AUDIT.md`](../TERMINAL_BOUNDARY_AUDIT.md).
+Terminal reconciliation: [`../TERMINAL_BOUNDARY_AUDIT.md`](../TERMINAL_BOUNDARY_AUDIT.md).  
+Final reconciliation: [`../FINAL_RECONCILIATION.md`](../FINAL_RECONCILIATION.md).

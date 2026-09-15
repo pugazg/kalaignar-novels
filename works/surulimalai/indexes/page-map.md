@@ -1,10 +1,4 @@
-| 50 | 48 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; scan49→50 continuation preserved |
-| 51 | 49 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
-| 52 | 50 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; verse lineation re-confirmed |
-| 53 | 51 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 corrections; `உளர`→`உளற` |
-| 54 | 52 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`; scan55 not opened |
-
-This manifest currently covers only the pages exposed by the degraded Files parser. Printed-page values remain `—` unless directly verified from a complete source view. No source-ending or page-count inference may be made from the parser's 150-page ceiling.
+Complete physical-source manifest for the verified **198-scan** copy. Printed-page values are recorded only where directly source-visible; `—` means no printed page number is visible on that physical scan. The earlier 150-page parser ceiling is non-authoritative and no longer limits terminal reconciliation.
 
 | Scan | Printed page | Page type / function | Status | Note |
 |---:|---:|---|---|---|
@@ -31,7 +25,7 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 21 | 19 | body / chapter 1 | **verified** | T1/T2/T3 PASS; bottom-left small `2` confirmed non-body |
 | 22 | 20 | body / chapter 1→2 transition | **verified** | T1/T2/T3 PASS; centered chapter no. 2 confirmed |
 | 23 | 21 | body / chapter 2 | **verified** | T1/T2/T3 PASS; source spacing/forms retained |
-| 24 | 22 | body / chapter 2 | **verified** | T1/T2/T3 PASS; ends `அதைத்`; scan25 not used |
+| 24 | 22 | body / chapter 2 | **verified** | T1/T2/T3 PASS; ends `அதைத்` |
 | 25 | 23 | body / chapter 2 | **verified** | T1/T2/T3 PASS; 4 T3 source-representation corrections |
 | 26 | 24 | body / chapter 2 | **verified** | T1/T2/T3 PASS; 3 T3 source-representation corrections |
 | 27 | 25 | body / chapter 2 | **verified** | T1/T2/T3 PASS; 2 T3 source-representation corrections |
@@ -41,12 +35,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 31 | 29 | body / chapter 3 | **verified** | T1/T2/T3 PASS; 0 T2 + 1 T3 correction |
 | 32 | 30 | body / chapter 3 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 corrections |
 | 33 | 31 | body / chapter 3 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 corrections |
-| 34 | 32 | body / chapter 3 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections; ends `அதில்`; scan35 not opened |
+| 34 | 32 | body / chapter 3 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections; ends `அதில்` |
 | 35 | 33 | body / chapter 3 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 corrections |
 | 36 | 34 | body / chapter 3 | **verified** | T1/T2/T3 PASS; 0 T2 + 1 T3 correction |
 | 37 | 35 | body / chapter 3→4 transition | **verified** | T1/T2/T3 PASS; 3 T2 + 0 T3 corrections; centered chapter no. 4; bottom-left small 3 non-body |
 | 38 | 36 | body / chapter 4 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections |
-| 39 | 37 | body / chapter 4 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; scan40 not opened |
+| 39 | 37 | body / chapter 4 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
 | 40 | 38 | body / chapter 4 | **verified** | T1/T2/T3 PASS; 0 T3 corrections |
 | 41 | 39 | body / chapter 4 | **verified** | T1/T2/T3 PASS; 0 T3 corrections |
 | 42 | 40 | body / chapter 4 | **verified** | T1/T2/T3 PASS; source punctuation + physical page-boundary repair; ends `அவள் கண்கள் கலங்கி` |
@@ -55,6 +49,13 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 45 | 43 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 corrections |
 | 46 | 44 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections |
 | 47 | 45 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 3 T2 + 0 T3 corrections |
+| 48 | 46 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections; ends `அப்பா—` |
+| 49 | 47 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; begins `—நீங்கள்...`; ends `அந்தப்பேய்` |
+| 50 | 48 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; scan49→50 continuation preserved |
+| 51 | 49 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
+| 52 | 50 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; verse lineation re-confirmed |
+| 53 | 51 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 corrections; `உளர`→`உளற` |
+| 54 | 52 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!` |
 | 55 | 53 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections; scan54→55 continuity re-confirmed |
 | 56 | 54 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections |
 | 57 | 55 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
@@ -64,7 +65,7 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 61 | 59 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction |
 | 62 | 60 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction |
 | 63 | 61 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction; ends `அவன் சபித்தான்.` |
-| 64 | 62 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `வாய் பிளந்தாள்!`; scan65 not opened |
+| 64 | 62 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `வாய் பிளந்தாள்!` |
 | 65 | 63 | body / chapter 8 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; chapter 8 re-confirmed |
 | 66 | 64 | body / chapter 8 | **verified** | T1/T2/T3 PASS; 4 T2 + 0 T3 corrections |
 | 67 | 65 | body / chapter 8 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections |
@@ -79,7 +80,7 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 76 | 74 | body / chapter 9 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; begins `செய்வது;` |
 | 77 | 75 | body / chapter 9 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction |
 | 78 | 76 | body / chapter 10 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; chapter 10 re-confirmed |
-| 79 | 77 | body / chapter 10 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `என்று கடிந்து கொண்டாள் பொன்மணி.`; scan80 not opened |
+| 79 | 77 | body / chapter 10 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `என்று கடிந்து கொண்டாள் பொன்மணி.` |
 | 80 | 78 | body / chapter 10 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `எப்படிடா கேக்கிறதுன்னு` |
 | 81 | 79 | body / chapter 10 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
 | 82 | 80 | body / chapter 10 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
@@ -109,7 +110,7 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 106 | 104 | body / chapter 13→14 | **verified** | T1/T2/T3 PASS; source-visible chapter **14** |
 | 107 | 105 | body / chapter 14 | **verified** | T1/T2/T3 PASS; ends `அவன் தெற்கு வீதியைக் கடந்து` |
 | 108 | 106 | body / chapter 14 | **verified** | T1/T2/T3 PASS; omitted latter source span restored; ends `அந்த மரத்தில் ஒருகிளையில்` |
-| 109 | 107 | body / chapter 14 | **verified** | T1/T2/T3 PASS; full source text restored through `என்று கூறினேன்.`; scan110 not opened |
+| 109 | 107 | body / chapter 14 | **verified** | T1/T2/T3 PASS; full source text restored through `என்று கூறினேன்.` |
 | 110 | 108 | body / chapter 14 | **verified** | T1/T2/T3 PASS; 5 T2 + 6 T3 corrections |
 | 111 | 109 | body / chapter 14 | **verified** | T1/T2/T3 PASS; 5 T2 + 5 T3 corrections |
 | 112 | 110 | body / chapter 14 | **verified** | T1/T2/T3 PASS; 5 T2 + 1 T3 corrections |
@@ -124,7 +125,7 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 121 | 119 | body / chapter 16 | **verified** | T1/T2/T3 PASS; 3 T2 + 4 T3 corrections |
 | 122 | 120 | body / chapter 16 | **verified** | T1/T2/T3 PASS; 4 T2 + 3 T3 corrections |
 | 123 | 121 | body / chapter 16 | **verified** | T1/T2/T3 PASS; 5 T2 + 3 T3 corrections; ends `அடுக்` |
-| 124 | 122 | body / chapter 16 | **verified** | T1/T2/T3 PASS; 4 T2 + 4 T3 corrections; begins `டுக்காக`; scan125 not opened |
+| 124 | 122 | body / chapter 16 | **verified** | T1/T2/T3 PASS; 4 T2 + 4 T3 corrections; begins `டுக்காக` |
 | 125 | 123 | body / chapter 16 | **verified** | T1/T2/T3 PASS; 12 T2 + 9 T3 corrections |
 | 126 | 124 | body / chapter 16 | **verified** | T1/T2/T3 PASS; 19 T2 + 4 T3 corrections |
 | 127 | 125 | body / chapter 16→17 | **verified** | T1/T2/T3 PASS; 7 T2 + 5 T3 corrections; chapter **17** re-confirmed |
@@ -139,7 +140,7 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 136 | 134 | body / chapter 17→18 | **verified** | T1/T2/T3 PASS; 8 T2 + 10 T3 corrections; chapter **18** re-confirmed |
 | 137 | 135 | body / chapter 18 | **verified** | T1/T2/T3 PASS; 11 T2 + 4 T3 corrections |
 | 138 | 136 | body / chapter 18 | **verified** | T1/T2/T3 PASS; 5 T2 + 7 T3 corrections |
-| 139 | 137 | body / chapter 18 | **verified** | T1/T2/T3 PASS; 10 T2 + 6 T3 corrections; scan140 not opened during T3 |
+| 139 | 137 | body / chapter 18 | **verified** | T1/T2/T3 PASS; 10 T2 + 6 T3 corrections |
 | 140 | 138 | body / chapter 18 | **verified** | T1/T2/T3 PASS; 5 T2 + 1 T3 corrections |
 | 141 | 139 | body / chapter 18 | **verified** | T1/T2/T3 PASS; 12 T2 + 1 T3 corrections |
 | 142 | 140 | body / chapter 18 | **verified** | T1/T2/T3 PASS; 11 T2 + 4 T3 corrections |
@@ -154,7 +155,7 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 151 | 149 | body / chapter 20 opener | **verified** | T1/T2/T3 PASS; 2 T2 + 2 T3 corrections; chapter **20** re-confirmed |
 | 152 | 150 | body / chapter 20 | **verified** | T1/T2/T3 PASS; 4 T2 + 3 T3 corrections |
 | 153 | 151 | body / chapter 20 | **verified** | T1/T2/T3 PASS; 6 T2 + 2 T3 corrections |
-| 154 | 152 | body / chapter 20 | **verified** | T1/T2/T3 PASS; 10 T2 + 0 T3 corrections; scan155 not opened during T3 |
+| 154 | 152 | body / chapter 20 | **verified** | T1/T2/T3 PASS; 10 T2 + 0 T3 corrections |
 
 | 155 | 153 | body / chapter 20 | **verified** | T1/T2/T3 PASS; 3 T2 + 2 T3 corrections |
 | 156 | 154 | chapter 21 opener | **verified** | T1/T2/T3 PASS; 7 T2 + 2 T3 corrections; chapter **21** re-confirmed |
@@ -170,50 +171,51 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 166 | 164 | body / chapter 22 | **verified** | T1/T2/T3 PASS; 16 T2 + 2 T3 corrections |
 | 167 | 165 | body / chapter 22 | **verified** | T1/T2/T3 PASS; 9 T2 + 0 T3 corrections; ends `மழைத்` |
 | 168 | 166 | body / chapter 22→23 | **verified** | T1/T2/T3 PASS; 5 T2 + 0 T3 corrections; begins `துளிகளைக்`; chapter **23** re-confirmed |
-| 169 | 167 | body / chapter 23 | **verified** | T1/T2/T3 PASS; 6 T2 + 4 T3 corrections; ends `அந்தப்`; scan170 not opened during T3 |
+| 169 | 167 | body / chapter 23 | **verified** | T1/T2/T3 PASS; 6 T2 + 4 T3 corrections; ends `அந்தப்` |
 
-| 170 | 168 | body / chapter 23 | **verified** | T1/T2 PASS; 2 T2 corrections; T3 pending; begins `பொறுப்பினால்`; scan169→170 split re-confirmed |; T3 3 changes
-| 171 | 169 | body / chapter 23 | **verified** | T1/T2 PASS; 2 T2 corrections; T3 pending |; T3 2 changes
-| 172 | 170 | body / chapter 23 | **verified** | T1/T2 PASS; 3 T2 corrections; T3 pending |; T3 0 changes
-| 173 | 171 | body / chapter 23 | **verified** | T1/T2 PASS; 0 T2 corrections; T3 pending |; T3 2 changes
-| 174 | 172 | body / chapter 23→24 | **verified** | T1/T2 PASS; 0 T2 corrections; T3 pending; chapter **24** confirmed |; T3 1 change
-| 175 | 173 | body / chapter 24 | **verified** | T1/T2 PASS; 1 T2 correction; T3 pending; ends `தவறு` |; T3 5 changes
-| 176 | 174 | body / chapter 24 | **verified** | T1/T2 PASS; 3 T2 corrections; T3 pending; begins `களுக்காக`; split re-confirmed |; T3 2 changes
-| 177 | 175 | body / chapter 24 | **verified** | T1/T2 PASS; 2 T2 corrections; T3 pending |; T3 3 changes
-| 178 | 176 | body / chapter 24 | **verified** | T1/T2 PASS; 0 T2 corrections; T3 pending |; T3 1 change
-| 179 | 177 | body / chapter 24 | **verified** | T1/T2 PASS; 0 T2 corrections; T3 pending |; T3 2 changes
-| 180 | 178 | body / chapter 24 | **verified** | T1/T2 PASS; 2 T2 corrections; T3 pending; part006 ends; ends `என்றான் நிதானமாக!` |; T3 4 changes
-| 181 | 179 | body / chapter 24→25 | **verified** | T1/T2 PASS; 3 T2 corrections; T3 pending; part007 begins; chapter **25** confirmed; printer/signature `12` excluded |; T3 1 change; 1 T2 spacing decision superseded in T3
-| 182 | 180 | body / chapter 25 | **verified** | T1/T2 PASS; 7 T2 corrections; T3 pending; begins `தான் சொல்ல வேண்டும்.`; scan181→182 continuation preserved |; T3 2 changes
-| 183 | 181 | body / chapter 25 | **verified** | T1/T2 PASS; 0 T2 corrections; T3 pending |; T3 2 changes
-| 184 | 182 | body / chapter 25 | **verified** | T1/T2 PASS; 0 T2 corrections; T3 pending; scan185 not opened |; T3 0 changes
+| 170 | 168 | body / chapter 23 | **verified** | T1/T2/T3 PASS; 2 T2 corrections;  begins `பொறுப்பினால்`; scan169→170 split re-confirmed ; T3 3 changes
+| 171 | 169 | body / chapter 23 | **verified** | T1/T2/T3 PASS; 2 T2 corrections;  ; T3 2 changes
+| 172 | 170 | body / chapter 23 | **verified** | T1/T2/T3 PASS; 3 T2 corrections;  ; T3 0 changes
+| 173 | 171 | body / chapter 23 | **verified** | T1/T2/T3 PASS; 0 T2 corrections;  ; T3 2 changes
+| 174 | 172 | body / chapter 23→24 | **verified** | T1/T2/T3 PASS; 0 T2 corrections;  chapter **24** confirmed ; T3 1 change
+| 175 | 173 | body / chapter 24 | **verified** | T1/T2/T3 PASS; 1 T2 correction;  ends `தவறு` ; T3 5 changes
+| 176 | 174 | body / chapter 24 | **verified** | T1/T2/T3 PASS; 3 T2 corrections;  begins `களுக்காக`; split re-confirmed ; T3 2 changes
+| 177 | 175 | body / chapter 24 | **verified** | T1/T2/T3 PASS; 2 T2 corrections;  ; T3 3 changes
+| 178 | 176 | body / chapter 24 | **verified** | T1/T2/T3 PASS; 0 T2 corrections;  ; T3 1 change
+| 179 | 177 | body / chapter 24 | **verified** | T1/T2/T3 PASS; 0 T2 corrections;  ; T3 2 changes
+| 180 | 178 | body / chapter 24 | **verified** | T1/T2/T3 PASS; 2 T2 corrections;  part006 ends; ends `என்றான் நிதானமாக!` ; T3 4 changes
+| 181 | 179 | body / chapter 24→25 | **verified** | T1/T2/T3 PASS; 3 T2 corrections;  part007 begins; chapter **25** confirmed; printer/signature `12` excluded ; T3 1 change; 1 T2 spacing decision superseded in T3
+| 182 | 180 | body / chapter 25 | **verified** | T1/T2/T3 PASS; 7 T2 corrections;  begins `தான் சொல்ல வேண்டும்.`; scan181→182 continuation preserved ; T3 2 changes
+| 183 | 181 | body / chapter 25 | **verified** | T1/T2/T3 PASS; 0 T2 corrections;  ; T3 2 changes
+| 184 | 182 | body / chapter 25 | **verified** | T1/T2/T3 PASS; 0 T2 corrections ; T3 0 changes
 
-| 185 | 183 | body / chapter 25 | **verified** | T1/T2 PASS; 3 T2 corrections; T3 pending |; T3 0 changes
-| 186 | 184 | body / chapter 25→26 | **verified** | T1/T2 PASS; 2 T2 corrections; T3 pending; chapter **26** confirmed |; T3 0 changes
-| 187 | 185 | body / chapter 26 | **verified** | T1/T2 PASS; 3 T2 corrections; T3 pending |; T3 0 changes
-| 188 | 186 | body / chapter 26 | **verified** | T1/T2 PASS; 2 T2 corrections; T3 pending |; T3 0 changes
-| 189 | 187 | body / chapter 26 | **verified** | T1/T2 PASS; 1 T2 correction; T3 pending; scene divider retained; ends `கட்டு சாதமூட்டை` |; T3 2 changes
-| 190 | 188 | body / chapter 26 | **verified** | T1/T2 PASS; 1 T2 correction; T3 pending; begins `களுடன்`; ends `குதிக்காமல்` |; T3 0 changes
-| 191 | 189 | body / chapter 26 | **verified** | T1/T2 PASS; 0 T2 corrections; T3 pending; begins `தடுப்பேன்!` |; T3 2 changes
-| 192 | 190 | body / chapter 26 | **verified** | T1/T2 PASS; 3 T2 corrections; T3 pending |; T3 1 change
-| 193 | 191 | body / chapter 26→27 | **verified** | T1/T2 PASS; 0 T2 corrections; T3 pending; chapter **27** confirmed |; T3 1 change
-| 194 | 192 | body / chapter 27 | **verified** | T1/T2 PASS; 0 T2 corrections; T3 pending; ends `தயங்` |; T3 1 change
-| 195 | 193 | body / chapter 27 | **verified** | T1/T2 PASS; 0 T2 corrections; T3 pending; begins `கிற்று.`; split re-confirmed |; T3 1 change
-| 196 | 194 | body / chapter 27 | **verified** | T1/T2 PASS; 0 T2 corrections; T3 pending |; T3 0 changes
-| 197 | 195 | body / work ending | **verified** | T1/T2 PASS; 4 T2 corrections; T3 pending; source-visible `[முற்றிற்று.]` retained |; T3 5 changes
-| 198 | — | back-cover / publisher-device | **verified** | T1/T2 PASS; 1 T2 correction; T3 pending; `திராவிடப்பண்ணை` / `திருச்சி`; wrapper-printer imprint retained |; T3 0 changes
+| 185 | 183 | body / chapter 25 | **verified** | T1/T2/T3 PASS; 3 T2 corrections;  ; T3 0 changes
+| 186 | 184 | body / chapter 25→26 | **verified** | T1/T2/T3 PASS; 2 T2 corrections;  chapter **26** confirmed ; T3 0 changes
+| 187 | 185 | body / chapter 26 | **verified** | T1/T2/T3 PASS; 3 T2 corrections;  ; T3 0 changes
+| 188 | 186 | body / chapter 26 | **verified** | T1/T2/T3 PASS; 2 T2 corrections;  ; T3 0 changes
+| 189 | 187 | body / chapter 26 | **verified** | T1/T2/T3 PASS; 1 T2 correction;  scene divider retained; ends `கட்டு சாதமூட்டை` ; T3 2 changes
+| 190 | 188 | body / chapter 26 | **verified** | T1/T2/T3 PASS; 1 T2 correction;  begins `களுடன்`; ends `குதிக்காமல்` ; T3 0 changes
+| 191 | 189 | body / chapter 26 | **verified** | T1/T2/T3 PASS; 0 T2 corrections;  begins `தடுப்பேன்!` ; T3 2 changes
+| 192 | 190 | body / chapter 26 | **verified** | T1/T2/T3 PASS; 3 T2 corrections;  ; T3 1 change
+| 193 | 191 | body / chapter 26→27 | **verified** | T1/T2/T3 PASS; 0 T2 corrections;  chapter **27** confirmed ; T3 1 change
+| 194 | 192 | body / chapter 27 | **verified** | T1/T2/T3 PASS; 0 T2 corrections;  ends `தயங்` ; T3 1 change
+| 195 | 193 | body / chapter 27 | **verified** | T1/T2/T3 PASS; 0 T2 corrections;  begins `கிற்று.`; split re-confirmed ; T3 1 change
+| 196 | 194 | body / chapter 27 | **verified** | T1/T2/T3 PASS; 0 T2 corrections;  ; T3 0 changes
+| 197 | 195 | body / work ending | **verified** | T1/T2/T3 PASS; 4 T2 corrections;  source-visible `[முற்றிற்று.]` retained ; T3 5 changes
+| 198 | — | back-cover / publisher-device | **verified** | T1/T2/T3 PASS; 1 T2 correction;  `திராவிடப்பண்ணை` / `திருச்சி`; wrapper-printer imprint retained ; T3 0 changes
 
-## Intake counts
+## Terminal reconciliation counts
 
-- original monolithic parser-visible pages registered: **150**;
-- authoritative source extent: **198 pages**;
-- parser completeness for the monolithic artifact: **FAIL / TRUNCATED VIEW**; source-readable split derivatives are now being used beyond scan150;
-- page records: **198 total — 198 `verified`**;
-- body T1: **scans 5–197 COMPLETE / PASS; scan198 back-cover/publisher-device T1 COMPLETE / PASS**;
-- body T2: **scans 5–198 COMPLETE / PASS; scans185–198 = 20 corrections; unresolved 0**;
-- body T3: **scans 5–198 COMPLETE / PASS / VERIFIED; scans185–198 = 13 additional T3 source-fidelity changes**;
-- prior terminal scan→printed-page mapping: **INVALIDATED**;
-- terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
-- SHA-256 status: **PENDING**.
+- complete runtime source representation: **198 physical pages**;
+- complete-source file size: **268,529,598 bytes**;
+- SHA-256: **`3d940115bed12e818b8f3cbfbdfca56def0285aef803334f8711acf27f7408ea`**;
+- historical ChatGPT Files parser view: **150 pages / truncated** — retained only as ingestion history and **not** used for extent or terminal structure;
+- canonical page records: **198 total — scans 1–198 exactly once, all `verified`**;
+- page-map rows: **198 unique scan rows — no gaps / no duplicates**;
+- body/source T1/T2/T3: **COMPLETE / PASS / VERIFIED through scan198**;
+- scan197 / printed195: source-visible work ending **`[முற்றிற்று.]`**;
+- scan198: **back-cover / publisher-device**, no story body;
+- obsolete parser-derived `pages/0150-back-cover.md`: **removed from canonical pages and preserved under `superseded/`**;
+- terminal/full-198-page reconciliation: **COMPLETE / PASS**.
 
-Exact next: **perform terminal/full-198-page reconciliation only; verify complete source coverage and control-file consistency before final closure.**
+Exact next: **build the assembled Tamil master from the verified page records in a new activity; do not begin English until assembled-Tamil structural validation passes.**

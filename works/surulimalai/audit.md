@@ -1,40 +1,25 @@
 # Audit — சுருளிமலை
 
-## Intake gate
+## Intake / terminal gate
 
-Status: **IN PROGRESS**.
+Status: **COMPLETE / PASS**.
 
-Completed:
+Final source controls:
 
-- live repository checked and current work continued in `works/surulimalai/`;
-- root processing guides reviewed;
-- attached source inspected directly at the opening;
-- title / author / publisher / edition verified from source scans;
-- source size / attached-artifact scan count registered;
-- user correction/source identity recorded: this copy has **198 pages**; the ChatGPT Files parser currently exposes only **150 pages**;
-- front matter scans 1–4: **VERIFIED**;
-- T1 scans **5–9: COMPLETE / PASS — 5/5**;
-- T2 scans **5–9: COMPLETE / PASS — 5/5**;
-- T3 scans **5–9: COMPLETE / PASS — 5/5**;
-- scans 5–9 canonical page records: **5/5 VERIFIED**;
-- T1 scans **10–14: COMPLETE / PASS — 5/5**;
-- scans 10–14 canonical page records: **5/5 VERIFIED**;
-- visible printed-page mapping added: **scan10 = 8; scan11 = 9; scan12 = 10; scan13 = 11; scan14 = — / chapter no. 1**;
-- visible printed-page mapping: **scan5 = —; scan6 = 4; scan7 = 5; scan8 = 6; scan9 = 7**;
-- T2 corrections: **1**;
-- T3 corrections: **6**;
-- unresolved historical glyphs after T2/T3: **0**;
-- source PDF excluded from repository.
+- complete source extent: **198 physical pages**;
+- complete source bytes: **268,529,598**;
+- SHA-256: **`3d940115bed12e818b8f3cbfbdfca56def0285aef803334f8711acf27f7408ea`**;
+- front matter scans1–4: **VERIFIED**;
+- scans5–198 T1/T2/T3: **COMPLETE / PASS / VERIFIED**;
+- canonical page records: **198 / 198 — no gaps / no duplicates**;
+- page-map: **198 unique ordered rows**;
+- scan197 / printed195 ending: **`[முற்றிற்று.]`**;
+- scan198: **back-cover / publisher-device**;
+- terminal/full-198-page reconciliation: **COMPLETE / PASS**;
+- unresolved source-form / terminal-control issues: **0**;
+- Tamil source-archival phase: **CLOSED**.
 
-Open:
-
-- SHA-256 checksum;
-- complete-source / terminal reconciliation against a full **198-page** representation;
-- complete per-scan page-type / visible printed-page mapping for the remaining body;
-- later whole-work Tamil audit.
-
-Canonical body transcription is **T1/T2/T3 VERIFIED through scan 198**. The scans185–198 T3 pass independently re-confirmed all **20** T2 corrections, added **13** final source-fidelity changes, and left **0 unresolved** readings with **0 / 0** omissions / duplicate body spans. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
-
+The historical 150-page Files parser ceiling is non-authoritative. The complete 198-page runtime source is now the terminal-reconciliation authority.
 
 ## Scans 40–44 T1 gate
 
@@ -1079,4 +1064,28 @@ Status: **COMPLETE / PASS — 14/14 VERIFIED**.
 - scans **5–198 are now T1/T2/T3 VERIFIED**;
 - terminal/full-198-page reconciliation remains **DEFERRED**;
 - T3 audit: [`T3_AUDIT_185_198.md`](T3_AUDIT_185_198.md).
+
+## Terminal / full-198-page reconciliation gate
+
+Status: **COMPLETE / PASS**.
+
+- complete PDF: **198 pages**, **268,529,598 bytes**;
+- SHA-256: **`3d940115bed12e818b8f3cbfbdfca56def0285aef803334f8711acf27f7408ea`**;
+- full-source / part007 render correspondence checked at scans **181, 190, 198**: **pixel-identical**;
+- obsolete parser-derived `pages/0150-back-cover.md` removed from canonical pages and preserved under `superseded/`;
+- canonical page records: **198 / 198**;
+- page-map defects repaired: missing scans48–49 restored; stranded rows50–54 returned to sequence;
+- final page-map invariant: **198 unique ordered rows, no gaps, no duplicates**;
+- stale final-row `T3 pending` labels normalized;
+- source-visible chapter numbering preserved, including the source jump **5→8**;
+- scan197 / printed195 `[முற்றிற்று.]` and scan198 back-cover/publisher-device terminal boundary confirmed;
+- unresolved terminal/control inconsistencies: **0**;
+- Tamil source-archival phase: **CLOSED**.
+
+Authority: [`TERMINAL_BOUNDARY_AUDIT.md`](TERMINAL_BOUNDARY_AUDIT.md).  
+Final reconciliation: [`FINAL_RECONCILIATION.md`](FINAL_RECONCILIATION.md).
+
+## Exact next activity
+
+In a **new activity**, build the **assembled Tamil master** from the verified canonical page records. Do not begin English until assembled-Tamil structural validation passes.
 
