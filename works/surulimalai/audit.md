@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 VERIFIED through scan 124**. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
+Canonical body transcription is **T1/T2/T3 VERIFIED through scan 139**. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
 
 
 ## Scans 40–44 T1 gate
@@ -650,7 +650,7 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans125–139 only — 15 physical pages** and stop before scan140.
+Perform **T1 scans140–154 only — 15 physical pages** and stop before T2 / scan155.
 
 
 ## Scans 95–109 T3 gate
@@ -779,3 +779,19 @@ Status: **COMPLETE / PASS — 15/15**.
 - all fifteen page records remain **needs-review pending T3**;
 - scan140 was **not opened or used**;
 - T2 audit: [`T2_AUDIT_125_139.md`](T2_AUDIT_125_139.md).
+
+
+## Scans 125–139 T3 gate
+
+Status: **COMPLETE / PASS — 15/15 VERIFIED**.
+
+- all **171** T2 corrections re-confirmed;
+- additional T3 source-fidelity corrections: **85**;
+- per-scan T3 additions: scan125 **9**; scan126 **4**; scan127 **5**; scan128 **4**; scan129 **8**; scan130 **5**; scan131 **4**; scan132 **10**; scan133 **3**; scan134 **3**; scan135 **3**; scan136 **10**; scan137 **4**; scan138 **7**; scan139 **6**;
+- chapter **17** at scan127 and chapter **18** at scan136 re-confirmed;
+- scan133 printer/signature number `9` remains excluded;
+- omissions / duplicate body spans: **0 / 0**;
+- unresolved after T3: **0**;
+- scans125–139 final status: **verified**;
+- scan140 was **not opened or used** during T3;
+- T3 audit: [`T3_AUDIT_125_139.md`](T3_AUDIT_125_139.md).

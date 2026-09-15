@@ -125,21 +125,21 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 122 | 120 | body / chapter 16 | **verified** | T1/T2/T3 PASS; 4 T2 + 3 T3 corrections |
 | 123 | 121 | body / chapter 16 | **verified** | T1/T2/T3 PASS; 5 T2 + 3 T3 corrections; ends `அடுக்` |
 | 124 | 122 | body / chapter 16 | **verified** | T1/T2/T3 PASS; 4 T2 + 4 T3 corrections; begins `டுக்காக`; scan125 not opened |
-| 125 | 123 | body / chapter 16 | **needs-review** | T1/T2 PASS; 12 T2 corrections; T3 pending |
-| 126 | 124 | body / chapter 16 | **needs-review** | T1/T2 PASS; 19 T2 corrections; T3 pending |
-| 127 | 125 | body / chapter 16→17 | **needs-review** | T1/T2 PASS; 7 T2 corrections; chapter **17** re-confirmed; T3 pending |
-| 128 | 126 | body / chapter 17 | **needs-review** | T1/T2 PASS; 9 T2 corrections; T3 pending |
-| 129 | 127 | body / chapter 17 | **needs-review** | T1/T2 PASS; 15 T2 corrections; T3 pending |
-| 130 | 128 | body / chapter 17 | **needs-review** | T1/T2 PASS; 13 T2 corrections; T3 pending |
-| 131 | 129 | body / chapter 17 | **needs-review** | T1/T2 PASS; 14 T2 corrections; T3 pending |
-| 132 | 130 | body / chapter 17 | **needs-review** | T1/T2 PASS; 16 T2 corrections; T3 pending |
-| 133 | 131 | body / chapter 17 | **needs-review** | T1/T2 PASS; 15 T2 corrections; printer/signature `9` excluded; T3 pending |
-| 134 | 132 | body / chapter 17 | **needs-review** | T1/T2 PASS; 6 T2 corrections; T3 pending |
-| 135 | 133 | body / chapter 17 | **needs-review** | T1/T2 PASS; 11 T2 corrections; T3 pending |
-| 136 | 134 | body / chapter 17→18 | **needs-review** | T1/T2 PASS; 8 T2 corrections; chapter **18** re-confirmed; T3 pending |
-| 137 | 135 | body / chapter 18 | **needs-review** | T1/T2 PASS; 11 T2 corrections; T3 pending |
-| 138 | 136 | body / chapter 18 | **needs-review** | T1/T2 PASS; 5 T2 corrections; T3 pending |
-| 139 | 137 | body / chapter 18 | **needs-review** | T1/T2 PASS; 10 T2 corrections; scan140 not opened; T3 pending |
+| 125 | 123 | body / chapter 16 | **verified** | T1/T2/T3 PASS; 12 T2 + 9 T3 corrections |
+| 126 | 124 | body / chapter 16 | **verified** | T1/T2/T3 PASS; 19 T2 + 4 T3 corrections |
+| 127 | 125 | body / chapter 16→17 | **verified** | T1/T2/T3 PASS; 7 T2 + 5 T3 corrections; chapter **17** re-confirmed |
+| 128 | 126 | body / chapter 17 | **verified** | T1/T2/T3 PASS; 9 T2 + 4 T3 corrections |
+| 129 | 127 | body / chapter 17 | **verified** | T1/T2/T3 PASS; 15 T2 + 8 T3 corrections |
+| 130 | 128 | body / chapter 17 | **verified** | T1/T2/T3 PASS; 13 T2 + 5 T3 corrections |
+| 131 | 129 | body / chapter 17 | **verified** | T1/T2/T3 PASS; 14 T2 + 4 T3 corrections |
+| 132 | 130 | body / chapter 17 | **verified** | T1/T2/T3 PASS; 16 T2 + 10 T3 corrections |
+| 133 | 131 | body / chapter 17 | **verified** | T1/T2/T3 PASS; 15 T2 + 3 T3 corrections; printer/signature `9` excluded |
+| 134 | 132 | body / chapter 17 | **verified** | T1/T2/T3 PASS; 6 T2 + 3 T3 corrections |
+| 135 | 133 | body / chapter 17 | **verified** | T1/T2/T3 PASS; 11 T2 + 3 T3 corrections |
+| 136 | 134 | body / chapter 17→18 | **verified** | T1/T2/T3 PASS; 8 T2 + 10 T3 corrections; chapter **18** re-confirmed |
+| 137 | 135 | body / chapter 18 | **verified** | T1/T2/T3 PASS; 11 T2 + 4 T3 corrections |
+| 138 | 136 | body / chapter 18 | **verified** | T1/T2/T3 PASS; 5 T2 + 7 T3 corrections |
+| 139 | 137 | body / chapter 18 | **verified** | T1/T2/T3 PASS; 10 T2 + 6 T3 corrections; scan140 not opened during T3 |
 | 140 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
 | 141 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
 | 142 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
@@ -157,12 +157,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records: **139 total — 124 `verified` + 15 `needs-review`**;
+- page records: **139 total — 139 `verified` + 0 `needs-review`**;
 - body T1: **scans 5–139 COMPLETE / PASS**;
 - body T2: **scans 5–139 COMPLETE / PASS; scans125–139 = 171 corrections; unresolved 0**;
-- body T3: **scans 5–124 COMPLETE / PASS / VERIFIED; scans110–124 = 76 additional T3 corrections after 73 T2 corrections**;
+- body T3: **scans 5–139 COMPLETE / PASS / VERIFIED; scans125–139 = 85 additional T3 corrections after 171 T2 corrections**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T3 final source-fidelity review for scans125–139 only — 15 physical pages; re-confirm all 171 T2 corrections; stop before scan140. Full-source/terminal reconciliation remains deferred.**
+Exact next: **perform T1 scans140–154 only — 15 physical pages: part005 extract pages20–30 + part006 extract pages1–4; stop before T2 / scan155. Full-source/terminal reconciliation remains deferred.**
