@@ -7,7 +7,7 @@ page_type: "body / chapter transition"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete"
+transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete"
 ---
 
 —பதில் இல்லை.
@@ -39,6 +39,15 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 - physical opening re-confirmed as `—பதில் இல்லை.`;
 - physical ending re-confirmed as `பிணமாகிவிட்டால்`;
 - source-looking spellings, punctuation, word joins, and historical glyph forms remain reserved for independent T2;
-- page status: **needs-review** pending T2.
+- historical T1 state: **needs-review** pending T2.
 
-<!-- source physical scan: 174; visible printed page: 172; T1 COMPLETE / NEEDS-REVIEW -->
+## T2 historical-glyph/source-form notes
+
+- independent full-page source-pixel source-form audit complete;
+- source-proven T2 corrections: **0**;
+- source-visible chapter **24** re-confirmed at scan174 / printed172;
+- physical page opening/ending re-confirmed;
+- unresolved historical/source-form readings after T2: **0**;
+- page remains **needs-review** pending T3.
+
+<!-- source physical scan: 174; visible printed page: 172; T1/T2 COMPLETE / NEEDS-REVIEW -->

@@ -7,7 +7,7 @@ page_type: "body / chapter transition"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete"
+transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete"
 ---
 
 "என்ன நிபந்தனை?"—பஞ்சாயத்தார் கேட்டார்.
@@ -24,9 +24,9 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 
 ## 25
 
-காதல் ஒரு வானவில் என்பார்கள். அதன் வர்ண ஜாலங்களைக் கண்டறிய முடியாது என்பார்கள். ஒரு சிலர் காதல் வற்றாத ஜீவ நதி யென்பர். வேறு சிலர், கைபட்டால் உடைந்து விடும் கண்ணாடிதான் காதல் என விளக்கம் கூறுவர். காலை யரும்பிப் பகலெல்லாம் போதாகி மாலை மலரும் நோய் என்று செல்லமாகத் திட்டினார் திருவள்ளுவர். காதல் ஒரு கடல்; அதற்குக் கரையே கிடையாது என்பவர்களும், காதல் ஒரு அழுக்குக் குட்டை; கால் வைத்தால் சேற்றில் அமிழ்ந்து விடவேண்டும் என்பவர்களும் உலகத்தில் உண்டு.
+காதல் ஒரு வானவில் என்பார்கள். அதன் வர்ண ஜாலங்களைக் கண்டறிய முடியாது என்பார்கள். ஒரு சிலர் காதல் வற்றாத ஜீவ நதி யென்பர். வேறு சிலர், கைபட்டால் உடைந்து விடும் கண்ணாடிதான் காதல் என விளக்கம் கூறுவர். காலையரும்பிப் பகலெல்லாம் போதாகி மாலை மலரும் நோய் என்று செல்லமாகத் திட்டினார் திருவள்ளுவர். காதல் ஒரு கடல்; அதற்குக் கரையே கிடையாது என்பவர்களும், காதல் ஒரு அழுக்குக்குட்டை; கால் வைத்தால் சேற்றில் அமிழ்ந்து விடவேண்டும் என்பவர்களும் உலகத்தில் உண்டு.
 
-காதலைப்பற்றித் தெளிவாகச் சொன்னவர்கள் யாருமே இல்லை. காதல் என்பது இன்னதுதான் என்று மிகத் தெளிவாகச் சொல்ல வேண்டுமானால், முடிவாக "அது ஒரு குழப்பம்" என்று
+காதலைப்பற்றித் தெளிவாகச் சொன்னவர்கள் யாருமேயில்லை. காதல் என்பது இன்னதுதான் என்று மிகத் தெளிவாகச் சொல்ல வேண்டுமானால், முடிவாக "அது ஒரு குழப்பம்" என்று
 
 ## T1 direct-transcription notes
 
@@ -36,6 +36,17 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 - isolated bottom-left printer/signature number `12` is excluded from canonical body text;
 - physical ending re-confirmed as `முடிவாக "அது ஒரு குழப்பம்" என்று`;
 - source-looking spellings, punctuation, word joins, and historical glyph forms remain reserved for independent T2;
-- page status: **needs-review** pending T2.
+- historical T1 state: **needs-review** pending T2.
 
-<!-- source physical scan: 181; visible printed page: 179; T1 COMPLETE / NEEDS-REVIEW -->
+## T2 historical-glyph/source-form notes
+
+- independent full-page source-pixel source-form audit complete;
+- source-proven T2 corrections: **3**;
+- source-visible chapter **25** re-confirmed at scan181 / printed179;
+- isolated printer/signature number `12` remains excluded;
+- part006→part007 physical boundary at scan180→181 re-confirmed;
+- scan181→182 sentence continuation `என்று` / `தான் சொல்ல வேண்டும்.` re-confirmed;
+- unresolved historical/source-form readings after T2: **0**;
+- page remains **needs-review** pending T3.
+
+<!-- source physical scan: 181; visible printed page: 179; T1/T2 COMPLETE / NEEDS-REVIEW -->
