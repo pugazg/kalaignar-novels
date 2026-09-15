@@ -53,7 +53,8 @@ No bibliographic value above is inferred from the filename alone.
 - scan 44 — printed page **42**; T1/T2/T3 complete / **verified**; centered chapter **5** opener; lower-page omission restored; source form `எரு`;
 - scans 45–49 — T1/T2/T3 complete / **verified**; visible printed pages **43–47**; chapter **5** continues; T2 corrections **8**; T3 additional corrections **0**; unresolved after T3 **0**; scan48→49 split `அப்பா—` / `—நீங்கள்...`; scan49 ends `அந்தப்பேய்`;
 - scans 50–54 — T1/T2/T3 complete / **verified**; visible printed pages **48–52**; chapter **5** continues; T2 corrections **1** (`உளர`→`உளற`); T3 additional corrections **0**; unresolved after T3 **0**; scan49→50 split `அந்தப்பேய்` / `அவள் எதிரே...`; scan54 ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`;
-- scans 55–64 — T1/T2/T3 complete / **verified**; visible printed pages **53–62**; chapter **5** continues; T2 corrections **12**; T3 additional corrections **0**; unresolved after T3 **0**; scan54→55 continuity re-confirmed; scan64 ends `வாய் பிளந்தாள்!`; scan65 not opened;
+- scans 55–64 — T1/T2/T3 complete / **verified**; visible printed pages **53–62**;
+- scans 65–79 — T1 complete / **needs-review** pending T2; visible printed pages **63–77**; provisional baseline structural markers: chapter **8** at scan65, **9** at scan73, **10** at scan78, all pending T2 pixel confirmation; scan68→69 and scan75→76 physical splits preserved; scan79 ends `என்று கடிந்து கொண்டாள் பொன்மணி.`; scan80 not opened;
 - scans 45–144 — not yet fully page-mapped in this intake checkpoint;
 - current Files parser exposes pages **1–150 only** for a source known to contain **198 pages**;
 - previous terminal mapping based on that representation is **invalidated**;
@@ -91,12 +92,13 @@ The user supplied a descriptive synopsis mentioning கரகாட்டம்,
 3. scans **5–49 T1/T2/T3 COMPLETE / VERIFIED**;
 4. scans **50–54 T1/T2/T3 COMPLETE / PASS / VERIFIED**;
 5. scans **55–64 T1/T2/T3 COMPLETE / PASS / VERIFIED**;
-6. scans55–64 visible printed pages **53–62** and remain in chapter **5**;
-7. user-supplied MD used as baseline/navigation aid only; PDF pixels remain authoritative;
-8. scan54→55 continuity preserved;
-9. scan64 ends `வாய் பிளந்தாள்!`; scan65 was **not opened or used**;
-10. exact next: **T1 scans65–74 only — 10 physical pages**;
-11. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
-12. do not infer source extent from the current Files parser's `num_pages: 150`.
+6. scans **65–79 T1 COMPLETE / PASS — 15/15 needs-review pending T2**;
+7. scans65–79 visible printed pages **63–77**; provisional chapter markers **8 / 9 / 10** await T2 source-pixel confirmation;
+8. user-supplied MD used as baseline/navigation aid only; PDF pixels remain authoritative;
+9. scan68→69 and scan75→76 physical page splits preserved;
+10. scan79 ends `என்று கடிந்து கொண்டாள் பொன்மணி.`; scan80 was **not opened or used**;
+11. exact next: **T2 scans65–79 only — 15 physical pages**;
+12. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
+13. do not infer source extent from the current Files parser's `num_pages: 150`.
 
 Terminal-boundary audit: [`../TERMINAL_BOUNDARY_AUDIT.md`](../TERMINAL_BOUNDARY_AUDIT.md).

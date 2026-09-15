@@ -11,23 +11,22 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 
 ## Durable state
 - scans **5–64 T1/T2/T3: VERIFIED**;
-- scans55–64 visible printed pages: **53–62**;
-- scans55–64 remain in chapter **5**;
-- scans55–64 T2 corrections: **12**;
-- scans55–64 T3 additional corrections: **0**;
-- omissions / duplicate body spans after T3: **0 / 0**;
-- unresolved historical/source-form readings after T3 through scan64: **0**;
-- scan54→55 continuity re-confirmed;
-- scan64 ends at `வாய் பிளந்தாள்!`;
-- scan65 was **not opened or used**;
+- scans **65–79 T1: COMPLETE / PASS — 15/15 needs-review pending T2**;
+- scans65–79 visible printed pages: **63–77**;
+- provisional T1 structural markers for T2 source-pixel confirmation:
+  - scan65 / printed63 — chapter **8**;
+  - scan73 / printed71 — chapter **9**;
+  - scan78 / printed76 — chapter **10**;
+- scan68→69 split preserved at `அண்ணனுக்கும்` / `பொன்மணியைத்...`;
+- scan75→76 split preserved at `என்` / `செய்வது;`;
+- scan79 ends at `என்று கடிந்து கொண்டாள் பொன்மணி.`;
+- scan80 was **not opened or used**;
 - terminal/full-198-page issue remains **DEFERRED**;
-- batch-size policy: **10 physical pages per iteration**.
+- batch-size policy: **15 physical pages per iteration**.
 
-Completed checkpoint: `works/surulimalai/T1_BATCH_055_064.md`.  
-T2 audit: `works/surulimalai/T2_AUDIT_055_064.md`.  
-T3 audit: `works/surulimalai/T3_AUDIT_055_064.md`.
+Active checkpoint: `works/surulimalai/T1_BATCH_065_079.md`.
 
 ## Exact next activity
-Begin **T1 direct visual transcription for scans65–74 only — 10 physical pages**. Use the supplied `surulimalai.md` only as a baseline/navigation aid; the PDF scan pixels remain controlling. Create ten canonical page records, mark them `needs-review`, update controls, commit, and stop before T2.
+Perform **T2 independent historical-glyph/source-form review for scans65–79 only — 15 physical pages**. Re-check all mandatory glyph families, provisional chapter markers **8 / 9 / 10**, flagged source forms, punctuation, and physical page boundaries. Apply only source-proven corrections, keep all fifteen records `needs-review`, update controls, commit, and stop before T3.
 
 The 198-page ingestion / terminal-boundary issue remains deferred.

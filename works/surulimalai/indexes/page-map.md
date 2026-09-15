@@ -66,21 +66,21 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 62 | 60 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction |
 | 63 | 61 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction; ends `அவன் சபித்தான்.` |
 | 64 | 62 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `வாய் பிளந்தாள்!`; scan65 not opened |
-| 65 | — | unclassified | **not-started** | direct visual classification pending |
-| 66 | — | unclassified | **not-started** | direct visual classification pending |
-| 67 | — | unclassified | **not-started** | direct visual classification pending |
-| 68 | — | unclassified | **not-started** | direct visual classification pending |
-| 69 | — | unclassified | **not-started** | direct visual classification pending |
-| 70 | — | unclassified | **not-started** | direct visual classification pending |
-| 71 | — | unclassified | **not-started** | direct visual classification pending |
-| 72 | — | unclassified | **not-started** | direct visual classification pending |
-| 73 | — | unclassified | **not-started** | direct visual classification pending |
-| 74 | — | unclassified | **not-started** | direct visual classification pending |
-| 75 | — | unclassified | **not-started** | direct visual classification pending |
-| 76 | — | unclassified | **not-started** | direct visual classification pending |
-| 77 | — | unclassified | **not-started** | direct visual classification pending |
-| 78 | — | unclassified | **not-started** | direct visual classification pending |
-| 79 | — | unclassified | **not-started** | direct visual classification pending |
+| 65 | 63 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started; provisional chapter 8 marker pending T2 confirmation |
+| 66 | 64 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started |
+| 67 | 65 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started |
+| 68 | 66 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started; ends `அண்ணனுக்கும்` |
+| 69 | 67 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started; begins `பொன்மணியைத்...` |
+| 70 | 68 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started |
+| 71 | 69 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started |
+| 72 | 70 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started |
+| 73 | 71 | body / chapter 9 | **needs-review** | T1 PASS; T2/T3 not started; provisional chapter 9 marker pending T2 confirmation |
+| 74 | 72 | body / chapter 9 | **needs-review** | T1 PASS; T2/T3 not started |
+| 75 | 73 | body / chapter 9 | **needs-review** | T1 PASS; T2/T3 not started; ends `என்` |
+| 76 | 74 | body / chapter 9 | **needs-review** | T1 PASS; T2/T3 not started; begins `செய்வது;` |
+| 77 | 75 | body / chapter 9 | **needs-review** | T1 PASS; T2/T3 not started |
+| 78 | 76 | body / chapter 10 | **needs-review** | T1 PASS; T2/T3 not started; provisional chapter 10 marker pending T2 confirmation |
+| 79 | 77 | body / chapter 10 | **needs-review** | T1 PASS; T2/T3 not started; ends `என்று கடிந்து கொண்டாள் பொன்மணி.`; scan80 not opened |
 | 80 | — | unclassified | **not-started** | direct visual classification pending |
 | 81 | — | unclassified | **not-started** | direct visual classification pending |
 | 82 | — | unclassified | **not-started** | direct visual classification pending |
@@ -158,12 +158,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records: **64 total — 64 `verified`**;
-- body T1: **scans 5–64 COMPLETE / PASS**;
+- page records: **79 total — 64 `verified` + 15 `needs-review`**;
+- body T1: **scans 5–79 COMPLETE / PASS**;
 - body T2: **scans 5–64 COMPLETE / PASS; scans55–64 = 12 corrections; unresolved 0 through scan64**;
 - body T3: **scans 5–64 COMPLETE / PASS / VERIFIED; scans55–64 = 0 additional T3 corrections after 12 T2 corrections**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **begin T1 direct visual transcription for scans65–74 only — 10 physical pages; stop before T2. Full-source/terminal reconciliation remains deferred.**
+Exact next: **perform T2 historical-glyph/source-form review for scans65–79 only — 15 physical pages; stop before T3. Full-source/terminal reconciliation remains deferred.**
