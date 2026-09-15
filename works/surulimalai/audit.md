@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 complete and VERIFIED through scan 79**. Scans65–79 retain **8 T2 corrections**, required **0 additional T3 text corrections**, and have **0 unresolved** source-form readings.
+Canonical body transcription is **T1/T2/T3 VERIFIED through scan 79**. Scans **80–90 are T1 COMPLETE / PASS** and remain `needs-review`; scans **91–94 are T1 BLOCKED** because the current baseline/source-render path does not support safe canonical word-for-word transcription without guessing.
 
 
 ## Scans 40–44 T1 gate
@@ -261,6 +261,22 @@ Status: **COMPLETE / PASS — 15/15 VERIFIED**.
 - scan79 ending re-confirmed;
 - scan80 was not opened or used;
 - T3 audit: [`T3_AUDIT_065_079.md`](T3_AUDIT_065_079.md).
+
+## Scans 80–94 T1 gate
+
+Status: **PARTIAL / SOURCE-ACCESS BLOCKED — 11/15 COMPLETE**.
+
+- scans80–90: **T1 COMPLETE / PASS — 11/11**;
+- visible printed pages: **78–88**;
+- scan85 / printed83: source-visible **chapter 10→11 transition**;
+- scan87→88 split preserved at `சூசப்` / `மான பேச்சுகளை...`;
+- scan89→90 split preserved at `அகப்பட்` / `டதுன்னா`;
+- scans91–94 were opened from the controlling PDF but **no canonical page records were created**;
+- the supplied `surulimalai.md` jumps from printed page **88** directly to **119**, leaving printed pages **89–118** absent from the baseline;
+- the current bounded rendered-page path is not sufficient for safe word-for-word Tamil transcription of scans91–94 without guessing;
+- no OCR, web copy, alternate edition, or contextual reconstruction was substituted;
+- scan95 was not opened or used;
+- checkpoint: [`T1_BATCH_080_094.md`](T1_BATCH_080_094.md).
 
 ## Source-ingestion correction
 
@@ -563,4 +579,4 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Begin **T1 direct visual transcription for scans80–94 only — 15 physical pages**. Stop before T2.
+Resolve **T1 scans91–94** from a high-resolution/source-readable representation, close the scans80–94 T1 batch, and only then begin T2.
