@@ -650,7 +650,7 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T1 scans125–139 only — 15 physical pages** and stop before T2 / scan140.
+Perform **T2 independent historical-glyph/source-form audit for scans125–139 only — 15 physical pages** and stop before T3 / scan140.
 
 
 ## Scans 95–109 T3 gate
@@ -732,3 +732,35 @@ Status: **COMPLETE / PASS — 15/15 VERIFIED**.
 - scans110–124 final status: **verified**;
 - scan125 was **not opened or used**;
 - T3 audit: [`T3_AUDIT_110_124.md`](T3_AUDIT_110_124.md).
+
+
+## Scans 125–139 T1 gate
+
+Status: **COMPLETE / PASS — 15/15**.
+
+| Scan | Printed | Structure | T1 | Status |
+|---:|---:|---|---|---|
+| 125 | 123 | body / chapter 16 | PASS | **needs-review** |
+| 126 | 124 | body / chapter 16 | PASS | **needs-review** |
+| 127 | 125 | body / chapter 16→17 | PASS | **needs-review** |
+| 128 | 126 | body / chapter 17 | PASS | **needs-review** |
+| 129 | 127 | body / chapter 17 | PASS | **needs-review** |
+| 130 | 128 | body / chapter 17 | PASS | **needs-review** |
+| 131 | 129 | body / chapter 17 | PASS | **needs-review** |
+| 132 | 130 | body / chapter 17 | PASS | **needs-review** |
+| 133 | 131 | body / chapter 17 | PASS | **needs-review** |
+| 134 | 132 | body / chapter 17 | PASS | **needs-review** |
+| 135 | 133 | body / chapter 17 | PASS | **needs-review** |
+| 136 | 134 | body / chapter 17→18 | PASS | **needs-review** |
+| 137 | 135 | body / chapter 18 | PASS | **needs-review** |
+| 138 | 136 | body / chapter 18 | PASS | **needs-review** |
+| 139 | 137 | body / chapter 18 | PASS | **needs-review** |
+
+- source-visible chapter **17** confirmed at scan127 / printed125;
+- source-visible chapter **18** confirmed at scan136 / printed134;
+- scan133 isolated bottom-left printer/signature number `9` excluded;
+- part005 extract pages **5–19** map exactly to scans **125–139**;
+- all fifteen physical page openings/endings were source-pixel aligned;
+- scan140 was **not opened or used**;
+- T2: **NOT STARTED**;
+- checkpoint: [`T1_BATCH_125_139.md`](T1_BATCH_125_139.md).

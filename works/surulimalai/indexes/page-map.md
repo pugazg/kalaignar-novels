@@ -125,21 +125,21 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 122 | 120 | body / chapter 16 | **verified** | T1/T2/T3 PASS; 4 T2 + 3 T3 corrections |
 | 123 | 121 | body / chapter 16 | **verified** | T1/T2/T3 PASS; 5 T2 + 3 T3 corrections; ends `அடுக்` |
 | 124 | 122 | body / chapter 16 | **verified** | T1/T2/T3 PASS; 4 T2 + 4 T3 corrections; begins `டுக்காக`; scan125 not opened |
-| 125 | — | unclassified | **not-started** | direct visual classification pending |
-| 126 | — | unclassified | **not-started** | direct visual classification pending |
-| 127 | — | unclassified | **not-started** | direct visual classification pending |
-| 128 | — | unclassified | **not-started** | direct visual classification pending |
-| 129 | — | unclassified | **not-started** | direct visual classification pending |
-| 130 | — | unclassified | **not-started** | direct visual classification pending |
-| 131 | — | unclassified | **not-started** | direct visual classification pending |
-| 132 | — | unclassified | **not-started** | direct visual classification pending |
-| 133 | — | unclassified | **not-started** | direct visual classification pending |
-| 134 | — | unclassified | **not-started** | direct visual classification pending |
-| 135 | — | unclassified | **not-started** | direct visual classification pending |
-| 136 | — | unclassified | **not-started** | direct visual classification pending |
-| 137 | — | unclassified | **not-started** | direct visual classification pending |
-| 138 | — | unclassified | **not-started** | direct visual classification pending |
-| 139 | — | unclassified | **not-started** | direct visual classification pending |
+| 125 | 123 | body / chapter 16 | **needs-review** | T1 PASS; T2 not started |
+| 126 | 124 | body / chapter 16 | **needs-review** | T1 PASS; T2 not started |
+| 127 | 125 | body / chapter 16→17 | **needs-review** | T1 PASS; source-visible chapter **17** |
+| 128 | 126 | body / chapter 17 | **needs-review** | T1 PASS; T2 not started |
+| 129 | 127 | body / chapter 17 | **needs-review** | T1 PASS; T2 not started |
+| 130 | 128 | body / chapter 17 | **needs-review** | T1 PASS; T2 not started |
+| 131 | 129 | body / chapter 17 | **needs-review** | T1 PASS; T2 not started |
+| 132 | 130 | body / chapter 17 | **needs-review** | T1 PASS; T2 not started |
+| 133 | 131 | body / chapter 17 | **needs-review** | T1 PASS; printer/signature `9` excluded |
+| 134 | 132 | body / chapter 17 | **needs-review** | T1 PASS; T2 not started |
+| 135 | 133 | body / chapter 17 | **needs-review** | T1 PASS; T2 not started |
+| 136 | 134 | body / chapter 17→18 | **needs-review** | T1 PASS; source-visible chapter **18** |
+| 137 | 135 | body / chapter 18 | **needs-review** | T1 PASS; T2 not started |
+| 138 | 136 | body / chapter 18 | **needs-review** | T1 PASS; T2 not started |
+| 139 | 137 | body / chapter 18 | **needs-review** | T1 PASS; scan140 not opened |
 | 140 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
 | 141 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
 | 142 | — | parser-visible body/unknown terminal relation | **provisional-only** | previous printed-page mapping invalidated; full 198-page source required |
@@ -157,12 +157,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records: **124 total — 124 `verified` + 0 `needs-review`**;
-- body T1: **scans 5–124 COMPLETE / PASS**;
+- page records: **139 total — 124 `verified` + 15 `needs-review`**;
+- body T1: **scans 5–139 COMPLETE / PASS**;
 - body T2: **scans 5–124 COMPLETE / PASS; scans110–124 = 73 corrections; unresolved 0**;
 - body T3: **scans 5–124 COMPLETE / PASS / VERIFIED; scans110–124 = 76 additional T3 corrections after 73 T2 corrections**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T1 scans125–139 only — 15 physical pages from part005 extract pages 5–19; stop before T2 / scan140. Full-source/terminal reconciliation remains deferred.**
+Exact next: **perform T2 independent historical-glyph/source-form audit for scans125–139 only — 15 physical pages; stop before T3 / scan140. Full-source/terminal reconciliation remains deferred.**

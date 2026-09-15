@@ -11,36 +11,32 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 
 ## Durable state
 - scans **5–124 T1/T2/T3 VERIFIED**;
-- scans110–124 T3: **COMPLETE / PASS — 15/15 VERIFIED**;
-- visible printed pages for scans110–124: **108–122**;
-- all **73** T2 corrections re-confirmed;
-- additional T3 source-fidelity corrections: **76**;
-- unresolved after T3: **0**;
-- omissions / duplicate body spans: **0 / 0**;
-- chapter **15** — scan113 / printed111;
-- chapter **16** — scan120 / printed118;
-- scan123→124 split — **`அடுக்` / `டுக்காக`**;
-- source form **`சுருமலை`** on scan116 retained exactly;
-- scan117 printer/signature number `8` excluded;
-- scan125 was **not opened or used** during T3;
-- terminal/full-198-page issue remains **DEFERRED**.
+- scans **125–139 T1 COMPLETE / PASS — 15/15 needs-review pending T2**;
+- scans125–139 visible printed pages: **123–137**;
+- scan127 / printed125 — source-visible chapter **17**;
+- scan136 / printed134 — source-visible chapter **18**;
+- scan133 / printed131 — isolated printer/signature number `9` excluded;
+- source-readable part005 extract pages **5–19** map to scans **125–139**;
+- scan140 was **not opened or used**;
+- terminal/full-198-page issue remains **DEFERRED**;
+- normal batch-size policy remains **15 physical pages per iteration**.
 
-T3 authority:
-`works/surulimalai/T3_AUDIT_110_124.md`
+Active checkpoint:
+`works/surulimalai/T1_BATCH_125_139.md`
 
 ## Exact next activity
 
-Perform **T1 scans125–139 only — 15 physical pages**.
+Perform **T2 independent historical-glyph/source-form audit for scans125–139 only — 15 physical pages**.
 
 Use:
 `TVA_BOK_0064107_சுருளிமலை_1968_part_005_pages_121-150.pdf` — extract pages **5–19**.
 
 Rules:
 - source scan pixels are controlling;
-- user-supplied text/Markdown is baseline/alignment aid only;
+- independently re-read every word, punctuation mark, word join and historical glyph family;
+- baseline text may be used only for alignment;
 - no OCR, web, alternate source, guessing or modernization;
-- preserve historical/source forms;
-- create/update canonical page records as **needs-review pending T2**;
-- stop before scan140 and before T2.
+- record only source-proven corrections;
+- stop before scan140 and before T3.
 
 The full-198-page terminal-boundary issue remains deferred.
