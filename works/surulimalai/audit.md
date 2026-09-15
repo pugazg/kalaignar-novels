@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 complete and VERIFIED through scan 94**. Scans80–94 retain **6 T2 corrections**, required **0 additional T3 text corrections**, and have **0 unresolved** source-form readings.
+Canonical body transcription is **T1 complete through scan 109**. Scans **5–94 are T1/T2/T3 VERIFIED**; scans **95–109 are T1 COMPLETE / PASS and remain `needs-review` pending T2**.
 
 
 ## Scans 40–44 T1 gate
@@ -321,6 +321,20 @@ Status: **COMPLETE / PASS — 15/15 VERIFIED**.
 - scan94 ending re-confirmed;
 - scan95 was not opened or used;
 - T3 audit: [`T3_AUDIT_080_094.md`](T3_AUDIT_080_094.md).
+
+## Scans 95–109 T1 gate
+
+Status: **COMPLETE / PASS — 15/15**.
+
+- visible printed pages: **93–107**;
+- source-readable split: `TVA_BOK_0064107_சுருளிமலை_1968_part_004_pages_91-120.pdf`;
+- scan100 / printed98 — chapter **12→13** transition marker;
+- scan108 / printed106 — chapter **13→14** transition marker;
+- extracted text was used only as baseline/alignment aid; scan pixels remain controlling;
+- obvious extraction-only stray numerals were excluded; uncertain source forms were retained for T2;
+- scan110 was not opened or used;
+- T2 for scans95–109: **NOT STARTED**;
+- checkpoint: [`T1_BATCH_095_109.md`](T1_BATCH_095_109.md).
 
 ## Source-ingestion correction
 
@@ -623,4 +637,4 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Begin **T1 direct visual transcription for scans95–109 only — 15 physical pages**. Stop before T2.
+Perform **T2 independent historical-glyph/source-form review for scans95–109 only — 15 physical pages** and stop before T3.

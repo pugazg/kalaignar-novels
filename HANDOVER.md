@@ -11,23 +11,19 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 
 ## Durable state
 - scans **5–94 T1/T2/T3: VERIFIED**;
-- scans80–94 visible printed pages: **78–92**;
-- chapter transitions **10→11** at scan85 and **11→12** at scan91 re-confirmed;
-- scans80–94 T2 corrections: **6**;
-- scans80–94 T3 additional corrections: **0**;
-- omissions / duplicate body spans after T3: **0 / 0**;
-- unresolved historical/source-form readings after T3 through scan94: **0**;
-- scan87→88, scan89→90, scan91→92, scan92→93, and scan93→94 continuities re-confirmed;
-- scan94 ends at `முத்தாய்ப்பு வைத்தார் அவர்.`;
-- scan95 was **not opened or used**;
+- scans **95–109 T1: COMPLETE / PASS — 15/15 needs-review pending T2**;
+- scans95–109 visible printed pages: **93–107**;
+- scan100 / printed98 contains the chapter **12→13** transition marker;
+- scan108 / printed106 contains the chapter **13→14** transition marker;
+- scans95–109 were processed from the user-supplied source-readable split `TVA_BOK_0064107_சுருளிமலை_1968_part_004_pages_91-120.pdf`;
+- extracted text remained baseline/alignment aid only; split scan pixels remain controlling;
+- scan110 was **not opened or used**;
 - terminal/full-198-page issue remains **DEFERRED**;
 - normal batch-size policy remains **15 physical pages per iteration**.
 
-Completed checkpoint: `works/surulimalai/T1_BATCH_080_094.md`.  
-T2 audit: `works/surulimalai/T2_AUDIT_080_094.md`.  
-T3 audit: `works/surulimalai/T3_AUDIT_080_094.md`.
+Active checkpoint: `works/surulimalai/T1_BATCH_095_109.md`.
 
 ## Exact next activity
-Begin **T1 direct visual transcription for scans95–109 only — 15 physical pages**. Use the supplied transcription text only as a baseline/navigation aid where coverage exists; the PDF scan pixels remain controlling. Create fifteen canonical page records, mark them `needs-review`, update controls, commit, and stop before T2.
+Perform **T2 independent historical-glyph/source-form review for scans95–109 only — 15 physical pages**. Re-check all mandatory glyph families, chapter transitions **12→13 / 13→14**, flagged source forms, punctuation, and physical page boundaries. Apply only source-proven corrections, keep all fifteen records `needs-review`, update controls, commit, and stop before T3.
 
 The 198-page ingestion / terminal-boundary issue remains deferred.
