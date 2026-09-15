@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2 complete through scan 64**. Scans **5–54 are T1/T2/T3 VERIFIED**; scans **55–64 are T1/T2 COMPLETE / PASS and remain `needs-review` pending T3**. T2 corrections on scans55–64: **12**; unresolved: **0**.
+Canonical body transcription is **T1/T2/T3 complete and VERIFIED through scan 64**. Scans55–64 retain **12 T2 corrections**, required **0 additional T3 text corrections**, and have **0 unresolved** source-form readings.
 
 
 ## Scans 40–44 T1 gate
@@ -207,6 +207,19 @@ Status: **COMPLETE / PASS — 10/10**.
 - all ten records remain **needs-review** pending T3;
 - scan65 was not opened or used;
 - T2 audit: [`T2_AUDIT_055_064.md`](T2_AUDIT_055_064.md).
+
+## Scans 55–64 T3 gate
+
+Status: **COMPLETE / PASS — 10/10 VERIFIED**.
+
+- all **12 T2 corrections** re-confirmed from source pixels;
+- additional T3 text corrections: **0**;
+- omissions / duplicate body spans: **0 / 0**;
+- unresolved source-form readings after T3: **0**;
+- scan54→55 continuity and all page boundaries re-confirmed;
+- scan64 ending `வாய் பிளந்தாள்!` re-confirmed;
+- scan65 was not opened or used;
+- T3 audit: [`T3_AUDIT_055_064.md`](T3_AUDIT_055_064.md).
 
 ## Source-ingestion correction
 
@@ -509,4 +522,4 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans55–64 only — 10 physical pages** and stop before scan65.
+Begin **T1 direct visual transcription for scans65–74 only — 10 physical pages**. Stop before T2.

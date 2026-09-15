@@ -1,4 +1,4 @@
-| 55 | 53 | body / chapter 5 | **needs-review** | T1/T2 PASS; 2 T2 corrections; T3 not started; scan54→55 continuity re-confirmed |
+| 64 | 62 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `வாய் பிளந்தாள்!`; scan65 not opened |
 | 56 | 54 | body / chapter 5 | **needs-review** | T1/T2 PASS; 2 T2 corrections; T3 not started |
 | 57 | 55 | body / chapter 5 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
 | 58 | 56 | body / chapter 5 | **needs-review** | T1/T2 PASS; 2 T2 corrections; T3 not started |
@@ -158,12 +158,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records: **64 total — 54 `verified` + 10 `needs-review`**;
+- page records: **64 total — 64 `verified`**;
 - body T1: **scans 5–64 COMPLETE / PASS**;
 - body T2: **scans 5–64 COMPLETE / PASS; scans55–64 = 12 corrections; unresolved 0 through scan64**;
-- body T3: **scans 5–54 COMPLETE / PASS / VERIFIED; scans50–54 = 0 additional T3 corrections after 1 T2 correction**;
+- body T3: **scans 5–64 COMPLETE / PASS / VERIFIED; scans55–64 = 0 additional T3 corrections after 12 T2 corrections**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T3 final source-fidelity review for scans55–64 only — 10 physical pages; stop before scan65. Full-source/terminal reconciliation remains deferred.**
+Exact next: **begin T1 direct visual transcription for scans65–74 only — 10 physical pages; stop before T2. Full-source/terminal reconciliation remains deferred.**
