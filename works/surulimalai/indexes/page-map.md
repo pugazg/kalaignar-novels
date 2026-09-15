@@ -156,17 +156,33 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 153 | 151 | body / chapter 20 | **verified** | T1/T2/T3 PASS; 6 T2 + 2 T3 corrections |
 | 154 | 152 | body / chapter 20 | **verified** | T1/T2/T3 PASS; 10 T2 + 0 T3 corrections; scan155 not opened during T3 |
 
+| 155 | 153 | body / chapter 20 | **needs-review** | T1 PASS; T2 not started |
+| 156 | 154 | chapter 21 opener | **needs-review** | T1 PASS; source-visible chapter **21** |
+| 157 | 155 | body / chapter 21 | **needs-review** | T1 PASS; T2 not started |
+| 158 | 156 | body / chapter 21 | **needs-review** | T1 PASS; T2 not started |
+| 159 | 157 | body / chapter 21 | **needs-review** | T1 PASS; T2 not started |
+| 160 | 158 | body / chapter 21→22 | **needs-review** | T1 PASS; source-visible chapter **22** |
+| 161 | 159 | body / chapter 22 | **needs-review** | T1 PASS; T2 not started |
+| 162 | 160 | body / chapter 22 | **needs-review** | T1 PASS; T2 not started |
+| 163 | 161 | body / chapter 22 | **needs-review** | T1 PASS; ends `வருந்துவா` |
+| 164 | 162 | body / chapter 22 | **needs-review** | T1 PASS; begins `னேன்?`; scan163→164 split preserved |
+| 165 | 163 | body / chapter 22 | **needs-review** | T1 PASS; printer/signature `11` excluded |
+| 166 | 164 | body / chapter 22 | **needs-review** | T1 PASS; T2 not started |
+| 167 | 165 | body / chapter 22 | **needs-review** | T1 PASS; ends `மழைத்` |
+| 168 | 166 | body / chapter 22→23 | **needs-review** | T1 PASS; begins `துளிகளைக்`; source-visible chapter **23** |
+| 169 | 167 | body / chapter 23 | **needs-review** | T1 PASS; ends `அந்தப்`; scan170 not opened |
+
 ## Intake counts
 
 - original monolithic parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness for the monolithic artifact: **FAIL / TRUNCATED VIEW**; source-readable split derivatives are now being used beyond scan150;
-- page records: **154 total — 154 `verified` + 0 `needs-review`**;
-- body T1: **scans 5–154 COMPLETE / PASS**;
+- page records: **169 total — 154 `verified` + 15 `needs-review`**;
+- body T1: **scans 5–169 COMPLETE / PASS**;
 - body T2: **scans 5–154 COMPLETE / PASS; scans140–154 = 117 corrections; unresolved 0**;
 - body T3: **scans 5–154 COMPLETE / PASS / VERIFIED; scans140–154 = 34 additional T3 corrections after 117 T2 corrections**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T1 scans155–169 only — 15 physical pages from part006 extract pages5–19; stop before T2 / scan170. Terminal reconciliation remains deferred.**
+Exact next: **perform T2 independent historical-glyph/source-form audit for scans155–169 only — 15 physical pages; stop before T3 / scan170. Terminal reconciliation remains deferred.**
