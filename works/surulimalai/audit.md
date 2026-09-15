@@ -650,7 +650,7 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph/source-form audit for scans110–124 only — 15 physical pages** and stop before T3 / scan125.
+Perform **T3 final source-fidelity review for scans110–124 only — 15 physical pages** and stop before scan125.
 
 
 ## Scans 95–109 T3 gate
@@ -699,3 +699,19 @@ Status: **COMPLETE / PASS — 15/15**.
 - scan125 was **not opened or used**;
 - T2: **NOT STARTED**;
 - checkpoint: [`T1_BATCH_110_124.md`](T1_BATCH_110_124.md).
+
+
+## Scans 110–124 T2 gate
+
+Status: **COMPLETE / PASS — 15/15**.
+
+- source-proven corrections: **73**;
+- per-scan counts: scan110 **5**; scan111 **5**; scan112 **5**; scan113 **3**; scan114 **5**; scan115 **5**; scan116 **5**; scan117 **4**; scan118 **7**; scan119 **6**; scan120 **7**; scan121 **3**; scan122 **4**; scan123 **5**; scan124 **4**;
+- mandatory historical-glyph families independently checked wherever applicable;
+- chapter **15** at scan113 and chapter **16** at scan120 re-confirmed;
+- scan123→124 split `அடுக்` / `டுக்காக` re-confirmed;
+- source-visible `சுருமலை` on scan116 retained exactly;
+- unresolved historical/source-form readings: **0**;
+- all fifteen records remain **needs-review pending T3**;
+- scan125 was **not opened or used**;
+- T2 audit: [`T2_AUDIT_110_124.md`](T2_AUDIT_110_124.md).

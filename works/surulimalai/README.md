@@ -21,8 +21,8 @@
 - body opening: **scan 5 VERIFIED**;
 - terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
 - prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
-- canonical body transcription: **T1 scans 5–124 COMPLETE / PASS; scans 5–109 T1/T2/T3 VERIFIED; scans110–124 needs-review pending T2**;
-- historical-glyph review: **scans 5–109 T2 COMPLETE / PASS; scans110–124 T2 NOT STARTED**;
+- canonical body transcription: **T1/T2 scans 5–124 COMPLETE / PASS; scans 5–109 T1/T2/T3 VERIFIED; scans110–124 needs-review pending T3**;
+- historical-glyph review: **scans 5–124 T2 COMPLETE / PASS; scans110–124 = 73 source-proven corrections; unresolved 0**;
 - final source-fidelity review: **scans 5–109 T3 COMPLETE / PASS / VERIFIED**; scans95–109 required physical-boundary repair, chapter-marker relocation, and restoration of omitted scan108–109 source text;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
 - English translation: **NOT STARTED / BLOCKED**.
@@ -63,7 +63,7 @@ The user supplied the following catalogue-style description for project context.
 - scans 65–79 — T1/T2/T3 complete / **verified**; visible printed pages **63–77**; chapter markers **8** at scan65, **9** at scan73, **10** at scan78 re-confirmed; T2 corrections **8**; T3 additional corrections **0**; unresolved **0**; scan79 ends `என்று கடிந்து கொண்டாள் பொன்மணி.`;
 - scans 80–94 — previously completed / **verified**; visible printed pages **78–92**;
 - scans 95–109 — T1/T2/T3 complete / **verified**; visible printed pages **93–107**; T3 repaired physical segmentation; chapter **13** is on scan99 / printed97 and chapter **14** on scan106 / printed104; omitted scan108–109 source text restored;
-- scans 110–124 — T1 complete / **needs-review pending T2**; visible printed pages **108–122**; chapter **15** at scan113, chapter **16** at scan120; scan123→124 split `அடுக்` / `டுக்காக`; scan125 not opened;
+- scans 110–124 — T1/T2 complete / **needs-review pending T3**; visible printed pages **108–122**; T2 corrections **73**; unresolved **0**; chapter **15** at scan113, chapter **16** at scan120; scan123→124 split `அடுக்` / `டுக்காக`; scan125 not opened;
 - current parser exposes only pages **1–150** although the same source copy has **198 pages**;
 - therefore no terminal/body-boundary claim from pages 140–150 is durable;
 - full 198-page source view is required before terminal mapping or closure.
@@ -73,13 +73,13 @@ Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph/source-form audit for scans110–124 only — 15 physical pages**.
+Perform **T3 final source-fidelity review for scans110–124 only — 15 physical pages**.
 
-Use the same controlling source splits. Re-read every word, punctuation mark, join and historical glyph family from source pixels; record only source-proven corrections. Stop before T3 and before scan125.
+Re-read every word and punctuation span from the same source pixels, re-confirm all **73** T2 corrections, chapter **15** / **16** transitions, scan123→124 `அடுக்` / `டுக்காக` split, and omissions/duplication. Freeze the fifteen records if clean. Stop before scan125.
 
 The 198-page terminal-boundary issue remains deferred.
 
-Do not start T3, English, or assembled Tamil work in this T2 iteration.
+Do not start English or assembled Tamil work in this T3 iteration.
 
 
 Terminal audit: [`TERMINAL_BOUNDARY_AUDIT.md`](TERMINAL_BOUNDARY_AUDIT.md).
@@ -145,3 +145,6 @@ T3 audit: [`T3_AUDIT_095_109.md`](T3_AUDIT_095_109.md).
 
 
 Active T1 checkpoint: [`T1_BATCH_110_124.md`](T1_BATCH_110_124.md).
+
+
+T2 audit: [`T2_AUDIT_110_124.md`](T2_AUDIT_110_124.md).

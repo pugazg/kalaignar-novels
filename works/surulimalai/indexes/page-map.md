@@ -110,21 +110,21 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 107 | 105 | body / chapter 14 | **verified** | T1/T2/T3 PASS; ends `அவன் தெற்கு வீதியைக் கடந்து` |
 | 108 | 106 | body / chapter 14 | **verified** | T1/T2/T3 PASS; omitted latter source span restored; ends `அந்த மரத்தில் ஒருகிளையில்` |
 | 109 | 107 | body / chapter 14 | **verified** | T1/T2/T3 PASS; full source text restored through `என்று கூறினேன்.`; scan110 not opened |
-| 110 | 108 | body / chapter 14 | **needs-review** | T1 PASS; T2 not started |
-| 111 | 109 | body / chapter 14 | **needs-review** | T1 PASS; T2 not started |
-| 112 | 110 | body / chapter 14 | **needs-review** | T1 PASS; T2 not started |
-| 113 | 111 | body / chapter 14→15 | **needs-review** | T1 PASS; source-visible chapter **15** |
-| 114 | 112 | body / chapter 15 | **needs-review** | T1 PASS; T2 not started |
-| 115 | 113 | body / chapter 15 | **needs-review** | T1 PASS; T2 not started |
-| 116 | 114 | body / chapter 15 | **needs-review** | T1 PASS; T2 not started |
-| 117 | 115 | body / chapter 15 | **needs-review** | T1 PASS; printer/signature `8` excluded |
-| 118 | 116 | body / chapter 15 | **needs-review** | T1 PASS; T2 not started |
-| 119 | 117 | body / chapter 15 | **needs-review** | T1 PASS; T2 not started |
-| 120 | 118 | body / chapter 15→16 | **needs-review** | T1 PASS; source-visible chapter **16** |
-| 121 | 119 | body / chapter 16 | **needs-review** | T1 PASS; source split changes to part005 |
-| 122 | 120 | body / chapter 16 | **needs-review** | T1 PASS; T2 not started |
-| 123 | 121 | body / chapter 16 | **needs-review** | T1 PASS; ends `அடுக்` |
-| 124 | 122 | body / chapter 16 | **needs-review** | T1 PASS; begins `டுக்காக`; scan125 not opened |
+| 110 | 108 | body / chapter 14 | **needs-review** | T1/T2 PASS; 5 T2 corrections; T3 pending |
+| 111 | 109 | body / chapter 14 | **needs-review** | T1/T2 PASS; 5 T2 corrections; T3 pending |
+| 112 | 110 | body / chapter 14 | **needs-review** | T1/T2 PASS; 5 T2 corrections; T3 pending |
+| 113 | 111 | body / chapter 14→15 | **needs-review** | T1/T2 PASS; 3 T2 corrections; chapter **15** re-confirmed; T3 pending |
+| 114 | 112 | body / chapter 15 | **needs-review** | T1/T2 PASS; 5 T2 corrections; T3 pending |
+| 115 | 113 | body / chapter 15 | **needs-review** | T1/T2 PASS; 5 T2 corrections; T3 pending |
+| 116 | 114 | body / chapter 15 | **needs-review** | T1/T2 PASS; 5 T2 corrections; source `சுருமலை` retained; T3 pending |
+| 117 | 115 | body / chapter 15 | **needs-review** | T1/T2 PASS; 4 T2 corrections; printer/signature `8` excluded; T3 pending |
+| 118 | 116 | body / chapter 15 | **needs-review** | T1/T2 PASS; 7 T2 corrections; T3 pending |
+| 119 | 117 | body / chapter 15 | **needs-review** | T1/T2 PASS; 6 T2 corrections; T3 pending |
+| 120 | 118 | body / chapter 15→16 | **needs-review** | T1/T2 PASS; 7 T2 corrections; chapter **16** re-confirmed; T3 pending |
+| 121 | 119 | body / chapter 16 | **needs-review** | T1/T2 PASS; 3 T2 corrections; T3 pending |
+| 122 | 120 | body / chapter 16 | **needs-review** | T1/T2 PASS; 4 T2 corrections; T3 pending |
+| 123 | 121 | body / chapter 16 | **needs-review** | T1/T2 PASS; 5 T2 corrections; ends `அடுக்`; T3 pending |
+| 124 | 122 | body / chapter 16 | **needs-review** | T1/T2 PASS; 4 T2 corrections; begins `டுக்காக`; scan125 not opened; T3 pending |
 | 125 | — | unclassified | **not-started** | direct visual classification pending |
 | 126 | — | unclassified | **not-started** | direct visual classification pending |
 | 127 | — | unclassified | **not-started** | direct visual classification pending |
@@ -159,10 +159,10 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - parser completeness: **FAIL / TRUNCATED VIEW**;
 - page records: **124 total — 109 `verified` + 15 `needs-review`**;
 - body T1: **scans 5–124 COMPLETE / PASS**;
-- body T2: **scans 5–109 COMPLETE / PASS; scans110–124 NOT STARTED**;
-- body T3: **scans 5–109 COMPLETE / PASS / VERIFIED; scans110–124 pending T2/T3**;
+- body T2: **scans 5–124 COMPLETE / PASS; scans110–124 = 73 corrections; unresolved 0**;
+- body T3: **scans 5–109 COMPLETE / PASS / VERIFIED; scans110–124 pending T3**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T2 independent historical-glyph/source-form audit for scans110–124 only — 15 physical pages; stop before T3 / scan125. Full-source/terminal reconciliation remains deferred.**
+Exact next: **perform T3 final source-fidelity review for scans110–124 only — 15 physical pages; re-confirm all 73 T2 corrections; stop before scan125. Full-source/terminal reconciliation remains deferred.**
