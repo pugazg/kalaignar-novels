@@ -140,21 +140,21 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 137 | 135 | body / chapter 18 | **verified** | T1/T2/T3 PASS; 11 T2 + 4 T3 corrections |
 | 138 | 136 | body / chapter 18 | **verified** | T1/T2/T3 PASS; 5 T2 + 7 T3 corrections |
 | 139 | 137 | body / chapter 18 | **verified** | T1/T2/T3 PASS; 10 T2 + 6 T3 corrections; scan140 not opened during T3 |
-| 140 | 138 | body / chapter 18 | **needs-review** | T1 PASS; T2 not started |
-| 141 | 139 | body / chapter 18 | **needs-review** | T1 PASS; T2 not started |
-| 142 | 140 | body / chapter 18 | **needs-review** | T1 PASS; T2 not started |
-| 143 | 141 | body / chapter 18 | **needs-review** | T1 PASS; T2 not started |
-| 144 | 142 | body / chapter 18→19 | **needs-review** | T1 PASS; source-visible chapter **19** |
-| 145 | 143 | body / chapter 19 | **needs-review** | T1 PASS; T2 not started |
-| 146 | 144 | body / chapter 19 | **needs-review** | T1 PASS; T2 not started |
-| 147 | 145 | body / chapter 19 | **needs-review** | T1 PASS; T2 not started |
-| 148 | 146 | body / chapter 19 | **needs-review** | T1 PASS; T2 not started |
-| 149 | 147 | body / chapter 19 | **needs-review** | T1 PASS; printer/signature `10` excluded |
-| 150 | 148 | body / chapter 19 | **needs-review** | T1 PASS; part005 final extract page |
-| 151 | 149 | body / chapter 20 opener | **needs-review** | T1 PASS; source-visible chapter **20**; part006 extract page 1 |
-| 152 | 150 | body / chapter 20 | **needs-review** | T1 PASS; T2 not started |
-| 153 | 151 | body / chapter 20 | **needs-review** | T1 PASS; T2 not started |
-| 154 | 152 | body / chapter 20 | **needs-review** | T1 PASS; scan155 not opened |
+| 140 | 138 | body / chapter 18 | **needs-review** | T1/T2 PASS; 5 T2 corrections; T3 pending |
+| 141 | 139 | body / chapter 18 | **needs-review** | T1/T2 PASS; 12 T2 corrections; T3 pending |
+| 142 | 140 | body / chapter 18 | **needs-review** | T1/T2 PASS; 11 T2 corrections; T3 pending |
+| 143 | 141 | body / chapter 18 | **needs-review** | T1/T2 PASS; 9 T2 corrections; T3 pending |
+| 144 | 142 | body / chapter 18→19 | **needs-review** | T1/T2 PASS; 15 T2 corrections; chapter **19** re-confirmed; T3 pending |
+| 145 | 143 | body / chapter 19 | **needs-review** | T1/T2 PASS; 5 T2 corrections; T3 pending |
+| 146 | 144 | body / chapter 19 | **needs-review** | T1/T2 PASS; 6 T2 corrections; T3 pending |
+| 147 | 145 | body / chapter 19 | **needs-review** | T1/T2 PASS; 11 T2 corrections; T3 pending |
+| 148 | 146 | body / chapter 19 | **needs-review** | T1/T2 PASS; 6 T2 corrections; T3 pending |
+| 149 | 147 | body / chapter 19 | **needs-review** | T1/T2 PASS; 6 T2 corrections; printer/signature `10` excluded; T3 pending |
+| 150 | 148 | body / chapter 19 | **needs-review** | T1/T2 PASS; 9 T2 corrections; part005→part006 boundary re-confirmed; T3 pending |
+| 151 | 149 | body / chapter 20 opener | **needs-review** | T1/T2 PASS; 2 T2 corrections; chapter **20** re-confirmed; T3 pending |
+| 152 | 150 | body / chapter 20 | **needs-review** | T1/T2 PASS; 4 T2 corrections; T3 pending |
+| 153 | 151 | body / chapter 20 | **needs-review** | T1/T2 PASS; 6 T2 corrections; T3 pending |
+| 154 | 152 | body / chapter 20 | **needs-review** | T1/T2 PASS; 10 T2 corrections; scan155 not opened; T3 pending |
 
 ## Intake counts
 
@@ -163,10 +163,10 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - parser completeness for the monolithic artifact: **FAIL / TRUNCATED VIEW**; source-readable split derivatives are now being used beyond scan150;
 - page records: **154 total — 139 `verified` + 15 `needs-review`**;
 - body T1: **scans 5–154 COMPLETE / PASS**;
-- body T2: **scans 5–139 COMPLETE / PASS; scans125–139 = 171 corrections; unresolved 0**;
+- body T2: **scans 5–154 COMPLETE / PASS; scans140–154 = 117 corrections; unresolved 0**;
 - body T3: **scans 5–139 COMPLETE / PASS / VERIFIED; scans125–139 = 85 additional T3 corrections after 171 T2 corrections**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T2 independent historical-glyph/source-form audit for scans140–154 only — 15 physical pages; stop before T3 / scan155. Terminal reconciliation remains deferred.**
+Exact next: **perform T3 final source-fidelity review for scans140–154 only — 15 physical pages; re-confirm all 117 T2 corrections; stop before scan155. Terminal reconciliation remains deferred.**
