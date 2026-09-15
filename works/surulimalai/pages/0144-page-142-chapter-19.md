@@ -1,0 +1,41 @@
+---
+scan_page: 144
+printed_page: 142
+work: "surulimalai"
+section: "18→19"
+page_type: "body / chapter transition"
+status: "needs-review"
+language: "ta"
+source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
+transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete"
+---
+
+வது என் பொறுப்பு!" என்று சொல்லால் அவனை வளைத்து விடத் தீர்மானித்தான் அறவாழி.
+
+சிங்காரம் வாய்திறக்கவில்லை. அறவாழியையே பார்த்துக்கொண்டு உட்கார்ந்திருந்தான். தூரத்திலிருந்து புல்லாங்குழலின் ஒலி காற்றிலே மிதந்து வந்துகொண்டிருந்தது.
+
+## 19
+"அதோ கேட்கிறதே புல்லாங்குழல் சப்தம்—காதில் விழுகிறதா? அது யார் தெரியுமா? அவன்தான் இந்த ஊருக்குக் கிருஷ்ணன்— சுருளிமலை யென்று ஒரு சுட்டிப் பயல்!" என்றான் சிங்காரம்.
+
+"பார்த்தேன்—பார்த்தேன்— தெரியும் அந்தப் பையனை!" என்று அறவாழி கூறிக்கொண்டே தன் முகத்தில் ஏற்பட்ட உணர்ச்சியின் சாயலை சிங்காரம் பார்த்துவிடுவானோ எனப் பயந்து வேறுபக்கம் திரும்பிக்கொண்டான்.
+
+சுருளிமலை யென்றதும் அவனுக்குப் பொன்மணியின் உருவமே விழிகளில் சதிராடத் தொடங்கியது. அவள் வீட்டுக்குச் செல்ல நேரிட்டதும் - அவள் தாய் தந்த அன்பு உபசரணைகளுக்கு ஆளானதும் - அனைத்தையும் விட தேள் கொட்டிய நிகழ்ச்சியில் பெற்ற ஆனந்தமும் - அவன் உள்ளத்தை இனிப்பாக்கிக்கொண்டிருந்தன.
+
+அந்த இன்பநினைவுகளைக் கலைக்கும் வகையில் சிங்காரம் பேச்சுக் கொடுத்தான்.
+
+"இந்தப் பயலுக்கு ஒரு அக்காள் உண்டு - அழகான பொண்ணு! ரொம்ப நல்ல குணம்! பொன்மணியென்றால் பொன்மணியேதான்! பெயருக்கேத்த பெண்ணு! அவளை எனக்குக் கல்யாணம் செய்து வைக்கணுமனு என் தங்கச்சிக்கு அபாரமான ஆசை!"
+
+அறவாழியின் முகம் திடீரென மாறியது. அந்த மாற்றம் வெளியே தெரியாமல் இருக்க அவன் பெரிதும் கஷ்டப்பட்டான். மிக அலட்சியமாக அந்தச் சேதியைக் கவனிப்பதுபோல் பாசாங்கு செய்தான்.
+
+## T1 direct-transcription notes
+
+- physical scan **144** / visible printed page **142** transcribed from user-supplied source-readable split `TVA_BOK_0064107_சுருளிமலை_1968_part_005_pages_121-150.pdf`;
+- split extract page **24** corresponds to physical scan **144**;
+- user-supplied Markdown was used only as baseline/alignment aid; source scan pixels controlled printed-page mapping, chapter markers, physical boundaries, and obvious T1 repairs;
+- source-visible centered chapter marker **19** occurs on this physical page;
+- physical opening re-confirmed as `வது என் பொறுப்பு!"`;
+- physical ending re-confirmed as `பாசாங்கு செய்தான்.`;
+- source-looking spellings, punctuation, word joins, and historical glyph forms remain reserved for independent T2;
+- page status: **needs-review** pending T2.
+
+<!-- source physical scan: 144; visible printed page: 142; T1 COMPLETE / NEEDS-REVIEW -->
