@@ -55,8 +55,7 @@ No bibliographic value above is inferred from the filename alone.
 - scans 50–54 — T1/T2/T3 complete / **verified**; visible printed pages **48–52**; chapter **5** continues; T2 corrections **1** (`உளர`→`உளற`); T3 additional corrections **0**; unresolved after T3 **0**; scan49→50 split `அந்தப்பேய்` / `அவள் எதிரே...`; scan54 ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`;
 - scans 55–64 — T1/T2/T3 complete / **verified**; visible printed pages **53–62**;
 - scans 65–79 — T1/T2/T3 complete / **verified**; visible printed pages **63–77**; chapter **8** at scan65, **9** at scan73, **10** at scan78 re-confirmed; T2 corrections **8**; T3 additional corrections **0**; unresolved after T3 **0**; scan68→69 and scan75→76 physical splits re-confirmed; scan79 ends `என்று கடிந்து கொண்டாள் பொன்மணி.`;
-- scans 80–90 — T1 complete / **needs-review**; visible printed pages **78–88**; scan85 contains chapter **10→11** transition; scans86–90 chapter **11**; scan87→88 and scan89→90 physical splits preserved;
-- scans 91–94 — **T1 BLOCKED / no canonical records** because the supplied baseline omits printed pages 89–118 and the current rendered source path cannot safely support word-for-word Tamil transcription without guessing;
+- scans 80–94 — T1 complete / **needs-review** pending T2; visible printed pages **78–92**; scan85 contains chapter **10→11** transition; scan91 contains chapter **11→12** transition; scan87→88, scan89→90, scan91→92, and scan92→93 physical splits preserved; scan94 ends `முத்தாய்ப்பு வைத்தார் அவர்.`;
 - scans 45–144 — not yet fully page-mapped in this intake checkpoint;
 - current Files parser exposes pages **1–150 only** for a source known to contain **198 pages**;
 - previous terminal mapping based on that representation is **invalidated**;
@@ -95,13 +94,13 @@ The user supplied a descriptive synopsis mentioning கரகாட்டம்,
 4. scans **50–54 T1/T2/T3 COMPLETE / PASS / VERIFIED**;
 5. scans **55–64 T1/T2/T3 COMPLETE / PASS / VERIFIED**;
 6. scans **65–79 T1/T2/T3 COMPLETE / PASS / VERIFIED**;
-7. scans **80–90 T1 COMPLETE / PASS — 11/11 needs-review**;
-8. scans **91–94 T1 BLOCKED — no canonical records**;
-9. scans80–90 visible printed pages **78–88**; chapter **10→11** transition at scan85;
+7. scans **80–94 T1 COMPLETE / PASS — 15/15 needs-review pending T2**;
+8. scans **91–94 T1 COMPLETE / PASS from the user-supplied source-readable split**;
+9. scans80–94 visible printed pages **78–92**; chapter **10→11** transition at scan85 and **11→12** transition at scan91;
 10. user-supplied MD used as baseline/navigation aid only; PDF pixels remain authoritative;
 11. scan87→88 and scan89→90 physical page splits preserved;
-12. scan90 ends `சம்மதம் தந்தான்.`; scans91–94 were opened but not canonically transcribed; scan95 was **not opened or used**;
-13. exact next: **resolve T1 scans91–94 and close scans80–94 before T2**;
+12. scan94 ends `முத்தாய்ப்பு வைத்தார் அவர்.`; scan95 was **not opened or used**;
+13. exact next: **T2 scans80–94 only — 15 physical pages**;
 14. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
 15. do not infer source extent from the current Files parser's `num_pages: 150`.
 

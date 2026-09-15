@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 VERIFIED through scan 79**. Scans **80–90 are T1 COMPLETE / PASS** and remain `needs-review`; scans **91–94 are T1 BLOCKED** because the current baseline/source-render path does not support safe canonical word-for-word transcription without guessing.
+Canonical body transcription is **T1 complete through scan 94**. Scans **5–79 are T1/T2/T3 VERIFIED**; scans **80–94 are T1 COMPLETE / PASS and remain `needs-review` pending T2**.
 
 
 ## Scans 40–44 T1 gate
@@ -276,6 +276,23 @@ Status: **PARTIAL / SOURCE-ACCESS BLOCKED — 11/15 COMPLETE**.
 - the current bounded rendered-page path is not sufficient for safe word-for-word Tamil transcription of scans91–94 without guessing;
 - no OCR, web copy, alternate edition, or contextual reconstruction was substituted;
 - scan95 was not opened or used;
+- checkpoint: [`T1_BATCH_080_094.md`](T1_BATCH_080_094.md).
+
+## Scans 80–94 T1 gate
+
+Status: **COMPLETE / PASS — 15/15**.
+
+- visible printed pages: **78–92**;
+- scan85 / printed83 — source-visible chapter **10→11** transition;
+- scan91 / printed89 — source-visible chapter **11→12** transition;
+- scans91–94 were recovered from the user-supplied source-readable split `TVA_BOK_0064107_சுருளிமலை_1968_part_004_pages_91-120.pdf`;
+- accompanying extracted text was used only as baseline/alignment aid; split scan pixels controlled transcription;
+- scan91→92 split `கூடிவிட்ட` / `னர்.`;
+- scan92→93 split `எடுத்துக்` / `காட்டுவதாக...`;
+- scan93→94 quotation continuation preserved;
+- scan94 ends `முத்தாய்ப்பு வைத்தார் அவர்.`;
+- scan95 was not opened or used;
+- T2 for scans80–94: **NOT STARTED**;
 - checkpoint: [`T1_BATCH_080_094.md`](T1_BATCH_080_094.md).
 
 ## Source-ingestion correction
@@ -579,4 +596,4 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Resolve **T1 scans91–94** from a high-resolution/source-readable representation, close the scans80–94 T1 batch, and only then begin T2.
+Perform **T2 independent historical-glyph/source-form review for scans80–94 only — 15 physical pages** and stop before T3.

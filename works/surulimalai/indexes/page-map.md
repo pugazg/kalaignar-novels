@@ -91,10 +91,10 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 88 | 86 | body / chapter 11 | **needs-review** | T1 PASS; T2/T3 not started; begins `மான பேச்சுகளை...` |
 | 89 | 87 | body / chapter 11 | **needs-review** | T1 PASS; T2/T3 not started; ends `அகப்பட்` |
 | 90 | 88 | body / chapter 11 | **needs-review** | T1 PASS; T2/T3 not started; begins `டதுன்னா`; ends `சம்மதம் தந்தான்.` |
-| 91 | 89 | body / section unresolved | **blocked** | T1 source-access blocked; no canonical record; MD baseline absent for printed 89; do not guess |
-| 92 | 90 | body / section unresolved | **blocked** | T1 source-access blocked; no canonical record; MD baseline absent for printed 90; do not guess |
-| 93 | 91 | body / section unresolved | **blocked** | T1 source-access blocked; no canonical record; MD baseline absent for printed 91; do not guess |
-| 94 | 92 | body / section unresolved | **blocked** | T1 source-access blocked; no canonical record; MD baseline absent for printed 92; do not guess |
+| 91 | 89 | body / chapter 11→12 | **needs-review** | T1 PASS; T2/T3 not started; chapter 12 begins mid-page; ends `கூடிவிட்ட` |
+| 92 | 90 | body / chapter 12 | **needs-review** | T1 PASS; T2/T3 not started; begins `னர்.`; ends `எடுத்துக்` |
+| 93 | 91 | body / chapter 12 | **needs-review** | T1 PASS; T2/T3 not started; begins `காட்டுவதாக...`; ends quoted `நான் கும்பிட்ட தெய்வமெல்லாம் நல்ல தெய்வம்` |
+| 94 | 92 | body / chapter 12 | **needs-review** | T1 PASS; T2/T3 not started; begins `என்று...`; ends `முத்தாய்ப்பு வைத்தார் அவர்.`; scan95 not opened |
 | 95 | — | unclassified | **not-started** | direct visual classification pending |
 | 96 | — | unclassified | **not-started** | direct visual classification pending |
 | 97 | — | unclassified | **not-started** | direct visual classification pending |
@@ -157,12 +157,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records: **90 total — 79 `verified` + 11 `needs-review`; scans91–94 have no canonical records**;
-- body T1: **scans 5–90 COMPLETE / PASS; scans91–94 BLOCKED pending source-readable access**;
+- page records: **94 total — 79 `verified` + 15 `needs-review`**;
+- body T1: **scans 5–94 COMPLETE / PASS**;
 - body T2: **scans 5–79 COMPLETE / PASS; scans65–79 = 8 corrections; unresolved 0 through scan79**;
 - body T3: **scans 5–79 COMPLETE / PASS / VERIFIED; scans65–79 = 0 additional T3 corrections after 8 T2 corrections**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **resolve T1 scans91–94 from a high-resolution/source-readable representation and close the 80–94 batch; do not start T2 before that. Full-source/terminal reconciliation remains deferred.**
+Exact next: **perform T2 historical-glyph/source-form review for scans80–94 only — 15 physical pages; stop before T3. Full-source/terminal reconciliation remains deferred.**
