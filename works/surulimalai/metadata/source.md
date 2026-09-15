@@ -56,7 +56,7 @@ No bibliographic value above is inferred from the filename alone.
 - scans 55–64 — T1/T2/T3 complete / **verified**; visible printed pages **53–62**;
 - scans 65–79 — T1/T2/T3 complete / **verified**; visible printed pages **63–77**; chapter **8** at scan65, **9** at scan73, **10** at scan78 re-confirmed; T2 corrections **8**; T3 additional corrections **0**; unresolved after T3 **0**; scan68→69 and scan75→76 physical splits re-confirmed; scan79 ends `என்று கடிந்து கொண்டாள் பொன்மணி.`;
 - scans 80–94 — T1/T2/T3 complete / **verified**; visible printed pages **78–92**;
-- scans 95–109 — T1 complete / **needs-review** pending T2; visible printed pages **93–107**; chapter **12→13** marker at scan100 and **13→14** marker at scan108; source-readable split controls; scan110 not opened;
+- scans 95–109 — T1/T2 complete / **needs-review** pending T3; visible printed pages **93–107**; chapter **12→13** at scan100 and **13→14** at scan108 re-confirmed; T2 corrections **120**; unresolved after T2 **0**; scan110 not opened;
 - scans 45–144 — not yet fully page-mapped in this intake checkpoint;
 - current Files parser exposes pages **1–150 only** for a source known to contain **198 pages**;
 - previous terminal mapping based on that representation is **invalidated**;
@@ -96,13 +96,13 @@ The user supplied a descriptive synopsis mentioning கரகாட்டம்,
 5. scans **55–64 T1/T2/T3 COMPLETE / PASS / VERIFIED**;
 6. scans **65–79 T1/T2/T3 COMPLETE / PASS / VERIFIED**;
 7. scans **80–94 T1/T2/T3 COMPLETE / PASS / VERIFIED**;
-8. scans **95–109 T1 COMPLETE / PASS — 15/15 needs-review pending T2**;
+8. scans **95–109 T1/T2 COMPLETE / PASS — 15/15 needs-review pending T3**;
 9. scans **95–109 sourced from the user-supplied split `part_004_pages_91-120`**;
 10. scans95–109 visible printed pages **93–107**; chapter **12→13** at scan100 and **13→14** at scan108;
 10. user-supplied MD used as baseline/navigation aid only; PDF pixels remain authoritative;
 12. source-looking word joins and chapter transitions remain pending independent T2;
 13. scan110 was **not opened or used**;
-14. exact next: **T2 scans95–109 only — 15 physical pages**;
+14. exact next: **T3 scans95–109 only — 15 physical pages**;
 15. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
 16. do not infer source extent from the current Files parser's `num_pages: 150`.
 
