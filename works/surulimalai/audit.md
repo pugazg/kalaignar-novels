@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2 complete through scan 49**. Scans **5–44 are T1/T2/T3 VERIFIED**; scans **45–49 are T1/T2 COMPLETE / PASS and remain `needs-review` pending T3**. T2 applied **8** source-proven corrections with **0 unresolved** readings.
+Canonical body transcription is **T1/T2/T3 complete and VERIFIED through scan 49**. Scans45–49 retain **8 T2 corrections**, required **0 additional T3 text corrections**, and have **0 unresolved** source-form readings.
 
 
 ## Scans 40–44 T1 gate
@@ -53,7 +53,7 @@ Status: **COMPLETE / PASS — 5/5**.
 - scan45 was **not opened or used**;
 - T2 for scans40–44: **COMPLETE / PASS — 5/5; 0 corrections; unresolved 0**;
 - T3 for scans40–44: **COMPLETE / PASS — 5/5 VERIFIED**;
-- next gate: **T1 direct visual transcription for scans45–49 only**.
+- scans45–49 have since completed T1/T2/T3; see the gates below.
 
 ## Scans 40–44 T2 gate
 
@@ -96,7 +96,7 @@ Status: **COMPLETE / PASS — 5/5**.
 - scan48 ends `அப்பா—`; scan49 begins `—நீங்கள்...`;
 - scan49 ends `அந்தப்பேய்`;
 - scan50 was not opened or used;
-- T2 for scans45–49: **NOT STARTED**;
+- T2 for scans45–49: **COMPLETE / PASS — 5/5; 8 corrections; unresolved 0**;
 - checkpoint: [`T1_BATCH_045_049.md`](T1_BATCH_045_049.md).
 
 ## Scans 45–49 T2 gate
@@ -111,6 +111,19 @@ Status: **COMPLETE / PASS — 5/5**.
 - scan49 ending `அந்தப்பேய்` re-confirmed;
 - scan50 was not opened or used;
 - T2 audit: [`T2_AUDIT_045_049.md`](T2_AUDIT_045_049.md).
+
+## Scans 45–49 T3 gate
+
+Status: **COMPLETE / PASS — 5/5 VERIFIED**.
+
+- all **8 T2 corrections** were re-confirmed from source pixels;
+- additional T3 text corrections: **0**;
+- omissions / duplicate body spans: **0 / 0**;
+- unresolved source-form readings after T3: **0**;
+- scan48→49 boundary `அப்பா—` / `—நீங்கள்...` re-confirmed;
+- scan49 ending `அந்தப்பேய்` re-confirmed;
+- scan50 was not opened or used;
+- T3 audit: [`T3_AUDIT_045_049.md`](T3_AUDIT_045_049.md).
 
 ## Source-ingestion correction
 
@@ -413,4 +426,4 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans45–49 only**. Freeze the five records only after a clean pass; stop before scans50–54.
+Begin **T1 direct visual transcription for scans50–54 only**. Use the supplied MD only as a baseline/navigation aid; PDF pixels remain controlling. Stop before T2.

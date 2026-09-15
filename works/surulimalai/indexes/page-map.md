@@ -1,4 +1,4 @@
-| 49 | 47 | body / chapter 5 | **needs-review** | T1/T2 PASS; 0 T2 corrections; ends `அந்தப்பேய்`; T3 not started |
+| 49 | 47 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `அந்தப்பேய்`; scan50 not opened |
 
 Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`. **Source extent: 198 pages. Current ChatGPT Files parser exposes only 150 pages; this representation is incomplete and must not define source structure.**
 
@@ -45,16 +45,15 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 37 | 35 | body / chapter 3→4 transition | **verified** | T1/T2/T3 PASS; 3 T2 + 0 T3 corrections; centered chapter no. 4; bottom-left small 3 non-body |
 | 38 | 36 | body / chapter 4 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections |
 | 39 | 37 | body / chapter 4 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; scan40 not opened |
-| 40 | 38 | body / chapter 4 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
-| 41 | 39 | body / chapter 4 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
-| 42 | 40 | body / chapter 4 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
-| 43 | 41 | body / chapter 4 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
-| 44 | 42 | body / chapter 4 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
-| 45 | — | unclassified | **not-started** | direct visual classification pending |
-| 46 | — | unclassified | **not-started** | direct visual classification pending |
-| 47 | — | unclassified | **not-started** | direct visual classification pending |
-| 48 | — | unclassified | **not-started** | direct visual classification pending |
-| 49 | — | unclassified | **not-started** | direct visual classification pending |
+| 40 | 38 | body / chapter 4 | **verified** | T1/T2/T3 PASS; 0 T3 corrections |
+| 41 | 39 | body / chapter 4 | **verified** | T1/T2/T3 PASS; 0 T3 corrections |
+| 42 | 40 | body / chapter 4 | **verified** | T1/T2/T3 PASS; source punctuation + physical page-boundary repair; ends `அவள் கண்கள் கலங்கி` |
+| 43 | 41 | body / chapter 4 | **verified** | T1/T2/T3 PASS; opening span restored; source `நடந்தது பசி`; `எதாவது` |
+| 44 | 42 | body / chapter 5 opener | **verified** | T1/T2/T3 PASS; chapter 5 + omitted lower-page span restored; `நிலைமையைச்`; `எரு` |
+| 45 | 43 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 corrections |
+| 46 | 44 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections |
+| 47 | 45 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 3 T2 + 0 T3 corrections |
+| 48 | 46 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections; ends `அப்பா—` |
 | 50 | — | unclassified | **not-started** | direct visual classification pending |
 | 51 | — | unclassified | **not-started** | direct visual classification pending |
 | 52 | — | unclassified | **not-started** | direct visual classification pending |
@@ -162,12 +161,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records: **49 total — 44 `verified` + 5 `needs-review`**;
+- page records: **49 total — 49 `verified`**;
 - body T1: **scans 5–49 COMPLETE / PASS**;
 - body T2: **scans 5–49 COMPLETE / PASS; scans45–49 = 8 corrections; unresolved 0 through scan49**;
-- body T3: **scans 5–44 COMPLETE / PASS / VERIFIED; scans40–44 repairs documented in `T3_AUDIT_040_044.md`**;
+- body T3: **scans 5–49 COMPLETE / PASS / VERIFIED; scans45–49 = 0 additional T3 corrections after 8 T2 corrections**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T3 final source-fidelity review for scans45–49 only; stop before scans50–54. Full-source/terminal reconciliation remains deferred.**
+Exact next: **begin T1 direct visual transcription for scans50–54 only; use the supplied MD as a baseline aid but keep PDF pixels authoritative; stop before T2. Full-source/terminal reconciliation remains deferred.**
