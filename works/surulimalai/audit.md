@@ -650,7 +650,7 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph/source-form audit for scans125–139 only — 15 physical pages** and stop before T3 / scan140.
+Perform **T3 final source-fidelity review for scans125–139 only — 15 physical pages** and stop before scan140.
 
 
 ## Scans 95–109 T3 gate
@@ -764,3 +764,18 @@ Status: **COMPLETE / PASS — 15/15**.
 - scan140 was **not opened or used**;
 - T2: **NOT STARTED**;
 - checkpoint: [`T1_BATCH_125_139.md`](T1_BATCH_125_139.md).
+
+
+## Scans 125–139 T2 gate
+
+Status: **COMPLETE / PASS — 15/15**.
+
+- source-proven corrections: **171**;
+- per-scan counts: scan125 **12**; scan126 **19**; scan127 **7**; scan128 **9**; scan129 **15**; scan130 **13**; scan131 **14**; scan132 **16**; scan133 **15**; scan134 **6**; scan135 **11**; scan136 **8**; scan137 **11**; scan138 **5**; scan139 **10**;
+- mandatory historical-glyph families independently checked wherever applicable;
+- chapter **17** at scan127 and chapter **18** at scan136 re-confirmed;
+- scan133 printer/signature number `9` remains excluded;
+- unresolved historical/source-form readings: **0**;
+- all fifteen page records remain **needs-review pending T3**;
+- scan140 was **not opened or used**;
+- T2 audit: [`T2_AUDIT_125_139.md`](T2_AUDIT_125_139.md).
