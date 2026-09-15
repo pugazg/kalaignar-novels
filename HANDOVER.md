@@ -10,37 +10,33 @@
 Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 
 ## Durable state
-- scans **5–109 T1/T2/T3: VERIFIED**;
-- scans95–109 T3: **COMPLETE / PASS — 15/15**;
-- scan94 was re-opened only as a dependency to repair the true scan94→95 physical boundary;
-- scans95–109 visible printed pages: **93–107**;
-- source-visible chapter **13** is on **scan99 / printed97**;
-- source-visible chapter **14** is on **scan106 / printed104**;
-- omitted latter text of scan108 and complete scan109 text were restored from source pixels;
-- unresolved historical/source-form readings after T3: **0**;
-- omissions / duplicate body spans after T3: **0 / 0**;
-- scan110 was **not opened or used**;
+- scans **5–109 T1/T2/T3 VERIFIED**;
+- scans **110–124 T1 COMPLETE / PASS — 15/15 needs-review pending T2**;
+- scans110–124 visible printed pages: **108–122**;
+- scan113 / printed111 — source-visible chapter **15**;
+- scan120 / printed118 — source-visible chapter **16**;
+- scan123→124 physical split: **`அடுக்` / `டுக்காக`**;
+- scan117 isolated printer/signature number `8` excluded;
+- scan125 was **not opened or used**;
 - terminal/full-198-page issue remains **DEFERRED**;
 - normal batch-size policy remains **15 physical pages per iteration**.
 
-Authoritative T3 audit:
-`works/surulimalai/T3_AUDIT_095_109.md`
+Active checkpoint:
+`works/surulimalai/T1_BATCH_110_124.md`
 
 ## Exact next activity
-Perform **T1 scans110–124 only — 15 physical pages**, then stop before T2.
+Perform **T2 independent historical-glyph/source-form audit for scans110–124 only — 15 physical pages**.
 
-Source-readable split coverage:
-- scans **110–120** — `TVA_BOK_0064107_சுருளிமலை_1968_part_004_pages_91-120.pdf`;
-- scans **121–124** — `TVA_BOK_0064107_சுருளிமலை_1968_part_005_pages_121-150.pdf`.
+Use:
+- scans110–120 — `TVA_BOK_0064107_சுருளிமலை_1968_part_004_pages_91-120.pdf`;
+- scans121–124 — `TVA_BOK_0064107_சுருளிமலை_1968_part_005_pages_121-150.pdf`.
 
 Rules:
 - source scan pixels are controlling;
-- user-supplied text/Markdown is baseline/alignment aid only;
-- no OCR;
-- no web or alternate source;
-- no contextual reconstruction or spelling modernization;
-- preserve historical Tamil glyph/source forms;
-- create/update canonical page records as **needs-review pending T2**;
-- stop before scan125 and before T2.
+- independently re-read every word, punctuation mark, word join and historical glyph family;
+- baseline text may be used only for alignment;
+- no OCR, web, alternate source, guessing or modernization;
+- record only source-proven corrections;
+- stop before scan125 and before T3.
 
 The full-198-page terminal-boundary issue remains deferred.

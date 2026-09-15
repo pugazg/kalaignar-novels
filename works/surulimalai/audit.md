@@ -650,7 +650,7 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans95–109 only — 15 physical pages** and stop before scan110.
+Perform **T2 independent historical-glyph/source-form audit for scans110–124 only — 15 physical pages** and stop before T3 / scan125.
 
 
 ## Scans 95–109 T3 gate
@@ -667,3 +667,35 @@ Status: **COMPLETE / PASS — 15/15 VERIFIED**.
 - unresolved source-form readings after T3: **0**;
 - scan110 was **not opened or used**;
 - T3 audit: [`T3_AUDIT_095_109.md`](T3_AUDIT_095_109.md).
+
+
+## Scans 110–124 T1 gate
+
+Status: **COMPLETE / PASS — 15/15**.
+
+| Scan | Printed | Structure | T1 | Status |
+|---:|---:|---|---|---|
+| 110 | 108 | body / chapter 14 | PASS | **needs-review** |
+| 111 | 109 | body / chapter 14 | PASS | **needs-review** |
+| 112 | 110 | body / chapter 14 | PASS | **needs-review** |
+| 113 | 111 | body / chapter 14→15 | PASS | **needs-review** |
+| 114 | 112 | body / chapter 15 | PASS | **needs-review** |
+| 115 | 113 | body / chapter 15 | PASS | **needs-review** |
+| 116 | 114 | body / chapter 15 | PASS | **needs-review** |
+| 117 | 115 | body / chapter 15 | PASS | **needs-review** |
+| 118 | 116 | body / chapter 15 | PASS | **needs-review** |
+| 119 | 117 | body / chapter 15 | PASS | **needs-review** |
+| 120 | 118 | body / chapter 15→16 | PASS | **needs-review** |
+| 121 | 119 | body / chapter 16 | PASS | **needs-review** |
+| 122 | 120 | body / chapter 16 | PASS | **needs-review** |
+| 123 | 121 | body / chapter 16 | PASS | **needs-review** |
+| 124 | 122 | body / chapter 16 | PASS | **needs-review** |
+
+- source-visible chapter **15** confirmed at scan113 / printed111;
+- source-visible chapter **16** confirmed at scan120 / printed118;
+- scan123→124 physical word split preserved as `அடுக்` / `டுக்காக`;
+- scan117 isolated printer/signature number `8` excluded;
+- source-readable split changes at scan121 exactly as registered;
+- scan125 was **not opened or used**;
+- T2: **NOT STARTED**;
+- checkpoint: [`T1_BATCH_110_124.md`](T1_BATCH_110_124.md).
