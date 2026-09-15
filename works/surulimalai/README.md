@@ -21,7 +21,7 @@
 - body opening: **scan 5 VERIFIED**;
 - terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
 - prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
-- canonical body transcription: **T1/T2/T3 scans 5–54 COMPLETE / PASS / VERIFIED**;
+- canonical body transcription: **T1 scans 5–64 COMPLETE / PASS; scans 5–54 T1/T2/T3 VERIFIED; scans55–64 needs-review pending T2**;
 - historical-glyph review: **scans 5–54 T2 COMPLETE / PASS; scans50–54 = 1 correction (`உளர`→`உளற`); unresolved 0 through scan54**;
 - final source-fidelity review: **scans 5–54 T3 COMPLETE / PASS / VERIFIED; scans50–54 = 0 additional T3 corrections after 1 T2 correction**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
@@ -58,7 +58,8 @@ The user supplied the following catalogue-style description for project context.
 - scans 40–43 — chapter 4 body; T1/T2/T3 complete / **verified**; visible printed pages **38–41**;
 - scan 44 — printed page **42**; T1/T2/T3 complete / **verified**; centered source-visible chapter **5** begins at the top;
 - scans 45–49 — chapter 5 body; T1/T2/T3 complete / **verified**; visible printed pages **43–47**; T2 corrections **8**; T3 additional corrections **0**; scan48→49 split `அப்பா—` / `—நீங்கள்...`; scan49 ends `அந்தப்பேய்`;
-- scans 50–54 — chapter 5 body; T1/T2/T3 complete / **verified**; visible printed pages **48–52**; T2 corrections **1** (`உளர`→`உளற`); T3 additional corrections **0**; scan49→50 continuation `அந்தப்பேய்` / `அவள் எதிரே...`; scan54 ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`; scan55 not opened;
+- scans 50–54 — chapter 5 body; T1/T2/T3 complete / **verified**; visible printed pages **48–52**; T2 corrections **1** (`உளர`→`உளற`); T3 additional corrections **0**; scan49→50 continuation `அந்தப்பேய்` / `அவள் எதிரே...`; scan54 ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`;
+- scans 55–64 — chapter 5 body; T1 complete / **needs-review** pending T2; visible printed pages **53–62**; scan54→55 continuity preserved; scan64 ends `வாய் பிளந்தாள்!`; scan65 not opened;
 - current parser exposes only pages **1–150** although the same source copy has **198 pages**;
 - therefore no terminal/body-boundary claim from pages 140–150 is durable;
 - full 198-page source view is required before terminal mapping or closure.
@@ -68,7 +69,7 @@ Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Begin **T1 direct visual transcription for scans55–64 only — 10 physical pages**. Use the supplied `surulimalai.md` only as a baseline/navigation aid and keep the controlling PDF scan pixels authoritative. Create ten canonical records, mark them `needs-review`, update controls, commit, and stop before T2. The 198-page ingestion discrepancy remains deferred.
+Perform **T2 independent historical-glyph/source-form review for scans55–64 only — 10 physical pages**. Apply only source-proven corrections, keep records `needs-review`, update controls, commit, and stop before T3. The 198-page ingestion discrepancy remains deferred.
 
 Do not start English or assembled Tamil work.
 
@@ -105,3 +106,6 @@ Completed T1/T2/T3 checkpoint: [`T1_BATCH_050_054.md`](T1_BATCH_050_054.md).
 T2 audit: [`T2_AUDIT_050_054.md`](T2_AUDIT_050_054.md).
 
 T3 audit: [`T3_AUDIT_050_054.md`](T3_AUDIT_050_054.md).
+
+
+Active T1 checkpoint: [`T1_BATCH_055_064.md`](T1_BATCH_055_064.md).

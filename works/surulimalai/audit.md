@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 complete and VERIFIED through scan 54**. Scans50–54 retain **1 T2 correction**, required **0 additional T3 text corrections**, and have **0 unresolved** source-form readings.
+Canonical body transcription is **T1 complete through scan 64**. Scans **5–54 are T1/T2/T3 VERIFIED**; scans **55–64 are T1 COMPLETE / PASS and remain `needs-review` pending T2**.
 
 
 ## Scans 40–44 T1 gate
@@ -171,6 +171,30 @@ Status: **COMPLETE / PASS — 5/5 VERIFIED**.
 - scan54 ending re-confirmed;
 - scan55 was not opened or used;
 - T3 audit: [`T3_AUDIT_050_054.md`](T3_AUDIT_050_054.md).
+
+## Scans 55–64 T1 gate
+
+Status: **COMPLETE / PASS — 10/10**.
+
+| Scan | Printed page | Structure | T1 | Status |
+|---:|---:|---|---|---|
+| 55 | 53 | body / chapter 5 | PASS | **needs-review** |
+| 56 | 54 | body / chapter 5 | PASS | **needs-review** |
+| 57 | 55 | body / chapter 5 | PASS | **needs-review** |
+| 58 | 56 | body / chapter 5 | PASS | **needs-review** |
+| 59 | 57 | body / chapter 5 | PASS | **needs-review** |
+| 60 | 58 | body / chapter 5 | PASS | **needs-review** |
+| 61 | 59 | body / chapter 5 | PASS | **needs-review** |
+| 62 | 60 | body / chapter 5 | PASS | **needs-review** |
+| 63 | 61 | body / chapter 5 | PASS | **needs-review** |
+| 64 | 62 | body / chapter 5 | PASS | **needs-review** |
+
+- scan54→55 continuity preserved;
+- visible printed-page mapping established as **53–62**;
+- difficult source forms are explicitly flagged in `T1_BATCH_055_064.md`;
+- scan64 ends `வாய் பிளந்தாள்!`;
+- scan65 was not opened or used;
+- T2 for scans55–64: **NOT STARTED**.
 
 ## Source-ingestion correction
 
@@ -473,4 +497,4 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Begin **T1 direct visual transcription for scans55–64 only — 10 physical pages**. Stop before T2.
+Perform **T2 independent historical-glyph/source-form review for scans55–64 only — 10 physical pages** and stop before T3.
