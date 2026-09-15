@@ -80,21 +80,21 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 77 | 75 | body / chapter 9 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction |
 | 78 | 76 | body / chapter 10 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; chapter 10 re-confirmed |
 | 79 | 77 | body / chapter 10 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `என்று கடிந்து கொண்டாள் பொன்மணி.`; scan80 not opened |
-| 80 | 78 | body / chapter 10 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; ends `எப்படிடா கேக்கிறதுன்னு` |
-| 81 | 79 | body / chapter 10 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
-| 82 | 80 | body / chapter 10 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
-| 83 | 81 | body / chapter 10 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
-| 84 | 82 | body / chapter 10 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
-| 85 | 83 | body / chapter 10→11 | **needs-review** | T1/T2 PASS; 1 T2 correction; T3 not started; chapter 11 confirmed; `கண்ணே!` corrected |
-| 86 | 84 | body / chapter 11 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
-| 87 | 85 | body / chapter 11 | **needs-review** | T1/T2 PASS; 1 T2 correction; T3 not started; ends `சூசக` |
-| 88 | 86 | body / chapter 11 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; begins `மான பேச்சுகளை...` |
-| 89 | 87 | body / chapter 11 | **needs-review** | T1/T2 PASS; 2 T2 corrections; T3 not started; ends `அகப்பட்` |
-| 90 | 88 | body / chapter 11 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; begins `டதுன்னா` |
-| 91 | 89 | body / chapter 11→12 | **needs-review** | T1/T2 PASS; 1 T2 correction; T3 not started; chapter 12 confirmed; ends `கூடிவிட்` |
-| 92 | 90 | body / chapter 12 | **needs-review** | T1/T2 PASS; 1 T2 correction; T3 not started; begins `டனர்.`; ends `எடுத்துக்` |
-| 93 | 91 | body / chapter 12 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; begins `காட்டுவதாக...`; ends quoted `நான் கும்பிட்ட தெய்வமெல்லாம் நல்ல தெய்வம்` |
-| 94 | 92 | body / chapter 12 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; begins `என்று...`; ends `முத்தாய்ப்பு வைத்தார் அவர்.`; scan95 not opened |
+| 80 | 78 | body / chapter 10 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `எப்படிடா கேக்கிறதுன்னு` |
+| 81 | 79 | body / chapter 10 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
+| 82 | 80 | body / chapter 10 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
+| 83 | 81 | body / chapter 10 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
+| 84 | 82 | body / chapter 10 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
+| 85 | 83 | body / chapter 10→11 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction; chapter 11 re-confirmed |
+| 86 | 84 | body / chapter 11 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
+| 87 | 85 | body / chapter 11 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction; ends `சூசக` |
+| 88 | 86 | body / chapter 11 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; begins `மான பேச்சுகளை...` |
+| 89 | 87 | body / chapter 11 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections; ends `அகப்பட்` |
+| 90 | 88 | body / chapter 11 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; begins `டதுன்னா` |
+| 91 | 89 | body / chapter 11→12 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction; chapter 12 re-confirmed; ends `கூடிவிட்` |
+| 92 | 90 | body / chapter 12 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction; begins `டனர்.`; ends `எடுத்துக்` |
+| 93 | 91 | body / chapter 12 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; begins `காட்டுவதாக...`; ends quoted `நான் கும்பிட்ட தெய்வமெல்லாம் நல்ல தெய்வம்` |
+| 94 | 92 | body / chapter 12 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; begins `என்று...`; ends `முத்தாய்ப்பு வைத்தார் அவர்.`; scan95 not opened |
 | 95 | — | unclassified | **not-started** | direct visual classification pending |
 | 96 | — | unclassified | **not-started** | direct visual classification pending |
 | 97 | — | unclassified | **not-started** | direct visual classification pending |
@@ -157,12 +157,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records: **94 total — 79 `verified` + 15 `needs-review`**;
+- page records: **94 total — 94 `verified`**;
 - body T1: **scans 5–94 COMPLETE / PASS**;
 - body T2: **scans 5–94 COMPLETE / PASS; scans80–94 = 6 corrections; unresolved 0 through scan94**;
-- body T3: **scans 5–79 COMPLETE / PASS / VERIFIED; scans65–79 = 0 additional T3 corrections after 8 T2 corrections**;
+- body T3: **scans 5–94 COMPLETE / PASS / VERIFIED; scans80–94 = 0 additional T3 corrections after 6 T2 corrections**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T3 final source-fidelity review for scans80–94 only — 15 physical pages; stop before scan95. Full-source/terminal reconciliation remains deferred.**
+Exact next: **begin T1 direct visual transcription for scans95–109 only — 15 physical pages; stop before T2. Full-source/terminal reconciliation remains deferred.**
