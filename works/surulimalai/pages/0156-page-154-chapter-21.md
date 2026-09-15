@@ -7,20 +7,20 @@ page_type: "body / chapter opener"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete"
+transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete"
 ---
 
 ## 21
 
 சிதறிவிட்ட பானைகளைப் பார்த்தவாறு அப்படியே அயர்ந்துபோய் திகைத்து அசைவற்று நின்றாள் பொன்மணி. அறவாழியும் வாயிற்புறம் வந்து அனுதாபத்தோடு அவளை உற்று நோக்கினான். "த்ச்! த்ச்! எல்லாப் பானைகளுமே உடைந்துவிட்டதா?"... அவனது அனுதாப வார்த்தைகள் அவளுக்கு ஆறுதலாக இருந்தன. எத்தனை பானைகள் உடைந்தால் என்ன; தன்னைப்பற்றி அறவாழியின் உள்ளத்திலே முதல் நாள் தோன்றிய அன்பு அரண் உடைந்து விடாமல் இருந்தால் அதுபோதும் அவளுக்கு!
 
-ஆனால் ஒன்று உடைந்து சிதறிக் கிடக்கும் பானைகள் ஒவ்வொன்றிலும் அவளது தந்தை பொன்னையாவின் உருவமும், தாயார் பூஞ்சோலையின் வடிவமும் வேதனைக் கோலத்தில் விழிநீர் பெருகியவாறு நிற்பதுபோல் தோன்றியது அவளுக்கு
+ஆனால் ஒன்று உடைந்து சிதறிக் கிடக்கும் பானையோடுகள் ஒவ்வொன்றிலும் அவளது தந்தை பொன்னையாவின் உருவமும், தாயார் பூஞ்சோலையின் வடிவமும் வேதனைக் கோலத்தில் விழிநீர் பெருகியவாறு நிற்பதுபோல் தோன்றியது அவளுக்கு
 
 அந்தப் பானைகளை அன்று சந்தையில் விற்றுவரக் கூடிய காசில்தான் அப்பாவுக்கு வைத்தியர் சொன்ன மிக முக்கியமான மருந்தொன்றைத் தயாரிக்க முடியும். அதை நினைத்ததும் அவளையும் மீறி ஆறெனப் பெருகிவிட்டது கண்ணீர்.
 
-தாயார் மாலையில் தன் வருகையை ஆவலோடு எதிர்பார்த்திருப்பார்களே— தந்தையும் அருந்தப் போகும் மருந்தை நினைத்து நோயைப்பற்றிய கவலையிலிருந்து ஒரு சிறிது விடுபட்டிருப்பாரே— ஆனால் இப்போது எல்லாம் தூள் தூளாகி விட்டதே
+தாயார் மாலையில் தன் வருகையை ஆவலோடு எதிர்பார்த்திருப்பார்களே—தந்தையும் அருந்தப் போகும் மருந்தை நினைத்து நோயைப்பற்றிய கவலையிலிருந்து ஒரு சிறிது விடுபட்டிருப்பாரே—ஆனால் இப்போது எல்லாம் தூள் தூளாகிவிட்டதே
 
-என்ன செய்வது—என ஏஙகினாள் அந்த ஏந்திழை. உடற் கட்டுக்கு நேரெழில் அழகு தருவதுபோல் ஒரு ஆழ்ந்த பெருமூச்சு? அப்பப்பா— அதிலே எத்துணை சோகம்! வேதனை! விசாரம்! பெருமூச்சின் அர்த்தத்தை கவனிக்க முடியவில்லை அறவாழிக்கு! பானைகளை உடைத்து விட்டதற்கு வீட்டில் திட்டுவார்கள் என்று பயப்படுகிறாள் பொன்மணி யென்றே அவன் கருதினான்.
+என் செய்வது—என ஏங்கினாள் அந்த ஏந்திழை. உடற் கட்டுக்கு நேரெழில் அழகு தருவதுபோல் ஒரு ஆழ்ந்த பெருமூச்சு! அப்பப்பா—அதிலே எத்துணை சோகம்! வேதனை! விசாரம்! பெருமூச்சின் அர்த்தத்தை கவனிக்க முடியவில்லை அறவாழிக்கு! பானைகளை உடைத்து விட்டதற்கு வீட்டில் திட்டுவார்கள் என்று பயப்படுகிறாள் பொன்மணி யென்றே அவன் கருதினான்.
 
 "பயப்படாதே! வீட்டில் திட்டுவார்கள் என்றுதானே இவ்வளவு கவலை?..."
 
@@ -34,5 +34,15 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 - physical ending re-confirmed as `இவ்வளவு கவலை?...`;
 - source-looking spellings, punctuation, word joins, and historical glyph forms remain reserved for independent T2;
 - page status: **needs-review** pending T2.
+
+## T2 independent historical-glyph/source-form notes
+
+- complete physical scan independently re-read against the controlling source pixels;
+- mandatory historical-glyph families checked wherever applicable: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- source-proven T2 text/punctuation/source-join corrections: **7**;
+- source-visible chapter **21** re-confirmed at scan156 / printed154;
+- physical page opening/ending re-confirmed;
+- unresolved historical/source-form readings after T2: **0**;
+- page remains **needs-review** pending T3.
 
 <!-- source physical scan: 156; visible printed page: 154; T1 COMPLETE / NEEDS-REVIEW -->
