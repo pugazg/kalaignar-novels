@@ -50,4 +50,4 @@ transcription_method: "user-supplied extracted-text baseline aligned against con
 - unresolved historical/source-form readings after T2: **0**;
 - page remains **needs-review** pending T3.
 
-<!-- source physical scan: 91; visible printed page: 89; ends: கூடிவிட்ட; T1/T2 COMPLETE / NEEDS-REVIEW -->
+<!-- source physical scan: 91; visible printed page: 89; ends: கூடிவிட்; T1/T2 COMPLETE / NEEDS-REVIEW -->
