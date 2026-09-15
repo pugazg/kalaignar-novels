@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 VERIFIED through scan 139**. Scans **140–154** are T1 COMPLETE / PASS and remain needs-review pending T2. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
+Canonical body transcription is **T1/T2/T3 VERIFIED through scan 154**. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
 
 
 ## Scans 40–44 T1 gate
@@ -650,7 +650,7 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans140–154 only — 15 physical pages** and stop before scan155.
+Perform **T1 scans155–169 only — 15 physical pages** and stop before T2 / scan170.
 
 
 ## Scans 95–109 T3 gate
@@ -845,3 +845,20 @@ Status: **COMPLETE / PASS — 15/15**.
 - all fifteen page records remain **needs-review pending T3**;
 - scan155 was **not opened or used**;
 - T2 audit: [`T2_AUDIT_140_154.md`](T2_AUDIT_140_154.md).
+
+
+## Scans 140–154 T3 gate
+
+Status: **COMPLETE / PASS — 15/15 VERIFIED**.
+
+- all **117** T2 corrections re-confirmed;
+- additional T3 source-fidelity corrections: **34**;
+- per-scan T3 additions: scan140 **1**; scan141 **1**; scan142 **4**; scan143 **1**; scan144 **2**; scan145 **2**; scan146 **2**; scan147 **7**; scan148 **3**; scan149 **2**; scan150 **2**; scan151 **2**; scan152 **3**; scan153 **2**; scan154 **0**;
+- chapter **19** at scan144 and chapter **20** at scan151 re-confirmed;
+- scan149 printer/signature number `10` remains excluded;
+- part005→part006 continuity at scan150→151 re-confirmed;
+- omissions / duplicate body spans: **0 / 0**;
+- unresolved after T3: **0**;
+- scans140–154 final status: **verified**;
+- scan155 was **not opened or used**;
+- T3 audit: [`T3_AUDIT_140_154.md`](T3_AUDIT_140_154.md).

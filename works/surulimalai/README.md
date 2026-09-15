@@ -21,9 +21,9 @@
 - body opening: **scan 5 VERIFIED**;
 - terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
 - prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
-- canonical body transcription: **scans 5–139 T1/T2/T3 VERIFIED; scans140–154 T1/T2 COMPLETE / PASS — needs-review pending T3**;
+- canonical body transcription: **scans 5–154 T1/T2/T3 VERIFIED**;
 - historical-glyph review: **scans 5–154 T2 COMPLETE / PASS; scans140–154 = 117 source-proven corrections; unresolved 0**;
-- final source-fidelity review: **scans 5–139 T3 COMPLETE / PASS / VERIFIED**; scans125–139 re-confirmed **171** T2 corrections and added **85** final source-fidelity corrections;
+- final source-fidelity review: **scans 5–154 T3 COMPLETE / PASS / VERIFIED**; scans140–154 re-confirmed **117** T2 corrections and added **34** final source-fidelity corrections;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
 - English translation: **NOT STARTED / BLOCKED**.
 
@@ -65,7 +65,7 @@ The user supplied the following catalogue-style description for project context.
 - scans 95–109 — T1/T2/T3 complete / **verified**; visible printed pages **93–107**; T3 repaired physical segmentation; chapter **13** is on scan99 / printed97 and chapter **14** on scan106 / printed104; omitted scan108–109 source text restored;
 - scans 110–124 — T1/T2/T3 complete / **verified**; visible printed pages **108–122**; T2 corrections **73** + T3 additional corrections **76**; unresolved **0**; chapter **15** at scan113; chapter **16** at scan120; scan123→124 split `அடுக்` / `டுக்காக`; source `சுருமலை` at scan116 retained;
 - scans 125–139 — T1/T2/T3 complete / **verified**; visible printed pages **123–137**; T2 corrections **171** + T3 additional corrections **85**; unresolved **0**; source-visible chapter **17** at scan127 / printed125; chapter **18** at scan136 / printed134; scan133 printer/signature `9` excluded;
-- scans 140–154 — T1/T2 complete / **needs-review pending T3**; visible printed pages **138–152**; T2 corrections **117**; unresolved **0**; source-visible chapter **19** at scan144 / printed142; chapter **20** at scan151 / printed149; scan149 printer/signature `10` excluded; part005→part006 continuity re-confirmed at scan150→151; scan155 not opened;
+- scans 140–154 — T1/T2/T3 complete / **verified**; visible printed pages **138–152**; T2 corrections **117** + T3 additional corrections **34**; unresolved **0**; source-visible chapter **19** at scan144 / printed142; chapter **20** at scan151 / printed149; scan149 printer/signature `10` excluded; part005→part006 continuity re-confirmed at scan150→151; scan155 not opened during T3;
 - the monolithic-file parser exposes only pages **1–150**, but user-supplied split derivatives now provide source-readable access beyond that ceiling;
 - terminal/body-boundary reconciliation remains deliberately **DEFERRED** until the scheduled end-of-work pass; no terminal claim is inferred from the parser ceiling.
 
@@ -74,15 +74,17 @@ Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans140–154 only — 15 physical pages**.
+Perform **T1 scans155–169 only — 15 physical pages**.
 
-Use the same part005 and part006 source pages. Re-read every word and punctuation span from source pixels, re-confirm all **117** T2 corrections, chapter **19** / **20**, scan149 printer/signature exclusion, part005→part006 continuity, and omissions/duplication. Freeze the fifteen records if clean.
+Use `TVA_BOK_0064107_சுருளிமலை_1968_part_006_pages_151-180.pdf`, extract pages **5–19**.
 
-Stop before scan155.
+Source pixels control every word, punctuation mark, historical glyph, printed-page number, chapter marker, and physical page boundary. The supplied Markdown/text may be used only as an alignment aid.
+
+Create/update scans155–169 as **needs-review pending T2**. Stop before scan170 and before T2.
 
 The terminal/full-198-page reconciliation remains deferred.
 
-Do not start English or assembled Tamil work in this T3 iteration.
+Do not start T2, English, or assembled Tamil work in this T1 iteration.
 
 
 Terminal audit: [`TERMINAL_BOUNDARY_AUDIT.md`](TERMINAL_BOUNDARY_AUDIT.md).
@@ -169,3 +171,6 @@ Active T1 checkpoint: [`T1_BATCH_140_154.md`](T1_BATCH_140_154.md).
 
 
 T2 audit: [`T2_AUDIT_140_154.md`](T2_AUDIT_140_154.md).
+
+
+T3 audit: [`T3_AUDIT_140_154.md`](T3_AUDIT_140_154.md).
