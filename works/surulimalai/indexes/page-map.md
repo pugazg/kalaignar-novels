@@ -1,3 +1,12 @@
+| 55 | 53 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started; scan54→55 continuity preserved |
+| 56 | 54 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started |
+| 57 | 55 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started |
+| 58 | 56 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started |
+| 59 | 57 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started |
+| 60 | 58 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started |
+| 61 | 59 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started |
+| 62 | 60 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started |
+| 63 | 61 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started |
 | 64 | 62 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started; ends `வாய் பிளந்தாள்!`; scan65 not opened |
 | 49 | 47 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `அந்தப்பேய்`; scan50 not opened |
 | 50 | 48 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; scan49→50 continuation preserved |
@@ -5,16 +14,6 @@
 | 52 | 50 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; verse lineation re-confirmed |
 | 53 | 51 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 corrections; `உளர`→`உளற` |
 | 54 | 52 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`; scan55 not opened |
-| 55 | — | unclassified | **not-started** | direct visual classification pending |
-| 56 | — | unclassified | **not-started** | direct visual classification pending |
-| 57 | — | unclassified | **not-started** | direct visual classification pending |
-| 58 | — | unclassified | **not-started** | direct visual classification pending |
-| 59 | — | unclassified | **not-started** | direct visual classification pending |
-| 60 | — | unclassified | **not-started** | direct visual classification pending |
-| 61 | — | unclassified | **not-started** | direct visual classification pending |
-| 62 | — | unclassified | **not-started** | direct visual classification pending |
-| 63 | — | unclassified | **not-started** | direct visual classification pending |
-| 64 | — | unclassified | **not-started** | direct visual classification pending |
 
 This manifest currently covers only the pages exposed by the degraded Files parser. Printed-page values remain `—` unless directly verified from a complete source view. No source-ending or page-count inference may be made from the parser's 150-page ceiling.
 
