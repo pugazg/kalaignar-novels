@@ -4,10 +4,10 @@ printed_page: 89
 work: "surulimalai"
 section: "11→12"
 page_type: "body / chapter transition"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "user-supplied extracted-text baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete"
+transcription_method: "user-supplied extracted-text baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete; final source-fidelity T3 complete"
 ---
 
 தெருக்கதவு திறக்கப்பட்டது. சிங்காரம் நன்றியோடு பொன்மணியைப் பார்த்து விட்டு வீட்டை விட்டு வெளியேறினான். பொன்மணி, கதவைத் தாளிட்டுவிட்டு தன் இடத்திற்கு வந்து படுத்தாள்.
@@ -50,4 +50,14 @@ transcription_method: "user-supplied extracted-text baseline aligned against con
 - unresolved historical/source-form readings after T2: **0**;
 - page remains **needs-review** pending T3.
 
-<!-- source physical scan: 91; visible printed page: 89; ends: கூடிவிட்; T1/T2 COMPLETE / NEEDS-REVIEW -->
+## T3 final source-fidelity notes
+
+- complete physical scan re-compared against the controlling source pixels after T2;
+- all **1** T2 text correction on this page was re-confirmed against the scan;
+- T2 boundary correction ending `கூடிவிட்`, source form `ஒலியில்லை`, and chapter marker **12** re-confirmed;
+- omissions / duplicate body spans after T3: **0 / 0**;
+- T3 additional text corrections: **0**;
+- unresolved source-form readings after T3: **0**;
+- final status: **verified**.
+
+<!-- source physical scan: 91; visible printed page: 89; ends: கூடிவிட்; T1/T2/T3 COMPLETE / VERIFIED -->
