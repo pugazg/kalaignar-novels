@@ -10,25 +10,37 @@
 Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 
 ## Durable state
-- scans **5–109 T1/T2/T3 VERIFIED**;
-- scans **110–124 T1/T2 COMPLETE / PASS — 15/15 needs-review pending T3**;
-- scans110–124 visible printed pages: **108–122**;
-- T2 source-proven corrections: **73**;
-- unresolved after T2: **0**;
-- scan113 / printed111 — chapter **15** re-confirmed;
-- scan120 / printed118 — chapter **16** re-confirmed;
-- scan123→124 split — **`அடுக்` / `டுக்காக`** re-confirmed;
+- scans **5–124 T1/T2/T3 VERIFIED**;
+- scans110–124 T3: **COMPLETE / PASS — 15/15 VERIFIED**;
+- visible printed pages for scans110–124: **108–122**;
+- all **73** T2 corrections re-confirmed;
+- additional T3 source-fidelity corrections: **76**;
+- unresolved after T3: **0**;
+- omissions / duplicate body spans: **0 / 0**;
+- chapter **15** — scan113 / printed111;
+- chapter **16** — scan120 / printed118;
+- scan123→124 split — **`அடுக்` / `டுக்காக`**;
 - source form **`சுருமலை`** on scan116 retained exactly;
-- scan117 printer/signature number `8` remains excluded;
-- scan125 was **not opened or used**;
+- scan117 printer/signature number `8` excluded;
+- scan125 was **not opened or used** during T3;
 - terminal/full-198-page issue remains **DEFERRED**.
 
-T2 authority:
-`works/surulimalai/T2_AUDIT_110_124.md`
+T3 authority:
+`works/surulimalai/T3_AUDIT_110_124.md`
 
 ## Exact next activity
-Perform **T3 final source-fidelity review for scans110–124 only — 15 physical pages**.
 
-Re-read every word and punctuation span against the same source pixels, re-confirm all **73** T2 corrections, physical page boundaries, chapter transitions, scan123→124 split, and omissions/duplication. Freeze the fifteen page records if clean.
+Perform **T1 scans125–139 only — 15 physical pages**.
 
-Stop before scan125. Do not begin English or assembled Tamil work. The full-198-page terminal-boundary issue remains deferred.
+Use:
+`TVA_BOK_0064107_சுருளிமலை_1968_part_005_pages_121-150.pdf` — extract pages **5–19**.
+
+Rules:
+- source scan pixels are controlling;
+- user-supplied text/Markdown is baseline/alignment aid only;
+- no OCR, web, alternate source, guessing or modernization;
+- preserve historical/source forms;
+- create/update canonical page records as **needs-review pending T2**;
+- stop before scan140 and before T2.
+
+The full-198-page terminal-boundary issue remains deferred.

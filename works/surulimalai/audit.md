@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 VERIFIED through scan 109**. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
+Canonical body transcription is **T1/T2/T3 VERIFIED through scan 124**. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
 
 
 ## Scans 40–44 T1 gate
@@ -650,7 +650,7 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans110–124 only — 15 physical pages** and stop before scan125.
+Perform **T1 scans125–139 only — 15 physical pages** and stop before T2 / scan140.
 
 
 ## Scans 95–109 T3 gate
@@ -715,3 +715,20 @@ Status: **COMPLETE / PASS — 15/15**.
 - all fifteen records remain **needs-review pending T3**;
 - scan125 was **not opened or used**;
 - T2 audit: [`T2_AUDIT_110_124.md`](T2_AUDIT_110_124.md).
+
+
+## Scans 110–124 T3 gate
+
+Status: **COMPLETE / PASS — 15/15 VERIFIED**.
+
+- all **73** T2 corrections re-confirmed;
+- additional T3 source-fidelity corrections: **76**;
+- per-scan T3 additions: scan110 **6**; scan111 **5**; scan112 **1**; scan113 **1**; scan114 **10**; scan115 **4**; scan116 **6**; scan117 **4**; scan118 **8**; scan119 **8**; scan120 **9**; scan121 **4**; scan122 **3**; scan123 **3**; scan124 **4**;
+- chapter **15** at scan113 and chapter **16** at scan120 re-confirmed;
+- scan123→124 split `அடுக்` / `டுக்காக` re-confirmed;
+- source `சுருமலை` on scan116 retained;
+- omissions / duplicate body spans: **0 / 0**;
+- unresolved after T3: **0**;
+- scans110–124 final status: **verified**;
+- scan125 was **not opened or used**;
+- T3 audit: [`T3_AUDIT_110_124.md`](T3_AUDIT_110_124.md).
