@@ -21,9 +21,10 @@
 - body opening: **scan 5 VERIFIED**;
 - terminal work boundary: **UNKNOWN / previous terminal audit INVALIDATED**;
 - prior claim `scan149 = printed page 198; scan150 = back cover`: **RETRACTED**;
-- canonical body transcription: **scans 5–169 T1/T2/T3 VERIFIED**;
+- canonical body transcription: **scans 5–169 T1/T2/T3 VERIFIED; scans170–184 T1 COMPLETE / PASS — needs-review pending T2**;
 - historical-glyph review: **scans 5–169 T2 COMPLETE / PASS; scans155–169 = 117 source-proven corrections; unresolved 0**;
 - final source-fidelity review: **scans 5–169 T3 COMPLETE / PASS / VERIFIED**; scans155–169 re-confirmed **117** T2 corrections and added **21** final source-fidelity corrections;
+- latest T1 extension: **scans170–184 COMPLETE / PASS — 15/15; printed168–182; chapters24/25; scan181 signature `12` excluded; scan185 not opened**;
 - assembled Tamil: **NOT STARTED / BLOCKED**;
 - English translation: **NOT STARTED / BLOCKED**.
 
@@ -67,6 +68,7 @@ The user supplied the following catalogue-style description for project context.
 - scans 125–139 — T1/T2/T3 complete / **verified**; visible printed pages **123–137**; T2 corrections **171** + T3 additional corrections **85**; unresolved **0**; source-visible chapter **17** at scan127 / printed125; chapter **18** at scan136 / printed134; scan133 printer/signature `9` excluded;
 - scans 140–154 — T1/T2/T3 complete / **verified**; visible printed pages **138–152**; T2 corrections **117** + T3 additional corrections **34**; unresolved **0**; source-visible chapter **19** at scan144 / printed142; chapter **20** at scan151 / printed149; scan149 printer/signature `10` excluded; part005→part006 continuity re-confirmed at scan150→151;
 - scans 155–169 — T1/T2/T3 complete / **verified**; visible printed pages **153–167**; T2 corrections **117** + T3 additional corrections **21**; unresolved **0**; omissions / duplicate body spans **0 / 0**; chapter **21** at scan156 / printed154; chapter **22** at scan160 / printed158; chapter **23** at scan168 / printed166; scan165 printer/signature `11` excluded; scan163→164 split `வருந்துவா` / `னேன்?`; scan167→168 split `மழைத்` / `துளிகளைக்`; scan169 ends `அந்தப்`; scan170 not opened during T3;
+- scans 170–184 — T1 complete / **needs-review pending T2**; visible printed pages **168–182**; chapter **24** at scan174 / printed172; chapter **25** at scan181 / printed179; scan181 printer/signature `12` excluded; scan169→170 split `அந்தப்` / `பொறுப்பினால்`; scan175→176 split `தவறு` / `களுக்காக`; part006→part007 boundary scan180→181 re-confirmed; scan181→182 continuation preserved; scan185 not opened;
 - the monolithic-file parser exposes only pages **1–150**, but user-supplied split derivatives now provide source-readable access beyond that ceiling;
 - terminal/body-boundary reconciliation remains deliberately **DEFERRED** until the scheduled end-of-work pass; no terminal claim is inferred from the parser ceiling.
 
@@ -75,11 +77,11 @@ Source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Exact next activity
 
-Perform **T1 scans170–184 only — 15 physical pages**.
+Perform **T2 independent historical-glyph/source-form audit for scans170–184 only — 15 physical pages**.
 
-Use part006 extract pages **20–30** for scans170–180 and part007 extract pages **1–4** for scans181–184. Source pixels control every reading. Create/update the fifteen canonical page records as **needs-review pending T2**.
+Use part006 extract pages **20–30** and part007 extract pages **1–4**. Re-read every word and punctuation span from source pixels, including chapters **24/25**, scan181 printer/signature `12`, cross-page splits/continuity, and historical Tamil glyph forms.
 
-Stop before scan185 / T2.
+Stop before T3 / scan185.
 
 The terminal/full-198-page reconciliation remains deferred.
 
@@ -180,3 +182,5 @@ Completed T1/T2/T3 checkpoint: [`T1_BATCH_155_169.md`](T1_BATCH_155_169.md).
 T2 audit: [`T2_AUDIT_155_169.md`](T2_AUDIT_155_169.md).
 
 T3 audit: [`T3_AUDIT_155_169.md`](T3_AUDIT_155_169.md).
+
+Active T1 checkpoint: [`T1_BATCH_170_184.md`](T1_BATCH_170_184.md).

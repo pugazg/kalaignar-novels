@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 VERIFIED through scan 169**. The scans155–169 T3 pass independently re-confirmed all **117** T2 corrections, added **21** source-proven final-fidelity corrections, and left **0 unresolved** readings with **0 / 0** omissions / duplicate body spans. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
+Canonical body transcription is **T1/T2/T3 VERIFIED through scan 169**. Scans **170–184 are T1 COMPLETE / PASS — 15/15 and remain needs-review pending T2**. The scans155–169 T3 pass independently re-confirmed all **117** T2 corrections, added **21** source-proven final-fidelity corrections, and left **0 unresolved** readings with **0 / 0** omissions / duplicate body spans. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
 
 
 ## Scans 40–44 T1 gate
@@ -650,7 +650,7 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T1 scans170–184 only — 15 physical pages** using part006 extract pages **20–30** and part007 extract pages **1–4**; stop before scan185 / T2.
+Perform **T2 independent historical-glyph/source-form audit for scans170–184 only — 15 physical pages**; stop before T3 / scan185.
 
 
 ## Scans 95–109 T3 gate
@@ -933,4 +933,40 @@ Status: **COMPLETE / PASS — 15/15 VERIFIED**.
 - scans155–169 final status: **verified**;
 - scan170 was **not opened or used**;
 - T3 audit: [`T3_AUDIT_155_169.md`](T3_AUDIT_155_169.md).
+
+## Scans 170–184 T1 gate
+
+Status: **COMPLETE / PASS — 15/15**.
+
+| Scan | Printed | Structure | T1 | Status |
+|---:|---:|---|---|---|
+| 170 | 168 | body / chapter 23 | PASS | **needs-review** |
+| 171 | 169 | body / chapter 23 | PASS | **needs-review** |
+| 172 | 170 | body / chapter 23 | PASS | **needs-review** |
+| 173 | 171 | body / chapter 23 | PASS | **needs-review** |
+| 174 | 172 | body / chapter 23→24 | PASS | **needs-review** |
+| 175 | 173 | body / chapter 24 | PASS | **needs-review** |
+| 176 | 174 | body / chapter 24 | PASS | **needs-review** |
+| 177 | 175 | body / chapter 24 | PASS | **needs-review** |
+| 178 | 176 | body / chapter 24 | PASS | **needs-review** |
+| 179 | 177 | body / chapter 24 | PASS | **needs-review** |
+| 180 | 178 | body / chapter 24 | PASS | **needs-review** |
+| 181 | 179 | body / chapter 24→25 | PASS | **needs-review** |
+| 182 | 180 | body / chapter 25 | PASS | **needs-review** |
+| 183 | 181 | body / chapter 25 | PASS | **needs-review** |
+| 184 | 182 | body / chapter 25 | PASS | **needs-review** |
+
+- part006 extract pages **20–30** map to scans **170–180**;
+- part007 extract pages **1–4** map to scans **181–184**;
+- scan169→170 split `அந்தப்` / `பொறுப்பினால்` re-confirmed;
+- source-visible chapter **24** confirmed at scan174 / printed172;
+- scan175→176 physical word split `தவறு` / `களுக்காக` re-confirmed;
+- part006→part007 boundary at scan180→181 crossed cleanly;
+- source-visible chapter **25** confirmed at scan181 / printed179;
+- scan181 isolated printer/signature number `12` excluded;
+- scan181→182 sentence continuation preserved;
+- all fifteen page openings/endings aligned to source pixels;
+- scan185 was **not opened or used**;
+- T2: **NOT STARTED**;
+- checkpoint: [`T1_BATCH_170_184.md`](T1_BATCH_170_184.md).
 
