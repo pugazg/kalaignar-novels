@@ -1,4 +1,4 @@
-| 44 | 42 | body / chapter 5 opener | **verified** | T1/T2/T3 PASS; chapter 5 + omitted lower-page span restored; `நிலைமையைச்`; `எரு` |
+| 44 | 42 | body / chapter 5 opener | **verified** | T1/T2/T3 PASS; chapter 5 + omitted lower-page span restored; `நிலைமையைச்`; `எரு` || 45 | 43 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started || 46 | 44 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started || 47 | 45 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started || 48 | 46 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started || 49 | 47 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started |
 
 Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`. **Source extent: 198 pages. Current ChatGPT Files parser exposes only 150 pages; this representation is incomplete and must not define source structure.**
 
@@ -162,12 +162,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records: **44 total — 44 `verified`**;
-- body T1: **scans 5–44 COMPLETE / PASS**;
+- page records: **49 total — 44 `verified` + 5 `needs-review`**;
+- body T1: **scans 5–49 COMPLETE / PASS**;
 - body T2: **scans 5–44 COMPLETE / PASS; scans35–39 = 6 corrections; scans40–44 = 0 corrections; unresolved 0 through scan44**;
 - body T3: **scans 5–44 COMPLETE / PASS / VERIFIED; scans40–44 repairs documented in `T3_AUDIT_040_044.md`**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **begin T1 direct visual transcription for scans45–49 only; use the supplied MD as a baseline aid but keep PDF pixels authoritative; stop before T2. Full-source/terminal reconciliation remains deferred.**
+Exact next: **perform T2 historical-glyph/source-form review for scans45–49 only; stop before T3. Full-source/terminal reconciliation remains deferred.**

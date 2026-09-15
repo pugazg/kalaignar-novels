@@ -11,23 +11,20 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 
 ## Durable state
 - scans **5–44 T1/T2/T3: VERIFIED**;
-- scans40–44 visible printed pages: **38–42**;
-- scans40–43: chapter **4**;
-- scan44 / printed42: source-visible chapter **5** opener;
-- scans40–44 T2 corrections: **0**;
-- T3 repaired a major T1/T2 page-boundary/omission defect across scans42–44;
-- scan42 ends exactly `அவள் கண்கள் கலங்கி`; scan43 begins `யிருந்தன.`;
-- scan44 lower-page omission is restored through `பதிபக்தியை விளக்கும் கதை!`;
-- scan44 source form is **`எரு`**, not T1/T2 `எருமை`;
-- unresolved source-form readings after completed T3 through scan44: **0**;
-- scan45 was **not opened or used**;
+- scans **45–49 T1: COMPLETE / PASS — 5/5 needs-review pending T2**;
+- scans45–49 visible printed pages: **43–47**;
+- scans45–49 structural context: chapter **5** continues;
+- the supplied `surulimalai.md` was used as a baseline/navigation aid; source scan pixels remained controlling;
+- scan48→49 continuation preserved at `அப்பா—` / `—நீங்கள்...`;
+- scan49 ends at `அந்தப்பேய்`;
+- scan50 was **not opened or used**;
+- T2 scans45–49: **NOT STARTED**;
 - terminal/full-198-page issue remains **DEFERRED**.
 
-Completed checkpoint: `works/surulimalai/T1_BATCH_040_044.md`.  
-T2 audit: `works/surulimalai/T2_AUDIT_040_044.md`.  
-T3 audit: `works/surulimalai/T3_AUDIT_040_044.md`.
+Completed verified checkpoint: `works/surulimalai/T1_BATCH_040_044.md`.  
+Active T1 checkpoint: `works/surulimalai/T1_BATCH_045_049.md`.
 
 ## Exact next activity
-Begin **T1 direct visual transcription for scans45–49 only**. Use the supplied `surulimalai.md` as a baseline/navigation aid to speed alignment, but the controlling PDF scan pixels remain final authority. Create canonical page records, preserve source wording/punctuation/historical forms, mark each `needs-review`, update controls, commit, and stop before T2.
+Perform **T2 independent historical-glyph/source-form review for scans45–49 only** against the controlling PDF pixels. Re-check all mandatory glyph families and flagged source forms, apply only source-proven corrections, keep the five records `needs-review`, update controls, commit, and stop before T3.
 
 The 198-page ingestion / terminal-boundary issue remains deferred.

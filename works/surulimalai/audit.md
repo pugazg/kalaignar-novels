@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 complete and VERIFIED through scan 44**. T3 repaired the scan42→43 physical page boundary, restored source-visible chapter **5** on scan44, and restored omitted lower-page text. No unresolved source-form readings remain through scan44. No OCR output or external transcription is accepted as source authority.
+Canonical body transcription is **T1 complete through scan 49**. Scans **5–44 are T1/T2/T3 VERIFIED**; scans **45–49 are T1 COMPLETE / PASS and remain `needs-review` pending T2**. The user-supplied MD was used as a baseline aid only; source pixels remained controlling.
 
 
 ## Scans 40–44 T1 gate
@@ -79,6 +79,25 @@ Status: **COMPLETE / PASS — 5/5 VERIFIED**.
 - unresolved source-form readings after T3: **0**;
 - scan45 was not opened or used;
 - T3 audit: [`T3_AUDIT_040_044.md`](T3_AUDIT_040_044.md).
+
+## Scans 45–49 T1 gate
+
+Status: **COMPLETE / PASS — 5/5**.
+
+| Scan | Printed page | Structure | T1 | Status |
+|---:|---:|---|---|---|
+| 45 | 43 | body / chapter 5 | PASS | **needs-review** |
+| 46 | 44 | body / chapter 5 | PASS | **needs-review** |
+| 47 | 45 | body / chapter 5 | PASS | **needs-review** |
+| 48 | 46 | body / chapter 5 | PASS | **needs-review** |
+| 49 | 47 | body / chapter 5 | PASS | **needs-review** |
+
+- MD baseline aligned against each controlling scan; visibly different scan readings took precedence;
+- scan48 ends `அப்பா—`; scan49 begins `—நீங்கள்...`;
+- scan49 ends `அந்தப்பேய்`;
+- scan50 was not opened or used;
+- T2 for scans45–49: **NOT STARTED**;
+- checkpoint: [`T1_BATCH_045_049.md`](T1_BATCH_045_049.md).
 
 ## Source-ingestion correction
 
@@ -381,4 +400,4 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Begin **T1 direct visual transcription for scans45–49 only**. Use the supplied full-transcription MD as a baseline/navigation aid, but keep PDF scan pixels controlling. Stop before T2.
+Perform **T2 independent historical-glyph/source-form review for scans45–49 only**. Apply only source-proven corrections and stop before T3.
