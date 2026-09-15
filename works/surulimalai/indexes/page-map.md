@@ -1,4 +1,3 @@
-| 79 | 77 | body / chapter 10 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; ends `என்று கடிந்து கொண்டாள் பொன்மணி.`; scan80 not opened |
 | 50 | 48 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; scan49→50 continuation preserved |
 | 51 | 49 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
 | 52 | 50 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; verse lineation re-confirmed |
@@ -66,21 +65,21 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 62 | 60 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction |
 | 63 | 61 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction; ends `அவன் சபித்தான்.` |
 | 64 | 62 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `வாய் பிளந்தாள்!`; scan65 not opened |
-| 65 | 63 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started; provisional chapter 8 marker pending T2 confirmation |
-| 66 | 64 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started |
-| 67 | 65 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started |
-| 68 | 66 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started; ends `அண்ணனுக்கும்` |
-| 69 | 67 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started; begins `பொன்மணியைத்...` |
-| 70 | 68 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started |
-| 71 | 69 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started |
-| 72 | 70 | body / chapter 8 | **needs-review** | T1 PASS; T2/T3 not started |
-| 73 | 71 | body / chapter 9 | **needs-review** | T1 PASS; T2/T3 not started; provisional chapter 9 marker pending T2 confirmation |
-| 74 | 72 | body / chapter 9 | **needs-review** | T1 PASS; T2/T3 not started |
-| 75 | 73 | body / chapter 9 | **needs-review** | T1 PASS; T2/T3 not started; ends `என்` |
-| 76 | 74 | body / chapter 9 | **needs-review** | T1 PASS; T2/T3 not started; begins `செய்வது;` |
-| 77 | 75 | body / chapter 9 | **needs-review** | T1 PASS; T2/T3 not started |
-| 78 | 76 | body / chapter 10 | **needs-review** | T1 PASS; T2/T3 not started; provisional chapter 10 marker pending T2 confirmation |
-| 79 | 77 | body / chapter 10 | **needs-review** | T1 PASS; T2/T3 not started; ends `என்று கடிந்து கொண்டாள் பொன்மணி.`; scan80 not opened |
+| 65 | 63 | body / chapter 8 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; chapter 8 confirmed |
+| 66 | 64 | body / chapter 8 | **needs-review** | T1/T2 PASS; 4 T2 corrections; T3 not started |
+| 67 | 65 | body / chapter 8 | **needs-review** | T1/T2 PASS; 2 T2 corrections; T3 not started |
+| 68 | 66 | body / chapter 8 | **needs-review** | T1/T2 PASS; 1 T2 correction; T3 not started; ends `அண்ணனுக்கும்` |
+| 69 | 67 | body / chapter 8 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; begins `பொன்மணியைத்...` |
+| 70 | 68 | body / chapter 8 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
+| 71 | 69 | body / chapter 8 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
+| 72 | 70 | body / chapter 8 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
+| 73 | 71 | body / chapter 9 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; chapter 9 confirmed |
+| 74 | 72 | body / chapter 9 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
+| 75 | 73 | body / chapter 9 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; ends `என்` |
+| 76 | 74 | body / chapter 9 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; begins `செய்வது;` |
+| 77 | 75 | body / chapter 9 | **needs-review** | T1/T2 PASS; 1 T2 correction; T3 not started |
+| 78 | 76 | body / chapter 10 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; chapter 10 confirmed |
+| 79 | 77 | body / chapter 10 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; ends `என்று கடிந்து கொண்டாள் பொன்மணி.`; scan80 not opened |
 | 80 | — | unclassified | **not-started** | direct visual classification pending |
 | 81 | — | unclassified | **not-started** | direct visual classification pending |
 | 82 | — | unclassified | **not-started** | direct visual classification pending |
