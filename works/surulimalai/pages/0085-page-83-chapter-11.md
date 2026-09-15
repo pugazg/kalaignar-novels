@@ -7,7 +7,7 @@ page_type: "body / chapter transition"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "user-supplied MD baseline aligned against controlling source scan pixels; T1 complete"
+transcription_method: "user-supplied MD baseline aligned against controlling source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete"
 ---
 
 “ஷு!”
@@ -22,7 +22,7 @@ transcription_method: "user-supplied MD baseline aligned against controlling sou
 
 ஒருவழியாக கற்பூரத்தின் மீது வந்த சாமி, மலையேறியது. கண்ணன் அவளை ஆசுவாசப்படுத்தி “பெரிய பைத்தியமாயிருக்கியே—சும்மா உன்னை வேடிக்கை பாக்கிறதுக்காக விளையாட்டு காட்டினா—நீ ஒரே அடியா உண்மைன்னு நம்பிக்கிட்டு குதிக்கிறியே! எந்தக் காதலனாவது தன் காதலிக்கிட்ட வந்து இன்னொரு பெண்ணுக்கு தூதுபோகச் சொல்லுவானா? உன் மனசை அறியிறத்துக்காக ஒரு போடு போட்டேன். அதுக்குள்ள அந்த அவசரகார சாமி ஓடியாந்துட்டுதே!” என்று கேலி செய்தான்.
 
-கற்பூரத்திற்கு சந்தேகம் தீரவில்லை. விழிகளை வினாக்குறிகளாக்கி அவன் மீது வீசியெறிந்தாள். “கண்ணல்ல—கோபிக்காதே கற்பூரம்! என்னை சத்தியமாக நம்பு! வேண்டுமென்றே தான் விளையாடினேன். நீ பயந்துட்டே! பயப்படாதே தங்கம்!”—கண்ணன் சமாதான வார்த்தைகளைக் குவித்துக் கற்பூரத்தை மறுபடியும் தன் தோள்மீது சாய்த்துக் கொண்டான். அவளும் அவனை நம்பிவிட்டாள்.
+கற்பூரத்திற்கு சந்தேகம் தீரவில்லை. விழிகளை வினாக்குறிகளாக்கி அவன் மீது வீசியெறிந்தாள். “கண்ணே! கோபிக்காதே கற்பூரம்! என்னை சத்தியமாக நம்பு! வேண்டுமென்றே தான் விளையாடினேன். நீ பயந்துட்டே! பயப்படாதே தங்கம்!”—கண்ணன் சமாதான வார்த்தைகளைக் குவித்துக் கற்பூரத்தை மறுபடியும் தன் தோள்மீது சாய்த்துக் கொண்டான். அவளும் அவனை நம்பிவிட்டாள்.
 
 ## T1 direct-transcription notes
 
@@ -33,4 +33,14 @@ transcription_method: "user-supplied MD baseline aligned against controlling sou
 - source-looking spellings, punctuation, and historical glyphs are left for independent T2 review rather than context-normalized;
 - page status: **needs-review** pending T2.
 
-<!-- source physical scan: 85; visible printed page: 83; ends: அவனை நம்பிவிட்டாள்.; T1 COMPLETE / NEEDS-REVIEW -->
+## T2 independent historical-glyph/source-form notes
+
+- complete physical scan independently re-checked against the controlling source pixels;
+- mandatory historical-glyph families checked wherever applicable: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- source correction `கண்ணல்ல—` → `கண்ணே!`;
+- opening `ஷு!` and source-visible chapter marker **11** re-confirmed;
+- T2 text corrections: **1**;
+- unresolved historical/source-form readings after T2: **0**;
+- page remains **needs-review** pending T3.
+
+<!-- source physical scan: 85; visible printed page: 83; ends: அவனை நம்பிவிட்டாள்.; T1/T2 COMPLETE / NEEDS-REVIEW -->
