@@ -4,10 +4,10 @@ printed_page: 83
 work: "surulimalai"
 section: "10→11"
 page_type: "body / chapter transition"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "user-supplied MD baseline aligned against controlling source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete"
+transcription_method: "user-supplied MD baseline aligned against controlling source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete; final source-fidelity T3 complete"
 ---
 
 “ஷு!”
@@ -43,4 +43,14 @@ transcription_method: "user-supplied MD baseline aligned against controlling sou
 - unresolved historical/source-form readings after T2: **0**;
 - page remains **needs-review** pending T3.
 
-<!-- source physical scan: 85; visible printed page: 83; ends: அவனை நம்பிவிட்டாள்.; T1/T2 COMPLETE / NEEDS-REVIEW -->
+## T3 final source-fidelity notes
+
+- complete physical scan re-compared against the controlling source pixels after T2;
+- all **1** T2 text correction on this page was re-confirmed against the scan;
+- T2 correction `கண்ணே!` re-confirmed; opening `ஷு!` and chapter marker **11** re-confirmed;
+- omissions / duplicate body spans after T3: **0 / 0**;
+- T3 additional text corrections: **0**;
+- unresolved source-form readings after T3: **0**;
+- final status: **verified**.
+
+<!-- source physical scan: 85; visible printed page: 83; ends: அவனை நம்பிவிட்டாள்.; T1/T2/T3 COMPLETE / VERIFIED -->
