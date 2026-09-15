@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1 complete through scan 44**. Scans **5–39 are T1/T2/T3 verified**; scans **40–44 are T1/T2 COMPLETE / PASS and remain `needs-review` pending T3**. For scans35–39, T2 applied **6** corrections and T3 applied **1** additional correction; scans40–44 T2 applied **0** corrections with **0 unresolved** historical/source-form readings. Scans40–44 map to printed pages **38–42** and continue chapter **4**. No OCR output or external transcription is accepted as source authority.
+Canonical body transcription is **T1/T2/T3 complete and VERIFIED through scan 44**. T3 repaired the scan42→43 physical page boundary, restored source-visible chapter **5** on scan44, and restored omitted lower-page text. No unresolved source-form readings remain through scan44. No OCR output or external transcription is accepted as source authority.
 
 
 ## Scans 40–44 T1 gate
@@ -42,18 +42,18 @@ Status: **COMPLETE / PASS — 5/5**.
 
 | Scan | Printed page | Structure | T1 | Status |
 |---:|---:|---|---|---|
-| 40 | 38 | body / chapter 4 | PASS | **needs-review** |
-| 41 | 39 | body / chapter 4 | PASS | **needs-review** |
-| 42 | 40 | body / chapter 4 | PASS | **needs-review** |
-| 43 | 41 | body / chapter 4 | PASS | **needs-review** |
-| 44 | 42 | body / chapter 4 | PASS | **needs-review** |
+| 40 | 38 | body / chapter 4 | PASS | **verified** |
+| 41 | 39 | body / chapter 4 | PASS | **verified** |
+| 42 | 40 | body / chapter 4 | PASS | **verified** |
+| 43 | 41 | body / chapter 4 | PASS | **verified** |
+| 44 | 42 | body / chapter 5 opener | PASS | **verified** |
 
 - five canonical page records created from direct source-pixel reading;
 - scan39→40 continuation and all five physical page endings preserved;
 - scan45 was **not opened or used**;
 - T2 for scans40–44: **COMPLETE / PASS — 5/5; 0 corrections; unresolved 0**;
-- T3 for scans40–44: **NOT STARTED**;
-- next gate: **T3 final source-fidelity review for scans40–44 only**.
+- T3 for scans40–44: **COMPLETE / PASS — 5/5 VERIFIED**;
+- next gate: **T1 direct visual transcription for scans45–49 only**.
 
 ## Scans 40–44 T2 gate
 
@@ -66,6 +66,19 @@ Status: **COMPLETE / PASS — 5/5**.
 - all five records remain **needs-review** pending T3;
 - scan45 was not opened or used;
 - T2 audit: [`T2_AUDIT_040_044.md`](T2_AUDIT_040_044.md).
+
+## Scans 40–44 T3 gate
+
+Status: **COMPLETE / PASS — 5/5 VERIFIED**.
+
+- scans40–41: no additional text corrections;
+- scan42: source comma restored and physical page ending repaired to `அவள் கண்கள் கலங்கி`;
+- scan43: opening continuation/span restored; source `நடந்தது பசி` and `எதாவது` restored;
+- scan44: chapter **5** restored; `நிலைமையைச்` and source form `எரு` restored; omitted lower-page span restored through the source page ending;
+- omissions / duplicate body spans after repair: **0 / 0**;
+- unresolved source-form readings after T3: **0**;
+- scan45 was not opened or used;
+- T3 audit: [`T3_AUDIT_040_044.md`](T3_AUDIT_040_044.md).
 
 ## Source-ingestion correction
 
@@ -368,4 +381,4 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Begin **T1 direct visual transcription for scans 40–44 only**. Create canonical records from source pixels, preserve source forms and punctuation, mark each new record `needs-review`, update controls, commit, and stop before T2.
+Begin **T1 direct visual transcription for scans45–49 only**. Use the supplied full-transcription MD as a baseline/navigation aid, but keep PDF scan pixels controlling. Stop before T2.
