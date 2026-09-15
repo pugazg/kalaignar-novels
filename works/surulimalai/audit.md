@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1 complete through scan 49**. Scans **5–44 are T1/T2/T3 VERIFIED**; scans **45–49 are T1 COMPLETE / PASS and remain `needs-review` pending T2**. The user-supplied MD was used as a baseline aid only; source pixels remained controlling.
+Canonical body transcription is **T1/T2 complete through scan 49**. Scans **5–44 are T1/T2/T3 VERIFIED**; scans **45–49 are T1/T2 COMPLETE / PASS and remain `needs-review` pending T3**. T2 applied **8** source-proven corrections with **0 unresolved** readings.
 
 
 ## Scans 40–44 T1 gate
@@ -98,6 +98,19 @@ Status: **COMPLETE / PASS — 5/5**.
 - scan50 was not opened or used;
 - T2 for scans45–49: **NOT STARTED**;
 - checkpoint: [`T1_BATCH_045_049.md`](T1_BATCH_045_049.md).
+
+## Scans 45–49 T2 gate
+
+Status: **COMPLETE / PASS — 5/5**.
+
+- T2 corrections: **8** — scan45 1; scan46 2; scan47 3; scan48 2; scan49 0;
+- mandatory historical glyph families independently checked wherever applicable;
+- unresolved historical/source-form readings: **0**;
+- all five records remain **needs-review** pending T3;
+- scan48→49 boundary re-confirmed at `அப்பா—` / `—நீங்கள்...`;
+- scan49 ending `அந்தப்பேய்` re-confirmed;
+- scan50 was not opened or used;
+- T2 audit: [`T2_AUDIT_045_049.md`](T2_AUDIT_045_049.md).
 
 ## Source-ingestion correction
 
@@ -400,4 +413,4 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph/source-form review for scans45–49 only**. Apply only source-proven corrections and stop before T3.
+Perform **T3 final source-fidelity review for scans45–49 only**. Freeze the five records only after a clean pass; stop before scans50–54.

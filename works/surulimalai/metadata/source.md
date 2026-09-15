@@ -51,7 +51,7 @@ No bibliographic value above is inferred from the filename alone.
 - scans 35–39 — T1/T2/T3 complete / **verified**; visible printed pages **33–37**; scan37 contains chapter **3→4** transition; scans35–39 T2 corrections **6**, T3 additional corrections **1**;
 - scans 40–43 — T1/T2/T3 complete / **verified**; visible printed pages **38–41**; chapter **4**;
 - scan 44 — printed page **42**; T1/T2/T3 complete / **verified**; centered chapter **5** opener; lower-page omission restored; source form `எரு`;
-- scans 45–49 — T1 complete / **needs-review** pending T2; visible printed pages **43–47**; chapter **5** continues; scan48→49 split `அப்பா—` / `—நீங்கள்...`; scan49 ends `அந்தப்பேய்`; scan50 not opened;
+- scans 45–49 — T1/T2 complete / **needs-review** pending T3; visible printed pages **43–47**; chapter **5** continues; T2 corrections **8**; unresolved after T2 **0**; scan48→49 split `அப்பா—` / `—நீங்கள்...`; scan49 ends `அந்தப்பேய்`; scan50 not opened;
 - scans 45–144 — not yet fully page-mapped in this intake checkpoint;
 - current Files parser exposes pages **1–150 only** for a source known to contain **198 pages**;
 - previous terminal mapping based on that representation is **invalidated**;
@@ -87,12 +87,13 @@ The user supplied a descriptive synopsis mentioning கரகாட்டம்,
 1. compute and record the PDF SHA-256 when the full source can be handled reliably;
 2. obtain/use a **full 198-page representation of the same source copy** for terminal reconciliation;
 3. scans **5–44 T1/T2/T3 COMPLETE / VERIFIED**;
-4. scans **45–49 T1 COMPLETE / PASS — 5/5 needs-review pending T2**;
-5. scans45–49 visible printed pages **43–47** and remain in chapter **5**;
-6. user-supplied MD used as baseline/navigation aid only; PDF pixels remain authoritative;
-7. scan49 ends at `அந்தப்பேய்`; scan50 was **not opened or used**;
-8. exact next: **T2 scans45–49 only**;
-9. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
-10. do not infer source extent from the current Files parser's `num_pages: 150`.
+4. scans **45–49 T1/T2 COMPLETE / PASS — 5/5 needs-review pending T3**;
+5. scans45–49 T2 corrections: **8**; unresolved historical/source-form readings after T2: **0**;
+6. scans45–49 visible printed pages **43–47** and remain in chapter **5**;
+7. user-supplied MD used as baseline/navigation aid only; PDF pixels remain authoritative;
+8. scan49 ends at `அந்தப்பேய்`; scan50 was **not opened or used**;
+9. exact next: **T3 scans45–49 only**;
+10. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
+11. do not infer source extent from the current Files parser's `num_pages: 150`.
 
 Terminal-boundary audit: [`../TERMINAL_BOUNDARY_AUDIT.md`](../TERMINAL_BOUNDARY_AUDIT.md).
