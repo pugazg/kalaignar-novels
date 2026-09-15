@@ -7,16 +7,16 @@ page_type: "body / chapter transition"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete"
+transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete"
 ---
 
 பொன்மணி எதுவும் பேசாமல் வீடு நோக்கி நடந்து கொண்டிருந்தார்கள். அறவாழியும் அவளோடு வந்துகொண்டே யிருந்தான். ஊர்க் கோடியில் உள்ள ஒரு பாழுங் கிணற்றினருகே வந்ததும் பொன்மணி நின்றாள். அவனும் நின்றான். அவள் ஒரு நீண்ட பெருமூச்சு விட்டவாறு அவனையே பார்த்தாள். அதுவரையில் பேசாமல் வந்த அவள் அவனிடம் இரண்டொரு வார்த்தைகள் கூறினாள்.
 
-"எதுவும் முழுகிப் போய் விடவில்லை... உங்கள் பொன்மணி உங்களைத் தவிர வேறு யாருக்கும் சொந்தமில்லை. இந்தப் பேச்சு தவறுமேயானால் என்னை எங்கும் தேடவேண்டாம்; இந்தக் கிணற்றுக்குள்ளே தான் கிடப்பேன்!" என்று கூறிவிட்டு அவன் பதில் சொல்வதைக் கேட்பதற்கு ஒரு விநாடிகூட நிற்காமல் மிக வேகமாக அதைவிட்டு அகன்றாள்.
+"எதுவும் முழுகிப் போய் விடவில்லை...உங்கள் பொன்மணி உங்களைத் தவிர வேறு யாருக்கும் சொந்தமில்லை. இந்தப் பேச்சு தவறுமேயானால் என்னை எங்கும் தேடவேண்டாம்; இந்தக் கிணற்றுக்குள்ளே தான் கிடப்பேன்!" என்று கூறிவிட்டு அவன் பதில் சொல்வதைக் கேட்பதற்கு ஒரு விநாடிகூட நிற்காமல் மிக வேகமாக அதைவிட்டு அகன்றாள்.
 
 அறவாழி, அவள் போவதையே பார்த்துக்கொண்டு அப்படியே நின்றான். அவன் நிலைமை அவனுக்கே வேடிக்கையாக இருந்தது. அசைவற்று நின்று கொண்டிருந்த அவன் முதுகில் யாரோ ஓங்கித் தட்டவே திடுக்கிட்டுத் திரும்பிப் பார்த்தான். பஞ்சாயத்தாரின் மகன் பைத்தியக்கார சிரஞ்சீவி இளித்துக் கொண்டே அவனைக் கட்டிப் பிடித்துக் கொண்டான்.
 
-"ஓ... உங்க ரெண்டு பேருக்கும் இப்படி நடக்குதா விஷயம்? இப்பவே போயி எங்கப்பா கிட்ட சொல்றேன் பாரு!" என்று கத்தினான்.
+"ஓ...உங்க ரெண்டு பேருக்கும் இப்படி நடக்குதா விஷயம்? இப்பவே போயி எங்கப்பா கிட்ட சொல்றேன் பாரு!" என்று கத்தினான்.
 
 அறவாழிக்கு மேலும் வேதனை! பைத்தியம் அந்த இடத்தை விட்டு ஒரே ஓட்டமாக ஓட ஆரம்பித்தது!
 
@@ -31,6 +31,15 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 - physical opening re-confirmed as `பொன்மணி எதுவும் பேசாமல்`;
 - physical ending re-confirmed as `ஆவல் அதிகமாயிற்று.`;
 - source-looking punctuation, word joins, and historical glyph forms remain reserved for independent T2;
-- page status: **needs-review** pending T2.
+- historical T1 state: **needs-review** pending T2.
 
-<!-- source physical scan: 186; visible printed page: 184; T1 COMPLETE / NEEDS-REVIEW -->
+## T2 historical-glyph/source-form notes
+
+- independent full-page source-pixel source-form audit complete;
+- source-proven T2 corrections: **2**;
+- source-visible chapter **26** re-confirmed at scan186 / printed184;
+- physical page opening/ending re-confirmed;
+- unresolved historical/source-form readings after T2: **0**;
+- page remains **needs-review** pending T3.
+
+<!-- source physical scan: 186; visible printed page: 184; T1/T2 COMPLETE / NEEDS-REVIEW -->

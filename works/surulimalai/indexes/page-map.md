@@ -188,20 +188,20 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 183 | 181 | body / chapter 25 | **verified** | T1/T2 PASS; 0 T2 corrections; T3 pending |; T3 2 changes
 | 184 | 182 | body / chapter 25 | **verified** | T1/T2 PASS; 0 T2 corrections; T3 pending; scan185 not opened |; T3 0 changes
 
-| 185 | 183 | body / chapter 25 | **needs-review** | T1 PASS; T2 pending |
-| 186 | 184 | body / chapter 25→26 | **needs-review** | T1 PASS; T2 pending; chapter **26** confirmed |
-| 187 | 185 | body / chapter 26 | **needs-review** | T1 PASS; T2 pending |
-| 188 | 186 | body / chapter 26 | **needs-review** | T1 PASS; T2 pending |
-| 189 | 187 | body / chapter 26 | **needs-review** | T1 PASS; T2 pending; scene divider retained; ends `கட்டு சாதமூட்டை` |
-| 190 | 188 | body / chapter 26 | **needs-review** | T1 PASS; T2 pending; begins `களுடன்`; ends `குதிக்காமல்` |
-| 191 | 189 | body / chapter 26 | **needs-review** | T1 PASS; T2 pending; begins `தடுப்பேன்!` |
-| 192 | 190 | body / chapter 26 | **needs-review** | T1 PASS; T2 pending |
-| 193 | 191 | body / chapter 26→27 | **needs-review** | T1 PASS; T2 pending; chapter **27** confirmed |
-| 194 | 192 | body / chapter 27 | **needs-review** | T1 PASS; T2 pending; ends `தயங்` |
-| 195 | 193 | body / chapter 27 | **needs-review** | T1 PASS; T2 pending; begins `கிற்று.`; split re-confirmed |
-| 196 | 194 | body / chapter 27 | **needs-review** | T1 PASS; T2 pending |
-| 197 | 195 | body / work ending | **needs-review** | T1 PASS; T2 pending; source-visible `[முற்றிற்று.]` retained |
-| 198 | — | back-cover / publisher-device | **needs-review** | T1 PASS; T2 pending; `திராவிடப்பண்ணை` / `திருச்சி`; wrapper-printer imprint retained |
+| 185 | 183 | body / chapter 25 | **needs-review** | T1/T2 PASS; 3 T2 corrections; T3 pending |
+| 186 | 184 | body / chapter 25→26 | **needs-review** | T1/T2 PASS; 2 T2 corrections; T3 pending; chapter **26** confirmed |
+| 187 | 185 | body / chapter 26 | **needs-review** | T1/T2 PASS; 3 T2 corrections; T3 pending |
+| 188 | 186 | body / chapter 26 | **needs-review** | T1/T2 PASS; 2 T2 corrections; T3 pending |
+| 189 | 187 | body / chapter 26 | **needs-review** | T1/T2 PASS; 1 T2 correction; T3 pending; scene divider retained; ends `கட்டு சாதமூட்டை` |
+| 190 | 188 | body / chapter 26 | **needs-review** | T1/T2 PASS; 1 T2 correction; T3 pending; begins `களுடன்`; ends `குதிக்காமல்` |
+| 191 | 189 | body / chapter 26 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 pending; begins `தடுப்பேன்!` |
+| 192 | 190 | body / chapter 26 | **needs-review** | T1/T2 PASS; 3 T2 corrections; T3 pending |
+| 193 | 191 | body / chapter 26→27 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 pending; chapter **27** confirmed |
+| 194 | 192 | body / chapter 27 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 pending; ends `தயங்` |
+| 195 | 193 | body / chapter 27 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 pending; begins `கிற்று.`; split re-confirmed |
+| 196 | 194 | body / chapter 27 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 pending |
+| 197 | 195 | body / work ending | **needs-review** | T1/T2 PASS; 4 T2 corrections; T3 pending; source-visible `[முற்றிற்று.]` retained |
+| 198 | — | back-cover / publisher-device | **needs-review** | T1/T2 PASS; 1 T2 correction; T3 pending; `திராவிடப்பண்ணை` / `திருச்சி`; wrapper-printer imprint retained |
 
 ## Intake counts
 
@@ -210,10 +210,10 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - parser completeness for the monolithic artifact: **FAIL / TRUNCATED VIEW**; source-readable split derivatives are now being used beyond scan150;
 - page records: **198 total — 184 `verified` + 14 `needs-review`**;
 - body T1: **scans 5–197 COMPLETE / PASS; scan198 back-cover/publisher-device T1 COMPLETE / PASS**;
-- body T2: **scans 5–184 COMPLETE / PASS; scans170–184 = 25 corrections; unresolved 0**;
+- body T2: **scans 5–198 COMPLETE / PASS; scans185–198 = 20 corrections; unresolved 0**;
 - body T3: **scans 5–184 COMPLETE / PASS / VERIFIED; scans170–184 = 30 T3 source-fidelity changes (29 additional + 1 T2 spacing supersession)**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T2 independent historical-glyph/source-form audit for scans185–198 only — 14 physical pages; stop before T3 / terminal reconciliation. Terminal reconciliation remains deferred.**
+Exact next: **perform T3 final source-fidelity review for scans185–198 only — 14 physical pages; re-confirm all 20 T2 corrections; stop before terminal/full-198-page reconciliation.**

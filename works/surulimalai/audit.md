@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 VERIFIED through scan 184**. Scans **185–197 are T1 COMPLETE / PASS — needs-review pending T2**, and scan **198 back-cover/publisher-device is T1 COMPLETE / PASS — needs-review pending T2**. The scans170–184 T3 closure remains unchanged. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
+Canonical body transcription is **T1/T2/T3 VERIFIED through scan 184**. Scans **185–198 are T1/T2 COMPLETE / PASS — 14/14 needs-review pending T3**. Their T2 audit applied **20** source-proven corrections and left **0 unresolved** historical/source-form readings. The scans170–184 T3 closure remains unchanged. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
 
 
 ## Scans 40–44 T1 gate
@@ -650,7 +650,7 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph/source-form audit for scans185–198 only — 14 physical pages**; stop before T3 / terminal reconciliation.
+Perform **T3 final source-fidelity review for scans185–198 only — 14 physical pages**; re-confirm all **20** T2 corrections and stop before terminal/full-198-page reconciliation.
 
 
 ## Scans 95–109 T3 gate
@@ -1042,4 +1042,20 @@ Status: **COMPLETE / PASS — 14/14**.
 - T2: **NOT STARTED**;
 - terminal/full-198-page reconciliation remains **DEFERRED**;
 - checkpoint: [`T1_BATCH_185_198.md`](T1_BATCH_185_198.md).
+
+## Scans 185–198 T2 gate
+
+Status: **COMPLETE / PASS — 14/14**.
+
+- source-proven corrections: **20**;
+- per-scan counts: scan185 **3**; scan186 **2**; scan187 **3**; scan188 **2**; scan189 **1**; scan190 **1**; scan191 **0**; scan192 **3**; scan193 **0**; scan194 **0**; scan195 **0**; scan196 **0**; scan197 **4**; scan198 **1**;
+- chapters **26** and **27** re-confirmed;
+- both scan189 source-visible divider positions represented;
+- scan189→190, scan190→191, and scan194→195 physical splits re-confirmed;
+- scan197 `[முற்றிற்று.]` re-confirmed;
+- scan198 publisher-device/printer-wrapper matter re-confirmed;
+- unresolved historical/source-form readings: **0**;
+- all fourteen records remain **needs-review pending T3**;
+- terminal/full-198-page reconciliation remains **DEFERRED**;
+- T2 audit: [`T2_AUDIT_185_198.md`](T2_AUDIT_185_198.md).
 
