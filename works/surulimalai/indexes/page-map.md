@@ -1,4 +1,3 @@
-| 54 | 52 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started; ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`; scan55 not opened |
 Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`. **Source extent: 198 pages. Current ChatGPT Files parser exposes only 150 pages; this representation is incomplete and must not define source structure.**
 
 This manifest currently covers only the pages exposed by the degraded Files parser. Printed-page values remain `—` unless directly verified from a complete source view. No source-ending or page-count inference may be made from the parser's 150-page ceiling.
@@ -54,11 +53,11 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 47 | 45 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 3 T2 + 0 T3 corrections |
 | 48 | 46 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections; ends `அப்பா—` |
 | 49 | 47 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `அந்தப்பேய்`; scan50 not opened |
-| 50 | — | unclassified | **not-started** | direct visual classification pending |
-| 51 | — | unclassified | **not-started** | direct visual classification pending |
-| 52 | — | unclassified | **not-started** | direct visual classification pending |
-| 53 | — | unclassified | **not-started** | direct visual classification pending |
-| 54 | — | unclassified | **not-started** | direct visual classification pending |
+| 50 | 48 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started; scan49→50 continuation preserved |
+| 51 | 49 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started |
+| 52 | 50 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started; source-visible verse preserved |
+| 53 | 51 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started; ends `சிங்காரத்துக்குக் கல்யாணமாயிட்டுதா?` |
+| 54 | 52 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started; ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`; scan55 not opened |
 | 55 | — | unclassified | **not-started** | direct visual classification pending |
 | 56 | — | unclassified | **not-started** | direct visual classification pending |
 | 57 | — | unclassified | **not-started** | direct visual classification pending |
