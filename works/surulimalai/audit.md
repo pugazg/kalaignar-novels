@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 complete and VERIFIED through scan 49**. Scans45–49 retain **8 T2 corrections**, required **0 additional T3 text corrections**, and have **0 unresolved** source-form readings.
+Canonical body transcription is **T1 complete through scan 54**. Scans **5–49 are T1/T2/T3 VERIFIED**; scans **50–54 are T1 COMPLETE / PASS and remain `needs-review` pending T2**. Source pixels remain controlling; the user-supplied MD is alignment aid only.
 
 
 ## Scans 40–44 T1 gate
@@ -124,6 +124,26 @@ Status: **COMPLETE / PASS — 5/5 VERIFIED**.
 - scan49 ending `அந்தப்பேய்` re-confirmed;
 - scan50 was not opened or used;
 - T3 audit: [`T3_AUDIT_045_049.md`](T3_AUDIT_045_049.md).
+
+## Scans 50–54 T1 gate
+
+Status: **COMPLETE / PASS — 5/5**.
+
+| Scan | Printed page | Structure | T1 | Status |
+|---:|---:|---|---|---|
+| 50 | 48 | body / chapter 5 | PASS | **needs-review** |
+| 51 | 49 | body / chapter 5 | PASS | **needs-review** |
+| 52 | 50 | body / chapter 5 | PASS | **needs-review** |
+| 53 | 51 | body / chapter 5 | PASS | **needs-review** |
+| 54 | 52 | body / chapter 5 | PASS | **needs-review** |
+
+- scan49→50 continuation preserved at `அந்தப்பேய்` / `அவள் எதிரே...`;
+- source-visible verse structure on scan52 and scan54 preserved;
+- scan53 ends `சிங்காரத்துக்குக் கல்யாணமாயிட்டுதா?`;
+- scan54 ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`;
+- scan55 was not opened or used;
+- T2 for scans50–54: **NOT STARTED**;
+- checkpoint: [`T1_BATCH_050_054.md`](T1_BATCH_050_054.md).
 
 ## Source-ingestion correction
 
@@ -426,4 +446,4 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Begin **T1 direct visual transcription for scans50–54 only**. Use the supplied MD only as a baseline/navigation aid; PDF pixels remain controlling. Stop before T2.
+Perform **T2 independent historical-glyph/source-form review for scans50–54 only**. Apply only source-proven corrections and stop before T3.

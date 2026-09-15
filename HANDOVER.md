@@ -11,21 +11,19 @@ Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 
 ## Durable state
 - scans **5–49 T1/T2/T3: VERIFIED**;
-- scans45–49 visible printed pages: **43–47**;
-- scans45–49 structural context: chapter **5** continues;
-- scans45–49 T2 corrections: **8**;
-- scans45–49 T3 additional corrections: **0**;
-- unresolved historical/source-form readings after T3 through scan49: **0**;
-- scan48→49 continuation preserved at `அப்பா—` / `—நீங்கள்...`;
-- scan49 ends at `அந்தப்பேய்`;
-- scan50 was **not opened or used**;
+- scans **50–54 T1: COMPLETE / PASS — 5/5 needs-review pending T2**;
+- scans50–54 visible printed pages: **48–52**;
+- scans50–54 remain in chapter **5**;
+- scan49→50 continuation preserved at `அந்தப்பேய்` / `அவள் எதிரே...`;
+- scan54 ends at `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`;
+- scan55 was **not opened or used**;
+- T2 scans50–54: **NOT STARTED**;
 - terminal/full-198-page issue remains **DEFERRED**.
 
-Completed checkpoint: `works/surulimalai/T1_BATCH_045_049.md`.  
-T2 audit: `works/surulimalai/T2_AUDIT_045_049.md`.  
-T3 audit: `works/surulimalai/T3_AUDIT_045_049.md`.
+Completed verified checkpoint: `works/surulimalai/T1_BATCH_045_049.md`.  
+Active T1 checkpoint: `works/surulimalai/T1_BATCH_050_054.md`.
 
 ## Exact next activity
-Begin **T1 direct visual transcription for scans50–54 only**. Use the supplied `surulimalai.md` as a baseline/navigation aid, but keep the controlling PDF scan pixels as final authority. Create one canonical record per physical scan, mark each `needs-review`, update controls, commit, and stop before T2.
+Perform **T2 independent historical-glyph/source-form review for scans50–54 only** against the controlling PDF pixels. Re-check all mandatory glyph families, flagged source forms, punctuation, verse-line fidelity, and scan49→50 continuity. Apply only source-proven corrections, keep the five records `needs-review`, update controls, commit, and stop before T3.
 
 The 198-page ingestion / terminal-boundary issue remains deferred.

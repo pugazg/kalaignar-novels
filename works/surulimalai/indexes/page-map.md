@@ -1,4 +1,4 @@
-
+| 54 | 52 | body / chapter 5 | **needs-review** | T1 PASS; T2/T3 not started; ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`; scan55 not opened |
 Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`. **Source extent: 198 pages. Current ChatGPT Files parser exposes only 150 pages; this representation is incomplete and must not define source structure.**
 
 This manifest currently covers only the pages exposed by the degraded Files parser. Printed-page values remain `—` unless directly verified from a complete source view. No source-ending or page-count inference may be made from the parser's 150-page ceiling.
@@ -161,12 +161,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records: **49 total — 49 `verified`**;
-- body T1: **scans 5–49 COMPLETE / PASS**;
+- page records: **54 total — 49 `verified` + 5 `needs-review`**;
+- body T1: **scans 5–54 COMPLETE / PASS**;
 - body T2: **scans 5–49 COMPLETE / PASS; scans45–49 = 8 corrections; unresolved 0 through scan49**;
 - body T3: **scans 5–49 COMPLETE / PASS / VERIFIED; scans45–49 = 0 additional T3 corrections after 8 T2 corrections**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **begin T1 direct visual transcription for scans50–54 only; use the supplied MD as a baseline aid but keep PDF pixels authoritative; stop before T2. Full-source/terminal reconciliation remains deferred.**
+Exact next: **perform T2 historical-glyph/source-form review for scans50–54 only; stop before T3. Full-source/terminal reconciliation remains deferred.**
