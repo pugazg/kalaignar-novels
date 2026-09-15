@@ -1,13 +1,3 @@
-| 64 | 62 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `வாய் பிளந்தாள்!`; scan65 not opened |
-| 56 | 54 | body / chapter 5 | **needs-review** | T1/T2 PASS; 2 T2 corrections; T3 not started |
-| 57 | 55 | body / chapter 5 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
-| 58 | 56 | body / chapter 5 | **needs-review** | T1/T2 PASS; 2 T2 corrections; T3 not started |
-| 59 | 57 | body / chapter 5 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started |
-| 60 | 58 | body / chapter 5 | **needs-review** | T1/T2 PASS; 3 T2 corrections; T3 not started |
-| 61 | 59 | body / chapter 5 | **needs-review** | T1/T2 PASS; 1 T2 correction; T3 not started |
-| 62 | 60 | body / chapter 5 | **needs-review** | T1/T2 PASS; 1 T2 correction; T3 not started |
-| 63 | 61 | body / chapter 5 | **needs-review** | T1/T2 PASS; 1 T2 correction; T3 not started; ends `அவன் சபித்தான்.` |
-| 64 | 62 | body / chapter 5 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; ends `வாய் பிளந்தாள்!`; scan65 not opened |
 | 49 | 47 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `அந்தப்பேய்`; scan50 not opened |
 | 50 | 48 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; scan49→50 continuation preserved |
 | 51 | 49 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
@@ -66,6 +56,16 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 45 | 43 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 corrections |
 | 46 | 44 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections |
 | 47 | 45 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 3 T2 + 0 T3 corrections |
+| 55 | 53 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections; scan54→55 continuity re-confirmed |
+| 56 | 54 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections |
+| 57 | 55 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
+| 58 | 56 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 2 T2 + 0 T3 corrections |
+| 59 | 57 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections |
+| 60 | 58 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 3 T2 + 0 T3 corrections |
+| 61 | 59 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction |
+| 62 | 60 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction |
+| 63 | 61 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 1 T2 + 0 T3 correction; ends `அவன் சபித்தான்.` |
+| 64 | 62 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `வாய் பிளந்தாள்!`; scan65 not opened |
 | 65 | — | unclassified | **not-started** | direct visual classification pending |
 | 66 | — | unclassified | **not-started** | direct visual classification pending |
 | 67 | — | unclassified | **not-started** | direct visual classification pending |
