@@ -10,22 +10,24 @@
 Controlling source: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf`
 
 ## Durable state
-- scans **5–49 T1/T2/T3: VERIFIED**;
-- scans **50–54 T1/T2: COMPLETE / PASS — 5/5 needs-review pending T3**;
+- scans **5–54 T1/T2/T3: VERIFIED**;
 - scans50–54 visible printed pages: **48–52**;
 - scans50–54 remain in chapter **5**;
 - scans50–54 T2 corrections: **1** (`உளர` → `உளற` on scan53);
-- unresolved historical/source-form readings after T2: **0**;
+- scans50–54 T3 additional corrections: **0**;
+- omissions / duplicate body spans after T3: **0 / 0**;
+- unresolved historical/source-form readings after T3 through scan54: **0**;
 - scan49→50 continuation preserved at `அந்தப்பேய்` / `அவள் எதிரே...`;
 - scan54 ends at `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`;
 - scan55 was **not opened or used**;
 - terminal/full-198-page issue remains **DEFERRED**;
-- batch-size policy: **after closing this legacy 5-page batch, process 10 physical pages per new-page iteration**.
+- batch-size policy: **10 physical pages per new-page iteration**.
 
-Active checkpoint: `works/surulimalai/T1_BATCH_050_054.md`.  
-T2 audit: `works/surulimalai/T2_AUDIT_050_054.md`.
+Completed checkpoint: `works/surulimalai/T1_BATCH_050_054.md`.  
+T2 audit: `works/surulimalai/T2_AUDIT_050_054.md`.  
+T3 audit: `works/surulimalai/T3_AUDIT_050_054.md`.
 
 ## Exact next activity
-Perform **T3 final source-fidelity review for scans50–54 only**. Re-check every word/punctuation mark, omissions/duplications, verse lineation, scan49→50 continuity, and the source-proven T2 correction `உளற`. Freeze the five records if clean and stop before scan55.
+Begin **T1 direct visual transcription for scans55–64 only — 10 physical pages**. Use the supplied `surulimalai.md` only as a baseline/navigation aid; the PDF scan pixels remain controlling. Create ten canonical page records, mark them `needs-review`, update controls, commit, and stop before T2.
 
-After this legacy five-page batch closes, all subsequent new-page batches should use **10 physical pages per iteration**, subject only to genuine source boundaries.
+The 198-page ingestion / terminal-boundary issue remains deferred.

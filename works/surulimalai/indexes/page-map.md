@@ -1,4 +1,4 @@
-| 54 | 52 | body / chapter 5 | **needs-review** | T1/T2 PASS; 0 T2 corrections; T3 not started; ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`; scan55 not opened |
+| 54 | 52 | body / chapter 5 | **verified** | T1/T2/T3 PASS; 0 T2 + 0 T3 corrections; ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`; scan55 not opened |
 
 This manifest currently covers only the pages exposed by the degraded Files parser. Printed-page values remain `—` unless directly verified from a complete source view. No source-ending or page-count inference may be made from the parser's 150-page ceiling.
 
@@ -160,12 +160,12 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 - current parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness: **FAIL / TRUNCATED VIEW**;
-- page records: **54 total — 49 `verified` + 5 `needs-review`**;
+- page records: **54 total — 54 `verified`**;
 - body T1: **scans 5–54 COMPLETE / PASS**;
 - body T2: **scans 5–54 COMPLETE / PASS; scans50–54 = 1 correction; unresolved 0 through scan54**;
-- body T3: **scans 5–49 COMPLETE / PASS / VERIFIED; scans45–49 = 0 additional T3 corrections after 8 T2 corrections**;
+- body T3: **scans 5–54 COMPLETE / PASS / VERIFIED; scans50–54 = 0 additional T3 corrections after 1 T2 correction**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T3 final source-fidelity review for scans50–54 only; stop before scan55. Thereafter use 10 physical pages per new-page iteration. Full-source/terminal reconciliation remains deferred.**
+Exact next: **begin T1 direct visual transcription for scans55–64 only — 10 physical pages; stop before T2. Full-source/terminal reconciliation remains deferred.**

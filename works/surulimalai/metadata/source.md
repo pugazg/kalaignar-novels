@@ -52,7 +52,7 @@ No bibliographic value above is inferred from the filename alone.
 - scans 40–43 — T1/T2/T3 complete / **verified**; visible printed pages **38–41**; chapter **4**;
 - scan 44 — printed page **42**; T1/T2/T3 complete / **verified**; centered chapter **5** opener; lower-page omission restored; source form `எரு`;
 - scans 45–49 — T1/T2/T3 complete / **verified**; visible printed pages **43–47**; chapter **5** continues; T2 corrections **8**; T3 additional corrections **0**; unresolved after T3 **0**; scan48→49 split `அப்பா—` / `—நீங்கள்...`; scan49 ends `அந்தப்பேய்`;
-- scans 50–54 — T1/T2 complete / **needs-review** pending T3; visible printed pages **48–52**; chapter **5** continues; T2 corrections **1** (`உளர`→`உளற`); unresolved after T2 **0**; scan49→50 split `அந்தப்பேய்` / `அவள் எதிரே...`; scan54 ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`; scan55 not opened;
+- scans 50–54 — T1/T2/T3 complete / **verified**; visible printed pages **48–52**; chapter **5** continues; T2 corrections **1** (`உளர`→`உளற`); T3 additional corrections **0**; unresolved after T3 **0**; scan49→50 split `அந்தப்பேய்` / `அவள் எதிரே...`; scan54 ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`; scan55 not opened;
 - scans 45–144 — not yet fully page-mapped in this intake checkpoint;
 - current Files parser exposes pages **1–150 only** for a source known to contain **198 pages**;
 - previous terminal mapping based on that representation is **invalidated**;
@@ -88,12 +88,12 @@ The user supplied a descriptive synopsis mentioning கரகாட்டம்,
 1. compute and record the PDF SHA-256 when the full source can be handled reliably;
 2. obtain/use a **full 198-page representation of the same source copy** for terminal reconciliation;
 3. scans **5–49 T1/T2/T3 COMPLETE / VERIFIED**;
-4. scans **50–54 T1/T2 COMPLETE / PASS — 5/5 needs-review pending T3**;
+4. scans **50–54 T1/T2/T3 COMPLETE / PASS / VERIFIED**;
 5. scans50–54 visible printed pages **48–52** and remain in chapter **5**;
 6. user-supplied MD used as baseline/navigation aid only; PDF pixels remain authoritative;
 7. scan49→50 continuation `அந்தப்பேய்` / `அவள் எதிரே...` preserved;
 8. scan54 ends `போனால் திரும்ப மாட்டேண்டி வெள்ளையம்மா!`; scan55 was **not opened or used**;
-9. exact next: **T3 scans50–54 only**; after closure, use **10 physical pages per new-page iteration**;
+9. exact next: **T1 scans55–64 only — 10 physical pages**;
 10. the 198-page ingestion issue remains deferred and must not block bounded early-page review;
 11. do not infer source extent from the current Files parser's `num_pages: 150`.
 
