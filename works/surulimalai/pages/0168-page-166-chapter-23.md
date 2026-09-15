@@ -4,10 +4,10 @@ printed_page: 166
 work: "surulimalai"
 section: "22→23"
 page_type: "body / chapter transition"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete"
+transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete; final source-fidelity T3 complete"
 ---
 
 துளிகளைக் கற்கள் போல மேலே வீசியடித்தது காற்று! எந்த நேரத்தில் மேலே விழுமோ என்று பயங்காட்டிக் கொண்டிருந்தன தெருவோரத்திலேயிருந்த மரங்கள்! அறவாழியும் பொன்மணியும் வெளியே கிளம்பியது தவறு என்று அஞ்சி நடுங்கினார்கள். பத்திரமாக வீடு போய்ச் சேர முடியும் என்ற நம்பிக்கை அவர்களுக்கு இல்லை இடையிடையே நெஞ்சை உலுக்கும் பயங்கர இடி முழக்கம்—கண்ணைப் பறிக்கும் மின்னல். எதைப் பற்றியும் கவலைப்படாமல் அறவாழி பொன்மணியை இறுக அணைத்துக்கொண்டு, மேலும் மேலும் நடக்கலானான். காற்றின் வேகத்தில் அவன் கையிலேயிருந்த குடை பறக்க ஆரம்பித்தது. குடையைப் பறிகொடுத்துவிட்டு இருவரும் ஒரு மரத்தடியில் ஒதுங்கினார்கள். அவர்கள் கண்ணுக்கு நேரே, அவர்கள் ஒதுங்கிய மரத்திற்குப் பக்கத்து மரமொன்று கீழே விழுந்தது. மரத்தடியில் நிற்கவும் பயம் தோன்றியது. என்ன ஆனாலும் சரி; வீட்டுக்குப் போய்விடுவது என்று இருவரும் உறுதியெடுத்துக்கொண்டு ஒருவர் கையை ஒருவர் பிடித்துக் கொண்டு நீர்வீழ்ச்சிபோல் கொட்டும் மழைக்கிடையே நடந்தனர்.
@@ -26,7 +26,7 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 - physical opening re-confirmed as `துளிகளைக் கற்கள் போல`;
 - physical ending re-confirmed as `நிம்மதியாக இருந்தனர்.`;
 - source-looking spellings, punctuation, word joins, and historical glyph forms remain reserved for independent T2;
-- page status: **needs-review** pending T2.
+- historical T1 state: **needs-review** pending T2.
 
 ## T2 independent historical-glyph/source-form notes
 
@@ -37,6 +37,18 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 - scan167→168 physical split `மழைத்` / `துளிகளைக்` re-confirmed;
 - physical page opening/ending re-confirmed;
 - unresolved historical/source-form readings after T2: **0**;
-- page remains **needs-review** pending T3.
+- historical T2 state: **needs-review** pending T3.
 
-<!-- source physical scan: 168; visible printed page: 166; T1 COMPLETE / NEEDS-REVIEW -->
+## T3 final source-fidelity notes
+
+- complete physical scan independently re-read against the controlling source pixels;
+- all T2 decisions on this page re-confirmed;
+- additional source-proven T3 text/punctuation/source-join corrections: **0**;
+- source-visible chapter **23** re-confirmed at scan168 / printed166;
+- scan167→168 physical split `மழைத்` / `துளிகளைக்` re-confirmed;
+- physical page opening/ending re-confirmed;
+- omissions / duplicate body spans after T3: **0 / 0**;
+- unresolved historical/source-form readings after T3: **0**;
+- final status: **verified**.
+
+<!-- source physical scan: 168; visible printed page: 166; T1/T2/T3 COMPLETE / VERIFIED -->

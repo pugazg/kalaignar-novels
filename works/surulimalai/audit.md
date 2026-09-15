@@ -33,7 +33,7 @@ Open:
 - complete per-scan page-type / visible printed-page mapping for the remaining body;
 - later whole-work Tamil audit.
 
-Canonical body transcription is **T1/T2/T3 VERIFIED through scan 154**. Scans **155–169** are T1/T2 COMPLETE / PASS and remain needs-review pending T3. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
+Canonical body transcription is **T1/T2/T3 VERIFIED through scan 169**. The scans155–169 T3 pass independently re-confirmed all **117** T2 corrections, added **21** source-proven final-fidelity corrections, and left **0 unresolved** readings with **0 / 0** omissions / duplicate body spans. The scans95–109 T3 pass re-opened scan94 only to repair the physical scan94→95 boundary, relocated chapter **13** to scan99 and chapter **14** to scan106, restored omitted source text through scan109, and left **0 unresolved** readings. The prior T2 batch total of **120** corrections is retained as historical provenance; its old page-local attribution is superseded by T3 re-segmentation.
 
 
 ## Scans 40–44 T1 gate
@@ -650,7 +650,7 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Exact next activity
 
-Perform **T3 final source-fidelity review for scans155–169 only — 15 physical pages** and stop before scan170.
+Perform **T1 scans170–184 only — 15 physical pages** using part006 extract pages **20–30** and part007 extract pages **1–4**; stop before scan185 / T2.
 
 
 ## Scans 95–109 T3 gate
@@ -915,3 +915,22 @@ Status: **COMPLETE / PASS — 15/15**.
 - all fifteen page records remain **needs-review pending T3**;
 - scan170 was **not opened or used**;
 - T2 audit: [`T2_AUDIT_155_169.md`](T2_AUDIT_155_169.md).
+
+## Scans 155–169 T3 gate
+
+Status: **COMPLETE / PASS — 15/15 VERIFIED**.
+
+- all **117** T2 corrections independently re-confirmed;
+- additional T3 source-fidelity corrections: **21**;
+- per-scan T3 additions: scan155 **2**; scan156 **2**; scan157 **1**; scan158 **2**; scan159 **0**; scan160 **1**; scan161 **2**; scan162 **1**; scan163 **1**; scan164 **1**; scan165 **2**; scan166 **2**; scan167 **0**; scan168 **0**; scan169 **4**;
+- chapters **21** at scan156, **22** at scan160, and **23** at scan168 re-confirmed;
+- scan165 printer/signature number `11` remains excluded;
+- scan163→164 split `வருந்துவா` / `னேன்?` re-confirmed;
+- scan167→168 split `மழைத்` / `துளிகளைக்` re-confirmed;
+- scan169 ending `அந்தப்` re-confirmed;
+- omissions / duplicate body spans: **0 / 0**;
+- unresolved after T3: **0**;
+- scans155–169 final status: **verified**;
+- scan170 was **not opened or used**;
+- T3 audit: [`T3_AUDIT_155_169.md`](T3_AUDIT_155_169.md).
+

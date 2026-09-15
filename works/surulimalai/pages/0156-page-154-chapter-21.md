@@ -4,10 +4,10 @@ printed_page: 154
 work: "surulimalai"
 section: "21"
 page_type: "body / chapter opener"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete"
+transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete; final source-fidelity T3 complete"
 ---
 
 ## 21
@@ -16,11 +16,9 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 
 ஆனால் ஒன்று உடைந்து சிதறிக் கிடக்கும் பானையோடுகள் ஒவ்வொன்றிலும் அவளது தந்தை பொன்னையாவின் உருவமும், தாயார் பூஞ்சோலையின் வடிவமும் வேதனைக் கோலத்தில் விழிநீர் பெருகியவாறு நிற்பதுபோல் தோன்றியது அவளுக்கு
 
-அந்தப் பானைகளை அன்று சந்தையில் விற்றுவரக் கூடிய காசில்தான் அப்பாவுக்கு வைத்தியர் சொன்ன மிக முக்கியமான மருந்தொன்றைத் தயாரிக்க முடியும். அதை நினைத்ததும் அவளையும் மீறி ஆறெனப் பெருகிவிட்டது கண்ணீர்.
+அந்தப் பானைகளை அன்று சந்தையில் விற்றுவரக் கூடிய காசில்தான் அப்பாவுக்கு வைத்தியர் சொன்ன மிக முக்கியமான மருந்தொன்றைத் தயாரிக்க முடியும் அதை நினைத்ததும் அவளையும் மீறி ஆறெனப் பெருகிவிட்டது கண்ணீர்.
 
-தாயார் மாலையில் தன் வருகையை ஆவலோடு எதிர்பார்த்திருப்பார்களே—தந்தையும் அருந்தப் போகும் மருந்தை நினைத்து நோயைப்பற்றிய கவலையிலிருந்து ஒரு சிறிது விடுபட்டிருப்பாரே—ஆனால் இப்போது எல்லாம் தூள் தூளாகிவிட்டதே
-
-என் செய்வது—என ஏங்கினாள் அந்த ஏந்திழை. உடற் கட்டுக்கு நேரெழில் அழகு தருவதுபோல் ஒரு ஆழ்ந்த பெருமூச்சு! அப்பப்பா—அதிலே எத்துணை சோகம்! வேதனை! விசாரம்! பெருமூச்சின் அர்த்தத்தை கவனிக்க முடியவில்லை அறவாழிக்கு! பானைகளை உடைத்து விட்டதற்கு வீட்டில் திட்டுவார்கள் என்று பயப்படுகிறாள் பொன்மணி யென்றே அவன் கருதினான்.
+தாயார் மாலையில் தன் வருகையை ஆவலோடு எதிர்பார்த்திருப்பார்களே—தந்தையும் அருந்தப் போகும் மருந்தை நினைத்து நோயைப்பற்றிய கவலையிலிருந்து ஒரு சிறிது விடுபட்டிருப்பாரே—ஆனால் இப்போது எல்லாம் தூள் தூளாகிவிட்டதே —என் செய்வது—என ஏங்கினாள் அந்த ஏந்திழை. உடற் கட்டுக்கு நேரெழில் அழகு தருவதுபோல் ஒரு ஆழ்ந்த பெருமூச்சு! அப்பப்பா—அதிலே எத்துணை சோகம்! வேதனை! விசாரம்! பெருமூச்சின் அர்த்தத்தை கவனிக்க முடியவில்லை அறவாழிக்கு! பானைகளை உடைத்து விட்டதற்கு வீட்டில் திட்டுவார்கள் என்று பயப்படுகிறாள் பொன்மணி யென்றே அவன் கருதினான்.
 
 "பயப்படாதே! வீட்டில் திட்டுவார்கள் என்றுதானே இவ்வளவு கவலை?..."
 
@@ -33,7 +31,7 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 - physical opening re-confirmed as `சிதறிவிட்ட பானைகளைப் பார்த்தவாறு`;
 - physical ending re-confirmed as `இவ்வளவு கவலை?...`;
 - source-looking spellings, punctuation, word joins, and historical glyph forms remain reserved for independent T2;
-- page status: **needs-review** pending T2.
+- historical T1 state: **needs-review** pending T2.
 
 ## T2 independent historical-glyph/source-form notes
 
@@ -43,6 +41,17 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 - source-visible chapter **21** re-confirmed at scan156 / printed154;
 - physical page opening/ending re-confirmed;
 - unresolved historical/source-form readings after T2: **0**;
-- page remains **needs-review** pending T3.
+- historical T2 state: **needs-review** pending T3.
 
-<!-- source physical scan: 156; visible printed page: 154; T1 COMPLETE / NEEDS-REVIEW -->
+## T3 final source-fidelity notes
+
+- complete physical scan independently re-read against the controlling source pixels;
+- all T2 decisions on this page re-confirmed;
+- additional source-proven T3 text/punctuation/source-join corrections: **2**;
+- source-visible chapter **21** re-confirmed at scan156 / printed154;
+- physical page opening/ending re-confirmed;
+- omissions / duplicate body spans after T3: **0 / 0**;
+- unresolved historical/source-form readings after T3: **0**;
+- final status: **verified**.
+
+<!-- source physical scan: 156; visible printed page: 154; T1/T2/T3 COMPLETE / VERIFIED -->

@@ -4,10 +4,10 @@ printed_page: 158
 work: "surulimalai"
 section: "21→22"
 page_type: "body / chapter transition"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064107_சுருளிமலை_1968 2.pdf"
-transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete"
+transcription_method: "user-supplied Markdown baseline aligned against controlling split source scan pixels; T1 complete; independent historical-glyph/source-form T2 complete; final source-fidelity T3 complete"
 ---
 
 அனால் அந்த ஊர் ஒற்றுமையையும் பொருட்படுத்தாமல் பொன்மணி தன்மீது கொண்ட பிரியத்தை செயல் மூலம் காட்டி தன்னிருப்பிடத்திற்கே வந்துவிட்டதையெண்ணிப் புதிய மகிழ்ச்சி கொண்டான் ஆவலும் அன்பும் பேச்சு உருப்பெற்றன.
@@ -26,7 +26,7 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 
 ## 22
 
-இடி முழக்கமும் காற்றின் அலறலும் பொன்மணி, அறவாழி இருவரையும் மேலும் மௌனத்தில் ஆழ்த்தின. பெருமழையைக் காற்று வாரிவந்து பள்ளிக்கூடத்தினுள்ளே ஊற்றிக் களித்தது. அவள் அப்படியே அசைவற்று நின்றுகொண்டிருந்தாள். அள்ளியிறைத்ததுபோல் அவள் மேலெல்லாம் மழைநீர்; பாதிக்குமேல் நனைந்துவிட்டாள். அறவாழி அவளருகே ஓடி, "அடடா!" என அனுதாபம் தெரிவித்தான்.
+இடி முழக்கமும் காற்றின் அலறலும் பொன்மணி, அறவாழி இருவரையும் மேலும் மௌனத்தில் ஆழ்த்தின. பெருமழையைக் காற்று வாரிவந்து பள்ளிக்கூடத்தினுள்ளே ஊற்றிக் களித்தது. அவள் அப்படியே அசைவற்று நின்றுகொண்டிருந்தாள். அள்ளியிறைத்ததுபோல் அவள் மேலெல்லாம் மழைநீர்; பாதிக்குமேல் நனைந்துவிட்டாள். அறவாழி அவளருகே ஓடி, "அடடா" என அனுதாபம் தெரிவித்தான்.
 
 ## T1 direct-transcription notes
 
@@ -37,7 +37,7 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 - physical opening re-confirmed as `ஆனால் அந்த ஊர் ஒற்றுமையையும்`;
 - physical ending re-confirmed as `அனுதாபம் தெரிவித்தான்.`;
 - source-looking spellings, punctuation, word joins, and historical glyph forms remain reserved for independent T2;
-- page status: **needs-review** pending T2.
+- historical T1 state: **needs-review** pending T2.
 
 ## T2 independent historical-glyph/source-form notes
 
@@ -47,6 +47,17 @@ transcription_method: "user-supplied Markdown baseline aligned against controlli
 - source-visible chapter **22** re-confirmed at scan160 / printed158;
 - physical page opening/ending re-confirmed;
 - unresolved historical/source-form readings after T2: **0**;
-- page remains **needs-review** pending T3.
+- historical T2 state: **needs-review** pending T3.
 
-<!-- source physical scan: 160; visible printed page: 158; T1 COMPLETE / NEEDS-REVIEW -->
+## T3 final source-fidelity notes
+
+- complete physical scan independently re-read against the controlling source pixels;
+- all T2 decisions on this page re-confirmed;
+- additional source-proven T3 text/punctuation/source-join corrections: **1**;
+- source-visible chapter **22** re-confirmed at scan160 / printed158;
+- physical page opening/ending re-confirmed;
+- omissions / duplicate body spans after T3: **0 / 0**;
+- unresolved historical/source-form readings after T3: **0**;
+- final status: **verified**.
+
+<!-- source physical scan: 160; visible printed page: 158; T1/T2/T3 COMPLETE / VERIFIED -->

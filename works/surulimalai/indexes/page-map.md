@@ -156,33 +156,33 @@ This manifest currently covers only the pages exposed by the degraded Files pars
 | 153 | 151 | body / chapter 20 | **verified** | T1/T2/T3 PASS; 6 T2 + 2 T3 corrections |
 | 154 | 152 | body / chapter 20 | **verified** | T1/T2/T3 PASS; 10 T2 + 0 T3 corrections; scan155 not opened during T3 |
 
-| 155 | 153 | body / chapter 20 | **needs-review** | T1/T2 PASS; 3 T2 corrections; T3 pending |
-| 156 | 154 | chapter 21 opener | **needs-review** | T1/T2 PASS; 7 T2 corrections; chapter **21** re-confirmed; T3 pending |
-| 157 | 155 | body / chapter 21 | **needs-review** | T1/T2 PASS; 12 T2 corrections; T3 pending |
-| 158 | 156 | body / chapter 21 | **needs-review** | T1/T2 PASS; 12 T2 corrections; T3 pending |
-| 159 | 157 | body / chapter 21 | **needs-review** | T1/T2 PASS; 7 T2 corrections; T3 pending |
-| 160 | 158 | body / chapter 21→22 | **needs-review** | T1/T2 PASS; 8 T2 corrections; chapter **22** re-confirmed; T3 pending |
-| 161 | 159 | body / chapter 22 | **needs-review** | T1/T2 PASS; 9 T2 corrections; T3 pending |
-| 162 | 160 | body / chapter 22 | **needs-review** | T1/T2 PASS; 4 T2 corrections; T3 pending |
-| 163 | 161 | body / chapter 22 | **needs-review** | T1/T2 PASS; 10 T2 corrections; ends `வருந்துவா`; T3 pending |
-| 164 | 162 | body / chapter 22 | **needs-review** | T1/T2 PASS; 6 T2 corrections; begins `னேன்?`; split re-confirmed; T3 pending |
-| 165 | 163 | body / chapter 22 | **needs-review** | T1/T2 PASS; 3 T2 corrections; printer/signature `11` excluded; T3 pending |
-| 166 | 164 | body / chapter 22 | **needs-review** | T1/T2 PASS; 16 T2 corrections; T3 pending |
-| 167 | 165 | body / chapter 22 | **needs-review** | T1/T2 PASS; 9 T2 corrections; ends `மழைத்`; T3 pending |
-| 168 | 166 | body / chapter 22→23 | **needs-review** | T1/T2 PASS; 5 T2 corrections; begins `துளிகளைக்`; chapter **23** re-confirmed; T3 pending |
-| 169 | 167 | body / chapter 23 | **needs-review** | T1/T2 PASS; 6 T2 corrections; ends `அந்தப்`; scan170 not opened; T3 pending |
+| 155 | 153 | body / chapter 20 | **verified** | T1/T2/T3 PASS; 3 T2 + 2 T3 corrections |
+| 156 | 154 | chapter 21 opener | **verified** | T1/T2/T3 PASS; 7 T2 + 2 T3 corrections; chapter **21** re-confirmed |
+| 157 | 155 | body / chapter 21 | **verified** | T1/T2/T3 PASS; 12 T2 + 1 T3 correction |
+| 158 | 156 | body / chapter 21 | **verified** | T1/T2/T3 PASS; 12 T2 + 2 T3 corrections |
+| 159 | 157 | body / chapter 21 | **verified** | T1/T2/T3 PASS; 7 T2 + 0 T3 corrections |
+| 160 | 158 | body / chapter 21→22 | **verified** | T1/T2/T3 PASS; 8 T2 + 1 T3 correction; chapter **22** re-confirmed |
+| 161 | 159 | body / chapter 22 | **verified** | T1/T2/T3 PASS; 9 T2 + 2 T3 corrections |
+| 162 | 160 | body / chapter 22 | **verified** | T1/T2/T3 PASS; 4 T2 + 1 T3 correction |
+| 163 | 161 | body / chapter 22 | **verified** | T1/T2/T3 PASS; 10 T2 + 1 T3 correction; ends `வருந்துவா` |
+| 164 | 162 | body / chapter 22 | **verified** | T1/T2/T3 PASS; 6 T2 + 1 T3 correction; begins `னேன்?`; split re-confirmed |
+| 165 | 163 | body / chapter 22 | **verified** | T1/T2/T3 PASS; 3 T2 + 2 T3 corrections; printer/signature `11` excluded |
+| 166 | 164 | body / chapter 22 | **verified** | T1/T2/T3 PASS; 16 T2 + 2 T3 corrections |
+| 167 | 165 | body / chapter 22 | **verified** | T1/T2/T3 PASS; 9 T2 + 0 T3 corrections; ends `மழைத்` |
+| 168 | 166 | body / chapter 22→23 | **verified** | T1/T2/T3 PASS; 5 T2 + 0 T3 corrections; begins `துளிகளைக்`; chapter **23** re-confirmed |
+| 169 | 167 | body / chapter 23 | **verified** | T1/T2/T3 PASS; 6 T2 + 4 T3 corrections; ends `அந்தப்`; scan170 not opened during T3 |
 
 ## Intake counts
 
 - original monolithic parser-visible pages registered: **150**;
 - authoritative source extent: **198 pages**;
 - parser completeness for the monolithic artifact: **FAIL / TRUNCATED VIEW**; source-readable split derivatives are now being used beyond scan150;
-- page records: **169 total — 154 `verified` + 15 `needs-review`**;
+- page records: **169 total — 169 `verified`**;
 - body T1: **scans 5–169 COMPLETE / PASS**;
 - body T2: **scans 5–169 COMPLETE / PASS; scans155–169 = 117 corrections; unresolved 0**;
-- body T3: **scans 5–154 COMPLETE / PASS / VERIFIED; scans140–154 = 34 additional T3 corrections after 117 T2 corrections**;
+- body T3: **scans 5–169 COMPLETE / PASS / VERIFIED; scans155–169 = 21 additional T3 corrections after 117 T2 corrections**;
 - prior terminal scan→printed-page mapping: **INVALIDATED**;
 - terminal-boundary status: **UNKNOWN until full 198-page source is accessible**;
 - SHA-256 status: **PENDING**.
 
-Exact next: **perform T3 final source-fidelity review for scans155–169 only — 15 physical pages; re-confirm all 117 T2 corrections; stop before scan170. Terminal reconciliation remains deferred.**
+Exact next: **perform T1 scans170–184 only — 15 physical pages; use part006 extract pages20–30 plus part007 extract pages1–4; stop before scan185 / T2. Terminal reconciliation remains deferred.**
