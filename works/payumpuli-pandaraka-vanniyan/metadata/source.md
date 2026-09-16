@@ -83,7 +83,7 @@ This is retained as **user-supplied descriptive metadata**, not substituted for 
 
 ## Initial source observations from Part 001
 
-- overall scan 1 / Part 002 local 1 — illustrated cover;
+- overall scan 1 / Part 001 local 1 — illustrated cover;
 - scan 2 / local 2 — reverse / half-title-style matter;
 - scan 3 / local 3 — publisher/address imprint matter;
 - scan 4 / local 4 — title page / publisher imprint / library markings;
@@ -129,14 +129,15 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 
 - complete source: **477 / 477 scans supplied across 16 Parts**
 - split identities/global mappings: **16 / 16 REGISTERED**
-- canonical `pages/` records: **35 / 477**
-- T1 complete: **5 / 477 through overall scan5 / Part001 local5**
-- T1 partial: **30 / 477 — scans6–35**
-- T2 reviewed: **5 / 477 through scan5**
-- T3 reviewed: **5 / 477 through scan5**
-- terminal page function: **not yet visually audited**
-- assembled Tamil: **BLOCKED**
-- English: **BLOCKED**
+- active content Part: **Part001 / scans1–30**
+- canonical Part001 records: **30/30 present**
+- Part001 Pass 1 text-complete: **5/30**
+- Part001 Pass 1 partial: **25/30 — scans6–30**
+- formal Pass 2A / Pass 2B / Pass 3: **NOT STARTED**
+- Part001 Tamil archival-ready / assembled Tamil / English / release-readiness / final closure: **BLOCKED**
+- Part002 source: **REGISTERED / TRANSCRIPTION BLOCKED**
+- audited outgoing boundary: **30→31 GENUINE CONTINUATION**
+- terminal page function for complete 477-scan source: **not yet visually audited**
 
 ## Controlling-source clarification
 
@@ -150,8 +151,8 @@ Durable rule:
 
 ## Exact next activity
 
-Proceed with **Part002 T1 source inventory scans36–45 / local pages6–15** using the attached Part002 PDF only.
+Complete **Part001 Pass 1 scans6–15** using the attached Part001 PDF only.
 
-Canonical records currently exist through overall scan35. Boundary **30→31** has been directly audited as **GENUINE CONTINUATION**. Keep new text-incomplete records `partial`; T2/T3 remain blocked on partial pages.
+The canonical records for scans6–15 already exist as partial scaffolding; complete their printed Tamil text, preserve source structure, and leave them `needs-review` after Pass-1 completion.
 
-Full-text backlog remains **scans6–35**.
+Do not begin Part002 transcription. Part002 remains blocked until Part001 has completed Tamil archival-ready, assembled Tamil, English translation/review, release/readiness report and final Part closure.
