@@ -28,8 +28,19 @@ The archive preserves source-visible chapter numbering exactly. The source-visib
 
 The Tamil **source-archival phase is closed**.
 
-No English translation or assembled-Tamil build was started during this terminal reconciliation activity.
+At the time of this terminal reconciliation activity, no English translation or assembled-Tamil build had yet started. Those downstream stages have since completed and are recorded below.
+
+## Current downstream state
+
+- assembled Tamil master: **26/26 VERIFIED / PASS**;
+- English translation: **26/26 VERIFIED / COMPLETE / CLOSED**;
+- final bilingual / consistency review: **COMPLETE / PASS**;
+- source-visible chapter sequence preserved: **1–5, 8–27**;
+- unresolved English holds: **0**;
+- canonical Tamil changes caused by downstream work: **0**.
+
+Current downstream authority: [`translations/en/FINAL_BILINGUAL_REVIEW.md`](translations/en/FINAL_BILINGUAL_REVIEW.md).
 
 ## Next activity
 
-In a new activity, build the **assembled Tamil master** from the verified page records and run structural validation. English translation remains blocked until that assembled-Tamil validation passes.
+**None for Surulimalai archival or English translation.** Reopen only for a concrete source-fidelity issue or an explicitly requested new output/publication layer.
