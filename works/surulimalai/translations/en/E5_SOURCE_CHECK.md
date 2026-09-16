@@ -100,6 +100,9 @@ English narrative coverage: **scan5 through scan197 / `[முற்றிற்
 Scan198 wrapper matter translated: **0**.  
 Unresolved English holds: **0**.
 
-## Next
+## Downstream status
 
-Perform the final whole-work bilingual / consistency review and close the English layer if all gates pass.
+The historical next step from E5 was the final whole-work bilingual / consistency review. That review has since completed.
+
+Current whole-work English state: **26/26 VERIFIED / COMPLETE / CLOSED**.  
+Final authority: [`FINAL_BILINGUAL_REVIEW.md`](FINAL_BILINGUAL_REVIEW.md).
