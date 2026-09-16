@@ -133,10 +133,11 @@ For Part001 Pass 1:
 - scans16–25: **COMPLETE / text-complete / needs-review**;
 - scans26–30: **COMPLETE / text-complete / needs-review**.
 
-Part001 Pass 1 is **30/30 COMPLETE**; formal Pass 2A is **30/30 COMPLETE**; formal Pass 2B is **30/30 COMPLETE**; formal Pass 3 is **30/30 COMPLETE**; Part001 Part audit is **PASS / COMPLETE**. The next gate is **final metadata/status synchronization**.
+Part001 Pass 1 is **30/30 COMPLETE**; formal Pass 2A is **30/30 COMPLETE**; formal Pass 2B is **30/30 COMPLETE**; formal Pass 3 is **30/30 COMPLETE**; Part001 Part audit is **PASS / COMPLETE**; final metadata/status synchronization is **PASS / CLOSED**; documentation synchronization is **PASS / COMPLETE**. Tamil text is **30/30 verified**, visual fidelity is **30/30 verified**, and unresolved status exceptions are **0**. The next gate is the **Part001 Tamil archival-ready checkpoint**.
 
 ## 10. Current Part lock
 
 - **Active Part: Part001 / overall scans1–30**
 - **Part002: SOURCE REGISTERED / TRANSCRIPTION BLOCKED**
+- **Current gate: Part001 Tamil archival-ready checkpoint**
 - Part002 may not become active until `PART_001_FINAL_CLOSURE.md` passes.

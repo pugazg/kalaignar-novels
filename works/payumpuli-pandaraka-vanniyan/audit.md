@@ -63,14 +63,14 @@ Current Pass-1 accounting:
 | canonical records present | **30/30** |
 | Pass-1 text-complete | **30/30 — scans1–30** |
 | Pass-1 partial | **0/30** |
-| needs-review | **30/30 — scans1–30** |
-| verified | **0/30 formal Part-level final status** |
+| needs-review | **0/30** |
+| verified | **30/30 — final Part-level status** |
 | formal Pass 2A | **COMPLETE — 30/30 reviewed** |
 | formal Pass 2B | **COMPLETE — 30/30 reviewed** |
 | formal Pass 3 | **COMPLETE — 30/30 reviewed** |
 | Part audit | **PASS / COMPLETE** |
-| final status sync | **NOT STARTED** |
-| documentation sync | **NOT STARTED** |
+| final status sync | **PASS / CLOSED** |
+| documentation sync | **PASS / COMPLETE** |
 | Tamil archival-ready | **BLOCKED** |
 | assembled Tamil | **BLOCKED** |
 | English | **BLOCKED** |
@@ -336,10 +336,22 @@ Before Part002 transcription may begin, Part001 must complete:
 
 Only then may Part002 become active.
 
+## Documentation synchronization — COMPLETE
+
+The documentation/control layer has been reconciled to the closed final-status state:
+
+- Tamil textual status — **30/30 verified; 0 partial; 0 needs-review**;
+- visual fidelity — **30/30 verified; 0 needs-review**;
+- unresolved status exceptions — **0**;
+- Part audit — **PASS / COMPLETE**;
+- final metadata/status synchronization — **PASS / CLOSED**;
+- 30→31 boundary — **GENUINE CONTINUATION / retained**;
+- Part002 — **TRANSCRIPTION BLOCKED**.
+
+Historical gate sections above remain records of the state at those earlier closures; they are not the live frontier.
+
 ## Exact next activity
 
-**Part001 final metadata/status synchronization.**
+Perform the **Part001 Tamil archival-ready checkpoint**.
 
-Use the passed `PART_001_AUDIT.md` as the authority for final per-page metadata/status reconciliation.
-
-Do not begin Tamil archival-ready, assembled Tamil, English, or Part002 in this audit iteration.
+Do not begin assembled Tamil, English, release/readiness, final Part closure, or Part002 transcription.

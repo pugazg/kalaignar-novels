@@ -32,6 +32,11 @@ Pass 2A remains **CLOSED / COMPLETE**.
 ## Current downstream state
 
 - Pass 2B — **COMPLETE / 30/30**
+- Pass 3 — **COMPLETE / 30/30**
 - Part audit — **PASS / COMPLETE**
-- exact next gate — **Part001 final metadata/status synchronization**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- final Tamil textual status — **30/30 verified; 0 partial; 0 needs-review**
+- final visual fidelity — **30/30 verified; 0 needs-review**
+- exact next gate — **Part001 Tamil archival-ready checkpoint**
 - Part002 transcription — **BLOCKED**

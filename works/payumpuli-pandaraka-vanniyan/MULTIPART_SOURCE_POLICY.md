@@ -102,11 +102,16 @@ Authoritative work-specific guide:
 - formal Pass 2B: **COMPLETE — 30/30 reviewed**
 - formal Pass 3: **COMPLETE — 30/30 reviewed**
 - Part001 Part audit: **PASS / COMPLETE**
+- Part001 final metadata/status synchronization: **PASS / CLOSED**
+- Part001 Tamil textual status: **30/30 verified; 0 partial; 0 needs-review**
+- Part001 visual fidelity: **30/30 verified; 0 needs-review**
+- Part001 unresolved status exceptions: **0**
+- Part001 documentation synchronization: **PASS / COMPLETE**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 English/release: **BLOCKED**
 - Part002 transcription: **BLOCKED until Part001 final closure**
 - split-boundary classifications: **1 / 15 audited — 30→31 GENUINE CONTINUATION**
-- exact active gate: **Part001 final metadata/status synchronization**
+- exact active gate: **Part001 Tamil archival-ready checkpoint**
 
 ## Batch-size policy
 
@@ -118,7 +123,7 @@ For Part001 Pass 1:
 - completed: **scans6–15 — text-complete / needs-review**;
 - completed: **scans16–25 — text-complete / needs-review**;
 - completed: **scans26–30 — text-complete / needs-review**;
-- Pass 1 is now **30/30 complete**; formal Pass 2A is the next gate from scan1.
+- Pass 1 is **30/30 complete**. These `needs-review` labels are retained here as historical Pass-1 closure states; the full verification chain later promoted all 30 records to final `verified`.
 
 
 ## Audited boundary — 30→31

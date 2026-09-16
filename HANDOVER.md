@@ -45,8 +45,11 @@ Current state:
 - formal Pass 2B — **COMPLETE — 30/30 reviewed**
 - formal Pass 3 — **COMPLETE — 30/30 reviewed**
 - Part audit — **PASS / COMPLETE**
-- final status sync — **NOT STARTED**
-- documentation sync — **NOT STARTED**
+- final status sync — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified; 0 partial; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- unresolved status exceptions — **0**
+- documentation sync — **PASS / COMPLETE**
 - Tamil archival-ready — **BLOCKED**
 - assembled Tamil — **BLOCKED**
 - English — **BLOCKED**
@@ -59,6 +62,8 @@ Live trackers:
 - `works/payumpuli-pandaraka-vanniyan/PART_001_PASS2B_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_001_PASS3_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_001_AUDIT.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_001_FINAL_STATUS_SYNC.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_001_DOCUMENTATION_SYNC.md`
 
 ## Historical preliminary work
 
@@ -66,7 +71,7 @@ Earlier local T1/T2/T3 work on scans1–5 remains historical evidence only. It i
 
 Scans1–2 were returned from premature `verified` to `needs-review` without changing the transcription.
 
-Part001 scans1–30 are now Pass-1 text-complete / needs-review. Pass 1 is **COMPLETE / 30/30**.
+At Pass-1 closure, Part001 scans1–30 were text-complete / `needs-review`. That historical state is retained; after the full verification chain and final status synchronization, all 30 are now `verified`. Pass 1 remains **COMPLETE / 30/30**.
 
 ## Part001 structure
 
@@ -120,13 +125,12 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Part001 Part audit is **PASS / COMPLETE**.
+Documentation synchronization is **PASS / COMPLETE**.
 
-Perform **Part001 final metadata/status synchronization**.
+Perform the **Part001 Tamil archival-ready checkpoint**.
 
-- use `PART_001_AUDIT.md` as the audit authority;
-- reconcile final per-page status / visual-fidelity metadata from the closed Pass evidence;
-- do not start the separate documentation-sync or Tamil archival-ready gate until final status synchronization is complete;
-- commit and stop.
+- use `PART_001_FINAL_STATUS_SYNC.md` and `PART_001_DOCUMENTATION_SYNC.md` as the closure authorities;
+- confirm the already-verified 30/30 Tamil and 30/30 visual state is archival-ready without changing page wording or structure;
+- keep assembled Tamil, English, release/readiness, final Part closure and Part002 transcription blocked until their later gates.
 
 Do not begin Part002 transcription.

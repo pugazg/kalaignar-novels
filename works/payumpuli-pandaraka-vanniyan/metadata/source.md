@@ -141,6 +141,11 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - formal Pass 2B: **COMPLETE — 30/30 reviewed**
 - formal Pass 3: **COMPLETE — 30/30 reviewed**
 - Part001 Part audit: **PASS / COMPLETE**
+- Part001 final metadata/status synchronization: **PASS / CLOSED**
+- Part001 Tamil textual status: **30/30 verified; 0 partial; 0 needs-review**
+- Part001 visual fidelity: **30/30 verified; 0 needs-review**
+- Part001 unresolved status exceptions: **0**
+- Part001 documentation synchronization: **PASS / COMPLETE**
 - Part001 Tamil archival-ready / assembled Tamil / English / release-readiness / final closure: **BLOCKED**
 - Part002 source: **REGISTERED / TRANSCRIPTION BLOCKED**
 - audited outgoing boundary: **30→31 GENUINE CONTINUATION**
@@ -158,8 +163,6 @@ Durable rule:
 
 ## Exact next activity
 
-Part001 Pass 1 is **COMPLETE — 30/30 text-complete**.
+Perform the **Part001 Tamil archival-ready checkpoint**.
 
-Perform **Part001 final metadata/status synchronization**.
-
-Part002 transcription remains blocked.
+Part002 transcription remains blocked. Do not begin assembled Tamil, English, release/readiness, final Part closure, or Part002 transcription in the same gate.

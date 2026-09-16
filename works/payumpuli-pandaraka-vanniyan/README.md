@@ -34,8 +34,11 @@ Current Part001 state:
 - formal Pass 2B — **COMPLETE — 30/30 reviewed**
 - formal Pass 3 — **COMPLETE — 30/30 reviewed**
 - Part audit — **PASS / COMPLETE**
-- final metadata/status sync — **NOT STARTED**
-- documentation sync — **NOT STARTED**
+- final metadata/status sync — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified; 0 partial; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- unresolved status exceptions — **0**
+- documentation sync — **PASS / COMPLETE**
 - Tamil archival-ready — **BLOCKED**
 - assembled Tamil — **BLOCKED**
 - English translation/review — **BLOCKED**
@@ -107,6 +110,11 @@ Only after Pass 1 reaches **30/30 text-complete** does formal Pass 2A begin from
 - [`PAYUMPULI_ARCHIVAL_GUIDELINES.md`](PAYUMPULI_ARCHIVAL_GUIDELINES.md)
 - [`PART_001_PASS1_PROGRESS.md`](PART_001_PASS1_PROGRESS.md)
 - [`PART_001_PASS2A_PROGRESS.md`](PART_001_PASS2A_PROGRESS.md)
+- [`PART_001_PASS2B_PROGRESS.md`](PART_001_PASS2B_PROGRESS.md)
+- [`PART_001_PASS3_PROGRESS.md`](PART_001_PASS3_PROGRESS.md)
+- [`PART_001_AUDIT.md`](PART_001_AUDIT.md)
+- [`PART_001_FINAL_STATUS_SYNC.md`](PART_001_FINAL_STATUS_SYNC.md)
+- [`PART_001_DOCUMENTATION_SYNC.md`](PART_001_DOCUMENTATION_SYNC.md)
 - [`SOURCE_INTAKE.md`](SOURCE_INTAKE.md)
 - [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md)
 - [`metadata/source.md`](metadata/source.md)
@@ -118,10 +126,10 @@ Historical preliminary checkpoint records are retained for provenance but do not
 
 ## Exact next activity
 
-Part001 Part audit is **PASS / COMPLETE**.
+Part001 documentation synchronization is **PASS / COMPLETE**.
 
-Perform **Part001 final metadata/status synchronization**.
+Perform the **Part001 Tamil archival-ready checkpoint**.
 
-All 30 pages remain `needs-review` until that next gate applies the audited final status.
+All 30 Part001 page records are already final `verified` for Tamil text and visual fidelity. Do not reopen transcription, final status synchronization, or the source PDF in that checkpoint unless a new discrepancy is explicitly raised.
 
-Do **not** begin Tamil archival-ready, assembled Tamil, English, or Part002 yet.
+Do **not** begin assembled Tamil, English, release/readiness, final Part closure, or Part002 transcription yet.

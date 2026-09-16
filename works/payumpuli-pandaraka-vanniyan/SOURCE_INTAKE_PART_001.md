@@ -70,6 +70,11 @@ Current Pass-1 state:
 - formal Pass 2B: **COMPLETE — 30/30 reviewed**;
 - formal Pass 3: **COMPLETE — 30/30 reviewed**;
 - Part audit: **PASS / COMPLETE**;
+- final metadata/status synchronization: **PASS / CLOSED**;
+- Tamil textual status: **30/30 verified; 0 partial; 0 needs-review**;
+- visual fidelity: **30/30 verified; 0 needs-review**;
+- unresolved status exceptions: **0**;
+- documentation synchronization: **PASS / COMPLETE**;
 - outgoing boundary **30→31**: **GENUINE CONTINUATION / AUDITED** using Part002 local1 as a boundary witness only.
 
 Authoritative tracker:
@@ -78,4 +83,4 @@ Authoritative tracker:
 - `PART_001_PASS2B_PROGRESS.md`
 - `PART_001_PASS3_PROGRESS.md`
 
-**Next:** perform **Part001 final metadata/status synchronization**. Do not begin Part002 transcription until Part001 final closure after Tamil archival-ready, assembled Tamil, English, release/readiness and final closure gates.
+**Next:** perform the **Part001 Tamil archival-ready checkpoint**. Do not begin assembled Tamil, English, release/readiness, final Part closure, or Part002 transcription until their later gates.
