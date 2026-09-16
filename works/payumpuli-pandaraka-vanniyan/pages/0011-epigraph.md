@@ -24,6 +24,12 @@ transcription_method: "direct visual inspection of rendered source scan; T1 stru
 - rendered source page was inspected directly;
 - no OCR, web transcription, later edition, grammar-based reconstruction, or external text was used as authority.
 
+## Source-visible attribution
+
+எழுச்சிக் கவிஞர் காசி ஆனந்தன்
+
+The attribution above is directly source-visible. The verse text itself remains pending exact line-by-line capture.
+
 ## Text-fidelity hold
 
 The source contains printed Tamil text on this page, but the current attachment renderer exposes the page only at a reduced rendered size. A complete line-by-line character transcription cannot be frozen with sufficient confidence from that rendering alone.
