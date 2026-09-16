@@ -19,7 +19,7 @@
 - source-visible chapter sequence represented in English: **1–5, 8–14**
 - chapter6 / chapter7 English files: **0 / 0**
 - unresolved English holds: **0**
-- deliberate source-language retention: **1 archaic Silappatikaram quotation**
+- deliberate source-language/source-label retentions include: **the archaic Silappatikaram quotation, the source `கிருட்டிணப் பறவை` label, and Surulimalai's scan97 chant**
 - canonical Tamil changes caused by English work: **0**
 - whole-work English: **IN PROGRESS**
 
