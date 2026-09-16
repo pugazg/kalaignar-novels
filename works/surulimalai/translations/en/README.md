@@ -6,26 +6,27 @@ Working English title: **_Surulimalai_**. Tamil `சுருளிமலை` re
 
 ## Current status
 
-- English workspace: **CLOSED**
+- English workspace: **CLOSED / VERIFIED**
 - Batch E1: **SOURCE-CHECKED / COMPLETE**
 - Batch E2: **SOURCE-CHECKED / COMPLETE**
 - Batch E3: **SOURCE-CHECKED / COMPLETE**
 - Batch E4: **SOURCE-CHECKED / COMPLETE**
 - Batch E5: **SOURCE-CHECKED / COMPLETE**
-- final bilingual / consistency review: **COMPLETE / PASS**
+- final whole-work bilingual / consistency review: **COMPLETE / PASS**
 - translated sections: **26 / 26**
   - Introduction — scans5–13
   - Chapters 1–5 — scans14–64
-  - Chapters 8–27 — scans65–197
-- English narrative coverage: **scan5 through scan197 / `[முற்றிற்று.]`**
+  - Chapters 8–14 — scans65–113 before chapter15
+  - Chapters 15–21 — scans113–160 before chapter22
+  - Chapters 22–27 — scans160–197 / `[முற்றிற்று.]`
+- English source coverage: **scan5 through scan197**
 - source-visible English chapter sequence: **1–5, 8–27**
 - chapter6 / chapter7 English files: **none**
-- physical provenance markers represented: **183 / 183**
+- verified source-boundary / source-join provenance comments: **183 / 183 represented**
 - unresolved English holds: **0**
-- canonical Tamil changes during translation: **0**
+- canonical Tamil changes during English work: **0**
+- scan198 back-cover / publisher-device matter: **not translated as narrative**
 - whole-work English: **VERIFIED / COMPLETE / CLOSED**
-
-Deliberate source-language/source-label retentions are fidelity choices, not holds. They include the classical Silappatikaram quotation, `கிருட்டிணப் பறவை`, Surulimalai's scan97 chant, chapter22 `வாடை தூக்க வணங்கிய தாழை!`, and terminal `[முற்றிற்று.]`.
 
 ## Start reading
 
@@ -56,8 +57,6 @@ Deliberate source-language/source-label retentions are fidelity choices, not hol
 25. [`sections/26-chapter-26.md`](sections/26-chapter-26.md)
 26. [`sections/27-chapter-27.md`](sections/27-chapter-27.md)
 
-The source-visible sequence jumps from chapter **5** to chapter **8**. English preserves that jump; chapters 6 and 7 are not created.
-
 ## Authority
 
 1. [`../../pages/`](../../pages/) — canonical audited Tamil page records; controlling text.
@@ -67,23 +66,34 @@ The source-visible sequence jumps from chapter **5** to chapter **8**. English p
 
 If English conflicts with canonical Tamil, Tamil governs. Translation never authorizes a silent Tamil correction.
 
-## Batch source checks
+## Batch closures
 
-- [`E1_SOURCE_CHECK.md`](E1_SOURCE_CHECK.md) — Introduction + Chapter 1
-- [`E2_SOURCE_CHECK.md`](E2_SOURCE_CHECK.md) — Chapters 2–5
-- [`E3_SOURCE_CHECK.md`](E3_SOURCE_CHECK.md) — Chapters 8–14
-- [`E4_SOURCE_CHECK.md`](E4_SOURCE_CHECK.md) — Chapters 15–21
-- [`E5_SOURCE_CHECK.md`](E5_SOURCE_CHECK.md) — Chapters 22–27
+- E1 — Introduction + Chapter 1: [`E1_SOURCE_CHECK.md`](E1_SOURCE_CHECK.md)
+- E2 — Chapters 2–5: [`E2_SOURCE_CHECK.md`](E2_SOURCE_CHECK.md)
+- E3 — Chapters 8–14: [`E3_SOURCE_CHECK.md`](E3_SOURCE_CHECK.md)
+- E4 — Chapters 15–21: [`E4_SOURCE_CHECK.md`](E4_SOURCE_CHECK.md)
+- E5 — Chapters 22–27: [`E5_SOURCE_CHECK.md`](E5_SOURCE_CHECK.md)
+
+The source-visible sequence jumps from chapter **5** to chapter **8**. English preserves that jump; chapters 6 and 7 are not created.
 
 ## Translation controls
 
 - [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
 - [`GLOSSARY.md`](GLOSSARY.md)
 - [`PROGRESS.md`](PROGRESS.md)
+- [`E1_SOURCE_CHECK.md`](E1_SOURCE_CHECK.md)
+- [`E2_SOURCE_CHECK.md`](E2_SOURCE_CHECK.md)
+- [`E3_SOURCE_CHECK.md`](E3_SOURCE_CHECK.md)
+- [`E4_SOURCE_CHECK.md`](E4_SOURCE_CHECK.md)
+- [`E5_SOURCE_CHECK.md`](E5_SOURCE_CHECK.md)
 - [`FINAL_BILINGUAL_REVIEW.md`](FINAL_BILINGUAL_REVIEW.md)
 
-## Final result
+## Closed-state fidelity notes
 
-**26 / 26 English sections — VERIFIED / COMPLETE / CLOSED.**
+Deliberate source-facing retentions include the archaic Silappatikaram quotation, `கிருட்டிணப் பறவை`, Surulimalai's scan97 chant, chapter22 `வாடை தூக்க வணங்கிய தாழை!`, and terminal `[முற்றிற்று.]` where the project source does not justify stronger normalization.
 
-No further Surulimalai English activity is required unless a new source-fidelity issue is reported or a new output/publication layer is explicitly requested.
+Reported religious / supernatural / rationalist claims remain attributed to source speakers or narrator framing. The English layer does not silently modernize canonical Tamil, invent chapters 6–7, externally identify unspecified flora/fauna, or add unsupported literary, medical, theological, forensic, or historical explanation inside narrative prose.
+
+## Exact next activity
+
+**None for the Surulimalai English translation.** Reopen only for a user-reported source-fidelity issue or an explicitly requested publication/output layer.
