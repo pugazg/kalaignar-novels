@@ -6,9 +6,10 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்.pdf`
 
-- physical scans: **150**
+- physical scans: **477**
 - file size: **456,236,783 bytes**
 - image-only scan
+- render/index preview limit: **150 pages**; full source extent remains **477 pages**
 - SHA-256: **PENDING**
 - source PDF must not be committed
 
@@ -23,7 +24,7 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 - source intake: **COMPLETE / REGISTERED**
 - initial structure review: **scans1–20**
-- canonical page records: **0 / 150**
+- canonical page records: **0 / 477**
 - T1/T2/T3: **NOT STARTED**
 - terminal boundary: **NOT YET AUDITED**
 - assembled Tamil / English: **BLOCKED**
