@@ -18,7 +18,7 @@ This tracker follows the Kuraloviyam rule that **Pass 1 is complete only when ev
 - canonical Part001 records present: **30/30**
 - Pass-1 text-complete records: **30/30 — scans1–30**
 - Pass-1 partial records: **0/30**
-- formal Pass 2A: **NOT STARTED**
+- formal Pass 2A: **IN PROGRESS — 10/30 reviewed**
 - formal Pass 2B: **NOT STARTED**
 - formal Pass 3: **NOT STARTED**
 - Part audit: **NOT STARTED**
@@ -71,6 +71,6 @@ Part001 Pass 1 is now **COMPLETE — 30/30 text-complete**.
 
 ## Exact next activity
 
-Begin **formal Part001 Pass 2A from scan1**, using direct word-by-word / punctuation / paragraph / page-continuation comparison against the attached Part001 source.
+Pass 1 remains closed. Current work has advanced to **formal Part001 Pass 2A**, with scans1–10 reviewed. Authoritative live tracker: `PART_001_PASS2A_PROGRESS.md`.
 
 Do not begin Part002 transcription. Part002 remains blocked until Part001 completes the full Tamil archival-ready, assembled Tamil, English, release/readiness and final closure chain.

@@ -30,7 +30,7 @@ Current Part001 state:
 - canonical records present — **30/30**
 - Pass 1 text-complete — **30/30 — scans1–30**
 - Pass 1 partial — **0/30**
-- formal Pass 2A — **NOT STARTED**
+- formal Pass 2A — **IN PROGRESS — 10/30 reviewed (scans1–10)**
 - formal Pass 2B — **NOT STARTED**
 - formal Pass 3 — **NOT STARTED**
 - Part audit — **NOT STARTED**
@@ -106,6 +106,7 @@ Only after Pass 1 reaches **30/30 text-complete** does formal Pass 2A begin from
 
 - [`PAYUMPULI_ARCHIVAL_GUIDELINES.md`](PAYUMPULI_ARCHIVAL_GUIDELINES.md)
 - [`PART_001_PASS1_PROGRESS.md`](PART_001_PASS1_PROGRESS.md)
+- [`PART_001_PASS2A_PROGRESS.md`](PART_001_PASS2A_PROGRESS.md)
 - [`SOURCE_INTAKE.md`](SOURCE_INTAKE.md)
 - [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md)
 - [`metadata/source.md`](metadata/source.md)
@@ -117,9 +118,11 @@ Historical preliminary checkpoint records are retained for provenance but do not
 
 ## Exact next activity
 
-Part001 Pass 1 is **COMPLETE — 30/30 text-complete**.
+Formal Part001 Pass 2A is **IN PROGRESS — 10/30 reviewed**.
 
-Begin **formal Part001 Pass 2A from scan1**. Compare every word, punctuation mark, paragraph boundary and page continuation directly with the attached Part001 source.
+Process **Part001 Pass 2A scans11–20**. Compare every word, punctuation mark, paragraph boundary, meaningful display and page continuation directly with the attached Part001 source.
+
+Keep pages `needs-review`; do **not** begin Pass 2B until Pass 2A reaches 30/30.
 
 Do **not** begin Part002 transcription.
 

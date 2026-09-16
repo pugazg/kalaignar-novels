@@ -7,47 +7,46 @@ work: "payumpuli-pandaraka-vanniyan"
 section: "front-matter"
 page_type: "title-page"
 status: "needs-review"
-visual_fidelity: "reviewed-with-hold"
+visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual transcription from rendered source scan; T1; T2 independent re-read complete; T3 final source-fidelity review complete"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
 ---
 
-# பாயும்புலி பண்டாரக வன்னியன்
+## Source transcription
 
-## கலைஞர் மு. கருணாநிதி
+பாயும்புலி  
+பண்டாரக  
+வன்னியன்
 
-ராக் போர்ட் பப்ளிகேஷன்ஸ்  
-சென்னை - 32
+கலைஞர்  
+மு.கருணாநிதி
 
-## Copy-specific / later marks
+ராக்::போர்ட்  
+பப்ளிகேஷன்ஸ்(பி)லிட்.,  
+சென்னை-32
 
-- multiple blue/purple library stamps overlap the title-page artwork;
-- a handwritten accession-style number is present at the upper margin;
-- these marks are not treated as original publication text;
-- exact stamp/handwritten-number transcription is deferred to visual-fidelity review.
+## Non-body / copy-specific marks
 
-## T1 direct-transcription notes
+- multiple blue/purple library stamps overlap the title-page design;
+- handwritten accession-style numbers appear at the upper margin and within/near the stamp;
+- these are later copy-specific marks, not original publication text;
+- no printed page number is visible.
 
-- complete physical scan inspected directly;
-- printed title, author and publisher/place line captured separately from later library marks;
-- no printed page number is visible;
-- page remains `needs-review` pending T2/T3.
+## Pass 2A corrections
 
-## T2 independent historical-glyph notes
+- restored the source-visible three-line title display;
+- corrected author form `மு. கருணாநிதி` → `மு.கருணாநிதி`;
+- replaced the simplified publisher line with the actual three-line source imprint:
+  - `ராக்::போர்ட்`
+  - `பப்ளிகேஷன்ஸ்(பி)லிட்.,`
+  - `சென்னை-32`;
+- copy-specific marks remain separated from canonical publication text and are reserved for the later visual/structural pass.
 
-- complete scan independently re-read against the rendered source;
-- `கலைஞர்` (`லை`) and `சென்னை` (`னை`) were explicitly re-checked;
-- printed title/author/publisher text required **0** T1 corrections;
-- overlapping library stamps and the handwritten accession-style number remain non-publication marks;
-- exact copy-specific mark transcription remains deferred because it is not sufficiently clear in the rendered source;
-- page remains `needs-review` pending T3.
+## Formal Part001 Pass 2A review
 
-## T3 final source-fidelity notes
+- compared directly against the attached Part001 source pixels;
+- words, punctuation, displayed lineation, paragraph/page structure and separation of non-body marks were checked;
+- page remains `needs-review`; formal Pass 2B / Pass 3 are still pending.
 
-- printed title, author and publisher/place lines were re-checked;
-- library stamps and handwritten accession-style material remain correctly separated from publication text;
-- exact copy-specific handwritten/stamp details are not sufficiently clear for a final archival reading;
-- T3 review is complete, but the page remains **needs-review** for the unresolved copy-specific mark detail.
-
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 4; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: —; T1/T2/T3 REVIEW COMPLETE / needs-review -->
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 4; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: —; PASS 2A REVIEWED / needs-review -->

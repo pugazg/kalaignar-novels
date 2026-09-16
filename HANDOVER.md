@@ -41,7 +41,7 @@ Current state:
 - canonical records — **30/30 present**
 - Pass 1 text-complete — **30/30 — scans1–30**
 - Pass 1 partial — **0/30**
-- formal Pass 2A — **NOT STARTED**
+- formal Pass 2A — **IN PROGRESS — 10/30 reviewed (scans1–10)**
 - formal Pass 2B — **NOT STARTED**
 - formal Pass 3 — **NOT STARTED**
 - Part audit — **NOT STARTED**
@@ -53,8 +53,9 @@ Current state:
 - release/readiness — **BLOCKED**
 - final Part closure — **BLOCKED**
 
-Live Pass-1 tracker:
+Live trackers:
 - `works/payumpuli-pandaraka-vanniyan/PART_001_PASS1_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_001_PASS2A_PROGRESS.md`
 
 ## Historical preliminary work
 
@@ -116,13 +117,14 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Part001 Pass 1 is **COMPLETE — 30/30 text-complete**.
+Formal Part001 Pass 2A is **IN PROGRESS — 10/30 reviewed**.
 
-Begin **formal Part001 Pass 2A scans1–10**.
+Process **Part001 Pass 2A scans11–20**.
 
 - use the attached Part001 PDF only;
-- perform direct word-by-word, punctuation, paragraph and page-continuation verification;
-- keep pages `needs-review`; do not assign final `verified` status;
+- perform direct word-by-word, punctuation, paragraph, displayed-lineation and page-continuation verification;
+- record every correction explicitly;
+- keep pages `needs-review`;
 - update `PART_001_PASS2A_PROGRESS.md` and live controls;
 - commit and stop.
 

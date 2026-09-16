@@ -81,7 +81,8 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - canonical Part001 records: **30/30 present**
 - Part001 Pass 1 text-complete: **30/30**
 - Part001 Pass 1 partial: **0/30**
-- formal Part001 Pass 2A / Pass 2B / Pass 3: **NOT STARTED**
+- formal Part001 Pass 2A: **IN PROGRESS — 10/30 reviewed**
+- formal Part001 Pass 2B / Pass 3: **NOT STARTED**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 assembled Tamil: **BLOCKED**
 - Part001 English / release-readiness: **BLOCKED**
@@ -92,13 +93,14 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 Authoritative work-specific methodology:
 - `PAYUMPULI_ARCHIVAL_GUIDELINES.md`
 
-Authoritative live Pass-1 tracker:
+Authoritative live trackers:
 - `PART_001_PASS1_PROGRESS.md`
+- `PART_001_PASS2A_PROGRESS.md`
 
 ## Exact next activity
 
 Part001 Pass 1 is **COMPLETE — 30/30 text-complete**.
 
-Begin **formal Part001 Pass 2A from scan1**.
+Process **formal Part001 Pass 2A scans11–20**.
 
 Do not begin Part002 transcription. Part002 remains source-registered / transcription-blocked until Part001 final closure.

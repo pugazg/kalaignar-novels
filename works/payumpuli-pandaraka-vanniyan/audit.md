@@ -65,7 +65,7 @@ Current Pass-1 accounting:
 | Pass-1 partial | **0/30** |
 | needs-review | **30/30 — scans1–30** |
 | verified | **0/30 formal Part-level final status** |
-| formal Pass 2A | **NOT STARTED** |
+| formal Pass 2A | **IN PROGRESS — 10/30 reviewed** |
 | formal Pass 2B | **NOT STARTED** |
 | formal Pass 3 | **NOT STARTED** |
 | Part audit | **NOT STARTED** |
@@ -117,16 +117,27 @@ All 30 pages remain non-final / `needs-review`. The next gate is formal **Pass 2
 - scan12 illustration and scan15 memorial-stone photograph remain separate visual/non-body matter;
 - no formal Pass 2A / Pass 2B / Pass 3 credit was assigned.
 
+## Formal Pass 2A — scans1–10
+
+**COMPLETE / REVIEWED — 10/30**
+
+Direct source-pixel comparison found corrections on scans **1, 3, 4, 5, 7 and 9**; scans **2, 6, 8 and 10** passed unchanged.
+
+Durable corrections:
+- scan1 — source author `மு.கருணாநிதி` and display lineation restored;
+- scan3 — exact publisher/address block restored, including `தமிழ்நாடு-இந்தியா`; false telephone-number placeholder removed;
+- scan4 — exact title-page display and publisher imprint restored;
+- scan5 — previously deferred bibliographic block fully transcribed from enlarged source pixels;
+- scan7 — `பெயர்பூண்ட`;
+- scan9 — `இத்தனைத் தமிழ்க்`.
+
+All ten pages remain `needs-review`. Formal Pass 2B has not started.
+
 ## Historical opening review
 
 The previous scans1–5 T1/T2/T3 checkpoint files remain in the repository as historical evidence of work already performed.
 
-They do **not** establish the formal Kuraloviyam-style whole-Part verification gates, because:
-- Pass 1 has not yet completed the entire Part;
-- Pass 2A must begin only after Part001 Pass 1 reaches 30/30;
-- Pass 2B follows whole-Part Pass 2A;
-- Pass 3 follows Pass 2B;
-- final `verified` metadata is assigned only after Part audit and final status synchronization.
+They do **not** establish the formal Kuraloviyam-style whole-Part verification gates. Pass 1 is now complete, and formal Pass 2A has begun independently from scan1. Pass 2B follows only after whole-Part Pass 2A; Pass 3 follows Pass 2B; final `verified` metadata is assigned only after Part audit and final status synchronization.
 
 ## Part001 outgoing boundary
 
@@ -165,14 +176,14 @@ Only then may Part002 become active.
 
 ## Exact next activity
 
-**formal Part001 Pass 2A from scan1 — complete source transcription.**
+**Part001 Pass 2A scans11–20.**
 
 - use the attached Part001 PDF only;
-- complete all ten existing page records;
-- preserve source text exactly;
-- leave text-complete pages `needs-review`;
-- update `PART_001_PASS1_PROGRESS.md`;
-- synchronize controls;
+- compare every canonical word, punctuation mark, paragraph boundary and page continuation directly against source pixels;
+- record source corrections explicitly;
+- keep reviewed pages `needs-review`;
+- update `PART_001_PASS2A_PROGRESS.md` and live controls;
 - commit and stop.
 
+Do not begin Pass 2B.
 Do not begin Part002.

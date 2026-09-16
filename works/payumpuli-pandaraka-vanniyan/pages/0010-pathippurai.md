@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual transcription from attached source PDF; Part001 Pass 1 text-complete; formal whole-Part verification pending"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
 ---
 
 # பதிப்புரை
@@ -40,6 +40,13 @@ transcription_method: "direct visual transcription from attached source PDF; Par
 - no OCR, web transcription, later edition or grammar-based reconstruction was used as authority;
 - the bottom location/date and publisher imprint are printed matter and are retained separately by line;
 - no printed page number is visible;
-- formal Pass 2A / Pass 2B / Pass 3 have not started; this record therefore remains needs-review.
+- formal Part001 Pass 2A is complete for this scan; Pass 2B / Pass 3 remain pending; status stays `needs-review`.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 10; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 10; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph and page-boundary comparison completed against the attached source;
+- source-text corrections: **0**;
+- Pass 2A result: **REVIEWED / PASS AFTER ANY CORRECTIONS ABOVE**;
+- page remains `needs-review` pending whole-Part Pass 2B / Pass 3 and later final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 10; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 10; அச்சுப் பக்கம்: —; PASS 2A REVIEWED / needs-review -->

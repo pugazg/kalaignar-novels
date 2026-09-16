@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual transcription from attached source PDF; Part001 Pass 1 text-complete; formal whole-Part verification pending"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
 ---
 
 # அணிந்துரை
@@ -23,7 +23,7 @@ transcription_method: "direct visual transcription from attached source PDF; Par
 
 பண்டாரக வன்னியன் உள்ளங்கவர்ந்த காதலி - குருவிச்சி நாச்சியும், அவனது அருமைத் தங்கையர் நல்ல நாச்சியும், ஊமைச்சி நாச்சியும், உயர்ந்த பண்புள்ள வீராங்கனைகள்.
 
-இலங்கையின் மையப்பகுதியான கண்டியில் ஆட்சிப் பொறுப்பேற்ற கண்ணுச்சாமி-முடிசூட்டிய காலத்தில் விக்கிரம ராஜ சிங்கன் என்னும் பெயர் பூண்ட மன்னன்-பண்டாரக வன்னியனின் உற்ற நண்பன். நாட்டுரிமை காப்பதில் நாட்டம் கொண்டவன்.
+இலங்கையின் மையப்பகுதியான கண்டியில் ஆட்சிப் பொறுப்பேற்ற கண்ணுச்சாமி-முடிசூட்டிய காலத்தில் விக்கிரம ராஜ சிங்கன் என்னும் பெயர்பூண்ட மன்னன்-பண்டாரக வன்னியனின் உற்ற நண்பன். நாட்டுரிமை காப்பதில் நாட்டம் கொண்டவன்.
 
 அந்த நாட்டு அமைச்சராக இருந்தவர், நயவஞ்சக நச்சுச் சிந்தனையாளர்; மனிதச் சிலந்தி பிலிமதளாவை. அவர் சிங்கள இனத்தவர். ஆங்கிலேயரின் நோக்கத்துக்குத் துணை நின்று, அவர்களின் ஆதிக்கத்திற்குப் பாய் விரித்திடத் திட்டமிட்டு, அதன்மூலம் ஆட்சியைத் தனதாக்கிக் கொள்ள பேராசை கொண்டு - சதி வலை பின்னியவர்.
 
@@ -39,6 +39,13 @@ transcription_method: "direct visual transcription from attached source PDF; Par
 - no OCR, web transcription, later edition or grammar-based reconstruction was used as authority;
 - this scan is a continuous prose page of the அணிந்துரை; no printed page number is visible;
 - no library stamp or handwritten annotation is treated as printed body text;
-- formal Pass 2A / Pass 2B / Pass 3 have not started; this record therefore remains needs-review.
+- formal Part001 Pass 2A is complete for this scan; Pass 2B / Pass 3 remain pending; status stays `needs-review`.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 7; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph and page-boundary comparison completed against the attached source;
+- correction: `பெயர் பூண்ட` → source `பெயர்பூண்ட`;
+- Pass 2A result: **REVIEWED / PASS AFTER ANY CORRECTIONS ABOVE**;
+- page remains `needs-review` pending whole-Part Pass 2B / Pass 3 and later final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 7; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: —; PASS 2A REVIEWED / needs-review -->

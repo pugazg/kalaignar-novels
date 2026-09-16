@@ -1,21 +1,38 @@
-# Part001 Pass 2A Next Batch — scans 1–10
+# Part001 Pass 2A Batch — scans 1–10
 
-Status: **PENDING**
+Status: **COMPLETE / REVIEWED**
 
 Controlling source:
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf`
 
-Process exactly overall scans **1–10**.
+## Result
 
-For each page:
-1. compare every canonical word with the rendered source pixels;
-2. compare punctuation and paragraph structure;
-3. preserve source spelling and page-boundary state;
-4. identify any transcription discrepancy explicitly;
-5. do not normalize historical spelling or infer unreadable text;
-6. keep the page `needs-review` after Pass 2A;
-7. update `PART_001_PASS2A_PROGRESS.md`, page map, audit, README and handover;
-8. commit and stop.
+All ten scans received direct source-pixel comparison for words, punctuation, paragraphs, displayed lineation, page structure and non-body separation.
 
-Do not begin scans11–20 in the same iteration unless explicitly requested.
-Do not begin Pass 2B until whole-Part Pass 2A is complete.
+| Scan | Result | Corrections |
+|---:|---|---|
+| 1 | PASS after correction | source author `மு.கருணாநிதி`; title display lineation restored |
+| 2 | PASS | 0 |
+| 3 | PASS after correction | publisher block corrected; `தமிழ்நாடு-இந்தியா` restored; false telephone placeholder removed |
+| 4 | PASS after correction | title/author display corrected; exact publisher imprint restored |
+| 5 | PASS after correction | full printed `நூல் அளவை` block transcribed |
+| 6 | PASS | 0 |
+| 7 | PASS after correction | `பெயர் பூண்ட` → `பெயர்பூண்ட` |
+| 8 | PASS | 0 |
+| 9 | PASS after correction | `இத்தனைத்தமிழ்க்` → `இத்தனைத் தமிழ்க்` |
+| 10 | PASS | 0 |
+
+All ten records remain `needs-review`; Pass 2A is not final page verification.
+
+## Accounting after batch
+
+- Pass 2A reviewed: **10/30**
+- remaining: **20/30**
+- Pass 2B / Pass 3: **NOT STARTED**
+
+## Exact next activity
+
+Process **Part001 Pass 2A scans11–20**.
+
+Do not begin Pass 2B.
+Do not begin Part002 transcription.

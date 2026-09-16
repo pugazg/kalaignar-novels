@@ -10,8 +10,10 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual transcription from rendered source scan; T1; T2 independent re-read complete; T3 final source-fidelity review complete"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
 ---
+
+## Source transcription
 
 பாயும்புலி  
 பண்டாரக  
@@ -23,38 +25,24 @@ transcription_method: "direct visual transcription from rendered source scan; T1
 ## காட்சிப் பதிவு
 
 - page is largely blank;
-- small title/author block appears near the lower portion of the page;
-- faint show-through from the reverse is non-body material;
+- title block is printed as three lines at lower left;
+- author block is printed separately at lower right;
+- faint reverse show-through is non-body matter;
 - no printed page number is visible.
 
-## T1 direct-transcription notes
+## Historical preliminary review
 
-- complete physical scan inspected directly;
-- only source-visible printed title/author text is transcribed;
-- no inferred publication text added;
-- page remains `needs-review` pending T2/T3.
+Earlier local T2/T3 work is historical preliminary evidence only.
 
-## T2 independent historical-glyph notes
+## Pass 2A result
 
-- complete scan independently re-read against the rendered source;
-- historical-glyph-sensitive families were checked where present;
-- `கலைஞர்` was re-checked for the `லை` family and retained;
-- no printed text omitted or normalized during T2;
-- T1 character-identity corrections: **0**;
-- unresolved historical glyphs in the visible printed text: **0**;
-- page remains `needs-review` pending T3.
+- source-text corrections: **0**;
+- displayed title/author lineation and the source-visible space in `மு. கருணாநிதி` were confirmed.
 
-## T3 final source-fidelity notes
+## Formal Part001 Pass 2A review
 
-- complete scan compared again against the canonical record;
-- title/author coverage, large blank area, reverse show-through separation and absence of printed page number were re-confirmed;
-- omissions / duplicate text: **0 / 0**;
-- unresolved source-text fields: **0**;
-- T3 result: **PASS / VERIFIED**.
+- compared directly against the attached Part001 source pixels;
+- words, punctuation, displayed lineation, paragraph/page structure and separation of non-body marks were checked;
+- page remains `needs-review`; formal Pass 2B / Pass 3 are still pending.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 2; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: —; T1/T2/T3 COMPLETE / VERIFIED -->
-
-
-## Kuraloviyam-methodology reset
-
-This page had received an earlier local T3 verification before the work adopted the Kuraloviyam per-Part closure model. Under that model, final `verified` status is assigned only after the **entire Part** completes Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → final status synchronization. This page is therefore returned to `needs-review` without changing its source transcription.
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 2; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: —; PASS 2A REVIEWED / needs-review -->
