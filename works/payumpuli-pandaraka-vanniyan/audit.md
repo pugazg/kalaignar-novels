@@ -66,7 +66,7 @@ Current Pass-1 accounting:
 | needs-review | **30/30 — scans1–30** |
 | verified | **0/30 formal Part-level final status** |
 | formal Pass 2A | **COMPLETE — 30/30 reviewed** |
-| formal Pass 2B | **NOT STARTED** |
+| formal Pass 2B | **IN PROGRESS — 10/30 reviewed** |
 | formal Pass 3 | **NOT STARTED** |
 | Part audit | **NOT STARTED** |
 | final status sync | **NOT STARTED** |
@@ -116,6 +116,19 @@ All 30 pages remain non-final / `needs-review`. The next gate is formal **Pass 2
 - scan11 verse lineation and attribution were preserved;
 - scan12 illustration and scan15 memorial-stone photograph remain separate visual/non-body matter;
 - no formal Pass 2A / Pass 2B / Pass 3 credit was assigned.
+
+## Formal Pass 2B — scans1–10
+
+**COMPLETE / REVIEWED — 10/30**
+
+Independent lexical / historical-glyph reread from enlarged source pixels under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+
+- full 13-family set checked occurrence-by-occurrence where present;
+- source-text / lexical / historical-glyph corrections: **0**;
+- unresolved historical-glyph identities: **0**;
+- no global replacement or spelling modernization used;
+- representative confirmed families include `லை`, `ளை`, `றா`, `றொ`, `ணா`, `னா`, and `னை`;
+- scans1–10 remain `needs-review`.
 
 ## Formal Pass 2A — scans21–30
 
@@ -217,8 +230,16 @@ Only then may Part002 become active.
 
 ## Exact next activity
 
-Begin **formal Part001 Pass 2B scans1–10** in the next iteration.
+**Part001 Pass 2B scans11–20.**
 
-Pass 2B is an independent lexical / historical-glyph reread under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+- use the attached Part001 PDF only;
+- independently reread source text at enlarged/native pixels;
+- check all 13 historical-glyph families where present;
+- preserve source spelling and punctuation; do not normalize;
+- record every discrepancy or unresolved glyph explicitly;
+- keep reviewed pages `needs-review`;
+- update `PART_001_PASS2B_PROGRESS.md` and live controls;
+- commit and stop.
 
+Do not begin Pass 3.
 Do not begin Part002.

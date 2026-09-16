@@ -6,16 +6,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 
 | Part | Part page | Overall scan | Printed page | Page type / section | Status | Canonical record |
 |---:|---:|---:|:---:|---|---|---|
-| 001 | 1 | 1 | — | illustrated cover; Pass 2A reviewed; source display/author corrected | needs-review | `pages/0001-cover.md` |
-| 001 | 2 | 2 | — | half-title / front matter; Pass 2A reviewed | needs-review | `pages/0002-half-title.md` |
-| 001 | 3 | 3 | — | publisher / address; Pass 2A reviewed; `தமிழ்நாடு-இந்தியா` restored; false telephone placeholder removed | needs-review | `pages/0003-publisher-address.md` |
-| 001 | 4 | 4 | — | title page; Pass 2A reviewed; exact publisher imprint restored; copy-specific marks remain non-body | needs-review | `pages/0004-title-page.md` |
-| 001 | 5 | 5 | — | publication/bibliographic page; full printed block transcribed; Pass 2A reviewed | needs-review | `pages/0005-publication-details.md` |
-| 001 | 6 | 6 | — | `அணிந்துரை`; Pass 1 text-complete; Pass 2A reviewed; Pass 2B/3 pending | needs-review | `pages/0006-anindurai.md` |
-| 001 | 7 | 7 | — | `அணிந்துரை` continuation; Pass 1 text-complete; Pass 2A reviewed; Pass 2B/3 pending | needs-review | `pages/0007-anindurai-7.md` |
-| 001 | 8 | 8 | — | `அணிந்துரை` continuation; Pass 1 text-complete; Pass 2A reviewed; Pass 2B/3 pending | needs-review | `pages/0008-anindurai-8.md` |
-| 001 | 9 | 9 | — | `அணிந்துரை` continuation; Pass 1 text-complete; Pass 2A reviewed; Pass 2B/3 pending | needs-review | `pages/0009-anindurai-9.md` |
-| 001 | 10 | 10 | — | `பதிப்புரை`; Pass 1 text-complete; Pass 2A reviewed; Pass 2B/3 pending | needs-review | `pages/0010-pathippurai.md` |
+| 001 | 1 | 1 | — | illustrated cover; Pass 2A + Pass 2B reviewed; source display/author corrected | needs-review | `pages/0001-cover.md` |
+| 001 | 2 | 2 | — | half-title / front matter; Pass 2A + Pass 2B reviewed | needs-review | `pages/0002-half-title.md` |
+| 001 | 3 | 3 | — | publisher / address; Pass 2A + Pass 2B reviewed; `தமிழ்நாடு-இந்தியா` restored; false telephone placeholder removed | needs-review | `pages/0003-publisher-address.md` |
+| 001 | 4 | 4 | — | title page; Pass 2A + Pass 2B reviewed; exact publisher imprint restored; copy-specific marks remain non-body | needs-review | `pages/0004-title-page.md` |
+| 001 | 5 | 5 | — | publication/bibliographic page; full printed block transcribed; Pass 2A + Pass 2B reviewed | needs-review | `pages/0005-publication-details.md` |
+| 001 | 6 | 6 | — | `அணிந்துரை`; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0006-anindurai.md` |
+| 001 | 7 | 7 | — | `அணிந்துரை` continuation; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0007-anindurai-7.md` |
+| 001 | 8 | 8 | — | `அணிந்துரை` continuation; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0008-anindurai-8.md` |
+| 001 | 9 | 9 | — | `அணிந்துரை` continuation; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0009-anindurai-9.md` |
+| 001 | 10 | 10 | — | `பதிப்புரை`; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0010-pathippurai.md` |
 | 001 | 11 | 11 | — | epigraph / verse page; Pass 1 text-complete; Pass 2A reviewed; source short attribution dash confirmed; Pass 2B/3 pending | needs-review | `pages/0011-epigraph.md` |
 | 001 | 12 | 12 | — | secondary title / illustrated divider; Pass 1 text-complete; Pass 2A reviewed; Pass 2B/3 pending | needs-review | `pages/0012-title-divider.md` |
 | 001 | 13 | 13 | 2 | source-visible `தோரண வாயில்`; Pass 1 text-complete; Pass 2A reviewed; Pass 2B/3 pending | needs-review | `pages/0013-thorana-vayil.md` |
@@ -512,7 +512,8 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part001 Pass 1 text-complete: **30 / 30**
 - Part001 Pass 1 partial: **0 / 30**
 - Part001 formal Pass 2A: **COMPLETE — 30/30 reviewed**
-- Part001 formal Pass 2B / Pass 3: **NOT STARTED**
+- Part001 formal Pass 2B: **IN PROGRESS — 10/30 reviewed**
+- Part001 formal Pass 3: **NOT STARTED**
 - Part001 pages currently remain **needs-review / non-final**
 - audited outgoing boundary: **30→31 GENUINE CONTINUATION**
 - Part002 transcription: **BLOCKED until Part001 final closure**

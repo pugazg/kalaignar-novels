@@ -42,7 +42,7 @@ Current state:
 - Pass 1 text-complete — **30/30 — scans1–30**
 - Pass 1 partial — **0/30**
 - formal Pass 2A — **COMPLETE — 30/30 reviewed**
-- formal Pass 2B — **NOT STARTED**
+- formal Pass 2B — **IN PROGRESS — 10/30 reviewed (scans1–10)**
 - formal Pass 3 — **NOT STARTED**
 - Part audit — **NOT STARTED**
 - final status sync — **NOT STARTED**
@@ -56,6 +56,7 @@ Current state:
 Live trackers:
 - `works/payumpuli-pandaraka-vanniyan/PART_001_PASS1_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_001_PASS2A_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_001_PASS2B_PROGRESS.md`
 
 ## Historical preliminary work
 
@@ -117,13 +118,18 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Begin **formal Part001 Pass 2B scans1–10** in the next iteration.
+Formal Part001 Pass 2B is **IN PROGRESS — 10/30 reviewed**.
+
+Process **Part001 Pass 2B scans11–20**.
 
 - use the attached Part001 PDF only;
-- perform an independent lexical / historical-glyph reread under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+- independently reread every printed word from source pixels;
+- apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+- check all 13 reform-sensitive families where present, occurrence by occurrence;
+- preserve source spelling/punctuation and record any discrepancy explicitly;
 - keep pages `needs-review`;
-- update the Pass2B tracker and live controls;
+- update `PART_001_PASS2B_PROGRESS.md` and live controls;
 - commit and stop.
 
-Pass 2B has **not** been started in the Pass2A-closing iteration.
+Do not begin Pass 3 until whole-Part Pass 2B reaches 30/30.
 Do not begin Part002 transcription.
