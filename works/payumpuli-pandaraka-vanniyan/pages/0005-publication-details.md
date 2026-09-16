@@ -7,10 +7,10 @@ work: "payumpuli-pandaraka-vanniyan"
 section: "front-matter"
 page_type: "publication-page"
 status: "needs-review"
-visual_fidelity: "needs-review"
+visual_fidelity: "reviewed-with-hold"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual inspection of rendered source scan; T1; T2 independent re-read complete with source-legibility hold"
+transcription_method: "direct visual inspection of rendered source scan; T1; T2 independent re-read complete with source-legibility hold; T3 final source-fidelity review complete"
 ---
 
 ## Publication / bibliographic page
@@ -51,4 +51,11 @@ The four lines above are recorded here only as source-family identity already es
 - T2 source-review result: **COMPLETE WITH CARRIED SOURCE-LEGIBILITY HOLD**;
 - page remains `needs-review`.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 5; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: —; T1 COMPLETE; T2 COMPLETE WITH HOLD / needs-review -->
+## T3 final source-fidelity notes
+
+- the page function and separation of printed bibliographic matter from later library marking were re-confirmed;
+- the compact publication/bibliographic block is still not sufficiently legible in the available render for a trustworthy complete transcription;
+- no source-family metadata is substituted for unreadable page text;
+- T3 review is complete, but the page remains **needs-review** with a carried source-legibility hold.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 5; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: —; T1/T2/T3 REVIEW COMPLETE / needs-review -->
