@@ -86,11 +86,13 @@ The available rendered view reliably supports:
 
 It does **not** support a sufficiently reliable complete line-by-line transcription of the dense Tamil prose. The records therefore remain `partial`; no unreadable text has been reconstructed or guessed.
 
-Detailed checkpoints:
+Detailed checkpoint:
 - [`T1_BATCH_006_015.md`](T1_BATCH_006_015.md)
-- [`SOURCE_ACCESS_REVIEW_T1_006_015.md`](SOURCE_ACCESS_REVIEW_T1_006_015.md)
 
-A same-source official Tamil Digital Library access route was also checked. It confirms the exact source-family/edition identity, but did not expose a usable page-text layer or sufficiently detailed alternate rendering for exact Tamil transcription. No external wording was substituted.
+## Controlling-source clarification
+
+The user confirmed that the attached split PDFs are the Tamil Digital Library source and that the Wikisource copy is the same copy. Routine transcription therefore uses **only the attached PDFs**. No external-site lookup or mirror comparison is required unless the user explicitly requests it.
+
 
 ## Exact next activity
 
