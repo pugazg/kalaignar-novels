@@ -23,7 +23,7 @@ working_title: "Surulimalai"
 
 "Aiyyo! What's wrong in saying all that?... What are those villagers spending so much money on, thambi? Too much drinking?"
 
-"They spend on things worse than drink. Someone comes along, says something, cheats them and takes their money. One day they hold a kumbabhishekam. The next they conduct two festivals!"
+"They spend on things worse than drink. Someone comes along, says something, cheats them and takes their money. They hold a kumbabhishekam every day. They conduct two festivals!"
 
 "Thambi, thambi—what? Is performing kumbabhishekam and holding festivals bad spending? What are you saying, thambi? Now I can see why those villagers drove you out! Aiyaiyo... are you against the gods? That's why even our temple bull chased you!"
 
