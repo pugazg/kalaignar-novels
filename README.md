@@ -10,8 +10,10 @@
 - working source: **16 split PDFs — all supplied / registered**;
 - split design: **Parts001–015 = 30 pages each; Part016 = 27 pages**;
 - global range coverage: **1–477, no gap / overlap**;
-- canonical page records: **0/477**;
-- T1 / T2 / T3: **NOT STARTED**;
+- canonical page records: **5/477**;
+- T1: **5/477 COMPLETE through scan5**;
+- T2: **0/477 — NEXT scans1–5**;
+- T3: **0/477**;
 - assembled Tamil: **BLOCKED**;
 - English: **BLOCKED**.
 
@@ -31,7 +33,7 @@ Active controls:
 - `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
 - `works/payumpuli-pandaraka-vanniyan/audit.md`
 
-Exact next action: **Part 001 T1 — overall scans1–5 / Part-001 local pages1–5, then synchronize controls, commit, and stop before T2.**
+Exact next action: **Part 001 T2 — overall scans1–5 / Part-001 local pages1–5; independently re-read the five T1 records, resolve only source-supported readings, synchronize controls, commit, and stop before T3.**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 
