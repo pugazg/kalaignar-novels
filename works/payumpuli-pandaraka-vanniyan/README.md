@@ -39,8 +39,8 @@ Current Part001 state:
 - visual fidelity — **30/30 verified; 0 needs-review**
 - unresolved status exceptions — **0**
 - documentation sync — **PASS / COMPLETE**
-- Tamil archival-ready — **BLOCKED**
-- assembled Tamil — **BLOCKED**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **NEXT / UNBLOCKED**
 - English translation/review — **BLOCKED**
 - release/readiness report — **BLOCKED**
 - final Part001 closure — **BLOCKED**
@@ -115,6 +115,7 @@ Only after Pass 1 reaches **30/30 text-complete** does formal Pass 2A begin from
 - [`PART_001_AUDIT.md`](PART_001_AUDIT.md)
 - [`PART_001_FINAL_STATUS_SYNC.md`](PART_001_FINAL_STATUS_SYNC.md)
 - [`PART_001_DOCUMENTATION_SYNC.md`](PART_001_DOCUMENTATION_SYNC.md)
+- [`PART_001_TAMIL_ARCHIVAL_READY.md`](PART_001_TAMIL_ARCHIVAL_READY.md)
 - [`SOURCE_INTAKE.md`](SOURCE_INTAKE.md)
 - [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md)
 - [`metadata/source.md`](metadata/source.md)
@@ -126,10 +127,8 @@ Historical preliminary checkpoint records are retained for provenance but do not
 
 ## Exact next activity
 
-Part001 documentation synchronization is **PASS / COMPLETE**.
+Part001 Tamil archival-ready checkpoint is **PASS / CLOSED**.
 
-Perform the **Part001 Tamil archival-ready checkpoint**.
+Begin the **Part001 assembled Tamil construction + audit** stage, using only the verified canonical `pages/` records as the normal authority and preserving source-page provenance and verified cross-page joins.
 
-All 30 Part001 page records are already final `verified` for Tamil text and visual fidelity. Do not reopen transcription, final status synchronization, or the source PDF in that checkpoint unless a new discrepancy is explicitly raised.
-
-Do **not** begin assembled Tamil, English, release/readiness, final Part closure, or Part002 transcription yet.
+Do **not** begin English translation/review, release/readiness, final Part closure, or Part002 transcription yet.

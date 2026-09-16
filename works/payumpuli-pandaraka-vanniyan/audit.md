@@ -350,8 +350,26 @@ The documentation/control layer has been reconciled to the closed final-status s
 
 Historical gate sections above remain records of the state at those earlier closures; they are not the live frontier.
 
+## Tamil archival-ready checkpoint — PASS / CLOSED
+
+The complete Part001 Tamil evidence chain is now closed for normal workflow purposes:
+
+- canonical page records — **30/30 present**;
+- Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**;
+- visual fidelity — **30/30 verified; 0 needs-review**;
+- unresolved historical-glyph identities — **0**;
+- unresolved Pass3 visual/structural questions — **0**;
+- Part audit — **PASS / COMPLETE**;
+- final metadata/status synchronization — **PASS / CLOSED**;
+- documentation synchronization — **PASS / COMPLETE**;
+- Tamil archival-ready — **PASS / CLOSED**;
+- 30→31 — **GENUINE CONTINUATION / retained**;
+- Part002 — **TRANSCRIPTION BLOCKED**.
+
+This checkpoint changes no canonical page record and does not reopen source comparison.
+
 ## Exact next activity
 
-Perform the **Part001 Tamil archival-ready checkpoint**.
+Proceed with **Part001 assembled Tamil construction + audit**.
 
-Do not begin assembled Tamil, English, release/readiness, final Part closure, or Part002 transcription.
+Do not begin English, release/readiness, final Part closure, or Part002 transcription.

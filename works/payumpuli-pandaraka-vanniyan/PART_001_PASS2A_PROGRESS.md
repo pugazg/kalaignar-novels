@@ -38,5 +38,7 @@ Pass 2A remains **CLOSED / COMPLETE**.
 - documentation synchronization — **PASS / COMPLETE**
 - final Tamil textual status — **30/30 verified; 0 partial; 0 needs-review**
 - final visual fidelity — **30/30 verified; 0 needs-review**
-- exact next gate — **Part001 Tamil archival-ready checkpoint**
+- Tamil archival-ready checkpoint — **PASS / CLOSED**
+- assembled Tamil — **NEXT / UNBLOCKED**
+- exact next gate — **Part001 assembled Tamil construction + audit**
 - Part002 transcription — **BLOCKED**

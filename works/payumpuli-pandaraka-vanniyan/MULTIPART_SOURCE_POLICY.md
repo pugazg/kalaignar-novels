@@ -107,11 +107,13 @@ Authoritative work-specific guide:
 - Part001 visual fidelity: **30/30 verified; 0 needs-review**
 - Part001 unresolved status exceptions: **0**
 - Part001 documentation synchronization: **PASS / COMPLETE**
+- Part001 Tamil archival-ready checkpoint: **PASS / CLOSED**
+- Part001 assembled Tamil: **NEXT / UNBLOCKED**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 English/release: **BLOCKED**
 - Part002 transcription: **BLOCKED until Part001 final closure**
 - split-boundary classifications: **1 / 15 audited — 30→31 GENUINE CONTINUATION**
-- exact active gate: **Part001 Tamil archival-ready checkpoint**
+- exact active gate: **Part001 assembled Tamil construction + audit**
 
 ## Batch-size policy
 

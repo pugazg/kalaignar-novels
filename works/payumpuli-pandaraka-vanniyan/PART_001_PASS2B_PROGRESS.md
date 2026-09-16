@@ -68,8 +68,8 @@ Therefore:
 
 ## Exact next activity
 
-Formal Part001 Pass 3 is **COMPLETE — 30/30 reviewed**. Part001 Part audit is **PASS / COMPLETE**. Final metadata/status synchronization is **PASS / CLOSED** and documentation synchronization is **PASS / COMPLETE**. Final Tamil textual status is **30/30 verified**, visual fidelity is **30/30 verified**, and unresolved status exceptions are **0**.
+The Part001 Tamil archival-ready checkpoint is **PASS / CLOSED**. This Pass tracker remains historically closed and is not reopened.
 
-Next gate: **Part001 Tamil archival-ready checkpoint**.
+The live next stage is **Part001 assembled Tamil construction + audit**.
 
-Do not begin Part002 transcription, assembled Tamil, English, release/readiness, or final Part closure in this gate.
+Do not begin English, release/readiness, final Part closure, or Part002 transcription.

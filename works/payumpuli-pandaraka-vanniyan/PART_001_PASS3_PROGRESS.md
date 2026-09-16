@@ -60,8 +60,8 @@ No page is promoted to final `verified` status at this stage.
 
 ## Exact next activity
 
-Part001 Part audit is **PASS / COMPLETE**. Final metadata/status synchronization is **PASS / CLOSED** and documentation synchronization is **PASS / COMPLETE**. Final Tamil textual status is **30/30 verified**, visual fidelity is **30/30 verified**, and unresolved status exceptions are **0**.
+The Part001 Tamil archival-ready checkpoint is **PASS / CLOSED**. This Pass tracker remains historically closed and is not reopened.
 
-Perform the **Part001 Tamil archival-ready checkpoint**.
+The live next stage is **Part001 assembled Tamil construction + audit**.
 
-Keep assembled Tamil, English, release/readiness, final Part closure and Part002 transcription blocked until their later gates.
+Do not begin English, release/readiness, final Part closure, or Part002 transcription.

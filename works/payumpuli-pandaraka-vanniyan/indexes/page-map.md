@@ -519,6 +519,8 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part001 visual fidelity: **30/30 verified; 0 needs-review**
 - Part001 final status sync: **PASS / CLOSED**
 - Part001 documentation sync: **PASS / COMPLETE**
+- Part001 Tamil archival-ready: **PASS / CLOSED**
+- Part001 assembled Tamil: **NEXT / UNBLOCKED**
 - audited outgoing boundary: **30→31 GENUINE CONTINUATION**
 - Part002 transcription: **BLOCKED until Part001 final closure**
 
@@ -526,8 +528,8 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Part001 documentation synchronization is **PASS / COMPLETE**.
+Part001 Tamil archival-ready is **PASS / CLOSED**.
 
-Perform the **Part001 Tamil archival-ready checkpoint**.
+Proceed with **Part001 assembled Tamil construction + audit**. The canonical page map remains the provenance authority; do not alter page mapping or canonical page status while building the readable assembled layer.
 
-Do not begin assembled Tamil, English, release/readiness, final Part closure, or Part002 transcription.
+Do not begin English, release/readiness, final Part closure, or Part002 transcription.

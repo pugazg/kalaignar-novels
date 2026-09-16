@@ -78,8 +78,8 @@ Part001 Pass 1 is now **COMPLETE — 30/30 text-complete**.
 
 ## Exact next activity
 
-Pass 1 remains closed. Pass 2A, Pass 2B and Pass 3 are **COMPLETE — 30/30**; Part audit is **PASS / COMPLETE**; final status synchronization is **PASS / CLOSED**; documentation synchronization is **PASS / COMPLETE**.
+The Part001 Tamil archival-ready checkpoint is **PASS / CLOSED**. This Pass tracker remains historically closed and is not reopened.
 
-The exact next gate is the **Part001 Tamil archival-ready checkpoint**.
+The live next stage is **Part001 assembled Tamil construction + audit**.
 
-Do not begin assembled Tamil, English, release/readiness, final Part closure, or Part002 transcription.
+Do not begin English, release/readiness, final Part closure, or Part002 transcription.

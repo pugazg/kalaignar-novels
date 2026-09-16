@@ -75,6 +75,8 @@ Current Pass-1 state:
 - visual fidelity: **30/30 verified; 0 needs-review**;
 - unresolved status exceptions: **0**;
 - documentation synchronization: **PASS / COMPLETE**;
+- Tamil archival-ready checkpoint: **PASS / CLOSED**;
+- assembled Tamil: **NEXT / UNBLOCKED**;
 - outgoing boundary **30→31**: **GENUINE CONTINUATION / AUDITED** using Part002 local1 as a boundary witness only.
 
 Authoritative tracker:
@@ -83,4 +85,4 @@ Authoritative tracker:
 - `PART_001_PASS2B_PROGRESS.md`
 - `PART_001_PASS3_PROGRESS.md`
 
-**Next:** perform the **Part001 Tamil archival-ready checkpoint**. Do not begin assembled Tamil, English, release/readiness, final Part closure, or Part002 transcription until their later gates.
+**Next:** proceed with **Part001 assembled Tamil construction + audit** from the verified canonical page records. Do not begin English, release/readiness, final Part closure, or Part002 transcription until their later gates.

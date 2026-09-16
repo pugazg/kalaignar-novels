@@ -50,8 +50,8 @@ Current state:
 - visual fidelity — **30/30 verified; 0 needs-review**
 - unresolved status exceptions — **0**
 - documentation sync — **PASS / COMPLETE**
-- Tamil archival-ready — **BLOCKED**
-- assembled Tamil — **BLOCKED**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **NEXT / UNBLOCKED**
 - English — **BLOCKED**
 - release/readiness — **BLOCKED**
 - final Part closure — **BLOCKED**
@@ -64,6 +64,7 @@ Live trackers:
 - `works/payumpuli-pandaraka-vanniyan/PART_001_AUDIT.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_001_FINAL_STATUS_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_001_DOCUMENTATION_SYNC.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_001_TAMIL_ARCHIVAL_READY.md`
 
 ## Historical preliminary work
 
@@ -125,12 +126,11 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Documentation synchronization is **PASS / COMPLETE**.
+Part001 Tamil archival-ready is **PASS / CLOSED**.
 
-Perform the **Part001 Tamil archival-ready checkpoint**.
+Proceed with **Part001 assembled Tamil construction + audit**:
+- build readable Part-level Tamil sections only from the audited canonical page records;
+- preserve source-page provenance and already-verified cross-page joins;
+- audit the assembled layer against canonical `pages/` before closing the assembled Tamil checkpoint.
 
-- use `PART_001_FINAL_STATUS_SYNC.md` and `PART_001_DOCUMENTATION_SYNC.md` as the closure authorities;
-- confirm the already-verified 30/30 Tamil and 30/30 visual state is archival-ready without changing page wording or structure;
-- keep assembled Tamil, English, release/readiness, final Part closure and Part002 transcription blocked until their later gates.
-
-Do not begin Part002 transcription.
+Keep English, release/readiness, final Part closure and Part002 transcription blocked until their later gates.
