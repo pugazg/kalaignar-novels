@@ -63,7 +63,7 @@ Pooncholai, wearing the appearance of widowhood and tears in her eyes, at first 
 
 They explained to her the state of mind of both Singaram and Kannan.
 
-"Both of them are competing to marry Ponmani. If this is allowed to go on, suddenly even Ponmani's life—or what the source calls her chastity—could be endangered. That is why the villagers have come together and, according to Surulimalai's condition, arranged a bull-taming contest between the two," the panchayat elder explained.
+"Both of them are competing to marry Ponmani. If this is allowed to go on, suddenly even Ponmani's life—or even her chastity—could be endangered. That is why the villagers have come together and, according to Surulimalai's condition, arranged a bull-taming contest between the two," the panchayat elder explained.
 
 While they were speaking, Ponmani ran in and began shouting that she did not wish to marry anyone and that she did not want marriage at all at that time.
 
