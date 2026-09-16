@@ -6,7 +6,7 @@
 
 - work directory: `works/payumpuli-pandaraka-vanniyan/`;
 - source PDF: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்.pdf` — **not committed**;
-- physical source extent: **150 scans**;
+- physical source extent: **477 scans**;
 - file size: **456,236,783 bytes**;
 - source format: **image-only scanned PDF**;
 - SHA-256: **PENDING**;
@@ -16,7 +16,8 @@
   - publisher — **ராக்போர்ட் பப்ளிகேஷன்ஸ்**;
   - edition — **முதல் பதிப்பு, 1991**;
 - opening structure visually reviewed: **scans1–20**;
-- canonical page records: **0 / 150**;
+- attachment preview/index currently exposes only the first **150 pages**; repository accounting remains **477**, not 150;
+- canonical page records: **0 / 477**;
 - T1 / T2 / T3: **NOT STARTED**;
 - terminal boundary: **NOT YET AUDITED**;
 - assembled Tamil: **BLOCKED**;
