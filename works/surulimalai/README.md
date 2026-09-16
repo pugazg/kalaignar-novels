@@ -23,7 +23,7 @@
 - terminal/full-198-page reconciliation: **COMPLETE / PASS**;
 - Tamil source-archival phase: **CLOSED**;
 - assembled Tamil: **COMPLETE / PASS — 26/26 section files VERIFIED**;
-- English translation: **IN PROGRESS — Batches E1–E2 SOURCE-CHECKED / COMPLETE; 6/26 English section files**.
+- English translation: **IN PROGRESS — Batches E1–E3 SOURCE-CHECKED / COMPLETE; 13/26 English section files; coverage through scan113 before chapter15**.
 
 Canonical authority is always the source scan. No OCR reading, contextual guess, spelling modernization or inferred printed-page number may override the source pixels.
 
@@ -79,6 +79,6 @@ English progress: [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md).
 
 ## Exact next activity
 
-Perform **English Batch E3 — Chapters 8–14**.
+Perform **English Batch E4 — Chapters 15–21**.
 
-The source-visible chapter sequence jumps from **5 to 8**. Do not create chapters 6 or 7. Canonical `pages/` remain controlling Tamil; PASSED `sections/` remain the continuous-reading aid.
+Batches E1–E3 are SOURCE-CHECKED / COMPLETE. The source-visible chapter sequence remains **1–5, 8–27**; chapters 6 or 7 must not be created. Canonical `pages/` remain controlling Tamil; PASSED `sections/` remain the continuous-reading aid.
