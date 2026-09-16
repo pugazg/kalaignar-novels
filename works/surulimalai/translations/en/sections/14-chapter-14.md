@@ -121,7 +121,7 @@ That question gnawed at Aravazhi.
 
 Aravazhi answered:
 
-"At every place Kannan was disappointed, and the people who trusted him were disappointed too. At last they came to the coconut tree with the two trunks. Kannan looked for the mark he had made.
+"At every place Kannan was thwarted, and the people who trusted him were deceived too. At last they came to the coconut tree with the two trunks. Kannan looked for the mark he had made.
 
 <!-- source boundary: scan 111 → scan 112 -->
 
