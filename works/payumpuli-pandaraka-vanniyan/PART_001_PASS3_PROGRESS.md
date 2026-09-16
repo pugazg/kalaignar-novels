@@ -31,8 +31,8 @@ Pages remain `needs-review` until the whole-Part verification/audit chain closes
 
 ## Current accounting
 
-- Pass 3 reviewed: **10/30 — scans1–10**
-- remaining: **20/30 — scans11–30**
+- Pass 3 reviewed: **20/30 — scans1–20**
+- remaining: **10/30 — scans21–30**
 - Part audit: **NOT STARTED**
 
 ## Batch history
@@ -40,22 +40,27 @@ Pages remain `needs-review` until the whole-Part verification/audit chain closes
 - scans1–10 — **COMPLETE / REVIEWED**
   - textual corrections introduced by Pass 3: **0**
   - unresolved visual/structural questions: **0**
+- scans11–20 — **COMPLETE / REVIEWED**
+  - textual corrections introduced by Pass 3: **0**
+  - unresolved visual/structural questions: **0**
   - all ten records remain `needs-review`
 
-Durable visual/structural findings:
-- scan1 — colour illustrated cover; three-line title, central warrior/flag artwork, two-line author block;
-- scan2 — mostly blank half-title; title lower left, author lower right;
-- scan3 — publisher block lower left; copy-specific library stamp above it;
-- scan4 — heavy ornate title-page frame; publisher emblem/imprint; overlapping stamps/handwriting/R-shaped copy mark separated as non-body;
-- scan5 — centered `நூல் அளவை` heading; two-column bibliographic layout; large library stamp/handwritten marks separated as non-body;
-- scans6–9 — common ornate `அணிந்துரை` frame; heading appears only on scan6; scans7–9 are continuations;
-- scan9 — displayed theme triad, three-line closing salutation, split location/date and signature footer;
-- scan10 — stylized `பதிப்புரை` heading; no ornate enclosing frame; split location/date and publisher footer.
+Durable visual/structural findings for scans11–20:
+- scan11 — framed epigraph page; centered eight-line verse block; right-set attribution; no printed page number;
+- scan12 — full-page illustrated divider with oversized title, central warrior/flag emblem, author credit near foot; no printed page number;
+- scan13 — ornate `தோரண வாயில்` chapter display with scrollwork/medallion; printed page2;
+- scan14 — framed continuation page; printed page3; quotation continues to scan15;
+- scan15 — memorial-stone photograph inset; body wraps around it; printed page4;
+- scan16 — displayed four-line verse block at foot; printed page5;
+- scan17 — large warrior illustration with separate stacked caption; narrative resumes below; printed page6;
+- scan18 — framed prose continuation; printed page7; page-end fragment continues to scan19;
+- scan19 — portrait photograph upper-left; prose wraps; six-line physical-description display block; printed page8;
+- scan20 — short closing prose, facsimile signature and warrior/flag emblem; printed page9; closes `தோரண வாயில்`.
 
 ## Exact next activity
 
-Process **Part001 Pass 3 scans11–20** as the next 10-scan visual/structural verification batch.
+Process **Part001 Pass 3 scans21–30** as the final 10-scan visual/structural verification batch.
 
-Do not begin scans21–30 in the same iteration unless explicitly requested.
-Do not begin Part audit before Pass 3 reaches **30/30**.
+If Pass 3 reaches **30/30**, synchronize Pass3 closure and **STOP**. Do not begin Part audit in the same iteration unless explicitly requested.
+
 Do not begin Part002 transcription.

@@ -67,7 +67,7 @@ Current Pass-1 accounting:
 | verified | **0/30 formal Part-level final status** |
 | formal Pass 2A | **COMPLETE — 30/30 reviewed** |
 | formal Pass 2B | **COMPLETE — 30/30 reviewed** |
-| formal Pass 3 | **IN PROGRESS — 10/30 reviewed** |
+| formal Pass 3 | **IN PROGRESS — 20/30 reviewed** |
 | Part audit | **NOT STARTED** |
 | final status sync | **NOT STARTED** |
 | documentation sync | **NOT STARTED** |
@@ -116,6 +116,23 @@ All 30 pages remain non-final / `needs-review`. The next gate is formal **Pass 2
 - scan11 verse lineation and attribution were preserved;
 - scan12 illustration and scan15 memorial-stone photograph remain separate visual/non-body matter;
 - no formal Pass 2A / Pass 2B / Pass 3 credit was assigned.
+
+## Formal Pass 3 — scans11–20
+
+**COMPLETE / REVIEWED — cumulative 20/30**
+
+Whole-page visual/structural verification completed directly against source images.
+
+- headings/display hierarchy checked;
+- printed page numbers and page furniture checked;
+- memorial-stone photograph, warrior illustration/caption, portrait photograph, facsimile signature and warrior/flag emblem classified;
+- body-vs-non-body separation checked;
+- scan14→15, 15→16, 18→19 and 19→20 continuation states reconfirmed;
+- textual corrections introduced by Pass 3: **0**;
+- unresolved visual/structural questions: **0**;
+- all scans11–20 remain `needs-review`.
+
+Durable findings include the framed epigraph on scan11, illustrated divider on scan12, ornate `தோரண வாயில்` chapter display on scan13, memorial-stone photograph on scan15, displayed verse on scan16, warrior illustration/caption on scan17, portrait + six-line description block on scan19, and facsimile/signature + emblem closure on scan20.
 
 ## Formal Pass 3 — scans1–10
 
@@ -279,7 +296,7 @@ Only then may Part002 become active.
 
 ## Exact next activity
 
-**Part001 Pass 3 scans11–20.**
+**Part001 Pass 3 scans21–30.**
 
 - use the attached Part001 PDF only;
 - verify whole-page visual/structural fidelity;
@@ -287,5 +304,5 @@ Only then may Part002 become active.
 - update `PART_001_PASS3_PROGRESS.md` and live controls;
 - commit and stop.
 
-Do not begin Part audit.
+If Pass 3 reaches 30/30, close Pass 3 and stop. Do not begin Part audit in the same iteration.
 Do not begin Part002.

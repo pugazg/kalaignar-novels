@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed; formal Part001 Pass 2B lexical/historical-glyph reread reviewed"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed; formal Part001 Pass 2B lexical/historical-glyph reread reviewed; formal Part001 Pass 3 visual/structural review completed"
 ---
 
 # தோரண வாயில்
@@ -63,4 +63,16 @@ Illustration caption printed beside the figure:
 - Pass 2B result: **REVIEWED / PASS**;
 - page remains `needs-review` pending whole-Part Pass 2B closure, Pass 3, Part audit and final status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 17; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 17; PASS 2A + PASS 2B REVIEWED / needs-review -->
+## Formal Part001 Pass 3 visual / structural review
+
+- a large framed warrior illustration occupies the upper half of the page;
+- its printed caption is set separately in a narrow stacked block to the left of the illustration and remains non-body printed matter;
+- narrative prose resumes below the illustration;
+- printed page number `6` is centered in the dark circular footer marker.
+- body-vs-non-body separation, displayed hierarchy, page furniture and continuation state were checked directly against the whole-page source image;
+- canonical source text required **0 textual corrections** in Pass 3;
+- unresolved visual/structural questions: **0**;
+- Pass 3 result for this scan: **REVIEWED / PASS**;
+- page remains `needs-review` until whole-Part Pass 3, Part audit and final metadata/status synchronization are complete.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 17; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 17; PASS 2A + PASS 2B + PASS 3 REVIEWED / needs-review -->

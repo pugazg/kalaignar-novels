@@ -16,16 +16,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 001 | 8 | 8 | — | `அணிந்துரை` continuation; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 reviewed | needs-review | `pages/0008-anindurai-8.md` |
 | 001 | 9 | 9 | — | `அணிந்துரை` continuation; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 reviewed | needs-review | `pages/0009-anindurai-9.md` |
 | 001 | 10 | 10 | — | `பதிப்புரை`; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 reviewed | needs-review | `pages/0010-pathippurai.md` |
-| 001 | 11 | 11 | — | epigraph / verse page; Pass 1 text-complete; Pass 2A reviewed; source short attribution dash confirmed; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0011-epigraph.md` |
-| 001 | 12 | 12 | — | secondary title / illustrated divider; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0012-title-divider.md` |
-| 001 | 13 | 13 | 2 | source-visible `தோரண வாயில்`; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0013-thorana-vayil.md` |
-| 001 | 14 | 14 | 3 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; `கட்டப் பொம்மன்` + punctuation corrected; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0014-thorana-vayil.md` |
-| 001 | 15 | 15 | 4 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0015-thorana-vayil.md` |
-| 001 | 16 | 16 | 5 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; `1815 ஆம் ஆண்டு வரையில்` corrected; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0016-thorana-vayil.md` |
-| 001 | 17 | 17 | 6 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0017-thorana-vayil.md` |
-| 001 | 18 | 18 | 7 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; source `கெளரவம்` / `கெளரவிக்` restored; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0018-thorana-vayil.md` |
-| 001 | 19 | 19 | 8 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; source `பிரேமதேசா`, `கெள...`, `குறிப்பிடிருப்பது` retained; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0019-thorana-vayil.md` |
-| 001 | 20 | 20 | 9 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; `செ. யோகநாதன்` + facsimile separation corrected; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0020-thorana-vayil.md` |
+| 001 | 11 | 11 | — | epigraph / verse page; Pass 1 text-complete; Pass 2A reviewed; source short attribution dash confirmed; Pass 2B reviewed; Pass 3 reviewed | needs-review | `pages/0011-epigraph.md` |
+| 001 | 12 | 12 | — | secondary title / illustrated divider; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 reviewed | needs-review | `pages/0012-title-divider.md` |
+| 001 | 13 | 13 | 2 | source-visible `தோரண வாயில்`; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 reviewed | needs-review | `pages/0013-thorana-vayil.md` |
+| 001 | 14 | 14 | 3 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; `கட்டப் பொம்மன்` + punctuation corrected; Pass 2B reviewed; Pass 3 reviewed | needs-review | `pages/0014-thorana-vayil.md` |
+| 001 | 15 | 15 | 4 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 reviewed | needs-review | `pages/0015-thorana-vayil.md` |
+| 001 | 16 | 16 | 5 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; `1815 ஆம் ஆண்டு வரையில்` corrected; Pass 2B reviewed; Pass 3 reviewed | needs-review | `pages/0016-thorana-vayil.md` |
+| 001 | 17 | 17 | 6 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 reviewed | needs-review | `pages/0017-thorana-vayil.md` |
+| 001 | 18 | 18 | 7 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; source `கெளரவம்` / `கெளரவிக்` restored; Pass 2B reviewed; Pass 3 reviewed | needs-review | `pages/0018-thorana-vayil.md` |
+| 001 | 19 | 19 | 8 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; source `பிரேமதேசா`, `கெள...`, `குறிப்பிடிருப்பது` retained; Pass 2B reviewed; Pass 3 reviewed | needs-review | `pages/0019-thorana-vayil.md` |
+| 001 | 20 | 20 | 9 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; `செ. யோகநாதன்` + facsimile separation corrected; Pass 2B reviewed; Pass 3 reviewed | needs-review | `pages/0020-thorana-vayil.md` |
 | 001 | 21 | 21 | 10 | chapter 2 opening `ஒரு இரகசியக் கடிதம்!`; Pass 1 text-complete; Pass 2A reviewed; `கண்டி அரசும்` corrected; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0021-thorana-vayil.md` |
 | 001 | 22 | 22 | 11 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; Pass 2A reviewed; source hyphen punctuation restored; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0022-thorana-vayil.md` |
 | 001 | 23 | 23 | 12 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; Pass 2A reviewed; hyphen spacing corrected; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0023-thorana-vayil.md` |
@@ -513,7 +513,7 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part001 Pass 1 partial: **0 / 30**
 - Part001 formal Pass 2A: **COMPLETE — 30/30 reviewed**
 - Part001 formal Pass 2B: **COMPLETE — 30/30 reviewed**
-- Part001 formal Pass 3: **IN PROGRESS — 10/30 reviewed**
+- Part001 formal Pass 3: **IN PROGRESS — 20/30 reviewed**
 - Part001 pages currently remain **needs-review / non-final**
 - audited outgoing boundary: **30→31 GENUINE CONTINUATION**
 - Part002 transcription: **BLOCKED until Part001 final closure**
@@ -524,6 +524,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 Part001 Pass 1 is **COMPLETE — 30/30 text-complete**.
 
-Process **formal Part001 Pass 3 scans11–20**.
+Process **formal Part001 Pass 3 scans21–30**.
 
 Do not begin Part002 transcription.
