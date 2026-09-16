@@ -19,12 +19,13 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - English files: **13/26**
 - translated: Introduction + Chapters1–5 + Chapters8–14
 - source coverage: **scans5–113 before chapter15**
-- E3 provenance comments: **46/46 represented**
+- Batch E3 provenance comments: **46/46 represented**
 - unresolved English holds: **0**
 - canonical Tamil changes: **0**
 - chapter6/7 English files: **none**
 
 Active controls:
+
 - `translations/en/GLOSSARY.md`
 - `translations/en/TRANSLATION_PLAN.md`
 - `translations/en/PROGRESS.md`
@@ -42,14 +43,15 @@ Perform **Batch E4 — Chapters 15–21**:
 4. translate `sections/18-chapter-18.md` — scans136–144;
 5. translate `sections/19-chapter-19.md` — scans144–151;
 6. translate `sections/20-chapter-20.md` — scans151–156;
-7. translate `sections/21-chapter-21.md` — scans156–160 before chapter22;
+7. translate `sections/21-chapter-21.md` — scans156–160;
 8. source-check the batch against PASSED Tamil / canonical authority;
 9. update glossary, progress, English README/section inventory, audit, handover, and next-chat prompt.
 
 Translation rules:
+
 - canonical `pages/` control Tamil meaning and wording;
 - PASSED `sections/` provide continuous-reading structure;
 - preserve speaker agency, rhetoric, dialogue register, source oddities, chapter transitions and physical provenance;
+- keep reported religious/supernatural/rationalist claims attributed to their source speakers/narrator framing;
 - do not silently modify Tamil;
-- preserve source-visible numbering **1–5, 8–27**; do not create chapters 6 or 7;
-- maintain E3 locks on reported possession / folklore versus Aravazhi's in-story explanations; do not add outside adjudication inside translation prose.
+- preserve the source-visible jump **chapter5 → chapter8**; do not create chapters 6 or 7.
