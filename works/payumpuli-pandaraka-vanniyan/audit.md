@@ -25,8 +25,8 @@
 | per-Part intake records | **PASS — 16/16 created** |
 | split boundary source availability | **PASS — both sides available for all 15 boundaries** |
 | split boundary classification | **PENDING direct visual audit** |
-| canonical page records | **0/477** |
-| T1 | **NOT STARTED** |
+| canonical page records | **5/477** |
+| T1 | **5/477 COMPLETE through scan5** |
 | T2 | **NOT STARTED** |
 | T3 | **NOT STARTED** |
 | terminal page function | **NOT YET AUDITED** |
@@ -71,6 +71,18 @@ All fifteen Part boundaries have source witnesses available:
 
 A boundary may be marked CLEAN or GENUINE CONTINUATION only after comparing its two adjacent rendered pages. Split location itself is not evidence of a textual break.
 
+
+## T1 Batch 001–005
+
+Status: **COMPLETE / 5 of 5 canonical records created**.
+
+- scans **1–5** / Part001 local pages **1–5**;
+- page records: **5 needs-review / 0 verified**;
+- printed page numbers confirmed on scans1–5: **none**;
+- later library/stamp/handwritten marks kept separate from printed publication text;
+- T1 unresolved source fields: **scan3 telephone digits; scan5 full small-print publication block**;
+- detailed checkpoint: [`T1_BATCH_001_005.md`](T1_BATCH_001_005.md).
+
 ## Historical-glyph / transcription gate
 
 All page work follows:
@@ -83,6 +95,10 @@ No correction may be justified by grammar/context alone.
 
 ## Exact next activity
 
-**Part 001 T1 — overall scans1–5 / local pages1–5.**
+**Part 001 T2 — overall scans1–5 / local pages1–5.**
 
-Create five page records by direct visual reading, set `status: "needs-review"`, preserve split provenance, synchronize controls, commit, and stop before T2.
+T1 scans1–5 is complete with five canonical `needs-review` records. T2 must independently re-read all five pages, explicitly check historical glyph identity where applicable, and revisit:
+- scan3 — unresolved small telephone-number digits;
+- scan5 — unresolved compact publication/bibliographic block.
+
+Synchronize controls, commit, and stop before T3.
