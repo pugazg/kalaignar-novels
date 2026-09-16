@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed; formal Part001 Pass 2B lexical/historical-glyph reread reviewed"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed; formal Part001 Pass 2B lexical/historical-glyph reread reviewed; formal Part001 Pass 3 visual/structural review completed"
 ---
 
 # ஒரு இரகசியக் கடிதம்!
@@ -59,4 +59,15 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 complet
 - Pass 2B result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass 3, Part audit and final status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 27; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 27; அச்சுப் பக்கம்: 16; PASS 2A + PASS 2B REVIEWED / needs-review -->
+## Formal Part001 Pass 3 visual / structural review
+
+- continuous prose inside the rounded frame; no repeated heading or illustration;
+- the addressed letter line at the foot remains ordinary printed dialogue text rather than a separate facsimile object;
+- printed page number `16` is centered in the dark circular footer marker.
+- body-vs-non-body separation, displayed hierarchy, page furniture and continuation state were checked directly against the whole-page source image;
+- canonical source text required **0 textual corrections** in Pass 3;
+- unresolved visual/structural questions: **0**;
+- Pass 3 result for this scan: **REVIEWED / PASS**;
+- page remains `needs-review` pending Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 27; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 27; அச்சுப் பக்கம்: 16; PASS 2A + PASS 2B + PASS 3 REVIEWED / needs-review -->

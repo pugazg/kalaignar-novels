@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS**
+**PASS 3 — COMPLETE / 30/30 REVIEWED**
 
 Prerequisites:
 - Part001 Pass 1 — **COMPLETE / 30/30 text-complete**
@@ -18,7 +18,7 @@ Scope:
 
 Pass 3 is the whole-Part **visual / structural verification** layer.
 
-For each scan verify directly against source pixels:
+For every scan the following were checked directly against source pixels:
 - headings and displayed-text hierarchy;
 - paragraph/block structure and meaningful lineation;
 - printed page numbers and page furniture;
@@ -27,40 +27,40 @@ For each scan verify directly against source pixels:
 - body-vs-non-body separation;
 - page-boundary continuation state and structural joins.
 
-Pages remain `needs-review` until the whole-Part verification/audit chain closes.
+Pages remain `needs-review` until Part audit and final metadata/status synchronization close.
 
-## Current accounting
+## Final accounting
 
-- Pass 3 reviewed: **20/30 — scans1–20**
-- remaining: **10/30 — scans21–30**
+- Pass 3 reviewed: **30/30 — scans1–30**
+- remaining: **0/30**
+- textual corrections introduced by Pass 3: **0**
+- unresolved visual/structural questions: **0**
 - Part audit: **NOT STARTED**
 
 ## Batch history
 
 - scans1–10 — **COMPLETE / REVIEWED**
-  - textual corrections introduced by Pass 3: **0**
-  - unresolved visual/structural questions: **0**
 - scans11–20 — **COMPLETE / REVIEWED**
-  - textual corrections introduced by Pass 3: **0**
-  - unresolved visual/structural questions: **0**
-  - all ten records remain `needs-review`
+- scans21–30 — **COMPLETE / REVIEWED**
 
-Durable visual/structural findings for scans11–20:
-- scan11 — framed epigraph page; centered eight-line verse block; right-set attribution; no printed page number;
-- scan12 — full-page illustrated divider with oversized title, central warrior/flag emblem, author credit near foot; no printed page number;
-- scan13 — ornate `தோரண வாயில்` chapter display with scrollwork/medallion; printed page2;
-- scan14 — framed continuation page; printed page3; quotation continues to scan15;
-- scan15 — memorial-stone photograph inset; body wraps around it; printed page4;
-- scan16 — displayed four-line verse block at foot; printed page5;
-- scan17 — large warrior illustration with separate stacked caption; narrative resumes below; printed page6;
-- scan18 — framed prose continuation; printed page7; page-end fragment continues to scan19;
-- scan19 — portrait photograph upper-left; prose wraps; six-line physical-description display block; printed page8;
-- scan20 — short closing prose, facsimile signature and warrior/flag emblem; printed page9; closes `தோரண வாயில்`.
+Durable visual/structural findings for scans21–30:
+- scan21 — ornate chapter-opening banner `ஒரு இரகசியக் கடிதம்!`, separate chapter-number ornament `2`, centered `1798 ஆம் ஆண்டு!` dateline, printed page10;
+- scans22–23 — framed prose continuations, printed pages11–12, genuine cross-page continuation preserved;
+- scan24 — distinct four-line `வானம் பொழியுது ...` song block, printed page13;
+- scans25–27 — framed prose continuations, printed pages14–16; scan25→26 open quotation structure preserved;
+- scan28 — ornate chapter-opening banner `வழியில் கண்ட வயோதிகர்!`, separate chapter-number ornament `3`, printed page17;
+- scans29–30 — framed prose continuations, printed pages18–19;
+- scan30 — Part001 terminal physical page remains structurally mid-sentence at `அவனுக்கு ஒரே மகிழ்ச்சி,`; 30→31 remains **GENUINE CONTINUATION**.
+
+## Pass 3 closure
+
+**PASS — 30/30 physical scans visually/structurally reviewed.**
+
+No page is promoted to final `verified` status at this stage.
 
 ## Exact next activity
 
-Process **Part001 Pass 3 scans21–30** as the final 10-scan visual/structural verification batch.
+Begin **Part001 Part audit**.
 
-If Pass 3 reaches **30/30**, synchronize Pass3 closure and **STOP**. Do not begin Part audit in the same iteration unless explicitly requested.
-
+Do not begin the Part audit in this Pass3-closing iteration.
 Do not begin Part002 transcription.

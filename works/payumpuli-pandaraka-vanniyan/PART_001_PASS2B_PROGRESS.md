@@ -31,7 +31,7 @@ Pages remain `needs-review`. Final `verified` status is not assigned during Pass
 - Pass 2B reviewed: **30/30 — scans1–30**
 - remaining: **0/30**
 - unresolved historical-glyph identities: **0**
-- Pass 3: **IN PROGRESS — 20/30 reviewed**
+- Pass 3: **COMPLETE — 30/30 reviewed**
 
 ## Batch history
 
@@ -68,7 +68,7 @@ Therefore:
 
 ## Exact next activity
 
-Formal Part001 Pass 3 is **IN PROGRESS — 20/30 reviewed**. Next batch: **scans21–30**.
+Formal Part001 Pass 3 is **COMPLETE — 30/30 reviewed**. Next gate: **Part001 Part audit**.
 
 Do not begin Pass 3 in this Pass2B-closing iteration.
 Do not begin Part002 transcription.

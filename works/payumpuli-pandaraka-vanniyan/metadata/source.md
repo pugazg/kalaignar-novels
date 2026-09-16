@@ -135,7 +135,7 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - Part001 Pass 1 partial: **0/30**
 - formal Pass 2A: **COMPLETE — 30/30 reviewed**
 - formal Pass 2B: **COMPLETE — 30/30 reviewed**
-- formal Pass 3: **IN PROGRESS — 20/30 reviewed**
+- formal Pass 3: **COMPLETE — 30/30 reviewed**
 - Part001 Tamil archival-ready / assembled Tamil / English / release-readiness / final closure: **BLOCKED**
 - Part002 source: **REGISTERED / TRANSCRIPTION BLOCKED**
 - audited outgoing boundary: **30→31 GENUINE CONTINUATION**
@@ -155,6 +155,6 @@ Durable rule:
 
 Part001 Pass 1 is **COMPLETE — 30/30 text-complete**.
 
-Process **formal Part001 Pass 3 scans21–30** using the attached Part001 PDF only.
+Begin **Part001 Part audit**.
 
 Part002 transcription remains blocked.

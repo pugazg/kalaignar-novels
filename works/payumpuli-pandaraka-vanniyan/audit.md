@@ -67,7 +67,7 @@ Current Pass-1 accounting:
 | verified | **0/30 formal Part-level final status** |
 | formal Pass 2A | **COMPLETE — 30/30 reviewed** |
 | formal Pass 2B | **COMPLETE — 30/30 reviewed** |
-| formal Pass 3 | **IN PROGRESS — 20/30 reviewed** |
+| formal Pass 3 | **COMPLETE — 30/30 reviewed** |
 | Part audit | **NOT STARTED** |
 | final status sync | **NOT STARTED** |
 | documentation sync | **NOT STARTED** |
@@ -116,6 +116,28 @@ All 30 pages remain non-final / `needs-review`. The next gate is formal **Pass 2
 - scan11 verse lineation and attribution were preserved;
 - scan12 illustration and scan15 memorial-stone photograph remain separate visual/non-body matter;
 - no formal Pass 2A / Pass 2B / Pass 3 credit was assigned.
+
+## Formal Pass 3 — scans21–30
+
+**COMPLETE / REVIEWED — cumulative 30/30**
+
+Whole-page visual/structural verification completed directly against source images.
+
+- headings/display hierarchy checked;
+- printed page numbers and page furniture checked;
+- chapter-opening furniture on scans21 and 28 classified;
+- scan24 four-line song block confirmed as distinct displayed text;
+- cross-page continuation states at 22→23, 23→24, 24→25 and 25→26 reconfirmed;
+- scan30 terminal Part001 structure remains mid-sentence and is compatible with the previously audited 30→31 GENUINE CONTINUATION boundary;
+- textual corrections introduced by Pass 3: **0**;
+- unresolved visual/structural questions: **0**;
+- scans21–30 remain `needs-review`.
+
+## Part001 Pass 3 closure
+
+**PASS — 30/30 visual/structural reviews complete; 0 unresolved Pass3 questions.**
+
+No page is promoted to final `verified` status until the Part audit and final metadata/status synchronization close.
 
 ## Formal Pass 3 — scans11–20
 
@@ -296,13 +318,9 @@ Only then may Part002 become active.
 
 ## Exact next activity
 
-**Part001 Pass 3 scans21–30.**
+**Part001 Part audit.**
 
-- use the attached Part001 PDF only;
-- verify whole-page visual/structural fidelity;
-- keep reviewed pages `needs-review`;
-- update `PART_001_PASS3_PROGRESS.md` and live controls;
-- commit and stop.
+Audit the closed Pass1 / Pass2A / Pass2B / Pass3 evidence across all 30 canonical page records, including provenance, page map, section structure, printed-page mapping, boundary state and unresolved-item accounting.
 
-If Pass 3 reaches 30/30, close Pass 3 and stop. Do not begin Part audit in the same iteration.
+Do not perform final metadata/status synchronization until the Part audit passes.
 Do not begin Part002.

@@ -43,7 +43,7 @@ Current state:
 - Pass 1 partial — **0/30**
 - formal Pass 2A — **COMPLETE — 30/30 reviewed**
 - formal Pass 2B — **COMPLETE — 30/30 reviewed**
-- formal Pass 3 — **IN PROGRESS — 20/30 reviewed (scans1–20)**
+- formal Pass 3 — **COMPLETE — 30/30 reviewed**
 - Part audit — **NOT STARTED**
 - final status sync — **NOT STARTED**
 - documentation sync — **NOT STARTED**
@@ -119,15 +119,13 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Formal Part001 Pass 3 is **IN PROGRESS — 20/30 reviewed**.
+Part001 Pass 3 is **COMPLETE — 30/30 reviewed**.
 
-Process **Part001 Pass 3 scans21–30**.
+Begin **Part001 Part audit**.
 
-- use the attached Part001 PDF only;
-- verify headings/display hierarchy, paragraph/block structure, page furniture, illustrations/captions, stamps/handwriting/facsimile matter, body-vs-non-body separation and page-boundary state;
-- keep pages `needs-review`;
-- update `PART_001_PASS3_PROGRESS.md` and live controls;
+- audit all 30 canonical page records against the closed Pass1 / Pass2A / Pass2B / Pass3 evidence;
+- verify page-map/provenance, section structure, printed-page mapping, source-boundary state and unresolved-item accounting;
+- do not promote final page status until the audit passes and final metadata/status synchronization is performed;
 - commit and stop.
 
-If Pass 3 reaches 30/30, close Pass 3 and stop. Do not begin Part audit in the same iteration unless explicitly requested.
 Do not begin Part002 transcription.
