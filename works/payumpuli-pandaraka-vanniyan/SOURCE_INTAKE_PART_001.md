@@ -55,19 +55,16 @@ The canonical `scan_page` remains the overall scan number **1–30**.
 
 ## Current gate
 
-Part 001 source split: **SUPPLIED / REGISTERED**.
+Part001 is the **only active content Part**.
 
-Opening batch 001–005:
-- overall scans **1–5** / local pages **1–5** — **T1/T2/T3 REVIEW COMPLETE**;
-- verified: **2** (scans1–2);
-- needs-review: **3** (scans3–5);
-- carried holds: scan3 telephone digits; scan4 copy-specific handwritten/stamp detail; scan5 compact publication block.
+Current Pass-1 state:
+- canonical records present: **30/30**;
+- text-complete: **5/30 — scans1–5**;
+- partial: **25/30 — scans6–30**;
+- formal Pass 2A / Pass 2B / Pass 3: **NOT STARTED**;
+- outgoing boundary **30→31**: **GENUINE CONTINUATION / AUDITED** using Part002 local1 as a boundary witness only.
 
-User-requested batch size from now on: **10 overall scans per iteration**.
+Authoritative tracker:
+- `PART_001_PASS1_PROGRESS.md`
 
-T1 inventory through Part001 end:
-- scans6–30 have canonical records;
-- scans6–30 remain `partial` where complete printed text is not yet entered;
-- outgoing boundary **30→31** is audited as **GENUINE CONTINUATION**.
-
-**Next global frontier:** overall scans **36–45** in Part002. Full-text backlog for partial pages remains mandatory before T2/T3 closure.
+**Next:** complete Part001 Pass 1 scans **6–15**. Do not begin Part002 transcription until Part001 final closure after Tamil archival-ready, assembled Tamil, English, release/readiness and final closure gates.
