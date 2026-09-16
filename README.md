@@ -13,7 +13,7 @@
 - canonical page records: **5/477**;
 - T1: **5/477 COMPLETE through scan5**;
 - T2: **5 / 477 COMPLETE through scan5**;
-- T3: **0/477**;
+- T3: **5 / 477 COMPLETE through scan5**;
 - assembled Tamil: **BLOCKED**;
 - English: **BLOCKED**.
 
