@@ -77,12 +77,14 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 
 - split registration: **16 / 16 COMPLETE**
 - physical coverage by split ranges: **477 / 477**
-- canonical page records: **0 / 477**
+- canonical page records: **5 / 477**
 - active frontier: **Part 001**
-- T1/T2/T3: **NOT STARTED**
+- T1: **5 / 477 COMPLETE through scan5**
+- T2: **0 / 477**
+- T3: **0 / 477**
 
 ## Exact next activity
 
-**Part 001 T1 — overall scans 1–5 / local pages 1–5.**
+**Part 001 T2 — overall scans 1–5 / local pages 1–5.**
 
-Create five `needs-review` canonical records, synchronize controls, commit, and stop before T2.
+Independently re-read the five T1 records against the source, apply the historical-glyph checklist, revisit scan3's unresolved telephone digits and scan5's unresolved small-print publication block, synchronize controls, commit, and stop before T3.
