@@ -13,7 +13,7 @@
 ### Source identity
 
 - filename: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்.pdf`
-- physical scans: **150**
+- physical scans: **477**
 - file size: **456,236,783 bytes**
 - format: **image-only scanned PDF**
 - SHA-256: **PENDING**
@@ -26,7 +26,9 @@
 
 - source registration: **COMPLETE**
 - opening source review: **scans1–20 COMPLETE for intake classification**
-- canonical page records: **0 / 150**
+- preview/index limit: **150 rendered pages**; this is not the physical source extent
+- scans151–477: **UNINSPECTED in current preview, not absent**
+- canonical page records: **0 / 477**
 - T1: **NOT STARTED**
 - T2: **NOT STARTED**
 - T3: **NOT STARTED**
