@@ -24,15 +24,15 @@
 | canonical numbering rule | **PASS — overall scan_page never resets** |
 | per-Part intake records | **PASS — 16/16 created** |
 | split boundary source availability | **PASS — both sides available for all 15 boundaries** |
-| split boundary classification | **PENDING direct visual audit** |
-| canonical page records | **25/477** |
+| split boundary classification | **1/15 audited — 30→31 GENUINE CONTINUATION** |
+| canonical page records | **35/477** |
 | T1 complete | **5/477 — scans1–5** |
-| T1 partial | **20/477 — scans6–25** |
+| T1 partial | **30/477 — scans6–35** |
 | T2 reviewed | **5/477 — scans1–5** |
 | T3 reviewed | **5/477 — scans1–5** |
 | verified | **2/477** |
 | needs-review | **3/477** |
-| partial | **20/477** |
+| partial | **30/477** |
 | terminal page function | **NOT YET AUDITED** |
 | assembled Tamil | **BLOCKED** |
 | English | **BLOCKED** |
@@ -110,6 +110,29 @@ This does **not** waive the source-first gates:
 - assembled Tamil/English remain blocked;
 - final archival closure requires the backlog to be resolved.
 
+## T1 Batch 026–035
+
+Status: **PARTIAL INVENTORY / 10 of 10 canonical records created**.
+
+- overall scans **26–35**;
+- Part001 local pages **26–30**;
+- Part002 local pages **1–5**;
+- section remains `தோரண வாயில்`;
+- visible printed pages recorded **15–24**;
+- canonical page/provenance capture: **COMPLETE**;
+- complete line-by-line Tamil transcription: **PENDING**;
+- current state: **10 partial**;
+- detailed checkpoint: [`T1_BATCH_026_035.md`](T1_BATCH_026_035.md).
+
+### Boundary 30→31
+
+Direct source comparison result: **GENUINE CONTINUATION**.
+
+- scan30 printed page **19**;
+- scan31 printed page **20**;
+- body flow continues across Part001→Part002;
+- no artificial split-boundary break is introduced.
+
 ## Historical-glyph / transcription gate
 
 All page work follows:
@@ -118,19 +141,17 @@ All page work follows:
 - `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`
 - `MULTIPART_SOURCE_POLICY.md`
 
-T2 cannot begin for scans6–15 until their T1 text capture is complete.
+T2 cannot begin for any partial page until its T1 text capture is complete.
 
 ## Exact next activity
 
-Perform **T1 source inventory scans26–35**.
+Perform **T1 source inventory scans36–45 / Part002 local6–15**.
 
-- scans26–30: Part001 local26–30;
-- scans31–35: Part002 local1–5;
-- inspect and classify split boundary **30→31** from both attached pages;
-- create ten canonical records with exact split provenance;
+- create ten canonical records with exact Part002 provenance;
 - record only visibly printed page numbers;
+- preserve section/page function and non-body marks;
 - keep text-incomplete records `partial`;
 - synchronize controls and commit;
-- stop before the next 10-scan inventory batch.
+- stop before scans46–55.
 
-Full-text transcription backlog remains scans6–25.
+Full-text transcription backlog remains scans6–35.
