@@ -63,7 +63,7 @@ Singaram closed his eyes. He did so to hide that his eyes had become pools. But 
 
 He covered his face with his hands and began weeping again.
 
-"Son! I die happily because I trust that you will carry it out. That family must be wiped out root and branch. Do not show the slightest mercy because there are children in it! Do not hesitate even for a moment because the villagers may condemn you! Do not fear that the law may stop you! Never forget that a father's word is greater than the village and the law that rules it!
+"Son! I die happily because I trust that you will carry it out. That family must be wiped out root and branch. Do not show the slightest mercy because there are children in it! Do not hesitate even for a moment because the villagers may condemn you! Do not fear that the law may stop you!\n\n<!-- source boundary: scan 146 → scan 147 -->\n\nNever forget that a father's word is greater than the village and the law that rules it!
 
 "Do not care who tries to stop what you are going to do! Son! Even if I myself were somehow to return to life and try to stop you, you must not listen!
 
