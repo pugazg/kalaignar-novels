@@ -69,9 +69,11 @@ Status: **PARTIAL / 10 of 10 canonical records created**.
   - scan13 → **2**
   - scan14 → **3**
   - scan15 → **4**
-- full line-by-line Tamil transcription: **PENDING**
+- full line-by-line Tamil transcription: **IN PROGRESS**
 - current state: **10 partial**
-- no unreadable Tamil text has been reconstructed from context, metadata, OCR, web text or another edition.
+- source condition: **normal / controlling source remains attached Part001 PDF**
+- previous “dense/source-resolution-blocked” characterization: **RETRACTED**
+- no missing canonical text is reconstructed from context, metadata, OCR, web text or another edition.
 
 Detailed checkpoint:
 - [`T1_BATCH_006_015.md`](T1_BATCH_006_015.md)
@@ -100,6 +102,6 @@ T2 cannot begin for scans6–15 until their T1 text capture is complete.
 
 Remain on **T1 scans6–15 / Part001 local pages6–15**.
 
-Complete the full line-by-line Tamil transcription of the ten `partial` records from a sufficiently detailed source rendering. Promote them to `needs-review` only when the complete printed text has been captured. Then synchronize controls and commit T1 completion.
+Complete the full line-by-line Tamil transcription of the ten `partial` records directly from the attached Part001 PDF. Promote them to `needs-review` only when the complete printed text has been captured. Then synchronize controls and commit T1 completion.
 
 Do **not** advance to T2 or scans16–25 before this gate is closed.
