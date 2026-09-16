@@ -6,11 +6,11 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 
 | Part | Part page | Overall scan | Printed page | Page type / section | Status | Canonical record |
 |---:|---:|---:|:---:|---|---|---|
-| 001 | 1 | 1 | — | illustrated cover | needs-review | `pages/0001-cover.md` |
-| 001 | 2 | 2 | — | half-title / front matter | needs-review | `pages/0002-half-title.md` |
-| 001 | 3 | 3 | — | publisher / address; telephone digits unresolved at T1 | needs-review | `pages/0003-publisher-address.md` |
-| 001 | 4 | 4 | — | title page / publisher imprint / library marks separated | needs-review | `pages/0004-title-page.md` |
-| 001 | 5 | 5 | — | publication/bibliographic page; small-print block unresolved at T1 | needs-review | `pages/0005-publication-details.md` |
+| 001 | 1 | 1 | — | illustrated cover | verified | `pages/0001-cover.md` |
+| 001 | 2 | 2 | — | half-title / front matter | verified | `pages/0002-half-title.md` |
+| 001 | 3 | 3 | — | publisher / address; telephone digits unresolved | needs-review | `pages/0003-publisher-address.md` |
+| 001 | 4 | 4 | — | title page; copy-specific handwritten/stamp detail unresolved | needs-review | `pages/0004-title-page.md` |
+| 001 | 5 | 5 | — | publication/bibliographic page; compact printed block unresolved | needs-review | `pages/0005-publication-details.md` |
 | 001 | 6 | 6 | — | `அணிந்துரை` | observed | — |
 | 001 | 7 | 7 | — | `அணிந்துரை` | observed | — |
 | 001 | 8 | 8 | — | `அணிந்துரை` | observed | — |
@@ -510,8 +510,10 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - visually classified at intake: **20**
 - canonical page records: **5 / 477**
 - T1: **5 / 477**
-- T2: **0 / 477**
-- T3: **0 / 477**
+- T2: **5 / 477**
+- T3: **5 / 477**
+- verified pages: **2 / 477**
+- needs-review pages: **3 / 477**
 - split-boundary classifications: **pending direct audit**
 - physical endpoint: **overall scan 477**; page function remains pending direct visual audit
 
@@ -519,4 +521,4 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Perform **T2 independent historical-glyph / direct-text re-read for overall scans1–5 / Part-001 local pages1–5**. Revisit scan3 small telephone digits and scan5 small-print publication block; keep all five `needs-review` until later gates.
+Perform **T1 overall scans6–15 / Part001 local pages6–15** as the first 10-page iteration. Create ten canonical `needs-review` records, then synchronize controls and stop before T2.
