@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual transcription from rendered source scan; T1"
+transcription_method: "direct visual transcription from rendered source scan; T1; T2 independent re-read complete"
 ---
 
 வெளியிட்டாளர்:  
@@ -34,4 +34,14 @@ S-6 திரு. வி. க. தொழிற்பேட்டை
 - library mark kept separate from printed text;
 - page remains `needs-review` pending T2/T3.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 3; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: —; T1 COMPLETE WITH ONE UNRESOLVED SMALL-PRINT FIELD / needs-review -->
+## T2 independent historical-glyph notes
+
+- complete scan independently re-read against the rendered source;
+- historical-glyph-sensitive families were checked where legible;
+- `சென்னை` was re-checked for the `னை` family and retained;
+- the publisher/address reading required **0** source-supported T1 corrections;
+- the small telephone-number digits remain unresolved because the available rendering does not support a certain reading;
+- no digits were inferred from metadata or external sources;
+- page remains `needs-review`.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 3; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: —; T1/T2 COMPLETE / needs-review -->
