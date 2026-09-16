@@ -1,6 +1,6 @@
 # English Translation Plan — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **PLANNING COMPLETE / DRAFTING NOT STARTED**
+Status: **E1 SOURCE-CHECKED / COMPLETE — E2 NEXT**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -155,8 +155,8 @@ Batches follow the already-verified Tamil section boundaries.
 
 | Batch | Tamil assembled coverage | Scans | English state |
 |---|---|---:|---|
-| **E1** | sections 00–04: front matter + `அணிந்துரை` + `பதிப்புரை` + epigraph + title divider | **1–12** | **NEXT / NOT STARTED** |
-| **E2** | section 05: `தோரண வாயில்` | **13–20** | BLOCKED |
+| **E1** | sections 00–04: front matter + `அணிந்துரை` + `பதிப்புரை` + epigraph + title divider | **1–12** | **SOURCE-CHECKED / COMPLETE** |
+| **E2** | section 05: `தோரண வாயில்` | **13–20** | **NEXT / NOT STARTED** |
 | **E3** | section 06: `ஒரு இரகசியக் கடிதம்!` | **21–27** | BLOCKED |
 | **E4** | section 07: `வழியில் கண்ட வயோதிகர்!` | **28–30** | BLOCKED |
 
@@ -231,8 +231,14 @@ It cannot authorize a canonical Tamil correction.
 
 A genuine Tamil-fidelity issue discovered during English work must be recorded and routed back through an explicit Tamil reopening decision rather than silently fixed through translation.
 
+## E1 closure
+
+E1 — sections00–04 / scans1–12 — is **SOURCE-CHECKED / COMPLETE** with **0 unresolved holds** and **0 canonical Tamil edits**.
+
+Detailed closure: `E1_SOURCE_CHECK.md`.
+
 ## Exact next activity
 
-**English Draft Batch E1 — sections 00–04 / scans1–12.**
+**English Draft Batch E2 — `தோரண வாயில்` / scans13–20**, followed by its E2 source-check.
 
-Do not begin E2 until E1 draft + source-check closes.
+Do not begin E3 until E2 draft + source-check closes.

@@ -521,9 +521,9 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part001 documentation sync: **PASS / COMPLETE**
 - Part001 Tamil archival-ready: **PASS / CLOSED**
 - Part001 assembled Tamil: **PASS / CLOSED — 8/8 section files VERIFIED**
-- Part001 English planning: **COMPLETE**
-- Part001 English translated files: **0/8**
-- Part001 English next: **E1 / sections00–04 / scans1–12**
+- Part001 English E1: **SOURCE-CHECKED / COMPLETE**
+- Part001 English translated/source-checked files: **5/8**
+- Part001 English next: **E2 / `தோரண வாயில்` / scans13–20**
 - audited outgoing boundary: **30→31 GENUINE CONTINUATION**
 - Part002 transcription: **BLOCKED until Part001 final closure**
 
@@ -531,8 +531,8 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-English planning/setup is **COMPLETE**.
+English E1 is **SOURCE-CHECKED / COMPLETE**.
 
-Proceed with **English Draft Batch E1 — sections00–04 / scans1–12**. The canonical page map remains source-provenance authority and must not be altered by English drafting.
+Proceed with **English Draft Batch E2 — `தோரண வாயில்` / scans13–20**. The canonical page map remains source-provenance authority and must not be altered by English drafting.
 
 Part002 transcription remains blocked.

@@ -92,9 +92,9 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part001 documentation synchronization: **PASS / COMPLETE**
 - Part001 Tamil archival-ready checkpoint: **PASS / CLOSED**
 - Part001 assembled Tamil: **PASS / CLOSED — 8/8 section files VERIFIED**
-- Part001 English planning: **COMPLETE**
-- Part001 English translated files: **0/8**
-- Part001 English next: **E1 / sections00–04 / scans1–12**
+- Part001 English E1: **SOURCE-CHECKED / COMPLETE**
+- Part001 English translated/source-checked files: **5/8**
+- Part001 English next: **E2 / `தோரண வாயில்` / scans13–20**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 assembled Tamil: **BLOCKED**
 - Part001 English / release-readiness: **BLOCKED**
@@ -113,6 +113,6 @@ Authoritative live trackers:
 
 ## Exact next activity
 
-Part001 English planning/setup is **COMPLETE**.
+English E1 is **SOURCE-CHECKED / COMPLETE**.
 
-Proceed with **English Draft Batch E1 — sections00–04 / scans1–12**. Part002 remains source-registered / transcription-blocked until Part001 final closure.
+Proceed with **English Draft Batch E2 — `தோரண வாயில்` / scans13–20**. Part002 remains source-registered / transcription-blocked until Part001 final closure.

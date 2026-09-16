@@ -91,6 +91,6 @@ Validation result:
 
 Part001 Tamil archival-ready is already **PASS / CLOSED**.
 
-English translation planning/setup is now **COMPLETE**. The exact next maintained activity is **English Draft Batch E1 — sections00–04 / scans1–12**, followed by its source-check.
+English E1 is now **SOURCE-CHECKED / COMPLETE** with **5/8** Part001 English section files translated/source-checked and **0 unresolved holds**. The exact next maintained activity is **English Draft Batch E2 — `தோரண வாயில்` / scans13–20**, followed by its source-check.
 
 Part002 transcription remains blocked until Part001 completes English, release/readiness and final Part closure.

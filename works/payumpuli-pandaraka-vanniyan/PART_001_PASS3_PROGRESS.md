@@ -64,8 +64,8 @@ The Part001 Tamil archival-ready checkpoint is **PASS / CLOSED**. This Pass trac
 
 Part001 assembled Tamil is now **PASS / CLOSED — 8/8 section files VERIFIED**.
 
-English translation planning/setup is now **COMPLETE** with translated files **0/8**.
+English E1 is now **SOURCE-CHECKED / COMPLETE** with translated/source-checked files **5/8** and unresolved holds **0**.
 
-The live next stage is **English Draft Batch E1 — sections00–04 / scans1–12**.
+The live next stage is **English Draft Batch E2 — `தோரண வாயில்` / scans13–20**.
 
 Do not begin English, release/readiness, final Part closure, or Part002 transcription.

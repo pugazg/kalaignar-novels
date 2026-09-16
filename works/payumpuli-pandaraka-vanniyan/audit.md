@@ -383,22 +383,21 @@ The Part001 derived Tamil reading layer is now closed:
 
 Durable validation: `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`.
 
-## English planning/setup — COMPLETE
+## English E1 — SOURCE-CHECKED / COMPLETE
 
-The Part001 English control workspace is now established:
+The Part001 English E1 batch is now closed:
 
-- `translations/en/README.md` — **PLANNED / NOT YET DRAFTED**;
-- `translations/en/TRANSLATION_PLAN.md` — **COMPLETE**;
-- `translations/en/GLOSSARY.md` — **INITIAL / LOCKED FOR E1 START**;
-- `translations/en/PROGRESS.md` — **PLANNING COMPLETE / DRAFTING NOT STARTED**;
-- Tamil assembled files — **8/8 VERIFIED**;
-- English translated files — **0/8**;
-- unresolved English holds — **0**;
+- E1 English files — **5/5 created**;
+- E1 source-checked files — **5/5**;
+- Part001 English translated files — **5/8**;
+- Part001 English source-checked files — **5/8**;
+- unresolved E1 holds — **0**;
 - canonical Tamil edits caused by English — **0**;
-- Part002 content imported — **0**.
+- Part002 content imported — **0**;
+- durable closure — `translations/en/E1_SOURCE_CHECK.md`.
 
 ## Exact next activity
 
-Perform **English Draft Batch E1 — sections00–04 / scans1–12**, then complete its source-check before E2 begins.
+Perform **English Draft Batch E2 — `தோரண வாயில்` / scans13–20**, then complete its E2 source-check before E3 begins.
 
-Do not begin E2, release/readiness, final Part closure, or Part002 transcription until E1 closes.
+Do not begin E3, glossary reconciliation, editorial review, release/readiness, final Part closure, or Part002 transcription until E2 closes.

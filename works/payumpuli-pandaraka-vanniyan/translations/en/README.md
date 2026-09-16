@@ -4,16 +4,17 @@ English translation workspace for Part001 of **பாயும்புலி �
 
 ## Current status
 
-**PLANNED / NOT YET DRAFTED**
+**E1 SOURCE-CHECKED / COMPLETE — E2 NEXT**
 
 - Tamil canonical authority — **30/30 verified**
 - assembled Tamil reading layer — **8/8 VERIFIED / PASS / CLOSED**
-- English translated section files — **0/8**
-- English source-checked section files — **0/8**
+- English translated section files — **5/8**
+- English source-checked section files — **5/8**
 - unresolved English holds — **0**
 - canonical Tamil changes caused by English — **0**
 - Part002 content imported — **0**
-- exact next activity — **E1 draft / sections00–04 / scans1–12**
+- E1 — **SOURCE-CHECKED / COMPLETE**
+- exact next activity — **E2 draft / `தோரண வாயில்` / scans13–20**
 
 ## Authority
 
@@ -30,6 +31,7 @@ No published, web, remembered or standard English translation is used as authori
 - `TRANSLATION_PLAN.md` — workflow, fidelity and batch rules
 - `GLOSSARY.md` — initial source-derived English handling
 - `PROGRESS.md` — live English frontier
+- `E1_SOURCE_CHECK.md` — E1 closure record
 
 Later maintained controls will include:
 
@@ -53,7 +55,7 @@ The English layer will eventually represent all **8** verified Part001 Tamil ass
 | `06-oru-iragasiyak-kaditham.md` | 21–27 | E3 |
 | `07-vazhiyil-kanda-vayothigar.md` | 28–30 | E4 |
 
-There are currently **no English translated section files**. The planning gate does not create prose drafts.
+English translated/source-checked section files now present: **5/8** — the complete E1 set covering scans1–12.
 
 ## Part boundary
 
@@ -67,6 +69,6 @@ Scan31 is Part002 and must not be imported or translated in Part001. English mus
 
 ## Exact next activity
 
-**English Draft Batch E1 — sections 00–04 / scans1–12.**
+**English Draft Batch E2 — `தோரண வாயில்` / scans13–20**, followed by its source-check.
 
-E1 source-check must close before E2 begins.
+E3 remains blocked until E2 closes.

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part001 English E1 Draft + Source-Check
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part001 English E2 Draft + Source-Check
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -11,26 +11,26 @@ Read first, in this order:
 3. `works/payumpuli-pandaraka-vanniyan/translations/en/GLOSSARY.md`
 4. `works/payumpuli-pandaraka-vanniyan/translations/en/PROGRESS.md`
 5. `works/payumpuli-pandaraka-vanniyan/translations/en/README.md`
-6. `works/payumpuli-pandaraka-vanniyan/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
-7. `works/payumpuli-pandaraka-vanniyan/sections/README.md`
-8. `works/payumpuli-pandaraka-vanniyan/PART_001_TAMIL_ARCHIVAL_READY.md`
+6. `works/payumpuli-pandaraka-vanniyan/translations/en/E1_SOURCE_CHECK.md`
+7. `works/payumpuli-pandaraka-vanniyan/sections/05-thorana-vayil.md`
+8. `works/payumpuli-pandaraka-vanniyan/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 9. `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
 10. root `HANDOVER.md`
 
 ## Current authoritative state
 
 - Tamil canonical pages — **30/30 verified**
-- visual fidelity — **30/30 verified**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 8/8 VERIFIED**
 - English planning/setup — **COMPLETE**
-- English translated files — **0/8**
-- English source-checked files — **0/8**
+- E1 — **SOURCE-CHECKED / COMPLETE**
+- English translated files — **5/8**
+- English source-checked files — **5/8**
 - unresolved English holds — **0**
 - canonical Tamil edits caused by English — **0**
 - Part002 transcription — **BLOCKED**
 
-English authority hierarchy:
+English authority hierarchy remains:
 
 1. canonical `pages/` — controlling Tamil;
 2. PASSED `sections/` — normal continuous reading layer;
@@ -38,73 +38,94 @@ English authority hierarchy:
 
 Do not use published, web, remembered or standard English translations as authority.
 
-## Exact next activity — E1 draft + source-check
+## Exact next activity — E2 draft + source-check
 
-Process **E1 only**.
+Process **E2 only**.
 
-E1 source coverage:
+E2 source:
 
-- `sections/00-front-matter.md` — scans1–5
-- `sections/01-anindurai.md` — scans6–9
-- `sections/02-pathippurai.md` — scan10
-- `sections/03-epigraph.md` — scan11
-- `sections/04-title-divider.md` — scan12
+`works/payumpuli-pandaraka-vanniyan/sections/05-thorana-vayil.md`
 
-Create the corresponding English files under:
+Coverage:
 
-`works/payumpuli-pandaraka-vanniyan/translations/en/sections/`
-
-Recommended file names:
-
-1. `00-front-matter.md`
-2. `01-foreword.md`
-3. `02-publishers-note.md`
-4. `03-epigraph.md`
-5. `04-title-divider.md`
-
-Each English file must carry source-section/source-scan provenance in front matter.
-
-## Translation safeguards
-
-- translate from the verified project Tamil only;
-- preserve paragraph order, display hierarchy and verse lineation where meaningful;
-- preserve names, source titles, offices and place names according to the locked glossary;
-- preserve source rhetoric and attribution; do not turn quoted claims into project assertions;
-- do not silently modernize or fact-correct source wording;
-- do not add explanatory historical/geographical context absent from the source;
-- if an epigraph/verse line cannot be securely rendered from project Tamil alone, retain the Tamil temporarily and record an English hold instead of guessing;
-- canonical Tamil must not change during English work.
-
-## E1 source-check
-
-After drafting all five E1 files, source-check them in the same gate against the corresponding PASSED Tamil assembled sections and canonical pages as needed.
+- overall scans **13–20**
+- printed pages **2–9**
+- source section — `தோரண வாயில்`
 
 Create:
 
-`works/payumpuli-pandaraka-vanniyan/translations/en/E1_SOURCE_CHECK.md`
+`works/payumpuli-pandaraka-vanniyan/translations/en/sections/05-thorana-vayil.md`
 
-The E1 source-check must verify:
+Use the existing English front-matter pattern:
 
-1. complete coverage of sections00–04 / scans1–12;
+- `language: "en"`
+- `translation_status: "source-checked"` only after the source-check passes
+- `batch: "E2"`
+- source section/scans/canonical-source provenance
+- working title retained
+
+## Translation safeguards
+
+- translate from verified project Tamil only;
+- preserve paragraph order and meaningful displayed structure;
+- preserve source quotations and quoted historical/political claims as attributed source material;
+- preserve names, places, offices and source-facing spellings according to `GLOSSARY.md`;
+- do not modernize or fact-correct source claims;
+- do not add external history, biography, geography or political interpretation;
+- retain source-facing literary/cultural terms when the glossary calls for it;
+- preserve the audited cross-page continuations;
+- do not alter canonical Tamil.
+
+E2 contains source quotations, public-figure names and historical/political rhetoric. Translation must represent those as **source voice / attributed quotation**, not as independent project assertions.
+
+## E2 provenance / continuity
+
+Retain meaningful provenance for scans13–20.
+
+Already-audited continuations include:
+
+- 13→14
+- 14→15
+- 15→16
+- 18→19
+- 19→20
+
+Two physical split-word joins already closed in assembled Tamil must remain semantically continuous in English:
+
+- scan18→19 — `கெளரவிக்` + `கப்படுவது`
+- scan19→20 — `எழுத்` + `தாளருமான`
+
+Do not reintroduce physical split artefacts into readable English prose, but retain reversible provenance comments.
+
+## E2 source-check
+
+After drafting, create:
+
+`works/payumpuli-pandaraka-vanniyan/translations/en/E2_SOURCE_CHECK.md`
+
+Verify:
+
+1. complete coverage of scans13–20;
 2. no omitted source paragraph/display block;
-3. no duplicate translated block;
-4. speaker/narrator agency retained;
-5. front-matter roles and credits retained;
-6. epigraph lineation/attribution preserved;
-7. names/titles/places consistent with `GLOSSARY.md`;
-8. no unsupported explanatory insertion;
-9. provenance reversible to Part001 scans;
-10. canonical Tamil edits caused by English = **0**;
-11. unresolved E1 holds explicitly counted.
+3. no duplicate translation block;
+4. quoted-speaker attribution preserved;
+5. historical/political source framing preserved without project endorsement/correction;
+6. memorial/portrait/illustration material remains excluded where canonical Tamil classified it non-body;
+7. the displayed six-line physical-description block on scan19 is retained meaningfully;
+8. names/places/titles consistent with `GLOSSARY.md`;
+9. provenance remains reversible to scans13–20;
+10. unsupported explanatory insertions = **0**;
+11. canonical Tamil edits caused by E2 = **0**;
+12. unresolved E2 holds explicitly counted.
 
-If the source-check passes with no blocker, mark E1:
+If the source-check passes with no blocker, mark E2:
 
 **SOURCE-CHECKED / COMPLETE**
 
-and update `PROGRESS.md`, English `README.md`, root/work controls and prompts so that E2 becomes the exact next activity.
+and update live controls so E3 becomes the exact next activity.
 
 ## Stop boundary
 
-After E1 draft + source-check closes, **STOP**.
+After E2 draft + source-check closes, **STOP**.
 
-Do **not** begin E2 (`தோரண வாயில்` / scans13–20), glossary reconciliation, editorial review, release/readiness, final Part closure or Part002 transcription in the same iteration unless the user explicitly asks to continue.
+Do **not** begin E3 (`ஒரு இரகசியக் கடிதம்!` / scans21–27), glossary reconciliation, editorial review, release/readiness, final Part closure or Part002 transcription in the same iteration unless the user explicitly asks to continue.

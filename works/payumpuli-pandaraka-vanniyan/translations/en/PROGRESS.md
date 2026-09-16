@@ -2,12 +2,12 @@
 
 ## Overall state
 
-**PLANNING COMPLETE / DRAFTING NOT STARTED**
+**E1 SOURCE-CHECKED / COMPLETE — E2 NEXT**
 
 | Batch | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
-| **E1** | sections 00–04: front matter + `அணிந்துரை` + `பதிப்புரை` + epigraph + title divider | **1–12** | **NEXT / NOT STARTED** |
-| **E2** | section 05: `தோரண வாயில்` | **13–20** | BLOCKED |
+| **E1** | sections 00–04: front matter + `அணிந்துரை` + `பதிப்புரை` + epigraph + title divider | **1–12** | **SOURCE-CHECKED / COMPLETE** |
+| **E2** | section 05: `தோரண வாயில்` | **13–20** | **NEXT / NOT STARTED** |
 | **E3** | section 06: `ஒரு இரகசியக் கடிதம்!` | **21–27** | BLOCKED |
 | **E4** | section 07: `வழியில் கண்ட வயோதிகர்!` | **28–30** | BLOCKED |
 | Glossary | whole-Part reconciliation | 1–30 | BLOCKED |
@@ -19,49 +19,44 @@
 
 - Tamil canonical pages — **30/30 verified**
 - Tamil assembled files — **8/8 VERIFIED**
-- English translated files — **0/8**
-- English source-checked files — **0/8**
+- English translated files — **5/8**
+- English source-checked files — **5/8**
 - unresolved English holds — **0**
 - canonical Tamil edits caused by English — **0**
 - Part002 English/Tamil content imported — **0**
 - release/readiness — **BLOCKED**
 - final Part001 closure — **BLOCKED**
 
-## Planning gate completed
+## E1 closure
 
-Created controls:
+Created and source-checked:
 
-- `README.md`
-- `TRANSLATION_PLAN.md`
-- `GLOSSARY.md`
-- `PROGRESS.md`
+- `sections/00-front-matter.md`
+- `sections/01-foreword.md`
+- `sections/02-publishers-note.md`
+- `sections/03-epigraph.md`
+- `sections/04-title-divider.md`
+- `E1_SOURCE_CHECK.md`
 
-No translated English section file exists at planning closure.
+E1 result: **SOURCE-CHECKED / COMPLETE**.
 
-## First drafting batch
+E1 unresolved holds: **0**.
 
-**E1 — sections 00–04 / scans1–12**
+Canonical Tamil edits caused by E1: **0**.
 
-Coverage:
+## E1 source-check result
 
-1. front matter — scans1–5
-2. `அணிந்துரை` — scans6–9
-3. `பதிப்புரை` — scan10
-4. epigraph — scan11
-5. title divider — scan12
+E1 covered:
 
-E1 must complete:
+1. front matter — scans1–5;
+2. `அணிந்துரை` / Foreword — scans6–9;
+3. `பதிப்புரை` / Publisher's Note — scan10;
+4. epigraph — scan11;
+5. title divider — scan12.
 
-- draft;
-- coverage/order check;
-- source-meaning/agency check;
-- paragraph/display check;
-- names/title consistency check;
-- epigraph/verse check;
-- provenance check;
-- no-silent-Tamil-change check.
+Coverage, order, source meaning/agency, paragraph/display structure, names/titles, verse lineation, provenance and no-silent-Tamil-change checks all passed.
 
-Only after E1 is **SOURCE-CHECKED / COMPLETE** may E2 begin.
+Detailed record: `E1_SOURCE_CHECK.md`.
 
 ## Boundary lock
 
@@ -73,6 +68,6 @@ Only after E1 is **SOURCE-CHECKED / COMPLETE** may E2 begin.
 
 ## Exact next activity
 
-**English Draft Batch E1 — sections 00–04 / scans1–12.**
+**English Draft Batch E2 — `தோரண வாயில்` / scans13–20**, followed by its E2 source-check.
 
-Do not begin E2, release/readiness, final Part closure or Part002 transcription until the required preceding gates close.
+Do not begin E3, glossary reconciliation, editorial review, release/readiness, final Part closure or Part002 transcription until E2 closes.

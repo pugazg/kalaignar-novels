@@ -1,6 +1,6 @@
 # English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **INITIAL / LOCKED FOR E1 START**
+Status: **E1 SOURCE-CHECKED / INITIAL LOCK EXTENDED**
 
 This glossary is derived only from the verified Part001 canonical/assembled Tamil. It contains project translation choices, not external historical or linguistic claims.
 
@@ -22,7 +22,8 @@ Canonical Tamil remains controlling.
 | Tamil source | English handling | Note |
 |---|---|---|
 | `கலைஞர் மு.கருணாநிதி` / `கலைஞர் மு. கருணாநிதி` | **Kalaignar M. Karunanidhi** | preserve source spacing distinction only in Tamil; one English form |
-| `பண்டார வன்னியன்` | **Pandara Vanniyan** | source-facing project romanization |
+| `பண்டாரக வன்னியன்` | **Pandaraka Vanniyan** | work/narrative form used in E1 |
+| `பண்டார வன்னியன்` | **Pandara Vanniyan** | source-facing project romanization where the source omits `க` |
 | `குலசேகர வைரமுத்து` | **Kulasekara Vairamuthu** | source-facing project romanization |
 | `சுந்தரலிங்கம்` | **Sundaralingam** | |
 | `மருதன்` / `மருது` | **Maruthan / Maruthu** | preserve the exact source form by occurrence; do not silently collapse variants |
@@ -40,11 +41,39 @@ Canonical Tamil remains controlling.
 | `க. அன்பழகன்` | **K. Anbazhagan** | source-facing project romanization |
 | `எழுச்சிக் கவிஞர் காசி ஆனந்தன்` | **Ezhuchchi Kavignar Kasi Anandan** | retain the source epithet in romanized form initially |
 
+## E1 additional names / labels
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `முத்தமிழறிஞர்` | **Muthamizh Arignar** | retain source epithet; do not replace with an external explanatory title |
+| `ரோமாபுரிப் பாண்டியன்` | **Romapuri Pandiyan** | source work title |
+| `தென்பாண்டிச் சிங்கம்` | **Thenpandi Singam** | source work title |
+| `பொன்னர்-சங்கர்` | **Ponnar-Sankar** | source work title |
+| `இராசராச சோழன் விருது` | **Rajaraja Cholan Award** | source award label |
+| `சங்கர் தயாள் சர்மா` | **Shankar Dayal Sharma** | source name |
+| `வைரமுத்து` | **Vairamuthu** | source personal name |
+| `காக்கை வன்னியன்` | **Kakkai Vanniyan** | source personal name |
+| `குருவிச்சி நாச்சி` | **Kuruvichchi Naachchi** | source personal name |
+| `கண்ணுச்சாமி` | **Kannusamy** | source personal name |
+| `விக்கிரம ராஜ சிங்கன்` | **Vikrama Raja Singan** | source regnal name |
+| `பிலிமதளாவை` | **Pilimathalavai** | source personal name |
+| `பியசலி` | **Piyasali** | source personal name |
+| `மேஜர் பானர்மேன்` | **Major Bannerman** | source label/name |
+| `ஜெயராஜ்` | **Jayaraj** | artist credit |
+| `அமுதோன்` | **Amudhon** | cover-artist credit |
+| `சுபா சுந்தரம்` | **Subha Sundaram** | photograph credit |
+| `சங்கத்தமிழ்` | **Sangathamizh** | source work title |
+
 ## Places
 
 | Tamil source | English handling | Note |
 |---|---|---|
-| `இலங்கை` | **Sri Lanka** | ordinary country translation in project English |
+| `இலங்கை` | **Sri Lanka** | ordinary project translation of the source country-name |
+| `தமிழ் ஈழ மண்` | **Tamil Eelam land** | retain source political-geographical wording as source framing; not a project geopolitical assertion |
+| `அடங்காப்பற்று` | **Adangapattru** | source place/region label |
+| `கரிக்காட்டு மூலை` | **Karikkattu Moolai** | source place label |
+| `கண்டி` | **Kandy** | source place name |
+| `கயத்தாறு` | **Kayathar** | source place name |
 | `வவுனியா` | **Vavuniya** | |
 | `முல்லைத்தீவு` | **Mullaitheevu** | source-facing project romanization |
 | `யாழ்ப்பாணம்` / `யாழ்ப்பாண` | **Yalppanam** | source-facing project romanization |
@@ -76,6 +105,7 @@ Canonical Tamil remains controlling.
 |---|---|---|
 | `தோணி` | **boat** | use more specific wording only if source context requires it |
 | `நாட்டுப் பாடல்` | **folk song** | |
+| `பரணி` | ***parani*** | retain source literary label in E1; do not add outside genre history inside translation |
 | `தொடர்கதை` | **serial story / serialized story** | choose by syntax |
 | `சிற்றார் / சிற்றார்கள்` | **hamlet / hamlets** | preserve the source-specific Tamil form in canonical layer; English uses contextual meaning |
 | `தோரணம்` | **festoon / decorative leaf garland** | use only where the narrative itself refers to the decorated house-fronts |
@@ -113,3 +143,12 @@ This glossary is an initial lock for E1.
 Any change during E1–E4 must be recorded in the English review/progress controls. Glossary consistency is reconciled after all batches are source-checked.
 
 Canonical Tamil is never changed merely to enforce English consistency.
+
+
+## E1 source-check note
+
+E1 drafting/source-check introduced no external historical or linguistic authority.
+
+The scan8→9 foreword syntax around `மற்றொரு களம். பண்டாரக வன்னியன் பற்றி வைத்திருந்த...` is source-awkward. The English renders it conservatively without reconstructing a missing relation or adding outside context. This is **not an unresolved translation hold**.
+
+E1 unresolved holds: **0**.
