@@ -23,7 +23,7 @@
 - terminal/full-198-page reconciliation: **COMPLETE / PASS**;
 - Tamil source-archival phase: **CLOSED**;
 - assembled Tamil: **COMPLETE / PASS — 26/26 section files VERIFIED**;
-- English translation: **IN PROGRESS — Batches E1–E3 SOURCE-CHECKED / COMPLETE; 13/26 English section files; coverage through scan113 before chapter15**.
+- English translation: **VERIFIED / COMPLETE / CLOSED — Batches E1–E5 SOURCE-CHECKED / COMPLETE; 26/26 English section files; narrative coverage scan5–197; final bilingual review COMPLETE / PASS; 183/183 physical provenance markers represented; 0 unresolved English holds; 0 canonical Tamil changes**.
 
 Canonical authority is always the source scan. No OCR reading, contextual guess, spelling modernization or inferred printed-page number may override the source pixels.
 
@@ -77,8 +77,25 @@ Assembled validation: [`ASSEMBLED_TAMIL_VALIDATION.md`](ASSEMBLED_TAMIL_VALIDATI
 English translation: [`translations/en/README.md`](translations/en/README.md).  
 English progress: [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md).
 
+## English translation closure
+
+- E1 — Introduction + Chapter 1: **SOURCE-CHECKED / COMPLETE**;
+- E2 — Chapters 2–5: **SOURCE-CHECKED / COMPLETE**;
+- E3 — Chapters 8–14: **SOURCE-CHECKED / COMPLETE**;
+- E4 — Chapters 15–21: **SOURCE-CHECKED / COMPLETE**;
+- E5 — Chapters 22–27: **SOURCE-CHECKED / COMPLETE**;
+- final bilingual / consistency review: **COMPLETE / PASS**;
+- English files: **26/26**;
+- source-visible sequence: **1–5, 8–27**;
+- chapter6 / chapter7 English files: **0 / 0**;
+- narrative coverage: **scan5 through scan197 / `[முற்றிற்று.]`**;
+- scan198 wrapper / publisher-device matter: **excluded from narrative translation**;
+- source-boundary / source-join provenance: **183/183 represented**;
+- unresolved English holds: **0**;
+- canonical Tamil changes caused by English work: **0**.
+
+English closure authority: [`translations/en/FINAL_BILINGUAL_REVIEW.md`](translations/en/FINAL_BILINGUAL_REVIEW.md).
+
 ## Exact next activity
 
-Perform **English Batch E4 — Chapters 15–21**.
-
-Batches E1–E3 are SOURCE-CHECKED / COMPLETE. The source-visible chapter sequence remains **1–5, 8–27**; chapters 6 or 7 must not be created. Canonical `pages/` remain controlling Tamil; PASSED `sections/` remain the continuous-reading aid.
+**None for Surulimalai archival Tamil or English translation.** Reopen only for a user-reported source-fidelity issue or an explicitly requested publication/output layer.
