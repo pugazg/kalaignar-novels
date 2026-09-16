@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED / ACTIVE — direct page audit begun through local page5 / overall scan35.**
+**REGISTERED / WAITING — source available; transcription blocked until Part001 final closure.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **31–60**;
@@ -42,12 +42,14 @@ The canonical `scan_page` remains the overall scan number **31–60**.
 
 ## Current gate
 
-Part002 is now **ACTIVE**.
+Part002 source intake is **REGISTERED**, but Part002 content work is **BLOCKED**.
 
-- local pages **1–5** / overall scans **31–35**: canonical T1 inventory records created;
-- visible printed pages: **20–24**;
-- state: **5 partial** pending complete printed-text entry;
-- incoming boundary **30→31**: **GENUINE CONTINUATION**;
-- outgoing boundary **60→61**: still pending future direct audit.
+- incoming boundary **30→31**: **GENUINE CONTINUATION / AUDITED**;
+- local page1 / overall scan31 may be retained only as the adjacent boundary witness for Part001 closure;
+- canonical Part002 page records: **0**;
+- Pass 1 / Pass 2A / Pass 2B / Pass 3: **NOT STARTED**;
+- assembled Tamil / English: **NOT STARTED**.
 
-**Next:** Part002 local pages **6–15** / overall scans **36–45** as the next 10-scan T1 source-inventory batch.
+Per the Kuraloviyam Part-lock methodology, Part002 transcription begins only after Part001 has completed:
+
+**Tamil archival-ready → assembled Tamil closure → English translation/review → release/readiness report → final Part closure.**
