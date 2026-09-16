@@ -1185,3 +1185,49 @@ Detailed source check: [`translations/en/E2_SOURCE_CHECK.md`](translations/en/E2
 
 Perform **English Batch E3 — Chapters 8–14**. Preserve the source jump **5→8** and do not create chapters 6 or 7.
 
+
+
+## English Batch E3 gate
+
+Status: **SOURCE-CHECKED / COMPLETE**.
+
+Scope:
+- Chapter 8 — scans **65–72**;
+- Chapter 9 — scans **73–77**;
+- Chapter 10 — scans **78–85**;
+- Chapter 11 — scans **85–91**;
+- Chapter 12 — scans **91–99**;
+- Chapter 13 — scans **99–106**;
+- Chapter 14 — scans **106–113 before chapter15**.
+
+English files:
+- `translations/en/sections/08-chapter-08.md`;
+- `translations/en/sections/09-chapter-09.md`;
+- `translations/en/sections/10-chapter-10.md`;
+- `translations/en/sections/11-chapter-11.md`;
+- `translations/en/sections/12-chapter-12.md`;
+- `translations/en/sections/13-chapter-13.md`;
+- `translations/en/sections/14-chapter-14.md`.
+
+Checks:
+- canonical chapter openings / transitions re-confirmed at scans **65, 73, 78, 85, 91, 99, 106**; chapter15 boundary on scan **113** — **PASS**;
+- source-boundary / verified-join provenance comments: **46/46 represented**;
+- chapter8 initial missing scan68→69 provenance comment repaired in English only — **PASS**;
+- source-visible chapter jump **5→8** preserved; chapter6/7 insertion: **0 / 0**;
+- Karpuram / Kannan / Ponmani motive and agency separation — **PASS**;
+- Singaram restraint, Kannan's beating, Ponmani's release of Singaram — **PASS**;
+- temple-bull / flute sequence and later Aravazhi explanation — **PASS**;
+- Ponmani / Aravazhi attraction sequence — **PASS**;
+- Aravazhi / Kannan karagam, buried-plate and exposure narrative — **PASS**;
+- reported folklore / possession language preserved as source framing — **PASS**;
+- canonical Tamil changes caused by E3: **0**;
+- unresolved English holds: **0**.
+
+Detailed source check: [`translations/en/E3_SOURCE_CHECK.md`](translations/en/E3_SOURCE_CHECK.md).
+
+English translated files now: **13 / 26**.  
+English coverage now: **scan5 through scan113 before chapter15**.
+
+## Exact next activity
+
+Perform **English Batch E4 — Chapters 15–21**.
