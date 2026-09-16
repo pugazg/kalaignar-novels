@@ -14,30 +14,32 @@
 - source family: **TVA_BOK_0065744**
 - complete physical extent: **477 scans**
 - working source Parts: **16 / 16 supplied**
-- Part001: **overall scans1–30**
-- all split PDFs are image-only working sources and are not committed to Git
+- Parts001–015: **30 pages each**
+- Part016: **27 pages**
+- source PDFs remain outside Git
 - canonical `scan_page` uses the global **1–477** sequence and never resets per Part
 
-Multipart policy:
+Controlling multipart policy:
 - `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLICY.md`
 
 ## Durable state
 
-- overall source intake: **COMPLETE / REGISTERED**
-- per-Part intake registration: **16 / 16 COMPLETE**
-- global split coverage: **477 / 477**
-- canonical page records: **25 / 477**
-- T1 complete: **5 / 477** — scans1–5
-- T1 partial: **20 / 477 — scans6–25** — scans6–25
-- T2 reviewed: **5 / 477**
-- T3 reviewed: **5 / 477**
-- verified: **2 / 477**
-- needs-review: **3 / 477**
-- partial: **20 / 477**
+- source intake: **COMPLETE / REGISTERED**
+- per-Part registration: **16/16 COMPLETE**
+- split coverage: **477/477**
+- canonical page records: **35/477**
+- T1 text-complete: **5/477 — scans1–5**
+- T1 partial inventory: **30/477 — scans6–35**
+- T2 reviewed: **5/477**
+- T3 reviewed: **5/477**
+- verified: **2/477**
+- needs-review: **3/477**
+- partial: **30/477**
+- audited split boundaries: **1/15**
 - assembled Tamil: **BLOCKED**
 - English: **BLOCKED**
 
-### Opening scans1–5
+## Opening scans1–5
 
 Reviewed through T3.
 
@@ -51,45 +53,68 @@ Checkpoint files:
 - `T2_BATCH_001_005.md`
 - `T3_BATCH_001_005.md`
 
-### Current 10-page batch — scans6–25
+## T1 inventory through scan35
 
-User-requested iteration size from this point: **10 scans**.
+User-requested iteration size from scan6 onward: **10 overall scans**.
 
-The ten source pages were directly inspected and ten canonical records were created.
+Checkpoint files:
+- `works/payumpuli-pandaraka-vanniyan/T1_BATCH_006_015.md`
+- `works/payumpuli-pandaraka-vanniyan/T1_BATCH_016_025.md`
+- `works/payumpuli-pandaraka-vanniyan/T1_BATCH_026_035.md`
 
-Structural capture:
+Observed structure:
 - scans6–9 — `அணிந்துரை`
 - scan10 — `பதிப்புரை`
-- scan11 — verse / epigraph
-- scan12 — secondary title / illustrated divider
-- scans13–15 — `தோரண வாயில்`
-- visible printed pages:
-  - scan13 → **2**
-  - scan14 → **3**
-  - scan15 → **4**
+- scan11 — verse / epigraph; attribution `எழுச்சிக் கவிஞர் காசி ஆனந்தன்`
+- scan12 — secondary illustrated title/divider
+- scan13 onward — `தோரண வாயில்` body flow
 
-Current state: **T1 PARTIAL / IN PROGRESS**.
+Visible printed page mapping is continuous from scan13:
+- scan13 → 2
+- …
+- scan30 → 19
+- scan31 → 20
+- …
+- scan35 → 24
 
-The attached source pages themselves are normal. The earlier description of them as “dense” or source-resolution-blocked was incorrect. `partial` means only that complete printed text has not yet been entered into the ten canonical records.
+## Split boundary 30→31
 
-Detailed checkpoint:
-- `works/payumpuli-pandaraka-vanniyan/T1_BATCH_006_015.md`
+Directly audited from the attached Part001 and Part002 PDFs.
 
-Controlling-source clarification:
-- the attached split PDFs were downloaded from Tamil Digital Library;
-- the Wikisource copy is the same copy;
-- routine transcription must use the **attached PDFs only**;
-- do not access external mirrors unless the user explicitly asks for comparison/verification.
+Classification: **GENUINE CONTINUATION**.
 
+- scan30 = Part001 local30 / printed page19
+- scan31 = Part002 local1 / printed page20
+- body flow continues across the split
+- no artificial textual break is introduced
+
+## Source rule
+
+The attached split PDFs are the controlling source. The user confirmed these are the Tamil Digital Library copy and that Wikisource is the same copy.
+
+Do not access external mirrors unless explicitly asked. Do not characterize the source as defective or unusually dense merely because canonical text entry is incomplete.
+
+Forward T1 inventory may continue while full-text entry remains backlogged, but:
+- text-incomplete pages remain `partial`;
+- T2/T3 do not advance on partial pages;
+- assembled Tamil / English remain blocked;
+- final archival closure requires full-text backlog resolution.
 
 ## Exact next activity
 
-Remain on **Part001 T1 overall scans6–25 / local pages6–25**.
+Process **overall scans36–45 / Part002 local pages6–15** as the next 10-scan T1 source-inventory batch.
 
-Complete the full line-by-line Tamil source text for all ten `partial` canonical records directly from the attached Part001 PDF. Only then:
-1. promote the ten records from `partial` to `needs-review`;
-2. synchronize controls;
-3. commit T1 completion;
-4. move to T2 for scans6–25.
+For each scan:
+1. inspect the attached Part002 page;
+2. create one canonical record;
+3. preserve global `scan_page`, `part: 2`, local `part_page`, and exact Part002 `source_filename`;
+4. record only visibly printed page numbers;
+5. preserve section/page function and non-body marks;
+6. enter any source text that can be read safely;
+7. keep text-incomplete records `partial`;
+8. synchronize controls and commit;
+9. stop before scans46–55.
 
-Do **not** advance to scans16–25 while scans6–25 remain text-incomplete.
+Do not start T2/T3 for partial pages.
+
+Full-text backlog currently: **scans6–35**.
