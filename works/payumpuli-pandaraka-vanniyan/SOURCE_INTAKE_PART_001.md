@@ -37,7 +37,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 ## Boundary state
 
 - incoming split boundary: **none — physical source begins at scan 1**;
-- outgoing split boundary: **30→31 — source available; classification pending direct audit**;
+- outgoing split boundary: **30→31 — GENUINE CONTINUATION / AUDITED**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
 
@@ -65,10 +65,9 @@ Opening batch 001–005:
 
 User-requested batch size from now on: **10 overall scans per iteration**.
 
-Batch scans6–15 / local pages6–15:
-- canonical records: **10/10 created**;
-- structural/page-function capture: **COMPLETE**;
-- full line-by-line Tamil transcription: **PENDING**;
-- state: **10 partial**.
+T1 inventory through Part001 end:
+- scans6–30 have canonical records;
+- scans6–30 remain `partial` where complete printed text is not yet entered;
+- outgoing boundary **30→31** is audited as **GENUINE CONTINUATION**.
 
-**Next:** remain on Part001 T1 scans **6–15** and complete the full source text before T2 or scans16–25.
+**Next global frontier:** overall scans **36–45** in Part002. Full-text backlog for partial pages remains mandatory before T2/T3 closure.
