@@ -6,21 +6,26 @@ Working English title: **_Surulimalai_**. Tamil `சுருளிமலை` re
 
 ## Current status
 
-- English workspace: **OPEN**
+- English workspace: **CLOSED**
 - Batch E1: **SOURCE-CHECKED / COMPLETE**
 - Batch E2: **SOURCE-CHECKED / COMPLETE**
 - Batch E3: **SOURCE-CHECKED / COMPLETE**
-- translated sections: **13 / 26**
+- Batch E4: **SOURCE-CHECKED / COMPLETE**
+- Batch E5: **SOURCE-CHECKED / COMPLETE**
+- final bilingual / consistency review: **COMPLETE / PASS**
+- translated sections: **26 / 26**
   - Introduction — scans5–13
   - Chapters 1–5 — scans14–64
-  - Chapters 8–14 — scans65–113 before chapter15
-- English source coverage: **scan5 through scan113 before chapter15**
-- source-visible English chapter sequence: **1–5, 8–14**
+  - Chapters 8–27 — scans65–197
+- English narrative coverage: **scan5 through scan197 / `[முற்றிற்று.]`**
+- source-visible English chapter sequence: **1–5, 8–27**
 - chapter6 / chapter7 English files: **none**
+- physical provenance markers represented: **183 / 183**
 - unresolved English holds: **0**
-- deliberate source-language/source-label retentions include the **classical Silappatikaram quotation**, source `கிருட்டிணப் பறவை` label, and Surulimalai's scan97 chant where the project source does not support a stronger normalization
 - canonical Tamil changes during translation: **0**
-- whole-work English: **IN PROGRESS**
+- whole-work English: **VERIFIED / COMPLETE / CLOSED**
+
+Deliberate source-language/source-label retentions are fidelity choices, not holds. They include the classical Silappatikaram quotation, `கிருட்டிணப் பறவை`, Surulimalai's scan97 chant, chapter22 `வாடை தூக்க வணங்கிய தாழை!`, and terminal `[முற்றிற்று.]`.
 
 ## Start reading
 
@@ -37,6 +42,21 @@ Working English title: **_Surulimalai_**. Tamil `சுருளிமலை` re
 11. [`sections/12-chapter-12.md`](sections/12-chapter-12.md)
 12. [`sections/13-chapter-13.md`](sections/13-chapter-13.md)
 13. [`sections/14-chapter-14.md`](sections/14-chapter-14.md)
+14. [`sections/15-chapter-15.md`](sections/15-chapter-15.md)
+15. [`sections/16-chapter-16.md`](sections/16-chapter-16.md)
+16. [`sections/17-chapter-17.md`](sections/17-chapter-17.md)
+17. [`sections/18-chapter-18.md`](sections/18-chapter-18.md)
+18. [`sections/19-chapter-19.md`](sections/19-chapter-19.md)
+19. [`sections/20-chapter-20.md`](sections/20-chapter-20.md)
+20. [`sections/21-chapter-21.md`](sections/21-chapter-21.md)
+21. [`sections/22-chapter-22.md`](sections/22-chapter-22.md)
+22. [`sections/23-chapter-23.md`](sections/23-chapter-23.md)
+23. [`sections/24-chapter-24.md`](sections/24-chapter-24.md)
+24. [`sections/25-chapter-25.md`](sections/25-chapter-25.md)
+25. [`sections/26-chapter-26.md`](sections/26-chapter-26.md)
+26. [`sections/27-chapter-27.md`](sections/27-chapter-27.md)
+
+The source-visible sequence jumps from chapter **5** to chapter **8**. English preserves that jump; chapters 6 and 7 are not created.
 
 ## Authority
 
@@ -47,53 +67,23 @@ Working English title: **_Surulimalai_**. Tamil `சுருளிமலை` re
 
 If English conflicts with canonical Tamil, Tamil governs. Translation never authorizes a silent Tamil correction.
 
-## Batch E1
+## Batch source checks
 
-Batch E1 translated and source-checked:
-
-- `../../sections/00-arimugam.md`
-- `../../sections/01-chapter-01.md`
-
-E1 source-check: [`E1_SOURCE_CHECK.md`](E1_SOURCE_CHECK.md).
-
-## Batch E2
-
-Batch E2 translated and source-checked:
-
-- `../../sections/02-chapter-02.md`
-- `../../sections/03-chapter-03.md`
-- `../../sections/04-chapter-04.md`
-- `../../sections/05-chapter-05.md`
-
-E2 source-check: [`E2_SOURCE_CHECK.md`](E2_SOURCE_CHECK.md).
-
-## Batch E3
-
-Batch E3 translated and source-checked:
-
-- `../../sections/08-chapter-08.md`
-- `../../sections/09-chapter-09.md`
-- `../../sections/10-chapter-10.md`
-- `../../sections/11-chapter-11.md`
-- `../../sections/12-chapter-12.md`
-- `../../sections/13-chapter-13.md`
-- `../../sections/14-chapter-14.md`
-
-E3 source-check: [`E3_SOURCE_CHECK.md`](E3_SOURCE_CHECK.md).
-
-The source-visible sequence jumps from chapter **5** to chapter **8**. English preserves that jump; chapters 6 and 7 are not created.
+- [`E1_SOURCE_CHECK.md`](E1_SOURCE_CHECK.md) — Introduction + Chapter 1
+- [`E2_SOURCE_CHECK.md`](E2_SOURCE_CHECK.md) — Chapters 2–5
+- [`E3_SOURCE_CHECK.md`](E3_SOURCE_CHECK.md) — Chapters 8–14
+- [`E4_SOURCE_CHECK.md`](E4_SOURCE_CHECK.md) — Chapters 15–21
+- [`E5_SOURCE_CHECK.md`](E5_SOURCE_CHECK.md) — Chapters 22–27
 
 ## Translation controls
 
 - [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
 - [`GLOSSARY.md`](GLOSSARY.md)
 - [`PROGRESS.md`](PROGRESS.md)
-- [`E1_SOURCE_CHECK.md`](E1_SOURCE_CHECK.md)
-- [`E2_SOURCE_CHECK.md`](E2_SOURCE_CHECK.md)
-- [`E3_SOURCE_CHECK.md`](E3_SOURCE_CHECK.md)
+- [`FINAL_BILINGUAL_REVIEW.md`](FINAL_BILINGUAL_REVIEW.md)
 
-## Exact next activity
+## Final result
 
-Perform **Batch E4 — Chapters 15–21** from the PASSED Tamil section files.
+**26 / 26 English sections — VERIFIED / COMPLETE / CLOSED.**
 
-Canonical Tamil remains controlling; preserve all source-visible chapter and scan transitions.
+No further Surulimalai English activity is required unless a new source-fidelity issue is reported or a new output/publication layer is explicitly requested.
