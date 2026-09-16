@@ -122,8 +122,8 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 
 - complete source: **477 / 477 scans supplied across 16 Parts**
 - split identities/global mappings: **16 / 16 REGISTERED**
-- canonical `pages/` records: **0 / 477**
-- T1: **NOT STARTED**
+- canonical `pages/` records: **5 / 477**
+- T1: **5 / 477 COMPLETE through overall scan5 / Part001 local5**
 - T2: **NOT STARTED**
 - T3: **NOT STARTED**
 - terminal page function: **not yet visually audited**
@@ -132,6 +132,6 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 
 ## Exact next activity
 
-Perform **Part 001 T1 — overall scans 1–5 / local pages 1–5**.
+Perform **Part 001 T2 — overall scans 1–5 / local pages 1–5**.
 
-Create five unified canonical page records with `part: 1`, `part_page: 1–5`, exact Part-001 `source_filename`, and overall `scan_page: 1–5`. Leave them `needs-review` pending T2.
+Independently re-read the five canonical records against Part001, explicitly apply the historical-glyph checklist, and resolve only what source pixels support. Scan3's small telephone-number digits and scan5's compact publication block remain carried T1 uncertainties. Leave pages non-final pending T3.
