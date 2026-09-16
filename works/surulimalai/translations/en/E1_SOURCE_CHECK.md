@@ -37,7 +37,7 @@ Canonical Tamil authority remains `../../pages/`.
 - No attempt made to reconcile the contradiction.
 - `சோணிப்பிள்ளை` retained as *sonippillai* rather than guessed.
 - archaic Silappatikaram quotation retained in Tamil; no unsupported English gloss inserted.
-- source-origin chapter structure and scan-boundary provenance comments retained where useful.
+- source-origin chapter structure preserved; verified source-boundary / source-join provenance comments represented in English: **16 / 16** (Introduction **8/8**, Chapter 1 **8/8**).
 
 ### Cultural / lexical consistency
 
