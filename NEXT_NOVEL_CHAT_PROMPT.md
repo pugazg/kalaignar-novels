@@ -1,80 +1,184 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part001 Pass 1 scans6–15
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part001 Documentation Synchronization
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Governing methodology
 
-Read first:
+Read first, in this order:
+
 1. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
-2. `works/payumpuli-pandaraka-vanniyan/PART_001_PASS1_PROGRESS.md`
-3. `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLICY.md`
-4. `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_001.md`
-5. `works/payumpuli-pandaraka-vanniyan/audit.md`
-6. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+2. `works/payumpuli-pandaraka-vanniyan/PART_001_AUDIT.md`
+3. `works/payumpuli-pandaraka-vanniyan/PART_001_FINAL_STATUS_SYNC.md`
+4. `works/payumpuli-pandaraka-vanniyan/PART_001_PASS3_PROGRESS.md`
+5. `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLICY.md`
+6. `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_001.md`
+7. `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
+8. `works/payumpuli-pandaraka-vanniyan/audit.md`
+9. `works/payumpuli-pandaraka-vanniyan/README.md`
+10. root `HANDOVER.md`
 
 This work follows the **Kuraloviyam per-Part closure model**.
 
-**Part001 must complete Tamil archival-ready, assembled Tamil, English translation/review, release/readiness report and final Part closure before Part002 transcription begins.**
+Permanent lock:
 
-Part002 is source-registered only and may be used as a boundary witness. It is not active.
+> **Part001 must complete Tamil archival-ready, assembled Tamil closure, English translation/review, release/readiness report and final Part closure before Part002 transcription begins.**
 
-## Part001 source
+Part002 is supplied/registered only. It may remain a boundary witness, but it is not active.
 
-Controlling attached source:
-`TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf`
+## Current authoritative checkpoint
 
-Part001:
-- overall scans **1–30**
-- local pages **1–30**
+Final metadata/status synchronization is **PASS / CLOSED**.
 
-## Durable state
+Status-sync evidence:
 
-- canonical Part001 records: **30/30 present**
-- Pass 1 text-complete: **5/30 — scans1–5**
-- Pass 1 partial: **25/30 — scans6–30**
-- formal Pass 2A: **NOT STARTED**
-- formal Pass 2B: **NOT STARTED**
-- formal Pass 3: **NOT STARTED**
-- Part audit: **NOT STARTED**
-- Tamil archival-ready: **BLOCKED**
-- assembled Tamil: **BLOCKED**
-- English: **BLOCKED**
-- release/readiness report: **BLOCKED**
-- final Part001 closure: **BLOCKED**
-- Part002 transcription: **BLOCKED**
+- Part audit checkpoint — `1469817871e0439dbd189c7dbee45fa230c3fb0c`
+- page-status synchronization commit — `0b10214cadbab9ab00eadf4889b3e1eff1de590b`
+- final-status record commit / current checkpoint — `113e7f37d0659d5f3f14a93f912f79eded39178c`
+- durable record — `works/payumpuli-pandaraka-vanniyan/PART_001_FINAL_STATUS_SYNC.md`
 
-Earlier local T2/T3 scans1–5 are historical preliminary review only and do not count as formal Part-level Pass 2A / Pass 2B / Pass 3.
+The metadata-only page-status commit changed exactly the 30 Part001 page records, with exactly two field transitions per record:
 
-Scans1–2 are currently `needs-review`, not `verified`.
+```yaml
+status: "needs-review" -> status: "verified"
+visual_fidelity: "needs-review" -> visual_fidelity: "verified"
+```
 
-## Known Part001 structure
+No Tamil body wording, punctuation, section metadata, visual notes, provenance, page mapping or boundary classification changed in that gate.
 
+## Durable Part001 state
+
+- source intake — **PASS / COMPLETE**
+- canonical page records — **30/30 present**
+- Pass 1 — **COMPLETE / 30/30**
+- Pass 2A — **COMPLETE / 30/30**
+- Pass 2B — **COMPLETE / 30/30**
+- Pass 3 — **COMPLETE / 30/30**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30 verified / 0 partial / 0 needs-review**
+- visual fidelity — **30 verified / 0 needs-review**
+- unresolved status exceptions — **0**
+- documentation synchronization — **NOT STARTED**
+- Tamil archival-ready — **BLOCKED**
+- assembled Tamil — **BLOCKED**
+- English translation/review — **BLOCKED**
+- release/readiness — **BLOCKED**
+- final Part001 closure — **BLOCKED**
+- Part002 transcription — **BLOCKED**
+
+## Part001 structure
+
+- scan1 — cover
+- scans2–5 — front matter
 - scans6–9 — `அணிந்துரை`
 - scan10 — `பதிப்புரை`
-- scan11 — verse/epigraph; attribution `எழுச்சிக் கவிஞர் காசி ஆனந்தன்`
+- scan11 — epigraph / verse; attribution `எழுச்சிக் கவிஞர் காசி ஆனந்தன்`
 - scan12 — illustrated divider
-- scan13 onward — `தோரண வாயில்`
-- scan30 — printed page19
-- outgoing boundary 30→31 — **GENUINE CONTINUATION**, using Part002 local1 as boundary witness only
+- scans13–20 — `தோரண வாயில்`
+- scan21 — chapter 2 opening `ஒரு இரகசியக் கடிதம்!`
+- scans22–27 — chapter 2 continuation
+- scan28 — chapter 3 opening `வழியில் கண்ட வயோதிகர்!`
+- scans29–30 — chapter 3 continuation
 
-## Exact next activity
+Visible printed pagination:
 
-Complete **Part001 Pass 1 scans6–15** as one 10-page source-transcription batch.
+- scans1–12 — unnumbered
+- scan13 → printed page2
+- ...
+- scan30 → printed page19
 
-For each existing page record:
-1. inspect the attached Part001 page directly;
-2. enter the **complete printed Tamil text**;
-3. preserve exact source spelling, punctuation, paragraph boundaries, lineation where meaningful and page-boundary fragments;
-4. decode historical Tamil glyph identity carefully; do not normalize;
-5. keep stamps/handwriting/library marks/non-body matter separate;
-6. preserve global `scan_page`, `part: 1`, local `part_page`, exact source filename and only visibly printed page numbers;
-7. once text-complete, set the page to `needs-review` / visual `needs-review`, not `verified`;
-8. update `PART_001_PASS1_PROGRESS.md`, page map, README, audit, source controls, handover and prompts;
-9. commit;
-10. **STOP**.
+Outgoing boundary:
 
-Do not begin scans16–25 in the same iteration unless the user explicitly asks to continue.
+- scan30 / Part001 local30 / printed19
+- scan31 / Part002 local1 / printed20
+- **30→31 = GENUINE CONTINUATION**
+- scan31 remains a boundary witness only; no Part002 canonical page record may be created.
 
-Do not begin formal Pass 2A until Part001 Pass 1 reaches **30/30**.
+## Durable source-fidelity notes
 
-Do not begin Part002 transcription until `PART_001_FINAL_CLOSURE.md` passes after English release/readiness.
+- historical-glyph unresolved count — **0**
+- Pass3 unresolved visual/structural count — **0**
+- scan25 Pass2B reconciliation remains authoritative:
+  - Pass2A had `கூடி.`
+  - Pass2B corrected this to source-supported **`கூடி,`**
+- legacy filenames `0021-thorana-vayil.md` through `0030-thorana-vayil.md` retain an early provisional suffix, but authoritative front-matter `section` metadata and the page map are correct. Do not rename them merely for cosmetic consistency unless a later dedicated migration is explicitly authorized.
+
+## Exact next activity — Documentation Synchronization
+
+Perform **Part001 documentation synchronization only**.
+
+This is a **documentation/control-layer gate**. It must **not modify any file under `works/payumpuli-pandaraka-vanniyan/pages/`** and must not reopen the source PDF.
+
+Synchronize the live Part001 state across the durable control/documentation layer, including as applicable:
+
+1. `works/payumpuli-pandaraka-vanniyan/README.md`
+2. root `HANDOVER.md`
+3. `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
+4. `works/payumpuli-pandaraka-vanniyan/audit.md`
+5. `works/payumpuli-pandaraka-vanniyan/metadata/source.md`
+6. `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE.md`
+7. `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_001.md`
+8. `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLICY.md`
+9. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
+10. Pass-progress trackers where stale live-frontier wording remains
+11. `NEXT_CHAT_PROMPT.md`
+12. `NEXT_NOVEL_CHAT_PROMPT.md`
+13. create durable `works/payumpuli-pandaraka-vanniyan/PART_001_DOCUMENTATION_SYNC.md`
+
+Documentation synchronization must establish:
+
+- final status sync — **PASS / CLOSED**
+- Tamil text — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- partial/source-limited — **0**
+- needs-review — **0**
+- unresolved status exceptions — **0**
+- Part audit — **PASS / COMPLETE**
+- 30→31 boundary — **GENUINE CONTINUATION / retained**
+- Part002 — **TRANSCRIPTION BLOCKED**
+- exact next gate after documentation sync — **Part001 Tamil archival-ready checkpoint**
+
+Preserve historical statements when they describe the state at the close of an earlier gate, but remove/advance stale **live-frontier** claims such as:
+- final status sync `NOT STARTED`;
+- pages still `needs-review`;
+- next activity = final metadata/status synchronization.
+
+## Fidelity safeguards
+
+Documentation synchronization must change **no**:
+
+- Tamil source wording;
+- punctuation;
+- historical-glyph decisions;
+- paragraph/dialogue structure;
+- `page_type`;
+- `section`;
+- `visual_notes`;
+- source provenance;
+- scan/local/printed-page mapping;
+- non-body mark treatment;
+- cross-page joins;
+- 30→31 boundary classification;
+- page-record status metadata.
+
+No file under `pages/` should change in this gate.
+
+## Required closure
+
+After synchronizing:
+
+1. create/update `PART_001_DOCUMENTATION_SYNC.md` with a **DOCUMENTATION SYNCHRONIZATION — COMPLETE** result;
+2. verify the Git diff contains documentation/control files only;
+3. verify no `pages/` file changed;
+4. verify all live controls agree on the next gate;
+5. commit once to `main`;
+6. post-verify live `main`;
+7. **STOP**.
+
+### Exact next gate after this activity
+
+**Part001 Tamil archival-ready checkpoint.**
+
+Do **not** begin that checkpoint in the same iteration unless the user explicitly asks to continue.
+
+Do **not** begin assembled Tamil, English, release/readiness, final Part closure or Part002 transcription.
