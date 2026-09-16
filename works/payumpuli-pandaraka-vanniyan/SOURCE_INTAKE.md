@@ -80,11 +80,11 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - canonical page records: **5 / 477**
 - active frontier: **Part 001**
 - T1: **5 / 477 COMPLETE through scan5**
-- T2: **0 / 477**
+- T2: **5 / 477 COMPLETE through scan5**
 - T3: **0 / 477**
 
 ## Exact next activity
 
-**Part 001 T2 — overall scans 1–5 / local pages 1–5.**
+**Part 001 T3 — overall scans 1–5 / local pages 1–5.**
 
 Independently re-read the five T1 records against the source, apply the historical-glyph checklist, revisit scan3's unresolved telephone digits and scan5's unresolved small-print publication block, synchronize controls, commit, and stop before T3.
