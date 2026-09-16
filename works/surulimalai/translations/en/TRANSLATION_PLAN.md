@@ -35,14 +35,16 @@ Produce readable English while preserving:
 - Introduction describes Surulimalai as **not yet quite eleven**; Chapter 1 calls him a **fifteen-year-old**. Preserve both; do not reconcile the contradiction.
 - The archaic Silappatikaram quotation in Chapter 1 is retained in Tamil in E1 because the project source alone does not securely support a modern English gloss. The surrounding prose is translated.
 - Source-specific names, invocations, proverbs and performance terms are handled by the locked glossary rather than silently normalized.
+- Chapter 5's assault, chastity, sin, possession and suicide rhetoric is translated as source rhetoric without endorsement, euphemistic repair, or added modern commentary.
+- The source's pejorative `வாழாவெட்டி` is retained as *vazhavetty* with a minimal contextual gloss rather than silently neutralized.
 
 ## Batch plan
 
 | Batch | Tamil sections | Status |
 |---|---|---|
 | E1 | Introduction + Chapter 1 | **SOURCE-CHECKED / COMPLETE** |
-| E2 | Chapters 2–5 | **NEXT** |
-| E3 | Chapters 8–14 | NOT STARTED |
+| E2 | Chapters 2–5 | **SOURCE-CHECKED / COMPLETE** |
+| E3 | Chapters 8–14 | **NEXT** |
 | E4 | Chapters 15–21 | NOT STARTED |
 | E5 | Chapters 22–27 | NOT STARTED |
 | Final | whole-work bilingual review / consistency gate | NOT STARTED |

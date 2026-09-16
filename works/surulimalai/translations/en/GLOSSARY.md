@@ -16,6 +16,9 @@ This glossary locks translation choices for the derived English layer. Canonical
 | `அறவாழி` | **Aravazhi** | teacher |
 | `கரகமாடி கண்ணன்` | **Karagam-dancer Kannan** | source epithet preserved functionally |
 | `பஞ்சாயத்தார் பரமசிவம்` | **Panchayat Paramasivam** / **panchayat elder** | choose by context |
+| `மைனா` | **Maina** | personal name |
+| `பீதாம்பர பாகவதர்` | **Peethambara Bhagavathar** | `பீதாம்பரம்` → **Peethambaram** in ordinary reference |
+| `சிரஞ்சீவி` | **Chiranjeevi** | Panchayat Paramasivam's son |
 
 ## Kinship / speech
 
@@ -42,10 +45,16 @@ This glossary locks translation choices for the derived English layer. Canonical
 | `பஞ்சாயத்து` | **panchayat** |
 | `அரசு மரம்` | **arasu tree**; preserve the source pun when paired with the widowed neem |
 | `சிற்றூர்` as village name | **Sirur** | distinguish from generic "small village" where needed |
+| `தாலி` | **thali** | retain source marriage marker |
+| `மாங்கல்யம்` | **mangalyam** | retain |
+| `குத்துவிளக்கு` | **kuthuvilakku** | retain |
+| `சாமியாடு / ஆவேசம்` | **deity-dance / possession / possessed frenzy** | context-sensitive; preserve narrator/character framing |
+| `குறி` | **oracle** | where Karpuram answers devotees |
+| `வாழாவெட்டி` | ***vazhavetty* — separated woman** | source pejorative; retain force without inventing a stronger slur |
 
 ## Religious / literary names
 
-Use source-facing forms: **Siva, Kali, Mari, Kaliamman, Amman, Subramanya, Gautama Buddha, Krishna Paramatma, Gokulam, Kattavarayan, Madurai Veeran, Ilango Adigal, Silappatikaram**.
+Use source-facing forms: **Siva, Kali, Mari, Kaliamman, Amman, Subramanya, Gautama Buddha, Krishna Paramatma, Gokulam, Kattavarayan, Madurai Veeran, Ilango Adigal, Silappatikaram, Nalayini, Alli Arjunan, Valli Thirumanam, Muruga, Chandramathi, Kannagi, Madhavi, Manmathan, Bhadrakali, Pillaiyar, Harischandra**.
 
 Do not add theology, literary commentary or external identification inside translation prose.
 
@@ -58,6 +67,11 @@ Do not add theology, literary commentary or external identification inside trans
 5. **Theechatti trick:** cottonseed under the fire-pot is translated exactly as the character explains it; no external technical explanation.
 6. **Possession/oracle rhetoric:** preserve as the narrator/characters describe it; do not endorse or debunk inside translated prose.
 7. **Source chapter sequence:** 1–5, 8–27. No 6 or 7.
+8. **Maina / chastity rhetoric:** source expressions such as `கற்பு களங்கப்படுத்தப்பட்டது`, `பாபி`, and related purity/sin imagery remain narrator/character rhetoric; translate without endorsement or present-day explanatory correction.
+9. **Maina's age:** Chapter 3 says she had crossed sixteen; retain without harmonizing with any later age reference unless source itself does so.
+10. **Peethambaram's concealed condition:** source says `பெருவியாதியின் ஆரம்பம்`; E2 renders this conservatively as "the beginning of a terrible disease" and does not infer a diagnosis.
+11. **Madman's report:** Chiranjeevi's statements about Singaram's marriage/child/funeral rites are preserved as the madman's speech, not narrator fact.
+12. **Chapter 5 endpoint:** ends on scan64 with Surulimalai's `செத்தவள் பிழைத்துக் கொண்டாள்!`; no chapter6/7 English is inserted before chapter8.
 
 ## Style lock
 

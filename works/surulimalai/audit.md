@@ -1107,7 +1107,7 @@ Status: **COMPLETE / PASS**.
 - T1/T2/T3 audit-note leakage into reading files: **0**;
 - canonical page records changed by assembly: **0**;
 - assembled structural validation: **PASS**;
-- English translation: **IN PROGRESS — Batch E1 SOURCE-CHECKED / COMPLETE; 2/26 files**.
+- English translation: **IN PROGRESS — Batches E1–E2 SOURCE-CHECKED / COMPLETE; 6/26 files**.
 
 Reading-layer authority: [`sections/README.md`](sections/README.md).  
 Validation: [`ASSEMBLED_TAMIL_VALIDATION.md`](ASSEMBLED_TAMIL_VALIDATION.md).
@@ -1151,4 +1151,37 @@ Detailed source check: [`translations/en/E1_SOURCE_CHECK.md`](translations/en/E1
 ## Exact next activity
 
 Perform **English Batch E2 — Chapters 2–5**. Do not create chapters 6 or 7.
+
+## English Batch E2 gate
+
+Status: **SOURCE-CHECKED / COMPLETE**.
+
+Scope:
+- Chapter 2 — scans22–29;
+- Chapter 3 — scans29–37;
+- Chapter 4 — scans37–44;
+- Chapter 5 — scans44–64.
+
+English files:
+- `translations/en/sections/02-chapter-02.md`;
+- `translations/en/sections/03-chapter-03.md`;
+- `translations/en/sections/04-chapter-04.md`;
+- `translations/en/sections/05-chapter-05.md`.
+
+Checks:
+- source-boundary / verified-join provenance comments: **40/40 represented**;
+- chapter headings 2–5: **PASS**;
+- chapter6/7 insertion: **0 / 0**;
+- Maina / Peethambaram / Singaram agency: **PASS**;
+- source assault/chastity/sin rhetoric preserved without editorial modernization: **PASS**;
+- Karpuram involuntary possession versus deliberate fake-possession distinction: **PASS**;
+- chapter5 scan64 ending retained: **PASS**;
+- canonical Tamil changes caused by E2: **0**;
+- unresolved English holds: **0**.
+
+Detailed source check: [`translations/en/E2_SOURCE_CHECK.md`](translations/en/E2_SOURCE_CHECK.md).
+
+## Exact next activity
+
+Perform **English Batch E3 — Chapters 8–14**. Preserve the source jump **5→8** and do not create chapters 6 or 7.
 

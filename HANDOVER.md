@@ -29,8 +29,11 @@
 ### English translation
 - workspace: **OPEN**
 - Batch E1: **SOURCE-CHECKED / COMPLETE**
-- translated files: **2 / 26**
-- coverage: **Introduction + Chapter 1 / scans5–22 before chapter2**
+- Batch E2: **SOURCE-CHECKED / COMPLETE**
+- translated files: **6 / 26**
+- coverage: **Introduction + Chapters1–5 / scans5–64**
+- source-visible chapter structure preserved: **1–5**
+- chapters6/7 inserted: **0**
 - unresolved English holds: **0**
 - deliberate source-language retention: **1 archaic Silappatikaram quotation**
 - canonical Tamil changes caused by English: **0**
@@ -42,13 +45,17 @@ English authorities:
 - `works/surulimalai/translations/en/GLOSSARY.md`
 - `works/surulimalai/translations/en/PROGRESS.md`
 - `works/surulimalai/translations/en/E1_SOURCE_CHECK.md`
+- `works/surulimalai/translations/en/E2_SOURCE_CHECK.md`
 
 ## Exact next activity
 
-Perform **English Batch E2 — Chapters 2–5** from:
-- `sections/02-chapter-02.md`
-- `sections/03-chapter-03.md`
-- `sections/04-chapter-04.md`
-- `sections/05-chapter-05.md`
+Perform **English Batch E3 — Chapters 8–14** from:
+- `sections/08-chapter-08.md`
+- `sections/09-chapter-09.md`
+- `sections/10-chapter-10.md`
+- `sections/11-chapter-11.md`
+- `sections/12-chapter-12.md`
+- `sections/13-chapter-13.md`
+- `sections/14-chapter-14.md`
 
-Canonical `pages/` remain controlling Tamil. Do not create chapters 6 or 7.
+Canonical `pages/` remain controlling Tamil. Preserve the source-visible **5→8** jump; do not create chapters 6 or 7.

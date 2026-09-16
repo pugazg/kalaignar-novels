@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சுருளிமலை / English Batch E2 — Chapters 2–5
+# NEXT CHAT PROMPT — சுருளிமலை / English Batch E3 — Chapters 8–14
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/surulimalai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -14,32 +14,38 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 ## English durable state
 
 - Batch E1: **SOURCE-CHECKED / COMPLETE**
-- English files: **2/26**
-- translated:
-  - `translations/en/sections/00-introduction.md`
-  - `translations/en/sections/01-chapter-01.md`
+- Batch E2: **SOURCE-CHECKED / COMPLETE**
+- English files: **6/26**
+- translated: Introduction + Chapters1–5
+- source coverage: **scans5–64**
 - unresolved English holds: **0**
 - canonical Tamil changes: **0**
-- glossary and plan are active:
-  - `translations/en/GLOSSARY.md`
-  - `translations/en/TRANSLATION_PLAN.md`
-  - `translations/en/PROGRESS.md`
-  - `translations/en/E1_SOURCE_CHECK.md`
+- chapter6/7 English files: **none**
+
+Active controls:
+- `translations/en/GLOSSARY.md`
+- `translations/en/TRANSLATION_PLAN.md`
+- `translations/en/PROGRESS.md`
+- `translations/en/E1_SOURCE_CHECK.md`
+- `translations/en/E2_SOURCE_CHECK.md`
 
 ## Exact next activity
 
-Perform **Batch E2 — Chapters 2–5**:
+Perform **Batch E3 — Chapters 8–14**:
 
-1. translate `sections/02-chapter-02.md`;
-2. translate `sections/03-chapter-03.md`;
-3. translate `sections/04-chapter-04.md`;
-4. translate `sections/05-chapter-05.md`;
-5. source-check the batch against the PASSED Tamil sections / canonical authority;
-6. update glossary/progress/README and record an E2 source-check report.
+1. translate `sections/08-chapter-08.md`;
+2. translate `sections/09-chapter-09.md`;
+3. translate `sections/10-chapter-10.md`;
+4. translate `sections/11-chapter-11.md`;
+5. translate `sections/12-chapter-12.md`;
+6. translate `sections/13-chapter-13.md`;
+7. translate `sections/14-chapter-14.md`;
+8. source-check the batch against PASSED Tamil / canonical authority;
+9. update glossary, progress, English README/section inventory, audit, handover, and next-chat prompt.
 
 Translation rules:
 - canonical `pages/` control Tamil meaning and wording;
 - PASSED `sections/` provide continuous-reading structure;
-- preserve speaker agency, rhetoric, dialogue register, source oddities, and physical/chapter boundaries;
+- preserve speaker agency, rhetoric, dialogue register, source oddities, chapter transitions and physical provenance;
 - do not silently modify Tamil;
-- do **not** create chapters 6 or 7 after chapter5.
+- preserve the source-visible jump **chapter5 → chapter8**; do not create chapters 6 or 7.
