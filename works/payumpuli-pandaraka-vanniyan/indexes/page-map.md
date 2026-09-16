@@ -6,8 +6,8 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 
 | Part | Part page | Overall scan | Printed page | Page type / section | Status | Canonical record |
 |---:|---:|---:|:---:|---|---|---|
-| 001 | 1 | 1 | — | illustrated cover | verified | `pages/0001-cover.md` |
-| 001 | 2 | 2 | — | half-title / front matter | verified | `pages/0002-half-title.md` |
+| 001 | 1 | 1 | — | illustrated cover | needs-review | `pages/0001-cover.md` |
+| 001 | 2 | 2 | — | half-title / front matter | needs-review | `pages/0002-half-title.md` |
 | 001 | 3 | 3 | — | publisher / address; telephone digits unresolved | needs-review | `pages/0003-publisher-address.md` |
 | 001 | 4 | 4 | — | title page; copy-specific handwritten/stamp detail unresolved | needs-review | `pages/0004-title-page.md` |
 | 001 | 5 | 5 | — | publication/bibliographic page; compact printed block unresolved | needs-review | `pages/0005-publication-details.md` |
@@ -36,11 +36,11 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 001 | 28 | 28 | 17 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0028-thorana-vayil.md` |
 | 001 | 29 | 29 | 18 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0029-thorana-vayil.md` |
 | 001 | 30 | 30 | 19 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0030-thorana-vayil.md` |
-| 002 | 1 | 31 | 20 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0031-thorana-vayil.md` |
-| 002 | 2 | 32 | 21 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0032-thorana-vayil.md` |
-| 002 | 3 | 33 | 22 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0033-thorana-vayil.md` |
-| 002 | 4 | 34 | 23 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0034-thorana-vayil.md` |
-| 002 | 5 | 35 | 24 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0035-thorana-vayil.md` |
+| 002 | 1 | 31 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
+| 002 | 2 | 32 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
+| 002 | 3 | 33 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
+| 002 | 4 | 34 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
+| 002 | 5 | 35 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
 | 002 | 6 | 36 | — | unclassified — direct visual audit pending | not-started | — |
 | 002 | 7 | 37 | — | unclassified — direct visual audit pending | not-started | — |
 | 002 | 8 | 38 | — | unclassified — direct visual audit pending | not-started | — |
