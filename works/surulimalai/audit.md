@@ -1227,11 +1227,6 @@ Detailed source check: [`translations/en/E3_SOURCE_CHECK.md`](translations/en/E3
 English translated files now: **13 / 26**.  
 English coverage now: **scan5 through scan113 before chapter15**.
 
-## Exact next activity
-
-Perform **English Batch E4 — Chapters 15–21**.
-
-
 ## English Batch E4 gate
 
 Status: **SOURCE-CHECKED / COMPLETE**.
@@ -1245,31 +1240,20 @@ Scope:
 - Chapter 20 — scans **151–156**;
 - Chapter 21 — scans **156–160 before chapter22**.
 
-English files:
-- `translations/en/sections/15-chapter-15.md`;
-- `translations/en/sections/16-chapter-16.md`;
-- `translations/en/sections/17-chapter-17.md`;
-- `translations/en/sections/18-chapter-18.md`;
-- `translations/en/sections/19-chapter-19.md`;
-- `translations/en/sections/20-chapter-20.md`;
-- `translations/en/sections/21-chapter-21.md`.
-
 Checks:
-- canonical chapter boundaries at scans **113, 120, 127, 136, 144, 151, 156**, with chapter22 boundary at scan160 — **PASS**;
-- source-boundary / verified-join provenance comments: **45/45 represented**;
-- one-off source `சுருமலை` on scan116 preserved as **Surumalai** at that point — **PASS**;
-- chapter15 `ஊதல் / ஊடல்` wordplay retained — **PASS**;
-- Maina handwriting / police sequence remains source narrative without added forensic claim — **PASS**;
-- Kannan's allegations remain attributed to Kannan — **PASS**;
-- Singaram's father's revenge command remains quoted character speech — **PASS**;
-- Ponmani petition signature and later explanation both preserved — **PASS**;
-- canonical Tamil changes caused by E4: **0**;
-- unresolved English holds: **0**.
+- source-boundary / verified-join provenance comments — **45 / 45 represented**;
+- chapter openings / mixed scan transitions — **PASS**;
+- one-off source `சுருமலை` at scan116 retained as **Surumalai** at that point only;
+- scorpion-treatment sequence kept source-bound; no outside medical claim added;
+- `ஊதல் / ஊடல்` romantic wordplay retained with minimal gloss;
+- Maina handwriting / police sequence preserved without importing modern forensic claims;
+- Kannan's anti-Aravazhi / anti-Singaram claims remain attributed speech / conduct;
+- Singaram's father's revenge command remains character speech;
+- petition-signature sequence and Surulimalai's intended destruction of the petition both retained;
+- canonical Tamil changes caused by E4 — **0**;
+- unresolved English holds — **0**.
 
 Detailed source check: [`translations/en/E4_SOURCE_CHECK.md`](translations/en/E4_SOURCE_CHECK.md).
-
-English translated files after E4: **20/26**.  
-English coverage after E4: **scan5 through scan160 before chapter22**.
 
 ## English Batch E5 gate
 
@@ -1283,57 +1267,41 @@ Scope:
 - Chapter 26 — scans **186–193**;
 - Chapter 27 — scans **193–197 / work ending**.
 
-English files:
-- `translations/en/sections/22-chapter-22.md`;
-- `translations/en/sections/23-chapter-23.md`;
-- `translations/en/sections/24-chapter-24.md`;
-- `translations/en/sections/25-chapter-25.md`;
-- `translations/en/sections/26-chapter-26.md`;
-- `translations/en/sections/27-chapter-27.md`.
-
 Checks:
-- canonical chapter boundaries at scans **160, 168, 174, 181, 186, 193** — **PASS**;
-- scan197 / printed195 `[முற்றிற்று.]` represented — **PASS**;
-- scan198 wrapper / publisher-device matter excluded from narrative English — **PASS**;
-- source-boundary / verified-join provenance comments: **36/36 represented**;
-- chapter22 classical `வாடை தூக்க வணங்கிய தாழை!` retained source-facing — **PASS**;
-- chapter23 widowhood / auspiciousness rhetoric preserved as source-era narrative/social framing — **PASS**;
-- Ponmani's rejection of Singaram / Kannan and her relationship with Aravazhi remain distinct — **PASS**;
-- Singaram's contest motive remains revenge / fulfilment of his father's command and support for Aravazhi–Ponmani — **PASS**;
-- chapter27 poisonous leaves remain unspecified source flora; no external species / dosage added — **PASS**;
-- Siva / Surulimalai ending, Kannan confession and final marriages remain in source order — **PASS**;
-- canonical Tamil changes caused by E5: **0**;
-- unresolved English holds: **0**.
+- source-boundary / verified-join provenance comments — **36 / 36 represented**;
+- source-visible scene dividers — **PASS**;
+- chapter22 classical `வாடை தூக்க வணங்கிய தாழை!` retained in Tamil rather than given a speculative external gloss;
+- chapter23 widowhood / auspiciousness rhetoric retained as source-era narrative/social framing;
+- Ponmani's rejection of Singaram / Kannan and her separate relationship with Aravazhi — **PASS**;
+- Singaram's bull-contest motive remains protection of Ponmani for Aravazhi plus fulfilment of his father's revenge oath;
+- chapter27 poison plant remains unspecified; no external species / dosage / procedure added;
+- Siva death, Surulimalai death, Kannan confession, forgiveness and terminal resolution remain in source order;
+- scan197 `[முற்றிற்று.]` retained;
+- scan198 wrapper / publisher-device matter excluded from narrative English;
+- canonical Tamil changes caused by E5 — **0**;
+- unresolved English holds — **0**.
 
 Detailed source check: [`translations/en/E5_SOURCE_CHECK.md`](translations/en/E5_SOURCE_CHECK.md).
 
-English translated files after E5: **26/26**.  
-English narrative coverage after E5: **scan5 through scan197**.
-
-## English final bilingual / consistency gate
+## Final English bilingual / consistency gate
 
 Status: **COMPLETE / PASS — VERIFIED / CLOSED**.
 
-- English narrative files: **26/26**;
-- composition: **1 Introduction + 25 source-visible numbered chapters**;
-- source-visible chapter sequence: **1–5, 8–27**;
-- unsupported chapter6 / chapter7 files: **0 / 0**;
-- narrative coverage: **scan5–197**;
-- scan197 `[முற்றிற்று.]`: **represented**;
-- scan198 wrapper matter: **excluded from narrative English**;
-- batch gates E1–E5: **all SOURCE-CHECKED / COMPLETE**;
-- physical source-boundary / source-join provenance: **183/183 represented**;
-- final review repaired missing English provenance markers at Introduction scan12→13, chapter19 scan146→147 and chapter24 scan175→176;
-- glossary / cultural-term consistency: **PASS**;
-- speaker / narrator agency: **PASS**;
-- source oddities / contradictions / reported folklore framing: **PASS**;
-- source jump chapter5→chapter8: **PASS**;
-- unresolved English holds: **0**;
-- canonical Tamil files changed by English work: **0**;
-- assembled Tamil files changed by English work: **0**.
+- English files — **26 / 26**;
+- composition — **1 Introduction + 25 source-visible numbered chapters**;
+- source-visible sequence — **1–5, 8–27**;
+- English chapters 6 / 7 created — **0 / 0**;
+- narrative coverage — **scan5 through scan197**;
+- physical source provenance — **183 / 183 source-boundary / source-join comments represented**;
+- final-review provenance repairs — Introduction scan12→13, chapter19 scan146→147, chapter24 scan175→176;
+- unresolved English holds — **0**;
+- canonical Tamil changes caused by English — **0**;
+- assembled Tamil changes caused by English — **0**;
+- terminal marker `[முற்றிற்று.]` — **retained**;
+- scan198 non-narrative wrapper matter — **excluded**.
 
-Final authority: [`translations/en/FINAL_BILINGUAL_REVIEW.md`](translations/en/FINAL_BILINGUAL_REVIEW.md).
+Final review: [`translations/en/FINAL_BILINGUAL_REVIEW.md`](translations/en/FINAL_BILINGUAL_REVIEW.md).
 
 ## Exact next activity
 
-**None for Surulimalai archival Tamil or English translation.** Reopen only for a user-reported source-fidelity issue or an explicitly requested new publication/output layer.
+**None for Surulimalai English translation.** Reopen only for a user-reported source-fidelity issue or an explicitly requested new publication/output layer.
