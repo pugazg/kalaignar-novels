@@ -32,7 +32,7 @@ Current Part001 state:
 - Pass 1 partial — **0/30**
 - formal Pass 2A — **COMPLETE — 30/30 reviewed**
 - formal Pass 2B — **COMPLETE — 30/30 reviewed**
-- formal Pass 3 — **NOT STARTED**
+- formal Pass 3 — **IN PROGRESS — 10/30 reviewed (scans1–10)**
 - Part audit — **NOT STARTED**
 - final metadata/status sync — **NOT STARTED**
 - documentation sync — **NOT STARTED**
@@ -118,9 +118,9 @@ Historical preliminary checkpoint records are retained for provenance but do not
 
 ## Exact next activity
 
-Part001 Pass 2B is **COMPLETE — 30/30 reviewed**.
+Formal Part001 Pass 3 is **IN PROGRESS — 10/30 reviewed**.
 
-Begin **Part001 Pass 3 scans1–10** as the first visual/structural verification batch.
+Process **Part001 Pass 3 scans11–20** as the next visual/structural verification batch.
 
 Keep pages `needs-review`; do **not** begin Part audit until Pass 3 reaches 30/30.
 

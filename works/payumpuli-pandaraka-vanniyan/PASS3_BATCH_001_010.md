@@ -1,28 +1,39 @@
-# Part001 Pass 3 Next Batch — scans 1–10
+# Part001 Pass 3 Batch — scans 1–10
 
-Status: **PENDING**
+Status: **COMPLETE / REVIEWED**
 
 Controlling source:
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf`
 
-Prerequisites:
-- Pass 2A — **COMPLETE / 30/30**
-- Pass 2B — **COMPLETE / 30/30**
+## Result
 
-Process exactly overall scans **1–10**.
+All ten scans received whole-page visual/structural comparison against the attached source.
 
-For each scan:
-1. inspect the whole page directly from source pixels;
-2. verify heading/display hierarchy and meaningful lineation;
-3. verify printed page number / page furniture;
-4. verify illustrations, captions, stamps, handwriting and facsimile matter;
-5. verify body-vs-non-body separation;
-6. verify page-boundary continuation state;
-7. preserve canonical text unless a positive source discrepancy is found;
-8. keep page `needs-review`;
-9. update `PART_001_PASS3_PROGRESS.md`, page map, audit, README and handover;
-10. commit and stop.
+| Scan | Visual / structural finding | Result |
+|---:|---|---|
+| 1 | colour illustrated cover; title/author hierarchy + central warrior/flag artwork confirmed | PASS |
+| 2 | mostly blank half-title; title lower left, author lower right | PASS |
+| 3 | publisher block lower left; library stamp separated as copy-specific non-body | PASS |
+| 4 | ornate title-page frame; publisher emblem; stamps/handwriting/R-shaped mark separated from publication matter | PASS |
+| 5 | centered `நூல் அளவை`; two-column bibliographic block; overlapping library/handwritten marks separated | PASS |
+| 6 | stylized `அணிந்துரை` heading + ornate full-page border; continuation to scan7 | PASS |
+| 7 | same ornate border; continuation page; no repeated heading | PASS |
+| 8 | same ornate border; continuation page; final passage remains open into scan9 | PASS |
+| 9 | same ornate border; displayed thematic triad + closing salutation + split footer | PASS |
+| 10 | stylized `பதிப்புரை`; no enclosing border; split location/date and publisher footer | PASS |
 
-Do not begin scans11–20 in the same iteration unless explicitly requested.
-Do not begin Part audit until Pass 3 reaches 30/30.
+## Accounting after batch
+
+- Pass 3 reviewed: **10/30**
+- remaining: **20/30 — scans11–30**
+- textual corrections introduced by Pass 3: **0**
+- unresolved visual/structural questions: **0**
+
+All ten records remain `needs-review`.
+
+## Exact next activity
+
+Process **Part001 Pass 3 scans11–20**.
+
+Do not begin Part audit.
 Do not begin Part002 transcription.

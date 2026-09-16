@@ -16,7 +16,7 @@ Scope:
 
 - Pass 2A reviewed: **30/30 — scans1–30**
 - Pass 2B: **COMPLETE — 30/30 reviewed**
-- Pass 3: **NOT STARTED**
+- Pass 3: **IN PROGRESS — 10/30 reviewed**
 
 ## Later Pass2B reconciliation
 
@@ -32,5 +32,5 @@ Pass 2A remains **CLOSED / COMPLETE**.
 ## Current downstream state
 
 - Pass 2B — **COMPLETE / 30/30**
-- exact next gate — **formal Part001 Pass 3 scans1–10**
+- exact next gate — **formal Part001 Pass 3 scans11–20**
 - Part002 transcription — **BLOCKED**

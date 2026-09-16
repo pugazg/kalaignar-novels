@@ -43,7 +43,7 @@ Current state:
 - Pass 1 partial — **0/30**
 - formal Pass 2A — **COMPLETE — 30/30 reviewed**
 - formal Pass 2B — **COMPLETE — 30/30 reviewed**
-- formal Pass 3 — **NOT STARTED**
+- formal Pass 3 — **IN PROGRESS — 10/30 reviewed (scans1–10)**
 - Part audit — **NOT STARTED**
 - final status sync — **NOT STARTED**
 - documentation sync — **NOT STARTED**
@@ -119,9 +119,9 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Part001 Pass 2B is **COMPLETE — 30/30 reviewed**.
+Formal Part001 Pass 3 is **IN PROGRESS — 10/30 reviewed**.
 
-Begin **formal Part001 Pass 3 scans1–10**.
+Process **Part001 Pass 3 scans11–20**.
 
 - use the attached Part001 PDF only;
 - verify headings/display hierarchy, paragraph/block structure, page furniture, illustrations/captions, stamps/handwriting/facsimile matter, body-vs-non-body separation and page-boundary state;

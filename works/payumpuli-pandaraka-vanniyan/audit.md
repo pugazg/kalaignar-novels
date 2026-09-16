@@ -67,7 +67,7 @@ Current Pass-1 accounting:
 | verified | **0/30 formal Part-level final status** |
 | formal Pass 2A | **COMPLETE — 30/30 reviewed** |
 | formal Pass 2B | **COMPLETE — 30/30 reviewed** |
-| formal Pass 3 | **NOT STARTED** |
+| formal Pass 3 | **IN PROGRESS — 10/30 reviewed** |
 | Part audit | **NOT STARTED** |
 | final status sync | **NOT STARTED** |
 | documentation sync | **NOT STARTED** |
@@ -116,6 +116,23 @@ All 30 pages remain non-final / `needs-review`. The next gate is formal **Pass 2
 - scan11 verse lineation and attribution were preserved;
 - scan12 illustration and scan15 memorial-stone photograph remain separate visual/non-body matter;
 - no formal Pass 2A / Pass 2B / Pass 3 credit was assigned.
+
+## Formal Pass 3 — scans1–10
+
+**COMPLETE / REVIEWED — 10/30**
+
+Whole-page visual/structural verification completed directly against source images.
+
+- headings/display hierarchy checked;
+- page furniture and printed-page absence checked;
+- illustrations/artwork, decorative frames, publisher emblem, library stamps, handwriting and copy-specific marks classified;
+- body-vs-non-body separation checked;
+- scan6→7 and scan8→9 continuation states reconfirmed;
+- textual corrections introduced by Pass 3: **0**;
+- unresolved visual/structural questions: **0**;
+- all scans1–10 remain `needs-review`.
+
+Durable findings include the ornate title-page frame on scan4, the two-column bibliographic layout on scan5, the shared ornate `அணிந்துரை` frame on scans6–9, and the structurally split closing blocks on scans9–10.
 
 ## Formal Pass 2B — scans21–30
 
@@ -262,10 +279,10 @@ Only then may Part002 become active.
 
 ## Exact next activity
 
-**Part001 Pass 3 scans1–10.**
+**Part001 Pass 3 scans11–20.**
 
 - use the attached Part001 PDF only;
-- perform visual/structural verification of headings, block structure, page furniture, illustrations/captions, stamps/handwriting/facsimile matter, body-vs-non-body separation and page-boundary state;
+- verify whole-page visual/structural fidelity;
 - keep reviewed pages `needs-review`;
 - update `PART_001_PASS3_PROGRESS.md` and live controls;
 - commit and stop.
