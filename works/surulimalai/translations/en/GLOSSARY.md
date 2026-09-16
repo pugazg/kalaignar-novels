@@ -64,7 +64,7 @@ This glossary locks translation choices for the derived English layer. Canonical
 
 ## Religious / literary names
 
-Use source-facing forms: **Siva, Kali, Mari, Kaliamman, Amman, Subramanya, Gautama Buddha, Krishna Paramatma, Gokulam, Kattavarayan, Madurai Veeran, Ilango Adigal, Silappatikaram, Nalayini, Alli Arjunan, Valli Thirumanam, Muruga, Chandramathi, Kannagi, Madhavi, Manmathan, Bhadrakali, Pillaiyar, Harischandra**.
+Use source-facing forms: **Siva, Kali, Mari, Kaliamman, Amman, Subramanya, Gautama Buddha, Krishna Paramatma, Gokulam, Kattavarayan, Madurai Veeran, Ilango Adigal, Silappatikaram, Nalayini, Alli Arjunan, Valli Thirumanam, Muruga, Chandramathi, Kannagi, Madhavi, Manmathan, Bhadrakali, Pillaiyar, Harischandra, Payasa Muni, Katteri Amman, Ayyanar, Ayyappa, Malayali Bhagavathi**.
 
 Do not add theology, literary commentary or external identification inside translation prose.
 
@@ -82,6 +82,10 @@ Do not add theology, literary commentary or external identification inside trans
 10. **Peethambaram's concealed condition:** source says `பெருவியாதியின் ஆரம்பம்`; E2 renders this conservatively as "the beginning of a terrible disease" and does not infer a diagnosis.
 11. **Madman's report:** Chiranjeevi's statements about Singaram's marriage/child/funeral rites are preserved as the madman's speech, not narrator fact.
 12. **Chapter 5 endpoint:** ends on scan64 with Surulimalai's `செத்தவள் பிழைத்துக் கொண்டாள்!`; no chapter6/7 English is inserted before chapter8.
+13. **Karpuram / Kannan / Ponmani triangle:** E3 keeps Karpuram's desire for Kannan, Kannan's desire for Ponmani, and Karpuram's attempt to bind Ponmani to Singaram as separate motives; do not collapse them into a mutual-love plot.
+14. **Temple bull / flute:** the source narrates Surulimalai calming the bull with his flute; Aravazhi later identifies it as a bull already accustomed to that flute and known to the boy. Preserve both stages without supernaturalizing the event.
+15. **Aravazhi's critique:** statements about temple spending, divine power, Kannan's tricks and the buried plates belong to Aravazhi's narration/dialogue and the novel's source rhetoric; do not insert outside explanation into the prose.
+16. **Reported folklore:** Payasa Muni, Katteri Amman and Ayyanar stories in Chapter 14 remain reported village beliefs / stories rather than narrator-certified external fact.
 13. **Chapter 10 source exclamation:** `ஷு!` at scan85 is retained as **"Shu!"**; do not normalize it into an inferred word.
 14. **`கிருட்டிணப் பறவை`:** E3 retains ***kiruttina* bird** because the canonical Tamil supports the source label but not an external species identification.
 15. **Surulimalai's scan97 chant:** retain source-facing **"Aragara Mahadeva! Annakkavadi dharmam, thaaye! Annamalaikku Arohara!"** rather than supplying an unsupported explanatory translation.
