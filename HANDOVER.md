@@ -41,7 +41,7 @@ Current state:
 - canonical records — **30/30 present**
 - Pass 1 text-complete — **30/30 — scans1–30**
 - Pass 1 partial — **0/30**
-- formal Pass 2A — **IN PROGRESS — 10/30 reviewed (scans1–10)**
+- formal Pass 2A — **IN PROGRESS — 20/30 reviewed (scans1–20)**
 - formal Pass 2B — **NOT STARTED**
 - formal Pass 3 — **NOT STARTED**
 - Part audit — **NOT STARTED**
@@ -117,9 +117,9 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Formal Part001 Pass 2A is **IN PROGRESS — 10/30 reviewed**.
+Formal Part001 Pass 2A is **IN PROGRESS — 20/30 reviewed**.
 
-Process **Part001 Pass 2A scans11–20**.
+Process **Part001 Pass 2A scans21–30**.
 
 - use the attached Part001 PDF only;
 - perform direct word-by-word, punctuation, paragraph, displayed-lineation and page-continuation verification;

@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual transcription from attached source PDF; Part001 Pass 1 text-complete; formal whole-Part verification pending"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
 ---
 
 # தோரண வாயில்
@@ -19,7 +19,7 @@ transcription_method: "direct visual transcription from attached source PDF; Par
 
 போதும் - இறுதிவரையில் தமது ஆட்சிக்கு உட்பட்ட மக்களின் இறைமையை நிலைநாட்ட முழு மூச்சாக நின்று போராடியவன் வன்னியின் கடைசி மன்னன் மாவீரன் பண்டார வன்னியன். அவனது வீழ்ச்சிக்கு ஆங்கிலேயரின் ஆக்கிரமிப்பு மட்டுமல்ல, கூடப் பிறந்தே கொல்லும் வியாதி போல் விளங்கிய காக்கை என்பவனால் காட்டிக் கொடுக்கப்பட்ட இழிசெயலும் முக்கிய காரணமாக இருந்தது” என்று குறிப்பிடுகிறார்.
 
-துரோகிகளைச் சந்திக்க நேர்ந்த அந்த தூயவனுக்கு நல்ல நண்பர்களும் இல்லாமலில்லை. கி.பி.1815 ஆம் ஆண்டுவரையில் கண்டியை ஆட்சிசெய்து ஆங்கிலேயர்களால் சிறைபிடிக்கப்பட்டு தமிழகத்து வேலூர் சிறையில் பதினாறு ஆண்டுக் காலம் அடைக்கப்பட்டு அந்தச் சிறையிலேயே உயிர் நீத்த கண்ணுசாமி என்ற விக்கிரம ராஜ சிங்கன், பண்டாரக வன்னியனின் உயிர்த் தோழனாவான்.
+துரோகிகளைச் சந்திக்க நேர்ந்த அந்த தூயவனுக்கு நல்ல நண்பர்களும் இல்லாமலில்லை. கி.பி.1815 ஆம் ஆண்டு வரையில் கண்டியை ஆட்சிசெய்து ஆங்கிலேயர்களால் சிறைபிடிக்கப்பட்டு தமிழகத்து வேலூர் சிறையில் பதினாறு ஆண்டுக் காலம் அடைக்கப்பட்டு அந்தச் சிறையிலேயே உயிர் நீத்த கண்ணுசாமி என்ற விக்கிரம ராஜ சிங்கன், பண்டாரக வன்னியனின் உயிர்த் தோழனாவான்.
 
 காட்டிக் கொடுப்போரால் மனம் நொந்த அந்த மாத்தமிழ் முனியின் எரிமலை இதயத்தைச் சிறிது மாற்றியமைத்து, அவன் இளைப்பாறும் குளிர் தருவாக குருவிச்சி நாச்சியார் என்னும் கோதையொருத்தியும் இருந்தாள்! மன உறுதியின் அடிப்படையில் கட்டப்பட்ட அந்தக் காதல் மாளிகை, ஒரு வைராக்கிய மாளிகை! தியாக மாளிகை!
 
@@ -38,6 +38,13 @@ transcription_method: "direct visual transcription from attached source PDF; Par
 - no OCR, web transcription, later edition, grammar-based reconstruction or external mirror was used as authority;
 - the opening word `போதும்` completes the quotation fragment that ended on scan15;
 - the four displayed verse lines at the foot of the page are retained line-for-line;
-- formal Pass 2A / Pass 2B / Pass 3 have not started; this record therefore remains `needs-review`.
+- formal Part001 Pass 2A is complete for this scan; Pass 2B / Pass 3 remain pending; status stays `needs-review`.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 16; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 5; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph, displayed-lineation and page-boundary comparison completed against the attached source pixels;
+- correction: `கி.பி.1815 ஆம் ஆண்டுவரையில்` → source `கி.பி.1815 ஆம் ஆண்டு வரையில்`;
+- Pass 2A result: **REVIEWED / PASS AFTER ANY CORRECTIONS ABOVE**;
+- page remains `needs-review` pending whole-Part Pass 2B / Pass 3 and later final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 16; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 16; PASS 2A REVIEWED / needs-review -->

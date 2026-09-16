@@ -29,30 +29,30 @@ Pages remain `needs-review` during Pass 2A.
 
 ## Current accounting
 
-- Pass 2A reviewed: **10/30 — scans1–10**
-- remaining: **20/30 — scans11–30**
+- Pass 2A reviewed: **20/30 — scans1–20**
+- remaining: **10/30 — scans21–30**
 - Pass 2B: **NOT STARTED**
 - Pass 3: **NOT STARTED**
 
 ## Batch history
 
 - scans1–10 — **COMPLETE / REVIEWED**
-  - source corrections required on scans **1, 3, 4, 5, 7, 9**
-  - scans **2, 6, 8, 10** passed with no source-text correction
-  - scans1–10 remain `needs-review`
+- scans11–20 — **COMPLETE / REVIEWED**
+  - source corrections required on scans **11, 14, 16, 19, 20**
+  - scans **12, 13, 15, 17, 18** passed with no source-text correction
+  - scans11–20 remain `needs-review`
 
-Major durable corrections:
-- scan1 — restored display lineation and source `மு.கருணாநிதி`;
-- scan3 — restored `தமிழ்நாடு-இந்தியா`, corrected publisher punctuation/hyphenation, removed the false telephone-number placeholder;
-- scan4 — restored title lineation and exact publisher imprint;
-- scan5 — full printed `நூல் அளவை` block transcribed from enlarged source pixels;
-- scan7 — `பெயர்பூண்ட`;
-- scan9 — `இத்தனைத் தமிழ்க்`.
+Durable scans11–20 corrections:
+- scan11 — attribution leading punctuation corrected to source long dash `—எழுச்சிக்`;
+- scan14 — `கட்டப் பொம்மன்`; restored full stop after `பண்டார வன்னியன்.`;
+- scan16 — `கி.பி.1815 ஆம் ஆண்டு வரையில்`;
+- scan19 — source-printed `பிரேமதேசா` retained without modernization;
+- scan20 — `செ. யோகநாதன்`; facsimile signature kept as visual/non-body matter rather than normalized to typed author text.
 
 ## Exact next activity
 
-Process **Part001 Pass 2A scans11–20** as the next 10-scan verification batch.
+Process **Part001 Pass 2A scans21–30** as the final 10-scan Pass2A batch.
 
-Do not begin scans21–30 in the same iteration unless explicitly requested.
-Do not begin Pass 2B before Pass 2A reaches **30/30**.
+After scans21–30, if and only if Pass 2A reaches **30/30**, synchronize Pass2A closure and **STOP**. Do not begin Pass 2B in the same iteration unless the user explicitly asks to continue.
+
 Do not begin Part002 transcription.

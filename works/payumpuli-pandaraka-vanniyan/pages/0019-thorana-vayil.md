@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual transcription from attached source PDF; Part001 Pass 1 text-complete; formal whole-Part verification pending"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
 ---
 
 # தோரண வாயில்
@@ -21,7 +21,7 @@ transcription_method: "direct visual transcription from attached source PDF; Par
 
 என்று தமிழர் விடுதலைக் கூட்டணித் தலைவர் திரு.மு. சிவசிதம்பரம் அவர்கள் பண்டார வன்னியனின் சிலை திறப்பு விழாவில் குறிப்பிட்டார்.
 
-இலங்கையின் பிரதமர் பிரேமதாசா கூட, அந்த சிலை திறப்பு விழாவை முன்னிட்டு வழங்கிய வாழ்த்தில்,
+இலங்கையின் பிரதமர் பிரேமதேசா கூட, அந்த சிலை திறப்பு விழாவை முன்னிட்டு வழங்கிய வாழ்த்தில்,
 
 “கௌரவிக்க வேண்டியவர்களைக் கௌரவிப்பது தார்மீக ஒழுக்க நெறியாகும்”
 
@@ -53,6 +53,13 @@ transcription_method: "direct visual transcription from attached source PDF; Par
 - the opening `கப்படுவது` completes scan18's physical fragment `கௌரவிக்`;
 - the portrait is illustration matter and is kept separate from the narrative;
 - the final fragment `எழுத்` continues on scan20;
-- formal Pass 2A / Pass 2B / Pass 3 have not started; this record therefore remains `needs-review`.
+- formal Part001 Pass 2A is complete for this scan; Pass 2B / Pass 3 remain pending; status stays `needs-review`.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 19; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 19; அச்சுப் பக்கம்: 8; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph, displayed-lineation and page-boundary comparison completed against the attached source pixels;
+- correction: `பிரேமதாசா` → source-printed `பிரேமதேசா` (retained as printed; not normalized);
+- Pass 2A result: **REVIEWED / PASS AFTER ANY CORRECTIONS ABOVE**;
+- page remains `needs-review` pending whole-Part Pass 2B / Pass 3 and later final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 19; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 19; PASS 2A REVIEWED / needs-review -->

@@ -65,7 +65,7 @@ Current Pass-1 accounting:
 | Pass-1 partial | **0/30** |
 | needs-review | **30/30 — scans1–30** |
 | verified | **0/30 formal Part-level final status** |
-| formal Pass 2A | **IN PROGRESS — 10/30 reviewed** |
+| formal Pass 2A | **IN PROGRESS — 20/30 reviewed** |
 | formal Pass 2B | **NOT STARTED** |
 | formal Pass 3 | **NOT STARTED** |
 | Part audit | **NOT STARTED** |
@@ -116,6 +116,21 @@ All 30 pages remain non-final / `needs-review`. The next gate is formal **Pass 2
 - scan11 verse lineation and attribution were preserved;
 - scan12 illustration and scan15 memorial-stone photograph remain separate visual/non-body matter;
 - no formal Pass 2A / Pass 2B / Pass 3 credit was assigned.
+
+## Formal Pass 2A — scans11–20
+
+**COMPLETE / REVIEWED — cumulative 20/30**
+
+Direct source-pixel comparison found corrections on scans **11, 14, 16, 19 and 20**; scans **12, 13, 15, 17 and 18** passed unchanged.
+
+Durable corrections:
+- scan11 — source long dash before `எழுச்சிக் கவிஞர் காசி ஆனந்தன்`;
+- scan14 — `வீரபாண்டியக் கட்டப் பொம்மன்`; source full stop restored in `பண்டார வன்னியன். மக்கள் நலனை`;
+- scan16 — `கி.பி.1815 ஆம் ஆண்டு வரையில்`;
+- scan19 — source prints `பிரேமதேசா`; retained as source wording rather than normalized;
+- scan20 — `செ. யோகநாதன்`; facsimile signature separated from typed canonical text.
+
+All ten pages remain `needs-review`. Formal Pass 2B has not started.
 
 ## Formal Pass 2A — scans1–10
 
@@ -176,7 +191,7 @@ Only then may Part002 become active.
 
 ## Exact next activity
 
-**Part001 Pass 2A scans11–20.**
+**Part001 Pass 2A scans21–30.**
 
 - use the attached Part001 PDF only;
 - compare every canonical word, punctuation mark, paragraph boundary and page continuation directly against source pixels;
