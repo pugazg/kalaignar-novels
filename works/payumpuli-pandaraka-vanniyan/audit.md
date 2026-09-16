@@ -76,19 +76,15 @@ Status: **PARTIAL / 10 of 10 canonical records created**.
 Detailed checkpoint:
 - [`T1_BATCH_006_015.md`](T1_BATCH_006_015.md)
 
-## Source-access review — scans6–15
+## Controlling-source clarification
 
-A same-source alternate-access review was completed after the attached renderer proved insufficient for dense line-by-line Tamil.
+The user confirmed that the attached split PDFs are the Tamil Digital Library source and that the Wikisource copy is the same copy.
 
-- attached Part001 page images: **structure readable / dense body text not reliably transcribable**;
-- official Tamil Digital Library source-family identity: **MATCH — TVA_BOK_0065744 / 1991 Rockfort edition**;
-- usable alternate page-text layer: **NOT AVAILABLE through current access path**;
-- Tamil Wikisource bibliography presence: **confirmed**, but no source-identical page-level scans6–15 transcription was retrievable;
-- secondary/web wording imported into canonical records: **0**.
-
-See [`SOURCE_ACCESS_REVIEW_T1_006_015.md`](SOURCE_ACCESS_REVIEW_T1_006_015.md).
-
-The T1 gate therefore remains legitimately **PARTIAL**, not guessed-complete.
+For this archive:
+- the attached split PDFs are the sole routine transcription authority;
+- no external-site access is required for T1/T2/T3;
+- external mirrors are not treated as independent witnesses unless the user explicitly requests comparison;
+- canonical text must continue to come from direct inspection of the attached source pages.
 
 ## Historical-glyph / transcription gate
 
