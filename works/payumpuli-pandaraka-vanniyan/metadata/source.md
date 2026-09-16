@@ -132,6 +132,6 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 
 ## Exact next activity
 
-Perform **Part 001 T2 — overall scans 1–5 / local pages 1–5**.
+Perform **Part 001 T3 — overall scans 1–5 / local pages 1–5**.
 
 Independently re-read the five canonical records against Part001, explicitly apply the historical-glyph checklist, and resolve only what source pixels support. Scan3's small telephone-number digits and scan5's compact publication block remain carried T1 uncertainties. Leave pages non-final pending T3.
