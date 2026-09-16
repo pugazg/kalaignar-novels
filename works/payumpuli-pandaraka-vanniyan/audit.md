@@ -95,7 +95,7 @@ No correction may be justified by grammar/context alone.
 
 ## Exact next activity
 
-**Part 001 T2 — overall scans1–5 / local pages1–5.**
+**Part 001 T3 — overall scans1–5 / local pages1–5.**
 
 T1 scans1–5 is complete with five canonical `needs-review` records. T2 must independently re-read all five pages, explicitly check historical glyph identity where applicable, and revisit:
 - scan3 — unresolved small telephone-number digits;
