@@ -8,33 +8,30 @@
 - source family: **TVA_BOK_0065744**;
 - complete physical extent: **477 scans**;
 - working source: **16 split PDFs — all supplied / registered**;
-- split design: **Parts001–015 = 30 pages each; Part016 = 27 pages**;
-- global range coverage: **1–477, no gap / overlap**;
-- canonical page records: **35 / 477**;
-- T1 complete: **5/477** — scans1–5;
-- T1 partial: **30 / 477 — scans6–35**;
-- T2: **5 / 477 COMPLETE through scan5**;
-- T3: **5 / 477 COMPLETE through scan5**;
+- active content Part: **Part001 / scans1–30 only**;
+- canonical Part001 records: **30/30 present**;
+- Pass 1 text-complete: **5/30**;
+- Pass 1 partial: **25/30 — scans6–30**;
+- formal Pass 2A / Pass 2B / Pass 3: **NOT STARTED**;
+- Tamil archival-ready: **BLOCKED**;
 - assembled Tamil: **BLOCKED**;
-- English: **BLOCKED**.
+- English / release-readiness: **BLOCKED**;
+- Part002: **SOURCE REGISTERED / TRANSCRIPTION BLOCKED**;
+- boundary **30→31 = GENUINE CONTINUATION** as an adjacent-source witness only.
 
-Multipart source handling follows the Kuraloviyam pattern:
+This work follows the **Kuraloviyam per-Part closure model**:
 
-- overall `scan_page` **never restarts** for a split;
-- each page record preserves `part`, `part_page`, and exact split `source_filename`;
-- one unified `pages/` tree is used;
-- split boundaries are not textual boundaries unless adjacent source pages prove it.
+**Part001 source/Tamil closure → assembled Tamil → English translation/review → release/readiness report → final Part closure → only then Part002 transcription.**
 
 Active controls:
+- `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_001_PASS1_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/README.md`
 - `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE.md`
 - `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLICY.md`
-- `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_001.md` … `SOURCE_INTAKE_PART_016.md`
-- `works/payumpuli-pandaraka-vanniyan/metadata/source.md`
-- `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
 - `works/payumpuli-pandaraka-vanniyan/audit.md`
 
-Exact next action: **T1 source inventory scans36–45 / Part002 local6–15. Boundary 30→31 is already audited as GENUINE CONTINUATION. Keep text-incomplete records partial; T2/T3 remain blocked until complete text is entered.**
+Exact next action: **Part001 Pass 1 scans6–15 — complete the actual printed Tamil text in the ten existing records. Do not begin Part002.**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 
