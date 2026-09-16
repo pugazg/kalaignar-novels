@@ -6,11 +6,11 @@ printed_page: null
 work: "payumpuli-pandaraka-vanniyan"
 section: "front-matter"
 page_type: "front-matter"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual transcription from rendered source scan; T1; T2 independent re-read complete"
+transcription_method: "direct visual transcription from rendered source scan; T1; T2 independent re-read complete; T3 final source-fidelity review complete"
 ---
 
 பாயும்புலி  
@@ -44,4 +44,12 @@ transcription_method: "direct visual transcription from rendered source scan; T1
 - unresolved historical glyphs in the visible printed text: **0**;
 - page remains `needs-review` pending T3.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 2; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: —; T1/T2 COMPLETE / needs-review -->
+## T3 final source-fidelity notes
+
+- complete scan compared again against the canonical record;
+- title/author coverage, large blank area, reverse show-through separation and absence of printed page number were re-confirmed;
+- omissions / duplicate text: **0 / 0**;
+- unresolved source-text fields: **0**;
+- T3 result: **PASS / VERIFIED**.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 2; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: —; T1/T2/T3 COMPLETE / VERIFIED -->
