@@ -1,503 +1,522 @@
 # பக்க வரைபடம் — பாயும்புலி பண்டாரக வன்னியன்
 
-Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்.pdf`
+Complete source family: **477 physical scans / 16 supplied Parts**.
 
-> **Corrected source extent:** **477 physical scans**. The conversation attachment renderer/index currently exposes only a **150-page preview**. The earlier 150-page total was a preview-limit mistake and is superseded. Only scans1–20 have been visually classified at intake.
+Repository scan numbering follows the overall **1–477** sequence and never restarts per split. `Part page` is local provenance only.
 
-| Scan | Printed page | Page type / section | Status | File |
-|---:|:---:|---|---|---|
-| 1 | — | illustrated cover | observed | — |
-| 2 | — | reverse / half-title style page | observed | — |
-| 3 | — | publisher / address imprint page | observed | — |
-| 4 | — | title page / publisher imprint / library stamps | observed | — |
-| 5 | — | bibliographic / edition-details page / library stamp | observed | — |
-| 6 | — | `அணிந்துரை` | observed | — |
-| 7 | — | `அணிந்துரை` | observed | — |
-| 8 | — | `அணிந்துரை` | observed | — |
-| 9 | — | `அணிந்துரை` | observed | — |
-| 10 | — | `பதிப்புரை` | observed | — |
-| 11 | — | epigraph / verse page | observed | — |
-| 12 | — | secondary title / illustrated divider | observed | — |
-| 13 | 2 | source-visible `தோரண வாயில்` prefatory section — classification provisional | observed | — |
-| 14 | 3 | source-visible `தோரண வாயில்` prefatory section — classification provisional | observed | — |
-| 15 | 4 | source-visible `தோரண வாயில்` prefatory section — classification provisional | observed | — |
-| 16 | 5 | source-visible `தோரண வாயில்` prefatory section — classification provisional | observed | — |
-| 17 | 6 | source-visible `தோரண வாயில்` prefatory section — classification provisional | observed | — |
-| 18 | 7 | source-visible `தோரண வாயில்` prefatory section — classification provisional | observed | — |
-| 19 | 8 | source-visible `தோரண வாயில்` prefatory section — classification provisional | observed | — |
-| 20 | 9 | source-visible `தோரண வாயில்` prefatory section — classification provisional | observed | — |
-| 21 | — | unclassified — not yet visually audited | not-started | — |
-| 22 | — | unclassified — not yet visually audited | not-started | — |
-| 23 | — | unclassified — not yet visually audited | not-started | — |
-| 24 | — | unclassified — not yet visually audited | not-started | — |
-| 25 | — | unclassified — not yet visually audited | not-started | — |
-| 26 | — | unclassified — not yet visually audited | not-started | — |
-| 27 | — | unclassified — not yet visually audited | not-started | — |
-| 28 | — | unclassified — not yet visually audited | not-started | — |
-| 29 | — | unclassified — not yet visually audited | not-started | — |
-| 30 | — | unclassified — not yet visually audited | not-started | — |
-| 31 | — | unclassified — not yet visually audited | not-started | — |
-| 32 | — | unclassified — not yet visually audited | not-started | — |
-| 33 | — | unclassified — not yet visually audited | not-started | — |
-| 34 | — | unclassified — not yet visually audited | not-started | — |
-| 35 | — | unclassified — not yet visually audited | not-started | — |
-| 36 | — | unclassified — not yet visually audited | not-started | — |
-| 37 | — | unclassified — not yet visually audited | not-started | — |
-| 38 | — | unclassified — not yet visually audited | not-started | — |
-| 39 | — | unclassified — not yet visually audited | not-started | — |
-| 40 | — | unclassified — not yet visually audited | not-started | — |
-| 41 | — | unclassified — not yet visually audited | not-started | — |
-| 42 | — | unclassified — not yet visually audited | not-started | — |
-| 43 | — | unclassified — not yet visually audited | not-started | — |
-| 44 | — | unclassified — not yet visually audited | not-started | — |
-| 45 | — | unclassified — not yet visually audited | not-started | — |
-| 46 | — | unclassified — not yet visually audited | not-started | — |
-| 47 | — | unclassified — not yet visually audited | not-started | — |
-| 48 | — | unclassified — not yet visually audited | not-started | — |
-| 49 | — | unclassified — not yet visually audited | not-started | — |
-| 50 | — | unclassified — not yet visually audited | not-started | — |
-| 51 | — | unclassified — not yet visually audited | not-started | — |
-| 52 | — | unclassified — not yet visually audited | not-started | — |
-| 53 | — | unclassified — not yet visually audited | not-started | — |
-| 54 | — | unclassified — not yet visually audited | not-started | — |
-| 55 | — | unclassified — not yet visually audited | not-started | — |
-| 56 | — | unclassified — not yet visually audited | not-started | — |
-| 57 | — | unclassified — not yet visually audited | not-started | — |
-| 58 | — | unclassified — not yet visually audited | not-started | — |
-| 59 | — | unclassified — not yet visually audited | not-started | — |
-| 60 | — | unclassified — not yet visually audited | not-started | — |
-| 61 | — | unclassified — not yet visually audited | not-started | — |
-| 62 | — | unclassified — not yet visually audited | not-started | — |
-| 63 | — | unclassified — not yet visually audited | not-started | — |
-| 64 | — | unclassified — not yet visually audited | not-started | — |
-| 65 | — | unclassified — not yet visually audited | not-started | — |
-| 66 | — | unclassified — not yet visually audited | not-started | — |
-| 67 | — | unclassified — not yet visually audited | not-started | — |
-| 68 | — | unclassified — not yet visually audited | not-started | — |
-| 69 | — | unclassified — not yet visually audited | not-started | — |
-| 70 | — | unclassified — not yet visually audited | not-started | — |
-| 71 | — | unclassified — not yet visually audited | not-started | — |
-| 72 | — | unclassified — not yet visually audited | not-started | — |
-| 73 | — | unclassified — not yet visually audited | not-started | — |
-| 74 | — | unclassified — not yet visually audited | not-started | — |
-| 75 | — | unclassified — not yet visually audited | not-started | — |
-| 76 | — | unclassified — not yet visually audited | not-started | — |
-| 77 | — | unclassified — not yet visually audited | not-started | — |
-| 78 | — | unclassified — not yet visually audited | not-started | — |
-| 79 | — | unclassified — not yet visually audited | not-started | — |
-| 80 | — | unclassified — not yet visually audited | not-started | — |
-| 81 | — | unclassified — not yet visually audited | not-started | — |
-| 82 | — | unclassified — not yet visually audited | not-started | — |
-| 83 | — | unclassified — not yet visually audited | not-started | — |
-| 84 | — | unclassified — not yet visually audited | not-started | — |
-| 85 | — | unclassified — not yet visually audited | not-started | — |
-| 86 | — | unclassified — not yet visually audited | not-started | — |
-| 87 | — | unclassified — not yet visually audited | not-started | — |
-| 88 | — | unclassified — not yet visually audited | not-started | — |
-| 89 | — | unclassified — not yet visually audited | not-started | — |
-| 90 | — | unclassified — not yet visually audited | not-started | — |
-| 91 | — | unclassified — not yet visually audited | not-started | — |
-| 92 | — | unclassified — not yet visually audited | not-started | — |
-| 93 | — | unclassified — not yet visually audited | not-started | — |
-| 94 | — | unclassified — not yet visually audited | not-started | — |
-| 95 | — | unclassified — not yet visually audited | not-started | — |
-| 96 | — | unclassified — not yet visually audited | not-started | — |
-| 97 | — | unclassified — not yet visually audited | not-started | — |
-| 98 | — | unclassified — not yet visually audited | not-started | — |
-| 99 | — | unclassified — not yet visually audited | not-started | — |
-| 100 | — | unclassified — not yet visually audited | not-started | — |
-| 101 | — | unclassified — not yet visually audited | not-started | — |
-| 102 | — | unclassified — not yet visually audited | not-started | — |
-| 103 | — | unclassified — not yet visually audited | not-started | — |
-| 104 | — | unclassified — not yet visually audited | not-started | — |
-| 105 | — | unclassified — not yet visually audited | not-started | — |
-| 106 | — | unclassified — not yet visually audited | not-started | — |
-| 107 | — | unclassified — not yet visually audited | not-started | — |
-| 108 | — | unclassified — not yet visually audited | not-started | — |
-| 109 | — | unclassified — not yet visually audited | not-started | — |
-| 110 | — | unclassified — not yet visually audited | not-started | — |
-| 111 | — | unclassified — not yet visually audited | not-started | — |
-| 112 | — | unclassified — not yet visually audited | not-started | — |
-| 113 | — | unclassified — not yet visually audited | not-started | — |
-| 114 | — | unclassified — not yet visually audited | not-started | — |
-| 115 | — | unclassified — not yet visually audited | not-started | — |
-| 116 | — | unclassified — not yet visually audited | not-started | — |
-| 117 | — | unclassified — not yet visually audited | not-started | — |
-| 118 | — | unclassified — not yet visually audited | not-started | — |
-| 119 | — | unclassified — not yet visually audited | not-started | — |
-| 120 | — | unclassified — not yet visually audited | not-started | — |
-| 121 | — | unclassified — not yet visually audited | not-started | — |
-| 122 | — | unclassified — not yet visually audited | not-started | — |
-| 123 | — | unclassified — not yet visually audited | not-started | — |
-| 124 | — | unclassified — not yet visually audited | not-started | — |
-| 125 | — | unclassified — not yet visually audited | not-started | — |
-| 126 | — | unclassified — not yet visually audited | not-started | — |
-| 127 | — | unclassified — not yet visually audited | not-started | — |
-| 128 | — | unclassified — not yet visually audited | not-started | — |
-| 129 | — | unclassified — not yet visually audited | not-started | — |
-| 130 | — | unclassified — not yet visually audited | not-started | — |
-| 131 | — | unclassified — not yet visually audited | not-started | — |
-| 132 | — | unclassified — not yet visually audited | not-started | — |
-| 133 | — | unclassified — not yet visually audited | not-started | — |
-| 134 | — | unclassified — not yet visually audited | not-started | — |
-| 135 | — | unclassified — not yet visually audited | not-started | — |
-| 136 | — | unclassified — not yet visually audited | not-started | — |
-| 137 | — | unclassified — not yet visually audited | not-started | — |
-| 138 | — | unclassified — not yet visually audited | not-started | — |
-| 139 | — | unclassified — not yet visually audited | not-started | — |
-| 140 | — | unclassified — not yet visually audited | not-started | — |
-| 141 | — | unclassified — not yet visually audited | not-started | — |
-| 142 | — | unclassified — not yet visually audited | not-started | — |
-| 143 | — | unclassified — not yet visually audited | not-started | — |
-| 144 | — | unclassified — not yet visually audited | not-started | — |
-| 145 | — | unclassified — not yet visually audited | not-started | — |
-| 146 | — | unclassified — not yet visually audited | not-started | — |
-| 147 | — | unclassified — not yet visually audited | not-started | — |
-| 148 | — | unclassified — not yet visually audited | not-started | — |
-| 149 | — | unclassified — not yet visually audited | not-started | — |
-| 150 | — | unclassified — not yet visually audited | not-started | — |
-| 151 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 152 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 153 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 154 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 155 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 156 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 157 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 158 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 159 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 160 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 161 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 162 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 163 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 164 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 165 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 166 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 167 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 168 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 169 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 170 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 171 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 172 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 173 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 174 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 175 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 176 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 177 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 178 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 179 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 180 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 181 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 182 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 183 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 184 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 185 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 186 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 187 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 188 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 189 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 190 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 191 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 192 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 193 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 194 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 195 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 196 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 197 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 198 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 199 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 200 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 201 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 202 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 203 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 204 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 205 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 206 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 207 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 208 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 209 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 210 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 211 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 212 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 213 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 214 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 215 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 216 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 217 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 218 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 219 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 220 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 221 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 222 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 223 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 224 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 225 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 226 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 227 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 228 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 229 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 230 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 231 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 232 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 233 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 234 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 235 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 236 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 237 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 238 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 239 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 240 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 241 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 242 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 243 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 244 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 245 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 246 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 247 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 248 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 249 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 250 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 251 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 252 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 253 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 254 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 255 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 256 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 257 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 258 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 259 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 260 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 261 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 262 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 263 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 264 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 265 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 266 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 267 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 268 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 269 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 270 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 271 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 272 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 273 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 274 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 275 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 276 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 277 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 278 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 279 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 280 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 281 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 282 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 283 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 284 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 285 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 286 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 287 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 288 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 289 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 290 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 291 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 292 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 293 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 294 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 295 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 296 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 297 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 298 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 299 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 300 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 301 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 302 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 303 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 304 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 305 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 306 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 307 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 308 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 309 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 310 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 311 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 312 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 313 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 314 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 315 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 316 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 317 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 318 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 319 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 320 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 321 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 322 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 323 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 324 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 325 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 326 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 327 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 328 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 329 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 330 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 331 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 332 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 333 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 334 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 335 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 336 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 337 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 338 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 339 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 340 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 341 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 342 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 343 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 344 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 345 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 346 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 347 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 348 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 349 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 350 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 351 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 352 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 353 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 354 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 355 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 356 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 357 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 358 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 359 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 360 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 361 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 362 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 363 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 364 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 365 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 366 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 367 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 368 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 369 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 370 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 371 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 372 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 373 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 374 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 375 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 376 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 377 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 378 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 379 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 380 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 381 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 382 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 383 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 384 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 385 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 386 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 387 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 388 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 389 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 390 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 391 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 392 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 393 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 394 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 395 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 396 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 397 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 398 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 399 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 400 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 401 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 402 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 403 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 404 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 405 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 406 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 407 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 408 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 409 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 410 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 411 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 412 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 413 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 414 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 415 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 416 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 417 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 418 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 419 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 420 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 421 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 422 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 423 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 424 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 425 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 426 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 427 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 428 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 429 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 430 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 431 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 432 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 433 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 434 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 435 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 436 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 437 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 438 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 439 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 440 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 441 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 442 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 443 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 444 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 445 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 446 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 447 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 448 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 449 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 450 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 451 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 452 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 453 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 454 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 455 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 456 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 457 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 458 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 459 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 460 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 461 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 462 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 463 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 464 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 465 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 466 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 467 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 468 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 469 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 470 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 471 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 472 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 473 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 474 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 475 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 476 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
-| 477 | — | unclassified — beyond current 150-page preview; not yet visually audited | not-started | — |
+| Part | Part page | Overall scan | Printed page | Page type / section | Status | Canonical record |
+|---:|---:|---:|:---:|---|---|---|
+| 001 | 1 | 1 | — | illustrated cover | observed | — |
+| 001 | 2 | 2 | — | reverse / half-title style page | observed | — |
+| 001 | 3 | 3 | — | publisher / address imprint page | observed | — |
+| 001 | 4 | 4 | — | title page / publisher imprint / library marks | observed | — |
+| 001 | 5 | 5 | — | bibliographic / edition-details page / library stamp | observed | — |
+| 001 | 6 | 6 | — | `அணிந்துரை` | observed | — |
+| 001 | 7 | 7 | — | `அணிந்துரை` | observed | — |
+| 001 | 8 | 8 | — | `அணிந்துரை` | observed | — |
+| 001 | 9 | 9 | — | `அணிந்துரை` | observed | — |
+| 001 | 10 | 10 | — | `பதிப்புரை` | observed | — |
+| 001 | 11 | 11 | — | epigraph / verse page | observed | — |
+| 001 | 12 | 12 | — | secondary title / illustrated divider | observed | — |
+| 001 | 13 | 13 | 2 | source-visible `தோரண வாயில்` — classification provisional | observed | — |
+| 001 | 14 | 14 | 3 | source-visible `தோரண வாயில்` — classification provisional | observed | — |
+| 001 | 15 | 15 | 4 | source-visible `தோரண வாயில்` — classification provisional | observed | — |
+| 001 | 16 | 16 | 5 | source-visible `தோரண வாயில்` — classification provisional | observed | — |
+| 001 | 17 | 17 | 6 | source-visible `தோரண வாயில்` — classification provisional | observed | — |
+| 001 | 18 | 18 | 7 | source-visible `தோரண வாயில்` — classification provisional | observed | — |
+| 001 | 19 | 19 | 8 | source-visible `தோரண வாயில்` — classification provisional | observed | — |
+| 001 | 20 | 20 | 9 | source-visible `தோரண வாயில்` — classification provisional | observed | — |
+| 001 | 21 | 21 | — | unclassified — direct visual audit pending | not-started | — |
+| 001 | 22 | 22 | — | unclassified — direct visual audit pending | not-started | — |
+| 001 | 23 | 23 | — | unclassified — direct visual audit pending | not-started | — |
+| 001 | 24 | 24 | — | unclassified — direct visual audit pending | not-started | — |
+| 001 | 25 | 25 | — | unclassified — direct visual audit pending | not-started | — |
+| 001 | 26 | 26 | — | unclassified — direct visual audit pending | not-started | — |
+| 001 | 27 | 27 | — | unclassified — direct visual audit pending | not-started | — |
+| 001 | 28 | 28 | — | unclassified — direct visual audit pending | not-started | — |
+| 001 | 29 | 29 | — | unclassified — direct visual audit pending | not-started | — |
+| 001 | 30 | 30 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 1 | 31 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 2 | 32 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 3 | 33 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 4 | 34 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 5 | 35 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 6 | 36 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 7 | 37 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 8 | 38 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 9 | 39 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 10 | 40 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 11 | 41 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 12 | 42 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 13 | 43 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 14 | 44 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 15 | 45 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 16 | 46 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 17 | 47 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 18 | 48 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 19 | 49 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 20 | 50 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 21 | 51 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 22 | 52 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 23 | 53 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 24 | 54 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 25 | 55 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 26 | 56 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 27 | 57 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 28 | 58 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 29 | 59 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 30 | 60 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 1 | 61 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 2 | 62 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 3 | 63 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 4 | 64 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 5 | 65 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 6 | 66 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 7 | 67 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 8 | 68 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 9 | 69 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 10 | 70 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 11 | 71 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 12 | 72 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 13 | 73 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 14 | 74 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 15 | 75 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 16 | 76 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 17 | 77 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 18 | 78 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 19 | 79 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 20 | 80 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 21 | 81 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 22 | 82 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 23 | 83 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 24 | 84 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 25 | 85 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 26 | 86 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 27 | 87 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 28 | 88 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 29 | 89 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 30 | 90 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 1 | 91 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 2 | 92 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 3 | 93 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 4 | 94 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 5 | 95 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 6 | 96 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 7 | 97 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 8 | 98 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 9 | 99 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 10 | 100 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 11 | 101 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 12 | 102 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 13 | 103 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 14 | 104 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 15 | 105 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 16 | 106 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 17 | 107 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 18 | 108 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 19 | 109 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 20 | 110 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 21 | 111 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 22 | 112 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 23 | 113 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 24 | 114 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 25 | 115 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 26 | 116 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 27 | 117 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 28 | 118 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 29 | 119 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 30 | 120 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 1 | 121 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 2 | 122 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 3 | 123 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 4 | 124 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 5 | 125 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 6 | 126 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 7 | 127 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 8 | 128 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 9 | 129 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 10 | 130 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 11 | 131 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 12 | 132 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 13 | 133 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 14 | 134 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 15 | 135 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 16 | 136 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 17 | 137 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 18 | 138 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 19 | 139 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 20 | 140 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 21 | 141 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 22 | 142 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 23 | 143 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 24 | 144 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 25 | 145 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 26 | 146 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 27 | 147 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 28 | 148 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 29 | 149 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 30 | 150 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 1 | 151 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 2 | 152 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 3 | 153 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 4 | 154 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 5 | 155 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 6 | 156 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 7 | 157 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 8 | 158 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 9 | 159 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 10 | 160 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 11 | 161 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 12 | 162 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 13 | 163 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 14 | 164 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 15 | 165 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 16 | 166 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 17 | 167 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 18 | 168 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 19 | 169 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 20 | 170 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 21 | 171 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 22 | 172 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 23 | 173 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 24 | 174 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 25 | 175 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 26 | 176 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 27 | 177 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 28 | 178 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 29 | 179 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 30 | 180 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 1 | 181 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 2 | 182 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 3 | 183 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 4 | 184 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 5 | 185 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 6 | 186 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 7 | 187 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 8 | 188 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 9 | 189 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 10 | 190 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 11 | 191 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 12 | 192 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 13 | 193 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 14 | 194 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 15 | 195 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 16 | 196 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 17 | 197 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 18 | 198 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 19 | 199 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 20 | 200 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 21 | 201 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 22 | 202 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 23 | 203 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 24 | 204 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 25 | 205 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 26 | 206 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 27 | 207 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 28 | 208 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 29 | 209 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 30 | 210 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 1 | 211 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 2 | 212 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 3 | 213 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 4 | 214 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 5 | 215 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 6 | 216 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 7 | 217 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 8 | 218 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 9 | 219 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 10 | 220 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 11 | 221 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 12 | 222 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 13 | 223 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 14 | 224 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 15 | 225 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 16 | 226 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 17 | 227 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 18 | 228 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 19 | 229 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 20 | 230 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 21 | 231 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 22 | 232 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 23 | 233 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 24 | 234 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 25 | 235 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 26 | 236 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 27 | 237 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 28 | 238 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 29 | 239 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 30 | 240 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 1 | 241 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 2 | 242 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 3 | 243 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 4 | 244 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 5 | 245 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 6 | 246 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 7 | 247 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 8 | 248 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 9 | 249 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 10 | 250 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 11 | 251 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 12 | 252 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 13 | 253 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 14 | 254 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 15 | 255 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 16 | 256 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 17 | 257 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 18 | 258 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 19 | 259 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 20 | 260 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 21 | 261 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 22 | 262 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 23 | 263 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 24 | 264 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 25 | 265 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 26 | 266 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 27 | 267 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 28 | 268 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 29 | 269 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 30 | 270 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 1 | 271 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 2 | 272 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 3 | 273 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 4 | 274 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 5 | 275 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 6 | 276 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 7 | 277 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 8 | 278 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 9 | 279 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 10 | 280 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 11 | 281 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 12 | 282 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 13 | 283 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 14 | 284 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 15 | 285 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 16 | 286 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 17 | 287 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 18 | 288 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 19 | 289 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 20 | 290 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 21 | 291 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 22 | 292 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 23 | 293 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 24 | 294 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 25 | 295 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 26 | 296 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 27 | 297 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 28 | 298 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 29 | 299 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 30 | 300 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 1 | 301 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 2 | 302 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 3 | 303 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 4 | 304 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 5 | 305 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 6 | 306 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 7 | 307 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 8 | 308 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 9 | 309 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 10 | 310 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 11 | 311 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 12 | 312 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 13 | 313 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 14 | 314 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 15 | 315 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 16 | 316 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 17 | 317 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 18 | 318 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 19 | 319 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 20 | 320 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 21 | 321 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 22 | 322 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 23 | 323 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 24 | 324 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 25 | 325 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 26 | 326 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 27 | 327 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 28 | 328 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 29 | 329 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 30 | 330 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 1 | 331 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 2 | 332 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 3 | 333 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 4 | 334 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 5 | 335 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 6 | 336 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 7 | 337 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 8 | 338 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 9 | 339 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 10 | 340 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 11 | 341 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 12 | 342 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 13 | 343 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 14 | 344 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 15 | 345 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 16 | 346 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 17 | 347 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 18 | 348 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 19 | 349 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 20 | 350 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 21 | 351 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 22 | 352 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 23 | 353 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 24 | 354 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 25 | 355 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 26 | 356 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 27 | 357 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 28 | 358 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 29 | 359 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 30 | 360 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 1 | 361 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 2 | 362 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 3 | 363 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 4 | 364 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 5 | 365 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 6 | 366 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 7 | 367 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 8 | 368 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 9 | 369 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 10 | 370 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 11 | 371 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 12 | 372 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 13 | 373 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 14 | 374 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 15 | 375 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 16 | 376 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 17 | 377 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 18 | 378 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 19 | 379 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 20 | 380 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 21 | 381 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 22 | 382 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 23 | 383 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 24 | 384 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 25 | 385 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 26 | 386 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 27 | 387 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 28 | 388 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 29 | 389 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 30 | 390 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 1 | 391 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 2 | 392 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 3 | 393 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 4 | 394 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 5 | 395 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 6 | 396 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 7 | 397 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 8 | 398 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 9 | 399 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 10 | 400 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 11 | 401 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 12 | 402 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 13 | 403 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 14 | 404 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 15 | 405 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 16 | 406 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 17 | 407 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 18 | 408 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 19 | 409 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 20 | 410 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 21 | 411 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 22 | 412 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 23 | 413 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 24 | 414 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 25 | 415 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 26 | 416 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 27 | 417 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 28 | 418 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 29 | 419 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 30 | 420 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 1 | 421 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 2 | 422 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 3 | 423 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 4 | 424 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 5 | 425 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 6 | 426 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 7 | 427 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 8 | 428 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 9 | 429 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 10 | 430 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 11 | 431 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 12 | 432 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 13 | 433 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 14 | 434 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 15 | 435 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 16 | 436 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 17 | 437 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 18 | 438 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 19 | 439 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 20 | 440 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 21 | 441 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 22 | 442 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 23 | 443 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 24 | 444 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 25 | 445 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 26 | 446 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 27 | 447 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 28 | 448 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 29 | 449 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 30 | 450 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 1 | 451 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 2 | 452 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 3 | 453 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 4 | 454 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 5 | 455 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 6 | 456 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 7 | 457 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 8 | 458 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 9 | 459 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 10 | 460 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 11 | 461 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 12 | 462 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 13 | 463 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 14 | 464 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 15 | 465 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 16 | 466 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 17 | 467 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 18 | 468 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 19 | 469 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 20 | 470 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 21 | 471 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 22 | 472 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 23 | 473 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 24 | 474 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 25 | 475 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 26 | 476 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 27 | 477 | — | unclassified — direct visual audit pending | not-started | — |
 
-## Initial accounting
+## Split accounting
 
-- physical scans: **477**
-- current attachment preview/index: **150 pages**
+- Part 001: local **1–30** → overall **1–30** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf`
+- Part 002: local **1–30** → overall **31–60** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf`
+- Part 003: local **1–30** → overall **61–90** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
+- Part 004: local **1–30** → overall **91–120** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_004_pages_91-120.pdf`
+- Part 005: local **1–30** → overall **121–150** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
+- Part 006: local **1–30** → overall **151–180** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf`
+- Part 007: local **1–30** → overall **181–210** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_007_pages_181-210.pdf`
+- Part 008: local **1–30** → overall **211–240** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_008_pages_211-240.pdf`
+- Part 009: local **1–30** → overall **241–270** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_009_pages_241-270.pdf`
+- Part 010: local **1–30** → overall **271–300** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_010_pages_271-300.pdf`
+- Part 011: local **1–30** → overall **301–330** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf`
+- Part 012: local **1–30** → overall **331–360** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_012_pages_331-360.pdf`
+- Part 013: local **1–30** → overall **361–390** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_013_pages_361-390.pdf`
+- Part 014: local **1–30** → overall **391–420** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf`
+- Part 015: local **1–30** → overall **421–450** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf`
+- Part 016: local **1–27** → overall **451–477** — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf`
+
+## Current accounting
+
+- Parts supplied / registered: **16 / 16**
+- physical scan coverage by split ranges: **477 / 477**
 - visually classified at intake: **20**
 - canonical page records: **0 / 477**
-- T1 verified: **0**
-- T2 complete: **0**
-- T3 verified: **0**
-- scans151–477: **uninspected in current preview, not absent**
-- source PDF committed: **No**
+- T1: **0 / 477**
+- T2: **0 / 477**
+- T3: **0 / 477**
+- split-boundary classifications: **pending direct audit**
+- physical endpoint: **overall scan 477**; page function remains pending direct visual audit
 
-Printed-page values are recorded only where visibly present. No missing printed number is inferred from sequence.
+Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Create canonical T1 records for **scans1–5 only**, then synchronize this page map and stop before T2.
+Create Part 001 canonical T1 records for **overall scans1–5 / local pages1–5**, preserving `part`, `part_page`, exact `source_filename`, and overall `scan_page`.
