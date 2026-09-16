@@ -90,7 +90,7 @@ Surulimalai remains fully closed. Do not reopen it for routine continuation.
 
 ## Exact next activity
 
-Perform **Part 001 T3 — overall scans1–5 / local pages1–5** from:
+Perform **Part 001 T1 — overall scans6–15 / local pages6–15** from:
 
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf`
 
