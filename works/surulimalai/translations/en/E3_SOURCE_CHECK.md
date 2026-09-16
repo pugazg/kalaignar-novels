@@ -1,5 +1,8 @@
 # Batch E3 Source Check — சுருளிமலை / Surulimalai
 
+
+> **Current-state note:** This is a batch-specific source-check record. Batch-local counts such as `6/26`, `13/26`, or `20/26`, and any historical next-step wording, describe the state when this batch closed. Current whole-work English state is **26/26 VERIFIED / COMPLETE / CLOSED**, with final bilingual review **PASS** and **0 unresolved holds**. See [`FINAL_BILINGUAL_REVIEW.md`](FINAL_BILINGUAL_REVIEW.md) and [`PROGRESS.md`](PROGRESS.md).
+
 Status: **COMPLETE / PASS**.
 
 ## Scope
