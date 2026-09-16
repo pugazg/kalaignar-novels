@@ -11,16 +11,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 001 | 3 | 3 | — | publisher / address; telephone digits unresolved | needs-review | `pages/0003-publisher-address.md` |
 | 001 | 4 | 4 | — | title page; copy-specific handwritten/stamp detail unresolved | needs-review | `pages/0004-title-page.md` |
 | 001 | 5 | 5 | — | publication/bibliographic page; compact printed block unresolved | needs-review | `pages/0005-publication-details.md` |
-| 001 | 6 | 6 | — | `அணிந்துரை` | observed | — |
-| 001 | 7 | 7 | — | `அணிந்துரை` | observed | — |
-| 001 | 8 | 8 | — | `அணிந்துரை` | observed | — |
-| 001 | 9 | 9 | — | `அணிந்துரை` | observed | — |
-| 001 | 10 | 10 | — | `பதிப்புரை` | observed | — |
-| 001 | 11 | 11 | — | epigraph / verse page | observed | — |
-| 001 | 12 | 12 | — | secondary title / illustrated divider | observed | — |
-| 001 | 13 | 13 | 2 | source-visible `தோரண வாயில்` — classification provisional | observed | — |
-| 001 | 14 | 14 | 3 | source-visible `தோரண வாயில்` — classification provisional | observed | — |
-| 001 | 15 | 15 | 4 | source-visible `தோரண வாயில்` — classification provisional | observed | — |
+| 001 | 6 | 6 | — | `அணிந்துரை`; full text pending | partial | `pages/0006-anindurai.md` |
+| 001 | 7 | 7 | — | `அணிந்துரை` continuation; full text pending | partial | `pages/0007-anindurai-7.md` |
+| 001 | 8 | 8 | — | `அணிந்துரை` continuation; full text pending | partial | `pages/0008-anindurai-8.md` |
+| 001 | 9 | 9 | — | `அணிந்துரை` continuation; full text pending | partial | `pages/0009-anindurai-9.md` |
+| 001 | 10 | 10 | — | `பதிப்புரை`; full text pending | partial | `pages/0010-pathippurai.md` |
+| 001 | 11 | 11 | — | epigraph / verse page; full text pending | partial | `pages/0011-epigraph.md` |
+| 001 | 12 | 12 | — | secondary title / illustrated divider; text details pending | partial | `pages/0012-title-divider.md` |
+| 001 | 13 | 13 | 2 | source-visible `தோரண வாயில்`; full text pending | partial | `pages/0013-thorana-vayil.md` |
+| 001 | 14 | 14 | 3 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0014-thorana-vayil.md` |
+| 001 | 15 | 15 | 4 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0015-thorana-vayil.md` |
 | 001 | 16 | 16 | 5 | source-visible `தோரண வாயில்` — classification provisional | observed | — |
 | 001 | 17 | 17 | 6 | source-visible `தோரண வாயில்` — classification provisional | observed | — |
 | 001 | 18 | 18 | 7 | source-visible `தோரண வாயில்` — classification provisional | observed | — |
@@ -508,12 +508,14 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Parts supplied / registered: **16 / 16**
 - physical scan coverage by split ranges: **477 / 477**
 - visually classified at intake: **20**
-- canonical page records: **5 / 477**
-- T1: **5 / 477**
-- T2: **5 / 477**
-- T3: **5 / 477**
+- canonical page records: **15 / 477**
+- T1 complete: **5 / 477**
+- T1 partial: **10 / 477**
+- T2 reviewed: **5 / 477**
+- T3 reviewed: **5 / 477**
 - verified pages: **2 / 477**
 - needs-review pages: **3 / 477**
+- partial pages: **10 / 477**
 - split-boundary classifications: **pending direct audit**
 - physical endpoint: **overall scan 477**; page function remains pending direct visual audit
 
@@ -521,4 +523,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Perform **T1 overall scans6–15 / Part001 local pages6–15** as the first 10-page iteration. Create ten canonical `needs-review` records, then synchronize controls and stop before T2.
+Remain on **T1 scans6–15 / Part001 local pages6–15**.
+
+Complete the full line-by-line Tamil transcription of these ten `partial` records from a sufficiently detailed source rendering. Only then may scans6–15 advance to `needs-review` and T2 begin. Do not advance to scans16–25 while this text-capture gate remains incomplete.
