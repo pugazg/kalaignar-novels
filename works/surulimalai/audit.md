@@ -1,5 +1,22 @@
 # Audit — சுருளிமலை
 
+
+## Current-state convention
+
+This file is a chronological audit ledger. Intermediate phrases such as **`needs-review`**, **`NOT STARTED`**, **`DEFERRED`**, and earlier **Exact next activity** sections record the state *at that checkpoint*; they are not the current project state.
+
+Current authoritative state:
+- canonical page records: **198/198 VERIFIED**;
+- scans5–198 T1/T2/T3: **COMPLETE / PASS / VERIFIED**;
+- terminal reconciliation: **COMPLETE / PASS**;
+- assembled Tamil: **26/26 VERIFIED / PASS**;
+- English: **26/26 VERIFIED / COMPLETE / CLOSED**;
+- final bilingual review: **COMPLETE / PASS**;
+- unresolved English holds: **0**.
+
+For current status use the final sections of this audit, [`README.md`](README.md), root [`HANDOVER.md`](../../HANDOVER.md), and [`translations/en/FINAL_BILINGUAL_REVIEW.md`](translations/en/FINAL_BILINGUAL_REVIEW.md).
+
+
 ## Intake / terminal gate
 
 Status: **COMPLETE / PASS**.
