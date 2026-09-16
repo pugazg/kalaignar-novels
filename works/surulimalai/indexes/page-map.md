@@ -218,4 +218,6 @@ Complete physical-source manifest for the verified **198-scan** copy. Printed-pa
 - obsolete parser-derived `pages/0150-back-cover.md`: **removed from canonical pages and preserved under `superseded/`**;
 - terminal/full-198-page reconciliation: **COMPLETE / PASS**.
 
-Exact next: **build the assembled Tamil master from the verified page records in a new activity; do not begin English until assembled-Tamil structural validation passes.**
+Current downstream state: **assembled Tamil 26/26 VERIFIED / PASS; English 26/26 VERIFIED / COMPLETE / CLOSED**.
+
+Exact next: **none for Surulimalai archival or English translation; reopen only for a concrete fidelity issue or an explicitly requested new output layer.**
