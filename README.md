@@ -34,7 +34,7 @@ Active controls:
 - `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
 - `works/payumpuli-pandaraka-vanniyan/audit.md`
 
-Exact next action: **remain on Part001 T1 scans6–15. Ten canonical records exist, but complete line-by-line Tamil text capture is still pending from a sufficiently detailed source rendering. Do not advance to T2 or scans16–25 until those ten pages are text-complete.**
+Exact next action: **remain on Part001 T1 scans6–15. Ten canonical records exist; complete the missing printed Tamil text directly from the attached Part001 PDF. The source pages themselves are normal. Do not advance to T2 or scans16–25 until those ten pages are text-complete.**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 
