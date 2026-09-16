@@ -1,0 +1,36 @@
+---
+scan_page: 1
+part: 1
+part_page: 1
+printed_page: null
+work: "payumpuli-pandaraka-vanniyan"
+section: "front-matter"
+page_type: "cover"
+status: "needs-review"
+visual_fidelity: "needs-review"
+language: "ta"
+source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
+transcription_method: "direct visual transcription from rendered source scan; T1"
+---
+
+# பாயும்புலி பண்டாரக வன்னியன்
+
+கலைஞர்  
+மு. கருணாநிதி
+
+## காட்சிப் பதிவு
+
+- colour illustrated cover;
+- title is presented in a large stylized stacked treatment;
+- central emblem/warrior illustration is non-text visual material and is not converted into narrative prose;
+- no printed page number is visible.
+
+## T1 direct-transcription notes
+
+- complete physical scan inspected directly;
+- printed cover text captured;
+- source spelling/title treatment not normalized from external metadata;
+- no OCR or external text used as authority;
+- page remains `needs-review` pending T2/T3.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 1; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: —; T1 COMPLETE / needs-review -->
