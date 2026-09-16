@@ -88,4 +88,4 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 
 Remain on **Part001 T1 scans6–15 / local pages6–15**.
 
-Ten canonical records now exist, but their dense Tamil body text is not yet safely frozen from the current reduced rendering. Complete line-by-line source text first; then advance those ten records from `partial` to `needs-review`. Do not start T2 or scans16–25 before that.
+Ten canonical records now exist. The source pages themselves are normal; the records remain `partial` only because complete printed text has not yet been entered. Complete line-by-line source text directly from the attached Part001 PDF; then advance those ten records from `partial` to `needs-review`. Do not start T2 or scans16–25 before that.
