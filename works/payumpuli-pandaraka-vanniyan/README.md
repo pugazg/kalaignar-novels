@@ -9,18 +9,19 @@
 
 ## Current status
 
-**OPENING BATCH scans1–5 T1/T2/T3 CLOSED / NEXT T1 scans6–15 (10 pages)**
+**PART001 ACTIVE / scans1–5 reviewed through T3 / scans6–15 T1 PARTIAL**
 
 - source family: **TVA_BOK_0065744**
 - source Parts: **16/16 SUPPLIED / REGISTERED**
-- split ranges: **1–30, 31–60, …, 421–450, 451–477**
 - global physical coverage: **477/477**
-- aggregate split bytes: **456,282,569**
-- image-only scans; no usable parsed text layer
-- canonical page records: **5/477**
-- T1: **5/477 COMPLETE through scan5**
-- T2: **5 / 477 COMPLETE through scan5**
-- T3: **5 / 477 COMPLETE through scan5**
+- canonical page records: **15/477**
+- T1 complete: **5/477** — scans1–5
+- T1 partial: **10/477** — scans6–15
+- T2 reviewed: **5/477**
+- T3 reviewed: **5/477**
+- verified: **2/477**
+- needs-review: **3/477**
+- partial: **10/477**
 - assembled Tamil: **BLOCKED**
 - English: **BLOCKED until Tamil archival + assembled-Tamil gates pass**
 
@@ -32,18 +33,27 @@ Controls:
 - [`audit.md`](audit.md)
 - `SOURCE_INTAKE_PART_001.md` … `SOURCE_INTAKE_PART_016.md`
 
+## Batch-size rule
+
+The opening **scans1–5** batch was already underway before the batch size changed and is now reviewed through T3.
+
+From scans6 onward, use **10 overall scans per iteration**.
+
+Current 10-page iteration:
+- overall scans **6–15**
+- Part001 local pages **6–15**
+
 ## Multipart handling
 
-This work adopts the Kuraloviyam split-source pattern:
+This work follows the Kuraloviyam split-source pattern:
 
-- overall `scan_page` **never resets**;
-- page records carry `part` + `part_page` + exact `source_filename`;
+- overall `scan_page` never resets;
+- page records preserve `part`, `part_page`, and exact split `source_filename`;
 - one unified canonical `pages/` directory is used;
 - split boundaries do not create artificial narrative boundaries;
-- boundary state is classified only from adjacent rendered source pages;
-- later Parts remain source-ready but do not leapfrog the global active frontier.
+- boundary state is classified only from adjacent rendered source pages.
 
-## Initial Part 001 structure
+## Current Part001 structure
 
 Observed from the supplied source:
 
@@ -52,8 +62,8 @@ Observed from the supplied source:
 3. scans6–9 — `அணிந்துரை`;
 4. scan10 — `பதிப்புரை`;
 5. scan11 — epigraph / verse page;
-6. scan12 — secondary title divider;
-7. scan13 onward — `தோரண வாயில்`, exact structural role still provisional.
+6. scan12 — secondary title / illustrated divider;
+7. scan13 onward — `தோரண வாயில்`; exact structural role remains provisional.
 
 ## Source-first rules
 
@@ -61,20 +71,27 @@ Observed from the supplied source:
 - preserve printed spelling, punctuation, paragraph structure and historical glyph identity;
 - do not normalize names, offices, place names or historical vocabulary;
 - separate stamps / handwriting / library marks from printed text;
-- unclear readings remain `needs-review`;
+- unclear readings stay non-final;
 - source PDFs remain outside Git.
+
+## Current source-fidelity hold
+
+All ten scans6–15 were directly inspected and canonical records were created.
+
+The available rendered view reliably supports:
+- scan / Part-local identity;
+- page/section function;
+- visible printed-page numbers;
+- source-visible headings.
+
+It does **not** support a sufficiently reliable complete line-by-line transcription of the dense Tamil prose. The records therefore remain `partial`; no unreadable text has been reconstructed or guessed.
+
+Detailed checkpoint: [`T1_BATCH_006_015.md`](T1_BATCH_006_015.md).
 
 ## Exact next activity
 
-Perform **Part 001 T1 — overall scans6–15 / local pages6–15** under `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`.
+Remain on **T1 overall scans6–15 / Part001 local pages6–15**.
 
-T1 durable state:
-- five canonical page records exist;
-- all five carry Part001 split provenance;
-- all five remain `needs-review`;
-- scan3 telephone digits and scan5 compact publication block are explicit T1 uncertainties.
+Complete the full line-by-line Tamil source text for these ten records from a sufficiently detailed source rendering. Only after all ten are text-complete may they advance from `partial` to `needs-review` and T2 begin.
 
-After T2:
-- synchronize page records and controls;
-- commit;
-- stop before T3.
+Do **not** advance to scans16–25 while scans6–15 remain text-incomplete.
