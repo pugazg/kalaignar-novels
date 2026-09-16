@@ -19,7 +19,7 @@
 - image-only scans; no usable parsed text layer
 - canonical page records: **5/477**
 - T1: **5/477 COMPLETE through scan5**
-- T2: **0/477 — NEXT scans1–5**
+- T2: **5 / 477 COMPLETE through scan5**
 - T3: **0/477**
 - assembled Tamil: **BLOCKED**
 - English: **BLOCKED until Tamil archival + assembled-Tamil gates pass**
@@ -66,7 +66,7 @@ Observed from the supplied source:
 
 ## Exact next activity
 
-Perform **Part 001 T2 — overall scans1–5 / local pages1–5** under `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`.
+Perform **Part 001 T3 — overall scans1–5 / local pages1–5** under `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`.
 
 T1 durable state:
 - five canonical page records exist;
