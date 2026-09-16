@@ -86,7 +86,11 @@ The available rendered view reliably supports:
 
 It does **not** support a sufficiently reliable complete line-by-line transcription of the dense Tamil prose. The records therefore remain `partial`; no unreadable text has been reconstructed or guessed.
 
-Detailed checkpoint: [`T1_BATCH_006_015.md`](T1_BATCH_006_015.md).
+Detailed checkpoints:
+- [`T1_BATCH_006_015.md`](T1_BATCH_006_015.md)
+- [`SOURCE_ACCESS_REVIEW_T1_006_015.md`](SOURCE_ACCESS_REVIEW_T1_006_015.md)
+
+A same-source official Tamil Digital Library access route was also checked. It confirms the exact source-family/edition identity, but did not expose a usable page-text layer or sufficiently detailed alternate rendering for exact Tamil transcription. No external wording was substituted.
 
 ## Exact next activity
 
