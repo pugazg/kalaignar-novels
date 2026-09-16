@@ -81,7 +81,7 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 
 This is retained as **user-supplied descriptive metadata**, not substituted for source transcription.
 
-## Initial source observations from Part 002
+## Initial source observations from Part 001
 
 - overall scan 1 / Part 002 local 1 — illustrated cover;
 - scan 2 / local 2 — reverse / half-title-style matter;
@@ -106,6 +106,13 @@ Do not silently replace source wording with:
 - context- or grammar-based guesses.
 
 Historical Tamil glyph review follows `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+
+## Audited split boundary 30→31
+
+Direct comparison of overall scan30 (Part001 local30) and overall scan31 (Part002 local1) establishes **GENUINE CONTINUATION**:
+- section/body flow continues across the file split;
+- visible printed pages continue **19 → 20**;
+- no new bibliographic/title break occurs at Part002 local1.
 
 ## Boundary policy
 
@@ -143,6 +150,8 @@ Durable rule:
 
 ## Exact next activity
 
-Remain on **Part001 T1 scans6–35**.
+Proceed with **Part002 T1 source inventory scans36–45 / local pages6–15** using the attached Part002 PDF only.
 
-The ten page records exist with global/Part provenance, page function and visible printed-page numbers, and complete Tamil text capture remains the active T1 task. Work only from the attached Part001 PDF; do not seek external copies. Do not reconstruct unreadable text. Finish source text capture before T2.
+Canonical records currently exist through overall scan35. Boundary **30→31** has been directly audited as **GENUINE CONTINUATION**. Keep new text-incomplete records `partial`; T2/T3 remain blocked on partial pages.
+
+Full-text backlog remains **scans6–35**.
