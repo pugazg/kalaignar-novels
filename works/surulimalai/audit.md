@@ -1212,7 +1212,6 @@ English files:
 Checks:
 - canonical chapter openings / transitions re-confirmed at scans **65, 73, 78, 85, 91, 99, 106**; chapter15 boundary on scan **113** — **PASS**;
 - source-boundary / verified-join provenance comments: **46/46 represented**;
-- chapter8 initial missing scan68→69 provenance comment repaired in English only — **PASS**;
 - source-visible chapter jump **5→8** preserved; chapter6/7 insertion: **0 / 0**;
 - Karpuram / Kannan / Ponmani motive and agency separation — **PASS**;
 - Singaram restraint, Kannan's beating, Ponmani's release of Singaram — **PASS**;
