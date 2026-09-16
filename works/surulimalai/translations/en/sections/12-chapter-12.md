@@ -59,7 +59,7 @@ After a long while of treatment, the unconscious young man opened his eyes sligh
 
 Ponmani sat at a distance where she could see his face in the dim light of the lamp. For the first time in her life, she found herself enslaved by a new feeling. Without realizing it she kept looking at his face. A thought would arise that she was doing something wrong—and disappear as quickly as it came. This itself felt strange to her. Until then no one had managed to steal her heart. Now she herself seemed ready to come forward and offer her heart to this young man.
 
-Her eyes advanced upon his face like the dark *kiruttina* birds that dive slantwise, never missing their aim, to snatch fish glittering and floating in clear water. An indescribable feeling she had never known before began to toss her about.
+Her eyes advanced upon his face like the source-named *kiruttina* birds that dive slantwise, never missing their aim, to snatch fish glittering and floating in clear water. An indescribable feeling she had never known before began to toss her about.
 
 <!-- source boundary: scan 95 → scan 96 -->
 
@@ -83,7 +83,7 @@ Ponmani stood hidden behind a pillar, enjoying the beauty visible in the movemen
 
 "Lok! Lok!"—a cough. Ponnaiya came slowly toward the hall.
 
-"Where has that boy gone? Useless donkey! If he keeps roaming the village like this, he'll end up holding a begging bowl!" Ponnaiya had just finished when Surulimalai entered, chanting in a tune: "Harahara Mahadeva! Charity for Annamalai, mother! Arohara for Annamalai!"
+"Where has that boy gone? Useless donkey! If he keeps roaming the village like this, he'll end up holding a begging bowl!" Ponnaiya had just finished when Surulimalai entered, chanting in a tune: "Aragara Mahadeva! Annakkavadi dharmam, thaaye! Annamalaikku Arohara!"
 
 "Where did you go, da? What do you think you're doing? If your mother and sister struggle and earn food for you, is your plan to eat without a word and roam the village—lazy donkey! This place is running as both choultry and hospital now. Nothing will prosper! Nothing will prosper! Cursed house! Cursed house!" Ponnaiya said, heading toward the backyard.
 
