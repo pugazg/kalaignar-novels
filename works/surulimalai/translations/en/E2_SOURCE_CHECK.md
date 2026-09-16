@@ -95,8 +95,9 @@ English translated files now: **6 / 26**.
 English coverage now: **scan5 through scan64 / end of chapter5**.  
 Unresolved English holds: **0**.
 
-## Next
+## Downstream status
 
-Batch E3 — chapters **8–14**.
+The historical next step from E2 was Batch E3. It has since completed, along with E4–E5 and the final whole-work review.
 
-The source-visible chapter numbering jumps from **5 to 8**. Do not create chapters 6 or 7.
+Current whole-work English state: **26/26 VERIFIED / COMPLETE / CLOSED**.  
+Final authority: [`FINAL_BILINGUAL_REVIEW.md`](FINAL_BILINGUAL_REVIEW.md).
