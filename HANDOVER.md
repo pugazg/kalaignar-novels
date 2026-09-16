@@ -33,11 +33,11 @@
 - Batch E3: **SOURCE-CHECKED / COMPLETE**
 - translated files: **13 / 26**
 - coverage: **Introduction + Chapters1–5 + Chapters8–14 / scans5–113 before chapter15**
-- source-visible chapter structure represented in English: **1–5, 8–14**
-- chapters6/7 inserted: **0**
+- source-visible English chapter structure preserved: **1–5, 8–14**
+- chapters6/7 inserted: **0 / 0**
 - verified source-boundary / source-join comments in E3: **46 / 46 represented**
 - unresolved English holds: **0**
-- deliberate source-language retention: **1 archaic Silappatikaram quotation**
+- source-facing retentions include the archaic Silappatikaram quotation, `கிருட்டிணப் பறவை`, and Surulimalai's scan97 chant where stronger normalization is not source-supported
 - canonical Tamil changes caused by English: **0**
 - whole-work English: **IN PROGRESS**
 
@@ -61,4 +61,4 @@ Perform **English Batch E4 — Chapters 15–21** from:
 - `sections/20-chapter-20.md`
 - `sections/21-chapter-21.md`
 
-Canonical `pages/` remain controlling Tamil. PASSED `sections/` provide continuous-reading structure. Preserve the source-visible numbering **1–5, 8–27**; do not create chapters 6 or 7.
+Canonical `pages/` remain controlling Tamil. PASSED `sections/` remain the continuous-reading aid. Preserve speaker agency, rhetoric, dialogue register, source oddities, chapter transitions and physical provenance. Do not create chapters 6 or 7.
