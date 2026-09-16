@@ -37,6 +37,8 @@ Produce readable English while preserving:
 - Source-specific names, invocations, proverbs and performance terms are handled by the locked glossary rather than silently normalized.
 - Chapter 5's assault, chastity, sin, possession and suicide rhetoric is translated as source rhetoric without endorsement, euphemistic repair, or added modern commentary.
 - The source's pejorative `வாழாவெட்டி` is retained as *vazhavetty* with a minimal contextual gloss rather than silently neutralized.
+- E3 keeps `ஷு!`, `கிருட்டிணப் பறவை`, Surulimalai's scan97 chant, and `மஞ்ச கல்யாணி` source-facing where the canonical Tamil does not justify a stronger English normalization.
+- Chapter 14's Payasa Muni / Katteri material preserves both reported explanations rather than editorially choosing one.
 - E3 preserves the source distinction between reported possession / village folklore and Aravazhi's in-story rationalist explanation; no external adjudication is added inside translation prose.
 - The temple-bull sequence preserves both the immediate narrated event (Surulimalai's flute calms the bull) and Aravazhi's later source explanation that the bull was already accustomed to the flute.
 
