@@ -47,7 +47,7 @@ In general, the investigation of life's philosophy becomes most intense at house
 
 But once people return from the cremation ground, everything is forgotten.
 
-Even a man who wept over his wrongs while giving up his life would, if by chance he revived at the cremation ground and returned home, certainly forget everything he had thought while dying. Yet does that stop the customary talk at a house of death?
+Even a man who wept over his wrongs<!-- verified source join: scan 175→176 --> while giving up his life would, if by chance he revived at the cremation ground and returned home, certainly forget everything he had thought while dying. Yet does that stop the customary talk at a house of death?
 
 Not at all.
 
