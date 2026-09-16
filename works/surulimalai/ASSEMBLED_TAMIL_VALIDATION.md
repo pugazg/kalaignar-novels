@@ -63,4 +63,6 @@ Assembly excluded only matter already classified non-body, including printer/sig
 
 **ASSEMBLED TAMIL MASTER — PASS / VERIFIED.**
 
-The Tamil reading layer is structurally ready for English translation. English remains a derived layer; canonical Tamil `pages/` continue to govern any future bilingual discrepancy.
+The Tamil reading layer passed the structural gate and was used for the completed English translation. English is now **26/26 VERIFIED / COMPLETE / CLOSED**; canonical Tamil `pages/` continues to govern any future bilingual discrepancy.
+
+Current English closure authority: [`translations/en/FINAL_BILINGUAL_REVIEW.md`](translations/en/FINAL_BILINGUAL_REVIEW.md).
