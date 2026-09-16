@@ -39,7 +39,8 @@ Pass 2A remains **CLOSED / COMPLETE**.
 - final Tamil textual status — **30/30 verified; 0 partial; 0 needs-review**
 - final visual fidelity — **30/30 verified; 0 needs-review**
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
-- assembled Tamil — **NEXT / UNBLOCKED**
 - assembled Tamil — **PASS / CLOSED — 8/8 section files VERIFIED**
-- exact next gate — **Part001 English translation planning/setup**
+- English planning/setup — **COMPLETE**
+- English translated files — **0/8**
+- exact next gate — **English Draft Batch E1 — sections00–04 / scans1–12**
 - Part002 transcription — **BLOCKED**

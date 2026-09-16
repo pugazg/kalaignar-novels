@@ -148,7 +148,9 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - Part001 documentation synchronization: **PASS / COMPLETE**
 - Part001 Tamil archival-ready checkpoint: **PASS / CLOSED**
 - Part001 assembled Tamil: **PASS / CLOSED — 8/8 section files VERIFIED**
-- Part001 English: **NEXT / UNBLOCKED — planning gate**
+- Part001 English planning: **COMPLETE**
+- Part001 English translated files: **0/8**
+- Part001 English next: **E1 / sections00–04 / scans1–12**
 - Part001 Tamil archival-ready / assembled Tamil / English / release-readiness / final closure: **BLOCKED**
 - Part002 source: **REGISTERED / TRANSCRIPTION BLOCKED**
 - audited outgoing boundary: **30→31 GENUINE CONTINUATION**
@@ -166,6 +168,8 @@ Durable rule:
 
 ## Exact next activity
 
-Part001 assembled Tamil is **PASS / CLOSED**.
+Part001 English planning/setup is **COMPLETE**.
 
-Proceed with the **Part001 English translation planning/setup gate**. Part002 transcription remains blocked.
+Proceed with **English Draft Batch E1 — sections00–04 / scans1–12** from the PASSED assembled Tamil layer, with canonical `pages/` remaining controlling authority.
+
+Part002 transcription remains blocked.

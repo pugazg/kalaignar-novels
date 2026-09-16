@@ -77,7 +77,9 @@ Current Pass-1 state:
 - documentation synchronization: **PASS / COMPLETE**;
 - Tamil archival-ready checkpoint: **PASS / CLOSED**;
 - assembled Tamil: **PASS / CLOSED — 8/8 section files VERIFIED**;
-- English translation/review: **NEXT / UNBLOCKED — planning gate**;
+- English translation planning: **COMPLETE**;
+- English translated files: **0/8**;
+- English next: **E1 / sections00–04 / scans1–12**;
 - outgoing boundary **30→31**: **GENUINE CONTINUATION / AUDITED** using Part002 local1 as a boundary witness only.
 
 Authoritative tracker:
@@ -86,4 +88,4 @@ Authoritative tracker:
 - `PART_001_PASS2B_PROGRESS.md`
 - `PART_001_PASS3_PROGRESS.md`
 
-**Next:** perform the **Part001 English translation planning/setup gate**. Do not begin drafting, release/readiness, final Part closure, or Part002 transcription in the same iteration.
+**Next:** perform **English Draft Batch E1 — sections00–04 / scans1–12**, then complete its source-check before E2. Do not begin release/readiness, final Part closure, or Part002 transcription yet.

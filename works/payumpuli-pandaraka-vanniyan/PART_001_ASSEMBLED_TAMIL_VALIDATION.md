@@ -149,6 +149,6 @@ Part001 assembled Tamil is now **PASS / CLOSED**.
 
 ## Exact next gate
 
-Begin the **Part001 project-created English translation plan / workflow**.
+English planning/setup is **COMPLETE**. Begin **English Draft Batch E1 — sections00–04 / scans1–12** and complete its source-check before E2.
 
 Do not begin Part002 transcription. Part002 remains blocked until Part001 English, release/readiness and final Part closure are complete.

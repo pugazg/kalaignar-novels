@@ -383,8 +383,22 @@ The Part001 derived Tamil reading layer is now closed:
 
 Durable validation: `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`.
 
+## English planning/setup — COMPLETE
+
+The Part001 English control workspace is now established:
+
+- `translations/en/README.md` — **PLANNED / NOT YET DRAFTED**;
+- `translations/en/TRANSLATION_PLAN.md` — **COMPLETE**;
+- `translations/en/GLOSSARY.md` — **INITIAL / LOCKED FOR E1 START**;
+- `translations/en/PROGRESS.md` — **PLANNING COMPLETE / DRAFTING NOT STARTED**;
+- Tamil assembled files — **8/8 VERIFIED**;
+- English translated files — **0/8**;
+- unresolved English holds — **0**;
+- canonical Tamil edits caused by English — **0**;
+- Part002 content imported — **0**.
+
 ## Exact next activity
 
-Perform the **Part001 English translation planning/setup gate** only.
+Perform **English Draft Batch E1 — sections00–04 / scans1–12**, then complete its source-check before E2 begins.
 
-Do not begin English drafting, release/readiness, final Part closure, or Part002 transcription in the same iteration.
+Do not begin E2, release/readiness, final Part closure, or Part002 transcription until E1 closes.

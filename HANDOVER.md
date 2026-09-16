@@ -52,7 +52,9 @@ Current state:
 - documentation sync — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 8/8 section files VERIFIED**
-- English — **NEXT / UNBLOCKED — planning gate**
+- English — **PLANNING COMPLETE / DRAFTING NOT STARTED**
+- English translated files — **0/8**
+- unresolved English holds — **0**
 - release/readiness — **BLOCKED**
 - final Part closure — **BLOCKED**
 
@@ -67,6 +69,10 @@ Live trackers:
 - `works/payumpuli-pandaraka-vanniyan/PART_001_TAMIL_ARCHIVAL_READY.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - `works/payumpuli-pandaraka-vanniyan/sections/README.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/README.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/TRANSLATION_PLAN.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/GLOSSARY.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PROGRESS.md`
 
 ## Historical preliminary work
 
@@ -128,12 +134,8 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Part001 assembled Tamil is **PASS / CLOSED**.
+English planning/setup is **COMPLETE** and no translated English section file exists yet.
 
-Proceed with the **Part001 English translation planning/setup gate**:
-- establish the derived English workspace and authority hierarchy;
-- create the translation plan, initial glossary, progress control and English README;
-- define source-faithful batch/review rules from the 8 verified Tamil section files;
-- do not draft translated section prose in the planning gate.
+Proceed with **English Draft Batch E1 — sections 00–04 / scans1–12**. E1 must then pass its source-check before E2 is unblocked.
 
 Keep release/readiness, final Part closure and Part002 transcription blocked.

@@ -91,6 +91,6 @@ Validation result:
 
 Part001 Tamil archival-ready is already **PASS / CLOSED**.
 
-With this assembled layer now closed, the exact next maintained gate is the **Part001 project-created English translation plan / workflow**.
+English translation planning/setup is now **COMPLETE**. The exact next maintained activity is **English Draft Batch E1 — sections00–04 / scans1–12**, followed by its source-check.
 
 Part002 transcription remains blocked until Part001 completes English, release/readiness and final Part closure.

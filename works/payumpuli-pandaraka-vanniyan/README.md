@@ -41,7 +41,9 @@ Current Part001 state:
 - documentation sync — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 8/8 section files VERIFIED**
-- English translation/review — **NEXT / UNBLOCKED — planning gate**
+- English translation/review — **PLANNING COMPLETE / DRAFTING NOT STARTED**
+- English translated files — **0/8**
+- unresolved English holds — **0**
 - release/readiness report — **BLOCKED**
 - final Part001 closure — **BLOCKED**
 
@@ -118,6 +120,10 @@ Only after Pass 1 reaches **30/30 text-complete** does formal Pass 2A begin from
 - [`PART_001_TAMIL_ARCHIVAL_READY.md`](PART_001_TAMIL_ARCHIVAL_READY.md)
 - [`PART_001_ASSEMBLED_TAMIL_VALIDATION.md`](PART_001_ASSEMBLED_TAMIL_VALIDATION.md)
 - [`sections/README.md`](sections/README.md)
+- [`translations/en/README.md`](translations/en/README.md)
+- [`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md)
+- [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
+- [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md)
 - [`SOURCE_INTAKE.md`](SOURCE_INTAKE.md)
 - [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md)
 - [`metadata/source.md`](metadata/source.md)
@@ -129,8 +135,8 @@ Historical preliminary checkpoint records are retained for provenance but do not
 
 ## Exact next activity
 
-Part001 assembled Tamil is **PASS / CLOSED — 8/8 section files VERIFIED**.
+Part001 English planning/setup is **COMPLETE**. English prose drafting has **not** started.
 
-Perform the **Part001 English translation planning/setup gate** only. Use canonical `pages/` as controlling Tamil authority and the PASSED `sections/` layer as the normal continuous reading authority.
+Perform **English Draft Batch E1 — sections 00–04 / scans1–12** and complete its source-check before E2 begins.
 
-Do **not** begin English drafting, release/readiness, final Part closure, or Part002 transcription in the same iteration.
+Do **not** begin E2, release/readiness, final Part closure, or Part002 transcription in the same iteration unless the user explicitly continues.

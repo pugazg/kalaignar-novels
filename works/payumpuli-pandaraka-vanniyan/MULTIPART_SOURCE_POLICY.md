@@ -109,12 +109,14 @@ Authoritative work-specific guide:
 - Part001 documentation synchronization: **PASS / COMPLETE**
 - Part001 Tamil archival-ready checkpoint: **PASS / CLOSED**
 - Part001 assembled Tamil: **PASS / CLOSED — 8/8 section files VERIFIED**
-- Part001 English: **NEXT / UNBLOCKED — planning gate**
+- Part001 English planning: **COMPLETE**
+- Part001 English translated files: **0/8**
+- Part001 English: **E1 NEXT — sections00–04 / scans1–12**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 English/release: **BLOCKED**
 - Part002 transcription: **BLOCKED until Part001 final closure**
 - split-boundary classifications: **1 / 15 audited — 30→31 GENUINE CONTINUATION**
-- exact active gate: **Part001 English translation planning/setup**
+- exact active gate: **English Draft Batch E1 — sections00–04 / scans1–12**
 
 ## Batch-size policy
 

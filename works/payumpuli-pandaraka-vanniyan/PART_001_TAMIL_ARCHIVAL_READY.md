@@ -177,6 +177,8 @@ After this checkpoint, the Part001 assembled Tamil reading layer was constructed
 
 The forward instruction above to begin assembled Tamil is therefore superseded only as a live frontier.
 
+English planning/setup subsequently completed with translated files still **0/8**.
+
 Current next gate:
 
-**Part001 English translation planning/setup.**
+**English Draft Batch E1 — sections00–04 / scans1–12.**
