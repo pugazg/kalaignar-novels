@@ -197,7 +197,7 @@ Status: **COMPLETE / PASS — 10/10**.
 - difficult source forms are explicitly flagged in `T1_BATCH_055_064.md`;
 - scan64 ends `வாய் பிளந்தாள்!`;
 - scan65 was not opened or used;
-- T2 for scans55–64: **NOT STARTED**.
+- Historical checkpoint: T2 for scans55–64 had not yet started at this point.
 
 ## Scans 55–64 T2 gate
 
@@ -234,7 +234,7 @@ Status: **COMPLETE / PASS — 15/15**.
 - scan75→76 split: `என்` / `செய்வது;`;
 - scan79 ends `என்று கடிந்து கொண்டாள் பொன்மணி.`;
 - scan80 was not opened or used;
-- T2 for scans65–79: **NOT STARTED**;
+- Historical checkpoint: T2 for scans65–79 had not yet started at this point;
 - user-requested iteration size: **15 physical pages**;
 - checkpoint: [`T1_BATCH_065_079.md`](T1_BATCH_065_079.md).
 
@@ -295,7 +295,7 @@ Status: **COMPLETE / PASS — 15/15**.
 - scan93→94 quotation continuation preserved;
 - scan94 ends `முத்தாய்ப்பு வைத்தார் அவர்.`;
 - scan95 was not opened or used;
-- T2 for scans80–94: **NOT STARTED**;
+- Historical checkpoint: T2 for scans80–94 had not yet started at this point;
 - checkpoint: [`T1_BATCH_080_094.md`](T1_BATCH_080_094.md).
 
 ## Scans 80–94 T2 gate
@@ -336,7 +336,7 @@ Status: **COMPLETE / PASS — 15/15**.
 - extracted text was used only as baseline/alignment aid; scan pixels remain controlling;
 - obvious extraction-only stray numerals were excluded; uncertain source forms were retained for T2;
 - scan110 was not opened or used;
-- T2 for scans95–109: **NOT STARTED**;
+- Historical checkpoint: T2 for scans95–109 had not yet started at this point;
 - checkpoint: [`T1_BATCH_095_109.md`](T1_BATCH_095_109.md).
 
 ## Scans 95–109 T2 gate
@@ -653,7 +653,7 @@ T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
 ## Historical next activity at this checkpoint
 
-Perform the **terminal/full-198-page reconciliation only**; verify complete source coverage and control-file consistency before final closure.
+At this checkpoint, the next activity was the **terminal/full-198-page reconciliation**, to verify complete source coverage and control-file consistency before final closure.
 
 
 ## Scans 95–109 T3 gate
@@ -1043,7 +1043,7 @@ Status: **COMPLETE / PASS — 14/14**.
 - scan198 contains no story body; publisher device `திராவிடப்பண்ணை` / `திருச்சி` and wrapper printer imprint retained;
 - all fourteen physical scan boundaries were source-pixel aligned;
 - T2: **NOT STARTED**;
-- terminal/full-198-page reconciliation remains **DEFERRED**;
+- Historical checkpoint: terminal/full-198-page reconciliation was still deferred at this point;
 - checkpoint: [`T1_BATCH_185_198.md`](T1_BATCH_185_198.md).
 
 ## Scans 185–198 T2 gate
@@ -1059,7 +1059,7 @@ Status: **COMPLETE / PASS — 14/14**.
 - scan198 publisher-device/printer-wrapper matter re-confirmed;
 - unresolved historical/source-form readings: **0**;
 - all fourteen records remain **needs-review pending T3**;
-- terminal/full-198-page reconciliation remains **DEFERRED**;
+- Historical checkpoint: terminal/full-198-page reconciliation was still deferred at this point;
 - T2 audit: [`T2_AUDIT_185_198.md`](T2_AUDIT_185_198.md).
 
 ## Scans 185–198 T3 gate
@@ -1080,7 +1080,7 @@ Status: **COMPLETE / PASS — 14/14 VERIFIED**.
 - unresolved after T3: **0**;
 - scans185–198 final status: **verified**;
 - scans **5–198 are now T1/T2/T3 VERIFIED**;
-- terminal/full-198-page reconciliation remains **DEFERRED**;
+- Historical checkpoint: terminal/full-198-page reconciliation was still deferred at this point;
 - T3 audit: [`T3_AUDIT_185_198.md`](T3_AUDIT_185_198.md).
 
 ## Terminal / full-198-page reconciliation gate
@@ -1105,7 +1105,7 @@ Final reconciliation: [`FINAL_RECONCILIATION.md`](FINAL_RECONCILIATION.md).
 
 ## Historical next activity at this checkpoint
 
-In a **new activity**, build the **assembled Tamil master** from the verified canonical page records. Do not begin English until assembled-Tamil structural validation passes.
+At this checkpoint, the next activity was to build the **assembled Tamil master** from the verified canonical page records and complete structural validation before beginning English.
 
 ## Assembled Tamil master gate
 
@@ -1131,7 +1131,7 @@ Validation: [`ASSEMBLED_TAMIL_VALIDATION.md`](ASSEMBLED_TAMIL_VALIDATION.md).
 
 ## Historical next activity at this checkpoint
 
-Start the **English translation setup / first translation batch**. Create English translation controls and glossary, then translate `அறிமுகம்` + chapter 1 as the first bounded batch. Canonical Tamil remains authoritative.
+At this checkpoint, the next activity was to start the **English translation setup / first translation batch**, create the translation controls and glossary, and translate `அறிமுகம்` + chapter 1. Canonical Tamil remained authoritative.
 
 ## English Batch E1 gate
 
@@ -1167,7 +1167,7 @@ Detailed source check: [`translations/en/E1_SOURCE_CHECK.md`](translations/en/E1
 
 ## Historical next activity at this checkpoint
 
-Perform **English Batch E2 — Chapters 2–5**. Do not create chapters 6 or 7.
+At this checkpoint, the next activity was **English Batch E2 — Chapters 2–5**, while preserving the absence of chapters 6 and 7.
 
 ## English Batch E2 gate
 
@@ -1200,7 +1200,7 @@ Detailed source check: [`translations/en/E2_SOURCE_CHECK.md`](translations/en/E2
 
 ## Historical next activity at this checkpoint
 
-Perform **English Batch E3 — Chapters 8–14**. Preserve the source jump **5→8** and do not create chapters 6 or 7.
+At this checkpoint, the next activity was **English Batch E3 — Chapters 8–14**, preserving the source jump **5→8** and the absence of chapters 6 and 7.
 
 
 
