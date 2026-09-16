@@ -2,19 +2,35 @@
 
 > **மூல ஸ்கேன் page/structure authority.** Source PDF files repository-யில் commit செய்யப்படாது.
 
-## Active source — சுருளிமலை (1968 second edition)
+## Current repository status
 
-- source PDF: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf` — **user/source-confirmed 198-page Tamil Digital Library/Wikisource copy; current ChatGPT Files parser exposes only 150 pages / image-only / not committed**;
-- source intake: **REGISTERED / IN PROGRESS**;
-- front matter scans 1–4: **VERIFIED**;
-- scan 5: **body opening confirmed**;
-- body T1: **scans 5–24 VERIFIED; scans 25–29 COMPLETE / PASS — 5/5 `needs-review`**;
-- body T2: **scans 5–29 COMPLETE / PASS; scans 25–29 = 0 corrections; unresolved 0**;
-- body T3: **scans 5–24 COMPLETE / PASS / VERIFIED; scans 25–29 NEXT**;
-- source-ingestion status: **DEGRADED IN THIS CHAT — Files reports `num_pages: 150` for a source the user confirms is 198 pages**;
-- prior 150-page scan→print reconciliation: **RETRACTED / INVALID**;
-- terminal boundary: **UNKNOWN in the current truncated parser view**;
-- SHA-256: **PENDING**.
+No new novel/source is currently selected for processing.
+
+### Latest completed source — சுருளிமலை (1968 second edition)
+
+- source PDF: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf` — **not committed**;
+- complete source extent: **198 physical pages**;
+- SHA-256: **`3d940115bed12e818b8f3cbfbdfca56def0285aef803334f8711acf27f7408ea`**;
+- front matter scans **1–4: VERIFIED**;
+- scans **5–198 T1/T2/T3: COMPLETE / PASS / VERIFIED**;
+- canonical page records: **198/198 VERIFIED**;
+- terminal/full-source reconciliation: **COMPLETE / PASS**;
+- assembled Tamil master: **26/26 VERIFIED / PASS**;
+- source-visible chapter sequence: **1–5, 8–27**; chapters 6/7 are not invented;
+- English translation: **26/26 VERIFIED / COMPLETE / CLOSED**;
+- whole-work English provenance: **183/183 source-boundary/source-join markers represented**;
+- unresolved English holds: **0**;
+- canonical Tamil changes caused by English: **0**;
+- scan197 ending `[முற்றிற்று.]`: **retained**;
+- scan198 back-cover / publisher-device: **excluded from narrative translation**.
+
+Surulimalai closure authority:
+- `works/surulimalai/README.md`
+- `works/surulimalai/audit.md`
+- `works/surulimalai/translations/en/FINAL_BILINGUAL_REVIEW.md`
+- root `HANDOVER.md`
+
+Exact next action: **fetch live `main` and continue only with the next work explicitly selected by the user. Do not invent a new active novel.**
 
 ### Latest completed source — அரும்பு 1978 compilation
 
@@ -45,6 +61,7 @@ Exact next action: **perform சுருளிமலை T3 final source-fidelit
 
 | நூல் | நிலை |
 |---|---|
+| சுருளிமலை | Tamil 198/198 VERIFIED; assembled Tamil 26/26 PASS; English 26/26 VERIFIED / CLOSED |
 | அரும்பு | Tamil 18/18 VERIFIED; assembled Tamil PASS; English VERIFIED; release-ready |
 | சாரப்பள்ளம் சாமுண்டி | Tamil 25/25 VERIFIED; assembled Tamil PASS; English VERIFIED; release-ready |
 | நடுத்தெரு நாராயணி | Tamil 16/16 VERIFIED; assembled Tamil PASS; English VERIFIED; release-ready |
