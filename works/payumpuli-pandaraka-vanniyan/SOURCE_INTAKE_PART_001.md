@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity/global mapping durable; T1 scans1–5 COMPLETE / needs-review.**
+**REGISTERED — split identity/global mapping durable; scans1–5 T1/T2/T3 REVIEW COMPLETE.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **1–30**;
@@ -57,10 +57,12 @@ The canonical `scan_page` remains the overall scan number **1–30**.
 
 Part 001 source split: **SUPPLIED / REGISTERED**.
 
-T1 Batch 001–005:
-- overall scans **1–5** / local pages **1–5** — **COMPLETE**;
-- canonical records: **5/5 created**;
-- status: **5 needs-review / 0 verified**;
-- carried T1 uncertainties: scan3 small telephone-number digits; scan5 compact publication block.
+Opening batch 001–005:
+- overall scans **1–5** / local pages **1–5** — **T1/T2/T3 REVIEW COMPLETE**;
+- verified: **2** (scans1–2);
+- needs-review: **3** (scans3–5);
+- carried holds: scan3 telephone digits; scan4 copy-specific handwritten/stamp detail; scan5 compact publication block.
 
-**Next:** Part 001 T2 — overall scans **1–5** / local pages **1–5**.
+User-requested batch size from now on: **10 overall scans per iteration**.
+
+**Next:** Part001 T1 — overall scans **6–15** / local pages **6–15**.
