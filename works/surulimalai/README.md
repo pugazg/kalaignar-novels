@@ -22,7 +22,7 @@
 - scan198: **back-cover / publisher-device — no story body**;
 - terminal/full-198-page reconciliation: **COMPLETE / PASS**;
 - Tamil source-archival phase: **CLOSED**;
-- assembled Tamil: **NOT STARTED**;
+- assembled Tamil: **COMPLETE / PASS — 26/26 section files VERIFIED**;
 - English translation: **NOT STARTED**.
 
 Canonical authority is always the source scan. No OCR reading, contextual guess, spelling modernization or inferred printed-page number may override the source pixels.
@@ -71,13 +71,14 @@ The user supplied the following catalogue-style description for project context.
 - terminal/full-source reconciliation is **COMPLETE / PASS**; see `TERMINAL_BOUNDARY_AUDIT.md`.
 
 Source map: [`indexes/page-map.md`](indexes/page-map.md).  
-Source metadata: [`metadata/source.md`](metadata/source.md).
+Source metadata: [`metadata/source.md`](metadata/source.md).  
+Assembled Tamil: [`sections/README.md`](sections/README.md).  
+Assembled validation: [`ASSEMBLED_TAMIL_VALIDATION.md`](ASSEMBLED_TAMIL_VALIDATION.md).
 
 ## Exact next activity
 
-In a **new activity**, build the **assembled Tamil master** from the 198 verified canonical page records.
+Start the **English translation setup / first translation batch** from the PASSED Tamil layers.
 
-Preserve source chapter markers, source-visible scene dividers, paragraph order, physical-boundary decisions, and source-specific orthography. Run structural validation before beginning English translation.
+Create the English translation controls and glossary, then translate **`அறிமுகம்` + chapter 1** as the first bounded batch. Canonical `pages/` remain controlling Tamil; the PASSED `sections/` layer is the continuous-reading aid.
 
-Terminal audit: [`TERMINAL_BOUNDARY_AUDIT.md`](TERMINAL_BOUNDARY_AUDIT.md).  
-Final reconciliation: [`FINAL_RECONCILIATION.md`](FINAL_RECONCILIATION.md).
+Do not silently change canonical Tamil during translation.

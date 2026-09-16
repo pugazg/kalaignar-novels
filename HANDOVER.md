@@ -6,29 +6,39 @@
 - **LIVE MAIN IS AUTHORITATIVE.**
 - Active work: **`works/surulimalai/`**
 
-## சுருளிமலை — final Tamil archival state
+## சுருளிமலை — durable state
 
+### Tamil source archive
 - complete source: **198 physical pages**
-- bytes: **268,529,598**
 - SHA-256: **`3d940115bed12e818b8f3cbfbdfca56def0285aef803334f8711acf27f7408ea`**
-- scans **1–198** physically reconciled
+- scans **1–198 physically reconciled**
 - scans **5–198 T1/T2/T3 VERIFIED**
-- canonical page records: **198/198, no gaps, no duplicates**
-- page-map rows: **198/198, ordered 1→198**
-- unresolved source-form / terminal-control issues: **0**
-- scan197 / printed195 — `[முற்றிற்று.]`
-- scan198 — back-cover / publisher-device, no story body
+- canonical page records: **198/198**
 - terminal/full-198-page reconciliation: **COMPLETE / PASS**
 - Tamil source-archival phase: **CLOSED**
 
-Terminal authority:
-`works/surulimalai/TERMINAL_BOUNDARY_AUDIT.md`
+### Assembled Tamil master
+- reading-layer files: **26 / 26 VERIFIED**
+- composition: **1 `அறிமுகம்` + 25 source-visible numbered chapters**
+- chapter sequence: **1–5, 8–27**
+- chapter markers 6 / 7: **not source-visible / not invented**
+- textual coverage: **scan5 through scan197**
+- scan197 `[முற்றிற்று.]`: **included**
+- scan198 wrapper matter: **excluded**
+- structural validation: **COMPLETE / PASS**
+- canonical Tamil changes caused by assembly: **0**
 
-Final reconciliation:
-`works/surulimalai/FINAL_RECONCILIATION.md`
+Authorities:
+- `works/surulimalai/FINAL_RECONCILIATION.md`
+- `works/surulimalai/sections/README.md`
+- `works/surulimalai/ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Exact next activity
 
-In a **new activity**, build the **assembled Tamil master** from the verified page records, preserving source chapter markers, paragraph order, scene dividers, and source-specific orthography.
+Start the **English translation setup / first bounded batch**.
 
-Do **not** begin English translation until the assembled-Tamil structural validation passes.
+Create the English translation controls and glossary, then translate:
+1. `sections/00-arimugam.md`
+2. `sections/01-chapter-01.md`
+
+Canonical `pages/` remain controlling Tamil. The PASSED `sections/` layer is a derived continuous-reading aid. Do not silently modify Tamil during translation.

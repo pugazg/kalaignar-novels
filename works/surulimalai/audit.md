@@ -17,7 +17,8 @@ Final source controls:
 - scan198: **back-cover / publisher-device**;
 - terminal/full-198-page reconciliation: **COMPLETE / PASS**;
 - unresolved source-form / terminal-control issues: **0**;
-- Tamil source-archival phase: **CLOSED**.
+- Tamil source-archival phase: **CLOSED**;
+- assembled Tamil reading layer: **COMPLETE / PASS — 26/26 VERIFIED**.
 
 The historical 150-page Files parser ceiling is non-authoritative. The complete 198-page runtime source is now the terminal-reconciliation authority.
 
@@ -1088,4 +1089,30 @@ Final reconciliation: [`FINAL_RECONCILIATION.md`](FINAL_RECONCILIATION.md).
 ## Exact next activity
 
 In a **new activity**, build the **assembled Tamil master** from the verified canonical page records. Do not begin English until assembled-Tamil structural validation passes.
+
+## Assembled Tamil master gate
+
+Status: **COMPLETE / PASS**.
+
+- source layer: verified canonical `pages/` only;
+- assembled reading files: **26 / 26 VERIFIED**;
+- structure: **1 introduction + 25 source-visible numbered chapters**;
+- source-visible chapter sequence preserved exactly: **1–5, 8–27**;
+- unsupported chapter markers 6 / 7 inserted: **0**;
+- textual source coverage: **scan5 through scan197**;
+- scan197 `[முற்றிற்று.]`: **included**;
+- scan198 wrapper / publisher-device matter: **excluded**;
+- mixed chapter-boundary scans split only at verified source-visible headings;
+- source-visible scene dividers and verified physical continuations preserved;
+- T1/T2/T3 audit-note leakage into reading files: **0**;
+- canonical page records changed by assembly: **0**;
+- assembled structural validation: **PASS**;
+- English translation: **NOT STARTED**.
+
+Reading-layer authority: [`sections/README.md`](sections/README.md).  
+Validation: [`ASSEMBLED_TAMIL_VALIDATION.md`](ASSEMBLED_TAMIL_VALIDATION.md).
+
+## Exact next activity
+
+Start the **English translation setup / first translation batch**. Create English translation controls and glossary, then translate `அறிமுகம்` + chapter 1 as the first bounded batch. Canonical Tamil remains authoritative.
 
