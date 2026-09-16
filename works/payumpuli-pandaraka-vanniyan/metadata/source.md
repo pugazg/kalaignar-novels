@@ -131,16 +131,18 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - assembled Tamil: **BLOCKED**
 - English: **BLOCKED**
 
-## Current source-access review
+## Controlling-source clarification
 
-For scans6–15, direct attached-source rendering and the official Tamil Digital Library record for source family `TVA_BOK_0065744` were checked for a higher-detail access path. The official record confirms the same 1991 Rockfort source identity, but no usable page-text layer or sufficiently detailed alternate rendering was available through the current access path.
+The user confirmed that the attached PDF/split PDFs were downloaded from the Tamil Digital Library and that the Wikisource copy is the same source. For this project, the **user-attached split PDFs are the controlling and sufficient source artifacts**.
 
-No web/secondary wording has been imported into the canonical transcription.
-
-Durable note: [`../SOURCE_ACCESS_REVIEW_T1_006_015.md`](../SOURCE_ACCESS_REVIEW_T1_006_015.md).
+Durable rule:
+- use the attached PDFs directly;
+- do not access Tamil Digital Library, Wikisource, or other web mirrors for routine transcription;
+- do not treat an external mirror as a separate witness;
+- only use an outside source if the user explicitly asks for comparison/verification.
 
 ## Exact next activity
 
 Remain on **Part001 T1 scans6–15**.
 
-The ten page records exist with global/Part provenance, page function and visible printed-page numbers, but complete Tamil text capture is still pending because the current rendered view is not detailed enough for reliable full transcription. Do not reconstruct unreadable text. Finish source text capture before T2.
+The ten page records exist with global/Part provenance, page function and visible printed-page numbers, and complete Tamil text capture remains the active T1 task. Work only from the attached Part001 PDF; do not seek external copies. Do not reconstruct unreadable text. Finish source text capture before T2.
