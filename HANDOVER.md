@@ -72,8 +72,15 @@ Current state: **T1 PARTIAL**.
 
 Reason: the current rendered page view supports structure/page-number identification but not a sufficiently reliable complete character-by-character transcription of the dense Tamil prose. No unreadable body text was invented or reconstructed.
 
-Detailed checkpoint:
+Detailed checkpoints:
 - `works/payumpuli-pandaraka-vanniyan/T1_BATCH_006_015.md`
+- `works/payumpuli-pandaraka-vanniyan/SOURCE_ACCESS_REVIEW_T1_006_015.md`
+
+Source-access review:
+- controlling attached source remains authoritative;
+- official Tamil Digital Library record confirms exact `TVA_BOK_0065744`, 1991 Rockfort source identity;
+- no usable alternate text layer/high-detail page rendering was available through the current access path;
+- no web/secondary wording was imported into canonical text.
 
 ## Exact next activity
 
