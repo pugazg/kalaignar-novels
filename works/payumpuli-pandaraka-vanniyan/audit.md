@@ -1,157 +1,138 @@
 # Transcription Audit — பாயும்புலி பண்டாரக வன்னியன்
 
+## Methodology authority
+
+This work now follows:
+- `PAYUMPULI_ARCHIVAL_GUIDELINES.md`
+- `MULTIPART_SOURCE_POLICY.md`
+- `NOVEL_PROCESSING_GUIDE.md`
+- `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+
+Where the general novel workflow differs from the work-specific Part lock, the **work-specific Kuraloviyam-style Part closure rule governs**.
+
 ## Source family
 
 - source family: **TVA_BOK_0065744**
 - complete physical scans: **477**
-- split PDFs supplied: **16 / 16**
-- split range coverage: **477 / 477**
-- Parts 001–015: **30 local pages each**
-- Part 016: **27 local pages**
-- PDF files committed: **No**
-- rendered page images: **controlling source**
-- parsed text: **none usable**
+- supplied split PDFs: **16/16**
+- Parts001–015: **30 pages each**
+- Part016: **27 pages**
+- split coverage: **477/477**
+- PDFs committed: **No**
+- attached rendered source pages: controlling source
+- usable parsed text layer: none
 
-## Multipart registration gate
+## Multipart registration
 
 | Check | State |
 |---|---|
-| original complete extent established | **477** |
-| all split files supplied | **PASS — 16/16** |
-| split local page counts match filenames | **PASS — 15×30 + 27 = 477** |
-| global ranges continuous | **PASS — 1–477, no gap/overlap** |
-| exact split filenames registered | **PASS** |
-| canonical numbering rule | **PASS — overall scan_page never resets** |
-| per-Part intake records | **PASS — 16/16 created** |
-| split boundary source availability | **PASS — both sides available for all 15 boundaries** |
-| split boundary classification | **1/15 audited — 30→31 GENUINE CONTINUATION** |
-| canonical page records | **35/477** |
-| T1 complete | **5/477 — scans1–5** |
-| T1 partial | **30/477 — scans6–35** |
-| T2 reviewed | **5/477 — scans1–5** |
-| T3 reviewed | **5/477 — scans1–5** |
-| verified | **2/477** |
-| needs-review | **3/477** |
-| partial | **30/477** |
-| terminal page function | **NOT YET AUDITED** |
+| source family extent | **PASS — 477** |
+| split files supplied | **PASS — 16/16** |
+| global ranges | **PASS — 1–477 continuous** |
+| canonical numbering | **PASS — global scan_page never resets** |
+| per-Part intake records | **PASS — 16/16** |
+| boundary witnesses available | **PASS** |
+| boundary classifications | **1/15 audited — 30→31 GENUINE CONTINUATION** |
+
+## Methodology correction
+
+Earlier work drifted into an **inventory-only forward progression** and prematurely created Part002 records for scans31–35.
+
+That progression is **REVOKED**.
+
+Corrective actions:
+- premature Part002 page records scans31–35 were deleted;
+- the mixed `T1_BATCH_026_035.md` record was deleted;
+- Part002 returned to **REGISTERED / TRANSCRIPTION BLOCKED**;
+- scans1–2 were returned from premature `verified` to `needs-review`;
+- the earlier local T2/T3 scans1–5 are retained only as historical preliminary review evidence;
+- formal Part-level Pass 2A / Pass 2B / Pass 3 are reset to **NOT STARTED**;
+- `PART_001_PASS1_PROGRESS.md` is now the authoritative live source-progress tracker.
+
+## Active Part001
+
+Range:
+- overall scans **1–30**
+- Part001 local pages **1–30**
+
+Current Pass-1 accounting:
+
+| Dimension | State |
+|---|---:|
+| physical scans | **30** |
+| canonical records present | **30/30** |
+| Pass-1 text-complete | **5/30 — scans1–5** |
+| Pass-1 partial | **25/30 — scans6–30** |
+| needs-review | **5/30 — scans1–5** |
+| verified | **0/30 formal Part-level final status** |
+| formal Pass 2A | **NOT STARTED** |
+| formal Pass 2B | **NOT STARTED** |
+| formal Pass 3 | **NOT STARTED** |
+| Part audit | **NOT STARTED** |
+| final status sync | **NOT STARTED** |
+| documentation sync | **NOT STARTED** |
+| Tamil archival-ready | **BLOCKED** |
 | assembled Tamil | **BLOCKED** |
 | English | **BLOCKED** |
+| release/readiness | **BLOCKED** |
+| final Part closure | **BLOCKED** |
 
-## Boundary audit rule
+## Historical opening review
 
-All fifteen Part boundaries have both source witnesses available. A split boundary is classified only after direct comparison of its two adjacent pages; the split itself is not evidence of a textual break.
+The previous scans1–5 T1/T2/T3 checkpoint files remain in the repository as historical evidence of work already performed.
 
-## Opening batch — scans1–5
+They do **not** establish the formal Kuraloviyam-style whole-Part verification gates, because:
+- Pass 1 has not yet completed the entire Part;
+- Pass 2A must begin only after Part001 Pass 1 reaches 30/30;
+- Pass 2B follows whole-Part Pass 2A;
+- Pass 3 follows Pass 2B;
+- final `verified` metadata is assigned only after Part audit and final status synchronization.
 
-- T1: **COMPLETE**
-- T2: **COMPLETE**
-- T3 review: **COMPLETE**
-- verified: **2** — scans1–2
-- needs-review: **3** — scans3–5
-- carried holds:
-  - scan3 — small telephone-number digits;
-  - scan4 — copy-specific handwritten/stamp detail;
-  - scan5 — compact publication/bibliographic block.
+## Part001 outgoing boundary
 
-Checkpoint files:
-- [`T1_BATCH_001_005.md`](T1_BATCH_001_005.md)
-- [`T2_BATCH_001_005.md`](T2_BATCH_001_005.md)
-- [`T3_BATCH_001_005.md`](T3_BATCH_001_005.md)
+Direct comparison:
+- scan30 / Part001 local30 / printed19
+- scan31 / Part002 local1 / printed20
 
-## T1 Batch 006–015
+Classification: **GENUINE CONTINUATION**.
 
-Status: **PARTIAL / 10 of 10 canonical records created**.
+Part002 local1 is retained only as a boundary witness. No Part002 canonical transcription record is retained.
 
-- overall scans **6–15**
-- Part001 local pages **6–15**
-- structural/page-function capture: **COMPLETE**
-- visible printed-page numbers recorded:
-  - scan13 → **2**
-  - scan14 → **3**
-  - scan15 → **4**
-- full line-by-line Tamil transcription: **IN PROGRESS**
-- current state: **10 partial**
-- source condition: **normal / controlling source remains attached Part001 PDF**
-- previous “dense/source-resolution-blocked” characterization: **RETRACTED**
-- no missing canonical text is reconstructed from context, metadata, OCR, web text or another edition.
+## Mandatory Part001 closure chain
 
-Detailed checkpoint:
-- [`T1_BATCH_006_015.md`](T1_BATCH_006_015.md)
+Before Part002 transcription may begin, Part001 must complete:
 
-## Controlling-source clarification
+1. Pass 1 — 30/30
+2. Pass 2A — 30/30
+3. Pass 2B — 30/30
+4. Pass 3 — 30/30
+5. Part audit
+6. final metadata/status synchronization
+7. documentation synchronization
+8. Tamil archival-ready checkpoint
+9. assembled Tamil construction + audit
+10. English translation plan
+11. English drafting
+12. English source-check
+13. glossary reconciliation
+14. editorial review
+15. whole-Part bilingual review
+16. release/readiness report
+17. release-ready synchronization as applicable
+18. `PART_001_FINAL_CLOSURE.md`
 
-The user confirmed that the attached split PDFs are the Tamil Digital Library source and that the Wikisource copy is the same copy.
-
-For this archive:
-- the attached split PDFs are the sole routine transcription authority;
-- no external-site access is required for T1/T2/T3;
-- external mirrors are not treated as independent witnesses unless the user explicitly requests comparison;
-- canonical text must continue to come from direct inspection of the attached source pages.
-
-## T1 Batch 016–025
-
-Status: **PARTIAL INVENTORY / 10 of 10 canonical records created**.
-
-- overall scans **16–25** / Part001 local pages **16–25**;
-- section: `தோரண வாயில்` continuation;
-- visible printed pages recorded **5–14**;
-- canonical page/provenance capture: **COMPLETE**;
-- complete line-by-line Tamil transcription: **PENDING**;
-- current state: **10 partial**;
-- detailed checkpoint: [`T1_BATCH_016_025.md`](T1_BATCH_016_025.md).
-
-### Work-specific forward-inventory rule
-
-Per the user's clarification, the normal attached PDF must not be described as a source-quality blocker. Forward T1 inventory may continue while complete-text entry remains backlogged.
-
-This does **not** waive the source-first gates:
-- text-incomplete pages remain `partial`;
-- T2/T3 remain blocked for those pages;
-- assembled Tamil/English remain blocked;
-- final archival closure requires the backlog to be resolved.
-
-## T1 Batch 026–035
-
-Status: **PARTIAL INVENTORY / 10 of 10 canonical records created**.
-
-- overall scans **26–35**;
-- Part001 local pages **26–30**;
-- Part002 local pages **1–5**;
-- section remains `தோரண வாயில்`;
-- visible printed pages recorded **15–24**;
-- canonical page/provenance capture: **COMPLETE**;
-- complete line-by-line Tamil transcription: **PENDING**;
-- current state: **10 partial**;
-- detailed checkpoint: [`T1_BATCH_026_035.md`](T1_BATCH_026_035.md).
-
-### Boundary 30→31
-
-Direct source comparison result: **GENUINE CONTINUATION**.
-
-- scan30 printed page **19**;
-- scan31 printed page **20**;
-- body flow continues across Part001→Part002;
-- no artificial split-boundary break is introduced.
-
-## Historical-glyph / transcription gate
-
-All page work follows:
-- `NOVEL_PROCESSING_GUIDE.md`
-- `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-- `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`
-- `MULTIPART_SOURCE_POLICY.md`
-
-T2 cannot begin for any partial page until its T1 text capture is complete.
+Only then may Part002 become active.
 
 ## Exact next activity
 
-Perform **T1 source inventory scans36–45 / Part002 local6–15**.
+**Part001 Pass 1 scans6–15 — complete source transcription.**
 
-- create ten canonical records with exact Part002 provenance;
-- record only visibly printed page numbers;
-- preserve section/page function and non-body marks;
-- keep text-incomplete records `partial`;
-- synchronize controls and commit;
-- stop before scans46–55.
+- use the attached Part001 PDF only;
+- complete all ten existing page records;
+- preserve source text exactly;
+- leave text-complete pages `needs-review`;
+- update `PART_001_PASS1_PROGRESS.md`;
+- synchronize controls;
+- commit and stop.
 
-Full-text transcription backlog remains scans6–35.
+Do not begin Part002.
