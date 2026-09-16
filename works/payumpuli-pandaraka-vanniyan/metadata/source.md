@@ -5,12 +5,13 @@
 - source filename: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்.pdf`
 - source PDF committed to repository: **No**
 - file size: **456,236,783 bytes**
-- scan pages: **150**
+- physical scan pages: **477** — user-confirmed full PDF extent
 - language: **Tamil**
 - script: **Tamil**
 - format: **image-only scanned PDF; no usable parsed text layer**
 - SHA-256: **PENDING — container checksum unavailable in the current intake step**
 - controlling source: **the user-supplied scanned PDF**
+- current ChatGPT file-render/index preview: **first 150 pages only**; this preview limit must never be treated as the physical PDF extent
 
 ## User-supplied bibliographic metadata
 
@@ -59,12 +60,22 @@ Do not silently replace source wording with:
 
 Historical Tamil glyph review must follow root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 
+## Preview-limit correction
+
+The initial intake mistakenly recorded **150 scans** because the conversation file service exposed/rendered only a **150-page preview/index** for this large PDF. The user confirmed that the original PDF contains **477 physical pages**.
+
+Durable rule:
+- **477** is the source extent for repository accounting;
+- the 150-page conversation preview is only an access/rendering limit;
+- pages 151–477 must not be treated as absent, blank, or outside the source;
+- no terminal-boundary claim may be made until the actual tail is inspected.
+
 ## Current intake state
 
-- physical source extent: **150 scans**
+- physical source extent: **477 scans**
 - source registration: **COMPLETE**
 - initial opening structure review: **COMPLETE through scan20**
-- canonical `pages/` records: **0 / 150**
+- canonical `pages/` records: **0 / 477**
 - T1: **NOT STARTED**
 - T2: **NOT STARTED**
 - T3: **NOT STARTED**
