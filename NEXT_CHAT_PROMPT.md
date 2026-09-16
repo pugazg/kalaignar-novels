@@ -1,62 +1,56 @@
-# NEXT CHAT PROMPT — சுருளிமலை / English VERIFIED / CLOSED
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / T1 scans1–5
 
-Continue in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## சுருளிமலை closed state
+## Source
 
-### Tamil archive
-- canonical page records: **198 / 198 VERIFIED**
-- scans5–198 T1/T2/T3: **COMPLETE / PASS**
-- terminal reconciliation: **COMPLETE / PASS**
-- scan197 / printed195 ending: **`[முற்றிற்று.]`**
-- scan198: **back-cover / publisher-device — no story body**
-- assembled Tamil master: **26 / 26 VERIFIED**
-- assembled structural validation: **COMPLETE / PASS**
-- source-visible chapter sequence: **1–5, 8–27**
+`TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்.pdf`
 
-### English
-- Batch E1: **SOURCE-CHECKED / COMPLETE**
-- Batch E2: **SOURCE-CHECKED / COMPLETE**
-- Batch E3: **SOURCE-CHECKED / COMPLETE**
-- Batch E4: **SOURCE-CHECKED / COMPLETE**
-- Batch E5: **SOURCE-CHECKED / COMPLETE**
-- English files: **26 / 26**
-- narrative coverage: **scans5–197 / `[முற்றிற்று.]`**
-- source-visible English chapter sequence: **1–5, 8–27**
-- chapter6 / chapter7 English files: **none**
-- physical provenance: **183 / 183 represented**
-- unresolved English holds: **0**
-- canonical Tamil changes caused by English: **0**
-- final bilingual / consistency review: **COMPLETE / PASS**
-- whole-work English: **VERIFIED / COMPLETE / CLOSED**
+- physical scans: **150**
+- file size: **456,236,783 bytes**
+- image-only scan
+- SHA-256: **PENDING**
+- source PDF must not be committed
 
-## Authoritative English controls
+## Bibliographic identity
 
-- `works/surulimalai/translations/en/README.md`
-- `works/surulimalai/translations/en/GLOSSARY.md`
-- `works/surulimalai/translations/en/TRANSLATION_PLAN.md`
-- `works/surulimalai/translations/en/PROGRESS.md`
-- `works/surulimalai/translations/en/E1_SOURCE_CHECK.md`
-- `works/surulimalai/translations/en/E2_SOURCE_CHECK.md`
-- `works/surulimalai/translations/en/E3_SOURCE_CHECK.md`
-- `works/surulimalai/translations/en/E4_SOURCE_CHECK.md`
-- `works/surulimalai/translations/en/E5_SOURCE_CHECK.md`
-- `works/surulimalai/translations/en/FINAL_BILINGUAL_REVIEW.md`
-- root `HANDOVER.md`
+- title: **பாயும்புலி பண்டாரக வன்னியன்**
+- author: **கலைஞர் மு. கருணாநிதி**
+- publisher: **ராக்போர்ட் பப்ளிகேஷன்ஸ்**
+- edition: **முதல் பதிப்பு, 1991**
 
-## Closure rule
+## Durable state
 
-Do **not** reopen closed Surulimalai Tamil or English merely for another routine review.
+- source intake: **COMPLETE / REGISTERED**
+- initial structure review: **scans1–20**
+- canonical page records: **0 / 150**
+- T1/T2/T3: **NOT STARTED**
+- terminal boundary: **NOT YET AUDITED**
+- assembled Tamil / English: **BLOCKED**
 
-Reopen only if:
-1. the user reports a specific source-fidelity issue;
-2. genuinely new source evidence changes a reading; or
-3. the user explicitly requests a new publication/output layer derived from the closed archive.
-
-Canonical `works/surulimalai/pages/` remains controlling for any future fidelity issue.
+Controls:
+- `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE.md`
+- `works/payumpuli-pandaraka-vanniyan/metadata/source.md`
+- `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
+- `works/payumpuli-pandaraka-vanniyan/README.md`
+- `works/payumpuli-pandaraka-vanniyan/audit.md`
+- `NOVEL_PROCESSING_GUIDE.md`
+- `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+- `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`
 
 ## Exact next activity
 
-**None for Surulimalai archival or English translation.**
+Perform **T1 scans1–5 only**.
 
-If continuing repository work, fetch live `main` and follow the next work explicitly selected by the user; do not invent a new novel or activity.
+- direct visual transcription from source pixels;
+- create five canonical `pages/` records;
+- preserve only visibly printed page numbers;
+- record stamps / handwriting / library marks separately from printed source text;
+- preserve spelling, punctuation and historical typeforms;
+- do not use OCR, grammar or historical knowledge as authority;
+- mark all five records `needs-review`;
+- synchronize page map / README / audit / handover / next prompt;
+- commit;
+- stop before T2.
+
+Do not infer a chapter number for `தோரண வாயில்` at this stage.
