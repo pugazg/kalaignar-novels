@@ -7,10 +7,10 @@ work: "payumpuli-pandaraka-vanniyan"
 section: "front-matter"
 page_type: "title-page"
 status: "needs-review"
-visual_fidelity: "needs-review"
+visual_fidelity: "reviewed-with-hold"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual transcription from rendered source scan; T1; T2 independent re-read complete"
+transcription_method: "direct visual transcription from rendered source scan; T1; T2 independent re-read complete; T3 final source-fidelity review complete"
 ---
 
 # பாயும்புலி பண்டாரக வன்னியன்
@@ -43,4 +43,11 @@ transcription_method: "direct visual transcription from rendered source scan; T1
 - exact copy-specific mark transcription remains deferred because it is not sufficiently clear in the rendered source;
 - page remains `needs-review` pending T3.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 4; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: —; T1/T2 COMPLETE / needs-review -->
+## T3 final source-fidelity notes
+
+- printed title, author and publisher/place lines were re-checked;
+- library stamps and handwritten accession-style material remain correctly separated from publication text;
+- exact copy-specific handwritten/stamp details are not sufficiently clear for a final archival reading;
+- T3 review is complete, but the page remains **needs-review** for the unresolved copy-specific mark detail.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 4; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: —; T1/T2/T3 REVIEW COMPLETE / needs-review -->
