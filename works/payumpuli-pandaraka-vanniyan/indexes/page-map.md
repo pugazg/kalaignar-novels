@@ -514,6 +514,7 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part001 formal Pass 2A: **COMPLETE — 30/30 reviewed**
 - Part001 formal Pass 2B: **COMPLETE — 30/30 reviewed**
 - Part001 formal Pass 3: **COMPLETE — 30/30 reviewed**
+- Part001 Part audit: **PASS / COMPLETE**
 - Part001 pages currently remain **needs-review / non-final**
 - audited outgoing boundary: **30→31 GENUINE CONTINUATION**
 - Part002 transcription: **BLOCKED until Part001 final closure**
@@ -524,6 +525,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 Part001 Pass 1 is **COMPLETE — 30/30 text-complete**.
 
-Begin **Part001 Part audit**.
+Perform **Part001 final metadata/status synchronization**.
 
 Do not begin Part002 transcription.

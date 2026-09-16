@@ -35,7 +35,7 @@ Pages remain `needs-review` until Part audit and final metadata/status synchroni
 - remaining: **0/30**
 - textual corrections introduced by Pass 3: **0**
 - unresolved visual/structural questions: **0**
-- Part audit: **NOT STARTED**
+- Part audit: **PASS / COMPLETE**
 
 ## Batch history
 
@@ -60,7 +60,8 @@ No page is promoted to final `verified` status at this stage.
 
 ## Exact next activity
 
-Begin **Part001 Part audit**.
+Perform **Part001 final metadata/status synchronization**.
 
-Do not begin the Part audit in this Pass3-closing iteration.
+The Part audit is **PASS / COMPLETE**. Keep Tamil archival-ready, assembled Tamil, English and Part002 blocked until their later gates.
+
 Do not begin Part002 transcription.

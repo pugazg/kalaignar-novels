@@ -44,7 +44,7 @@ Current state:
 - formal Pass 2A — **COMPLETE — 30/30 reviewed**
 - formal Pass 2B — **COMPLETE — 30/30 reviewed**
 - formal Pass 3 — **COMPLETE — 30/30 reviewed**
-- Part audit — **NOT STARTED**
+- Part audit — **PASS / COMPLETE**
 - final status sync — **NOT STARTED**
 - documentation sync — **NOT STARTED**
 - Tamil archival-ready — **BLOCKED**
@@ -58,6 +58,7 @@ Live trackers:
 - `works/payumpuli-pandaraka-vanniyan/PART_001_PASS2A_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_001_PASS2B_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_001_PASS3_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_001_AUDIT.md`
 
 ## Historical preliminary work
 
@@ -119,13 +120,13 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Part001 Pass 3 is **COMPLETE — 30/30 reviewed**.
+Part001 Part audit is **PASS / COMPLETE**.
 
-Begin **Part001 Part audit**.
+Perform **Part001 final metadata/status synchronization**.
 
-- audit all 30 canonical page records against the closed Pass1 / Pass2A / Pass2B / Pass3 evidence;
-- verify page-map/provenance, section structure, printed-page mapping, source-boundary state and unresolved-item accounting;
-- do not promote final page status until the audit passes and final metadata/status synchronization is performed;
+- use `PART_001_AUDIT.md` as the audit authority;
+- reconcile final per-page status / visual-fidelity metadata from the closed Pass evidence;
+- do not start the separate documentation-sync or Tamil archival-ready gate until final status synchronization is complete;
 - commit and stop.
 
 Do not begin Part002 transcription.

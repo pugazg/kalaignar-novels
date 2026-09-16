@@ -32,5 +32,6 @@ Pass 2A remains **CLOSED / COMPLETE**.
 ## Current downstream state
 
 - Pass 2B — **COMPLETE / 30/30**
-- exact next gate — **Part001 Part audit**
+- Part audit — **PASS / COMPLETE**
+- exact next gate — **Part001 final metadata/status synchronization**
 - Part002 transcription — **BLOCKED**

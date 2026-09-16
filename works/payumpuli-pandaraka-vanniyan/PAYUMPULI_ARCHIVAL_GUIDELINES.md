@@ -133,7 +133,7 @@ For Part001 Pass 1:
 - scans16–25: **COMPLETE / text-complete / needs-review**;
 - scans26–30: **COMPLETE / text-complete / needs-review**.
 
-Part001 Pass 1 is **30/30 COMPLETE**; formal Pass 2A is **30/30 COMPLETE**; formal Pass 2B is **30/30 COMPLETE**; formal Pass 3 is **30/30 COMPLETE**. The next gate is **Part001 Part audit**.
+Part001 Pass 1 is **30/30 COMPLETE**; formal Pass 2A is **30/30 COMPLETE**; formal Pass 2B is **30/30 COMPLETE**; formal Pass 3 is **30/30 COMPLETE**; Part001 Part audit is **PASS / COMPLETE**. The next gate is **final metadata/status synchronization**.
 
 ## 10. Current Part lock
 

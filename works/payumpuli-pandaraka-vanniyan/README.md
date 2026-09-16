@@ -33,7 +33,7 @@ Current Part001 state:
 - formal Pass 2A — **COMPLETE — 30/30 reviewed**
 - formal Pass 2B — **COMPLETE — 30/30 reviewed**
 - formal Pass 3 — **COMPLETE — 30/30 reviewed**
-- Part audit — **NOT STARTED**
+- Part audit — **PASS / COMPLETE**
 - final metadata/status sync — **NOT STARTED**
 - documentation sync — **NOT STARTED**
 - Tamil archival-ready — **BLOCKED**
@@ -118,10 +118,10 @@ Historical preliminary checkpoint records are retained for provenance but do not
 
 ## Exact next activity
 
-Part001 Pass 3 is **COMPLETE — 30/30 reviewed**.
+Part001 Part audit is **PASS / COMPLETE**.
 
-Begin **Part001 Part audit**.
+Perform **Part001 final metadata/status synchronization**.
 
-All 30 pages remain `needs-review` until the Part audit and final metadata/status synchronization close.
+All 30 pages remain `needs-review` until that next gate applies the audited final status.
 
-Do **not** begin Part002 transcription.
+Do **not** begin Tamil archival-ready, assembled Tamil, English, or Part002 yet.

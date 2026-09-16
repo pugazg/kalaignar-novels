@@ -68,7 +68,7 @@ Current Pass-1 accounting:
 | formal Pass 2A | **COMPLETE — 30/30 reviewed** |
 | formal Pass 2B | **COMPLETE — 30/30 reviewed** |
 | formal Pass 3 | **COMPLETE — 30/30 reviewed** |
-| Part audit | **NOT STARTED** |
+| Part audit | **PASS / COMPLETE** |
 | final status sync | **NOT STARTED** |
 | documentation sync | **NOT STARTED** |
 | Tamil archival-ready | **BLOCKED** |
@@ -116,6 +116,26 @@ All 30 pages remain non-final / `needs-review`. The next gate is formal **Pass 2
 - scan11 verse lineation and attribution were preserved;
 - scan12 illustration and scan15 memorial-stone photograph remain separate visual/non-body matter;
 - no formal Pass 2A / Pass 2B / Pass 3 credit was assigned.
+
+## Part001 Part audit — PASS / COMPLETE
+
+Durable audit authority:
+- `PART_001_AUDIT.md`
+
+Whole-Part repository audit result:
+- canonical records — **30/30 present**;
+- scan / Part-page sequence — **1–30 continuous**;
+- exact Part001 source provenance — **30/30 consistent**;
+- Pass2A / Pass2B / Pass3 evidence blocks — **30/30 present**;
+- printed-page map — **PASS**: scans1–12 unnumbered, scans13–30 = printed2–19;
+- section/chapter map — **PASS**;
+- historical-glyph unresolved count — **0**;
+- Pass3 unresolved visual/structural count — **0**;
+- outgoing 30→31 boundary — **GENUINE CONTINUATION / retained**;
+- Part002 canonical records present — **0**;
+- page status remains intentionally `needs-review` pending final status synchronization.
+
+Audit decision: **PASS / COMPLETE**.
 
 ## Formal Pass 3 — scans21–30
 
@@ -318,9 +338,8 @@ Only then may Part002 become active.
 
 ## Exact next activity
 
-**Part001 Part audit.**
+**Part001 final metadata/status synchronization.**
 
-Audit the closed Pass1 / Pass2A / Pass2B / Pass3 evidence across all 30 canonical page records, including provenance, page map, section structure, printed-page mapping, boundary state and unresolved-item accounting.
+Use the passed `PART_001_AUDIT.md` as the authority for final per-page metadata/status reconciliation.
 
-Do not perform final metadata/status synchronization until the Part audit passes.
-Do not begin Part002.
+Do not begin Tamil archival-ready, assembled Tamil, English, or Part002 in this audit iteration.

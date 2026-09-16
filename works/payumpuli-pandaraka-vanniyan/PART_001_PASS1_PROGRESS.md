@@ -21,7 +21,7 @@ This tracker follows the Kuraloviyam rule that **Pass 1 is complete only when ev
 - formal Pass 2A: **COMPLETE — 30/30 reviewed**
 - formal Pass 2B: **COMPLETE — 30/30 reviewed**
 - formal Pass 3: **COMPLETE — 30/30 reviewed**
-- Part audit: **NOT STARTED**
+- Part audit: **PASS / COMPLETE**
 - Tamil archival-ready: **BLOCKED**
 - assembled Tamil: **BLOCKED**
 - English: **BLOCKED**
@@ -73,6 +73,6 @@ Part001 Pass 1 is now **COMPLETE — 30/30 text-complete**.
 
 ## Exact next activity
 
-Pass 1 remains closed. Formal Part001 Pass 2A and Pass 2B are **COMPLETE — 30/30 reviewed**. Formal Part001 Pass 3 is **COMPLETE — 30/30 reviewed**. The exact next gate is **Part001 Part audit**. Authoritative live tracker: `PART_001_PASS3_PROGRESS.md`.
+Pass 1 remains closed. Formal Part001 Pass 2A and Pass 2B are **COMPLETE — 30/30 reviewed**. Formal Part001 Pass 3 is **COMPLETE — 30/30 reviewed**. The Part001 Part audit is **PASS / COMPLETE**. The exact next gate is **final metadata/status synchronization**. Authoritative audit record: `PART_001_AUDIT.md`.
 
 Do not begin Part002 transcription. Part002 remains blocked until Part001 completes the full Tamil archival-ready, assembled Tamil, English, release/readiness and final closure chain.

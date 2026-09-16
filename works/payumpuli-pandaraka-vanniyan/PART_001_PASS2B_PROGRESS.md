@@ -68,7 +68,7 @@ Therefore:
 
 ## Exact next activity
 
-Formal Part001 Pass 3 is **COMPLETE — 30/30 reviewed**. Next gate: **Part001 Part audit**.
+Formal Part001 Pass 3 is **COMPLETE — 30/30 reviewed**. Part001 Part audit is **PASS / COMPLETE**. Next gate: **final metadata/status synchronization**.
 
 Do not begin Pass 3 in this Pass2B-closing iteration.
 Do not begin Part002 transcription.
