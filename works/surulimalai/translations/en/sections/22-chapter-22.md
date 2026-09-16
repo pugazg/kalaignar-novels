@@ -83,7 +83,7 @@ Though wet with rainwater, her hand felt warm.
 
 "I would never, even for a moment, dare destroy you by becoming a slave to mere frenzy and emotion. I want to learn the language of love that youth gives us without violating the bounds of its grammar.
 
-"I will not step onto the path of men without limits who stain what the source calls women's chastity—a discipline held dearer than life—and play with their lives, even if I become a blind pigeon.
+"I will not step onto the path of men without limits who stain women's chastity, held dearer than life, and play with their lives, even if I become a blind pigeon.
 
 "You can trust me without fear, Ponmani!"
 
