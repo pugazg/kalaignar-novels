@@ -67,10 +67,12 @@ Part001 Pass 1 is now **COMPLETE — 30/30 text-complete**.
 - all 30 canonical records are present;
 - all 30 have complete page-aligned source transcription;
 - all remain non-final / `needs-review`;
-- formal Pass 2A / Pass 2B / Pass 3 have not yet begun.
+- formal Pass 2A — **COMPLETE / 30/30**;
+- formal Pass 2B — **COMPLETE / 30/30**;
+- formal Pass 3 — **NOT STARTED**.
 
 ## Exact next activity
 
-Pass 1 remains closed. Formal Part001 Pass 2A is now **COMPLETE — 30/30 reviewed**. The next gate is formal Pass 2B from scan1; authoritative live trackers are `PART_001_PASS2A_PROGRESS.md` and `PART_001_PASS2B_PROGRESS.md`.
+Pass 1 remains closed. Formal Part001 Pass 2A and Pass 2B are **COMPLETE — 30/30 reviewed**. The next gate is **formal Part001 Pass 3 scans1–10**; authoritative live trackers include `PART_001_PASS3_PROGRESS.md`.
 
 Do not begin Part002 transcription. Part002 remains blocked until Part001 completes the full Tamil archival-ready, assembled Tamil, English, release/readiness and final closure chain.

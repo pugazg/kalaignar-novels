@@ -99,7 +99,8 @@ Authoritative work-specific guide:
 - Part001 Pass 1 text-complete: **30/30**
 - Part001 Pass 1 partial: **0/30**
 - formal Pass 2A: **COMPLETE — 30/30 reviewed**
-- formal Pass 2B / Pass 3: **NOT STARTED**
+- formal Pass 2B: **COMPLETE — 30/30 reviewed**
+- formal Pass 3: **NOT STARTED**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 English/release: **BLOCKED**
 - Part002 transcription: **BLOCKED until Part001 final closure**

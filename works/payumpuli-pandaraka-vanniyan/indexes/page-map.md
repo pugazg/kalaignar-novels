@@ -524,6 +524,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 Part001 Pass 1 is **COMPLETE — 30/30 text-complete**.
 
-Begin **formal Part001 Pass 2B from scan1**; first batch scans1–10.
+Begin **formal Part001 Pass 3 scans1–10**.
 
 Do not begin Part002 transcription.
