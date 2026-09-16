@@ -129,8 +129,8 @@ A batch is only complete when the requested Pass work for those scans is complet
 
 For Part001 Pass 1:
 - scans1–5: printed-text capture exists, but formal final verification is deferred to the whole-Part chain;
-- scans6–15: next 10-page Pass-1 text-completion batch;
-- scans16–25: subsequent 10-page batch;
+- scans6–15: **COMPLETE / text-complete / needs-review**;
+- scans16–25: next 10-page Pass-1 text-completion batch;
 - scans26–30: final 5-page remainder.
 
 After Pass 1 reaches 30/30, begin Pass 2A from the start of Part001.

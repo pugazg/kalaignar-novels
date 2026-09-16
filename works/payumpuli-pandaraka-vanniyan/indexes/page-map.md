@@ -11,16 +11,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 001 | 3 | 3 | — | publisher / address; telephone digits unresolved | needs-review | `pages/0003-publisher-address.md` |
 | 001 | 4 | 4 | — | title page; copy-specific handwritten/stamp detail unresolved | needs-review | `pages/0004-title-page.md` |
 | 001 | 5 | 5 | — | publication/bibliographic page; compact printed block unresolved | needs-review | `pages/0005-publication-details.md` |
-| 001 | 6 | 6 | — | `அணிந்துரை`; full text pending | partial | `pages/0006-anindurai.md` |
-| 001 | 7 | 7 | — | `அணிந்துரை` continuation; full text pending | partial | `pages/0007-anindurai-7.md` |
-| 001 | 8 | 8 | — | `அணிந்துரை` continuation; full text pending | partial | `pages/0008-anindurai-8.md` |
-| 001 | 9 | 9 | — | `அணிந்துரை` continuation; full text pending | partial | `pages/0009-anindurai-9.md` |
-| 001 | 10 | 10 | — | `பதிப்புரை`; full text pending | partial | `pages/0010-pathippurai.md` |
-| 001 | 11 | 11 | — | epigraph / verse page; full text pending | partial | `pages/0011-epigraph.md` |
-| 001 | 12 | 12 | — | secondary title / illustrated divider; text details pending | partial | `pages/0012-title-divider.md` |
-| 001 | 13 | 13 | 2 | source-visible `தோரண வாயில்`; full text pending | partial | `pages/0013-thorana-vayil.md` |
-| 001 | 14 | 14 | 3 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0014-thorana-vayil.md` |
-| 001 | 15 | 15 | 4 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0015-thorana-vayil.md` |
+| 001 | 6 | 6 | — | `அணிந்துரை`; Pass 1 text-complete; formal verification pending | needs-review | `pages/0006-anindurai.md` |
+| 001 | 7 | 7 | — | `அணிந்துரை` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0007-anindurai-7.md` |
+| 001 | 8 | 8 | — | `அணிந்துரை` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0008-anindurai-8.md` |
+| 001 | 9 | 9 | — | `அணிந்துரை` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0009-anindurai-9.md` |
+| 001 | 10 | 10 | — | `பதிப்புரை`; Pass 1 text-complete; formal verification pending | needs-review | `pages/0010-pathippurai.md` |
+| 001 | 11 | 11 | — | epigraph / verse page; Pass 1 text-complete; formal verification pending | needs-review | `pages/0011-epigraph.md` |
+| 001 | 12 | 12 | — | secondary title / illustrated divider; Pass 1 text-complete; formal verification pending | needs-review | `pages/0012-title-divider.md` |
+| 001 | 13 | 13 | 2 | source-visible `தோரண வாயில்`; Pass 1 text-complete; formal verification pending | needs-review | `pages/0013-thorana-vayil.md` |
+| 001 | 14 | 14 | 3 | `தோரண வாயில்` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0014-thorana-vayil.md` |
+| 001 | 15 | 15 | 4 | `தோரண வாயில்` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0015-thorana-vayil.md` |
 | 001 | 16 | 16 | 5 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0016-thorana-vayil.md` |
 | 001 | 17 | 17 | 6 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0017-thorana-vayil.md` |
 | 001 | 18 | 18 | 7 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0018-thorana-vayil.md` |

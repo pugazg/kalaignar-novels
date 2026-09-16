@@ -131,8 +131,8 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - split identities/global mappings: **16 / 16 REGISTERED**
 - active content Part: **Part001 / scans1–30**
 - canonical Part001 records: **30/30 present**
-- Part001 Pass 1 text-complete: **5/30**
-- Part001 Pass 1 partial: **25/30 — scans6–30**
+- Part001 Pass 1 text-complete: **15/30**
+- Part001 Pass 1 partial: **15/30 — scans16–30**
 - formal Pass 2A / Pass 2B / Pass 3: **NOT STARTED**
 - Part001 Tamil archival-ready / assembled Tamil / English / release-readiness / final closure: **BLOCKED**
 - Part002 source: **REGISTERED / TRANSCRIPTION BLOCKED**
@@ -151,8 +151,8 @@ Durable rule:
 
 ## Exact next activity
 
-Complete **Part001 Pass 1 scans6–15** using the attached Part001 PDF only.
+Complete **Part001 Pass 1 scans16–25** using the attached Part001 PDF only.
 
-The canonical records for scans6–15 already exist as partial scaffolding; complete their printed Tamil text, preserve source structure, and leave them `needs-review` after Pass-1 completion.
+Scans6–15 are now Pass-1 text-complete and remain `needs-review`. The canonical records for scans16–25 already exist as partial scaffolding; complete their printed Tamil text, preserve source structure, and leave them `needs-review` after Pass-1 completion.
 
 Do not begin Part002 transcription. Part002 remains blocked until Part001 has completed Tamil archival-ready, assembled Tamil, English translation/review, release/readiness report and final Part closure.

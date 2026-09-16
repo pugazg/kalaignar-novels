@@ -6,35 +6,53 @@ printed_page: null
 work: "payumpuli-pandaraka-vanniyan"
 section: "அணிந்துரை"
 page_type: "preface"
-status: "partial"
+status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual transcription from attached source PDF; T1 in progress"
+transcription_method: "direct visual transcription from attached source PDF; Part001 Pass 1 text-complete; formal whole-Part verification pending"
 ---
 
 # அணிந்துரை
 
-## T1 source capture
+## Source transcription
 
-- overall scan: **9**;
-- Part 001 local page: **9**;
-- visible printed page: **—**;
-- page function: continuation/end-region of `அணிந்துரை`; printed Tamil text visible;
-- rendered source page was inspected directly;
-- no OCR, web transcription, later edition, grammar-based reconstruction, or external text was used as authority.
+தமிழகத்தில், கயத்தாறு பூமியில், வெள்ளைக்கார மேஜர் பானர்மேன் வீரபாண்டிய கட்டபொம்மனைக் குற்றஞ்சாட்டியபோது கட்டபொம்மன் உரையாக இடம் பெறுவது இது:
 
-## T1 transcription status
+“ஒற்றுமை இன்மையால் உருப்படாமல் போன இனம் என்று உலகில் ஒரு இனம் உண்டென்றால் அது தமிழ் இனம்தான்! எதிரிகள் கஷ்டப்பட்டுப் பிரித்து வைக்கத் தேவையில்லாமலே - தாங்களாகவே கசப்பு பொறாமை, காழ்ப்பு இவற்றின் உச்ச கட்டத்திற்குச் சென்று பிரிந்து நிற்கும் இனமும் தமிழ் இனம்தான்! அதன் விளைவுதான் இதோ உமது எதிரில் வீரபாண்டியன் கூண்டில் நிற்பதும், அதனை இத்தனைத்தமிழ்க் குறுநில மன்னர்கள் வேடிக்கை பார்த்துக் கொண்டு நிற்பதும்”
 
-The attached PDF is the normal controlling source and is not treated as defective, unusually dense, or source-blocked.
+இதுதானே இன்றையத் தமிழ்நாட்டின் அரசியல் திருக்கோலம்!
 
-This record remains `partial` only because the complete printed text has not yet been entered into the canonical page record. Continue direct visual transcription from the attached PDF itself.
+பண்டாரக வன்னியன் மாட்சியே இந்த உணர்விலேதான் ஒளி விடுகிறது என்பதை கலைஞர் திறம்பட உணர்த்துகிறார்.
 
-Rules:
-- source pixels remain authoritative;
-- do not substitute OCR/context/web wording for source text;
-- preserve source punctuation, paragraphing, spelling and historical glyph identity;
-- promote this page to `needs-review` only after its complete printed text is present.
+“பெண்ணின் பெருமை”
+“நாட்டுப் பற்று”
+“இனவுணர்வு”
 
+“தமிழ்ப் பண்பாடு” அத்தனையும் படிப்பவர் மனத்தில் பதிந்திடுமாறும், தெவிட்டாத தேன் தமிழ் நடையில் வடிக்கப்பட்டுள்ள இந்தப் புதினம் படிப்பவர்க்கு விருந்து; தமிழினத்துக்குத் தன்னம்பிக்கை ஊட்டும் மருந்து.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 9; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: —; T1 PARTIAL — STRUCTURE CAPTURED / FULL TEXT PENDING -->
+பலதுறை விற்பன்னராகவும், கலையுலக மேதையாகவும், எழுத்துலக வேந்தராகவும், இருபதாம் நூற்றாண்டில் தமிழ்க்குப் பெருமை சேர்க்கும் கலைஞர், ஒரு எழுத்தாளன் உள்ளத்தையும், ஒரு தலைவன் நெஞ்சத்தையும்கூட-தான் உணர்ந்த உணர்வாகப் பண்டாரக வன்னியனின் சிந்தனை வெளிப்பாடாக இடம் பெறச் செய்திருப்பதையும் காண்கிறேன்! அவர்தான் கலைஞர்.
+
+அவருக்கு என் வாழ்த்து!
+
+அவர் எழுத்துக்கு என் பாராட்டு!
+
+அவரின் தொண்டுக்கு என் போற்றுதல்!
+
+சென்னை.  
+5.5.1991
+
+அன்பன்,  
+க. அன்பழகன்
+
+## Pass 1 notes
+
+- complete printed text on this physical scan was transcribed directly from the attached source pixels;
+- source spelling, punctuation, paragraph structure and page-boundary fragments are preserved;
+- historical Tamil glyph identity was checked at Pass-1 level and encoded as the source-supported Unicode character identity without spelling modernization;
+- no OCR, web transcription, later edition or grammar-based reconstruction was used as authority;
+- this scan closes the அணிந்துரை;
+- the displayed three-line sequence and closing signature/date block are retained as meaningful lineation;
+- formal Pass 2A / Pass 2B / Pass 3 have not started; this record therefore remains needs-review.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 9; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->

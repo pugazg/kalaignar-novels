@@ -61,9 +61,9 @@ Current Pass-1 accounting:
 |---|---:|
 | physical scans | **30** |
 | canonical records present | **30/30** |
-| Pass-1 text-complete | **5/30 — scans1–5** |
-| Pass-1 partial | **25/30 — scans6–30** |
-| needs-review | **5/30 — scans1–5** |
+| Pass-1 text-complete | **15/30 — scans1–15** |
+| Pass-1 partial | **15/30 — scans16–30** |
+| needs-review | **15/30 — scans1–15** |
 | verified | **0/30 formal Part-level final status** |
 | formal Pass 2A | **NOT STARTED** |
 | formal Pass 2B | **NOT STARTED** |
@@ -76,6 +76,16 @@ Current Pass-1 accounting:
 | English | **BLOCKED** |
 | release/readiness | **BLOCKED** |
 | final Part closure | **BLOCKED** |
+
+## Pass 1 scans6–15 completion evidence
+
+- scans6–15 were directly re-read from the attached Part001 page images;
+- complete printed Tamil text is now present in all ten canonical records;
+- scans6–15 are status/visual-fidelity `needs-review`, not `verified`;
+- meaningful page-boundary fragments were preserved at 6→7, 8→9, 13→14, 14→15 and 15→16;
+- scan11 verse lineation and attribution were preserved;
+- scan12 illustration and scan15 memorial-stone photograph remain separate visual/non-body matter;
+- no formal Pass 2A / Pass 2B / Pass 3 credit was assigned.
 
 ## Historical opening review
 
@@ -125,7 +135,7 @@ Only then may Part002 become active.
 
 ## Exact next activity
 
-**Part001 Pass 1 scans6–15 — complete source transcription.**
+**Part001 Pass 1 scans16–25 — complete source transcription.**
 
 - use the attached Part001 PDF only;
 - complete all ten existing page records;

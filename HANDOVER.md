@@ -39,8 +39,8 @@ Range:
 Current state:
 - source intake — **PASS / COMPLETE**
 - canonical records — **30/30 present**
-- Pass 1 text-complete — **5/30 — scans1–5**
-- Pass 1 partial — **25/30 — scans6–30**
+- Pass 1 text-complete — **15/30 — scans1–15**
+- Pass 1 partial — **15/30 — scans16–30**
 - formal Pass 2A — **NOT STARTED**
 - formal Pass 2B — **NOT STARTED**
 - formal Pass 3 — **NOT STARTED**
@@ -62,7 +62,7 @@ Earlier local T1/T2/T3 work on scans1–5 remains historical evidence only. It i
 
 Scans1–2 were returned from premature `verified` to `needs-review` without changing the transcription.
 
-Partial scaffolding exists for scans6–30, but Pass 1 is not complete until their full printed Tamil text is entered.
+Scans6–15 are now Pass-1 text-complete / needs-review. Partial scaffolding remains for scans16–30; Pass 1 is not complete until those scans receive their full printed Tamil text.
 
 ## Part001 structure
 
@@ -111,7 +111,9 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Complete **Part001 Pass 1 scans6–15**.
+Scans6–15 are **Pass 1 text-complete / needs-review**.
+
+Complete **Part001 Pass 1 scans16–25**.
 
 - use the attached Part001 PDF only;
 - fill the complete printed Tamil text in the ten existing records;

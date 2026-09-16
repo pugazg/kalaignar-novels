@@ -6,35 +6,35 @@ printed_page: null
 work: "payumpuli-pandaraka-vanniyan"
 section: "அணிந்துரை"
 page_type: "preface"
-status: "partial"
+status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual transcription from attached source PDF; T1 in progress"
+transcription_method: "direct visual transcription from attached source PDF; Part001 Pass 1 text-complete; formal whole-Part verification pending"
 ---
 
 # அணிந்துரை
 
-## T1 source capture
+## Source transcription
 
-- overall scan: **6**;
-- Part 001 local page: **6**;
-- visible printed page: **—**;
-- page function: `அணிந்துரை` page; printed Tamil text visible;
-- rendered source page was inspected directly;
-- no OCR, web transcription, later edition, grammar-based reconstruction, or external text was used as authority.
+“பாயும்புலி பண்டாரக வன்னியன்” என்னும் இந்தச் சுதந்திர வேட்கையை ஊட்டும் வரலாற்றுப் புதினத்தைப் படைத்து - தமிழ் மக்களுக்கு வழங்கியுள்ளார் முத்தமிழறிஞர் கலைஞர் மு. கருணாநிதி அவர்கள்.
 
-## T1 transcription status
+வரலாற்றுப் புதினம் படைப்பது எளிதல்ல எனினும் அது அவருக்குக் கைவந்தகலை. அதற்குரிய வரலாற்றுப் பின்னணியை - நாடு, காலம், அரசியல் சூழல், அண்டை நாட்டு நிலை, மக்கள் வாழ்க்கை முறை, சமயப் பழக்க வழக்கம், கதை மாந்தர் நடமாடும் இடத்தின் இயல்பு முதலானவற்றைப் பல்வேறு ஆதாரங்களைத் திரட்டி - ஆராய்ந்து தெளிந்து, காட்சிகளாகக் கண்டு, படிப்பவர் கருத்தில் படலம் படலமாக விரியும் வண்ணம், எழில் ஓவியமாகத் தீட்டுகிறார் கலைஞர்.
 
-The attached PDF is the normal controlling source and is not treated as defective, unusually dense, or source-blocked.
+சங்க காலத் தமிழகத்தின் பெருமைக்குரிய சூழல் விளக்கும் “ரோமாபுரிப் பாண்டியன்”, ஆங்கிலேயர் ஆதிக்கம் தமிழ் மண்ணில் பரவிய காலத்தில் தமிழகத்தின் நிலையைச் சித்தரிக்கும் “தென்பாண்டிச் சிங்கம்”, வழிவழி வந்த நாட்டுப்புறக் கதைகளைக் கொண்டு தமிழ்வீரம் காட்டும் “பொன்னர்-சங்கர்” ஆகிய புதினங்களைப் படைத்த கலை உணர்வு இதனையும் வரைந்துள்ளது.
 
-This record remains `partial` only because the complete printed text has not yet been entered into the canonical page record. Continue direct visual transcription from the attached PDF itself.
+தஞ்சைத் தமிழ்ப் பல்கலைக் கழகம் வழங்கும் இராசராச சோழன் விருது-தென்பாண்டிச் சிங்கத்துக்கென வழங்கப்பட்டதையும்-அதை வழங்கி உரையாற்றிய குடியரசுத் துணைத் தலைவர் சங்கர் தயாள் சர்மா அவர்கள், கலைஞரை, முத்தமிழ் அறிஞர் என்று பாராட்டி வாழ்த்தியதையும் நாமறிவோம்.
 
-Rules:
-- source pixels remain authoritative;
-- do not substitute OCR/context/web wording for source text;
-- preserve source punctuation, paragraphing, spelling and historical glyph identity;
-- promote this page to `needs-review` only after its complete printed text is present.
+தமிழ் ஈழ மண்ணின் பகுதியான வன்னிநாடான அடங்காப்பற்றின் காவலன் வைரமுத்து, பண்டாரக வன்னியன் என்னும் சிறப்புப் பெயரில் வரலாற்றுப் புகழ் கொண்டவன். தமிழ்நாட்டில் ஆங்கிலேயர் ஆட்சியும்-ஆதிக்கமும் கால் ஊன்ற இடந்தரக்கூடாது என்னும் இலட்சியத்துடன், அவர்களை எதிர்த்துப் போராடிய வீரபாண்டிய கட்டபொம்மன் போன்று,
 
+## Pass 1 notes
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 6; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 6; அச்சுப் பக்கம்: —; T1 PARTIAL — STRUCTURE CAPTURED / FULL TEXT PENDING -->
+- complete printed text on this physical scan was transcribed directly from the attached source pixels;
+- source spelling, punctuation, paragraph structure and page-boundary fragments are preserved;
+- historical Tamil glyph identity was checked at Pass-1 level and encoded as the source-supported Unicode character identity without spelling modernization;
+- no OCR, web transcription, later edition or grammar-based reconstruction was used as authority;
+- the final comma is source-significant: the sentence continues on scan 7;
+- faint copy/scan marks are non-body matter and are not used as text;
+- formal Pass 2A / Pass 2B / Pass 3 have not started; this record therefore remains needs-review.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 6; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 6; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->

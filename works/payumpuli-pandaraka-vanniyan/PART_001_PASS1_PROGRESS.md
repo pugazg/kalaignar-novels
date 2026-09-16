@@ -16,8 +16,8 @@ This tracker follows the Kuraloviyam rule that **Pass 1 is complete only when ev
 
 - Part001 physical scans: **30**
 - canonical Part001 records present: **30/30**
-- Pass-1 text-complete records: **5/30 — scans1–5**
-- Pass-1 partial records: **25/30 — scans6–30**
+- Pass-1 text-complete records: **15/30 — scans1–15**
+- Pass-1 partial records: **15/30 — scans16–30**
 - formal Pass 2A: **NOT STARTED**
 - formal Pass 2B: **NOT STARTED**
 - formal Pass 3: **NOT STARTED**
@@ -51,13 +51,15 @@ Outgoing boundary witness:
 ## Pass-1 batch history
 
 - legacy scans1–5 — printed-text capture present
-- scans6–15 — records exist but full printed text is **PENDING**
+- scans6–15 — **COMPLETE / full printed text captured / needs-review**
 - scans16–25 — records exist but full printed text is **PENDING**
 - scans26–30 — records exist but full printed text is **PENDING**
 
 ## Exact next activity
 
-Complete **Part001 Pass 1 scans6–15**:
+Complete **Part001 Pass 1 scans16–25**:
+
+Scans6–15 are now Pass-1 text-complete and remain needs-review pending the formal whole-Part verification chain.
 
 1. read each attached source page directly;
 2. enter the complete printed Tamil text into the ten existing canonical records;

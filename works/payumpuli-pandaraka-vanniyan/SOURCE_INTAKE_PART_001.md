@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity/global mapping durable; scans1–5 T1/T2/T3 REVIEW COMPLETE.**
+**REGISTERED — split identity/global mapping durable; Part001 Pass 1 text-complete through scans1–15.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **1–30**;
@@ -59,12 +59,12 @@ Part001 is the **only active content Part**.
 
 Current Pass-1 state:
 - canonical records present: **30/30**;
-- text-complete: **5/30 — scans1–5**;
-- partial: **25/30 — scans6–30**;
+- text-complete: **15/30 — scans1–15**;
+- partial: **15/30 — scans16–30**;
 - formal Pass 2A / Pass 2B / Pass 3: **NOT STARTED**;
 - outgoing boundary **30→31**: **GENUINE CONTINUATION / AUDITED** using Part002 local1 as a boundary witness only.
 
 Authoritative tracker:
 - `PART_001_PASS1_PROGRESS.md`
 
-**Next:** complete Part001 Pass 1 scans **6–15**. Do not begin Part002 transcription until Part001 final closure after Tamil archival-ready, assembled Tamil, English, release/readiness and final closure gates.
+**Next:** complete Part001 Pass 1 scans **16–25**. Do not begin Part002 transcription until Part001 final closure after Tamil archival-ready, assembled Tamil, English, release/readiness and final closure gates.

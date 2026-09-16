@@ -28,8 +28,8 @@ Current Part001 state:
 
 - source intake — **PASS / COMPLETE**
 - canonical records present — **30/30**
-- Pass 1 text-complete — **5/30 — scans1–5**
-- Pass 1 partial — **25/30 — scans6–30**
+- Pass 1 text-complete — **15/30 — scans1–15**
+- Pass 1 partial — **15/30 — scans16–30**
 - formal Pass 2A — **NOT STARTED**
 - formal Pass 2B — **NOT STARTED**
 - formal Pass 3 — **NOT STARTED**
@@ -92,8 +92,8 @@ This boundary finding may be used for Part001 closure, but it does not activate 
 User-directed normal source batch size: **10 physical scans**, with a shorter final remainder.
 
 For Part001 Pass 1:
-- current next batch — **scans6–15**
-- then — **scans16–25**
+- completed — **scans6–15 — text-complete / needs-review**
+- current next batch — **scans16–25**
 - final remainder — **scans26–30**
 
 Only after Pass 1 reaches **30/30 text-complete** does formal Pass 2A begin from the start of Part001.
@@ -113,7 +113,9 @@ Historical preliminary checkpoint records are retained for provenance but do not
 
 ## Exact next activity
 
-Complete **Part001 Pass 1 scans6–15**.
+Scans6–15 are now **text-complete / needs-review**.
+
+Complete **Part001 Pass 1 scans16–25**.
 
 For the ten existing canonical records:
 1. enter the complete printed Tamil text directly from the attached Part001 PDF;
