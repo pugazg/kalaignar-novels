@@ -79,8 +79,8 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - physical coverage by split ranges: **477 / 477**
 - active content Part: **Part001 / scans1–30**
 - canonical Part001 records: **30/30 present**
-- Part001 Pass 1 text-complete: **25/30**
-- Part001 Pass 1 partial: **5/30 — scans26–30**
+- Part001 Pass 1 text-complete: **30/30**
+- Part001 Pass 1 partial: **0/30**
 - formal Part001 Pass 2A / Pass 2B / Pass 3: **NOT STARTED**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 assembled Tamil: **BLOCKED**
@@ -97,10 +97,8 @@ Authoritative live Pass-1 tracker:
 
 ## Exact next activity
 
-Scans6–25 are **Pass 1 text-complete / needs-review**.
+Part001 Pass 1 is **COMPLETE — 30/30 text-complete**.
 
-Complete **Part001 Pass 1 scans26–30** directly from the attached Part001 PDF.
+Begin **formal Part001 Pass 2A from scan1**.
 
-Do not begin Part002 transcription.
-
-Part002 becomes active only after Part001 completes the full maintained chain through **English release/readiness and final Part closure**.
+Do not begin Part002 transcription. Part002 remains source-registered / transcription-blocked until Part001 final closure.

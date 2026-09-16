@@ -96,14 +96,14 @@ Authoritative work-specific guide:
 - 477 / 477 source pages accounted for by split ranges
 - **active Part: Part001 / scans1–30**
 - canonical Part001 records: **30/30 present**
-- Part001 Pass 1 text-complete: **25/30**
-- Part001 Pass 1 partial: **5/30 — scans26–30**
+- Part001 Pass 1 text-complete: **30/30**
+- Part001 Pass 1 partial: **0/30**
 - formal Pass 2A / Pass 2B / Pass 3: **NOT STARTED**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 English/release: **BLOCKED**
 - Part002 transcription: **BLOCKED until Part001 final closure**
 - split-boundary classifications: **1 / 15 audited — 30→31 GENUINE CONTINUATION**
-- exact active gate: **Part001 Pass 1 scans26–30**
+- exact active gate: **formal Part001 Pass 2A from scan1**
 
 ## Batch-size policy
 
@@ -114,8 +114,8 @@ Normal source iterations use **10 physical scans per batch**, with a shorter fin
 For Part001 Pass 1:
 - completed: **scans6–15 — text-complete / needs-review**;
 - completed: **scans16–25 — text-complete / needs-review**;
-- next / final remainder: **scans26–30**;
-- only after Pass 1 reaches **30/30** may formal Pass 2A begin from the start of Part001.
+- completed: **scans26–30 — text-complete / needs-review**;
+- Pass 1 is now **30/30 complete**; formal Pass 2A is the next gate from scan1.
 
 
 ## Audited boundary — 30→31

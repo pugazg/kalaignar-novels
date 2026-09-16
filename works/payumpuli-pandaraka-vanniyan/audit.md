@@ -61,9 +61,9 @@ Current Pass-1 accounting:
 |---|---:|
 | physical scans | **30** |
 | canonical records present | **30/30** |
-| Pass-1 text-complete | **25/30 — scans1–25** |
-| Pass-1 partial | **5/30 — scans26–30** |
-| needs-review | **25/30 — scans1–25** |
+| Pass-1 text-complete | **30/30 — scans1–30** |
+| Pass-1 partial | **0/30** |
+| needs-review | **30/30 — scans1–30** |
 | verified | **0/30 formal Part-level final status** |
 | formal Pass 2A | **NOT STARTED** |
 | formal Pass 2B | **NOT STARTED** |
@@ -76,6 +76,25 @@ Current Pass-1 accounting:
 | English | **BLOCKED** |
 | release/readiness | **BLOCKED** |
 | final Part closure | **BLOCKED** |
+
+## Pass 1 scans26–30 completion evidence
+
+- scans26–30 were directly transcribed from the attached Part001 source pixels;
+- complete printed Tamil text is present in all five canonical records;
+- all five remain `needs-review` / visual `needs-review`;
+- scans26–27 continue chapter 2 `ஒரு இரகசியக் கடிதம்!`;
+- scan28 establishes source-visible chapter 3, `வழியில் கண்ட வயோதிகர்!`;
+- scans29–30 continue chapter 3;
+- scan26 closes the quotation fragment opened on scan25 without inventing an opening mark;
+- scan30 ends with `அவனுக்கு ஒரே மகிழ்ச்சி,` and the already-audited 30→31 boundary remains GENUINE CONTINUATION;
+- source-specific forms including `சிற்றார்கள்`, `சிற்றார்களில்`, `சிற்றார்களை` were preserved without lexical normalization;
+- no formal Pass 2A / Pass 2B / Pass 3 credit was assigned.
+
+## Part001 Pass 1 closure
+
+**PASS — 30/30 canonical page records are text-complete.**
+
+All 30 pages remain non-final / `needs-review`. The next gate is formal **Pass 2A from scan1**.
 
 ## Pass 1 scans16–25 completion evidence
 
@@ -146,7 +165,7 @@ Only then may Part002 become active.
 
 ## Exact next activity
 
-**Part001 Pass 1 scans26–30 — complete source transcription.**
+**formal Part001 Pass 2A from scan1 — complete source transcription.**
 
 - use the attached Part001 PDF only;
 - complete all ten existing page records;

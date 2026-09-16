@@ -4,31 +4,45 @@ part: 1
 part_page: 28
 printed_page: 17
 work: "payumpuli-pandaraka-vanniyan"
-section: "தோரண வாயில்"
-page_type: "body"
-status: "partial"
+section: "வழியில் கண்ட வயோதிகர்!"
+page_type: "chapter-opening"
+status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual inspection of attached source scan; T1 page/provenance/printed-page capture; complete printed Tamil text pending"
+transcription_method: "direct visual transcription from attached source PDF; Part001 Pass 1 text-complete; formal whole-Part verification pending"
 ---
 
-# தோரண வாயில்
+# வழியில் கண்ட வயோதிகர்!
 
-## T1 source capture
+## Source transcription
 
-- overall scan: **28**;
-- Part 001 local page: **28**;
-- visible printed page: **17**;
-- page function: `தோரண வாயில்` body continuation;
-- attached source page inspected directly;
-- source spelling and structure remain controlling;
-- no external mirror, later edition, web transcription, grammar reconstruction, or contextual substitution is used.
+3
 
-## T1 text state
+வழியில் கண்ட வயோதிகர்!
 
-The canonical record is present with exact split provenance and visible printed-page mapping.
+முல்லைத்தீவு என்பது குறிப்பிட்ட ஒரு தோணித்துறைக்குரிய பெயராக மட்டுமன்றி அந்தப் பகுதிக்கே உரிய பெயராகும். சுந்தரலிங்கம் வந்த தோணி முல்லைத்தீவுக் கடற்கரைப் பகுதியின் ஓரத்தை நெருங்கியபோது, பரதன் அவனைப்பார்த்து, “எங்கே நிறுத்துவது? முல்லைத்தீவுத் துறையிலா? அலம்பில் துறையா? அல்லது சிலாவத்தை துறையா?” என்று கேட்டான்.
 
-Complete line-by-line Tamil text still has to be entered before this page can leave `partial`.
+சுந்தரலிங்கம் புன்முறுவலுடன் “என்ன பரதா? தெரியாதவனைப் போல கேட்கிறாய்? வற்றாப்பளையைத் தாண்டித்தானே பண்டாரக வன்னிய மன்னர் கோட்டைக்குப் போகவேண்டும். அதனால் வற்றாப்பளைக்குச் செல்ல எது அருகில் உள்ள தோணித் துறையோ, அங்கே கொண்டு போய் நிறுத்து!” என்றான்.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 28; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 28; அச்சுப் பக்கம்: 17; T1 PARTIAL — PAGE/PROVENANCE CAPTURED / FULL TEXT PENDING -->
+உடனே மருது “அப்படியானால் சிலாவத்தைத் துறைதான் பக்கம்!” என்றான்.
+
+“என்னமோ உங்களை நம்பி வந்திருக்கிறேன்! எங்கேயாவது நல்ல இடத்தில் கொண்டு போய் விடுங்கள்!” என்றான் சுந்தரலிங்கம் சிரித்துக் கொண்டே!
+
+“கொண்டு போய்விட்டால் மட்டும் போதுமா? திரும்ப அழைத்துப் போக வேண்டாமா?” என்று பரதன் கேலியாகக் கேட்டான்.
+
+மூவரும் சுவையாகப் பேசிக்கொண்டே தோணியில் சிலாவத்தைத் துறையின் கரைப்பகுதிக்கு வந்து சேர்ந்தார்கள்.
+
+தோணியிலிருந்து இறங்கிய சுந்தரலிங்கம், மருது, பரதன் இருவரையும் பார்த்து - “நீங்கள் இங்கேயே இருங்கள்! நான் இரவு முன்னேரத்திலேயே திரும்பி வந்துவிடுகிறேன்” என்றான்.
+
+## Pass 1 notes
+
+- complete printed Tamil text on this physical scan was transcribed directly from the attached source pixels;
+- source spelling, punctuation, paragraph boundaries, meaningful display lineation and physical page-boundary fragments are preserved;
+- historical Tamil glyph identity was inspected at source-pixel level and encoded as the source-supported Unicode identity without lexical modernization;
+- no OCR, web transcription, later edition, grammar-based reconstruction or external mirror was used as authority;
+- source-visible chapter number `3` and heading `வழியில் கண்ட வயோதிகர்!` establish a new chapter at scan28;
+- source forms such as `அவனைப்பார்த்து`, `போகவேண்டும்` and `முன்னேரத்திலேயே` are retained without spacing or lexical normalization;
+- formal Part001 Pass 2A / Pass 2B / Pass 3 have not started; this record remains `needs-review`.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 28; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 28; அச்சுப் பக்கம்: 17; PASS 1 TEXT-COMPLETE / needs-review -->

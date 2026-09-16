@@ -39,8 +39,8 @@ Range:
 Current state:
 - source intake — **PASS / COMPLETE**
 - canonical records — **30/30 present**
-- Pass 1 text-complete — **25/30 — scans1–25**
-- Pass 1 partial — **5/30 — scans26–30**
+- Pass 1 text-complete — **30/30 — scans1–30**
+- Pass 1 partial — **0/30**
 - formal Pass 2A — **NOT STARTED**
 - formal Pass 2B — **NOT STARTED**
 - formal Pass 3 — **NOT STARTED**
@@ -62,7 +62,7 @@ Earlier local T1/T2/T3 work on scans1–5 remains historical evidence only. It i
 
 Scans1–2 were returned from premature `verified` to `needs-review` without changing the transcription.
 
-Scans6–25 are now Pass-1 text-complete / needs-review. Partial scaffolding remains only for scans26–30; Pass 1 is not complete until those five scans receive their full printed Tamil text.
+Part001 scans1–30 are now Pass-1 text-complete / needs-review. Pass 1 is **COMPLETE / 30/30**.
 
 ## Part001 structure
 
@@ -75,8 +75,10 @@ Scans6–25 are now Pass-1 text-complete / needs-review. Partial scaffolding rem
 - scans13–20 — `தோரண வாயில்`
 - scan21 — chapter 2 opening `ஒரு இரகசியக் கடிதம்!`
 - scans22–25 — chapter 2 continuation
-- scans26–30 — Pass-1 text pending
-- scan30 — printed page19
+- scans26–27 — chapter 2 continuation
+- scan28 — chapter 3 opening `வழியில் கண்ட வயோதிகர்!`
+- scans29–30 — chapter 3 continuation
+- scan30 — printed page19; ends `அவனுக்கு ஒரே மகிழ்ச்சி,` and continues at scan31
 
 ## Part002 / outgoing boundary
 
@@ -114,16 +116,15 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Scans6–25 are **Pass 1 text-complete / needs-review**.
+Part001 Pass 1 is **COMPLETE — 30/30 text-complete**.
 
-Complete **Part001 Pass 1 scans26–30**.
+Begin **formal Part001 Pass 2A scans1–10**.
 
 - use the attached Part001 PDF only;
-- fill the complete printed Tamil text in the five existing records;
-- preserve source spelling/punctuation/paragraphing/historical glyph identity;
-- preserve non-body marks separately;
-- mark text-complete Pass-1 records `needs-review`, not `verified`;
-- update `PART_001_PASS1_PROGRESS.md` and live controls;
+- perform direct word-by-word, punctuation, paragraph and page-continuation verification;
+- keep pages `needs-review`; do not assign final `verified` status;
+- update `PART_001_PASS2A_PROGRESS.md` and live controls;
 - commit and stop.
 
-Do not begin Part002.
+Do not begin Pass 2B until whole-Part Pass 2A reaches 30/30.
+Do not begin Part002 transcription.

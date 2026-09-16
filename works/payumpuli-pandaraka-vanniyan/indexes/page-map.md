@@ -31,11 +31,11 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 001 | 23 | 23 | 12 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0023-thorana-vayil.md` |
 | 001 | 24 | 24 | 13 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0024-thorana-vayil.md` |
 | 001 | 25 | 25 | 14 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0025-thorana-vayil.md` |
-| 001 | 26 | 26 | 15 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0026-thorana-vayil.md` |
-| 001 | 27 | 27 | 16 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0027-thorana-vayil.md` |
-| 001 | 28 | 28 | 17 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0028-thorana-vayil.md` |
-| 001 | 29 | 29 | 18 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0029-thorana-vayil.md` |
-| 001 | 30 | 30 | 19 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0030-thorana-vayil.md` |
+| 001 | 26 | 26 | 15 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0026-thorana-vayil.md` |
+| 001 | 27 | 27 | 16 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0027-thorana-vayil.md` |
+| 001 | 28 | 28 | 17 | chapter 3 opening `வழியில் கண்ட வயோதிகர்!`; Pass 1 text-complete; formal verification pending | needs-review | `pages/0028-thorana-vayil.md` |
+| 001 | 29 | 29 | 18 | `வழியில் கண்ட வயோதிகர்!` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0029-thorana-vayil.md` |
+| 001 | 30 | 30 | 19 | `வழியில் கண்ட வயோதிகர்!` continuation; Pass 1 text-complete; 30→31 genuine continuation; formal verification pending | needs-review | `pages/0030-thorana-vayil.md` |
 | 002 | 1 | 31 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
 | 002 | 2 | 32 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
 | 002 | 3 | 33 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
@@ -507,22 +507,21 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 
 - Parts supplied / registered: **16 / 16**
 - physical scan coverage by split ranges: **477 / 477**
-- visually classified at intake: **20**
-- canonical page records: **15 / 477**
-- T1 complete: **5 / 477**
-- T1 partial: **10 / 477**
-- T2 reviewed: **5 / 477**
-- T3 reviewed: **5 / 477**
-- verified pages: **2 / 477**
-- needs-review pages: **3 / 477**
-- partial pages: **10 / 477**
-- split-boundary classifications: **pending direct audit**
-- physical endpoint: **overall scan 477**; page function remains pending direct visual audit
+- active content Part: **Part001 / scans1–30**
+- canonical Part001 page records: **30 / 30**
+- Part001 Pass 1 text-complete: **30 / 30**
+- Part001 Pass 1 partial: **0 / 30**
+- Part001 formal Pass 2A / Pass 2B / Pass 3: **NOT STARTED**
+- Part001 pages currently remain **needs-review / non-final**
+- audited outgoing boundary: **30→31 GENUINE CONTINUATION**
+- Part002 transcription: **BLOCKED until Part001 final closure**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Remain on **T1 scans6–15 / Part001 local pages6–15**.
+Part001 Pass 1 is **COMPLETE — 30/30 text-complete**.
 
-Complete the full line-by-line Tamil transcription of these ten `partial` records from a sufficiently detailed source rendering. Only then may scans6–15 advance to `needs-review` and T2 begin. Do not advance to scans16–25 while this text-capture gate remains incomplete.
+Begin **formal Part001 Pass 2A from scan1**.
+
+Do not begin Part002 transcription.

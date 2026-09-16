@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS**
+**PASS 1 — COMPLETE / 30/30 TEXT-COMPLETE**
 
 Active Part:
 - Part001
@@ -16,8 +16,8 @@ This tracker follows the Kuraloviyam rule that **Pass 1 is complete only when ev
 
 - Part001 physical scans: **30**
 - canonical Part001 records present: **30/30**
-- Pass-1 text-complete records: **25/30 — scans1–25**
-- Pass-1 partial records: **5/30 — scans26–30**
+- Pass-1 text-complete records: **30/30 — scans1–30**
+- Pass-1 partial records: **0/30**
 - formal Pass 2A: **NOT STARTED**
 - formal Pass 2B: **NOT STARTED**
 - formal Pass 3: **NOT STARTED**
@@ -41,7 +41,9 @@ Earlier local T2/T3 work on scans1–5 is retained as historical review evidence
 - scans13–20 — `தோரண வாயில்`
 - scan21 — chapter 2 opening `ஒரு இரகசியக் கடிதம்!`
 - scans22–25 — chapter 2 continuation
-- scans26–30 — Pass-1 text pending
+- scans26–27 — chapter 2 `ஒரு இரகசியக் கடிதம்!` continuation
+- scan28 — chapter 3 opening `வழியில் கண்ட வயோதிகர்!`
+- scans29–30 — chapter 3 continuation
 - visible body pagination:
   - scan13 → printed 2
   - …
@@ -56,24 +58,19 @@ Outgoing boundary witness:
 - legacy scans1–5 — printed-text capture present
 - scans6–15 — **COMPLETE / full printed text captured / needs-review**
 - scans16–25 — **COMPLETE / full printed text captured / needs-review**
-- scans26–30 — records exist but full printed text is **PENDING**
+- scans26–30 — **COMPLETE / full printed text captured / needs-review**
+
+## Pass 1 closure
+
+Part001 Pass 1 is now **COMPLETE — 30/30 text-complete**.
+
+- all 30 canonical records are present;
+- all 30 have complete page-aligned source transcription;
+- all remain non-final / `needs-review`;
+- formal Pass 2A / Pass 2B / Pass 3 have not yet begun.
 
 ## Exact next activity
 
-Complete **Part001 Pass 1 scans26–30**:
+Begin **formal Part001 Pass 2A from scan1**, using direct word-by-word / punctuation / paragraph / page-continuation comparison against the attached Part001 source.
 
-Scans6–25 are now Pass-1 text-complete and remain needs-review pending the formal whole-Part verification chain.
-
-1. read each attached source page directly;
-2. enter the complete printed Tamil text into the five existing canonical records;
-3. preserve source spelling, punctuation, paragraphing, page-boundary fragments and historical glyph identity;
-4. preserve non-body marks separately;
-5. leave completed Pass-1 records `needs-review`, not `verified`;
-6. update this tracker and all live frontier controls;
-7. commit and stop.
-
-Do not begin formal Pass 2A in the same iteration; complete scans26–30 and stop.
-
-Do not begin formal Pass 2A until Part001 Pass 1 reaches **30/30 complete**.
-
-Do not begin Part002 transcription until Part001 completes Tamil archival-ready, assembled Tamil, English translation/review, release/readiness report and final Part closure.
+Do not begin Part002 transcription. Part002 remains blocked until Part001 completes the full Tamil archival-ready, assembled Tamil, English, release/readiness and final closure chain.
