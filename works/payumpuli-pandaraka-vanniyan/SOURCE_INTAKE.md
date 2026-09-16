@@ -77,14 +77,15 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 
 - split registration: **16 / 16 COMPLETE**
 - physical coverage by split ranges: **477 / 477**
-- canonical page records: **5 / 477**
+- canonical page records: **15 / 477**
 - active frontier: **Part 001**
-- T1: **5 / 477 COMPLETE through scan5**
+- T1 complete: **5 / 477 through scan5**
+- T1 partial: **10 / 477 for scans6–15**
 - T2: **5 / 477 COMPLETE through scan5**
 - T3: **5 / 477 COMPLETE through scan5**
 
 ## Exact next activity
 
-**Part 001 T1 — overall scans 6–15 / local pages 6–15.**
+Remain on **Part001 T1 scans6–15 / local pages6–15**.
 
-Independently re-read the five T1 records against the source, apply the historical-glyph checklist, revisit scan3's unresolved telephone digits and scan5's unresolved small-print publication block, synchronize controls, commit, and stop before T3.
+Ten canonical records now exist, but their dense Tamil body text is not yet safely frozen from the current reduced rendering. Complete line-by-line source text first; then advance those ten records from `partial` to `needs-review`. Do not start T2 or scans16–25 before that.
