@@ -21,7 +21,7 @@ Still astonished, Ponmani poured out her impatience. "What is all this you're sa
 
 "Are you going to tell me properly or not?" his sister chided him, with a touch of affection.
 
-"The police came through the panchayat and took away the body of the woman who had hanged herself. They examined the body there, it seems. They call that a post-mortem inquiry. They decided it was suicide. Just then, they suddenly noticed a knot in the end of the corpse's sari. When they untied it, there was a letter inside. They read it."
+"The police came through the panchayat and took away the body of the woman who had hanged herself. They examined the body there, it seems. They call that an inquest. They decided it was suicide. Just then, they suddenly noticed a knot in the end of the corpse's sari. When they untied it, there was a letter inside. They read it."
 
 "It said, 'The reason I killed myself is that sinner Theechatti Singaram'—that's what she had written, it seems."
 
