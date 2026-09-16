@@ -6,11 +6,11 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 
 | Part | Part page | Overall scan | Printed page | Page type / section | Status | Canonical record |
 |---:|---:|---:|:---:|---|---|---|
-| 001 | 1 | 1 | — | illustrated cover | observed | — |
-| 001 | 2 | 2 | — | reverse / half-title style page | observed | — |
-| 001 | 3 | 3 | — | publisher / address imprint page | observed | — |
-| 001 | 4 | 4 | — | title page / publisher imprint / library marks | observed | — |
-| 001 | 5 | 5 | — | bibliographic / edition-details page / library stamp | observed | — |
+| 001 | 1 | 1 | — | illustrated cover | needs-review | `pages/0001-cover.md` |
+| 001 | 2 | 2 | — | half-title / front matter | needs-review | `pages/0002-half-title.md` |
+| 001 | 3 | 3 | — | publisher / address; telephone digits unresolved at T1 | needs-review | `pages/0003-publisher-address.md` |
+| 001 | 4 | 4 | — | title page / publisher imprint / library marks separated | needs-review | `pages/0004-title-page.md` |
+| 001 | 5 | 5 | — | publication/bibliographic page; small-print block unresolved at T1 | needs-review | `pages/0005-publication-details.md` |
 | 001 | 6 | 6 | — | `அணிந்துரை` | observed | — |
 | 001 | 7 | 7 | — | `அணிந்துரை` | observed | — |
 | 001 | 8 | 8 | — | `அணிந்துரை` | observed | — |
@@ -508,8 +508,8 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Parts supplied / registered: **16 / 16**
 - physical scan coverage by split ranges: **477 / 477**
 - visually classified at intake: **20**
-- canonical page records: **0 / 477**
-- T1: **0 / 477**
+- canonical page records: **5 / 477**
+- T1: **5 / 477**
 - T2: **0 / 477**
 - T3: **0 / 477**
 - split-boundary classifications: **pending direct audit**
@@ -519,4 +519,4 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Create Part 001 canonical T1 records for **overall scans1–5 / local pages1–5**, preserving `part`, `part_page`, exact `source_filename`, and overall `scan_page`.
+Perform **T2 independent historical-glyph / direct-text re-read for overall scans1–5 / Part-001 local pages1–5**. Revisit scan3 small telephone digits and scan5 small-print publication block; keep all five `needs-review` until later gates.
