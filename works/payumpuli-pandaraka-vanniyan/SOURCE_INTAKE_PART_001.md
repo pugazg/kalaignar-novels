@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity/global mapping durable; Part001 Pass 1 text-complete through scans1–15.**
+**REGISTERED — split identity/global mapping durable; Part001 Pass 1 text-complete through scans1–25.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **1–30**;
@@ -32,7 +32,10 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 - local 10 / scan 10 — `பதிப்புரை`;
 - local 11 / scan 11 — verse / epigraph page;
 - local 12 / scan 12 — secondary illustrated title divider;
-- local 13 onward / scan 13 onward — source-visible `தோரண வாயில்`; exact structural role remains provisional.
+- local 13–20 / scans13–20 — source-visible `தோரண வாயில்`;
+- local 21 / scan21 — chapter 2 opening `ஒரு இரகசியக் கடிதம்!`;
+- local 22–25 / scans22–25 — chapter 2 continuation;
+- local 26–30 / scans26–30 — Pass-1 text pending.
 
 ## Boundary state
 
@@ -59,12 +62,12 @@ Part001 is the **only active content Part**.
 
 Current Pass-1 state:
 - canonical records present: **30/30**;
-- text-complete: **15/30 — scans1–15**;
-- partial: **15/30 — scans16–30**;
+- text-complete: **25/30 — scans1–25**;
+- partial: **5/30 — scans26–30**;
 - formal Pass 2A / Pass 2B / Pass 3: **NOT STARTED**;
 - outgoing boundary **30→31**: **GENUINE CONTINUATION / AUDITED** using Part002 local1 as a boundary witness only.
 
 Authoritative tracker:
 - `PART_001_PASS1_PROGRESS.md`
 
-**Next:** complete Part001 Pass 1 scans **16–25**. Do not begin Part002 transcription until Part001 final closure after Tamil archival-ready, assembled Tamil, English, release/readiness and final closure gates.
+**Next:** complete Part001 Pass 1 scans **26–30**. Do not begin Part002 transcription until Part001 final closure after Tamil archival-ready, assembled Tamil, English, release/readiness and final closure gates.

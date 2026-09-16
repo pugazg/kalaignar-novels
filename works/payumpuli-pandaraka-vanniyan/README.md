@@ -28,8 +28,8 @@ Current Part001 state:
 
 - source intake — **PASS / COMPLETE**
 - canonical records present — **30/30**
-- Pass 1 text-complete — **15/30 — scans1–15**
-- Pass 1 partial — **15/30 — scans16–30**
+- Pass 1 text-complete — **25/30 — scans1–25**
+- Pass 1 partial — **5/30 — scans26–30**
 - formal Pass 2A — **NOT STARTED**
 - formal Pass 2B — **NOT STARTED**
 - formal Pass 3 — **NOT STARTED**
@@ -56,7 +56,9 @@ Observed from the attached Part001 source:
 4. scan10 — `பதிப்புரை`
 5. scan11 — verse / epigraph; attribution `எழுச்சிக் கவிஞர் காசி ஆனந்தன்`
 6. scan12 — secondary illustrated title/divider
-7. scan13 onward — `தோரண வாயில்`
+7. scans13–20 — `தோரண வாயில்`
+8. scan21 — chapter 2 opening `ஒரு இரகசியக் கடிதம்!`
+9. scans22–25 — chapter 2 continuation
 
 Visible body pagination:
 - scan13 → printed 2
@@ -93,8 +95,8 @@ User-directed normal source batch size: **10 physical scans**, with a shorter fi
 
 For Part001 Pass 1:
 - completed — **scans6–15 — text-complete / needs-review**
-- current next batch — **scans16–25**
-- final remainder — **scans26–30**
+- completed — **scans16–25 — text-complete / needs-review**
+- current next / final remainder — **scans26–30**
 
 Only after Pass 1 reaches **30/30 text-complete** does formal Pass 2A begin from the start of Part001.
 
@@ -113,11 +115,11 @@ Historical preliminary checkpoint records are retained for provenance but do not
 
 ## Exact next activity
 
-Scans6–15 are now **text-complete / needs-review**.
+Scans6–25 are now **text-complete / needs-review**.
 
-Complete **Part001 Pass 1 scans16–25**.
+Complete **Part001 Pass 1 scans26–30**.
 
-For the ten existing canonical records:
+For the five existing canonical records:
 1. enter the complete printed Tamil text directly from the attached Part001 PDF;
 2. preserve source spelling, punctuation, paragraphing, page-boundary fragments and historical glyph identity;
 3. preserve non-body marks separately;

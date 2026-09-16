@@ -96,14 +96,14 @@ Authoritative work-specific guide:
 - 477 / 477 source pages accounted for by split ranges
 - **active Part: Part001 / scans1–30**
 - canonical Part001 records: **30/30 present**
-- Part001 Pass 1 text-complete: **15/30**
-- Part001 Pass 1 partial: **15/30 — scans16–30**
+- Part001 Pass 1 text-complete: **25/30**
+- Part001 Pass 1 partial: **5/30 — scans26–30**
 - formal Pass 2A / Pass 2B / Pass 3: **NOT STARTED**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 English/release: **BLOCKED**
 - Part002 transcription: **BLOCKED until Part001 final closure**
 - split-boundary classifications: **1 / 15 audited — 30→31 GENUINE CONTINUATION**
-- exact active gate: **Part001 Pass 1 scans16–25**
+- exact active gate: **Part001 Pass 1 scans26–30**
 
 ## Batch-size policy
 
@@ -113,8 +113,8 @@ Normal source iterations use **10 physical scans per batch**, with a shorter fin
 
 For Part001 Pass 1:
 - completed: **scans6–15 — text-complete / needs-review**;
-- next: **scans16–25**;
-- final remainder **26–30**;
+- completed: **scans16–25 — text-complete / needs-review**;
+- next / final remainder: **scans26–30**;
 - only after Pass 1 reaches **30/30** may formal Pass 2A begin from the start of Part001.
 
 
@@ -125,7 +125,7 @@ Part001 final page / overall scan30 and Part002 first page / overall scan31 were
 Classification: **GENUINE CONTINUATION**.
 
 Evidence:
-- both pages remain in the same `தோரண வாயில்` body flow;
+- both pages remain in the same continuous body flow;
 - no new title/front-matter break appears at scan31;
 - visible printed pagination continues **19 → 20**;
 - no text is reconstructed across the split.

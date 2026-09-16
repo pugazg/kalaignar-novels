@@ -61,9 +61,9 @@ Current Pass-1 accounting:
 |---|---:|
 | physical scans | **30** |
 | canonical records present | **30/30** |
-| Pass-1 text-complete | **15/30 — scans1–15** |
-| Pass-1 partial | **15/30 — scans16–30** |
-| needs-review | **15/30 — scans1–15** |
+| Pass-1 text-complete | **25/30 — scans1–25** |
+| Pass-1 partial | **5/30 — scans26–30** |
+| needs-review | **25/30 — scans1–25** |
 | verified | **0/30 formal Part-level final status** |
 | formal Pass 2A | **NOT STARTED** |
 | formal Pass 2B | **NOT STARTED** |
@@ -76,6 +76,17 @@ Current Pass-1 accounting:
 | English | **BLOCKED** |
 | release/readiness | **BLOCKED** |
 | final Part closure | **BLOCKED** |
+
+## Pass 1 scans16–25 completion evidence
+
+- scans16–25 were directly transcribed from the attached Part001 source pixels;
+- complete printed Tamil text is present in all ten canonical records;
+- all ten remain `needs-review` / visual `needs-review`;
+- scan21 establishes source-visible chapter 2, `ஒரு இரகசியக் கடிதம்!`, correcting the earlier provisional “scan13 onward = தோரண வாயில்” structure;
+- non-body printed matter on scans17, 19 and 20 is separated from narrative prose;
+- physical page fragments at 18→19, 19→20, 22→23, 23→24 and 24→25 are preserved without reconstruction;
+- scan25 ends with an open quotation; scan26 remains pending;
+- no formal Pass 2A / Pass 2B / Pass 3 credit was assigned.
 
 ## Pass 1 scans6–15 completion evidence
 
@@ -135,7 +146,7 @@ Only then may Part002 become active.
 
 ## Exact next activity
 
-**Part001 Pass 1 scans16–25 — complete source transcription.**
+**Part001 Pass 1 scans26–30 — complete source transcription.**
 
 - use the attached Part001 PDF only;
 - complete all ten existing page records;

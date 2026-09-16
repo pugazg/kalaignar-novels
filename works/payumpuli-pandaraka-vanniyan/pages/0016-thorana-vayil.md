@@ -6,29 +6,38 @@ printed_page: 5
 work: "payumpuli-pandaraka-vanniyan"
 section: "தோரண வாயில்"
 page_type: "body"
-status: "partial"
+status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual inspection of attached source scan; T1 page/provenance/printed-page capture; complete printed Tamil text pending"
+transcription_method: "direct visual transcription from attached source PDF; Part001 Pass 1 text-complete; formal whole-Part verification pending"
 ---
 
 # தோரண வாயில்
 
-## T1 source capture
+## Source transcription
 
-- overall scan: **16**;
-- Part 001 local page: **16**;
-- visible printed page: **5**;
-- page function: `தோரண வாயில்` body continuation;
-- attached source page inspected directly;
-- source itself is treated as normal and authoritative;
-- no external mirror, later edition, web transcription, grammar reconstruction, or contextual substitution is used.
+போதும் - இறுதிவரையில் தமது ஆட்சிக்கு உட்பட்ட மக்களின் இறைமையை நிலைநாட்ட முழு மூச்சாக நின்று போராடியவன் வன்னியின் கடைசி மன்னன் மாவீரன் பண்டார வன்னியன். அவனது வீழ்ச்சிக்கு ஆங்கிலேயரின் ஆக்கிரமிப்பு மட்டுமல்ல, கூடப் பிறந்தே கொல்லும் வியாதி போல் விளங்கிய காக்கை என்பவனால் காட்டிக் கொடுக்கப்பட்ட இழிசெயலும் முக்கிய காரணமாக இருந்தது” என்று குறிப்பிடுகிறார்.
 
-## T1 text state
+துரோகிகளைச் சந்திக்க நேர்ந்த அந்த தூயவனுக்கு நல்ல நண்பர்களும் இல்லாமலில்லை. கி.பி.1815 ஆம் ஆண்டுவரையில் கண்டியை ஆட்சிசெய்து ஆங்கிலேயர்களால் சிறைபிடிக்கப்பட்டு தமிழகத்து வேலூர் சிறையில் பதினாறு ஆண்டுக் காலம் அடைக்கப்பட்டு அந்தச் சிறையிலேயே உயிர் நீத்த கண்ணுசாமி என்ற விக்கிரம ராஜ சிங்கன், பண்டாரக வன்னியனின் உயிர்த் தோழனாவான்.
 
-The canonical record is present with exact source provenance and visible printed-page mapping.
+காட்டிக் கொடுப்போரால் மனம் நொந்த அந்த மாத்தமிழ் முனியின் எரிமலை இதயத்தைச் சிறிது மாற்றியமைத்து, அவன் இளைப்பாறும் குளிர் தருவாக குருவிச்சி நாச்சியார் என்னும் கோதையொருத்தியும் இருந்தாள்! மன உறுதியின் அடிப்படையில் கட்டப்பட்ட அந்தக் காதல் மாளிகை, ஒரு வைராக்கிய மாளிகை! தியாக மாளிகை!
 
-Complete line-by-line Tamil text still has to be entered into this record before the page can leave `partial`.
+போர்ச்சுக்கீசியர், ஒல்லாந்தர் எனப்படும் டச்சுக்காரர், ஆங்கிலேயர்-இவர்களின் நுழைவினால் இலங்கையில் தமிழ் மன்னர்களின் அரசுகளும், சிங்கள மன்னர்களின் அரசுகளும் ஒவ்வொன்றாக வீழ்ந்த போதும் பண்டாரக வன்னியனின் அரசு, கண்டி மன்னனின் அரசு மட்டுமே, இறுதியாக ஆதிக்கம் பெற்று நிலைத்து விட்ட ஆங்கிலேயரை எதிர்க்கின்ற வல்லமை பெற்றவைகளாக விளங்கின.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 16; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 5; T1 PARTIAL — PAGE/PROVENANCE CAPTURED / FULL TEXT PENDING -->
+“கொழும்போடு கோட்டையும் மட்டக்களப்பும்
+குறைவில்லா யாழ்ப்பாண இராச்சியமும்
+அழுங்குப் பிடியாகப் பிடித்தவற்றை
+ஆண்டாரே ஆங்கில நாட்டினர்கள்”
+
+## Pass 1 notes
+
+- complete printed Tamil text on this physical scan was transcribed directly from the attached source pixels;
+- source spelling, punctuation, paragraph boundaries, meaningful display/verse lineation and physical page-boundary fragments are preserved;
+- historical Tamil glyph identity was inspected at source-pixel level and encoded as the source-supported Unicode identity without lexical modernization;
+- no OCR, web transcription, later edition, grammar-based reconstruction or external mirror was used as authority;
+- the opening word `போதும்` completes the quotation fragment that ended on scan15;
+- the four displayed verse lines at the foot of the page are retained line-for-line;
+- formal Pass 2A / Pass 2B / Pass 3 have not started; this record therefore remains `needs-review`.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 16; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 5; PASS 1 TEXT-COMPLETE / needs-review -->

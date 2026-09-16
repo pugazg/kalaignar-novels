@@ -6,29 +6,36 @@ printed_page: 9
 work: "payumpuli-pandaraka-vanniyan"
 section: "தோரண வாயில்"
 page_type: "body"
-status: "partial"
+status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual inspection of attached source scan; T1 page/provenance/printed-page capture; complete printed Tamil text pending"
+transcription_method: "direct visual transcription from attached source PDF; Part001 Pass 1 text-complete; formal whole-Part verification pending"
 ---
 
 # தோரண வாயில்
 
-## T1 source capture
+## Source transcription
 
-- overall scan: **20**;
-- Part 001 local page: **20**;
-- visible printed page: **9**;
-- page function: `தோரண வாயில்` body continuation;
-- attached source page inspected directly;
-- source itself is treated as normal and authoritative;
-- no external mirror, later edition, web transcription, grammar reconstruction, or contextual substitution is used.
+தாளருமான நண்பர் செ.யோகநாதன் அவர்கள் அவருக்கும், மற்றும் மதுரை யாதவர் கல்லூரி முதல்வர் தமிழ்க்குடிமகன் அவர்களுக்கும் - காந்தளகம் சச்சிதானந்தம் அவர்களுக்கும்- நன்றி கூறிக் கொண்டு, அந்தத் தமிழ்ச் சிங்கத்தின் வரலாற்றுத் தொடர்கதையை உங்கள் முன் படைக்கின்றேன்.
 
-## T1 text state
+## Non-body printed matter
 
-The canonical record is present with exact source provenance and visible printed-page mapping.
+Printed facsimile closing/signature:
 
-Complete line-by-line Tamil text still has to be entered into this record before the page can leave `partial`.
+அன்புள்ள,
+மு. கருணாநிதி
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 20; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 9; T1 PARTIAL — PAGE/PROVENANCE CAPTURED / FULL TEXT PENDING -->
+A small warrior/flag emblem is printed near the foot of the page.
+
+## Pass 1 notes
+
+- complete printed Tamil text on this physical scan was transcribed directly from the attached source pixels;
+- source spelling, punctuation, paragraph boundaries, meaningful display/verse lineation and physical page-boundary fragments are preserved;
+- historical Tamil glyph identity was inspected at source-pixel level and encoded as the source-supported Unicode identity without lexical modernization;
+- no OCR, web transcription, later edition, grammar-based reconstruction or external mirror was used as authority;
+- the opening `தாளருமான` completes scan19's physical fragment `எழுத்`;
+- this page closes the introductory `தோரண வாயில்` section;
+- formal Pass 2A / Pass 2B / Pass 3 have not started; this record therefore remains `needs-review`.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 20; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 9; PASS 1 TEXT-COMPLETE / needs-review -->

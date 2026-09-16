@@ -21,16 +21,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 001 | 13 | 13 | 2 | source-visible `தோரண வாயில்`; Pass 1 text-complete; formal verification pending | needs-review | `pages/0013-thorana-vayil.md` |
 | 001 | 14 | 14 | 3 | `தோரண வாயில்` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0014-thorana-vayil.md` |
 | 001 | 15 | 15 | 4 | `தோரண வாயில்` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0015-thorana-vayil.md` |
-| 001 | 16 | 16 | 5 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0016-thorana-vayil.md` |
-| 001 | 17 | 17 | 6 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0017-thorana-vayil.md` |
-| 001 | 18 | 18 | 7 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0018-thorana-vayil.md` |
-| 001 | 19 | 19 | 8 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0019-thorana-vayil.md` |
-| 001 | 20 | 20 | 9 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0020-thorana-vayil.md` |
-| 001 | 21 | 21 | 10 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0021-thorana-vayil.md` |
-| 001 | 22 | 22 | 11 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0022-thorana-vayil.md` |
-| 001 | 23 | 23 | 12 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0023-thorana-vayil.md` |
-| 001 | 24 | 24 | 13 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0024-thorana-vayil.md` |
-| 001 | 25 | 25 | 14 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0025-thorana-vayil.md` |
+| 001 | 16 | 16 | 5 | `தோரண வாயில்` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0016-thorana-vayil.md` |
+| 001 | 17 | 17 | 6 | `தோரண வாயில்` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0017-thorana-vayil.md` |
+| 001 | 18 | 18 | 7 | `தோரண வாயில்` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0018-thorana-vayil.md` |
+| 001 | 19 | 19 | 8 | `தோரண வாயில்` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0019-thorana-vayil.md` |
+| 001 | 20 | 20 | 9 | `தோரண வாயில்` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0020-thorana-vayil.md` |
+| 001 | 21 | 21 | 10 | chapter 2 opening `ஒரு இரகசியக் கடிதம்!`; Pass 1 text-complete; formal verification pending | needs-review | `pages/0021-thorana-vayil.md` |
+| 001 | 22 | 22 | 11 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0022-thorana-vayil.md` |
+| 001 | 23 | 23 | 12 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0023-thorana-vayil.md` |
+| 001 | 24 | 24 | 13 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0024-thorana-vayil.md` |
+| 001 | 25 | 25 | 14 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; formal verification pending | needs-review | `pages/0025-thorana-vayil.md` |
 | 001 | 26 | 26 | 15 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0026-thorana-vayil.md` |
 | 001 | 27 | 27 | 16 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0027-thorana-vayil.md` |
 | 001 | 28 | 28 | 17 | `தோரண வாயில்` continuation; full text pending | partial | `pages/0028-thorana-vayil.md` |
