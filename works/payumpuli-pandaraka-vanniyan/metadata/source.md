@@ -125,11 +125,19 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - canonical `pages/` records: **15 / 477**
 - T1 complete: **5 / 477 through overall scan5 / Part001 local5**
 - T1 partial: **10 / 477 for overall scans6–15 / Part001 local6–15**
-- T2: **NOT STARTED**
-- T3: **NOT STARTED**
+- T2 reviewed: **5 / 477 through scan5**
+- T3 reviewed: **5 / 477 through scan5**
 - terminal page function: **not yet visually audited**
 - assembled Tamil: **BLOCKED**
 - English: **BLOCKED**
+
+## Current source-access review
+
+For scans6–15, direct attached-source rendering and the official Tamil Digital Library record for source family `TVA_BOK_0065744` were checked for a higher-detail access path. The official record confirms the same 1991 Rockfort source identity, but no usable page-text layer or sufficiently detailed alternate rendering was available through the current access path.
+
+No web/secondary wording has been imported into the canonical transcription.
+
+Durable note: [`../SOURCE_ACCESS_REVIEW_T1_006_015.md`](../SOURCE_ACCESS_REVIEW_T1_006_015.md).
 
 ## Exact next activity
 
