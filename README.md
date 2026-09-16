@@ -55,7 +55,7 @@ Exact next action: **fetch live `main` and continue only with the next work expl
 
 Closure record: `collections/arumbu-1978/PARATEXT_CLOSURE.md`.
 
-Exact next action: **perform சுருளிமலை T3 final source-fidelity review for scans 25–29 only; promote pages only after T3 passes, commit, and stop before scan30. The 198-page ingestion issue remains deferred.**
+Exact next action: **fetch live `main` and continue only with the next work explicitly selected by the user. Surulimalai is closed and must not be reopened for routine continuation.**
 
 ## Completed works
 
