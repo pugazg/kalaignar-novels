@@ -41,7 +41,7 @@ Current state:
 - canonical records — **30/30 present**
 - Pass 1 text-complete — **30/30 — scans1–30**
 - Pass 1 partial — **0/30**
-- formal Pass 2A — **IN PROGRESS — 20/30 reviewed (scans1–20)**
+- formal Pass 2A — **COMPLETE — 30/30 reviewed**
 - formal Pass 2B — **NOT STARTED**
 - formal Pass 3 — **NOT STARTED**
 - Part audit — **NOT STARTED**
@@ -117,16 +117,13 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Formal Part001 Pass 2A is **IN PROGRESS — 20/30 reviewed**.
-
-Process **Part001 Pass 2A scans21–30**.
+Begin **formal Part001 Pass 2B scans1–10** in the next iteration.
 
 - use the attached Part001 PDF only;
-- perform direct word-by-word, punctuation, paragraph, displayed-lineation and page-continuation verification;
-- record every correction explicitly;
+- perform an independent lexical / historical-glyph reread under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
 - keep pages `needs-review`;
-- update `PART_001_PASS2A_PROGRESS.md` and live controls;
+- update the Pass2B tracker and live controls;
 - commit and stop.
 
-Do not begin Pass 2B until whole-Part Pass 2A reaches 30/30.
+Pass 2B has **not** been started in the Pass2A-closing iteration.
 Do not begin Part002 transcription.

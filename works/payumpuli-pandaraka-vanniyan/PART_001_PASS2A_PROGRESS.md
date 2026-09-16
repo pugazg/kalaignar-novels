@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS**
+**PASS 2A — COMPLETE / 30/30 REVIEWED**
 
 Prerequisite:
 - Part001 Pass 1 — **COMPLETE / 30/30 text-complete**
@@ -14,7 +14,7 @@ Scope:
 
 ## Pass 2A method
 
-For every scan, compare the canonical transcription directly against the attached source pixels for:
+Every scan was compared directly against the attached source pixels for:
 - every word;
 - punctuation;
 - paragraph boundaries;
@@ -23,14 +23,12 @@ For every scan, compare the canonical transcription directly against the attache
 - headings / displayed textual matter;
 - separation of body text from non-body marks.
 
-Do not perform lexical modernization. Historical-glyph identity questions may be recorded, but the dedicated independent Pass 2B follows only after whole-Part Pass 2A completes.
+No lexical modernization was performed. Pages remain `needs-review`; Pass 2A is a completed verification layer, not final page verification.
 
-Pages remain `needs-review` during Pass 2A.
+## Final accounting
 
-## Current accounting
-
-- Pass 2A reviewed: **20/30 — scans1–20**
-- remaining: **10/30 — scans21–30**
+- Pass 2A reviewed: **30/30 — scans1–30**
+- remaining: **0/30**
 - Pass 2B: **NOT STARTED**
 - Pass 3: **NOT STARTED**
 
@@ -38,22 +36,33 @@ Pages remain `needs-review` during Pass 2A.
 
 - scans1–10 — **COMPLETE / REVIEWED**
 - scans11–20 — **COMPLETE / REVIEWED**
-  - source corrections required on scans **14, 16, 18, 19, 20**
-  - scans **11, 12, 13, 15, 17** passed with no source-text correction
-  - scans11–20 remain `needs-review`
+- scans21–30 — **COMPLETE / REVIEWED**
+  - source corrections required on scans **21, 22, 23, 24, 25, 26, 28, 29**
+  - scans **27, 30** passed with no source-text correction
+  - scans21–30 remain `needs-review`
 
-Durable scans11–20 corrections:
-- scan11 — source short dash/hyphen in `-எழுச்சிக்` confirmed by same-edition punctuation comparison; interim long-dash reading revoked;
-- scan14 — `கட்டப் பொம்மன்`; restored full stop after `பண்டார வன்னியன்.`;
-- scan16 — `கி.பி.1815 ஆம் ஆண்டு வரையில்`;
-- scan18 — source spelling `கெளரவம்`; page-end fragment `கெளரவிக்`;
-- scan19 — source-printed `பிரேமதேசா`, `கெளரவிக்க` / `கெளரவிப்பது`, and `குறிப்பிடிருப்பது` retained without modernization;
-- scan20 — `செ. யோகநாதன்`; facsimile signature kept as visual/non-body matter rather than normalized to typed author text.
+Durable scans21–30 corrections:
+- scan21 — `கண்டி அரசும்`;
+- scan22 — restored source punctuation `இரவு நேரமென்றாலும் -இருட்டு,`;
+- scan23 — source hyphen spacing restored in `தோணியில் -இருந்தவன்`, `நீட்டி -நீரில்`, `ஏறுகிறார்கள்-வெள்ளைக்கார`;
+- scan24 — `ஏன்- இந்த`;
+- scan25 — `கூடி.`, `சேர வேண்டும்`, `முல்லைத் தீவை`, `தின்று விட்டன`, `மூடியதாக`, `மடல், அது`;
+- scan26 — `அந்தச் சிரிப்பின்`, `போகிறாய்?`, `போலவும் - அதில்`;
+- scan28 — `பெயராகும்.-`, `அவனைப் பார்த்து`;
+- scan29 — `கூரைகளையுடைய`;
+- scan30 — no text correction; source-ending comma and previously audited 30→31 GENUINE CONTINUATION retained.
+
+## Pass 2A closure
+
+**PASS — 30/30 physical scans formally reviewed.**
+
+Pass 2A is closed. No page is promoted to final `verified` status at this stage.
 
 ## Exact next activity
 
-Process **Part001 Pass 2A scans21–30** as the final 10-scan Pass2A batch.
+Begin **formal Part001 Pass 2B from scan1** using an independent lexical / historical-glyph reread under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 
-After scans21–30, if and only if Pass 2A reaches **30/30**, synchronize Pass2A closure and **STOP**. Do not begin Pass 2B in the same iteration unless the user explicitly asks to continue.
+Recommended first batch: **scans1–10**.
 
+Do not begin Pass 2B in this Pass2A-closing iteration.
 Do not begin Part002 transcription.

@@ -30,7 +30,7 @@ Current Part001 state:
 - canonical records present — **30/30**
 - Pass 1 text-complete — **30/30 — scans1–30**
 - Pass 1 partial — **0/30**
-- formal Pass 2A — **IN PROGRESS — 20/30 reviewed (scans1–20)**
+- formal Pass 2A — **COMPLETE — 30/30 reviewed**
 - formal Pass 2B — **NOT STARTED**
 - formal Pass 3 — **NOT STARTED**
 - Part audit — **NOT STARTED**
@@ -118,11 +118,11 @@ Historical preliminary checkpoint records are retained for provenance but do not
 
 ## Exact next activity
 
-Formal Part001 Pass 2A is **IN PROGRESS — 20/30 reviewed**.
+Formal Part001 Pass 2A is **COMPLETE — 30/30 reviewed**.
 
-Process **Part001 Pass 2A scans21–30**. Compare every word, punctuation mark, paragraph boundary, meaningful display and page continuation directly with the attached Part001 source.
+Begin **formal Part001 Pass 2B scans1–10** as the next gate. Pass 2B is an independent lexical / historical-glyph reread of the already Pass2A-reviewed text.
 
-Keep pages `needs-review`; do **not** begin Pass 2B until Pass 2A reaches 30/30.
+Keep pages `needs-review`; Pass 2B has **NOT STARTED** in this Pass2A-closing iteration.
 
 Do **not** begin Part002 transcription.
 

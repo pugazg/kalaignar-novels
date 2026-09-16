@@ -65,7 +65,7 @@ Current Pass-1 accounting:
 | Pass-1 partial | **0/30** |
 | needs-review | **30/30 — scans1–30** |
 | verified | **0/30 formal Part-level final status** |
-| formal Pass 2A | **IN PROGRESS — 20/30 reviewed** |
+| formal Pass 2A | **COMPLETE — 30/30 reviewed** |
 | formal Pass 2B | **NOT STARTED** |
 | formal Pass 3 | **NOT STARTED** |
 | Part audit | **NOT STARTED** |
@@ -116,6 +116,31 @@ All 30 pages remain non-final / `needs-review`. The next gate is formal **Pass 2
 - scan11 verse lineation and attribution were preserved;
 - scan12 illustration and scan15 memorial-stone photograph remain separate visual/non-body matter;
 - no formal Pass 2A / Pass 2B / Pass 3 credit was assigned.
+
+## Formal Pass 2A — scans21–30
+
+**COMPLETE / REVIEWED — cumulative 30/30**
+
+Direct source-pixel comparison found corrections on scans **21, 22, 23, 24, 25, 26, 28 and 29**; scans **27 and 30** passed unchanged.
+
+Durable corrections:
+- scan21 — `கண்டி அரசும்`;
+- scan22 — `இரவு நேரமென்றாலும் -இருட்டு,`;
+- scan23 — source hyphen spacing restored at three positions;
+- scan24 — `ஏன்- இந்த`;
+- scan25 — source `கூடி.`, `சேர வேண்டும்`, `முல்லைத் தீவை`, `தின்று விட்டன`, `மூடியதாக`, `மடல், அது`;
+- scan26 — `அந்தச் சிரிப்பின்`, `போகிறாய்?`, `போலவும் - அதில்`;
+- scan28 — `பெயராகும்.-`, `அவனைப் பார்த்து`;
+- scan29 — `கூரைகளையுடைய`;
+- scan30 — source-ending comma retained; no source-text correction; 30→31 remains the previously audited GENUINE CONTINUATION.
+
+All ten pages remain `needs-review`.
+
+## Formal Pass 2A closure
+
+**PASS — 30/30 reviewed.**
+
+Pass 2A is closed. Pass 2B and Pass 3 remain NOT STARTED.
 
 ## Formal Pass 2A — scans11–20
 
@@ -192,14 +217,8 @@ Only then may Part002 become active.
 
 ## Exact next activity
 
-**Part001 Pass 2A scans21–30.**
+Begin **formal Part001 Pass 2B scans1–10** in the next iteration.
 
-- use the attached Part001 PDF only;
-- compare every canonical word, punctuation mark, paragraph boundary and page continuation directly against source pixels;
-- record source corrections explicitly;
-- keep reviewed pages `needs-review`;
-- update `PART_001_PASS2A_PROGRESS.md` and live controls;
-- commit and stop.
+Pass 2B is an independent lexical / historical-glyph reread under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 
-Do not begin Pass 2B.
 Do not begin Part002.

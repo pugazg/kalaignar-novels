@@ -98,13 +98,13 @@ Authoritative work-specific guide:
 - canonical Part001 records: **30/30 present**
 - Part001 Pass 1 text-complete: **30/30**
 - Part001 Pass 1 partial: **0/30**
-- formal Pass 2A: **IN PROGRESS — 20/30 reviewed**
+- formal Pass 2A: **COMPLETE — 30/30 reviewed**
 - formal Pass 2B / Pass 3: **NOT STARTED**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 English/release: **BLOCKED**
 - Part002 transcription: **BLOCKED until Part001 final closure**
 - split-boundary classifications: **1 / 15 audited — 30→31 GENUINE CONTINUATION**
-- exact active gate: **Part001 Pass 2A scans21–30**
+- exact active gate: **formal Part001 Pass 2B from scan1**
 
 ## Batch-size policy
 

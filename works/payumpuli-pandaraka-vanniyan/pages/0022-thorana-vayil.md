@@ -10,14 +10,14 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual transcription from attached source PDF; Part001 Pass 1 text-complete; formal whole-Part verification pending"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
 ---
 
 # ஒரு இரகசியக் கடிதம்!
 
 ## Source transcription
 
-இரவு நேரமென்றாலும் இருட்டு, முழுமையாகப் பரவி உலகத்தை விழுங்கி விடவில்லை. சோற்றுப் பருக்கைகளை இலையில் வாரியிறைத்தாற்போல் வானத்தில் நட்சத்திரங்கள் ஒளிவிட்டுக் கொண்டிருந்தன. பாதியை மறைத்துக் கொண்டு மீதியைக் காட்டியபடி விண்வீதியில் உலா வந்த நிலவின் வெளிச்சமும் அந்தக் கடற்கரை மீதும் - கடற்கரையை அலைக் கரங்களால் தழுவத் துடிக்கும் கடலின் மீதும் பரவிப் படர்ந்திருந்தது. அதனால் கரையோரமாகச் சென்ற அந்த மூவரையும் தெளிவாகப் பார்க்க முடிந்தது. கொஞ்ச தூரம் நடந்தவர்கள், கரையோரமாகக் கிடந்த ஒரு தோணியின் பக்கம் சென்று நெருங்கி நின்றார்கள். மூவரின் கரங்களுமே அந்தத் தோணியைக் கரையிலிருந்து கடலை நோக்கித் தள்ளின. உடனடியாகத் தோணி, கடலுக்குள் முழுமையாக இறங்காவிட்டாலும், அவர்கள் மூவரின் வலிமைக்குப் பணிந்தது போல் கடல் நீரில் மிதக்கத் தொடங்கியது. அதற்குப் பிறகும் கூட மூவரும் கடற்கரையைத் தங்கள் விழிகளைச் சுழற்றிப் பரபரப்புடன் கவனித்தார்கள். யாரும் அவர்களின் கண்ணில் தென்படவில்லையென்றதும், ஒரு பெருமூச்சு ஏக காலத்தில் மூவரிடமிருந்தும் வெளிப்பட்டது.
+இரவு நேரமென்றாலும் -இருட்டு, முழுமையாகப் பரவி உலகத்தை விழுங்கி விடவில்லை. சோற்றுப் பருக்கைகளை இலையில் வாரியிறைத்தாற்போல் வானத்தில் நட்சத்திரங்கள் ஒளிவிட்டுக் கொண்டிருந்தன. பாதியை மறைத்துக் கொண்டு மீதியைக் காட்டியபடி விண்வீதியில் உலா வந்த நிலவின் வெளிச்சமும் அந்தக் கடற்கரை மீதும் - கடற்கரையை அலைக் கரங்களால் தழுவத் துடிக்கும் கடலின் மீதும் பரவிப் படர்ந்திருந்தது. அதனால் கரையோரமாகச் சென்ற அந்த மூவரையும் தெளிவாகப் பார்க்க முடிந்தது. கொஞ்ச தூரம் நடந்தவர்கள், கரையோரமாகக் கிடந்த ஒரு தோணியின் பக்கம் சென்று நெருங்கி நின்றார்கள். மூவரின் கரங்களுமே அந்தத் தோணியைக் கரையிலிருந்து கடலை நோக்கித் தள்ளின. உடனடியாகத் தோணி, கடலுக்குள் முழுமையாக இறங்காவிட்டாலும், அவர்கள் மூவரின் வலிமைக்குப் பணிந்தது போல் கடல் நீரில் மிதக்கத் தொடங்கியது. அதற்குப் பிறகும் கூட மூவரும் கடற்கரையைத் தங்கள் விழிகளைச் சுழற்றிப் பரபரப்புடன் கவனித்தார்கள். யாரும் அவர்களின் கண்ணில் தென்படவில்லையென்றதும், ஒரு பெருமூச்சு ஏக காலத்தில் மூவரிடமிருந்தும் வெளிப்பட்டது.
 
 சாதாரண உடையில் இருந்த இருவரில் ஒருவன், தோணியில் முதலில் ஏறிக் கொண்டதோடு அங்கிருந்த துடுப்பையும் கையில் எடுத்துக் கொண்டான். அடுத்து யார் தோணியில் ஏறுவது என ஒரு விநாடி யோசனை! அதற்குள் தோணியில் இருந்தவன், இருவரையும் பார்த்து “உஸ்! கொஞ்சம் மறைந்து கொள்ளுங்கள்!” என்று மெல்லிய குரலில் எச்சரித்தான். இருவரும் மிக வேகமாகத் தோணியின் மறுபக்கம் சென்று கடல் நீரில் நின்றவாறே தங்களை மறைத்துக் கொண்டனர். தோணியில் ஏறியவனும், தன்னைத் தோணிக்குள் ஒளித்துக் கொண்டு கடற்கரையோரத்தைக் கூர்ந்து கவனித்தான்.
 
@@ -30,6 +30,13 @@ transcription_method: "direct visual transcription from attached source PDF; Par
 - historical Tamil glyph identity was inspected at source-pixel level and encoded as the source-supported Unicode identity without lexical modernization;
 - no OCR, web transcription, later edition, grammar-based reconstruction or external mirror was used as authority;
 - the final `அந்த` is a genuine physical page-boundary fragment and continues on scan23;
-- formal Pass 2A / Pass 2B / Pass 3 have not started; this record therefore remains `needs-review`.
+- formal Part001 Pass 2A is complete for this scan; Pass 2B / Pass 3 remain pending; status stays `needs-review`.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 22; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 11; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph, displayed-lineation and page-boundary comparison completed against the attached source pixels;
+- correction: restored source punctuation `இரவு நேரமென்றாலும் -இருட்டு,`;
+- Pass 2A result: **REVIEWED / PASS AFTER ANY CORRECTIONS ABOVE**;
+- page remains `needs-review` pending whole-Part Pass 2B / Pass 3 and later final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 22; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 11; PASS 2A REVIEWED / needs-review -->

@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual transcription from attached source PDF; Part001 Pass 1 text-complete; formal whole-Part verification pending"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
 ---
 
 # வழியில் கண்ட வயோதிகர்!
@@ -29,7 +29,7 @@ transcription_method: "direct visual transcription from attached source PDF; Par
 
 அந்தப் பகுதி வீடுகள் எவ்வாறு அமைக்கப்பட்டுள்ளன என்பதை அறிந்து கொள்வதிலும் சுந்தரலிங்கம் ஆர்வம் காட்டி, அதற்காகவே ஊர்ப் பகுதிகளைக் கடக்கும்போது நடையின் வேகத்தைக் குறைத்துக் கொண்டான்.
 
-நீண்ட சதுரமான நிலப்பரப்பில் சாய்வான கூரைகளுடைய வீடுகளும் - கூம்பக வடிவமைந்த கூரை வீடுகளும் - குவிந்த வடிவமைந்த கூரை வீடுகளும் - அந்த ஊர்களில் கலந்து கலந்து காணப்பட்டன. அந்தக் கூரைகள், தென்னோலைகளாலும், பனை ஓலைகளாலும், வைக்கோலாலும் வேயப்பட்டிருந்தன. சுவர்களோ பெரும்பாலும் களி மண்ணால் கட்டப்பட்டிருந்தன.
+நீண்ட சதுரமான நிலப்பரப்பில் சாய்வான கூரைகளையுடைய வீடுகளும் - கூம்பக வடிவமைந்த கூரை வீடுகளும் - குவிந்த வடிவமைந்த கூரை வீடுகளும் - அந்த ஊர்களில் கலந்து கலந்து காணப்பட்டன. அந்தக் கூரைகள், தென்னோலைகளாலும், பனை ஓலைகளாலும், வைக்கோலாலும் வேயப்பட்டிருந்தன. சுவர்களோ பெரும்பாலும் களி மண்ணால் கட்டப்பட்டிருந்தன.
 
 ## Pass 1 notes
 
@@ -39,6 +39,13 @@ transcription_method: "direct visual transcription from attached source PDF; Par
 - no OCR, web transcription, later edition, grammar-based reconstruction or external mirror was used as authority;
 - the source literally prints `சிற்றார்கள்`; it is preserved rather than silently normalized to an expected lexical form;
 - source spacing in `கண்டு பிடித்துத்` and `களி மண்ணால்` is retained;
-- formal Part001 Pass 2A / Pass 2B / Pass 3 have not started; this record remains `needs-review`.
+- formal Part001 Pass 2A is complete for this scan; Pass 2B / Pass 3 remain pending; status stays `needs-review`.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 29; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 29; அச்சுப் பக்கம்: 18; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph, displayed-lineation and page-boundary comparison completed against the attached source pixels;
+- correction: `கூரைகளுடைய` → source `கூரைகளையுடைய`;
+- Pass 2A result: **REVIEWED / PASS AFTER ANY CORRECTIONS ABOVE**;
+- page remains `needs-review` pending whole-Part Pass 2B / Pass 3 and later final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 29; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 29; அச்சுப் பக்கம்: 18; PASS 2A REVIEWED / needs-review -->

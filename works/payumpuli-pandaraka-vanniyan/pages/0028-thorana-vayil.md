@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual transcription from attached source PDF; Part001 Pass 1 text-complete; formal whole-Part verification pending"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
 ---
 
 # வழியில் கண்ட வயோதிகர்!
@@ -21,7 +21,7 @@ transcription_method: "direct visual transcription from attached source PDF; Par
 
 வழியில் கண்ட வயோதிகர்!
 
-முல்லைத்தீவு என்பது குறிப்பிட்ட ஒரு தோணித்துறைக்குரிய பெயராக மட்டுமன்றி அந்தப் பகுதிக்கே உரிய பெயராகும். சுந்தரலிங்கம் வந்த தோணி முல்லைத்தீவுக் கடற்கரைப் பகுதியின் ஓரத்தை நெருங்கியபோது, பரதன் அவனைப்பார்த்து, “எங்கே நிறுத்துவது? முல்லைத்தீவுத் துறையிலா? அலம்பில் துறையா? அல்லது சிலாவத்தை துறையா?” என்று கேட்டான்.
+முல்லைத்தீவு என்பது குறிப்பிட்ட ஒரு தோணித்துறைக்குரிய பெயராக மட்டுமன்றி அந்தப் பகுதிக்கே உரிய பெயராகும்.- சுந்தரலிங்கம் வந்த தோணி முல்லைத்தீவுக் கடற்கரைப் பகுதியின் ஓரத்தை நெருங்கியபோது, பரதன் அவனைப் பார்த்து, “எங்கே நிறுத்துவது? முல்லைத்தீவுத் துறையிலா? அலம்பில் துறையா? அல்லது சிலாவத்தை துறையா?” என்று கேட்டான்.
 
 சுந்தரலிங்கம் புன்முறுவலுடன் “என்ன பரதா? தெரியாதவனைப் போல கேட்கிறாய்? வற்றாப்பளையைத் தாண்டித்தானே பண்டாரக வன்னிய மன்னர் கோட்டைக்குப் போகவேண்டும். அதனால் வற்றாப்பளைக்குச் செல்ல எது அருகில் உள்ள தோணித் துறையோ, அங்கே கொண்டு போய் நிறுத்து!” என்றான்.
 
@@ -43,6 +43,13 @@ transcription_method: "direct visual transcription from attached source PDF; Par
 - no OCR, web transcription, later edition, grammar-based reconstruction or external mirror was used as authority;
 - source-visible chapter number `3` and heading `வழியில் கண்ட வயோதிகர்!` establish a new chapter at scan28;
 - source forms such as `அவனைப்பார்த்து`, `போகவேண்டும்` and `முன்னேரத்திலேயே` are retained without spacing or lexical normalization;
-- formal Part001 Pass 2A / Pass 2B / Pass 3 have not started; this record remains `needs-review`.
+- formal Part001 Pass 2A is complete for this scan; Pass 2B / Pass 3 remain pending; status stays `needs-review`.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 28; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 28; அச்சுப் பக்கம்: 17; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph, displayed-lineation and page-boundary comparison completed against the attached source pixels;
+- corrections: `பெயராகும்.` → source `பெயராகும்.-`; `அவனைப்பார்த்து` → source `அவனைப் பார்த்து`;
+- Pass 2A result: **REVIEWED / PASS AFTER ANY CORRECTIONS ABOVE**;
+- page remains `needs-review` pending whole-Part Pass 2B / Pass 3 and later final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 28; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 28; அச்சுப் பக்கம்: 17; PASS 2A REVIEWED / needs-review -->
