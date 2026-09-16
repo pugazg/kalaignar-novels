@@ -79,36 +79,43 @@ A page record's `part`, `part_page`, and `source_filename` preserve the split pr
 
 ## Workflow rule
 
-The split is an access/provenance device, not a content division.
+This work now follows the **Kuraloviyam per-Part closure model**. The split is an access/provenance device, not a content division.
 
-Normal order remains:
+Permanent Part order:
 
-**source intake → T1 capture → T2 historical-glyph/text fidelity → T3 visual/structural fidelity → audit/status closure → assembled Tamil → English**.
+**source intake → Pass 1 complete transcription → Pass 2A direct textual verification → Pass 2B independent lexical/historical-glyph reread → Pass 3 visual/structural verification → Part audit → final status sync → documentation sync → Tamil archival-ready → assembled Tamil closure → English translation/review → release/readiness report → final Part closure → next Part**
 
-Processing may advance Part by Part, but canonical scan numbering and cross-Part textual continuity are global.
+A later Part may be supplied/registered and may serve as an adjacent boundary witness, but its transcription must not begin before the active Part's final closure.
+
+Authoritative work-specific guide:
+- `PAYUMPULI_ARCHIVAL_GUIDELINES.md`
 
 ## Current state
 
 - 16 / 16 split PDFs: **SUPPLIED / REGISTERED**
 - 477 / 477 source pages accounted for by split ranges
-- canonical page records: **35 / 477**
-- T1 complete: **5 / 477 through scan5**
-- T1 partial: **30 / 477 for scans6–35**
-- T2: **5 / 477 COMPLETE through scan5**
-- T3: **5 / 477 COMPLETE through scan5**
+- **active Part: Part001 / scans1–30**
+- canonical Part001 records: **30/30 present**
+- Part001 Pass 1 text-complete: **5/30**
+- Part001 Pass 1 partial: **25/30 — scans6–30**
+- formal Pass 2A / Pass 2B / Pass 3: **NOT STARTED**
+- Part001 Tamil archival-ready: **BLOCKED**
+- Part001 English/release: **BLOCKED**
+- Part002 transcription: **BLOCKED until Part001 final closure**
 - split-boundary classifications: **1 / 15 audited — 30→31 GENUINE CONTINUATION**
-- exact active gate: **T1 source inventory scans36–45 / Part002 local6–15**
-
+- exact active gate: **Part001 Pass 1 scans6–15**
 
 ## Batch-size policy
 
 The legacy opening batch **scans1–5** was already in progress before the user changed the iteration size; it is now closed through T3.
 
-From now on, source iterations use **10 overall scans per batch**:
-- next: **6–15**;
-- then **16–25**, **26–35**, and so on;
-- batches may cross a split-PDF boundary;
-- global `scan_page` remains canonical and split-boundary auditing still applies.
+Normal source iterations use **10 physical scans per batch**, with a shorter final remainder.
+
+For Part001 Pass 1:
+- next: **scans6–15**;
+- then **16–25**;
+- final remainder **26–30**;
+- only after Pass 1 reaches **30/30** may formal Pass 2A begin from the start of Part001.
 
 
 ## Audited boundary — 30→31
