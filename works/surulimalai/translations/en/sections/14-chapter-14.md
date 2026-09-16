@@ -39,9 +39,9 @@ working_title: "Surulimalai"
 
 was heading toward the kiln-bank. I followed slowly, never letting him out of sight.
 
-"There was an Ayyanar temple there—a very famous one. The people of that village said their Ayyanar was the cousin of the Ayyappa Swami of Sabarimala! Many people had made vows to him and placed clay horses in front of the temple.
+"There was an Ayyanar temple there—a very famous one. The people of that village said their Ayyanar was the son of Sabarimala Ayyappa Swami's paternal uncle! Many people had made vows to him and placed clay horses in front of the temple.
 
-"A gambler named Patanjali Pillai had once made ten lakh rupees at a single stroke by bribing the jockeys riding the other horses in a race and having his own horse declared the winner. He had fulfilled his vow by setting up a model of a yellow Kalyani horse before the temple. They say that at night Ayyanar mounts one of those clay horses and crosses all the rivers.
+"A gambler named Patanjali Pillai had once made ten lakh rupees at a single stroke by bribing the jockeys riding the other horses in a race and having his own horse declared the winner. He had fulfilled his vow by setting up a model of a *Manja Kalyani* horse before the temple. They say that at night Ayyanar mounts one of those clay horses and crosses all the rivers.
 
 "Under the leg of one of the horses at that temple entrance, Kannan began his work. When he left, I carried out my own investigation at the same place. It was the same sort of old rubbish as near the sacrificial pedestal. I took the things out, threw them into the kiln fire, closed the pit as before and left.
 
