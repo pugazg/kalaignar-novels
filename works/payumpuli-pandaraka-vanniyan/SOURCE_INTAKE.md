@@ -5,10 +5,11 @@ Status: **COMPLETE / REGISTERED**
 ## Supplied source
 
 - `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்.pdf`
-- **150 physical scans**
+- **477 physical scans**
 - **456,236,783 bytes**
 - image-only PDF
 - source PDF is not to be committed to Git
+- ChatGPT's current attachment renderer/index exposes a **150-page preview**, which is not the full source extent
 
 ## Registered bibliographic identity
 
