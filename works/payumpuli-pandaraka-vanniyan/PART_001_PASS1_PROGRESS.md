@@ -1,0 +1,74 @@
+# Part 001 Pass 1 Progress — பாயும்புலி பண்டாரக வன்னியன்
+
+## Gate
+
+**PASS 1 — IN PROGRESS**
+
+Active Part:
+- Part001
+- overall scans **1–30**
+- local pages **1–30**
+- controlling source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf`
+
+This tracker follows the Kuraloviyam rule that **Pass 1 is complete only when every physical scan in the Part has a complete page-aligned source transcription**.
+
+## Current accounting
+
+- Part001 physical scans: **30**
+- canonical Part001 records present: **30/30**
+- Pass-1 text-complete records: **5/30 — scans1–5**
+- Pass-1 partial records: **25/30 — scans6–30**
+- formal Pass 2A: **NOT STARTED**
+- formal Pass 2B: **NOT STARTED**
+- formal Pass 3: **NOT STARTED**
+- Part audit: **NOT STARTED**
+- Tamil archival-ready: **BLOCKED**
+- assembled Tamil: **BLOCKED**
+- English: **BLOCKED**
+- release/readiness report: **BLOCKED**
+- final Part closure: **BLOCKED**
+
+Earlier local T2/T3 work on scans1–5 is retained as historical review evidence only. It does **not** substitute for the formal Kuraloviyam-style whole-Part Pass 2A / Pass 2B / Pass 3 chain.
+
+## Existing source structure
+
+- scan1 — cover
+- scans2–5 — front matter
+- scans6–9 — `அணிந்துரை`
+- scan10 — `பதிப்புரை`
+- scan11 — verse / epigraph
+- scan12 — illustrated title/divider
+- scan13 onward — `தோரண வாயில்`
+- visible body pagination:
+  - scan13 → printed 2
+  - …
+  - scan30 → printed 19
+
+Outgoing boundary witness:
+- scan30 → scan31 = **GENUINE CONTINUATION**
+- scan31 belongs to Part002 and is a boundary witness only until Part001 final closure.
+
+## Pass-1 batch history
+
+- legacy scans1–5 — printed-text capture present
+- scans6–15 — records exist but full printed text is **PENDING**
+- scans16–25 — records exist but full printed text is **PENDING**
+- scans26–30 — records exist but full printed text is **PENDING**
+
+## Exact next activity
+
+Complete **Part001 Pass 1 scans6–15**:
+
+1. read each attached source page directly;
+2. enter the complete printed Tamil text into the ten existing canonical records;
+3. preserve source spelling, punctuation, paragraphing, page-boundary fragments and historical glyph identity;
+4. preserve non-body marks separately;
+5. leave completed Pass-1 records `needs-review`, not `verified`;
+6. update this tracker and all live frontier controls;
+7. commit and stop.
+
+Do not begin scans16–25 in the same iteration unless the user explicitly asks to continue.
+
+Do not begin formal Pass 2A until Part001 Pass 1 reaches **30/30 complete**.
+
+Do not begin Part002 transcription until Part001 completes Tamil archival-ready, assembled Tamil, English translation/review, release/readiness report and final Part closure.
