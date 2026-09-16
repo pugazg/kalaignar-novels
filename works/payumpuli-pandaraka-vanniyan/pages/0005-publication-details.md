@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct visual inspection of rendered source scan; T1"
+transcription_method: "direct visual inspection of rendered source scan; T1; T2 independent re-read complete with source-legibility hold"
 ---
 
 ## Publication / bibliographic page
@@ -42,4 +42,13 @@ The four lines above are recorded here only as source-family identity already es
 - T2/T3 must revisit this page at enlarged resolution before any verification claim;
 - page remains `needs-review`.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 5; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: —; T1 CANONICAL RECORD CREATED / SMALL-PRINT BLOCK NEEDS REVIEW -->
+## T2 independent historical-glyph notes
+
+- complete scan was independently re-inspected;
+- the compact bibliographic/publication block remains too small in the available render for a trustworthy full line-by-line transcription;
+- because the block is not yet fully legible, a complete occurrence-by-occurrence historical-glyph closure cannot honestly be claimed for its unread text;
+- no wording, digits, edition details or printer/address data were reconstructed from the user metadata or other pages;
+- T2 source-review result: **COMPLETE WITH CARRIED SOURCE-LEGIBILITY HOLD**;
+- page remains `needs-review`.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 5; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: —; T1 COMPLETE; T2 COMPLETE WITH HOLD / needs-review -->
