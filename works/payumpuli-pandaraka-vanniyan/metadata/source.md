@@ -122,9 +122,9 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 
 - complete source: **477 / 477 scans supplied across 16 Parts**
 - split identities/global mappings: **16 / 16 REGISTERED**
-- canonical `pages/` records: **15 / 477**
+- canonical `pages/` records: **25 / 477**
 - T1 complete: **5 / 477 through overall scan5 / Part001 local5**
-- T1 partial: **10 / 477 for overall scans6–15 / Part001 local6–15**
+- T1 partial: **20 / 477 — scans6–25**
 - T2 reviewed: **5 / 477 through scan5**
 - T3 reviewed: **5 / 477 through scan5**
 - terminal page function: **not yet visually audited**
@@ -143,6 +143,6 @@ Durable rule:
 
 ## Exact next activity
 
-Remain on **Part001 T1 scans6–15**.
+Remain on **Part001 T1 scans6–25**.
 
 The ten page records exist with global/Part provenance, page function and visible printed-page numbers, and complete Tamil text capture remains the active T1 task. Work only from the attached Part001 PDF; do not seek external copies. Do not reconstruct unreadable text. Finish source text capture before T2.
