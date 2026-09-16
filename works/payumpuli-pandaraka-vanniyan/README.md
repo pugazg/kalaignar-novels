@@ -74,17 +74,13 @@ Observed from the supplied source:
 - unclear readings stay non-final;
 - source PDFs remain outside Git.
 
-## Current source-fidelity hold
+## Current T1 state
 
 All ten scans6–15 were directly inspected and canonical records were created.
 
-The available rendered view reliably supports:
-- scan / Part-local identity;
-- page/section function;
-- visible printed-page numbers;
-- source-visible headings.
+The source pages themselves are normal and remain the controlling transcription source. The previous description of them as unusually dense or source-resolution-blocked was incorrect.
 
-It does **not** support a sufficiently reliable complete line-by-line transcription of the dense Tamil prose. The records therefore remain `partial`; no unreadable text has been reconstructed or guessed.
+The records remain `partial` only because their complete printed text has not yet been entered into the canonical page records.
 
 Detailed checkpoint:
 - [`T1_BATCH_006_015.md`](T1_BATCH_006_015.md)
@@ -98,6 +94,6 @@ The user confirmed that the attached split PDFs are the Tamil Digital Library so
 
 Remain on **T1 overall scans6–15 / Part001 local pages6–15**.
 
-Complete the full line-by-line Tamil source text for these ten records from a sufficiently detailed source rendering. Only after all ten are text-complete may they advance from `partial` to `needs-review` and T2 begin.
+Complete the full line-by-line Tamil source text for these ten records directly from the attached Part001 PDF. Only after all ten are text-complete may they advance from `partial` to `needs-review` and T2 begin.
 
 Do **not** advance to scans16–25 while scans6–15 remain text-incomplete.
