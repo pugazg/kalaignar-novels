@@ -14,98 +14,75 @@
 - source family: **TVA_BOK_0065744**
 - complete physical extent: **477 scans**
 - working source Parts: **16 / 16 supplied**
-- Part ranges:
-  - 001 — **1–30**
-  - 002 — **31–60**
-  - 003 — **61–90**
-  - 004 — **91–120**
-  - 005 — **121–150**
-  - 006 — **151–180**
-  - 007 — **181–210**
-  - 008 — **211–240**
-  - 009 — **241–270**
-  - 010 — **271–300**
-  - 011 — **301–330**
-  - 012 — **331–360**
-  - 013 — **361–390**
-  - 014 — **391–420**
-  - 015 — **421–450**
-  - 016 — **451–477**
-- all split PDFs: **image-only / rendered pages control**
-- split PDFs committed to Git: **No**
-- split hashes: **PENDING**
+- Part001: **overall scans1–30**
+- all split PDFs are image-only working sources and are not committed to Git
+- canonical `scan_page` uses the global **1–477** sequence and never resets per Part
 
-### Multipart rules
+Multipart policy:
+- `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLICY.md`
 
-Adapted from the Kuraloviyam split-source workflow:
-
-1. canonical `scan_page` uses overall scans **1–477** and never resets per Part;
-2. page records carry `part`, `part_page`, and exact `source_filename`;
-3. there is one unified canonical `pages/` directory;
-4. split boundaries are physical access boundaries only;
-5. boundary state must be determined from adjacent source pages;
-6. later Parts may serve as boundary witnesses but do not leapfrog the global active frontier.
-
-Authoritative policy: `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLICY.md`.
-
-### Durable state
+## Durable state
 
 - overall source intake: **COMPLETE / REGISTERED**
 - per-Part intake registration: **16 / 16 COMPLETE**
 - global split coverage: **477 / 477**
-- canonical page records: **5 / 477**
-- T1: **5 / 477 COMPLETE through overall scan5 / Part001 local5**
-- T2: **NOT STARTED**
-- T3: **NOT STARTED**
-- Part-boundary classifications: **pending direct visual audit**
-- terminal page function at scan477: **pending direct visual audit**
+- canonical page records: **15 / 477**
+- T1 complete: **5 / 477** — scans1–5
+- T1 partial: **10 / 477** — scans6–15
+- T2 reviewed: **5 / 477**
+- T3 reviewed: **5 / 477**
+- verified: **2 / 477**
+- needs-review: **3 / 477**
+- partial: **10 / 477**
 - assembled Tamil: **BLOCKED**
 - English: **BLOCKED**
 
-### Part 001 opening observations
+### Opening scans1–5
 
-- scan1 cover;
-- scans2–5 title/publisher/bibliographic front matter;
-- scans6–9 `அணிந்துரை`;
-- scan10 `பதிப்புரை`;
-- scan11 epigraph/verse;
-- scan12 secondary title divider;
-- scan13 onward `தோரண வாயில்`, exact structural role provisional.
+Reviewed through T3.
 
-Active authorities:
-- `works/payumpuli-pandaraka-vanniyan/README.md`
-- `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE.md`
-- `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLICY.md`
-- `works/payumpuli-pandaraka-vanniyan/metadata/source.md`
-- `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
-- `works/payumpuli-pandaraka-vanniyan/audit.md`
-- `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_001.md` … `SOURCE_INTAKE_PART_016.md`
-- `NOVEL_PROCESSING_GUIDE.md`
-- `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-- `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`
+- scans1–2 — **VERIFIED**
+- scan3 — **needs-review**: small telephone-number digits unresolved
+- scan4 — **needs-review**: copy-specific handwritten/stamp detail unresolved
+- scan5 — **needs-review**: compact publication/bibliographic block unresolved
 
-## Previous work — சுருளிமலை
+Checkpoint files:
+- `T1_BATCH_001_005.md`
+- `T2_BATCH_001_005.md`
+- `T3_BATCH_001_005.md`
 
-Surulimalai remains fully closed. Do not reopen it for routine continuation.
+### Current 10-page batch — scans6–15
+
+User-requested iteration size from this point: **10 scans**.
+
+The ten source pages were directly inspected and ten canonical records were created.
+
+Structural capture:
+- scans6–9 — `அணிந்துரை`
+- scan10 — `பதிப்புரை`
+- scan11 — verse / epigraph
+- scan12 — secondary title / illustrated divider
+- scans13–15 — `தோரண வாயில்`
+- visible printed pages:
+  - scan13 → **2**
+  - scan14 → **3**
+  - scan15 → **4**
+
+Current state: **T1 PARTIAL**.
+
+Reason: the current rendered page view supports structure/page-number identification but not a sufficiently reliable complete character-by-character transcription of the dense Tamil prose. No unreadable body text was invented or reconstructed.
+
+Detailed checkpoint:
+- `works/payumpuli-pandaraka-vanniyan/T1_BATCH_006_015.md`
 
 ## Exact next activity
 
-Perform **Part 001 T1 — overall scans6–15 / local pages6–15** from:
+Remain on **Part001 T1 overall scans6–15 / local pages6–15**.
 
-`TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf`
+Complete the full line-by-line Tamil source text for all ten `partial` canonical records from a sufficiently detailed source rendering. Only then:
+1. promote the ten records from `partial` to `needs-review`;
+2. synchronize controls;
+3. commit T1 completion;
+4. move to T2 for scans6–15.
 
-T1 durable state:
-- five unified canonical records exist for scans1–5;
-- all five carry Part001 provenance;
-- all five remain `needs-review`;
-- T1 carried uncertainties: scan3 telephone-number digits; scan5 compact publication/bibliographic block.
-
-T2 requirements:
-1. independently re-read all five source pages;
-2. explicitly apply the historical-glyph checklist;
-3. revisit the two carried T1 uncertainties without guessing;
-4. preserve source spelling/punctuation and non-body separation;
-5. update only source-supported readings;
-6. synchronize page map, README, audit, handover and next prompts;
-7. commit T2;
-8. **stop before T3**.
+Do **not** advance to scans16–25 while scans6–15 remain text-incomplete.
