@@ -1,87 +1,80 @@
 # Project Handover — Kalaignar Novels Archive
 
 ## Repository
+
 - Repository: `pugazg/kalaignar-novels`
 - Branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE.**
-- Completed work: **`works/surulimalai/`**
+- Current active work: **`works/payumpuli-pandaraka-vanniyan/`**
+- Source PDF is **not committed**.
 
-## சுருளிமலை — durable closed state
+## Active work — பாயும்புலி பண்டாரக வன்னியன்
 
-### Tamil source archive
-- complete source: **198 physical pages**
-- SHA-256: **`3d940115bed12e818b8f3cbfbdfca56def0285aef803334f8711acf27f7408ea`**
-- scans **1–198 physically reconciled**
-- scans **5–198 T1/T2/T3 VERIFIED**
-- canonical page records: **198/198**
-- terminal/full-198-page reconciliation: **COMPLETE / PASS**
-- scan197 / printed195 ending: **`[முற்றிற்று.]`**
-- scan198: **back-cover / publisher-device — no story body**
-- Tamil source-archival phase: **CLOSED**
+### Source identity
 
-### Assembled Tamil master
-- reading-layer files: **26/26 VERIFIED**
-- composition: **1 `அறிமுகம்` + 25 source-visible numbered chapters**
-- chapter sequence: **1–5, 8–27**
-- chapter markers 6 / 7: **not source-visible / not invented**
-- textual coverage: **scan5 through scan197**
-- structural validation: **COMPLETE / PASS**
-- canonical Tamil changes caused by assembly: **0**
+- filename: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்.pdf`
+- physical scans: **150**
+- file size: **456,236,783 bytes**
+- format: **image-only scanned PDF**
+- SHA-256: **PENDING**
+- title: **பாயும்புலி பண்டாரக வன்னியன்**
+- author: **கலைஞர் மு. கருணாநிதி**
+- publisher: **ராக்போர்ட் பப்ளிகேஷன்ஸ்**
+- edition: **முதல் பதிப்பு, 1991**
 
-### English translation
-- workspace: **CLOSED / VERIFIED**
-- Batch E1: **SOURCE-CHECKED / COMPLETE**
-- Batch E2: **SOURCE-CHECKED / COMPLETE**
-- Batch E3: **SOURCE-CHECKED / COMPLETE**
-- Batch E4: **SOURCE-CHECKED / COMPLETE**
-- Batch E5: **SOURCE-CHECKED / COMPLETE**
-- final whole-work bilingual / consistency review: **COMPLETE / PASS**
-- translated files: **26/26**
-- coverage: **Introduction + Chapters1–5 + Chapters8–27 / scans5–197**
-- source-visible English chapter structure: **1–5, 8–27**
-- chapters6/7 inserted: **0 / 0**
-- physical source-boundary / source-join comments: **183/183 represented**
-- unresolved English holds: **0**
-- canonical Tamil changes caused by English: **0**
-- assembled Tamil changes caused by English: **0**
-- scan198 wrapper matter translated as narrative: **0**
-- whole-work English: **VERIFIED / COMPLETE / CLOSED**
+### Durable intake state
 
-### English source-facing locks
-- Introduction age vs Chapter1 age contradiction preserved;
-- archaic Silappatikaram quotation retained in Tamil;
-- source `கிருட்டிணப் பறவை` retained source-facing;
-- Surulimalai scan97 chant retained source-facing;
-- one-off scan116 `சுருமலை` retained as **Surumalai** at that point only;
-- chapter15 `ஊதல் / ஊடல்` wordplay preserved;
-- chapter22 `வாடை தூக்க வணங்கிய தாழை!` retained in Tamil;
-- chapter23 widowhood / auspiciousness rhetoric preserved as source-era framing;
-- chapter27 poisonous green-leaf plant left unspecified; no external species / dosage added;
-- terminal `[முற்றிற்று.]` retained.
+- source registration: **COMPLETE**
+- opening source review: **scans1–20 COMPLETE for intake classification**
+- canonical page records: **0 / 150**
+- T1: **NOT STARTED**
+- T2: **NOT STARTED**
+- T3: **NOT STARTED**
+- terminal boundary: **NOT YET AUDITED**
+- assembled Tamil: **BLOCKED**
+- English: **BLOCKED**
 
-English authorities:
-- `works/surulimalai/translations/en/README.md`
-- `works/surulimalai/translations/en/TRANSLATION_PLAN.md`
-- `works/surulimalai/translations/en/GLOSSARY.md`
-- `works/surulimalai/translations/en/PROGRESS.md`
-- `works/surulimalai/translations/en/E1_SOURCE_CHECK.md`
-- `works/surulimalai/translations/en/E2_SOURCE_CHECK.md`
-- `works/surulimalai/translations/en/E3_SOURCE_CHECK.md`
-- `works/surulimalai/translations/en/E4_SOURCE_CHECK.md`
-- `works/surulimalai/translations/en/E5_SOURCE_CHECK.md`
-- `works/surulimalai/translations/en/FINAL_BILINGUAL_REVIEW.md`
+Opening observations:
+- scan1 cover;
+- scans2–5 title/publisher/bibliographic front matter;
+- scans6–9 `அணிந்துரை`;
+- scan10 `பதிப்புரை`;
+- scan11 epigraph/verse page;
+- scan12 secondary title divider;
+- scans13–20 source-visible `தோரண வாயில்`, printed pages2–9.
+- structural role of `தோரண வாயில்`: **PROVISIONAL until complete source transition review**.
 
-## Closure rule
+Active authorities:
+- `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE.md`
+- `works/payumpuli-pandaraka-vanniyan/metadata/source.md`
+- `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
+- `works/payumpuli-pandaraka-vanniyan/README.md`
+- `works/payumpuli-pandaraka-vanniyan/audit.md`
+- root `NOVEL_PROCESSING_GUIDE.md`
+- root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+- root `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`
 
-**Do not reopen Surulimalai Tamil or English merely to re-review closed material.** Reopen only if:
-1. the user supplies a specific source-fidelity correction;
-2. genuinely new source evidence changes a reading;
-3. the user explicitly requests a new publication/output layer derived from the closed archive.
+## Previous work — சுருளிமலை
 
-Canonical `works/surulimalai/pages/` always remains controlling if a future issue arises.
+Surulimalai remains **fully closed**:
+- Tamil canonical pages **198/198 VERIFIED**;
+- assembled Tamil **26/26 VERIFIED / PASS**;
+- English **26/26 VERIFIED / COMPLETE / CLOSED**;
+- unresolved English holds **0**.
+
+Do not reopen it for routine continuation.
 
 ## Exact next activity
 
-Surulimalai has no remaining archival or English-translation activity.
+Perform **T1 direct transcription / canonical page creation for scans1–5 only** of `பாயும்புலி பண்டாரக வன்னியன்`.
 
-For the next repository activity, **fetch live `main` first and identify the next user-selected novel/work rather than inventing one**.
+Requirements:
+1. read each scan directly from source pixels;
+2. create one page record per physical scan;
+3. preserve only visibly printed page numbers;
+4. separate stamps / handwriting / accession marks from printed prose;
+5. preserve source spelling, punctuation and historical glyph identity;
+6. mark all five records `needs-review` pending T2;
+7. update page map, work README, audit, handover and next prompts;
+8. commit T1;
+9. **stop before T2**.
