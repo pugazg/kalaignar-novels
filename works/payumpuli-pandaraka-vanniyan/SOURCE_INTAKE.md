@@ -77,22 +77,28 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 
 - split registration: **16 / 16 COMPLETE**
 - physical coverage by split ranges: **477 / 477**
-- canonical page records: **35 / 477**
-- active frontier: **Part 002**
-- T1 complete: **5 / 477 through scan5**
-- T1 partial: **30 / 477 — scans6–35**
-- T2: **5 / 477 COMPLETE through scan5**
-- T3: **5 / 477 COMPLETE through scan5**
+- active content Part: **Part001 / scans1–30**
+- canonical Part001 records: **30/30 present**
+- Part001 Pass 1 text-complete: **5/30**
+- Part001 Pass 1 partial: **25/30 — scans6–30**
+- formal Part001 Pass 2A / Pass 2B / Pass 3: **NOT STARTED**
+- Part001 Tamil archival-ready: **BLOCKED**
+- Part001 assembled Tamil: **BLOCKED**
+- Part001 English / release-readiness: **BLOCKED**
+- Part001 final closure: **BLOCKED**
+- Part002 source: **REGISTERED / TRANSCRIPTION BLOCKED**
+- boundary 30→31: **GENUINE CONTINUATION / AUDITED**
+
+Authoritative work-specific methodology:
+- `PAYUMPULI_ARCHIVAL_GUIDELINES.md`
+
+Authoritative live Pass-1 tracker:
+- `PART_001_PASS1_PROGRESS.md`
 
 ## Exact next activity
 
-Proceed with **Part002 T1 source inventory overall scans36–45 / local pages6–15**.
+Complete **Part001 Pass 1 scans6–15** directly from the attached Part001 PDF.
 
-- create ten canonical records with exact Part002 provenance;
-- record only visibly printed page numbers;
-- preserve page/section function and non-body marks;
-- keep text-incomplete records `partial`;
-- do not advance partial pages to T2/T3;
-- synchronize controls and commit.
+Do not begin Part002 transcription.
 
-Current full-text backlog: **scans6–35**.
+Part002 becomes active only after Part001 completes the full maintained chain through **English release/readiness and final Part closure**.
