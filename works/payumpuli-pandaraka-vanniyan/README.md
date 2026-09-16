@@ -3,7 +3,7 @@
 **ஆசிரியர்:** கலைஞர் மு. கருணாநிதி  
 **பதிப்பகம்:** ராக்போர்ட் பப்ளிகேஷன்ஸ்  
 **பதிப்பு:** முதல் பதிப்பு — 1991  
-**Source scan:** 150 physical pages  
+**Source scan:** 477 physical pages  
 **Source PDF in repository:** No
 
 ## Current status
@@ -12,11 +12,12 @@
 
 - source filename: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்.pdf`
 - file size: **456,236,783 bytes**
-- physical scans: **150**
+- physical scans: **477**
 - image-only scan: **yes**
 - SHA-256: **PENDING**
 - opening structure visually reviewed: **scans1–20**
-- canonical page records: **0 / 150**
+- current conversation preview/index exposes only the first **150 pages**; this is **not** the source extent
+- canonical page records: **0 / 477**
 - T1/T2/T3 body/source work: **NOT STARTED**
 - terminal boundary: **NOT YET AUDITED**
 - English translation: **BLOCKED until Tamil archival + assembled-Tamil gates pass**
