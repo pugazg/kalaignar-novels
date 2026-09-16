@@ -71,7 +71,7 @@ Leaving Siva standing there, he went to the fence of a nearby garden. A kind of 
 
 Why was he plucking them?
 
-Those leaves were poisonous, the source says—powerful enough to kill cattle.
+Those leaves were a poisonous herb—powerful enough to kill cattle.
 
 Why did he need them?
 
