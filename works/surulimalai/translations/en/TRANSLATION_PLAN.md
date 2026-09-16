@@ -41,6 +41,8 @@ Produce readable English while preserving:
 - Chapter 14's Payasa Muni / Katteri material preserves both reported explanations rather than editorially choosing one.
 - E3 preserves the source distinction between reported possession / village folklore and Aravazhi's in-story rationalist explanation; no external adjudication is added inside translation prose.
 - The temple-bull sequence preserves both the immediate narrated event (Surulimalai's flute calms the bull) and Aravazhi's later source explanation that the bull was already accustomed to the flute.
+- E4 preserves the one-off canonical `சுருமலை` at scan116 as **Surumalai**, the `ஊதல் / ஊடல்` wordplay, Singaram's father's revenge command as character speech, and the petition-signature explanation without silent normalization.
+- E5 preserves chapter23 widowhood / auspiciousness rhetoric as source-era framing, chapter22's `வாடை தூக்க வணங்கிய தாழை!` in source Tamil, the bull-contest agency, the unspecified poisonous-leaf narrative without external identification, and the final `[முற்றிற்று.]` marker.
 
 ## Batch plan
 
@@ -49,9 +51,9 @@ Produce readable English while preserving:
 | E1 | Introduction + Chapter 1 | **SOURCE-CHECKED / COMPLETE** |
 | E2 | Chapters 2–5 | **SOURCE-CHECKED / COMPLETE** |
 | E3 | Chapters 8–14 | **SOURCE-CHECKED / COMPLETE** |
-| E4 | Chapters 15–21 | **NEXT** |
-| E5 | Chapters 22–27 | NOT STARTED |
-| Final | whole-work bilingual review / consistency gate | NOT STARTED |
+| E4 | Chapters 15–21 | **SOURCE-CHECKED / COMPLETE** |
+| E5 | Chapters 22–27 | **SOURCE-CHECKED / COMPLETE** |
+| Final | whole-work bilingual review / consistency gate | **COMPLETE / PASS — VERIFIED / CLOSED** |
 
 Batch sizes are editorial units, not source authority. A batch may be split further if a fidelity issue requires it.
 
@@ -68,3 +70,9 @@ Each batch must pass:
 7. no-silent-Tamil-change check.
 
 Whole-work English cannot become VERIFIED until all batches pass and a final bilingual review closes with zero unresolved holds.
+
+## Final closure
+
+All five batches passed their source checks. The final bilingual / consistency gate is recorded in [`FINAL_BILINGUAL_REVIEW.md`](FINAL_BILINGUAL_REVIEW.md).
+
+Whole-work English state: **26 / 26 VERIFIED / COMPLETE / CLOSED**, **0 unresolved holds**, **0 canonical Tamil changes**.
