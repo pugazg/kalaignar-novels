@@ -122,8 +122,9 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 
 - complete source: **477 / 477 scans supplied across 16 Parts**
 - split identities/global mappings: **16 / 16 REGISTERED**
-- canonical `pages/` records: **5 / 477**
-- T1: **5 / 477 COMPLETE through overall scan5 / Part001 local5**
+- canonical `pages/` records: **15 / 477**
+- T1 complete: **5 / 477 through overall scan5 / Part001 local5**
+- T1 partial: **10 / 477 for overall scans6–15 / Part001 local6–15**
 - T2: **NOT STARTED**
 - T3: **NOT STARTED**
 - terminal page function: **not yet visually audited**
@@ -132,6 +133,6 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 
 ## Exact next activity
 
-Perform **Part 001 T1 — overall scans 6–15 / local pages 6–15**.
+Remain on **Part001 T1 scans6–15**.
 
-Independently re-read the five canonical records against Part001, explicitly apply the historical-glyph checklist, and resolve only what source pixels support. Scan3's small telephone-number digits and scan5's compact publication block remain carried T1 uncertainties. Leave pages non-final pending T3.
+The ten page records exist with global/Part provenance, page function and visible printed-page numbers, but complete Tamil text capture is still pending because the current rendered view is not detailed enough for reliable full transcription. Do not reconstruct unreadable text. Finish source text capture before T2.
