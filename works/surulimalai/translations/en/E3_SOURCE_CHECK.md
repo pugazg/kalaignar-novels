@@ -128,6 +128,9 @@ English translated files now: **13 / 26**.
 English coverage now: **scan5 through scan113 before chapter15**, with the source-visible numbering gap **6–7 absent**.  
 Unresolved English holds: **0**.
 
-## Next
+## Downstream status
 
-Batch E4 — chapters **15–21**.
+The historical next step from E3 was Batch E4. E4 and E5 have since completed, followed by the final whole-work bilingual / consistency review.
+
+Current whole-work English state: **26/26 VERIFIED / COMPLETE / CLOSED**.  
+Final authority: [`FINAL_BILINGUAL_REVIEW.md`](FINAL_BILINGUAL_REVIEW.md).
