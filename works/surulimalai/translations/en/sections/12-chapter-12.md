@@ -59,7 +59,7 @@ After a long while of treatment, the unconscious young man opened his eyes sligh
 
 Ponmani sat at a distance where she could see his face in the dim light of the lamp. For the first time in her life, she found herself enslaved by a new feeling. Without realizing it she kept looking at his face. A thought would arise that she was doing something wrong—and disappear as quickly as it came. This itself felt strange to her. Until then no one had managed to steal her heart. Now she herself seemed ready to come forward and offer her heart to this young man.
 
-Her eyes advanced upon his face like the source-named *kiruttina* birds that dive slantwise, never missing their aim, to snatch fish glittering and floating in clear water. An indescribable feeling she had never known before began to toss her about.
+Her eyes advanced upon his face like the source-named *kiruttina* birds that dive slantwise, never missing their aim, to snatch kendai fish glittering and floating in clear water. An indescribable feeling she had never known before began to toss her about.
 
 <!-- source boundary: scan 95 → scan 96 -->
 
