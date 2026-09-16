@@ -81,9 +81,9 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 
 This is retained as **user-supplied descriptive metadata**, not substituted for source transcription.
 
-## Initial source observations from Part 001
+## Initial source observations from Part 002
 
-- overall scan 1 / Part 001 local 1 — illustrated cover;
+- overall scan 1 / Part 002 local 1 — illustrated cover;
 - scan 2 / local 2 — reverse / half-title-style matter;
 - scan 3 / local 3 — publisher/address imprint matter;
 - scan 4 / local 4 — title page / publisher imprint / library markings;
@@ -122,9 +122,9 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 
 - complete source: **477 / 477 scans supplied across 16 Parts**
 - split identities/global mappings: **16 / 16 REGISTERED**
-- canonical `pages/` records: **25 / 477**
+- canonical `pages/` records: **35 / 477**
 - T1 complete: **5 / 477 through overall scan5 / Part001 local5**
-- T1 partial: **20 / 477 — scans6–25**
+- T1 partial: **30 / 477 — scans6–35**
 - T2 reviewed: **5 / 477 through scan5**
 - T3 reviewed: **5 / 477 through scan5**
 - terminal page function: **not yet visually audited**
@@ -143,6 +143,6 @@ Durable rule:
 
 ## Exact next activity
 
-Remain on **Part001 T1 scans6–25**.
+Remain on **Part001 T1 scans6–35**.
 
 The ten page records exist with global/Part provenance, page function and visible printed-page numbers, and complete Tamil text capture remains the active T1 task. Work only from the attached Part001 PDF; do not seek external copies. Do not reconstruct unreadable text. Finish source text capture before T2.
