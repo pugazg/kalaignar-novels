@@ -65,4 +65,10 @@ Opening batch 001–005:
 
 User-requested batch size from now on: **10 overall scans per iteration**.
 
-**Next:** Part001 T1 — overall scans **6–15** / local pages **6–15**.
+Batch scans6–15 / local pages6–15:
+- canonical records: **10/10 created**;
+- structural/page-function capture: **COMPLETE**;
+- full line-by-line Tamil transcription: **PENDING**;
+- state: **10 partial**.
+
+**Next:** remain on Part001 T1 scans **6–15** and complete the full source text before T2 or scans16–25.
