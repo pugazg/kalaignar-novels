@@ -53,8 +53,8 @@ Authoritative policy: `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLIC
 - overall source intake: **COMPLETE / REGISTERED**
 - per-Part intake registration: **16 / 16 COMPLETE**
 - global split coverage: **477 / 477**
-- canonical page records: **0 / 477**
-- T1: **NOT STARTED**
+- canonical page records: **5 / 477**
+- T1: **5 / 477 COMPLETE through overall scan5 / Part001 local5**
 - T2: **NOT STARTED**
 - T3: **NOT STARTED**
 - Part-boundary classifications: **pending direct visual audit**
@@ -90,18 +90,22 @@ Surulimalai remains fully closed. Do not reopen it for routine continuation.
 
 ## Exact next activity
 
-Perform **Part 001 T1 — overall scans1–5 / local pages1–5** from:
+Perform **Part 001 T2 — overall scans1–5 / local pages1–5** from:
 
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf`
 
-Requirements:
-1. read each source page directly;
-2. create one unified canonical record per overall scan;
-3. preserve `scan_page: 1–5`;
-4. add `part: 1`, `part_page: 1–5`;
-5. preserve exact Part-001 `source_filename`;
-6. separate printed matter from stamps/handwriting/library marks;
-7. preserve source spelling, punctuation and historical glyph identity;
-8. set all five records `needs-review` pending T2;
-9. synchronize page map, README, audit, handover and next prompts;
-10. commit and stop before T2.
+T1 durable state:
+- five unified canonical records exist for scans1–5;
+- all five carry Part001 provenance;
+- all five remain `needs-review`;
+- T1 carried uncertainties: scan3 telephone-number digits; scan5 compact publication/bibliographic block.
+
+T2 requirements:
+1. independently re-read all five source pages;
+2. explicitly apply the historical-glyph checklist;
+3. revisit the two carried T1 uncertainties without guessing;
+4. preserve source spelling/punctuation and non-body separation;
+5. update only source-supported readings;
+6. synchronize page map, README, audit, handover and next prompts;
+7. commit T2;
+8. **stop before T3**.
