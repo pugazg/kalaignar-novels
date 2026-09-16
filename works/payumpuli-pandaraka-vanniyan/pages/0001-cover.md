@@ -6,8 +6,8 @@ printed_page: null
 work: "payumpuli-pandaraka-vanniyan"
 section: "front-matter"
 page_type: "cover"
-status: "verified"
-visual_fidelity: "verified"
+status: "needs-review"
+visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
 transcription_method: "direct visual transcription from rendered source scan; T1; T2 independent re-read complete; T3 final source-fidelity review complete"
@@ -51,3 +51,8 @@ transcription_method: "direct visual transcription from rendered source scan; T1
 - T3 result: **PASS / VERIFIED**.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 1; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: —; T1/T2/T3 COMPLETE / VERIFIED -->
+
+
+## Kuraloviyam-methodology reset
+
+This page had received an earlier local T3 verification before the work adopted the Kuraloviyam per-Part closure model. Under that model, final `verified` status is assigned only after the **entire Part** completes Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → final status synchronization. This page is therefore returned to `needs-review` without changing its source transcription.
