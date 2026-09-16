@@ -9,19 +9,19 @@
 
 ## Current status
 
-**PART001 ACTIVE / scans1–5 reviewed through T3 / scans6–15 T1 PARTIAL**
+**PART001 ACTIVE / scans1–5 reviewed through T3 / scans6–25 T1 PARTIAL INVENTORY**
 
 - source family: **TVA_BOK_0065744**
 - source Parts: **16/16 SUPPLIED / REGISTERED**
 - global physical coverage: **477/477**
-- canonical page records: **15/477**
+- canonical page records: **25/477**
 - T1 complete: **5/477** — scans1–5
-- T1 partial: **10/477** — scans6–15
+- T1 partial: **20/477** — scans6–25
 - T2 reviewed: **5/477**
 - T3 reviewed: **5/477**
 - verified: **2/477**
 - needs-review: **3/477**
-- partial: **10/477**
+- partial: **20/477**
 - assembled Tamil: **BLOCKED**
 - English: **BLOCKED until Tamil archival + assembled-Tamil gates pass**
 
@@ -39,9 +39,13 @@ The opening **scans1–5** batch was already underway before the batch size chan
 
 From scans6 onward, use **10 overall scans per iteration**.
 
-Current 10-page iteration:
-- overall scans **6–15**
-- Part001 local pages **6–15**
+Current completed inventory iteration:
+- overall scans **16–25**
+- Part001 local pages **16–25**
+
+Next inventory iteration:
+- overall scans **26–35**
+- crosses Part001→Part002 at **30→31**
 
 ## Multipart handling
 
@@ -76,14 +80,18 @@ Observed from the supplied source:
 
 ## Current T1 state
 
-All ten scans6–15 were directly inspected and canonical records were created.
+Canonical records now exist through **overall scan25**.
 
-The source pages themselves are normal and remain the controlling transcription source. The previous description of them as unusually dense or source-resolution-blocked was incorrect.
+- scans1–5: T1/T2/T3 reviewed;
+- scans6–25: T1 page/provenance/printed-page inventory present, but complete printed Tamil text remains to be entered;
+- all text-incomplete records remain `partial`;
+- T2/T3 do not advance on partial pages.
 
-The records remain `partial` only because their complete printed text has not yet been entered into the canonical page records.
+The attached source itself is normal and authoritative. The partial backlog is not a source defect.
 
-Detailed checkpoint:
+Detailed checkpoints:
 - [`T1_BATCH_006_015.md`](T1_BATCH_006_015.md)
+- [`T1_BATCH_016_025.md`](T1_BATCH_016_025.md)
 
 ## Controlling-source clarification
 
@@ -92,8 +100,12 @@ The user confirmed that the attached split PDFs are the Tamil Digital Library so
 
 ## Exact next activity
 
-Remain on **T1 overall scans6–15 / Part001 local pages6–15**.
+Proceed with the next **10-scan T1 source-inventory batch: overall scans26–35**.
 
-Complete the full line-by-line Tamil source text for these ten records directly from the attached Part001 PDF. Only after all ten are text-complete may they advance from `partial` to `needs-review` and T2 begin.
+This crosses the Part001→Part002 boundary:
+- scans26–30 = Part001 local26–30;
+- scans31–35 = Part002 local1–5.
 
-Do **not** advance to scans16–25 while scans6–15 remain text-incomplete.
+Inspect the 30→31 boundary directly and classify it from the attached pages. Create canonical records with exact split provenance and only visibly printed page numbers. Keep text-incomplete records `partial`; do not advance them to T2/T3.
+
+The full-text backlog for scans6–25 remains mandatory before Tamil archival closure.
