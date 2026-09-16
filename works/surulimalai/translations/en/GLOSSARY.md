@@ -61,6 +61,9 @@ This glossary locks translation choices for the derived English layer. Canonical
 | `தாரை / தப்பட்டை / கொம்பு` | **tarai / tappattai / horn** | procession instruments |
 | `கிருட்டிணப் பறவை` | ***kiruttina* bird** | retain source name; do not assign an external species identification |
 | `மஞ்ச கல்யாணி` | ***Manja Kalyani*** | retain the source horse label rather than infer a colour/name normalization |
+| `சாம்பிராணி` | **sambrani** | retain source-facing incense term |
+| `சாமி மலையேறியது` | **the deity departed / the possession ended** | contextual idiom; do not literalize into new theology |
+| `வாத்தியாரே` | **vathiyare / teacher** | according to dialogue flow |
 
 ## Religious / literary names
 
