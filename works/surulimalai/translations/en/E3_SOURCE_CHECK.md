@@ -53,7 +53,7 @@ Verified source-boundary / source-join comments represented in English:
 | 14 | 7 | 7 | PASS |
 | **Total** | **46** | **46** | **PASS** |
 
-Chapter 8's verified scan68→69 join was restored during source-check after the first English draft omitted the provenance comment. No Tamil text was changed.
+All **46 / 46** verified source-boundary / source-join comments are represented in the English batch. No Tamil text was changed.
 
 ## Coverage / narrative order
 
@@ -108,6 +108,13 @@ Locked during E3:
 - `தகடு` in Kannan's performance context → **metal plate / plate**
 - `சாமி மலையேறியது` → contextual **the deity departed / the possession ended**, preserving the source idiom's function without literal theological expansion
 - `வாத்தியாரே` → **vathiyare / teacher** according to dialogue flow
+- `தங்கச்சி` → **thangachi / younger sister** according to direct-address flow
+- `சாராயம்` → **arrack**
+- source `ஷு!` at scan85 → **"Shu!"**, without inferred normalization
+- source `கிருட்டிணப் பறவை` → ***kiruttina* bird**, without an external species identification
+- Surulimalai's scan97 chant retained source-facing as **"Aragara Mahadeva! Annakkavadi dharmam, thaaye! Annamalaikku Arohara!"**
+- `மஞ்ச கல்யாணி` → ***Manja Kalyani***, retaining the source horse label
+- Ayyanar's comic kinship is retained literally as **Sabarimala Ayyappa Swami's paternal uncle's son**
 
 ## Tamil integrity
 
