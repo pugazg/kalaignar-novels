@@ -76,6 +76,14 @@ See [`../ASSEMBLED_TAMIL_VALIDATION.md`](../ASSEMBLED_TAMIL_VALIDATION.md).
 
 The assembled layer contains no T1/T2/T3 audit-note sections and does not reopen the closed Tamil source archive.
 
-## Downstream gate
+## Downstream state
 
-English translation may begin only from this PASSED Tamil reading layer plus the controlling canonical `pages/` records.
+The English translation derived from this PASSED Tamil reading layer is now **26/26 VERIFIED / COMPLETE / CLOSED**.
+
+- English source checks E1–E5: **COMPLETE / PASS**
+- final bilingual / consistency review: **COMPLETE / PASS**
+- canonical Tamil changes caused by English: **0**
+
+English closure authority: [`../translations/en/FINAL_BILINGUAL_REVIEW.md`](../translations/en/FINAL_BILINGUAL_REVIEW.md).
+
+Canonical `pages/` remains controlling for any future fidelity issue.
