@@ -10,6 +10,19 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 - controlling split:
   `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf`
 
+## Controlling-source rule
+
+The user confirmed:
+- the attached PDF/split PDFs were downloaded from Tamil Digital Library;
+- Wikisource is the same copy;
+- there is no need to access those websites.
+
+Therefore:
+- **use only the attached split PDFs for routine transcription**;
+- do not search Tamil Digital Library, Wikisource, or other mirrors;
+- do not treat those mirrors as independent witnesses;
+- only use an external source if the user explicitly requests comparison or verification.
+
 ## Batch-size rule
 
 From scan6 onward, process **10 overall scans per iteration**.
@@ -31,35 +44,24 @@ Do not advance to scans16–25 until this T1 gate closes.
 - needs-review: **3/477**
 - partial: **10/477**
 
-Scans6–15 canonical records already exist and contain correct global/Part provenance plus source-supported structural data.
+Scans6–15 canonical records already exist and contain global/Part provenance plus source-supported structural data.
 
 Read:
 - `works/payumpuli-pandaraka-vanniyan/T1_BATCH_006_015.md`
-- `works/payumpuli-pandaraka-vanniyan/SOURCE_ACCESS_REVIEW_T1_006_015.md`
 - `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLICY.md`
 - `works/payumpuli-pandaraka-vanniyan/audit.md`
 - `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 
-## Source-access state
-
-The controlling attached Part001 PDF has no usable parsed text layer. Current rendered images support page structure/headings/page numbers but not trustworthy complete character-by-character transcription of the dense prose.
-
-The official Tamil Digital Library record for the exact source family `TVA_BOK_0065744` was checked and confirms the 1991 Rockfort source identity, but no usable alternate page-text layer/high-detail rendering was obtained through the current access path.
-
-Tamil Wikisource lists the work bibliographically, but no source-identical page-level scans6–15 transcription was retrieved.
-
-**Do not use secondary quotations, later editions, web articles, English translations, metadata, grammar, or OCR guesses to fill the canonical text.**
-
 ## Exact next activity
 
-Remain on **T1 scans6–15**.
+Remain on **T1 scans6–15** using the attached Part001 PDF only.
 
-If a sufficiently detailed view of the controlling source becomes available:
-1. complete all ten line-by-line Tamil transcriptions;
+1. complete all ten line-by-line Tamil transcriptions directly from the attached source;
 2. preserve punctuation, paragraphing and historical glyph identity;
-3. change the ten records from `partial` to `needs-review`;
-4. synchronize page map / README / audit / handover / prompts;
-5. commit T1 completion;
-6. stop before T2.
+3. do not fill uncertain characters from context, metadata, OCR guesses, web sources, or another edition;
+4. change the ten records from `partial` to `needs-review` only when their printed text is complete;
+5. synchronize page map / README / audit / handover / prompts;
+6. commit T1 completion;
+7. stop before T2.
 
-If source detail remains insufficient, preserve the partial gate; do not falsely advance to T2 or scans16–25.
+Do not begin scans16–25 yet.
