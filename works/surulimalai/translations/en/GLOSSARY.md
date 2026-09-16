@@ -64,38 +64,51 @@ This glossary locks translation choices for the derived English layer. Canonical
 | `சாம்பிராணி` | **sambrani** | retain source-facing incense term |
 | `சாமி மலையேறியது` | **the deity departed / the possession ended** | contextual idiom; do not literalize into new theology |
 | `வாத்தியாரே` | **vathiyare / teacher** | according to dialogue flow |
+| `ஊடல்` | ***oodal* — lovers' sulk/quarrel** | preserve chapter15 wordplay with `ஊதல்` / blowing |
+| `கரும்புள்ளி செம்புள்ளி` | **black and red spots** | source humiliation ritual; do not add external explanation |
+| `எருக்கம்பூ` | ***erukkam* flower** | retain source plant name; no external botanical identification needed |
+| `கற்பு` | **chastity** | preserve source-era moral rhetoric and speaker/narrator framing; do not editorially endorse it |
+| `ராசுராசி` | **"raasi-raasi" / exceptionally auspicious** | source label in Pooncholai widowhood discussion |
+| `அரோகரா` | **Arohara** | retain invocation / comic source usage |
 
 ## Religious / literary names
 
-Use source-facing forms: **Siva, Kali, Mari, Kaliamman, Amman, Subramanya, Gautama Buddha, Krishna Paramatma, Gokulam, Kattavarayan, Madurai Veeran, Ilango Adigal, Silappatikaram, Nalayini, Alli Arjunan, Valli Thirumanam, Muruga, Chandramathi, Kannagi, Madhavi, Manmathan, Bhadrakali, Pillaiyar, Harischandra, Payasa Muni, Katteri Amman, Ayyanar, Ayyappa, Malayali Bhagavathi**.
+Use source-facing forms: **Siva, Kali, Mari, Kaliamman, Amman, Subramanya, Gautama Buddha, Krishna Paramatma, Gokulam, Kattavarayan, Madurai Veeran, Ilango Adigal, Silappatikaram, Tirukkural, Kalithogai, Neithal Kali, Nalayini, Alli Arjunan, Valli Thirumanam, Muruga, Chandramathi, Kannagi, Madhavi, Manmathan, Bhadrakali, Pillaiyar, Harischandra, Payasa Muni, Katteri Amman, Ayyanar, Ayyappa, Malayali Bhagavathi**.
 
 Do not add theology, literary commentary or external identification inside translation prose.
 
 ## Locked source oddities
 
-1. **Age contradiction:** Introduction — Surulimalai is "not yet even quite eleven"; Chapter 1 — "a fifteen-year-old youth." Preserve both exactly at the semantic level.
-2. **Silappatikaram quotation:** retain the archaic Tamil quotation in Chapter 1; do not invent an English gloss from context or outside commentary in this source-bound phase.
-3. **`சோணிப்பிள்ளை`:** retain as *sonippillai* unless stronger source-backed meaning is later established.
-4. **`சாப்பாட்டு ராமன்`:** retain as *Saappaattu Raman* with a minimal contextual gloss ("a lover of food") on first use.
-5. **Theechatti trick:** cottonseed under the fire-pot is translated exactly as the character explains it; no external technical explanation.
-6. **Possession/oracle rhetoric:** preserve as the narrator/characters describe it; do not endorse or debunk inside translated prose.
-7. **Source chapter sequence:** 1–5, 8–27. No 6 or 7.
-8. **Maina / chastity rhetoric:** source expressions such as `கற்பு களங்கப்படுத்தப்பட்டது`, `பாபி`, and related purity/sin imagery remain narrator/character rhetoric; translate without endorsement or present-day explanatory correction.
-9. **Maina's age:** Chapter 3 says she had crossed sixteen; retain without harmonizing with any later age reference unless source itself does so.
-10. **Peethambaram's concealed condition:** source says `பெருவியாதியின் ஆரம்பம்`; E2 renders this conservatively as "the beginning of a terrible disease" and does not infer a diagnosis.
-11. **Madman's report:** Chiranjeevi's statements about Singaram's marriage/child/funeral rites are preserved as the madman's speech, not narrator fact.
-12. **Chapter 5 endpoint:** ends on scan64 with Surulimalai's `செத்தவள் பிழைத்துக் கொண்டாள்!`; no chapter6/7 English is inserted before chapter8.
-13. **Karpuram / Kannan / Ponmani triangle:** E3 keeps Karpuram's desire for Kannan, Kannan's desire for Ponmani, and Karpuram's attempt to bind Ponmani to Singaram as separate motives; do not collapse them into a mutual-love plot.
-14. **Temple bull / flute:** the source narrates Surulimalai calming the bull with his flute; Aravazhi later identifies it as a bull already accustomed to that flute and known to the boy. Preserve both stages without supernaturalizing the event.
-15. **Aravazhi's critique:** statements about temple spending, divine power, Kannan's tricks and the buried plates belong to Aravazhi's narration/dialogue and the novel's source rhetoric; do not insert outside explanation into the prose.
-16. **Reported folklore:** Payasa Muni, Katteri Amman and Ayyanar stories in Chapter 14 remain reported village beliefs / stories rather than narrator-certified external fact.
-13. **Chapter 10 source exclamation:** `ஷு!` at scan85 is retained as **"Shu!"**; do not normalize it into an inferred word.
-14. **`கிருட்டிணப் பறவை`:** E3 retains ***kiruttina* bird** because the canonical Tamil supports the source label but not an external species identification.
-15. **Surulimalai's scan97 chant:** retain source-facing **"Aragara Mahadeva! Annakkavadi dharmam, thaaye! Annamalaikku Arohara!"** rather than supplying an unsupported explanatory translation.
-16. **Payasa Muni / Katteri account:** Chapter 14 presents both the supernatural village report and a later human-murder explanation; English preserves both as reported accounts and does not choose between them editorially.
-17. **Ayyanar kinship joke:** retain the source's explicit comic kinship — the village Ayyanar is said to be **Sabarimala Ayyappa Swami's paternal uncle's son** — rather than smoothing it into a generic relationship.
-18. **Kannan's buried plates:** Aravazhi's account explicitly exposes Kannan planting and marking the `தகடு`; translate the sequence as Aravazhi's narrated demonstration without adding outside debunking commentary.
-19. **Chapter 14 endpoint:** English ends with Aravazhi's glance toward Ponmani on scan113 before the source-visible chapter15 heading; chapter15 material is not pulled into E3.
+1. **Age contradiction:** Introduction — Surulimalai is "not yet even quite eleven"; Chapter 1 — "a fifteen-year-old youth." Preserve both at the semantic level; do not reconcile them.
+2. **Silappatikaram quotation:** retain the archaic Tamil quotation in Chapter 1; do not invent an English gloss from outside commentary.
+3. **`சோணிப்பிள்ளை`:** retain as *sonippillai* unless stronger source-backed meaning is established.
+4. **`சாப்பாட்டு ராமன்`:** retain as *Saappaattu Raman* with only a minimal contextual gloss on first use.
+5. **Theechatti trick:** Singaram's cottonseed / fire-pot explanation remains character speech; no external technical explanation.
+6. **Possession / oracle rhetoric:** preserve the narrator's and characters' framing without editorial endorsement or debunking inside prose.
+7. **Source chapter sequence:** **1–5, 8–27**. Chapters 6 and 7 are not created.
+8. **Maina / chastity / sin rhetoric:** preserve source expressions and agency without present-day explanatory correction inside narrative prose.
+9. **Maina's age:** Chapter 3 says she had crossed sixteen; do not harmonize it with any later age reference unless the source itself does.
+10. **Peethambaram's concealed condition:** source `பெருவியாதியின் ஆரம்பம்` remains the conservative "beginning of a terrible disease"; no diagnosis is inferred.
+11. **Chiranjeevi:** his claims about Singaram's marriage, child and funeral rites remain madman's speech, not narrator fact.
+12. **Chapter 5 endpoint:** scan64 closes with Surulimalai's `செத்தவள் பிழைத்துக் கொண்டாள்!`; no chapter6/7 material is inserted.
+13. **Karpuram / Kannan / Ponmani triangle:** preserve Karpuram's desire for Kannan, Kannan's desire for Ponmani, and Karpuram's attempt to bind Ponmani to Singaram as separate motives.
+14. **Temple bull / flute:** first preserve the source event of Surulimalai calming Siva with the flute; later preserve Aravazhi's explanation that the bull already knew the boy and flute.
+15. **Aravazhi's critiques:** claims about temple spending, divine power, Kannan's tricks and buried plates remain Aravazhi's narration/dialogue and source rhetoric.
+16. **Reported folklore:** Payasa Muni, Katteri Amman and Ayyanar stories remain reported village beliefs / stories rather than narrator-certified external fact.
+17. **Chapter 10 `ஷு!`:** retain as **"Shu!"**; do not normalize to an inferred word.
+18. **`கிருட்டிணப் பறவை`:** retain ***kiruttina* bird**; do not assign an external species identification.
+19. **Surulimalai's scan97 chant:** retain source-facing **"Aragara Mahadeva! Annakkavadi dharmam, thaaye! Annamalaikku Arohara!"**.
+20. **Ayyanar kinship joke:** preserve the source's explicit comic kinship — Ayyanar is said to be **Sabarimala Ayyappa Swami's paternal uncle's son**.
+21. **One-off `சுருமலை` on scan116:** represent as **Surumalai** at that point only; do not silently regularize the canonical oddity.
+22. **Chapter15 `ஊதல் / ஊடல்`:** preserve the wordplay through "blowing" and minimal *oodal* gloss rather than flattening the romantic pun.
+23. **Maina handwriting / police sequence:** preserve the source's narrative comparison and conclusions without importing modern forensic standards.
+24. **Singaram's father's revenge command:** keep it as quoted character speech; do not convert its violent demands into narrator approval.
+25. **Petition sequence:** Ponmani's signature is followed by the source explanation that she and Surulimalai intended the petition not to be posted; preserve both.
+26. **Chapter22 classical material:** the `வாடை தூக்க வணங்கிய தாழை!` line remains in Tamil because the project source alone does not support a secure literary gloss for this source-bound pass.
+27. **Widowhood / auspiciousness rhetoric:** chapter23's turmeric, kumkum, widowhood and omen language remains source-era narrative/social framing.
+28. **Bull-contest motive:** Singaram intends Ponmani for Aravazhi and seeks victory chiefly to fulfil his father's revenge oath; do not turn his "she belongs to me" quarrel into a new romance.
+29. **Chapter27 poisonous leaves:** the source identifies only an unspecified poisonous green-leaf plant capable of killing cattle; do not add a species, dosage or external method.
+30. **Terminal marker:** chapter27 must retain the source ending **`[முற்றிற்று.]`**; scan198 wrapper/publisher matter is outside narrative translation.
 
 ## Style lock
 
