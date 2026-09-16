@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 complet
 
 குலசேகரம் என்ற குடிப்பெயருக்குரிய மன்னர்களின் வழி வழி வந்த தோன்றல்தான் வாள் வீரன் வைரமுத்து!
 
-“ஏகாதிபத்தியம் எதுவாக இருந்தாலும் அந்த ஏகாதிபத்தியம் ஒரு இனத்தின் இறைமையைப் பறிக்க முற்படும்போது அந்த இனம் வீறு கொண்டு எழுந்து, தனது உரிமைக்காகப் போராடும் என்பதைப் பண்டார வன்னியன் வாழ்க்கை எமக்குத் தெளிவாகக் காட்டுகிறது. பண்டார வன்னியன் வாழ்ந்த மண்ணிலே அவனின் வாரிசுகளாக வாழ்ந்து வரும் மக்கள் இலங்கையின் அரசியல் வரலாற்றில் சுதந்திர தாகம் கொண்ட மக்களாக, தங்கள் அரசியல் உணர்வை வெளிப்படுத்தியதை இச்சந்தர்ப்பத்தில் குறிப்பிடுவதிலே நான் பெருமையடைகிறேன். இன்று அளிக்கப்படும் கௌரவம் மாவீரன் பண்டார வன்னியனுக்குத்தான் உடையதல்ல. இன்று கௌரவிக்
+“ஏகாதிபத்தியம் எதுவாக இருந்தாலும் அந்த ஏகாதிபத்தியம் ஒரு இனத்தின் இறைமையைப் பறிக்க முற்படும்போது அந்த இனம் வீறு கொண்டு எழுந்து, தனது உரிமைக்காகப் போராடும் என்பதைப் பண்டார வன்னியன் வாழ்க்கை எமக்குத் தெளிவாகக் காட்டுகிறது. பண்டார வன்னியன் வாழ்ந்த மண்ணிலே அவனின் வாரிசுகளாக வாழ்ந்து வரும் மக்கள் இலங்கையின் அரசியல் வரலாற்றில் சுதந்திர தாகம் கொண்ட மக்களாக, தங்கள் அரசியல் உணர்வை வெளிப்படுத்தியதை இச்சந்தர்ப்பத்தில் குறிப்பிடுவதிலே நான் பெருமையடைகிறேன். இன்று அளிக்கப்படும் கெளரவம் மாவீரன் பண்டார வன்னியனுக்குத்தான் உடையதல்ல. இன்று கெளரவிக்
 
 ## Pass 1 notes
 
@@ -33,13 +33,14 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 complet
 - source spelling, punctuation, paragraph boundaries, meaningful display/verse lineation and physical page-boundary fragments are preserved;
 - historical Tamil glyph identity was inspected at source-pixel level and encoded as the source-supported Unicode identity without lexical modernization;
 - no OCR, web transcription, later edition, grammar-based reconstruction or external mirror was used as authority;
-- the final source fragment `கௌரவிக்` is deliberately left incomplete at the physical page boundary; it continues on scan19;
+- the final source fragment `கெளரவிக்` is deliberately left incomplete at the physical page boundary; it continues on scan19;
 - formal Part001 Pass 2A is complete for this scan; Pass 2B / Pass 3 remain pending; status stays `needs-review`.
 
 ## Formal Part001 Pass 2A review
 
 - direct word-by-word, punctuation, paragraph, displayed-lineation and page-boundary comparison completed against the attached source pixels;
-- source-text corrections: **0**;
+- correction: `கௌரவம்` → source `கெளரவம்`;
+- correction: page-end fragment `கௌரவிக்` → source `கெளரவிக்`; source spelling is preserved without modernization;
 - Pass 2A result: **REVIEWED / PASS AFTER ANY CORRECTIONS ABOVE**;
 - page remains `needs-review` pending whole-Part Pass 2B / Pass 3 and later final status synchronization.
 

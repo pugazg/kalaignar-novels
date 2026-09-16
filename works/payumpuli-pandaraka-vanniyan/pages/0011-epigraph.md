@@ -26,7 +26,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 complet
 துண்டாடிப் போட்ட வெள்ளைத்
 துரைமார்கள் தலையும் உண்டே!
 
-—எழுச்சிக் கவிஞர் காசி ஆனந்தன்
+-எழுச்சிக் கவிஞர் காசி ஆனந்தன்
 
 ## Pass 1 notes
 
@@ -35,14 +35,15 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 complet
 - historical Tamil glyph identity was checked at Pass-1 level and encoded as the source-supported Unicode character identity without spelling modernization;
 - no OCR, web transcription, later edition or grammar-based reconstruction was used as authority;
 - verse lineation is source-significant and is preserved line-for-line;
-- the source-visible attribution is retained with its long leading dash;
+- the source-visible attribution is retained with its short leading dash/hyphen;
 - no printed page number is visible;
 - formal Part001 Pass 2A is complete for this scan; Pass 2B / Pass 3 remain pending; status stays `needs-review`.
 
 ## Formal Part001 Pass 2A review
 
 - direct word-by-word, punctuation, paragraph, displayed-lineation and page-boundary comparison completed against the attached source pixels;
-- correction: leading attribution punctuation `-எழுச்சிக்` → source long dash `—எழுச்சிக்`;
+- same-edition punctuation comparison confirms the source short dash/hyphen in `-எழுச்சிக்`; the interim long-dash reading is reverted;
+- source-text corrections relative to the Pass-1 canonical reading: **0**;
 - Pass 2A result: **REVIEWED / PASS AFTER ANY CORRECTIONS ABOVE**;
 - page remains `needs-review` pending whole-Part Pass 2B / Pass 3 and later final status synchronization.
 

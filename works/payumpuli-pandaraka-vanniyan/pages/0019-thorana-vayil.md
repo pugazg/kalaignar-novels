@@ -23,13 +23,13 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 complet
 
 இலங்கையின் பிரதமர் பிரேமதேசா கூட, அந்த சிலை திறப்பு விழாவை முன்னிட்டு வழங்கிய வாழ்த்தில்,
 
-“கௌரவிக்க வேண்டியவர்களைக் கௌரவிப்பது தார்மீக ஒழுக்க நெறியாகும்”
+“கெளரவிக்க வேண்டியவர்களைக் கெளரவிப்பது தார்மீக ஒழுக்க நெறியாகும்”
 
 என்றும்,
 
-“மாவீரன் பண்டார வன்னியனை கௌரவிக்க சிலை எடுக்கும் விழா, முற்றிலும் சரியான செயல் என்பதை நான் உறுதியாகக் கூறுகிறேன்”
+“மாவீரன் பண்டார வன்னியனை கெளரவிக்க சிலை எடுக்கும் விழா, முற்றிலும் சரியான செயல் என்பதை நான் உறுதியாகக் கூறுகிறேன்”
 
-என்றும் குறிப்பிட்டிருப்பது அந்த வீரனின் புகழைப் பறை சாற்றுவதாகும்.
+என்றும் குறிப்பிடிருப்பது அந்த வீரனின் புகழைப் பறை சாற்றுவதாகும்.
 
 போர் வாளைத் தனது கொடியின் சின்னமாகக் கொண்டு- புலியெனப் பாய்ந்து களம்பல கண்ட - குலசேகர வைரமுத்துவின் உருவமோ,
 
@@ -50,7 +50,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 complet
 - source spelling, punctuation, paragraph boundaries, meaningful display/verse lineation and physical page-boundary fragments are preserved;
 - historical Tamil glyph identity was inspected at source-pixel level and encoded as the source-supported Unicode identity without lexical modernization;
 - no OCR, web transcription, later edition, grammar-based reconstruction or external mirror was used as authority;
-- the opening `கப்படுவது` completes scan18's physical fragment `கௌரவிக்`;
+- the opening `கப்படுவது` completes scan18's physical fragment `கெளரவிக்`;
 - the portrait is illustration matter and is kept separate from the narrative;
 - the final fragment `எழுத்` continues on scan20;
 - formal Part001 Pass 2A is complete for this scan; Pass 2B / Pass 3 remain pending; status stays `needs-review`.
@@ -59,6 +59,8 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 complet
 
 - direct word-by-word, punctuation, paragraph, displayed-lineation and page-boundary comparison completed against the attached source pixels;
 - correction: `பிரேமதாசா` → source-printed `பிரேமதேசா` (retained as printed; not normalized);
+- corrections: source prints `கெளரவிக்க` / `கெளரவிப்பது`, not normalized `கௌரவிக்க` / `கௌரவிப்பது`;
+- correction: `குறிப்பிட்டிருப்பது` → source `குறிப்பிடிருப்பது`;
 - Pass 2A result: **REVIEWED / PASS AFTER ANY CORRECTIONS ABOVE**;
 - page remains `needs-review` pending whole-Part Pass 2B / Pass 3 and later final status synchronization.
 

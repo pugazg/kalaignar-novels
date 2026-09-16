@@ -11,15 +11,15 @@ All ten scans received direct source-pixel comparison for words, punctuation, pa
 
 | Scan | Result | Corrections |
 |---:|---|---|
-| 11 | PASS after correction | attribution leading punctuation `-` → source long dash `—` |
+| 11 | PASS | 0 — source short dash/hyphen confirmed; interim long-dash interpretation revoked |
 | 12 | PASS | 0 |
 | 13 | PASS | 0 |
 | 14 | PASS after correction | `கட்டப் பொம்மன்`; restored full stop after `பண்டார வன்னியன்.` |
 | 15 | PASS | 0 |
 | 16 | PASS after correction | `1815 ஆம் ஆண்டு வரையில்` |
 | 17 | PASS | 0 |
-| 18 | PASS | 0 |
-| 19 | PASS after correction | source `பிரேமதேசா` retained as printed |
+| 18 | PASS after correction | source `கெளரவம்`; page-end fragment `கெளரவிக்` |
+| 19 | PASS after correction | source `பிரேமதேசா`; `கெளரவிக்க` / `கெளரவிப்பது`; `குறிப்பிடிருப்பது` |
 | 20 | PASS after correction | `செ. யோகநாதன்`; facsimile-signature separation corrected |
 
 All ten records remain `needs-review`.

@@ -121,13 +121,14 @@ All 30 pages remain non-final / `needs-review`. The next gate is formal **Pass 2
 
 **COMPLETE / REVIEWED — cumulative 20/30**
 
-Direct source-pixel comparison found corrections on scans **11, 14, 16, 19 and 20**; scans **12, 13, 15, 17 and 18** passed unchanged.
+Direct source-pixel comparison found corrections on scans **14, 16, 18, 19 and 20**; scans **11, 12, 13, 15 and 17** passed unchanged.
 
 Durable corrections:
-- scan11 — source long dash before `எழுச்சிக் கவிஞர் காசி ஆனந்தன்`;
+- scan11 — source short dash/hyphen before `எழுச்சிக் கவிஞர் காசி ஆனந்தன்` confirmed by same-edition comparison; interim long-dash reading revoked;
 - scan14 — `வீரபாண்டியக் கட்டப் பொம்மன்`; source full stop restored in `பண்டார வன்னியன். மக்கள் நலனை`;
 - scan16 — `கி.பி.1815 ஆம் ஆண்டு வரையில்`;
-- scan19 — source prints `பிரேமதேசா`; retained as source wording rather than normalized;
+- scan18 — source spelling `கெளரவம்` and page-end `கெளரவிக்` retained rather than normalized to `கௌ...`;
+- scan19 — source prints `பிரேமதேசா`, `கெளரவிக்க` / `கெளரவிப்பது`, and `குறிப்பிடிருப்பது`; all retained as source wording rather than normalized;
 - scan20 — `செ. யோகநாதன்`; facsimile signature separated from typed canonical text.
 
 All ten pages remain `needs-review`. Formal Pass 2B has not started.
