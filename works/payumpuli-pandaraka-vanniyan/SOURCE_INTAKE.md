@@ -77,15 +77,15 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 
 - split registration: **16 / 16 COMPLETE**
 - physical coverage by split ranges: **477 / 477**
-- canonical page records: **25 / 477**
-- active frontier: **Part 001**
+- canonical page records: **35 / 477**
+- active frontier: **Part 002**
 - T1 complete: **5 / 477 through scan5**
-- T1 partial: **20 / 477 — scans6–25**
+- T1 partial: **30 / 477 — scans6–35**
 - T2: **5 / 477 COMPLETE through scan5**
 - T3: **5 / 477 COMPLETE through scan5**
 
 ## Exact next activity
 
-Remain on **Part001 T1 scans6–25 / local pages6–25**.
+Remain on **Part001 T1 scans6–35 / local pages6–25**.
 
 Ten canonical records now exist. The source pages themselves are normal; the records remain `partial` only because complete printed text has not yet been entered. Complete line-by-line source text directly from the attached Part001 PDF; then advance those ten records from `partial` to `needs-review`. Do not start T2 or scans16–25 before that.
