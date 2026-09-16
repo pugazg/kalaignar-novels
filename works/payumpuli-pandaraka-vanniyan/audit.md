@@ -3,21 +3,25 @@
 ## Source
 
 - filename: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்.pdf`
-- physical scans: **150**
+- physical scans: **477**
 - file size: **456,236,783 bytes**
 - PDF committed: **No**
 - image-only: **Yes**
 - SHA-256: **PENDING**
+
+## Preview/index limitation
+
+The first intake incorrectly treated the file service's **150-page rendered/indexed preview** as the complete PDF. The original source is **477 pages**. Repository accounting is corrected to 477. The current preview only supports direct visual access within its rendered range; therefore scans151–477 remain **uninspected**, not absent.
 
 ## Intake gate
 
 | Check | State |
 |---|---|
 | source file visible / readable as page images | PASS |
-| physical page count established | **150** |
+| physical page count established | **477 — user-confirmed full PDF extent** |
 | opening bibliographic structure inspected | PASS — scans1–20 |
 | title / author / publisher / edition registered | PASS |
-| canonical page records created | **0 / 150** |
+| canonical page records created | **0 / 477** |
 | T1 | NOT STARTED |
 | T2 | NOT STARTED |
 | T3 | NOT STARTED |
