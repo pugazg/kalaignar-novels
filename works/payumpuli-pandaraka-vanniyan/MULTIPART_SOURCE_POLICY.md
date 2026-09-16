@@ -94,6 +94,17 @@ Processing may advance Part by Part, but canonical scan numbering and cross-Part
 - canonical page records: **5 / 477**
 - T1: **5 / 477 COMPLETE through scan5**
 - T2: **5 / 477 COMPLETE through scan5**
-- T3: **0 / 477**
+- T3: **5 / 477 COMPLETE through scan5**
 - split-boundary classifications: **not yet audited**
-- exact active gate: **Part 001 T3 scans 1–5**
+- exact active gate: **Part 001 T1 scans 6–15 (10-page batch)**
+
+
+## Batch-size policy
+
+The legacy opening batch **scans1–5** was already in progress before the user changed the iteration size; it is now closed through T3.
+
+From now on, source iterations use **10 overall scans per batch**:
+- next: **6–15**;
+- then **16–25**, **26–35**, and so on;
+- batches may cross a split-PDF boundary;
+- global `scan_page` remains canonical and split-boundary auditing still applies.
