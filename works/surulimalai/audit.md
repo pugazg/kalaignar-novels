@@ -1107,7 +1107,7 @@ Status: **COMPLETE / PASS**.
 - T1/T2/T3 audit-note leakage into reading files: **0**;
 - canonical page records changed by assembly: **0**;
 - assembled structural validation: **PASS**;
-- English translation: **NOT STARTED**.
+- English translation: **IN PROGRESS — Batch E1 SOURCE-CHECKED / COMPLETE; 2/26 files**.
 
 Reading-layer authority: [`sections/README.md`](sections/README.md).  
 Validation: [`ASSEMBLED_TAMIL_VALIDATION.md`](ASSEMBLED_TAMIL_VALIDATION.md).
@@ -1115,4 +1115,40 @@ Validation: [`ASSEMBLED_TAMIL_VALIDATION.md`](ASSEMBLED_TAMIL_VALIDATION.md).
 ## Exact next activity
 
 Start the **English translation setup / first translation batch**. Create English translation controls and glossary, then translate `அறிமுகம்` + chapter 1 as the first bounded batch. Canonical Tamil remains authoritative.
+
+## English Batch E1 gate
+
+Status: **SOURCE-CHECKED / COMPLETE**.
+
+Scope:
+- Introduction — scans **5–13**;
+- Chapter 1 — scans **14–22 before chapter2**.
+
+Created English controls:
+- `translations/en/README.md`;
+- `translations/en/TRANSLATION_PLAN.md`;
+- `translations/en/GLOSSARY.md`;
+- `translations/en/PROGRESS.md`;
+- `translations/en/E1_SOURCE_CHECK.md`;
+- `translations/en/sections/README.md`.
+
+English section files:
+- `translations/en/sections/00-introduction.md`;
+- `translations/en/sections/01-chapter-01.md`.
+
+Fidelity locks:
+- Introduction source age **not yet quite eleven** retained;
+- Chapter 1 source age **fifteen-year-old** retained without reconciliation;
+- archaic Silappatikaram quotation retained in Tamil rather than assigned an unsupported modern-English gloss;
+- `சோணிப்பிள்ளை` retained as *sonippillai*;
+- Theechatti Singaram's cottonseed/fire-pot explanation preserved as character speech;
+- chapter1 closes before source chapter2 material;
+- unresolved English holds: **0**;
+- canonical Tamil changes caused by E1: **0**.
+
+Detailed source check: [`translations/en/E1_SOURCE_CHECK.md`](translations/en/E1_SOURCE_CHECK.md).
+
+## Exact next activity
+
+Perform **English Batch E2 — Chapters 2–5**. Do not create chapters 6 or 7.
 

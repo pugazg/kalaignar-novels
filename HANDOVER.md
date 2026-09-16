@@ -23,22 +23,32 @@
 - chapter sequence: **1–5, 8–27**
 - chapter markers 6 / 7: **not source-visible / not invented**
 - textual coverage: **scan5 through scan197**
-- scan197 `[முற்றிற்று.]`: **included**
-- scan198 wrapper matter: **excluded**
 - structural validation: **COMPLETE / PASS**
 - canonical Tamil changes caused by assembly: **0**
 
-Authorities:
-- `works/surulimalai/FINAL_RECONCILIATION.md`
-- `works/surulimalai/sections/README.md`
-- `works/surulimalai/ASSEMBLED_TAMIL_VALIDATION.md`
+### English translation
+- workspace: **OPEN**
+- Batch E1: **SOURCE-CHECKED / COMPLETE**
+- translated files: **2 / 26**
+- coverage: **Introduction + Chapter 1 / scans5–22 before chapter2**
+- unresolved English holds: **0**
+- deliberate source-language retention: **1 archaic Silappatikaram quotation**
+- canonical Tamil changes caused by English: **0**
+- whole-work English: **IN PROGRESS**
+
+English authorities:
+- `works/surulimalai/translations/en/README.md`
+- `works/surulimalai/translations/en/TRANSLATION_PLAN.md`
+- `works/surulimalai/translations/en/GLOSSARY.md`
+- `works/surulimalai/translations/en/PROGRESS.md`
+- `works/surulimalai/translations/en/E1_SOURCE_CHECK.md`
 
 ## Exact next activity
 
-Start the **English translation setup / first bounded batch**.
+Perform **English Batch E2 — Chapters 2–5** from:
+- `sections/02-chapter-02.md`
+- `sections/03-chapter-03.md`
+- `sections/04-chapter-04.md`
+- `sections/05-chapter-05.md`
 
-Create the English translation controls and glossary, then translate:
-1. `sections/00-arimugam.md`
-2. `sections/01-chapter-01.md`
-
-Canonical `pages/` remain controlling Tamil. The PASSED `sections/` layer is a derived continuous-reading aid. Do not silently modify Tamil during translation.
+Canonical `pages/` remain controlling Tamil. Do not create chapters 6 or 7.

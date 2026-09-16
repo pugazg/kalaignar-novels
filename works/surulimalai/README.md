@@ -23,7 +23,7 @@
 - terminal/full-198-page reconciliation: **COMPLETE / PASS**;
 - Tamil source-archival phase: **CLOSED**;
 - assembled Tamil: **COMPLETE / PASS — 26/26 section files VERIFIED**;
-- English translation: **NOT STARTED**.
+- English translation: **IN PROGRESS — Batch E1 SOURCE-CHECKED / COMPLETE; 2/26 English section files**.
 
 Canonical authority is always the source scan. No OCR reading, contextual guess, spelling modernization or inferred printed-page number may override the source pixels.
 
@@ -73,12 +73,14 @@ The user supplied the following catalogue-style description for project context.
 Source map: [`indexes/page-map.md`](indexes/page-map.md).  
 Source metadata: [`metadata/source.md`](metadata/source.md).  
 Assembled Tamil: [`sections/README.md`](sections/README.md).  
-Assembled validation: [`ASSEMBLED_TAMIL_VALIDATION.md`](ASSEMBLED_TAMIL_VALIDATION.md).
+Assembled validation: [`ASSEMBLED_TAMIL_VALIDATION.md`](ASSEMBLED_TAMIL_VALIDATION.md).  
+English translation: [`translations/en/README.md`](translations/en/README.md).  
+English progress: [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md).
 
 ## Exact next activity
 
-Start the **English translation setup / first translation batch** from the PASSED Tamil layers.
+Perform **English Batch E2 — Chapters 2–5** from the PASSED Tamil section files.
 
-Create the English translation controls and glossary, then translate **`அறிமுகம்` + chapter 1** as the first bounded batch. Canonical `pages/` remain controlling Tamil; the PASSED `sections/` layer is the continuous-reading aid.
+Keep canonical `pages/` authoritative, use `sections/` as the continuous-reading aid, preserve the source-visible chapter structure, and do not create chapters 6 or 7.
 
-Do not silently change canonical Tamil during translation.
+Batch E1 is closed as **SOURCE-CHECKED / COMPLETE** with canonical Tamil changes **0**.

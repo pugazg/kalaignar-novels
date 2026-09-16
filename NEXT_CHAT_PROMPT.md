@@ -1,40 +1,45 @@
-# NEXT CHAT PROMPT — சுருளிமலை / English setup + Batch E1
+# NEXT CHAT PROMPT — சுருளிமலை / English Batch E2 — Chapters 2–5
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/surulimalai/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Closed Tamil state
 
-- physical source: **198 scans**
 - canonical page records: **198/198 VERIFIED**
 - scans5–198 T1/T2/T3: **COMPLETE / PASS**
 - terminal reconciliation: **COMPLETE / PASS**
-- assembled Tamil master: **26/26 section files VERIFIED**
-- assembled structure: **1 introduction + chapters 1–5, 8–27**
+- assembled Tamil master: **26/26 VERIFIED**
 - assembled structural validation: **COMPLETE / PASS**
-- scan197 `[முற்றிற்று.]` included
-- scan198 wrapper excluded
-- canonical Tamil changes during assembly: **0**
+- source-visible chapter sequence: **1–5, 8–27**
 
-Authorities:
-- `works/surulimalai/pages/`
-- `works/surulimalai/sections/README.md`
-- `works/surulimalai/ASSEMBLED_TAMIL_VALIDATION.md`
-- `works/surulimalai/FINAL_RECONCILIATION.md`
+## English durable state
+
+- Batch E1: **SOURCE-CHECKED / COMPLETE**
+- English files: **2/26**
+- translated:
+  - `translations/en/sections/00-introduction.md`
+  - `translations/en/sections/01-chapter-01.md`
+- unresolved English holds: **0**
+- canonical Tamil changes: **0**
+- glossary and plan are active:
+  - `translations/en/GLOSSARY.md`
+  - `translations/en/TRANSLATION_PLAN.md`
+  - `translations/en/PROGRESS.md`
+  - `translations/en/E1_SOURCE_CHECK.md`
 
 ## Exact next activity
 
-Create the English translation workspace and perform **Batch E1**:
+Perform **Batch E2 — Chapters 2–5**:
 
-1. create/update `works/surulimalai/translations/en/README.md`;
-2. create `TRANSLATION_PLAN.md`;
-3. create `GLOSSARY.md`;
-4. translate `sections/00-arimugam.md`;
-5. translate `sections/01-chapter-01.md`;
-6. record progress and source-check status.
+1. translate `sections/02-chapter-02.md`;
+2. translate `sections/03-chapter-03.md`;
+3. translate `sections/04-chapter-04.md`;
+4. translate `sections/05-chapter-05.md`;
+5. source-check the batch against the PASSED Tamil sections / canonical authority;
+6. update glossary/progress/README and record an E2 source-check report.
 
 Translation rules:
-- Tamil canonical `pages/` control meaning and source wording;
+- canonical `pages/` control Tamil meaning and wording;
 - PASSED `sections/` provide continuous-reading structure;
-- preserve speaker agency, rhetoric, colloquial register, chapter structure and source oddities;
-- do not modernize or silently repair Tamil from English;
-- flag genuinely ambiguous Tamil rather than inventing meaning.
+- preserve speaker agency, rhetoric, dialogue register, source oddities, and physical/chapter boundaries;
+- do not silently modify Tamil;
+- do **not** create chapters 6 or 7 after chapter5.
