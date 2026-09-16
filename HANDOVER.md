@@ -68,9 +68,9 @@ Structural capture:
   - scan14 → **3**
   - scan15 → **4**
 
-Current state: **T1 PARTIAL**.
+Current state: **T1 PARTIAL / IN PROGRESS**.
 
-Reason: the current rendered page view supports structure/page-number identification but not a sufficiently reliable complete character-by-character transcription of the dense Tamil prose. No unreadable body text was invented or reconstructed.
+The attached source pages themselves are normal. The earlier description of them as “dense” or source-resolution-blocked was incorrect. `partial` means only that complete printed text has not yet been entered into the ten canonical records.
 
 Detailed checkpoint:
 - `works/payumpuli-pandaraka-vanniyan/T1_BATCH_006_015.md`
@@ -86,7 +86,7 @@ Controlling-source clarification:
 
 Remain on **Part001 T1 overall scans6–15 / local pages6–15**.
 
-Complete the full line-by-line Tamil source text for all ten `partial` canonical records from a sufficiently detailed source rendering. Only then:
+Complete the full line-by-line Tamil source text for all ten `partial` canonical records directly from the attached Part001 PDF. Only then:
 1. promote the ten records from `partial` to `needs-review`;
 2. synchronize controls;
 3. commit T1 completion;
