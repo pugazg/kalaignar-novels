@@ -29,34 +29,36 @@ Pages remain `needs-review`. Final `verified` status is not assigned during Pass
 
 ## Current accounting
 
-- Pass 2B reviewed: **10/30 — scans1–10**
-- remaining: **20/30 — scans11–30**
+- Pass 2B reviewed: **20/30 — scans1–20**
+- remaining: **10/30 — scans21–30**
 - Pass 3: **NOT STARTED**
 
 ## Batch history
 
 - scans1–10 — **COMPLETE / REVIEWED**
+  - source-text / lexical / historical-glyph corrections: **0**
+  - unresolved historical-glyph identities: **0**
+- scans11–20 — **COMPLETE / REVIEWED**
   - independent source-pixel lexical/historical-glyph reread completed;
   - all 13 known reform-sensitive families were checked occurrence-by-occurrence where present;
   - source-text / lexical / historical-glyph corrections: **0**;
   - unresolved historical-glyph identities: **0**;
   - all ten pages remain `needs-review`.
 
-Representative confirmed families across scans1–10 include:
-- `லை` — `கலைஞர்`, `பல்கலைக்`, `காலைச்`, `சதிவலையை`;
-- `ளை` — `வளைக்கும்`, `விளைவை`;
-- `றா` — `அன்றாட`;
-- `றொ` — `மற்றொரு`;
-- `ணா` — `கருணாநிதி`;
-- `னா` — `வகையினால்`;
-- `னை` — `தன்னை`, `சென்னை`.
+Representative confirmed families across scans11–20 include:
+- `றா` — `போயிற்றா`, `மாற்றார்`, `மாற்றியமைத்து`;
+- `லை` — `தலையும்`, `கலைஞர்`, `கவலை`, `சிலையெடுத்து`, `நினைவுக்` context checked separately from `னை`, `முல்லைத்தீவு`, `தலைவர்`;
+- `ளை` — `இளைப்பாறும்`, `பத்தாப்பளை`, `வற்றாப்பளை`, `தெளிவாகக்`;
+- `னை` — `கற்பனைக்`, `நினைவுக்`;
+- `ணை` — `இணையான`;
+- `ணா` — `கருணாநிதி`.
 
 No lexical modernization or global replacement was performed.
 
 ## Exact next activity
 
-Process **Part001 Pass 2B scans11–20** as the next 10-scan independent lexical/historical-glyph batch.
+Process **Part001 Pass 2B scans21–30** as the final 10-scan independent lexical/historical-glyph batch.
 
-Do not begin scans21–30 in the same iteration unless explicitly requested.
-Do not begin Pass 3 before Pass 2B reaches **30/30**.
+If and only if Pass 2B reaches **30/30**, synchronize Pass2B closure and **STOP**. Do not begin Pass 3 in the same iteration unless the user explicitly asks to continue.
+
 Do not begin Part002 transcription.

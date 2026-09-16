@@ -42,7 +42,7 @@ Current state:
 - Pass 1 text-complete — **30/30 — scans1–30**
 - Pass 1 partial — **0/30**
 - formal Pass 2A — **COMPLETE — 30/30 reviewed**
-- formal Pass 2B — **IN PROGRESS — 10/30 reviewed (scans1–10)**
+- formal Pass 2B — **IN PROGRESS — 20/30 reviewed (scans1–20)**
 - formal Pass 3 — **NOT STARTED**
 - Part audit — **NOT STARTED**
 - final status sync — **NOT STARTED**
@@ -118,9 +118,9 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Formal Part001 Pass 2B is **IN PROGRESS — 10/30 reviewed**.
+Formal Part001 Pass 2B is **IN PROGRESS — 20/30 reviewed**.
 
-Process **Part001 Pass 2B scans11–20**.
+Process **Part001 Pass 2B scans21–30**.
 
 - use the attached Part001 PDF only;
 - independently reread every printed word from source pixels;
@@ -131,5 +131,5 @@ Process **Part001 Pass 2B scans11–20**.
 - update `PART_001_PASS2B_PROGRESS.md` and live controls;
 - commit and stop.
 
-Do not begin Pass 3 until whole-Part Pass 2B reaches 30/30.
+If Pass 2B reaches 30/30, close Pass 2B and stop. Do not begin Pass 3 in the same iteration unless explicitly requested.
 Do not begin Part002 transcription.

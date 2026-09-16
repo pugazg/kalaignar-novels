@@ -66,7 +66,7 @@ Current Pass-1 accounting:
 | needs-review | **30/30 — scans1–30** |
 | verified | **0/30 formal Part-level final status** |
 | formal Pass 2A | **COMPLETE — 30/30 reviewed** |
-| formal Pass 2B | **IN PROGRESS — 10/30 reviewed** |
+| formal Pass 2B | **IN PROGRESS — 20/30 reviewed** |
 | formal Pass 3 | **NOT STARTED** |
 | Part audit | **NOT STARTED** |
 | final status sync | **NOT STARTED** |
@@ -116,6 +116,20 @@ All 30 pages remain non-final / `needs-review`. The next gate is formal **Pass 2
 - scan11 verse lineation and attribution were preserved;
 - scan12 illustration and scan15 memorial-stone photograph remain separate visual/non-body matter;
 - no formal Pass 2A / Pass 2B / Pass 3 credit was assigned.
+
+## Formal Pass 2B — scans11–20
+
+**COMPLETE / REVIEWED — cumulative 20/30**
+
+Independent lexical / historical-glyph reread from enlarged source pixels under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+
+- full 13-family set checked occurrence-by-occurrence where present;
+- source-text / lexical / historical-glyph corrections: **0**;
+- unresolved historical-glyph identities: **0**;
+- no global replacement or spelling modernization used;
+- representative confirmed families include `றா`, `லை`, `ளை`, `னை`, `ணை`, and `ணா`;
+- scan20 short body contains no applicable 13-family occurrence; facsimile signature excluded from lexical evidence;
+- scans11–20 remain `needs-review`.
 
 ## Formal Pass 2B — scans1–10
 
@@ -230,7 +244,7 @@ Only then may Part002 become active.
 
 ## Exact next activity
 
-**Part001 Pass 2B scans11–20.**
+**Part001 Pass 2B scans21–30.**
 
 - use the attached Part001 PDF only;
 - independently reread source text at enlarged/native pixels;
@@ -241,5 +255,5 @@ Only then may Part002 become active.
 - update `PART_001_PASS2B_PROGRESS.md` and live controls;
 - commit and stop.
 
-Do not begin Pass 3.
+If Pass 2B reaches 30/30, close Pass 2B and stop. Do not begin Pass 3 in the same iteration.
 Do not begin Part002.

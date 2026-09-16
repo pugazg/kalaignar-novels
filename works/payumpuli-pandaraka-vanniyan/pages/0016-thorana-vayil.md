@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed; formal Part001 Pass 2B lexical/historical-glyph reread reviewed"
 ---
 
 # தோரண வாயில்
@@ -47,4 +47,15 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 complet
 - Pass 2A result: **REVIEWED / PASS AFTER ANY CORRECTIONS ABOVE**;
 - page remains `needs-review` pending whole-Part Pass 2B / Pass 3 and later final status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 16; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 16; PASS 2A REVIEWED / needs-review -->
+## Formal Part001 Pass 2B lexical / historical-glyph reread
+
+- independently reread the complete printed source text from enlarged source pixels rather than merely confirming Pass 2A;
+- checked the full known reform-sensitive set where present: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative source occurrences checked on this scan: `மாற்றியமைத்து` (`றா`), `இளைப்பாறும்` (`ளை`);
+- source-text / lexical / historical-glyph corrections: **0**;
+- unresolved historical-glyph identities: **0**;
+- no global replacement or spelling modernization was used;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending whole-Part Pass 2B closure, Pass 3, Part audit and final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 16; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 16; PASS 2A + PASS 2B REVIEWED / needs-review -->
