@@ -9,7 +9,7 @@
 
 ## Current status
 
-**MULTIPART SOURCE FAMILY REGISTERED / T1 scans1–5 COMPLETE / T2 NEXT**
+**OPENING BATCH scans1–5 T1/T2/T3 CLOSED / NEXT T1 scans6–15 (10 pages)**
 
 - source family: **TVA_BOK_0065744**
 - source Parts: **16/16 SUPPLIED / REGISTERED**
@@ -20,7 +20,7 @@
 - canonical page records: **5/477**
 - T1: **5/477 COMPLETE through scan5**
 - T2: **5 / 477 COMPLETE through scan5**
-- T3: **0/477**
+- T3: **5 / 477 COMPLETE through scan5**
 - assembled Tamil: **BLOCKED**
 - English: **BLOCKED until Tamil archival + assembled-Tamil gates pass**
 
@@ -66,7 +66,7 @@ Observed from the supplied source:
 
 ## Exact next activity
 
-Perform **Part 001 T3 — overall scans1–5 / local pages1–5** under `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`.
+Perform **Part 001 T1 — overall scans6–15 / local pages6–15** under `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`.
 
 T1 durable state:
 - five canonical page records exist;
