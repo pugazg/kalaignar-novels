@@ -25,14 +25,14 @@
 | per-Part intake records | **PASS — 16/16 created** |
 | split boundary source availability | **PASS — both sides available for all 15 boundaries** |
 | split boundary classification | **PENDING direct visual audit** |
-| canonical page records | **15/477** |
+| canonical page records | **25/477** |
 | T1 complete | **5/477 — scans1–5** |
-| T1 partial | **10/477 — scans6–15** |
+| T1 partial | **20/477 — scans6–25** |
 | T2 reviewed | **5/477 — scans1–5** |
 | T3 reviewed | **5/477 — scans1–5** |
 | verified | **2/477** |
 | needs-review | **3/477** |
-| partial | **10/477** |
+| partial | **20/477** |
 | terminal page function | **NOT YET AUDITED** |
 | assembled Tamil | **BLOCKED** |
 | English | **BLOCKED** |
@@ -88,6 +88,28 @@ For this archive:
 - external mirrors are not treated as independent witnesses unless the user explicitly requests comparison;
 - canonical text must continue to come from direct inspection of the attached source pages.
 
+## T1 Batch 016–025
+
+Status: **PARTIAL INVENTORY / 10 of 10 canonical records created**.
+
+- overall scans **16–25** / Part001 local pages **16–25**;
+- section: `தோரண வாயில்` continuation;
+- visible printed pages recorded **5–14**;
+- canonical page/provenance capture: **COMPLETE**;
+- complete line-by-line Tamil transcription: **PENDING**;
+- current state: **10 partial**;
+- detailed checkpoint: [`T1_BATCH_016_025.md`](T1_BATCH_016_025.md).
+
+### Work-specific forward-inventory rule
+
+Per the user's clarification, the normal attached PDF must not be described as a source-quality blocker. Forward T1 inventory may continue while complete-text entry remains backlogged.
+
+This does **not** waive the source-first gates:
+- text-incomplete pages remain `partial`;
+- T2/T3 remain blocked for those pages;
+- assembled Tamil/English remain blocked;
+- final archival closure requires the backlog to be resolved.
+
 ## Historical-glyph / transcription gate
 
 All page work follows:
@@ -100,8 +122,15 @@ T2 cannot begin for scans6–15 until their T1 text capture is complete.
 
 ## Exact next activity
 
-Remain on **T1 scans6–15 / Part001 local pages6–15**.
+Perform **T1 source inventory scans26–35**.
 
-Complete the full line-by-line Tamil transcription of the ten `partial` records directly from the attached Part001 PDF. Promote them to `needs-review` only when the complete printed text has been captured. Then synchronize controls and commit T1 completion.
+- scans26–30: Part001 local26–30;
+- scans31–35: Part002 local1–5;
+- inspect and classify split boundary **30→31** from both attached pages;
+- create ten canonical records with exact split provenance;
+- record only visibly printed page numbers;
+- keep text-incomplete records `partial`;
+- synchronize controls and commit;
+- stop before the next 10-scan inventory batch.
 
-Do **not** advance to T2 or scans16–25 before this gate is closed.
+Full-text transcription backlog remains scans6–25.
