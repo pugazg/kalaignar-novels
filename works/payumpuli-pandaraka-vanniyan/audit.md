@@ -25,63 +25,56 @@
 | per-Part intake records | **PASS — 16/16 created** |
 | split boundary source availability | **PASS — both sides available for all 15 boundaries** |
 | split boundary classification | **PENDING direct visual audit** |
-| canonical page records | **5/477** |
-| T1 | **5/477 COMPLETE through scan5** |
-| T2 | **NOT STARTED** |
-| T3 | **NOT STARTED** |
+| canonical page records | **15/477** |
+| T1 complete | **5/477 — scans1–5** |
+| T1 partial | **10/477 — scans6–15** |
+| T2 reviewed | **5/477 — scans1–5** |
+| T3 reviewed | **5/477 — scans1–5** |
+| verified | **2/477** |
+| needs-review | **3/477** |
+| partial | **10/477** |
 | terminal page function | **NOT YET AUDITED** |
 | assembled Tamil | **BLOCKED** |
 | English | **BLOCKED** |
 
-## Superseded preview issue
-
-The earlier monolithic upload was exposed through a 150-page renderer/index preview and was mistakenly treated as a 150-page source during the first intake. That state is superseded.
-
-The user has now supplied **16 split PDFs covering all 477 physical scans**, so pages151–477 are directly available through Parts006–016 rather than being preview-blocked.
-
-## Initial Part 001 observations
-
-- scan1 cover;
-- scans2–5 title/publisher/bibliographic front matter;
-- scans6–9 `அணிந்துரை`;
-- scan10 `பதிப்புரை`;
-- scan11 verse/epigraph;
-- scan12 secondary title divider;
-- scan13 onward `தோரண வாயில்`, exact structural role provisional.
-
 ## Boundary audit rule
 
-All fifteen Part boundaries have source witnesses available:
+All fifteen Part boundaries have both source witnesses available. A split boundary is classified only after direct comparison of its two adjacent pages; the split itself is not evidence of a textual break.
 
-- **30→31** — available; classification pending
-- **60→61** — available; classification pending
-- **90→91** — available; classification pending
-- **120→121** — available; classification pending
-- **150→151** — available; classification pending
-- **180→181** — available; classification pending
-- **210→211** — available; classification pending
-- **240→241** — available; classification pending
-- **270→271** — available; classification pending
-- **300→301** — available; classification pending
-- **330→331** — available; classification pending
-- **360→361** — available; classification pending
-- **390→391** — available; classification pending
-- **420→421** — available; classification pending
-- **450→451** — available; classification pending
+## Opening batch — scans1–5
 
-A boundary may be marked CLEAN or GENUINE CONTINUATION only after comparing its two adjacent rendered pages. Split location itself is not evidence of a textual break.
+- T1: **COMPLETE**
+- T2: **COMPLETE**
+- T3 review: **COMPLETE**
+- verified: **2** — scans1–2
+- needs-review: **3** — scans3–5
+- carried holds:
+  - scan3 — small telephone-number digits;
+  - scan4 — copy-specific handwritten/stamp detail;
+  - scan5 — compact publication/bibliographic block.
 
+Checkpoint files:
+- [`T1_BATCH_001_005.md`](T1_BATCH_001_005.md)
+- [`T2_BATCH_001_005.md`](T2_BATCH_001_005.md)
+- [`T3_BATCH_001_005.md`](T3_BATCH_001_005.md)
 
-## T1 Batch 001–005
+## T1 Batch 006–015
 
-Status: **COMPLETE / 5 of 5 canonical records created**.
+Status: **PARTIAL / 10 of 10 canonical records created**.
 
-- scans **1–5** / Part001 local pages **1–5**;
-- page records: **5 needs-review / 0 verified**;
-- printed page numbers confirmed on scans1–5: **none**;
-- later library/stamp/handwritten marks kept separate from printed publication text;
-- T1 unresolved source fields: **scan3 telephone digits; scan5 full small-print publication block**;
-- detailed checkpoint: [`T1_BATCH_001_005.md`](T1_BATCH_001_005.md).
+- overall scans **6–15**
+- Part001 local pages **6–15**
+- structural/page-function capture: **COMPLETE**
+- visible printed-page numbers recorded:
+  - scan13 → **2**
+  - scan14 → **3**
+  - scan15 → **4**
+- full line-by-line Tamil transcription: **PENDING**
+- current state: **10 partial**
+- no unreadable Tamil text has been reconstructed from context, metadata, OCR, web text or another edition.
+
+Detailed checkpoint:
+- [`T1_BATCH_006_015.md`](T1_BATCH_006_015.md)
 
 ## Historical-glyph / transcription gate
 
@@ -91,14 +84,12 @@ All page work follows:
 - `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`
 - `MULTIPART_SOURCE_POLICY.md`
 
-No correction may be justified by grammar/context alone.
+T2 cannot begin for scans6–15 until their T1 text capture is complete.
 
 ## Exact next activity
 
-**Part 001 T1 — overall scans6–15 / local pages6–15.**
+Remain on **T1 scans6–15 / Part001 local pages6–15**.
 
-T1 scans1–5 is complete with five canonical `needs-review` records. T2 must independently re-read all five pages, explicitly check historical glyph identity where applicable, and revisit:
-- scan3 — unresolved small telephone-number digits;
-- scan5 — unresolved compact publication/bibliographic block.
+Complete the full line-by-line Tamil transcription of the ten `partial` records from a sufficiently detailed source rendering. Promote them to `needs-review` only when the complete printed text has been captured. Then synchronize controls and commit T1 completion.
 
-Synchronize controls, commit, and stop before T3.
+Do **not** advance to T2 or scans16–25 before this gate is closed.
