@@ -18,7 +18,7 @@ Working English title: **_Surulimalai_**. Tamil `சுருளிமலை` re
 - source-visible English chapter sequence: **1–5, 8–14**
 - chapter6 / chapter7 English files: **none**
 - unresolved English holds: **0**
-- deliberate source-language retention: **1 classical Silappatikaram quotation**, retained because a secure modern-English gloss is not supported by the project source alone
+- deliberate source-language/source-label retentions include the **classical Silappatikaram quotation**, source `கிருட்டிணப் பறவை` label, and Surulimalai's scan97 chant where the project source does not support a stronger normalization
 - canonical Tamil changes during translation: **0**
 - whole-work English: **IN PROGRESS**
 
