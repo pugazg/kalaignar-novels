@@ -58,6 +58,9 @@ Unresolved translation holds: **0**.
 
 One classical quotation remains deliberately in source Tamil as a locked fidelity choice, not as an unresolved hold.
 
-## Next
+## Downstream status
 
-Batch E2 — chapters2–5.
+The historical next step from E1 was Batch E2. It has since completed, along with E3–E5 and the final whole-work review.
+
+Current whole-work English state: **26/26 VERIFIED / COMPLETE / CLOSED**.  
+Final authority: [`FINAL_BILINGUAL_REVIEW.md`](FINAL_BILINGUAL_REVIEW.md).
