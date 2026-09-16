@@ -86,6 +86,13 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 
 ## Exact next activity
 
-Remain on **Part001 T1 scans6–35 / local pages6–25**.
+Proceed with **Part002 T1 source inventory overall scans36–45 / local pages6–15**.
 
-Ten canonical records now exist. The source pages themselves are normal; the records remain `partial` only because complete printed text has not yet been entered. Complete line-by-line source text directly from the attached Part001 PDF; then advance those ten records from `partial` to `needs-review`. Do not start T2 or scans16–25 before that.
+- create ten canonical records with exact Part002 provenance;
+- record only visibly printed page numbers;
+- preserve page/section function and non-body marks;
+- keep text-incomplete records `partial`;
+- do not advance partial pages to T2/T3;
+- synchronize controls and commit.
+
+Current full-text backlog: **scans6–35**.
