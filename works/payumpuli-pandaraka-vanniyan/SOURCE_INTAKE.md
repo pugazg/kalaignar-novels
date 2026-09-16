@@ -91,7 +91,8 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part001 unresolved status exceptions: **0**
 - Part001 documentation synchronization: **PASS / COMPLETE**
 - Part001 Tamil archival-ready checkpoint: **PASS / CLOSED**
-- Part001 assembled Tamil: **NEXT / UNBLOCKED**
+- Part001 assembled Tamil: **PASS / CLOSED — 8/8 section files VERIFIED**
+- Part001 English: **NEXT / UNBLOCKED — planning gate**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 assembled Tamil: **BLOCKED**
 - Part001 English / release-readiness: **BLOCKED**
@@ -110,6 +111,6 @@ Authoritative live trackers:
 
 ## Exact next activity
 
-Part001 Tamil archival-ready is **PASS / CLOSED**.
+Part001 assembled Tamil is **PASS / CLOSED**.
 
-Proceed with **Part001 assembled Tamil construction + audit**. Part002 remains source-registered / transcription-blocked until Part001 final closure.
+Proceed with the **Part001 English translation planning/setup gate**. Part002 remains source-registered / transcription-blocked until Part001 final closure.

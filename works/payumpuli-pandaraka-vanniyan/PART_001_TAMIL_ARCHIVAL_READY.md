@@ -158,3 +158,25 @@ Exact next activity:
 **Part001 assembled Tamil construction + audit.**
 
 Do not begin English translation/review, release/readiness, final Part closure or Part002 transcription in this checkpoint.
+
+
+## Post-checkpoint assembled Tamil closure
+
+This archival-ready declaration remains historically correct and closed.
+
+After this checkpoint, the Part001 assembled Tamil reading layer was constructed and audited from the verified canonical page records:
+
+- assembled section files — **8/8 VERIFIED**;
+- canonical source-transcription coverage — **30/30**;
+- omissions / duplicates — **0 / 0**;
+- audit-note leakage — **0**;
+- unsupported body insertion — **0**;
+- Part002 text leakage — **0**;
+- canonical Tamil page mutations caused by assembly — **0**;
+- durable validation — `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`.
+
+The forward instruction above to begin assembled Tamil is therefore superseded only as a live frontier.
+
+Current next gate:
+
+**Part001 English translation planning/setup.**

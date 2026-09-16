@@ -368,8 +368,23 @@ The complete Part001 Tamil evidence chain is now closed for normal workflow purp
 
 This checkpoint changes no canonical page record and does not reopen source comparison.
 
+## Assembled Tamil checkpoint — PASS / CLOSED
+
+The Part001 derived Tamil reading layer is now closed:
+
+- assembled section files — **8/8 VERIFIED**;
+- canonical source-transcription coverage — **30/30**;
+- omissions / duplicates — **0 / 0**;
+- audit-note leakage — **0**;
+- unsupported body insertion — **0**;
+- Part002 text leakage — **0**;
+- canonical Tamil page mutations caused by assembly — **0**;
+- 30→31 boundary — **GENUINE CONTINUATION / retained without importing scan31 text**.
+
+Durable validation: `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`.
+
 ## Exact next activity
 
-Proceed with **Part001 assembled Tamil construction + audit**.
+Perform the **Part001 English translation planning/setup gate** only.
 
-Do not begin English, release/readiness, final Part closure, or Part002 transcription.
+Do not begin English drafting, release/readiness, final Part closure, or Part002 transcription in the same iteration.

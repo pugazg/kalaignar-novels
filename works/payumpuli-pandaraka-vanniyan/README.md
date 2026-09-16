@@ -40,8 +40,8 @@ Current Part001 state:
 - unresolved status exceptions — **0**
 - documentation sync — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **NEXT / UNBLOCKED**
-- English translation/review — **BLOCKED**
+- assembled Tamil — **PASS / CLOSED — 8/8 section files VERIFIED**
+- English translation/review — **NEXT / UNBLOCKED — planning gate**
 - release/readiness report — **BLOCKED**
 - final Part001 closure — **BLOCKED**
 
@@ -116,6 +116,8 @@ Only after Pass 1 reaches **30/30 text-complete** does formal Pass 2A begin from
 - [`PART_001_FINAL_STATUS_SYNC.md`](PART_001_FINAL_STATUS_SYNC.md)
 - [`PART_001_DOCUMENTATION_SYNC.md`](PART_001_DOCUMENTATION_SYNC.md)
 - [`PART_001_TAMIL_ARCHIVAL_READY.md`](PART_001_TAMIL_ARCHIVAL_READY.md)
+- [`PART_001_ASSEMBLED_TAMIL_VALIDATION.md`](PART_001_ASSEMBLED_TAMIL_VALIDATION.md)
+- [`sections/README.md`](sections/README.md)
 - [`SOURCE_INTAKE.md`](SOURCE_INTAKE.md)
 - [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md)
 - [`metadata/source.md`](metadata/source.md)
@@ -127,8 +129,8 @@ Historical preliminary checkpoint records are retained for provenance but do not
 
 ## Exact next activity
 
-Part001 Tamil archival-ready checkpoint is **PASS / CLOSED**.
+Part001 assembled Tamil is **PASS / CLOSED — 8/8 section files VERIFIED**.
 
-Begin the **Part001 assembled Tamil construction + audit** stage, using only the verified canonical `pages/` records as the normal authority and preserving source-page provenance and verified cross-page joins.
+Perform the **Part001 English translation planning/setup gate** only. Use canonical `pages/` as controlling Tamil authority and the PASSED `sections/` layer as the normal continuous reading authority.
 
-Do **not** begin English translation/review, release/readiness, final Part closure, or Part002 transcription yet.
+Do **not** begin English drafting, release/readiness, final Part closure, or Part002 transcription in the same iteration.

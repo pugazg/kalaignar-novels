@@ -70,6 +70,8 @@ Therefore:
 
 The Part001 Tamil archival-ready checkpoint is **PASS / CLOSED**. This Pass tracker remains historically closed and is not reopened.
 
-The live next stage is **Part001 assembled Tamil construction + audit**.
+Part001 assembled Tamil is now **PASS / CLOSED — 8/8 section files VERIFIED**.
+
+The live next stage is the **Part001 English translation planning/setup gate**.
 
 Do not begin English, release/readiness, final Part closure, or Part002 transcription.
