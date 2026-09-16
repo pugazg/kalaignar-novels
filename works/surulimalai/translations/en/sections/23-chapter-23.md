@@ -101,7 +101,7 @@ The villagers fully valued the lucky face of such a "raasi-raasi" woman.
 
 Why all this?
 
-Because of the source-celebrated power of turmeric and kumkum.
+Because of the power of turmeric and kumkum!
 
 <!-- source boundary: scan 171 → scan 172 -->
 
