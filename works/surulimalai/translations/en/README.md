@@ -9,10 +9,14 @@ Working English title: **_Surulimalai_**. Tamil `சுருளிமலை` re
 - English workspace: **OPEN**
 - Batch E1: **SOURCE-CHECKED / COMPLETE**
 - Batch E2: **SOURCE-CHECKED / COMPLETE**
-- translated sections: **6 / 26**
+- Batch E3: **SOURCE-CHECKED / COMPLETE**
+- translated sections: **13 / 26**
   - Introduction — scans5–13
   - Chapters 1–5 — scans14–64
-- English source coverage: **scan5 through scan64 / end of chapter5**
+  - Chapters 8–14 — scans65–113 before chapter15
+- English source coverage: **scan5 through scan113 before chapter15**
+- source-visible English chapter sequence: **1–5, 8–14**
+- chapter6 / chapter7 English files: **none**
 - unresolved English holds: **0**
 - deliberate source-language retention: **1 classical Silappatikaram quotation**, retained because a secure modern-English gloss is not supported by the project source alone
 - canonical Tamil changes during translation: **0**
@@ -26,6 +30,13 @@ Working English title: **_Surulimalai_**. Tamil `சுருளிமலை` re
 4. [`sections/03-chapter-03.md`](sections/03-chapter-03.md)
 5. [`sections/04-chapter-04.md`](sections/04-chapter-04.md)
 6. [`sections/05-chapter-05.md`](sections/05-chapter-05.md)
+7. [`sections/08-chapter-08.md`](sections/08-chapter-08.md)
+8. [`sections/09-chapter-09.md`](sections/09-chapter-09.md)
+9. [`sections/10-chapter-10.md`](sections/10-chapter-10.md)
+10. [`sections/11-chapter-11.md`](sections/11-chapter-11.md)
+11. [`sections/12-chapter-12.md`](sections/12-chapter-12.md)
+12. [`sections/13-chapter-13.md`](sections/13-chapter-13.md)
+13. [`sections/14-chapter-14.md`](sections/14-chapter-14.md)
 
 ## Authority
 
@@ -56,6 +67,22 @@ Batch E2 translated and source-checked:
 
 E2 source-check: [`E2_SOURCE_CHECK.md`](E2_SOURCE_CHECK.md).
 
+## Batch E3
+
+Batch E3 translated and source-checked:
+
+- `../../sections/08-chapter-08.md`
+- `../../sections/09-chapter-09.md`
+- `../../sections/10-chapter-10.md`
+- `../../sections/11-chapter-11.md`
+- `../../sections/12-chapter-12.md`
+- `../../sections/13-chapter-13.md`
+- `../../sections/14-chapter-14.md`
+
+E3 source-check: [`E3_SOURCE_CHECK.md`](E3_SOURCE_CHECK.md).
+
+The source-visible sequence jumps from chapter **5** to chapter **8**. English preserves that jump; chapters 6 and 7 are not created.
+
 ## Translation controls
 
 - [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
@@ -63,9 +90,10 @@ E2 source-check: [`E2_SOURCE_CHECK.md`](E2_SOURCE_CHECK.md).
 - [`PROGRESS.md`](PROGRESS.md)
 - [`E1_SOURCE_CHECK.md`](E1_SOURCE_CHECK.md)
 - [`E2_SOURCE_CHECK.md`](E2_SOURCE_CHECK.md)
+- [`E3_SOURCE_CHECK.md`](E3_SOURCE_CHECK.md)
 
 ## Exact next activity
 
-Perform **Batch E3 — Chapters 8–14** from the PASSED Tamil section files.
+Perform **Batch E4 — Chapters 15–21** from the PASSED Tamil section files.
 
-The source-visible sequence jumps from chapter **5** to chapter **8**. Do not create chapters 6 or 7. Canonical Tamil remains controlling.
+Canonical Tamil remains controlling; preserve all source-visible chapter and scan transitions.
