@@ -9,7 +9,7 @@
 
 ## Current status
 
-**MULTIPART SOURCE FAMILY REGISTERED / TAMIL T1 NOT STARTED**
+**MULTIPART SOURCE FAMILY REGISTERED / T1 scans1–5 COMPLETE / T2 NEXT**
 
 - source family: **TVA_BOK_0065744**
 - source Parts: **16/16 SUPPLIED / REGISTERED**
@@ -17,8 +17,10 @@
 - global physical coverage: **477/477**
 - aggregate split bytes: **456,282,569**
 - image-only scans; no usable parsed text layer
-- canonical page records: **0/477**
-- T1/T2/T3: **NOT STARTED**
+- canonical page records: **5/477**
+- T1: **5/477 COMPLETE through scan5**
+- T2: **0/477 — NEXT scans1–5**
+- T3: **0/477**
 - assembled Tamil: **BLOCKED**
 - English: **BLOCKED until Tamil archival + assembled-Tamil gates pass**
 
@@ -64,11 +66,15 @@ Observed from the supplied source:
 
 ## Exact next activity
 
-Perform **Part 001 T1 — overall scans1–5 / local pages1–5** under `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`.
+Perform **Part 001 T2 — overall scans1–5 / local pages1–5** under `SOURCE_BATCH_CHECKPOINT_WORKFLOW.md`.
 
-After T1:
-- five canonical page records must exist;
-- each must carry Part-001 split provenance;
-- page map / audit / README / handover / next-chat controls must be synchronized;
+T1 durable state:
+- five canonical page records exist;
+- all five carry Part001 split provenance;
+- all five remain `needs-review`;
+- scan3 telephone digits and scan5 compact publication block are explicit T1 uncertainties.
+
+After T2:
+- synchronize page records and controls;
 - commit;
-- stop before T2.
+- stop before T3.
