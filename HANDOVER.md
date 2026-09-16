@@ -26,14 +26,14 @@ Multipart policy:
 - overall source intake: **COMPLETE / REGISTERED**
 - per-Part intake registration: **16 / 16 COMPLETE**
 - global split coverage: **477 / 477**
-- canonical page records: **15 / 477**
+- canonical page records: **25 / 477**
 - T1 complete: **5 / 477** — scans1–5
-- T1 partial: **10 / 477** — scans6–15
+- T1 partial: **20 / 477 — scans6–25** — scans6–25
 - T2 reviewed: **5 / 477**
 - T3 reviewed: **5 / 477**
 - verified: **2 / 477**
 - needs-review: **3 / 477**
-- partial: **10 / 477**
+- partial: **20 / 477**
 - assembled Tamil: **BLOCKED**
 - English: **BLOCKED**
 
@@ -51,7 +51,7 @@ Checkpoint files:
 - `T2_BATCH_001_005.md`
 - `T3_BATCH_001_005.md`
 
-### Current 10-page batch — scans6–15
+### Current 10-page batch — scans6–25
 
 User-requested iteration size from this point: **10 scans**.
 
@@ -84,12 +84,12 @@ Controlling-source clarification:
 
 ## Exact next activity
 
-Remain on **Part001 T1 overall scans6–15 / local pages6–15**.
+Remain on **Part001 T1 overall scans6–25 / local pages6–25**.
 
 Complete the full line-by-line Tamil source text for all ten `partial` canonical records directly from the attached Part001 PDF. Only then:
 1. promote the ten records from `partial` to `needs-review`;
 2. synchronize controls;
 3. commit T1 completion;
-4. move to T2 for scans6–15.
+4. move to T2 for scans6–25.
 
-Do **not** advance to scans16–25 while scans6–15 remain text-incomplete.
+Do **not** advance to scans16–25 while scans6–25 remain text-incomplete.
