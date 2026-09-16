@@ -30,10 +30,12 @@
 - workspace: **OPEN**
 - Batch E1: **SOURCE-CHECKED / COMPLETE**
 - Batch E2: **SOURCE-CHECKED / COMPLETE**
-- translated files: **6 / 26**
-- coverage: **Introduction + Chapters1–5 / scans5–64**
-- source-visible chapter structure preserved: **1–5**
+- Batch E3: **SOURCE-CHECKED / COMPLETE**
+- translated files: **13 / 26**
+- coverage: **Introduction + Chapters1–5 + Chapters8–14 / scans5–113 before chapter15**
+- source-visible chapter structure represented in English: **1–5, 8–14**
 - chapters6/7 inserted: **0**
+- verified source-boundary / source-join comments in E3: **46 / 46 represented**
 - unresolved English holds: **0**
 - deliberate source-language retention: **1 archaic Silappatikaram quotation**
 - canonical Tamil changes caused by English: **0**
@@ -46,16 +48,17 @@ English authorities:
 - `works/surulimalai/translations/en/PROGRESS.md`
 - `works/surulimalai/translations/en/E1_SOURCE_CHECK.md`
 - `works/surulimalai/translations/en/E2_SOURCE_CHECK.md`
+- `works/surulimalai/translations/en/E3_SOURCE_CHECK.md`
 
 ## Exact next activity
 
-Perform **English Batch E3 — Chapters 8–14** from:
-- `sections/08-chapter-08.md`
-- `sections/09-chapter-09.md`
-- `sections/10-chapter-10.md`
-- `sections/11-chapter-11.md`
-- `sections/12-chapter-12.md`
-- `sections/13-chapter-13.md`
-- `sections/14-chapter-14.md`
+Perform **English Batch E4 — Chapters 15–21** from:
+- `sections/15-chapter-15.md`
+- `sections/16-chapter-16.md`
+- `sections/17-chapter-17.md`
+- `sections/18-chapter-18.md`
+- `sections/19-chapter-19.md`
+- `sections/20-chapter-20.md`
+- `sections/21-chapter-21.md`
 
-Canonical `pages/` remain controlling Tamil. Preserve the source-visible **5→8** jump; do not create chapters 6 or 7.
+Canonical `pages/` remain controlling Tamil. PASSED `sections/` provide continuous-reading structure. Preserve the source-visible numbering **1–5, 8–27**; do not create chapters 6 or 7.
