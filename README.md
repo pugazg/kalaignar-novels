@@ -12,7 +12,7 @@
 - global range coverage: **1–477, no gap / overlap**;
 - canonical page records: **5/477**;
 - T1: **5/477 COMPLETE through scan5**;
-- T2: **0/477 — NEXT scans1–5**;
+- T2: **5 / 477 COMPLETE through scan5**;
 - T3: **0/477**;
 - assembled Tamil: **BLOCKED**;
 - English: **BLOCKED**.
