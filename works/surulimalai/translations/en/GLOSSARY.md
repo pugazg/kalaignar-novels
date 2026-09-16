@@ -27,6 +27,7 @@ This glossary locks translation choices for the derived English layer. Canonical
 | `அக்காள் / அக்கா` | **Akka / elder sister** according to dialogue flow |
 | `அண்ணே` | **Anna** in direct colloquial address |
 | `தம்பி` | **thambi** or **younger brother/boy**, contextually |
+| `தங்கச்சி` | **thangachi / younger sister** according to direct-address flow |
 | `டா` | informal/rustic force in English; do not mechanically transliterate every occurrence |
 
 ## Cultural / performance terms
@@ -51,6 +52,15 @@ This glossary locks translation choices for the derived English layer. Canonical
 | `சாமியாடு / ஆவேசம்` | **deity-dance / possession / possessed frenzy** | context-sensitive; preserve narrator/character framing |
 | `குறி` | **oracle** | where Karpuram answers devotees |
 | `வாழாவெட்டி` | ***vazhavetty* — separated woman** | source pejorative; retain force without inventing a stronger slur |
+| `சாராயம்` | **arrack** | source liquor term; do not euphemize |
+| `கும்பாபிஷேகம்` | **kumbabhishekam** | retain source-facing ritual term |
+| `தகடு` | **metal plate / plate** | especially in Kannan's buried-plate episode; do not silently promote to "talisman" |
+| `பாயச முனி` | **Payasa Muni** | reported village supernatural figure |
+| `காட்டேரியம்மன் / காட்டேரி` | **Katteri Amman / Katteri** | reported village supernatural figure |
+| `அய்யனார்` | **Ayyanar** | source-facing deity name |
+| `தாரை / தப்பட்டை / கொம்பு` | **tarai / tappattai / horn** | procession instruments |
+| `கிருட்டிணப் பறவை` | ***kiruttina* bird** | retain source name; do not assign an external species identification |
+| `மஞ்ச கல்யாணி` | ***Manja Kalyani*** | retain the source horse label rather than infer a colour/name normalization |
 
 ## Religious / literary names
 
@@ -72,6 +82,13 @@ Do not add theology, literary commentary or external identification inside trans
 10. **Peethambaram's concealed condition:** source says `பெருவியாதியின் ஆரம்பம்`; E2 renders this conservatively as "the beginning of a terrible disease" and does not infer a diagnosis.
 11. **Madman's report:** Chiranjeevi's statements about Singaram's marriage/child/funeral rites are preserved as the madman's speech, not narrator fact.
 12. **Chapter 5 endpoint:** ends on scan64 with Surulimalai's `செத்தவள் பிழைத்துக் கொண்டாள்!`; no chapter6/7 English is inserted before chapter8.
+13. **Chapter 10 source exclamation:** `ஷு!` at scan85 is retained as **"Shu!"**; do not normalize it into an inferred word.
+14. **`கிருட்டிணப் பறவை`:** E3 retains ***kiruttina* bird** because the canonical Tamil supports the source label but not an external species identification.
+15. **Surulimalai's scan97 chant:** retain source-facing **"Aragara Mahadeva! Annakkavadi dharmam, thaaye! Annamalaikku Arohara!"** rather than supplying an unsupported explanatory translation.
+16. **Payasa Muni / Katteri account:** Chapter 14 presents both the supernatural village report and a later human-murder explanation; English preserves both as reported accounts and does not choose between them editorially.
+17. **Ayyanar kinship joke:** retain the source's explicit comic kinship — the village Ayyanar is said to be **Sabarimala Ayyappa Swami's paternal uncle's son** — rather than smoothing it into a generic relationship.
+18. **Kannan's buried plates:** Aravazhi's account explicitly exposes Kannan planting and marking the `தகடு`; translate the sequence as Aravazhi's narrated demonstration without adding outside debunking commentary.
+19. **Chapter 14 endpoint:** English ends with Aravazhi's glance toward Ponmani on scan113 before the source-visible chapter15 heading; chapter15 material is not pulled into E3.
 
 ## Style lock
 
