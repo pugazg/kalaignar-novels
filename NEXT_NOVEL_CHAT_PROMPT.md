@@ -1,28 +1,32 @@
-# Next Chat Prompt — சுருளிமலை / T1 scans 40–44
+# Next Novel Chat Prompt — repository ready for next user-selected work
 
-Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/surulimalai/`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Durable state
-- scans **5–39** are T1/T2/T3 **VERIFIED**;
-- scans35–39 T2 corrections: **6**;
-- scans35–39 T3 additional corrections: **1**;
-- unresolved source-form readings after T3: **0**;
-- visible printed pages through scan39: **33–37** for scans35–39;
-- scan37 contains the chapter **3 → 4** transition;
-- scan40 was **not opened** during the previous checkpoint;
-- scans40–44: **T1 NEXT**;
-- T2/T3 scans40–44: **NOT STARTED**.
+## Latest completed work — சுருளிமலை
+
+- source extent: **198 physical pages**
+- scans **5–198 T1/T2/T3 VERIFIED**
+- canonical page records: **198/198 VERIFIED**
+- terminal reconciliation: **COMPLETE / PASS**
+- assembled Tamil: **26/26 VERIFIED / PASS**
+- source-visible chapter sequence: **1–5, 8–27**
+- English translation: **26/26 VERIFIED / COMPLETE / CLOSED**
+- English narrative coverage: **scan5–197 / `[முற்றிற்று.]`**
+- chapter6 / chapter7 English files: **0 / 0**
+- physical provenance: **183/183 represented**
+- unresolved English holds: **0**
+- canonical Tamil changes caused by English: **0**
+
+Authorities:
+- `works/surulimalai/README.md`
+- `works/surulimalai/audit.md`
+- `works/surulimalai/translations/en/FINAL_BILINGUAL_REVIEW.md`
+- `HANDOVER.md`
+
+## Closure rule
+
+Do not reopen Surulimalai merely for routine continuation. Reopen only for a concrete source-fidelity correction, genuinely new source evidence, or an explicitly requested new publication/output layer.
 
 ## Exact next activity
-Perform **T1 direct visual transcription for scans40–44 only**:
 
-- open and independently read scans40–44 from source pixels;
-- identify visible printed-page numbers and chapter/structural context;
-- create one canonical page record per physical scan;
-- preserve source wording, punctuation, and page endings without normalization;
-- mark every new page `needs-review` pending T2;
-- create/update the five-scan checkpoint and repository controls;
-- commit;
-- stop before T2.
-
-The 198-page ingestion/terminal-boundary issue remains deferred.
+**No next novel is selected.** Fetch live `main` first and wait for / follow the next novel or work explicitly selected by the user. Do not invent one.
