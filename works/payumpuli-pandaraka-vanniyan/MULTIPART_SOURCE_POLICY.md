@@ -91,7 +91,9 @@ Processing may advance Part by Part, but canonical scan numbering and cross-Part
 
 - 16 / 16 split PDFs: **SUPPLIED / REGISTERED**
 - 477 / 477 source pages accounted for by split ranges
-- canonical page records: **0 / 477**
-- T1/T2/T3: **NOT STARTED**
+- canonical page records: **5 / 477**
+- T1: **5 / 477 COMPLETE through scan5**
+- T2: **0 / 477**
+- T3: **0 / 477**
 - split-boundary classifications: **not yet audited**
-- exact active gate: **Part 001 T1 scans 1–5**
+- exact active gate: **Part 001 T2 scans 1–5**
