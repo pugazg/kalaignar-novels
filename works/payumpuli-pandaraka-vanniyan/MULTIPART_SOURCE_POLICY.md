@@ -104,7 +104,7 @@ Authoritative work-specific guide:
 - Part001 English/release: **BLOCKED**
 - Part002 transcription: **BLOCKED until Part001 final closure**
 - split-boundary classifications: **1 / 15 audited — 30→31 GENUINE CONTINUATION**
-- exact active gate: **formal Part001 Pass 2B from scan1**
+- exact active gate: **Part001 Pass 3 scans1–10**
 
 ## Batch-size policy
 

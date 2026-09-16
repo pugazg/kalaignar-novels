@@ -31,7 +31,7 @@ Current Part001 state:
 - Pass 1 text-complete — **30/30 — scans1–30**
 - Pass 1 partial — **0/30**
 - formal Pass 2A — **COMPLETE — 30/30 reviewed**
-- formal Pass 2B — **IN PROGRESS — 20/30 reviewed (scans1–20)**
+- formal Pass 2B — **COMPLETE — 30/30 reviewed**
 - formal Pass 3 — **NOT STARTED**
 - Part audit — **NOT STARTED**
 - final metadata/status sync — **NOT STARTED**
@@ -118,10 +118,10 @@ Historical preliminary checkpoint records are retained for provenance but do not
 
 ## Exact next activity
 
-Formal Part001 Pass 2B is **IN PROGRESS — 20/30 reviewed**.
+Part001 Pass 2B is **COMPLETE — 30/30 reviewed**.
 
-Process **Part001 Pass 2B scans21–30** as the final independent lexical / historical-glyph batch under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+Begin **Part001 Pass 3 scans1–10** as the first visual/structural verification batch.
 
-Keep pages `needs-review`. If Pass 2B reaches 30/30, close Pass 2B and stop; do **not** begin Pass 3 in the same iteration unless explicitly requested.
+Keep pages `needs-review`; do **not** begin Part audit until Pass 3 reaches 30/30.
 
 Do **not** begin Part002 transcription.

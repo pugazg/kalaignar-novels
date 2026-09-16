@@ -26,16 +26,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 001 | 18 | 18 | 7 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; source `கெளரவம்` / `கெளரவிக்` restored; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0018-thorana-vayil.md` |
 | 001 | 19 | 19 | 8 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; source `பிரேமதேசா`, `கெள...`, `குறிப்பிடிருப்பது` retained; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0019-thorana-vayil.md` |
 | 001 | 20 | 20 | 9 | `தோரண வாயில்` continuation; Pass 1 text-complete; Pass 2A reviewed; `செ. யோகநாதன்` + facsimile separation corrected; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0020-thorana-vayil.md` |
-| 001 | 21 | 21 | 10 | chapter 2 opening `ஒரு இரகசியக் கடிதம்!`; Pass 1 text-complete; Pass 2A reviewed; `கண்டி அரசும்` corrected; Pass 2B/3 pending | needs-review | `pages/0021-thorana-vayil.md` |
-| 001 | 22 | 22 | 11 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; Pass 2A reviewed; source hyphen punctuation restored; Pass 2B/3 pending | needs-review | `pages/0022-thorana-vayil.md` |
-| 001 | 23 | 23 | 12 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; Pass 2A reviewed; hyphen spacing corrected; Pass 2B/3 pending | needs-review | `pages/0023-thorana-vayil.md` |
-| 001 | 24 | 24 | 13 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; Pass 2A reviewed; `ஏன்- இந்த` corrected; Pass 2B/3 pending | needs-review | `pages/0024-thorana-vayil.md` |
-| 001 | 25 | 25 | 14 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; Pass 2A reviewed; six source-fidelity corrections; Pass 2B/3 pending | needs-review | `pages/0025-thorana-vayil.md` |
-| 001 | 26 | 26 | 15 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; Pass 2A reviewed; three source-fidelity corrections; Pass 2B/3 pending | needs-review | `pages/0026-thorana-vayil.md` |
-| 001 | 27 | 27 | 16 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; Pass 2A reviewed; Pass 2B/3 pending | needs-review | `pages/0027-thorana-vayil.md` |
-| 001 | 28 | 28 | 17 | chapter 3 opening `வழியில் கண்ட வயோதிகர்!`; Pass 1 text-complete; Pass 2A reviewed; punctuation/spacing corrected; Pass 2B/3 pending | needs-review | `pages/0028-thorana-vayil.md` |
-| 001 | 29 | 29 | 18 | `வழியில் கண்ட வயோதிகர்!` continuation; Pass 1 text-complete; Pass 2A reviewed; `கூரைகளையுடைய` corrected; Pass 2B/3 pending | needs-review | `pages/0029-thorana-vayil.md` |
-| 001 | 30 | 30 | 19 | `வழியில் கண்ட வயோதிகர்!` continuation; Pass 1 text-complete; Pass 2A reviewed; 30→31 genuine continuation retained; Pass 2B/3 pending | needs-review | `pages/0030-thorana-vayil.md` |
+| 001 | 21 | 21 | 10 | chapter 2 opening `ஒரு இரகசியக் கடிதம்!`; Pass 1 text-complete; Pass 2A reviewed; `கண்டி அரசும்` corrected; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0021-thorana-vayil.md` |
+| 001 | 22 | 22 | 11 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; Pass 2A reviewed; source hyphen punctuation restored; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0022-thorana-vayil.md` |
+| 001 | 23 | 23 | 12 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; Pass 2A reviewed; hyphen spacing corrected; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0023-thorana-vayil.md` |
+| 001 | 24 | 24 | 13 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; Pass 2A reviewed; `ஏன்- இந்த` corrected; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0024-thorana-vayil.md` |
+| 001 | 25 | 25 | 14 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; Pass 2A reviewed; Pass2A corrections; Pass2B `கூடி,` punctuation reconciliation; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0025-thorana-vayil.md` |
+| 001 | 26 | 26 | 15 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; Pass 2A reviewed; three source-fidelity corrections; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0026-thorana-vayil.md` |
+| 001 | 27 | 27 | 16 | `ஒரு இரகசியக் கடிதம்!` continuation; Pass 1 text-complete; Pass 2A reviewed; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0027-thorana-vayil.md` |
+| 001 | 28 | 28 | 17 | chapter 3 opening `வழியில் கண்ட வயோதிகர்!`; Pass 1 text-complete; Pass 2A reviewed; punctuation/spacing corrected; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0028-thorana-vayil.md` |
+| 001 | 29 | 29 | 18 | `வழியில் கண்ட வயோதிகர்!` continuation; Pass 1 text-complete; Pass 2A reviewed; `கூரைகளையுடைய` corrected; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0029-thorana-vayil.md` |
+| 001 | 30 | 30 | 19 | `வழியில் கண்ட வயோதிகர்!` continuation; Pass 1 text-complete; Pass 2A reviewed; 30→31 genuine continuation retained; Pass 2B reviewed; Pass 3 pending | needs-review | `pages/0030-thorana-vayil.md` |
 | 002 | 1 | 31 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
 | 002 | 2 | 32 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
 | 002 | 3 | 33 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
@@ -512,7 +512,7 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part001 Pass 1 text-complete: **30 / 30**
 - Part001 Pass 1 partial: **0 / 30**
 - Part001 formal Pass 2A: **COMPLETE — 30/30 reviewed**
-- Part001 formal Pass 2B: **IN PROGRESS — 20/30 reviewed**
+- Part001 formal Pass 2B: **COMPLETE — 30/30 reviewed**
 - Part001 formal Pass 3: **NOT STARTED**
 - Part001 pages currently remain **needs-review / non-final**
 - audited outgoing boundary: **30→31 GENUINE CONTINUATION**

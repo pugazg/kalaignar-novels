@@ -42,7 +42,7 @@ Current state:
 - Pass 1 text-complete — **30/30 — scans1–30**
 - Pass 1 partial — **0/30**
 - formal Pass 2A — **COMPLETE — 30/30 reviewed**
-- formal Pass 2B — **IN PROGRESS — 20/30 reviewed (scans1–20)**
+- formal Pass 2B — **COMPLETE — 30/30 reviewed**
 - formal Pass 3 — **NOT STARTED**
 - Part audit — **NOT STARTED**
 - final status sync — **NOT STARTED**
@@ -57,6 +57,7 @@ Live trackers:
 - `works/payumpuli-pandaraka-vanniyan/PART_001_PASS1_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_001_PASS2A_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_001_PASS2B_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_001_PASS3_PROGRESS.md`
 
 ## Historical preliminary work
 
@@ -118,18 +119,15 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Formal Part001 Pass 2B is **IN PROGRESS — 20/30 reviewed**.
+Part001 Pass 2B is **COMPLETE — 30/30 reviewed**.
 
-Process **Part001 Pass 2B scans21–30**.
+Begin **formal Part001 Pass 3 scans1–10**.
 
 - use the attached Part001 PDF only;
-- independently reread every printed word from source pixels;
-- apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
-- check all 13 reform-sensitive families where present, occurrence by occurrence;
-- preserve source spelling/punctuation and record any discrepancy explicitly;
+- verify headings/display hierarchy, paragraph/block structure, page furniture, illustrations/captions, stamps/handwriting/facsimile matter, body-vs-non-body separation and page-boundary state;
 - keep pages `needs-review`;
-- update `PART_001_PASS2B_PROGRESS.md` and live controls;
+- update `PART_001_PASS3_PROGRESS.md` and live controls;
 - commit and stop.
 
-If Pass 2B reaches 30/30, close Pass 2B and stop. Do not begin Pass 3 in the same iteration unless explicitly requested.
+Do not begin Part audit until Pass 3 reaches 30/30.
 Do not begin Part002 transcription.

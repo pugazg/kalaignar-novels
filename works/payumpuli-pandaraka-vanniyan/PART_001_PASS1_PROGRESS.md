@@ -19,7 +19,7 @@ This tracker follows the Kuraloviyam rule that **Pass 1 is complete only when ev
 - Pass-1 text-complete records: **30/30 — scans1–30**
 - Pass-1 partial records: **0/30**
 - formal Pass 2A: **COMPLETE — 30/30 reviewed**
-- formal Pass 2B: **NOT STARTED**
+- formal Pass 2B: **COMPLETE — 30/30 reviewed**
 - formal Pass 3: **NOT STARTED**
 - Part audit: **NOT STARTED**
 - Tamil archival-ready: **BLOCKED**

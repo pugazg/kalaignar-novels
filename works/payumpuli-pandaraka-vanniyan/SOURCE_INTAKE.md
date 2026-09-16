@@ -82,7 +82,8 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part001 Pass 1 text-complete: **30/30**
 - Part001 Pass 1 partial: **0/30**
 - formal Part001 Pass 2A: **COMPLETE — 30/30 reviewed**
-- formal Part001 Pass 2B / Pass 3: **NOT STARTED**
+- formal Part001 Pass 2B: **COMPLETE — 30/30 reviewed**
+- formal Part001 Pass 3: **NOT STARTED**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 assembled Tamil: **BLOCKED**
 - Part001 English / release-readiness: **BLOCKED**
@@ -102,6 +103,6 @@ Authoritative live trackers:
 
 Part001 Pass 1 is **COMPLETE — 30/30 text-complete**.
 
-Begin **formal Part001 Pass 2B scans1–10**.
+Begin **formal Part001 Pass 3 scans1–10**.
 
 Do not begin Part002 transcription. Part002 remains source-registered / transcription-blocked until Part001 final closure.

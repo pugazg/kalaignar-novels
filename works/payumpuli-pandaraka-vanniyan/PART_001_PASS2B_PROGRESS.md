@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS**
+**PASS 2B — COMPLETE / 30/30 REVIEWED**
 
 Prerequisites:
 - Part001 Pass 1 — **COMPLETE / 30/30 text-complete**
@@ -15,50 +15,60 @@ Scope:
 
 ## Pass 2B method
 
-Pass 2B is an **independent lexical / historical-glyph reread** after complete Pass2A closure.
+Independent lexical / historical-glyph reread under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 
-For each physical scan:
-- reread source words independently rather than merely confirming Pass2A;
-- apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
-- inspect the reform-sensitive families occurrence by occurrence where present;
+For every scan:
+- reread source words independently from source pixels;
+- inspect reform-sensitive families occurrence by occurrence where present;
 - preserve source spelling, punctuation and character identity;
 - do not modernize or silently regularize wording;
-- record every discrepancy and unresolved glyph question explicitly.
+- record discrepancies and unresolved glyph questions explicitly.
 
 Pages remain `needs-review`. Final `verified` status is not assigned during Pass 2B.
 
-## Current accounting
+## Final accounting
 
-- Pass 2B reviewed: **20/30 — scans1–20**
-- remaining: **10/30 — scans21–30**
+- Pass 2B reviewed: **30/30 — scans1–30**
+- remaining: **0/30**
+- unresolved historical-glyph identities: **0**
 - Pass 3: **NOT STARTED**
 
 ## Batch history
 
-- scans1–10 — **COMPLETE / REVIEWED**
-  - source-text / lexical / historical-glyph corrections: **0**
+- scans1–10 — **COMPLETE / REVIEWED** — 0 corrections; 0 unresolved glyphs
+- scans11–20 — **COMPLETE / REVIEWED** — 0 corrections; 0 unresolved glyphs
+- scans21–30 — **COMPLETE / REVIEWED**
+  - one source-punctuation correction on scan25: `கூடி.` → `கூடி,`
+  - historical-glyph corrections: **0**
   - unresolved historical-glyph identities: **0**
-- scans11–20 — **COMPLETE / REVIEWED**
-  - independent source-pixel lexical/historical-glyph reread completed;
-  - all 13 known reform-sensitive families were checked occurrence-by-occurrence where present;
-  - source-text / lexical / historical-glyph corrections: **0**;
-  - unresolved historical-glyph identities: **0**;
-  - all ten pages remain `needs-review`.
 
-Representative confirmed families across scans11–20 include:
-- `றா` — `போயிற்றா`, `மாற்றார்`, `மாற்றியமைத்து`;
-- `லை` — `தலையும்`, `கலைஞர்`, `கவலை`, `சிலையெடுத்து`, `நினைவுக்` context checked separately from `னை`, `முல்லைத்தீவு`, `தலைவர்`;
-- `ளை` — `இளைப்பாறும்`, `பத்தாப்பளை`, `வற்றாப்பளை`, `தெளிவாகக்`;
-- `னை` — `கற்பனைக்`, `நினைவுக்`;
-- `ணை` — `இணையான`;
-- `ணா` — `கருணாநிதி`.
+Representative confirmed families across scans21–30 include:
+- `றா` — `காட்டாற்று`, `வாரியிறைத்தாற்போல்`, `வேறா`, `சிற்றார்கள்`, `சிற்றார்களில்`, `சிற்றார்களை`
+- `றொ` — `மற்றொரு`
+- `ளை` — `பாளையக்கார`, `வெள்ளை`, `வெள்ளையத்தேவன்`, `வற்றாப்பளையைத்`, `கூரைகளையுடைய`
+- `லை` — `கெண்டைக்காலைப்`, `இலையில்`, `வெற்றிலை`, `முல்லைத்தீவு`, `மடலை`
+- `ணா` — `சுண்ணாம்பு`
+- `ணை` — `அணைத்துக்`, `திண்ணைகளும்`, `திண்ணையில்`
+- `னை` — `நனைந்திட`, `நனைந்து`, `அவனைப்`, `பனை`
 
-No lexical modernization or global replacement was performed.
+## Scan25 reconciliation
+
+Pass2A had changed `கூடி,` → `கூடி.`.
+
+The independent Pass2B enlarged-source reread confirms the source prints **`கூடி,`**.
+
+Therefore:
+- canonical scan25 is restored to `கூடி,`
+- this finding supersedes only that one Pass2A punctuation judgment
+- all other Pass2A scan25 corrections remain confirmed
+
+## Pass 2B closure
+
+**PASS — 30/30 physical scans independently reread.**
 
 ## Exact next activity
 
-Process **Part001 Pass 2B scans21–30** as the final 10-scan independent lexical/historical-glyph batch.
+Begin **formal Part001 Pass 3 scans1–10** as the first visual/structural verification batch.
 
-If and only if Pass 2B reaches **30/30**, synchronize Pass2B closure and **STOP**. Do not begin Pass 3 in the same iteration unless the user explicitly asks to continue.
-
+Do not begin Pass 3 in this Pass2B-closing iteration.
 Do not begin Part002 transcription.

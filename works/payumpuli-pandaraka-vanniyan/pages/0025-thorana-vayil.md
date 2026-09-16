@@ -10,14 +10,14 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf"
-transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed; formal Part001 Pass 2B lexical/historical-glyph reread reviewed"
 ---
 
 # ஒரு இரகசியக் கடிதம்!
 
 ## Source transcription
 
-கூடி. பரங்கியரைப் பார்த்து அதே கேள்வியை வாள்முனையிலும் வேல் முனையிலும் எழுப்பிக் கொண்டிருப்பவனல்லவா அவன்?
+கூடி, பரங்கியரைப் பார்த்து அதே கேள்வியை வாள்முனையிலும் வேல் முனையிலும் எழுப்பிக் கொண்டிருப்பவனல்லவா அவன்?
 
 இரவெல்லாம் பயணம் நடத்தி, இலங்கையில் உள்ள முல்லைத் தீவுக்குப் போய்ச் சேர வேண்டும் அவன்! இராமேசுவரத்திலிருந்து பருத்தித்துறை கடந்து, தெற்கே திரும்பி முல்லைத் தீவை அடைந்திட வேண்டும். வந்த பணியை முடித்து விட்டு உடனே தமிழகம் திரும்ப வேண்டும். அந்தப் பணியின்பாலுள்ள ஆர்வமும் அக்கறையும் அவனை உத்தேகப்படுத்திக் கொண்டிருந்தன.
 
@@ -46,11 +46,24 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 complet
 ## Formal Part001 Pass 2A review
 
 - direct word-by-word, punctuation, paragraph, displayed-lineation and page-boundary comparison completed against the attached source pixels;
-- corrections: `கூடி,` → `கூடி.`; `சேரவேண்டும்` → `சேர வேண்டும்`; `முல்லைத்தீவை` → `முல்லைத் தீவை`;
+- Pass2A had changed `கூடி,` → `கூடி.`; the independent Pass2B reread later superseded that one punctuation finding and restored source `கூடி,`; the other Pass2A corrections on this scan remain confirmed;
+- corrections retained from Pass2A: `சேரவேண்டும்` → `சேர வேண்டும்`; `முல்லைத்தீவை` → `முல்லைத் தீவை`;
 - correction: `தின்றுவிட்டன` → source `தின்று விட்டன`;
 - correction: `மூங்கிற்பாய் போட்டு முடியதாக` → source `மூங்கிற்பாய் போட்டு மூடியதாக`;
 - correction: `மடல்; அது` → source `மடல், அது`;
 - Pass 2A result: **REVIEWED / PASS AFTER ANY CORRECTIONS ABOVE**;
 - page remains `needs-review` pending whole-Part Pass 2B / Pass 3 and later final status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 25; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 14; PASS 2A REVIEWED / needs-review -->
+## Formal Part001 Pass 2B lexical / historical-glyph reread
+
+- independently reread the complete printed source text from enlarged source pixels rather than merely confirming Pass 2A;
+- checked the full known reform-sensitive set where present: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative source occurrences checked: `முல்லைத்` / `இலையில்` (`லை`), `நனைந்து` (`னை`);
+- source punctuation correction: Pass2A/canonical `கூடி.` → source-supported `கூடி,`; confirmed on enlarged source pixels;
+- historical-glyph corrections: **0**;
+- unresolved historical-glyph identities: **0**;
+- no global replacement or spelling modernization was used;
+- Pass 2B result: **REVIEWED / PASS AFTER SOURCE PUNCTUATION CORRECTION**;
+- page remains `needs-review` pending Pass 3, Part audit and final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 25; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 14; PASS 2A + PASS 2B REVIEWED / needs-review -->

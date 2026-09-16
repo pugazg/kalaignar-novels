@@ -66,7 +66,7 @@ Current Pass-1 accounting:
 | needs-review | **30/30 — scans1–30** |
 | verified | **0/30 formal Part-level final status** |
 | formal Pass 2A | **COMPLETE — 30/30 reviewed** |
-| formal Pass 2B | **IN PROGRESS — 20/30 reviewed** |
+| formal Pass 2B | **COMPLETE — 30/30 reviewed** |
 | formal Pass 3 | **NOT STARTED** |
 | Part audit | **NOT STARTED** |
 | final status sync | **NOT STARTED** |
@@ -116,6 +116,24 @@ All 30 pages remain non-final / `needs-review`. The next gate is formal **Pass 2
 - scan11 verse lineation and attribution were preserved;
 - scan12 illustration and scan15 memorial-stone photograph remain separate visual/non-body matter;
 - no formal Pass 2A / Pass 2B / Pass 3 credit was assigned.
+
+## Formal Pass 2B — scans21–30
+
+**COMPLETE / REVIEWED — cumulative 30/30**
+
+Independent lexical / historical-glyph reread from enlarged source pixels under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+
+- all 13 reform-sensitive families checked occurrence-by-occurrence where present;
+- historical-glyph corrections: **0**;
+- unresolved historical-glyph identities: **0**;
+- one ordinary source-punctuation correction: scan25 `கூடி.` → source `கூடி,`;
+- this scan25 finding supersedes only that one Pass2A punctuation judgment; the remaining Pass2A corrections stay confirmed;
+- scan30 remains compatible with the previously audited 30→31 GENUINE CONTINUATION classification;
+- scans21–30 remain `needs-review`.
+
+## Part001 Pass 2B closure
+
+**PASS — 30/30 independently reread; 0 unresolved historical-glyph identities.**
 
 ## Formal Pass 2B — scans11–20
 
@@ -244,16 +262,13 @@ Only then may Part002 become active.
 
 ## Exact next activity
 
-**Part001 Pass 2B scans21–30.**
+**Part001 Pass 3 scans1–10.**
 
 - use the attached Part001 PDF only;
-- independently reread source text at enlarged/native pixels;
-- check all 13 historical-glyph families where present;
-- preserve source spelling and punctuation; do not normalize;
-- record every discrepancy or unresolved glyph explicitly;
+- perform visual/structural verification of headings, block structure, page furniture, illustrations/captions, stamps/handwriting/facsimile matter, body-vs-non-body separation and page-boundary state;
 - keep reviewed pages `needs-review`;
-- update `PART_001_PASS2B_PROGRESS.md` and live controls;
+- update `PART_001_PASS3_PROGRESS.md` and live controls;
 - commit and stop.
 
-If Pass 2B reaches 30/30, close Pass 2B and stop. Do not begin Pass 3 in the same iteration.
+Do not begin Part audit.
 Do not begin Part002.
