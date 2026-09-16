@@ -2,60 +2,52 @@
 
 > **மூல ஸ்கேன் page/structure authority.** Source PDF files repository-யில் commit செய்யப்படாது.
 
-## Current repository status
+## Current active source — பாயும்புலி பண்டாரக வன்னியன்
 
-No new novel/source is currently selected for processing.
+- work directory: `works/payumpuli-pandaraka-vanniyan/`;
+- source PDF: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்.pdf` — **not committed**;
+- physical source extent: **150 scans**;
+- file size: **456,236,783 bytes**;
+- source format: **image-only scanned PDF**;
+- SHA-256: **PENDING**;
+- bibliographic identity registered:
+  - title — **பாயும்புலி பண்டாரக வன்னியன்**;
+  - author — **கலைஞர் மு. கருணாநிதி**;
+  - publisher — **ராக்போர்ட் பப்ளிகேஷன்ஸ்**;
+  - edition — **முதல் பதிப்பு, 1991**;
+- opening structure visually reviewed: **scans1–20**;
+- canonical page records: **0 / 150**;
+- T1 / T2 / T3: **NOT STARTED**;
+- terminal boundary: **NOT YET AUDITED**;
+- assembled Tamil: **BLOCKED**;
+- English: **BLOCKED** until Tamil archival + assembled-Tamil gates pass.
 
-### Latest completed source — சுருளிமலை (1968 second edition)
+Active controls:
+- `works/payumpuli-pandaraka-vanniyan/README.md`
+- `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE.md`
+- `works/payumpuli-pandaraka-vanniyan/metadata/source.md`
+- `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
+- `works/payumpuli-pandaraka-vanniyan/audit.md`
+
+Exact next action: **T1 direct transcription / canonical records for scans1–5 only, then synchronize controls, commit, and stop before T2.**
+
+## Latest completed source — சுருளிமலை (1968 second edition)
 
 - source PDF: `TVA_BOK_0064107_சுருளிமலை_1968 2.pdf` — **not committed**;
 - complete source extent: **198 physical pages**;
 - SHA-256: **`3d940115bed12e818b8f3cbfbdfca56def0285aef803334f8711acf27f7408ea`**;
-- front matter scans **1–4: VERIFIED**;
 - scans **5–198 T1/T2/T3: COMPLETE / PASS / VERIFIED**;
 - canonical page records: **198/198 VERIFIED**;
 - terminal/full-source reconciliation: **COMPLETE / PASS**;
 - assembled Tamil master: **26/26 VERIFIED / PASS**;
-- source-visible chapter sequence: **1–5, 8–27**; chapters 6/7 are not invented;
 - English translation: **26/26 VERIFIED / COMPLETE / CLOSED**;
-- whole-work English provenance: **183/183 source-boundary/source-join markers represented**;
-- unresolved English holds: **0**;
-- canonical Tamil changes caused by English: **0**;
-- scan197 ending `[முற்றிற்று.]`: **retained**;
-- scan198 back-cover / publisher-device: **excluded from narrative translation**.
+- whole-work English provenance: **183/183 represented**;
+- unresolved English holds: **0**.
 
 Surulimalai closure authority:
 - `works/surulimalai/README.md`
 - `works/surulimalai/audit.md`
 - `works/surulimalai/translations/en/FINAL_BILINGUAL_REVIEW.md`
-- root `HANDOVER.md`
-
-Exact next action: **fetch live `main` and continue only with the next work explicitly selected by the user. Do not invent a new active novel.**
-
-### Latest completed source — அரும்பு 1978 compilation
-
-- அரும்பு — scans 6–23 — **RELEASE-READY / CLOSED**;
-- சாரப்பள்ளம் சாமுண்டி — scans 24–48 — **RELEASE-READY / CLOSED**;
-- பெரிய இடத்துப் பெண் — scans 49–74 — **1978 WITNESS COMPARISON COMPLETE / CLOSED — 26/26**;
-- நடுத்தெரு நாராயணி — scans 75–90 — **RELEASE-READY / CLOSED — Tamil + English VERIFIED**;
-- collection paratext — scans 1–5 and 91–92 — **7/7 VERIFIED / CLOSED**;
-- full compilation accounting — **92/92 scans / COLLECTION ARCHIVAL CLOSED**.
-
-### அரும்பு 1978 collection closure
-
-- collection-level paratext records: **7 / 7 VERIFIED**;
-- front matter scans **1–5: CLOSED**;
-- back matter scans **91–92: CLOSED**;
-- four story/witness spans: **CLOSED**;
-- physical scan accounting: **92 / 92**;
-- unresolved collection-level items: **0**;
-- source metadata correction: scan4 printer **எஷியன் அச்சகம், சென்னை-600014**;
-- source PDF remains excluded;
-- collection verdict: **ARCHIVAL CLOSED**.
-
-Closure record: `collections/arumbu-1978/PARATEXT_CLOSURE.md`.
-
-Exact next action: **fetch live `main` and continue only with the next work explicitly selected by the user. Surulimalai is closed and must not be reopened for routine continuation.**
 
 ## Completed works
 
