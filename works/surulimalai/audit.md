@@ -651,7 +651,7 @@ Checkpoint: [`T1_BATCH_035_039.md`](T1_BATCH_035_039.md).
 T2 audit: [`T2_AUDIT_035_039.md`](T2_AUDIT_035_039.md).  
 T3 audit: [`T3_AUDIT_035_039.md`](T3_AUDIT_035_039.md).
 
-## Exact next activity
+## Historical next activity at this checkpoint
 
 Perform the **terminal/full-198-page reconciliation only**; verify complete source coverage and control-file consistency before final closure.
 
@@ -1103,7 +1103,7 @@ Status: **COMPLETE / PASS**.
 Authority: [`TERMINAL_BOUNDARY_AUDIT.md`](TERMINAL_BOUNDARY_AUDIT.md).  
 Final reconciliation: [`FINAL_RECONCILIATION.md`](FINAL_RECONCILIATION.md).
 
-## Exact next activity
+## Historical next activity at this checkpoint
 
 In a **new activity**, build the **assembled Tamil master** from the verified canonical page records. Do not begin English until assembled-Tamil structural validation passes.
 
@@ -1129,7 +1129,7 @@ Status: **COMPLETE / PASS**.
 Reading-layer authority: [`sections/README.md`](sections/README.md).  
 Validation: [`ASSEMBLED_TAMIL_VALIDATION.md`](ASSEMBLED_TAMIL_VALIDATION.md).
 
-## Exact next activity
+## Historical next activity at this checkpoint
 
 Start the **English translation setup / first translation batch**. Create English translation controls and glossary, then translate `அறிமுகம்` + chapter 1 as the first bounded batch. Canonical Tamil remains authoritative.
 
@@ -1165,7 +1165,7 @@ Fidelity locks:
 
 Detailed source check: [`translations/en/E1_SOURCE_CHECK.md`](translations/en/E1_SOURCE_CHECK.md).
 
-## Exact next activity
+## Historical next activity at this checkpoint
 
 Perform **English Batch E2 — Chapters 2–5**. Do not create chapters 6 or 7.
 
@@ -1198,7 +1198,7 @@ Checks:
 
 Detailed source check: [`translations/en/E2_SOURCE_CHECK.md`](translations/en/E2_SOURCE_CHECK.md).
 
-## Exact next activity
+## Historical next activity at this checkpoint
 
 Perform **English Batch E3 — Chapters 8–14**. Preserve the source jump **5→8** and do not create chapters 6 or 7.
 
