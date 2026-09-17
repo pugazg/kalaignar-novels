@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ENGLISH EDITORIAL REVIEW — PASS / CLOSED — WHOLE-PART BILINGUAL REVIEW NEXT**
+**WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED — RELEASE/READINESS REPORT NEXT**
 
 | Gate / batch | Coverage | Scans | Status |
 |---|---|---:|---|
@@ -12,8 +12,8 @@
 | **E4** | section 07: `வழியில் கண்ட வயோதிகர்!` | **28–30** | **SOURCE-CHECKED / COMPLETE** |
 | Glossary | whole-Part reconciliation | 1–30 | **RECONCILED / PASS** |
 | Editorial | whole-Part English editorial review | 1–30 | **PASS / CLOSED** |
-| Bilingual | whole-Part bilingual review | 1–30 | **NEXT / NOT STARTED** |
-| Release | release/readiness report | 1–30 | **BLOCKED** |
+| Bilingual | whole-Part bilingual review | 1–30 | **PASS / CLOSED** |
+| Release | release/readiness report | 1–30 | **NEXT / NOT STARTED** |
 
 ## Current counts
 
@@ -22,15 +22,18 @@
 - English translated files — **8/8**
 - English source-checked files — **8/8**
 - English editorial-reviewed files — **8/8**
+- English bilingual-reviewed pairs — **8/8**
 - English files with editorial prose changes — **3/8**
 - substantive English-only editorial corrections — **8**
+- English-only corrections newly required by bilingual review — **0**
 - unresolved English/source-check holds — **0**
 - unresolved glossary holds — **0**
 - unresolved editorial holds — **0**
+- unresolved bilingual holds — **0**
 - canonical Tamil edits caused by English — **0**
 - Part002 English/Tamil content imported — **0**
-- whole-Part bilingual review — **NEXT / NOT STARTED**
-- release/readiness — **BLOCKED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **NEXT / NOT STARTED**
 - final Part001 closure — **BLOCKED**
 
 ## E1–E4 closure
@@ -94,6 +97,26 @@ Edited English files:
 
 The edits are limited to source-safe English syntax/readability. Quotation/verse/song structure, source rhetoric, deliberate source variants, speaker/narrator agency and chronology remain protected.
 
+## Whole-Part bilingual review
+
+Durable record:
+
+- `BILINGUAL_REVIEW.md`
+
+Result: **WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED**.
+
+Coverage/findings:
+
+- Tamil/English section pairs reviewed — **8/8**;
+- scan coverage — **1–30 exactly**;
+- eight editorial corrections rechecked against Tamil basis — **8/8 PASS**;
+- English-only corrections newly required by bilingual review — **0**;
+- unresolved bilingual holds — **0**;
+- canonical Tamil edits caused by bilingual review — **0**;
+- Part002 content imported — **0**.
+
+Meaning, speaker/narrator agency, chronology, knowledge state, quotation/verse/song/display structure, deliberate source variants and source-facing vocabulary remain aligned.
+
 ## Boundary lock
 
 - Part001 final source scan — **30 / printed19**
@@ -106,6 +129,6 @@ The edits are limited to source-safe English syntax/readability. Quotation/verse
 
 ## Exact next activity
 
-**whole-Part bilingual review** across all **8/8** Tamil/English Part001 section pairs, scans1–30 only.
+**release/readiness report** for the complete Part001 Tamil/English layer, scans1–30 only.
 
-Do not begin release/readiness, final Part closure or Part002 transcription until the bilingual review closes.
+Do not begin release-ready synchronization, final Part001 closure or Part002 transcription until the release/readiness gate closes.
