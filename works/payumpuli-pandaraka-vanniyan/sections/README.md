@@ -89,8 +89,10 @@ Validation result:
 
 ## Downstream state
 
-Part001 Tamil archival-ready is already **PASS / CLOSED**.
+Part001 Tamil archival-ready is **PASS / CLOSED** and assembled Tamil is **PASS / CLOSED — 8/8 VERIFIED**.
 
-English E1–E4 are now **SOURCE-CHECKED / COMPLETE** with **8/8** Part001 English section files translated/source-checked and **0 unresolved holds**. Whole-Part English glossary reconciliation is **RECONCILED / PASS**. The exact next maintained activity is **English editorial review**.
+English E1–E4 are **SOURCE-CHECKED / COMPLETE — 8/8**; whole-Part glossary reconciliation is **RECONCILED / PASS**; English editorial review is **PASS / CLOSED**; and whole-Part bilingual review is **PASS / CLOSED — 8/8 pairs reviewed, 0 unresolved bilingual holds**.
 
-Part002 transcription remains blocked until Part001 completes English, release/readiness and final Part closure.
+The exact next maintained activity is the **release/readiness report**.
+
+Part002 transcription remains blocked until Part001 completes release/readiness, release-ready synchronization and final Part closure.
