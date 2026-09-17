@@ -30,11 +30,11 @@ Split files are provenance/access boundaries only, not textual boundaries.
 
 A later Part may be supplied/registered and used as the adjacent boundary witness needed to resolve the active Part's outgoing boundary, but it must not receive canonical transcription records, Pass work, assembled Tamil or English work until the active Part reaches final closure.
 
-For Part001 this lock has now been fully satisfied:
+Part001 has fully satisfied the lock:
 
 **Tamil archival-ready + assembled Tamil closure + English completion + release/readiness report + release-ready synchronization + final Part closure — PASS / CLOSED.**
 
-Part002 may therefore become the next active Part on the next explicit continuation.
+Part002 is now the active Part.
 
 ## 4. Tamil Part workflow
 
@@ -92,19 +92,9 @@ Result:
 
 **PART001 FINAL CLOSURE — PASS / CLOSED**
 
-It confirms:
+It confirms the complete Tamil, assembled-Tamil, English, bilingual, release/readiness and synchronization chain with unresolved blockers **0** and unauthorized textual drift after release/readiness **0**.
 
-- Tamil Part archival-ready;
-- assembled Tamil closed;
-- English translation complete;
-- whole-Part bilingual review passed;
-- release/readiness report passed;
-- release-ready synchronization passed;
-- unresolved blockers **0**;
-- source/boundary state durable;
-- unauthorized textual drift after release/readiness **0**.
-
-Part002 transcription is now permitted by the Part lock, but it was not begun during the Part001 final-closure iteration.
+Part001 is now frozen unless a genuine source-fidelity issue is explicitly reopened.
 
 ## 8. Boundary rule
 
@@ -115,9 +105,9 @@ For Part001/Part002:
 - **30→31 = GENUINE CONTINUATION**;
 - Part001 Tamil ends `அவனுக்கு ஒரே மகிழ்ச்சி,`;
 - Part001 English ends **“He was filled with joy,”**;
-- scan31 text was not imported into Part001.
+- scan31 is now the first canonical Part002 page and does not alter Part001.
 
-This boundary remains the incoming audited boundary for Part002.
+Part002 outgoing boundary **60→61** remains pending direct audit.
 
 ## 9. Batch cadence
 
@@ -125,17 +115,26 @@ User-directed normal source batch size: **10 physical scans**, with a shorter fi
 
 A batch is only complete when the requested Pass work for those scans is complete. Page/provenance-only scaffolding is not Pass-1 completion.
 
-Part001 is now **FINAL CLOSED** across Tamil, assembled Tamil, English, release/readiness and release synchronization. Part002 source intake is already registered for global scans **31–60**, but canonical Part002 page records remain **0** and Pass work remains **NOT STARTED**.
+Part002 current Pass-1 accounting:
+- canonical Part002 records — **10/30 — scans31–40**;
+- Pass-1 text-complete — **10/30 — scans31–40**;
+- Pass-1 pending — **20/30 — scans41–60**;
+- Pass 2A / Pass 2B / Pass 3 — **NOT STARTED**.
 
-The next normal Pass-1 batch is **global scans31–40 / Part002 local pages1–10**.
+Batch 1 structure:
+- scans31–34 — continuation/close of `வழியில் கண்ட வயோதிகர்!`;
+- scan35 — chapter 4 opening `குருவிச்சி நாச்சியார்`;
+- scans36–40 — chapter 4 continuation;
+- source-specific `வற்றாப்பாளை` is retained by occurrence and not normalized to earlier `வற்றாப்பளை`;
+- scan40 ends `எனவே அந்தப் பெரிய மணி ஓசை` and remains open.
 
 ## 10. Current Part frontier
 
-- **Part001: FINAL CLOSURE — PASS / CLOSED**
-- **Part002 source: SUPPLIED / REGISTERED**
-- **Part002 canonical page records: 0**
-- **Part002 transcription: AUTHORIZED / NOT STARTED**
-- **Next active Part: Part002 / global scans31–60**
-- **Exact next gate: activate Part002 and perform Pass 1 for global scans31–40 / local pages1–10**
+- **Part001: FINAL CLOSURE — PASS / CLOSED / FROZEN**
+- **Part002 source: SUPPLIED / REGISTERED / ACTIVE**
+- **Part002 canonical page records: 10/30**
+- **Part002 Pass 1: IN PROGRESS — 10/30 TEXT-COMPLETE**
+- **Part002 Pass 2A / 2B / 3: NOT STARTED**
+- **Exact next gate: Part002 Pass 1, global scans41–50 / local pages11–20**
 
-Do not begin Part002 Pass 2A until Part002 Pass 1 covers all 30 scans.
+Do not begin Part002 Pass 2A until Part002 Pass 1 covers all **30/30** scans.
