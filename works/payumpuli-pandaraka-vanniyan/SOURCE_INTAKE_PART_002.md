@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED / WAITING — source available; transcription blocked until Part001 final closure.**
+**REGISTERED / AUTHORIZED — Part001 final closure passed; transcription not yet started.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **31–60**;
@@ -24,7 +24,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 ## Boundary state
 
 - incoming split boundary: **30→31 — GENUINE CONTINUATION / AUDITED**;
-- outgoing split boundary: **60→61 — source available; classification pending direct audit**;
+- outgoing split boundary: **60→61 — source available; classification pending direct audit**.
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
 
@@ -42,14 +42,23 @@ The canonical `scan_page` remains the overall scan number **31–60**.
 
 ## Current gate
 
-Part002 source intake is **REGISTERED**, but Part002 content work is **BLOCKED**.
+Part001 final closure is **PASS / CLOSED**. Part002 content work is now **AUTHORIZED**, but has not started.
 
 - incoming boundary **30→31**: **GENUINE CONTINUATION / AUDITED**;
-- local page1 / overall scan31 may be retained only as the adjacent boundary witness for Part001 closure;
 - canonical Part002 page records: **0**;
 - Pass 1 / Pass 2A / Pass 2B / Pass 3: **NOT STARTED**;
-- assembled Tamil / English: **NOT STARTED**.
+- assembled Tamil / English: **NOT STARTED**;
+- Part001 remains frozen unless explicitly reopened for a genuine source-fidelity issue.
 
-Per the Kuraloviyam Part-lock methodology, Part002 transcription begins only after Part001 has completed:
+## Exact next activity
 
-**Tamil archival-ready → assembled Tamil closure → English translation/review → release/readiness report → final Part closure.**
+Activate Part002 and perform **Pass 1 for global scans31–40 / Part002 local pages1–10** using this source only.
+
+Requirements:
+
+- create canonical records for scans31–40;
+- preserve source wording, punctuation, paragraphing, historical glyph identity and visible structure;
+- preserve exact Part002 provenance;
+- treat scan31 as both the first Part002 canonical page and the already-audited incoming continuation from scan30;
+- do not infer text from later pages;
+- do not begin Pass 2A until Pass 1 covers global scans31–60.
