@@ -21,7 +21,7 @@ The year 1798!
 
 Like trying to hold back the flood of a wild river with one's hands—such were palaiyakkarar rulers like Kattabomman. At the same time that they were fighting the authority and domination of the British, who had arrived in India as traders, the realm of Pandaraka Vanniyan and the kingdom of Kandy in Sri Lanka were also sounding the call to battle, refusing to make room for British domination.
 
-One night on some day that year, three men were walking swiftly along the Rameswaram seashore, looking all around them. One of the three wore a turban of thick silk cloth. An upper garment with a gleaming zari border fluttered on his shoulder in the sea breeze. His tightly wrapped veshti ended below the knee, gripping the calf, and gave his figure a stately bearing. His slightly long moustache and large eyes revealed his valour. At his waist, on one side, was a sword in its sheath—and on the other, a rolled-up letter kept securely!
+One night that year, three men were walking swiftly along the Rameswaram seashore, looking all around them. One of the three wore a turban of thick silk cloth. An upper garment with a gleaming zari border fluttered on his shoulder in the sea breeze. His tightly wrapped veshti ended below the knee, gripping the calf, and gave his figure a stately bearing. His slightly long moustache and large eyes revealed his valour. At his waist, on one side, was a sword in its sheath—and on the other, a rolled-up letter kept securely!
 
 The men walking with him, however, wore ordinary clothes. They followed close beside him with humility, showing him respect.
 
@@ -96,9 +96,9 @@ Sundaralingam asked, gripping Bharathan by the shoulder and shaking him!
 
 At that moment Maruthan and Bharathan were struggling desperately to control the boat. Both had become afraid that it might capsize at any moment.
 
-It seemed as though the storm, with its cruel hands, were scooping up the whole sea and hurling it upon the mass of clouds—and as though a little coconut-shell bowl were tossing helplessly up and down in it: such were that scene and that boat!
+It seemed as though the storm, with its cruel hands, was scooping up the whole sea and hurling it upon the mass of clouds—and as though a little coconut-shell bowl were tossing helplessly up and down in it: such were that scene and that boat!
 
-The same condition continued until dawn! Only many nazhigai after daybreak did the storm and rain subside, and the three men realised with joy that they had drawn close to Mullaitheevu.
+The same condition continued until dawn! It was only many nazhigai after daybreak that the storm and rain subsided, and the three men realised with joy that they had drawn close to Mullaitheevu.
 
 Sundaralingam could not contain his excitement! Sitting in the boat, he stretched his arms around Maruthan and Bharathan on either side and embraced them. “Comrades! I can never forget your service! Nor can I forget your courage!” he praised them.
 
@@ -106,7 +106,7 @@ Sundaralingam could not contain his excitement! Sitting in the boat, he stretche
 
 <!-- source boundary: scan 26 → scan 27 -->
 
-“This is a letter written in the own hand of Vellaiyathevan, commander of Panchalankurichi. If I reveal what is in it, I will become not only a traitor to the country but a traitor to my friend as well,” said Sundaralingam.
+“This is a letter written in Vellaiyathevan's own hand, commander of Panchalankurichi. If I reveal what is in it, I will become not only a traitor to the country but a traitor to my friend as well,” said Sundaralingam.
 
 “Don't reveal the contents! You mustn't! But can't you at least tell us, your friends of so long whom you trust, who the letter is addressed to? The reason we ask is this: if something suddenly happens to you, shouldn't we deliver the letter to the proper addressee?”
 
