@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**ACTIVE / AUTHORIZED — PASS 1 IN PROGRESS — 10/30 TEXT-COMPLETE**
+**ACTIVE / AUTHORIZED — PASS 1 IN PROGRESS — 20/30 TEXT-COMPLETE**
 
 - local PDF pages: **30**;
 - canonical overall scans: **31–60**;
@@ -14,11 +14,9 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 - SHA-256: **PENDING**;
 - controlling representation: **rendered source page images**;
 - source family: **TVA_BOK_0065744**;
-- work: **பாயும்புலி பண்டாரக வன்னியன்**;
-- author: **கலைஞர் மு. கருணாநிதி**;
 - Part002 local page 1 = overall scan **31**;
 - Part002 local page 30 = overall scan **60**;
-- canonical `scan_page` remains the overall **1–477** sequence.
+- canonical `scan_page` remains the global **1–477** sequence.
 
 ## Boundary state
 
@@ -27,25 +25,16 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 No text is reconstructed across a split boundary.
 
-## Canonical page provenance
-
-Every Part002 page record preserves:
-
-```yaml
-part: 2
-part_page: <1-30>
-source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf"
-```
-
 ## Current gate
 
 Part001 final closure is **PASS / CLOSED / FROZEN**.
 
 Part002:
-- canonical page records — **10/30 — scans31–40**;
-- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**;
-- scans31–40 — **COMPLETE for Pass 1**;
-- scans41–60 — **PENDING Pass 1**;
+- canonical page records — **20/30 — scans31–50**;
+- Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**;
+- scans31–40 — **Batch 1 COMPLETE**;
+- scans41–50 — **Batch 2 COMPLETE**;
+- scans51–60 — **PENDING Pass 1**;
 - Pass 2A / Pass 2B / Pass 3 — **NOT STARTED**;
 - assembled Tamil / English — **NOT STARTED**.
 
@@ -54,6 +43,8 @@ Durable tracker:
 
 ## Exact next activity
 
-Perform Part002 Pass 1 for **global scans41–50 / local pages11–20** using this source only.
+Perform Part002 Pass 1 for **global scans51–60 / local pages21–30** using this source only.
+
+Preserve the physical scan50 ending `பாஞ்சாலங்குறிச்சி`; do not infer scan51 text before inspecting scan51. Audit the outgoing 60→61 boundary according to the multipart boundary rule when closing the final Pass-1 batch.
 
 Do not begin Pass 2A until Pass 1 covers global scans31–60.
