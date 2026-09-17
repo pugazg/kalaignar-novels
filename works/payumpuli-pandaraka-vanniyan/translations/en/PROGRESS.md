@@ -2,14 +2,14 @@
 
 ## Overall state
 
-**E2 SOURCE-CHECKED / COMPLETE — E3 NEXT**
+**E3 SOURCE-CHECKED / COMPLETE — E4 NEXT**
 
 | Batch | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
 | **E1** | sections 00–04: front matter + `அணிந்துரை` + `பதிப்புரை` + epigraph + title divider | **1–12** | **SOURCE-CHECKED / COMPLETE** |
 | **E2** | section 05: `தோரண வாயில்` | **13–20** | **SOURCE-CHECKED / COMPLETE** |
-| **E3** | section 06: `ஒரு இரகசியக் கடிதம்!` | **21–27** | **NEXT / NOT STARTED** |
-| **E4** | section 07: `வழியில் கண்ட வயோதிகர்!` | **28–30** | BLOCKED |
+| **E3** | section 06: `ஒரு இரகசியக் கடிதம்!` | **21–27** | **SOURCE-CHECKED / COMPLETE** |
+| **E4** | section 07: `வழியில் கண்ட வயோதிகர்!` | **28–30** | **NEXT / NOT STARTED** |
 | Glossary | whole-Part reconciliation | 1–30 | BLOCKED |
 | Editorial | whole-Part English editorial review | 1–30 | BLOCKED |
 | Bilingual | whole-Part bilingual review | 1–30 | BLOCKED |
@@ -19,8 +19,8 @@
 
 - Tamil canonical pages — **30/30 verified**
 - Tamil assembled files — **8/8 VERIFIED**
-- English translated files — **6/8**
-- English source-checked files — **6/8**
+- English translated files — **7/8**
+- English source-checked files — **7/8**
 - unresolved English holds — **0**
 - canonical Tamil edits caused by English — **0**
 - Part002 English/Tamil content imported — **0**
@@ -73,6 +73,21 @@ Canonical Tamil edits caused by E2: **0**.
 
 Detailed record: `E2_SOURCE_CHECK.md`.
 
+## E3 closure
+
+Created and source-checked:
+
+- `sections/06-a-secret-letter.md`
+- `E3_SOURCE_CHECK.md`
+
+E3 result: **SOURCE-CHECKED / COMPLETE**.
+
+E3 unresolved holds: **0**.
+
+Canonical Tamil edits caused by E3: **0**.
+
+Detailed record: `E3_SOURCE_CHECK.md`.
+
 ## Boundary lock
 
 - Part001 final source scan — **30 / printed19**
@@ -83,6 +98,8 @@ Detailed record: `E2_SOURCE_CHECK.md`.
 
 ## Exact next activity
 
-**English Draft Batch E3 — `ஒரு இரகசியக் கடிதம்!` / scans21–27**, followed by its E3 source-check.
+**English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30**, followed by its E4 source-check.
 
-Do not begin E4, glossary reconciliation, editorial review, release/readiness, final Part closure or Part002 transcription until E3 closes.
+E4 must preserve the Part001 open ending at scan30 and must not import scan31.
+
+Do not begin glossary reconciliation, editorial review, release/readiness, final Part closure or Part002 transcription until E4 closes.

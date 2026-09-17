@@ -1,6 +1,6 @@
 # English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **E2 SOURCE-CHECKED / INITIAL LOCK EXTENDED**
+Status: **E3 SOURCE-CHECKED / INITIAL LOCK EXTENDED**
 
 This glossary is derived only from the verified Part001 canonical/assembled Tamil. It contains project translation choices, not external historical or linguistic claims.
 
@@ -63,6 +63,18 @@ Canonical Tamil remains controlling.
 | `அமுதோன்` | **Amudhon** | cover-artist credit |
 | `சுபா சுந்தரம்` | **Subha Sundaram** | photograph credit |
 | `சங்கத்தமிழ்` | **Sangathamizh** | source work title |
+
+## E3 additional names / labels
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `எட்டப்பன்` | **Ettappan** | source personal name / betrayal comparison in dialogue |
+| `பரங்கியர்` | ***Parangiyars*** | retain source-facing group label; do not replace with an externally inferred nationality |
+| `மருதன்` | **Maruthan** | E3 occurrence; preserve distinction from later source `மருது` |
+| `பரதன்` | **Bharathan** | E3 occurrence |
+| `சுந்தரலிங்கம்` | **Sundaralingam** | E3 principal character |
+| `வெள்ளையத்தேவன்` | **Vellaiyathevan** | source commander/name |
+| `குலசேகரம் வைரமுத்து` | **Kulasekaram Vairamuthu** | address form in E3 letter envelope; preserve source `குலசேகரம்` form |
 
 ## E2 additional names / labels
 
@@ -129,6 +141,12 @@ Canonical Tamil remains controlling.
 | Tamil source | English handling | Note |
 |---|---|---|
 | `தோணி` | **boat** | use more specific wording only if source context requires it |
+| `வேட்டி` | **veshti** | source-facing clothing term in E3 |
+| `ஜரிகை` | **zari** | source-facing textile term in E3; no external explanation added |
+| `கட்டுமரம்` | ***kattumaram*** | retain source metaphor/wordplay in E3 dialogue rather than replacing it with an external technical label |
+| `நாழிகை` | ***nazhigai*** | retain source time-unit term; do not supply an external modern conversion |
+| `ராஜாங்க ரகசியம்` | **state secret** | direct contextual rendering |
+| `குடி முழுகிவிடாது` | **the whole household won't drown** | preserve source idiom/metaphor in E3 rather than silently domesticating it |
 | `நாட்டுப் பாடல்` | **folk song** | |
 | `பரணி` | ***parani*** | retain source literary label; do not add outside genre history inside translation |
 | `முத்தமிழ் விழா` | **Muthamizh festival** | retain source-facing cultural label |
@@ -193,3 +211,16 @@ The source's parenthetical chronology `ஆறு ஆண்டுகளுக்�
 The source slogan `உண்டேல் சுதந்திரம், இன்றேல் இல்லை வாழ்வு!` is elliptical; E2 preserves that ellipsis conservatively as **“If there is freedom; if not, there is no life!”** rather than supplying an unstated clause.
 
 E2 unresolved holds: **0**.
+
+
+## E3 source-check note
+
+E3 drafting/source-check used only the verified `ஒரு இரகசியக் கடிதம்!` Tamil and existing project controls.
+
+The source's political/historical framing, caste/community description, betrayal references and dialogue are translated as narrator/character source voice, not as project judgments.
+
+Source-facing terms intentionally retained in E3 include *Parangiyars*, *kattumaram* and *nazhigai*. No external nationality, vessel taxonomy or modern time conversion was inserted.
+
+The four-line `வானம் பொழியுது...` song is translated from the project Tamil only; no remembered or published English version was imported.
+
+E3 unresolved holds: **0**.

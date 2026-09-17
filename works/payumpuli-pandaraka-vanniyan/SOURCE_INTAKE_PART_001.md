@@ -79,9 +79,10 @@ Current Pass-1 state:
 - assembled Tamil: **PASS / CLOSED — 8/8 section files VERIFIED**;
 - English E1: **SOURCE-CHECKED / COMPLETE**;
 - English E2: **SOURCE-CHECKED / COMPLETE**;
-- English translated/source-checked files: **6/8**;
+- English E3: **SOURCE-CHECKED / COMPLETE**;
+- English translated/source-checked files: **7/8**;
 - unresolved English holds: **0**;
-- English next: **E3 / `ஒரு இரகசியக் கடிதம்!` / scans21–27**;
+- English next: **E4 / `வழியில் கண்ட வயோதிகர்!` / scans28–30**;
 - outgoing boundary **30→31**: **GENUINE CONTINUATION / AUDITED** using Part002 local1 as a boundary witness only.
 
 Authoritative tracker:
@@ -90,4 +91,4 @@ Authoritative tracker:
 - `PART_001_PASS2B_PROGRESS.md`
 - `PART_001_PASS3_PROGRESS.md`
 
-**Next:** perform **English Draft Batch E3 — `ஒரு இரகசியக் கடிதம்!` / scans21–27**, then complete its E3 source-check before E4. Do not begin glossary reconciliation, editorial review, release/readiness, final Part closure, or Part002 transcription yet.
+**Next:** perform **English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30**, then complete its E4 source-check. Preserve the 30→31 open continuation and do not import scan31. Do not begin glossary reconciliation, editorial review, release/readiness, final Part closure, or Part002 transcription yet.

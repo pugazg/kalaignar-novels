@@ -4,18 +4,19 @@ English translation workspace for Part001 of **பாயும்புலி �
 
 ## Current status
 
-**E2 SOURCE-CHECKED / COMPLETE — E3 NEXT**
+**E3 SOURCE-CHECKED / COMPLETE — E4 NEXT**
 
 - Tamil canonical authority — **30/30 verified**
 - assembled Tamil reading layer — **8/8 VERIFIED / PASS / CLOSED**
-- English translated section files — **6/8**
-- English source-checked section files — **6/8**
+- English translated section files — **7/8**
+- English source-checked section files — **7/8**
 - unresolved English holds — **0**
 - canonical Tamil changes caused by English — **0**
 - Part002 content imported — **0**
 - E1 — **SOURCE-CHECKED / COMPLETE**
 - E2 — **SOURCE-CHECKED / COMPLETE**
-- exact next activity — **E3 draft / `ஒரு இரகசியக் கடிதம்!` / scans21–27**
+- E3 — **SOURCE-CHECKED / COMPLETE**
+- exact next activity — **E4 draft / `வழியில் கண்ட வயோதிகர்!` / scans28–30**
 
 ## Authority
 
@@ -34,6 +35,7 @@ No published, web, remembered or standard English translation is used as authori
 - `PROGRESS.md` — live English frontier
 - `E1_SOURCE_CHECK.md` — E1 closure record
 - `E2_SOURCE_CHECK.md` — E2 closure record
+- `E3_SOURCE_CHECK.md` — E3 closure record
 
 Later maintained controls will include:
 
@@ -57,7 +59,7 @@ The English layer will eventually represent all **8** verified Part001 Tamil ass
 | `06-oru-iragasiyak-kaditham.md` | 21–27 | E3 |
 | `07-vazhiyil-kanda-vayothigar.md` | 28–30 | E4 |
 
-English translated/source-checked section files now present: **6/8** — E1 plus `தோரண வாயில்` / scans13–20.
+English translated/source-checked section files now present: **7/8** — E1, E2 and `ஒரு இரகசியக் கடிதம்!` / scans21–27.
 
 ## Part boundary
 
@@ -71,6 +73,6 @@ Scan31 is Part002 and must not be imported or translated in Part001. English mus
 
 ## Exact next activity
 
-**English Draft Batch E3 — `ஒரு இரகசியக் கடிதம்!` / scans21–27**, followed by its source-check.
+**English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30**, followed by its source-check.
 
-E4 remains blocked until E3 closes.
+The Part001 open boundary at scan30 must be preserved; scan31 must not be imported.

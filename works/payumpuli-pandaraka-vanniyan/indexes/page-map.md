@@ -523,8 +523,9 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part001 assembled Tamil: **PASS / CLOSED — 8/8 section files VERIFIED**
 - Part001 English E1: **SOURCE-CHECKED / COMPLETE**
 - Part001 English E2: **SOURCE-CHECKED / COMPLETE**
-- Part001 English translated/source-checked files: **6/8**
-- Part001 English next: **E3 / `ஒரு இரகசியக் கடிதம்!` / scans21–27**
+- Part001 English E3: **SOURCE-CHECKED / COMPLETE**
+- Part001 English translated/source-checked files: **7/8**
+- Part001 English next: **E4 / `வழியில் கண்ட வயோதிகர்!` / scans28–30**
 - audited outgoing boundary: **30→31 GENUINE CONTINUATION**
 - Part002 transcription: **BLOCKED until Part001 final closure**
 
@@ -532,8 +533,8 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-English E2 is **SOURCE-CHECKED / COMPLETE**.
+English E3 is **SOURCE-CHECKED / COMPLETE**.
 
-Proceed with **English Draft Batch E3 — `ஒரு இரகசியக் கடிதம்!` / scans21–27**. The canonical page map remains source-provenance authority and must not be altered by English drafting.
+Proceed with **English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30**. Preserve the open scan30→31 boundary and do not import scan31. The canonical page map remains source-provenance authority and must not be altered by English drafting.
 
 Part002 transcription remains blocked.
