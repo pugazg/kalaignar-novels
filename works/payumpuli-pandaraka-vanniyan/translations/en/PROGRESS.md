@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**RELEASE/READINESS REPORT — PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
+**RELEASE-READY SYNCHRONIZATION — PASS / CLOSED — FINAL PART001 CLOSURE NEXT**
 
 | Gate / batch | Coverage | Scans | Status |
 |---|---|---:|---|
@@ -14,7 +14,8 @@
 | Editorial | whole-Part English editorial review | 1–30 | **PASS / CLOSED** |
 | Bilingual | whole-Part bilingual review | 1–30 | **PASS / CLOSED** |
 | Release | release/readiness report | 1–30 | **PASS / CLOSED** |
-| Release sync | release-ready synchronization | 1–30 | **NEXT / NOT STARTED** |
+| Release sync | release-ready synchronization | 1–30 | **PASS / CLOSED** |
+| Final closure | Part001 final closure | 1–30 | **NEXT / NOT STARTED** |
 
 ## Current counts
 
@@ -32,12 +33,12 @@
 - unresolved editorial holds — **0**
 - unresolved bilingual holds — **0**
 - unresolved release/readiness blockers — **0**
-- canonical Tamil edits caused by English — **0**
+- canonical Tamil edits caused by English/release synchronization — **0**
 - Part002 English/Tamil content imported — **0**
 - whole-Part bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **NEXT / NOT STARTED**
-- final Part001 closure — **BLOCKED**
+- release-ready synchronization — **PASS / CLOSED**
+- final Part001 closure — **NEXT / NOT STARTED**
 
 ## E1–E4 closure
 
@@ -54,93 +55,15 @@ Created/source-checked English coverage:
 
 E1–E4 result: **SOURCE-CHECKED / COMPLETE — 8/8**.
 
-Detailed records: `E1_SOURCE_CHECK.md`, `E2_SOURCE_CHECK.md`, `E3_SOURCE_CHECK.md`, `E4_SOURCE_CHECK.md`.
+## Closed whole-Part gates
 
-## Whole-Part glossary reconciliation
+- glossary reconciliation — `GLOSSARY_RECONCILIATION.md` — **RECONCILED / PASS**
+- English editorial review — `TRANSLATION_REVIEW.md` — **PASS / CLOSED**
+- bilingual review — `BILINGUAL_REVIEW.md` — **PASS / CLOSED**
+- release/readiness — `RELEASE_REPORT.md` — **PASS / CLOSED**
+- release-ready synchronization — `../../PART_001_RELEASE_READY_SYNC.md` — **PASS / CLOSED**
 
-Durable record:
-
-- `GLOSSARY_RECONCILIATION.md`
-
-Result: **WHOLE-PART GLOSSARY — RECONCILED / PASS**.
-
-Findings:
-
-- English sections checked — **8/8**;
-- English-only section corrections required by glossary reconciliation — **0**;
-- unresolved glossary holds — **0**;
-- canonical Tamil edits caused by reconciliation — **0**;
-- Part002 content imported — **0**.
-
-Deliberate source variants remain preserved, including **Pandara/Pandaraka**, **Kulasekara/Kulasekaram**, **Maruthan/Maruthu**, **Bharathan/Bharatha**, source honorific variants, and source spacing variants.
-
-## English editorial review
-
-Durable record:
-
-- `TRANSLATION_REVIEW.md`
-
-Result: **ENGLISH EDITORIAL REVIEW — PASS / CLOSED**.
-
-Coverage/findings:
-
-- English files reviewed — **8/8**;
-- files with prose edits — **3/8**;
-- files reviewed textually unchanged — **5/8**;
-- substantive English-only corrections — **8**;
-- unresolved editorial holds — **0**;
-- canonical Tamil edits caused by editorial review — **0**;
-- Part002 content imported — **0**.
-
-Edited English files:
-
-- `sections/02-publishers-note.md`
-- `sections/05-thorana-vayil.md`
-- `sections/06-a-secret-letter.md`
-
-The edits are limited to source-safe English syntax/readability. Quotation/verse/song structure, source rhetoric, deliberate source variants, speaker/narrator agency and chronology remain protected.
-
-## Whole-Part bilingual review
-
-Durable record:
-
-- `BILINGUAL_REVIEW.md`
-
-Result: **WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED**.
-
-Coverage/findings:
-
-- Tamil/English section pairs reviewed — **8/8**;
-- scan coverage — **1–30 exactly**;
-- eight editorial corrections rechecked against Tamil basis — **8/8 PASS**;
-- English-only corrections newly required by bilingual review — **0**;
-- unresolved bilingual holds — **0**;
-- canonical Tamil edits caused by bilingual review — **0**;
-- Part002 content imported — **0**.
-
-Meaning, speaker/narrator agency, chronology, knowledge state, quotation/verse/song/display structure, deliberate source variants and source-facing vocabulary remain aligned.
-
-## Release / readiness report
-
-Durable record:
-
-- `RELEASE_REPORT.md`
-
-Result: **RELEASE/READINESS REPORT — PASS / CLOSED**.
-
-Confirmed:
-
-- Tamil canonical coverage — **30/30 verified**;
-- assembled Tamil — **8/8 VERIFIED / PASS / CLOSED**;
-- English coverage — **8/8**;
-- bilingual alignment — **PASS / CLOSED**;
-- glossary consistency — **PASS**;
-- unresolved release/readiness blockers — **0**;
-- active-work source-PDF paths in live Git tree — **0**;
-- canonical Tamil edits caused by release/readiness — **0**;
-- Part002 content imported — **0**.
-
-Part001 is ready for the separate **release-ready synchronization** gate; this does not yet constitute final Part001 closure.
+No closed gate required a canonical Tamil edit. Part002 leakage remains **0**.
 
 ## Boundary lock
 
@@ -154,6 +77,10 @@ Part001 is ready for the separate **release-ready synchronization** gate; this d
 
 ## Exact next activity
 
-**release-ready synchronization** for Part001.
+Perform **Part001 final closure** only.
 
-Do not begin final Part001 closure or Part002 transcription until release-ready synchronization closes.
+Create and verify:
+
+`../../PART_001_FINAL_CLOSURE.md`
+
+Do not begin Part002 transcription until that final-closure gate passes.
