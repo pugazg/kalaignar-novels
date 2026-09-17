@@ -1,0 +1,40 @@
+---
+scan_page: 41
+part: 2
+part_page: 11
+printed_page: 30
+work: "payumpuli-pandaraka-vanniyan"
+section: "குருவிச்சி நாச்சியார்"
+page_type: "body"
+status: "needs-review"
+visual_fidelity: "needs-review"
+language: "ta"
+source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans41–50"
+---
+
+# குருவிச்சி நாச்சியார்
+
+## Source transcription
+
+கேட்டதும் குருவிச்சி நாச்சி, குதிரையிலிருந்தவாறே திடுக்கிட்டாள். “அடடே! அவர் வந்துவிட்டாரா!” என அவளது வாய் முணுமுணுத்தது! ஒருகணம்கூட அங்கு தாமதிக்க விரும்பாமல் குதிரையைக் கண்ணகி கோயிலுக்குச் செல்லும் வழியில் திருப்பிச் செலுத்தினாள். குதிரை அவளைத் தூக்கிக் கொண்டு பறந்தது.
+
+“யார் இந்தப் பெண்மணி? நம்மை ஆபத்திலிருந்து காப்பாற்றினாள் - நாமும் அவளை ஆபத்திலிருந்து காப்பாற்றினோம்! ஆனால் ஒரு வார்த்தைகூட விசாரிக்காமல் போய்விட்டாளே!” என்று சுந்தரலிங்கம் தனக்குத்தானே சொல்லிக் கொண்டு சுற்றும் முற்றும் பார்த்தான். அப்போது அவனை நோக்கி வேலும், வாளும், ஈட்டியும் தாங்கிய வீரர்கள் பத்து பேர் வந்தார்கள். “இவர்கள் யார் திடீரென்று?” எனச் சுந்தரலிங்கம் சிந்திப்பதற்குள்ளாக அந்த வீரர்கள் அவனைச் சூழ்ந்து கொண்டுவிட்டனர். அவர்களில் தலைமை வீரன் மற்றவர்களைப் பார்த்து “இவனைக் கைது செய்யுங்கள்!” என்று கட்டளையிட்டான்.
+
+“என்னை ஏன் கைது செய்யவேண்டும்?” என்று சுந்தரலிங்கம், எரிச்சலுடன் கேட்டான்.
+
+“அரசுக்கு சொந்தமான காட்டு யானையைக் கொன்றிருக்கிறாய்! இது மிகப்பெரிய குற்றம்! அதனால்தான் உன்னைக் கைது செய்கிறோம்!”
+
+“நான் சொல்வதைக் கேளுங்கள்!”
+
+“பேச்சு தேவையில்லை! பேசாமல் எங்களுடன் வா!”
+
+## Pass 1 notes
+
+- complete printed Tamil text on this physical scan was transcribed directly from the user-supplied controlling source pixels;
+- source wording, punctuation, paragraph/dialogue structure and page-end state are preserved;
+- scan40→41 continues the open `எனவே அந்தப் பெரிய மணி ஓசை` into the opening action on this page without modifying scan40;
+- no web transcription, alternate edition or later-page reconstruction was used as authority;
+- formal Part002 Pass 2A / Pass 2B / Pass 3 are not started; this record remains `needs-review`.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 41; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 11; அச்சுப் பக்கம்: 30; PASS 1 TEXT-COMPLETE / needs-review -->
