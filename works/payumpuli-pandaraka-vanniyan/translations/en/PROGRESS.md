@@ -2,15 +2,15 @@
 
 ## Overall state
 
-**E3 SOURCE-CHECKED / COMPLETE — E4 NEXT**
+**E4 SOURCE-CHECKED / COMPLETE — 8/8 ENGLISH COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 | Batch | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
 | **E1** | sections 00–04: front matter + `அணிந்துரை` + `பதிப்புரை` + epigraph + title divider | **1–12** | **SOURCE-CHECKED / COMPLETE** |
 | **E2** | section 05: `தோரண வாயில்` | **13–20** | **SOURCE-CHECKED / COMPLETE** |
 | **E3** | section 06: `ஒரு இரகசியக் கடிதம்!` | **21–27** | **SOURCE-CHECKED / COMPLETE** |
-| **E4** | section 07: `வழியில் கண்ட வயோதிகர்!` | **28–30** | **NEXT / NOT STARTED** |
-| Glossary | whole-Part reconciliation | 1–30 | BLOCKED |
+| **E4** | section 07: `வழியில் கண்ட வயோதிகர்!` | **28–30** | **SOURCE-CHECKED / COMPLETE** |
+| Glossary | whole-Part reconciliation | 1–30 | **NEXT / NOT STARTED** |
 | Editorial | whole-Part English editorial review | 1–30 | BLOCKED |
 | Bilingual | whole-Part bilingual review | 1–30 | BLOCKED |
 | Release | release/readiness report | 1–30 | BLOCKED |
@@ -19,8 +19,8 @@
 
 - Tamil canonical pages — **30/30 verified**
 - Tamil assembled files — **8/8 VERIFIED**
-- English translated files — **7/8**
-- English source-checked files — **7/8**
+- English translated files — **8/8**
+- English source-checked files — **8/8**
 - unresolved English holds — **0**
 - canonical Tamil edits caused by English — **0**
 - Part002 English/Tamil content imported — **0**
@@ -88,6 +88,23 @@ Canonical Tamil edits caused by E3: **0**.
 
 Detailed record: `E3_SOURCE_CHECK.md`.
 
+## E4 closure
+
+Created and source-checked:
+
+- `sections/07-the-old-man-met-on-the-way.md`
+- `E4_SOURCE_CHECK.md`
+
+E4 result: **SOURCE-CHECKED / COMPLETE**.
+
+E4 unresolved holds: **0**.
+
+Canonical Tamil edits caused by E4: **0**.
+
+Part001 English draft + per-batch source-check coverage: **8/8 COMPLETE**.
+
+Detailed record: `E4_SOURCE_CHECK.md`.
+
 ## Boundary lock
 
 - Part001 final source scan — **30 / printed19**
@@ -98,8 +115,6 @@ Detailed record: `E3_SOURCE_CHECK.md`.
 
 ## Exact next activity
 
-**English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30**, followed by its E4 source-check.
+**Whole-Part English glossary reconciliation** across all **8/8** source-checked English section files and the canonical/assembled Tamil authority.
 
-E4 must preserve the Part001 open ending at scan30 and must not import scan31.
-
-Do not begin glossary reconciliation, editorial review, release/readiness, final Part closure or Part002 transcription until E4 closes.
+Do not begin editorial review, whole-Part bilingual review, release/readiness, final Part closure or Part002 transcription until glossary reconciliation closes.

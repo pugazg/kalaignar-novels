@@ -149,6 +149,6 @@ Part001 assembled Tamil is now **PASS / CLOSED**.
 
 ## Exact next gate
 
-English E1, E2 and E3 are **SOURCE-CHECKED / COMPLETE**. Begin **English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30** and complete its source-check while preserving the open 30→31 boundary without importing scan31.
+English E1–E4 are **SOURCE-CHECKED / COMPLETE — 8/8**. The open 30→31 boundary remains preserved without importing scan31. Begin **whole-Part English glossary reconciliation**.
 
 Do not begin Part002 transcription. Part002 remains blocked until Part001 English, release/readiness and final Part closure are complete.

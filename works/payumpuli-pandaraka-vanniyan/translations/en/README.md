@@ -4,19 +4,20 @@ English translation workspace for Part001 of **பாயும்புலி �
 
 ## Current status
 
-**E3 SOURCE-CHECKED / COMPLETE — E4 NEXT**
+**E4 SOURCE-CHECKED / COMPLETE — 8/8 ENGLISH COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 - Tamil canonical authority — **30/30 verified**
 - assembled Tamil reading layer — **8/8 VERIFIED / PASS / CLOSED**
-- English translated section files — **7/8**
-- English source-checked section files — **7/8**
+- English translated section files — **8/8**
+- English source-checked section files — **8/8**
 - unresolved English holds — **0**
 - canonical Tamil changes caused by English — **0**
 - Part002 content imported — **0**
 - E1 — **SOURCE-CHECKED / COMPLETE**
 - E2 — **SOURCE-CHECKED / COMPLETE**
 - E3 — **SOURCE-CHECKED / COMPLETE**
-- exact next activity — **E4 draft / `வழியில் கண்ட வயோதிகர்!` / scans28–30**
+- E4 — **SOURCE-CHECKED / COMPLETE**
+- exact next activity — **whole-Part English glossary reconciliation**
 
 ## Authority
 
@@ -36,6 +37,7 @@ No published, web, remembered or standard English translation is used as authori
 - `E1_SOURCE_CHECK.md` — E1 closure record
 - `E2_SOURCE_CHECK.md` — E2 closure record
 - `E3_SOURCE_CHECK.md` — E3 closure record
+- `E4_SOURCE_CHECK.md` — E4 closure record
 
 Later maintained controls will include:
 
@@ -59,7 +61,7 @@ The English layer will eventually represent all **8** verified Part001 Tamil ass
 | `06-oru-iragasiyak-kaditham.md` | 21–27 | E3 |
 | `07-vazhiyil-kanda-vayothigar.md` | 28–30 | E4 |
 
-English translated/source-checked section files now present: **7/8** — E1, E2 and `ஒரு இரகசியக் கடிதம்!` / scans21–27.
+English translated/source-checked section files now present: **8/8** — all Part001 assembled Tamil sections are represented and source-checked.
 
 ## Part boundary
 
@@ -73,6 +75,6 @@ Scan31 is Part002 and must not be imported or translated in Part001. English mus
 
 ## Exact next activity
 
-**English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30**, followed by its source-check.
+**Whole-Part English glossary reconciliation** across the complete **8/8** English layer.
 
-The Part001 open boundary at scan30 must be preserved; scan31 must not be imported.
+The Part001 open boundary at scan30 remains preserved; scan31 remains excluded.

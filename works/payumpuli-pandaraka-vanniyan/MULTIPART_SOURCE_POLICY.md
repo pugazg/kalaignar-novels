@@ -112,14 +112,15 @@ Authoritative work-specific guide:
 - Part001 English E1: **SOURCE-CHECKED / COMPLETE**
 - Part001 English E2: **SOURCE-CHECKED / COMPLETE**
 - Part001 English E3: **SOURCE-CHECKED / COMPLETE**
-- Part001 English translated/source-checked files: **7/8**
+- Part001 English E4: **SOURCE-CHECKED / COMPLETE**
+- Part001 English translated/source-checked files: **8/8**
 - unresolved English holds: **0**
-- Part001 English: **E4 NEXT — `வழியில் கண்ட வயோதிகர்!` / scans28–30**
+- Part001 English: **GLOSSARY RECONCILIATION NEXT**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 English/release: **BLOCKED**
 - Part002 transcription: **BLOCKED until Part001 final closure**
 - split-boundary classifications: **1 / 15 audited — 30→31 GENUINE CONTINUATION**
-- exact active gate: **English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30**
+- exact active gate: **whole-Part English glossary reconciliation**
 
 ## Batch-size policy
 

@@ -1,6 +1,6 @@
 # English Translation Plan — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **E3 SOURCE-CHECKED / COMPLETE — E4 NEXT**
+Status: **E4 SOURCE-CHECKED / COMPLETE — 8/8 ENGLISH COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -158,7 +158,7 @@ Batches follow the already-verified Tamil section boundaries.
 | **E1** | sections 00–04: front matter + `அணிந்துரை` + `பதிப்புரை` + epigraph + title divider | **1–12** | **SOURCE-CHECKED / COMPLETE** |
 | **E2** | section 05: `தோரண வாயில்` | **13–20** | **SOURCE-CHECKED / COMPLETE** |
 | **E3** | section 06: `ஒரு இரகசியக் கடிதம்!` | **21–27** | **SOURCE-CHECKED / COMPLETE** |
-| **E4** | section 07: `வழியில் கண்ட வயோதிகர்!` | **28–30** | **NEXT / NOT STARTED** |
+| **E4** | section 07: `வழியில் கண்ட வயோதிகர்!` | **28–30** | **SOURCE-CHECKED / COMPLETE** |
 
 Each batch must complete its draft and source-check before the next batch becomes active.
 
@@ -249,8 +249,18 @@ E3 — `ஒரு இரகசியக் கடிதம்!` / scans21–27 �
 
 Detailed closure: `E3_SOURCE_CHECK.md`.
 
+## E4 closure
+
+E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30 — is **SOURCE-CHECKED / COMPLETE** with **0 unresolved holds** and **0 canonical Tamil edits**.
+
+The open scan30 fragment is preserved and scan31 is not imported.
+
+Part001 English draft + per-batch source-check coverage is **8/8 COMPLETE**.
+
+Detailed closure: `E4_SOURCE_CHECK.md`.
+
 ## Exact next activity
 
-**English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30**, followed by its E4 source-check.
+**Whole-Part English glossary reconciliation** across E1–E4 / scans1–30.
 
-Preserve the source-open scan30 ending and do not import scan31. Do not begin glossary reconciliation until E4 closes.
+Do not begin editorial review until glossary reconciliation closes.

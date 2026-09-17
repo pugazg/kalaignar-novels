@@ -95,8 +95,9 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part001 English E1: **SOURCE-CHECKED / COMPLETE**
 - Part001 English E2: **SOURCE-CHECKED / COMPLETE**
 - Part001 English E3: **SOURCE-CHECKED / COMPLETE**
-- Part001 English translated/source-checked files: **7/8**
-- Part001 English next: **E4 / `வழியில் கண்ட வயோதிகர்!` / scans28–30**
+- Part001 English E4: **SOURCE-CHECKED / COMPLETE**
+- Part001 English translated/source-checked files: **8/8**
+- Part001 English next: **whole-Part glossary reconciliation**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 assembled Tamil: **BLOCKED**
 - Part001 English / release-readiness: **BLOCKED**
@@ -115,6 +116,6 @@ Authoritative live trackers:
 
 ## Exact next activity
 
-English E3 is **SOURCE-CHECKED / COMPLETE**.
+Part001 English E1–E4 are **SOURCE-CHECKED / COMPLETE — 8/8**.
 
-Proceed with **English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30**. Preserve the Part001 open ending and do not import scan31. Part002 remains source-registered / transcription-blocked until Part001 final closure.
+Proceed with **whole-Part English glossary reconciliation**. Part002 remains source-registered / transcription-blocked until Part001 final closure.

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part001 English E4 Draft + Source-Check
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part001 Whole-Part English Glossary Reconciliation
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -14,9 +14,9 @@ Read first, in this order:
 6. `works/payumpuli-pandaraka-vanniyan/translations/en/E1_SOURCE_CHECK.md`
 7. `works/payumpuli-pandaraka-vanniyan/translations/en/E2_SOURCE_CHECK.md`
 8. `works/payumpuli-pandaraka-vanniyan/translations/en/E3_SOURCE_CHECK.md`
-9. `works/payumpuli-pandaraka-vanniyan/sections/07-vazhiyil-kanda-vayothigar.md`
-10. `works/payumpuli-pandaraka-vanniyan/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
-11. `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
+9. `works/payumpuli-pandaraka-vanniyan/translations/en/E4_SOURCE_CHECK.md`
+10. all 8 English files under `works/payumpuli-pandaraka-vanniyan/translations/en/sections/`
+11. all 8 PASSED Tamil files under `works/payumpuli-pandaraka-vanniyan/sections/`
 12. root `HANDOVER.md`
 
 ## Current authoritative state
@@ -24,110 +24,76 @@ Read first, in this order:
 - Tamil canonical pages — **30/30 verified**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 8/8 VERIFIED**
-- English planning/setup — **COMPLETE**
-- E1 — **SOURCE-CHECKED / COMPLETE**
-- E2 — **SOURCE-CHECKED / COMPLETE**
-- E3 — **SOURCE-CHECKED / COMPLETE**
-- English translated files — **7/8**
-- English source-checked files — **7/8**
+- English E1 — **SOURCE-CHECKED / COMPLETE**
+- English E2 — **SOURCE-CHECKED / COMPLETE**
+- English E3 — **SOURCE-CHECKED / COMPLETE**
+- English E4 — **SOURCE-CHECKED / COMPLETE**
+- English translated files — **8/8**
+- English source-checked files — **8/8**
 - unresolved English holds — **0**
 - canonical Tamil edits caused by English — **0**
 - Part002 transcription — **BLOCKED**
 
-English authority hierarchy remains:
+The Part001 English draft/per-batch source-check layer is complete.
 
-1. canonical `pages/` — controlling Tamil;
-2. PASSED `sections/` — normal continuous reading layer;
-3. `translations/en/` — derived project-created English only.
-
-Do not use published, web, remembered or standard English translations as authority.
-
-## Exact next activity — E4 draft + source-check
-
-Process **E4 only**.
-
-E4 source:
-
-`works/payumpuli-pandaraka-vanniyan/sections/07-vazhiyil-kanda-vayothigar.md`
-
-Coverage:
-
-- overall scans **28–30**
-- source section — `வழியில் கண்ட வயோதிகர்!`
-- working English chapter title — **The Old Man Met on the Way!**
-
-Create:
-
-`works/payumpuli-pandaraka-vanniyan/translations/en/sections/07-the-old-man-met-on-the-way.md`
-
-Use the existing English front-matter pattern:
-
-- `language: "en"`
-- `translation_status: "source-checked"` only after the source-check passes
-- `batch: "E4"`
-- source section/scans/canonical-source provenance
-- working title retained
-
-## Translation safeguards
-
-- translate from verified project Tamil only;
-- preserve paragraph order, dialogue order, speaker agency and source rhetoric;
-- preserve names, place names, culture-specific vocabulary and source-facing spellings according to `GLOSSARY.md`;
-- do not modernize, reconcile or fact-correct source wording;
-- do not add external history, geography, biography, botanical identification or political interpretation;
-- preserve source-visible chapter number/title structure;
-- preserve meaningful provenance comments;
-- do not alter canonical Tamil.
-
-## Mandatory terminal-boundary safeguard
-
-This gate must preserve the Part001 terminal incompleteness exactly.
+## Permanent boundary safeguard
 
 - scan30 / printed19 is the final Part001 source page;
 - canonical Tamil ends `அவனுக்கு ஒரே மகிழ்ச்சி,`;
+- English ends visibly open as **“He was filled with joy,”**;
 - **30→31 = GENUINE CONTINUATION**;
-- scan31 belongs to Part002 and is only a boundary witness;
-- **do not import scan31 Tamil**;
-- **do not translate scan31**;
-- **do not invent a completion** for the open sentence/chapter;
-- the E4 English file must end visibly open in a way reversible to scan30.
+- scan31 belongs to Part002;
+- do not import, translate or infer scan31 content.
 
-## E4 source-check
+## Exact next activity — whole-Part glossary reconciliation
 
-After drafting, create:
+Process **glossary reconciliation only**.
 
-`works/payumpuli-pandaraka-vanniyan/translations/en/E4_SOURCE_CHECK.md`
+Reconcile all recurring English choices across E1–E4 / scans1–30 against the canonical/assembled Tamil authority.
 
-Verify:
+Required checks:
 
-1. complete coverage of scans28–30 only;
-2. source-visible chapter number/title retained;
-3. no omitted source paragraph/dialogue/display block;
-4. no duplicate translated block;
-5. speaker/narrator agency preserved;
-6. names/place/culture-specific terms consistent with `GLOSSARY.md`;
-7. no unsupported external identification of flora, places or source-specific vocabulary;
-8. provenance reversible to scans28–30;
-9. scan30 terminal fragment remains open;
-10. scan31 body text imported — **0**;
-11. unsupported explanatory insertions — **0**;
-12. canonical Tamil edits caused by E4 — **0**;
-13. unresolved E4 holds explicitly counted.
+1. personal-name consistency;
+2. source-specific variant preservation, especially:
+   - `பண்டார வன்னியன்` / `பண்டாரக வன்னியன்`;
+   - `மருதன்` / `மருது`;
+   - `குலசேகர வைரமுத்து` / `குலசேகரம் வைரமுத்து`;
+3. place-name consistency;
+4. titles / offices / honorifics;
+5. culture-specific vocabulary;
+6. recurring political/historical vocabulary as source framing;
+7. literary titles and quoted-source labels;
+8. transliteration consistency;
+9. accidental spelling drift across English sections;
+10. source-facing terms retained because an English equivalent would add unsupported meaning;
+11. no glossary-driven canonical Tamil edits;
+12. no Part002 leakage.
 
-If the source-check passes with no blocker, mark E4:
+Create a durable reconciliation record:
 
-**SOURCE-CHECKED / COMPLETE**
+`works/payumpuli-pandaraka-vanniyan/translations/en/GLOSSARY_RECONCILIATION.md`
 
-Then Part001 English draft + per-batch source-check coverage will be **8/8**.
+It must record:
 
-Update live controls so the exact next gate becomes:
+- all reconciled recurring terms;
+- deliberate source variants retained;
+- English-only corrections made, if any;
+- unresolved glossary holds;
+- canonical Tamil edits caused by reconciliation = **0**;
+- Part002 content imported = **0**.
 
-**whole-Part English glossary reconciliation**
+Update `GLOSSARY.md` to a whole-Part reconciled state.
 
-Do not begin that reconciliation in the same iteration.
+If reconciliation passes with **0 unresolved holds**, mark:
+
+**WHOLE-PART GLOSSARY — RECONCILED / PASS**
+
+and update `PROGRESS.md`, English `README.md`, root/work controls and prompts so the exact next gate becomes:
+
+**English editorial review**
 
 ## Stop boundary
 
-After E4 draft + source-check closes, **STOP**.
+After glossary reconciliation closes, **STOP**.
 
-Do **not** begin glossary reconciliation, editorial review, whole-Part bilingual review, release/readiness, final Part closure or Part002 transcription in the same iteration unless the user explicitly asks to continue.
+Do **not** begin editorial review, whole-Part bilingual review, release/readiness, final Part closure or Part002 transcription in the same iteration unless the user explicitly asks to continue.

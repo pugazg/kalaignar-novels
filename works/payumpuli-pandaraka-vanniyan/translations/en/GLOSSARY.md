@@ -1,6 +1,6 @@
 # English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **E3 SOURCE-CHECKED / INITIAL LOCK EXTENDED**
+Status: **E4 SOURCE-CHECKED / INITIAL LOCK EXTENDED — WHOLE-PART RECONCILIATION NEXT**
 
 This glossary is derived only from the verified Part001 canonical/assembled Tamil. It contains project translation choices, not external historical or linguistic claims.
 
@@ -91,6 +91,13 @@ Canonical Tamil remains controlling.
 | `மு. சிவசிதம்பரம்` | **M. Sivasithambaram** | source name/initials |
 | `தமிழர் விடுதலைக் கூட்டணி` | **Tamil United Liberation Front** | direct project translation of source organization label; no external institutional claims added |
 
+## E4 additional names / labels
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `மருது` | **Maruthu** | E4 occurrence; preserve distinction from E3 `மருதன்` / **Maruthan** |
+| `பரதா` | **Bharatha** | vocative form in dialogue; base name remains **Bharathan** |
+
 ## Places
 
 | Tamil source | English handling | Note |
@@ -110,6 +117,7 @@ Canonical Tamil remains controlling.
 | `பாஞ்சாலங்குறிச்சி` | **Panchalankurichi** | |
 | `பருத்தித்துறை` | **Paruthithurai** | |
 | `சிலாவத்தைத் துறை` | **Silavathurai** | source-facing project romanization |
+| `அலம்பில் துறை` | **Alampil landing** | source-facing project rendering; no external geographic identification added |
 | `கற்சிலை மடுவு` / `கற்சிலைமடு` | **Karsilai Madu / Karsilaimadu** | preserve the source's own form by occurrence; reconcile English spelling only if needed without altering Tamil |
 | `பனங்காமம்` | **Panangamam** | source place label |
 | `கொழும்பு` | **Kolumbu** | source-facing project romanization in the folk-song passage |
@@ -141,6 +149,10 @@ Canonical Tamil remains controlling.
 | Tamil source | English handling | Note |
 |---|---|---|
 | `தோணி` | **boat** | use more specific wording only if source context requires it |
+| `தோணித்துறை` | **boat landing** | direct contextual rendering in E4 |
+| `திண்ணை` | **veranda** | contextual rendering in E4 |
+| `பந்தல்` | ***pandal*** | retain source-facing architectural/festival term; no external structural explanation added |
+| `விழாக் கோலம்` | **festive appearance / festive dress** | contextual rendering in E4 |
 | `வேட்டி` | **veshti** | source-facing clothing term in E3 |
 | `ஜரிகை` | **zari** | source-facing textile term in E3; no external explanation added |
 | `கட்டுமரம்` | ***kattumaram*** | retain source metaphor/wordplay in E3 dialogue rather than replacing it with an external technical label |
@@ -224,3 +236,18 @@ Source-facing terms intentionally retained in E3 include *Parangiyars*, *kattuma
 The four-line `வானம் பொழியுது...` song is translated from the project Tamil only; no remembered or published English version was imported.
 
 E3 unresolved holds: **0**.
+
+
+## E4 source-check note
+
+E4 drafting/source-check used only the verified `வழியில் கண்ட வயோதிகர்!` Tamil and existing project controls.
+
+The source's place names, house forms, vegetation, storage structures and village details are translated conservatively. No outside botanical, architectural or geographic identification was introduced.
+
+Source-specific plant/tree names already locked in the glossary remain source-facing where needed: *kaaya*, *muthirai*, *vedukkunari*, *pathiri*, *thodai* and *desikkai*. The source's `கொம்பறை` remains *kombarai*, with only the source-supplied contextual gloss “paddy-storage structures.”
+
+The source variation `மருதன்` / `மருது` remains distinct as **Maruthan / Maruthu**.
+
+The final scan30 source fragment `அவனுக்கு ஒரே மகிழ்ச்சி,` is preserved as the visibly open English fragment **“He was filled with joy,”**. No scan31 text is imported or inferred.
+
+E4 unresolved holds: **0**.

@@ -91,6 +91,6 @@ Validation result:
 
 Part001 Tamil archival-ready is already **PASS / CLOSED**.
 
-English E1, E2 and E3 are now **SOURCE-CHECKED / COMPLETE** with **7/8** Part001 English section files translated/source-checked and **0 unresolved holds**. The exact next maintained activity is **English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30**, followed by its source-check.
+English E1–E4 are now **SOURCE-CHECKED / COMPLETE** with **8/8** Part001 English section files translated/source-checked and **0 unresolved holds**. The exact next maintained activity is **whole-Part English glossary reconciliation**.
 
 Part002 transcription remains blocked until Part001 completes English, release/readiness and final Part closure.

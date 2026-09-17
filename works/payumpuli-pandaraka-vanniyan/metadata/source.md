@@ -151,8 +151,9 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - Part001 English E1: **SOURCE-CHECKED / COMPLETE**
 - Part001 English E2: **SOURCE-CHECKED / COMPLETE**
 - Part001 English E3: **SOURCE-CHECKED / COMPLETE**
-- Part001 English translated/source-checked files: **7/8**
-- Part001 English next: **E4 / `வழியில் கண்ட வயோதிகர்!` / scans28–30**
+- Part001 English E4: **SOURCE-CHECKED / COMPLETE**
+- Part001 English translated/source-checked files: **8/8**
+- Part001 English next: **whole-Part glossary reconciliation**
 - Part001 Tamil archival-ready / assembled Tamil / English / release-readiness / final closure: **BLOCKED**
 - Part002 source: **REGISTERED / TRANSCRIPTION BLOCKED**
 - audited outgoing boundary: **30→31 GENUINE CONTINUATION**
@@ -170,8 +171,8 @@ Durable rule:
 
 ## Exact next activity
 
-English E3 is **SOURCE-CHECKED / COMPLETE**.
+Part001 English draft + per-batch source-check is **8/8 COMPLETE**.
 
-Proceed with **English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30** from the PASSED assembled Tamil layer, with canonical `pages/` remaining controlling authority.
+Proceed with **whole-Part English glossary reconciliation** from the complete source-checked English layer, with canonical `pages/` remaining controlling authority.
 
-Preserve the open 30→31 continuation and do not import scan31. Part002 transcription remains blocked.
+Part002 transcription remains blocked.

@@ -43,7 +43,8 @@ Pass 2A remains **CLOSED / COMPLETE**.
 - English E1 — **SOURCE-CHECKED / COMPLETE**
 - English E2 — **SOURCE-CHECKED / COMPLETE**
 - English E3 — **SOURCE-CHECKED / COMPLETE**
-- English translated/source-checked files — **7/8**
+- English E4 — **SOURCE-CHECKED / COMPLETE**
+- English translated/source-checked files — **8/8**
 - unresolved English holds — **0**
-- exact next gate — **English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30**
+- exact next gate — **whole-Part English glossary reconciliation**
 - Part002 transcription — **BLOCKED**

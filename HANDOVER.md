@@ -55,8 +55,9 @@ Current state:
 - English E1 — **SOURCE-CHECKED / COMPLETE**
 - English E2 — **SOURCE-CHECKED / COMPLETE**
 - English E3 — **SOURCE-CHECKED / COMPLETE**
-- English translated files — **7/8**
-- English source-checked files — **7/8**
+- English E4 — **SOURCE-CHECKED / COMPLETE**
+- English translated files — **8/8**
+- English source-checked files — **8/8**
 - unresolved English holds — **0**
 - release/readiness — **BLOCKED**
 - final Part closure — **BLOCKED**
@@ -79,6 +80,7 @@ Live trackers:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E1_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E2_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E3_SOURCE_CHECK.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/E4_SOURCE_CHECK.md`
 
 ## Historical preliminary work
 
@@ -140,8 +142,8 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-English E3 is **SOURCE-CHECKED / COMPLETE**.
+Part001 English E1–E4 are **SOURCE-CHECKED / COMPLETE — 8/8**.
 
-Proceed with **English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30**. E4 must pass its source-check while preserving the open 30→31 boundary without importing scan31.
+Proceed with **whole-Part English glossary reconciliation** across scans1–30 / all eight English section files.
 
-Keep glossary reconciliation, editorial review, release/readiness, final Part closure and Part002 transcription blocked.
+Keep editorial review, whole-Part bilingual review, release/readiness, final Part closure and Part002 transcription blocked.

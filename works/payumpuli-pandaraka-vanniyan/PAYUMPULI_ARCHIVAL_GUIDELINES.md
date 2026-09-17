@@ -133,11 +133,11 @@ For Part001 Pass 1:
 - scans16–25: **COMPLETE / text-complete / needs-review**;
 - scans26–30: **COMPLETE / text-complete / needs-review**.
 
-Part001 Pass 1 is **30/30 COMPLETE**; formal Pass 2A is **30/30 COMPLETE**; formal Pass 2B is **30/30 COMPLETE**; formal Pass 3 is **30/30 COMPLETE**; Part001 Part audit is **PASS / COMPLETE**; final metadata/status synchronization is **PASS / CLOSED**; documentation synchronization is **PASS / COMPLETE**; the Part001 Tamil archival-ready checkpoint is **PASS / CLOSED**; assembled Tamil is **PASS / CLOSED — 8/8 section files VERIFIED**. Tamil text is **30/30 verified**, visual fidelity is **30/30 verified**, and unresolved status exceptions are **0**. English E1, E2 and E3 are **SOURCE-CHECKED / COMPLETE**; translated/source-checked files are **7/8** with **0 unresolved holds**. The next maintained stage is **English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30**, followed by its source-check.
+Part001 Pass 1 is **30/30 COMPLETE**; formal Pass 2A is **30/30 COMPLETE**; formal Pass 2B is **30/30 COMPLETE**; formal Pass 3 is **30/30 COMPLETE**; Part001 Part audit is **PASS / COMPLETE**; final metadata/status synchronization is **PASS / CLOSED**; documentation synchronization is **PASS / COMPLETE**; the Part001 Tamil archival-ready checkpoint is **PASS / CLOSED**; assembled Tamil is **PASS / CLOSED — 8/8 section files VERIFIED**. Tamil text is **30/30 verified**, visual fidelity is **30/30 verified**, and unresolved status exceptions are **0**. English E1–E4 are **SOURCE-CHECKED / COMPLETE**; translated/source-checked files are **8/8** with **0 unresolved holds**. The next maintained stage is **whole-Part English glossary reconciliation**.
 
 ## 10. Current Part lock
 
 - **Active Part: Part001 / overall scans1–30**
 - **Part002: SOURCE REGISTERED / TRANSCRIPTION BLOCKED**
-- **Current gate: English Draft Batch E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30**
+- **Current gate: whole-Part English glossary reconciliation**
 - Part002 may not become active until `PART_001_FINAL_CLOSURE.md` passes.
