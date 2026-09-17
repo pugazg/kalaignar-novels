@@ -45,12 +45,15 @@ Current Part001 state:
 - English editorial review — **PASS / CLOSED — 8/8 reviewed**
 - English files with editorial prose edits — **3/8**
 - substantive English-only editorial corrections — **8**
+- whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs reviewed**
+- English-only corrections newly required by bilingual review — **0**
 - unresolved English/source-check holds — **0**
 - unresolved glossary holds — **0**
 - unresolved editorial holds — **0**
+- unresolved bilingual holds — **0**
 - canonical Tamil edits caused by English — **0**
-- whole-Part bilingual review — **NEXT / NOT STARTED**
-- release/readiness report — **BLOCKED**
+- Part002 content imported by English work — **0**
+- release/readiness report — **NEXT / NOT STARTED**
 - final Part001 closure — **BLOCKED**
 
 The earlier local T2/T3 work on scans1–5 is retained as **historical preliminary review evidence only**. It does not count as formal Kuraloviyam-style Part-level Pass 2A / Pass 2B / Pass 3 closure.
@@ -123,6 +126,7 @@ Part001 Tamil ends `அவனுக்கு ஒரே மகிழ்ச்ச�
 - [`translations/en/E4_SOURCE_CHECK.md`](translations/en/E4_SOURCE_CHECK.md)
 - [`translations/en/GLOSSARY_RECONCILIATION.md`](translations/en/GLOSSARY_RECONCILIATION.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+- [`translations/en/BILINGUAL_REVIEW.md`](translations/en/BILINGUAL_REVIEW.md)
 - [`SOURCE_INTAKE.md`](SOURCE_INTAKE.md)
 - [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md)
 - [`metadata/source.md`](metadata/source.md)
@@ -134,6 +138,6 @@ Historical preliminary checkpoint records are retained for provenance but do not
 
 ## Exact next activity
 
-Perform **whole-Part bilingual review** across all **8/8** Part001 Tamil/English section pairs, scans1–30 only.
+Create and complete the **release/readiness report** for the complete Part001 Tamil/English layer, scans1–30 only.
 
-Keep release/readiness, final Part closure and Part002 transcription blocked until the bilingual review closes.
+Keep release-ready synchronization, final Part closure and Part002 transcription blocked until the release/readiness report closes.
