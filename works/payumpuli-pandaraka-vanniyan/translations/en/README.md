@@ -4,29 +4,21 @@ English translation workspace for Part001 of **பாயும்புலி �
 
 ## Current status
 
-**RELEASE/READINESS REPORT — PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
+**RELEASE-READY SYNCHRONIZATION — PASS / CLOSED — FINAL PART001 CLOSURE NEXT**
 
 - Tamil canonical authority — **30/30 verified**
 - assembled Tamil reading layer — **8/8 VERIFIED / PASS / CLOSED**
-- English translated section files — **8/8**
-- English source-checked section files — **8/8**
-- E1 — **SOURCE-CHECKED / COMPLETE**
-- E2 — **SOURCE-CHECKED / COMPLETE**
-- E3 — **SOURCE-CHECKED / COMPLETE**
-- E4 — **SOURCE-CHECKED / COMPLETE**
+- English translated/source-checked section files — **8/8**
+- E1–E4 — **SOURCE-CHECKED / COMPLETE**
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED — 8/8 reviewed**
 - whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs reviewed**
 - release/readiness report — **PASS / CLOSED**
-- unresolved English/source-check holds — **0**
-- unresolved glossary holds — **0**
-- unresolved editorial holds — **0**
-- unresolved bilingual holds — **0**
-- unresolved release/readiness blockers — **0**
-- English-only corrections newly required by bilingual review — **0**
-- canonical Tamil changes caused by English — **0**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved English/glossary/editorial/bilingual/release-readiness holds — **0**
+- canonical Tamil changes caused by English/release synchronization — **0**
 - Part002 content imported — **0**
-- exact next activity — **release-ready synchronization**
+- exact next activity — **Part001 final closure**
 
 ## Authority
 
@@ -43,18 +35,16 @@ No published, web, remembered or standard English translation is used as authori
 - `TRANSLATION_PLAN.md` — workflow, fidelity and gate rules
 - `GLOSSARY.md` — source-derived English handling
 - `PROGRESS.md` — live English frontier
-- `E1_SOURCE_CHECK.md` — E1 closure record
-- `E2_SOURCE_CHECK.md` — E2 closure record
-- `E3_SOURCE_CHECK.md` — E3 closure record
-- `E4_SOURCE_CHECK.md` — E4 closure record
+- `E1_SOURCE_CHECK.md` … `E4_SOURCE_CHECK.md` — source-check closure records
 - `GLOSSARY_RECONCILIATION.md` — whole-Part glossary closure record
-- `TRANSLATION_REVIEW.md` — English editorial-review closure record
-- `BILINGUAL_REVIEW.md` — whole-Part bilingual-review closure record
+- `TRANSLATION_REVIEW.md` — editorial-review closure record
+- `BILINGUAL_REVIEW.md` — bilingual-review closure record
 - `RELEASE_REPORT.md` — release/readiness closure record
+- `../../PART_001_RELEASE_READY_SYNC.md` — release-ready synchronization closure record
 
 ## English section coverage
 
-All **8** verified Part001 Tamil assembled files are represented in English and passed whole-Part bilingual review and release/readiness.
+All **8** verified Part001 Tamil assembled files are represented in English and passed source-check, editorial review, bilingual review and release/readiness.
 
 | Tamil file | English file | Scans | State |
 |---|---|---:|---|
@@ -66,24 +56,6 @@ All **8** verified Part001 Tamil assembled files are represented in English and 
 | `05-thorana-vayil.md` | `sections/05-thorana-vayil.md` | 13–20 | source-checked; editorial-reviewed with source-safe edits; bilingual PASS |
 | `06-oru-iragasiyak-kaditham.md` | `sections/06-a-secret-letter.md` | 21–27 | source-checked; editorial-reviewed with source-safe edits; bilingual PASS |
 | `07-vazhiyil-kanda-vayothigar.md` | `sections/07-the-old-man-met-on-the-way.md` | 28–30 | source-checked; editorial-reviewed; bilingual PASS |
-
-Detailed bilingual accounting is in `BILINGUAL_REVIEW.md`; release/readiness accounting is in `RELEASE_REPORT.md`.
-
-## Release/readiness result
-
-`RELEASE_REPORT.md` confirms:
-
-- Tamil coverage — **30/30 verified**;
-- assembled Tamil — **8/8 VERIFIED / PASS / CLOSED**;
-- English coverage — **8/8**;
-- bilingual alignment — **PASS / CLOSED**;
-- glossary consistency — **PASS**;
-- unresolved release/readiness blockers — **0**;
-- active-work source-PDF paths in the live Git tree — **0**;
-- canonical Tamil edits caused by release/readiness — **0**;
-- Part002 content imported — **0**.
-
-Release/readiness PASS means the package may proceed to **release-ready synchronization**. It does not yet constitute final Part001 closure.
 
 ## Protected source variants
 
@@ -103,16 +75,14 @@ Part001 ends at scan30 / printed19 with the open Tamil fragment:
 
 `அவனுக்கு ஒரே மகிழ்ச்சி,`
 
-English still ends:
+English ends:
 
 **“He was filled with joy,”**
 
-The already-audited **30→31 = GENUINE CONTINUATION** finding is retained.
-
-Scan31 is Part002 and must not be imported or translated in Part001. English must not invent an ending for the open sentence.
+The audited **30→31 = GENUINE CONTINUATION** finding is retained. Scan31 is Part002 and must not be imported, translated or inferred in Part001.
 
 ## Exact next activity
 
-Perform **release-ready synchronization** for Part001.
+Perform **Part001 final closure**.
 
-Do not begin final Part001 closure or Part002 transcription until the release-ready synchronization gate closes.
+Create and verify `../../PART_001_FINAL_CLOSURE.md` and keep Part002 transcription blocked until that gate passes.
