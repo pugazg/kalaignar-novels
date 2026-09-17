@@ -11,19 +11,13 @@
 
 This work follows the **Kuraloviyam per-Part closure methodology**.
 
-Authoritative guide:
-- [`PAYUMPULI_ARCHIVAL_GUIDELINES.md`](PAYUMPULI_ARCHIVAL_GUIDELINES.md)
-
-Core rule:
+Authoritative guide: [`PAYUMPULI_ARCHIVAL_GUIDELINES.md`](PAYUMPULI_ARCHIVAL_GUIDELINES.md)
 
 > **A Part must complete its full Tamil + assembled Tamil + English + release/readiness + release-ready synchronization + final-closure workflow before the next Part receives transcription work.**
 
 ## Part001 — FINAL CLOSED / FROZEN
 
-**Part001 / global scans1–30** is fully closed across Tamil, assembled Tamil, English, release/readiness, release-ready synchronization and final closure.
-
-Durable record:
-- [`PART_001_FINAL_CLOSURE.md`](PART_001_FINAL_CLOSURE.md)
+Part001 / global scans1–30 is fully closed. Durable record: [`PART_001_FINAL_CLOSURE.md`](PART_001_FINAL_CLOSURE.md).
 
 Permanent boundary:
 - scan30 / printed19 → scan31 / printed20
@@ -38,27 +32,32 @@ Controlling source:
 
 - global scans — **31–60**
 - local pages — **1–30**
-- canonical records — **10/30 — scans31–40**
-- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- canonical records — **20/30 — scans31–50**
+- Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
 - Pass 2A / 2B / 3 — **NOT STARTED**
 - assembled Tamil / English — **NOT STARTED**
 - incoming 30→31 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 60→61 — **PENDING direct audit**
 
-Tracker:
-- [`PART_002_PASS1_PROGRESS.md`](PART_002_PASS1_PROGRESS.md)
+Tracker: [`PART_002_PASS1_PROGRESS.md`](PART_002_PASS1_PROGRESS.md)
 
-### Completed Pass-1 batch
+### Completed Pass-1 batches
 
-**scans31–40 / local1–10 / printed20–29 — TEXT-COMPLETE**
-
+**Batch 1 — scans31–40 / local1–10 / printed20–29 — COMPLETE**
 - scans31–34 — `வழியில் கண்ட வயோதிகர்!`
-- scan35 — chapter 4 opening `குருவிச்சி நாச்சியார்`
-- scans36–40 — continuation
-- source-specific `வற்றாப்பாளை` retained by occurrence
-- scan40 ends `எனவே அந்தப் பெரிய மணி ஓசை`
+- scan35 — chapter4 opening `குருவிச்சி நாச்சியார்`
+- scans36–40 — chapter4 continuation
 
-All ten page records remain `needs-review`; no Pass 2A work has begun.
+**Batch 2 — scans41–50 / local11–20 / printed30–39 — COMPLETE**
+- scan41 — chapter4 continuation
+- scan42 — chapter5 opening `நாலு கால் மண்டபத்தில்!`
+- scans43–49 — chapter5 continuation
+- scan50 — chapter6 opening `கண்டியின் வாரிசுப் போட்டி!`
+- scan50 ends physically `பாஞ்சாலங்குறிச்சி`; no scan51 text has been imported
+
+Durable source forms retained include `குலசேகரம் வைரமுத்து`, `களுக்`, and `முள்ளியவளை` where printed.
+
+All Part002 Pass-1 page records remain `needs-review`; no Pass 2A work has begun.
 
 ## Source rules
 
@@ -78,6 +77,6 @@ All ten page records remain `needs-review`; no Pass 2A work has begun.
 
 ## Exact next activity
 
-Perform **Part002 Pass 1 for global scans41–50 / local pages11–20**.
+Perform **Part002 Pass 1 for global scans51–60 / local pages21–30**, then close Pass 1 only if all ten are text-complete and the 60→61 boundary has been handled according to the source rules.
 
-Stop after that 10-scan batch. Do not begin scans51–60 or Pass 2A without another explicit continuation.
+Stop before Pass 2A unless the user explicitly continues.
