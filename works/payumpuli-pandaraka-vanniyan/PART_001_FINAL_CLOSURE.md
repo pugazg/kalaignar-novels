@@ -138,18 +138,30 @@ That requirement is now satisfied:
 
 **PART001 FINAL CLOSURE — PASS / CLOSED**.
 
-Part002 source is already **SUPPLIED / REGISTERED** with canonical global range **31–60** and incoming boundary **30→31 = GENUINE CONTINUATION / AUDITED**.
+Part002 source is **SUPPLIED / REGISTERED / AUTHORIZED** with canonical global range **31–60** and incoming boundary **30→31 = GENUINE CONTINUATION / AUDITED**.
 
-Part002 may therefore become the next active Part. This final-closure gate itself creates **no Part002 transcription records**.
+Post-closure control synchronization has advanced `SOURCE_INTAKE_PART_002.md` and the maintained lifecycle/navigation controls to the Part002 frontier.
+
+Part002 canonical page records remain **0**. No Part002 transcription was performed in this final-closure iteration.
+
+## 10. Post-closure synchronization
+
+Maintained controls now consistently record:
+
+- Part001 — **FINAL CLOSURE PASS / CLOSED / FROZEN**;
+- Part002 — **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**;
+- Part002 Pass 1 first batch — **global scans31–40 / local pages1–10**.
+
+This synchronization changes no Part001 canonical Tamil, assembled Tamil body text or maintained English body text.
 
 ## Exact next activity
 
 On the next explicit continuation:
 
 1. activate **Part002 / global scans31–60**;
-2. advance `SOURCE_INTAKE_PART_002.md` from waiting/blocked to active/authorized status;
-3. begin **Part002 Pass 1**, first normal batch **global scans31–40 / Part002 local pages1–10**;
-4. preserve global `scan_page` numbering and Part002 provenance;
+2. perform **Part002 Pass 1**, first normal batch **global scans31–40 / Part002 local pages1–10**;
+3. create the canonical page records for those scans with global numbering and exact Part002 provenance;
+4. create/update `PART_002_PASS1_PROGRESS.md` with exact accounting;
 5. do not begin Pass 2A until Part002 Pass 1 covers the full Part.
 
 **STOP here. Part002 transcription is authorized but was not begun in this final-closure iteration.**
