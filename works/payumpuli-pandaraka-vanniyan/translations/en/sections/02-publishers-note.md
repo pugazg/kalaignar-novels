@@ -19,7 +19,7 @@ Among Kalaignar's works, so many rare books continue to spread their fragrance f
 
 Now Rockfort is publishing Kalaignar's historical epic, _Payumpuli Pandaraka Vanniyan_!
 
-The time and moment at which we publish this historical epic are worth noting! Today, the book _Payumpuli Pandaraka Vanniyan_ will provide the strength and encouragement needed by Tamil soil.
+The time and moment when we publish this historical epic are worth noting! Today, the book _Payumpuli Pandaraka Vanniyan_ will give Tamil soil the strength and encouragement it needs.
 
 We express our thanks to Professor K. Anbazhagan, who provided the Foreword.
 
