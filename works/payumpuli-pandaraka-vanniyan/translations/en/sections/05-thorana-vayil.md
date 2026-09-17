@@ -86,7 +86,7 @@ His given name was Kulasekaram Vairamuthu; historical notes refer to him as Pand
 
 The swordsman Vairamuthu was a descendant in the line of kings bearing the clan name Kulasekaram!
 
-“Whatever the imperialism, when that imperialism attempts to seize the sovereignty of a people, the life of Pandara Vanniyan shows us clearly that those people will rise with vigour and fight for their rights. On this occasion I am proud to note that the people living as his heirs in the land where Pandara Vanniyan lived have expressed their political consciousness in Sri Lanka's political history as a people thirsting for freedom. The honour being given today belongs not only to the great warrior Pandara Vanniyan. What is being <!-- verified source join: scan 18 → scan 19 -->honoured today is his ideal and his yearning for freedom.”
+“Whatever form imperialism takes, when that imperialism attempts to seize the sovereignty of a people, the life of Pandara Vanniyan shows us clearly that those people will rise with vigour and fight for their rights. On this occasion I am proud to note that the people living as his heirs in the land where Pandara Vanniyan lived have expressed their political consciousness in Sri Lanka's political history as a people thirsting for freedom. The honour being given today belongs not only to the great warrior Pandara Vanniyan. What is being <!-- verified source join: scan 18 → scan 19 -->honoured today is his ideal and his yearning for freedom.”
 
 Thus spoke M. Sivasithambaram, leader of the Tamil United Liberation Front, at the unveiling of Pandara Vanniyan's statue.
 
@@ -111,4 +111,4 @@ Sharp gaze
 
 From the next issue onward, we shall follow the footsteps of that fearless hero's life.
 
-I offer my thanks to my friend S. Yoganathan, who gave me many notes for this story and who held a government post equivalent to Collector in the Mullaitheevu and Vavuniya regions and was a <!-- verified source join: scan 19 → scan 20 -->writer; and also to Tamilkudimagan, Principal of Madurai Yadava College, and Kanthalakam Satchithanandam. With those thanks, I place before you the historical serial story of that Tamil lion.
+I offer my thanks to my friend S. Yoganathan, who gave me many notes for this story, held a government post equivalent to Collector in the Mullaitheevu and Vavuniya regions, and was also a writer; and also to Tamilkudimagan, Principal of Madurai Yadava College, and Kanthalakam Satchithanandam. With those thanks, I place before you the historical serial story of that Tamil lion.
