@@ -1,6 +1,6 @@
 # English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL REVIEW NEXT**
+Status: **WHOLE-PART RECONCILED / PASS — DOWNSTREAM GATES CLOSED THROUGH RELEASE-READY SYNCHRONIZATION; FINAL PART001 CLOSURE NEXT**
 
 This glossary is derived only from the verified Part001 canonical/assembled Tamil. It contains project translation choices, not external historical or linguistic claims.
 
@@ -189,14 +189,14 @@ For the scan11 epigraph, the folk-song lines in `தோரண வாயில்
 ## Locked source-facing decisions
 
 1. Source-printed `பிரேமதேசா` remains **Premadesa** in project English unless a later explicit glossary reconciliation changes only the English romanization.
-2. `மருதன்` and later `மருது` are not silently normalized into one Tamil form; English should preserve the occurrence-level distinction until bilingual review decides whether one romanization can represent both without loss.
+2. `மருதன்` and later `மருது` are not silently normalized into one Tamil form; English preserves the occurrence-level distinction.
 3. Plant/tree names in scans29–30 are not externally identified.
 4. `கொம்பறை` is retained source-facing because the source itself gives only its contextual relation to paddy storage.
 5. The open scan30 ending is not completed from Part002.
 
 ## Whole-Part reconciliation rule
 
-Whole-Part reconciliation is now **COMPLETE / PASS**.
+Whole-Part reconciliation is **COMPLETE / PASS**.
 
 The complete 8/8 English layer was checked for recurring names, places, titles, offices, political/historical vocabulary, source-facing terms and transliteration drift.
 
@@ -206,10 +206,9 @@ Reconciled policy:
 - normalize only accidental English drift;
 - no accidental English drift requiring section-file edits was found;
 - no canonical Tamil change is permitted merely to enforce English consistency;
-- later editorial review may improve readability, but it must not collapse source-derived variants or alter the open scan30 boundary.
+- subsequent editorial review, bilingual review, release/readiness and release-ready synchronization all passed without collapsing source-derived variants or altering the open scan30 boundary.
 
 Durable record: `GLOSSARY_RECONCILIATION.md`.
-
 
 ## E1 source-check note
 
@@ -218,7 +217,6 @@ E1 drafting/source-check introduced no external historical or linguistic authori
 The scan8→9 foreword syntax around `மற்றொரு களம். பண்டாரக வன்னியன் பற்றி வைத்திருந்த...` is source-awkward. The English renders it conservatively without reconstructing a missing relation or adding outside context. This is **not an unresolved translation hold**.
 
 E1 unresolved holds: **0**.
-
 
 ## E2 source-check note
 
@@ -232,7 +230,6 @@ The source slogan `உண்டேல் சுதந்திரம், இன�
 
 E2 unresolved holds: **0**.
 
-
 ## E3 source-check note
 
 E3 drafting/source-check used only the verified `ஒரு இரகசியக் கடிதம்!` Tamil and existing project controls.
@@ -244,7 +241,6 @@ Source-facing terms intentionally retained in E3 include *Parangiyars*, *kattuma
 The four-line `வானம் பொழியுது...` song is translated from the project Tamil only; no remembered or published English version was imported.
 
 E3 unresolved holds: **0**.
-
 
 ## E4 source-check note
 
@@ -259,7 +255,6 @@ The source variation `மருதன்` / `மருது` remains distinct a
 The final scan30 source fragment `அவனுக்கு ஒரே மகிழ்ச்சி,` is preserved as the visibly open English fragment **“He was filled with joy,”**. No scan31 text is imported or inferred.
 
 E4 unresolved holds: **0**.
-
 
 ## Whole-Part reconciliation result
 
@@ -287,4 +282,6 @@ Reconciliation findings:
 - Part002 content imported — **0**
 - open scan30 fragment remains **“He was filled with joy,”**
 
-Exact next gate: **English editorial review**.
+Downstream gates now closed: editorial review, whole-Part bilingual review, release/readiness report and release-ready synchronization.
+
+Exact next gate: **Part001 final closure**.
