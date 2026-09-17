@@ -91,8 +91,8 @@ Validation result:
 
 Part001 Tamil archival-ready is **PASS / CLOSED** and assembled Tamil is **PASS / CLOSED — 8/8 VERIFIED**.
 
-English E1–E4 are **SOURCE-CHECKED / COMPLETE — 8/8**; whole-Part glossary reconciliation is **RECONCILED / PASS**; English editorial review is **PASS / CLOSED**; whole-Part bilingual review is **PASS / CLOSED — 8/8 pairs reviewed**; release/readiness is **PASS / CLOSED**; and release-ready synchronization is **PASS / CLOSED**.
+English E1–E4, glossary reconciliation, editorial review, whole-Part bilingual review, release/readiness, release-ready synchronization and final Part001 closure are all **PASS / CLOSED**.
 
-The exact next maintained activity is **Part001 final closure**.
+Part001 is now **FINAL CLOSED / FROZEN** unless a genuine source-fidelity issue is explicitly reopened.
 
-Part002 transcription remains blocked until `PART_001_FINAL_CLOSURE.md` passes.
+The repository may now activate Part002. The exact next source activity is **Part002 Pass 1, global scans31–40 / local pages1–10**.
