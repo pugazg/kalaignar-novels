@@ -74,7 +74,7 @@ Source:
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf`
 
 State:
-- source — **SUPPLIED / REGISTERED**
+- source — **SUPPLIED / REGISTERED / AUTHORIZED**
 - global scans — **31–60**
 - local pages — **1–30**
 - incoming boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
@@ -100,9 +100,9 @@ State:
 On the next explicit continuation:
 
 1. activate **Part002**;
-2. synchronize `SOURCE_INTAKE_PART_002.md` to active/authorized state if not already synchronized;
-3. perform **Pass 1 for global scans31–40 / Part002 local pages1–10**;
-4. create the canonical page records for those scans from the controlling source;
+2. perform **Pass 1 for global scans31–40 / Part002 local pages1–10**;
+3. create the canonical page records for those scans from the controlling source;
+4. create/update `PART_002_PASS1_PROGRESS.md` with exact accounting;
 5. stop at that requested Pass-1 batch boundary.
 
 Part001 must remain frozen unless a genuine source-fidelity issue is explicitly reopened.
