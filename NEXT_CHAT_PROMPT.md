@@ -1,54 +1,48 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part001 Whole-Part Bilingual Review
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part001 Final Closure
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Governing controls
 
-Read first, in this order:
+Read first:
 
 1. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
-2. `works/payumpuli-pandaraka-vanniyan/translations/en/TRANSLATION_PLAN.md`
-3. `works/payumpuli-pandaraka-vanniyan/translations/en/GLOSSARY.md`
-4. `works/payumpuli-pandaraka-vanniyan/translations/en/GLOSSARY_RECONCILIATION.md`
+2. `works/payumpuli-pandaraka-vanniyan/PART_001_RELEASE_READY_SYNC.md`
+3. `works/payumpuli-pandaraka-vanniyan/translations/en/RELEASE_REPORT.md`
+4. `works/payumpuli-pandaraka-vanniyan/translations/en/BILINGUAL_REVIEW.md`
 5. `works/payumpuli-pandaraka-vanniyan/translations/en/TRANSLATION_REVIEW.md`
-6. `works/payumpuli-pandaraka-vanniyan/translations/en/PROGRESS.md`
-7. `works/payumpuli-pandaraka-vanniyan/translations/en/README.md`
-8. `works/payumpuli-pandaraka-vanniyan/translations/en/E1_SOURCE_CHECK.md`
-9. `works/payumpuli-pandaraka-vanniyan/translations/en/E2_SOURCE_CHECK.md`
-10. `works/payumpuli-pandaraka-vanniyan/translations/en/E3_SOURCE_CHECK.md`
-11. `works/payumpuli-pandaraka-vanniyan/translations/en/E4_SOURCE_CHECK.md`
-12. all 8 maintained English files under `works/payumpuli-pandaraka-vanniyan/translations/en/sections/`
-13. corresponding PASSED Tamil files under `works/payumpuli-pandaraka-vanniyan/sections/`
-14. root `HANDOVER.md`
+6. `works/payumpuli-pandaraka-vanniyan/translations/en/GLOSSARY_RECONCILIATION.md`
+7. `works/payumpuli-pandaraka-vanniyan/translations/en/PROGRESS.md`
+8. `works/payumpuli-pandaraka-vanniyan/translations/en/README.md`
+9. `works/payumpuli-pandaraka-vanniyan/sections/README.md`
+10. root `HANDOVER.md`
 
 ## Current authoritative state
 
 - Tamil canonical pages — **30/30 verified**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 8/8 VERIFIED**
-- English translated files — **8/8**
-- English source-checked files — **8/8**
-- E1–E4 — **SOURCE-CHECKED / COMPLETE**
+- English E1–E4 — **SOURCE-CHECKED / COMPLETE — 8/8**
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED — 8/8 reviewed**
-- editorial prose edits — **3/8 files / 8 corrections**
-- unresolved English/source-check holds — **0**
-- unresolved glossary holds — **0**
-- unresolved editorial holds — **0**
-- canonical Tamil edits caused by English — **0**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 8/8**
+- release/readiness report — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+- canonical Tamil changes caused by English/release synchronization — **0**
 - Part002 content imported — **0**
-- release/readiness — **BLOCKED**
+- final Part001 closure — **NEXT / NOT STARTED**
 - Part002 transcription — **BLOCKED**
 
 ## Permanent source-variant locks
 
-Do not collapse deliberate source-derived distinctions:
+Do not collapse:
 
 - `பண்டார வன்னியன்` / `பண்டாரக வன்னியன்` → **Pandara Vanniyan / Pandaraka Vanniyan**
 - `குலசேகர வைரமுத்து` / `குலசேகரம் வைரமுத்து` → **Kulasekara Vairamuthu / Kulasekaram Vairamuthu**
 - `மருதன்` / `மருது` → **Maruthan / Maruthu**
-- `பரதன்` / vocative `பரதா` → **Bharathan / Bharatha**
-- source honorific/name variants documented in `GLOSSARY.md`
+- `பரதன்` / `பரதா` → **Bharathan / Bharatha**
+- source honorific/name variants in `GLOSSARY.md`
 - **Karsilai Madu / Karsilaimadu**
 - **Payumpuli... / Payum Puli...**
 
@@ -61,45 +55,34 @@ Do not collapse deliberate source-derived distinctions:
 - scan31 belongs to Part002;
 - do not import, translate, infer or complete scan31 content.
 
-## Exact next activity — whole-Part bilingual review
-
-Review the complete maintained Part001 English layer against the complete PASSED assembled Tamil layer, **all 8 section pairs / scans1–30 only**.
-
-Verify:
-
-- 8/8 Tamil sections are represented once and in source order;
-- all source meaning, speaker/narrator agency, chronology and knowledge state remain aligned;
-- paragraph, dialogue, quotation, verse, song and display structures remain aligned where meaningful;
-- all deliberate glossary/source variants remain protected;
-- the eight editorial corrections in `TRANSLATION_REVIEW.md` preserve source meaning;
-- no source rhetoric or historical/political framing has been neutralized, modernized or fact-corrected;
-- no unsupported historical, political, geographic, literary or botanical explanation has entered English;
-- source-facing terms remain consistent with `GLOSSARY.md`;
-- scan coverage is exactly **1–30**;
-- Part002 content imported = **0**;
-- final English fragment remains **“He was filled with joy,”**;
-- canonical Tamil edits caused by bilingual review = **0** unless an explicit Tamil reopening decision is separately required.
-
-If a genuine Tamil-fidelity issue is discovered, record a hold and do not silently alter canonical Tamil.
-
-English-only corrections are allowed only when needed to restore bilingual fidelity; record every such correction and its Tamil basis.
-
-## Required durable record
+## Exact next activity — Part001 final closure
 
 Create:
 
-`works/payumpuli-pandaraka-vanniyan/translations/en/BILINGUAL_REVIEW.md`
+`works/payumpuli-pandaraka-vanniyan/PART_001_FINAL_CLOSURE.md`
 
-Record scope, all 8 pair results, any English-only corrections, protected variants, quotation/verse/song alignment, terminal boundary, unresolved holds, canonical Tamil edits, and Part002 leakage count.
+Independently confirm:
 
-If all checks pass with **0 unresolved bilingual holds**, mark:
+- every mandatory Tamil gate is closed;
+- assembled Tamil is closed;
+- English translation/source-check is complete;
+- glossary, editorial and whole-Part bilingual gates are closed;
+- release/readiness is PASS / CLOSED;
+- release-ready synchronization is PASS / CLOSED;
+- unresolved blockers are **0**;
+- no unauthorized drift occurred after release/readiness;
+- canonical Tamil and maintained English terminal fragments remain exact;
+- source variants remain protected;
+- Part002 leakage remains **0**.
 
-**WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED**
+If all checks pass, mark:
 
-Then update live controls so the exact next gate becomes **release/readiness report**.
+**PART001 FINAL CLOSURE — PASS / CLOSED**
+
+Then synchronize maintained controls so Part002 may become the next active Part, but **do not begin Part002 transcription in the same iteration**.
 
 ## Stop boundary
 
-After bilingual review closes, **STOP**.
+After final Part001 closure and its control synchronization, **STOP**.
 
-Do **not** begin release/readiness, release-ready synchronization, final Part closure or Part002 transcription in the same iteration unless the user explicitly asks to continue.
+Part002 transcription begins only on a subsequent explicit `continue`.
