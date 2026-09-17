@@ -1,88 +1,92 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part001 Final Closure
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part002 Pass 1 scans31–40
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Governing controls
+## Read first
 
-Read first:
+1. `HANDOVER.md`
+2. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
+3. `works/payumpuli-pandaraka-vanniyan/PART_001_FINAL_CLOSURE.md`
+4. `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_002.md`
+5. `works/payumpuli-pandaraka-vanniyan/README.md`
+6. `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLICY.md`
+7. `works/payumpuli-pandaraka-vanniyan/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` if present / applicable
+8. Part001 page records only as structural/provenance examples; do not reopen Part001 wording.
 
-1. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
-2. `works/payumpuli-pandaraka-vanniyan/PART_001_RELEASE_READY_SYNC.md`
-3. `works/payumpuli-pandaraka-vanniyan/translations/en/RELEASE_REPORT.md`
-4. `works/payumpuli-pandaraka-vanniyan/translations/en/BILINGUAL_REVIEW.md`
-5. `works/payumpuli-pandaraka-vanniyan/translations/en/TRANSLATION_REVIEW.md`
-6. `works/payumpuli-pandaraka-vanniyan/translations/en/GLOSSARY_RECONCILIATION.md`
-7. `works/payumpuli-pandaraka-vanniyan/translations/en/PROGRESS.md`
-8. `works/payumpuli-pandaraka-vanniyan/translations/en/README.md`
-9. `works/payumpuli-pandaraka-vanniyan/sections/README.md`
-10. root `HANDOVER.md`
+## Authoritative state
 
-## Current authoritative state
+### Part001 — FROZEN
 
+- **PART001 FINAL CLOSURE — PASS / CLOSED**
 - Tamil canonical pages — **30/30 verified**
-- Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 8/8 VERIFIED**
-- English E1–E4 — **SOURCE-CHECKED / COMPLETE — 8/8**
-- whole-Part glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED**
-- whole-Part bilingual review — **PASS / CLOSED — 8/8**
-- release/readiness report — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- unresolved release/readiness blockers — **0**
-- canonical Tamil changes caused by English/release synchronization — **0**
-- Part002 content imported — **0**
-- final Part001 closure — **NEXT / NOT STARTED**
-- Part002 transcription — **BLOCKED**
+- English — **8/8 SOURCE-CHECKED / COMPLETE**
+- glossary/editorial/bilingual/release/readiness/release-sync — **PASS / CLOSED**
+- unresolved blockers — **0**
+- unauthorized post-release textual drift — **0**
+- Part002 leakage into Part001 — **0**
 
-## Permanent source-variant locks
+Permanent Part001 ending:
+- scan30 / printed19
+- Tamil: `அவனுக்கு ஒரே மகிழ்ச்சி,`
+- English: **“He was filled with joy,”**
+- **30→31 = GENUINE CONTINUATION / AUDITED**
 
-Do not collapse:
+Do not reopen Part001 unless a genuine source-fidelity issue is explicitly discovered.
 
-- `பண்டார வன்னியன்` / `பண்டாரக வன்னியன்` → **Pandara Vanniyan / Pandaraka Vanniyan**
-- `குலசேகர வைரமுத்து` / `குலசேகரம் வைரமுத்து` → **Kulasekara Vairamuthu / Kulasekaram Vairamuthu**
-- `மருதன்` / `மருது` → **Maruthan / Maruthu**
-- `பரதன்` / `பரதா` → **Bharathan / Bharatha**
-- source honorific/name variants in `GLOSSARY.md`
-- **Karsilai Madu / Karsilaimadu**
-- **Payumpuli... / Payum Puli...**
+### Part002 — NEXT ACTIVE PART
 
-## Permanent boundary safeguard
+Source:
+`TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf`
 
-- scan30 / printed19 is the final Part001 source page;
-- Tamil ends `அவனுக்கு ஒரே மகிழ்ச்சி,`;
-- English ends **“He was filled with joy,”**;
-- **30→31 = GENUINE CONTINUATION**;
-- scan31 belongs to Part002;
-- do not import, translate, infer or complete scan31 content.
+- source — **SUPPLIED / REGISTERED / AUTHORIZED**
+- global scans — **31–60**
+- local pages — **1–30**
+- canonical Part002 page records — **0**
+- Pass 1 / Pass 2A / Pass 2B / Pass 3 — **NOT STARTED**
+- incoming boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
+- outgoing boundary 60→61 — **PENDING direct audit**
 
-## Exact next activity — Part001 final closure
+## Numbering and provenance — mandatory
 
-Create:
+Canonical numbering never resets:
 
-`works/payumpuli-pandaraka-vanniyan/PART_001_FINAL_CLOSURE.md`
+- Part002 local1 = global `scan_page: 31`
+- Part002 local10 = global `scan_page: 40`
+- Part002 local30 = global `scan_page: 60`
 
-Independently confirm:
+Every Part002 page record must preserve:
 
-- every mandatory Tamil gate is closed;
-- assembled Tamil is closed;
-- English translation/source-check is complete;
-- glossary, editorial and whole-Part bilingual gates are closed;
-- release/readiness is PASS / CLOSED;
-- release-ready synchronization is PASS / CLOSED;
-- unresolved blockers are **0**;
-- no unauthorized drift occurred after release/readiness;
-- canonical Tamil and maintained English terminal fragments remain exact;
-- source variants remain protected;
-- Part002 leakage remains **0**.
+```yaml
+part: 2
+part_page: <1-30>
+source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf"
+```
 
-If all checks pass, mark:
+## Exact next activity — Pass 1 first batch
 
-**PART001 FINAL CLOSURE — PASS / CLOSED**
+Process **global scans31–40 / Part002 local pages1–10**.
 
-Then synchronize maintained controls so Part002 may become the next active Part, but **do not begin Part002 transcription in the same iteration**.
+For every physical scan in the batch:
+
+- inspect the rendered source page image from the user-supplied Part002 PDF;
+- create the canonical page record at the repository's established naming/path pattern;
+- capture all printed Tamil text completely and page-aligned;
+- preserve source punctuation, paragraphing, headings, dialogue structure and historical glyph identity;
+- record printed-page mapping and meaningful visual/non-body notes;
+- separate stamps, handwriting, library marks and visual-only material from printed source text;
+- preserve scan31 as the genuine continuation of scan30 without importing or modifying Part001;
+- do not infer obscured/missing text from later pages;
+- keep new Pass-1 records non-final / review-pending according to the established page schema.
+
+Create or update:
+
+`works/payumpuli-pandaraka-vanniyan/PART_002_PASS1_PROGRESS.md`
+
+After this batch it should record **10/30 Pass-1 text-complete** if all ten scans are fully captured, otherwise record exact holds/partials rather than claiming completion.
 
 ## Stop boundary
 
-After final Part001 closure and its control synchronization, **STOP**.
+After global scans31–40 are processed and the Part002 Pass-1 tracker/control docs are synchronized, **STOP**.
 
-Part002 transcription begins only on a subsequent explicit `continue`.
+Do not begin scans41–50, Pass 2A, assembled Tamil or English in the same iteration unless the user explicitly continues.
