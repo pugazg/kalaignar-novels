@@ -47,6 +47,7 @@ Current Part001 state:
 - English E4 — **SOURCE-CHECKED / COMPLETE**
 - English translated files — **8/8**
 - English source-checked files — **8/8**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
 - unresolved English holds — **0**
 - release/readiness report — **BLOCKED**
 - final Part001 closure — **BLOCKED**
@@ -132,6 +133,7 @@ Only after Pass 1 reaches **30/30 text-complete** does formal Pass 2A begin from
 - [`translations/en/E2_SOURCE_CHECK.md`](translations/en/E2_SOURCE_CHECK.md)
 - [`translations/en/E3_SOURCE_CHECK.md`](translations/en/E3_SOURCE_CHECK.md)
 - [`translations/en/E4_SOURCE_CHECK.md`](translations/en/E4_SOURCE_CHECK.md)
+- [`translations/en/GLOSSARY_RECONCILIATION.md`](translations/en/GLOSSARY_RECONCILIATION.md)
 - [`SOURCE_INTAKE.md`](SOURCE_INTAKE.md)
 - [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md)
 - [`metadata/source.md`](metadata/source.md)
@@ -143,8 +145,8 @@ Historical preliminary checkpoint records are retained for provenance but do not
 
 ## Exact next activity
 
-Part001 English draft + per-batch source-check is now **8/8 COMPLETE**.
+Part001 English draft/source-check is **8/8 COMPLETE** and whole-Part glossary reconciliation is **RECONCILED / PASS**.
 
-Perform **whole-Part English glossary reconciliation** across all eight English sections and the canonical/assembled Tamil authority.
+Perform **English editorial review** across all eight English sections.
 
-Do **not** begin editorial review, whole-Part bilingual review, release/readiness, final Part closure, or Part002 transcription in the same iteration unless the user explicitly continues.
+Do **not** begin whole-Part bilingual review, release/readiness, final Part closure, or Part002 transcription in the same iteration unless the user explicitly continues.

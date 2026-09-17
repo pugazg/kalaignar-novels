@@ -526,7 +526,8 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part001 English E3: **SOURCE-CHECKED / COMPLETE**
 - Part001 English E4: **SOURCE-CHECKED / COMPLETE**
 - Part001 English translated/source-checked files: **8/8**
-- Part001 English next: **whole-Part glossary reconciliation**
+- Part001 English glossary reconciliation: **RECONCILED / PASS**
+- Part001 English next: **editorial review**
 - audited outgoing boundary: **30→31 GENUINE CONTINUATION**
 - Part002 transcription: **BLOCKED until Part001 final closure**
 
@@ -534,8 +535,8 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Part001 English draft + per-batch source-check is **8/8 COMPLETE**.
+Part001 English draft/source-check is **8/8 COMPLETE** and glossary reconciliation is **RECONCILED / PASS**.
 
-Proceed with **whole-Part English glossary reconciliation**. The canonical page map remains source-provenance authority and must not be altered by English reconciliation.
+Proceed with **English editorial review**. The canonical page map remains source-provenance authority and must not be altered by editorial work.
 
 Part002 transcription remains blocked.

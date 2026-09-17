@@ -83,7 +83,8 @@ Current Pass-1 state:
 - English E4: **SOURCE-CHECKED / COMPLETE**;
 - English translated/source-checked files: **8/8**;
 - unresolved English holds: **0**;
-- English next: **whole-Part glossary reconciliation**;
+- whole-Part glossary reconciliation: **RECONCILED / PASS**;
+- English next: **editorial review**;
 - outgoing boundary **30→31**: **GENUINE CONTINUATION / AUDITED** using Part002 local1 as a boundary witness only.
 
 Authoritative tracker:
@@ -92,4 +93,4 @@ Authoritative tracker:
 - `PART_001_PASS2B_PROGRESS.md`
 - `PART_001_PASS3_PROGRESS.md`
 
-**Next:** perform **whole-Part English glossary reconciliation** across all eight source-checked English section files. Do not begin editorial review, whole-Part bilingual review, release/readiness, final Part closure, or Part002 transcription yet.
+**Next:** perform **English editorial review** across all eight glossary-reconciled English section files. Do not begin whole-Part bilingual review, release/readiness, final Part closure, or Part002 transcription yet.

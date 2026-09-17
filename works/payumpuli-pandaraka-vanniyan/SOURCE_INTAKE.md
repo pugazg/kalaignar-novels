@@ -97,7 +97,8 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part001 English E3: **SOURCE-CHECKED / COMPLETE**
 - Part001 English E4: **SOURCE-CHECKED / COMPLETE**
 - Part001 English translated/source-checked files: **8/8**
-- Part001 English next: **whole-Part glossary reconciliation**
+- Part001 English glossary reconciliation: **RECONCILED / PASS**
+- Part001 English next: **editorial review**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 assembled Tamil: **BLOCKED**
 - Part001 English / release-readiness: **BLOCKED**
@@ -116,6 +117,6 @@ Authoritative live trackers:
 
 ## Exact next activity
 
-Part001 English E1–E4 are **SOURCE-CHECKED / COMPLETE — 8/8**.
+Part001 English glossary reconciliation is **RECONCILED / PASS**.
 
-Proceed with **whole-Part English glossary reconciliation**. Part002 remains source-registered / transcription-blocked until Part001 final closure.
+Proceed with **English editorial review**. Part002 remains source-registered / transcription-blocked until Part001 final closure.

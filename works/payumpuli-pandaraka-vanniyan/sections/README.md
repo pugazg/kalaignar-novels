@@ -91,6 +91,6 @@ Validation result:
 
 Part001 Tamil archival-ready is already **PASS / CLOSED**.
 
-English E1–E4 are now **SOURCE-CHECKED / COMPLETE** with **8/8** Part001 English section files translated/source-checked and **0 unresolved holds**. The exact next maintained activity is **whole-Part English glossary reconciliation**.
+English E1–E4 are now **SOURCE-CHECKED / COMPLETE** with **8/8** Part001 English section files translated/source-checked and **0 unresolved holds**. Whole-Part English glossary reconciliation is **RECONCILED / PASS**. The exact next maintained activity is **English editorial review**.
 
 Part002 transcription remains blocked until Part001 completes English, release/readiness and final Part closure.

@@ -149,6 +149,6 @@ Part001 assembled Tamil is now **PASS / CLOSED**.
 
 ## Exact next gate
 
-English E1–E4 are **SOURCE-CHECKED / COMPLETE — 8/8**. The open 30→31 boundary remains preserved without importing scan31. Begin **whole-Part English glossary reconciliation**.
+English E1–E4 are **SOURCE-CHECKED / COMPLETE — 8/8**. The open 30→31 boundary remains preserved without importing scan31. Whole-Part English glossary reconciliation is **RECONCILED / PASS**. Begin **English editorial review**.
 
 Do not begin Part002 transcription. Part002 remains blocked until Part001 English, release/readiness and final Part closure are complete.

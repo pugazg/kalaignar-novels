@@ -4,7 +4,7 @@ English translation workspace for Part001 of **பாயும்புலி �
 
 ## Current status
 
-**E4 SOURCE-CHECKED / COMPLETE — 8/8 ENGLISH COMPLETE — GLOSSARY RECONCILIATION NEXT**
+**WHOLE-PART GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 - Tamil canonical authority — **30/30 verified**
 - assembled Tamil reading layer — **8/8 VERIFIED / PASS / CLOSED**
@@ -17,7 +17,8 @@ English translation workspace for Part001 of **பாயும்புலி �
 - E2 — **SOURCE-CHECKED / COMPLETE**
 - E3 — **SOURCE-CHECKED / COMPLETE**
 - E4 — **SOURCE-CHECKED / COMPLETE**
-- exact next activity — **whole-Part English glossary reconciliation**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- exact next activity — **English editorial review**
 
 ## Authority
 
@@ -38,6 +39,7 @@ No published, web, remembered or standard English translation is used as authori
 - `E2_SOURCE_CHECK.md` — E2 closure record
 - `E3_SOURCE_CHECK.md` — E3 closure record
 - `E4_SOURCE_CHECK.md` — E4 closure record
+- `GLOSSARY_RECONCILIATION.md` — whole-Part glossary closure record
 
 Later maintained controls will include:
 
@@ -75,6 +77,6 @@ Scan31 is Part002 and must not be imported or translated in Part001. English mus
 
 ## Exact next activity
 
-**Whole-Part English glossary reconciliation** across the complete **8/8** English layer.
+**English editorial review** across all eight source-checked and glossary-reconciled English sections.
 
 The Part001 open boundary at scan30 remains preserved; scan31 remains excluded.

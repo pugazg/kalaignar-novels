@@ -46,5 +46,6 @@ Pass 2A remains **CLOSED / COMPLETE**.
 - English E4 — **SOURCE-CHECKED / COMPLETE**
 - English translated/source-checked files — **8/8**
 - unresolved English holds — **0**
-- exact next gate — **whole-Part English glossary reconciliation**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- exact next gate — **English editorial review**
 - Part002 transcription — **BLOCKED**

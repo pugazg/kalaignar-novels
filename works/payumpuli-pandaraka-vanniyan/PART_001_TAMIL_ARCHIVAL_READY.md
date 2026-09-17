@@ -179,6 +179,8 @@ The forward instruction above to begin assembled Tamil is therefore superseded o
 
 English planning/setup subsequently completed. English E1–E4 then closed **SOURCE-CHECKED / COMPLETE**, bringing translated/source-checked files to **8/8** with **0 unresolved holds**.
 
+Whole-Part English glossary reconciliation subsequently closed **RECONCILED / PASS** with **0 unresolved glossary holds** and **0 canonical Tamil edits**.
+
 Current next gate:
 
-**Whole-Part English glossary reconciliation.**
+**English editorial review.**

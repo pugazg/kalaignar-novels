@@ -72,8 +72,8 @@ The Part001 Tamil archival-ready checkpoint is **PASS / CLOSED**. This Pass trac
 
 Part001 assembled Tamil is now **PASS / CLOSED — 8/8 section files VERIFIED**.
 
-English E1–E4 are now **SOURCE-CHECKED / COMPLETE** with translated/source-checked files **8/8** and unresolved holds **0**.
+English E1–E4 are now **SOURCE-CHECKED / COMPLETE** with translated/source-checked files **8/8** and unresolved holds **0**. Whole-Part English glossary reconciliation is **RECONCILED / PASS** with **0 unresolved glossary holds**.
 
-The live next stage is **whole-Part English glossary reconciliation**.
+The live next stage is **English editorial review**.
 
 Do not begin English, release/readiness, final Part closure, or Part002 transcription.

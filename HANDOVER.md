@@ -58,6 +58,7 @@ Current state:
 - English E4 — **SOURCE-CHECKED / COMPLETE**
 - English translated files — **8/8**
 - English source-checked files — **8/8**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
 - unresolved English holds — **0**
 - release/readiness — **BLOCKED**
 - final Part closure — **BLOCKED**
@@ -81,6 +82,7 @@ Live trackers:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E2_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E3_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E4_SOURCE_CHECK.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/GLOSSARY_RECONCILIATION.md`
 
 ## Historical preliminary work
 
@@ -142,8 +144,8 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Part001 English E1–E4 are **SOURCE-CHECKED / COMPLETE — 8/8**.
+Part001 English E1–E4 are **SOURCE-CHECKED / COMPLETE — 8/8**, and whole-Part glossary reconciliation is **RECONCILED / PASS**.
 
-Proceed with **whole-Part English glossary reconciliation** across scans1–30 / all eight English section files.
+Proceed with **English editorial review** across all eight English section files.
 
-Keep editorial review, whole-Part bilingual review, release/readiness, final Part closure and Part002 transcription blocked.
+Keep whole-Part bilingual review, release/readiness, final Part closure and Part002 transcription blocked.

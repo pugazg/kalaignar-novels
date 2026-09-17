@@ -403,8 +403,19 @@ The Part001 English batches currently closed are:
 
 The scan30 English endpoint remains open as **“He was filled with joy,”** and scan31 remains excluded.
 
+## Whole-Part glossary reconciliation — PASS
+
+- English files checked — **8/8**
+- recurring names/places/titles/vocabulary reconciled — **PASS**
+- deliberate source variants retained — **PASS**
+- English section corrections required — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- Part002 leakage — **0**
+- durable record — `translations/en/GLOSSARY_RECONCILIATION.md`
+
 ## Exact next activity
 
-Perform **whole-Part English glossary reconciliation** across E1–E4 / all 8 English files.
+Perform **English editorial review** across all 8 glossary-reconciled English files.
 
-Do not begin editorial review, whole-Part bilingual review, release/readiness, final Part closure, or Part002 transcription until glossary reconciliation closes.
+Do not begin whole-Part bilingual review, release/readiness, final Part closure, or Part002 transcription until editorial review closes.

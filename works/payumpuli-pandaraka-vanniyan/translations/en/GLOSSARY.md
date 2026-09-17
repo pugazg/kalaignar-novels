@@ -1,6 +1,6 @@
 # English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **E4 SOURCE-CHECKED / INITIAL LOCK EXTENDED — WHOLE-PART RECONCILIATION NEXT**
+Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 This glossary is derived only from the verified Part001 canonical/assembled Tamil. It contains project translation choices, not external historical or linguistic claims.
 
@@ -24,14 +24,14 @@ Canonical Tamil remains controlling.
 | `கலைஞர் மு.கருணாநிதி` / `கலைஞர் மு. கருணாநிதி` | **Kalaignar M. Karunanidhi** | preserve source spacing distinction only in Tamil; one English form |
 | `பண்டாரக வன்னியன்` | **Pandaraka Vanniyan** | work/narrative form used in E1 |
 | `பண்டார வன்னியன்` | **Pandara Vanniyan** | source-facing project romanization where the source omits `க` |
-| `குலசேகர வைரமுத்து` | **Kulasekara Vairamuthu** | source-facing project romanization |
+| `குலசேகர வைரமுத்து` / `குலசேகரம் வைரமுத்து` | **Kulasekara Vairamuthu / Kulasekaram Vairamuthu** | preserve exact source form by occurrence |
 | `சுந்தரலிங்கம்` | **Sundaralingam** | |
 | `மருதன்` / `மருது` | **Maruthan / Maruthu** | preserve the exact source form by occurrence; do not silently collapse variants |
 | `பரதன்` | **Bharathan** | project romanization |
 | `வெள்ளையத்தேவன்` | **Vellaiyathevan** | |
 | `வீரபாண்டியக் கட்டப் பொம்மன்` / `கட்டபொம்மன்` | **Veerapandiya Kattabomman / Kattabomman** | preserve long/short source naming by context |
-| `ஊமைச்சிநாச்சி` | **Oomaichchi Naachchi** | source-facing romanization |
-| `நல்லநாச்சி` | **Nallanaachchi** | source-facing romanization |
+| `ஊமைச்சி நாச்சி` / `ஊமைச்சிநாச்சி` | **Oomaichchi Naachchi** | one English name form; Tamil spacing variation remains in source |
+| `நல்ல நாச்சி` / `நல்ல நாச்சியார்` / `நல்லநாச்சி` | **Nalla Naachchi / Nalla Naachchiyar / Nallanaachchi** | preserve source spacing/honorific form by occurrence |
 | `திரு. அமிர்தலிங்கம்` | **Mr. Amirthalingam** | preserve honorific function |
 | `திரு.மு. சிவசிதம்பரம்` | **M. Sivasithambaram** | source-facing project form |
 | `பிரேமதேசா` | **Premadesa** | preserve the source-printed form; do not normalize from outside knowledge |
@@ -53,7 +53,7 @@ Canonical Tamil remains controlling.
 | `சங்கர் தயாள் சர்மா` | **Shankar Dayal Sharma** | source name |
 | `வைரமுத்து` | **Vairamuthu** | source personal name |
 | `காக்கை வன்னியன்` | **Kakkai Vanniyan** | source personal name |
-| `குருவிச்சி நாச்சி` | **Kuruvichchi Naachchi** | source personal name |
+| `குருவிச்சி நாச்சி` / `குருவிச்சி நாச்சியார்` | **Kuruvichchi Naachchi / Kuruvichchi Naachchiyar** | preserve source honorific-suffix distinction by occurrence |
 | `கண்ணுச்சாமி` | **Kannusamy** | source personal name |
 | `விக்கிரம ராஜ சிங்கன்` | **Vikrama Raja Singan** | source regnal name |
 | `பிலிமதளாவை` | **Pilimathalavai** | source personal name |
@@ -194,13 +194,21 @@ For the scan11 epigraph, the folk-song lines in `தோரண வாயில்
 4. `கொம்பறை` is retained source-facing because the source itself gives only its contextual relation to paddy storage.
 5. The open scan30 ending is not completed from Part002.
 
-## Reconciliation rule
+## Whole-Part reconciliation rule
 
-This glossary is an initial lock for E1.
+Whole-Part reconciliation is now **COMPLETE / PASS**.
 
-Any change during E1–E4 must be recorded in the English review/progress controls. Glossary consistency is reconciled after all batches are source-checked.
+The complete 8/8 English layer was checked for recurring names, places, titles, offices, political/historical vocabulary, source-facing terms and transliteration drift.
 
-Canonical Tamil is never changed merely to enforce English consistency.
+Reconciled policy:
+
+- preserve deliberate source variants rather than cosmetically normalizing them;
+- normalize only accidental English drift;
+- no accidental English drift requiring section-file edits was found;
+- no canonical Tamil change is permitted merely to enforce English consistency;
+- later editorial review may improve readability, but it must not collapse source-derived variants or alter the open scan30 boundary.
+
+Durable record: `GLOSSARY_RECONCILIATION.md`.
 
 
 ## E1 source-check note
@@ -251,3 +259,32 @@ The source variation `மருதன்` / `மருது` remains distinct a
 The final scan30 source fragment `அவனுக்கு ஒரே மகிழ்ச்சி,` is preserved as the visibly open English fragment **“He was filled with joy,”**. No scan31 text is imported or inferred.
 
 E4 unresolved holds: **0**.
+
+
+## Whole-Part reconciliation result
+
+**WHOLE-PART GLOSSARY — RECONCILED / PASS**
+
+Confirmed deliberate source-derived distinctions:
+
+| Source distinction | English handling |
+|---|---|
+| `பண்டார வன்னியன்` / `பண்டாரக வன்னியன்` | **Pandara Vanniyan / Pandaraka Vanniyan** |
+| `குலசேகர வைரமுத்து` / `குலசேகரம் வைரமுத்து` | **Kulasekara Vairamuthu / Kulasekaram Vairamuthu** |
+| `மருதன்` / `மருது` | **Maruthan / Maruthu** |
+| `பரதன்` / `பரதா` | **Bharathan / Bharatha** |
+| `குருவிச்சி நாச்சி` / `குருவிச்சி நாச்சியார்` | **Kuruvichchi Naachchi / Kuruvichchi Naachchiyar** |
+| `நல்ல நாச்சி` / `நல்ல நாச்சியார்` / `நல்லநாச்சி` | **Nalla Naachchi / Nalla Naachchiyar / Nallanaachchi** |
+| `கற்சிலை மடுவு` / `கற்சிலைமடு` | **Karsilai Madu / Karsilaimadu** |
+| `பாயும்புலி...` / quoted `பாயும் புலி...` | **Payumpuli... / Payum Puli...** |
+
+Reconciliation findings:
+
+- English section files checked — **8/8**
+- English-only section corrections required — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits caused by reconciliation — **0**
+- Part002 content imported — **0**
+- open scan30 fragment remains **“He was filled with joy,”**
+
+Exact next gate: **English editorial review**.

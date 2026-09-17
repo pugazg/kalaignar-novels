@@ -115,12 +115,13 @@ Authoritative work-specific guide:
 - Part001 English E4: **SOURCE-CHECKED / COMPLETE**
 - Part001 English translated/source-checked files: **8/8**
 - unresolved English holds: **0**
-- Part001 English: **GLOSSARY RECONCILIATION NEXT**
+- Part001 English glossary reconciliation: **RECONCILED / PASS**
+- Part001 English: **EDITORIAL REVIEW NEXT**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 English/release: **BLOCKED**
 - Part002 transcription: **BLOCKED until Part001 final closure**
 - split-boundary classifications: **1 / 15 audited — 30→31 GENUINE CONTINUATION**
-- exact active gate: **whole-Part English glossary reconciliation**
+- exact active gate: **English editorial review**
 
 ## Batch-size policy
 

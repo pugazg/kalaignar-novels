@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**E4 SOURCE-CHECKED / COMPLETE — 8/8 ENGLISH COMPLETE — GLOSSARY RECONCILIATION NEXT**
+**WHOLE-PART GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 | Batch | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
@@ -10,8 +10,8 @@
 | **E2** | section 05: `தோரண வாயில்` | **13–20** | **SOURCE-CHECKED / COMPLETE** |
 | **E3** | section 06: `ஒரு இரகசியக் கடிதம்!` | **21–27** | **SOURCE-CHECKED / COMPLETE** |
 | **E4** | section 07: `வழியில் கண்ட வயோதிகர்!` | **28–30** | **SOURCE-CHECKED / COMPLETE** |
-| Glossary | whole-Part reconciliation | 1–30 | **NEXT / NOT STARTED** |
-| Editorial | whole-Part English editorial review | 1–30 | BLOCKED |
+| Glossary | whole-Part reconciliation | 1–30 | **RECONCILED / PASS** |
+| Editorial | whole-Part English editorial review | 1–30 | **NEXT / NOT STARTED** |
 | Bilingual | whole-Part bilingual review | 1–30 | BLOCKED |
 | Release | release/readiness report | 1–30 | BLOCKED |
 
@@ -105,6 +105,24 @@ Part001 English draft + per-batch source-check coverage: **8/8 COMPLETE**.
 
 Detailed record: `E4_SOURCE_CHECK.md`.
 
+## Whole-Part glossary reconciliation
+
+Created:
+
+- `GLOSSARY_RECONCILIATION.md`
+
+Result: **WHOLE-PART GLOSSARY — RECONCILED / PASS**.
+
+Findings:
+
+- English sections checked — **8/8**;
+- English-only section corrections required — **0**;
+- unresolved glossary holds — **0**;
+- canonical Tamil edits caused by reconciliation — **0**;
+- Part002 content imported — **0**.
+
+Deliberate source variants remain preserved, including **Pandara/Pandaraka**, **Kulasekara/Kulasekaram**, **Maruthan/Maruthu**, **Bharathan/Bharatha**, source honorific variants, and source spacing variants.
+
 ## Boundary lock
 
 - Part001 final source scan — **30 / printed19**
@@ -115,6 +133,6 @@ Detailed record: `E4_SOURCE_CHECK.md`.
 
 ## Exact next activity
 
-**Whole-Part English glossary reconciliation** across all **8/8** source-checked English section files and the canonical/assembled Tamil authority.
+**English editorial review** across all **8/8** English section files.
 
-Do not begin editorial review, whole-Part bilingual review, release/readiness, final Part closure or Part002 transcription until glossary reconciliation closes.
+Do not begin whole-Part bilingual review, release/readiness, final Part closure or Part002 transcription until editorial review closes.

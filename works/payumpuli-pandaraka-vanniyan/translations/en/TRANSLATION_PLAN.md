@@ -1,6 +1,6 @@
 # English Translation Plan — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **E4 SOURCE-CHECKED / COMPLETE — 8/8 ENGLISH COMPLETE — GLOSSARY RECONCILIATION NEXT**
+Status: **WHOLE-PART GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -259,8 +259,22 @@ Part001 English draft + per-batch source-check coverage is **8/8 COMPLETE**.
 
 Detailed closure: `E4_SOURCE_CHECK.md`.
 
+## Glossary reconciliation closure
+
+Whole-Part English glossary reconciliation across E1–E4 / scans1–30 is **RECONCILED / PASS**.
+
+- English files checked — **8/8**
+- English section corrections required — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- Part002 leakage — **0**
+
+Deliberate source variants remain preserved.
+
+Detailed closure: `GLOSSARY_RECONCILIATION.md`.
+
 ## Exact next activity
 
-**Whole-Part English glossary reconciliation** across E1–E4 / scans1–30.
+**English editorial review** across the complete 8/8 English layer.
 
-Do not begin editorial review until glossary reconciliation closes.
+Do not begin whole-Part bilingual review until editorial review closes.
