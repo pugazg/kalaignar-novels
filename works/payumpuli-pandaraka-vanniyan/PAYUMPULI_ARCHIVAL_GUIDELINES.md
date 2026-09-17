@@ -28,11 +28,7 @@ Split files are provenance/access boundaries only, not textual boundaries.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-A later Part may be:
-- supplied and registered;
-- used as the adjacent boundary witness needed to resolve the active Part's outgoing boundary.
-
-But a later Part must **not** receive canonical transcription records, Pass work, assembled Tamil or English work until the active Part reaches final closure.
+A later Part may be supplied/registered and used as the adjacent boundary witness needed to resolve the active Part's outgoing boundary, but it must not receive canonical transcription records, Pass work, assembled Tamil or English work until the active Part reaches final closure.
 
 For this work:
 
@@ -42,26 +38,17 @@ For this work:
 
 For each Part, in order:
 
-1. **Source intake**
-2. **Pass 1 — complete physical capture/transcription**
-   - one canonical record for every physical scan;
-   - complete printed Tamil text entered;
-   - page provenance, printed-page mapping, visual/non-body notes retained;
-   - records remain non-final.
-3. **Pass 2A — direct textual verification**
-   - compare every word, punctuation mark, paragraph boundary and page continuation against the attached scan.
-4. **Pass 2B — independent lexical/historical-glyph reread**
-   - performed only after Pass 2A covers the entire Part;
-   - apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
-   - no normalization.
-5. **Pass 3 — meaningful visual/structural verification**
-   - headings, block structure, page furniture, illustrations, non-body marks and continuations.
-6. **Part audit**
-7. **Final metadata/status synchronization**
-8. **Documentation synchronization**
-9. **Tamil archival-ready checkpoint**
+1. source intake
+2. Pass 1 — complete physical capture/transcription
+3. Pass 2A — direct textual verification
+4. Pass 2B — independent lexical/historical-glyph reread
+5. Pass 3 — meaningful visual/structural verification
+6. Part audit
+7. final metadata/status synchronization
+8. documentation synchronization
+9. Tamil archival-ready checkpoint
 
-Final `verified` status is assigned only after the whole-Part verification/audit chain closes. A page must not be called formally verified merely because an earlier local batch received a review.
+Final `verified` status is assigned only after the whole-Part verification/audit chain closes.
 
 ## 5. Novel-specific assembled Tamil layer
 
@@ -90,10 +77,11 @@ Required controls include:
 - `translations/en/TRANSLATION_REVIEW.md`
 - `translations/en/BILINGUAL_REVIEW.md`
 - `translations/en/RELEASE_REPORT.md`
+- `PART_001_RELEASE_READY_SYNC.md` for Part001 synchronization closure
 
 The release/readiness report must confirm Tamil/English coverage, bilingual alignment, unresolved items, navigation/provenance and source-PDF exclusion.
 
-Release-ready synchronization then reconciles maintained lifecycle/status/navigation controls to the closed Tamil + English + release/readiness state. It must not alter canonical Tamil wording, collapse deliberate source variants, import Part002 content or itself substitute for final Part closure.
+Release-ready synchronization then reconciles maintained lifecycle/status/navigation controls to the closed Tamil + English + release/readiness state. It must not alter canonical Tamil wording, collapse deliberate source variants, import Part002 content or substitute for final Part closure.
 
 ## 7. Final Part closure
 
@@ -131,17 +119,16 @@ User-directed normal source batch size: **10 physical scans**, with a shorter fi
 
 A batch is only complete when the requested Pass work for those scans is complete. Page/provenance-only scaffolding is not Pass-1 completion.
 
-For Part001 Pass 1:
-- scans1–5: printed-text capture exists, but formal final verification is deferred to the whole-Part chain;
-- scans6–15: **COMPLETE / text-complete / needs-review**;
-- scans16–25: **COMPLETE / text-complete / needs-review**;
-- scans26–30: **COMPLETE / text-complete / needs-review**.
+For Part001, the Tamil verification chain is complete: Pass 1 **30/30**, Pass 2A **30/30**, Pass 2B **30/30**, Pass 3 **30/30**, Part audit **PASS**, final metadata/status synchronization **PASS / CLOSED**, documentation synchronization **PASS**, Tamil archival-ready **PASS / CLOSED**, and assembled Tamil **PASS / CLOSED — 8/8 VERIFIED**.
 
-Part001 Pass 1 is **30/30 COMPLETE**; formal Pass 2A is **30/30 COMPLETE**; formal Pass 2B is **30/30 COMPLETE**; formal Pass 3 is **30/30 COMPLETE**; Part001 Part audit is **PASS / COMPLETE**; final metadata/status synchronization is **PASS / CLOSED**; documentation synchronization is **PASS / COMPLETE**; the Part001 Tamil archival-ready checkpoint is **PASS / CLOSED**; assembled Tamil is **PASS / CLOSED — 8/8 section files VERIFIED**. Tamil text is **30/30 verified**, visual fidelity is **30/30 verified**, and unresolved status exceptions are **0**. English E1–E4 are **SOURCE-CHECKED / COMPLETE**; translated/source-checked files are **8/8** with **0 unresolved holds**. Whole-Part English glossary reconciliation is **RECONCILED / PASS**. English editorial review is **PASS / CLOSED — 8/8 reviewed, 0 unresolved editorial holds**. Whole-Part bilingual review is **PASS / CLOSED — 8/8 pairs reviewed, 0 unresolved bilingual holds**. Release/readiness is **PASS / CLOSED — 0 unresolved release/readiness blockers**. The next maintained stage is **release-ready synchronization**.
+English E1–E4 are **SOURCE-CHECKED / COMPLETE — 8/8**; whole-Part glossary reconciliation is **RECONCILED / PASS**; English editorial review is **PASS / CLOSED**; whole-Part bilingual review is **PASS / CLOSED**; release/readiness is **PASS / CLOSED**; and release-ready synchronization is **PASS / CLOSED**. Unresolved release-readiness blockers are **0**. Canonical Tamil changes caused by English/release synchronization are **0**. Part002 leakage is **0**.
+
+The next maintained stage is **Part001 final closure**.
 
 ## 10. Current Part lock
 
 - **Active Part: Part001 / overall scans1–30**
 - **Part002: SOURCE REGISTERED / TRANSCRIPTION BLOCKED**
-- **Current gate: release-ready synchronization**
+- **Current gate: Part001 final closure**
+- release-ready synchronization — **PASS / CLOSED**
 - Part002 may not become active until `PART_001_FINAL_CLOSURE.md` passes.
