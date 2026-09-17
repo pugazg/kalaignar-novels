@@ -133,11 +133,11 @@ For Part001 Pass 1:
 - scans16–25: **COMPLETE / text-complete / needs-review**;
 - scans26–30: **COMPLETE / text-complete / needs-review**.
 
-Part001 Pass 1 is **30/30 COMPLETE**; formal Pass 2A is **30/30 COMPLETE**; formal Pass 2B is **30/30 COMPLETE**; formal Pass 3 is **30/30 COMPLETE**; Part001 Part audit is **PASS / COMPLETE**; final metadata/status synchronization is **PASS / CLOSED**; documentation synchronization is **PASS / COMPLETE**; the Part001 Tamil archival-ready checkpoint is **PASS / CLOSED**; assembled Tamil is **PASS / CLOSED — 8/8 section files VERIFIED**. Tamil text is **30/30 verified**, visual fidelity is **30/30 verified**, and unresolved status exceptions are **0**. English E1–E4 are **SOURCE-CHECKED / COMPLETE**; translated/source-checked files are **8/8** with **0 unresolved holds**. Whole-Part English glossary reconciliation is **RECONCILED / PASS**. The next maintained stage is **English editorial review**.
+Part001 Pass 1 is **30/30 COMPLETE**; formal Pass 2A is **30/30 COMPLETE**; formal Pass 2B is **30/30 COMPLETE**; formal Pass 3 is **30/30 COMPLETE**; Part001 Part audit is **PASS / COMPLETE**; final metadata/status synchronization is **PASS / CLOSED**; documentation synchronization is **PASS / COMPLETE**; the Part001 Tamil archival-ready checkpoint is **PASS / CLOSED**; assembled Tamil is **PASS / CLOSED — 8/8 section files VERIFIED**. Tamil text is **30/30 verified**, visual fidelity is **30/30 verified**, and unresolved status exceptions are **0**. English E1–E4 are **SOURCE-CHECKED / COMPLETE**; translated/source-checked files are **8/8** with **0 unresolved holds**. Whole-Part English glossary reconciliation is **RECONCILED / PASS**. English editorial review is **PASS / CLOSED — 8/8 reviewed, 0 unresolved editorial holds**. The next maintained stage is **whole-Part bilingual review**.
 
 ## 10. Current Part lock
 
 - **Active Part: Part001 / overall scans1–30**
 - **Part002: SOURCE REGISTERED / TRANSCRIPTION BLOCKED**
-- **Current gate: English editorial review**
+- **Current gate: whole-Part bilingual review**
 - Part002 may not become active until `PART_001_FINAL_CLOSURE.md` passes.
