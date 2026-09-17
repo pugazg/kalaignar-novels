@@ -110,14 +110,15 @@ Authoritative work-specific guide:
 - Part001 Tamil archival-ready checkpoint: **PASS / CLOSED**
 - Part001 assembled Tamil: **PASS / CLOSED — 8/8 section files VERIFIED**
 - Part001 English E1: **SOURCE-CHECKED / COMPLETE**
-- Part001 English translated/source-checked files: **5/8**
+- Part001 English E2: **SOURCE-CHECKED / COMPLETE**
+- Part001 English translated/source-checked files: **6/8**
 - unresolved English holds: **0**
-- Part001 English: **E2 NEXT — `தோரண வாயில்` / scans13–20**
+- Part001 English: **E3 NEXT — `ஒரு இரகசியக் கடிதம்!` / scans21–27**
 - Part001 Tamil archival-ready: **BLOCKED**
 - Part001 English/release: **BLOCKED**
 - Part002 transcription: **BLOCKED until Part001 final closure**
 - split-boundary classifications: **1 / 15 audited — 30→31 GENUINE CONTINUATION**
-- exact active gate: **English Draft Batch E2 — `தோரண வாயில்` / scans13–20**
+- exact active gate: **English Draft Batch E3 — `ஒரு இரகசியக் கடிதம்!` / scans21–27**
 
 ## Batch-size policy
 

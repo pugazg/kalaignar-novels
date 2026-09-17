@@ -149,8 +149,9 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - Part001 Tamil archival-ready checkpoint: **PASS / CLOSED**
 - Part001 assembled Tamil: **PASS / CLOSED — 8/8 section files VERIFIED**
 - Part001 English E1: **SOURCE-CHECKED / COMPLETE**
-- Part001 English translated/source-checked files: **5/8**
-- Part001 English next: **E2 / `தோரண வாயில்` / scans13–20**
+- Part001 English E2: **SOURCE-CHECKED / COMPLETE**
+- Part001 English translated/source-checked files: **6/8**
+- Part001 English next: **E3 / `ஒரு இரகசியக் கடிதம்!` / scans21–27**
 - Part001 Tamil archival-ready / assembled Tamil / English / release-readiness / final closure: **BLOCKED**
 - Part002 source: **REGISTERED / TRANSCRIPTION BLOCKED**
 - audited outgoing boundary: **30→31 GENUINE CONTINUATION**
@@ -168,8 +169,8 @@ Durable rule:
 
 ## Exact next activity
 
-English E1 is **SOURCE-CHECKED / COMPLETE**.
+English E2 is **SOURCE-CHECKED / COMPLETE**.
 
-Proceed with **English Draft Batch E2 — `தோரண வாயில்` / scans13–20** from the PASSED assembled Tamil layer, with canonical `pages/` remaining controlling authority.
+Proceed with **English Draft Batch E3 — `ஒரு இரகசியக் கடிதம்!` / scans21–27** from the PASSED assembled Tamil layer, with canonical `pages/` remaining controlling authority.
 
 Part002 transcription remains blocked.

@@ -53,8 +53,9 @@ Current state:
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 8/8 section files VERIFIED**
 - English E1 — **SOURCE-CHECKED / COMPLETE**
-- English translated files — **5/8**
-- English source-checked files — **5/8**
+- English E2 — **SOURCE-CHECKED / COMPLETE**
+- English translated files — **6/8**
+- English source-checked files — **6/8**
 - unresolved English holds — **0**
 - release/readiness — **BLOCKED**
 - final Part closure — **BLOCKED**
@@ -75,6 +76,7 @@ Live trackers:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/GLOSSARY.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E1_SOURCE_CHECK.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/E2_SOURCE_CHECK.md`
 
 ## Historical preliminary work
 
@@ -136,8 +138,8 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-English E1 is **SOURCE-CHECKED / COMPLETE**.
+English E2 is **SOURCE-CHECKED / COMPLETE**.
 
-Proceed with **English Draft Batch E2 — `தோரண வாயில்` / scans13–20**. E2 must pass its source-check before E3 becomes active.
+Proceed with **English Draft Batch E3 — `ஒரு இரகசியக் கடிதம்!` / scans21–27**. E3 must pass its source-check before E4 becomes active.
 
 Keep glossary reconciliation, editorial review, release/readiness, final Part closure and Part002 transcription blocked.

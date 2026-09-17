@@ -78,9 +78,10 @@ Current Pass-1 state:
 - Tamil archival-ready checkpoint: **PASS / CLOSED**;
 - assembled Tamil: **PASS / CLOSED — 8/8 section files VERIFIED**;
 - English E1: **SOURCE-CHECKED / COMPLETE**;
-- English translated/source-checked files: **5/8**;
+- English E2: **SOURCE-CHECKED / COMPLETE**;
+- English translated/source-checked files: **6/8**;
 - unresolved English holds: **0**;
-- English next: **E2 / `தோரண வாயில்` / scans13–20**;
+- English next: **E3 / `ஒரு இரகசியக் கடிதம்!` / scans21–27**;
 - outgoing boundary **30→31**: **GENUINE CONTINUATION / AUDITED** using Part002 local1 as a boundary witness only.
 
 Authoritative tracker:
@@ -89,4 +90,4 @@ Authoritative tracker:
 - `PART_001_PASS2B_PROGRESS.md`
 - `PART_001_PASS3_PROGRESS.md`
 
-**Next:** perform **English Draft Batch E2 — `தோரண வாயில்` / scans13–20**, then complete its E2 source-check before E3. Do not begin glossary reconciliation, editorial review, release/readiness, final Part closure, or Part002 transcription yet.
+**Next:** perform **English Draft Batch E3 — `ஒரு இரகசியக் கடிதம்!` / scans21–27**, then complete its E3 source-check before E4. Do not begin glossary reconciliation, editorial review, release/readiness, final Part closure, or Part002 transcription yet.

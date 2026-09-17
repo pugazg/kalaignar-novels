@@ -1,6 +1,6 @@
 # English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **E1 SOURCE-CHECKED / INITIAL LOCK EXTENDED**
+Status: **E2 SOURCE-CHECKED / INITIAL LOCK EXTENDED**
 
 This glossary is derived only from the verified Part001 canonical/assembled Tamil. It contains project translation choices, not external historical or linguistic claims.
 
@@ -64,6 +64,21 @@ Canonical Tamil remains controlling.
 | `சுபா சுந்தரம்` | **Subha Sundaram** | photograph credit |
 | `சங்கத்தமிழ்` | **Sangathamizh** | source work title |
 
+## E2 additional names / labels
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `தா.சிவ சிதம்பரம்` | **T. Siva Sithambaram** | source name/initials; distinct from `மு. சிவசிதம்பரம்` |
+| `கலாநிதி வித்தியானந்தன்` | **Kalanidhi Vithiananthan** | source-facing project form |
+| `ஒண்டிரிபார்க்` | **Ondiribark** | preserve source-printed name; do not normalize from outside knowledge |
+| `கண்ணுசாமி` | **Kannusamy** | source personal name |
+| `விக்கிரம ராஜ சிங்கன்` | **Vikrama Raja Singan** | source regnal name |
+| `சேரன் செங்குட்டுவன்` | **Cheran Senguttuvan** | source literary/historical name |
+| `கனக விசயர்` | **Kanaka Visayar** | source name |
+| `கயவாகு` | **Kayavaku** | source name |
+| `மு. சிவசிதம்பரம்` | **M. Sivasithambaram** | source name/initials |
+| `தமிழர் விடுதலைக் கூட்டணி` | **Tamil United Liberation Front** | direct project translation of source organization label; no external institutional claims added |
+
 ## Places
 
 | Tamil source | English handling | Note |
@@ -84,6 +99,16 @@ Canonical Tamil remains controlling.
 | `பருத்தித்துறை` | **Paruthithurai** | |
 | `சிலாவத்தைத் துறை` | **Silavathurai** | source-facing project romanization |
 | `கற்சிலை மடுவு` / `கற்சிலைமடு` | **Karsilai Madu / Karsilaimadu** | preserve the source's own form by occurrence; reconcile English spelling only if needed without altering Tamil |
+| `பனங்காமம்` | **Panangamam** | source place label |
+| `கொழும்பு` | **Kolumbu** | source-facing project romanization in the folk-song passage |
+| `கோட்டை` | **Kottai** | source-facing project romanization in the folk-song passage |
+| `மட்டக்களப்பு` | **Mattakkalappu** | source-facing project romanization |
+| `யாழ்ப்பாணப் பரவைக் கடல்` | **Yalppana Paravai Sea** | source-facing project rendering; no external geographic identification added |
+| `அருவி ஆறு` | **Aruvi River** | source-facing project rendering |
+| `வஞ்சிமூதூர்` | **Vanchi Muthur** | source place label |
+| `பத்தாப்பளை` | **Paththappalai** | source story/place form |
+| `வற்றாப்பளை` | **Vattrappalai** | source present-day form within the text |
+| `களச்சா` | **Kalachchaa** | source place label; no external identification added |
 
 ## Offices / political-historical vocabulary
 
@@ -105,7 +130,10 @@ Canonical Tamil remains controlling.
 |---|---|---|
 | `தோணி` | **boat** | use more specific wording only if source context requires it |
 | `நாட்டுப் பாடல்` | **folk song** | |
-| `பரணி` | ***parani*** | retain source literary label in E1; do not add outside genre history inside translation |
+| `பரணி` | ***parani*** | retain source literary label; do not add outside genre history inside translation |
+| `முத்தமிழ் விழா` | **Muthamizh festival** | retain source-facing cultural label |
+| `பத்தினித் தெய்வம்` | **goddess of chastity** | direct contextual rendering in E2 |
+| `சிலப்பதிகாரம்` | **Silappatikaram** | source literary title |
 | `தொடர்கதை` | **serial story / serialized story** | choose by syntax |
 | `சிற்றார் / சிற்றார்கள்` | **hamlet / hamlets** | preserve the source-specific Tamil form in canonical layer; English uses contextual meaning |
 | `தோரணம்` | **festoon / decorative leaf garland** | use only where the narrative itself refers to the decorated house-fronts |
@@ -152,3 +180,16 @@ E1 drafting/source-check introduced no external historical or linguistic authori
 The scan8→9 foreword syntax around `மற்றொரு களம். பண்டாரக வன்னியன் பற்றி வைத்திருந்த...` is source-awkward. The English renders it conservatively without reconstructing a missing relation or adding outside context. This is **not an unresolved translation hold**.
 
 E1 unresolved holds: **0**.
+
+
+## E2 source-check note
+
+E2 drafting/source-check used only the verified `தோரண வாயில்` Tamil and existing project controls.
+
+Source-specific historical/political claims, quotations and organization labels remain represented as source voice or attributed quotation. No external fact-checking, normalization or geopolitical reconciliation was inserted into translation prose.
+
+The source's parenthetical chronology `ஆறு ஆண்டுகளுக்கு முன்பு (1982-ல்)` is preserved as **“Six years ago (in 1982)”** without reconciliation.
+
+The source slogan `உண்டேல் சுதந்திரம், இன்றேல் இல்லை வாழ்வு!` is elliptical; E2 preserves that ellipsis conservatively as **“If there is freedom; if not, there is no life!”** rather than supplying an unstated clause.
+
+E2 unresolved holds: **0**.

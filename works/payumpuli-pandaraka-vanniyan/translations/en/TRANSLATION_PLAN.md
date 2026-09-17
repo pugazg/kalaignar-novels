@@ -1,6 +1,6 @@
 # English Translation Plan — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **E1 SOURCE-CHECKED / COMPLETE — E2 NEXT**
+Status: **E2 SOURCE-CHECKED / COMPLETE — E3 NEXT**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -156,8 +156,8 @@ Batches follow the already-verified Tamil section boundaries.
 | Batch | Tamil assembled coverage | Scans | English state |
 |---|---|---:|---|
 | **E1** | sections 00–04: front matter + `அணிந்துரை` + `பதிப்புரை` + epigraph + title divider | **1–12** | **SOURCE-CHECKED / COMPLETE** |
-| **E2** | section 05: `தோரண வாயில்` | **13–20** | **NEXT / NOT STARTED** |
-| **E3** | section 06: `ஒரு இரகசியக் கடிதம்!` | **21–27** | BLOCKED |
+| **E2** | section 05: `தோரண வாயில்` | **13–20** | **SOURCE-CHECKED / COMPLETE** |
+| **E3** | section 06: `ஒரு இரகசியக் கடிதம்!` | **21–27** | **NEXT / NOT STARTED** |
 | **E4** | section 07: `வழியில் கண்ட வயோதிகர்!` | **28–30** | BLOCKED |
 
 Each batch must complete its draft and source-check before the next batch becomes active.
@@ -237,8 +237,14 @@ E1 — sections00–04 / scans1–12 — is **SOURCE-CHECKED / COMPLETE** with *
 
 Detailed closure: `E1_SOURCE_CHECK.md`.
 
+## E2 closure
+
+E2 — `தோரண வாயில்` / scans13–20 — is **SOURCE-CHECKED / COMPLETE** with **0 unresolved holds** and **0 canonical Tamil edits**.
+
+Detailed closure: `E2_SOURCE_CHECK.md`.
+
 ## Exact next activity
 
-**English Draft Batch E2 — `தோரண வாயில்` / scans13–20**, followed by its E2 source-check.
+**English Draft Batch E3 — `ஒரு இரகசியக் கடிதம்!` / scans21–27**, followed by its E3 source-check.
 
-Do not begin E3 until E2 draft + source-check closes.
+Do not begin E4 until E3 draft + source-check closes.

@@ -41,7 +41,8 @@ Pass 2A remains **CLOSED / COMPLETE**.
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 8/8 section files VERIFIED**
 - English E1 — **SOURCE-CHECKED / COMPLETE**
-- English translated/source-checked files — **5/8**
+- English E2 — **SOURCE-CHECKED / COMPLETE**
+- English translated/source-checked files — **6/8**
 - unresolved English holds — **0**
-- exact next gate — **English Draft Batch E2 — `தோரண வாயில்` / scans13–20**
+- exact next gate — **English Draft Batch E3 — `ஒரு இரகசியக் கடிதம்!` / scans21–27**
 - Part002 transcription — **BLOCKED**
