@@ -18,7 +18,7 @@ Core rule:
 
 > **Part001 must complete its full Tamil + assembled Tamil + English + release/readiness + release-ready synchronization + final-closure workflow before Part002 transcription begins.**
 
-Later Parts may be supplied/registered and may be used as adjacent boundary witnesses, but they remain transcription-blocked until the active Part closes.
+Later Parts may be supplied/registered and may be used as adjacent boundary witnesses, but remain transcription-blocked until the active Part closes.
 
 ## Current active Part
 
@@ -27,73 +27,50 @@ Later Parts may be supplied/registered and may be used as adjacent boundary witn
 Current Part001 state:
 
 - source intake — **PASS / COMPLETE**
-- canonical records present — **30/30**
-- Pass 1 — **COMPLETE — 30/30**
-- formal Pass 2A — **COMPLETE — 30/30 reviewed**
-- formal Pass 2B — **COMPLETE — 30/30 reviewed**
-- formal Pass 3 — **COMPLETE — 30/30 reviewed**
+- canonical records — **30/30 present / verified**
+- Pass 1 / Pass 2A / Pass 2B / Pass 3 — **COMPLETE**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status sync — **PASS / CLOSED**
-- Tamil textual status — **30/30 verified; 0 partial; 0 needs-review**
-- visual fidelity — **30/30 verified; 0 needs-review**
-- unresolved status exceptions — **0**
 - documentation sync — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **PASS / CLOSED — 8/8 section files VERIFIED**
+- assembled Tamil — **PASS / CLOSED — 8/8 VERIFIED**
 - English E1–E4 — **SOURCE-CHECKED / COMPLETE — 8/8**
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED — 8/8 reviewed**
-- English files with editorial prose edits — **3/8**
-- substantive English-only editorial corrections — **8**
 - whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs reviewed**
-- English-only corrections newly required by bilingual review — **0**
 - release/readiness report — **PASS / CLOSED**
-- unresolved English/source-check holds — **0**
-- unresolved glossary holds — **0**
-- unresolved editorial holds — **0**
-- unresolved bilingual holds — **0**
-- unresolved release/readiness blockers — **0**
-- canonical Tamil edits caused by English — **0**
-- Part002 content imported by English work — **0**
-- release-ready synchronization — **NEXT / NOT STARTED**
-- final Part001 closure — **BLOCKED**
-
-The earlier local T2/T3 work on scans1–5 is retained as **historical preliminary review evidence only**. It does not count as formal Kuraloviyam-style Part-level Pass 2A / Pass 2B / Pass 3 closure.
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved English/glossary/editorial/bilingual/release-readiness blockers — **0**
+- canonical Tamil edits caused by English/release synchronization — **0**
+- Part002 content imported — **0**
+- final Part001 closure — **NEXT / NOT STARTED**
+- Part002 transcription — **BLOCKED**
 
 ## Part001 source structure
-
-Observed from the attached Part001 source:
 
 1. scan1 — illustrated cover
 2. scans2–5 — title / publisher / bibliographic front matter
 3. scans6–9 — `அணிந்துரை`
 4. scan10 — `பதிப்புரை`
-5. scan11 — verse / epigraph; attribution `எழுச்சிக் கவிஞர் காசி ஆனந்தன்`
+5. scan11 — verse / epigraph; `எழுச்சிக் கவிஞர் காசி ஆனந்தன்`
 6. scan12 — secondary illustrated title/divider
 7. scans13–20 — `தோரண வாயில்`
-8. scan21 — chapter 2 opening `ஒரு இரகசியக் கடிதம்!`
-9. scans22–27 — chapter 2 continuation
-10. scan28 — chapter 3 opening `வழியில் கண்ட வயோதிகர்!`
-11. scans29–30 — chapter 3 continuation
-
-Visible body pagination:
-- scan13 → printed 2
-- …
-- scan30 → printed 19
+8. scan21 — `ஒரு இரகசியக் கடிதம்!`
+9. scans22–27 — continuation
+10. scan28 — `வழியில் கண்ட வயோதிகர்!`
+11. scans29–30 — continuation
 
 ## Part002 state
 
-Part002 source is **SUPPLIED / REGISTERED**, but **TRANSCRIPTION BLOCKED**.
+Part002 source is **SUPPLIED / REGISTERED / TRANSCRIPTION BLOCKED**.
 
-No canonical Part002 transcription records are retained.
-
-The adjacent Part002 first page was inspected only as the outgoing-boundary witness for Part001:
-
+Boundary lock:
 - scan30 / Part001 local30 / printed19
 - scan31 / Part002 local1 / printed20
-- boundary **30→31 = GENUINE CONTINUATION**
-
-Part001 Tamil ends `அவனுக்கு ஒரே மகிழ்ச்சி,`; maintained English ends **“He was filled with joy,”**. Scan31 content remains excluded from Part001.
+- **30→31 = GENUINE CONTINUATION**
+- Tamil Part001 ends `அவனுக்கு ஒரே மகிழ்ச்சி,`
+- English Part001 ends **“He was filled with joy,”**
+- scan31 content is excluded from Part001
 
 ## Source rules
 
@@ -102,19 +79,12 @@ Part001 Tamil ends `அவனுக்கு ஒரே மகிழ்ச்ச�
 - preserve source spelling, punctuation, paragraph structure and historical glyph identity;
 - do not normalize names, offices, place names or vocabulary;
 - separate stamps / handwriting / library marks from printed text;
-- no web mirror or alternate edition is needed unless explicitly requested;
+- no web mirror or alternate edition unless explicitly requested;
 - source PDFs remain outside Git.
 
-## Controls
+## Active controls
 
 - [`PAYUMPULI_ARCHIVAL_GUIDELINES.md`](PAYUMPULI_ARCHIVAL_GUIDELINES.md)
-- [`PART_001_PASS1_PROGRESS.md`](PART_001_PASS1_PROGRESS.md)
-- [`PART_001_PASS2A_PROGRESS.md`](PART_001_PASS2A_PROGRESS.md)
-- [`PART_001_PASS2B_PROGRESS.md`](PART_001_PASS2B_PROGRESS.md)
-- [`PART_001_PASS3_PROGRESS.md`](PART_001_PASS3_PROGRESS.md)
-- [`PART_001_AUDIT.md`](PART_001_AUDIT.md)
-- [`PART_001_FINAL_STATUS_SYNC.md`](PART_001_FINAL_STATUS_SYNC.md)
-- [`PART_001_DOCUMENTATION_SYNC.md`](PART_001_DOCUMENTATION_SYNC.md)
 - [`PART_001_TAMIL_ARCHIVAL_READY.md`](PART_001_TAMIL_ARCHIVAL_READY.md)
 - [`PART_001_ASSEMBLED_TAMIL_VALIDATION.md`](PART_001_ASSEMBLED_TAMIL_VALIDATION.md)
 - [`sections/README.md`](sections/README.md)
@@ -122,40 +92,29 @@ Part001 Tamil ends `அவனுக்கு ஒரே மகிழ்ச்ச�
 - [`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md)
-- [`translations/en/E1_SOURCE_CHECK.md`](translations/en/E1_SOURCE_CHECK.md)
-- [`translations/en/E2_SOURCE_CHECK.md`](translations/en/E2_SOURCE_CHECK.md)
-- [`translations/en/E3_SOURCE_CHECK.md`](translations/en/E3_SOURCE_CHECK.md)
-- [`translations/en/E4_SOURCE_CHECK.md`](translations/en/E4_SOURCE_CHECK.md)
-- [`translations/en/GLOSSARY_RECONCILIATION.md`](translations/en/GLOSSARY_RECONCILIATION.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 - [`translations/en/BILINGUAL_REVIEW.md`](translations/en/BILINGUAL_REVIEW.md)
 - [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
-- [`SOURCE_INTAKE.md`](SOURCE_INTAKE.md)
-- [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md)
-- [`metadata/source.md`](metadata/source.md)
-- [`indexes/page-map.md`](indexes/page-map.md)
-- [`audit.md`](audit.md)
-- `SOURCE_INTAKE_PART_001.md` … `SOURCE_INTAKE_PART_016.md`
+- [`PART_001_RELEASE_READY_SYNC.md`](PART_001_RELEASE_READY_SYNC.md)
 
-Historical preliminary checkpoint records are retained for provenance but do not override the live Kuraloviyam-style Part tracker.
+## Release-ready synchronization
 
-## Release/readiness checkpoint
+`PART_001_RELEASE_READY_SYNC.md` is **PASS / CLOSED**.
 
-`translations/en/RELEASE_REPORT.md` is **PASS / CLOSED** with:
-
-- Tamil coverage **30/30 verified**;
-- assembled Tamil **8/8 VERIFIED / PASS / CLOSED**;
-- English coverage **8/8**;
-- whole-Part bilingual review **PASS / CLOSED**;
-- unresolved release/readiness blockers **0**;
-- active-work source-PDF paths in the live Git tree **0**;
-- canonical Tamil edits caused by release/readiness **0**;
-- Part002 leakage **0**.
-
-This authorizes only the next gate, **release-ready synchronization**. It does not authorize final closure or Part002 transcription.
+It confirms:
+- all upstream Tamil/English/release gates are closed;
+- canonical Tamil changes during synchronization — **0**;
+- maintained English body changes during synchronization — **0**;
+- source-variant collapses — **0**;
+- Part002 leakage — **0**;
+- terminal boundary remains intact.
 
 ## Exact next activity
 
-Perform **release-ready synchronization** for Part001.
+Perform **Part001 final closure** only.
 
-Keep final Part001 closure and Part002 transcription blocked until release-ready synchronization closes.
+Create and verify:
+
+`PART_001_FINAL_CLOSURE.md`
+
+Keep Part002 transcription blocked until final closure passes.
