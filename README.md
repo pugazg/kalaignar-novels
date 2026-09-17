@@ -8,22 +8,13 @@
 - source family: **TVA_BOK_0065744**;
 - complete physical extent: **477 scans**;
 - working source: **16 split PDFs — all supplied / registered**;
-- Part001 / scans1–30 — **FINAL CLOSURE PASS / CLOSED**;
-- Part001 canonical records — **30/30 verified**;
-- Part001 Tamil archival-ready — **PASS / CLOSED**;
-- Part001 assembled Tamil — **PASS / CLOSED — 8/8 VERIFIED**;
-- Part001 English E1–E4 — **SOURCE-CHECKED / COMPLETE — 8/8**;
-- Part001 glossary reconciliation — **RECONCILED / PASS**;
-- Part001 English editorial review — **PASS / CLOSED**;
-- Part001 bilingual review — **PASS / CLOSED**;
-- Part001 release/readiness — **PASS / CLOSED**;
-- Part001 release-ready synchronization — **PASS / CLOSED**;
-- Part001 unresolved blockers — **0**;
-- Part002 source — **SUPPLIED / REGISTERED**;
-- Part002 global range — **31–60**;
-- Part002 canonical page records — **0**;
-- Part002 transcription — **AUTHORIZED / NOT STARTED**;
-- boundary **30→31 = GENUINE CONTINUATION / AUDITED**.
+- Part001 / scans1–30 — **FINAL CLOSURE PASS / CLOSED / FROZEN**;
+- Part002 / scans31–60 — **ACTIVE**;
+- Part002 canonical records — **10/30 — scans31–40**;
+- Part002 Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**;
+- Part002 Pass 2A / 2B / 3 — **NOT STARTED**;
+- incoming boundary **30→31 = GENUINE CONTINUATION / AUDITED**;
+- outgoing boundary **60→61 = PENDING direct audit**.
 
 This work follows the **Kuraloviyam per-Part closure model**:
 
@@ -31,16 +22,9 @@ This work follows the **Kuraloviyam per-Part closure model**:
 
 Active controls:
 - `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
-- `works/payumpuli-pandaraka-vanniyan/README.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_001_RELEASE_READY_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_001_FINAL_CLOSURE.md`
 - `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_002.md`
-- `works/payumpuli-pandaraka-vanniyan/translations/en/TRANSLATION_PLAN.md`
-- `works/payumpuli-pandaraka-vanniyan/translations/en/GLOSSARY.md`
-- `works/payumpuli-pandaraka-vanniyan/translations/en/PROGRESS.md`
-- `works/payumpuli-pandaraka-vanniyan/translations/en/TRANSLATION_REVIEW.md`
-- `works/payumpuli-pandaraka-vanniyan/translations/en/BILINGUAL_REVIEW.md`
-- `works/payumpuli-pandaraka-vanniyan/translations/en/RELEASE_REPORT.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_002_PASS1_PROGRESS.md`
 - `HANDOVER.md`
 
 Part001 terminal lock remains permanent:
@@ -48,7 +32,17 @@ Part001 terminal lock remains permanent:
 - English ends **“He was filled with joy,”**;
 - scan31 was not imported into Part001.
 
-Exact next action: **activate Part002 and perform Pass 1 for global scans31–40 / Part002 local pages1–10.**
+Part002 Batch 1:
+- global scans **31–40** / local pages **1–10** — **PASS 1 COMPLETE / TEXT-COMPLETE**
+- printed pages **20–29**
+- scans31–34: `வழியில் கண்ட வயோதிகர்!`
+- scan35 opens chapter 4 `குருவிச்சி நாச்சியார்`
+- scans36–40 continue chapter 4
+- scan40 ends `எனவே அந்தப் பெரிய மணி ஓசை`
+
+Exact next action: **Part002 Pass 1 for global scans41–50 / local pages11–20.**
+
+Do not begin Pass 2A until Part002 Pass 1 reaches **30/30**.
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 
