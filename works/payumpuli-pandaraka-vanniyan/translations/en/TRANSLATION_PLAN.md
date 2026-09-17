@@ -1,6 +1,6 @@
 # English Translation Plan — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **ENGLISH EDITORIAL REVIEW — PASS / CLOSED — WHOLE-PART BILINGUAL REVIEW NEXT**
+Status: **WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED — RELEASE/READINESS REPORT NEXT**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -51,7 +51,7 @@ Front matter, foreword, publisher's note, epigraph and printed divider text are 
 
 ## Names and romanization
 
-The initial glossary uses conservative project romanizations derived from the Tamil text itself.
+The glossary uses conservative project romanizations derived from the Tamil text itself.
 
 Rules:
 
@@ -203,37 +203,49 @@ Editorial changes were limited to source-safe English syntax/readability improve
 
 Detailed closure: `TRANSLATION_REVIEW.md`.
 
-## Whole-Part bilingual review — NEXT
+## Whole-Part bilingual review — PASS / CLOSED
 
-Before release/readiness:
+The complete **8/8** maintained English layer was compared against the complete **8/8 PASSED** assembled Tamil layer, scans1–30 only.
 
-- verify all 8 Tamil assembled sections are represented in English;
-- compare the complete maintained English layer against the complete PASSED assembled Tamil layer;
-- verify scan coverage remains **1–30 only**;
-- verify no Part002 content appears;
-- verify quotations, verse, songs, dialogue, speaker/narrator agency and chronology remain aligned;
-- verify deliberate source variants remain protected;
-- verify the editorial corrections in `TRANSLATION_REVIEW.md` preserve source meaning;
-- verify the final English fragment remains **“He was filled with joy,”**;
-- verify unresolved English/bilingual holds = **0** before closing the gate;
-- verify canonical Tamil changes caused by English = **0**.
+Confirmed:
 
-The whole-Part bilingual review has **not** begun in the editorial-review iteration.
+- all 8 Tamil sections are represented once and in source order;
+- source meaning, speaker/narrator agency, chronology and knowledge state remain aligned;
+- paragraph/dialogue/quotation/verse/song/display structure remains aligned where meaningful;
+- deliberate source variants remain protected;
+- all **8/8** editorial corrections preserve their Tamil basis;
+- source rhetoric and historical/political framing remain source-framed rather than neutralized, modernized or fact-corrected;
+- unsupported historical, political, geographic, literary or botanical explanation added — **0**;
+- scan coverage remains **1–30 only**;
+- Part002 content imported — **0**;
+- final English fragment remains **“He was filled with joy,”**;
+- unresolved bilingual holds — **0**;
+- English-only corrections newly required by bilingual review — **0**;
+- canonical Tamil edits caused by bilingual review — **0**.
 
-## Release/readiness gate
+Detailed closure: `BILINGUAL_REVIEW.md`.
 
-Create the maintained release/readiness report only after the whole-Part bilingual review passes.
+## Release/readiness gate — NEXT
+
+Create the maintained release/readiness report now that the whole-Part bilingual review has passed.
 
 It must confirm:
 
 - Tamil/English coverage;
 - bilingual alignment;
 - glossary consistency;
+- editorial and bilingual closure;
 - unresolved items;
 - navigation/provenance;
 - Part001 terminal boundary;
 - source-PDF exclusion from Git;
 - canonical Tamil unchanged.
+
+The durable release/readiness record is:
+
+`RELEASE_REPORT.md`
+
+Release-ready synchronization, final Part closure and Part002 transcription remain blocked until that report passes.
 
 ## Final rule
 
@@ -257,6 +269,6 @@ Detailed closures: `E1_SOURCE_CHECK.md`, `E2_SOURCE_CHECK.md`, `E3_SOURCE_CHECK.
 
 ## Exact next activity
 
-**whole-Part bilingual review** across the complete **8/8** Tamil/English Part001 layer, scans1–30 only.
+**release/readiness report** for the complete Part001 Tamil/English layer, scans1–30 only.
 
-Do not begin release/readiness, final Part closure or Part002 transcription until the bilingual review closes.
+Do not begin release-ready synchronization, final Part closure or Part002 transcription until the release/readiness gate closes.
