@@ -4,7 +4,7 @@ English translation workspace for Part001 of **பாயும்புலி �
 
 ## Current status
 
-**ENGLISH EDITORIAL REVIEW — PASS / CLOSED — WHOLE-PART BILINGUAL REVIEW NEXT**
+**WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED — RELEASE/READINESS REPORT NEXT**
 
 - Tamil canonical authority — **30/30 verified**
 - assembled Tamil reading layer — **8/8 VERIFIED / PASS / CLOSED**
@@ -16,12 +16,15 @@ English translation workspace for Part001 of **பாயும்புலி �
 - E4 — **SOURCE-CHECKED / COMPLETE**
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED — 8/8 reviewed**
+- whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs reviewed**
 - unresolved English/source-check holds — **0**
 - unresolved glossary holds — **0**
 - unresolved editorial holds — **0**
+- unresolved bilingual holds — **0**
+- English-only corrections newly required by bilingual review — **0**
 - canonical Tamil changes caused by English — **0**
 - Part002 content imported — **0**
-- exact next activity — **whole-Part bilingual review**
+- exact next activity — **release/readiness report**
 
 ## Authority
 
@@ -44,29 +47,30 @@ No published, web, remembered or standard English translation is used as authori
 - `E4_SOURCE_CHECK.md` — E4 closure record
 - `GLOSSARY_RECONCILIATION.md` — whole-Part glossary closure record
 - `TRANSLATION_REVIEW.md` — English editorial-review closure record
+- `BILINGUAL_REVIEW.md` — whole-Part bilingual-review closure record
 
-Later maintained controls will include the whole-Part bilingual-review record and `RELEASE_REPORT.md`.
+The next maintained control to create is `RELEASE_REPORT.md`.
 
 ## English section coverage
 
-All **8** verified Part001 Tamil assembled files are represented in English.
+All **8** verified Part001 Tamil assembled files are represented in English and passed whole-Part bilingual review.
 
 | Tamil file | English file | Scans | State |
 |---|---|---:|---|
-| `00-front-matter.md` | `sections/00-front-matter.md` | 1–5 | source-checked; editorial-reviewed unchanged |
-| `01-anindurai.md` | `sections/01-foreword.md` | 6–9 | source-checked; editorial-reviewed unchanged |
-| `02-pathippurai.md` | `sections/02-publishers-note.md` | 10 | source-checked; editorial-reviewed with source-safe edits |
-| `03-epigraph.md` | `sections/03-epigraph.md` | 11 | source-checked; editorial-reviewed unchanged |
-| `04-title-divider.md` | `sections/04-title-divider.md` | 12 | source-checked; editorial-reviewed unchanged |
-| `05-thorana-vayil.md` | `sections/05-thorana-vayil.md` | 13–20 | source-checked; editorial-reviewed with source-safe edits |
-| `06-oru-iragasiyak-kaditham.md` | `sections/06-a-secret-letter.md` | 21–27 | source-checked; editorial-reviewed with source-safe edits |
-| `07-vazhiyil-kanda-vayothigar.md` | `sections/07-the-old-man-met-on-the-way.md` | 28–30 | source-checked; editorial-reviewed unchanged |
+| `00-front-matter.md` | `sections/00-front-matter.md` | 1–5 | source-checked; editorial-reviewed; bilingual PASS |
+| `01-anindurai.md` | `sections/01-foreword.md` | 6–9 | source-checked; editorial-reviewed; bilingual PASS |
+| `02-pathippurai.md` | `sections/02-publishers-note.md` | 10 | source-checked; editorial-reviewed with source-safe edits; bilingual PASS |
+| `03-epigraph.md` | `sections/03-epigraph.md` | 11 | source-checked; editorial-reviewed; bilingual PASS |
+| `04-title-divider.md` | `sections/04-title-divider.md` | 12 | source-checked; editorial-reviewed; bilingual PASS |
+| `05-thorana-vayil.md` | `sections/05-thorana-vayil.md` | 13–20 | source-checked; editorial-reviewed with source-safe edits; bilingual PASS |
+| `06-oru-iragasiyak-kaditham.md` | `sections/06-a-secret-letter.md` | 21–27 | source-checked; editorial-reviewed with source-safe edits; bilingual PASS |
+| `07-vazhiyil-kanda-vayothigar.md` | `sections/07-the-old-man-met-on-the-way.md` | 28–30 | source-checked; editorial-reviewed; bilingual PASS |
 
-Detailed editorial accounting is in `TRANSLATION_REVIEW.md`.
+Detailed bilingual accounting is in `BILINGUAL_REVIEW.md`.
 
 ## Protected source variants
 
-Editorial review did not normalize deliberate source distinctions, including:
+Whole-Part bilingual review confirmed, without normalization:
 
 - **Pandara Vanniyan / Pandaraka Vanniyan**
 - **Kulasekara Vairamuthu / Kulasekaram Vairamuthu**
@@ -92,6 +96,6 @@ Scan31 is Part002 and must not be imported or translated in Part001. English mus
 
 ## Exact next activity
 
-**whole-Part bilingual review** across all eight Tamil/English section pairs, scans1–30 only.
+Create and complete the **release/readiness report** for Part001, scans1–30 only.
 
-Do not begin release/readiness, final Part closure or Part002 transcription until the bilingual review closes.
+Do not begin release-ready synchronization, final Part closure or Part002 transcription until the release/readiness gate closes.
