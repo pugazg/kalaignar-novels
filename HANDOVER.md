@@ -39,41 +39,33 @@ Range:
 Current state:
 - source intake — **PASS / COMPLETE**
 - canonical records — **30/30 present**
-- Pass 1 text-complete — **30/30 — scans1–30**
-- Pass 1 partial — **0/30**
+- Pass 1 — **COMPLETE — 30/30**
 - formal Pass 2A — **COMPLETE — 30/30 reviewed**
 - formal Pass 2B — **COMPLETE — 30/30 reviewed**
 - formal Pass 3 — **COMPLETE — 30/30 reviewed**
 - Part audit — **PASS / COMPLETE**
 - final status sync — **PASS / CLOSED**
-- Tamil textual status — **30/30 verified; 0 partial; 0 needs-review**
-- visual fidelity — **30/30 verified; 0 needs-review**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
 - unresolved status exceptions — **0**
 - documentation sync — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **PASS / CLOSED — 8/8 section files VERIFIED**
-- English E1 — **SOURCE-CHECKED / COMPLETE**
-- English E2 — **SOURCE-CHECKED / COMPLETE**
-- English E3 — **SOURCE-CHECKED / COMPLETE**
-- English E4 — **SOURCE-CHECKED / COMPLETE**
-- English translated files — **8/8**
-- English source-checked files — **8/8**
+- assembled Tamil — **PASS / CLOSED — 8/8 VERIFIED**
+- English E1–E4 — **SOURCE-CHECKED / COMPLETE — 8/8**
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
-- unresolved English holds — **0**
+- English editorial review — **PASS / CLOSED — 8/8 reviewed**
+- English files with prose edits — **3/8**
+- substantive English-only editorial corrections — **8**
+- unresolved English/source-check holds — **0**
+- unresolved glossary holds — **0**
+- unresolved editorial holds — **0**
+- canonical Tamil edits caused by English — **0**
+- Part002 content imported by English work — **0**
+- whole-Part bilingual review — **NEXT / NOT STARTED**
 - release/readiness — **BLOCKED**
 - final Part closure — **BLOCKED**
 
-Live trackers:
-- `works/payumpuli-pandaraka-vanniyan/PART_001_PASS1_PROGRESS.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_001_PASS2A_PROGRESS.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_001_PASS2B_PROGRESS.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_001_PASS3_PROGRESS.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_001_AUDIT.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_001_FINAL_STATUS_SYNC.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_001_DOCUMENTATION_SYNC.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_001_TAMIL_ARCHIVAL_READY.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
-- `works/payumpuli-pandaraka-vanniyan/sections/README.md`
+Live English controls:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/README.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/TRANSLATION_PLAN.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/GLOSSARY.md`
@@ -83,14 +75,7 @@ Live trackers:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E3_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E4_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/GLOSSARY_RECONCILIATION.md`
-
-## Historical preliminary work
-
-Earlier local T1/T2/T3 work on scans1–5 remains historical evidence only. It is **not** treated as formal whole-Part Pass 2A / Pass 2B / Pass 3 closure.
-
-Scans1–2 were returned from premature `verified` to `needs-review` without changing the transcription.
-
-At Pass-1 closure, Part001 scans1–30 were text-complete / `needs-review`. That historical state is retained; after the full verification chain and final status synchronization, all 30 are now `verified`. Pass 1 remains **COMPLETE / 30/30**.
+- `works/payumpuli-pandaraka-vanniyan/translations/en/TRANSLATION_REVIEW.md`
 
 ## Part001 structure
 
@@ -102,8 +87,7 @@ At Pass-1 closure, Part001 scans1–30 were text-complete / `needs-review`. That
 - scan12 — illustrated divider
 - scans13–20 — `தோரண வாயில்`
 - scan21 — chapter 2 opening `ஒரு இரகசியக் கடிதம்!`
-- scans22–25 — chapter 2 continuation
-- scans26–27 — chapter 2 continuation
+- scans22–27 — chapter 2 continuation
 - scan28 — chapter 3 opening `வழியில் கண்ட வயோதிகர்!`
 - scans29–30 — chapter 3 continuation
 - scan30 — printed page19; ends `அவனுக்கு ஒரே மகிழ்ச்சி,` and continues at scan31
@@ -112,12 +96,12 @@ At Pass-1 closure, Part001 scans1–30 were text-complete / `needs-review`. That
 
 Part002 source is supplied and registered, but transcription is **BLOCKED**.
 
-The first Part002 page was used only as a boundary witness:
+The first Part002 page is an adjacent boundary witness only:
 - scan30 / Part001 local30 / printed19
 - scan31 / Part002 local1 / printed20
 - **30→31 = GENUINE CONTINUATION**
 
-Premature Part002 canonical records scans31–35 were deleted.
+Part001 maintained English ends exactly **“He was filled with joy,”**. No scan31 text is imported or inferred.
 
 ## Mandatory Part001 closure chain
 
@@ -134,8 +118,8 @@ Premature Part002 canonical records scans31–35 were deleted.
 11. English draft
 12. English source-check
 13. glossary reconciliation
-14. editorial review
-15. whole-Part bilingual review
+14. editorial review — **PASS / CLOSED**
+15. whole-Part bilingual review — **NEXT**
 16. `translations/en/RELEASE_REPORT.md` — release/readiness decision
 17. release-ready synchronization as applicable
 18. `PART_001_FINAL_CLOSURE.md`
@@ -144,8 +128,6 @@ Only after step 18 may Part002 content work begin.
 
 ## Exact next activity
 
-Part001 English E1–E4 are **SOURCE-CHECKED / COMPLETE — 8/8**, and whole-Part glossary reconciliation is **RECONCILED / PASS**.
+Proceed with **whole-Part bilingual review** across all **8/8** Tamil/English Part001 section pairs, scans1–30 only.
 
-Proceed with **English editorial review** across all eight English section files.
-
-Keep whole-Part bilingual review, release/readiness, final Part closure and Part002 transcription blocked.
+Do not begin release/readiness, final Part closure or Part002 transcription until the bilingual review closes.
