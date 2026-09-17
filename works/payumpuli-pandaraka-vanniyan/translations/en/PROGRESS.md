@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED — RELEASE/READINESS REPORT NEXT**
+**RELEASE/READINESS REPORT — PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
 
 | Gate / batch | Coverage | Scans | Status |
 |---|---|---:|---|
@@ -13,7 +13,8 @@
 | Glossary | whole-Part reconciliation | 1–30 | **RECONCILED / PASS** |
 | Editorial | whole-Part English editorial review | 1–30 | **PASS / CLOSED** |
 | Bilingual | whole-Part bilingual review | 1–30 | **PASS / CLOSED** |
-| Release | release/readiness report | 1–30 | **NEXT / NOT STARTED** |
+| Release | release/readiness report | 1–30 | **PASS / CLOSED** |
+| Release sync | release-ready synchronization | 1–30 | **NEXT / NOT STARTED** |
 
 ## Current counts
 
@@ -30,10 +31,12 @@
 - unresolved glossary holds — **0**
 - unresolved editorial holds — **0**
 - unresolved bilingual holds — **0**
+- unresolved release/readiness blockers — **0**
 - canonical Tamil edits caused by English — **0**
 - Part002 English/Tamil content imported — **0**
 - whole-Part bilingual review — **PASS / CLOSED**
-- release/readiness — **NEXT / NOT STARTED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **NEXT / NOT STARTED**
 - final Part001 closure — **BLOCKED**
 
 ## E1–E4 closure
@@ -117,6 +120,28 @@ Coverage/findings:
 
 Meaning, speaker/narrator agency, chronology, knowledge state, quotation/verse/song/display structure, deliberate source variants and source-facing vocabulary remain aligned.
 
+## Release / readiness report
+
+Durable record:
+
+- `RELEASE_REPORT.md`
+
+Result: **RELEASE/READINESS REPORT — PASS / CLOSED**.
+
+Confirmed:
+
+- Tamil canonical coverage — **30/30 verified**;
+- assembled Tamil — **8/8 VERIFIED / PASS / CLOSED**;
+- English coverage — **8/8**;
+- bilingual alignment — **PASS / CLOSED**;
+- glossary consistency — **PASS**;
+- unresolved release/readiness blockers — **0**;
+- active-work source-PDF paths in live Git tree — **0**;
+- canonical Tamil edits caused by release/readiness — **0**;
+- Part002 content imported — **0**.
+
+Part001 is ready for the separate **release-ready synchronization** gate; this does not yet constitute final Part001 closure.
+
 ## Boundary lock
 
 - Part001 final source scan — **30 / printed19**
@@ -129,6 +154,6 @@ Meaning, speaker/narrator agency, chronology, knowledge state, quotation/verse/s
 
 ## Exact next activity
 
-**release/readiness report** for the complete Part001 Tamil/English layer, scans1–30 only.
+**release-ready synchronization** for Part001.
 
-Do not begin release-ready synchronization, final Part001 closure or Part002 transcription until the release/readiness gate closes.
+Do not begin final Part001 closure or Part002 transcription until release-ready synchronization closes.
