@@ -1,6 +1,6 @@
 # English Translation Plan — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **WHOLE-PART GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
+Status: **ENGLISH EDITORIAL REVIEW — PASS / CLOSED — WHOLE-PART BILINGUAL REVIEW NEXT**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -57,9 +57,11 @@ Rules:
 
 - keep personal names as names; do not translate their lexical meanings unless the source explicitly makes a wordplay;
 - keep source honorifics/titles where they matter to speaker stance;
-- use one locked romanization once a glossary form is adopted;
-- do not silently replace a source-facing romanization with a web/official/modern spelling during drafting;
+- use one locked romanization once a glossary form is adopted, except where deliberate source-derived variants are explicitly locked;
+- do not silently replace a source-facing romanization with a web/official/modern spelling;
 - any later romanization change must be recorded through glossary reconciliation and must not modify canonical Tamil.
+
+Deliberate source variants remain protected exactly as recorded in `GLOSSARY.md` and `GLOSSARY_RECONCILIATION.md`.
 
 ## Titles, offices and kinship
 
@@ -143,11 +145,11 @@ This rule is absolute:
 
 - scan30 / printed19 is the final Part001 source page;
 - scan30 ends `அவனுக்கு ஒரே மகிழ்ச்சி,`;
+- English ends **“He was filled with joy,”**;
 - **30→31 = GENUINE CONTINUATION**;
 - scan31 belongs to Part002 and is only a boundary witness;
 - do not import or translate scan31 in Part001;
-- do not invent a completion for the open sentence;
-- Part001 English must end in a way that visibly preserves the incomplete source continuation.
+- do not invent a completion for the open sentence.
 
 ## Batch plan
 
@@ -160,11 +162,9 @@ Batches follow the already-verified Tamil section boundaries.
 | **E3** | section 06: `ஒரு இரகசியக் கடிதம்!` | **21–27** | **SOURCE-CHECKED / COMPLETE** |
 | **E4** | section 07: `வழியில் கண்ட வயோதிகர்!` | **28–30** | **SOURCE-CHECKED / COMPLETE** |
 
-Each batch must complete its draft and source-check before the next batch becomes active.
-
 ## Per-batch source-check gates
 
-Every English batch must pass:
+Every English batch passed:
 
 1. coverage/order check;
 2. paragraph/display-structure check;
@@ -177,36 +177,48 @@ Every English batch must pass:
 9. no unsupported explanatory insertion;
 10. no-silent-Tamil-change check.
 
-A batch is not closed merely because English prose exists.
-
 ## Glossary reconciliation gate
 
-After E1–E4 are drafted and source-checked:
+Whole-Part glossary reconciliation is **RECONCILED / PASS**.
 
-- reconcile all recurring names, places, titles, offices and culture-specific terms;
-- identify accidental romanization variants;
-- reconcile only the English layer;
-- do not modify canonical Tamil to make English consistency easier;
-- record every intentional source-facing retention.
+- recurring names, places, titles, offices and culture-specific terms were checked across all 8 files;
+- accidental romanization drift requiring section edits — **0**;
+- deliberate source variants remain protected;
+- canonical Tamil edits caused by reconciliation — **0**.
+
+Detailed closure: `GLOSSARY_RECONCILIATION.md`.
 
 ## Editorial review gate
 
-After glossary reconciliation:
+English editorial review is **PASS / CLOSED** across all **8/8** files / scans1–30.
 
-- improve readability without changing source meaning, agency, chronology or rhetoric;
-- preserve source section structure and open Part boundary;
-- reject smoothing that silently resolves a source ambiguity or contradiction.
+- files with English prose edits — **3/8**;
+- files reviewed textually unchanged — **5/8**;
+- substantive English-only editorial corrections — **8**;
+- unresolved editorial holds — **0**;
+- canonical Tamil edits caused by editorial review — **0**;
+- Part002 content imported — **0**.
 
-## Whole-Part bilingual review
+Editorial changes were limited to source-safe English syntax/readability improvements. Deliberate variants, quotation/verse/song structure and the open scan30 boundary were retained.
+
+Detailed closure: `TRANSLATION_REVIEW.md`.
+
+## Whole-Part bilingual review — NEXT
 
 Before release/readiness:
 
 - verify all 8 Tamil assembled sections are represented in English;
+- compare the complete maintained English layer against the complete PASSED assembled Tamil layer;
 - verify scan coverage remains **1–30 only**;
 - verify no Part002 content appears;
-- verify quotations, verse and dialogue remain aligned;
-- verify unresolved English holds = **0**;
+- verify quotations, verse, songs, dialogue, speaker/narrator agency and chronology remain aligned;
+- verify deliberate source variants remain protected;
+- verify the editorial corrections in `TRANSLATION_REVIEW.md` preserve source meaning;
+- verify the final English fragment remains **“He was filled with joy,”**;
+- verify unresolved English/bilingual holds = **0** before closing the gate;
 - verify canonical Tamil changes caused by English = **0**.
+
+The whole-Part bilingual review has **not** begun in the editorial-review iteration.
 
 ## Release/readiness gate
 
@@ -231,50 +243,20 @@ It cannot authorize a canonical Tamil correction.
 
 A genuine Tamil-fidelity issue discovered during English work must be recorded and routed back through an explicit Tamil reopening decision rather than silently fixed through translation.
 
-## E1 closure
+## E1–E4 closure
 
-E1 — sections00–04 / scans1–12 — is **SOURCE-CHECKED / COMPLETE** with **0 unresolved holds** and **0 canonical Tamil edits**.
+- E1 — sections00–04 / scans1–12 — **SOURCE-CHECKED / COMPLETE**
+- E2 — `தோரண வாயில்` / scans13–20 — **SOURCE-CHECKED / COMPLETE**
+- E3 — `ஒரு இரகசியக் கடிதம்!` / scans21–27 — **SOURCE-CHECKED / COMPLETE**
+- E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30 — **SOURCE-CHECKED / COMPLETE**
+- unresolved source-check holds — **0**
+- canonical Tamil edits caused by source-check work — **0**
+- English draft + per-batch source-check coverage — **8/8 COMPLETE**
 
-Detailed closure: `E1_SOURCE_CHECK.md`.
-
-## E2 closure
-
-E2 — `தோரண வாயில்` / scans13–20 — is **SOURCE-CHECKED / COMPLETE** with **0 unresolved holds** and **0 canonical Tamil edits**.
-
-Detailed closure: `E2_SOURCE_CHECK.md`.
-
-## E3 closure
-
-E3 — `ஒரு இரகசியக் கடிதம்!` / scans21–27 — is **SOURCE-CHECKED / COMPLETE** with **0 unresolved holds** and **0 canonical Tamil edits**.
-
-Detailed closure: `E3_SOURCE_CHECK.md`.
-
-## E4 closure
-
-E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30 — is **SOURCE-CHECKED / COMPLETE** with **0 unresolved holds** and **0 canonical Tamil edits**.
-
-The open scan30 fragment is preserved and scan31 is not imported.
-
-Part001 English draft + per-batch source-check coverage is **8/8 COMPLETE**.
-
-Detailed closure: `E4_SOURCE_CHECK.md`.
-
-## Glossary reconciliation closure
-
-Whole-Part English glossary reconciliation across E1–E4 / scans1–30 is **RECONCILED / PASS**.
-
-- English files checked — **8/8**
-- English section corrections required — **0**
-- unresolved glossary holds — **0**
-- canonical Tamil edits — **0**
-- Part002 leakage — **0**
-
-Deliberate source variants remain preserved.
-
-Detailed closure: `GLOSSARY_RECONCILIATION.md`.
+Detailed closures: `E1_SOURCE_CHECK.md`, `E2_SOURCE_CHECK.md`, `E3_SOURCE_CHECK.md`, `E4_SOURCE_CHECK.md`.
 
 ## Exact next activity
 
-**English editorial review** across the complete 8/8 English layer.
+**whole-Part bilingual review** across the complete **8/8** Tamil/English Part001 layer, scans1–30 only.
 
-Do not begin whole-Part bilingual review until editorial review closes.
+Do not begin release/readiness, final Part closure or Part002 transcription until the bilingual review closes.
