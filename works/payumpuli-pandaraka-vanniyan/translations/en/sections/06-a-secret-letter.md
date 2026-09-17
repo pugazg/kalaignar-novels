@@ -106,7 +106,7 @@ Sundaralingam could not contain his excitement! Sitting in the boat, he stretche
 
 <!-- source boundary: scan 26 → scan 27 -->
 
-“This is a letter written in Vellaiyathevan's own hand, commander of Panchalankurichi. If I reveal what is in it, I will become not only a traitor to the country but a traitor to my friend as well,” said Sundaralingam.
+“This is a letter that Vellaiyathevan, commander of Panchalankurichi, wrote in his own hand. If I reveal what is in it, I will become not only a traitor to the country but a traitor to my friend as well,” said Sundaralingam.
 
 “Don't reveal the contents! You mustn't! But can't you at least tell us, your friends of so long whom you trust, who the letter is addressed to? The reason we ask is this: if something suddenly happens to you, shouldn't we deliver the letter to the proper addressee?”
 
