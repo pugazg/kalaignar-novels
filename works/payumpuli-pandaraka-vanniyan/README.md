@@ -11,107 +11,73 @@
 
 This work follows the **Kuraloviyam per-Part closure methodology**.
 
-Authoritative work-specific guide:
+Authoritative guide:
 - [`PAYUMPULI_ARCHIVAL_GUIDELINES.md`](PAYUMPULI_ARCHIVAL_GUIDELINES.md)
 
 Core rule:
 
 > **A Part must complete its full Tamil + assembled Tamil + English + release/readiness + release-ready synchronization + final-closure workflow before the next Part receives transcription work.**
 
-## Part001 — FINAL CLOSED
+## Part001 — FINAL CLOSED / FROZEN
 
-**Part001 / overall scans1–30 / local pages1–30**
+**Part001 / global scans1–30** is fully closed across Tamil, assembled Tamil, English, release/readiness, release-ready synchronization and final closure.
 
-- source intake — **PASS / COMPLETE**
-- canonical records — **30/30 present / verified**
-- Pass 1 / Pass 2A / Pass 2B / Pass 3 — **COMPLETE**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status sync — **PASS / CLOSED**
-- documentation sync — **PASS / COMPLETE**
-- Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **PASS / CLOSED — 8/8 VERIFIED**
-- English E1–E4 — **SOURCE-CHECKED / COMPLETE — 8/8**
-- whole-Part glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED — 8/8 reviewed**
-- whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs reviewed**
-- release/readiness report — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- final Part001 closure — **PASS / CLOSED**
-- unresolved blockers — **0**
-- canonical Tamil drift after release/readiness — **0**
-- maintained English body drift after release/readiness — **0**
-- Part002 content imported into Part001 — **0**
-
-Durable final record:
+Durable record:
 - [`PART_001_FINAL_CLOSURE.md`](PART_001_FINAL_CLOSURE.md)
 
-## Part001 source structure
+Permanent boundary:
+- scan30 / printed19 → scan31 / printed20
+- **30→31 = GENUINE CONTINUATION / AUDITED**
+- Tamil ends `அவனுக்கு ஒரே மகிழ்ச்சி,`
+- English ends **“He was filled with joy,”**
 
-1. scan1 — illustrated cover
-2. scans2–5 — title / publisher / bibliographic front matter
-3. scans6–9 — `அணிந்துரை`
-4. scan10 — `பதிப்புரை`
-5. scan11 — verse / epigraph; `எழுச்சிக் கவிஞர் காசி ஆனந்தன்`
-6. scan12 — secondary illustrated title/divider
-7. scans13–20 — `தோரண வாயில்`
-8. scan21 — `ஒரு இரகசியக் கடிதம்!`
-9. scans22–27 — continuation
-10. scan28 — `வழியில் கண்ட வயோதிகர்!`
-11. scans29–30 — continuation
+## Part002 — ACTIVE
 
-## Permanent Part001 boundary
-
-- scan30 / Part001 local30 / printed19
-- scan31 / Part002 local1 / printed20
-- **30→31 = GENUINE CONTINUATION**
-- Tamil Part001 ends `அவனுக்கு ஒரே மகிழ்ச்சி,`
-- English Part001 ends **“He was filled with joy,”**
-- scan31 content is excluded from Part001
-
-## Part002 frontier
-
-Part002 source is **SUPPLIED / REGISTERED**.
+Controlling source:
+`TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf`
 
 - global scans — **31–60**
 - local pages — **1–30**
-- incoming boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
-- canonical Part002 page records — **0**
-- Pass 1 / Pass 2A / Pass 2B / Pass 3 — **NOT STARTED**
-- transcription — **AUTHORIZED / NOT STARTED**
+- canonical records — **10/30 — scans31–40**
+- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- Pass 2A / 2B / 3 — **NOT STARTED**
+- assembled Tamil / English — **NOT STARTED**
+- incoming 30→31 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 60→61 — **PENDING direct audit**
 
-Part002 becomes the next active Part on the next explicit continuation.
+Tracker:
+- [`PART_002_PASS1_PROGRESS.md`](PART_002_PASS1_PROGRESS.md)
+
+### Completed Pass-1 batch
+
+**scans31–40 / local1–10 / printed20–29 — TEXT-COMPLETE**
+
+- scans31–34 — `வழியில் கண்ட வயோதிகர்!`
+- scan35 — chapter 4 opening `குருவிச்சி நாச்சியார்`
+- scans36–40 — continuation
+- source-specific `வற்றாப்பாளை` retained by occurrence
+- scan40 ends `எனவே அந்தப் பெரிய மணி ஓசை`
+
+All ten page records remain `needs-review`; no Pass 2A work has begun.
 
 ## Source rules
 
-- use only the user-attached split PDFs for routine source work;
+- use only the user-supplied split PDFs/source page images;
 - source pixels control;
 - preserve source spelling, punctuation, paragraph structure and historical glyph identity;
 - do not normalize names, offices, place names or vocabulary;
-- separate stamps / handwriting / library marks from printed text;
-- no web mirror or alternate edition unless explicitly requested;
+- canonical `scan_page` numbering stays global;
 - source PDFs remain outside Git.
 
 ## Active controls
 
 - [`PAYUMPULI_ARCHIVAL_GUIDELINES.md`](PAYUMPULI_ARCHIVAL_GUIDELINES.md)
-- [`PART_001_TAMIL_ARCHIVAL_READY.md`](PART_001_TAMIL_ARCHIVAL_READY.md)
-- [`PART_001_ASSEMBLED_TAMIL_VALIDATION.md`](PART_001_ASSEMBLED_TAMIL_VALIDATION.md)
-- [`PART_001_RELEASE_READY_SYNC.md`](PART_001_RELEASE_READY_SYNC.md)
 - [`PART_001_FINAL_CLOSURE.md`](PART_001_FINAL_CLOSURE.md)
-- [`sections/README.md`](sections/README.md)
-- [`translations/en/README.md`](translations/en/README.md)
-- [`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md)
-- [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
-- [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md)
-- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
-- [`translations/en/BILINGUAL_REVIEW.md`](translations/en/BILINGUAL_REVIEW.md)
-- [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
 - [`SOURCE_INTAKE_PART_002.md`](SOURCE_INTAKE_PART_002.md)
+- [`PART_002_PASS1_PROGRESS.md`](PART_002_PASS1_PROGRESS.md)
 
 ## Exact next activity
 
-Activate **Part002 / global scans31–60** and begin **Pass 1** with the first normal batch:
+Perform **Part002 Pass 1 for global scans41–50 / local pages11–20**.
 
-**global scans31–40 / Part002 local pages1–10**.
-
-Do not begin Part002 Pass 2A until Pass 1 covers the full Part.
+Stop after that 10-scan batch. Do not begin scans51–60 or Pass 2A without another explicit continuation.
