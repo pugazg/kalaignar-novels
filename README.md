@@ -8,46 +8,47 @@
 - source family: **TVA_BOK_0065744**;
 - complete physical extent: **477 scans**;
 - working source: **16 split PDFs — all supplied / registered**;
-- active content Part: **Part001 / scans1–30 only**;
-- canonical Part001 records: **30/30 verified**;
-- Pass 1 / Pass 2A / Pass 2B / Pass 3: **COMPLETE**;
-- Tamil archival-ready: **PASS / CLOSED**;
-- assembled Tamil: **PASS / CLOSED — 8/8 VERIFIED**;
-- English E1–E4: **SOURCE-CHECKED / COMPLETE — 8/8**;
-- whole-Part glossary reconciliation: **RECONCILED / PASS**;
-- English editorial review: **PASS / CLOSED — 8/8 reviewed**;
-- whole-Part bilingual review: **PASS / CLOSED — 8/8 pairs reviewed**;
-- release/readiness report: **PASS / CLOSED**;
-- release-ready synchronization: **PASS / CLOSED**;
-- unresolved English/glossary/editorial/bilingual/release-readiness blockers: **0**;
-- canonical Tamil edits caused by English/release synchronization: **0**;
-- Part002 content imported: **0**;
-- final Part001 closure: **NEXT / NOT STARTED**;
-- Part002: **SOURCE REGISTERED / TRANSCRIPTION BLOCKED**;
-- boundary **30→31 = GENUINE CONTINUATION** as an adjacent-source witness only.
+- Part001 / scans1–30 — **FINAL CLOSURE PASS / CLOSED**;
+- Part001 canonical records — **30/30 verified**;
+- Part001 Tamil archival-ready — **PASS / CLOSED**;
+- Part001 assembled Tamil — **PASS / CLOSED — 8/8 VERIFIED**;
+- Part001 English E1–E4 — **SOURCE-CHECKED / COMPLETE — 8/8**;
+- Part001 glossary reconciliation — **RECONCILED / PASS**;
+- Part001 English editorial review — **PASS / CLOSED**;
+- Part001 bilingual review — **PASS / CLOSED**;
+- Part001 release/readiness — **PASS / CLOSED**;
+- Part001 release-ready synchronization — **PASS / CLOSED**;
+- Part001 unresolved blockers — **0**;
+- Part002 source — **SUPPLIED / REGISTERED**;
+- Part002 global range — **31–60**;
+- Part002 canonical page records — **0**;
+- Part002 transcription — **AUTHORIZED / NOT STARTED**;
+- boundary **30→31 = GENUINE CONTINUATION / AUDITED**.
 
 This work follows the **Kuraloviyam per-Part closure model**:
 
-**Part001 source/Tamil closure → assembled Tamil → English draft/source-check → glossary reconciliation → editorial review → whole-Part bilingual review → release/readiness report → release-ready synchronization → final Part closure → only then Part002 transcription.**
+**source/Tamil closure → assembled Tamil → English draft/source-check → glossary reconciliation → editorial review → whole-Part bilingual review → release/readiness report → release-ready synchronization → final Part closure → next Part.**
 
 Active controls:
 - `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
 - `works/payumpuli-pandaraka-vanniyan/README.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_001_RELEASE_READY_SYNC.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_001_FINAL_CLOSURE.md`
+- `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_002.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/TRANSLATION_PLAN.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/GLOSSARY.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/TRANSLATION_REVIEW.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/BILINGUAL_REVIEW.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/RELEASE_REPORT.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_001_RELEASE_READY_SYNC.md`
 - `HANDOVER.md`
 
-Part001 terminal lock:
+Part001 terminal lock remains permanent:
 - Tamil ends `அவனுக்கு ஒரே மகிழ்ச்சி,`;
 - English ends **“He was filled with joy,”**;
-- scan31 remains excluded from Part001.
+- scan31 was not imported into Part001.
 
-Exact next action: **perform Part001 final closure. Do not begin Part002 transcription in the same iteration.**
+Exact next action: **activate Part002 and perform Pass 1 for global scans31–40 / Part002 local pages1–10.**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 
