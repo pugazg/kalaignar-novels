@@ -2,9 +2,9 @@
 
 English translation workspace for Part001 of **பாயும்புலி பண்டாரக வன்னியன்**.
 
-## Current status
+## Final status
 
-**RELEASE-READY SYNCHRONIZATION — PASS / CLOSED — FINAL PART001 CLOSURE NEXT**
+**PART001 FINAL CLOSURE — PASS / CLOSED**
 
 - Tamil canonical authority — **30/30 verified**
 - assembled Tamil reading layer — **8/8 VERIFIED / PASS / CLOSED**
@@ -15,10 +15,10 @@ English translation workspace for Part001 of **பாயும்புலி �
 - whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs reviewed**
 - release/readiness report — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
+- final Part001 closure — **PASS / CLOSED**
 - unresolved English/glossary/editorial/bilingual/release-readiness holds — **0**
 - canonical Tamil changes caused by English/release synchronization — **0**
-- Part002 content imported — **0**
-- exact next activity — **Part001 final closure**
+- Part002 content imported into Part001 — **0**
 
 ## Authority
 
@@ -34,17 +34,18 @@ No published, web, remembered or standard English translation is used as authori
 
 - `TRANSLATION_PLAN.md` — workflow, fidelity and gate rules
 - `GLOSSARY.md` — source-derived English handling
-- `PROGRESS.md` — live English frontier
+- `PROGRESS.md` — final English lifecycle state
 - `E1_SOURCE_CHECK.md` … `E4_SOURCE_CHECK.md` — source-check closure records
 - `GLOSSARY_RECONCILIATION.md` — whole-Part glossary closure record
 - `TRANSLATION_REVIEW.md` — editorial-review closure record
 - `BILINGUAL_REVIEW.md` — bilingual-review closure record
 - `RELEASE_REPORT.md` — release/readiness closure record
 - `../../PART_001_RELEASE_READY_SYNC.md` — release-ready synchronization closure record
+- `../../PART_001_FINAL_CLOSURE.md` — final Part001 closure record
 
 ## English section coverage
 
-All **8** verified Part001 Tamil assembled files are represented in English and passed source-check, editorial review, bilingual review and release/readiness.
+All **8** verified Part001 Tamil assembled files are represented in English and closed through final Part001 closure.
 
 | Tamil file | English file | Scans | State |
 |---|---|---:|---|
@@ -69,7 +70,7 @@ The maintained English protects, without normalization:
 - **Karsilai Madu / Karsilaimadu**
 - **Payumpuli... / Payum Puli...**
 
-## Part boundary
+## Permanent Part001 boundary
 
 Part001 ends at scan30 / printed19 with the open Tamil fragment:
 
@@ -79,10 +80,10 @@ English ends:
 
 **“He was filled with joy,”**
 
-The audited **30→31 = GENUINE CONTINUATION** finding is retained. Scan31 is Part002 and must not be imported, translated or inferred in Part001.
+The audited **30→31 = GENUINE CONTINUATION** finding is retained. Scan31 belongs to Part002 and was not imported, translated or inferred in Part001.
 
-## Exact next activity
+## Lifecycle frontier
 
-Perform **Part001 final closure**.
+Part001 English is **FINAL CLOSED / FROZEN** unless an explicit source-fidelity reopening is required.
 
-Create and verify `../../PART_001_FINAL_CLOSURE.md` and keep Part002 transcription blocked until that gate passes.
+The repository may now activate **Part002 / global scans31–60**. No Part002 English work begins until that Part completes its Tamil archival and assembled-Tamil gates.
