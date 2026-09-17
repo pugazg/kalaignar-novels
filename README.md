@@ -16,17 +16,19 @@
 - English E1–E4: **SOURCE-CHECKED / COMPLETE — 8/8**;
 - whole-Part glossary reconciliation: **RECONCILED / PASS**;
 - English editorial review: **PASS / CLOSED — 8/8 reviewed**;
-- unresolved English/glossary/editorial holds: **0**;
+- whole-Part bilingual review: **PASS / CLOSED — 8/8 pairs reviewed**;
+- unresolved English/glossary/editorial/bilingual holds: **0**;
+- English-only corrections newly required by bilingual review: **0**;
 - canonical Tamil edits caused by English: **0**;
-- whole-Part bilingual review: **NEXT / NOT STARTED**;
-- release/readiness: **BLOCKED**;
+- Part002 content imported: **0**;
+- release/readiness report: **NEXT / NOT STARTED**;
 - final Part001 closure: **BLOCKED**;
 - Part002: **SOURCE REGISTERED / TRANSCRIPTION BLOCKED**;
 - boundary **30→31 = GENUINE CONTINUATION** as an adjacent-source witness only.
 
 This work follows the **Kuraloviyam per-Part closure model**:
 
-**Part001 source/Tamil closure → assembled Tamil → English draft/source-check → glossary reconciliation → editorial review → whole-Part bilingual review → release/readiness report → final Part closure → only then Part002 transcription.**
+**Part001 source/Tamil closure → assembled Tamil → English draft/source-check → glossary reconciliation → editorial review → whole-Part bilingual review → release/readiness report → release-ready synchronization → final Part closure → only then Part002 transcription.**
 
 Active controls:
 - `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
@@ -35,6 +37,7 @@ Active controls:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/GLOSSARY.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/TRANSLATION_REVIEW.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/BILINGUAL_REVIEW.md`
 - `HANDOVER.md`
 
 Part001 terminal lock:
@@ -42,7 +45,7 @@ Part001 terminal lock:
 - English ends **“He was filled with joy,”**;
 - scan31 remains excluded from Part001.
 
-Exact next action: **whole-Part bilingual review across all 8/8 Part001 Tamil/English section pairs, scans1–30 only. Do not begin release/readiness or Part002.**
+Exact next action: **create and complete the Part001 release/readiness report for scans1–30 only. Do not begin release-ready synchronization, final Part closure or Part002 transcription.**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 
