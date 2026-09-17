@@ -28,8 +28,7 @@ Current Part001 state:
 
 - source intake — **PASS / COMPLETE**
 - canonical records present — **30/30**
-- Pass 1 text-complete — **30/30 — scans1–30**
-- Pass 1 partial — **0/30**
+- Pass 1 — **COMPLETE — 30/30**
 - formal Pass 2A — **COMPLETE — 30/30 reviewed**
 - formal Pass 2B — **COMPLETE — 30/30 reviewed**
 - formal Pass 3 — **COMPLETE — 30/30 reviewed**
@@ -41,20 +40,20 @@ Current Part001 state:
 - documentation sync — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 8/8 section files VERIFIED**
-- English E1 — **SOURCE-CHECKED / COMPLETE**
-- English E2 — **SOURCE-CHECKED / COMPLETE**
-- English E3 — **SOURCE-CHECKED / COMPLETE**
-- English E4 — **SOURCE-CHECKED / COMPLETE**
-- English translated files — **8/8**
-- English source-checked files — **8/8**
+- English E1–E4 — **SOURCE-CHECKED / COMPLETE — 8/8**
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
-- unresolved English holds — **0**
+- English editorial review — **PASS / CLOSED — 8/8 reviewed**
+- English files with editorial prose edits — **3/8**
+- substantive English-only editorial corrections — **8**
+- unresolved English/source-check holds — **0**
+- unresolved glossary holds — **0**
+- unresolved editorial holds — **0**
+- canonical Tamil edits caused by English — **0**
+- whole-Part bilingual review — **NEXT / NOT STARTED**
 - release/readiness report — **BLOCKED**
 - final Part001 closure — **BLOCKED**
 
 The earlier local T2/T3 work on scans1–5 is retained as **historical preliminary review evidence only**. It does not count as formal Kuraloviyam-style Part-level Pass 2A / Pass 2B / Pass 3 closure.
-
-Scans1–2 were returned from premature `verified` to `needs-review` without changing their source transcription.
 
 ## Part001 source structure
 
@@ -89,7 +88,7 @@ The adjacent Part002 first page was inspected only as the outgoing-boundary witn
 - scan31 / Part002 local1 / printed20
 - boundary **30→31 = GENUINE CONTINUATION**
 
-This boundary finding may be used for Part001 closure, but it does not activate Part002.
+Part001 Tamil ends `அவனுக்கு ஒரே மகிழ்ச்சி,`; maintained English ends **“He was filled with joy,”**. Scan31 content remains excluded from Part001.
 
 ## Source rules
 
@@ -100,17 +99,6 @@ This boundary finding may be used for Part001 closure, but it does not activate 
 - separate stamps / handwriting / library marks from printed text;
 - no web mirror or alternate edition is needed unless explicitly requested;
 - source PDFs remain outside Git.
-
-## Batch cadence
-
-User-directed normal source batch size: **10 physical scans**, with a shorter final remainder.
-
-For Part001 Pass 1:
-- completed — **scans6–15 — text-complete / needs-review**
-- completed — **scans16–25 — text-complete / needs-review**
-- completed — **scans26–30 — text-complete / needs-review**
-
-Only after Pass 1 reaches **30/30 text-complete** does formal Pass 2A begin from the start of Part001.
 
 ## Controls
 
@@ -134,6 +122,7 @@ Only after Pass 1 reaches **30/30 text-complete** does formal Pass 2A begin from
 - [`translations/en/E3_SOURCE_CHECK.md`](translations/en/E3_SOURCE_CHECK.md)
 - [`translations/en/E4_SOURCE_CHECK.md`](translations/en/E4_SOURCE_CHECK.md)
 - [`translations/en/GLOSSARY_RECONCILIATION.md`](translations/en/GLOSSARY_RECONCILIATION.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 - [`SOURCE_INTAKE.md`](SOURCE_INTAKE.md)
 - [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md)
 - [`metadata/source.md`](metadata/source.md)
@@ -145,8 +134,6 @@ Historical preliminary checkpoint records are retained for provenance but do not
 
 ## Exact next activity
 
-Part001 English draft/source-check is **8/8 COMPLETE** and whole-Part glossary reconciliation is **RECONCILED / PASS**.
+Perform **whole-Part bilingual review** across all **8/8** Part001 Tamil/English section pairs, scans1–30 only.
 
-Perform **English editorial review** across all eight English sections.
-
-Do **not** begin whole-Part bilingual review, release/readiness, final Part closure, or Part002 transcription in the same iteration unless the user explicitly continues.
+Keep release/readiness, final Part closure and Part002 transcription blocked until the bilingual review closes.
