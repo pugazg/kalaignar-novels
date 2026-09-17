@@ -30,9 +30,11 @@ Split files are provenance/access boundaries only, not textual boundaries.
 
 A later Part may be supplied/registered and used as the adjacent boundary witness needed to resolve the active Part's outgoing boundary, but it must not receive canonical transcription records, Pass work, assembled Tamil or English work until the active Part reaches final closure.
 
-For this work:
+For Part001 this lock has now been fully satisfied:
 
-**Part001 must reach Tamil archival-ready + assembled Tamil closure + English completion + release/readiness report + release-ready synchronization + final Part closure before Part002 transcription begins.**
+**Tamil archival-ready + assembled Tamil closure + English completion + release/readiness report + release-ready synchronization + final Part closure — PASS / CLOSED.**
+
+Part002 may therefore become the next active Part on the next explicit continuation.
 
 ## 4. Tamil Part workflow
 
@@ -77,19 +79,20 @@ Required controls include:
 - `translations/en/TRANSLATION_REVIEW.md`
 - `translations/en/BILINGUAL_REVIEW.md`
 - `translations/en/RELEASE_REPORT.md`
-- `PART_001_RELEASE_READY_SYNC.md` for Part001 synchronization closure
-
-The release/readiness report must confirm Tamil/English coverage, bilingual alignment, unresolved items, navigation/provenance and source-PDF exclusion.
-
-Release-ready synchronization then reconciles maintained lifecycle/status/navigation controls to the closed Tamil + English + release/readiness state. It must not alter canonical Tamil wording, collapse deliberate source variants, import Part002 content or substitute for final Part closure.
+- Part-specific release-ready synchronization record
+- Part-specific final-closure record
 
 ## 7. Final Part closure
 
-Create a durable Part closure record, e.g.:
+The durable Part001 closure record is:
 
 `PART_001_FINAL_CLOSURE.md`
 
-It must confirm:
+Result:
+
+**PART001 FINAL CLOSURE — PASS / CLOSED**
+
+It confirms:
 
 - Tamil Part archival-ready;
 - assembled Tamil closed;
@@ -97,21 +100,24 @@ It must confirm:
 - whole-Part bilingual review passed;
 - release/readiness report passed;
 - release-ready synchronization passed;
-- unresolved blockers recorded;
+- unresolved blockers **0**;
 - source/boundary state durable;
-- no unauthorized drift after release.
+- unauthorized textual drift after release/readiness **0**.
 
-**Only after this checkpoint passes may Part002 transcription begin.**
+Part002 transcription is now permitted by the Part lock, but it was not begun during the Part001 final-closure iteration.
 
 ## 8. Boundary rule
 
 The next Part's first page may be inspected as an outgoing-boundary witness before the next Part is active.
 
-For Part001:
+For Part001/Part002:
 - scan30 / Part001 local30 and scan31 / Part002 local1 were directly compared;
 - **30→31 = GENUINE CONTINUATION**;
-- this boundary finding is retained;
-- Part002 transcription remains blocked until Part001 final closure.
+- Part001 Tamil ends `அவனுக்கு ஒரே மகிழ்ச்சி,`;
+- Part001 English ends **“He was filled with joy,”**;
+- scan31 text was not imported into Part001.
+
+This boundary remains the incoming audited boundary for Part002.
 
 ## 9. Batch cadence
 
@@ -119,16 +125,17 @@ User-directed normal source batch size: **10 physical scans**, with a shorter fi
 
 A batch is only complete when the requested Pass work for those scans is complete. Page/provenance-only scaffolding is not Pass-1 completion.
 
-For Part001, the Tamil verification chain is complete: Pass 1 **30/30**, Pass 2A **30/30**, Pass 2B **30/30**, Pass 3 **30/30**, Part audit **PASS**, final metadata/status synchronization **PASS / CLOSED**, documentation synchronization **PASS**, Tamil archival-ready **PASS / CLOSED**, and assembled Tamil **PASS / CLOSED — 8/8 VERIFIED**.
+Part001 is now **FINAL CLOSED** across Tamil, assembled Tamil, English, release/readiness and release synchronization. Part002 source intake is already registered for global scans **31–60**, but canonical Part002 page records remain **0** and Pass work remains **NOT STARTED**.
 
-English E1–E4 are **SOURCE-CHECKED / COMPLETE — 8/8**; whole-Part glossary reconciliation is **RECONCILED / PASS**; English editorial review is **PASS / CLOSED**; whole-Part bilingual review is **PASS / CLOSED**; release/readiness is **PASS / CLOSED**; and release-ready synchronization is **PASS / CLOSED**. Unresolved release-readiness blockers are **0**. Canonical Tamil changes caused by English/release synchronization are **0**. Part002 leakage is **0**.
+The next normal Pass-1 batch is **global scans31–40 / Part002 local pages1–10**.
 
-The next maintained stage is **Part001 final closure**.
+## 10. Current Part frontier
 
-## 10. Current Part lock
+- **Part001: FINAL CLOSURE — PASS / CLOSED**
+- **Part002 source: SUPPLIED / REGISTERED**
+- **Part002 canonical page records: 0**
+- **Part002 transcription: AUTHORIZED / NOT STARTED**
+- **Next active Part: Part002 / global scans31–60**
+- **Exact next gate: activate Part002 and perform Pass 1 for global scans31–40 / local pages1–10**
 
-- **Active Part: Part001 / overall scans1–30**
-- **Part002: SOURCE REGISTERED / TRANSCRIPTION BLOCKED**
-- **Current gate: Part001 final closure**
-- release-ready synchronization — **PASS / CLOSED**
-- Part002 may not become active until `PART_001_FINAL_CLOSURE.md` passes.
+Do not begin Part002 Pass 2A until Part002 Pass 1 covers all 30 scans.
