@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**RELEASE-READY SYNCHRONIZATION — PASS / CLOSED — FINAL PART001 CLOSURE NEXT**
+**PART001 FINAL CLOSURE — PASS / CLOSED**
 
 | Gate / batch | Coverage | Scans | Status |
 |---|---|---:|---|
@@ -15,14 +15,13 @@
 | Bilingual | whole-Part bilingual review | 1–30 | **PASS / CLOSED** |
 | Release | release/readiness report | 1–30 | **PASS / CLOSED** |
 | Release sync | release-ready synchronization | 1–30 | **PASS / CLOSED** |
-| Final closure | Part001 final closure | 1–30 | **NEXT / NOT STARTED** |
+| Final closure | Part001 final closure | 1–30 | **PASS / CLOSED** |
 
-## Current counts
+## Final counts
 
 - Tamil canonical pages — **30/30 verified**
 - Tamil assembled files — **8/8 VERIFIED**
-- English translated files — **8/8**
-- English source-checked files — **8/8**
+- English translated/source-checked files — **8/8**
 - English editorial-reviewed files — **8/8**
 - English bilingual-reviewed pairs — **8/8**
 - English files with editorial prose changes — **3/8**
@@ -34,53 +33,28 @@
 - unresolved bilingual holds — **0**
 - unresolved release/readiness blockers — **0**
 - canonical Tamil edits caused by English/release synchronization — **0**
-- Part002 English/Tamil content imported — **0**
-- whole-Part bilingual review — **PASS / CLOSED**
-- release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- final Part001 closure — **NEXT / NOT STARTED**
+- maintained English body drift after release/readiness — **0**
+- Part002 English/Tamil content imported into Part001 — **0**
 
-## E1–E4 closure
+## Durable closure records
 
-Created/source-checked English coverage:
+- `GLOSSARY_RECONCILIATION.md` — **RECONCILED / PASS**
+- `TRANSLATION_REVIEW.md` — **PASS / CLOSED**
+- `BILINGUAL_REVIEW.md` — **PASS / CLOSED**
+- `RELEASE_REPORT.md` — **PASS / CLOSED**
+- `../../PART_001_RELEASE_READY_SYNC.md` — **PASS / CLOSED**
+- `../../PART_001_FINAL_CLOSURE.md` — **PASS / CLOSED**
 
-- `sections/00-front-matter.md`
-- `sections/01-foreword.md`
-- `sections/02-publishers-note.md`
-- `sections/03-epigraph.md`
-- `sections/04-title-divider.md`
-- `sections/05-thorana-vayil.md`
-- `sections/06-a-secret-letter.md`
-- `sections/07-the-old-man-met-on-the-way.md`
-
-E1–E4 result: **SOURCE-CHECKED / COMPLETE — 8/8**.
-
-## Closed whole-Part gates
-
-- glossary reconciliation — `GLOSSARY_RECONCILIATION.md` — **RECONCILED / PASS**
-- English editorial review — `TRANSLATION_REVIEW.md` — **PASS / CLOSED**
-- bilingual review — `BILINGUAL_REVIEW.md` — **PASS / CLOSED**
-- release/readiness — `RELEASE_REPORT.md` — **PASS / CLOSED**
-- release-ready synchronization — `../../PART_001_RELEASE_READY_SYNC.md` — **PASS / CLOSED**
-
-No closed gate required a canonical Tamil edit. Part002 leakage remains **0**.
-
-## Boundary lock
+## Permanent boundary lock
 
 - Part001 final source scan — **30 / printed19**
 - final Tamil fragment — `அவனுக்கு ஒரே மகிழ்ச்சி,`
 - final English fragment — **“He was filled with joy,”**
 - 30→31 — **GENUINE CONTINUATION**
-- scan31 belongs to Part002 and is not translated in Part001
-- open Part001 ending must not be completed by inference
-- Part002 transcription remains **BLOCKED**
+- scan31 belongs to Part002 and was not translated in Part001
 
-## Exact next activity
+## Lifecycle frontier
 
-Perform **Part001 final closure** only.
+Part001 English is **CLOSED / FROZEN** unless an explicit source-fidelity reopening is required.
 
-Create and verify:
-
-`../../PART_001_FINAL_CLOSURE.md`
-
-Do not begin Part002 transcription until that final-closure gate passes.
+The repository may now activate **Part002 / global scans31–60**. The next source activity is Part002 Pass 1, first batch **global scans31–40 / local pages1–10**.
