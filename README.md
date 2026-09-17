@@ -9,29 +9,40 @@
 - complete physical extent: **477 scans**;
 - working source: **16 split PDFs — all supplied / registered**;
 - active content Part: **Part001 / scans1–30 only**;
-- canonical Part001 records: **30/30 present**;
-- Pass 1 text-complete: **5/30**;
-- Pass 1 partial: **25/30 — scans6–30**;
-- formal Pass 2A / Pass 2B / Pass 3: **NOT STARTED**;
-- Tamil archival-ready: **BLOCKED**;
-- assembled Tamil: **BLOCKED**;
-- English / release-readiness: **BLOCKED**;
+- canonical Part001 records: **30/30 verified**;
+- Pass 1 / Pass 2A / Pass 2B / Pass 3: **COMPLETE**;
+- Tamil archival-ready: **PASS / CLOSED**;
+- assembled Tamil: **PASS / CLOSED — 8/8 VERIFIED**;
+- English E1–E4: **SOURCE-CHECKED / COMPLETE — 8/8**;
+- whole-Part glossary reconciliation: **RECONCILED / PASS**;
+- English editorial review: **PASS / CLOSED — 8/8 reviewed**;
+- unresolved English/glossary/editorial holds: **0**;
+- canonical Tamil edits caused by English: **0**;
+- whole-Part bilingual review: **NEXT / NOT STARTED**;
+- release/readiness: **BLOCKED**;
+- final Part001 closure: **BLOCKED**;
 - Part002: **SOURCE REGISTERED / TRANSCRIPTION BLOCKED**;
 - boundary **30→31 = GENUINE CONTINUATION** as an adjacent-source witness only.
 
 This work follows the **Kuraloviyam per-Part closure model**:
 
-**Part001 source/Tamil closure → assembled Tamil → English translation/review → release/readiness report → final Part closure → only then Part002 transcription.**
+**Part001 source/Tamil closure → assembled Tamil → English draft/source-check → glossary reconciliation → editorial review → whole-Part bilingual review → release/readiness report → final Part closure → only then Part002 transcription.**
 
 Active controls:
 - `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_001_PASS1_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/README.md`
-- `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE.md`
-- `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLICY.md`
-- `works/payumpuli-pandaraka-vanniyan/audit.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/TRANSLATION_PLAN.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/GLOSSARY.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/TRANSLATION_REVIEW.md`
+- `HANDOVER.md`
 
-Exact next action: **Part001 Pass 1 scans6–15 — complete the actual printed Tamil text in the ten existing records. Do not begin Part002.**
+Part001 terminal lock:
+- Tamil ends `அவனுக்கு ஒரே மகிழ்ச்சி,`;
+- English ends **“He was filled with joy,”**;
+- scan31 remains excluded from Part001.
+
+Exact next action: **whole-Part bilingual review across all 8/8 Part001 Tamil/English section pairs, scans1–30 only. Do not begin release/readiness or Part002.**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 
