@@ -1,6 +1,6 @@
 # English Translation Plan — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **RELEASE/READINESS REPORT — PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
+Status: **RELEASE-READY SYNCHRONIZATION — PASS / CLOSED — FINAL PART001 CLOSURE NEXT**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -10,16 +10,13 @@ This is the control plan for the project-created English translation of **Part00
 2. `works/payumpuli-pandaraka-vanniyan/sections/` — **PASSED / CLOSED** assembled Tamil reading layer.
 3. `works/payumpuli-pandaraka-vanniyan/translations/en/` — derived project-created English only.
 
-If English conflicts with canonical Tamil, Tamil governs.
-
-English work must never silently correct, regularize, modernize, fact-correct or rewrite the Tamil source layer.
+If English conflicts with canonical Tamil, Tamil governs. English work must never silently correct, regularize, modernize, fact-correct or rewrite the Tamil source layer.
 
 ## Translation objective
 
 Produce readable English that remains reversible to the verified Part001 Tamil evidence.
 
 Preserve:
-
 - speaker and narrator agency;
 - chronology and knowledge state;
 - rhetorical questions, repetition, exclamations, irony and emphatic phrasing;
@@ -27,12 +24,12 @@ Preserve:
 - source-visible section/chapter structure;
 - source-specific names, titles, offices and place names;
 - historical and political framing as presented by the source;
-- source quotations and verse without importing a published/standard English wording;
+- source quotations and verse without importing published/standard English wording;
 - the open Part001 ending at scan30.
 
-Do not add explanatory history, geography, biography or literary interpretation inside translation prose unless the Tamil source itself supplies it.
+Do not add explanatory history, geography, biography or literary interpretation inside translation prose unless the Tamil source supplies it.
 
-## Source-structure rules
+## Source structure
 
 Part001 assembled Tamil contains **8 verified section files**:
 
@@ -45,99 +42,33 @@ Part001 assembled Tamil contains **8 verified section files**:
 7. `06-oru-iragasiyak-kaditham.md` — scans21–27
 8. `07-vazhiyil-kanda-vayothigar.md` — scans28–30
 
-English must preserve this Part-level order.
+English preserves this Part-level order.
 
-Front matter, foreword, publisher's note, epigraph and printed divider text are part of Part001 translation coverage. Visual-only material already excluded from the assembled Tamil layer is not invented as prose.
+## Names, titles and source variants
 
-## Names and romanization
+The glossary uses conservative source-facing project romanizations. Deliberate source variants must not be collapsed.
 
-The glossary uses conservative project romanizations derived from the Tamil text itself.
+Protected distinctions include:
 
-Rules:
-
-- keep personal names as names; do not translate their lexical meanings unless the source explicitly makes a wordplay;
-- keep source honorifics/titles where they matter to speaker stance;
-- use one locked romanization once a glossary form is adopted, except where deliberate source-derived variants are explicitly locked;
-- do not silently replace a source-facing romanization with a web/official/modern spelling;
-- any later romanization change must be recorded through glossary reconciliation and must not modify canonical Tamil.
-
-Deliberate source variants remain protected exactly as recorded in `GLOSSARY.md` and `GLOSSARY_RECONCILIATION.md`.
-
-## Titles, offices and kinship
-
-Translate ordinary functional labels when their source meaning is clear, while preserving named titles/epithets where translation would erase identity.
-
-Examples of source-derived categories include:
-
-- `அணிந்துரை` — **Foreword**;
-- `பதிப்புரை` — **Publisher's Note**;
-- `பாளையக்கார மன்னர்கள்` — render functionally, with `palaiyakkarar` available where the historical office itself matters;
-- `கலெக்டர் பதவிக்கு இணையான அரசப் பதவி` — preserve the source's own “equivalent to Collector” comparison rather than adding a modern administrative explanation.
-
-No outside historical-office taxonomy is introduced by this plan.
-
-## Place names
-
-Use consistent source-facing romanizations from the project glossary.
-
-Do not add modern jurisdictional or political descriptions that are absent from the Part001 Tamil.
-
-Where the Tamil source itself uses `இலங்கை`, translate the country reference as **Sri Lanka**; this is a translation choice, not an external historical annotation.
-
-## Culture-specific vocabulary
-
-For culture-specific terms:
-
-1. translate directly where the source meaning is unambiguous and ordinary;
-2. retain a source-facing transliteration where a forced English equivalent could add or remove meaning;
-3. give only a minimal in-text gloss when needed for comprehension;
-4. do not add encyclopedia-style explanation to narrative prose;
-5. lock recurring choices in `GLOSSARY.md`.
+- `பண்டார வன்னியன்` / `பண்டாரக வன்னியன்` → **Pandara Vanniyan / Pandaraka Vanniyan**
+- `குலசேகர வைரமுத்து` / `குலசேகரம் வைரமுத்து` → **Kulasekara Vairamuthu / Kulasekaram Vairamuthu**
+- `மருதன்` / `மருது` → **Maruthan / Maruthu**
+- `பரதன்` / `பரதா` → **Bharathan / Bharatha**
+- **Karsilai Madu / Karsilaimadu**
+- **Payumpuli... / Payum Puli...**
+- source honorific/name variants recorded in `GLOSSARY.md`
 
 ## Quotations, songs and verse
 
-Part001 contains an epigraph, quoted speeches, a folk-song passage and other displayed source material.
+Translate only from verified project Tamil. Preserve meaningful block/line structure and source quotation boundaries. Do not import remembered, published or web English versions. Historical or political claims remain source-attributed rather than project assertions.
 
-Rules:
+## Source oddities and framing
 
-- preserve block/line structure where meaningful;
-- translate from the verified project Tamil only;
-- do not import remembered, published or web English versions;
-- if a line cannot be translated securely from the project Tamil alone, retain the Tamil temporarily in the English draft, mark a translation hold, and resolve it through the source-check/glossary-review chain rather than guessing;
-- quoted political/historical claims remain attributed to the source speaker or narrator and are not converted into project assertions.
+Preserve source chronology, rhetoric, unusual punctuation and abrupt transitions where meaningful. Do not neutralize, modernize or fact-correct source framing inside the translation.
 
-## Source oddities and source framing
+## Provenance policy
 
-Preserve, do not silently reconcile:
-
-- source-specific spellings and names already locked by Tamil verification;
-- the source's own chronology and historical assertions;
-- rhetoric about freedom, rule, sovereignty, colonial power and armed resistance as source framing;
-- source quotation boundaries;
-- unusual punctuation or abrupt rhetorical transitions when they carry tone;
-- Part001's structurally incomplete chapter ending.
-
-English may improve sentence flow only where the meaning, agency and rhetorical force remain unchanged.
-
-## Paragraph, dialogue and display structure
-
-- preserve paragraph order;
-- preserve dialogue speaker order and question/answer structure;
-- retain meaningful displayed verse/list blocks;
-- do not collapse distinct source paragraphs merely for smoother English;
-- do not invent headings;
-- assembled Tamil provenance comments may be carried into English as non-rendering HTML comments where useful for reversibility.
-
-## Provenance-comment policy
-
-English section files should carry:
-
-- source Tamil section reference;
-- source scan range;
-- source-facing section title;
-- non-rendering boundary comments at meaningful physical joins when needed to keep translation reversible.
-
-Provenance comments are metadata, not translation prose.
+English sections retain source Tamil section references, scan ranges and source-facing titles. Provenance comments are metadata, not translation prose.
 
 ## Part001 terminal-boundary rule
 
@@ -151,136 +82,51 @@ This rule is absolute:
 - do not import or translate scan31 in Part001;
 - do not invent a completion for the open sentence.
 
-## Batch plan
+## Closed English gates
 
-Batches follow the already-verified Tamil section boundaries.
+| Gate | Coverage | Status |
+|---|---:|---|
+| E1 | scans1–12 | **SOURCE-CHECKED / COMPLETE** |
+| E2 | scans13–20 | **SOURCE-CHECKED / COMPLETE** |
+| E3 | scans21–27 | **SOURCE-CHECKED / COMPLETE** |
+| E4 | scans28–30 | **SOURCE-CHECKED / COMPLETE** |
+| Glossary reconciliation | scans1–30 | **RECONCILED / PASS** |
+| Editorial review | scans1–30 | **PASS / CLOSED** |
+| Whole-Part bilingual review | scans1–30 | **PASS / CLOSED** |
+| Release/readiness report | scans1–30 | **PASS / CLOSED** |
+| Release-ready synchronization | scans1–30 | **PASS / CLOSED** |
 
-| Batch | Tamil assembled coverage | Scans | English state |
-|---|---|---:|---|
-| **E1** | sections 00–04: front matter + `அணிந்துரை` + `பதிப்புரை` + epigraph + title divider | **1–12** | **SOURCE-CHECKED / COMPLETE** |
-| **E2** | section 05: `தோரண வாயில்` | **13–20** | **SOURCE-CHECKED / COMPLETE** |
-| **E3** | section 06: `ஒரு இரகசியக் கடிதம்!` | **21–27** | **SOURCE-CHECKED / COMPLETE** |
-| **E4** | section 07: `வழியில் கண்ட வயோதிகர்!` | **28–30** | **SOURCE-CHECKED / COMPLETE** |
+Durable records:
+- `GLOSSARY_RECONCILIATION.md`
+- `TRANSLATION_REVIEW.md`
+- `BILINGUAL_REVIEW.md`
+- `RELEASE_REPORT.md`
+- `../../PART_001_RELEASE_READY_SYNC.md`
 
-## Per-batch source-check gates
+## Release-ready synchronization — PASS / CLOSED
 
-Every English batch passed:
+The maintained lifecycle/status/navigation controls have been synchronized to the closed Tamil + English + release/readiness state.
 
-1. coverage/order check;
-2. paragraph/display-structure check;
-3. source-meaning and agency check;
-4. dialogue/register check;
-5. names/place/title consistency check;
-6. quotation/verse check;
-7. provenance/boundary check;
-8. source-oddity preservation check;
-9. no unsupported explanatory insertion;
-10. no-silent-Tamil-change check.
+Synchronization introduced:
+- canonical Tamil edits — **0**
+- maintained English body edits — **0**
+- source-variant collapses — **0**
+- Part002 leakage — **0**
 
-## Glossary reconciliation gate
-
-Whole-Part glossary reconciliation is **RECONCILED / PASS**.
-
-- recurring names, places, titles, offices and culture-specific terms were checked across all 8 files;
-- accidental romanization drift requiring section edits — **0**;
-- deliberate source variants remain protected;
-- canonical Tamil edits caused by reconciliation — **0**.
-
-Detailed closure: `GLOSSARY_RECONCILIATION.md`.
-
-## Editorial review gate
-
-English editorial review is **PASS / CLOSED** across all **8/8** files / scans1–30.
-
-- files with English prose edits — **3/8**;
-- files reviewed textually unchanged — **5/8**;
-- substantive English-only editorial corrections — **8**;
-- unresolved editorial holds — **0**;
-- canonical Tamil edits caused by editorial review — **0**;
-- Part002 content imported — **0**.
-
-Editorial changes were limited to source-safe English syntax/readability improvements. Deliberate variants, quotation/verse/song structure and the open scan30 boundary were retained.
-
-Detailed closure: `TRANSLATION_REVIEW.md`.
-
-## Whole-Part bilingual review — PASS / CLOSED
-
-The complete **8/8** maintained English layer was compared against the complete **8/8 PASSED** assembled Tamil layer, scans1–30 only.
-
-Confirmed:
-
-- all 8 Tamil sections are represented once and in source order;
-- source meaning, speaker/narrator agency, chronology and knowledge state remain aligned;
-- paragraph/dialogue/quotation/verse/song/display structure remains aligned where meaningful;
-- deliberate source variants remain protected;
-- all **8/8** editorial corrections preserve their Tamil basis;
-- source rhetoric and historical/political framing remain source-framed rather than neutralized, modernized or fact-corrected;
-- unsupported historical, political, geographic, literary or botanical explanation added — **0**;
-- scan coverage remains **1–30 only**;
-- Part002 content imported — **0**;
-- final English fragment remains **“He was filled with joy,”**;
-- unresolved bilingual holds — **0**;
-- English-only corrections newly required by bilingual review — **0**;
-- canonical Tamil edits caused by bilingual review — **0**.
-
-Detailed closure: `BILINGUAL_REVIEW.md`.
-
-## Release/readiness gate — PASS / CLOSED
-
-The maintained release/readiness report is complete:
-
-`RELEASE_REPORT.md`
-
-Confirmed:
-
-- Tamil canonical coverage — **30/30 verified**;
-- assembled Tamil — **8/8 VERIFIED / PASS / CLOSED**;
-- English coverage — **8/8**;
-- bilingual alignment — **PASS / CLOSED**;
-- glossary consistency — **PASS**;
-- editorial and bilingual closure — **PASS / CLOSED**;
-- unresolved release/readiness blockers — **0**;
-- navigation/provenance — **PASS**;
-- Part001 terminal boundary — **PASS / intact**;
-- active-work source-PDF paths in live Git tree — **0**;
-- canonical Tamil edits caused by release/readiness — **0**;
-- Part002 content imported — **0**.
-
-Part001 is ready to proceed to the separate **release-ready synchronization** gate. Release/readiness PASS does not itself declare final Part001 closure.
-
-## Release-ready synchronization — NEXT
-
-Synchronize maintained lifecycle/status/navigation controls to the closed Tamil + English + release/readiness state.
-
-This gate must not:
-
-- alter canonical Tamil wording;
-- collapse deliberate source variants;
-- import or translate Part002 content;
-- declare final Part001 closure before synchronization is independently checked and closed.
+Release-ready synchronization does not itself constitute final Part001 closure.
 
 ## Final rule
 
-English is always a derived project translation.
+English is always a derived project translation and cannot authorize a canonical Tamil correction.
 
-It cannot authorize a canonical Tamil correction.
-
-A genuine Tamil-fidelity issue discovered during English work must be recorded and routed back through an explicit Tamil reopening decision rather than silently fixed through translation.
-
-## E1–E4 closure
-
-- E1 — sections00–04 / scans1–12 — **SOURCE-CHECKED / COMPLETE**
-- E2 — `தோரண வாயில்` / scans13–20 — **SOURCE-CHECKED / COMPLETE**
-- E3 — `ஒரு இரகசியக் கடிதம்!` / scans21–27 — **SOURCE-CHECKED / COMPLETE**
-- E4 — `வழியில் கண்ட வயோதிகர்!` / scans28–30 — **SOURCE-CHECKED / COMPLETE**
-- unresolved source-check holds — **0**
-- canonical Tamil edits caused by source-check work — **0**
-- English draft + per-batch source-check coverage — **8/8 COMPLETE**
-
-Detailed closures: `E1_SOURCE_CHECK.md`, `E2_SOURCE_CHECK.md`, `E3_SOURCE_CHECK.md`, `E4_SOURCE_CHECK.md`.
+A genuine Tamil-fidelity issue discovered during English work must be routed through an explicit Tamil reopening decision rather than silently fixed through translation.
 
 ## Exact next activity
 
-**release-ready synchronization** for Part001.
+Perform **Part001 final closure** only.
 
-Do not begin final Part001 closure or Part002 transcription until release-ready synchronization closes.
+Create and verify:
+
+`../../PART_001_FINAL_CLOSURE.md`
+
+Do not begin Part002 transcription until final Part001 closure passes.
