@@ -17,11 +17,12 @@
 - whole-Part glossary reconciliation: **RECONCILED / PASS**;
 - English editorial review: **PASS / CLOSED — 8/8 reviewed**;
 - whole-Part bilingual review: **PASS / CLOSED — 8/8 pairs reviewed**;
-- unresolved English/glossary/editorial/bilingual holds: **0**;
+- release/readiness report: **PASS / CLOSED**;
+- unresolved English/glossary/editorial/bilingual/release-readiness holds: **0**;
 - English-only corrections newly required by bilingual review: **0**;
 - canonical Tamil edits caused by English: **0**;
 - Part002 content imported: **0**;
-- release/readiness report: **NEXT / NOT STARTED**;
+- release-ready synchronization: **NEXT / NOT STARTED**;
 - final Part001 closure: **BLOCKED**;
 - Part002: **SOURCE REGISTERED / TRANSCRIPTION BLOCKED**;
 - boundary **30→31 = GENUINE CONTINUATION** as an adjacent-source witness only.
@@ -38,6 +39,7 @@ Active controls:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/TRANSLATION_REVIEW.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/BILINGUAL_REVIEW.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/RELEASE_REPORT.md`
 - `HANDOVER.md`
 
 Part001 terminal lock:
@@ -45,7 +47,7 @@ Part001 terminal lock:
 - English ends **“He was filled with joy,”**;
 - scan31 remains excluded from Part001.
 
-Exact next action: **create and complete the Part001 release/readiness report for scans1–30 only. Do not begin release-ready synchronization, final Part closure or Part002 transcription.**
+Exact next action: **perform Part001 release-ready synchronization. Do not begin final Part closure or Part002 transcription.**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 
