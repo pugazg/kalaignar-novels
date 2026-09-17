@@ -1,6 +1,6 @@
 # English Translation Plan — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED — RELEASE/READINESS REPORT NEXT**
+Status: **RELEASE/READINESS REPORT — PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -225,27 +225,39 @@ Confirmed:
 
 Detailed closure: `BILINGUAL_REVIEW.md`.
 
-## Release/readiness gate — NEXT
+## Release/readiness gate — PASS / CLOSED
 
-Create the maintained release/readiness report now that the whole-Part bilingual review has passed.
-
-It must confirm:
-
-- Tamil/English coverage;
-- bilingual alignment;
-- glossary consistency;
-- editorial and bilingual closure;
-- unresolved items;
-- navigation/provenance;
-- Part001 terminal boundary;
-- source-PDF exclusion from Git;
-- canonical Tamil unchanged.
-
-The durable release/readiness record is:
+The maintained release/readiness report is complete:
 
 `RELEASE_REPORT.md`
 
-Release-ready synchronization, final Part closure and Part002 transcription remain blocked until that report passes.
+Confirmed:
+
+- Tamil canonical coverage — **30/30 verified**;
+- assembled Tamil — **8/8 VERIFIED / PASS / CLOSED**;
+- English coverage — **8/8**;
+- bilingual alignment — **PASS / CLOSED**;
+- glossary consistency — **PASS**;
+- editorial and bilingual closure — **PASS / CLOSED**;
+- unresolved release/readiness blockers — **0**;
+- navigation/provenance — **PASS**;
+- Part001 terminal boundary — **PASS / intact**;
+- active-work source-PDF paths in live Git tree — **0**;
+- canonical Tamil edits caused by release/readiness — **0**;
+- Part002 content imported — **0**.
+
+Part001 is ready to proceed to the separate **release-ready synchronization** gate. Release/readiness PASS does not itself declare final Part001 closure.
+
+## Release-ready synchronization — NEXT
+
+Synchronize maintained lifecycle/status/navigation controls to the closed Tamil + English + release/readiness state.
+
+This gate must not:
+
+- alter canonical Tamil wording;
+- collapse deliberate source variants;
+- import or translate Part002 content;
+- declare final Part001 closure before synchronization is independently checked and closed.
 
 ## Final rule
 
@@ -269,6 +281,6 @@ Detailed closures: `E1_SOURCE_CHECK.md`, `E2_SOURCE_CHECK.md`, `E3_SOURCE_CHECK.
 
 ## Exact next activity
 
-**release/readiness report** for the complete Part001 Tamil/English layer, scans1–30 only.
+**release-ready synchronization** for Part001.
 
-Do not begin release-ready synchronization, final Part closure or Part002 transcription until the release/readiness gate closes.
+Do not begin final Part001 closure or Part002 transcription until release-ready synchronization closes.
