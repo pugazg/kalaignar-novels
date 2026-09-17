@@ -4,7 +4,7 @@ English translation workspace for Part001 of **பாயும்புலி �
 
 ## Current status
 
-**WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED — RELEASE/READINESS REPORT NEXT**
+**RELEASE/READINESS REPORT — PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
 
 - Tamil canonical authority — **30/30 verified**
 - assembled Tamil reading layer — **8/8 VERIFIED / PASS / CLOSED**
@@ -17,14 +17,16 @@ English translation workspace for Part001 of **பாயும்புலி �
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED — 8/8 reviewed**
 - whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs reviewed**
+- release/readiness report — **PASS / CLOSED**
 - unresolved English/source-check holds — **0**
 - unresolved glossary holds — **0**
 - unresolved editorial holds — **0**
 - unresolved bilingual holds — **0**
+- unresolved release/readiness blockers — **0**
 - English-only corrections newly required by bilingual review — **0**
 - canonical Tamil changes caused by English — **0**
 - Part002 content imported — **0**
-- exact next activity — **release/readiness report**
+- exact next activity — **release-ready synchronization**
 
 ## Authority
 
@@ -48,12 +50,11 @@ No published, web, remembered or standard English translation is used as authori
 - `GLOSSARY_RECONCILIATION.md` — whole-Part glossary closure record
 - `TRANSLATION_REVIEW.md` — English editorial-review closure record
 - `BILINGUAL_REVIEW.md` — whole-Part bilingual-review closure record
-
-The next maintained control to create is `RELEASE_REPORT.md`.
+- `RELEASE_REPORT.md` — release/readiness closure record
 
 ## English section coverage
 
-All **8** verified Part001 Tamil assembled files are represented in English and passed whole-Part bilingual review.
+All **8** verified Part001 Tamil assembled files are represented in English and passed whole-Part bilingual review and release/readiness.
 
 | Tamil file | English file | Scans | State |
 |---|---|---:|---|
@@ -66,11 +67,27 @@ All **8** verified Part001 Tamil assembled files are represented in English and 
 | `06-oru-iragasiyak-kaditham.md` | `sections/06-a-secret-letter.md` | 21–27 | source-checked; editorial-reviewed with source-safe edits; bilingual PASS |
 | `07-vazhiyil-kanda-vayothigar.md` | `sections/07-the-old-man-met-on-the-way.md` | 28–30 | source-checked; editorial-reviewed; bilingual PASS |
 
-Detailed bilingual accounting is in `BILINGUAL_REVIEW.md`.
+Detailed bilingual accounting is in `BILINGUAL_REVIEW.md`; release/readiness accounting is in `RELEASE_REPORT.md`.
+
+## Release/readiness result
+
+`RELEASE_REPORT.md` confirms:
+
+- Tamil coverage — **30/30 verified**;
+- assembled Tamil — **8/8 VERIFIED / PASS / CLOSED**;
+- English coverage — **8/8**;
+- bilingual alignment — **PASS / CLOSED**;
+- glossary consistency — **PASS**;
+- unresolved release/readiness blockers — **0**;
+- active-work source-PDF paths in the live Git tree — **0**;
+- canonical Tamil edits caused by release/readiness — **0**;
+- Part002 content imported — **0**.
+
+Release/readiness PASS means the package may proceed to **release-ready synchronization**. It does not yet constitute final Part001 closure.
 
 ## Protected source variants
 
-Whole-Part bilingual review confirmed, without normalization:
+The maintained English protects, without normalization:
 
 - **Pandara Vanniyan / Pandaraka Vanniyan**
 - **Kulasekara Vairamuthu / Kulasekaram Vairamuthu**
@@ -96,6 +113,6 @@ Scan31 is Part002 and must not be imported or translated in Part001. English mus
 
 ## Exact next activity
 
-Create and complete the **release/readiness report** for Part001, scans1–30 only.
+Perform **release-ready synchronization** for Part001.
 
-Do not begin release-ready synchronization, final Part closure or Part002 transcription until the release/readiness gate closes.
+Do not begin final Part001 closure or Part002 transcription until the release-ready synchronization gate closes.
