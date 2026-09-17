@@ -10,8 +10,8 @@
 - working source: **16 split PDFs — all supplied / registered**;
 - Part001 / scans1–30 — **FINAL CLOSURE PASS / CLOSED / FROZEN**;
 - Part002 / scans31–60 — **ACTIVE**;
-- Part002 canonical records — **10/30 — scans31–40**;
-- Part002 Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**;
+- Part002 canonical records — **20/30 — scans31–50**;
+- Part002 Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**;
 - Part002 Pass 2A / 2B / 3 — **NOT STARTED**;
 - incoming boundary **30→31 = GENUINE CONTINUATION / AUDITED**;
 - outgoing boundary **60→61 = PENDING direct audit**.
@@ -30,17 +30,15 @@ Active controls:
 Part001 terminal lock remains permanent:
 - Tamil ends `அவனுக்கு ஒரே மகிழ்ச்சி,`;
 - English ends **“He was filled with joy,”**;
-- scan31 was not imported into Part001.
+- scan31 belongs to Part002.
 
-Part002 Batch 1:
-- global scans **31–40** / local pages **1–10** — **PASS 1 COMPLETE / TEXT-COMPLETE**
-- printed pages **20–29**
-- scans31–34: `வழியில் கண்ட வயோதிகர்!`
-- scan35 opens chapter 4 `குருவிச்சி நாச்சியார்`
-- scans36–40 continue chapter 4
-- scan40 ends `எனவே அந்தப் பெரிய மணி ஓசை`
+Part002 Pass-1 completed coverage:
+- scans **31–40 / local1–10 / printed20–29** — Batch 1 COMPLETE;
+- scans **41–50 / local11–20 / printed30–39** — Batch 2 COMPLETE;
+- scan42 opens chapter5 `நாலு கால் மண்டபத்தில்!`;
+- scan50 opens chapter6 `கண்டியின் வாரிசுப் போட்டி!` and ends physically `பாஞ்சாலங்குறிச்சி`.
 
-Exact next action: **Part002 Pass 1 for global scans41–50 / local pages11–20.**
+Exact next action: **Part002 Pass 1 for global scans51–60 / local pages21–30**.
 
 Do not begin Pass 2A until Part002 Pass 1 reaches **30/30**.
 
