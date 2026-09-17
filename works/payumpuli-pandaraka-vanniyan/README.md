@@ -16,15 +16,11 @@ Authoritative work-specific guide:
 
 Core rule:
 
-> **Part001 must complete its full Tamil + assembled Tamil + English + release/readiness + release-ready synchronization + final-closure workflow before Part002 transcription begins.**
+> **A Part must complete its full Tamil + assembled Tamil + English + release/readiness + release-ready synchronization + final-closure workflow before the next Part receives transcription work.**
 
-Later Parts may be supplied/registered and may be used as adjacent boundary witnesses, but remain transcription-blocked until the active Part closes.
+## Part001 — FINAL CLOSED
 
-## Current active Part
-
-**Part001 only — overall scans1–30 / local pages1–30**
-
-Current Part001 state:
+**Part001 / overall scans1–30 / local pages1–30**
 
 - source intake — **PASS / COMPLETE**
 - canonical records — **30/30 present / verified**
@@ -40,11 +36,14 @@ Current Part001 state:
 - whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs reviewed**
 - release/readiness report — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- unresolved English/glossary/editorial/bilingual/release-readiness blockers — **0**
-- canonical Tamil edits caused by English/release synchronization — **0**
-- Part002 content imported — **0**
-- final Part001 closure — **NEXT / NOT STARTED**
-- Part002 transcription — **BLOCKED**
+- final Part001 closure — **PASS / CLOSED**
+- unresolved blockers — **0**
+- canonical Tamil drift after release/readiness — **0**
+- maintained English body drift after release/readiness — **0**
+- Part002 content imported into Part001 — **0**
+
+Durable final record:
+- [`PART_001_FINAL_CLOSURE.md`](PART_001_FINAL_CLOSURE.md)
 
 ## Part001 source structure
 
@@ -60,17 +59,27 @@ Current Part001 state:
 10. scan28 — `வழியில் கண்ட வயோதிகர்!`
 11. scans29–30 — continuation
 
-## Part002 state
+## Permanent Part001 boundary
 
-Part002 source is **SUPPLIED / REGISTERED / TRANSCRIPTION BLOCKED**.
-
-Boundary lock:
 - scan30 / Part001 local30 / printed19
 - scan31 / Part002 local1 / printed20
 - **30→31 = GENUINE CONTINUATION**
 - Tamil Part001 ends `அவனுக்கு ஒரே மகிழ்ச்சி,`
 - English Part001 ends **“He was filled with joy,”**
 - scan31 content is excluded from Part001
+
+## Part002 frontier
+
+Part002 source is **SUPPLIED / REGISTERED**.
+
+- global scans — **31–60**
+- local pages — **1–30**
+- incoming boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
+- canonical Part002 page records — **0**
+- Pass 1 / Pass 2A / Pass 2B / Pass 3 — **NOT STARTED**
+- transcription — **AUTHORIZED / NOT STARTED**
+
+Part002 becomes the next active Part on the next explicit continuation.
 
 ## Source rules
 
@@ -87,6 +96,8 @@ Boundary lock:
 - [`PAYUMPULI_ARCHIVAL_GUIDELINES.md`](PAYUMPULI_ARCHIVAL_GUIDELINES.md)
 - [`PART_001_TAMIL_ARCHIVAL_READY.md`](PART_001_TAMIL_ARCHIVAL_READY.md)
 - [`PART_001_ASSEMBLED_TAMIL_VALIDATION.md`](PART_001_ASSEMBLED_TAMIL_VALIDATION.md)
+- [`PART_001_RELEASE_READY_SYNC.md`](PART_001_RELEASE_READY_SYNC.md)
+- [`PART_001_FINAL_CLOSURE.md`](PART_001_FINAL_CLOSURE.md)
 - [`sections/README.md`](sections/README.md)
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md)
@@ -95,26 +106,12 @@ Boundary lock:
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 - [`translations/en/BILINGUAL_REVIEW.md`](translations/en/BILINGUAL_REVIEW.md)
 - [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
-- [`PART_001_RELEASE_READY_SYNC.md`](PART_001_RELEASE_READY_SYNC.md)
-
-## Release-ready synchronization
-
-`PART_001_RELEASE_READY_SYNC.md` is **PASS / CLOSED**.
-
-It confirms:
-- all upstream Tamil/English/release gates are closed;
-- canonical Tamil changes during synchronization — **0**;
-- maintained English body changes during synchronization — **0**;
-- source-variant collapses — **0**;
-- Part002 leakage — **0**;
-- terminal boundary remains intact.
+- [`SOURCE_INTAKE_PART_002.md`](SOURCE_INTAKE_PART_002.md)
 
 ## Exact next activity
 
-Perform **Part001 final closure** only.
+Activate **Part002 / global scans31–60** and begin **Pass 1** with the first normal batch:
 
-Create and verify:
+**global scans31–40 / Part002 local pages1–10**.
 
-`PART_001_FINAL_CLOSURE.md`
-
-Keep Part002 transcription blocked until final closure passes.
+Do not begin Part002 Pass 2A until Pass 1 covers the full Part.
