@@ -1,6 +1,6 @@
 # English Translation Plan — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **RELEASE-READY SYNCHRONIZATION — PASS / CLOSED — FINAL PART001 CLOSURE NEXT**
+Status: **PART001 FINAL CLOSURE — PASS / CLOSED**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -72,15 +72,15 @@ English sections retain source Tamil section references, scan ranges and source-
 
 ## Part001 terminal-boundary rule
 
-This rule is absolute:
+This rule remains permanent after closure:
 
 - scan30 / printed19 is the final Part001 source page;
 - scan30 ends `அவனுக்கு ஒரே மகிழ்ச்சி,`;
 - English ends **“He was filled with joy,”**;
 - **30→31 = GENUINE CONTINUATION**;
-- scan31 belongs to Part002 and is only a boundary witness;
-- do not import or translate scan31 in Part001;
-- do not invent a completion for the open sentence.
+- scan31 belongs to Part002;
+- scan31 was not imported or translated in Part001;
+- no completion was invented for the open sentence.
 
 ## Closed English gates
 
@@ -95,6 +95,7 @@ This rule is absolute:
 | Whole-Part bilingual review | scans1–30 | **PASS / CLOSED** |
 | Release/readiness report | scans1–30 | **PASS / CLOSED** |
 | Release-ready synchronization | scans1–30 | **PASS / CLOSED** |
+| Final Part001 closure | scans1–30 | **PASS / CLOSED** |
 
 Durable records:
 - `GLOSSARY_RECONCILIATION.md`
@@ -102,31 +103,27 @@ Durable records:
 - `BILINGUAL_REVIEW.md`
 - `RELEASE_REPORT.md`
 - `../../PART_001_RELEASE_READY_SYNC.md`
+- `../../PART_001_FINAL_CLOSURE.md`
 
-## Release-ready synchronization — PASS / CLOSED
+## Final closure integrity
 
-The maintained lifecycle/status/navigation controls have been synchronized to the closed Tamil + English + release/readiness state.
+Final closure independently confirmed:
 
-Synchronization introduced:
-- canonical Tamil edits — **0**
-- maintained English body edits — **0**
-- source-variant collapses — **0**
-- Part002 leakage — **0**
-
-Release-ready synchronization does not itself constitute final Part001 closure.
+- unresolved blockers — **0**;
+- unauthorized canonical Tamil drift after release/readiness — **0**;
+- unauthorized maintained English body drift after release/readiness — **0**;
+- source-variant collapses — **0**;
+- Part002 leakage — **0**;
+- terminal boundary integrity — **PASS**.
 
 ## Final rule
 
 English is always a derived project translation and cannot authorize a canonical Tamil correction.
 
-A genuine Tamil-fidelity issue discovered during English work must be routed through an explicit Tamil reopening decision rather than silently fixed through translation.
+A genuine Tamil-fidelity issue discovered later must be routed through an explicit Tamil reopening decision rather than silently fixed through translation.
 
-## Exact next activity
+## Lifecycle frontier
 
-Perform **Part001 final closure** only.
+Part001 English is **FINAL CLOSED / FROZEN**.
 
-Create and verify:
-
-`../../PART_001_FINAL_CLOSURE.md`
-
-Do not begin Part002 transcription until final Part001 closure passes.
+The next repository activity is Tamil source work for **Part002 / global scans31–60**, beginning with Pass 1 global scans **31–40** / local pages **1–10**. Part002 English remains blocked until its own Tamil archival and assembled-Tamil gates close.
