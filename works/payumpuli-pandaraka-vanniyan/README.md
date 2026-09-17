@@ -16,7 +16,7 @@ Authoritative work-specific guide:
 
 Core rule:
 
-> **Part001 must complete its full Tamil + assembled Tamil + English + release/readiness + final-closure workflow before Part002 transcription begins.**
+> **Part001 must complete its full Tamil + assembled Tamil + English + release/readiness + release-ready synchronization + final-closure workflow before Part002 transcription begins.**
 
 Later Parts may be supplied/registered and may be used as adjacent boundary witnesses, but they remain transcription-blocked until the active Part closes.
 
@@ -47,13 +47,15 @@ Current Part001 state:
 - substantive English-only editorial corrections — **8**
 - whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs reviewed**
 - English-only corrections newly required by bilingual review — **0**
+- release/readiness report — **PASS / CLOSED**
 - unresolved English/source-check holds — **0**
 - unresolved glossary holds — **0**
 - unresolved editorial holds — **0**
 - unresolved bilingual holds — **0**
+- unresolved release/readiness blockers — **0**
 - canonical Tamil edits caused by English — **0**
 - Part002 content imported by English work — **0**
-- release/readiness report — **NEXT / NOT STARTED**
+- release-ready synchronization — **NEXT / NOT STARTED**
 - final Part001 closure — **BLOCKED**
 
 The earlier local T2/T3 work on scans1–5 is retained as **historical preliminary review evidence only**. It does not count as formal Kuraloviyam-style Part-level Pass 2A / Pass 2B / Pass 3 closure.
@@ -127,6 +129,7 @@ Part001 Tamil ends `அவனுக்கு ஒரே மகிழ்ச்ச�
 - [`translations/en/GLOSSARY_RECONCILIATION.md`](translations/en/GLOSSARY_RECONCILIATION.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 - [`translations/en/BILINGUAL_REVIEW.md`](translations/en/BILINGUAL_REVIEW.md)
+- [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
 - [`SOURCE_INTAKE.md`](SOURCE_INTAKE.md)
 - [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md)
 - [`metadata/source.md`](metadata/source.md)
@@ -136,8 +139,23 @@ Part001 Tamil ends `அவனுக்கு ஒரே மகிழ்ச்ச�
 
 Historical preliminary checkpoint records are retained for provenance but do not override the live Kuraloviyam-style Part tracker.
 
+## Release/readiness checkpoint
+
+`translations/en/RELEASE_REPORT.md` is **PASS / CLOSED** with:
+
+- Tamil coverage **30/30 verified**;
+- assembled Tamil **8/8 VERIFIED / PASS / CLOSED**;
+- English coverage **8/8**;
+- whole-Part bilingual review **PASS / CLOSED**;
+- unresolved release/readiness blockers **0**;
+- active-work source-PDF paths in the live Git tree **0**;
+- canonical Tamil edits caused by release/readiness **0**;
+- Part002 leakage **0**.
+
+This authorizes only the next gate, **release-ready synchronization**. It does not authorize final closure or Part002 transcription.
+
 ## Exact next activity
 
-Create and complete the **release/readiness report** for the complete Part001 Tamil/English layer, scans1–30 only.
+Perform **release-ready synchronization** for Part001.
 
-Keep release-ready synchronization, final Part closure and Part002 transcription blocked until the release/readiness report closes.
+Keep final Part001 closure and Part002 transcription blocked until release-ready synchronization closes.
