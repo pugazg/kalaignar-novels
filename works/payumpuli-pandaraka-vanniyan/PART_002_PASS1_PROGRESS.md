@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS — 10/30 TEXT-COMPLETE**
+**PASS 1 — IN PROGRESS — 20/30 TEXT-COMPLETE**
 
 Active Part:
 - Part002
@@ -15,57 +15,65 @@ Part001 remains **FINAL CLOSURE — PASS / CLOSED / FROZEN**.
 ## Current accounting
 
 - Part002 physical scans: **30**
-- canonical Part002 records present: **10/30 — scans31–40**
-- Pass-1 text-complete records: **10/30 — scans31–40**
+- canonical Part002 records present: **20/30 — scans31–50**
+- Pass-1 text-complete records: **20/30 — scans31–50**
 - Pass-1 partial records: **0**
-- Pass-1 pending: **20/30 — scans41–60**
+- Pass-1 pending: **10/30 — scans51–60**
 - Pass 2A / Pass 2B / Pass 3: **NOT STARTED**
 - assembled Tamil / English: **NOT STARTED**
 
-All new Pass-1 records remain non-final:
+All Pass-1 records remain non-final:
 - `status: needs-review`
 - `visual_fidelity: needs-review`
 
 ## Batch 1 — scans31–40
 
-**COMPLETE / 10 scans / all printed Tamil text captured**
+**COMPLETE / 10 scans / TEXT-COMPLETE**
+
+| Global scans | Local pages | Printed pages | Structure | Status |
+|---|---|---|---|---|
+| 31–34 | 1–4 | 20–23 | close `வழியில் கண்ட வயோதிகர்!` | TEXT-COMPLETE |
+| 35–40 | 5–10 | 24–29 | chapter 4 `குருவிச்சி நாச்சியார்` | TEXT-COMPLETE |
+
+## Batch 2 — scans41–50
+
+**COMPLETE / 10 scans / TEXT-COMPLETE**
 
 | Global scan | Part page | Printed page | Section | Pass 1 |
 |---:|---:|---:|---|---|
-| 31 | 1 | 20 | `வழியில் கண்ட வயோதிகர்!` | TEXT-COMPLETE |
-| 32 | 2 | 21 | `வழியில் கண்ட வயோதிகர்!` | TEXT-COMPLETE |
-| 33 | 3 | 22 | `வழியில் கண்ட வயோதிகர்!` | TEXT-COMPLETE |
-| 34 | 4 | 23 | `வழியில் கண்ட வயோதிகர்!` | TEXT-COMPLETE |
-| 35 | 5 | 24 | `குருவிச்சி நாச்சியார்` | TEXT-COMPLETE |
-| 36 | 6 | 25 | `குருவிச்சி நாச்சியார்` | TEXT-COMPLETE |
-| 37 | 7 | 26 | `குருவிச்சி நாச்சியார்` | TEXT-COMPLETE |
-| 38 | 8 | 27 | `குருவிச்சி நாச்சியார்` | TEXT-COMPLETE |
-| 39 | 9 | 28 | `குருவிச்சி நாச்சியார்` | TEXT-COMPLETE |
-| 40 | 10 | 29 | `குருவிச்சி நாச்சியார்` | TEXT-COMPLETE |
+| 41 | 11 | 30 | `குருவிச்சி நாச்சியார்` | TEXT-COMPLETE |
+| 42 | 12 | 31 | `நாலு கால் மண்டபத்தில்!` — chapter 5 opening | TEXT-COMPLETE |
+| 43 | 13 | 32 | `நாலு கால் மண்டபத்தில்!` | TEXT-COMPLETE |
+| 44 | 14 | 33 | `நாலு கால் மண்டபத்தில்!` | TEXT-COMPLETE |
+| 45 | 15 | 34 | `நாலு கால் மண்டபத்தில்!` | TEXT-COMPLETE |
+| 46 | 16 | 35 | `நாலு கால் மண்டபத்தில்!` | TEXT-COMPLETE |
+| 47 | 17 | 36 | `நாலு கால் மண்டபத்தில்!` | TEXT-COMPLETE |
+| 48 | 18 | 37 | `நாலு கால் மண்டபத்தில்!` | TEXT-COMPLETE |
+| 49 | 19 | 38 | `நாலு கால் மண்டபத்தில்!` | TEXT-COMPLETE |
+| 50 | 20 | 39 | `கண்டியின் வாரிசுப் போட்டி!` — chapter 6 opening | TEXT-COMPLETE |
 
-## Source / continuity notes
+## Batch-2 source / continuity notes
 
-- incoming boundary **30→31 = GENUINE CONTINUATION / AUDITED**;
-- scan31 is the first canonical Part002 page and continues Part001 without altering Part001;
-- scan31→32: `யாருமே` → `கிடையாது!`;
-- scan32→33: physical split `சுந்தர` → `லிங்கத்தைப்`;
-- scan34 closes the `வழியில் கண்ட வயோதிகர்!` scene with `“குருவிச்சி நாச்சியார்!”`;
-- scan35 opens chapter **4 — `குருவிச்சி நாச்சியார்`**;
-- source-specific `வற்றாப்பாளை` in this batch is retained by occurrence and is not normalized to earlier `வற்றாப்பளை`;
-- scan36→37: `அவனிருந்த` → `இடம்`;
-- scan37→38: `ஆடும் மகளிரில்` → `நாலைந்து...`;
-- scan38→39: `மிரண்டுபோன` → `நிலையில்`;
-- scan39→40: `சிறு பூச்சி` → `போல ஆனான்!`;
-- scan40 ends openly with `எனவே அந்தப் பெரிய மணி ஓசை`; no scan41 text is inferred or imported in this batch.
+- scan41 continues the active narrative after scan40; scan40 itself was not altered;
+- scan42 visibly opens chapter **5 — `நாலு கால் மண்டபத்தில்!`**;
+- source name form **`குலசேகரம் வைரமுத்து`** is retained exactly where printed and is not normalized;
+- scan43 source wording `இணையாக இசைப்பாடிக் கொண்டிருந்தன` is retained;
+- scan44 laughter form **`களுக்`** is retained exactly;
+- scan48 ends with an intentionally open quotation after `நான் இன்றைக்கே திரும்பிச் சென்றிட வேண்டும்.`; scan49 resumes the dialogue without retroactively closing scan48;
+- place form **`முள்ளியவளை`** is retained exactly on scan49;
+- scan50 visibly opens chapter **6 — `கண்டியின் வாரிசுப் போட்டி!`**;
+- scan50 ends physically with **`பாஞ்சாலங்குறிச்சி`**; no scan51 text is inferred or imported.
 
 ## Fidelity rule
 
-The batch was transcribed from the user-supplied rendered source pages only. Source wording, punctuation, paragraph/dialogue structure, chapter heading, printed-page mapping, physical page-end fragments and historical glyph identity are preserved. No web transcription, alternate edition or later-page reconstruction was used as authority.
+These batches were transcribed only from the user-supplied rendered source pages. Source wording, punctuation, paragraph/dialogue structure, chapter hierarchy, printed-page mapping, physical page-end fragments and historical glyph identity are preserved. No web transcription, alternate edition or later-page reconstruction was used as authority.
 
 ## Exact next activity
 
-Continue Part002 Pass 1 with the second normal batch:
+Complete Part002 Pass 1 with the final normal batch:
 
-**global scans41–50 / Part002 local pages11–20**.
+**global scans51–60 / Part002 local pages21–30**.
 
-Do not begin Pass 2A until Pass 1 covers all **30/30** Part002 scans.
+After that batch, Pass 1 may be marked **30/30 COMPLETE** only if all ten pages are text-complete and the outgoing **60→61** boundary is handled according to the source-control rules.
+
+Do not begin Pass 2A until Part002 Pass 1 covers all **30/30** scans.
