@@ -91,8 +91,8 @@ Validation result:
 
 Part001 Tamil archival-ready is **PASS / CLOSED** and assembled Tamil is **PASS / CLOSED — 8/8 VERIFIED**.
 
-English E1–E4 are **SOURCE-CHECKED / COMPLETE — 8/8**; whole-Part glossary reconciliation is **RECONCILED / PASS**; English editorial review is **PASS / CLOSED**; and whole-Part bilingual review is **PASS / CLOSED — 8/8 pairs reviewed, 0 unresolved bilingual holds**.
+English E1–E4 are **SOURCE-CHECKED / COMPLETE — 8/8**; whole-Part glossary reconciliation is **RECONCILED / PASS**; English editorial review is **PASS / CLOSED**; whole-Part bilingual review is **PASS / CLOSED — 8/8 pairs reviewed**; release/readiness is **PASS / CLOSED**; and release-ready synchronization is **PASS / CLOSED**.
 
-The exact next maintained activity is the **release/readiness report**.
+The exact next maintained activity is **Part001 final closure**.
 
-Part002 transcription remains blocked until Part001 completes release/readiness, release-ready synchronization and final Part closure.
+Part002 transcription remains blocked until `PART_001_FINAL_CLOSURE.md` passes.
