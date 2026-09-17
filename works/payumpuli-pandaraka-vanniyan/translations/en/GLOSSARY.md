@@ -1,6 +1,6 @@
 # English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன் / Part001
 
-Status: **WHOLE-PART RECONCILED / PASS — DOWNSTREAM GATES CLOSED THROUGH RELEASE-READY SYNCHRONIZATION; FINAL PART001 CLOSURE NEXT**
+Status: **WHOLE-PART RECONCILED / PASS — PART001 FINAL CLOSURE PASS / CLOSED; ENGLISH FROZEN**
 
 This glossary is derived only from the verified Part001 canonical/assembled Tamil. It contains project translation choices, not external historical or linguistic claims.
 
@@ -206,7 +206,7 @@ Reconciled policy:
 - normalize only accidental English drift;
 - no accidental English drift requiring section-file edits was found;
 - no canonical Tamil change is permitted merely to enforce English consistency;
-- subsequent editorial review, bilingual review, release/readiness and release-ready synchronization all passed without collapsing source-derived variants or altering the open scan30 boundary.
+- subsequent editorial review, bilingual review, release/readiness, release-ready synchronization and final Part001 closure all passed without collapsing source-derived variants or altering the open scan30 boundary.
 
 Durable record: `GLOSSARY_RECONCILIATION.md`.
 
@@ -282,6 +282,6 @@ Reconciliation findings:
 - Part002 content imported — **0**
 - open scan30 fragment remains **“He was filled with joy,”**
 
-Downstream gates now closed: editorial review, whole-Part bilingual review, release/readiness report and release-ready synchronization.
+Downstream gates now closed: editorial review, whole-Part bilingual review, release/readiness report, release-ready synchronization and **Part001 final closure**.
 
-Exact next gate: **Part001 final closure**.
+Part001 English is **FINAL CLOSED / FROZEN**. The repository's next activity is Part002 Tamil Pass 1; this glossary remains the closed Part001 authority and does not authorize Part002 English work.
