@@ -61,11 +61,12 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part002 English planning/setup: COMPLETE / PASS**
 - **Part002 English translated/source-checked: 5/5**
 - **Part002 E5–E9: SOURCE-CHECKED / COMPLETE**
-- **Part002 English next: whole-Part glossary reconciliation**
+- **Part002 English glossary reconciliation: RECONCILED / PASS**
+- **Part002 English next: editorial review**
 - **Part003: REGISTERED / NOT ACTIVE**
 
 ## Exact next gate
 
-Perform **Part002 whole-Part English glossary reconciliation** across E5–E9 under the active Part002 glossary controls.
+Perform **Part002 English editorial review** under the reconciled Part002 glossary controls.
 
-Do not reopen canonical Tamil, alter frozen Part001 English, begin E7 early, or begin Part003 transcription.
+Do not reopen canonical Tamil, alter frozen Part001 English, begin whole-Part bilingual review early, or begin Part003 transcription.

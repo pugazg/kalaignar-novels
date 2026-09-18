@@ -524,7 +524,8 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English translated/source-checked — **5/5**
 - Part002 E5–E9 — **SOURCE-CHECKED / COMPLETE**
-- Part002 English next — **whole-Part glossary reconciliation**
+- Part002 English glossary reconciliation — **RECONCILED / PASS**
+- English next — **editorial review**
 - audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN**
 - Part003 — **REGISTERED / NOT ACTIVE**
 
@@ -532,6 +533,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Perform **Part002 whole-Part English glossary reconciliation**. The canonical page map remains source-provenance authority and must not be altered merely to smooth English.
+Perform **Part002 English editorial review**. The canonical page map remains source-provenance authority and must not be altered merely to smooth English.
 
 Part003 remains inactive.

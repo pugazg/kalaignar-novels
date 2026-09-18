@@ -458,7 +458,8 @@ The Part002 documentation/control layer is reconciled to the closed final-status
 - English planning/setup — **COMPLETE / PASS**;
 - English translated/source-checked — **5/5**;
 - E5–E9 — **SOURCE-CHECKED / COMPLETE**;
-- English next — **whole-Part glossary reconciliation**;
+- English glossary reconciliation — **RECONCILED / PASS**;
+- English next — **editorial review**;
 - Part003 — **REGISTERED / NOT ACTIVE**.
 
 Historical gate sections remain valid as records of the state when those gates closed.
@@ -555,8 +556,26 @@ Cumulative Part002 English drafting/source-check state:
 - scan59 printed pages48–49 structure retained
 - outgoing 60→61 CLEAN boundary retained with no scan61 import.
 
+## Part002 whole-Part English glossary reconciliation — RECONCILED / PASS
+
+All five source-checked Part002 English files were reconciled together for recurring names, places, titles, source-facing vocabulary, political/military labels, source social labels, deliberate variants and Part-boundary integrity.
+
+Result:
+- English files checked — **5/5**
+- English section corrections required — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001 English body edits — **0**
+- Part003 leakage — **0**
+- scan59 printed-page48/49 structure — **retained**
+- 30→31 / 60→61 locks — **retained**
+
+Durable record:
+- `translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
+
 ## Exact next activity
 
-Perform **Part002 whole-Part English glossary reconciliation** across E5–E9.
+Perform **Part002 English editorial review** across all five maintained Part002 English files.
 
-Do not begin editorial review until glossary reconciliation closes.
+Do not begin whole-Part bilingual review, release/readiness, final Part002 closure, or Part003 transcription until editorial review closes.

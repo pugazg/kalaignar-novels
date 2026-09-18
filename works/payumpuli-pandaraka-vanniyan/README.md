@@ -34,7 +34,8 @@ Current closed Tamil verification state:
 - English planning/setup — **COMPLETE / PASS**
 - Part002 English translated/source-checked files — **5/5**
 - E5–E9 — **SOURCE-CHECKED / COMPLETE**
-- English next — **whole-Part glossary reconciliation**
+- English glossary reconciliation — **RECONCILED / PASS**
+- English next — **editorial review**
 - incoming 30→31 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 60→61 — **CLEAN / AUDITED**
 
@@ -60,6 +61,7 @@ Durable Part002 records:
 - `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - `translations/en/PART_002_TRANSLATION_PLAN.md`
 - `translations/en/PART_002_GLOSSARY.md`
+- `translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
 - `translations/en/PART_002_PROGRESS.md`
 
 ## Part003
@@ -68,6 +70,6 @@ Part003 / scans61–90 is **SUPPLIED / REGISTERED / NOT ACTIVE**. Scan61 was use
 
 ## Exact next activity
 
-Perform **Part002 whole-Part English glossary reconciliation** across all five maintained Part002 English files.
+Perform **Part002 English editorial review** across all five maintained Part002 English files.
 
 Do not alter frozen Part001 English, reopen Tamil without a genuine fidelity issue, or begin Part003 transcription.

@@ -80,13 +80,14 @@ Part002:
 - English planning/setup — **COMPLETE / PASS**
 - English translated/source-checked files — **5/5**
 - E5–E9 — **SOURCE-CHECKED / COMPLETE**
-- English next — **whole-Part glossary reconciliation**
+- English glossary reconciliation — **RECONCILED / PASS**
+- English next — **editorial review**
 - release/readiness — **BLOCKED**
 - final Part002 closure — **BLOCKED**
 - Part003 transcription — **BLOCKED / NOT ACTIVE**
 
 ## Exact next activity
 
-Use all five PASSED Part002 assembled sections as the Tamil reading authority for **whole-Part English glossary reconciliation**, with canonical `../pages/` controlling any discrepancy.
+Use all five PASSED Part002 assembled sections and the reconciled Part002 glossary as the authority for **English editorial review**, with canonical `../pages/` controlling any discrepancy.
 
 Do not alter this verified Tamil reading layer merely to smooth English.

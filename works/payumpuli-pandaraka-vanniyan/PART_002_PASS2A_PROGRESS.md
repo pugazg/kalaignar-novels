@@ -125,8 +125,8 @@ The independent Pass2B enlarged-source reread found one additional ordinary sour
 
 ## Exact next activity
 
-Part002 Tamil archival-ready and assembled Tamil remain **PASS / CLOSED**. English E5–E9 are now **SOURCE-CHECKED / COMPLETE — 5/5**.
+Part002 Tamil archival-ready and assembled Tamil remain **PASS / CLOSED**. English E5–E9 remain **SOURCE-CHECKED / COMPLETE — 5/5**. Whole-Part English glossary reconciliation is **RECONCILED / PASS**.
 
-Perform **Part002 whole-Part English glossary reconciliation** across all five maintained Part002 English files.
+Perform **Part002 English editorial review** across the five maintained Part002 English files.
 
-Do not begin editorial review, release/readiness, final Part002 closure, or Part003 transcription until glossary reconciliation closes.
+Do not begin whole-Part bilingual review, release/readiness, final Part002 closure, or Part003 transcription until editorial review closes.

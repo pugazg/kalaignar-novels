@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**E5–E9 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
+**WHOLE-PART GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 Part001 English remains **FINAL CLOSED / FROZEN**.
 
@@ -13,8 +13,8 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 | **E7** | section 10 — `நாலு கால் மண்டபத்தில்!` | **42–49** | **SOURCE-CHECKED / COMPLETE** |
 | **E8** | section 11 — `கண்டியின் வாரிசுப் போட்டி!` | **50–56** | **SOURCE-CHECKED / COMPLETE** |
 | **E9** | section 12 — `தீவுக்குள் தீயவர்கள்!` | **57–60** | **SOURCE-CHECKED / COMPLETE** |
-| Glossary | Part002 whole-Part reconciliation | 31–60 | BLOCKED |
-| Editorial | Part002 whole-Part English editorial review | 31–60 | BLOCKED |
+| Glossary | Part002 whole-Part reconciliation | 31–60 | **RECONCILED / PASS** |
+| Editorial | Part002 whole-Part English editorial review | 31–60 | **NEXT / NOT STARTED** |
 | Bilingual | Part002 whole-Part bilingual review | 31–60 | BLOCKED |
 | Release | Part002 release/readiness report | 31–60 | BLOCKED |
 | Release sync | Part002 release-ready synchronization | 31–60 | BLOCKED |
@@ -28,6 +28,8 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 - Part002 English translated files — **5/5**
 - Part002 English source-checked files — **5/5**
 - unresolved Part002 English holds — **0**
+- whole-Part glossary reconciliation — **PASS**
+- English section corrections from glossary reconciliation — **0**
 - canonical Tamil edits caused by English — **0**
 - frozen Part001 English section-file edits caused by Part002 — **0**
 - Part003 English/Tamil content imported into Part002 — **0**
@@ -91,8 +93,24 @@ Cumulative:
 - scan61 belongs to Part003
 - Part003 text is not translated in Part002
 
+## Whole-Part glossary reconciliation closure
+
+Part002 whole-Part glossary reconciliation is **RECONCILED / PASS**.
+
+Durable record:
+- `PART_002_GLOSSARY_RECONCILIATION.md`
+
+Accounting:
+- English files checked — **5/5**
+- accidental English drift requiring section edits — **0**
+- English section files changed — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- frozen Part001 English body edits — **0**
+- Part003 leakage — **0**
+
 ## Exact next activity
 
-**Part002 whole-Part English glossary reconciliation.**
+**Part002 English editorial review.**
 
-Do not begin editorial review until glossary reconciliation closes.
+Do not begin whole-Part bilingual review until editorial review closes.

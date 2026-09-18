@@ -1,6 +1,6 @@
 # Part 002 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E5–E9 SOURCE-CHECKED / COMPLETE — WHOLE-PART RECONCILIATION NEXT**
+Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 This glossary is derived only from the verified Part002 canonical/assembled Tamil plus already-closed Part001 project English choices where the **same Tamil source form** recurs.
 
@@ -193,16 +193,45 @@ E9 / scans57–60 confirmed:
 
 E9 unresolved glossary holds — **0**.
 
-## Current reconciliation frontier
+## Whole-Part reconciliation result
 
-All five Part002 English batches E5–E9 are now **SOURCE-CHECKED / COMPLETE**.
+**PART002 WHOLE-PART GLOSSARY — RECONCILED / PASS**
 
-- maintained Part002 English files — **5/5**
-- unresolved per-batch English/glossary holds — **0**
-- canonical Tamil changes caused by English drafting — **0**
-- frozen Part001 English body changes — **0**
+Reconciliation checked all five maintained Part002 English files together.
+
+Confirmed deliberate source-derived distinctions include:
+
+| Source distinction | Reconciled English handling |
+|---|---|
+| `குருவிச்சி நாச்சி` / `குருவிச்சி நாச்சியார்` | **Kuruvichchi Naachchi / Kuruvichchi Naachchiyar** |
+| affectionate `குருவி` | **Kuruvii** |
+| `வற்றாப்பளை` / `வற்றாப்பாளை` | **Vattrappalai / Vattrappaalai** |
+| title `நாலு கால் மண்டபத்தில்!` | **Naalu Kaal Mandapaththil!** |
+| prose `நாலு கால் மண்டபம்` / `நாலுகால் மண்டபம்` | **Naalu Kaal Mandapam / Naalukaal Mandapam** |
+| `கண்ணகி அம்மன்` / `கண்ணகி தேவி` | **Kannagi Amman / Kannagi Devi** |
+| `பரங்கியர்` / `பரங்கித்துரை` | ***Parangiyars* / *Parangi thurai*** |
+| `வெள்ளைக்கார / வெள்ளை` / `ஆங்கிலேய` | **white(s) / white soldier(s)** vs **British / British soldiers** by source occurrence |
+| `சுந்தரலிங்கம்` / `சுந்தரலிங்கக் குடும்பர் / குடும்பன்` | **Sundaralingam / Sundaralinga Kudumbar** |
+
+Reconciliation findings:
+
+- maintained Part002 English files checked — **5/5**
+- accidental English spelling/romanization drift requiring section edits — **0**
+- English section files changed by reconciliation — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits caused by reconciliation — **0**
+- assembled Tamil edits caused by reconciliation — **0**
+- frozen Part001 English body edits — **0**
 - Part003 leakage — **0**
 
-Exact next gate:
+Durable record:
 
-**Part002 whole-Part English glossary reconciliation.**
+`PART_002_GLOSSARY_RECONCILIATION.md`
+
+## Exact next gate
+
+**Part002 English editorial review.**
+
+Editorial review may improve English readability only where source meaning, speaker/narrator agency, chronology, rhetoric, deliberate source variants, scan59 spread structure and both Part boundaries remain intact.
+
+Do not begin whole-Part bilingual review until editorial review closes.

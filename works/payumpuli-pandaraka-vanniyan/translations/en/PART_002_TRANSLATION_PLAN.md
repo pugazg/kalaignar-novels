@@ -1,6 +1,6 @@
 # Part 002 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E5–E9 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
+Status: **WHOLE-PART GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 This is the control plan for the project-created English translation of **Part002 only**.
 
@@ -241,10 +241,22 @@ It cannot authorize a canonical Tamil correction.
 
 A genuine Tamil-fidelity issue discovered during English work must be recorded and routed through an explicit Tamil reopening decision rather than silently fixed through translation.
 
+## Post-drafting glossary reconciliation
+
+Whole-Part glossary reconciliation is **RECONCILED / PASS**.
+
+- files checked — **5/5**
+- English section corrections required — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- frozen Part001 English body edits — **0**
+- Part003 leakage — **0**
+
+Durable record:
+- `PART_002_GLOSSARY_RECONCILIATION.md`
+
 ## Exact next activity
 
-**Part002 whole-Part English glossary reconciliation.**
+**Part002 English editorial review.**
 
-Reconcile recurring names, places, titles, source-facing vocabulary and deliberate source variants across E5–E9 / all five maintained Part002 English section files.
-
-Do not begin editorial review until glossary reconciliation closes.
+Do not begin bilingual review until editorial review closes.

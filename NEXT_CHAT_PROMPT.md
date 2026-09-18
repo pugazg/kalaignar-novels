@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part002 whole-Part English glossary reconciliation
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part002 English editorial review
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,14 +10,11 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 4. `works/payumpuli-pandaraka-vanniyan/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 5. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_TRANSLATION_PLAN.md`
 6. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_GLOSSARY.md`
-7. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
-8. `works/payumpuli-pandaraka-vanniyan/translations/en/E5_SOURCE_CHECK.md`
-9. `works/payumpuli-pandaraka-vanniyan/translations/en/E6_SOURCE_CHECK.md`
-10. `works/payumpuli-pandaraka-vanniyan/translations/en/E7_SOURCE_CHECK.md`
-11. `works/payumpuli-pandaraka-vanniyan/translations/en/E8_SOURCE_CHECK.md`
-12. `works/payumpuli-pandaraka-vanniyan/translations/en/E9_SOURCE_CHECK.md`
-13. all five maintained Part002 English files under `translations/en/sections/08-*.md` through `12-*.md`
-14. Part001 precedent: `translations/en/GLOSSARY_RECONCILIATION.md`
+7. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
+8. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
+9. all five maintained Part002 English section files under `translations/en/sections/08-*.md` through `12-*.md`
+10. all E5–E9 source-check records
+11. Part001 precedent: `translations/en/TRANSLATION_REVIEW.md`
 
 ## Frozen authority
 
@@ -26,48 +23,44 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 Part002 Tamil remains **ARCHIVAL-READY / CLOSED**:
 - canonical scans31–60 — **30/30 verified**
 - assembled Tamil — **5/5 VERIFIED / PASS / CLOSED**
-- canonical Tamil changes caused by English drafting — **0**
 
-## Current Part002 English state
-
-- E5 / scans31–34 — **SOURCE-CHECKED / COMPLETE**
-- E6 / scans35–41 — **SOURCE-CHECKED / COMPLETE**
-- E7 / scans42–49 — **SOURCE-CHECKED / COMPLETE**
-- E8 / scans50–56 — **SOURCE-CHECKED / COMPLETE**
-- E9 / scans57–60 — **SOURCE-CHECKED / COMPLETE**
-- translated files — **5/5**
-- source-checked files — **5/5**
-- unresolved per-batch English holds — **0**
-- Part003 leakage — **0**
-- whole-Part glossary reconciliation — **NEXT / NOT STARTED**
+Part002 English:
+- E5–E9 — **SOURCE-CHECKED / COMPLETE**
+- translated/source-checked files — **5/5**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- unresolved glossary holds — **0**
+- English section corrections required by glossary reconciliation — **0**
+- editorial review — **NEXT / NOT STARTED**
 
 ## Exact activity
 
-Perform the **Part002 whole-Part English glossary reconciliation** across all five maintained Part002 English files.
+Perform the **Part002 English editorial review** across all five maintained Part002 English files.
 
-Reconcile only English handling for:
-- recurring personal names and honorific/source variants;
-- place-name variants;
-- chapter-title consistency;
-- source-facing cultural/military/political vocabulary;
-- `வெள்ளைக்கார / வெள்ளை / ஆங்கிலேய / பரங்கியர்` distinctions;
-- social/clan labels already present in source speech;
-- recurring transliteration;
-- scan59 printed-page 48/49 structure;
-- incoming 30→31 and outgoing 60→61 locks.
+Editorial review may improve English readability, flow, punctuation and awkward project phrasing only where it preserves:
 
-Preserve deliberate source-derived distinctions. Normalize only accidental **English** drift.
+- canonical Tamil meaning;
+- narrator/character agency and knowledge-state;
+- chronology and information-release order;
+- source rhetoric and emphatic force;
+- source quotation/song/display structure;
+- deliberate source-derived variants locked in `PART_002_GLOSSARY_RECONCILIATION.md`;
+- incoming **30→31 GENUINE CONTINUATION**;
+- scan59 printed-page **48/49** structure;
+- outgoing **60→61 CLEAN** boundary;
+- source political/historical/social framing without outside reinterpretation.
 
-Do not change canonical Tamil merely to enforce English consistency.
+Do not import outside historical, political, geographic, botanical, religious, architectural or social/caste explanation.
+
+Do not alter canonical Tamil merely to improve English.
 
 Create:
 
-`works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
+`works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_TRANSLATION_REVIEW.md`
 
-Update `PART_002_GLOSSARY.md`, `PART_002_PROGRESS.md`, English README and live frontier controls only as supported by the reconciliation result.
+If English section edits are made, record every substantive editorial change and verify them against maintained Tamil before closure.
 
 ## Stop rule
 
-Stop after **whole-Part glossary reconciliation**.
+Stop after **Part002 English editorial review**.
 
-Do **not** begin English editorial review in the same iteration.
+Do **not** begin whole-Part bilingual review in the same iteration.

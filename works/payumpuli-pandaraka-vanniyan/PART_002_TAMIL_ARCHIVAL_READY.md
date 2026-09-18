@@ -221,4 +221,23 @@ English planning/setup has now completed without reopening or changing canonical
 
 Current next gate:
 
-**Part002 whole-Part English glossary reconciliation.**
+**Part002 English editorial review.**
+
+## Post-drafting glossary reconciliation state
+
+Part002 Tamil remains **ARCHIVAL-READY / CLOSED**.
+
+Whole-Part English glossary reconciliation subsequently closed:
+
+- Part002 English files checked — **5/5**;
+- glossary reconciliation — **RECONCILED / PASS**;
+- English section corrections required — **0**;
+- unresolved glossary holds — **0**;
+- canonical Tamil changes caused by reconciliation — **0**;
+- assembled Tamil changes caused by reconciliation — **0**;
+- frozen Part001 English body changes — **0**;
+- Part003 leakage — **0**.
+
+Current next gate:
+
+**Part002 English editorial review.**

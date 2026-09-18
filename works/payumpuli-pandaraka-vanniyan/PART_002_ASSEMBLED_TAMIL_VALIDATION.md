@@ -191,4 +191,22 @@ Current English frontier:
 
 - E5–E9 — **SOURCE-CHECKED / COMPLETE**;
 - translated/source-checked files — **5/5**;
-- next gate — **whole-Part English glossary reconciliation**.
+- glossary reconciliation — **RECONCILED / PASS**;
+- next gate — **English editorial review**.
+
+## Post-drafting glossary reconciliation state
+
+The assembled Tamil master remains **PASS / CLOSED / VERIFIED**.
+
+Part002 English glossary reconciliation subsequently closed:
+
+- English files reconciled — **5/5**;
+- glossary reconciliation — **RECONCILED / PASS**;
+- English section corrections required — **0**;
+- unresolved glossary holds — **0**;
+- assembled Tamil mutations caused by reconciliation — **0**;
+- canonical Tamil mutations caused by reconciliation — **0**.
+
+Current next gate:
+
+**Part002 English editorial review.**

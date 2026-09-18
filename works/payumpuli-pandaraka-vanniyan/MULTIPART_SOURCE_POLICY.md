@@ -54,7 +54,8 @@ For every `N→N+1` boundary:
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English translated/source-checked — **5/5**
 - Part002 E5–E9 — **SOURCE-CHECKED / COMPLETE**
-- Part002 English next — **whole-Part glossary reconciliation**
+- Part002 English glossary reconciliation — **RECONCILED / PASS**
+- English next — **editorial review**
 - Part003 — **SUPPLIED / REGISTERED / NOT ACTIVE**
 - split-boundary classifications — **2 / 15 audited**
 
@@ -82,6 +83,6 @@ Durable record:
 Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
-- **Part002 whole-Part English glossary reconciliation**
+- **Part002 English editorial review**
 
-Do not begin editorial review until glossary reconciliation closes. Keep Part003 transcription blocked.
+Do not begin whole-Part bilingual review until editorial review closes. Keep Part003 transcription blocked.

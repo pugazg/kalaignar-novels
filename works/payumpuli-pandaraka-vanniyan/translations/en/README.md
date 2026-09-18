@@ -55,6 +55,7 @@ Active Part002 English controls:
 - `PART_002_TRANSLATION_PLAN.md`
 - `PART_002_GLOSSARY.md`
 - `PART_002_PROGRESS.md`
+- `PART_002_GLOSSARY_RECONCILIATION.md`
 
 ## Planned Part002 English section coverage
 
@@ -66,7 +67,7 @@ Active Part002 English controls:
 | `../../sections/11-kandiyin-vaarisup-potti.md` | `sections/11-the-succession-contest-in-kandy.md` | 50–56 | E8 | **SOURCE-CHECKED / COMPLETE** |
 | `../../sections/12-theevukkul-theeyavargal.md` | `sections/12-evildoers-on-the-island.md` | 57–60 | E9 | **SOURCE-CHECKED / COMPLETE** |
 
-Part002 drafting/source-check is now **5/5 COMPLETE**, with **0 unresolved per-batch English holds**.
+Part002 drafting/source-check is **5/5 COMPLETE**. Whole-Part glossary reconciliation is **RECONCILED / PASS**, with **0 unresolved glossary holds**.
 
 ## Part002 boundary safeguards
 
@@ -97,8 +98,20 @@ After E9:
 
 Part003 remains blocked until Part002 final closure.
 
+## Part002 glossary state
+
+- drafting/source-check — **5/5 COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- English section files changed by reconciliation — **0**
+- unresolved glossary holds — **0**
+- editorial review — **NEXT / NOT STARTED**
+- bilingual review — **BLOCKED**
+- release/readiness — **BLOCKED**
+- final Part002 closure — **BLOCKED**
+- Part003 transcription — **BLOCKED**
+
 ## Exact next activity
 
-Perform **Part002 whole-Part English glossary reconciliation** across the five maintained Part002 English section files.
+Perform **Part002 English editorial review** across the five maintained Part002 English section files.
 
-Do not begin editorial review until glossary reconciliation closes.
+Do not begin bilingual review until editorial review closes.
