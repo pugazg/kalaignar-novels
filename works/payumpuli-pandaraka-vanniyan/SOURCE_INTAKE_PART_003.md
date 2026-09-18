@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / ASSEMBLED TAMIL PASS / CLOSED.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / ENGLISH PLANNING / SETUP COMPLETE / PASS.**
 
 - local PDF pages: **30**
 - canonical overall scans: **61–90**
@@ -35,7 +35,7 @@ Part002 has now reached **FINAL CLOSURE — PASS / CLOSED / FROZEN**.
 
 Part003 is therefore:
 
-**ACTIVE / AUTHORIZED — ASSEMBLED TAMIL PASS / CLOSED**
+**ACTIVE / AUTHORIZED — ENGLISH PLANNING / SETUP COMPLETE / PASS**
 
 - canonical Part003 page records — **30/30 — scans61–90**
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -52,10 +52,12 @@ Part003 is therefore:
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
-- English planning/setup — **NEXT GATE / NOT YET STARTED**
+- English planning/setup — **COMPLETE / PASS**
+- English translated/source-checked files — **0/5**
+- E10 — **NEXT / scans61–64**
 - incoming 60→61 — **CLEAN / AUDITED**
 - outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
 
 ## Exact next activity
 
-Perform **Part003 English translation planning/setup**.
+Perform **Part003 E10 — draft + source-check — scans61–64**.

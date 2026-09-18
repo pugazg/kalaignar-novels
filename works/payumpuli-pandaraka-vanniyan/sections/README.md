@@ -109,11 +109,13 @@ Part003:
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
 - canonical scans represented — **30/30**
-- English planning/setup — **NEXT GATE / NOT YET STARTED**
+- English planning/setup — **COMPLETE / PASS**
+- English translated/source-checked — **0/5**
+- E10 — **NEXT / scans61–64**
 - Part004 — **BLOCKED**
 
 ## Exact next activity
 
-Begin **Part003 English translation planning/setup** following the Part002 precedent.
+Perform **Part003 E10 — draft + source-check** for assembled section 13 / scans61–64.
 
-Do not modify verified canonical Tamil or assembled Tamil body text, and do not begin Part004 transcription.
+Do not modify the verified Part003 assembled Tamil bodies. Do not begin Part004 transcription.

@@ -73,7 +73,7 @@ Durable Part002 records:
 - `PART_002_RELEASE_READY_SYNC.md`
 - `translations/en/PART_002_PROGRESS.md`
 
-## Part003 — ACTIVE / ASSEMBLED TAMIL CLOSED
+## Part003 — ACTIVE / ENGLISH PLANNING COMPLETE
 
 Controlling source:
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
@@ -93,7 +93,9 @@ Current verified Tamil state:
 - unresolved Tamil / historical-glyph / visual-status exceptions — **0**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
-- English planning/setup — **NEXT GATE / NOT YET STARTED**
+- English planning/setup — **COMPLETE / PASS**
+- English translated/source-checked files — **0/5**
+- E10–E14 — **NOT STARTED**
 - incoming 60→61 — **CLEAN / AUDITED**
 - outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
 
@@ -119,9 +121,12 @@ Durable Part003 records:
 - `PART_003_DOCUMENTATION_SYNC.md`
 - `PART_003_TAMIL_ARCHIVAL_READY.md`
 - `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+- `translations/en/PART_003_TRANSLATION_PLAN.md`
+- `translations/en/PART_003_GLOSSARY.md`
+- `translations/en/PART_003_PROGRESS.md`
 
 ## Exact next activity
 
-Perform **Part003 English translation planning/setup**.
+Perform **Part003 E10 — draft + source-check**, section13 / scans61–64.
 
-Do not draft English prose in the setup gate. Keep verified canonical Tamil and the 5/5 assembled Tamil section files unchanged.
+Do not begin E11 until E10 closes. Do not modify verified Tamil or begin Part004 transcription.

@@ -37,7 +37,7 @@ Frozen Part001 controls remain:
 
 Frozen Part001 English section files are `sections/00-*.md` through `sections/07-*.md`.
 
-## Part002 — ACTIVE ENGLISH WORKFLOW
+## Part002 — FINAL CLOSED / FROZEN
 
 Tamil prerequisites are closed:
 
@@ -125,7 +125,7 @@ Proceed with **Part003 Pass 1 — global scans61–70 / local pages1–10** in t
 Do not begin Part003 English planning until Part003 reaches its Tamil/assembled-Tamil English-entry gate.
 
 
-## Part003 — ENGLISH PLANNING NEXT
+## Part003 — ACTIVE ENGLISH WORKFLOW
 
 Part003 Tamil prerequisites are now closed:
 
@@ -140,7 +140,13 @@ Part003 Tamil prerequisites are now closed:
 - outgoing boundary — **90→91 GENUINE CONTINUATION / AUDITED**
 - Part004 Tamil/English content imported — **0**
 
-Part003 English planning/setup has **NOT STARTED**.
+Part003 English planning/setup is now **COMPLETE / PASS**.
+
+Active Part003 English controls:
+
+- `PART_003_TRANSLATION_PLAN.md`
+- `PART_003_GLOSSARY.md`
+- `PART_003_PROGRESS.md`
 
 Expected Tamil assembled inputs:
 - `../../sections/13-theevukkul-theeyavargal-part003.md` — scans61–64
@@ -149,8 +155,45 @@ Expected Tamil assembled inputs:
 - `../../sections/16-silandhi-valaiyo-siriya-poochchiyo.md` — scans80–87
 - `../../sections/17-adhikaari-vazhangiya-aalosanai.md` — scans88–90
 
+## Part003 planned English section coverage
+
+| Tamil file | Planned English file | Scans | Batch | State |
+|---|---|---:|---|---|
+| `../../sections/13-theevukkul-theeyavargal-part003.md` | `sections/13-evildoers-on-the-island-part003.md` | 61–64 | E10 | **NOT STARTED** |
+| `../../sections/14-kaakkai-vanniyan.md` | `sections/14-kaakkai-vanniyan.md` | 65–72 | E11 | **NOT STARTED** |
+| `../../sections/15-muthu-maaligai.md` | `sections/15-muthu-maaligai.md` | 73–79 | E12 | **NOT STARTED** |
+| `../../sections/16-silandhi-valaiyo-siriya-poochchiyo.md` | `sections/16-a-spiders-web-a-small-insect.md` | 80–87 | E13 | **NOT STARTED** |
+| `../../sections/17-adhikaari-vazhangiya-aalosanai.md` | `sections/17-the-officers-advice.md` | 88–90 | E14 | **NOT STARTED** |
+
+## Part003 boundary safeguards
+
+Incoming:
+- 60→61 = **CLEAN / AUDITED**
+- E10 begins with scan61 only
+- frozen Part002 English is not imported
+
+Outgoing:
+- scan90 ends at `என்னைப்`
+- 90→91 = **GENUINE CONTINUATION / AUDITED**
+- E14 stops at scan90
+- scan91 / Part004 is not translated or imported
+
+## Part003 batch discipline
+
+E10 **NEXT** → E11 → E12 → E13 → E14.
+
+Each batch must close **draft + source-check** before the next begins.
+
+After E14:
+- `PART_003_GLOSSARY_RECONCILIATION.md`
+- `PART_003_TRANSLATION_REVIEW.md`
+- `PART_003_BILINGUAL_REVIEW.md`
+- `PART_003_RELEASE_REPORT.md`
+- Part003 release-ready synchronization
+- Part003 final closure
+
 ## Current exact next activity
 
-Create the **Part003 English translation planning/setup** controls following the Part002 precedent.
+Perform **Part003 E10 — draft + source-check** for section13 / scans61–64.
 
-Do not draft English prose in the planning/setup gate. Do not modify frozen Part001/Part002 English body files, verified Part003 canonical Tamil, or closed Part003 assembled Tamil.
+Do not begin E11 until E10 is **SOURCE-CHECKED / COMPLETE**. Do not begin Part004 transcription.

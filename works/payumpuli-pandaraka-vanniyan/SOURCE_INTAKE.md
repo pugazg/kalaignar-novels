@@ -93,7 +93,9 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part003 unresolved status exceptions — **0**
 - Part003 Tamil archival-ready — **PASS / CLOSED**
 - Part003 assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
-- Part003 English planning/setup — **NEXT GATE / NOT YET STARTED**
+- Part003 English planning/setup — **COMPLETE / PASS**
+- Part003 English translated/source-checked files — **0/5**
+- Part003 E10 — **NEXT / scans61–64**
 - Part004 transcription — **BLOCKED**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
@@ -114,6 +116,6 @@ Authoritative Part003 closure records:
 
 ## Exact next activity
 
-Perform **Part003 English translation planning/setup**.
+Perform **Part003 E10 — draft + source-check — scans61–64**.
 
-Part001 and Part002 remain frozen. Do not draft English prose or begin Part004 transcription in the setup gate.
+Part001 and Part002 remain frozen. Do not begin Part004 transcription.

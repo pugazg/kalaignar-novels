@@ -71,7 +71,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
-## Part003 — ACTIVE / ASSEMBLED TAMIL CLOSED
+## Part003 — ACTIVE / ENGLISH PLANNING COMPLETE
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
 - global scans — **61–90**
@@ -96,12 +96,15 @@ Durable records:
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
-- English planning/setup — **NEXT GATE / NOT YET STARTED**
+- English planning/setup — **COMPLETE / PASS**
+- E10–E14 — **NOT STARTED**
+- English translated/source-checked files — **0/5**
+- next English batch — **E10 / scans61–64**
 
 Part001 and Part002 are frozen.
 
 ## Exact next activity
 
-Perform **Part003 English translation planning/setup**.
+Perform **Part003 E10 — draft + source-check** for section13 / scans61–64.
 
-Create the Part003 English control layer only; do not draft English prose in the planning/setup gate. Keep canonical and assembled Tamil frozen and do not begin Part004 transcription.
+Do not begin E11 until E10 is **SOURCE-CHECKED / COMPLETE**. Keep canonical and assembled Tamil frozen and do not begin Part004 transcription.
