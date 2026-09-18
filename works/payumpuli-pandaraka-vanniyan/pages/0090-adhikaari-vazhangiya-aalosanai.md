@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf"
-transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans81–90"
+transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans81–90; formal Part003 Pass 2A reviewed; formal Part003 Pass 2B reviewed; formal Part003 Pass 3 visual/structural review completed"
 ---
 
 # அதிகாரி வழங்கிய ஆலோசனை
@@ -35,4 +35,32 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch s
 - outgoing **90→91 = GENUINE CONTINUATION / AUDITED**: Part004 scan91 begins `போன்றோர் - ...`, continuing the physical fragment as `என்னைப் போன்றோர்`; no scan91 canonical text is imported;
 - status and visual fidelity remain needs-review.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 90; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 30; அச்சுப் பக்கம்: 80; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part003 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue and physical page-boundary comparison completed against the user-supplied Part003 source pixels;
+- source-text corrections: **0**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
+
+## Formal Part003 Pass 2B historical-glyph review
+
+- independent lexical / historical-glyph reread completed from enlarged source pixels, following the established Part002 occurrence-by-occurrence precedent because the bootstrap-referenced guide is absent from live `main`;
+- historical-glyph corrections: **0**;
+- other lexical / punctuation corrections: **0**;
+- unresolved historical-glyph identities: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `needs-review`; final `verified` promotion remains blocked until Pass 3, Part audit and final status synchronization.
+
+## Formal Part003 Pass 3 visual / structural review
+
+- recurring framed body-page layout; printed page `80` is centered in the footer marker;
+- begins `சுந்தரலிங்கத்திற்குப் புரிந்துவிட்டது!` as the continuation from scan89;
+- physical page ends inside an open quotation at `என்னைப்`; the audited **90→91 GENUINE CONTINUATION** joins to Part004 witness `போன்றோர் - ...`; no Part004 canonical text is imported;
+- body-vs-non-body separation, displayed hierarchy, page furniture and continuation state were checked directly against the whole-page source image;
+- canonical source text required **0 textual corrections** in Pass 3;
+- unresolved visual/structural questions: **0**;
+- Pass 3 result for this scan: **REVIEWED / PASS**;
+- page remains `needs-review` pending Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 90; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 30; அச்சுப் பக்கம்: 80; PASS 1 + PASS 2A + PASS 2B + PASS 3 REVIEWED / needs-review -->

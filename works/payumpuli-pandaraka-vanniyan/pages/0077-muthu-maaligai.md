@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf"
-transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans71–80"
+transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans71–80; formal Part003 Pass 2A reviewed; formal Part003 Pass 2B reviewed; formal Part003 Pass 3 visual/structural review completed"
 ---
 
 # முத்து மாளிகை!
@@ -40,4 +40,32 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch s
 - the physical page ends at அவளுக்குத் தானே, continuing on scan78 with பரிமாறுவதாக;
 - status and visual fidelity remain needs-review.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 77; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 17; அச்சுப் பக்கம்: 67; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part003 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue and physical page-boundary comparison completed against the user-supplied Part003 source pixels;
+- source-text corrections: **0**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
+
+## Formal Part003 Pass 2B historical-glyph review
+
+- independent lexical / historical-glyph reread completed from enlarged source pixels, following the established Part002 occurrence-by-occurrence precedent because the bootstrap-referenced guide is absent from live `main`;
+- historical-glyph corrections: **0**;
+- other lexical / punctuation corrections: **0**;
+- unresolved historical-glyph identities: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `needs-review`; final `verified` promotion remains blocked until Pass 3, Part audit and final status synchronization.
+
+## Formal Part003 Pass 3 visual / structural review
+
+- recurring framed body-page layout; printed page `67` is centered in the footer marker;
+- prose and dialogue blocks are visually distinct and match canonical paragraphing;
+- physical page ends at `அவளுக்குத் தானே`, continuing to scan78;
+- body-vs-non-body separation, displayed hierarchy, page furniture and continuation state were checked directly against the whole-page source image;
+- canonical source text required **0 textual corrections** in Pass 3;
+- unresolved visual/structural questions: **0**;
+- Pass 3 result for this scan: **REVIEWED / PASS**;
+- page remains `needs-review` pending Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 77; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 17; அச்சுப் பக்கம்: 67; PASS 1 + PASS 2A + PASS 2B + PASS 3 REVIEWED / needs-review -->

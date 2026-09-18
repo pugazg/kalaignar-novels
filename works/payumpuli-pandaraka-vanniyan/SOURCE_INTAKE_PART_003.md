@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 2B COMPLETE / PASS.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 3 COMPLETE / PASS.**
 
 - local PDF pages: **30**
 - canonical overall scans: **61–90**
@@ -43,10 +43,11 @@ Part003 is therefore:
 - scan90 / printed80 terminal fragment — **என்னைப்** inside an open quotation
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED; 0 corrections; 0 unresolved**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED; 0 historical-glyph corrections; 0 other corrections; 0 unresolved**
-- Pass 3 — **NOT STARTED**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED; 0 textual corrections; 0 unresolved visual/structural questions**
+- Part audit — **NOT STARTED**
 - incoming 60→61 — **CLEAN / AUDITED**
 - outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
 
 ## Exact next activity
 
-Perform **Part003 Pass 3 — first batch scans61–70 / local pages1–10**.
+Perform **Part003 Part audit**.

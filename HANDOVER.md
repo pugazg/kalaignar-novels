@@ -71,7 +71,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
-## Part003 — ACTIVE / PASS 2B COMPLETE
+## Part003 — ACTIVE / PASS 3 COMPLETE
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
 - global scans — **61–90**
@@ -86,12 +86,14 @@ Durable records:
 - Pass 2A cumulative corrections — **0; unresolved 0**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 2B cumulative — **0 historical-glyph corrections; 0 other corrections; 0 unresolved**
-- Pass 3 — **NOT STARTED**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 3 cumulative — **0 textual corrections; 0 unresolved visual/structural questions**
+- Part audit — **NOT STARTED**
 
 Part001 and Part002 are frozen.
 
 ## Exact next activity
 
-Perform **Part003 Pass 3 — meaningful visual/structural verification, first batch scans61–70 / local pages1–10**.
+Perform **Part003 Part audit**.
 
-Preserve incoming **60→61 CLEAN / AUDITED** and outgoing **90→91 GENUINE CONTINUATION / AUDITED**. Do not begin Part004 transcription until the complete maintained Part003 workflow closes.
+Reconcile the complete Pass1/2A/2B/3 evidence, provenance, printed-page map, structure, joins, correction ledger and both audited split boundaries. Do not perform final metadata/status promotion or begin Part004 transcription in the audit iteration.

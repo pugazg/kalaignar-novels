@@ -42,7 +42,8 @@ Page records remain `needs-review`; final `verified` promotion is reserved for l
 - cumulative historical-glyph corrections — **0**
 - cumulative other lexical / punctuation corrections — **0**
 - unresolved historical-glyph identities — **0**
-- Pass 3 — **NOT STARTED**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
+- Part audit — **NOT STARTED**
 
 ## Batch 1 — scans61–70
 
@@ -143,6 +144,6 @@ No Batch-3 occurrence required a historical-glyph identity change, ordinary lexi
 
 ## Exact next activity
 
-Perform **Part003 Pass 3 — meaningful visual/structural verification**, starting with **scans61–70 / local pages1–10**.
+Perform **Part003 Part audit**.
 
-Do not begin Part004 transcription until the complete maintained Part003 workflow closes.
+Do not perform final metadata/status promotion or begin Part004 transcription in the Part-audit iteration.
