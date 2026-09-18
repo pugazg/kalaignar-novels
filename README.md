@@ -4,53 +4,33 @@
 
 ## Current active source — பாயும்புலி பண்டாரக வன்னியன்
 
-- work directory: `works/payumpuli-pandaraka-vanniyan/`;
-- source family: **TVA_BOK_0065744**;
-- complete physical extent: **477 scans**;
-- working source: **16 split PDFs — all supplied / registered**;
-- Part001 / scans1–30 — **FINAL CLOSURE PASS / CLOSED / FROZEN**;
-- Part002 / scans31–60 — **ACTIVE**;
-- Part002 canonical records — **20/30 — scans31–50**;
-- Part002 Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**;
-- Part002 Pass 2A / 2B / 3 — **NOT STARTED**;
-- incoming boundary **30→31 = GENUINE CONTINUATION / AUDITED**;
-- outgoing boundary **60→61 = PENDING direct audit**.
+- work directory: `works/payumpuli-pandaraka-vanniyan/`
+- source family: **TVA_BOK_0065744**
+- complete physical extent: **477 scans**
+- working source: **16 split PDFs — all supplied / registered**
+- Part001 / scans1–30 — **FINAL CLOSURE PASS / CLOSED / FROZEN**
+- Part002 / scans31–60 — **ACTIVE**
+- Part002 canonical records — **30/30 — scans31–60**
+- Part002 Pass 1 transcription — **TEXT-COMPLETE 30/30**
+- Part002 Pass-1 closure — **HOLD: 60→61 direct boundary audit**
+- Part002 Pass 2A / 2B / 3 — **NOT STARTED / BLOCKED**
+- incoming boundary **30→31 = GENUINE CONTINUATION / AUDITED**
+- outgoing boundary **60→61 = PENDING DIRECT AUDIT**
 
-This work follows the **Kuraloviyam per-Part closure model**:
+Part002 Batch3 covers scans51–60. Scan57 opens chapter7 `தீவுக்குள் தீயவர்கள்!`; scan59 contains printed pages **48–49** in one illustrated physical spread; scan60 carries printed page **50**.
 
-**source/Tamil closure → assembled Tamil → English draft/source-check → glossary reconciliation → editorial review → whole-Part bilingual review → release/readiness report → release-ready synchronization → final Part closure → next Part.**
+Exact next action: **make Part003 scan61 accessible, directly classify 60→61, then close Part002 Pass 1 if no scan60 correction is required.**
 
-Active controls:
-- `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_001_FINAL_CLOSURE.md`
-- `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_002.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_002_PASS1_PROGRESS.md`
-- `HANDOVER.md`
-
-Part001 terminal lock remains permanent:
-- Tamil ends `அவனுக்கு ஒரே மகிழ்ச்சி,`;
-- English ends **“He was filled with joy,”**;
-- scan31 belongs to Part002.
-
-Part002 Pass-1 completed coverage:
-- scans **31–40 / local1–10 / printed20–29** — Batch 1 COMPLETE;
-- scans **41–50 / local11–20 / printed30–39** — Batch 2 COMPLETE;
-- scan42 opens chapter5 `நாலு கால் மண்டபத்தில்!`;
-- scan50 opens chapter6 `கண்டியின் வாரிசுப் போட்டி!` and ends physically `பாஞ்சாலங்குறிச்சி`.
-
-Exact next action: **Part002 Pass 1 for global scans51–60 / local pages21–30**.
-
-Do not begin Pass 2A until Part002 Pass 1 reaches **30/30**.
+Do not begin Pass 2A until formal Pass-1 closure.
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 
-- source extent: **198 physical pages**;
-- scans **5–198 T1/T2/T3: COMPLETE / PASS / VERIFIED**;
-- canonical page records: **198/198 VERIFIED**;
-- terminal/full-source reconciliation: **COMPLETE / PASS**;
-- assembled Tamil master: **26/26 VERIFIED / PASS**;
-- English translation: **26/26 VERIFIED / COMPLETE / CLOSED**;
-- unresolved English holds: **0**.
+- source extent: **198 physical pages**
+- scans **5–198 T1/T2/T3: COMPLETE / PASS / VERIFIED**
+- canonical page records: **198/198 VERIFIED**
+- terminal/full-source reconciliation: **COMPLETE / PASS**
+- assembled Tamil master: **26/26 VERIFIED / PASS**
+- English translation: **26/26 VERIFIED / COMPLETE / CLOSED**
 
 ## Completed works
 
