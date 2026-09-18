@@ -160,8 +160,8 @@ All Part002 page records remain `needs-review` pending Pass 3 and later whole-Pa
 
 ## Exact next activity
 
-Part002 Tamil archival-ready and assembled Tamil remain **PASS / CLOSED**. English E5–E9 remain **SOURCE-CHECKED / COMPLETE — 5/5**. Whole-Part English glossary reconciliation is **RECONCILED / PASS**.
+Part002 Tamil archival-ready and assembled Tamil remain **PASS / CLOSED**. English E5–E9 remain **SOURCE-CHECKED / COMPLETE — 5/5**. Whole-Part glossary reconciliation remains **RECONCILED / PASS**. English editorial review is **PASS / CLOSED**.
 
-Perform **Part002 English editorial review** across the five maintained Part002 English files.
+Perform **Part002 whole-Part bilingual review** across all five Part002 Tamil/English section pairs.
 
-Do not begin whole-Part bilingual review, release/readiness, final Part002 closure, or Part003 transcription until editorial review closes.
+Do not begin release/readiness, final Part002 closure, or Part003 transcription until bilingual review closes.

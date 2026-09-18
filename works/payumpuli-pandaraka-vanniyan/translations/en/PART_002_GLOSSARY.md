@@ -1,6 +1,6 @@
 # Part 002 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL REVIEW NEXT**
+Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL REVIEW PASS / CLOSED — BILINGUAL REVIEW NEXT**
 
 This glossary is derived only from the verified Part002 canonical/assembled Tamil plus already-closed Part001 project English choices where the **same Tamil source form** recurs.
 
@@ -178,7 +178,7 @@ E8 / scans50–56 confirmed source-facing forms:
 - palaiyakkarar;
 - Tirunelveli, Courtallam, Sokkampatti, Sivagiri, Tiruvilliputhur, Peraiyur, Pavalipallimadai, Kamuthi, Ramanathapuram, Ramalinga Vilasam.
 
-The source metaphor `வெண்சாமரம் வீச` is retained as **“wave the white fly-whisk for the whites”** pending whole-Part editorial review; no outside political label replaces it.
+The source metaphor `வெண்சாமரம் வீச` remains **“wave the white fly-whisk for the whites”** after editorial review; no outside political label replaces it.
 
 E8 unresolved glossary holds — **0**.
 
@@ -228,10 +228,25 @@ Durable record:
 
 `PART_002_GLOSSARY_RECONCILIATION.md`
 
+## Post-reconciliation editorial review
+
+Editorial review closed **PASS / CLOSED** without changing the reconciled glossary policy.
+
+- files reviewed — **5/5**
+- files edited — **4/5**
+- English-only editorial corrections — **12**
+- deliberate source variants normalized away — **0**
+- unresolved editorial/glossary holds — **0**
+- canonical Tamil edits — **0**
+- Part003 leakage — **0**
+
+The unusual source metaphor **“wave the white fly-whisk for the whites”** remains intentionally unchanged because replacing it with an interpretive political label would weaken source texture.
+
+Durable review record:
+- `PART_002_TRANSLATION_REVIEW.md`
+
 ## Exact next gate
 
-**Part002 English editorial review.**
+**Part002 whole-Part bilingual review.**
 
-Editorial review may improve English readability only where source meaning, speaker/narrator agency, chronology, rhetoric, deliberate source variants, scan59 spread structure and both Part boundaries remain intact.
-
-Do not begin whole-Part bilingual review until editorial review closes.
+Do not begin release/readiness until bilingual review closes.

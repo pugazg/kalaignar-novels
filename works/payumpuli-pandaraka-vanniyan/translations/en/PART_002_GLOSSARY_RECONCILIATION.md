@@ -244,3 +244,20 @@ No Part002 assembled Tamil section body is changed by this gate.
 Editorial review may improve readability only where source meaning, agency, chronology, rhetoric, deliberate source variants, scan59 spread structure and both Part boundaries remain unchanged.
 
 Do not begin whole-Part bilingual review, release/readiness, final Part002 closure or Part003 transcription until editorial review closes.
+
+## Post-reconciliation editorial review state
+
+The glossary reconciliation remains **RECONCILED / PASS**.
+
+Subsequent editorial review:
+- reviewed English files — **5/5**;
+- files with English-only edits — **4/5**;
+- substantive English-only corrections — **12**;
+- glossary/source-variant locks changed — **0**;
+- unresolved editorial holds — **0**;
+- canonical Tamil edits — **0**;
+- Part003 leakage — **0**.
+
+Current next gate:
+
+**Part002 whole-Part bilingual review.**

@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**WHOLE-PART GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
+**ENGLISH EDITORIAL REVIEW PASS / CLOSED — BILINGUAL REVIEW NEXT**
 
 Part001 English remains **FINAL CLOSED / FROZEN**.
 
@@ -14,8 +14,8 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 | **E8** | section 11 — `கண்டியின் வாரிசுப் போட்டி!` | **50–56** | **SOURCE-CHECKED / COMPLETE** |
 | **E9** | section 12 — `தீவுக்குள் தீயவர்கள்!` | **57–60** | **SOURCE-CHECKED / COMPLETE** |
 | Glossary | Part002 whole-Part reconciliation | 31–60 | **RECONCILED / PASS** |
-| Editorial | Part002 whole-Part English editorial review | 31–60 | **NEXT / NOT STARTED** |
-| Bilingual | Part002 whole-Part bilingual review | 31–60 | BLOCKED |
+| Editorial | Part002 whole-Part English editorial review | 31–60 | **PASS / CLOSED** |
+| Bilingual | Part002 whole-Part bilingual review | 31–60 | **NEXT / NOT STARTED** |
 | Release | Part002 release/readiness report | 31–60 | BLOCKED |
 | Release sync | Part002 release-ready synchronization | 31–60 | BLOCKED |
 | Final closure | Part002 final closure | 31–60 | BLOCKED |
@@ -30,6 +30,9 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 - unresolved Part002 English holds — **0**
 - whole-Part glossary reconciliation — **PASS**
 - English section corrections from glossary reconciliation — **0**
+- editorial-review files edited — **4/5**
+- editorial English-only corrections — **12**
+- unresolved editorial holds — **0**
 - canonical Tamil edits caused by English — **0**
 - frozen Part001 English section-file edits caused by Part002 — **0**
 - Part003 English/Tamil content imported into Part002 — **0**
@@ -109,8 +112,26 @@ Accounting:
 - frozen Part001 English body edits — **0**
 - Part003 leakage — **0**
 
+## English editorial review closure
+
+Part002 English editorial review is **PASS / CLOSED**.
+
+Durable record:
+- `PART_002_TRANSLATION_REVIEW.md`
+
+Accounting:
+- English files reviewed — **5/5**
+- files with prose edits — **4/5**
+- files reviewed unchanged — **1/5**
+- substantive English-only corrections — **12**
+- unresolved editorial holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001 English body edits — **0**
+- Part003 leakage — **0**
+
 ## Exact next activity
 
-**Part002 English editorial review.**
+**Part002 whole-Part bilingual review.**
 
-Do not begin whole-Part bilingual review until editorial review closes.
+Do not begin release/readiness until bilingual review closes.

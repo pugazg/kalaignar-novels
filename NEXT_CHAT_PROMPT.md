@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part002 English editorial review
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part002 whole-Part bilingual review
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -11,10 +11,12 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 5. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_TRANSLATION_PLAN.md`
 6. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_GLOSSARY.md`
 7. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
-8. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
-9. all five maintained Part002 English section files under `translations/en/sections/08-*.md` through `12-*.md`
-10. all E5–E9 source-check records
-11. Part001 precedent: `translations/en/TRANSLATION_REVIEW.md`
+8. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_TRANSLATION_REVIEW.md`
+9. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
+10. all five Part002 Tamil assembled files `sections/08-*.md` through `12-*.md`
+11. all five maintained Part002 English files `translations/en/sections/08-*.md` through `12-*.md`
+12. E5–E9 source-check records
+13. Part001 precedent: `translations/en/BILINGUAL_REVIEW.md`
 
 ## Frozen authority
 
@@ -25,42 +27,48 @@ Part002 Tamil remains **ARCHIVAL-READY / CLOSED**:
 - assembled Tamil — **5/5 VERIFIED / PASS / CLOSED**
 
 Part002 English:
-- E5–E9 — **SOURCE-CHECKED / COMPLETE**
-- translated/source-checked files — **5/5**
+- E5–E9 — **SOURCE-CHECKED / COMPLETE — 5/5**
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
-- unresolved glossary holds — **0**
-- English section corrections required by glossary reconciliation — **0**
-- editorial review — **NEXT / NOT STARTED**
+- English editorial review — **PASS / CLOSED**
+- editorial files reviewed — **5/5**
+- editorial files edited — **4/5**
+- substantive English-only editorial corrections — **12**
+- unresolved editorial holds — **0**
+- bilingual review — **NEXT / NOT STARTED**
 
 ## Exact activity
 
-Perform the **Part002 English editorial review** across all five maintained Part002 English files.
+Perform the **Part002 whole-Part bilingual review** across all five maintained Tamil/English section pairs.
 
-Editorial review may improve English readability, flow, punctuation and awkward project phrasing only where it preserves:
+Review every section after editorial changes for:
 
-- canonical Tamil meaning;
-- narrator/character agency and knowledge-state;
-- chronology and information-release order;
-- source rhetoric and emphatic force;
-- source quotation/song/display structure;
-- deliberate source-derived variants locked in `PART_002_GLOSSARY_RECONCILIATION.md`;
-- incoming **30→31 GENUINE CONTINUATION**;
-- scan59 printed-page **48/49** structure;
-- outgoing **60→61 CLEAN** boundary;
-- source political/historical/social framing without outside reinterpretation.
-
-Do not import outside historical, political, geographic, botanical, religious, architectural or social/caste explanation.
-
-Do not alter canonical Tamil merely to improve English.
+1. full Tamil→English coverage and order;
+2. paragraph/dialogue/display correspondence;
+3. source meaning and semantic completeness;
+4. narrator/speaker agency;
+5. chronology and information-release order;
+6. names, places, titles and reconciled source variants;
+7. political/historical/social framing as source voice or attributed speech;
+8. metaphor, rhetoric, repetition and emphatic force;
+9. E6 displayed granddaughter reveal and two-line Kannagi song;
+10. E9 scan59 printed-page **48/49** spread structure;
+11. incoming **30→31 GENUINE CONTINUATION**;
+12. outgoing **60→61 CLEAN** boundary;
+13. unsupported explanatory insertion — **0**;
+14. silent canonical Tamil correction — **0**;
+15. frozen Part001 English body changes — **0**;
+16. Part003 leakage — **0**.
 
 Create:
 
-`works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_TRANSLATION_REVIEW.md`
+`works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_BILINGUAL_REVIEW.md`
 
-If English section edits are made, record every substantive editorial change and verify them against maintained Tamil before closure.
+If the bilingual review discovers a genuine English mismatch, correct the English only when the verified Tamil clearly supports the correction and record it explicitly. If it exposes a possible Tamil fidelity problem, do not silently alter Tamil; create a hold/reopening decision instead.
+
+Update Part002 progress and live frontier controls only after the bilingual gate closes.
 
 ## Stop rule
 
-Stop after **Part002 English editorial review**.
+Stop after **Part002 whole-Part bilingual review**.
 
-Do **not** begin whole-Part bilingual review in the same iteration.
+Do **not** begin release/readiness in the same iteration.

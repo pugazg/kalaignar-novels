@@ -61,7 +61,7 @@ While song, dance and offerings to Kannagi Amman were proceeding with great sple
 
 Realizing that it was being attacked, the elephant ran wildly this way and that through the forest. Seeking a suitable place to stand and turn upon the horse and Kuruvichchi Naachchiyar and crush them, its trunk, tusks, head and legs all seemed filled with the urge to fight; it battered, shook and wrecked every tree that came in its way.
 
-Kuruvichchi Naachchiyar drove her horse toward the place where the elephant stood. Seeing the horse coming very close, Kuruvichchi Naachchi upon it, and a spear in her hand, the elephant grew still more terrified
+Kuruvichchi Naachchiyar drove her horse toward the place where the elephant stood. Seeing the horse come very close, with Kuruvichchi Naachchi on it and a spear in her hand, the elephant grew still more terrified
 
 <!-- source boundary: scan 38 → scan 39 -->
 
@@ -93,7 +93,7 @@ At that moment the sound of the great bell of the Kannagi temple reached Kuruvic
 
 <!-- source boundary: scan 40 → scan 41 -->
 
-made Kuruvichchi Naachchi start in the saddle. “Oh! Has he arrived?” her lips murmured. Not wishing to remain there even for a moment, she turned her horse onto the road to the Kannagi temple and rode away. The horse seemed to fly with her.
+startled Kuruvichchi Naachchi in the saddle. “Oh! Has he arrived?” her lips murmured. Not wishing to remain there even for a moment, she turned her horse onto the road to the Kannagi temple and rode away. The horse seemed to fly with her.
 
 “Who is this woman? She saved us from danger—and we saved her from danger! Yet she left without asking even a word about us!” Sundaralingam said to himself as he looked around. At that moment ten warriors carrying spears, swords and lances came toward him. Before Sundaralingam could wonder, “Who are these men all of a sudden?” the warriors had surrounded him. Their leader looked at the others and ordered, “Arrest him!”
 

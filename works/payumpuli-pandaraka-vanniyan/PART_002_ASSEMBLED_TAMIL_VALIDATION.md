@@ -210,3 +210,20 @@ Part002 English glossary reconciliation subsequently closed:
 Current next gate:
 
 **Part002 English editorial review.**
+
+## Post-glossary editorial review state
+
+The assembled Tamil master remains **PASS / CLOSED / VERIFIED**.
+
+English editorial review subsequently closed:
+- English files reviewed — **5/5**;
+- English files edited — **4/5**;
+- substantive English-only corrections — **12**;
+- unresolved editorial holds — **0**;
+- assembled Tamil mutations caused by editorial review — **0**;
+- canonical Tamil mutations caused by editorial review — **0**;
+- Part003 leakage — **0**.
+
+Current next gate:
+
+**Part002 whole-Part bilingual review.**

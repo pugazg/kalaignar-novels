@@ -33,7 +33,7 @@ Then, turning to Sundaralingam, he added, “Friend! Until these warriors return
 
 “I'll first tell you the situation there and the recent events,” Sundaralingam began.
 
-Kulasekaram Vairamuthu, proud that a struggle of honour against foreigners was taking place in Tamil land just as it was in the land of Sri Lanka, sat upright and sharpened his attention for the news Sundaralingam was about to tell him.
+Kulasekaram Vairamuthu, proud that a struggle of honour against foreigners was taking place in Tamil land just as it was in the land of Sri Lanka, sat upright and listened intently to the news Sundaralingam was about to tell him.
 
 “Since the British commanders who have been there until now have not been able to subdue Panchalankurichi, the British have sent a man named Jackson there as Collector, a man in whom brutishness and foolishness are mixed in equal measure. Though he is brutish and foolish, he is highly experienced in military training.”
 
@@ -43,7 +43,7 @@ When Sundaralingam said this, Vairamuthu nodded and ground his teeth. “Yes! I 
 
 <!-- source boundary: scan 51 → scan 52 -->
 
-“As soon as Jackson took charge as Collector, the palaiyakkarar of Ettayapuram and a few other palaiyakkarars—men who sing the praises of whoever comes to power—went to meet Jackson and promised to serve as his lackeys. Since neither we nor our guards of Panchalankurichi possessed that cowardice or fox-like nature, we did not concern ourselves with Jackson. Poor fellow, he must have been seething because we had not gone into his august presence! After waiting and waiting, he finally sent a letter saying Kattabomman must come and see him immediately. But Kattabomman paid no heed to that letter. Then Jackson kept writing letter after letter, so it was finally decided that we would go meet him and see what he had to say. Surrounded by four thousand warriors, Kattabomman and all of us set out for Tirunelveli to meet Jackson. Seeing that so many warriors were coming, Jackson decided to make us wander and left Tirunelveli for Courtallam. We did not give up. We went there too with our forces. Saying that he had urgent work at Sokkampatti, Jackson emptied out of Courtallam and left. Perhaps that *Parangi thurai* was afraid because we were coming with troops; Kattabomman suggested that everyone return to Panchalankurichi and that he alone would go and meet Jackson, but no one accepted the idea. We went to Sokkampatti surrounded by our forces. But Jackson began playing a game of dodging us. From Sokkampatti he kept shifting from place to place—Sivagiri, Tiruvilliputhur, Peraiyur, Pavalipallimadai and Kamuthi—and finally Jackson reached Ramanathapuram!”
+“As soon as Jackson took charge as Collector, the palaiyakkarar of Ettayapuram and a few other palaiyakkarars—men who sing the praises of whoever comes to power—went to meet Jackson and promised to serve as his lackeys. Since neither we nor our guards of Panchalankurichi possessed that cowardice or fox-like nature, we did not concern ourselves with Jackson. Poor fellow, he must have been seething because we had not gone into his august presence! After waiting and waiting, he finally sent a letter saying Kattabomman must come and see him immediately. But Kattabomman paid no heed to that letter. Then Jackson kept writing letter after letter, so it was finally decided that we would go meet him and see what he had to say. Surrounded by four thousand warriors, Kattabomman and all of us set out for Tirunelveli to meet Jackson. Seeing that so many warriors were coming, Jackson decided to make us wander and left Tirunelveli for Courtallam. We did not give up. We went there too with our forces. Saying that he had urgent work at Sokkampatti, Jackson cleared out of Courtallam and left. Perhaps that *Parangi thurai* was afraid because we were coming with troops; Kattabomman suggested that everyone return to Panchalankurichi and that he alone would go and meet Jackson, but no one accepted the idea. We went to Sokkampatti surrounded by our forces. But Jackson began playing a game of dodging us. From Sokkampatti he kept shifting from place to place—Sivagiri, Tiruvilliputhur, Peraiyur, Pavalipallimadai and Kamuthi—and finally Jackson reached Ramanathapuram!”
 
 <!-- source boundary: scan 52 → scan 53 -->
 
@@ -95,7 +95,7 @@ When Sundaralingam finished saying this, Pandaraka Vanniyan's face lit up. He fe
 
 “Yes—they do.”
 
-“Through that letter, Kattabomman asks you—through your friend Vellaiyathevan, and through this Sundaralingam, his friend—to consider which of these two, if he comes to the throne, would help us resist the British, and to make the way for that outcome.”
+“Through that letter, Kattabomman asks you—through your friend Vellaiyathevan, and through this Sundaralingam, his friend—to consider which of these two, if he comes to the throne, would help us resist the British, and to help bring about that outcome.”
 
 “Which of the two, in your estimation, is likely to wave the white fly-whisk for the whites?”
 

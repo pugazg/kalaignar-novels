@@ -45,7 +45,8 @@
 - English translated/source-checked files — **5/5**
 - E5–E9 — **SOURCE-CHECKED / COMPLETE**
 - English glossary reconciliation — **RECONCILED / PASS**
-- English next — **editorial review**
+- English editorial review — **PASS / CLOSED**
+- English next — **whole-Part bilingual review**
 - 30→31 — **GENUINE CONTINUATION / AUDITED**
 - 60→61 — **CLEAN / AUDITED**
 
@@ -58,6 +59,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_TRANSLATION_PLAN.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_GLOSSARY.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_TRANSLATION_REVIEW.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
@@ -70,7 +72,7 @@ Durable records:
 
 ## Exact next activity
 
-Perform **Part002 English editorial review** across all five maintained Part002 English files.
+Perform **Part002 whole-Part bilingual review** across all five maintained Part002 Tamil/English section pairs.
 
 Authority:
 - canonical Part002 `pages/` — controlling Tamil authority;
@@ -78,4 +80,4 @@ Authority:
 - all five maintained Part002 English section files — editorial-review target;
 - `translations/en/PART_002_TRANSLATION_PLAN.md`, `PART_002_GLOSSARY.md` and `PART_002_GLOSSARY_RECONCILIATION.md` — active English controls.
 
-Do not begin whole-Part bilingual review until editorial review closes. Keep Part001 frozen and Part003 transcription blocked.
+Do not begin release/readiness until bilingual review closes. Keep Part001 frozen and Part003 transcription blocked.

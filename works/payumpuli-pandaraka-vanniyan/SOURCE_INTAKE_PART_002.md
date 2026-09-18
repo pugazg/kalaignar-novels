@@ -50,10 +50,11 @@ Part002:
 - English translated/source-checked — **5/5**
 - E5–E9 — **SOURCE-CHECKED / COMPLETE**
 - English glossary reconciliation — **RECONCILED / PASS**
-- English next — **editorial review**
+- English editorial review — **PASS / CLOSED**
+- English next — **whole-Part bilingual review**
 
 ## Exact next activity
 
-Perform **Part002 English editorial review** across E5–E9.
+Perform **Part002 whole-Part bilingual review** across E5–E9.
 
 Do not reopen source verification or begin Part003 transcription.

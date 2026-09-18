@@ -1,6 +1,6 @@
 # Part 002 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **WHOLE-PART GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
+Status: **ENGLISH EDITORIAL REVIEW PASS / CLOSED — BILINGUAL REVIEW NEXT**
 
 This is the control plan for the project-created English translation of **Part002 only**.
 
@@ -255,8 +255,24 @@ Whole-Part glossary reconciliation is **RECONCILED / PASS**.
 Durable record:
 - `PART_002_GLOSSARY_RECONCILIATION.md`
 
+## Post-glossary editorial review
+
+Part002 English editorial review is **PASS / CLOSED**.
+
+- files reviewed — **5/5**
+- files with English prose edits — **4/5**
+- substantive English-only corrections — **12**
+- unresolved editorial holds — **0**
+- glossary/source-variant locks changed — **0**
+- canonical Tamil edits — **0**
+- frozen Part001 English body edits — **0**
+- Part003 leakage — **0**
+
+Durable record:
+- `PART_002_TRANSLATION_REVIEW.md`
+
 ## Exact next activity
 
-**Part002 English editorial review.**
+**Part002 whole-Part bilingual review.**
 
-Do not begin bilingual review until editorial review closes.
+Do not begin release/readiness until bilingual review closes.

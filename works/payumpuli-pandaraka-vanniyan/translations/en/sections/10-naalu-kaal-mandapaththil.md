@@ -89,7 +89,7 @@ Kuruvichchi Naachchi did not need much time to understand that the two men were 
 
 “You told me that the moment you jumped down from your horse and embraced him!”
 
-“Listen, I'll tell you the rest! You know that Vellaiyathevan, commander in the army of Panchalankurichi king Kattabomman, is my dearest friend. This Sundaralingam is that friend's friend! He too is the commander of a division! Vellaiyathevan, born in the Thevar clan, and this Sundaralinga Kudumbar, born in the Devendra clan, lack only the fact of having been born together; otherwise they are inseparable brothers! Like us, they are engaged in the struggle to defend their country...”
+“Listen, I'll tell you the rest! You know that Vellaiyathevan, commander in the army of Panchalankurichi king Kattabomman, is my dearest friend. This Sundaralingam is that friend's friend! He too is the commander of a division! Vellaiyathevan, born in the Thevar clan, and this Sundaralinga Kudumbar, born in the Devendra clan—the only thing missing is that they were not born together; otherwise, they are inseparable brothers! Like us, they are engaged in the struggle to defend their country...”
 
 <!-- source boundary: scan 47 → scan 48 -->
 
@@ -105,7 +105,7 @@ Even as the king explained this, a new light spread across Kuruvichchi's face. S
 
 “First let us go to the palace. You must stay there as my guest for at least one day.”
 
-“Commander Vellaiyathevan asked me to discuss some important matters with you. He has also explained and written some notes about them in this letter.”
+“Commander Vellaiyathevan asked me to discuss some important matters with you. He has also explained these matters and written some notes about them in this letter.”
 
 “Vellaiyathevan is my friend! In the same way, you too are my friend! So would it not be disrespectful to read his letter and discuss it with you like this in the middle of the road?”
 
@@ -115,9 +115,9 @@ Even as the king explained this, a new light spread across Kuruvichchi's face. S
 
 “You are very stubborn! As you wish, let us sit here and talk!”
 
-Agreeing, Pandaraka Vanniyan told Kuruvichchi Naachchi, “Take a few warriors and go keep watch on the road to Mulliya Valai! I have heard that a secret British force is roaming through our regions on spying work. So it would be good for you and a few warriors to remain alert on the Mulliya Valai road a short distance from here.”
+Agreeing, Pandaraka Vanniyan told Kuruvichchi Naachchi, “Take a few warriors and go keep watch on the road to Mulliya Valai! I have heard that a secret British force is roaming through our regions on a spying mission. So it would be good for you and a few warriors to remain alert on the Mulliya Valai road a short distance from here.”
 
-She immediately set out from there, taking only a few of the warriors who stood ranked in the distance, and hurried toward the Mulliya Valai road.
+She immediately set out from there, taking only a few of the warriors who stood in formation at a distance, and hurried toward the Mulliya Valai road.
 
 “Will you give me the letter our friend Vellaiyathevan gave you?” Pandaraka Vanniyan asked, holding out his hand.
 

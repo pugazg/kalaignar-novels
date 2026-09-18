@@ -81,13 +81,14 @@ Part002:
 - English translated/source-checked files — **5/5**
 - E5–E9 — **SOURCE-CHECKED / COMPLETE**
 - English glossary reconciliation — **RECONCILED / PASS**
-- English next — **editorial review**
+- English editorial review — **PASS / CLOSED**
+- English next — **whole-Part bilingual review**
 - release/readiness — **BLOCKED**
 - final Part002 closure — **BLOCKED**
 - Part003 transcription — **BLOCKED / NOT ACTIVE**
 
 ## Exact next activity
 
-Use all five PASSED Part002 assembled sections and the reconciled Part002 glossary as the authority for **English editorial review**, with canonical `../pages/` controlling any discrepancy.
+Use all five PASSED Part002 assembled sections, all five maintained English sections, and the editorial-review record as authority for **whole-Part bilingual review**, with canonical `../pages/` controlling any discrepancy.
 
 Do not alter this verified Tamil reading layer merely to smooth English.

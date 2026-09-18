@@ -104,14 +104,16 @@ Part003 remains blocked until Part002 final closure.
 - glossary reconciliation — **RECONCILED / PASS**
 - English section files changed by reconciliation — **0**
 - unresolved glossary holds — **0**
-- editorial review — **NEXT / NOT STARTED**
-- bilingual review — **BLOCKED**
+- editorial review — **PASS / CLOSED**
+- editorial files edited — **4/5**
+- editorial English-only corrections — **12**
+- bilingual review — **NEXT / NOT STARTED**
 - release/readiness — **BLOCKED**
 - final Part002 closure — **BLOCKED**
 - Part003 transcription — **BLOCKED**
 
 ## Exact next activity
 
-Perform **Part002 English editorial review** across the five maintained Part002 English section files.
+Perform **Part002 whole-Part bilingual review** across the five maintained Part002 Tamil/English section pairs.
 
-Do not begin bilingual review until editorial review closes.
+Do not begin release/readiness until bilingual review closes.

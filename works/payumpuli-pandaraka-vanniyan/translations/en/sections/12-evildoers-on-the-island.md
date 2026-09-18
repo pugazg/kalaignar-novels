@@ -17,7 +17,7 @@ working_title: "Payumpuli Pandaraka Vanniyan"
 
 # Evildoers on the Island!
 
-With the speed of a stone thrown toward the sky returning to earth, Pandaraka Vanniyan's horse raced toward the direction from which the gunshots had sounded. From horseback the king saw a fight under way among a small group between the road leading to Mulliya Valai and the road from Vattrappalai to Mullaitheevu. Narrowing his eyelids and sharpening his gaze, he watched to see who they were. On one side, white soldiers on horseback! On the other, the warriors of Mullaitheevu under Kuruvichchi Naachchiyar's leadership! Bullets burst from the whites; spears and swords flew from the Mullaitheevu warriors as they met them!
+Like a stone hurled skyward falling back to earth, Pandaraka Vanniyan's horse raced toward the direction from which the gunshots had sounded. From horseback the king saw a fight under way among a small group between the road leading to Mulliya Valai and the road from Vattrappalai to Mullaitheevu. Narrowing his eyelids and sharpening his gaze, he watched to see who they were. On one side, white soldiers on horseback! On the other, the warriors of Mullaitheevu under Kuruvichchi Naachchiyar's leadership! Bullets burst from the whites; spears and swords flew from the Mullaitheevu warriors as they met them!
 
 Pandaraka Vanniyan urged his horse still faster, but by the time he reached the place, the fight was over.
 
@@ -27,7 +27,7 @@ Unable to match the fierce fighting and powerful shoulders of the Mullaitheevu w
 
 Kuruvichchi Naachchiyar rode up to the white soldier lying on the ground and breathing his last, and jumped down from her horse. Pandaraka Vanniyan arrived there at that moment.
 
-“What is it, dear? What happened?” the king asked. Looking at him, she let out a deep sigh. The relief she felt at having protected Pandaraka Vanniyan from a terrifying sudden attack showed clearly in the rise and fall of that sigh. Without immediately telling him any details, she moved closer to the fallen white soldier. His eyes stared wildly at her. Ignoring that, she slowly bent down, watching closely as he held some object in his left hand and tried to conceal it. Her purpose was to seize that object. Intent on that alone, she lowered her head toward his left hand—at which the frenzied man raised his pistol and aimed it directly at the centre of her forehead.
+“What is it, dear? What happened?” the king asked. Looking at him, she let out a deep sigh. The rise and fall of that sigh plainly revealed her relief at having protected Pandaraka Vanniyan from a terrifying sudden attack. Without immediately telling him any details, she moved closer to the fallen white soldier. His eyes stared wildly at her. Ignoring that, she slowly bent down, watching closely as he held some object in his left hand and tried to conceal it. Her purpose was to seize that object. Intent on that alone, she lowered her head toward his left hand—at which the frenzied man raised his pistol and aimed it directly at the centre of her forehead.
 
 Then a foot stamped down on his right hand. Yes—Pandaraka Vanniyan's foot! The shot went skyward without striking anyone. Only then did Kuruvichchi Naachchiyar realize that her beloved had saved her life. By then she had seized the object from the white soldier's hand. He too stopped breathing.
 
@@ -61,7 +61,7 @@ Kuruvichchi exclaimed in astonishment.
 
 Pandaraka Vanniyan ordered his warriors to take the body of the fallen white soldier and bury it properly, then turned his horse from there toward the Naalukaal Mandapam. She and the other warriors followed.
 
-Before they could reach the mandapam and meet Sundaralingam, Sundaralingam himself had left the mandapam and was coming toward them, confused and worried about what might have happened to Pandaraka Vanniyan after he had hurried away at the sound of gunfire.
+Before they could reach the mandapam, Sundaralingam himself had left it and was coming toward them, confused and worried about what might have happened to Pandaraka Vanniyan after he had hurried away at the sound of gunfire.
 
 “This is the letter you brought, isn't it?” the king asked, handing him the letter in his possession. Sundaralingam looked sadly at the letter, on which drops of blood were scattered here and there, and nodded as if to say, “Yes.” Then he handed the letter back to Pandaraka Vanniyan.
 
