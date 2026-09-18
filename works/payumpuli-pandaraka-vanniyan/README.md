@@ -73,22 +73,51 @@ Durable Part002 records:
 - `PART_002_RELEASE_READY_SYNC.md`
 - `translations/en/PART_002_PROGRESS.md`
 
-## Part003 — NEXT ACTIVE PART / AUTHORIZED / NOT STARTED
+## Part003 — ACTIVE / DOCUMENTATION SYNC COMPLETE
 
-Part003 / scans61–90 is now authorized after **PART002 FINAL CLOSURE — PASS / CLOSED**.
+Controlling source:
+`TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
 
-- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
-- local PDF pages — **30**
+Current verified Tamil state:
+
+- canonical records — **30/30 — scans61–90**
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- unresolved Tamil / historical-glyph / visual-status exceptions — **0**
+- Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
 - incoming 60→61 — **CLEAN / AUDITED**
-- outgoing 90→91 — **PENDING direct audit**
-- canonical Part003 page records — **0**
-- Pass 1 — **NOT STARTED**
-- first Pass-1 batch — **global scans61–70 / local pages1–10**
+- outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
+
+Notable structure:
+- scans61–64 continue and close chapter7 `தீவுக்குள் தீயவர்கள்!`;
+- scan65 opens chapter8 `காக்கை வன்னியன்!`;
+- scan73 opens chapter9 `முத்து மாளிகை!`;
+- scan80 opens chapter10 `சிலந்தி வலையோ? சிறிய பூச்சியோ?`;
+- scan88 opens chapter11 `அதிகாரி வழங்கிய ஆலோசனை`;
+- scans64, 72, 79 and 87 have intentional blank lower fields;
+- scan71 copy-specific library stamp/handwriting remains non-body provenance;
+- scan90 ends at `என்னைப்`, with audited continuation to scan91 `போன்றோர்`.
+
+Durable Part003 records:
+- `SOURCE_INTAKE_PART_003.md`
+- `PART_003_PASS1_PROGRESS.md`
+- `PART_003_PASS2A_PROGRESS.md`
+- `PART_003_PASS2B_PROGRESS.md`
+- `PART_003_PASS3_PROGRESS.md`
+- `PART_003_BOUNDARY_AUDIT_90_91.md`
+- `PART_003_AUDIT.md`
+- `PART_003_FINAL_STATUS_SYNC.md`
+- `PART_003_DOCUMENTATION_SYNC.md`
 
 ## Exact next activity
 
-Perform **Part003 Pass 1 — global scans61–70 / local pages1–10**.
+Perform **Part003 Tamil archival-ready checkpoint**.
 
-Create canonical page records with global numbering and exact source provenance, and create/update `PART_003_PASS1_PROGRESS.md`.
-
-Do not reopen frozen Part001/Part002. Do not begin Part003 Pass 2A until Pass 1 covers scans61–90.
+Do not reopen verified Part003 page records. Do not begin assembled Tamil, English work, final Part003 closure or Part004 transcription until the Tamil archival-ready checkpoint closes.

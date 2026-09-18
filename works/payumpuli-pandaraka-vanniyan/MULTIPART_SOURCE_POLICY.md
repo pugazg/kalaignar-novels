@@ -37,51 +37,30 @@ For every `N→N+1` boundary:
 
 - 16 / 16 split PDFs — **SUPPLIED / REGISTERED**
 - Part001 — **FINAL CLOSURE / CLOSED / FROZEN**
-- active Part — **Part002 / scans31–60**
-- Part002 canonical records — **30/30**
-- Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Part002 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part002 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part002 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part002 Part audit — **PASS / COMPLETE**
-- Part002 final metadata/status synchronization — **PASS / CLOSED**
-- Part002 documentation synchronization — **PASS / COMPLETE**
-- Part002 Tamil textual status — **30/30 verified**
-- Part002 visual fidelity — **30/30 verified**
-- Part002 unresolved status exceptions — **0**
-- Part002 Tamil archival-ready — **PASS / CLOSED**
-- Part002 assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
-- Part002 English planning/setup — **COMPLETE / PASS**
-- Part002 English translated/source-checked — **5/5**
-- Part002 E5–E9 — **SOURCE-CHECKED / COMPLETE**
-- Part002 English glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED**
-- English bilingual review — **PASS / CLOSED**
-- bilingual English-only corrections — **3**
-- release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- Part002 final closure — **PASS / CLOSED / FROZEN**
-- Part003 — **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**
-- split-boundary classifications — **2 / 15 audited**
+- Part002 — **FINAL CLOSURE / CLOSED / FROZEN**
+- active Part — **Part003 / scans61–90**
+- Part003 canonical records — **30/30**
+- Part003 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Part003 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part003 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part003 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part003 Part audit — **PASS / COMPLETE**
+- Part003 final metadata/status synchronization — **PASS / CLOSED**
+- Part003 documentation synchronization — **PASS / COMPLETE**
+- Part003 Tamil textual status — **30/30 verified**
+- Part003 visual fidelity — **30/30 verified**
+- Part003 unresolved status exceptions — **0**
+- Part003 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- Part004 transcription — **BLOCKED**
+- split-boundary classifications — **3 / 15 audited**
 
 Audited boundaries:
 - **30→31 — GENUINE CONTINUATION**
 - **60→61 — CLEAN**
+- **90→91 — GENUINE CONTINUATION**
 
-### Audited boundary — 60→61
-
-Part002 scan60 / printed50 and Part003 scan61 / printed51 were directly compared.
-
-Evidence:
-- scan60 ends a complete sentence;
-- scan61 starts a fresh quoted utterance;
-- printed pagination continues **50 → 51**;
-- no chapter heading appears at scan61;
-- no word/sentence reconstruction is needed across the split;
-- no Part003 canonical record was created.
-
-Durable record:
-- `PART_002_BOUNDARY_AUDIT_60_61.md`
+Durable Part003 outgoing-boundary record:
+- `PART_003_BOUNDARY_AUDIT_90_91.md`
 
 ## Batch-size policy
 
@@ -89,6 +68,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part003 Pass 1 — first batch global scans61–70 / local pages1–10.**
+**Part003 Tamil archival-ready checkpoint.**
 
-Part001 and Part002 remain frozen. Preserve 60→61 as **CLEAN / AUDITED**. Do not begin Pass 2A until Part003 Pass 1 covers scans61–90.
+Part001 and Part002 remain frozen. Do not begin Part004 transcription until the complete Part003 maintained workflow closes.

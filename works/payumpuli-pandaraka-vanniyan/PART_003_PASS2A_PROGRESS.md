@@ -41,7 +41,8 @@ For every reviewed scan:
 - Tamil textual status — **30/30 verified**
 - visual fidelity — **30/30 verified**
 - unresolved status exceptions — **0**
-- documentation synchronization — **NOT STARTED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
 
 ## Batch 1 — scans61–70
 
@@ -157,6 +158,6 @@ Durable outgoing audit:
 
 ## Exact next activity
 
-Perform **Part003 documentation synchronization**.
+Perform **Part003 Tamil archival-ready checkpoint**.
 
-Reconcile the live documentation/control surface to the verified 30/30 state without changing Part003 page records. Do not begin Tamil archival-ready or Part004 transcription in the same iteration.
+Do not reopen verified Part003 page records or begin Part004 transcription in the same iteration.

@@ -71,7 +71,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
-## Part003 — ACTIVE / FINAL STATUS SYNC CLOSED
+## Part003 — ACTIVE / DOCUMENTATION SYNC COMPLETE
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
 - global scans — **61–90**
@@ -93,12 +93,13 @@ Durable records:
 - Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
 - visual fidelity — **30/30 verified; 0 needs-review**
 - unresolved status exceptions — **0**
-- documentation synchronization — **NOT STARTED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
 
 Part001 and Part002 are frozen.
 
 ## Exact next activity
 
-Perform **Part003 documentation synchronization**.
+Perform **Part003 Tamil archival-ready checkpoint**.
 
-Reconcile the live documentation/control surface to the verified 30/30 state without changing Part003 page records. Do not begin Tamil archival-ready or Part004 transcription in the same iteration.
+Use the verified 30/30 canonical state and the closed documentation synchronization. Do not begin assembled Tamil, English work or Part004 transcription in the same iteration.

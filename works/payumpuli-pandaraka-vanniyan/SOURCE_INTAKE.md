@@ -78,51 +78,40 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - split registration — **16 / 16 COMPLETE**
 - physical coverage by split ranges — **477 / 477**
 - Part001 — **FINAL CLOSED / FROZEN**
-- active content Part — **Part002 / scans31–60**
-- canonical Part002 records — **30/30 present**
-- Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Part002 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part002 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part002 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part002 Part audit — **PASS / COMPLETE**
-- Part002 final metadata/status synchronization — **PASS / CLOSED**
-- Part002 documentation synchronization — **PASS / COMPLETE**
-- Part002 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
-- Part002 visual fidelity — **30/30 verified; 0 needs-review**
-- Part002 unresolved status exceptions — **0**
-- Part002 Tamil archival-ready — **PASS / CLOSED**
-- Part002 assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
-- Part002 English planning/setup — **COMPLETE / PASS**
-- Part002 English translated/source-checked — **5/5**
-- Part002 E5–E9 — **SOURCE-CHECKED / COMPLETE**
-- Part002 English glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED**
-- English bilingual review — **PASS / CLOSED**
-- bilingual English-only corrections — **3**
-- release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- Part002 final closure — **PASS / CLOSED / FROZEN**
-- Part003 source — **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**
+- Part002 — **FINAL CLOSED / FROZEN**
+- active content Part — **Part003 / scans61–90**
+- canonical Part003 records — **30/30 present**
+- Part003 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Part003 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part003 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part003 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part003 Part audit — **PASS / COMPLETE**
+- Part003 final metadata/status synchronization — **PASS / CLOSED**
+- Part003 documentation synchronization — **PASS / COMPLETE**
+- Part003 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
+- Part003 visual fidelity — **30/30 verified; 0 needs-review**
+- Part003 unresolved status exceptions — **0**
+- Part003 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- Part004 transcription — **BLOCKED**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
+- boundary 90→91 — **GENUINE CONTINUATION / AUDITED**
 
 Authoritative work-specific methodology:
 - `PAYUMPULI_ARCHIVAL_GUIDELINES.md`
 
-Authoritative Part002 closure records:
-- `SOURCE_INTAKE_PART_002.md`
-- `PART_002_PASS1_PROGRESS.md`
-- `PART_002_PASS2A_PROGRESS.md`
-- `PART_002_PASS2B_PROGRESS.md`
-- `PART_002_PASS3_PROGRESS.md`
-- `PART_002_AUDIT.md`
-- `PART_002_FINAL_STATUS_SYNC.md`
-- `PART_002_DOCUMENTATION_SYNC.md`
+Authoritative Part003 closure records:
+- `SOURCE_INTAKE_PART_003.md`
+- `PART_003_PASS1_PROGRESS.md`
+- `PART_003_PASS2A_PROGRESS.md`
+- `PART_003_PASS2B_PROGRESS.md`
+- `PART_003_PASS3_PROGRESS.md`
+- `PART_003_AUDIT.md`
+- `PART_003_FINAL_STATUS_SYNC.md`
+- `PART_003_DOCUMENTATION_SYNC.md`
 
 ## Exact next activity
 
-Perform **Part003 Pass 1 — first batch global scans61–70 / local pages1–10** from the registered Part003 source.
+Perform **Part003 Tamil archival-ready checkpoint**.
 
-Create canonical Part003 page records with global numbering and exact provenance, and create/update `PART_003_PASS1_PROGRESS.md`.
-
-Part001 and Part002 remain frozen. Do not begin Part003 Pass 2A until Pass 1 covers scans61–90.
+Part001 and Part002 remain frozen. Do not begin assembled Tamil, English work, final Part003 closure or Part004 transcription before the archival-ready checkpoint closes.

@@ -27,7 +27,8 @@ Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 - Tamil textual status: **30/30 verified**
 - visual fidelity: **30/30 verified**
 - unresolved status exceptions: **0**
-- documentation synchronization: **NOT STARTED**
+- documentation synchronization: **PASS / COMPLETE**
+- Tamil archival-ready: **NEXT GATE / NOT YET STARTED**
 - outgoing 90→91 boundary audit: **GENUINE CONTINUATION / AUDITED**
 
 At Pass-1 closure all Part003 records remained non-final. After the completed Part audit and final metadata/status synchronization, the current distribution is:
@@ -125,6 +126,6 @@ The bootstrap referenced HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md, but that
 
 ## Exact next activity
 
-Perform **Part003 documentation synchronization**.
+Perform **Part003 Tamil archival-ready checkpoint**.
 
-Reconcile the live documentation/control surface to the verified 30/30 state without changing Part003 page records. Do not begin Tamil archival-ready or Part004 transcription in the same iteration.
+Do not reopen verified Part003 page records or begin Part004 transcription in the same iteration.

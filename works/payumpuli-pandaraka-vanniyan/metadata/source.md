@@ -134,33 +134,33 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - complete source — **477 / 477 scans supplied across 16 Parts**
 - split identities/global mappings — **16 / 16 REGISTERED**
 - Part001 — **FINAL CLOSED / FROZEN**
-- active content Part — **Part002 / scans31–60**
-- canonical Part002 records — **30/30 present**
-- Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Part002 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part002 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part002 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part002 Part audit — **PASS / COMPLETE**
-- Part002 final metadata/status synchronization — **PASS / CLOSED**
-- Part002 documentation synchronization — **PASS / COMPLETE**
-- Part002 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
-- Part002 visual fidelity — **30/30 verified; 0 needs-review**
-- Part002 unresolved status exceptions — **0**
-- Part002 Tamil archival-ready — **PASS / CLOSED**
-- Part002 assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
-- Part002 English planning/setup — **COMPLETE / PASS**
-- Part002 English translated/source-checked — **5/5**
-- Part002 E5–E9 — **SOURCE-CHECKED / COMPLETE**
-- Part002 English glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED**
-- English bilingual review — **PASS / CLOSED**
-- bilingual English-only corrections — **3**
-- release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- Part002 final closure — **PASS / CLOSED / FROZEN**
-- Part003 source — **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**
-- audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN**
+- Part002 — **FINAL CLOSED / FROZEN**
+- active content Part — **Part003 / scans61–90**
+- canonical Part003 records — **30/30 present**
+- Part003 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Part003 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part003 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part003 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part003 Part audit — **PASS / COMPLETE**
+- Part003 final metadata/status synchronization — **PASS / CLOSED**
+- Part003 documentation synchronization — **PASS / COMPLETE**
+- Part003 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
+- Part003 visual fidelity — **30/30 verified; 0 needs-review**
+- Part003 unresolved status exceptions — **0**
+- Part003 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- Part004 transcription — **BLOCKED**
+- audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION**
 - terminal page function for complete 477-scan source — **not yet visually audited**
+
+### Part003 source observations now established
+
+- printed pagination for Part003 — **51–80 continuous**
+- chapter 8 opens at scan65 — `காக்கை வன்னியன்!`
+- chapter 9 opens at scan73 — `முத்து மாளிகை!`
+- chapter 10 opens at scan80 — `சிலந்தி வலையோ? சிறிய பூச்சியோ?`
+- chapter 11 opens at scan88 — `அதிகாரி வழங்கிய ஆலோசனை`
+- outgoing scan90 ends at `என்னைப்` and scan91 witness begins `போன்றோர்`
+- scan71 copy-specific library stamp/handwriting is non-body provenance
 
 ## Controlling-source clarification
 
@@ -174,8 +174,6 @@ Durable rule:
 
 ## Exact next activity
 
-Perform **Part003 Pass 1 — global scans61–70 / local pages1–10**.
+Perform **Part003 Tamil archival-ready checkpoint**.
 
-Use `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf` as the registered controlling Part003 source. Global `scan_page` numbering continues at **61**.
-
-Do not reopen frozen Part001/Part002 and do not begin Pass 2A before Part003 Pass 1 is complete.
+Use the closed Part003 source-intake, Pass1/2A/2B/3, audit, final-status and documentation-sync records. Do not begin Part004 transcription until the complete Part003 maintained workflow closes.

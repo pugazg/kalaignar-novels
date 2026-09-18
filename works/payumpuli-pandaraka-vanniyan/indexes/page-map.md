@@ -66,36 +66,36 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 002 | 28 | 58 | 47 | `தீவுக்குள் தீயவர்கள்!` continuation; Pass2B `திடீர் தாக்குதலில்` reconciliation | verified | `pages/0058-theevukkul-theeyavargal.md` |
 | 002 | 29 | 59 | 48–49 | illustrated two-page spread; `தீவுக்குள் தீயவர்கள்!`; left48 → right49 | verified | `pages/0059-theevukkul-theeyavargal.md` |
 | 002 | 30 | 60 | 50 | `தீவுக்குள் தீயவர்கள்!` continuation; 60→61 CLEAN / AUDITED | verified | `pages/0060-theevukkul-theeyavargal.md` |
-| 003 | 1 | 61 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 2 | 62 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 3 | 63 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 4 | 64 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 5 | 65 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 6 | 66 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 7 | 67 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 8 | 68 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 9 | 69 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 10 | 70 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 11 | 71 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 12 | 72 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 13 | 73 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 14 | 74 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 15 | 75 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 16 | 76 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 17 | 77 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 18 | 78 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 19 | 79 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 20 | 80 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 21 | 81 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 22 | 82 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 23 | 83 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 24 | 84 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 25 | 85 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 26 | 86 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 27 | 87 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 28 | 88 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 29 | 89 | — | unclassified — direct visual audit pending | not-started | — |
-| 003 | 30 | 90 | — | unclassified — direct visual audit pending | not-started | — |
+| 003 | 1 | 61 | 51 | `தீவுக்குள் தீயவர்கள்!` continuation | verified | `pages/0061-theevukkul-theeyavargal.md` |
+| 003 | 2 | 62 | 52 | `தீவுக்குள் தீயவர்கள்!` continuation | verified | `pages/0062-theevukkul-theeyavargal.md` |
+| 003 | 3 | 63 | 53 | `தீவுக்குள் தீயவர்கள்!` continuation | verified | `pages/0063-theevukkul-theeyavargal.md` |
+| 003 | 4 | 64 | 54 | chapter 7 close; intentional blank lower field | verified | `pages/0064-theevukkul-theeyavargal.md` |
+| 003 | 5 | 65 | 55 | chapter 8 opening `காக்கை வன்னியன்!` | verified | `pages/0065-kaakkai-vanniyan.md` |
+| 003 | 6 | 66 | 56 | `காக்கை வன்னியன்!` continuation; ends `காக்கை` | verified | `pages/0066-kaakkai-vanniyan.md` |
+| 003 | 7 | 67 | 57 | continuation; `காக்கை` → `வன்னியன்,`; ends `இந்தக் கிராமத்துப்` | verified | `pages/0067-kaakkai-vanniyan.md` |
+| 003 | 8 | 68 | 58 | continuation; begins `பிள்ளைகள்` | verified | `pages/0068-kaakkai-vanniyan.md` |
+| 003 | 9 | 69 | 59 | `காக்கை வன்னியன்!` continuation | verified | `pages/0069-kaakkai-vanniyan.md` |
+| 003 | 10 | 70 | 60 | `காக்கை வன்னியன்!` continuation | verified | `pages/0070-kaakkai-vanniyan.md` |
+| 003 | 11 | 71 | 61 | `காக்கை வன்னியன்!` continuation; copy-specific library marks excluded | verified | `pages/0071-kaakkai-vanniyan.md` |
+| 003 | 12 | 72 | 62 | chapter 8 close; intentional blank lower field | verified | `pages/0072-kaakkai-vanniyan.md` |
+| 003 | 13 | 73 | 63 | chapter 9 opening `முத்து மாளிகை!`; ends `வணங்கிக்` | verified | `pages/0073-muthu-maaligai.md` |
+| 003 | 14 | 74 | 64 | continuation; begins `கொண்டே`; ends `நயம்,` | verified | `pages/0074-muthu-maaligai.md` |
+| 003 | 15 | 75 | 65 | continuation; begins `நளினம்`; ends `தனது` | verified | `pages/0075-muthu-maaligai.md` |
+| 003 | 16 | 76 | 66 | `முத்து மாளிகை!` continuation | verified | `pages/0076-muthu-maaligai.md` |
+| 003 | 17 | 77 | 67 | continuation; ends `அவளுக்குத் தானே` | verified | `pages/0077-muthu-maaligai.md` |
+| 003 | 18 | 78 | 68 | continuation; begins `பரிமாறுவதாக` | verified | `pages/0078-muthu-maaligai.md` |
+| 003 | 19 | 79 | 69 | chapter 9 close; intentional blank lower field | verified | `pages/0079-muthu-maaligai.md` |
+| 003 | 20 | 80 | 70 | chapter 10 opening `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | verified | `pages/0080-silandhi-valaiyo-siriya-poochchiyo.md` |
+| 003 | 21 | 81 | 71 | chapter 10 continuation | verified | `pages/0081-silandhi-valaiyo-siriya-poochchiyo.md` |
+| 003 | 22 | 82 | 72 | continuation; open quotation ends `அம்மா என` | verified | `pages/0082-silandhi-valaiyo-siriya-poochchiyo.md` |
+| 003 | 23 | 83 | 73 | quotation continuation; final quotation open to scan84 | verified | `pages/0083-silandhi-valaiyo-siriya-poochchiyo.md` |
+| 003 | 24 | 84 | 74 | continuation; final quotation open at `அந்த நல்லவர் மீது` | verified | `pages/0084-silandhi-valaiyo-siriya-poochchiyo.md` |
+| 003 | 25 | 85 | 75 | continuation; begins `வெள்ளவர் மீது`; ends `அஞ்சா` | verified | `pages/0085-silandhi-valaiyo-siriya-poochchiyo.md` |
+| 003 | 26 | 86 | 76 | continuation; begins `நெஞ்சம்`; ends `என்ற செய்தி,` | verified | `pages/0086-silandhi-valaiyo-siriya-poochchiyo.md` |
+| 003 | 27 | 87 | 77 | chapter 10 close; intentional blank lower field | verified | `pages/0087-silandhi-valaiyo-siriya-poochchiyo.md` |
+| 003 | 28 | 88 | 78 | chapter 11 opening `அதிகாரி வழங்கிய ஆலோசனை` | verified | `pages/0088-adhikaari-vazhangiya-aalosanai.md` |
+| 003 | 29 | 89 | 79 | chapter 11 continuation; ends `பெரும் வேறுபாடு` | verified | `pages/0089-adhikaari-vazhangiya-aalosanai.md` |
+| 003 | 30 | 90 | 80 | chapter 11 continuation; ends `என்னைப்`; 90→91 genuine continuation | verified | `pages/0090-adhikaari-vazhangiya-aalosanai.md` |
 | 004 | 1 | 91 | — | unclassified — direct visual audit pending | not-started | — |
 | 004 | 2 | 92 | — | unclassified — direct visual audit pending | not-started | — |
 | 004 | 3 | 93 | — | unclassified — direct visual audit pending | not-started | — |

@@ -685,3 +685,40 @@ Part003 is now **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**.
 Perform **Part003 Pass 1 — global scans61–70 / local pages1–10** and create/update `PART_003_PASS1_PROGRESS.md`.
 
 Do not reopen frozen Part001/Part002. Do not begin Part003 Pass 2A until Pass 1 covers scans61–90.
+
+
+## Part003 verification / documentation state
+
+Part003 has completed its maintained Tamil verification chain through documentation synchronization:
+
+- source intake — **PASS / COMPLETE**
+- canonical records — **30/30 scans61–90**
+- Pass 1 — **COMPLETE / PASS**
+- Pass 2A — **COMPLETE / PASS**
+- Pass 2B — **COMPLETE / PASS**
+- Pass 3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- unresolved status exceptions — **0**
+- incoming 60→61 — **CLEAN / AUDITED**
+- outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
+
+Durable authority:
+- `PART_003_AUDIT.md`
+- `PART_003_FINAL_STATUS_SYNC.md`
+
+## Part003 documentation synchronization — PASS / COMPLETE
+
+The live documentation/control surface has been reconciled to the verified Part003 state without changing any canonical Part003 page record.
+
+Synchronized controls include README, handover, page map, work audit, source metadata, source-intake controls, multipart policy, Part003 progress trackers and root next-chat prompts.
+
+Historical gate sections above remain historical evidence and are not the live frontier.
+
+## Exact next activity
+
+Perform **Part003 Tamil archival-ready checkpoint**.
+
+Do not reopen verified Part003 page records and do not begin assembled Tamil, English workflow or Part004 transcription in that documentation-sync closure.
