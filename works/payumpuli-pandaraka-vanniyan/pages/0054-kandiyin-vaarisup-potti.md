@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans51–60"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans51–60; formal Part002 Pass 2A reviewed"
 ---
 
 # கண்டியின் வாரிசுப் போட்டி!
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 
 மரியாதை கொடுத்து வரவேற்கத் தெரியாத ஜாக்சன், தனது சூழ்ச்சி வெற்றி பெறப் போகிறது என்ற ஆணவத்தின் காரணமாக - அடுக்கடுக்காக குற்றச்சாட்டுகளைக் கூறி, இதற்கு உமது பதில் என்ன? என்று கேட்டிருக்கிறான்.”
 
-இப்போது சுந்தரலிங்கம் பேச்சில் பண்டாரக வன்னியன் குறுக்கிட்டு, “அப்படியென்ன குற்றச்சாட்டுகள்?” என மிகை படபடக்கக் கேட்டான்.
+இப்போது சுந்தரலிங்கம் பேச்சில் பண்டாரக வன்னியன் குறுக்கிட்டு, “அப்படியென்ன குற்றச்சாட்டுகள்?” என மீசை படபடக்கக் கேட்டான்.
 
 சுந்தரலிங்கம் தொடர்ந்தான்.
 
@@ -37,4 +37,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - the final source quotation remains open at the physical page end and continues on scan55;
 - formal Part002 Pass 2A / Pass 2B / Pass 3 are not started; this record remains `needs-review`.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 54; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 43; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue and physical page-boundary comparison completed against the user-supplied Part002 source pixels;
+- source-text corrections: **1**;
+- correction applied: source `என மீசை படபடக்கக் கேட்டான்.` restored in place of `என மிகை படபடக்கக் கேட்டான்.`;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 54; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 43; PASS 1 + PASS 2A REVIEWED / needs-review -->

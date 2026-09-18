@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS — 20/30 REVIEWED**
+**PASS 2A — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisite:
 - Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -19,20 +19,19 @@ For every reviewed scan:
 - canonical Tamil was compared directly against the user-supplied rendered source pixels;
 - every source word, punctuation mark, paragraph/dialogue boundary and physical page-end state was checked;
 - source-specific spellings and variants were preserved without modernization;
-- only source-supported discrepancies may alter canonical text;
+- only source-supported discrepancies altered canonical text;
 - pages remain `needs-review`; final `verified` promotion is blocked until later whole-Part gates.
 
-## Current accounting
+## Final accounting
 
-- Pass 2A reviewed: **20/30 — scans31–50**
-- Pass 2A remaining: **10/30 — scans51–60**
-- source-text corrections in Batch 1: **0**
-- unresolved textual questions in Batch 1: **0**
-- source-text corrections in Batch 2: **3**
-- unresolved textual questions in Batch 2: **0**
-- cumulative source-text corrections through scan50: **3**
-- unresolved textual questions through scan50: **0**
-- Pass 2B / Pass 3: **NOT STARTED**
+- Pass 2A reviewed: **30/30 — scans31–60**
+- Pass 2A remaining: **0/30**
+- Batch 1 scans31–40 — **0 corrections; 0 unresolved**
+- Batch 2 scans41–50 — **3 corrections; 0 unresolved**
+- Batch 3 scans51–60 — **5 corrections; 0 unresolved**
+- cumulative Pass 2A source-text corrections — **8**
+- unresolved textual questions — **0**
+- Pass 2B / Pass 3 — **NOT STARTED**
 
 ## Batch 1 — scans31–40
 
@@ -68,31 +67,46 @@ For every reviewed scan:
 | 49 | 19 | 38 | `நாலு கால் மண்டபத்தில்!` | 0 |
 | 50 | 20 | 39 | chapter 6 `கண்டியின் வாரிசுப் போட்டி!` | 0 |
 
-## Durable source confirmations
+## Batch 3 — scans51–60
 
-Batch 1:
-- scan31 remains the audited continuation from scan30 and starts Part002 canonical content without altering Part001;
-- scan32→33 preserves the physical split `சுந்தர` → `லிங்கத்தைப்`;
-- scan34 closes the preceding scene with `“குருவிச்சி நாச்சியார்!”`;
-- scan35 visibly opens chapter **4 — `குருவிச்சி நாச்சியார்`**;
-- the source-specific place form **`வற்றாப்பாளை`** on scans35–37 remains preserved by occurrence and is not normalized to `வற்றாப்பளை`;
-- scan36→37 preserves `அவனிருந்த` → `இடம்`;
-- scan37→38 preserves `ஆடும் மகளிரில்` → `நாலைந்து...`;
-- scan38→39 preserves `மிரண்டுபோன` → `நிலையில்`;
-- scan39→40 preserves `சிறு பூச்சி` → `போல ஆனான்!`;
-- scan40 remains physically open at `எனவே அந்தப் பெரிய மணி ஓசை`, continuing to scan41;
-- representative source forms confirmed without correction include `அத்துப்படியா`, `பதவிச்சுகம்`, `வெள்ளை வெளேரென்று`, `திடீர்பிரவேசம்`, `தன்கை`, `தீராதி தீரன்`, and `குபுகுபுவென`.
+**COMPLETE / REVIEWED / PASS — 10 scans**
 
-Batch 2:
-- scan41 directly completes the already-audited page-level continuation from scan40; scan40 canonical text was not altered;
-- scan42 visibly opens chapter **5 — `நாலு கால் மண்டபத்தில்!`**;
-- scan43 source punctuation was restored as `என ஒருவன், கேட்டான்!`;
-- scan46 source `வருகிறார்களாம்-` was restored, and the source embrace-release wording was restored as `மன்னனின் தழுவலில் இருந்து மெதுவாகத் தன்னை விடுவித்துக்கொண்டே, “பரவாயில்லை!” என சமாளித்தான்.`;
-- scan48 preserves the source-visible unclosed terminal quotation state at the physical page end;
-- scan50 visibly opens chapter **6 — `கண்டியின் வாரிசுப் போட்டி!`** and ends physically with `பாஞ்சாலங்குறிச்சி`; no scan51 text was inferred or imported.
+| Global scan | Local page | Printed page | Section | Source-text corrections |
+|---:|---:|---:|---|---:|
+| 51 | 21 | 40 | `கண்டியின் வாரிசுப் போட்டி!` | 0 |
+| 52 | 22 | 41 | `கண்டியின் வாரிசுப் போட்டி!` | 0 |
+| 53 | 23 | 42 | `கண்டியின் வாரிசுப் போட்டி!` | 0 |
+| 54 | 24 | 43 | `கண்டியின் வாரிசுப் போட்டி!` | 1 |
+| 55 | 25 | 44 | `கண்டியின் வாரிசுப் போட்டி!` | 1 |
+| 56 | 26 | 45 | `கண்டியின் வாரிசுப் போட்டி!` | 0 |
+| 57 | 27 | 46 | chapter 7 `தீவுக்குள் தீயவர்கள்!` | 1 |
+| 58 | 28 | 47 | `தீவுக்குள் தீயவர்கள்!` | 0 |
+| 59 | 29 | 48–49 | `தீவுக்குள் தீயவர்கள்!` | 0 |
+| 60 | 30 | 50 | `தீவுக்குள் தீயவர்கள்!` | 2 |
+
+## Durable Batch-3 source confirmations
+
+- scan50→51 preserves the physical continuation `பாஞ்சாலங்குறிச்சி` → `முத்திரை பதித்ததுமான...`; scan50 itself was not altered by this batch;
+- scan52's source-visible open quotation continues onto scan53 without an inserted opening quote;
+- scan53→54 preserves the physical page-end fragment `வந்தவர்களை`;
+- scan54 source reads **`என மீசை படபடக்கக் கேட்டான்.`**; canonical `மிகை` was corrected;
+- scan55 source prints the title in double quotation marks as **`“பகதூர்”`**;
+- scan57 visibly opens chapter **7 — `தீவுக்குள் தீயவர்கள்!`** and source reads **`பாதைக்குமிடையிலே`**;
+- scan58→59 preserves `வந்தபோதுதான்` into the illustrated spread;
+- scan59 is one physical illustrated spread carrying printed pages **48–49**, read left page then right page;
+- scan59 printed page49 ends at `தெரிந்த காரணத்தால்`, continuing directly into scan60 `உங்களைத் திடீரெனத் தாக்கி...`;
+- scan60 source reads **`அவளும் மற்ற வீரர்களும்`**, not `அவனும்`;
+- scan60 source reads **`பண்டாரகனின் ஆட்சிப் பகுதிக்குள்ளும் தங்களின்...`**; unsupported `நுழைந்து` was removed;
+- outgoing **60→61 remains CLEAN / AUDITED**: scan60 ends a complete sentence; Part003 scan61 remains only the boundary witness and no Part003 canonical text was imported.
+
+## Pass 2A closure
+
+**PASS — 30/30 Part002 physical scans directly source-verified.**
+
+All Part002 page records remain `needs-review` pending Pass 2B and later gates.
 
 ## Exact next activity
 
-Perform **Part002 Pass 2A — global scans51–60 / local pages21–30**.
+Perform **Part002 Pass 2B — global scans31–40 / local pages1–10** as an independent lexical / historical-glyph reread under the historical Tamil glyph guide.
 
-Do not begin Pass 2B or Part003 transcription in the same iteration without another explicit continuation.
+Stop after that 10-scan batch. Do not begin Pass 2B scans41–50, Pass 3, or Part003 transcription without another explicit continuation.

@@ -11,7 +11,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans51–60"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans51–60; formal Part002 Pass 2A reviewed"
 ---
 
 # தீவுக்குள் தீயவர்கள்!
@@ -41,4 +41,12 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - no text from scan60 is inserted here;
 - formal Part002 Pass 2A / Pass 2B / Pass 3 are not started; this record remains `needs-review`.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 59; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 29; அச்சுப் பக்கங்கள்: 48–49; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue and physical page-boundary comparison completed against the user-supplied Part002 source pixels;
+- source-text corrections: **0**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 59; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 29; அச்சுப் பக்கங்கள்: 48–49; PASS 1 + PASS 2A REVIEWED / needs-review -->

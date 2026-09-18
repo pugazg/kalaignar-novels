@@ -10,14 +10,14 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans51–60"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans51–60; formal Part002 Pass 2A reviewed"
 ---
 
 # கண்டியின் வாரிசுப் போட்டி!
 
 ## Source transcription
 
-இராமலிங்க விலாசத்துக்குள் அமளி துமளி நடப்பதை அறிந்ததும் வெளியில் நிறை பாஞ்சாலங்குறிச்சிப் படையை உள்ளே வருமாறு பணித்துவிட்டோம். எமது படையின் மீது ஆங்கிலேயப் படையின் துப்பாக்கிக் குண்டுகள் மழையாகப் பொழிந்து கொண்டிருந்தன. அவற்றை வாளும், வேலும், கம்பும் கொண்டு எதிர்த்து வெளியேறினோம். அந்தப் போரில் வெள்ளையத் தேவன் காட்டிய திறமையையும் துணிவையும் கண்டு கட்டபொம்மன் அவருக்கு 'பகதூர்' என்ற பட்டத்தையே கொடுத்தபோது, என் நண்பருக்குக் கிடைத்த புகழ் கண்டு பூரித்துப் போனேன். வெள்ளையத் தேவன், தனக்கேற்பட்ட மகிழ்ச்சியில் என்னை வாரி அணைத்துத் தூக்கிக் கொண்டார். ஆனால் ஒன்று! அந்தத் திடீர்த்தாக்குதலில் எங்களுடன் இருந்த தானாபதிப் பிள்ளை மட்டும் அவர்களிடம் சிக்கிக்கொண்டார். பிறகு அவரை விடுதலை செய்து அனுப்பிவிட்டார்கள்.”
+இராமலிங்க விலாசத்துக்குள் அமளி துமளி நடப்பதை அறிந்ததும் வெளியில் நிறை பாஞ்சாலங்குறிச்சிப் படையை உள்ளே வருமாறு பணித்துவிட்டோம். எமது படையின் மீது ஆங்கிலேயப் படையின் துப்பாக்கிக் குண்டுகள் மழையாகப் பொழிந்து கொண்டிருந்தன. அவற்றை வாளும், வேலும், கம்பும் கொண்டு எதிர்த்து வெளியேறினோம். அந்தப் போரில் வெள்ளையத் தேவன் காட்டிய திறமையையும் துணிவையும் கண்டு கட்டபொம்மன் அவருக்கு “பகதூர்” என்ற பட்டத்தையே கொடுத்தபோது, என் நண்பருக்குக் கிடைத்த புகழ் கண்டு பூரித்துப் போனேன். வெள்ளையத் தேவன், தனக்கேற்பட்ட மகிழ்ச்சியில் என்னை வாரி அணைத்துத் தூக்கிக் கொண்டார். ஆனால் ஒன்று! அந்தத் திடீர்த்தாக்குதலில் எங்களுடன் இருந்த தானாபதிப் பிள்ளை மட்டும் அவர்களிடம் சிக்கிக்கொண்டார். பிறகு அவரை விடுதலை செய்து அனுப்பிவிட்டார்கள்.”
 
 சுந்தரலிங்கம் இதனைச் சொல்லி முடித்தபோது பண்டாரக வன்னியனின் முகத்தில் ஒளி பரவியது! தமிழ் மண்ணில் அந்நியர்களின் ஆதிக்கத்தை எவ்வளவு தியாக உணர்வுடனும் - வீர தீரத்துடனும் - நம்மவர் எதிர்த்து நிற்கிறார்கள் என எண்ணிப் பெருமிதம் கொண்டான்.
 
@@ -38,4 +38,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - source title `பகதூர்` and name form `இராஜாதி இராஜ சிங்கா` are retained exactly by occurrence;
 - formal Part002 Pass 2A / Pass 2B / Pass 3 are not started; this record remains `needs-review`.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 55; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 44; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue and physical page-boundary comparison completed against the user-supplied Part002 source pixels;
+- source-text corrections: **1**;
+- correction applied: source quotation punctuation restored as `“பகதூர்”` rather than ASCII single quotes;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 55; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 44; PASS 1 + PASS 2A REVIEWED / needs-review -->
