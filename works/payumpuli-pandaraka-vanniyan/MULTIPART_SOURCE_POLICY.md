@@ -1,135 +1,72 @@
 # Multipart Source Policy — பாயும்புலி பண்டாரக வன்னியன்
 
-This work follows the durable split-source pattern used by `works/kuraloviyam/` in `pugazg/kalaignar-literary-commentary`.
-
 ## Source family
 
 - source family: **TVA_BOK_0065744**
 - complete physical extent: **477 scans**
 - supplied working splits: **16 PDFs**
 - split-page total: **477**
-- aggregate split-file bytes: **456,282,569**
-- original monolithic PDF is not committed to Git
-- split PDFs are working sources and are not committed to Git
+- split PDFs remain outside Git.
 
 ## Canonical numbering rule
 
-Repository `scan_page` is always the **overall physical scan number 1–477**.
+Repository `scan_page` is always the **overall physical scan number 1–477** and never resets per split.
 
-It never restarts at 1 for a split PDF.
-
-Every canonical page record created from a split must carry:
-
-```yaml
-scan_page: <overall 1-477>
-part: <1-16>
-part_page: <local page inside split>
-source_filename: "<exact supplied split filename>"
-```
-
-Mapping:
-
-- `part_page = scan_page - part_start + 1`
-- `scan_page = part_start + part_page - 1`
-
-## Split manifest
-
-| Part | Overall scans | Local pages | Exact supplied filename | Intake state |
-|---:|---:|---:|---|---|
-| 001 | 1–30 | 30 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_001_pages_1-30.pdf` | supplied / registered |
-| 002 | 31–60 | 30 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf` | supplied / registered |
-| 003 | 61–90 | 30 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf` | supplied / registered |
-| 004 | 91–120 | 30 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_004_pages_91-120.pdf` | supplied / registered |
-| 005 | 121–150 | 30 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf` | supplied / registered |
-| 006 | 151–180 | 30 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf` | supplied / registered |
-| 007 | 181–210 | 30 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_007_pages_181-210.pdf` | supplied / registered |
-| 008 | 211–240 | 30 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_008_pages_211-240.pdf` | supplied / registered |
-| 009 | 241–270 | 30 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_009_pages_241-270.pdf` | supplied / registered |
-| 010 | 271–300 | 30 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_010_pages_271-300.pdf` | supplied / registered |
-| 011 | 301–330 | 30 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf` | supplied / registered |
-| 012 | 331–360 | 30 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_012_pages_331-360.pdf` | supplied / registered |
-| 013 | 361–390 | 30 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_013_pages_361-390.pdf` | supplied / registered |
-| 014 | 391–420 | 30 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf` | supplied / registered |
-| 015 | 421–450 | 30 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf` | supplied / registered |
-| 016 | 451–477 | 27 | `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf` | supplied / registered |
+Each canonical page record preserves:
+- `scan_page`
+- `part`
+- `part_page`
+- exact `source_filename`
 
 ## Boundary rule
 
-Split boundaries are physical-file boundaries only. They must never be treated as textual boundaries without visual evidence.
+Split boundaries are physical-file boundaries only.
 
-For every `N→N+1` Part boundary:
-
-1. inspect the last source scan of the earlier Part;
-2. inspect the first source scan of the next Part;
-3. classify the boundary as **CLEAN**, **GENUINE CONTINUATION**, or another source-supported state;
-4. do not reconstruct text across the split;
-5. if the current batch ends at a split boundary, the first page of the next Part may be used only as a boundary witness unless that next Part has become active.
-
-All 16 Parts are now supplied, so no boundary is blocked by missing source. Boundaries remain **unclassified until directly audited**.
-
-## Page-layer rule
-
-There is one unified canonical directory:
-
-`works/payumpuli-pandaraka-vanniyan/pages/`
-
-Do **not** create duplicate per-Part page trees. Filenames use the overall scan number.
-
-A page record's `part`, `part_page`, and `source_filename` preserve the split provenance.
+For every `N→N+1` boundary:
+1. inspect the final scan of the earlier Part;
+2. inspect the first scan of the next Part;
+3. classify as **CLEAN**, **GENUINE CONTINUATION**, or another source-supported state;
+4. never reconstruct text across the split;
+5. the next Part's first page may serve only as a witness until that Part becomes active.
 
 ## Workflow rule
 
-This work now follows the **Kuraloviyam per-Part closure model**. The split is an access/provenance device, not a content division.
-
-Permanent Part order:
-
-**source intake → Pass 1 complete transcription → Pass 2A direct textual verification → Pass 2B independent lexical/historical-glyph reread → Pass 3 visual/structural verification → Part audit → final status sync → documentation sync → Tamil archival-ready → assembled Tamil closure → English translation/review → release/readiness report → release-ready synchronization → final Part closure → next Part**
-
-A later Part may be supplied/registered and may serve as an adjacent boundary witness, but its transcription must not begin before the active Part's final closure.
-
-Authoritative work-specific guide:
-- `PAYUMPULI_ARCHIVAL_GUIDELINES.md`
+**source intake → Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → status sync → documentation sync → Tamil archival-ready → assembled Tamil → English → release/readiness → release-ready synchronization → final Part closure → next Part**
 
 ## Current state
 
-- 16 / 16 split PDFs: **SUPPLIED / REGISTERED**
-- 477 / 477 source pages accounted for by split ranges
-- **Part001: FINAL CLOSURE — PASS / CLOSED / FROZEN**
-- **active Part: Part002 / scans31–60**
-- Part002 canonical records: **30/30 present**
-- Part002 Pass 1 transcription: **30/30 TEXT-COMPLETE**
-- Part002 Pass 1 partial: **0/30**
-- Part002 Pass-1 closure hold: **60→61 direct boundary audit**
-- Part002 Pass 2A / Pass 2B / Pass 3: **NOT STARTED / BLOCKED**
-- Part002 assembled Tamil / English: **NOT STARTED**
-- split-boundary classifications: **1 / 15 audited — 30→31 GENUINE CONTINUATION**
-- 60→61: **PENDING DIRECT AUDIT**
-- Part003: **SUPPLIED / REGISTERED; transcription remains blocked behind Part002 final closure**
-- exact active gate: **60→61 boundary audit to close Part002 Pass 1**
+- 16 / 16 split PDFs — **SUPPLIED / REGISTERED**
+- Part001 — **FINAL CLOSURE / CLOSED / FROZEN**
+- active Part — **Part002 / scans31–60**
+- Part002 canonical records — **30/30**
+- Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Part002 Pass 2A — **NEXT / NOT STARTED**
+- Part002 Pass 2B / Pass 3 — **NOT STARTED**
+- Part003 — **SUPPLIED / REGISTERED / NOT ACTIVE**
+- split-boundary classifications — **2 / 15 audited**
 
-Part003 is durably registered, but its scan61 source pixels are not accessible in the current chat runtime. The boundary therefore remains unclassified rather than inferred from scan60 alone.
+Audited boundaries:
+- **30→31 — GENUINE CONTINUATION**
+- **60→61 — CLEAN**
+
+### Audited boundary — 60→61
+
+Part002 scan60 / printed50 and Part003 scan61 / printed51 were directly compared.
+
+Evidence:
+- scan60 ends a complete sentence;
+- scan61 starts a fresh quoted utterance;
+- printed pagination continues **50 → 51**;
+- no chapter heading appears at scan61;
+- no word/sentence reconstruction is needed across the split;
+- no Part003 canonical record was created.
+
+Durable record:
+- `PART_002_BOUNDARY_AUDIT_60_61.md`
 
 ## Batch-size policy
 
-Normal source iterations use **10 physical scans per batch**, with a shorter final remainder.
+Normal Tamil verification iterations use **10 physical scans per batch**.
 
-For Part002 Pass 1:
-- scans31–40 — **COMPLETE / TEXT-COMPLETE**
-- scans41–50 — **COMPLETE / TEXT-COMPLETE**
-- scans51–60 — **TEXT-COMPLETE**
-- total transcription coverage — **30/30**
-- formal Pass-1 closure — **HELD only on 60→61 direct boundary audit**
-
-All Part002 records remain `needs-review` until later formal verification gates.
-
-## Audited boundary — 30→31
-
-Part001 final page / overall scan30 and Part002 first page / overall scan31 were directly compared.
-
-Classification: **GENUINE CONTINUATION**.
-
-Evidence:
-- both pages remain in the same continuous body flow;
-- no new title/front-matter break appears at scan31;
-- visible printed pagination continues **19 → 20**;
-- no text is reconstructed across the split.
+Exact next gate:
+- **Part002 Pass 2A — scans31–40 / local1–10**

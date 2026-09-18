@@ -7,66 +7,51 @@
 - **LIVE MAIN IS AUTHORITATIVE.**
 - Active work: `works/payumpuli-pandaraka-vanniyan/`
 
-## Governing methodology
-
-Payumpuli follows the **Kuraloviyam per-Part closure methodology**.
-
 ## Source family
 
 - TVA_BOK_0065744
 - complete extent: **477 scans / 16 supplied Parts**
-- Parts001–015: 30 scans each; Part016: 27 scans
 - source PDFs remain outside Git
 - canonical `scan_page`: global **1–477**
 
 ## Part001 — FINAL CLOSED / FROZEN
 
-Part001 / global scans1–30 is fully closed.
-
 - final closure — **PASS / CLOSED**
-- unresolved blockers — **0**
 - 30→31 — **GENUINE CONTINUATION / AUDITED**
 - Tamil terminal text — `அவனுக்கு ஒரே மகிழ்ச்சி,`
 - English terminal text — **“He was filled with joy,”**
 
 ## Part002 — ACTIVE
 
-Source:
-`TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf`
-
-Current state:
-- canonical records — **30/30 — scans31–60**
-- Pass 1 transcription — **TEXT-COMPLETE 30/30**
-- Batch 1 scans31–40 — **COMPLETE**
-- Batch 2 scans41–50 — **COMPLETE**
-- Batch 3 scans51–60 — **TEXT-COMPLETE**
-- Pass-1 closure — **HOLD: 60→61 direct boundary audit**
-- Pass 2A / 2B / 3 — **NOT STARTED / BLOCKED**
+- global scans — **31–60**
+- canonical records — **30/30**
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- unresolved Pass-1 holds — **0**
+- Pass 2A — **NEXT / NOT STARTED**
+- Pass 2B / Pass 3 — **NOT STARTED**
 - assembled Tamil / English — **NOT STARTED**
+- 60→61 — **CLEAN / AUDITED**
 
-Tracker:
-`works/payumpuli-pandaraka-vanniyan/PART_002_PASS1_PROGRESS.md`
+60→61 audit:
+- scan60 / printed50 ends a complete sentence;
+- Part003 scan61 / printed51 begins a fresh quoted utterance;
+- printed pagination is 50→51;
+- no cross-boundary reconstruction was required;
+- scan60 needed **0 corrections**;
+- no Part003 canonical record was created.
 
-### Batch-3 durable details
+Durable record:
+`works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
-- scans51–56 continue chapter6 `கண்டியின் வாரிசுப் போட்டி!`
-- scan57 / printed46 opens chapter7 `தீவுக்குள் தீயவர்கள்!`
-- scan59 is one illustrated physical scan carrying printed pages **48–49**
-- scan60 / printed50 is Part002's final physical scan
-- scan50→51 and scan59→60 continuations were directly source-checked
-- no Part003 text has been imported
+## Part003
 
-### 60→61 hold
-
-- scan60 is directly inspected and text-complete;
-- Part003 is **SUPPLIED / REGISTERED**;
-- Part003 scan61 pixels are not accessible in the current chat runtime;
-- policy requires both adjacent source scans, so **60→61 remains PENDING DIRECT AUDIT**.
+- supplied / registered
+- scans61–90
+- **NOT ACTIVE**
+- transcription remains blocked until Part002 final closure.
 
 ## Exact next activity
 
-Make Part003 local page1 / global scan61 source pixels accessible and directly compare **scan60→61**.
+Perform **Part002 Pass 2A — global scans31–40 / local pages1–10**.
 
-If no scan60 correction is required, mark Part002 Pass 1 **30/30 COMPLETE / PASS** and synchronize controls.
-
-**Stop after Pass-1 closure. Do not begin Pass 2A without another explicit continuation.**
+**Stop after that 10-scan Pass-2A batch. Do not begin scans41–50 in the same iteration without another explicit continuation.**

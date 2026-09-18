@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**ACTIVE / AUTHORIZED — PASS 1 TEXT-COMPLETE 30/30 — CLOSURE HOLD: 60→61 BOUNDARY AUDIT**
+**ACTIVE / AUTHORIZED — PASS 1 COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 
 - local PDF pages: **30**
 - canonical overall scans: **31–60**
@@ -20,29 +20,25 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 ## Boundary state
 
 - incoming split boundary: **30→31 — GENUINE CONTINUATION / AUDITED**
-- outgoing split boundary: **60→61 — PENDING DIRECT AUDIT / CLOSURE HOLD**
+- outgoing split boundary: **60→61 — CLEAN / AUDITED**
 
-Part003 remains **SUPPLIED / REGISTERED** in repository controls. Its scan61 source pixels are not accessible in the current chat runtime, so no boundary state is inferred from scan60 alone.
+60→61 was directly checked against Part003 local1 / global61 / printed51. No reconstruction was required and scan60 needed **0 corrections**.
+
+Durable boundary record:
+- `PART_002_BOUNDARY_AUDIT_60_61.md`
 
 ## Current gate
 
 Part001 final closure is **PASS / CLOSED / FROZEN**.
 
 Part002:
-- canonical records — **30/30 — scans31–60**
-- Pass 1 transcription — **TEXT-COMPLETE 30/30**
-- Batch 1 scans31–40 — **COMPLETE**
-- Batch 2 scans41–50 — **COMPLETE**
-- Batch 3 scans51–60 — **TEXT-COMPLETE**
-- Pass-1 closure — **HELD only on 60→61 direct boundary audit**
-- Pass 2A / Pass 2B / Pass 3 — **NOT STARTED / BLOCKED**
+- canonical records — **30/30**
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- unresolved Pass-1 holds — **0**
+- Pass 2A — **NEXT / NOT STARTED**
+- Pass 2B / Pass 3 — **NOT STARTED**
 - assembled Tamil / English — **NOT STARTED**
-
-Durable tracker:
-- `PART_002_PASS1_PROGRESS.md`
 
 ## Exact next activity
 
-Access/render Part003 local page1 / global scan61, compare it directly with scan60, and classify **60→61**.
-
-Do not create a Part003 canonical record during the boundary-only audit. If no scan60 correction is required, close Part002 Pass 1 as **30/30 COMPLETE / PASS** and stop before Pass 2A.
+Perform **Part002 Pass 2A — global scans31–40 / local pages1–10** using the Part002 source only.

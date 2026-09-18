@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part002 60→61 boundary audit
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part002 Pass 2A scans31–40
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -7,36 +7,42 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 1. `HANDOVER.md`
 2. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
 3. `works/payumpuli-pandaraka-vanniyan/PART_002_PASS1_PROGRESS.md`
-4. `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_002.md`
-5. `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_003.md`
+4. `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
+5. `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_002.md`
 6. `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLICY.md`
+
+## Frozen Part001
+
+**PART001 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
 
 ## Part002 current state
 
 - canonical records — **30/30 — scans31–60**
-- Pass 1 transcription — **TEXT-COMPLETE 30/30**
-- Pass-1 closure — **HELD only on 60→61 direct boundary audit**
-- Pass 2A / 2B / 3 — **NOT STARTED / BLOCKED**
-- scan59 is one physical illustrated spread containing printed pages **48–49**
-- scan60 / printed50 is text-complete
-- no scan61 text has been imported or inferred.
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- unresolved Pass-1 holds — **0**
+- 30→31 — **GENUINE CONTINUATION / AUDITED**
+- 60→61 — **CLEAN / AUDITED**
+- Pass 2A — **NEXT / NOT STARTED**
+- Pass 2B / Pass 3 — **NOT STARTED**
 
-Part003 is durably **SUPPLIED / REGISTERED**, but its scan61 pixels were not accessible in the previous runtime.
+Part003 remains **REGISTERED / NOT ACTIVE**.
 
 ## Exact next activity
 
-Make `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf` accessible and inspect **Part003 local1 / global scan61** directly alongside scan60.
+Perform **Part002 Pass 2A direct textual verification for global scans31–40 / local pages1–10** using the user-supplied Part002 source.
 
-Classify **60→61** strictly from those two scans.
+For each page:
+- compare canonical Tamil directly against source pixels;
+- verify every word, punctuation mark, paragraph/dialogue boundary and physical page-end state;
+- correct only source-supported discrepancies;
+- preserve source-specific variants and historical glyph identity;
+- log corrections durably;
+- keep final `verified` promotion blocked until later whole-Part gates.
 
-Rules:
-- do not create a Part003 canonical transcription record;
-- do not import scan61 text into Part002;
-- if scan60 needs a source-fidelity correction, apply it before closure;
-- otherwise close Part002 Pass 1 as **30/30 COMPLETE / PASS** and synchronize controls.
+Update/create the Part002 Pass-2A tracker accordingly.
 
 ## Stop boundary
 
-After the boundary classification and Part002 Pass-1 closure, **STOP**.
+After scans31–40, synchronize controls and **STOP**.
 
-Do not begin Part002 Pass 2A without another explicit continuation.
+Do not begin scans41–50 or Pass 2B without another explicit continuation.

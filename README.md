@@ -10,18 +10,13 @@
 - working source: **16 split PDFs — all supplied / registered**
 - Part001 / scans1–30 — **FINAL CLOSURE PASS / CLOSED / FROZEN**
 - Part002 / scans31–60 — **ACTIVE**
-- Part002 canonical records — **30/30 — scans31–60**
-- Part002 Pass 1 transcription — **TEXT-COMPLETE 30/30**
-- Part002 Pass-1 closure — **HOLD: 60→61 direct boundary audit**
-- Part002 Pass 2A / 2B / 3 — **NOT STARTED / BLOCKED**
-- incoming boundary **30→31 = GENUINE CONTINUATION / AUDITED**
-- outgoing boundary **60→61 = PENDING DIRECT AUDIT**
+- Part002 canonical records — **30/30**
+- Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Part002 Pass 2A — **NEXT / NOT STARTED**
+- boundaries: **30→31 GENUINE CONTINUATION / AUDITED; 60→61 CLEAN / AUDITED**
+- Part003 — **REGISTERED / NOT ACTIVE**
 
-Part002 Batch3 covers scans51–60. Scan57 opens chapter7 `தீவுக்குள் தீயவர்கள்!`; scan59 contains printed pages **48–49** in one illustrated physical spread; scan60 carries printed page **50**.
-
-Exact next action: **make Part003 scan61 accessible, directly classify 60→61, then close Part002 Pass 1 if no scan60 correction is required.**
-
-Do not begin Pass 2A until formal Pass-1 closure.
+Exact next action: **Part002 Pass 2A for scans31–40 / local1–10.**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 

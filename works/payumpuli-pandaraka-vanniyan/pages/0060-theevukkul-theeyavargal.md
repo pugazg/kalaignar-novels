@@ -36,9 +36,12 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 ## Pass 1 notes
 
 - complete printed Tamil text on Part002's final physical scan was transcribed directly from the supplied source pixels;
-- scan59 printed page 49 → scan60 printed page 50 directly continues `தெரிந்த காரணத்தால்` into `உங்களைத் திடீரெனத் தாக்கி...`;
-- scan60 ends with a complete source sentence; **no 60→61 boundary classification is inferred from this fact alone**;
-- Part003 scan61 is required as the adjacent witness before the split boundary can be classified;
+- scan59 printed page49 → scan60 printed page50 directly continues `தெரிந்த காரணத்தால்` into `உங்களைத் திடீரெனத் தாக்கி...`;
+- direct adjacent-source audit compared this scan with Part003 local1 / global61 / printed51;
+- **60→61 = CLEAN / AUDITED**: scan60 ends a complete sentence and scan61 begins a fresh quoted utterance;
+- no word/sentence reconstruction was required across the split;
+- scan60 source-text corrections from the boundary audit: **0**;
+- no Part003 canonical record or scan61 transcription was imported;
 - formal Part002 Pass 2A / Pass 2B / Pass 3 are not started; this record remains `needs-review`.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 60; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 30; அச்சுப் பக்கம்: 50; PASS 1 TEXT-COMPLETE / needs-review -->
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 60; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 30; அச்சுப் பக்கம்: 50; PASS 1 COMPLETE / needs-review -->

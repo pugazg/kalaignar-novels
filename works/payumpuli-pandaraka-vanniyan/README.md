@@ -7,13 +7,9 @@
 **Working source:** 16 split PDFs — all supplied / registered  
 **Source PDFs in repository:** No
 
-## Methodology
-
-This work follows the Kuraloviyam per-Part closure model. A Part must finish Tamil, assembled Tamil, English, release/readiness, synchronization and final closure before the next Part receives transcription work.
-
 ## Part001 — FINAL CLOSED / FROZEN
 
-Part001 / scans1–30 is fully closed. 30→31 is **GENUINE CONTINUATION / AUDITED**.
+Part001 / scans1–30 is fully closed.
 
 ## Part002 — ACTIVE
 
@@ -21,32 +17,31 @@ Controlling source:
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf`
 
 - canonical records — **30/30 — scans31–60**
-- Pass 1 transcription — **TEXT-COMPLETE 30/30**
-- Pass-1 closure — **HOLD: 60→61 direct boundary audit**
-- Pass 2A / 2B / 3 — **NOT STARTED / BLOCKED**
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- unresolved Pass-1 holds — **0**
+- Pass 2A — **NEXT / NOT STARTED**
+- Pass 2B / Pass 3 — **NOT STARTED**
 - assembled Tamil / English — **NOT STARTED**
 - incoming 30→31 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 60→61 — **PENDING DIRECT AUDIT**
+- outgoing 60→61 — **CLEAN / AUDITED**
 
-### Pass-1 coverage
+Pass-1 batches:
+- scans31–40 — COMPLETE
+- scans41–50 — COMPLETE
+- scans51–60 — COMPLETE
 
-- Batch 1 — scans31–40 — COMPLETE
-- Batch 2 — scans41–50 — COMPLETE
-- Batch 3 — scans51–60 — TEXT-COMPLETE
+Notable structure:
 - scan57 opens chapter7 `தீவுக்குள் தீயவர்கள்!`
-- scan59 is a single physical illustrated spread containing printed pages **48–49**
+- scan59 is one illustrated physical spread carrying printed pages **48–49**
 - scan60 carries printed page **50**
 
-All Part002 page records remain `needs-review`.
+Durable boundary record:
+- `PART_002_BOUNDARY_AUDIT_60_61.md`
 
-## 60→61 closure hold
+## Part003
 
-Part003 is **SUPPLIED / REGISTERED** by repository intake, but its scan61 pixels are not accessible in the current chat runtime. The boundary is therefore not inferred from scan60 alone.
-
-No Part003 canonical record has been created and no scan61 text has been imported.
+Part003 / scans61–90 is **SUPPLIED / REGISTERED / NOT ACTIVE**. Scan61 was used only as the 60→61 witness. No canonical Part003 page record was created.
 
 ## Exact next activity
 
-Access/render Part003 local page1 / global scan61 and directly classify **60→61** against scan60.
-
-If no scan60 correction is needed, close Part002 Pass 1 as **30/30 COMPLETE / PASS**. Stop before Pass 2A.
+**Part002 Pass 2A — scans31–40 / local pages1–10.**
