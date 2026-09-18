@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS — 10/30 REVIEWED**
+**PASS 2B — IN PROGRESS — 20/30 REVIEWED**
 
 Prerequisites:
 - Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -30,11 +30,14 @@ Pages remain `needs-review`. Final `verified` status is not assigned during Pass
 
 ## Current accounting
 
-- Pass 2B reviewed: **10/30 — scans31–40**
-- Pass 2B remaining: **20/30 — scans41–60**
+- Pass 2B reviewed: **20/30 — scans31–50**
+- Pass 2B remaining: **10/30 — scans51–60**
 - historical-glyph corrections in Batch 1: **0**
 - other lexical / punctuation corrections in Batch 1: **0**
 - unresolved historical-glyph identities in Batch 1: **0**
+- historical-glyph corrections in Batch 2: **0**
+- other lexical / punctuation corrections in Batch 2: **0**
+- unresolved historical-glyph identities in Batch 2: **0**
 - Pass 3: **NOT STARTED**
 
 ## Batch 1 — scans31–40
@@ -54,6 +57,23 @@ Pages remain `needs-review`. Final `verified` status is not assigned during Pass
 | 39 | 9 | 28 | `குருவிச்சி நாச்சியார்` | 0 | 0 |
 | 40 | 10 | 29 | `குருவிச்சி நாச்சியார்` | 0 | 0 |
 
+## Batch 2 — scans41–50
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+| Global scan | Local page | Printed page | Section | Historical-glyph corrections | Other corrections |
+|---:|---:|---:|---|---:|---:|
+| 41 | 11 | 30 | `குருவிச்சி நாச்சியார்` | 0 | 0 |
+| 42 | 12 | 31 | chapter 5 `நாலு கால் மண்டபத்தில்!` | 0 | 0 |
+| 43 | 13 | 32 | `நாலு கால் மண்டபத்தில்!` | 0 | 0 |
+| 44 | 14 | 33 | `நாலு கால் மண்டபத்தில்!` | 0 | 0 |
+| 45 | 15 | 34 | `நாலு கால் மண்டபத்தில்!` | 0 | 0 |
+| 46 | 16 | 35 | `நாலு கால் மண்டபத்தில்!` | 0 | 0 |
+| 47 | 17 | 36 | `நாலு கால் மண்டபத்தில்!` | 0 | 0 |
+| 48 | 18 | 37 | `நாலு கால் மண்டபத்தில்!` | 0 | 0 |
+| 49 | 19 | 38 | `நாலு கால் மண்டபத்தில்!` | 0 | 0 |
+| 50 | 20 | 39 | chapter 6 `கண்டியின் வாரிசுப் போட்டி!` | 0 | 0 |
+
 ## Representative confirmed historical families
 
 Across scans31–40, enlarged-source reread positively confirmed representative forms including:
@@ -65,7 +85,17 @@ Across scans31–40, enlarged-source reread positively confirmed representative 
 - `றா` — `இளைப்பாறுவதற்கு`
 - `னை` — `அனைவருமே`, `தன்னை`, `யானை`
 
-No occurrence in this batch required a historical-glyph identity change, lexical correction, punctuation correction or unresolved hold.
+No occurrence in Batch 1 required a historical-glyph identity change, lexical correction, punctuation correction or unresolved hold.
+
+Across scans41–50, enlarged-source reread also confirmed representative forms including:
+
+- `றா` — `குதிரையிலிருந்தவாறே`
+- `ணை` — `இணையாக`, `இணை பிரியாத`
+- `லை` — `சிலையை`, `நிலவின்`, `மடலை`
+- `ளை` — `அவளை`, `கண்ணிமைகளை`, `வளைந்து`, `வாள்கொண்டு`, `வெள்ளையத்தேவன்`, `முள்ளியவளைப்`
+- `னை` — `யானை`, `தன்னை`, `மனைவிதானே`, `அனைத்தையும்`
+
+No occurrence in Batch 2 required a historical-glyph identity change, lexical correction, punctuation correction or unresolved hold.
 
 ## Batch-1 continuity confirmations
 
@@ -79,6 +109,6 @@ No occurrence in this batch required a historical-glyph identity change, lexical
 
 ## Exact next activity
 
-Perform **Part002 Pass 2B — global scans41–50 / local pages11–20**.
+Perform **Part002 Pass 2B — global scans51–60 / local pages21–30**.
 
-Stop after that 10-scan batch. Do not begin Pass 2B scans51–60, Pass 3, or Part003 transcription without another explicit continuation.
+Stop after that 10-scan batch. Do not begin Pass 3 or Part003 transcription without another explicit continuation.

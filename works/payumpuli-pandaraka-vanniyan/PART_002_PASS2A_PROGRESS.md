@@ -31,7 +31,7 @@ For every reviewed scan:
 - Batch 3 scans51–60 — **5 corrections; 0 unresolved**
 - cumulative Pass 2A source-text corrections — **8**
 - unresolved textual questions — **0**
-- Pass 2B — **IN PROGRESS — 10/30 REVIEWED**
+- Pass 2B — **IN PROGRESS — 20/30 REVIEWED**
 - Pass 3 — **NOT STARTED**
 
 ## Batch 1 — scans31–40
@@ -108,6 +108,6 @@ All Part002 page records remain `needs-review` pending Pass 2B and later gates.
 
 ## Exact next activity
 
-Perform **Part002 Pass 2B — global scans41–50 / local pages11–20** as an independent lexical / historical-glyph reread under the historical Tamil glyph guide.
+Perform **Part002 Pass 2B — global scans51–60 / local pages21–30** as an independent lexical / historical-glyph reread under the historical Tamil glyph guide.
 
-Stop after that 10-scan batch. Do not begin Pass 2B scans51–60, Pass 3, or Part003 transcription without another explicit continuation.
+Stop after that 10-scan batch. Do not begin Pass 3 or Part003 transcription without another explicit continuation.
