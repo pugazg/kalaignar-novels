@@ -84,11 +84,13 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part003 Tamil archival-ready: PASS / CLOSED**
 - **Part003 assembled Tamil: PASS / CLOSED — 5/5 section files VERIFIED**
 - **Part003 English planning/setup: COMPLETE / PASS**
-- **Part003 English translated/source-checked: 0/5**
-- **Part003 E10: NEXT / scans61–64**
+- **Part003 English translated/source-checked: 5/5**
+- **Part003 E10–E14: SOURCE-CHECKED / COMPLETE**
+- **Part003 unresolved English holds: 0**
+- **Part003 glossary reconciliation: NEXT / NOT STARTED**
 
 ## Exact next gate
 
-Perform **Part003 E10 — draft + source-check — scans61–64**.
+Perform **Part003 whole-Part English glossary reconciliation** across E10–E14 / scans61–90.
 
-Do not begin E11 until E10 is SOURCE-CHECKED / COMPLETE. Do not reopen verified Tamil or begin Part004 transcription.
+Do not begin editorial review until reconciliation closes. Do not reopen verified Tamil or begin Part004 transcription.

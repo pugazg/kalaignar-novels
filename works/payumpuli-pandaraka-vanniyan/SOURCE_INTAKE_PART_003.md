@@ -53,11 +53,13 @@ Part003 is therefore:
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
 - English planning/setup — **COMPLETE / PASS**
-- English translated/source-checked files — **0/5**
-- E10 — **NEXT / scans61–64**
+- English translated/source-checked files — **5/5**
+- E10–E14 — **SOURCE-CHECKED / COMPLETE**
+- unresolved English holds — **0**
+- English glossary reconciliation — **NEXT / NOT STARTED**
 - incoming 60→61 — **CLEAN / AUDITED**
 - outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
 
 ## Exact next activity
 
-Perform **Part003 E10 — draft + source-check — scans61–64**.
+Perform **Part003 whole-Part English glossary reconciliation** across E10–E14.

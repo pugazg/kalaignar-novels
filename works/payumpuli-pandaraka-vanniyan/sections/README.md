@@ -110,12 +110,14 @@ Part003:
 - assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
 - canonical scans represented — **30/30**
 - English planning/setup — **COMPLETE / PASS**
-- English translated/source-checked — **0/5**
-- E10 — **NEXT / scans61–64**
+- English translated/source-checked — **5/5**
+- E10–E14 — **SOURCE-CHECKED / COMPLETE**
+- unresolved English holds — **0**
+- glossary reconciliation — **NEXT / NOT STARTED**
 - Part004 — **BLOCKED**
 
 ## Exact next activity
 
-Perform **Part003 E10 — draft + source-check** for assembled section 13 / scans61–64.
+Perform **Part003 whole-Part English glossary reconciliation** across E10–E14.
 
 Do not modify the verified Part003 assembled Tamil bodies. Do not begin Part004 transcription.

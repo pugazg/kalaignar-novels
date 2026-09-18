@@ -128,6 +128,6 @@ No blocker remains for the Part-audit gate.
 
 ## Exact next activity
 
-Perform **Part003 English translation planning/setup**.
+Perform **Part003 whole-Part English glossary reconciliation** across E10–E14.
 
-Do not draft English prose in the setup gate. Do not modify verified canonical or assembled Tamil, and do not begin Part004 transcription.
+Current downstream state: E10–E14 are **SOURCE-CHECKED / COMPLETE — 5/5** with **0 unresolved English holds**. Do not begin editorial review or Part004 transcription until glossary reconciliation closes.

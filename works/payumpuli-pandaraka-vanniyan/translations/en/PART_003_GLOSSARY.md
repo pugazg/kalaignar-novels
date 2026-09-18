@@ -1,6 +1,6 @@
 # Part 003 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **ACTIVE — INITIAL PLANNING LOCK / E10 NEXT**
+Status: **ACTIVE — E10–E14 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 This glossary is derived only from verified Part003 canonical/assembled Tamil plus already-closed Part001/Part002 project English choices where the **same Tamil source form** recurs.
 
@@ -120,16 +120,81 @@ After all five Part003 English batches are source-checked, reconcile recurring n
 
 Canonical Tamil is never changed merely to enforce English consistency.
 
-## Planning status
+## E10–E14 source-check additions
 
-- E10–E14 prose drafted — **0/5**
-- source-checked English files — **0/5**
-- unresolved planning holds — **0**
-- canonical Tamil edits caused by planning — **0**
-- assembled Tamil edits caused by planning — **0**
+### E10 — scans61–64
+
+Confirmed:
+- inherited **Pandara / Pandaraka Vanniyan** distinction;
+- **Kuruvichchi Naachchi / Kuruvii**;
+- **Sundaralingam / Sundaralinga Kudumbar**;
+- **Vellaiyathevan / Kattabomman / Sangili Thatha / Sangili Thalapathi**;
+- source metaphor `மலர்ப்படுக்கை` retained as **flower-bed** rather than replaced by an explanatory paraphrase;
+- `வைர முத்து` in Pandaraka's boast rendered source-facing as **Vaira Muthu**.
+
+E10 unresolved glossary holds — **0**.
+
+### E11 — scans65–72
+
+Confirmed:
+- `காக்கை வன்னியன்` → **Kaakkai Vanniyan**;
+- `காரிக்கட்டு மூலை அரண்மனை` → **Kaarikkattu Moolai Palace**;
+- `வன்னிப் பிரதேசம்` → **Vanni region**;
+- `தங்கநாச்சி / தங்கநாச்சியம்மை` → **Thanga Naachchi / Thanga Naachchiyammai**;
+- `குலசேகரம் வைரமுத்து` → **Kulasekaram Vairamuthu**;
+- source-sensitive **British soldiers / white men** retained by occurrence.
+
+E11 unresolved glossary holds — **0**.
+
+### E12 — scans73–79
+
+Confirmed:
+- title `முத்து மாளிகை!` → **Muthu Maaligai!**;
+- recurring **Vattrappalai / Kannagi Amman / Visaka festival**;
+- `பனங்கிழங்கு` → **palmyra tuber**;
+- `அவ்வைக் கிழங்கு` → ***avvai kizhangu***, retained source-facing without external botanical identification.
+
+E12 unresolved glossary holds — **0**.
+
+### E13 — scans80–87
+
+Confirmed:
+- title `சிலந்தி வலையோ? சிறிய பூச்சியோ?` → **A Spider's Web? A Small Insect?**;
+- `ஒல்லாந்தர்` → **Ollandars / Dutch** in the source's own contrast;
+- `சங்க இலக்கியம்` → **Sangam literature**;
+- `புறநானூறு` → **Purananuru**;
+- `குருகுலம்` → ***gurukulam***;
+- source-facing **Sakthi Devi / Kali / Mahishasura**;
+- `படித்துறை` → **waterside steps** by local context;
+- `காக்கைக் கோட்டை` → **Kaakkai's fort**.
+
+E13 unresolved glossary holds — **0**.
+
+### E14 — scans88–90
+
+Confirmed:
+- title `அதிகாரி வழங்கிய ஆலோசனை` → **The Officer's Advice**;
+- `ஆங்கிலேய அதிகாரி` → **British officer**;
+- **Kattabomman / Ettappan** retained as source-facing personal forms;
+- `தானைத் தளபதி` → **army commander**;
+- `துணைத் தளபதி` → **deputy commander**;
+- source shorthand `பாஞ்சைப் படை` → **Panchai army**;
+- scan90's open terminal `என்னைப்` remains an intentionally incomplete English ending; scan91 is not imported.
+
+E14 unresolved glossary holds — **0**.
+
+## Drafting/source-check status
+
+- E10–E14 prose drafted — **5/5**
+- source-checked English files — **5/5**
+- unresolved per-batch English holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
 - frozen Part001/Part002 English body edits — **0**
 - Part004 leakage — **0**
 
 ## Exact next gate
 
-**E10 — draft + source-check — section 13 / scans61–64.**
+**Part003 whole-Part English glossary reconciliation.**
+
+Do not begin editorial review until reconciliation closes.

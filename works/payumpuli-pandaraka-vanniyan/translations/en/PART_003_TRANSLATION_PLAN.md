@@ -1,6 +1,6 @@
 # Part 003 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING / SETUP — COMPLETE / PASS — E10 NEXT**
+Status: **E10–E14 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 This is the control plan for the project-created English translation of **Part003 only**.
 
@@ -148,11 +148,11 @@ Continue English batch numbering after frozen Part002 E5–E9.
 
 | Batch | Tamil assembled coverage | Scans | English state |
 |---|---|---:|---|
-| **E10** | section 13 — chapter 7 continuation `தீவுக்குள் தீயவர்கள்!` | **61–64** | **NOT STARTED** |
-| **E11** | section 14 — `காக்கை வன்னியன்!` | **65–72** | **NOT STARTED** |
-| **E12** | section 15 — `முத்து மாளிகை!` | **73–79** | **NOT STARTED** |
-| **E13** | section 16 — `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | **80–87** | **NOT STARTED** |
-| **E14** | section 17 — `அதிகாரி வழங்கிய ஆலோசனை` | **88–90** | **NOT STARTED** |
+| **E10** | section 13 — chapter 7 continuation `தீவுக்குள் தீயவர்கள்!` | **61–64** | **SOURCE-CHECKED / COMPLETE** |
+| **E11** | section 14 — `காக்கை வன்னியன்!` | **65–72** | **SOURCE-CHECKED / COMPLETE** |
+| **E12** | section 15 — `முத்து மாளிகை!` | **73–79** | **SOURCE-CHECKED / COMPLETE** |
+| **E13** | section 16 — `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | **80–87** | **SOURCE-CHECKED / COMPLETE** |
+| **E14** | section 17 — `அதிகாரி வழங்கிய ஆலோசனை` | **88–90** | **SOURCE-CHECKED / COMPLETE** |
 
 Each batch must complete **draft + source-check** before the next batch becomes active.
 
@@ -207,15 +207,32 @@ Created active Part003 controls:
 - `PART_003_PROGRESS.md`
 - updated English workspace `README.md`
 
-English prose drafted in this planning/setup gate — **0 files / 0 sections**.
+## E10–E14 drafting/source-check closure
 
-Canonical Tamil changes — **0**.  
-Assembled Tamil body changes — **0**.  
-Frozen Part001/Part002 English body changes — **0**.  
-Part004 content leakage — **0**.
+All five Part003 English batches are now **SOURCE-CHECKED / COMPLETE**.
+
+- E10 — scans61–64 — **PASS**
+- E11 — scans65–72 — **PASS**
+- E12 — scans73–79 — **PASS**
+- E13 — scans80–87 — **PASS**
+- E14 — scans88–90 — **PASS**
+- translated files — **5/5**
+- source-checked files — **5/5**
+- unresolved English holds — **0**
+- canonical Tamil changes — **0**
+- assembled Tamil body changes — **0**
+- frozen Part001/Part002 English body changes — **0**
+- Part004 leakage — **0**
+
+Durable source-check records:
+- `E10_SOURCE_CHECK.md`
+- `E11_SOURCE_CHECK.md`
+- `E12_SOURCE_CHECK.md`
+- `E13_SOURCE_CHECK.md`
+- `E14_SOURCE_CHECK.md`
 
 ## Exact next activity
 
-Perform **Part003 E10 — draft + source-check** for section 13 / scans61–64.
+Perform **Part003 whole-Part English glossary reconciliation** across E10–E14.
 
-Do not begin E11 until E10 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin editorial review until glossary reconciliation closes.

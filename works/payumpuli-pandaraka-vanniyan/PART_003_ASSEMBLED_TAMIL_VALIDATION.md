@@ -161,3 +161,23 @@ Part003 English planning/setup subsequently completed:
 Current next gate:
 
 **E10 — draft + source-check — scans61–64.**
+
+
+## Post-planning E10–E14 drafting/source-check state
+
+The earlier Tamil gate in this file remains closed and authoritative.
+
+Part003 English subsequently completed all five planned drafting/source-check batches:
+
+- E10–E14 — **SOURCE-CHECKED / COMPLETE**
+- translated/source-checked files — **5/5**
+- source coverage — **scans61–90**
+- unresolved English holds — **0**
+- canonical Tamil changes caused by English — **0**
+- assembled Tamil body changes caused by English — **0**
+- frozen Part001/Part002 English body changes — **0**
+- Part004 leakage — **0**
+
+Current next gate:
+
+**Part003 whole-Part English glossary reconciliation.**

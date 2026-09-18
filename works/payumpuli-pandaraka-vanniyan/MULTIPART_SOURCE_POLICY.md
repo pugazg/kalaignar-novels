@@ -53,8 +53,10 @@ For every `N→N+1` boundary:
 - Part003 Tamil archival-ready — **PASS / CLOSED**
 - Part003 assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
 - Part003 English planning/setup — **COMPLETE / PASS**
-- Part003 English translated/source-checked — **0/5**
-- Part003 E10 — **NEXT / scans61–64**
+- Part003 English translated/source-checked — **5/5**
+- Part003 E10–E14 — **SOURCE-CHECKED / COMPLETE**
+- Part003 unresolved English holds — **0**
+- Part003 glossary reconciliation — **NEXT / NOT STARTED**
 - Part004 transcription — **BLOCKED**
 - split-boundary classifications — **3 / 15 audited**
 
@@ -72,6 +74,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part003 E10 — draft + source-check — scans61–64.**
+**Part003 whole-Part English glossary reconciliation — E10–E14 / scans61–90.**
 
 Part001 and Part002 remain frozen. Do not begin Part004 transcription until the full Part003 closure chain completes.

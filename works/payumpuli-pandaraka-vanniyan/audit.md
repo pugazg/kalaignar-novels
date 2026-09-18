@@ -797,3 +797,36 @@ The derived English control layer for Part003 is now initialized without draftin
 Current next gate:
 
 **Part003 E10 — draft + source-check — scans61–64.**
+
+
+## Part003 English E10–E14 drafting/source-check — COMPLETE
+
+At the user's instruction to process all 30 Part003 pages, the five planned English batches were completed in sequence from the verified assembled Tamil layer:
+
+- E10 — section13 / scans61–64 — **SOURCE-CHECKED / COMPLETE**
+- E11 — section14 / scans65–72 — **SOURCE-CHECKED / COMPLETE**
+- E12 — section15 / scans73–79 — **SOURCE-CHECKED / COMPLETE**
+- E13 — section16 / scans80–87 — **SOURCE-CHECKED / COMPLETE**
+- E14 — section17 / scans88–90 — **SOURCE-CHECKED / COMPLETE**
+
+Cumulative:
+- translated English files — **5/5**
+- source-checked English files — **5/5**
+- source coverage — **scans61–90**
+- unresolved per-batch English holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil body edits — **0**
+- frozen Part001/Part002 English body edits — **0**
+- Part004 leakage — **0**
+- outgoing 90→91 GENUINE CONTINUATION retained without importing or translating scan91
+
+Durable source-checks:
+- `translations/en/E10_SOURCE_CHECK.md`
+- `translations/en/E11_SOURCE_CHECK.md`
+- `translations/en/E12_SOURCE_CHECK.md`
+- `translations/en/E13_SOURCE_CHECK.md`
+- `translations/en/E14_SOURCE_CHECK.md`
+
+Current next gate:
+
+**Part003 whole-Part English glossary reconciliation.**

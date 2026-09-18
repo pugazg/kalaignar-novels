@@ -150,8 +150,10 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - Part003 Tamil archival-ready — **PASS / CLOSED**
 - Part003 assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
 - Part003 English planning/setup — **COMPLETE / PASS**
-- Part003 English translated/source-checked files — **0/5**
-- Part003 E10 — **NEXT / scans61–64**
+- Part003 English translated/source-checked files — **5/5**
+- Part003 E10–E14 — **SOURCE-CHECKED / COMPLETE**
+- Part003 unresolved English holds — **0**
+- Part003 glossary reconciliation — **NEXT / NOT STARTED**
 - Part004 transcription — **BLOCKED**
 - audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION**
 - terminal page function for complete 477-scan source — **not yet visually audited**
@@ -178,6 +180,6 @@ Durable rule:
 
 ## Exact next activity
 
-Perform **Part003 E10 — draft + source-check — scans61–64** from the closed assembled Tamil layer.
+Perform **Part003 whole-Part English glossary reconciliation** across E10–E14 from the closed source-checked English layer.
 
 Do not reopen the source PDF or begin Part004 transcription.

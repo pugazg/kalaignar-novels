@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part003 E10
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part003 English Glossary Reconciliation
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,58 +6,56 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 1. `HANDOVER.md`
 2. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
-3. `works/payumpuli-pandaraka-vanniyan/PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
-4. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_TRANSLATION_PLAN.md`
-5. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_GLOSSARY.md`
-6. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_PROGRESS.md`
-7. `works/payumpuli-pandaraka-vanniyan/sections/13-theevukkul-theeyavargal-part003.md`
-8. relevant canonical pages scans61–64 if a source-alignment check is needed
+3. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_TRANSLATION_PLAN.md`
+4. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_GLOSSARY.md`
+5. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_PROGRESS.md`
+6. `works/payumpuli-pandaraka-vanniyan/translations/en/E10_SOURCE_CHECK.md` through `E14_SOURCE_CHECK.md`
+7. maintained Part003 English files `translations/en/sections/13-*.md` through `17-*.md`
+8. frozen Part001/Part002 glossaries as precedent only
 
 ## Frozen authority
 
 Part001 — **FINAL CLOSED / FROZEN**.  
 Part002 — **FINAL CLOSED / FROZEN**.
 
-Do not modify their canonical Tamil, assembled Tamil or maintained English body files.
-
-Part003 canonical Tamil and assembled Tamil are also closed:
-- scans61–90 — **30/30 verified**
-- Tamil archival-ready — **PASS / CLOSED**
+Part003 Tamil is also closed:
+- canonical Tamil — **30/30 verified**
 - assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
 
-## Active English state
+Do not modify canonical or assembled Tamil merely for English consistency.
+
+## Part003 English state
 
 - planning/setup — **COMPLETE / PASS**
-- active batches — **E10–E14**
-- translated/source-checked files — **0/5**
-- E10 — **NEXT**
-- E11–E14 — **NOT STARTED**
+- E10 — scans61–64 — **SOURCE-CHECKED / COMPLETE**
+- E11 — scans65–72 — **SOURCE-CHECKED / COMPLETE**
+- E12 — scans73–79 — **SOURCE-CHECKED / COMPLETE**
+- E13 — scans80–87 — **SOURCE-CHECKED / COMPLETE**
+- E14 — scans88–90 — **SOURCE-CHECKED / COMPLETE**
+- translated/source-checked files — **5/5**
+- unresolved per-batch English holds — **0**
 - incoming 60→61 — **CLEAN / AUDITED**
 - outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
+- Part004 leakage — **0**
 
 ## Exact activity
 
-Perform **E10 draft + source-check** for:
+Perform **Part003 whole-Part English glossary reconciliation** across all five maintained English files.
 
-- Tamil assembled source: `sections/13-theevukkul-theeyavargal-part003.md`
-- scans: **61–64**
-- planned English file: `translations/en/sections/13-evildoers-on-the-island-part003.md`
-- source-check record: `translations/en/E10_SOURCE_CHECK.md`
+Check recurring names, titles, places, source-facing vocabulary, political/military labels, deliberate Tamil variants, chapter-title handling, and Part-boundary integrity.
 
-Requirements:
-- translate only from verified project Tamil;
-- preserve paragraph/dialogue order, agency, rhetoric and source register;
-- inherit frozen glossary forms only for the same Tamil source forms;
-- record any E10-only terminology in `PART_003_GLOSSARY.md`;
-- preserve 60→61 CLEAN as provenance only; do not import Part002 English;
-- do not silently alter canonical or assembled Tamil;
-- source-check the complete E10 English against scans61–64 / assembled section13 before closure;
-- unresolved ambiguity must be logged as a hold rather than guessed;
-- update `PART_003_PROGRESS.md`, English `README.md`, handover and live controls only after E10 passes.
+Rules:
+- preserve deliberate source-derived distinctions rather than cosmetically normalizing them;
+- normalize only accidental English drift;
+- do not silently change Tamil;
+- do not import external historical/geographic/social explanation;
+- retain E14's open terminal boundary and do not import scan91;
+- create `translations/en/PART_003_GLOSSARY_RECONCILIATION.md`;
+- update active Part003 English controls after reconciliation.
 
 ## Stop rule
 
-Stop after **E10 — SOURCE-CHECKED / COMPLETE**.
+Stop after **PART003 WHOLE-PART GLOSSARY — RECONCILED / PASS**.
 
-Do not begin E11 in the same iteration.  
+Do not begin editorial review in the same iteration.  
 Do not begin Part004 transcription.

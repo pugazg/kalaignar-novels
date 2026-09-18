@@ -159,11 +159,11 @@ Expected Tamil assembled inputs:
 
 | Tamil file | Planned English file | Scans | Batch | State |
 |---|---|---:|---|---|
-| `../../sections/13-theevukkul-theeyavargal-part003.md` | `sections/13-evildoers-on-the-island-part003.md` | 61–64 | E10 | **NOT STARTED** |
-| `../../sections/14-kaakkai-vanniyan.md` | `sections/14-kaakkai-vanniyan.md` | 65–72 | E11 | **NOT STARTED** |
-| `../../sections/15-muthu-maaligai.md` | `sections/15-muthu-maaligai.md` | 73–79 | E12 | **NOT STARTED** |
-| `../../sections/16-silandhi-valaiyo-siriya-poochchiyo.md` | `sections/16-a-spiders-web-a-small-insect.md` | 80–87 | E13 | **NOT STARTED** |
-| `../../sections/17-adhikaari-vazhangiya-aalosanai.md` | `sections/17-the-officers-advice.md` | 88–90 | E14 | **NOT STARTED** |
+| `../../sections/13-theevukkul-theeyavargal-part003.md` | `sections/13-evildoers-on-the-island-part003.md` | 61–64 | E10 | **SOURCE-CHECKED / COMPLETE** |
+| `../../sections/14-kaakkai-vanniyan.md` | `sections/14-kaakkai-vanniyan.md` | 65–72 | E11 | **SOURCE-CHECKED / COMPLETE** |
+| `../../sections/15-muthu-maaligai.md` | `sections/15-muthu-maaligai.md` | 73–79 | E12 | **SOURCE-CHECKED / COMPLETE** |
+| `../../sections/16-silandhi-valaiyo-siriya-poochchiyo.md` | `sections/16-a-spiders-web-a-small-insect.md` | 80–87 | E13 | **SOURCE-CHECKED / COMPLETE** |
+| `../../sections/17-adhikaari-vazhangiya-aalosanai.md` | `sections/17-the-officers-advice.md` | 88–90 | E14 | **SOURCE-CHECKED / COMPLETE** |
 
 ## Part003 boundary safeguards
 
@@ -180,7 +180,7 @@ Outgoing:
 
 ## Part003 batch discipline
 
-E10 **NEXT** → E11 → E12 → E13 → E14.
+E10 **CLOSED** → E11 **CLOSED** → E12 **CLOSED** → E13 **CLOSED** → E14 **CLOSED**.
 
 Each batch must close **draft + source-check** before the next begins.
 
@@ -192,8 +192,26 @@ After E14:
 - Part003 release-ready synchronization
 - Part003 final closure
 
+## Part003 drafting/source-check state
+
+- translated files — **5/5**
+- source-checked files — **5/5**
+- E10–E14 — **SOURCE-CHECKED / COMPLETE**
+- unresolved English holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil body edits caused by English — **0**
+- frozen Part001/Part002 English body edits — **0**
+- Part004 leakage — **0**
+
+Durable source-check records:
+- `E10_SOURCE_CHECK.md`
+- `E11_SOURCE_CHECK.md`
+- `E12_SOURCE_CHECK.md`
+- `E13_SOURCE_CHECK.md`
+- `E14_SOURCE_CHECK.md`
+
 ## Current exact next activity
 
-Perform **Part003 E10 — draft + source-check** for section13 / scans61–64.
+Perform **Part003 whole-Part English glossary reconciliation** across E10–E14.
 
-Do not begin E11 until E10 is **SOURCE-CHECKED / COMPLETE**. Do not begin Part004 transcription.
+Do not begin editorial review until glossary reconciliation closes. Do not begin Part004 transcription.

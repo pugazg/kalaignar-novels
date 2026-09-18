@@ -2,17 +2,17 @@
 
 ## Overall state
 
-**PART003 ENGLISH PLANNING / SETUP — COMPLETE / PASS — E10 NEXT**
+**PART003 E10–E14 — SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 Part001 and Part002 English remain **FINAL CLOSED / FROZEN**.
 
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
-| **E10** | section 13 — `தீவுக்குள் தீயவர்கள்!` continuation | **61–64** | **NOT STARTED** |
-| **E11** | section 14 — `காக்கை வன்னியன்!` | **65–72** | **NOT STARTED** |
-| **E12** | section 15 — `முத்து மாளிகை!` | **73–79** | **NOT STARTED** |
-| **E13** | section 16 — `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | **80–87** | **NOT STARTED** |
-| **E14** | section 17 — `அதிகாரி வழங்கிய ஆலோசனை` | **88–90** | **NOT STARTED** |
+| **E10** | section 13 — `தீவுக்குள் தீயவர்கள்!` continuation | **61–64** | **SOURCE-CHECKED / COMPLETE** |
+| **E11** | section 14 — `காக்கை வன்னியன்!` | **65–72** | **SOURCE-CHECKED / COMPLETE** |
+| **E12** | section 15 — `முத்து மாளிகை!` | **73–79** | **SOURCE-CHECKED / COMPLETE** |
+| **E13** | section 16 — `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | **80–87** | **SOURCE-CHECKED / COMPLETE** |
+| **E14** | section 17 — `அதிகாரி வழங்கிய ஆலோசனை` | **88–90** | **SOURCE-CHECKED / COMPLETE** |
 | Glossary | Part003 whole-Part reconciliation | 61–90 | **NOT STARTED** |
 | Editorial | Part003 whole-Part English editorial review | 61–90 | **NOT STARTED** |
 | Bilingual | Part003 whole-Part bilingual review | 61–90 | **NOT STARTED** |
@@ -26,8 +26,8 @@ Part001 and Part002 English remain **FINAL CLOSED / FROZEN**.
 - Tamil visual fidelity — **30/30 verified**
 - Tamil archival-ready — **PASS / CLOSED**
 - Tamil assembled files — **5/5 VERIFIED**
-- Part003 English translated files — **0/5**
-- Part003 English source-checked files — **0/5**
+- Part003 English translated files — **5/5**
+- Part003 English source-checked files — **5/5**
 - unresolved Part003 English holds — **0**
 - canonical Tamil edits caused by English planning — **0**
 - assembled Tamil edits caused by English planning — **0**
@@ -43,9 +43,33 @@ Created Part003 controls:
 - `PART_003_PROGRESS.md`
 - updated English workspace `README.md`
 
-No Part003 translated English section file exists at planning closure.
+## Part003 drafting/source-check closure
 
-Frozen Part001/Part002 English control and section files remain intact.
+All five Part003 English batches are now **SOURCE-CHECKED / COMPLETE**:
+
+| Batch | English file | Scans | Result |
+|---|---|---:|---|
+| E10 | `sections/13-evildoers-on-the-island-part003.md` | 61–64 | **PASS** |
+| E11 | `sections/14-kaakkai-vanniyan.md` | 65–72 | **PASS** |
+| E12 | `sections/15-muthu-maaligai.md` | 73–79 | **PASS** |
+| E13 | `sections/16-a-spiders-web-a-small-insect.md` | 80–87 | **PASS** |
+| E14 | `sections/17-the-officers-advice.md` | 88–90 | **PASS** |
+
+Durable source-check records:
+- `E10_SOURCE_CHECK.md`
+- `E11_SOURCE_CHECK.md`
+- `E12_SOURCE_CHECK.md`
+- `E13_SOURCE_CHECK.md`
+- `E14_SOURCE_CHECK.md`
+
+Cumulative:
+- translated files — **5/5**
+- source-checked files — **5/5**
+- unresolved per-batch English holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
+- frozen Part001/Part002 English body edits — **0**
+- Part004 leakage — **0**
 
 ## Planned Part003 English section coverage
 
@@ -95,6 +119,6 @@ Part004 remains blocked until Part003 final closure.
 
 ## Exact next activity
 
-Perform **E10 — draft + source-check** for `13-theevukkul-theeyavargal-part003.md`, scans61–64.
+Perform **Part003 whole-Part English glossary reconciliation** across E10–E14.
 
-Do not begin E11 until E10 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin editorial review until glossary reconciliation closes.
