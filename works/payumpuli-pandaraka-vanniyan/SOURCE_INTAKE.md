@@ -90,8 +90,9 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part002 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
 - Part002 visual fidelity — **30/30 verified; 0 needs-review**
 - Part002 unresolved status exceptions — **0**
-- Part002 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
-- Part002 assembled Tamil / English — **NOT STARTED**
+- Part002 Tamil archival-ready — **PASS / CLOSED**
+- Part002 assembled Tamil — **NEXT GATE / NOT YET STARTED**
+- Part002 English — **NOT STARTED**
 - Part003 source — **REGISTERED / NOT ACTIVE**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
@@ -111,6 +112,6 @@ Authoritative Part002 closure records:
 
 ## Exact next activity
 
-Perform the **Part002 Tamil archival-ready checkpoint**.
+Perform **Part002 assembled Tamil construction + audit** from the verified canonical Part002 page layer.
 
 Part003 remains source-registered / inactive until the full Part002 closure chain permits activation.

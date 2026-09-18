@@ -29,8 +29,9 @@ Current closed Tamil verification state:
 - Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
 - visual fidelity — **30/30 verified; 0 needs-review**
 - unresolved Tamil / historical-glyph / visual-status exceptions — **0**
-- Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
-- assembled Tamil / English — **NOT STARTED**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **NEXT GATE / NOT YET STARTED**
+- English — **NOT STARTED**
 - incoming 30→31 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 60→61 — **CLEAN / AUDITED**
 
@@ -52,6 +53,7 @@ Durable Part002 records:
 - `PART_002_AUDIT.md`
 - `PART_002_FINAL_STATUS_SYNC.md`
 - `PART_002_DOCUMENTATION_SYNC.md`
+- `PART_002_TAMIL_ARCHIVAL_READY.md`
 
 ## Part003
 
@@ -59,6 +61,6 @@ Part003 / scans61–90 is **SUPPLIED / REGISTERED / NOT ACTIVE**. Scan61 was use
 
 ## Exact next activity
 
-Perform the **Part002 Tamil archival-ready checkpoint**.
+Perform **Part002 assembled Tamil construction + audit** from the verified canonical Part002 page records.
 
-Do not begin assembled Tamil, English work, final Part002 closure, or Part003 transcription in that checkpoint.
+Keep Part001 frozen and do not begin English work or Part003 transcription in the same iteration.

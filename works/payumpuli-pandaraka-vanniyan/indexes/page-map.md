@@ -519,7 +519,8 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part002 documentation sync — **PASS / COMPLETE**
 - Part002 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
 - Part002 visual fidelity — **30/30 verified; 0 needs-review**
-- Part002 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- Part002 Tamil archival-ready — **PASS / CLOSED**
+- Part002 assembled Tamil — **NEXT GATE / NOT YET STARTED**
 - audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN**
 - Part003 — **REGISTERED / NOT ACTIVE**
 
@@ -527,6 +528,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Perform the **Part002 Tamil archival-ready checkpoint**. The canonical page map remains source-provenance authority and must not be altered merely to construct later assembled/English layers.
+Perform **Part002 assembled Tamil construction + audit** from the verified Part002 page records. The canonical page map remains source-provenance authority and must not be altered merely to make the reading layer convenient.
 
 Part003 remains inactive.

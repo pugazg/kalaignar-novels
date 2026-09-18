@@ -146,7 +146,8 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - Part002 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
 - Part002 visual fidelity — **30/30 verified; 0 needs-review**
 - Part002 unresolved status exceptions — **0**
-- Part002 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- Part002 Tamil archival-ready — **PASS / CLOSED**
+- Part002 assembled Tamil — **NEXT GATE / NOT YET STARTED**
 - Part003 source — **REGISTERED / NOT ACTIVE**
 - audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN**
 - terminal page function for complete 477-scan source — **not yet visually audited**
@@ -163,6 +164,6 @@ Durable rule:
 
 ## Exact next activity
 
-Perform the **Part002 Tamil archival-ready checkpoint** from the verified 30/30 canonical Part002 page layer and closed documentation evidence.
+Perform **Part002 assembled Tamil construction + audit** from the verified canonical Part002 `pages/` records.
 
-Part003 remains inactive.
+The canonical page layer remains authoritative. Part003 remains inactive.

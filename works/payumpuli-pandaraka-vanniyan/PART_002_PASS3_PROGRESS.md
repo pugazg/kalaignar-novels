@@ -141,14 +141,16 @@ until the repository-level Part audit and final metadata/status synchronization 
 
 ## Exact next activity
 
-The Part002 final metadata/status synchronization is **PASS / CLOSED** and documentation synchronization is **PASS / COMPLETE**. These earlier Pass records remain historically closed and are not reopened.
+The Part002 Tamil archival-ready checkpoint is now **PASS / CLOSED**. These Pass trackers remain historically closed and are not reopened.
 
-Current Part002 status:
+Current Part002 downstream state:
 - Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**;
 - visual fidelity — **30/30 verified; 0 needs-review**;
 - unresolved status exceptions — **0**;
-- Tamil archival-ready — **NEXT GATE / NOT YET STARTED**.
+- documentation synchronization — **PASS / COMPLETE**;
+- Tamil archival-ready — **PASS / CLOSED**;
+- assembled Tamil — **NEXT GATE / NOT YET STARTED**.
 
-Perform the **Part002 Tamil archival-ready checkpoint**.
+Perform **Part002 assembled Tamil construction + audit** from the verified canonical Part002 page records.
 
-Do not begin assembled Tamil, English work, release/readiness, final Part002 closure, or Part003 transcription in the same iteration.
+Do not modify frozen Part001 assembled files or begin English translation/review, release/readiness, final Part002 closure, or Part003 transcription in the same iteration.

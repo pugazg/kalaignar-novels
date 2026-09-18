@@ -44,11 +44,12 @@ Part002:
 - Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
 - visual fidelity — **30/30 verified; 0 needs-review**
 - unresolved status exceptions — **0**
-- Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
-- assembled Tamil / English — **NOT STARTED**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **NEXT GATE / NOT YET STARTED**
+- English — **NOT STARTED**
 
 ## Exact next activity
 
-Perform the **Part002 Tamil archival-ready checkpoint**.
+Perform **Part002 assembled Tamil construction + audit** from the verified canonical page records.
 
-Do not begin assembled Tamil, English work, final Part002 closure, or Part003 transcription in the same iteration.
+Do not reopen the source merely to repeat closed verification, and do not begin Part003 transcription.

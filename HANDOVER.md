@@ -39,8 +39,9 @@
 - Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
 - visual fidelity — **30/30 verified; 0 needs-review**
 - unresolved status exceptions — **0**
-- Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
-- assembled Tamil / English — **NOT STARTED**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **NEXT GATE / NOT YET STARTED**
+- English — **NOT STARTED**
 - 30→31 — **GENUINE CONTINUATION / AUDITED**
 - 60→61 — **CLEAN / AUDITED**
 
@@ -48,6 +49,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_002_AUDIT.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_FINAL_STATUS_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_DOCUMENTATION_SYNC.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_002_TAMIL_ARCHIVAL_READY.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
 ## Part003
@@ -59,6 +61,6 @@ Durable records:
 
 ## Exact next activity
 
-Perform the **Part002 Tamil archival-ready checkpoint**.
+Perform **Part002 assembled Tamil construction + audit** from the verified canonical Part002 `pages/` layer, following the established Part001 assembled-Tamil methodology.
 
-**Do not begin assembled Tamil, English work, release/readiness, final Part002 closure, or Part003 transcription in the same iteration.**
+**Do not modify frozen Part001 assembled files. Do not begin English translation/review, release/readiness, final Part002 closure, or Part003 transcription in the same iteration.**
