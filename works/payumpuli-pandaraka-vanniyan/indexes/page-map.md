@@ -36,36 +36,36 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 001 | 28 | 28 | 17 | chapter 3 opening `வழியில் கண்ட வயோதிகர்!`; Pass 1 text-complete; Pass 2A reviewed; punctuation/spacing corrected; Pass 2B reviewed; Pass 3 reviewed | verified | `pages/0028-thorana-vayil.md` |
 | 001 | 29 | 29 | 18 | `வழியில் கண்ட வயோதிகர்!` continuation; Pass 1 text-complete; Pass 2A reviewed; `கூரைகளையுடைய` corrected; Pass 2B reviewed; Pass 3 reviewed | verified | `pages/0029-thorana-vayil.md` |
 | 001 | 30 | 30 | 19 | `வழியில் கண்ட வயோதிகர்!` continuation; Pass 1 text-complete; Pass 2A reviewed; 30→31 genuine continuation retained; Pass 2B reviewed; Pass 3 reviewed | verified | `pages/0030-thorana-vayil.md` |
-| 002 | 1 | 31 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
-| 002 | 2 | 32 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
-| 002 | 3 | 33 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
-| 002 | 4 | 34 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
-| 002 | 5 | 35 | — | boundary/source registered; Part002 transcription blocked pending Part001 final closure | not-started | — |
-| 002 | 6 | 36 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 7 | 37 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 8 | 38 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 9 | 39 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 10 | 40 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 11 | 41 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 12 | 42 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 13 | 43 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 14 | 44 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 15 | 45 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 16 | 46 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 17 | 47 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 18 | 48 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 19 | 49 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 20 | 50 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 21 | 51 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 22 | 52 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 23 | 53 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 24 | 54 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 25 | 55 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 26 | 56 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 27 | 57 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 28 | 58 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 29 | 59 | — | unclassified — direct visual audit pending | not-started | — |
-| 002 | 30 | 60 | — | unclassified — direct visual audit pending | not-started | — |
+| 002 | 1 | 31 | 20 | `வழியில் கண்ட வயோதிகர்!` continuation; Pass 2A + Pass 2B + Pass 3 reviewed | verified | `pages/0031-vazhiyil-kanda-vayothigar.md` |
+| 002 | 2 | 32 | 21 | `வழியில் கண்ட வயோதிகர்!` continuation; Pass 2A + Pass 2B + Pass 3 reviewed | verified | `pages/0032-vazhiyil-kanda-vayothigar.md` |
+| 002 | 3 | 33 | 22 | `வழியில் கண்ட வயோதிகர்!` continuation; split `சுந்தர` → `லிங்கத்தைப்` preserved | verified | `pages/0033-vazhiyil-kanda-vayothigar.md` |
+| 002 | 4 | 34 | 23 | `வழியில் கண்ட வயோதிகர்!` continuation / scene close | verified | `pages/0034-vazhiyil-kanda-vayothigar.md` |
+| 002 | 5 | 35 | 24 | chapter 4 opening `குருவிச்சி நாச்சியார்`; ornamental banner + chapter number 4 | verified | `pages/0035-kuruvichchi-naachchiyar.md` |
+| 002 | 6 | 36 | 25 | `குருவிச்சி நாச்சியார்` continuation; two-line displayed quotation preserved | verified | `pages/0036-kuruvichchi-naachchiyar.md` |
+| 002 | 7 | 37 | 26 | `குருவிச்சி நாச்சியார்` continuation; two-line song/verse preserved | verified | `pages/0037-kuruvichchi-naachchiyar.md` |
+| 002 | 8 | 38 | 27 | `குருவிச்சி நாச்சியார்` continuation | verified | `pages/0038-kuruvichchi-naachchiyar.md` |
+| 002 | 9 | 39 | 28 | `குருவிச்சி நாச்சியார்` continuation | verified | `pages/0039-kuruvichchi-naachchiyar.md` |
+| 002 | 10 | 40 | 29 | `குருவிச்சி நாச்சியார்` continuation; open clause continues to scan41 | verified | `pages/0040-kuruvichchi-naachchiyar.md` |
+| 002 | 11 | 41 | 30 | `குருவிச்சி நாச்சியார்` continuation | verified | `pages/0041-kuruvichchi-naachchiyar.md` |
+| 002 | 12 | 42 | 31 | chapter 5 opening `நாலு கால் மண்டபத்தில்!`; ornamental banner + chapter number 5 | verified | `pages/0042-naalu-kaal-mandapaththil.md` |
+| 002 | 13 | 43 | 32 | `நாலு கால் மண்டபத்தில்!` continuation; Pass2A source comma restored | verified | `pages/0043-naalu-kaal-mandapaththil.md` |
+| 002 | 14 | 44 | 33 | `நாலு கால் மண்டபத்தில்!` continuation | verified | `pages/0044-naalu-kaal-mandapaththil.md` |
+| 002 | 15 | 45 | 34 | `நாலு கால் மண்டபத்தில்!` continuation | verified | `pages/0045-naalu-kaal-mandapaththil.md` |
+| 002 | 16 | 46 | 35 | `நாலு கால் மண்டபத்தில்!` continuation; Pass2A source wording restored | verified | `pages/0046-naalu-kaal-mandapaththil.md` |
+| 002 | 17 | 47 | 36 | `நாலு கால் மண்டபத்தில்!` continuation | verified | `pages/0047-naalu-kaal-mandapaththil.md` |
+| 002 | 18 | 48 | 37 | `நாலு கால் மண்டபத்தில்!` continuation | verified | `pages/0048-naalu-kaal-mandapaththil.md` |
+| 002 | 19 | 49 | 38 | `நாலு கால் மண்டபத்தில்!` close; source-visible blank lower field retained | verified | `pages/0049-naalu-kaal-mandapaththil.md` |
+| 002 | 20 | 50 | 39 | chapter 6 opening `கண்டியின் வாரிசுப் போட்டி!`; continues to scan51 | verified | `pages/0050-kandiyin-vaarisup-potti.md` |
+| 002 | 21 | 51 | 40 | `கண்டியின் வாரிசுப் போட்டி!` continuation from scan50 | verified | `pages/0051-kandiyin-vaarisup-potti.md` |
+| 002 | 22 | 52 | 41 | `கண்டியின் வாரிசுப் போட்டி!` continuation; open quotation continues | verified | `pages/0052-kandiyin-vaarisup-potti.md` |
+| 002 | 23 | 53 | 42 | `கண்டியின் வாரிசுப் போட்டி!` continuation; ends `வந்தவர்களை` | verified | `pages/0053-kandiyin-vaarisup-potti.md` |
+| 002 | 24 | 54 | 43 | `கண்டியின் வாரிசுப் போட்டி!` continuation; source `மீசை` restored | verified | `pages/0054-kandiyin-vaarisup-potti.md` |
+| 002 | 25 | 55 | 44 | `கண்டியின் வாரிசுப் போட்டி!` continuation; source `“பகதூர்”` punctuation retained | verified | `pages/0055-kandiyin-vaarisup-potti.md` |
+| 002 | 26 | 56 | 45 | `கண்டியின் வாரிசுப் போட்டி!` continuation / scene close | verified | `pages/0056-kandiyin-vaarisup-potti.md` |
+| 002 | 27 | 57 | 46 | chapter 7 opening `தீவுக்குள் தீயவர்கள்!`; source `பாதைக்குமிடையிலே` retained | verified | `pages/0057-theevukkul-theeyavargal.md` |
+| 002 | 28 | 58 | 47 | `தீவுக்குள் தீயவர்கள்!` continuation; Pass2B `திடீர் தாக்குதலில்` reconciliation | verified | `pages/0058-theevukkul-theeyavargal.md` |
+| 002 | 29 | 59 | 48–49 | illustrated two-page spread; `தீவுக்குள் தீயவர்கள்!`; left48 → right49 | verified | `pages/0059-theevukkul-theeyavargal.md` |
+| 002 | 30 | 60 | 50 | `தீவுக்குள் தீயவர்கள்!` continuation; 60→61 CLEAN / AUDITED | verified | `pages/0060-theevukkul-theeyavargal.md` |
 | 003 | 1 | 61 | — | unclassified — direct visual audit pending | not-started | — |
 | 003 | 2 | 62 | — | unclassified — direct visual audit pending | not-started | — |
 | 003 | 3 | 63 | — | unclassified — direct visual audit pending | not-started | — |
@@ -505,38 +505,28 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 
 ## Current accounting
 
-- Parts supplied / registered: **16 / 16**
-- physical scan coverage by split ranges: **477 / 477**
-- active content Part: **Part001 / scans1–30**
-- canonical Part001 page records: **30 / 30**
-- Part001 Pass 1 text-complete: **30 / 30**
-- Part001 Pass 1 partial: **0 / 30**
-- Part001 formal Pass 2A: **COMPLETE — 30/30 reviewed**
-- Part001 formal Pass 2B: **COMPLETE — 30/30 reviewed**
-- Part001 formal Pass 3: **COMPLETE — 30/30 reviewed**
-- Part001 Part audit: **PASS / COMPLETE**
-- Part001 Tamil textual status: **30/30 verified; 0 partial; 0 needs-review**
-- Part001 visual fidelity: **30/30 verified; 0 needs-review**
-- Part001 final status sync: **PASS / CLOSED**
-- Part001 documentation sync: **PASS / COMPLETE**
-- Part001 Tamil archival-ready: **PASS / CLOSED**
-- Part001 assembled Tamil: **PASS / CLOSED — 8/8 section files VERIFIED**
-- Part001 English E1: **SOURCE-CHECKED / COMPLETE**
-- Part001 English E2: **SOURCE-CHECKED / COMPLETE**
-- Part001 English E3: **SOURCE-CHECKED / COMPLETE**
-- Part001 English E4: **SOURCE-CHECKED / COMPLETE**
-- Part001 English translated/source-checked files: **8/8**
-- Part001 English glossary reconciliation: **RECONCILED / PASS**
-- Part001 English next: **editorial review**
-- audited outgoing boundary: **30→31 GENUINE CONTINUATION**
-- Part002 transcription: **BLOCKED until Part001 final closure**
+- Parts supplied / registered — **16 / 16**
+- physical scan coverage by split ranges — **477 / 477**
+- Part001 — **FINAL CLOSED / FROZEN**
+- active content Part — **Part002 / scans31–60**
+- canonical Part002 page records — **30 / 30**
+- Part002 Pass 1 — **COMPLETE / PASS — 30/30**
+- Part002 Pass 2A — **COMPLETE / PASS — 30/30**
+- Part002 Pass 2B — **COMPLETE / PASS — 30/30**
+- Part002 Pass 3 — **COMPLETE / PASS — 30/30**
+- Part002 Part audit — **PASS / COMPLETE**
+- Part002 final status sync — **PASS / CLOSED**
+- Part002 documentation sync — **PASS / COMPLETE**
+- Part002 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
+- Part002 visual fidelity — **30/30 verified; 0 needs-review**
+- Part002 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN**
+- Part003 — **REGISTERED / NOT ACTIVE**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Part001 English draft/source-check is **8/8 COMPLETE** and glossary reconciliation is **RECONCILED / PASS**.
+Perform the **Part002 Tamil archival-ready checkpoint**. The canonical page map remains source-provenance authority and must not be altered merely to construct later assembled/English layers.
 
-Proceed with **English editorial review**. The canonical page map remains source-provenance authority and must not be altered by editorial work.
-
-Part002 transcription remains blocked.
+Part003 remains inactive.

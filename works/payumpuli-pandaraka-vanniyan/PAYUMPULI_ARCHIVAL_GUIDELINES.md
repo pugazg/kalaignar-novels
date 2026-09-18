@@ -52,10 +52,15 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part002 Pass 2B: COMPLETE / PASS — 30/30 REVIEWED**
 - **Part002 Pass 3: COMPLETE / PASS — 30/30 REVIEWED**
 - **Part002 Part audit: PASS / COMPLETE**
+- **Part002 final metadata/status synchronization: PASS / CLOSED**
+- **Part002 documentation synchronization: PASS / COMPLETE**
+- **Part002 Tamil textual status: 30/30 verified**
+- **Part002 visual fidelity: 30/30 verified**
+- **Part002 Tamil archival-ready: NEXT GATE / NOT YET STARTED**
 - **Part003: REGISTERED / NOT ACTIVE**
 
 ## Exact next gate
 
-Perform **Part002 final metadata/status synchronization** across scans31–60 from the closed Part-audit evidence.
+Perform the **Part002 Tamil archival-ready checkpoint** from the closed intake / Pass1 / Pass2A / Pass2B / Pass3 / Part-audit / final-status / documentation evidence.
 
-Do not begin Part003 transcription.
+Do not reopen canonical Tamil or begin Part003 transcription.

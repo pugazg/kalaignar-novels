@@ -75,48 +75,42 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 
 ## Current state
 
-- split registration: **16 / 16 COMPLETE**
-- physical coverage by split ranges: **477 / 477**
-- active content Part: **Part001 / scans1–30**
-- canonical Part001 records: **30/30 present**
-- Part001 Pass 1 text-complete: **30/30**
-- Part001 Pass 1 partial: **0/30**
-- formal Part001 Pass 2A: **COMPLETE — 30/30 reviewed**
-- formal Part001 Pass 2B: **COMPLETE — 30/30 reviewed**
-- formal Part001 Pass 3: **COMPLETE — 30/30 reviewed**
-- Part001 Part audit: **PASS / COMPLETE**
-- Part001 final metadata/status synchronization: **PASS / CLOSED**
-- Part001 Tamil textual status: **30/30 verified; 0 partial; 0 needs-review**
-- Part001 visual fidelity: **30/30 verified; 0 needs-review**
-- Part001 unresolved status exceptions: **0**
-- Part001 documentation synchronization: **PASS / COMPLETE**
-- Part001 Tamil archival-ready checkpoint: **PASS / CLOSED**
-- Part001 assembled Tamil: **PASS / CLOSED — 8/8 section files VERIFIED**
-- Part001 English E1: **SOURCE-CHECKED / COMPLETE**
-- Part001 English E2: **SOURCE-CHECKED / COMPLETE**
-- Part001 English E3: **SOURCE-CHECKED / COMPLETE**
-- Part001 English E4: **SOURCE-CHECKED / COMPLETE**
-- Part001 English translated/source-checked files: **8/8**
-- Part001 English glossary reconciliation: **RECONCILED / PASS**
-- Part001 English next: **editorial review**
-- Part001 Tamil archival-ready: **BLOCKED**
-- Part001 assembled Tamil: **BLOCKED**
-- Part001 English / release-readiness: **BLOCKED**
-- Part001 final closure: **BLOCKED**
-- Part002 source: **REGISTERED / TRANSCRIPTION BLOCKED**
-- boundary 30→31: **GENUINE CONTINUATION / AUDITED**
+- split registration — **16 / 16 COMPLETE**
+- physical coverage by split ranges — **477 / 477**
+- Part001 — **FINAL CLOSED / FROZEN**
+- active content Part — **Part002 / scans31–60**
+- canonical Part002 records — **30/30 present**
+- Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Part002 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part002 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part002 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part002 Part audit — **PASS / COMPLETE**
+- Part002 final metadata/status synchronization — **PASS / CLOSED**
+- Part002 documentation synchronization — **PASS / COMPLETE**
+- Part002 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
+- Part002 visual fidelity — **30/30 verified; 0 needs-review**
+- Part002 unresolved status exceptions — **0**
+- Part002 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- Part002 assembled Tamil / English — **NOT STARTED**
+- Part003 source — **REGISTERED / NOT ACTIVE**
+- boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
+- boundary 60→61 — **CLEAN / AUDITED**
 
 Authoritative work-specific methodology:
 - `PAYUMPULI_ARCHIVAL_GUIDELINES.md`
 
-Authoritative live trackers:
-- `PART_001_PASS1_PROGRESS.md`
-- `PART_001_PASS2A_PROGRESS.md`
-- `PART_001_PASS2B_PROGRESS.md`
-- `PART_001_PASS3_PROGRESS.md`
+Authoritative Part002 closure records:
+- `SOURCE_INTAKE_PART_002.md`
+- `PART_002_PASS1_PROGRESS.md`
+- `PART_002_PASS2A_PROGRESS.md`
+- `PART_002_PASS2B_PROGRESS.md`
+- `PART_002_PASS3_PROGRESS.md`
+- `PART_002_AUDIT.md`
+- `PART_002_FINAL_STATUS_SYNC.md`
+- `PART_002_DOCUMENTATION_SYNC.md`
 
 ## Exact next activity
 
-Part001 English glossary reconciliation is **RECONCILED / PASS**.
+Perform the **Part002 Tamil archival-ready checkpoint**.
 
-Proceed with **English editorial review**. Part002 remains source-registered / transcription-blocked until Part001 final closure.
+Part003 remains source-registered / inactive until the full Part002 closure chain permits activation.

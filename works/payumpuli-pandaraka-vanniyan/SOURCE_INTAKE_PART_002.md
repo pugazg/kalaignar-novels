@@ -29,7 +29,7 @@ Durable boundary record:
 
 ## Current gate
 
-Part001 final closure is **PASS / CLOSED / FROZEN**.
+Part001 is **FINAL CLOSED / FROZEN**.
 
 Part002:
 - canonical records — **30/30**
@@ -39,8 +39,16 @@ Part002:
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
 - Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- unresolved status exceptions — **0**
+- Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
 - assembled Tamil / English — **NOT STARTED**
 
 ## Exact next activity
 
-Perform **Part002 final metadata/status synchronization** across scans31–60 from the closed Part-audit evidence.
+Perform the **Part002 Tamil archival-ready checkpoint**.
+
+Do not begin assembled Tamil, English work, final Part002 closure, or Part003 transcription in the same iteration.

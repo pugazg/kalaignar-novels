@@ -40,6 +40,11 @@ Pages remain `needs-review`. Final `verified` status is not assigned during Pass
 - unresolved historical-glyph identities — **0**
 - Pass 3: **COMPLETE / PASS — 30/30 REVIEWED**
 - Part audit: **PASS / COMPLETE**
+- final metadata/status synchronization: **PASS / CLOSED**
+- documentation synchronization: **PASS / COMPLETE**
+- final Tamil textual status: **30/30 verified**
+- final visual fidelity: **30/30 verified**
+- Tamil archival-ready: **NEXT GATE / NOT YET STARTED**
 
 ## Batch 1 — scans31–40
 
@@ -155,6 +160,14 @@ All Part002 page records remain `needs-review` pending Pass 3 and later whole-Pa
 
 ## Exact next activity
 
-Perform **Part002 final metadata/status synchronization** across scans31–60 from the closed Part-audit evidence.
+The Part002 final metadata/status synchronization is **PASS / CLOSED** and documentation synchronization is **PASS / COMPLETE**. These earlier Pass records remain historically closed and are not reopened.
 
-Do not begin documentation synchronization or Part003 transcription in the same iteration.
+Current Part002 status:
+- Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**;
+- visual fidelity — **30/30 verified; 0 needs-review**;
+- unresolved status exceptions — **0**;
+- Tamil archival-ready — **NEXT GATE / NOT YET STARTED**.
+
+Perform the **Part002 Tamil archival-ready checkpoint**.
+
+Do not begin assembled Tamil, English work, release/readiness, final Part002 closure, or Part003 transcription in the same iteration.

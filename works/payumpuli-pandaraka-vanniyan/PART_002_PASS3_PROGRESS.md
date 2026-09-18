@@ -38,6 +38,11 @@ Pages remain `needs-review` until whole-Part Pass 3, Part audit and final metada
 - cumulative Pass 3 textual corrections — **0**
 - cumulative unresolved visual/structural questions — **0**
 - Part audit: **PASS / COMPLETE**
+- final metadata/status synchronization: **PASS / CLOSED**
+- documentation synchronization: **PASS / COMPLETE**
+- final Tamil textual status: **30/30 verified**
+- final visual fidelity: **30/30 verified**
+- Tamil archival-ready: **NEXT GATE / NOT YET STARTED**
 
 ## Batch 1 — scans31–40
 
@@ -136,8 +141,14 @@ until the repository-level Part audit and final metadata/status synchronization 
 
 ## Exact next activity
 
-The repository-level Part audit is now **PASS / COMPLETE** in `PART_002_AUDIT.md`.
+The Part002 final metadata/status synchronization is **PASS / CLOSED** and documentation synchronization is **PASS / COMPLETE**. These earlier Pass records remain historically closed and are not reopened.
 
-Perform **Part002 final metadata/status synchronization** across scans31–60 from that closed audit evidence.
+Current Part002 status:
+- Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**;
+- visual fidelity — **30/30 verified; 0 needs-review**;
+- unresolved status exceptions — **0**;
+- Tamil archival-ready — **NEXT GATE / NOT YET STARTED**.
 
-Do not begin documentation synchronization or Part003 transcription in the same iteration.
+Perform the **Part002 Tamil archival-ready checkpoint**.
+
+Do not begin assembled Tamil, English work, release/readiness, final Part002 closure, or Part003 transcription in the same iteration.

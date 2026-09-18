@@ -131,34 +131,25 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 
 ## Current intake state
 
-- complete source: **477 / 477 scans supplied across 16 Parts**
-- split identities/global mappings: **16 / 16 REGISTERED**
-- active content Part: **Part001 / scans1–30**
-- canonical Part001 records: **30/30 present**
-- Part001 Pass 1 text-complete: **30/30**
-- Part001 Pass 1 partial: **0/30**
-- formal Pass 2A: **COMPLETE — 30/30 reviewed**
-- formal Pass 2B: **COMPLETE — 30/30 reviewed**
-- formal Pass 3: **COMPLETE — 30/30 reviewed**
-- Part001 Part audit: **PASS / COMPLETE**
-- Part001 final metadata/status synchronization: **PASS / CLOSED**
-- Part001 Tamil textual status: **30/30 verified; 0 partial; 0 needs-review**
-- Part001 visual fidelity: **30/30 verified; 0 needs-review**
-- Part001 unresolved status exceptions: **0**
-- Part001 documentation synchronization: **PASS / COMPLETE**
-- Part001 Tamil archival-ready checkpoint: **PASS / CLOSED**
-- Part001 assembled Tamil: **PASS / CLOSED — 8/8 section files VERIFIED**
-- Part001 English E1: **SOURCE-CHECKED / COMPLETE**
-- Part001 English E2: **SOURCE-CHECKED / COMPLETE**
-- Part001 English E3: **SOURCE-CHECKED / COMPLETE**
-- Part001 English E4: **SOURCE-CHECKED / COMPLETE**
-- Part001 English translated/source-checked files: **8/8**
-- Part001 English glossary reconciliation: **RECONCILED / PASS**
-- Part001 English next: **editorial review**
-- Part001 Tamil archival-ready / assembled Tamil / English / release-readiness / final closure: **BLOCKED**
-- Part002 source: **REGISTERED / TRANSCRIPTION BLOCKED**
-- audited outgoing boundary: **30→31 GENUINE CONTINUATION**
-- terminal page function for complete 477-scan source: **not yet visually audited**
+- complete source — **477 / 477 scans supplied across 16 Parts**
+- split identities/global mappings — **16 / 16 REGISTERED**
+- Part001 — **FINAL CLOSED / FROZEN**
+- active content Part — **Part002 / scans31–60**
+- canonical Part002 records — **30/30 present**
+- Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Part002 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part002 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part002 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part002 Part audit — **PASS / COMPLETE**
+- Part002 final metadata/status synchronization — **PASS / CLOSED**
+- Part002 documentation synchronization — **PASS / COMPLETE**
+- Part002 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
+- Part002 visual fidelity — **30/30 verified; 0 needs-review**
+- Part002 unresolved status exceptions — **0**
+- Part002 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- Part003 source — **REGISTERED / NOT ACTIVE**
+- audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN**
+- terminal page function for complete 477-scan source — **not yet visually audited**
 
 ## Controlling-source clarification
 
@@ -172,8 +163,6 @@ Durable rule:
 
 ## Exact next activity
 
-Part001 English glossary reconciliation is **RECONCILED / PASS**.
+Perform the **Part002 Tamil archival-ready checkpoint** from the verified 30/30 canonical Part002 page layer and closed documentation evidence.
 
-Proceed with **English editorial review** from the complete 8/8 source-checked English layer, with canonical `pages/` remaining controlling authority.
-
-Part002 transcription remains blocked.
+Part003 remains inactive.

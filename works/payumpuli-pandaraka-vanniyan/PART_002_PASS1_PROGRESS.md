@@ -24,6 +24,11 @@ Part001 remains **FINAL CLOSURE — PASS / CLOSED / FROZEN**.
 - Pass 2B: **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 3: **COMPLETE / PASS — 30/30 REVIEWED**
 - Part audit: **PASS / COMPLETE**
+- final metadata/status synchronization: **PASS / CLOSED**
+- documentation synchronization: **PASS / COMPLETE**
+- final Tamil textual status: **30/30 verified**
+- final visual fidelity: **30/30 verified**
+- Tamil archival-ready: **NEXT GATE / NOT YET STARTED**
 - assembled Tamil / English: **NOT STARTED**
 
 All Pass-1 records remain non-final:
@@ -64,11 +69,22 @@ All Part002 Pass-1 transcription was made from the user-supplied rendered source
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
 - Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
 - Pass 2A tracker — `PART_002_PASS2A_PROGRESS.md`
 - Pass 2B tracker — `PART_002_PASS2B_PROGRESS.md`
 
 ## Exact next activity
 
-Continue with **Part002 final metadata/status synchronization** across scans31–60.
+The Part002 final metadata/status synchronization is **PASS / CLOSED** and documentation synchronization is **PASS / COMPLETE**. These earlier Pass records remain historically closed and are not reopened.
 
-Do not begin Part003 transcription.
+Current Part002 status:
+- Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**;
+- visual fidelity — **30/30 verified; 0 needs-review**;
+- unresolved status exceptions — **0**;
+- Tamil archival-ready — **NEXT GATE / NOT YET STARTED**.
+
+Perform the **Part002 Tamil archival-ready checkpoint**.
+
+Do not begin assembled Tamil, English work, release/readiness, final Part002 closure, or Part003 transcription in the same iteration.

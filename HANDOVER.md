@@ -28,34 +28,27 @@
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - unresolved Pass-1 holds — **0**
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 2A Batch 1 scans31–40 — **COMPLETE / REVIEWED / PASS — 0 corrections**
-- Pass 2A Batch 2 scans41–50 — **COMPLETE / REVIEWED / PASS — 3 corrections; 0 unresolved**
-- Pass 2A Batch 3 scans51–60 — **COMPLETE / REVIEWED / PASS — 5 corrections; 0 unresolved**
 - Pass 2A cumulative corrections — **8; unresolved 0**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 2B Batch 1 scans31–40 — **COMPLETE / REVIEWED / PASS — 0 historical-glyph corrections; 0 other corrections; 0 unresolved**
-- Pass 2B Batch 2 scans41–50 — **COMPLETE / REVIEWED / PASS — 0 historical-glyph corrections; 0 other corrections; 0 unresolved**
-- Pass 2B Batch 3 scans51–60 — **COMPLETE / REVIEWED / PASS — 0 historical-glyph corrections; 1 lexical correction; 0 unresolved**
-- Pass 2B cumulative — **0 historical-glyph corrections; 1 other correction; 0 unresolved**
+- Pass 2B cumulative — **0 historical-glyph corrections; 1 other lexical correction; 0 unresolved**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 3 Batch 1 scans31–40 — **COMPLETE / REVIEWED / PASS — 0 textual corrections; 0 unresolved visual/structural questions**
-- Pass 3 Batch 2 scans41–50 — **COMPLETE / REVIEWED / PASS — 0 textual corrections; 0 unresolved visual/structural questions**
-- Pass 3 Batch 3 scans51–60 — **COMPLETE / REVIEWED / PASS — 0 textual corrections; 0 unresolved visual/structural questions**
 - Pass 3 cumulative — **0 textual corrections; 0 unresolved visual/structural questions**
 - Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- unresolved status exceptions — **0**
+- Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
 - assembled Tamil / English — **NOT STARTED**
+- 30→31 — **GENUINE CONTINUATION / AUDITED**
 - 60→61 — **CLEAN / AUDITED**
 
-60→61 audit:
-- scan60 / printed50 ends a complete sentence;
-- Part003 scan61 / printed51 begins a fresh quoted utterance;
-- printed pagination is 50→51;
-- no cross-boundary reconstruction was required;
-- scan60 needed **0 corrections**;
-- no Part003 canonical record was created.
-
-Durable record:
-`works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
+Durable records:
+- `works/payumpuli-pandaraka-vanniyan/PART_002_AUDIT.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_002_FINAL_STATUS_SYNC.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_002_DOCUMENTATION_SYNC.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
 ## Part003
 
@@ -66,9 +59,6 @@ Durable record:
 
 ## Exact next activity
 
-Perform **Part002 final metadata/status synchronization** across scans31–60.
+Perform the **Part002 Tamil archival-ready checkpoint**.
 
-Audit record:
-`works/payumpuli-pandaraka-vanniyan/PART_002_AUDIT.md`
-
-**Perform only the metadata/status synchronization gate next. Do not begin documentation synchronization, Tamil archival-ready work, assembled Tamil / English work, or Part003 transcription in the same iteration.**
+**Do not begin assembled Tamil, English work, release/readiness, final Part002 closure, or Part003 transcription in the same iteration.**

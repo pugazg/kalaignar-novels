@@ -414,8 +414,52 @@ The scan30 English endpoint remains open as **“He was filled with joy,”** an
 - Part002 leakage — **0**
 - durable record — `translations/en/GLOSSARY_RECONCILIATION.md`
 
+## Part001 final closure / Part002 activation
+
+Part001 subsequently completed its remaining English/bilingual/release/readiness/final-closure chain and is now **FINAL CLOSED / FROZEN**.
+
+Part002 then became the active Part. No historical Part001 gate record above is rewritten by that activation.
+
+## Part002 Tamil verification and status closure
+
+Part002 / scans31–60 now carries:
+
+- canonical records — **30/30 present**;
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**;
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**;
+- Pass2A source-text corrections — **8; unresolved 0**;
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**;
+- Pass2B historical-glyph corrections — **0**;
+- Pass2B later lexical/source-reading correction — scan58 `திமிர்` → source **`திடீர்`**;
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**;
+- Pass3 textual corrections — **0**;
+- unresolved historical-glyph identities — **0**;
+- unresolved Pass3 visual/structural questions — **0**;
+- Part audit — **PASS / COMPLETE**;
+- final metadata/status synchronization — **PASS / CLOSED**;
+- Tamil textual status — **30/30 verified**;
+- visual fidelity — **30/30 verified**;
+- partial / source-limited / needs-review — **0**;
+- incoming 30→31 — **GENUINE CONTINUATION / AUDITED**;
+- outgoing 60→61 — **CLEAN / AUDITED**;
+- Part003 canonical leakage — **0**.
+
+## Part002 documentation synchronization — COMPLETE
+
+The Part002 documentation/control layer is reconciled to the closed final-status state:
+
+- Part002 page records changed during documentation sync — **0**;
+- source PDFs changed — **0**;
+- canonical Tamil changed — **0**;
+- live control disagreement on current status/next gate — **0**;
+- documentation synchronization — **PASS / COMPLETE**;
+- Tamil archival-ready — **NEXT GATE / NOT YET STARTED**;
+- Part003 — **REGISTERED / NOT ACTIVE**.
+
+Historical gate sections remain valid as records of the state when those gates closed.
+
 ## Exact next activity
 
-Perform **English editorial review** across all 8 glossary-reconciled English files.
+Perform the **Part002 Tamil archival-ready checkpoint**.
 
-Do not begin whole-Part bilingual review, release/readiness, final Part closure, or Part002 transcription until editorial review closes.
+Do not begin assembled Tamil, English work, release/readiness, final Part002 closure, or Part003 transcription in that checkpoint.
