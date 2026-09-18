@@ -107,7 +107,7 @@ For Part001/Part002:
 - Part001 English ends **“He was filled with joy,”**;
 - scan31 is now the first canonical Part002 page and does not alter Part001.
 
-Part002 outgoing boundary **60→61** remains pending direct audit.
+Part002 outgoing boundary **60→61** remains pending direct audit and must be resolved when the final Pass-1 batch reaches scan60.
 
 ## 9. Batch cadence
 
@@ -116,25 +116,32 @@ User-directed normal source batch size: **10 physical scans**, with a shorter fi
 A batch is only complete when the requested Pass work for those scans is complete. Page/provenance-only scaffolding is not Pass-1 completion.
 
 Part002 current Pass-1 accounting:
-- canonical Part002 records — **10/30 — scans31–40**;
-- Pass-1 text-complete — **10/30 — scans31–40**;
-- Pass-1 pending — **20/30 — scans41–60**;
+- canonical Part002 records — **20/30 — scans31–50**;
+- Pass-1 text-complete — **20/30 — scans31–50**;
+- Pass-1 pending — **10/30 — scans51–60**;
 - Pass 2A / Pass 2B / Pass 3 — **NOT STARTED**.
 
-Batch 1 structure:
-- scans31–34 — continuation/close of `வழியில் கண்ட வயோதிகர்!`;
-- scan35 — chapter 4 opening `குருவிச்சி நாச்சியார்`;
-- scans36–40 — chapter 4 continuation;
-- source-specific `வற்றாப்பாளை` is retained by occurrence and not normalized to earlier `வற்றாப்பளை`;
-- scan40 ends `எனவே அந்தப் பெரிய மணி ஓசை` and remains open.
+Completed batches:
+- Batch 1 — scans31–40 / local1–10 / printed20–29 — **COMPLETE**;
+- Batch 2 — scans41–50 / local11–20 / printed30–39 — **COMPLETE**.
+
+Batch 2 structure:
+- scan41 — chapter4 `குருவிச்சி நாச்சியார்` continuation;
+- scan42 — chapter5 opening `நாலு கால் மண்டபத்தில்!`;
+- scans43–49 — chapter5 continuation;
+- scan50 — chapter6 opening `கண்டியின் வாரிசுப் போட்டி!`;
+- source forms `குலசேகரம் வைரமுத்து`, `களுக்`, and `முள்ளியவளை` are retained where printed;
+- scan50 ends physically `பாஞ்சாலங்குறிச்சி`; no scan51 text has been inferred or imported.
 
 ## 10. Current Part frontier
 
 - **Part001: FINAL CLOSURE — PASS / CLOSED / FROZEN**
 - **Part002 source: SUPPLIED / REGISTERED / ACTIVE**
-- **Part002 canonical page records: 10/30**
-- **Part002 Pass 1: IN PROGRESS — 10/30 TEXT-COMPLETE**
+- **Part002 canonical page records: 20/30**
+- **Part002 Pass 1: IN PROGRESS — 20/30 TEXT-COMPLETE**
 - **Part002 Pass 2A / 2B / 3: NOT STARTED**
-- **Exact next gate: Part002 Pass 1, global scans41–50 / local pages11–20**
+- **Exact next gate: Part002 Pass 1, global scans51–60 / local pages21–30**
+
+Complete the final Pass-1 batch and resolve the **60→61** boundary before declaring Pass 1 complete.
 
 Do not begin Part002 Pass 2A until Part002 Pass 1 covers all **30/30** scans.
