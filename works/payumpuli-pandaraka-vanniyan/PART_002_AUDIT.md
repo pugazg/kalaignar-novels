@@ -172,3 +172,17 @@ Perform **Part002 final metadata/status synchronization**.
 That next gate may promote the two final per-page status fields only from this now-audited evidence, following the established Part001 metadata-only method.
 
 Do not begin documentation synchronization, Tamil archival-ready, assembled Tamil / English work, or Part003 transcription in this audit iteration.
+
+## Post-final-closure state
+
+This gate remains historically closed.
+
+Part002 subsequently completed the full downstream workflow and reached:
+
+**PART002 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+Final closure introduced canonical Tamil body changes — **0**.
+
+Part003 is now **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**.
+
+Current workflow frontier: **Part003 Pass 1 — global scans61–70 / local pages1–10**.

@@ -86,11 +86,11 @@ Part002:
 - bilingual English-only corrections — **3**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- final Part002 closure — **NEXT / NOT STARTED**
-- Part003 transcription — **BLOCKED / NOT ACTIVE**
+- final Part002 closure — **PASS / CLOSED / FROZEN**
+- Part003 — **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**
 
 ## Exact next activity
 
-Create and verify **Part002 final closure** using the closed Tamil, English, release/readiness and release-ready synchronization records.
+The Part002 assembled Tamil layer is frozen under **PART002 FINAL CLOSURE — PASS / CLOSED**.
 
-Do not alter this verified Tamil reading layer. Do not begin Part003 transcription until final Part002 closure passes.
+Proceed with **Part003 Pass 1 — global scans61–70 / local pages1–10**. Do not modify these verified Part002 section bodies.

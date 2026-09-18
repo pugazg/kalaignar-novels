@@ -157,8 +157,8 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - bilingual English-only corrections — **3**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- English next — **final Part002 closure**
-- Part003 source — **REGISTERED / NOT ACTIVE**
+- Part002 final closure — **PASS / CLOSED / FROZEN**
+- Part003 source — **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**
 - audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN**
 - terminal page function for complete 477-scan source — **not yet visually audited**
 
@@ -174,6 +174,8 @@ Durable rule:
 
 ## Exact next activity
 
-Create and verify **Part002 final closure**.
+Perform **Part003 Pass 1 — global scans61–70 / local pages1–10**.
 
-Canonical Part002 `pages/` remain controlling Tamil authority; the PASSED assembled Part002 section08 is the normal continuous reading authority. Part003 remains inactive.
+Use `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf` as the registered controlling Part003 source. Global `scan_page` numbering continues at **61**.
+
+Do not reopen frozen Part001/Part002 and do not begin Pass 2A before Part003 Pass 1 is complete.

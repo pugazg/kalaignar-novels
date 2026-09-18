@@ -1,6 +1,6 @@
 # Part 002 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **RELEASE-READY SYNCHRONIZATION PASS / CLOSED — FINAL PART002 CLOSURE NEXT**
+Status: **PART002 FINAL CLOSURE PASS / CLOSED / FROZEN**
 
 This is the control plan for the project-created English translation of **Part002 only**.
 
@@ -317,8 +317,12 @@ Part002 release-ready synchronization is **PASS / CLOSED**.
 Durable record:
 - `../../PART_002_RELEASE_READY_SYNC.md`
 
+## Final closure
+
+Part002 is **FINAL CLOSURE — PASS / CLOSED / FROZEN**.
+
+The Part002 English plan is historical/closed and must not be reopened merely because Part003 advances.
+
 ## Exact next activity
 
-Create and verify **Part002 final closure** at `../../PART_002_FINAL_CLOSURE.md`.
-
-Do not begin Part003 transcription until final closure passes.
+Proceed with **Part003 Pass 1 — global scans61–70 / local pages1–10** under the Tamil archival workflow. Part003 English remains downstream of its own Tamil closure.

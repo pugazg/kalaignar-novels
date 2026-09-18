@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED — boundary witness inspected; canonical Part003 transcription remains blocked.**
+**SUPPLIED / REGISTERED / AUTHORIZED — NEXT ACTIVE PART / NOT STARTED.**
 
 - local PDF pages: **30**
 - canonical overall scans: **61–90**
@@ -30,6 +30,22 @@ Durable record:
 
 ## Current gate
 
-Part003 remains **SUPPLIED / REGISTERED / NOT ACTIVE**.
+Part002 has now reached **FINAL CLOSURE — PASS / CLOSED / FROZEN**.
 
-Do not create Part003 page records or begin Part003 Pass work until Part002 reaches final closure.
+Part003 is therefore:
+
+**NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**
+
+- canonical Part003 page records — **0**
+- Pass 1 — **NOT STARTED**
+- first normal Pass-1 batch — **global scans61–70 / local pages1–10**
+- incoming 60→61 — **CLEAN / AUDITED**
+- outgoing 90→91 — **PENDING direct audit**
+
+## Exact next activity
+
+Perform **Part003 Pass 1 — global scans61–70 / local pages1–10**.
+
+Create canonical page records with global numbering and exact Part003 provenance, and create/update `PART_003_PASS1_PROGRESS.md`.
+
+Do not begin Pass 2A until Part003 Pass 1 covers the full Part.

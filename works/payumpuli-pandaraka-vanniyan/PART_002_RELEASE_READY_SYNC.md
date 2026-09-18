@@ -162,3 +162,21 @@ Final closure must independently confirm:
 12. Part003 activation rule.
 
 **Do not begin Part003 transcription until Part002 final closure passes.**
+
+## Post-final-closure state
+
+Part002 subsequently reached:
+
+**PART002 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+Final closure changed:
+- canonical Tamil body text — **0**;
+- assembled Tamil body text — **0**;
+- maintained English body text — **0**;
+- protected source variants — **0**;
+- frozen Part001 body text — **0**;
+- Part003 body content imported — **0**.
+
+Part003 is now **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**.
+
+Exact next activity: **Part003 Pass 1 — global scans61–70 / local pages1–10**.

@@ -130,3 +130,17 @@ Required post-write checks:
 **Part002 Tamil archival-ready checkpoint.**
 
 Do not begin assembled Tamil, English translation/review, release/readiness, final Part002 closure or Part003 transcription in this gate.
+
+## Post-final-closure state
+
+This gate remains historically closed.
+
+Part002 subsequently completed the full downstream workflow and reached:
+
+**PART002 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+Final closure introduced canonical Tamil body changes — **0**.
+
+Part003 is now **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**.
+
+Current workflow frontier: **Part003 Pass 1 — global scans61–70 / local pages1–10**.

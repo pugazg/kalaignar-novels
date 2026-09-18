@@ -530,14 +530,14 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - bilingual English-only corrections — **3**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- English next — **final Part002 closure**
+- Part002 final closure — **PASS / CLOSED / FROZEN**
 - audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN**
-- Part003 — **REGISTERED / NOT ACTIVE**
+- Part003 — **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Create and verify **Part002 final closure**. The canonical page map remains source-provenance authority and must not be altered merely to smooth English.
+Create the first Part003 canonical records during **Pass 1 — global scans61–70 / local pages1–10**.
 
-Part003 remains inactive.
+No Part003 page-map rows exist yet. Preserve global numbering and exact source provenance. Do not begin Pass 2A until Part003 Pass 1 covers scans61–90.

@@ -464,8 +464,8 @@ The Part002 documentation/control layer is reconciled to the closed final-status
 - bilingual English-only corrections — **3**;
 - release/readiness — **PASS / CLOSED**;
 - release-ready synchronization — **PASS / CLOSED**;
-- English next — **final Part002 closure**;
-- Part003 — **REGISTERED / NOT ACTIVE**.
+- Part002 final closure — **PASS / CLOSED / FROZEN**;
+- Part003 — **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**.
 
 Historical gate sections remain valid as records of the state when those gates closed.
 
@@ -661,10 +661,27 @@ Result:
 Durable record:
 - `PART_002_RELEASE_READY_SYNC.md`
 
+## Part002 final closure — PASS / CLOSED
+
+Part002 final closure independently confirmed the entire Tamil, assembled-Tamil, English, release/readiness and synchronization chain.
+
+Result:
+- **PART002 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+- unresolved final blockers — **0**
+- canonical Tamil body changes during final closure — **0**
+- assembled Tamil body changes during final closure — **0**
+- maintained English body changes during final closure — **0**
+- frozen Part001 body changes — **0**
+- Part003 leakage into Part002 — **0**
+- Part003 canonical page records at activation checkpoint — **0**
+
+Durable record:
+- `PART_002_FINAL_CLOSURE.md`
+
+Part003 is now **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**.
+
 ## Exact next activity
 
-Create and verify **Part002 final closure** at:
+Perform **Part003 Pass 1 — global scans61–70 / local pages1–10** and create/update `PART_003_PASS1_PROGRESS.md`.
 
-`PART_002_FINAL_CLOSURE.md`
-
-Do not begin Part003 transcription until final Part002 closure passes.
+Do not reopen frozen Part001/Part002. Do not begin Part003 Pass 2A until Pass 1 covers scans61–90.

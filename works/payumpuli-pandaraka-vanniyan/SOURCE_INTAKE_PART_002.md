@@ -55,10 +55,27 @@ Part002:
 - bilingual English-only corrections — **3**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- English next — **final Part002 closure**
+- final closure — **PASS / CLOSED / FROZEN**
+- Part003 — **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**
 
 ## Exact next activity
 
-Create and verify **Part002 final closure**.
+Perform **Part003 Pass 1 — global scans61–70 / local pages1–10**.
 
-Do not reopen source verification or begin Part003 transcription.
+Part002 remains frozen. Do not begin Part003 Pass 2A until Pass 1 covers scans61–90.
+
+## Post-final-closure state
+
+Part002 subsequently reached:
+
+**PART002 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- canonical Part002 records — **30/30 verified**
+- maintained Tamil/English body changes caused by final closure — **0**
+- incoming 30→31 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 60→61 — **CLEAN / AUDITED**
+- Part003 leakage into Part002 — **0**
+
+Part003 is now **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**.
+
+Exact next activity: **Part003 Pass 1 — global scans61–70 / local pages1–10**.

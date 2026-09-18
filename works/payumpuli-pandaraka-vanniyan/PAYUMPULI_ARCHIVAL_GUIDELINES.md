@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001 is **FINAL CLOSED / FROZEN**. Part002 is active. Part003 remains registered but blocked from transcription.
+Part001 and Part002 are **FINAL CLOSED / FROZEN**. Part003 is the **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**.
 
 ## Tamil Part workflow
 
@@ -66,11 +66,14 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part002 English bilingual review: PASS / CLOSED**
 - **Part002 release/readiness: PASS / CLOSED**
 - **Part002 release-ready synchronization: PASS / CLOSED**
-- **Part002 English next: final Part002 closure**
-- **Part003: REGISTERED / NOT ACTIVE**
+- **Part002 final closure: PASS / CLOSED / FROZEN**
+- **Part003: NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**
+- **Part003 Pass 1: NOT STARTED**
 
 ## Exact next gate
 
-Create and verify **Part002 final closure** under the closed release-ready synchronization controls.
+Perform **Part003 Pass 1 — first batch global scans61–70 / Part003 local pages1–10**.
 
-Do not reopen canonical Tamil or alter frozen Part001 English. Do not begin Part003 transcription until final Part002 closure passes.
+Create canonical Part003 page records and `PART_003_PASS1_PROGRESS.md`. Preserve incoming **60→61 CLEAN / AUDITED**.
+
+Do not reopen frozen Part001/Part002. Do not begin Pass 2A until Part003 Pass 1 covers scans61–90.

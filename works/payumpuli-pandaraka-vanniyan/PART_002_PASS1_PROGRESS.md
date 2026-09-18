@@ -76,10 +76,14 @@ All Part002 Pass-1 transcription was made from the user-supplied rendered source
 - Pass 2A tracker — `PART_002_PASS2A_PROGRESS.md`
 - Pass 2B tracker — `PART_002_PASS2B_PROGRESS.md`
 
+## Post-final-closure state
+
+Part002 is now **FINAL CLOSURE — PASS / CLOSED / FROZEN**.
+
+This historical Pass tracker remains closed and must not be reopened merely because Part003 advances.
+
 ## Exact next activity
 
-Part002 Tamil and English workflow remains closed through **release-ready synchronization PASS / CLOSED**.
+Perform **Part003 Pass 1 — first batch global scans61–70 / local pages1–10**.
 
-Create and verify **Part002 final closure** at `PART_002_FINAL_CLOSURE.md`.
-
-Do not begin Part003 transcription until final Part002 closure passes.
+Do not modify frozen Part002 canonical records. Do not begin Part003 Pass 2A until Pass 1 covers scans61–90.

@@ -21,7 +21,7 @@
 - Tamil terminal text — `அவனுக்கு ஒரே மகிழ்ச்சி,`
 - English terminal text — **“He was filled with joy,”**
 
-## Part002 — ACTIVE
+## Part002 — FINAL CLOSED / FROZEN
 
 - global scans — **31–60**
 - canonical records — **30/30**
@@ -50,7 +50,7 @@
 - bilingual English-only corrections — **3**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- English next — **final Part002 closure**
+- final closure — **PASS / CLOSED**
 - 30→31 — **GENUINE CONTINUATION / AUDITED**
 - 60→61 — **CLEAN / AUDITED**
 
@@ -67,24 +67,27 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_BILINGUAL_REVIEW.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_RELEASE_REPORT.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_RELEASE_READY_SYNC.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_002_FINAL_CLOSURE.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
-## Part003
+## Part003 — NEXT ACTIVE PART / AUTHORIZED / NOT STARTED
 
-- supplied / registered
-- scans61–90
-- **NOT ACTIVE**
-- transcription remains blocked until Part002 final closure.
+- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
+- global scans — **61–90**
+- local pages — **1–30**
+- incoming 60→61 — **CLEAN / AUDITED**
+- outgoing 90→91 — **PENDING direct audit**
+- canonical Part003 page records — **0**
+- Pass 1 — **NOT STARTED**
+- first normal batch — **global scans61–70 / local pages1–10**
+
+Part001 and Part002 are frozen.
 
 ## Exact next activity
 
-Create and verify **Part002 final closure** at `PART_002_FINAL_CLOSURE.md`.
+Activate **Part003 / global scans61–90** and perform **Part003 Pass 1 — first batch global scans61–70 / local pages1–10**.
 
-Authority:
-- canonical Part002 `pages/` — controlling Tamil authority;
-- PASSED Part002 `sections/08-*.md` through `12-*.md` — maintained Tamil reading authority;
-- all five maintained Part002 English section files — closed maintained English body layer;
-- `translations/en/PART_002_TRANSLATION_PLAN.md`, `PART_002_GLOSSARY.md`, `PART_002_GLOSSARY_RECONCILIATION.md`, `PART_002_TRANSLATION_REVIEW.md`, `PART_002_BILINGUAL_REVIEW.md` and `PART_002_RELEASE_REPORT.md` — closed English/release controls.
+Create canonical page records with global numbering and exact Part003 provenance, and create/update `PART_003_PASS1_PROGRESS.md`.
 
-Do not begin Part003 transcription until final Part002 closure passes. Keep Part001 frozen.
+Preserve incoming **60→61 CLEAN / AUDITED**. Do not begin Pass 2A until Part003 Pass 1 covers the full Part.

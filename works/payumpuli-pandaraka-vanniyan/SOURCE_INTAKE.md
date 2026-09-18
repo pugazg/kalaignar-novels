@@ -101,8 +101,8 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - bilingual English-only corrections — **3**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- English next — **final Part002 closure**
-- Part003 source — **REGISTERED / NOT ACTIVE**
+- Part002 final closure — **PASS / CLOSED / FROZEN**
+- Part003 source — **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
 
@@ -121,6 +121,8 @@ Authoritative Part002 closure records:
 
 ## Exact next activity
 
-Create and verify **Part002 final closure**.
+Perform **Part003 Pass 1 — first batch global scans61–70 / local pages1–10** from the registered Part003 source.
 
-Part003 remains source-registered / inactive until Part002 final closure.
+Create canonical Part003 page records with global numbering and exact provenance, and create/update `PART_003_PASS1_PROGRESS.md`.
+
+Part001 and Part002 remain frozen. Do not begin Part003 Pass 2A until Pass 1 covers scans61–90.

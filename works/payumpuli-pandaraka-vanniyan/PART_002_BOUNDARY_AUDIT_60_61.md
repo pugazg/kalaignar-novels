@@ -45,3 +45,13 @@ With this audit:
 - Part002 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
 - Part002 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
 - Part002 Part audit — **PASS / COMPLETE**
+
+## Post-Part002-final-closure state
+
+Part002 is now **FINAL CLOSURE — PASS / CLOSED / FROZEN**.
+
+The audited boundary remains:
+
+**60→61 = CLEAN / AUDITED**
+
+Part003 is now **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**. This activation does not alter the boundary classification and does not itself transcribe scan61.

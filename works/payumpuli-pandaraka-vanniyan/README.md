@@ -11,7 +11,7 @@
 
 Part001 / scans1–30 is fully closed. Its Tamil, assembled Tamil, English and final Part closure chain must not be reopened merely because Part002 advances.
 
-## Part002 — ACTIVE
+## Part002 — FINAL CLOSED / FROZEN
 
 Controlling source:
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf`
@@ -40,7 +40,7 @@ Current closed Tamil verification state:
 - bilingual English-only corrections — **3**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- English next — **final Part002 closure**
+- final closure — **PASS / CLOSED**
 - incoming 30→31 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 60→61 — **CLEAN / AUDITED**
 
@@ -73,12 +73,22 @@ Durable Part002 records:
 - `PART_002_RELEASE_READY_SYNC.md`
 - `translations/en/PART_002_PROGRESS.md`
 
-## Part003
+## Part003 — NEXT ACTIVE PART / AUTHORIZED / NOT STARTED
 
-Part003 / scans61–90 is **SUPPLIED / REGISTERED / NOT ACTIVE**. Scan61 was used only as the 60→61 witness. No canonical Part003 page record has been created.
+Part003 / scans61–90 is now authorized after **PART002 FINAL CLOSURE — PASS / CLOSED**.
+
+- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
+- local PDF pages — **30**
+- incoming 60→61 — **CLEAN / AUDITED**
+- outgoing 90→91 — **PENDING direct audit**
+- canonical Part003 page records — **0**
+- Pass 1 — **NOT STARTED**
+- first Pass-1 batch — **global scans61–70 / local pages1–10**
 
 ## Exact next activity
 
-Create and verify **Part002 final closure** at `PART_002_FINAL_CLOSURE.md`.
+Perform **Part003 Pass 1 — global scans61–70 / local pages1–10**.
 
-Do not alter frozen Part001 English or reopen Tamil without a genuine fidelity issue. Do not begin Part003 transcription until final Part002 closure passes.
+Create canonical page records with global numbering and exact source provenance, and create/update `PART_003_PASS1_PROGRESS.md`.
+
+Do not reopen frozen Part001/Part002. Do not begin Part003 Pass 2A until Pass 1 covers scans61–90.

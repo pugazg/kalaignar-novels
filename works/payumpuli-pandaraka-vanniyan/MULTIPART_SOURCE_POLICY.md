@@ -60,8 +60,8 @@ For every `N→N+1` boundary:
 - bilingual English-only corrections — **3**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- English next — **final Part002 closure**
-- Part003 — **SUPPLIED / REGISTERED / NOT ACTIVE**
+- Part002 final closure — **PASS / CLOSED / FROZEN**
+- Part003 — **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**
 - split-boundary classifications — **2 / 15 audited**
 
 Audited boundaries:
@@ -88,6 +88,7 @@ Durable record:
 Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
-- **Part002 final closure**
 
-Do not begin Part003 transcription until final Part002 closure passes. Keep Part003 transcription blocked.
+**Part003 Pass 1 — first batch global scans61–70 / local pages1–10.**
+
+Part001 and Part002 remain frozen. Preserve 60→61 as **CLEAN / AUDITED**. Do not begin Pass 2A until Part003 Pass 1 covers scans61–90.

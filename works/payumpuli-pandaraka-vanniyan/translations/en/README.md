@@ -96,7 +96,7 @@ After E9:
 - Part002 release-ready synchronization
 - Part002 final closure
 
-Part003 remains blocked until Part002 final closure.
+Part003 remained blocked until Part002 final closure; that prerequisite has now passed.
 
 ## Part002 glossary state
 
@@ -113,13 +113,13 @@ Part003 remains blocked until Part002 final closure.
 - release/readiness — **PASS / CLOSED**
 - unresolved release/readiness blockers — **0**
 - release-ready synchronization — **PASS / CLOSED**
-- final Part002 closure — **NEXT / NOT STARTED**
-- Part003 transcription — **BLOCKED**
+- final Part002 closure — **PASS / CLOSED / FROZEN**
+- Part003 — **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**
 
 ## Exact next activity
 
-Create and verify **Part002 final closure**:
+Part002 English is now frozen under final closure.
 
-`../../PART_002_FINAL_CLOSURE.md`
+Proceed with **Part003 Pass 1 — global scans61–70 / local pages1–10** in the Tamil archival workflow.
 
-Do not begin Part003 transcription until final Part002 closure passes.
+Do not begin Part003 English planning until Part003 reaches its Tamil/assembled-Tamil English-entry gate.
