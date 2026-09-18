@@ -83,7 +83,7 @@ This work now follows the **Kuraloviyam per-Part closure model**. The split is a
 
 Permanent Part order:
 
-**source intake → Pass 1 complete transcription → Pass 2A direct textual verification → Pass 2B independent lexical/historical-glyph reread → Pass 3 visual/structural verification → Part audit → final status sync → documentation sync → Tamil archival-ready → assembled Tamil closure → English translation/review → release/readiness report → final Part closure → next Part**
+**source intake → Pass 1 complete transcription → Pass 2A direct textual verification → Pass 2B independent lexical/historical-glyph reread → Pass 3 visual/structural verification → Part audit → final status sync → documentation sync → Tamil archival-ready → assembled Tamil closure → English translation/review → release/readiness report → release-ready synchronization → final Part closure → next Part**
 
 A later Part may be supplied/registered and may serve as an adjacent boundary witness, but its transcription must not begin before the active Part's final closure.
 
@@ -94,47 +94,33 @@ Authoritative work-specific guide:
 
 - 16 / 16 split PDFs: **SUPPLIED / REGISTERED**
 - 477 / 477 source pages accounted for by split ranges
-- **active Part: Part001 / scans1–30**
-- canonical Part001 records: **30/30 present**
-- Part001 Pass 1 text-complete: **30/30**
-- Part001 Pass 1 partial: **0/30**
-- formal Pass 2A: **COMPLETE — 30/30 reviewed**
-- formal Pass 2B: **COMPLETE — 30/30 reviewed**
-- formal Pass 3: **COMPLETE — 30/30 reviewed**
-- Part001 Part audit: **PASS / COMPLETE**
-- Part001 final metadata/status synchronization: **PASS / CLOSED**
-- Part001 Tamil textual status: **30/30 verified; 0 partial; 0 needs-review**
-- Part001 visual fidelity: **30/30 verified; 0 needs-review**
-- Part001 unresolved status exceptions: **0**
-- Part001 documentation synchronization: **PASS / COMPLETE**
-- Part001 Tamil archival-ready checkpoint: **PASS / CLOSED**
-- Part001 assembled Tamil: **PASS / CLOSED — 8/8 section files VERIFIED**
-- Part001 English E1: **SOURCE-CHECKED / COMPLETE**
-- Part001 English E2: **SOURCE-CHECKED / COMPLETE**
-- Part001 English E3: **SOURCE-CHECKED / COMPLETE**
-- Part001 English E4: **SOURCE-CHECKED / COMPLETE**
-- Part001 English translated/source-checked files: **8/8**
-- unresolved English holds: **0**
-- Part001 English glossary reconciliation: **RECONCILED / PASS**
-- Part001 English: **EDITORIAL REVIEW NEXT**
-- Part001 Tamil archival-ready: **BLOCKED**
-- Part001 English/release: **BLOCKED**
-- Part002 transcription: **BLOCKED until Part001 final closure**
+- **Part001: FINAL CLOSURE — PASS / CLOSED / FROZEN**
+- **active Part: Part002 / scans31–60**
+- Part002 canonical records: **30/30 present**
+- Part002 Pass 1 transcription: **30/30 TEXT-COMPLETE**
+- Part002 Pass 1 partial: **0/30**
+- Part002 Pass-1 closure hold: **60→61 direct boundary audit**
+- Part002 Pass 2A / Pass 2B / Pass 3: **NOT STARTED / BLOCKED**
+- Part002 assembled Tamil / English: **NOT STARTED**
 - split-boundary classifications: **1 / 15 audited — 30→31 GENUINE CONTINUATION**
-- exact active gate: **English editorial review**
+- 60→61: **PENDING DIRECT AUDIT**
+- Part003: **SUPPLIED / REGISTERED; transcription remains blocked behind Part002 final closure**
+- exact active gate: **60→61 boundary audit to close Part002 Pass 1**
+
+Part003 is durably registered, but its scan61 source pixels are not accessible in the current chat runtime. The boundary therefore remains unclassified rather than inferred from scan60 alone.
 
 ## Batch-size policy
 
-The legacy opening batch **scans1–5** was already in progress before the user changed the iteration size; it is now closed through T3.
-
 Normal source iterations use **10 physical scans per batch**, with a shorter final remainder.
 
-For Part001 Pass 1:
-- completed: **scans6–15 — text-complete / needs-review**;
-- completed: **scans16–25 — text-complete / needs-review**;
-- completed: **scans26–30 — text-complete / needs-review**;
-- Pass 1 is **30/30 complete**. These `needs-review` labels are retained here as historical Pass-1 closure states; the full verification chain later promoted all 30 records to final `verified`.
+For Part002 Pass 1:
+- scans31–40 — **COMPLETE / TEXT-COMPLETE**
+- scans41–50 — **COMPLETE / TEXT-COMPLETE**
+- scans51–60 — **TEXT-COMPLETE**
+- total transcription coverage — **30/30**
+- formal Pass-1 closure — **HELD only on 60→61 direct boundary audit**
 
+All Part002 records remain `needs-review` until later formal verification gates.
 
 ## Audited boundary — 30→31
 
