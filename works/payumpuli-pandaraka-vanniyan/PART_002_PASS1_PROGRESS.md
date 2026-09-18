@@ -22,7 +22,7 @@ Part001 remains **FINAL CLOSURE — PASS / CLOSED / FROZEN**.
 - unresolved Pass-1 holds: **0**
 - Pass 2A: **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 2B: **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 3: **NOT STARTED**
+- Pass 3: **IN PROGRESS — 10/30 REVIEWED**
 - assembled Tamil / English: **NOT STARTED**
 
 All Pass-1 records remain non-final:
@@ -61,12 +61,12 @@ All Part002 Pass-1 transcription was made from the user-supplied rendered source
 
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 3 — **NOT STARTED**
+- Pass 3 — **IN PROGRESS — 10/30 REVIEWED**
 - Pass 2A tracker — `PART_002_PASS2A_PROGRESS.md`
 - Pass 2B tracker — `PART_002_PASS2B_PROGRESS.md`
 
 ## Exact next activity
 
-Continue **Part002 Pass 3 — global scans31–40 / local pages1–10**.
+Continue **Part002 Pass 3 — global scans41–50 / local pages11–20**.
 
 Do not begin Part003 transcription.
