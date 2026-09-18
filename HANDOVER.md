@@ -9,8 +9,7 @@
 
 ## Governing methodology
 
-Payumpuli follows the **Kuraloviyam per-Part closure methodology**. Authoritative guide:
-`works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`.
+Payumpuli follows the **Kuraloviyam per-Part closure methodology**.
 
 ## Source family
 
@@ -22,15 +21,13 @@ Payumpuli follows the **Kuraloviyam per-Part closure methodology**. Authoritativ
 
 ## Part001 — FINAL CLOSED / FROZEN
 
-Part001 / global scans1–30 has completed the full Tamil, assembled-Tamil, English, bilingual, release/readiness, release-ready synchronization and final-closure workflow.
+Part001 / global scans1–30 is fully closed.
 
 - final closure — **PASS / CLOSED**
 - unresolved blockers — **0**
-- permanent 30→31 boundary — **GENUINE CONTINUATION / AUDITED**
+- 30→31 — **GENUINE CONTINUATION / AUDITED**
 - Tamil terminal text — `அவனுக்கு ஒரே மகிழ்ச்சி,`
 - English terminal text — **“He was filled with joy,”**
-
-Do not reopen Part001 unless a genuine source-fidelity issue is explicitly discovered.
 
 ## Part002 — ACTIVE
 
@@ -38,44 +35,38 @@ Source:
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf`
 
 Current state:
-- global scans — **31–60**
-- local pages — **1–30**
-- canonical records — **20/30 — scans31–50**
-- Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
+- canonical records — **30/30 — scans31–60**
+- Pass 1 transcription — **TEXT-COMPLETE 30/30**
 - Batch 1 scans31–40 — **COMPLETE**
 - Batch 2 scans41–50 — **COMPLETE**
-- scans51–60 — **PENDING Pass 1**
-- Pass 2A / 2B / 3 — **NOT STARTED**
+- Batch 3 scans51–60 — **TEXT-COMPLETE**
+- Pass-1 closure — **HOLD: 60→61 direct boundary audit**
+- Pass 2A / 2B / 3 — **NOT STARTED / BLOCKED**
 - assembled Tamil / English — **NOT STARTED**
-- outgoing boundary 60→61 — **PENDING direct audit**
 
 Tracker:
 `works/payumpuli-pandaraka-vanniyan/PART_002_PASS1_PROGRESS.md`
 
-### Batch-2 durable details
+### Batch-3 durable details
 
-- scan41 / printed30 — chapter4 continuation;
-- scan42 / printed31 — chapter5 `நாலு கால் மண்டபத்தில்!` opens;
-- scans43–49 — chapter5 continuation;
-- scan50 / printed39 — chapter6 `கண்டியின் வாரிசுப் போட்டி!` opens;
-- source name form `குலசேகரம் வைரமுத்து` is retained where printed;
-- scan44 retains source laughter form `களுக்`;
-- scan48 ends with a source-visible open quotation;
-- scan49 retains place form `முள்ளியவளை`;
-- scan50 ends physically `பாஞ்சாலங்குறிச்சி` — do not infer scan51.
+- scans51–56 continue chapter6 `கண்டியின் வாரிசுப் போட்டி!`
+- scan57 / printed46 opens chapter7 `தீவுக்குள் தீயவர்கள்!`
+- scan59 is one illustrated physical scan carrying printed pages **48–49**
+- scan60 / printed50 is Part002's final physical scan
+- scan50→51 and scan59→60 continuations were directly source-checked
+- no Part003 text has been imported
 
-## Source rules
+### 60→61 hold
 
-- use only the user-supplied split PDF/source pixels;
-- preserve source wording, punctuation, paragraph/dialogue structure and historical glyph identity;
-- preserve exact Part002 provenance and global scan numbering;
-- normal batch size is **10 physical scans**;
-- do not begin Pass 2A until Part002 Pass 1 is **30/30**.
+- scan60 is directly inspected and text-complete;
+- Part003 is **SUPPLIED / REGISTERED**;
+- Part003 scan61 pixels are not accessible in the current chat runtime;
+- policy requires both adjacent source scans, so **60→61 remains PENDING DIRECT AUDIT**.
 
 ## Exact next activity
 
-Perform **Part002 Pass 1 — global scans51–60 / local pages21–30**, the final Pass-1 batch.
+Make Part003 local page1 / global scan61 source pixels accessible and directly compare **scan60→61**.
 
-Inspect scan51 before continuing scan50's open fragment. At the end of the batch, audit the **60→61** boundary according to the multipart boundary rule. Mark Pass 1 complete only if all ten pages are text-complete.
+If no scan60 correction is required, mark Part002 Pass 1 **30/30 COMPLETE / PASS** and synchronize controls.
 
-**Stop after scans51–60 / Pass-1 closure. Do not begin Pass 2A in the same iteration without another explicit continuation.**
+**Stop after Pass-1 closure. Do not begin Pass 2A without another explicit continuation.**
