@@ -32,7 +32,7 @@ For every reviewed scan:
 - cumulative Pass 2A source-text corrections — **8**
 - unresolved textual questions — **0**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 3 — **IN PROGRESS — 20/30 REVIEWED**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
 
 ## Batch 1 — scans31–40
 
@@ -118,6 +118,6 @@ The independent Pass2B enlarged-source reread found one additional ordinary sour
 
 ## Exact next activity
 
-Perform **Part002 Pass 3 — global scans51–60 / local pages21–30** as the visual / structural verification layer.
+Perform the **Part002 Part audit** across scans31–60 using the closed verification evidence.
 
-Stop after that 10-scan batch. Do not begin Part audit or Part003 transcription without another explicit continuation.
+Stop after the Part-audit gate. Do not begin final metadata/status synchronization or Part003 transcription without another explicit continuation.

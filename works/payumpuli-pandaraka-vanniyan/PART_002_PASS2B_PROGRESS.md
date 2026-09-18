@@ -38,7 +38,7 @@ Pages remain `needs-review`. Final `verified` status is not assigned during Pass
 - cumulative historical-glyph corrections — **0**
 - cumulative other lexical / punctuation corrections — **1**
 - unresolved historical-glyph identities — **0**
-- Pass 3: **IN PROGRESS — 20/30 REVIEWED**
+- Pass 3: **COMPLETE / PASS — 30/30 REVIEWED**
 
 ## Batch 1 — scans31–40
 
@@ -154,6 +154,6 @@ All Part002 page records remain `needs-review` pending Pass 3 and later whole-Pa
 
 ## Exact next activity
 
-Perform **Part002 Pass 3 — global scans51–60 / local pages21–30** as the visual / structural verification layer.
+Perform the **Part002 Part audit** across scans31–60 using the closed verification evidence.
 
-Stop after that 10-scan batch. Do not begin Part audit or Part003 transcription without another explicit continuation.
+Stop after the Part-audit gate. Do not begin final metadata/status synchronization or Part003 transcription without another explicit continuation.

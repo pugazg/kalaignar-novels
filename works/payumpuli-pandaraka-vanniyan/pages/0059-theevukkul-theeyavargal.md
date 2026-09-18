@@ -11,7 +11,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans51–60; formal Part002 Pass 2A reviewed; formal Part002 Pass 2B reviewed"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans51–60; formal Part002 Pass 2A reviewed; formal Part002 Pass 2B reviewed; formal Part002 Pass 3 visual/structural review completed"
 ---
 
 # தீவுக்குள் தீயவர்கள்!
@@ -60,4 +60,16 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - Pass 2B result: **REVIEWED / PASS**;
 - page remains `needs-review`; final `verified` promotion remains blocked until Pass 3, Part audit and final status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 59; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 29; அச்சுப் பக்கங்கள்: 48–49; PASS 1 + PASS 2A + PASS 2B REVIEWED / needs-review -->
+## Formal Part002 Pass 3 visual / structural review
+
+- this single landscape physical scan is an illustrated two-page spread carrying printed pages `48` and `49`;
+- a full-colour narrative illustration spans the upper portions of both printed pages with no separate printed caption;
+- two distinct rounded text panels sit beneath the illustration, with footer markers `48` on the left and `49` on the right; reading order is left page then right page;
+- scan58's `வந்தபோதுதான்` continues into printed page48; printed page49 ends at `தெரிந்த காரணத்தால்`, continuing on scan60;
+- body-vs-non-body separation, the illustration/text boundary, displayed hierarchy, dual printed-page furniture and continuation state were checked directly against the whole-spread source image;
+- canonical source text required **0 textual corrections** in Pass 3;
+- unresolved visual/structural questions: **0**;
+- Pass 3 result for this scan: **REVIEWED / PASS**;
+- page remains `needs-review` pending Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 59; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 29; அச்சுப் பக்கங்கள்: 48–49; PASS 1 + PASS 2A + PASS 2B + PASS 3 REVIEWED / needs-review -->

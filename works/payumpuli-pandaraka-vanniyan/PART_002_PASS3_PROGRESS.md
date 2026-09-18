@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS — 20/30 REVIEWED**
+**PASS 3 — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisites:
 - Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -28,14 +28,15 @@ For every reviewed scan:
 
 Pages remain `needs-review` until whole-Part Pass 3, Part audit and final metadata/status synchronization close.
 
-## Current accounting
+## Final accounting
 
-- Pass 3 reviewed: **20/30 — scans31–50**
-- Pass 3 remaining: **10/30 — scans51–60**
-- textual corrections introduced by Pass 3 Batch 1: **0**
-- unresolved visual/structural questions in Batch 1: **0**
-- textual corrections introduced by Pass 3 Batch 2: **0**
-- unresolved visual/structural questions in Batch 2: **0**
+- Pass 3 reviewed: **30/30 — scans31–60**
+- Pass 3 remaining: **0/30**
+- Batch 1 scans31–40 — **0 textual corrections; 0 unresolved visual/structural questions**
+- Batch 2 scans41–50 — **0 textual corrections; 0 unresolved visual/structural questions**
+- Batch 3 scans51–60 — **0 textual corrections; 0 unresolved visual/structural questions**
+- cumulative Pass 3 textual corrections — **0**
+- cumulative unresolved visual/structural questions — **0**
 - Part audit: **NOT STARTED**
 
 ## Batch 1 — scans31–40
@@ -72,6 +73,23 @@ Pages remain `needs-review` until whole-Part Pass 3, Part audit and final metada
 | 49 | 19 | 38 | body | chapter-closing text in upper field; lower field intentionally blank |
 | 50 | 20 | 39 | chapter-opening | ornate chapter 6 banner; ends mid-sentence into scan51 |
 
+## Batch 3 — scans51–60
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+| Global scan | Local page | Printed page | Page type | Structural result |
+|---:|---:|---:|---|---|
+| 51 | 21 | 40 | body | framed continuation from scan50 |
+| 52 | 22 | 41 | body | long open quotation continues to scan53 |
+| 53 | 23 | 42 | body | quotation continuation; ends `வந்தவர்களை` |
+| 54 | 24 | 43 | body | begins continuation; quotation remains open |
+| 55 | 25 | 44 | body | opening paragraph closes long quotation |
+| 56 | 26 | 45 | body | chapter-6 scene closes |
+| 57 | 27 | 46 | chapter-opening | ornate chapter 7 banner + separate number ornament |
+| 58 | 28 | 47 | body | ends `வந்தபோதுதான்` into scan59 |
+| 59 | 29 | 48–49 | illustrated-two-page-spread | full-colour illustration + two framed text panels |
+| 60 | 30 | 50 | body | framed final Part002 page; clean 60→61 boundary |
+
 ## Durable visual / structural findings
 
 - scans31–34 and 36–40 use the recurring rounded ornamental frame with printed page number centered in the dark circular footer marker;
@@ -95,8 +113,29 @@ Additional Batch-2 findings:
 - no illustration, photograph, caption, library stamp, handwriting or other copy-specific non-body mark in scans41–50 requires separate canonical capture;
 - Pass 3 Batch 2 introduced **0 textual corrections** and left **0 unresolved visual/structural questions**.
 
+Additional Batch-3 findings:
+- scans51–56 continue chapter **6 — `கண்டியின் வாரிசுப் போட்டி!`** in the recurring framed layout with printed pages **40–45**;
+- scan51 structurally continues scan50's physical split; scans52–55 preserve the long quotation across physical page breaks, including scan53→54 `வந்தவர்களை`;
+- scan56 closes the chapter-6 scene before the new chapter on scan57;
+- scan57 visibly opens chapter **7 — `தீவுக்குள் தீயவர்கள்!`** with the large ornamental banner and separate shield-like chapter number `7`;
+- scan58 / printed47 ends at `வந்தபோதுதான்`, continuing into scan59;
+- scan59 is one landscape physical scan containing a full-colour illustration spanning the upper halves of printed pages **48–49**, with two separate framed text panels below; there is no separate printed caption;
+- scan59 reading order is left printed page48 → right printed page49; page49 ends at `தெரிந்த காரணத்தால்`, continuing directly into scan60;
+- scan60 / printed50 is a normal framed body page, ends a complete sentence, and the previously audited **60→61 CLEAN** boundary remains structurally confirmed;
+- Pass 3 Batch 3 introduced **0 textual corrections** and left **0 unresolved visual/structural questions**.
+
+## Pass 3 closure
+
+**PASS — 30/30 Part002 physical scans visually / structurally reviewed.**
+
+All Part002 page records deliberately remain:
+- `status: needs-review`
+- `visual_fidelity: needs-review`
+
+until the repository-level Part audit and final metadata/status synchronization close.
+
 ## Exact next activity
 
-Perform **Part002 Pass 3 — global scans51–60 / local pages21–30**.
+Perform **Part002 Part audit** across scans31–60 using the closed source-intake, Pass1, Pass2A, Pass2B, Pass3, correction-ledger and boundary evidence. Create `PART_002_AUDIT.md` following the established `PART_001_AUDIT.md` structure.
 
-Stop after that 10-scan batch. Do not begin Part audit or Part003 transcription without another explicit continuation.
+Stop after the Part-audit gate. Do not begin final metadata/status synchronization or Part003 transcription without another explicit continuation.

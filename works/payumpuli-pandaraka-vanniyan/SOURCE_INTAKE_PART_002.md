@@ -37,9 +37,9 @@ Part002:
 - unresolved Pass-1 holds — **0**
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 3 — **IN PROGRESS — 20/30 REVIEWED**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
 - assembled Tamil / English — **NOT STARTED**
 
 ## Exact next activity
 
-Perform **Part002 Pass 3 — global scans51–60 / local pages21–30** using the Part002 source only.
+Perform the **Part002 Part audit** across scans31–60 using the closed verification evidence.

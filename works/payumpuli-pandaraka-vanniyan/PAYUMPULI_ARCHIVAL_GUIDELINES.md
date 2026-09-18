@@ -50,11 +50,11 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part002 unresolved Pass-1 holds: 0**
 - **Part002 Pass 2A: COMPLETE / PASS — 30/30 REVIEWED**
 - **Part002 Pass 2B: COMPLETE / PASS — 30/30 REVIEWED**
-- **Part002 Pass 3: IN PROGRESS — 20/30 REVIEWED**
+- **Part002 Pass 3: COMPLETE / PASS — 30/30 REVIEWED**
 - **Part003: REGISTERED / NOT ACTIVE**
 
 ## Exact next gate
 
-Perform **Part002 Pass 3 — global scans51–60 / local pages21–30**.
+Perform **Part002 Part audit** across scans31–60 using the closed Pass1 / Pass2A / Pass2B / Pass3 evidence.
 
 Do not begin Part003 transcription.
