@@ -21,12 +21,13 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 ## Boundary state
 
 - incoming split boundary: **60→61 — CLEAN / AUDITED**
-- outgoing split boundary: **90→91 — PENDING direct audit**
+- outgoing split boundary: **90→91 — GENUINE CONTINUATION / AUDITED**
 
 For the incoming audit, scan61 / printed51 was inspected only as a witness against Part002 scan60 / printed50. No Part003 canonical transcription record was created.
 
-Durable record:
+Durable records:
 - `PART_002_BOUNDARY_AUDIT_60_61.md`
+- `PART_003_BOUNDARY_AUDIT_90_91.md`
 
 ## Current gate
 
@@ -40,12 +41,12 @@ Part003 is therefore:
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - unresolved Pass-1 source-reading holds — **0**
 - scan90 / printed80 terminal fragment — **என்னைப்** inside an open quotation
-- Pass 2A — **NOT STARTED**
+- Pass 2A — **IN PROGRESS — 10/30 REVIEWED; 0 corrections; 0 unresolved**
 - incoming 60→61 — **CLEAN / AUDITED**
-- outgoing 90→91 — **PENDING direct audit**
+- outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
 
 ## Exact next activity
 
-Perform the **Part003 outgoing boundary audit 90→91** against Part004 scan91. Use scan91 only as a boundary witness and do not create Part004 canonical text.
+Perform **Part003 Pass 2A — batch 2 scans71–80 / local pages11–20**.
 
-After direct boundary classification, begin **Part003 Pass 2A — first batch scans61–70**.
+Do not begin Pass 2B until Pass 2A covers the full Part.

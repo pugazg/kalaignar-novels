@@ -77,19 +77,18 @@ Durable records:
 - global scans — **61–90**
 - local pages — **1–30**
 - incoming 60→61 — **CLEAN / AUDITED**
-- outgoing 90→91 — **PENDING direct audit**
+- outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
 - canonical Part003 page records — **30/30 — scans61–90**
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - unresolved Pass-1 source-reading holds — **0**
 - scan90 / printed80 terminal fragment — **என்னைப்** inside an open quotation
-- Pass 2A — **NOT STARTED**
+- Pass 2A — **IN PROGRESS — 10/30 REVIEWED**
+- Pass 2A cumulative corrections — **0; unresolved 0**
 
 Part001 and Part002 are frozen.
 
 ## Exact next activity
 
-Perform the **Part003 outgoing boundary audit 90→91** against Part004 scan91. Do not create Part004 canonical page records during the boundary audit.
+Perform **Part003 Pass 2A — batch 2 scans71–80 / local pages11–20**.
 
-After the boundary is directly classified, begin **Part003 Pass 2A — first batch scans61–70**.
-
-Preserve incoming **60→61 CLEAN / AUDITED**.
+Preserve incoming **60→61 CLEAN / AUDITED** and outgoing **90→91 GENUINE CONTINUATION / AUDITED**. Do not begin Pass 2B until Pass 2A covers scans61–90.

@@ -19,10 +19,10 @@ Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 - Pass-1 text-complete records: **30/30 — scans61–90**
 - Pass-1 transcription pending: **0**
 - unresolved Pass-1 source-reading holds: **0**
-- Pass 2A: **NOT STARTED**
+- Pass 2A: **IN PROGRESS — 10/30 REVIEWED; 0 corrections; 0 unresolved**
 - Pass 2B: **NOT STARTED**
 - Pass 3: **NOT STARTED**
-- outgoing 90→91 boundary audit: **PENDING direct audit**
+- outgoing 90→91 boundary audit: **GENUINE CONTINUATION / AUDITED**
 
 All Part003 Pass-1 records remain non-final:
 - status: "needs-review"
@@ -79,12 +79,16 @@ The previously completed direct boundary audit remains authoritative. Part002 sc
 
 ## Outgoing boundary
 
-**90→91 = PENDING direct audit**
+**90→91 = GENUINE CONTINUATION / AUDITED**
 
-- scan90 / printed80 ends at the open-quotation fragment என்னைப்;
-- Part004 is registered as global scans91–120 and its source intake records scan91 as available for a direct boundary audit;
-- no scan91 wording has been inferred, reconstructed or imported into Part003;
-- the boundary must be classified only after direct comparison of scan90 and scan91 source pixels.
+- scan90 / printed80 ends at the open-quotation fragment `என்னைப்`;
+- Part004 scan91 / printed81 begins `போன்றோர் - எந்தக் கணத்திலும் சாவைத் தழுவிடத் தயாராக இருக்கவேண்டும்!`;
+- the physical split therefore preserves the direct continuation `என்னைப் போன்றோர்`;
+- the open quotation continues naturally onto scan91;
+- no scan90 correction was required and no Part004 canonical record was created.
+
+Durable record:
+- `PART_003_BOUNDARY_AUDIT_90_91.md`
 
 ## Notable source readings retained
 
@@ -114,8 +118,6 @@ The bootstrap referenced HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md, but that
 
 ## Exact next activity
 
-Perform the **Part003 outgoing boundary audit 90→91** against Part004 scan91.
+Perform **Part003 Pass 2A — batch 2 scans71–80 / local pages11–20**.
 
-After the boundary is directly classified, begin **Part003 Pass 2A — first batch scans61–70**.
-
-Do not create Part004 canonical page records during the boundary audit.
+Do not begin Pass 2B until Part003 Pass 2A covers scans61–90.

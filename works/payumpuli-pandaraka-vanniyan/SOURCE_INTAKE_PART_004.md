@@ -4,14 +4,14 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity and global mapping are durable; direct page audit remains pending.**
+**SUPPLIED / REGISTERED — split identity and global mapping are durable; incoming boundary witness audit complete.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **91–120**;
 - complete-source extent: **477 scans**;
 - split design: **15 × 30 pages + final 27 pages = 477**;
 - file size: **30,765,165 bytes**;
-- SHA-256: **PENDING**;
+- SHA-256: **`6fae807968fcaed0241e4d20da954b797d502caad28f047615b78f58324538a6`**;
 - source text layer: **no usable parsed text exposed**;
 - controlling representation: **rendered source page images**;
 - source family: **TVA_BOK_0065744**;
@@ -23,10 +23,15 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Boundary state
 
-- incoming split boundary: **90→91 — source available; classification pending direct audit**;
+- incoming split boundary: **90→91 — GENUINE CONTINUATION / AUDITED**;
 - outgoing split boundary: **120→121 — source available; classification pending direct audit**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
+
+For the incoming audit, Part004 local page 1 / global scan91 / printed81 was inspected only as a witness against Part003 scan90 / printed80. It begins `போன்றோர் - ...`, directly continuing scan90's terminal `என்னைப்` as `என்னைப் போன்றோர்`. No Part004 canonical page record was created.
+
+Durable record:
+- `PART_003_BOUNDARY_AUDIT_90_91.md`
 
 ## Canonical page provenance
 
@@ -44,4 +49,8 @@ The canonical `scan_page` remains the overall scan number **91–120**.
 
 Part 004 source split: **SUPPLIED / REGISTERED**.
 
-This Part waits behind the global active frontier. Do not create page records here until processing reaches its overall scan range.
+- incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
+- canonical Part004 page records — **0**
+- Part004 Pass 1 — **NOT STARTED**
+
+This Part waits behind the global active frontier. Part003 remains active. Do not create Part004 page records until the complete maintained Part003 workflow closes.

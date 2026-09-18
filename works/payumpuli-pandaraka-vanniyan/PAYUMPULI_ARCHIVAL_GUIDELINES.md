@@ -40,6 +40,7 @@ The adjacent next-Part scan may be inspected only as a boundary witness.
 Audited:
 - **30→31 — GENUINE CONTINUATION**
 - **60→61 — CLEAN**
+- **90→91 — GENUINE CONTINUATION**
 
 For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were directly compared. No scan60 correction was needed and no Part003 canonical text was imported.
 
@@ -70,13 +71,11 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part003: ACTIVE / AUTHORIZED**
 - **Part003 Pass 1: COMPLETE / PASS — 30/30 TEXT-COMPLETE — scans61–90**
 - **Part003 unresolved Pass-1 source-reading holds: 0**
-- **Part003 90→91 boundary: PENDING direct audit**
-- **Part003 Pass 2A: NOT STARTED**
+- **Part003 90→91 boundary: GENUINE CONTINUATION / AUDITED**
+- **Part003 Pass 2A: IN PROGRESS — 10/30 REVIEWED — 0 corrections; 0 unresolved**
 
 ## Exact next gate
 
-Perform **Part003 outgoing boundary audit 90→91** against Part004 scan91, using scan91 only as the adjacent boundary witness.
+Perform **Part003 Pass 2A — batch 2 scans71–80 / local pages11–20**.
 
-After that direct classification, begin **Part003 Pass 2A — first batch scans61–70**.
-
-Do not reopen frozen Part001/Part002 and do not create Part004 canonical page records during the boundary audit.
+Do not reopen frozen Part001/Part002. Do not begin Part004 transcription until the complete Part003 maintained workflow closes.

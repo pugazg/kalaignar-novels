@@ -32,7 +32,7 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch s
 - scan89's terminal பெரும் வேறுபாடு continues here with சுந்தரலிங்கத்திற்குப் புரிந்துவிட்டது!;
 - source-local forms கட்ட பொம்மன், தகிக் கண்களும், and சுழலும் வாள் are retained;
 - scan90 ends physically inside an open quotation at the fragment என்னைப்; no scan91 completion is invented or imported;
-- outgoing 90→91 boundary remains PENDING direct audit because the adjacent Part004 source page is not part of this controlling PDF;
+- outgoing **90→91 = GENUINE CONTINUATION / AUDITED**: Part004 scan91 begins `போன்றோர் - ...`, continuing the physical fragment as `என்னைப் போன்றோர்`; no scan91 canonical text is imported;
 - status and visual fidelity remain needs-review.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 90; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 30; அச்சுப் பக்கம்: 80; PASS 1 TEXT-COMPLETE / needs-review -->
