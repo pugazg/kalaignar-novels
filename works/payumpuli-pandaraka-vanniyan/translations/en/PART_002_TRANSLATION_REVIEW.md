@@ -203,3 +203,23 @@ No file under canonical Part002 `pages/` or Tamil `sections/` is changed by this
 **Part002 whole-Part bilingual review.**
 
 Do not begin release/readiness, release-ready synchronization, final Part002 closure or Part003 transcription before the bilingual review closes.
+
+## Post-editorial bilingual review state
+
+This editorial-review record remains historically correct and closed.
+
+Subsequent whole-Part bilingual review:
+- reviewed Tamil/English pairs — **5/5**;
+- rechecked all editorial corrections — **12/12 PASS**;
+- found English drift introduced by editorial corrections — **0**;
+- made **3** separate English-only source-alignment corrections from the full bilingual comparison;
+- unresolved bilingual holds — **0**;
+- canonical Tamil edits — **0**;
+- Part003 leakage — **0**.
+
+Durable record:
+- `PART_002_BILINGUAL_REVIEW.md`.
+
+Current next gate:
+
+**Part002 release/readiness report.**

@@ -259,3 +259,21 @@ English editorial review subsequently closed:
 Current next gate:
 
 **Part002 whole-Part bilingual review.**
+
+## Post-editorial bilingual review state
+
+Part002 Tamil remains **ARCHIVAL-READY / CLOSED**.
+
+Whole-Part bilingual review subsequently closed:
+- Tamil/English pairs reviewed — **5/5**;
+- English-only bilingual corrections — **3**;
+- unresolved bilingual holds — **0**;
+- unresolved Tamil-fidelity holds — **0**;
+- canonical Tamil changes caused by bilingual review — **0**;
+- assembled Tamil changes caused by bilingual review — **0**;
+- frozen Part001 English body changes — **0**;
+- Part003 leakage — **0**.
+
+Current next gate:
+
+**Part002 release/readiness report.**

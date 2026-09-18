@@ -1,6 +1,6 @@
 # Part 002 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **ENGLISH EDITORIAL REVIEW PASS / CLOSED — BILINGUAL REVIEW NEXT**
+Status: **WHOLE-PART BILINGUAL REVIEW PASS / CLOSED — RELEASE/READINESS NEXT**
 
 This is the control plan for the project-created English translation of **Part002 only**.
 
@@ -271,8 +271,23 @@ Part002 English editorial review is **PASS / CLOSED**.
 Durable record:
 - `PART_002_TRANSLATION_REVIEW.md`
 
+## Post-editorial bilingual review
+
+Part002 whole-Part bilingual review is **PASS / CLOSED**.
+
+- Tamil/English pairs reviewed — **5/5**
+- editorial corrections rechecked — **12/12 PASS**
+- new English-only source-alignment corrections — **3**
+- unresolved bilingual holds — **0**
+- canonical Tamil edits — **0**
+- frozen Part001 English body edits — **0**
+- Part003 leakage — **0**
+
+Durable record:
+- `PART_002_BILINGUAL_REVIEW.md`
+
 ## Exact next activity
 
-**Part002 whole-Part bilingual review.**
+**Part002 release/readiness report.**
 
-Do not begin release/readiness until bilingual review closes.
+Create `PART_002_RELEASE_REPORT.md` only in the next gate. Do not begin release-ready synchronization until that report closes.

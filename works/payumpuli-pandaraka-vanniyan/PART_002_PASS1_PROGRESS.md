@@ -78,8 +78,8 @@ All Part002 Pass-1 transcription was made from the user-supplied rendered source
 
 ## Exact next activity
 
-Part002 Tamil archival-ready and assembled Tamil remain **PASS / CLOSED**. English E5–E9 remain **SOURCE-CHECKED / COMPLETE — 5/5**. Whole-Part glossary reconciliation remains **RECONCILED / PASS**. English editorial review is **PASS / CLOSED**.
+Part002 Tamil archival-ready and assembled Tamil remain **PASS / CLOSED**. English E5–E9 remain **SOURCE-CHECKED / COMPLETE — 5/5**. Whole-Part glossary reconciliation remains **RECONCILED / PASS**. English editorial review and whole-Part bilingual review are **PASS / CLOSED**.
 
-Perform **Part002 whole-Part bilingual review** across all five Part002 Tamil/English section pairs.
+Create and complete **Part002 release/readiness report** at `translations/en/PART_002_RELEASE_REPORT.md`.
 
-Do not begin release/readiness, final Part002 closure, or Part003 transcription until bilingual review closes.
+Do not begin release-ready synchronization, final Part002 closure, or Part003 transcription until release/readiness closes.

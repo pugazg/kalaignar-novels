@@ -82,7 +82,9 @@ Part002:
 - E5–E9 — **SOURCE-CHECKED / COMPLETE**
 - English glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED**
-- English next — **whole-Part bilingual review**
+- English bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections — **3**
+- English next — **release/readiness report**
 - release/readiness — **BLOCKED**
 - final Part002 closure — **BLOCKED**
 - Part003 transcription — **BLOCKED / NOT ACTIVE**

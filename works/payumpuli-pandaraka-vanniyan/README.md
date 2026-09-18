@@ -36,7 +36,9 @@ Current closed Tamil verification state:
 - E5–E9 — **SOURCE-CHECKED / COMPLETE**
 - English glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED**
-- English next — **whole-Part bilingual review**
+- English bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections — **3**
+- English next — **release/readiness report**
 - incoming 30→31 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 60→61 — **CLEAN / AUDITED**
 
@@ -71,6 +73,6 @@ Part003 / scans61–90 is **SUPPLIED / REGISTERED / NOT ACTIVE**. Scan61 was use
 
 ## Exact next activity
 
-Perform **Part002 whole-Part bilingual review** across all five maintained Part002 Tamil/English section pairs.
+Create and complete **Part002 release/readiness report** at `translations/en/PART_002_RELEASE_REPORT.md`.
 
 Do not alter frozen Part001 English, reopen Tamil without a genuine fidelity issue, or begin Part003 transcription.

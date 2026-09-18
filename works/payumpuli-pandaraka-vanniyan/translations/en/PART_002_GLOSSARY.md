@@ -1,6 +1,6 @@
 # Part 002 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL REVIEW PASS / CLOSED — BILINGUAL REVIEW NEXT**
+Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL + BILINGUAL REVIEW PASS / CLOSED — RELEASE/READINESS NEXT**
 
 This glossary is derived only from the verified Part002 canonical/assembled Tamil plus already-closed Part001 project English choices where the **same Tamil source form** recurs.
 
@@ -67,6 +67,7 @@ The frozen Part001 glossary remains at `GLOSSARY.md`; it is precedent, not a fil
 | `கண்ணகி கோயில்` | **Kannagi temple** | ordinary contextual rendering |
 | `திண்ணை` | **veranda** | inherit contextual Part001 handling |
 | `தோரணம்` | **festoon / decorative leaf garland** | choose by sentence; no added ritual explanation |
+| `காட்டு செவ்வந்தி` | ***sevvanthi*** | bilingual review restored source lexical identity after generic `wild flowers` omitted the source noun; do not externally identify species |
 | `முரசு`, `எக்காளம்`, `தாரை`, `தப்பட்டை` | source-facing transliteration or minimal contextual English | do not add instrument taxonomy absent from source |
 
 ## Political / military vocabulary
@@ -245,8 +246,30 @@ The unusual source metaphor **“wave the white fly-whisk for the whites”** re
 Durable review record:
 - `PART_002_TRANSLATION_REVIEW.md`
 
+## Post-editorial bilingual review
+
+Whole-Part bilingual review is **PASS / CLOSED**.
+
+Bilingual review introduced exactly **3** English-only source-alignment corrections:
+
+- E6 — restored `காட்டு செவ்வந்தி` as source-facing ***sevvanthi***;
+- E8 — restored narrator-inclusive `நம்மவர்` as **our people**;
+- E9 — restored explicit `ஆங்கிலேய அதிகாரிகள்` agency as **The British officers**.
+
+Accounting:
+- Tamil/English pairs reviewed — **5/5**
+- editorial corrections rechecked — **12/12 PASS**
+- new bilingual English-only corrections — **3**
+- unresolved bilingual holds — **0**
+- canonical Tamil edits — **0**
+- frozen Part001 English body edits — **0**
+- Part003 leakage — **0**
+
+Durable record:
+- `PART_002_BILINGUAL_REVIEW.md`
+
 ## Exact next gate
 
-**Part002 whole-Part bilingual review.**
+**Part002 release/readiness report.**
 
-Do not begin release/readiness until bilingual review closes.
+Do not begin release-ready synchronization, final Part002 closure or Part003 transcription until release/readiness closes.

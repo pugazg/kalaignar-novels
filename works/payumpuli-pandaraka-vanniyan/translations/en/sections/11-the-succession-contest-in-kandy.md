@@ -71,7 +71,7 @@ Pandaraka Vanniyan interrupted again. “In other words, the very same offences 
 
 “As soon as we learned that chaos had broken out inside Ramalinga Vilasam, we ordered the Panchalankurichi troops massed outside to come in. Bullets from the British force were raining down upon our men. Fighting them with swords, spears and staffs, we broke our way out. Seeing the skill and courage Vellaiyathevan showed in that battle, Kattabomman bestowed on him the very title ‘Bahadur’; I was filled with joy at the honour my friend received. In his own happiness, Vellaiyathevan swept me into an embrace and lifted me up. But there was one thing! In that sudden attack, Thanapathi Pillai alone, who was with us, was caught by them. Later they released him and sent him away.”
 
-When Sundaralingam finished saying this, Pandaraka Vanniyan's face lit up. He felt proud, thinking of the spirit of sacrifice and valour with which their people were resisting foreign domination in Tamil land.
+When Sundaralingam finished saying this, Pandaraka Vanniyan's face lit up. He felt proud, thinking of the spirit of sacrifice and valour with which our people were resisting foreign domination in Tamil land.
 
 “Your Majesty! Everything I have told you so far concerns the events that have taken place there. What I am going to tell you now is the request that Bahadur Vellaiyathevan has made on behalf of Veerapandiya Kattabomman in the letter sent to you.”
 

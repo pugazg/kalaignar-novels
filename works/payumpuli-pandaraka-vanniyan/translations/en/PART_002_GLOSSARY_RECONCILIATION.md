@@ -261,3 +261,19 @@ Subsequent editorial review:
 Current next gate:
 
 **Part002 whole-Part bilingual review.**
+
+## Post-editorial bilingual review state
+
+The glossary reconciliation remains **RECONCILED / PASS**.
+
+Whole-Part bilingual review subsequently:
+- reviewed **5/5** Tamil/English pairs;
+- retained all deliberate source variants;
+- restored source-specific `காட்டு செவ்வந்தி` as ***sevvanthi***;
+- made **3** English-only source-alignment corrections in total;
+- left canonical Tamil unchanged;
+- closed with **0** unresolved bilingual holds and **0** Part003 leakage.
+
+Current next gate:
+
+**Part002 release/readiness report.**

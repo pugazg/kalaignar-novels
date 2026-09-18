@@ -107,13 +107,17 @@ Part003 remains blocked until Part002 final closure.
 - editorial review — **PASS / CLOSED**
 - editorial files edited — **4/5**
 - editorial English-only corrections — **12**
-- bilingual review — **NEXT / NOT STARTED**
-- release/readiness — **BLOCKED**
+- bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections — **3**
+- unresolved bilingual holds — **0**
+- release/readiness — **NEXT / NOT STARTED**
 - final Part002 closure — **BLOCKED**
 - Part003 transcription — **BLOCKED**
 
 ## Exact next activity
 
-Perform **Part002 whole-Part bilingual review** across the five maintained Part002 Tamil/English section pairs.
+Create and complete **Part002 release/readiness report**:
 
-Do not begin release/readiness until bilingual review closes.
+`PART_002_RELEASE_REPORT.md`
+
+Do not begin release-ready synchronization until release/readiness closes.

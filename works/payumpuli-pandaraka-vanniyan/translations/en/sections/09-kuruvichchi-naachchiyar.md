@@ -19,7 +19,7 @@ working_title: "Payumpuli Pandaraka Vanniyan"
 
 Taking leave of Sangili Thalapathi, Sundaralingam also learned clearly the route to Pandaraka Vanniyan's palace by way of Vattrappaalai and set out from there.
 
-Once he passed that small village, the route continued through forest, along a single-foot path—and in some places there was not even a path, so he had to place his feet among stones, thorns, shrubs and creepers. Because the feeling that he had to complete his duty kept driving him onward, he walked quickly without even minding the exhaustion left by his storm-tossed boat journey at sea. As he travelled, enjoying the beauty of the densely blooming yellow wild flowers along the roadside and the brilliant white clusters of *erukku* flowers, Sundaralingam felt as though he were in the southern country of Tamil Nadu.
+Once he passed that small village, the route continued through forest, along a single-foot path—and in some places there was not even a path, so he had to place his feet among stones, thorns, shrubs and creepers. Because the feeling that he had to complete his duty kept driving him onward, he walked quickly without even minding the exhaustion left by his storm-tossed boat journey at sea. As he travelled, enjoying the beauty of the densely blooming yellow wild *sevvanthi* flowers along the roadside and the brilliant white clusters of *erukku* flowers, Sundaralingam felt as though he were in the southern country of Tamil Nadu.
 
 Had not the land of Tamil Nadu and the land of Sri Lanka once, long ago, been joined together and then been cut apart by the force of the sea? That, Sundaralingam felt, was why he could see the character of Tamil Nadu there too.
 

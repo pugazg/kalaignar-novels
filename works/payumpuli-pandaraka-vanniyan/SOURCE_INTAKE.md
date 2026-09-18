@@ -97,7 +97,9 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part002 E5–E9 — **SOURCE-CHECKED / COMPLETE**
 - Part002 English glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED**
-- English next — **whole-Part bilingual review**
+- English bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections — **3**
+- English next — **release/readiness report**
 - Part003 source — **REGISTERED / NOT ACTIVE**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
@@ -117,6 +119,6 @@ Authoritative Part002 closure records:
 
 ## Exact next activity
 
-Perform **Part002 whole-Part bilingual review** across E5–E9.
+Create and complete **Part002 release/readiness report**.
 
 Part003 remains source-registered / inactive until Part002 final closure.

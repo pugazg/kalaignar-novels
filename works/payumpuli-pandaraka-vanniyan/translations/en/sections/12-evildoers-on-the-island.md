@@ -45,7 +45,7 @@ they learned that the white soldiers had arrived there before them and seized th
 
 also got the opportunity to join the fight.
 
-“They must have known that news was coming to us from Panchalankurichi and planned to intercept Sundaralinga Kudumbar and seize this letter! Our warriors smashed their plan at exactly the right time!” Pandaraka Vanniyan said, his face brightening.
+“The British officers must have known that news was coming to us from Panchalankurichi and planned to intercept Sundaralinga Kudumbar and seize this letter! Our warriors smashed their plan at exactly the right time!” Pandaraka Vanniyan said, his face brightening.
 
 “I don't think they came merely to snatch away the letter. They knew that you would certainly come to the Vattrappalai Kannagi Amman temple and that when you came to the shrine you would not come with a large army; for that reason,
 

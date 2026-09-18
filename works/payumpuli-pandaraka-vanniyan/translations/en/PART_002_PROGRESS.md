@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ENGLISH EDITORIAL REVIEW PASS / CLOSED — BILINGUAL REVIEW NEXT**
+**WHOLE-PART BILINGUAL REVIEW PASS / CLOSED — RELEASE/READINESS NEXT**
 
 Part001 English remains **FINAL CLOSED / FROZEN**.
 
@@ -15,8 +15,8 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 | **E9** | section 12 — `தீவுக்குள் தீயவர்கள்!` | **57–60** | **SOURCE-CHECKED / COMPLETE** |
 | Glossary | Part002 whole-Part reconciliation | 31–60 | **RECONCILED / PASS** |
 | Editorial | Part002 whole-Part English editorial review | 31–60 | **PASS / CLOSED** |
-| Bilingual | Part002 whole-Part bilingual review | 31–60 | **NEXT / NOT STARTED** |
-| Release | Part002 release/readiness report | 31–60 | BLOCKED |
+| Bilingual | Part002 whole-Part bilingual review | 31–60 | **PASS / CLOSED** |
+| Release | Part002 release/readiness report | 31–60 | **NEXT / NOT STARTED** |
 | Release sync | Part002 release-ready synchronization | 31–60 | BLOCKED |
 | Final closure | Part002 final closure | 31–60 | BLOCKED |
 
@@ -33,6 +33,9 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 - editorial-review files edited — **4/5**
 - editorial English-only corrections — **12**
 - unresolved editorial holds — **0**
+- whole-Part bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections — **3**
+- unresolved bilingual holds — **0**
 - canonical Tamil edits caused by English — **0**
 - frozen Part001 English section-file edits caused by Part002 — **0**
 - Part003 English/Tamil content imported into Part002 — **0**
@@ -130,8 +133,28 @@ Accounting:
 - frozen Part001 English body edits — **0**
 - Part003 leakage — **0**
 
+## Whole-Part bilingual review closure
+
+Part002 whole-Part bilingual review is **PASS / CLOSED**.
+
+Durable record:
+- `PART_002_BILINGUAL_REVIEW.md`
+
+Accounting:
+- Tamil/English pairs reviewed — **5/5**
+- editorial corrections rechecked — **12/12 PASS**
+- bilingual English-only corrections — **3**
+- unresolved bilingual holds — **0**
+- unresolved Tamil-fidelity holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001 English body edits — **0**
+- Part003 leakage — **0**
+
 ## Exact next activity
 
-**Part002 whole-Part bilingual review.**
+**Part002 release/readiness report.**
 
-Do not begin release/readiness until bilingual review closes.
+Create and complete `PART_002_RELEASE_REPORT.md` in the next gate.
+
+Do not begin release-ready synchronization until release/readiness closes.

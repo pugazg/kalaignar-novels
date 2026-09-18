@@ -460,7 +460,9 @@ The Part002 documentation/control layer is reconciled to the closed final-status
 - E5–E9 — **SOURCE-CHECKED / COMPLETE**;
 - English glossary reconciliation — **RECONCILED / PASS**;
 - English editorial review — **PASS / CLOSED**;
-- English next — **whole-Part bilingual review**;
+- English bilingual review — **PASS / CLOSED**;
+- bilingual English-only corrections — **3**;
+- English next — **release/readiness report**;
 - Part003 — **REGISTERED / NOT ACTIVE**.
 
 Historical gate sections remain valid as records of the state when those gates closed.
@@ -596,8 +598,31 @@ Result:
 Durable record:
 - `translations/en/PART_002_TRANSLATION_REVIEW.md`
 
+## Part002 whole-Part bilingual review — PASS / CLOSED
+
+All five maintained Part002 Tamil/English section pairs were reviewed after editorial closure.
+
+Result:
+- Tamil/English pairs reviewed — **5/5**
+- source coverage — **scans31–60 exactly**
+- editorial corrections rechecked — **12/12 PASS**
+- new English-only bilingual corrections — **3**
+- unresolved bilingual holds — **0**
+- unresolved Tamil-fidelity holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001 English body edits — **0**
+- Part003 leakage — **0**
+- scan59 printed-page48/49 structure — **retained**
+- 30→31 / 60→61 boundary locks — **retained**
+
+Durable record:
+- `translations/en/PART_002_BILINGUAL_REVIEW.md`
+
 ## Exact next activity
 
-Perform **Part002 whole-Part bilingual review** across all five Part002 Tamil/English section pairs.
+Create and complete **Part002 release/readiness report** at:
 
-Do not begin release/readiness, release-ready synchronization, final Part002 closure, or Part003 transcription until bilingual review closes.
+`translations/en/PART_002_RELEASE_REPORT.md`
+
+Do not begin release-ready synchronization, final Part002 closure, or Part003 transcription until release/readiness closes.
