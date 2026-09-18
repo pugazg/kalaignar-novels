@@ -42,9 +42,9 @@
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
 - English planning/setup — **COMPLETE / PASS**
-- English translated/source-checked files — **1/5**
-- E5 — **SOURCE-CHECKED / COMPLETE**
-- English next — **E6 / section09 / scans35–41**
+- English translated/source-checked files — **5/5**
+- E5–E9 — **SOURCE-CHECKED / COMPLETE**
+- English next — **whole-Part glossary reconciliation**
 - 30→31 — **GENUINE CONTINUATION / AUDITED**
 - 60→61 — **CLEAN / AUDITED**
 
@@ -68,11 +68,11 @@ Durable records:
 
 ## Exact next activity
 
-Perform **Part002 English Draft Batch E6 — section09 / scans35–41**, then complete `translations/en/E6_SOURCE_CHECK.md`.
+Perform **Part002 whole-Part English glossary reconciliation** across E5–E9 / all five maintained Part002 English files.
 
 Authority:
 - canonical Part002 `pages/` — controlling Tamil authority;
 - PASSED Part002 `sections/09-kuruvichchi-naachchiyar.md` — normal continuous reading authority;
 - `translations/en/PART_002_TRANSLATION_PLAN.md` and `PART_002_GLOSSARY.md` — active English controls.
 
-Do not begin E7 until E6 is **SOURCE-CHECKED / COMPLETE**. Keep Part001 frozen and Part003 transcription blocked.
+Do not begin editorial review until glossary reconciliation closes. Keep Part001 frozen and Part003 transcription blocked.

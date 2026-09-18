@@ -93,9 +93,9 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part002 Tamil archival-ready — **PASS / CLOSED**
 - Part002 assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
 - Part002 English planning/setup — **COMPLETE / PASS**
-- Part002 English translated/source-checked — **1/5**
-- Part002 E5 — **SOURCE-CHECKED / COMPLETE**
-- Part002 English next — **E6 / section09 / scans35–41**
+- Part002 English translated/source-checked — **5/5**
+- Part002 E5–E9 — **SOURCE-CHECKED / COMPLETE**
+- Part002 English next — **whole-Part glossary reconciliation**
 - Part003 source — **REGISTERED / NOT ACTIVE**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
@@ -115,6 +115,6 @@ Authoritative Part002 closure records:
 
 ## Exact next activity
 
-Perform **Part002 English E6 — section09 / scans35–41**, then close `translations/en/E6_SOURCE_CHECK.md`.
+Perform **Part002 whole-Part English glossary reconciliation** across E5–E9.
 
 Part003 remains source-registered / inactive until Part002 final closure.

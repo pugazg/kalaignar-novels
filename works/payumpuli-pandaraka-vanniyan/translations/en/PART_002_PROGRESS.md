@@ -2,17 +2,17 @@
 
 ## Overall state
 
-**E5 SOURCE-CHECKED / COMPLETE — E6 NEXT**
+**E5–E9 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 Part001 English remains **FINAL CLOSED / FROZEN**.
 
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
 | **E5** | section 08 — `வழியில் கண்ட வயோதிகர்!` continuation | **31–34** | **SOURCE-CHECKED / COMPLETE** |
-| **E6** | section 09 — `குருவிச்சி நாச்சியார்` | **35–41** | **NEXT / NOT STARTED** |
-| **E7** | section 10 — `நாலு கால் மண்டபத்தில்!` | **42–49** | BLOCKED |
-| **E8** | section 11 — `கண்டியின் வாரிசுப் போட்டி!` | **50–56** | BLOCKED |
-| **E9** | section 12 — `தீவுக்குள் தீயவர்கள்!` | **57–60** | BLOCKED |
+| **E6** | section 09 — `குருவிச்சி நாச்சியார்` | **35–41** | **SOURCE-CHECKED / COMPLETE** |
+| **E7** | section 10 — `நாலு கால் மண்டபத்தில்!` | **42–49** | **SOURCE-CHECKED / COMPLETE** |
+| **E8** | section 11 — `கண்டியின் வாரிசுப் போட்டி!` | **50–56** | **SOURCE-CHECKED / COMPLETE** |
+| **E9** | section 12 — `தீவுக்குள் தீயவர்கள்!` | **57–60** | **SOURCE-CHECKED / COMPLETE** |
 | Glossary | Part002 whole-Part reconciliation | 31–60 | BLOCKED |
 | Editorial | Part002 whole-Part English editorial review | 31–60 | BLOCKED |
 | Bilingual | Part002 whole-Part bilingual review | 31–60 | BLOCKED |
@@ -25,8 +25,8 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 - Tamil canonical pages — **30/30 verified**
 - Tamil visual fidelity — **30/30 verified**
 - Tamil assembled files — **5/5 VERIFIED**
-- Part002 English translated files — **1/5**
-- Part002 English source-checked files — **1/5**
+- Part002 English translated files — **5/5**
+- Part002 English source-checked files — **5/5**
 - unresolved Part002 English holds — **0**
 - canonical Tamil edits caused by English — **0**
 - frozen Part001 English section-file edits caused by Part002 — **0**
@@ -48,38 +48,32 @@ No Part002 translated English section file exists at planning closure.
 
 Frozen Part001 English control/section files remain intact.
 
-## First Part002 drafting batch — E5 closed
+## Part002 drafting/source-check closure
 
-**E5 — section08 / scans31–34 — SOURCE-CHECKED / COMPLETE**
+All five Part002 English batches are now **SOURCE-CHECKED / COMPLETE**:
 
-Maintained English file:
-- `sections/08-the-old-man-met-on-the-way-part002.md`
+| Batch | English file | Scans | Result |
+|---|---|---:|---|
+| E5 | `sections/08-the-old-man-met-on-the-way-part002.md` | 31–34 | **PASS** |
+| E6 | `sections/09-kuruvichchi-naachchiyar.md` | 35–41 | **PASS** |
+| E7 | `sections/10-naalu-kaal-mandapaththil.md` | 42–49 | **PASS** |
+| E8 | `sections/11-the-succession-contest-in-kandy.md` | 50–56 | **PASS** |
+| E9 | `sections/12-evildoers-on-the-island.md` | 57–60 | **PASS** |
 
-Durable source-check record:
+Durable source-check records:
 - `E5_SOURCE_CHECK.md`
+- `E6_SOURCE_CHECK.md`
+- `E7_SOURCE_CHECK.md`
+- `E8_SOURCE_CHECK.md`
+- `E9_SOURCE_CHECK.md`
 
-E5 accounting:
-- translated files — **1/1**
-- source-checked files — **1/1**
-- Tamil / English body blocks — **32 / 32**
-- omitted / duplicated source blocks — **0 / 0**
-- unresolved E5 holds — **0**
-- canonical Tamil edits caused by E5 — **0**
+Cumulative:
+- translated files — **5/5**
+- source-checked files — **5/5**
+- unresolved per-batch English holds — **0**
+- canonical Tamil edits caused by English — **0**
 - frozen Part001 English body edits — **0**
 - Part003 leakage — **0**
-
-## Next drafting batch
-
-**E6 — section09 / scans35–41**
-
-Tamil authority:
-- `../../sections/09-kuruvichchi-naachchiyar.md`
-- canonical scans35–41 under `../../pages/`
-
-Planned English file:
-- `sections/09-kuruvichchi-naachchiyar.md`
-
-E6 must complete draft + source-check before E7 begins.
 
 ## Boundary locks
 
@@ -99,6 +93,6 @@ E6 must complete draft + source-check before E7 begins.
 
 ## Exact next activity
 
-**English Draft Batch E6 — section09 / scans35–41.**
+**Part002 whole-Part English glossary reconciliation.**
 
-Create `sections/09-kuruvichchi-naachchiyar.md` and complete `E6_SOURCE_CHECK.md` before beginning E7.
+Do not begin editorial review until glossary reconciliation closes.

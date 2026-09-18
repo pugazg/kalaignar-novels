@@ -1,6 +1,6 @@
 # Part 002 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **ACTIVE — E5 SOURCE-CHECKED / COMPLETE — E6 NEXT**
+Status: **E5–E9 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 This is the control plan for the project-created English translation of **Part002 only**.
 
@@ -187,10 +187,10 @@ Continue English batch numbering after frozen Part001 E1–E4.
 | Batch | Tamil assembled coverage | Scans | English state |
 |---|---|---:|---|
 | **E5** | section 08 — chapter 3 continuation `வழியில் கண்ட வயோதிகர்!` | **31–34** | **SOURCE-CHECKED / COMPLETE** |
-| **E6** | section 09 — `குருவிச்சி நாச்சியார்` | **35–41** | **NEXT / NOT STARTED** |
-| **E7** | section 10 — `நாலு கால் மண்டபத்தில்!` | **42–49** | BLOCKED |
-| **E8** | section 11 — `கண்டியின் வாரிசுப் போட்டி!` | **50–56** | BLOCKED |
-| **E9** | section 12 — `தீவுக்குள் தீயவர்கள்!` | **57–60** | BLOCKED |
+| **E6** | section 09 — `குருவிச்சி நாச்சியார்` | **35–41** | **SOURCE-CHECKED / COMPLETE** |
+| **E7** | section 10 — `நாலு கால் மண்டபத்தில்!` | **42–49** | **SOURCE-CHECKED / COMPLETE** |
+| **E8** | section 11 — `கண்டியின் வாரிசுப் போட்டி!` | **50–56** | **SOURCE-CHECKED / COMPLETE** |
+| **E9** | section 12 — `தீவுக்குள் தீயவர்கள்!` | **57–60** | **SOURCE-CHECKED / COMPLETE** |
 
 Each batch must complete **draft + source-check** before the next batch becomes active.
 
@@ -243,6 +243,8 @@ A genuine Tamil-fidelity issue discovered during English work must be recorded a
 
 ## Exact next activity
 
-**English Draft Batch E6 — section 09 / scans35–41.**
+**Part002 whole-Part English glossary reconciliation.**
 
-Create only the planned Part002 English section 09 and complete its E6 source-check before beginning E7.
+Reconcile recurring names, places, titles, source-facing vocabulary and deliberate source variants across E5–E9 / all five maintained Part002 English section files.
+
+Do not begin editorial review until glossary reconciliation closes.

@@ -160,16 +160,8 @@ All Part002 page records remain `needs-review` pending Pass 3 and later whole-Pa
 
 ## Exact next activity
 
-Part002 Tamil archival-ready and assembled Tamil are **PASS / CLOSED**. English planning/setup is now **COMPLETE / PASS**. These earlier Tamil/Pass records remain historically closed and are not reopened.
+Part002 Tamil archival-ready and assembled Tamil remain **PASS / CLOSED**. English E5–E9 are now **SOURCE-CHECKED / COMPLETE — 5/5**.
 
-Current Part002 English state:
-- active plan — `translations/en/PART_002_TRANSLATION_PLAN.md`;
-- active glossary — `translations/en/PART_002_GLOSSARY.md`;
-- active progress tracker — `translations/en/PART_002_PROGRESS.md`;
-- English translated/source-checked files — **1/5**;
-- E5 — **SOURCE-CHECKED / COMPLETE**;
-- next batch — **E6 / section09 / scans35–41**.
+Perform **Part002 whole-Part English glossary reconciliation** across all five maintained Part002 English files.
 
-Perform **Part002 English E6 — section09 / scans35–41** and complete `translations/en/E6_SOURCE_CHECK.md`.
-
-Do not begin E7, release/readiness, final Part002 closure, or Part003 transcription until E6 closes.
+Do not begin editorial review, release/readiness, final Part002 closure, or Part003 transcription until glossary reconciliation closes.

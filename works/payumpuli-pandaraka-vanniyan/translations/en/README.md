@@ -61,12 +61,12 @@ Active Part002 English controls:
 | Tamil file | Planned English file | Scans | Batch | State |
 |---|---|---:|---|---|
 | `../../sections/08-vazhiyil-kanda-vayothigar-part002.md` | `sections/08-the-old-man-met-on-the-way-part002.md` | 31–34 | E5 | **SOURCE-CHECKED / COMPLETE** |
-| `../../sections/09-kuruvichchi-naachchiyar.md` | `sections/09-kuruvichchi-naachchiyar.md` | 35–41 | E6 | **NEXT / NOT STARTED** |
-| `../../sections/10-naalu-kaal-mandapaththil.md` | `sections/10-naalu-kaal-mandapaththil.md` | 42–49 | E7 | BLOCKED |
-| `../../sections/11-kandiyin-vaarisup-potti.md` | `sections/11-the-succession-contest-in-kandy.md` | 50–56 | E8 | BLOCKED |
-| `../../sections/12-theevukkul-theeyavargal.md` | `sections/12-evildoers-on-the-island.md` | 57–60 | E9 | BLOCKED |
+| `../../sections/09-kuruvichchi-naachchiyar.md` | `sections/09-kuruvichchi-naachchiyar.md` | 35–41 | E6 | **SOURCE-CHECKED / COMPLETE** |
+| `../../sections/10-naalu-kaal-mandapaththil.md` | `sections/10-naalu-kaal-mandapaththil.md` | 42–49 | E7 | **SOURCE-CHECKED / COMPLETE** |
+| `../../sections/11-kandiyin-vaarisup-potti.md` | `sections/11-the-succession-contest-in-kandy.md` | 50–56 | E8 | **SOURCE-CHECKED / COMPLETE** |
+| `../../sections/12-theevukkul-theeyavargal.md` | `sections/12-evildoers-on-the-island.md` | 57–60 | E9 | **SOURCE-CHECKED / COMPLETE** |
 
-Planning closed at **0/5**. After E5, Part002 now has **1/5 translated files** and **1/5 source-checked files**, with **0 unresolved E5 holds**.
+Part002 drafting/source-check is now **5/5 COMPLETE**, with **0 unresolved per-batch English holds**.
 
 ## Part002 boundary safeguards
 
@@ -83,7 +83,7 @@ Outgoing:
 
 ## Part002 batch discipline
 
-E5 **CLOSED** → E6 **NEXT** → E7 → E8 → E9.
+E5 **CLOSED** → E6 **CLOSED** → E7 **CLOSED** → E8 **CLOSED** → E9 **CLOSED**.
 
 Each batch must close **draft + source-check** before the next begins.
 
@@ -99,6 +99,6 @@ Part003 remains blocked until Part002 final closure.
 
 ## Exact next activity
 
-**English Draft Batch E6 — section09 / scans35–41.**
+Perform **Part002 whole-Part English glossary reconciliation** across the five maintained Part002 English section files.
 
-Do not begin E7 until the E6 draft and `E6_SOURCE_CHECK.md` close.
+Do not begin editorial review until glossary reconciliation closes.

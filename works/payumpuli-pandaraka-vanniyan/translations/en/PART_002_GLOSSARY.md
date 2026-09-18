@@ -1,6 +1,6 @@
 # Part 002 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E5 SOURCE-CHECKED / ACTIVE FOR E6 START**
+Status: **E5–E9 SOURCE-CHECKED / COMPLETE — WHOLE-PART RECONCILIATION NEXT**
 
 This glossary is derived only from the verified Part002 canonical/assembled Tamil plus already-closed Part001 project English choices where the **same Tamil source form** recurs.
 
@@ -131,3 +131,78 @@ E5 also confirmed:
 E5 unresolved glossary holds — **0**.
 
 The glossary remains active for E6. Canonical Tamil remains unchanged.
+
+## E6–E9 source-check additions
+
+### E6
+
+E6 / scans35–41 confirmed:
+- `வற்றாப்பாளை` → **Vattrappaalai** as a deliberate source variant distinct from **Vattrappalai**;
+- source-facing *erukku*, *kamugu*, *murasu*, *ekkalam*, *tharai*, *kombu*, *thappattai*;
+- the two-line Kannagi song translated only from maintained Tamil;
+- no external botanical/instrument/religious explanation.
+
+E6 unresolved glossary holds — **0**.
+
+### E7
+
+E7 / scans42–49 confirmed:
+- `குலசேகரம் வைரமுத்து` → **Kulasekaram Vairamuthu**;
+- `உத்தரீயம்` → ***uthariyam***;
+- `ஆத்திசூடி` → ***Aathichudi***;
+- `தேவர் குலம்` → **Thevar clan**;
+- `தேவேந்திர குலம்` → **Devendra clan**;
+- `வெட்டும் பெருமாள்` → **Vettum Perumal**;
+- `முள்ளிய வளை` → **Mulliya Valai**;
+- `நாலுகால் மண்டபம்` → **Naalukaal Mandapam**;
+- `சுந்தரலிங்கக் குடும்பன்` → **Sundaralinga Kudumbar**.
+
+These social/source labels remain source speech, with no external taxonomy added.
+
+E7 unresolved glossary holds — **0**.
+
+### E8
+
+E8 / scans50–56 confirmed source-facing forms:
+- Jackson;
+- Kattabomman / Veerapandiya Kattabomman;
+- Vellaiyathevan / Bahadur Vellaiyathevan;
+- Thanapathi Pillai;
+- Oomaithurai;
+- Lieutenant Clarke;
+- Rajadhi Raja Singa;
+- Kannusamy;
+- Muthusamy;
+- Pilimathalava;
+- *Parangi thurai*;
+- palaiyakkarar;
+- Tirunelveli, Courtallam, Sokkampatti, Sivagiri, Tiruvilliputhur, Peraiyur, Pavalipallimadai, Kamuthi, Ramanathapuram, Ramalinga Vilasam.
+
+The source metaphor `வெண்சாமரம் வீச` is retained as **“wave the white fly-whisk for the whites”** pending whole-Part editorial review; no outside political label replaces it.
+
+E8 unresolved glossary holds — **0**.
+
+### E9
+
+E9 / scans57–60 confirmed:
+- **white soldier(s)** for local `வெள்ளைக்கார / வெள்ளை` source wording where context requires;
+- **British** where the Tamil explicitly uses `ஆங்கிலேய`;
+- **Sundaralinga Kudumbar**;
+- printed-page 48/49 distinction for the scan59 spread;
+- outgoing 60→61 CLEAN boundary with no Part003 import.
+
+E9 unresolved glossary holds — **0**.
+
+## Current reconciliation frontier
+
+All five Part002 English batches E5–E9 are now **SOURCE-CHECKED / COMPLETE**.
+
+- maintained Part002 English files — **5/5**
+- unresolved per-batch English/glossary holds — **0**
+- canonical Tamil changes caused by English drafting — **0**
+- frozen Part001 English body changes — **0**
+- Part003 leakage — **0**
+
+Exact next gate:
+
+**Part002 whole-Part English glossary reconciliation.**

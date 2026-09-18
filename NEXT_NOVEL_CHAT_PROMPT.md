@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part002 English E6 — section09 scans35–41
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part002 whole-Part English glossary reconciliation
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,82 +8,66 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 2. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
 3. `works/payumpuli-pandaraka-vanniyan/PART_002_TAMIL_ARCHIVAL_READY.md`
 4. `works/payumpuli-pandaraka-vanniyan/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
-5. `works/payumpuli-pandaraka-vanniyan/sections/09-kuruvichchi-naachchiyar.md`
-6. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_TRANSLATION_PLAN.md`
-7. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_GLOSSARY.md`
-8. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
-9. `works/payumpuli-pandaraka-vanniyan/translations/en/E5_SOURCE_CHECK.md`
-10. prior maintained Part002 English file:
-    - `works/payumpuli-pandaraka-vanniyan/translations/en/sections/08-the-old-man-met-on-the-way-part002.md`
+5. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_TRANSLATION_PLAN.md`
+6. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_GLOSSARY.md`
+7. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
+8. `works/payumpuli-pandaraka-vanniyan/translations/en/E5_SOURCE_CHECK.md`
+9. `works/payumpuli-pandaraka-vanniyan/translations/en/E6_SOURCE_CHECK.md`
+10. `works/payumpuli-pandaraka-vanniyan/translations/en/E7_SOURCE_CHECK.md`
+11. `works/payumpuli-pandaraka-vanniyan/translations/en/E8_SOURCE_CHECK.md`
+12. `works/payumpuli-pandaraka-vanniyan/translations/en/E9_SOURCE_CHECK.md`
+13. all five maintained Part002 English files under `translations/en/sections/08-*.md` through `12-*.md`
+14. Part001 precedent: `translations/en/GLOSSARY_RECONCILIATION.md`
 
 ## Frozen authority
 
-Part001 is **FINAL CLOSED / FROZEN**. Do not edit its Tamil or English body files.
+Part001 remains **FINAL CLOSED / FROZEN**.
 
-Part002 Tamil is **ARCHIVAL-READY / CLOSED** and assembled Tamil is **PASS / CLOSED — 5/5 VERIFIED**.
-
-Canonical Part002 `pages/` remain controlling Tamil authority. The PASSED Part002 assembled `sections/` files are the normal continuous reading authority.
+Part002 Tamil remains **ARCHIVAL-READY / CLOSED**:
+- canonical scans31–60 — **30/30 verified**
+- assembled Tamil — **5/5 VERIFIED / PASS / CLOSED**
+- canonical Tamil changes caused by English drafting — **0**
 
 ## Current Part002 English state
 
-- planning/setup — **COMPLETE / PASS**
-- E5 / section08 / scans31–34 — **SOURCE-CHECKED / COMPLETE**
-- English translated files — **1/5**
-- English source-checked files — **1/5**
-- unresolved E5 holds — **0**
-- E6 — **NEXT / NOT STARTED**
-- E7–E9 — **BLOCKED**
-- Part003 — **NOT ACTIVE**
+- E5 / scans31–34 — **SOURCE-CHECKED / COMPLETE**
+- E6 / scans35–41 — **SOURCE-CHECKED / COMPLETE**
+- E7 / scans42–49 — **SOURCE-CHECKED / COMPLETE**
+- E8 / scans50–56 — **SOURCE-CHECKED / COMPLETE**
+- E9 / scans57–60 — **SOURCE-CHECKED / COMPLETE**
+- translated files — **5/5**
+- source-checked files — **5/5**
+- unresolved per-batch English holds — **0**
+- Part003 leakage — **0**
+- whole-Part glossary reconciliation — **NEXT / NOT STARTED**
 
 ## Exact activity
 
-Perform **English Draft Batch E6 — section09 / scans35–41**, then complete its source-check.
+Perform the **Part002 whole-Part English glossary reconciliation** across all five maintained Part002 English files.
 
-Tamil source:
-`works/payumpuli-pandaraka-vanniyan/sections/09-kuruvichchi-naachchiyar.md`
+Reconcile only English handling for:
+- recurring personal names and honorific/source variants;
+- place-name variants;
+- chapter-title consistency;
+- source-facing cultural/military/political vocabulary;
+- `வெள்ளைக்கார / வெள்ளை / ஆங்கிலேய / பரங்கியர்` distinctions;
+- social/clan labels already present in source speech;
+- recurring transliteration;
+- scan59 printed-page 48/49 structure;
+- incoming 30→31 and outgoing 60→61 locks.
+
+Preserve deliberate source-derived distinctions. Normalize only accidental **English** drift.
+
+Do not change canonical Tamil merely to enforce English consistency.
 
 Create:
-`works/payumpuli-pandaraka-vanniyan/translations/en/sections/09-kuruvichchi-naachchiyar.md`
 
-Then create:
-`works/payumpuli-pandaraka-vanniyan/translations/en/E6_SOURCE_CHECK.md`
+`works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
 
-## Mandatory E6 safeguards
-
-- translate from verified project Tamil only;
-- preserve chapter 4 title `குருவிச்சி நாச்சியார்` under the active glossary handling **Kuruvichchi Naachchiyar**;
-- preserve source meaning, narrator/character agency, dialogue order, rhetoric and paragraph structure;
-- preserve scan35→41 provenance comments where useful for reversibility;
-- preserve the visually distinct two-line display on scan36 and the two-line song/verse on scan37 where meaningful;
-- use established Part002 glossary forms for Vattrappaalai / Vattrappalai exactly by source occurrence;
-- do not normalize deliberate source variants;
-- do not add external historical, political, geographic, botanical, religious, cultural or social/caste explanation;
-- do not silently fix canonical Tamil;
-- unresolved English ambiguity must become an explicit hold rather than a guess;
-- frozen Part001 English body changes must remain **0**;
-- Part003 content leakage must remain **0**.
-
-## E6 source-check gate
-
-Before closing E6 verify:
-
-1. scans35–41 coverage exactly once;
-2. no omitted/duplicated Tamil block;
-3. source meaning / agency / chronology / knowledge-state alignment;
-4. dialogue and paragraph structure;
-5. displayed quotation/song structure;
-6. names, places and titles against `PART_002_GLOSSARY.md`;
-7. source variants preserved;
-8. unsupported explanatory insertion — **0**;
-9. canonical Tamil changes caused by E6 — **0**;
-10. frozen Part001 English body changes — **0**;
-11. Part003 leakage — **0**;
-12. unresolved E6 holds — **0** before E6 is declared SOURCE-CHECKED / COMPLETE.
-
-Update Part002 English progress, glossary notes if needed, and live frontier controls after E6 closes.
+Update `PART_002_GLOSSARY.md`, `PART_002_PROGRESS.md`, English README and live frontier controls only as supported by the reconciliation result.
 
 ## Stop rule
 
-Stop after **E6 draft + source-check**.
+Stop after **whole-Part glossary reconciliation**.
 
-Do **not** begin E7 in the same iteration.
+Do **not** begin English editorial review in the same iteration.

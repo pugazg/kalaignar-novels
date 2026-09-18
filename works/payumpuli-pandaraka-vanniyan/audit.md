@@ -456,9 +456,9 @@ The Part002 documentation/control layer is reconciled to the closed final-status
 - Tamil archival-ready — **PASS / CLOSED**;
 - assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**;
 - English planning/setup — **COMPLETE / PASS**;
-- English translated/source-checked — **1/5**;
-- E5 — **SOURCE-CHECKED / COMPLETE**;
-- English next — **E6 / section09 / scans35–41**;
+- English translated/source-checked — **5/5**;
+- E5–E9 — **SOURCE-CHECKED / COMPLETE**;
+- English next — **whole-Part glossary reconciliation**;
 - Part003 — **REGISTERED / NOT ACTIVE**.
 
 Historical gate sections remain valid as records of the state when those gates closed.
@@ -528,8 +528,35 @@ E5 closed the Part002 section08 / scans31–34 English batch:
 - frozen Part001 English body edits — **0**;
 - Part003 leakage — **0**.
 
+## Part002 English E6–E9 — SOURCE-CHECKED / COMPLETE
+
+At the user's instruction to process the remaining Part002 English pages, the remaining four batches were completed in sequence:
+
+- E6 — section09 / scans35–41 — **SOURCE-CHECKED / COMPLETE**
+- E7 — section10 / scans42–49 — **SOURCE-CHECKED / COMPLETE**
+- E8 — section11 / scans50–56 — **SOURCE-CHECKED / COMPLETE**
+- E9 — section12 / scans57–60 — **SOURCE-CHECKED / COMPLETE**
+
+Durable records:
+- `translations/en/E6_SOURCE_CHECK.md`
+- `translations/en/E7_SOURCE_CHECK.md`
+- `translations/en/E8_SOURCE_CHECK.md`
+- `translations/en/E9_SOURCE_CHECK.md`
+
+Cumulative Part002 English drafting/source-check state:
+- translated files — **5/5**
+- source-checked files — **5/5**
+- source coverage — **scans31–60**
+- unresolved per-batch English holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil body edits — **0**
+- frozen Part001 English body edits — **0**
+- Part003 leakage — **0**
+- scan59 printed pages48–49 structure retained
+- outgoing 60→61 CLEAN boundary retained with no scan61 import.
+
 ## Exact next activity
 
-Perform **Part002 English E6 — section09 / scans35–41** and complete `translations/en/E6_SOURCE_CHECK.md` before E7.
+Perform **Part002 whole-Part English glossary reconciliation** across E5–E9.
 
-Do not begin release/readiness, final Part002 closure, or Part003 transcription.
+Do not begin editorial review until glossary reconciliation closes.
