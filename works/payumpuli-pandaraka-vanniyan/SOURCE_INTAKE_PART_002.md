@@ -35,10 +35,10 @@ Part002:
 - canonical records — **30/30**
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - unresolved Pass-1 holds — **0**
-- Pass 2A — **NEXT / NOT STARTED**
+- Pass 2A — **IN PROGRESS — 10/30 REVIEWED**
 - Pass 2B / Pass 3 — **NOT STARTED**
 - assembled Tamil / English — **NOT STARTED**
 
 ## Exact next activity
 
-Perform **Part002 Pass 2A — global scans31–40 / local pages1–10** using the Part002 source only.
+Perform **Part002 Pass 2A — global scans41–50 / local pages11–20** using the Part002 source only.
