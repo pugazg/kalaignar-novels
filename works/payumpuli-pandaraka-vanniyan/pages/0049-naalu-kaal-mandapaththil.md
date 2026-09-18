@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans41–50; formal Part002 Pass 2A reviewed; formal Part002 Pass 2B reviewed"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans41–50; formal Part002 Pass 2A reviewed; formal Part002 Pass 2B reviewed; formal Part002 Pass 3 visual/structural review completed"
 ---
 
 # நாலு கால் மண்டபத்தில்!
@@ -54,4 +54,15 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - Pass 2B result: **REVIEWED / PASS**;
 - page remains `needs-review`; final `verified` promotion remains blocked until Pass 3, Part audit and final status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 49; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 19; அச்சுப் பக்கம்: 38; PASS 1 + PASS 2A + PASS 2B REVIEWED / needs-review -->
+## Formal Part002 Pass 3 visual / structural review
+
+- ordinary framed body page whose text occupies only the upper portion; the large lower blank field is source-visible and not missing text;
+- printed page number `38` is centered in the dark circular footer marker;
+- the final paragraph closes chapter 5 cleanly before the new chapter on scan50;
+- body-vs-non-body separation, displayed hierarchy, page furniture and continuation state were checked directly against the whole-page source image;
+- canonical source text required **0 textual corrections** in Pass 3;
+- unresolved visual/structural questions: **0**;
+- Pass 3 result for this scan: **REVIEWED / PASS**;
+- page remains `needs-review` pending whole-Part Pass 3 closure, Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 49; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 19; அச்சுப் பக்கம்: 38; PASS 1 + PASS 2A + PASS 2B + PASS 3 REVIEWED / needs-review -->

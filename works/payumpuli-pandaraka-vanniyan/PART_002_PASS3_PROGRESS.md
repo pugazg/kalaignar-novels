@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS — 10/30 REVIEWED**
+**PASS 3 — IN PROGRESS — 20/30 REVIEWED**
 
 Prerequisites:
 - Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -30,10 +30,12 @@ Pages remain `needs-review` until whole-Part Pass 3, Part audit and final metada
 
 ## Current accounting
 
-- Pass 3 reviewed: **10/30 — scans31–40**
-- Pass 3 remaining: **20/30 — scans41–60**
+- Pass 3 reviewed: **20/30 — scans31–50**
+- Pass 3 remaining: **10/30 — scans51–60**
 - textual corrections introduced by Pass 3 Batch 1: **0**
 - unresolved visual/structural questions in Batch 1: **0**
+- textual corrections introduced by Pass 3 Batch 2: **0**
+- unresolved visual/structural questions in Batch 2: **0**
 - Part audit: **NOT STARTED**
 
 ## Batch 1 — scans31–40
@@ -53,6 +55,23 @@ Pages remain `needs-review` until whole-Part Pass 3, Part audit and final metada
 | 39 | 9 | 28 | body | framed prose continuation |
 | 40 | 10 | 29 | body | terminal clause remains open to scan41 |
 
+## Batch 2 — scans41–50
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+| Global scan | Local page | Printed page | Page type | Structural result |
+|---:|---:|---:|---|---|
+| 41 | 11 | 30 | body | framed continuation page; no new chapter furniture |
+| 42 | 12 | 31 | chapter-opening | ornate title banner + separate chapter-number ornament |
+| 43 | 13 | 32 | body | framed prose + compact dialogue cluster |
+| 44 | 14 | 33 | body | framed dialogue/prose continuation |
+| 45 | 15 | 34 | body | framed dialogue/prose continuation |
+| 46 | 16 | 35 | body | framed long dialogue/prose blocks |
+| 47 | 17 | 36 | body | framed dialogue-led continuation |
+| 48 | 18 | 37 | body | framed dialogue/prose continuation |
+| 49 | 19 | 38 | body | chapter-closing text in upper field; lower field intentionally blank |
+| 50 | 20 | 39 | chapter-opening | ornate chapter 6 banner; ends mid-sentence into scan51 |
+
 ## Durable visual / structural findings
 
 - scans31–34 and 36–40 use the recurring rounded ornamental frame with printed page number centered in the dark circular footer marker;
@@ -66,8 +85,18 @@ Pages remain `needs-review` until whole-Part Pass 3, Part audit and final metada
 - no illustration, photograph, caption, library stamp, handwriting or other copy-specific non-body mark in scans31–40 requires separate canonical content;
 - Pass 3 Batch 1 introduced **0 textual corrections** and left **0 unresolved visual/structural questions**.
 
+Additional Batch-2 findings:
+- scan41 remains a normal framed continuation page after scan40, with no new chapter furniture;
+- scan42 visibly opens chapter **5 — `நாலு கால் மண்டபத்தில்!`** with the large ornamental title banner and separate shield-like chapter number `5`;
+- scans43–48 use the recurring framed body-page layout with printed page numbers **32–37** centered in the footer markers;
+- scan49 / printed38 deliberately leaves a large lower blank field after the chapter-closing dialogue; this is source-visible layout, not omitted text;
+- scan50 visibly opens chapter **6 — `கண்டியின் வாரிசுப் போட்டி!`** with the same banner + separate chapter-number ornament pattern;
+- scan50 ends mid-sentence at `பாஞ்சாலங்குறிச்சி`, continuing directly to scan51;
+- no illustration, photograph, caption, library stamp, handwriting or other copy-specific non-body mark in scans41–50 requires separate canonical capture;
+- Pass 3 Batch 2 introduced **0 textual corrections** and left **0 unresolved visual/structural questions**.
+
 ## Exact next activity
 
-Perform **Part002 Pass 3 — global scans41–50 / local pages11–20**.
+Perform **Part002 Pass 3 — global scans51–60 / local pages21–30**.
 
-Stop after that 10-scan batch. Do not begin Pass 3 scans51–60, Part audit, or Part003 transcription without another explicit continuation.
+Stop after that 10-scan batch. Do not begin Part audit or Part003 transcription without another explicit continuation.

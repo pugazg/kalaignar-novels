@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans41–50; formal Part002 Pass 2A reviewed; formal Part002 Pass 2B reviewed"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans41–50; formal Part002 Pass 2A reviewed; formal Part002 Pass 2B reviewed; formal Part002 Pass 3 visual/structural review completed"
 ---
 
 # கண்டியின் வாரிசுப் போட்டி!
@@ -57,4 +57,15 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - Pass 2B result: **REVIEWED / PASS**;
 - page remains `needs-review`; final `verified` promotion remains blocked until Pass 3, Part audit and final status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 50; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 39; PASS 1 + PASS 2A + PASS 2B REVIEWED / needs-review -->
+## Formal Part002 Pass 3 visual / structural review
+
+- source-visible chapter opening uses a large black ornamental banner carrying `கண்டியின் வாரிசுப் போட்டி!`;
+- chapter number `6` is displayed separately in the shield-like hanging ornament at upper left beneath the banner;
+- body prose begins below the chapter furniture; printed page number `39` is centered in the footer marker and the page ends mid-sentence at `பாஞ்சாலங்குறிச்சி`, continuing on scan51;
+- body-vs-non-body separation, displayed hierarchy, page furniture and continuation state were checked directly against the whole-page source image;
+- canonical source text required **0 textual corrections** in Pass 3;
+- unresolved visual/structural questions: **0**;
+- Pass 3 result for this scan: **REVIEWED / PASS**;
+- page remains `needs-review` pending whole-Part Pass 3 closure, Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 50; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 39; PASS 1 + PASS 2A + PASS 2B + PASS 3 REVIEWED / needs-review -->

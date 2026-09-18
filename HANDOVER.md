@@ -37,8 +37,9 @@
 - Pass 2B Batch 2 scans41–50 — **COMPLETE / REVIEWED / PASS — 0 historical-glyph corrections; 0 other corrections; 0 unresolved**
 - Pass 2B Batch 3 scans51–60 — **COMPLETE / REVIEWED / PASS — 0 historical-glyph corrections; 1 lexical correction; 0 unresolved**
 - Pass 2B cumulative — **0 historical-glyph corrections; 1 other correction; 0 unresolved**
-- Pass 3 — **IN PROGRESS — 10/30 REVIEWED**
+- Pass 3 — **IN PROGRESS — 20/30 REVIEWED**
 - Pass 3 Batch 1 scans31–40 — **COMPLETE / REVIEWED / PASS — 0 textual corrections; 0 unresolved visual/structural questions**
+- Pass 3 Batch 2 scans41–50 — **COMPLETE / REVIEWED / PASS — 0 textual corrections; 0 unresolved visual/structural questions**
 - assembled Tamil / English — **NOT STARTED**
 - 60→61 — **CLEAN / AUDITED**
 
@@ -62,9 +63,9 @@ Durable record:
 
 ## Exact next activity
 
-Perform **Part002 Pass 3 — global scans41–50 / local pages11–20**.
+Perform **Part002 Pass 3 — global scans51–60 / local pages21–30**.
 
 Tracker:
 `works/payumpuli-pandaraka-vanniyan/PART_002_PASS3_PROGRESS.md`
 
-**Stop after that 10-scan batch. Do not begin Pass 3 scans51–60, Part audit, or Part003 transcription in the same iteration.**
+**Stop after that 10-scan batch. Do not begin Part audit or Part003 transcription in the same iteration.**
