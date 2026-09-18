@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans31–40"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans31–40; formal Part002 Pass 2A reviewed"
 ---
 
 # குருவிச்சி நாச்சியார்
@@ -33,4 +33,12 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - scan37→38 continues `ஆடும் மகளிரில்` → `நாலைந்து...`; scan38 ends `மிரண்டுபோன`;
 - formal Part002 Pass 2A / Pass 2B / Pass 3 are not started; this Pass-1 record remains `needs-review`.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 38; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: 27; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue and physical page-boundary comparison completed against the user-supplied Part002 source pixels;
+- source-text corrections: **0**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending whole-Part Pass 2A closure, Pass 2B, Pass 3, Part audit and final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 38; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: 27; PASS 1 + PASS 2A REVIEWED / needs-review -->
