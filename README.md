@@ -12,11 +12,11 @@
 - Part002 / scans31–60 — **ACTIVE**
 - Part002 canonical records — **30/30**
 - Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Part002 Pass 2A — **NEXT / NOT STARTED**
+- Part002 Pass 2A — **IN PROGRESS — 10/30 REVIEWED**
 - boundaries: **30→31 GENUINE CONTINUATION / AUDITED; 60→61 CLEAN / AUDITED**
 - Part003 — **REGISTERED / NOT ACTIVE**
 
-Exact next action: **Part002 Pass 2A for scans31–40 / local1–10.**
+Exact next action: **Part002 Pass 2A for scans41–50 / local11–20.**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 
