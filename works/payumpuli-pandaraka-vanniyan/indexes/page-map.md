@@ -528,7 +528,8 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - English editorial review — **PASS / CLOSED**
 - English bilingual review — **PASS / CLOSED**
 - bilingual English-only corrections — **3**
-- English next — **release/readiness report**
+- release/readiness — **PASS / CLOSED**
+- English next — **release-ready synchronization**
 - audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN**
 - Part003 — **REGISTERED / NOT ACTIVE**
 
@@ -536,6 +537,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Create and complete **Part002 release/readiness report**. The canonical page map remains source-provenance authority and must not be altered merely to smooth English.
+Perform **Part002 release-ready synchronization**. The canonical page map remains source-provenance authority and must not be altered merely to smooth English.
 
 Part003 remains inactive.

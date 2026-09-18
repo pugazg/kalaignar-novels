@@ -160,8 +160,8 @@ All Part002 page records remain `needs-review` pending Pass 3 and later whole-Pa
 
 ## Exact next activity
 
-Part002 Tamil archival-ready and assembled Tamil remain **PASS / CLOSED**. English E5–E9 remain **SOURCE-CHECKED / COMPLETE — 5/5**. Whole-Part glossary reconciliation remains **RECONCILED / PASS**. English editorial review and whole-Part bilingual review are **PASS / CLOSED**.
+Part002 Tamil and English verification chains remain closed through **release/readiness PASS / CLOSED**.
 
-Create and complete **Part002 release/readiness report** at `translations/en/PART_002_RELEASE_REPORT.md`.
+Perform **Part002 release-ready synchronization** and create `PART_002_RELEASE_READY_SYNC.md`.
 
-Do not begin release-ready synchronization, final Part002 closure, or Part003 transcription until release/readiness closes.
+Do not begin final Part002 closure or Part003 transcription until synchronization closes.

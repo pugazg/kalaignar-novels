@@ -1,6 +1,6 @@
 # Part 002 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL + BILINGUAL REVIEW PASS / CLOSED — RELEASE/READINESS NEXT**
+Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL + BILINGUAL + RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNC NEXT**
 
 This glossary is derived only from the verified Part002 canonical/assembled Tamil plus already-closed Part001 project English choices where the **same Tamil source form** recurs.
 
@@ -268,8 +268,22 @@ Accounting:
 Durable record:
 - `PART_002_BILINGUAL_REVIEW.md`
 
+## Post-bilingual release/readiness
+
+Release/readiness closed **PASS / CLOSED** without changing glossary policy.
+
+- deliberate source variants preserved — **PASS**
+- bilingual corrections present — **3/3**
+- new glossary changes at release/readiness — **0**
+- unresolved release/readiness blockers — **0**
+- canonical Tamil edits — **0**
+- Part003 leakage — **0**
+
+Durable record:
+- `PART_002_RELEASE_REPORT.md`
+
 ## Exact next gate
 
-**Part002 release/readiness report.**
+**Part002 release-ready synchronization.**
 
-Do not begin release-ready synchronization, final Part002 closure or Part003 transcription until release/readiness closes.
+Do not begin final Part002 closure or Part003 transcription until synchronization closes.

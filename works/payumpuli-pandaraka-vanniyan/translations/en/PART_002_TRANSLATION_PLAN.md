@@ -1,6 +1,6 @@
 # Part 002 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **WHOLE-PART BILINGUAL REVIEW PASS / CLOSED — RELEASE/READINESS NEXT**
+Status: **RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
 
 This is the control plan for the project-created English translation of **Part002 only**.
 
@@ -286,8 +286,23 @@ Part002 whole-Part bilingual review is **PASS / CLOSED**.
 Durable record:
 - `PART_002_BILINGUAL_REVIEW.md`
 
+## Post-bilingual release/readiness
+
+Part002 release/readiness is **PASS / CLOSED**.
+
+- release/readiness blockers — **0**
+- maintained English body changes in release/readiness — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil body edits — **0**
+- frozen Part001 English body edits — **0**
+- Part003 leakage — **0**
+- source-PDF exclusion — **PASS**
+
+Durable record:
+- `PART_002_RELEASE_REPORT.md`
+
 ## Exact next activity
 
-**Part002 release/readiness report.**
+**Part002 release-ready synchronization.**
 
-Create `PART_002_RELEASE_REPORT.md` only in the next gate. Do not begin release-ready synchronization until that report closes.
+Do not begin final Part002 closure or Part003 transcription until synchronization closes.

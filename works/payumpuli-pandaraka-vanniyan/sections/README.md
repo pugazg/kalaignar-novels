@@ -84,13 +84,13 @@ Part002:
 - English editorial review — **PASS / CLOSED**
 - English bilingual review — **PASS / CLOSED**
 - bilingual English-only corrections — **3**
-- English next — **release/readiness report**
-- release/readiness — **BLOCKED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **NEXT / NOT STARTED**
 - final Part002 closure — **BLOCKED**
 - Part003 transcription — **BLOCKED / NOT ACTIVE**
 
 ## Exact next activity
 
-Use all five PASSED Part002 assembled sections, all five maintained English sections, and the editorial-review record as authority for **whole-Part bilingual review**, with canonical `../pages/` controlling any discrepancy.
+Perform **Part002 release-ready synchronization** using the closed Tamil, English, bilingual and release/readiness records.
 
-Do not alter this verified Tamil reading layer merely to smooth English.
+Do not alter this verified Tamil reading layer, do not begin final Part002 closure, and do not begin Part003 transcription.

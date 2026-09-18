@@ -48,7 +48,8 @@
 - English editorial review — **PASS / CLOSED**
 - English bilingual review — **PASS / CLOSED**
 - bilingual English-only corrections — **3**
-- English next — **release/readiness report**
+- release/readiness — **PASS / CLOSED**
+- English next — **release-ready synchronization**
 - 30→31 — **GENUINE CONTINUATION / AUDITED**
 - 60→61 — **CLEAN / AUDITED**
 
@@ -63,6 +64,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_TRANSLATION_REVIEW.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_BILINGUAL_REVIEW.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_RELEASE_REPORT.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
@@ -75,12 +77,12 @@ Durable records:
 
 ## Exact next activity
 
-Create and complete **Part002 release/readiness report** at `translations/en/PART_002_RELEASE_REPORT.md`.
+Perform **Part002 release-ready synchronization** and create `PART_002_RELEASE_READY_SYNC.md`.
 
 Authority:
 - canonical Part002 `pages/` — controlling Tamil authority;
 - PASSED Part002 `sections/08-*.md` through `12-*.md` — maintained Tamil reading authority;
-- all five maintained Part002 English section files — editorial-review target;
-- `translations/en/PART_002_TRANSLATION_PLAN.md`, `PART_002_GLOSSARY.md` and `PART_002_GLOSSARY_RECONCILIATION.md` — active English controls.
+- all five maintained Part002 English section files — closed maintained English body layer;
+- `translations/en/PART_002_TRANSLATION_PLAN.md`, `PART_002_GLOSSARY.md`, `PART_002_GLOSSARY_RECONCILIATION.md`, `PART_002_TRANSLATION_REVIEW.md`, `PART_002_BILINGUAL_REVIEW.md` and `PART_002_RELEASE_REPORT.md` — closed English/release controls.
 
-Do not begin release-ready synchronization until release/readiness closes. Keep Part001 frozen and Part003 transcription blocked.
+Do not begin final Part002 closure until release-ready synchronization closes. Keep Part001 frozen and Part003 transcription blocked.

@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**WHOLE-PART BILINGUAL REVIEW PASS / CLOSED — RELEASE/READINESS NEXT**
+**RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
 
 Part001 English remains **FINAL CLOSED / FROZEN**.
 
@@ -16,8 +16,8 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 | Glossary | Part002 whole-Part reconciliation | 31–60 | **RECONCILED / PASS** |
 | Editorial | Part002 whole-Part English editorial review | 31–60 | **PASS / CLOSED** |
 | Bilingual | Part002 whole-Part bilingual review | 31–60 | **PASS / CLOSED** |
-| Release | Part002 release/readiness report | 31–60 | **NEXT / NOT STARTED** |
-| Release sync | Part002 release-ready synchronization | 31–60 | BLOCKED |
+| Release | Part002 release/readiness report | 31–60 | **PASS / CLOSED** |
+| Release sync | Part002 release-ready synchronization | 31–60 | **NEXT / NOT STARTED** |
 | Final closure | Part002 final closure | 31–60 | BLOCKED |
 
 ## Current counts
@@ -36,10 +36,12 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 - whole-Part bilingual review — **PASS / CLOSED**
 - bilingual English-only corrections — **3**
 - unresolved bilingual holds — **0**
+- release/readiness — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
 - canonical Tamil edits caused by English — **0**
 - frozen Part001 English section-file edits caused by Part002 — **0**
 - Part003 English/Tamil content imported into Part002 — **0**
-- release/readiness — **BLOCKED**
+- release-ready synchronization — **NEXT / NOT STARTED**
 - final Part002 closure — **BLOCKED**
 - Part003 transcription — **BLOCKED / NOT ACTIVE**
 
@@ -151,10 +153,32 @@ Accounting:
 - frozen Part001 English body edits — **0**
 - Part003 leakage — **0**
 
+## Release/readiness closure
+
+Part002 release/readiness is **PASS / CLOSED**.
+
+Durable record:
+- `PART_002_RELEASE_REPORT.md`
+
+Accounting:
+- Tamil archival/readiness prerequisites — **PASS / CLOSED**
+- English maintained/source-checked files — **5/5**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections present — **3/3**
+- source-PDF paths in active work tree — **0**
+- unresolved release/readiness blockers — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil body edits — **0**
+- maintained English body edits during release/readiness — **0**
+- frozen Part001 English body edits — **0**
+- Part003 leakage — **0**
+
 ## Exact next activity
 
-**Part002 release/readiness report.**
+**Part002 release-ready synchronization.**
 
-Create and complete `PART_002_RELEASE_REPORT.md` in the next gate.
+Create and verify `../../PART_002_RELEASE_READY_SYNC.md`.
 
-Do not begin release-ready synchronization until release/readiness closes.
+Do not begin final Part002 closure or Part003 transcription until release-ready synchronization closes.

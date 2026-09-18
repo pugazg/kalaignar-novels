@@ -347,3 +347,22 @@ Part002 now has:
 Create and complete `PART_002_RELEASE_REPORT.md` only in the next gate.
 
 Do not begin release-ready synchronization, final Part002 closure or Part003 transcription until the release/readiness gate closes.
+
+## Post-bilingual release/readiness state
+
+This bilingual-review record remains **PASS / CLOSED**.
+
+Subsequent release/readiness:
+- rechecked the 3 bilingual English-only corrections — **3/3 present**;
+- introduced new English body changes — **0**;
+- unresolved release/readiness blockers — **0**;
+- canonical Tamil edits — **0**;
+- Part003 leakage — **0**;
+- source-PDF exclusion — **PASS**.
+
+Durable record:
+- `PART_002_RELEASE_REPORT.md`.
+
+Current next gate:
+
+**Part002 release-ready synchronization.**
