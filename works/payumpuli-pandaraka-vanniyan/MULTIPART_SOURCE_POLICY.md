@@ -40,7 +40,7 @@ For every `N→N+1` boundary:
 - active Part — **Part002 / scans31–60**
 - Part002 canonical records — **30/30**
 - Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Part002 Pass 2A — **NEXT / NOT STARTED**
+- Part002 Pass 2A — **IN PROGRESS — 10/30 REVIEWED**
 - Part002 Pass 2B / Pass 3 — **NOT STARTED**
 - Part003 — **SUPPLIED / REGISTERED / NOT ACTIVE**
 - split-boundary classifications — **2 / 15 audited**
@@ -69,4 +69,4 @@ Durable record:
 Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
-- **Part002 Pass 2A — scans31–40 / local1–10**
+- **Part002 Pass 2A — scans41–50 / local11–20**
