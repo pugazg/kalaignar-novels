@@ -23,12 +23,17 @@ Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 - Pass 2B: **COMPLETE / PASS — 30/30 REVIEWED; 0 historical-glyph corrections; 0 other corrections; 0 unresolved**
 - Pass 3: **COMPLETE / PASS — 30/30 REVIEWED; 0 textual corrections; 0 unresolved visual/structural questions**
 - Part audit: **PASS / COMPLETE**
-- final metadata/status synchronization: **NOT STARTED**
+- final metadata/status synchronization: **PASS / CLOSED**
+- Tamil textual status: **30/30 verified**
+- visual fidelity: **30/30 verified**
+- unresolved status exceptions: **0**
+- documentation synchronization: **NOT STARTED**
 - outgoing 90→91 boundary audit: **GENUINE CONTINUATION / AUDITED**
 
-All Part003 Pass-1 records remain non-final:
-- status: "needs-review"
-- visual_fidelity: "needs-review"
+At Pass-1 closure all Part003 records remained non-final. After the completed Part audit and final metadata/status synchronization, the current distribution is:
+- status: "verified" — **30/30**
+- visual_fidelity: "verified" — **30/30**
+- needs-review — **0**
 
 ## Completed batches
 
@@ -120,6 +125,6 @@ The bootstrap referenced HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md, but that
 
 ## Exact next activity
 
-Perform **Part003 final metadata/status synchronization**.
+Perform **Part003 documentation synchronization**.
 
-Use the completed Part audit as the promotion gate. Do not begin documentation synchronization or Part004 transcription in the same iteration.
+Reconcile the live documentation/control surface to the verified 30/30 state without changing Part003 page records. Do not begin Tamil archival-ready or Part004 transcription in the same iteration.

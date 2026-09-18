@@ -32,11 +32,7 @@ For every reviewed scan:
 
 Formal Part003 Pass2A / Pass2B / Pass3 evidence blocks are now present in all **30/30** canonical page records.
 
-Pages deliberately remain:
-- `status: needs-review`
-- `visual_fidelity: needs-review`
-
-until Part audit and final metadata/status synchronization close.
+At Pass-3 closure pages deliberately remained `needs-review` / `needs-review`. The subsequent Part audit passed and final metadata/status synchronization is now **PASS / CLOSED**, promoting all **30/30** pages to `verified` / `verified`.
 
 ## Final accounting
 
@@ -48,7 +44,11 @@ until Part audit and final metadata/status synchronization close.
 - cumulative Pass 3 textual corrections — **0**
 - cumulative unresolved visual/structural questions — **0**
 - Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **NOT STARTED**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- unresolved status exceptions — **0**
+- documentation synchronization — **NOT STARTED**
 
 ## Batch 1 — scans61–70
 
@@ -125,6 +125,6 @@ No blocker remains for the Part-audit gate.
 
 ## Exact next activity
 
-Perform **Part003 final metadata/status synchronization**.
+Perform **Part003 documentation synchronization**.
 
-Use the completed Part audit as the promotion gate. Do not begin documentation synchronization or Part004 transcription in the same iteration.
+Reconcile the live documentation/control surface to the verified 30/30 state without changing Part003 page records. Do not begin Tamil archival-ready or Part004 transcription in the same iteration.

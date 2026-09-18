@@ -37,7 +37,11 @@ For every reviewed scan:
 - Pass 2B cumulative — **0 historical-glyph corrections; 0 other corrections; 0 unresolved**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
 - Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **NOT STARTED**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- unresolved status exceptions — **0**
+- documentation synchronization — **NOT STARTED**
 
 ## Batch 1 — scans61–70
 
@@ -153,6 +157,6 @@ Durable outgoing audit:
 
 ## Exact next activity
 
-Perform **Part003 final metadata/status synchronization**.
+Perform **Part003 documentation synchronization**.
 
-Use the completed Part audit as the promotion gate. Do not begin documentation synchronization or Part004 transcription in the same iteration.
+Reconcile the live documentation/control surface to the verified 30/30 state without changing Part003 page records. Do not begin Tamil archival-ready or Part004 transcription in the same iteration.

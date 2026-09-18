@@ -44,7 +44,11 @@ Page records remain `needs-review`; final `verified` promotion is reserved for l
 - unresolved historical-glyph identities — **0**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
 - Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **NOT STARTED**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- unresolved status exceptions — **0**
+- documentation synchronization — **NOT STARTED**
 
 ## Batch 1 — scans61–70
 
@@ -145,6 +149,6 @@ No Batch-3 occurrence required a historical-glyph identity change, ordinary lexi
 
 ## Exact next activity
 
-Perform **Part003 final metadata/status synchronization**.
+Perform **Part003 documentation synchronization**.
 
-Use the completed Part audit as the promotion gate. Do not begin documentation synchronization or Part004 transcription in the same iteration.
+Reconcile the live documentation/control surface to the verified 30/30 state without changing Part003 page records. Do not begin Tamil archival-ready or Part004 transcription in the same iteration.

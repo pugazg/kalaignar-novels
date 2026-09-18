@@ -71,7 +71,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
-## Part003 — ACTIVE / PART AUDIT COMPLETE
+## Part003 — ACTIVE / FINAL STATUS SYNC CLOSED
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
 - global scans — **61–90**
@@ -89,12 +89,16 @@ Durable records:
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 3 cumulative — **0 textual corrections; 0 unresolved visual/structural questions**
 - Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **NOT STARTED**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- unresolved status exceptions — **0**
+- documentation synchronization — **NOT STARTED**
 
 Part001 and Part002 are frozen.
 
 ## Exact next activity
 
-Perform **Part003 final metadata/status synchronization**.
+Perform **Part003 documentation synchronization**.
 
-Promote per-page `status` / `visual_fidelity` only from the now-closed audit evidence. Do not begin documentation synchronization or Part004 transcription in the same iteration.
+Reconcile the live documentation/control surface to the verified 30/30 state without changing Part003 page records. Do not begin Tamil archival-ready or Part004 transcription in the same iteration.
