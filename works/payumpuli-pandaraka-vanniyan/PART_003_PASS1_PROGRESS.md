@@ -19,8 +19,8 @@ Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 - Pass-1 text-complete records: **30/30 — scans61–90**
 - Pass-1 transcription pending: **0**
 - unresolved Pass-1 source-reading holds: **0**
-- Pass 2A: **IN PROGRESS — 10/30 REVIEWED; 0 corrections; 0 unresolved**
-- Pass 2B: **NOT STARTED**
+- Pass 2A: **COMPLETE / PASS — 30/30 REVIEWED; 0 corrections; 0 unresolved**
+- Pass 2B: **COMPLETE / PASS — 30/30 REVIEWED; 0 historical-glyph corrections; 0 other corrections; 0 unresolved**
 - Pass 3: **NOT STARTED**
 - outgoing 90→91 boundary audit: **GENUINE CONTINUATION / AUDITED**
 
@@ -118,6 +118,6 @@ The bootstrap referenced HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md, but that
 
 ## Exact next activity
 
-Perform **Part003 Pass 2A — batch 2 scans71–80 / local pages11–20**.
+Perform **Part003 Pass 3 — first batch scans61–70 / local pages1–10**.
 
-Do not begin Pass 2B until Part003 Pass 2A covers scans61–90.
+Passes 2A and 2B are closed.

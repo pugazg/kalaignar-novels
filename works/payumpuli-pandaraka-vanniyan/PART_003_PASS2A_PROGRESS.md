@@ -33,7 +33,8 @@ For every reviewed scan:
 - Batch 3 scans81–90 — **0 source-text corrections; 0 unresolved**
 - cumulative Pass 2A source-text corrections — **0**
 - unresolved textual questions — **0**
-- Pass 2B — **NOT STARTED**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2B cumulative — **0 historical-glyph corrections; 0 other corrections; 0 unresolved**
 - Pass 3 — **NOT STARTED**
 
 ## Batch 1 — scans61–70
@@ -150,6 +151,6 @@ Durable outgoing audit:
 
 ## Exact next activity
 
-Perform **Part003 Pass 2B — batch 1 scans61–70 / local pages1–10**.
+Perform **Part003 Pass 3 — first batch scans61–70 / local pages1–10**.
 
-Pass 2A is closed. Do not begin Pass 3 until Pass 2B covers all scans61–90.
+Passes 2A and 2B are closed.
