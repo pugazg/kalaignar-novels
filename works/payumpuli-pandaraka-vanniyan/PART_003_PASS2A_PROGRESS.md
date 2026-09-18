@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS — 10/30 REVIEWED**
+**PASS 2A — IN PROGRESS — 20/30 REVIEWED**
 
 Prerequisites:
 - Part003 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -26,9 +26,10 @@ For every reviewed scan:
 
 ## Current accounting
 
-- Pass 2A reviewed: **10/30 — scans61–70**
-- Pass 2A remaining: **20/30 — scans71–90**
+- Pass 2A reviewed: **20/30 — scans61–80**
+- Pass 2A remaining: **10/30 — scans81–90**
 - Batch 1 scans61–70 — **0 source-text corrections; 0 unresolved**
+- Batch 2 scans71–80 — **0 source-text corrections; 0 unresolved**
 - cumulative Pass 2A source-text corrections — **0**
 - unresolved textual questions — **0**
 - Pass 2B — **NOT STARTED**
@@ -65,6 +66,38 @@ For every reviewed scan:
 
 No canonical body correction was required in scans61–70.
 
+## Batch 2 — scans71–80
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+| Global scan | Local page | Printed page | Section | Source-text corrections |
+|---:|---:|---:|---|---:|
+| 71 | 11 | 61 | `காக்கை வன்னியன்!` | 0 |
+| 72 | 12 | 62 | `காக்கை வன்னியன்!` | 0 |
+| 73 | 13 | 63 | chapter 9 `முத்து மாளிகை!` | 0 |
+| 74 | 14 | 64 | `முத்து மாளிகை!` | 0 |
+| 75 | 15 | 65 | `முத்து மாளிகை!` | 0 |
+| 76 | 16 | 66 | `முத்து மாளிகை!` | 0 |
+| 77 | 17 | 67 | `முத்து மாளிகை!` | 0 |
+| 78 | 18 | 68 | `முத்து மாளிகை!` | 0 |
+| 79 | 19 | 69 | `முத்து மாளிகை!` | 0 |
+| 80 | 20 | 70 | chapter 10 `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | 0 |
+
+## Durable Batch-2 confirmations
+
+- scan71's descriptive opening, quoted dialogue and source punctuation match the canonical record;
+- scan72's short chapter-closing page, including the large blank lower area, matches the canonical record;
+- scan73 visibly opens chapter **9 — `முத்து மாளிகை!`** and preserves the physical terminal fragment **`வணங்கிக்`**;
+- scan74 begins **`கொண்டே`**, preserves the room-sequence punctuation, and ends at **`நயம்,`**;
+- scan75 begins **`நளினம்`**, directly confirms **`தங்க நாச்சியம்மையிடம்`**, **`முல்லைத் தீவின்`**, **`குறும்பு மொழி`**, and ends at **`தனது`**;
+- scan76 begins **`ஐந்தாண்டு கால கனவு...`**; the food-table dialogue and single-quoted **`‘முதலில் நீ கொஞ்சம் குடி!’`** match the canonical record;
+- scan77 directly confirms **`அவ்வைக் கிழங்கு`**, **`தூக்கிக்கொண்டு போய்விட்டார்கள்`**, and the page-end **`அவளுக்குத் தானே`**;
+- scan78 begins **`பரிமாறுவதாக`** and confirms **`கண்ணகி யம்மன்`**, **`பிரசாதங்களைக்கொண்டு`**, and **`அழைத்துப்போ`**;
+- scan79 is a short chapter-closing page with substantial blank lower area; its line-wrapped **`குளம் / படிச்`** is correctly represented in continuous canonical prose as **`குளம்படிச்`**;
+- scan80 visibly opens chapter **10 — `சிலந்தி வலையோ? சிறிய பூச்சியோ?`** with the two-line displayed title and matching body text.
+
+No canonical body correction was required in scans71–80.
+
 ## Boundary closure
 
 Durable outgoing audit:
@@ -75,6 +108,6 @@ Durable outgoing audit:
 
 ## Exact next activity
 
-Perform **Part003 Pass 2A — batch 2 scans71–80 / local pages11–20**.
+Perform **Part003 Pass 2A — batch 3 scans81–90 / local pages21–30**.
 
 Do not begin Pass 2B until Pass 2A covers all scans61–90.

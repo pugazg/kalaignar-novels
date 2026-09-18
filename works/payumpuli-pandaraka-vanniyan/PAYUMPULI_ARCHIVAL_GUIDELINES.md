@@ -72,10 +72,10 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part003 Pass 1: COMPLETE / PASS — 30/30 TEXT-COMPLETE — scans61–90**
 - **Part003 unresolved Pass-1 source-reading holds: 0**
 - **Part003 90→91 boundary: GENUINE CONTINUATION / AUDITED**
-- **Part003 Pass 2A: IN PROGRESS — 10/30 REVIEWED — 0 corrections; 0 unresolved**
+- **Part003 Pass 2A: IN PROGRESS — 20/30 REVIEWED — 0 corrections; 0 unresolved**
 
 ## Exact next gate
 
-Perform **Part003 Pass 2A — batch 2 scans71–80 / local pages11–20**.
+Perform **Part003 Pass 2A — batch 3 scans81–90 / local pages21–30**.
 
 Do not reopen frozen Part001/Part002. Do not begin Part004 transcription until the complete Part003 maintained workflow closes.

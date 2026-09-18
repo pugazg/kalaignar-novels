@@ -82,13 +82,13 @@ Durable records:
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - unresolved Pass-1 source-reading holds — **0**
 - scan90 / printed80 terminal fragment — **என்னைப்** inside an open quotation
-- Pass 2A — **IN PROGRESS — 10/30 REVIEWED**
+- Pass 2A — **IN PROGRESS — 20/30 REVIEWED**
 - Pass 2A cumulative corrections — **0; unresolved 0**
 
 Part001 and Part002 are frozen.
 
 ## Exact next activity
 
-Perform **Part003 Pass 2A — batch 2 scans71–80 / local pages11–20**.
+Perform **Part003 Pass 2A — batch 3 scans81–90 / local pages21–30**.
 
 Preserve incoming **60→61 CLEAN / AUDITED** and outgoing **90→91 GENUINE CONTINUATION / AUDITED**. Do not begin Pass 2B until Pass 2A covers scans61–90.
