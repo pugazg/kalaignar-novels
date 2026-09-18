@@ -49,7 +49,8 @@ At Pass-3 closure pages deliberately remained `needs-review` / `needs-review`. T
 - visual fidelity — **30/30 verified**
 - unresolved status exceptions — **0**
 - documentation synchronization — **PASS / COMPLETE**
-- Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **NEXT GATE / NOT YET STARTED**
 
 ## Batch 1 — scans61–70
 
@@ -126,6 +127,6 @@ No blocker remains for the Part-audit gate.
 
 ## Exact next activity
 
-Perform **Part003 Tamil archival-ready checkpoint**.
+Perform **Part003 assembled Tamil construction + audit**.
 
-Do not reopen verified Part003 page records or begin Part004 transcription in the same iteration.
+Use only verified Part003 canonical page source-transcription blocks. Do not begin Part004 transcription in the same iteration.

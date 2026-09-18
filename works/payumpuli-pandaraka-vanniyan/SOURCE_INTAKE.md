@@ -91,7 +91,8 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part003 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
 - Part003 visual fidelity — **30/30 verified; 0 needs-review**
 - Part003 unresolved status exceptions — **0**
-- Part003 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- Part003 Tamil archival-ready — **PASS / CLOSED**
+- Part003 assembled Tamil — **NEXT GATE / NOT YET STARTED**
 - Part004 transcription — **BLOCKED**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
@@ -112,6 +113,6 @@ Authoritative Part003 closure records:
 
 ## Exact next activity
 
-Perform **Part003 Tamil archival-ready checkpoint**.
+Perform **Part003 assembled Tamil construction + audit** from the verified canonical scans61–90.
 
-Part001 and Part002 remain frozen. Do not begin assembled Tamil, English work, final Part003 closure or Part004 transcription before the archival-ready checkpoint closes.
+Part001 and Part002 remain frozen. Do not begin English work or Part004 transcription until the Part003 assembled Tamil checkpoint closes.

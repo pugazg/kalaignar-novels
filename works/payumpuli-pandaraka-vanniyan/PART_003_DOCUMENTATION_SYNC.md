@@ -130,3 +130,18 @@ Required post-write checks:
 **Part003 Tamil archival-ready checkpoint.**
 
 Do not begin assembled Tamil, English translation/review, release/readiness, final Part003 closure or Part004 transcription in this gate.
+
+
+## Post-documentation archival-ready state
+
+This documentation synchronization gate remains historically closed.
+
+Part003 subsequently completed the Tamil archival-ready checkpoint:
+
+- Tamil archival-ready — **PASS / CLOSED**
+- canonical Tamil page mutations caused by archival-ready checkpoint — **0**
+- Part004 canonical leakage — **0**
+
+Current next gate:
+
+**Part003 assembled Tamil construction + audit.**

@@ -722,3 +722,31 @@ Historical gate sections above remain historical evidence and are not the live f
 Perform **Part003 Tamil archival-ready checkpoint**.
 
 Do not reopen verified Part003 page records and do not begin assembled Tamil, English workflow or Part004 transcription in that documentation-sync closure.
+
+
+## Part003 Tamil archival-ready checkpoint — PASS / CLOSED
+
+Part003 canonical Tamil is now archival-ready for normal workflow purposes:
+
+- canonical records — **30/30 scans61–90**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- partial / blocked / source-limited / needs-review — **0**
+- unresolved Pass1 / Pass2A / historical-glyph / Pass3 / status exceptions — **0**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- incoming 60→61 — **CLEAN / AUDITED**
+- outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
+- canonical Part004 records — **0**
+- canonical Tamil mutations caused by archival-ready checkpoint — **0**
+
+Durable record:
+- `PART_003_TAMIL_ARCHIVAL_READY.md`
+
+## Current Part003 frontier
+
+Perform **Part003 assembled Tamil construction + audit** using verified canonical Part003 source-transcription blocks as the textual authority.
+
+Do not begin English work or Part004 transcription until the Part003 assembled Tamil checkpoint closes.

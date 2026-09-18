@@ -50,7 +50,8 @@ For every `N→N+1` boundary:
 - Part003 Tamil textual status — **30/30 verified**
 - Part003 visual fidelity — **30/30 verified**
 - Part003 unresolved status exceptions — **0**
-- Part003 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- Part003 Tamil archival-ready — **PASS / CLOSED**
+- Part003 assembled Tamil — **NEXT GATE / NOT YET STARTED**
 - Part004 transcription — **BLOCKED**
 - split-boundary classifications — **3 / 15 audited**
 
@@ -68,6 +69,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part003 Tamil archival-ready checkpoint.**
+**Part003 assembled Tamil construction + audit.**
 
-Part001 and Part002 remain frozen. Do not begin Part004 transcription until the complete Part003 maintained workflow closes.
+Part001 and Part002 remain frozen. Preserve **90→91 GENUINE CONTINUATION** as provenance only and do not begin Part004 transcription until the full Part003 closure chain completes.
