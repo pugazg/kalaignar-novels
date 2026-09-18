@@ -174,3 +174,19 @@ Part002 assembled Tamil is now **PASS / CLOSED**.
 Begin the **Part002 project-created English translation planning/setup workflow**.
 
 Do not draft translated prose in this assembled-Tamil gate. Do not begin release/readiness, final Part002 closure, or Part003 transcription.
+
+## Post-assembly English planning/setup
+
+This assembled-Tamil closure remains historically correct and closed.
+
+The Part002 English planning/setup gate subsequently completed with **0 English prose drafted** and **0 Tamil/assembled-Tamil mutations**.
+
+Active Part002 English controls:
+- `translations/en/PART_002_TRANSLATION_PLAN.md`;
+- `translations/en/PART_002_GLOSSARY.md`;
+- `translations/en/PART_002_PROGRESS.md`;
+- `translations/en/README.md`.
+
+Current English frontier:
+
+**E5 — section08 / scans31–34 — NEXT / NOT STARTED.**

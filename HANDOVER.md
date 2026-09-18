@@ -41,7 +41,9 @@
 - unresolved status exceptions — **0**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
-- English — **NEXT / UNBLOCKED — planning/setup gate**
+- English planning/setup — **COMPLETE / PASS**
+- English translated/source-checked files — **0/5**
+- English next — **E5 / section08 / scans31–34**
 - 30→31 — **GENUINE CONTINUATION / AUDITED**
 - 60→61 — **CLEAN / AUDITED**
 
@@ -51,6 +53,9 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_002_DOCUMENTATION_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_TAMIL_ARCHIVAL_READY.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_TRANSLATION_PLAN.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_GLOSSARY.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
 ## Part003
@@ -62,10 +67,11 @@ Durable records:
 
 ## Exact next activity
 
-Perform the **Part002 English translation planning/setup gate**:
-- establish the derived English authority hierarchy;
-- create/update the Part002 English translation plan, glossary, progress control and English README;
-- define source-faithful batch and review rules from the five verified Part002 assembled Tamil section files;
-- do **not** draft translated prose in the planning gate.
+Perform **Part002 English Draft Batch E5 — section 08 / scans31–34**, then complete `translations/en/E5_SOURCE_CHECK.md`.
 
-Keep release/readiness, final Part002 closure and Part003 transcription blocked.
+Authority:
+- canonical Part002 `pages/` — controlling Tamil authority;
+- PASSED Part002 `sections/08-vazhiyil-kanda-vayothigar-part002.md` — normal continuous reading authority;
+- `translations/en/PART_002_TRANSLATION_PLAN.md` and `PART_002_GLOSSARY.md` — active English controls.
+
+Do not begin E6 until E5 is **SOURCE-CHECKED / COMPLETE**. Keep Part001 frozen and Part003 transcription blocked.

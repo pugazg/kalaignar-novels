@@ -58,11 +58,13 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part002 visual fidelity: 30/30 verified**
 - **Part002 Tamil archival-ready: PASS / CLOSED**
 - **Part002 assembled Tamil: PASS / CLOSED — 5/5 section files VERIFIED**
-- **Part002 English: NEXT / UNBLOCKED — planning/setup gate**
+- **Part002 English planning/setup: COMPLETE / PASS**
+- **Part002 English translated/source-checked: 0/5**
+- **Part002 English next: E5 / section08 / scans31–34**
 - **Part003: REGISTERED / NOT ACTIVE**
 
 ## Exact next gate
 
-Perform the **Part002 English translation planning/setup gate** from the verified canonical Part002 page layer and PASSED Part002 assembled Tamil reading layer.
+Perform **Part002 English E5 — section08 / scans31–34** under the Part002 translation plan and glossary, then complete the E5 source-check.
 
-Do not reopen canonical Tamil, draft English prose in the planning gate, alter frozen Part001 content, or begin Part003 transcription.
+Do not reopen canonical Tamil, alter frozen Part001 English, begin E6 early, or begin Part003 transcription.

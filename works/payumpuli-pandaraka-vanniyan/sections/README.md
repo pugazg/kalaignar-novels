@@ -77,13 +77,15 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 Part002:
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
-- English — **NEXT / UNBLOCKED — planning/setup gate**
+- English planning/setup — **COMPLETE / PASS**
+- English translated/source-checked files — **0/5**
+- English next — **E5 / section08 / scans31–34**
 - release/readiness — **BLOCKED**
 - final Part002 closure — **BLOCKED**
 - Part003 transcription — **BLOCKED / NOT ACTIVE**
 
 ## Exact next activity
 
-Perform the **Part002 English translation planning/setup gate** only.
+Use the PASSED Part002 assembled section 08 as the normal reading authority for **English E5 / scans31–34**, with canonical `../pages/` controlling any discrepancy.
 
-Do not draft English section prose, begin release/readiness, final Part002 closure, or Part003 transcription in that planning gate.
+Do not alter this verified Tamil reading layer merely to smooth English.

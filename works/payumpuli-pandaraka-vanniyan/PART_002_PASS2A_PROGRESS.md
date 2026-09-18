@@ -125,17 +125,15 @@ The independent Pass2B enlarged-source reread found one additional ordinary sour
 
 ## Exact next activity
 
-Part002 Tamil archival-ready is **PASS / CLOSED** and assembled Tamil is **PASS / CLOSED — 5/5 section files VERIFIED**. These earlier Pass records remain historically closed and are not reopened.
+Part002 Tamil archival-ready and assembled Tamil are **PASS / CLOSED**. English planning/setup is now **COMPLETE / PASS**. These earlier Tamil/Pass records remain historically closed and are not reopened.
 
-Current Part002 downstream state:
-- Tamil textual status — **30/30 verified**;
-- visual fidelity — **30/30 verified**;
-- unresolved status exceptions — **0**;
-- documentation synchronization — **PASS / COMPLETE**;
-- Tamil archival-ready — **PASS / CLOSED**;
-- assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**;
-- English — **NEXT / UNBLOCKED — planning/setup gate**.
+Current Part002 English state:
+- active plan — `translations/en/PART_002_TRANSLATION_PLAN.md`;
+- active glossary — `translations/en/PART_002_GLOSSARY.md`;
+- active progress tracker — `translations/en/PART_002_PROGRESS.md`;
+- English translated/source-checked files — **0/5**;
+- next batch — **E5 / section08 / scans31–34**.
 
-Perform the **Part002 English translation planning/setup gate**.
+Perform **Part002 English E5 — section08 / scans31–34** and complete `translations/en/E5_SOURCE_CHECK.md`.
 
-Do not draft translated prose in that planning gate or begin release/readiness, final Part002 closure, or Part003 transcription.
+Do not begin E6, release/readiness, final Part002 closure, or Part003 transcription until E5 closes.

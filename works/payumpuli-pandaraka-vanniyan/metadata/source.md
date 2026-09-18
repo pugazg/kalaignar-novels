@@ -148,7 +148,9 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - Part002 unresolved status exceptions — **0**
 - Part002 Tamil archival-ready — **PASS / CLOSED**
 - Part002 assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
-- Part002 English — **NEXT / UNBLOCKED — planning/setup gate**
+- Part002 English planning/setup — **COMPLETE / PASS**
+- Part002 English translated/source-checked — **0/5**
+- Part002 English next — **E5 / section08 / scans31–34**
 - Part003 source — **REGISTERED / NOT ACTIVE**
 - audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN**
 - terminal page function for complete 477-scan source — **not yet visually audited**
@@ -165,6 +167,6 @@ Durable rule:
 
 ## Exact next activity
 
-Perform the **Part002 English translation planning/setup gate**.
+Perform **Part002 English E5 — section08 / scans31–34**.
 
-Canonical Part002 `pages/` remain controlling Tamil authority; the PASSED Part002 `sections/` files are the normal continuous reading authority. Part003 remains inactive.
+Canonical Part002 `pages/` remain controlling Tamil authority; the PASSED assembled Part002 section08 is the normal continuous reading authority. Part003 remains inactive.

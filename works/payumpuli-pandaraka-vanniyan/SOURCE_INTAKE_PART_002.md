@@ -46,10 +46,12 @@ Part002:
 - unresolved status exceptions — **0**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
-- English — **NEXT / UNBLOCKED — planning/setup gate**
+- English planning/setup — **COMPLETE / PASS**
+- English translated/source-checked — **0/5**
+- English next — **E5 / section08 / scans31–34**
 
 ## Exact next activity
 
-Perform the **Part002 English translation planning/setup gate** from the PASSED assembled Tamil layer.
+Perform **Part002 English E5 — section08 / scans31–34** from the verified assembled Tamil layer and close its source-check before E6.
 
-Do not reopen source verification, draft English prose in the planning gate, or begin Part003 transcription.
+Do not reopen source verification or begin Part003 transcription.

@@ -51,7 +51,9 @@ For every `N→N+1` boundary:
 - Part002 unresolved status exceptions — **0**
 - Part002 Tamil archival-ready — **PASS / CLOSED**
 - Part002 assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
-- Part002 English — **NEXT / UNBLOCKED — planning/setup gate**
+- Part002 English planning/setup — **COMPLETE / PASS**
+- Part002 English translated/source-checked — **0/5**
+- Part002 English next — **E5 / section08 / scans31–34**
 - Part003 — **SUPPLIED / REGISTERED / NOT ACTIVE**
 - split-boundary classifications — **2 / 15 audited**
 
@@ -79,6 +81,6 @@ Durable record:
 Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
-- **Part002 English translation planning/setup**
+- **Part002 English E5 — section08 / scans31–34**
 
-Do not draft English prose in the planning gate. Keep final Part002 closure and Part003 transcription blocked.
+E5 draft + source-check must close before E6. Keep Part003 transcription blocked.

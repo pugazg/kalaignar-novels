@@ -1,24 +1,6 @@
-# Payumpuli Pandaraka Vanniyan — Part001 English Translation
+# Payumpuli Pandaraka Vanniyan — English Translation Workspace
 
-English translation workspace for Part001 of **பாயும்புலி பண்டாரக வன்னியன்**.
-
-## Final status
-
-**PART001 FINAL CLOSURE — PASS / CLOSED**
-
-- Tamil canonical authority — **30/30 verified**
-- assembled Tamil reading layer — **8/8 VERIFIED / PASS / CLOSED**
-- English translated/source-checked section files — **8/8**
-- E1–E4 — **SOURCE-CHECKED / COMPLETE**
-- whole-Part glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED — 8/8 reviewed**
-- whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs reviewed**
-- release/readiness report — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- final Part001 closure — **PASS / CLOSED**
-- unresolved English/glossary/editorial/bilingual/release-readiness holds — **0**
-- canonical Tamil changes caused by English/release synchronization — **0**
-- Part002 content imported into Part001 — **0**
+Project-created English translation workspace for **பாயும்புலி பண்டாரக வன்னியன்**.
 
 ## Authority
 
@@ -30,60 +12,93 @@ If English conflicts with canonical Tamil, Tamil governs.
 
 No published, web, remembered or standard English translation is used as authority.
 
-## Controls
+## Part001 — FINAL CLOSED / FROZEN
 
-- `TRANSLATION_PLAN.md` — workflow, fidelity and gate rules
-- `GLOSSARY.md` — source-derived English handling
-- `PROGRESS.md` — final English lifecycle state
-- `E1_SOURCE_CHECK.md` … `E4_SOURCE_CHECK.md` — source-check closure records
-- `GLOSSARY_RECONCILIATION.md` — whole-Part glossary closure record
-- `TRANSLATION_REVIEW.md` — editorial-review closure record
-- `BILINGUAL_REVIEW.md` — bilingual-review closure record
-- `RELEASE_REPORT.md` — release/readiness closure record
-- `../../PART_001_RELEASE_READY_SYNC.md` — release-ready synchronization closure record
-- `../../PART_001_FINAL_CLOSURE.md` — final Part001 closure record
+Part001 / scans1–30 is fully closed.
 
-## English section coverage
+- English section files — **8/8 source-checked**
+- glossary reconciliation — **PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final Part001 closure — **PASS / CLOSED**
+- unresolved English holds — **0**
 
-All **8** verified Part001 Tamil assembled files are represented in English and closed through final Part001 closure.
+Frozen Part001 controls remain:
+- `TRANSLATION_PLAN.md`
+- `GLOSSARY.md`
+- `PROGRESS.md`
+- `E1_SOURCE_CHECK.md` … `E4_SOURCE_CHECK.md`
+- `GLOSSARY_RECONCILIATION.md`
+- `TRANSLATION_REVIEW.md`
+- `BILINGUAL_REVIEW.md`
+- `RELEASE_REPORT.md`
 
-| Tamil file | English file | Scans | State |
-|---|---|---:|---|
-| `00-front-matter.md` | `sections/00-front-matter.md` | 1–5 | source-checked; editorial-reviewed; bilingual PASS |
-| `01-anindurai.md` | `sections/01-foreword.md` | 6–9 | source-checked; editorial-reviewed; bilingual PASS |
-| `02-pathippurai.md` | `sections/02-publishers-note.md` | 10 | source-checked; editorial-reviewed with source-safe edits; bilingual PASS |
-| `03-epigraph.md` | `sections/03-epigraph.md` | 11 | source-checked; editorial-reviewed; bilingual PASS |
-| `04-title-divider.md` | `sections/04-title-divider.md` | 12 | source-checked; editorial-reviewed; bilingual PASS |
-| `05-thorana-vayil.md` | `sections/05-thorana-vayil.md` | 13–20 | source-checked; editorial-reviewed with source-safe edits; bilingual PASS |
-| `06-oru-iragasiyak-kaditham.md` | `sections/06-a-secret-letter.md` | 21–27 | source-checked; editorial-reviewed with source-safe edits; bilingual PASS |
-| `07-vazhiyil-kanda-vayothigar.md` | `sections/07-the-old-man-met-on-the-way.md` | 28–30 | source-checked; editorial-reviewed; bilingual PASS |
+Frozen Part001 English section files are `sections/00-*.md` through `sections/07-*.md`.
 
-## Protected source variants
+## Part002 — ACTIVE ENGLISH WORKFLOW
 
-The maintained English protects, without normalization:
+Tamil prerequisites are closed:
 
-- **Pandara Vanniyan / Pandaraka Vanniyan**
-- **Kulasekara Vairamuthu / Kulasekaram Vairamuthu**
-- **Maruthan / Maruthu**
-- **Bharathan / Bharatha**
-- source honorific/name variants
-- **Karsilai Madu / Karsilaimadu**
-- **Payumpuli... / Payum Puli...**
+- canonical Part002 pages — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
+- assembled coverage — **scans31–60 exactly**
+- unresolved Tamil / visual / status exceptions — **0**
 
-## Permanent Part001 boundary
+English planning/setup is now **COMPLETE / PASS**.
 
-Part001 ends at scan30 / printed19 with the open Tamil fragment:
+Active Part002 English controls:
 
-`அவனுக்கு ஒரே மகிழ்ச்சி,`
+- `PART_002_TRANSLATION_PLAN.md`
+- `PART_002_GLOSSARY.md`
+- `PART_002_PROGRESS.md`
 
-English ends:
+## Planned Part002 English section coverage
 
-**“He was filled with joy,”**
+| Tamil file | Planned English file | Scans | Batch | State |
+|---|---|---:|---|---|
+| `../../sections/08-vazhiyil-kanda-vayothigar-part002.md` | `sections/08-the-old-man-met-on-the-way-part002.md` | 31–34 | E5 | **NEXT / NOT STARTED** |
+| `../../sections/09-kuruvichchi-naachchiyar.md` | `sections/09-kuruvichchi-naachchiyar.md` | 35–41 | E6 | BLOCKED |
+| `../../sections/10-naalu-kaal-mandapaththil.md` | `sections/10-naalu-kaal-mandapaththil.md` | 42–49 | E7 | BLOCKED |
+| `../../sections/11-kandiyin-vaarisup-potti.md` | `sections/11-the-succession-contest-in-kandy.md` | 50–56 | E8 | BLOCKED |
+| `../../sections/12-theevukkul-theeyavargal.md` | `sections/12-evildoers-on-the-island.md` | 57–60 | E9 | BLOCKED |
 
-The audited **30→31 = GENUINE CONTINUATION** finding is retained. Scan31 belongs to Part002 and was not imported, translated or inferred in Part001.
+At planning closure there are **0/5 Part002 English translated files** and **0/5 source-checked files**.
 
-## Lifecycle frontier
+## Part002 boundary safeguards
 
-Part001 English is **FINAL CLOSED / FROZEN** unless an explicit source-fidelity reopening is required.
+Incoming:
+- Part001 English ends **“He was filled with joy,”**
+- 30→31 = **GENUINE CONTINUATION**
+- Part002 E5 translates scan31 onward only
+- frozen Part001 English is not edited to smooth the cross-Part sentence
 
-The repository may now activate **Part002 / global scans31–60**. No Part002 English work begins until that Part completes its Tamil archival and assembled-Tamil gates.
+Outgoing:
+- scan60 ends a complete sentence
+- 60→61 = **CLEAN**
+- scan61 / Part003 is not imported or translated
+
+## Part002 batch discipline
+
+E5 → E6 → E7 → E8 → E9.
+
+Each batch must close **draft + source-check** before the next begins.
+
+After E9:
+- `PART_002_GLOSSARY_RECONCILIATION.md`
+- `PART_002_TRANSLATION_REVIEW.md`
+- `PART_002_BILINGUAL_REVIEW.md`
+- `PART_002_RELEASE_REPORT.md`
+- Part002 release-ready synchronization
+- Part002 final closure
+
+Part003 remains blocked until Part002 final closure.
+
+## Exact next activity
+
+**English Draft Batch E5 — section 08 / scans31–34.**
+
+Do not begin E6 until the E5 draft and `E5_SOURCE_CHECK.md` close.

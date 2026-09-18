@@ -455,7 +455,9 @@ The Part002 documentation/control layer is reconciled to the closed final-status
 - documentation synchronization — **PASS / COMPLETE**;
 - Tamil archival-ready — **PASS / CLOSED**;
 - assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**;
-- English — **NEXT / UNBLOCKED — planning/setup gate**;
+- English planning/setup — **COMPLETE / PASS**;
+- English translated/source-checked — **0/5**;
+- English next — **E5 / section08 / scans31–34**;
 - Part003 — **REGISTERED / NOT ACTIVE**.
 
 Historical gate sections remain valid as records of the state when those gates closed.
@@ -495,8 +497,22 @@ The Part002 derived Tamil reading layer is now closed:
 - 60→61 — **CLEAN / retained as provenance only**;
 - durable validation — `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`.
 
+## Part002 English planning/setup — COMPLETE / PASS
+
+Part002 English planning/setup created a separate active control layer without rewriting frozen Part001 English controls:
+
+- active plan — `translations/en/PART_002_TRANSLATION_PLAN.md`;
+- active glossary — `translations/en/PART_002_GLOSSARY.md`;
+- active progress tracker — `translations/en/PART_002_PROGRESS.md`;
+- English workspace README updated for Part001 frozen + Part002 active state;
+- Part002 English prose files created — **0/5**;
+- frozen Part001 English section files changed — **0**;
+- canonical Tamil page changes — **0**;
+- assembled Tamil body changes — **0**;
+- Part003 leakage — **0**.
+
 ## Exact next activity
 
-Perform the **Part002 English translation planning/setup gate**.
+Perform **Part002 English E5 — section08 / scans31–34** and complete its source-check before E6.
 
-Do not draft English prose in the planning gate or begin release/readiness, final Part002 closure, or Part003 transcription.
+Do not begin release/readiness, final Part002 closure, or Part003 transcription.

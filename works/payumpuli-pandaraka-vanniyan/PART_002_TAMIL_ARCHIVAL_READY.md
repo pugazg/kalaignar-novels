@@ -204,3 +204,20 @@ The forward instruction above to begin assembled Tamil is therefore superseded o
 Current next gate:
 
 **Part002 English translation planning/setup.**
+
+## Post-assembly English planning/setup state
+
+Part002 Tamil remains **ARCHIVAL-READY / CLOSED**.
+
+English planning/setup has now completed without reopening or changing canonical Tamil:
+
+- Part002 English planning/setup — **COMPLETE / PASS**;
+- Part002 English translated/source-checked files — **0/5**;
+- canonical Tamil changes caused by planning — **0**;
+- assembled Tamil changes caused by planning — **0**;
+- frozen Part001 English body changes — **0**;
+- Part003 leakage — **0**.
+
+Current next gate:
+
+**English E5 — section08 / scans31–34.**
