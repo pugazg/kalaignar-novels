@@ -50,7 +50,8 @@ At Pass-3 closure pages deliberately remained `needs-review` / `needs-review`. T
 - unresolved status exceptions — **0**
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **NEXT GATE / NOT YET STARTED**
+- assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
+- English planning/setup — **NEXT GATE / NOT YET STARTED**
 
 ## Batch 1 — scans61–70
 
@@ -127,6 +128,6 @@ No blocker remains for the Part-audit gate.
 
 ## Exact next activity
 
-Perform **Part003 assembled Tamil construction + audit**.
+Perform **Part003 English translation planning/setup**.
 
-Use only verified Part003 canonical page source-transcription blocks. Do not begin Part004 transcription in the same iteration.
+Do not draft English prose in the setup gate. Do not modify verified canonical or assembled Tamil, and do not begin Part004 transcription.

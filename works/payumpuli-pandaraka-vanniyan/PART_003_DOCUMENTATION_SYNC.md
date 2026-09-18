@@ -145,3 +145,22 @@ Part003 subsequently completed the Tamil archival-ready checkpoint:
 Current next gate:
 
 **Part003 assembled Tamil construction + audit.**
+
+
+## Post-documentation assembled Tamil state
+
+This documentation synchronization gate remains historically closed.
+
+Part003 subsequently completed:
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
+- canonical Part003 page mutations caused by assembly — **0**
+- frozen Part001/Part002 assembled-file mutations — **0**
+- Part004 text leakage — **0**
+
+Durable assembled validation:
+- `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current next gate:
+
+**Part003 English translation planning/setup.**

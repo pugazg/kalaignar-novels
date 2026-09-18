@@ -73,7 +73,7 @@ Durable Part002 records:
 - `PART_002_RELEASE_READY_SYNC.md`
 - `translations/en/PART_002_PROGRESS.md`
 
-## Part003 — ACTIVE / TAMIL ARCHIVAL-READY CLOSED
+## Part003 — ACTIVE / ASSEMBLED TAMIL CLOSED
 
 Controlling source:
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
@@ -92,7 +92,8 @@ Current verified Tamil state:
 - visual fidelity — **30/30 verified; 0 needs-review**
 - unresolved Tamil / historical-glyph / visual-status exceptions — **0**
 - Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **NEXT GATE / NOT YET STARTED**
+- assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
+- English planning/setup — **NEXT GATE / NOT YET STARTED**
 - incoming 60→61 — **CLEAN / AUDITED**
 - outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
 
@@ -117,9 +118,10 @@ Durable Part003 records:
 - `PART_003_FINAL_STATUS_SYNC.md`
 - `PART_003_DOCUMENTATION_SYNC.md`
 - `PART_003_TAMIL_ARCHIVAL_READY.md`
+- `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Exact next activity
 
-Perform **Part003 assembled Tamil construction + audit**.
+Perform **Part003 English translation planning/setup**.
 
-Build only from verified Part003 canonical page records and keep frozen Part001/Part002 assembled files unchanged. Do not begin English work or Part004 transcription until assembled Tamil closes.
+Do not draft English prose in the setup gate. Keep verified canonical Tamil and the 5/5 assembled Tamil section files unchanged.

@@ -148,7 +148,8 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - Part003 visual fidelity — **30/30 verified; 0 needs-review**
 - Part003 unresolved status exceptions — **0**
 - Part003 Tamil archival-ready — **PASS / CLOSED**
-- Part003 assembled Tamil — **NEXT GATE / NOT YET STARTED**
+- Part003 assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
+- Part003 English planning/setup — **NEXT GATE / NOT YET STARTED**
 - Part004 transcription — **BLOCKED**
 - audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION**
 - terminal page function for complete 477-scan source — **not yet visually audited**
@@ -175,6 +176,6 @@ Durable rule:
 
 ## Exact next activity
 
-Perform **Part003 assembled Tamil construction + audit** from verified canonical Part003 records.
+Perform **Part003 English translation planning/setup** from the closed 5/5 assembled Tamil reading layer.
 
-Do not reopen the source PDF for normal assembly and do not begin Part004 transcription until the complete Part003 maintained workflow closes.
+Do not reopen the source PDF or begin Part004 transcription in the setup gate.

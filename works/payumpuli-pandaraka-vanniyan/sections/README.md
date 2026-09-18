@@ -45,6 +45,24 @@ Part001 section files `00-*.md` through `07-*.md` are frozen.
 | 10 | 002 | `10-naalu-kaal-mandapaththil.md` | 42–49 | `நாலு கால் மண்டபத்தில்!` | **VERIFIED** |
 | 11 | 002 | `11-kandiyin-vaarisup-potti.md` | 50–56 | `கண்டியின் வாரிசுப் போட்டி!` | **VERIFIED** |
 | 12 | 002 | `12-theevukkul-theeyavargal.md` | 57–60 | `தீவுக்குள் தீயவர்கள்!` | **VERIFIED** |
+| 13 | 003 | `13-theevukkul-theeyavargal-part003.md` | 61–64 | chapter 7 continuation `தீவுக்குள் தீயவர்கள்!` | **VERIFIED** |
+| 14 | 003 | `14-kaakkai-vanniyan.md` | 65–72 | `காக்கை வன்னியன்!` | **VERIFIED** |
+| 15 | 003 | `15-muthu-maaligai.md` | 73–79 | `முத்து மாளிகை!` | **VERIFIED** |
+| 16 | 003 | `16-silandhi-valaiyo-siriya-poochchiyo.md` | 80–87 | `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | **VERIFIED** |
+| 17 | 003 | `17-adhikaari-vazhangiya-aalosanai.md` | 88–90 | `அதிகாரி வழங்கிய ஆலோசனை` | **VERIFIED** |
+
+### Part003 — PASS / CLOSED
+
+- physical coverage — **scans61–90**
+- canonical pages represented — **30/30**
+- assembled files — **5/5 VERIFIED**
+- omitted / duplicated canonical pages — **0 / 0**
+- unsupported body insertion — **0**
+- audit-note leakage — **0**
+- Part004 text leakage — **0**
+- canonical Part003 page mutations caused by assembly — **0**
+- frozen Part001/Part002 assembled-file mutations — **0**
+- validation — `../PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Assembly rules
 
@@ -59,10 +77,14 @@ Part001 section files `00-*.md` through `07-*.md` are frozen.
 ## Part002 boundary safeguards
 
 - incoming **30→31 — GENUINE CONTINUATION / AUDITED**;
-- Part001 terminal body text remains only in frozen Part001 section 07;
-- Part002 scan31 begins from its own verified canonical source-transcription block;
-- outgoing **60→61 — CLEAN / AUDITED**;
-- scan61 / Part003 text is not imported.
+- outgoing **60→61 — CLEAN / AUDITED**.
+
+## Part003 boundary safeguards
+
+- incoming **60→61 — CLEAN / AUDITED**;
+- no frozen Part002 body text is imported into Part003 section 13;
+- outgoing **90→91 — GENUINE CONTINUATION / AUDITED**;
+- scan90 remains terminal at `என்னைப்`; scan91 / Part004 body text is not imported.
 
 ## Part002 special structural cases
 
@@ -70,27 +92,28 @@ Part001 section files `00-*.md` through `07-*.md` are frozen.
 - scan49's large blank lower field remains visual structure and creates no invented text;
 - scan59 remains one physical illustrated spread containing printed pages **48–49**; both verified textual panels and their printed-page order are retained, while the illustration remains visual/non-body matter.
 
+## Part003 special structural cases
+
+- scans64, 72, 79 and 87 retain no invented content for their intentional blank lower fields;
+- scan71 copy-specific library stamp / handwriting remains excluded as non-body provenance;
+- chapter-opening number/title material already present in verified canonical source-transcription blocks is retained;
+- no Part003 literary illustration, photograph or caption requires separate readable-layer prose.
+
 ## Downstream state
 
-Part001 remains **FINAL CLOSED / FROZEN**.
+Part001 — **FINAL CLOSED / FROZEN**.
 
-Part002:
+Part002 — **FINAL CLOSED / FROZEN**; assembled Tamil remains **PASS / CLOSED — 5/5 VERIFIED**.
+
+Part003:
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
-- English planning/setup — **COMPLETE / PASS**
-- English translated/source-checked files — **5/5**
-- E5–E9 — **SOURCE-CHECKED / COMPLETE**
-- English glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED**
-- English bilingual review — **PASS / CLOSED**
-- bilingual English-only corrections — **3**
-- release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- final Part002 closure — **PASS / CLOSED / FROZEN**
-- Part003 — **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**
+- canonical scans represented — **30/30**
+- English planning/setup — **NEXT GATE / NOT YET STARTED**
+- Part004 — **BLOCKED**
 
 ## Exact next activity
 
-The Part002 assembled Tamil layer is frozen under **PART002 FINAL CLOSURE — PASS / CLOSED**.
+Begin **Part003 English translation planning/setup** following the Part002 precedent.
 
-Proceed with **Part003 Pass 1 — global scans61–70 / local pages1–10**. Do not modify these verified Part002 section bodies.
+Do not modify verified canonical Tamil or assembled Tamil body text, and do not begin Part004 transcription.

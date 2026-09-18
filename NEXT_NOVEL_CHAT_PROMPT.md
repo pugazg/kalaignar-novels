@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part003 Assembled Tamil
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part003 English Planning
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -7,61 +7,68 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 1. `HANDOVER.md`
 2. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
 3. `works/payumpuli-pandaraka-vanniyan/PART_003_TAMIL_ARCHIVAL_READY.md`
-4. `works/payumpuli-pandaraka-vanniyan/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
-5. `works/payumpuli-pandaraka-vanniyan/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
-6. `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
-7. existing `works/payumpuli-pandaraka-vanniyan/sections/` files and `sections/README.md`
+4. `works/payumpuli-pandaraka-vanniyan/PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+5. `works/payumpuli-pandaraka-vanniyan/sections/README.md`
+6. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_TRANSLATION_PLAN.md`
+7. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_GLOSSARY.md`
+8. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
+9. `works/payumpuli-pandaraka-vanniyan/translations/en/README.md`
 
-## Frozen / closed authority
+## Frozen authority
 
 Part001 — **FINAL CLOSED / FROZEN**.  
 Part002 — **FINAL CLOSED / FROZEN**.
 
-Part003 canonical Tamil:
-- scans **61–90**
-- canonical records — **30/30**
-- textual status — **30/30 verified**
+Do not modify their canonical Tamil, assembled Tamil or maintained English body files.
+
+## Part003 Tamil state
+
+- scans — **61–90**
+- canonical records — **30/30 verified**
 - visual fidelity — **30/30 verified**
 - Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
+- unresolved Tamil / glyph / visual / status exceptions — **0**
 - incoming **60→61 CLEAN / AUDITED**
 - outgoing **90→91 GENUINE CONTINUATION / AUDITED**
-- Part004 canonical records — **0**
+- Part004 content leakage — **0**
 
-Do not reopen the source PDF or modify canonical `pages/` merely for assembly.
+Part003 assembled Tamil inputs:
+
+1. `sections/13-theevukkul-theeyavargal-part003.md` — scans61–64;
+2. `sections/14-kaakkai-vanniyan.md` — scans65–72;
+3. `sections/15-muthu-maaligai.md` — scans73–79;
+4. `sections/16-silandhi-valaiyo-siriya-poochchiyo.md` — scans80–87;
+5. `sections/17-adhikaari-vazhangiya-aalosanai.md` — scans88–90.
 
 ## Exact activity
 
-Perform **Part003 assembled Tamil construction + audit** in one maintained gate, following the Part001/Part002 methodology.
+Perform **Part003 English translation planning/setup only**, following the Part002 methodology.
 
-Construct new readable section files from the verified Part003 canonical `## Source transcription` blocks only.
+Create the active Part003 English control layer:
 
-Expected Part003 section sequence:
+- `translations/en/PART_003_TRANSLATION_PLAN.md`
+- `translations/en/PART_003_GLOSSARY.md`
+- `translations/en/PART_003_PROGRESS.md`
+- update `translations/en/README.md`
 
-1. chapter 7 continuation `தீவுக்குள் தீயவர்கள்!` — scans61–64;
-2. `காக்கை வன்னியன்!` — scans65–72;
-3. `முத்து மாளிகை!` — scans73–79;
-4. `சிலந்தி வலையோ? சிறிய பூச்சியோ?` — scans80–87;
-5. `அதிகாரி வழங்கிய ஆலோசனை` — scans88–90.
+Planning requirements:
 
-Continue section numbering after frozen Part002 files, expected as `13-...` through `17-...`.
-
-### Mandatory assembly rules
-
-- canonical `pages/` are textual authority;
-- preserve exact source spelling, punctuation and paragraph/dialogue order;
-- join only physical fragments already supported by closed boundary/join evidence;
-- keep non-rendering provenance notes where useful;
-- exclude review/audit notes and matter already classified non-body;
-- do not import Part002 body text across the incoming CLEAN boundary;
-- do not import scan91 / Part004 body text to complete scan90's open quotation;
-- keep all Part001/Part002 assembled files byte-unchanged;
-- compare every new assembled body exactly against its canonical Part003 page source-transcription blocks;
-- verify omissions **0**, duplicates **0**, unsupported body insertion **0**, audit-note leakage **0**, Part004 leakage **0**;
-- create `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`;
-- synchronize `sections/README.md` and live controls only after the assembled audit passes.
+- canonical Part003 `pages/` remain controlling authority;
+- closed Part003 assembled Tamil is the normal continuous reading authority;
+- inherit established Part001/Part002 English forms where the same Tamil source form recurs;
+- preserve deliberate Tamil source variants by occurrence;
+- do not add outside historical, political, geographic, caste/community or literary explanation;
+- continue English batch numbering after Part002 E9, so Part003 planning should use **E10–E14** for the five assembled sections;
+- preserve incoming **60→61 CLEAN** without importing Part002 English;
+- preserve outgoing **90→91 GENUINE CONTINUATION**: scan90 ends at `என்னைப்`; do not import or translate scan91 merely to complete the quotation;
+- plan one English section file per Part003 assembled Tamil section;
+- define per-batch draft + source-check gates and downstream glossary/editorial/bilingual/release workflow;
+- English remains derived and cannot authorize silent Tamil correction.
 
 ## Stop rule
 
-Stop after **Part003 assembled Tamil — PASS / CLOSED**.
+Stop after **Part003 English planning/setup — COMPLETE / PASS**.
 
-Do not begin English translation planning/drafting or Part004 transcription in the same iteration.
+Do **not** draft E10 English prose in the same iteration.  
+Do **not** begin Part004 transcription.

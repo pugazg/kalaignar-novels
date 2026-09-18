@@ -123,3 +123,34 @@ Part002 English is now frozen under final closure.
 Proceed with **Part003 Pass 1 — global scans61–70 / local pages1–10** in the Tamil archival workflow.
 
 Do not begin Part003 English planning until Part003 reaches its Tamil/assembled-Tamil English-entry gate.
+
+
+## Part003 — ENGLISH PLANNING NEXT
+
+Part003 Tamil prerequisites are now closed:
+
+- canonical scans — **61–90**
+- canonical Tamil records — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
+- assembled coverage — **scans61–90 exactly**
+- unresolved Tamil / glyph / visual / status exceptions — **0**
+- incoming boundary — **60→61 CLEAN / AUDITED**
+- outgoing boundary — **90→91 GENUINE CONTINUATION / AUDITED**
+- Part004 Tamil/English content imported — **0**
+
+Part003 English planning/setup has **NOT STARTED**.
+
+Expected Tamil assembled inputs:
+- `../../sections/13-theevukkul-theeyavargal-part003.md` — scans61–64
+- `../../sections/14-kaakkai-vanniyan.md` — scans65–72
+- `../../sections/15-muthu-maaligai.md` — scans73–79
+- `../../sections/16-silandhi-valaiyo-siriya-poochchiyo.md` — scans80–87
+- `../../sections/17-adhikaari-vazhangiya-aalosanai.md` — scans88–90
+
+## Current exact next activity
+
+Create the **Part003 English translation planning/setup** controls following the Part002 precedent.
+
+Do not draft English prose in the planning/setup gate. Do not modify frozen Part001/Part002 English body files, verified Part003 canonical Tamil, or closed Part003 assembled Tamil.
