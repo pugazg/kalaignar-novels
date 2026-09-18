@@ -51,10 +51,11 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part002 Pass 2A: COMPLETE / PASS — 30/30 REVIEWED**
 - **Part002 Pass 2B: COMPLETE / PASS — 30/30 REVIEWED**
 - **Part002 Pass 3: COMPLETE / PASS — 30/30 REVIEWED**
+- **Part002 Part audit: PASS / COMPLETE**
 - **Part003: REGISTERED / NOT ACTIVE**
 
 ## Exact next gate
 
-Perform **Part002 Part audit** across scans31–60 using the closed Pass1 / Pass2A / Pass2B / Pass3 evidence.
+Perform **Part002 final metadata/status synchronization** across scans31–60 from the closed Part-audit evidence.
 
 Do not begin Part003 transcription.

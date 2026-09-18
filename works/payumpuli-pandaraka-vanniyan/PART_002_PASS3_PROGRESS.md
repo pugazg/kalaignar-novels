@@ -37,7 +37,7 @@ Pages remain `needs-review` until whole-Part Pass 3, Part audit and final metada
 - Batch 3 scans51–60 — **0 textual corrections; 0 unresolved visual/structural questions**
 - cumulative Pass 3 textual corrections — **0**
 - cumulative unresolved visual/structural questions — **0**
-- Part audit: **NOT STARTED**
+- Part audit: **PASS / COMPLETE**
 
 ## Batch 1 — scans31–40
 
@@ -136,6 +136,8 @@ until the repository-level Part audit and final metadata/status synchronization 
 
 ## Exact next activity
 
-Perform **Part002 Part audit** across scans31–60 using the closed source-intake, Pass1, Pass2A, Pass2B, Pass3, correction-ledger and boundary evidence. Create `PART_002_AUDIT.md` following the established `PART_001_AUDIT.md` structure.
+The repository-level Part audit is now **PASS / COMPLETE** in `PART_002_AUDIT.md`.
 
-Stop after the Part-audit gate. Do not begin final metadata/status synchronization or Part003 transcription without another explicit continuation.
+Perform **Part002 final metadata/status synchronization** across scans31–60 from that closed audit evidence.
+
+Do not begin documentation synchronization or Part003 transcription in the same iteration.

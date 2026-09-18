@@ -23,6 +23,7 @@ Part001 remains **FINAL CLOSURE — PASS / CLOSED / FROZEN**.
 - Pass 2A: **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 2B: **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 3: **COMPLETE / PASS — 30/30 REVIEWED**
+- Part audit: **PASS / COMPLETE**
 - assembled Tamil / English: **NOT STARTED**
 
 All Pass-1 records remain non-final:
@@ -62,11 +63,12 @@ All Part002 Pass-1 transcription was made from the user-supplied rendered source
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part audit — **PASS / COMPLETE**
 - Pass 2A tracker — `PART_002_PASS2A_PROGRESS.md`
 - Pass 2B tracker — `PART_002_PASS2B_PROGRESS.md`
 
 ## Exact next activity
 
-Continue with the **Part002 Part audit** across scans31–60.
+Continue with **Part002 final metadata/status synchronization** across scans31–60.
 
 Do not begin Part003 transcription.

@@ -42,6 +42,7 @@
 - Pass 3 Batch 2 scans41–50 — **COMPLETE / REVIEWED / PASS — 0 textual corrections; 0 unresolved visual/structural questions**
 - Pass 3 Batch 3 scans51–60 — **COMPLETE / REVIEWED / PASS — 0 textual corrections; 0 unresolved visual/structural questions**
 - Pass 3 cumulative — **0 textual corrections; 0 unresolved visual/structural questions**
+- Part audit — **PASS / COMPLETE**
 - assembled Tamil / English — **NOT STARTED**
 - 60→61 — **CLEAN / AUDITED**
 
@@ -65,11 +66,9 @@ Durable record:
 
 ## Exact next activity
 
-Perform **Part002 Part audit** across scans31–60.
+Perform **Part002 final metadata/status synchronization** across scans31–60.
 
-Tracker:
-`works/payumpuli-pandaraka-vanniyan/PART_002_PASS3_PROGRESS.md`
+Audit record:
+`works/payumpuli-pandaraka-vanniyan/PART_002_AUDIT.md`
 
-Create `works/payumpuli-pandaraka-vanniyan/PART_002_AUDIT.md` following the established Part001 audit structure.
-
-**Stop after the Part-audit gate. Do not begin final metadata/status synchronization or Part003 transcription in the same iteration.**
+**Perform only the metadata/status synchronization gate next. Do not begin documentation synchronization, Tamil archival-ready work, assembled Tamil / English work, or Part003 transcription in the same iteration.**

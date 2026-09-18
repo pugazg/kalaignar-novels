@@ -38,8 +38,9 @@ Part002:
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part audit — **PASS / COMPLETE**
 - assembled Tamil / English — **NOT STARTED**
 
 ## Exact next activity
 
-Perform the **Part002 Part audit** across scans31–60 using the closed verification evidence.
+Perform **Part002 final metadata/status synchronization** across scans31–60 from the closed Part-audit evidence.
