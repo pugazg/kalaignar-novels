@@ -1,6 +1,6 @@
 # Part 002 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING / SETUP — COMPLETE / PASS — DRAFTING NOT STARTED**
+Status: **ACTIVE — E5 SOURCE-CHECKED / COMPLETE — E6 NEXT**
 
 This is the control plan for the project-created English translation of **Part002 only**.
 
@@ -186,8 +186,8 @@ Continue English batch numbering after frozen Part001 E1–E4.
 
 | Batch | Tamil assembled coverage | Scans | English state |
 |---|---|---:|---|
-| **E5** | section 08 — chapter 3 continuation `வழியில் கண்ட வயோதிகர்!` | **31–34** | **NEXT / NOT STARTED** |
-| **E6** | section 09 — `குருவிச்சி நாச்சியார்` | **35–41** | BLOCKED |
+| **E5** | section 08 — chapter 3 continuation `வழியில் கண்ட வயோதிகர்!` | **31–34** | **SOURCE-CHECKED / COMPLETE** |
+| **E6** | section 09 — `குருவிச்சி நாச்சியார்` | **35–41** | **NEXT / NOT STARTED** |
 | **E7** | section 10 — `நாலு கால் மண்டபத்தில்!` | **42–49** | BLOCKED |
 | **E8** | section 11 — `கண்டியின் வாரிசுப் போட்டி!` | **50–56** | BLOCKED |
 | **E9** | section 12 — `தீவுக்குள் தீயவர்கள்!` | **57–60** | BLOCKED |
@@ -243,6 +243,6 @@ A genuine Tamil-fidelity issue discovered during English work must be recorded a
 
 ## Exact next activity
 
-**English Draft Batch E5 — section 08 / scans31–34.**
+**English Draft Batch E6 — section 09 / scans35–41.**
 
-Create only the planned Part002 English section 08 and complete its E5 source-check before beginning E6.
+Create only the planned Part002 English section 09 and complete its E6 source-check before beginning E7.

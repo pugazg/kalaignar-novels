@@ -78,14 +78,15 @@ Part002:
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
 - English planning/setup — **COMPLETE / PASS**
-- English translated/source-checked files — **0/5**
-- English next — **E5 / section08 / scans31–34**
+- English translated/source-checked files — **1/5**
+- E5 — **SOURCE-CHECKED / COMPLETE**
+- English next — **E6 / section09 / scans35–41**
 - release/readiness — **BLOCKED**
 - final Part002 closure — **BLOCKED**
 - Part003 transcription — **BLOCKED / NOT ACTIVE**
 
 ## Exact next activity
 
-Use the PASSED Part002 assembled section 08 as the normal reading authority for **English E5 / scans31–34**, with canonical `../pages/` controlling any discrepancy.
+Use the PASSED Part002 assembled section 09 as the normal reading authority for **English E6 / scans35–41**, with canonical `../pages/` controlling any discrepancy.
 
 Do not alter this verified Tamil reading layer merely to smooth English.

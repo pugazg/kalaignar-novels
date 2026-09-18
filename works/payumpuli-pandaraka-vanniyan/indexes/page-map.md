@@ -522,8 +522,9 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part002 Tamil archival-ready — **PASS / CLOSED**
 - Part002 assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
 - Part002 English planning/setup — **COMPLETE / PASS**
-- Part002 English translated/source-checked — **0/5**
-- Part002 English next — **E5 / section08 / scans31–34**
+- Part002 English translated/source-checked — **1/5**
+- Part002 E5 — **SOURCE-CHECKED / COMPLETE**
+- Part002 English next — **E6 / section09 / scans35–41**
 - audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN**
 - Part003 — **REGISTERED / NOT ACTIVE**
 
@@ -531,6 +532,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Perform **Part002 English E5 — section08 / scans31–34**. The canonical page map remains source-provenance authority and must not be altered merely to smooth English.
+Perform **Part002 English E6 — section09 / scans35–41**. The canonical page map remains source-provenance authority and must not be altered merely to smooth English.
 
 Part003 remains inactive.

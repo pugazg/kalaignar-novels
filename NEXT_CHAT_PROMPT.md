@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part002 English E5 — section08 scans31–34
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part002 English E6 — section09 scans35–41
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,13 +8,13 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 2. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
 3. `works/payumpuli-pandaraka-vanniyan/PART_002_TAMIL_ARCHIVAL_READY.md`
 4. `works/payumpuli-pandaraka-vanniyan/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
-5. `works/payumpuli-pandaraka-vanniyan/sections/08-vazhiyil-kanda-vayothigar-part002.md`
+5. `works/payumpuli-pandaraka-vanniyan/sections/09-kuruvichchi-naachchiyar.md`
 6. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_TRANSLATION_PLAN.md`
 7. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_GLOSSARY.md`
 8. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
-9. Part001 English precedent as needed:
-   - `works/payumpuli-pandaraka-vanniyan/translations/en/sections/07-the-old-man-met-on-the-way.md`
-   - `works/payumpuli-pandaraka-vanniyan/translations/en/E4_SOURCE_CHECK.md`
+9. `works/payumpuli-pandaraka-vanniyan/translations/en/E5_SOURCE_CHECK.md`
+10. prior maintained Part002 English file:
+    - `works/payumpuli-pandaraka-vanniyan/translations/en/sections/08-the-old-man-met-on-the-way-part002.md`
 
 ## Frozen authority
 
@@ -27,63 +27,63 @@ Canonical Part002 `pages/` remain controlling Tamil authority. The PASSED Part00
 ## Current Part002 English state
 
 - planning/setup — **COMPLETE / PASS**
-- English translated files — **0/5**
-- English source-checked files — **0/5**
-- E5 — **NEXT / NOT STARTED**
-- E6–E9 — **BLOCKED**
+- E5 / section08 / scans31–34 — **SOURCE-CHECKED / COMPLETE**
+- English translated files — **1/5**
+- English source-checked files — **1/5**
+- unresolved E5 holds — **0**
+- E6 — **NEXT / NOT STARTED**
+- E7–E9 — **BLOCKED**
 - Part003 — **NOT ACTIVE**
 
 ## Exact activity
 
-Perform **English Draft Batch E5 — section08 / scans31–34**, then complete its source-check.
+Perform **English Draft Batch E6 — section09 / scans35–41**, then complete its source-check.
 
 Tamil source:
-`works/payumpuli-pandaraka-vanniyan/sections/08-vazhiyil-kanda-vayothigar-part002.md`
+`works/payumpuli-pandaraka-vanniyan/sections/09-kuruvichchi-naachchiyar.md`
 
-Create the planned English section:
-`works/payumpuli-pandaraka-vanniyan/translations/en/sections/08-the-old-man-met-on-the-way-part002.md`
+Create:
+`works/payumpuli-pandaraka-vanniyan/translations/en/sections/09-kuruvichchi-naachchiyar.md`
 
 Then create:
-`works/payumpuli-pandaraka-vanniyan/translations/en/E5_SOURCE_CHECK.md`
+`works/payumpuli-pandaraka-vanniyan/translations/en/E6_SOURCE_CHECK.md`
 
-## Mandatory E5 safeguards
+## Mandatory E6 safeguards
 
-- translate from the verified project Tamil only;
-- preserve source meaning, agency, dialogue order, rhetoric and paragraph structure;
-- preserve source-facing names/places using `PART_002_GLOSSARY.md`;
-- incoming **30→31 = GENUINE CONTINUATION**:
-  - frozen Part001 English ends **“He was filled with joy,”**;
-  - E5 begins with **scan31 only**;
-  - do not copy scan30 Tamil/English into the new Part002 file;
-  - do not rewrite frozen Part001 English to smooth the continuation;
-  - retain a non-rendering provenance marker;
-- preserve the verified scan32→33 physical split-word provenance around `சுந்தரலிங்கத்தைப்`;
-- do not add external historical, political, geographic, social/caste or religious explanation;
+- translate from verified project Tamil only;
+- preserve chapter 4 title `குருவிச்சி நாச்சியார்` under the active glossary handling **Kuruvichchi Naachchiyar**;
+- preserve source meaning, narrator/character agency, dialogue order, rhetoric and paragraph structure;
+- preserve scan35→41 provenance comments where useful for reversibility;
+- preserve the visually distinct two-line display on scan36 and the two-line song/verse on scan37 where meaningful;
+- use established Part002 glossary forms for Vattrappaalai / Vattrappalai exactly by source occurrence;
+- do not normalize deliberate source variants;
+- do not add external historical, political, geographic, botanical, religious, cultural or social/caste explanation;
 - do not silently fix canonical Tamil;
 - unresolved English ambiguity must become an explicit hold rather than a guess;
+- frozen Part001 English body changes must remain **0**;
 - Part003 content leakage must remain **0**.
 
-## E5 source-check gate
+## E6 source-check gate
 
-Before closing E5 verify:
+Before closing E6 verify:
 
-1. scans31–34 coverage exactly once;
+1. scans35–41 coverage exactly once;
 2. no omitted/duplicated Tamil block;
-3. source meaning / agency / knowledge-state alignment;
+3. source meaning / agency / chronology / knowledge-state alignment;
 4. dialogue and paragraph structure;
-5. names, places and titles against active Part002 glossary;
-6. incoming 30→31 provenance;
-7. scan32→33 join provenance;
+5. displayed quotation/song structure;
+6. names, places and titles against `PART_002_GLOSSARY.md`;
+7. source variants preserved;
 8. unsupported explanatory insertion — **0**;
-9. canonical Tamil changes caused by E5 — **0**;
+9. canonical Tamil changes caused by E6 — **0**;
 10. frozen Part001 English body changes — **0**;
 11. Part003 leakage — **0**;
-12. unresolved E5 holds — **0** before E5 is declared SOURCE-CHECKED / COMPLETE.
+12. unresolved E6 holds — **0** before E6 is declared SOURCE-CHECKED / COMPLETE.
 
-Update Part002 English progress and live frontier controls after E5 closes.
+Update Part002 English progress, glossary notes if needed, and live frontier controls after E6 closes.
 
 ## Stop rule
 
-Stop after **E5 draft + source-check**.
+Stop after **E6 draft + source-check**.
 
-Do **not** begin E6 in the same iteration.
+Do **not** begin E7 in the same iteration.

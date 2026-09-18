@@ -32,8 +32,9 @@ Current closed Tamil verification state:
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
 - English planning/setup — **COMPLETE / PASS**
-- Part002 English translated/source-checked files — **0/5**
-- English next — **E5 / section08 / scans31–34**
+- Part002 English translated/source-checked files — **1/5**
+- E5 — **SOURCE-CHECKED / COMPLETE**
+- English next — **E6 / section09 / scans35–41**
 - incoming 30→31 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 60→61 — **CLEAN / AUDITED**
 
@@ -67,6 +68,6 @@ Part003 / scans61–90 is **SUPPLIED / REGISTERED / NOT ACTIVE**. Scan61 was use
 
 ## Exact next activity
 
-Perform **Part002 English Draft Batch E5 — section 08 / scans31–34** and close its source-check before E6.
+Perform **Part002 English Draft Batch E6 — section09 / scans35–41** and close its source-check before E7.
 
 Do not alter frozen Part001 English, reopen Tamil without a genuine fidelity issue, or begin Part003 transcription.

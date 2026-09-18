@@ -166,9 +166,10 @@ Current Part002 English state:
 - active plan — `translations/en/PART_002_TRANSLATION_PLAN.md`;
 - active glossary — `translations/en/PART_002_GLOSSARY.md`;
 - active progress tracker — `translations/en/PART_002_PROGRESS.md`;
-- English translated/source-checked files — **0/5**;
-- next batch — **E5 / section08 / scans31–34**.
+- English translated/source-checked files — **1/5**;
+- E5 — **SOURCE-CHECKED / COMPLETE**;
+- next batch — **E6 / section09 / scans35–41**.
 
-Perform **Part002 English E5 — section08 / scans31–34** and complete `translations/en/E5_SOURCE_CHECK.md`.
+Perform **Part002 English E6 — section09 / scans35–41** and complete `translations/en/E6_SOURCE_CHECK.md`.
 
-Do not begin E6, release/readiness, final Part002 closure, or Part003 transcription until E5 closes.
+Do not begin E7, release/readiness, final Part002 closure, or Part003 transcription until E6 closes.

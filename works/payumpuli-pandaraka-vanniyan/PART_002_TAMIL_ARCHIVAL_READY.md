@@ -212,7 +212,8 @@ Part002 Tamil remains **ARCHIVAL-READY / CLOSED**.
 English planning/setup has now completed without reopening or changing canonical Tamil:
 
 - Part002 English planning/setup — **COMPLETE / PASS**;
-- Part002 English translated/source-checked files — **0/5**;
+- Part002 English translated/source-checked files — **1/5**;
+- E5 — **SOURCE-CHECKED / COMPLETE**;
 - canonical Tamil changes caused by planning — **0**;
 - assembled Tamil changes caused by planning — **0**;
 - frozen Part001 English body changes — **0**;
@@ -220,4 +221,4 @@ English planning/setup has now completed without reopening or changing canonical
 
 Current next gate:
 
-**English E5 — section08 / scans31–34.**
+**English E6 — section09 / scans35–41.**

@@ -456,8 +456,9 @@ The Part002 documentation/control layer is reconciled to the closed final-status
 - Tamil archival-ready — **PASS / CLOSED**;
 - assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**;
 - English planning/setup — **COMPLETE / PASS**;
-- English translated/source-checked — **0/5**;
-- English next — **E5 / section08 / scans31–34**;
+- English translated/source-checked — **1/5**;
+- E5 — **SOURCE-CHECKED / COMPLETE**;
+- English next — **E6 / section09 / scans35–41**;
 - Part003 — **REGISTERED / NOT ACTIVE**.
 
 Historical gate sections remain valid as records of the state when those gates closed.
@@ -511,8 +512,24 @@ Part002 English planning/setup created a separate active control layer without r
 - assembled Tamil body changes — **0**;
 - Part003 leakage — **0**.
 
+## Part002 English E5 — SOURCE-CHECKED / COMPLETE
+
+E5 closed the Part002 section08 / scans31–34 English batch:
+
+- maintained English file — `translations/en/sections/08-the-old-man-met-on-the-way-part002.md`;
+- durable source-check — `translations/en/E5_SOURCE_CHECK.md`;
+- Tamil / English body blocks — **32 / 32**;
+- omitted / duplicated source blocks — **0 / 0**;
+- incoming 30→31 continuation preserved without copying frozen Part001 English;
+- scan32→33 Sundaralingam split-word provenance retained;
+- unsupported external historical/political/geographic/social explanation — **0**;
+- unresolved E5 holds — **0**;
+- canonical Tamil edits caused by E5 — **0**;
+- frozen Part001 English body edits — **0**;
+- Part003 leakage — **0**.
+
 ## Exact next activity
 
-Perform **Part002 English E5 — section08 / scans31–34** and complete its source-check before E6.
+Perform **Part002 English E6 — section09 / scans35–41** and complete `translations/en/E6_SOURCE_CHECK.md` before E7.
 
 Do not begin release/readiness, final Part002 closure, or Part003 transcription.

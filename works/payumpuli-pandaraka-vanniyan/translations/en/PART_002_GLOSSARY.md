@@ -1,6 +1,6 @@
 # Part 002 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **INITIAL / LOCKED FOR E5 START**
+Status: **E5 SOURCE-CHECKED / ACTIVE FOR E6 START**
 
 This glossary is derived only from the verified Part002 canonical/assembled Tamil plus already-closed Part001 project English choices where the **same Tamil source form** recurs.
 
@@ -108,3 +108,26 @@ Any English-only decision added during E5–E9 must be recorded in Part002 contr
 After all five Part002 English batches are source-checked, reconcile recurring names, places, titles and source variants in `PART_002_GLOSSARY_RECONCILIATION.md`.
 
 Canonical Tamil is never changed merely to enforce English consistency.
+
+## E5 source-check note
+
+E5 / section08 / scans31–34 is **SOURCE-CHECKED / COMPLETE**.
+
+E5 locked the following additional English handling:
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `மொட்டையாக` | **bare** | preserves the paired wordplay in the old man's “just that, bare” and Sundaralingam's reply “Tamil Nadu itself bare”; not an added project claim |
+| `தாழ்த்தப்பட்ட குலத்துச் சிங்கம்` | **lion of the oppressed community** | source-speaker wording only; no external caste/community taxonomy added |
+
+E5 also confirmed:
+
+- exact `பரங்கியர்` occurrence → ***Parangiyars***;
+- Vattrappalai / Kannagi Amman / Visaka festival handling;
+- Sangili Thalapathi / Sangili Thatha;
+- incoming 30→31 provenance without importing frozen Part001 English;
+- scan32→33 Sundaralingam split-word provenance.
+
+E5 unresolved glossary holds — **0**.
+
+The glossary remains active for E6. Canonical Tamil remains unchanged.

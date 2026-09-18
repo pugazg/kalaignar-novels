@@ -47,11 +47,12 @@ Part002:
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
 - English planning/setup — **COMPLETE / PASS**
-- English translated/source-checked — **0/5**
-- English next — **E5 / section08 / scans31–34**
+- English translated/source-checked — **1/5**
+- E5 — **SOURCE-CHECKED / COMPLETE**
+- English next — **E6 / section09 / scans35–41**
 
 ## Exact next activity
 
-Perform **Part002 English E5 — section08 / scans31–34** from the verified assembled Tamil layer and close its source-check before E6.
+Perform **Part002 English E6 — section09 / scans35–41** and close its source-check before E7.
 
 Do not reopen source verification or begin Part003 transcription.

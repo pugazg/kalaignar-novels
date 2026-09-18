@@ -42,8 +42,9 @@
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
 - English planning/setup — **COMPLETE / PASS**
-- English translated/source-checked files — **0/5**
-- English next — **E5 / section08 / scans31–34**
+- English translated/source-checked files — **1/5**
+- E5 — **SOURCE-CHECKED / COMPLETE**
+- English next — **E6 / section09 / scans35–41**
 - 30→31 — **GENUINE CONTINUATION / AUDITED**
 - 60→61 — **CLEAN / AUDITED**
 
@@ -67,11 +68,11 @@ Durable records:
 
 ## Exact next activity
 
-Perform **Part002 English Draft Batch E5 — section 08 / scans31–34**, then complete `translations/en/E5_SOURCE_CHECK.md`.
+Perform **Part002 English Draft Batch E6 — section09 / scans35–41**, then complete `translations/en/E6_SOURCE_CHECK.md`.
 
 Authority:
 - canonical Part002 `pages/` — controlling Tamil authority;
-- PASSED Part002 `sections/08-vazhiyil-kanda-vayothigar-part002.md` — normal continuous reading authority;
+- PASSED Part002 `sections/09-kuruvichchi-naachchiyar.md` — normal continuous reading authority;
 - `translations/en/PART_002_TRANSLATION_PLAN.md` and `PART_002_GLOSSARY.md` — active English controls.
 
-Do not begin E6 until E5 is **SOURCE-CHECKED / COMPLETE**. Keep Part001 frozen and Part003 transcription blocked.
+Do not begin E7 until E6 is **SOURCE-CHECKED / COMPLETE**. Keep Part001 frozen and Part003 transcription blocked.

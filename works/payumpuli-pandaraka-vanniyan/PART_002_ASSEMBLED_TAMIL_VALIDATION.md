@@ -189,4 +189,6 @@ Active Part002 English controls:
 
 Current English frontier:
 
-**E5 — section08 / scans31–34 — NEXT / NOT STARTED.**
+- E5 — **SOURCE-CHECKED / COMPLETE**;
+- translated/source-checked files — **1/5**;
+- E6 — **section09 / scans35–41 — NEXT / NOT STARTED**.
