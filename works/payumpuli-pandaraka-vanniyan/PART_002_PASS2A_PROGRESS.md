@@ -125,8 +125,8 @@ The independent Pass2B enlarged-source reread found one additional ordinary sour
 
 ## Exact next activity
 
-Part002 Tamil and English verification chains remain closed through **release/readiness PASS / CLOSED**.
+Part002 Tamil and English workflow remains closed through **release-ready synchronization PASS / CLOSED**.
 
-Perform **Part002 release-ready synchronization** and create `PART_002_RELEASE_READY_SYNC.md`.
+Create and verify **Part002 final closure** at `PART_002_FINAL_CLOSURE.md`.
 
-Do not begin final Part002 closure or Part003 transcription until synchronization closes.
+Do not begin Part003 transcription until final Part002 closure passes.

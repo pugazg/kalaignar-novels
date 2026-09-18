@@ -39,7 +39,8 @@ Current closed Tamil verification state:
 - English bilingual review — **PASS / CLOSED**
 - bilingual English-only corrections — **3**
 - release/readiness — **PASS / CLOSED**
-- English next — **release-ready synchronization**
+- release-ready synchronization — **PASS / CLOSED**
+- English next — **final Part002 closure**
 - incoming 30→31 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 60→61 — **CLEAN / AUDITED**
 
@@ -69,6 +70,7 @@ Durable Part002 records:
 - `translations/en/PART_002_TRANSLATION_REVIEW.md`
 - `translations/en/PART_002_BILINGUAL_REVIEW.md`
 - `translations/en/PART_002_RELEASE_REPORT.md`
+- `PART_002_RELEASE_READY_SYNC.md`
 - `translations/en/PART_002_PROGRESS.md`
 
 ## Part003
@@ -77,6 +79,6 @@ Part003 / scans61–90 is **SUPPLIED / REGISTERED / NOT ACTIVE**. Scan61 was use
 
 ## Exact next activity
 
-Perform **Part002 release-ready synchronization** and create `PART_002_RELEASE_READY_SYNC.md`.
+Create and verify **Part002 final closure** at `PART_002_FINAL_CLOSURE.md`.
 
-Do not alter frozen Part001 English, reopen Tamil without a genuine fidelity issue, or begin Part003 transcription.
+Do not alter frozen Part001 English or reopen Tamil without a genuine fidelity issue. Do not begin Part003 transcription until final Part002 closure passes.

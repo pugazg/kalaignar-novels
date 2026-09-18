@@ -59,7 +59,8 @@ For every `N→N+1` boundary:
 - English bilingual review — **PASS / CLOSED**
 - bilingual English-only corrections — **3**
 - release/readiness — **PASS / CLOSED**
-- English next — **release-ready synchronization**
+- release-ready synchronization — **PASS / CLOSED**
+- English next — **final Part002 closure**
 - Part003 — **SUPPLIED / REGISTERED / NOT ACTIVE**
 - split-boundary classifications — **2 / 15 audited**
 
@@ -87,6 +88,6 @@ Durable record:
 Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
-- **Part002 release-ready synchronization**
+- **Part002 final closure**
 
-Do not begin final Part002 closure until release-ready synchronization closes. Keep Part003 transcription blocked.
+Do not begin Part003 transcription until final Part002 closure passes. Keep Part003 transcription blocked.

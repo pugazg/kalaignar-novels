@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
+**RELEASE-READY SYNCHRONIZATION PASS / CLOSED — FINAL PART002 CLOSURE NEXT**
 
 Part001 English remains **FINAL CLOSED / FROZEN**.
 
@@ -17,8 +17,8 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 | Editorial | Part002 whole-Part English editorial review | 31–60 | **PASS / CLOSED** |
 | Bilingual | Part002 whole-Part bilingual review | 31–60 | **PASS / CLOSED** |
 | Release | Part002 release/readiness report | 31–60 | **PASS / CLOSED** |
-| Release sync | Part002 release-ready synchronization | 31–60 | **NEXT / NOT STARTED** |
-| Final closure | Part002 final closure | 31–60 | BLOCKED |
+| Release sync | Part002 release-ready synchronization | 31–60 | **PASS / CLOSED** |
+| Final closure | Part002 final closure | 31–60 | **NEXT / NOT STARTED** |
 
 ## Current counts
 
@@ -41,8 +41,8 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 - canonical Tamil edits caused by English — **0**
 - frozen Part001 English section-file edits caused by Part002 — **0**
 - Part003 English/Tamil content imported into Part002 — **0**
-- release-ready synchronization — **NEXT / NOT STARTED**
-- final Part002 closure — **BLOCKED**
+- release-ready synchronization — **PASS / CLOSED**
+- final Part002 closure — **NEXT / NOT STARTED**
 - Part003 transcription — **BLOCKED / NOT ACTIVE**
 
 ## Planning gate completed
@@ -175,10 +175,27 @@ Accounting:
 - frozen Part001 English body edits — **0**
 - Part003 leakage — **0**
 
+## Release-ready synchronization closure
+
+Part002 release-ready synchronization is **PASS / CLOSED**.
+
+Durable record:
+- `../../PART_002_RELEASE_READY_SYNC.md`
+
+Accounting:
+- release/readiness — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+- canonical Tamil edits during synchronization — **0**
+- assembled Tamil body edits during synchronization — **0**
+- maintained English body edits during synchronization — **0**
+- source-variant collapses — **0**
+- frozen Part001 body edits — **0**
+- Part003 leakage — **0**
+
 ## Exact next activity
 
-**Part002 release-ready synchronization.**
+Create and verify **Part002 final closure**:
 
-Create and verify `../../PART_002_RELEASE_READY_SYNC.md`.
+`../../PART_002_FINAL_CLOSURE.md`
 
-Do not begin final Part002 closure or Part003 transcription until release-ready synchronization closes.
+Do not begin Part003 transcription until final Part002 closure passes.

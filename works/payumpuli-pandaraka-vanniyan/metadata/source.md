@@ -156,7 +156,8 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - English bilingual review — **PASS / CLOSED**
 - bilingual English-only corrections — **3**
 - release/readiness — **PASS / CLOSED**
-- English next — **release-ready synchronization**
+- release-ready synchronization — **PASS / CLOSED**
+- English next — **final Part002 closure**
 - Part003 source — **REGISTERED / NOT ACTIVE**
 - audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN**
 - terminal page function for complete 477-scan source — **not yet visually audited**
@@ -173,6 +174,6 @@ Durable rule:
 
 ## Exact next activity
 
-Perform **Part002 release-ready synchronization**.
+Create and verify **Part002 final closure**.
 
 Canonical Part002 `pages/` remain controlling Tamil authority; the PASSED assembled Part002 section08 is the normal continuous reading authority. Part003 remains inactive.

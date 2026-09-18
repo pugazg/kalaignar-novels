@@ -463,7 +463,8 @@ The Part002 documentation/control layer is reconciled to the closed final-status
 - English bilingual review — **PASS / CLOSED**;
 - bilingual English-only corrections — **3**;
 - release/readiness — **PASS / CLOSED**;
-- English next — **release-ready synchronization**;
+- release-ready synchronization — **PASS / CLOSED**;
+- English next — **final Part002 closure**;
 - Part003 — **REGISTERED / NOT ACTIVE**.
 
 Historical gate sections remain valid as records of the state when those gates closed.
@@ -643,10 +644,27 @@ Result:
 Durable record:
 - `translations/en/PART_002_RELEASE_REPORT.md`
 
+## Part002 release-ready synchronization — PASS / CLOSED
+
+Release-ready synchronization reconciled lifecycle/status/navigation controls to the closed Part002 Tamil + English + release/readiness state.
+
+Result:
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- canonical Tamil edits — **0**
+- assembled Tamil body edits — **0**
+- maintained English body edits — **0**
+- source-variant collapses — **0**
+- frozen Part001 body edits — **0**
+- Part003 leakage — **0**
+
+Durable record:
+- `PART_002_RELEASE_READY_SYNC.md`
+
 ## Exact next activity
 
-Perform **Part002 release-ready synchronization** and create:
+Create and verify **Part002 final closure** at:
 
-`PART_002_RELEASE_READY_SYNC.md`
+`PART_002_FINAL_CLOSURE.md`
 
-Do not begin final Part002 closure or Part003 transcription until synchronization closes.
+Do not begin Part003 transcription until final Part002 closure passes.

@@ -54,10 +54,11 @@ Part002:
 - English bilingual review — **PASS / CLOSED**
 - bilingual English-only corrections — **3**
 - release/readiness — **PASS / CLOSED**
-- English next — **release-ready synchronization**
+- release-ready synchronization — **PASS / CLOSED**
+- English next — **final Part002 closure**
 
 ## Exact next activity
 
-Perform **Part002 release-ready synchronization**.
+Create and verify **Part002 final closure**.
 
 Do not reopen source verification or begin Part003 transcription.

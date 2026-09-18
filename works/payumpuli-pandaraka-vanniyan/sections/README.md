@@ -85,12 +85,12 @@ Part002:
 - English bilingual review — **PASS / CLOSED**
 - bilingual English-only corrections — **3**
 - release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **NEXT / NOT STARTED**
-- final Part002 closure — **BLOCKED**
+- release-ready synchronization — **PASS / CLOSED**
+- final Part002 closure — **NEXT / NOT STARTED**
 - Part003 transcription — **BLOCKED / NOT ACTIVE**
 
 ## Exact next activity
 
-Perform **Part002 release-ready synchronization** using the closed Tamil, English, bilingual and release/readiness records.
+Create and verify **Part002 final closure** using the closed Tamil, English, release/readiness and release-ready synchronization records.
 
-Do not alter this verified Tamil reading layer, do not begin final Part002 closure, and do not begin Part003 transcription.
+Do not alter this verified Tamil reading layer. Do not begin Part003 transcription until final Part002 closure passes.

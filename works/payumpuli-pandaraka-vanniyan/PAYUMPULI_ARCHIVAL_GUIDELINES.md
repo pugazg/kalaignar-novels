@@ -65,11 +65,12 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part002 English editorial review: PASS / CLOSED**
 - **Part002 English bilingual review: PASS / CLOSED**
 - **Part002 release/readiness: PASS / CLOSED**
-- **Part002 English next: release-ready synchronization**
+- **Part002 release-ready synchronization: PASS / CLOSED**
+- **Part002 English next: final Part002 closure**
 - **Part003: REGISTERED / NOT ACTIVE**
 
 ## Exact next gate
 
-Perform **Part002 release-ready synchronization** under the closed release/readiness controls.
+Create and verify **Part002 final closure** under the closed release-ready synchronization controls.
 
-Do not reopen canonical Tamil, alter frozen Part001 English, begin final Part002 closure early, or begin Part003 transcription.
+Do not reopen canonical Tamil or alter frozen Part001 English. Do not begin Part003 transcription until final Part002 closure passes.

@@ -112,14 +112,14 @@ Part003 remains blocked until Part002 final closure.
 - unresolved bilingual holds — **0**
 - release/readiness — **PASS / CLOSED**
 - unresolved release/readiness blockers — **0**
-- release-ready synchronization — **NEXT / NOT STARTED**
-- final Part002 closure — **BLOCKED**
+- release-ready synchronization — **PASS / CLOSED**
+- final Part002 closure — **NEXT / NOT STARTED**
 - Part003 transcription — **BLOCKED**
 
 ## Exact next activity
 
-Perform **Part002 release-ready synchronization** and create:
+Create and verify **Part002 final closure**:
 
-`../../PART_002_RELEASE_READY_SYNC.md`
+`../../PART_002_FINAL_CLOSURE.md`
 
-Do not begin final Part002 closure or Part003 transcription until synchronization closes.
+Do not begin Part003 transcription until final Part002 closure passes.

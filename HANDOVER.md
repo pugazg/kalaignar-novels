@@ -49,7 +49,8 @@
 - English bilingual review — **PASS / CLOSED**
 - bilingual English-only corrections — **3**
 - release/readiness — **PASS / CLOSED**
-- English next — **release-ready synchronization**
+- release-ready synchronization — **PASS / CLOSED**
+- English next — **final Part002 closure**
 - 30→31 — **GENUINE CONTINUATION / AUDITED**
 - 60→61 — **CLEAN / AUDITED**
 
@@ -65,6 +66,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_TRANSLATION_REVIEW.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_BILINGUAL_REVIEW.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_RELEASE_REPORT.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_002_RELEASE_READY_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
@@ -77,7 +79,7 @@ Durable records:
 
 ## Exact next activity
 
-Perform **Part002 release-ready synchronization** and create `PART_002_RELEASE_READY_SYNC.md`.
+Create and verify **Part002 final closure** at `PART_002_FINAL_CLOSURE.md`.
 
 Authority:
 - canonical Part002 `pages/` — controlling Tamil authority;
@@ -85,4 +87,4 @@ Authority:
 - all five maintained Part002 English section files — closed maintained English body layer;
 - `translations/en/PART_002_TRANSLATION_PLAN.md`, `PART_002_GLOSSARY.md`, `PART_002_GLOSSARY_RECONCILIATION.md`, `PART_002_TRANSLATION_REVIEW.md`, `PART_002_BILINGUAL_REVIEW.md` and `PART_002_RELEASE_REPORT.md` — closed English/release controls.
 
-Do not begin final Part002 closure until release-ready synchronization closes. Keep Part001 frozen and Part003 transcription blocked.
+Do not begin Part003 transcription until final Part002 closure passes. Keep Part001 frozen.
