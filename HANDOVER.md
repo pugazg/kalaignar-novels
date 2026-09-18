@@ -71,25 +71,25 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
-## Part003 — ACTIVE / PASS 1 IN PROGRESS
+## Part003 — ACTIVE / PASS 1 COMPLETE
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
 - global scans — **61–90**
 - local pages — **1–30**
 - incoming 60→61 — **CLEAN / AUDITED**
 - outgoing 90→91 — **PENDING direct audit**
-- canonical Part003 page records — **10/30 — scans61–70**
-- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
-- completed batch — **global scans61–70 / local pages1–10 / printed51–60**
+- canonical Part003 page records — **30/30 — scans61–90**
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - unresolved Pass-1 source-reading holds — **0**
-- next Pass-1 batch — **global scans71–80 / local pages11–20**
+- scan90 / printed80 terminal fragment — **என்னைப்** inside an open quotation
+- Pass 2A — **NOT STARTED**
 
 Part001 and Part002 are frozen.
 
 ## Exact next activity
 
-Perform **Part003 Pass 1 — second batch global scans71–80 / local pages11–20**.
+Perform the **Part003 outgoing boundary audit 90→91** against Part004 scan91. Do not create Part004 canonical page records during the boundary audit.
 
-Continue canonical page records with global numbering and exact Part003 provenance, and update `PART_003_PASS1_PROGRESS.md`.
+After the boundary is directly classified, begin **Part003 Pass 2A — first batch scans61–70**.
 
-Preserve incoming **60→61 CLEAN / AUDITED**. Do not begin Pass 2A until Part003 Pass 1 covers the full Part.
+Preserve incoming **60→61 CLEAN / AUDITED**.

@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001 and Part002 are **FINAL CLOSED / FROZEN**. Part003 is **ACTIVE / AUTHORIZED — PASS 1 IN PROGRESS**.
+Part001 and Part002 are **FINAL CLOSED / FROZEN**. Part003 is **ACTIVE / AUTHORIZED — PASS 1 COMPLETE / PASS**.
 
 ## Tamil Part workflow
 
@@ -68,13 +68,15 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part002 release-ready synchronization: PASS / CLOSED**
 - **Part002 final closure: PASS / CLOSED / FROZEN**
 - **Part003: ACTIVE / AUTHORIZED**
-- **Part003 Pass 1: IN PROGRESS — 10/30 TEXT-COMPLETE — scans61–70**
+- **Part003 Pass 1: COMPLETE / PASS — 30/30 TEXT-COMPLETE — scans61–90**
 - **Part003 unresolved Pass-1 source-reading holds: 0**
+- **Part003 90→91 boundary: PENDING direct audit**
+- **Part003 Pass 2A: NOT STARTED**
 
 ## Exact next gate
 
-Perform **Part003 Pass 1 — second batch global scans71–80 / Part003 local pages11–20**.
+Perform **Part003 outgoing boundary audit 90→91** against Part004 scan91, using scan91 only as the adjacent boundary witness.
 
-Continue canonical Part003 page records and update `PART_003_PASS1_PROGRESS.md`. Preserve incoming **60→61 CLEAN / AUDITED**.
+After that direct classification, begin **Part003 Pass 2A — first batch scans61–70**.
 
-Do not reopen frozen Part001/Part002. Do not begin Pass 2A until Part003 Pass 1 covers scans61–90.
+Do not reopen frozen Part001/Part002 and do not create Part004 canonical page records during the boundary audit.
