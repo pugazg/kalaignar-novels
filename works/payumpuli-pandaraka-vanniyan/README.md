@@ -19,7 +19,8 @@ Controlling source:
 - canonical records — **30/30 — scans31–60**
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - unresolved Pass-1 holds — **0**
-- Pass 2A — **NEXT / NOT STARTED**
+- Pass 2A — **IN PROGRESS — 10/30 REVIEWED**
+- Pass 2A Batch 1 scans31–40 — **COMPLETE / REVIEWED / PASS — 0 corrections**
 - Pass 2B / Pass 3 — **NOT STARTED**
 - assembled Tamil / English — **NOT STARTED**
 - incoming 30→31 — **GENUINE CONTINUATION / AUDITED**
@@ -44,4 +45,4 @@ Part003 / scans61–90 is **SUPPLIED / REGISTERED / NOT ACTIVE**. Scan61 was use
 
 ## Exact next activity
 
-**Part002 Pass 2A — scans31–40 / local pages1–10.**
+**Part002 Pass 2A — scans41–50 / local pages11–20.**
