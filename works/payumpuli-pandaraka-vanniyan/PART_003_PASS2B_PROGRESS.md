@@ -152,6 +152,6 @@ No Batch-3 occurrence required a historical-glyph identity change, ordinary lexi
 
 ## Exact next activity
 
-Perform **Part003 English editorial review** across all five maintained English files / scans61–90.
+Perform **Part003 whole-Part bilingual review** across all five Tamil/English pairs / scans61–90.
 
-Downstream English state: E10–E14 are **SOURCE-CHECKED / COMPLETE — 5/5** and whole-Part glossary reconciliation is **RECONCILED / PASS**, with **0 unresolved English/glossary holds**. Do not begin bilingual review or Part004 transcription until editorial review closes.
+Current downstream English state: glossary reconciliation is **RECONCILED / PASS** and editorial review is **PASS / CLOSED** with **49** maintained-English changes, **2** source-alignment corrections, and **0** unresolved editorial holds. Do not begin release/readiness or Part004 transcription until bilingual review closes.

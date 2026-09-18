@@ -17,7 +17,7 @@ working_title: "Payumpuli Pandaraka Vanniyan"
 
 # Kaakkai Vanniyan!
 
-Shocked, Sundaralingam looked at the elderly women standing there as embodiments of grief and asked anxiously, “Do you know where Sangili Thatha might have been taken?” One of the women, who seemed to know a little more of the details, stepped forward and answered.
+Shocked, Sundaralingam looked at the grief-stricken elderly women and asked anxiously, “Do you know where Sangili Thatha might have been taken?” One of the women, who seemed to know a little more of the details, stepped forward and answered.
 
 “Since the men who carried him away were British soldiers, they must have taken him to Kaarikkattu Moolai Palace.”
 
@@ -31,7 +31,7 @@ Shocked, Sundaralingam looked at the elderly women standing there as embodiments
 
 <!-- source boundary: scan 65 → scan 66 -->
 
-As the old woman explained these matters in detail, Sundaralingam stood with gooseflesh, realizing that despite her age there shone through her attachment and affection for that soil, and her feeling that outsiders must not enslave it.
+As the old woman explained these matters in detail, Sundaralingam stood with gooseflesh, realizing that despite her age, her attachment and affection for that soil shone through, along with her conviction that outsiders must not enslave it.
 
 Hopeful that he could learn still more from her, he asked with great respect, “Mother, what is your name?”
 
@@ -39,7 +39,7 @@ Hopeful that he could learn still more from her, he asked with great respect, �
 
 “Why does Kaakkai Vanniyan oppose Pandaraka Vanniyan?”
 
-“Becoming a slave of the British is the first reason! Besides that, there is another reason too!”
+“Becoming a slave of the British is the first reason! Beyond that, there is another reason too!”
 
 “What is that reason?”
 
@@ -73,7 +73,7 @@ Thanga Naachchi's speech was filled with composure, experience and firmness.
 
 <!-- source boundary: scan 67 → scan 68 -->
 
-have studied with me! Even now many children study under me. Shall I tell you something with pride? Pandaraka Vanniyan, whose name is Kulasekaram Vairamuthu, and Kuruvichchi Naachchi, who today sits beside him as his equal bearing a sharp sword to strike down cruel enemies—both were my students! Along with such pride, I also bear one humiliating smallness: Kaakkai Vanniyan too was my student! What can one do? In those student days, all of them stood as defenders of the honour of this soil. But with the change of time, in the hearts of a few like Kaakkai Vanniyan, the termite of selfishness raised its mound, and there the black cobra called treachery took up residence.”
+have studied with me! Even now many children study under me. Shall I tell you something with pride? Pandaraka Vanniyan, whose name is Kulasekaram Vairamuthu, and Kuruvichchi Naachchi, who today sits beside him as his equal bearing a sharp sword to strike down cruel enemies—both were my students! Along with that pride, I also bear one humiliation: Kaakkai Vanniyan too was my student! What can one do? In those student days, all of them stood as defenders of the honour of this soil. But with the change of time, in the hearts of a few like Kaakkai Vanniyan, the termite of selfishness raised its mound, and there the black cobra called treachery took up residence.”
 
 “Mother! I feel I could go on listening to you. You speak so wonderfully. But we do not wish to delay. We have to go to Kaarikkattu Moolai Palace, do we not?”
 
@@ -97,7 +97,7 @@ Thus putting a full stop to the other details Sundaralingam was about to give, T
 
 <!-- source boundary: scan 69 → scan 70 -->
 
-“Very well, Mother! We shall go now!” Sundaralingam said, urging his horse forward. The guards of Pandaraka Vanniyan who followed him went a short distance, then hesitated beside some dense bushes. As though they wanted to tell Sundaralingam something important, they pulled their horses to a halt.
+“Very well, Mother! We shall go now!” Sundaralingam said, urging his horse forward. Pandaraka Vanniyan's guards followed him a short distance, then hesitated beside some dense bushes. As though they wanted to tell Sundaralingam something important, they pulled their horses to a halt.
 
 “It is not wise to go to Kaarikkattu Moolai Palace with reckless courage! The British soldiers there outnumber us many times over! We should think this through.”
 
@@ -113,7 +113,7 @@ The British soldiers waited with Sangili Thalapathi in the council hall for Kaak
 
 <!-- source boundary: scan 70 → scan 71 -->
 
-True to his name, his complexion; eyes that always seemed lowered toward a cat and then strained upward above the lids, dripping venom at every moment except the instant of attack; a heavy body; the habit of speaking with his teeth bared; a hunger for the pleasures of the bed with no distinction between day and night—it was clear at a glance that he was a creature who had sold himself to his enemies and would betray his very country.
+His complexion suited his name; his eyes drooped as though watching a cat, yet peered upward over the lids, seeming to drip venom at every moment except the instant of attack. His heavy body, his habit of speaking with his teeth bared, and his day-and-night hunger for the pleasures of the bed made it clear at a glance that he was a creature who had sold himself to his enemies and would betray his very country.
 
 The British officer, tired after waiting a long time, struck the door of the women's quarters four or five times forcefully with the butt of his gun. Kaakkai Vanniyan opened the door and entered the council hall with the wine cup still in his hand.
 
@@ -135,6 +135,6 @@ Sangili Thalapathi became like a tiger that had been provoked.
 
 “What did you say, fool? My granddaughter's life is dearer to me than my own! Kuruvichchi Naachchi belongs only to Pandaraka Vanniyan! I am not so shameless as to make her a plaything on your cushioned bed, nor is my granddaughter out of her senses!”
 
-“You will speak like that now! Lock you in the underground prison for two days and starve you, and you will come around by yourself and bow down! You will writhe and cry, ‘I will give you Kuruvichchi!’ I know! So throw this man into the underground prison!” Kaakkai Vanniyan shouted.
+“You will speak like that now! Once you're locked in the underground prison for two days and starved, you'll come around on your own and bow down! You will writhe and cry, ‘I will give you Kuruvichchi!’ I know! So throw this man into the underground prison!” Kaakkai Vanniyan shouted.
 
 At a signal from the British officer, the soldiers removed Sangili Thalapathi from there and took him away to the underground prison.

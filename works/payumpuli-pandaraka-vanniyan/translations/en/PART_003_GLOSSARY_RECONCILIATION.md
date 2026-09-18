@@ -206,3 +206,25 @@ No file under Part003 canonical `pages/` or Tamil `sections/` is changed by this
 **Part003 English editorial review across all 5 maintained English files / scans61–90.**
 
 Do not begin whole-Part bilingual review, release/readiness, final Part003 closure or Part004 transcription until editorial review closes.
+
+
+## Post-reconciliation editorial review state
+
+This glossary-reconciliation record remains **RECONCILED / PASS**.
+
+Subsequent English editorial review:
+- reviewed maintained English files — **5/5**
+- files with maintained-English changes — **5/5**
+- total English-only changes — **49**
+- source-alignment corrections — **2**
+- glossary/source-variant locks changed — **0**
+- unresolved editorial holds — **0**
+- canonical Tamil edits — **0**
+- Part004 leakage — **0**
+
+Durable record:
+- `PART_003_TRANSLATION_REVIEW.md`
+
+Current next gate:
+
+**Part003 whole-Part bilingual review.**

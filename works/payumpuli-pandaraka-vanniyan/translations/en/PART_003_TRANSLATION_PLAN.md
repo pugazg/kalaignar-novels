@@ -1,6 +1,6 @@
 # Part 003 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
+Status: **EDITORIAL REVIEW PASS / CLOSED — BILINGUAL REVIEW NEXT**
 
 This is the control plan for the project-created English translation of **Part003 only**.
 
@@ -248,3 +248,25 @@ Durable source-check records:
 Perform **Part003 English editorial review** across all five maintained English files / scans61–90.
 
 Do not begin bilingual review until editorial review closes.
+
+
+## Editorial review closure
+
+**PASS / CLOSED**
+
+- reviewed English files — **5/5**
+- scan coverage — **61–90 / 30 pages**
+- English-only changes — **49**
+- source-alignment corrections within that total — **2**
+- unresolved editorial holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001/Part002 English body edits — **0**
+- Part004 leakage — **0**
+- durable record — `PART_003_TRANSLATION_REVIEW.md`
+
+## Exact next activity
+
+Perform **Part003 whole-Part bilingual review** across all five Tamil/English pairs / scans61–90.
+
+Do not begin release/readiness until bilingual review closes.

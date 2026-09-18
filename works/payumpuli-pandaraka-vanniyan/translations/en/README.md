@@ -239,3 +239,28 @@ Durable record:
 Perform **Part003 English editorial review** across all five maintained English files / scans61–90.
 
 Do not begin bilingual review until editorial review closes. Do not begin Part004 transcription.
+
+
+## Part003 editorial review — PASS / CLOSED
+
+Part003 English editorial review is now **PASS / CLOSED**.
+
+- maintained English files reviewed — **5/5**
+- scans covered — **61–90 / all 30 pages**
+- files with maintained-English changes — **5/5**
+- total English-only changes — **49**
+- source-alignment corrections within that total — **2**
+- unresolved editorial holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil body edits — **0**
+- frozen Part001/Part002 English body edits — **0**
+- Part004 leakage — **0**
+
+Durable record:
+- `PART_003_TRANSLATION_REVIEW.md`
+
+## Current exact next activity
+
+Perform **Part003 whole-Part bilingual review** across all five Tamil/English pairs / scans61–90.
+
+Do not begin release/readiness until bilingual review closes. Do not begin Part004 transcription.

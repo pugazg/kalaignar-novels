@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART003 GLOSSARY RECONCILIATION — RECONCILED / PASS — EDITORIAL REVIEW NEXT**
+**PART003 ENGLISH EDITORIAL REVIEW — PASS / CLOSED — BILINGUAL REVIEW NEXT**
 
 Part001 and Part002 English remain **FINAL CLOSED / FROZEN**.
 
@@ -14,7 +14,7 @@ Part001 and Part002 English remain **FINAL CLOSED / FROZEN**.
 | **E13** | section 16 — `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | **80–87** | **SOURCE-CHECKED / COMPLETE** |
 | **E14** | section 17 — `அதிகாரி வழங்கிய ஆலோசனை` | **88–90** | **SOURCE-CHECKED / COMPLETE** |
 | Glossary | Part003 whole-Part reconciliation | 61–90 | **RECONCILED / PASS** |
-| Editorial | Part003 whole-Part English editorial review | 61–90 | **NOT STARTED** |
+| Editorial | Part003 whole-Part English editorial review | 61–90 | **PASS / CLOSED** |
 | Bilingual | Part003 whole-Part bilingual review | 61–90 | **NOT STARTED** |
 | Release | Part003 release/readiness report | 61–90 | **NOT STARTED** |
 | Release sync | Part003 release-ready synchronization | 61–90 | **NOT STARTED** |
@@ -31,6 +31,11 @@ Part001 and Part002 English remain **FINAL CLOSED / FROZEN**.
 - unresolved Part003 English holds — **0**
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
 - English section corrections from glossary reconciliation — **0**
+- editorial review — **PASS / CLOSED**
+- editorial-review files edited — **5/5**
+- maintained-English editorial/source-alignment changes — **49**
+- source-alignment corrections within that total — **2**
+- unresolved editorial holds — **0**
 - canonical Tamil edits caused by English planning — **0**
 - assembled Tamil edits caused by English planning — **0**
 - frozen Part001/Part002 English body edits caused by Part003 planning — **0**
@@ -121,6 +126,6 @@ Part004 remains blocked until Part003 final closure.
 
 ## Exact next activity
 
-Perform **Part003 English editorial review** across all five maintained English files / scans61–90.
+Perform **Part003 whole-Part bilingual review** across all five Tamil/English pairs / scans61–90.
 
-Do not begin bilingual review until editorial review closes. Do not begin Part004 transcription.
+Recheck all **49/49** maintained-English changes against verified Tamil. Do not begin release/readiness until bilingual review closes. Do not begin Part004 transcription.

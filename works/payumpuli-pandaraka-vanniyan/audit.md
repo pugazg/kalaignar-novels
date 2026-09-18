@@ -855,3 +855,30 @@ Durable record:
 Current next gate:
 
 **Part003 English editorial review across all five maintained English files / scans61–90.**
+
+
+## Part003 English editorial review — PASS / CLOSED
+
+Reviewed all five maintained Part003 English files across scans61–90.
+
+Accounting:
+- English files reviewed — **5/5**
+- source coverage — **61–90 / 30 pages**
+- files with maintained-English changes — **5/5**
+- English-only changes — **49**
+- source-alignment corrections within that total — **2**
+- unresolved editorial holds — **0**
+- structure/provenance block count changes — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil body edits — **0**
+- frozen Part001/Part002 English body edits — **0**
+- Part004 leakage — **0**
+- 60→61 CLEAN — **retained**
+- 90→91 GENUINE CONTINUATION — **retained without scan91 import**
+
+Durable record:
+- `translations/en/PART_003_TRANSLATION_REVIEW.md`
+
+Current next gate:
+
+**Part003 whole-Part bilingual review across all five Tamil/English pairs / scans61–90.**

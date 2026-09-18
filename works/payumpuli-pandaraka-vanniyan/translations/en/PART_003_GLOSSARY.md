@@ -1,6 +1,6 @@
 # Part 003 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **RECONCILED / PASS — EDITORIAL REVIEW NEXT**
+Status: **RECONCILED / PASS — EDITORIAL REVIEW PASS / CLOSED — BILINGUAL REVIEW NEXT**
 
 This glossary is derived only from verified Part003 canonical/assembled Tamil plus already-closed Part001/Part002 project English choices where the **same Tamil source form** recurs.
 
@@ -235,3 +235,23 @@ Reconciled source-derived distinctions include:
 **Part003 English editorial review — all 5 maintained English files / scans61–90.**
 
 Do not begin bilingual review until editorial review closes.
+
+
+## Post-reconciliation editorial review state
+
+Whole-Part glossary reconciliation remains **RECONCILED / PASS**.
+
+Subsequent Part003 English editorial review:
+- reviewed English files — **5/5**
+- files with maintained-English changes — **5/5**
+- total English-only changes — **49**
+- source-alignment corrections within that total — **2**
+- glossary/source-variant locks changed — **0**
+- unresolved editorial holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- Part004 leakage — **0**
+
+Current next gate:
+
+**Part003 whole-Part bilingual review across all five Tamil/English pairs / scans61–90.**

@@ -22,13 +22,13 @@ When Pandaraka Vanniyan came to the entrance of the Muthu Maaligai and looked ou
 
 Pandaraka Vanniyan could make nothing of it. She had told him only that she was going to give the Kannagi Amman temple offerings to Sangili Thatha and return; she had not told him she was going out to confront Kaakkai Vanniyan in battle. So he was confused. Why would she need a hundred warriors merely to go and see grandfather?
 
-The bodyguard could give him no further details, because he knew nothing more himself. The king did not want to probe him with repeated questions. If he did, the bodyguard might think that she had hidden something even from him. Pandaraka Vanniyan always took a sweet comfort in the fact that there was not even an ordinary matter on which he and she differed, and that neither of them undertook anything important without the other's knowledge. So he did not wish to make an elaborate inquiry into why Naachchiyar had left with a hundred warriors without telling him.
+The bodyguard could give him no further details, because he knew nothing more himself. The king did not want to probe him with repeated questions. If he did, the bodyguard might think that she had hidden something even from him. Pandaraka Vanniyan always drew comfort from the fact that there was not even an ordinary matter on which he and she differed, and that neither of them undertook anything important without the other's knowledge. So he did not wish to question the bodyguard at length about why Naachchiyar had left with a hundred warriors without telling him.
 
 <!-- source boundary: scan 80 → scan 81 -->
 
-She must have gone because of some enemy opposition—but why should she not tell him? If so, what enemy was it? Was it the British enemy, wandering about trying to plant the foot of domination firmly? Or the Dutch, called the Ollandars, who had handed domination over to the British and now moved about in a state of mere leftovers and remnants?
+She must have gone because of some enemy opposition—but why should she not tell him? If so, what enemy was it? Was it the British enemy, roaming about trying to plant the foot of domination firmly? Or the Dutch, called the Ollandars, who had handed domination over to the British and now wandered about reduced to mere remnants?
 
-Whatever it was, whatever the enemy, Pandaraka Vanniyan had the same confidence as always. That confidence was this: Kuruvichchi Naachchi would face anything with courage, display her valour, and return victorious.
+Whatever it was, whatever the enemy, Pandaraka Vanniyan had the same confidence as always. His confidence was this: Kuruvichchi Naachchi would face anything with courage, display her valour, and return victorious.
 
 For a while Pandaraka Vanniyan watched the cloud of dust raised by the horses as they sped away behind Naachchiyar. Then he went inside, reclined on the bed and sank into thought.
 
@@ -70,39 +70,39 @@ Kuruvichchi laughs then. She looks mischievously at Kaakkai Vanniyan.
 
 “No! You say a woman should bend and twine like a creeper and should not wield a sword. But in the Puranas, doesn't Sakthi Devi herself take the form of Kali, bear a trident in her hand and kill Mahishasura? Isn't she a woman too?”
 
-At that answer Kaakkai Vanniyan falters. Since he is intent on accomplishing the purpose for which he came, he moves hurriedly closer and sits beside Kuruvichchi. Understanding his intention, Kuruvichchi rises from the steps. The fool Kaakkai asks, “Why did you get up?” and catches hold of her hand. When she pulls her hand free, Kaakkai's face crumples as though he is about to cry, but he does not give up.
+Kaakkai Vanniyan falters at that answer. Intent on accomplishing the purpose for which he came, he moves hurriedly closer and sits beside Kuruvichchi. Understanding his intention, Kuruvichchi rises from the steps. The fool Kaakkai asks, “Why did you get up?” and catches hold of her hand. When she pulls her hand free, Kaakkai's face crumples as though he is about to cry, but he does not give up.
 
 “Kuruvichchi! I want to ask you one thing! Please answer me. Compare Pandaraka Vanniyan, who speaks of setting a time limit merely to decide whether or not to marry and meanwhile behaves toward you like a friend, with me—if you merely move your lips, I am eager to fix the wedding day today itself and caress you on the bridal bed! Can't you understand that I value you more than my life, more than he does?”
 
-“What use is it that you place your life on me? Shouldn't I, in return, place my life on you? I have placed my life on that good man who has placed his life on the land—
+“What use is it that you value me above your life? Shouldn't I, in return, value you above mine? I have placed my life on that good man who has placed his life on the land—
 
 <!-- source boundary: scan 84 → scan 85 -->
 
 on that brave man. What should we call those who know this and still do not know enough to withdraw?”
 
-“I don't know, Kuruvichchi! My heart aches to possess you somehow! Fate keeps pressing down on my head, telling me that I must embrace you, delight in you and find bliss!”
+“I don't know, Kuruvichchi! My heart aches to make you mine somehow! Fate keeps bearing down on me, telling me that I must embrace you, delight in you and find bliss!”
 
 Kuruvichchi's face darkens. Without caring even about that, he leaps at her. A flash of lightning—that is all!
 
 Where my Kuruvichchi found such strength I do not know. She seizes Kaakkai Vanniyan, shakes him, gives him one shove from the steps toward the water, and strides rapidly away.
 
-Even now I laugh when I remember Kaakkai Vanniyan flailing his arms and gasping for breath, his legs trapped in the deep bottom mud.
+Even now I laugh when I remember Kaakkai Vanniyan flailing his arms and gasping for breath, his legs trapped in the deep mud at the bottom.
 
 Poor fellow—let us save him, I think. If I go immediately, he will realize I had been there all that time. So I wait a little, then run toward the steps. Pretending to be panic-stricken, I pull him out of the water.
 
-When I ask what happened, he says, “Nothing at all!” Apparently he had stepped onto the waterside steps to wash his face; the moss-covered steps had slipped under him, and so he had fallen in. I too pretend to believe him.
+When I ask what happened, he says, “Nothing at all!” He says he had stepped onto the waterside steps to wash his face; the moss-covered steps had slipped under him, and so he had fallen in. I too pretend to believe him.
 
-That incident has never left my eyes! The dignity of chastity; firmness in a decision once made; a fearless
+That scene has never left my eyes! The dignity of chastity; firmness in a decision once made; a fearless
 
 <!-- source boundary: scan 85 → scan 86 -->
 
 heart; valour to match it—though I have firm faith that Kuruvichchi Naachchiyar, who embodies all of these together, will make the enemy turn its back, I still do not know why she went surrounded by warriors, or where she went!” Pandaraka Vanniyan thought as he tossed on the bed without sleeping.
 
-Kuruvichchi Naachchiyar, who had set out with a hundred mounted warriors, was travelling with the thought that she must first meet Sundaralinga Kudumbar. If British soldiers had carried Sangili Thatha away, she too guessed that he must have been kept in Kaakkai Vanniyan's mansion. Though she knew there would be many times more warriors in that mansion than the men accompanying her, the martial spirit and courage naturally steeped in her nature allowed no room for hesitation in her mind. Before long she reached the place where Sundaralingam was waiting.
+Kuruvichchi Naachchiyar, who had set out with a hundred mounted warriors, was intent on first meeting Sundaralinga Kudumbar. If British soldiers had carried Sangili Thatha away, she too guessed that he must have been kept in Kaakkai Vanniyan's mansion. Though she knew there would be many times more warriors in that mansion than the men accompanying her, the martial spirit and courage ingrained in her nature left no room for hesitation in her mind. Before long she reached the place where Sundaralingam was waiting.
 
 “Why should you take on fresh trouble here? You return to Tamil Nadu. We will look after what is happening here!” she told Sundaralingam.
 
-“Wherever evil arises, if it comes upon a Tamil, is it not an evil that concerns us? Why distinguish between here and there? I have decided to stand beside you until Sangili Thatha is rescued!” Sundaralinga Kudumbar replied firmly.
+“Wherever evil arises, if it befalls a Tamil, does it not concern us? Why distinguish between here and there? I have decided to stand beside you until Sangili Thatha is rescued!” Sundaralinga Kudumbar replied firmly.
 
 Then that small force began its journey along the road leading to Kaakkai Vanniyan's fort.
 
@@ -112,8 +112,8 @@ The news that Pandaraka Vanniyan's warriors were advancing with fierce spirit un
 
 reached Kaakkai Vanniyan, and he conferred with his British officers.
 
-They decided to let her come with her troops all the way to the fort, then surround and encircle them, and a strategy was drawn up accordingly.
+They decided to let her come with her troops all the way to the fort and then encircle them; a strategy was drawn up accordingly.
 
-Kaakkai was delighted! Why wouldn't he be? Kuruvichchi Naachchiyar was going to come and be trapped inside his own fort. The frenzy of being able to enjoy her as he wished rose within him.
+Kaakkai was delighted! Why wouldn't he be? Kuruvichchi Naachchiyar was going to come and be trapped inside his own fort. The frenzy of imagining he could enjoy her as he wished surged within him.
 
-He imagined himself as a spider sitting after spinning its web, and Kuruvichchi as a small insect flying in to be caught in it, and emptied a jar of liquor.
+He imagined himself as a spider waiting in the web it had spun, and Kuruvichchi as a small insect flying in to be caught in it, and emptied a jar of liquor.

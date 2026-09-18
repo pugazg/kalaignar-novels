@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / ENGLISH GLOSSARY RECONCILED / PASS.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / ENGLISH EDITORIAL REVIEW PASS / CLOSED.**
 
 - local PDF pages: **30**
 - canonical overall scans: **61–90**
@@ -35,7 +35,7 @@ Part002 has now reached **FINAL CLOSURE — PASS / CLOSED / FROZEN**.
 
 Part003 is therefore:
 
-**ACTIVE / AUTHORIZED — ENGLISH GLOSSARY RECONCILED / PASS**
+**ACTIVE / AUTHORIZED — ENGLISH EDITORIAL REVIEW PASS / CLOSED**
 
 - canonical Part003 page records — **30/30 — scans61–90**
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -58,13 +58,17 @@ Part003 is therefore:
 - unresolved English holds — **0**
 - Part003 English glossary reconciliation — **RECONCILED / PASS**
 - Part003 glossary-reconciliation English section edits — **0**
-- Part003 English editorial review — **NEXT GATE / NOT STARTED**
+- Part003 English editorial review — **PASS / CLOSED**
+- Part003 editorial English-only changes — **49**
+- Part003 source-alignment corrections within editorial total — **2**
+- Part003 unresolved editorial holds — **0**
+- Part003 bilingual review — **NEXT GATE / NOT STARTED**
 
 - incoming 60→61 — **CLEAN / AUDITED**
 - outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
 
 ## Exact next activity
 
-Perform **Part003 English editorial review** across all five maintained English files / scans61–90.
+Perform **Part003 whole-Part bilingual review** across all five Tamil/English pairs / scans61–90.
 
-Do not begin bilingual review until editorial review closes. Do not begin Part004 transcription.
+Do not begin release/readiness until bilingual review closes. Do not begin Part004 transcription.

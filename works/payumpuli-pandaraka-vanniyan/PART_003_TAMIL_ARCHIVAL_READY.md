@@ -274,3 +274,24 @@ Part003 English subsequently completed:
 Current next gate:
 
 **Part003 English editorial review across all five maintained English files / scans61–90.**
+
+
+## Post-glossary editorial review state
+
+The earlier Tamil gate in this file remains closed and authoritative.
+
+Part003 English subsequently completed:
+- E10–E14 source-check — **COMPLETE / PASS — 5/5**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- maintained-English editorial/source-alignment changes — **49**
+- source-alignment corrections within that total — **2**
+- unresolved editorial holds — **0**
+- canonical Tamil changes — **0**
+- assembled Tamil body changes — **0**
+- frozen Part001/Part002 English body changes — **0**
+- Part004 leakage — **0**
+
+Current next gate:
+
+**Part003 whole-Part bilingual review across all five Tamil/English pairs / scans61–90.**
