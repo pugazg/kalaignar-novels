@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS — 20/30 REVIEWED**
+**PASS 2B — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisites:
 - Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -28,16 +28,16 @@ For every reviewed scan:
 
 Pages remain `needs-review`. Final `verified` status is not assigned during Pass 2B.
 
-## Current accounting
+## Final accounting
 
-- Pass 2B reviewed: **20/30 — scans31–50**
-- Pass 2B remaining: **10/30 — scans51–60**
-- historical-glyph corrections in Batch 1: **0**
-- other lexical / punctuation corrections in Batch 1: **0**
-- unresolved historical-glyph identities in Batch 1: **0**
-- historical-glyph corrections in Batch 2: **0**
-- other lexical / punctuation corrections in Batch 2: **0**
-- unresolved historical-glyph identities in Batch 2: **0**
+- Pass 2B reviewed: **30/30 — scans31–60**
+- Pass 2B remaining: **0/30**
+- Batch 1 scans31–40 — **0 historical-glyph corrections; 0 other corrections; 0 unresolved**
+- Batch 2 scans41–50 — **0 historical-glyph corrections; 0 other corrections; 0 unresolved**
+- Batch 3 scans51–60 — **0 historical-glyph corrections; 1 other lexical correction; 0 unresolved**
+- cumulative historical-glyph corrections — **0**
+- cumulative other lexical / punctuation corrections — **1**
+- unresolved historical-glyph identities — **0**
 - Pass 3: **NOT STARTED**
 
 ## Batch 1 — scans31–40
@@ -74,6 +74,23 @@ Pages remain `needs-review`. Final `verified` status is not assigned during Pass
 | 49 | 19 | 38 | `நாலு கால் மண்டபத்தில்!` | 0 | 0 |
 | 50 | 20 | 39 | chapter 6 `கண்டியின் வாரிசுப் போட்டி!` | 0 | 0 |
 
+## Batch 3 — scans51–60
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+| Global scan | Local page | Printed page | Section | Historical-glyph corrections | Other corrections |
+|---:|---:|---:|---|---:|---:|
+| 51 | 21 | 40 | `கண்டியின் வாரிசுப் போட்டி!` | 0 | 0 |
+| 52 | 22 | 41 | `கண்டியின் வாரிசுப் போட்டி!` | 0 | 0 |
+| 53 | 23 | 42 | `கண்டியின் வாரிசுப் போட்டி!` | 0 | 0 |
+| 54 | 24 | 43 | `கண்டியின் வாரிசுப் போட்டி!` | 0 | 0 |
+| 55 | 25 | 44 | `கண்டியின் வாரிசுப் போட்டி!` | 0 | 0 |
+| 56 | 26 | 45 | `கண்டியின் வாரிசுப் போட்டி!` | 0 | 0 |
+| 57 | 27 | 46 | chapter 7 `தீவுக்குள் தீயவர்கள்!` | 0 | 0 |
+| 58 | 28 | 47 | `தீவுக்குள் தீயவர்கள்!` | 0 | 1 |
+| 59 | 29 | 48–49 | `தீவுக்குள் தீயவர்கள்!` | 0 | 0 |
+| 60 | 30 | 50 | `தீவுக்குள் தீயவர்கள்!` | 0 | 0 |
+
 ## Representative confirmed historical families
 
 Across scans31–40, enlarged-source reread positively confirmed representative forms including:
@@ -97,6 +114,28 @@ Across scans41–50, enlarged-source reread also confirmed representative forms 
 
 No occurrence in Batch 2 required a historical-glyph identity change, lexical correction, punctuation correction or unresolved hold.
 
+Across scans51–60, enlarged-source reread confirmed representative forms including:
+
+- `றா` — `நாற்பது`
+- `ணை` — `அணைத்துத்`
+- `லை` — `திருநெல்வேலியிலிருந்து`, `நிலை`, `குலை`
+- `ளை` — `களைப்பைப்`, `பாளையக்காரர்`, `வெள்ளையத் தேவன்`, `வாளை`, `முள்ளியவளைக்குச்`, `வற்றாப்பளை`
+- `னை` — `அவனைச்`, `நிபந்தனை`, `மனைவிக்கு`, `மன்னனைப்`
+
+No Batch-3 occurrence required a historical-glyph identity correction or unresolved hold.
+
+## Scan58 Pass2B reconciliation
+
+The independent enlarged-source reread found one ordinary source-reading error that Pass2A had not corrected:
+
+- earlier canonical reading: `ஒரு பயங்கரமான திமிர் தாக்குதலில் இருந்து`
+- enlarged source pixels: **`ஒரு பயங்கரமான திடீர் தாக்குதலில் இருந்து`**
+- canonical scan58 is corrected to `திடீர்`
+- classification: **ordinary lexical/source-reading correction; not a historical-glyph-family correction**
+- unresolved: **0**
+
+This finding does not reopen the historical Pass2A accounting; it is recorded as a Pass2B reconciliation.
+
 ## Batch-1 continuity confirmations
 
 - scan31 remains the audited Part002 start after the genuine 30→31 continuation;
@@ -107,8 +146,14 @@ No occurrence in Batch 2 required a historical-glyph identity change, lexical co
 - scan36→37 `அவனிருந்த` → `இடம்`, scan37→38 `ஆடும் மகளிரில்` → `நாலைந்து...`, scan38→39 `மிரண்டுபோன` → `நிலையில்`, and scan39→40 `சிறு பூச்சி` → `போல ஆனான்!` remain source-faithful;
 - scan40 remains open at `எனவே அந்தப் பெரிய மணி ஓசை`, continuing to scan41.
 
+## Pass 2B closure
+
+**PASS — 30/30 Part002 physical scans independently reread.**
+
+All Part002 page records remain `needs-review` pending Pass 3 and later whole-Part closure gates.
+
 ## Exact next activity
 
-Perform **Part002 Pass 2B — global scans51–60 / local pages21–30**.
+Perform **Part002 Pass 3 — global scans31–40 / local pages1–10** as the visual / structural verification layer.
 
-Stop after that 10-scan batch. Do not begin Pass 3 or Part003 transcription without another explicit continuation.
+Stop after that 10-scan batch. Do not begin Pass 3 scans41–50, Part audit, or Part003 transcription without another explicit continuation.

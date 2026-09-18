@@ -11,7 +11,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans51–60; formal Part002 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans51–60; formal Part002 Pass 2A reviewed; formal Part002 Pass 2B reviewed"
 ---
 
 # தீவுக்குள் தீயவர்கள்!
@@ -49,4 +49,15 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 59; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 29; அச்சுப் பக்கங்கள்: 48–49; PASS 1 + PASS 2A REVIEWED / needs-review -->
+## Formal Part002 Pass 2B historical-glyph review
+
+- independent lexical / historical-glyph reread completed from enlarged source pixels under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+- checked the known reform-sensitive set occurrence by occurrence: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative confirmed source forms: `முள்ளிய வளைக்குச்` (`ளை`), `வெள்ளைக்கார` (`ளை`), `வற்றாப்பளை` (`ளை`);
+- historical-glyph corrections: **0**;
+- other lexical / punctuation corrections from this independent reread: **0**;
+- unresolved historical-glyph identities: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `needs-review`; final `verified` promotion remains blocked until Pass 3, Part audit and final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 59; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 29; அச்சுப் பக்கங்கள்: 48–49; PASS 1 + PASS 2A + PASS 2B REVIEWED / needs-review -->

@@ -31,7 +31,7 @@ For every reviewed scan:
 - Batch 3 scans51–60 — **5 corrections; 0 unresolved**
 - cumulative Pass 2A source-text corrections — **8**
 - unresolved textual questions — **0**
-- Pass 2B — **IN PROGRESS — 20/30 REVIEWED**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 3 — **NOT STARTED**
 
 ## Batch 1 — scans31–40
@@ -104,10 +104,20 @@ For every reviewed scan:
 
 **PASS — 30/30 Part002 physical scans directly source-verified.**
 
-All Part002 page records remain `needs-review` pending Pass 2B and later gates.
+All Part002 page records remain `needs-review` pending Pass 3 and later gates.
+
+## Later Pass2B reconciliation
+
+The independent Pass2B enlarged-source reread found one additional ordinary source-reading correction on scan58:
+
+- Pass2A had retained `திமிர் தாக்குதலில்`;
+- Pass2B confirms the source prints **`திடீர் தாக்குதலில்`**;
+- canonical scan58 is corrected accordingly;
+- this is classified as a Pass2B lexical/source-reading correction, not a historical-glyph correction;
+- Pass2A's historical batch accounting remains unchanged at **8 corrections**.
 
 ## Exact next activity
 
-Perform **Part002 Pass 2B — global scans51–60 / local pages21–30** as an independent lexical / historical-glyph reread under the historical Tamil glyph guide.
+Perform **Part002 Pass 3 — global scans31–40 / local pages1–10** as the visual / structural verification layer.
 
-Stop after that 10-scan batch. Do not begin Pass 3 or Part003 transcription without another explicit continuation.
+Stop after that 10-scan batch. Do not begin Pass 3 scans41–50, Part audit, or Part003 transcription without another explicit continuation.
