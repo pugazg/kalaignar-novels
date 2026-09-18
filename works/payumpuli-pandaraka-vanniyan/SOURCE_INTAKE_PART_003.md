@@ -41,12 +41,13 @@ Part003 is therefore:
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - unresolved Pass-1 source-reading holds — **0**
 - scan90 / printed80 terminal fragment — **என்னைப்** inside an open quotation
-- Pass 2A — **IN PROGRESS — 20/30 REVIEWED; 0 corrections; 0 unresolved**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED; 0 corrections; 0 unresolved**
+- Pass 2B — **NOT STARTED**
 - incoming 60→61 — **CLEAN / AUDITED**
 - outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
 
 ## Exact next activity
 
-Perform **Part003 Pass 2A — batch 3 scans81–90 / local pages21–30**.
+Perform **Part003 Pass 2B — batch 1 scans61–70 / local pages1–10**.
 
-Do not begin Pass 2B until Pass 2A covers the full Part.
+Do not begin Pass 3 until Pass 2B covers the full Part.

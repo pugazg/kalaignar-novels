@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001 and Part002 are **FINAL CLOSED / FROZEN**. Part003 is **ACTIVE / AUTHORIZED — PASS 1 COMPLETE / PASS**.
+Part001 and Part002 are **FINAL CLOSED / FROZEN**. Part003 is **ACTIVE / AUTHORIZED — PASS 2A COMPLETE / PASS**.
 
 ## Tamil Part workflow
 
@@ -72,10 +72,11 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part003 Pass 1: COMPLETE / PASS — 30/30 TEXT-COMPLETE — scans61–90**
 - **Part003 unresolved Pass-1 source-reading holds: 0**
 - **Part003 90→91 boundary: GENUINE CONTINUATION / AUDITED**
-- **Part003 Pass 2A: IN PROGRESS — 20/30 REVIEWED — 0 corrections; 0 unresolved**
+- **Part003 Pass 2A: COMPLETE / PASS — 30/30 REVIEWED — 0 corrections; 0 unresolved**
+- **Part003 Pass 2B: NOT STARTED**
 
 ## Exact next gate
 
-Perform **Part003 Pass 2A — batch 3 scans81–90 / local pages21–30**.
+Perform **Part003 Pass 2B — batch 1 scans61–70 / local pages1–10**.
 
 Do not reopen frozen Part001/Part002. Do not begin Part004 transcription until the complete Part003 maintained workflow closes.

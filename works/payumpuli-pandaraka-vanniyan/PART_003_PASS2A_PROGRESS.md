@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS — 20/30 REVIEWED**
+**PASS 2A — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisites:
 - Part003 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -24,12 +24,13 @@ For every reviewed scan:
 - only source-supported discrepancies alter canonical text;
 - page records remain `needs-review`; final `verified` promotion is blocked until later whole-Part gates.
 
-## Current accounting
+## Final accounting
 
-- Pass 2A reviewed: **20/30 — scans61–80**
-- Pass 2A remaining: **10/30 — scans81–90**
+- Pass 2A reviewed: **30/30 — scans61–90**
+- Pass 2A remaining: **0/30**
 - Batch 1 scans61–70 — **0 source-text corrections; 0 unresolved**
 - Batch 2 scans71–80 — **0 source-text corrections; 0 unresolved**
+- Batch 3 scans81–90 — **0 source-text corrections; 0 unresolved**
 - cumulative Pass 2A source-text corrections — **0**
 - unresolved textual questions — **0**
 - Pass 2B — **NOT STARTED**
@@ -98,6 +99,47 @@ No canonical body correction was required in scans61–70.
 
 No canonical body correction was required in scans71–80.
 
+## Batch 3 — scans81–90
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+| Global scan | Local page | Printed page | Section | Source-text corrections |
+|---:|---:|---:|---|---:|
+| 81 | 21 | 71 | `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | 0 |
+| 82 | 22 | 72 | `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | 0 |
+| 83 | 23 | 73 | `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | 0 |
+| 84 | 24 | 74 | `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | 0 |
+| 85 | 25 | 75 | `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | 0 |
+| 86 | 26 | 76 | `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | 0 |
+| 87 | 27 | 77 | `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | 0 |
+| 88 | 28 | 78 | chapter 11 `அதிகாரி வழங்கிய ஆலோசனை` | 0 |
+| 89 | 29 | 79 | `அதிகாரி வழங்கிய ஆலோசனை` | 0 |
+| 90 | 30 | 80 | `அதிகாரி வழங்கிய ஆலோசனை` | 0 |
+
+## Durable Batch-3 confirmations
+
+- scan81 directly confirms `ஆதிக்கக்காலை`, `ஒல்லாந்தர்`, and the reflective passage ending at `அறிந்திருக்கிறேனே!`;
+- scan82 directly confirms the source wording **`நோகமேயென்று!`** and leaves the final quotation open at `அம்மா என`;
+- scan83 continues that quotation with `அலறிவிடுகிறாள்`, preserves **`நகைக்கூட்டம் செய்தான் அக்கள்வன் மகன்`**, and ends inside a new open quotation;
+- scan84 continues the quotation from scan83, directly confirms **`தினறிப்`**, **`சூலமேந்தி`**, **`நானு மல்லவா`**, and ends at `அந்த நல்லவர் மீது`;
+- scan85 begins `வெள்ளவர் மீது`, preserves **`ஒன்று மில்லை`** and **`விட்டகலவில்லை`**, and ends at `அஞ்சா`;
+- scan86 begins `நெஞ்சம்`, directly confirms **`நூற்றுவருடன்`**, **`புறங் காண்பாள்`**, **`கோட்டையிருக்கும்`**, and ends at `என்ற செய்தி,`;
+- scan87 begins `காக்கை வன்னியனுக்கு எட்டியவுடன்`, is a short chapter-closing page with genuine blank lower space, and closes chapter 10;
+- scan88 visibly opens chapter **11 — `அதிகாரி வழங்கிய ஆலோசனை`** and directly confirms **`வன்னியனுக்குமுதல்`** and **`வியப்பிலாழ்ந்தவனாக`**;
+- scan89 directly confirms **`முடியுமா?- முடியாதா?`**, **`அஞ்சாநெஞ்சமும்`**, **`செய்திதெரிவிப்பான்`**, **`காக்கைவன்னியனுக்கும்`**, and ends at `பெரும் வேறுபாடு`;
+- scan90 begins `சுந்தரலிங்கத்திற்குப் புரிந்துவிட்டது!`, directly confirms **`கட்ட பொம்மன்`**, **`தகிக் கண்களும்`**, **`சுழலும் வாள்`**, and ends physically at **`என்னைப்`**;
+- audited 90→91 remains **GENUINE CONTINUATION** with Part004 scan91 witness beginning `போன்றோர் - ...`.
+
+No canonical body correction was required in scans81–90.
+
+## Pass 2A closure
+
+**PASS — 30/30 Part003 physical scans directly source-verified.**
+
+- cumulative Pass 2A source-text corrections: **0**
+- unresolved textual questions: **0**
+- page records remain `needs-review` pending Pass 2B, Pass 3 and later whole-Part closure gates.
+
 ## Boundary closure
 
 Durable outgoing audit:
@@ -108,6 +150,6 @@ Durable outgoing audit:
 
 ## Exact next activity
 
-Perform **Part003 Pass 2A — batch 3 scans81–90 / local pages21–30**.
+Perform **Part003 Pass 2B — batch 1 scans61–70 / local pages1–10**.
 
-Do not begin Pass 2B until Pass 2A covers all scans61–90.
+Pass 2A is closed. Do not begin Pass 3 until Pass 2B covers all scans61–90.
