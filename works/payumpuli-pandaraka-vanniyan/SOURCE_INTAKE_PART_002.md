@@ -45,11 +45,11 @@ Part002:
 - visual fidelity — **30/30 verified; 0 needs-review**
 - unresolved status exceptions — **0**
 - Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **NEXT GATE / NOT YET STARTED**
-- English — **NOT STARTED**
+- assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
+- English — **NEXT / UNBLOCKED — planning/setup gate**
 
 ## Exact next activity
 
-Perform **Part002 assembled Tamil construction + audit** from the verified canonical page records.
+Perform the **Part002 English translation planning/setup gate** from the PASSED assembled Tamil layer.
 
-Do not reopen the source merely to repeat closed verification, and do not begin Part003 transcription.
+Do not reopen source verification, draft English prose in the planning gate, or begin Part003 transcription.

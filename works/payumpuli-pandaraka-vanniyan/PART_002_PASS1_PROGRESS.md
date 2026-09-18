@@ -78,16 +78,17 @@ All Part002 Pass-1 transcription was made from the user-supplied rendered source
 
 ## Exact next activity
 
-The Part002 Tamil archival-ready checkpoint is now **PASS / CLOSED**. These Pass trackers remain historically closed and are not reopened.
+Part002 Tamil archival-ready is **PASS / CLOSED** and assembled Tamil is **PASS / CLOSED — 5/5 section files VERIFIED**. These earlier Pass records remain historically closed and are not reopened.
 
 Current Part002 downstream state:
-- Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**;
-- visual fidelity — **30/30 verified; 0 needs-review**;
+- Tamil textual status — **30/30 verified**;
+- visual fidelity — **30/30 verified**;
 - unresolved status exceptions — **0**;
 - documentation synchronization — **PASS / COMPLETE**;
 - Tamil archival-ready — **PASS / CLOSED**;
-- assembled Tamil — **NEXT GATE / NOT YET STARTED**.
+- assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**;
+- English — **NEXT / UNBLOCKED — planning/setup gate**.
 
-Perform **Part002 assembled Tamil construction + audit** from the verified canonical Part002 page records.
+Perform the **Part002 English translation planning/setup gate**.
 
-Do not modify frozen Part001 assembled files or begin English translation/review, release/readiness, final Part002 closure, or Part003 transcription in the same iteration.
+Do not draft translated prose in that planning gate or begin release/readiness, final Part002 closure, or Part003 transcription.

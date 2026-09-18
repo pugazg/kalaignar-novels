@@ -147,7 +147,8 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - Part002 visual fidelity — **30/30 verified; 0 needs-review**
 - Part002 unresolved status exceptions — **0**
 - Part002 Tamil archival-ready — **PASS / CLOSED**
-- Part002 assembled Tamil — **NEXT GATE / NOT YET STARTED**
+- Part002 assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
+- Part002 English — **NEXT / UNBLOCKED — planning/setup gate**
 - Part003 source — **REGISTERED / NOT ACTIVE**
 - audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN**
 - terminal page function for complete 477-scan source — **not yet visually audited**
@@ -164,6 +165,6 @@ Durable rule:
 
 ## Exact next activity
 
-Perform **Part002 assembled Tamil construction + audit** from the verified canonical Part002 `pages/` records.
+Perform the **Part002 English translation planning/setup gate**.
 
-The canonical page layer remains authoritative. Part003 remains inactive.
+Canonical Part002 `pages/` remain controlling Tamil authority; the PASSED Part002 `sections/` files are the normal continuous reading authority. Part003 remains inactive.

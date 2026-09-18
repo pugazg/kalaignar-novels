@@ -50,7 +50,8 @@ For every `N→N+1` boundary:
 - Part002 visual fidelity — **30/30 verified**
 - Part002 unresolved status exceptions — **0**
 - Part002 Tamil archival-ready — **PASS / CLOSED**
-- Part002 assembled Tamil — **NEXT GATE / NOT YET STARTED**
+- Part002 assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
+- Part002 English — **NEXT / UNBLOCKED — planning/setup gate**
 - Part003 — **SUPPLIED / REGISTERED / NOT ACTIVE**
 - split-boundary classifications — **2 / 15 audited**
 
@@ -78,6 +79,6 @@ Durable record:
 Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
-- **Part002 assembled Tamil construction + audit**
+- **Part002 English translation planning/setup**
 
-Keep frozen Part001 assembled files unchanged. Do not begin English work, final Part002 closure, or Part003 transcription in that gate.
+Do not draft English prose in the planning gate. Keep final Part002 closure and Part003 transcription blocked.

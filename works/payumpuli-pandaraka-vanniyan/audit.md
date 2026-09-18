@@ -454,7 +454,8 @@ The Part002 documentation/control layer is reconciled to the closed final-status
 - live control disagreement on current status/next gate — **0**;
 - documentation synchronization — **PASS / COMPLETE**;
 - Tamil archival-ready — **PASS / CLOSED**;
-- assembled Tamil — **NEXT GATE / NOT YET STARTED**;
+- assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**;
+- English — **NEXT / UNBLOCKED — planning/setup gate**;
 - Part003 — **REGISTERED / NOT ACTIVE**.
 
 Historical gate sections remain valid as records of the state when those gates closed.
@@ -478,8 +479,24 @@ The complete Part002 Tamil archival evidence chain is now closed for normal work
 
 This checkpoint changes no canonical page record and does not reopen source comparison.
 
+## Part002 assembled Tamil checkpoint — PASS / CLOSED
+
+The Part002 derived Tamil reading layer is now closed:
+
+- assembled section files — **5/5 VERIFIED**;
+- canonical source-transcription coverage — **30/30**;
+- omissions / duplicates — **0 / 0**;
+- audit-note leakage — **0**;
+- unsupported body insertion — **0**;
+- Part003 text leakage — **0**;
+- frozen Part001 assembled-file mutations — **0**;
+- canonical Tamil page mutations caused by assembly — **0**;
+- 30→31 — **GENUINE CONTINUATION / retained as provenance only**;
+- 60→61 — **CLEAN / retained as provenance only**;
+- durable validation — `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`.
+
 ## Exact next activity
 
-Perform **Part002 assembled Tamil construction + audit**.
+Perform the **Part002 English translation planning/setup gate**.
 
-Do not begin English translation/review, release/readiness, final Part002 closure, or Part003 transcription until the assembled Tamil gate closes.
+Do not draft English prose in the planning gate or begin release/readiness, final Part002 closure, or Part003 transcription.

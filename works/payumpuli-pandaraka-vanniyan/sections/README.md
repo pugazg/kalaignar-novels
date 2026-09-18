@@ -1,98 +1,89 @@
-# Assembled Tamil Reading Layer — பாயும்புலி பண்டாரக வன்னியன் / Part001
+# Assembled Tamil Reading Layer — பாயும்புலி பண்டாரக வன்னியன்
 
-This `sections/` layer is the **assembled Tamil master / source-faithful reading layer for Part001**.
+This `sections/` directory is the maintained source-faithful Tamil reading layer derived from verified canonical `../pages/` records.
 
-It is derived only from the verified canonical `../pages/` records. Canonical `pages/` remain authoritative if any conflict is ever discovered.
+Canonical `pages/` remain authoritative if any conflict is ever discovered.
 
-## Final status
+## Closed Parts represented
 
-**PART001 ASSEMBLED TAMIL — COMPLETE / PASS — 8/8 section files VERIFIED.**
+### Part001 — PASS / CLOSED / FROZEN
 
-- Part001 physical coverage represented: **scans1–30**
-- canonical source-transcription pages represented: **30/30**
-- missing canonical textual pages: **0**
-- duplicated canonical textual pages: **0**
-- assembled section files: **8/8**
-- every section status: **verified**
-- audit-note leakage into reading text: **0**
-- unsupported body-text insertion: **0**
-- Part002 body-text leakage: **0**
-- canonical Tamil page records changed by assembly: **0**
+- physical coverage — **scans1–30**
+- canonical pages represented — **30/30**
+- assembled files — **8/8 VERIFIED**
+- validation — `../PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Part001 section files `00-*.md` through `07-*.md` are frozen.
+
+### Part002 — PASS / CLOSED
+
+- physical coverage — **scans31–60**
+- canonical pages represented — **30/30**
+- assembled files — **5/5 VERIFIED**
+- omitted / duplicated canonical pages — **0 / 0**
+- unsupported body insertion — **0**
+- audit-note leakage — **0**
+- Part003 text leakage — **0**
+- canonical Part002 page mutations caused by assembly — **0**
+- frozen Part001 assembled-file mutations — **0**
+- validation — `../PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Section inventory
 
-| Order | File | Source scans | Source structure | Status |
-|---:|---|---:|---|---|
-| 0 | `00-front-matter.md` | 1–5 | cover / title / publisher / bibliographic front matter | **VERIFIED** |
-| 1 | `01-anindurai.md` | 6–9 | `அணிந்துரை` | **VERIFIED** |
-| 2 | `02-pathippurai.md` | 10 | `பதிப்புரை` | **VERIFIED** |
-| 3 | `03-epigraph.md` | 11 | epigraph / verse | **VERIFIED** |
-| 4 | `04-title-divider.md` | 12 | illustrated title divider; printed title/author text retained | **VERIFIED** |
-| 5 | `05-thorana-vayil.md` | 13–20 | `தோரண வாயில்` | **VERIFIED** |
-| 6 | `06-oru-iragasiyak-kaditham.md` | 21–27 | `ஒரு இரகசியக் கடிதம்!` | **VERIFIED** |
-| 7 | `07-vazhiyil-kanda-vayothigar.md` | 28–30 | `வழியில் கண்ட வயோதிகர்!` — Part001 ends mid-flow | **VERIFIED** |
+| Order | Part | File | Source scans | Source structure | Status |
+|---:|---:|---|---:|---|---|
+| 0 | 001 | `00-front-matter.md` | 1–5 | cover / title / publisher / bibliographic front matter | **VERIFIED** |
+| 1 | 001 | `01-anindurai.md` | 6–9 | `அணிந்துரை` | **VERIFIED** |
+| 2 | 001 | `02-pathippurai.md` | 10 | `பதிப்புரை` | **VERIFIED** |
+| 3 | 001 | `03-epigraph.md` | 11 | epigraph / verse | **VERIFIED** |
+| 4 | 001 | `04-title-divider.md` | 12 | illustrated title divider | **VERIFIED** |
+| 5 | 001 | `05-thorana-vayil.md` | 13–20 | `தோரண வாயில்` | **VERIFIED** |
+| 6 | 001 | `06-oru-iragasiyak-kaditham.md` | 21–27 | `ஒரு இரகசியக் கடிதம்!` | **VERIFIED** |
+| 7 | 001 | `07-vazhiyil-kanda-vayothigar.md` | 28–30 | `வழியில் கண்ட வயோதிகர்!` — Part001 terminal continuation | **VERIFIED** |
+| 8 | 002 | `08-vazhiyil-kanda-vayothigar-part002.md` | 31–34 | chapter 3 continuation `வழியில் கண்ட வயோதிகர்!` | **VERIFIED** |
+| 9 | 002 | `09-kuruvichchi-naachchiyar.md` | 35–41 | `குருவிச்சி நாச்சியார்` | **VERIFIED** |
+| 10 | 002 | `10-naalu-kaal-mandapaththil.md` | 42–49 | `நாலு கால் மண்டபத்தில்!` | **VERIFIED** |
+| 11 | 002 | `11-kandiyin-vaarisup-potti.md` | 50–56 | `கண்டியின் வாரிசுப் போட்டி!` | **VERIFIED** |
+| 12 | 002 | `12-theevukkul-theeyavargal.md` | 57–60 | `தீவுக்குள் தீயவர்கள்!` | **VERIFIED** |
 
 ## Assembly rules
 
 1. Source text comes only from each canonical page's verified `## Source transcription` block.
 2. Preserve source spelling, punctuation, paragraph/dialogue order, displayed text and historical forms.
-3. Preserve page provenance with non-rendering HTML boundary comments.
-4. Exclude audit/review notes, page YAML, library/copy marks, visual-only matter and material explicitly classified non-body.
-5. Preserve verified physical continuations without reconstructing unsupported text.
+3. Preserve physical-page provenance with non-rendering HTML boundary comments.
+4. Exclude review/audit notes, page YAML, page furniture, copy marks and visual-only matter already classified non-body.
+5. Join a physical split word only where the closed canonical evidence explicitly establishes the join.
 6. Canonical `pages/` always govern; this reading layer never authorizes silent correction of canonical Tamil.
-7. Part001 stops at scan30. Scan31 remains a Part002 boundary witness only and is not imported into this reading layer.
+7. Do not cross a Part boundary by importing adjacent-Part body text merely to make a section self-contained.
 
-## Verified cross-page continuity
+## Part002 boundary safeguards
 
-The assembled layer retains the already-audited meaningful continuations:
+- incoming **30→31 — GENUINE CONTINUATION / AUDITED**;
+- Part001 terminal body text remains only in frozen Part001 section 07;
+- Part002 scan31 begins from its own verified canonical source-transcription block;
+- outgoing **60→61 — CLEAN / AUDITED**;
+- scan61 / Part003 text is not imported.
 
-- **6→7**
-- **8→9**
-- **13→14**
-- **14→15**
-- **15→16**
-- **18→19**
-- **19→20**
-- **22→23**
-- **23→24**
-- **24→25**
-- **25→26**
+## Part002 special structural cases
 
-Two physical split-word joins are rendered continuously while retaining an inline provenance comment:
-
-- scan18 `கெளரவிக்` + scan19 `கப்படுவது` → `கெளரவிக்கப்படுவது`
-- scan19 `எழுத்` + scan20 `தாளருமான` → `எழுத்தாளருமான`
-
-The outgoing **30→31 = GENUINE CONTINUATION** boundary is preserved only as a provenance marker. Part002 continuation text is not copied into Part001.
-
-## Non-body exclusions
-
-The assembly excludes only matter already classified outside readable body/source text, including:
-
-- cover/divider artwork while retaining printed title/author text;
-- library stamps, handwriting and accession/copy marks;
-- scan15 memorial-stone photograph;
-- scan17 warrior illustration and its separately classified non-body caption;
-- scan19 portrait photograph;
-- scan20 handwritten facsimile closing/signature and warrior/flag emblem;
-- page furniture and review/audit commentary.
-
-No source-visible narrative or front-matter text from the verified `## Source transcription` blocks is omitted.
-
-## Validation
-
-See `../PART_001_ASSEMBLED_TAMIL_VALIDATION.md`.
-
-Validation result:
-
-**ASSEMBLED TAMIL MASTER — PASS / VERIFIED.**
+- scan32→33 split word is rendered continuously as `சுந்தரலிங்கத்தைப்` with an inline non-rendering provenance marker;
+- scan49's large blank lower field remains visual structure and creates no invented text;
+- scan59 remains one physical illustrated spread containing printed pages **48–49**; both verified textual panels and their printed-page order are retained, while the illustration remains visual/non-body matter.
 
 ## Downstream state
 
-Part001 Tamil archival-ready is **PASS / CLOSED** and assembled Tamil is **PASS / CLOSED — 8/8 VERIFIED**.
+Part001 remains **FINAL CLOSED / FROZEN**.
 
-English E1–E4, glossary reconciliation, editorial review, whole-Part bilingual review, release/readiness, release-ready synchronization and final Part001 closure are all **PASS / CLOSED**.
+Part002:
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
+- English — **NEXT / UNBLOCKED — planning/setup gate**
+- release/readiness — **BLOCKED**
+- final Part002 closure — **BLOCKED**
+- Part003 transcription — **BLOCKED / NOT ACTIVE**
 
-Part001 is now **FINAL CLOSED / FROZEN** unless a genuine source-fidelity issue is explicitly reopened.
+## Exact next activity
 
-The repository may now activate Part002. The exact next source activity is **Part002 Pass 1, global scans31–40 / local pages1–10**.
+Perform the **Part002 English translation planning/setup gate** only.
+
+Do not draft English section prose, begin release/readiness, final Part002 closure, or Part003 transcription in that planning gate.

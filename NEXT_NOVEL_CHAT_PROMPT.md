@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part002 assembled Tamil construction + audit
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part002 English translation planning/setup
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -7,51 +7,48 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 1. `HANDOVER.md`
 2. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
 3. `works/payumpuli-pandaraka-vanniyan/PART_002_TAMIL_ARCHIVAL_READY.md`
-4. `works/payumpuli-pandaraka-vanniyan/PART_002_AUDIT.md`
-5. `works/payumpuli-pandaraka-vanniyan/PART_002_FINAL_STATUS_SYNC.md`
-6. `works/payumpuli-pandaraka-vanniyan/PART_002_DOCUMENTATION_SYNC.md`
-7. Part001 precedent:
-   - `works/payumpuli-pandaraka-vanniyan/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
-   - `works/payumpuli-pandaraka-vanniyan/sections/README.md`
-   - existing Part001 `sections/00-*.md` through `sections/07-*.md`
+4. `works/payumpuli-pandaraka-vanniyan/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+5. `works/payumpuli-pandaraka-vanniyan/sections/README.md`
+6. Part001 English-planning precedent under `works/payumpuli-pandaraka-vanniyan/translations/en/`
 
-## Part002 Tamil authority
+## Part002 maintained Tamil authority
 
-Part002 Tamil is **ARCHIVAL-READY / CLOSED**:
+Part002 Tamil is closed:
 
-- global scans — **31–60**
-- canonical records — **30/30**
-- Tamil status — **30/30 verified**
+- canonical scans — **31–60**
+- canonical records — **30/30 verified**
 - visual fidelity — **30/30 verified**
-- partial / source-limited / needs-review — **0**
-- unresolved Tamil / glyph / visual / status exceptions — **0**
-- incoming **30→31 — GENUINE CONTINUATION / AUDITED**
-- outgoing **60→61 — CLEAN / AUDITED**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
+- assembled canonical coverage — **30/30**
+- omissions / duplicates — **0 / 0**
+- unsupported body insertion — **0**
+- Part003 text leakage — **0**
+- incoming 30→31 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 60→61 — **CLEAN / AUDITED**
 
-Do not reopen the source PDF or canonical Tamil merely for assembly.
+Canonical `pages/` remain controlling Tamil authority. The PASSED Part002 assembled `sections/` files are the normal continuous reading authority.
+
+Do not reopen Tamil merely for English planning.
 
 ## Exact next activity
 
-Construct and audit the **Part002 assembled Tamil reading layer** from the verified canonical Part002 `pages/` records.
+Perform the **Part002 English translation planning/setup gate only**.
 
-Requirements:
+Following the Part001 English methodology, establish the maintained Part002 English workspace and control documents, including as applicable:
 
-- canonical `pages/` remain authoritative;
-- use only each Part002 canonical page's verified `## Source transcription` content;
-- preserve source spelling, punctuation, paragraph/dialogue order, displayed text, historical forms and verified cross-page joins;
-- preserve source-page provenance with non-rendering boundary comments;
-- exclude only matter already classified as non-body or visual-only;
-- do **not** modify the frozen Part001 assembled files;
-- Part002 begins as a continuation of chapter 3 `வழியில் கண்ட வயோதிகர்!`; preserve the incoming **30→31 GENUINE CONTINUATION** as provenance without importing scan30 body text into the Part002 derived layer merely to make it self-contained;
-- preserve the outgoing **60→61 CLEAN** boundary without importing scan61 text;
-- retain scan59's one-physical-scan / printed-pages48–49 structure in provenance;
-- audit assembled text against the canonical Part002 page source-transcription blocks;
-- require **0 omissions, 0 duplicates, 0 unsupported body insertion, 0 audit-note leakage and 0 canonical page mutations** before closure.
+- authority hierarchy;
+- translation plan / batch design;
+- Part002 glossary entries and naming conventions;
+- progress/status control;
+- English README / workflow controls;
+- source-check and review sequence;
+- boundary handling for incoming chapter-3 continuation and outgoing 60→61 CLEAN boundary.
 
-Create a durable Part002 assembled-Tamil validation record following the Part001 precedent.
+The planning gate must define how the five verified Part002 assembled Tamil files will map into English work while keeping canonical Tamil frozen.
 
 ## Stop rule
 
-Stop after **Part002 assembled Tamil construction + audit** closes.
+Do **not** draft translated section prose in the planning/setup gate.
 
-Do **not** begin English translation/review, glossary work, release/readiness, final Part002 closure, or Part003 transcription in the same iteration.
+Do not begin English source-check, glossary reconciliation, editorial review, bilingual review, release/readiness, final Part002 closure, or Part003 transcription in the same iteration.

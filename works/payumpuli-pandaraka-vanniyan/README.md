@@ -30,8 +30,8 @@ Current closed Tamil verification state:
 - visual fidelity — **30/30 verified; 0 needs-review**
 - unresolved Tamil / historical-glyph / visual-status exceptions — **0**
 - Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **NEXT GATE / NOT YET STARTED**
-- English — **NOT STARTED**
+- assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
+- English — **NEXT / UNBLOCKED — planning/setup gate**
 - incoming 30→31 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 60→61 — **CLEAN / AUDITED**
 
@@ -54,6 +54,7 @@ Durable Part002 records:
 - `PART_002_FINAL_STATUS_SYNC.md`
 - `PART_002_DOCUMENTATION_SYNC.md`
 - `PART_002_TAMIL_ARCHIVAL_READY.md`
+- `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Part003
 
@@ -61,6 +62,6 @@ Part003 / scans61–90 is **SUPPLIED / REGISTERED / NOT ACTIVE**. Scan61 was use
 
 ## Exact next activity
 
-Perform **Part002 assembled Tamil construction + audit** from the verified canonical Part002 page records.
+Perform the **Part002 English translation planning/setup gate** only, using canonical `pages/` as controlling Tamil authority and the PASSED Part002 `sections/` layer as the normal continuous reading authority.
 
-Keep Part001 frozen and do not begin English work or Part003 transcription in the same iteration.
+Do not draft English prose, begin release/readiness, final Part002 closure, or Part003 transcription in the planning gate.
