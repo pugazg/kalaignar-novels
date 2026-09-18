@@ -4,79 +4,49 @@
 **பதிப்பகம்:** ராக்போர்ட் பப்ளிகேஷன்ஸ்  
 **பதிப்பு:** முதல் பதிப்பு — 1991  
 **Complete source:** 477 physical scans  
-**Working source:** 16 split PDFs — all supplied  
+**Working source:** 16 split PDFs — all supplied / registered  
 **Source PDFs in repository:** No
 
-## Governing methodology
+## Methodology
 
-This work follows the **Kuraloviyam per-Part closure methodology**.
-
-Authoritative guide: [`PAYUMPULI_ARCHIVAL_GUIDELINES.md`](PAYUMPULI_ARCHIVAL_GUIDELINES.md)
-
-> **A Part must complete its full Tamil + assembled Tamil + English + release/readiness + release-ready synchronization + final-closure workflow before the next Part receives transcription work.**
+This work follows the Kuraloviyam per-Part closure model. A Part must finish Tamil, assembled Tamil, English, release/readiness, synchronization and final closure before the next Part receives transcription work.
 
 ## Part001 — FINAL CLOSED / FROZEN
 
-Part001 / global scans1–30 is fully closed. Durable record: [`PART_001_FINAL_CLOSURE.md`](PART_001_FINAL_CLOSURE.md).
-
-Permanent boundary:
-- scan30 / printed19 → scan31 / printed20
-- **30→31 = GENUINE CONTINUATION / AUDITED**
-- Tamil ends `அவனுக்கு ஒரே மகிழ்ச்சி,`
-- English ends **“He was filled with joy,”**
+Part001 / scans1–30 is fully closed. 30→31 is **GENUINE CONTINUATION / AUDITED**.
 
 ## Part002 — ACTIVE
 
 Controlling source:
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf`
 
-- global scans — **31–60**
-- local pages — **1–30**
-- canonical records — **20/30 — scans31–50**
-- Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
-- Pass 2A / 2B / 3 — **NOT STARTED**
+- canonical records — **30/30 — scans31–60**
+- Pass 1 transcription — **TEXT-COMPLETE 30/30**
+- Pass-1 closure — **HOLD: 60→61 direct boundary audit**
+- Pass 2A / 2B / 3 — **NOT STARTED / BLOCKED**
 - assembled Tamil / English — **NOT STARTED**
 - incoming 30→31 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 60→61 — **PENDING direct audit**
+- outgoing 60→61 — **PENDING DIRECT AUDIT**
 
-Tracker: [`PART_002_PASS1_PROGRESS.md`](PART_002_PASS1_PROGRESS.md)
+### Pass-1 coverage
 
-### Completed Pass-1 batches
+- Batch 1 — scans31–40 — COMPLETE
+- Batch 2 — scans41–50 — COMPLETE
+- Batch 3 — scans51–60 — TEXT-COMPLETE
+- scan57 opens chapter7 `தீவுக்குள் தீயவர்கள்!`
+- scan59 is a single physical illustrated spread containing printed pages **48–49**
+- scan60 carries printed page **50**
 
-**Batch 1 — scans31–40 / local1–10 / printed20–29 — COMPLETE**
-- scans31–34 — `வழியில் கண்ட வயோதிகர்!`
-- scan35 — chapter4 opening `குருவிச்சி நாச்சியார்`
-- scans36–40 — chapter4 continuation
+All Part002 page records remain `needs-review`.
 
-**Batch 2 — scans41–50 / local11–20 / printed30–39 — COMPLETE**
-- scan41 — chapter4 continuation
-- scan42 — chapter5 opening `நாலு கால் மண்டபத்தில்!`
-- scans43–49 — chapter5 continuation
-- scan50 — chapter6 opening `கண்டியின் வாரிசுப் போட்டி!`
-- scan50 ends physically `பாஞ்சாலங்குறிச்சி`; no scan51 text has been imported
+## 60→61 closure hold
 
-Durable source forms retained include `குலசேகரம் வைரமுத்து`, `களுக்`, and `முள்ளியவளை` where printed.
+Part003 is **SUPPLIED / REGISTERED** by repository intake, but its scan61 pixels are not accessible in the current chat runtime. The boundary is therefore not inferred from scan60 alone.
 
-All Part002 Pass-1 page records remain `needs-review`; no Pass 2A work has begun.
-
-## Source rules
-
-- use only the user-supplied split PDFs/source page images;
-- source pixels control;
-- preserve source spelling, punctuation, paragraph structure and historical glyph identity;
-- do not normalize names, offices, place names or vocabulary;
-- canonical `scan_page` numbering stays global;
-- source PDFs remain outside Git.
-
-## Active controls
-
-- [`PAYUMPULI_ARCHIVAL_GUIDELINES.md`](PAYUMPULI_ARCHIVAL_GUIDELINES.md)
-- [`PART_001_FINAL_CLOSURE.md`](PART_001_FINAL_CLOSURE.md)
-- [`SOURCE_INTAKE_PART_002.md`](SOURCE_INTAKE_PART_002.md)
-- [`PART_002_PASS1_PROGRESS.md`](PART_002_PASS1_PROGRESS.md)
+No Part003 canonical record has been created and no scan61 text has been imported.
 
 ## Exact next activity
 
-Perform **Part002 Pass 1 for global scans51–60 / local pages21–30**, then close Pass 1 only if all ten are text-complete and the 60→61 boundary has been handled according to the source rules.
+Access/render Part003 local page1 / global scan61 and directly classify **60→61** against scan60.
 
-Stop before Pass 2A unless the user explicitly continues.
+If no scan60 correction is needed, close Part002 Pass 1 as **30/30 COMPLETE / PASS**. Stop before Pass 2A.
