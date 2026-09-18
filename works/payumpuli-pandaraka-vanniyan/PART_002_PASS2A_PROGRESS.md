@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS — 10/30 REVIEWED**
+**PASS 2A — IN PROGRESS — 20/30 REVIEWED**
 
 Prerequisite:
 - Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -24,10 +24,14 @@ For every reviewed scan:
 
 ## Current accounting
 
-- Pass 2A reviewed: **10/30 — scans31–40**
-- Pass 2A remaining: **20/30 — scans41–60**
+- Pass 2A reviewed: **20/30 — scans31–50**
+- Pass 2A remaining: **10/30 — scans51–60**
 - source-text corrections in Batch 1: **0**
 - unresolved textual questions in Batch 1: **0**
+- source-text corrections in Batch 2: **3**
+- unresolved textual questions in Batch 2: **0**
+- cumulative source-text corrections through scan50: **3**
+- unresolved textual questions through scan50: **0**
 - Pass 2B / Pass 3: **NOT STARTED**
 
 ## Batch 1 — scans31–40
@@ -47,8 +51,26 @@ For every reviewed scan:
 | 39 | 9 | 28 | `குருவிச்சி நாச்சியார்` | 0 |
 | 40 | 10 | 29 | `குருவிச்சி நாச்சியார்` | 0 |
 
+## Batch 2 — scans41–50
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+| Global scan | Local page | Printed page | Section | Source-text corrections |
+|---:|---:|---:|---|---:|
+| 41 | 11 | 30 | `குருவிச்சி நாச்சியார்` | 0 |
+| 42 | 12 | 31 | chapter 5 `நாலு கால் மண்டபத்தில்!` | 0 |
+| 43 | 13 | 32 | `நாலு கால் மண்டபத்தில்!` | 1 |
+| 44 | 14 | 33 | `நாலு கால் மண்டபத்தில்!` | 0 |
+| 45 | 15 | 34 | `நாலு கால் மண்டபத்தில்!` | 0 |
+| 46 | 16 | 35 | `நாலு கால் மண்டபத்தில்!` | 2 |
+| 47 | 17 | 36 | `நாலு கால் மண்டபத்தில்!` | 0 |
+| 48 | 18 | 37 | `நாலு கால் மண்டபத்தில்!` | 0 |
+| 49 | 19 | 38 | `நாலு கால் மண்டபத்தில்!` | 0 |
+| 50 | 20 | 39 | chapter 6 `கண்டியின் வாரிசுப் போட்டி!` | 0 |
+
 ## Durable source confirmations
 
+Batch 1:
 - scan31 remains the audited continuation from scan30 and starts Part002 canonical content without altering Part001;
 - scan32→33 preserves the physical split `சுந்தர` → `லிங்கத்தைப்`;
 - scan34 closes the preceding scene with `“குருவிச்சி நாச்சியார்!”`;
@@ -61,8 +83,16 @@ For every reviewed scan:
 - scan40 remains physically open at `எனவே அந்தப் பெரிய மணி ஓசை`, continuing to scan41;
 - representative source forms confirmed without correction include `அத்துப்படியா`, `பதவிச்சுகம்`, `வெள்ளை வெளேரென்று`, `திடீர்பிரவேசம்`, `தன்கை`, `தீராதி தீரன்`, and `குபுகுபுவென`.
 
+Batch 2:
+- scan41 directly completes the already-audited page-level continuation from scan40; scan40 canonical text was not altered;
+- scan42 visibly opens chapter **5 — `நாலு கால் மண்டபத்தில்!`**;
+- scan43 source punctuation was restored as `என ஒருவன், கேட்டான்!`;
+- scan46 source `வருகிறார்களாம்-` was restored, and the source embrace-release wording was restored as `மன்னனின் தழுவலில் இருந்து மெதுவாகத் தன்னை விடுவித்துக்கொண்டே, “பரவாயில்லை!” என சமாளித்தான்.`;
+- scan48 preserves the source-visible unclosed terminal quotation state at the physical page end;
+- scan50 visibly opens chapter **6 — `கண்டியின் வாரிசுப் போட்டி!`** and ends physically with `பாஞ்சாலங்குறிச்சி`; no scan51 text was inferred or imported.
+
 ## Exact next activity
 
-Perform **Part002 Pass 2A — global scans41–50 / local pages11–20**.
+Perform **Part002 Pass 2A — global scans51–60 / local pages21–30**.
 
-Do not begin scans51–60, Pass 2B or Part003 transcription in the same iteration without another explicit continuation.
+Do not begin Pass 2B or Part003 transcription in the same iteration without another explicit continuation.

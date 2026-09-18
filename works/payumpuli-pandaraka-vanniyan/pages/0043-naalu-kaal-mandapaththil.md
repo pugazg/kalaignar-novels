@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_002_pages_31-60.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans41–50"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans41–50; formal Part002 Pass 2A reviewed"
 ---
 
 # நாலு கால் மண்டபத்தில்!
@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 
 மண்டபத்தை விட்டு வெளியே வரும் வரையில் இருவரும் பேசிக் கொள்ளவில்லை. அவர்களை மீறி அவர்களின் நெஞ்சங்கள்தான் இணையாக இசைப்பாடிக் கொண்டிருந்தன. கம்பீரமாகச் சிங்கம் போல நடந்து வரும் இளம் மன்னனையும், கவர்ச்சி முழுவதும் கொட்டி செதுக்கப்பட்ட சிலை போல அவனருகே நடந்து வரும் அந்த மயிலனையாளையும் - வைத்த விழி வாங்காமல் பார்த்துக் கொண்டிருந்த ஒரு வயோதிகத் தாய், தன்னருகே இருந்த ஒரு நடுத்தர வயது படைத்த பெண்மணியிடம், “என் கண்ணே பட்டுவிடும் போலிருக்கிறது!” எனச் சொல்லிக் கொண்டே, தன் கையிலிருந்த ஒரு எலுமிச்சம் பழத்தைத் தனது பலம் முழுவதும் பயன்படுத்தி, இரண்டாக உடைத்து - தொலைவிலிருந்தவாறே திருஷ்டி கழித்துப்போட்டாள்.
 
-“இன்றைக்கும் திருமணம் நடக்கவில்லையே!” என ஒருவன் கேட்டான்! “திருமணம் நடக்காவிட்டால் என்ன? திருமணம் நடக்காமலேயே அவர்கள் கணவன் மனைவிதானே!” என்று இன்னொருவன் சிரித்துக் கொண்டே சொன்னான். “ஏய், மெதுவாகப் பேசுங்கள்! யார் காதிலாவது விழப்போகிறது!” என எச்சரித்தான் மற்றொருவன்.
+“இன்றைக்கும் திருமணம் நடக்கவில்லையே!” என ஒருவன், கேட்டான்! “திருமணம் நடக்காவிட்டால் என்ன? திருமணம் நடக்காமலேயே அவர்கள் கணவன் மனைவிதானே!” என்று இன்னொருவன் சிரித்துக் கொண்டே சொன்னான். “ஏய், மெதுவாகப் பேசுங்கள்! யார் காதிலாவது விழப்போகிறது!” என எச்சரித்தான் மற்றொருவன்.
 
 ## Pass 1 notes
 
@@ -33,4 +33,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - no web transcription, alternate edition or reconstruction was used as authority;
 - formal Part002 Pass 2A / Pass 2B / Pass 3 are not started; this record remains `needs-review`.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 43; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 13; அச்சுப் பக்கம்: 32; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue and physical page-boundary comparison completed against the user-supplied Part002 source pixels;
+- source-text corrections: **1**;
+- correction applied: restored the source comma in `என ஒருவன், கேட்டான்!`;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending whole-Part Pass 2A closure, Pass 2B, Pass 3, Part audit and final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 43; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 13; அச்சுப் பக்கம்: 32; PASS 1 + PASS 2A REVIEWED / needs-review -->

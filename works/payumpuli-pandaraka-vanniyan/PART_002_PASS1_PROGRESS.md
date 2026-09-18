@@ -20,7 +20,7 @@ Part001 remains **FINAL CLOSURE — PASS / CLOSED / FROZEN**.
 - Pass-1 partial records: **0**
 - Pass-1 transcription pending: **0**
 - unresolved Pass-1 holds: **0**
-- Pass 2A: **IN PROGRESS — 10/30 REVIEWED**
+- Pass 2A: **IN PROGRESS — 20/30 REVIEWED**
 - Pass 2B / Pass 3: **NOT STARTED**
 - assembled Tamil / English: **NOT STARTED**
 
@@ -58,12 +58,12 @@ All Part002 Pass-1 transcription was made from the user-supplied rendered source
 
 ## Current downstream state
 
-- Pass 2A — **IN PROGRESS — 10/30 REVIEWED**
+- Pass 2A — **IN PROGRESS — 20/30 REVIEWED**
 - Pass 2B / Pass 3 — **NOT STARTED**
 - Pass 2A tracker — `PART_002_PASS2A_PROGRESS.md`
 
 ## Exact next activity
 
-Continue **Part002 Pass 2A — global scans41–50 / local pages11–20**.
+Continue **Part002 Pass 2A — global scans51–60 / local pages21–30**.
 
 Do not begin Part003 transcription.

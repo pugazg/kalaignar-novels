@@ -27,8 +27,9 @@
 - canonical records — **30/30**
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - unresolved Pass-1 holds — **0**
-- Pass 2A — **IN PROGRESS — 10/30 REVIEWED**
+- Pass 2A — **IN PROGRESS — 20/30 REVIEWED**
 - Pass 2A Batch 1 scans31–40 — **COMPLETE / REVIEWED / PASS — 0 corrections**
+- Pass 2A Batch 2 scans41–50 — **COMPLETE / REVIEWED / PASS — 3 corrections; 0 unresolved**
 - Pass 2B / Pass 3 — **NOT STARTED**
 - assembled Tamil / English — **NOT STARTED**
 - 60→61 — **CLEAN / AUDITED**
@@ -53,9 +54,9 @@ Durable record:
 
 ## Exact next activity
 
-Perform **Part002 Pass 2A — global scans41–50 / local pages11–20**.
+Perform **Part002 Pass 2A — global scans51–60 / local pages21–30**.
 
 Tracker:
 `works/payumpuli-pandaraka-vanniyan/PART_002_PASS2A_PROGRESS.md`
 
-**Stop after that 10-scan batch. Do not begin scans51–60, Pass 2B, or Part003 transcription in the same iteration.**
+**Stop after that 10-scan batch. Do not begin Pass 2B or Part003 transcription in the same iteration.**
