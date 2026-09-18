@@ -202,3 +202,22 @@ Part003 English subsequently completed all five planned drafting/source-check ba
 Current next gate:
 
 **Part003 whole-Part English glossary reconciliation.**
+
+
+## Post-source-check glossary reconciliation state
+
+The earlier Tamil gate in this file remains closed and authoritative.
+
+Part003 English subsequently completed:
+- E10–E14 drafting/source-check — **SOURCE-CHECKED / COMPLETE — 5/5**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English section edits required by glossary reconciliation — **0**
+- unresolved English/glossary holds — **0**
+- canonical Tamil changes caused by English reconciliation — **0**
+- assembled Tamil body changes — **0**
+- frozen Part001/Part002 English body changes — **0**
+- Part004 leakage — **0**
+
+Current next gate:
+
+**Part003 English editorial review across all five maintained English files / scans61–90.**

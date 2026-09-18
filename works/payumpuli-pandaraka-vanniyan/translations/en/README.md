@@ -215,3 +215,27 @@ Durable source-check records:
 Perform **Part003 whole-Part English glossary reconciliation** across E10–E14.
 
 Do not begin editorial review until glossary reconciliation closes. Do not begin Part004 transcription.
+
+
+## Part003 glossary reconciliation — RECONCILED / PASS
+
+Part003 whole-Part glossary reconciliation is now **RECONCILED / PASS**.
+
+- maintained English files checked — **5/5**
+- scans covered — **61–90 / 30 pages**
+- accidental English drift requiring section edits — **0**
+- English section files changed by reconciliation — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil body edits — **0**
+- frozen Part001/Part002 English body edits — **0**
+- Part004 leakage — **0**
+
+Durable record:
+- `PART_003_GLOSSARY_RECONCILIATION.md`
+
+## Current exact next activity
+
+Perform **Part003 English editorial review** across all five maintained English files / scans61–90.
+
+Do not begin bilingual review until editorial review closes. Do not begin Part004 transcription.

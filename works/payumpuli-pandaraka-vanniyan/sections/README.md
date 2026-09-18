@@ -113,11 +113,14 @@ Part003:
 - English translated/source-checked — **5/5**
 - E10–E14 — **SOURCE-CHECKED / COMPLETE**
 - unresolved English holds — **0**
-- glossary reconciliation — **NEXT / NOT STARTED**
+- Part003 English glossary reconciliation — **RECONCILED / PASS**
+- Part003 glossary-reconciliation English section edits — **0**
+- Part003 English editorial review — **NEXT GATE / NOT STARTED**
+
 - Part004 — **BLOCKED**
 
 ## Exact next activity
 
-Perform **Part003 whole-Part English glossary reconciliation** across E10–E14.
+Perform **Part003 English editorial review** across all five maintained English files / scans61–90.
 
-Do not modify the verified Part003 assembled Tamil bodies. Do not begin Part004 transcription.
+Do not begin bilingual review until editorial review closes. Do not begin Part004 transcription.

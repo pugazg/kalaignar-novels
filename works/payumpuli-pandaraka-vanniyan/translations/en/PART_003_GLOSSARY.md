@@ -1,6 +1,6 @@
 # Part 003 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **ACTIVE — E10–E14 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
+Status: **RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 This glossary is derived only from verified Part003 canonical/assembled Tamil plus already-closed Part001/Part002 project English choices where the **same Tamil source form** recurs.
 
@@ -198,3 +198,40 @@ E14 unresolved glossary holds — **0**.
 **Part003 whole-Part English glossary reconciliation.**
 
 Do not begin editorial review until reconciliation closes.
+
+
+## Whole-Part glossary reconciliation closure
+
+Part003 whole-Part glossary reconciliation is **RECONCILED / PASS**.
+
+Durable record:
+- `PART_003_GLOSSARY_RECONCILIATION.md`
+
+Accounting:
+- English files checked — **5/5**
+- scan coverage — **61–90 / 30 pages**
+- accidental English spelling/romanization drift requiring section edits — **0**
+- English section files changed by reconciliation — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil body edits — **0**
+- frozen Part001/Part002 English body edits — **0**
+- Part004 leakage — **0**
+
+Reconciled source-derived distinctions include:
+- **Pandaraka Vanniyan / Pandara Vanniyan**
+- **Kuruvichchi Naachchi / Kuruvichchi Naachchiyar / Kuruvii**
+- **Sundaralingam / Sundaralinga Kudumbar**
+- **Sangili Thatha / Sangili Thalapathi / Sangiliyar**
+- **Kaakkai Vanniyan / Kaakkai**
+- **Thanga Naachchi / Thanga Naachchiyammai / Thanga Naachchiyar**
+- **Kattabomman / Veerapandiya Kattabomman**
+- source-sensitive **white...** versus **British...** labels
+- **Vaira Muthu / Kulasekaram Vairamuthu**
+- **Muthu Maaligai** as source-facing label versus translated pearl imagery.
+
+## Exact next gate
+
+**Part003 English editorial review — all 5 maintained English files / scans61–90.**
+
+Do not begin bilingual review until editorial review closes.

@@ -153,7 +153,9 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - Part003 English translated/source-checked files — **5/5**
 - Part003 E10–E14 — **SOURCE-CHECKED / COMPLETE**
 - Part003 unresolved English holds — **0**
-- Part003 glossary reconciliation — **NEXT / NOT STARTED**
+- Part003 English glossary reconciliation — **RECONCILED / PASS**
+- Part003 glossary-reconciliation English section edits — **0**
+- Part003 English editorial review — **NEXT GATE / NOT STARTED**
 - Part004 transcription — **BLOCKED**
 - audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION**
 - terminal page function for complete 477-scan source — **not yet visually audited**
@@ -180,6 +182,6 @@ Durable rule:
 
 ## Exact next activity
 
-Perform **Part003 whole-Part English glossary reconciliation** across E10–E14 from the closed source-checked English layer.
+Perform **Part003 English editorial review** across all five maintained English files / scans61–90.
 
-Do not reopen the source PDF or begin Part004 transcription.
+Do not begin bilingual review until editorial review closes. Do not begin Part004 transcription.

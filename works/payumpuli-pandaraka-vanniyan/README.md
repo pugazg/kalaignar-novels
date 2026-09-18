@@ -73,7 +73,7 @@ Durable Part002 records:
 - `PART_002_RELEASE_READY_SYNC.md`
 - `translations/en/PART_002_PROGRESS.md`
 
-## Part003 — ACTIVE / ENGLISH E10–E14 SOURCE-CHECKED
+## Part003 — ACTIVE / ENGLISH GLOSSARY RECONCILED
 
 Controlling source:
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
@@ -97,7 +97,9 @@ Current verified Tamil state:
 - English translated/source-checked files — **5/5**
 - E10–E14 — **SOURCE-CHECKED / COMPLETE**
 - unresolved English holds — **0**
-- English glossary reconciliation — **NEXT GATE / NOT STARTED**
+- English glossary reconciliation — **RECONCILED / PASS**
+- glossary reconciliation English section edits — **0**
+- English editorial review — **NEXT GATE / NOT STARTED**
 - incoming 60→61 — **CLEAN / AUDITED**
 - outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
 
@@ -125,10 +127,11 @@ Durable Part003 records:
 - `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 - `translations/en/PART_003_TRANSLATION_PLAN.md`
 - `translations/en/PART_003_GLOSSARY.md`
+- `translations/en/PART_003_GLOSSARY_RECONCILIATION.md`
 - `translations/en/PART_003_PROGRESS.md`
 
 ## Exact next activity
 
-Perform **Part003 whole-Part English glossary reconciliation** across E10–E14.
+Perform **Part003 English editorial review** across all five maintained English files / scans61–90.
 
-Do not begin editorial review or Part004 transcription until reconciliation closes.
+Do not begin bilingual review or Part004 transcription until editorial review closes.

@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001 and Part002 are **FINAL CLOSED / FROZEN**. Part003 is **ACTIVE / AUTHORIZED — ENGLISH PLANNING / SETUP COMPLETE / PASS**.
+Part001 and Part002 are **FINAL CLOSED / FROZEN**. Part003 is **ACTIVE / AUTHORIZED — ENGLISH GLOSSARY RECONCILED / PASS**.
 
 ## Tamil Part workflow
 
@@ -87,10 +87,12 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part003 English translated/source-checked: 5/5**
 - **Part003 E10–E14: SOURCE-CHECKED / COMPLETE**
 - **Part003 unresolved English holds: 0**
-- **Part003 glossary reconciliation: NEXT / NOT STARTED**
+- **Part003 English glossary reconciliation: RECONCILED / PASS**
+- **Part003 glossary-reconciliation English section edits: 0**
+- **Part003 English editorial review: NEXT GATE / NOT STARTED**
 
 ## Exact next gate
 
-Perform **Part003 whole-Part English glossary reconciliation** across E10–E14 / scans61–90.
+Perform **Part003 English editorial review** across all five maintained English files / scans61–90.
 
-Do not begin editorial review until reconciliation closes. Do not reopen verified Tamil or begin Part004 transcription.
+Do not begin bilingual review until editorial review closes. Do not begin Part004 transcription.

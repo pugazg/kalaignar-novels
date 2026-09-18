@@ -830,3 +830,28 @@ Durable source-checks:
 Current next gate:
 
 **Part003 whole-Part English glossary reconciliation.**
+
+
+## Part003 whole-Part English glossary reconciliation — RECONCILED / PASS
+
+All five source-checked Part003 English files were reconciled together across scans61–90.
+
+Result:
+- English files checked — **5/5**
+- scan coverage — **61–90 / 30 pages**
+- accidental English spelling/romanization drift requiring section edits — **0**
+- English section files changed by reconciliation — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil body edits — **0**
+- frozen Part001/Part002 English body edits — **0**
+- Part004 leakage — **0**
+- incoming 60→61 CLEAN boundary — **retained**
+- outgoing 90→91 GENUINE CONTINUATION — **retained without importing scan91**
+
+Durable record:
+- `translations/en/PART_003_GLOSSARY_RECONCILIATION.md`
+
+Current next gate:
+
+**Part003 English editorial review across all five maintained English files / scans61–90.**

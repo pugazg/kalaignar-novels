@@ -152,6 +152,6 @@ No Batch-3 occurrence required a historical-glyph identity change, ordinary lexi
 
 ## Exact next activity
 
-Perform **Part003 whole-Part English glossary reconciliation** across E10–E14.
+Perform **Part003 English editorial review** across all five maintained English files / scans61–90.
 
-Current downstream state: E10–E14 are **SOURCE-CHECKED / COMPLETE — 5/5** with **0 unresolved English holds**. Do not begin editorial review or Part004 transcription until glossary reconciliation closes.
+Downstream English state: E10–E14 are **SOURCE-CHECKED / COMPLETE — 5/5** and whole-Part glossary reconciliation is **RECONCILED / PASS**, with **0 unresolved English/glossary holds**. Do not begin bilingual review or Part004 transcription until editorial review closes.

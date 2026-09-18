@@ -97,7 +97,10 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part003 English translated/source-checked files — **5/5**
 - Part003 E10–E14 — **SOURCE-CHECKED / COMPLETE**
 - Part003 unresolved English holds — **0**
-- Part003 glossary reconciliation — **NEXT / NOT STARTED**
+- Part003 English glossary reconciliation — **RECONCILED / PASS**
+- Part003 glossary-reconciliation English section edits — **0**
+- Part003 English editorial review — **NEXT GATE / NOT STARTED**
+
 - Part004 transcription — **BLOCKED**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
@@ -115,9 +118,10 @@ Authoritative Part003 closure records:
 - `PART_003_AUDIT.md`
 - `PART_003_FINAL_STATUS_SYNC.md`
 - `PART_003_DOCUMENTATION_SYNC.md`
+- `translations/en/PART_003_GLOSSARY_RECONCILIATION.md`
 
 ## Exact next activity
 
-Perform **Part003 whole-Part English glossary reconciliation** across E10–E14.
+Perform **Part003 English editorial review** across all five maintained English files / scans61–90.
 
-Part001 and Part002 remain frozen. Do not begin Part004 transcription.
+Do not begin bilingual review until editorial review closes. Do not begin Part004 transcription.

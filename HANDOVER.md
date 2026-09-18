@@ -71,7 +71,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
-## Part003 — ACTIVE / ENGLISH E10–E14 SOURCE-CHECKED
+## Part003 — ACTIVE / ENGLISH GLOSSARY RECONCILED
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
 - global scans — **61–90**
@@ -100,12 +100,14 @@ Durable records:
 - E10–E14 — **SOURCE-CHECKED / COMPLETE**
 - English translated/source-checked files — **5/5**
 - unresolved English holds — **0**
-- English glossary reconciliation — **NEXT GATE / NOT STARTED**
+- English glossary reconciliation — **RECONCILED / PASS**
+- glossary reconciliation English section edits — **0**
+- English editorial review — **NEXT GATE / NOT STARTED**
 
 Part001 and Part002 are frozen.
 
 ## Exact next activity
 
-Perform **Part003 whole-Part English glossary reconciliation** across E10–E14 / scans61–90.
+Perform **Part003 English editorial review** across all 5 maintained English files / scans61–90.
 
-Do not begin editorial review until glossary reconciliation closes. Keep canonical/assembled Tamil and frozen Part001/Part002 English unchanged. Do not begin Part004 transcription.
+Do not begin bilingual review until editorial review closes. Keep canonical/assembled Tamil and frozen Part001/Part002 English unchanged. Do not begin Part004 transcription.
