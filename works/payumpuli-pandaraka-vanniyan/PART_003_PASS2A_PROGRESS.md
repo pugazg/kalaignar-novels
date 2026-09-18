@@ -36,7 +36,8 @@ For every reviewed scan:
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 2B cumulative — **0 historical-glyph corrections; 0 other corrections; 0 unresolved**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part audit — **NOT STARTED**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **NOT STARTED**
 
 ## Batch 1 — scans61–70
 
@@ -152,6 +153,6 @@ Durable outgoing audit:
 
 ## Exact next activity
 
-Perform **Part003 Part audit**.
+Perform **Part003 final metadata/status synchronization**.
 
-Passes 2A, 2B and 3 are closed.
+Use the completed Part audit as the promotion gate. Do not begin documentation synchronization or Part004 transcription in the same iteration.

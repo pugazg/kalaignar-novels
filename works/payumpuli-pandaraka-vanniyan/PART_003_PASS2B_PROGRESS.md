@@ -43,7 +43,8 @@ Page records remain `needs-review`; final `verified` promotion is reserved for l
 - cumulative other lexical / punctuation corrections — **0**
 - unresolved historical-glyph identities — **0**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
-- Part audit — **NOT STARTED**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **NOT STARTED**
 
 ## Batch 1 — scans61–70
 
@@ -144,6 +145,6 @@ No Batch-3 occurrence required a historical-glyph identity change, ordinary lexi
 
 ## Exact next activity
 
-Perform **Part003 Part audit**.
+Perform **Part003 final metadata/status synchronization**.
 
-Do not perform final metadata/status promotion or begin Part004 transcription in the Part-audit iteration.
+Use the completed Part audit as the promotion gate. Do not begin documentation synchronization or Part004 transcription in the same iteration.

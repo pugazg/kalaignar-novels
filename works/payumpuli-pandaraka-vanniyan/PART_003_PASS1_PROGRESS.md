@@ -22,7 +22,8 @@ Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 - Pass 2A: **COMPLETE / PASS — 30/30 REVIEWED; 0 corrections; 0 unresolved**
 - Pass 2B: **COMPLETE / PASS — 30/30 REVIEWED; 0 historical-glyph corrections; 0 other corrections; 0 unresolved**
 - Pass 3: **COMPLETE / PASS — 30/30 REVIEWED; 0 textual corrections; 0 unresolved visual/structural questions**
-- Part audit: **NOT STARTED**
+- Part audit: **PASS / COMPLETE**
+- final metadata/status synchronization: **NOT STARTED**
 - outgoing 90→91 boundary audit: **GENUINE CONTINUATION / AUDITED**
 
 All Part003 Pass-1 records remain non-final:
@@ -119,6 +120,6 @@ The bootstrap referenced HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md, but that
 
 ## Exact next activity
 
-Perform **Part003 Part audit**.
+Perform **Part003 final metadata/status synchronization**.
 
-Passes 1, 2A, 2B and 3 are closed.
+Use the completed Part audit as the promotion gate. Do not begin documentation synchronization or Part004 transcription in the same iteration.

@@ -47,7 +47,8 @@ until Part audit and final metadata/status synchronization close.
 - Batch 3 scans81–90 — **0 textual corrections; 0 unresolved visual/structural questions**
 - cumulative Pass 3 textual corrections — **0**
 - cumulative unresolved visual/structural questions — **0**
-- Part audit — **NOT STARTED**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **NOT STARTED**
 
 ## Batch 1 — scans61–70
 
@@ -124,15 +125,6 @@ No blocker remains for the Part-audit gate.
 
 ## Exact next activity
 
-Perform **Part003 Part audit**.
+Perform **Part003 final metadata/status synchronization**.
 
-The audit should reconcile:
-- 30/30 canonical records and metadata continuity;
-- Pass1 / Pass2A / Pass2B / Pass3 evidence;
-- printed-page and section map;
-- cross-page joins and both split-boundary audits;
-- correction ledger;
-- body/non-body classification;
-- unresolved-item accounting.
-
-Do not perform final metadata/status promotion or begin Part004 transcription in the Part-audit iteration.
+Use the completed Part audit as the promotion gate. Do not begin documentation synchronization or Part004 transcription in the same iteration.
