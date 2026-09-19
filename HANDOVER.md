@@ -194,7 +194,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E16_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
 
-## Part005 — ACTIVE / PASS 1 COMPLETE / PASS 2A NEXT
+## Part005 — ACTIVE / PASS 2A COMPLETE / PASS 2B NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
 - global scans — **121–150**
@@ -204,16 +204,20 @@ Durable records:
 - outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - unresolved Pass-1 source-reading holds — **0**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2A cumulative source-text corrections — **7**
+- Pass 2A unresolved textual questions — **0**
 - scan150 / printed140 terminal fragment — **`என்னுடன் வாழ வேண்டாம் என நான்`**
 - Part006 scan151 / printed141 witness begins — **`சொல்லவில்லையே! என்செய்வது, நாமிருவரும் எடுத்துக் கொண்ட உறுதி மொழியின்படி...`**
-- Pass 2A — **NOT STARTED / NEXT GATE**
+- Pass 2B — **NOT STARTED / NEXT GATE**
 - Part001–Part004 — **FINAL CLOSED / FROZEN**
 
-Durable boundary record:
+Durable records:
+- `works/payumpuli-pandaraka-vanniyan/PART_005_PASS2A_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_005_BOUNDARY_AUDIT_150_151.md`
 
 ## Exact next activity
 
-Begin **Part005 Pass 2A — global scans121–130 / local pages1–10**.
+Begin **Part005 Pass 2B — global scans121–130 / local pages1–10**.
 
-Do not modify frozen Part001–Part004 body layers. Do not create Part006 canonical records. Do not begin Pass 2B until Part005 Pass 2A covers scans121–150.
+Do not modify frozen Part001–Part004 body layers. Do not create Part006 canonical records. Do not begin Pass 3 until Part005 Pass 2B covers scans121–150.

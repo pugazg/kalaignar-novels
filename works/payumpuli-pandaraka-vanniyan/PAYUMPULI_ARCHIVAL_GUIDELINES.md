@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001–Part004 are **FINAL CLOSED / FROZEN**. Part005 is **ACTIVE / AUTHORIZED — PASS 1 IN PROGRESS**.
+Part001–Part004 are **FINAL CLOSED / FROZEN**. Part005 is **ACTIVE / AUTHORIZED — PASS 2A COMPLETE / PASS 2B NEXT**.
 
 ## Tamil Part workflow
 
@@ -140,18 +140,19 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part004 release/readiness: PASS / CLOSED**
 - **Part004 release-ready synchronization: PASS / CLOSED**
 - **Part004 final closure: PASS / CLOSED / FROZEN**
-- **Part005: ACTIVE / AUTHORIZED — PASS 1 COMPLETE / PASS 2A NEXT**
+- **Part005: ACTIVE / AUTHORIZED — PASS 2A COMPLETE / PASS 2B NEXT**
 - **Part005 canonical range: scans121–150**
 - **Part005 canonical page records: 30/30 — scans121–150**
 - **Part005 incoming 120→121: GENUINE CONTINUATION / AUDITED**
 - **Part005 outgoing 150→151: GENUINE CONTINUATION / AUDITED**
 - **Part005 Pass 1: COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - **Part005 unresolved Pass-1 source-reading holds: 0**
-- **Part005 Pass 2A: NOT STARTED / NEXT GATE**
-- **Part005 first Pass-2A batch: scans121–130 / local pages1–10**
+- **Part005 Pass 2A: COMPLETE / PASS — 30/30 REVIEWED — 7 source-text corrections; 0 unresolved**
+- **Part005 Pass 2B: NOT STARTED / NEXT GATE**
+- **Part005 first Pass-2B batch: scans121–130 / local pages1–10**
 
 ## Exact next gate
 
-Begin **Part005 Pass 2A — global scans121–130 / local pages1–10**.
+Begin **Part005 Pass 2B — global scans121–130 / local pages1–10**.
 
-Preserve frozen Part001–Part004 body layers and both audited Part005 boundaries. Do not create Part006 canonical records and do not begin Pass 2B until Part005 Pass 2A covers scans121–150.
+Preserve frozen Part001–Part004 body layers and both audited Part005 boundaries. Do not create Part006 canonical records and do not begin Pass 3 until Part005 Pass 2B covers scans121–150.

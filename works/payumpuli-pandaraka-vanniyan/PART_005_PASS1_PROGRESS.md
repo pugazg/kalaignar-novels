@@ -21,7 +21,8 @@ Part001–Part004 remain **FINAL CLOSED / FROZEN**.
 - unresolved Pass-1 source-reading holds: **0**
 - incoming 120→121 boundary: **GENUINE CONTINUATION / AUDITED**
 - outgoing 150→151 boundary: **GENUINE CONTINUATION / AUDITED**
-- Pass 2A: **NOT STARTED / NEXT GATE**
+- Pass 2A: **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text corrections; 0 unresolved**
+- Pass 2B: **NOT STARTED / NEXT GATE**
 
 All Part005 Pass-1 records remain non-final:
 - `status: "needs-review"`
@@ -88,8 +89,15 @@ Durable outgoing-boundary authority:
 
 The controlling source is the user-supplied Part005 split PDF rendered to page images and inspected directly. Part006 local page1 / global scan151 was rendered only as the adjacent outgoing-boundary witness. Source wording, punctuation, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end fragments are preserved from source pixels. OCR is not treated as source authority.
 
+## Downstream state
+
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2A source-text corrections — **7**
+- Pass 2A unresolved textual questions — **0**
+- Pass 2B — **NOT STARTED / NEXT GATE**
+
 ## Exact next activity
 
-Begin **Part005 Pass 2A — direct textual verification, global scans121–130 / local pages1–10**.
+Begin **Part005 Pass 2B — independent lexical / historical-glyph reread, global scans121–130 / local pages1–10**.
 
-Do not begin Pass 2B or Pass 3. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.
+Do not begin Pass 3. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.
