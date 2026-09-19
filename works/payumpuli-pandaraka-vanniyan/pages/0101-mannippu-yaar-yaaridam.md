@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_004_pages_91-120.pdf"
-transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch scans101–110"
+transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch scans101–110; formal Part004 Pass 2A reviewed"
 ---
 
 # மன்னிப்பு யார்? யாரிடம்?
@@ -46,5 +46,13 @@ transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch s
 - source-visible question `என் மன்னிப்புக் கேட்க வேண்டும்?` and the irregular quote punctuation before `வருகிறேன்!` are retained exactly;
 - no scan100 body text is copied into this Part004 record;
 - status and visual fidelity remain `needs-review`.
+
+## Formal Part004 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue and physical page-boundary comparison completed against the user-supplied Part004 source pixels;
+- source-text corrections: **0**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 101; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 11; அச்சுப் பக்கம்: 91; PASS 1 TEXT-COMPLETE / needs-review -->

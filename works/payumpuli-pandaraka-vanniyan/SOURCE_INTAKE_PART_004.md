@@ -55,12 +55,13 @@ Part 004 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE PART / PA
 - canonical Part004 page records — **30/30**
 - Part004 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - unresolved Pass-1 source-reading holds — **0**
-- Part004 Pass 2A — **NOT STARTED**
+- Part004 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 0 corrections; 0 unresolved**
+- Part004 Pass 2B — **NOT STARTED**
 
 Part003 remains **FINAL CLOSED / FROZEN**. Part005 scan121 was inspected only as an outgoing boundary witness; no Part005 canonical record was created.
 
 ## Exact next activity
 
-Begin **Part004 Pass 2A — global scans91–100 / local pages1–10**.
+Begin **Part004 Pass 2B — independent lexical / historical-glyph reread, global scans91–100 / local pages1–10**.
 
-Perform direct textual verification against the supplied Part004 source images. Do not begin Part005 transcription.
+Do not begin Part005 transcription.

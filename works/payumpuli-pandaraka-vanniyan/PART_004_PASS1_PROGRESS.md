@@ -19,7 +19,7 @@ Part001, Part002 and Part003 remain **FINAL CLOSED / FROZEN**.
 - Pass-1 text-complete records: **30/30 — scans91–120**
 - Pass-1 transcription pending: **0**
 - unresolved Pass-1 source-reading holds: **0**
-- Pass 2A: **NOT STARTED**
+- Pass 2A: **COMPLETE / PASS — 30/30 REVIEWED; 0 corrections; 0 unresolved**
 - incoming 90→91 boundary: **GENUINE CONTINUATION / AUDITED**
 - outgoing 120→121 boundary: **GENUINE CONTINUATION / AUDITED**
 
@@ -101,6 +101,9 @@ Durable boundary record:
 
 ## Exact next activity
 
-Begin **Part004 Pass 2A — global scans91–100 / local pages1–10** as direct textual verification against the supplied Part004 source images.
+Begin **Part004 Pass 2B — independent lexical / historical-glyph reread, global scans91–100 / local pages1–10**.
+
+Pass 2A durable record:
+- `PART_004_PASS2A_PROGRESS.md`
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 body files.
