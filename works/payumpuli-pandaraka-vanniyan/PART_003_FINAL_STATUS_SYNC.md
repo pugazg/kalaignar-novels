@@ -132,3 +132,22 @@ Perform the separate **Part003 documentation synchronization** gate.
 That gate should reconcile README, handover, page map, source metadata, workflow trackers and related live-frontier controls to this verified 30/30 state without changing any Part003 page record.
 
 Do not begin the Tamil archival-ready checkpoint, assembled Tamil / English workflow, final Part003 closure, or Part004 transcription until documentation synchronization is complete.
+
+
+## Final closure state
+
+The earlier gate in this file remains historically closed and authoritative.
+
+Part003 subsequently reached:
+
+**PART003 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+Final closure introduced:
+- canonical Tamil body changes — **0**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- Part004 leakage — **0**
+
+Part004 is now **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+
+Exact next activity: **Part004 Pass 1 — global scans91–100 / local pages1–10**.

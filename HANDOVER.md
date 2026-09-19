@@ -71,7 +71,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
-## Part003 — ACTIVE / RELEASE-READY SYNCHRONIZATION CLOSED
+## Part003 — FINAL CLOSED / FROZEN
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
 - global scans — **61–90**
@@ -114,12 +114,28 @@ Durable records:
 - release-ready synchronization — **PASS / CLOSED**
 - release-sync canonical/assembled/English body changes — **0**
 - release-sync source-variant collapses — **0**
-- final closure — **NEXT GATE / NOT STARTED**
+- final closure — **PASS / CLOSED / FROZEN**
 
 Part001 and Part002 are frozen.
 
+Durable final record:
+- `works/payumpuli-pandaraka-vanniyan/PART_003_FINAL_CLOSURE.md`
+
+## Part004 — NEXT ACTIVE / AUTHORIZED / NOT STARTED
+
+- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_004_pages_91-120.pdf`
+- global scans — **91–120**
+- local pages — **1–30**
+- incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 120→121 — **PENDING direct audit**
+- canonical Part004 page records — **0**
+- Part004 Pass 1 — **NOT STARTED**
+- first normal Pass-1 batch — **global scans91–100 / local pages1–10**
+
 ## Exact next activity
 
-Create and verify **Part003 final closure** `works/payumpuli-pandaraka-vanniyan/PART_003_FINAL_CLOSURE.md`.
+Begin **Part004 Pass 1** with **global scans91–100 / Part004 local pages1–10**.
 
-Do not begin Part004 transcription until final Part003 closure passes.
+Create canonical page records with exact Part004 provenance and create/update `works/payumpuli-pandaraka-vanniyan/PART_004_PASS1_PROGRESS.md`.
+
+Preserve incoming **90→91 GENUINE CONTINUATION / AUDITED**. Do not begin Pass 2A until Part004 Pass 1 covers all scans91–120.

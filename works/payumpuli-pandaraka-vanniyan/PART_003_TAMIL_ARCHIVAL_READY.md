@@ -355,3 +355,23 @@ Part003 subsequently completed:
 Current next gate:
 
 **Part003 final closure.**
+
+
+## Final closure state
+
+The earlier Tamil gate in this file remains closed and authoritative.
+
+Part003 subsequently reached:
+
+**PART003 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+Final closure changed:
+- canonical Tamil body text — **0**
+- assembled Tamil body text — **0**
+- maintained English body text — **0**
+- protected source variants — **0**
+- Part004 body content imported — **0**
+
+Part004 is now **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+
+Exact next activity: **Part004 Pass 1 — global scans91–100 / local pages1–10**.

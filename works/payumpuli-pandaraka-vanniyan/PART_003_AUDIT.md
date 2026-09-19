@@ -186,3 +186,22 @@ Perform **Part003 final metadata/status synchronization**.
 That next gate may promote the two final per-page status fields only from this now-audited evidence, following the established Part002 metadata-only method.
 
 Do not begin documentation synchronization, Tamil archival-ready, assembled Tamil / English work, or Part004 transcription in this audit iteration.
+
+
+## Final closure state
+
+The earlier gate in this file remains historically closed and authoritative.
+
+Part003 subsequently reached:
+
+**PART003 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+Final closure introduced:
+- canonical Tamil body changes — **0**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- Part004 leakage — **0**
+
+Part004 is now **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+
+Exact next activity: **Part004 Pass 1 — global scans91–100 / local pages1–10**.

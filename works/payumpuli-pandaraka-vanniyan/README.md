@@ -73,7 +73,7 @@ Durable Part002 records:
 - `PART_002_RELEASE_READY_SYNC.md`
 - `translations/en/PART_002_PROGRESS.md`
 
-## Part003 — ACTIVE / RELEASE-READY SYNCHRONIZATION CLOSED
+## Part003 — FINAL CLOSED / FROZEN
 
 Controlling source:
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
@@ -111,7 +111,7 @@ Current verified Tamil state:
 - release-ready synchronization — **PASS / CLOSED**
 - release-sync canonical/assembled/English body changes — **0**
 - release-sync source-variant collapses — **0**
-- final closure — **NEXT GATE / NOT STARTED**
+- final closure — **PASS / CLOSED / FROZEN**
 - incoming 60→61 — **CLEAN / AUDITED**
 - outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
 
@@ -144,10 +144,24 @@ Durable Part003 records:
 - `translations/en/PART_003_BILINGUAL_REVIEW.md`
 - `translations/en/PART_003_RELEASE_REPORT.md`
 - `PART_003_RELEASE_READY_SYNC.md`
+- `PART_003_FINAL_CLOSURE.md`
 - `translations/en/PART_003_PROGRESS.md`
+
+## Part004 — NEXT ACTIVE / AUTHORIZED / NOT STARTED
+
+Controlling source:
+`TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_004_pages_91-120.pdf`
+
+- canonical range — **91–120**
+- local pages — **1–30**
+- incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 120→121 — **PENDING direct audit**
+- canonical page records — **0**
+- Pass 1 — **NOT STARTED**
+- first normal batch — **global scans91–100 / local pages1–10**
 
 ## Exact next activity
 
-Create and verify **Part003 final closure** `PART_003_FINAL_CLOSURE.md`.
+Begin **Part004 Pass 1 — global scans91–100 / local pages1–10**.
 
-Do not begin Part004 transcription until final Part003 closure passes.
+Do not begin Pass 2A until the full Part004 Pass 1 covers scans91–120.

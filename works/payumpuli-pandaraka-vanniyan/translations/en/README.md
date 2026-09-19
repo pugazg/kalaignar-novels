@@ -337,3 +337,28 @@ Durable record:
 Create and verify **Part003 final closure** `../../PART_003_FINAL_CLOSURE.md`.
 
 Do not begin Part004 transcription until final closure passes.
+
+
+## Part003 final closure — PASS / CLOSED / FROZEN
+
+Part003 maintained English is fully closed:
+
+- E10–E14 source-check — **5/5 COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
+
+Durable final record:
+- `../../PART_003_FINAL_CLOSURE.md`
+
+Part004 is now **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+
+## Current exact next activity
+
+Begin **Part004 Pass 1 — global scans91–100 / local pages1–10**.
+
+Do not modify frozen Part003 English merely to advance Part004.

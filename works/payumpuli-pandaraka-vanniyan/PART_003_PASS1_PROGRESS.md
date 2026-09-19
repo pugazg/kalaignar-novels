@@ -126,8 +126,18 @@ The controlling source is the user-supplied split PDF rendered to page images an
 
 The bootstrap referenced HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md, but that path is absent from live main. No replacement guide was invented. Historical/reform-sensitive glyph identity was handled occurrence-by-occurrence from the source pixels, following the established Part002 canonical-record precedent.
 
+## Post-final-closure state
+
+Part003 is now **FINAL CLOSED / FROZEN**.
+
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- post-release canonical/assembled/English body drift — **0**
+- Part004 leakage — **0**
+
 ## Exact next activity
 
-Create and verify **Part003 final closure** `PART_003_FINAL_CLOSURE.md`.
+Begin **Part004 Pass 1 — global scans91–100 / local pages1–10**.
 
-Current downstream state: release/readiness and release-ready synchronization are both **PASS / CLOSED**, with **0** canonical/assembled/English body changes and **0** source-variant collapses. Do not begin Part004 transcription until final Part003 closure passes.
+Do not reopen frozen Part003 for routine downstream work.

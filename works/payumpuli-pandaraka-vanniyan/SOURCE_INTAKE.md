@@ -111,9 +111,11 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part003 release-ready synchronization — **PASS / CLOSED**
 - Part003 release-sync canonical/assembled/English body changes — **0**
 - Part003 release-sync source-variant collapses — **0**
-- Part003 final closure — **NEXT GATE / NOT STARTED**
+- Part003 final closure — **PASS / CLOSED / FROZEN**
 
-- Part004 transcription — **BLOCKED**
+- Part004 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part004 canonical page records — **0**
+- Part004 first Pass-1 batch — **scans91–100 / local pages1–10**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
 - boundary 90→91 — **GENUINE CONTINUATION / AUDITED**
@@ -131,9 +133,10 @@ Authoritative Part003 closure records:
 - `PART_003_FINAL_STATUS_SYNC.md`
 - `PART_003_DOCUMENTATION_SYNC.md`
 - `translations/en/PART_003_GLOSSARY_RECONCILIATION.md`
+- `PART_003_FINAL_CLOSURE.md`
 
 ## Exact next activity
 
-Create and verify **Part003 final closure** `PART_003_FINAL_CLOSURE.md`.
+Begin **Part004 Pass 1 — global scans91–100 / local pages1–10**.
 
-Do not begin Part004 transcription until final Part003 closure passes.
+Preserve the audited incoming 90→91 continuation and do not begin Pass 2A until Part004 Pass 1 closes across scans91–120.

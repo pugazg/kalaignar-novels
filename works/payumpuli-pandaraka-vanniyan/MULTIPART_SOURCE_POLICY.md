@@ -70,9 +70,11 @@ For every `N→N+1` boundary:
 - Part003 release-ready synchronization — **PASS / CLOSED**
 - Part003 release-sync canonical/assembled/English body changes — **0**
 - Part003 release-sync source-variant collapses — **0**
-- Part003 final closure — **NEXT GATE / NOT STARTED**
+- Part003 final closure — **PASS / CLOSED / FROZEN**
 
-- Part004 transcription — **BLOCKED**
+- Part004 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part004 canonical page records — **0**
+- Part004 Pass 1 — **NOT STARTED**
 - split-boundary classifications — **3 / 15 audited**
 
 Audited boundaries:
@@ -89,6 +91,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part003 final closure.**
+**Part004 Pass 1 — global scans91–100 / local pages1–10.**
 
-Part001 and Part002 remain frozen. Do not begin Part004 transcription until Part003 final closure passes.
+Part001–Part003 remain frozen. Preserve incoming 90→91 GENUINE CONTINUATION / AUDITED.

@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED — split identity and global mapping are durable; incoming boundary witness audit complete.**
+**SUPPLIED / REGISTERED / AUTHORIZED — NEXT ACTIVE PART / NOT STARTED.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **91–120**;
@@ -47,10 +47,17 @@ The canonical `scan_page` remains the overall scan number **91–120**.
 
 ## Current gate
 
-Part 004 source split: **SUPPLIED / REGISTERED**.
+Part 004 source split: **SUPPLIED / REGISTERED / AUTHORIZED — NEXT ACTIVE PART / NOT STARTED**.
 
 - incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
 - canonical Part004 page records — **0**
 - Part004 Pass 1 — **NOT STARTED**
 
-This Part waits behind the global active frontier. Part003 remains active. Do not create Part004 page records until the complete maintained Part003 workflow closes.
+Part003 is now **FINAL CLOSED / FROZEN**. Part004 is authorized to begin on the next explicit continuation. No Part004 canonical page record has yet been created.
+
+
+## Exact next activity
+
+Begin **Part004 Pass 1 — global scans91–100 / local pages1–10**.
+
+Create canonical page records using exact Part004 provenance. Preserve incoming **90→91 GENUINE CONTINUATION / AUDITED**. Do not begin Pass 2A until Part004 Pass 1 covers scans91–120.

@@ -167,8 +167,10 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - Part003 release-ready synchronization — **PASS / CLOSED**
 - Part003 release-sync canonical/assembled/English body changes — **0**
 - Part003 release-sync source-variant collapses — **0**
-- Part003 final closure — **NEXT GATE / NOT STARTED**
-- Part004 transcription — **BLOCKED**
+- Part003 final closure — **PASS / CLOSED / FROZEN**
+- Part004 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part004 canonical page records — **0**
+- Part004 first Pass-1 batch — **scans91–100 / local pages1–10**
 - audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION**
 - terminal page function for complete 477-scan source — **not yet visually audited**
 
@@ -194,6 +196,6 @@ Durable rule:
 
 ## Exact next activity
 
-Create and verify **Part003 final closure** `PART_003_FINAL_CLOSURE.md`.
+Begin **Part004 Pass 1 — global scans91–100 / local pages1–10**.
 
-Do not begin Part004 transcription until final Part003 closure passes.
+Do not reopen frozen Part003 for routine Part004 progress.

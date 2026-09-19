@@ -336,3 +336,22 @@ Do not begin final Part003 closure or Part004 transcription in the same gate.
 Create and verify **Part003 final closure** `../../PART_003_FINAL_CLOSURE.md`.
 
 Do not begin Part004 transcription until final closure passes.
+
+
+## Post-final-closure state
+
+Part003 subsequently reached:
+
+**PART003 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+Final closure changed:
+- canonical Tamil body text — **0**
+- assembled Tamil body text — **0**
+- maintained English body text — **0**
+- protected source variants — **0**
+- frozen Part001/Part002 body text — **0**
+- Part004 body content imported — **0**
+
+Part004 is now **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+
+Exact next activity: **Part004 Pass 1 — global scans91–100 / local pages1–10**.

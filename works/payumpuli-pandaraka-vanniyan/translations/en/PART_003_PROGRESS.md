@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART003 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED — FINAL CLOSURE NEXT**
+**PART003 FINAL CLOSURE — PASS / CLOSED / FROZEN**
 
 Part001 and Part002 English remain **FINAL CLOSED / FROZEN**.
 
@@ -18,7 +18,7 @@ Part001 and Part002 English remain **FINAL CLOSED / FROZEN**.
 | Bilingual | Part003 whole-Part bilingual review | 61–90 | **PASS / CLOSED** |
 | Release | Part003 release/readiness report | 61–90 | **PASS / CLOSED** |
 | Release sync | Part003 release-ready synchronization | 61–90 | **PASS / CLOSED** |
-| Final closure | Part003 final closure | 61–90 | **NOT STARTED** |
+| Final closure | Part003 final closure | 61–90 | **PASS / CLOSED / FROZEN** |
 
 ## Current counts
 
@@ -44,6 +44,8 @@ Part001 and Part002 English remain **FINAL CLOSED / FROZEN**.
 - release-ready synchronization — **PASS / CLOSED**
 - release-sync textual body changes — **0**
 - release-sync source-variant collapses — **0**
+- final closure — **PASS / CLOSED / FROZEN**
+- Part004 activation — **AUTHORIZED / NOT STARTED**
 - canonical Tamil edits caused by English planning — **0**
 - assembled Tamil edits caused by English planning — **0**
 - frozen Part001/Part002 English body edits caused by Part003 planning — **0**
@@ -134,6 +136,6 @@ Part004 remains blocked until Part003 final closure.
 
 ## Exact next activity
 
-Create and verify **Part003 final closure** `../../PART_003_FINAL_CLOSURE.md`.
+Begin **Part004 Pass 1 — global scans91–100 / local pages1–10**.
 
-Do not begin Part004 transcription until final Part003 closure passes.
+Do not reopen frozen Part003 English merely because Part004 advances.

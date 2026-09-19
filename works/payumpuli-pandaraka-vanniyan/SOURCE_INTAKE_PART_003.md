@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / RELEASE-READY SYNCHRONIZATION PASS / CLOSED.**
+**SUPPLIED / REGISTERED / FINAL CLOSED / FROZEN.**
 
 - local PDF pages: **30**
 - canonical overall scans: **61–90**
@@ -70,13 +70,15 @@ Part003 is therefore:
 - Part003 release-ready synchronization — **PASS / CLOSED**
 - Part003 release-sync canonical/assembled/English body changes — **0**
 - Part003 release-sync source-variant collapses — **0**
-- Part003 final closure — **NEXT GATE / NOT STARTED**
+- Part003 final closure — **PASS / CLOSED / FROZEN**
+- Part004 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part004 canonical page records — **0**
 
 - incoming 60→61 — **CLEAN / AUDITED**
 - outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
 
 ## Exact next activity
 
-Create and verify **Part003 final closure** `PART_003_FINAL_CLOSURE.md`.
+Begin **Part004 Pass 1 — global scans91–100 / local pages1–10**.
 
-Do not begin Part004 transcription until final Part003 closure passes.
+Do not reopen Part003 merely because Part004 advances.
