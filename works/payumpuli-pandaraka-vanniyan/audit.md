@@ -1074,3 +1074,26 @@ Durable validation:
 Perform **Part004 English translation planning/setup**.
 
 Do not draft English prose in the setup gate and do not begin Part005 transcription.
+
+## Part004 English planning/setup — COMPLETE / PASS
+
+The derived Part004 English control layer is initialized without drafting translated prose:
+
+- active plan — `translations/en/PART_004_TRANSLATION_PLAN.md`
+- active glossary — `translations/en/PART_004_GLOSSARY.md`
+- active progress — `translations/en/PART_004_PROGRESS.md`
+- planned batches — **E15–E19**
+- planned English section files — **5**
+- translated files created during planning — **0**
+- source-checked files — **0/5**
+- unresolved planning holds — **0**
+- canonical Tamil mutations — **0**
+- assembled Tamil body mutations — **0**
+- frozen Part001–Part003 English body mutations — **0**
+- Part005 leakage — **0**
+
+## Current Part004 frontier
+
+Perform **E15 — draft + source-check — section18 / scans91–94**.
+
+Do not begin E16 or Part005 transcription until E15 closes.

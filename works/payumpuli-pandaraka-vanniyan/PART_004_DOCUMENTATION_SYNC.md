@@ -164,3 +164,20 @@ Part004 subsequently completed:
 Current next gate:
 
 **Part004 English translation planning/setup.**
+
+## Post-documentation English planning/setup state
+
+This documentation synchronization gate remains historically closed.
+
+Part004 subsequently completed:
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
+- English planning/setup — **COMPLETE / PASS**
+- translated/source-checked English files — **0/5**
+- unresolved planning holds — **0**
+- canonical/assembled Tamil changes caused by planning — **0**
+- Part005 leakage — **0**
+
+Current next gate:
+
+**E15 — draft + source-check — scans91–94.**

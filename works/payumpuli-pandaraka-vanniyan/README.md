@@ -168,7 +168,9 @@ Current verified Tamil state:
 - unresolved Tamil / historical-glyph / visual-status exceptions — **0**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
-- English planning/setup — **NOT STARTED / NEXT GATE**
+- English planning/setup — **COMPLETE / PASS**
+- English translated/source-checked files — **0/5**
+- E15 — **NOT STARTED / NEXT GATE**
 - incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 120→121 — **GENUINE CONTINUATION / AUDITED**
 
@@ -193,9 +195,12 @@ Durable Part004 records:
 - `PART_004_DOCUMENTATION_SYNC.md`
 - `PART_004_TAMIL_ARCHIVAL_READY.md`
 - `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
+- `translations/en/PART_004_TRANSLATION_PLAN.md`
+- `translations/en/PART_004_GLOSSARY.md`
+- `translations/en/PART_004_PROGRESS.md`
 
 ## Exact next activity
 
-Begin **Part004 English translation planning/setup**.
+Begin **Part004 E15 — draft + source-check — scans91–94**.
 
 Do not modify verified Part004 canonical or assembled Tamil body text. Do not begin Part005 transcription.

@@ -362,3 +362,90 @@ Part004 is now **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
 Begin **Part004 Pass 1 — global scans91–100 / local pages1–10**.
 
 Do not modify frozen Part003 English merely to advance Part004.
+
+## Part004 — ACTIVE ENGLISH WORKFLOW
+
+Part004 Tamil prerequisites are closed:
+
+- canonical scans — **91–120**
+- canonical Tamil records — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
+- assembled coverage — **scans91–120 exactly**
+- unresolved Tamil / glyph / visual / status exceptions — **0**
+- incoming boundary — **90→91 GENUINE CONTINUATION / AUDITED**
+- outgoing boundary — **120→121 GENUINE CONTINUATION / AUDITED**
+- Part005 Tamil/English content imported — **0**
+
+Part004 English planning/setup is now **COMPLETE / PASS**.
+
+Active Part004 English controls:
+
+- `PART_004_TRANSLATION_PLAN.md`
+- `PART_004_GLOSSARY.md`
+- `PART_004_PROGRESS.md`
+
+Expected Tamil assembled inputs:
+- `../../sections/18-adhikaari-vazhangiya-aalosanai-part004.md` — scans91–94
+- `../../sections/19-mannippu-yaar-yaaridam.md` — scans95–102
+- `../../sections/20-maana-maraippu-marakkalaamaa.md` — scans103–109
+- `../../sections/21-aval-nadantha-paathai.md` — scans110–115
+- `../../sections/22-iruvar-ullam.md` — scans116–120
+
+## Part004 planned English section coverage
+
+| Tamil file | Planned English file | Scans | Batch | State |
+|---|---|---:|---|---|
+| `../../sections/18-adhikaari-vazhangiya-aalosanai-part004.md` | `sections/18-the-officers-advice-part004.md` | 91–94 | E15 | **NOT STARTED** |
+| `../../sections/19-mannippu-yaar-yaaridam.md` | `sections/19-who-should-apologize-to-whom.md` | 95–102 | E16 | **NOT STARTED** |
+| `../../sections/20-maana-maraippu-marakkalaamaa.md` | `sections/20-can-one-forget-the-concealment-of-honour.md` | 103–109 | E17 | **NOT STARTED** |
+| `../../sections/21-aval-nadantha-paathai.md` | `sections/21-the-path-she-walked.md` | 110–115 | E18 | **NOT STARTED** |
+| `../../sections/22-iruvar-ullam.md` | `sections/22-two-hearts.md` | 116–120 | E19 | **NOT STARTED** |
+
+## Part004 boundary safeguards
+
+Incoming:
+- scan90 ends at `என்னைப்`
+- 90→91 = **GENUINE CONTINUATION / AUDITED**
+- E15 begins with scan91 only
+- frozen Part003 English is not imported
+
+Outgoing:
+- scan120 ends at `தனது காதல் விலை`
+- scan121 witness begins `யாட்டுக் காயை சாமர்த்தியமாக...`
+- 120→121 = **GENUINE CONTINUATION / AUDITED**
+- E19 stops at scan120
+- scan121 / Part005 is not translated or imported
+
+## Part004 batch discipline
+
+E15 must close **draft + source-check** before E16 begins.  
+E16 must close before E17.  
+E17 must close before E18.  
+E18 must close before E19.
+
+After E19:
+- `PART_004_GLOSSARY_RECONCILIATION.md`
+- `PART_004_TRANSLATION_REVIEW.md`
+- `PART_004_BILINGUAL_REVIEW.md`
+- `PART_004_RELEASE_REPORT.md`
+- Part004 release-ready synchronization
+- Part004 final closure
+
+## Part004 planning closure state
+
+- planned batches — **E15–E19**
+- translated files — **0/5**
+- source-checked files — **0/5**
+- unresolved planning holds — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil body edits caused by planning — **0**
+- frozen Part001–Part003 English body edits — **0**
+- Part005 leakage — **0**
+
+## Current exact next activity
+
+Begin **E15 — draft + source-check — scans91–94**.
+
+Do not begin E16 until E15 closes. Do not begin Part005 transcription.

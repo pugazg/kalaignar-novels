@@ -144,3 +144,22 @@ Part004 assembled Tamil is now **PASS / CLOSED — 5/5 VERIFIED**.
 Begin **Part004 English translation planning/setup**.
 
 Do not draft English prose in this assembled-Tamil gate. Do not begin release/readiness, final Part004 closure or Part005 transcription.
+
+## Post-assembly English planning/setup
+
+This assembled-Tamil validation remains **PASS / CLOSED**.
+
+Part004 English planning/setup subsequently completed without reopening canonical or assembled Tamil:
+
+- planning/setup — **COMPLETE / PASS**
+- planned English batches — **E15–E19**
+- translated/source-checked files — **0/5**
+- unresolved planning holds — **0**
+- canonical Tamil changes caused by planning — **0**
+- assembled Tamil body changes caused by planning — **0**
+- frozen Part001–Part003 English body changes — **0**
+- Part005 leakage — **0**
+
+Current next gate:
+
+**E15 — draft + source-check — scans91–94.**

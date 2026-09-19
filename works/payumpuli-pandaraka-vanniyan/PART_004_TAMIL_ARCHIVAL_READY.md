@@ -224,3 +224,20 @@ Part004 assembled Tamil subsequently completed from the verified canonical Part0
 Current next gate:
 
 **Part004 English translation planning/setup.**
+
+## Post-assembly English planning/setup state
+
+Part004 Tamil remains **ARCHIVAL-READY / CLOSED**.
+
+English planning/setup subsequently completed without reopening canonical or assembled Tamil:
+
+- planning/setup — **COMPLETE / PASS**
+- planned English batches — **E15–E19**
+- translated/source-checked files — **0/5**
+- canonical Tamil changes caused by planning — **0**
+- assembled Tamil body changes caused by planning — **0**
+- Part005 leakage — **0**
+
+Current next gate:
+
+**E15 — draft + source-check — scans91–94.**
