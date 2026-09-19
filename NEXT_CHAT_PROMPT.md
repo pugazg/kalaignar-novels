@@ -1,25 +1,23 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part005 whole-Part bilingual review
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part005 release/readiness
 
-Continue from live `main`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue from live `main` in `pugazg/kalaignar-novels`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Part005 English:
+Part005 closed layers:
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **7/7 VERIFIED / CLOSED**
 - E20–E26 — **7/7 SOURCE-CHECKED**
 - glossary reconciliation — **RECONCILED / PASS**
-- editorial review — **PASS / CLOSED**
-- editorial English-only changes — **3**
-- source-alignment corrections — **1**
-- unresolved editorial holds — **0**
+- editorial review — **PASS / CLOSED — 3 English changes, 1 source-alignment**
+- bilingual review — **PASS / CLOSED — 0 further corrections**
+- unresolved Tamil/English holds — **0**
 
-Review all seven Tamil assembled sections against all seven maintained English files after editorial changes.
-
-Requirements:
-- recheck every editorial change;
-- check agency, chronology, dialogue, political-source attribution, names/variants, verse and boundary locks;
-- preserve E20 `*yaattuk kaayai*`, E21 illustration exclusion, E24 source variants, E26 incompleteness;
-- create `translations/en/PART_005_BILINGUAL_REVIEW.md`;
-- record any English-only corrections;
-- canonical/assembled Tamil edits **0**;
-- frozen prior-Part English edits **0**;
+Exact activity:
+- inspect live tree and confirm active-work source PDFs = **0**;
+- confirm Part005 canonical pages = **30**, assembled Tamil = **7**, maintained English = **7**;
+- verify boundary locks and protected source variants;
+- create `translations/en/PART_005_RELEASE_REPORT.md`;
+- release/readiness must change no canonical Tamil, assembled Tamil or maintained English body text;
+- frozen Part001–Part004 remain unchanged;
 - Part006 leakage **0**.
 
-Exact next gate after PASS: **Part005 release/readiness report**.
+Exact next gate after PASS: **Part005 release-ready synchronization**.

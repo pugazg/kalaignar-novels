@@ -628,6 +628,18 @@ Durable record:
 Durable record:
 - `PART_005_TRANSLATION_REVIEW.md`
 
+## Part005 bilingual review
+
+- result — **PASS / CLOSED**
+- Tamil/English pairs reviewed — **7/7**
+- editorial changes rechecked — **3/3**
+- bilingual English-only corrections — **0**
+- unresolved bilingual holds — **0**
+- unresolved Tamil-fidelity holds — **0**
+
+Durable record:
+- `PART_005_BILINGUAL_REVIEW.md`
+
 ## Current exact next activity
 
-Perform **Part005 whole-Part bilingual review** across all seven Tamil/English pairs.
+Create and complete **Part005 release/readiness report**.

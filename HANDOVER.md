@@ -194,7 +194,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E16_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
 
-## Part005 — ACTIVE / EDITORIAL CLOSED / BILINGUAL NEXT
+## Part005 — ACTIVE / BILINGUAL CLOSED / RELEASE NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
 - global scans — **121–150**
@@ -240,7 +240,11 @@ Durable records:
 - editorial English-only changes — **3**
 - source-alignment corrections within editorial total — **1**
 - unresolved editorial holds — **0**
-- whole-Part bilingual review — **NOT STARTED / NEXT GATE**
+- whole-Part bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections — **0**
+- unresolved bilingual holds — **0**
+- unresolved Tamil-fidelity holds — **0**
+- release/readiness — **NOT STARTED / NEXT GATE**
 - Part001–Part004 — **FINAL CLOSED / FROZEN**
 
 Durable records:
@@ -256,6 +260,6 @@ Durable records:
 
 ## Exact next activity
 
-Perform **Part005 whole-Part bilingual review** across all seven Tamil/English pairs.
+Create and complete **Part005 release/readiness report**.
 
-Recheck source alignment after editorial changes; preserve Tamil and Part006 exclusion.
+Confirm all closed layers and blocker accounting without changing body text or importing Part006 content.

@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART005 EDITORIAL REVIEW — PASS / CLOSED — BILINGUAL REVIEW NEXT**
+**PART005 BILINGUAL REVIEW — PASS / CLOSED — RELEASE/READINESS NEXT**
 
 Part001–Part004 English remain **FINAL CLOSED / FROZEN**.
 
@@ -17,7 +17,7 @@ Part001–Part004 English remain **FINAL CLOSED / FROZEN**.
 | **E26** | section29 — `குருவியும் - குயிலும்!` | 150 | **SOURCE-CHECKED / COMPLETE** |
 | Glossary | Part005 whole-Part reconciliation | 121–150 | **RECONCILED / PASS** |
 | Editorial | Part005 whole-Part English editorial review | 121–150 | **PASS / CLOSED** |
-| Bilingual | Part005 whole-Part bilingual review | 121–150 | **NOT STARTED** |
+| Bilingual | Part005 whole-Part bilingual review | 121–150 | **PASS / CLOSED** |
 | Release | Part005 release/readiness | 121–150 | **NOT STARTED** |
 | Release sync | Part005 release-ready synchronization | 121–150 | **NOT STARTED** |
 | Final closure | Part005 final closure | 121–150 | **NOT STARTED** |
@@ -121,6 +121,18 @@ No Part005 English prose is drafted in this planning gate.
 - Part006 leakage — **0**
 - durable record — `PART_005_TRANSLATION_REVIEW.md`
 
+## Bilingual review closure
+
+- Tamil/English pairs reviewed — **7/7**
+- editorial changes rechecked — **3/3**
+- further bilingual English-only corrections — **0**
+- unresolved bilingual holds — **0**
+- unresolved Tamil-fidelity holds — **0**
+- canonical / assembled Tamil edits — **0**
+- frozen prior-Part English body edits — **0**
+- Part006 leakage — **0**
+- durable record — `PART_005_BILINGUAL_REVIEW.md`
+
 ## Exact next activity
 
-**Part005 whole-Part bilingual review across all seven Tamil/English pairs.**
+**Part005 release/readiness report.**
