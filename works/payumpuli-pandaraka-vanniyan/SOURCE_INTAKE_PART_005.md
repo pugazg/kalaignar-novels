@@ -42,7 +42,7 @@ The canonical `scan_page` remains the overall scan number **121–150**.
 
 ## Current gate
 
-Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — NEXT ACTIVE PART**.
+Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 1 IN PROGRESS**.
 
 - incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 150→151 — **PENDING direct audit**
