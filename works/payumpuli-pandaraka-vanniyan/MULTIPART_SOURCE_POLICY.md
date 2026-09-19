@@ -104,7 +104,7 @@ For every `N→N+1` boundary:
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
-- Part005 — **ACTIVE / AUTHORIZED — GLOSSARY RECONCILED / EDITORIAL NEXT**
+- Part005 — **ACTIVE / AUTHORIZED — EDITORIAL CLOSED / BILINGUAL NEXT**
 - Part005 canonical page records — **30/30 — scans121–150**
 - Part005 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
@@ -134,7 +134,11 @@ For every `N→N+1` boundary:
 - English glossary reconciliation — **RECONCILED / PASS**
 - glossary-reconciliation English section edits — **0**
 - unresolved glossary holds — **0**
-- English editorial review — **NOT STARTED / NEXT GATE**
+- English editorial review — **PASS / CLOSED**
+- editorial English-only changes — **3**
+- source-alignment corrections within editorial total — **1**
+- unresolved editorial holds — **0**
+- whole-Part bilingual review — **NOT STARTED / NEXT GATE**
 - split-boundary classifications — **5 / 15 audited**
 
 Audited boundaries:

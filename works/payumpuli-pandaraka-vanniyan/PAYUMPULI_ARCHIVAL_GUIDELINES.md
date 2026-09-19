@@ -140,7 +140,7 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part004 release/readiness: PASS / CLOSED**
 - **Part004 release-ready synchronization: PASS / CLOSED**
 - **Part004 final closure: PASS / CLOSED / FROZEN**
-- **Part005: ACTIVE / AUTHORIZED — GLOSSARY RECONCILED / EDITORIAL NEXT**
+- **Part005: ACTIVE / AUTHORIZED — EDITORIAL CLOSED / BILINGUAL NEXT**
 - **Part005 canonical range: scans121–150**
 - **Part005 canonical page records: 30/30 — scans121–150**
 - **Part005 incoming 120→121: GENUINE CONTINUATION / AUDITED**
@@ -168,6 +168,6 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 
 ## Exact next gate
 
-Perform **Part005 English editorial review** across all seven maintained English files.
+Perform **Part005 whole-Part bilingual review** across all seven Tamil/English pairs.
 
 Preserve frozen Part001–Part004 body and English layers and both audited Part005 boundaries. Use only the closed Part005 canonical/assembled Tamil authority; do not import Part006 body text.

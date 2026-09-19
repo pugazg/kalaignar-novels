@@ -616,6 +616,18 @@ Planning created no English body prose and changed:
 Durable record:
 - `PART_005_GLOSSARY_RECONCILIATION.md`
 
+## Part005 editorial review
+
+- result — **PASS / CLOSED**
+- maintained English files reviewed — **7/7**
+- files edited — **3/7**
+- English-only changes — **3**
+- source-alignment corrections — **1**
+- unresolved editorial holds — **0**
+
+Durable record:
+- `PART_005_TRANSLATION_REVIEW.md`
+
 ## Current exact next activity
 
-Perform **Part005 English editorial review** across all seven maintained English files.
+Perform **Part005 whole-Part bilingual review** across all seven Tamil/English pairs.

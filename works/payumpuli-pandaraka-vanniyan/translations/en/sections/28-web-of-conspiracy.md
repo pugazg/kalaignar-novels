@@ -31,7 +31,7 @@ Governor North's words gave Muthusami a little courage. On North's advice he sta
 
 For Kannusami's coronation in Kandy, Governor North sent only a message of congratulations.
 
-Good fortune! Pandaraka Vanniyan was pleased that he had been spared the trouble of seeing that white monkey's face once again.
+Fortunately, Pandaraka Vanniyan was pleased that he had been spared the trouble of seeing that white monkey's face once again.
 
 But he knew nothing about the long letter Governor North of Colombo had sent Pilimathala. It was a mine of deceit, a weave of intrigue. Unaware of that background, Pandarakan spent several more days in the Kandy palace with his friend Kannusami.
 

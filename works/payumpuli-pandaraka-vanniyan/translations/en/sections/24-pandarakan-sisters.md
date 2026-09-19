@@ -107,7 +107,7 @@ somehow he has stolen elder sister's heart. After that they met two or three mor
 
 “Nallanaachchi elder sister! I have told the person who needed to hear what had to be said. You ran here ahead of me to tell brother and ask his permission—so ask him now!” Oomaichchi said, pulling her sister by the hands and placing her before their brother.
 
-“What is this, Nallanaachchi? You have fallen in love with some unknown man whose place and background we do not even know, and suddenly you come asking for permission! What answer am I supposed to give?”
+“What is this, Nallanaachchi? You have fallen in love with some unknown man whose town and name we do not even know, and suddenly you come asking for permission! What answer am I supposed to give?”
 
 Oomaichchi Naachchi cut in.
 

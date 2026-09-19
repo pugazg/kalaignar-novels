@@ -23,7 +23,7 @@ A side-story from the Mahabharata, which she had once heard someone tell, came b
 
 “I have never seen Partha! And what if I had? He could never have had a back as beautiful as Pandarakan's!” she decided, gently stroking his back with a palm like a tender leaf.
 
-Pandarakan was deep asleep. Piyasili's attempt to disturb that sleep merely carried him away into the world of dreams.
+Pandarakan was in a deep sleep. Piyasili's attempt to disturb that sleep merely carried him away into the world of dreams.
 
 Piyasili was beside him on the bed—but he did not know it. In his dream it was Kuruvichchi Naachchi. He was caressing her.
 

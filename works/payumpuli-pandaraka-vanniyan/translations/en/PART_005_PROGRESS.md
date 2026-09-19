@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART005 GLOSSARY — RECONCILED / PASS — EDITORIAL REVIEW NEXT**
+**PART005 EDITORIAL REVIEW — PASS / CLOSED — BILINGUAL REVIEW NEXT**
 
 Part001–Part004 English remain **FINAL CLOSED / FROZEN**.
 
@@ -16,7 +16,7 @@ Part001–Part004 English remain **FINAL CLOSED / FROZEN**.
 | **E25** | section28 — `சதி வலை!` | 146–149 | **SOURCE-CHECKED / COMPLETE** |
 | **E26** | section29 — `குருவியும் - குயிலும்!` | 150 | **SOURCE-CHECKED / COMPLETE** |
 | Glossary | Part005 whole-Part reconciliation | 121–150 | **RECONCILED / PASS** |
-| Editorial | Part005 whole-Part English editorial review | 121–150 | **NOT STARTED** |
+| Editorial | Part005 whole-Part English editorial review | 121–150 | **PASS / CLOSED** |
 | Bilingual | Part005 whole-Part bilingual review | 121–150 | **NOT STARTED** |
 | Release | Part005 release/readiness | 121–150 | **NOT STARTED** |
 | Release sync | Part005 release-ready synchronization | 121–150 | **NOT STARTED** |
@@ -109,6 +109,18 @@ No Part005 English prose is drafted in this planning gate.
 - Part006 leakage — **0**
 - durable record — `PART_005_GLOSSARY_RECONCILIATION.md`
 
+## Editorial review closure
+
+- maintained English files reviewed — **7/7**
+- files edited — **3/7**
+- English-only changes — **3**
+- source-alignment corrections within editorial total — **1**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0**
+- frozen prior-Part English body edits — **0**
+- Part006 leakage — **0**
+- durable record — `PART_005_TRANSLATION_REVIEW.md`
+
 ## Exact next activity
 
-**Part005 English editorial review across all seven maintained English files.**
+**Part005 whole-Part bilingual review across all seven Tamil/English pairs.**
