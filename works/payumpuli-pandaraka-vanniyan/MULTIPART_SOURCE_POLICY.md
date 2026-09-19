@@ -104,7 +104,7 @@ For every `N→N+1` boundary:
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
-- Part005 — **ACTIVE / AUTHORIZED — ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT**
+- Part005 — **ACTIVE / AUTHORIZED — ENGLISH PLANNING COMPLETE / E20 NEXT**
 - Part005 canonical page records — **30/30 — scans121–150**
 - Part005 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
@@ -127,7 +127,10 @@ For every `N→N+1` boundary:
 - Part005 canonical page mutations caused by assembly — **0**
 - frozen Part001–Part004 assembled-file mutations — **0**
 - Part006 body leakage — **0**
-- Part005 English translation planning/setup — **NOT STARTED / NEXT GATE**
+- Part005 English translation planning/setup — **COMPLETE / PASS**
+- planned English batches — **E20–E26 / 7**
+- translated/source-checked English files — **0/7**
+- E20 — **NOT STARTED / NEXT GATE**
 - split-boundary classifications — **5 / 15 audited**
 
 Audited boundaries:
@@ -150,4 +153,4 @@ Exact next gate:
 
 **Part005 English translation planning/setup.**
 
-Part001–Part004 remain frozen. Preserve both audited Part005 boundaries. Use the closed Part005 canonical/assembled Tamil authority; do not import Part006 body text.
+Part001–Part004 remain frozen. Preserve both audited Part005 boundaries. Use the closed Part005 canonical/assembled Tamil authority; preserve frozen prior-Part English and do not import Part006 body text.

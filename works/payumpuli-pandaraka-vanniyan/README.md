@@ -227,7 +227,7 @@ Durable Part004 records:
 - `translations/en/E17_SOURCE_CHECK.md`
 - `translations/en/E16_SOURCE_CHECK.md`
 
-## Part005 — ACTIVE / ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT
+## Part005 — ACTIVE / ENGLISH PLANNING COMPLETE / E20 NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
 - scans — **121–150**
@@ -257,7 +257,10 @@ Durable Part004 records:
 - canonical page mutations caused by assembly — **0**
 - frozen Part001–Part004 assembled-file mutations — **0**
 - Part006 body leakage — **0**
-- English translation planning/setup — **NOT STARTED / NEXT GATE**
+- English translation planning/setup — **COMPLETE / PASS**
+- planned English batches — **E20–E26 / 7**
+- translated/source-checked English files — **0/7**
+- E20 — **NOT STARTED / NEXT GATE**
 
 Notable structure:
 - scan121 continues chapter15 `இருவர் உள்ளம்`;
@@ -284,6 +287,6 @@ Durable Part005 records now include:
 
 ## Exact next activity
 
-Perform **Part005 English translation planning/setup**.
+Perform **E20 draft + source-check — scan121 / section23**.
 
 Do not modify frozen Part001–Part004 canonical Tamil, assembled Tamil or maintained English body files. Use only closed Part005 canonical/assembled Tamil authority and do not import Part006 body text.

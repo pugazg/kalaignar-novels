@@ -563,3 +563,39 @@ Part005 is now **NEXT ACTIVE / AUTHORIZED / NOT STARTED** in the Tamil archival 
 Begin **Part005 Pass 1 — scans121–130 / local pages1–10**.
 
 Do not begin Part005 English planning until Part005 completes its Tamil/assembled-Tamil English-entry gates.
+
+
+## Part005 — ACTIVE ENGLISH WORKFLOW
+
+Part005 Tamil prerequisites are closed:
+
+- canonical scans — **121–150**
+- canonical Tamil records — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
+- assembled coverage — **scans121–150 exactly**
+- unresolved Tamil / glyph / visual / status exceptions — **0**
+- incoming boundary — **120→121 GENUINE CONTINUATION / AUDITED**
+- outgoing boundary — **150→151 GENUINE CONTINUATION / AUDITED**
+
+Part005 English planning/setup is **COMPLETE / PASS**.
+
+Active controls:
+- `PART_005_TRANSLATION_PLAN.md`
+- `PART_005_GLOSSARY.md`
+- `PART_005_PROGRESS.md`
+
+Planned E20–E26 section coverage is recorded in those controls.
+
+Planning created no English body prose and changed:
+- canonical Tamil — **0**
+- assembled Tamil — **0**
+- frozen Part001–Part004 English body — **0**
+- Part006 content — **0**
+
+## Current exact next activity
+
+Perform **E20 draft + source-check — scan121 / section23**.
+
+Do not begin E21 until E20 is source-checked and closed.
