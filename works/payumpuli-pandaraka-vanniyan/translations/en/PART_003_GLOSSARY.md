@@ -1,6 +1,6 @@
 # Part 003 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **RECONCILED / PASS — EDITORIAL REVIEW PASS / CLOSED — BILINGUAL REVIEW NEXT**
+Status: **RECONCILED / PASS — BILINGUAL REVIEW PASS / CLOSED — RELEASE/READINESS NEXT**
 
 This glossary is derived only from verified Part003 canonical/assembled Tamil plus already-closed Part001/Part002 project English choices where the **same Tamil source form** recurs.
 
@@ -255,3 +255,22 @@ Subsequent Part003 English editorial review:
 Current next gate:
 
 **Part003 whole-Part bilingual review across all five Tamil/English pairs / scans61–90.**
+
+
+## Post-editorial bilingual review closure
+
+Whole-Part glossary reconciliation remains **RECONCILED / PASS**.
+
+Subsequent bilingual review:
+- reviewed Tamil/English pairs — **5/5**
+- bilingual English-only corrections — **2**
+- glossary/source-variant locks changed — **0**
+- unresolved bilingual/glossary holds — **0**
+- canonical Tamil edits — **0**
+- Part004 leakage — **0**
+
+The E13 `உயிரை வைத்திரு` sequence is now maintained through the context-sensitive English **love / loves the land with his very life**, rather than mechanically literal **place/value life** phrasing.
+
+Current next gate:
+
+**Part003 release/readiness report.**

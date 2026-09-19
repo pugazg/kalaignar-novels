@@ -882,3 +882,29 @@ Durable record:
 Current next gate:
 
 **Part003 whole-Part bilingual review across all five Tamil/English pairs / scans61–90.**
+
+
+## Part003 whole-Part bilingual review — PASS / CLOSED
+
+Reviewed all five maintained Tamil/English pairs across scans61–90.
+
+Accounting:
+- Tamil/English pairs reviewed — **5/5**
+- source coverage — **61–90 / 30 pages**
+- editorial changes rechecked — **49/49**
+- bilingual English-only corrections — **2**
+- unresolved bilingual holds — **0**
+- unresolved Tamil-fidelity holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil body edits — **0**
+- frozen Part001/Part002 English body edits — **0**
+- Part004 leakage — **0**
+- 60→61 CLEAN — **retained**
+- 90→91 GENUINE CONTINUATION — **retained without scan91 import**
+
+Durable record:
+- `translations/en/PART_003_BILINGUAL_REVIEW.md`
+
+Current next gate:
+
+**Part003 release/readiness report.**

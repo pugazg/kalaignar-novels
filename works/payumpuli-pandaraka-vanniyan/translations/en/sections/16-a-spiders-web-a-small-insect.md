@@ -36,7 +36,7 @@ Where had she gone? Why had she gone? A hundred warriors to guard her while she 
 
 <!-- source boundary: scan 81 → scan 82 -->
 
-Once—ah! She is sitting on the steps of a waterside. I am creeping toward her like a cat, hiding behind the bushes, eager to cover her eyes playfully without her knowing. Just then she hears a man's voice and turns around. I cannot call it merely a foolish grin. Imagine an owl with teeth, baring them—that sort of grin! With that grin Kaakkai Vanniyan comes and stands before her. “What is it, Kuruvichchi? Deep in thought?” he asks, and sits down on the steps too. I know her. I know there is no limit to the love she bears me. A fear takes hold of me—how harshly is she going to deal with Kaakkai Vanniyan? If I rush forward and stand before them to prevent anything, that would be uncivil. Yet it is a man's mind, isn't it? A temptation to see what happens! Yes—a suspicion! Even now I am ashamed when I think of it. What shame that I ever thought of her that way!
+Once—ah! She is sitting on the steps of a waterside. I am creeping toward her like a cat, hiding behind the bushes, eager to cover her eyes playfully without her knowing. Just then she hears a man's voice and turns around. I cannot call it merely a foolish grin. Imagine an owl with teeth, baring them—that sort of grin! With that grin Kaakkai Vanniyan comes and stands before her. “What is it, Kuruvichchi? Deep in thought?” he asks, and sits down on the steps too. I know her. I know there is no limit to the love she bears me. A fear takes hold of me—how harshly is she going to deal with Kaakkai Vanniyan? If I rush forward and stand before them to prevent anything, that would be uncivil. Yet it is a man's mind, isn't it? A temptation to see what happens! Yes—a suspicion! Even now I am ashamed when I think of it. How it pains me that I ever thought of her that way!
 
 Kaakkai Vanniyan too had been with us in Thanga Naachchiyar's gurukulam, hadn't he? Taking advantage of that familiarity, he begins speaking to Kuruvichchi. She smiles at him and says, “I was thinking about Sangam literature.”
 
@@ -72,13 +72,13 @@ Kuruvichchi laughs then. She looks mischievously at Kaakkai Vanniyan.
 
 Kaakkai Vanniyan falters at that answer. Intent on accomplishing the purpose for which he came, he moves hurriedly closer and sits beside Kuruvichchi. Understanding his intention, Kuruvichchi rises from the steps. The fool Kaakkai asks, “Why did you get up?” and catches hold of her hand. When she pulls her hand free, Kaakkai's face crumples as though he is about to cry, but he does not give up.
 
-“Kuruvichchi! I want to ask you one thing! Please answer me. Compare Pandaraka Vanniyan, who speaks of setting a time limit merely to decide whether or not to marry and meanwhile behaves toward you like a friend, with me—if you merely move your lips, I am eager to fix the wedding day today itself and caress you on the bridal bed! Can't you understand that I value you more than my life, more than he does?”
+“Kuruvichchi! I want to ask you one thing! Please answer me. Compare Pandaraka Vanniyan, who speaks of setting a time limit merely to decide whether or not to marry and meanwhile behaves toward you like a friend, with me—if you merely move your lips, I am eager to fix the wedding day today itself and caress you on the bridal bed! Can't you understand that I love you more deeply than he does?”
 
-“What use is it that you value me above your life? Shouldn't I, in return, value you above mine? I have placed my life on that good man who has placed his life on the land—
+“What use is it that you love me? Shouldn't I, in return, love you? I love that good man who loves the land with his very life—
 
 <!-- source boundary: scan 84 → scan 85 -->
 
-on that brave man. What should we call those who know this and still do not know enough to withdraw?”
+that brave man. What should we call those who know this and still do not know enough to withdraw?”
 
 “I don't know, Kuruvichchi! My heart aches to make you mine somehow! Fate keeps bearing down on me, telling me that I must embrace you, delight in you and find bliss!”
 

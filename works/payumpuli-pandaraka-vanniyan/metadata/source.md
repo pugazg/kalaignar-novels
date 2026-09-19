@@ -159,7 +159,10 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - Part003 editorial English-only changes — **49**
 - Part003 source-alignment corrections within editorial total — **2**
 - Part003 unresolved editorial holds — **0**
-- Part003 bilingual review — **NEXT GATE / NOT STARTED**
+- Part003 bilingual review — **PASS / CLOSED**
+- Part003 bilingual English-only corrections — **2**
+- Part003 unresolved bilingual holds — **0**
+- Part003 release/readiness — **NEXT GATE / NOT STARTED**
 - Part004 transcription — **BLOCKED**
 - audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION**
 - terminal page function for complete 477-scan source — **not yet visually audited**
@@ -186,6 +189,6 @@ Durable rule:
 
 ## Exact next activity
 
-Perform **Part003 whole-Part bilingual review** across all five Tamil/English pairs / scans61–90.
+Create and complete **Part003 release/readiness report**.
 
-Do not begin release/readiness until bilingual review closes. Do not begin Part004 transcription.
+Do not begin release-ready synchronization, final Part003 closure or Part004 transcription until release/readiness closes.

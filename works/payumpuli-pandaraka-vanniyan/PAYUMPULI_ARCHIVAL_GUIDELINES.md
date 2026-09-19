@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001 and Part002 are **FINAL CLOSED / FROZEN**. Part003 is **ACTIVE / AUTHORIZED — ENGLISH EDITORIAL REVIEW PASS / CLOSED**.
+Part001 and Part002 are **FINAL CLOSED / FROZEN**. Part003 is **ACTIVE / AUTHORIZED — BILINGUAL REVIEW PASS / CLOSED**.
 
 ## Tamil Part workflow
 
@@ -93,10 +93,13 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part003 editorial English-only changes: 49**
 - **Part003 source-alignment corrections within editorial total: 2**
 - **Part003 unresolved editorial holds: 0**
-- **Part003 bilingual review: NEXT GATE / NOT STARTED**
+- **Part003 bilingual review: PASS / CLOSED**
+- **Part003 bilingual English-only corrections: 2**
+- **Part003 unresolved bilingual holds: 0**
+- **Part003 release/readiness: NEXT GATE / NOT STARTED**
 
 ## Exact next gate
 
-Perform **Part003 whole-Part bilingual review** across all five Tamil/English pairs / scans61–90.
+Create and complete **Part003 release/readiness report**.
 
-Do not begin release/readiness until bilingual review closes. Do not reopen verified Tamil or begin Part004 transcription.
+Do not begin release-ready synchronization, final Part003 closure or Part004 transcription until release/readiness closes.

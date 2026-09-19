@@ -242,3 +242,26 @@ No remaining editorial issue requires a source-risking change before bilingual r
 The bilingual review must recheck all **49/49** maintained-English changes against verified Tamil, preserve all source variants and both Part boundaries, and stop before release/readiness.
 
 Do not begin Part004 transcription.
+
+
+## Post-editorial bilingual review state
+
+This editorial-review record remains **PASS / CLOSED**.
+
+Subsequent whole-Part bilingual review:
+- Tamil/English pairs reviewed — **5/5**
+- editorial changes rechecked — **49/49**
+- bilingual English-only corrections — **2**
+- one editorial idiom wording was refined during bilingual review;
+- one pre-existing E13 emotional/lexical flattening was repaired;
+- unresolved bilingual holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- Part004 leakage — **0**
+
+Durable record:
+- `PART_003_BILINGUAL_REVIEW.md`
+
+Current next gate:
+
+**Part003 release/readiness report.**

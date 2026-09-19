@@ -228,3 +228,23 @@ Durable record:
 Current next gate:
 
 **Part003 whole-Part bilingual review.**
+
+
+## Post-editorial bilingual review closure
+
+This glossary-reconciliation record remains **RECONCILED / PASS**.
+
+Subsequent whole-Part bilingual review:
+- reviewed Tamil/English pairs — **5/5**
+- bilingual English-only corrections — **2**
+- glossary/source-variant locks changed — **0**
+- unresolved bilingual/glossary holds — **0**
+- canonical Tamil edits — **0**
+- Part004 leakage — **0**
+
+Durable record:
+- `PART_003_BILINGUAL_REVIEW.md`
+
+Current next gate:
+
+**Part003 release/readiness report.**

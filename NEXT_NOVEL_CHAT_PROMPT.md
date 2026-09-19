@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part003 Whole-Part Bilingual Review
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part003 Release-Readiness
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,75 +6,69 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 1. `HANDOVER.md`
 2. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
-3. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_TRANSLATION_PLAN.md`
-4. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_GLOSSARY.md`
-5. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_GLOSSARY_RECONCILIATION.md`
-6. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_TRANSLATION_REVIEW.md`
-7. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_PROGRESS.md`
-8. all five verified Part003 assembled Tamil sections
-9. all five maintained Part003 English sections
-10. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_BILINGUAL_REVIEW.md` as methodology precedent only
+3. `works/payumpuli-pandaraka-vanniyan/PART_003_AUDIT.md`
+4. `works/payumpuli-pandaraka-vanniyan/PART_003_FINAL_STATUS_SYNC.md`
+5. `works/payumpuli-pandaraka-vanniyan/PART_003_DOCUMENTATION_SYNC.md`
+6. `works/payumpuli-pandaraka-vanniyan/PART_003_TAMIL_ARCHIVAL_READY.md`
+7. `works/payumpuli-pandaraka-vanniyan/PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+8. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_TRANSLATION_PLAN.md`
+9. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_GLOSSARY_RECONCILIATION.md`
+10. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_TRANSLATION_REVIEW.md`
+11. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_BILINGUAL_REVIEW.md`
+12. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_PROGRESS.md`
+13. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_RELEASE_REPORT.md` as methodology precedent only
 
 ## Frozen authority
 
 Part001 — **FINAL CLOSED / FROZEN**.  
 Part002 — **FINAL CLOSED / FROZEN**.
 
-Part003 Tamil is closed:
-- canonical pages — **30/30 verified**
+Part003 textual layers are also closed for this gate:
+- canonical Tamil — **30/30 verified**
 - visual fidelity — **30/30 verified**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
-
-Do not silently alter canonical or assembled Tamil through bilingual review.
-
-## Part003 English state
-
-- E10–E14 — **SOURCE-CHECKED / COMPLETE — 5/5**
-- scan coverage — **61–90 / all 30 pages**
+- E10–E14 source-check — **COMPLETE / PASS — 5/5**
 - glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED**
-- maintained-English changes in editorial review — **49**
-- source-alignment corrections within that total — **2**
-- unresolved editorial holds — **0**
-- incoming 60→61 — **CLEAN / AUDITED**
-- outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections — **2**
+- unresolved Tamil/English/glossary/editorial/bilingual holds — **0**
+- incoming **60→61 CLEAN / AUDITED**
+- outgoing **90→91 GENUINE CONTINUATION / AUDITED**
 - Part004 leakage — **0**
 
 ## Exact activity
 
-Perform **Part003 whole-Part bilingual review across all five Tamil/English pairs / scans61–90**.
+Create and complete:
 
-Pairs:
+`works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_RELEASE_REPORT.md`
 
-1. Tamil `sections/13-theevukkul-theeyavargal-part003.md` ↔ English `translations/en/sections/13-evildoers-on-the-island-part003.md`
-2. Tamil `sections/14-kaakkai-vanniyan.md` ↔ English `translations/en/sections/14-kaakkai-vanniyan.md`
-3. Tamil `sections/15-muthu-maaligai.md` ↔ English `translations/en/sections/15-muthu-maaligai.md`
-4. Tamil `sections/16-silandhi-valaiyo-siriya-poochchiyo.md` ↔ English `translations/en/sections/16-a-spiders-web-a-small-insect.md`
-5. Tamil `sections/17-adhikaari-vazhangiya-aalosanai.md` ↔ English `translations/en/sections/17-the-officers-advice.md`
+Follow the Part002 release/readiness methodology, adapted exactly to Part003 scans61–90.
 
-Mandatory review gates:
+Mandatory release/readiness checks:
 
-- verify **30/30** Tamil source-page coverage;
-- verify section order and body/provenance block correspondence;
-- recheck all **49/49** editorial/source-alignment changes against Tamil;
-- detect any remaining lexical omission, explicit-agent loss, narrator/speaker drift, certainty shift, chronology change, unsupported insertion, mistranslation or over-translation;
-- preserve all reconciled names, honorific/source labels, source-sensitive white/British vocabulary and deliberate variants;
-- preserve quoted literary discussion without outside published wording or commentary;
-- preserve political/historical/source rhetoric as narrator/character source framing;
-- preserve incoming **60→61 CLEAN** with no Part002 import;
-- preserve outgoing **90→91 GENUINE CONTINUATION** with E14 still ending at scan90; do not import/translate scan91;
-- if a genuine Tamil-fidelity issue is found, log a hold rather than silently changing Tamil;
-- English-only source-alignment corrections are allowed where directly required by verified Tamil.
+- confirm canonical Part003 coverage **30/30 scans61–90**;
+- confirm Tamil textual and visual status **30/30 verified**;
+- confirm Part audit, final status sync, documentation sync, Tamil archival-ready and assembled Tamil are all closed;
+- confirm maintained English sections **5/5**, E10–E14 source-checked **5/5**;
+- confirm glossary reconciliation, editorial review and bilingual review are closed;
+- re-confirm the **2/2 bilingual English-only corrections** are present in maintained English;
+- introduce **0** new Tamil or English body changes;
+- verify no omitted/duplicated source blocks or unsupported English insertions remain;
+- verify all source variants and source-sensitive white/British distinctions remain protected;
+- verify incoming **60→61 CLEAN** and outgoing **90→91 GENUINE CONTINUATION** boundaries;
+- confirm E14 still stops at scan90 and does not import/translate scan91;
+- inspect the live recursive Git tree under `works/payumpuli-pandaraka-vanniyan/` and confirm source PDF paths in Git — **0**;
+- confirm canonical/assembled/English body drift caused by release/readiness — **0**;
+- record unresolved release/readiness blockers — **0** if all checks pass.
 
-Create:
-- `translations/en/PART_003_BILINGUAL_REVIEW.md`
-
-Update active controls only after the bilingual gate passes.
+Release/readiness must be a control/report gate only.
 
 ## Stop rule
 
-Stop after **PART003 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED**.
+Stop after **PART003 RELEASE/READINESS REPORT — PASS / CLOSED**.
 
-Do not begin release/readiness in the same iteration.  
-Do not begin Part004 transcription.
+Do **not** begin release-ready synchronization in the same iteration.  
+Do **not** begin final Part003 closure.  
+Do **not** begin Part004 transcription.

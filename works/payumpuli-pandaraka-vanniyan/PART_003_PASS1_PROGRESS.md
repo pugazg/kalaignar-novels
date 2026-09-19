@@ -128,6 +128,6 @@ The bootstrap referenced HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md, but that
 
 ## Exact next activity
 
-Perform **Part003 whole-Part bilingual review** across all five Tamil/English pairs / scans61–90.
+Create and complete **Part003 release/readiness report**.
 
-Current downstream English state: glossary reconciliation is **RECONCILED / PASS** and editorial review is **PASS / CLOSED** with **49** maintained-English changes, **2** source-alignment corrections, and **0** unresolved editorial holds. Do not begin release/readiness or Part004 transcription until bilingual review closes.
+Current downstream English state: glossary reconciliation **RECONCILED / PASS**, editorial review **PASS / CLOSED**, and whole-Part bilingual review **PASS / CLOSED** with **2** English-only bilingual corrections and **0** unresolved bilingual holds. Do not begin release-ready synchronization, final closure or Part004 transcription until release/readiness closes.

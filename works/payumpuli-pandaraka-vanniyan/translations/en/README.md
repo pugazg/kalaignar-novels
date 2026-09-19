@@ -264,3 +264,28 @@ Durable record:
 Perform **Part003 whole-Part bilingual review** across all five Tamil/English pairs / scans61–90.
 
 Do not begin release/readiness until bilingual review closes. Do not begin Part004 transcription.
+
+
+## Part003 bilingual review — PASS / CLOSED
+
+Part003 whole-Part bilingual review is now **PASS / CLOSED**.
+
+- Tamil/English pairs reviewed — **5/5**
+- scans covered — **61–90 / all 30 pages**
+- editorial changes rechecked — **49/49**
+- bilingual English-only corrections — **2**
+- unresolved bilingual holds — **0**
+- unresolved Tamil-fidelity holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil body edits — **0**
+- frozen Part001/Part002 English body edits — **0**
+- Part004 leakage — **0**
+
+Durable record:
+- `PART_003_BILINGUAL_REVIEW.md`
+
+## Current exact next activity
+
+Create and complete **Part003 release/readiness report** `PART_003_RELEASE_REPORT.md`.
+
+Do not begin release-ready synchronization, final Part003 closure or Part004 transcription until release/readiness closes.

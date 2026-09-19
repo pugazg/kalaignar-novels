@@ -73,7 +73,7 @@ Durable Part002 records:
 - `PART_002_RELEASE_READY_SYNC.md`
 - `translations/en/PART_002_PROGRESS.md`
 
-## Part003 — ACTIVE / ENGLISH EDITORIAL REVIEW CLOSED
+## Part003 — ACTIVE / BILINGUAL REVIEW CLOSED
 
 Controlling source:
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
@@ -103,7 +103,10 @@ Current verified Tamil state:
 - editorial English-only changes — **49**
 - source-alignment corrections within editorial total — **2**
 - unresolved editorial holds — **0**
-- bilingual review — **NEXT GATE / NOT STARTED**
+- bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections — **2**
+- unresolved bilingual holds — **0**
+- release/readiness report — **NEXT GATE / NOT STARTED**
 - incoming 60→61 — **CLEAN / AUDITED**
 - outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
 
@@ -133,10 +136,11 @@ Durable Part003 records:
 - `translations/en/PART_003_GLOSSARY.md`
 - `translations/en/PART_003_GLOSSARY_RECONCILIATION.md`
 - `translations/en/PART_003_TRANSLATION_REVIEW.md`
+- `translations/en/PART_003_BILINGUAL_REVIEW.md`
 - `translations/en/PART_003_PROGRESS.md`
 
 ## Exact next activity
 
-Perform **Part003 whole-Part bilingual review** across all five Tamil/English pairs / scans61–90.
+Create and complete **Part003 release/readiness report** `translations/en/PART_003_RELEASE_REPORT.md`.
 
-Do not begin release/readiness or Part004 transcription until bilingual review closes.
+Do not begin release-ready synchronization, final Part003 closure or Part004 transcription until release/readiness closes.
