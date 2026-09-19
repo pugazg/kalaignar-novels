@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — NEXT ACTIVE PART / NOT STARTED.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE PART / PASS 1 COMPLETE.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **91–120**;
@@ -24,14 +24,15 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 ## Boundary state
 
 - incoming split boundary: **90→91 — GENUINE CONTINUATION / AUDITED**;
-- outgoing split boundary: **120→121 — source available; classification pending direct audit**;
+- outgoing split boundary: **120→121 — GENUINE CONTINUATION / AUDITED**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
 
 For the incoming audit, Part004 local page 1 / global scan91 / printed81 was inspected only as a witness against Part003 scan90 / printed80. It begins `போன்றோர் - ...`, directly continuing scan90's terminal `என்னைப்` as `என்னைப் போன்றோர்`. No Part004 canonical page record was created.
 
-Durable record:
+Durable records:
 - `PART_003_BOUNDARY_AUDIT_90_91.md`
+- `PART_004_BOUNDARY_AUDIT_120_121.md`
 
 ## Canonical page provenance
 
@@ -47,17 +48,19 @@ The canonical `scan_page` remains the overall scan number **91–120**.
 
 ## Current gate
 
-Part 004 source split: **SUPPLIED / REGISTERED / AUTHORIZED — NEXT ACTIVE PART / NOT STARTED**.
+Part 004 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE PART / PASS 1 COMPLETE**.
 
 - incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
-- canonical Part004 page records — **0**
-- Part004 Pass 1 — **NOT STARTED**
+- outgoing 120→121 — **GENUINE CONTINUATION / AUDITED**
+- canonical Part004 page records — **30/30**
+- Part004 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- unresolved Pass-1 source-reading holds — **0**
+- Part004 Pass 2A — **NOT STARTED**
 
-Part003 is now **FINAL CLOSED / FROZEN**. Part004 is authorized to begin on the next explicit continuation. No Part004 canonical page record has yet been created.
-
+Part003 remains **FINAL CLOSED / FROZEN**. Part005 scan121 was inspected only as an outgoing boundary witness; no Part005 canonical record was created.
 
 ## Exact next activity
 
-Begin **Part004 Pass 1 — global scans91–100 / local pages1–10**.
+Begin **Part004 Pass 2A — global scans91–100 / local pages1–10**.
 
-Create canonical page records using exact Part004 provenance. Preserve incoming **90→91 GENUINE CONTINUATION / AUDITED**. Do not begin Pass 2A until Part004 Pass 1 covers scans91–120.
+Perform direct textual verification against the supplied Part004 source images. Do not begin Part005 transcription.

@@ -38,7 +38,7 @@ For every `N→N+1` boundary:
 - 16 / 16 split PDFs — **SUPPLIED / REGISTERED**
 - Part001 — **FINAL CLOSURE / CLOSED / FROZEN**
 - Part002 — **FINAL CLOSURE / CLOSED / FROZEN**
-- active Part — **Part003 / scans61–90**
+- active Part — **Part004 / scans91–120**
 - Part003 canonical records — **30/30**
 - Part003 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part003 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
@@ -72,18 +72,22 @@ For every `N→N+1` boundary:
 - Part003 release-sync source-variant collapses — **0**
 - Part003 final closure — **PASS / CLOSED / FROZEN**
 
-- Part004 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
-- Part004 canonical page records — **0**
-- Part004 Pass 1 — **NOT STARTED**
-- split-boundary classifications — **3 / 15 audited**
+- Part004 — **ACTIVE / AUTHORIZED**
+- Part004 canonical page records — **30/30**
+- Part004 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Part004 unresolved Pass-1 source-reading holds — **0**
+- Part004 Pass 2A — **NOT STARTED**
+- split-boundary classifications — **4 / 15 audited**
 
 Audited boundaries:
 - **30→31 — GENUINE CONTINUATION**
 - **60→61 — CLEAN**
 - **90→91 — GENUINE CONTINUATION**
+- **120→121 — GENUINE CONTINUATION**
 
-Durable Part003 outgoing-boundary record:
+Durable boundary records:
 - `PART_003_BOUNDARY_AUDIT_90_91.md`
+- `PART_004_BOUNDARY_AUDIT_120_121.md`
 
 ## Batch-size policy
 
@@ -91,6 +95,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part004 Pass 1 — global scans91–100 / local pages1–10.**
+**Part004 Pass 2A — global scans91–100 / local pages1–10.**
 
-Part001–Part003 remain frozen. Preserve incoming 90→91 GENUINE CONTINUATION / AUDITED.
+Part001–Part003 remain frozen. Preserve both audited Part004 boundaries. Do not begin Part005 transcription.

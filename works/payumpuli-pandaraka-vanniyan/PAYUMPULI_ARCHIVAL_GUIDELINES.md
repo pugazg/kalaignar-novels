@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001, Part002 and Part003 are **FINAL CLOSED / FROZEN**. Part004 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+Part001, Part002 and Part003 are **FINAL CLOSED / FROZEN**. Part004 is **ACTIVE / AUTHORIZED — PASS 1 COMPLETE / PASS 2A NEXT**.
 
 ## Tamil Part workflow
 
@@ -41,6 +41,7 @@ Audited:
 - **30→31 — GENUINE CONTINUATION**
 - **60→61 — CLEAN**
 - **90→91 — GENUINE CONTINUATION**
+- **120→121 — GENUINE CONTINUATION**
 
 For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were directly compared. No scan60 correction was needed and no Part003 canonical text was imported.
 
@@ -102,13 +103,16 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part003 release-sync body changes: 0**
 - **Part003 release-sync source-variant collapses: 0**
 - **Part003 final closure: PASS / CLOSED / FROZEN**
-- **Part004: NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- **Part004: ACTIVE / AUTHORIZED**
 - **Part004 canonical range: scans91–120**
-- **Part004 canonical page records: 0**
-- **Part004 Pass 1: NOT STARTED**
+- **Part004 canonical page records: 30/30**
+- **Part004 Pass 1: COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- **Part004 unresolved Pass-1 source-reading holds: 0**
+- **Part004 120→121 boundary: GENUINE CONTINUATION / AUDITED**
+- **Part004 Pass 2A: NOT STARTED**
 
 ## Exact next gate
 
-Begin **Part004 Pass 1 — global scans91–100 / local pages1–10**.
+Begin **Part004 Pass 2A — global scans91–100 / local pages1–10**.
 
-Preserve incoming **90→91 GENUINE CONTINUATION / AUDITED**. Do not begin Pass 2A until the full Part004 Pass 1 closes.
+Preserve both audited Part004 boundaries: **90→91 GENUINE CONTINUATION** and **120→121 GENUINE CONTINUATION**. Do not begin Part005 transcription.

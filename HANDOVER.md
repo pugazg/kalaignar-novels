@@ -121,21 +121,28 @@ Part001 and Part002 are frozen.
 Durable final record:
 - `works/payumpuli-pandaraka-vanniyan/PART_003_FINAL_CLOSURE.md`
 
-## Part004 — NEXT ACTIVE / AUTHORIZED / NOT STARTED
+## Part004 — ACTIVE / AUTHORIZED — PASS 1 COMPLETE
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_004_pages_91-120.pdf`
 - global scans — **91–120**
 - local pages — **1–30**
 - incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 120→121 — **PENDING direct audit**
-- canonical Part004 page records — **0**
-- Part004 Pass 1 — **NOT STARTED**
-- first normal Pass-1 batch — **global scans91–100 / local pages1–10**
+- outgoing 120→121 — **GENUINE CONTINUATION / AUDITED**
+- canonical Part004 page records — **30/30 — scans91–120**
+- Part004 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- unresolved Pass-1 source-reading holds — **0**
+- scan120 / printed110 terminal fragment — **`தனது காதல் விலை`**
+- Part005 scan121 / printed111 witness begins — **`யாட்டுக் காயை சாமர்த்தியமாக...`**
+- physical boundary join — **`தனது காதல் விளையாட்டுக் காயை`**
+- Part004 Pass 2A — **NOT STARTED**
+- Part001–Part003 remain **FINAL CLOSED / FROZEN**
+
+Durable records:
+- `works/payumpuli-pandaraka-vanniyan/PART_004_PASS1_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
 
 ## Exact next activity
 
-Begin **Part004 Pass 1** with **global scans91–100 / Part004 local pages1–10**.
+Begin **Part004 Pass 2A — global scans91–100 / Part004 local pages1–10** as direct textual verification against the supplied Part004 source images.
 
-Create canonical page records with exact Part004 provenance and create/update `works/payumpuli-pandaraka-vanniyan/PART_004_PASS1_PROGRESS.md`.
-
-Preserve incoming **90→91 GENUINE CONTINUATION / AUDITED**. Do not begin Pass 2A until Part004 Pass 1 covers all scans91–120.
+Do not begin Part005 transcription. Preserve frozen Part001–Part003 canonical Tamil, assembled Tamil and maintained English body files.
