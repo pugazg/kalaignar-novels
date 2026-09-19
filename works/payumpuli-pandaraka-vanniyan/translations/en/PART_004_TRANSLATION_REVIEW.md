@@ -156,3 +156,22 @@ Preserved:
 **Part004 whole-Part bilingual review across all five Tamil/English pairs / scans91–120.**
 
 The bilingual review must recheck all **25/25** editorial changes against verified Tamil and preserve all boundary/source-variant locks.
+
+## Post-release-ready synchronization state
+
+The earlier gate recorded in this file remains closed and authoritative.
+
+Part004 release/readiness and release-ready synchronization subsequently completed:
+
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- canonical Tamil body changes — **0**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- source-variant collapses — **0**
+- frozen Part001–Part003 body changes — **0**
+- Part005 leakage — **0**
+
+Current next gate:
+
+**Part004 final closure.**

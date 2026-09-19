@@ -499,3 +499,40 @@ Durable record:
 ## Current exact next activity
 
 Perform **Part004 whole-Part bilingual review** across all five Tamil/English pairs / scans91–120.
+
+## Part004 bilingual review — PASS / CLOSED
+
+- Tamil/English pairs — **5/5**
+- editorial changes rechecked — **25/25**
+- bilingual English-only corrections — **0**
+- unresolved bilingual holds — **0**
+- unresolved Tamil-fidelity holds — **0**
+
+Durable record:
+- `PART_004_BILINGUAL_REVIEW.md`
+
+## Part004 release/readiness — PASS / CLOSED
+
+- release/readiness blockers — **0**
+- source PDFs in active work tree — **0**
+- body edits caused by release/readiness — **0**
+
+Durable record:
+- `PART_004_RELEASE_REPORT.md`
+
+## Part004 release-ready synchronization — PASS / CLOSED
+
+- canonical Tamil changes — **0**
+- assembled Tamil changes — **0**
+- maintained English changes — **0**
+- source-variant collapses — **0**
+- Part005 leakage — **0**
+
+Durable record:
+- `../../PART_004_RELEASE_READY_SYNC.md`
+
+## Current exact next activity
+
+Create and verify **Part004 final closure** `../../PART_004_FINAL_CLOSURE.md`.
+
+Do not begin Part005 transcription until final closure passes.

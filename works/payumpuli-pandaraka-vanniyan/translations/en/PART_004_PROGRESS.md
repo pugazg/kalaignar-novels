@@ -17,8 +17,8 @@ Part001, Part002 and Part003 English remain **FINAL CLOSED / FROZEN**.
 | Editorial | Part004 whole-Part English editorial review | 91–120 | **PASS / CLOSED** |
 | Bilingual | Part004 whole-Part bilingual review | 91–120 | **PASS / CLOSED** |
 | Release | Part004 release/readiness report | 91–120 | **PASS / CLOSED** |
-| Release sync | Part004 release-ready synchronization | 91–120 | **NOT STARTED / NEXT GATE** |
-| Final closure | Part004 final closure | 91–120 | **NOT STARTED** |
+| Release sync | Part004 release-ready synchronization | 91–120 | **PASS / CLOSED** |
+| Final closure | Part004 final closure | 91–120 | **NOT STARTED / NEXT GATE** |
 
 ## Current counts
 
@@ -46,7 +46,8 @@ Part001, Part002 and Part003 English remain **FINAL CLOSED / FROZEN**.
 - unresolved bilingual holds — **0**
 - release/readiness report — **PASS / CLOSED**
 - unresolved release/readiness blockers — **0**
-- release-ready synchronization — **NOT STARTED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **NOT STARTED / NEXT GATE**
 - final closure — **NOT STARTED**
 - canonical Tamil edits caused by English planning — **0**
 - assembled Tamil edits caused by English planning — **0**
@@ -191,6 +192,20 @@ Part005 remains blocked until Part004 final closure.
 - Part005 leakage — **0**
 - durable record — `PART_004_RELEASE_REPORT.md`
 
+## Release-ready synchronization closure
+
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- canonical Tamil changes — **0**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- source-variant collapses — **0**
+- frozen Part001–Part003 body changes — **0**
+- Part005 leakage — **0**
+- durable record — `../../PART_004_RELEASE_READY_SYNC.md`
+
 ## Exact next activity
 
-Perform **Part004 release-ready synchronization**.
+Create and verify **Part004 final closure** `../../PART_004_FINAL_CLOSURE.md`.
+
+Do not begin Part005 transcription until final closure passes.

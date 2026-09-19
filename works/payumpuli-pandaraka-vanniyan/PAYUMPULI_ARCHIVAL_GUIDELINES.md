@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001, Part002 and Part003 are **FINAL CLOSED / FROZEN**. Part004 is **ACTIVE / AUTHORIZED — BILINGUAL REVIEW CLOSED / RELEASE READINESS NEXT**.
+Part001, Part002 and Part003 are **FINAL CLOSED / FROZEN**. Part004 is **ACTIVE / AUTHORIZED — RELEASE-READY SYNC CLOSED / FINAL CLOSURE NEXT**.
 
 ## Tamil Part workflow
 
@@ -136,10 +136,12 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part004 bilingual review: PASS / CLOSED**
 - **Part004 bilingual English-only corrections: 0**
 - **Part004 unresolved bilingual holds: 0**
-- **Part004 release/readiness: NOT STARTED / NEXT GATE**
+- **Part004 release/readiness: PASS / CLOSED**
+- **Part004 release-ready synchronization: PASS / CLOSED**
+- **Part004 final closure: NOT STARTED / NEXT GATE**
 
 ## Exact next gate
 
-Create and complete **Part004 release/readiness report**.
+Create and verify **Part004 final closure**.
 
 Preserve both audited Part004 boundaries: **90→91 GENUINE CONTINUATION** and **120→121 GENUINE CONTINUATION**. Do not begin Part005 transcription.

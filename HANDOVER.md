@@ -167,7 +167,8 @@ Durable final record:
 - Part004 unresolved bilingual holds — **0**
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 unresolved release/readiness blockers — **0**
-- Part004 release-ready synchronization — **NOT STARTED / NEXT GATE**
+- Part004 release-ready synchronization — **PASS / CLOSED**
+- Part004 final closure — **NOT STARTED / NEXT GATE**
 - Part001–Part003 remain **FINAL CLOSED / FROZEN**
 
 Durable records:
@@ -195,6 +196,6 @@ Durable records:
 
 ## Exact next activity
 
-Perform **Part004 release-ready synchronization**.
+Create and verify **Part004 final closure** `works/payumpuli-pandaraka-vanniyan/PART_004_FINAL_CLOSURE.md`.
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 canonical Tamil, assembled Tamil and maintained English body files.

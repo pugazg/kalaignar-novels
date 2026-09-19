@@ -104,7 +104,13 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part004 English glossary reconciliation — **RECONCILED / PASS**
 - Part004 glossary-reconciliation English section edits — **0**
 - Part004 unresolved glossary holds — **0**
-- Part004 English editorial review — **NOT STARTED / NEXT GATE**
+- Part004 English editorial review — **PASS / CLOSED**
+- Part004 editorial English-only changes — **25**
+- Part004 whole-Part bilingual review — **PASS / CLOSED**
+- Part004 bilingual English-only corrections — **0**
+- Part004 release/readiness — **PASS / CLOSED**
+- Part004 release-ready synchronization — **PASS / CLOSED**
+- Part004 final closure — **NOT STARTED / NEXT GATE**
 - Part005 — **BLOCKED / NOT ACTIVE**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
@@ -128,6 +134,6 @@ Authoritative Part004 verification records:
 
 ## Exact next activity
 
-Perform **Part004 English editorial review across all five maintained English files / scans91–120**.
+Create and verify **Part004 final closure**.
 
 Preserve both audited Part004 boundaries and do not begin Part005 transcription.

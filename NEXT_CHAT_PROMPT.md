@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part004 English editorial review
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part004 final closure
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,16 +6,16 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 1. `HANDOVER.md`
 2. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
-3. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_004_TRANSLATION_PLAN.md`
-4. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_004_GLOSSARY.md`
-5. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_004_GLOSSARY_RECONCILIATION.md`
-6. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_004_PROGRESS.md`
-7. `works/payumpuli-pandaraka-vanniyan/translations/en/E15_SOURCE_CHECK.md`
-8. `works/payumpuli-pandaraka-vanniyan/translations/en/E16_SOURCE_CHECK.md`
-9. `works/payumpuli-pandaraka-vanniyan/translations/en/E17_SOURCE_CHECK.md`
-10. `works/payumpuli-pandaraka-vanniyan/translations/en/E18_SOURCE_CHECK.md`
-11. `works/payumpuli-pandaraka-vanniyan/translations/en/E19_SOURCE_CHECK.md`
-12. frozen precedent: `works/payumpuli-pandaraka-vanniyan/translations/en/PART_003_TRANSLATION_REVIEW.md`
+3. `works/payumpuli-pandaraka-vanniyan/PART_004_TAMIL_ARCHIVAL_READY.md`
+4. `works/payumpuli-pandaraka-vanniyan/PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
+5. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_004_TRANSLATION_PLAN.md`
+6. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_004_GLOSSARY_RECONCILIATION.md`
+7. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_004_TRANSLATION_REVIEW.md`
+8. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_004_BILINGUAL_REVIEW.md`
+9. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_004_RELEASE_REPORT.md`
+10. `works/payumpuli-pandaraka-vanniyan/PART_004_RELEASE_READY_SYNC.md`
+11. `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
+12. frozen precedent: `works/payumpuli-pandaraka-vanniyan/PART_003_FINAL_CLOSURE.md`
 
 ## Frozen authority
 
@@ -23,50 +23,51 @@ Part001–Part003 are **FINAL CLOSED / FROZEN**.
 
 Do not modify their canonical Tamil, assembled Tamil or maintained English body files.
 
-## Part004 English state
+## Part004 pre-final state
 
+- canonical scans — **91–120**
 - canonical Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
-- English batches E15–E19 — **5/5 SOURCE-CHECKED / COMPLETE**
-- whole-Part English glossary reconciliation — **RECONCILED / PASS**
-- glossary-reconciliation English section edits — **0**
-- unresolved glossary holds — **0**
+- English E15–E19 — **5/5 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- editorial English-only changes — **25**
+- whole-Part bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections — **0**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved blockers across all gates — **0**
+- source PDFs in active work tree — **0**
 - incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
-- internal 113→114 split provenance — **preserved**
 - outgoing 120→121 — **GENUINE CONTINUATION / AUDITED**
-- E19 intentionally ends with incomplete scan120 fragment ***vilai***; scan121 is not imported
-- Part005 remains **BLOCKED**
-
-## Maintained English files
-
-1. `translations/en/sections/18-the-officers-advice-part004.md`
-2. `translations/en/sections/19-who-should-apologize-to-whom.md`
-3. `translations/en/sections/20-can-one-forget-the-concealment-of-honour.md`
-4. `translations/en/sections/21-the-path-she-walked.md`
-5. `translations/en/sections/22-two-hearts.md`
+- Part005 canonical records — **0 / BLOCKED**
 
 ## Exact activity
 
-Perform **Part004 English editorial review across all 5 maintained English files / scans91–120**.
+Create and verify `works/payumpuli-pandaraka-vanniyan/PART_004_FINAL_CLOSURE.md`.
 
-Requirements:
+Final closure must independently confirm:
 
-- follow the established Part003 editorial-review method;
-- review all five maintained English files for readability, grammar, idiom, dialogue flow, punctuation, awkward literalism and prose continuity;
-- preserve source meaning, agency, rhetorical force, political/historical attribution and deliberate glossary variants;
-- use the assembled Tamil / canonical Tamil only to resolve meaning or detect source-alignment defects;
-- never modify canonical Tamil or assembled Tamil merely to improve English;
-- preserve incoming 90→91 fragment handling;
-- preserve internal 113→114 provenance;
-- preserve outgoing 120→121 boundary and incomplete ***vilai*** fragment without importing scan121;
-- do not normalize deliberate source variants such as **Pandaraka/Pandara/Pandarakan**, **Naachchi/Naachchiyar**, **Sangili Thatha/Thalapathi/Sangiliyar**, or Thanga Naachchi honorific forms;
-- record every maintained-English change and classify source-alignment corrections separately from ordinary editorial changes;
-- create `translations/en/PART_004_TRANSLATION_REVIEW.md`;
-- update Part004 progress/README/handover controls after review closes;
-- do not begin bilingual review or Part005 transcription in the same gate.
+1. complete Part004 Tamil archival chain;
+2. assembled Tamil closure;
+3. E15–E19 English source-check closure;
+4. whole-Part glossary reconciliation;
+5. English editorial review;
+6. whole-Part bilingual review;
+7. release/readiness;
+8. release-ready synchronization;
+9. unresolved blocker accounting;
+10. 90→91 and 120→121 boundary integrity;
+11. no post-release textual drift;
+12. protected source-variant integrity;
+13. Part005 activation rule.
+
+Final closure must make **0** canonical Tamil, assembled Tamil or maintained English body changes.
 
 ## Stop rule
 
-Stop after **Part004 English editorial review — PASS / CLOSED**.
+Stop after **PART004 FINAL CLOSURE — PASS / CLOSED / FROZEN** is durably recorded and synchronized.
 
-The next gate is **Part004 whole-Part bilingual review across all five Tamil/English pairs / scans91–120**.
+Only after that may Part005 become **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Do not begin Part005 transcription in the final-closure iteration.

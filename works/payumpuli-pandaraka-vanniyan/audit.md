@@ -1216,3 +1216,36 @@ Durable record:
 ## Current Part004 frontier
 
 Create and complete **Part004 release/readiness report**.
+
+## Part004 release/readiness — PASS / CLOSED
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **5/5 VERIFIED / CLOSED**
+- maintained English — **5/5 source-checked**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+- source PDFs in active work tree — **0**
+- Part005 leakage — **0**
+
+Durable record:
+- `translations/en/PART_004_RELEASE_REPORT.md`
+
+## Part004 release-ready synchronization — PASS / CLOSED
+
+- canonical Tamil body changes — **0**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- source-variant collapses — **0**
+- frozen Part001–Part003 body changes — **0**
+- Part005 leakage — **0**
+
+Durable record:
+- `PART_004_RELEASE_READY_SYNC.md`
+
+## Current Part004 frontier
+
+Create and verify **Part004 final closure**.
+
+Do not begin Part005 transcription until final closure passes.
