@@ -1150,3 +1150,30 @@ Durable batch records:
 Perform **Part004 whole-Part English glossary reconciliation**.
 
 Do not begin editorial review or Part005 transcription until glossary reconciliation closes.
+
+## Part004 whole-Part English glossary reconciliation — RECONCILED / PASS
+
+All five source-checked Part004 English files were reconciled together across scans91–120:
+
+- maintained English files checked — **5/5**
+- scan coverage — **91–120 / 30 pages**
+- accidental spelling/romanization drift requiring body edits — **0**
+- maintained English section files changed by reconciliation — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil mutations — **0**
+- assembled Tamil mutations — **0**
+- frozen Part001–Part003 English body mutations — **0**
+- Part005 leakage — **0**
+- incoming 90→91 boundary — **preserved**
+- internal 113→114 split provenance — **preserved**
+- outgoing 120→121 boundary — **preserved**
+- incomplete E19 ***vilai*** fragment — **retained without scan121 semantic completion**
+
+Durable record:
+- `translations/en/PART_004_GLOSSARY_RECONCILIATION.md`
+
+## Current Part004 frontier
+
+Perform **Part004 English editorial review across all five maintained English files / scans91–120**.
+
+Do not begin bilingual review or Part005 transcription until editorial review closes.

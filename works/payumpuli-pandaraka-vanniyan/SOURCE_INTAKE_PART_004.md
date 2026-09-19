@@ -73,12 +73,15 @@ Part 004 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE PART / TA
 - Part004 E17 — **SOURCE-CHECKED / COMPLETE**
 - Part004 E18 — **SOURCE-CHECKED / COMPLETE**
 - Part004 E19 — **SOURCE-CHECKED / COMPLETE**
-- Part004 English glossary reconciliation — **NOT STARTED / NEXT GATE**
+- Part004 English glossary reconciliation — **RECONCILED / PASS**
+- Part004 glossary-reconciliation English section edits — **0**
+- Part004 unresolved glossary holds — **0**
+- Part004 English editorial review — **NOT STARTED / NEXT GATE**
 
 Part003 remains **FINAL CLOSED / FROZEN**. Part005 scan121 was inspected only as an outgoing boundary witness; no Part005 canonical record was created.
 
 ## Exact next activity
 
-Perform **Part004 whole-Part English glossary reconciliation**.
+Perform **Part004 English editorial review across all five maintained English files / scans91–120**.
 
 Do not begin Part005 transcription.

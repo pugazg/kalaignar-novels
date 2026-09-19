@@ -1,6 +1,6 @@
 # Part 004 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E15–E19 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
+Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 This glossary is derived only from verified Part004 canonical/assembled Tamil plus already-closed Part001–Part003 project English choices where the **same Tamil source form** recurs.
 
@@ -210,8 +210,31 @@ Outgoing **120→121 = GENUINE CONTINUATION / AUDITED** remains a hard boundary 
 - frozen Part001–Part003 English body changes — **0**
 - Part005 leakage — **0**
 
+## Whole-Part reconciliation closure
+
+**PART004 WHOLE-PART GLOSSARY — RECONCILED / PASS**
+
+Durable record:
+- `PART_004_GLOSSARY_RECONCILIATION.md`
+
+Reconciliation result:
+- maintained English files checked — **5/5**
+- scan coverage — **91–120 / 30 pages**
+- accidental spelling/romanization drift requiring body edits — **0**
+- maintained English section files changed by reconciliation — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001–Part003 English body edits — **0**
+- Part005 leakage — **0**
+- incoming 90→91 boundary — **preserved**
+- internal 113→114 split provenance — **preserved**
+- outgoing 120→121 boundary and incomplete ***vilai*** fragment — **preserved without scan121 completion**
+
+The reconciled glossary preserves deliberate source-derived variants rather than cosmetically normalizing them.
+
 ## Exact next gate
 
-**Part004 whole-Part English glossary reconciliation.**
+**Part004 English editorial review across all 5 maintained English files / scans91–120.**
 
-Reconcile recurring names, titles, source labels and variants across E15–E19 before editorial review. Canonical and assembled Tamil remain unchanged.
+Do not begin bilingual review until editorial review closes. Canonical and assembled Tamil remain unchanged.

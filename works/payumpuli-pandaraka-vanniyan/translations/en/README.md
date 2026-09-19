@@ -456,3 +456,27 @@ After E19:
 Perform **Part004 whole-Part English glossary reconciliation**.
 
 Do not begin editorial review until glossary reconciliation closes. Do not begin Part005 transcription.
+
+## Part004 glossary reconciliation — RECONCILED / PASS
+
+Part004 whole-Part English glossary reconciliation is now **RECONCILED / PASS**.
+
+- maintained English files checked — **5/5**
+- scans covered — **91–120 / 30 pages**
+- accidental English drift requiring section edits — **0**
+- English section files changed by reconciliation — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil body edits — **0**
+- frozen Part001–Part003 English body edits — **0**
+- Part005 leakage — **0**
+- outgoing incomplete ***vilai*** boundary fragment — **retained without scan121 completion**
+
+Durable record:
+- `PART_004_GLOSSARY_RECONCILIATION.md`
+
+## Current exact next activity
+
+Perform **Part004 English editorial review** across all five maintained English files / scans91–120.
+
+Do not begin bilingual review until editorial review closes. Do not begin Part005 transcription.

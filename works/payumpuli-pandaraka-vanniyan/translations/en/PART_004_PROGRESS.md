@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART004 E15–E19 — SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
+**PART004 GLOSSARY — RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 Part001, Part002 and Part003 English remain **FINAL CLOSED / FROZEN**.
 
@@ -13,8 +13,8 @@ Part001, Part002 and Part003 English remain **FINAL CLOSED / FROZEN**.
 | **E17** | section 20 — `மான மறைப்பு மறக்கலாமா?` | **103–109** | **SOURCE-CHECKED / COMPLETE** |
 | **E18** | section 21 — `அவள் நடந்த பாதை` | **110–115** | **SOURCE-CHECKED / COMPLETE** |
 | **E19** | section 22 — `இருவர் உள்ளம்` | **116–120** | **SOURCE-CHECKED / COMPLETE** |
-| Glossary | Part004 whole-Part reconciliation | 91–120 | **NOT STARTED / NEXT GATE** |
-| Editorial | Part004 whole-Part English editorial review | 91–120 | **NOT STARTED** |
+| Glossary | Part004 whole-Part reconciliation | 91–120 | **RECONCILED / PASS** |
+| Editorial | Part004 whole-Part English editorial review | 91–120 | **NOT STARTED / NEXT GATE** |
 | Bilingual | Part004 whole-Part bilingual review | 91–120 | **NOT STARTED** |
 | Release | Part004 release/readiness report | 91–120 | **NOT STARTED** |
 | Release sync | Part004 release-ready synchronization | 91–120 | **NOT STARTED** |
@@ -34,7 +34,9 @@ Part001, Part002 and Part003 English remain **FINAL CLOSED / FROZEN**.
 - unresolved E17 holds — **0**
 - unresolved E18 holds — **0**
 - unresolved E19 holds — **0**
-- whole-Part glossary reconciliation — **NOT STARTED**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English section edits caused by reconciliation — **0**
+- unresolved glossary holds — **0**
 - English editorial review — **NOT STARTED**
 - whole-Part bilingual review — **NOT STARTED**
 - release/readiness report — **NOT STARTED**
@@ -131,8 +133,21 @@ Part005 remains blocked until Part004 final closure.
 - Part005 leakage — **0**
 - outgoing E19 terminal fragment remains intentionally incomplete at scan120
 
+## Glossary reconciliation closure
+
+- maintained English files checked — **5/5**
+- scan coverage — **91–120**
+- result — **RECONCILED / PASS**
+- accidental English drift requiring section edits — **0**
+- English section files changed by reconciliation — **0**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0**
+- frozen prior-Part English body edits — **0**
+- Part005 leakage — **0**
+- durable record — `PART_004_GLOSSARY_RECONCILIATION.md`
+
 ## Exact next activity
 
-Perform **Part004 whole-Part English glossary reconciliation**.
+Perform **Part004 English editorial review across all 5 maintained English files / scans91–120**.
 
-Do not begin English editorial review until reconciliation closes. Do not begin Part005 transcription.
+Do not begin bilingual review until editorial review closes. Do not begin Part005 transcription.

@@ -531,7 +531,10 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part004 E17 — **SOURCE-CHECKED / COMPLETE**
 - Part004 E18 — **SOURCE-CHECKED / COMPLETE**
 - Part004 E19 — **SOURCE-CHECKED / COMPLETE**
-- Part004 English glossary reconciliation — **NOT STARTED / NEXT GATE**
+- Part004 English glossary reconciliation — **RECONCILED / PASS**
+- Part004 glossary-reconciliation English section edits — **0**
+- Part004 unresolved glossary holds — **0**
+- Part004 English editorial review — **NOT STARTED / NEXT GATE**
 - audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION**
 - Part005 — **BLOCKED / NOT ACTIVE**
 
@@ -539,6 +542,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Perform **Part004 whole-Part English glossary reconciliation**.
+Perform **Part004 English editorial review across all five maintained English files / scans91–120**.
 
 Do not modify verified page records and do not begin Part005 transcription.

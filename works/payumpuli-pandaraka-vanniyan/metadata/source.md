@@ -157,7 +157,10 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - Part004 E17 — **SOURCE-CHECKED / COMPLETE**
 - Part004 E18 — **SOURCE-CHECKED / COMPLETE**
 - Part004 E19 — **SOURCE-CHECKED / COMPLETE**
-- Part004 English glossary reconciliation — **NOT STARTED / NEXT GATE**
+- Part004 English glossary reconciliation — **RECONCILED / PASS**
+- Part004 glossary-reconciliation English section edits — **0**
+- Part004 unresolved glossary holds — **0**
+- Part004 English editorial review — **NOT STARTED / NEXT GATE**
 - Part005 — **BLOCKED / NOT ACTIVE**
 - audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION**
 - terminal page function for complete 477-scan source — **not yet visually audited**
@@ -185,6 +188,6 @@ Durable rule:
 
 ## Exact next activity
 
-Perform **Part004 whole-Part English glossary reconciliation**.
+Perform **Part004 English editorial review across all five maintained English files / scans91–120**.
 
 Do not modify verified canonical or assembled Tamil body text and do not begin Part005 transcription.

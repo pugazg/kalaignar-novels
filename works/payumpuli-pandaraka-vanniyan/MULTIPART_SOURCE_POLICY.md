@@ -94,7 +94,10 @@ For every `N→N+1` boundary:
 - Part004 E17 — **SOURCE-CHECKED / COMPLETE**
 - Part004 E18 — **SOURCE-CHECKED / COMPLETE**
 - Part004 E19 — **SOURCE-CHECKED / COMPLETE**
-- Part004 English glossary reconciliation — **NOT STARTED / NEXT GATE**
+- Part004 English glossary reconciliation — **RECONCILED / PASS**
+- Part004 glossary-reconciliation English section edits — **0**
+- Part004 unresolved glossary holds — **0**
+- Part004 English editorial review — **NOT STARTED / NEXT GATE**
 - split-boundary classifications — **4 / 15 audited**
 
 Audited boundaries:
@@ -113,6 +116,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part004 whole-Part English glossary reconciliation.**
+**Part004 English editorial review across all five maintained English files / scans91–120.**
 
 Part001–Part003 remain frozen. Preserve both audited Part004 boundaries. Do not begin Part005 transcription.

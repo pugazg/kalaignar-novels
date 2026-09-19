@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001, Part002 and Part003 are **FINAL CLOSED / FROZEN**. Part004 is **ACTIVE / AUTHORIZED — ENGLISH BATCHES COMPLETE / GLOSSARY RECONCILIATION NEXT**.
+Part001, Part002 and Part003 are **FINAL CLOSED / FROZEN**. Part004 is **ACTIVE / AUTHORIZED — GLOSSARY RECONCILED / EDITORIAL REVIEW NEXT**.
 
 ## Tamil Part workflow
 
@@ -127,10 +127,13 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part004 E17: SOURCE-CHECKED / COMPLETE**
 - **Part004 E18: SOURCE-CHECKED / COMPLETE**
 - **Part004 E19: SOURCE-CHECKED / COMPLETE**
-- **Part004 English glossary reconciliation: NOT STARTED / NEXT GATE**
+- **Part004 English glossary reconciliation: RECONCILED / PASS**
+- **Part004 glossary-reconciliation English section edits: 0**
+- **Part004 unresolved glossary holds: 0**
+- **Part004 English editorial review: NOT STARTED / NEXT GATE**
 
 ## Exact next gate
 
-Perform **Part004 whole-Part English glossary reconciliation** across scans91–120.
+Perform **Part004 English editorial review across all five maintained English files / scans91–120**.
 
 Preserve both audited Part004 boundaries: **90→91 GENUINE CONTINUATION** and **120→121 GENUINE CONTINUATION**. Do not begin Part005 transcription.
