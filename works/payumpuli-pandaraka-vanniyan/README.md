@@ -184,7 +184,9 @@ Current verified Tamil state:
 - whole-Part bilingual review — **PASS / CLOSED**
 - bilingual English-only corrections — **0**
 - unresolved bilingual holds — **0**
-- release/readiness — **NOT STARTED / NEXT GATE**
+- release/readiness — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+- release-ready synchronization — **NOT STARTED / NEXT GATE**
 - incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 120→121 — **GENUINE CONTINUATION / AUDITED**
 
@@ -214,6 +216,7 @@ Durable Part004 records:
 - `translations/en/PART_004_GLOSSARY_RECONCILIATION.md`
 - `translations/en/PART_004_TRANSLATION_REVIEW.md`
 - `translations/en/PART_004_BILINGUAL_REVIEW.md`
+- `translations/en/PART_004_RELEASE_REPORT.md`
 - `translations/en/PART_004_PROGRESS.md`
 - `translations/en/E15_SOURCE_CHECK.md`
 - `translations/en/E19_SOURCE_CHECK.md`
@@ -223,6 +226,6 @@ Durable Part004 records:
 
 ## Exact next activity
 
-Create and complete **Part004 release/readiness report**.
+Perform **Part004 release-ready synchronization**.
 
 Do not modify verified Part004 canonical or assembled Tamil body text. Do not begin Part005 transcription.
