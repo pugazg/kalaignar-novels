@@ -306,27 +306,33 @@ Durable Part005 records now include:
 - `PART_005_RELEASE_READY_SYNC.md`
 - `PART_005_FINAL_CLOSURE.md`
 
-## Part006 — ACTIVE / PASS 1 IN PROGRESS
+## Part006 — ACTIVE / PASS 1 COMPLETE / PASS 2A NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf`
 - scans — **151–180**
-- canonical records — **20/30 — scans151–170**
+- canonical records — **30/30 — scans151–180**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 180→181 — **PENDING direct audit**
-- Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
+- outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - unresolved Pass-1 source-reading holds — **0**
-- next Pass-1 batch — **scans171–180 / local pages21–30**
-- Pass 2A — **BLOCKED until Pass 1 covers scans151–180**
+- Part007 canonical leakage — **0**
+- Pass 2A — **NOT STARTED / NEXT GATE**
 
-Notable Batch-2 structure:
-- scan162 closes chapter23 `நட்பின் இலக்கணம்!`;
-- scan163 opens chapter24 `வீரனல்ல, வீராங்கனை!`;
-- scan166 closes chapter24;
-- scan167 opens chapter25 `பேய் மகள் பியசிலி!`;
-- scan170 / printed161 ends at `“சிப்பாய்களே! என்னை`; scan171 was not inspected.
+Notable Batch-3 structure:
+- scan171 closes chapter25 `பேய் மகள் பியசிலி!`;
+- scan172 opens chapter26 `நடந்ததை விளக்கிய நச்சு நாக்கு!`;
+- scan174 is a full-page colour illustration with no printed body text or visible folio;
+- scan178 closes chapter26;
+- scan179 opens chapter27 `நார்த்தும் நயவஞ்சகமும்!`;
+- scan180 / printed171 ends `மருமகனே! என் மகளை வைத்துக் காப்பாற்றுவாய்`;
+- Part007 scan181 / printed172 continues `-கண்டி மண்டலத்தையும் காத்திடுவாய் என்று நம்பியிருந்தேன்.`;
+- **180→181 = GENUINE CONTINUATION / AUDITED**.
+
+Durable boundary record:
+- `PART_006_BOUNDARY_AUDIT_180_181.md`
 
 ## Exact next activity
 
-Continue **Part006 Pass 1 — global scans171–180 / local pages21–30**.
+Begin **Part006 Pass 2A — global scans151–160 / local pages1–10**.
 
-Preserve the already-audited incoming **150→151 GENUINE CONTINUATION** boundary. Create only Part006 canonical records with exact Part006 provenance. Keep outgoing **180→181** pending until directly audited. Do not begin Part006 Pass 2A until Pass 1 covers the full Part.
+Do not modify frozen Part001–Part005 body layers or create Part007 canonical records. Do not begin Pass 2B until Part006 Pass 2A covers all scans151–180.

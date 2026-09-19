@@ -176,16 +176,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 006 | 18 | 168 | 159 | `பேய் மகள் பியசிலி!` continuation | needs-review | `pages/0168-pey-magal-piyasili.md` |
 | 006 | 19 | 169 | 160 | `பேய் மகள் பியசிலி!` continuation | needs-review | `pages/0169-pey-magal-piyasili.md` |
 | 006 | 20 | 170 | 161 | `பேய் மகள் பியசிலி!` continuation; ends `“சிப்பாய்களே! என்னை` | needs-review | `pages/0170-pey-magal-piyasili.md` |
-| 006 | 21 | 171 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 22 | 172 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 23 | 173 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 24 | 174 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 25 | 175 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 26 | 176 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 27 | 177 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 28 | 178 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 29 | 179 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 30 | 180 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 21 | 171 | 162 | `பேய் மகள் பியசிலி!` continuation / chapter close | needs-review | `pages/0171-pey-magal-piyasili.md` |
+| 006 | 22 | 172 | 163 | chapter26 opening `நடந்ததை விளக்கிய நச்சு நாக்கு!` | needs-review | `pages/0172-nadanthathai-vilakkiya-nachu-naakku.md` |
+| 006 | 23 | 173 | 164 | `நடந்ததை விளக்கிய நச்சு நாக்கு!` continuation | needs-review | `pages/0173-nadanthathai-vilakkiya-nachu-naakku.md` |
+| 006 | 24 | 174 | — | full-page colour illustration; no printed body text / no visible folio | needs-review | `pages/0174-nadanthathai-vilakkiya-nachu-naakku.md` |
+| 006 | 25 | 175 | 166 | `நடந்ததை விளக்கிய நச்சு நாக்கு!` continuation after illustration | needs-review | `pages/0175-nadanthathai-vilakkiya-nachu-naakku.md` |
+| 006 | 26 | 176 | 167 | `நடந்ததை விளக்கிய நச்சு நாக்கு!` continuation | needs-review | `pages/0176-nadanthathai-vilakkiya-nachu-naakku.md` |
+| 006 | 27 | 177 | 168 | `நடந்ததை விளக்கிய நச்சு நாக்கு!` continuation | needs-review | `pages/0177-nadanthathai-vilakkiya-nachu-naakku.md` |
+| 006 | 28 | 178 | 169 | short chapter-closing page; `நடந்ததை விளக்கிய நச்சு நாக்கு!` closes | needs-review | `pages/0178-nadanthathai-vilakkiya-nachu-naakku.md` |
+| 006 | 29 | 179 | 170 | chapter27 opening `நார்த்தும் நயவஞ்சகமும்!` | needs-review | `pages/0179-narthum-nayavanjagamum.md` |
+| 006 | 30 | 180 | 171 | `நார்த்தும் நயவஞ்சகமும்!`; 180→181 genuine continuation audited | needs-review | `pages/0180-narthum-nayavanjagamum.md` |
 | 007 | 1 | 181 | — | unclassified — direct visual audit pending | not-started | — |
 | 007 | 2 | 182 | — | unclassified — direct visual audit pending | not-started | — |
 | 007 | 3 | 183 | — | unclassified — direct visual audit pending | not-started | — |
@@ -541,7 +541,7 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
-- audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION; 150→151 GENUINE CONTINUATION**
+- audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION; 150→151 GENUINE CONTINUATION; 180→181 GENUINE CONTINUATION**
 - Part005 — **FINAL CLOSED / FROZEN**
 - Part005 canonical page records — **30/30 — scans121–150**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
@@ -589,18 +589,18 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - release-sync protected source-variant collapses — **0**
 - Part006 leakage — **0**
 - final closure — **PASS / CLOSED / FROZEN**
-- Part006 canonical page records — **20/30 — scans151–170**
-- Part006 Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
+- Part006 canonical page records — **30/30 — scans151–180**
+- Part006 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part006 unresolved Pass-1 source-reading holds — **0**
 - Part006 incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
-- Part006 outgoing 180→181 — **PENDING direct audit**
-- Part006 next Pass-1 batch — **scans171–180 / local pages21–30**
-- Part006 Pass 2A — **BLOCKED until Pass 1 covers scans151–180**
+- Part006 outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
+- Part006 Pass 2A — **NOT STARTED / NEXT GATE**
+- Part007 canonical leakage — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Continue **Part006 Pass 1 — global scans171–180 / local pages21–30**.
+Begin **Part006 Pass 2A — global scans151–160 / local pages1–10**.
 
-Preserve the already-audited incoming **150→151 GENUINE CONTINUATION** boundary. Create only Part006 canonical records with exact Part006 provenance. Keep outgoing **180→181** pending until directly audited. Do not begin Part006 Pass 2A until Pass 1 covers the full Part.
+Do not modify frozen Part001–Part005 body layers. Do not create Part007 canonical records. Do not begin Part006 Pass 2B until Pass 2A covers all scans151–180.

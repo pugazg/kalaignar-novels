@@ -42,15 +42,17 @@ The canonical `scan_page` remains the overall scan number **151–180**.
 
 ## Current gate
 
-Part006 is **ACTIVE / PASS 1 IN PROGRESS**.
+Part006 Pass 1 is **COMPLETE / PASS — 30/30 TEXT-COMPLETE**.
 
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 180→181 — **PENDING direct audit**
-- canonical Part006 page records — **20/30 — scans151–170**
-- Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
-- completed Pass-1 batches — **global scans151–170 / local pages1–20**
+- outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
+- canonical Part006 page records — **30/30 — scans151–180**
 - unresolved Pass-1 source-reading holds — **0**
-- next Pass-1 batch — **global scans171–180 / local pages21–30**
-- Pass 2A — **BLOCKED until Pass 1 covers scans151–180**
+- durable outgoing boundary record — `PART_006_BOUNDARY_AUDIT_180_181.md`
+- Part007 scan181 was used only as an adjacent boundary witness
+- Part007 canonical leakage — **0**
+- Pass 2A — **NOT STARTED / NEXT GATE**
 
-Part001–Part005 remain **FINAL CLOSED / FROZEN**. The exact next range is scans171–180.
+Part001–Part005 remain **FINAL CLOSED / FROZEN**.
+
+Exact next range: **Part006 Pass 2A scans151–160 / local pages1–10**.
