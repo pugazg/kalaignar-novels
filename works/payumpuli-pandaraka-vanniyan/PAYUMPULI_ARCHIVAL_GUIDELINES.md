@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001–Part004 are **FINAL CLOSED / FROZEN**. Part005 is **ACTIVE / AUTHORIZED — TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL NEXT**.
+Part001–Part005 are **FINAL CLOSED / FROZEN**. Part006 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
 
 ## Tamil Part workflow
 
@@ -140,7 +140,7 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part004 release/readiness: PASS / CLOSED**
 - **Part004 release-ready synchronization: PASS / CLOSED**
 - **Part004 final closure: PASS / CLOSED / FROZEN**
-- **Part005: ACTIVE / AUTHORIZED — RELEASE SYNC CLOSED / FINAL CLOSURE NEXT**
+- **Part005: FINAL CLOSED / FROZEN**
 - **Part005 canonical range: scans121–150**
 - **Part005 canonical page records: 30/30 — scans121–150**
 - **Part005 incoming 120→121: GENUINE CONTINUATION / AUDITED**
@@ -164,10 +164,23 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part005 canonical page mutations caused by assembly: 0**
 - **Part005 frozen Part001–Part004 assembled-file mutations: 0**
 - **Part005 Part006 body leakage: 0**
-- **Part005 English translation planning/setup: NOT STARTED / NEXT GATE**
+- **Part005 English translation planning/setup: COMPLETE / PASS**
+
+- **Part005 English E20–E26: SOURCE-CHECKED / COMPLETE — 7/7**
+- **Part005 English glossary reconciliation: RECONCILED / PASS**
+- **Part005 English editorial review: PASS / CLOSED — 3 changes; 1 source-alignment correction**
+- **Part005 whole-Part bilingual review: PASS / CLOSED — 0 further corrections**
+- **Part005 release/readiness: PASS / CLOSED**
+- **Part005 release-ready synchronization: PASS / CLOSED**
+- **Part005 final closure: PASS / CLOSED / FROZEN**
+- **Part006: NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- **Part006 canonical range: scans151–180**
+- **Part006 canonical page records: 0**
+- **Part006 incoming 150→151: GENUINE CONTINUATION / AUDITED**
+- **Part006 outgoing 180→181: PENDING direct audit**
 
 ## Exact next gate
 
-Create and verify **Part005 final closure**.
+**Part006 Pass 1 — global scans151–160 / local pages1–10.**
 
-Preserve frozen Part001–Part004 body and English layers and both audited Part005 boundaries. Use only the closed Part005 canonical/assembled Tamil authority; do not import Part006 body text.
+Part001–Part005 remain **FINAL CLOSED / FROZEN**. Preserve incoming **150→151 GENUINE CONTINUATION / AUDITED** and do not alter frozen Part005 body layers.

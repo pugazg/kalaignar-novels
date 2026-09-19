@@ -42,6 +42,13 @@ The canonical `scan_page` remains the overall scan number **151–180**.
 
 ## Current gate
 
-Part 006 source split: **SUPPLIED / REGISTERED**.
+Part006 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
 
-This Part waits behind the global active frontier. Its incoming 150→151 boundary has been directly audited as **GENUINE CONTINUATION** using Part005 scan150 and this Part's local page1 / global scan151 as adjacent witnesses. No Part006 canonical page record was created. Do not create Part006 page records until Part005 reaches final closure.
+Part005 is now **FINAL CLOSED / FROZEN**. The Part lock is satisfied.
+
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 180→181 — **PENDING direct audit**
+- canonical Part006 page records — **0**
+- first normal Pass-1 batch — **global scans151–160 / local pages1–10**
+
+On the next explicit continuation, begin Part006 Pass 1 using exact Part006 provenance. Do not import frozen Part005 body text into Part006 canonical records, and do not begin Pass 2A until Pass 1 covers the full Part.

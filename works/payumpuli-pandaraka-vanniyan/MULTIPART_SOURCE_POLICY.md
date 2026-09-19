@@ -38,7 +38,7 @@ For every `N→N+1` boundary:
 - 16 / 16 split PDFs — **SUPPLIED / REGISTERED**
 - Part001 — **FINAL CLOSURE / CLOSED / FROZEN**
 - Part002 — **FINAL CLOSURE / CLOSED / FROZEN**
-- active Part — **Part005 / scans121–150**
+- active Part — **Part006 / scans151–180**
 - Part003 canonical records — **30/30**
 - Part003 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part003 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
@@ -104,7 +104,7 @@ For every `N→N+1` boundary:
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
-- Part005 — **ACTIVE / AUTHORIZED — RELEASE SYNC CLOSED / FINAL CLOSURE NEXT**
+- Part005 — **FINAL CLOSED / FROZEN**
 - Part005 canonical page records — **30/30 — scans121–150**
 - Part005 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
@@ -149,7 +149,11 @@ For every `N→N+1` boundary:
 - release-sync canonical/assembled/English body changes — **0**
 - release-sync protected source-variant collapses — **0**
 - Part006 leakage — **0**
-- final closure — **NOT STARTED / NEXT GATE**
+- final closure — **PASS / CLOSED / FROZEN**
+- Part006 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part006 canonical page records — **0**
+- Part006 incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- Part006 outgoing 180→181 — **PENDING direct audit**
 - split-boundary classifications — **5 / 15 audited**
 
 Audited boundaries:
@@ -170,6 +174,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part005 English translation planning/setup.**
+**Part006 Pass 1 — global scans151–160 / local pages1–10.**
 
-Part001–Part004 remain frozen. Preserve both audited Part005 boundaries. Use the closed Part005 canonical/assembled Tamil authority; preserve frozen prior-Part English and do not import Part006 body text.
+Part001–Part005 remain frozen. Preserve incoming **150→151 GENUINE CONTINUATION / AUDITED** and keep outgoing **180→181** pending direct audit.

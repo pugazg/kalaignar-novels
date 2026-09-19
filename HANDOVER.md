@@ -194,7 +194,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E16_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
 
-## Part005 — ACTIVE / RELEASE SYNC CLOSED / FINAL CLOSURE NEXT
+## Part005 — FINAL CLOSED / FROZEN
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
 - global scans — **121–150**
@@ -251,7 +251,7 @@ Durable records:
 - release-sync canonical/assembled/English body changes — **0**
 - release-sync protected source-variant collapses — **0**
 - Part006 leakage — **0**
-- final closure — **NOT STARTED / NEXT GATE**
+- final closure — **PASS / CLOSED / FROZEN**
 - Part001–Part004 — **FINAL CLOSED / FROZEN**
 
 Durable records:
@@ -264,9 +264,11 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_005_TAMIL_ARCHIVAL_READY.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_005_ASSEMBLED_TAMIL_VALIDATION.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_005_BOUNDARY_AUDIT_150_151.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_005_RELEASE_READY_SYNC.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_005_FINAL_CLOSURE.md`
 
 ## Exact next activity
 
-Create and verify **Part005 final closure**.
+Begin **Part006 Pass 1 — global scans151–160 / local pages1–10**.
 
-Independently confirm the entire Part005 Tamil/assembled/English/release chain, post-release drift, boundary locks and blocker accounting. Do not begin Part006 in this gate.
+Preserve the already-audited incoming **150→151 GENUINE CONTINUATION** boundary. Create only Part006 canonical records with exact Part006 provenance. Keep outgoing **180→181** pending until directly audited. Do not begin Part006 Pass 2A until Pass 1 covers the full Part.

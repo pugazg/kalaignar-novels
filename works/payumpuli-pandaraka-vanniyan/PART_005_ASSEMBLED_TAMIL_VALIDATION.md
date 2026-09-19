@@ -158,3 +158,12 @@ Part005 assembled Tamil is now **PASS / CLOSED — 7/7 VERIFIED**.
 Begin **Part005 English translation planning/setup**.
 
 Do not draft English prose in this assembled-Tamil gate. Do not begin release/readiness, final Part005 closure or Part006 transcription.
+
+
+## Post-final-closure state
+
+Part005 subsequently reached **PART005 FINAL CLOSURE — PASS / CLOSED / FROZEN**.
+
+Final closure confirms canonical/assembled/English body changes **0**, post-release body drift **0**, and Part006 leakage **0**.
+
+Part006 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Exact next activity: **Part006 Pass 1 — global scans151–160 / local pages1–10**.

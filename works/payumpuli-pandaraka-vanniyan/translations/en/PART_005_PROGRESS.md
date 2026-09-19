@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART005 RELEASE-READY SYNC — PASS / CLOSED — FINAL CLOSURE NEXT**
+**PART005 FINAL CLOSURE — PASS / CLOSED / FROZEN**
 
 Part001–Part004 English remain **FINAL CLOSED / FROZEN**.
 
@@ -20,7 +20,7 @@ Part001–Part004 English remain **FINAL CLOSED / FROZEN**.
 | Bilingual | Part005 whole-Part bilingual review | 121–150 | **PASS / CLOSED** |
 | Release | Part005 release/readiness | 121–150 | **PASS / CLOSED** |
 | Release sync | Part005 release-ready synchronization | 121–150 | **PASS / CLOSED** |
-| Final closure | Part005 final closure | 121–150 | **NOT STARTED** |
+| Final closure | Part005 final closure | 121–150 | **PASS / CLOSED / FROZEN** |
 
 ## Current counts
 
@@ -157,6 +157,14 @@ No Part005 English prose is drafted in this planning gate.
 - Part006 leakage — **0**
 - durable record — `../../PART_005_RELEASE_READY_SYNC.md`
 
+## Final closure
+
+- Part005 final closure — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
+- post-release canonical / assembled / English drift — **0**
+- Part006 leakage — **0**
+- durable record — `../../PART_005_FINAL_CLOSURE.md`
+
 ## Exact next activity
 
-**Part005 final closure.**
+**Part006 Pass 1 — global scans151–160 / local pages1–10.**

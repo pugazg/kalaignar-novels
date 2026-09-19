@@ -1323,3 +1323,23 @@ Part005 Tamil archival-ready — **PASS / CLOSED**.
 Perform **Part005 English translation planning/setup**.
 
 Part001–Part004 remain **FINAL CLOSED / FROZEN**. Use only the closed Part005 canonical and assembled Tamil authority; do not import Part006 body text.
+
+
+## Post-final-closure state
+
+Part005 subsequently reached:
+
+**PART005 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+Final closure confirms:
+- canonical Tamil body changes — **0**;
+- assembled Tamil body changes — **0**;
+- maintained English body changes — **0**;
+- protected source-variant collapses — **0**;
+- frozen Part001–Part004 body changes — **0**;
+- post-release canonical/assembled/English drift — **0**;
+- Part006 canonical/body leakage — **0**.
+
+Part006 is now **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+
+Exact next activity: **Part006 Pass 1 — global scans151–160 / local pages1–10**.

@@ -93,6 +93,25 @@ Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / RELEASE
 - release-sync canonical/assembled/English body changes — **0**
 - release-sync protected source-variant collapses — **0**
 - Part006 leakage — **0**
-- final closure — **NOT STARTED / NEXT GATE**
+- final closure — **PASS / CLOSED / FROZEN**
 
 Part004 remains **FINAL CLOSED / FROZEN**. Part005 assembled Tamil is closed; the exact next gate is English translation planning/setup.
+
+
+## Part005 final closure
+
+- Part005 final closure — **PASS / CLOSED / FROZEN**
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **7/7 VERIFIED / CLOSED**
+- maintained English — **7/7 SOURCE-CHECKED**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved blockers — **0**
+- post-release canonical / assembled / English drift — **0**
+- Part006 canonical/body leakage — **0**
+- durable record — `PART_005_FINAL_CLOSURE.md`
+
+Part006 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED** with canonical range **151–180**.

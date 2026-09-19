@@ -181,3 +181,12 @@ Durable record:
 Current next gate:
 
 **Part005 final closure.**
+
+
+## Post-final-closure state
+
+Part005 subsequently reached **PART005 FINAL CLOSURE — PASS / CLOSED / FROZEN**.
+
+Final closure confirms canonical/assembled/English body changes **0**, protected source-variant collapses **0**, post-release body drift **0**, and Part006 leakage **0**.
+
+Part006 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Exact next activity: **Part006 Pass 1 — global scans151–160 / local pages1–10**.

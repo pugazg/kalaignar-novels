@@ -80,7 +80,7 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part001 — **FINAL CLOSED / FROZEN**
 - Part002 — **FINAL CLOSED / FROZEN**
 - Part003 — **FINAL CLOSED / FROZEN**
-- active content Part — **Part005 / scans121–150**
+- active content Part — **Part006 / scans151–180**
 - canonical Part004 records — **30/30 present**
 - Part004 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part004 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
@@ -111,7 +111,7 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
-- Part005 — **ACTIVE / AUTHORIZED — ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT**
+- Part005 — **FINAL CLOSED / FROZEN**
 - Part005 canonical page records — **30/30 — scans121–150**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - Part005 outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
@@ -132,7 +132,7 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part005 canonical page mutations caused by assembly — **0**
 - frozen Part001–Part004 assembled-file mutations — **0**
 - Part006 body leakage — **0**
-- Part005 English translation planning/setup — **NOT STARTED / NEXT GATE**
+- Part005 English translation planning/setup — **COMPLETE / PASS**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
 - boundary 90→91 — **GENUINE CONTINUATION / AUDITED**
@@ -154,8 +154,22 @@ Authoritative Part004 verification records:
 - `PART_004_TAMIL_ARCHIVAL_READY.md`
 - `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
 
+## Part005 final state
+
+- Part005 final closure — **PASS / CLOSED / FROZEN**
+- Part005 maintained English files — **7/7 SOURCE-CHECKED**
+- Part005 glossary reconciliation — **RECONCILED / PASS**
+- Part005 editorial review — **PASS / CLOSED**
+- Part005 bilingual review — **PASS / CLOSED**
+- Part005 release/readiness — **PASS / CLOSED**
+- Part005 release-ready synchronization — **PASS / CLOSED**
+- Part005 unresolved blockers — **0**
+- Part005 post-release body drift — **0**
+- Part006 canonical records at closure — **0**
+- Part006 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+
 ## Exact next activity
 
-Perform **Part005 English translation planning/setup**.
+Begin **Part006 Pass 1 — global scans151–160 / local pages1–10**.
 
-Preserve both audited Part005 boundaries. Do not modify frozen Part001–Part004 body/assembled/English layers. Use only the closed Part005 canonical and assembled Tamil authority; do not import Part006 body text.
+Preserve the already-audited incoming **150→151 GENUINE CONTINUATION** boundary. Create only Part006 canonical records with exact Part006 provenance. Keep outgoing **180→181** pending until directly audited. Do not begin Part006 Pass 2A until Pass 1 covers the full Part.

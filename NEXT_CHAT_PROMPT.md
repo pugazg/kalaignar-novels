@@ -1,27 +1,30 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part005 final closure
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part006 Pass 1 scans151–160
 
-Continue from live `main` in `pugazg/kalaignar-novels`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Part005 is closed through release-ready synchronization:
+Part001–Part005 are **FINAL CLOSED / FROZEN**.
+
+Part005 final closure:
+- **PASS / CLOSED / FROZEN**
 - canonical Tamil — **30/30 verified**
-- assembled Tamil — **7/7 VERIFIED / CLOSED**
-- maintained English — **7/7 SOURCE-CHECKED**
-- glossary reconciliation — **RECONCILED / PASS**
-- editorial review — **PASS / CLOSED — 3 changes, 1 source-alignment**
-- bilingual review — **PASS / CLOSED — 0 further corrections**
+- assembled Tamil — **7/7 VERIFIED**
+- English E20–E26 — **7/7 SOURCE-CHECKED**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
 - unresolved blockers — **0**
 
-Exact activity:
-- create `PART_005_FINAL_CLOSURE.md`;
-- verify no post-release canonical/assembled/English drift;
-- verify source PDFs under active work = **0**;
-- verify Part006 canonical records = **0**;
-- preserve 120→121 and 150→151 audited boundaries;
-- preserve protected English variants and incomplete boundary forms;
-- synchronize all live controls to **Part005 FINAL CLOSED / FROZEN**;
-- mark Part006 **NEXT ACTIVE / AUTHORIZED / NOT STARTED**;
-- do not create/transcribe Part006 pages in the final-closure gate.
+Part006:
+- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf`
+- canonical range — **151–180**
+- local pages — **1–30**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 180→181 — **PENDING direct audit**
+- canonical Part006 page records — **0**
 
-Exact next activity after closure: **Part006 Pass 1 — global scans151–160 / local pages1–10**, preserving incoming 150→151 GENUINE CONTINUATION / AUDITED.
+Exact activity:
+- begin **Part006 Pass 1 — global scans151–160 / local pages1–10**;
+- use exact Part006 provenance on every canonical record;
+- preserve incoming 150→151 as provenance only; do not import frozen Part005 body text;
+- do not begin Pass 2A until Pass 1 covers all scans151–180.
+
+Stop after the requested Pass-1 batch is durably recorded and synchronized.

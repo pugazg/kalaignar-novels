@@ -663,6 +663,18 @@ Durable record:
 Durable record:
 - `../../PART_005_RELEASE_READY_SYNC.md`
 
+## Part005 final closure
+
+- result — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
+- post-release textual drift — **0**
+- Part006 leakage — **0**
+
+Durable final record:
+- `../../PART_005_FINAL_CLOSURE.md`
+
+Part006 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+
 ## Current exact next activity
 
-Create and verify **Part005 final closure** `../../PART_005_FINAL_CLOSURE.md`.
+Begin **Part006 Pass 1 — global scans151–160 / local pages1–10**.
