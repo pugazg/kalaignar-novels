@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_004_pages_91-120.pdf"
-transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch scans91–100; formal Part004 Pass 2A reviewed; formal Part004 Pass 2B reviewed"
+transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch scans91–100; formal Part004 Pass 2A reviewed; formal Part004 Pass 2B reviewed; formal Part004 Pass 3 reviewed"
 ---
 
 # மன்னிப்பு யார்? யாரிடம்?
@@ -51,5 +51,14 @@ transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch s
 - unresolved lexical / historical-glyph questions: **0**;
 - Pass 2B result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass 3, Part audit and final status synchronization.
+
+## Formal Part004 Pass 3 review
+
+- full-page visual / structural verification completed against the rendered Part004 source image;
+- heading hierarchy, body-frame placement, paragraph/dialogue blocks, printed pagination and physical page-boundary state checked;
+- textual corrections from Pass 3: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Part audit and final status synchronization.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 99; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: 89; PASS 1 TEXT-COMPLETE / needs-review -->

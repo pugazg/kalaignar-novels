@@ -142,11 +142,13 @@ No canonical body correction was required in scans111–120.
 - unresolved textual questions: **0**
 - page records remain `needs-review` pending Pass 2B, Pass 3 and later whole-Part closure gates.
 
+## Downstream state
+
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED; 0 textual corrections; 0 unresolved visual/structural questions**
+- Part audit — **NOT STARTED**
+
 ## Exact next activity
 
-Begin **Part004 Pass 3 — meaningful visual / structural verification, scans91–100 / local pages1–10**.
-
-Pass 2B durable record:
-- `PART_004_PASS2B_PROGRESS.md`
+Begin **Part004 Part audit** across scans91–120, reconciling Pass 1, Pass 2A, Pass 2B, Pass 3, boundaries, metadata ranges and unresolved-status accounting.
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 body files.

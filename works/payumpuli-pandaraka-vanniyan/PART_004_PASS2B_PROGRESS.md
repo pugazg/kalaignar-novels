@@ -36,7 +36,7 @@ Pass 2B does not modernize or regularize source wording.
 - other source-text / lexical corrections: **3**
 - section/H1 synchronizations caused by corrected chapter title: **7 records — scans103–109**
 - unresolved lexical / historical-glyph questions: **0**
-- Pass 3 — **NOT STARTED**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED; 0 textual corrections; 0 unresolved visual/structural questions**
 
 ## Corrections applied
 
@@ -93,6 +93,6 @@ All page records remain `status: "needs-review"` and `visual_fidelity: "needs-re
 
 ## Exact next activity
 
-Begin **Part004 Pass 3 — meaningful visual / structural verification, scans91–100 / local pages1–10**.
+Begin **Part004 Part audit** across scans91–120, reconciling Pass 1, Pass 2A, Pass 2B, Pass 3, boundaries, metadata ranges and unresolved-status accounting.
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 body files.
