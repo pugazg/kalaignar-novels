@@ -35,7 +35,7 @@ For every scan 91–120:
 - Batch 3 scans111–120 — **0 source-text corrections; 0 unresolved**
 - cumulative Pass 2A source-text corrections — **0**
 - unresolved textual questions — **0**
-- Pass 2B — **NOT STARTED**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED; 3 lexical/source-text corrections; 0 historical-glyph corrections; 0 unresolved**
 
 ## Batch 1 — scans91–100
 
@@ -57,17 +57,17 @@ For every scan 91–120:
 ### Durable Batch-1 confirmations
 
 - scan91 directly confirms the incoming continuation `என்னைப்` → `போன்றோர் - ...`, plus `குருவி நாச்சியாரிடமிருந்து`, `உங்களை யெல்லாம்`, and the terminal fragment `பிரயத்தனப்பட`;
-- scan92 begins `வேண்டியிருக்கும்.` and confirms `பதிலுக்குப் பதில்` and `ராஜ தந்திரத்தில்`;
+- scan92 begins `வேண்டியிருக்கும்.` and confirms `பதிலுக்குப் பதில்` and `ராஜ தந்திரத்தில்`; Pass 2B later corrected `கைகோத்துக் கொள்ளும்` → source `கைகோர்த்துக் கொள்ளும்`;
 - scan93 directly confirms `உளிபட்டுப்பட்டு`, `காட்டிக் கொடுக்கும்`, `சமாளித்துக்கொண்டான்`;
 - scan94 is a short chapter-closing page with genuine blank lower area and preserves `நத்திக் கிடப்பதற்கும்` and `அரண்மனைக்குவந்து`;
-- scan95 visibly opens chapter 12 and preserves `குழப்ப முற்றகாக்கை` and `பீறிட்டுக் கிளம்பிய`;
+- scan95 visibly opens chapter 12; Pass 2B later corrected the source word boundary `குழப்ப முற்றகாக்கை` → `குழப்ப முற்ற காக்கை`; `பீறிட்டுக் கிளம்பிய` remains confirmed;
 - scan96 directly confirms `நீண்டுயர்ந்த`, `பூனை முடி`, `அப்படி யென்ன`, and terminal `இனிய வாய்ப்பு`;
 - scan97 preserves the two source-leading dash lines and directly confirms `அரிநமோத்து சிந்தம்`, `தெரியாத்தனமாகப்`, and `படாதபாடு பட்டு`;
 - scan98 confirms `ஆரணங்கு`, `பையப் பையக் கைவரிசையைக்`, `சமையல் கட்டுக் காரர்களை`, and `சிறைக் கூட்டத்தின்`;
 - scan99 directly confirms `ஒன்றையெடுத்து`, `விளக்கமெதுவும்`, `இவனைப்போலுண்டோ?`, and the source comma after `சிலர்,`;
 - scan100 directly confirms `ஓங்கிடும்போது`, `ராஜ உபசாரத்துடன்`, `வந்துகொண்டிருக்கிறாள்`, and the open terminal `போரிட்டுத்`.
 
-No canonical body correction was required in scans91–100.
+At Pass 2A no canonical body correction was made in scans91–100. Pass 2B subsequently identified and applied two source-supported corrections in scans92 and 95.
 
 ## Batch 2 — scans101–110
 
@@ -77,20 +77,20 @@ No canonical body correction was required in scans91–100.
 |---:|---:|---:|---|---:|
 | 101 | 11 | 91 | `மன்னிப்பு யார்? யாரிடம்?` | 0 |
 | 102 | 12 | 92 | `மன்னிப்பு யார்? யாரிடம்?` | 0 |
-| 103 | 13 | 93 | chapter 13 `மாண மறைப்பு மறக்கலாமா?` | 0 |
-| 104 | 14 | 94 | `மாண மறைப்பு மறக்கலாமா?` | 0 |
-| 105 | 15 | 95 | `மாண மறைப்பு மறக்கலாமா?` | 0 |
-| 106 | 16 | 96 | `மாண மறைப்பு மறக்கலாமா?` | 0 |
-| 107 | 17 | 97 | `மாண மறைப்பு மறக்கலாமா?` | 0 |
-| 108 | 18 | 98 | `மாண மறைப்பு மறக்கலாமா?` | 0 |
-| 109 | 19 | 99 | `மாண மறைப்பு மறக்கலாமா?` | 0 |
+| 103 | 13 | 93 | chapter 13 `மான மறைப்பு மறக்கலாமா?` | 0 |
+| 104 | 14 | 94 | `மான மறைப்பு மறக்கலாமா?` | 0 |
+| 105 | 15 | 95 | `மான மறைப்பு மறக்கலாமா?` | 0 |
+| 106 | 16 | 96 | `மான மறைப்பு மறக்கலாமா?` | 0 |
+| 107 | 17 | 97 | `மான மறைப்பு மறக்கலாமா?` | 0 |
+| 108 | 18 | 98 | `மான மறைப்பு மறக்கலாமா?` | 0 |
+| 109 | 19 | 99 | `மான மறைப்பு மறக்கலாமா?` | 0 |
 | 110 | 20 | 100 | chapter 14 `அவள் நடந்த பாதை` | 0 |
 
 ### Durable Batch-2 confirmations
 
 - scan101 continues `போரிட்டுத்` with `திரும்பப் பெறும் பரம்பரையே...`; source-irregular `என் மன்னிப்புக் கேட்க வேண்டும்?` and the unmatched opening quote before `வருகிறேன்!` are retained;
 - scan102 is a short chapter-closing page with genuine blank lower area and confirms `பெருமூச்செறிந்தார்`, `கடப்பதற்குள்ளாக`, `சங்கிலி தளபதியாரின்`;
-- scan103 visibly opens chapter 13 and confirms `எதிர் கொண்டு`, `நண்பப் பெருக்குடன்`, `காட்டிக்கொண்டனர்`, and `மின்னலிடச்`;
+- scan103 visibly opens chapter 13; Pass 2B later corrected the displayed title from the earlier `மாண...` reading to source `மான மறைப்பு மறக்கலாமா?`; body forms `எதிர் கொண்டு`, `நண்பப் பெருக்குடன்`, `காட்டிக்கொண்டனர்`, and `மின்னலிடச்` remain confirmed;
 - scan104 directly confirms `கெளரவமான`, `வெகு பாடுபட்டு`, source four-dot `என்பது....`, and `கனல் கிளம்பிற்று`;
 - scan105 confirms `மேலெனக் கருதும் மானமிகு பாசறையில்`, `வண்ணங் கலந்த`, `பொன்னோளி`, and leaves the quotation open;
 - scan106 continues that quotation and confirms `மளமளவென்று`, `குருகுலத்தில்பயின்றவர்கள்`, `குறுஞ்சிரிப்புடன்`, ending at `தனது கையில் தரப்பட்ட`;
@@ -99,7 +99,7 @@ No canonical body correction was required in scans91–100.
 - scan109 is a short chapter-closing page with genuine blank lower area and confirms `பதட்டமுடன்`, `பதைப்புடன்`, and `ஓடிப்போய்`;
 - scan110 visibly opens chapter 14 and confirms `தொத்திக்`, `மெத்த கவலையுடன்`, `முகத்தினனாக`, `தங்கநாச்சிதான்`, ending physically at `அந்த`.
 
-No canonical body correction was required in scans101–110.
+At Pass 2A no canonical body correction was made in scans101–110. Pass 2B subsequently corrected the scan103 chapter title and synchronized scans103–109 section/H1 labels.
 
 ## Batch 3 — scans111–120
 
@@ -144,6 +144,9 @@ No canonical body correction was required in scans111–120.
 
 ## Exact next activity
 
-Begin **Part004 Pass 2B — independent lexical / historical-glyph reread, scans91–100 / local pages1–10**.
+Begin **Part004 Pass 3 — meaningful visual / structural verification, scans91–100 / local pages1–10**.
+
+Pass 2B durable record:
+- `PART_004_PASS2B_PROGRESS.md`
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 body files.

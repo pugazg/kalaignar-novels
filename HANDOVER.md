@@ -121,7 +121,7 @@ Part001 and Part002 are frozen.
 Durable final record:
 - `works/payumpuli-pandaraka-vanniyan/PART_003_FINAL_CLOSURE.md`
 
-## Part004 — ACTIVE / AUTHORIZED — PASS 2A COMPLETE
+## Part004 — ACTIVE / AUTHORIZED — PASS 2B COMPLETE
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_004_pages_91-120.pdf`
 - global scans — **91–120**
@@ -136,16 +136,19 @@ Durable final record:
 - physical boundary join — **`தனது காதல் விளையாட்டுக் காயை`**
 - Part004 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
 - Part004 Pass 2A cumulative corrections — **0; unresolved 0**
-- Part004 Pass 2B — **NOT STARTED**
+- Part004 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part004 Pass 2B cumulative — **3 lexical/source-text corrections; 0 historical-glyph corrections; 0 unresolved**
+- Part004 Pass 3 — **NOT STARTED**
 - Part001–Part003 remain **FINAL CLOSED / FROZEN**
 
 Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_004_PASS1_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_PASS2A_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_004_PASS2B_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
 
 ## Exact next activity
 
-Begin **Part004 Pass 2B — independent lexical / historical-glyph reread, global scans91–100 / Part004 local pages1–10**.
+Begin **Part004 Pass 3 — meaningful visual / structural verification, global scans91–100 / Part004 local pages1–10**.
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 canonical Tamil, assembled Tamil and maintained English body files.

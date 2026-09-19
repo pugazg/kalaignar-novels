@@ -4,22 +4,22 @@ part: 4
 part_page: 13
 printed_page: 93
 work: "payumpuli-pandaraka-vanniyan"
-section: "மாண மறைப்பு மறக்கலாமா?"
+section: "மான மறைப்பு மறக்கலாமா?"
 page_type: "chapter-opening"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_004_pages_91-120.pdf"
-transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch scans101–110; formal Part004 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch scans101–110; formal Part004 Pass 2A reviewed; formal Part004 Pass 2B reviewed"
 ---
 
-# மாண மறைப்பு மறக்கலாமா?
+# மான மறைப்பு மறக்கலாமா?
 
 ## Source transcription
 
 13
 
-மாண மறைப்பு மறக்கலாமா?
+மான மறைப்பு மறக்கலாமா?
 
 வீரர்கள் புடைசூழக் குதிரை மீதமர்ந்து அரண்மனை வாசலுக்கு வந்த குருவிச்சி நாச்சியாரை, காக்கை வன்னியன் எதிர் கொண்டு இன்முகம் காட்ட மிகவும் முயற்சி எடுத்துக்கொண்டு உபசரித்து உள்ளே அழைத்து வந்தான். குருவிச்சியுடன் சுந்தரலிங்கமும் வரவே, அவனைப் பார்த்து காக்கை, நண்பப் பெருக்குடன் புன்னகை புரிந்தான். உட்கூடத்தில் அமர்ந்திருந்த ஆங்கிலேய அதிகாரிகள், தங்களின் இருக்கைகளில் இருந்தவாறே தலையசைத்து அவளை வரவேற்பது போல் காட்டிக்கொண்டனர்.
 
@@ -31,7 +31,7 @@ transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch s
 
 ## Pass 1 notes
 
-- this scan opens chapter13 with displayed number `13` and title `மாண மறைப்பு மறக்கலாமா?`;
+- this scan opens chapter13 with displayed number `13` and title `மான மறைப்பு மறக்கலாமா?`;
 - source-visible forms `எதிர் கொண்டு`, `நண்பப் பெருக்குடன்`, `காட்டிக்கொண்டனர்`, and `மின்னலிடச்` are retained;
 - status and visual fidelity remain `needs-review`.
 
@@ -42,5 +42,15 @@ transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch s
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
+
+## Formal Part004 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the user-supplied Part004 source pixels;
+- source-text corrections: **1** — displayed chapter title corrected from `மாண மறைப்பு மறக்கலாமா?` to source-visible `மான மறைப்பு மறக்கலாமா?`;
+- canonical section/H1 label synchronized to the corrected source title;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 3, Part audit and final status synchronization.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 103; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 13; அச்சுப் பக்கம்: 93; PASS 1 TEXT-COMPLETE / needs-review -->

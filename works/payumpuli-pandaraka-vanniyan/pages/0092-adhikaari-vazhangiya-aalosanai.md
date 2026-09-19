@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_004_pages_91-120.pdf"
-transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch scans91–100; formal Part004 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch scans91–100; formal Part004 Pass 2A reviewed; formal Part004 Pass 2B reviewed"
 ---
 
 # அதிகாரி வழங்கிய ஆலோசனை
@@ -29,7 +29,7 @@ transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch s
 
 “பெரும் போர் இப்போது தேவையில்லை என்பதுதான் முடிவே தவிர சில்லறைத் தொல்லைகளைக் கொடுத்து பண்டாரகனின் பிடிவாதத்தைச் சிதைக்கும் தந்திரத்தை ஆங்கிலேய நிர்வாகம் கைவிட்டு விடவில்லையே! அதனால்தான் குருவிச்சியால் ஒரு ஆங்கிலேயர் கொல்லப்பட்டதற்குப் பதிலுக்குப் பதில் நாங்கள் உடனடியாகக் கொடுக்க வேண்டியிருந்தது!”
 
-“நீங்கள் சொல்வதைப் பார்த்தால் உங்களை நம்பியிருக்கும் என்னைக் கைவிட்டு விட்டு, அந்தப் பண்டாரக வன்னியனுடன் கைகோத்துக் கொள்ளும் ராஜ தந்திரத்தில் ஈடுபட்டிருப்பதாக அல்லவா தெரிகிறது!”
+“நீங்கள் சொல்வதைப் பார்த்தால் உங்களை நம்பியிருக்கும் என்னைக் கைவிட்டு விட்டு, அந்தப் பண்டாரக வன்னியனுடன் கைகோர்த்துக் கொள்ளும் ராஜ தந்திரத்தில் ஈடுபட்டிருப்பதாக அல்லவா தெரிகிறது!”
 
 ## Pass 1 notes
 
@@ -45,5 +45,14 @@ transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch s
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
+
+## Formal Part004 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the user-supplied Part004 source pixels;
+- source-text corrections: **1** — source confirms `கைகோர்த்துக் கொள்ளும்`; canonical `கைகோத்துக் கொள்ளும்` was corrected;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 3, Part audit and final status synchronization.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 92; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: 82; PASS 1 TEXT-COMPLETE / needs-review -->

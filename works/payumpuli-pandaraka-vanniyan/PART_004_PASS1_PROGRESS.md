@@ -20,6 +20,7 @@ Part001, Part002 and Part003 remain **FINAL CLOSED / FROZEN**.
 - Pass-1 transcription pending: **0**
 - unresolved Pass-1 source-reading holds: **0**
 - Pass 2A: **COMPLETE / PASS — 30/30 REVIEWED; 0 corrections; 0 unresolved**
+- Pass 2B: **COMPLETE / PASS — 30/30 REVIEWED; 3 lexical/source-text corrections; 0 historical-glyph corrections; 0 unresolved**
 - incoming 90→91 boundary: **GENUINE CONTINUATION / AUDITED**
 - outgoing 120→121 boundary: **GENUINE CONTINUATION / AUDITED**
 
@@ -42,7 +43,7 @@ Final `verified` promotion remains blocked pending Pass 2A, Pass 2B, Pass 3, Par
 - scans91–94 continue and close chapter11 `அதிகாரி வழங்கிய ஆலோசனை`;
 - incoming **90→91 = GENUINE CONTINUATION / AUDITED**: scan90 ends `என்னைப்`; scan91 begins `போன்றோர் - ...`;
 - scan94 is a short chapter-closing page with a large intentional blank lower field;
-- scan95 opens chapter12 `மன்னிப்பு யார்? யாரிடம்?`;
+- scan95 opens chapter12 `மன்னிப்பு யார்? யாரிடம்?`; Pass 2B later corrected source word-boundary `குழப்ப முற்றகாக்கை` → `குழப்ப முற்ற காக்கை`;
 - scans96–100 continue chapter12;
 - scan100 / printed90 ends inside an open quotation at `போரிட்டுத்`.
 
@@ -50,7 +51,7 @@ Final `verified` promotion remains blocked pending Pass 2A, Pass 2B, Pass 3, Par
 
 - scan101 continues scan100's open quotation as `போரிட்டுத் திரும்பப் பெறும் பரம்பரையே...`;
 - scan102 closes chapter12;
-- scan103 opens chapter13 `மாண மறைப்பு மறக்கலாமா?`;
+- scan103 opens chapter13 `மான மறைப்பு மறக்கலாமா?` (Pass 2B source-title correction from earlier `மாண...` reading);
 - scans104–109 continue and close chapter13;
 - scans107–108 preserve சங்கிலித் தளபதியின் letter across the physical boundary;
 - scan109 is a short chapter-closing page with a large intentional blank lower field;
@@ -101,9 +102,10 @@ Durable boundary record:
 
 ## Exact next activity
 
-Begin **Part004 Pass 2B — independent lexical / historical-glyph reread, global scans91–100 / local pages1–10**.
+Begin **Part004 Pass 3 — meaningful visual / structural verification, global scans91–100 / local pages1–10**.
 
-Pass 2A durable record:
+Durable verification records:
 - `PART_004_PASS2A_PROGRESS.md`
+- `PART_004_PASS2B_PROGRESS.md`
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 body files.
