@@ -79,64 +79,41 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - physical coverage by split ranges — **477 / 477**
 - Part001 — **FINAL CLOSED / FROZEN**
 - Part002 — **FINAL CLOSED / FROZEN**
-- active content Part — **Part003 / scans61–90**
-- canonical Part003 records — **30/30 present**
-- Part003 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Part003 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part003 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part003 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part003 Part audit — **PASS / COMPLETE**
-- Part003 final metadata/status synchronization — **PASS / CLOSED**
-- Part003 documentation synchronization — **PASS / COMPLETE**
-- Part003 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
-- Part003 visual fidelity — **30/30 verified; 0 needs-review**
-- Part003 unresolved status exceptions — **0**
-- Part003 Tamil archival-ready — **PASS / CLOSED**
-- Part003 assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
-- Part003 English planning/setup — **COMPLETE / PASS**
-- Part003 English translated/source-checked files — **5/5**
-- Part003 E10–E14 — **SOURCE-CHECKED / COMPLETE**
-- Part003 unresolved English holds — **0**
-- Part003 English glossary reconciliation — **RECONCILED / PASS**
-- Part003 glossary-reconciliation English section edits — **0**
-- Part003 English editorial review — **PASS / CLOSED**
-- Part003 editorial English-only changes — **49**
-- Part003 source-alignment corrections within editorial total — **2**
-- Part003 unresolved editorial holds — **0**
-- Part003 bilingual review — **PASS / CLOSED**
-- Part003 bilingual English-only corrections — **2**
-- Part003 unresolved bilingual holds — **0**
-- Part003 release/readiness — **PASS / CLOSED**
-- Part003 unresolved release/readiness blockers — **0**
-- Part003 release-ready synchronization — **PASS / CLOSED**
-- Part003 release-sync canonical/assembled/English body changes — **0**
-- Part003 release-sync source-variant collapses — **0**
-- Part003 final closure — **PASS / CLOSED / FROZEN**
-
-- Part004 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
-- Part004 canonical page records — **0**
-- Part004 first Pass-1 batch — **scans91–100 / local pages1–10**
+- Part003 — **FINAL CLOSED / FROZEN**
+- active content Part — **Part004 / scans91–120**
+- canonical Part004 records — **30/30 present**
+- Part004 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Part004 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part004 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part004 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part004 Part audit — **PASS / COMPLETE**
+- Part004 final metadata/status synchronization — **PASS / CLOSED**
+- Part004 documentation synchronization — **PASS / COMPLETE**
+- Part004 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
+- Part004 visual fidelity — **30/30 verified; 0 needs-review**
+- Part004 unresolved status exceptions — **0**
+- Part004 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- Part005 — **BLOCKED / NOT ACTIVE**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
 - boundary 90→91 — **GENUINE CONTINUATION / AUDITED**
+- boundary 120→121 — **GENUINE CONTINUATION / AUDITED**
 
 Authoritative work-specific methodology:
 - `PAYUMPULI_ARCHIVAL_GUIDELINES.md`
 
-Authoritative Part003 closure records:
-- `SOURCE_INTAKE_PART_003.md`
-- `PART_003_PASS1_PROGRESS.md`
-- `PART_003_PASS2A_PROGRESS.md`
-- `PART_003_PASS2B_PROGRESS.md`
-- `PART_003_PASS3_PROGRESS.md`
-- `PART_003_AUDIT.md`
-- `PART_003_FINAL_STATUS_SYNC.md`
-- `PART_003_DOCUMENTATION_SYNC.md`
-- `translations/en/PART_003_GLOSSARY_RECONCILIATION.md`
-- `PART_003_FINAL_CLOSURE.md`
+Authoritative Part004 verification records:
+- `SOURCE_INTAKE_PART_004.md`
+- `PART_004_PASS1_PROGRESS.md`
+- `PART_004_PASS2A_PROGRESS.md`
+- `PART_004_PASS2B_PROGRESS.md`
+- `PART_004_PASS3_PROGRESS.md`
+- `PART_004_AUDIT.md`
+- `PART_004_FINAL_STATUS_SYNC.md`
+- `PART_004_DOCUMENTATION_SYNC.md`
 
 ## Exact next activity
 
-Begin **Part004 Pass 1 — global scans91–100 / local pages1–10**.
+Perform the **Part004 Tamil archival-ready checkpoint**.
 
-Preserve the audited incoming 90→91 continuation and do not begin Pass 2A until Part004 Pass 1 closes across scans91–120.
+Preserve both audited Part004 boundaries and do not begin Part005 transcription.

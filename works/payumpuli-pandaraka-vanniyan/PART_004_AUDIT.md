@@ -187,7 +187,16 @@ The dedicated final metadata/status synchronization subsequently completed:
 Durable record:
 - `PART_004_FINAL_STATUS_SYNC.md`
 
-Perform the separate **Part004 documentation synchronization** gate.
+Part004 documentation synchronization subsequently completed:
+
+- documentation synchronization — **PASS / COMPLETE**
+- canonical Part004 page mutations caused by documentation sync — **0**
+- Part005 canonical leakage — **0**
+
+Durable record:
+- `PART_004_DOCUMENTATION_SYNC.md`
+
+Perform the **Part004 Tamil archival-ready checkpoint**.
 
 That next gate may promote only the two final per-page status fields from `needs-review` to `verified`, based on this closed audit evidence.
 

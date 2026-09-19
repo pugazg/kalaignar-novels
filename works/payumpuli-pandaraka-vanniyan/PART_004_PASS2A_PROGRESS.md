@@ -150,10 +150,11 @@ No canonical body correction was required in scans111–120.
 - Tamil textual status — **30/30 verified**
 - visual fidelity — **30/30 verified**
 - unresolved status exceptions — **0**
-- documentation synchronization — **NOT STARTED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **NOT STARTED / NEXT GATE**
 
 ## Exact next activity
 
-Perform the separate **Part004 documentation synchronization** gate.
+Perform the **Part004 Tamil archival-ready checkpoint**.
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 body files.

@@ -135,54 +135,34 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - split identities/global mappings — **16 / 16 REGISTERED**
 - Part001 — **FINAL CLOSED / FROZEN**
 - Part002 — **FINAL CLOSED / FROZEN**
-- active content Part — **Part003 / scans61–90**
-- canonical Part003 records — **30/30 present**
-- Part003 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Part003 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part003 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part003 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part003 Part audit — **PASS / COMPLETE**
-- Part003 final metadata/status synchronization — **PASS / CLOSED**
-- Part003 documentation synchronization — **PASS / COMPLETE**
-- Part003 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
-- Part003 visual fidelity — **30/30 verified; 0 needs-review**
-- Part003 unresolved status exceptions — **0**
-- Part003 Tamil archival-ready — **PASS / CLOSED**
-- Part003 assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
-- Part003 English planning/setup — **COMPLETE / PASS**
-- Part003 English translated/source-checked files — **5/5**
-- Part003 E10–E14 — **SOURCE-CHECKED / COMPLETE**
-- Part003 unresolved English holds — **0**
-- Part003 English glossary reconciliation — **RECONCILED / PASS**
-- Part003 glossary-reconciliation English section edits — **0**
-- Part003 English editorial review — **PASS / CLOSED**
-- Part003 editorial English-only changes — **49**
-- Part003 source-alignment corrections within editorial total — **2**
-- Part003 unresolved editorial holds — **0**
-- Part003 bilingual review — **PASS / CLOSED**
-- Part003 bilingual English-only corrections — **2**
-- Part003 unresolved bilingual holds — **0**
-- Part003 release/readiness — **PASS / CLOSED**
-- Part003 unresolved release/readiness blockers — **0**
-- Part003 release-ready synchronization — **PASS / CLOSED**
-- Part003 release-sync canonical/assembled/English body changes — **0**
-- Part003 release-sync source-variant collapses — **0**
-- Part003 final closure — **PASS / CLOSED / FROZEN**
-- Part004 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
-- Part004 canonical page records — **0**
-- Part004 first Pass-1 batch — **scans91–100 / local pages1–10**
-- audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION**
+- Part003 — **FINAL CLOSED / FROZEN**
+- active content Part — **Part004 / scans91–120**
+- canonical Part004 records — **30/30 present**
+- Part004 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Part004 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part004 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part004 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part004 Part audit — **PASS / COMPLETE**
+- Part004 final metadata/status synchronization — **PASS / CLOSED**
+- Part004 documentation synchronization — **PASS / COMPLETE**
+- Part004 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
+- Part004 visual fidelity — **30/30 verified; 0 needs-review**
+- Part004 unresolved status exceptions — **0**
+- Part004 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- Part005 — **BLOCKED / NOT ACTIVE**
+- audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION**
 - terminal page function for complete 477-scan source — **not yet visually audited**
 
-### Part003 source observations now established
+### Part004 source observations now established
 
-- printed pagination for Part003 — **51–80 continuous**
-- chapter 8 opens at scan65 — `காக்கை வன்னியன்!`
-- chapter 9 opens at scan73 — `முத்து மாளிகை!`
-- chapter 10 opens at scan80 — `சிலந்தி வலையோ? சிறிய பூச்சியோ?`
-- chapter 11 opens at scan88 — `அதிகாரி வழங்கிய ஆலோசனை`
-- outgoing scan90 ends at `என்னைப்` and scan91 witness begins `போன்றோர்`
-- scan71 copy-specific library stamp/handwriting is non-body provenance
+- printed pagination for Part004 — **81–110 continuous**
+- chapter 12 opens at scan95 — `மன்னிப்பு யார்? யாரிடம்?`
+- chapter 13 opens at scan103 — `மான மறைப்பு மறக்கலாமா?`
+- chapter 14 opens at scan110 — `அவள் நடந்த பாதை`
+- chapter 15 opens at scan116 — `இருவர் உள்ளம்`
+- scans94, 102 and 109 contain intentional blank lower fields
+- outgoing scan120 ends at `தனது காதல் விலை`; scan121 witness begins `யாட்டுக் காயை...`
+- Pass2B retained three source-supported lexical/title corrections; unresolved count **0**
 
 ## Controlling-source clarification
 
@@ -196,6 +176,6 @@ Durable rule:
 
 ## Exact next activity
 
-Begin **Part004 Pass 1 — global scans91–100 / local pages1–10**.
+Perform the **Part004 Tamil archival-ready checkpoint**.
 
-Do not reopen frozen Part003 for routine Part004 progress.
+Do not reopen verified Part004 page records and do not begin Part005 transcription.

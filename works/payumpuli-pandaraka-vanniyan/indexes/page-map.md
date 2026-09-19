@@ -96,36 +96,36 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 003 | 28 | 88 | 78 | chapter 11 opening `அதிகாரி வழங்கிய ஆலோசனை` | verified | `pages/0088-adhikaari-vazhangiya-aalosanai.md` |
 | 003 | 29 | 89 | 79 | chapter 11 continuation; ends `பெரும் வேறுபாடு` | verified | `pages/0089-adhikaari-vazhangiya-aalosanai.md` |
 | 003 | 30 | 90 | 80 | chapter 11 continuation; ends `என்னைப்`; 90→91 genuine continuation | verified | `pages/0090-adhikaari-vazhangiya-aalosanai.md` |
-| 004 | 1 | 91 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 2 | 92 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 3 | 93 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 4 | 94 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 5 | 95 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 6 | 96 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 7 | 97 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 8 | 98 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 9 | 99 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 10 | 100 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 11 | 101 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 12 | 102 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 13 | 103 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 14 | 104 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 15 | 105 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 16 | 106 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 17 | 107 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 18 | 108 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 19 | 109 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 20 | 110 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 21 | 111 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 22 | 112 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 23 | 113 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 24 | 114 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 25 | 115 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 26 | 116 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 27 | 117 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 28 | 118 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 29 | 119 | — | unclassified — direct visual audit pending | not-started | — |
-| 004 | 30 | 120 | — | unclassified — direct visual audit pending | not-started | — |
+| 004 | 1 | 91 | 81 | `அதிகாரி வழங்கிய ஆலோசனை` continuation/close; Pass2A + Pass2B + Pass3 reviewed | verified | `pages/0091-adhikaari-vazhangiya-aalosanai.md` |
+| 004 | 2 | 92 | 82 | `அதிகாரி வழங்கிய ஆலோசனை` continuation/close; Pass2A + Pass2B + Pass3 reviewed | verified | `pages/0092-adhikaari-vazhangiya-aalosanai.md` |
+| 004 | 3 | 93 | 83 | `அதிகாரி வழங்கிய ஆலோசனை` continuation/close; Pass2A + Pass2B + Pass3 reviewed | verified | `pages/0093-adhikaari-vazhangiya-aalosanai.md` |
+| 004 | 4 | 94 | 84 | `அதிகாரி வழங்கிய ஆலோசனை` continuation/close; Pass2A + Pass2B + Pass3 reviewed | verified | `pages/0094-adhikaari-vazhangiya-aalosanai.md` |
+| 004 | 5 | 95 | 85 | chapter 12 opening `மன்னிப்பு யார்? யாரிடம்?`; verified | verified | `pages/0095-mannippu-yaar-yaaridam.md` |
+| 004 | 6 | 96 | 86 | `மன்னிப்பு யார்? யாரிடம்?` continuation; verified | verified | `pages/0096-mannippu-yaar-yaaridam.md` |
+| 004 | 7 | 97 | 87 | `மன்னிப்பு யார்? யாரிடம்?` continuation; verified | verified | `pages/0097-mannippu-yaar-yaaridam.md` |
+| 004 | 8 | 98 | 88 | `மன்னிப்பு யார்? யாரிடம்?` continuation; verified | verified | `pages/0098-mannippu-yaar-yaaridam.md` |
+| 004 | 9 | 99 | 89 | `மன்னிப்பு யார்? யாரிடம்?` continuation; verified | verified | `pages/0099-mannippu-yaar-yaaridam.md` |
+| 004 | 10 | 100 | 90 | `மன்னிப்பு யார்? யாரிடம்?` continuation; verified | verified | `pages/0100-mannippu-yaar-yaaridam.md` |
+| 004 | 11 | 101 | 91 | `மன்னிப்பு யார்? யாரிடம்?` continuation; verified | verified | `pages/0101-mannippu-yaar-yaaridam.md` |
+| 004 | 12 | 102 | 92 | `மன்னிப்பு யார்? யாரிடம்?` continuation; verified | verified | `pages/0102-mannippu-yaar-yaaridam.md` |
+| 004 | 13 | 103 | 93 | chapter 13 opening `மான மறைப்பு மறக்கலாமா?`; Pass2B title correction retained | verified | `pages/0103-maana-maraippu-marakkalaamaa.md` |
+| 004 | 14 | 104 | 94 | `மான மறைப்பு மறக்கலாமா?` continuation; verified | verified | `pages/0104-maana-maraippu-marakkalaamaa.md` |
+| 004 | 15 | 105 | 95 | `மான மறைப்பு மறக்கலாமா?` continuation; verified | verified | `pages/0105-maana-maraippu-marakkalaamaa.md` |
+| 004 | 16 | 106 | 96 | `மான மறைப்பு மறக்கலாமா?` continuation; verified | verified | `pages/0106-maana-maraippu-marakkalaamaa.md` |
+| 004 | 17 | 107 | 97 | `மான மறைப்பு மறக்கலாமா?` continuation; verified | verified | `pages/0107-maana-maraippu-marakkalaamaa.md` |
+| 004 | 18 | 108 | 98 | `மான மறைப்பு மறக்கலாமா?` continuation; verified | verified | `pages/0108-maana-maraippu-marakkalaamaa.md` |
+| 004 | 19 | 109 | 99 | `மான மறைப்பு மறக்கலாமா?` continuation; verified | verified | `pages/0109-maana-maraippu-marakkalaamaa.md` |
+| 004 | 20 | 110 | 100 | chapter 14 opening `அவள் நடந்த பாதை`; verified | verified | `pages/0110-aval-nadantha-paathai.md` |
+| 004 | 21 | 111 | 101 | `அவள் நடந்த பாதை` continuation; verified | verified | `pages/0111-aval-nadantha-paathai.md` |
+| 004 | 22 | 112 | 102 | `அவள் நடந்த பாதை` continuation; verified | verified | `pages/0112-aval-nadantha-paathai.md` |
+| 004 | 23 | 113 | 103 | `அவள் நடந்த பாதை` continuation; verified | verified | `pages/0113-aval-nadantha-paathai.md` |
+| 004 | 24 | 114 | 104 | `அவள் நடந்த பாதை` continuation; verified | verified | `pages/0114-aval-nadantha-paathai.md` |
+| 004 | 25 | 115 | 105 | `அவள் நடந்த பாதை` continuation; verified | verified | `pages/0115-aval-nadantha-paathai.md` |
+| 004 | 26 | 116 | 106 | chapter 15 opening `இருவர் உள்ளம்`; verified | verified | `pages/0116-iruvar-ullam.md` |
+| 004 | 27 | 117 | 107 | `இருவர் உள்ளம்` continuation; verified | verified | `pages/0117-iruvar-ullam.md` |
+| 004 | 28 | 118 | 108 | `இருவர் உள்ளம்` continuation; verified | verified | `pages/0118-iruvar-ullam.md` |
+| 004 | 29 | 119 | 109 | `இருவர் உள்ளம்` continuation; verified | verified | `pages/0119-iruvar-ullam.md` |
+| 004 | 30 | 120 | 110 | `இருவர் உள்ளம்` continuation; 120→121 genuine continuation retained | verified | `pages/0120-iruvar-ullam.md` |
 | 005 | 1 | 121 | — | unclassified — direct visual audit pending | not-started | — |
 | 005 | 2 | 122 | — | unclassified — direct visual audit pending | not-started | — |
 | 005 | 3 | 123 | — | unclassified — direct visual audit pending | not-started | — |
@@ -508,36 +508,28 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Parts supplied / registered — **16 / 16**
 - physical scan coverage by split ranges — **477 / 477**
 - Part001 — **FINAL CLOSED / FROZEN**
-- active content Part — **Part002 / scans31–60**
-- canonical Part002 page records — **30 / 30**
-- Part002 Pass 1 — **COMPLETE / PASS — 30/30**
-- Part002 Pass 2A — **COMPLETE / PASS — 30/30**
-- Part002 Pass 2B — **COMPLETE / PASS — 30/30**
-- Part002 Pass 3 — **COMPLETE / PASS — 30/30**
-- Part002 Part audit — **PASS / COMPLETE**
-- Part002 final status sync — **PASS / CLOSED**
-- Part002 documentation sync — **PASS / COMPLETE**
-- Part002 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
-- Part002 visual fidelity — **30/30 verified; 0 needs-review**
-- Part002 Tamil archival-ready — **PASS / CLOSED**
-- Part002 assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
-- Part002 English planning/setup — **COMPLETE / PASS**
-- Part002 English translated/source-checked — **5/5**
-- Part002 E5–E9 — **SOURCE-CHECKED / COMPLETE**
-- Part002 English glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED**
-- English bilingual review — **PASS / CLOSED**
-- bilingual English-only corrections — **3**
-- release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- Part002 final closure — **PASS / CLOSED / FROZEN**
-- audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN**
-- Part003 — **NEXT ACTIVE PART / AUTHORIZED / NOT STARTED**
+- Part002 — **FINAL CLOSED / FROZEN**
+- Part003 — **FINAL CLOSED / FROZEN**
+- active content Part — **Part004 / scans91–120**
+- canonical Part004 page records — **30 / 30**
+- Part004 Pass 1 — **COMPLETE / PASS — 30/30**
+- Part004 Pass 2A — **COMPLETE / PASS — 30/30**
+- Part004 Pass 2B — **COMPLETE / PASS — 30/30**
+- Part004 Pass 3 — **COMPLETE / PASS — 30/30**
+- Part004 Part audit — **PASS / COMPLETE**
+- Part004 final status sync — **PASS / CLOSED**
+- Part004 documentation sync — **PASS / COMPLETE**
+- Part004 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
+- Part004 visual fidelity — **30/30 verified; 0 needs-review**
+- Part004 unresolved status exceptions — **0**
+- Part004 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION**
+- Part005 — **BLOCKED / NOT ACTIVE**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Create the first Part003 canonical records during **Pass 1 — global scans61–70 / local pages1–10**.
+Perform the **Part004 Tamil archival-ready checkpoint**.
 
-No Part003 page-map rows exist yet. Preserve global numbering and exact source provenance. Do not begin Pass 2A until Part003 Pass 1 covers scans61–90.
+Do not modify verified Part004 page records and do not begin Part005 transcription.

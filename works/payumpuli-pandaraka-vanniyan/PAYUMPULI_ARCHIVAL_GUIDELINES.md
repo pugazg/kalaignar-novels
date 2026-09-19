@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001, Part002 and Part003 are **FINAL CLOSED / FROZEN**. Part004 is **ACTIVE / AUTHORIZED — FINAL STATUS SYNC CLOSED / DOCUMENTATION SYNC NEXT**.
+Part001, Part002 and Part003 are **FINAL CLOSED / FROZEN**. Part004 is **ACTIVE / AUTHORIZED — DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT**.
 
 ## Tamil Part workflow
 
@@ -117,10 +117,11 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part004 Tamil textual status: 30/30 verified**
 - **Part004 visual fidelity: 30/30 verified**
 - **Part004 unresolved status exceptions: 0**
-- **Part004 documentation synchronization: NOT STARTED**
+- **Part004 documentation synchronization: PASS / COMPLETE**
+- **Part004 Tamil archival-ready: NOT STARTED / NEXT GATE**
 
 ## Exact next gate
 
-Perform the separate **Part004 documentation synchronization** gate.
+Perform the **Part004 Tamil archival-ready checkpoint**.
 
 Preserve both audited Part004 boundaries: **90→91 GENUINE CONTINUATION** and **120→121 GENUINE CONTINUATION**. Do not begin Part005 transcription.

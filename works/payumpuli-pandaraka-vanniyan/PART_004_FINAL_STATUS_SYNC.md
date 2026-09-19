@@ -128,7 +128,16 @@ Part004 now has:
 
 ## Exact next activity
 
-Perform the separate **Part004 documentation synchronization** gate.
+Part004 documentation synchronization subsequently completed:
+
+- documentation synchronization — **PASS / COMPLETE**
+- verified page records changed by documentation sync — **0**
+- Part005 canonical leakage — **0**
+
+Durable record:
+- `PART_004_DOCUMENTATION_SYNC.md`
+
+Perform the **Part004 Tamil archival-ready checkpoint**.
 
 That gate should reconcile README, handover, page map, source metadata, workflow trackers and related live-frontier controls to this verified 30/30 state without changing any Part004 page record.
 

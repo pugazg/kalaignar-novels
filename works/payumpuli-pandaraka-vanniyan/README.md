@@ -147,21 +147,51 @@ Durable Part003 records:
 - `PART_003_FINAL_CLOSURE.md`
 - `translations/en/PART_003_PROGRESS.md`
 
-## Part004 — NEXT ACTIVE / AUTHORIZED / NOT STARTED
+## Part004 — VERIFIED TAMIL / DOCUMENTATION SYNC COMPLETE
 
 Controlling source:
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_004_pages_91-120.pdf`
 
-- canonical range — **91–120**
-- local pages — **1–30**
+Current verified Tamil state:
+
+- canonical records — **30/30 — scans91–120**
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2B cumulative — **3 lexical/source-text corrections; 0 historical-glyph corrections; 0 unresolved**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- unresolved Tamil / historical-glyph / visual-status exceptions — **0**
+- Tamil archival-ready — **NOT YET STARTED / NEXT GATE**
 - incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 120→121 — **PENDING direct audit**
-- canonical page records — **0**
-- Pass 1 — **NOT STARTED**
-- first normal batch — **global scans91–100 / local pages1–10**
+- outgoing 120→121 — **GENUINE CONTINUATION / AUDITED**
+
+Notable structure:
+- scans91–94 continue and close chapter11 `அதிகாரி வழங்கிய ஆலோசனை`;
+- scan95 opens chapter12 `மன்னிப்பு யார்? யாரிடம்?`;
+- scan103 opens chapter13 `மான மறைப்பு மறக்கலாமா?`;
+- scan110 opens chapter14 `அவள் நடந்த பாதை`;
+- scan116 opens chapter15 `இருவர் உள்ளம்`;
+- scans94, 102 and 109 have intentional blank lower fields;
+- scan120 ends at `தனது காதல் விலை`, with audited continuation to Part005 scan121 `யாட்டுக் காயை...`.
+
+Durable Part004 records:
+- `SOURCE_INTAKE_PART_004.md`
+- `PART_004_PASS1_PROGRESS.md`
+- `PART_004_PASS2A_PROGRESS.md`
+- `PART_004_PASS2B_PROGRESS.md`
+- `PART_004_PASS3_PROGRESS.md`
+- `PART_004_BOUNDARY_AUDIT_120_121.md`
+- `PART_004_AUDIT.md`
+- `PART_004_FINAL_STATUS_SYNC.md`
+- `PART_004_DOCUMENTATION_SYNC.md`
 
 ## Exact next activity
 
-Begin **Part004 Pass 1 — global scans91–100 / local pages1–10**.
+Perform the **Part004 Tamil archival-ready checkpoint**.
 
-Do not begin Pass 2A until the full Part004 Pass 1 covers scans91–120.
+Do not modify verified Part004 canonical page records and do not begin assembled Tamil, English work or Part005 transcription until that checkpoint closes.

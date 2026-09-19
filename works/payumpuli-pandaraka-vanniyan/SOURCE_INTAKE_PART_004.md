@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE PART / PASS 1 COMPLETE.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE PART / VERIFIED TAMIL / DOCUMENTATION SYNC COMPLETE.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **91–120**;
@@ -48,7 +48,7 @@ The canonical `scan_page` remains the overall scan number **91–120**.
 
 ## Current gate
 
-Part 004 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE PART / PASS 1 COMPLETE**.
+Part 004 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE PART / VERIFIED TAMIL / DOCUMENTATION SYNC COMPLETE**.
 
 - incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 120→121 — **GENUINE CONTINUATION / AUDITED**
@@ -63,12 +63,13 @@ Part 004 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE PART / PA
 - Part004 Tamil textual status — **30/30 verified**
 - Part004 visual fidelity — **30/30 verified**
 - Part004 unresolved status exceptions — **0**
-- Part004 documentation synchronization — **NOT STARTED**
+- Part004 documentation synchronization — **PASS / COMPLETE**
+- Part004 Tamil archival-ready — **NOT STARTED / NEXT GATE**
 
 Part003 remains **FINAL CLOSED / FROZEN**. Part005 scan121 was inspected only as an outgoing boundary witness; no Part005 canonical record was created.
 
 ## Exact next activity
 
-Perform the separate **Part004 documentation synchronization** gate.
+Perform the **Part004 Tamil archival-ready checkpoint**.
 
 Do not begin Part005 transcription.

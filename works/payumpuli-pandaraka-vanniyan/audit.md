@@ -986,3 +986,39 @@ Durable record:
 Part003 is now **FINAL CLOSED / FROZEN**.
 
 Part004 is now **NEXT ACTIVE / AUTHORIZED / NOT STARTED** with first normal Pass-1 batch **global scans91–100 / local pages1–10**.
+
+## Part004 verification / documentation state
+
+Part004 has completed its maintained Tamil verification chain through documentation synchronization:
+
+- source intake — **PASS / COMPLETE**
+- canonical records — **30/30 scans91–120**
+- Pass 1 — **COMPLETE / PASS**
+- Pass 2A — **COMPLETE / PASS**
+- Pass 2B — **COMPLETE / PASS**
+- Pass 3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- unresolved status exceptions — **0**
+- incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 120→121 — **GENUINE CONTINUATION / AUDITED**
+
+Durable authority:
+- `PART_004_AUDIT.md`
+- `PART_004_FINAL_STATUS_SYNC.md`
+
+## Part004 documentation synchronization — PASS / COMPLETE
+
+The live documentation/control surface has been reconciled to the verified Part004 state without changing any canonical Part004 page record.
+
+Synchronized controls include README, handover, page map, work audit, source metadata, source-intake controls, multipart policy, Part004 progress trackers and root next-chat prompts.
+
+Historical gate sections above remain historical evidence and are not the live frontier.
+
+## Exact next activity
+
+Perform **Part004 Tamil archival-ready checkpoint**.
+
+Do not reopen verified Part004 page records and do not begin assembled Tamil, English workflow or Part005 transcription in this documentation-sync closure.

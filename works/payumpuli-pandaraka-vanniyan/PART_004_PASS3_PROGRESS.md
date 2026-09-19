@@ -48,7 +48,8 @@ At Pass-3 closure all pages deliberately remain `status: "needs-review"` / `visu
 - Tamil textual status — **30/30 verified**
 - visual fidelity — **30/30 verified**
 - unresolved status exceptions — **0**
-- documentation synchronization — **NOT STARTED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **NOT STARTED / NEXT GATE**
 
 ## Batch 1 — scans91–100
 
@@ -126,6 +127,6 @@ No Pass-3 blocker remains for the **Part audit** gate.
 
 ## Exact next activity
 
-Perform the separate **Part004 documentation synchronization** gate.
+Perform the **Part004 Tamil archival-ready checkpoint**.
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 body files.
