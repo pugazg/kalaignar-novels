@@ -178,7 +178,10 @@ Current verified Tamil state:
 - English glossary reconciliation — **RECONCILED / PASS**
 - glossary-reconciliation English section edits — **0**
 - unresolved glossary holds — **0**
-- English editorial review — **NOT STARTED / NEXT GATE**
+- English editorial review — **PASS / CLOSED**
+- editorial English-only changes — **25**
+- unresolved editorial holds — **0**
+- whole-Part bilingual review — **NOT STARTED / NEXT GATE**
 - incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 120→121 — **GENUINE CONTINUATION / AUDITED**
 
@@ -206,6 +209,7 @@ Durable Part004 records:
 - `translations/en/PART_004_TRANSLATION_PLAN.md`
 - `translations/en/PART_004_GLOSSARY.md`
 - `translations/en/PART_004_GLOSSARY_RECONCILIATION.md`
+- `translations/en/PART_004_TRANSLATION_REVIEW.md`
 - `translations/en/PART_004_PROGRESS.md`
 - `translations/en/E15_SOURCE_CHECK.md`
 - `translations/en/E19_SOURCE_CHECK.md`
@@ -215,6 +219,6 @@ Durable Part004 records:
 
 ## Exact next activity
 
-Perform **Part004 English editorial review across all five maintained English files / scans91–120**.
+Perform **Part004 whole-Part bilingual review across all five Tamil/English pairs / scans91–120**.
 
 Do not modify verified Part004 canonical or assembled Tamil body text. Do not begin Part005 transcription.

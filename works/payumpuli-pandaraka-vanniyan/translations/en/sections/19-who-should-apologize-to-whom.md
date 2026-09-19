@@ -21,15 +21,15 @@ working_title: "Payumpuli Pandaraka Vanniyan"
 
 With that, Sundaralingam departed. Kaakkai Vanniyan had expected him to argue—to pour out irritation, saying, “Is it not enough that I have come and asked? Must Naachchiyar come too?”—and to leave after declaring that he was ready to face whatever happened. For a moment, therefore, Kaakkai was confused, and Sundaralingam's approach surprised him. Sundaralingam too had clearly come with the thought that, somehow, the issue should end peacefully for the present. Kaakkai therefore believed Kuruvichchi would accept his proposal and come to the palace.
 
-At once, without his realizing it, his intoxication-reddened eyes withdrew beneath his eyelids like a tortoise retreating into its shell! Though Kaakkai Vanniyan shut his eyes within his lids, he could not shut in the desires that burst forth after opening the doors of his heart.
+At once, without realizing it, his drink-reddened eyes slipped beneath his lids like a tortoise retreating into its shell! Though Kaakkai Vanniyan shut his eyes within his lids, he could not shut in the desires that burst forth after opening the doors of his heart.
 
-He imagined that Kuruvichchi Naachchiyar had already arrived. Without realizing it, he delighted in imagining himself rising, going forward, welcoming her and attending to her. He decided that the smile she sowed upon seeing him would be the first proclamation taking root as love for him
+He imagined that Kuruvichchi Naachchiyar had already arrived. He delighted in imagining himself rising to greet her, going forward to welcome and attend to her. He decided that the smile she sowed upon seeing him would be the first proclamation taking root as love for him
 
 <!-- source boundary: scan 95 → scan 96 -->
 
 in her heart. Without standing before him in person, Kuruvichchi Naachchi appeared before his inner eye as beauty itself.
 
-“How many days have I yearned—pined—to find a place in her heart! It refuses to happen; ah! What beauty! If there is such a thing as an enchanting rainbow, is she not that alone? I have gone round and round until I am worn away. This beauty refuses to sit on my lap! She hates me! Does she need to bring the strength of an army to conquer me? One sidelong glance from her would be enough for me to sign away my whole life as her slave! That long, high forehead! If it comes close to my face, it will be a Himalayan victory for me! The thick, curling hair that coils beautifully above her forehead—if I could stroke it and gently brush against her, ah! I cannot even measure the delight of it! Whenever I saw from a little distance in the gurukulam classroom the soft down growing like smoke and descending toward her ears, how I longed to touch it with my fingers! I do not know what magic lies in that mango-like body fashioned by Maayan, drawing men toward it! Will Sarveswaran really deny me a chance to settle the doubt whether there is even a waist within that body hidden by clothing? Though hidden from my sight—those thighs like plantain stems, that springing gait, appearing without appearing and piercing my very life—after seeing them only from afar again and again until I wilted, will there never come a day when I have the chance to touch and taste? That chance for pleasure—that sweet chance
+“How many days have I yearned—pined—to find a place in her heart! It refuses to happen; ah! What beauty! If there is such a thing as an enchanting rainbow, is she not that alone? I have gone round and round until I am worn away. This beauty refuses to sit on my lap! She hates me! Does she need to bring the strength of an army to conquer me? One sidelong glance from her would be enough for me to sign away my whole life as her slave! That long, high forehead! If it comes close to my face, it will be a Himalayan victory for me! The thick, curling hair that coils beautifully above her forehead—if I could stroke it and gently brush against her, ah! I cannot even measure the delight of it! Whenever I saw from a little distance in the gurukulam classroom the soft down growing like smoke and descending toward her ears, how I longed to touch it with my fingers! I do not know what magic lies in that mango-like body fashioned by Maayan, drawing men toward it! Will Sarveswaran really deny me a chance to settle the doubt whether there is even a waist within that body hidden by clothing? Though hidden from my sight—those thighs like plantain stems, that springing gait, appearing without appearing and piercing my very life—after seeing them only from afar, again and again, until I withered, will there never come a day when I have the chance to touch and taste? That chance for pleasure—that sweet chance
 
 <!-- source boundary: scan 96 → scan 97 -->
 
@@ -44,7 +44,7 @@ Kaakkai's eyes now peeped out beyond his eyelids! Blood-red! Such was the intoxi
 
 Thinking that, if Kuruvichchi did come to the palace, certain arrangements had to be made before she arrived, he drove the kitchen workers to hurry: a feast had to be prepared with many kinds of dishes! If Kuruvichchi Naachchiyar saw Sangili Thalapathi in the condition in which he was now lying in prison, she would be shocked and enraged and pour hatred upon him. So he immediately ordered every comfort to be piled into that prison cell. A cot—a mattress—and everything else needed! Even books!
 
-His plan was that, at a sudden glance, it should look not like a prison at all but like the library of some great scholar! Only then, he firmly believed, would Kuruvichchi see it and develop respect for his righteous principles, and that respect, with time, would turn into enchantment.
+His plan was that, at first glance, it should look not like a prison at all but like the library of some great scholar! Only then, he firmly believed, would Kuruvichchi see it and develop respect for his righteous principles, and that respect, with time, would turn into enchantment.
 
 After ordering that all the arrangements he had imagined be carried out in an instant, Kaakkai sat with the foreign officers who were his masters and emptied a few more cups of liquor!
 
@@ -64,7 +64,7 @@ Sangili Thalapathi pursed his lips and suppressed a smile!
 
 <!-- source boundary: scan 99 → scan 100 -->
 
-Sangiliyar's reply carried the firmness found in the hand of a warrior gripping the hilt of his sword as it rises. Kaakkai Vanniyan was shaken by the reply, but composing himself, he let out a foolish laugh and continued.
+Sangiliyar's reply had the firmness of a warrior's hand gripping a sword-hilt as the blade is raised. Kaakkai Vanniyan was shaken by the reply, but composing himself, he let out a foolish laugh and continued.
 
 “The officers advised that you should be tormented in prison. Though I nodded in agreement to them, my heart would not allow it. That is why I have ordered that you be treated here with royal honours.”
 

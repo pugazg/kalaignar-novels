@@ -14,8 +14,8 @@ Part001, Part002 and Part003 English remain **FINAL CLOSED / FROZEN**.
 | **E18** | section 21 — `அவள் நடந்த பாதை` | **110–115** | **SOURCE-CHECKED / COMPLETE** |
 | **E19** | section 22 — `இருவர் உள்ளம்` | **116–120** | **SOURCE-CHECKED / COMPLETE** |
 | Glossary | Part004 whole-Part reconciliation | 91–120 | **RECONCILED / PASS** |
-| Editorial | Part004 whole-Part English editorial review | 91–120 | **NOT STARTED / NEXT GATE** |
-| Bilingual | Part004 whole-Part bilingual review | 91–120 | **NOT STARTED** |
+| Editorial | Part004 whole-Part English editorial review | 91–120 | **PASS / CLOSED** |
+| Bilingual | Part004 whole-Part bilingual review | 91–120 | **NOT STARTED / NEXT GATE** |
 | Release | Part004 release/readiness report | 91–120 | **NOT STARTED** |
 | Release sync | Part004 release-ready synchronization | 91–120 | **NOT STARTED** |
 | Final closure | Part004 final closure | 91–120 | **NOT STARTED** |
@@ -37,7 +37,10 @@ Part001, Part002 and Part003 English remain **FINAL CLOSED / FROZEN**.
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
 - English section edits caused by reconciliation — **0**
 - unresolved glossary holds — **0**
-- English editorial review — **NOT STARTED**
+- English editorial review — **PASS / CLOSED**
+- editorial English-only changes — **25**
+- editorial source-alignment corrections — **0**
+- unresolved editorial holds — **0**
 - whole-Part bilingual review — **NOT STARTED**
 - release/readiness report — **NOT STARTED**
 - release-ready synchronization — **NOT STARTED**
@@ -146,8 +149,20 @@ Part005 remains blocked until Part004 final closure.
 - Part005 leakage — **0**
 - durable record — `PART_004_GLOSSARY_RECONCILIATION.md`
 
+## Editorial review closure
+
+- maintained English files reviewed — **5/5**
+- files edited — **5/5**
+- English-only changes — **25**
+- source-alignment corrections — **0**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0**
+- frozen prior-Part English body edits — **0**
+- Part005 leakage — **0**
+- durable record — `PART_004_TRANSLATION_REVIEW.md`
+
 ## Exact next activity
 
-Perform **Part004 English editorial review across all 5 maintained English files / scans91–120**.
+Perform **Part004 whole-Part bilingual review across all five Tamil/English pairs / scans91–120**.
 
-Do not begin bilingual review until editorial review closes. Do not begin Part005 transcription.
+Do not begin release/readiness until bilingual review closes. Do not begin Part005 transcription.

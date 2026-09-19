@@ -17,13 +17,13 @@ working_title: "Payumpuli Pandaraka Vanniyan"
 
 # Two Hearts
 
-Pandarakan, who had ridden away swiftly after parting from Kuruvichchi, did not maintain that speed for long. Little by little his horse slowed, and then moved as gently as though it were at the head of a procession. Ever since he had met her and their two hearts had drawn close, nothing like this had ever happened. A man and a woman can endure being apart when there is no anger between them. Though the pain of separation may pierce the heart, both can console themselves that the separation is unavoidable because of the duties each has undertaken. But this sudden separation had come from the fierce anger Pandaraka Vanniyan felt toward Kuruvichchi Naachchi!
+Pandarakan, who had ridden away swiftly after parting from Kuruvichchi, did not maintain that speed for long. Little by little his horse slowed, and then moved as gently as though it were at the head of a procession. Ever since he had met her and their two hearts had drawn close, nothing like this had ever happened. A man and a woman can bear being apart when there is no anger between them. Though the pain of separation may pierce the heart, both can console themselves that the separation is unavoidable because of the duties each has undertaken. But this sudden separation had come from the fierce anger Pandaraka Vanniyan felt toward Kuruvichchi Naachchi!
 
 Kuruvichchi too did not take long to understand the reason for what he had done. She concluded that Pandarakan had felt the same kind of hurt toward her that her grandfather had felt. Keeping her eyes fixed on the direction in which he had gone, she let out a long sigh and looked with troubled eyes at the place where her grandfather had been buried. Then she walked sorrowfully along the narrow footpath leading from there into the village. Her horse followed behind as though creeping after her.
 
 <!-- source boundary: scan 116 → scan 117 -->
 
-“He could have told me to my face that I was wrong to go to Kaakkai Vanniyan's palace. He could have scolded me. He could even have given me whatever punishment was due. Instead, saying, ‘Do not come with me!’ he has thrown me into a pit of fire and gone away! I thought we should not turn what happened to my grandfather and the effort to rescue him into a political problem; I thought we ourselves should deal with it and not trouble my Pandarakan. And where has that thought brought me!”
+“He could have told me to my face that I was wrong to go to Kaakkai Vanniyan's palace. He could have scolded me. He could even have given me whatever punishment was due. Instead, saying, ‘Do not come with me!’ he has thrown me into a pit of fire and gone away! I thought we should not turn what happened to my grandfather, and the effort to rescue him, into a political problem; I thought we should handle it ourselves and not trouble my Pandarakan. And where has that thought brought me!”
 
 As these thoughts struck her heart, she kept walking.
 
@@ -47,19 +47,19 @@ confined him in Kaakkai Vanniyan's palace. Not even understanding what a major p
 
 A battle in his mind between his fervour for the ideal and the discipline of love he followed!
 
-The same struggle was in Kuruvichchi too—but in another form! She had acted so that her family problem would not cause a major political conflict. He had understood it differently and concluded that it came from selfishness. She, never even dreaming that he could have thought so, was nearing her home with her love for him swelling strongly enough to overcome the rejection he had shown. It was because she would pour upon him that flood of love which could never be erased that she could not bear those words.
+Kuruvichchi was caught in the same struggle too—but in another form! She had acted so that her family problem would not cause a major political conflict. He had understood it differently and concluded that it came from selfishness. She, never even dreaming that he could have thought so, was nearing her home with her love for him swelling strongly enough to overcome the rejection he had shown. It was because she would pour upon him that flood of love which could never be erased that she could not bear those words.
 
 From the end of the street, Kuruvichchi looked toward the entrance of her house and stopped in astonishment. Four or five horsemen stood imposingly at the doorway. Among them were one or two foreign soldiers. Something had gone wrong. Perhaps they had come to arrest her and take her away! At a time when she and Pandarakan were apart, so be it—let whatever happens happen! Steeling her mind with that thought, she hurried toward the house. The horsemen at the entrance stepped aside and made way. With her eyes seeming to scorch them aside, she
 
 <!-- source boundary: scan 119 → scan 120 -->
 
-entered the house. The sight she saw in the front hall was astonishing. It was also deeply repulsive.
+entered the house. What she saw in the front hall was astonishing. It was also deeply repulsive.
 
 Kaakkai Vanniyan was seated there! The moment he saw her, he stood up. “Naachchiyar! I wanted to come to your grandfather's burial. Pandarakan would be there! It would not be very good for the two of us to meet face to face in that place! He is a rough-natured man! He does not know refinement as I do! That is why I came here to the house itself to express my grief and offer you comfort!” he said. Kuruvichchi's eyes became flames! Even so, taking great care not to treat discourteously someone who had come to offer condolences, she said, with quiet but deep hurt in her heart, “Thank you!”
 
 “I thought perhaps you might go away with Pandarakan. Good that you have come! Sit down!” he said, playing host to her in her own house!
 
-She did not sit. She remained standing.
+She did not sit; she remained standing.
 
 “Will you not sit? You have always had boundless respect for me!” he said, and seated himself in the chair there.
 

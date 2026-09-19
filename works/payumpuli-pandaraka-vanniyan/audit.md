@@ -1177,3 +1177,22 @@ Durable record:
 Perform **Part004 English editorial review across all five maintained English files / scans91–120**.
 
 Do not begin bilingual review or Part005 transcription until editorial review closes.
+
+## Part004 English editorial review — PASS / CLOSED
+
+- maintained English files reviewed — **5/5**
+- maintained English files edited — **5/5**
+- English-only changes — **25**
+- source-alignment corrections — **0**
+- unresolved editorial holds — **0**
+- canonical Tamil mutations — **0**
+- assembled Tamil mutations — **0**
+- frozen prior-Part English body mutations — **0**
+- Part005 leakage — **0**
+
+Durable record:
+- `translations/en/PART_004_TRANSLATION_REVIEW.md`
+
+## Current Part004 frontier
+
+Perform **Part004 whole-Part bilingual review across all five Tamil/English pairs / scans91–120**.

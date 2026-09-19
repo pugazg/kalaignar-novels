@@ -17,13 +17,13 @@ working_title: "Payumpuli Pandaraka Vanniyan"
 
 # Can One Forget the Concealment of Honour?
 
-Surrounded by warriors and seated on horseback, Kuruvichchi Naachchiyar arrived at the palace entrance. Kaakkai Vanniyan came forward to receive her, making a great effort to put on a pleasant face, attended to her and brought her inside. Sundaralingam came with Kuruvichchi, and on seeing him Kaakkai smiled with an overflowing show of friendship. The British officers seated in the inner hall remained in their chairs and merely nodded as though welcoming her.
+Surrounded by warriors and seated on horseback, Kuruvichchi Naachchiyar arrived at the palace entrance. Kaakkai Vanniyan came forward to receive her, making a great effort to put on a pleasant face, received her and brought her inside. Sundaralingam came with Kuruvichchi, and on seeing him Kaakkai smiled with an overflowing show of friendship. The British officers seated in the inner hall remained in their chairs and merely nodded as though welcoming her.
 
 “Kuruvichchi is my friend from the gurukulam!” he said, introducing her to those officers. Through the proud look in her eyes, she in turn made it clear that she was not one to bend and submit before anyone.
 
 “This is the first time your feet have stepped into my palace!” Kaakkai Vanniyan said, all awkward eagerness. “Everything must have its proper time, must it not?” Kuruvichchi replied, a bubbling smile flashing across her cheeks.
 
-“Your coming now is certainly at a good time! But instead of coming for this, you are someone who should have come long ago—for some other reason!” Kaakkai Vanniyan said, winking. Afraid of what reply she might give, he did not let her speak and hurried on: “All right! All right! First let me attend to the guest who has come here! Let us eat!”
+“Your coming now is certainly at a good time! But instead of coming for this, you should have come long ago—for some other reason!” Kaakkai Vanniyan said, winking. Afraid of what reply she might give, he did not let her speak and hurried on: “All right! All right! First let me attend to the guest who has come here! Let us eat!”
 
 <!-- source boundary: scan 103 → scan 104 -->
 
@@ -33,7 +33,7 @@ Surrounded by warriors and seated on horseback, Kuruvichchi Naachchiyar arrived 
 
 Kuruvichchi could not bring herself to open her mouth and say, “Thank you.” She feared it would make the release look like a favour obtained by bowing before enemies.
 
-Sundaralingam and she had agreed to come to Kaakkai Vanniyan's palace only on the basis of an honourable negotiation, trusting that Sangili Thalapathi could be released and taken away. So both of them listened eagerly to hear what else Kaakkai Vanniyan would say. Kaakkai continued.
+Sundaralingam and she had agreed to come to Kaakkai Vanniyan's palace only because they trusted that an honourable negotiation could secure Sangili Thalapathi's release. So both of them listened eagerly to hear what else Kaakkai Vanniyan would say. Kaakkai continued.
 
 “Sangili Thalapathi will be released without any major condition. Once Kuruvichchi herself agreed to come here in person, I had to work very hard to persuade these officers to relax the condition.”
 
@@ -49,7 +49,7 @@ Before Kaakkai could finish saying it, sparks flared in Kuruvichchi's eyes!
 
 The British officers understood Kuruvichchi's anger and looked at Kaakkai Vanniyan meaningfully. At once he turned to her and said, “No! No! I had already told them that you would not accept that condition!”
 
-The officers had already explained to him the complications that could arise if their refusal to release Sangili Thalapathi became a major issue. Besides, his chief aim now was to find a place for himself in Kuruvichchi's heart! He was therefore quite prepared to come down step by step. Kuruvichchi Naachchi stood as a warrior woman in an honour-bound camp that believed one must defeat the enemy and win—or the enemy must come to terms and let the matter end peacefully—and that, if neither happened, death itself was better. What else could Kaakkai Vanniyan's conditions become before such a woman but drops of water falling into a boiling cauldron!
+The officers had already explained to him the complications that could arise if their refusal to release Sangili Thalapathi became a major issue. Besides, his chief aim now was to find a place for himself in Kuruvichchi's heart! He was therefore quite prepared to come down step by step. Kuruvichchi Naachchi stood as a warrior woman in an honour-bound camp that believed one must defeat the enemy and win—or the enemy must come to terms and let the matter end peacefully—and that, if neither happened, death itself was better. Before such a woman, what could Kaakkai Vanniyan's conditions amount to but drops of water falling into a boiling cauldron!
 
 Thinking, let it work as far as it can, he continued.
 
@@ -59,7 +59,7 @@ She raised herself proudly and looked at him. The face of that golden-radiant wo
 
 “You need only say that you killed the British soldier through carelessness and, for that, offer an apology...”
 
-Kaakkai did not finish! Kuruvichchi trembled.
+Kaakkai did not finish the sentence! Kuruvichchi trembled.
 
 “An apology!” she cried aloud, rising from her seat.
 

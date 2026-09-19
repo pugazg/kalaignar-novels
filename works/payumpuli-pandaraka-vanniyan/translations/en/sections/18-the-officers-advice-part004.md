@@ -15,9 +15,9 @@ working_title: "Payumpuli Pandaraka Vanniyan"
 
 <!-- incoming audited continuation: scan 90 → scan 91; frozen Part003 English body intentionally not copied into Part004 -->
 
-people of that kind—must be ready to embrace death at any moment! And so we are! I came secretly to the soil of Sri Lanka and would have returned just as secretly! But unavoidable circumstances have given me the opportunity to meet all of you!”
+people of that kind—must be ready to embrace death at any moment! And so we are! I came secretly to the soil of Sri Lanka and would have returned just as secretly! But unavoidable circumstances have given me the chance to meet all of you!”
 
-Sundaralingam's words, filled with dignity and pride, left Kaakkai Vanniyan and the British officers guarding him discomfited.
+Sundaralingam's words, filled with dignity and pride, left Kaakkai Vanniyan and the British officers guarding him disconcerted.
 
 “What is the message you have brought from Kuruvichchi Naachchiyar?” Kaakkai asked, without making the slightest attempt to conceal his arrogance!
 
@@ -25,7 +25,7 @@ Sundaralingam's words, filled with dignity and pride, left Kaakkai Vanniyan and 
 
 “It is no supposition! It is the truth! You know the loyalty this Kaakkai has toward the British masters—and the trust they place in me. There can be nothing surprising in your supposing that Sangili Thalapathi, abducted by British soldiers, must be in this fort!”
 
-“Thank you—for telling the truth! But one thing! This news has not yet been conveyed to Pandaraka Vanniyan! Kuruvichchi Naachchiyar has taken the entire responsibility upon herself and come to rescue her grandfather. It was I who suggested to Naachchiyar that we should first try talking. If a confrontation breaks out, the whole force of Mullaitheevu will gather, and you too will have to bring here all the foreign forces massed on the island of Sri Lanka and make every effort
+“Thank you—for telling the truth! But one thing! This news has not yet been conveyed to Pandaraka Vanniyan! Kuruvichchi Naachchiyar has taken the entire responsibility upon herself and come to rescue her grandfather. It was I who suggested to Naachchiyar that we should first try talking. If a confrontation breaks out, all the forces of Mullaitheevu will gather, and you too will have to bring here all the foreign forces massed on the island of Sri Lanka and make every effort
 
 <!-- source boundary: scan 91 → scan 92 -->
 
@@ -33,7 +33,7 @@ to defend your fort. I believe Kaakkai Vanniyan will not force such an undesirab
 
 “So?” Kaakkai Vanniyan asked, stroking his moustache and glaring at Sundaralingam. A measure of venom poured from those eyes!
 
-Meanwhile, the British officer there collected himself, gently patted Kaakkai Vanniyan on the back and led him a little distance away. “Calm down! Calm down! We must think over what this friend says too! None of us can confront Pandaraka Vanniyan directly without consulting our higher administration in the capital, Colombo. Even if a few incidents are now happening here and there between the warriors of Mullaitheevu and our men, if it flares into a major fight, objections will come from the higher authorities in Colombo! So it is better to think carefully and act strategically,” he advised.
+Meanwhile, the British officer there collected himself, gently patted Kaakkai Vanniyan on the back and led him a little distance away. “Calm down! Calm down! We must consider what this friend is saying too! None of us can confront Pandaraka Vanniyan directly without consulting our higher administration in the capital, Colombo. Even if a few incidents are now happening here and there between the warriors of Mullaitheevu and our men, if it flares into a major fight, objections will come from the higher authorities in Colombo! So it is better to think carefully and act strategically,” he advised.
 
 “Then there was no need to abduct Sangili Thalapathi and bring him here in the first place, was there?”
 
@@ -51,7 +51,7 @@ The British officer had been speaking in a low voice, but without realizing it h
 
 From where he sat, he addressed the officer.
 
-“You are acting in the belief that you will break the great stone with a chisel! But do not forget that, struck again and again by the chisel, that great stone takes shape as a rare statue! One day—today, tomorrow, whenever it may be—using the cunning of British domination and the help of betrayers among our Tamil people who sell us out, you may bring down freedom-seekers like us! Do not forget: what falls will be bodies—but what rises will be the spirit! That spirit can never be defeated!”
+“You are acting in the belief that you will break the great stone with a chisel! But do not forget that, struck again and again by the chisel, that great stone takes shape as a rare statue! One day—whether today, tomorrow, or whenever it may be—using the cunning of British domination and the help of betrayers among our Tamil people who sell us out, you may bring down freedom-seekers like us! Do not forget: what falls will be bodies—but what rises will be the spirit! That spirit can never be defeated!”
 
 Though the officer was shocked that Sundaralingam had overheard what they were saying, he realized that the indiscretion had come from drinking too much liquor and immediately composed himself.
 
