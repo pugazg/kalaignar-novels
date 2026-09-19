@@ -55,6 +55,13 @@ Part001 section files `00-*.md` through `07-*.md` are frozen.
 | 20 | 004 | `20-maana-maraippu-marakkalaamaa.md` | 103–109 | `மான மறைப்பு மறக்கலாமா?` | **VERIFIED** |
 | 21 | 004 | `21-aval-nadantha-paathai.md` | 110–115 | `அவள் நடந்த பாதை` | **VERIFIED** |
 | 22 | 004 | `22-iruvar-ullam.md` | 116–120 | `இருவர் உள்ளம்` | **VERIFIED** |
+| 23 | 005 | `23-iruvar-ullam-part005.md` | 121 | chapter 15 continuation `இருவர் உள்ளம்` | **VERIFIED** |
+| 24 | 005 | `24-pandaarakanin-sakotharigal.md` | 122–128 | `பண்டாரகனின் சகோதரிகள்!` | **VERIFIED** |
+| 25 | 005 | `25-kandip-payanam.md` | 129–134 | `கண்டிப் பயணம்!` | **VERIFIED** |
+| 26 | 005 | `26-nanbargal-santhippu.md` | 135–139 | `நண்பர்கள் சந்திப்பு!` | **VERIFIED** |
+| 27 | 005 | `27-manamillaa-manam.md` | 140–145 | `மனமில்லா மணம்!` | **VERIFIED** |
+| 28 | 005 | `28-sathi-valai.md` | 146–149 | `சதி வலை!` | **VERIFIED** |
+| 29 | 005 | `29-kuruviyum-kuyilum.md` | 150 | `குருவியும் - குயிலும்!` | **VERIFIED** |
 
 ### Part003 — PASS / CLOSED
 
@@ -158,18 +165,33 @@ Part003 — **FINAL CLOSED / FROZEN**; assembled Tamil remains **PASS / CLOSED �
 
 Part004 — **FINAL CLOSED / FROZEN**; assembled Tamil remains **PASS / CLOSED — 5/5 VERIFIED**.
 
+### Part005 — PASS / CLOSED
+
+- physical coverage — **scans121–150**
+- canonical pages represented — **30/30**
+- assembled files — **7/7 VERIFIED**
+- omitted / duplicated canonical pages — **0 / 0**
+- unsupported body insertion — **0**
+- audit-note leakage — **0**
+- Part006 body leakage — **0**
+- canonical Part005 page mutations caused by assembly — **0**
+- frozen Part001–Part004 assembled-file mutations — **0**
+- scan123 illustration-only matter represented as provenance only — **PASS**
+- scan140→141 split word rendered continuously with non-rendering provenance marker — **PASS**
+- validation — `../PART_005_ASSEMBLED_TAMIL_VALIDATION.md`
+
 Part005:
 - Tamil archival-ready — **PASS / CLOSED**
 - canonical Tamil — **30/30 verified**
 - visual fidelity — **30/30 verified**
-- assembled Tamil — **NOT STARTED / NEXT GATE**
-- canonical Part005 page mutations caused by archival-ready checkpoint — **0**
-- Part006 canonical leakage — **0**
-- expected reading-layer source structure — **7 section files / scans121–150**
-- Part001–Part004 assembled files — **FROZEN / MUST NOT CHANGE**
+- assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
+- canonical Part005 page mutations caused by assembly — **0**
+- Part006 body leakage — **0**
+- Part001–Part004 assembled files — **FROZEN / UNCHANGED**
+- English translation planning/setup — **NOT STARTED / NEXT GATE**
 
 ## Exact next activity
 
-Perform **Part005 assembled Tamil construction + audit**.
+Perform **Part005 English translation planning/setup**.
 
-Build only from verified Part005 canonical `pages/` source-transcription blocks. Preserve both audited Part005 boundaries, exclude scan123 illustration-only matter from literary body, keep frozen Part001–Part004 assembled files unchanged, and do not import Part006 body text.
+Use verified Part005 canonical Tamil plus the closed 7/7 assembled Tamil reading layer. Do not modify canonical or assembled Tamil, frozen Part001–Part004 English, or import Part006 body text.

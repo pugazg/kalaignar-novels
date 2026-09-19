@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL NEXT.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **121–150**;
@@ -42,7 +42,7 @@ The canonical `scan_page` remains the overall scan number **121–150**.
 
 ## Current gate
 
-Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL NEXT**.
+Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT**.
 
 - incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
@@ -67,6 +67,10 @@ Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / TAMIL A
 - Tamil archival-ready — **PASS / CLOSED**
 - canonical Part005 page mutations caused by archival-ready checkpoint — **0**
 - Part006 canonical leakage — **0**
-- assembled Tamil — **NOT STARTED / NEXT GATE**
+- assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
+- canonical Part005 page mutations caused by assembly — **0**
+- frozen Part001–Part004 assembled-file mutations — **0**
+- Part006 body leakage — **0**
+- English translation planning/setup — **NOT STARTED / NEXT GATE**
 
-Part004 remains **FINAL CLOSED / FROZEN**. Part005 Tamil archival-ready is closed; the exact next gate is assembled Tamil construction + audit.
+Part004 remains **FINAL CLOSED / FROZEN**. Part005 assembled Tamil is closed; the exact next gate is English translation planning/setup.

@@ -111,7 +111,7 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
-- Part005 — **ACTIVE / AUTHORIZED — TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL NEXT**
+- Part005 — **ACTIVE / AUTHORIZED — ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT**
 - Part005 canonical page records — **30/30 — scans121–150**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - Part005 outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
@@ -128,7 +128,11 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part005 Tamil archival-ready — **PASS / CLOSED**
 - Part005 canonical page mutations caused by archival-ready checkpoint — **0**
 - Part006 canonical leakage — **0**
-- Part005 assembled Tamil — **NOT STARTED / NEXT GATE**
+- Part005 assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
+- Part005 canonical page mutations caused by assembly — **0**
+- frozen Part001–Part004 assembled-file mutations — **0**
+- Part006 body leakage — **0**
+- Part005 English translation planning/setup — **NOT STARTED / NEXT GATE**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
 - boundary 90→91 — **GENUINE CONTINUATION / AUDITED**
@@ -152,6 +156,6 @@ Authoritative Part004 verification records:
 
 ## Exact next activity
 
-Perform **Part005 assembled Tamil construction + audit**.
+Perform **Part005 English translation planning/setup**.
 
-Preserve both audited Part005 boundaries. Do not modify frozen Part001–Part004 body layers or assembled files. Build only from verified Part005 canonical records; do not create Part006 canonical records or import Part006 body text.
+Preserve both audited Part005 boundaries. Do not modify frozen Part001–Part004 body/assembled/English layers. Use only the closed Part005 canonical and assembled Tamil authority; do not import Part006 body text.

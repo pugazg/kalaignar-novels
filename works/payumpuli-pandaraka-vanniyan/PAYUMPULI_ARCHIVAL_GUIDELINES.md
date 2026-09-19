@@ -140,7 +140,7 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part004 release/readiness: PASS / CLOSED**
 - **Part004 release-ready synchronization: PASS / CLOSED**
 - **Part004 final closure: PASS / CLOSED / FROZEN**
-- **Part005: ACTIVE / AUTHORIZED — PASS 2B COMPLETE / PASS 3 NEXT**
+- **Part005: ACTIVE / AUTHORIZED — ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT**
 - **Part005 canonical range: scans121–150**
 - **Part005 canonical page records: 30/30 — scans121–150**
 - **Part005 incoming 120→121: GENUINE CONTINUATION / AUDITED**
@@ -160,10 +160,14 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part005 Tamil archival-ready: PASS / CLOSED**
 - **Part005 canonical page mutations caused by archival-ready checkpoint: 0**
 - **Part006 canonical leakage: 0**
-- **Part005 assembled Tamil: NOT STARTED / NEXT GATE**
+- **Part005 assembled Tamil: PASS / CLOSED — 7/7 VERIFIED**
+- **Part005 canonical page mutations caused by assembly: 0**
+- **Part005 frozen Part001–Part004 assembled-file mutations: 0**
+- **Part005 Part006 body leakage: 0**
+- **Part005 English translation planning/setup: NOT STARTED / NEXT GATE**
 
 ## Exact next gate
 
-Perform **Part005 assembled Tamil construction + audit**.
+Perform **Part005 English translation planning/setup**.
 
-Preserve frozen Part001–Part004 body layers and assembled files and both audited Part005 boundaries. Build only from verified Part005 canonical records; do not create Part006 canonical records or import Part006 body text.
+Preserve frozen Part001–Part004 body and English layers and both audited Part005 boundaries. Use only the closed Part005 canonical/assembled Tamil authority; do not import Part006 body text.

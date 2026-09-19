@@ -194,7 +194,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E16_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
 
-## Part005 — ACTIVE / TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL NEXT
+## Part005 — ACTIVE / ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
 - global scans — **121–150**
@@ -223,7 +223,11 @@ Durable records:
 - Tamil archival-ready — **PASS / CLOSED**
 - canonical Part005 page mutations caused by archival-ready checkpoint — **0**
 - Part006 canonical leakage — **0**
-- assembled Tamil — **NOT STARTED / NEXT GATE**
+- assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
+- canonical Part005 page mutations caused by assembly — **0**
+- frozen Part001–Part004 assembled-file mutations — **0**
+- Part006 body leakage — **0**
+- English translation planning/setup — **NOT STARTED / NEXT GATE**
 - Part001–Part004 — **FINAL CLOSED / FROZEN**
 
 Durable records:
@@ -234,10 +238,11 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_005_FINAL_STATUS_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_005_DOCUMENTATION_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_005_TAMIL_ARCHIVAL_READY.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_005_ASSEMBLED_TAMIL_VALIDATION.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_005_BOUNDARY_AUDIT_150_151.md`
 
 ## Exact next activity
 
-Perform **Part005 assembled Tamil construction + audit**.
+Perform **Part005 English translation planning/setup**.
 
-Construct only from verified Part005 canonical page records. Preserve frozen Part001–Part004 body layers and assembled files, and do not create Part006 canonical records or import Part006 body text.
+Use the closed Part005 canonical/assembled Tamil authority. Do not modify frozen Part001–Part004 body/English layers and do not import Part006 body text.

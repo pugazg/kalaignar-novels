@@ -1303,8 +1303,23 @@ Part005 Tamil archival-ready — **PASS / CLOSED**.
 - Part006 canonical leakage — **0**
 - durable record — `PART_005_TAMIL_ARCHIVAL_READY.md`
 
+## Part005 assembled Tamil — PASS / CLOSED
+
+- assembled files — **7/7 VERIFIED**
+- represented scans — **121–150 / 30 pages**
+- canonical source-transcription coverage — **30/30**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit-note leakage — **0**
+- canonical Part005 page mutations caused by assembly — **0**
+- frozen Part001–Part004 assembled-file mutations — **0**
+- Part006 body leakage — **0**
+- scan123 illustration-only provenance handling — **PASS**
+- scan140→141 split-word provenance — **PASS**
+- durable validation — `PART_005_ASSEMBLED_TAMIL_VALIDATION.md`
+
 ## Current work frontier
 
-Perform **Part005 assembled Tamil construction + audit**.
+Perform **Part005 English translation planning/setup**.
 
-Part001–Part004 remain **FINAL CLOSED / FROZEN**. Build only from verified Part005 canonical records and do not create Part006 canonical records or import Part006 body text.
+Part001–Part004 remain **FINAL CLOSED / FROZEN**. Use only the closed Part005 canonical and assembled Tamil authority; do not import Part006 body text.

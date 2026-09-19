@@ -119,10 +119,14 @@ All page records remain `needs-review` pending Pass 2B, Pass 3, Part audit and f
 - Tamil archival-ready — **PASS / CLOSED**
 - canonical Part005 page mutations caused by archival-ready checkpoint — **0**
 - Part006 canonical leakage — **0**
-- assembled Tamil — **NOT STARTED / NEXT GATE**
+- assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
+- canonical Part005 page mutations caused by assembly — **0**
+- frozen Part001–Part004 assembled-file mutations — **0**
+- Part006 body leakage — **0**
+- English translation planning/setup — **NOT STARTED / NEXT GATE**
 
 ## Exact next activity
 
-Perform **Part005 assembled Tamil construction + audit**.
+Perform **Part005 English translation planning/setup**.
 
-Build only from verified Part005 canonical page records. Do not modify Part005 canonical pages. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and their assembled files; do not create Part006 canonical records or import Part006 body text.
+Use only the closed Part005 canonical/assembled Tamil authority. Do not modify Part005 canonical or assembled Tamil. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and their maintained English files; do not import Part006 body text.

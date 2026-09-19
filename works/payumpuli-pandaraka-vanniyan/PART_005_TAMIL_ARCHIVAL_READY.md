@@ -218,3 +218,24 @@ Exact next activity:
 **Part005 assembled Tamil construction + audit.**
 
 Do not begin English translation/review, release/readiness, final Part005 closure or Part006 transcription in this checkpoint.
+
+
+## Post-assembly state
+
+The earlier gate recorded in this file remains historically closed and authoritative.
+
+Part005 subsequently completed:
+- assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**;
+- represented scans — **121–150 / 30 pages**;
+- omissions / duplicates — **0 / 0**;
+- unsupported Tamil body insertion — **0**;
+- canonical Part005 page mutations caused by assembly — **0**;
+- frozen Part001–Part004 assembled-file mutations — **0**;
+- Part006 body leakage — **0**.
+
+Durable assembled-Tamil validation:
+- `PART_005_ASSEMBLED_TAMIL_VALIDATION.md`.
+
+Current next gate:
+
+**Part005 English translation planning/setup.**
