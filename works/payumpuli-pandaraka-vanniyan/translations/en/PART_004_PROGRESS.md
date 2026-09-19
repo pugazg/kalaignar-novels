@@ -2,13 +2,13 @@
 
 ## Overall state
 
-**PART004 ENGLISH PLANNING / SETUP — COMPLETE / PASS — E15 NEXT**
+**PART004 E15 — SOURCE-CHECKED / COMPLETE — E16 NEXT**
 
 Part001, Part002 and Part003 English remain **FINAL CLOSED / FROZEN**.
 
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
-| **E15** | section 18 — `அதிகாரி வழங்கிய ஆலோசனை` continuation | **91–94** | **NOT STARTED** |
+| **E15** | section 18 — `அதிகாரி வழங்கிய ஆலோசனை` continuation | **91–94** | **SOURCE-CHECKED / COMPLETE** |
 | **E16** | section 19 — `மன்னிப்பு யார்? யாரிடம்?` | **95–102** | **NOT STARTED** |
 | **E17** | section 20 — `மான மறைப்பு மறக்கலாமா?` | **103–109** | **NOT STARTED** |
 | **E18** | section 21 — `அவள் நடந்த பாதை` | **110–115** | **NOT STARTED** |
@@ -26,9 +26,10 @@ Part001, Part002 and Part003 English remain **FINAL CLOSED / FROZEN**.
 - Tamil visual fidelity — **30/30 verified**
 - Tamil archival-ready — **PASS / CLOSED**
 - Tamil assembled files — **5/5 VERIFIED**
-- Part004 English translated files — **0/5**
-- Part004 English source-checked files — **0/5**
+- Part004 English translated files — **1/5**
+- Part004 English source-checked files — **1/5**
 - unresolved Part004 English planning holds — **0**
+- unresolved E15 holds — **0**
 - whole-Part glossary reconciliation — **NOT STARTED**
 - English editorial review — **NOT STARTED**
 - whole-Part bilingual review — **NOT STARTED**
@@ -100,8 +101,20 @@ After E19:
 
 Part005 remains blocked until Part004 final closure.
 
+## E15 closure
+
+- English file — `sections/18-the-officers-advice-part004.md`
+- source-check — `E15_SOURCE_CHECK.md`
+- scans — **91–94**
+- result — **SOURCE-CHECKED / COMPLETE**
+- source literary blocks represented — **22/22**
+- incoming 90→91 continuation preserved without importing frozen Part003 English
+- canonical / assembled Tamil edits — **0**
+- frozen prior-Part English body edits — **0**
+- Part005 leakage — **0**
+
 ## Exact next activity
 
-Begin **E15 — draft + source-check — section18 / scans91–94**.
+Begin **E16 — draft + source-check — section19 / scans95–102**.
 
-Do not begin E16 until E15 closes **SOURCE-CHECKED / COMPLETE**. Do not begin Part005 transcription.
+Do not begin E17 until E16 closes **SOURCE-CHECKED / COMPLETE**. Do not begin Part005 transcription.

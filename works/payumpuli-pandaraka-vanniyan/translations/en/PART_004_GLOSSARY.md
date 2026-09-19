@@ -1,6 +1,6 @@
 # Part 004 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **INITIAL LOCK / PLANNING COMPLETE — E15 NEXT**
+Status: **E15 SOURCE-CHECKED / COMPLETE — ACTIVE FOR E16**
 
 This glossary is derived only from verified Part004 canonical/assembled Tamil plus already-closed Part001–Part003 project English choices where the **same Tamil source form** recurs.
 
@@ -130,8 +130,29 @@ Canonical Tamil is never changed merely to enforce English consistency.
 - frozen Part001–Part003 English body edits — **0**
 - Part005 leakage — **0**
 
+## E15 source-check additions
+
+E15 / scans91–94 confirmed:
+
+| Tamil source | E15 English handling | Note |
+|---|---|---|
+| `ஆங்கிலேய துரைகள்` | **British masters** | source-facing wording inside Kaakkai's boast; no outside rank/title inference |
+| `அந்நியப் படைகள்` | **foreign forces** | preserves the source's broad label |
+| `மேல் நிர்வாகம் / மேலிடம்` | **higher administration / higher authorities** | contextual administrative rendering without external institutional gloss |
+| `ராஜ தந்திரம்` | **political strategy** | contextual working rendering |
+| `நத்திக் கிடப்பது` | **groveling** | preserves Sundaralingam's sharp contrast with friendship |
+| rhetorical `உணர்வுகள்` | **spirit** | collective literary rendering in the bodies-fall/spirit-rises contrast; reviewable at whole-Part editorial stage |
+
+E15 also locks the incoming 90→91 English handling:
+
+- scan91 begins as the deliberately fragmentary lower-case **“people of that kind—”**;
+- frozen Part003 English is not copied or reconstructed;
+- the source's mid-sentence boundary remains explicit in provenance.
+
+Unresolved E15 glossary holds — **0**.
+
 ## Exact next gate
 
-**E15 — draft + source-check — scans91–94.**
+**E16 — draft + source-check — scans95–102.**
 
-Do not begin E16 until E15 closes. Canonical and assembled Tamil remain unchanged.
+Do not begin E17 until E16 closes. Canonical and assembled Tamil remain unchanged.

@@ -1097,3 +1097,27 @@ The derived Part004 English control layer is initialized without drafting transl
 Perform **E15 — draft + source-check — section18 / scans91–94**.
 
 Do not begin E16 or Part005 transcription until E15 closes.
+
+## Part004 E15 English draft/source-check — COMPLETE / PASS
+
+E15 covers Part004 section18 / scans91–94:
+
+- English file — `translations/en/sections/18-the-officers-advice-part004.md`
+- source-check — `translations/en/E15_SOURCE_CHECK.md`
+- source literary blocks represented — **22/22**
+- physical/incoming provenance comments — **4/4**
+- omissions / duplicates — **0 / 0**
+- unsupported English body insertion — **0**
+- incoming 90→91 GENUINE CONTINUATION — **preserved without copying frozen Part003 English**
+- translated/source-checked Part004 English files — **1/5**
+- unresolved E15 holds — **0**
+- canonical Tamil mutations — **0**
+- assembled Tamil mutations — **0**
+- frozen Part001–Part003 English body mutations — **0**
+- Part005 leakage — **0**
+
+## Current Part004 frontier
+
+Perform **E16 — draft + source-check — section19 / scans95–102**.
+
+Do not begin E17 or Part005 transcription until E16 closes.

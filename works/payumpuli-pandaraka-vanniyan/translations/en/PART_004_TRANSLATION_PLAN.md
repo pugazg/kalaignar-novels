@@ -1,6 +1,6 @@
 # Part 004 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING / SETUP COMPLETE / PASS — E15 NEXT**
+Status: **E15 SOURCE-CHECKED / COMPLETE — E16 NEXT**
 
 This is the control plan for the project-created English translation of **Part004 only**.
 
@@ -151,7 +151,7 @@ Continue English batch numbering after frozen Part003 E10–E14.
 
 | Batch | Tamil assembled coverage | Scans | English state |
 |---|---|---:|---|
-| **E15** | section 18 — chapter 11 continuation `அதிகாரி வழங்கிய ஆலோசனை` | **91–94** | **NOT STARTED** |
+| **E15** | section 18 — chapter 11 continuation `அதிகாரி வழங்கிய ஆலோசனை` | **91–94** | **SOURCE-CHECKED / COMPLETE** |
 | **E16** | section 19 — `மன்னிப்பு யார்? யாரிடம்?` | **95–102** | **NOT STARTED** |
 | **E17** | section 20 — `மான மறைப்பு மறக்கலாமா?` | **103–109** | **NOT STARTED** |
 | **E18** | section 21 — `அவள் நடந்த பாதை` | **110–115** | **NOT STARTED** |
@@ -222,8 +222,25 @@ Planning closure accounting:
 - frozen Part001–Part003 English body edits caused by planning — **0**
 - Part005 content leakage — **0**
 
+## E15 draft/source-check closure
+
+**E15 — SOURCE-CHECKED / COMPLETE**
+
+- Tamil authority — `../../../sections/18-adhikaari-vazhangiya-aalosanai-part004.md`
+- English file — `sections/18-the-officers-advice-part004.md`
+- scans — **91–94**
+- source literary blocks represented — **22/22**
+- provenance comments — **4/4**
+- translated/source-checked Part004 files — **1/5**
+- unresolved E15 holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001–Part003 English body edits — **0**
+- Part005 leakage — **0**
+- durable source-check — `E15_SOURCE_CHECK.md`
+
 ## Exact next activity
 
-Begin **E15 — draft + source-check — section18 / scans91–94**.
+Begin **E16 — draft + source-check — section19 / scans95–102**.
 
-Do not begin E16 until E15 closes **SOURCE-CHECKED / COMPLETE**. Do not begin Part005 transcription.
+Do not begin E17 until E16 closes **SOURCE-CHECKED / COMPLETE**. Do not begin Part005 transcription.

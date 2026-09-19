@@ -95,8 +95,9 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part004 Tamil archival-ready — **PASS / CLOSED**
 - Part004 assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
 - Part004 English planning/setup — **COMPLETE / PASS**
-- Part004 English translated/source-checked — **0/5**
-- Part004 E15 — **NOT STARTED / NEXT GATE**
+- Part004 English translated/source-checked — **1/5**
+- Part004 E15 — **SOURCE-CHECKED / COMPLETE**
+- Part004 E16 — **NOT STARTED / NEXT GATE**
 - Part005 — **BLOCKED / NOT ACTIVE**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
@@ -120,6 +121,6 @@ Authoritative Part004 verification records:
 
 ## Exact next activity
 
-Begin **Part004 E15 — draft + source-check — scans91–94**.
+Begin **Part004 E16 — draft + source-check — scans95–102**.
 
 Preserve both audited Part004 boundaries and do not begin Part005 transcription.
