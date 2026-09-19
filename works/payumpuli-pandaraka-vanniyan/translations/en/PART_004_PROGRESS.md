@@ -15,8 +15,8 @@ Part001, Part002 and Part003 English remain **FINAL CLOSED / FROZEN**.
 | **E19** | section 22 — `இருவர் உள்ளம்` | **116–120** | **SOURCE-CHECKED / COMPLETE** |
 | Glossary | Part004 whole-Part reconciliation | 91–120 | **RECONCILED / PASS** |
 | Editorial | Part004 whole-Part English editorial review | 91–120 | **PASS / CLOSED** |
-| Bilingual | Part004 whole-Part bilingual review | 91–120 | **NOT STARTED / NEXT GATE** |
-| Release | Part004 release/readiness report | 91–120 | **NOT STARTED** |
+| Bilingual | Part004 whole-Part bilingual review | 91–120 | **PASS / CLOSED** |
+| Release | Part004 release/readiness report | 91–120 | **NOT STARTED / NEXT GATE** |
 | Release sync | Part004 release-ready synchronization | 91–120 | **NOT STARTED** |
 | Final closure | Part004 final closure | 91–120 | **NOT STARTED** |
 
@@ -41,7 +41,9 @@ Part001, Part002 and Part003 English remain **FINAL CLOSED / FROZEN**.
 - editorial English-only changes — **25**
 - editorial source-alignment corrections — **0**
 - unresolved editorial holds — **0**
-- whole-Part bilingual review — **NOT STARTED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections — **0**
+- unresolved bilingual holds — **0**
 - release/readiness report — **NOT STARTED**
 - release-ready synchronization — **NOT STARTED**
 - final closure — **NOT STARTED**
@@ -161,8 +163,21 @@ Part005 remains blocked until Part004 final closure.
 - Part005 leakage — **0**
 - durable record — `PART_004_TRANSLATION_REVIEW.md`
 
+## Bilingual review closure
+
+- Tamil/English pairs reviewed — **5/5**
+- scans — **91–120**
+- editorial changes rechecked — **25/25**
+- bilingual English-only corrections — **0**
+- unresolved bilingual holds — **0**
+- unresolved Tamil-fidelity holds — **0**
+- canonical / assembled Tamil edits — **0**
+- frozen prior-Part English body edits — **0**
+- Part005 leakage — **0**
+- durable record — `PART_004_BILINGUAL_REVIEW.md`
+
 ## Exact next activity
 
-Perform **Part004 whole-Part bilingual review across all five Tamil/English pairs / scans91–120**.
+Create and complete **Part004 release/readiness report** `PART_004_RELEASE_REPORT.md`.
 
-Do not begin release/readiness until bilingual review closes. Do not begin Part005 transcription.
+Do not begin release-ready synchronization until release/readiness closes.

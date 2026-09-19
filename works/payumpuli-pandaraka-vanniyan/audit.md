@@ -1196,3 +1196,23 @@ Durable record:
 ## Current Part004 frontier
 
 Perform **Part004 whole-Part bilingual review across all five Tamil/English pairs / scans91–120**.
+
+## Part004 whole-Part bilingual review — PASS / CLOSED
+
+- Tamil/English pairs reviewed — **5/5**
+- scans — **91–120 / 30 pages**
+- editorial changes rechecked — **25/25**
+- bilingual English-only corrections — **0**
+- unresolved bilingual holds — **0**
+- unresolved Tamil-fidelity holds — **0**
+- canonical Tamil mutations — **0**
+- assembled Tamil mutations — **0**
+- frozen prior-Part English body mutations — **0**
+- Part005 leakage — **0**
+
+Durable record:
+- `translations/en/PART_004_BILINGUAL_REVIEW.md`
+
+## Current Part004 frontier
+
+Create and complete **Part004 release/readiness report**.

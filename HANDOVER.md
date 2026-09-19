@@ -162,7 +162,10 @@ Durable final record:
 - Part004 English editorial review — **PASS / CLOSED**
 - Part004 editorial English-only changes — **25**
 - Part004 unresolved editorial holds — **0**
-- Part004 whole-Part bilingual review — **NOT STARTED / NEXT GATE**
+- Part004 whole-Part bilingual review — **PASS / CLOSED**
+- Part004 bilingual English-only corrections — **0**
+- Part004 unresolved bilingual holds — **0**
+- Part004 release/readiness — **NOT STARTED / NEXT GATE**
 - Part001–Part003 remain **FINAL CLOSED / FROZEN**
 
 Durable records:
@@ -179,6 +182,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_004_GLOSSARY.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_004_GLOSSARY_RECONCILIATION.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_004_TRANSLATION_REVIEW.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_004_BILINGUAL_REVIEW.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_004_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E15_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E19_SOURCE_CHECK.md`
@@ -189,6 +193,6 @@ Durable records:
 
 ## Exact next activity
 
-Perform **Part004 whole-Part bilingual review across all five Tamil/English pairs / scans91–120**.
+Create and complete **Part004 release/readiness report** `translations/en/PART_004_RELEASE_REPORT.md`.
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 canonical Tamil, assembled Tamil and maintained English body files.
