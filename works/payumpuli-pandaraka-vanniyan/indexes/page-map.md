@@ -156,16 +156,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 005 | 28 | 148 | 138 | `சதி வலை!` continuation; ends `நானே`; Pass3 reviewed | verified | `pages/0148-sathi-valai.md` |
 | 005 | 29 | 149 | 139 | `சதி வலை!` continuation; begins `சிந்திக்கிறேன்!`; Pass3 reviewed | verified | `pages/0149-sathi-valai.md` |
 | 005 | 30 | 150 | 140 | chapter21 opening `குருவியும் - குயிலும்!`; 150→151 genuine continuation audited; Pass3 reviewed | verified | `pages/0150-kuruviyum-kuyilum.md` |
-| 006 | 1 | 151 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 2 | 152 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 3 | 153 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 4 | 154 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 5 | 155 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 6 | 156 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 7 | 157 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 8 | 158 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 9 | 159 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 10 | 160 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 1 | 151 | 141 | `குருவியும் - குயிலும்!` continuation; incoming 150→151 genuine continuation audited | needs-review | `pages/0151-kuruviyum-kuyilum.md` |
+| 006 | 2 | 152 | 142 | `குருவியும் - குயிலும்!` continuation | needs-review | `pages/0152-kuruviyum-kuyilum.md` |
+| 006 | 3 | 153 | 143 | `குருவியும் - குயிலும்!` continuation / chapter close | needs-review | `pages/0153-kuruviyum-kuyilum.md` |
+| 006 | 4 | 154 | 144 | chapter22 opening `நள்ளிரவு நாடகம்!` | needs-review | `pages/0154-nalliravu-naadakam.md` |
+| 006 | 5 | 155 | 145 | `நள்ளிரவு நாடகம்!` continuation | needs-review | `pages/0155-nalliravu-naadakam.md` |
+| 006 | 6 | 156 | 146–147 | illustrated two-page spread; `நள்ளிரவு நாடகம்!` continuation | needs-review | `pages/0156-nalliravu-naadakam.md` |
+| 006 | 7 | 157 | 148 | `நள்ளிரவு நாடகம்!` continuation | needs-review | `pages/0157-nalliravu-naadakam.md` |
+| 006 | 8 | 158 | 149 | `நள்ளிரவு நாடகம்!` continuation / chapter close | needs-review | `pages/0158-nalliravu-naadakam.md` |
+| 006 | 9 | 159 | 150 | chapter23 opening `நட்பின் இலக்கணம்!` | needs-review | `pages/0159-natpin-ilakkanam.md` |
+| 006 | 10 | 160 | 151 | `நட்பின் இலக்கணம்!` continuation; ends `பேச்சினிடையே குறுக்கிடாமல் இருந்த பிலிமத்தளாவை` | needs-review | `pages/0160-natpin-ilakkanam.md` |
 | 006 | 11 | 161 | — | unclassified — direct visual audit pending | not-started | — |
 | 006 | 12 | 162 | — | unclassified — direct visual audit pending | not-started | — |
 | 006 | 13 | 163 | — | unclassified — direct visual audit pending | not-started | — |
@@ -589,11 +589,18 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - release-sync protected source-variant collapses — **0**
 - Part006 leakage — **0**
 - final closure — **PASS / CLOSED / FROZEN**
+- Part006 canonical page records — **10/30 — scans151–160**
+- Part006 Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- Part006 unresolved Pass-1 source-reading holds — **0**
+- Part006 incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- Part006 outgoing 180→181 — **PENDING direct audit**
+- Part006 next Pass-1 batch — **scans161–170 / local pages11–20**
+- Part006 Pass 2A — **BLOCKED until Pass 1 covers scans151–180**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Begin **Part006 Pass 1 — global scans151–160 / local pages1–10**.
+Continue **Part006 Pass 1 — global scans161–170 / local pages11–20**.
 
 Preserve the already-audited incoming **150→151 GENUINE CONTINUATION** boundary. Create only Part006 canonical records with exact Part006 provenance. Keep outgoing **180→181** pending until directly audited. Do not begin Part006 Pass 2A until Pass 1 covers the full Part.

@@ -306,8 +306,27 @@ Durable Part005 records now include:
 - `PART_005_RELEASE_READY_SYNC.md`
 - `PART_005_FINAL_CLOSURE.md`
 
+## Part006 — ACTIVE / PASS 1 IN PROGRESS
+
+- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf`
+- scans — **151–180**
+- canonical records — **10/30 — scans151–160**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 180→181 — **PENDING direct audit**
+- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- unresolved Pass-1 source-reading holds — **0**
+- next Pass-1 batch — **scans161–170 / local pages11–20**
+- Pass 2A — **BLOCKED until Pass 1 covers scans151–180**
+
+Notable Batch-1 structure:
+- scans151–153 continue and close chapter21 `குருவியும் - குயிலும்!`;
+- scan154 opens chapter22 `நள்ளிரவு நாடகம்!`;
+- scan156 is an illustrated two-page spread carrying printed pages **146–147**;
+- scan159 opens chapter23 `நட்பின் இலக்கணம்!`;
+- scan160 ends at `பேச்சினிடையே குறுக்கிடாமல் இருந்த பிலிமத்தளாவை`; scan161 was not inspected.
+
 ## Exact next activity
 
-Begin **Part006 Pass 1 — global scans151–160 / local pages1–10**.
+Continue **Part006 Pass 1 — global scans161–170 / local pages11–20**.
 
 Preserve the already-audited incoming **150→151 GENUINE CONTINUATION** boundary. Create only Part006 canonical records with exact Part006 provenance. Keep outgoing **180→181** pending until directly audited. Do not begin Part006 Pass 2A until Pass 1 covers the full Part.

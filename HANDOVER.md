@@ -267,8 +267,24 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_005_RELEASE_READY_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_005_FINAL_CLOSURE.md`
 
+## Part006 — ACTIVE / PASS 1 IN PROGRESS
+
+- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf`
+- global scans — **151–180**
+- local pages — **1–30**
+- canonical Part006 page records — **10/30 — scans151–160**
+- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- unresolved Pass-1 source-reading holds — **0**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 180→181 — **PENDING direct audit**
+- next Pass-1 batch — **global scans161–170 / local pages11–20**
+- Pass 2A — **BLOCKED until Pass 1 covers scans151–180**
+
+Durable progress record:
+- `works/payumpuli-pandaraka-vanniyan/PART_006_PASS1_PROGRESS.md`
+
 ## Exact next activity
 
-Begin **Part006 Pass 1 — global scans151–160 / local pages1–10**.
+Continue **Part006 Pass 1 — global scans161–170 / local pages11–20**.
 
-Preserve the already-audited incoming **150→151 GENUINE CONTINUATION** boundary. Create only Part006 canonical records with exact Part006 provenance. Keep outgoing **180→181** pending until directly audited. Do not begin Part006 Pass 2A until Pass 1 covers the full Part.
+Preserve frozen Part001–Part005 body layers and the audited incoming 150→151 continuation. Keep outgoing **180→181** pending direct audit. Do not begin Part006 Pass 2A until Pass 1 covers all scans151–180.

@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity and global mapping are durable; direct page audit remains pending.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 1 IN PROGRESS.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **151–180**;
@@ -42,13 +42,15 @@ The canonical `scan_page` remains the overall scan number **151–180**.
 
 ## Current gate
 
-Part006 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
-
-Part005 is now **FINAL CLOSED / FROZEN**. The Part lock is satisfied.
+Part006 is **ACTIVE / PASS 1 IN PROGRESS**.
 
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **PENDING direct audit**
-- canonical Part006 page records — **0**
-- first normal Pass-1 batch — **global scans151–160 / local pages1–10**
+- canonical Part006 page records — **10/30 — scans151–160**
+- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- completed Pass-1 batch — **global scans151–160 / local pages1–10**
+- unresolved Pass-1 source-reading holds — **0**
+- next Pass-1 batch — **global scans161–170 / local pages11–20**
+- Pass 2A — **BLOCKED until Pass 1 covers scans151–180**
 
-On the next explicit continuation, begin Part006 Pass 1 using exact Part006 provenance. Do not import frozen Part005 body text into Part006 canonical records, and do not begin Pass 2A until Pass 1 covers the full Part.
+Part001–Part005 remain **FINAL CLOSED / FROZEN**. The exact next range is scans161–170.
