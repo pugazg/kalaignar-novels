@@ -542,7 +542,7 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
 - audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION; 150→151 GENUINE CONTINUATION**
-- Part005 — **ACTIVE / AUTHORIZED — E20–E26 SOURCE-CHECKED / GLOSSARY NEXT**
+- Part005 — **ACTIVE / AUTHORIZED — GLOSSARY RECONCILED / EDITORIAL NEXT**
 - Part005 canonical page records — **30/30 — scans121–150**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - Part005 outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
@@ -570,12 +570,15 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - planned English batches — **E20–E26 / 7**
 - translated/source-checked English files — **7/7**
 - E20–E26 — **SOURCE-CHECKED / COMPLETE**
-- English glossary reconciliation — **NOT STARTED / NEXT GATE**
+- English glossary reconciliation — **RECONCILED / PASS**
+- glossary-reconciliation English section edits — **0**
+- unresolved glossary holds — **0**
+- English editorial review — **NOT STARTED / NEXT GATE**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Perform **Part005 whole-Part English glossary reconciliation**.
+Perform **Part005 English editorial review** across all seven maintained English files.
 
 Preserve both audited Part005 boundaries. Do not modify frozen Part001–Part004 body/assembled/English layers. Use only the closed Part005 canonical/assembled Tamil authority. Preserve frozen prior-Part English and do not import Part006 body text.

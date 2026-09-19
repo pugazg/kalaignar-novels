@@ -1,6 +1,6 @@
 # Part 005 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E20–E26 SOURCE-CHECKED / ACTIVE — WHOLE-PART RECONCILIATION NEXT**
+Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 This glossary is derived only from verified Part005 Tamil plus frozen earlier project-English choices where the **same Tamil source form** recurs.
 
@@ -112,3 +112,18 @@ Do not paraphrase it into prose.
 No published, remembered or web English wording is imported.
 
 Translate only from verified project Tamil.
+
+
+## Reconciled boundary forms
+
+- incoming scan121 fragment `யாட்டுக் காயை` → ***yaattuk kaayai*** only; do not reconstruct the frozen Part004 half of the split word in E20;
+- outgoing scan150 quotation remains intentionally incomplete in English; do not import scan151 wording;
+- scan140→141 split provenance remains non-rendering while the English phrase is translated naturally.
+
+## Reconciliation result
+
+- maintained English files checked — **7/7**
+- source-variant collapses — **0**
+- section edits required by glossary reconciliation — **0**
+- unresolved glossary holds — **0**
+- durable record — `PART_005_GLOSSARY_RECONCILIATION.md`.

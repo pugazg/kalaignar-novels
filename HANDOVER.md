@@ -194,7 +194,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E16_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
 
-## Part005 — ACTIVE / E20–E26 SOURCE-CHECKED / GLOSSARY NEXT
+## Part005 — ACTIVE / GLOSSARY RECONCILED / EDITORIAL NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
 - global scans — **121–150**
@@ -233,7 +233,10 @@ Durable records:
 - unresolved English planning holds — **0**
 - unresolved English source-check holds — **0**
 - E20–E26 — **SOURCE-CHECKED / COMPLETE**
-- English glossary reconciliation — **NOT STARTED / NEXT GATE**
+- English glossary reconciliation — **RECONCILED / PASS**
+- glossary-reconciliation English section edits — **0**
+- unresolved glossary holds — **0**
+- English editorial review — **NOT STARTED / NEXT GATE**
 - Part001–Part004 — **FINAL CLOSED / FROZEN**
 
 Durable records:
@@ -249,6 +252,6 @@ Durable records:
 
 ## Exact next activity
 
-Perform **Part005 whole-Part English glossary reconciliation**.
+Perform **Part005 English editorial review** across all seven maintained English files.
 
-Use the seven source-checked Part005 English files; preserve Tamil and frozen prior-Part English; do not import Part006 body text.
+Preserve Tamil, boundary locks and frozen prior-Part English; do not import Part006 body text.

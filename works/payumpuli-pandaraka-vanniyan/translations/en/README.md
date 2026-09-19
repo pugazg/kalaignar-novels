@@ -606,6 +606,16 @@ Planning created no English body prose and changed:
 - frozen Part001–Part004 English body edits — **0**
 - Part006 leakage — **0**
 
+## Part005 glossary reconciliation
+
+- result — **RECONCILED / PASS**
+- files checked — **7/7**
+- section edits caused by reconciliation — **0**
+- unresolved glossary holds — **0**
+
+Durable record:
+- `PART_005_GLOSSARY_RECONCILIATION.md`
+
 ## Current exact next activity
 
-Perform **Part005 whole-Part English glossary reconciliation**.
+Perform **Part005 English editorial review** across all seven maintained English files.
