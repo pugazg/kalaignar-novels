@@ -18,7 +18,7 @@ Part001, Part002 and Part003 English remain **FINAL CLOSED / FROZEN**.
 | Bilingual | Part004 whole-Part bilingual review | 91–120 | **PASS / CLOSED** |
 | Release | Part004 release/readiness report | 91–120 | **PASS / CLOSED** |
 | Release sync | Part004 release-ready synchronization | 91–120 | **PASS / CLOSED** |
-| Final closure | Part004 final closure | 91–120 | **NOT STARTED / NEXT GATE** |
+| Final closure | Part004 final closure | 91–120 | **PASS / CLOSED / FROZEN** |
 
 ## Current counts
 
@@ -47,8 +47,7 @@ Part001, Part002 and Part003 English remain **FINAL CLOSED / FROZEN**.
 - release/readiness report — **PASS / CLOSED**
 - unresolved release/readiness blockers — **0**
 - release-ready synchronization — **PASS / CLOSED**
-- final closure — **NOT STARTED / NEXT GATE**
-- final closure — **NOT STARTED**
+- final closure — **PASS / CLOSED / FROZEN**
 - canonical Tamil edits caused by English planning — **0**
 - assembled Tamil edits caused by English planning — **0**
 - frozen Part001–Part003 English body edits caused by Part004 planning — **0**
@@ -204,8 +203,27 @@ Part005 remains blocked until Part004 final closure.
 - Part005 leakage — **0**
 - durable record — `../../PART_004_RELEASE_READY_SYNC.md`
 
+## Final closure
+
+**PART004 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **5/5 VERIFIED / CLOSED**
+- English E15–E19 — **5/5 source-checked**
+- glossary reconciliation — **PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved blockers — **0**
+- body changes caused by final closure — **0**
+- Part005 leakage — **0**
+- durable record — `../../PART_004_FINAL_CLOSURE.md`
+
+Part004 English is now frozen.
+
 ## Exact next activity
 
-Create and verify **Part004 final closure** `../../PART_004_FINAL_CLOSURE.md`.
+Begin **Part005 Pass 1 — global scans121–130 / local pages1–10**.
 
-Do not begin Part005 transcription until final closure passes.
+Do not reopen frozen Part004 English merely because Part005 advances.

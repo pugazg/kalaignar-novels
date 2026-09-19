@@ -536,3 +536,30 @@ Durable record:
 Create and verify **Part004 final closure** `../../PART_004_FINAL_CLOSURE.md`.
 
 Do not begin Part005 transcription until final closure passes.
+
+## Part004 final closure — PASS / CLOSED / FROZEN
+
+Part004 maintained English is fully closed:
+
+- E15–E19 source-check — **5/5 COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- editorial English-only changes — **25**
+- bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections — **0**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
+- Part005 leakage — **0**
+
+Durable final record:
+- `../../PART_004_FINAL_CLOSURE.md`
+
+Part005 is now **NEXT ACTIVE / AUTHORIZED / NOT STARTED** in the Tamil archival workflow.
+
+## Current exact next activity
+
+Begin **Part005 Pass 1 — scans121–130 / local pages1–10**.
+
+Do not begin Part005 English planning until Part005 completes its Tamil/assembled-Tamil English-entry gates.

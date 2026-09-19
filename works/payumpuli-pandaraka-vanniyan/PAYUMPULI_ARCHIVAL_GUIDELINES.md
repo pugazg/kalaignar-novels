@@ -103,7 +103,7 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part003 release-sync body changes: 0**
 - **Part003 release-sync source-variant collapses: 0**
 - **Part003 final closure: PASS / CLOSED / FROZEN**
-- **Part004: ACTIVE / AUTHORIZED**
+- **Part004: FINAL CLOSURE — PASS / CLOSED / FROZEN**
 - **Part004 canonical range: scans91–120**
 - **Part004 canonical page records: 30/30**
 - **Part004 Pass 1: COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -138,10 +138,16 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part004 unresolved bilingual holds: 0**
 - **Part004 release/readiness: PASS / CLOSED**
 - **Part004 release-ready synchronization: PASS / CLOSED**
-- **Part004 final closure: NOT STARTED / NEXT GATE**
+- **Part004 final closure: PASS / CLOSED / FROZEN**
+- **Part005: NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- **Part005 canonical range: scans121–150**
+- **Part005 canonical page records: 0/30**
+- **Part005 incoming 120→121: GENUINE CONTINUATION / AUDITED**
+- **Part005 outgoing 150→151: PENDING direct audit**
+- **Part005 Pass 1: NOT STARTED**
 
 ## Exact next gate
 
-Create and verify **Part004 final closure**.
+Begin **Part005 Pass 1 — global scans121–130 / local pages1–10**.
 
-Preserve both audited Part004 boundaries: **90→91 GENUINE CONTINUATION** and **120→121 GENUINE CONTINUATION**. Do not begin Part005 transcription.
+Preserve frozen Part001–Part004 body layers and the audited incoming 120→121 continuation. Do not begin Part005 Pass 2A until Pass 1 covers all scans121–150.

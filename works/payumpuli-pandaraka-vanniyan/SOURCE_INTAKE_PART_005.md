@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity and global mapping are durable; direct page audit remains pending.**
+**SUPPLIED / REGISTERED / AUTHORIZED — NEXT ACTIVE PART / PASS 1 NOT STARTED.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **121–150**;
@@ -23,7 +23,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Boundary state
 
-- incoming split boundary: **120→121 — source available; classification pending direct audit**;
+- incoming split boundary: **120→121 — GENUINE CONTINUATION / AUDITED**;
 - outgoing split boundary: **150→151 — source available; classification pending direct audit**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
@@ -42,6 +42,12 @@ The canonical `scan_page` remains the overall scan number **121–150**.
 
 ## Current gate
 
-Part 005 source split: **SUPPLIED / REGISTERED**.
+Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — NEXT ACTIVE PART**.
 
-This Part waits behind the global active frontier. Do not create page records here until processing reaches its overall scan range.
+- incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 150→151 — **PENDING direct audit**
+- canonical Part005 page records — **0/30**
+- Pass 1 — **NOT STARTED**
+- first normal Pass-1 batch — **global scans121–130 / local pages1–10**
+
+Part004 is now **FINAL CLOSED / FROZEN**. Canonical Part005 transcription is authorized on the next explicit continuation.

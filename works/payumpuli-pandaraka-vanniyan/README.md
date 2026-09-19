@@ -147,7 +147,7 @@ Durable Part003 records:
 - `PART_003_FINAL_CLOSURE.md`
 - `translations/en/PART_003_PROGRESS.md`
 
-## Part004 — VERIFIED TAMIL / DOCUMENTATION SYNC COMPLETE
+## Part004 — FINAL CLOSED / FROZEN
 
 Controlling source:
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_004_pages_91-120.pdf`
@@ -187,7 +187,7 @@ Current verified Tamil state:
 - release/readiness — **PASS / CLOSED**
 - unresolved release/readiness blockers — **0**
 - release-ready synchronization — **PASS / CLOSED**
-- final closure — **NOT STARTED / NEXT GATE**
+- final closure — **PASS / CLOSED / FROZEN**
 - incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 120→121 — **GENUINE CONTINUATION / AUDITED**
 
@@ -219,6 +219,7 @@ Durable Part004 records:
 - `translations/en/PART_004_BILINGUAL_REVIEW.md`
 - `translations/en/PART_004_RELEASE_REPORT.md`
 - `PART_004_RELEASE_READY_SYNC.md`
+- `PART_004_FINAL_CLOSURE.md`
 - `translations/en/PART_004_PROGRESS.md`
 - `translations/en/E15_SOURCE_CHECK.md`
 - `translations/en/E19_SOURCE_CHECK.md`
@@ -226,8 +227,17 @@ Durable Part004 records:
 - `translations/en/E17_SOURCE_CHECK.md`
 - `translations/en/E16_SOURCE_CHECK.md`
 
+## Part005 — NEXT ACTIVE / AUTHORIZED / NOT STARTED
+
+- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
+- scans — **121–150**
+- canonical records — **0/30**
+- incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 150→151 — **PENDING direct audit**
+- Pass 1 — **NOT STARTED**
+
 ## Exact next activity
 
-Create and verify **Part004 final closure**.
+Begin **Part005 Pass 1 — scans121–130 / local pages1–10**.
 
-Do not modify verified Part004 canonical or assembled Tamil body text. Do not begin Part005 transcription.
+Do not modify frozen Part001–Part004 canonical Tamil, assembled Tamil or maintained English body files.

@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE PART / TAMIL ARCHIVAL-READY CLOSED.**
+**SUPPLIED / REGISTERED — PART004 FINAL CLOSED / FROZEN.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **91–120**;
@@ -48,7 +48,7 @@ The canonical `scan_page` remains the overall scan number **91–120**.
 
 ## Current gate
 
-Part 004 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE PART / TAMIL ARCHIVAL-READY CLOSED**.
+Part 004 source split: **SUPPLIED / REGISTERED — FINAL CLOSED / FROZEN**.
 
 - incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 120→121 — **GENUINE CONTINUATION / AUDITED**
@@ -82,12 +82,12 @@ Part 004 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE PART / TA
 - Part004 bilingual English-only corrections — **0**
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
-- Part004 final closure — **NOT STARTED / NEXT GATE**
+- Part004 final closure — **PASS / CLOSED / FROZEN**
 
 Part003 remains **FINAL CLOSED / FROZEN**. Part005 scan121 was inspected only as an outgoing boundary witness; no Part005 canonical record was created.
 
 ## Exact next activity
 
-Create and verify **Part004 final closure**.
+Begin **Part005 Pass 1 — global scans121–130 / local pages1–10**.
 
-Do not begin Part005 transcription.
+Part004 is frozen. Preserve audited incoming **120→121 GENUINE CONTINUATION** for Part005. Do not reopen Part004 body layers merely to advance the next Part.

@@ -1249,3 +1249,30 @@ Durable record:
 Create and verify **Part004 final closure**.
 
 Do not begin Part005 transcription until final closure passes.
+
+## Part004 final closure — PASS / CLOSED / FROZEN
+
+Part004 is now frozen for routine downstream work.
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **5/5 VERIFIED / CLOSED**
+- English — **5/5 SOURCE-CHECKED**
+- glossary reconciliation — **PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved blockers — **0**
+- post-release canonical Tamil drift — **0**
+- post-release assembled Tamil drift — **0**
+- post-release maintained English drift — **0**
+- Part005 leakage — **0**
+
+Durable final record:
+- `PART_004_FINAL_CLOSURE.md`
+
+## Current work frontier
+
+Part005 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+
+Exact next activity: **Part005 Pass 1 — scans121–130 / local pages1–10**.

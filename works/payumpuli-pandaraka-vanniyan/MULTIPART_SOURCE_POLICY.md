@@ -103,7 +103,7 @@ For every `N→N+1` boundary:
 - Part004 bilingual English-only corrections — **0**
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
-- Part004 final closure — **NOT STARTED / NEXT GATE**
+- Part004 final closure — **PASS / CLOSED / FROZEN**
 - split-boundary classifications — **4 / 15 audited**
 
 Audited boundaries:
@@ -122,6 +122,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part004 final closure.**
+**Part005 Pass 1 — global scans121–130 / local pages1–10.**
 
-Part001–Part003 remain frozen. Preserve both audited Part004 boundaries. Do not begin Part005 transcription.
+Part001–Part004 remain frozen. Preserve the audited incoming 120→121 continuation. Outgoing 150→151 remains pending direct audit.

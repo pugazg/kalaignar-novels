@@ -163,3 +163,21 @@ Part004 English planning/setup subsequently completed without reopening canonica
 Current next gate:
 
 **E15 — draft + source-check — scans91–94.**
+
+## Post-final-closure state
+
+Part004 subsequently reached:
+
+**PART004 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+Final closure changed:
+- canonical Tamil body text — **0**
+- assembled Tamil body text — **0**
+- maintained English body text — **0**
+- protected source variants — **0**
+- frozen Part001–Part003 body text — **0**
+- Part005 body content imported — **0**
+
+Part005 is now **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+
+Exact next activity: **Part005 Pass 1 — global scans121–130 / local pages1–10**.

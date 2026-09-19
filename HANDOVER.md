@@ -121,7 +121,7 @@ Part001 and Part002 are frozen.
 Durable final record:
 - `works/payumpuli-pandaraka-vanniyan/PART_003_FINAL_CLOSURE.md`
 
-## Part004 — ACTIVE / AUTHORIZED — ENGLISH PLANNING COMPLETE
+## Part004 — FINAL CLOSED / FROZEN
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_004_pages_91-120.pdf`
 - global scans — **91–120**
@@ -168,7 +168,7 @@ Durable final record:
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 unresolved release/readiness blockers — **0**
 - Part004 release-ready synchronization — **PASS / CLOSED**
-- Part004 final closure — **NOT STARTED / NEXT GATE**
+- Part004 final closure — **PASS / CLOSED / FROZEN**
 - Part001–Part003 remain **FINAL CLOSED / FROZEN**
 
 Durable records:
@@ -194,8 +194,20 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E16_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
 
+## Part005 — NEXT ACTIVE / AUTHORIZED / NOT STARTED
+
+- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
+- global scans — **121–150**
+- local pages — **1–30**
+- canonical Part005 page records — **0**
+- incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 150→151 — **PENDING direct audit**
+- Pass 1 — **NOT STARTED**
+- first normal Pass-1 batch — **global scans121–130 / local pages1–10**
+- Part001–Part004 — **FINAL CLOSED / FROZEN**
+
 ## Exact next activity
 
-Create and verify **Part004 final closure** `works/payumpuli-pandaraka-vanniyan/PART_004_FINAL_CLOSURE.md`.
+Begin **Part005 Pass 1 — global scans121–130 / local pages1–10**.
 
-Do not begin Part005 transcription. Preserve frozen Part001–Part003 canonical Tamil, assembled Tamil and maintained English body files.
+Preserve incoming **120→121 GENUINE CONTINUATION**. Do not modify frozen Part001–Part004 body layers. Outgoing **150→151** remains pending direct audit.

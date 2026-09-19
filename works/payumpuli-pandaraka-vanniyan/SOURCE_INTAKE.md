@@ -80,7 +80,7 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part001 — **FINAL CLOSED / FROZEN**
 - Part002 — **FINAL CLOSED / FROZEN**
 - Part003 — **FINAL CLOSED / FROZEN**
-- active content Part — **Part004 / scans91–120**
+- active content Part — **Part005 / scans121–150**
 - canonical Part004 records — **30/30 present**
 - Part004 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part004 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
@@ -110,8 +110,12 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part004 bilingual English-only corrections — **0**
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
-- Part004 final closure — **NOT STARTED / NEXT GATE**
-- Part005 — **BLOCKED / NOT ACTIVE**
+- Part004 final closure — **PASS / CLOSED / FROZEN**
+- Part005 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part005 canonical page records — **0/30**
+- Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
+- Part005 outgoing 150→151 — **PENDING direct audit**
+- Part005 Pass 1 — **NOT STARTED**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
 - boundary 90→91 — **GENUINE CONTINUATION / AUDITED**
@@ -134,6 +138,6 @@ Authoritative Part004 verification records:
 
 ## Exact next activity
 
-Create and verify **Part004 final closure**.
+Begin **Part005 Pass 1 — global scans121–130 / local pages1–10**.
 
-Preserve both audited Part004 boundaries and do not begin Part005 transcription.
+Preserve incoming **120→121 GENUINE CONTINUATION / AUDITED**. Do not modify frozen Part001–Part004 body layers. Outgoing **150→151** remains pending direct audit.
