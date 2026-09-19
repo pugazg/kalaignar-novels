@@ -50,6 +50,11 @@ Part001 section files `00-*.md` through `07-*.md` are frozen.
 | 15 | 003 | `15-muthu-maaligai.md` | 73–79 | `முத்து மாளிகை!` | **VERIFIED** |
 | 16 | 003 | `16-silandhi-valaiyo-siriya-poochchiyo.md` | 80–87 | `சிலந்தி வலையோ? சிறிய பூச்சியோ?` | **VERIFIED** |
 | 17 | 003 | `17-adhikaari-vazhangiya-aalosanai.md` | 88–90 | `அதிகாரி வழங்கிய ஆலோசனை` | **VERIFIED** |
+| 18 | 004 | `18-adhikaari-vazhangiya-aalosanai-part004.md` | 91–94 | chapter 11 continuation `அதிகாரி வழங்கிய ஆலோசனை` | **VERIFIED** |
+| 19 | 004 | `19-mannippu-yaar-yaaridam.md` | 95–102 | `மன்னிப்பு யார்? யாரிடம்?` | **VERIFIED** |
+| 20 | 004 | `20-maana-maraippu-marakkalaamaa.md` | 103–109 | `மான மறைப்பு மறக்கலாமா?` | **VERIFIED** |
+| 21 | 004 | `21-aval-nadantha-paathai.md` | 110–115 | `அவள் நடந்த பாதை` | **VERIFIED** |
+| 22 | 004 | `22-iruvar-ullam.md` | 116–120 | `இருவர் உள்ளம்` | **VERIFIED** |
 
 ### Part003 — PASS / CLOSED
 
@@ -63,6 +68,19 @@ Part001 section files `00-*.md` through `07-*.md` are frozen.
 - canonical Part003 page mutations caused by assembly — **0**
 - frozen Part001/Part002 assembled-file mutations — **0**
 - validation — `../PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+
+### Part004 — PASS / CLOSED
+
+- physical coverage — **scans91–120**
+- canonical pages represented — **30/30**
+- assembled files — **5/5 VERIFIED**
+- omitted / duplicated canonical pages — **0 / 0**
+- unsupported body insertion — **0**
+- audit-note leakage — **0**
+- Part005 text leakage — **0**
+- canonical Part004 page mutations caused by assembly — **0**
+- frozen Part001–Part003 assembled-file mutations — **0**
+- validation — `../PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Assembly rules
 
@@ -86,6 +104,13 @@ Part001 section files `00-*.md` through `07-*.md` are frozen.
 - outgoing **90→91 — GENUINE CONTINUATION / AUDITED**;
 - scan90 remains terminal at `என்னைப்`; scan91 / Part004 body text is not imported.
 
+## Part004 boundary safeguards
+
+- incoming **90→91 — GENUINE CONTINUATION / AUDITED**;
+- no frozen Part003 body text is imported into Part004 section 18;
+- outgoing **120→121 — GENUINE CONTINUATION / AUDITED**;
+- scan120 remains terminal at `தனது காதல் விலை`; scan121 / Part005 body text is not imported.
+
 ## Part002 special structural cases
 
 - scan32→33 split word is rendered continuously as `சுந்தரலிங்கத்தைப்` with an inline non-rendering provenance marker;
@@ -98,6 +123,15 @@ Part001 section files `00-*.md` through `07-*.md` are frozen.
 - scan71 copy-specific library stamp / handwriting remains excluded as non-body provenance;
 - chapter-opening number/title material already present in verified canonical source-transcription blocks is retained;
 - no Part003 literary illustration, photograph or caption requires separate readable-layer prose.
+
+## Part004 special structural cases
+
+- scans94, 102 and 109 retain no invented content for intentional blank lower fields;
+- scan97 source-leading dash lineation remains readable body text;
+- scan108 displayed letter closing/signature remains readable body text;
+- scan113→114 split word is rendered continuously as `பிரச்சினையைப்` with an inline non-rendering provenance marker;
+- chapter-opening number/title material already present in verified canonical source-transcription blocks is retained;
+- no Part004 literary illustration, photograph or caption requires separate readable-layer prose.
 
 ## Downstream state
 
@@ -129,11 +163,15 @@ Part003:
 - Part003 release-sync source-variant collapses — **0**
 - Part003 final closure — **PASS / CLOSED / FROZEN**
 
-- Part004 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
-- Part004 canonical page records — **0**
+Part004:
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
+- canonical scans represented — **30/30**
+- English planning/setup — **NOT STARTED / NEXT GATE**
+- Part005 canonical records — **0 / BLOCKED**
 
 ## Exact next activity
 
-Begin **Part004 Pass 1 — global scans91–100 / local pages1–10**.
+Begin **Part004 English translation planning/setup**.
 
-Part003 assembled Tamil remains frozen.
+Do not modify verified Part004 canonical or assembled Tamil body text, and do not begin Part005 transcription.

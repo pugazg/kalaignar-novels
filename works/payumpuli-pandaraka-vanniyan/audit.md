@@ -1049,3 +1049,28 @@ Durable record:
 Perform **Part004 assembled Tamil construction + audit** using verified canonical Part004 source-transcription blocks as the textual authority.
 
 Do not begin English work or Part005 transcription until the Part004 assembled Tamil checkpoint closes.
+
+## Part004 assembled Tamil checkpoint — PASS / CLOSED
+
+The readable Part004 Tamil layer under `sections/` is now closed:
+
+- assembled files — **5/5 VERIFIED**
+- represented scans — **91–120**
+- canonical Part004 source-transcription pages represented — **30/30**
+- omitted / duplicated canonical pages — **0 / 0**
+- unsupported body insertion — **0**
+- audit/review-note leakage — **0**
+- frozen Part001–Part003 assembled-file mutations — **0**
+- canonical Part004 page mutations caused by assembly — **0**
+- Part005 body-text leakage — **0**
+- incoming 90→91 GENUINE CONTINUATION provenance — **retained without importing scan90**
+- outgoing 120→121 GENUINE CONTINUATION provenance — **retained without importing scan121**
+
+Durable validation:
+- `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
+
+## Current Part004 frontier
+
+Perform **Part004 English translation planning/setup**.
+
+Do not draft English prose in the setup gate and do not begin Part005 transcription.

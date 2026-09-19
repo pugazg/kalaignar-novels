@@ -121,7 +121,7 @@ Part001 and Part002 are frozen.
 Durable final record:
 - `works/payumpuli-pandaraka-vanniyan/PART_003_FINAL_CLOSURE.md`
 
-## Part004 — ACTIVE / AUTHORIZED — TAMIL ARCHIVAL-READY CLOSED
+## Part004 — ACTIVE / AUTHORIZED — ASSEMBLED TAMIL CLOSED
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_004_pages_91-120.pdf`
 - global scans — **91–120**
@@ -147,7 +147,8 @@ Durable final record:
 - Part004 unresolved status exceptions — **0**
 - Part004 documentation synchronization — **PASS / COMPLETE**
 - Part004 Tamil archival-ready — **PASS / CLOSED**
-- Part004 assembled Tamil — **NOT STARTED / NEXT GATE**
+- Part004 assembled Tamil — **PASS / CLOSED — 5/5 section files VERIFIED**
+- Part004 English planning/setup — **NOT STARTED / NEXT GATE**
 - Part001–Part003 remain **FINAL CLOSED / FROZEN**
 
 Durable records:
@@ -159,10 +160,11 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_004_FINAL_STATUS_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_DOCUMENTATION_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_TAMIL_ARCHIVAL_READY.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
 
 ## Exact next activity
 
-Begin **Part004 assembled Tamil construction + audit** from verified canonical scans91–120.
+Begin **Part004 English translation planning/setup**. Do not draft English prose in the setup gate.
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 canonical Tamil, assembled Tamil and maintained English body files.

@@ -156,3 +156,18 @@ Part004 subsequently completed:
 Current next gate:
 
 **Part004 assembled Tamil construction + audit.**
+
+## Post-status assembled Tamil state
+
+The earlier final-status gate remains historically closed and authoritative.
+
+Part004 subsequently completed:
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
+- canonical Part004 page mutations caused by assembly — **0**
+- Part005 body-text leakage — **0**
+
+Current next gate:
+
+**Part004 English translation planning/setup.**

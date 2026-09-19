@@ -201,3 +201,26 @@ Exact next activity:
 **Part004 assembled Tamil construction + audit.**
 
 Do not begin English translation/review, release/readiness, final Part004 closure or Part005 transcription in this checkpoint.
+
+## Post-checkpoint assembled Tamil closure
+
+This archival-ready declaration remains historically correct and closed.
+
+Part004 assembled Tamil subsequently completed from the verified canonical Part004 page records:
+
+- assembled section files — **5/5 VERIFIED**
+- represented scans — **91–120**
+- canonical source-transcription coverage — **30/30**
+- omissions / duplicates — **0 / 0**
+- audit-note leakage — **0**
+- unsupported Tamil body insertion — **0**
+- canonical Part004 page mutations caused by assembly — **0**
+- frozen Part001–Part003 assembled-file mutations — **0**
+- Part005 text leakage — **0**
+- 90→91 GENUINE CONTINUATION retained as provenance only
+- 120→121 GENUINE CONTINUATION retained as provenance only, without importing scan121
+- durable validation — `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current next gate:
+
+**Part004 English translation planning/setup.**

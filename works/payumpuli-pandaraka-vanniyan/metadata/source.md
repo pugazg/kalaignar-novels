@@ -149,7 +149,8 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - Part004 visual fidelity — **30/30 verified; 0 needs-review**
 - Part004 unresolved status exceptions — **0**
 - Part004 Tamil archival-ready — **PASS / CLOSED**
-- Part004 assembled Tamil — **NOT STARTED / NEXT GATE**
+- Part004 assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
+- Part004 English planning/setup — **NOT STARTED / NEXT GATE**
 - Part005 — **BLOCKED / NOT ACTIVE**
 - audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION**
 - terminal page function for complete 477-scan source — **not yet visually audited**
@@ -177,6 +178,6 @@ Durable rule:
 
 ## Exact next activity
 
-Begin **Part004 assembled Tamil construction + audit** from verified canonical scans91–120.
+Begin **Part004 English translation planning/setup**.
 
-Do not reopen canonical Tamil and do not begin Part005 transcription.
+Do not modify verified canonical or assembled Tamil body text and do not begin Part005 transcription.

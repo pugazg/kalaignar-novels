@@ -100,10 +100,11 @@ All page records remain `status: "needs-review"` and `visual_fidelity: "needs-re
 - unresolved status exceptions — **0**
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **NOT STARTED / NEXT GATE**
+- assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
+- English planning/setup — **NOT STARTED / NEXT GATE**
 
 ## Exact next activity
 
-Begin **Part004 assembled Tamil construction + audit**.
+Begin **Part004 English translation planning/setup**.
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 body files.
