@@ -46,10 +46,10 @@ Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 1 
 
 - incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 150→151 — **PENDING direct audit**
-- canonical Part005 page records — **10/30 — scans121–130**
-- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
-- completed Pass-1 batch — **global scans121–130 / local pages1–10**
+- canonical Part005 page records — **20/30 — scans121–140**
+- Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
+- completed Pass-1 batches — **global scans121–140 / local pages1–20**
 - unresolved Pass-1 source-reading holds — **0**
-- next Pass-1 batch — **global scans131–140 / local pages11–20**
+- next Pass-1 batch — **global scans141–150 / local pages21–30**
 
-Part004 remains **FINAL CLOSED / FROZEN**. Part005 Pass 1 is active through scans121–130; the exact next range is scans131–140.
+Part004 remains **FINAL CLOSED / FROZEN**. Part005 Pass 1 is active through scans121–140; the exact next range is scans141–150.

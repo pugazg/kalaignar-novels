@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001, Part002 and Part003 are **FINAL CLOSED / FROZEN**. Part004 is **ACTIVE / AUTHORIZED — RELEASE-READY SYNC CLOSED / FINAL CLOSURE NEXT**.
+Part001–Part004 are **FINAL CLOSED / FROZEN**. Part005 is **ACTIVE / AUTHORIZED — PASS 1 IN PROGRESS**.
 
 ## Tamil Part workflow
 
@@ -141,15 +141,15 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part004 final closure: PASS / CLOSED / FROZEN**
 - **Part005: ACTIVE / AUTHORIZED — PASS 1 IN PROGRESS**
 - **Part005 canonical range: scans121–150**
-- **Part005 canonical page records: 10/30 — scans121–130**
+- **Part005 canonical page records: 20/30 — scans121–140**
 - **Part005 incoming 120→121: GENUINE CONTINUATION / AUDITED**
 - **Part005 outgoing 150→151: PENDING direct audit**
-- **Part005 Pass 1: IN PROGRESS — 10/30 TEXT-COMPLETE**
+- **Part005 Pass 1: IN PROGRESS — 20/30 TEXT-COMPLETE**
 - **Part005 unresolved Pass-1 source-reading holds: 0**
-- **Part005 next Pass-1 batch: scans131–140 / local pages11–20**
+- **Part005 next Pass-1 batch: scans141–150 / local pages21–30**
 
 ## Exact next gate
 
-Continue **Part005 Pass 1 — global scans131–140 / local pages11–20**.
+Continue **Part005 Pass 1 — global scans141–150 / local pages21–30**.
 
 Preserve frozen Part001–Part004 body layers and the audited incoming 120→121 continuation. Do not begin Part005 Pass 2A until Pass 1 covers all scans121–150.

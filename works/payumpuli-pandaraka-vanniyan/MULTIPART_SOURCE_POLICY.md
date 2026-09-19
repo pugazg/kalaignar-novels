@@ -105,8 +105,8 @@ For every `N→N+1` boundary:
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
 - Part005 — **ACTIVE / AUTHORIZED — PASS 1 IN PROGRESS**
-- Part005 canonical page records — **10/30 — scans121–130**
-- Part005 Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- Part005 canonical page records — **20/30 — scans121–140**
+- Part005 Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
 - Part005 unresolved Pass-1 source-reading holds — **0**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - Part005 outgoing 150→151 — **PENDING direct audit**
@@ -128,6 +128,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part005 Pass 1 — global scans131–140 / local pages11–20.**
+**Part005 Pass 1 — global scans141–150 / local pages21–30.**
 
 Part001–Part004 remain frozen. Preserve the audited incoming 120→121 continuation. Outgoing 150→151 remains pending direct audit. Do not begin Pass 2A until Part005 Pass 1 covers scans121–150.
