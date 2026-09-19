@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001–Part004 are **FINAL CLOSED / FROZEN**. Part005 is **ACTIVE / AUTHORIZED — FINAL STATUS SYNC CLOSED / DOCUMENTATION SYNC NEXT**.
+Part001–Part004 are **FINAL CLOSED / FROZEN**. Part005 is **ACTIVE / AUTHORIZED — DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT**.
 
 ## Tamil Part workflow
 
@@ -154,10 +154,13 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part005 Tamil textual status: 30/30 verified; 0 partial/source-limited; 0 needs-review**
 - **Part005 visual fidelity: 30/30 verified; 0 needs-review**
 - **Part005 unresolved status exceptions: 0**
-- **Part005 documentation synchronization: NOT STARTED / NEXT GATE**
+- **Part005 documentation synchronization: PASS / COMPLETE**
+- **Part005 canonical page mutations caused by documentation sync: 0**
+- **Part005 Part006 canonical leakage: 0**
+- **Part005 Tamil archival-ready: NOT STARTED / NEXT GATE**
 
 ## Exact next gate
 
-Perform **Part005 documentation synchronization**.
+Perform **Part005 Tamil archival-ready checkpoint**.
 
-Preserve frozen Part001–Part004 body layers and both audited Part005 boundaries. Do not modify Part005 canonical page records and do not create Part006 canonical records.
+Preserve frozen Part001–Part004 body layers and both audited Part005 boundaries. Do not modify Part005 canonical page records unless an integrity failure is discovered, and do not create Part006 canonical records.

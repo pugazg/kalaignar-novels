@@ -542,7 +542,7 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
 - audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION; 150→151 GENUINE CONTINUATION**
-- Part005 — **ACTIVE / AUTHORIZED — FINAL STATUS SYNC CLOSED / DOCUMENTATION SYNC NEXT**
+- Part005 — **ACTIVE / AUTHORIZED — DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT**
 - Part005 canonical page records — **30/30 — scans121–150**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - Part005 outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
@@ -556,12 +556,15 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part005 Tamil textual status — **30/30 verified; 0 needs-review**
 - Part005 visual fidelity — **30/30 verified; 0 needs-review**
 - Part005 unresolved status exceptions — **0**
-- Part005 documentation synchronization — **NOT STARTED / NEXT GATE**
+- Part005 documentation synchronization — **PASS / COMPLETE**
+- Part005 canonical page mutations caused by documentation sync — **0**
+- Part006 canonical leakage — **0**
+- Part005 Tamil archival-ready — **NOT STARTED / NEXT GATE**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Perform **Part005 documentation synchronization**.
+Perform **Part005 Tamil archival-ready checkpoint**.
 
-Preserve both audited Part005 boundaries. Do not modify frozen Part001–Part004 body layers or any Part005 canonical page record. Do not create Part006 canonical records.
+Preserve both audited Part005 boundaries. Do not modify frozen Part001–Part004 body layers or any Part005 canonical page record unless an integrity failure is discovered. Do not create Part006 canonical records.

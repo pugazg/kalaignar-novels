@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / FINAL STATUS SYNC CLOSED / DOCUMENTATION SYNC NEXT.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **121–150**;
@@ -42,7 +42,7 @@ The canonical `scan_page` remains the overall scan number **121–150**.
 
 ## Current gate
 
-Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / FINAL STATUS SYNC CLOSED / DOCUMENTATION SYNC NEXT**.
+Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT**.
 
 - incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
@@ -61,6 +61,9 @@ Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / FINAL S
 - Tamil textual status — **30/30 verified; 0 needs-review**
 - visual fidelity — **30/30 verified; 0 needs-review**
 - unresolved status exceptions — **0**
-- documentation synchronization — **NOT STARTED / NEXT GATE**
+- documentation synchronization — **PASS / COMPLETE**
+- canonical Part005 page mutations caused by documentation sync — **0**
+- Part006 canonical leakage — **0**
+- Tamil archival-ready — **NOT STARTED / NEXT GATE**
 
-Part004 remains **FINAL CLOSED / FROZEN**. Part005 final status synchronization is closed; the exact next gate is documentation synchronization.
+Part004 remains **FINAL CLOSED / FROZEN**. Part005 documentation synchronization is complete; the exact next gate is the Tamil archival-ready checkpoint.

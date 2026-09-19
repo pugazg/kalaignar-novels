@@ -167,12 +167,21 @@ Until that direct check occurs, the boundary remains **unclassified**, not missi
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
-- Part005 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
-- Part005 canonical page records — **0/30**
+- Part005 — **ACTIVE / AUTHORIZED — DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT**
+- Part005 canonical page records — **30/30 — scans121–150**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
-- Part005 outgoing 150→151 — **PENDING direct audit**
-- Part005 Pass 1 — **NOT STARTED**
-- audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION**
+- Part005 outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
+- Part005 Pass 1 — **COMPLETE / PASS — 30/30**
+- Part005 Pass 2A — **COMPLETE / PASS — 30/30**
+- Part005 Pass 2B — **COMPLETE / PASS — 30/30**
+- Part005 Pass 3 — **COMPLETE / PASS — 30/30**
+- Part005 Part audit — **PASS / COMPLETE**
+- Part005 final metadata/status synchronization — **PASS / CLOSED**
+- Part005 Tamil textual status — **30/30 verified; 0 needs-review**
+- Part005 visual fidelity — **30/30 verified; 0 needs-review**
+- Part005 documentation synchronization — **PASS / COMPLETE**
+- Part005 Tamil archival-ready — **NOT STARTED / NEXT GATE**
+- audited split boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION; 150→151 GENUINE CONTINUATION**
 - terminal page function for complete 477-scan source — **not yet visually audited**
 
 ### Part004 source observations now established
@@ -198,6 +207,6 @@ Durable rule:
 
 ## Exact next activity
 
-Begin **Part005 Pass 1 — global scans121–130 / local pages1–10**.
+Perform **Part005 Tamil archival-ready checkpoint**.
 
-Preserve incoming **120→121 GENUINE CONTINUATION / AUDITED**. Do not modify frozen Part001–Part004 body layers. Outgoing **150→151** remains pending direct audit.
+Preserve both audited Part005 boundaries. Do not modify frozen Part001–Part004 body layers or Part005 canonical page records unless an integrity failure is discovered. Do not create Part006 canonical records.

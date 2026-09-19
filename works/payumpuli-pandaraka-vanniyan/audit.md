@@ -1271,8 +1271,32 @@ Part004 is now frozen for routine downstream work.
 Durable final record:
 - `PART_004_FINAL_CLOSURE.md`
 
+## Part005 verified Tamil state
+
+- canonical page records — **30/30 — scans121–150**
+- Pass 1 — **COMPLETE / PASS — 30/30**
+- Pass 2A — **COMPLETE / PASS — 30/30**
+- Pass 2B — **COMPLETE / PASS — 30/30**
+- Pass 3 — **COMPLETE / PASS — 30/30**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- unresolved status exceptions — **0**
+- documentation synchronization — **PASS / COMPLETE**
+- canonical Part005 page mutations caused by documentation sync — **0**
+- Part006 canonical leakage — **0**
+- incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
+
+Durable records:
+- `PART_005_AUDIT.md`
+- `PART_005_FINAL_STATUS_SYNC.md`
+- `PART_005_DOCUMENTATION_SYNC.md`
+- `PART_005_BOUNDARY_AUDIT_150_151.md`
+
 ## Current work frontier
 
-Part005 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+Perform **Part005 Tamil archival-ready checkpoint**.
 
-Exact next activity: **Part005 Pass 1 — scans121–130 / local pages1–10**.
+Part001–Part004 remain **FINAL CLOSED / FROZEN**. Do not create Part006 canonical records.
