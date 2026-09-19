@@ -126,16 +126,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 004 | 28 | 118 | 108 | `இருவர் உள்ளம்` continuation; verified | verified | `pages/0118-iruvar-ullam.md` |
 | 004 | 29 | 119 | 109 | `இருவர் உள்ளம்` continuation; verified | verified | `pages/0119-iruvar-ullam.md` |
 | 004 | 30 | 120 | 110 | `இருவர் உள்ளம்` continuation; 120→121 genuine continuation retained | verified | `pages/0120-iruvar-ullam.md` |
-| 005 | 1 | 121 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 2 | 122 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 3 | 123 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 4 | 124 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 5 | 125 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 6 | 126 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 7 | 127 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 8 | 128 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 9 | 129 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 10 | 130 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 1 | 121 | 111 | `இருவர் உள்ளம்` continuation; audited 120→121 split preserved; Pass1 text-complete | needs-review | `pages/0121-iruvar-ullam.md` |
+| 005 | 2 | 122 | 112 | chapter16 opening `பண்டாரகனின் சகோதரிகள்!`; Pass1 text-complete | needs-review | `pages/0122-pandaarakanin-sakotharigal.md` |
+| 005 | 3 | 123 | — | full-page colour illustration; no printed text or visible folio; Pass1 captured | needs-review | `pages/0123-pandaarakanin-sakotharigal.md` |
+| 005 | 4 | 124 | 114 | `பண்டாரகனின் சகோதரிகள்!` continuation after illustration; Pass1 text-complete | needs-review | `pages/0124-pandaarakanin-sakotharigal.md` |
+| 005 | 5 | 125 | 115 | `பண்டாரகனின் சகோதரிகள்!` continuation; Pass1 text-complete | needs-review | `pages/0125-pandaarakanin-sakotharigal.md` |
+| 005 | 6 | 126 | 116 | `பண்டாரகனின் சகோதரிகள்!` continuation; Pass1 text-complete | needs-review | `pages/0126-pandaarakanin-sakotharigal.md` |
+| 005 | 7 | 127 | 117 | `பண்டாரகனின் சகோதரிகள்!` continuation; Pass1 text-complete | needs-review | `pages/0127-pandaarakanin-sakotharigal.md` |
+| 005 | 8 | 128 | 118 | `பண்டாரகனின் சகோதரிகள்!` close; large intentional blank lower field; Pass1 text-complete | needs-review | `pages/0128-pandaarakanin-sakotharigal.md` |
+| 005 | 9 | 129 | 119 | chapter17 opening `கண்டிப் பயணம்!`; Pass1 text-complete | needs-review | `pages/0129-kandip-payanam.md` |
+| 005 | 10 | 130 | 120 | `கண்டிப் பயணம்!` continuation with displayed verse; Pass1 text-complete | needs-review | `pages/0130-kandip-payanam.md` |
 | 005 | 11 | 131 | — | unclassified — direct visual audit pending | not-started | — |
 | 005 | 12 | 132 | — | unclassified — direct visual audit pending | not-started | — |
 | 005 | 13 | 133 | — | unclassified — direct visual audit pending | not-started | — |
@@ -542,16 +542,17 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
 - audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION**
-- Part005 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
-- Part005 canonical page records — **0/30**
+- Part005 — **ACTIVE / AUTHORIZED — PASS 1 IN PROGRESS**
+- Part005 canonical page records — **10/30 — scans121–130**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - Part005 outgoing 150→151 — **PENDING direct audit**
-- Part005 Pass 1 — **NOT STARTED**
+- Part005 Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- Part005 unresolved Pass-1 source-reading holds — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Begin **Part005 Pass 1 — global scans121–130 / local pages1–10**.
+Continue **Part005 Pass 1 — global scans131–140 / local pages11–20**.
 
-Preserve incoming **120→121 GENUINE CONTINUATION / AUDITED**. Do not modify frozen Part001–Part004 body layers. Outgoing **150→151** remains pending direct audit.
+Preserve incoming **120→121 GENUINE CONTINUATION / AUDITED**. Do not modify frozen Part001–Part004 body layers. Outgoing **150→151** remains pending direct audit. Do not begin Pass 2A.
