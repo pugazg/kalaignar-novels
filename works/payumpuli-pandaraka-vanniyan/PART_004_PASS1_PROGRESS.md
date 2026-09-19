@@ -109,10 +109,11 @@ Durable boundary record:
 - visual fidelity — **30/30 verified**
 - unresolved status exceptions — **0**
 - documentation synchronization — **PASS / COMPLETE**
-- Tamil archival-ready — **NOT STARTED / NEXT GATE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **NOT STARTED / NEXT GATE**
 
 ## Exact next activity
 
-Perform the **Part004 Tamil archival-ready checkpoint**.
+Begin **Part004 assembled Tamil construction + audit**.
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 body files.

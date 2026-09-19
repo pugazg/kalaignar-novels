@@ -166,7 +166,8 @@ Current verified Tamil state:
 - Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
 - visual fidelity — **30/30 verified; 0 needs-review**
 - unresolved Tamil / historical-glyph / visual-status exceptions — **0**
-- Tamil archival-ready — **NOT YET STARTED / NEXT GATE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **NOT STARTED / NEXT GATE**
 - incoming 90→91 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 120→121 — **GENUINE CONTINUATION / AUDITED**
 
@@ -189,9 +190,10 @@ Durable Part004 records:
 - `PART_004_AUDIT.md`
 - `PART_004_FINAL_STATUS_SYNC.md`
 - `PART_004_DOCUMENTATION_SYNC.md`
+- `PART_004_TAMIL_ARCHIVAL_READY.md`
 
 ## Exact next activity
 
-Perform the **Part004 Tamil archival-ready checkpoint**.
+Begin **Part004 assembled Tamil construction + audit** from the verified canonical Part004 page records.
 
-Do not modify verified Part004 canonical page records and do not begin assembled Tamil, English work or Part005 transcription until that checkpoint closes.
+Do not modify verified Part004 canonical page records; do not begin English work or Part005 transcription until the assembled Tamil checkpoint closes.

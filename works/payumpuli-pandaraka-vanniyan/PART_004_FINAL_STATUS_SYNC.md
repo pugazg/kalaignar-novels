@@ -142,3 +142,17 @@ Perform the **Part004 Tamil archival-ready checkpoint**.
 That gate should reconcile README, handover, page map, source metadata, workflow trackers and related live-frontier controls to this verified 30/30 state without changing any Part004 page record.
 
 Do not begin the Tamil archival-ready checkpoint, assembled Tamil / English workflow, final Part004 closure or Part005 transcription until documentation synchronization is complete.
+
+## Post-status archival-ready state
+
+The earlier final-status gate remains historically closed and authoritative.
+
+Part004 subsequently completed:
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- canonical Tamil mutations caused by archival-ready checkpoint — **0**
+- Part005 canonical leakage — **0**
+
+Current next gate:
+
+**Part004 assembled Tamil construction + audit.**

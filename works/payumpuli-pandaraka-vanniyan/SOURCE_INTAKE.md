@@ -92,7 +92,8 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part004 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
 - Part004 visual fidelity — **30/30 verified; 0 needs-review**
 - Part004 unresolved status exceptions — **0**
-- Part004 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- Part004 Tamil archival-ready — **PASS / CLOSED**
+- Part004 assembled Tamil — **NOT STARTED / NEXT GATE**
 - Part005 — **BLOCKED / NOT ACTIVE**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
 - boundary 60→61 — **CLEAN / AUDITED**
@@ -111,9 +112,10 @@ Authoritative Part004 verification records:
 - `PART_004_AUDIT.md`
 - `PART_004_FINAL_STATUS_SYNC.md`
 - `PART_004_DOCUMENTATION_SYNC.md`
+- `PART_004_TAMIL_ARCHIVAL_READY.md`
 
 ## Exact next activity
 
-Perform the **Part004 Tamil archival-ready checkpoint**.
+Begin **Part004 assembled Tamil construction + audit** from verified canonical scans91–120.
 
 Preserve both audited Part004 boundaries and do not begin Part005 transcription.

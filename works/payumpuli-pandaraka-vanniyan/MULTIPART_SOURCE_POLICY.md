@@ -85,7 +85,8 @@ For every `N→N+1` boundary:
 - Part004 visual fidelity — **30/30 verified**
 - Part004 unresolved status exceptions — **0**
 - Part004 documentation synchronization — **PASS / COMPLETE**
-- Part004 Tamil archival-ready — **NOT STARTED / NEXT GATE**
+- Part004 Tamil archival-ready — **PASS / CLOSED**
+- Part004 assembled Tamil — **NOT STARTED / NEXT GATE**
 - split-boundary classifications — **4 / 15 audited**
 
 Audited boundaries:
@@ -104,6 +105,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part004 Tamil archival-ready checkpoint.**
+**Part004 assembled Tamil construction + audit.**
 
 Part001–Part003 remain frozen. Preserve both audited Part004 boundaries. Do not begin Part005 transcription.

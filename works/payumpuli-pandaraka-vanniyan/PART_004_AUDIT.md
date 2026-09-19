@@ -201,3 +201,18 @@ Perform the **Part004 Tamil archival-ready checkpoint**.
 That next gate may promote only the two final per-page status fields from `needs-review` to `verified`, based on this closed audit evidence.
 
 Do not begin documentation synchronization, Tamil archival-ready, assembled Tamil / English work or Part005 transcription in this audit iteration.
+
+## Post-audit archival-ready state
+
+The earlier Part audit remains historically closed and authoritative.
+
+Part004 subsequently completed:
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- canonical Tamil mutations caused by archival-ready checkpoint — **0**
+- Part005 canonical leakage — **0**
+
+Current next gate:
+
+**Part004 assembled Tamil construction + audit.**

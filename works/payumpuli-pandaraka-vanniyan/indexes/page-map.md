@@ -522,7 +522,8 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part004 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
 - Part004 visual fidelity — **30/30 verified; 0 needs-review**
 - Part004 unresolved status exceptions — **0**
-- Part004 Tamil archival-ready — **NEXT GATE / NOT YET STARTED**
+- Part004 Tamil archival-ready — **PASS / CLOSED**
+- Part004 assembled Tamil — **NOT STARTED / NEXT GATE**
 - audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION**
 - Part005 — **BLOCKED / NOT ACTIVE**
 
@@ -530,6 +531,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Perform the **Part004 Tamil archival-ready checkpoint**.
+Begin **Part004 assembled Tamil construction + audit** from the 30/30 verified canonical Part004 records.
 
-Do not modify verified Part004 page records and do not begin Part005 transcription.
+Do not modify verified page records and do not begin Part005 transcription.
