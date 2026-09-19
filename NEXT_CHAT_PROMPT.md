@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part005 Pass 1 scans121–130
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part005 Pass 2A scans121–130
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,9 +6,9 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 1. `HANDOVER.md`
 2. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
-3. `works/payumpuli-pandaraka-vanniyan/PART_004_FINAL_CLOSURE.md`
-4. `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_005.md`
-5. `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
+3. `works/payumpuli-pandaraka-vanniyan/PART_005_PASS1_PROGRESS.md`
+4. `works/payumpuli-pandaraka-vanniyan/PART_005_BOUNDARY_AUDIT_150_151.md`
+5. `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_005.md`
 6. `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLICY.md`
 7. `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
 
@@ -23,30 +23,32 @@ Do not modify their canonical Tamil, assembled Tamil or maintained English body 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
 - global scans — **121–150**
 - local pages — **1–30**
+- canonical page records — **30/30 — scans121–150**
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- unresolved Pass-1 source-reading holds — **0**
 - incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 150→151 — **PENDING direct audit**
-- canonical Part005 page records — **0/30**
-- Pass 1 — **NOT STARTED**
-- Part004 — **FINAL CLOSED / FROZEN**
+- outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
+- Pass 2A — **NOT STARTED**
+- all Part005 pages remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 
 ## Exact activity
 
-Begin **Part005 Pass 1 — global scans121–130 / local pages1–10**.
+Begin **Part005 Pass 2A — global scans121–130 / local pages1–10**.
 
 Requirements:
 
-- use the supplied Part005 PDF as controlling source;
-- preserve global `scan_page` numbering 121–150;
-- preserve `part: 5`, `part_page` and exact Part005 source filename;
-- preserve the already-audited 120→121 genuine continuation without importing frozen Part004 body text into Part005;
-- create canonical page records only for scans121–130 in this iteration;
-- update/create `PART_005_PASS1_PROGRESS.md`;
-- leave all new Part005 pages `status: "needs-review"` / `visual_fidelity: "needs-review"` until later gates;
-- do not begin Pass 2A until Part005 Pass 1 covers all scans121–150;
-- do not reopen frozen Part004 merely to smooth the split continuation.
+- compare each canonical page directly against the supplied Part005 source pixels;
+- verify word-for-word Tamil, punctuation, dialogue/paragraph structure, printed pagination and physical page boundaries;
+- preserve source wording and historical/reform-sensitive glyph identity; do not modernize or grammar-correct;
+- make source-supported canonical corrections only when directly evidenced;
+- document correction and unresolved-hold counts in `PART_005_PASS2A_PROGRESS.md`;
+- preserve the audited 120→121 and 150→151 boundaries without importing adjacent-Part body text;
+- keep `status` and `visual_fidelity` as `needs-review` at this gate;
+- do not begin Pass 2B until Pass 2A covers all scans121–150;
+- do not create Part006 canonical records.
 
 ## Stop rule
 
-Stop after **Part005 Pass 1 scans121–130** is durably recorded and synchronized.
+Stop after **Part005 Pass 2A scans121–130** is durably recorded and synchronized.
 
 Exact next range after that: **scans131–140**.

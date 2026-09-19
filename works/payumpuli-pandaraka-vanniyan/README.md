@@ -227,17 +227,34 @@ Durable Part004 records:
 - `translations/en/E17_SOURCE_CHECK.md`
 - `translations/en/E16_SOURCE_CHECK.md`
 
-## Part005 — NEXT ACTIVE / AUTHORIZED / NOT STARTED
+## Part005 — ACTIVE / PASS 1 COMPLETE / PASS 2A NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
 - scans — **121–150**
-- canonical records — **0/30**
+- canonical records — **30/30 — scans121–150**
 - incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 150→151 — **PENDING direct audit**
-- Pass 1 — **NOT STARTED**
+- outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- unresolved Pass-1 source-reading holds — **0**
+- Pass 2A — **NOT STARTED / NEXT GATE**
+
+Notable structure:
+- scan121 continues chapter15 `இருவர் உள்ளம்`;
+- scan122 opens chapter16 `பண்டாரகனின் சகோதரிகள்!`;
+- scan123 is a full-page illustration with no printed body text;
+- scan129 opens chapter17 `கண்டிப் பயணம்!`;
+- scan135 opens chapter18 `நண்பர்கள் சந்திப்பு!`;
+- scan140 opens chapter19 `மனமில்லா மணம்!`;
+- scan146 opens chapter20 `சதி வலை!`;
+- scan150 opens chapter21 `குருவியும் - குயிலும்!`;
+- scan150 ends `என்னுடன் வாழ வேண்டாம் என நான்`, with audited continuation to Part006 scan151 `சொல்லவில்லையே!...`.
+
+Durable Part005 records now include:
+- `PART_005_PASS1_PROGRESS.md`
+- `PART_005_BOUNDARY_AUDIT_150_151.md`
 
 ## Exact next activity
 
-Begin **Part005 Pass 1 — scans121–130 / local pages1–10**.
+Begin **Part005 Pass 2A — scans121–130 / local pages1–10**.
 
-Do not modify frozen Part001–Part004 canonical Tamil, assembled Tamil or maintained English body files.
+Do not modify frozen Part001–Part004 canonical Tamil, assembled Tamil or maintained English body files. Do not create Part006 canonical records.

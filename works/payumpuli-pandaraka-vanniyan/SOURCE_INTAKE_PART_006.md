@@ -23,7 +23,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Boundary state
 
-- incoming split boundary: **150→151 — source available; classification pending direct audit**;
+- incoming split boundary: **150→151 — GENUINE CONTINUATION / AUDITED**;
 - outgoing split boundary: **180→181 — source available; classification pending direct audit**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
@@ -44,4 +44,4 @@ The canonical `scan_page` remains the overall scan number **151–180**.
 
 Part 006 source split: **SUPPLIED / REGISTERED**.
 
-This Part waits behind the global active frontier. Do not create page records here until processing reaches its overall scan range.
+This Part waits behind the global active frontier. Its incoming 150→151 boundary has been directly audited as **GENUINE CONTINUATION** using Part005 scan150 and this Part's local page1 / global scan151 as adjacent witnesses. No Part006 canonical page record was created. Do not create Part006 page records until Part005 reaches final closure.

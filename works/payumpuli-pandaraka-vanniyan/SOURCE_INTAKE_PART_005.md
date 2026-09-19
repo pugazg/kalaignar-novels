@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 1 IN PROGRESS.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 1 COMPLETE / PASS 2A NEXT.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **121–150**;
@@ -24,7 +24,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 ## Boundary state
 
 - incoming split boundary: **120→121 — GENUINE CONTINUATION / AUDITED**;
-- outgoing split boundary: **150→151 — source available; classification pending direct audit**;
+- outgoing split boundary: **150→151 — GENUINE CONTINUATION / AUDITED**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
 
@@ -42,14 +42,14 @@ The canonical `scan_page` remains the overall scan number **121–150**.
 
 ## Current gate
 
-Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 1 IN PROGRESS**.
+Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 1 COMPLETE / PASS 2A NEXT**.
 
 - incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 150→151 — **PENDING direct audit**
-- canonical Part005 page records — **20/30 — scans121–140**
-- Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
-- completed Pass-1 batches — **global scans121–140 / local pages1–20**
+- outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
+- canonical Part005 page records — **30/30 — scans121–150**
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - unresolved Pass-1 source-reading holds — **0**
-- next Pass-1 batch — **global scans141–150 / local pages21–30**
+- Pass 2A — **NOT STARTED / NEXT GATE**
+- first Pass-2A batch — **global scans121–130 / local pages1–10**
 
-Part004 remains **FINAL CLOSED / FROZEN**. Part005 Pass 1 is active through scans121–140; the exact next range is scans141–150.
+Part004 remains **FINAL CLOSED / FROZEN**. Part005 Pass 1 is complete; the exact next gate is Pass 2A scans121–130.

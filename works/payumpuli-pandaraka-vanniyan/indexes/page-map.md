@@ -146,16 +146,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 005 | 18 | 138 | 128 | `நண்பர்கள் சந்திப்பு!` continuation; Pass1 text-complete | needs-review | `pages/0138-nanbargal-santhippu.md` |
 | 005 | 19 | 139 | 129 | `நண்பர்கள் சந்திப்பு!` continuation; Pass1 text-complete | needs-review | `pages/0139-nanbargal-santhippu.md` |
 | 005 | 20 | 140 | 130 | chapter19 opening `மனமில்லா மணம்!`; ends mid-word `அரண்`; Pass1 text-complete | needs-review | `pages/0140-manamillaa-manam.md` |
-| 005 | 21 | 141 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 22 | 142 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 23 | 143 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 24 | 144 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 25 | 145 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 26 | 146 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 27 | 147 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 28 | 148 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 29 | 149 | — | unclassified — direct visual audit pending | not-started | — |
-| 005 | 30 | 150 | — | unclassified — direct visual audit pending | not-started | — |
+| 005 | 21 | 141 | 131 | `மனமில்லா மணம்!` continuation; joins scan140 `அரண்` → `மனையின்`; Pass1 text-complete | needs-review | `pages/0141-manamillaa-manam.md` |
+| 005 | 22 | 142 | 132 | `மனமில்லா மணம்!` continuation; Pass1 text-complete | needs-review | `pages/0142-manamillaa-manam.md` |
+| 005 | 23 | 143 | 133 | `மனமில்லா மணம்!` continuation; Pass1 text-complete | needs-review | `pages/0143-manamillaa-manam.md` |
+| 005 | 24 | 144 | 134 | `மனமில்லா மணம்!` continuation; Pass1 text-complete | needs-review | `pages/0144-manamillaa-manam.md` |
+| 005 | 25 | 145 | 135 | `மனமில்லா மணம்!` close; large intentional blank lower field; Pass1 text-complete | needs-review | `pages/0145-manamillaa-manam.md` |
+| 005 | 26 | 146 | 136 | chapter20 opening `சதி வலை!`; Pass1 text-complete | needs-review | `pages/0146-sathi-valai.md` |
+| 005 | 27 | 147 | 137 | `சதி வலை!` continuation; Pass1 text-complete | needs-review | `pages/0147-sathi-valai.md` |
+| 005 | 28 | 148 | 138 | `சதி வலை!` continuation; ends `நானே`; Pass1 text-complete | needs-review | `pages/0148-sathi-valai.md` |
+| 005 | 29 | 149 | 139 | `சதி வலை!` continuation; begins `சிந்திக்கிறேன்!`; Pass1 text-complete | needs-review | `pages/0149-sathi-valai.md` |
+| 005 | 30 | 150 | 140 | chapter21 opening `குருவியும் - குயிலும்!`; 150→151 genuine continuation audited; Pass1 text-complete | needs-review | `pages/0150-kuruviyum-kuyilum.md` |
 | 006 | 1 | 151 | — | unclassified — direct visual audit pending | not-started | — |
 | 006 | 2 | 152 | — | unclassified — direct visual audit pending | not-started | — |
 | 006 | 3 | 153 | — | unclassified — direct visual audit pending | not-started | — |
@@ -543,16 +543,17 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part004 final closure — **PASS / CLOSED / FROZEN**
 - audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION**
 - Part005 — **ACTIVE / AUTHORIZED — PASS 1 IN PROGRESS**
-- Part005 canonical page records — **20/30 — scans121–140**
+- Part005 canonical page records — **30/30 — scans121–150**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
-- Part005 outgoing 150→151 — **PENDING direct audit**
-- Part005 Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
+- Part005 outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
+- Part005 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part005 unresolved Pass-1 source-reading holds — **0**
+- Part005 Pass 2A — **NOT STARTED / NEXT GATE**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Continue **Part005 Pass 1 — global scans141–150 / local pages21–30**.
+Begin **Part005 Pass 2A — global scans121–130 / local pages1–10**.
 
 Preserve incoming **120→121 GENUINE CONTINUATION / AUDITED**. Do not modify frozen Part001–Part004 body layers. Outgoing **150→151** remains pending direct audit. Do not begin Pass 2A.

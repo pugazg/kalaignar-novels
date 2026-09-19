@@ -42,6 +42,7 @@ Audited:
 - **60→61 — CLEAN**
 - **90→91 — GENUINE CONTINUATION**
 - **120→121 — GENUINE CONTINUATION**
+- **150→151 — GENUINE CONTINUATION**
 
 For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were directly compared. No scan60 correction was needed and no Part003 canonical text was imported.
 
@@ -139,17 +140,18 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part004 release/readiness: PASS / CLOSED**
 - **Part004 release-ready synchronization: PASS / CLOSED**
 - **Part004 final closure: PASS / CLOSED / FROZEN**
-- **Part005: ACTIVE / AUTHORIZED — PASS 1 IN PROGRESS**
+- **Part005: ACTIVE / AUTHORIZED — PASS 1 COMPLETE / PASS 2A NEXT**
 - **Part005 canonical range: scans121–150**
-- **Part005 canonical page records: 20/30 — scans121–140**
+- **Part005 canonical page records: 30/30 — scans121–150**
 - **Part005 incoming 120→121: GENUINE CONTINUATION / AUDITED**
-- **Part005 outgoing 150→151: PENDING direct audit**
-- **Part005 Pass 1: IN PROGRESS — 20/30 TEXT-COMPLETE**
+- **Part005 outgoing 150→151: GENUINE CONTINUATION / AUDITED**
+- **Part005 Pass 1: COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - **Part005 unresolved Pass-1 source-reading holds: 0**
-- **Part005 next Pass-1 batch: scans141–150 / local pages21–30**
+- **Part005 Pass 2A: NOT STARTED / NEXT GATE**
+- **Part005 first Pass-2A batch: scans121–130 / local pages1–10**
 
 ## Exact next gate
 
-Continue **Part005 Pass 1 — global scans141–150 / local pages21–30**.
+Begin **Part005 Pass 2A — global scans121–130 / local pages1–10**.
 
-Preserve frozen Part001–Part004 body layers and the audited incoming 120→121 continuation. Do not begin Part005 Pass 2A until Pass 1 covers all scans121–150.
+Preserve frozen Part001–Part004 body layers and both audited Part005 boundaries. Do not create Part006 canonical records and do not begin Pass 2B until Part005 Pass 2A covers scans121–150.
