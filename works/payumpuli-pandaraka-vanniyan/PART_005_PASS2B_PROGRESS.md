@@ -109,10 +109,13 @@ All Part005 page records remain `status: "needs-review"` and `visual_fidelity: "
 - documentation synchronization — **PASS / COMPLETE**
 - canonical Part005 page mutations caused by documentation sync — **0**
 - Part006 canonical leakage — **0**
-- Tamil archival-ready — **NOT STARTED / NEXT GATE**
+- Tamil archival-ready — **PASS / CLOSED**
+- canonical Part005 page mutations caused by archival-ready checkpoint — **0**
+- Part006 canonical leakage — **0**
+- assembled Tamil — **NOT STARTED / NEXT GATE**
 
 ## Exact next activity
 
-Perform **Part005 Tamil archival-ready checkpoint**.
+Perform **Part005 assembled Tamil construction + audit**.
 
-Do not modify Part005 canonical page records unless an integrity failure is discovered. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.
+Build only from verified Part005 canonical page records. Do not modify Part005 canonical pages. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and their assembled files; do not create Part006 canonical records or import Part006 body text.

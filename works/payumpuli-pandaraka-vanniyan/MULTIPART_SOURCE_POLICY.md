@@ -104,7 +104,7 @@ For every `N→N+1` boundary:
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
-- Part005 — **ACTIVE / AUTHORIZED — DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT**
+- Part005 — **ACTIVE / AUTHORIZED — TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL NEXT**
 - Part005 canonical page records — **30/30 — scans121–150**
 - Part005 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
@@ -120,7 +120,10 @@ For every `N→N+1` boundary:
 - Part005 documentation synchronization — **PASS / COMPLETE**
 - Part005 canonical page mutations caused by documentation sync — **0**
 - Part006 canonical leakage — **0**
-- Part005 Tamil archival-ready — **NOT STARTED / NEXT GATE**
+- Part005 Tamil archival-ready — **PASS / CLOSED**
+- Part005 canonical page mutations caused by archival-ready checkpoint — **0**
+- Part006 canonical leakage — **0**
+- Part005 assembled Tamil — **NOT STARTED / NEXT GATE**
 - split-boundary classifications — **5 / 15 audited**
 
 Audited boundaries:
@@ -141,6 +144,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part005 Tamil archival-ready checkpoint.**
+**Part005 assembled Tamil construction + audit.**
 
-Part001–Part004 remain frozen. Preserve both audited Part005 boundaries. Do not modify Part005 canonical page records unless an integrity failure is discovered and do not create Part006 canonical records.
+Part001–Part004 remain frozen. Preserve both audited Part005 boundaries. Build only from verified Part005 canonical page records; do not create Part006 canonical records or import Part006 body text.

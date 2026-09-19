@@ -147,3 +147,21 @@ Durable documentation record:
 Current next gate:
 
 **Part005 Tamil archival-ready checkpoint.**
+
+
+## Post-status archival-ready state
+
+The earlier final metadata/status synchronization remains historically closed and authoritative.
+
+Part005 subsequently completed:
+- documentation synchronization — **PASS / COMPLETE**;
+- Tamil archival-ready — **PASS / CLOSED**;
+- canonical Part005 page mutations caused by archival-ready checkpoint — **0**;
+- Part006 canonical leakage — **0**.
+
+Durable archival-ready record:
+- `PART_005_TAMIL_ARCHIVAL_READY.md`.
+
+Current next gate:
+
+**Part005 assembled Tamil construction + audit.**

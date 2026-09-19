@@ -133,45 +133,43 @@ Part001 section files `00-*.md` through `07-*.md` are frozen.
 - chapter-opening number/title material already present in verified canonical source-transcription blocks is retained;
 - no Part004 literary illustration, photograph or caption requires separate readable-layer prose.
 
+## Part005 boundary safeguards
+
+- incoming **120→121 — GENUINE CONTINUATION / AUDITED**;
+- no frozen Part004 body text may be imported into the Part005 reading layer merely to complete the split word;
+- outgoing **150→151 — GENUINE CONTINUATION / AUDITED**;
+- scan150 remains terminal at `என்னுடன் வாழ வேண்டாம் என நான்`; Part006 scan151 body text must not be imported.
+
+## Part005 special structural cases
+
+- scan123 is a full-page colour illustration with no printed Tamil body text; assembly must not invent prose or a caption;
+- scans128, 134 and 145 retain no invented content for intentional blank lower fields;
+- scans130→131 preserve meaningful displayed verse lineation;
+- scan140→141 preserves the verified lexical split `அரண்` + `மனையின்` while keeping canonical page provenance;
+- chapter-opening number/title material already present in verified canonical source-transcription blocks is retained.
+
 ## Downstream state
 
 Part001 — **FINAL CLOSED / FROZEN**.
 
 Part002 — **FINAL CLOSED / FROZEN**; assembled Tamil remains **PASS / CLOSED — 5/5 VERIFIED**.
 
-Part003:
-- Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
-- canonical scans represented — **30/30**
-- English planning/setup — **COMPLETE / PASS**
-- English translated/source-checked — **5/5**
-- E10–E14 — **SOURCE-CHECKED / COMPLETE**
-- unresolved English holds — **0**
-- Part003 English glossary reconciliation — **RECONCILED / PASS**
-- Part003 glossary-reconciliation English section edits — **0**
-- Part003 English editorial review — **PASS / CLOSED**
-- Part003 editorial English-only changes — **49**
-- Part003 source-alignment corrections within editorial total — **2**
-- Part003 unresolved editorial holds — **0**
-- Part003 bilingual review — **PASS / CLOSED**
-- Part003 bilingual English-only corrections — **2**
-- Part003 unresolved bilingual holds — **0**
-- Part003 release/readiness — **PASS / CLOSED**
-- Part003 unresolved release/readiness blockers — **0**
-- Part003 release-ready synchronization — **PASS / CLOSED**
-- Part003 release-sync canonical/assembled/English body changes — **0**
-- Part003 release-sync source-variant collapses — **0**
-- Part003 final closure — **PASS / CLOSED / FROZEN**
+Part003 — **FINAL CLOSED / FROZEN**; assembled Tamil remains **PASS / CLOSED — 5/5 VERIFIED**.
 
-Part004:
+Part004 — **FINAL CLOSED / FROZEN**; assembled Tamil remains **PASS / CLOSED — 5/5 VERIFIED**.
+
+Part005:
 - Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
-- canonical scans represented — **30/30**
-- English planning/setup — **NOT STARTED / NEXT GATE**
-- Part005 canonical records — **0 / BLOCKED**
+- canonical Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- assembled Tamil — **NOT STARTED / NEXT GATE**
+- canonical Part005 page mutations caused by archival-ready checkpoint — **0**
+- Part006 canonical leakage — **0**
+- expected reading-layer source structure — **7 section files / scans121–150**
+- Part001–Part004 assembled files — **FROZEN / MUST NOT CHANGE**
 
 ## Exact next activity
 
-Begin **Part004 English translation planning/setup**.
+Perform **Part005 assembled Tamil construction + audit**.
 
-Do not modify verified Part004 canonical or assembled Tamil body text, and do not begin Part005 transcription.
+Build only from verified Part005 canonical `pages/` source-transcription blocks. Preserve both audited Part005 boundaries, exclude scan123 illustration-only matter from literary body, keep frozen Part001–Part004 assembled files unchanged, and do not import Part006 body text.

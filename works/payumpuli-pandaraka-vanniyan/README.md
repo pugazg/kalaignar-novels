@@ -227,7 +227,7 @@ Durable Part004 records:
 - `translations/en/E17_SOURCE_CHECK.md`
 - `translations/en/E16_SOURCE_CHECK.md`
 
-## Part005 — ACTIVE / DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT
+## Part005 — ACTIVE / TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
 - scans — **121–150**
@@ -250,7 +250,10 @@ Durable Part004 records:
 - documentation synchronization — **PASS / COMPLETE**
 - canonical page mutations caused by documentation sync — **0**
 - Part006 canonical leakage — **0**
-- Tamil archival-ready — **NOT STARTED / NEXT GATE**
+- Tamil archival-ready — **PASS / CLOSED**
+- canonical page mutations caused by archival-ready checkpoint — **0**
+- Part006 canonical leakage — **0**
+- assembled Tamil — **NOT STARTED / NEXT GATE**
 
 Notable structure:
 - scan121 continues chapter15 `இருவர் உள்ளம்`;
@@ -271,10 +274,11 @@ Durable Part005 records now include:
 - `PART_005_AUDIT.md`
 - `PART_005_FINAL_STATUS_SYNC.md`
 - `PART_005_DOCUMENTATION_SYNC.md`
+- `PART_005_TAMIL_ARCHIVAL_READY.md`
 - `PART_005_BOUNDARY_AUDIT_150_151.md`
 
 ## Exact next activity
 
-Perform **Part005 Tamil archival-ready checkpoint**.
+Perform **Part005 assembled Tamil construction + audit**.
 
-Do not modify frozen Part001–Part004 canonical Tamil, assembled Tamil or maintained English body files. Do not change Part005 canonical page records unless an integrity failure is discovered and do not create Part006 canonical records.
+Do not modify frozen Part001–Part004 canonical Tamil, assembled Tamil or maintained English body files. Build only from verified Part005 canonical records; do not create Part006 canonical records or import Part006 body text.

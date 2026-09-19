@@ -1297,6 +1297,14 @@ Durable records:
 
 ## Current work frontier
 
-Perform **Part005 Tamil archival-ready checkpoint**.
+Part005 Tamil archival-ready — **PASS / CLOSED**.
 
-Part001–Part004 remain **FINAL CLOSED / FROZEN**. Do not create Part006 canonical records.
+- canonical Part005 page mutations caused by archival-ready checkpoint — **0**
+- Part006 canonical leakage — **0**
+- durable record — `PART_005_TAMIL_ARCHIVAL_READY.md`
+
+## Current work frontier
+
+Perform **Part005 assembled Tamil construction + audit**.
+
+Part001–Part004 remain **FINAL CLOSED / FROZEN**. Build only from verified Part005 canonical records and do not create Part006 canonical records or import Part006 body text.
