@@ -43,7 +43,8 @@ At Pass-3 closure all pages deliberately remain `status: "needs-review"` / `visu
 - Batch 3 scans111–120 — **0 textual corrections; 0 unresolved visual/structural questions**
 - cumulative Pass 3 textual corrections — **0**
 - cumulative unresolved visual/structural questions — **0**
-- Part audit — **NOT STARTED**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **NOT STARTED**
 
 ## Batch 1 — scans91–100
 
@@ -121,6 +122,6 @@ No Pass-3 blocker remains for the **Part audit** gate.
 
 ## Exact next activity
 
-Begin **Part004 Part audit** across scans91–120, reconciling Pass 1, Pass 2A, Pass 2B, Pass 3, boundary records, metadata ranges and unresolved-status accounting.
+Perform **Part004 final metadata/status synchronization** across scans91–120.
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 body files.

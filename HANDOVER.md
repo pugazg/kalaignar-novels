@@ -121,7 +121,7 @@ Part001 and Part002 are frozen.
 Durable final record:
 - `works/payumpuli-pandaraka-vanniyan/PART_003_FINAL_CLOSURE.md`
 
-## Part004 — ACTIVE / AUTHORIZED — PASS 3 COMPLETE
+## Part004 — ACTIVE / AUTHORIZED — PART AUDIT COMPLETE
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_004_pages_91-120.pdf`
 - global scans — **91–120**
@@ -140,7 +140,8 @@ Durable final record:
 - Part004 Pass 2B cumulative — **3 lexical/source-text corrections; 0 historical-glyph corrections; 0 unresolved**
 - Part004 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
 - Part004 Pass 3 cumulative — **0 textual corrections; 0 unresolved visual/structural questions**
-- Part004 Part audit — **NOT STARTED**
+- Part004 Part audit — **PASS / COMPLETE**
+- Part004 final metadata/status synchronization — **NOT STARTED**
 - Part001–Part003 remain **FINAL CLOSED / FROZEN**
 
 Durable records:
@@ -148,10 +149,11 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_004_PASS2A_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_PASS2B_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_PASS3_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_004_AUDIT.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
 
 ## Exact next activity
 
-Begin **Part004 Part audit** across scans91–120, reconciling all Tamil verification gates, boundaries, metadata ranges and unresolved-status accounting.
+Perform **Part004 final metadata/status synchronization** across scans91–120.
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 canonical Tamil, assembled Tamil and maintained English body files.

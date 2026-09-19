@@ -58,12 +58,13 @@ Part 004 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE PART / PA
 - Part004 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 0 corrections; 0 unresolved**
 - Part004 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 3 lexical/source-text corrections; 0 historical-glyph corrections; 0 unresolved**
 - Part004 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
-- Part004 Part audit — **NOT STARTED**
+- Part004 Part audit — **PASS / COMPLETE**
+- Part004 final metadata/status synchronization — **NOT STARTED**
 
 Part003 remains **FINAL CLOSED / FROZEN**. Part005 scan121 was inspected only as an outgoing boundary witness; no Part005 canonical record was created.
 
 ## Exact next activity
 
-Begin **Part004 Part audit** across scans91–120.
+Perform **Part004 final metadata/status synchronization** across scans91–120.
 
 Do not begin Part005 transcription.

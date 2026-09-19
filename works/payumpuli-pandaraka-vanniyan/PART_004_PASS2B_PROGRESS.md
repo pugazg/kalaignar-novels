@@ -91,8 +91,13 @@ Cumulative:
 
 All page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"` pending Pass 3 and later whole-Part closure gates.
 
+## Downstream state
+
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **NOT STARTED**
+
 ## Exact next activity
 
-Begin **Part004 Part audit** across scans91–120, reconciling Pass 1, Pass 2A, Pass 2B, Pass 3, boundaries, metadata ranges and unresolved-status accounting.
+Perform **Part004 final metadata/status synchronization** across scans91–120.
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 body files.

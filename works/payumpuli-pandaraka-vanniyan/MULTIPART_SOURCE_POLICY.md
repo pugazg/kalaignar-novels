@@ -79,7 +79,8 @@ For every `N→N+1` boundary:
 - Part004 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 0 corrections; 0 unresolved**
 - Part004 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 3 lexical/source-text corrections; 0 historical-glyph corrections; 0 unresolved**
 - Part004 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
-- Part004 Part audit — **NOT STARTED**
+- Part004 Part audit — **PASS / COMPLETE**
+- Part004 final metadata/status synchronization — **NOT STARTED**
 - split-boundary classifications — **4 / 15 audited**
 
 Audited boundaries:
@@ -98,6 +99,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part004 Part audit — scans91–120.**
+**Part004 final metadata/status synchronization — scans91–120.**
 
 Part001–Part003 remain frozen. Preserve both audited Part004 boundaries. Do not begin Part005 transcription.
