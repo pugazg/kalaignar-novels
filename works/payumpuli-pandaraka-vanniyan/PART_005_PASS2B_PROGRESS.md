@@ -99,8 +99,14 @@ Cumulative:
 
 All Part005 page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"` pending Pass 3 and later whole-Part closure gates.
 
+## Downstream state
+
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
+
 ## Exact next activity
 
-Begin **Part005 Part audit**.
+Perform **Part005 final metadata/status synchronization**.
 
-Do not begin final metadata/status synchronization until the Part audit closes. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.
+Promote only the two final per-page status fields from `needs-review` to `verified`, based on the closed Part audit. Do not modify canonical Tamil body text. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.

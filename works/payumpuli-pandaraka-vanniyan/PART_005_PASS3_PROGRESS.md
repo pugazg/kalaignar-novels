@@ -123,8 +123,19 @@ At Pass-3 closure all pages deliberately remain `status: "needs-review"` / `visu
 
 No Pass-3 blocker remains for the **Part audit** gate.
 
+## Post-Pass3 audit state
+
+- Part audit — **PASS / COMPLETE**
+- canonical/body mutations caused by Part audit — **0**
+- status promotions caused by Part audit — **0**
+- Part006 canonical leakage — **0**
+- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
+
+Durable audit record:
+- `PART_005_AUDIT.md`
+
 ## Exact next activity
 
-Begin **Part005 Part audit**.
+Perform **Part005 final metadata/status synchronization**.
 
-Do not begin final metadata/status synchronization before the Part audit closes. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.
+Promote only the two final per-page status fields from `needs-review` to `verified`, based on the closed Part audit. Do not modify canonical Tamil body text. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.

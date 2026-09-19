@@ -96,10 +96,18 @@ The controlling source is the user-supplied Part005 split PDF rendered to page i
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 2A source-text corrections — **7**
 - Pass 2A unresolved textual questions — **0**
-- Pass 2B — **NOT STARTED / NEXT GATE**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2B source-text / lexical / spacing corrections — **4**
+- Pass 2B historical-glyph corrections — **0**
+- Pass 2B unresolved questions — **0**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 3 textual corrections — **0**
+- Pass 3 unresolved visual/structural questions — **0**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
 
 ## Exact next activity
 
-Begin **Part005 Part audit**.
+Perform **Part005 final metadata/status synchronization**.
 
-Do not begin final metadata/status synchronization. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.
+Promote only the two final per-page status fields from `needs-review` to `verified`, based on the closed Part audit. Do not modify canonical Tamil body text. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.

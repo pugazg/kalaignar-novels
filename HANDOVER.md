@@ -194,7 +194,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E16_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
 
-## Part005 — ACTIVE / PASS 3 COMPLETE / PART AUDIT NEXT
+## Part005 — ACTIVE / PART AUDIT PASS / FINAL STATUS SYNC NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
 - global scans — **121–150**
@@ -211,16 +211,20 @@ Durable records:
 - Part006 scan151 / printed141 witness begins — **`சொல்லவில்லையே! என்செய்வது, நாமிருவரும் எடுத்துக் கொண்ட உறுதி மொழியின்படி...`**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 3 cumulative — **0 textual corrections; 0 unresolved visual/structural questions**
-- Part audit — **NOT STARTED / NEXT GATE**
+- Part audit — **PASS / COMPLETE**
+- canonical/body mutations caused by Part audit — **0**
+- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
 - Part001–Part004 — **FINAL CLOSED / FROZEN**
 
 Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_005_PASS2A_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_005_PASS2B_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_005_PASS3_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_005_AUDIT.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_005_BOUNDARY_AUDIT_150_151.md`
 
 ## Exact next activity
 
-Begin **Part005 Part audit**.
+Perform **Part005 final metadata/status synchronization**.
 
-Do not modify frozen Part001–Part004 body layers. Do not create Part006 canonical records. Do not begin final metadata/status synchronization until the Part audit closes.
+Promote only the two final per-page status fields when justified by the closed audit. Do not modify canonical Tamil body text, frozen Part001–Part004 body layers, or create Part006 canonical records.
