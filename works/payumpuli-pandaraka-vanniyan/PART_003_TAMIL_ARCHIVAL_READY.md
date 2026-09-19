@@ -317,3 +317,23 @@ Part003 English subsequently completed:
 Current next gate:
 
 **Part003 release/readiness report.**
+
+
+## Post-bilingual release/readiness closure
+
+The earlier Tamil gate in this file remains closed and authoritative.
+
+Part003 subsequently completed:
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness report — **PASS / CLOSED**
+- bilingual English-only corrections retained — **2/2**
+- unresolved release/readiness blockers — **0**
+- source-PDF paths under active Git work subtree — **0**
+- canonical Tamil body changes caused by release/readiness — **0**
+- assembled Tamil body changes caused by release/readiness — **0**
+- maintained English body changes caused by release/readiness — **0**
+- Part004 leakage — **0**
+
+Current next gate:
+
+**Part003 release-ready synchronization.**

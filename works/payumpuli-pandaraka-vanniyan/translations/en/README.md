@@ -289,3 +289,29 @@ Durable record:
 Create and complete **Part003 release/readiness report** `PART_003_RELEASE_REPORT.md`.
 
 Do not begin release-ready synchronization, final Part003 closure or Part004 transcription until release/readiness closes.
+
+
+## Part003 release/readiness — PASS / CLOSED
+
+Part003 release/readiness is now **PASS / CLOSED**.
+
+- canonical Tamil pages — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- assembled Tamil — **5/5 VERIFIED / PASS / CLOSED**
+- maintained English — **5/5 source-checked**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- bilingual corrections retained — **2/2**
+- unresolved release/readiness blockers — **0**
+- source PDFs in active Git subtree — **0**
+- Part004 leakage — **0**
+
+Durable record:
+- `PART_003_RELEASE_REPORT.md`
+
+## Current exact next activity
+
+Perform **Part003 release-ready synchronization**.
+
+Do not begin final Part003 closure or Part004 transcription in the same iteration.

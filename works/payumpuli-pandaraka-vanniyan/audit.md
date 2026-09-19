@@ -908,3 +908,32 @@ Durable record:
 Current next gate:
 
 **Part003 release/readiness report.**
+
+
+## Part003 release/readiness — PASS / CLOSED
+
+Part003 release/readiness has closed after the complete Tamil + assembled + English + bilingual chain.
+
+Accounting:
+- canonical Part003 pages — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- assembled Tamil — **5/5 VERIFIED / PASS / CLOSED**
+- English source-check — **5/5**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections retained — **2/2**
+- unresolved release/readiness blockers — **0**
+- source PDFs under active Git work subtree — **0**
+- Part004 canonical page records — **0**
+- canonical Tamil body edits caused by release/readiness — **0**
+- assembled Tamil body edits caused by release/readiness — **0**
+- maintained English body edits caused by release/readiness — **0**
+- Part004 leakage — **0**
+
+Durable record:
+- `translations/en/PART_003_RELEASE_REPORT.md`
+
+Current next gate:
+
+**Part003 release-ready synchronization.**

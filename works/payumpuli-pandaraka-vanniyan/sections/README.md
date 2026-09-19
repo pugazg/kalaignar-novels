@@ -122,12 +122,14 @@ Part003:
 - Part003 bilingual review — **PASS / CLOSED**
 - Part003 bilingual English-only corrections — **2**
 - Part003 unresolved bilingual holds — **0**
-- Part003 release/readiness — **NEXT GATE / NOT STARTED**
+- Part003 release/readiness — **PASS / CLOSED**
+- Part003 unresolved release/readiness blockers — **0**
+- Part003 release-ready synchronization — **NEXT GATE / NOT STARTED**
 
 - Part004 — **BLOCKED**
 
 ## Exact next activity
 
-Create and complete **Part003 release/readiness report**.
+Perform **Part003 release-ready synchronization**.
 
-Do not begin release-ready synchronization, final Part003 closure or Part004 transcription until release/readiness closes.
+Do not begin final Part003 closure or Part004 transcription in the same gate.

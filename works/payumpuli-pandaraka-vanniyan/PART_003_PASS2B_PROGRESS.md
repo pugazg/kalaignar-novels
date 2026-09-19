@@ -152,6 +152,6 @@ No Batch-3 occurrence required a historical-glyph identity change, ordinary lexi
 
 ## Exact next activity
 
-Create and complete **Part003 release/readiness report**.
+Perform **Part003 release-ready synchronization**.
 
-Current downstream English state: glossary reconciliation **RECONCILED / PASS**, editorial review **PASS / CLOSED**, and whole-Part bilingual review **PASS / CLOSED** with **2** English-only bilingual corrections and **0** unresolved bilingual holds. Do not begin release-ready synchronization, final closure or Part004 transcription until release/readiness closes.
+Current downstream state: Tamil archival and assembled Tamil are closed; E10–E14 are source-checked; glossary reconciliation, editorial review, bilingual review and release/readiness are all **PASS / CLOSED**, with **0** unresolved release/readiness blockers. Do not begin final Part003 closure or Part004 transcription in the same gate.

@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART003 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED — RELEASE/READINESS NEXT**
+**PART003 RELEASE/READINESS — PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
 
 Part001 and Part002 English remain **FINAL CLOSED / FROZEN**.
 
@@ -16,7 +16,7 @@ Part001 and Part002 English remain **FINAL CLOSED / FROZEN**.
 | Glossary | Part003 whole-Part reconciliation | 61–90 | **RECONCILED / PASS** |
 | Editorial | Part003 whole-Part English editorial review | 61–90 | **PASS / CLOSED** |
 | Bilingual | Part003 whole-Part bilingual review | 61–90 | **PASS / CLOSED** |
-| Release | Part003 release/readiness report | 61–90 | **NOT STARTED** |
+| Release | Part003 release/readiness report | 61–90 | **PASS / CLOSED** |
 | Release sync | Part003 release-ready synchronization | 61–90 | **NOT STARTED** |
 | Final closure | Part003 final closure | 61–90 | **NOT STARTED** |
 
@@ -39,6 +39,8 @@ Part001 and Part002 English remain **FINAL CLOSED / FROZEN**.
 - whole-Part bilingual review — **PASS / CLOSED**
 - bilingual English-only corrections — **2**
 - unresolved bilingual holds — **0**
+- release/readiness report — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
 - canonical Tamil edits caused by English planning — **0**
 - assembled Tamil edits caused by English planning — **0**
 - frozen Part001/Part002 English body edits caused by Part003 planning — **0**
@@ -129,6 +131,6 @@ Part004 remains blocked until Part003 final closure.
 
 ## Exact next activity
 
-Create and complete the **Part003 release/readiness report**.
+Perform **Part003 release-ready synchronization** and create `../../PART_003_RELEASE_READY_SYNC.md`.
 
-Create `PART_003_RELEASE_REPORT.md` only in the next gate. Do not begin release-ready synchronization, final Part003 closure or Part004 transcription until release/readiness closes.
+Do not begin final Part003 closure or Part004 transcription in the same gate.

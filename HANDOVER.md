@@ -71,7 +71,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_002_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_002_BOUNDARY_AUDIT_60_61.md`
 
-## Part003 — ACTIVE / BILINGUAL REVIEW CLOSED
+## Part003 — ACTIVE / RELEASE-READINESS CLOSED
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
 - global scans — **61–90**
@@ -109,12 +109,14 @@ Durable records:
 - bilingual review — **PASS / CLOSED**
 - bilingual English-only corrections — **2**
 - unresolved bilingual holds — **0**
-- release/readiness report — **NEXT GATE / NOT STARTED**
+- release/readiness report — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+- release-ready synchronization — **NEXT GATE / NOT STARTED**
 
 Part001 and Part002 are frozen.
 
 ## Exact next activity
 
-Create and complete **Part003 release/readiness report** `translations/en/PART_003_RELEASE_REPORT.md`.
+Perform **Part003 release-ready synchronization** and create `works/payumpuli-pandaraka-vanniyan/PART_003_RELEASE_READY_SYNC.md`.
 
-Do not begin release-ready synchronization, final Part003 closure or Part004 transcription until release/readiness closes.
+Do not begin final Part003 closure or Part004 transcription in the same gate.

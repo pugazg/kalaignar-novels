@@ -1,6 +1,6 @@
 # Part 003 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **RECONCILED / PASS — BILINGUAL REVIEW PASS / CLOSED — RELEASE/READINESS NEXT**
+Status: **RECONCILED / PASS — RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
 
 This glossary is derived only from verified Part003 canonical/assembled Tamil plus already-closed Part001/Part002 project English choices where the **same Tamil source form** recurs.
 
@@ -274,3 +274,20 @@ The E13 `உயிரை வைத்திரு` sequence is now maintained th
 Current next gate:
 
 **Part003 release/readiness report.**
+
+
+## Post-bilingual release/readiness state
+
+Glossary reconciliation remains **RECONCILED / PASS**.
+
+Release/readiness subsequently closed:
+- result — **PASS / CLOSED**
+- protected source variants changed — **0**
+- bilingual English-only corrections retained — **2/2**
+- unresolved glossary/release blockers — **0**
+- canonical Tamil edits — **0**
+- Part004 leakage — **0**
+
+Current next gate:
+
+**Part003 release-ready synchronization.**
