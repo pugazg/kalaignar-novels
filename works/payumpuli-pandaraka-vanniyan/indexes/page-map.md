@@ -542,7 +542,7 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
 - audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION; 150→151 GENUINE CONTINUATION**
-- Part005 — **ACTIVE / AUTHORIZED — BILINGUAL CLOSED / RELEASE NEXT**
+- Part005 — **ACTIVE / AUTHORIZED — RELEASE CLOSED / RELEASE SYNC NEXT**
 - Part005 canonical page records — **30/30 — scans121–150**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - Part005 outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
@@ -581,12 +581,15 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - bilingual English-only corrections — **0**
 - unresolved bilingual holds — **0**
 - unresolved Tamil-fidelity holds — **0**
-- release/readiness — **NOT STARTED / NEXT GATE**
+- release/readiness — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+- source PDFs in active work tree — **0**
+- release-ready synchronization — **NOT STARTED / NEXT GATE**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Create and complete **Part005 release/readiness report**.
+Perform **Part005 release-ready synchronization**.
 
 Preserve both audited Part005 boundaries. Do not modify frozen Part001–Part004 body/assembled/English layers. Use only the closed Part005 canonical/assembled Tamil authority. Preserve frozen prior-Part English and do not import Part006 body text.

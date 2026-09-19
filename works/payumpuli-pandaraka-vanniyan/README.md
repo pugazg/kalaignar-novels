@@ -227,7 +227,7 @@ Durable Part004 records:
 - `translations/en/E17_SOURCE_CHECK.md`
 - `translations/en/E16_SOURCE_CHECK.md`
 
-## Part005 — ACTIVE / BILINGUAL CLOSED / RELEASE NEXT
+## Part005 — ACTIVE / RELEASE CLOSED / RELEASE SYNC NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
 - scans — **121–150**
@@ -272,7 +272,10 @@ Durable Part004 records:
 - bilingual English-only corrections — **0**
 - unresolved bilingual holds — **0**
 - unresolved Tamil-fidelity holds — **0**
-- release/readiness — **NOT STARTED / NEXT GATE**
+- release/readiness — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+- source PDFs in active work tree — **0**
+- release-ready synchronization — **NOT STARTED / NEXT GATE**
 
 Notable structure:
 - scan121 continues chapter15 `இருவர் உள்ளம்`;
@@ -299,6 +302,6 @@ Durable Part005 records now include:
 
 ## Exact next activity
 
-Create and complete **Part005 release/readiness report**.
+Perform **Part005 release-ready synchronization**.
 
 Do not modify frozen Part001–Part004 canonical Tamil, assembled Tamil or maintained English body files. Use only closed Part005 canonical/assembled Tamil authority and do not import Part006 body text.

@@ -104,7 +104,7 @@ For every `N→N+1` boundary:
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
-- Part005 — **ACTIVE / AUTHORIZED — BILINGUAL CLOSED / RELEASE NEXT**
+- Part005 — **ACTIVE / AUTHORIZED — RELEASE CLOSED / RELEASE SYNC NEXT**
 - Part005 canonical page records — **30/30 — scans121–150**
 - Part005 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
@@ -142,7 +142,10 @@ For every `N→N+1` boundary:
 - bilingual English-only corrections — **0**
 - unresolved bilingual holds — **0**
 - unresolved Tamil-fidelity holds — **0**
-- release/readiness — **NOT STARTED / NEXT GATE**
+- release/readiness — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+- source PDFs in active work tree — **0**
+- release-ready synchronization — **NOT STARTED / NEXT GATE**
 - split-boundary classifications — **5 / 15 audited**
 
 Audited boundaries:

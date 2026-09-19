@@ -640,6 +640,17 @@ Durable record:
 Durable record:
 - `PART_005_BILINGUAL_REVIEW.md`
 
+## Part005 release/readiness
+
+- result — **PASS / CLOSED**
+- unresolved blockers — **0**
+- active-work source PDFs — **0**
+- body edits caused by release/readiness — **0**
+- Part006 leakage — **0**
+
+Durable record:
+- `PART_005_RELEASE_REPORT.md`
+
 ## Current exact next activity
 
-Create and complete **Part005 release/readiness report**.
+Perform **Part005 release-ready synchronization**.
