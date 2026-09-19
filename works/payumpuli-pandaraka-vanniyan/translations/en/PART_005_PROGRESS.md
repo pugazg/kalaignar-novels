@@ -2,19 +2,19 @@
 
 ## Overall state
 
-**PLANNING/SETUP — COMPLETE / PASS — E20 NEXT**
+**E20–E26 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 Part001–Part004 English remain **FINAL CLOSED / FROZEN**.
 
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
-| **E20** | section23 — `இருவர் உள்ளம்` continuation | 121 | **NOT STARTED / NEXT** |
-| **E21** | section24 — `பண்டாரகனின் சகோதரிகள்!` | 122–128 | **NOT STARTED** |
-| **E22** | section25 — `கண்டிப் பயணம்!` | 129–134 | **NOT STARTED** |
-| **E23** | section26 — `நண்பர்கள் சந்திப்பு!` | 135–139 | **NOT STARTED** |
-| **E24** | section27 — `மனமில்லா மணம்!` | 140–145 | **NOT STARTED** |
-| **E25** | section28 — `சதி வலை!` | 146–149 | **NOT STARTED** |
-| **E26** | section29 — `குருவியும் - குயிலும்!` | 150 | **NOT STARTED** |
+| **E20** | section23 — `இருவர் உள்ளம்` continuation | 121 | **SOURCE-CHECKED / COMPLETE** |
+| **E21** | section24 — `பண்டாரகனின் சகோதரிகள்!` | 122–128 | **SOURCE-CHECKED / COMPLETE** |
+| **E22** | section25 — `கண்டிப் பயணம்!` | 129–134 | **SOURCE-CHECKED / COMPLETE** |
+| **E23** | section26 — `நண்பர்கள் சந்திப்பு!` | 135–139 | **SOURCE-CHECKED / COMPLETE** |
+| **E24** | section27 — `மனமில்லா மணம்!` | 140–145 | **SOURCE-CHECKED / COMPLETE** |
+| **E25** | section28 — `சதி வலை!` | 146–149 | **SOURCE-CHECKED / COMPLETE** |
+| **E26** | section29 — `குருவியும் - குயிலும்!` | 150 | **SOURCE-CHECKED / COMPLETE** |
 | Glossary | Part005 whole-Part reconciliation | 121–150 | **NOT STARTED** |
 | Editorial | Part005 whole-Part English editorial review | 121–150 | **NOT STARTED** |
 | Bilingual | Part005 whole-Part bilingual review | 121–150 | **NOT STARTED** |
@@ -29,8 +29,8 @@ Part001–Part004 English remain **FINAL CLOSED / FROZEN**.
 - Tamil archival-ready — **PASS / CLOSED**
 - Tamil assembled files — **7/7 VERIFIED**
 - Part005 English planned files — **7**
-- Part005 English translated files — **0/7**
-- Part005 English source-checked files — **0/7**
+- Part005 English translated files — **7/7**
+- Part005 English source-checked files — **7/7**
 - unresolved English planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -84,6 +84,21 @@ Created:
 
 No Part005 English prose is drafted in this planning gate.
 
+## E20–E26 closure
+
+- E20 — **SOURCE-CHECKED / COMPLETE — scan121**
+- E21 — **SOURCE-CHECKED / COMPLETE — scans122–128**
+- E22 — **SOURCE-CHECKED / COMPLETE — scans129–134**
+- E23 — **SOURCE-CHECKED / COMPLETE — scans135–139**
+- E24 — **SOURCE-CHECKED / COMPLETE — scans140–145**
+- E25 — **SOURCE-CHECKED / COMPLETE — scans146–149**
+- E26 — **SOURCE-CHECKED / COMPLETE — scan150**
+- translated/source-checked files — **7/7**
+- unresolved English source-check holds — **0**
+- canonical / assembled Tamil edits — **0**
+- frozen prior-Part English body edits — **0**
+- Part006 leakage — **0**
+
 ## Exact next activity
 
-**E20 — draft + source-check — scan121.**
+**Part005 whole-Part English glossary reconciliation.**

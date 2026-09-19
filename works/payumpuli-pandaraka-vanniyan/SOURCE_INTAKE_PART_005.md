@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / ENGLISH PLANNING COMPLETE / E20 NEXT.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / E20–E26 SOURCE-CHECKED / GLOSSARY NEXT.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **121–150**;
@@ -42,7 +42,7 @@ The canonical `scan_page` remains the overall scan number **121–150**.
 
 ## Current gate
 
-Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / ENGLISH PLANNING COMPLETE / E20 NEXT**.
+Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / E20–E26 SOURCE-CHECKED / GLOSSARY NEXT**.
 
 - incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
@@ -73,7 +73,8 @@ Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / ENGLISH
 - Part006 body leakage — **0**
 - English translation planning/setup — **COMPLETE / PASS**
 - planned English batches — **E20–E26 / 7**
-- translated/source-checked English files — **0/7**
-- E20 — **NOT STARTED / NEXT GATE**
+- translated/source-checked English files — **7/7**
+- E20–E26 — **SOURCE-CHECKED / COMPLETE**
+- English glossary reconciliation — **NOT STARTED / NEXT GATE**
 
 Part004 remains **FINAL CLOSED / FROZEN**. Part005 assembled Tamil is closed; the exact next gate is English translation planning/setup.

@@ -1,6 +1,6 @@
 # Part 005 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING LOCK / ACTIVE — E20 NEXT**
+Status: **E20–E26 SOURCE-CHECKED / ACTIVE — WHOLE-PART RECONCILIATION NEXT**
 
 This glossary is derived only from verified Part005 Tamil plus frozen earlier project-English choices where the **same Tamil source form** recurs.
 

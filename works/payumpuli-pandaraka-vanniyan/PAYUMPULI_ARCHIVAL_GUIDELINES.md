@@ -140,7 +140,7 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part004 release/readiness: PASS / CLOSED**
 - **Part004 release-ready synchronization: PASS / CLOSED**
 - **Part004 final closure: PASS / CLOSED / FROZEN**
-- **Part005: ACTIVE / AUTHORIZED — ENGLISH PLANNING COMPLETE / E20 NEXT**
+- **Part005: ACTIVE / AUTHORIZED — E20–E26 SOURCE-CHECKED / GLOSSARY NEXT**
 - **Part005 canonical range: scans121–150**
 - **Part005 canonical page records: 30/30 — scans121–150**
 - **Part005 incoming 120→121: GENUINE CONTINUATION / AUDITED**
@@ -168,6 +168,6 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 
 ## Exact next gate
 
-Perform **E20 draft + source-check — scan121 / section23**.
+Perform **Part005 whole-Part English glossary reconciliation**.
 
 Preserve frozen Part001–Part004 body and English layers and both audited Part005 boundaries. Use only the closed Part005 canonical/assembled Tamil authority; do not import Part006 body text.

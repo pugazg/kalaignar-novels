@@ -1,32 +1,35 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part005 E20 draft + source-check
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part005 whole-Part English glossary reconciliation
 
-Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 Part001–Part004 are **FINAL CLOSED / FROZEN**.
 
-Part005 Tamil is closed:
-- canonical scans121–150 — **30/30 verified**
-- Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
+Part005:
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **7/7 VERIFIED / CLOSED**
 - English planning/setup — **COMPLETE / PASS**
-- planned batches — **E20–E26**
+- E20–E26 — **7/7 SOURCE-CHECKED / COMPLETE**
+- unresolved English source-check holds — **0**
 
-Read first:
-1. `translations/en/PART_005_TRANSLATION_PLAN.md`
-2. `translations/en/PART_005_GLOSSARY.md`
+Read:
+1. `translations/en/PART_005_GLOSSARY.md`
+2. `translations/en/PART_005_TRANSLATION_PLAN.md`
 3. `translations/en/PART_005_PROGRESS.md`
-4. `sections/23-iruvar-ullam-part005.md`
-5. canonical scan121 page record as needed
+4. all seven Part005 English section files
+5. E20–E26 source-check records
+6. frozen earlier glossaries only as precedent
 
 Exact activity:
-- draft `translations/en/sections/23-two-hearts-part005.md`;
-- source-check it against verified Part005 Tamil;
-- create `translations/en/E20_SOURCE_CHECK.md`;
-- preserve incoming 120→121 as provenance only; do not import frozen Part004 English;
+- reconcile all Part005 names, source variants, titles and recurring terms across seven English files;
+- preserve `Piyasil / Piyasili / Piyasali` as distinct source variants;
+- preserve incoming `*yaattuk kaayai*` without reconstructing frozen Part004;
+- preserve outgoing E26 incompleteness without Part006 completion;
+- create `PART_005_GLOSSARY_RECONCILIATION.md`;
+- update controls;
 - canonical/assembled Tamil edits **0**;
-- frozen prior-Part English edits **0**;
+- frozen Part001–Part004 English edits **0**;
 - Part006 leakage **0**.
 
-Stop after **E20 SOURCE-CHECKED / COMPLETE**.
+Stop after **RECONCILED / PASS**.
 
-Exact next gate: **E21 draft + source-check — scans122–128**.
+Exact next gate: **Part005 English editorial review**.

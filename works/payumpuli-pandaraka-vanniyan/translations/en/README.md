@@ -581,6 +581,8 @@ Part005 Tamil prerequisites are closed:
 
 Part005 English planning/setup is **COMPLETE / PASS**.
 
+Part005 E20–E26 drafting/source-check is now **7/7 SOURCE-CHECKED / COMPLETE**.
+
 Active controls:
 - `PART_005_TRANSLATION_PLAN.md`
 - `PART_005_GLOSSARY.md`
@@ -594,8 +596,16 @@ Planning created no English body prose and changed:
 - frozen Part001–Part004 English body — **0**
 - Part006 content — **0**
 
+## Part005 English batch closure
+
+- E20–E26 — **SOURCE-CHECKED / COMPLETE**
+- maintained Part005 English files — **7/7**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001–Part004 English body edits — **0**
+- Part006 leakage — **0**
+
 ## Current exact next activity
 
-Perform **E20 draft + source-check — scan121 / section23**.
-
-Do not begin E21 until E20 is source-checked and closed.
+Perform **Part005 whole-Part English glossary reconciliation**.
