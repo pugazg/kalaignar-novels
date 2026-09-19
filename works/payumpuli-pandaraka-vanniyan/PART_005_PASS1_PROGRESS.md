@@ -22,7 +22,8 @@ Part001–Part004 remain **FINAL CLOSED / FROZEN**.
 - incoming 120→121 boundary: **GENUINE CONTINUATION / AUDITED**
 - outgoing 150→151 boundary: **GENUINE CONTINUATION / AUDITED**
 - Pass 2A: **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text corrections; 0 unresolved**
-- Pass 2B: **NOT STARTED / NEXT GATE**
+- Pass 2B: **COMPLETE / PASS — 30/30 REVIEWED — 4 source-text / lexical / spacing corrections; 0 historical-glyph corrections; 0 unresolved**
+- Pass 3: **NOT STARTED / NEXT GATE**
 
 All Part005 Pass-1 records remain non-final:
 - `status: "needs-review"`
@@ -98,6 +99,6 @@ The controlling source is the user-supplied Part005 split PDF rendered to page i
 
 ## Exact next activity
 
-Begin **Part005 Pass 2B — independent lexical / historical-glyph reread, global scans121–130 / local pages1–10**.
+Begin **Part005 Pass 3 — meaningful visual / structural verification, global scans121–130 / local pages1–10**.
 
-Do not begin Pass 3. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.
+Do not begin Part audit. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.

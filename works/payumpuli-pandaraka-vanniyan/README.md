@@ -227,7 +227,7 @@ Durable Part004 records:
 - `translations/en/E17_SOURCE_CHECK.md`
 - `translations/en/E16_SOURCE_CHECK.md`
 
-## Part005 — ACTIVE / PASS 2A COMPLETE / PASS 2B NEXT
+## Part005 — ACTIVE / PASS 2B COMPLETE / PASS 3 NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
 - scans — **121–150**
@@ -238,8 +238,9 @@ Durable Part004 records:
 - unresolved Pass-1 source-reading holds — **0**
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 2A cumulative source-text corrections — **7**
-- Pass 2A unresolved textual questions — **0**
-- Pass 2B — **NOT STARTED / NEXT GATE**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2B cumulative — **4 source-text / lexical / spacing corrections; 0 historical-glyph corrections; 0 unresolved**
+- Pass 3 — **NOT STARTED / NEXT GATE**
 
 Notable structure:
 - scan121 continues chapter15 `இருவர் உள்ளம்`;
@@ -255,10 +256,11 @@ Notable structure:
 Durable Part005 records now include:
 - `PART_005_PASS1_PROGRESS.md`
 - `PART_005_PASS2A_PROGRESS.md`
+- `PART_005_PASS2B_PROGRESS.md`
 - `PART_005_BOUNDARY_AUDIT_150_151.md`
 
 ## Exact next activity
 
-Begin **Part005 Pass 2B — scans121–130 / local pages1–10**.
+Begin **Part005 Pass 3 — scans121–130 / local pages1–10**.
 
 Do not modify frozen Part001–Part004 canonical Tamil, assembled Tamil or maintained English body files. Do not create Part006 canonical records.
