@@ -146,10 +146,14 @@ No canonical body correction was required in scans111–120.
 
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED; 0 textual corrections; 0 unresolved visual/structural questions**
 - Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **NOT STARTED**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- unresolved status exceptions — **0**
+- documentation synchronization — **NOT STARTED**
 
 ## Exact next activity
 
-Perform **Part004 final metadata/status synchronization** across scans91–120.
+Perform the separate **Part004 documentation synchronization** gate.
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 body files.

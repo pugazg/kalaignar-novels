@@ -44,7 +44,11 @@ At Pass-3 closure all pages deliberately remain `status: "needs-review"` / `visu
 - cumulative Pass 3 textual corrections — **0**
 - cumulative unresolved visual/structural questions — **0**
 - Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **NOT STARTED**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- unresolved status exceptions — **0**
+- documentation synchronization — **NOT STARTED**
 
 ## Batch 1 — scans91–100
 
@@ -122,6 +126,6 @@ No Pass-3 blocker remains for the **Part audit** gate.
 
 ## Exact next activity
 
-Perform **Part004 final metadata/status synchronization** across scans91–120.
+Perform the separate **Part004 documentation synchronization** gate.
 
 Do not begin Part005 transcription. Preserve frozen Part001–Part003 body files.

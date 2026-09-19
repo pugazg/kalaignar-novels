@@ -177,7 +177,17 @@ because final promotion belongs to the next dedicated metadata-only gate.
 
 ## Exact next activity
 
-Perform **Part004 final metadata/status synchronization**.
+The dedicated final metadata/status synchronization subsequently completed:
+
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- unresolved status exceptions — **0**
+
+Durable record:
+- `PART_004_FINAL_STATUS_SYNC.md`
+
+Perform the separate **Part004 documentation synchronization** gate.
 
 That next gate may promote only the two final per-page status fields from `needs-review` to `verified`, based on this closed audit evidence.
 
