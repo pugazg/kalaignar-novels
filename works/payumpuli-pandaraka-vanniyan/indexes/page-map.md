@@ -126,36 +126,36 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 004 | 28 | 118 | 108 | `இருவர் உள்ளம்` continuation; verified | verified | `pages/0118-iruvar-ullam.md` |
 | 004 | 29 | 119 | 109 | `இருவர் உள்ளம்` continuation; verified | verified | `pages/0119-iruvar-ullam.md` |
 | 004 | 30 | 120 | 110 | `இருவர் உள்ளம்` continuation; 120→121 genuine continuation retained | verified | `pages/0120-iruvar-ullam.md` |
-| 005 | 1 | 121 | 111 | `இருவர் உள்ளம்` continuation; audited 120→121 split preserved; Pass2B reviewed | needs-review | `pages/0121-iruvar-ullam.md` |
-| 005 | 2 | 122 | 112 | chapter16 opening `பண்டாரகனின் சகோதரிகள்!`; Pass2B reviewed | needs-review | `pages/0122-pandaarakanin-sakotharigal.md` |
-| 005 | 3 | 123 | — | full-page colour illustration; no printed text or visible folio; Pass2B reviewed | needs-review | `pages/0123-pandaarakanin-sakotharigal.md` |
-| 005 | 4 | 124 | 114 | `பண்டாரகனின் சகோதரிகள்!` continuation after illustration; Pass2B reviewed | needs-review | `pages/0124-pandaarakanin-sakotharigal.md` |
-| 005 | 5 | 125 | 115 | `பண்டாரகனின் சகோதரிகள்!` continuation; Pass2B reviewed | needs-review | `pages/0125-pandaarakanin-sakotharigal.md` |
-| 005 | 6 | 126 | 116 | `பண்டாரகனின் சகோதரிகள்!` continuation; Pass2B reviewed | needs-review | `pages/0126-pandaarakanin-sakotharigal.md` |
-| 005 | 7 | 127 | 117 | `பண்டாரகனின் சகோதரிகள்!` continuation; Pass2B reviewed | needs-review | `pages/0127-pandaarakanin-sakotharigal.md` |
-| 005 | 8 | 128 | 118 | `பண்டாரகனின் சகோதரிகள்!` close; large intentional blank lower field; Pass2B reviewed | needs-review | `pages/0128-pandaarakanin-sakotharigal.md` |
-| 005 | 9 | 129 | 119 | chapter17 opening `கண்டிப் பயணம்!`; Pass2B reviewed | needs-review | `pages/0129-kandip-payanam.md` |
-| 005 | 10 | 130 | 120 | `கண்டிப் பயணம்!` continuation with displayed verse; Pass2B reviewed | needs-review | `pages/0130-kandip-payanam.md` |
-| 005 | 11 | 131 | 121 | `கண்டிப் பயணம்!` continuation; displayed verse + prose; Pass2B reviewed | needs-review | `pages/0131-kandip-payanam.md` |
-| 005 | 12 | 132 | 122 | `கண்டிப் பயணம்!` continuation; Pass2B reviewed | needs-review | `pages/0132-kandip-payanam.md` |
-| 005 | 13 | 133 | 123 | `கண்டிப் பயணம்!` continuation; Pass2B reviewed | needs-review | `pages/0133-kandip-payanam.md` |
-| 005 | 14 | 134 | 124 | `கண்டிப் பயணம்!` close; large intentional blank lower field; Pass2B reviewed | needs-review | `pages/0134-kandip-payanam.md` |
-| 005 | 15 | 135 | 125 | chapter18 opening `நண்பர்கள் சந்திப்பு!`; Pass2B reviewed | needs-review | `pages/0135-nanbargal-santhippu.md` |
-| 005 | 16 | 136 | 126 | `நண்பர்கள் சந்திப்பு!` continuation; Pass2B reviewed | needs-review | `pages/0136-nanbargal-santhippu.md` |
-| 005 | 17 | 137 | 127 | `நண்பர்கள் சந்திப்பு!` continuation; Pass2B reviewed | needs-review | `pages/0137-nanbargal-santhippu.md` |
-| 005 | 18 | 138 | 128 | `நண்பர்கள் சந்திப்பு!` continuation; Pass2B reviewed | needs-review | `pages/0138-nanbargal-santhippu.md` |
-| 005 | 19 | 139 | 129 | `நண்பர்கள் சந்திப்பு!` continuation; Pass2B reviewed | needs-review | `pages/0139-nanbargal-santhippu.md` |
-| 005 | 20 | 140 | 130 | chapter19 opening `மனமில்லா மணம்!`; ends mid-word `அரண்`; Pass2B reviewed | needs-review | `pages/0140-manamillaa-manam.md` |
-| 005 | 21 | 141 | 131 | `மனமில்லா மணம்!` continuation; joins scan140 `அரண்` → `மனையின்`; Pass2B reviewed | needs-review | `pages/0141-manamillaa-manam.md` |
-| 005 | 22 | 142 | 132 | `மனமில்லா மணம்!` continuation; Pass2B reviewed | needs-review | `pages/0142-manamillaa-manam.md` |
-| 005 | 23 | 143 | 133 | `மனமில்லா மணம்!` continuation; Pass2B reviewed | needs-review | `pages/0143-manamillaa-manam.md` |
-| 005 | 24 | 144 | 134 | `மனமில்லா மணம்!` continuation; Pass2B reviewed | needs-review | `pages/0144-manamillaa-manam.md` |
-| 005 | 25 | 145 | 135 | `மனமில்லா மணம்!` close; large intentional blank lower field; Pass2B reviewed | needs-review | `pages/0145-manamillaa-manam.md` |
-| 005 | 26 | 146 | 136 | chapter20 opening `சதி வலை!`; Pass2B reviewed | needs-review | `pages/0146-sathi-valai.md` |
-| 005 | 27 | 147 | 137 | `சதி வலை!` continuation; Pass2B reviewed | needs-review | `pages/0147-sathi-valai.md` |
-| 005 | 28 | 148 | 138 | `சதி வலை!` continuation; ends `நானே`; Pass2B reviewed | needs-review | `pages/0148-sathi-valai.md` |
-| 005 | 29 | 149 | 139 | `சதி வலை!` continuation; begins `சிந்திக்கிறேன்!`; Pass2B reviewed | needs-review | `pages/0149-sathi-valai.md` |
-| 005 | 30 | 150 | 140 | chapter21 opening `குருவியும் - குயிலும்!`; 150→151 genuine continuation audited; Pass2B reviewed | needs-review | `pages/0150-kuruviyum-kuyilum.md` |
+| 005 | 1 | 121 | 111 | `இருவர் உள்ளம்` continuation; audited 120→121 split preserved; Pass3 reviewed | needs-review | `pages/0121-iruvar-ullam.md` |
+| 005 | 2 | 122 | 112 | chapter16 opening `பண்டாரகனின் சகோதரிகள்!`; Pass3 reviewed | needs-review | `pages/0122-pandaarakanin-sakotharigal.md` |
+| 005 | 3 | 123 | — | full-page colour illustration; no printed text or visible folio; Pass3 reviewed | needs-review | `pages/0123-pandaarakanin-sakotharigal.md` |
+| 005 | 4 | 124 | 114 | `பண்டாரகனின் சகோதரிகள்!` continuation after illustration; Pass3 reviewed | needs-review | `pages/0124-pandaarakanin-sakotharigal.md` |
+| 005 | 5 | 125 | 115 | `பண்டாரகனின் சகோதரிகள்!` continuation; Pass3 reviewed | needs-review | `pages/0125-pandaarakanin-sakotharigal.md` |
+| 005 | 6 | 126 | 116 | `பண்டாரகனின் சகோதரிகள்!` continuation; Pass3 reviewed | needs-review | `pages/0126-pandaarakanin-sakotharigal.md` |
+| 005 | 7 | 127 | 117 | `பண்டாரகனின் சகோதரிகள்!` continuation; Pass3 reviewed | needs-review | `pages/0127-pandaarakanin-sakotharigal.md` |
+| 005 | 8 | 128 | 118 | `பண்டாரகனின் சகோதரிகள்!` close; large intentional blank lower field; Pass3 reviewed | needs-review | `pages/0128-pandaarakanin-sakotharigal.md` |
+| 005 | 9 | 129 | 119 | chapter17 opening `கண்டிப் பயணம்!`; Pass3 reviewed | needs-review | `pages/0129-kandip-payanam.md` |
+| 005 | 10 | 130 | 120 | `கண்டிப் பயணம்!` continuation with displayed verse; Pass3 reviewed | needs-review | `pages/0130-kandip-payanam.md` |
+| 005 | 11 | 131 | 121 | `கண்டிப் பயணம்!` continuation; displayed verse + prose; Pass3 reviewed | needs-review | `pages/0131-kandip-payanam.md` |
+| 005 | 12 | 132 | 122 | `கண்டிப் பயணம்!` continuation; Pass3 reviewed | needs-review | `pages/0132-kandip-payanam.md` |
+| 005 | 13 | 133 | 123 | `கண்டிப் பயணம்!` continuation; Pass3 reviewed | needs-review | `pages/0133-kandip-payanam.md` |
+| 005 | 14 | 134 | 124 | `கண்டிப் பயணம்!` close; large intentional blank lower field; Pass3 reviewed | needs-review | `pages/0134-kandip-payanam.md` |
+| 005 | 15 | 135 | 125 | chapter18 opening `நண்பர்கள் சந்திப்பு!`; Pass3 reviewed | needs-review | `pages/0135-nanbargal-santhippu.md` |
+| 005 | 16 | 136 | 126 | `நண்பர்கள் சந்திப்பு!` continuation; Pass3 reviewed | needs-review | `pages/0136-nanbargal-santhippu.md` |
+| 005 | 17 | 137 | 127 | `நண்பர்கள் சந்திப்பு!` continuation; Pass3 reviewed | needs-review | `pages/0137-nanbargal-santhippu.md` |
+| 005 | 18 | 138 | 128 | `நண்பர்கள் சந்திப்பு!` continuation; Pass3 reviewed | needs-review | `pages/0138-nanbargal-santhippu.md` |
+| 005 | 19 | 139 | 129 | `நண்பர்கள் சந்திப்பு!` continuation; Pass3 reviewed | needs-review | `pages/0139-nanbargal-santhippu.md` |
+| 005 | 20 | 140 | 130 | chapter19 opening `மனமில்லா மணம்!`; ends mid-word `அரண்`; Pass3 reviewed | needs-review | `pages/0140-manamillaa-manam.md` |
+| 005 | 21 | 141 | 131 | `மனமில்லா மணம்!` continuation; joins scan140 `அரண்` → `மனையின்`; Pass3 reviewed | needs-review | `pages/0141-manamillaa-manam.md` |
+| 005 | 22 | 142 | 132 | `மனமில்லா மணம்!` continuation; Pass3 reviewed | needs-review | `pages/0142-manamillaa-manam.md` |
+| 005 | 23 | 143 | 133 | `மனமில்லா மணம்!` continuation; Pass3 reviewed | needs-review | `pages/0143-manamillaa-manam.md` |
+| 005 | 24 | 144 | 134 | `மனமில்லா மணம்!` continuation; Pass3 reviewed | needs-review | `pages/0144-manamillaa-manam.md` |
+| 005 | 25 | 145 | 135 | `மனமில்லா மணம்!` close; large intentional blank lower field; Pass3 reviewed | needs-review | `pages/0145-manamillaa-manam.md` |
+| 005 | 26 | 146 | 136 | chapter20 opening `சதி வலை!`; Pass3 reviewed | needs-review | `pages/0146-sathi-valai.md` |
+| 005 | 27 | 147 | 137 | `சதி வலை!` continuation; Pass3 reviewed | needs-review | `pages/0147-sathi-valai.md` |
+| 005 | 28 | 148 | 138 | `சதி வலை!` continuation; ends `நானே`; Pass3 reviewed | needs-review | `pages/0148-sathi-valai.md` |
+| 005 | 29 | 149 | 139 | `சதி வலை!` continuation; begins `சிந்திக்கிறேன்!`; Pass3 reviewed | needs-review | `pages/0149-sathi-valai.md` |
+| 005 | 30 | 150 | 140 | chapter21 opening `குருவியும் - குயிலும்!`; 150→151 genuine continuation audited; Pass3 reviewed | needs-review | `pages/0150-kuruviyum-kuyilum.md` |
 | 006 | 1 | 151 | — | unclassified — direct visual audit pending | not-started | — |
 | 006 | 2 | 152 | — | unclassified — direct visual audit pending | not-started | — |
 | 006 | 3 | 153 | — | unclassified — direct visual audit pending | not-started | — |
@@ -542,7 +542,7 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
 - audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION; 150→151 GENUINE CONTINUATION**
-- Part005 — **ACTIVE / AUTHORIZED — PASS 2B COMPLETE / PASS 3 NEXT**
+- Part005 — **ACTIVE / AUTHORIZED — PASS 3 COMPLETE / PART AUDIT NEXT**
 - Part005 canonical page records — **30/30 — scans121–150**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - Part005 outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
@@ -550,12 +550,13 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part005 unresolved Pass-1 source-reading holds — **0**
 - Part005 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text corrections; 0 unresolved**
 - Part005 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 4 source-text / lexical / spacing corrections; 0 historical-glyph corrections; 0 unresolved**
-- Part005 Pass 3 — **NOT STARTED / NEXT GATE**
+- Part005 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
+- Part005 Part audit — **NOT STARTED / NEXT GATE**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Begin **Part005 Pass 3 — global scans121–130 / local pages1–10**.
+Begin **Part005 Part audit**.
 
-Preserve both audited Part005 boundaries. Do not modify frozen Part001–Part004 body layers. Do not create Part006 canonical records and do not begin Part audit until Part005 Pass 3 covers scans121–150.
+Preserve both audited Part005 boundaries. Do not modify frozen Part001–Part004 body layers. Do not create Part006 canonical records and do not begin final metadata/status synchronization until the Part audit closes.

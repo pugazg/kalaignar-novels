@@ -38,7 +38,8 @@ For every physical scan 121–150:
 - status promotions — **0**
 - Part006 canonical records created — **0**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 4 source-text / lexical / spacing corrections; 0 historical-glyph corrections; 0 unresolved**
-- Pass 3 — **NOT STARTED / NEXT GATE**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
+- Part audit — **NOT STARTED / NEXT GATE**
 
 ## Corrections applied
 
@@ -106,6 +107,6 @@ All page records remain `needs-review` pending Pass 2B, Pass 3, Part audit and f
 
 ## Exact next activity
 
-Begin **Part005 Pass 3 — meaningful visual / structural verification, global scans121–130 / local pages1–10**.
+Begin **Part005 Part audit**.
 
-Do not begin Part audit. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.
+Do not begin final metadata/status synchronization. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.

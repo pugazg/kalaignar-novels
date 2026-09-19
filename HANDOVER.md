@@ -194,7 +194,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E16_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
 
-## Part005 — ACTIVE / PASS 2B COMPLETE / PASS 3 NEXT
+## Part005 — ACTIVE / PASS 3 COMPLETE / PART AUDIT NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
 - global scans — **121–150**
@@ -209,7 +209,9 @@ Durable records:
 - Pass 2B cumulative — **4 source-text / lexical / spacing corrections; 0 historical-glyph corrections; 0 unresolved**
 - scan150 / printed140 terminal fragment — **`என்னுடன் வாழ வேண்டாம் என நான்`**
 - Part006 scan151 / printed141 witness begins — **`சொல்லவில்லையே! என்செய்வது, நாமிருவரும் எடுத்துக் கொண்ட உறுதி மொழியின்படி...`**
-- Pass 3 — **NOT STARTED / NEXT GATE**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 3 cumulative — **0 textual corrections; 0 unresolved visual/structural questions**
+- Part audit — **NOT STARTED / NEXT GATE**
 - Part001–Part004 — **FINAL CLOSED / FROZEN**
 
 Durable records:
@@ -219,6 +221,6 @@ Durable records:
 
 ## Exact next activity
 
-Begin **Part005 Pass 3 — global scans121–130 / local pages1–10**.
+Begin **Part005 Part audit**.
 
-Do not modify frozen Part001–Part004 body layers. Do not create Part006 canonical records. Do not begin Part audit until Part005 Pass 3 covers scans121–150.
+Do not modify frozen Part001–Part004 body layers. Do not create Part006 canonical records. Do not begin final metadata/status synchronization until the Part audit closes.

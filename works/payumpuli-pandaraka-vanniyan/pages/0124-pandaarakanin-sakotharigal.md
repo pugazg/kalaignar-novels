@@ -36,4 +36,31 @@ transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch s
 - the physical page ends mid-sentence after என்று கேலிப் புன்னகை புரிந்தவாறு,
 - status and visual fidelity remain needs-review
 
+## Formal Part005 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue and physical page-boundary comparison completed against the user-supplied Part005 source pixels;
+- source-text corrections: **1** — source-confirmed `வந்தால்`;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
+
+## Formal Part005 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the user-supplied Part005 source pixels;
+- source-text / lexical / spacing corrections: **1** — source-confirmed `ஓடிப் போகிற`;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 3, Part audit and final status synchronization.
+
+## Formal Part005 Pass 3 review
+
+- full-page visual / structural verification completed against the rendered Part005 source image;
+- structural result: normal framed body continuation after the intervening illustration; printed page 114; page ends mid-sentence;
+- heading hierarchy, body-frame / non-body classification, paragraph/dialogue blocks, printed pagination and physical page-boundary state checked as applicable;
+- textual corrections from Pass 3: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Part audit and final status synchronization.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 124; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: 114; PASS 1 TEXT-COMPLETE / needs-review -->

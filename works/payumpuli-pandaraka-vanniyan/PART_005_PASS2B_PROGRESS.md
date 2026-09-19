@@ -37,7 +37,8 @@ Pass 2B does not modernize or regularize the source.
 - unresolved lexical / historical-glyph questions: **0**
 - status promotions: **0**
 - Part006 canonical records created: **0**
-- Pass 3 — **NOT STARTED / NEXT GATE**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
+- Part audit — **NOT STARTED / NEXT GATE**
 
 ## Corrections applied
 
@@ -100,6 +101,6 @@ All Part005 page records remain `status: "needs-review"` and `visual_fidelity: "
 
 ## Exact next activity
 
-Begin **Part005 Pass 3 — meaningful visual / structural verification, global scans121–130 / local pages1–10**.
+Begin **Part005 Part audit**.
 
-Do not begin Part audit until Pass 3 covers all scans121–150. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.
+Do not begin final metadata/status synchronization until the Part audit closes. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.

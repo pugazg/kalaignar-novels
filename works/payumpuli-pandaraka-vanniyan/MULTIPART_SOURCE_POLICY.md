@@ -104,14 +104,15 @@ For every `N→N+1` boundary:
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
-- Part005 — **ACTIVE / AUTHORIZED — PASS 2B COMPLETE / PASS 3 NEXT**
+- Part005 — **ACTIVE / AUTHORIZED — PASS 3 COMPLETE / PART AUDIT NEXT**
 - Part005 canonical page records — **30/30 — scans121–150**
 - Part005 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - Part005 outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
 - Part005 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text corrections; 0 unresolved**
 - Part005 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 4 source-text / lexical / spacing corrections; 0 historical-glyph corrections; 0 unresolved**
-- Part005 Pass 3 — **NOT STARTED / NEXT GATE**
+- Part005 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
+- Part005 Part audit — **NOT STARTED / NEXT GATE**
 - split-boundary classifications — **5 / 15 audited**
 
 Audited boundaries:
@@ -132,6 +133,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part005 Pass 3 — global scans121–130 / local pages1–10.**
+**Part005 Part audit.**
 
-Part001–Part004 remain frozen. Preserve both audited Part005 boundaries. Do not create Part006 canonical records and do not begin Part audit until Part005 Pass 3 covers scans121–150.
+Part001–Part004 remain frozen. Preserve both audited Part005 boundaries. Do not create Part006 canonical records and do not begin final metadata/status synchronization until the Part audit closes.

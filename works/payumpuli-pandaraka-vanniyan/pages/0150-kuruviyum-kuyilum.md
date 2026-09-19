@@ -39,4 +39,31 @@ transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch s
 - adjacent Part006 scan151 was inspected only as a boundary witness and begins சொல்லவில்லையே! என்செய்வது, நாமிருவரும் எடுத்துக் கொண்ட உறுதி மொழியின்படி...; no scan151 body text is imported here
 - status and visual fidelity remain needs-review
 
+## Formal Part005 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue and physical page-boundary comparison completed against the user-supplied Part005 source pixels;
+- source-text corrections: **0**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
+
+## Formal Part005 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the user-supplied Part005 source pixels;
+- source-text / lexical / spacing corrections: **0**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 3, Part audit and final status synchronization.
+
+## Formal Part005 Pass 3 review
+
+- full-page visual / structural verification completed against the rendered Part005 source image;
+- structural result: ornate chapter-opening hierarchy with displayed chapter number 21 and title `குருவியும் - குயிலும்!`; printed page 140; ends inside an open quotation at `என்னுடன் வாழ வேண்டாம் என நான்`;
+- heading hierarchy, body-frame / non-body classification, paragraph/dialogue blocks, printed pagination and physical page-boundary state checked as applicable;
+- textual corrections from Pass 3: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Part audit and final status synchronization.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 150; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 30; அச்சுப் பக்கம்: 140; PASS 1 TEXT-COMPLETE / needs-review -->

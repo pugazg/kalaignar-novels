@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 2B COMPLETE / PASS 3 NEXT.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 3 COMPLETE / PART AUDIT NEXT.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **121–150**;
@@ -42,7 +42,7 @@ The canonical `scan_page` remains the overall scan number **121–150**.
 
 ## Current gate
 
-Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 2B COMPLETE / PASS 3 NEXT**.
+Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 3 COMPLETE / PART AUDIT NEXT**.
 
 - incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
@@ -53,7 +53,8 @@ Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 2B
 - Pass 2A cumulative source-text corrections — **7**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 2B cumulative — **4 source-text / lexical / spacing corrections; 0 historical-glyph corrections; 0 unresolved**
-- Pass 3 — **NOT STARTED / NEXT GATE**
-- first Pass-3 batch — **global scans121–130 / local pages1–10**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 3 cumulative — **0 textual corrections; 0 unresolved visual/structural questions**
+- Part audit — **NOT STARTED / NEXT GATE**
 
-Part004 remains **FINAL CLOSED / FROZEN**. Part005 Pass 2B is complete; the exact next gate is Pass 3 scans121–130.
+Part004 remains **FINAL CLOSED / FROZEN**. Part005 Pass 3 is complete; the exact next gate is the Part audit.
