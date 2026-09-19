@@ -1,6 +1,6 @@
 # Part 004 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E15 SOURCE-CHECKED / COMPLETE — E16 NEXT**
+Status: **E15–E19 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 This is the control plan for the project-created English translation of **Part004 only**.
 
@@ -152,10 +152,10 @@ Continue English batch numbering after frozen Part003 E10–E14.
 | Batch | Tamil assembled coverage | Scans | English state |
 |---|---|---:|---|
 | **E15** | section 18 — chapter 11 continuation `அதிகாரி வழங்கிய ஆலோசனை` | **91–94** | **SOURCE-CHECKED / COMPLETE** |
-| **E16** | section 19 — `மன்னிப்பு யார்? யாரிடம்?` | **95–102** | **NOT STARTED** |
-| **E17** | section 20 — `மான மறைப்பு மறக்கலாமா?` | **103–109** | **NOT STARTED** |
-| **E18** | section 21 — `அவள் நடந்த பாதை` | **110–115** | **NOT STARTED** |
-| **E19** | section 22 — `இருவர் உள்ளம்` | **116–120** | **NOT STARTED** |
+| **E16** | section 19 — `மன்னிப்பு யார்? யாரிடம்?` | **95–102** | **SOURCE-CHECKED / COMPLETE** |
+| **E17** | section 20 — `மான மறைப்பு மறக்கலாமா?` | **103–109** | **SOURCE-CHECKED / COMPLETE** |
+| **E18** | section 21 — `அவள் நடந்த பாதை` | **110–115** | **SOURCE-CHECKED / COMPLETE** |
+| **E19** | section 22 — `இருவர் உள்ளம்` | **116–120** | **SOURCE-CHECKED / COMPLETE** |
 
 Each batch must complete **draft + source-check** before the next batch becomes active.
 
@@ -239,8 +239,32 @@ Planning closure accounting:
 - Part005 leakage — **0**
 - durable source-check — `E15_SOURCE_CHECK.md`
 
+## E16–E19 remaining-page closure
+
+All remaining Part004 English pages have completed draft + source-check:
+
+- E16 / scans95–102 — **SOURCE-CHECKED / COMPLETE**
+- E17 / scans103–109 — **SOURCE-CHECKED / COMPLETE**
+- E18 / scans110–115 — **SOURCE-CHECKED / COMPLETE**
+- E19 / scans116–120 — **SOURCE-CHECKED / COMPLETE**
+- Part004 translated English files — **5/5**
+- Part004 source-checked English files — **5/5**
+- source literary/title blocks represented across E16–E19 — **150/150**
+- unresolved E16–E19 holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001–Part003 English body edits — **0**
+- Part005 leakage — **0**
+- outgoing 120→121 boundary — **preserved without semantic completion from scan121**
+
+Durable source-checks:
+- `E16_SOURCE_CHECK.md`
+- `E17_SOURCE_CHECK.md`
+- `E18_SOURCE_CHECK.md`
+- `E19_SOURCE_CHECK.md`
+
 ## Exact next activity
 
-Begin **E16 — draft + source-check — section19 / scans95–102**.
+Perform **Part004 whole-Part English glossary reconciliation** across E15–E19 / scans91–120.
 
-Do not begin E17 until E16 closes **SOURCE-CHECKED / COMPLETE**. Do not begin Part005 transcription.
+Do not begin editorial review until glossary reconciliation closes. Do not begin Part005 transcription.

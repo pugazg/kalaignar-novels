@@ -1121,3 +1121,32 @@ E15 covers Part004 section18 / scans91–94:
 Perform **E16 — draft + source-check — section19 / scans95–102**.
 
 Do not begin E17 or Part005 transcription until E16 closes.
+
+## Part004 E16–E19 English remaining-page closure — COMPLETE / PASS
+
+All remaining Part004 English reading-layer pages have completed draft + source-check:
+
+- E16 / scans95–102 — **SOURCE-CHECKED / COMPLETE**
+- E17 / scans103–109 — **SOURCE-CHECKED / COMPLETE**
+- E18 / scans110–115 — **SOURCE-CHECKED / COMPLETE**
+- E19 / scans116–120 — **SOURCE-CHECKED / COMPLETE**
+- translated/source-checked Part004 English files — **5/5**
+- source blocks represented across E16–E19 — **150/150**
+- unresolved E16–E19 holds — **0**
+- canonical Tamil mutations — **0**
+- assembled Tamil mutations — **0**
+- frozen Part001–Part003 English body mutations — **0**
+- Part005 leakage — **0**
+- outgoing 120→121 boundary — **preserved without semantic completion from scan121**
+
+Durable batch records:
+- `translations/en/E16_SOURCE_CHECK.md`
+- `translations/en/E17_SOURCE_CHECK.md`
+- `translations/en/E18_SOURCE_CHECK.md`
+- `translations/en/E19_SOURCE_CHECK.md`
+
+## Current Part004 frontier
+
+Perform **Part004 whole-Part English glossary reconciliation**.
+
+Do not begin editorial review or Part005 transcription until glossary reconciliation closes.

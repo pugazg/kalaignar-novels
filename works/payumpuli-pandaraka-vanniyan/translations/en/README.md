@@ -210,8 +210,12 @@ Durable source-check records:
 - `E13_SOURCE_CHECK.md`
 - `E14_SOURCE_CHECK.md`
 
-Durable E15 record:
+Durable Part004 batch source-checks:
 - `E15_SOURCE_CHECK.md`
+- `E16_SOURCE_CHECK.md`
+- `E17_SOURCE_CHECK.md`
+- `E18_SOURCE_CHECK.md`
+- `E19_SOURCE_CHECK.md`
 
 ## Current exact next activity
 
@@ -401,10 +405,10 @@ Expected Tamil assembled inputs:
 | Tamil file | Planned English file | Scans | Batch | State |
 |---|---|---:|---|---|
 | `../../sections/18-adhikaari-vazhangiya-aalosanai-part004.md` | `sections/18-the-officers-advice-part004.md` | 91–94 | E15 | **SOURCE-CHECKED / COMPLETE** |
-| `../../sections/19-mannippu-yaar-yaaridam.md` | `sections/19-who-should-apologize-to-whom.md` | 95–102 | E16 | **NOT STARTED** |
-| `../../sections/20-maana-maraippu-marakkalaamaa.md` | `sections/20-can-one-forget-the-concealment-of-honour.md` | 103–109 | E17 | **NOT STARTED** |
-| `../../sections/21-aval-nadantha-paathai.md` | `sections/21-the-path-she-walked.md` | 110–115 | E18 | **NOT STARTED** |
-| `../../sections/22-iruvar-ullam.md` | `sections/22-two-hearts.md` | 116–120 | E19 | **NOT STARTED** |
+| `../../sections/19-mannippu-yaar-yaaridam.md` | `sections/19-who-should-apologize-to-whom.md` | 95–102 | E16 | **SOURCE-CHECKED / COMPLETE** |
+| `../../sections/20-maana-maraippu-marakkalaamaa.md` | `sections/20-can-one-forget-the-concealment-of-honour.md` | 103–109 | E17 | **SOURCE-CHECKED / COMPLETE** |
+| `../../sections/21-aval-nadantha-paathai.md` | `sections/21-the-path-she-walked.md` | 110–115 | E18 | **SOURCE-CHECKED / COMPLETE** |
+| `../../sections/22-iruvar-ullam.md` | `sections/22-two-hearts.md` | 116–120 | E19 | **SOURCE-CHECKED / COMPLETE** |
 
 ## Part004 boundary safeguards
 
@@ -439,8 +443,8 @@ After E19:
 ## Part004 planning closure state
 
 - planned batches — **E15–E19**
-- translated files — **1/5**
-- source-checked files — **1/5**
+- translated files — **5/5**
+- source-checked files — **5/5**
 - unresolved planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil body edits caused by planning — **0**
@@ -449,6 +453,6 @@ After E19:
 
 ## Current exact next activity
 
-Begin **E16 — draft + source-check — scans95–102**.
+Perform **Part004 whole-Part English glossary reconciliation**.
 
-Do not begin E17 until E16 closes. Do not begin Part005 transcription.
+Do not begin editorial review until glossary reconciliation closes. Do not begin Part005 transcription.

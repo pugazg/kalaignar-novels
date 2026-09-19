@@ -1,6 +1,6 @@
 # Part 004 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E15 SOURCE-CHECKED / COMPLETE — ACTIVE FOR E16**
+Status: **E15–E19 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 This glossary is derived only from verified Part004 canonical/assembled Tamil plus already-closed Part001–Part003 project English choices where the **same Tamil source form** recurs.
 
@@ -151,8 +151,67 @@ E15 also locks the incoming 90→91 English handling:
 
 Unresolved E15 glossary holds — **0**.
 
+## E16–E19 source-check additions
+
+### E16 / scans95–102
+
+| Tamil source | Maintained English handling | Note |
+|---|---|---|
+| `மன்மத ரதம்` | **Manmatha's chariot** | source literary image |
+| `ஆஸ்ரமம்` | **ashram** | source-facing cultural term |
+| `அரிநமோத்து சிந்தம்` | ***Arinamothu Chintham*** | opaque source expression retained by transliteration; no external interpretation |
+| `ராஜ உபசாரம்` | **royal honours** | contextual rendering |
+| `மன்னிப்பு` | **pardon / apology** by sentence function | source Tamil remains unchanged |
+| `என் மன்னிப்புக் கேட்க வேண்டும்?` | **Why should pardon be asked?** | neutral English avoids silently correcting the source-visible Tamil form |
+
+### E17 / scans103–109
+
+| Tamil source | Maintained English handling | Note |
+|---|---|---|
+| `பரங்கியார்` | ***Parangiyars*** | inherited project source-facing form |
+| `ஒல்லாந்தர் / டச்சுக்காரர்கள்` | **Ollandars, the Dutch** | source itself supplies the pairing |
+| `திரணமாக மதித்து` | **treat ... as a trifle** | local sentence sense |
+| `எச்சில் பதவி` | **a wretched office** | preserves condemnatory register without extra historical gloss |
+| `வீர மரபு` | **warrior lineage** | source-facing |
+| `வீரர் தம் இலக்கணம்` | **the code of warriors** | source-facing |
+
+### E18 / scans110–115
+
+| Tamil source | Maintained English handling | Note |
+|---|---|---|
+| `பண்டாரக வைரமுத்து` | **Pandaraka Vairamuthu** | preserve source order |
+| `வைரமுத்துப் பண்டாரக வன்னியன்` | **Vairamuthu Pandaraka Vanniyan** | preserve source order |
+| `வீரபாண்டியக் கட்டபொம்ம மன்னர்` | **King Veerapandiya Kattabomman** | source-facing name/title |
+| `கண்டி` | **Kandy** | project place form |
+| `ராஜதந்திரம்` | **statecraft** | local contextual rendering |
+| `வீர உணர்வு` | **warrior spirit** | literary/emotional rendering |
+
+Physical split **113→114** is retained by a non-rendering marker after “my family problem”; no source word or page is omitted.
+
+### E19 / scans116–120
+
+| Tamil source | Maintained English handling | Note |
+|---|---|---|
+| `சுயநல மனப்பான்மை / சுய நல நோக்கு` | **selfishness / selfish motive** | local syntax |
+| `புனிதப் போர்` | **sacred war** | source-facing |
+| `சங்கற்பம்` | **resolve** | contextual rendering |
+| `அந்நியச் சிப்பாய்கள்` | **foreign soldiers** | preserves broad source label |
+| `நளினம்` | **refinement** | Kaakkai's own self-description |
+| scan120 terminal `விலை` | ***vilai*** | intentionally incomplete transliterated fragment; not interpreted as standalone “price” |
+
+Outgoing **120→121 = GENUINE CONTINUATION / AUDITED** remains a hard boundary lock. E19 does not import or semantically complete scan121.
+
+## Batch-source-check closure
+
+- E15–E19 — **5/5 SOURCE-CHECKED / COMPLETE**
+- unresolved batch glossary holds — **0**
+- canonical Tamil changes caused by English drafting — **0**
+- assembled Tamil changes caused by English drafting — **0**
+- frozen Part001–Part003 English body changes — **0**
+- Part005 leakage — **0**
+
 ## Exact next gate
 
-**E16 — draft + source-check — scans95–102.**
+**Part004 whole-Part English glossary reconciliation.**
 
-Do not begin E17 until E16 closes. Canonical and assembled Tamil remain unchanged.
+Reconcile recurring names, titles, source labels and variants across E15–E19 before editorial review. Canonical and assembled Tamil remain unchanged.

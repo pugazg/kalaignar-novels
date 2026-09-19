@@ -2,18 +2,18 @@
 
 ## Overall state
 
-**PART004 E15 — SOURCE-CHECKED / COMPLETE — E16 NEXT**
+**PART004 E15–E19 — SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 Part001, Part002 and Part003 English remain **FINAL CLOSED / FROZEN**.
 
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
 | **E15** | section 18 — `அதிகாரி வழங்கிய ஆலோசனை` continuation | **91–94** | **SOURCE-CHECKED / COMPLETE** |
-| **E16** | section 19 — `மன்னிப்பு யார்? யாரிடம்?` | **95–102** | **NOT STARTED** |
-| **E17** | section 20 — `மான மறைப்பு மறக்கலாமா?` | **103–109** | **NOT STARTED** |
-| **E18** | section 21 — `அவள் நடந்த பாதை` | **110–115** | **NOT STARTED** |
-| **E19** | section 22 — `இருவர் உள்ளம்` | **116–120** | **NOT STARTED** |
-| Glossary | Part004 whole-Part reconciliation | 91–120 | **NOT STARTED** |
+| **E16** | section 19 — `மன்னிப்பு யார்? யாரிடம்?` | **95–102** | **SOURCE-CHECKED / COMPLETE** |
+| **E17** | section 20 — `மான மறைப்பு மறக்கலாமா?` | **103–109** | **SOURCE-CHECKED / COMPLETE** |
+| **E18** | section 21 — `அவள் நடந்த பாதை` | **110–115** | **SOURCE-CHECKED / COMPLETE** |
+| **E19** | section 22 — `இருவர் உள்ளம்` | **116–120** | **SOURCE-CHECKED / COMPLETE** |
+| Glossary | Part004 whole-Part reconciliation | 91–120 | **NOT STARTED / NEXT GATE** |
 | Editorial | Part004 whole-Part English editorial review | 91–120 | **NOT STARTED** |
 | Bilingual | Part004 whole-Part bilingual review | 91–120 | **NOT STARTED** |
 | Release | Part004 release/readiness report | 91–120 | **NOT STARTED** |
@@ -26,10 +26,14 @@ Part001, Part002 and Part003 English remain **FINAL CLOSED / FROZEN**.
 - Tamil visual fidelity — **30/30 verified**
 - Tamil archival-ready — **PASS / CLOSED**
 - Tamil assembled files — **5/5 VERIFIED**
-- Part004 English translated files — **1/5**
-- Part004 English source-checked files — **1/5**
+- Part004 English translated files — **5/5**
+- Part004 English source-checked files — **5/5**
 - unresolved Part004 English planning holds — **0**
 - unresolved E15 holds — **0**
+- unresolved E16 holds — **0**
+- unresolved E17 holds — **0**
+- unresolved E18 holds — **0**
+- unresolved E19 holds — **0**
 - whole-Part glossary reconciliation — **NOT STARTED**
 - English editorial review — **NOT STARTED**
 - whole-Part bilingual review — **NOT STARTED**
@@ -113,8 +117,22 @@ Part005 remains blocked until Part004 final closure.
 - frozen prior-Part English body edits — **0**
 - Part005 leakage — **0**
 
+## E16–E19 closure
+
+- E16 — **SOURCE-CHECKED / COMPLETE — scans95–102**
+- E17 — **SOURCE-CHECKED / COMPLETE — scans103–109**
+- E18 — **SOURCE-CHECKED / COMPLETE — scans110–115**
+- E19 — **SOURCE-CHECKED / COMPLETE — scans116–120**
+- Part004 English translated/source-checked — **5/5**
+- total Part004 English source coverage — **scans91–120**
+- unresolved English batch holds — **0**
+- canonical / assembled Tamil edits — **0**
+- frozen prior-Part English body edits — **0**
+- Part005 leakage — **0**
+- outgoing E19 terminal fragment remains intentionally incomplete at scan120
+
 ## Exact next activity
 
-Begin **E16 — draft + source-check — section19 / scans95–102**.
+Perform **Part004 whole-Part English glossary reconciliation**.
 
-Do not begin E17 until E16 closes **SOURCE-CHECKED / COMPLETE**. Do not begin Part005 transcription.
+Do not begin English editorial review until reconciliation closes. Do not begin Part005 transcription.

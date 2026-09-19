@@ -67,14 +67,18 @@ Part 004 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE PART / TA
 - Part004 Tamil archival-ready — **PASS / CLOSED**
 - Part004 assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
 - Part004 English planning/setup — **COMPLETE / PASS**
-- Part004 English translated/source-checked — **1/5**
+- Part004 English translated/source-checked — **5/5**
 - Part004 E15 — **SOURCE-CHECKED / COMPLETE**
-- Part004 E16 — **NOT STARTED / NEXT GATE**
+- Part004 E16 — **SOURCE-CHECKED / COMPLETE**
+- Part004 E17 — **SOURCE-CHECKED / COMPLETE**
+- Part004 E18 — **SOURCE-CHECKED / COMPLETE**
+- Part004 E19 — **SOURCE-CHECKED / COMPLETE**
+- Part004 English glossary reconciliation — **NOT STARTED / NEXT GATE**
 
 Part003 remains **FINAL CLOSED / FROZEN**. Part005 scan121 was inspected only as an outgoing boundary witness; no Part005 canonical record was created.
 
 ## Exact next activity
 
-Begin **Part004 E16 — draft + source-check — scans95–102**.
+Perform **Part004 whole-Part English glossary reconciliation**.
 
 Do not begin Part005 transcription.
