@@ -194,20 +194,22 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E16_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
 
-## Part005 — NEXT ACTIVE / AUTHORIZED / NOT STARTED
+## Part005 — ACTIVE / PASS 1 IN PROGRESS
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
 - global scans — **121–150**
 - local pages — **1–30**
-- canonical Part005 page records — **0**
+- canonical Part005 page records — **10/30 — scans121–130**
 - incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 150→151 — **PENDING direct audit**
-- Pass 1 — **NOT STARTED**
-- first normal Pass-1 batch — **global scans121–130 / local pages1–10**
+- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- completed Pass-1 batch — **global scans121–130 / local pages1–10**
+- unresolved Pass-1 source-reading holds — **0**
+- next Pass-1 batch — **global scans131–140 / local pages11–20**
 - Part001–Part004 — **FINAL CLOSED / FROZEN**
 
 ## Exact next activity
 
-Begin **Part005 Pass 1 — global scans121–130 / local pages1–10**.
+Continue **Part005 Pass 1 — global scans131–140 / local pages11–20**.
 
-Preserve incoming **120→121 GENUINE CONTINUATION**. Do not modify frozen Part001–Part004 body layers. Outgoing **150→151** remains pending direct audit.
+Preserve incoming **120→121 GENUINE CONTINUATION**. Do not modify frozen Part001–Part004 body layers. Outgoing **150→151** remains pending direct audit. Do not begin Pass 2A until Pass 1 covers scans121–150.

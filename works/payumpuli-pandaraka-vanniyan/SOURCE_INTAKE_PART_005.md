@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — NEXT ACTIVE PART / PASS 1 NOT STARTED.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 1 IN PROGRESS.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **121–150**;
@@ -46,8 +46,10 @@ Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — NEXT ACTIVE PART
 
 - incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 150→151 — **PENDING direct audit**
-- canonical Part005 page records — **0/30**
-- Pass 1 — **NOT STARTED**
-- first normal Pass-1 batch — **global scans121–130 / local pages1–10**
+- canonical Part005 page records — **10/30 — scans121–130**
+- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- completed Pass-1 batch — **global scans121–130 / local pages1–10**
+- unresolved Pass-1 source-reading holds — **0**
+- next Pass-1 batch — **global scans131–140 / local pages11–20**
 
-Part004 is now **FINAL CLOSED / FROZEN**. Canonical Part005 transcription is authorized on the next explicit continuation.
+Part004 remains **FINAL CLOSED / FROZEN**. Part005 Pass 1 is active through scans121–130; the exact next range is scans131–140.

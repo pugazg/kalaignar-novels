@@ -139,15 +139,17 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part004 release/readiness: PASS / CLOSED**
 - **Part004 release-ready synchronization: PASS / CLOSED**
 - **Part004 final closure: PASS / CLOSED / FROZEN**
-- **Part005: NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- **Part005: ACTIVE / AUTHORIZED — PASS 1 IN PROGRESS**
 - **Part005 canonical range: scans121–150**
-- **Part005 canonical page records: 0/30**
+- **Part005 canonical page records: 10/30 — scans121–130**
 - **Part005 incoming 120→121: GENUINE CONTINUATION / AUDITED**
 - **Part005 outgoing 150→151: PENDING direct audit**
-- **Part005 Pass 1: NOT STARTED**
+- **Part005 Pass 1: IN PROGRESS — 10/30 TEXT-COMPLETE**
+- **Part005 unresolved Pass-1 source-reading holds: 0**
+- **Part005 next Pass-1 batch: scans131–140 / local pages11–20**
 
 ## Exact next gate
 
-Begin **Part005 Pass 1 — global scans121–130 / local pages1–10**.
+Continue **Part005 Pass 1 — global scans131–140 / local pages11–20**.
 
 Preserve frozen Part001–Part004 body layers and the audited incoming 120→121 continuation. Do not begin Part005 Pass 2A until Pass 1 covers all scans121–150.
