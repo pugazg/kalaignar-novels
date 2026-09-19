@@ -272,12 +272,12 @@ Durable records:
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf`
 - global scans — **151–180**
 - local pages — **1–30**
-- canonical Part006 page records — **10/30 — scans151–160**
-- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- canonical Part006 page records — **20/30 — scans151–170**
+- Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
 - unresolved Pass-1 source-reading holds — **0**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **PENDING direct audit**
-- next Pass-1 batch — **global scans161–170 / local pages11–20**
+- next Pass-1 batch — **global scans171–180 / local pages21–30**
 - Pass 2A — **BLOCKED until Pass 1 covers scans151–180**
 
 Durable progress record:
@@ -285,6 +285,6 @@ Durable progress record:
 
 ## Exact next activity
 
-Continue **Part006 Pass 1 — global scans161–170 / local pages11–20**.
+Continue **Part006 Pass 1 — global scans171–180 / local pages21–30**.
 
-Preserve frozen Part001–Part005 body layers and the audited incoming 150→151 continuation. Keep outgoing **180→181** pending direct audit. Do not begin Part006 Pass 2A until Pass 1 covers all scans151–180.
+Preserve frozen Part001–Part005 body layers and the audited incoming 150→151 continuation. Keep outgoing **180→181** pending until directly audited. Do not begin Part006 Pass 2A until Pass 1 covers all scans151–180.

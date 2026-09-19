@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS — 10/30 TEXT-COMPLETE**
+**PASS 1 — IN PROGRESS — 20/30 TEXT-COMPLETE**
 
 Active Part:
 - Part006
@@ -15,15 +15,15 @@ Part001–Part005 remain **FINAL CLOSED / FROZEN**.
 ## Current accounting
 
 - Part006 physical scans: **30**
-- canonical Part006 records present after this batch: **10/30 — scans151–160**
-- Pass-1 text-complete records: **10/30 — scans151–160**
-- Pass-1 transcription pending: **20 — scans161–180**
+- canonical Part006 records present after this batch: **20/30 — scans151–170**
+- Pass-1 text-complete records: **20/30 — scans151–170**
+- Pass-1 transcription pending: **10 — scans171–180**
 - unresolved Pass-1 source-reading holds: **0**
 - Pass 2A: **BLOCKED until Pass 1 covers scans151–180**
 - incoming 150→151 boundary: **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 boundary: **PENDING direct audit**
 
-All new Part006 Pass-1 records remain non-final:
+All Part006 Pass-1 records remain non-final:
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
@@ -32,45 +32,53 @@ All new Part006 Pass-1 records remain non-final:
 | Batch | Global scans | Local pages | Printed pages | Status |
 |---|---:|---:|---|---|
 | 1 | 151–160 | 1–10 | 141–145; scan156 carries 146–147; 148–151 | COMPLETE / TEXT-COMPLETE |
-| 2 | 161–170 | 11–20 | pending direct inspection | NOT STARTED |
+| 2 | 161–170 | 11–20 | 152–161 | COMPLETE / TEXT-COMPLETE |
 | 3 | 171–180 | 21–30 | pending direct inspection | NOT STARTED |
 
 ## Batch 1 source-structure observations
 
-- scan151 continues chapter21 `குருவியும் - குயிலும்!` across the already-audited physical 150→151 split; the canonical Part006 record begins only with source-visible `சொல்லவில்லையே!...` and imports no frozen scan150 body text;
+- scan151 continues chapter21 `குருவியும் - குயிலும்!` across the already-audited physical 150→151 split;
 - scans151–153 continue and close chapter21;
-- scan154 opens chapter22 `நள்ளிரவு நாடகம்!` with displayed chapter number **22**;
-- scan156 is a single colour illustrated physical spread carrying two printed pages, **146 and 147**; reading order is left printed page146 → right printed page147;
-- printed page147 / scan156 ends at `எனைத் தழுவிப்`; scan157 continues `பிரிந்து சென்றார்.`;
+- scan154 opens chapter22 `நள்ளிரவு நாடகம்!`;
+- scan156 is a single colour illustrated physical spread carrying printed pages **146–147**;
 - scan158 closes chapter22;
-- scan159 opens chapter23 `நட்பின் இலக்கணம்!` with displayed chapter number **23**;
-- scan159 ends at `கேள்விப்`; scan160 continues `பட்டிருக்கிறேன்.`;
-- scan160 ends at `பேச்சினிடையே குறுக்கிடாமல் இருந்த பிலிமத்தளாவை`;
-- no scan161 text was inspected or imported in this activity.
+- scan159 opens chapter23 `நட்பின் இலக்கணம்!`;
+- scan160 ends at `பேச்சினிடையே குறுக்கிடாமல் இருந்த பிலிமத்தளாவை`.
 
-## Notable source readings retained
+## Batch 2 source-structure observations
 
-- scan151 — `முறுவல் பூத்து முத்தமாரி`, `கண்களோ குளங்களாக`, `நாறாயிரம் சம்மட்டிகளால்`;
-- scan152 — `ஈருடல் ஒருடலாயிற்று`, `விண் மீன்`, `சந்திக்கு மிடத்திற்குத்`, `மலைப் பள்ளத் தாக்கு`, `கிடுகிடு பள்ளத்தில்`;
-- scan153 — `கட்டுக்குலையாத`, `கற்புபற்றியோ`, `பூக்கடையெனப்`;
-- scan154 — `மழுங்கச் சிரைத்த`, `சிரஞ்சீவி`, `கம்பளிப் புழுவைக்`;
-- scan155 — `மென்ன`, `வைரமுத்துதான்`, `கற்பின் மான்பை`;
-- scan156 — `திமிரெனத்`, `படிதாண்டாப் பத்தினியாக`, `கண்ணாளர்`, `எனைத்`;
-- scan157 — `நாழிகை`, `முதுகுப்புறம்`, `மகோன்னதமான`, `கடுகளவு`, `எதிர் பார்த்தது`, `ஜெயபேரிகை`;
-- scan158 — `திமிரெனப்`, `நரம்புகளாக்கி`, `எப்படி யொரு`, `மகளுக்கேற்பட்ட`, `வாளையெடுத்து`, `கர்ச்சனை`;
-- scan159 — `உண்டியல் கலயம்`, `பழியோரிடம் பாவமோரிடம்`, `ஸ்பரிசம்`, `கசிந்துருகவில்லை`;
-- scan160 — `நச்சுப் பொய்கையின் ஊற்று`, `அலங்கோலத்துக்கு`, `காமாந்தகாரக்`, `ஈயத்தைக்`, `ஆடை அணிகள்`.
+- scan161 continues scan160 directly with `திமிரெனக் குறுக்கிட்டார்.`;
+- scan162 closes chapter23 `நட்பின் இலக்கணம்!`;
+- scan163 opens chapter24 `வீரனல்ல, வீராங்கனை!` with displayed chapter number **24**;
+- scans164–166 continue chapter24; scan166 closes it with `வீரனல்ல? வீராங்கனை! யார் அது?`;
+- scan167 opens chapter25 `பேய் மகள் பியசிலி!` with displayed chapter number **25**;
+- scans168–170 continue chapter25;
+- scan170 / printed161 ends inside direct speech at `“சிப்பாய்களே! என்னை`;
+- no scan171 text was inspected or imported in this iteration.
 
-No unresolved Pass-1 source-reading hold remains in scans151–160.
+## Notable Batch-2 source readings retained
+
+- scan161 — `சூளை மூளையில்`, `காமப்பேய்`, `கட்டிலறை`, `மனைவி யாயிற்றே`, `கெட்டுப் போனவளே வா- இன்பம் கொஞ்சம் கெடலாம்`;
+- scan162 — `சொக்கட்டான்`, `எடுத்துக் கோக்கட்டுமா?`, `பத்தினித் தங்கம்`;
+- scan163 — `பாபச் செயல்களே`, `இந்த நாள்வருமே முதல் நாளிரவு`;
+- scan164 — `உத்தரவு உச்சரிப்பாகத்`, `மருக் கொழுந்துபோல`, `விழலுக் கிறைத்த`, `காமதாக`, `ஆரணங்கே`;
+- scan165 — `கவிதை யாக்குகிறார்கள்`, `மண்டிலத்து`, `திட்டம்தீட்டினேன்`, `எதிர் பார்த்தேன்`;
+- scan166 — `சரேலெனப்`, `வீரனல்ல? வீராங்கனை!`;
+- scan167 — `பொருட்படுத்த வில்லை`; the source prints the long `அய்யோ!` speech without quotation marks;
+- scan168 — `கைகாரக் கள்ளியடி`, `நச்சுப்பல்லுக்கு`, `சிரிக்கும் சிலந்தியாயிற்றே`, `பாஷாணப் பார்வை`;
+- scan169 — `கொண்டுக் கத்தினாள்`, `என்றைக் கிருந்தாலும்`, `பண்டமாற்றுக்கு`, `சிறைவாசமேதவிர`;
+- scan170 — `வஞ்சினம்`, `ஆலிங்கனப் பொருளாக`, `என்னே வைராக்கியம்`, `தீர்த்துக்கட்ட`.
+
+No unresolved Pass-1 source-reading hold remains in scans161–170.
 
 ## Method note
 
-The controlling source is the user-supplied Part006 split PDF rendered to page images and inspected directly. The PDF exposes no usable parsed text layer. Source wording, punctuation, paragraph/dialogue structure, displayed hierarchy, printed pagination, the illustrated spread and physical page-end fragments are preserved from source pixels. OCR is not treated as source authority.
+The controlling source is the user-supplied Part006 split PDF rendered to page images and inspected directly. Source wording, punctuation, paragraph/dialogue structure, chapter hierarchy, printed pagination and physical page-end fragments are preserved from source pixels. OCR is not treated as source authority.
 
 The audited incoming **150→151 GENUINE CONTINUATION** remains provenance only: frozen Part005 body text is not copied into Part006.
 
 ## Exact next activity
 
-Continue **Part006 Pass 1 — global scans161–170 / local pages11–20**.
+Continue **Part006 Pass 1 — global scans171–180 / local pages21–30**.
 
-Do not begin Pass 2A. Do not modify frozen Part001–Part005 canonical Tamil, assembled Tamil or maintained English body files. Keep outgoing **180→181** pending until directly audited.
+Do not begin Pass 2A before Pass 1 covers the full Part. Do not modify frozen Part001–Part005 canonical Tamil, assembled Tamil or maintained English body files. Keep outgoing **180→181** pending until directly audited.

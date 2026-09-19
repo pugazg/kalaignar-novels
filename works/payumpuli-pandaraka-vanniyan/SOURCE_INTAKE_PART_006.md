@@ -46,11 +46,11 @@ Part006 is **ACTIVE / PASS 1 IN PROGRESS**.
 
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **PENDING direct audit**
-- canonical Part006 page records — **10/30 — scans151–160**
-- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
-- completed Pass-1 batch — **global scans151–160 / local pages1–10**
+- canonical Part006 page records — **20/30 — scans151–170**
+- Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
+- completed Pass-1 batches — **global scans151–170 / local pages1–20**
 - unresolved Pass-1 source-reading holds — **0**
-- next Pass-1 batch — **global scans161–170 / local pages11–20**
+- next Pass-1 batch — **global scans171–180 / local pages21–30**
 - Pass 2A — **BLOCKED until Pass 1 covers scans151–180**
 
-Part001–Part005 remain **FINAL CLOSED / FROZEN**. The exact next range is scans161–170.
+Part001–Part005 remain **FINAL CLOSED / FROZEN**. The exact next range is scans171–180.

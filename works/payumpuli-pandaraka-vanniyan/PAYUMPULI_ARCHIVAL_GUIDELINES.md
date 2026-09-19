@@ -175,16 +175,16 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part005 final closure: PASS / CLOSED / FROZEN**
 - **Part006: ACTIVE / AUTHORIZED — PASS 1 IN PROGRESS**
 - **Part006 canonical range: scans151–180**
-- **Part006 canonical page records: 10/30 — scans151–160**
+- **Part006 canonical page records: 20/30 — scans151–170**
 - **Part006 incoming 150→151: GENUINE CONTINUATION / AUDITED**
 - **Part006 outgoing 180→181: PENDING direct audit**
-- **Part006 Pass 1: IN PROGRESS — 10/30 TEXT-COMPLETE**
+- **Part006 Pass 1: IN PROGRESS — 20/30 TEXT-COMPLETE**
 - **Part006 unresolved Pass-1 source-reading holds: 0**
-- **Part006 next Pass-1 batch: scans161–170 / local pages11–20**
+- **Part006 next Pass-1 batch: scans171–180 / local pages21–30**
 - **Part006 Pass 2A: BLOCKED until Pass 1 covers scans151–180**
 
 ## Exact next gate
 
-Continue **Part006 Pass 1 — global scans161–170 / local pages11–20**.
+Continue **Part006 Pass 1 — global scans171–180 / local pages21–30**.
 
 Preserve frozen Part001–Part005 body layers and the audited incoming 150→151 continuation. Keep outgoing 180→181 pending direct audit. Do not begin Part006 Pass 2A until Pass 1 covers all scans151–180.

@@ -166,16 +166,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 006 | 8 | 158 | 149 | `நள்ளிரவு நாடகம்!` continuation / chapter close | needs-review | `pages/0158-nalliravu-naadakam.md` |
 | 006 | 9 | 159 | 150 | chapter23 opening `நட்பின் இலக்கணம்!` | needs-review | `pages/0159-natpin-ilakkanam.md` |
 | 006 | 10 | 160 | 151 | `நட்பின் இலக்கணம்!` continuation; ends `பேச்சினிடையே குறுக்கிடாமல் இருந்த பிலிமத்தளாவை` | needs-review | `pages/0160-natpin-ilakkanam.md` |
-| 006 | 11 | 161 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 12 | 162 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 13 | 163 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 14 | 164 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 15 | 165 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 16 | 166 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 17 | 167 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 18 | 168 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 19 | 169 | — | unclassified — direct visual audit pending | not-started | — |
-| 006 | 20 | 170 | — | unclassified — direct visual audit pending | not-started | — |
+| 006 | 11 | 161 | 152 | `நட்பின் இலக்கணம்!` continuation from scan160 | needs-review | `pages/0161-natpin-ilakkanam.md` |
+| 006 | 12 | 162 | 153 | `நட்பின் இலக்கணம்!` continuation / chapter close | needs-review | `pages/0162-natpin-ilakkanam.md` |
+| 006 | 13 | 163 | 154 | chapter24 opening `வீரனல்ல, வீராங்கனை!` | needs-review | `pages/0163-veeranalla-veeranganai.md` |
+| 006 | 14 | 164 | 155 | `வீரனல்ல, வீராங்கனை!` continuation | needs-review | `pages/0164-veeranalla-veeranganai.md` |
+| 006 | 15 | 165 | 156 | `வீரனல்ல, வீராங்கனை!` continuation | needs-review | `pages/0165-veeranalla-veeranganai.md` |
+| 006 | 16 | 166 | 157 | `வீரனல்ல, வீராங்கனை!` continuation / chapter close | needs-review | `pages/0166-veeranalla-veeranganai.md` |
+| 006 | 17 | 167 | 158 | chapter25 opening `பேய் மகள் பியசிலி!` | needs-review | `pages/0167-pey-magal-piyasili.md` |
+| 006 | 18 | 168 | 159 | `பேய் மகள் பியசிலி!` continuation | needs-review | `pages/0168-pey-magal-piyasili.md` |
+| 006 | 19 | 169 | 160 | `பேய் மகள் பியசிலி!` continuation | needs-review | `pages/0169-pey-magal-piyasili.md` |
+| 006 | 20 | 170 | 161 | `பேய் மகள் பியசிலி!` continuation; ends `“சிப்பாய்களே! என்னை` | needs-review | `pages/0170-pey-magal-piyasili.md` |
 | 006 | 21 | 171 | — | unclassified — direct visual audit pending | not-started | — |
 | 006 | 22 | 172 | — | unclassified — direct visual audit pending | not-started | — |
 | 006 | 23 | 173 | — | unclassified — direct visual audit pending | not-started | — |
@@ -589,18 +589,18 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - release-sync protected source-variant collapses — **0**
 - Part006 leakage — **0**
 - final closure — **PASS / CLOSED / FROZEN**
-- Part006 canonical page records — **10/30 — scans151–160**
-- Part006 Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- Part006 canonical page records — **20/30 — scans151–170**
+- Part006 Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
 - Part006 unresolved Pass-1 source-reading holds — **0**
 - Part006 incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - Part006 outgoing 180→181 — **PENDING direct audit**
-- Part006 next Pass-1 batch — **scans161–170 / local pages11–20**
+- Part006 next Pass-1 batch — **scans171–180 / local pages21–30**
 - Part006 Pass 2A — **BLOCKED until Pass 1 covers scans151–180**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Continue **Part006 Pass 1 — global scans161–170 / local pages11–20**.
+Continue **Part006 Pass 1 — global scans171–180 / local pages21–30**.
 
 Preserve the already-audited incoming **150→151 GENUINE CONTINUATION** boundary. Create only Part006 canonical records with exact Part006 provenance. Keep outgoing **180→181** pending until directly audited. Do not begin Part006 Pass 2A until Pass 1 covers the full Part.
