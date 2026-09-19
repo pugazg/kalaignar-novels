@@ -67,7 +67,10 @@ For every `N→N+1` boundary:
 - Part003 unresolved bilingual holds — **0**
 - Part003 release/readiness — **PASS / CLOSED**
 - Part003 unresolved release/readiness blockers — **0**
-- Part003 release-ready synchronization — **NEXT GATE / NOT STARTED**
+- Part003 release-ready synchronization — **PASS / CLOSED**
+- Part003 release-sync canonical/assembled/English body changes — **0**
+- Part003 release-sync source-variant collapses — **0**
+- Part003 final closure — **NEXT GATE / NOT STARTED**
 
 - Part004 transcription — **BLOCKED**
 - split-boundary classifications — **3 / 15 audited**
@@ -86,6 +89,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part003 release-ready synchronization.**
+**Part003 final closure.**
 
-Part001 and Part002 remain frozen. Do not begin final Part003 closure or Part004 transcription in the same gate.
+Part001 and Part002 remain frozen. Do not begin Part004 transcription until Part003 final closure passes.

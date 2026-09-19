@@ -291,3 +291,20 @@ Release/readiness subsequently closed:
 Current next gate:
 
 **Part003 release-ready synchronization.**
+
+
+## Post-release-ready synchronization state
+
+The earlier English gate in this file remains closed and authoritative.
+
+Part003 release-ready synchronization subsequently completed:
+- **PASS / CLOSED**
+- canonical Tamil body changes — **0**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- source-variant collapses — **0**
+- Part004 leakage — **0**
+
+Current next gate:
+
+**Part003 final closure.**

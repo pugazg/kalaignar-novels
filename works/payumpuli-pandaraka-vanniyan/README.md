@@ -73,7 +73,7 @@ Durable Part002 records:
 - `PART_002_RELEASE_READY_SYNC.md`
 - `translations/en/PART_002_PROGRESS.md`
 
-## Part003 — ACTIVE / RELEASE-READINESS CLOSED
+## Part003 — ACTIVE / RELEASE-READY SYNCHRONIZATION CLOSED
 
 Controlling source:
 `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_003_pages_61-90.pdf`
@@ -108,7 +108,10 @@ Current verified Tamil state:
 - unresolved bilingual holds — **0**
 - release/readiness report — **PASS / CLOSED**
 - unresolved release/readiness blockers — **0**
-- release-ready synchronization — **NEXT GATE / NOT STARTED**
+- release-ready synchronization — **PASS / CLOSED**
+- release-sync canonical/assembled/English body changes — **0**
+- release-sync source-variant collapses — **0**
+- final closure — **NEXT GATE / NOT STARTED**
 - incoming 60→61 — **CLEAN / AUDITED**
 - outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
 
@@ -140,10 +143,11 @@ Durable Part003 records:
 - `translations/en/PART_003_TRANSLATION_REVIEW.md`
 - `translations/en/PART_003_BILINGUAL_REVIEW.md`
 - `translations/en/PART_003_RELEASE_REPORT.md`
+- `PART_003_RELEASE_READY_SYNC.md`
 - `translations/en/PART_003_PROGRESS.md`
 
 ## Exact next activity
 
-Perform **Part003 release-ready synchronization** and create `PART_003_RELEASE_READY_SYNC.md`.
+Create and verify **Part003 final closure** `PART_003_FINAL_CLOSURE.md`.
 
-Do not begin final Part003 closure or Part004 transcription in the same gate.
+Do not begin Part004 transcription until final Part003 closure passes.

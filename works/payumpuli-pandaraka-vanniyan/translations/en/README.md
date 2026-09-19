@@ -315,3 +315,25 @@ Durable record:
 Perform **Part003 release-ready synchronization**.
 
 Do not begin final Part003 closure or Part004 transcription in the same iteration.
+
+
+## Part003 release-ready synchronization — PASS / CLOSED
+
+Part003 release-ready synchronization is now **PASS / CLOSED**.
+
+- release/readiness — **PASS / CLOSED**
+- canonical Tamil changes — **0**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- source-variant collapses — **0**
+- frozen Part001/Part002 body changes — **0**
+- Part004 leakage — **0**
+
+Durable record:
+- `../../PART_003_RELEASE_READY_SYNC.md`
+
+## Current exact next activity
+
+Create and verify **Part003 final closure** `../../PART_003_FINAL_CLOSURE.md`.
+
+Do not begin Part004 transcription until final closure passes.

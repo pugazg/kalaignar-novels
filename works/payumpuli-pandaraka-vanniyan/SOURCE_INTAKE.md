@@ -108,7 +108,10 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part003 unresolved bilingual holds — **0**
 - Part003 release/readiness — **PASS / CLOSED**
 - Part003 unresolved release/readiness blockers — **0**
-- Part003 release-ready synchronization — **NEXT GATE / NOT STARTED**
+- Part003 release-ready synchronization — **PASS / CLOSED**
+- Part003 release-sync canonical/assembled/English body changes — **0**
+- Part003 release-sync source-variant collapses — **0**
+- Part003 final closure — **NEXT GATE / NOT STARTED**
 
 - Part004 transcription — **BLOCKED**
 - boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
@@ -131,6 +134,6 @@ Authoritative Part003 closure records:
 
 ## Exact next activity
 
-Perform **Part003 release-ready synchronization**.
+Create and verify **Part003 final closure** `PART_003_FINAL_CLOSURE.md`.
 
-Do not begin final Part003 closure or Part004 transcription in the same gate.
+Do not begin Part004 transcription until final Part003 closure passes.

@@ -1,6 +1,6 @@
 # Part 003 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
+Status: **RELEASE-READY SYNCHRONIZATION PASS / CLOSED — FINAL CLOSURE NEXT**
 
 This is the control plan for the project-created English translation of **Part003 only**.
 
@@ -316,3 +316,23 @@ Do not begin release-ready synchronization or final Part003 closure in the same 
 Perform **Part003 release-ready synchronization**.
 
 Do not begin final Part003 closure or Part004 transcription in the same gate.
+
+
+## Release-ready synchronization closure
+
+**PASS / CLOSED**
+
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- canonical Tamil changes — **0**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- source-variant collapses — **0**
+- Part004 leakage — **0**
+- durable record — `../../PART_003_RELEASE_READY_SYNC.md`
+
+## Exact next activity
+
+Create and verify **Part003 final closure** `../../PART_003_FINAL_CLOSURE.md`.
+
+Do not begin Part004 transcription until final closure passes.

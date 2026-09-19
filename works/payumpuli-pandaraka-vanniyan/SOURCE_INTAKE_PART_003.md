@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / ENGLISH EDITORIAL REVIEW PASS / CLOSED.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / RELEASE-READY SYNCHRONIZATION PASS / CLOSED.**
 
 - local PDF pages: **30**
 - canonical overall scans: **61–90**
@@ -35,7 +35,7 @@ Part002 has now reached **FINAL CLOSURE — PASS / CLOSED / FROZEN**.
 
 Part003 is therefore:
 
-**ACTIVE / AUTHORIZED — RELEASE/READINESS PASS / CLOSED**
+**ACTIVE / AUTHORIZED — RELEASE-READY SYNCHRONIZATION PASS / CLOSED**
 
 - canonical Part003 page records — **30/30 — scans61–90**
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -67,13 +67,16 @@ Part003 is therefore:
 - Part003 unresolved bilingual holds — **0**
 - Part003 release/readiness — **PASS / CLOSED**
 - Part003 unresolved release/readiness blockers — **0**
-- Part003 release-ready synchronization — **NEXT GATE / NOT STARTED**
+- Part003 release-ready synchronization — **PASS / CLOSED**
+- Part003 release-sync canonical/assembled/English body changes — **0**
+- Part003 release-sync source-variant collapses — **0**
+- Part003 final closure — **NEXT GATE / NOT STARTED**
 
 - incoming 60→61 — **CLEAN / AUDITED**
 - outgoing 90→91 — **GENUINE CONTINUATION / AUDITED**
 
 ## Exact next activity
 
-Perform **Part003 release-ready synchronization**.
+Create and verify **Part003 final closure** `PART_003_FINAL_CLOSURE.md`.
 
-Do not begin final Part003 closure or Part004 transcription in the same gate.
+Do not begin Part004 transcription until final Part003 closure passes.
