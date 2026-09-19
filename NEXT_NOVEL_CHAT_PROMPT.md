@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part005 final metadata/status synchronization
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part005 documentation synchronization
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,15 +6,13 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 1. `HANDOVER.md`
 2. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
-3. `works/payumpuli-pandaraka-vanniyan/PART_005_PASS1_PROGRESS.md`
-4. `works/payumpuli-pandaraka-vanniyan/PART_005_PASS2A_PROGRESS.md`
-5. `works/payumpuli-pandaraka-vanniyan/PART_005_PASS2B_PROGRESS.md`
-6. `works/payumpuli-pandaraka-vanniyan/PART_005_PASS3_PROGRESS.md`
-7. `works/payumpuli-pandaraka-vanniyan/PART_005_AUDIT.md`
-8. `works/payumpuli-pandaraka-vanniyan/PART_005_BOUNDARY_AUDIT_150_151.md`
-9. `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_005.md`
-10. `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLICY.md`
-11. `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
+3. `works/payumpuli-pandaraka-vanniyan/PART_005_AUDIT.md`
+4. `works/payumpuli-pandaraka-vanniyan/PART_005_FINAL_STATUS_SYNC.md`
+5. `works/payumpuli-pandaraka-vanniyan/PART_005_BOUNDARY_AUDIT_150_151.md`
+6. `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_005.md`
+7. `works/payumpuli-pandaraka-vanniyan/MULTIPART_SOURCE_POLICY.md`
+8. `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
+9. `works/payumpuli-pandaraka-vanniyan/README.md`
 
 ## Frozen authority
 
@@ -22,39 +20,39 @@ Part001–Part004 are **FINAL CLOSED / FROZEN**.
 
 Do not modify their canonical Tamil, assembled Tamil or maintained English body files.
 
-## Part005 closed verification state
+## Part005 verified state
 
 - canonical page records — **30/30 — scans121–150**
-- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 7 corrections; 0 unresolved**
-- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 4 additional corrections; 0 historical-glyph corrections; 0 unresolved**
-- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
+- Pass 1 — **COMPLETE / PASS**
+- Pass 2A — **COMPLETE / PASS**
+- Pass 2B — **COMPLETE / PASS**
+- Pass 3 — **COMPLETE / PASS**
 - Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- unresolved status exceptions — **0**
 - incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
-- current page status — **30/30 `needs-review`**
-- current visual fidelity — **30/30 `needs-review`**
-- Part audit confirmed no remaining blocker for final status synchronization
+- documentation synchronization — **NOT STARTED / NEXT GATE**
 
 ## Exact activity
 
-Perform **Part005 final metadata/status synchronization** across all 30 canonical page records.
+Perform **Part005 documentation synchronization**.
 
 Requirements:
 
-- change only:
-  - `status: "needs-review"` → `status: "verified"`
-  - `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`
-- do not change canonical Tamil body text, section labels, page types, printed-page values, provenance, formal Pass2A/Pass2B/Pass3 evidence, or boundary wording;
-- verify all 30 records end with both final fields set to `verified`;
-- confirm zero `needs-review` exceptions remain in Part005;
-- confirm no Part006 canonical record is created;
-- create/update `PART_005_FINAL_STATUS_SYNC.md`;
-- synchronize handover, README, source intake, multipart policy, page map and next-chat prompts;
-- preserve Part001–Part004 frozen.
+- reconcile all Part005 live-frontier/control documents to the already-verified 30/30 status;
+- confirm README, handover, source intake, multipart policy, page map, gate trackers and next-chat prompts agree on the current state;
+- create/update `PART_005_DOCUMENTATION_SYNC.md`;
+- do not modify any Part005 canonical page record;
+- do not change Tamil body text, metadata, page types, provenance, or status fields;
+- preserve Part001–Part004 frozen;
+- do not create Part006 canonical records;
+- confirm documentation-sync canonical Part005 page mutations = **0** and Part006 canonical leakage = **0**.
 
 ## Stop rule
 
-Stop after **Part005 final metadata/status synchronization** is durably closed and synchronized.
+Stop after **Part005 documentation synchronization** is durably complete.
 
-Exact next gate after PASS: **Part005 documentation synchronization**.
+Exact next gate after PASS: **Part005 Tamil archival-ready checkpoint**.

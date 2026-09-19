@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PART AUDIT PASS / FINAL STATUS SYNC NEXT.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / FINAL STATUS SYNC CLOSED / DOCUMENTATION SYNC NEXT.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **121–150**;
@@ -42,7 +42,7 @@ The canonical `scan_page` remains the overall scan number **121–150**.
 
 ## Current gate
 
-Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PART AUDIT PASS / FINAL STATUS SYNC NEXT**.
+Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / FINAL STATUS SYNC CLOSED / DOCUMENTATION SYNC NEXT**.
 
 - incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
@@ -57,6 +57,10 @@ Part 005 source split: **SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PART AU
 - Pass 3 cumulative — **0 textual corrections; 0 unresolved visual/structural questions**
 - Part audit — **PASS / COMPLETE**
 - canonical/body mutations caused by Part audit — **0**
-- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- unresolved status exceptions — **0**
+- documentation synchronization — **NOT STARTED / NEXT GATE**
 
-Part004 remains **FINAL CLOSED / FROZEN**. Part005 Part audit is closed; the exact next gate is final metadata/status synchronization.
+Part004 remains **FINAL CLOSED / FROZEN**. Part005 final status synchronization is closed; the exact next gate is documentation synchronization.

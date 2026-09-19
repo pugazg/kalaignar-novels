@@ -110,10 +110,13 @@ All page records remain `needs-review` pending Pass 2B, Pass 3, Part audit and f
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 4 source-text / lexical / spacing corrections; 0 historical-glyph corrections; 0 unresolved**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
 - Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- documentation synchronization — **NOT STARTED / NEXT GATE**
 
 ## Exact next activity
 
-Perform **Part005 final metadata/status synchronization**.
+Perform **Part005 documentation synchronization**.
 
-Promote only the two final per-page status fields from `needs-review` to `verified`, based on the closed Part audit. Do not modify canonical Tamil body text. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.
+Do not modify Part005 canonical page records. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.

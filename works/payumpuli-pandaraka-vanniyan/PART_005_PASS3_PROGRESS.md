@@ -129,13 +129,16 @@ No Pass-3 blocker remains for the **Part audit** gate.
 - canonical/body mutations caused by Part audit — **0**
 - status promotions caused by Part audit — **0**
 - Part006 canonical leakage — **0**
-- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- documentation synchronization — **NOT STARTED / NEXT GATE**
 
 Durable audit record:
 - `PART_005_AUDIT.md`
 
 ## Exact next activity
 
-Perform **Part005 final metadata/status synchronization**.
+Perform **Part005 documentation synchronization**.
 
-Promote only the two final per-page status fields from `needs-review` to `verified`, based on the closed Part audit. Do not modify canonical Tamil body text. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.
+Do not modify Part005 canonical page records. Preserve Part001–Part004 as **FINAL CLOSED / FROZEN** and do not create Part006 canonical records.
