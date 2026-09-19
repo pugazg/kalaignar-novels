@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART005 RELEASE/READINESS — PASS / CLOSED — RELEASE SYNC NEXT**
+**PART005 RELEASE-READY SYNC — PASS / CLOSED — FINAL CLOSURE NEXT**
 
 Part001–Part004 English remain **FINAL CLOSED / FROZEN**.
 
@@ -19,7 +19,7 @@ Part001–Part004 English remain **FINAL CLOSED / FROZEN**.
 | Editorial | Part005 whole-Part English editorial review | 121–150 | **PASS / CLOSED** |
 | Bilingual | Part005 whole-Part bilingual review | 121–150 | **PASS / CLOSED** |
 | Release | Part005 release/readiness | 121–150 | **PASS / CLOSED** |
-| Release sync | Part005 release-ready synchronization | 121–150 | **NOT STARTED** |
+| Release sync | Part005 release-ready synchronization | 121–150 | **PASS / CLOSED** |
 | Final closure | Part005 final closure | 121–150 | **NOT STARTED** |
 
 ## Current counts
@@ -146,6 +146,17 @@ No Part005 English prose is drafted in this planning gate.
 - Part006 leakage — **0**
 - durable record — `PART_005_RELEASE_REPORT.md`
 
+## Release-ready synchronization closure
+
+- release-ready synchronization — **PASS / CLOSED**
+- canonical Tamil body changes — **0**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- protected source-variant collapses — **0**
+- frozen Part001–Part004 body changes — **0**
+- Part006 leakage — **0**
+- durable record — `../../PART_005_RELEASE_READY_SYNC.md`
+
 ## Exact next activity
 
-**Part005 release-ready synchronization.**
+**Part005 final closure.**

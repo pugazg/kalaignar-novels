@@ -651,6 +651,18 @@ Durable record:
 Durable record:
 - `PART_005_RELEASE_REPORT.md`
 
+## Part005 release-ready synchronization
+
+- result — **PASS / CLOSED**
+- canonical Tamil body changes — **0**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- source-variant collapses — **0**
+- Part006 leakage — **0**
+
+Durable record:
+- `../../PART_005_RELEASE_READY_SYNC.md`
+
 ## Current exact next activity
 
-Perform **Part005 release-ready synchronization**.
+Create and verify **Part005 final closure** `../../PART_005_FINAL_CLOSURE.md`.

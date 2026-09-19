@@ -104,7 +104,7 @@ For every `N→N+1` boundary:
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
-- Part005 — **ACTIVE / AUTHORIZED — RELEASE CLOSED / RELEASE SYNC NEXT**
+- Part005 — **ACTIVE / AUTHORIZED — RELEASE SYNC CLOSED / FINAL CLOSURE NEXT**
 - Part005 canonical page records — **30/30 — scans121–150**
 - Part005 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
@@ -145,7 +145,11 @@ For every `N→N+1` boundary:
 - release/readiness — **PASS / CLOSED**
 - unresolved release/readiness blockers — **0**
 - source PDFs in active work tree — **0**
-- release-ready synchronization — **NOT STARTED / NEXT GATE**
+- release-ready synchronization — **PASS / CLOSED**
+- release-sync canonical/assembled/English body changes — **0**
+- release-sync protected source-variant collapses — **0**
+- Part006 leakage — **0**
+- final closure — **NOT STARTED / NEXT GATE**
 - split-boundary classifications — **5 / 15 audited**
 
 Audited boundaries:

@@ -194,7 +194,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/E16_SOURCE_CHECK.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_004_BOUNDARY_AUDIT_120_121.md`
 
-## Part005 — ACTIVE / RELEASE CLOSED / RELEASE SYNC NEXT
+## Part005 — ACTIVE / RELEASE SYNC CLOSED / FINAL CLOSURE NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_005_pages_121-150.pdf`
 - global scans — **121–150**
@@ -247,7 +247,11 @@ Durable records:
 - release/readiness — **PASS / CLOSED**
 - unresolved release/readiness blockers — **0**
 - source PDFs in active work tree — **0**
-- release-ready synchronization — **NOT STARTED / NEXT GATE**
+- release-ready synchronization — **PASS / CLOSED**
+- release-sync canonical/assembled/English body changes — **0**
+- release-sync protected source-variant collapses — **0**
+- Part006 leakage — **0**
+- final closure — **NOT STARTED / NEXT GATE**
 - Part001–Part004 — **FINAL CLOSED / FROZEN**
 
 Durable records:
@@ -263,6 +267,6 @@ Durable records:
 
 ## Exact next activity
 
-Perform **Part005 release-ready synchronization**.
+Create and verify **Part005 final closure**.
 
-Synchronize lifecycle/status controls only; do not change canonical Tamil, assembled Tamil or maintained English body text.
+Independently confirm the entire Part005 Tamil/assembled/English/release chain, post-release drift, boundary locks and blocker accounting. Do not begin Part006 in this gate.
