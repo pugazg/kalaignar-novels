@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part007 release-ready synchronization
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part007 final closure
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -13,7 +13,8 @@ Part001–Part006 are **FINAL CLOSED / FROZEN**.
 - English editorial review — **PASS / CLOSED**
 - whole-Part bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
-- unresolved release/readiness blockers — **0**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved blockers — **0**
 - incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
 - Part008 canonical records — **0**
@@ -21,10 +22,10 @@ Part001–Part006 are **FINAL CLOSED / FROZEN**.
 
 ## Exact activity
 
-Perform **Part007 release-ready synchronization**.
+Create and verify **Part007 final closure**.
 
-Synchronize lifecycle/status/navigation/report controls only. Do not change canonical Tamil, assembled Tamil, or maintained English body text.
+The final closure must independently reconcile Tamil archival, assembled Tamil, English E34–E39, glossary, editorial, bilingual, release/readiness and release-ready synchronization. Verify no post-release body drift, source-PDF exclusion, protected variants, both audited boundaries, and zero Part008 leakage.
 
-Preserve all protected source variants and both audited boundaries. Keep Part001–Part006 frozen and Part008 blocked with canonical records 0.
+Create `PART_007_FINAL_CLOSURE.md`, synchronize all maintained work/repository controls so Part007 is **FINAL CLOSED / FROZEN** everywhere and Part008 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
 
-Create `PART_007_RELEASE_READY_SYNC.md`, verify the synchronization introduces **0 body changes**, synchronize maintained controls, and stop after the gate closes. **Do not perform final Part007 closure in the same activity.**
+Do not begin Part008 transcription in the same final-closure activity.
