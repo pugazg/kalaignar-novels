@@ -44,10 +44,11 @@ Part007 current gates:
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 3 — **IN PROGRESS — 10/30 REVIEWED**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass-3 textual corrections — **0**
 - unresolved Pass-3 visual/structural questions — **0**
+- Part audit — **NOT STARTED / NEXT GATE**
 
 Part008 remains **SUPPLIED / REGISTERED** and canonical Part008 page records remain **0**.
 
-Exact next activity: **Part007 Pass 3 — scans191–200 / local pages11–20**.
+Exact next activity: **Part007 Part audit**.

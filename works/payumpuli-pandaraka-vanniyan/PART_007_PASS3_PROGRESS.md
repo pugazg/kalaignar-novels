@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS — 10/30 REVIEWED**
+**PASS 3 — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisites:
 - Part007 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -19,29 +19,32 @@ Scope:
 
 ## Pass 3 method
 
-Pass 3 is the visual / structural verification layer.
+Pass 3 is the whole-Part **visual / structural verification** layer.
 
 For every reviewed scan:
-- heading and displayed-text hierarchy are checked against the full-page rendered source image;
-- paragraph/dialogue block structure and meaningful displayed lineation are checked;
-- printed page numbers and recurring page furniture are verified;
-- chapter-opening treatment and chapter-closing blank fields are classified;
-- physical page-boundary continuation states and structural joins are verified;
-- canonical Tamil is changed only if direct visual / structural evidence requires it.
+- heading and displayed-text hierarchy were checked against the full-page rendered source image;
+- paragraph/dialogue block structure and meaningful displayed lineation were checked;
+- printed page numbers and recurring page furniture were verified;
+- chapter-opening treatment and chapter-closing blank fields were classified;
+- physical page-boundary continuation states and structural joins were verified;
+- canonical Tamil was changed only if direct visual / structural evidence required it.
 
-All reviewed Part007 pages deliberately remain `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later whole-Part gates.
+Formal Part007 Pass2A / Pass2B / Pass3 evidence blocks are now present in all **30/30** canonical page records.
 
-## Current accounting
+At Pass-3 closure all pages deliberately remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Promotion to `verified` remains blocked until the Part audit and final metadata/status synchronization.
 
-- Pass 3 reviewed: **10/30 — scans181–190**
-- Pass 3 remaining: **20 — scans191–210**
-- Batch 1 scans181–190 — **COMPLETE / REVIEWED / PASS**
-- Batch 1 textual corrections — **0**
-- Batch 1 unresolved visual/structural questions — **0**
+## Final accounting
+
+- Pass 3 reviewed: **30/30 — scans181–210**
+- Pass 3 remaining: **0**
+- Batch 1 scans181–190 — **0 textual corrections; 0 unresolved visual/structural questions**
+- Batch 2 scans191–200 — **0 textual corrections; 0 unresolved visual/structural questions**
+- Batch 3 scans201–210 — **0 textual corrections; 0 unresolved visual/structural questions**
 - cumulative Pass 3 textual corrections — **0**
 - cumulative unresolved visual/structural questions — **0**
 - status promotions — **0**
 - Part008 canonical records created — **0**
+- Part audit — **NOT STARTED / NEXT GATE**
 
 ## Batch 1 — scans181–190
 
@@ -60,17 +63,64 @@ All reviewed Part007 pages deliberately remain `status: "needs-review"` / `visua
 | 189 | 9 | 180 | body | short chapter28-closing text with large intentional blank lower field |
 | 190 | 10 | 181 | chapter-opening | displayed chapter number **29** + `பியசிலி-பிறந்த நாள்!`; body ends at `மனுக்கள் வாயிலாகப்` and continues into scan191 |
 
-## Batch-1 durable findings
+## Batch 2 — scans191–200
 
-- recurring framed body-page structure and centered printed folio treatment are preserved;
-- scans183 and189 contain source-visible large blank lower fields after chapter-closing text; these are intentional layout, not missing transcription;
-- chapter openings are structurally confirmed at scan184 / chapter28 and scan190 / chapter29;
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+| Scan | Local | Printed | Page type | Structural result |
+|---:|---:|---:|---|---|
+| 191 | 11 | 182 | body | normal framed continuation from scan190; chapter29 continues |
+| 192 | 12 | 183 | body | normal framed prose/dialogue continuation |
+| 193 | 13 | 184 | body | normal framed continuation; ends at `அவர்களிடமிருந்து பணம்` |
+| 194 | 14 | 185 | body | continues scan193; ends at `மறுத்த நிகழ்ச்சியை` |
+| 195 | 15 | 186 | body | short chapter29-closing text with large intentional blank lower field |
+| 196 | 16 | 187 | chapter-opening | displayed chapter number **30** + `வெற்றிப் புன்னகை!`; body follows below |
+| 197 | 17 | 188 | body | normal framed prose/dialogue continuation |
+| 198 | 18 | 189 | body | framed continuation with source-displayed five-line reflection preserved |
+| 199 | 19 | 190 | body | normal framed prose/dialogue continuation |
+| 200 | 20 | 191 | body | normal framed continuation; chapter30 remains open into the next physical scan |
+
+## Batch 3 — scans201–210
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+| Scan | Local | Printed | Page type | Structural result |
+|---:|---:|---:|---|---|
+| 201 | 21 | 192 | chapter-opening | displayed chapter number **31** + `“மகளே உன் சமர்த்து!”`; body follows below |
+| 202 | 22 | 193 | body | normal framed continuation; ends inside open quotation at `அவன் வெள்ளைப்` |
+| 203 | 23 | 194 | body | continues scan202; ends at `அவனை அழைத்துக் கொண்டுவந்துவிட்டார்கள்` |
+| 204 | 24 | 195 | body | normal framed prose/dialogue continuation; ends inside king's speech at `கருதுகிறவன்` |
+| 205 | 25 | 196 | body | continues scan204; ends at `கூர்ந்து நோக்கிக்` |
+| 206 | 26 | 197 | body | short chapter31-closing text with large intentional blank lower field |
+| 207 | 27 | 198 | chapter-opening | displayed chapter number **32** + `நிதானமான கையெழுத்து!`; body follows below |
+| 208 | 28 | 199 | body | normal framed prose/dialogue continuation; ends at `கூறிக்கொண்டே` |
+| 209 | 29 | 200 | body | normal framed prose/dialogue continuation; ends at `கொதிப்பேறக்` |
+| 210 | 30 | 201 | body | normal framed continuation; chapter32 remains open across audited outgoing 210→211 split |
+
+## Durable visual / structural findings
+
+- ordinary Part007 text pages preserve the recurring ornamental body frame and centered printed-page footer treatment;
+- chapter openings are structurally confirmed at:
+  - scan184 — chapter **28**, `பரிவும் - பிரிவும்!`;
+  - scan190 — chapter **29**, `பியசிலி-பிறந்த நாள்!`;
+  - scan196 — chapter **30**, `வெற்றிப் புன்னகை!`;
+  - scan201 — chapter **31**, `“மகளே உன் சமர்த்து!”`;
+  - scan207 — chapter **32**, `நிதானமான கையெழுத்து!`;
+- scans183, 189, 195 and206 contain substantial source-visible blank lower fields after chapter-closing text; these are intentional page structure, not missing transcription;
+- scan198 preserves a source-displayed five-line reflection within the framed body text;
+- physical continuations 180→181, 188→189, 190→191, 193→194, 204→205, 209→210 and 210→211 are structurally consistent with the source;
 - incoming **180→181 GENUINE CONTINUATION / AUDITED** remains structurally consistent;
-- scan188→189 and scan190→191 physical continuations are structurally consistent;
-- Pass 3 introduced **0 textual corrections** and left **0 unresolved visual / structural questions** in scans181–190.
+- outgoing **210→211 GENUINE CONTINUATION / AUDITED** remains structurally consistent;
+- Pass 3 introduced **0 textual corrections** and left **0 unresolved visual / structural questions**.
+
+## Pass 3 closure
+
+**PASS — 30/30 Part007 physical scans visually / structurally reviewed.**
+
+No Pass-3 blocker remains for the **Part audit** gate.
 
 ## Exact next activity
 
-Continue **Part007 Pass 3 — global scans191–200 / local pages11–20**.
+Perform **Part007 Part audit**.
 
-Perform direct full-page visual / structural verification against Part007 source images. Preserve source text, keep Part001–Part006 frozen, keep all Part007 pages `needs-review`, and do not create/import Part008 canonical body text.
+Reconcile all 30 canonical records, Pass1/Pass2A/Pass2B/Pass3 evidence, chapter/page structure, both audited split boundaries, printed-page sequence and current `needs-review` metadata. Do not promote metadata to `verified` until the audit passes. Keep Part001–Part006 frozen and Part008 canonical leakage at 0.

@@ -512,20 +512,23 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part007 canonical page records — **30/30 — scans181–210**
 - Part007 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part007 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part007 Pass 2A cumulative source-text corrections — **9**
 - Part007 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part007 Pass 3 — **IN PROGRESS — 10/30 REVIEWED**
-- Part007 Pass-3 reviewed range — **scans181–190**
+- Part007 Pass 2B cumulative — **2 source-text / spacing corrections; 0 historical-glyph corrections**
+- Part007 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
 - Part007 Pass-3 textual corrections — **0**
 - Part007 unresolved Pass-3 visual/structural questions — **0**
 - Part007 incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part007 outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
+- Part007 page metadata — **30/30 needs-review**
+- Part007 Part audit — **NOT STARTED / NEXT GATE**
 - Part008 canonical page records — **0**
-- frozen Part001–Part006 body mutations caused by this Pass-3 batch — **0**
+- frozen Part001–Part006 body mutations caused by Pass 3 — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Continue **Part007 Pass 3 — global scans191–200 / local pages11–20**.
+Perform **Part007 Part audit**.
 
-Keep Part001–Part006 frozen. Perform direct visual / structural verification against rendered Part007 source images. Keep Part008 canonical leakage at 0.
+Keep Part001–Part006 frozen and Part008 canonical leakage at 0. Do not promote Part007 page metadata until the audit passes.
