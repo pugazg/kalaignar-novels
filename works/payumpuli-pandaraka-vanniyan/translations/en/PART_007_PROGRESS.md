@@ -17,8 +17,8 @@ Part001–Part006 English remain **FINAL CLOSED / FROZEN**.
 | Glossary reconciliation | Part007 whole-Part reconciliation | 181–210 | **RECONCILED / PASS** |
 | Editorial | Part007 whole-Part English editorial review | 181–210 | **PASS / CLOSED** |
 | Bilingual | Part007 whole-Part bilingual review | 181–210 | **PASS / CLOSED** |
-| Release | Part007 release/readiness | 181–210 | **NOT STARTED / NEXT** |
-| Release sync | Part007 release-ready synchronization | 181–210 | **BLOCKED until release/readiness** |
+| Release | Part007 release/readiness | 181–210 | **PASS / CLOSED** |
+| Release sync | Part007 release-ready synchronization | 181–210 | **NOT STARTED / NEXT** |
 | Final closure | Part007 final closure | 181–210 | **BLOCKED until release sync** |
 
 ## Current counts
@@ -181,4 +181,25 @@ Durable report:
 Exact next gate:
 
 **Part007 release/readiness report.**
+
+## Part007 release/readiness checkpoint
+
+**PART007 RELEASE/READINESS — PASS / CLOSED.**
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- E34–E39 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+- source-PDF paths in active work tree — **0**
+- Part008 canonical/body leakage — **0**
+
+Durable report:
+- `translations/en/PART_007_RELEASE_REPORT.md`
+
+Exact next gate:
+
+**Part007 release-ready synchronization.**
 

@@ -903,3 +903,24 @@ Exact next gate:
 
 **Part007 release/readiness report.**
 
+## Part007 release/readiness checkpoint
+
+**PART007 RELEASE/READINESS — PASS / CLOSED.**
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- E34–E39 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+- source-PDF paths in active work tree — **0**
+- Part008 canonical/body leakage — **0**
+
+Durable report:
+- `translations/en/PART_007_RELEASE_REPORT.md`
+
+Exact next gate:
+
+**Part007 release-ready synchronization.**
+
