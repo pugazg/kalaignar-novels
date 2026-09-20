@@ -219,3 +219,28 @@ Part008 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**:
 Durable final record:
 - `works/payumpuli-pandaraka-vanniyan/PART_007_FINAL_CLOSURE.md`
 
+## Part008 Pass1 batch-1 checkpoint
+
+**PART008 PASS 1 — IN PROGRESS — 10/30 TEXT-COMPLETE.**
+
+- Part001–Part007 — **FINAL CLOSED / FROZEN**
+- active Part — **Part008 / scans211–240**
+- canonical Part008 page records — **10/30 — scans211–220**
+- Pass1 text-complete — **10/30**
+- printed pages completed — **202–211**
+- unresolved completed-batch source-reading holds — **0**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **PENDING direct audit**
+- Part009 canonical records — **0**
+- frozen prior-Part body mutations — **0**
+- Pass2A — **BLOCKED until Pass1 covers all 30 scans**
+
+Batch1 structure:
+- scans211–212 — chapter32 `நிதானமான கையெழுத்து!` continuation/close
+- scans213–218 — chapter33 `ஒப்பந்தப் பத்திரம்`
+- scans219–220 — chapter34 `கடவுள் யார் பக்கம்!` begins and continues
+
+Exact next activity:
+
+**Part008 Pass1 — scans221–230 / local pages11–20.**
+

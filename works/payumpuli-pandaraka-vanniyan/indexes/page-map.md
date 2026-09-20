@@ -216,16 +216,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 007 | 28 | 208 | 199 | `நிதானமான கையெழுத்து!` continuation; ends `கூறிக்கொண்டே` | verified | `pages/0208-nidhanamana-kaiyezhuthu.md` |
 | 007 | 29 | 209 | 200 | `நிதானமான கையெழுத்து!` continuation; ends `கொதிப்பேறக்` | verified | `pages/0209-nidhanamana-kaiyezhuthu.md` |
 | 007 | 30 | 210 | 201 | `நிதானமான கையெழுத்து!` continuation; outgoing 210→211 genuine continuation audited | verified | `pages/0210-nidhanamana-kaiyezhuthu.md` |
-| 008 | 1 | 211 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 2 | 212 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 3 | 213 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 4 | 214 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 5 | 215 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 6 | 216 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 7 | 217 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 8 | 218 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 9 | 219 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 10 | 220 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 1 | 211 | 202 | `நிதானமான கையெழுத்து!` continuation; incoming 210→211 genuine continuation audited | needs-review | `pages/0211-nidhanamana-kaiyezhuthu.md` |
+| 008 | 2 | 212 | 203 | `நிதானமான கையெழுத்து!` continuation / chapter32 close; large intentional blank lower field | needs-review | `pages/0212-nidhanamana-kaiyezhuthu.md` |
+| 008 | 3 | 213 | 204 | chapter33 opening `ஒப்பந்தப் பத்திரம்`; displayed number 33 | needs-review | `pages/0213-oppandha-paththiram.md` |
+| 008 | 4 | 214 | 205 | `ஒப்பந்தப் பத்திரம்` continuation; ends `எவரும்` | needs-review | `pages/0214-oppandha-paththiram.md` |
+| 008 | 5 | 215 | 206 | `ஒப்பந்தப் பத்திரம்` continuation | needs-review | `pages/0215-oppandha-paththiram.md` |
+| 008 | 6 | 216 | 207 | `ஒப்பந்தப் பத்திரம்` continuation; ends `அது இடம்` | needs-review | `pages/0216-oppandha-paththiram.md` |
+| 008 | 7 | 217 | 208 | `ஒப்பந்தப் பத்திரம்` continuation | needs-review | `pages/0217-oppandha-paththiram.md` |
+| 008 | 8 | 218 | 209 | `ஒப்பந்தப் பத்திரம்` close; large intentional blank lower field | needs-review | `pages/0218-oppandha-paththiram.md` |
+| 008 | 9 | 219 | 210 | chapter34 opening `கடவுள் யார் பக்கம்!`; displayed number 34; ends `வகுக்கும்` | needs-review | `pages/0219-kadavul-yaar-pakkam.md` |
+| 008 | 10 | 220 | 211 | `கடவுள் யார் பக்கம்!` continuation; ends inside speech at `எதிர்க்கிறான்` | needs-review | `pages/0220-kadavul-yaar-pakkam.md` |
 | 008 | 11 | 221 | — | unclassified — direct visual audit pending | not-started | — |
 | 008 | 12 | 222 | — | unclassified — direct visual audit pending | not-started | — |
 | 008 | 13 | 223 | — | unclassified — direct visual audit pending | not-started | — |
@@ -508,24 +508,21 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Parts supplied / registered — **16 / 16**
 - physical scan coverage by split ranges — **477 / 477**
 - Part001–Part007 — **FINAL CLOSED / FROZEN**
-- Part007 canonical pages — **30/30 verified**
-- Part007 assembled Tamil — **6/6 VERIFIED / CLOSED**
-- Part007 English E34–E39 — **6/6 SOURCE-CHECKED / COMPLETE**
-- Part007 glossary reconciliation — **RECONCILED / PASS**
-- Part007 editorial review — **PASS / CLOSED**
-- Part007 bilingual review — **PASS / CLOSED**
-- Part007 release/readiness — **PASS / CLOSED**
-- Part007 release-ready synchronization — **PASS / CLOSED**
-- Part007 final closure — **PASS / CLOSED / FROZEN**
-- Part007 incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
-- Part007 outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
-- Part008 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
-- Part008 canonical page records — **0**
+- active maintained Part — **Part008 / scans211–240**
+- Part008 canonical page records — **10/30 — scans211–220**
+- Part008 Pass1 text-complete — **10/30**
+- Part008 Pass1 pending — **scans221–240**
+- completed Part008 printed-page coverage — **202–211**
 - Part008 incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
 - Part008 outgoing 240→241 — **PENDING direct audit**
+- unresolved completed-batch Pass1 holds — **0**
+- Part009 canonical page records — **0**
+- frozen Part001–Part007 body mutations caused by Part008 batch1 — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Begin **Part008 Pass1 — global scans211–220 / local pages1–10**.
+Continue **Part008 Pass1 — global scans221–230 / local pages11–20**.
+
+Do not begin Part008 Pass2A until Pass1 covers all 30 scans.
