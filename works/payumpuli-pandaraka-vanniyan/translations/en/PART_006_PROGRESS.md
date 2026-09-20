@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**E27–E33 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
+**GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 Part001–Part005 English remain **FINAL CLOSED / FROZEN**.
 
@@ -15,7 +15,7 @@ Part001–Part005 English remain **FINAL CLOSED / FROZEN**.
 | **E31** | section34 — `பேய் மகள் பியசிலி!` | 167–171 | **SOURCE-CHECKED / COMPLETE** |
 | **E32** | section35 — `நடந்ததை விளக்கிய நச்சு நாக்கு!` | 172–178 | **SOURCE-CHECKED / COMPLETE** |
 | **E33** | section36 — `நார்த்தும் நயவஞ்சகமும்!` | 179–180 | **SOURCE-CHECKED / COMPLETE** |
-| Glossary | Part006 whole-Part reconciliation | 151–180 | **NOT STARTED** |
+| Glossary | Part006 whole-Part reconciliation | 151–180 | **RECONCILED / PASS** |
 | Editorial | Part006 whole-Part English editorial review | 151–180 | **NOT STARTED** |
 | Bilingual | Part006 whole-Part bilingual review | 151–180 | **NOT STARTED** |
 | Release | Part006 release/readiness | 151–180 | **NOT STARTED** |
@@ -104,6 +104,17 @@ No Part006 English literary prose is drafted in this planning gate.
 - frozen Part001–Part005 English body edits — **0**
 - Part007 leakage — **0**
 
+## Glossary reconciliation closure
+
+- maintained English files checked — **7/7**
+- glossary-driven English body edits — **0**
+- source-variant collapses — **0**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0**
+- frozen Part001–Part005 English body edits — **0**
+- Part007 leakage — **0**
+- durable record — `PART_006_GLOSSARY_RECONCILIATION.md`
+
 ## Exact next activity
 
-**Part006 whole-Part English glossary reconciliation.**
+**Part006 English editorial review.**

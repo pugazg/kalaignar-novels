@@ -1,6 +1,6 @@
 # Part 006 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E27–E33 SOURCE-CHECKED / ACTIVE — WHOLE-PART RECONCILIATION NEXT**
+Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 This glossary is derived only from verified Part006 Tamil plus frozen earlier project-English choices where the **same Tamil source form** recurs.
 
@@ -116,3 +116,19 @@ Quoted or attributed claims remain attributed to the source speaker/narrator. Do
 - assembled Tamil changes caused by glossary setup — **0**
 - frozen Part001–Part005 English body changes — **0**
 - Part007 leakage — **0**
+
+
+## Reconciliation result
+
+- maintained English files checked — **7/7**
+- glossary-driven English body edits — **0**
+- source-variant collapses — **0**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0**
+- frozen Part001–Part005 English body edits — **0**
+- Part007 leakage — **0**
+- durable record — `PART_006_GLOSSARY_RECONCILIATION.md`.
+
+## Exact next gate
+
+**Part006 English editorial review.**

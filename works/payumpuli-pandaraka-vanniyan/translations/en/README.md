@@ -673,7 +673,7 @@ Durable record:
 Durable final record:
 - `../../PART_005_FINAL_CLOSURE.md`
 
-Part006 is now **ACTIVE / E27–E33 SOURCE-CHECKED / GLOSSARY RECONCILIATION NEXT**.
+Part006 is now **ACTIVE / GLOSSARY RECONCILED / EDITORIAL REVIEW NEXT**.
 
 ## Part006 — ACTIVE ENGLISH WORKFLOW
 
@@ -734,4 +734,16 @@ Outgoing:
 
 ## Current exact next activity
 
-Perform **Part006 whole-Part English glossary reconciliation**.
+Perform **Part006 English editorial review**.
+
+
+## Part006 glossary reconciliation
+
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- maintained English files checked — **7/7**
+- glossary-driven English body edits — **0**
+- source-variant collapses — **0**
+- unresolved glossary holds — **0**
+- Part007 leakage — **0**
+
+Durable record: `PART_006_GLOSSARY_RECONCILIATION.md`.

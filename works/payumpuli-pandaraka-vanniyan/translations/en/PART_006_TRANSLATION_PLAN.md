@@ -1,6 +1,6 @@
 # Part 006 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E27–E33 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
+Status: **GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 This is the control plan for the project-created English translation of **Part006 only**.
 
@@ -182,4 +182,4 @@ E27–E33 subsequently completed:
 
 ## Exact next gate
 
-**Part006 whole-Part English glossary reconciliation.**
+**Part006 English editorial review.**
