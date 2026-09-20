@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part007 Pass1 scans191–200
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part007 Pass1 scans201–210
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,11 +10,11 @@ Part007:
 - local pages — **1–30**
 - incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 210→211 — **PENDING direct audit**
-- canonical Part007 page records — **10/30 — scans181–190**
-- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- canonical Part007 page records — **20/30 — scans181–200**
+- Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
 - unresolved Pass-1 source-reading holds — **0**
-- completed batch — **scans181–190 / local pages1–10**
-- next exact batch — **scans191–200 / local pages11–20**
+- completed batches — **scans181–190 / local pages1–10** and **scans191–200 / local pages11–20**
+- next exact batch — **scans201–210 / local pages21–30**
 - Pass 2A — **BLOCKED until Pass 1 covers scans181–210**
 
 Read first:
@@ -24,13 +24,12 @@ Read first:
 4. `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_007.md`
 
 Exact activity:
-- continue **Part007 Pass 1 — global scans191–200 / local pages11–20**;
+- continue **Part007 Pass 1 — global scans201–210 / local pages21–30**;
 - use rendered source page images as controlling representation;
 - preserve exact source Tamil spelling, punctuation, paragraph/meaningful lineation and physical page fragments;
 - preserve exact Part007 provenance on every canonical record;
 - do not modify frozen Part001–Part006 body layers;
-- do not inspect/import scan201 body text in this iteration;
-- keep outgoing **210→211** pending direct audit;
-- do not begin Pass 2A.
+- keep **210→211** pending until the adjacent source scans are directly audited;
+- do not begin Pass 2A in the same activity.
 
 Stop after the requested Pass-1 batch is durably recorded and synchronized.

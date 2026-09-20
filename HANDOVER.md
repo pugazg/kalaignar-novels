@@ -329,13 +329,13 @@ Part001–Part006 are **FINAL CLOSED / FROZEN**. Part007 is **NEXT ACTIVE / AUTH
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_007_pages_181-210.pdf`
 - global scans — **181–210**
 - local pages — **1–30**
-- canonical Part007 page records — **10/30 — scans181–190**
-- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- canonical Part007 page records — **20/30 — scans181–200**
+- Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
 - unresolved Pass-1 source-reading holds — **0**
 - incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 210→211 — **PENDING direct audit**
-- completed Pass-1 batch — **scans181–190 / local pages1–10**
-- next Pass-1 batch — **scans191–200 / local pages11–20**
+- completed Pass-1 batches — **scans181–190 / local pages1–10**; **scans191–200 / local pages11–20**
+- next Pass-1 batch — **scans201–210 / local pages21–30**
 - Pass 2A — **BLOCKED until Pass 1 covers scans181–210**
 - frozen Part001–Part006 canonical/assembled/English body mutations in this activity — **0**
 
@@ -344,6 +344,7 @@ Durable progress record:
 
 ## Exact next activity
 
-Continue **Part007 Pass 1 — global scans191–200 / local pages11–20**.
+Continue **Part007 Pass 1 — global scans201–210 / local pages21–30**.
 
-Use the Part007 rendered source page images as controlling representation. Preserve exact source wording, punctuation, paragraph/meaningful lineation, page fragments and provenance. Do not modify frozen Part001–Part006 body layers. Do not inspect/import scan201 body text in that 10-page activity. Keep outgoing **210→211** pending direct audit and do not begin Pass 2A.
+Use the Part007 rendered source page images as controlling representation. Preserve exact source wording, punctuation, paragraph/meaningful lineation, page fragments and provenance. Do not modify frozen Part001–Part006 body layers. Keep **210→211** pending until directly audited. Do not begin Pass 2A in the same activity.
+

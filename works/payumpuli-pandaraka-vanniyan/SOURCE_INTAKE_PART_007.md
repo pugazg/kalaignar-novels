@@ -48,13 +48,13 @@ Part001–Part006 are **FINAL CLOSED / FROZEN**.
 
 - incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 210→211 — **PENDING direct audit**
-- canonical Part007 page records — **10/30 — scans181–190**
-- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- canonical Part007 page records — **20/30 — scans181–200**
+- Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
 - unresolved Pass-1 source-reading holds — **0**
-- completed Pass-1 batch — **global scans181–190 / local pages1–10**
-- next Pass-1 batch — **global scans191–200 / local pages11–20**
+- completed Pass-1 batches — **global scans181–190 / local pages1–10**; **global scans191–200 / local pages11–20**
+- next Pass-1 batch — **global scans201–210 / local pages21–30**
 - Pass 2A — **BLOCKED until Pass 1 covers scans181–210**
 
-The first Pass-1 batch was transcribed directly from rendered Part007 source page images. Frozen Part006 body text was not imported across 180→181. No scan191+ body text beyond this batch was imported. The 210→211 boundary remains unclassified.
+The first 20 Part007 scans were transcribed directly from rendered source page images. Frozen Part001–Part006 body layers remain unchanged. Scan201 body text was not imported into the scans191–200 batch. The 210→211 boundary remains unclassified.
 
-Exact next activity: **Part007 Pass 1 — global scans191–200 / local pages11–20**.
+Exact next activity: **Part007 Pass 1 — global scans201–210 / local pages21–30**.

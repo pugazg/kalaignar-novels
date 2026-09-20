@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS — 10/30 TEXT-COMPLETE**
+**PASS 1 — IN PROGRESS — 20/30 TEXT-COMPLETE**
 
 Active Part:
 - Part007
@@ -15,15 +15,15 @@ Part001–Part006 remain **FINAL CLOSED / FROZEN**.
 ## Current accounting
 
 - Part007 physical scans: **30**
-- canonical Part007 records present after this batch: **10/30 — scans181–190**
-- Pass-1 text-complete records: **10/30 — scans181–190**
-- Pass-1 transcription pending: **20 — scans191–210**
+- canonical Part007 records present after this batch: **20/30 — scans181–200**
+- Pass-1 text-complete records: **20/30 — scans181–200**
+- Pass-1 transcription pending: **10 — scans201–210**
 - unresolved Pass-1 source-reading holds: **0**
 - incoming 180→181 boundary: **GENUINE CONTINUATION / AUDITED**
 - outgoing 210→211 boundary: **PENDING direct audit**
 - Pass 2A: **BLOCKED until Pass 1 covers scans181–210**
 
-All new Part007 Pass-1 records remain non-final:
+All Part007 Pass-1 records remain non-final:
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
@@ -32,45 +32,53 @@ All new Part007 Pass-1 records remain non-final:
 | Batch | Global scans | Local pages | Printed pages | Status |
 |---|---:|---:|---:|---|
 | 1 | 181–190 | 1–10 | 172–181 | COMPLETE / TEXT-COMPLETE |
-| 2 | 191–200 | 11–20 | pending direct inspection | NOT STARTED |
+| 2 | 191–200 | 11–20 | 182–191 | COMPLETE / TEXT-COMPLETE |
 | 3 | 201–210 | 21–30 | pending direct inspection | NOT STARTED |
 
 ## Batch 1 source-structure observations
 
 - scan181 continues chapter27 `நார்த்தும் நயவஞ்சகமும்!` across the already-audited 180→181 split; the Part007 canonical record begins only with source-visible `-கண்டி மண்டலத்தையும்...` and imports no frozen scan180 body text;
-- scan181 ends inside an open quotation at `தொடர்ந்து போர்!`; scan182 continues it with `அதில் முத்துசாமிக்கு வெற்றி!`;
 - scans181–183 continue and close chapter27; scan183 is a short chapter-closing page with a large intentional blank lower field;
-- scan184 opens chapter28 `பரிவும் - பிரிவும்!` with displayed chapter number **28**;
-- scan184 ends at `தப்பிச்`; scan185 continues `சென்று விட்டாராம்.`;
-- scans184–189 carry chapter28; scan188 ends at `அந்த அன்பு நெஞ்சங்கள்` and scan189 continues `இரண்டும் ஒன்றிக் கலந்திருப்பதை...`;
-- scan189 is a short chapter-closing page with a large intentional blank lower field;
-- scan190 opens chapter29 `பியசிலி-பிறந்த நாள்!` with displayed chapter number **29**;
-- scan190 / printed181 ends at `மனுக்கள் வாயிலாகப்`; scan191 body text was not inspected or imported;
+- scan184 opens chapter28 `பரிவும் - பிரிவும்!`;
+- scans184–189 carry and close chapter28; scan189 is a short chapter-closing page with a large intentional blank lower field;
+- scan190 opens chapter29 `பியசிலி-பிறந்த நாள்!` and ends at `மனுக்கள் வாயிலாகப்`.
+
+## Batch 2 source-structure observations
+
+- scan191 continues scan190 directly: `மனுக்கள் வாயிலாகப்` → `படித்துக் கொண்டிருந்த பிலிமத்தளாவை...`;
+- scans191–195 continue and close chapter29 `பியசிலி-பிறந்த நாள்!`;
+- scan193 / printed184 ends at `அவர்களிடமிருந்து பணம்`; scan194 continues `மட்டுமல்ல, படையும்...`;
+- scan194 / printed185 ends at `மறுத்த நிகழ்ச்சியை`; scan195 continues `இன்னமும் மனத்தில் கல்வெட்டாக...`;
+- scan195 is a short chapter-closing page with a large intentional blank lower field;
+- scan196 opens chapter30 `வெற்றிப் புன்னகை!` with displayed chapter number **30**;
+- scans196–200 carry chapter30;
+- scan198 preserves a source-displayed five-line reflection as meaningful lineation;
+- scan200 / printed191 remains inside chapter30; scan201 body text was **not inspected or imported** in this activity;
 - outgoing **210→211** remains **PENDING direct audit**.
 
-## Notable source readings retained
+## Notable Batch-2 source readings retained
 
-- scan181 — `நிம்மதிதேடி`, `பின்பலத்தோடுதான்`, `அறிவித்துக்கொள்வான்`, `நுழையவிடமாட்டோம்`;
-- scan182 — `தித்திப்பாகத்தான்`, `துணையிருக்கும்-வரையில்`, `எதிர் காலத்தில்`, `வேடம்போட்டுக்`;
-- scan183 — `தானாபதிபிள்ளையை`, `நாகலாபுரத்தில்`, `பாஞ்சாலங்குறிச்சிக்`;
-- scan184 — `தானாபதிபிள்ளையைத்`, `தழுதழுத்த`, `தணல்`, `தமிழ் நாட்டிலிருந்து`, `வளைத்துப் விட்டார்களாம்`;
-- scan185 — `அகப்பட்டமாட்டார்`, `படை பலத்தைப்`, `நன்றாகத்தானிருக்கிறது`, `காக்கைவன்னியனும்`;
-- scan186 — `கூறிப்பயனில்லை`, `வியூகம் வகுக்கலாம்`, `முகமாற்றம்`, `தயார்நிலையில்`;
-- scan187 — `காணாமற்`, `காட்டிக்கொடுக்கும் திருமேனி`, `எதிர் பார்க்கவே`, `இளவரசியென்பவள்`, `வளங்கொழிக்கச்`;
-- scan188 — `தேவாமிர்தமாயிற்றே`, `தோற்றோடுகிற`, `அந்நிய ஆதிக்கத்தை`, `ஏந்தியுள்ள`;
-- scan189 — `அன்றைக்கே`, `நுழைவதற்கும் சரியாக இருந்தது`;
-- scan190 — `கூடப்போய்ச்`, `அன்னியருக்குக்`, `வெளியிட்டு விடுவதெனத்`, `காத்துக்கொண்டிருந்தான்`.
+- scan191 — `மாதிரிபேசுகிறானே`, `புஜங்களை`, `விழியொளி`, `ஆஜானுபாகுவான`, `மெய்க்காப்பாளனாகவும்`;
+- scan192 — `மண்டிலத்துக்கும்`, `அந்தரங்க மெல்லாம்`, `அணுகளவும்`, `சந்தேகப் படாதீர்கள்`, `சூடு சொரணை`, `சிங்களவச் சிங்கம்`;
+- scan193 — `தடுப்பதற்குமுதலில்`, `புரிந்துகொண்ட`, `தேச பக்தியும்`, `மெளனிகளாக`, `விழிகளை விற்றுவிட்டு எழிலோவியம்`;
+- scan194 — `மஞ்சள் தெளித்து`, `இருவேறு கருத்துக்கே`, `சிங்களவன் தமிழன்`, `பொலபொலவென`, `உதிர்வானேன்`;
+- scan195 — `நீர்மேல் எழுத்தாக்கி`, `மேற்பார்வைக்குட்பட்ட`, `சூடு, சொரணை`, `உத்திரவாம்`, `விருந்தும்விழாவும்`;
+- scan196 — `கை பட்ட`, `விழிபட்ட`, `சமயமெனச்`, `சுயநலச் சுரங்க`, `அகக் கண்கள்`, `ஏப்பம்விட்டு`, `இலவு காத்த கிளி`;
+- scan197 — `அந்தஸ்த்து`, `ஆலிங்கனவல்லியாக`, `பின் அழகோ`, `மதுரசக்`, `சரசவல்லி`, `கள்ளி வைத்த கொள்ளியில்`;
+- scan198 — `என் செய்வது`, `வேதனைப் படுகிறேன்`, `கோட்டிலிருந்து`, `முத்தமிட்டேன் பார்க்கலாம்!`;
+- scan199 — `பருவதம்`, `கொய்யாப்பழம்`, source double hyphen `--`, `கோதிக்கொண்டு`;
+- scan200 — `மண்டப மன்னனுக்கு`, `இன்பலோகக் கேணி`, `அகதிகளாய்க்கிடந்த`.
 
-No unresolved Pass-1 source-reading hold remains in scans181–190.
+No unresolved Pass-1 source-reading hold remains in scans191–200.
 
 ## Method note
 
-The controlling source is the user-supplied Part007 split PDF rendered to page images and inspected directly. The PDF exposes no usable parsed text layer. Source wording, punctuation, paragraph/dialogue structure, displayed hierarchy, printed pagination, intentional blank fields and physical page-end fragments are preserved from source pixels. OCR is not treated as source authority.
+The controlling source is the user-supplied Part007 split PDF rendered to page images and inspected directly. Source wording, punctuation, paragraph/dialogue structure, displayed hierarchy, printed pagination, meaningful lineation, intentional blank fields and physical page-end fragments are preserved from source pixels. OCR is not treated as source authority.
 
-The audited incoming **180→181 GENUINE CONTINUATION** remains boundary provenance only: frozen Part006 body text is not copied into Part007. The outgoing **210→211** boundary is not classified in this activity.
+Frozen Part001–Part006 canonical Tamil, assembled Tamil and maintained English body files were not modified. The outgoing **210→211** boundary was not inspected or classified in this activity.
 
 ## Exact next activity
 
-Continue **Part007 Pass 1 — global scans191–200 / local pages11–20**.
+Continue **Part007 Pass 1 — global scans201–210 / local pages21–30**.
 
-Do not begin Pass 2A. Do not modify frozen Part001–Part006 canonical Tamil, assembled Tamil or maintained English body files. Do not inspect/import scan201 body text in the next 10-page Pass-1 batch. Keep outgoing **210→211** pending until directly audited.
+Do not begin Pass 2A. Preserve exact Part007 provenance and source fidelity. Keep **210→211 PENDING direct audit** until the adjacent source scans are directly inspected.

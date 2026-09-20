@@ -196,16 +196,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 007 | 8 | 188 | 179 | `பரிவும் - பிரிவும்!` continuation; ends `அந்த அன்பு நெஞ்சங்கள்` | needs-review | `pages/0188-parivum-pirivum.md` |
 | 007 | 9 | 189 | 180 | short continuation / chapter28 close; large intentional blank lower field | needs-review | `pages/0189-parivum-pirivum.md` |
 | 007 | 10 | 190 | 181 | chapter29 opening `பியசிலி-பிறந்த நாள்!`; ends `மனுக்கள் வாயிலாகப்` | needs-review | `pages/0190-piyasili-pirantha-naal.md` |
-| 007 | 11 | 191 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 12 | 192 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 13 | 193 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 14 | 194 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 15 | 195 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 16 | 196 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 17 | 197 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 18 | 198 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 19 | 199 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 20 | 200 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 11 | 191 | 182 | `பியசிலி-பிறந்த நாள்!` continuation; continues scan190 `மனுக்கள் வாயிலாகப்` | needs-review | `pages/0191-piyasili-pirantha-naal.md` |
+| 007 | 12 | 192 | 183 | `பியசிலி-பிறந்த நாள்!` continuation | needs-review | `pages/0192-piyasili-pirantha-naal.md` |
+| 007 | 13 | 193 | 184 | `பியசிலி-பிறந்த நாள்!` continuation; ends `அவர்களிடமிருந்து பணம்` | needs-review | `pages/0193-piyasili-pirantha-naal.md` |
+| 007 | 14 | 194 | 185 | `பியசிலி-பிறந்த நாள்!` continuation; begins `மட்டுமல்ல, படையும்`; ends `மறுத்த நிகழ்ச்சியை` | needs-review | `pages/0194-piyasili-pirantha-naal.md` |
+| 007 | 15 | 195 | 186 | short continuation / chapter29 close; large intentional blank lower field | needs-review | `pages/0195-piyasili-pirantha-naal.md` |
+| 007 | 16 | 196 | 187 | chapter30 opening `வெற்றிப் புன்னகை!` | needs-review | `pages/0196-vetri-punnagai.md` |
+| 007 | 17 | 197 | 188 | `வெற்றிப் புன்னகை!` continuation | needs-review | `pages/0197-vetri-punnagai.md` |
+| 007 | 18 | 198 | 189 | `வெற்றிப் புன்னகை!` continuation; source-displayed five-line reflection preserved | needs-review | `pages/0198-vetri-punnagai.md` |
+| 007 | 19 | 199 | 190 | `வெற்றிப் புன்னகை!` continuation | needs-review | `pages/0199-vetri-punnagai.md` |
+| 007 | 20 | 200 | 191 | `வெற்றிப் புன்னகை!` continuation; scan201 body not inspected/imported | needs-review | `pages/0200-vetri-punnagai.md` |
 | 007 | 21 | 201 | — | unclassified — direct visual audit pending | not-started | — |
 | 007 | 22 | 202 | — | unclassified — direct visual audit pending | not-started | — |
 | 007 | 23 | 203 | — | unclassified — direct visual audit pending | not-started | — |
@@ -509,13 +509,13 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - physical scan coverage by split ranges — **477 / 477**
 - Part001–Part006 — **FINAL CLOSED / FROZEN**
 - active content Part — **Part007 / scans181–210**
-- Part007 canonical page records — **10/30 — scans181–190**
-- Part007 Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
-- Part007 Pass-1 transcription pending — **20 — scans191–210**
+- Part007 canonical page records — **20/30 — scans181–200**
+- Part007 Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
+- Part007 Pass-1 transcription pending — **10 — scans201–210**
 - Part007 unresolved Pass-1 source-reading holds — **0**
 - Part007 incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part007 outgoing 210→211 — **PENDING direct audit**
-- Part007 next Pass-1 batch — **scans191–200 / local pages11–20**
+- Part007 next Pass-1 batch — **scans201–210 / local pages21–30**
 - Part007 Pass 2A — **BLOCKED until Pass 1 covers scans181–210**
 - frozen Part001–Part006 body mutations caused by this batch — **0**
 
@@ -523,6 +523,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Continue **Part007 Pass 1 — global scans191–200 / local pages11–20**.
+Continue **Part007 Pass 1 — global scans201–210 / local pages21–30**.
 
-Keep Part001–Part006 frozen. Use rendered Part007 source images as controlling representation. Do not inspect/import scan201 body text in the next 10-page batch. Keep outgoing **210→211** pending direct audit and do not begin Pass 2A.
+Keep Part001–Part006 frozen. Use rendered Part007 source images as controlling representation. Keep **210→211** pending until directly audited. Do not begin Pass 2A in the same activity.
