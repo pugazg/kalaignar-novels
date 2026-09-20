@@ -267,7 +267,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_005_RELEASE_READY_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_005_FINAL_CLOSURE.md`
 
-## Part006 — ACTIVE / PASS 2A COMPLETE / PASS 2B NEXT
+## Part006 — ACTIVE / PASS 2B IN PROGRESS
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf`
 - global scans — **151–180**
@@ -277,19 +277,22 @@ Durable records:
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 2A cumulative source-text corrections — **5**
 - Pass 2A non-body note corrections — **1**
-- unresolved Pass-2A textual questions — **0**
+- Pass 2B — **IN PROGRESS — 10/30 REVIEWED**
+- Pass 2B cumulative corrections — **0 historical-glyph; 0 other source-text / lexical / spacing**
+- unresolved Pass-2B questions — **0**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
-- Pass 2B — **NOT STARTED / NEXT GATE**
 - Part007 canonical leakage — **0**
+- Pass 3 — **BLOCKED until Pass 2B covers scans151–180**
 
 Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_006_PASS1_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_006_PASS2A_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_006_PASS2B_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_006_BOUNDARY_AUDIT_180_181.md`
 
 ## Exact next activity
 
-Begin **Part006 Pass 2B — global scans151–160 / local pages1–10**.
+Continue **Part006 Pass 2B — global scans161–170 / local pages11–20**.
 
-Perform an independent lexical / historical-glyph reread directly against the Part006 source pixels. Preserve source-specific forms and do not modernize. Do not modify frozen Part001–Part005 body layers or create Part007 canonical records. Do not begin Pass 3 until Pass 2B covers all scans151–180.
+Do not modify frozen Part001–Part005 body layers or create Part007 canonical records. Do not begin Part006 Pass 3 until Pass 2B covers all scans151–180.

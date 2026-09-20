@@ -306,7 +306,7 @@ Durable Part005 records now include:
 - `PART_005_RELEASE_READY_SYNC.md`
 - `PART_005_FINAL_CLOSURE.md`
 
-## Part006 — ACTIVE / PASS 2A COMPLETE / PASS 2B NEXT
+## Part006 — ACTIVE / PASS 2B IN PROGRESS
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf`
 - scans — **151–180**
@@ -314,30 +314,19 @@ Durable Part005 records now include:
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 2A cumulative source-text corrections — **5**
-- Pass 2A non-body note corrections — **1**
-- unresolved Pass-2A textual questions — **0**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
+- Pass 2B — **IN PROGRESS — 10/30 REVIEWED**
+- Pass 2B cumulative — **0 historical-glyph corrections; 0 other corrections; 0 unresolved**
+- next Pass-2B batch — **scans161–170 / local pages11–20**
 - Part007 canonical leakage — **0**
-- Pass 2B — **NOT STARTED / NEXT GATE**
-
-Pass-2A canonical corrections:
-- scan161 — `மனைவியைப்பற்றி` → `மனைவியைப் பற்றி`;
-- scan161 — `இன்பம் கொஞ்சம் கெடலாம்` → `இன்னும் கொஞ்சம் கெடலாம்`;
-- scan173 — `ஐயோ!` → `ஓகோ!`;
-- scan179 — `அமைச்சர்பிலிமத்தளாவை` → `அமைச்சர் பிலிமத்தளாவை`;
-- scan179 — restored source dash after `சூழ்ச்சிக்காரர்கள்`.
-
-Non-body correction:
-- scan151 Pass-1 note now correctly cites frozen scan150 terminal `என்னுடன் வாழ வேண்டாம் என நான்`.
+- Pass 3 — **BLOCKED until Pass 2B covers scans151–180**
 
 Durable records:
 - `PART_006_PASS1_PROGRESS.md`
 - `PART_006_PASS2A_PROGRESS.md`
+- `PART_006_PASS2B_PROGRESS.md`
 - `PART_006_BOUNDARY_AUDIT_180_181.md`
 
 ## Exact next activity
 
-Begin **Part006 Pass 2B — global scans151–160 / local pages1–10**.
-
-Perform an independent lexical / historical-glyph reread directly against the Part006 source pixels. Preserve source-specific forms and do not modernize. Do not modify frozen Part001–Part005 body layers or create Part007 canonical records. Do not begin Pass 3 until Part006 Pass 2B covers all scans151–180.
+Continue **Part006 Pass 2B — global scans161–170 / local pages11–20**.

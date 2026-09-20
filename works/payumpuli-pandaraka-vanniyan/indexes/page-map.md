@@ -595,13 +595,15 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part006 incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - Part006 outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part006 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
-- Part006 Pass 2B — **NOT STARTED / NEXT GATE**
+- Part006 Pass 2B — **IN PROGRESS — 10/30 REVIEWED — 0 historical-glyph corrections; 0 other corrections; 0 unresolved**
+- Part006 next Pass-2B batch — **scans161–170 / local pages11–20**
+- Part006 Pass 3 — **BLOCKED until Pass 2B covers scans151–180**
 - Part007 canonical leakage — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Begin **Part006 Pass 2B — global scans151–160 / local pages1–10**.
+Continue **Part006 Pass 2B — global scans161–170 / local pages11–20**.
 
-Perform an independent lexical / historical-glyph reread directly against the Part006 source pixels. Preserve source-specific forms and do not modernize. Do not modify frozen Part001–Part005 body layers or create Part007 canonical records. Do not begin Pass 3 until Pass 2B covers all scans151–180.
+Do not modify frozen Part001–Part005 body layers. Do not create Part007 canonical records. Do not begin Part006 Pass 3 until Pass 2B covers all scans151–180.

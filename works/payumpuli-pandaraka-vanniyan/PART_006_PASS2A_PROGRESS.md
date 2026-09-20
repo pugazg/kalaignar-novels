@@ -38,7 +38,7 @@ For every physical scan 151–180:
 - unresolved textual questions — **0**
 - status promotions — **0**
 - Part007 canonical records created — **0**
-- Pass 2B — **NOT STARTED / NEXT GATE**
+- Pass 2B — **IN PROGRESS — 10/30 REVIEWED — 0 historical-glyph corrections; 0 other corrections; 0 unresolved**
 
 ## Corrections applied
 
@@ -117,6 +117,6 @@ All Part006 page records remain `needs-review` pending Pass 2B, Pass 3, Part aud
 
 ## Exact next activity
 
-Begin **Part006 Pass 2B — global scans151–160 / local pages1–10**.
+Continue **Part006 Pass 2B — global scans161–170 / local pages11–20**.
 
-Perform an independent lexical / historical-glyph reread directly against the Part006 source pixels. Preserve source-specific forms and do not modernize. Do not modify frozen Part001–Part005 body layers or create Part007 canonical records. Do not begin Pass 3 until Pass 2B covers all scans151–180.
+Perform the same independent lexical / historical-glyph reread directly against Part006 source pixels. Preserve source-specific forms and do not modernize. Do not modify frozen Part001–Part005 body layers or create Part007 canonical records. Do not begin Pass 3 until Pass 2B covers all scans151–180.
