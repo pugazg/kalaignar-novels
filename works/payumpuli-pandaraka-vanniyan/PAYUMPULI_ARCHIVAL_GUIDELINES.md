@@ -224,27 +224,28 @@ Part006 / scans151–180 is **FINAL CLOSED / FROZEN** after Tamil archival, asse
 
 Part007 / scans181–210 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Its incoming 180→181 boundary is **GENUINE CONTINUATION / AUDITED**; outgoing 210→211 remains pending direct audit. Canonical Part007 records remain 0 until the next explicit continuation. First Pass1 batch: **scans181–190 / local pages1–10**.
 
-## Part007 — ACTIVE / PASS 1 IN PROGRESS
+## Part007 — ACTIVE / PASS 1 COMPLETE
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_007_pages_181-210.pdf`
 - global scans — **181–210**
 - local pages — **1–30**
-- canonical Part007 page records — **20/30 — scans181–200**
-- Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
+- canonical Part007 page records — **30/30 — scans181–210**
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - unresolved Pass-1 source-reading holds — **0**
 - incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 210→211 — **PENDING direct audit**
-- completed Pass-1 batches — **scans181–190 / local pages1–10**; **scans191–200 / local pages11–20**
-- next Pass-1 batch — **scans201–210 / local pages21–30**
-- Pass 2A — **BLOCKED until Pass 1 covers scans181–210**
+- outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing boundary record — `PART_007_BOUNDARY_AUDIT_210_211.md`
+- Part008 canonical leakage — **0**
+- Pass 2A — **NOT STARTED / NEXT GATE**
 - frozen Part001–Part006 canonical/assembled/English body mutations in this activity — **0**
 
-Durable progress record:
+Durable progress records:
 - `works/payumpuli-pandaraka-vanniyan/PART_007_PASS1_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_007_BOUNDARY_AUDIT_210_211.md`
 
 ## Exact next activity
 
-Continue **Part007 Pass 1 — global scans201–210 / local pages21–30**.
+Begin **Part007 Pass 2A — global scans181–190 / local pages1–10**.
 
-Use the Part007 rendered source page images as controlling representation. Preserve exact source wording, punctuation, paragraph/meaningful lineation, page fragments and provenance. Do not modify frozen Part001–Part006 body layers. Keep **210→211** pending until directly audited. Do not begin Pass 2A in the same activity.
+Compare each canonical page directly against Part007 source pixels for word-for-word Tamil, punctuation, dialogue/paragraph structure, printed pagination and physical page boundaries. Preserve source wording; do not modernize or grammar-correct. Keep pages `needs-review` pending later gates. Do not modify frozen Part001–Part006 body layers or create/import Part008 canonical body text. Do not begin Pass 2B until Pass 2A covers scans181–210.
 

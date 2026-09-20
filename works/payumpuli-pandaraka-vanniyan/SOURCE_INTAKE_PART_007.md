@@ -42,19 +42,19 @@ The canonical `scan_page` remains the overall scan number **181–210**.
 
 ## Current gate
 
-Part007 is **ACTIVE / PASS 1 IN PROGRESS**.
+Part007 is **ACTIVE / PASS 1 COMPLETE / PASS**.
 
 Part001–Part006 are **FINAL CLOSED / FROZEN**.
 
 - incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 210→211 — **PENDING direct audit**
-- canonical Part007 page records — **20/30 — scans181–200**
-- Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
+- outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing boundary record — `PART_007_BOUNDARY_AUDIT_210_211.md`
+- canonical Part007 page records — **30/30 — scans181–210**
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - unresolved Pass-1 source-reading holds — **0**
-- completed Pass-1 batches — **global scans181–190 / local pages1–10**; **global scans191–200 / local pages11–20**
-- next Pass-1 batch — **global scans201–210 / local pages21–30**
-- Pass 2A — **BLOCKED until Pass 1 covers scans181–210**
+- Pass 2A — **NOT STARTED / NEXT GATE**
+- Part008 canonical records created — **0**
 
-The first 20 Part007 scans were transcribed directly from rendered source page images. Frozen Part001–Part006 body layers remain unchanged. Scan201 body text was not imported into the scans191–200 batch. The 210→211 boundary remains unclassified.
+All 30 Part007 scans were transcribed directly from rendered source page images. Frozen Part001–Part006 body layers remain unchanged. Part008 scan211 was inspected only as the adjacent outgoing-boundary witness.
 
-Exact next activity: **Part007 Pass 1 — global scans201–210 / local pages21–30**.
+Exact next activity: **Part007 Pass 2A — global scans181–190 / local pages1–10**.

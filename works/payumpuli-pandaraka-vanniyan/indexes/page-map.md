@@ -206,16 +206,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 007 | 18 | 198 | 189 | `வெற்றிப் புன்னகை!` continuation; source-displayed five-line reflection preserved | needs-review | `pages/0198-vetri-punnagai.md` |
 | 007 | 19 | 199 | 190 | `வெற்றிப் புன்னகை!` continuation | needs-review | `pages/0199-vetri-punnagai.md` |
 | 007 | 20 | 200 | 191 | `வெற்றிப் புன்னகை!` continuation; scan201 body not inspected/imported | needs-review | `pages/0200-vetri-punnagai.md` |
-| 007 | 21 | 201 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 22 | 202 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 23 | 203 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 24 | 204 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 25 | 205 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 26 | 206 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 27 | 207 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 28 | 208 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 29 | 209 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 30 | 210 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 21 | 201 | 192 | chapter31 opening `“மகளே உன் சமர்த்து!”`; displayed number 31 | needs-review | `pages/0201-magale-un-samarththu.md` |
+| 007 | 22 | 202 | 193 | `“மகளே உன் சமர்த்து!”` continuation; ends `அவன் வெள்ளைப்` | needs-review | `pages/0202-magale-un-samarththu.md` |
+| 007 | 23 | 203 | 194 | `“மகளே உன் சமர்த்து!”` continuation; begins `பரங்கியருக்கு`; ends `அவனை அழைத்துக் கொண்டுவந்துவிட்டார்கள்` | needs-review | `pages/0203-magale-un-samarththu.md` |
+| 007 | 24 | 204 | 195 | `“மகளே உன் சமர்த்து!”` continuation; ends `கருதுகிறவன்` | needs-review | `pages/0204-magale-un-samarththu.md` |
+| 007 | 25 | 205 | 196 | `“மகளே உன் சமர்த்து!”` continuation; ends `கூர்ந்து நோக்கிக்` | needs-review | `pages/0205-magale-un-samarththu.md` |
+| 007 | 26 | 206 | 197 | short continuation / chapter31 close; large intentional blank lower field | needs-review | `pages/0206-magale-un-samarththu.md` |
+| 007 | 27 | 207 | 198 | chapter32 opening `நிதானமான கையெழுத்து!`; displayed number 32 | needs-review | `pages/0207-nidhanamana-kaiyezhuthu.md` |
+| 007 | 28 | 208 | 199 | `நிதானமான கையெழுத்து!` continuation; ends `கூறிக்கொண்டே` | needs-review | `pages/0208-nidhanamana-kaiyezhuthu.md` |
+| 007 | 29 | 209 | 200 | `நிதானமான கையெழுத்து!` continuation; ends `கொதிப்பேறக்` | needs-review | `pages/0209-nidhanamana-kaiyezhuthu.md` |
+| 007 | 30 | 210 | 201 | `நிதானமான கையெழுத்து!` continuation; outgoing 210→211 genuine continuation audited | needs-review | `pages/0210-nidhanamana-kaiyezhuthu.md` |
 | 008 | 1 | 211 | — | unclassified — direct visual audit pending | not-started | — |
 | 008 | 2 | 212 | — | unclassified — direct visual audit pending | not-started | — |
 | 008 | 3 | 213 | — | unclassified — direct visual audit pending | not-started | — |
@@ -509,20 +509,21 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - physical scan coverage by split ranges — **477 / 477**
 - Part001–Part006 — **FINAL CLOSED / FROZEN**
 - active content Part — **Part007 / scans181–210**
-- Part007 canonical page records — **20/30 — scans181–200**
-- Part007 Pass 1 — **IN PROGRESS — 20/30 TEXT-COMPLETE**
-- Part007 Pass-1 transcription pending — **10 — scans201–210**
+- Part007 canonical page records — **30/30 — scans181–210**
+- Part007 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Part007 Pass-1 transcription pending — **0**
 - Part007 unresolved Pass-1 source-reading holds — **0**
 - Part007 incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
-- Part007 outgoing 210→211 — **PENDING direct audit**
-- Part007 next Pass-1 batch — **scans201–210 / local pages21–30**
-- Part007 Pass 2A — **BLOCKED until Pass 1 covers scans181–210**
+- Part007 outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
+- Part007 outgoing boundary record — `PART_007_BOUNDARY_AUDIT_210_211.md`
+- Part007 Pass 2A — **NOT STARTED / NEXT GATE**
+- Part008 canonical page records — **0**
 - frozen Part001–Part006 body mutations caused by this batch — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Continue **Part007 Pass 1 — global scans201–210 / local pages21–30**.
+Begin **Part007 Pass 2A — global scans181–190 / local pages1–10**.
 
-Keep Part001–Part006 frozen. Use rendered Part007 source images as controlling representation. Keep **210→211** pending until directly audited. Do not begin Pass 2A in the same activity.
+Keep Part001–Part006 frozen. Compare canonical Part007 records directly against rendered Part007 source images. Preserve source wording; do not modernize or grammar-correct. Keep Part008 canonical leakage at 0. Do not begin Pass 2B until Pass 2A covers scans181–210.
