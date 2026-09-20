@@ -267,7 +267,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_005_RELEASE_READY_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_005_FINAL_CLOSURE.md`
 
-## Part006 — ACTIVE / PART AUDIT COMPLETE / FINAL STATUS SYNC NEXT
+## Part006 — ACTIVE / FINAL STATUS SYNC CLOSED / DOCUMENTATION SYNC NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf`
 - global scans — **151–180**
@@ -282,14 +282,15 @@ Durable records:
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 3 cumulative — **0 textual corrections; 0 unresolved visual/structural questions**
 - Part audit — **PASS / COMPLETE**
-- canonical/body mutations caused by Part audit — **0**
-- status promotions caused by Part audit — **0**
-- Tamil textual status — **0 verified; 30 needs-review**
-- visual fidelity — **0 verified; 30 needs-review**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- unresolved status exceptions — **0**
+- canonical Tamil/body mutations caused by final status sync — **0**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part007 canonical leakage — **0**
-- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
+- documentation synchronization — **NOT STARTED / NEXT GATE**
 
 Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_006_PASS1_PROGRESS.md`
@@ -297,10 +298,11 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_006_PASS2B_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_006_PASS3_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_006_AUDIT.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_006_FINAL_STATUS_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_006_BOUNDARY_AUDIT_180_181.md`
 
 ## Exact next activity
 
-Perform **Part006 final metadata/status synchronization**.
+Perform **Part006 documentation synchronization**.
 
-Promote only `status` and `visual_fidelity` from `needs-review` to `verified` on all 30 Part006 records. Do not modify Tamil body text or frozen Part001–Part005 body layers.
+Reconcile the live documentation/control surface to the verified 30/30 state, create `PART_006_DOCUMENTATION_SYNC.md`, make **0 canonical page changes**, then stop.

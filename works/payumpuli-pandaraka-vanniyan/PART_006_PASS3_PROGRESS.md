@@ -46,7 +46,10 @@ At Pass-3 closure all pages deliberately remain `status: "needs-review"` / `visu
 - status promotions — **0**
 - Part007 canonical records created — **0**
 - Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- documentation synchronization — **NOT STARTED / NEXT GATE**
 
 ## Batch 1 — scans151–160
 
@@ -138,6 +141,6 @@ Durable audit record:
 
 ## Exact next activity
 
-Perform **Part006 final metadata/status synchronization** across scans151–180.
+Perform **Part006 documentation synchronization**.
 
-Promote only `status` and `visual_fidelity` from `needs-review` to `verified`; make no Tamil/body, punctuation, structure, provenance, pagination or boundary changes.
+Reconcile documentation/control state to the verified **30/30** page state, create `PART_006_DOCUMENTATION_SYNC.md`, and make **0 canonical page changes**.

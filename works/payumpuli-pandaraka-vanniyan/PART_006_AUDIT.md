@@ -194,3 +194,22 @@ Perform **Part006 final metadata/status synchronization**.
 That next gate may promote only the two final per-page status fields from `needs-review` to `verified` across all 30 Part006 records, based on this closed audit evidence.
 
 Do not change Tamil body text, punctuation, structure, provenance, pagination, boundaries or frozen Part001–Part005 body layers. Do not begin documentation synchronization in the same activity.
+
+## Post-audit final-status state
+
+The Part audit above remains historically closed and authoritative.
+
+Part006 subsequently completed:
+- final metadata/status synchronization — **PASS / CLOSED**;
+- Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**;
+- visual fidelity — **30/30 verified; 0 needs-review**;
+- unresolved status exceptions — **0**;
+- canonical Tamil/body mutations caused by final status sync — **0**;
+- Part007 canonical leakage — **0**.
+
+Durable status record:
+- `PART_006_FINAL_STATUS_SYNC.md`.
+
+Current next gate:
+
+**Part006 documentation synchronization.**

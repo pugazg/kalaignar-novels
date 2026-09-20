@@ -156,36 +156,36 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 005 | 28 | 148 | 138 | `சதி வலை!` continuation; ends `நானே`; Pass3 reviewed | verified | `pages/0148-sathi-valai.md` |
 | 005 | 29 | 149 | 139 | `சதி வலை!` continuation; begins `சிந்திக்கிறேன்!`; Pass3 reviewed | verified | `pages/0149-sathi-valai.md` |
 | 005 | 30 | 150 | 140 | chapter21 opening `குருவியும் - குயிலும்!`; 150→151 genuine continuation audited; Pass3 reviewed | verified | `pages/0150-kuruviyum-kuyilum.md` |
-| 006 | 1 | 151 | 141 | `குருவியும் - குயிலும்!` continuation; incoming 150→151 genuine continuation audited | needs-review | `pages/0151-kuruviyum-kuyilum.md` |
-| 006 | 2 | 152 | 142 | `குருவியும் - குயிலும்!` continuation | needs-review | `pages/0152-kuruviyum-kuyilum.md` |
-| 006 | 3 | 153 | 143 | `குருவியும் - குயிலும்!` continuation / chapter close | needs-review | `pages/0153-kuruviyum-kuyilum.md` |
-| 006 | 4 | 154 | 144 | chapter22 opening `நள்ளிரவு நாடகம்!` | needs-review | `pages/0154-nalliravu-naadakam.md` |
-| 006 | 5 | 155 | 145 | `நள்ளிரவு நாடகம்!` continuation | needs-review | `pages/0155-nalliravu-naadakam.md` |
-| 006 | 6 | 156 | 146–147 | illustrated two-page spread; `நள்ளிரவு நாடகம்!` continuation | needs-review | `pages/0156-nalliravu-naadakam.md` |
-| 006 | 7 | 157 | 148 | `நள்ளிரவு நாடகம்!` continuation | needs-review | `pages/0157-nalliravu-naadakam.md` |
-| 006 | 8 | 158 | 149 | `நள்ளிரவு நாடகம்!` continuation / chapter close | needs-review | `pages/0158-nalliravu-naadakam.md` |
-| 006 | 9 | 159 | 150 | chapter23 opening `நட்பின் இலக்கணம்!` | needs-review | `pages/0159-natpin-ilakkanam.md` |
-| 006 | 10 | 160 | 151 | `நட்பின் இலக்கணம்!` continuation; ends `பேச்சினிடையே குறுக்கிடாமல் இருந்த பிலிமத்தளாவை` | needs-review | `pages/0160-natpin-ilakkanam.md` |
-| 006 | 11 | 161 | 152 | `நட்பின் இலக்கணம்!` continuation from scan160 | needs-review | `pages/0161-natpin-ilakkanam.md` |
-| 006 | 12 | 162 | 153 | `நட்பின் இலக்கணம்!` continuation / chapter close | needs-review | `pages/0162-natpin-ilakkanam.md` |
-| 006 | 13 | 163 | 154 | chapter24 opening `வீரனல்ல, வீராங்கனை!` | needs-review | `pages/0163-veeranalla-veeranganai.md` |
-| 006 | 14 | 164 | 155 | `வீரனல்ல, வீராங்கனை!` continuation | needs-review | `pages/0164-veeranalla-veeranganai.md` |
-| 006 | 15 | 165 | 156 | `வீரனல்ல, வீராங்கனை!` continuation | needs-review | `pages/0165-veeranalla-veeranganai.md` |
-| 006 | 16 | 166 | 157 | `வீரனல்ல, வீராங்கனை!` continuation / chapter close | needs-review | `pages/0166-veeranalla-veeranganai.md` |
-| 006 | 17 | 167 | 158 | chapter25 opening `பேய் மகள் பியசிலி!` | needs-review | `pages/0167-pey-magal-piyasili.md` |
-| 006 | 18 | 168 | 159 | `பேய் மகள் பியசிலி!` continuation | needs-review | `pages/0168-pey-magal-piyasili.md` |
-| 006 | 19 | 169 | 160 | `பேய் மகள் பியசிலி!` continuation | needs-review | `pages/0169-pey-magal-piyasili.md` |
-| 006 | 20 | 170 | 161 | `பேய் மகள் பியசிலி!` continuation; ends `“சிப்பாய்களே! என்னை` | needs-review | `pages/0170-pey-magal-piyasili.md` |
-| 006 | 21 | 171 | 162 | `பேய் மகள் பியசிலி!` continuation / chapter close | needs-review | `pages/0171-pey-magal-piyasili.md` |
-| 006 | 22 | 172 | 163 | chapter26 opening `நடந்ததை விளக்கிய நச்சு நாக்கு!` | needs-review | `pages/0172-nadanthathai-vilakkiya-nachu-naakku.md` |
-| 006 | 23 | 173 | 164 | `நடந்ததை விளக்கிய நச்சு நாக்கு!` continuation | needs-review | `pages/0173-nadanthathai-vilakkiya-nachu-naakku.md` |
-| 006 | 24 | 174 | — | full-page colour illustration; no printed body text / no visible folio | needs-review | `pages/0174-nadanthathai-vilakkiya-nachu-naakku.md` |
-| 006 | 25 | 175 | 166 | `நடந்ததை விளக்கிய நச்சு நாக்கு!` continuation after illustration | needs-review | `pages/0175-nadanthathai-vilakkiya-nachu-naakku.md` |
-| 006 | 26 | 176 | 167 | `நடந்ததை விளக்கிய நச்சு நாக்கு!` continuation | needs-review | `pages/0176-nadanthathai-vilakkiya-nachu-naakku.md` |
-| 006 | 27 | 177 | 168 | `நடந்ததை விளக்கிய நச்சு நாக்கு!` continuation | needs-review | `pages/0177-nadanthathai-vilakkiya-nachu-naakku.md` |
-| 006 | 28 | 178 | 169 | short chapter-closing page; `நடந்ததை விளக்கிய நச்சு நாக்கு!` closes | needs-review | `pages/0178-nadanthathai-vilakkiya-nachu-naakku.md` |
-| 006 | 29 | 179 | 170 | chapter27 opening `நார்த்தும் நயவஞ்சகமும்!` | needs-review | `pages/0179-narthum-nayavanjagamum.md` |
-| 006 | 30 | 180 | 171 | `நார்த்தும் நயவஞ்சகமும்!`; 180→181 genuine continuation audited | needs-review | `pages/0180-narthum-nayavanjagamum.md` |
+| 006 | 1 | 151 | 141 | `குருவியும் - குயிலும்!` continuation; incoming 150→151 genuine continuation audited | verified | `pages/0151-kuruviyum-kuyilum.md` |
+| 006 | 2 | 152 | 142 | `குருவியும் - குயிலும்!` continuation | verified | `pages/0152-kuruviyum-kuyilum.md` |
+| 006 | 3 | 153 | 143 | `குருவியும் - குயிலும்!` continuation / chapter close | verified | `pages/0153-kuruviyum-kuyilum.md` |
+| 006 | 4 | 154 | 144 | chapter22 opening `நள்ளிரவு நாடகம்!` | verified | `pages/0154-nalliravu-naadakam.md` |
+| 006 | 5 | 155 | 145 | `நள்ளிரவு நாடகம்!` continuation | verified | `pages/0155-nalliravu-naadakam.md` |
+| 006 | 6 | 156 | 146–147 | illustrated two-page spread; `நள்ளிரவு நாடகம்!` continuation | verified | `pages/0156-nalliravu-naadakam.md` |
+| 006 | 7 | 157 | 148 | `நள்ளிரவு நாடகம்!` continuation | verified | `pages/0157-nalliravu-naadakam.md` |
+| 006 | 8 | 158 | 149 | `நள்ளிரவு நாடகம்!` continuation / chapter close | verified | `pages/0158-nalliravu-naadakam.md` |
+| 006 | 9 | 159 | 150 | chapter23 opening `நட்பின் இலக்கணம்!` | verified | `pages/0159-natpin-ilakkanam.md` |
+| 006 | 10 | 160 | 151 | `நட்பின் இலக்கணம்!` continuation; ends `பேச்சினிடையே குறுக்கிடாமல் இருந்த பிலிமத்தளாவை` | verified | `pages/0160-natpin-ilakkanam.md` |
+| 006 | 11 | 161 | 152 | `நட்பின் இலக்கணம்!` continuation from scan160 | verified | `pages/0161-natpin-ilakkanam.md` |
+| 006 | 12 | 162 | 153 | `நட்பின் இலக்கணம்!` continuation / chapter close | verified | `pages/0162-natpin-ilakkanam.md` |
+| 006 | 13 | 163 | 154 | chapter24 opening `வீரனல்ல, வீராங்கனை!` | verified | `pages/0163-veeranalla-veeranganai.md` |
+| 006 | 14 | 164 | 155 | `வீரனல்ல, வீராங்கனை!` continuation | verified | `pages/0164-veeranalla-veeranganai.md` |
+| 006 | 15 | 165 | 156 | `வீரனல்ல, வீராங்கனை!` continuation | verified | `pages/0165-veeranalla-veeranganai.md` |
+| 006 | 16 | 166 | 157 | `வீரனல்ல, வீராங்கனை!` continuation / chapter close | verified | `pages/0166-veeranalla-veeranganai.md` |
+| 006 | 17 | 167 | 158 | chapter25 opening `பேய் மகள் பியசிலி!` | verified | `pages/0167-pey-magal-piyasili.md` |
+| 006 | 18 | 168 | 159 | `பேய் மகள் பியசிலி!` continuation | verified | `pages/0168-pey-magal-piyasili.md` |
+| 006 | 19 | 169 | 160 | `பேய் மகள் பியசிலி!` continuation | verified | `pages/0169-pey-magal-piyasili.md` |
+| 006 | 20 | 170 | 161 | `பேய் மகள் பியசிலி!` continuation; ends `“சிப்பாய்களே! என்னை` | verified | `pages/0170-pey-magal-piyasili.md` |
+| 006 | 21 | 171 | 162 | `பேய் மகள் பியசிலி!` continuation / chapter close | verified | `pages/0171-pey-magal-piyasili.md` |
+| 006 | 22 | 172 | 163 | chapter26 opening `நடந்ததை விளக்கிய நச்சு நாக்கு!` | verified | `pages/0172-nadanthathai-vilakkiya-nachu-naakku.md` |
+| 006 | 23 | 173 | 164 | `நடந்ததை விளக்கிய நச்சு நாக்கு!` continuation | verified | `pages/0173-nadanthathai-vilakkiya-nachu-naakku.md` |
+| 006 | 24 | 174 | — | full-page colour illustration; no printed body text / no visible folio | verified | `pages/0174-nadanthathai-vilakkiya-nachu-naakku.md` |
+| 006 | 25 | 175 | 166 | `நடந்ததை விளக்கிய நச்சு நாக்கு!` continuation after illustration | verified | `pages/0175-nadanthathai-vilakkiya-nachu-naakku.md` |
+| 006 | 26 | 176 | 167 | `நடந்ததை விளக்கிய நச்சு நாக்கு!` continuation | verified | `pages/0176-nadanthathai-vilakkiya-nachu-naakku.md` |
+| 006 | 27 | 177 | 168 | `நடந்ததை விளக்கிய நச்சு நாக்கு!` continuation | verified | `pages/0177-nadanthathai-vilakkiya-nachu-naakku.md` |
+| 006 | 28 | 178 | 169 | short chapter-closing page; `நடந்ததை விளக்கிய நச்சு நாக்கு!` closes | verified | `pages/0178-nadanthathai-vilakkiya-nachu-naakku.md` |
+| 006 | 29 | 179 | 170 | chapter27 opening `நார்த்தும் நயவஞ்சகமும்!` | verified | `pages/0179-narthum-nayavanjagamum.md` |
+| 006 | 30 | 180 | 171 | `நார்த்தும் நயவஞ்சகமும்!`; 180→181 genuine continuation audited | verified | `pages/0180-narthum-nayavanjagamum.md` |
 | 007 | 1 | 181 | — | unclassified — direct visual audit pending | not-started | — |
 | 007 | 2 | 182 | — | unclassified — direct visual audit pending | not-started | — |
 | 007 | 3 | 183 | — | unclassified — direct visual audit pending | not-started | — |
@@ -598,13 +598,17 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part006 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
 - Part006 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
 - Part006 Part audit — **PASS / COMPLETE**
-- Part006 final metadata/status synchronization — **NOT STARTED / NEXT GATE**
+- Part006 final metadata/status synchronization — **PASS / CLOSED**
+- Part006 Tamil textual status — **30/30 verified; 0 needs-review**
+- Part006 visual fidelity — **30/30 verified; 0 needs-review**
+- Part006 unresolved status exceptions — **0**
+- Part006 documentation synchronization — **NOT STARTED / NEXT GATE**
 - Part007 canonical leakage — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Perform **Part006 final metadata/status synchronization** across scans151–180.
+Perform **Part006 documentation synchronization**.
 
-Promote only `status` and `visual_fidelity` from `needs-review` to `verified`. Do not modify frozen Part001–Part005 body layers or create Part007 canonical records.
+Reconcile the complete documentation/control surface to the verified **30/30** state, create `PART_006_DOCUMENTATION_SYNC.md`, make **0 canonical page changes**, and stop before the Tamil archival-ready checkpoint.

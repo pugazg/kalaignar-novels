@@ -51,9 +51,13 @@ Part006 Pass 1 is **COMPLETE / PASS — 30/30 TEXT-COMPLETE**.
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
 - Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- unresolved status exceptions — **0**
+- documentation synchronization — **NOT STARTED / NEXT GATE**
 - Part007 canonical leakage — **0**
 
 Part001–Part005 remain **FINAL CLOSED / FROZEN**.
 
-Exact next activity: **Part006 final metadata/status synchronization across scans151–180**.
+Exact next activity: **Part006 documentation synchronization**.
