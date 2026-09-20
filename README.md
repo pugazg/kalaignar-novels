@@ -16,10 +16,12 @@
 - Part006 Part audit — **PASS / COMPLETE**
 - Part006 final metadata/status synchronization — **PASS / CLOSED**
 - Part006 documentation synchronization — **PASS / COMPLETE**
+- Part006 Tamil archival-ready — **PASS / CLOSED**
+- Part006 archival-ready canonical/page-status changes — **0**
 - boundaries — **150→151 GENUINE CONTINUATION / AUDITED; 180→181 GENUINE CONTINUATION / AUDITED**
 - Part007 — **SUPPLIED / REGISTERED / BLOCKED; canonical records 0**
 
-Exact next action: **Part006 Tamil archival-ready checkpoint.**
+Exact next action: **Part006 assembled Tamil construction + audit.**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 

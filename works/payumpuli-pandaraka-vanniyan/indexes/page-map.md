@@ -605,13 +605,15 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part006 documentation synchronization — **PASS / COMPLETE**
 - Part006 documentation-sync canonical page changes — **0**
 - Part006 unresolved documentation blockers — **0**
-- Part006 Tamil archival-ready checkpoint — **NOT STARTED / NEXT GATE**
+- Part006 Tamil archival-ready checkpoint — **PASS / CLOSED**
+- Part006 archival-ready canonical/page-status changes — **0**
+- Part006 assembled Tamil — **NOT STARTED / NEXT GATE**
 - Part007 canonical leakage — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Perform **Part006 Tamil archival-ready checkpoint**.
+Perform **Part006 assembled Tamil construction + audit**.
 
-The page map is synchronized to **30/30 verified** Part006 records. Do not change canonical Tamil/body files or begin Part007 transcription.
+The canonical page map remains **30/30 verified** for Part006. Assembly is derived only; do not mutate canonical pages or create Part007 canonical records.

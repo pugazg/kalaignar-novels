@@ -42,23 +42,21 @@ The canonical `scan_page` remains the overall scan number **151–180**.
 
 ## Current gate
 
-Part006 Tamil verification/control chain is synchronized through documentation:
+Part006 canonical Tamil workflow is **TAMIL ARCHIVAL-READY — PASS / CLOSED**.
 
-- canonical Part006 page records — **30/30 — scans151–180**
-- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
-- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
-- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
+- canonical records — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
-- Tamil textual status — **30/30 verified; 0 needs-review**
-- visual fidelity — **30/30 verified; 0 needs-review**
 - documentation synchronization — **PASS / COMPLETE**
-- documentation-sync canonical page changes — **0**
+- Tamil archival-ready — **PASS / CLOSED**
+- archival-ready canonical Tamil/body changes — **0**
+- archival-ready page-status changes — **0**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part007 canonical leakage — **0**
 
 Part001–Part005 remain **FINAL CLOSED / FROZEN**.
 
-Exact next activity: **Part006 Tamil archival-ready checkpoint**.
+Exact next activity: **Part006 assembled Tamil construction + audit**.

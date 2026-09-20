@@ -176,15 +176,15 @@ Authoritative Part004 verification records:
 - Part006 Part audit — **PASS / COMPLETE**
 - Part006 final metadata/status synchronization — **PASS / CLOSED**
 - Part006 documentation synchronization — **PASS / COMPLETE**
-- Part006 canonical page mutations caused by documentation sync — **0**
+- Part006 Tamil archival-ready — **PASS / CLOSED**
+- Part006 archival-ready canonical/page-status changes — **0**
 - Part006 incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - Part006 outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
-- audited split boundaries — **6/15**
 - Part007 canonical leakage — **0**
 - Part007 — **SUPPLIED / REGISTERED / BLOCKED**
 
 ## Exact next activity
 
-Perform **Part006 Tamil archival-ready checkpoint**.
+Perform **Part006 assembled Tamil construction + audit**.
 
-Do not begin Part007 transcription or create Part007 canonical records.
+Do not mutate canonical Part006 pages and do not begin Part007 transcription.

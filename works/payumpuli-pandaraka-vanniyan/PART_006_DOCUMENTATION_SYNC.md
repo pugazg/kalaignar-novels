@@ -82,3 +82,22 @@ Part006 documentation is synchronized to the verified 30/30 Tamil and visual sta
 Perform **Part006 Tamil archival-ready checkpoint**.
 
 Do not begin assembled Tamil, English translation, release/readiness, final Part006 closure or Part007 transcription in the same activity.
+
+## Post-documentation archival-ready state
+
+Part006 subsequently reached:
+
+**PART 006 TAMIL ARCHIVAL-READY — PASS / CLOSED**
+
+- canonical Tamil/body changes caused by archival-ready checkpoint — **0**;
+- page-status changes caused by archival-ready checkpoint — **0**;
+- Tamil textual status — **30/30 verified**;
+- visual fidelity — **30/30 verified**;
+- Part007 canonical leakage — **0**.
+
+Durable archival-ready record:
+- `PART_006_TAMIL_ARCHIVAL_READY.md`.
+
+Current next gate:
+
+**Part006 assembled Tamil construction + audit.**

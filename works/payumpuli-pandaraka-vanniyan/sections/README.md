@@ -195,3 +195,18 @@ Part005:
 Perform **Part005 English translation planning/setup**.
 
 Use verified Part005 canonical Tamil plus the closed 7/7 assembled Tamil reading layer. Do not modify canonical or assembled Tamil, frozen Part001–Part004 English, or import Part006 body text.
+
+## Part006 assembly authorization
+
+Part006 canonical Tamil is now **TAMIL ARCHIVAL-READY — PASS / CLOSED**.
+
+- canonical scans — **151–180 / 30 pages**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
+- Part007 canonical leakage — **0**
+
+Exact next activity: **Part006 assembled Tamil construction + audit**.
+
+Construct the Part006 readable layer only from verified canonical `pages/` source-transcription blocks. Keep all existing Part001–Part005 assembled files frozen. Preserve scan156 body, treat scan174 as illustration-only provenance, and do not import Part005 or Part007 body merely to complete boundary-spanning text.

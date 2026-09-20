@@ -1342,6 +1342,9 @@ Part006 then became active.
 - final metadata/status synchronization — **PASS / CLOSED**
 - documentation synchronization — **PASS / COMPLETE**
 - documentation-sync canonical page changes — **0**
+- Tamil archival-ready — **PASS / CLOSED**
+- archival-ready canonical/page-status changes — **0**
+- assembled Tamil — **NOT STARTED / NEXT GATE**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - audited split boundaries — **6/15**
@@ -1349,4 +1352,4 @@ Part006 then became active.
 - Part007 — **SUPPLIED / REGISTERED / BLOCKED**
 - unresolved documentation blockers — **0**
 
-Exact next activity: **Part006 Tamil archival-ready checkpoint**.
+Exact next activity: **Part006 assembled Tamil construction + audit**.
