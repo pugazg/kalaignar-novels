@@ -362,3 +362,27 @@ Part006 has completed Tamil archival, assembled Tamil, E27–E33 source-check, g
 - Part007 canonical/body leakage during Part006 closure — **0**
 
 Part001–Part006 are **FINAL CLOSED / FROZEN**. Part007 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Exact next activity: **Part007 Pass1 — global scans181–190 / local pages1–10**. Incoming 180→181 remains **GENUINE CONTINUATION / AUDITED**; outgoing 210→211 remains pending direct audit.
+
+## Part007 — ACTIVE / PASS 1 IN PROGRESS
+
+- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_007_pages_181-210.pdf`
+- global scans — **181–210**
+- local pages — **1–30**
+- canonical Part007 page records — **10/30 — scans181–190**
+- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- unresolved Pass-1 source-reading holds — **0**
+- incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 210→211 — **PENDING direct audit**
+- completed Pass-1 batch — **scans181–190 / local pages1–10**
+- next Pass-1 batch — **scans191–200 / local pages11–20**
+- Pass 2A — **BLOCKED until Pass 1 covers scans181–210**
+- frozen Part001–Part006 canonical/assembled/English body mutations in this activity — **0**
+
+Durable progress record:
+- `works/payumpuli-pandaraka-vanniyan/PART_007_PASS1_PROGRESS.md`
+
+## Exact next activity
+
+Continue **Part007 Pass 1 — global scans191–200 / local pages11–20**.
+
+Use the Part007 rendered source page images as controlling representation. Preserve exact source wording, punctuation, paragraph/meaningful lineation, page fragments and provenance. Do not modify frozen Part001–Part006 body layers. Do not inspect/import scan201 body text in that 10-page activity. Keep outgoing **210→211** pending direct audit and do not begin Pass 2A.

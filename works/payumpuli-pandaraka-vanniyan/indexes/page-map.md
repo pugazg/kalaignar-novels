@@ -186,16 +186,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 006 | 28 | 178 | 169 | short chapter-closing page; `நடந்ததை விளக்கிய நச்சு நாக்கு!` closes | verified | `pages/0178-nadanthathai-vilakkiya-nachu-naakku.md` |
 | 006 | 29 | 179 | 170 | chapter27 opening `நார்த்தும் நயவஞ்சகமும்!` | verified | `pages/0179-narthum-nayavanjagamum.md` |
 | 006 | 30 | 180 | 171 | `நார்த்தும் நயவஞ்சகமும்!`; 180→181 genuine continuation audited | verified | `pages/0180-narthum-nayavanjagamum.md` |
-| 007 | 1 | 181 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 2 | 182 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 3 | 183 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 4 | 184 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 5 | 185 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 6 | 186 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 7 | 187 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 8 | 188 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 9 | 189 | — | unclassified — direct visual audit pending | not-started | — |
-| 007 | 10 | 190 | — | unclassified — direct visual audit pending | not-started | — |
+| 007 | 1 | 181 | 172 | `நார்த்தும் நயவஞ்சகமும்!` continuation; incoming 180→181 genuine continuation audited | needs-review | `pages/0181-narthum-nayavanjagamum.md` |
+| 007 | 2 | 182 | 173 | `நார்த்தும் நயவஞ்சகமும்!` continuation | needs-review | `pages/0182-narthum-nayavanjagamum.md` |
+| 007 | 3 | 183 | 174 | short continuation / chapter27 close; large intentional blank lower field | needs-review | `pages/0183-narthum-nayavanjagamum.md` |
+| 007 | 4 | 184 | 175 | chapter28 opening `பரிவும் - பிரிவும்!` | needs-review | `pages/0184-parivum-pirivum.md` |
+| 007 | 5 | 185 | 176 | `பரிவும் - பிரிவும்!` continuation | needs-review | `pages/0185-parivum-pirivum.md` |
+| 007 | 6 | 186 | 177 | `பரிவும் - பிரிவும்!` continuation | needs-review | `pages/0186-parivum-pirivum.md` |
+| 007 | 7 | 187 | 178 | `பரிவும் - பிரிவும்!` continuation | needs-review | `pages/0187-parivum-pirivum.md` |
+| 007 | 8 | 188 | 179 | `பரிவும் - பிரிவும்!` continuation; ends `அந்த அன்பு நெஞ்சங்கள்` | needs-review | `pages/0188-parivum-pirivum.md` |
+| 007 | 9 | 189 | 180 | short continuation / chapter28 close; large intentional blank lower field | needs-review | `pages/0189-parivum-pirivum.md` |
+| 007 | 10 | 190 | 181 | chapter29 opening `பியசிலி-பிறந்த நாள்!`; ends `மனுக்கள் வாயிலாகப்` | needs-review | `pages/0190-piyasili-pirantha-naal.md` |
 | 007 | 11 | 191 | — | unclassified — direct visual audit pending | not-started | — |
 | 007 | 12 | 192 | — | unclassified — direct visual audit pending | not-started | — |
 | 007 | 13 | 193 | — | unclassified — direct visual audit pending | not-started | — |
@@ -507,123 +507,22 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 
 - Parts supplied / registered — **16 / 16**
 - physical scan coverage by split ranges — **477 / 477**
-- Part001 — **FINAL CLOSED / FROZEN**
-- Part002 — **FINAL CLOSED / FROZEN**
-- Part003 — **FINAL CLOSED / FROZEN**
-- active content Part — **Part006 / scans151–180**
-- canonical Part004 page records — **30 / 30**
-- Part004 Pass 1 — **COMPLETE / PASS — 30/30**
-- Part004 Pass 2A — **COMPLETE / PASS — 30/30**
-- Part004 Pass 2B — **COMPLETE / PASS — 30/30**
-- Part004 Pass 3 — **COMPLETE / PASS — 30/30**
-- Part004 Part audit — **PASS / COMPLETE**
-- Part004 final status sync — **PASS / CLOSED**
-- Part004 documentation sync — **PASS / COMPLETE**
-- Part004 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
-- Part004 visual fidelity — **30/30 verified; 0 needs-review**
-- Part004 unresolved status exceptions — **0**
-- Part004 Tamil archival-ready — **PASS / CLOSED**
-- Part004 assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
-- Part004 English planning/setup — **COMPLETE / PASS**
-- Part004 English translated/source-checked — **5/5**
-- Part004 E15 — **SOURCE-CHECKED / COMPLETE**
-- Part004 E16 — **SOURCE-CHECKED / COMPLETE**
-- Part004 E17 — **SOURCE-CHECKED / COMPLETE**
-- Part004 E18 — **SOURCE-CHECKED / COMPLETE**
-- Part004 E19 — **SOURCE-CHECKED / COMPLETE**
-- Part004 English glossary reconciliation — **RECONCILED / PASS**
-- Part004 glossary-reconciliation English section edits — **0**
-- Part004 unresolved glossary holds — **0**
-- Part004 English editorial review — **PASS / CLOSED**
-- Part004 editorial English-only changes — **25**
-- Part004 whole-Part bilingual review — **PASS / CLOSED**
-- Part004 bilingual English-only corrections — **0**
-- Part004 release/readiness — **PASS / CLOSED**
-- Part004 release-ready synchronization — **PASS / CLOSED**
-- Part004 final closure — **PASS / CLOSED / FROZEN**
-- audited boundaries — **30→31 GENUINE CONTINUATION; 60→61 CLEAN; 90→91 GENUINE CONTINUATION; 120→121 GENUINE CONTINUATION; 150→151 GENUINE CONTINUATION; 180→181 GENUINE CONTINUATION**
-- Part005 — **FINAL CLOSED / FROZEN**
-- Part005 canonical page records — **30/30 — scans121–150**
-- Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
-- Part005 outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
-- Part005 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Part005 unresolved Pass-1 source-reading holds — **0**
-- Part005 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text corrections; 0 unresolved**
-- Part005 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 4 source-text / lexical / spacing corrections; 0 historical-glyph corrections; 0 unresolved**
-- Part005 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
-- Part005 Part audit — **PASS / COMPLETE**
-- Part005 final metadata/status synchronization — **PASS / CLOSED**
-- Part005 Tamil textual status — **30/30 verified; 0 needs-review**
-- Part005 visual fidelity — **30/30 verified; 0 needs-review**
-- Part005 unresolved status exceptions — **0**
-- Part005 documentation synchronization — **PASS / COMPLETE**
-- Part005 canonical page mutations caused by documentation sync — **0**
-- Part006 canonical leakage — **0**
-- Part005 Tamil archival-ready — **PASS / CLOSED**
-- Part005 canonical page mutations caused by archival-ready checkpoint — **0**
-- Part006 canonical leakage — **0**
-- Part005 assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
-- Part005 canonical page mutations caused by assembly — **0**
-- frozen Part001–Part004 assembled-file mutations — **0**
-- Part006 body leakage — **0**
-- Part005 English translation planning/setup — **COMPLETE / PASS**
-- planned English batches — **E20–E26 / 7**
-- translated/source-checked English files — **7/7**
-- E20–E26 — **SOURCE-CHECKED / COMPLETE**
-- English glossary reconciliation — **RECONCILED / PASS**
-- glossary-reconciliation English section edits — **0**
-- unresolved glossary holds — **0**
-- English editorial review — **PASS / CLOSED**
-- editorial English-only changes — **3**
-- source-alignment corrections within editorial total — **1**
-- unresolved editorial holds — **0**
-- whole-Part bilingual review — **PASS / CLOSED**
-- bilingual English-only corrections — **0**
-- unresolved bilingual holds — **0**
-- unresolved Tamil-fidelity holds — **0**
-- release/readiness — **PASS / CLOSED**
-- unresolved release/readiness blockers — **0**
-- source PDFs in active work tree — **0**
-- release-ready synchronization — **PASS / CLOSED**
-- release-sync canonical/assembled/English body changes — **0**
-- release-sync protected source-variant collapses — **0**
-- Part006 leakage — **0**
-- final closure — **PASS / CLOSED / FROZEN**
-- Part006 canonical page records — **30/30 — scans151–180**
-- Part006 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Part006 unresolved Pass-1 source-reading holds — **0**
-- Part006 incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
-- Part006 outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
-- Part006 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
-- Part006 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
-- Part006 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
-- Part006 Part audit — **PASS / COMPLETE**
-- Part006 final metadata/status synchronization — **PASS / CLOSED**
-- Part006 Tamil textual status — **30/30 verified; 0 needs-review**
-- Part006 visual fidelity — **30/30 verified; 0 needs-review**
-- Part006 unresolved status exceptions — **0**
-- Part006 documentation synchronization — **PASS / COMPLETE**
-- Part006 documentation-sync canonical page changes — **0**
-- Part006 unresolved documentation blockers — **0**
-- Part006 Tamil archival-ready checkpoint — **PASS / CLOSED**
-- Part006 archival-ready canonical/page-status changes — **0**
-- Part006 assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
-- Part006 English translation planning/setup — **COMPLETE / PASS**
-- Part006 planned English batches — **E27–E33 / 7**
-- Part006 translated/source-checked English files — **7/7**
-- Part006 E27–E33 — **SOURCE-CHECKED / COMPLETE**
-- Part006 unresolved English source-check holds — **0**
-- Part006 unresolved English planning holds — **0**
-- Part006 assembled canonical coverage — **30/30; omissions / duplicates 0 / 0**
-- Part006 canonical page mutations caused by assembly — **0**
-- frozen Part001–Part005 assembled-file mutations caused by assembly — **0**
-- Part007 body leakage from assembly — **0**
-- Part007 canonical leakage — **0**
+- Part001–Part006 — **FINAL CLOSED / FROZEN**
+- active content Part — **Part007 / scans181–210**
+- Part007 canonical page records — **10/30 — scans181–190**
+- Part007 Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- Part007 Pass-1 transcription pending — **20 — scans191–210**
+- Part007 unresolved Pass-1 source-reading holds — **0**
+- Part007 incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
+- Part007 outgoing 210→211 — **PENDING direct audit**
+- Part007 next Pass-1 batch — **scans191–200 / local pages11–20**
+- Part007 Pass 2A — **BLOCKED until Pass 1 covers scans181–210**
+- frozen Part001–Part006 body mutations caused by this batch — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Perform **Part006 whole-Part English glossary reconciliation**.
+Continue **Part007 Pass 1 — global scans191–200 / local pages11–20**.
 
-Canonical page-map authority remains unchanged at **30/30 verified** for Part006. The maintained English layer now covers scans151–180 at **7/7 SOURCE-CHECKED / COMPLETE**; do not mutate canonical/assembled Tamil or import Part005/Part007 body across audited boundaries.
+Keep Part001–Part006 frozen. Use rendered Part007 source images as controlling representation. Do not inspect/import scan201 body text in the next 10-page batch. Keep outgoing **210→211** pending direct audit and do not begin Pass 2A.

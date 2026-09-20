@@ -4,14 +4,14 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity and global mapping are durable; direct page audit remains pending.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 1 IN PROGRESS.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **181–210**;
 - complete-source extent: **477 scans**;
 - split design: **15 × 30 pages + final 27 pages = 477**;
 - file size: **27,919,435 bytes**;
-- SHA-256: **PENDING**;
+- SHA-256: **1e3e4f5029c5813be28ad8f140db12ca4fbb78b203cd3ee91089b8b697ddf69f**;
 - source text layer: **no usable parsed text exposed**;
 - controlling representation: **rendered source page images**;
 - source family: **TVA_BOK_0065744**;
@@ -42,18 +42,19 @@ The canonical `scan_page` remains the overall scan number **181–210**.
 
 ## Current gate
 
-Part 007 source split: **SUPPLIED / REGISTERED / NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+Part007 is **ACTIVE / PASS 1 IN PROGRESS**.
 
-Incoming 180→181 is **GENUINE CONTINUATION / AUDITED**, but scan181 remains a boundary witness only. Part007 canonical page records remain **0**. Do not create page records here until Part006 completes its maintained workflow and final closure.
+Part001–Part006 are **FINAL CLOSED / FROZEN**.
 
-## Upstream Part006 progress
+- incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 210→211 — **PENDING direct audit**
+- canonical Part007 page records — **10/30 — scans181–190**
+- Pass 1 — **IN PROGRESS — 10/30 TEXT-COMPLETE**
+- unresolved Pass-1 source-reading holds — **0**
+- completed Pass-1 batch — **global scans181–190 / local pages1–10**
+- next Pass-1 batch — **global scans191–200 / local pages11–20**
+- Pass 2A — **BLOCKED until Pass 1 covers scans181–210**
 
-Part006 has now completed:
-- Tamil archival-ready — **PASS / CLOSED**;
-- assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**;
-- canonical Part006 page mutations caused by assembly — **0**;
-- Part007 body leakage — **0**.
+The first Pass-1 batch was transcribed directly from rendered Part007 source page images. Frozen Part006 body text was not imported across 180→181. No scan191+ body text beyond this batch was imported. The 210→211 boundary remains unclassified.
 
-Part006 has now reached **FINAL CLOSURE — PASS / CLOSED / FROZEN**. Part007 is therefore **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Canonical Part007 records remain **0** until the next explicit continuation.
-
-Exact next activity: **Part007 Pass1 — global scans181–190 / local pages1–10**. Keep outgoing **210→211** pending until directly audited; do not begin Part007 Pass2A until Pass1 covers all 30 pages.
+Exact next activity: **Part007 Pass 1 — global scans191–200 / local pages11–20**.
