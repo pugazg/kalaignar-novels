@@ -23,7 +23,8 @@ Part001–Part005 remain **FINAL CLOSED / FROZEN**.
 - outgoing 180→181 boundary: **GENUINE CONTINUATION / AUDITED**
 - Pass 2A: **COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
 - Pass 2B: **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
-- Pass 3: **NOT STARTED / NEXT GATE**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
+- Part audit — **NOT STARTED / NEXT GATE**
 
 All Part006 Pass-1 records remain non-final:
 - `status: "needs-review"`
@@ -94,6 +95,6 @@ The controlling source is the user-supplied Part006 split PDF rendered to page i
 
 ## Exact next activity
 
-Begin **Part006 Pass 3 — global scans151–160 / local pages1–10**.
+Perform the **Part006 Part audit** across scans151–180.
 
-Perform meaningful visual / structural verification directly against Part006 source images. Do not modify frozen Part001–Part005 body layers or create Part007 canonical records.
+Audit canonical completeness, metadata, all four Tamil gate evidence layers, printed-page accounting, section continuity, boundaries, status consistency and Part007 leakage. Do not promote page status until final metadata/status synchronization.

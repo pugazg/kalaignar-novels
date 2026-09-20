@@ -306,7 +306,7 @@ Durable Part005 records now include:
 - `PART_005_RELEASE_READY_SYNC.md`
 - `PART_005_FINAL_CLOSURE.md`
 
-## Part006 — ACTIVE / PASS 2B COMPLETE / PASS 3 NEXT
+## Part006 — ACTIVE / PASS 3 COMPLETE / PART AUDIT NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf`
 - scans — **151–180**
@@ -315,26 +315,18 @@ Durable Part005 records now include:
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
-- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 2B cumulative — **7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
+- Part audit — **NOT STARTED / NEXT GATE**
 - Part007 canonical leakage — **0**
-- Pass 3 — **NOT STARTED / NEXT GATE**
-
-Pass-2B corrections:
-- scan164 — `உத்தரவு` → `உடலுறவு`;
-- scan165 — `ரசிக ஒலிகளை` → `ரசிக ஓலைகளை`;
-- scan176 — `முல்லைத்தீவின்` → `முல்லைத் தீவின்`;
-- scan179 — `முல்லைத்தீவு` → `முல்லைத் தீவு`;
-- scan179 — `திருகோண மலைப்பகுதிக்கும்` → `திருகோண மலைப் பகுதிக்கும்`;
-- scan179 — `முல்லைத்தீவுக்குத்` → `முல்லைத் தீவுக்குத்`;
-- scan179 — `உருவாக்கி விட்டு,` → `உருவாக்கி விட்டு.`.
 
 Durable records:
 - `PART_006_PASS1_PROGRESS.md`
 - `PART_006_PASS2A_PROGRESS.md`
 - `PART_006_PASS2B_PROGRESS.md`
+- `PART_006_PASS3_PROGRESS.md`
 - `PART_006_BOUNDARY_AUDIT_180_181.md`
 
 ## Exact next activity
 
-Begin **Part006 Pass 3 — global scans151–160 / local pages1–10**.
+Perform the **Part006 Part audit** across scans151–180.

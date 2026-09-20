@@ -596,13 +596,14 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part006 outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part006 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
 - Part006 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
-- Part006 Pass 3 — **NOT STARTED / NEXT GATE**
+- Part006 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
+- Part006 Part audit — **NOT STARTED / NEXT GATE**
 - Part007 canonical leakage — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Begin **Part006 Pass 3 — global scans151–160 / local pages1–10**.
+Perform the **Part006 Part audit** across scans151–180.
 
 Do not modify frozen Part001–Part005 body layers. Do not create Part007 canonical records.

@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001–Part005 are **FINAL CLOSED / FROZEN**. Part006 is **ACTIVE / AUTHORIZED — PASS 2B COMPLETE / PASS 3 NEXT**.
+Part001–Part005 are **FINAL CLOSED / FROZEN**. Part006 is **ACTIVE / AUTHORIZED — PASS 3 COMPLETE / PART AUDIT NEXT**.
 
 ## Tamil Part workflow
 
@@ -174,19 +174,20 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part005 release/readiness: PASS / CLOSED**
 - **Part005 release-ready synchronization: PASS / CLOSED**
 - **Part005 final closure: PASS / CLOSED / FROZEN**
-- **Part006: ACTIVE / AUTHORIZED — PASS 2B COMPLETE / PASS 3 NEXT**
+- **Part006: ACTIVE / AUTHORIZED — PASS 3 COMPLETE / PART AUDIT NEXT**
 - **Part006 canonical range: scans151–180**
 - **Part006 canonical page records: 30/30 — scans151–180**
 - **Part006 incoming 150→151: GENUINE CONTINUATION / AUDITED**
 - **Part006 outgoing 180→181: GENUINE CONTINUATION / AUDITED**
 - **Part006 Pass 1: COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - **Part006 Pass 2A: COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
-- **Part006 Pass 2B: COMPLETE / PASS — 30/30 REVIEWED — 7 other source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
-- **Part006 Pass 3: NOT STARTED / NEXT GATE**
+- **Part006 Pass 2B: COMPLETE / PASS — 30/30 REVIEWED — 7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
+- **Part006 Pass 3: COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
+- **Part006 Part audit: NOT STARTED / NEXT GATE**
 - **Part007 canonical leakage: 0**
 
 ## Exact next gate
 
-Begin **Part006 Pass 3 — global scans151–160 / local pages1–10**.
+Perform the **Part006 Part audit** across scans151–180.
 
-Perform meaningful visual / structural verification directly against the Part006 source images. Do not modify frozen Part001–Part005 body layers or create Part007 canonical records.
+Do not modify frozen Part001–Part005 body layers or create Part007 canonical records.
