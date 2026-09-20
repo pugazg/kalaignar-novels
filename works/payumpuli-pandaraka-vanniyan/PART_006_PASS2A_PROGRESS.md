@@ -40,7 +40,8 @@ For every physical scan 151–180:
 - Part007 canonical records created — **0**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
-- Part audit — **NOT STARTED / NEXT GATE**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
 
 ## Corrections applied
 
@@ -119,6 +120,6 @@ All Part006 page records remain `needs-review` pending Pass 2B, Pass 3, Part aud
 
 ## Exact next activity
 
-Perform the **Part006 Part audit** across scans151–180.
+Perform **Part006 final metadata/status synchronization** across scans151–180.
 
-Audit canonical completeness, metadata, all four Tamil gate evidence layers, printed-page accounting, section continuity, boundaries, status consistency and Part007 leakage. Do not promote page status until final metadata/status synchronization.
+Promote only `status` and `visual_fidelity` from `needs-review` to `verified`; do not change Tamil body text, punctuation, structure, provenance, pagination or boundaries.

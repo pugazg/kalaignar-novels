@@ -306,7 +306,7 @@ Durable Part005 records now include:
 - `PART_005_RELEASE_READY_SYNC.md`
 - `PART_005_FINAL_CLOSURE.md`
 
-## Part006 — ACTIVE / PASS 3 COMPLETE / PART AUDIT NEXT
+## Part006 — ACTIVE / PART AUDIT COMPLETE / FINAL STATUS SYNC NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf`
 - scans — **151–180**
@@ -317,7 +317,12 @@ Durable Part005 records now include:
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
-- Part audit — **NOT STARTED / NEXT GATE**
+- Part audit — **PASS / COMPLETE**
+- canonical/body mutations caused by Part audit — **0**
+- status promotions caused by Part audit — **0**
+- Tamil textual status — **0 verified; 30 needs-review**
+- visual fidelity — **0 verified; 30 needs-review**
+- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
 - Part007 canonical leakage — **0**
 
 Durable records:
@@ -325,8 +330,9 @@ Durable records:
 - `PART_006_PASS2A_PROGRESS.md`
 - `PART_006_PASS2B_PROGRESS.md`
 - `PART_006_PASS3_PROGRESS.md`
+- `PART_006_AUDIT.md`
 - `PART_006_BOUNDARY_AUDIT_180_181.md`
 
 ## Exact next activity
 
-Perform the **Part006 Part audit** across scans151–180.
+Perform **Part006 final metadata/status synchronization** across scans151–180.

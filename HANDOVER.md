@@ -267,7 +267,7 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_005_RELEASE_READY_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_005_FINAL_CLOSURE.md`
 
-## Part006 — ACTIVE / PASS 3 COMPLETE / PART AUDIT NEXT
+## Part006 — ACTIVE / PART AUDIT COMPLETE / FINAL STATUS SYNC NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf`
 - global scans — **151–180**
@@ -281,20 +281,26 @@ Durable records:
 - Pass 2B cumulative — **7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 3 cumulative — **0 textual corrections; 0 unresolved visual/structural questions**
+- Part audit — **PASS / COMPLETE**
+- canonical/body mutations caused by Part audit — **0**
+- status promotions caused by Part audit — **0**
+- Tamil textual status — **0 verified; 30 needs-review**
+- visual fidelity — **0 verified; 30 needs-review**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part007 canonical leakage — **0**
-- Part audit — **NOT STARTED / NEXT GATE**
+- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
 
 Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_006_PASS1_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_006_PASS2A_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_006_PASS2B_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_006_PASS3_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_006_AUDIT.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_006_BOUNDARY_AUDIT_180_181.md`
 
 ## Exact next activity
 
-Perform the **Part006 Part audit** across scans151–180.
+Perform **Part006 final metadata/status synchronization**.
 
-Do not modify frozen Part001–Part005 body layers or create Part007 canonical records.
+Promote only `status` and `visual_fidelity` from `needs-review` to `verified` on all 30 Part006 records. Do not modify Tamil body text or frozen Part001–Part005 body layers.

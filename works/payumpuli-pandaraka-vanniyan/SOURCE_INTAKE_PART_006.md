@@ -50,9 +50,10 @@ Part006 Pass 1 is **COMPLETE / PASS — 30/30 TEXT-COMPLETE**.
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
-- Part audit — **NOT STARTED / NEXT GATE**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
 - Part007 canonical leakage — **0**
 
 Part001–Part005 remain **FINAL CLOSED / FROZEN**.
 
-Exact next activity: **Part006 Part audit across scans151–180**.
+Exact next activity: **Part006 final metadata/status synchronization across scans151–180**.

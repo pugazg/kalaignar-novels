@@ -45,7 +45,8 @@ At Pass-3 closure all pages deliberately remain `status: "needs-review"` / `visu
 - cumulative unresolved visual/structural questions — **0**
 - status promotions — **0**
 - Part007 canonical records created — **0**
-- Part audit — **NOT STARTED / NEXT GATE**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
 
 ## Batch 1 — scans151–160
 
@@ -124,8 +125,19 @@ At Pass-3 closure all pages deliberately remain `status: "needs-review"` / `visu
 
 No Pass-3 blocker remains for the **Part audit** gate.
 
+## Post-Pass3 audit state
+
+- Part audit — **PASS / COMPLETE**
+- canonical/body mutations caused by Part audit — **0**
+- status promotions caused by Part audit — **0**
+- Part007 canonical leakage — **0**
+- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
+
+Durable audit record:
+- `PART_006_AUDIT.md`
+
 ## Exact next activity
 
-Perform the **Part006 Part audit** across scans151–180.
+Perform **Part006 final metadata/status synchronization** across scans151–180.
 
-Audit canonical completeness, source/part/page metadata, Pass1/Pass2A/Pass2B/Pass3 evidence, printed-page accounting, chapter/section continuity, incoming/outgoing boundary records, status consistency and Part007 leakage. Do not promote page status until the later final metadata/status synchronization gate.
+Promote only `status` and `visual_fidelity` from `needs-review` to `verified`; make no Tamil/body, punctuation, structure, provenance, pagination or boundary changes.

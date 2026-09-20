@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001–Part005 are **FINAL CLOSED / FROZEN**. Part006 is **ACTIVE / AUTHORIZED — PASS 3 COMPLETE / PART AUDIT NEXT**.
+Part001–Part005 are **FINAL CLOSED / FROZEN**. Part006 is **ACTIVE / AUTHORIZED — PART AUDIT COMPLETE / FINAL STATUS SYNC NEXT**.
 
 ## Tamil Part workflow
 
@@ -183,11 +183,12 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part006 Pass 2A: COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
 - **Part006 Pass 2B: COMPLETE / PASS — 30/30 REVIEWED — 7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
 - **Part006 Pass 3: COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
-- **Part006 Part audit: NOT STARTED / NEXT GATE**
+- **Part006 Part audit: PASS / COMPLETE**
+- **Part006 final metadata/status synchronization: NOT STARTED / NEXT GATE**
 - **Part007 canonical leakage: 0**
 
 ## Exact next gate
 
-Perform the **Part006 Part audit** across scans151–180.
+Perform **Part006 final metadata/status synchronization**.
 
-Do not modify frozen Part001–Part005 body layers or create Part007 canonical records.
+Promote only the two final per-page status fields from `needs-review` to `verified` across all 30 Part006 records. Do not modify Tamil body, punctuation, structure, provenance, pagination or boundaries.
