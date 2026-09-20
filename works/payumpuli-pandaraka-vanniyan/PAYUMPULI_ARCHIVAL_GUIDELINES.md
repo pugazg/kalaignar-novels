@@ -318,3 +318,31 @@ Exact next gate:
 
 **Part007 English translation planning/setup.**
 
+## Part007 English planning/setup checkpoint
+
+**PART007 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- Tamil canonical pages — **30/30 verified**
+- Tamil assembled files — **6/6 VERIFIED / CLOSED**
+- planned English batches — **E34–E39 / 6**
+- planned maintained English files — **6**
+- translated files — **0/6**
+- source-checked files — **0/6**
+- unresolved planning holds — **0**
+- English literary prose drafted in planning gate — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Part001–Part006 English body edits — **0**
+- incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
+- Part008 leakage — **0**
+
+Active English controls:
+- `translations/en/PART_007_TRANSLATION_PLAN.md`
+- `translations/en/PART_007_GLOSSARY.md`
+- `translations/en/PART_007_PROGRESS.md`
+
+Exact next gate:
+
+**E34 draft + source-check — section37 / scans181–183.**
+

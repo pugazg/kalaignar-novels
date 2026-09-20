@@ -1,53 +1,53 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part007 English translation planning/setup
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part007 E34 draft + source-check
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 Part001–Part006 are **FINAL CLOSED / FROZEN**.
 
-## Durable Part007 Tamil state
+## Durable Part007 state
 
 - source scans — **181–210 / 30 physical pages**
 - printed pages — **172–201**
 - canonical Tamil — **30/30 VERIFIED**
 - visual fidelity — **30/30 VERIFIED**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **6/6 VERIFIED / CLOSED**
 - assembled canonical coverage — **30/30**
-- omissions / duplicates — **0 / 0**
-- unsupported Tamil body insertion — **0**
-- audit-note leakage — **0**
+- English translation planning/setup — **COMPLETE / PASS**
+- planned batches — **E34–E39 / 6**
+- translated files — **0/6**
+- source-checked files — **0/6**
+- unresolved English planning holds — **0**
 - incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
 - Part008 canonical records — **0**
 
-## Part007 assembled section inventory
+## Active English controls
 
-1. `37-narthum-nayavanjagamum-part007.md` — scans181–183
-2. `38-parivum-pirivum.md` — scans184–189
-3. `39-piyasili-pirantha-naal.md` — scans190–195
-4. `40-vetri-punnagai.md` — scans196–200
-5. `41-magale-un-samarththu.md` — scans201–206
-6. `42-nidhanamana-kaiyezhuthu.md` — scans207–210
+1. `translations/en/PART_007_TRANSLATION_PLAN.md`
+2. `translations/en/PART_007_GLOSSARY.md`
+3. `translations/en/PART_007_PROGRESS.md`
 
-Read first:
-1. `HANDOVER.md`
-2. `works/payumpuli-pandaraka-vanniyan/PART_007_TAMIL_ARCHIVAL_READY.md`
-3. `works/payumpuli-pandaraka-vanniyan/PART_007_ASSEMBLED_TAMIL_VALIDATION.md`
-4. `works/payumpuli-pandaraka-vanniyan/sections/README.md`
-5. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
+## Exact activity
 
-Exact activity:
-- perform **Part007 English translation planning/setup** only;
-- use verified Part007 canonical Tamil and the closed 6/6 assembled Tamil reading layer as authority;
-- establish English section/batch mapping, glossary/term decisions, boundary handling, and progress controls;
-- preserve incoming/outgoing boundary discipline;
-- do not alter canonical Tamil or assembled Tamil;
-- keep Part001–Part006 frozen;
-- keep Part008 canonical records at 0;
-- **do not draft English prose in the planning/setup gate**.
+Perform **E34 draft + source-check** only.
 
-Stop after planning/setup is durably recorded and synchronized.
+Source:
+- Tamil assembled file — `sections/37-narthum-nayavanjagamum-part007.md`
+- scans — **181–183**
+- chapter — continuation/close of `நார்த்தும் நயவஞ்சகமும்!`
+- planned English file — `translations/en/sections/37-north-and-treachery-part007.md`
+- source-check record — `translations/en/E34_SOURCE_CHECK.md`
+
+Requirements:
+- translate only verified Part007 Tamil;
+- preserve the open incoming 180→181 continuation without importing frozen Part006 English;
+- preserve narrator/speaker attribution, rhetoric, paragraph/dialogue structure and source-sensitive political labels;
+- use `PART_007_GLOSSARY.md` as the active English terminology control;
+- retain non-rendering scan-boundary provenance;
+- make canonical Tamil edits = **0** and assembled Tamil edits = **0** unless an independently documented upstream defect is discovered;
+- frozen Part001–Part006 English body changes = **0**;
+- Part008 leakage = **0**;
+- close E34 only after its source-check passes.
+
+Do **not** begin E35 in the same activity.

@@ -254,3 +254,21 @@ Part007 Tamil archival-ready remains **PASS / CLOSED**.
 Perform **Part007 English translation planning/setup**.
 
 Use verified Part007 canonical Tamil plus the closed **6/6** assembled Tamil reading layer. Create planning/glossary/progress controls only; do not draft English prose in the setup gate.
+
+## Part007 English planning/setup downstream state
+
+Part007 English translation planning/setup is **COMPLETE / PASS**.
+
+- planned batches — **E34–E39 / 6**
+- translated files — **0/6**
+- source-checked files — **0/6**
+- unresolved planning holds — **0**
+- canonical / assembled Tamil changes — **0**
+- frozen Part001–Part006 English body changes — **0**
+- Part008 leakage — **0**
+- English literary prose drafted in planning gate — **0**
+
+Exact next gate:
+
+**E34 draft + source-check — scans181–183.**
+

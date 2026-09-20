@@ -169,3 +169,16 @@ Exact next gate:
 
 **Part007 English translation planning/setup.**
 
+## Part007 English planning downstream state
+
+Part007 English planning/setup is **COMPLETE / PASS**.
+
+- batches — **E34–E39 / 6**
+- translated/source-checked — **0/6**
+- English prose drafted in planning — **0**
+- canonical / assembled Tamil changes — **0**
+- frozen Part001–Part006 English changes — **0**
+- Part008 leakage — **0**
+
+Exact next gate: **E34 draft + source-check — scans181–183**.
+
