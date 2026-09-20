@@ -21,7 +21,8 @@ Part001–Part005 remain **FINAL CLOSED / FROZEN**.
 - unresolved Pass-1 source-reading holds: **0**
 - incoming 150→151 boundary: **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 boundary: **GENUINE CONTINUATION / AUDITED**
-- Pass 2A: **NOT STARTED / NEXT GATE**
+- Pass 2A: **COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
+- Pass 2B: **NOT STARTED / NEXT GATE**
 
 All Part006 Pass-1 records remain non-final:
 - `status: "needs-review"`
@@ -92,6 +93,6 @@ The controlling source is the user-supplied Part006 split PDF rendered to page i
 
 ## Exact next activity
 
-Begin **Part006 Pass 2A — global scans151–160 / local pages1–10**.
+Begin **Part006 Pass 2B — global scans151–160 / local pages1–10**.
 
-Compare each canonical page directly against the supplied Part006 source pixels for word-for-word Tamil, punctuation, dialogue/paragraph structure, printed pagination and physical page boundaries. Do not begin Pass 2B until Pass 2A covers scans151–180. Do not modify frozen Part001–Part005 body layers or create Part007 canonical records.
+Perform an independent lexical / historical-glyph reread directly against the Part006 source pixels. Preserve source-specific forms and do not modernize. Do not modify frozen Part001–Part005 body layers or create Part007 canonical records. Do not begin Pass 3 until Pass 2B covers all scans151–180.

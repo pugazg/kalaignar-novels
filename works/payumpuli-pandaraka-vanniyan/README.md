@@ -306,7 +306,7 @@ Durable Part005 records now include:
 - `PART_005_RELEASE_READY_SYNC.md`
 - `PART_005_FINAL_CLOSURE.md`
 
-## Part006 — ACTIVE / PASS 1 COMPLETE / PASS 2A NEXT
+## Part006 — ACTIVE / PASS 2A COMPLETE / PASS 2B NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf`
 - scans — **151–180**
@@ -314,25 +314,30 @@ Durable Part005 records now include:
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- unresolved Pass-1 source-reading holds — **0**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2A cumulative source-text corrections — **5**
+- Pass 2A non-body note corrections — **1**
+- unresolved Pass-2A textual questions — **0**
 - Part007 canonical leakage — **0**
-- Pass 2A — **NOT STARTED / NEXT GATE**
+- Pass 2B — **NOT STARTED / NEXT GATE**
 
-Notable Batch-3 structure:
-- scan171 closes chapter25 `பேய் மகள் பியசிலி!`;
-- scan172 opens chapter26 `நடந்ததை விளக்கிய நச்சு நாக்கு!`;
-- scan174 is a full-page colour illustration with no printed body text or visible folio;
-- scan178 closes chapter26;
-- scan179 opens chapter27 `நார்த்தும் நயவஞ்சகமும்!`;
-- scan180 / printed171 ends `மருமகனே! என் மகளை வைத்துக் காப்பாற்றுவாய்`;
-- Part007 scan181 / printed172 continues `-கண்டி மண்டலத்தையும் காத்திடுவாய் என்று நம்பியிருந்தேன்.`;
-- **180→181 = GENUINE CONTINUATION / AUDITED**.
+Pass-2A canonical corrections:
+- scan161 — `மனைவியைப்பற்றி` → `மனைவியைப் பற்றி`;
+- scan161 — `இன்பம் கொஞ்சம் கெடலாம்` → `இன்னும் கொஞ்சம் கெடலாம்`;
+- scan173 — `ஐயோ!` → `ஓகோ!`;
+- scan179 — `அமைச்சர்பிலிமத்தளாவை` → `அமைச்சர் பிலிமத்தளாவை`;
+- scan179 — restored source dash after `சூழ்ச்சிக்காரர்கள்`.
 
-Durable boundary record:
+Non-body correction:
+- scan151 Pass-1 note now correctly cites frozen scan150 terminal `என்னுடன் வாழ வேண்டாம் என நான்`.
+
+Durable records:
+- `PART_006_PASS1_PROGRESS.md`
+- `PART_006_PASS2A_PROGRESS.md`
 - `PART_006_BOUNDARY_AUDIT_180_181.md`
 
 ## Exact next activity
 
-Begin **Part006 Pass 2A — global scans151–160 / local pages1–10**.
+Begin **Part006 Pass 2B — global scans151–160 / local pages1–10**.
 
-Do not modify frozen Part001–Part005 body layers or create Part007 canonical records. Do not begin Pass 2B until Part006 Pass 2A covers all scans151–180.
+Perform an independent lexical / historical-glyph reread directly against the Part006 source pixels. Preserve source-specific forms and do not modernize. Do not modify frozen Part001–Part005 body layers or create Part007 canonical records. Do not begin Pass 3 until Part006 Pass 2B covers all scans151–180.

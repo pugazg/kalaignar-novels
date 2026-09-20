@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001–Part005 are **FINAL CLOSED / FROZEN**. Part006 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+Part001–Part005 are **FINAL CLOSED / FROZEN**. Part006 is **ACTIVE / AUTHORIZED — PASS 2A COMPLETE / PASS 2B NEXT**.
 
 ## Tamil Part workflow
 
@@ -43,6 +43,7 @@ Audited:
 - **90→91 — GENUINE CONTINUATION**
 - **120→121 — GENUINE CONTINUATION**
 - **150→151 — GENUINE CONTINUATION**
+- **180→181 — GENUINE CONTINUATION**
 
 For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were directly compared. No scan60 correction was needed and no Part003 canonical text was imported.
 
@@ -173,18 +174,18 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part005 release/readiness: PASS / CLOSED**
 - **Part005 release-ready synchronization: PASS / CLOSED**
 - **Part005 final closure: PASS / CLOSED / FROZEN**
-- **Part006: ACTIVE / AUTHORIZED — PASS 1 COMPLETE / PASS 2A NEXT**
+- **Part006: ACTIVE / AUTHORIZED — PASS 2A COMPLETE / PASS 2B NEXT**
 - **Part006 canonical range: scans151–180**
 - **Part006 canonical page records: 30/30 — scans151–180**
 - **Part006 incoming 150→151: GENUINE CONTINUATION / AUDITED**
 - **Part006 outgoing 180→181: GENUINE CONTINUATION / AUDITED**
 - **Part006 Pass 1: COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- **Part006 unresolved Pass-1 source-reading holds: 0**
-- **Part006 Pass 2A: NOT STARTED / NEXT GATE**
+- **Part006 Pass 2A: COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
+- **Part006 Pass 2B: NOT STARTED / NEXT GATE**
 - **Part007 canonical leakage: 0**
 
 ## Exact next gate
 
-Begin **Part006 Pass 2A — global scans151–160 / local pages1–10**.
+Begin **Part006 Pass 2B — global scans151–160 / local pages1–10**.
 
-Do not modify frozen Part001–Part005 body layers. Do not create Part007 canonical records. Do not begin Part006 Pass 2B until Pass 2A covers scans151–180.
+Perform an independent lexical / historical-glyph reread directly against the Part006 source pixels. Preserve source-specific forms and do not modernize. Do not modify frozen Part001–Part005 body layers or create Part007 canonical records. Do not begin Pass 3 until Pass 2B covers scans151–180.

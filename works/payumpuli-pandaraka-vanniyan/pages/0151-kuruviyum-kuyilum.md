@@ -29,9 +29,18 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 batch s
 
 ## Pass 1 notes
 
-- incoming 150→151 = GENUINE CONTINUATION / AUDITED is preserved as provenance only: frozen scan150 ends at தனது காதல் விலை and this Part006 record begins only with source-visible சொல்லவில்லையே!; no Part005 body text is imported
+- incoming 150→151 = GENUINE CONTINUATION / AUDITED is preserved as provenance only: frozen scan150 ends at என்னுடன் வாழ வேண்டாம் என நான் and this Part006 record begins only with source-visible சொல்லவில்லையே!; no Part005 body text is imported
 - source-visible முறுவல் பூத்து முத்தமாரி, கண்களோ குளங்களாக and நாறாயிரம் சம்மட்டிகளால் are retained without normalization
 - the physical page ends inside the continuing dialogue at எல்லாமே எனக்கு
 - printed page 141 is directly visible; status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 151; பகுதி: 006; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 141; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part006 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against the user-supplied Part006 source pixels;
+- source-text corrections: **0**;
+- non-body Pass-1 note correction during Pass 2A: the frozen scan150 terminal was corrected from the mistakenly cited earlier-Part fragment `தனது காதல் விலை` to the audited Part005 terminal `என்னுடன் வாழ வேண்டாம் என நான்`; canonical Tamil body unchanged;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.

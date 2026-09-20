@@ -47,12 +47,15 @@ Part006 Pass 1 is **COMPLETE / PASS — 30/30 TEXT-COMPLETE**.
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - canonical Part006 page records — **30/30 — scans151–180**
-- unresolved Pass-1 source-reading holds — **0**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2A cumulative source-text corrections — **5**
+- Pass 2A non-body note corrections — **1**
+- unresolved Pass-2A textual questions — **0**
 - durable outgoing boundary record — `PART_006_BOUNDARY_AUDIT_180_181.md`
 - Part007 scan181 was used only as an adjacent boundary witness
 - Part007 canonical leakage — **0**
-- Pass 2A — **NOT STARTED / NEXT GATE**
+- Pass 2B — **NOT STARTED / NEXT GATE**
 
 Part001–Part005 remain **FINAL CLOSED / FROZEN**.
 
-Exact next range: **Part006 Pass 2A scans151–160 / local pages1–10**.
+Exact next range: **Part006 Pass 2B scans151–160 / local pages1–10**.
