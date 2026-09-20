@@ -304,3 +304,22 @@ Perform **Part006 whole-Part English glossary reconciliation** across all seven 
 ## CURRENT CHECKPOINT — Part006 release-ready synchronization
 
 Part006 / scans151–180 is **RELEASE-READY SYNCHRONIZATION PASS / CLOSED**. Canonical Tamil remains 30/30 verified; assembled Tamil 7/7 verified; E27–E33 7/7 source-checked; glossary, editorial, bilingual and release/readiness gates are closed; body drift and Part007 leakage are 0. Exact next activity: **Part006 final closure**. Do not begin Part007 before that closure passes.
+
+
+## Part006 final closure checkpoint
+
+**PART006 FINAL CLOSURE — PASS / CLOSED / FROZEN**.
+
+- Part006 canonical Tamil — **30/30 verified**
+- Part006 assembled Tamil — **7/7 VERIFIED / CLOSED**
+- E27–E33 — **7/7 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved blockers — **0**
+- post-release canonical/assembled/English body drift — **0**
+- Part007 canonical/body leakage during Part006 closure — **0**
+
+Part001–Part006 are **FINAL CLOSED / FROZEN**. Part007 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Exact next activity: **Part007 Pass1 — global scans181–190 / local pages1–10**. Incoming 180→181 remains **GENUINE CONTINUATION / AUDITED**; outgoing 210→211 remains pending direct audit.

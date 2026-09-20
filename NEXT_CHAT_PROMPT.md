@@ -1,30 +1,25 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part006 final closure
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part007 Pass1 scans181–190
 
-Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Part001–Part005 are **FINAL CLOSED / FROZEN**.
+Part001–Part006 are **FINAL CLOSED / FROZEN**.
 
-Part006 is closed through:
-- Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **7/7 VERIFIED / CLOSED**
-- E27–E33 — **7/7 SOURCE-CHECKED / COMPLETE**
-- glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED**
-- whole-Part bilingual review — **PASS / CLOSED**
-- release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- unresolved blockers — **0**
+Part007 source:
+- `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_007_pages_181-210.pdf`
+- local pages — **30**
+- global scans — **181–210**
+- incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 210→211 — **PENDING direct audit**
+- canonical Part007 page records — **0**
 
-Exact activity:
-- create and independently verify `works/payumpuli-pandaraka-vanniyan/PART_006_FINAL_CLOSURE.md`;
-- verify complete Tamil, assembled, English, glossary, editorial, bilingual, release and synchronization chain;
-- verify no post-release textual drift;
-- preserve protected variants and 150→151 / scan156 / scan174 / 180→181 locks;
-- canonical/assembled/English body changes **0**;
-- frozen Part001–Part005 body changes **0**;
-- Part007 canonical/body leakage **0**;
-- synchronize maintained controls.
+Exact next activity:
+- Part007 Pass1 **global scans181–190 / local pages1–10**;
+- use rendered source page images as controlling representation;
+- preserve exact source Tamil spelling, punctuation, paragraph/meaningful lineation and page fragments;
+- preserve exact provenance: `part: 7`, `part_page: 1–10`, exact Part007 source filename;
+- do not import frozen Part006 body across 180→181;
+- keep 210→211 pending until directly audited;
+- do not begin Pass2A until Pass1 covers all scans181–210;
+- update all maintained controls atomically and verify live main.
 
-Close only as **PART006 FINAL CLOSURE — PASS / CLOSED / FROZEN**.
-
-After closure, Part007 may become **NEXT ACTIVE / AUTHORIZED / NOT STARTED** under repository policy.
+Part001–Part006 canonical Tamil, assembled Tamil and maintained English are frozen.

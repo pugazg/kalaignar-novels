@@ -42,7 +42,7 @@ The canonical `scan_page` remains the overall scan number **181–210**.
 
 ## Current gate
 
-Part 007 source split: **SUPPLIED / REGISTERED / BLOCKED**.
+Part 007 source split: **SUPPLIED / REGISTERED / NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
 
 Incoming 180→181 is **GENUINE CONTINUATION / AUDITED**, but scan181 remains a boundary witness only. Part007 canonical page records remain **0**. Do not create page records here until Part006 completes its maintained workflow and final closure.
 
@@ -54,4 +54,6 @@ Part006 has now completed:
 - canonical Part006 page mutations caused by assembly — **0**;
 - Part007 body leakage — **0**.
 
-Part007 nevertheless remains **SUPPLIED / REGISTERED / BLOCKED** until Part006 completes its maintained English/release/final-closure workflow. Canonical Part007 records remain **0**.
+Part006 has now reached **FINAL CLOSURE — PASS / CLOSED / FROZEN**. Part007 is therefore **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Canonical Part007 records remain **0** until the next explicit continuation.
+
+Exact next activity: **Part007 Pass1 — global scans181–190 / local pages1–10**. Keep outgoing **210→211** pending until directly audited; do not begin Part007 Pass2A until Pass1 covers all 30 pages.

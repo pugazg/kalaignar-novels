@@ -1357,3 +1357,10 @@ Part006 then became active.
 - unresolved documentation blockers — **0**
 
 Exact next activity: **Part006 English translation planning/setup**.
+
+
+## Part006 closure / Part007 activation
+
+Part006 / scans151–180 is **FINAL CLOSED / FROZEN** after Tamil archival, assembled Tamil, maintained English, glossary, editorial, bilingual, release/readiness and release-ready synchronization all passed with zero unresolved blockers and zero post-release body drift.
+
+Part007 / scans181–210 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Its incoming 180→181 boundary is **GENUINE CONTINUATION / AUDITED**; outgoing 210→211 remains pending direct audit. Canonical Part007 records remain 0 until the next explicit continuation. First Pass1 batch: **scans181–190 / local pages1–10**.

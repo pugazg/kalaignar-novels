@@ -203,3 +203,10 @@ Exact next gate:
 **Part006 whole-Part English glossary reconciliation.**
 
 Part001–Part005 remain frozen. Part007 remains supplied / registered / blocked until Part006 completes its maintained workflow and final closure.
+
+
+## Part006 closure / Part007 activation
+
+Part006 / scans151–180 is **FINAL CLOSED / FROZEN** after Tamil archival, assembled Tamil, maintained English, glossary, editorial, bilingual, release/readiness and release-ready synchronization all passed with zero unresolved blockers and zero post-release body drift.
+
+Part007 / scans181–210 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Its incoming 180→181 boundary is **GENUINE CONTINUATION / AUDITED**; outgoing 210→211 remains pending direct audit. Canonical Part007 records remain 0 until the next explicit continuation. First Pass1 batch: **scans181–190 / local pages1–10**.
