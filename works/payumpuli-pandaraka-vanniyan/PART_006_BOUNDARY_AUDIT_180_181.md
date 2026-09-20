@@ -59,3 +59,16 @@ Current downstream state:
 - final metadata/status synchronization — **PASS / CLOSED**;
 - documentation synchronization — **PASS / COMPLETE**;
 - exact next gate — **Part007 Tamil archival-ready checkpoint**.
+
+## Part007 assembled-layer downstream state
+
+The **180→181 GENUINE CONTINUATION / AUDITED** classification remains unchanged.
+
+Part007 subsequently reached:
+- canonical Tamil — **30/30 verified**;
+- Tamil archival-ready — **PASS / CLOSED**;
+- assembled Tamil — **6/6 VERIFIED / CLOSED**;
+- frozen Part006 body imported into Part007 assembly — **0**;
+- Part008 body leakage — **0**.
+
+Current next gate: **Part007 English translation planning/setup**.

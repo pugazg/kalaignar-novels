@@ -288,3 +288,33 @@ Durable closure records:
 
 Perform **Part007 Tamil archival-ready checkpoint**.
 
+## Part007 assembled Tamil closure checkpoint
+
+**PART007 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED.**
+
+- canonical Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- assembled canonical coverage — **30/30**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit-note leakage — **0**
+- canonical Part007 page mutations caused by assembly — **0**
+- frozen Part001–Part006 assembled-file mutations — **0**
+- Part008 body leakage — **0**
+- incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
+- Part008 canonical records — **0**
+- unresolved blockers — **0**
+
+Durable validation:
+- `works/payumpuli-pandaraka-vanniyan/PART_007_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Exact next gate:
+
+**Part007 English translation planning/setup.**
+

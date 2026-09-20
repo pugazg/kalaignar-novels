@@ -56,3 +56,14 @@ Part008 remains **SUPPLIED / REGISTERED / BLOCKED**:
 - Part008 Pass1 — **NOT STARTED**.
 
 The maintained Part007 workflow next performs the **Tamil archival-ready checkpoint**; do not begin Part008 body capture yet.
+
+## Updated upstream frontier state
+
+Part007 canonical Tamil is **30/30 verified**, Tamil archival-ready is **PASS / CLOSED**, and assembled Tamil is **6/6 VERIFIED / CLOSED**.
+
+Part008 remains **SUPPLIED / REGISTERED / BLOCKED**:
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**;
+- canonical Part008 records — **0**;
+- Part008 Pass1 — **NOT STARTED**.
+
+Current maintained next gate is **Part007 English translation planning/setup**. Do not begin Part008 body capture.

@@ -69,6 +69,12 @@ Part001 section files `00-*.md` through `07-*.md` are frozen.
 | 34 | 006 | `34-pey-magal-piyasili.md` | 167–171 | `பேய் மகள் பியசிலி!` | **VERIFIED** |
 | 35 | 006 | `35-nadanthathai-vilakkiya-nachu-naakku.md` | 172–178 | `நடந்ததை விளக்கிய நச்சு நாக்கு!`; scan174 illustration-only provenance | **VERIFIED** |
 | 36 | 006 | `36-narthum-nayavanjagamum.md` | 179–180 | `நார்த்தும் நயவஞ்சகமும்!`; Part007 continuation withheld | **VERIFIED** |
+| 37 | 007 | `37-narthum-nayavanjagamum-part007.md` | 181–183 | chapter27 continuation/close `நார்த்தும் நயவஞ்சகமும்!` | **VERIFIED** |
+| 38 | 007 | `38-parivum-pirivum.md` | 184–189 | `பரிவும் - பிரிவும்!` | **VERIFIED** |
+| 39 | 007 | `39-piyasili-pirantha-naal.md` | 190–195 | `பியசிலி-பிறந்த நாள்!` | **VERIFIED** |
+| 40 | 007 | `40-vetri-punnagai.md` | 196–200 | `வெற்றிப் புன்னகை!` | **VERIFIED** |
+| 41 | 007 | `41-magale-un-samarththu.md` | 201–206 | `“மகளே உன் சமர்த்து!”` | **VERIFIED** |
+| 42 | 007 | `42-nidhanamana-kaiyezhuthu.md` | 207–210 | `நிதானமான கையெழுத்து!`; Part008 continuation withheld | **VERIFIED** |
 
 ### Part003 — PASS / CLOSED
 
@@ -225,3 +231,26 @@ Part006 Tamil archival-ready remains **PASS / CLOSED**.
 Perform **Part006 English translation planning/setup**.
 
 Use verified Part006 canonical Tamil plus the closed 7/7 assembled Tamil reading layer. Create planning/glossary/progress controls only; do not draft English prose in the setup gate.
+
+## Part007 — PASS / CLOSED
+
+- physical coverage — **scans181–210**
+- canonical pages represented — **30/30**
+- assembled files — **6/6 VERIFIED**
+- omitted / duplicated canonical pages — **0 / 0**
+- unsupported body insertion — **0**
+- audit-note leakage — **0**
+- canonical Part007 page mutations caused by assembly — **0**
+- frozen Part001–Part006 assembled-file mutations — **0**
+- Part008 body leakage — **0**
+- incoming 180→181 boundary provenance without Part006 body import — **PASS**
+- outgoing 210→211 boundary provenance without Part008 body import — **PASS**
+- validation — `../PART_007_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Part007 Tamil archival-ready remains **PASS / CLOSED**.
+
+## Exact next activity
+
+Perform **Part007 English translation planning/setup**.
+
+Use verified Part007 canonical Tamil plus the closed **6/6** assembled Tamil reading layer. Create planning/glossary/progress controls only; do not draft English prose in the setup gate.

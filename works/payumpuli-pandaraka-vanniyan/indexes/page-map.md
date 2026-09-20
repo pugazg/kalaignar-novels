@@ -512,22 +512,23 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part007 canonical page records — **30/30 VERIFIED**
 - Part007 Tamil textual status — **30/30 verified**
 - Part007 visual fidelity — **30/30 verified**
-- Part007 Pass 1 — **COMPLETE / PASS**
-- Part007 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 9 corrections**
-- Part007 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 2 additional corrections**
-- Part007 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 corrections**
+- Part007 Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part007 Part audit — **PASS / COMPLETE**
 - Part007 final metadata/status synchronization — **PASS / CLOSED**
 - Part007 documentation synchronization — **PASS / COMPLETE**
+- Part007 Tamil archival-ready — **PASS / CLOSED**
+- Part007 assembled Tamil — **6/6 VERIFIED / CLOSED**
+- Part007 assembled canonical coverage — **30/30**
+- Part007 assembled omissions / duplicates — **0 / 0**
 - Part007 incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part007 outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
 - Part008 canonical page records — **0**
-- frozen Part001–Part006 body mutations caused by Part007 closure gates — **0**
+- frozen Part001–Part006 body mutations caused by Part007 assembly — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Perform **Part007 Tamil archival-ready checkpoint**.
+Perform **Part007 English translation planning/setup**.
 
 Keep Part001–Part006 frozen and Part008 canonical leakage at 0.
