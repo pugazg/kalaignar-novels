@@ -15,8 +15,8 @@ Part001–Part006 English remain **FINAL CLOSED / FROZEN**.
 | **E38** | section41 — `“மகளே உன் சமர்த்து!”` | 201–206 | **SOURCE-CHECKED / COMPLETE** |
 | **E39** | section42 — `நிதானமான கையெழுத்து!` | 207–210 | **SOURCE-CHECKED / COMPLETE** |
 | Glossary reconciliation | Part007 whole-Part reconciliation | 181–210 | **RECONCILED / PASS** |
-| Editorial | Part007 whole-Part English editorial review | 181–210 | **NOT STARTED / NEXT** |
-| Bilingual | Part007 whole-Part bilingual review | 181–210 | **BLOCKED until editorial review** |
+| Editorial | Part007 whole-Part English editorial review | 181–210 | **PASS / CLOSED** |
+| Bilingual | Part007 whole-Part bilingual review | 181–210 | **NOT STARTED / NEXT** |
 | Release | Part007 release/readiness | 181–210 | **BLOCKED until bilingual review** |
 | Release sync | Part007 release-ready synchronization | 181–210 | **BLOCKED until release/readiness** |
 | Final closure | Part007 final closure | 181–210 | **BLOCKED until release sync** |
@@ -139,4 +139,25 @@ Durable report:
 Exact next gate:
 
 **Part007 English editorial review across all six maintained English files / scans181–210.**
+
+## Part007 English editorial-review checkpoint
+
+**PART007 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- maintained English files reviewed — **6/6**
+- files requiring body edits — **0/6**
+- English-only editorial changes — **0**
+- source-alignment corrections — **0**
+- unresolved editorial holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001–Part006 English body edits — **0**
+- Part008 leakage — **0**
+
+Durable report:
+- `translations/en/PART_007_TRANSLATION_REVIEW.md`
+
+Exact next gate:
+
+**Part007 whole-Part bilingual review across all six Tamil/English pairs / scans181–210.**
 
