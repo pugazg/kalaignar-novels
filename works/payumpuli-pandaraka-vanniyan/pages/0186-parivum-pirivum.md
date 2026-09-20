@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 batch s
 
 “தாங்கள் முல்லைத்தீவை விட்டுப் புறப்பட்டு நெடுநாட்கள் ஆகின்றன! நாம் அங்கில்லாத நேரத்தில் ஆங்கிலேயப் படையினர் அதனை வளைத்துக் கொள்ள வியூகம் வகுக்கலாம் அல்லவா?”
 
-அப்போது கண்டி மன்னன் குறுக்கிட்டு, “அப்படியே ஒன்று நடந்து விட்டால்தான் என்ன? இந்தக் கண்டி அரண்மனை என் நண்பன் பண்டாரகனுக்கு நிலையான இடத்தைத் தராமலா போய் விடும்!” என்றான் அவசரமாக!
+அப்போது கண்டி மன்னன் குறுக்கிட்டு, “அப்படியே ஒன்று நடந்து விட்டால்தான் என்ன? இந்தக் கண்டி அரண்மனை என் நண்பன் பண்டாரகனுக்குநிலையான இடத்தைத்தராமலா போய் விடும்!” என்றான் அவசரமாக!
 
 ஆம், அவன் அவசரமாகத்தான் பேசிவிட்டான்! நட்பு உரிமையுடன் அப்படிப் பேசிவிட்டான்! அந்த வார்த்தைகளைப் பண்டாரக வன்னியன் ஏற்றுக் கொள்ளவில்லை என்பதை அவனது முகமாற்றம் புலப்படுத்தியது.
 
@@ -46,3 +46,14 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 batch s
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
+
+## Formal Part007 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the user-supplied Part007 source pixels;
+- source-text / lexical / spacing / punctuation corrections: **2**;
+- historical-glyph corrections: **0**;
+- source-supported Pass-2B correction: `பண்டாரகனுக்கு நிலையான` → `பண்டாரகனுக்குநிலையான`;
+- source-supported Pass-2B correction: `இடத்தைத் தராமலா` → `இடத்தைத்தராமலா`;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 3, Part audit and final status synchronization.

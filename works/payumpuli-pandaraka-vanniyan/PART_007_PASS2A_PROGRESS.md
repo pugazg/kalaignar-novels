@@ -37,7 +37,7 @@ For every physical scan 181–210:
 - unresolved textual questions — **0**
 - status promotions — **0**
 - Part008 canonical records created — **0**
-- Pass 2B — **NOT STARTED / NEXT GATE**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 2 source-text / spacing corrections; 0 historical-glyph corrections; 0 unresolved**
 
 ## Corrections applied
 
@@ -103,8 +103,12 @@ Cumulative:
 
 All Part007 page records remain `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
 
+## Post-gate current state
+
+Part007 Pass 2B is **COMPLETE / PASS — 30/30 REVIEWED** with **2** additional source-supported spacing / lexical-segmentation corrections, **0** historical-glyph corrections and **0** unresolved questions.
+
 ## Exact next activity
 
-Begin **Part007 Pass 2B — global scans181–190 / local pages1–10**.
+Begin **Part007 Pass 3 — global scans181–190 / local pages1–10**.
 
-Perform an independent lexical / historical-glyph reread directly against Part007 source pixels. Preserve source-specific wording and spacing; do not modernize or grammar-correct. Do not modify frozen Part001–Part006 body layers or create/import Part008 canonical body text.
+Perform direct full-page visual / structural verification against the Part007 source images. Keep Part001–Part006 frozen and Part008 canonical leakage at 0.

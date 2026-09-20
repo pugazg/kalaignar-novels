@@ -95,8 +95,14 @@ Frozen Part001–Part006 canonical Tamil, assembled Tamil and maintained English
 
 Part007 Pass 2A is **COMPLETE / PASS — 30/30 REVIEWED** with **9** source-supported canonical corrections and **0** unresolved textual questions. All page records remain `needs-review`. Part008 canonical leakage remains **0**.
 
+## Post-gate current state
+
+Part007 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 9 source-supported corrections; 0 unresolved**.
+
+Part007 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 2 source-text / spacing corrections; 0 historical-glyph corrections; 0 unresolved**.
+
+All Part007 page records remain `needs-review`. Part008 canonical leakage remains **0**.
+
 ## Exact next activity
 
-Begin **Part007 Pass 2B — global scans181–190 / local pages1–10**.
-
-Perform an independent lexical / historical-glyph reread directly against the Part007 source pixels. Do not modify frozen Part001–Part006 body layers or create/import Part008 canonical body text.
+Begin **Part007 Pass 3 — global scans181–190 / local pages1–10**.

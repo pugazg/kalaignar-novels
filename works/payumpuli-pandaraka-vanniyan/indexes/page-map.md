@@ -513,17 +513,19 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part007 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part007 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
 - Part007 Pass 2A cumulative source-text corrections — **9**
-- Part007 unresolved Pass-2A textual questions — **0**
+- Part007 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part007 Pass 2B cumulative — **2 source-text / spacing corrections; 0 historical-glyph corrections**
+- Part007 unresolved Pass-2B questions — **0**
 - Part007 incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part007 outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
-- Part007 Pass 2B — **NOT STARTED / NEXT GATE**
+- Part007 Pass 3 — **NOT STARTED / NEXT GATE**
 - Part008 canonical page records — **0**
-- frozen Part001–Part006 body mutations caused by Pass 2A — **0**
+- frozen Part001–Part006 body mutations caused by Pass 2B — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Begin **Part007 Pass 2B — global scans181–190 / local pages1–10**.
+Begin **Part007 Pass 3 — global scans181–190 / local pages1–10**.
 
-Keep Part001–Part006 frozen. Perform an independent lexical / historical-glyph reread directly against rendered Part007 source images. Keep Part008 canonical leakage at 0.
+Keep Part001–Part006 frozen. Perform direct visual / structural verification against rendered Part007 source images. Keep Part008 canonical leakage at 0.
