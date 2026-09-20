@@ -16,8 +16,8 @@ Part001–Part006 English remain **FINAL CLOSED / FROZEN**.
 | **E39** | section42 — `நிதானமான கையெழுத்து!` | 207–210 | **SOURCE-CHECKED / COMPLETE** |
 | Glossary reconciliation | Part007 whole-Part reconciliation | 181–210 | **RECONCILED / PASS** |
 | Editorial | Part007 whole-Part English editorial review | 181–210 | **PASS / CLOSED** |
-| Bilingual | Part007 whole-Part bilingual review | 181–210 | **NOT STARTED / NEXT** |
-| Release | Part007 release/readiness | 181–210 | **BLOCKED until bilingual review** |
+| Bilingual | Part007 whole-Part bilingual review | 181–210 | **PASS / CLOSED** |
+| Release | Part007 release/readiness | 181–210 | **NOT STARTED / NEXT** |
 | Release sync | Part007 release-ready synchronization | 181–210 | **BLOCKED until release/readiness** |
 | Final closure | Part007 final closure | 181–210 | **BLOCKED until release sync** |
 
@@ -160,4 +160,25 @@ Durable report:
 Exact next gate:
 
 **Part007 whole-Part bilingual review across all six Tamil/English pairs / scans181–210.**
+
+## Part007 whole-Part bilingual-review checkpoint
+
+**PART007 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED.**
+
+- Tamil/English pairs reviewed — **6/6**
+- scans reviewed — **181–210 / 30**
+- further bilingual English-only corrections — **0**
+- unresolved bilingual holds — **0**
+- unresolved Tamil-fidelity holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001–Part006 English body edits — **0**
+- Part008 leakage — **0**
+
+Durable report:
+- `translations/en/PART_007_BILINGUAL_REVIEW.md`
+
+Exact next gate:
+
+**Part007 release/readiness report.**
 

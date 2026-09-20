@@ -520,3 +520,24 @@ Exact next gate:
 
 **Part007 whole-Part bilingual review across all six Tamil/English pairs / scans181–210.**
 
+## Part007 whole-Part bilingual-review checkpoint
+
+**PART007 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED.**
+
+- Tamil/English pairs reviewed — **6/6**
+- scans reviewed — **181–210 / 30**
+- further bilingual English-only corrections — **0**
+- unresolved bilingual holds — **0**
+- unresolved Tamil-fidelity holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001–Part006 English body edits — **0**
+- Part008 leakage — **0**
+
+Durable report:
+- `translations/en/PART_007_BILINGUAL_REVIEW.md`
+
+Exact next gate:
+
+**Part007 release/readiness report.**
+
