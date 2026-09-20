@@ -38,6 +38,10 @@ Printed pagination also advances directly **171 → 172**.
 
 ## Downstream effect
 
-Part006 Pass 1 may close after scans151–180 are fully recorded.
+The audited **180→181 GENUINE CONTINUATION** classification remains unchanged.
 
-Part007 remains supplied / registered and must not become active merely because scan181 was used as the boundary witness.
+Part006 has subsequently completed Pass1, Pass2A, Pass2B, Pass3, Part audit, final metadata/status synchronization and documentation synchronization. Part006 is **30/30 verified** for both Tamil textual status and visual fidelity.
+
+Part007 remains **SUPPLIED / REGISTERED / BLOCKED**. Scan181 remains a boundary witness only; Part007 canonical page records remain **0**.
+
+Exact next gate: **Part006 Tamil archival-ready checkpoint**.

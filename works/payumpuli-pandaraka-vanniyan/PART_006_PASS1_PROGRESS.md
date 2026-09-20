@@ -93,8 +93,20 @@ Durable outgoing-boundary authority:
 
 The controlling source is the user-supplied Part006 split PDF rendered to page images and inspected directly. Part007 local page1 / global scan181 was inspected only as the adjacent outgoing-boundary witness. Source wording, punctuation, paragraph/dialogue structure, chapter hierarchy, printed pagination, illustration classification and physical page-end fragments are preserved from source pixels. OCR is not treated as source authority.
 
+## Post-gate current state
+
+The gate evidence above remains historically authoritative.
+
+Subsequent Part006 gates completed:
+- Pass 3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- documentation synchronization — **PASS / COMPLETE**
+- canonical page mutations caused by documentation sync — **0**
+- Part007 canonical leakage — **0**
+
 ## Exact next activity
 
-Perform the **Part006 Part audit** across scans151–180.
-
-Audit canonical completeness, metadata, all four Tamil gate evidence layers, printed-page accounting, section continuity, boundaries, status consistency and Part007 leakage. Do not promote page status until final metadata/status synchronization.
+Perform **Part006 Tamil archival-ready checkpoint**.

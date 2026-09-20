@@ -602,13 +602,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part006 Tamil textual status — **30/30 verified; 0 needs-review**
 - Part006 visual fidelity — **30/30 verified; 0 needs-review**
 - Part006 unresolved status exceptions — **0**
-- Part006 documentation synchronization — **NOT STARTED / NEXT GATE**
+- Part006 documentation synchronization — **PASS / COMPLETE**
+- Part006 documentation-sync canonical page changes — **0**
+- Part006 unresolved documentation blockers — **0**
+- Part006 Tamil archival-ready checkpoint — **NOT STARTED / NEXT GATE**
 - Part007 canonical leakage — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Perform **Part006 documentation synchronization**.
+Perform **Part006 Tamil archival-ready checkpoint**.
 
-Reconcile the complete documentation/control surface to the verified **30/30** state, create `PART_006_DOCUMENTATION_SYNC.md`, make **0 canonical page changes**, and stop before the Tamil archival-ready checkpoint.
+The page map is synchronized to **30/30 verified** Part006 records. Do not change canonical Tamil/body files or begin Part007 transcription.

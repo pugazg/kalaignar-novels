@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 1 IN PROGRESS.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **151–180**;
@@ -24,7 +24,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 ## Boundary state
 
 - incoming split boundary: **150→151 — GENUINE CONTINUATION / AUDITED**;
-- outgoing split boundary: **180→181 — source available; classification pending direct audit**;
+- outgoing split boundary: **180→181 — GENUINE CONTINUATION / AUDITED**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
 
@@ -42,11 +42,10 @@ The canonical `scan_page` remains the overall scan number **151–180**.
 
 ## Current gate
 
-Part006 Pass 1 is **COMPLETE / PASS — 30/30 TEXT-COMPLETE**.
+Part006 Tamil verification/control chain is synchronized through documentation:
 
-- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - canonical Part006 page records — **30/30 — scans151–180**
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
 - Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
@@ -54,10 +53,12 @@ Part006 Pass 1 is **COMPLETE / PASS — 30/30 TEXT-COMPLETE**.
 - final metadata/status synchronization — **PASS / CLOSED**
 - Tamil textual status — **30/30 verified; 0 needs-review**
 - visual fidelity — **30/30 verified; 0 needs-review**
-- unresolved status exceptions — **0**
-- documentation synchronization — **NOT STARTED / NEXT GATE**
+- documentation synchronization — **PASS / COMPLETE**
+- documentation-sync canonical page changes — **0**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part007 canonical leakage — **0**
 
 Part001–Part005 remain **FINAL CLOSED / FROZEN**.
 
-Exact next activity: **Part006 documentation synchronization**.
+Exact next activity: **Part006 Tamil archival-ready checkpoint**.

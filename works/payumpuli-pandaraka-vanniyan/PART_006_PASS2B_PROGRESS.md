@@ -105,8 +105,20 @@ Cumulative:
 
 All Part006 page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"` pending Pass 3 and later whole-Part closure gates.
 
+## Post-gate current state
+
+The gate evidence above remains historically authoritative.
+
+Subsequent Part006 gates completed:
+- Pass 3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- documentation synchronization — **PASS / COMPLETE**
+- canonical page mutations caused by documentation sync — **0**
+- Part007 canonical leakage — **0**
+
 ## Exact next activity
 
-Perform **Part006 final metadata/status synchronization** across scans151–180.
-
-Promote only `status` and `visual_fidelity` from `needs-review` to `verified`; do not change Tamil body text, punctuation, structure, provenance, pagination or boundaries.
+Perform **Part006 Tamil archival-ready checkpoint**.

@@ -124,3 +124,20 @@ Perform **Part006 documentation synchronization**.
 That gate must reconcile the complete live documentation/control surface to this verified 30/30 state, create `PART_006_DOCUMENTATION_SYNC.md`, verify a documentation-only change set with **0 canonical page changes**, and advance the next gate only after that reconciliation closes.
 
 Do not begin the Tamil archival-ready checkpoint, assembled Tamil / English work, final Part006 closure or Part007 transcription in this status-sync activity.
+
+## Post-status documentation state
+
+The final metadata/status synchronization above remains historically closed and authoritative.
+
+Part006 subsequently completed:
+- documentation synchronization — **PASS / COMPLETE**;
+- verified page records changed by documentation sync — **0**;
+- canonical Tamil/body mutations caused by documentation sync — **0**;
+- Part007 canonical leakage — **0**.
+
+Durable documentation record:
+- `PART_006_DOCUMENTATION_SYNC.md`.
+
+Current next gate:
+
+**Part006 Tamil archival-ready checkpoint.**

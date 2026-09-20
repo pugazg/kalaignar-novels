@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001–Part005 are **FINAL CLOSED / FROZEN**. Part006 is **ACTIVE / AUTHORIZED — FINAL STATUS SYNC CLOSED / DOCUMENTATION SYNC NEXT**.
+Part001–Part005 are **FINAL CLOSED / FROZEN**. Part006 is **ACTIVE / AUTHORIZED — DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT**.
 
 ## Tamil Part workflow
 
@@ -174,7 +174,7 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part005 release/readiness: PASS / CLOSED**
 - **Part005 release-ready synchronization: PASS / CLOSED**
 - **Part005 final closure: PASS / CLOSED / FROZEN**
-- **Part006: ACTIVE / AUTHORIZED — FINAL STATUS SYNC CLOSED / DOCUMENTATION SYNC NEXT**
+- **Part006: ACTIVE / AUTHORIZED — DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT**
 - **Part006 canonical range: scans151–180**
 - **Part006 canonical page records: 30/30 — scans151–180**
 - **Part006 incoming 150→151: GENUINE CONTINUATION / AUDITED**
@@ -188,11 +188,14 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part006 Tamil textual status: 30/30 verified; 0 needs-review**
 - **Part006 visual fidelity: 30/30 verified; 0 needs-review**
 - **Part006 unresolved status exceptions: 0**
-- **Part006 documentation synchronization: NOT STARTED / NEXT GATE**
+- **Part006 documentation synchronization: PASS / COMPLETE**
+- **Part006 documentation-sync canonical page changes: 0**
+- **Part006 unresolved documentation blockers: 0**
+- **Part006 Tamil archival-ready checkpoint: NOT STARTED / NEXT GATE**
 - **Part007 canonical leakage: 0**
 
 ## Exact next gate
 
-Perform **Part006 documentation synchronization**.
+Perform **Part006 Tamil archival-ready checkpoint**.
 
-Reconcile the complete live documentation/control surface to the final verified **30/30** Part006 state, create `PART_006_DOCUMENTATION_SYNC.md`, verify **0 canonical page changes**, and stop before the Tamil archival-ready checkpoint.
+Audit the closed Tamil/control package only. Make **0 canonical Tamil/body changes** and keep Part007 transcription blocked.

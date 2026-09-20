@@ -32,7 +32,7 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 | canonical numbering | **PASS — global scan_page never resets** |
 | per-Part intake records | **PASS — 16/16** |
 | boundary witnesses available | **PASS** |
-| boundary classifications | **1/15 audited — 30→31 GENUINE CONTINUATION** |
+| boundary classifications | **6/15 audited — through 180→181** |
 
 ## Methodology correction
 
@@ -1295,7 +1295,7 @@ Durable records:
 - `PART_005_DOCUMENTATION_SYNC.md`
 - `PART_005_BOUNDARY_AUDIT_150_151.md`
 
-## Current work frontier
+## Historical frontier at this checkpoint
 
 Part005 Tamil archival-ready — **PASS / CLOSED**.
 
@@ -1318,28 +1318,35 @@ Part005 Tamil archival-ready — **PASS / CLOSED**.
 - scan140→141 split-word provenance — **PASS**
 - durable validation — `PART_005_ASSEMBLED_TAMIL_VALIDATION.md`
 
-## Current work frontier
+## Historical frontier at this checkpoint
 
 Perform **Part005 English translation planning/setup**.
 
 Part001–Part004 remain **FINAL CLOSED / FROZEN**. Use only the closed Part005 canonical and assembled Tamil authority; do not import Part006 body text.
 
 
-## Post-final-closure state
+## Part005 post-final-closure state
 
-Part005 subsequently reached:
+Part005 reached:
 
 **PART005 FINAL CLOSURE — PASS / CLOSED / FROZEN**
 
-Final closure confirms:
-- canonical Tamil body changes — **0**;
-- assembled Tamil body changes — **0**;
-- maintained English body changes — **0**;
-- protected source-variant collapses — **0**;
-- frozen Part001–Part004 body changes — **0**;
-- post-release canonical/assembled/English drift — **0**;
-- Part006 canonical/body leakage — **0**.
+Part006 then became active.
 
-Part006 is now **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+## Current authoritative frontier — Part006
 
-Exact next activity: **Part006 Pass 1 — global scans151–160 / local pages1–10**.
+- canonical Part006 records — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- documentation-sync canonical page changes — **0**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
+- audited split boundaries — **6/15**
+- Part007 canonical leakage — **0**
+- Part007 — **SUPPLIED / REGISTERED / BLOCKED**
+- unresolved documentation blockers — **0**
+
+Exact next activity: **Part006 Tamil archival-ready checkpoint**.

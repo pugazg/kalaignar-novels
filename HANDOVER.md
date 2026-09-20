@@ -267,42 +267,35 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_005_RELEASE_READY_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_005_FINAL_CLOSURE.md`
 
-## Part006 — ACTIVE / FINAL STATUS SYNC CLOSED / DOCUMENTATION SYNC NEXT
+## Part006 — ACTIVE / DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf`
-- global scans — **151–180**
-- local pages — **1–30**
-- canonical Part006 page records — **30/30 — scans151–180**
+- scans — **151–180**
+- canonical records — **30/30**
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 2A cumulative source-text corrections — **5**
-- Pass 2A non-body note corrections — **1**
-- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 2B cumulative — **7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
-- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 3 cumulative — **0 textual corrections; 0 unresolved visual/structural questions**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections; 0 unresolved visual/structural questions**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
 - Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
 - visual fidelity — **30/30 verified; 0 needs-review**
-- unresolved status exceptions — **0**
-- canonical Tamil/body mutations caused by final status sync — **0**
+- documentation synchronization — **PASS / COMPLETE**
+- documentation-sync canonical page changes — **0**
+- unresolved status/documentation exceptions — **0**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part007 canonical leakage — **0**
-- documentation synchronization — **NOT STARTED / NEXT GATE**
+- Tamil archival-ready checkpoint — **NOT STARTED / NEXT GATE**
 
-Durable records:
-- `works/payumpuli-pandaraka-vanniyan/PART_006_PASS1_PROGRESS.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_006_PASS2A_PROGRESS.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_006_PASS2B_PROGRESS.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_006_PASS3_PROGRESS.md`
+Durable current records:
 - `works/payumpuli-pandaraka-vanniyan/PART_006_AUDIT.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_006_FINAL_STATUS_SYNC.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_006_DOCUMENTATION_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_006_BOUNDARY_AUDIT_180_181.md`
 
 ## Exact next activity
 
-Perform **Part006 documentation synchronization**.
+Perform **Part006 Tamil archival-ready checkpoint**.
 
-Reconcile the live documentation/control surface to the verified 30/30 state, create `PART_006_DOCUMENTATION_SYNC.md`, make **0 canonical page changes**, then stop.
+Audit the closed Tamil/control package for archival readiness only. Make **0 canonical Tamil/body changes**, keep Part001–Part005 frozen, keep Part007 transcription blocked, and do not begin assembled Tamil or English work in the same activity.

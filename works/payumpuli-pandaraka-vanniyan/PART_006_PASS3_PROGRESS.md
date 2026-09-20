@@ -128,19 +128,21 @@ At Pass-3 closure all pages deliberately remain `status: "needs-review"` / `visu
 
 No Pass-3 blocker remains for the **Part audit** gate.
 
-## Post-Pass3 audit state
+## Post-Pass3 current state
 
 - Part audit — **PASS / COMPLETE**
-- canonical/body mutations caused by Part audit — **0**
-- status promotions caused by Part audit — **0**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- documentation synchronization — **PASS / COMPLETE**
+- documentation-sync canonical page changes — **0**
 - Part007 canonical leakage — **0**
-- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
 
-Durable audit record:
+Durable records:
 - `PART_006_AUDIT.md`
+- `PART_006_FINAL_STATUS_SYNC.md`
+- `PART_006_DOCUMENTATION_SYNC.md`
 
 ## Exact next activity
 
-Perform **Part006 documentation synchronization**.
-
-Reconcile documentation/control state to the verified **30/30** page state, create `PART_006_DOCUMENTATION_SYNC.md`, and make **0 canonical page changes**.
+Perform **Part006 Tamil archival-ready checkpoint**.

@@ -150,11 +150,18 @@ For every `N→N+1` boundary:
 - release-sync protected source-variant collapses — **0**
 - Part006 leakage — **0**
 - final closure — **PASS / CLOSED / FROZEN**
-- Part006 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
-- Part006 canonical page records — **0**
+- Part006 — **ACTIVE / AUTHORIZED — DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT**
+- Part006 canonical page records — **30/30 verified**
+- Part006 visual fidelity — **30/30 verified**
+- Part006 Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part006 Part audit — **PASS / COMPLETE**
+- Part006 final metadata/status synchronization — **PASS / CLOSED**
+- Part006 documentation synchronization — **PASS / COMPLETE**
+- Part006 documentation-sync canonical page changes — **0**
 - Part006 incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
-- Part006 outgoing 180→181 — **PENDING direct audit**
-- split-boundary classifications — **5 / 15 audited**
+- Part006 outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
+- Part007 canonical leakage — **0**
+- split-boundary classifications — **6 / 15 audited**
 
 Audited boundaries:
 - **30→31 — GENUINE CONTINUATION**
@@ -162,11 +169,13 @@ Audited boundaries:
 - **90→91 — GENUINE CONTINUATION**
 - **120→121 — GENUINE CONTINUATION**
 - **150→151 — GENUINE CONTINUATION**
+- **180→181 — GENUINE CONTINUATION**
 
 Durable boundary records:
 - `PART_003_BOUNDARY_AUDIT_90_91.md`
 - `PART_004_BOUNDARY_AUDIT_120_121.md`
 - `PART_005_BOUNDARY_AUDIT_150_151.md`
+- `PART_006_BOUNDARY_AUDIT_180_181.md`
 
 ## Batch-size policy
 
@@ -174,6 +183,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part006 Pass 1 — global scans151–160 / local pages1–10.**
+**Part006 Tamil archival-ready checkpoint.**
 
-Part001–Part005 remain frozen. Preserve incoming **150→151 GENUINE CONTINUATION / AUDITED** and keep outgoing **180→181** pending direct audit.
+Part001–Part005 remain frozen. Part007 remains supplied / registered / blocked until Part006 completes its maintained workflow and final closure.

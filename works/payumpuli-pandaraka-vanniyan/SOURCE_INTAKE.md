@@ -168,8 +168,23 @@ Authoritative Part004 verification records:
 - Part006 canonical records at closure — **0**
 - Part006 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
 
+## Part006 current state
+
+- Part006 canonical page records — **30/30 verified — scans151–180**
+- Part006 visual fidelity — **30/30 verified**
+- Part006 Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part006 Part audit — **PASS / COMPLETE**
+- Part006 final metadata/status synchronization — **PASS / CLOSED**
+- Part006 documentation synchronization — **PASS / COMPLETE**
+- Part006 canonical page mutations caused by documentation sync — **0**
+- Part006 incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- Part006 outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
+- audited split boundaries — **6/15**
+- Part007 canonical leakage — **0**
+- Part007 — **SUPPLIED / REGISTERED / BLOCKED**
+
 ## Exact next activity
 
-Begin **Part006 Pass 1 — global scans151–160 / local pages1–10**.
+Perform **Part006 Tamil archival-ready checkpoint**.
 
-Preserve the already-audited incoming **150→151 GENUINE CONTINUATION** boundary. Create only Part006 canonical records with exact Part006 provenance. Keep outgoing **180→181** pending until directly audited. Do not begin Part006 Pass 2A until Pass 1 covers the full Part.
+Do not begin Part007 transcription or create Part007 canonical records.

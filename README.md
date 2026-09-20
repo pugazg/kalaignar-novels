@@ -8,15 +8,18 @@
 - source family: **TVA_BOK_0065744**
 - complete physical extent: **477 scans**
 - working source: **16 split PDFs — all supplied / registered**
-- Part001 / scans1–30 — **FINAL CLOSURE PASS / CLOSED / FROZEN**
-- Part002 / scans31–60 — **ACTIVE**
-- Part002 canonical records — **30/30**
-- Part002 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Part002 Pass 2A — **IN PROGRESS — 10/30 REVIEWED**
-- boundaries: **30→31 GENUINE CONTINUATION / AUDITED; 60→61 CLEAN / AUDITED**
-- Part003 — **REGISTERED / NOT ACTIVE**
+- Part001–Part005 — **FINAL CLOSED / FROZEN**
+- Part006 / scans151–180 — **ACTIVE**
+- Part006 canonical records — **30/30 VERIFIED**
+- Part006 visual fidelity — **30/30 VERIFIED**
+- Part006 Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part006 Part audit — **PASS / COMPLETE**
+- Part006 final metadata/status synchronization — **PASS / CLOSED**
+- Part006 documentation synchronization — **PASS / COMPLETE**
+- boundaries — **150→151 GENUINE CONTINUATION / AUDITED; 180→181 GENUINE CONTINUATION / AUDITED**
+- Part007 — **SUPPLIED / REGISTERED / BLOCKED; canonical records 0**
 
-Exact next action: **Part002 Pass 2A for scans41–50 / local11–20.**
+Exact next action: **Part006 Tamil archival-ready checkpoint.**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 
