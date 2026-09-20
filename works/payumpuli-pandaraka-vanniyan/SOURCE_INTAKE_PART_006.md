@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / ENGLISH PLANNING COMPLETE / E27 NEXT.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / E27–E33 SOURCE-CHECKED / GLOSSARY RECONCILIATION NEXT.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **151–180**;
@@ -42,22 +42,22 @@ The canonical `scan_page` remains the overall scan number **151–180**.
 
 ## Current gate
 
-Part006 Tamil source workflow is closed through assembly and English planning/setup is complete:
+Part006 Tamil source workflow is closed through assembly and all planned English batches are source-checked:
 
 - canonical records — **30/30 verified**
 - visual fidelity — **30/30 verified**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
 - English translation planning/setup — **COMPLETE / PASS**
-- planned English batches — **E27–E33 / 7**
-- translated/source-checked English files — **0/7**
-- unresolved English planning holds — **0**
-- planning canonical/assembled Tamil changes — **0**
+- E27–E33 — **7/7 SOURCE-CHECKED / COMPLETE**
+- scans151–180 English coverage — **COMPLETE**
+- unresolved English source-check holds — **0**
+- canonical/assembled Tamil changes caused by English batches — **0**
 - frozen Part001–Part005 English body changes — **0**
-- Part007 content leakage — **0**
+- Part007 leakage — **0**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 
 Part001–Part005 remain **FINAL CLOSED / FROZEN**. Part007 remains **SUPPLIED / REGISTERED / BLOCKED**.
 
-Exact next activity: **Part006 E27 draft + source-check — scans151–153**.
+Exact next activity: **Part006 whole-Part English glossary reconciliation**.

@@ -2,19 +2,19 @@
 
 ## Overall state
 
-**PLANNING/SETUP — COMPLETE / PASS — E27 NEXT**
+**E27–E33 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 Part001–Part005 English remain **FINAL CLOSED / FROZEN**.
 
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
-| **E27** | section30 — `குருவியும் - குயிலும்!` continuation | 151–153 | **NOT STARTED / NEXT** |
-| **E28** | section31 — `நள்ளிரவு நாடகம்!` | 154–158 | **NOT STARTED** |
-| **E29** | section32 — `நட்பின் இலக்கணம்!` | 159–162 | **NOT STARTED** |
-| **E30** | section33 — `வீரனல்ல, வீராங்கனை!` | 163–166 | **NOT STARTED** |
-| **E31** | section34 — `பேய் மகள் பியசிலி!` | 167–171 | **NOT STARTED** |
-| **E32** | section35 — `நடந்ததை விளக்கிய நச்சு நாக்கு!` | 172–178 | **NOT STARTED** |
-| **E33** | section36 — `நார்த்தும் நயவஞ்சகமும்!` | 179–180 | **NOT STARTED** |
+| **E27** | section30 — `குருவியும் - குயிலும்!` continuation | 151–153 | **SOURCE-CHECKED / COMPLETE** |
+| **E28** | section31 — `நள்ளிரவு நாடகம்!` | 154–158 | **SOURCE-CHECKED / COMPLETE** |
+| **E29** | section32 — `நட்பின் இலக்கணம்!` | 159–162 | **SOURCE-CHECKED / COMPLETE** |
+| **E30** | section33 — `வீரனல்ல, வீராங்கனை!` | 163–166 | **SOURCE-CHECKED / COMPLETE** |
+| **E31** | section34 — `பேய் மகள் பியசிலி!` | 167–171 | **SOURCE-CHECKED / COMPLETE** |
+| **E32** | section35 — `நடந்ததை விளக்கிய நச்சு நாக்கு!` | 172–178 | **SOURCE-CHECKED / COMPLETE** |
+| **E33** | section36 — `நார்த்தும் நயவஞ்சகமும்!` | 179–180 | **SOURCE-CHECKED / COMPLETE** |
 | Glossary | Part006 whole-Part reconciliation | 151–180 | **NOT STARTED** |
 | Editorial | Part006 whole-Part English editorial review | 151–180 | **NOT STARTED** |
 | Bilingual | Part006 whole-Part bilingual review | 151–180 | **NOT STARTED** |
@@ -29,8 +29,8 @@ Part001–Part005 English remain **FINAL CLOSED / FROZEN**.
 - Tamil archival-ready — **PASS / CLOSED**
 - Tamil assembled files — **7/7 VERIFIED**
 - Part006 English planned files — **7**
-- Part006 English translated files — **0/7**
-- Part006 English source-checked files — **0/7**
+- Part006 English translated files — **7/7**
+- Part006 English source-checked files — **7/7**
 - unresolved English planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -88,6 +88,22 @@ Created:
 
 No Part006 English literary prose is drafted in this planning gate.
 
+## E27–E33 closure
+
+- E27 — **SOURCE-CHECKED / COMPLETE — scans151–153**
+- E28 — **SOURCE-CHECKED / COMPLETE — scans154–158**
+- E29 — **SOURCE-CHECKED / COMPLETE — scans159–162**
+- E30 — **SOURCE-CHECKED / COMPLETE — scans163–166**
+- E31 — **SOURCE-CHECKED / COMPLETE — scans167–171**
+- E32 — **SOURCE-CHECKED / COMPLETE — scans172–178**
+- E33 — **SOURCE-CHECKED / COMPLETE — scans179–180**
+- translated/source-checked files — **7/7**
+- scans151–180 — **fully covered**
+- unresolved English source-check holds — **0**
+- canonical / assembled Tamil edits — **0**
+- frozen Part001–Part005 English body edits — **0**
+- Part007 leakage — **0**
+
 ## Exact next activity
 
-**E27 — draft + source-check — scans151–153.**
+**Part006 whole-Part English glossary reconciliation.**

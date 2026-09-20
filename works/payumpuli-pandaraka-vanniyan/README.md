@@ -306,38 +306,35 @@ Durable Part005 records now include:
 - `PART_005_RELEASE_READY_SYNC.md`
 - `PART_005_FINAL_CLOSURE.md`
 
-## Part006 — ACTIVE / ENGLISH PLANNING COMPLETE / E27 NEXT
+## Part006 — ACTIVE / E27–E33 SOURCE-CHECKED / GLOSSARY RECONCILIATION NEXT
 
 - canonical scans — **151–180 / 30 pages**
 - canonical Tamil — **30/30 verified**
 - visual fidelity — **30/30 verified**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
-- assembled canonical coverage — **30/30**
-- assembled omissions / duplicates — **0 / 0**
 - English translation planning/setup — **COMPLETE / PASS**
 - planned English batches — **E27–E33 / 7**
-- translated English files — **0/7**
-- source-checked English files — **0/7**
-- unresolved English planning holds — **0**
-- planning canonical Tamil edits — **0**
-- planning assembled Tamil edits — **0**
-- frozen Part001–Part005 English body edits — **0**
+- translated/source-checked English files — **7/7**
+- scans151–180 English coverage — **COMPLETE**
+- unresolved English source-check holds — **0**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- scan156 illustrated-spread handling — **PRESERVED / no invented caption**
+- scan174 illustration-only handling — **PRESERVED / no invented literary body**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
-- Part007 content leakage — **0**
+- canonical Tamil edits caused by English batches — **0**
+- assembled Tamil edits caused by English batches — **0**
+- frozen Part001–Part005 English body edits — **0**
+- Part007 leakage — **0**
 - Part007 canonical records — **0 / BLOCKED**
+- English glossary reconciliation — **NOT STARTED / NEXT**
 
-Durable current records:
-- `works/payumpuli-pandaraka-vanniyan/PART_006_TAMIL_ARCHIVAL_READY.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_006_BOUNDARY_AUDIT_180_181.md`
+Durable current English controls:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_006_TRANSLATION_PLAN.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_006_GLOSSARY.md`
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_006_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/E27_SOURCE_CHECK.md` through `E33_SOURCE_CHECK.md`
 
 ## Exact next activity
 
-Perform **E27 draft + source-check — scans151–153**.
-
-Translate only `sections/30-kuruviyum-kuyilum-part006.md`, create the maintained English section plus `E27_SOURCE_CHECK.md`, preserve the incoming 150→151 boundary as provenance without importing frozen Part005 English, make no Tamil/assembled/prior-English changes, keep Part007 blocked, then stop before E28.
+Perform **Part006 whole-Part English glossary reconciliation** across all seven maintained English files / scans151–180. Keep Tamil and frozen prior-Part English unchanged, preserve both audited boundaries and the scan156/scan174 structural locks, keep Part007 blocked, then stop before editorial review.

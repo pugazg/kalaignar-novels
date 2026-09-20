@@ -610,7 +610,9 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part006 assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
 - Part006 English translation planning/setup — **COMPLETE / PASS**
 - Part006 planned English batches — **E27–E33 / 7**
-- Part006 translated/source-checked English files — **0/7**
+- Part006 translated/source-checked English files — **7/7**
+- Part006 E27–E33 — **SOURCE-CHECKED / COMPLETE**
+- Part006 unresolved English source-check holds — **0**
 - Part006 unresolved English planning holds — **0**
 - Part006 assembled canonical coverage — **30/30; omissions / duplicates 0 / 0**
 - Part006 canonical page mutations caused by assembly — **0**
@@ -622,6 +624,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Perform **Part006 E27 draft + source-check — scans151–153**.
+Perform **Part006 whole-Part English glossary reconciliation**.
 
-Canonical page-map authority remains unchanged at **30/30 verified** for Part006. English planning is derived only; do not mutate canonical/assembled Tamil or import Part005/Part007 body across audited boundaries.
+Canonical page-map authority remains unchanged at **30/30 verified** for Part006. The maintained English layer now covers scans151–180 at **7/7 SOURCE-CHECKED / COMPLETE**; do not mutate canonical/assembled Tamil or import Part005/Part007 body across audited boundaries.

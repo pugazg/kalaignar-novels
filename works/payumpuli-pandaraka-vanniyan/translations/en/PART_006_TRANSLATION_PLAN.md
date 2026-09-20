@@ -1,6 +1,6 @@
 # Part 006 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING/SETUP — COMPLETE / PASS — E27 NEXT**
+Status: **E27–E33 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 This is the control plan for the project-created English translation of **Part006 only**.
 
@@ -161,13 +161,25 @@ After E33:
 - planned batches — **E27–E33 / 7**
 - planned maintained English files — **7**
 - translated files at planning closure — **0/7**
+- translated files after E33 — **7/7**
 - source-checked files at planning closure — **0/7**
+- source-checked files after E33 — **7/7**
 - unresolved planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
 - frozen Part001–Part005 English body edits — **0**
 - Part007 leakage — **0**
 
+## Post-planning English batch state
+
+E27–E33 subsequently completed:
+- translated/source-checked files — **7/7**
+- scans151–180 — **fully covered**
+- unresolved English source-check holds — **0**
+- canonical/assembled Tamil edits — **0**
+- frozen Part001–Part005 English body edits — **0**
+- Part007 leakage — **0**
+
 ## Exact next gate
 
-**E27 — draft + source-check — scans151–153.**
+**Part006 whole-Part English glossary reconciliation.**

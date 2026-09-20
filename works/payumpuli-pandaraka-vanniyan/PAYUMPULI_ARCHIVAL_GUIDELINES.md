@@ -174,7 +174,7 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part005 release/readiness: PASS / CLOSED**
 - **Part005 release-ready synchronization: PASS / CLOSED**
 - **Part005 final closure: PASS / CLOSED / FROZEN**
-- **Part006: ACTIVE / AUTHORIZED — ENGLISH PLANNING COMPLETE / E27 NEXT**
+- **Part006: ACTIVE / AUTHORIZED — E27–E33 SOURCE-CHECKED / GLOSSARY RECONCILIATION NEXT**
 - **Part006 canonical range: scans151–180**
 - **Part006 canonical page records: 30/30 — scans151–180**
 - **Part006 incoming 150→151: GENUINE CONTINUATION / AUDITED**
@@ -197,7 +197,11 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part006 assembled Tamil: PASS / CLOSED — 7/7 VERIFIED**
 - **Part006 English translation planning/setup: COMPLETE / PASS**
 - **Part006 planned English batches: E27–E33 / 7**
-- **Part006 translated/source-checked English files: 0/7**
+- **Part006 translated/source-checked English files: 7/7**
+- **Part006 E27–E33: SOURCE-CHECKED / COMPLETE**
+- **Part006 unresolved English source-check holds: 0**
+- **Part006 English-batch canonical/assembled Tamil changes: 0**
+- **Part006 frozen Part001–Part005 English body changes caused by English batches: 0**
 - **Part006 unresolved English planning holds: 0**
 - **Part006 planning canonical/assembled Tamil changes: 0**
 - **Part006 frozen Part001–Part005 English body changes caused by planning: 0**
@@ -209,6 +213,6 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 
 ## Exact next gate
 
-Perform **Part006 E27 draft + source-check — scans151–153**.
+Perform **Part006 whole-Part English glossary reconciliation** across the seven source-checked English files / scans151–180.
 
-Use the verified Part006 canonical/assembled Tamil authority and `translations/en/PART_006_GLOSSARY.md`. Do not import frozen Part005 English across 150→151, do not mutate Tamil, and do not begin E28 in the same activity.
+Preserve Tamil, frozen Part001–Part005 English, both audited boundaries, scan156/scan174 structural handling, and Part007 leakage = 0. Do not begin editorial review in the same activity.

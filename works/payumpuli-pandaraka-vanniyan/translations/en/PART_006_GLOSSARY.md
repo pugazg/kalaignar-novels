@@ -1,6 +1,6 @@
 # Part 006 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING LOCK / ACTIVE — E27 NEXT**
+Status: **E27–E33 SOURCE-CHECKED / ACTIVE — WHOLE-PART RECONCILIATION NEXT**
 
 This glossary is derived only from verified Part006 Tamil plus frozen earlier project-English choices where the **same Tamil source form** recurs.
 

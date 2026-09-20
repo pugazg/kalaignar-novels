@@ -673,7 +673,7 @@ Durable record:
 Durable final record:
 - `../../PART_005_FINAL_CLOSURE.md`
 
-Part006 is now **ACTIVE / ENGLISH PLANNING COMPLETE / E27 NEXT**.
+Part006 is now **ACTIVE / E27–E33 SOURCE-CHECKED / GLOSSARY RECONCILIATION NEXT**.
 
 ## Part006 — ACTIVE ENGLISH WORKFLOW
 
@@ -690,7 +690,9 @@ Part006 Tamil prerequisites are closed:
 - outgoing boundary — **180→181 GENUINE CONTINUATION / AUDITED**
 - Part007 Tamil/English content imported — **0**
 
-Part006 English planning/setup is now **COMPLETE / PASS**.
+Part006 English planning/setup is **COMPLETE / PASS**.
+
+Part006 E27–E33 drafting/source-check is now **7/7 SOURCE-CHECKED / COMPLETE**.
 
 Active Part006 English controls:
 - `PART_006_TRANSLATION_PLAN.md`
@@ -719,8 +721,17 @@ Outgoing:
 - E33 stops at scan180's open quotation;
 - Part007 scan181 is witness only and is not translated/imported.
 
+## Part006 English batch closure
+
+- E27–E33 — **SOURCE-CHECKED / COMPLETE**
+- maintained Part006 English files — **7/7**
+- scans151–180 — **fully covered**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001–Part005 English body edits — **0**
+- Part007 leakage — **0**
+
 ## Current exact next activity
 
-Perform **E27 — draft + source-check — scans151–153**.
-
-Create `sections/30-the-sparrow-and-the-cuckoo-part006.md` and `E27_SOURCE_CHECK.md`. Do not begin E28 until E27 is source-checked and complete.
+Perform **Part006 whole-Part English glossary reconciliation**.
