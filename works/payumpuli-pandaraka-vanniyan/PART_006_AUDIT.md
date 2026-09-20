@@ -248,3 +248,26 @@ Durable archival-ready record:
 Current next gate:
 
 **Part006 assembled Tamil construction + audit.**
+
+## Post-archival assembled-Tamil state
+
+Part006 subsequently completed:
+
+**PART006 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED**
+
+- assembled files — **7/7 VERIFIED**;
+- represented scans — **151–180 / 30 physical scans**;
+- canonical source-transcription coverage — **30/30**;
+- omissions / duplicates — **0 / 0**;
+- unsupported Tamil body insertion — **0**;
+- audit-note leakage — **0**;
+- canonical Part006 page mutations caused by assembly — **0**;
+- frozen Part001–Part005 assembled-file mutations — **0**;
+- Part007 body leakage — **0**.
+
+Durable validation:
+- `PART_006_ASSEMBLED_TAMIL_VALIDATION.md`.
+
+Current next gate:
+
+**Part006 English translation planning/setup.**

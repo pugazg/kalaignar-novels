@@ -18,10 +18,14 @@
 - Part006 documentation synchronization — **PASS / COMPLETE**
 - Part006 Tamil archival-ready — **PASS / CLOSED**
 - Part006 archival-ready canonical/page-status changes — **0**
+- Part006 assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
+- Part006 assembled canonical coverage — **30/30; omissions / duplicates 0 / 0**
+- Part006 canonical page mutations caused by assembly — **0**
+- Part007 body leakage — **0**
 - boundaries — **150→151 GENUINE CONTINUATION / AUDITED; 180→181 GENUINE CONTINUATION / AUDITED**
 - Part007 — **SUPPLIED / REGISTERED / BLOCKED; canonical records 0**
 
-Exact next action: **Part006 assembled Tamil construction + audit.**
+Exact next action: **Part006 English translation planning/setup.**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 

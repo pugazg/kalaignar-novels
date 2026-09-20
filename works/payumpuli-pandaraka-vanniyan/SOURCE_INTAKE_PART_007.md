@@ -45,3 +45,13 @@ The canonical `scan_page` remains the overall scan number **181–210**.
 Part 007 source split: **SUPPLIED / REGISTERED / BLOCKED**.
 
 Incoming 180→181 is **GENUINE CONTINUATION / AUDITED**, but scan181 remains a boundary witness only. Part007 canonical page records remain **0**. Do not create page records here until Part006 completes its maintained workflow and final closure.
+
+## Upstream Part006 progress
+
+Part006 has now completed:
+- Tamil archival-ready — **PASS / CLOSED**;
+- assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**;
+- canonical Part006 page mutations caused by assembly — **0**;
+- Part007 body leakage — **0**.
+
+Part007 nevertheless remains **SUPPLIED / REGISTERED / BLOCKED** until Part006 completes its maintained English/release/final-closure workflow. Canonical Part007 records remain **0**.

@@ -174,7 +174,7 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part005 release/readiness: PASS / CLOSED**
 - **Part005 release-ready synchronization: PASS / CLOSED**
 - **Part005 final closure: PASS / CLOSED / FROZEN**
-- **Part006: ACTIVE / AUTHORIZED — TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL NEXT**
+- **Part006: ACTIVE / AUTHORIZED — ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT**
 - **Part006 canonical range: scans151–180**
 - **Part006 canonical page records: 30/30 — scans151–180**
 - **Part006 incoming 150→151: GENUINE CONTINUATION / AUDITED**
@@ -194,11 +194,15 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part006 Tamil archival-ready checkpoint: PASS / CLOSED**
 - **Part006 archival-ready canonical Tamil/body changes: 0**
 - **Part006 archival-ready page-status changes: 0**
-- **Part006 assembled Tamil: NOT STARTED / NEXT GATE**
+- **Part006 assembled Tamil: PASS / CLOSED — 7/7 VERIFIED**
+- **Part006 assembled canonical coverage: 30/30; omissions / duplicates: 0 / 0**
+- **Part006 canonical page mutations caused by assembly: 0**
+- **Part006 frozen Part001–Part005 assembled-file mutations: 0**
+- **Part006 Part007 body leakage: 0**
 - **Part007 canonical leakage: 0**
 
 ## Exact next gate
 
-Perform **Part006 assembled Tamil construction + audit**.
+Perform **Part006 English translation planning/setup**.
 
-Use only verified Part006 canonical pages as textual authority. Keep canonical Tamil/status metadata unchanged, keep Parts001–Part005 frozen, preserve both audited boundaries without adjacent-Part body import, and keep Part007 transcription blocked.
+Create only the Part006 English translation plan, glossary and progress controls using the closed canonical/assembled Tamil authority. Do not draft English prose in that setup gate. Keep Parts001–Part005 frozen and Part007 blocked.

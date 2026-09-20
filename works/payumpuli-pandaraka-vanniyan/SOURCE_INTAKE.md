@@ -178,6 +178,11 @@ Authoritative Part004 verification records:
 - Part006 documentation synchronization — **PASS / COMPLETE**
 - Part006 Tamil archival-ready — **PASS / CLOSED**
 - Part006 archival-ready canonical/page-status changes — **0**
+- Part006 assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
+- Part006 assembled canonical coverage — **30/30; omissions / duplicates 0 / 0**
+- Part006 canonical page mutations caused by assembly — **0**
+- frozen Part001–Part005 assembled-file mutations caused by assembly — **0**
+- Part007 body leakage — **0**
 - Part006 incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - Part006 outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part007 canonical leakage — **0**
@@ -185,6 +190,6 @@ Authoritative Part004 verification records:
 
 ## Exact next activity
 
-Perform **Part006 assembled Tamil construction + audit**.
+Perform **Part006 English translation planning/setup**.
 
-Do not mutate canonical Part006 pages and do not begin Part007 transcription.
+Create only the Part006 English planning/glossary/progress controls. Do not draft English prose in that gate. Part007 remains blocked.

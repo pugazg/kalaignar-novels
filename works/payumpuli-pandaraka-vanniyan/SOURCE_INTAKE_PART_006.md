@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT.**
+**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **151–180**;
@@ -42,21 +42,20 @@ The canonical `scan_page` remains the overall scan number **151–180**.
 
 ## Current gate
 
-Part006 canonical Tamil workflow is **TAMIL ARCHIVAL-READY — PASS / CLOSED**.
+Part006 Tamil source workflow is closed through assembly:
 
 - canonical records — **30/30 verified**
 - visual fidelity — **30/30 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
-- archival-ready canonical Tamil/body changes — **0**
-- archival-ready page-status changes — **0**
+- assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
+- assembled canonical coverage — **30/30**
+- omissions / duplicates — **0 / 0**
+- canonical page mutations caused by assembly — **0**
+- frozen Part001–Part005 assembled-file mutations — **0**
+- Part007 body leakage — **0**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
-- Part007 canonical leakage — **0**
 
-Part001–Part005 remain **FINAL CLOSED / FROZEN**.
+Part001–Part005 remain **FINAL CLOSED / FROZEN**. Part007 remains **SUPPLIED / REGISTERED / BLOCKED**.
 
-Exact next activity: **Part006 assembled Tamil construction + audit**.
+Exact next activity: **Part006 English translation planning/setup**.

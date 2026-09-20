@@ -1344,7 +1344,11 @@ Part006 then became active.
 - documentation-sync canonical page changes — **0**
 - Tamil archival-ready — **PASS / CLOSED**
 - archival-ready canonical/page-status changes — **0**
-- assembled Tamil — **NOT STARTED / NEXT GATE**
+- assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
+- assembled canonical coverage — **30/30; omissions / duplicates 0 / 0**
+- canonical page mutations caused by assembly — **0**
+- frozen Part001–Part005 assembled-file mutations — **0**
+- Part007 body leakage — **0**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - audited split boundaries — **6/15**
@@ -1352,4 +1356,4 @@ Part006 then became active.
 - Part007 — **SUPPLIED / REGISTERED / BLOCKED**
 - unresolved documentation blockers — **0**
 
-Exact next activity: **Part006 assembled Tamil construction + audit**.
+Exact next activity: **Part006 English translation planning/setup**.

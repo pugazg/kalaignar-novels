@@ -607,13 +607,17 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part006 unresolved documentation blockers — **0**
 - Part006 Tamil archival-ready checkpoint — **PASS / CLOSED**
 - Part006 archival-ready canonical/page-status changes — **0**
-- Part006 assembled Tamil — **NOT STARTED / NEXT GATE**
+- Part006 assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
+- Part006 assembled canonical coverage — **30/30; omissions / duplicates 0 / 0**
+- Part006 canonical page mutations caused by assembly — **0**
+- frozen Part001–Part005 assembled-file mutations caused by assembly — **0**
+- Part007 body leakage from assembly — **0**
 - Part007 canonical leakage — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Perform **Part006 assembled Tamil construction + audit**.
+Perform **Part006 English translation planning/setup**.
 
-The canonical page map remains **30/30 verified** for Part006. Assembly is derived only; do not mutate canonical pages or create Part007 canonical records.
+Canonical page-map authority remains unchanged at **30/30 verified** for Part006. Use the closed 7/7 assembled Tamil layer only as the derived reading source for English planning; do not mutate canonical or assembled Tamil.

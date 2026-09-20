@@ -62,6 +62,13 @@ Part001 section files `00-*.md` through `07-*.md` are frozen.
 | 27 | 005 | `27-manamillaa-manam.md` | 140–145 | `மனமில்லா மணம்!` | **VERIFIED** |
 | 28 | 005 | `28-sathi-valai.md` | 146–149 | `சதி வலை!` | **VERIFIED** |
 | 29 | 005 | `29-kuruviyum-kuyilum.md` | 150 | `குருவியும் - குயிலும்!` | **VERIFIED** |
+| 30 | 006 | `30-kuruviyum-kuyilum-part006.md` | 151–153 | chapter21 continuation `குருவியும் - குயிலும்!` | **VERIFIED** |
+| 31 | 006 | `31-nalliravu-naadakam.md` | 154–158 | `நள்ளிரவு நாடகம்!` | **VERIFIED** |
+| 32 | 006 | `32-natpin-ilakkanam.md` | 159–162 | `நட்பின் இலக்கணம்!` | **VERIFIED** |
+| 33 | 006 | `33-veeranalla-veeranganai.md` | 163–166 | `வீரனல்ல, வீராங்கனை!` | **VERIFIED** |
+| 34 | 006 | `34-pey-magal-piyasili.md` | 167–171 | `பேய் மகள் பியசிலி!` | **VERIFIED** |
+| 35 | 006 | `35-nadanthathai-vilakkiya-nachu-naakku.md` | 172–178 | `நடந்ததை விளக்கிய நச்சு நாக்கு!`; scan174 illustration-only provenance | **VERIFIED** |
+| 36 | 006 | `36-narthum-nayavanjagamum.md` | 179–180 | `நார்த்தும் நயவஞ்சகமும்!`; Part007 continuation withheld | **VERIFIED** |
 
 ### Part003 — PASS / CLOSED
 
@@ -190,23 +197,31 @@ Part005:
 - Part001–Part004 assembled files — **FROZEN / UNCHANGED**
 - English translation planning/setup — **NOT STARTED / NEXT GATE**
 
+## Historical Part005 handoff
+
+At Part005 assembly closure, the next activity was **Part005 English translation planning/setup**. That workflow is now closed/frozen.
+
+## Part006 — PASS / CLOSED
+
+- physical coverage — **scans151–180**
+- canonical pages represented — **30/30**
+- assembled files — **7/7 VERIFIED**
+- omitted / duplicated canonical pages — **0 / 0**
+- unsupported body insertion — **0**
+- audit-note leakage — **0**
+- canonical Part006 page mutations caused by assembly — **0**
+- frozen Part001–Part005 assembled-file mutations — **0**
+- Part007 body leakage — **0**
+- scan156 verified Tamil body retained — **PASS**
+- scan174 illustration-only matter represented as provenance only — **PASS**
+- incoming 150→151 boundary provenance without Part005 body import — **PASS**
+- outgoing 180→181 boundary provenance without Part007 body import — **PASS**
+- validation — `../PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Part006 Tamil archival-ready remains **PASS / CLOSED**.
+
 ## Exact next activity
 
-Perform **Part005 English translation planning/setup**.
+Perform **Part006 English translation planning/setup**.
 
-Use verified Part005 canonical Tamil plus the closed 7/7 assembled Tamil reading layer. Do not modify canonical or assembled Tamil, frozen Part001–Part004 English, or import Part006 body text.
-
-## Part006 assembly authorization
-
-Part006 canonical Tamil is now **TAMIL ARCHIVAL-READY — PASS / CLOSED**.
-
-- canonical scans — **151–180 / 30 pages**
-- Tamil textual status — **30/30 verified**
-- visual fidelity — **30/30 verified**
-- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
-- Part007 canonical leakage — **0**
-
-Exact next activity: **Part006 assembled Tamil construction + audit**.
-
-Construct the Part006 readable layer only from verified canonical `pages/` source-transcription blocks. Keep all existing Part001–Part005 assembled files frozen. Preserve scan156 body, treat scan174 as illustration-only provenance, and do not import Part005 or Part007 body merely to complete boundary-spanning text.
+Use verified Part006 canonical Tamil plus the closed 7/7 assembled Tamil reading layer. Create planning/glossary/progress controls only; do not draft English prose in the setup gate.

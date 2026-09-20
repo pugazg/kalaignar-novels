@@ -267,33 +267,31 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_005_RELEASE_READY_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_005_FINAL_CLOSURE.md`
 
-## Part006 — ACTIVE / TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL NEXT
+## Part006 — ACTIVE / ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT
 
-- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_006_pages_151-180.pdf`
-- scans — **151–180**
-- canonical records — **30/30 verified**
+- canonical scans — **151–180 / 30 pages**
+- canonical Tamil — **30/30 verified**
 - visual fidelity — **30/30 verified**
-- Pass 1 / Pass 2A / Pass 2B / Pass 3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
-- archival-ready canonical Tamil/body changes — **0**
-- archival-ready page-status changes — **0**
+- assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
+- assembled canonical coverage — **30/30**
+- assembled omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit-note leakage — **0**
+- canonical Part006 page mutations caused by assembly — **0**
+- frozen Part001–Part005 assembled-file mutations — **0**
+- Part007 body leakage — **0**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
-- Part007 canonical leakage — **0**
-- assembled Tamil — **NOT STARTED / NEXT GATE**
+- Part007 canonical records — **0 / BLOCKED**
 
 Durable current records:
-- `works/payumpuli-pandaraka-vanniyan/PART_006_AUDIT.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_006_FINAL_STATUS_SYNC.md`
-- `works/payumpuli-pandaraka-vanniyan/PART_006_DOCUMENTATION_SYNC.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_006_TAMIL_ARCHIVAL_READY.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_006_BOUNDARY_AUDIT_180_181.md`
 
 ## Exact next activity
 
-Perform **Part006 assembled Tamil construction + audit**.
+Perform **Part006 English translation planning/setup**.
 
-Build the readable Part006 Tamil layer only from verified canonical scans151–180, validate full 30-page representation with no omissions/duplicates/unsupported body insertion, preserve both audited boundaries without importing adjacent-Part body, keep canonical pages and Parts001–Part005 assembled files unchanged, keep Part007 blocked, then stop before English translation.
+Use only the closed Part006 canonical Tamil and 7/7 verified assembled Tamil as authority. Create the Part006 English plan/glossary/progress controls only; do not draft English prose in the planning gate. Keep Parts001–Part005 frozen and Part007 blocked.
