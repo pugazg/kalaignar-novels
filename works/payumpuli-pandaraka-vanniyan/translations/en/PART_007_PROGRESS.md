@@ -14,8 +14,8 @@ Part001–Part006 English remain **FINAL CLOSED / FROZEN**.
 | **E37** | section40 — `வெற்றிப் புன்னகை!` | 196–200 | **SOURCE-CHECKED / COMPLETE** |
 | **E38** | section41 — `“மகளே உன் சமர்த்து!”` | 201–206 | **SOURCE-CHECKED / COMPLETE** |
 | **E39** | section42 — `நிதானமான கையெழுத்து!` | 207–210 | **SOURCE-CHECKED / COMPLETE** |
-| Glossary reconciliation | Part007 whole-Part reconciliation | 181–210 | **NOT STARTED / NEXT** |
-| Editorial | Part007 whole-Part English editorial review | 181–210 | **BLOCKED until glossary reconciliation** |
+| Glossary reconciliation | Part007 whole-Part reconciliation | 181–210 | **RECONCILED / PASS** |
+| Editorial | Part007 whole-Part English editorial review | 181–210 | **NOT STARTED / NEXT** |
 | Bilingual | Part007 whole-Part bilingual review | 181–210 | **BLOCKED until editorial review** |
 | Release | Part007 release/readiness | 181–210 | **BLOCKED until bilingual review** |
 | Release sync | Part007 release-ready synchronization | 181–210 | **BLOCKED until release/readiness** |
@@ -116,3 +116,27 @@ Durable batch source-check records:
 Perform **Part007 whole-Part English glossary reconciliation** across all six maintained English files / scans181–210.
 
 Do not begin editorial review until glossary reconciliation closes.
+
+## Part007 English glossary reconciliation checkpoint
+
+**PART007 WHOLE-PART GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- maintained English files checked — **6/6**
+- scans covered — **181–210 / 30**
+- glossary-driven English body edits — **0**
+- source-variant collapses — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001–Part006 English body edits — **0**
+- incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
+- Part008 leakage — **0**
+
+Durable report:
+- `translations/en/PART_007_GLOSSARY_RECONCILIATION.md`
+
+Exact next gate:
+
+**Part007 English editorial review across all six maintained English files / scans181–210.**
+

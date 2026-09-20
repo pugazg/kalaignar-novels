@@ -476,3 +476,26 @@ Exact next gate:
 
 **Part007 whole-Part English glossary reconciliation across E34–E39.**
 
+## Part007 English glossary reconciliation checkpoint
+
+**PART007 WHOLE-PART GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- maintained English files checked — **6/6**
+- scans covered — **181–210 / 30**
+- glossary-driven English body edits — **0**
+- source-variant collapses — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001–Part006 English body edits — **0**
+- incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
+- Part008 leakage — **0**
+
+Durable report:
+- `translations/en/PART_007_GLOSSARY_RECONCILIATION.md`
+
+Exact next gate:
+
+**Part007 English editorial review across all six maintained English files / scans181–210.**
+
