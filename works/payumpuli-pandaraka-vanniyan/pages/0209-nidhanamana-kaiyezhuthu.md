@@ -35,7 +35,7 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 batch s
 
 மணி மகுடம், மாளிகை, ரத கஜ துரக பதாதிகள், ஆணையிட்டால் ஓடிவர ஆயிரம் ஆட்கள், அணிவகுத்துக் கப்பம் கட்டும் சிற்றரசர்கள், அனைத்தையும் துறந்து ஒரு லட்சியத்திற்காக முனிவராகித் தவம் புரிந்த விசுவாமுத்திரரையே நிலைகுலையச் செய்ததல்லவா ஆடலரசி மேனகையின் மேனியழகு!
 
-அதைப்போல் ஒரு அழகு, இங்கே பெண்ணுருக்கொண்டு அலையென எழும்பியும் தாழ்ந்தும் - காமக்கலையெல்லாம் கற்று கண்ணுக்கு விருந்தாக எதிரே தவழ்ந்தும் மதுக் கிண்ணத்தை எடுத்து மலர்க்கரத்தால் மடியில் சாய்ந்தவாறு அவன் வாயில் தந்தும் அவனைக் கொள்ளைப் பொருளாகக் கும்போது, பாவம் அந்த ஆண்மகன் என்ன செய்வான்! அதிலும் சற்றே இந்த விவகாரத்தில் சஞ்சல புத்தி படைத்தவன்! அதனால் உடும்பாகப் பற்றிக் கொண்டு உடம்பெலாம் கொதிப்பேறக்
+அதைப்போல் ஒரு அழகு, இங்கே பெண்ணுருக்கொண்டு அலையென எழும்பியும் தாழ்ந்தும் - காமக்கலையெல்லாம் கற்று கண்ணுக்கு விருந்தாக எதிரே தவழ்ந்தும் மதுக் கிண்ணத்தை எடுத்து மலர்க்கரத்தால் மடியில் சாய்ந்தவாறு அவன் வாயில் தந்தும் அவனைக் கொள்ளைப் பொருளாக்கும்போது, பாவம் அந்த ஆண்மகன் என்ன செய்வான்! அதிலும் சற்றே இந்த விவகாரத்தில் சஞ்சல புத்தி படைத்தவன்! அதனால் உடும்பாகப் பற்றிக் கொண்டு உடம்பெலாம் கொதிப்பேறக்
 
 ## Pass 1 notes
 
@@ -45,3 +45,12 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 batch s
 - printed page 200 is directly visible; status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 209; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 29; அச்சுப் பக்கம்: 200; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part007 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against the user-supplied Part007 source pixels;
+- source-text corrections: **1**;
+- source-supported correction: `அவனைக் கொள்ளைப் பொருளாகக் கும்போது` → `அவனைக் கொள்ளைப் பொருளாக்கும்போது`;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.

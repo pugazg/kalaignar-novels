@@ -363,28 +363,30 @@ Part006 has completed Tamil archival, assembled Tamil, E27–E33 source-check, g
 
 Part001–Part006 are **FINAL CLOSED / FROZEN**. Part007 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Exact next activity: **Part007 Pass1 — global scans181–190 / local pages1–10**. Incoming 180→181 remains **GENUINE CONTINUATION / AUDITED**; outgoing 210→211 remains pending direct audit.
 
-## Part007 — ACTIVE / PASS 1 COMPLETE
+## Part007 — ACTIVE / PASS 2A COMPLETE
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_007_pages_181-210.pdf`
 - global scans — **181–210**
 - local pages — **1–30**
 - canonical Part007 page records — **30/30 — scans181–210**
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- unresolved Pass-1 source-reading holds — **0**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2A cumulative source-text corrections — **9**
+- unresolved Pass-2A textual questions — **0**
 - incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
-- outgoing boundary record — `PART_007_BOUNDARY_AUDIT_210_211.md`
 - Part008 canonical leakage — **0**
-- Pass 2A — **NOT STARTED / NEXT GATE**
+- Pass 2B — **NOT STARTED / NEXT GATE**
 - frozen Part001–Part006 canonical/assembled/English body mutations in this activity — **0**
 
 Durable progress records:
 - `works/payumpuli-pandaraka-vanniyan/PART_007_PASS1_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_007_PASS2A_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_007_BOUNDARY_AUDIT_210_211.md`
 
 ## Exact next activity
 
-Begin **Part007 Pass 2A — global scans181–190 / local pages1–10**.
+Begin **Part007 Pass 2B — global scans181–190 / local pages1–10**.
 
-Compare each canonical page directly against Part007 source pixels for word-for-word Tamil, punctuation, dialogue/paragraph structure, printed pagination and physical page boundaries. Preserve source wording; do not modernize or grammar-correct. Keep pages `needs-review` pending later gates. Do not modify frozen Part001–Part006 body layers or create/import Part008 canonical body text. Do not begin Pass 2B until Pass 2A covers scans181–210.
+Perform an independent lexical / historical-glyph reread directly against source pixels. Preserve source wording and source-specific spacing. Keep Part001–Part006 frozen and Part008 canonical leakage at 0.
 

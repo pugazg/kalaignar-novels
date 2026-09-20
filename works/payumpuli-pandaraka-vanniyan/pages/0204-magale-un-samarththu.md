@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 batch s
 
 பிலிமத்தளாவை சொல்லி வாய்மூடவில்லை. விக்கிரம ராஜ சிங்கன் வெகுண்டெழுந்து,
 
-“என்ன? என்ன? ஆங்கிலேயர் அதிகாரத்திற்கு அடிபணிவதா? அதற்குப் பெயர் நல்லுறவா? அமைச்சரவர்களே! யாரைக் கேட்டுக் கொண்டு, அந்த நார்த் துரையிடம் இதனைக் கூறினீர்கள்--”
+“என்ன? என்ன? ஆங்கிலேயர் அதிகாரத்திற்கு அடி பணிவதா? அதற்குப் பெயர் நல்லுறவா? அமைச்சர் அவர்களே! யாரைக் கேட்டுக் கொண்டு, அந்த நார்த் துரையிடம் இதனைக் கூறினீர்கள்--”
 
 “அரசே! அவசரப்படாதீர்கள்! நெருப்பு என்று சொன்னால் வாய் வெந்து விடாது! தற்போதைக்கு, நார்த் பிரபுவுக்கும் பண்டாரக வன்னியனுக்கும் தோழமை ஏற்பட்டு விடக் கூடாது என்பதற்காக கொழும்பில் இப்படியொரு பொய்யைச் சொன்னேன் என்பதை நீங்கள் புரிந்து கொள்ள வேண்டும்”
 
@@ -44,3 +44,13 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 batch s
 - printed page 195 is directly visible; status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 204; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 195; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part007 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against the user-supplied Part007 source pixels;
+- source-text corrections: **2**;
+- source-supported correction: `ஆங்கிலேயர் அதிகாரத்திற்கு அடிபணிவதா?` → `ஆங்கிலேயர் அதிகாரத்திற்கு அடி பணிவதா?`;
+- source-supported correction: `அமைச்சரவர்களே!` → `அமைச்சர் அவர்களே!`;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.

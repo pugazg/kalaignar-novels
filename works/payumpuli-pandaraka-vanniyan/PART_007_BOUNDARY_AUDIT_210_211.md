@@ -38,10 +38,12 @@ Printed pagination also advances directly **201 → 202**.
 
 ## Downstream effect
 
-Part007 Pass 1 can close with both split boundaries audited:
-- incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
+The audited **210→211 GENUINE CONTINUATION** classification remains unchanged.
+
+Part007 has subsequently completed:
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 9 source-text corrections; 0 unresolved**
 
 Part008 remains **SUPPLIED / REGISTERED** and canonical Part008 page records remain **0**.
 
-Exact next gate: **Part007 Pass 2A — scans181–190 / local pages1–10**.
+Exact next gate: **Part007 Pass 2B — scans181–190 / local pages1–10**.

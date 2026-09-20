@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 batch s
 
 ## Source transcription
 
--கண்டி மண்டலத்தையும் காத்திடுவாய் என்று நம்பியிருந்தேன். ராஜவிசுவாசியாக இருக்கும் என் பேச்சை நீ முழுவதுமாக அலட்சியப்படுத்தி விட்டாய்! என்னையே விரோதியாகவும் நினைத்து விட்டாய்! அதனால் தான் நிம்மதிதேடி கொழும்புக்குச் சென்றேன்! அங்கு சென்றும் நார்த் பிரபுவிடம் கண்டி ராஜ்யத்தின் மேன்மைக்காகவும், உன் ஆட்சி இங்கு நீடிப்பதற்காகவும் தான் வேண்டிக்கொண்டு வந்திருக்கிறேன். உனக்கு விரோதமான காரியம் எதிலும் ஈடுபடவில்லை. ஈடுபடவும் மாட்டேன். ஏன் தெரியுமா? நீ என் மகளின் கணவன் என்பதை நான் எப்படி மறக்க முடியும்? அந்தப் பாசம் போகுமா?”
+-கண்டி மண்டிலத்தையும் காத்திடுவாய் என்று நம்பியிருந்தேன். ராஜவிசுவாசியாக இருக்கும் என் பேச்சை நீ முழுவதுமாக அலட்சியப்படுத்தி விட்டாய்! என்னையே விரோதியாகவும் நினைத்து விட்டாய்! அதனால் தான் நிம்மதிதேடி கொழும்புக்குச் சென்றேன்! அங்கு சென்றும் நார்த் பிரபுவிடம் கண்டி ராஜ்யத்தின் மேன்மைக்காகவும், உன் ஆட்சி இங்கு நீடிப்பதற்காகவும் தான் வேண்டிக்கொண்டு வந்திருக்கிறேன். உனக்கு விரோதமான காரியம் எதிலும் ஈடுபடவில்லை. ஈடுபடவும் மாட்டேன். ஏன் தெரியுமா? நீ என் மகளின் கணவன் என்பதை நான் எப்படி மறக்க முடியும்? அந்தப் பாசம் போகுமா?”
 
 பிலிமத்தளாவை இதைச் சொல்லி முடிப்பதற்குள், அவரது மொட்டைத் தலையில் ஒரு தட்டுத் தட்டி நார்த் துரை, கலகலவென்று நகைத்தான்.
 
@@ -33,10 +33,19 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 batch s
 
 ## Pass 1 notes
 
-- scan181 continues the already-audited 180→181 split; the canonical record begins only with source-visible `-கண்டி மண்டலத்தையும்...` and imports no frozen scan180 body text
+- scan181 continues the already-audited 180→181 split; the canonical record begins only with source-visible `-கண்டி மண்டிலத்தையும்...` and imports no frozen scan180 body text
 - the opening quotation inherited from scan180 closes on this scan at `அந்தப் பாசம் போகுமா?”`
 - the final quotation remains open at physical page end `தொடர்ந்து போர்!`; scan182 continues it
 - source-visible `நிம்மதிதேடி`, `பின்பலத்தோடுதான்`, `அறிவித்துக்கொள்வான்` and `நுழையவிடமாட்டோம்` are retained
 - printed page 172 is directly visible; status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 181; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 172; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part007 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against the user-supplied Part007 source pixels;
+- source-text corrections: **1**;
+- source-supported correction: `-கண்டி மண்டலத்தையும்` → `-கண்டி மண்டிலத்தையும்`;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.

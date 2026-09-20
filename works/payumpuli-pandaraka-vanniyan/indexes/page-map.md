@@ -511,19 +511,19 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - active content Part — **Part007 / scans181–210**
 - Part007 canonical page records — **30/30 — scans181–210**
 - Part007 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Part007 Pass-1 transcription pending — **0**
-- Part007 unresolved Pass-1 source-reading holds — **0**
+- Part007 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part007 Pass 2A cumulative source-text corrections — **9**
+- Part007 unresolved Pass-2A textual questions — **0**
 - Part007 incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part007 outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
-- Part007 outgoing boundary record — `PART_007_BOUNDARY_AUDIT_210_211.md`
-- Part007 Pass 2A — **NOT STARTED / NEXT GATE**
+- Part007 Pass 2B — **NOT STARTED / NEXT GATE**
 - Part008 canonical page records — **0**
-- frozen Part001–Part006 body mutations caused by this batch — **0**
+- frozen Part001–Part006 body mutations caused by Pass 2A — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Begin **Part007 Pass 2A — global scans181–190 / local pages1–10**.
+Begin **Part007 Pass 2B — global scans181–190 / local pages1–10**.
 
-Keep Part001–Part006 frozen. Compare canonical Part007 records directly against rendered Part007 source images. Preserve source wording; do not modernize or grammar-correct. Keep Part008 canonical leakage at 0. Do not begin Pass 2B until Pass 2A covers scans181–210.
+Keep Part001–Part006 frozen. Perform an independent lexical / historical-glyph reread directly against rendered Part007 source images. Keep Part008 canonical leakage at 0.

@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 batch s
 
 ## Source transcription
 
-கிடந்தான்! சரியான சமயம் என்று அந்த சாகசக்காரவத்தினி, கிண்ணத்தால் மது தருவதைத் தவிர்த்து, தன் வாயில் ஊற்றிய மதுவை அவன் வாயில் உறிஞ்சக் கொடுத்தாள். இரட்டிப்பு போதையால் கண்டி மன்னன், அந்தக் கட்டிற் களத்தில் சரணடைந்து புலம்பலானான்.
+கிடந்தான்! சரியான சமயம் என்று அந்த சாகசச் சக்கரவர்த்தினி, கிண்ணத்தால் மது தருவதைத் தவிர்த்து, தன் வாயில் ஊற்றிய மதுவை அவன் வாயில் உறிஞ்சக் கொடுத்தாள். இரட்டிப்பு போதையால் கண்டி மன்னன், அந்தக் கட்டிற் களத்தில் சரணடைந்து புலம்பலானான்.
 
 “மகாராஜா! என் மீது சந்தேகப்பட்டீர்களே! நியாயந்தானா?”
 
@@ -41,3 +41,12 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 batch s
 - printed page 201 is directly visible; status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 210; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 30; அச்சுப் பக்கம்: 201; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part007 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against the user-supplied Part007 source pixels;
+- source-text corrections: **1**;
+- source-supported correction: `அந்த சாகசக்காரவத்தினி,` → `அந்த சாகசச் சக்கரவர்த்தினி,`;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.

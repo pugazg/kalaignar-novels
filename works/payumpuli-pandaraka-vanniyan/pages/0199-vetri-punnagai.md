@@ -33,7 +33,7 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 batch s
 
 இப்போது அவனைத் தனது முழுக் கட்டுப்பாட்டுக்குள் கொண்டு வந்துவிட்டதாக மகிழ்ந்து போன பியசிலி, அவன் முகம் முழுவதையும் இதழ்த் தேனால் ஈரமாக்கினாள். அவன் சொக்கிக் கிடந்தான். சொர்க்கம் எல்லாம் இதன் முன்னே மிகச் சொற்பமென சொக்கிக் கிடந்தான்.
 
-“நீ வானத்தைக் கிண்ணமாக்கவும் வேண்டாம். கடலை மதுவாக்கவும் வேண்டாம். அதைப்பருக நான் ஒன்றும் பருவதம் போல பெருத்தவள் அல்ல! என் ஆசை மிகச் சாதாரணமானது அதை மட்டும் நிறைவேற்றி விடு! பிறகு நான் எப்போதும் உனக்குக் கொய்யாப்பழம்! நீ அணில்! என்னடா கண்ணா! சரிதானா?”
+“நீ வானத்தைக் கிண்ணமாக்கவும் வேண்டாம். கடலை மதுவாக்கவும் வேண்டாம். அதைப் பருக நான் ஒன்றும் பருவதம் போல பெருத்தவள் அல்ல! என் ஆசை மிகச் சாதாரணமானது அதை மட்டும் நிறைவேற்றி விடு! பிறகு நான் எப்போதும் உனக்குக் கொய்யாப்பழம்! நீ அணில்! என்னடா கண்ணா! சரிதானா?”
 
 “என்னடா!” என்று அவள் வாயால் சொன்னதும் -- அந்தச் சொல், ஏதோ மந்திரம் போட்டது போல் அவன் இதயத்தில் தகதகவெனக் குதித்துக் கும்மாளம் போடத் தொடங்கிவிட்டது.
 
@@ -52,3 +52,12 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 batch s
 - printed page 190 is directly visible; status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 199; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 19; அச்சுப் பக்கம்: 190; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part007 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against the user-supplied Part007 source pixels;
+- source-text corrections: **1**;
+- source-supported correction: `அதைப்பருக நான் ஒன்றும்` → `அதைப் பருக நான் ஒன்றும்`;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.

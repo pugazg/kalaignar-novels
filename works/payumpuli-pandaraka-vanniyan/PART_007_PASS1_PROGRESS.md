@@ -23,7 +23,7 @@ Part001–Part006 remain **FINAL CLOSED / FROZEN**.
 - outgoing 210→211 boundary: **GENUINE CONTINUATION / AUDITED**
 - outgoing boundary record: `PART_007_BOUNDARY_AUDIT_210_211.md`
 - Part008 canonical records created: **0**
-- Pass 2A: **NOT STARTED / NEXT GATE**
+- Pass 2A: **COMPLETE / PASS — 30/30 REVIEWED — 9 source-text corrections; 0 unresolved**
 
 All Part007 Pass-1 records remain non-final:
 - `status: "needs-review"`
@@ -75,8 +75,8 @@ All Part007 Pass-1 records remain non-final:
 - scan206 — `மாயா மோகினியாக`, `இன்ப போதை`, `பேய்க் கூச்சல்`, `வெட்டுண்டு`, `கையாலேயே`;
 - scan207 — fused `ரத்தக்கறைபடிந்து`, `வைத்துக்கொண்டே`, `வெற்றி கரமாகக்`, `கடுகளவு சேதம்`;
 - scan208 — `மானங் காத்திட`, `காமாந்தகாரக் கழுதின்`, `அப்புறப் படுத்தும்`, `கொண்டிருக்கும்போதே-`;
-- scan209 — `கைகாரி`, `பிறந்த மேனியாக`, `மோக ராகம்`, `விசுவாமுத்திரரையே`, fused `பெண்ணுருக்கொண்டு`, source-spaced `பொருளாகக் கும்போது`;
-- scan210 — `சாகசக்காரவத்தினி`, `கட்டிற் களத்தில்`, `அதை யெல்லாம்`, `வழவழ`, `ஊஹூம்!`.
+- scan209 — `கைகாரி`, `பிறந்த மேனியாக`, `மோக ராகம்`, `விசுவாமுத்திரரையே`, fused `பெண்ணுருக்கொண்டு`, `பொருளாக்கும்போது`;
+- scan210 — `சாகசச் சக்கரவர்த்தினி`, `கட்டிற் களத்தில்`, `அதை யெல்லாம்`, `வழவழ`, `ஊஹூம்!`.
 
 No unresolved Pass-1 source-reading hold remains in scans201–210.
 
@@ -91,8 +91,12 @@ The controlling source is the user-supplied Part007 split PDF rendered to page i
 
 Frozen Part001–Part006 canonical Tamil, assembled Tamil and maintained English body files were not modified.
 
+## Post-gate current state
+
+Part007 Pass 2A is **COMPLETE / PASS — 30/30 REVIEWED** with **9** source-supported canonical corrections and **0** unresolved textual questions. All page records remain `needs-review`. Part008 canonical leakage remains **0**.
+
 ## Exact next activity
 
-Begin **Part007 Pass 2A — global scans181–190 / local pages1–10**.
+Begin **Part007 Pass 2B — global scans181–190 / local pages1–10**.
 
-Compare each canonical page directly against the supplied Part007 source pixels for word-for-word Tamil, punctuation, dialogue/paragraph structure, printed pagination and physical page boundaries. Preserve source wording; do not modernize or grammar-correct. Keep all Part007 pages `needs-review` pending later gates. Do not create/import Part008 canonical body text. Do not begin Pass 2B until Pass 2A covers scans181–210.
+Perform an independent lexical / historical-glyph reread directly against the Part007 source pixels. Do not modify frozen Part001–Part006 body layers or create/import Part008 canonical body text.

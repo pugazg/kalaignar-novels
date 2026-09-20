@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 batch s
 
 பிலிமத்தளாவை - தன்னையும் ஒருவன் கேலி செய்கிறானா? அப்படிக் கேலி செய்கிறவன் நமது அந்தரங்கச் செயலாளன் விஜயதுங்காவா? என்ற பரபரப்புடன் அவனையே நிமிர்ந்து பார்த்துக் கொண்டு தனது முட்டைக் கண்களை மூடாமல், மொட்டைத் தலையைத் தடவிக் கொண்டு சிலைபோல் அமர்ந்திருந்தார்.
 
-“மன்னித்துக் கொள்ளவும். என்ன ஒரு மாதிரிபேசுகிறானே என்று நினைக்கக்கூடாது! மனதில் பட்டதை மறைப்பது சரியல்ல! தங்கள் நன்மைக்காகவும். இந்தக் கண்டி ராஜ்யத்தின் நன்மைக்காகவும் சிலவற்றை நான் சொல்லியே ஆக வேண்டும்.”
+“மன்னித்துக் கொள்ளவும். என்ன ஒரு மாதிரி பேசுகிறானே என்று நினைக்கக்கூடாது! மனதில் பட்டதை மறைப்பது சரியல்ல! தங்கள் நன்மைக்காகவும். இந்தக் கண்டி ராஜ்யத்தின் நன்மைக்காகவும் சிலவற்றை நான் சொல்லியே ஆக வேண்டும்.”
 
 இப்போது விஜயதுங்கா, தனது புஜங்களை கரங்களால் பற்றிக் கொண்டு - எந்த விளைவுகளுக்கும் அஞ்சாதவனைப் போல கம்பீரமாக நிமிர்ந்து நின்று கொண்டிருந்தான். மேலுதட்டின்மேல் இரண்டு கோடுகள் கிழித்தாற் போல மீசைகள்! அகன்ற நெற்றி! ஆழமான ஊடுருவும் விழியொளி! ஆஜானுபாகுவான உருவம்! பிலிமத்தளாவையின் செயலாளனாக மட்டுமல்ல, மெய்க்காப்பாளனாகவும் இருந்திடத் தகுதி படைத்தவன்.
 
@@ -40,3 +40,12 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 batch s
 - printed page 182 is directly visible; status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 191; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 11; அச்சுப் பக்கம்: 182; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part007 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against the user-supplied Part007 source pixels;
+- source-text corrections: **1**;
+- source-supported correction: `என்ன ஒரு மாதிரிபேசுகிறானே` → `என்ன ஒரு மாதிரி பேசுகிறானே`;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
