@@ -338,3 +338,8 @@ Durable current English controls:
 ## Exact next activity
 
 Perform **Part006 whole-Part English glossary reconciliation** across all seven maintained English files / scans151–180. Keep Tamil and frozen prior-Part English unchanged, preserve both audited boundaries and the scan156/scan174 structural locks, keep Part007 blocked, then stop before editorial review.
+
+
+## Part006 release-ready checkpoint
+
+Part006 has completed Tamil archival, assembled Tamil, E27–E33 source-check, glossary reconciliation, English editorial review, bilingual review, release/readiness and release-ready synchronization. All are **PASS / CLOSED** with **0 unresolved blockers**. Part007 remains blocked. Exact next gate: **Part006 final closure**.

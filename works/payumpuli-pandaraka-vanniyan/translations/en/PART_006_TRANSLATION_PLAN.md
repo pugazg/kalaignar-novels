@@ -183,3 +183,10 @@ E27–E33 subsequently completed:
 ## Exact next gate
 
 **Part006 English editorial review.**
+
+
+## Release-ready state
+
+Part006 subsequently completed glossary reconciliation, editorial review, bilingual review, release/readiness and release-ready synchronization with **0 unresolved blockers** and **0 canonical/assembled/English body drift**.
+
+Exact next gate: **Part006 final closure**.

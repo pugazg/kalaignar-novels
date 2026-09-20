@@ -747,3 +747,16 @@ Perform **Part006 English editorial review**.
 - Part007 leakage — **0**
 
 Durable record: `PART_006_GLOSSARY_RECONCILIATION.md`.
+
+
+## Part006 release-ready state
+
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved blockers — **0**
+- Part007 leakage — **0**
+
+Exact next gate: **Part006 final closure**.
