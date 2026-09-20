@@ -103,6 +103,17 @@ Part007 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 2 source-text / spa
 
 All Part007 page records remain `needs-review`. Part008 canonical leakage remains **0**.
 
+## Post-gate current state
+
+Part007 Pass 3 is **IN PROGRESS — 10/30 REVIEWED**.
+
+- reviewed — **scans181–190 / local pages1–10**
+- Pass-3 textual corrections — **0**
+- unresolved visual/structural questions — **0**
+- remaining — **scans191–210**
+- all Part007 pages remain `needs-review`
+- Part008 canonical leakage — **0**
+
 ## Exact next activity
 
-Begin **Part007 Pass 3 — global scans181–190 / local pages1–10**.
+Continue **Part007 Pass 3 — global scans191–200 / local pages11–20**.

@@ -40,11 +40,14 @@ Printed pagination also advances directly **201 → 202**.
 
 The audited **210→211 GENUINE CONTINUATION** classification remains unchanged.
 
-Part007 has subsequently completed:
+Part007 current gates:
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 9 source-text corrections; 0 unresolved**
-- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 2 source-text / spacing corrections; 0 historical-glyph corrections; 0 unresolved**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 3 — **IN PROGRESS — 10/30 REVIEWED**
+- Pass-3 textual corrections — **0**
+- unresolved Pass-3 visual/structural questions — **0**
 
 Part008 remains **SUPPLIED / REGISTERED** and canonical Part008 page records remain **0**.
 
-Exact next gate: **Part007 Pass 3 — scans181–190 / local pages1–10**.
+Exact next activity: **Part007 Pass 3 — scans191–200 / local pages11–20**.

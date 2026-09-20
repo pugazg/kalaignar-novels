@@ -42,7 +42,7 @@ The canonical `scan_page` remains the overall scan number **181–210**.
 
 ## Current gate
 
-Part007 is **ACTIVE / PASS 2B COMPLETE / PASS**.
+Part007 is **ACTIVE / PASS 3 IN PROGRESS**.
 
 Part001–Part006 are **FINAL CLOSED / FROZEN**.
 
@@ -51,11 +51,11 @@ Part001–Part006 are **FINAL CLOSED / FROZEN**.
 - canonical Part007 page records — **30/30 — scans181–210**
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 2A cumulative source-text corrections — **9**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 2B cumulative — **2 source-text / spacing corrections; 0 historical-glyph corrections**
-- unresolved Pass-2B questions — **0**
-- Pass 3 — **NOT STARTED / NEXT GATE**
+- Pass 3 — **IN PROGRESS — 10/30 REVIEWED**
+- Pass 3 completed batch — **scans181–190 / local pages1–10**
+- Pass-3 textual corrections — **0**
+- unresolved Pass-3 visual/structural questions — **0**
 - Part008 canonical records created — **0**
 
-Exact next activity: **Part007 Pass 3 — global scans181–190 / local pages1–10**.
+Exact next activity: **Part007 Pass 3 — global scans191–200 / local pages11–20**.

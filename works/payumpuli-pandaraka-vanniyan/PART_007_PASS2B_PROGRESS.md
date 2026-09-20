@@ -94,8 +94,17 @@ Cumulative:
 
 All Part007 page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"` pending Pass 3 and later whole-Part closure gates.
 
+## Post-gate current state
+
+Part007 Pass 3 is **IN PROGRESS — 10/30 REVIEWED**.
+
+- reviewed — **scans181–190 / local pages1–10**
+- Pass-3 textual corrections — **0**
+- unresolved visual/structural questions — **0**
+- remaining — **scans191–210**
+- all Part007 pages remain `needs-review`
+- Part008 canonical leakage — **0**
+
 ## Exact next activity
 
-Begin **Part007 Pass 3 — global scans181–190 / local pages1–10**.
-
-Perform direct full-page visual / structural verification against Part007 source images. Check page type, heading hierarchy, paragraph/dialogue structure, printed pagination, recurring page furniture, intentional blank fields and physical page-boundary states. Do not modify frozen Part001–Part006 body layers or create/import Part008 canonical body text.
+Continue **Part007 Pass 3 — global scans191–200 / local pages11–20**.

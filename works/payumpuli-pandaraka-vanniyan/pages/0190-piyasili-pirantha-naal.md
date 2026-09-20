@@ -51,3 +51,13 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 batch s
 - unresolved lexical / historical-glyph questions: **0**;
 - Pass 2B result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass 3, Part audit and final status synchronization.
+
+## Formal Part007 Pass 3 review
+
+- direct full-page visual / structural verification completed against the user-supplied Part007 source image;
+- structural classification confirmed: chapter-opening; printed 181; displayed chapter number 29 + title `பியசிலி-பிறந்த நாள்!`; body ends in continuation at `மனுக்கள் வாயிலாகப்`;
+- heading hierarchy, paragraph/dialogue blocks, printed pagination, recurring page furniture and physical page-boundary state were checked;
+- Pass-3 textual corrections: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Part audit and final metadata/status synchronization.

@@ -107,8 +107,17 @@ All Part007 page records remain `needs-review` pending Pass 2B, Pass 3, Part aud
 
 Part007 Pass 2B is **COMPLETE / PASS — 30/30 REVIEWED** with **2** additional source-supported spacing / lexical-segmentation corrections, **0** historical-glyph corrections and **0** unresolved questions.
 
+## Post-gate current state
+
+Part007 Pass 3 is **IN PROGRESS — 10/30 REVIEWED**.
+
+- reviewed — **scans181–190 / local pages1–10**
+- Pass-3 textual corrections — **0**
+- unresolved visual/structural questions — **0**
+- remaining — **scans191–210**
+- all Part007 pages remain `needs-review`
+- Part008 canonical leakage — **0**
+
 ## Exact next activity
 
-Begin **Part007 Pass 3 — global scans181–190 / local pages1–10**.
-
-Perform direct full-page visual / structural verification against the Part007 source images. Keep Part001–Part006 frozen and Part008 canonical leakage at 0.
+Continue **Part007 Pass 3 — global scans191–200 / local pages11–20**.

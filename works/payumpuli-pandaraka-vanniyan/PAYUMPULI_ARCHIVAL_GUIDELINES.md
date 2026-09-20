@@ -224,7 +224,7 @@ Part006 / scans151–180 is **FINAL CLOSED / FROZEN** after Tamil archival, asse
 
 Part007 / scans181–210 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Its incoming 180→181 boundary is **GENUINE CONTINUATION / AUDITED**; outgoing 210→211 remains pending direct audit. Canonical Part007 records remain 0 until the next explicit continuation. First Pass1 batch: **scans181–190 / local pages1–10**.
 
-## Part007 — ACTIVE / PASS 2B COMPLETE
+## Part007 — ACTIVE / PASS 3 IN PROGRESS
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_007_pages_181-210.pdf`
 - global scans — **181–210**
@@ -235,22 +235,25 @@ Part007 / scans181–210 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Its inco
 - Pass 2A cumulative source-text corrections — **9**
 - Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
 - Pass 2B cumulative — **2 source-text / spacing corrections; 0 historical-glyph corrections**
-- unresolved Pass-2B questions — **0**
+- Pass 3 — **IN PROGRESS — 10/30 REVIEWED**
+- Pass 3 reviewed — **scans181–190 / local pages1–10**
+- Pass-3 textual corrections — **0**
+- unresolved Pass-3 visual/structural questions — **0**
 - incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
 - Part008 canonical leakage — **0**
-- Pass 3 — **NOT STARTED / NEXT GATE**
 - frozen Part001–Part006 canonical/assembled/English body mutations in this activity — **0**
 
 Durable progress records:
 - `works/payumpuli-pandaraka-vanniyan/PART_007_PASS1_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_007_PASS2A_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_007_PASS2B_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_007_PASS3_PROGRESS.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_007_BOUNDARY_AUDIT_210_211.md`
 
 ## Exact next activity
 
-Begin **Part007 Pass 3 — global scans181–190 / local pages1–10**.
+Continue **Part007 Pass 3 — global scans191–200 / local pages11–20**.
 
-Perform direct full-page visual / structural verification against source images. Keep Part001–Part006 frozen and Part008 canonical leakage at 0.
+Perform direct full-page visual / structural verification against source images. Keep Part001–Part006 frozen, all Part007 pages `needs-review`, and Part008 canonical leakage at 0.
 
