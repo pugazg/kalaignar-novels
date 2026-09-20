@@ -446,3 +446,33 @@ Exact next gate:
 
 **E34 draft + source-check — section37 / scans181–183.**
 
+## Part007 English E34–E39 closure checkpoint
+
+**PART007 E34–E39 — SOURCE-CHECKED / COMPLETE.**
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- maintained Part007 English files — **6/6**
+- translated files — **6/6**
+- source-checked files — **6/6**
+- source coverage — **scans181–210 / all 30 physical pages**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
+- frozen Part001–Part006 English body edits — **0**
+- incoming 180→181 boundary integrity — **PASS / AUDITED**
+- outgoing 210→211 boundary integrity — **PASS / AUDITED**
+- Part008 leakage — **0**
+
+English batch records:
+- `translations/en/E34_SOURCE_CHECK.md`
+- `translations/en/E35_SOURCE_CHECK.md`
+- `translations/en/E36_SOURCE_CHECK.md`
+- `translations/en/E37_SOURCE_CHECK.md`
+- `translations/en/E38_SOURCE_CHECK.md`
+- `translations/en/E39_SOURCE_CHECK.md`
+
+Exact next gate:
+
+**Part007 whole-Part English glossary reconciliation across E34–E39.**
+

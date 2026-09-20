@@ -85,3 +85,14 @@ Exact next gate:
 
 **E34 draft + source-check — scans181–183.**
 
+## Updated upstream English frontier
+
+Part007 E34–E39 are **6/6 SOURCE-CHECKED / COMPLETE**, covering scans181–210.
+
+Part008 remains **SUPPLIED / REGISTERED / BLOCKED**:
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**;
+- canonical Part008 records — **0**;
+- Part008 Tamil Pass1 — **NOT STARTED**;
+- Part008 English content imported into Part007 — **0**.
+
+Current maintained next gate is **Part007 whole-Part English glossary reconciliation**. Do not begin Part008 body capture.

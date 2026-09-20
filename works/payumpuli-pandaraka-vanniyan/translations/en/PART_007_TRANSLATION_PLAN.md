@@ -1,6 +1,6 @@
 # Part 007 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING / SETUP — COMPLETE / PASS**
+Status: **E34–E39 SOURCE-CHECKED / COMPLETE**
 
 This is the control plan for the project-created English translation of **Part007 only**.
 
@@ -179,11 +179,40 @@ After E39:
 - Part008 leakage — **0**
 - English literary prose drafted in planning gate — **0**
 
+## E34–E39 drafting / source-check closure
+
+All six planned Part007 English batches were completed in one user-authorized 30-page activity:
+
+- E34 — **SOURCE-CHECKED / COMPLETE — scans181–183**
+- E35 — **SOURCE-CHECKED / COMPLETE — scans184–189**
+- E36 — **SOURCE-CHECKED / COMPLETE — scans190–195**
+- E37 — **SOURCE-CHECKED / COMPLETE — scans196–200**
+- E38 — **SOURCE-CHECKED / COMPLETE — scans201–206**
+- E39 — **SOURCE-CHECKED / COMPLETE — scans207–210**
+
+Closure accounting:
+- maintained Part007 English files — **6/6**
+- translated files — **6/6**
+- source-checked files — **6/6**
+- physical source scans covered — **181–210 / 30**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
+- frozen Part001–Part006 English body edits — **0**
+- incoming 180→181 boundary integrity — **PASS**
+- outgoing 210→211 boundary integrity — **PASS**
+- Part008 leakage — **0**
+
+Durable source-check records:
+- `E34_SOURCE_CHECK.md`
+- `E35_SOURCE_CHECK.md`
+- `E36_SOURCE_CHECK.md`
+- `E37_SOURCE_CHECK.md`
+- `E38_SOURCE_CHECK.md`
+- `E39_SOURCE_CHECK.md`
+
 ## Exact next gate
 
-Begin **E34 — draft + source-check** for:
-- `37-narthum-nayavanjagamum-part007.md`;
-- scans **181–183**;
-- planned English file `sections/37-north-and-treachery-part007.md`.
+Perform **Part007 whole-Part English glossary reconciliation** across E34–E39.
 
-Do not begin E35 until E34 draft + source-check closes.
+Do not begin editorial review until glossary reconciliation closes.

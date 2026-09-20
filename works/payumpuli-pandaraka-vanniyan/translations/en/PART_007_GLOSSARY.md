@@ -1,6 +1,6 @@
 # Part 007 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING / SETUP — COMPLETE / PASS**
+Status: **E34–E39 SOURCE-CHECKED / ACTIVE FOR RECONCILIATION**
 
 This glossary is derived only from verified Part007 Tamil plus frozen earlier project-English choices where the **same Tamil source form** recurs.
 
@@ -116,6 +116,31 @@ Quoted or attributed claims remain attributed to the source speaker/narrator. Do
 - Part008 leakage — **0**
 - English literary prose created by glossary setup — **0**
 
+## Post-source-check state
+
+E34–E39 are now **6/6 SOURCE-CHECKED / COMPLETE**.
+
+Source-check confirmed the maintained planned forms used across the six English files, including:
+- **North and Treachery!**
+- **Affection and Separation!**
+- **Piyasili's Birthday!**
+- **Victorious Smile!**
+- **“Daughter, Your Cleverness!”**
+- **Steady Handwriting!**
+- **Vijayathunga**
+- **Thanapathi Pillai**
+- **Bannerman**
+- **Panchalankurichi**
+- source-sensitive **British / Parangiyars / Company** handling.
+
+No canonical Tamil or assembled Tamil change was required by English source-check.
+
+Current source-check accounting:
+- English files checked — **6/6**
+- source-variant collapses detected during batch source-check — **0**
+- unresolved glossary holds carried from source-check — **0**
+- Part008 leakage — **0**
+
 ## Exact next gate
 
-**E34 — draft + source-check — scans181–183.**
+Perform **Part007 whole-Part English glossary reconciliation** across E34–E39.

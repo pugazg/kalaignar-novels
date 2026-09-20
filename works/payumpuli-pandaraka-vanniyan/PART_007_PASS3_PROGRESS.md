@@ -182,3 +182,18 @@ Part007 English planning/setup is **COMPLETE / PASS**.
 
 Exact next gate: **E34 draft + source-check — scans181–183**.
 
+## Part007 English E34–E39 downstream state
+
+Part007 maintained English now has:
+- E34–E39 — **6/6 SOURCE-CHECKED / COMPLETE**;
+- English scan coverage — **181–210 / 30 physical pages**;
+- unresolved English source-check holds — **0**;
+- canonical Tamil edits caused by English — **0**;
+- assembled Tamil edits caused by English — **0**;
+- frozen Part001–Part006 English body edits — **0**;
+- incoming 180→181 — **GENUINE CONTINUATION / AUDITED**;
+- outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**;
+- Part008 leakage — **0**.
+
+Exact next gate: **Part007 whole-Part English glossary reconciliation across E34–E39**.
+

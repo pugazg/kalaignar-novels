@@ -42,7 +42,7 @@ The canonical `scan_page` remains the overall scan number **181–210**.
 
 ## Current gate
 
-Part007 is **ENGLISH PLANNING / SETUP COMPLETE / PASS**.
+Part007 is **E34–E39 SOURCE-CHECKED / COMPLETE**.
 
 Part001–Part006 are **FINAL CLOSED / FROZEN**.
 
@@ -52,13 +52,14 @@ Part001–Part006 are **FINAL CLOSED / FROZEN**.
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **6/6 VERIFIED / CLOSED**
 - English planning/setup — **COMPLETE / PASS**
-- planned English batches — **E34–E39 / 6**
-- translated English files — **0/6**
-- source-checked English files — **0/6**
-- unresolved English planning holds — **0**
-- English prose drafted in planning gate — **0**
+- E34–E39 — **6/6 SOURCE-CHECKED / COMPLETE**
+- English physical source coverage — **scans181–210 / all 30 pages**
+- unresolved English source-check holds — **0**
+- canonical / assembled Tamil edits caused by English — **0**
+- frozen Part001–Part006 English body edits — **0**
 - incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
 - Part008 canonical records created — **0**
+- Part008 English/Tamil leakage — **0**
 
-Exact next activity: **E34 draft + source-check — section37 / scans181–183**.
+Exact next activity: **Part007 whole-Part English glossary reconciliation across E34–E39**.

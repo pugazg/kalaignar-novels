@@ -2,19 +2,19 @@
 
 ## Overall state
 
-**PART007 ENGLISH PLANNING / SETUP — COMPLETE / PASS**
+**PART007 E34–E39 — SOURCE-CHECKED / COMPLETE**
 
 Part001–Part006 English remain **FINAL CLOSED / FROZEN**.
 
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
-| **E34** | section37 — chapter27 continuation `நார்த்தும் நயவஞ்சகமும்!` | 181–183 | **NOT STARTED / NEXT** |
-| **E35** | section38 — `பரிவும் - பிரிவும்!` | 184–189 | **NOT STARTED** |
-| **E36** | section39 — `பியசிலி-பிறந்த நாள்!` | 190–195 | **NOT STARTED** |
-| **E37** | section40 — `வெற்றிப் புன்னகை!` | 196–200 | **NOT STARTED** |
-| **E38** | section41 — `“மகளே உன் சமர்த்து!”` | 201–206 | **NOT STARTED** |
-| **E39** | section42 — `நிதானமான கையெழுத்து!` | 207–210 | **NOT STARTED** |
-| Glossary reconciliation | Part007 whole-Part reconciliation | 181–210 | **BLOCKED until E39** |
+| **E34** | section37 — chapter27 continuation `நார்த்தும் நயவஞ்சகமும்!` | 181–183 | **SOURCE-CHECKED / COMPLETE** |
+| **E35** | section38 — `பரிவும் - பிரிவும்!` | 184–189 | **SOURCE-CHECKED / COMPLETE** |
+| **E36** | section39 — `பியசிலி-பிறந்த நாள்!` | 190–195 | **SOURCE-CHECKED / COMPLETE** |
+| **E37** | section40 — `வெற்றிப் புன்னகை!` | 196–200 | **SOURCE-CHECKED / COMPLETE** |
+| **E38** | section41 — `“மகளே உன் சமர்த்து!”` | 201–206 | **SOURCE-CHECKED / COMPLETE** |
+| **E39** | section42 — `நிதானமான கையெழுத்து!` | 207–210 | **SOURCE-CHECKED / COMPLETE** |
+| Glossary reconciliation | Part007 whole-Part reconciliation | 181–210 | **NOT STARTED / NEXT** |
 | Editorial | Part007 whole-Part English editorial review | 181–210 | **BLOCKED until glossary reconciliation** |
 | Bilingual | Part007 whole-Part bilingual review | 181–210 | **BLOCKED until editorial review** |
 | Release | Part007 release/readiness | 181–210 | **BLOCKED until bilingual review** |
@@ -28,8 +28,8 @@ Part001–Part006 English remain **FINAL CLOSED / FROZEN**.
 - Tamil archival-ready — **PASS / CLOSED**
 - Tamil assembled files — **6/6 VERIFIED / CLOSED**
 - Part007 English planned files — **6**
-- Part007 English translated files — **0/6**
-- Part007 English source-checked files — **0/6**
+- Part007 English translated files — **6/6**
+- Part007 English source-checked files — **6/6**
 - unresolved English planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -92,12 +92,27 @@ Created:
 
 No Part007 English literary prose is drafted in this planning gate.
 
+## E34–E39 closure
+
+- E34 — **SOURCE-CHECKED / COMPLETE**
+- E35 — **SOURCE-CHECKED / COMPLETE**
+- E36 — **SOURCE-CHECKED / COMPLETE**
+- E37 — **SOURCE-CHECKED / COMPLETE**
+- E38 — **SOURCE-CHECKED / COMPLETE**
+- E39 — **SOURCE-CHECKED / COMPLETE**
+- maintained English files — **6/6**
+- scans181–210 — **fully covered**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001–Part006 English body edits — **0**
+- Part008 leakage — **0**
+
+Durable batch source-check records:
+- `E34_SOURCE_CHECK.md` through `E39_SOURCE_CHECK.md`
+
 ## Exact next activity
 
-Begin **E34 draft + source-check**:
-- Tamil source: `../../sections/37-narthum-nayavanjagamum-part007.md`;
-- scans **181–183**;
-- planned English file: `sections/37-north-and-treachery-part007.md`;
-- planned source-check record: `E34_SOURCE_CHECK.md`.
+Perform **Part007 whole-Part English glossary reconciliation** across all six maintained English files / scans181–210.
 
-Do not begin E35 until E34 closes.
+Do not begin editorial review until glossary reconciliation closes.
