@@ -1,25 +1,24 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part006 whole-Part bilingual review
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part006 release-readiness
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 Part001–Part005 are **FINAL CLOSED / FROZEN**.
 
-Part006 English state:
+Part006:
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **7/7 VERIFIED / CLOSED**
 - E27–E33 — **7/7 SOURCE-CHECKED / COMPLETE**
 - glossary reconciliation — **RECONCILED / PASS**
-- editorial review — **PASS / CLOSED**
-- editorial body changes — **0**
-- unresolved editorial holds — **0**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- unresolved blockers through bilingual review — **0**
 
 Exact activity:
-- review all seven verified Part006 assembled Tamil sections against all seven maintained English files;
-- recheck meaning, agency, chronology, rhetoric, names/variants and source provenance;
-- preserve 150→151, scan156, scan174 and 180→181 locks;
-- make only English-only corrections if a genuine bilingual mismatch is found;
-- canonical/assembled Tamil edits **0**;
-- frozen Part001–Part005 English body edits **0**;
-- Part007 leakage **0**;
-- create `translations/en/PART_006_BILINGUAL_REVIEW.md`;
-- close only with zero unresolved bilingual/Tamil-fidelity holds.
+- create and verify `translations/en/PART_006_RELEASE_REPORT.md`;
+- verify canonical Tamil, assembled Tamil, maintained English, protected variants, source-PDF exclusion, structural locks and blocker accounting;
+- introduce no canonical Tamil, assembled Tamil or maintained English body edits;
+- preserve Part001–Part005 frozen state and Part007 leakage = 0.
 
-Exact next gate after PASS/CLOSED: **Part006 release/readiness**.
+Close only as **PART006 RELEASE/READINESS — PASS / CLOSED**.
+
+Exact next gate: **Part006 release-ready synchronization**.

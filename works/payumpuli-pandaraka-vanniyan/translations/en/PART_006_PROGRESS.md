@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**EDITORIAL REVIEW PASS / CLOSED — BILINGUAL REVIEW NEXT**
+**BILINGUAL REVIEW PASS / CLOSED — RELEASE/READINESS NEXT**
 
 Part001–Part005 English remain **FINAL CLOSED / FROZEN**.
 
@@ -17,7 +17,7 @@ Part001–Part005 English remain **FINAL CLOSED / FROZEN**.
 | **E33** | section36 — `நார்த்தும் நயவஞ்சகமும்!` | 179–180 | **SOURCE-CHECKED / COMPLETE** |
 | Glossary | Part006 whole-Part reconciliation | 151–180 | **RECONCILED / PASS** |
 | Editorial | Part006 whole-Part English editorial review | 151–180 | **PASS / CLOSED** |
-| Bilingual | Part006 whole-Part bilingual review | 151–180 | **NOT STARTED** |
+| Bilingual | Part006 whole-Part bilingual review | 151–180 | **PASS / CLOSED** |
 | Release | Part006 release/readiness | 151–180 | **NOT STARTED** |
 | Release sync | Part006 release-ready synchronization | 151–180 | **NOT STARTED** |
 | Final closure | Part006 final closure | 151–180 | **NOT STARTED** |
@@ -126,6 +126,18 @@ No Part006 English literary prose is drafted in this planning gate.
 - Part007 leakage — **0**
 - durable record — `PART_006_TRANSLATION_REVIEW.md`
 
+## Bilingual review closure
+
+- Tamil/English pairs reviewed — **7/7**
+- scans reviewed — **151–180 / 30**
+- further bilingual English-only corrections — **0**
+- unresolved bilingual holds — **0**
+- unresolved Tamil-fidelity holds — **0**
+- canonical / assembled Tamil edits — **0**
+- frozen Part001–Part005 English body edits — **0**
+- Part007 leakage — **0**
+- durable record — `PART_006_BILINGUAL_REVIEW.md`
+
 ## Exact next activity
 
-**Part006 whole-Part bilingual review.**
+**Part006 release/readiness.**
