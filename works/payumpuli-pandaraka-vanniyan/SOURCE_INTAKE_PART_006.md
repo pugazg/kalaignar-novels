@@ -48,10 +48,11 @@ Part006 Pass 1 is **COMPLETE / PASS — 30/30 TEXT-COMPLETE**.
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - canonical Part006 page records — **30/30 — scans151–180**
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
-- Pass 2B — **IN PROGRESS — 10/30 REVIEWED**
-- Pass 2B cumulative — **0 historical-glyph corrections; 0 other corrections; 0 unresolved**
-- next Pass-2B batch — **global scans161–170 / local pages11–20**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2B cumulative — **7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
 - Part007 canonical leakage — **0**
-- Pass 3 — **BLOCKED until Pass 2B covers scans151–180**
+- Pass 3 — **NOT STARTED / NEXT GATE**
 
 Part001–Part005 remain **FINAL CLOSED / FROZEN**.
+
+Exact next range: **Part006 Pass 3 scans151–160 / local pages1–10**.

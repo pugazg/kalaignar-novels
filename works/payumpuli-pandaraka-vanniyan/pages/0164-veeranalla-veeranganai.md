@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 batch s
 
 ## Source transcription
 
-கொண்டு, அன்பு, ஆசை, பாசம் எல்லாமே ஆண்களை அடிமைகொள்ளும் உத்தரவு உச்சரிப்பாகத் தானிருக்க வேண்டுமென முடிவு செய்து கொண்டு - இப்படியும் ஒருத்தி வாழ்கிறாளே! ஆண்டவனே! பியசிலிகளைப் போன்ற பளபளப்பான பாம்புகளைப் பாவைகளாக இந்த உலகத்தில் எவ்வளவு பேரைப் படைத்திருக்கிறாயோ! என்னைக் கடவுள் என்கிறாள் - ஆனால் என் கழுத்தை எப்போது நெறிப்பது எனக் காத்துக் கிடக்கிறாள்! என்னைப் பிரிந்து ஒரு பொழுதும் வாழ முடியாது என்கிறாள் - ஆனால் எப்போது இவன் பிரிவான்? இவனைப் போல் பலரோடு இன்பம் கண்டு அதனை ஒப்பிட்டுப் பார்க்கலாமெனத் துடிக்கிறாள்! இந்த மகாபாதகி, இப்போது மட்டும் மாசற்ற மருக் கொழுந்துபோல என்னருகே வந்து நிற்கிறாளே! இவளை மன்னிக்கக் கூடுமா? கூடாது! ஆனாலும் என் செய்வது? எனக்கு ராணியாக இருந்து தொலைக்கிறாளே!”
+கொண்டு, அன்பு, ஆசை, பாசம் எல்லாமே ஆண்களை அடிமைகொள்ளும் உடலுறவு உச்சரிப்பாகத் தானிருக்க வேண்டுமென முடிவு செய்து கொண்டு - இப்படியும் ஒருத்தி வாழ்கிறாளே! ஆண்டவனே! பியசிலிகளைப் போன்ற பளபளப்பான பாம்புகளைப் பாவைகளாக இந்த உலகத்தில் எவ்வளவு பேரைப் படைத்திருக்கிறாயோ! என்னைக் கடவுள் என்கிறாள் - ஆனால் என் கழுத்தை எப்போது நெறிப்பது எனக் காத்துக் கிடக்கிறாள்! என்னைப் பிரிந்து ஒரு பொழுதும் வாழ முடியாது என்கிறாள் - ஆனால் எப்போது இவன் பிரிவான்? இவனைப் போல் பலரோடு இன்பம் கண்டு அதனை ஒப்பிட்டுப் பார்க்கலாமெனத் துடிக்கிறாள்! இந்த மகாபாதகி, இப்போது மட்டும் மாசற்ற மருக் கொழுந்துபோல என்னருகே வந்து நிற்கிறாளே! இவளை மன்னிக்கக் கூடுமா? கூடாது! ஆனாலும் என் செய்வது? எனக்கு ராணியாக இருந்து தொலைக்கிறாளே!”
 
 -இது கண்டி ராஜனின் இதயத்துப் புலம்பல்!
 
@@ -39,3 +39,13 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 batch s
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
+
+## Formal Part006 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the user-supplied Part006 source pixels;
+- source-text / lexical / spacing corrections: **1**;
+- historical-glyph corrections: **0**;
+- source-supported Pass-2B correction: `உத்தரவு` → `உடலுறவு`;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 3, Part audit and final status synchronization.

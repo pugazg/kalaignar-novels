@@ -46,3 +46,12 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 batch s
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
+
+## Formal Part006 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the user-supplied Part006 source pixels;
+- source-text / lexical / spacing corrections: **0**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 3, Part audit and final status synchronization.

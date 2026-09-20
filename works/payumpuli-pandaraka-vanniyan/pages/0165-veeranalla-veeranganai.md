@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 batch s
 
 ## Source transcription
 
-மறந்து ஒருக்கணமாவது கிடக்க வேண்டும் - அதற்காகவே தந்தையின் திட்டத்தை நிறைவேற்றத் தயாரானேன்! தோல்வியுற்றேன்! எத்தனை பேர் என்னழகைக் கண்களால் கவிதை யாக்குகிறார்கள்! எத்தனை பேர் என் அங்கங்களை விதவிதமாக வர்ணித்து ரசிக ஒலிகளை அனுப்புகிறார்கள்! அதைப் பார்க்கும்போதும், படிக்கும்போதும் என்னழகில் எனக்கே ஒரு கர்வம்! ஆனால் அந்தக் கர்வம், நேற்றிரவு பங்கப்பட்டு விட்டதே!”
+மறந்து ஒருக்கணமாவது கிடக்க வேண்டும் - அதற்காகவே தந்தையின் திட்டத்தை நிறைவேற்றத் தயாரானேன்! தோல்வியுற்றேன்! எத்தனை பேர் என்னழகைக் கண்களால் கவிதை யாக்குகிறார்கள்! எத்தனை பேர் என் அங்கங்களை விதவிதமாக வர்ணித்து ரசிக ஓலைகளை அனுப்புகிறார்கள்! அதைப் பார்க்கும்போதும், படிக்கும்போதும் என்னழகில் எனக்கே ஒரு கர்வம்! ஆனால் அந்தக் கர்வம், நேற்றிரவு பங்கப்பட்டு விட்டதே!”
 
 -இது பியசிலியின் உள்ளத்துக் குமுறல்!
 
@@ -43,3 +43,13 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 batch s
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
+
+## Formal Part006 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the user-supplied Part006 source pixels;
+- source-text / lexical / spacing corrections: **1**;
+- historical-glyph corrections: **0**;
+- source-supported Pass-2B correction: `ரசிக ஒலிகளை` → `ரசிக ஓலைகளை`;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 3, Part audit and final status synchronization.

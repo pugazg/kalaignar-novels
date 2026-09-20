@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part006 Pass 2B scans161–170
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part006 Pass 3 scans151–160
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,14 +10,12 @@ Part006:
 - canonical page records — **30/30**
 - Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 5 source-text corrections; 1 non-body note correction; 0 unresolved**
-- Pass 2B — **IN PROGRESS — 10/30 REVIEWED**
-- Pass 2B cumulative — **0 historical-glyph corrections; 0 other corrections; 0 unresolved**
-- completed Pass-2B batch — **scans151–160 / local pages1–10**
-- exact next batch — **scans161–170 / local pages11–20**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2B cumulative — **7 source-text / lexical / spacing / punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part007 canonical leakage — **0**
-- Pass 3 — **BLOCKED until Pass 2B covers scans151–180**
+- Pass 3 — **NOT STARTED**
 
 Read first:
 1. `HANDOVER.md`
@@ -27,13 +25,11 @@ Read first:
 5. `works/payumpuli-pandaraka-vanniyan/PART_006_BOUNDARY_AUDIT_180_181.md`
 
 Exact activity:
-- continue **Part006 Pass 2B — global scans161–170 / local pages11–20**;
-- independently reread lexical forms and historical glyph identity directly from source pixels;
-- preserve source-specific forms and spacing; do not modernize or grammar-correct;
-- make only directly source-supported corrections;
-- keep all pages `needs-review` pending Pass 3 and later gates;
+- begin **Part006 Pass 3 — global scans151–160 / local pages1–10**;
+- verify heading hierarchy, body/illustration classification, paragraph/dialogue blocks, printed pagination, physical page-boundary state and intentional blank fields directly from source images;
+- preserve verified lexical wording; only alter text if visual comparison exposes a concrete source mismatch;
+- keep pages `needs-review` pending Part audit / final status synchronization;
 - do not modify frozen Part001–Part005 body layers;
-- do not create/import Part007 canonical body text;
-- do not begin Pass 3 until Pass 2B covers scans151–180.
+- do not create/import Part007 canonical body text.
 
-Stop after the requested Pass-2B batch is durably recorded and synchronized.
+Stop after the requested Pass-3 batch is durably recorded and synchronized.

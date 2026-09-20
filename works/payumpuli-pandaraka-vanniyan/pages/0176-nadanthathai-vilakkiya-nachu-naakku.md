@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 batch s
 
 நண்பர்கள் நாங்கள்!” என்றான். குருவிச்சியும் அதை ஏற்றுக் கொண்டவளாகப் பண்டாரகனுக்குப் பதில் அளித்தாள்.
 
-“உங்கள் இருவரின் உயர்ந்த நட்பைப் பற்றி எனக்குத் தெரியும். ஆனால் அந்த நட்பைப் பிரித்து, உங்கள் இருவரிடையே பகை மூட்டி - கண்டி அரசைத் தங்கள் காலடியில் போட்டுக் கொள்ள நடைபெறும் சூழ்ச்சியும் எனக்குத் தெரியும். அதை அறிந்து கொண்டவுடன் தான் முல்லைத்தீவின் வீரர்களில் ஒருவனைப் போல மாறுவேடம் அணிந்துகொண்டு, கண்டிக்குப் புறப்பட்டு வந்து உங்களைக் காப்பதற்குக் காத்திருந்தேன். நான் எண்ணியபடி உங்களைக் காப்பாற்றியும் விட்டேன்.”
+“உங்கள் இருவரின் உயர்ந்த நட்பைப் பற்றி எனக்குத் தெரியும். ஆனால் அந்த நட்பைப் பிரித்து, உங்கள் இருவரிடையே பகை மூட்டி - கண்டி அரசைத் தங்கள் காலடியில் போட்டுக் கொள்ள நடைபெறும் சூழ்ச்சியும் எனக்குத் தெரியும். அதை அறிந்து கொண்டவுடன் தான் முல்லைத் தீவின் வீரர்களில் ஒருவனைப் போல மாறுவேடம் அணிந்துகொண்டு, கண்டிக்குப் புறப்பட்டு வந்து உங்களைக் காப்பதற்குக் காத்திருந்தேன். நான் எண்ணியபடி உங்களைக் காப்பாற்றியும் விட்டேன்.”
 
 இப்படிப் பேசிக் கொண்டிருந்தவள் தன் முகம் நோக்கிக் குனிந்திருந்த பண்டாரகனின் தலையை இழுத்து, உச்சியில் ஒரு முத்தமும் கொடுத்துவிட்டாள்.
 
@@ -47,3 +47,13 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 batch s
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
+
+## Formal Part006 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the user-supplied Part006 source pixels;
+- source-text / lexical / spacing corrections: **1**;
+- historical-glyph corrections: **0**;
+- source-supported Pass-2B correction: `முல்லைத்தீவின்` → `முல்லைத் தீவின்`;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 3, Part audit and final status synchronization.

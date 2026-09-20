@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS — 10/30 REVIEWED**
+**PASS 2B — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisites:
 - Part006 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -17,7 +17,7 @@ Scope:
 
 ## Pass 2B method
 
-The active batch was independently reread against the rendered Part006 source pixels with special attention to:
+All 30 physical scans were independently reread against the rendered source pixels with special attention to:
 - lexical identity and word boundaries;
 - visually similar Tamil glyphs;
 - historical / reform-sensitive forms;
@@ -27,34 +27,84 @@ The active batch was independently reread against the rendered Part006 source pi
 
 Pass 2B does not modernize or regularize the source.
 
-## Current accounting
+## Final accounting
 
-- Pass 2B reviewed: **10/30 — scans151–160**
-- Pass 2B remaining: **20 — scans161–180**
+- Pass 2B reviewed: **30/30 — scans151–180**
+- Pass 2B remaining: **0**
 - historical-glyph corrections: **0**
-- other source-text / lexical / spacing corrections: **0**
+- other source-text / lexical / spacing / punctuation corrections: **7**
 - unresolved lexical / historical-glyph questions: **0**
 - status promotions: **0**
 - Part007 canonical records created: **0**
-- Pass 3 — **BLOCKED until Pass 2B covers scans151–180**
+- Pass 3 — **NOT STARTED / NEXT GATE**
+
+## Corrections applied
+
+| Scan | Printed page | Before | Source-confirmed after | Classification |
+|---:|---:|---|---|---|
+| 164 | 155 | `உத்தரவு` | **`உடலுறவு`** | lexical/source-text correction |
+| 165 | 156 | `ரசிக ஒலிகளை` | **`ரசிக ஓலைகளை`** | lexical/glyph correction |
+| 176 | 167 | `முல்லைத்தீவின்` | **`முல்லைத் தீவின்`** | source spacing / lexical segmentation |
+| 179 | 170 | `முல்லைத்தீவு` | **`முல்லைத் தீவு`** | source spacing / lexical segmentation |
+| 179 | 170 | `திருகோண மலைப்பகுதிக்கும்` | **`திருகோண மலைப் பகுதிக்கும்`** | source spacing / lexical segmentation |
+| 179 | 170 | `முல்லைத்தீவுக்குத்` | **`முல்லைத் தீவுக்குத்`** | source spacing / lexical segmentation |
+| 179 | 170 | `உருவாக்கி விட்டு,` | **`உருவாக்கி விட்டு.`** | source punctuation correction |
+
+All five Pass-2A canonical corrections remain source-supported and were retained.
 
 ## Batch 1 — scans151–160
 
 **COMPLETE / REVIEWED / PASS — 10 scans**
 
-- scans151–160 were independently reread directly against the Part006 source pixels;
-- all five Pass-2A canonical corrections elsewhere in the Part remain untouched; this batch itself required no additional correction;
-- scan151 remains the audited continuation-side record beginning `சொல்லவில்லையே!`; the corrected non-body boundary note remains accurate;
-- scan156 remains one illustrated physical spread carrying printed pages **146–147**;
-- scan159 opens chapter23 `நட்பின் இலக்கணம்!`;
-- scan160 ends at `பேச்சினிடையே குறுக்கிடாமல் இருந்த பிலிமத்தளாவை`;
-- no source-text, lexical, spacing or historical-glyph correction was required in scans151–160;
+- independent lexical / glyph reread completed for all ten scans;
+- scan156 remains the illustrated physical spread carrying printed pages **146–147**;
+- no additional source-text, lexical, spacing or historical-glyph correction was required;
 - unresolved questions: **0**.
 
 Batch-1 Pass-2B corrections: **0**.
 
+## Batch 2 — scans161–170
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+- scan164 source reads **`உடலுறவு உச்சரிப்பாகத்`**, correcting the prior `உத்தரவு`;
+- scan165 source reads **`ரசிக ஓலைகளை`**, correcting `ரசிக ஒலிகளை`;
+- scans161–163 and 166–170 required no additional Pass-2B canonical correction;
+- scan163 opens chapter24 `வீரனல்ல, வீராங்கனை!`;
+- scan167 opens chapter25 `பேய் மகள் பியசிலி!`;
+- scan170 retains the open-speech terminal `“சிப்பாய்களே! என்னை`;
+- unresolved questions: **0**.
+
+Batch-2 Pass-2B corrections: **2**.
+
+## Batch 3 — scans171–180
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+- scan176 preserves source spacing **`முல்லைத் தீவின்`**;
+- scan179 preserves source spacing **`முல்லைத் தீவு`**, **`திருகோண மலைப் பகுதிக்கும்`**, and **`முல்லைத் தீவுக்குத்`**;
+- scan179 source punctuation after `உருவாக்கி விட்டு` is a full stop, not a comma;
+- scans171–175, 177–178 and 180 required no additional Pass-2B canonical correction;
+- scan174 remains a full-page colour illustration with no printed Tamil body text and no visible folio;
+- scan178 remains a short chapter-closing page with intentional blank lower field;
+- audited 180→181 remains **GENUINE CONTINUATION**; no Part007 body text was imported;
+- unresolved questions: **0**.
+
+Batch-3 Pass-2B corrections: **5**.
+
+## Pass 2B closure
+
+**PASS — 30/30 Part006 scans independently lexical / glyph reviewed.**
+
+Cumulative:
+- **7** Pass-2B source-text / lexical / spacing / punctuation corrections;
+- **0** historical-glyph corrections;
+- **0** unresolved questions.
+
+All Part006 page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"` pending Pass 3 and later whole-Part closure gates.
+
 ## Exact next activity
 
-Continue **Part006 Pass 2B — global scans161–170 / local pages11–20**.
+Begin **Part006 Pass 3 — global scans151–160 / local pages1–10**.
 
-Perform the same independent lexical / historical-glyph reread directly against Part006 source pixels. Preserve source-specific forms and do not modernize. Do not modify frozen Part001–Part005 body layers or create Part007 canonical records. Do not begin Pass 3 until Pass 2B covers all scans151–180.
+Perform meaningful visual / structural verification directly against Part006 source images: heading hierarchy, body/illustration classification, paragraph/dialogue blocks, printed pagination, physical page boundaries and intentional blank fields. Do not reopen verified lexical wording unless a visual comparison exposes a concrete source mismatch. Do not modify frozen Part001–Part005 body layers or create Part007 canonical records.
