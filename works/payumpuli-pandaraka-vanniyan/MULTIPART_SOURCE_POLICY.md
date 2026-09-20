@@ -150,7 +150,7 @@ For every `N→N+1` boundary:
 - release-sync protected source-variant collapses — **0**
 - Part006 leakage — **0**
 - final closure — **PASS / CLOSED / FROZEN**
-- Part006 — **ACTIVE / AUTHORIZED — ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT**
+- Part006 — **ACTIVE / AUTHORIZED — ENGLISH PLANNING COMPLETE / E27 NEXT**
 - Part006 canonical page records — **30/30 verified**
 - Part006 visual fidelity — **30/30 verified**
 - Part006 Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
@@ -161,6 +161,12 @@ For every `N→N+1` boundary:
 - Part006 Tamil archival-ready — **PASS / CLOSED**
 - Part006 archival-ready canonical/page-status changes — **0**
 - Part006 assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
+- Part006 English translation planning/setup — **COMPLETE / PASS**
+- Part006 planned English batches — **E27–E33 / 7**
+- Part006 translated/source-checked English files — **0/7**
+- Part006 unresolved English planning holds — **0**
+- Part006 planning canonical/assembled Tamil changes — **0**
+- frozen Part001–Part005 English body changes caused by Part006 planning — **0**
 - Part006 assembled canonical coverage — **30/30; omissions / duplicates 0 / 0**
 - Part006 canonical page mutations caused by assembly — **0**
 - frozen Part001–Part005 assembled-file mutations caused by Part006 assembly — **0**
@@ -190,6 +196,6 @@ Normal Tamil verification iterations use **10 physical scans per batch**.
 
 Exact next gate:
 
-**Part006 English translation planning/setup.**
+**Part006 E27 draft + source-check — scans151–153.**
 
 Part001–Part005 remain frozen. Part007 remains supplied / registered / blocked until Part006 completes its maintained workflow and final closure.

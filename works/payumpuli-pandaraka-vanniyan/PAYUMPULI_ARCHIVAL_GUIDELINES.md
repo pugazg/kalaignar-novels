@@ -174,7 +174,7 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part005 release/readiness: PASS / CLOSED**
 - **Part005 release-ready synchronization: PASS / CLOSED**
 - **Part005 final closure: PASS / CLOSED / FROZEN**
-- **Part006: ACTIVE / AUTHORIZED — ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT**
+- **Part006: ACTIVE / AUTHORIZED — ENGLISH PLANNING COMPLETE / E27 NEXT**
 - **Part006 canonical range: scans151–180**
 - **Part006 canonical page records: 30/30 — scans151–180**
 - **Part006 incoming 150→151: GENUINE CONTINUATION / AUDITED**
@@ -195,6 +195,12 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - **Part006 archival-ready canonical Tamil/body changes: 0**
 - **Part006 archival-ready page-status changes: 0**
 - **Part006 assembled Tamil: PASS / CLOSED — 7/7 VERIFIED**
+- **Part006 English translation planning/setup: COMPLETE / PASS**
+- **Part006 planned English batches: E27–E33 / 7**
+- **Part006 translated/source-checked English files: 0/7**
+- **Part006 unresolved English planning holds: 0**
+- **Part006 planning canonical/assembled Tamil changes: 0**
+- **Part006 frozen Part001–Part005 English body changes caused by planning: 0**
 - **Part006 assembled canonical coverage: 30/30; omissions / duplicates: 0 / 0**
 - **Part006 canonical page mutations caused by assembly: 0**
 - **Part006 frozen Part001–Part005 assembled-file mutations: 0**
@@ -203,6 +209,6 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 
 ## Exact next gate
 
-Perform **Part006 English translation planning/setup**.
+Perform **Part006 E27 draft + source-check — scans151–153**.
 
-Create only the Part006 English translation plan, glossary and progress controls using the closed canonical/assembled Tamil authority. Do not draft English prose in that setup gate. Keep Parts001–Part005 frozen and Part007 blocked.
+Use the verified Part006 canonical/assembled Tamil authority and `translations/en/PART_006_GLOSSARY.md`. Do not import frozen Part005 English across 150→151, do not mutate Tamil, and do not begin E28 in the same activity.

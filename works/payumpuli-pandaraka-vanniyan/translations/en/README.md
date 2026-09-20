@@ -673,8 +673,54 @@ Durable record:
 Durable final record:
 - `../../PART_005_FINAL_CLOSURE.md`
 
-Part006 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+Part006 is now **ACTIVE / ENGLISH PLANNING COMPLETE / E27 NEXT**.
+
+## Part006 — ACTIVE ENGLISH WORKFLOW
+
+Part006 Tamil prerequisites are closed:
+
+- canonical scans — **151–180**
+- canonical Tamil records — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
+- assembled coverage — **scans151–180 exactly**
+- unresolved Tamil / glyph / visual / status exceptions — **0**
+- incoming boundary — **150→151 GENUINE CONTINUATION / AUDITED**
+- outgoing boundary — **180→181 GENUINE CONTINUATION / AUDITED**
+- Part007 Tamil/English content imported — **0**
+
+Part006 English planning/setup is now **COMPLETE / PASS**.
+
+Active Part006 English controls:
+- `PART_006_TRANSLATION_PLAN.md`
+- `PART_006_GLOSSARY.md`
+- `PART_006_PROGRESS.md`
+
+Planned E27–E33 section coverage is recorded in those controls.
+
+Planning created no English literary prose and changed:
+- canonical Tamil — **0**
+- assembled Tamil — **0**
+- frozen Part001–Part005 English body — **0**
+- Part007 content — **0**
+
+## Part006 boundary / structure safeguards
+
+Incoming:
+- E27 begins at scan151 only;
+- frozen Part005 English is not imported to complete 150→151.
+
+Internal:
+- E28 must translate all verified Tamil body on illustrated scan156 but invent no caption/prose for the illustration;
+- E32 must insert no literary body for illustration-only scan174.
+
+Outgoing:
+- E33 stops at scan180's open quotation;
+- Part007 scan181 is witness only and is not translated/imported.
 
 ## Current exact next activity
 
-Begin **Part006 Pass 1 — global scans151–160 / local pages1–10**.
+Perform **E27 — draft + source-check — scans151–153**.
+
+Create `sections/30-the-sparrow-and-the-cuckoo-part006.md` and `E27_SOURCE_CHECK.md`. Do not begin E28 until E27 is source-checked and complete.

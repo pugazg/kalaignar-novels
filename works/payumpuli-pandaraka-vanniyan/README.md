@@ -306,7 +306,7 @@ Durable Part005 records now include:
 - `PART_005_RELEASE_READY_SYNC.md`
 - `PART_005_FINAL_CLOSURE.md`
 
-## Part006 — ACTIVE / ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT
+## Part006 — ACTIVE / ENGLISH PLANNING COMPLETE / E27 NEXT
 
 - canonical scans — **151–180 / 30 pages**
 - canonical Tamil — **30/30 verified**
@@ -315,22 +315,29 @@ Durable Part005 records now include:
 - assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
 - assembled canonical coverage — **30/30**
 - assembled omissions / duplicates — **0 / 0**
-- unsupported Tamil body insertion — **0**
-- audit-note leakage — **0**
-- canonical Part006 page mutations caused by assembly — **0**
-- frozen Part001–Part005 assembled-file mutations — **0**
-- Part007 body leakage — **0**
+- English translation planning/setup — **COMPLETE / PASS**
+- planned English batches — **E27–E33 / 7**
+- translated English files — **0/7**
+- source-checked English files — **0/7**
+- unresolved English planning holds — **0**
+- planning canonical Tamil edits — **0**
+- planning assembled Tamil edits — **0**
+- frozen Part001–Part005 English body edits — **0**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 180→181 — **GENUINE CONTINUATION / AUDITED**
+- Part007 content leakage — **0**
 - Part007 canonical records — **0 / BLOCKED**
 
 Durable current records:
 - `works/payumpuli-pandaraka-vanniyan/PART_006_TAMIL_ARCHIVAL_READY.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
 - `works/payumpuli-pandaraka-vanniyan/PART_006_BOUNDARY_AUDIT_180_181.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_006_TRANSLATION_PLAN.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_006_GLOSSARY.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_006_PROGRESS.md`
 
 ## Exact next activity
 
-Perform **Part006 English translation planning/setup**.
+Perform **E27 draft + source-check — scans151–153**.
 
-Use only the closed Part006 canonical Tamil and 7/7 verified assembled Tamil as authority. Create the Part006 English plan/glossary/progress controls only; do not draft English prose in the planning gate. Keep Parts001–Part005 frozen and Part007 blocked.
+Translate only `sections/30-kuruviyum-kuyilum-part006.md`, create the maintained English section plus `E27_SOURCE_CHECK.md`, preserve the incoming 150→151 boundary as provenance without importing frozen Part005 English, make no Tamil/assembled/prior-English changes, keep Part007 blocked, then stop before E28.
