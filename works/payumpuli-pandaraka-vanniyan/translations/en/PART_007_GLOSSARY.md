@@ -144,3 +144,23 @@ Current source-check accounting:
 ## Exact next gate
 
 Perform **Part007 whole-Part English glossary reconciliation** across E34–E39.
+
+## Part007 final English closure checkpoint
+
+**PART007 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- E34–E39 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved English holds — **0**
+- English body drift after release/readiness — **0**
+- frozen Part001–Part006 English body drift — **0**
+- Part008 English leakage — **0**
+
+Part007 English is **FINAL CLOSED / FROZEN**.
+
+Exact next work frontier: **Part008 Pass1 scans211–220 / local pages1–10**. No Part008 English work begins before Part008 Tamil workflow reaches its maintained English gate.
+

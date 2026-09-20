@@ -273,3 +273,14 @@ Exact next gate:
 
 **Part007 whole-Part English glossary reconciliation across E34–E39.**
 
+## Final downstream state
+
+**PART007 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+All Part007 Tamil, assembled-Tamil and English gates are closed with **0 unresolved blockers** and **0 Part008 leakage**.
+
+Part001–Part007 are **FINAL CLOSED / FROZEN**.  
+Part008 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED** with canonical records **0**.
+
+Exact next activity: **Part008 Pass1 scans211–220 / local pages1–10**.
+

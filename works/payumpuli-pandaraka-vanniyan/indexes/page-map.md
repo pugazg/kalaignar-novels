@@ -507,27 +507,25 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 
 - Parts supplied / registered — **16 / 16**
 - physical scan coverage by split ranges — **477 / 477**
-- Part001–Part006 — **FINAL CLOSED / FROZEN**
-- active maintained Part — **Part007 / scans181–210**
-- Part007 canonical page records — **30/30 VERIFIED**
-- Part007 Tamil textual status — **30/30 verified**
-- Part007 visual fidelity — **30/30 verified**
-- Part007 Tamil archival-ready — **PASS / CLOSED**
+- Part001–Part007 — **FINAL CLOSED / FROZEN**
+- Part007 canonical pages — **30/30 verified**
 - Part007 assembled Tamil — **6/6 VERIFIED / CLOSED**
-- Part007 English planning/setup — **COMPLETE / PASS**
-- Part007 E34–E39 — **6/6 SOURCE-CHECKED / COMPLETE**
-- Part007 English scan coverage — **181–210 / 30**
-- Part007 unresolved English source-check holds — **0**
+- Part007 English E34–E39 — **6/6 SOURCE-CHECKED / COMPLETE**
+- Part007 glossary reconciliation — **RECONCILED / PASS**
+- Part007 editorial review — **PASS / CLOSED**
+- Part007 bilingual review — **PASS / CLOSED**
+- Part007 release/readiness — **PASS / CLOSED**
+- Part007 release-ready synchronization — **PASS / CLOSED**
+- Part007 final closure — **PASS / CLOSED / FROZEN**
 - Part007 incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part007 outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
+- Part008 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
 - Part008 canonical page records — **0**
-- Part008 leakage into Part007 — **0**
-- frozen Part001–Part006 body mutations caused by Part007 English — **0**
+- Part008 incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- Part008 outgoing 240→241 — **PENDING direct audit**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Perform **Part007 whole-Part English glossary reconciliation across E34–E39**.
-
-Do not begin editorial review until glossary reconciliation closes.
+Begin **Part008 Pass1 — global scans211–220 / local pages1–10**.

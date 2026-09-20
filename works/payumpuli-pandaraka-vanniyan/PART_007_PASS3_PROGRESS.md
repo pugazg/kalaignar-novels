@@ -197,3 +197,14 @@ Part007 maintained English now has:
 
 Exact next gate: **Part007 whole-Part English glossary reconciliation across E34–E39**.
 
+## Final downstream state
+
+**PART007 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- unresolved Part007 blockers — **0**
+- canonical / assembled / English post-release drift — **0 / 0 / 0**
+- Part008 leakage — **0**
+- Part001–Part007 — **FINAL CLOSED / FROZEN**
+- Part008 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- next activity — **Part008 Pass1 scans211–220 / local pages1–10**
+

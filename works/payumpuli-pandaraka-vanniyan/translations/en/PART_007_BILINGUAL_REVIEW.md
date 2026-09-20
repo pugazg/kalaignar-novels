@@ -72,3 +72,15 @@ Outgoing:
 ## Exact next activity
 
 Create and complete **Part007 release/readiness report**.
+
+## Final downstream state
+
+**PART007 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Part007 maintained English — **FINAL CLOSED / FROZEN**
+- unresolved English/release blockers — **0**
+- body drift after release/readiness — **0**
+- Part008 leakage — **0**
+- Part008 next active — **AUTHORIZED / NOT STARTED**
+- next activity — **Part008 Pass1 scans211–220 / local pages1–10**
+

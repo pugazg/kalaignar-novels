@@ -376,3 +376,36 @@ Exact next gate:
 
 **Part007 whole-Part English glossary reconciliation across E34–E39.**
 
+## Part007 final closure checkpoint
+
+**PART007 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- canonical Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- E34–E39 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved blockers — **0**
+- canonical / assembled / English body drift after release — **0 / 0 / 0**
+- incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
+- Part008 canonical/body leakage — **0**
+
+Part001–Part007 are **FINAL CLOSED / FROZEN**.
+
+Part008 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**:
+- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_008_pages_211-240.pdf`
+- canonical range — **211–240**
+- canonical records — **0**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **PENDING direct audit**
+- exact next activity — **Part008 Pass1 scans211–220 / local pages1–10**
+
+Durable final record:
+- `works/payumpuli-pandaraka-vanniyan/PART_007_FINAL_CLOSURE.md`
+

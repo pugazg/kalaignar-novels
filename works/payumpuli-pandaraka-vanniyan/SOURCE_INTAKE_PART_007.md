@@ -42,24 +42,23 @@ The canonical `scan_page` remains the overall scan number **181–210**.
 
 ## Current gate
 
-Part007 is **E34–E39 SOURCE-CHECKED / COMPLETE**.
+**PART007 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
 
-Part001–Part006 are **FINAL CLOSED / FROZEN**.
-
-- canonical Part007 page records — **30/30 VERIFIED**
-- Tamil textual status — **30/30 verified**
+- canonical records — **30/30 verified**
 - visual fidelity — **30/30 verified**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **6/6 VERIFIED / CLOSED**
-- English planning/setup — **COMPLETE / PASS**
 - E34–E39 — **6/6 SOURCE-CHECKED / COMPLETE**
-- English physical source coverage — **scans181–210 / all 30 pages**
-- unresolved English source-check holds — **0**
-- canonical / assembled Tamil edits caused by English — **0**
-- frozen Part001–Part006 English body edits — **0**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved blockers — **0**
 - incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
-- Part008 canonical records created — **0**
-- Part008 English/Tamil leakage — **0**
+- Part008 leakage — **0**
 
-Exact next activity: **Part007 whole-Part English glossary reconciliation across E34–E39**.
+Part001–Part007 are **FINAL CLOSED / FROZEN**.
+
+Exact next work frontier: **Part008 Pass1 scans211–220 / local pages1–10**.

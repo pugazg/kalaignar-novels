@@ -19,7 +19,7 @@ Part001–Part006 English remain **FINAL CLOSED / FROZEN**.
 | Bilingual | Part007 whole-Part bilingual review | 181–210 | **PASS / CLOSED** |
 | Release | Part007 release/readiness | 181–210 | **PASS / CLOSED** |
 | Release sync | Part007 release-ready synchronization | 181–210 | **PASS / CLOSED** |
-| Final closure | Part007 final closure | 181–210 | **NOT STARTED / NEXT** |
+| Final closure | Part007 final closure | 181–210 | **PASS / CLOSED / FROZEN** |
 
 ## Current counts
 
@@ -225,4 +225,23 @@ Durable record:
 Exact next gate:
 
 **Part007 final closure.**
+
+## Part007 final English closure checkpoint
+
+**PART007 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- E34–E39 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved English holds — **0**
+- English body drift after release/readiness — **0**
+- frozen Part001–Part006 English body drift — **0**
+- Part008 English leakage — **0**
+
+Part007 English is **FINAL CLOSED / FROZEN**.
+
+Exact next work frontier: **Part008 Pass1 scans211–220 / local pages1–10**. No Part008 English work begins before Part008 Tamil workflow reaches its maintained English gate.
 

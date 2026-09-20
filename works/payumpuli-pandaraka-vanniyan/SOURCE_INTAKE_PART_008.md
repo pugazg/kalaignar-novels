@@ -42,57 +42,24 @@ The canonical `scan_page` remains the overall scan number **211–240**.
 
 ## Current gate
 
-Part 008 source split: **SUPPLIED / REGISTERED**.
+**PART008 — NEXT ACTIVE / AUTHORIZED / NOT STARTED.**
 
-This Part waits behind the global active frontier. Its local page1 / global scan211 was inspected only as the adjacent witness for the audited **210→211 GENUINE CONTINUATION** boundary. No Part008 canonical page record has been created. Do not create page records here until processing reaches its overall scan range.
+Upstream lock:
+- Part001–Part007 — **FINAL CLOSED / FROZEN**
+- Part007 final closure — **PASS / CLOSED / FROZEN**
 
-## Upstream frontier state
+Part008:
+- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_008_pages_211-240.pdf`
+- local pages — **30**
+- canonical overall scans — **211–240**
+- canonical page records — **0**
+- Pass1 — **NOT STARTED / NEXT**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **PENDING direct audit**
+- Part007 body imported into Part008 — **0**
 
-Part007 canonical Tamil and visual fidelity are **30/30 verified**, with Part audit, final metadata/status synchronization and documentation synchronization **closed**.
+Exact next activity:
 
-Part008 remains **SUPPLIED / REGISTERED / BLOCKED**:
-- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**;
-- canonical Part008 records — **0**;
-- Part008 Pass1 — **NOT STARTED**.
+**Part008 Pass1 — global scans211–220 / local pages1–10.**
 
-The maintained Part007 workflow next performs the **Tamil archival-ready checkpoint**; do not begin Part008 body capture yet.
-
-## Updated upstream frontier state
-
-Part007 canonical Tamil is **30/30 verified**, Tamil archival-ready is **PASS / CLOSED**, and assembled Tamil is **6/6 VERIFIED / CLOSED**.
-
-Part008 remains **SUPPLIED / REGISTERED / BLOCKED**:
-- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**;
-- canonical Part008 records — **0**;
-- Part008 Pass1 — **NOT STARTED**.
-
-Current maintained next gate is **Part007 English translation planning/setup**. Do not begin Part008 body capture.
-
-## Part007 English planning/setup downstream state
-
-Part007 English translation planning/setup is **COMPLETE / PASS**.
-
-- planned batches — **E34–E39 / 6**
-- translated files — **0/6**
-- source-checked files — **0/6**
-- unresolved planning holds — **0**
-- canonical / assembled Tamil changes — **0**
-- frozen Part001–Part006 English body changes — **0**
-- Part008 leakage — **0**
-- English literary prose drafted in planning gate — **0**
-
-Exact next gate:
-
-**E34 draft + source-check — scans181–183.**
-
-## Updated upstream English frontier
-
-Part007 E34–E39 are **6/6 SOURCE-CHECKED / COMPLETE**, covering scans181–210.
-
-Part008 remains **SUPPLIED / REGISTERED / BLOCKED**:
-- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**;
-- canonical Part008 records — **0**;
-- Part008 Tamil Pass1 — **NOT STARTED**;
-- Part008 English content imported into Part007 — **0**.
-
-Current maintained next gate is **Part007 whole-Part English glossary reconciliation**. Do not begin Part008 body capture.
+Use exact Part008 provenance. Preserve incoming 210→211 as audited continuation. Do not begin Pass2A until Part008 Pass1 covers all 30 scans.
