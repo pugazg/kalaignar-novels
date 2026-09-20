@@ -210,3 +210,17 @@ Part001–Part005 remain frozen. Part007 remains supplied / registered / blocked
 Part006 / scans151–180 is **FINAL CLOSED / FROZEN** after Tamil archival, assembled Tamil, maintained English, glossary, editorial, bilingual, release/readiness and release-ready synchronization all passed with zero unresolved blockers and zero post-release body drift.
 
 Part007 / scans181–210 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Its incoming 180→181 boundary is **GENUINE CONTINUATION / AUDITED**; outgoing 210→211 remains pending direct audit. Canonical Part007 records remain 0 until the next explicit continuation. First Pass1 batch: **scans181–190 / local pages1–10**.
+
+## Part007 verified boundary/frontier synchronization
+
+- Part007 canonical Tamil — **30/30 verified**
+- Part007 visual fidelity — **30/30 verified**
+- Part007 incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
+- Part007 outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
+- split-boundary classifications — **7 / 15 audited**
+- newly included audited boundary — **210→211 — GENUINE CONTINUATION**
+- durable outgoing record — `PART_007_BOUNDARY_AUDIT_210_211.md`
+- Part008 canonical records — **0**
+- exact next gate — **Part007 Tamil archival-ready checkpoint**
+
+Part001–Part006 remain frozen.

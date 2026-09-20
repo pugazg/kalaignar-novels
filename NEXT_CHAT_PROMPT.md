@@ -1,43 +1,41 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part007 Part audit
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part007 Tamil archival-ready checkpoint
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 Part001–Part006 are **FINAL CLOSED / FROZEN**.
 
 Part007:
-- canonical range — **181–210**
-- canonical page records — **30/30**
-- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 2A cumulative corrections — **9**
-- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 2B cumulative corrections — **2**
-- historical-glyph corrections — **0**
-- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass-3 textual corrections — **0**
-- unresolved Pass-3 visual/structural questions — **0**
+- scans — **181–210 / 30 physical pages**
+- printed pages — **172–201**
+- canonical page records — **30/30 VERIFIED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Pass1 — **COMPLETE / PASS**
+- Pass2A — **COMPLETE / PASS — 9 corrections**
+- Pass2B — **COMPLETE / PASS — 2 additional corrections; 0 historical-glyph corrections**
+- Pass3 — **COMPLETE / PASS — 0 corrections**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
 - incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
-- all Part007 page records remain **needs-review**
 - Part008 canonical leakage — **0**
-- Part audit — **NOT STARTED / NEXT GATE**
+- unresolved blockers — **0**
 
 Read first:
 1. `HANDOVER.md`
-2. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
-3. `works/payumpuli-pandaraka-vanniyan/PART_007_PASS1_PROGRESS.md`
-4. `works/payumpuli-pandaraka-vanniyan/PART_007_PASS2A_PROGRESS.md`
-5. `works/payumpuli-pandaraka-vanniyan/PART_007_PASS2B_PROGRESS.md`
-6. `works/payumpuli-pandaraka-vanniyan/PART_007_PASS3_PROGRESS.md`
-7. `works/payumpuli-pandaraka-vanniyan/PART_007_BOUNDARY_AUDIT_210_211.md`
+2. `works/payumpuli-pandaraka-vanniyan/PART_007_AUDIT.md`
+3. `works/payumpuli-pandaraka-vanniyan/PART_007_FINAL_STATUS_SYNC.md`
+4. `works/payumpuli-pandaraka-vanniyan/PART_007_DOCUMENTATION_SYNC.md`
+5. `works/payumpuli-pandaraka-vanniyan/PART_007_PASS3_PROGRESS.md`
 
 Exact activity:
-- perform **Part007 Part audit** across scans181–210;
-- reconcile canonical record count/range, printed pagination, chapter openings/closures, page types, source continuity and all Pass1/2A/2B/3 evidence;
-- verify both split-boundary classifications remain consistent;
-- verify no Part008 canonical body leakage;
+- perform the **Part007 Tamil archival-ready checkpoint**;
+- verify the complete closed Tamil evidence chain and live 30/30 verified state;
+- make **0 canonical Tamil/body changes** and **0 page-status changes**;
+- preserve both audited boundaries;
 - keep Part001–Part006 frozen;
-- do not promote Part007 metadata to `verified` unless the Part audit passes;
-- stop after the Part audit is durably recorded and synchronized.
+- keep Part008 canonical records at 0;
+- after the checkpoint passes, exact next gate is **Part007 assembled Tamil construction + audit**.
 
-Do not begin final metadata/status synchronization in the same activity.
+Do not begin English translation work.

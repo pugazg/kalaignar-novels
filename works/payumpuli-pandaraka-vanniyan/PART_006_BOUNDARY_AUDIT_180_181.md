@@ -20,7 +20,7 @@ Part006 scan180 closes inside an open quotation at:
 
 Part007 scan181 begins:
 
-`-கண்டி மண்டலத்தையும் காத்திடுவாய் என்று நம்பியிருந்தேன்.`
+`-கண்டி மண்டிலத்தையும் காத்திடுவாய் என்று நம்பியிருந்தேன்.`
 
 The same speech therefore continues directly across the physical split. There is no new chapter heading, title page or independent restart at scan181.
 
@@ -45,3 +45,17 @@ Part006 has subsequently completed Pass1, Pass2A, Pass2B, Pass3, Part audit, fin
 Part007 remains **SUPPLIED / REGISTERED / BLOCKED**. Scan181 remains a boundary witness only; Part007 canonical page records remain **0**.
 
 Exact next gate: **Part006 Tamil archival-ready checkpoint**.
+
+## Part007 downstream reconciliation
+
+The boundary classification remains **180→181 = GENUINE CONTINUATION / AUDITED**.
+
+Part007 Pass2A later established the source-confirmed scan181 form **`மண்டிலத்தையும்`**, replacing the earlier boundary-note reading `மண்டலத்தையும்`. This wording reconciliation does not change the continuation classification.
+
+Current downstream state:
+- Part007 canonical Tamil — **30/30 verified**;
+- Part007 visual fidelity — **30/30 verified**;
+- Part007 Part audit — **PASS / COMPLETE**;
+- final metadata/status synchronization — **PASS / CLOSED**;
+- documentation synchronization — **PASS / COMPLETE**;
+- exact next gate — **Part007 Tamil archival-ready checkpoint**.

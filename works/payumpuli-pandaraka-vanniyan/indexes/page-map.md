@@ -186,36 +186,36 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 006 | 28 | 178 | 169 | short chapter-closing page; `நடந்ததை விளக்கிய நச்சு நாக்கு!` closes | verified | `pages/0178-nadanthathai-vilakkiya-nachu-naakku.md` |
 | 006 | 29 | 179 | 170 | chapter27 opening `நார்த்தும் நயவஞ்சகமும்!` | verified | `pages/0179-narthum-nayavanjagamum.md` |
 | 006 | 30 | 180 | 171 | `நார்த்தும் நயவஞ்சகமும்!`; 180→181 genuine continuation audited | verified | `pages/0180-narthum-nayavanjagamum.md` |
-| 007 | 1 | 181 | 172 | `நார்த்தும் நயவஞ்சகமும்!` continuation; incoming 180→181 genuine continuation audited | needs-review | `pages/0181-narthum-nayavanjagamum.md` |
-| 007 | 2 | 182 | 173 | `நார்த்தும் நயவஞ்சகமும்!` continuation | needs-review | `pages/0182-narthum-nayavanjagamum.md` |
-| 007 | 3 | 183 | 174 | short continuation / chapter27 close; large intentional blank lower field | needs-review | `pages/0183-narthum-nayavanjagamum.md` |
-| 007 | 4 | 184 | 175 | chapter28 opening `பரிவும் - பிரிவும்!` | needs-review | `pages/0184-parivum-pirivum.md` |
-| 007 | 5 | 185 | 176 | `பரிவும் - பிரிவும்!` continuation | needs-review | `pages/0185-parivum-pirivum.md` |
-| 007 | 6 | 186 | 177 | `பரிவும் - பிரிவும்!` continuation | needs-review | `pages/0186-parivum-pirivum.md` |
-| 007 | 7 | 187 | 178 | `பரிவும் - பிரிவும்!` continuation | needs-review | `pages/0187-parivum-pirivum.md` |
-| 007 | 8 | 188 | 179 | `பரிவும் - பிரிவும்!` continuation; ends `அந்த அன்பு நெஞ்சங்கள்` | needs-review | `pages/0188-parivum-pirivum.md` |
-| 007 | 9 | 189 | 180 | short continuation / chapter28 close; large intentional blank lower field | needs-review | `pages/0189-parivum-pirivum.md` |
-| 007 | 10 | 190 | 181 | chapter29 opening `பியசிலி-பிறந்த நாள்!`; ends `மனுக்கள் வாயிலாகப்` | needs-review | `pages/0190-piyasili-pirantha-naal.md` |
-| 007 | 11 | 191 | 182 | `பியசிலி-பிறந்த நாள்!` continuation; continues scan190 `மனுக்கள் வாயிலாகப்` | needs-review | `pages/0191-piyasili-pirantha-naal.md` |
-| 007 | 12 | 192 | 183 | `பியசிலி-பிறந்த நாள்!` continuation | needs-review | `pages/0192-piyasili-pirantha-naal.md` |
-| 007 | 13 | 193 | 184 | `பியசிலி-பிறந்த நாள்!` continuation; ends `அவர்களிடமிருந்து பணம்` | needs-review | `pages/0193-piyasili-pirantha-naal.md` |
-| 007 | 14 | 194 | 185 | `பியசிலி-பிறந்த நாள்!` continuation; begins `மட்டுமல்ல, படையும்`; ends `மறுத்த நிகழ்ச்சியை` | needs-review | `pages/0194-piyasili-pirantha-naal.md` |
-| 007 | 15 | 195 | 186 | short continuation / chapter29 close; large intentional blank lower field | needs-review | `pages/0195-piyasili-pirantha-naal.md` |
-| 007 | 16 | 196 | 187 | chapter30 opening `வெற்றிப் புன்னகை!` | needs-review | `pages/0196-vetri-punnagai.md` |
-| 007 | 17 | 197 | 188 | `வெற்றிப் புன்னகை!` continuation | needs-review | `pages/0197-vetri-punnagai.md` |
-| 007 | 18 | 198 | 189 | `வெற்றிப் புன்னகை!` continuation; source-displayed five-line reflection preserved | needs-review | `pages/0198-vetri-punnagai.md` |
-| 007 | 19 | 199 | 190 | `வெற்றிப் புன்னகை!` continuation | needs-review | `pages/0199-vetri-punnagai.md` |
-| 007 | 20 | 200 | 191 | `வெற்றிப் புன்னகை!` continuation; scan201 body not inspected/imported | needs-review | `pages/0200-vetri-punnagai.md` |
-| 007 | 21 | 201 | 192 | chapter31 opening `“மகளே உன் சமர்த்து!”`; displayed number 31 | needs-review | `pages/0201-magale-un-samarththu.md` |
-| 007 | 22 | 202 | 193 | `“மகளே உன் சமர்த்து!”` continuation; ends `அவன் வெள்ளைப்` | needs-review | `pages/0202-magale-un-samarththu.md` |
-| 007 | 23 | 203 | 194 | `“மகளே உன் சமர்த்து!”` continuation; begins `பரங்கியருக்கு`; ends `அவனை அழைத்துக் கொண்டுவந்துவிட்டார்கள்` | needs-review | `pages/0203-magale-un-samarththu.md` |
-| 007 | 24 | 204 | 195 | `“மகளே உன் சமர்த்து!”` continuation; ends `கருதுகிறவன்` | needs-review | `pages/0204-magale-un-samarththu.md` |
-| 007 | 25 | 205 | 196 | `“மகளே உன் சமர்த்து!”` continuation; ends `கூர்ந்து நோக்கிக்` | needs-review | `pages/0205-magale-un-samarththu.md` |
-| 007 | 26 | 206 | 197 | short continuation / chapter31 close; large intentional blank lower field | needs-review | `pages/0206-magale-un-samarththu.md` |
-| 007 | 27 | 207 | 198 | chapter32 opening `நிதானமான கையெழுத்து!`; displayed number 32 | needs-review | `pages/0207-nidhanamana-kaiyezhuthu.md` |
-| 007 | 28 | 208 | 199 | `நிதானமான கையெழுத்து!` continuation; ends `கூறிக்கொண்டே` | needs-review | `pages/0208-nidhanamana-kaiyezhuthu.md` |
-| 007 | 29 | 209 | 200 | `நிதானமான கையெழுத்து!` continuation; ends `கொதிப்பேறக்` | needs-review | `pages/0209-nidhanamana-kaiyezhuthu.md` |
-| 007 | 30 | 210 | 201 | `நிதானமான கையெழுத்து!` continuation; outgoing 210→211 genuine continuation audited | needs-review | `pages/0210-nidhanamana-kaiyezhuthu.md` |
+| 007 | 1 | 181 | 172 | `நார்த்தும் நயவஞ்சகமும்!` continuation; incoming 180→181 genuine continuation audited | verified | `pages/0181-narthum-nayavanjagamum.md` |
+| 007 | 2 | 182 | 173 | `நார்த்தும் நயவஞ்சகமும்!` continuation | verified | `pages/0182-narthum-nayavanjagamum.md` |
+| 007 | 3 | 183 | 174 | short continuation / chapter27 close; large intentional blank lower field | verified | `pages/0183-narthum-nayavanjagamum.md` |
+| 007 | 4 | 184 | 175 | chapter28 opening `பரிவும் - பிரிவும்!` | verified | `pages/0184-parivum-pirivum.md` |
+| 007 | 5 | 185 | 176 | `பரிவும் - பிரிவும்!` continuation | verified | `pages/0185-parivum-pirivum.md` |
+| 007 | 6 | 186 | 177 | `பரிவும் - பிரிவும்!` continuation | verified | `pages/0186-parivum-pirivum.md` |
+| 007 | 7 | 187 | 178 | `பரிவும் - பிரிவும்!` continuation | verified | `pages/0187-parivum-pirivum.md` |
+| 007 | 8 | 188 | 179 | `பரிவும் - பிரிவும்!` continuation; ends `அந்த அன்பு நெஞ்சங்கள்` | verified | `pages/0188-parivum-pirivum.md` |
+| 007 | 9 | 189 | 180 | short continuation / chapter28 close; large intentional blank lower field | verified | `pages/0189-parivum-pirivum.md` |
+| 007 | 10 | 190 | 181 | chapter29 opening `பியசிலி-பிறந்த நாள்!`; ends `மனுக்கள் வாயிலாகப்` | verified | `pages/0190-piyasili-pirantha-naal.md` |
+| 007 | 11 | 191 | 182 | `பியசிலி-பிறந்த நாள்!` continuation; continues scan190 `மனுக்கள் வாயிலாகப்` | verified | `pages/0191-piyasili-pirantha-naal.md` |
+| 007 | 12 | 192 | 183 | `பியசிலி-பிறந்த நாள்!` continuation | verified | `pages/0192-piyasili-pirantha-naal.md` |
+| 007 | 13 | 193 | 184 | `பியசிலி-பிறந்த நாள்!` continuation; ends `அவர்களிடமிருந்து பணம்` | verified | `pages/0193-piyasili-pirantha-naal.md` |
+| 007 | 14 | 194 | 185 | `பியசிலி-பிறந்த நாள்!` continuation; begins `மட்டுமல்ல, படையும்`; ends `மறுத்த நிகழ்ச்சியை` | verified | `pages/0194-piyasili-pirantha-naal.md` |
+| 007 | 15 | 195 | 186 | short continuation / chapter29 close; large intentional blank lower field | verified | `pages/0195-piyasili-pirantha-naal.md` |
+| 007 | 16 | 196 | 187 | chapter30 opening `வெற்றிப் புன்னகை!` | verified | `pages/0196-vetri-punnagai.md` |
+| 007 | 17 | 197 | 188 | `வெற்றிப் புன்னகை!` continuation | verified | `pages/0197-vetri-punnagai.md` |
+| 007 | 18 | 198 | 189 | `வெற்றிப் புன்னகை!` continuation; source-displayed five-line reflection preserved | verified | `pages/0198-vetri-punnagai.md` |
+| 007 | 19 | 199 | 190 | `வெற்றிப் புன்னகை!` continuation | verified | `pages/0199-vetri-punnagai.md` |
+| 007 | 20 | 200 | 191 | `வெற்றிப் புன்னகை!` continuation; scan201 body not inspected/imported | verified | `pages/0200-vetri-punnagai.md` |
+| 007 | 21 | 201 | 192 | chapter31 opening `“மகளே உன் சமர்த்து!”`; displayed number 31 | verified | `pages/0201-magale-un-samarththu.md` |
+| 007 | 22 | 202 | 193 | `“மகளே உன் சமர்த்து!”` continuation; ends `அவன் வெள்ளைப்` | verified | `pages/0202-magale-un-samarththu.md` |
+| 007 | 23 | 203 | 194 | `“மகளே உன் சமர்த்து!”` continuation; begins `பரங்கியருக்கு`; ends `அவனை அழைத்துக் கொண்டுவந்துவிட்டார்கள்` | verified | `pages/0203-magale-un-samarththu.md` |
+| 007 | 24 | 204 | 195 | `“மகளே உன் சமர்த்து!”` continuation; ends `கருதுகிறவன்` | verified | `pages/0204-magale-un-samarththu.md` |
+| 007 | 25 | 205 | 196 | `“மகளே உன் சமர்த்து!”` continuation; ends `கூர்ந்து நோக்கிக்` | verified | `pages/0205-magale-un-samarththu.md` |
+| 007 | 26 | 206 | 197 | short continuation / chapter31 close; large intentional blank lower field | verified | `pages/0206-magale-un-samarththu.md` |
+| 007 | 27 | 207 | 198 | chapter32 opening `நிதானமான கையெழுத்து!`; displayed number 32 | verified | `pages/0207-nidhanamana-kaiyezhuthu.md` |
+| 007 | 28 | 208 | 199 | `நிதானமான கையெழுத்து!` continuation; ends `கூறிக்கொண்டே` | verified | `pages/0208-nidhanamana-kaiyezhuthu.md` |
+| 007 | 29 | 209 | 200 | `நிதானமான கையெழுத்து!` continuation; ends `கொதிப்பேறக்` | verified | `pages/0209-nidhanamana-kaiyezhuthu.md` |
+| 007 | 30 | 210 | 201 | `நிதானமான கையெழுத்து!` continuation; outgoing 210→211 genuine continuation audited | verified | `pages/0210-nidhanamana-kaiyezhuthu.md` |
 | 008 | 1 | 211 | — | unclassified — direct visual audit pending | not-started | — |
 | 008 | 2 | 212 | — | unclassified — direct visual audit pending | not-started | — |
 | 008 | 3 | 213 | — | unclassified — direct visual audit pending | not-started | — |
@@ -508,27 +508,26 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Parts supplied / registered — **16 / 16**
 - physical scan coverage by split ranges — **477 / 477**
 - Part001–Part006 — **FINAL CLOSED / FROZEN**
-- active content Part — **Part007 / scans181–210**
-- Part007 canonical page records — **30/30 — scans181–210**
-- Part007 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Part007 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part007 Pass 2A cumulative source-text corrections — **9**
-- Part007 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part007 Pass 2B cumulative — **2 source-text / spacing corrections; 0 historical-glyph corrections**
-- Part007 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part007 Pass-3 textual corrections — **0**
-- Part007 unresolved Pass-3 visual/structural questions — **0**
+- active maintained Part — **Part007 / scans181–210**
+- Part007 canonical page records — **30/30 VERIFIED**
+- Part007 Tamil textual status — **30/30 verified**
+- Part007 visual fidelity — **30/30 verified**
+- Part007 Pass 1 — **COMPLETE / PASS**
+- Part007 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 9 corrections**
+- Part007 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 2 additional corrections**
+- Part007 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 corrections**
+- Part007 Part audit — **PASS / COMPLETE**
+- Part007 final metadata/status synchronization — **PASS / CLOSED**
+- Part007 documentation synchronization — **PASS / COMPLETE**
 - Part007 incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - Part007 outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
-- Part007 page metadata — **30/30 needs-review**
-- Part007 Part audit — **NOT STARTED / NEXT GATE**
 - Part008 canonical page records — **0**
-- frozen Part001–Part006 body mutations caused by Pass 3 — **0**
+- frozen Part001–Part006 body mutations caused by Part007 closure gates — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Perform **Part007 Part audit**.
+Perform **Part007 Tamil archival-ready checkpoint**.
 
-Keep Part001–Part006 frozen and Part008 canonical leakage at 0. Do not promote Part007 page metadata until the audit passes.
+Keep Part001–Part006 frozen and Part008 canonical leakage at 0.

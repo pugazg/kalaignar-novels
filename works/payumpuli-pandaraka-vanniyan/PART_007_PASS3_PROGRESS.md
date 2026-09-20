@@ -124,3 +124,18 @@ No Pass-3 blocker remains for the **Part audit** gate.
 Perform **Part007 Part audit**.
 
 Reconcile all 30 canonical records, Pass1/Pass2A/Pass2B/Pass3 evidence, chapter/page structure, both audited split boundaries, printed-page sequence and current `needs-review` metadata. Do not promote metadata to `verified` until the audit passes. Keep Part001–Part006 frozen and Part008 canonical leakage at 0.
+
+## Post-verification current state
+
+Part007 has subsequently completed:
+- Part audit — **PASS / COMPLETE**;
+- final metadata/status synchronization — **PASS / CLOSED**;
+- Tamil textual status — **30/30 verified**;
+- visual fidelity — **30/30 verified**;
+- documentation synchronization — **PASS / COMPLETE**;
+- Part008 canonical leakage — **0**.
+
+Current next gate:
+
+**Part007 Tamil archival-ready checkpoint.**
+

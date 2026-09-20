@@ -258,3 +258,33 @@ Perform **Part007 Part audit**.
 
 Reconcile all 30 canonical records and Pass1/2A/2B/3 evidence before any metadata promotion. Keep Part001–Part006 frozen and Part008 canonical leakage at 0.
 
+## Part007 — VERIFIED / DOCUMENTATION SYNC COMPLETE
+
+- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_007_pages_181-210.pdf`
+- global scans — **181–210**
+- printed pages — **172–201**
+- canonical Part007 page records — **30/30 VERIFIED**
+- Tamil textual status — **30/30 verified; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- Pass 1 — **COMPLETE / PASS**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 9 corrections**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 2 additional corrections; 0 historical-glyph corrections**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 corrections**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
+- unresolved blockers — **0**
+- Part008 canonical leakage — **0**
+- Part001–Part006 — **FINAL CLOSED / FROZEN**
+
+Durable closure records:
+- `works/payumpuli-pandaraka-vanniyan/PART_007_AUDIT.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_007_FINAL_STATUS_SYNC.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_007_DOCUMENTATION_SYNC.md`
+
+## Exact next activity
+
+Perform **Part007 Tamil archival-ready checkpoint**.
+

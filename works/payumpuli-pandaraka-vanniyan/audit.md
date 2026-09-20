@@ -1364,3 +1364,34 @@ Exact next activity: **Part006 English translation planning/setup**.
 Part006 / scans151–180 is **FINAL CLOSED / FROZEN** after Tamil archival, assembled Tamil, maintained English, glossary, editorial, bilingual, release/readiness and release-ready synchronization all passed with zero unresolved blockers and zero post-release body drift.
 
 Part007 / scans181–210 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Its incoming 180→181 boundary is **GENUINE CONTINUATION / AUDITED**; outgoing 210→211 remains pending direct audit. Canonical Part007 records remain 0 until the next explicit continuation. First Pass1 batch: **scans181–190 / local pages1–10**.
+
+## Part007 — VERIFIED / DOCUMENTATION SYNC COMPLETE
+
+- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_007_pages_181-210.pdf`
+- global scans — **181–210**
+- printed pages — **172–201**
+- canonical Part007 page records — **30/30 VERIFIED**
+- Tamil textual status — **30/30 verified; 0 needs-review**
+- visual fidelity — **30/30 verified; 0 needs-review**
+- Pass 1 — **COMPLETE / PASS**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 9 corrections**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 2 additional corrections; 0 historical-glyph corrections**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 corrections**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
+- unresolved blockers — **0**
+- Part008 canonical leakage — **0**
+- Part001–Part006 — **FINAL CLOSED / FROZEN**
+
+Durable closure records:
+- `works/payumpuli-pandaraka-vanniyan/PART_007_AUDIT.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_007_FINAL_STATUS_SYNC.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_007_DOCUMENTATION_SYNC.md`
+
+## Exact next activity
+
+Perform **Part007 Tamil archival-ready checkpoint**.
+

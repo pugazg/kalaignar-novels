@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED — ACTIVE / PASS 1 IN PROGRESS.**
+**SUPPLIED / REGISTERED / AUTHORIZED — CANONICAL TAMIL VERIFIED / DOCUMENTATION SYNC COMPLETE.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **181–210**;
@@ -24,7 +24,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 ## Boundary state
 
 - incoming split boundary: **180→181 — GENUINE CONTINUATION / AUDITED**;
-- outgoing split boundary: **210→211 — source available; classification pending direct audit**;
+- outgoing split boundary: **210→211 — GENUINE CONTINUATION / AUDITED**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
 
@@ -42,21 +42,22 @@ The canonical `scan_page` remains the overall scan number **181–210**.
 
 ## Current gate
 
-Part007 is **ACTIVE / PASS 3 COMPLETE / PASS**.
+Part007 is **CANONICAL TAMIL VERIFIED / DOCUMENTATION SYNC COMPLETE**.
 
 Part001–Part006 are **FINAL CLOSED / FROZEN**.
 
+- canonical Part007 page records — **30/30 VERIFIED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Pass 1 — **COMPLETE / PASS**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED — 9 corrections**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED — 2 additional corrections**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 corrections**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
 - incoming 180→181 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 210→211 — **GENUINE CONTINUATION / AUDITED**
-- canonical Part007 page records — **30/30 — scans181–210**
-- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass-3 textual corrections — **0**
-- unresolved Pass-3 visual/structural questions — **0**
-- all Part007 page records remain **needs-review**
-- Part audit — **NOT STARTED / NEXT GATE**
 - Part008 canonical records created — **0**
 
-Exact next activity: **Part007 Part audit**.
+Exact next activity: **Part007 Tamil archival-ready checkpoint**.

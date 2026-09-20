@@ -45,3 +45,14 @@ The canonical `scan_page` remains the overall scan number **211–240**.
 Part 008 source split: **SUPPLIED / REGISTERED**.
 
 This Part waits behind the global active frontier. Its local page1 / global scan211 was inspected only as the adjacent witness for the audited **210→211 GENUINE CONTINUATION** boundary. No Part008 canonical page record has been created. Do not create page records here until processing reaches its overall scan range.
+
+## Upstream frontier state
+
+Part007 canonical Tamil and visual fidelity are **30/30 verified**, with Part audit, final metadata/status synchronization and documentation synchronization **closed**.
+
+Part008 remains **SUPPLIED / REGISTERED / BLOCKED**:
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**;
+- canonical Part008 records — **0**;
+- Part008 Pass1 — **NOT STARTED**.
+
+The maintained Part007 workflow next performs the **Tamil archival-ready checkpoint**; do not begin Part008 body capture yet.
