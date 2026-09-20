@@ -1,24 +1,20 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part006 release-readiness
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part006 release-ready synchronization
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 Part001–Part005 are **FINAL CLOSED / FROZEN**.
 
-Part006:
-- Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **7/7 VERIFIED / CLOSED**
-- E27–E33 — **7/7 SOURCE-CHECKED / COMPLETE**
-- glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED**
-- whole-Part bilingual review — **PASS / CLOSED**
-- unresolved blockers through bilingual review — **0**
+Part006 release/readiness is **PASS / CLOSED** with zero unresolved blockers.
 
 Exact activity:
-- create and verify `translations/en/PART_006_RELEASE_REPORT.md`;
-- verify canonical Tamil, assembled Tamil, maintained English, protected variants, source-PDF exclusion, structural locks and blocker accounting;
-- introduce no canonical Tamil, assembled Tamil or maintained English body edits;
-- preserve Part001–Part005 frozen state and Part007 leakage = 0.
+- create `works/payumpuli-pandaraka-vanniyan/PART_006_RELEASE_READY_SYNC.md`;
+- synchronize lifecycle/status/navigation/report controls only;
+- preserve canonical Tamil, assembled Tamil and maintained English body text unchanged;
+- preserve protected variants and 150→151 / scan156 / scan174 / 180→181 locks;
+- frozen Part001–Part005 body changes **0**;
+- Part007 canonical/body leakage **0**;
+- verify no post-release body drift.
 
-Close only as **PART006 RELEASE/READINESS — PASS / CLOSED**.
+Close as **PART006 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED**.
 
-Exact next gate: **Part006 release-ready synchronization**.
+Exact next gate: **Part006 final closure**.
