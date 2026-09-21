@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 batch s
 
 ## Source transcription
 
-மூடித் தாழிட்டாள் மார்த்தனி! ஆனால் கதவோரத்திலிருந்து உடனே அவனருகே திரும்பிவரவில்லை. முதல்விரவுக் கட்டிலறைக்குள் மணமகன் காத்திருக்கும்போது, கழுத்தைப் பிடித்துத் தள்ளி விடப்பட்டு - கதவையும் மூடிவிட்ட பிறகு - நாணிக் கொண்டு நிற்கும் மணமகளைப் போல தனது பாதப் பெருவிரல்களைக் குனிந்து நோக்கியவாறு நின்றாள்!
+மூடித் தாழிட்டாள் மார்த்தனி! ஆனால் கதவோரத்திலிருந்து உடனே அவனருகே திரும்பிவரவில்லை. முதலிரவுக் கட்டிலறைக்குள் மணமகன் காத்திருக்கும்போது, கழுத்தைப் பிடித்துத் தள்ளி விடப்பட்டு - கதவையும் மூடிவிட்ட பிறகு - நாணிக் கொண்டு நிற்கும் மணமகளைப் போல தனது பாதப் பெருவிரல்களைக் குனிந்து நோக்கியவாறு நின்றாள்!
 
 தணிகைமலை, மெல்ல எழுந்து அவளை நெருங்கிச் சென்றான். அவனது முரட்டுக் கரத்தால் அவளது முகவாய்க் கட்டையைத் தொட்டு “வெட்கமா?” என்றான். அவள் கண்களில் மயக்கத்தின் தள்ளாட்டம்! அவனையே பார்த்துக்கொண்டு நின்றாள்! அவனும் அவளை வெறித்து நோக்கினான்! அடுத்த கணம் மார்த்தனியின் ஆலிங்கனத்தில் அவன் மெய் மறந்தான் என்றாலும் - பண்டாரக வன்னியனின் மெய்க்காப்பாளன் என்பதை மறவாமல் சமாளித்தான். அணைத்துக் கொண்டவள், அவனை விடுவதாக இல்லை! அங்கிருந்த படுக்கையில் சாய்த்தாள்! அவனது உதடுகளை உண்ணத்தலைப்பட்டாள்! அவனோ, கண்களை மூடிக்கொண்டு அவளை இறுகக் கட்டிக் கொண்டான்!
 
@@ -52,4 +52,16 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending the later visual gate;
 - Pass 2B historical-glyph / word-boundary review remains the next gate.
+
+## Formal Part009 Pass 2B review
+
+- independent lexical / word-boundary / punctuation-sensitive and historical-glyph reread completed directly against the rendered Part009 source pixels;
+- source-specific spelling, compounds, joins, spacing and irregular forms were preserved without modernization;
+- correction applied: `முதல்விரவுக்` → **`முதலிரவுக்`** — source lexical / letter-sequence correction;
+- source-text / lexical / spacing / punctuation corrections: **1**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass 3.
 
