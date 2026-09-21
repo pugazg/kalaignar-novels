@@ -69,6 +69,29 @@ Documentation synchronization changes:
 The documentation-sync change set begins from pre-sync live-main head:
 - `ccd1ff44637544a7f9651e45000d51505167ad27`.
 
+
+
+## Live change-set verification
+
+Documentation synchronization was compared from pre-sync head:
+
+`ccd1ff44637544a7f9651e45000d51505167ad27`
+
+to synchronized head:
+
+`65c2d98dd94fc6514716d80f644c1d81ce5e9354`
+
+GitHub comparison confirms:
+- commits in documentation-sync range — **21**;
+- changed files — **21**;
+- canonical `pages/` files changed — **0**;
+- canonical Tamil/body changes — **0**;
+- Part008 page-status changes during documentation sync — **0**;
+- all changed paths are documentation, control, boundary, intake, page-map or next-chat files;
+- `PART_008_DOCUMENTATION_SYNC.md` is included in the synchronized control surface.
+
+This verifies the documentation-only mutation discipline.
+
 ## Result
 
 **PASS / COMPLETE**
