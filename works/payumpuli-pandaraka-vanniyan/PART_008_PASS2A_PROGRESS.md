@@ -133,3 +133,19 @@ Durable Pass2B record:
 Perform **Part008 Pass 3 — direct full-page visual / structural verification of scans211–240**.
 
 Do not begin Part audit in the same activity.
+
+## Post-Pass3 current state
+
+Part008 Pass 3 is **COMPLETE / PASS — 30/30 REVIEWED**.
+
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+- Part009 canonical records — **0**
+
+Durable Pass3 record:
+- `PART_008_PASS3_PROGRESS.md`
+
+## Exact next activity
+
+Perform **Part008 Part audit**.
