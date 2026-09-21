@@ -39,7 +39,7 @@ There was mischief not only in Thanigai's speech, but in the play of his eyes as
 
 only snacks! There may be any number of political matters to discuss—that is why I thought it would be better if the door were closed.”
 
-“Oh! Is that what you meant? What frightened me was this: my husband is mute as an owl! No child has been born to us! What joy can she possibly have living with him? Perhaps you thought, ‘Why not try a little...’”
+“Oh! Is that what you meant? What frightened me was this: my husband is a mute owl! No child has been born to us! What joy can she possibly have living with him? Perhaps you thought, ‘Why not try a little...’”
 
 “Shame! Shame! What a mad woman you are! Have I forgotten our ancestral saying: ‘Even if he is stone, he is the husband; even if he is grass, he is the man’? Wasn't Nalayini the woman who, in accordance with the wish of her leprosy-stricken husband, carried him all the way to a courtesan's house? You too must surely come in the line of such chaste wives!”
 
