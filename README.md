@@ -372,3 +372,38 @@ Exact next activity:
 **Part008 Part audit.**
 
 Reconcile the 30 canonical records, Pass1/Pass2A/Pass2B/Pass3 evidence, printed-page sequence, chapter/spread structure and both audited split boundaries. Do not promote metadata to `verified` until the audit passes. Keep Part009 canonical records at 0.
+
+## Part008 Part-audit checkpoint
+
+**PART008 PART AUDIT — PASS / COMPLETE.**
+
+- Part001–Part007 — **FINAL CLOSED / FROZEN**
+- Part008 canonical records — **30/30 — scans211–240**
+- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 2 source-supported corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 3 spacing / word-boundary corrections**
+- Pass2B historical-glyph corrections — **0**
+- Pass3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections**
+- formal Pass2A / Pass2B / Pass3 evidence — **30/30 / 30/30 / 30/30**
+- scan coverage — **continuous 211–240**
+- duplicate Part008 scan records — **0**
+- printed-page mapping — **PASS — 202–223, scan233=224–225, 226–232**
+- chapter openings — **213, 219, 226, 232, 238**
+- intentional blank lower fields — **212, 218, 225, 231, 237**
+- scan233 — **illustrated-two-page-spread / printed224–225**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- status promotions caused by audit — **0**
+- all Part008 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- Part009 canonical records — **0**
+- frozen Parts001–007 body mutations — **0**
+
+Durable audit:
+- `works/payumpuli-pandaraka-vanniyan/PART_008_AUDIT.md`
+
+Exact next activity:
+
+**Part008 final metadata/status synchronization.**
+
+Promote only `status` and `visual_fidelity` from `needs-review` to `verified` across all 30 Part008 page records. Do not change canonical Tamil body text, punctuation, structure, provenance, pagination, page type, section labels, correction decisions or boundary classifications.
