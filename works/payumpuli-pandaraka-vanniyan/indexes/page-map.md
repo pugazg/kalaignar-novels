@@ -507,48 +507,27 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 
 - Parts supplied / registered — **16 / 16**
 - physical scan coverage by split ranges — **477 / 477**
-- Part001–Part007 — **FINAL CLOSED / FROZEN**
-- active maintained Part — **Part008 / scans211–240**
-- Part008 canonical page records — **30/30 — scans211–240**
-- Part008 Pass1 text-complete — **30/30 — COMPLETE / PASS**
-- Part008 Pass1 pending — **0**
-- Part008 Pass2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part008 Pass2A source-text corrections — **2**
-- Part008 Pass2A unresolved textual questions — **0**
-- Part008 Pass2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part008 Pass2B source-text / lexical / spacing / punctuation corrections — **3**
-- Part008 Pass2B historical-glyph corrections — **0**
-- Part008 Pass2B unresolved questions — **0**
-- Part008 Pass3 — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part008 Pass3 textual corrections — **0**
-- Part008 Pass3 unresolved visual / structural questions — **0**
-- Part008 Part audit — **PASS / COMPLETE**
-- Part008 final metadata/status synchronization — **PASS / CLOSED**
-- Part008 Tamil textual status — **30/30 verified**
-- Part008 visual fidelity — **30/30 verified**
-- Part008 needs-review — **0**
-- Part008 documentation synchronization — **PASS / COMPLETE**
-- Part008 Tamil archival-ready — **PASS / CLOSED**
-- Part008 assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
-- Part008 assembled coverage — **30/30**
-- Part008 assembly canonical page mutations — **0**
-- Part008 archival-ready canonical/page-status changes — **0 / 0**
-- Part008 documentation-sync canonical page changes — **0**
-- completed Part008 visible printed-page coverage — **202–232**
-- Part008 incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
-- Part008 outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- Part001–Part008 — **FINAL CLOSED / FROZEN**
+- active maintained Part — **Part009 / scans241–270**
+- Part009 canonical page records — **10/30 — scans241–250**
+- Part009 Pass1 text-complete — **10/30 — BATCH 1 COMPLETE**
+- Part009 Pass1 pending — **20/30 — scans251–270**
+- Part009 visible printed-page coverage completed — **233–242**
+- Part009 textual status on completed records — **10 needs-review**
+- Part009 visual fidelity on completed records — **10 needs-review**
+- Part009 Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+- Part009 incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- Part009 outgoing 270→271 — **PENDING direct audit**
 - unresolved completed-batch Pass1 holds — **0**
-- Part009 canonical page records — **0**
-- frozen Part001–Part007 body mutations caused by Part008 Pass1 — **0**
+- frozen Part001–Part008 body mutations caused by Part009 Batch1 — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Begin **Part008 English translation planning/setup**.
+Begin **Part009 Pass1 scans251–260 / local pages11–20**.
 
-Use the verified canonical Tamil plus closed 6/6 Part008 assembled Tamil reading layer. Create planning/glossary/progress controls only; do not draft English prose in the setup gate. Part001–Part007 remain frozen. Part009 canonical page records remain 0.
-
+Do not begin Pass2A until Pass1 covers all 30 Part009 pages. Keep Parts001–008 frozen and leave outgoing 270→271 pending direct audit.
 ## Part008 English planning downstream state
 
 **PART008 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
