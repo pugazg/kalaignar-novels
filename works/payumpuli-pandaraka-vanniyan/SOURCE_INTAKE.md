@@ -779,3 +779,26 @@ Durable record:
 - `PART_009_PASS1_PROGRESS.md`
 
 Exact next activity: **Part009 Pass1 scans261–270 / local pages21–30**.
+
+## Part009 Pass1 final closure state
+
+**PART009 PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE.**
+
+- canonical records — **30/30 — scans241–270**
+- local pages — **1–30 complete**
+- printed pages directly observed — **233–262**
+- Batch1 — **241–250 COMPLETE**
+- Batch2 — **251–260 COMPLETE**
+- Batch3 — **261–270 COMPLETE**
+- all 30 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- unresolved Pass1 source-reading holds — **0**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- Pass2A — **AUTHORIZED / NEXT**
+
+Final-batch source-reading corrections before closure:
+- scan269 — `உன் நையாண்டி` → `உன்னையன்றி`
+- scan270 — `கண் ராவியைக்` → `கண் றாவியைக்`
+
+Exact next activity: **Part009 Pass2A — direct textual source-fidelity review of scans241–270**.
