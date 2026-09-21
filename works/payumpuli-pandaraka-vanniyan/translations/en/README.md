@@ -966,3 +966,34 @@ Part007 English is **FINAL CLOSED / FROZEN**.
 
 Exact next work frontier: **Part008 Pass1 scans211–220 / local pages1–10**. No Part008 English work begins before Part008 Tamil workflow reaches its maintained English gate.
 
+## Part008 English planning/setup checkpoint
+
+**PART008 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- batch collision check — **PASS**
+- reserved English batches — **E40–E45 / 6**
+- planned maintained English files — **6**
+- translated files — **0/6**
+- source-checked files — **0/6**
+- unresolved planning holds — **0**
+- English literary prose drafted in planning gate — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Part001–Part007 English body edits — **0**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- scan233 illustrated-spread handling — **LOCKED / printed224→225 reading order**
+- Part009 leakage — **0**
+
+Active Part008 English controls:
+- `translations/en/PART_008_TRANSLATION_PLAN.md`
+- `translations/en/PART_008_GLOSSARY.md`
+- `translations/en/PART_008_PROGRESS.md`
+
+Exact next gate:
+
+**E40 draft + source-check — section43 / scans211–212.**
+
+Do not begin E41 until E40 is **SOURCE-CHECKED / COMPLETE**.
