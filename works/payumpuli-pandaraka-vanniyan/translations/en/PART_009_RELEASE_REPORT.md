@@ -216,3 +216,28 @@ Exact next activity: activate Part010, directly audit **270→271**, then if the
 
 Do not begin Part010 Pass2A until full-Part Pass1 coverage is complete.
 
+## Part009 post-closure control synchronization / Part010 frontier
+
+**CONTROL SYNCHRONIZATION — PASS / CURRENT.**
+
+- **Part001–Part009 — FINAL CLOSED / FROZEN**
+- Part009 canonical Tamil — **30/30 verified / frozen**
+- Part009 assembled Tamil — **6/6 VERIFIED / frozen**
+- Part009 E46–E51 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- Part010 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part010 canonical records — **0**
+- incoming **270→271 — PENDING direct audit**
+- outgoing **300→301 — PENDING direct audit**
+- Part010 body/English leakage — **0**
+
+Durable synchronization record:
+- `../PART_009_POST_CLOSURE_CONTROL_SYNC.md`
+
+Exact next activity: directly audit **270→271**; if usable, begin **Part010 Pass1 scans271–280 / local pages1–10**. Do not reopen frozen Part009 merely to advance Part010.
+
