@@ -524,3 +524,37 @@ Exact next activity:
 **Part008 final metadata/status synchronization.**
 
 Promote only `status` and `visual_fidelity` from `needs-review` to `verified` across all 30 Part008 page records. Do not change canonical Tamil body text, punctuation, structure, provenance, pagination, page type, section labels, correction decisions or boundary classifications.
+
+## Part008 documentation synchronization checkpoint
+
+**PART008 DOCUMENTATION SYNCHRONIZATION — PASS / COMPLETE.**
+
+Authoritative Part008 state:
+- canonical scans — **211–240 / 30**
+- canonical records — **30/30**
+- Pass1 — **COMPLETE / PASS — 30/30**
+- Pass2A — **COMPLETE / PASS — 30/30 — 2 source-supported corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 — 3 additional spacing / word-boundary corrections**
+- Pass2B historical-glyph corrections — **0**
+- Pass3 — **COMPLETE / PASS — 30/30 — 0 textual corrections**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- partial / source-limited / needs-review — **0 / 0 / 0**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- page-map Part008 rows — **30/30 synchronized to verified**
+- documentation-sync canonical Part008 page changes — **0**
+- documentation-sync Tamil body changes — **0**
+- Part009 canonical records — **0**
+- Parts001–Part007 — **FINAL CLOSED / FROZEN**
+
+Durable documentation-sync record:
+- `works/payumpuli-pandaraka-vanniyan/PART_008_DOCUMENTATION_SYNC.md`
+
+Exact next activity:
+
+**Part008 Tamil archival-ready checkpoint.**
+
+Do not begin assembled Tamil construction until that checkpoint closes.
