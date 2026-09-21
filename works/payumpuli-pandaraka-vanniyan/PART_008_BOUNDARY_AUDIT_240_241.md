@@ -151,3 +151,31 @@ Durable validation:
 Exact next gate: **Part008 English translation planning/setup**.
 
 Create planning/glossary/progress controls only; do not draft English prose in the setup gate.
+
+## Part008 English planning downstream state
+
+**PART008 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- live batch-number collision check — **PASS**
+- prior closed frontier — **E39**
+- Part008 reserved sequence — **E40–E45**
+- planned maintained English files — **6**
+- translated files — **0/6**
+- source-checked files — **0/6**
+- unresolved planning holds — **0**
+- English literary prose drafted in planning — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Part001–Part007 English body edits — **0**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- Part009 English leakage — **0**
+
+Planning controls:
+- `translations/en/PART_008_TRANSLATION_PLAN.md`
+- `translations/en/PART_008_GLOSSARY.md`
+- `translations/en/PART_008_PROGRESS.md`
+
+Exact next gate: **E40 draft + source-check — section43 / scans211–212**.
+
+E41 remains blocked until E40 is **SOURCE-CHECKED / COMPLETE**.
