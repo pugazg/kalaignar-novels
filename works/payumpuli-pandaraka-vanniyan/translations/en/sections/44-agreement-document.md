@@ -49,7 +49,7 @@ Only he and she had been inside the room that night. If she was found there in t
 
 say that it was his doing? The king was shaken by fear that the blame would fall upon him. Pilimathala might normally have been a minister who had to submit to him, but because of what had now happened, the king himself was in a position where he had to submit to Pilimathala.
 
-“Uncle! By God, I did nothing! The happiness we shared last night made me feel that every grievance I had against her had been pushed aside. I will hide only one truth from no one—we both drank far beyond our limits. In that intoxication, her clothes must have caught fire from the candle in the bathing room.”
+“Uncle! By God, I did nothing! The happiness we shared last night made me feel that every grievance I had against her had been pushed aside. One truth I will not hide: we both drank far beyond our limits. In that intoxication, her clothes must have caught fire from the candle in the bathing room.”
 
 “I will cast aside shame and ask you—how did fire catch a body with no clothes on it?”
 
