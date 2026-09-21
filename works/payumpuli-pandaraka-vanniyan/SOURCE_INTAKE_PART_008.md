@@ -45,7 +45,7 @@ The canonical `scan_page` remains the overall scan number **211–240**.
 
 ## Current gate
 
-**PART008 PASS 2B — COMPLETE / PASS — 30/30 REVIEWED.**
+**PART008 PASS 3 — COMPLETE / PASS — 30/30 REVIEWED.**
 
 Upstream lock:
 - Part001–Part007 — **FINAL CLOSED / FROZEN**
@@ -65,7 +65,10 @@ Part008:
 - Pass2B source-text / lexical / spacing / punctuation corrections — **3**
 - Pass2B historical-glyph corrections — **0**
 - Pass2B unresolved lexical / historical-glyph questions — **0**
-- Pass3 — **NOT STARTED / NEXT GATE**
+- Pass3 reviewed — **30/30 — scans211–240**
+- Pass3 textual corrections — **0**
+- Pass3 unresolved visual / structural questions — **0**
+- Part audit — **NOT STARTED / NEXT GATE**
 - incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
 - Part009 canonical records — **0**
@@ -114,8 +117,18 @@ Pass2B corrections:
 Durable Pass2B record:
 - `PART_008_PASS2B_PROGRESS.md`
 
+Pass3 structural closure:
+- chapter openings confirmed at scans **213, 219, 226, 232, 238**;
+- substantial intentional blank lower fields confirmed at scans **212, 218, 225, 231, 237**;
+- scan233 confirmed as one physical **illustrated-two-page-spread / printed224–225**;
+- textual corrections — **0**;
+- unresolved visual / structural questions — **0**.
+
+Durable Pass3 record:
+- `PART_008_PASS3_PROGRESS.md`
+
 Exact next activity:
 
-**Part008 Pass3 — direct full-page visual / structural verification of scans211–240.**
+**Part008 Part audit.**
 
-Do not modify frozen Parts001–007 body layers and do not create Part009 canonical records.
+Do not modify frozen Parts001–007 body layers and do not create Part009 canonical records. Do not promote metadata to `verified` before the audit passes.
