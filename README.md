@@ -757,3 +757,32 @@ Exact next activity: **Part009 Pass3 — direct full-page visual / structural ve
 
 Do not begin Part audit in the same activity.
 
+## Part009 Pass3 closure checkpoint
+
+**PART009 PASS 3 — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- active Part — **Part009 / scans241–270**
+- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 3 corrections**
+- Pass3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- chapter openings confirmed — **244, 250, 256, 262, 267**
+- intentional chapter-closing blank lower fields confirmed — **243, 249, 255, 261, 266**
+- printed pagination — **233–262 continuous**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- Parts001–008 body mutations — **0**
+- Part audit — **NOT STARTED / NEXT**
+
+Durable Pass3 record:
+- `works/payumpuli-pandaraka-vanniyan/PART_009_PASS3_PROGRESS.md`
+
+Exact next activity: **Part009 Part audit**.
+
+Do not begin final metadata/status synchronization in the same activity.
+
