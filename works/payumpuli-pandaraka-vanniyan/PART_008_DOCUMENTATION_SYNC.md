@@ -103,3 +103,28 @@ Part008 documentation is synchronized to the verified 30/30 Tamil and visual sta
 Perform **Part008 Tamil archival-ready checkpoint**.
 
 Do not begin assembled Tamil construction until that checkpoint closes.
+
+## Post-archival-ready current state
+
+Part008 Tamil archival-ready checkpoint is **PASS / CLOSED**.
+
+- canonical Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
+- archival-ready canonical Tamil changes — **0**
+- archival-ready page-status changes — **0**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- Parts001–Part007 — **FINAL CLOSED / FROZEN**
+- Part009 canonical records — **0**
+
+Durable archival-ready record:
+- `PART_008_TAMIL_ARCHIVAL_READY.md`
+
+Exact next activity: **Part008 assembled Tamil construction + audit**.
+
+Do not begin English translation/review until assembled Tamil closes.
