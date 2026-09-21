@@ -27,7 +27,7 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 batch s
 
 “வந்தால் மட்டும் போதாது! நாம் இருவரும் கணவன் மனைவியாக வேறு வாழ வேண்டும்! அதை மறந்து விடாதே!”
 
-“மறக்கவில்லை பியசிலி! இருந்தாலும் எனக்குள்ள பயமெல்லாம் - என்றைக்காவது ஒரு நாள் நமது வேடம் கலைந்து விட்டால்?”
+“மறக்கவில்லை பியசிலி! இருந்தாலும் எனக்குள்ள பயமெல்லாம்- என்றைக்காவது ஒரு நாள் நமது வேடம் கலைந்து விட்டால்?”
 
 “நமது என்று உன்னையும் சேர்த்து ஏன் சொல்லுகிறாய்? இந்த ஜெயசீலன் வேடம் கலைந்துவிட்டால் என்று கேள்! அஞ்சாதே! அப்படியெல்லாம் ஏமாற்றக் கூடியவள் அல்ல உன் தோழி! ஏமாற்றக்கூடியவளாக இருந்தால் கண்டி மன்னனின் கத்தியிலேயே பூ சுற்றி விட்டு வருவாளா?”
 
@@ -43,3 +43,12 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 batch s
 - printed page 210 is directly visible; status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 219; பகுதி: 008; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: 210; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part008 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against the user-supplied Part008 source pixels;
+- source-text corrections: **1**;
+- source-text correction: `பயமெல்லாம் -` → `பயமெல்லாம்-`;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
