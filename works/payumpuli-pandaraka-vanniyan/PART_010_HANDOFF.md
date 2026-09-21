@@ -28,7 +28,7 @@ If the exact PDF is unavailable in a fresh chat, request this exact file before 
 ## Current repository-authoritative Part010 state
 
 - source intake — **SUPPLIED / REGISTERED**
-- lifecycle — **ACTIVE — PASS1 IN PROGRESS**
+- lifecycle — **ACTIVE — PASS1 COMPLETE / PASS; PASS2A NEXT**
 - canonical Part010 page records — **30/30**
 - completed global scans — **271–300**
 - completed local pages — **1–30**
