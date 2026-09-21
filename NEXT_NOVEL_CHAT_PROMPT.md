@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part009 E46 draft + source-check
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part009 whole-Part English glossary reconciliation
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 Parts **001–008 are FINAL CLOSED / FROZEN**, including maintained English.
 
-## Part009 Tamil state
+## Part009 closed Tamil state
 
 - canonical scans — **241–270 / 30**
 - canonical Tamil — **30/30 verified**
@@ -17,51 +17,48 @@ Parts **001–008 are FINAL CLOSED / FROZEN**, including maintained English.
 - incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 270→271 — **PENDING direct audit**
 
-## Part009 English planning state
+## Part009 English batch state
 
-**PART009 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS**
+**E46–E51 — SOURCE-CHECKED / COMPLETE**
 
-- existing English source-check batches — **E1–E45 contiguous**
-- Part009 reserved batches — **E46–E51**
-- translated files — **0/6**
-- source-checked files — **0/6**
-- unresolved planning holds — **0**
-- English literary prose drafted in setup — **0**
+- E46 — section49 / scans241–243
+- E47 — section50 / scans244–249
+- E48 — section51 / scans250–255
+- E49 — section52 / scans256–261
+- E50 — section53 / scans262–266
+- E51 — section54 / scans267–270
+- maintained English files — **6/6**
+- translated/source-checked — **6/6 / 6/6**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
+- frozen Part001–Part008 English body edits — **0**
+- Part010 leakage — **0**
 
 Active controls:
 - `translations/en/PART_009_TRANSLATION_PLAN.md`
 - `translations/en/PART_009_GLOSSARY.md`
 - `translations/en/PART_009_PROGRESS.md`
+- `translations/en/E46_SOURCE_CHECK.md` through `E51_SOURCE_CHECK.md`
 
 ## Exact activity
 
-Perform **E46 draft + source-check only**.
-
-Source unit:
-- Tamil assembled file — `sections/49-inaiyatra-inai-part009.md`
-- scans — **241–243**
-- chapter — continuation/close of `இணையற்ற இணை!`
-- planned English file — `translations/en/sections/49-an-unmatched-pair-part009.md`
-- inherited title — **An Unmatched Pair!**
-- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+Perform **Part009 whole-Part English glossary reconciliation across E46–E51**.
 
 Requirements:
-- read live Part009 plan/glossary/progress first;
-- use verified Part009 assembled Tamil plus canonical `pages/` as authority;
-- inspect the closed E45 English section/source-check as precedent for continuity and formatting, but do not copy/import frozen Part008 body into E46;
-- translate only scans241–243;
-- preserve narrator/character agency, order, rhetoric, dialogue, source-specific names/forms and non-rendering source-boundary provenance;
-- do not add historical/literary explanation absent from Tamil;
-- do not import Part008 English to complete the incoming sentence/episode;
-- source-check the full E46 draft against all three Tamil scans;
-- create/update `translations/en/E46_SOURCE_CHECK.md`;
-- update Part009 English plan/progress/glossary only as required by E46 findings;
-- canonical Tamil changes — **0** unless an independently proven upstream defect is discovered;
-- assembled Tamil changes — **0** unless an independently proven upstream defect is discovered;
-- frozen Part001–Part008 English body changes — **0**;
+- review all six maintained Part009 English files against the active Part009 glossary and verified Tamil authority;
+- reconcile recurring names, titles, place forms, political/source labels, literary/mythic references and source-sensitive transliterations consistently across E46–E51;
+- specifically recheck the source-form distinction `பசைக் கொடி` / `பச்சைக் கொடி`, Thanigai / Thanigaimala, Jeyaseelan, Marthani, Piyasili, Pandaraka Vanniyan / Pandarakan, Kuruvichchi forms, Kandy, Colombo and Mullaitheevu;
+- preserve source-visible variants where the Tamil differs; do not homogenize Tamil;
+- preserve E51's unfinished scan270 terminal fragment and **270→271 PENDING direct audit** status;
+- make English-only glossary-consistency edits only where source-supported;
+- record every English body edit, if any, in `translations/en/PART_009_GLOSSARY_RECONCILIATION.md`;
+- canonical Tamil edits — **0**;
+- assembled Tamil edits — **0**;
+- frozen Part001–Part008 English body edits — **0**;
 - Part010 leakage — **0**;
-- do not begin E47 in the same activity.
+- do not begin editorial review in the same activity.
 
-Stop after **E46 SOURCE-CHECKED / COMPLETE** with unresolved E46 holds **0** or explicitly documented.
+Stop after glossary reconciliation is formally **RECONCILED / PASS** with unresolved glossary holds **0** or explicitly documented.
 
-Expected next gate: **E47 draft + source-check — section50 / scans244–249**.
+Expected next gate: **Part009 English editorial review across all six maintained English files / scans241–270**.

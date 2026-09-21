@@ -1131,3 +1131,37 @@ Exact next gate: **E46 draft + source-check — section49 / scans241–243**.
 
 Do not begin E47 until E46 is **SOURCE-CHECKED / COMPLETE**.
 
+## Part009 English E46–E51 closure checkpoint
+
+**PART009 E46–E51 — SOURCE-CHECKED / COMPLETE.**
+
+- Parts001–008 English — **FINAL CLOSED / FROZEN**
+- Part009 canonical Tamil — **30/30 verified**
+- Part009 assembled Tamil — **6/6 VERIFIED / CLOSED**
+- maintained Part009 English files — **6/6**
+- translated files — **6/6**
+- source-checked files — **6/6**
+- source coverage — **scans241–270 / all 30 physical pages**
+- E46 — **241–243 SOURCE-CHECKED / COMPLETE**
+- E47 — **244–249 SOURCE-CHECKED / COMPLETE**
+- E48 — **250–255 SOURCE-CHECKED / COMPLETE**
+- E49 — **256–261 SOURCE-CHECKED / COMPLETE**
+- E50 — **262–266 SOURCE-CHECKED / COMPLETE**
+- E51 — **267–270 SOURCE-CHECKED / COMPLETE**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
+- frozen Part001–Part008 English body edits — **0**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit / unchanged**
+- Part010 Tamil/English leakage — **0**
+- E49 `பசைக் கொடி` / `பச்சைக் கொடி` source-form distinction — **PRESERVED**
+- E51 terminal scan270 fragment — **PRESERVED / NOT COMPLETED FROM PART010**
+
+Durable batch records:
+- `translations/en/E46_SOURCE_CHECK.md` through `translations/en/E51_SOURCE_CHECK.md`
+
+Exact next gate: **Part009 whole-Part English glossary reconciliation across E46–E51**.
+
+Do not begin English editorial review until glossary reconciliation closes.
+
