@@ -64,6 +64,7 @@ These are planning-stage forms and may be adjusted only through explicit English
 | `ராஜவிசுவாசம்` / `ராஜவிசுவாசி` | **royal loyalty / royal loyalist / loyal to the king** | sentence-sensitive; preserve speaker framing |
 | `ஒற்றர்` | **spy / agent** | inherited sentence-sensitive handling; do not add institutional intelligence terminology |
 | `படை` / `படை பலம்` | **army / military strength / forces** | context-sensitive; do not add organizational detail absent from source |
+| `துரை மகன்` | **English lord** in the scan240 North context | preserve the source referent to North; do not mechanically render `மகன்` as a separate son where the sentence continues the same subject |
 
 Political claims in dialogue or narration remain attributed exactly as the source frames them. Translation must not convert source rhetoric into project endorsement or correction.
 
