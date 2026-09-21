@@ -1863,3 +1863,27 @@ Do not begin editorial review until glossary reconciliation closes.
 Exact next gate: **Part008 final closure**.
 
 Do not begin Part009 canonical transcription until final closure passes.
+
+## Part008 final closure checkpoint
+
+**PART008 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- canonical Tamil — **30/30 verified / frozen**
+- assembled Tamil — **6/6 VERIFIED / frozen**
+- E40–E45 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary / editorial / bilingual / release / release-sync — **ALL CLOSED**
+- unresolved blockers — **0**
+- canonical / assembled / maintained English body drift after release/readiness — **0 / 0 / 0**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- Part009 canonical records — **0**
+
+Part001–Part008 are **FINAL CLOSED / FROZEN**.
+
+Part009 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**:
+- source range — **241–270**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- first Pass1 batch — **241–250 / local pages1–10**
+
+Exact next activity: **Part009 Pass1 scans241–250**.
