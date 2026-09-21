@@ -1442,3 +1442,26 @@ Durable handoff:
 
 If the exact Part010 PDF is unavailable in the new chat, request it before source-pixel work.
 
+
+
+## Part010 Pass1 Batch 1 / current frontier
+
+**PART010 PASS 1 — IN PROGRESS / 10/30 TEXT-COMPLETE.**
+
+- Parts001–009 — **FINAL CLOSED / FROZEN**
+- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
+- canonical Part010 records — **10/30 — scans271–280**
+- printed pages — **263–272**
+- chapter42 closes on scan272
+- chapter43 `சந்திரிகாவின் சூழ்ச்சி!` — scans273–278 / closes scan278
+- chapter44 `இன்றா, நாளையா? ஏன்?` — opens scan279 / continues beyond scan280
+- completed records — `needs-review / needs-review`
+- Pass1 pending — **scans281–300 / 20 pages**
+- outgoing **300→301 — PENDING direct audit**
+- Pass2A — **BLOCKED until Pass1 reaches 30/30**
+
+Durable controls:
+- `works/payumpuli-pandaraka-vanniyan/PART_010_BOUNDARY_AUDIT_270_271.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_010_PASS1_PROGRESS.md`
+
+Exact next activity: **Part010 Pass1 scans281–290 / local pages11–20**.
