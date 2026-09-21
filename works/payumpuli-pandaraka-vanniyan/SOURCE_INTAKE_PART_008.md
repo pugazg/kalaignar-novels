@@ -45,7 +45,7 @@ The canonical `scan_page` remains the overall scan number **211–240**.
 
 ## Current gate
 
-**PART008 PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE.**
+**PART008 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
 
 Upstream lock:
 - Part001–Part007 — **FINAL CLOSED / FROZEN**
@@ -58,6 +58,10 @@ Part008:
 - canonical page records — **30/30 — scans211–240**
 - Pass1 text-complete — **30/30**
 - Pass1 pending — **0**
+- Pass2A reviewed — **30/30 — scans211–240**
+- Pass2A source-text corrections — **2**
+- Pass2A unresolved textual questions — **0**
+- Pass2B — **NOT STARTED / NEXT GATE**
 - incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
 - Part009 canonical records — **0**
@@ -87,8 +91,17 @@ Batch 3 / scans231–240:
 - outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
 - Part009 canonical records — **0**
 
+Pass2A corrections:
+- scan217 / printed208 — `உமக்கு எப்போதும்` → `உமக்கெப்போதும்`;
+- scan219 / printed210 — `பயமெல்லாம் -` → `பயமெல்லாம்-`;
+- all other scans — **no Pass2A canonical source-text correction**;
+- unresolved textual questions — **0**.
+
+Durable Pass2A record:
+- `PART_008_PASS2A_PROGRESS.md`
+
 Exact next activity:
 
-**Part008 Pass2A — direct textual verification of scans211–240.**
+**Part008 Pass2B — independent lexical / historical-glyph verification of scans211–240.**
 
 Do not modify frozen Parts001–007 body layers and do not create Part009 canonical records.
