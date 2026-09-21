@@ -247,3 +247,30 @@ Durable handoff:
 
 If the exact Part010 PDF is unavailable in the new chat, request it before source-pixel work.
 
+
+
+## Part010 Pass1 Batch 1 checkpoint
+
+**PART010 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- Parts001–009 — **FINAL CLOSED / FROZEN**
+- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
+- durable boundary record — `PART_010_BOUNDARY_AUDIT_270_271.md`
+- canonical Part010 records — **10/30 — scans271–280**
+- local pages completed — **1–10**
+- printed pages completed — **263–272**
+- chapter42 `மறைந்த மாயம் என்னவோ?` — continues scans271–272 and closes on scan272
+- chapter43 `சந்திரிகாவின் சூழ்ச்சி!` — scans273–278; closes scan278 with substantial intentional blank lower field
+- chapter44 `இன்றா, நாளையா? ஏன்?` — opens scan279 and continues through scan280
+- all 10 completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- Pass1 pending — **20/30 — scans281–300**
+- outgoing **300→301 — PENDING direct audit**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+- frozen Parts001–009 body mutations — **0**
+
+Durable progress:
+- `PART_010_PASS1_PROGRESS.md`
+
+Exact next activity: **Part010 Pass1 scans281–290 / local pages11–20**.
+
+Do not begin Part010 Pass2A until Pass1 covers all **30/30** Part010 pages.
