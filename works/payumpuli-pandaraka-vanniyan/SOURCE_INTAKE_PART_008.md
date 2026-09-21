@@ -24,9 +24,12 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 ## Boundary state
 
 - incoming split boundary: **210→211 — GENUINE CONTINUATION / AUDITED**;
-- outgoing split boundary: **240→241 — source available; classification pending direct audit**;
+- outgoing split boundary: **240→241 — GENUINE CONTINUATION / AUDITED**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
+
+Durable outgoing-boundary record:
+- `PART_008_BOUNDARY_AUDIT_240_241.md`
 
 ## Canonical page provenance
 
