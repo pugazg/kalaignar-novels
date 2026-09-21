@@ -14,10 +14,10 @@ Parts001–Part008 English remain **FINAL CLOSED / FROZEN**.
 | **E49** | section52 — `பசைக் கொடி அடையாளம்!` | 256–261 | **SOURCE-CHECKED / COMPLETE** |
 | **E50** | section53 — `தணிகைமலை ஆவேசம்!` | 262–266 | **SOURCE-CHECKED / COMPLETE** |
 | **E51** | section54 — `மறைந்த மாயம் என்னவோ?` | 267–270 | **SOURCE-CHECKED / COMPLETE** |
-| Glossary reconciliation | Part009 whole-Part reconciliation | 241–270 | **NOT STARTED / NEXT GATE** |
-| Editorial | Part009 whole-Part English editorial review | 241–270 | **NOT STARTED** |
-| Bilingual | Part009 whole-Part bilingual review | 241–270 | **NOT STARTED** |
-| Release | Part009 release/readiness | 241–270 | **NOT STARTED** |
+| Glossary reconciliation | Part009 whole-Part reconciliation | 241–270 | **RECONCILED / PASS** |
+| Editorial | Part009 whole-Part English editorial review | 241–270 | **PASS / CLOSED** |
+| Bilingual | Part009 whole-Part bilingual review | 241–270 | **PASS / CLOSED** |
+| Release | Part009 release/readiness | 241–270 | **NOT STARTED / NEXT GATE** |
 | Release sync | Part009 release-ready synchronization | 241–270 | **NOT STARTED** |
 | Final closure | Part009 final closure | 241–270 | **NOT STARTED** |
 
@@ -149,4 +149,25 @@ Durable batch source-check records:
 Perform **Part009 whole-Part English glossary reconciliation across E46–E51**.
 
 Do not begin editorial review until glossary reconciliation closes.
+
+## Part009 English review downstream state
+
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- glossary-driven English body edits — **1**
+- English editorial review — **PASS / CLOSED**
+- additional editorial English-only changes — **0**
+- whole-Part bilingual review — **PASS / CLOSED**
+- further bilingual English-only corrections — **3**
+- unresolved glossary / editorial / bilingual holds — **0 / 0 / 0**
+- unresolved Tamil-fidelity holds — **0**
+- canonical / assembled Tamil edits caused by review — **0 / 0**
+- frozen Part001–Part008 English body edits — **0**
+- Part010 leakage — **0**
+
+Durable reports:
+- `PART_009_GLOSSARY_RECONCILIATION.md`
+- `PART_009_TRANSLATION_REVIEW.md`
+- `PART_009_BILINGUAL_REVIEW.md`
+
+Exact next gate: **Part009 release/readiness report**.
 
