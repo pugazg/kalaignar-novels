@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity and global mapping are durable; direct page audit remains pending.**
+**REGISTERED / AUDITED — split identity, global mapping and Part008 Part audit are complete.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **211–240**;
@@ -45,7 +45,7 @@ The canonical `scan_page` remains the overall scan number **211–240**.
 
 ## Current gate
 
-**PART008 PASS 3 — COMPLETE / PASS — 30/30 REVIEWED.**
+**PART008 PART AUDIT — PASS / COMPLETE.**
 
 Upstream lock:
 - Part001–Part007 — **FINAL CLOSED / FROZEN**
@@ -68,7 +68,8 @@ Part008:
 - Pass3 reviewed — **30/30 — scans211–240**
 - Pass3 textual corrections — **0**
 - Pass3 unresolved visual / structural questions — **0**
-- Part audit — **NOT STARTED / NEXT GATE**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
 - incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
 - Part009 canonical records — **0**
@@ -127,8 +128,11 @@ Pass3 structural closure:
 Durable Pass3 record:
 - `PART_008_PASS3_PROGRESS.md`
 
+Durable Part audit:
+- `PART_008_AUDIT.md`
+
 Exact next activity:
 
-**Part008 Part audit.**
+**Part008 final metadata/status synchronization.**
 
-Do not modify frozen Parts001–007 body layers and do not create Part009 canonical records. Do not promote metadata to `verified` before the audit passes.
+Promote only `status` and `visual_fidelity` from `needs-review` to `verified` across the 30 Part008 records. Do not change canonical Tamil body text, structure, provenance, pagination, page type, section labels or boundary classifications. Keep Part009 canonical records at 0.
