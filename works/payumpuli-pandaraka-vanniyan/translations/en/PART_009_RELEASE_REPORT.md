@@ -161,3 +161,30 @@ Part009 is ready for the dedicated release-ready synchronization gate.
 Perform **Part009 release-ready synchronization**.
 
 Do not perform final Part009 closure until release-ready synchronization closes.
+
+## Part009 release-ready synchronization checkpoint
+
+**PART009 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical Tamil — **30/30 verified / unchanged**
+- assembled Tamil — **6/6 VERIFIED / CLOSED / unchanged**
+- E46–E51 — **6/6 SOURCE-CHECKED / COMPLETE**
+- whole-Part glossary reconciliation — **RECONCILED / PASS — 1 English-only correction**
+- English editorial review — **PASS / CLOSED — 0 additional body changes**
+- whole-Part bilingual review — **PASS / CLOSED — 3 English-only corrections**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved Tamil / English / release blockers — **0**
+- canonical / assembled / maintained English body changes in synchronization — **0 / 0 / 0**
+- frozen Part001–Part008 body changes — **0**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit / unchanged**
+- Part010 canonical/body leakage — **0**
+
+Durable synchronization record:
+- `works/payumpuli-pandaraka-vanniyan/PART_009_RELEASE_READY_SYNC.md`
+
+Exact next gate: **Part009 final closure**.
+
+Do not begin Part010 canonical transcription until Part009 final closure passes.
+
