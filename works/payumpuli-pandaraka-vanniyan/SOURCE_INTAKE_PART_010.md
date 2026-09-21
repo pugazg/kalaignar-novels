@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity and global mapping are durable; direct page audit remains pending.**
+**REGISTERED — split identity and global mapping are durable; direct source work is active.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **271–300**;
@@ -23,8 +23,8 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Boundary state
 
-- incoming split boundary: **270→271 — source available; classification pending direct audit**;
-- outgoing split boundary: **300→301 — source available; classification pending direct audit**;
+- incoming split boundary: **270→271 — GENUINE CONTINUATION / AUDITED / PASS**;
+- outgoing split boundary: **300→301 — PENDING direct audit**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
 
@@ -44,9 +44,17 @@ The canonical `scan_page` remains the overall scan number **271–300**.
 
 Part 010 source split: **SUPPLIED / REGISTERED**.
 
-Lifecycle state: **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+Lifecycle state: **ACTIVE — PASS1 IN PROGRESS**.
 
-Part010 canonical page records remain **0**. The first required action is direct **270→271** adjacent-source audit; do not create canonical Part010 page records until that boundary witness is directly checked and Part010 Pass1 is explicitly begun.
+Part010 canonical page records: **10/30 — scans271–280 / local pages1–10 / printed263–272**.
+
+Incoming **270→271 = GENUINE CONTINUATION / AUDITED / PASS**.
+
+Pass1 pending: **scans281–300 / 20 pages**.
+
+Exact next activity: **Part010 Pass1 scans281–290 / local pages11–20**.
+
+Do not begin Pass2A until Pass1 covers all **30/30** Part010 pages.
 
 ## Part009 documentation synchronization checkpoint
 
