@@ -903,3 +903,32 @@ Exact next gate:
 **Part008 English translation planning/setup.**
 
 Create planning/glossary/progress controls only; do not draft English prose in the setup gate.
+
+## Part008 English planning/setup checkpoint
+
+**PART008 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- reserved batches — **E40–E45 / 6**
+- planned English files — **6**
+- translated/source-checked — **0/6 / 0/6**
+- unresolved planning holds — **0**
+- English literary prose drafted in planning — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Part001–Part007 English body edits — **0**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- Part009 English leakage — **0**
+
+Durable English planning controls:
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_008_TRANSLATION_PLAN.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_008_GLOSSARY.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_008_PROGRESS.md`
+
+Exact next gate:
+
+**E40 draft + source-check — scans211–212.**
+
+Do not begin E41 until E40 is **SOURCE-CHECKED / COMPLETE**.
