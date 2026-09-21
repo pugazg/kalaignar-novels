@@ -153,3 +153,34 @@ Perform **Part009 documentation synchronization**.
 That gate must reconcile the complete live documentation/control surface to the verified **30/30 textual + 30/30 visual** state, create `PART_009_DOCUMENTATION_SYNC.md`, verify a documentation-only change set with **0 canonical page changes**, and advance the next gate only after reconciliation closes.
 
 Do not begin the Part009 Tamil archival-ready checkpoint in this status-sync activity.
+
+## Part009 documentation synchronization checkpoint
+
+**PART009 DOCUMENTATION SYNCHRONIZATION — PASS / COMPLETE.**
+
+Authoritative Part009 state:
+- canonical scans — **241–270 / 30**
+- canonical records — **30/30**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- partial / source-limited / needs-review — **0 / 0 / 0**
+- correction ledger — **2 Pass1 baseline + 0 Pass2A + 3 Pass2B + 0 Pass3**
+- page-map Part009 rows — **30/30 verified**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- audited multipart boundaries — **8 / 15**
+- documentation-sync canonical Part009 page changes — **0**
+- documentation-sync Tamil body changes — **0**
+- Part010 canonical records — **0**
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+
+Durable documentation-sync record:
+- `works/payumpuli-pandaraka-vanniyan/PART_009_DOCUMENTATION_SYNC.md`
+
+Exact next activity: **Part009 Tamil archival-ready checkpoint**.
+
+Do not begin Part009 assembled Tamil construction until that checkpoint closes. Keep outgoing **270→271 PENDING direct audit** unless Part010 is directly checked.
+
