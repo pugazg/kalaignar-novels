@@ -1,6 +1,6 @@
 # Part 008 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING/SETUP — COMPLETE / ACTIVE FOR E40**
+Status: **E40–E45 SOURCE-CHECKED / ACTIVE FOR RECONCILIATION**
 
 This glossary is derived only from verified Part008 Tamil plus frozen earlier project-English choices where the **same Tamil source form** recurs.
 
@@ -137,3 +137,41 @@ Quoted or attributed claims remain attributed to the source speaker/narrator. Do
 **E40 draft + source-check — scans211–212.**
 
 Do not begin E41 until E40 is **SOURCE-CHECKED / COMPLETE**.
+
+## Post-source-check state
+
+E40–E45 are now **6/6 SOURCE-CHECKED / COMPLETE**.
+
+Source-check confirmed the maintained planned forms used across the six English files, including:
+- **Steady Handwriting!**
+- **Agreement Document**
+- **Whose Side Is God On!**
+- **They Came There!**
+- **The Letter That Came to Hand!**
+- **An Unmatched Pair!**
+- **Vikrama Rajasingan**
+- **Pilimathala**
+- **Piyasili**
+- **Jeyaseelan**
+- **Marthani**
+- **Thanigai**
+- **Kandy / Colombo / Mullaitheevu**
+- source-sensitive **British / royal loyalty / spy / proclamation** handling.
+
+Conservative source-facing handling retained:
+- `நெருப்புக் கோழி` → *neruppu-kkozhi* with only the source-supplied hide-the-head comparison;
+- `அம்ச தூளிகா மஞ்சம்` → *amsa-thoolika* bed, without unsupported external lexical expansion;
+- `குடுகுடுப்பைக்காரன்` disguise → *kudukuduppai* fortune-teller, without external ethnographic expansion.
+
+No canonical Tamil or assembled Tamil change was required by English source-check.
+
+Current source-check accounting:
+- English files checked — **6/6**
+- source-variant collapses detected during batch source-check — **0**
+- unresolved glossary holds carried from source-check — **0**
+- frozen Part001–Part007 English body edits — **0**
+- Part009 leakage — **0**
+
+## Exact next gate
+
+Perform **Part008 whole-Part English glossary reconciliation** across E40–E45.
