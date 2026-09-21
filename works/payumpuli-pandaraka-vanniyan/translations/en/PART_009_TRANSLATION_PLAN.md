@@ -95,7 +95,7 @@ Part009 contains **6 verified assembled Tamil files**:
 | **E47** | `50-narivaal-kunjam.md` | `sections/50-fox-tail-tuft.md` | 244–249 | **Fox-Tail Tuft!** |
 | **E48** | `51-thalaivanum-thalaiviyum.md` | `sections/51-the-leader-and-the-lady.md` | 250–255 | **The Leader and the Lady!** |
 | **E49** | `52-pasaik-kodi-adaiyaalam.md` | `sections/52-the-pasaik-kodi-sign.md` | 256–261 | **The Pasaik-Kodi Sign!** — deliberately preserves the source-title form pending source-check |
-| **E50** | `53-thanikaimalai-aavesam.md` | `sections/53-thanigaimala-is-fury.md` | 262–266 | **Thanigaimala's Fury!** — provisional source-facing transliteration |
+| **E50** | `53-thanikaimalai-aavesam.md` | `sections/53-thanigaimalas-fury.md` | 262–266 | **Thanigaimala's Fury!** — provisional source-facing transliteration |
 | **E51** | `54-maraindha-maayam-ennavo.md` | `sections/54-what-mystery-was-hidden.md` | 267–270 | **What Mystery Was Hidden?** — provisional source-facing rendering |
 
 Working title renderings may be refined only during explicit English source-check/editorial control. Tamil titles are never changed to enforce English style.
