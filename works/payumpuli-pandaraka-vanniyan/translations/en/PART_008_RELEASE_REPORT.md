@@ -154,3 +154,13 @@ Part008 is ready for the dedicated release-ready synchronization gate.
 Perform **Part008 release-ready synchronization**.
 
 Do not perform final Part008 closure until release-ready synchronization closes.
+
+## Part008 final closure downstream state
+
+**PART008 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Part001–Part008 — **FINAL CLOSED / FROZEN**
+- Part009 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part009 canonical records — **0**
+- next activity — **Part009 Pass1 scans241–250 / local pages1–10**
+- outgoing 270→271 — **PENDING direct audit**
