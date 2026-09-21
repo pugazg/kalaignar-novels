@@ -533,3 +533,40 @@ Exact next gate:
 **E40 draft + source-check — scans211–212.**
 
 Do not begin E41 until E40 is **SOURCE-CHECKED / COMPLETE**.
+
+## Part008 English E40–E45 closure checkpoint
+
+**PART008 E40–E45 — SOURCE-CHECKED / COMPLETE.**
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- maintained Part008 English files — **6/6**
+- translated files — **6/6**
+- source-checked files — **6/6**
+- source coverage — **scans211–240 / all 30 physical pages**
+- E40 — scans211–212 — **SOURCE-CHECKED / COMPLETE**
+- E41 — scans213–218 — **SOURCE-CHECKED / COMPLETE**
+- E42 — scans219–225 — **SOURCE-CHECKED / COMPLETE**
+- E43 — scans226–231 — **SOURCE-CHECKED / COMPLETE**
+- E44 — scans232–237 — **SOURCE-CHECKED / COMPLETE**
+- E45 — scans238–240 — **SOURCE-CHECKED / COMPLETE**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
+- frozen Part001–Part007 English body edits — **0**
+- incoming 210→211 boundary integrity — **PASS / AUDITED**
+- outgoing 240→241 boundary integrity — **PASS / AUDITED**
+- scan233 illustrated-spread reading order — **PASS**
+- Part009 leakage — **0**
+
+Durable English controls:
+- `translations/en/PART_008_TRANSLATION_PLAN.md`
+- `translations/en/PART_008_GLOSSARY.md`
+- `translations/en/PART_008_PROGRESS.md`
+- `translations/en/E40_SOURCE_CHECK.md` through `E45_SOURCE_CHECK.md`
+
+Exact next gate:
+
+**Part008 whole-Part English glossary reconciliation across E40–E45.**
+
+Do not begin editorial review until glossary reconciliation closes.
