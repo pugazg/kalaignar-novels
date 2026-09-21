@@ -266,3 +266,21 @@ Exact next activity: **Part009 Tamil archival-ready checkpoint**.
 
 Do not begin Part009 assembled Tamil construction until that checkpoint closes. Keep outgoing **270→271 PENDING direct audit** unless Part010 is directly checked.
 
+## Part009 archival-ready / assembly frontier
+
+**PART009 TAMIL ARCHIVAL-READY — PASS / CLOSED.**
+
+- canonical Part009 scans — **241–270 / 30**
+- canonical Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- documentation synchronization — **PASS / COMPLETE**
+- assembled Tamil — **NOT STARTED / NEXT GATE**
+- expected Part009 reading units — **6**
+- expected new section-order range — **49–54**, subject to live collision check
+- frozen Part008 terminal section `48-inaiyatra-inai.md` must not be modified
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- Part010 body must not be imported merely to complete chapter42
+
+Exact next activity: **Part009 assembled Tamil construction + audit**.
+
