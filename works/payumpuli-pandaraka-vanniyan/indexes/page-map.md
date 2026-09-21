@@ -256,16 +256,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 009 | 8 | 248 | 240 | `நரிவால் குஞ்சம்!` continuation | needs-review | `pages/0248-narivaal-kunjam.md` |
 | 009 | 9 | 249 | 241 | `நரிவால் குஞ்சம்!` close; substantial intentional blank lower field | needs-review | `pages/0249-narivaal-kunjam.md` |
 | 009 | 10 | 250 | 242 | chapter39 opening `தலைவனும் தலைவியும்!`; displayed number 39 | needs-review | `pages/0250-thalaivanum-thalaiviyum.md` |
-| 009 | 11 | 251 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 12 | 252 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 13 | 253 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 14 | 254 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 15 | 255 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 16 | 256 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 17 | 257 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 18 | 258 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 19 | 259 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 20 | 260 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 11 | 251 | 243 | `தலைவனும் தலைவியும்!` continuation from scan250 | needs-review | `pages/0251-thalaivanum-thalaiviyum.md` |
+| 009 | 12 | 252 | 244 | `தலைவனும் தலைவியும்!` continuation; ends `புரிந்து` | needs-review | `pages/0252-thalaivanum-thalaiviyum.md` |
+| 009 | 13 | 253 | 245 | `தலைவனும் தலைவியும்!` continuation; begins `கொண்டேன்` | needs-review | `pages/0253-thalaivanum-thalaiviyum.md` |
+| 009 | 14 | 254 | 246 | `தலைவனும் தலைவியும்!` continuation; ends `அங்கிருந்து` | needs-review | `pages/0254-thalaivanum-thalaiviyum.md` |
+| 009 | 15 | 255 | 247 | `தலைவனும் தலைவியும்!` close; substantial intentional blank lower field | needs-review | `pages/0255-thalaivanum-thalaiviyum.md` |
+| 009 | 16 | 256 | 248 | chapter40 opening `பசைக் கொடி அடையாளம்!`; displayed number 40 | needs-review | `pages/0256-pasaik-kodi-adaiyaalam.md` |
+| 009 | 17 | 257 | 249 | `பசைக் கொடி அடையாளம்!` continuation | needs-review | `pages/0257-pasaik-kodi-adaiyaalam.md` |
+| 009 | 18 | 258 | 250 | `பசைக் கொடி அடையாளம்!` continuation | needs-review | `pages/0258-pasaik-kodi-adaiyaalam.md` |
+| 009 | 19 | 259 | 251 | `பசைக் கொடி அடையாளம்!` continuation; ends `சென்றுகதவை` | needs-review | `pages/0259-pasaik-kodi-adaiyaalam.md` |
+| 009 | 20 | 260 | 252 | `பசைக் கொடி அடையாளம்!` continuation; begins `மூடித் தாழிட்டாள்` | needs-review | `pages/0260-pasaik-kodi-adaiyaalam.md` |
 | 009 | 21 | 261 | — | unclassified — direct visual audit pending | not-started | — |
 | 009 | 22 | 262 | — | unclassified — direct visual audit pending | not-started | — |
 | 009 | 23 | 263 | — | unclassified — direct visual audit pending | not-started | — |
@@ -509,12 +509,12 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - physical scan coverage by split ranges — **477 / 477**
 - Part001–Part008 — **FINAL CLOSED / FROZEN**
 - active maintained Part — **Part009 / scans241–270**
-- Part009 canonical page records — **10/30 — scans241–250**
-- Part009 Pass1 text-complete — **10/30 — BATCH 1 COMPLETE**
-- Part009 Pass1 pending — **20/30 — scans251–270**
-- Part009 visible printed-page coverage completed — **233–242**
-- Part009 textual status on completed records — **10 needs-review**
-- Part009 visual fidelity on completed records — **10 needs-review**
+- Part009 canonical page records — **20/30 — scans241–260**
+- Part009 Pass1 text-complete — **20/30 — BATCH 2 COMPLETE**
+- Part009 Pass1 pending — **10/30 — scans261–270**
+- Part009 visible printed-page coverage completed — **233–252**
+- Part009 textual status on completed records — **20 needs-review**
+- Part009 visual fidelity on completed records — **20 needs-review**
 - Part009 Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
 - Part009 incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
 - Part009 outgoing 270→271 — **PENDING direct audit**
@@ -525,7 +525,7 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Begin **Part009 Pass1 scans251–260 / local pages11–20**.
+Begin **Part009 Pass1 scans261–270 / local pages21–30**.
 
 Do not begin Pass2A until Pass1 covers all 30 Part009 pages. Keep Parts001–008 frozen and leave outgoing 270→271 pending direct audit.
 ## Part008 English planning downstream state
@@ -646,3 +646,21 @@ Durable progress:
 - `PART_009_PASS1_PROGRESS.md`
 
 Exact next activity: **Part009 Pass1 scans251–260 / local pages11–20**.
+
+## Part009 Pass1 Batch 2 checkpoint
+
+**PART009 PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE.**
+
+- canonical Part009 records — **20/30 — scans241–260**
+- newly completed batch — **scans251–260 / local pages11–20 / printed243–252**
+- chapter39 `தலைவனும் தலைவியும்!` — continues scans251–255 and closes on scan255
+- intentional blank lower field — **scan255**
+- chapter40 `பசைக் கொடி அடையாளம்!` — opens scan256 and continues through scan260
+- metadata-only correction — scan252 `work` field typo fixed; Tamil body unchanged
+- Pass1 pending — **10/30 — scans261–270**
+- all 20 completed records remain `needs-review` / `needs-review`
+- outgoing 270→271 — **PENDING direct audit**
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+
+Exact next activity: **Part009 Pass1 scans261–270 / local pages21–30**.
