@@ -728,3 +728,32 @@ Exact next activity: **Part009 Pass2B — historical-glyph / word-boundary fidel
 
 Do not begin Pass3 in the same activity.
 
+## Part009 Pass2B closure checkpoint
+
+**PART009 PASS 2B — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- active Part — **Part009 / scans241–270**
+- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass2B source-text / lexical / spacing / punctuation corrections — **3**
+- scan260 / printed252 — `முதல்விரவுக்` → **`முதலிரவுக்`**
+- scan267 / printed259 — `மனமார` → **`மனமாற`**
+- scan270 / printed262 — `புரளலாம் - பாதகம்` → **`புரளலாம் - -பாதகம்`**
+- Pass2B historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- Parts001–008 body mutations — **0**
+- Pass3 — **NOT STARTED / NEXT**
+
+Durable Pass2B record:
+- `works/payumpuli-pandaraka-vanniyan/PART_009_PASS2B_PROGRESS.md`
+
+Exact next activity: **Part009 Pass3 — direct full-page visual / structural verification of scans241–270**.
+
+Do not begin Part audit in the same activity.
+
