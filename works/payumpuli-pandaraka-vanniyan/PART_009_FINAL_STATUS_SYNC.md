@@ -212,3 +212,31 @@ Exact next activity: **Part009 assembled Tamil construction + audit**.
 
 Use only verified Part009 canonical `pages/` source-transcription blocks as textual authority. Do not begin English translation/review until assembled Tamil closes.
 
+## Part009 assembled Tamil closure checkpoint
+
+**PART009 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED.**
+
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- canonical Part009 Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- assembled canonical coverage — **30/30**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit-note leakage — **0**
+- canonical Part009 page mutations caused by assembly — **0**
+- frozen Part001–Part008 assembled-file mutations — **0**
+- Part010 body leakage — **0**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- Part010 canonical records — **0**
+- unresolved assembly blockers — **0**
+
+Durable validation:
+- `works/payumpuli-pandaraka-vanniyan/PART_009_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Exact next gate: **Part009 English translation planning/setup**.
+
+Create planning/glossary/progress controls only; perform a live English batch-number collision check before reserving the Part009 sequence; do not draft English prose in the setup gate.
+
