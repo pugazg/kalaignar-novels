@@ -643,3 +643,38 @@ Exact next activity:
 
 **Part008 Pass1 — scans221–230 / local pages11–20.**
 
+## Part008 Pass1 completion checkpoint
+
+**PART008 PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE.**
+
+- Part001–Part007 — **FINAL CLOSED / FROZEN**
+- active Part — **Part008 / scans211–240**
+- canonical Part008 page records — **30/30 — scans211–240**
+- Pass1 text-complete — **30/30**
+- unresolved Pass1 source-reading holds — **0**
+- visible printed-page coverage — **202–232**
+- scan233 — **illustrated two-page spread / printed224–225**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- Part009 canonical records — **0**
+- frozen Parts001–007 body mutations — **0**
+- Pass2A — **NOT STARTED / NEXT GATE**
+
+Batch3 / scans231–240:
+- scan231 closes chapter35 `வந்தார்கள் அங்கே!`
+- scans232–237 — chapter36 `கைக்கு வந்த கடிதம்!`
+- scan233 — illustrated two-page spread carrying printed pages 224–225
+- scan238 opens chapter37 `இணையற்ற இணை!`; scans238–240 continue it
+- scan240→241 — directly audited same-chapter continuation
+
+Durable controls:
+- `works/payumpuli-pandaraka-vanniyan/PART_008_PASS1_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_008_BOUNDARY_AUDIT_240_241.md`
+- `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_008.md`
+- `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
+
+Exact next activity:
+
+**Part008 Pass2A — direct textual verification of scans211–240.**
+
+Do not begin Pass2B in the same activity. Keep Part009 canonical records at 0.
