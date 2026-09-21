@@ -262,3 +262,31 @@ Exact next activity: **Part009 Tamil archival-ready checkpoint**.
 
 Do not begin Part009 assembled Tamil construction until that checkpoint closes. Keep outgoing **270→271 PENDING direct audit** unless Part010 is directly checked.
 
+## Part009 Tamil archival-ready checkpoint
+
+**PART009 TAMIL ARCHIVAL-READY — PASS / CLOSED.**
+
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- Part009 canonical records — **30/30 — scans241–270**
+- canonical Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- page-map Part009 rows — **30/30 verified**
+- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
+- archival-ready canonical Tamil changes — **0**
+- archival-ready page-status changes — **0**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit / deferred adjacent-Part witness**
+- Part010 canonical records — **0**
+- correction ledger remains **2 Pass1 baseline + 0 Pass2A + 3 Pass2B + 0 Pass3**
+
+Durable checkpoint:
+- `works/payumpuli-pandaraka-vanniyan/PART_009_TAMIL_ARCHIVAL_READY.md`
+
+Exact next activity: **Part009 assembled Tamil construction + audit**.
+
+Use only verified Part009 canonical `pages/` source-transcription blocks as textual authority. Do not begin English translation/review until assembled Tamil closes.
+
