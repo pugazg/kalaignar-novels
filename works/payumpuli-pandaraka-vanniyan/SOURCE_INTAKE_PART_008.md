@@ -45,7 +45,7 @@ The canonical `scan_page` remains the overall scan number **211–240**.
 
 ## Current gate
 
-**PART008 PART AUDIT — PASS / COMPLETE.**
+**PART008 DOCUMENTATION SYNCHRONIZATION — PASS / COMPLETE.**
 
 Upstream lock:
 - Part001–Part007 — **FINAL CLOSED / FROZEN**
@@ -69,7 +69,12 @@ Part008:
 - Pass3 textual corrections — **0**
 - Pass3 unresolved visual / structural questions — **0**
 - Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- partial / source-limited / needs-review — **0 / 0 / 0**
+- documentation synchronization — **PASS / COMPLETE**
+- documentation-sync canonical Part008 page changes — **0**
 - incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
 - Part009 canonical records — **0**
@@ -131,8 +136,14 @@ Durable Pass3 record:
 Durable Part audit:
 - `PART_008_AUDIT.md`
 
+Durable final-status record:
+- `PART_008_FINAL_STATUS_SYNC.md`
+
+Durable documentation-sync record:
+- `PART_008_DOCUMENTATION_SYNC.md`
+
 Exact next activity:
 
-**Part008 final metadata/status synchronization.**
+**Part008 Tamil archival-ready checkpoint.**
 
-Promote only `status` and `visual_fidelity` from `needs-review` to `verified` across the 30 Part008 records. Do not change canonical Tamil body text, structure, provenance, pagination, page type, section labels or boundary classifications. Keep Part009 canonical records at 0.
+Do not begin assembled Tamil construction until that checkpoint closes. Keep Parts001–Part007 frozen and Part009 canonical records at 0.
