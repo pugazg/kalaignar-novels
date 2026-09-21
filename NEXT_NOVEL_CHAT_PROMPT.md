@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part008 final metadata/status synchronization
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part008 documentation synchronization
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,78 +6,68 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 Parts **001–007 are FINAL CLOSED / FROZEN**.
 
-## Active Part008 state
+## Active Part008 verified state
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_008_pages_211-240.pdf`
-- local PDF pages — **30**
-- canonical overall scans — **211–240**
-- source size — **28,438,285 bytes**
-- SHA-256 — `f495ebc09a6a002d3dbd12385eb332133c2e6a3b746fb1e88adfff5277cc5ec9`
-- canonical Part008 records — **30/30 — scans211–240**
-- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 2 corrections**
-- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 3 spacing / word-boundary corrections**
+- source SHA-256 — `f495ebc09a6a002d3dbd12385eb332133c2e6a3b746fb1e88adfff5277cc5ec9`
+- canonical scans — **211–240 / 30**
+- canonical records — **30/30**
+- Pass1 — **COMPLETE / PASS — 30/30**
+- Pass2A — **COMPLETE / PASS — 30/30 — 2 corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 — 3 additional spacing / word-boundary corrections**
 - Pass2B historical-glyph corrections — **0**
-- Pass3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections**
+- Pass3 — **COMPLETE / PASS — 30/30 — 0 textual corrections**
 - Part audit — **PASS / COMPLETE**
-- unresolved Tamil / glyph / visual / structural questions — **0**
-- all Part008 records still carry `status: "needs-review"` / `visual_fidelity: "needs-review"`
-- visible printed-page coverage — **202–232**
-- scan233 — **illustrated-two-page-spread / printed224–225**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- partial / source-limited / needs-review — **0 / 0 / 0**
 - incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
 - Part009 canonical records — **0**
-- final metadata/status synchronization — **NOT STARTED / NEXT GATE**
 
-Correction ledger already closed:
-- Pass2A scan217 — `உமக்கு எப்போதும்` → `உமக்கெப்போதும்`
-- Pass2A scan219 — `பயமெல்லாம் -` → `பயமெல்லாம்-`
-- Pass2B scan231 — `தெரியவில்லையா?` → `தெரிய வில்லையா?`
-- Pass2B scan232 — `படிகளில்` → `படி களில்`
-- Pass2B scan238 — `ஆக்கப்பட்டவளுமான` → `ஆக்கப் பட்டவளுமான`
-
-Audit-confirmed structure:
-- chapter32 continuation/close — scans211–212
-- chapter33 — scans213–218
-- chapter34 — scans219–225
-- chapter35 — scans226–231
-- chapter36 — scans232–237
-- chapter37 — scans238–240, continuing into Part009
-- chapter openings — scans **213, 219, 226, 232, 238**
-- intentional blank lower fields — scans **212, 218, 225, 231, 237**
-- scan233 — one physical illustrated two-page spread / printed **224–225**
-
-Read first:
-1. `HANDOVER.md`
-2. `works/payumpuli-pandaraka-vanniyan/PAYUMPULI_ARCHIVAL_GUIDELINES.md`
-3. `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_008.md`
-4. `works/payumpuli-pandaraka-vanniyan/PART_008_PASS1_PROGRESS.md`
-5. `works/payumpuli-pandaraka-vanniyan/PART_008_PASS2A_PROGRESS.md`
-6. `works/payumpuli-pandaraka-vanniyan/PART_008_PASS2B_PROGRESS.md`
-7. `works/payumpuli-pandaraka-vanniyan/PART_008_PASS3_PROGRESS.md`
-8. `works/payumpuli-pandaraka-vanniyan/PART_008_AUDIT.md`
-9. `works/payumpuli-pandaraka-vanniyan/PART_007_BOUNDARY_AUDIT_210_211.md`
-10. `works/payumpuli-pandaraka-vanniyan/PART_008_BOUNDARY_AUDIT_240_241.md`
-11. `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
+Status-sync evidence:
+- `PART_008_AUDIT.md`
+- `PART_008_FINAL_STATUS_SYNC.md`
+- page-status synchronization commit — `c01474468ba39d482c58c571ce841cf9f5e2027c`
+- direct comparison confirms exactly **30 expected Part008 page files**, each with only the two status-field replacements.
 
 ## Exact activity
 
-Perform **Part008 final metadata/status synchronization**.
+Perform **Part008 documentation synchronization**.
+
+Reconcile the complete live Part008 documentation/control surface to the verified 30/30 state.
+
+At minimum inspect and synchronize:
+1. root `README.md`;
+2. `HANDOVER.md`;
+3. work `README.md`;
+4. `PAYUMPULI_ARCHIVAL_GUIDELINES.md`;
+5. `SOURCE_INTAKE.md`;
+6. `SOURCE_INTAKE_PART_008.md`;
+7. `SOURCE_INTAKE_PART_009.md` if present and relevant to the current frontier;
+8. `MULTIPART_SOURCE_POLICY.md`;
+9. work `audit.md`;
+10. Part008 Pass1 / Pass2A / Pass2B / Pass3 progress records;
+11. `PART_008_AUDIT.md`;
+12. `PART_008_FINAL_STATUS_SYNC.md`;
+13. incoming/outgoing boundary records;
+14. `indexes/page-map.md`;
+15. both next-chat controls.
 
 Requirements:
-- this is a **metadata-only gate**;
-- update all 30 Part008 canonical page records, scans211–240;
-- change only:
-  - `status: "needs-review"` → `status: "verified"`
-  - `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`
-- do **not** alter canonical Tamil body wording;
-- do **not** alter punctuation, word boundaries, historical-glyph decisions, paragraph/dialogue structure, `section`, `page_type`, printed-page mapping, source filename, scan/Part-page provenance, Pass2A/Pass2B/Pass3 evidence or boundary classifications;
-- after the 30 page updates, verify **30/30 status verified** and **30/30 visual_fidelity verified**;
-- verify the change set contains exactly the expected 30 Part008 page files and no unrelated canonical/body changes;
-- create durable `PART_008_FINAL_STATUS_SYNC.md`;
-- synchronize control documents to the verified 30/30 state;
-- keep Parts001–007 frozen;
-- keep Part009 canonical records at **0**;
-- do **not** begin documentation synchronization in the same activity.
+- current Part008 state must be uniformly **30/30 verified Tamil + 30/30 verified visual**;
+- replace stale current-frontier references to Pass3/Part audit/final-status pending or `needs-review`;
+- synchronize Part008 page-map rows from `needs-review` to **verified**;
+- preserve the correction ledger exactly: **2 Pass2A + 3 Pass2B + 0 Pass3**;
+- preserve chapter/spread structure and both boundary classifications;
+- Parts001–007 remain frozen;
+- Part009 canonical page records remain **0**;
+- documentation-sync canonical Part008 page changes must be **0**;
+- create durable `PART_008_DOCUMENTATION_SYNC.md`;
+- verify the documentation-only change set has **0 canonical page changes** and **0 Tamil body changes**;
+- advance the exact next gate only after documentation reconciliation passes.
 
-Stop after final metadata/status synchronization is **PASS / CLOSED** and the exact next gate is Part008 documentation synchronization.
+Expected next gate after successful documentation synchronization: **Part008 Tamil archival-ready checkpoint**.
+
+Do **not** begin that archival-ready checkpoint in the documentation-sync activity.
