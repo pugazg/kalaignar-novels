@@ -61,7 +61,7 @@ Pulling close the woman who had moved away, Thanigai embraced her and said, “S
 
 “And once she understood?”
 
-“She began to enjoy it!”
+“She began caressing him!”
 
 “What are you saying? Indra comes taking the form of her husband...”
 
