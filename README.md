@@ -622,3 +622,26 @@ Part009 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
 Exact next activity: **Part009 Pass1 — global scans241–250 / local pages1–10**.
 
 Keep outgoing **270→271** pending direct audit until an adjacent controlling source is available and explicitly checked.
+## Part009 Pass1 Batch 1 checkpoint
+
+**PART009 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- active Part — **Part009 / scans241–270**
+- canonical Part009 records — **10/30 — scans241–250**
+- Pass1 text-complete — **10/30**
+- Pass1 pending — **20/30 — scans251–270**
+- printed-page coverage completed — **233–242**
+- chapter37 `இணையற்ற இணை!` — continuation/close on scans241–243
+- chapter38 `நரிவால் குஞ்சம்!` — scans244–249
+- chapter39 `தலைவனும் தலைவியும்!` — opens scan250 and continues
+- intentional blank lower fields — **243, 249**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- completed records remain `needs-review` / `needs-review`
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+
+Durable progress:
+- `works/payumpuli-pandaraka-vanniyan/PART_009_PASS1_PROGRESS.md`
+
+Exact next activity: **Part009 Pass1 scans251–260 / local pages11–20**.
