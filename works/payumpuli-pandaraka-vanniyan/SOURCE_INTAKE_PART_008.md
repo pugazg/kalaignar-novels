@@ -42,7 +42,7 @@ The canonical `scan_page` remains the overall scan number **211–240**.
 
 ## Current gate
 
-**PART008 PASS 1 — IN PROGRESS — 10/30 TEXT-COMPLETE.**
+**PART008 PASS 1 — IN PROGRESS — 20/30 TEXT-COMPLETE.**
 
 Upstream lock:
 - Part001–Part007 — **FINAL CLOSED / FROZEN**
@@ -52,9 +52,9 @@ Part008:
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_008_pages_211-240.pdf`
 - local pages — **30**
 - canonical overall scans — **211–240**
-- canonical page records — **10/30 — scans211–220**
-- Pass1 text-complete — **10/30**
-- Pass1 pending — **scans221–240**
+- canonical page records — **20/30 — scans211–230**
+- Pass1 text-complete — **20/30**
+- Pass1 pending — **scans231–240**
 - incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 240→241 — **PENDING direct audit**
 - Part009 canonical records — **0**
@@ -67,8 +67,15 @@ Batch 1 / scans211–220:
 - chapter34 `கடவுள் யார் பக்கம்!` — begins scan219 and continues through scan220
 - unresolved Pass1 source-reading holds — **0**
 
+Batch 2 / scans221–230:
+- printed pages — **212–221**
+- chapter34 `கடவுள் யார் பக்கம்!` — scans221–225 continuation/close
+- scan225 preserves a substantial intentional blank lower field
+- chapter35 `வந்தார்கள் அங்கே!` — begins scan226 and continues through scan230
+- unresolved Pass1 source-reading holds — **0**
+
 Exact next activity:
 
-**Part008 Pass1 — global scans221–230 / local pages11–20.**
+**Part008 Pass1 — global scans231–240 / local pages21–30.**
 
 Do not begin Part008 Pass2A until Pass1 covers all 30 scans. Keep outgoing 240→241 pending until directly audited.
