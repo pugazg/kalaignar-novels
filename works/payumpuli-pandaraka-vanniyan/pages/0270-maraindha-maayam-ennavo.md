@@ -24,7 +24,7 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 batch s
 ## Pass 1 notes
 
 - continues scan269's open sentence with இடுக்குவழியே
-- source-visible கண்கொள்ளாக், முத்த மிட்டவாறு, இந்திரன்-சந்திரன், கண் ராவியைக், இப்போதுதானே, வாழலாம்-ஓய்யாரமாக, பாபச் சகதியில், நிறைவேற்றமுடியும், சகுவாசம், ஏற்பட வில்லையென்றால், காலந்தொட்டு, வளை வளை, விக்கிரம ராஜ சிங்காவுக்குக்கூட retained
+- source-visible கண்கொள்ளாக், முத்த மிட்டவாறு, இந்திரன்-சந்திரன், கண் றாவியைக், இப்போதுதானே, வாழலாம்-ஓய்யாரமாக, பாபச் சகதியில், நிறைவேற்றமுடியும், சகுவாசம், ஏற்பட வில்லையென்றால், காலந்தொட்டு, வளை வளை, விக்கிரம ராஜ சிங்காவுக்குக்கூட retained
 - printed page 262 directly visible
 - Part009 ends mid-sentence; chapter42 continues beyond the split
 - outgoing 270→271 remains PENDING direct audit because adjacent Part010 source is not available in the current source set
