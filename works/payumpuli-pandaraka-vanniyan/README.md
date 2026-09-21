@@ -1383,3 +1383,29 @@ Exact next activity: activate Part010, directly audit **270→271**, then if the
 
 Do not begin Part010 Pass2A until full-Part Pass1 coverage is complete.
 
+## Part009 post-closure control synchronization / Part010 frontier
+
+**CONTROL SYNCHRONIZATION — PASS / CURRENT.**
+
+Authoritative lifecycle state:
+- **Part001–Part009 — FINAL CLOSED / FROZEN**
+- Part009 final closure — **PASS / CLOSED / FROZEN**
+- Part010 source — **SUPPLIED / REGISTERED**
+- Part010 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part010 canonical records — **0**
+- incoming **270→271 — PENDING direct audit**
+- outgoing **300→301 — PENDING direct audit**
+- Part010 boundary audit performed in this synchronization — **0**
+- Part010 transcription performed in this synchronization — **0**
+- canonical Tamil body changes — **0**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- frozen Part001–Part009 body changes — **0**
+
+Durable synchronization record:
+- `works/payumpuli-pandaraka-vanniyan/PART_009_POST_CLOSURE_CONTROL_SYNC.md`
+
+Exact next activity: activate Part010 by directly auditing **270→271** from the two adjacent source scans; if the witness is usable, begin **Part010 Pass1 scans271–280 / local pages1–10**.
+
+Do not begin Part010 Pass2A until Pass1 covers all 30 Part010 pages. Keep **300→301 PENDING direct audit**.
+
