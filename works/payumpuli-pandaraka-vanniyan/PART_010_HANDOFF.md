@@ -23,122 +23,89 @@ Do not reopen or mutate their canonical Tamil, assembled Tamil or maintained Eng
 - parsed text layer — **no usable parsed text**
 - controlling representation — **direct rendered source pixels**
 
-The PDF was supplied in the preceding chat. A fresh chat may not automatically have the source bytes/rendered pages available. If unavailable, request the exact file again before any source-pixel audit/transcription.
+If the exact PDF is unavailable in a fresh chat, request this exact file before further direct-source transcription. Do not infer source text from memory.
 
-## Repository-authoritative Part010 state at handoff
+## Current repository-authoritative Part010 state
 
 - source intake — **SUPPLIED / REGISTERED**
-- lifecycle — **NEXT ACTIVE / AUTHORIZED**
-- canonical Part010 page records — **0**
-- incoming **270→271 — PENDING direct audit**
+- lifecycle — **ACTIVE — PASS1 IN PROGRESS**
+- canonical Part010 page records — **10/30**
+- completed global scans — **271–280**
+- completed local pages — **1–10**
+- printed-page coverage — **263–272**
+- completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **300→301 — PENDING direct audit**
-- Pass1 — **NOT STARTED**
-- Pass2A — **NOT STARTED**
+- Pass1 — **10/30 TEXT-COMPLETE**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
 - Pass2B — **NOT STARTED**
 - Pass3 — **NOT STARTED**
 - Part audit — **NOT STARTED**
 - assembled Tamil — **NOT STARTED**
 - English — **NOT STARTED**
 
-No Part010 canonical/page/body/English artifact was committed in the preceding chat.
+Durable controls:
+- `PART_010_BOUNDARY_AUDIT_270_271.md`
+- `PART_010_PASS1_PROGRESS.md`
+- `SOURCE_INTAKE_PART_010.md`
+- `indexes/page-map.md`
 
-## Important preceding-chat note
+## Closed incoming boundary
 
-The preceding chat loaded and rendered Part010 source pages for visual preparation. That visual preparation is **not** a durable completed repository gate.
+Direct source-pixel comparison established:
 
-Therefore:
-- do not mark **270→271** audited merely because images were viewed previously;
-- do not claim scans271–280 are transcribed merely because they were rendered;
-- do not create downstream status from prior-chat scratch work;
-- perform the direct audit/transcription again against source pixels available in the new chat and then commit the durable result.
+**270→271 = GENUINE CONTINUATION / AUDITED / PASS**
 
-## First required task
+Frozen scan270 / printed262 ends inside chapter42 at `... விக்கிரம ராஜ சிங்காவுக்குக்கூட என்மீது ஒரு`.
 
-Directly compare:
-- frozen Part009 scan270 / printed262; and
-- Part010 scan271 / local1 / printed263.
+Part010 scan271 / printed263 begins `மயக்கம்! தூதுகள் அனுப்பிப் பார்த்தார்! ...`.
 
-Record a durable **270→271 boundary audit**.
+No cross-Part wording was reconstructed in either canonical page.
 
-Do not reconstruct or normalize text across the split.
+## Completed Batch 1 structure
 
-## If incoming witness is usable
+- scans271–272 — chapter42 `மறைந்த மாயம் என்னவோ?` continuation / close;
+- scan273 — chapter43 `சந்திரிகாவின் சூழ்ச்சி!` opens, displayed number **43**;
+- scans273–278 — chapter43;
+- scan278 — chapter43 closes; substantial intentional blank lower field;
+- scan279 — chapter44 `இன்றா, நாளையா? ஏன்?` opens, displayed number **44**;
+- scan279 ends mid-dialogue at `நீ அவனைக் கொல்வதாக`;
+- scan280 resumes with `இருந்தாலும்` and chapter44 continues beyond the batch.
 
-Begin **Part010 Pass1 batch 1**:
-- global scans — **271–280**
-- local pages — **1–10**
-- expected printed pages — derive directly from source; do not assume without checking
-- canonical provenance:
-  - `part: 10`
-  - `part_page: 1–10`
-  - `scan_page: 271–280`
-  - exact Part010 `source_filename`.
+## Exact next activity
 
-Preserve:
-- exact Tamil spelling and punctuation;
-- historical / variant forms;
-- source-visible spacing and word boundaries;
-- paragraph/dialogue structure;
-- displayed chapter hierarchy;
-- printed pagination;
-- physical page-end fragments;
-- image-only / illustrated-page classification when present.
+Process **Part010 Pass1 scans281–290 / local pages11–20** from direct source pixels.
 
-Do not modernize, grammar-correct or silently normalize.
+For each canonical record preserve:
+- `part: 10`;
+- `part_page: 11–20`;
+- `scan_page: 281–290`;
+- exact Part010 `source_filename`;
+- exact printed-page values visible in source;
+- source spelling, punctuation, historical/variant forms, word boundaries, paragraph/dialogue structure, displayed hierarchy and physical page-end state.
 
-## Boundary discipline
+Do not modernize or silently normalize.
 
-Incoming:
-- **270→271 — PENDING direct audit** until a durable direct source-pixel check is recorded.
+Do not alter frozen Parts001–009.
 
-Outgoing:
-- **300→301 — PENDING direct audit**.
+Keep outgoing **300→301 PENDING direct audit**.
 
-Part011 wording must not be imported to complete Part010.
+After scans281–290, synchronize `PART_010_PASS1_PROGRESS.md`, `SOURCE_INTAKE_PART_010.md`, this handoff and `indexes/page-map.md` to the exact completed state.
 
 ## Stop condition
 
-For the next activity:
-1. close the direct 270→271 boundary audit;
-2. if usable, complete Part010 Pass1 **271–280 / local1–10**;
-3. synchronize controls to that exact completed state;
-4. stop.
+Stop after **scans281–290 / local pages11–20**.
 
-Do not begin Pass2A until full Part010 Pass1 coverage reaches **30/30**.
+Do not automatically process scans291–300 unless explicitly asked.
 
-## Read first in new chat
+Do not begin Pass2A until Pass1 reaches **30/30**.
 
-1. `PART_009_FINAL_CLOSURE.md`
-2. `PART_009_POST_CLOSURE_CONTROL_SYNC.md`
+## Read first in a new chat
+
+1. `PART_010_PASS1_PROGRESS.md`
+2. `PART_010_BOUNDARY_AUDIT_270_271.md`
 3. `PART_010_HANDOFF.md`
 4. `SOURCE_INTAKE_PART_010.md`
 5. `PAYUMPULI_ARCHIVAL_GUIDELINES.md`
 6. `MULTIPART_SOURCE_POLICY.md`
 7. `indexes/page-map.md`
-
-
-## Part010 Pass1 Batch 1 checkpoint
-
-**PART010 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
-
-- Parts001–009 — **FINAL CLOSED / FROZEN**
-- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
-- durable boundary record — `PART_010_BOUNDARY_AUDIT_270_271.md`
-- canonical Part010 records — **10/30 — scans271–280**
-- local pages completed — **1–10**
-- printed pages completed — **263–272**
-- chapter42 `மறைந்த மாயம் என்னவோ?` — continues scans271–272 and closes on scan272
-- chapter43 `சந்திரிகாவின் சூழ்ச்சி!` — scans273–278; closes scan278 with substantial intentional blank lower field
-- chapter44 `இன்றா, நாளையா? ஏன்?` — opens scan279 and continues through scan280
-- all 10 completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
-- Pass1 pending — **20/30 — scans281–300**
-- outgoing **300→301 — PENDING direct audit**
-- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
-- frozen Parts001–009 body mutations — **0**
-
-Durable progress:
-- `PART_010_PASS1_PROGRESS.md`
-
-Exact next activity: **Part010 Pass1 scans281–290 / local pages11–20**.
-
-Do not begin Part010 Pass2A until Pass1 covers all **30/30** Part010 pages.
