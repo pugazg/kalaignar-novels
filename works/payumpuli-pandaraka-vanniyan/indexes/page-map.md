@@ -216,36 +216,36 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 007 | 28 | 208 | 199 | `நிதானமான கையெழுத்து!` continuation; ends `கூறிக்கொண்டே` | verified | `pages/0208-nidhanamana-kaiyezhuthu.md` |
 | 007 | 29 | 209 | 200 | `நிதானமான கையெழுத்து!` continuation; ends `கொதிப்பேறக்` | verified | `pages/0209-nidhanamana-kaiyezhuthu.md` |
 | 007 | 30 | 210 | 201 | `நிதானமான கையெழுத்து!` continuation; outgoing 210→211 genuine continuation audited | verified | `pages/0210-nidhanamana-kaiyezhuthu.md` |
-| 008 | 1 | 211 | 202 | `நிதானமான கையெழுத்து!` continuation; incoming 210→211 genuine continuation audited | needs-review | `pages/0211-nidhanamana-kaiyezhuthu.md` |
-| 008 | 2 | 212 | 203 | `நிதானமான கையெழுத்து!` continuation / chapter32 close; large intentional blank lower field | needs-review | `pages/0212-nidhanamana-kaiyezhuthu.md` |
-| 008 | 3 | 213 | 204 | chapter33 opening `ஒப்பந்தப் பத்திரம்`; displayed number 33 | needs-review | `pages/0213-oppandha-paththiram.md` |
-| 008 | 4 | 214 | 205 | `ஒப்பந்தப் பத்திரம்` continuation; ends `எவரும்` | needs-review | `pages/0214-oppandha-paththiram.md` |
-| 008 | 5 | 215 | 206 | `ஒப்பந்தப் பத்திரம்` continuation | needs-review | `pages/0215-oppandha-paththiram.md` |
-| 008 | 6 | 216 | 207 | `ஒப்பந்தப் பத்திரம்` continuation; ends `அது இடம்` | needs-review | `pages/0216-oppandha-paththiram.md` |
-| 008 | 7 | 217 | 208 | `ஒப்பந்தப் பத்திரம்` continuation | needs-review | `pages/0217-oppandha-paththiram.md` |
-| 008 | 8 | 218 | 209 | `ஒப்பந்தப் பத்திரம்` close; large intentional blank lower field | needs-review | `pages/0218-oppandha-paththiram.md` |
-| 008 | 9 | 219 | 210 | chapter34 opening `கடவுள் யார் பக்கம்!`; displayed number 34; ends `வகுக்கும்` | needs-review | `pages/0219-kadavul-yaar-pakkam.md` |
-| 008 | 10 | 220 | 211 | `கடவுள் யார் பக்கம்!` continuation; ends inside speech at `எதிர்க்கிறான்` | needs-review | `pages/0220-kadavul-yaar-pakkam.md` |
-| 008 | 11 | 221 | 212 | `கடவுள் யார் பக்கம்!` continuation; scan220→221 continuation; ends `அப்படியொன்றும்` | needs-review | `pages/0221-kadavul-yaar-pakkam.md` |
-| 008 | 12 | 222 | 213 | `கடவுள் யார் பக்கம்!` continuation; begins `பெரிய ராஜ்யம் இல்லை!` | needs-review | `pages/0222-kadavul-yaar-pakkam.md` |
-| 008 | 13 | 223 | 214 | `கடவுள் யார் பக்கம்!` continuation; ends `அவர்கள் இருவரும்` | needs-review | `pages/0223-kadavul-yaar-pakkam.md` |
-| 008 | 14 | 224 | 215 | `கடவுள் யார் பக்கம்!` continuation; ends `என்று சிரித்துக் கொண்டே` | needs-review | `pages/0224-kadavul-yaar-pakkam.md` |
-| 008 | 15 | 225 | 216 | `கடவுள் யார் பக்கம்!` continuation / chapter34 close; large intentional blank lower field | needs-review | `pages/0225-kadavul-yaar-pakkam.md` |
-| 008 | 16 | 226 | 217 | chapter35 opening `வந்தார்கள் அங்கே!`; displayed number 35 | needs-review | `pages/0226-vandhaargal-ange.md` |
-| 008 | 17 | 227 | 218 | `வந்தார்கள் அங்கே!` continuation | needs-review | `pages/0227-vandhaargal-ange.md` |
-| 008 | 18 | 228 | 219 | `வந்தார்கள் அங்கே!` continuation | needs-review | `pages/0228-vandhaargal-ange.md` |
-| 008 | 19 | 229 | 220 | `வந்தார்கள் அங்கே!` continuation | needs-review | `pages/0229-vandhaargal-ange.md` |
-| 008 | 20 | 230 | 221 | `வந்தார்கள் அங்கே!` continuation; ends `அதற்குள்` | needs-review | `pages/0230-vandhaargal-ange.md` |
-| 008 | 21 | 231 | 222 | `வந்தார்கள் அங்கே!` continuation / chapter35 close; large intentional blank lower field | needs-review | `pages/0231-vandhaargal-ange.md` |
-| 008 | 22 | 232 | 223 | chapter36 opening `கைக்கு வந்த கடிதம்!`; displayed number 36; ends `வெகுளித் தனமாகக்` | needs-review | `pages/0232-kaikku-vandha-kaditham.md` |
-| 008 | 23 | 233 | 224–225 | illustrated two-page spread; chapter36 continuation; upper colour illustration; printed225 ends `தளகர்த்தர்களும்` | needs-review | `pages/0233-kaikku-vandha-kaditham.md` |
-| 008 | 24 | 234 | 226 | `கைக்கு வந்த கடிதம்!` continuation; begins `தவித்திடுவர்!` | needs-review | `pages/0234-kaikku-vandha-kaditham.md` |
-| 008 | 25 | 235 | 227 | `கைக்கு வந்த கடிதம்!` continuation | needs-review | `pages/0235-kaikku-vandha-kaditham.md` |
-| 008 | 26 | 236 | 228 | `கைக்கு வந்த கடிதம்!` continuation; ends `அதையும்` | needs-review | `pages/0236-kaikku-vandha-kaditham.md` |
-| 008 | 27 | 237 | 229 | `கைக்கு வந்த கடிதம்!` continuation / chapter36 close; large intentional blank lower field | needs-review | `pages/0237-kaikku-vandha-kaditham.md` |
-| 008 | 28 | 238 | 230 | chapter37 opening `இணையற்ற இணை!`; displayed number 37 | needs-review | `pages/0238-inaiyatra-inai.md` |
-| 008 | 29 | 239 | 231 | `இணையற்ற இணை!` continuation | needs-review | `pages/0239-inaiyatra-inai.md` |
-| 008 | 30 | 240 | 232 | `இணையற்ற இணை!` continuation; outgoing 240→241 genuine continuation audited | needs-review | `pages/0240-inaiyatra-inai.md` |
+| 008 | 1 | 211 | 202 | `நிதானமான கையெழுத்து!` continuation; incoming 210→211 genuine continuation audited | verified | `pages/0211-nidhanamana-kaiyezhuthu.md` |
+| 008 | 2 | 212 | 203 | `நிதானமான கையெழுத்து!` continuation / chapter32 close; large intentional blank lower field | verified | `pages/0212-nidhanamana-kaiyezhuthu.md` |
+| 008 | 3 | 213 | 204 | chapter33 opening `ஒப்பந்தப் பத்திரம்`; displayed number 33 | verified | `pages/0213-oppandha-paththiram.md` |
+| 008 | 4 | 214 | 205 | `ஒப்பந்தப் பத்திரம்` continuation; ends `எவரும்` | verified | `pages/0214-oppandha-paththiram.md` |
+| 008 | 5 | 215 | 206 | `ஒப்பந்தப் பத்திரம்` continuation | verified | `pages/0215-oppandha-paththiram.md` |
+| 008 | 6 | 216 | 207 | `ஒப்பந்தப் பத்திரம்` continuation; ends `அது இடம்` | verified | `pages/0216-oppandha-paththiram.md` |
+| 008 | 7 | 217 | 208 | `ஒப்பந்தப் பத்திரம்` continuation | verified | `pages/0217-oppandha-paththiram.md` |
+| 008 | 8 | 218 | 209 | `ஒப்பந்தப் பத்திரம்` close; large intentional blank lower field | verified | `pages/0218-oppandha-paththiram.md` |
+| 008 | 9 | 219 | 210 | chapter34 opening `கடவுள் யார் பக்கம்!`; displayed number 34; ends `வகுக்கும்` | verified | `pages/0219-kadavul-yaar-pakkam.md` |
+| 008 | 10 | 220 | 211 | `கடவுள் யார் பக்கம்!` continuation; ends inside speech at `எதிர்க்கிறான்` | verified | `pages/0220-kadavul-yaar-pakkam.md` |
+| 008 | 11 | 221 | 212 | `கடவுள் யார் பக்கம்!` continuation; scan220→221 continuation; ends `அப்படியொன்றும்` | verified | `pages/0221-kadavul-yaar-pakkam.md` |
+| 008 | 12 | 222 | 213 | `கடவுள் யார் பக்கம்!` continuation; begins `பெரிய ராஜ்யம் இல்லை!` | verified | `pages/0222-kadavul-yaar-pakkam.md` |
+| 008 | 13 | 223 | 214 | `கடவுள் யார் பக்கம்!` continuation; ends `அவர்கள் இருவரும்` | verified | `pages/0223-kadavul-yaar-pakkam.md` |
+| 008 | 14 | 224 | 215 | `கடவுள் யார் பக்கம்!` continuation; ends `என்று சிரித்துக் கொண்டே` | verified | `pages/0224-kadavul-yaar-pakkam.md` |
+| 008 | 15 | 225 | 216 | `கடவுள் யார் பக்கம்!` continuation / chapter34 close; large intentional blank lower field | verified | `pages/0225-kadavul-yaar-pakkam.md` |
+| 008 | 16 | 226 | 217 | chapter35 opening `வந்தார்கள் அங்கே!`; displayed number 35 | verified | `pages/0226-vandhaargal-ange.md` |
+| 008 | 17 | 227 | 218 | `வந்தார்கள் அங்கே!` continuation | verified | `pages/0227-vandhaargal-ange.md` |
+| 008 | 18 | 228 | 219 | `வந்தார்கள் அங்கே!` continuation | verified | `pages/0228-vandhaargal-ange.md` |
+| 008 | 19 | 229 | 220 | `வந்தார்கள் அங்கே!` continuation | verified | `pages/0229-vandhaargal-ange.md` |
+| 008 | 20 | 230 | 221 | `வந்தார்கள் அங்கே!` continuation; ends `அதற்குள்` | verified | `pages/0230-vandhaargal-ange.md` |
+| 008 | 21 | 231 | 222 | `வந்தார்கள் அங்கே!` continuation / chapter35 close; large intentional blank lower field | verified | `pages/0231-vandhaargal-ange.md` |
+| 008 | 22 | 232 | 223 | chapter36 opening `கைக்கு வந்த கடிதம்!`; displayed number 36; ends `வெகுளித் தனமாகக்` | verified | `pages/0232-kaikku-vandha-kaditham.md` |
+| 008 | 23 | 233 | 224–225 | illustrated two-page spread; chapter36 continuation; upper colour illustration; printed225 ends `தளகர்த்தர்களும்` | verified | `pages/0233-kaikku-vandha-kaditham.md` |
+| 008 | 24 | 234 | 226 | `கைக்கு வந்த கடிதம்!` continuation; begins `தவித்திடுவர்!` | verified | `pages/0234-kaikku-vandha-kaditham.md` |
+| 008 | 25 | 235 | 227 | `கைக்கு வந்த கடிதம்!` continuation | verified | `pages/0235-kaikku-vandha-kaditham.md` |
+| 008 | 26 | 236 | 228 | `கைக்கு வந்த கடிதம்!` continuation; ends `அதையும்` | verified | `pages/0236-kaikku-vandha-kaditham.md` |
+| 008 | 27 | 237 | 229 | `கைக்கு வந்த கடிதம்!` continuation / chapter36 close; large intentional blank lower field | verified | `pages/0237-kaikku-vandha-kaditham.md` |
+| 008 | 28 | 238 | 230 | chapter37 opening `இணையற்ற இணை!`; displayed number 37 | verified | `pages/0238-inaiyatra-inai.md` |
+| 008 | 29 | 239 | 231 | `இணையற்ற இணை!` continuation | verified | `pages/0239-inaiyatra-inai.md` |
+| 008 | 30 | 240 | 232 | `இணையற்ற இணை!` continuation; outgoing 240→241 genuine continuation audited | verified | `pages/0240-inaiyatra-inai.md` |
 | 009 | 1 | 241 | — | unclassified — direct visual audit pending | not-started | — |
 | 009 | 2 | 242 | — | unclassified — direct visual audit pending | not-started | — |
 | 009 | 3 | 243 | — | unclassified — direct visual audit pending | not-started | — |
@@ -523,7 +523,12 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part008 Pass3 textual corrections — **0**
 - Part008 Pass3 unresolved visual / structural questions — **0**
 - Part008 Part audit — **PASS / COMPLETE**
-- Part008 final metadata/status synchronization — **NOT STARTED / NEXT GATE**
+- Part008 final metadata/status synchronization — **PASS / CLOSED**
+- Part008 Tamil textual status — **30/30 verified**
+- Part008 visual fidelity — **30/30 verified**
+- Part008 needs-review — **0**
+- Part008 documentation synchronization — **PASS / COMPLETE**
+- Part008 documentation-sync canonical page changes — **0**
 - completed Part008 visible printed-page coverage — **202–232**
 - Part008 incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
 - Part008 outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
@@ -535,6 +540,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Begin **Part008 final metadata/status synchronization**.
+Begin **Part008 Tamil archival-ready checkpoint**.
 
-Promote only `status` and `visual_fidelity` from `needs-review` to `verified` across all 30 Part008 canonical records, based on the closed Part audit. Part001–Part007 remain frozen. Part009 canonical page records remain 0.
+Part008 is 30/30 verified for Tamil and visual fidelity and documentation synchronization is complete. Do not begin assembled Tamil construction until the archival-ready checkpoint closes. Part001–Part007 remain frozen. Part009 canonical page records remain 0.
