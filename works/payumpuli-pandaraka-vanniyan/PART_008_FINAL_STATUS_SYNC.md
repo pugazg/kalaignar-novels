@@ -208,3 +208,13 @@ Durable validation:
 Exact next gate: **Part008 English translation planning/setup**.
 
 Create planning/glossary/progress controls only; do not draft English prose in the setup gate.
+
+## Part008 final closure downstream state
+
+**PART008 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Part001–Part008 — **FINAL CLOSED / FROZEN**
+- Part009 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part009 canonical records — **0**
+- next activity — **Part009 Pass1 scans241–250 / local pages1–10**
+- outgoing 270→271 — **PENDING direct audit**
