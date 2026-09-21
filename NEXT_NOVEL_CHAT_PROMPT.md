@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part008 Pass2B scans211–240
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part008 Pass3 scans211–240
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -15,20 +15,27 @@ Parts **001–007 are FINAL CLOSED / FROZEN**.
 - SHA-256 — `f495ebc09a6a002d3dbd12385eb332133c2e6a3b746fb1e88adfff5277cc5ec9`
 - canonical Part008 records — **30/30 — scans211–240**
 - Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass2A source-text corrections — **2**
-- Pass2A unresolved textual questions — **0**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 2 corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass2B source-text / lexical / spacing / punctuation corrections — **3**
+- Pass2B historical-glyph corrections — **0**
+- Pass2B unresolved lexical / historical-glyph questions — **0**
 - all Part008 records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - visible printed-page coverage — **202–232**
 - scan233 — **illustrated-two-page-spread / printed224–225**
 - incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
 - Part009 canonical records — **0**
-- Pass2B — **NOT STARTED / NEXT GATE**
+- Pass3 — **NOT STARTED / NEXT GATE**
 
 Pass2A corrections already applied:
 - scan217 / printed208 — `உமக்கு எப்போதும்` → `உமக்கெப்போதும்`
 - scan219 / printed210 — `பயமெல்லாம் -` → `பயமெல்லாம்-`
+
+Pass2B corrections already applied:
+- scan231 / printed222 — `தெரியவில்லையா?` → `தெரிய வில்லையா?`
+- scan232 / printed223 — `படிகளில்` → `படி களில்`
+- scan238 / printed230 — `ஆக்கப்பட்டவளுமான` → `ஆக்கப் பட்டவளுமான`
 
 Part008 structure:
 - scans211–212 — chapter32 `நிதானமான கையெழுத்து!` continuation/close
@@ -44,26 +51,26 @@ Read first:
 3. `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_008.md`
 4. `works/payumpuli-pandaraka-vanniyan/PART_008_PASS1_PROGRESS.md`
 5. `works/payumpuli-pandaraka-vanniyan/PART_008_PASS2A_PROGRESS.md`
-6. `works/payumpuli-pandaraka-vanniyan/PART_007_BOUNDARY_AUDIT_210_211.md`
-7. `works/payumpuli-pandaraka-vanniyan/PART_008_BOUNDARY_AUDIT_240_241.md`
-8. `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
+6. `works/payumpuli-pandaraka-vanniyan/PART_008_PASS2B_PROGRESS.md`
+7. `works/payumpuli-pandaraka-vanniyan/PART_007_BOUNDARY_AUDIT_210_211.md`
+8. `works/payumpuli-pandaraka-vanniyan/PART_008_BOUNDARY_AUDIT_240_241.md`
+9. `works/payumpuli-pandaraka-vanniyan/indexes/page-map.md`
 
 ## Exact activity
 
-Perform **Part008 Pass2B — independent lexical / historical-glyph verification of all canonical scans211–240 / local pages1–30**.
+Perform **Part008 Pass3 — direct full-page visual / structural verification of all canonical scans211–240 / local pages1–30**.
 
 Requirements:
-- use only the supplied Part008 source pixels as textual authority;
-- independently reread every canonical page for lexical identity, word boundaries, punctuation-sensitive lexical joins, source-specific spellings and historical/variant glyph identity;
-- do not merely inherit Pass2A readings: re-confirm them against source pixels;
-- preserve source-visible irregular spacing, joins, compounds and punctuation without modernization or grammatical correction;
-- apply only directly source-supported corrections and record every correction with scan number and before→after reading;
-- explicitly distinguish lexical/spacing/punctuation corrections from historical-glyph corrections;
-- preserve scan233 as one physical **illustrated-two-page-spread** carrying printed pages224–225;
-- keep all Part008 records `status: "needs-review"` / `visual_fidelity: "needs-review"` after Pass2B;
+- use only the supplied Part008 source pixels as the visual authority;
+- inspect every physical scan as a whole page, checking page type, chapter-opening hierarchy, body-block layout, paragraph/dialogue structure, printed folio, intentional blank fields, illustration placement, spread structure and physical page-end state;
+- verify that canonical structural metadata and notes agree with the actual source image;
+- preserve source text as corrected through Pass2A and Pass2B; make a textual correction during Pass3 only if a direct visual discrepancy is unmistakably found and record it explicitly;
+- verify scan233 as one physical **illustrated-two-page-spread** carrying printed pages224–225 with the upper colour illustration spanning the spread and lower text read left→right;
+- verify the substantial intentional blank lower fields on scans212, 218, 225, 231 and 237;
+- keep all Part008 records `status: "needs-review"` / `visual_fidelity: "needs-review"` after Pass3;
 - do not modify frozen Parts001–007 body layers;
 - do not create Part009 canonical records;
 - preserve audited boundaries 210→211 and 240→241;
-- do not begin Part008 Pass3 in the same activity.
+- do not begin Part008 Part audit in the same activity.
 
-Stop after all **30/30 Part008 records** have completed Pass2B and the Pass2B/control documents are synchronized.
+Stop after all **30/30 Part008 records** have completed Pass3 and the Pass3/control documents are synchronized.
