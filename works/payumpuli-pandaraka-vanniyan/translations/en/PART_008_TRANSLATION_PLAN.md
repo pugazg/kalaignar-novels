@@ -237,3 +237,18 @@ Durable batch source-check records:
 Perform **Part008 whole-Part English glossary reconciliation across E40–E45**.
 
 Do not begin editorial review until glossary reconciliation closes.
+
+## Whole-Part glossary reconciliation checkpoint
+
+**PART008 WHOLE-PART GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- E40–E45 maintained files checked — **6/6**
+- glossary-driven English body edits — **0**
+- source-variant collapses — **0**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part009 leakage — **0**
+
+Durable report: `PART_008_GLOSSARY_RECONCILIATION.md`.
+
+Exact next gate: **Part008 English editorial review**.
