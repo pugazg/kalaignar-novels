@@ -92,8 +92,6 @@ The controlling source is the user-supplied Part008 split PDF rendered to page i
 
 Frozen Part001–Part007 canonical Tamil, assembled Tamil and maintained English body files were not modified.
 
-## Exact next activity
-
 ## Batch 3 source-structure observations
 
 - scan231 / printed222 continues scan230's terminal `அதற்குள்` with `குருவிச்சி` and closes chapter35 `வந்தார்கள் அங்கே!`; a substantial intentional blank lower field follows;
