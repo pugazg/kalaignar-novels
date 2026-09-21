@@ -1910,3 +1910,28 @@ Durable progress:
 - `works/payumpuli-pandaraka-vanniyan/PART_009_PASS1_PROGRESS.md`
 
 Exact next activity: **Part009 Pass1 scans251–260 / local pages11–20**.
+
+## Part009 Pass1 Batch 2 checkpoint
+
+**PART009 PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE.**
+
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- active Part — **Part009 / scans241–270**
+- canonical Part009 records — **20/30 — scans241–260**
+- Batch1 — **241–250 COMPLETE / TEXT-COMPLETE**
+- Batch2 — **251–260 COMPLETE / TEXT-COMPLETE**
+- Pass1 pending — **10/30 — scans261–270**
+- printed-page coverage completed — **233–252**
+- chapter39 `தலைவனும் தலைவியும்!` — closed on scan255
+- chapter40 `பசைக் கொடி அடையாளம்!` — opens scan256 and continues beyond scan260
+- intentional blank lower field — **scan255**
+- scan252 metadata typo corrected — **work field only / Tamil body unchanged**
+- completed records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+
+Durable progress:
+- `works/payumpuli-pandaraka-vanniyan/PART_009_PASS1_PROGRESS.md`
+
+Exact next activity: **Part009 Pass1 scans261–270 / local pages21–30**.
