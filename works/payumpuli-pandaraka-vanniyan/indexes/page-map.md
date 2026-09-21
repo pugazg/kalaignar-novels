@@ -226,16 +226,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 008 | 8 | 218 | 209 | `ஒப்பந்தப் பத்திரம்` close; large intentional blank lower field | needs-review | `pages/0218-oppandha-paththiram.md` |
 | 008 | 9 | 219 | 210 | chapter34 opening `கடவுள் யார் பக்கம்!`; displayed number 34; ends `வகுக்கும்` | needs-review | `pages/0219-kadavul-yaar-pakkam.md` |
 | 008 | 10 | 220 | 211 | `கடவுள் யார் பக்கம்!` continuation; ends inside speech at `எதிர்க்கிறான்` | needs-review | `pages/0220-kadavul-yaar-pakkam.md` |
-| 008 | 11 | 221 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 12 | 222 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 13 | 223 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 14 | 224 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 15 | 225 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 16 | 226 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 17 | 227 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 18 | 228 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 19 | 229 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 20 | 230 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 11 | 221 | 212 | `கடவுள் யார் பக்கம்!` continuation; scan220→221 continuation; ends `அப்படியொன்றும்` | needs-review | `pages/0221-kadavul-yaar-pakkam.md` |
+| 008 | 12 | 222 | 213 | `கடவுள் யார் பக்கம்!` continuation; begins `பெரிய ராஜ்யம் இல்லை!` | needs-review | `pages/0222-kadavul-yaar-pakkam.md` |
+| 008 | 13 | 223 | 214 | `கடவுள் யார் பக்கம்!` continuation; ends `அவர்கள் இருவரும்` | needs-review | `pages/0223-kadavul-yaar-pakkam.md` |
+| 008 | 14 | 224 | 215 | `கடவுள் யார் பக்கம்!` continuation; ends `என்று சிரித்துக் கொண்டே` | needs-review | `pages/0224-kadavul-yaar-pakkam.md` |
+| 008 | 15 | 225 | 216 | `கடவுள் யார் பக்கம்!` continuation / chapter34 close; large intentional blank lower field | needs-review | `pages/0225-kadavul-yaar-pakkam.md` |
+| 008 | 16 | 226 | 217 | chapter35 opening `வந்தார்கள் அங்கே!`; displayed number 35 | needs-review | `pages/0226-vandhaargal-ange.md` |
+| 008 | 17 | 227 | 218 | `வந்தார்கள் அங்கே!` continuation | needs-review | `pages/0227-vandhaargal-ange.md` |
+| 008 | 18 | 228 | 219 | `வந்தார்கள் அங்கே!` continuation | needs-review | `pages/0228-vandhaargal-ange.md` |
+| 008 | 19 | 229 | 220 | `வந்தார்கள் அங்கே!` continuation | needs-review | `pages/0229-vandhaargal-ange.md` |
+| 008 | 20 | 230 | 221 | `வந்தார்கள் அங்கே!` continuation; ends `அதற்குள்` | needs-review | `pages/0230-vandhaargal-ange.md` |
 | 008 | 21 | 231 | — | unclassified — direct visual audit pending | not-started | — |
 | 008 | 22 | 232 | — | unclassified — direct visual audit pending | not-started | — |
 | 008 | 23 | 233 | — | unclassified — direct visual audit pending | not-started | — |
@@ -509,20 +509,20 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - physical scan coverage by split ranges — **477 / 477**
 - Part001–Part007 — **FINAL CLOSED / FROZEN**
 - active maintained Part — **Part008 / scans211–240**
-- Part008 canonical page records — **10/30 — scans211–220**
-- Part008 Pass1 text-complete — **10/30**
-- Part008 Pass1 pending — **scans221–240**
-- completed Part008 printed-page coverage — **202–211**
+- Part008 canonical page records — **20/30 — scans211–230**
+- Part008 Pass1 text-complete — **20/30**
+- Part008 Pass1 pending — **scans231–240**
+- completed Part008 printed-page coverage — **202–221**
 - Part008 incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
 - Part008 outgoing 240→241 — **PENDING direct audit**
 - unresolved completed-batch Pass1 holds — **0**
 - Part009 canonical page records — **0**
-- frozen Part001–Part007 body mutations caused by Part008 batch1 — **0**
+- frozen Part001–Part007 body mutations caused by Part008 batch2 — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Continue **Part008 Pass1 — global scans221–230 / local pages11–20**.
+Continue **Part008 Pass1 — global scans231–240 / local pages21–30**.
 
 Do not begin Part008 Pass2A until Pass1 covers all 30 scans.
