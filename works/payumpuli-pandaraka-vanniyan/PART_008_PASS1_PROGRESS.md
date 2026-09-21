@@ -121,3 +121,24 @@ Frozen Part001–Part007 canonical Tamil, assembled Tamil and maintained English
 ## Exact next activity
 
 Begin **Part008 Pass2A — direct textual verification**, with all 30 Pass1 records present. Keep Part001–Part007 frozen and Part009 canonical records at 0.
+
+## Post-Pass1 current state
+
+Part008 Pass 2A is **COMPLETE / PASS — 30/30 REVIEWED**.
+
+- cumulative Pass2A source-text corrections — **2**
+- scan217 — `உமக்கு எப்போதும்` → `உமக்கெப்போதும்`
+- scan219 — `பயமெல்லாம் -` → `பயமெல்லாம்-`
+- unresolved textual questions — **0**
+- status promotions — **0**
+- all Part008 records remain `needs-review`
+- Part009 canonical records — **0**
+
+Durable Pass2A record:
+- `PART_008_PASS2A_PROGRESS.md`
+
+## Exact next activity
+
+Perform **Part008 Pass 2B — independent lexical / historical-glyph verification of scans211–240**.
+
+Do not begin Pass 3 in the same activity.
