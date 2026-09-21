@@ -11,7 +11,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 - complete-source extent: **477 scans**;
 - split design: **15 × 30 pages + final 27 pages = 477**;
 - file size: **27,890,038 bytes**;
-- SHA-256: **PENDING**;
+- SHA-256: `7cd8f710271ef11bb8bb145853d59cf5769d686936d292828b10dc90d92fdbe9`;
 - source text layer: **no usable parsed text exposed**;
 - controlling representation: **rendered source page images**;
 - source family: **TVA_BOK_0065744**;
@@ -213,4 +213,37 @@ Durable synchronization record:
 Exact next activity: activate Part010 by directly auditing **270→271** from the two adjacent source scans; if the witness is usable, begin **Part010 Pass1 scans271–280 / local pages1–10**.
 
 Do not begin Part010 Pass2A until Pass1 covers all 30 Part010 pages. Keep **300→301 PENDING direct audit**.
+
+## Part010 cross-chat handoff checkpoint
+
+**HANDOFF SYNCHRONIZED — PART010 NEXT.**
+
+Parts **001–009 remain FINAL CLOSED / FROZEN**.
+
+Part010 source identity:
+- `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_010_pages_271-300.pdf`
+- local pages — **30**
+- global scans — **271–300**
+- file size — **27,890,038 bytes**
+- SHA-256 — `7cd8f710271ef11bb8bb145853d59cf5769d686936d292828b10dc90d92fdbe9`
+- parsed text — **not usable**
+- source authority — **direct rendered page pixels**
+
+Repository-authoritative Part010 state:
+- canonical records — **0**
+- incoming **270→271 — PENDING direct audit**
+- outgoing **300→301 — PENDING direct audit**
+- Pass1 — **NOT STARTED**
+- Pass2A/2B/3 — **NOT STARTED**
+- assembled Tamil — **NOT STARTED**
+- English — **NOT STARTED**
+
+The source PDF was supplied in the prior chat, but no Part010 boundary classification or canonical transcription was committed. A new chat must re-read live main and directly audit **270→271** first.
+
+Exact next activity: **direct 270→271 boundary audit; if usable, Part010 Pass1 scans271–280 / local pages1–10**.
+
+Durable handoff:
+- `works/payumpuli-pandaraka-vanniyan/PART_010_HANDOFF.md`
+
+If the exact Part010 PDF is unavailable in the new chat, request it before source-pixel work.
 
