@@ -46,7 +46,7 @@ Parts001–Part008 English remain **FINAL CLOSED / FROZEN**.
 | E47 | `../../sections/50-narivaal-kunjam.md` | `sections/50-fox-tail-tuft.md` | 244–249 |
 | E48 | `../../sections/51-thalaivanum-thalaiviyum.md` | `sections/51-the-leader-and-the-lady.md` | 250–255 |
 | E49 | `../../sections/52-pasaik-kodi-adaiyaalam.md` | `sections/52-the-pasaik-kodi-sign.md` | 256–261 |
-| E50 | `../../sections/53-thanikaimalai-aavesam.md` | `sections/53-thanigaimala-is-fury.md` | 262–266 |
+| E50 | `../../sections/53-thanikaimalai-aavesam.md` | `sections/53-thanigaimalas-fury.md` | 262–266 |
 | E51 | `../../sections/54-maraindha-maayam-ennavo.md` | `sections/54-what-mystery-was-hidden.md` | 267–270 |
 
 ## Batch-number lock
