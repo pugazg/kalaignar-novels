@@ -1,6 +1,6 @@
 # Part 008 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E40–E45 SOURCE-CHECKED / ACTIVE FOR RECONCILIATION**
+Status: **WHOLE-PART RECONCILED / PASS**
 
 This glossary is derived only from verified Part008 Tamil plus frozen earlier project-English choices where the **same Tamil source form** recurs.
 
@@ -175,3 +175,22 @@ Current source-check accounting:
 ## Exact next gate
 
 Perform **Part008 whole-Part English glossary reconciliation** across E40–E45.
+
+## Whole-Part reconciliation result
+
+**PART008 WHOLE-PART GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- maintained English files checked — **6/6**
+- scans covered — **211–240 / 30**
+- glossary-driven English body edits — **0**
+- source-variant collapses — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001–Part007 English body edits — **0**
+- Part009 leakage — **0**
+
+Durable report:
+- `PART_008_GLOSSARY_RECONCILIATION.md`
+
+Exact next gate: **Part008 English editorial review across all six maintained English files / scans211–240**.
