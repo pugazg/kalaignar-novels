@@ -15,9 +15,9 @@ Parts001–Part007 English remain **FINAL CLOSED / FROZEN**.
 | **E44** | section47 — `கைக்கு வந்த கடிதம்!` | 232–237 | **SOURCE-CHECKED / COMPLETE** |
 | **E45** | section48 — `இணையற்ற இணை!` | 238–240 | **SOURCE-CHECKED / COMPLETE** |
 | Glossary reconciliation | Part008 whole-Part reconciliation | 211–240 | **RECONCILED / PASS** |
-| Editorial | Part008 whole-Part English editorial review | 211–240 | **NOT STARTED** |
-| Bilingual | Part008 whole-Part bilingual review | 211–240 | **NOT STARTED** |
-| Release | Part008 release/readiness | 211–240 | **NOT STARTED** |
+| Editorial | Part008 whole-Part English editorial review | 211–240 | **PASS / CLOSED** |
+| Bilingual | Part008 whole-Part bilingual review | 211–240 | **PASS / CLOSED** |
+| Release | Part008 release/readiness | 211–240 | **PASS / CLOSED** |
 | Release sync | Part008 release-ready synchronization | 211–240 | **NOT STARTED** |
 | Final closure | Part008 final closure | 211–240 | **NOT STARTED** |
 
@@ -150,3 +150,43 @@ Durable report:
 - `PART_008_GLOSSARY_RECONCILIATION.md`
 
 Exact next activity: **Part008 English editorial review across all six maintained English files / scans211–240**.
+
+## Part008 English editorial-review checkpoint
+
+**PART008 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- maintained English files reviewed — **6/6**
+- files requiring body edits — **1/6**
+- English-only editorial changes — **1**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part007 English body edits — **0**
+- Part009 leakage — **0**
+
+Durable report: `PART_008_TRANSLATION_REVIEW.md`.
+
+## Part008 whole-Part bilingual-review checkpoint
+
+**PART008 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED.**
+
+- Tamil/English pairs reviewed — **6/6**
+- scans reviewed — **211–240 / 30**
+- further bilingual English-only corrections — **1**
+- unresolved bilingual holds — **0**
+- unresolved Tamil-fidelity holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part009 leakage — **0**
+
+Durable report: `PART_008_BILINGUAL_REVIEW.md`.
+
+## Part008 release/readiness checkpoint
+
+**PART008 RELEASE/READINESS — PASS / CLOSED.**
+
+- unresolved release/readiness blockers — **0**
+- source-PDF paths in active work tree — **0**
+- Part009 canonical/body leakage — **0**
+
+Durable report: `PART_008_RELEASE_REPORT.md`.
+
+Exact next activity: **Part008 release-ready synchronization**.
