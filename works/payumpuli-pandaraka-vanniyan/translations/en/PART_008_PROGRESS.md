@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART008 E40–E45 — SOURCE-CHECKED / COMPLETE**
+**PART008 FINAL CLOSURE — PASS / CLOSED / FROZEN**
 
 Parts001–Part007 English remain **FINAL CLOSED / FROZEN**.
 
@@ -19,7 +19,7 @@ Parts001–Part007 English remain **FINAL CLOSED / FROZEN**.
 | Bilingual | Part008 whole-Part bilingual review | 211–240 | **PASS / CLOSED** |
 | Release | Part008 release/readiness | 211–240 | **PASS / CLOSED** |
 | Release sync | Part008 release-ready synchronization | 211–240 | **PASS / CLOSED** |
-| Final closure | Part008 final closure | 211–240 | **NOT STARTED** |
+| Final closure | Part008 final closure | 211–240 | **PASS / CLOSED / FROZEN** |
 
 ## Current counts
 
@@ -208,3 +208,25 @@ Exact next activity: **Part008 release-ready synchronization**.
 - Part009 leakage — **0**
 
 Exact next gate: **Part008 final closure**.
+
+## Part008 final closure checkpoint
+
+**PART008 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- canonical Tamil — **30/30 verified / frozen**
+- assembled Tamil — **6/6 VERIFIED / frozen**
+- E40–E45 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved English/release blockers — **0**
+- post-release canonical / assembled / English body drift — **0 / 0 / 0**
+- Part009 leakage — **0**
+
+Part001–Part008 are now **FINAL CLOSED / FROZEN**.
+
+Part009 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+
+Exact next activity: **Part009 Pass1 — global scans241–250 / local pages1–10**.
