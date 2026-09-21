@@ -193,3 +193,15 @@ Do not begin editorial review until glossary reconciliation closes.
 Exact next gate: **Part008 final closure**.
 
 Do not begin Part009 canonical transcription until final closure passes.
+
+## Part008 final closure downstream state
+
+**PART008 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- canonical / assembled / maintained English body drift after release/readiness — **0 / 0 / 0**
+- unresolved blockers — **0**
+- Parts001–Part008 — **FINAL CLOSED / FROZEN**
+- Part009 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part009 canonical records — **0**
+- exact next activity — **Part009 Pass1 scans241–250 / local pages1–10**
+- outgoing 270→271 — **PENDING direct audit**
