@@ -46,13 +46,15 @@ Part 010 source split: **SUPPLIED / REGISTERED**.
 
 Lifecycle state: **ACTIVE — PASS1 IN PROGRESS**.
 
-Part010 canonical page records: **10/30 — scans271–280 / local pages1–10 / printed263–272**.
+Part010 canonical page records: **20/30 — scans271–290 / local pages1–20**.
+
+Printed coverage: **263–272, 274–282**; scan281 is a full-page illustration with no visible printed folio.
 
 Incoming **270→271 = GENUINE CONTINUATION / AUDITED / PASS**.
 
-Pass1 pending: **scans281–300 / 20 pages**.
+Pass1 pending: **scans291–300 / 10 pages**.
 
-Exact next activity: **Part010 Pass1 scans281–290 / local pages11–20**.
+Exact next activity: **Part010 Pass1 scans291–300 / local pages21–30**.
 
 Do not begin Pass2A until Pass1 covers all **30/30** Part010 pages.
 
@@ -282,3 +284,27 @@ Durable progress:
 Exact next activity: **Part010 Pass1 scans281–290 / local pages11–20**.
 
 Do not begin Part010 Pass2A until Pass1 covers all **30/30** Part010 pages.
+
+
+## Part010 Pass1 Batch 2 checkpoint
+
+**PART010 PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE.**
+
+- Parts001–009 — **FINAL CLOSED / FROZEN**
+- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
+- canonical Part010 records — **20/30 — scans271–290**
+- newly completed batch — **scans281–290 / local pages11–20**
+- scan281 — **full-page colour narrative illustration / printed_page null**
+- printed pages in Batch2 — **274–282**
+- chapter44 `இன்றா, நாளையா? ஏன்?` — closes scan285
+- chapter45 `தேவை நூறு வீரர்கள்!` — opens scan286 and continues beyond scan290
+- completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- Pass1 pending — **10/30 — scans291–300**
+- outgoing **300→301 — PENDING direct audit**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+- frozen Parts001–009 body mutations — **0**
+
+Durable progress:
+- `PART_010_PASS1_PROGRESS.md`
+
+Exact next activity: **Part010 Pass1 scans291–300 / local pages21–30**.
