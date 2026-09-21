@@ -370,3 +370,29 @@ Exact next activity:
 
 **Part008 Pass1 — scans221–230 / local pages11–20.**
 
+## Part008 Pass1 completion checkpoint
+
+**PART008 PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE.**
+
+- Part001–Part007 — **FINAL CLOSED / FROZEN**
+- active Part — **Part008 / scans211–240**
+- canonical Part008 records — **30/30 — scans211–240**
+- Pass1 text-complete — **30/30**
+- unresolved Pass1 source-reading holds — **0**
+- visible printed-page coverage — **202–232**
+- scan233 — **illustrated two-page spread / printed224–225**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- Part009 source SHA-256 — `144aecae1ab4c2e72e9e7fae2260745cf0c0ff8fe0ae6e8119e9a6b220a9ffcf`
+- Part009 canonical records — **0**
+- frozen Parts001–007 body mutations — **0**
+- Pass2A — **NOT STARTED / NEXT GATE**
+
+Durable boundary record:
+- `works/payumpuli-pandaraka-vanniyan/PART_008_BOUNDARY_AUDIT_240_241.md`
+
+Exact next activity:
+
+**Part008 Pass2A — direct textual verification of scans211–240.**
+
+Do not begin Pass2B in the same activity. Keep Part009 canonical records at 0.
