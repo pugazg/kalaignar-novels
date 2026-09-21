@@ -105,3 +105,13 @@ Part008 is ready for final closure.
 Create and verify **Part008 final closure** in `PART_008_FINAL_CLOSURE.md`.
 
 Do not begin Part009 transcription until final closure passes.
+
+## Part008 final closure downstream state
+
+**PART008 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Part001–Part008 — **FINAL CLOSED / FROZEN**
+- Part009 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part009 canonical records — **0**
+- next activity — **Part009 Pass1 scans241–250 / local pages1–10**
+- outgoing 270→271 — **PENDING direct audit**
