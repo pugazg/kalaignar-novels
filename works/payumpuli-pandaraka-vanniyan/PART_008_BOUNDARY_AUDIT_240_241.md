@@ -56,3 +56,21 @@ Part009:
 - remains blocked behind the Part008 maintained workflow.
 
 Exact next activity: **Part008 Pass2A — direct textual verification of scans211–240**.
+
+## Part008 audit downstream state
+
+The boundary classification remains unchanged after Part008 closure auditing.
+
+Part008 now has:
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part audit — **PASS / COMPLETE**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- status promotions caused by the audit — **0**
+- Part009 canonical records — **0**
+
+This boundary remains **GENUINE CONTINUATION / AUDITED**.
+
+Exact next activity: **Part008 final metadata/status synchronization**.
