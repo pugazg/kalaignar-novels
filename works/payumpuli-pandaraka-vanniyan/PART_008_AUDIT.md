@@ -193,3 +193,25 @@ Durable status record:
 Current next gate:
 
 **Part008 documentation synchronization.**
+
+## Post-documentation-sync current state
+
+Part008 documentation synchronization is **PASS / COMPLETE**.
+
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- partial / source-limited / needs-review — **0 / 0 / 0**
+- correction ledger — **2 Pass2A + 3 Pass2B + 0 Pass3**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- page-map rows — **30/30 verified**
+- documentation-sync canonical Part008 page changes — **0**
+- documentation-sync Tamil body changes — **0**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- Part009 canonical records — **0**
+
+Durable documentation-sync record:
+- `PART_008_DOCUMENTATION_SYNC.md`
+
+Exact next activity: **Part008 Tamil archival-ready checkpoint**.
