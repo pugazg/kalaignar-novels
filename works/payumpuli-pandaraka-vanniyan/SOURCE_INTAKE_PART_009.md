@@ -89,3 +89,23 @@ Part009 remains:
 - outgoing 270→271 — **PENDING direct audit**
 
 Part009 remains blocked behind Part008's remaining assembled-Tamil / English / release workflow. Current Part008 exact next gate: **assembled Tamil construction + audit**. Do not create Part009 canonical page records yet.
+
+## Upstream Part008 assembled Tamil closure
+
+Part008 / scans211–240 now has:
+- canonical Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
+- assembled canonical coverage — **30/30**
+- canonical page mutations caused by assembly — **0**
+- frozen Part001–Part007 assembled-file mutations — **0**
+- Part009 body leakage — **0**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+
+Part009 remains:
+- **SUPPLIED / REGISTERED / INCOMING BOUNDARY AUDITED**
+- canonical records — **0**
+- outgoing 270→271 — **PENDING direct audit**
+
+Current Part008 exact next gate: **English translation planning/setup**. Part009 remains blocked until Part008 completes its maintained workflow and final closure.
