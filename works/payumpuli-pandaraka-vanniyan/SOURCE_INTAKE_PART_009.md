@@ -205,3 +205,21 @@ Part009 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**:
 - first Pass1 batch — **241–250 / local pages1–10**
 
 Exact next activity: **Part009 Pass1 scans241–250**.
+## Part009 Pass1 Batch 1 current state
+
+**PART009 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- canonical records — **10/30 — scans241–250**
+- local pages completed — **1–10**
+- printed pages completed — **233–242**
+- Pass1 pending — **scans251–270 / 20 pages**
+- all completed page records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+
+Durable record:
+- `PART_009_PASS1_PROGRESS.md`
+
+Exact next activity: **Part009 Pass1 scans251–260 / local pages11–20**.
