@@ -302,3 +302,36 @@ On the next explicit continuation:
 7. do not begin Part010 Pass2A until Pass1 covers the full Part.
 
 **STOP here. Part010 transcription is authorized but is not begun in this final-closure gate.**
+
+## 16. Post-closure control synchronization verification
+
+Final-closure record commit:
+- `75a7e391a466c66f5364ff3b0b3c3f999e153ea6`
+
+Post-closure synchronized control-state head:
+- `ccd78ccbc172d648e99fb0d5402ba8a30d140751`
+
+Direct comparison confirms:
+- synchronization commits — **3**
+- changed files — **30**
+- canonical `pages/` changes — **0**
+- Part009 assembled Tamil body changes — **0**
+- Part009 maintained English body changes — **0**
+- frozen Part001–Part008 body changes — **0**
+- Part010 canonical/body changes — **0**
+
+Current inventory after synchronization:
+- source-PDF paths under active work — **0**
+- Part009 canonical pages — **30**
+- Part009 assembled Tamil files — **6**
+- Part009 maintained English files — **6**
+- Part010 canonical page records — **0**
+
+Maintained lifecycle state is synchronized as:
+- **Part001–Part009 — FINAL CLOSED / FROZEN**
+- **Part010 — NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- **270→271 — PENDING direct audit**
+- first Part010 normal Pass1 batch after usable incoming-boundary audit — **scans271–280 / local pages1–10**.
+
+Post-closure synchronization introduced no body-layer drift.
+
