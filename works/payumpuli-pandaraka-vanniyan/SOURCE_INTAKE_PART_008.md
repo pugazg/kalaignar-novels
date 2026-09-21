@@ -42,7 +42,7 @@ The canonical `scan_page` remains the overall scan number **211–240**.
 
 ## Current gate
 
-**PART008 PASS 1 — IN PROGRESS — 20/30 TEXT-COMPLETE.**
+**PART008 PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE.**
 
 Upstream lock:
 - Part001–Part007 — **FINAL CLOSED / FROZEN**
@@ -52,11 +52,11 @@ Part008:
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_008_pages_211-240.pdf`
 - local pages — **30**
 - canonical overall scans — **211–240**
-- canonical page records — **20/30 — scans211–230**
-- Pass1 text-complete — **20/30**
-- Pass1 pending — **scans231–240**
+- canonical page records — **30/30 — scans211–240**
+- Pass1 text-complete — **30/30**
+- Pass1 pending — **0**
 - incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 240→241 — **PENDING direct audit**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
 - Part009 canonical records — **0**
 - frozen Part001–Part007 body mutations — **0**
 
@@ -74,8 +74,18 @@ Batch 2 / scans221–230:
 - chapter35 `வந்தார்கள் அங்கே!` — begins scan226 and continues through scan230
 - unresolved Pass1 source-reading holds — **0**
 
+Batch 3 / scans231–240:
+- visible printed pages — **222–232**, with scan233 carrying the illustrated two-page spread **224–225**
+- chapter35 `வந்தார்கள் அங்கே!` — scan231 continuation/close
+- chapter36 `கைக்கு வந்த கடிதம்!` — scans232–237
+- scan233 — illustrated two-page spread / printed224–225
+- chapter37 `இணையற்ற இணை!` — begins scan238 and continues through scan240
+- unresolved Pass1 source-reading holds — **0**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- Part009 canonical records — **0**
+
 Exact next activity:
 
-**Part008 Pass1 — global scans231–240 / local pages21–30.**
+**Part008 Pass2A — direct textual verification of scans211–240.**
 
-Do not begin Part008 Pass2A until Pass1 covers all 30 scans. Keep outgoing 240→241 pending until directly audited.
+Do not modify frozen Parts001–007 body layers and do not create Part009 canonical records.
