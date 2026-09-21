@@ -223,3 +223,25 @@ Durable record:
 - `PART_009_PASS1_PROGRESS.md`
 
 Exact next activity: **Part009 Pass1 scans251–260 / local pages11–20**.
+
+## Part009 Pass1 Batch 2 current state
+
+**PART009 PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE.**
+
+- canonical records — **20/30 — scans241–260**
+- local pages completed — **1–20**
+- printed pages completed — **233–252**
+- Batch1 — **241–250 COMPLETE**
+- Batch2 — **251–260 COMPLETE**
+- Pass1 pending — **261–270 / 10 pages**
+- scan252 metadata-only correction — `work` field typo fixed; Tamil body unchanged
+- completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+
+Durable record:
+- `PART_009_PASS1_PROGRESS.md`
+
+Exact next activity: **Part009 Pass1 scans261–270 / local pages21–30**.
