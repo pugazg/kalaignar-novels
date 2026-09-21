@@ -81,6 +81,12 @@ Part001 section files `00-*.md` through `07-*.md` are frozen.
 | 46 | 008 | `46-vandhaargal-ange.md` | 226–231 | `வந்தார்கள் அங்கே!` | **VERIFIED** |
 | 47 | 008 | `47-kaikku-vandha-kaditham.md` | 232–237 | `கைக்கு வந்த கடிதம்!`; scan233 is illustrated spread / printed224–225 | **VERIFIED** |
 | 48 | 008 | `48-inaiyatra-inai.md` | 238–240 | `இணையற்ற இணை!`; Part009 continuation withheld | **VERIFIED** |
+| 49 | 009 | `49-inaiyatra-inai-part009.md` | 241–243 | chapter37 continuation/close `இணையற்ற இணை!` | **VERIFIED** |
+| 50 | 009 | `50-narivaal-kunjam.md` | 244–249 | `நரிவால் குஞ்சம்!` | **VERIFIED** |
+| 51 | 009 | `51-thalaivanum-thalaiviyum.md` | 250–255 | `தலைவனும் தலைவியும்!` | **VERIFIED** |
+| 52 | 009 | `52-pasaik-kodi-adaiyaalam.md` | 256–261 | `பசைக் கொடி அடையாளம்!` | **VERIFIED** |
+| 53 | 009 | `53-thanikaimalai-aavesam.md` | 262–266 | `தணிகைமலை ஆவேசம்!` | **VERIFIED** |
+| 54 | 009 | `54-maraindha-maayam-ennavo.md` | 267–270 | `மறைந்த மாயம் என்னவோ?`; Part010 continuation withheld / 270→271 pending | **VERIFIED** |
 
 ### Part003 — PASS / CLOSED
 
@@ -343,4 +349,28 @@ Use verified Part008 canonical Tamil plus the closed **6/6** assembled Tamil rea
 - Part010 body must not be imported merely to complete chapter42
 
 Exact next activity: **Part009 assembled Tamil construction + audit**.
+
+## Part009 — PASS / CLOSED
+
+- physical coverage — **scans241–270**
+- canonical pages represented — **30/30**
+- assembled files — **6/6 VERIFIED**
+- omitted / duplicated canonical pages — **0 / 0**
+- unsupported body insertion — **0**
+- audit-note leakage — **0**
+- canonical Part009 page mutations caused by assembly — **0**
+- frozen Part001–Part008 assembled-file mutations — **0**
+- Part010 body leakage — **0**
+- scan268→269 verified split word rendered continuously with non-rendering provenance marker — **PASS**
+- incoming 240→241 boundary provenance without Part008 body import — **PASS**
+- outgoing 270→271 remains **PENDING direct audit**; no Part010 body import — **PASS**
+- validation — `../PART_009_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Part009 Tamil archival-ready remains **PASS / CLOSED**.
+
+## Exact next activity
+
+Perform **Part009 English translation planning/setup**.
+
+Use verified Part009 canonical Tamil plus the closed **6/6** assembled Tamil reading layer. Create planning/glossary/progress controls only; perform a live English batch-number collision check before reserving the sequence; do not draft English prose in the setup gate.
 
