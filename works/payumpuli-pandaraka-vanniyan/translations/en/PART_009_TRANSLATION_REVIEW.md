@@ -31,9 +31,12 @@ All six maintained English files were reviewed for:
 
 No further English-body change was required after the closed whole-Part glossary reconciliation.
 
-The single post-source-check body correction remains the glossary-driven E51 name reconciliation:
-- `Vikrama Rajasinga` → **`Vikrama Rajasingan`**
-- commit — `1e1cbd5aab2686085702794c34b08be95062f1d4`
+Two post-source-check English-only corrections were already reconciled before editorial closure:
+
+1. E50 — `She began to enjoy it!` → **`She began caressing him!`**
+   - commit — `a38a0e22f6f1ae37ecb9e2243e8c0c4743051faf`
+2. E51 — `Vikrama Rajasinga` → **`Vikrama Rajasingan`**
+   - commit — `1e1cbd5aab2686085702794c34b08be95062f1d4`
 
 Editorial review introduced:
 - additional English-only editorial changes — **0**
