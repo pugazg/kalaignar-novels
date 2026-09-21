@@ -1076,3 +1076,25 @@ Exact next gate: **Part008 release-ready synchronization**.
 - Part009 leakage — **0**
 
 Exact next gate: **Part008 final closure**.
+
+## Part008 final closure checkpoint
+
+**PART008 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- canonical Tamil — **30/30 verified / frozen**
+- assembled Tamil — **6/6 VERIFIED / frozen**
+- E40–E45 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved English/release blockers — **0**
+- post-release canonical / assembled / English body drift — **0 / 0 / 0**
+- Part009 leakage — **0**
+
+Part001–Part008 are now **FINAL CLOSED / FROZEN**.
+
+Part009 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+
+Exact next activity: **Part009 Pass1 — global scans241–250 / local pages1–10**.
