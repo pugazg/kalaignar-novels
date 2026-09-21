@@ -14,7 +14,7 @@ Parts001–Part007 English remain **FINAL CLOSED / FROZEN**.
 | **E43** | section46 — `வந்தார்கள் அங்கே!` | 226–231 | **SOURCE-CHECKED / COMPLETE** |
 | **E44** | section47 — `கைக்கு வந்த கடிதம்!` | 232–237 | **SOURCE-CHECKED / COMPLETE** |
 | **E45** | section48 — `இணையற்ற இணை!` | 238–240 | **SOURCE-CHECKED / COMPLETE** |
-| Glossary reconciliation | Part008 whole-Part reconciliation | 211–240 | **NOT STARTED** |
+| Glossary reconciliation | Part008 whole-Part reconciliation | 211–240 | **RECONCILED / PASS** |
 | Editorial | Part008 whole-Part English editorial review | 211–240 | **NOT STARTED** |
 | Bilingual | Part008 whole-Part bilingual review | 211–240 | **NOT STARTED** |
 | Release | Part008 release/readiness | 211–240 | **NOT STARTED** |
@@ -133,3 +133,20 @@ Durable batch source-check records:
 Perform **Part008 whole-Part English glossary reconciliation** across all six maintained English files / scans211–240.
 
 Do not begin editorial review until glossary reconciliation closes.
+
+## Part008 English glossary reconciliation checkpoint
+
+**RECONCILED / PASS**
+
+- maintained English files checked — **6/6**
+- glossary-driven English body edits — **0**
+- source-variant collapses — **0**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part007 English body edits — **0**
+- Part009 leakage — **0**
+
+Durable report:
+- `PART_008_GLOSSARY_RECONCILIATION.md`
+
+Exact next activity: **Part008 English editorial review across all six maintained English files / scans211–240**.
