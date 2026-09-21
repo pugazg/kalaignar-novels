@@ -142,3 +142,21 @@ Durable Pass2A record:
 Perform **Part008 Pass 2B — independent lexical / historical-glyph verification of scans211–240**.
 
 Do not begin Pass 3 in the same activity.
+
+## Post-Pass2B current state
+
+Part008 Pass 2B is **COMPLETE / PASS — 30/30 REVIEWED**.
+
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 2 corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 3 spacing / word-boundary corrections**
+- historical-glyph corrections — **0**
+- unresolved Pass2B questions — **0**
+- all Part008 records remain `needs-review`
+- Part009 canonical records — **0**
+
+Durable Pass2B record:
+- `PART_008_PASS2B_PROGRESS.md`
+
+## Exact next activity
+
+Perform **Part008 Pass 3 — direct full-page visual / structural verification of scans211–240**.
