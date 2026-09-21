@@ -807,3 +807,30 @@ Exact next activity: **Part009 final metadata/status synchronization**.
 
 Promote only `visual_fidelity` from `needs-review` to `verified` across the 30 audited Part009 records; textual `status` is already `verified`. Do not alter Tamil body text or the pending outgoing 270→271 boundary classification.
 
+## Part009 final metadata/status synchronization checkpoint
+
+**PART009 FINAL METADATA / STATUS SYNCHRONIZATION — PASS / CLOSED.**
+
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- Part009 canonical records — **30/30 — scans241–270**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- partial / source-limited / needs-review — **0 / 0 / 0**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- metadata-only page changes — **30 files / visual_fidelity only**
+- Tamil body changes in final status sync — **0**
+- correction ledger unchanged — **2 Pass1 baseline + 0 Pass2A + 3 Pass2B + 0 Pass3**
+- unresolved Tamil / glyph / visual / structural issues — **0**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit / unchanged**
+- Part010 canonical records created — **0**
+
+Durable status record:
+- `works/payumpuli-pandaraka-vanniyan/PART_009_FINAL_STATUS_SYNC.md`
+
+Exact next activity: **Part009 documentation synchronization**.
+
+Do not begin the Tamil archival-ready checkpoint in this activity.
+
