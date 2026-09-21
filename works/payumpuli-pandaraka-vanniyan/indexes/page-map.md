@@ -246,36 +246,36 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 008 | 28 | 238 | 230 | chapter37 opening `இணையற்ற இணை!`; displayed number 37 | verified | `pages/0238-inaiyatra-inai.md` |
 | 008 | 29 | 239 | 231 | `இணையற்ற இணை!` continuation | verified | `pages/0239-inaiyatra-inai.md` |
 | 008 | 30 | 240 | 232 | `இணையற்ற இணை!` continuation; outgoing 240→241 genuine continuation audited | verified | `pages/0240-inaiyatra-inai.md` |
-| 009 | 1 | 241 | 233 | `இணையற்ற இணை!` continuation; incoming 240→241 genuine continuation audited | needs-review | `pages/0241-inaiyatra-inai.md` |
-| 009 | 2 | 242 | 234 | `இணையற்ற இணை!` continuation; Kannusami letter closes | needs-review | `pages/0242-inaiyatra-inai.md` |
-| 009 | 3 | 243 | 235 | `இணையற்ற இணை!` close; substantial intentional blank lower field | needs-review | `pages/0243-inaiyatra-inai.md` |
-| 009 | 4 | 244 | 236 | chapter38 opening `நரிவால் குஞ்சம்!`; displayed number 38 | needs-review | `pages/0244-narivaal-kunjam.md` |
-| 009 | 5 | 245 | 237 | `நரிவால் குஞ்சம்!` continuation | needs-review | `pages/0245-narivaal-kunjam.md` |
-| 009 | 6 | 246 | 238 | `நரிவால் குஞ்சம்!` continuation | needs-review | `pages/0246-narivaal-kunjam.md` |
-| 009 | 7 | 247 | 239 | `நரிவால் குஞ்சம்!` continuation | needs-review | `pages/0247-narivaal-kunjam.md` |
-| 009 | 8 | 248 | 240 | `நரிவால் குஞ்சம்!` continuation | needs-review | `pages/0248-narivaal-kunjam.md` |
-| 009 | 9 | 249 | 241 | `நரிவால் குஞ்சம்!` close; substantial intentional blank lower field | needs-review | `pages/0249-narivaal-kunjam.md` |
-| 009 | 10 | 250 | 242 | chapter39 opening `தலைவனும் தலைவியும்!`; displayed number 39 | needs-review | `pages/0250-thalaivanum-thalaiviyum.md` |
-| 009 | 11 | 251 | 243 | `தலைவனும் தலைவியும்!` continuation from scan250 | needs-review | `pages/0251-thalaivanum-thalaiviyum.md` |
-| 009 | 12 | 252 | 244 | `தலைவனும் தலைவியும்!` continuation; ends `புரிந்து` | needs-review | `pages/0252-thalaivanum-thalaiviyum.md` |
-| 009 | 13 | 253 | 245 | `தலைவனும் தலைவியும்!` continuation; begins `கொண்டேன்` | needs-review | `pages/0253-thalaivanum-thalaiviyum.md` |
-| 009 | 14 | 254 | 246 | `தலைவனும் தலைவியும்!` continuation; ends `அங்கிருந்து` | needs-review | `pages/0254-thalaivanum-thalaiviyum.md` |
-| 009 | 15 | 255 | 247 | `தலைவனும் தலைவியும்!` close; substantial intentional blank lower field | needs-review | `pages/0255-thalaivanum-thalaiviyum.md` |
-| 009 | 16 | 256 | 248 | chapter40 opening `பசைக் கொடி அடையாளம்!`; displayed number 40 | needs-review | `pages/0256-pasaik-kodi-adaiyaalam.md` |
-| 009 | 17 | 257 | 249 | `பசைக் கொடி அடையாளம்!` continuation | needs-review | `pages/0257-pasaik-kodi-adaiyaalam.md` |
-| 009 | 18 | 258 | 250 | `பசைக் கொடி அடையாளம்!` continuation | needs-review | `pages/0258-pasaik-kodi-adaiyaalam.md` |
-| 009 | 19 | 259 | 251 | `பசைக் கொடி அடையாளம்!` continuation; ends `சென்றுகதவை` | needs-review | `pages/0259-pasaik-kodi-adaiyaalam.md` |
-| 009 | 20 | 260 | 252 | `பசைக் கொடி அடையாளம்!` continuation; begins `மூடித் தாழிட்டாள்` | needs-review | `pages/0260-pasaik-kodi-adaiyaalam.md` |
-| 009 | 21 | 261 | 253 | `பசைக் கொடி அடையாளம்!` close; substantial intentional blank lower field | needs-review | `pages/0261-pasaik-kodi-adaiyaalam.md` |
-| 009 | 22 | 262 | 254 | chapter41 opening `தணிகைமலை ஆவேசம்!`; displayed number 41 | needs-review | `pages/0262-thanikaimalai-aavesam.md` |
-| 009 | 23 | 263 | 255 | `தணிகைமலை ஆவேசம்!` continuation | needs-review | `pages/0263-thanikaimalai-aavesam.md` |
-| 009 | 24 | 264 | 256 | `தணிகைமலை ஆவேசம்!` continuation; ends `என்று` | needs-review | `pages/0264-thanikaimalai-aavesam.md` |
-| 009 | 25 | 265 | 257 | `தணிகைமலை ஆவேசம்!` continuation; resumes scan264 sentence | needs-review | `pages/0265-thanikaimalai-aavesam.md` |
-| 009 | 26 | 266 | 258 | `தணிகைமலை ஆவேசம்!` close; substantial intentional blank lower field | needs-review | `pages/0266-thanikaimalai-aavesam.md` |
-| 009 | 27 | 267 | 259 | chapter42 opening `மறைந்த மாயம் என்னவோ?`; displayed number 42 | needs-review | `pages/0267-maraindha-maayam-ennavo.md` |
-| 009 | 28 | 268 | 260 | `மறைந்த மாயம் என்னவோ?` continuation; ends split word `தொழு` | needs-review | `pages/0268-maraindha-maayam-ennavo.md` |
-| 009 | 29 | 269 | 261 | `மறைந்த மாயம் என்னவோ?` continuation; resumes `திடும்`; ends `கதவின்` | needs-review | `pages/0269-maraindha-maayam-ennavo.md` |
-| 009 | 30 | 270 | 262 | `மறைந்த மாயம் என்னவோ?` continuation; Part009 ends mid-sentence | needs-review | `pages/0270-maraindha-maayam-ennavo.md` |
+| 009 | 1 | 241 | 233 | `இணையற்ற இணை!` continuation; incoming 240→241 genuine continuation audited | verified | `pages/0241-inaiyatra-inai.md` |
+| 009 | 2 | 242 | 234 | `இணையற்ற இணை!` continuation; Kannusami letter closes | verified | `pages/0242-inaiyatra-inai.md` |
+| 009 | 3 | 243 | 235 | `இணையற்ற இணை!` close; substantial intentional blank lower field | verified | `pages/0243-inaiyatra-inai.md` |
+| 009 | 4 | 244 | 236 | chapter38 opening `நரிவால் குஞ்சம்!`; displayed number 38 | verified | `pages/0244-narivaal-kunjam.md` |
+| 009 | 5 | 245 | 237 | `நரிவால் குஞ்சம்!` continuation | verified | `pages/0245-narivaal-kunjam.md` |
+| 009 | 6 | 246 | 238 | `நரிவால் குஞ்சம்!` continuation | verified | `pages/0246-narivaal-kunjam.md` |
+| 009 | 7 | 247 | 239 | `நரிவால் குஞ்சம்!` continuation | verified | `pages/0247-narivaal-kunjam.md` |
+| 009 | 8 | 248 | 240 | `நரிவால் குஞ்சம்!` continuation | verified | `pages/0248-narivaal-kunjam.md` |
+| 009 | 9 | 249 | 241 | `நரிவால் குஞ்சம்!` close; substantial intentional blank lower field | verified | `pages/0249-narivaal-kunjam.md` |
+| 009 | 10 | 250 | 242 | chapter39 opening `தலைவனும் தலைவியும்!`; displayed number 39 | verified | `pages/0250-thalaivanum-thalaiviyum.md` |
+| 009 | 11 | 251 | 243 | `தலைவனும் தலைவியும்!` continuation from scan250 | verified | `pages/0251-thalaivanum-thalaiviyum.md` |
+| 009 | 12 | 252 | 244 | `தலைவனும் தலைவியும்!` continuation; ends `புரிந்து` | verified | `pages/0252-thalaivanum-thalaiviyum.md` |
+| 009 | 13 | 253 | 245 | `தலைவனும் தலைவியும்!` continuation; begins `கொண்டேன்` | verified | `pages/0253-thalaivanum-thalaiviyum.md` |
+| 009 | 14 | 254 | 246 | `தலைவனும் தலைவியும்!` continuation; ends `அங்கிருந்து` | verified | `pages/0254-thalaivanum-thalaiviyum.md` |
+| 009 | 15 | 255 | 247 | `தலைவனும் தலைவியும்!` close; substantial intentional blank lower field | verified | `pages/0255-thalaivanum-thalaiviyum.md` |
+| 009 | 16 | 256 | 248 | chapter40 opening `பசைக் கொடி அடையாளம்!`; displayed number 40 | verified | `pages/0256-pasaik-kodi-adaiyaalam.md` |
+| 009 | 17 | 257 | 249 | `பசைக் கொடி அடையாளம்!` continuation | verified | `pages/0257-pasaik-kodi-adaiyaalam.md` |
+| 009 | 18 | 258 | 250 | `பசைக் கொடி அடையாளம்!` continuation | verified | `pages/0258-pasaik-kodi-adaiyaalam.md` |
+| 009 | 19 | 259 | 251 | `பசைக் கொடி அடையாளம்!` continuation; ends `சென்றுகதவை` | verified | `pages/0259-pasaik-kodi-adaiyaalam.md` |
+| 009 | 20 | 260 | 252 | `பசைக் கொடி அடையாளம்!` continuation; begins `மூடித் தாழிட்டாள்` | verified | `pages/0260-pasaik-kodi-adaiyaalam.md` |
+| 009 | 21 | 261 | 253 | `பசைக் கொடி அடையாளம்!` close; substantial intentional blank lower field | verified | `pages/0261-pasaik-kodi-adaiyaalam.md` |
+| 009 | 22 | 262 | 254 | chapter41 opening `தணிகைமலை ஆவேசம்!`; displayed number 41 | verified | `pages/0262-thanikaimalai-aavesam.md` |
+| 009 | 23 | 263 | 255 | `தணிகைமலை ஆவேசம்!` continuation | verified | `pages/0263-thanikaimalai-aavesam.md` |
+| 009 | 24 | 264 | 256 | `தணிகைமலை ஆவேசம்!` continuation; ends `என்று` | verified | `pages/0264-thanikaimalai-aavesam.md` |
+| 009 | 25 | 265 | 257 | `தணிகைமலை ஆவேசம்!` continuation; resumes scan264 sentence | verified | `pages/0265-thanikaimalai-aavesam.md` |
+| 009 | 26 | 266 | 258 | `தணிகைமலை ஆவேசம்!` close; substantial intentional blank lower field | verified | `pages/0266-thanikaimalai-aavesam.md` |
+| 009 | 27 | 267 | 259 | chapter42 opening `மறைந்த மாயம் என்னவோ?`; displayed number 42 | verified | `pages/0267-maraindha-maayam-ennavo.md` |
+| 009 | 28 | 268 | 260 | `மறைந்த மாயம் என்னவோ?` continuation; ends split word `தொழு` | verified | `pages/0268-maraindha-maayam-ennavo.md` |
+| 009 | 29 | 269 | 261 | `மறைந்த மாயம் என்னவோ?` continuation; resumes `திடும்`; ends `கதவின்` | verified | `pages/0269-maraindha-maayam-ennavo.md` |
+| 009 | 30 | 270 | 262 | `மறைந்த மாயம் என்னவோ?` continuation; Part009 ends mid-sentence | verified | `pages/0270-maraindha-maayam-ennavo.md` |
 | 010 | 1 | 271 | — | unclassified — direct visual audit pending | not-started | — |
 | 010 | 2 | 272 | — | unclassified — direct visual audit pending | not-started | — |
 | 010 | 3 | 273 | — | unclassified — direct visual audit pending | not-started | — |
@@ -692,3 +692,25 @@ Exact next activity: **Part009 Pass1 scans261–270 / local pages21–30**.
 - Pass2A — **AUTHORIZED / NEXT**
 
 Exact next activity: **Part009 Pass2A — direct textual source-fidelity review of scans241–270**.
+
+## Part009 Pass2A closure checkpoint
+
+**PART009 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- active Part — **Part009 / scans241–270**
+- direct source-pixel textual review — **30/30 COMPLETE**
+- printed-page coverage reviewed — **233–262**
+- Pass2A source-text corrections — **0**
+- unresolved Pass2A textual questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- Pass2B — **NOT STARTED / NEXT**
+
+Durable Pass2A record:
+- `PART_009_PASS2A_PROGRESS.md`
+
+Exact next activity: **Part009 Pass2B — historical-glyph / word-boundary fidelity review of scans241–270**.
+
