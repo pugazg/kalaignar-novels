@@ -177,3 +177,19 @@ Exact next gate: **Part009 English translation planning/setup**.
 
 Create planning/glossary/progress controls only; perform a live English batch-number collision check before reserving the Part009 sequence; do not draft English prose in the setup gate.
 
+## Part009 English E46–E51 closure checkpoint
+
+**PART009 E46–E51 — SOURCE-CHECKED / COMPLETE.**
+
+- maintained Part009 English files — **6/6**
+- translated/source-checked — **6/6 / 6/6**
+- scans covered — **241–270 / 30**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001–Part008 English body edits — **0**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- Part010 leakage — **0**
+- exact next gate — **Part009 whole-Part English glossary reconciliation across E46–E51**
+
