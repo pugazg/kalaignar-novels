@@ -2,9 +2,9 @@
 
 ## Overall state
 
-**PART009 E46–E51 — SOURCE-CHECKED / COMPLETE**
+**PART009 FINAL CLOSED / FROZEN**
 
-Parts001–Part008 English remain **FINAL CLOSED / FROZEN**.
+Parts001–Part009 English are **FINAL CLOSED / FROZEN**.
 
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
@@ -17,9 +17,9 @@ Parts001–Part008 English remain **FINAL CLOSED / FROZEN**.
 | Glossary reconciliation | Part009 whole-Part reconciliation | 241–270 | **RECONCILED / PASS** |
 | Editorial | Part009 whole-Part English editorial review | 241–270 | **PASS / CLOSED** |
 | Bilingual | Part009 whole-Part bilingual review | 241–270 | **PASS / CLOSED** |
-| Release | Part009 release/readiness | 241–270 | **NOT STARTED / NEXT GATE** |
-| Release sync | Part009 release-ready synchronization | 241–270 | **NOT STARTED** |
-| Final closure | Part009 final closure | 241–270 | **NOT STARTED** |
+| Release | Part009 release/readiness | 241–270 | **PASS / CLOSED** |
+| Release sync | Part009 release-ready synchronization | 241–270 | **PASS / CLOSED** |
+| Final closure | Part009 final closure | 241–270 | **PASS / CLOSED / FROZEN** |
 
 ## Current counts
 
@@ -224,4 +224,28 @@ Durable final record:
 Exact next activity: activate Part010, directly audit **270→271**, then if the adjacent source witness is usable begin **Part010 Pass1 scans271–280 / local pages1–10**.
 
 Do not begin Part010 Pass2A until full-Part Pass1 coverage is complete.
+
+## Part009 post-closure control synchronization / Part010 frontier
+
+**CONTROL SYNCHRONIZATION — PASS / CURRENT.**
+
+- **Part001–Part009 — FINAL CLOSED / FROZEN**
+- Part009 maintained English E46–E51 — **6/6 SOURCE-CHECKED / COMPLETE / FROZEN**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- Part010 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part010 canonical records — **0**
+- incoming **270→271 — PENDING direct audit**
+- outgoing **300→301 — PENDING direct audit**
+- English work performed for Part010 in this synchronization — **0**
+- Part010 Tamil/English leakage — **0**
+
+Durable synchronization record:
+- `../../PART_009_POST_CLOSURE_CONTROL_SYNC.md`
+
+Exact next activity: direct **270→271** boundary audit, then if usable begin **Part010 Pass1 scans271–280 / local pages1–10**. No Part010 English work is authorized before its Tamil/assembled gates.
 
