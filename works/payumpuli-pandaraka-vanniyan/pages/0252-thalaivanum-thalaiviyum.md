@@ -3,7 +3,7 @@ scan_page: 252
 part: 9
 part_page: 12
 printed_page: 244
-work: "payumpuli-pandaraka-vanniyann"
+work: "payumpuli-pandaraka-vanniyan"
 section: "தலைவனும் தலைவியும்!"
 page_type: "body"
 status: "needs-review"
