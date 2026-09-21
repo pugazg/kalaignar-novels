@@ -236,16 +236,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 008 | 18 | 228 | 219 | `வந்தார்கள் அங்கே!` continuation | needs-review | `pages/0228-vandhaargal-ange.md` |
 | 008 | 19 | 229 | 220 | `வந்தார்கள் அங்கே!` continuation | needs-review | `pages/0229-vandhaargal-ange.md` |
 | 008 | 20 | 230 | 221 | `வந்தார்கள் அங்கே!` continuation; ends `அதற்குள்` | needs-review | `pages/0230-vandhaargal-ange.md` |
-| 008 | 21 | 231 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 22 | 232 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 23 | 233 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 24 | 234 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 25 | 235 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 26 | 236 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 27 | 237 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 28 | 238 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 29 | 239 | — | unclassified — direct visual audit pending | not-started | — |
-| 008 | 30 | 240 | — | unclassified — direct visual audit pending | not-started | — |
+| 008 | 21 | 231 | 222 | `வந்தார்கள் அங்கே!` continuation / chapter35 close; large intentional blank lower field | needs-review | `pages/0231-vandhaargal-ange.md` |
+| 008 | 22 | 232 | 223 | chapter36 opening `கைக்கு வந்த கடிதம்!`; displayed number 36; ends `வெகுளித் தனமாகக்` | needs-review | `pages/0232-kaikku-vandha-kaditham.md` |
+| 008 | 23 | 233 | 224–225 | illustrated two-page spread; chapter36 continuation; upper colour illustration; printed225 ends `தளகர்த்தர்களும்` | needs-review | `pages/0233-kaikku-vandha-kaditham.md` |
+| 008 | 24 | 234 | 226 | `கைக்கு வந்த கடிதம்!` continuation; begins `தவித்திடுவர்!` | needs-review | `pages/0234-kaikku-vandha-kaditham.md` |
+| 008 | 25 | 235 | 227 | `கைக்கு வந்த கடிதம்!` continuation | needs-review | `pages/0235-kaikku-vandha-kaditham.md` |
+| 008 | 26 | 236 | 228 | `கைக்கு வந்த கடிதம்!` continuation; ends `அதையும்` | needs-review | `pages/0236-kaikku-vandha-kaditham.md` |
+| 008 | 27 | 237 | 229 | `கைக்கு வந்த கடிதம்!` continuation / chapter36 close; large intentional blank lower field | needs-review | `pages/0237-kaikku-vandha-kaditham.md` |
+| 008 | 28 | 238 | 230 | chapter37 opening `இணையற்ற இணை!`; displayed number 37 | needs-review | `pages/0238-inaiyatra-inai.md` |
+| 008 | 29 | 239 | 231 | `இணையற்ற இணை!` continuation | needs-review | `pages/0239-inaiyatra-inai.md` |
+| 008 | 30 | 240 | 232 | `இணையற்ற இணை!` continuation; outgoing 240→241 genuine continuation audited | needs-review | `pages/0240-inaiyatra-inai.md` |
 | 009 | 1 | 241 | — | unclassified — direct visual audit pending | not-started | — |
 | 009 | 2 | 242 | — | unclassified — direct visual audit pending | not-started | — |
 | 009 | 3 | 243 | — | unclassified — direct visual audit pending | not-started | — |
@@ -509,20 +509,20 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - physical scan coverage by split ranges — **477 / 477**
 - Part001–Part007 — **FINAL CLOSED / FROZEN**
 - active maintained Part — **Part008 / scans211–240**
-- Part008 canonical page records — **20/30 — scans211–230**
-- Part008 Pass1 text-complete — **20/30**
-- Part008 Pass1 pending — **scans231–240**
-- completed Part008 printed-page coverage — **202–221**
+- Part008 canonical page records — **30/30 — scans211–240**
+- Part008 Pass1 text-complete — **30/30 — COMPLETE / PASS**
+- Part008 Pass1 pending — **0**
+- completed Part008 visible printed-page coverage — **202–232**
 - Part008 incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
-- Part008 outgoing 240→241 — **PENDING direct audit**
+- Part008 outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
 - unresolved completed-batch Pass1 holds — **0**
 - Part009 canonical page records — **0**
-- frozen Part001–Part007 body mutations caused by Part008 batch2 — **0**
+- frozen Part001–Part007 body mutations caused by Part008 Pass1 — **0**
 
 Printed-page values are recorded only when directly visible. No number is inferred merely from sequence.
 
 ## Exact next activity
 
-Continue **Part008 Pass1 — global scans231–240 / local pages21–30**.
+Begin **Part008 Pass2A — direct textual verification of scans211–240**.
 
-Do not begin Part008 Pass2A until Pass1 covers all 30 scans.
+Part001–Part007 remain frozen. Part009 canonical page records remain 0.
