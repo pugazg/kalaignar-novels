@@ -136,3 +136,20 @@ Exact next gate: **Part007 whole-Part English glossary reconciliation across E34
 - Part008 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
 - next activity — **Part008 Pass1 scans211–220 / local pages1–10**
 
+## Part008 audit downstream state
+
+The boundary classification remains unchanged after Part008 closure auditing.
+
+Part008 now has:
+- Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part audit — **PASS / COMPLETE**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- status promotions caused by the audit — **0**
+- Part009 canonical records — **0**
+
+This boundary remains **GENUINE CONTINUATION / AUDITED**.
+
+Exact next activity: **Part008 final metadata/status synchronization**.
