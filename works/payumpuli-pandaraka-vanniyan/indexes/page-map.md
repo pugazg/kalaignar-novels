@@ -515,7 +515,11 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part008 Pass2A — **COMPLETE / PASS — 30/30 REVIEWED**
 - Part008 Pass2A source-text corrections — **2**
 - Part008 Pass2A unresolved textual questions — **0**
-- Part008 Pass2B — **NOT STARTED / NEXT GATE**
+- Part008 Pass2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Part008 Pass2B source-text / lexical / spacing / punctuation corrections — **3**
+- Part008 Pass2B historical-glyph corrections — **0**
+- Part008 Pass2B unresolved questions — **0**
+- Part008 Pass3 — **NOT STARTED / NEXT GATE**
 - completed Part008 visible printed-page coverage — **202–232**
 - Part008 incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
 - Part008 outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
@@ -527,6 +531,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Begin **Part008 Pass2B — independent lexical / historical-glyph verification of scans211–240**.
+Begin **Part008 Pass3 — direct full-page visual / structural verification of scans211–240**.
 
 Part001–Part007 remain frozen. Part009 canonical page records remain 0.
