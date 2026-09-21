@@ -18,7 +18,7 @@ Parts001–Part007 English remain **FINAL CLOSED / FROZEN**.
 | Editorial | Part008 whole-Part English editorial review | 211–240 | **PASS / CLOSED** |
 | Bilingual | Part008 whole-Part bilingual review | 211–240 | **PASS / CLOSED** |
 | Release | Part008 release/readiness | 211–240 | **PASS / CLOSED** |
-| Release sync | Part008 release-ready synchronization | 211–240 | **NOT STARTED** |
+| Release sync | Part008 release-ready synchronization | 211–240 | **PASS / CLOSED** |
 | Final closure | Part008 final closure | 211–240 | **NOT STARTED** |
 
 ## Current counts
@@ -190,3 +190,21 @@ Durable report: `PART_008_BILINGUAL_REVIEW.md`.
 Durable report: `PART_008_RELEASE_REPORT.md`.
 
 Exact next activity: **Part008 release-ready synchronization**.
+
+## Part008 release-ready synchronization checkpoint
+
+**PART008 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- E40–E45 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- canonical / assembled / maintained English body changes in synchronization — **0 / 0 / 0**
+- unresolved blockers — **0**
+- Part009 leakage — **0**
+
+Exact next gate: **Part008 final closure**.
