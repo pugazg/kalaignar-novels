@@ -75,6 +75,12 @@ Part001 section files `00-*.md` through `07-*.md` are frozen.
 | 40 | 007 | `40-vetri-punnagai.md` | 196–200 | `வெற்றிப் புன்னகை!` | **VERIFIED** |
 | 41 | 007 | `41-magale-un-samarththu.md` | 201–206 | `“மகளே உன் சமர்த்து!”` | **VERIFIED** |
 | 42 | 007 | `42-nidhanamana-kaiyezhuthu.md` | 207–210 | `நிதானமான கையெழுத்து!`; Part008 continuation withheld | **VERIFIED** |
+| 43 | 008 | `43-nidhanamana-kaiyezhuthu-part008.md` | 211–212 | chapter32 continuation/close `நிதானமான கையெழுத்து!` | **VERIFIED** |
+| 44 | 008 | `44-oppandha-paththiram.md` | 213–218 | `ஒப்பந்தப் பத்திரம்` | **VERIFIED** |
+| 45 | 008 | `45-kadavul-yaar-pakkam.md` | 219–225 | `கடவுள் யார் பக்கம்!` | **VERIFIED** |
+| 46 | 008 | `46-vandhaargal-ange.md` | 226–231 | `வந்தார்கள் அங்கே!` | **VERIFIED** |
+| 47 | 008 | `47-kaikku-vandha-kaditham.md` | 232–237 | `கைக்கு வந்த கடிதம்!`; scan233 is illustrated spread / printed224–225 | **VERIFIED** |
+| 48 | 008 | `48-inaiyatra-inai.md` | 238–240 | `இணையற்ற இணை!`; Part009 continuation withheld | **VERIFIED** |
 
 ### Part003 — PASS / CLOSED
 
@@ -286,3 +292,26 @@ Exact next gate:
 - Part008 canonical records — **0**
 - next activity — **Part008 Pass1 scans211–220 / local pages1–10**
 
+## Part008 — PASS / CLOSED
+
+- physical coverage — **scans211–240**
+- canonical pages represented — **30/30**
+- assembled files — **6/6 VERIFIED**
+- omitted / duplicated canonical pages — **0 / 0**
+- unsupported body insertion — **0**
+- audit-note leakage — **0**
+- canonical Part008 page mutations caused by assembly — **0**
+- frozen Part001–Part007 assembled-file mutations — **0**
+- Part009 body leakage — **0**
+- scan233 verified Tamil body retained in left→right printed224–225 order — **PASS**
+- incoming 210→211 boundary provenance without Part007 body import — **PASS**
+- outgoing 240→241 boundary provenance without Part009 body import — **PASS**
+- validation — `../PART_008_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Part008 Tamil archival-ready remains **PASS / CLOSED**.
+
+## Exact next activity
+
+Perform **Part008 English translation planning/setup**.
+
+Use verified Part008 canonical Tamil plus the closed **6/6** assembled Tamil reading layer. Create planning/glossary/progress controls only; do not draft English prose in the setup gate.
