@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS — 20/30 TEXT-COMPLETE**
+**PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 
 Active Part:
 - Part008
@@ -15,14 +15,14 @@ Part001–Part007 remain **FINAL CLOSED / FROZEN**.
 ## Current accounting
 
 - Part008 physical scans: **30**
-- canonical Part008 records present: **20/30 — scans211–230**
-- Pass-1 text-complete records: **20/30 — scans211–230**
-- Pass-1 transcription pending: **10 — scans231–240**
+- canonical Part008 records present: **30/30 — scans211–240**
+- Pass-1 text-complete records: **30/30 — scans211–240**
+- Pass-1 transcription pending: **0**
 - unresolved Pass-1 source-reading holds in completed batch: **0**
 - incoming 210→211 boundary: **GENUINE CONTINUATION / AUDITED**
-- outgoing 240→241 boundary: **PENDING direct audit**
+- outgoing 240→241 boundary: **GENUINE CONTINUATION / AUDITED**
 - Part009 canonical records created: **0**
-- Pass 2A: **NOT STARTED / BLOCKED until Pass1 covers all 30 scans**
+- Pass 2A: **NOT STARTED / NEXT GATE**
 
 All Part008 Pass-1 records remain non-final:
 - `status: "needs-review"`
@@ -34,7 +34,7 @@ All Part008 Pass-1 records remain non-final:
 |---|---:|---:|---:|---|
 | 1 | 211–220 | 1–10 | 202–211 | **COMPLETE / TEXT-COMPLETE** |
 | 2 | 221–230 | 11–20 | 212–221 | **COMPLETE / TEXT-COMPLETE** |
-| 3 | 231–240 | 21–30 | pending direct source read | **NOT STARTED / NEXT** |
+| 3 | 231–240 | 21–30 | 222–232 (scan233 spans 224–225) | **COMPLETE / TEXT-COMPLETE** |
 
 ## Batch 1 source-structure observations
 
@@ -94,6 +94,32 @@ Frozen Part001–Part007 canonical Tamil, assembled Tamil and maintained English
 
 ## Exact next activity
 
-Continue **Part008 Pass1 — global scans231–240 / local pages21–30**.
+## Batch 3 source-structure observations
 
-Do not begin Pass2A until Pass1 covers all 30 Part008 scans. Keep outgoing **240→241** pending until directly audited.
+- scan231 / printed222 continues scan230's terminal `அதற்குள்` with `குருவிச்சி` and closes chapter35 `வந்தார்கள் அங்கே!`; a substantial intentional blank lower field follows;
+- scan232 / printed223 opens chapter36 `கைக்கு வந்த கடிதம்!` with displayed chapter number **36** and ends at `வெகுளித் தனமாகக்`;
+- scan233 is an **illustrated-two-page-spread** carrying printed pages **224–225**; the colour illustration spans the upper spread and the two lower text blocks read left→right;
+- scan233 printed225 ends at `தளகர்த்தர்களும்`; scan234 / printed226 continues `தவித்திடுவர்!`;
+- scan236 / printed228 ends at `அதையும்`; scan237 / printed229 continues `உற்றுப் பார்த்து` and closes chapter36 with a substantial intentional blank lower field;
+- scan238 / printed230 opens chapter37 `இணையற்ற இணை!` with displayed chapter number **37**;
+- scans238–240 continue chapter37;
+- scan240 / printed232 ends with `இருவரையும் தூக்கிச் சென்றனர் கொழும்புக் கோட்டையின் அந்தப்புரத்திற்கு!`;
+- outgoing **240→241** was directly compared against supplied Part009 scan241 / printed233 and is **GENUINE CONTINUATION / AUDITED**;
+- no Part009 canonical page record was created.
+
+## Notable Batch 3 source readings retained
+
+- scan231 — `தணிகையா?`, `கணவன் ஊமை`;
+- scan232 — `மெத்த`, `மார்த்தனி யென்று`, `வலைவீச்சென்றவளும்`, `வெகுளித் தனமாகக்`;
+- scan233 — `‘களுக்’`, `ஒளியுமிழ்ந்த`, `நெஞ்சங்`, `சிங்கம்நிகர்`, `கர்வத்தை`, `கட்டி வில்`;
+- scan234 — `அட்சய பாத்திரம்`, `பாத்திர மெனக்`, `லாகிரிக்`, `லட்சியம்`, split `சுதந்திரத் திற்காகப்`;
+- scan235 — `கண்ணுசாமியேதான்`, `மடப் பெண்ணே`, `மாளாத மோகம்`, `சிறையிருக்கும்`;
+- scan236 — `நாணிக் கோணி`, `கொடம்மா`, `காமாந்தக்காரி`, `மெய்க்காப்பாளனாகவும்`;
+- scan237 — source punctuation `கண்டி மன்னனின், கடிதத்தைப்`;
+- scan238 — `நாலு யுகங்கள்`, `வஞ்ச நெஞ்சத்துடன்`, source joining `புரிகிறது.எனக்குத்`;
+- scan239 — `அரிசியில் கல் பொறுக்குவதுபோல`, `தானேப் பரவி`, `தஸ்தாவேஜுகள்`, `கொழுத்த வெள்ளாடு`;
+- scan240 — `அலட்சியப் படுத்திவிடாதே`, `கடித மூலம்`, `அம்ச தூளிகா மஞ்சத்தில்`, `திடீர்ப்பஞ்சம்`, `அந்தப்புரத்திற்கு`.
+
+## Exact next activity
+
+Begin **Part008 Pass2A — direct textual verification**, with all 30 Pass1 records present. Keep Part001–Part007 frozen and Part009 canonical records at 0.
