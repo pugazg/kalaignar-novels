@@ -358,3 +358,25 @@ Audited boundaries through the current frontier:
 Exact next gate: **Part008 Tamil archival-ready checkpoint**.
 
 Part009 remains supplied / registered / blocked until Part008 completes its maintained workflow and final closure.
+
+## Current authoritative frontier — Part008 Tamil archival-ready
+
+- Part001–Part007 — **FINAL CLOSED / FROZEN**
+- Part008 / scans211–240 — **ACTIVE / TAMIL ARCHIVAL-READY / ASSEMBLY NEXT**
+- Part008 canonical records — **30/30 verified**
+- Part008 visual fidelity — **30/30 verified**
+- Part008 Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part008 correction ledger — **2 Pass2A + 3 Pass2B + 0 Pass3**
+- Part008 Part audit — **PASS / COMPLETE**
+- Part008 final metadata/status synchronization — **PASS / CLOSED**
+- Part008 documentation synchronization — **PASS / COMPLETE**
+- Part008 Tamil archival-ready — **PASS / CLOSED**
+- Part008 incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- Part008 outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- archival-ready canonical/page-status changes — **0 / 0**
+- Part009 canonical records — **0**
+- split-boundary classifications — **8 / 15 audited**
+
+Exact next gate: **Part008 assembled Tamil construction + audit**.
+
+Part009 remains supplied / registered / blocked until Part008 completes its maintained workflow and final closure.
