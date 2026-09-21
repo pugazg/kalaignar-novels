@@ -50,3 +50,21 @@ Part 009 source split: **SUPPLIED / REGISTERED / INCOMING BOUNDARY AUDITED**.
 - outgoing 270→271 — **PENDING direct audit**
 
 This Part waits behind the global active frontier. Do not create page records here until Part008's maintained workflow authorizes Part009.
+
+## Upstream Part008 verified/documentation state
+
+Part008 / scans211–240 has now completed:
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- documentation synchronization — **PASS / COMPLETE**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+
+Part009 remains:
+- **SUPPLIED / REGISTERED / INCOMING BOUNDARY AUDITED**
+- canonical records — **0**
+- outgoing 270→271 — **PENDING direct audit**
+
+Part009 is still blocked behind the remaining Part008 maintained workflow. Exact current Part008 gate: **Tamil archival-ready checkpoint**. Do not create Part009 canonical page records yet.
