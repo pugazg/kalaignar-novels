@@ -1069,3 +1069,32 @@ Durable progress:
 - `works/payumpuli-pandaraka-vanniyan/PART_009_PASS1_PROGRESS.md`
 
 Exact next activity: **Part009 Pass1 scans261–270 / local pages21–30**.
+
+## Part009 Pass1 final closure checkpoint
+
+**PART009 PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE.**
+
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- active Part — **Part009 / scans241–270**
+- canonical Part009 records — **30/30**
+- Pass1 text-complete — **30/30**
+- Pass1 pending — **0**
+- printed-page coverage — **233–262**
+- Batch1 — **241–250 COMPLETE**
+- Batch2 — **251–260 COMPLETE**
+- Batch3 — **261–270 COMPLETE**
+- chapter40 `பசைக் கொடி அடையாளம்!` — closes scan261
+- chapter41 `தணிகைமலை ஆவேசம்!` — scans262–266
+- chapter42 `மறைந்த மாயம் என்னவோ?` — opens scan267 and continues through scan270
+- Batch3 intentional blank lower fields — **261, 266**
+- Pass1 source-reading corrections in final batch — **2**
+- unresolved Pass1 source-reading holds — **0**
+- all 30 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- Pass2A — **AUTHORIZED / NEXT**
+
+Durable progress:
+- `works/payumpuli-pandaraka-vanniyan/PART_009_PASS1_PROGRESS.md`
+
+Exact next activity: **Part009 Pass2A — direct textual source-fidelity review of scans241–270**.
