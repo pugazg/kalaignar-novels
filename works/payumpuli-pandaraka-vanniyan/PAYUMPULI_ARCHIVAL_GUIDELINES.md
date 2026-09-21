@@ -435,3 +435,32 @@ Exact next activity:
 **Part008 Pass2A — direct textual verification of scans211–240.**
 
 Do not begin Pass2B in the same activity. Keep Part009 canonical records at 0.
+
+## Part008 Pass2A completion checkpoint
+
+**PART008 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Part001–Part007 — **FINAL CLOSED / FROZEN**
+- Part008 canonical records — **30/30 — scans211–240**
+- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass2A source-text corrections — **2**
+- scan217 / printed208 — `உமக்கு எப்போதும்` → `உமக்கெப்போதும்`
+- scan219 / printed210 — `பயமெல்லாம் -` → `பயமெல்லாம்-`
+- unresolved Pass2A textual questions — **0**
+- status promotions — **0**
+- all Part008 page records remain `needs-review` / `visual_fidelity: "needs-review"`
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- Part009 canonical records — **0**
+- frozen Parts001–007 body mutations — **0**
+- Pass2B — **NOT STARTED / NEXT GATE**
+
+Durable Pass2A record:
+- `works/payumpuli-pandaraka-vanniyan/PART_008_PASS2A_PROGRESS.md`
+
+Exact next activity:
+
+**Part008 Pass2B — independent lexical / historical-glyph verification of scans211–240.**
+
+Do not begin Pass3 in the same activity. Keep Part009 canonical records at 0.
