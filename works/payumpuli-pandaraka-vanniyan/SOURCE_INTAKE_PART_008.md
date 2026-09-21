@@ -45,7 +45,7 @@ The canonical `scan_page` remains the overall scan number **211–240**.
 
 ## Current gate
 
-**PART008 DOCUMENTATION SYNCHRONIZATION — PASS / COMPLETE.**
+**PART008 TAMIL ARCHIVAL-READY — PASS / CLOSED.**
 
 Upstream lock:
 - Part001–Part007 — **FINAL CLOSED / FROZEN**
@@ -74,6 +74,9 @@ Part008:
 - visual fidelity — **30/30 verified**
 - partial / source-limited / needs-review — **0 / 0 / 0**
 - documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- archival-ready canonical Tamil changes — **0**
+- archival-ready page-status changes — **0**
 - documentation-sync canonical Part008 page changes — **0**
 - incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
@@ -142,8 +145,11 @@ Durable final-status record:
 Durable documentation-sync record:
 - `PART_008_DOCUMENTATION_SYNC.md`
 
+Durable Tamil archival-ready record:
+- `PART_008_TAMIL_ARCHIVAL_READY.md`
+
 Exact next activity:
 
-**Part008 Tamil archival-ready checkpoint.**
+**Part008 assembled Tamil construction + audit.**
 
-Do not begin assembled Tamil construction until that checkpoint closes. Keep Parts001–Part007 frozen and Part009 canonical records at 0.
+Use only verified Part008 canonical `pages/` records as textual authority. Keep Parts001–Part007 frozen and Part009 canonical records at 0. Do not begin English translation/review.
