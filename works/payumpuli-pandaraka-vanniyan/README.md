@@ -1493,3 +1493,37 @@ Durable controls:
 Exact next activity: **Part010 Pass1 scans291–300 / local pages21–30**.
 
 Do not begin Part010 Pass2A in the same activity. Keep **300→301 PENDING direct audit** unless the exact adjacent Part011 source is directly checked.
+
+
+## Part010 Pass1 closure / current frontier
+
+**PART010 PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE.**
+
+- Parts001–009 — **FINAL CLOSED / FROZEN**
+- canonical Part010 records — **30/30 — scans271–300**
+- local pages — **1–30**
+- directly observed printed folios — **263–272, 274–292**
+- scan281 — **full-page colour narrative illustration / printed_page null**
+- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **300→301 — PENDING direct audit**
+- missing scans / duplicate records — **0 / 0**
+- unresolved Pass1 source-reading holds — **0**
+- completed records remain `needs-review / needs-review`
+- Pass2A — **AUTHORIZED / NOT STARTED**
+- frozen Parts001–009 body mutations — **0**
+
+Batch3:
+- scan291 / printed283 closes chapter45 `தேவை நூறு வீரர்கள்!`
+- scan292 / printed284 opens chapter46 `எல்லாம் நன்மைக்கே!`
+- scan297 / printed289 closes chapter46 with substantial intentional blank lower field
+- scan298 / printed290 opens chapter47 `தலையாழி மாற்றிக் கொண்டனர்`
+- scan300 / printed292 ends with an open quotation/question; no Part011 wording imported
+
+Durable controls:
+- `works/payumpuli-pandaraka-vanniyan/PART_010_PASS1_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_010_HANDOFF.md`
+- `works/payumpuli-pandaraka-vanniyan/SOURCE_INTAKE_PART_010.md`
+
+Exact next activity: **Part010 Pass2A — direct textual source-fidelity review of scans271–300**.
+
+If exact Part011 scan301 is supplied before that review, audit **300→301** directly; otherwise keep the outgoing boundary pending. Do not begin Pass2B until Pass2A closes.
