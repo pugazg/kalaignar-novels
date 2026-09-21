@@ -127,3 +127,31 @@ Durable Pass3 record:
 Perform **Part008 Part audit**.
 
 Do not promote any page metadata to `verified` until the Part audit passes.
+
+## Post-audit current state
+
+Part008 Part audit is **PASS / COMPLETE**.
+
+- canonical records — **30/30 present**
+- scan coverage — **continuous 211–240**
+- duplicate Part008 scan records — **0**
+- formal Pass2A / Pass2B / Pass3 evidence — **30/30 / 30/30 / 30/30**
+- cumulative corrections — **2 Pass2A + 3 Pass2B + 0 Pass3**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- printed-page mapping — **PASS — 202–223, scan233=224–225, 226–232**
+- chapter openings — **213, 219, 226, 232, 238**
+- intentional blank lower fields — **212, 218, 225, 231, 237**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- all Part008 page records remain `needs-review`
+- status promotions caused by audit — **0**
+- Part009 canonical records — **0**
+
+Durable audit:
+- `PART_008_AUDIT.md`
+
+## Exact next activity
+
+Perform **Part008 final metadata/status synchronization**.
+
+Promote only `status` and `visual_fidelity` from `needs-review` to `verified` across the 30 Part008 page records. Do not change canonical Tamil body text or structural/provenance metadata.
