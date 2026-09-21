@@ -2,18 +2,18 @@
 
 ## Overall state
 
-**PART008 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS**
+**PART008 E40–E45 — SOURCE-CHECKED / COMPLETE**
 
 Parts001–Part007 English remain **FINAL CLOSED / FROZEN**.
 
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
-| **E40** | section43 — chapter32 continuation/close `நிதானமான கையெழுத்து!` | 211–212 | **PLANNED / NEXT** |
-| **E41** | section44 — `ஒப்பந்தப் பத்திரம்` | 213–218 | **PLANNED / BLOCKED BEHIND E40** |
-| **E42** | section45 — `கடவுள் யார் பக்கம்!` | 219–225 | **PLANNED / BLOCKED BEHIND E41** |
-| **E43** | section46 — `வந்தார்கள் அங்கே!` | 226–231 | **PLANNED / BLOCKED BEHIND E42** |
-| **E44** | section47 — `கைக்கு வந்த கடிதம்!` | 232–237 | **PLANNED / BLOCKED BEHIND E43** |
-| **E45** | section48 — `இணையற்ற இணை!` | 238–240 | **PLANNED / BLOCKED BEHIND E44** |
+| **E40** | section43 — chapter32 continuation/close `நிதானமான கையெழுத்து!` | 211–212 | **SOURCE-CHECKED / COMPLETE** |
+| **E41** | section44 — `ஒப்பந்தப் பத்திரம்` | 213–218 | **SOURCE-CHECKED / COMPLETE** |
+| **E42** | section45 — `கடவுள் யார் பக்கம்!` | 219–225 | **SOURCE-CHECKED / COMPLETE** |
+| **E43** | section46 — `வந்தார்கள் அங்கே!` | 226–231 | **SOURCE-CHECKED / COMPLETE** |
+| **E44** | section47 — `கைக்கு வந்த கடிதம்!` | 232–237 | **SOURCE-CHECKED / COMPLETE** |
+| **E45** | section48 — `இணையற்ற இணை!` | 238–240 | **SOURCE-CHECKED / COMPLETE** |
 | Glossary reconciliation | Part008 whole-Part reconciliation | 211–240 | **NOT STARTED** |
 | Editorial | Part008 whole-Part English editorial review | 211–240 | **NOT STARTED** |
 | Bilingual | Part008 whole-Part bilingual review | 211–240 | **NOT STARTED** |
@@ -29,8 +29,8 @@ Parts001–Part007 English remain **FINAL CLOSED / FROZEN**.
 - Tamil assembled files — **6/6 VERIFIED / CLOSED**
 - Part008 English planned batches — **E40–E45 / 6**
 - Part008 English planned files — **6**
-- Part008 English translated files — **0/6**
-- Part008 English source-checked files — **0/6**
+- Part008 English translated files — **6/6**
+- Part008 English source-checked files — **6/6**
 - unresolved English planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -108,3 +108,28 @@ No Part008 English literary prose is drafted in this planning gate.
 **E40 draft + source-check — section43 / scans211–212.**
 
 Do not begin E41 until E40 is **SOURCE-CHECKED / COMPLETE**.
+
+## E40–E45 closure
+
+- E40 — **SOURCE-CHECKED / COMPLETE**
+- E41 — **SOURCE-CHECKED / COMPLETE**
+- E42 — **SOURCE-CHECKED / COMPLETE**
+- E43 — **SOURCE-CHECKED / COMPLETE**
+- E44 — **SOURCE-CHECKED / COMPLETE**
+- E45 — **SOURCE-CHECKED / COMPLETE**
+- maintained English files — **6/6**
+- scans211–240 — **fully covered**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Part001–Part007 English body edits — **0**
+- Part009 leakage — **0**
+
+Durable batch source-check records:
+- `E40_SOURCE_CHECK.md` through `E45_SOURCE_CHECK.md`
+
+## Exact next activity
+
+Perform **Part008 whole-Part English glossary reconciliation** across all six maintained English files / scans211–240.
+
+Do not begin editorial review until glossary reconciliation closes.
