@@ -268,3 +268,25 @@ Final-batch source-reading corrections before closure:
 - scan270 — `கண் ராவியைக்` → `கண் றாவியைக்`
 
 Exact next activity: **Part009 Pass2A — direct textual source-fidelity review of scans241–270**.
+
+## Part009 Pass2A closure checkpoint
+
+**PART009 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- active Part — **Part009 / scans241–270**
+- direct source-pixel textual review — **30/30 COMPLETE**
+- printed-page coverage reviewed — **233–262**
+- Pass2A source-text corrections — **0**
+- unresolved Pass2A textual questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- Pass2B — **NOT STARTED / NEXT**
+
+Durable Pass2A record:
+- `PART_009_PASS2A_PROGRESS.md`
+
+Exact next activity: **Part009 Pass2B — historical-glyph / word-boundary fidelity review of scans241–270**.
+
