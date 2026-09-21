@@ -29,14 +29,15 @@ If the exact PDF is unavailable in a fresh chat, request this exact file before 
 
 - source intake — **SUPPLIED / REGISTERED**
 - lifecycle — **ACTIVE — PASS1 IN PROGRESS**
-- canonical Part010 page records — **10/30**
-- completed global scans — **271–280**
-- completed local pages — **1–10**
-- printed-page coverage — **263–272**
+- canonical Part010 page records — **20/30**
+- completed global scans — **271–290**
+- completed local pages — **1–20**
+- printed-page coverage — **263–272, 274–282**
+- scan281 — **full-page colour narrative illustration / printed_page null**
 - completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **300→301 — PENDING direct audit**
-- Pass1 — **10/30 TEXT-COMPLETE**
+- Pass1 — **20/30 TEXT-COMPLETE**
 - Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
 - Pass2B — **NOT STARTED**
 - Pass3 — **NOT STARTED**
@@ -72,14 +73,23 @@ No cross-Part wording was reconstructed in either canonical page.
 - scan279 ends mid-dialogue at `நீ அவனைக் கொல்வதாக`;
 - scan280 resumes with `இருந்தாலும்` and chapter44 continues beyond the batch.
 
+## Completed Batch 2 structure
+
+- scan281 / local11 — full-page colour narrative illustration; no printed Tamil body and no visible folio;
+- scans282–285 / printed274–277 — chapter44 `இன்றா, நாளையா? ஏன்?` continuation / close;
+- scan285 — substantial intentional blank lower field;
+- scan286 / printed278 — chapter45 `தேவை நூறு வீரர்கள்!` opens, displayed number **45**;
+- scans286–290 / printed278–282 — chapter45 continuation;
+- chapter45 continues beyond scan290.
+
 ## Exact next activity
 
-Process **Part010 Pass1 scans281–290 / local pages11–20** from direct source pixels.
+Process **Part010 Pass1 scans291–300 / local pages21–30** from direct source pixels.
 
 For each canonical record preserve:
 - `part: 10`;
-- `part_page: 11–20`;
-- `scan_page: 281–290`;
+- `part_page: 21–30`;
+- `scan_page: 291–300`;
 - exact Part010 `source_filename`;
 - exact printed-page values visible in source;
 - source spelling, punctuation, historical/variant forms, word boundaries, paragraph/dialogue structure, displayed hierarchy and physical page-end state.
@@ -88,17 +98,15 @@ Do not modernize or silently normalize.
 
 Do not alter frozen Parts001–009.
 
-Keep outgoing **300→301 PENDING direct audit**.
+Keep outgoing **300→301 PENDING direct audit** until Part011 scan301 is directly checked.
 
-After scans281–290, synchronize `PART_010_PASS1_PROGRESS.md`, `SOURCE_INTAKE_PART_010.md`, this handoff and `indexes/page-map.md` to the exact completed state.
+After scans291–300, synchronize `PART_010_PASS1_PROGRESS.md`, `SOURCE_INTAKE_PART_010.md`, this handoff and `indexes/page-map.md` to full 30/30 Pass1 state.
 
 ## Stop condition
 
-Stop after **scans281–290 / local pages11–20**.
+Stop after **scans291–300 / local pages21–30** and repository synchronization.
 
-Do not automatically process scans291–300 unless explicitly asked.
-
-Do not begin Pass2A until Pass1 reaches **30/30**.
+Do not begin Pass2A in the same activity. The direct outgoing **300→301** boundary audit remains a separate required adjacent-source check unless explicitly included by the user.
 
 ## Read first in a new chat
 
