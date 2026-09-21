@@ -107,3 +107,23 @@ All Part008 page records remain `needs-review` pending Pass 3, Part audit and fi
 Perform **Part008 Pass 3 — direct full-page visual / structural verification of scans211–240**.
 
 Do not begin Part audit in the same activity. Keep Parts001–007 frozen and Part009 canonical records at 0.
+
+## Post-Pass2B current state
+
+Part008 Pass 3 is **COMPLETE / PASS — 30/30 REVIEWED**.
+
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+- scan233 — **illustrated-two-page-spread / printed224–225 structurally confirmed**
+- intentional chapter-closing blank lower fields — **scans212, 218, 225, 231, 237 confirmed**
+- Part009 canonical records — **0**
+
+Durable Pass3 record:
+- `PART_008_PASS3_PROGRESS.md`
+
+## Exact next activity
+
+Perform **Part008 Part audit**.
+
+Do not promote any page metadata to `verified` until the Part audit passes.
