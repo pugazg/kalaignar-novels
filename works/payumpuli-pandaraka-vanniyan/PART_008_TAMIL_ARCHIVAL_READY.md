@@ -292,3 +292,27 @@ E41 remains blocked until E40 is **SOURCE-CHECKED / COMPLETE**.
 Exact next gate: **Part008 whole-Part English glossary reconciliation across E40–E45**.
 
 Do not begin editorial review until glossary reconciliation closes.
+
+## Part008 release-ready synchronization checkpoint
+
+**PART008 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- E40–E45 — **6/6 SOURCE-CHECKED / COMPLETE**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- editorial English-only changes — **1**
+- whole-Part bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections — **1**
+- release/readiness — **PASS / CLOSED**
+- unresolved blockers — **0**
+- canonical / assembled / English body changes in release-ready synchronization — **0 / 0 / 0**
+- frozen Part001–Part007 body changes — **0**
+- Part009 canonical/body leakage — **0**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+
+Exact next gate: **Part008 final closure**.
+
+Do not begin Part009 canonical transcription until final closure passes.
