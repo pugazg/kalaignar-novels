@@ -55,3 +55,14 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 batch s
 - `visual_fidelity` remains **needs-review** pending the later visual gate;
 - Pass 2B historical-glyph / word-boundary review remains the next gate.
 
+## Formal Part009 Pass 2B review
+
+- independent lexical / word-boundary / punctuation-sensitive and historical-glyph reread completed directly against the rendered Part009 source pixels;
+- source-specific spelling, compounds, joins, spacing and irregular forms were preserved without modernization;
+- source-text / lexical / spacing / punctuation corrections: **0**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass 3.
+
