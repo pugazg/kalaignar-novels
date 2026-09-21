@@ -296,16 +296,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 010 | 18 | 288 | 280 | `தேவை நூறு வீரர்கள்!` continuation; resumes scan287; ends `அவளது` | needs-review | `pages/0288-thevai-nooru-veerargal.md` |
 | 010 | 19 | 289 | 281 | `தேவை நூறு வீரர்கள்!` continuation; resumes scan288 | needs-review | `pages/0289-thevai-nooru-veerargal.md` |
 | 010 | 20 | 290 | 282 | `தேவை நூறு வீரர்கள்!` continuation; chapter continues beyond batch | needs-review | `pages/0290-thevai-nooru-veerargal.md` |
-| 010 | 21 | 291 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 22 | 292 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 23 | 293 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 24 | 294 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 25 | 295 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 26 | 296 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 27 | 297 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 28 | 298 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 29 | 299 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 30 | 300 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 21 | 291 | 283 | `தேவை நூறு வீரர்கள்!` continuation / close | needs-review | `pages/0291-thevai-nooru-veerargal.md` |
+| 010 | 22 | 292 | 284 | chapter46 opening `எல்லாம் நன்மைக்கே!`; displayed number 46; ends `கைது செய்து` | needs-review | `pages/0292-ellam-nanmaikke.md` |
+| 010 | 23 | 293 | 285 | `எல்லாம் நன்மைக்கே!` continuation; resumes scan292 sentence; devotional verse | needs-review | `pages/0293-ellam-nanmaikke.md` |
+| 010 | 24 | 294 | 286 | `எல்லாம் நன்மைக்கே!` continuation | needs-review | `pages/0294-ellam-nanmaikke.md` |
+| 010 | 25 | 295 | 287 | `எல்லாம் நன்மைக்கே!` continuation | needs-review | `pages/0295-ellam-nanmaikke.md` |
+| 010 | 26 | 296 | 288 | `எல்லாம் நன்மைக்கே!` continuation | needs-review | `pages/0296-ellam-nanmaikke.md` |
+| 010 | 27 | 297 | 289 | `எல்லாம் நன்மைக்கே!` close; substantial intentional blank lower field | needs-review | `pages/0297-ellam-nanmaikke.md` |
+| 010 | 28 | 298 | 290 | chapter47 opening `தலையாழி மாற்றிக் கொண்டனர்`; displayed number 47 | needs-review | `pages/0298-thalaiyaazhi-maatrik-kondanar.md` |
+| 010 | 29 | 299 | 291 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; ends `காக்கை வன்னியனின்` | needs-review | `pages/0299-thalaiyaazhi-maatrik-kondanar.md` |
+| 010 | 30 | 300 | 292 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; Part010 ends with open quotation/question; 300→301 pending | needs-review | `pages/0300-thalaiyaazhi-maatrik-kondanar.md` |
 | 011 | 1 | 301 | — | unclassified — direct visual audit pending | not-started | — |
 | 011 | 2 | 302 | — | unclassified — direct visual audit pending | not-started | — |
 | 011 | 3 | 303 | — | unclassified — direct visual audit pending | not-started | — |
