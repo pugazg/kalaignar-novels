@@ -11,7 +11,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 - complete-source extent: **477 scans**;
 - split design: **15 × 30 pages + final 27 pages = 477**;
 - file size: **28,036,690 bytes**;
-- SHA-256: **PENDING**;
+- SHA-256: **144aecae1ab4c2e72e9e7fae2260745cf0c0ff8fe0ae6e8119e9a6b220a9ffcf**;
 - source text layer: **no usable parsed text exposed**;
 - controlling representation: **rendered source page images**;
 - source family: **TVA_BOK_0065744**;
@@ -23,7 +23,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Boundary state
 
-- incoming split boundary: **240→241 — source available; classification pending direct audit**;
+- incoming split boundary: **240→241 — GENUINE CONTINUATION / AUDITED**;
 - outgoing split boundary: **270→271 — source available; classification pending direct audit**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
@@ -42,6 +42,11 @@ The canonical `scan_page` remains the overall scan number **241–270**.
 
 ## Current gate
 
-Part 009 source split: **SUPPLIED / REGISTERED**.
+Part 009 source split: **SUPPLIED / REGISTERED / INCOMING BOUNDARY AUDITED**.
 
-This Part waits behind the global active frontier. Do not create page records here until processing reaches its overall scan range.
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- scan241 was inspected only as the adjacent boundary witness
+- canonical Part009 page records — **0**
+- outgoing 270→271 — **PENDING direct audit**
+
+This Part waits behind the global active frontier. Do not create page records here until Part008's maintained workflow authorizes Part009.
