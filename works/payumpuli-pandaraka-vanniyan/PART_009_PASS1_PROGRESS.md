@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE**
+**PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 
 Active Part:
 - Part009
@@ -16,14 +16,14 @@ Parts001–Part008 remain **FINAL CLOSED / FROZEN**.
 ## Current accounting
 
 - Part009 physical scans — **30**
-- canonical Part009 records present — **20/30 — scans241–260**
-- Pass1 text-complete — **20/30 — scans241–260**
-- Pass1 pending — **10/30 — scans261–270**
+- canonical Part009 records present — **30/30 — scans241–270**
+- Pass1 text-complete — **30/30 — scans241–270**
+- Pass1 pending — **0**
 - unresolved Pass1 source-reading holds in completed batch — **0**
 - incoming 240→241 boundary — **GENUINE CONTINUATION / AUDITED**
 - outgoing 270→271 boundary — **PENDING direct audit**
-- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
-- all 20 completed records remain:
+- Pass2A — **NOT STARTED / NEXT**
+- all 30 completed records remain:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
 
@@ -33,7 +33,7 @@ Parts001–Part008 remain **FINAL CLOSED / FROZEN**.
 |---|---:|---:|---:|---|
 | 1 | 241–250 | 1–10 | 233–242 | **COMPLETE / TEXT-COMPLETE** |
 | 2 | 251–260 | 11–20 | 243–252 | **COMPLETE / TEXT-COMPLETE** |
-| 3 | 261–270 | 21–30 | pending direct inspection | **NOT STARTED / NEXT** |
+| 3 | 261–270 | 21–30 | 253–262 | **COMPLETE / TEXT-COMPLETE** |
 
 ## Batch 1 source-structure observations
 
@@ -95,14 +95,70 @@ All ten new records were re-read from live `main` after creation. Provenance, sc
 
 A creation-time metadata typo in scan252's `work` field was corrected from `payumpuli-pandaraka-vanniyann` to `payumpuli-pandaraka-vanniyan`. No Tamil body text was changed by that fix.
 
+
+
+## Batch 3 source-structure observations
+
+- scan261 / printed253 continues and closes chapter40 `பசைக் கொடி அடையாளம்!`; a substantial intentional blank lower field follows;
+- scan262 / printed254 opens chapter41 `தணிகைமலை ஆவேசம்!` with displayed chapter number **41**;
+- scans262–266 carry chapter41;
+- scan264 ends mid-sentence at `என்று`; scan265 resumes with `கடுமையான சாபம் கொடுத்தார்.`;
+- scan266 / printed258 closes chapter41 and preserves a substantial intentional blank lower field;
+- scan267 / printed259 opens chapter42 `மறைந்த மாயம் என்னவோ?` with displayed chapter number **42**;
+- scans267–270 carry chapter42;
+- scan268 ends mid-word at `தொழு`; scan269 resumes with `திடும்`;
+- scan269 ends mid-sentence at `கதவின்`; scan270 resumes with `இடுக்குவழியே`;
+- scan270 / printed262 ends mid-sentence at `என்மீது ஒரு`; chapter42 continues into Part010;
+- outgoing **270→271** remains **PENDING direct audit** because the adjacent Part010 source is not available in the current source set.
+
+## Batch 3 notable source readings retained
+
+- scan261 — `அந்தக்கொடி`;
+- scan262 — `எனக்கூறிவிட்டுச்`, `வெள்ளப்பாகும்`, `புலவனுமல்ல- கவிஞனுமல்ல`, `அவ்வளவுதான்`, `அதிருக்கட்டும்`;
+- scan263 — `பண்டாரக வன்னியரின்`, `ரூபவதியையா`, `கண்போதாது`, `ரிஷிபத்தினி`, `நாளுமில்லாமல்`, `குதூகலம்`;
+- scan264 — `கொஞ்சவே`, `தேவேந்திரன்`, `வெகுண்டெழவில்லையா`, `சிவபூஜையில் கரடியைப்போல`, `சாப விமோசனமே`, `உட்காரவைத்துப்பாராட்டி`, `உச்சிமோர்ந்து`;
+- scan265 — `உண்டாயின`, `நீ கூடத்தான்`, `குருவிச்சி நாச்சி கூடவா`, `உணர்ச்சி வயப்பட்டு`, `உடன்பிறவாச் சகோதரியாக`, `நிதானமிழந்து`, `சொல்லிக்கொண்டே`;
+- scan266 — `விடுவித்துக்கொண்ட`, `கம்பொன்றில்`, `சொறிந்துகொண்டு`, `அதிரூப அமராவதியாம்`, `குரலேதான்`;
+- scan267 — `தளம்விட்டுத்`, `தலைவிரி கோலமாக`, `கோபத்துக் கொண்டு`, `விட்டுப்போய்விட்டார்`, `இதோ-அவர்`, `கடைந்தெடுத்த`, `பைத்தியக் காரத்தனம்`, `நம்மீது`, `காந்தள்`, `கட்டு விரியன்`;
+- scan268 — `எனக்குப்பட்டது`, `அதைப்படித்துவிட்டு`, `தூக்கி விட்டால்கூட`, `எச்சில்பட்ட`, `நாடகம்தானா`, `நீயிருக்க`, `பவித்திரமானது`, `தெய்வத்துக்கே`, `கல் வைக்கூட`;
+- scan269 — `உன்னையன்றி`, `இப்படி யொரு`, `இன்பக் காட்சிகளோ`, `விருந்துப் பண்டம்`, `விலைமகளிர்`, `உடல்வாகு`, `சென்றுவளைத்தால்`, source spacing `என்று மில்லாத`, `சொர்க்கலோகம்`;
+- scan270 — `கண்கொள்ளாக்`, `முத்த மிட்டவாறு`, `இந்திரன்-சந்திரன்`, source form `கண் றாவியைக்`, `வாழலாம்-ஓய்யாரமாக`, `பாபச் சகதியில்`, `சகுவாசம்`, `காலந்தொட்டு`, `வளை வளை`, `விக்கிரம ராஜ சிங்காவுக்குக்கூட`.
+
+## Batch 3 verification note
+
+All ten final-batch records were re-read after creation for provenance, scan numbering, Part numbering, local-page numbering, printed pagination, source filename, `needs-review` status and Pass1 text-complete markers.
+
+Two initial working readings were corrected before Pass1 closure from direct source pixels:
+- scan269 — `உன் நையாண்டி` → **`உன்னையன்றி`**;
+- scan270 — `கண் ராவியைக்` → **`கண் றாவியைக்`**.
+
+These are Pass1 source-reading corrections made before formal gate closure. No frozen earlier-Part body was changed.
+
+## Pass1 closure
+
+**PART009 PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE.**
+
+- canonical records — **30/30**
+- scans — **241–270 continuous**
+- local pages — **1–30 continuous**
+- printed pages directly observed — **233–262**
+- duplicate canonical records — **0**
+- missing Part009 scans — **0**
+- unresolved Pass1 source-reading holds — **0**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- all canonical records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- Pass2A — **AUTHORIZED / NEXT**
+
 ## Method note
 
-The user-supplied Part009 split source was rendered to page images and the first twenty pages were inspected directly. Source wording, punctuation, paragraph/dialogue structure, displayed hierarchy, printed pagination, intentional blank fields and physical page-end fragments were preserved from source pixels. OCR was not treated as source authority.
+The user-supplied Part009 split source was rendered to page images and all thirty Part009 pages were inspected directly. Source wording, punctuation, paragraph/dialogue structure, displayed hierarchy, printed pagination, intentional blank fields and physical page-end fragments were preserved from source pixels. OCR was not treated as source authority.
 
 Frozen Parts001–008 canonical Tamil, assembled Tamil and maintained English body files were not modified.
 
 ## Exact next activity
 
-Perform **Part009 Pass1 — global scans261–270 / local pages21–30**.
+Perform **Part009 Pass2A — direct textual source-fidelity review of scans241–270**.
 
-Do not begin Pass2A until Pass1 covers all **30/30** Part009 pages.
+Pass1 now covers all **30/30** Part009 pages. Begin Pass2A only on the next explicit continuation.
