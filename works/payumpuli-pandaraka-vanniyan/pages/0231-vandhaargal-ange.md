@@ -34,7 +34,7 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 batch s
 - continues scan230's physical-page ending at `அதற்குள்`; scan231 begins directly with `குருவிச்சி`
 - chapter35 `வந்தார்கள் அங்கே!` closes on this physical page
 - substantial intentional blank lower field follows the closing sentence and is not missing body content
-- source-visible `தணிகையா?`, `மெத்த` is not present on this page; no modernization is introduced
+- source-visible `தணிகையா?`, `கணவன் ஊமை` are retained without normalization
 - printed page 222 is directly visible; status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 231; பகுதி: 008; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: 222; PASS 1 TEXT-COMPLETE / needs-review -->
