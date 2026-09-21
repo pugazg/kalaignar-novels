@@ -286,16 +286,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 010 | 8 | 278 | 270 | `சந்திரிகாவின் சூழ்ச்சி!` close; substantial intentional blank lower field | needs-review | `pages/0278-chandirikavin-soozhchi.md` |
 | 010 | 9 | 279 | 271 | chapter44 opening `இன்றா, நாளையா? ஏன்?`; displayed number 44; ends mid-dialogue | needs-review | `pages/0279-indra-naalaiyaa-yen.md` |
 | 010 | 10 | 280 | 272 | `இன்றா, நாளையா? ஏன்?` continuation; resumes scan279 dialogue; continues beyond batch | needs-review | `pages/0280-indra-naalaiyaa-yen.md` |
-| 010 | 11 | 281 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 12 | 282 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 13 | 283 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 14 | 284 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 15 | 285 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 16 | 286 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 17 | 287 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 18 | 288 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 19 | 289 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 20 | 290 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 11 | 281 | — | full-page colour narrative illustration; no printed Tamil body / no visible folio | needs-review | `pages/0281-indra-naalaiyaa-yen.md` |
+| 010 | 12 | 282 | 274 | `இன்றா, நாளையா? ஏன்?` continuation; ends `உடும்புப்பிடியாக` | needs-review | `pages/0282-indra-naalaiyaa-yen.md` |
+| 010 | 13 | 283 | 275 | `இன்றா, நாளையா? ஏன்?` continuation; resumes scan282 sentence | needs-review | `pages/0283-indra-naalaiyaa-yen.md` |
+| 010 | 14 | 284 | 276 | `இன்றா, நாளையா? ஏன்?` continuation; ends `வந்து` | needs-review | `pages/0284-indra-naalaiyaa-yen.md` |
+| 010 | 15 | 285 | 277 | `இன்றா, நாளையா? ஏன்?` continuation / close; substantial intentional blank lower field | needs-review | `pages/0285-indra-naalaiyaa-yen.md` |
+| 010 | 16 | 286 | 278 | chapter45 opening `தேவை நூறு வீரர்கள்!`; displayed number 45; ends `இடமிருப்பதாக` | needs-review | `pages/0286-thevai-nooru-veerargal.md` |
+| 010 | 17 | 287 | 279 | `தேவை நூறு வீரர்கள்!` continuation; resumes scan286; ends `அவர்கள்` | needs-review | `pages/0287-thevai-nooru-veerargal.md` |
+| 010 | 18 | 288 | 280 | `தேவை நூறு வீரர்கள்!` continuation; resumes scan287; ends `அவளது` | needs-review | `pages/0288-thevai-nooru-veerargal.md` |
+| 010 | 19 | 289 | 281 | `தேவை நூறு வீரர்கள்!` continuation; resumes scan288 | needs-review | `pages/0289-thevai-nooru-veerargal.md` |
+| 010 | 20 | 290 | 282 | `தேவை நூறு வீரர்கள்!` continuation; chapter continues beyond batch | needs-review | `pages/0290-thevai-nooru-veerargal.md` |
 | 010 | 21 | 291 | — | unclassified — direct visual audit pending | not-started | — |
 | 010 | 22 | 292 | — | unclassified — direct visual audit pending | not-started | — |
 | 010 | 23 | 293 | — | unclassified — direct visual audit pending | not-started | — |
