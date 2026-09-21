@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE**
+**PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 
 Active Part:
 - Part010
@@ -16,10 +16,10 @@ Parts001–Part009 remain **FINAL CLOSED / FROZEN**.
 ## Current accounting
 
 - Part010 physical scans — **30**
-- canonical Part010 records present — **20/30 — scans271–290**
-- Pass1 text-complete — **20/30**
-- Pass1 pending — **10/30 — scans291–300**
-- printed-page coverage completed — **263–272, 274–282**
+- canonical Part010 records present — **30/30 — scans271–300**
+- Pass1 text-complete — **30/30**
+- Pass1 pending — **0**
+- printed-page coverage completed — **263–272, 274–292**
 - illustration-only scan281 — **printed_page: null**
 - unresolved Pass1 source-reading holds in completed batch — **0**
 - incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
@@ -35,7 +35,7 @@ Parts001–Part009 remain **FINAL CLOSED / FROZEN**.
 |---|---:|---:|---:|---|
 | 1 | 271–280 | 1–10 | 263–272 | **COMPLETE / TEXT-COMPLETE** |
 | 2 | 281–290 | 11–20 | illustration scan281 + printed274–282 | **COMPLETE / TEXT-COMPLETE** |
-| 3 | 291–300 | 21–30 | pending direct source transcription | **NOT STARTED / NEXT** |
+| 3 | 291–300 | 21–30 | 283–292 | **COMPLETE / TEXT-COMPLETE** |
 
 ## Incoming-boundary audit
 
@@ -110,8 +110,41 @@ All ten Batch2 records were re-read after creation for provenance, global/local 
 
 Frozen Parts001–Part009 canonical Tamil, assembled Tamil and maintained English body files were not modified.
 
+## Batch 3 source-structure observations
+
+- scan291 / printed283 continues and closes chapter45 `தேவை நூறு வீரர்கள்!`;
+- scan292 / printed284 opens chapter46 `எல்லாம் நன்மைக்கே!` with displayed number **46**;
+- scans292–297 carry chapter46;
+- scan292 ends mid-sentence at `கைது செய்து`; scan293 resumes `முல்லைத்தீவுக்கு இழுத்து வருவதற்கான`;
+- scan297 / printed289 closes chapter46 and preserves a substantial intentional blank lower field;
+- scan298 / printed290 opens chapter47 `தலையாழி மாற்றிக் கொண்டனர்` with displayed number **47**;
+- scans298–300 carry chapter47;
+- scan299 ends mid-sentence at `காக்கை வன்னியனின்`; scan300 resumes `வீரர்கள் ஒளிந்திருந்த புதர்களின்`;
+- scan300 / printed292 ends with an open quotation/question after `பண்டாரக வன்னியன் எப்படியிருக்கிறான்?`;
+- outgoing **300→301 remains PENDING direct audit**; no Part011 wording was imported.
+
+## Pass1 closure
+
+**PART010 PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE.**
+
+- canonical records — **30/30**
+- scans — **271–300 continuous**
+- local pages — **1–30 continuous**
+- directly observed printed folios — **263–272, 274–292**
+- scan281 — **full-page illustration / no visible printed folio / printed_page null**
+- duplicate canonical records — **0**
+- missing Part010 scans — **0**
+- unresolved Pass1 source-reading holds — **0**
+- incoming 270→271 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 300→301 — **PENDING direct audit**
+- all canonical records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- Parts001–009 — **FINAL CLOSED / FROZEN**
+- Pass2A — **AUTHORIZED / NOT STARTED**
+
 ## Exact next activity
 
-Continue **Part010 Pass1 — global scans291–300 / local pages21–30**.
+Do **not** begin Pass2A in this completed activity.
 
-After full 30/30 Pass1 coverage, perform the direct outgoing **300→301** boundary audit before any cross-Part claim. Do not begin Part010 Pass2A until full Part010 Pass1 coverage is complete and the repository controls are synchronized.
+On the next explicit continuation:
+- if exact Part011 scan301 is available, directly audit **300→301** first;
+- otherwise begin **Part010 Pass2A — direct textual source-fidelity review of scans271–300**, while keeping **300→301 PENDING direct audit** and making no cross-Part wording claim.
