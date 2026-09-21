@@ -1,6 +1,6 @@
 # Part 009 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING / SETUP — COMPLETE / PASS**
+Status: **E46–E51 SOURCE-CHECKED / COMPLETE**
 
 This is the control plan for the project-created English translation of **Part009 only**.
 
@@ -201,3 +201,42 @@ After E51:
 **E46 draft + source-check — section49 / scans241–243.**
 
 Do not begin E47 until E46 closes **SOURCE-CHECKED / COMPLETE**.
+
+## E46–E51 drafting / source-check closure
+
+**PART009 E46–E51 — SOURCE-CHECKED / COMPLETE.**
+
+- maintained Part009 English files — **6/6**
+- translated files — **6/6**
+- source-checked files — **6/6**
+- source coverage — **scans241–270 / all 30 physical pages**
+- E46 — scans241–243 — **SOURCE-CHECKED / COMPLETE**
+- E47 — scans244–249 — **SOURCE-CHECKED / COMPLETE**
+- E48 — scans250–255 — **SOURCE-CHECKED / COMPLETE**
+- E49 — scans256–261 — **SOURCE-CHECKED / COMPLETE**
+- E50 — scans262–266 — **SOURCE-CHECKED / COMPLETE**
+- E51 — scans267–270 — **SOURCE-CHECKED / COMPLETE**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
+- frozen Part001–Part008 English body edits — **0**
+- incoming 240→241 boundary integrity — **PASS / AUDITED**
+- outgoing 270→271 — **PENDING direct audit / unchanged**
+- Part010 Tamil/English leakage — **0**
+- E49 title/body source-form distinction `பசைக் கொடி` / `பச்சைக் கொடி` — **PRESERVED**
+- E51 unfinished scan270 terminal fragment — **PRESERVED / NOT COMPLETED FROM PART010**
+
+Durable batch source-check records:
+- `E46_SOURCE_CHECK.md`
+- `E47_SOURCE_CHECK.md`
+- `E48_SOURCE_CHECK.md`
+- `E49_SOURCE_CHECK.md`
+- `E50_SOURCE_CHECK.md`
+- `E51_SOURCE_CHECK.md`
+
+## Exact next gate
+
+Perform **Part009 whole-Part English glossary reconciliation across E46–E51**.
+
+Do not begin editorial review until glossary reconciliation closes.
+

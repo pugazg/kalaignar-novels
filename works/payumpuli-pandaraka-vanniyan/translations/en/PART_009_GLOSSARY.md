@@ -1,6 +1,6 @@
 # Part 009 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING GLOSSARY — ACTIVE / SETUP COMPLETE**
+Status: **E46–E51 SOURCE-CHECKED / WHOLE-PART RECONCILIATION NEXT**
 
 This glossary is derived only from verified Part009 Tamil plus frozen earlier project-English choices where the **same Tamil source form** recurs.
 
@@ -118,3 +118,21 @@ Where source invokes a named literary/mythic figure, proverb, comparison or idio
 - unresolved planning holds — **0**
 
 This glossary becomes a source-check control, not an authority over Tamil.
+
+## E46–E51 source-check checkpoint
+
+- batches source-checked — **6/6**
+- scans covered — **241–270 / 30**
+- title `இணையற்ற இணை!` → **An Unmatched Pair!** — inherited / retained
+- title `நரிவால் குஞ்சம்!` → **Fox-Tail Tuft!** — source-check retained
+- title `தலைவனும் தலைவியும்!` → **The Leader and the Lady!** — source-check retained
+- title `பசைக் கொடி அடையாளம்!` → **The Pasaik-Kodi Sign!** — source-form lock retained; not normalized to `பச்சைக் கொடி`
+- title `தணிகைமலை ஆவேசம்!` → **Thanigaimala's Fury!** — source-check retained
+- title `மறைந்த மாயம் என்னவோ?` → **What Mystery Was Hidden?** — source-check retained
+- unresolved batch-level terminology holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part008 English body edits — **0**
+- Part010 leakage — **0**
+
+Whole-Part glossary reconciliation across the six maintained English files is **NEXT**. Batch-level acceptance does not replace that whole-Part consistency gate.
+

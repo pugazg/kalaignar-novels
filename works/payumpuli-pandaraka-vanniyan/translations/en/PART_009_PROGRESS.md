@@ -2,19 +2,19 @@
 
 ## Overall state
 
-**PART009 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS**
+**PART009 E46–E51 — SOURCE-CHECKED / COMPLETE**
 
 Parts001–Part008 English remain **FINAL CLOSED / FROZEN**.
 
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
-| **E46** | section49 — chapter37 continuation/close `இணையற்ற இணை!` | 241–243 | **PLANNED / NEXT** |
-| **E47** | section50 — `நரிவால் குஞ்சம்!` | 244–249 | **PLANNED / BLOCKED BY E46** |
-| **E48** | section51 — `தலைவனும் தலைவியும்!` | 250–255 | **PLANNED / BLOCKED BY E47** |
-| **E49** | section52 — `பசைக் கொடி அடையாளம்!` | 256–261 | **PLANNED / BLOCKED BY E48** |
-| **E50** | section53 — `தணிகைமலை ஆவேசம்!` | 262–266 | **PLANNED / BLOCKED BY E49** |
-| **E51** | section54 — `மறைந்த மாயம் என்னவோ?` | 267–270 | **PLANNED / BLOCKED BY E50** |
-| Glossary reconciliation | Part009 whole-Part reconciliation | 241–270 | **NOT STARTED / AFTER E51** |
+| **E46** | section49 — chapter37 continuation/close `இணையற்ற இணை!` | 241–243 | **SOURCE-CHECKED / COMPLETE** |
+| **E47** | section50 — `நரிவால் குஞ்சம்!` | 244–249 | **SOURCE-CHECKED / COMPLETE** |
+| **E48** | section51 — `தலைவனும் தலைவியும்!` | 250–255 | **SOURCE-CHECKED / COMPLETE** |
+| **E49** | section52 — `பசைக் கொடி அடையாளம்!` | 256–261 | **SOURCE-CHECKED / COMPLETE** |
+| **E50** | section53 — `தணிகைமலை ஆவேசம்!` | 262–266 | **SOURCE-CHECKED / COMPLETE** |
+| **E51** | section54 — `மறைந்த மாயம் என்னவோ?` | 267–270 | **SOURCE-CHECKED / COMPLETE** |
+| Glossary reconciliation | Part009 whole-Part reconciliation | 241–270 | **NOT STARTED / NEXT GATE** |
 | Editorial | Part009 whole-Part English editorial review | 241–270 | **NOT STARTED** |
 | Bilingual | Part009 whole-Part bilingual review | 241–270 | **NOT STARTED** |
 | Release | Part009 release/readiness | 241–270 | **NOT STARTED** |
@@ -29,8 +29,8 @@ Parts001–Part008 English remain **FINAL CLOSED / FROZEN**.
 - Tamil assembled files — **6/6 VERIFIED / CLOSED**
 - Part009 English planned batches — **E46–E51 / 6**
 - Part009 English planned files — **6**
-- Part009 English translated files — **0/6**
-- Part009 English source-checked files — **0/6**
+- Part009 English translated files — **6/6**
+- Part009 English source-checked files — **6/6**
 - unresolved English planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -111,3 +111,42 @@ No Part009 English literary prose is drafted in this planning gate.
 **E46 draft + source-check — section49 / scans241–243.**
 
 Do not begin E47 until E46 is **SOURCE-CHECKED / COMPLETE**.
+
+## E46–E51 drafting / source-check closure
+
+**PART009 E46–E51 — SOURCE-CHECKED / COMPLETE.**
+
+- maintained Part009 English files — **6/6**
+- translated files — **6/6**
+- source-checked files — **6/6**
+- source coverage — **scans241–270 / all 30 physical pages**
+- E46 — scans241–243 — **SOURCE-CHECKED / COMPLETE**
+- E47 — scans244–249 — **SOURCE-CHECKED / COMPLETE**
+- E48 — scans250–255 — **SOURCE-CHECKED / COMPLETE**
+- E49 — scans256–261 — **SOURCE-CHECKED / COMPLETE**
+- E50 — scans262–266 — **SOURCE-CHECKED / COMPLETE**
+- E51 — scans267–270 — **SOURCE-CHECKED / COMPLETE**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
+- frozen Part001–Part008 English body edits — **0**
+- incoming 240→241 boundary integrity — **PASS / AUDITED**
+- outgoing 270→271 — **PENDING direct audit / unchanged**
+- Part010 Tamil/English leakage — **0**
+- E49 title/body source-form distinction `பசைக் கொடி` / `பச்சைக் கொடி` — **PRESERVED**
+- E51 unfinished scan270 terminal fragment — **PRESERVED / NOT COMPLETED FROM PART010**
+
+Durable batch source-check records:
+- `E46_SOURCE_CHECK.md`
+- `E47_SOURCE_CHECK.md`
+- `E48_SOURCE_CHECK.md`
+- `E49_SOURCE_CHECK.md`
+- `E50_SOURCE_CHECK.md`
+- `E51_SOURCE_CHECK.md`
+
+## Exact next gate
+
+Perform **Part009 whole-Part English glossary reconciliation across E46–E51**.
+
+Do not begin editorial review until glossary reconciliation closes.
+
