@@ -295,3 +295,22 @@ Exact next gate: **Part009 English translation planning/setup**.
 
 Create planning/glossary/progress controls only; perform a live English batch-number collision check before reserving the Part009 sequence; do not draft English prose in the setup gate.
 
+## Part009 post-closure control synchronization / Part010 frontier
+
+**CONTROL SYNCHRONIZATION — PASS / CURRENT.**
+
+Historical Part009 pass evidence above remains unchanged. Current lifecycle state:
+- **Part001–Part009 — FINAL CLOSED / FROZEN**
+- Part009 final closure — **PASS / CLOSED / FROZEN**
+- Part010 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part010 canonical records — **0**
+- incoming **270→271 — PENDING direct audit**
+- outgoing **300→301 — PENDING direct audit**
+- Part010 audit/transcription performed in this synchronization — **0 / 0**
+- frozen body changes — **0**
+
+Durable synchronization record:
+- `works/payumpuli-pandaraka-vanniyan/PART_009_POST_CLOSURE_CONTROL_SYNC.md`
+
+Exact next activity: direct **270→271** boundary audit; if usable, begin **Part010 Pass1 scans271–280 / local pages1–10**.
+
