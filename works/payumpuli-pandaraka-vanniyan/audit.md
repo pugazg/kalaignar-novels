@@ -1710,3 +1710,34 @@ Exact next activity:
 **Part008 Tamil archival-ready checkpoint.**
 
 Do not begin assembled Tamil construction until that checkpoint closes.
+
+## Part008 Tamil archival-ready checkpoint
+
+**PART008 TAMIL ARCHIVAL-READY — PASS / CLOSED.**
+
+- canonical scans — **211–240 / 30**
+- canonical Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- correction ledger — **2 Pass2A + 3 Pass2B + 0 Pass3**
+- historical-glyph corrections — **0**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- page-map Part008 rows — **30/30 verified**
+- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- archival-ready canonical Tamil changes — **0**
+- archival-ready page-status changes — **0**
+- Parts001–Part007 — **FINAL CLOSED / FROZEN**
+- Part009 canonical records — **0**
+
+Durable checkpoint:
+- `works/payumpuli-pandaraka-vanniyan/PART_008_TAMIL_ARCHIVAL_READY.md`
+
+Exact next activity:
+
+**Part008 assembled Tamil construction + audit.**
+
+Use only verified Part008 canonical `pages/` source-transcription blocks as textual authority. Do not begin English translation/review until assembled Tamil closes.
