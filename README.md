@@ -1026,3 +1026,31 @@ Exact next gate: **Part009 final closure**.
 
 Do not begin Part010 canonical transcription until Part009 final closure passes.
 
+## Part009 final closure checkpoint
+
+**PART009 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Part001–Part009 — **FINAL CLOSED / FROZEN**
+- Part009 canonical Tamil — **30/30 verified / frozen**
+- Part009 assembled Tamil — **6/6 VERIFIED / frozen**
+- Part009 E46–E51 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved Tamil / English / release blockers — **0**
+- post-release canonical / assembled / English body drift — **0 / 0 / 0**
+- outgoing 270→271 — **PENDING direct audit**
+- Part010 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part010 canonical records — **0**
+- Part010 incoming 270→271 — **PENDING direct audit**
+- Part010 outgoing 300→301 — **PENDING direct audit**
+
+Durable final record:
+- `works/payumpuli-pandaraka-vanniyan/PART_009_FINAL_CLOSURE.md`
+
+Exact next activity: activate Part010, directly audit **270→271**, then if the adjacent source witness is usable begin **Part010 Pass1 scans271–280 / local pages1–10**.
+
+Do not begin Part010 Pass2A until full-Part Pass1 coverage is complete.
+
