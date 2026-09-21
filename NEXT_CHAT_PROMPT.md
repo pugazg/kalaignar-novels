@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part008 E40 draft + source-check — scans211–212
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part008 whole-Part English glossary reconciliation
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -13,72 +13,63 @@ Parts **001–007 are FINAL CLOSED / FROZEN**.
 - visual fidelity — **30/30 verified**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
-- unresolved Tamil/visual/assembly blockers — **0**
 - incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
 - Part009 canonical records — **0**
 
-## Part008 English planning state
+## Part008 English state
 
-**PLANNING/SETUP — COMPLETE / PASS**
+**E40–E45 — SOURCE-CHECKED / COMPLETE**
 
-- live batch collision check — **PASS**
-- previous closed English batch — **E39**
-- reserved Part008 batches — **E40–E45**
-- planned maintained English files — **6**
-- translated files — **0/6**
-- source-checked files — **0/6**
-- unresolved planning holds — **0**
-- English literary prose drafted in planning gate — **0**
+- planned batches — **E40–E45 / 6**
+- maintained English files — **6/6**
+- translated files — **6/6**
+- source-checked files — **6/6**
+- source coverage — **scans211–240 / all 30 physical pages**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
 - frozen Part001–Part007 English body edits — **0**
 - Part009 English leakage — **0**
 
-Planning controls:
+English files:
+1. `translations/en/sections/43-steady-handwriting-part008.md` — E40 / scans211–212
+2. `translations/en/sections/44-agreement-document.md` — E41 / scans213–218
+3. `translations/en/sections/45-whose-side-is-god-on.md` — E42 / scans219–225
+4. `translations/en/sections/46-they-came-there.md` — E43 / scans226–231
+5. `translations/en/sections/47-the-letter-that-came-to-hand.md` — E44 / scans232–237
+6. `translations/en/sections/48-an-unmatched-pair.md` — E45 / scans238–240
+
+Source-check records:
+- `translations/en/E40_SOURCE_CHECK.md` through `translations/en/E45_SOURCE_CHECK.md`
+
+Active controls:
 - `translations/en/PART_008_TRANSLATION_PLAN.md`
 - `translations/en/PART_008_GLOSSARY.md`
 - `translations/en/PART_008_PROGRESS.md`
 
-## Exact E40 scope
-
-- batch — **E40**
-- Tamil assembled source — `sections/43-nidhanamana-kaiyezhuthu-part008.md`
-- source scans — **211–212**
-- chapter — continuation/close of chapter32 `நிதானமான கையெழுத்து!`
-- planned English file — `translations/en/sections/43-steady-handwriting-part008.md`
-- source-check record — `translations/en/E40_SOURCE_CHECK.md`
-
-## Read first
-
-1. `translations/en/PART_008_TRANSLATION_PLAN.md`
-2. `translations/en/PART_008_GLOSSARY.md`
-3. `translations/en/PART_008_PROGRESS.md`
-4. `sections/43-nidhanamana-kaiyezhuthu-part008.md`
-5. canonical pages `pages/0211-nidhanamana-kaiyezhuthu.md` and `pages/0212-nidhanamana-kaiyezhuthu.md`
-6. frozen Part007 English `translations/en/sections/42-steady-handwriting.md` only as structural/terminology precedent — **do not copy or import its body into E40**
-7. `translations/en/E39_SOURCE_CHECK.md` as source-check record precedent
-
 ## Exact activity
 
-Perform **E40 draft + source-check — scans211–212**.
+Perform **Part008 whole-Part English glossary reconciliation across E40–E45**.
 
 Requirements:
-- translate only the verified Part008 Tamil represented in section43 / scans211–212;
-- preserve the incoming **210→211 GENUINE CONTINUATION / AUDITED** boundary with a non-rendering provenance marker;
-- do **not** import frozen Part007 English wording from scan210 or earlier;
-- do not invent a chapter restart: E40 is a Part008-owned continuation/close of chapter32;
-- preserve paragraph/dialogue order, rhetorical force, source-specific forms and information-release order;
-- follow `PART_008_GLOSSARY.md` and inherited project choices only where the same Tamil form recurs;
-- if a phrase is genuinely ambiguous, record a source-check hold instead of guessing;
-- create `translations/en/sections/43-steady-handwriting-part008.md`;
-- create `translations/en/E40_SOURCE_CHECK.md`;
-- source-check every English paragraph/dialogue block against verified assembled Tamil and canonical pages211–212;
-- canonical Tamil edits caused by E40 — **0** unless an independently proven upstream fidelity defect is explicitly reopened;
-- assembled Tamil edits caused by E40 — **0**;
-- frozen Part001–Part007 English body edits — **0**;
-- Part009 leakage — **0**;
-- update Part008 translation plan/glossary/progress and relevant English/project controls to show E40 **SOURCE-CHECKED / COMPLETE**;
-- do **not** begin E41 in the same activity.
+- inspect all six maintained Part008 English files together against `PART_008_GLOSSARY.md`, the closed Part007 glossary precedent, and the verified Part008 Tamil/assembled authority;
+- reconcile recurring names, source-visible variants, place forms, royal/political labels, document vocabulary, palace vocabulary, literary/metaphorical terms and chapter titles;
+- preserve occurrence-level Tamil variants and do not normalize canonical Tamil;
+- detect accidental English drift only; change English body text only where a glossary inconsistency or source-alignment issue is clearly established;
+- preserve source speaker/narrator framing for political, moral, sexual and violent claims;
+- keep conservative source-facing handling for opaque source phrases unless internal project evidence supports a clearer rendering;
+- preserve incoming **210→211** and outgoing **240→241** boundary locks;
+- preserve scan233 printed224→225 reading order;
+- require canonical Tamil edits — **0**;
+- require assembled Tamil edits — **0**;
+- require frozen Part001–Part007 English body edits — **0**;
+- require Part009 leakage — **0**;
+- record source-variant collapses explicitly;
+- create durable `translations/en/PART_008_GLOSSARY_RECONCILIATION.md`;
+- update Part008 glossary/plan/progress and relevant controls to the reconciliation result;
+- do **not** begin English editorial review in the same activity.
 
-Stop after E40 is **SOURCE-CHECKED / COMPLETE**.
+Stop after glossary reconciliation is **RECONCILED / PASS**.
 
-Expected next gate: **E41 draft + source-check — scans213–218 / `ஒப்பந்தப் பத்திரம்`**.
+Expected next gate: **Part008 English editorial review across all six maintained English files / scans211–240**.
