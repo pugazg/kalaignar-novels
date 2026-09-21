@@ -528,6 +528,8 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part008 visual fidelity — **30/30 verified**
 - Part008 needs-review — **0**
 - Part008 documentation synchronization — **PASS / COMPLETE**
+- Part008 Tamil archival-ready — **PASS / CLOSED**
+- Part008 archival-ready canonical/page-status changes — **0 / 0**
 - Part008 documentation-sync canonical page changes — **0**
 - completed Part008 visible printed-page coverage — **202–232**
 - Part008 incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
@@ -540,6 +542,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Begin **Part008 Tamil archival-ready checkpoint**.
+Begin **Part008 assembled Tamil construction + audit**.
 
-Part008 is 30/30 verified for Tamil and visual fidelity and documentation synchronization is complete. Do not begin assembled Tamil construction until the archival-ready checkpoint closes. Part001–Part007 remain frozen. Part009 canonical page records remain 0.
+Use only verified Part008 canonical `pages/` source-transcription blocks. Preserve boundary provenance without importing Part007 or Part009 body text. Part001–Part007 remain frozen. Part009 canonical page records remain 0.
