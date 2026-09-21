@@ -147,3 +147,38 @@ Exact next activity: **Part009 Part audit**.
 
 Do not begin final metadata/status synchronization in the same activity.
 
+## Part009 Part-audit checkpoint
+
+**PART009 PART AUDIT — PASS / COMPLETE.**
+
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- Part009 canonical records — **30/30 — scans241–270**
+- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 0 corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 3 corrections**
+- Pass2B historical-glyph corrections — **0**
+- Pass3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections**
+- formal Pass2A / Pass2B / Pass3 evidence — **30/30 / 30/30 / 30/30**
+- scan coverage — **continuous 241–270**
+- duplicate Part009 scan records — **0**
+- printed-page mapping — **PASS — 233–262 continuous**
+- chapter openings — **244, 250, 256, 262, 267**
+- intentional blank lower fields — **243, 249, 255, 261, 266**
+- correction ledger — **2 Pass1 baseline + 0 Pass2A + 3 Pass2B + 0 Pass3**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit / carried forward unchanged**
+- audit canonical/body mutations — **0**
+- audit status promotions — **0**
+- Part010 canonical leakage — **0**
+- Parts001–008 body mutations — **0**
+
+Durable audit:
+- `PART_009_AUDIT.md`
+
+Exact next activity: **Part009 final metadata/status synchronization**.
+
+Promote only `visual_fidelity` from `needs-review` to `verified` across the 30 audited Part009 records; textual `status` is already `verified`. Do not alter Tamil body text or the pending outgoing 270→271 boundary classification.
+
