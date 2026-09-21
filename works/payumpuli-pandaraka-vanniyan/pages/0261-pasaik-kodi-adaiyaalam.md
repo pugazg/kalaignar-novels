@@ -62,3 +62,14 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 batch s
 - textual `status` remains **verified**;
 - `visual_fidelity` remains **needs-review** pending Pass 3.
 
+## Formal Part009 Pass 3 review
+
+- direct full-page visual / structural verification completed against the rendered Part009 source image;
+- structural classification confirmed: body; printed253; chapter40 closing dialogue with substantial intentional blank lower field;
+- heading hierarchy, paragraph/dialogue blocks, printed pagination, recurring page furniture and physical page-boundary state were checked;
+- Pass3 textual corrections: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Part audit and final metadata/status synchronization.
+
