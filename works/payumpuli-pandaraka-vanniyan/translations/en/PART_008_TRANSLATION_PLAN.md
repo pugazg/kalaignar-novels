@@ -266,3 +266,21 @@ Exact next gate: **Part008 English editorial review**.
 - Part009 leakage — **0**
 
 Exact next gate: **Part008 release-ready synchronization**.
+
+## Part008 release-ready synchronization checkpoint
+
+**PART008 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- E40–E45 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- canonical / assembled / maintained English body changes in synchronization — **0 / 0 / 0**
+- unresolved blockers — **0**
+- Part009 leakage — **0**
+
+Exact next gate: **Part008 final closure**.
