@@ -246,16 +246,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 008 | 28 | 238 | 230 | chapter37 opening `இணையற்ற இணை!`; displayed number 37 | verified | `pages/0238-inaiyatra-inai.md` |
 | 008 | 29 | 239 | 231 | `இணையற்ற இணை!` continuation | verified | `pages/0239-inaiyatra-inai.md` |
 | 008 | 30 | 240 | 232 | `இணையற்ற இணை!` continuation; outgoing 240→241 genuine continuation audited | verified | `pages/0240-inaiyatra-inai.md` |
-| 009 | 1 | 241 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 2 | 242 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 3 | 243 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 4 | 244 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 5 | 245 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 6 | 246 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 7 | 247 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 8 | 248 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 9 | 249 | — | unclassified — direct visual audit pending | not-started | — |
-| 009 | 10 | 250 | — | unclassified — direct visual audit pending | not-started | — |
+| 009 | 1 | 241 | 233 | `இணையற்ற இணை!` continuation; incoming 240→241 genuine continuation audited | needs-review | `pages/0241-inaiyatra-inai.md` |
+| 009 | 2 | 242 | 234 | `இணையற்ற இணை!` continuation; Kannusami letter closes | needs-review | `pages/0242-inaiyatra-inai.md` |
+| 009 | 3 | 243 | 235 | `இணையற்ற இணை!` close; substantial intentional blank lower field | needs-review | `pages/0243-inaiyatra-inai.md` |
+| 009 | 4 | 244 | 236 | chapter38 opening `நரிவால் குஞ்சம்!`; displayed number 38 | needs-review | `pages/0244-narivaal-kunjam.md` |
+| 009 | 5 | 245 | 237 | `நரிவால் குஞ்சம்!` continuation | needs-review | `pages/0245-narivaal-kunjam.md` |
+| 009 | 6 | 246 | 238 | `நரிவால் குஞ்சம்!` continuation | needs-review | `pages/0246-narivaal-kunjam.md` |
+| 009 | 7 | 247 | 239 | `நரிவால் குஞ்சம்!` continuation | needs-review | `pages/0247-narivaal-kunjam.md` |
+| 009 | 8 | 248 | 240 | `நரிவால் குஞ்சம்!` continuation | needs-review | `pages/0248-narivaal-kunjam.md` |
+| 009 | 9 | 249 | 241 | `நரிவால் குஞ்சம்!` close; substantial intentional blank lower field | needs-review | `pages/0249-narivaal-kunjam.md` |
+| 009 | 10 | 250 | 242 | chapter39 opening `தலைவனும் தலைவியும்!`; displayed number 39 | needs-review | `pages/0250-thalaivanum-thalaiviyum.md` |
 | 009 | 11 | 251 | — | unclassified — direct visual audit pending | not-started | — |
 | 009 | 12 | 252 | — | unclassified — direct visual audit pending | not-started | — |
 | 009 | 13 | 253 | — | unclassified — direct visual audit pending | not-started | — |
@@ -644,3 +644,26 @@ Part009 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**:
 - first Pass1 batch — **241–250 / local pages1–10**
 
 Exact next activity: **Part009 Pass1 scans241–250**.
+## Part009 Pass1 Batch 1 checkpoint
+
+**PART009 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- active Part — **Part009 / scans241–270**
+- canonical Part009 records — **10/30 — scans241–250**
+- Pass1 text-complete — **10/30**
+- Pass1 pending — **20/30 — scans251–270**
+- printed-page coverage completed — **233–242**
+- chapter37 `இணையற்ற இணை!` — continuation/close on scans241–243
+- chapter38 `நரிவால் குஞ்சம்!` — scans244–249
+- chapter39 `தலைவனும் தலைவியும்!` — opens scan250 and continues beyond batch
+- intentional blank lower fields — **scans243, 249**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit**
+- all completed Part009 records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+
+Durable progress:
+- `PART_009_PASS1_PROGRESS.md`
+
+Exact next activity: **Part009 Pass1 scans251–260 / local pages11–20**.
