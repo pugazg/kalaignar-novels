@@ -160,3 +160,21 @@ Durable Pass2B record:
 ## Exact next activity
 
 Perform **Part008 Pass 3 — direct full-page visual / structural verification of scans211–240**.
+
+## Post-Pass3 current state
+
+Part008 Pass 3 is **COMPLETE / PASS — 30/30 REVIEWED**.
+
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 2 corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 3 spacing / word-boundary corrections**
+- Pass3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections**
+- unresolved visual / structural questions — **0**
+- all Part008 records remain `needs-review`
+- Part009 canonical records — **0**
+
+Durable Pass3 record:
+- `PART_008_PASS3_PROGRESS.md`
+
+## Exact next activity
+
+Perform **Part008 Part audit**.
