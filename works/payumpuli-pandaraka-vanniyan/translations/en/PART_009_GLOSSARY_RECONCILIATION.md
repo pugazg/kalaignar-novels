@@ -58,9 +58,31 @@ All six maintained titles match their accepted Part009 source-check handling:
 
 The verified Tamil title `பசைக் கொடி அடையாளம்!` remains distinguished from body occurrences such as `பச்சைக் கொடி`. English title handling remains **The Pasaik-Kodi Sign!**; body wording remains **green flag** where the source itself says `பச்சைக் கொடி`.
 
-## Glossary-driven English correction
+## Post-source-check English corrections reconciled
 
-One English-only consistency correction was required in E51 / `sections/54-what-mystery-was-hidden.md`.
+Two English-only source-alignment/consistency corrections were reconciled before this whole-Part gate closed.
+
+### 1. E50 / source action
+
+Verified Tamil:
+- `கொஞ்சவே ஆரம்பித்துவிட்டாள்!`
+
+Initial English:
+- `She began to enjoy it!`
+
+Maintained English:
+- **`She began caressing him!`**
+
+Reason:
+- restores the explicit source action rather than a broader paraphrase;
+- changes no Tamil, chronology or speaker attribution.
+
+Correction commit:
+- `a38a0e22f6f1ae37ecb9e2243e8c0c4743051faf` — `Correct Part009 E50 source action`.
+
+### 2. E51 / personal-name form
+
+E51 / `sections/54-what-mystery-was-hidden.md` carried one inherited-name consistency correction.
 
 Verified Tamil source form at scan270:
 - `விக்கிரம ராஜ சிங்காவுக்குக்கூட`
@@ -96,7 +118,7 @@ Reconciliation preserves:
 
 - maintained English files checked — **6/6**
 - scans covered — **241–270 / 30**
-- glossary-driven English body edits — **1**
+- post-source-check English body edits reconciled — **2**
 - source-variant collapses — **0**
 - unresolved glossary holds — **0**
 - canonical Tamil edits — **0**
