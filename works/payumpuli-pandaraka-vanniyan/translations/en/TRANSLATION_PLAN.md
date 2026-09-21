@@ -127,3 +127,36 @@ A genuine Tamil-fidelity issue discovered later must be routed through an explic
 Part001 English is **FINAL CLOSED / FROZEN**.
 
 The next repository activity is Tamil source work for **Part002 / global scans31–60**, beginning with Pass 1 global scans **31–40** / local pages **1–10**. Part002 English remains blocked until its own Tamil archival and assembled-Tamil gates close.
+
+## Part009 English planning/setup checkpoint
+
+**PART009 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- Parts001–008 English — **FINAL CLOSED / FROZEN**
+- Part009 canonical Tamil — **30/30 verified**
+- Part009 assembled Tamil — **6/6 VERIFIED / CLOSED**
+- live English batch collision check — **PASS**
+- existing source-check batches — **E1–E45 contiguous**
+- reserved Part009 English sequence — **E46–E51 / 6**
+- planned maintained English files — **6**
+- English section-order range — **49–54**
+- translated files — **0/6**
+- source-checked files — **0/6**
+- unresolved planning holds — **0**
+- English literary prose drafted in planning gate — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Part001–Part008 English body edits — **0**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit / unchanged**
+- Part010 leakage — **0**
+
+Active Part009 English controls:
+- `translations/en/PART_009_TRANSLATION_PLAN.md`
+- `translations/en/PART_009_GLOSSARY.md`
+- `translations/en/PART_009_PROGRESS.md`
+
+Exact next gate: **E46 draft + source-check — section49 / scans241–243**.
+
+Do not begin E47 until E46 is **SOURCE-CHECKED / COMPLETE**.
+

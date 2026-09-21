@@ -285,3 +285,36 @@ Reconciliation findings:
 Downstream gates now closed: editorial review, whole-Part bilingual review, release/readiness report, release-ready synchronization and **Part001 final closure**.
 
 Part001 English is **FINAL CLOSED / FROZEN**. The repository's next activity is Part002 Tamil Pass 1; this glossary remains the closed Part001 authority and does not authorize Part002 English work.
+
+## Part009 English planning/setup checkpoint
+
+**PART009 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- Parts001–008 English — **FINAL CLOSED / FROZEN**
+- Part009 canonical Tamil — **30/30 verified**
+- Part009 assembled Tamil — **6/6 VERIFIED / CLOSED**
+- live English batch collision check — **PASS**
+- existing source-check batches — **E1–E45 contiguous**
+- reserved Part009 English sequence — **E46–E51 / 6**
+- planned maintained English files — **6**
+- English section-order range — **49–54**
+- translated files — **0/6**
+- source-checked files — **0/6**
+- unresolved planning holds — **0**
+- English literary prose drafted in planning gate — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Part001–Part008 English body edits — **0**
+- incoming 240→241 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 270→271 — **PENDING direct audit / unchanged**
+- Part010 leakage — **0**
+
+Active Part009 English controls:
+- `translations/en/PART_009_TRANSLATION_PLAN.md`
+- `translations/en/PART_009_GLOSSARY.md`
+- `translations/en/PART_009_PROGRESS.md`
+
+Exact next gate: **E46 draft + source-check — section49 / scans241–243**.
+
+Do not begin E47 until E46 is **SOURCE-CHECKED / COMPLETE**.
+
