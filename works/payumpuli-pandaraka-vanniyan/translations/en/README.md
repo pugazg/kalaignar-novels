@@ -1034,3 +1034,27 @@ Exact next gate:
 **Part008 whole-Part English glossary reconciliation across E40–E45.**
 
 Do not begin editorial review until glossary reconciliation closes.
+
+## Part008 release/readiness checkpoint
+
+**PART008 RELEASE/READINESS — PASS / CLOSED.**
+
+- E40–E45 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- editorial English-only changes — **1**
+- whole-Part bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections — **1**
+- unresolved English/release blockers — **0**
+- canonical / assembled Tamil edits caused by English review — **0 / 0**
+- frozen Part001–Part007 English body edits — **0**
+- source-PDF paths in active work tree — **0**
+- Part009 leakage — **0**
+
+Durable reports:
+- `PART_008_GLOSSARY_RECONCILIATION.md`
+- `PART_008_TRANSLATION_REVIEW.md`
+- `PART_008_BILINGUAL_REVIEW.md`
+- `PART_008_RELEASE_REPORT.md`
+
+Exact next gate: **Part008 release-ready synchronization**.
