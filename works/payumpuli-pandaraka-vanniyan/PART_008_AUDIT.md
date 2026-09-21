@@ -175,3 +175,21 @@ Perform **Part008 final metadata/status synchronization**.
 That next gate may promote only the two final per-page status fields from `needs-review` to `verified` across all 30 Part008 records, based on this closed audit evidence.
 
 Do not change Tamil body text, punctuation, structure, provenance, pagination, page type, section labels, correction-ledger decisions or boundary classifications.
+
+## Post-verification current state
+
+Part008 has subsequently completed:
+- Part audit — **PASS / COMPLETE**;
+- final metadata/status synchronization — **PASS / CLOSED**;
+- Tamil textual status — **30/30 verified**;
+- visual fidelity — **30/30 verified**;
+- partial / source-limited / needs-review — **0 / 0 / 0**;
+- canonical Tamil/body mutations caused by final status synchronization — **0**;
+- Part009 canonical leakage — **0**.
+
+Durable status record:
+- `PART_008_FINAL_STATUS_SYNC.md`
+
+Current next gate:
+
+**Part008 documentation synchronization.**
