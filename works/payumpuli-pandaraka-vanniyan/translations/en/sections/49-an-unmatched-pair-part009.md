@@ -25,7 +25,7 @@ Seeing that the moment had come, the mute Jeyaseelan opened all the secret chest
 
 It is my wish that these skilled people should remain with you for at least a few days and assist you. Their own desire is to serve the kingdom of Kandy. At last they have accepted my request and are coming to you!
 
-They are not only capable, but good people as well! When no woman wished to marry the cousin from her mother's side who had been born mute, this epic woman—
+They are not only capable, but good people as well! When no woman wished to marry her paternal aunt's son, who had been born mute, this epic woman—
 
 <!-- source boundary: scan 241 → scan 242 -->
 
