@@ -195,3 +195,17 @@ Durable report:
 - `PART_008_GLOSSARY_RECONCILIATION.md`
 
 Exact next gate: **Part008 English editorial review across all six maintained English files / scans211–240**.
+
+## Editorial / bilingual downstream state
+
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- E41 editorial English-only correction — **1**
+- E45 bilingual English-only correction — **1**
+- source-variant collapses — **0**
+- unresolved English holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part009 leakage — **0**
+
+Exact next gate: **Part008 release-ready synchronization**.
