@@ -871,3 +871,35 @@ Exact next activity:
 **Part008 assembled Tamil construction + audit.**
 
 Use only verified Part008 canonical `pages/` source-transcription blocks as textual authority. Do not begin English translation/review until assembled Tamil closes.
+
+## Part008 assembled Tamil closure checkpoint
+
+**PART008 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED.**
+
+- canonical Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- assembled canonical coverage — **30/30**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit-note leakage — **0**
+- canonical Part008 page mutations caused by assembly — **0**
+- frozen Part001–Part007 assembled-file mutations — **0**
+- Part009 body leakage — **0**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- Part009 canonical records — **0**
+- unresolved blockers — **0**
+
+Durable validation:
+- `works/payumpuli-pandaraka-vanniyan/PART_008_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Exact next gate:
+
+**Part008 English translation planning/setup.**
+
+Create planning/glossary/progress controls only; do not draft English prose in the setup gate.
