@@ -75,6 +75,12 @@ Part008:
 - partial / source-limited / needs-review — **0 / 0 / 0**
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
+- assembled canonical coverage — **30/30**
+- assembled omissions / duplicates — **0 / 0**
+- assembly canonical page mutations — **0**
+- frozen Part001–Part007 assembled-file mutations — **0**
+- Part009 body leakage — **0**
 - archival-ready canonical Tamil changes — **0**
 - archival-ready page-status changes — **0**
 - documentation-sync canonical Part008 page changes — **0**
@@ -148,8 +154,11 @@ Durable documentation-sync record:
 Durable Tamil archival-ready record:
 - `PART_008_TAMIL_ARCHIVAL_READY.md`
 
+Durable assembled Tamil validation:
+- `PART_008_ASSEMBLED_TAMIL_VALIDATION.md`
+
 Exact next activity:
 
-**Part008 assembled Tamil construction + audit.**
+**Part008 English translation planning/setup.**
 
-Use only verified Part008 canonical `pages/` records as textual authority. Keep Parts001–Part007 frozen and Part009 canonical records at 0. Do not begin English translation/review.
+Use the closed canonical + assembled Tamil authority. Create planning/glossary/progress controls only; do not draft English prose in the setup gate.
