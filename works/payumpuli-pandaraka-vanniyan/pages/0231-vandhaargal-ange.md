@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 batch s
 
 ## Source transcription
 
-குருவிச்சி, மெல்லச் சிரித்தவாறு “அடையாளம் தெரியவில்லையா? நமது ஒற்றர்களில் ஒருவர்தான்!” என்றாள்.
+குருவிச்சி, மெல்லச் சிரித்தவாறு “அடையாளம் தெரிய வில்லையா? நமது ஒற்றர்களில் ஒருவர்தான்!” என்றாள்.
 
 “ஓ! தணிகையா? வேடம் நன்றாகத் தானிருக்கிறது! குருவிச்சியிடம் நீ தெரிவித்த தகவல்களையெல்லாம் தெரிந்து கொண்டேன்.”
 
@@ -46,3 +46,13 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 batch s
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
+
+## Formal Part008 Pass 2B review
+
+- independent lexical / word-boundary / punctuation-sensitive and historical-glyph reread completed directly against the user-supplied Part008 source pixels;
+- source-text / lexical / spacing / punctuation corrections: **1**;
+- source-supported correction: `தெரியவில்லையா?` → `தெரிய வில்லையா?` — source spacing / word-boundary correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 3, Part audit and final status synchronization.
