@@ -529,6 +529,9 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 - Part008 needs-review — **0**
 - Part008 documentation synchronization — **PASS / COMPLETE**
 - Part008 Tamil archival-ready — **PASS / CLOSED**
+- Part008 assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
+- Part008 assembled coverage — **30/30**
+- Part008 assembly canonical page mutations — **0**
 - Part008 archival-ready canonical/page-status changes — **0 / 0**
 - Part008 documentation-sync canonical page changes — **0**
 - completed Part008 visible printed-page coverage — **202–232**
@@ -542,6 +545,6 @@ Printed-page values are recorded only when directly visible. No number is inferr
 
 ## Exact next activity
 
-Begin **Part008 assembled Tamil construction + audit**.
+Begin **Part008 English translation planning/setup**.
 
-Use only verified Part008 canonical `pages/` source-transcription blocks. Preserve boundary provenance without importing Part007 or Part009 body text. Part001–Part007 remain frozen. Part009 canonical page records remain 0.
+Use the verified canonical Tamil plus closed 6/6 Part008 assembled Tamil reading layer. Create planning/glossary/progress controls only; do not draft English prose in the setup gate. Part001–Part007 remain frozen. Part009 canonical page records remain 0.
