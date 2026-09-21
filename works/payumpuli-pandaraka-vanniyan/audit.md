@@ -1577,3 +1577,35 @@ Exact next activity:
 **Part008 Pass2B — independent lexical / historical-glyph verification of scans211–240.**
 
 Do not begin Pass3 in the same activity. Keep Part009 canonical records at 0.
+
+## Part008 Pass2B completion checkpoint
+
+**PART008 PASS 2B — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Part001–Part007 — **FINAL CLOSED / FROZEN**
+- Part008 canonical records — **30/30 — scans211–240**
+- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 2 source-supported corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass2B source-text / lexical / spacing / punctuation corrections — **3**
+- scan231 / printed222 — `தெரியவில்லையா?` → `தெரிய வில்லையா?`
+- scan232 / printed223 — `படிகளில்` → `படி களில்`
+- scan238 / printed230 — `ஆக்கப்பட்டவளுமான` → `ஆக்கப் பட்டவளுமான`
+- Pass2B historical-glyph corrections — **0**
+- unresolved Pass2B lexical / historical-glyph questions — **0**
+- status promotions — **0**
+- all Part008 page records remain `needs-review` / `visual_fidelity: "needs-review"`
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- Part009 canonical records — **0**
+- frozen Parts001–007 body mutations — **0**
+- Pass3 — **NOT STARTED / NEXT GATE**
+
+Durable Pass2B record:
+- `works/payumpuli-pandaraka-vanniyan/PART_008_PASS2B_PROGRESS.md`
+
+Exact next activity:
+
+**Part008 Pass3 — direct full-page visual / structural verification of scans211–240.**
+
+Do not begin Part audit in the same activity. Keep Part009 canonical records at 0.
