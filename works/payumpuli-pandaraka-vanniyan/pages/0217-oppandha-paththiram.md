@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 batch s
 
 “கேளுங்கள்! தயக்கமின்றி கேளுங்கள்!”
 
-“கண்டியின் அதிகாரப்பூர்வமான மன்னராக மட்டுமே நீர் இருக்க வேண்டும். இந்த மாளிகை வாசமும் - மகிழ்ச்சியும், உல்லாசமும் - உமக்கு எப்போதும் சொந்தம்! ஆனால் உம்மை ஒரு பதுமையாக வைத்துக் கொண்டு, இந்த ராஜ்யத்தின் நிர்வாகம் அனைத்தையும் நானே நடத்துவேன்! நீர் பெயருக்குத் தான் மன்னர்! எல்லாமே நான்! ஏன்? எனக்காக அல்ல! இந்த நாட்டின் நல்வாழ்வுக்காக! இந்த நாட்டின் சுதந்திரத்திற்காக!”
+“கண்டியின் அதிகாரப்பூர்வமான மன்னராக மட்டுமே நீர் இருக்க வேண்டும். இந்த மாளிகை வாசமும் - மகிழ்ச்சியும், உல்லாசமும் - உமக்கெப்போதும் சொந்தம்! ஆனால் உம்மை ஒரு பதுமையாக வைத்துக் கொண்டு, இந்த ராஜ்யத்தின் நிர்வாகம் அனைத்தையும் நானே நடத்துவேன்! நீர் பெயருக்குத் தான் மன்னர்! எல்லாமே நான்! ஏன்? எனக்காக அல்ல! இந்த நாட்டின் நல்வாழ்வுக்காக! இந்த நாட்டின் சுதந்திரத்திற்காக!”
 
 “சரி! அப்படியே ஆகட்டும்!”
 
@@ -46,3 +46,12 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 batch s
 - printed page 208 is directly visible; status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 217; பகுதி: 008; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 208; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part008 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against the user-supplied Part008 source pixels;
+- source-text corrections: **1**;
+- source-text correction: `உமக்கு எப்போதும்` → `உமக்கெப்போதும்`;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass 2B, Pass 3, Part audit and final status synchronization.
