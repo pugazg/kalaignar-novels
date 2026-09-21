@@ -327,3 +327,34 @@ Exact next gate:
 - Part008 canonical records — **0**
 - next activity — **Part008 Pass1 scans211–220 / local pages1–10**
 
+## Current authoritative frontier — Part008 documentation synchronized
+
+- Part001–Part007 — **FINAL CLOSED / FROZEN**
+- Part008 / scans211–240 — **ACTIVE / VERIFIED / DOCUMENTATION SYNCHRONIZED**
+- Part008 canonical records — **30/30**
+- Part008 Tamil textual status — **30/30 verified**
+- Part008 visual fidelity — **30/30 verified**
+- Part008 Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part008 correction ledger — **2 Pass2A + 3 Pass2B + 0 Pass3**
+- Part008 Part audit — **PASS / COMPLETE**
+- Part008 final metadata/status synchronization — **PASS / CLOSED**
+- Part008 documentation synchronization — **PASS / COMPLETE**
+- Part008 incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- Part008 outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- documentation-sync canonical page changes — **0**
+- Part009 canonical records — **0**
+- split-boundary classifications — **8 / 15 audited**
+
+Audited boundaries through the current frontier:
+- **30→31 — GENUINE CONTINUATION**
+- **60→61 — CLEAN**
+- **90→91 — GENUINE CONTINUATION**
+- **120→121 — GENUINE CONTINUATION**
+- **150→151 — GENUINE CONTINUATION**
+- **180→181 — GENUINE CONTINUATION**
+- **210→211 — GENUINE CONTINUATION**
+- **240→241 — GENUINE CONTINUATION**
+
+Exact next gate: **Part008 Tamil archival-ready checkpoint**.
+
+Part009 remains supplied / registered / blocked until Part008 completes its maintained workflow and final closure.
