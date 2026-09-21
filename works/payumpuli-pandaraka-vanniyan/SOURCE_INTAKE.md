@@ -457,3 +457,35 @@ Exact next activity:
 **Part008 Pass3 — direct full-page visual / structural verification of scans211–240.**
 
 Do not begin Part audit in the same activity. Keep Part009 canonical records at 0.
+
+## Part008 Pass3 completion checkpoint
+
+**PART008 PASS 3 — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Part001–Part007 — **FINAL CLOSED / FROZEN**
+- Part008 canonical records — **30/30 — scans211–240**
+- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 2 source-supported corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 3 spacing / word-boundary corrections**
+- Pass3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass3 textual corrections — **0**
+- Pass3 unresolved visual / structural questions — **0**
+- chapter openings structurally confirmed — **scans213, 219, 226, 232, 238**
+- intentional chapter-closing blank lower fields confirmed — **scans212, 218, 225, 231, 237**
+- scan233 — **illustrated-two-page-spread / printed224–225 confirmed**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- status promotions — **0**
+- all Part008 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- Part009 canonical records — **0**
+- frozen Parts001–007 body mutations — **0**
+- Part audit — **NOT STARTED / NEXT GATE**
+
+Durable Pass3 record:
+- `works/payumpuli-pandaraka-vanniyan/PART_008_PASS3_PROGRESS.md`
+
+Exact next activity:
+
+**Part008 Part audit.**
+
+Reconcile the 30 canonical records, Pass1/Pass2A/Pass2B/Pass3 evidence, printed-page sequence, chapter/spread structure and both audited split boundaries. Do not promote metadata to `verified` until the audit passes. Keep Part009 canonical records at 0.
