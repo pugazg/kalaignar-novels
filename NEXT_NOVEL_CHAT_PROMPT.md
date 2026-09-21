@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part008 English translation planning/setup
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part008 E40 draft + source-check — scans211–212
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,75 +6,79 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 Parts **001–007 are FINAL CLOSED / FROZEN**.
 
-## Part008 Tamil state
+## Part008 Tamil / assembled state
 
-- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_008_pages_211-240.pdf`
 - canonical scans — **211–240 / 30**
 - canonical Tamil — **30/30 verified**
 - visual fidelity — **30/30 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- correction ledger — **2 Pass2A + 3 Pass2B + 0 Pass3**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
-- assembled canonical coverage — **30/30**
-- omissions / duplicates — **0 / 0**
-- unsupported Tamil body insertion — **0**
-- audit-note leakage — **0**
-- canonical Part008 page mutations caused by assembly — **0**
-- frozen Part001–Part007 assembled-file mutations — **0**
+- unresolved Tamil/visual/assembly blockers — **0**
 - incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
 - Part009 canonical records — **0**
-- unresolved blockers — **0**
 
-Durable Tamil / assembly records:
-- `PART_008_TAMIL_ARCHIVAL_READY.md`
-- `PART_008_ASSEMBLED_TAMIL_VALIDATION.md`
+## Part008 English planning state
 
-Part008 assembled Tamil files:
-1. `sections/43-nidhanamana-kaiyezhuthu-part008.md` — scans211–212 — chapter32 continuation/close `நிதானமான கையெழுத்து!`
-2. `sections/44-oppandha-paththiram.md` — scans213–218 — chapter33 `ஒப்பந்தப் பத்திரம்`
-3. `sections/45-kadavul-yaar-pakkam.md` — scans219–225 — chapter34 `கடவுள் யார் பக்கம்!`
-4. `sections/46-vandhaargal-ange.md` — scans226–231 — chapter35 `வந்தார்கள் அங்கே!`
-5. `sections/47-kaikku-vandha-kaditham.md` — scans232–237 — chapter36 `கைக்கு வந்த கடிதம்!`
-6. `sections/48-inaiyatra-inai.md` — scans238–240 — chapter37 `இணையற்ற இணை!`, continuing to Part009
+**PLANNING/SETUP — COMPLETE / PASS**
+
+- live batch collision check — **PASS**
+- previous closed English batch — **E39**
+- reserved Part008 batches — **E40–E45**
+- planned maintained English files — **6**
+- translated files — **0/6**
+- source-checked files — **0/6**
+- unresolved planning holds — **0**
+- English literary prose drafted in planning gate — **0**
+- frozen Part001–Part007 English body edits — **0**
+- Part009 English leakage — **0**
+
+Planning controls:
+- `translations/en/PART_008_TRANSLATION_PLAN.md`
+- `translations/en/PART_008_GLOSSARY.md`
+- `translations/en/PART_008_PROGRESS.md`
+
+## Exact E40 scope
+
+- batch — **E40**
+- Tamil assembled source — `sections/43-nidhanamana-kaiyezhuthu-part008.md`
+- source scans — **211–212**
+- chapter — continuation/close of chapter32 `நிதானமான கையெழுத்து!`
+- planned English file — `translations/en/sections/43-steady-handwriting-part008.md`
+- source-check record — `translations/en/E40_SOURCE_CHECK.md`
 
 ## Read first
 
-1. `works/payumpuli-pandaraka-vanniyan/PART_008_ASSEMBLED_TAMIL_VALIDATION.md`
-2. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_007_TRANSLATION_PLAN.md`
-3. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_007_GLOSSARY.md`
-4. `works/payumpuli-pandaraka-vanniyan/translations/en/PART_007_PROGRESS.md`
-5. repository-wide English controls under `translations/en/`
-6. the six verified Part008 assembled Tamil files above
+1. `translations/en/PART_008_TRANSLATION_PLAN.md`
+2. `translations/en/PART_008_GLOSSARY.md`
+3. `translations/en/PART_008_PROGRESS.md`
+4. `sections/43-nidhanamana-kaiyezhuthu-part008.md`
+5. canonical pages `pages/0211-nidhanamana-kaiyezhuthu.md` and `pages/0212-nidhanamana-kaiyezhuthu.md`
+6. frozen Part007 English `translations/en/sections/42-steady-handwriting.md` only as structural/terminology precedent — **do not copy or import its body into E40**
+7. `translations/en/E39_SOURCE_CHECK.md` as source-check record precedent
 
 ## Exact activity
 
-Perform **Part008 English translation planning/setup** only.
+Perform **E40 draft + source-check — scans211–212**.
 
 Requirements:
-- create Part008 English planning controls under `translations/en/`, following the established per-Part pattern;
-- inspect live English batch numbering first; expected next sequence after Part007 E34–E39 is **E40–E45**, but confirm no live collision before writing;
-- map one English batch to each of the six verified Part008 assembled Tamil files;
-- create/update:
-  - `PART_008_TRANSLATION_PLAN.md`
-  - `PART_008_GLOSSARY.md`
-  - `PART_008_PROGRESS.md`
-- planning must inherit frozen earlier project-English choices only when the same Tamil source form recurs;
-- canonical Tamil remains controlling; assembled Tamil is the readable source layer;
-- do not use published/web/remembered English translation wording as authority;
-- preserve source-visible personal-name variants, titles, political labels, rhetorical framing, dialogue agency, sexual/moral/violent source framing and chapter structure;
-- preserve incoming **210→211 GENUINE CONTINUATION / AUDITED** without importing frozen Part007 English into the Part008 continuation batch;
-- preserve outgoing **240→241 GENUINE CONTINUATION / AUDITED** without importing Part009 Tamil/English to complete chapter37;
-- scan233 remains one physical illustrated two-page spread; planning must preserve the verified Tamil reading order without inventing illustration prose;
-- Parts001–Part007 maintained English body files remain frozen;
-- Part009 English leakage — **0**;
-- unresolved planning holds must be explicitly recorded;
-- **do not draft English literary prose in this planning/setup activity**.
+- translate only the verified Part008 Tamil represented in section43 / scans211–212;
+- preserve the incoming **210→211 GENUINE CONTINUATION / AUDITED** boundary with a non-rendering provenance marker;
+- do **not** import frozen Part007 English wording from scan210 or earlier;
+- do not invent a chapter restart: E40 is a Part008-owned continuation/close of chapter32;
+- preserve paragraph/dialogue order, rhetorical force, source-specific forms and information-release order;
+- follow `PART_008_GLOSSARY.md` and inherited project choices only where the same Tamil form recurs;
+- if a phrase is genuinely ambiguous, record a source-check hold instead of guessing;
+- create `translations/en/sections/43-steady-handwriting-part008.md`;
+- create `translations/en/E40_SOURCE_CHECK.md`;
+- source-check every English paragraph/dialogue block against verified assembled Tamil and canonical pages211–212;
+- canonical Tamil edits caused by E40 — **0** unless an independently proven upstream fidelity defect is explicitly reopened;
+- assembled Tamil edits caused by E40 — **0**;
+- frozen Part001–Part007 English body edits — **0**;
+- Part009 leakage — **0**;
+- update Part008 translation plan/glossary/progress and relevant English/project controls to show E40 **SOURCE-CHECKED / COMPLETE**;
+- do **not** begin E41 in the same activity.
 
-At successful planning closure, expected next gate is **E40 draft + source-check — scans211–212**.
+Stop after E40 is **SOURCE-CHECKED / COMPLETE**.
 
-Stop after planning/setup is **COMPLETE / PASS** and controls are synchronized.
+Expected next gate: **E41 draft + source-check — scans213–218 / `ஒப்பந்தப் பத்திரம்`**.
