@@ -44,17 +44,17 @@ The canonical `scan_page` remains the overall scan number **271–300**.
 
 Part 010 source split: **SUPPLIED / REGISTERED**.
 
-Lifecycle state: **ACTIVE — PASS1 IN PROGRESS**.
+Lifecycle state: **ACTIVE — PASS1 COMPLETE / PASS**.
 
-Part010 canonical page records: **20/30 — scans271–290 / local pages1–20**.
+Part010 canonical page records: **30/30 — scans271–300 / local pages1–30**.
 
-Printed coverage: **263–272, 274–282**; scan281 is a full-page illustration with no visible printed folio.
+Printed coverage: **263–272, 274–292**; scan281 is a full-page illustration with no visible printed folio.
 
 Incoming **270→271 = GENUINE CONTINUATION / AUDITED / PASS**.
 
-Pass1 pending: **scans291–300 / 10 pages**.
+Pass1 pending: **0 / 30 — COMPLETE**.
 
-Exact next activity: **Part010 Pass1 scans291–300 / local pages21–30**.
+Exact next activity: **Part010 Pass2A direct textual source-fidelity review of scans271–300**, unless exact Part011 scan301 is available first for the separate **300→301** boundary audit.
 
 Do not begin Pass2A until Pass1 covers all **30/30** Part010 pages.
 
@@ -308,3 +308,35 @@ Durable progress:
 - `PART_010_PASS1_PROGRESS.md`
 
 Exact next activity: **Part010 Pass1 scans291–300 / local pages21–30**.
+
+
+## Part010 Pass1 final closure checkpoint
+
+**PART010 PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE.**
+
+- Parts001–009 — **FINAL CLOSED / FROZEN**
+- canonical Part010 records — **30/30 — scans271–300**
+- local pages — **1–30**
+- printed folios directly observed — **263–272, 274–292**
+- scan281 — **full-page colour narrative illustration / printed_page null**
+- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **300→301 — PENDING direct audit**
+- missing scans / duplicate records — **0 / 0**
+- unresolved Pass1 source-reading holds — **0**
+- completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- Pass2A — **AUTHORIZED / NOT STARTED**
+- frozen Parts001–009 body mutations — **0**
+
+Batch3 structure:
+- scan291 / printed283 closes chapter45 `தேவை நூறு வீரர்கள்!`
+- scan292 / printed284 opens chapter46 `எல்லாம் நன்மைக்கே!`
+- scan297 / printed289 closes chapter46 with substantial intentional blank lower field
+- scan298 / printed290 opens chapter47 `தலையாழி மாற்றிக் கொண்டனர்`
+- scan300 / printed292 ends with an open quotation/question; no Part011 wording imported
+
+Durable progress:
+- `PART_010_PASS1_PROGRESS.md`
+
+Next explicit activity:
+- if exact Part011 scan301 is available, directly audit **300→301**;
+- otherwise begin **Part010 Pass2A scans271–300**, keeping **300→301 PENDING direct audit**.
