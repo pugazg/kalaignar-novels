@@ -1,6 +1,6 @@
 # Part 009 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E46–E51 SOURCE-CHECKED / WHOLE-PART RECONCILIATION NEXT**
+Status: **WHOLE-PART RECONCILED / PASS**
 
 This glossary is derived only from verified Part009 Tamil plus frozen earlier project-English choices where the **same Tamil source form** recurs.
 
@@ -135,4 +135,25 @@ This glossary becomes a source-check control, not an authority over Tamil.
 - Part010 leakage — **0**
 
 Whole-Part glossary reconciliation across the six maintained English files is **NEXT**. Batch-level acceptance does not replace that whole-Part consistency gate.
+
+## Whole-Part reconciliation result
+
+**PART009 WHOLE-PART GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- maintained English files checked — **6/6**
+- scans covered — **241–270 / 30**
+- glossary-driven English body edits — **1**
+- correction — E51 `Vikrama Rajasinga` → **Vikrama Rajasingan**
+- source-variant collapses — **0**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part008 English body edits — **0**
+- Part010 leakage — **0**
+
+Downstream:
+- editorial review — **PASS / CLOSED — 0 additional English body changes**
+- bilingual review — **PASS / CLOSED — 3 further English-only source-alignment corrections**
+- unresolved editorial / bilingual / Tamil-fidelity holds — **0 / 0 / 0**
+
+Exact next gate: **Part009 release/readiness report**.
 
