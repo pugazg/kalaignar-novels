@@ -1,6 +1,6 @@
 # Part 008 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING/SETUP — COMPLETE / PASS**
+Status: **E40–E45 SOURCE-CHECKED / COMPLETE**
 
 This is the control plan for the project-created English translation of **Part008 only**.
 
@@ -198,3 +198,42 @@ After E45:
 **E40 draft + source-check — section43 / scans211–212.**
 
 Do not begin E41 until E40 closes **SOURCE-CHECKED / COMPLETE**.
+
+## E40–E45 drafting / source-check closure
+
+All six planned Part008 English batches were completed in this user-authorized **30-page** activity:
+
+- E40 — **SOURCE-CHECKED / COMPLETE — scans211–212**
+- E41 — **SOURCE-CHECKED / COMPLETE — scans213–218**
+- E42 — **SOURCE-CHECKED / COMPLETE — scans219–225**
+- E43 — **SOURCE-CHECKED / COMPLETE — scans226–231**
+- E44 — **SOURCE-CHECKED / COMPLETE — scans232–237**
+- E45 — **SOURCE-CHECKED / COMPLETE — scans238–240**
+
+Closure accounting:
+- maintained Part008 English files — **6/6**
+- translated files — **6/6**
+- source-checked files — **6/6**
+- source coverage — **scans211–240 / all 30 physical pages**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
+- frozen Part001–Part007 English body edits — **0**
+- incoming 210→211 boundary integrity — **PASS / AUDITED**
+- outgoing 240→241 boundary integrity — **PASS / AUDITED**
+- scan233 printed224→225 reading order — **PASS**
+- Part009 leakage — **0**
+
+Durable batch source-check records:
+- `E40_SOURCE_CHECK.md`
+- `E41_SOURCE_CHECK.md`
+- `E42_SOURCE_CHECK.md`
+- `E43_SOURCE_CHECK.md`
+- `E44_SOURCE_CHECK.md`
+- `E45_SOURCE_CHECK.md`
+
+## Exact next gate
+
+Perform **Part008 whole-Part English glossary reconciliation across E40–E45**.
+
+Do not begin editorial review until glossary reconciliation closes.
