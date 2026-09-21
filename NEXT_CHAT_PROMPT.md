@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part009 Pass1 scans251–260
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part009 Pass1 scans261–270
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,44 +18,48 @@ Parts **001–008 are FINAL CLOSED / FROZEN**.
 
 ## Part009 Pass1 current state
 
-**PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE**
+**PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE**
 
-- canonical Part009 records — **10/30 — scans241–250**
-- local pages complete — **1–10**
-- printed pages complete — **233–242**
-- Pass1 pending — **20/30 — scans251–270**
-- unresolved Batch1 Pass1 holds — **0**
+- canonical Part009 records — **20/30 — scans241–260**
+- local pages complete — **1–20**
+- printed pages complete — **233–252**
+- Batch1 — **241–250 COMPLETE / TEXT-COMPLETE**
+- Batch2 — **251–260 COMPLETE / TEXT-COMPLETE**
+- Pass1 pending — **10/30 — scans261–270**
+- unresolved completed-batch Pass1 holds — **0**
 - all completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- scan252 creation-time metadata typo corrected — **work field only / Tamil body unchanged**
 - Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
-- scans251–270 canonical records — **0**
+- scans261–270 canonical records — **0**
 
 Durable progress:
 - `PART_009_PASS1_PROGRESS.md`
 
-Batch1 structure:
-- scans241–243 — continuation/close of chapter37 `இணையற்ற இணை!`
-- scans244–249 — chapter38 `நரிவால் குஞ்சம்!`
-- scan250 — chapter39 opening `தலைவனும் தலைவியும்!`
-- intentional blank lower fields — scans243 and249
+Batch2 structure:
+- scans251–255 — continuation/close of chapter39 `தலைவனும் தலைவியும்!`
+- scan255 — chapter39 closes with substantial intentional blank lower field
+- scan256 — chapter40 opening `பசைக் கொடி அடையாளம்!`, displayed number 40
+- scans256–260 — chapter40 continuation
+- scan260 continues into scan261
 
 ## Exact activity
 
-Perform **Part009 Pass1 — global scans251–260 / local pages11–20**.
+Perform **Part009 Pass1 — global scans261–270 / local pages21–30**.
 
 Requirements:
-- create canonical page records for scans **251–260 only**;
+- create canonical page records for scans **261–270 only**;
 - preserve exact Part009 provenance:
   - `part: 9`
-  - `part_page: 11–20`
+  - `part_page: 21–30`
   - exact Part009 `source_filename`;
 - use direct rendered source pixels as authority;
 - preserve exact Tamil spelling, punctuation, word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end fragments;
-- preserve continuation from scan250 into scan251 without duplicating scan250 text;
-- do not create scans261–270 in this activity;
-- do not begin Pass2A;
-- keep outgoing 270→271 **PENDING direct audit**;
+- preserve continuation from scan260 into scan261 without duplicating scan260 text;
+- complete Pass1 across all **30/30** Part009 pages;
+- if an adjacent controlling Part010 source is available, directly audit **270→271**; otherwise leave it **PENDING direct audit**;
+- do not begin Pass2A in the same activity;
 - Parts001–008 remain frozen.
 
-Stop after scans251–260 are **Pass1 text-complete** and controls are synchronized.
+Stop after scans261–270 are **Pass1 text-complete** and Part009 Pass1 is formally **COMPLETE / PASS — 30/30** with controls synchronized.
 
-Expected next gate: **Part009 Pass1 scans261–270 / local pages21–30**.
+Expected next gate after full Pass1 closure: **Part009 Pass2A — direct textual source-fidelity review of scans241–270**.
