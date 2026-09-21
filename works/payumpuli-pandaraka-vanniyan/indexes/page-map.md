@@ -576,3 +576,23 @@ Planning controls:
 Exact next gate: **E40 draft + source-check — section43 / scans211–212**.
 
 E41 remains blocked until E40 is **SOURCE-CHECKED / COMPLETE**.
+
+## Part008 English E40–E45 downstream state
+
+**PART008 E40–E45 — SOURCE-CHECKED / COMPLETE.**
+
+- English batches — **E40–E45 / 6**
+- maintained English files — **6/6**
+- source coverage — **scans211–240 / 30**
+- translated/source-checked — **6/6 / 6/6**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
+- frozen Part001–Part007 English body edits — **0**
+- incoming 210→211 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 240→241 — **GENUINE CONTINUATION / AUDITED**
+- Part009 English leakage — **0**
+
+Exact next gate: **Part008 whole-Part English glossary reconciliation across E40–E45**.
+
+Do not begin editorial review until glossary reconciliation closes.
