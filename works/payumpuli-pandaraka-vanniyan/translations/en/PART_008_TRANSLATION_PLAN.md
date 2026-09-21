@@ -252,3 +252,17 @@ Do not begin editorial review until glossary reconciliation closes.
 Durable report: `PART_008_GLOSSARY_RECONCILIATION.md`.
 
 Exact next gate: **Part008 English editorial review**.
+
+## Editorial / bilingual / release-readiness downstream state
+
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED — 1 English-only correction**
+- whole-Part bilingual review — **PASS / CLOSED — 1 further English-only correction**
+- release/readiness — **PASS / CLOSED**
+- unresolved English/release blockers — **0**
+- canonical Tamil edits caused downstream — **0**
+- assembled Tamil edits caused downstream — **0**
+- frozen Part001–Part007 English body edits — **0**
+- Part009 leakage — **0**
+
+Exact next gate: **Part008 release-ready synchronization**.
