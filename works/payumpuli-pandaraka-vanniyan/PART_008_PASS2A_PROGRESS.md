@@ -111,3 +111,25 @@ All Part008 page records remain `needs-review` pending Pass 2B, Pass 3, Part aud
 Perform **Part008 Pass 2B — independent lexical / historical-glyph verification of scans211–240**.
 
 Do not begin Pass 3 in the same activity. Keep Parts001–007 frozen and Part009 canonical records at 0.
+
+## Post-Pass2A current state
+
+Part008 Pass 2B is **COMPLETE / PASS — 30/30 REVIEWED**.
+
+- Pass2B source-text / lexical / spacing / punctuation corrections — **3**
+- scan231 / printed222 — `தெரியவில்லையா?` → `தெரிய வில்லையா?`
+- scan232 / printed223 — `படிகளில்` → `படி களில்`
+- scan238 / printed230 — `ஆக்கப்பட்டவளுமான` → `ஆக்கப் பட்டவளுமான`
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+- Part009 canonical records — **0**
+
+Durable Pass2B record:
+- `PART_008_PASS2B_PROGRESS.md`
+
+## Exact next activity
+
+Perform **Part008 Pass 3 — direct full-page visual / structural verification of scans211–240**.
+
+Do not begin Part audit in the same activity.
