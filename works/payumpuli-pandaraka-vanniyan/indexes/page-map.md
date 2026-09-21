@@ -276,16 +276,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 009 | 28 | 268 | 260 | `மறைந்த மாயம் என்னவோ?` continuation; ends split word `தொழு` | verified | `pages/0268-maraindha-maayam-ennavo.md` |
 | 009 | 29 | 269 | 261 | `மறைந்த மாயம் என்னவோ?` continuation; resumes `திடும்`; ends `கதவின்` | verified | `pages/0269-maraindha-maayam-ennavo.md` |
 | 009 | 30 | 270 | 262 | `மறைந்த மாயம் என்னவோ?` continuation; Part009 ends mid-sentence | verified | `pages/0270-maraindha-maayam-ennavo.md` |
-| 010 | 1 | 271 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 2 | 272 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 3 | 273 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 4 | 274 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 5 | 275 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 6 | 276 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 7 | 277 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 8 | 278 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 9 | 279 | — | unclassified — direct visual audit pending | not-started | — |
-| 010 | 10 | 280 | — | unclassified — direct visual audit pending | not-started | — |
+| 010 | 1 | 271 | 263 | `மறைந்த மாயம் என்னவோ?` continuation; incoming 270→271 genuine continuation audited | needs-review | `pages/0271-maraindha-maayam-ennavo.md` |
+| 010 | 2 | 272 | 264 | `மறைந்த மாயம் என்னவோ?` continuation / close | needs-review | `pages/0272-maraindha-maayam-ennavo.md` |
+| 010 | 3 | 273 | 265 | chapter43 opening `சந்திரிகாவின் சூழ்ச்சி!`; displayed number 43 | needs-review | `pages/0273-chandirikavin-soozhchi.md` |
+| 010 | 4 | 274 | 266 | `சந்திரிகாவின் சூழ்ச்சி!` continuation | needs-review | `pages/0274-chandirikavin-soozhchi.md` |
+| 010 | 5 | 275 | 267 | `சந்திரிகாவின் சூழ்ச்சி!` continuation | needs-review | `pages/0275-chandirikavin-soozhchi.md` |
+| 010 | 6 | 276 | 268 | `சந்திரிகாவின் சூழ்ச்சி!` continuation; ends open dialogue | needs-review | `pages/0276-chandirikavin-soozhchi.md` |
+| 010 | 7 | 277 | 269 | `சந்திரிகாவின் சூழ்ச்சி!` continuation; resumes scan276 dialogue | needs-review | `pages/0277-chandirikavin-soozhchi.md` |
+| 010 | 8 | 278 | 270 | `சந்திரிகாவின் சூழ்ச்சி!` close; substantial intentional blank lower field | needs-review | `pages/0278-chandirikavin-soozhchi.md` |
+| 010 | 9 | 279 | 271 | chapter44 opening `இன்றா, நாளையா? ஏன்?`; displayed number 44; ends mid-dialogue | needs-review | `pages/0279-indra-naalaiyaa-yen.md` |
+| 010 | 10 | 280 | 272 | `இன்றா, நாளையா? ஏன்?` continuation; resumes scan279 dialogue; continues beyond batch | needs-review | `pages/0280-indra-naalaiyaa-yen.md` |
 | 010 | 11 | 281 | — | unclassified — direct visual audit pending | not-started | — |
 | 010 | 12 | 282 | — | unclassified — direct visual audit pending | not-started | — |
 | 010 | 13 | 283 | — | unclassified — direct visual audit pending | not-started | — |
