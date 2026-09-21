@@ -380,3 +380,23 @@ Part009 remains supplied / registered / blocked until Part008 completes its main
 Exact next gate: **Part008 assembled Tamil construction + audit**.
 
 Part009 remains supplied / registered / blocked until Part008 completes its maintained workflow and final closure.
+
+## Current authoritative frontier — Part008 assembled Tamil closed
+
+- Part001–Part007 — **FINAL CLOSED / FROZEN**
+- Part008 / scans211–240 — **ACTIVE / ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT**
+- Part008 canonical Tamil — **30/30 verified**
+- Part008 visual fidelity — **30/30 verified**
+- Part008 Tamil archival-ready — **PASS / CLOSED**
+- Part008 assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
+- Part008 assembled coverage — **30/30**
+- Part008 assembly omissions / duplicates — **0 / 0**
+- Part008 assembly unsupported body / audit-note leakage — **0 / 0**
+- Part008 canonical page mutations caused by assembly — **0**
+- frozen Part001–Part007 assembled-file mutations — **0**
+- Part009 body leakage — **0**
+- Part009 canonical records — **0**
+
+Exact next gate: **Part008 English translation planning/setup**.
+
+Part009 remains supplied / registered / blocked until Part008 completes its maintained workflow and final closure.
