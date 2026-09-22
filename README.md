@@ -1261,3 +1261,36 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_010_FINAL_STATUS_SYNC.md`
 
 Exact next gate: **Part010 Tamil archival-ready checkpoint** after documentation synchronization closes.
+
+
+## Part010 assembled Tamil closure checkpoint
+
+**PART010 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED.**
+
+- Parts001–009 — **FINAL CLOSED / FROZEN**
+- canonical Part010 Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Part010 Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- assembled canonical coverage — **30/30**
+- assembled section range — **55–60**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit-note leakage — **0**
+- canonical Part010 page mutations caused by assembly — **0**
+- frozen Part001–Part009 assembled-file mutations — **0**
+- Part011 body leakage — **0**
+- scan281 illustration-only matter represented as provenance only — **PASS**
+- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **300→301 — PENDING direct audit**
+- unresolved assembly blockers — **0**
+
+Durable validation:
+- `works/payumpuli-pandaraka-vanniyan/PART_010_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Exact next gate: **Part010 English translation planning/setup**.
+
+Create planning/glossary/progress controls only; perform a live English batch-number collision check before reserving the Part010 sequence; do not draft English prose in the setup gate.
