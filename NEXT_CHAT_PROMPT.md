@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part010 English translation planning/setup
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part010 English E52 — scans271–272
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,47 +6,68 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 Parts **001–009 are FINAL CLOSED / FROZEN**.
 
-## Part010 Tamil closure state
+## Part010 Tamil state
 
 - canonical scans — **271–300 / 30**
 - canonical Tamil — **30/30 verified**
 - visual fidelity — **30/30 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **6/6 VERIFIED / CLOSED**
-- assembled canonical coverage — **30/30**
 - unresolved Tamil / assembly blockers — **0**
 - incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **300→301 — PENDING direct audit**
 
-Durable assembled validation:
-- `PART_010_ASSEMBLED_TAMIL_VALIDATION.md`
+## English planning state
 
-## Maintained Part010 assembled Tamil
+- English planning/setup — **COMPLETE / PASS**
+- existing source-check controls — **E1–E51 contiguous**
+- reserved Part010 sequence — **E52–E57**
+- planned English section range — **55–60**
+- translated/source-checked — **0/6 / 0/6**
+- active controls:
+  - `translations/en/PART_010_TRANSLATION_PLAN.md`
+  - `translations/en/PART_010_GLOSSARY.md`
+  - `translations/en/PART_010_PROGRESS.md`
 
-1. `sections/55-maraindha-maayam-ennavo-part010.md` — scans271–272 — chapter42 continuation / close
-2. `sections/56-chandirikavin-soozhchi.md` — scans273–278
-3. `sections/57-indra-naalaiyaa-yen.md` — scans279–285; scan281 illustration-only provenance
-4. `sections/58-thevai-nooru-veerargal.md` — scans286–291
-5. `sections/59-ellam-nanmaikke.md` — scans292–297
-6. `sections/60-thalaiyaazhi-maatrik-kondanar.md` — scans298–300; terminal Part continuation
+## E52 authority
+
+Tamil assembled file:
+
+`sections/55-maraindha-maayam-ennavo-part010.md`
+
+Coverage:
+- scans **271–272**
+- chapter42 continuation/close — `மறைந்த மாயம் என்னவோ?`
+- planned English title — **What Mystery Was Hidden?**
+- planned English file — `translations/en/sections/55-what-mystery-was-hidden-part010.md`
+
+The English title is inherited from frozen Part009 E51.
 
 ## Exact next activity
 
-Perform **Part010 English translation planning/setup only**.
+Perform **E52 draft + source-check only**.
 
-1. Inspect the live maintained English translation directory and source-check controls.
-2. Perform a live English batch-number collision check.
-3. Determine the next contiguous six-batch range for Part010 without assuming numbering from memory.
-4. Create Part010 English planning, glossary and progress controls using the closed canonical/assembled Tamil authority.
-5. Map the six planned English units to section orders **55–60** and scans **271–300**.
-6. Preserve scan281 as illustration-only provenance; do not invent English body/caption.
-7. Preserve incoming 270→271 as an audited continuation without modifying frozen Part009 English.
-8. Keep outgoing **300→301 PENDING direct audit** and do not import Part011 text to complete chapter47.
-9. Do **not** draft English literary prose in the planning/setup gate.
-10. Do not modify canonical or assembled Tamil.
+Requirements:
 
-Stop after English planning/setup closes and the first source-check batch is identified.
+1. Read `PART_010_TRANSLATION_PLAN.md`, `PART_010_GLOSSARY.md`, `PART_010_PROGRESS.md`, the verified Tamil section55, and the relevant canonical page records for scans271–272.
+2. Draft the maintained English section55 from the verified Part010 Tamil only.
+3. Preserve incoming **270→271** as non-rendering provenance:
+   - E52 begins at scan271 only;
+   - do not modify or import frozen Part009 E51 English;
+   - do not reconstruct scan270 wording inside E52.
+4. Preserve paragraph/dialogue order, rhetoric, repetition, source-era moral/sexual language and source-specific names without added commentary.
+5. Preserve source boundaries 271→272 as provenance.
+6. Do not import published/web/remembered translation wording.
+7. Create `E52_SOURCE_CHECK.md` and source-check every literary block against the verified Tamil.
+8. Require:
+   - omissions / duplicates — **0 / 0**
+   - unsupported English body insertion — **0**
+   - canonical Tamil edits — **0**
+   - assembled Tamil edits — **0**
+   - frozen Parts001–009 English body edits — **0**
+   - Part011 leakage — **0**
+   - unresolved E52 holds — **0**
+9. Update Part010 English progress/control documents after E52 closes.
+10. Stop after **E52 SOURCE-CHECKED / COMPLETE**.
+
+Do **not** begin E53 in the same activity.
