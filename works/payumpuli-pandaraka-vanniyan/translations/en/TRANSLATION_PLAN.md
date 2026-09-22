@@ -272,3 +272,39 @@ Durable synchronization record:
 
 Exact next activity: direct **270→271** boundary audit, then if usable begin **Part010 Pass1 scans271–280 / local pages1–10**. No Part010 English work is authorized before its Tamil/assembled gates.
 
+
+
+## Part010 English planning/setup checkpoint
+
+**PART010 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- Parts001–009 English — **FINAL CLOSED / FROZEN**
+- Part010 canonical Tamil — **30/30 verified**
+- Part010 assembled Tamil — **6/6 VERIFIED / CLOSED**
+- live English batch collision check — **PASS**
+- existing source-check batches — **E1–E51 contiguous**
+- missing E1–E51 controls — **0**
+- reserved Part010 English sequence — **E52–E57 / 6**
+- planned maintained English files — **6**
+- English section-order range — **55–60**
+- section-order collisions — **0**
+- translated files — **0/6**
+- source-checked files — **0/6**
+- unresolved planning holds — **0**
+- English literary prose drafted in planning gate — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Part001–Part009 English body edits — **0**
+- scan281 illustration-only rule — **LOCKED**
+- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **300→301 — PENDING direct audit / unchanged**
+- Part011 leakage — **0**
+
+Active Part010 English controls:
+- `translations/en/PART_010_TRANSLATION_PLAN.md`
+- `translations/en/PART_010_GLOSSARY.md`
+- `translations/en/PART_010_PROGRESS.md`
+
+Exact next gate: **E52 draft + source-check — section55 / scans271–272**.
+
+Do not begin E53 until E52 is **SOURCE-CHECKED / COMPLETE**.
