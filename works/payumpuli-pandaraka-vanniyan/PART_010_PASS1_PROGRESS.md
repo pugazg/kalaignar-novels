@@ -24,7 +24,8 @@ Parts001–Part009 remain **FINAL CLOSED / FROZEN**.
 - unresolved Pass1 source-reading holds in completed batch — **0**
 - incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **300→301 — PENDING direct audit**
-- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 7 corrections**
+- Pass2B — **NOT STARTED / NEXT GATE**
 - completed Part010 records remain:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
@@ -148,3 +149,23 @@ Do **not** begin Pass2A in this completed activity.
 On the next explicit continuation:
 - if exact Part011 scan301 is available, directly audit **300→301** first;
 - otherwise begin **Part010 Pass2A — direct textual source-fidelity review of scans271–300**, while keeping **300→301 PENDING direct audit** and making no cross-Part wording claim.
+
+
+## Post-Pass2A current state
+
+Part010 Pass2A is **COMPLETE / PASS — 30/30 REVIEWED**.
+
+- canonical Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- Pass2A source-text / spacing / punctuation corrections — **7**
+- unresolved textual questions — **0**
+- durable Pass2A record — `PART_010_PASS2A_PROGRESS.md`
+- incoming 270→271 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 300→301 — **PENDING direct audit**
+- Parts001–009 — **FINAL CLOSED / FROZEN**
+- frozen body mutations — **0**
+- Pass2B — **NOT STARTED / NEXT GATE**
+
+Exact next activity: **Part010 Pass2B — independent historical-glyph / lexical / word-boundary / punctuation-sensitive fidelity review of scans271–300**.
+
+Do not begin Pass3 in the same activity.
