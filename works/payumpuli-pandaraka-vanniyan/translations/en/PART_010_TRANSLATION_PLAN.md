@@ -351,3 +351,26 @@ Maintain `தலையாழி` as source-facing **Thalaiyaazhi** unless Part01
 - E52–E57 — **6/6 SOURCE-CHECKED / COMPLETE**
 
 Exact next gate: **Part010 whole-Part glossary reconciliation**.
+
+
+## Part010 release/readiness checkpoint
+
+**PART010 RELEASE/READINESS — PASS / CLOSED.**
+
+- Part010 canonical Tamil — **30/30 verified**
+- Part010 visual fidelity — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- E52–E57 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- unresolved Tamil / English / release blockers — **0**
+- incoming 270→271 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 300→301 — **PENDING direct audit**
+- Part011 body/canonical leakage — **0**
+
+Durable release report:
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_010_RELEASE_REPORT.md`
+
+Exact next gate: **Part010 release-ready synchronization**.
