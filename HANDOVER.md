@@ -1952,3 +1952,30 @@ Durable final record:
 - `works/payumpuli-pandaraka-vanniyan/PART_010_FINAL_CLOSURE.md`
 
 Exact next activity: directly audit **300→301**; if usable, begin **Part011 Pass1 scans301–310 / local pages1–10**. Do not reopen frozen Parts001–010 merely to advance Part011.
+
+
+## Part011 Pass1 Batch1 checkpoint
+
+**PART011 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- Parts001–010 — **FINAL CLOSED / FROZEN**
+- Part011 source — **SUPPLIED / REGISTERED / ACTIVE**
+- source SHA-256 — `091a10b6f0a26cb323cad5a7ed6a645396e3eb112da904c939da05c3fd91eb4e`
+- incoming **300→301 — GENUINE CONTINUATION / AUDITED / PASS**
+- canonical Part011 records — **10/30 — scans301–310**
+- printed pages — **293–302**
+- chapter47 continuation/close — **301–303**
+- chapter48 `முத்திரை கிழிந்தது!` — **304–310 / closes scan310**
+- scan305→306 split word — **`பழக்க` + `மான`**
+- scan310 intentional blank lower field — **preserved**
+- unresolved Pass1 source-reading holds — **0**
+- completed records — **needs-review / needs-review**
+- outgoing **330→331 — PENDING direct audit**
+- Pass2A — **BLOCKED UNTIL 30/30 PASS1 COMPLETE**
+
+Durable controls:
+- `works/payumpuli-pandaraka-vanniyan/PART_011_BOUNDARY_AUDIT_300_301.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_011_PASS1_PROGRESS.md`
+- `works/payumpuli-pandaraka-vanniyan/PART_011_HANDOFF.md`
+
+Exact next activity: **Part011 Pass1 scans311–320 / local pages11–20 / printed303–312**.
