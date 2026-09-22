@@ -1,0 +1,35 @@
+---
+scan_page: 310
+part: 11
+part_page: 10
+printed_page: 302
+work: "payumpuli-pandaraka-vanniyan"
+section: "முத்திரை கிழிந்தது!"
+page_type: "body"
+status: "needs-review"
+visual_fidelity: "needs-review"
+language: "ta"
+source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf"
+transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans301–310"
+---
+
+# முத்திரை கிழிந்தது!
+
+## Source transcription
+
+“போதும்! நான் நம்பிக்கெட்டது போதும்!” அவன் கோயிலில் அணிவித்த கணையாழியைக் கழற்றி வீசி எறிந்தாள் நல்ல நாச்சியார்.
+
+“நான் காக்கை வன்னியன்தான்! ஆனால் உன் கணவன்! உன்னை முழுவதுமாக சுவைக்காமல் நீ விவாகரத்து செய்து கொள்ள விடமாட்டேன்”
+
+என்று கூறியவாறு அவளது கைகளைப் பிடித்து பலமாக இழுத்தான்.
+
+“சீ! விடு என்னை!” என்று சீறினாள் நல்லநாச்சியார்!
+
+## Pass 1 notes
+
+- chapter48 continuation and close
+- printed page 302 directly visible
+- substantial intentional blank lower field preserved; no invented body text
+- Pass1 batch stops here; scan311 is outside this batch
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 310; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 10; அச்சுப் பக்கம்: 302; PASS 1 TEXT-COMPLETE / textual-review-pending / visual-review-pending -->
