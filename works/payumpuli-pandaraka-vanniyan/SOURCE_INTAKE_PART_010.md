@@ -44,7 +44,7 @@ The canonical `scan_page` remains the overall scan number **271–300**.
 
 Part 010 source split: **SUPPLIED / REGISTERED**.
 
-Lifecycle state: **ACTIVE — PASS1 COMPLETE / PASS**.
+Lifecycle state: **ACTIVE — PASS2A COMPLETE / PASS; PASS2B NEXT**.
 
 Part010 canonical page records: **30/30 — scans271–300 / local pages1–30**.
 
@@ -54,7 +54,7 @@ Incoming **270→271 = GENUINE CONTINUATION / AUDITED / PASS**.
 
 Pass1 pending: **0 / 30 — COMPLETE**.
 
-Exact next activity: **Part010 Pass2A direct textual source-fidelity review of scans271–300**, unless exact Part011 scan301 is available first for the separate **300→301** boundary audit.
+Exact next activity: **Part010 Pass2B — independent historical-glyph / lexical / word-boundary / punctuation-sensitive fidelity review of scans271–300**. Keep **300→301 PENDING direct audit** unless exact Part011 scan301 is directly checked.
 
 Do not begin Pass2A until Pass1 covers all **30/30** Part010 pages.
 
@@ -340,3 +340,27 @@ Durable progress:
 Next explicit activity:
 - if exact Part011 scan301 is available, directly audit **300→301**;
 - otherwise begin **Part010 Pass2A scans271–300**, keeping **300→301 PENDING direct audit**.
+
+
+## Part010 Pass2A closure checkpoint
+
+**PART010 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- canonical Part010 records — **30/30**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- source-supported Pass2A corrections — **7**
+- unresolved textual questions — **0**
+- correction scans — **276, 277, 288, 291 (2), 292, 294**
+- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **300→301 — PENDING direct audit**
+- frozen Parts001–009 body mutations — **0**
+- Part011 wording leakage — **0**
+- Pass2B — **NOT STARTED / NEXT GATE**
+
+Durable Pass2A record:
+- `PART_010_PASS2A_PROGRESS.md`
+
+Exact next activity: **Part010 Pass2B scans271–300**.
+
+Do not begin Pass3 in the same activity.
