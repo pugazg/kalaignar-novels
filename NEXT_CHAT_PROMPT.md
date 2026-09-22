@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part010 English E55 — scans286–291
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part010 English E56 — scans292–297
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -24,9 +24,10 @@ Parts **001–009 are FINAL CLOSED / FROZEN**.
 - E52 — section55 / scans271–272 — **SOURCE-CHECKED / COMPLETE**
 - E53 — section56 / scans273–278 — **SOURCE-CHECKED / COMPLETE**
 - E54 — section57 / scans279–285 — **SOURCE-CHECKED / COMPLETE**
-- translated/source-checked — **3/6 / 3/6**
+- E55 — section58 / scans286–291 — **SOURCE-CHECKED / COMPLETE**
+- translated/source-checked — **4/6 / 4/6**
 - unresolved English source-check holds — **0**
-- E55–E57 — **NOT STARTED**
+- E56–E57 — **NOT STARTED**
 - frozen Part001–Part009 English body edits — **0**
 - Part011 leakage — **0**
 
@@ -37,40 +38,48 @@ Active controls:
 - `translations/en/E52_SOURCE_CHECK.md`
 - `translations/en/E53_SOURCE_CHECK.md`
 - `translations/en/E54_SOURCE_CHECK.md`
+- `translations/en/E55_SOURCE_CHECK.md`
 
-## E55 authority
+## E56 authority
 
 Tamil assembled file:
 
-`sections/58-thevai-nooru-veerargal.md`
+`sections/59-ellam-nanmaikke.md`
 
 Coverage:
-- scans **286–291**
-- chapter45 — `தேவை நூறு வீரர்கள்!`
-- planned English title — **A Hundred Warriors Are Needed!**
-- planned English file — `translations/en/sections/58-a-hundred-warriors-are-needed.md`
+- scans **292–297**
+- chapter46 — `எல்லாம் நன்மைக்கே!`
+- planned English title — **Everything Is for the Good!**
+- planned English file — `translations/en/sections/59-everything-is-for-the-good.md`
+
+Critical structural lock:
+- scan297 closes chapter46 with a substantial intentional blank lower field
+- no English prose may be invented for that blank field
+- devotional song/verse structure inside chapter46 must be translated from verified Tamil only
+- do not import published/standard devotional lyrics
 
 ## Exact next activity
 
-Perform **E55 draft + source-check only**.
+Perform **E56 draft + source-check only**.
 
 Requirements:
 
-1. Read the active Part010 plan/glossary/progress controls, verified Tamil section58, and canonical scans286–291.
-2. Draft maintained English section58 solely from verified Part010 Tamil.
-3. Preserve chapter number/title, paragraph/dialogue order, rhetoric and physical source-boundary provenance.
-4. Translate source-era sexual, political, violent, devotional and rhetorical material as source-attributed content without translator commentary.
-5. Do not import published/web/remembered translation wording.
-6. Create `E55_SOURCE_CHECK.md` and source-check every literary block against verified Tamil.
-7. Require:
+1. Read the active Part010 plan/glossary/progress controls, verified Tamil section59, and canonical scans292–297.
+2. Draft maintained English section59 solely from verified Part010 Tamil.
+3. Preserve chapter number/title, paragraph/dialogue order, rhetoric, verse/song layout where meaningful, and source-boundary provenance.
+4. Translate devotional, political, violent, sexual and rhetorical material as source-attributed content without translator commentary.
+5. Do not import published/web/remembered translations or standard devotional lyrics.
+6. Preserve scan297 intentional blank lower field with no invented English prose.
+7. Create `E56_SOURCE_CHECK.md` and source-check every literary block against verified Tamil.
+8. Require:
    - omissions / duplicates — **0 / 0**
    - unsupported English body insertion — **0**
    - canonical Tamil edits — **0**
    - assembled Tamil edits — **0**
    - frozen Parts001–Part009 English body edits — **0**
    - Part011 leakage — **0**
-   - unresolved E55 holds — **0**
-8. Update Part010 English progress/control documents after E55 closes.
-9. Stop after **E55 SOURCE-CHECKED / COMPLETE**.
+   - unresolved E56 holds — **0**
+9. Update Part010 English progress/control documents after E56 closes.
+10. Stop after **E56 SOURCE-CHECKED / COMPLETE**.
 
-Do **not** begin E56 in the same activity.
+Do **not** begin E57 in the same activity.
