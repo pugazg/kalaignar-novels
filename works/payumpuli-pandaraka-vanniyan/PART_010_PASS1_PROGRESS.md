@@ -191,3 +191,30 @@ Part010 Pass2B is **COMPLETE / PASS — 30/30 REVIEWED**.
 Exact next activity: **Part010 Pass3 — direct full-page visual / structural verification of scans271–300**.
 
 Do not begin Part audit in the same activity.
+
+
+## Post-Pass3 current state
+
+Part010 Pass3 is **COMPLETE / PASS — 30/30 REVIEWED**.
+
+- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 7 corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 4 corrections**
+- Pass3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- chapter openings confirmed — **273, 279, 286, 292, 298**
+- intentional blank lower fields confirmed — **278, 285, 297**
+- scan281 illustration-only / printed_page null — **RECONFIRMED**
+- printed folios — **263–272, 274–292**
+- incoming 270→271 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 300→301 — **PENDING direct audit**
+- Parts001–009 — **FINAL CLOSED / FROZEN**
+- durable Pass3 record — `PART_010_PASS3_PROGRESS.md`
+- Part audit — **NOT STARTED / NEXT GATE**
+
+Exact next activity: **Part010 Part audit**.
+
+Do not perform final metadata/status synchronization in the same activity.
