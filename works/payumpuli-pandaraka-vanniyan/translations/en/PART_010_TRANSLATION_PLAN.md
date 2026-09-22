@@ -332,3 +332,22 @@ Current Part010 English counts:
 Exact next gate: **E57 draft + source-check — section60 / scans298–300**.
 
 Maintain `தலையாழி` as source-facing **Thalaiyaazhi** unless Part010 itself establishes a safer rendering. Do not consult/import Part011 merely to resolve it; outgoing **300→301 remains PENDING direct audit**.
+
+
+## E57 source-check checkpoint
+
+**E57 — SOURCE-CHECKED / COMPLETE.**
+
+- source — section60 / scans298–300
+- English — `sections/60-they-exchanged-the-thalaiyaazhi.md`
+- source-check — `E57_SOURCE_CHECK.md`
+- title — **They Exchanged the Thalaiyaazhi**
+- `தலையாழி` handling — **Thalaiyaazhi / source-facing**
+- `காப்புக் கிரகம்` occurrence variants — **protected**
+- scan300 terminal open dialogue — **preserved**
+- outgoing 300→301 — **PENDING direct audit**
+- Part011 leakage — **0**
+- unresolved holds — **0**
+- E52–E57 — **6/6 SOURCE-CHECKED / COMPLETE**
+
+Exact next gate: **Part010 whole-Part glossary reconciliation**.
