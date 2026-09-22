@@ -169,3 +169,25 @@ Part010 Pass2A is **COMPLETE / PASS — 30/30 REVIEWED**.
 Exact next activity: **Part010 Pass2B — independent historical-glyph / lexical / word-boundary / punctuation-sensitive fidelity review of scans271–300**.
 
 Do not begin Pass3 in the same activity.
+
+
+## Post-Pass2B current state
+
+Part010 Pass2B is **COMPLETE / PASS — 30/30 REVIEWED**.
+
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 7 corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 4 corrections**
+- Pass2B historical-glyph corrections — **0**
+- unresolved textual / lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- correction scans in Pass2B — **277, 289, 294, 299**
+- incoming 270→271 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 300→301 — **PENDING direct audit**
+- frozen Parts001–009 body mutations — **0**
+- durable Pass2B record — `PART_010_PASS2B_PROGRESS.md`
+- Pass3 — **NOT STARTED / NEXT GATE**
+
+Exact next activity: **Part010 Pass3 — direct full-page visual / structural verification of scans271–300**.
+
+Do not begin Part audit in the same activity.
