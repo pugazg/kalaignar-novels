@@ -284,3 +284,26 @@ Current Part010 English counts:
 Exact next gate: **E55 draft + source-check — section58 / scans286–291**.
 
 Do not begin E56 until E55 closes **SOURCE-CHECKED / COMPLETE**.
+
+
+## E55 source-check checkpoint
+
+**E55 — SOURCE-CHECKED / COMPLETE.**
+
+- source — section58 / scans286–291
+- English — `sections/58-a-hundred-warriors-are-needed.md`
+- source-check — `E55_SOURCE_CHECK.md`
+- chapter title — **A Hundred Warriors Are Needed!**
+- source-attribution discipline for sexual / political / violent content — **PASS**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part009 English edits — **0**
+- unresolved source-check holds — **0**
+- Part011 leakage — **0**
+
+Current Part010 English counts:
+- translated — **4/6**
+- source-checked — **4/6**
+
+Exact next gate: **E56 draft + source-check — section59 / scans292–297**.
+
+Do not begin E57 until E56 closes **SOURCE-CHECKED / COMPLETE**.
