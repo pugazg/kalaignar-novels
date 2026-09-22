@@ -1399,3 +1399,30 @@ Scan281 is illustration-only and must remain provenance-only with no invented En
 Exact next gate: **E55 draft + source-check — section58 / scans286–291 — `தேவை நூறு வீரர்கள்!`**.
 
 Do not begin E56 until E55 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Part010 English E55 checkpoint
+
+**E55 — SOURCE-CHECKED / COMPLETE.**
+
+- Part010 English batches — **E52–E57 / 6**
+- E52 — section55 / scans271–272 — **SOURCE-CHECKED / COMPLETE**
+- E53 — section56 / scans273–278 — **SOURCE-CHECKED / COMPLETE**
+- E54 — section57 / scans279–285 — **SOURCE-CHECKED / COMPLETE**
+- E55 — section58 / scans286–291 — **SOURCE-CHECKED / COMPLETE**
+- maintained English file — `translations/en/sections/58-a-hundred-warriors-are-needed.md`
+- durable source check — `translations/en/E55_SOURCE_CHECK.md`
+- translated / source-checked Part010 files — **4/6 / 4/6**
+- E56–E57 — **NOT STARTED**
+- chapter title — **A Hundred Warriors Are Needed!**
+- source-attributed political / violent / sexual content discipline — **PASS**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- frozen Part001–Part009 English body edits — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- unresolved E55 holds — **0**
+- outgoing **300→301 — PENDING direct audit / unchanged**
+- Part011 leakage — **0**
+
+Exact next gate: **E56 draft + source-check — section59 / scans292–297 — `எல்லாம் நன்மைக்கே!`**.
+
+Do not begin E57 until E56 is **SOURCE-CHECKED / COMPLETE**.
