@@ -294,3 +294,46 @@ E55 name/title forms confirmed:
 E55 unresolved terminology holds — **0**.
 
 These decisions remain subject to Part010 whole-Part glossary reconciliation and do not authorize Tamil normalization.
+
+
+## E56 source-check additions
+
+Source-checked handling established for section59 / scans292–297:
+
+| Tamil source | English handling | Source-check note |
+|---|---|---|
+| `எல்லாம் நன்மைக்கே!` | **Everything Is for the Good!** | chapter title retained as planned |
+| `பக்தசிரோன்மணிகள்` / `பக்த சிகாமணிகள்` | **great devotees / paragons of devotion** | immediate rhetorical sense only |
+| `பத்தினியம்மன்` | **Paththiniyamman** | source-facing compound; no external identification |
+| `காவடி` | ***kavadi*** | inherited source-facing handling |
+| `கரகம்` | ***karagam*** | inherited source-facing handling |
+| `பக்திச்சுவை சொட்டச் சொட்ட` | **with devotional flavour dripping** | source metaphor retained |
+| `தத்துரூபமான` | **true-to-life** | immediate source sense |
+| `வண்டு விழிகள்` | **bee-like eyes** | source image retained |
+| `முந்தானை` | ***mundhanai*** | source-facing clothing term; no outside gloss |
+| `நாழிகை` | ***naazhigai*** | source-facing time unit; no invented modern conversion |
+| `இந்த ஜென்மத்தில்` | **in this birth** | source idiom retained |
+| `தடதடவெனப் புரண்டு` | **rolled about thrashing** | immediate action |
+| `பைத்தியக் காரத்தனம்` | **crazed haste** | immediate narrative sense |
+
+E56 name/forms confirmed:
+- **Thanigaimala**
+- **Kakkai Vanniyan**
+- **Piyasili**
+- **Kala / Kalavathi**
+- **Nalla Naachchiyar / Nalla Naachchi**
+- **Pramanandan** for `பிரமானந்தன்`, source-facing; no external identification
+- **Vattrappalai**
+- **Thirukonamalai**
+- **Mullaitheevu**
+- **Urvasi / Rambai** for source `ஊர்வசி / ரம்பை`, retained without external normalization
+
+E56 devotional-song discipline:
+- source line/stanza order retained;
+- translation derived only from verified Part010 Tamil;
+- imported published/standard devotional lyric wording — **0**;
+- added theological explanation — **0**.
+
+E56 unresolved terminology holds — **0**.
+
+These decisions remain subject to Part010 whole-Part glossary reconciliation and do not authorize Tamil normalization.
