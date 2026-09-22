@@ -154,3 +154,25 @@ Durable records:
 - `works/payumpuli-pandaraka-vanniyan/PART_010_FINAL_STATUS_SYNC.md`
 
 Exact next gate: **Part010 Tamil archival-ready checkpoint** after documentation synchronization closes.
+
+
+## Part010 assembled Tamil downstream state
+
+**PART010 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED.**
+
+- canonical Part010 Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- assembled coverage — **30/30**
+- section range — **55–60**
+- omissions / duplicates — **0 / 0**
+- unsupported body insertion / audit-note leakage — **0 / 0**
+- frozen Parts001–009 assembled mutations — **0**
+- Part011 body leakage — **0**
+- incoming 270→271 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 300→301 — **PENDING direct audit**
+- exact next gate — **Part010 English translation planning/setup**
