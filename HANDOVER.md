@@ -1623,3 +1623,33 @@ Durable Pass2A record:
 Exact next activity: **Part010 Pass2B — independent historical-glyph / lexical / word-boundary / punctuation-sensitive fidelity review of scans271–300**.
 
 Do not begin Pass3 in the same activity. Keep **300→301 PENDING direct audit** unless exact Part011 scan301 is directly checked.
+
+
+## Part010 Pass3 closure / current frontier
+
+**PART010 PASS 3 — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Parts001–009 — **FINAL CLOSED / FROZEN**
+- Part010 Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Part010 Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 7 corrections**
+- Part010 Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 4 corrections**
+- Part010 Pass3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections**
+- unresolved Tamil / lexical / historical-glyph / visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- chapter openings confirmed — **273, 279, 286, 292, 298**
+- intentional blank lower fields confirmed — **278, 285, 297**
+- scan281 — **full-page colour narrative illustration / printed_page null**
+- printed folios — **263–272, 274–292**
+- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **300→301 — PENDING direct audit**
+- frozen Parts001–009 body mutations — **0**
+- Part011 wording leakage — **0**
+- Part audit — **NOT STARTED / NEXT GATE**
+
+Durable Pass3 record:
+- `works/payumpuli-pandaraka-vanniyan/PART_010_PASS3_PROGRESS.md`
+
+Exact next activity: **Part010 Part audit**.
+
+Do not perform final metadata/status synchronization in the same activity.
