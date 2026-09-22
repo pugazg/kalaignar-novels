@@ -39,7 +39,7 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 batch s
 
 தணிகைமலை என்ன கேட்கப் போகிறான் என்று தெரியாமலேயே பண்டாரகனும் குருவிச்சியும் ஒருவரையொருவர் நோக்கினர்.
 
-“நான் தங்களிடம் ஒற்றனாக மட்டுமல்ல - தங்களின் மெய்க்காப்பாளனாகவும் இருக்கிறேன்!”
+“நான் தங்களிடம் ஒற்றனாக மட்டுமல்ல - தங்களின் மெய் காப்பாளனாகவும் இருக்கிறேன்!”
 
 “ஆமாம் அதற்கென்ன இப்போது?”
 
@@ -65,3 +65,16 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending the later visual gate;
 - Pass 2B historical-glyph / word-boundary review remains the next gate.
+
+
+## Formal Part010 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed directly against rendered Part010 source pixels;
+- source-specific spellings, compounds, joins, spacing, punctuation, quotation boundaries and irregular forms were preserved without modernization;
+- Pass 2B source-text / lexical / spacing / punctuation corrections: **1**;
+- correction 1: `மெய்க்காப்பாளனாகவும்` → **`மெய் காப்பாளனாகவும்`** — source spacing / word-boundary correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass 3.
