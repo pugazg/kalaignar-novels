@@ -6,7 +6,7 @@ printed_page: 269
 work: "payumpuli-pandaraka-vanniyan"
 section: "சந்திரிகாவின் சூழ்ச்சி!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_010_pages_271-300.pdf"
@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 batch s
 
 ## Source transcription
 
-காக்கை வன்னியனை முதலில் தீர்த்துக் கட்டவேண்டும்! பிறகு ஆங்கிலேயரை வீழ்த்தி விரட்ட கண்டி ராஜ்யப் படையும் பண்டாரக வன்னியர்படையும் இடையூறு ஏதுமின்றி முன்னேற முடியும்!”
+காக்கை வன்னியனை முதலில் தீர்த்துக் கட்ட வேண்டும்! பிறகு ஆங்கிலேயரை வீழ்த்தி விரட்ட கண்டி ராஜ்யப் படையும் பண்டாரக வன்னியர்படையும் இடையூறு ஏதுமின்றி முன்னேற முடியும்!”
 
 சிறிது நேரம் சிந்தனையில் ஆழ்ந்திருந்த தணிகைமலை மெல்ல இமைகளை மூடிக் கொண்டிருந்தபோது - அவன் தோள் மீது நாலைந்து அரும்புகள் விழுந்தது போன்ற உணர்வு! அரும்புகள்தானா என்று தனது விரல்களால் தடவிப் பார்த்தான் விழிகளைத் திறக்காமலே! அந்த அரும்புகள், குறத்தி கலாவின் அழகான விரல்கள்! மெல்லச் சிரித்தான் தணிகைமலை! “நீயும் மார்த்தனியைப் போலக் கற்புக்கரசிதானா?” என்று கேட்டுக் கொண்டே அவளைத் தழுவினான்.
 
@@ -36,4 +36,17 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 batch s
 - printed page **269** directly visible;
 - textual / visual review gates remain pending.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 277; பகுதி: 010; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 269; PASS 1 TEXT-COMPLETE / needs-review -->
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 277; பகுதி: 010; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 269; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+
+## Formal Part010 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part010 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph and dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-text corrections in Pass 2A: **1**;
+- correction 1: `காக்கை வன்னியனை முதலில் தீர்த்துக் கட்டவேண்டும்!` → **`காக்கை வன்னியனை முதலில் தீர்த்துக் கட்ட வேண்டும்!`** — source spacing / word-boundary correction;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending the later visual gate;
+- Pass 2B historical-glyph / word-boundary review remains the next gate.
