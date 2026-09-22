@@ -6,7 +6,7 @@ printed_page: 268
 work: "payumpuli-pandaraka-vanniyan"
 section: "சந்திரிகாவின் சூழ்ச்சி!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_010_pages_271-300.pdf"
@@ -29,7 +29,7 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 batch s
 
 “மூன்று நாள் தவமிருந்து, அதன் பிறகும் அவனுக்கு நார்த்தின் நட்பு கிடைக்காவிட்டால் உன் பேச்சை நம்புவானா?”
 
-“சரியான பைத்தியக்கார மனிதனாக இருக்கிறாயே! காக்கையை கண்ணகிகோயிலுக்கு ஏன் போகச் சொல்லியிருக்கிறேன்? அதுவும் தனியாக?”
+“சரியான பைத்தியக்கார மனிதனாக இருக்கிறாயே! காக்கையை கண்ணகி கோயிலுக்கு ஏன் போகச் சொல்லியிருக்கிறேன்? அதுவும் தனியாக?”
 
 “ஏன்?”
 
@@ -47,4 +47,17 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 batch s
 - printed page **268** directly visible;
 - textual / visual review gates remain pending.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 276; பகுதி: 010; பகுதி உள்ளூர் பக்கம்: 6; அச்சுப் பக்கம்: 268; PASS 1 TEXT-COMPLETE / needs-review -->
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 276; பகுதி: 010; பகுதி உள்ளூர் பக்கம்: 6; அச்சுப் பக்கம்: 268; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+
+## Formal Part010 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part010 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph and dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-text corrections in Pass 2A: **1**;
+- correction 1: `கண்ணகிகோயிலுக்கு` → **`கண்ணகி கோயிலுக்கு`** — source spacing / word-boundary correction;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending the later visual gate;
+- Pass 2B historical-glyph / word-boundary review remains the next gate.
