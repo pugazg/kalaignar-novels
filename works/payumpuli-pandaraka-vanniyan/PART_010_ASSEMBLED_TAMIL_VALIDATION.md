@@ -264,3 +264,30 @@ Do not begin E54 until E53 is **SOURCE-CHECKED / COMPLETE**.
 Exact next gate: **E54 draft + source-check — section57 / scans279–285 — `இன்றா, நாளையா? ஏன்?`**.
 
 Scan281 is illustration-only and must remain provenance-only with no invented English caption/body. Do not begin E55 until E54 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Part010 English E54 checkpoint
+
+**E54 — SOURCE-CHECKED / COMPLETE.**
+
+- Part010 English batches — **E52–E57 / 6**
+- E52 — section55 / scans271–272 — **SOURCE-CHECKED / COMPLETE**
+- E53 — section56 / scans273–278 — **SOURCE-CHECKED / COMPLETE**
+- E54 — section57 / scans279–285 — **SOURCE-CHECKED / COMPLETE**
+- maintained English file — `translations/en/sections/57-today-or-tomorrow-why.md`
+- durable source check — `translations/en/E54_SOURCE_CHECK.md`
+- translated / source-checked Part010 files — **3/6 / 3/6**
+- E55–E57 — **NOT STARTED**
+- chapter title — **Today or Tomorrow? Why?**
+- scan281 full-page illustration — **provenance-only / no invented English caption or body**
+- scan285 intentional blank lower field — **preserved with no invented English body**
+- source-attributed political / violent / sexual content discipline — **PASS**
+- frozen Part001–Part009 English body edits — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- unresolved E54 holds — **0**
+- outgoing **300→301 — PENDING direct audit / unchanged**
+- Part011 leakage — **0**
+
+Exact next gate: **E55 draft + source-check — section58 / scans286–291 — `தேவை நூறு வீரர்கள்!`**.
+
+Do not begin E56 until E55 is **SOURCE-CHECKED / COMPLETE**.
