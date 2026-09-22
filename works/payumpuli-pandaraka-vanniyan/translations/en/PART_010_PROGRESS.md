@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART010 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS**
+**PART010 — FINAL CLOSED / FROZEN**
 
 Parts001–Part009 English are **FINAL CLOSED / FROZEN**.
 
@@ -19,7 +19,7 @@ Parts001–Part009 English are **FINAL CLOSED / FROZEN**.
 | Bilingual | Part010 whole-Part bilingual review | 271–300 | **PASS / CLOSED** |
 | Release | Part010 release/readiness | 271–300 | **PASS / CLOSED** |
 | Release-ready sync | Part010 lifecycle/control synchronization | 271–300 | **PASS / CLOSED** |
-| Final closure | Part010 final closure | 271–300 | **NOT STARTED / NEXT** |
+| Final closure | Part010 final closure | 271–300 | **PASS / CLOSED / FROZEN** |
 
 ## Current counts
 
@@ -301,3 +301,27 @@ Durable synchronization:
 - `../PART_010_RELEASE_READY_SYNC.md`
 
 Exact next gate: **Part010 final closure**.
+
+
+## Final closure checkpoint
+
+**PART010 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Part001–Part010 — **FINAL CLOSED / FROZEN**
+- canonical Tamil — **30/30 verified / frozen**
+- assembled Tamil — **6/6 VERIFIED / frozen**
+- E52–E57 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved Tamil / English / release blockers — **0**
+- outgoing 300→301 — **PENDING direct audit**
+- Part011 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part011 canonical records — **0**
+
+Durable final record:
+- `../PART_010_FINAL_CLOSURE.md`
+
+Exact next activity: directly audit **300→301** from Part010 scan300 and registered Part011 scan301; if usable, begin **Part011 Pass1 scans301–310 / local pages1–10**.
