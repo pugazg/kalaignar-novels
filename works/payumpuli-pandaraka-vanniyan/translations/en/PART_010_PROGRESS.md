@@ -11,8 +11,8 @@ Parts001–Part009 English are **FINAL CLOSED / FROZEN**.
 | **E52** | section55 — chapter42 continuation/close `மறைந்த மாயம் என்னவோ?` | 271–272 | **SOURCE-CHECKED / COMPLETE** |
 | **E53** | section56 — `சந்திரிகாவின் சூழ்ச்சி!` | 273–278 | **SOURCE-CHECKED / COMPLETE** |
 | **E54** | section57 — `இன்றா, நாளையா? ஏன்?` | 279–285 | **SOURCE-CHECKED / COMPLETE** |
-| **E55** | section58 — `தேவை நூறு வீரர்கள்!` | 286–291 | **NOT STARTED / NEXT** |
-| **E56** | section59 — `எல்லாம் நன்மைக்கே!` | 292–297 | **NOT STARTED** |
+| **E55** | section58 — `தேவை நூறு வீரர்கள்!` | 286–291 | **SOURCE-CHECKED / COMPLETE** |
+| **E56** | section59 — `எல்லாம் நன்மைக்கே!` | 292–297 | **NOT STARTED / NEXT** |
 | **E57** | section60 — `தலையாழி மாற்றிக் கொண்டனர்` | 298–300 | **NOT STARTED** |
 | Glossary reconciliation | Part010 whole-Part reconciliation | 271–300 | **BLOCKED UNTIL E52–E57 CLOSE** |
 | Editorial | Part010 whole-Part English editorial review | 271–300 | **BLOCKED** |
@@ -28,8 +28,8 @@ Parts001–Part009 English are **FINAL CLOSED / FROZEN**.
 - Tamil assembled files — **6/6 VERIFIED / CLOSED**
 - Part010 English planned batches — **E52–E57 / 6**
 - Part010 English planned files — **6**
-- Part010 English translated files — **3/6**
-- Part010 English source-checked files — **3/6**
+- Part010 English translated files — **4/6**
+- Part010 English source-checked files — **4/6**
 - unresolved English planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -111,9 +111,9 @@ No Part010 English literary prose is drafted in this planning gate.
 
 ## Exact next activity
 
-**E55 draft + source-check — section58 / scans286–291.**
+**E56 draft + source-check — section59 / scans292–297.**
 
-Do not begin E56 until E55 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin E57 until E56 is **SOURCE-CHECKED / COMPLETE**.
 
 
 ## E52 closure checkpoint
@@ -181,3 +181,24 @@ Scan281 is illustration-only and must remain provenance-only. Do not begin E55 u
 Exact next batch: **E55 draft + source-check — section58 / scans286–291 — `தேவை நூறு வீரர்கள்!`**.
 
 Do not begin E56 until E55 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## E55 closure checkpoint
+
+**E55 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil authority — section58 / scans286–291
+- maintained English file — `sections/58-a-hundred-warriors-are-needed.md`
+- source-check record — `E55_SOURCE_CHECK.md`
+- chapter title — `தேவை நூறு வீரர்கள்!` → **A Hundred Warriors Are Needed!**
+- source-era sexual / political / violent language — **translated as source-attributed content**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part009 English body edits — **0**
+- Part011 leakage — **0**
+- unresolved E55 holds — **0**
+- translated / source-checked Part010 files — **4/6 / 4/6**
+
+Exact next batch: **E56 draft + source-check — section59 / scans292–297 — `எல்லாம் நன்மைக்கே!`**.
+
+Do not begin E57 until E56 is **SOURCE-CHECKED / COMPLETE**.
