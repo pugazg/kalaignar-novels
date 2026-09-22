@@ -186,3 +186,34 @@ Durable validation:
 Exact next gate: **Part010 English translation planning/setup**.
 
 Create planning/glossary/progress controls only; perform a live English batch-number collision check before reserving the Part010 sequence; do not draft English prose in the setup gate.
+
+
+## Part010 English planning/setup frontier
+
+**PART010 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- Part010 canonical Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- English batch collision check — **PASS**
+- existing source-check controls — **E1–E51 contiguous**
+- reserved Part010 sequence — **E52–E57 / 6**
+- planned English section range — **55–60**
+- English section-order collisions — **0**
+- translated/source-checked — **0/6 / 0/6**
+- unresolved English planning holds — **0**
+- English prose drafted during planning — **0**
+- frozen Part001–Part009 English body changes — **0**
+- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **300→301 — PENDING direct audit**
+- Part011 leakage — **0**
+
+Active English controls:
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_010_TRANSLATION_PLAN.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_010_GLOSSARY.md`
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_010_PROGRESS.md`
+
+Exact next gate: **E52 draft + source-check — section55 / scans271–272**.
+
+Do not begin E53 until E52 is **SOURCE-CHECKED / COMPLETE**.
