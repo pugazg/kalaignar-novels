@@ -37,7 +37,7 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 batch s
 
 “குறி சொல்லுமாறு உன்னை யாராவது இங்கு அழைத்தார்களா?”
 
-“நான் குறி சொல்லவாவில்லை. ஒரு கொடுமையான காரியத்தைத் தடுப்பதற்காக ஓடி வந்தேன்.”
+“நான் குறி சொல்லவரவில்லை. ஒரு கொடுமையான காரியத்தைத் தடுப்பதற்காக ஓடி வந்தேன்.”
 
 “புரியும் படி சொல்!”
 
@@ -66,3 +66,16 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending the later visual gate;
 - Pass 2B historical-glyph / word-boundary review remains the next gate.
+
+
+## Formal Part010 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed directly against rendered Part010 source pixels;
+- source-specific spellings, compounds, joins, spacing, punctuation, quotation boundaries and irregular forms were preserved without modernization;
+- Pass 2B source-text / lexical / spacing / punctuation corrections: **1**;
+- correction 1: `நான் குறி சொல்லவாவில்லை.` → **`நான் குறி சொல்லவரவில்லை.`** — lexical / source-reading correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass 3.
