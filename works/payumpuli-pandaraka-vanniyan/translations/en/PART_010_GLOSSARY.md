@@ -254,3 +254,43 @@ Scan281 English handling remains **non-rendering provenance only** with no capti
 E54 unresolved terminology holds — **0**.
 
 These decisions remain subject to Part010 whole-Part glossary reconciliation and do not authorize Tamil normalization.
+
+
+## E55 source-check additions
+
+Source-checked handling established for section58 / scans286–291:
+
+| Tamil source | English handling | Source-check note |
+|---|---|---|
+| `தேவை நூறு வீரர்கள்!` | **A Hundred Warriors Are Needed!** | chapter title retained as planned |
+| `களிநடன போதை` | **intoxication of revelry** | immediate source sense |
+| `கிளுகிளுப்பு` | **a thrill** | immediate source sense |
+| `உச்சாணிக் கொப்பு` | **the very topmost branch** | source height metaphor retained |
+| `அணு அணுவாகச் சுவைத்தது` | **savoured him bit by bit** | source erotic image retained |
+| `இன்பத்தேன் துளிகள்` | **drops of honeyed pleasure** | source metaphor |
+| `சரசம், விரசம் ... அத்துப்படி` | **coquetry, bawdiness ... second nature** | source-era characterization |
+| `செல்லக் கடி கடித்தாள்` | **bit him playfully again and again** | immediate source action |
+| `பேய்கள் இரண்டு... பேரழகுப் பெண்கள்` | **two demons assuming the forms of beautiful women** | narrator image retained |
+| `கனைப்புக் கனைத்துக் காட்டினான்` | **cleared his throat loudly** | immediate action |
+| `முண்டம்` | **headless trunk** | immediate violent image |
+| `ஜோசியமா கேட்க வேண்டும்?` | **Do we need to consult astrology ...?** | rhetorical question retained |
+| `கம்பெனிக்கார அதிகாரிகள்` | **Company officers** | source-facing institutional label |
+| `ஆள் மயக்கிகள்` | **women who bewitch men** | narrator/conscience label |
+| `ஆனந்த சாகரம்` | **an ocean of bliss** | source metaphor |
+| `மோகத்தை மோகத்தால் வென்று விடு` | **conquer desire with desire** | source-created saying retained |
+| `கடைவிழி` | **sidelong glance** | immediate physical description |
+
+E55 name/title forms confirmed:
+- **Thanigaimala / Thanigai**
+- **Piyasili**
+- **Marthani**
+- **Jeyaseelan**
+- **Kuruvichchi Naachchiyar / Kuruvichchi**
+- **Pandaraka Vanniyan / Pandarakan**
+- **Kakkai Vanniyan**
+- **Vattrappalai Kannagiyamman temple / Kannagi temple**
+- **king of Kandy**
+
+E55 unresolved terminology holds — **0**.
+
+These decisions remain subject to Part010 whole-Part glossary reconciliation and do not authorize Tamil normalization.
