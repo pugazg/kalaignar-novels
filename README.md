@@ -1175,3 +1175,29 @@ Durable controls:
 Exact next activity: **Part010 Pass2A — direct textual source-fidelity review of scans271–300**.
 
 If exact Part011 scan301 is supplied before that review, audit **300→301** directly; otherwise keep the outgoing boundary pending. Do not begin Pass2B until Pass2A closes.
+
+
+## Part010 Pass2A closure / current frontier
+
+**PART010 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Parts001–009 — **FINAL CLOSED / FROZEN**
+- Part010 Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Part010 Pass2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass2A source-supported corrections — **7**
+- correction scans — **276, 277, 288, 291 (2), 292, 294**
+- unresolved textual questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **300→301 — PENDING direct audit**
+- frozen Parts001–009 body mutations — **0**
+- Part011 wording leakage — **0**
+- Pass2B — **NOT STARTED / NEXT GATE**
+
+Durable Pass2A record:
+- `works/payumpuli-pandaraka-vanniyan/PART_010_PASS2A_PROGRESS.md`
+
+Exact next activity: **Part010 Pass2B — independent historical-glyph / lexical / word-boundary / punctuation-sensitive fidelity review of scans271–300**.
+
+Do not begin Pass3 in the same activity. Keep **300→301 PENDING direct audit** unless exact Part011 scan301 is directly checked.
