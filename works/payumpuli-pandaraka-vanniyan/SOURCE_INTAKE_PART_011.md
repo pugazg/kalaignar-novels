@@ -53,10 +53,34 @@ Part010 is FINAL CLOSED / FROZEN. Part011 is **ACTIVE / PASS1 AUTHORIZED** after
 - Part011 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
 - Part011 canonical records — **0**
 - incoming boundary — **300→301 GENUINE CONTINUATION / AUDITED / PASS**
-- current Pass1 batch — **global scans301–310 / local pages1–10**
+- Pass1 Batch1 — **global scans301–310 / local pages1–10 — COMPLETE / TEXT-COMPLETE**
+- canonical records — **10/30**
+- Pass1 pending — **20/30 — scans311–330**
+- exact next batch — **global scans311–320 / local pages11–20**
 - outgoing **330→331 — PENDING direct audit**
 - Part011 Pass2A — **BLOCKED UNTIL FULL-PART PASS1 COMPLETE**
 
 
 Durable boundary record:
 - `PART_011_BOUNDARY_AUDIT_300_301.md`
+
+
+## Pass1 Batch1 checkpoint
+
+**PART011 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- canonical records — **10/30 — scans301–310**
+- printed pages — **293–302**
+- chapter47 continuation/close — **scans301–303**
+- chapter48 `முத்திரை கிழிந்தது!` — **scans304–310 / closes scan310**
+- scan305→306 split word — **`பழக்க` + `மான`**
+- scan310 intentional blank lower field — **preserved**
+- unresolved Pass1 source-reading holds — **0**
+- completed records — **needs-review / needs-review**
+- outgoing **330→331 — PENDING direct audit**
+- Pass2A — **BLOCKED UNTIL 30/30 PASS1 COMPLETE**
+
+Durable progress:
+- `PART_011_PASS1_PROGRESS.md`
+
+Exact next activity: **Part011 Pass1 scans311–320 / local pages11–20**.
