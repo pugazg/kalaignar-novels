@@ -478,3 +478,31 @@ Part010 Tamil archival-ready remains **PASS / CLOSED**.
 Exact next activity: **Part010 English translation planning/setup**.
 
 Use verified Part010 canonical Tamil plus the closed **6/6** assembled Tamil reading layer. Create planning/glossary/progress controls only; perform a live English batch-number collision check before reserving the sequence; do not draft English prose in the setup gate.
+
+
+## Part010 final closure / Part011 frontier
+
+**PART010 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–010 — **FINAL CLOSED / FROZEN**
+- Part010 canonical Tamil — **30/30 verified / frozen**
+- Part010 visual fidelity — **30/30 verified / frozen**
+- Part010 assembled Tamil — **6/6 VERIFIED / frozen**
+- Part010 E52–E57 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved Part010 Tamil / English / release blockers — **0**
+- incoming 270→271 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 300→301 — **PENDING direct audit**
+- Part011 source — **SUPPLIED / REGISTERED**
+- Part011 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part011 canonical records — **0**
+- Part011 outgoing 330→331 — **PENDING direct audit**
+
+Durable final record:
+- `works/payumpuli-pandaraka-vanniyan/PART_010_FINAL_CLOSURE.md`
+
+Exact next activity: directly audit **300→301**; if usable, begin **Part011 Pass1 scans301–310 / local pages1–10**. Do not reopen frozen Parts001–010 merely to advance Part011.
