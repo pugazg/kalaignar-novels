@@ -64,3 +64,16 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 batch s
 - `visual_fidelity` remains **needs-review** pending the later visual gate;
 - outgoing **300→301** remains **PENDING direct audit**; no Part011 wording was imported;
 - Pass 2B historical-glyph / word-boundary review remains the next gate.
+
+
+## Formal Part010 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed directly against rendered Part010 source pixels;
+- source-specific spellings, compounds, joins, spacing, punctuation, quotation boundaries and irregular forms were preserved without modernization;
+- Pass 2B source-text / lexical / spacing / punctuation corrections: **0**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass 3.
+- outgoing **300→301** remains **PENDING direct audit**; no Part011 wording was imported.
