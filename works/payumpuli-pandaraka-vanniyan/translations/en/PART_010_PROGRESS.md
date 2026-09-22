@@ -9,8 +9,8 @@ Parts001–Part009 English are **FINAL CLOSED / FROZEN**.
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
 | **E52** | section55 — chapter42 continuation/close `மறைந்த மாயம் என்னவோ?` | 271–272 | **SOURCE-CHECKED / COMPLETE** |
-| **E53** | section56 — `சந்திரிகாவின் சூழ்ச்சி!` | 273–278 | **NOT STARTED / NEXT** |
-| **E54** | section57 — `இன்றா, நாளையா? ஏன்?` | 279–285 | **NOT STARTED** |
+| **E53** | section56 — `சந்திரிகாவின் சூழ்ச்சி!` | 273–278 | **SOURCE-CHECKED / COMPLETE** |
+| **E54** | section57 — `இன்றா, நாளையா? ஏன்?` | 279–285 | **NOT STARTED / NEXT** |
 | **E55** | section58 — `தேவை நூறு வீரர்கள்!` | 286–291 | **NOT STARTED** |
 | **E56** | section59 — `எல்லாம் நன்மைக்கே!` | 292–297 | **NOT STARTED** |
 | **E57** | section60 — `தலையாழி மாற்றிக் கொண்டனர்` | 298–300 | **NOT STARTED** |
@@ -28,8 +28,8 @@ Parts001–Part009 English are **FINAL CLOSED / FROZEN**.
 - Tamil assembled files — **6/6 VERIFIED / CLOSED**
 - Part010 English planned batches — **E52–E57 / 6**
 - Part010 English planned files — **6**
-- Part010 English translated files — **1/6**
-- Part010 English source-checked files — **1/6**
+- Part010 English translated files — **2/6**
+- Part010 English source-checked files — **2/6**
 - unresolved English planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -111,9 +111,9 @@ No Part010 English literary prose is drafted in this planning gate.
 
 ## Exact next activity
 
-**E53 draft + source-check — section56 / scans273–278.**
+**E54 draft + source-check — section57 / scans279–285.**
 
-Do not begin E54 until E53 is **SOURCE-CHECKED / COMPLETE**.
+Scan281 is illustration-only and must remain non-rendering provenance. Do not begin E55 until E54 is **SOURCE-CHECKED / COMPLETE**.
 
 
 ## E52 closure checkpoint
@@ -136,3 +136,25 @@ Do not begin E54 until E53 is **SOURCE-CHECKED / COMPLETE**.
 Exact next batch: **E53 draft + source-check — section56 / scans273–278 — `சந்திரிகாவின் சூழ்ச்சி!`**.
 
 Do not begin E54 until E53 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## E53 closure checkpoint
+
+**E53 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil authority — section56 / scans273–278
+- maintained English file — `sections/56-chandrikas-scheme.md`
+- source-check record — `E53_SOURCE_CHECK.md`
+- chapter title — `சந்திரிகாவின் சூழ்ச்சி!` → **Chandrika's Scheme!**
+- source-era sexual / political / violent language — **translated as source-attributed content**
+- scan278 intentional blank lower field — **no invented English body**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part009 English body edits — **0**
+- Part011 leakage — **0**
+- unresolved E53 holds — **0**
+- translated / source-checked Part010 files — **2/6 / 2/6**
+
+Exact next batch: **E54 draft + source-check — section57 / scans279–285 — `இன்றா, நாளையா? ஏன்?`**.
+
+Scan281 is illustration-only and must remain provenance-only. Do not begin E55 until E54 is **SOURCE-CHECKED / COMPLETE**.
