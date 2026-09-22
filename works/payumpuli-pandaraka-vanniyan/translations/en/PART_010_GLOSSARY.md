@@ -155,3 +155,22 @@ This glossary becomes a source-check control, not an authority over Tamil.
 ## Exact next gate
 
 **E52 draft + source-check — section55 / scans271–272.**
+
+
+## E52 source-check additions
+
+Source-checked handling established for section55 / scans271–272:
+
+| Tamil source | English handling | Source-check note |
+|---|---|---|
+| `மரகதம்` | **Maragatham** | verified scan271 occurrence retained exactly as a source-facing name/form; do not silently substitute Marthani |
+| `குறத்தி` | **Kurathi** | source-facing label retained; no external ethnographic explanation |
+| `குறி சொல்லும் குறத்தி` | **Kurathi fortune-teller** | immediate source function only |
+| `வைராக்கியம்` | **resolve** | immediate dramatic sense in E52; no external religious/philosophical gloss |
+| `வலை போட்டுத் தேடி` | **cast a net ... and search** | source metaphor preserved |
+
+E52 chapter title remains inherited **What Mystery Was Hidden?**
+
+E52 unresolved terminology holds — **0**.
+
+These E52 decisions remain subject to the later Part010 whole-Part glossary reconciliation; they do not authorize any Tamil normalization.
