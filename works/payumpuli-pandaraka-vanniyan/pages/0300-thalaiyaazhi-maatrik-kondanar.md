@@ -77,3 +77,16 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 batch s
 - textual `status` remains **verified**;
 - `visual_fidelity` remains **needs-review** pending Pass 3.
 - outgoing **300→301** remains **PENDING direct audit**; no Part011 wording was imported.
+
+
+## Formal Part010 Pass 3 review
+
+- direct full-page visual / structural verification completed against the rendered Part010 source image;
+- structural classification confirmed: body continuation; printed292; Part010 ends with open quotation/question into Part011;
+- heading hierarchy, paragraph/dialogue blocks, printed pagination, recurring page furniture/borders and physical page-boundary state were checked;
+- Pass3 textual corrections: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Part audit and final metadata/status synchronization.
+- outgoing **300→301** remains **PENDING direct audit**; no Part011 wording was imported.
