@@ -44,7 +44,7 @@ The canonical `scan_page` remains the overall scan number **271–300**.
 
 Part 010 source split: **SUPPLIED / REGISTERED**.
 
-Lifecycle state: **ACTIVE — PASS2B COMPLETE / PASS; PASS3 NEXT**.
+Lifecycle state: **ACTIVE — PASS3 COMPLETE / PASS; PART AUDIT NEXT**.
 
 Part010 canonical page records: **30/30 — scans271–300 / local pages1–30**.
 
@@ -390,3 +390,33 @@ Durable Pass2B record:
 Exact next activity: **Part010 Pass3 — direct full-page visual / structural verification of scans271–300**.
 
 Do not begin Part audit in the same activity.
+
+
+## Part010 Pass3 closure checkpoint
+
+**PART010 PASS 3 — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 7 corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 4 corrections**
+- Pass3 — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- chapter openings — **273, 279, 286, 292, 298**
+- intentional blank lower fields — **278, 285, 297**
+- scan281 — **full-page illustration / printed_page null**
+- printed folios — **263–272, 274–292**
+- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **300→301 — PENDING direct audit**
+- frozen Parts001–009 body mutations — **0**
+- Part011 wording leakage — **0**
+- Part audit — **NOT STARTED / NEXT GATE**
+
+Durable Pass3 record:
+- `PART_010_PASS3_PROGRESS.md`
+
+Exact next activity: **Part010 Part audit**.
+
+Do not perform final metadata/status synchronization in the same activity.
