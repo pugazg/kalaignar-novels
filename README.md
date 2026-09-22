@@ -1347,3 +1347,28 @@ Do not begin E53 until E52 is **SOURCE-CHECKED / COMPLETE**.
 Exact next gate: **E53 draft + source-check — section56 / scans273–278 — `சந்திரிகாவின் சூழ்ச்சி!`**.
 
 Do not begin E54 until E53 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Part010 English E53 checkpoint
+
+**E53 — SOURCE-CHECKED / COMPLETE.**
+
+- Part010 English batches — **E52–E57 / 6**
+- E52 — section55 / scans271–272 — **SOURCE-CHECKED / COMPLETE**
+- E53 — section56 / scans273–278 — **SOURCE-CHECKED / COMPLETE**
+- maintained English file — `translations/en/sections/56-chandrikas-scheme.md`
+- durable source check — `translations/en/E53_SOURCE_CHECK.md`
+- translated / source-checked Part010 files — **2/6 / 2/6**
+- E54–E57 — **NOT STARTED**
+- chapter title — **Chandrika's Scheme!**
+- scan278 intentional blank lower field — **preserved with no invented English body**
+- source-attributed political / violent / sexual content discipline — **PASS**
+- frozen Part001–Part009 English body edits — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- unresolved E53 holds — **0**
+- outgoing **300→301 — PENDING direct audit / unchanged**
+- Part011 leakage — **0**
+
+Exact next gate: **E54 draft + source-check — section57 / scans279–285 — `இன்றா, நாளையா? ஏன்?`**.
+
+Scan281 is illustration-only and must remain provenance-only with no invented English caption/body. Do not begin E55 until E54 is **SOURCE-CHECKED / COMPLETE**.
