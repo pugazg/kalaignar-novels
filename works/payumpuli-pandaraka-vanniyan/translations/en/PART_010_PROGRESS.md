@@ -14,10 +14,10 @@ Parts001–Part009 English are **FINAL CLOSED / FROZEN**.
 | **E55** | section58 — `தேவை நூறு வீரர்கள்!` | 286–291 | **SOURCE-CHECKED / COMPLETE** |
 | **E56** | section59 — `எல்லாம் நன்மைக்கே!` | 292–297 | **SOURCE-CHECKED / COMPLETE** |
 | **E57** | section60 — `தலையாழி மாற்றிக் கொண்டனர்` | 298–300 | **SOURCE-CHECKED / COMPLETE** |
-| Glossary reconciliation | Part010 whole-Part reconciliation | 271–300 | **NOT STARTED / NEXT** |
-| Editorial | Part010 whole-Part English editorial review | 271–300 | **BLOCKED** |
-| Bilingual | Part010 whole-Part bilingual review | 271–300 | **BLOCKED** |
-| Release | Part010 release/readiness | 271–300 | **BLOCKED** |
+| Glossary reconciliation | Part010 whole-Part reconciliation | 271–300 | **RECONCILED / PASS** |
+| Editorial | Part010 whole-Part English editorial review | 271–300 | **PASS / CLOSED** |
+| Bilingual | Part010 whole-Part bilingual review | 271–300 | **PASS / CLOSED** |
+| Release | Part010 release/readiness | 271–300 | **NOT STARTED / NEXT** |
 | Final closure | Part010 final closure | 271–300 | **BLOCKED** |
 
 ## Current counts
@@ -247,3 +247,20 @@ Keep `தலையாழி` source-facing as **Thalaiyaazhi** unless Part010 it
 - translated / source-checked Part010 files — **6/6 / 6/6**
 
 Exact next gate: **Part010 whole-Part glossary reconciliation across E52–E57**.
+
+
+## Whole-Part review checkpoint
+
+Part010 English whole-Part review chain is now complete through bilingual review:
+
+- E52–E57 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS — 0 body corrections**
+- English editorial review — **PASS / CLOSED — 0 additional body corrections**
+- bilingual review — **PASS / CLOSED — 0 bilingual corrections**
+- unresolved glossary / editorial / bilingual / Tamil-fidelity holds — **0 / 0 / 0 / 0**
+- canonical / assembled Tamil edits caused by English review — **0 / 0**
+- frozen Parts001–Part009 English body edits — **0**
+- Part011 leakage — **0**
+- outgoing 300→301 — **PENDING direct audit**
+
+Exact next gate: **Part010 release/readiness review**.
