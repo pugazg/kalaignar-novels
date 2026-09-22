@@ -8,8 +8,8 @@ Parts001–Part009 English are **FINAL CLOSED / FROZEN**.
 
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
-| **E52** | section55 — chapter42 continuation/close `மறைந்த மாயம் என்னவோ?` | 271–272 | **NOT STARTED / NEXT** |
-| **E53** | section56 — `சந்திரிகாவின் சூழ்ச்சி!` | 273–278 | **NOT STARTED** |
+| **E52** | section55 — chapter42 continuation/close `மறைந்த மாயம் என்னவோ?` | 271–272 | **SOURCE-CHECKED / COMPLETE** |
+| **E53** | section56 — `சந்திரிகாவின் சூழ்ச்சி!` | 273–278 | **NOT STARTED / NEXT** |
 | **E54** | section57 — `இன்றா, நாளையா? ஏன்?` | 279–285 | **NOT STARTED** |
 | **E55** | section58 — `தேவை நூறு வீரர்கள்!` | 286–291 | **NOT STARTED** |
 | **E56** | section59 — `எல்லாம் நன்மைக்கே!` | 292–297 | **NOT STARTED** |
@@ -28,8 +28,8 @@ Parts001–Part009 English are **FINAL CLOSED / FROZEN**.
 - Tamil assembled files — **6/6 VERIFIED / CLOSED**
 - Part010 English planned batches — **E52–E57 / 6**
 - Part010 English planned files — **6**
-- Part010 English translated files — **0/6**
-- Part010 English source-checked files — **0/6**
+- Part010 English translated files — **1/6**
+- Part010 English source-checked files — **1/6**
 - unresolved English planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -111,6 +111,28 @@ No Part010 English literary prose is drafted in this planning gate.
 
 ## Exact next activity
 
-**E52 draft + source-check — section55 / scans271–272.**
+**E53 draft + source-check — section56 / scans273–278.**
 
-Do not begin E53 until E52 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin E54 until E53 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## E52 closure checkpoint
+
+**E52 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil authority — section55 / scans271–272
+- maintained English file — `sections/55-what-mystery-was-hidden-part010.md`
+- source-check record — `E52_SOURCE_CHECK.md`
+- incoming 270→271 — **GENUINE CONTINUATION / AUDITED / PASS**
+- frozen E51 / Part009 English body edits — **0**
+- source-visible `மரகதம்` — **Maragatham / retained without normalization**
+- `குறத்தி` handling — **Kurathi**; `குறி சொல்லும் குறத்தி` → **Kurathi fortune-teller**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part011 leakage — **0**
+- unresolved E52 holds — **0**
+- translated / source-checked Part010 files — **1/6 / 1/6**
+
+Exact next batch: **E53 draft + source-check — section56 / scans273–278 — `சந்திரிகாவின் சூழ்ச்சி!`**.
+
+Do not begin E54 until E53 is **SOURCE-CHECKED / COMPLETE**.
