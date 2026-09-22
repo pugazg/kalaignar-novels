@@ -276,36 +276,36 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 009 | 28 | 268 | 260 | `மறைந்த மாயம் என்னவோ?` continuation; ends split word `தொழு` | verified | `pages/0268-maraindha-maayam-ennavo.md` |
 | 009 | 29 | 269 | 261 | `மறைந்த மாயம் என்னவோ?` continuation; resumes `திடும்`; ends `கதவின்` | verified | `pages/0269-maraindha-maayam-ennavo.md` |
 | 009 | 30 | 270 | 262 | `மறைந்த மாயம் என்னவோ?` continuation; Part009 ends mid-sentence | verified | `pages/0270-maraindha-maayam-ennavo.md` |
-| 010 | 1 | 271 | 263 | `மறைந்த மாயம் என்னவோ?` continuation; incoming 270→271 genuine continuation audited | needs-review | `pages/0271-maraindha-maayam-ennavo.md` |
-| 010 | 2 | 272 | 264 | `மறைந்த மாயம் என்னவோ?` continuation / close | needs-review | `pages/0272-maraindha-maayam-ennavo.md` |
-| 010 | 3 | 273 | 265 | chapter43 opening `சந்திரிகாவின் சூழ்ச்சி!`; displayed number 43 | needs-review | `pages/0273-chandirikavin-soozhchi.md` |
-| 010 | 4 | 274 | 266 | `சந்திரிகாவின் சூழ்ச்சி!` continuation | needs-review | `pages/0274-chandirikavin-soozhchi.md` |
-| 010 | 5 | 275 | 267 | `சந்திரிகாவின் சூழ்ச்சி!` continuation | needs-review | `pages/0275-chandirikavin-soozhchi.md` |
-| 010 | 6 | 276 | 268 | `சந்திரிகாவின் சூழ்ச்சி!` continuation; ends open dialogue | needs-review | `pages/0276-chandirikavin-soozhchi.md` |
-| 010 | 7 | 277 | 269 | `சந்திரிகாவின் சூழ்ச்சி!` continuation; resumes scan276 dialogue | needs-review | `pages/0277-chandirikavin-soozhchi.md` |
-| 010 | 8 | 278 | 270 | `சந்திரிகாவின் சூழ்ச்சி!` close; substantial intentional blank lower field | needs-review | `pages/0278-chandirikavin-soozhchi.md` |
-| 010 | 9 | 279 | 271 | chapter44 opening `இன்றா, நாளையா? ஏன்?`; displayed number 44; ends mid-dialogue | needs-review | `pages/0279-indra-naalaiyaa-yen.md` |
-| 010 | 10 | 280 | 272 | `இன்றா, நாளையா? ஏன்?` continuation; resumes scan279 dialogue; continues beyond batch | needs-review | `pages/0280-indra-naalaiyaa-yen.md` |
-| 010 | 11 | 281 | — | full-page colour narrative illustration; no printed Tamil body / no visible folio | needs-review | `pages/0281-indra-naalaiyaa-yen.md` |
-| 010 | 12 | 282 | 274 | `இன்றா, நாளையா? ஏன்?` continuation; ends `உடும்புப்பிடியாக` | needs-review | `pages/0282-indra-naalaiyaa-yen.md` |
-| 010 | 13 | 283 | 275 | `இன்றா, நாளையா? ஏன்?` continuation; resumes scan282 sentence | needs-review | `pages/0283-indra-naalaiyaa-yen.md` |
-| 010 | 14 | 284 | 276 | `இன்றா, நாளையா? ஏன்?` continuation; ends `வந்து` | needs-review | `pages/0284-indra-naalaiyaa-yen.md` |
-| 010 | 15 | 285 | 277 | `இன்றா, நாளையா? ஏன்?` continuation / close; substantial intentional blank lower field | needs-review | `pages/0285-indra-naalaiyaa-yen.md` |
-| 010 | 16 | 286 | 278 | chapter45 opening `தேவை நூறு வீரர்கள்!`; displayed number 45; ends `இடமிருப்பதாக` | needs-review | `pages/0286-thevai-nooru-veerargal.md` |
-| 010 | 17 | 287 | 279 | `தேவை நூறு வீரர்கள்!` continuation; resumes scan286; ends `அவர்கள்` | needs-review | `pages/0287-thevai-nooru-veerargal.md` |
-| 010 | 18 | 288 | 280 | `தேவை நூறு வீரர்கள்!` continuation; resumes scan287; ends `அவளது` | needs-review | `pages/0288-thevai-nooru-veerargal.md` |
-| 010 | 19 | 289 | 281 | `தேவை நூறு வீரர்கள்!` continuation; resumes scan288 | needs-review | `pages/0289-thevai-nooru-veerargal.md` |
-| 010 | 20 | 290 | 282 | `தேவை நூறு வீரர்கள்!` continuation; chapter continues beyond batch | needs-review | `pages/0290-thevai-nooru-veerargal.md` |
-| 010 | 21 | 291 | 283 | `தேவை நூறு வீரர்கள்!` continuation / close | needs-review | `pages/0291-thevai-nooru-veerargal.md` |
-| 010 | 22 | 292 | 284 | chapter46 opening `எல்லாம் நன்மைக்கே!`; displayed number 46; ends `கைது செய்து` | needs-review | `pages/0292-ellam-nanmaikke.md` |
-| 010 | 23 | 293 | 285 | `எல்லாம் நன்மைக்கே!` continuation; resumes scan292 sentence; devotional verse | needs-review | `pages/0293-ellam-nanmaikke.md` |
-| 010 | 24 | 294 | 286 | `எல்லாம் நன்மைக்கே!` continuation | needs-review | `pages/0294-ellam-nanmaikke.md` |
-| 010 | 25 | 295 | 287 | `எல்லாம் நன்மைக்கே!` continuation | needs-review | `pages/0295-ellam-nanmaikke.md` |
-| 010 | 26 | 296 | 288 | `எல்லாம் நன்மைக்கே!` continuation | needs-review | `pages/0296-ellam-nanmaikke.md` |
-| 010 | 27 | 297 | 289 | `எல்லாம் நன்மைக்கே!` close; substantial intentional blank lower field | needs-review | `pages/0297-ellam-nanmaikke.md` |
-| 010 | 28 | 298 | 290 | chapter47 opening `தலையாழி மாற்றிக் கொண்டனர்`; displayed number 47 | needs-review | `pages/0298-thalaiyaazhi-maatrik-kondanar.md` |
-| 010 | 29 | 299 | 291 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; ends `காக்கை வன்னியனின்` | needs-review | `pages/0299-thalaiyaazhi-maatrik-kondanar.md` |
-| 010 | 30 | 300 | 292 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; Part010 ends with open quotation/question; 300→301 pending | needs-review | `pages/0300-thalaiyaazhi-maatrik-kondanar.md` |
+| 010 | 1 | 271 | 263 | `மறைந்த மாயம் என்னவோ?` continuation; incoming 270→271 genuine continuation audited | verified | `pages/0271-maraindha-maayam-ennavo.md` |
+| 010 | 2 | 272 | 264 | `மறைந்த மாயம் என்னவோ?` continuation / close | verified | `pages/0272-maraindha-maayam-ennavo.md` |
+| 010 | 3 | 273 | 265 | chapter43 opening `சந்திரிகாவின் சூழ்ச்சி!`; displayed number 43 | verified | `pages/0273-chandirikavin-soozhchi.md` |
+| 010 | 4 | 274 | 266 | `சந்திரிகாவின் சூழ்ச்சி!` continuation | verified | `pages/0274-chandirikavin-soozhchi.md` |
+| 010 | 5 | 275 | 267 | `சந்திரிகாவின் சூழ்ச்சி!` continuation | verified | `pages/0275-chandirikavin-soozhchi.md` |
+| 010 | 6 | 276 | 268 | `சந்திரிகாவின் சூழ்ச்சி!` continuation; ends open dialogue | verified | `pages/0276-chandirikavin-soozhchi.md` |
+| 010 | 7 | 277 | 269 | `சந்திரிகாவின் சூழ்ச்சி!` continuation; resumes scan276 dialogue | verified | `pages/0277-chandirikavin-soozhchi.md` |
+| 010 | 8 | 278 | 270 | `சந்திரிகாவின் சூழ்ச்சி!` close; substantial intentional blank lower field | verified | `pages/0278-chandirikavin-soozhchi.md` |
+| 010 | 9 | 279 | 271 | chapter44 opening `இன்றா, நாளையா? ஏன்?`; displayed number 44; ends mid-dialogue | verified | `pages/0279-indra-naalaiyaa-yen.md` |
+| 010 | 10 | 280 | 272 | `இன்றா, நாளையா? ஏன்?` continuation; resumes scan279 dialogue; continues beyond batch | verified | `pages/0280-indra-naalaiyaa-yen.md` |
+| 010 | 11 | 281 | — | full-page colour narrative illustration; no printed Tamil body / no visible folio | verified | `pages/0281-indra-naalaiyaa-yen.md` |
+| 010 | 12 | 282 | 274 | `இன்றா, நாளையா? ஏன்?` continuation; ends `உடும்புப்பிடியாக` | verified | `pages/0282-indra-naalaiyaa-yen.md` |
+| 010 | 13 | 283 | 275 | `இன்றா, நாளையா? ஏன்?` continuation; resumes scan282 sentence | verified | `pages/0283-indra-naalaiyaa-yen.md` |
+| 010 | 14 | 284 | 276 | `இன்றா, நாளையா? ஏன்?` continuation; ends `வந்து` | verified | `pages/0284-indra-naalaiyaa-yen.md` |
+| 010 | 15 | 285 | 277 | `இன்றா, நாளையா? ஏன்?` continuation / close; substantial intentional blank lower field | verified | `pages/0285-indra-naalaiyaa-yen.md` |
+| 010 | 16 | 286 | 278 | chapter45 opening `தேவை நூறு வீரர்கள்!`; displayed number 45; ends `இடமிருப்பதாக` | verified | `pages/0286-thevai-nooru-veerargal.md` |
+| 010 | 17 | 287 | 279 | `தேவை நூறு வீரர்கள்!` continuation; resumes scan286; ends `அவர்கள்` | verified | `pages/0287-thevai-nooru-veerargal.md` |
+| 010 | 18 | 288 | 280 | `தேவை நூறு வீரர்கள்!` continuation; resumes scan287; ends `அவளது` | verified | `pages/0288-thevai-nooru-veerargal.md` |
+| 010 | 19 | 289 | 281 | `தேவை நூறு வீரர்கள்!` continuation; resumes scan288 | verified | `pages/0289-thevai-nooru-veerargal.md` |
+| 010 | 20 | 290 | 282 | `தேவை நூறு வீரர்கள்!` continuation; chapter continues beyond batch | verified | `pages/0290-thevai-nooru-veerargal.md` |
+| 010 | 21 | 291 | 283 | `தேவை நூறு வீரர்கள்!` continuation / close | verified | `pages/0291-thevai-nooru-veerargal.md` |
+| 010 | 22 | 292 | 284 | chapter46 opening `எல்லாம் நன்மைக்கே!`; displayed number 46; ends `கைது செய்து` | verified | `pages/0292-ellam-nanmaikke.md` |
+| 010 | 23 | 293 | 285 | `எல்லாம் நன்மைக்கே!` continuation; resumes scan292 sentence; devotional verse | verified | `pages/0293-ellam-nanmaikke.md` |
+| 010 | 24 | 294 | 286 | `எல்லாம் நன்மைக்கே!` continuation | verified | `pages/0294-ellam-nanmaikke.md` |
+| 010 | 25 | 295 | 287 | `எல்லாம் நன்மைக்கே!` continuation | verified | `pages/0295-ellam-nanmaikke.md` |
+| 010 | 26 | 296 | 288 | `எல்லாம் நன்மைக்கே!` continuation | verified | `pages/0296-ellam-nanmaikke.md` |
+| 010 | 27 | 297 | 289 | `எல்லாம் நன்மைக்கே!` close; substantial intentional blank lower field | verified | `pages/0297-ellam-nanmaikke.md` |
+| 010 | 28 | 298 | 290 | chapter47 opening `தலையாழி மாற்றிக் கொண்டனர்`; displayed number 47 | verified | `pages/0298-thalaiyaazhi-maatrik-kondanar.md` |
+| 010 | 29 | 299 | 291 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; ends `காக்கை வன்னியனின்` | verified | `pages/0299-thalaiyaazhi-maatrik-kondanar.md` |
+| 010 | 30 | 300 | 292 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; Part010 ends with open quotation/question; 300→301 pending | verified | `pages/0300-thalaiyaazhi-maatrik-kondanar.md` |
 | 011 | 1 | 301 | — | unclassified — direct visual audit pending | not-started | — |
 | 011 | 2 | 302 | — | unclassified — direct visual audit pending | not-started | — |
 | 011 | 3 | 303 | — | unclassified — direct visual audit pending | not-started | — |
