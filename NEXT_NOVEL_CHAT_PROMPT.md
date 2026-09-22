@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part010 Tamil archival-ready checkpoint
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part010 English translation planning/setup
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,34 +6,47 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 Parts **001–009 are FINAL CLOSED / FROZEN**.
 
-## Part010 closed Tamil verification state
+## Part010 Tamil closure state
 
-- scans — **271–300 / 30**
-- Pass1 — **COMPLETE / PASS**
-- Pass2A — **COMPLETE / PASS — 7 corrections**
-- Pass2B — **COMPLETE / PASS — 4 corrections**
-- Pass2B historical-glyph corrections — **0**
-- Pass3 — **COMPLETE / PASS — 0 textual corrections**
+- canonical scans — **271–300 / 30**
+- canonical Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
 - documentation synchronization — **PASS / COMPLETE**
-- canonical Tamil textual status — **30/30 verified**
-- visual fidelity — **30/30 verified**
-- page-map Part010 rows — **30/30 verified**
-- unresolved Tamil / lexical / glyph / visual / structural / documentation blockers — **0**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- assembled canonical coverage — **30/30**
+- unresolved Tamil / assembly blockers — **0**
 - incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **300→301 — PENDING direct audit**
-- audited multipart boundaries — **9 / 15**
+
+Durable assembled validation:
+- `PART_010_ASSEMBLED_TAMIL_VALIDATION.md`
+
+## Maintained Part010 assembled Tamil
+
+1. `sections/55-maraindha-maayam-ennavo-part010.md` — scans271–272 — chapter42 continuation / close
+2. `sections/56-chandirikavin-soozhchi.md` — scans273–278
+3. `sections/57-indra-naalaiyaa-yen.md` — scans279–285; scan281 illustration-only provenance
+4. `sections/58-thevai-nooru-veerargal.md` — scans286–291
+5. `sections/59-ellam-nanmaikke.md` — scans292–297
+6. `sections/60-thalaiyaazhi-maatrik-kondanar.md` — scans298–300; terminal Part continuation
 
 ## Exact next activity
 
-Perform **Part010 Tamil archival-ready checkpoint**.
+Perform **Part010 English translation planning/setup only**.
 
-Verify the complete Part010 Tamil verification chain and close the archival-ready gate without changing canonical Tamil/body text, page statuses, pagination, structure, provenance or boundary classifications.
+1. Inspect the live maintained English translation directory and source-check controls.
+2. Perform a live English batch-number collision check.
+3. Determine the next contiguous six-batch range for Part010 without assuming numbering from memory.
+4. Create Part010 English planning, glossary and progress controls using the closed canonical/assembled Tamil authority.
+5. Map the six planned English units to section orders **55–60** and scans **271–300**.
+6. Preserve scan281 as illustration-only provenance; do not invent English body/caption.
+7. Preserve incoming 270→271 as an audited continuation without modifying frozen Part009 English.
+8. Keep outgoing **300→301 PENDING direct audit** and do not import Part011 text to complete chapter47.
+9. Do **not** draft English literary prose in the planning/setup gate.
+10. Do not modify canonical or assembled Tamil.
 
-Create:
-- `PART_010_TAMIL_ARCHIVAL_READY.md`
-
-After the checkpoint closes, exact next activity is **Part010 assembled Tamil construction + audit**.
-
-Do not begin English translation/review before assembled Tamil closes.
+Stop after English planning/setup closes and the first source-check batch is identified.
