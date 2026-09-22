@@ -239,3 +239,25 @@ Active Part010 English controls:
 Exact next gate: **E52 draft + source-check — section55 / scans271–272**.
 
 Do not begin E53 until E52 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Part010 English E52 checkpoint
+
+**E52 — SOURCE-CHECKED / COMPLETE.**
+
+- Part010 English batches — **E52–E57 / 6**
+- E52 — section55 / scans271–272 — **SOURCE-CHECKED / COMPLETE**
+- maintained English file — `translations/en/sections/55-what-mystery-was-hidden-part010.md`
+- durable source check — `translations/en/E52_SOURCE_CHECK.md`
+- translated / source-checked Part010 files — **1/6 / 1/6**
+- E53–E57 — **NOT STARTED**
+- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
+- frozen Part009 English body edits — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- unresolved E52 holds — **0**
+- outgoing **300→301 — PENDING direct audit / unchanged**
+- Part011 leakage — **0**
+
+Exact next gate: **E53 draft + source-check — section56 / scans273–278 — `சந்திரிகாவின் சூழ்ச்சி!`**.
+
+Do not begin E54 until E53 is **SOURCE-CHECKED / COMPLETE**.
