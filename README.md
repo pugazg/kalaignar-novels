@@ -1455,3 +1455,26 @@ Do not begin E57 until E56 is **SOURCE-CHECKED / COMPLETE**.
 Exact next gate: **E57 draft + source-check — section60 / scans298–300 — `தலையாழி மாற்றிக் கொண்டனர்`**.
 
 Keep `தலையாழி` source-facing as **Thalaiyaazhi** unless Part010 itself establishes a safer rendering. Stop at scan300; do not import Part011.
+
+
+## Part010 release/readiness checkpoint
+
+**PART010 RELEASE/READINESS — PASS / CLOSED.**
+
+- Part010 canonical Tamil — **30/30 verified**
+- Part010 visual fidelity — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- E52–E57 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- unresolved Tamil / English / release blockers — **0**
+- incoming 270→271 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 300→301 — **PENDING direct audit**
+- Part011 body/canonical leakage — **0**
+
+Durable release report:
+- `works/payumpuli-pandaraka-vanniyan/translations/en/PART_010_RELEASE_REPORT.md`
+
+Exact next gate: **Part010 release-ready synchronization**.
