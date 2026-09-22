@@ -13,8 +13,8 @@ Parts001–Part009 English are **FINAL CLOSED / FROZEN**.
 | **E54** | section57 — `இன்றா, நாளையா? ஏன்?` | 279–285 | **SOURCE-CHECKED / COMPLETE** |
 | **E55** | section58 — `தேவை நூறு வீரர்கள்!` | 286–291 | **SOURCE-CHECKED / COMPLETE** |
 | **E56** | section59 — `எல்லாம் நன்மைக்கே!` | 292–297 | **SOURCE-CHECKED / COMPLETE** |
-| **E57** | section60 — `தலையாழி மாற்றிக் கொண்டனர்` | 298–300 | **NOT STARTED / NEXT** |
-| Glossary reconciliation | Part010 whole-Part reconciliation | 271–300 | **BLOCKED UNTIL E52–E57 CLOSE** |
+| **E57** | section60 — `தலையாழி மாற்றிக் கொண்டனர்` | 298–300 | **SOURCE-CHECKED / COMPLETE** |
+| Glossary reconciliation | Part010 whole-Part reconciliation | 271–300 | **NOT STARTED / NEXT** |
 | Editorial | Part010 whole-Part English editorial review | 271–300 | **BLOCKED** |
 | Bilingual | Part010 whole-Part bilingual review | 271–300 | **BLOCKED** |
 | Release | Part010 release/readiness | 271–300 | **BLOCKED** |
@@ -28,8 +28,8 @@ Parts001–Part009 English are **FINAL CLOSED / FROZEN**.
 - Tamil assembled files — **6/6 VERIFIED / CLOSED**
 - Part010 English planned batches — **E52–E57 / 6**
 - Part010 English planned files — **6**
-- Part010 English translated files — **5/6**
-- Part010 English source-checked files — **5/6**
+- Part010 English translated files — **6/6**
+- Part010 English source-checked files — **6/6**
 - unresolved English planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -111,9 +111,9 @@ No Part010 English literary prose is drafted in this planning gate.
 
 ## Exact next activity
 
-**E57 draft + source-check — section60 / scans298–300.**
+**Part010 whole-Part glossary reconciliation across E52–E57.**
 
-Keep `தலையாழி` source-facing as **Thalaiyaazhi** unless Part010 itself supports a safer rendering. Keep 300→301 **PENDING direct audit** and do not import Part011 text.
+Do not begin editorial review until glossary reconciliation closes.
 
 
 ## E52 closure checkpoint
@@ -225,3 +225,25 @@ Do not begin E57 until E56 is **SOURCE-CHECKED / COMPLETE**.
 Exact next batch: **E57 draft + source-check — section60 / scans298–300 — `தலையாழி மாற்றிக் கொண்டனர்`**.
 
 Keep `தலையாழி` source-facing as **Thalaiyaazhi** unless Part010 itself supports a safer rendering. Keep **300→301 PENDING direct audit**; do not import Part011 text.
+
+
+## E57 closure checkpoint
+
+**E57 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil authority — section60 / scans298–300
+- maintained English file — `sections/60-they-exchanged-the-thalaiyaazhi.md`
+- source-check record — `E57_SOURCE_CHECK.md`
+- chapter title — `தலையாழி மாற்றிக் கொண்டனர்` → **They Exchanged the Thalaiyaazhi**
+- `தலையாழி` — **Thalaiyaazhi / source-facing**
+- scan298/299/300 `காப்புக் கிரகம்` family distinctions — **protected**
+- scan300 open terminal quotation/question — **preserved**
+- outgoing 300→301 — **PENDING direct audit**
+- Part011 completion imported/inferred — **0**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part009 English body edits — **0**
+- unresolved E57 holds — **0**
+- translated / source-checked Part010 files — **6/6 / 6/6**
+
+Exact next gate: **Part010 whole-Part glossary reconciliation across E52–E57**.
