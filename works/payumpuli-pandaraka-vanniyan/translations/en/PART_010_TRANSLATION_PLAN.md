@@ -213,3 +213,25 @@ After E57:
 **E52 draft + source-check — section55 / scans271–272.**
 
 Do not begin E53 until E52 closes **SOURCE-CHECKED / COMPLETE**.
+
+
+## E52 source-check checkpoint
+
+**E52 — SOURCE-CHECKED / COMPLETE.**
+
+- source — section55 / scans271–272
+- English — `sections/55-what-mystery-was-hidden-part010.md`
+- source-check — `E52_SOURCE_CHECK.md`
+- incoming continuation discipline — **PASS**
+- frozen Part009 English edits — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- unresolved source-check holds — **0**
+- Part011 leakage — **0**
+
+Current Part010 English counts:
+- translated — **1/6**
+- source-checked — **1/6**
+
+Exact next gate: **E53 draft + source-check — section56 / scans273–278**.
+
+Do not begin E54 until E53 closes **SOURCE-CHECKED / COMPLETE**.
