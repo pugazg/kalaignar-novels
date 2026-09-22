@@ -44,4 +44,15 @@ The canonical `scan_page` remains the overall scan number **301–330**.
 
 Part 011 source split: **SUPPLIED / REGISTERED**.
 
-This Part waits behind the global active frontier. Do not create page records here until processing reaches its overall scan range.
+Part010 is now FINAL CLOSED / FROZEN. Part011 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Do not create canonical page records until the incoming **300→301** boundary is directly audited from source pixels.
+
+
+## Post-Part010 frontier
+
+- Parts001–010 — **FINAL CLOSED / FROZEN**
+- Part011 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part011 canonical records — **0**
+- first required action — direct **300→301 boundary audit**
+- normal first Pass1 batch after a usable incoming-boundary audit — **global scans301–310 / local pages1–10**
+- outgoing **330→331 — PENDING direct audit**
+- Part011 Pass2A — **BLOCKED UNTIL FULL-PART PASS1 COMPLETE**
