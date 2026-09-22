@@ -17,8 +17,9 @@ Parts001–Part009 English are **FINAL CLOSED / FROZEN**.
 | Glossary reconciliation | Part010 whole-Part reconciliation | 271–300 | **RECONCILED / PASS** |
 | Editorial | Part010 whole-Part English editorial review | 271–300 | **PASS / CLOSED** |
 | Bilingual | Part010 whole-Part bilingual review | 271–300 | **PASS / CLOSED** |
-| Release | Part010 release/readiness | 271–300 | **NOT STARTED / NEXT** |
-| Final closure | Part010 final closure | 271–300 | **BLOCKED** |
+| Release | Part010 release/readiness | 271–300 | **PASS / CLOSED** |
+| Release-ready sync | Part010 lifecycle/control synchronization | 271–300 | **NOT STARTED / NEXT** |
+| Final closure | Part010 final closure | 271–300 | **BLOCKED UNTIL RELEASE-READY SYNC** |
 
 ## Current counts
 
@@ -264,3 +265,22 @@ Part010 English whole-Part review chain is now complete through bilingual review
 - outgoing 300→301 — **PENDING direct audit**
 
 Exact next gate: **Part010 release/readiness review**.
+
+
+## Release/readiness checkpoint
+
+**PART010 RELEASE/READINESS — PASS / CLOSED.**
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- E52–E57 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- unresolved Tamil / English / release blockers — **0**
+- canonical / assembled / maintained English body edits in release gate — **0 / 0 / 0**
+- outgoing 300→301 — **PENDING direct audit**
+- Part011 leakage — **0**
+
+Exact next gate: **Part010 release-ready synchronization**.
