@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part010 Pass2A scans271–300
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part010 Pass2B scans271–300
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -20,68 +20,58 @@ Registered identity:
 - SHA-256 — `7cd8f710271ef11bb8bb145853d59cf5769d686936d292828b10dc90d92fdbe9`
 - source text layer — **no usable parsed text**
 - controlling representation — **direct rendered source pixels**
-- source family — **TVA_BOK_0065744**
 
-If the exact Part010 PDF is unavailable in a new chat, request this exact file before direct source-fidelity review. Do not infer source text from memory.
+If the exact Part010 PDF is unavailable in a new chat, request it before direct source-fidelity review.
 
-## Completed Part010 Pass1 state
+## Completed Part010 state
 
-**PART010 PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE.**
-
-- canonical records — **30/30**
-- global scans — **271–300**
-- local pages — **1–30**
-- directly observed printed folios — **263–272, 274–292**
-- scan281 / local11 — **full-page colour narrative illustration / printed_page null**
-- missing scans / duplicate records — **0 / 0**
-- unresolved Pass1 source-reading holds — **0**
-- canonical records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass2A corrections — **7**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- unresolved textual questions — **0**
 - incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **300→301 — PENDING direct audit**
-- Pass2A — **AUTHORIZED / NOT STARTED**
+- Pass2B — **NOT STARTED / NEXT GATE**
 
 Durable controls:
 - `PART_010_PASS1_PROGRESS.md`
+- `PART_010_PASS2A_PROGRESS.md`
 - `PART_010_BOUNDARY_AUDIT_270_271.md`
 - `PART_010_HANDOFF.md`
 - `SOURCE_INTAKE_PART_010.md`
 - `indexes/page-map.md`
 
-Part010 source structure:
-- scans271–272 — chapter42 `மறைந்த மாயம் என்னவோ?` continuation / close
-- scans273–278 — chapter43 `சந்திரிகாவின் சூழ்ச்சி!`
-- scans279–285 — chapter44 `இன்றா, நாளையா? ஏன்?`; scan281 is illustration-only; closes scan285
-- scans286–291 — chapter45 `தேவை நூறு வீரர்கள்!`; closes scan291
-- scans292–297 — chapter46 `எல்லாம் நன்மைக்கே!`; closes scan297
-- scans298–300 — chapter47 `தலையாழி மாற்றிக் கொண்டனர்`; continues beyond Part010
+### Pass2A correction ledger
 
-## Boundary discipline
-
-Outgoing **300→301 remains PENDING direct audit**.
-
-If exact Part011 scan301 becomes available, directly compare scan300→301 and record the classification before making any cross-Part continuation claim.
-
-If Part011 is unavailable, this does **not** block Part010 Pass2A. Keep the boundary pending and do not import or infer Part011 wording.
+1. scan276 / printed268 — `கண்ணகிகோயிலுக்கு` → **`கண்ணகி கோயிலுக்கு`**
+2. scan277 / printed269 — `காக்கை வன்னியனை முதலில் தீர்த்துக் கட்டவேண்டும்!` → **`காக்கை வன்னியனை முதலில் தீர்த்துக் கட்ட வேண்டும்!`**
+3. scan288 / printed280 — `அதனால் தான் அந்தப் புலம்பல்!` → **`அதனால்தான் அந்தப் புலம்பல்!`**
+4. scan291 / printed283 — `மனச்சாட்சியே அவனைப் பார்த்துக் கேட்டது!` → **`மனச்சாட்சியே அவனைப் பார்த்துக்கேட்டது!`**
+5. scan291 / printed283 — `வேண்டுகோளை உடனே நிறைவேற்றிவை.` → **`வேண்டுகோளை உடனே நிறைவேற்றி வை.`**
+6. scan292 / printed284 — `யோசனைகளைத் தெரிவித்து கொண்டிருந்தான்.` → **`யோசனைகளைத் தெரிவித்துக் கொண்டிருந்தான்.`**
+7. scan294 / printed286 — `அதிகப் பொருத்தமாக-தத்துரூபமான` → **`அதிகப் பொருத்தமாக - தத்துரூபமான`**
 
 ## Exact next activity
 
-Perform **Part010 Pass2A — direct textual source-fidelity review of scans271–300**.
+Perform **Part010 Pass2B — independent historical-glyph / lexical / word-boundary / punctuation-sensitive fidelity review of scans271–300**.
 
-1. Re-read live controls:
-   - `PART_010_PASS1_PROGRESS.md`
-   - `PART_010_HANDOFF.md`
-   - `SOURCE_INTAKE_PART_010.md`
-   - `PAYUMPULI_ARCHIVAL_GUIDELINES.md`
-   - `MULTIPART_SOURCE_POLICY.md`
-   - `indexes/page-map.md`
-2. Review all **30 canonical Part010 page records** directly against Part010 source pixels.
-3. Check every source word, punctuation mark, source-visible spacing/word boundary, dialogue/paragraph structure, displayed hierarchy, printed folio and physical page-end state.
-4. Preserve historical/variant/source-specific forms. Do not modernize or silently normalize.
-5. Correct only where direct source pixels establish a mismatch.
-6. Record every Pass2A correction in a durable Part010 Pass2A progress/closure record.
-7. On Pass2A closure, textual `status` may move to `verified` only for pages directly source-checked and free of unresolved textual holds; `visual_fidelity` remains `needs-review` for later gates.
-8. Do not modify frozen Parts001–009.
-9. Keep **300→301 PENDING direct audit** unless exact Part011 scan301 is directly checked.
-10. Do not begin Pass2B in the same activity.
-
-Stop after Part010 Pass2A closure and control synchronization.
+1. Re-read live controls before editing.
+2. Re-review all **30** canonical Part010 records independently against direct rendered source pixels.
+3. Focus on:
+   - historical/variant glyph forms;
+   - lexical readings;
+   - source-specific compounds and joins;
+   - spacing / word boundaries;
+   - punctuation and quote boundaries;
+   - unusual but source-visible forms.
+4. Preserve source irregularities; do not modernize or normalize.
+5. Apply only directly source-supported corrections.
+6. Record every Pass2B correction in `PART_010_PASS2B_PROGRESS.md`.
+7. Keep textual `status: "verified"` unless a genuine unresolved textual hold is discovered.
+8. Keep `visual_fidelity: "needs-review"` for the later visual gate.
+9. Do not alter frozen Parts001–009.
+10. Keep outgoing **300→301 PENDING direct audit** unless exact Part011 scan301 is supplied and directly checked.
+11. Do not begin Pass3 in the same activity.
+12. Stop after Part010 Pass2B closure and control synchronization.
