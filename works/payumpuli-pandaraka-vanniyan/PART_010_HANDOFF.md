@@ -28,7 +28,7 @@ If the exact PDF is unavailable in a fresh chat, request this exact file before 
 ## Current repository-authoritative Part010 state
 
 - source intake — **SUPPLIED / REGISTERED**
-- lifecycle — **ACTIVE — PASS2A COMPLETE / PASS; PASS2B NEXT**
+- lifecycle — **ACTIVE — PASS2B COMPLETE / PASS; PASS3 NEXT**
 - canonical Part010 page records — **30/30**
 - completed global scans — **271–300**
 - completed local pages — **1–30**
@@ -39,8 +39,8 @@ If the exact PDF is unavailable in a fresh chat, request this exact file before 
 - outgoing **300→301 — PENDING direct audit**
 - Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 7 corrections**
-- Pass2B — **NOT STARTED / NEXT GATE**
-- Pass3 — **NOT STARTED**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 4 corrections**
+- Pass3 — **NOT STARTED / NEXT GATE**
 - Part audit — **NOT STARTED**
 - assembled Tamil — **NOT STARTED**
 - English — **NOT STARTED**
@@ -118,22 +118,38 @@ No cross-Part wording was reconstructed in either canonical page.
 
 Correction scans: **276, 277, 288, 291 (2), 292, 294**.
 
+## Pass2B closure state
+
+**PART010 PASS 2B — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- source-text / lexical / spacing / punctuation corrections — **4**
+- correction scans — **277, 289, 294, 299**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- durable record — `PART_010_PASS2B_PROGRESS.md`
+- outgoing **300→301 remains PENDING direct audit**
+- Parts001–009 remain **FINAL CLOSED / FROZEN**
+
 ## Exact next activity
 
-Perform **Part010 Pass2B — independent historical-glyph / lexical / word-boundary / punctuation-sensitive fidelity review of scans271–300**.
+Perform **Part010 Pass3 — direct full-page visual / structural verification of scans271–300**.
 
-- re-read all 30 Part010 canonical page records directly against source pixels;
-- preserve historical/variant glyphs, lexical forms, joins, spacing, punctuation and source irregularities;
-- record only directly source-supported corrections;
-- keep textual `status: "verified"` unless an unresolved textual hold is discovered;
-- keep `visual_fidelity: "needs-review"` for the later visual gate;
-- do not alter frozen Parts001–009;
+- verify page type, printed folio, chapter/display hierarchy, paragraph/dialogue blocks, recurring page furniture and physical page-end state;
+- re-confirm chapter openings at scans **273, 279, 286, 292, 298**;
+- re-confirm chapter-closing intentional blank lower fields at scans **278, 285, 297**;
+- re-confirm scan281 as the full-page illustration with no printed Tamil body / visible folio;
+- re-confirm printed folios **263–272, 274–292** and physical continuation fragments;
+- apply a textual correction only if direct source pixels establish a mismatch;
+- keep textual `status: "verified"`;
+- keep `visual_fidelity: "needs-review"` until the later Part audit/final metadata gate;
 - keep **300→301 PENDING direct audit** unless exact Part011 scan301 is directly checked;
-- do not begin Pass3 in the same activity.
+- do not begin Part audit in the same activity.
 
 ## Stop condition
 
-Stop after **Part010 Pass2B closure + control synchronization**.
+Stop after **Part010 Pass3 closure + control synchronization**.
 
 ## Read first in a new chat
 
