@@ -430,3 +430,27 @@ Durable release report:
 - `works/payumpuli-pandaraka-vanniyan/translations/en/PART_010_RELEASE_REPORT.md`
 
 Exact next gate: **Part010 release-ready synchronization**.
+
+
+## Part010 release-ready synchronization checkpoint
+
+**PART010 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- E52–E57 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved Tamil / English / release blockers — **0**
+- canonical / assembled / maintained English body changes in synchronization — **0 / 0 / 0**
+- frozen Part001–Part009 body changes — **0**
+- outgoing 300→301 — **PENDING direct audit**
+- Part011 leakage — **0**
+
+Durable synchronization:
+- `works/payumpuli-pandaraka-vanniyan/PART_010_RELEASE_READY_SYNC.md`
+
+Exact next gate: **Part010 final closure**.
