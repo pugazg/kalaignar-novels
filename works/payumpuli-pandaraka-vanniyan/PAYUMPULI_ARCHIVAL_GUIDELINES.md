@@ -1299,3 +1299,27 @@ Durable validation:
 Exact next gate: **Part010 English translation planning/setup**.
 
 Create planning/glossary/progress controls only; perform a live English batch-number collision check before reserving the Part010 sequence; do not draft English prose in the setup gate.
+
+
+## Part010 English planning/setup frontier
+
+**PART010 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- canonical Part010 Tamil — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- existing English source-check controls — **E1–E51 contiguous**
+- live batch-number collision check — **PASS**
+- reserved Part010 English sequence — **E52–E57 / 6**
+- planned English section-order range — **55–60**
+- English section collisions — **0**
+- translated/source-checked — **0/6 / 0/6**
+- unresolved planning holds — **0**
+- canonical / assembled Tamil changes caused by planning — **0 / 0**
+- frozen Part001–Part009 English body changes — **0**
+- scan281 illustration-only English-body creation — **0**
+- incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **300→301 — PENDING direct audit**
+- Part011 English/Tamil leakage — **0**
+- next gate — **E52 draft + source-check — section55 / scans271–272**
+
+Do not begin E53 until E52 is **SOURCE-CHECKED / COMPLETE**.
