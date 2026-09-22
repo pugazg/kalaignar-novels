@@ -454,3 +454,27 @@ Exact next activity: activate Part010 by directly auditing **270→271** from th
 
 Do not begin Part010 Pass2A until Pass1 covers all 30 Part010 pages. Keep **300→301 PENDING direct audit**.
 
+
+
+## Part010 — PASS / CLOSED
+
+- physical coverage — **scans271–300**
+- canonical pages represented — **30/30**
+- assembled files — **6/6 VERIFIED**
+- section-order range — **55–60**
+- omitted / duplicated canonical pages — **0 / 0**
+- unsupported body insertion — **0**
+- audit-note leakage — **0**
+- canonical Part010 page mutations caused by assembly — **0**
+- frozen Part001–Part009 assembled-file mutations — **0**
+- Part011 body leakage — **0**
+- scan281 illustration-only matter represented as provenance only — **PASS**
+- incoming 270→271 boundary provenance without Part009 body import — **PASS**
+- outgoing 300→301 remains **PENDING direct audit**; no Part011 body import — **PASS**
+- validation — `../PART_010_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Part010 Tamil archival-ready remains **PASS / CLOSED**.
+
+Exact next activity: **Part010 English translation planning/setup**.
+
+Use verified Part010 canonical Tamil plus the closed **6/6** assembled Tamil reading layer. Create planning/glossary/progress controls only; perform a live English batch-number collision check before reserving the sequence; do not draft English prose in the setup gate.
