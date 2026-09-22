@@ -337,3 +337,22 @@ E56 devotional-song discipline:
 E56 unresolved terminology holds — **0**.
 
 These decisions remain subject to Part010 whole-Part glossary reconciliation and do not authorize Tamil normalization.
+
+
+## E57 source-check checkpoint
+
+**E57 — SOURCE-CHECKED / COMPLETE.**
+
+- source — section60 / scans298–300
+- English — `sections/60-they-exchanged-the-thalaiyaazhi.md`
+- source-check — `E57_SOURCE_CHECK.md`
+- title — **They Exchanged the Thalaiyaazhi**
+- `தலையாழி` handling — **Thalaiyaazhi / source-facing**
+- `காப்புக் கிரகம்` occurrence variants — **protected**
+- scan300 terminal open dialogue — **preserved**
+- outgoing 300→301 — **PENDING direct audit**
+- Part011 leakage — **0**
+- unresolved holds — **0**
+- E52–E57 — **6/6 SOURCE-CHECKED / COMPLETE**
+
+Exact next gate: **Part010 whole-Part glossary reconciliation**.
