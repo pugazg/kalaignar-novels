@@ -306,16 +306,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 010 | 28 | 298 | 290 | chapter47 opening `தலையாழி மாற்றிக் கொண்டனர்`; displayed number 47 | verified | `pages/0298-thalaiyaazhi-maatrik-kondanar.md` |
 | 010 | 29 | 299 | 291 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; ends `காக்கை வன்னியனின்` | verified | `pages/0299-thalaiyaazhi-maatrik-kondanar.md` |
 | 010 | 30 | 300 | 292 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; Part010 ends with open quotation/question; 300→301 pending | verified | `pages/0300-thalaiyaazhi-maatrik-kondanar.md` |
-| 011 | 1 | 301 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 2 | 302 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 3 | 303 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 4 | 304 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 5 | 305 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 6 | 306 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 7 | 307 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 8 | 308 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 9 | 309 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 10 | 310 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 1 | 301 | 293 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; incoming 300→301 genuine continuation audited; ends `தயவு` | needs-review | `pages/0301-thalaiyaazhi-maatrik-kondanar.md` |
+| 011 | 2 | 302 | 294 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; resumes scan301 dialogue | needs-review | `pages/0302-thalaiyaazhi-maatrik-kondanar.md` |
+| 011 | 3 | 303 | 295 | `தலையாழி மாற்றிக் கொண்டனர்` continuation / close | needs-review | `pages/0303-thalaiyaazhi-maatrik-kondanar.md` |
+| 011 | 4 | 304 | 296 | chapter48 opening `முத்திரை கிழிந்தது!`; displayed number 48; ends `தணிகைமலையை` | needs-review | `pages/0304-muththirai-kizhindhathu.md` |
+| 011 | 5 | 305 | 297 | `முத்திரை கிழிந்தது!` continuation; resumes scan304; ends split word `பழக்க` | needs-review | `pages/0305-muththirai-kizhindhathu.md` |
+| 011 | 6 | 306 | 298 | `முத்திரை கிழிந்தது!` continuation; begins split-word continuation `மான` | needs-review | `pages/0306-muththirai-kizhindhathu.md` |
+| 011 | 7 | 307 | 299 | `முத்திரை கிழிந்தது!` continuation; ends mid-sentence | needs-review | `pages/0307-muththirai-kizhindhathu.md` |
+| 011 | 8 | 308 | 300 | `முத்திரை கிழிந்தது!` continuation; ends `அவள்,` | needs-review | `pages/0308-muththirai-kizhindhathu.md` |
+| 011 | 9 | 309 | 301 | `முத்திரை கிழிந்தது!` continuation; copy-specific library mark excluded | needs-review | `pages/0309-muththirai-kizhindhathu.md` |
+| 011 | 10 | 310 | 302 | `முத்திரை கிழிந்தது!` close; substantial intentional blank lower field | needs-review | `pages/0310-muththirai-kizhindhathu.md` |
 | 011 | 11 | 311 | — | unclassified — direct visual audit pending | not-started | — |
 | 011 | 12 | 312 | — | unclassified — direct visual audit pending | not-started | — |
 | 011 | 13 | 313 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1047,3 +1047,28 @@ Exact next activity: activate Part010 by directly auditing **270→271** from th
 
 Do not begin Part010 Pass2A until Pass1 covers all 30 Part010 pages. Keep **300→301 PENDING direct audit**.
 
+
+
+## Part011 Pass1 Batch 1 checkpoint
+
+**PART011 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- Parts001–010 — **FINAL CLOSED / FROZEN**
+- active Part — **Part011 / scans301–330**
+- canonical Part011 records — **10/30 — scans301–310**
+- Pass1 text-complete — **10/30**
+- Pass1 pending — **20/30 — scans311–330**
+- printed-page coverage completed — **293–302**
+- incoming 300→301 — **GENUINE CONTINUATION / AUDITED / PASS**
+- chapter47 `தலையாழி மாற்றிக் கொண்டனர்` — continuation/close on scans301–303
+- chapter48 `முத்திரை கிழிந்தது!` — opens scan304 and closes scan310
+- scan305→306 split word — **`பழக்க` + `மான`**
+- scan310 — substantial intentional blank lower field
+- completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- outgoing 330→331 — **PENDING direct audit**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+
+Durable progress:
+- `PART_011_PASS1_PROGRESS.md`
+
+Exact next activity: **Part011 Pass1 scans311–320 / local pages11–20**.
