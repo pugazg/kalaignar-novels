@@ -174,3 +174,41 @@ E52 chapter title remains inherited **What Mystery Was Hidden?**
 E52 unresolved terminology holds — **0**.
 
 These E52 decisions remain subject to the later Part010 whole-Part glossary reconciliation; they do not authorize any Tamil normalization.
+
+
+## E53 source-check additions
+
+Source-checked handling established for section56 / scans273–278:
+
+| Tamil source | English handling | Source-check note |
+|---|---|---|
+| `சந்திரிகாவின் சூழ்ச்சி!` | **Chandrika's Scheme!** | source title retained as planned |
+| `மாதர் குலமாணிக்கம்` | **jewel among women** | source praise formula |
+| `கற்பின் திருவிளக்கு` | **sacred lamp of chastity** | source metaphor retained |
+| `மார்த்தனிபுராணம்` | **Marthani's saga** | exaggerated praise frame; no external textual identification |
+| `பெட்டிப் பாம்பாய்` | **like a snake shut inside a box** | immediate simile only; no species identification |
+| `குறி ஜோஸ்யம்` | **fortune-telling or astrology** | immediate functional rendering |
+| `பேட்டிக்குத் தவம் கிடந்தான்` | **lain in penance waiting for an audience** | mocking source image retained |
+| `கருவேப்பிலை` | **curry leaf** | only within source simile |
+| `இன நலம்` | **welfare of their own people** | immediate social/political sense only |
+| `ஆழம் பார்த்தேன்` | **I was only testing you** | idiomatic immediate-context rendering |
+| `பரிகாரம்` | **remedy** | immediate source sense |
+| `தவம் செய்` | **perform penance** | source ritual wording |
+| `அருள்` | **grace** | source devotional wording |
+| `கற்புக்கரசி` | **queen of chastity** | source-era praise/irony retained |
+| `மெய் காப்பாளன்` | **bodyguard** | functional rendering |
+| `முள்ளை முள்ளால் எடுப்பது போல` | **like removing one thorn with another** | proverb/image retained |
+| `சகல கலையும் வேண்டும் ராஜா!` | **I want every art, my king!** | preserves the Kala / `கலை` wordplay as far as English allows |
+
+E53 name/forms confirmed:
+- **Kakkai Vanniyan**
+- **Thanigaimala / Thanigai**
+- **Piyasili**
+- **Kala**
+- **Lord North / North**
+- **Kannagiyamman / Kannagi**
+- **Mullaitheevu**
+
+E53 unresolved terminology holds — **0**.
+
+These decisions remain subject to the later Part010 whole-Part glossary reconciliation and do not authorize Tamil normalization.
