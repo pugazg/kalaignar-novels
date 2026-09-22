@@ -259,3 +259,28 @@ Current Part010 English counts:
 Exact next gate: **E54 draft + source-check — section57 / scans279–285**.
 
 Scan281 is illustration-only and must remain non-rendering provenance. Do not begin E55 until E54 closes **SOURCE-CHECKED / COMPLETE**.
+
+
+## E54 source-check checkpoint
+
+**E54 — SOURCE-CHECKED / COMPLETE.**
+
+- source — section57 / scans279–285
+- English — `sections/57-today-or-tomorrow-why.md`
+- source-check — `E54_SOURCE_CHECK.md`
+- chapter title — **Today or Tomorrow? Why?**
+- scan281 illustration-only discipline — **PASS / no invented body or caption**
+- scan285 blank-space discipline — **PASS**
+- political / violent / sexual source-attribution discipline — **PASS**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part009 English edits — **0**
+- unresolved source-check holds — **0**
+- Part011 leakage — **0**
+
+Current Part010 English counts:
+- translated — **3/6**
+- source-checked — **3/6**
+
+Exact next gate: **E55 draft + source-check — section58 / scans286–291**.
+
+Do not begin E56 until E55 closes **SOURCE-CHECKED / COMPLETE**.
