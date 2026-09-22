@@ -212,3 +212,45 @@ E53 name/forms confirmed:
 E53 unresolved terminology holds — **0**.
 
 These decisions remain subject to the later Part010 whole-Part glossary reconciliation and do not authorize Tamil normalization.
+
+
+## E54 source-check additions
+
+Source-checked handling established for section57 / scans279–285:
+
+| Tamil source | English handling | Source-check note |
+|---|---|---|
+| `இன்றா, நாளையா? ஏன்?` | **Today or Tomorrow? Why?** | chapter title retained as planned |
+| `புருஷ இனம்` | **the whole race of men** | source character's broad formulation; no translator generalization |
+| `காமக்கண் வீச்சு` | **the sweep of lustful eyes** | source erotic phrasing |
+| `பல் இளிக்க` | **bare his teeth** | unusual source metaphor retained |
+| `எட்டடி / பதினாறு அடி / முப்பத்திரெண்டு அடி பாய்தல்` | **leap eight / sixteen / thirty-two feet** | escalating source metaphor retained |
+| `மோக போதை` | **intoxication of desire** | source erotic metaphor |
+| `அனுபவக் களஞ்சியம்` | **treasury of experience** | source praise/irony |
+| `பெட்டிப்பாம்பு` | **as tame ... as a snake shut inside a box** | established source image |
+| `உடும்புப்பிடி` | **monitor-lizard grip** | animal image retained without external gloss |
+| `யானைப் பசி` | **elephant's hunger** | source hyperbole |
+| `சோளப் பொறி` | **popped sorghum** | source sexual/food metaphor retained |
+| `துரோகம் செய்யும் கலை` | **the art of treachery** | source characterization |
+| `பிறவி எடுத்ததின் பயன்` | **the very purpose for which he had been born** | source rhetoric |
+| `கழுகு` | **eagle** | source metaphor for Pilimathala |
+| `பரங்கியர்` | **Parangis** | source-facing label retained; no outside historical identification |
+
+E54 name/place forms confirmed:
+- **Pilimathala** for `பிலிமதளாவை`
+- **Nalla Naachchiyar / Nalla Naachchi**
+- **Oomaichchi Naachchi** for `ஊமைச்சிநாச்சி`
+- **Vattrappalai**
+- **Thirukonamalai** for `திருகோணமலை`
+- **Panangamam** for `பனங்காமம்`
+- **Mullaitheevu**
+- **Pandarakan**
+- **Thanigaimala / Thanigai**
+- **Piyasili**
+- **Kakkai Vanniyan**
+
+Scan281 English handling remains **non-rendering provenance only** with no caption/body.
+
+E54 unresolved terminology holds — **0**.
+
+These decisions remain subject to Part010 whole-Part glossary reconciliation and do not authorize Tamil normalization.
