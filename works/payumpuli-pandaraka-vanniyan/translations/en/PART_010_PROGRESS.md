@@ -18,8 +18,8 @@ Parts001–Part009 English are **FINAL CLOSED / FROZEN**.
 | Editorial | Part010 whole-Part English editorial review | 271–300 | **PASS / CLOSED** |
 | Bilingual | Part010 whole-Part bilingual review | 271–300 | **PASS / CLOSED** |
 | Release | Part010 release/readiness | 271–300 | **PASS / CLOSED** |
-| Release-ready sync | Part010 lifecycle/control synchronization | 271–300 | **NOT STARTED / NEXT** |
-| Final closure | Part010 final closure | 271–300 | **BLOCKED UNTIL RELEASE-READY SYNC** |
+| Release-ready sync | Part010 lifecycle/control synchronization | 271–300 | **PASS / CLOSED** |
+| Final closure | Part010 final closure | 271–300 | **NOT STARTED / NEXT** |
 
 ## Current counts
 
@@ -284,3 +284,20 @@ Exact next gate: **Part010 release/readiness review**.
 - Part011 leakage — **0**
 
 Exact next gate: **Part010 release-ready synchronization**.
+
+
+## Release-ready synchronization checkpoint
+
+**PART010 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED.**
+
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- synchronization body-layer changes — **0**
+- unresolved Tamil / English / release blockers — **0**
+- outgoing 300→301 — **PENDING direct audit**
+- Part011 leakage — **0**
+
+Durable synchronization:
+- `../PART_010_RELEASE_READY_SYNC.md`
+
+Exact next gate: **Part010 final closure**.
