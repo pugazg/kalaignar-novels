@@ -93,7 +93,7 @@ Nalla Naachchiyar trembled from head to foot! Terrified by what dangerous news t
 
 “Ayyo! You are breaking my heart. Tell me what it is!”
 
-“Mother! Your love for that Pramanandar is true, isn't it?”
+“Mother! Your love for that Pramanandan is true, isn't it?”
 
 “Can't you see how I am trembling?”
 
