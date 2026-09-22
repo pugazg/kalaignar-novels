@@ -235,3 +235,27 @@ Current Part010 English counts:
 Exact next gate: **E53 draft + source-check — section56 / scans273–278**.
 
 Do not begin E54 until E53 closes **SOURCE-CHECKED / COMPLETE**.
+
+
+## E53 source-check checkpoint
+
+**E53 — SOURCE-CHECKED / COMPLETE.**
+
+- source — section56 / scans273–278
+- English — `sections/56-chandrikas-scheme.md`
+- source-check — `E53_SOURCE_CHECK.md`
+- chapter title — **Chandrika's Scheme!**
+- scan278 blank-space discipline — **PASS**
+- source-attribution discipline for political / violent / sexual content — **PASS**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part009 English edits — **0**
+- unresolved source-check holds — **0**
+- Part011 leakage — **0**
+
+Current Part010 English counts:
+- translated — **2/6**
+- source-checked — **2/6**
+
+Exact next gate: **E54 draft + source-check — section57 / scans279–285**.
+
+Scan281 is illustration-only and must remain non-rendering provenance. Do not begin E55 until E54 closes **SOURCE-CHECKED / COMPLETE**.
