@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 batch s
 
 ## Source transcription
 
-காப்புக்கிரக முகப்பு மண்டபத்தை விட்டு வெளியேறிய அந்த “பக்தர்கள்”- ஆலய வாசலில் ஐந்து பேர் ஆறு பேராகப் பிரிந்து பிரிந்து உட்கார்ந்து கட்டுச் சோறு மூட்டைகளை அவிழ்த்து உணவருந்தத் தொடங்கினார்கள். அப்போதும் பக்தி ரசம் நனி சொட்டச் சொட்டப் பாடல்கள்தான்.
+காப்பக்கிரக முகப்பு மண்டபத்தை விட்டு வெளியேறிய அந்த “பக்தர்கள்”- ஆலய வாசலில் ஐந்து பேர் ஆறு பேராகப் பிரிந்து பிரிந்து உட்கார்ந்து கட்டுச் சோறு மூட்டைகளை அவிழ்த்து உணவருந்தத் தொடங்கினார்கள். அப்போதும் பக்தி ரசம் நனி சொட்டச் சொட்டப் பாடல்கள்தான்.
 
 பலவேறு குழுக்களாக உட்கார்ந்து அவர்கள் சாப்பிட்டுக் கும்மாளம் கொட்டுவதை ஆலயத்திற்குச் சற்று தொலைவில் அடர்ந்திருந்த புதர்களின் பக்கம் மறைந்திருந்த நூற்றுக்கணக்கான கூரிய விழிகள் நோக்கிக் கொண்டிருந்தன. அந்த விழிகளுக்குச் சொந்தக்காரர்கள் காக்கை வன்னியனின் வீரர்கள். அவர்களுக்குத் தளகர்த்தனாக ஒருவன் கையில் ஒரு ஈட்டியுடன் புதர் மறைவில் உள்ள ஒரு பாறாங்கல்லில் அமர்ந்திருந்தான். அவன் தனது வீரர்களை பார்த்துச் சொன்னான். “இது ஏதோ சோற்றுப் பட்டாளம்! அம்மனுக்கு அஞ்சலி செலுத்தக் காவடியும் கரகமுமாக வந்துள்ளது! தின்று முடித்ததும் சென்று விடும்! எதற்கும் எச்சரிக்கையாக இருப்போம்!” வீரர்கள் அவன் பேச்சை ஆட்டு மந்தை போல ஒரே மாதிரி தலையசைத்து ஆமோதித்தனர்.
 
@@ -45,3 +45,16 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending the later visual gate;
 - Pass 2B historical-glyph / word-boundary review remains the next gate.
+
+
+## Formal Part010 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed directly against rendered Part010 source pixels;
+- source-specific spellings, compounds, joins, spacing, punctuation, quotation boundaries and irregular forms were preserved without modernization;
+- Pass 2B source-text / lexical / spacing / punctuation corrections: **1**;
+- correction 1: `காப்புக்கிரக முகப்பு மண்டபத்தை` → **`காப்பக்கிரக முகப்பு மண்டபத்தை`** — lexical / source-form correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass 3.
