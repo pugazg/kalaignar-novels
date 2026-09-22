@@ -28,18 +28,18 @@ If the exact PDF is unavailable in a fresh chat, request this exact file before 
 ## Current repository-authoritative Part010 state
 
 - source intake — **SUPPLIED / REGISTERED**
-- lifecycle — **ACTIVE — PASS1 COMPLETE / PASS; PASS2A NEXT**
+- lifecycle — **ACTIVE — PASS2A COMPLETE / PASS; PASS2B NEXT**
 - canonical Part010 page records — **30/30**
 - completed global scans — **271–300**
 - completed local pages — **1–30**
 - printed-page coverage — **263–272, 274–292**
 - scan281 — **full-page colour narrative illustration / printed_page null**
-- completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- completed records — `status: "verified"` / `visual_fidelity: "needs-review"`
 - incoming **270→271 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **300→301 — PENDING direct audit**
 - Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Pass2A — **AUTHORIZED / NOT STARTED**
-- Pass2B — **NOT STARTED**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 7 corrections**
+- Pass2B — **NOT STARTED / NEXT GATE**
 - Pass3 — **NOT STARTED**
 - Part audit — **NOT STARTED**
 - assembled Tamil — **NOT STARTED**
@@ -104,18 +104,36 @@ No cross-Part wording was reconstructed in either canonical page.
 - Parts001–009 remain **FINAL CLOSED / FROZEN**
 - outgoing **300→301 remains PENDING direct audit**
 
+## Pass2A closure state
+
+**PART010 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- source-supported corrections — **7**
+- unresolved textual questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- durable record — `PART_010_PASS2A_PROGRESS.md`
+- outgoing **300→301 remains PENDING direct audit**
+- Parts001–009 remain **FINAL CLOSED / FROZEN**
+
+Correction scans: **276, 277, 288, 291 (2), 292, 294**.
+
 ## Exact next activity
 
-On the next explicit continuation:
+Perform **Part010 Pass2B — independent historical-glyph / lexical / word-boundary / punctuation-sensitive fidelity review of scans271–300**.
 
-1. If exact Part011 scan301 is supplied/available, directly audit **300→301** from adjacent source pixels and record the boundary classification.
-2. Otherwise begin **Part010 Pass2A — direct textual source-fidelity review of scans271–300** while keeping **300→301 PENDING direct audit** and making no cross-Part wording claim.
-
-Do not begin Pass2B until Pass2A closes.
+- re-read all 30 Part010 canonical page records directly against source pixels;
+- preserve historical/variant glyphs, lexical forms, joins, spacing, punctuation and source irregularities;
+- record only directly source-supported corrections;
+- keep textual `status: "verified"` unless an unresolved textual hold is discovered;
+- keep `visual_fidelity: "needs-review"` for the later visual gate;
+- do not alter frozen Parts001–009;
+- keep **300→301 PENDING direct audit** unless exact Part011 scan301 is directly checked;
+- do not begin Pass3 in the same activity.
 
 ## Stop condition
 
-This handoff records full Part010 Pass1 closure only. Pass2A has **not** been started.
+Stop after **Part010 Pass2B closure + control synchronization**.
 
 ## Read first in a new chat
 
