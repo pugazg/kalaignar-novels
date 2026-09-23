@@ -254,3 +254,18 @@ Durable record:
 Perform **Part011 Tamil archival-ready checkpoint**.
 
 After that checkpoint closes, construct and audit the Part011 assembled Tamil layer. Preserve frozen Parts001–010 and keep outgoing **330→331 PENDING direct audit**.
+
+## Tamil archival-ready checkpoint
+
+**PASS / CLOSED**
+
+- canonical Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Part audit — **PASS / COMPLETE**
+- documentation synchronization — **PASS / COMPLETE**
+- section collision check — **PASS / planned range61–66 / collisions0**
+- outgoing **330→331 — PENDING direct audit**
+
+## Exact next activity
+
+Construct **Part011 assembled Tamil sections61–66**, then perform assembled Tamil validation/audit. Do not import Part012 wording and do not modify frozen section60.

@@ -1,0 +1,112 @@
+# Part 011 — Tamil Archival-Ready Checkpoint
+
+Work: `பாயும்புலி பண்டாரக வன்னியன்`  
+Repository: `pugazg/kalaignar-novels`  
+Branch: `main`
+
+## Gate
+
+**PART011 TAMIL ARCHIVAL-READY — PASS / CLOSED**
+
+## Preconditions
+
+- Parts001–010 — **FINAL CLOSED / FROZEN**
+- Part011 canonical records — **30/30 — scans301–330**
+- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 14 corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
+- Pass2B historical-glyph corrections — **0**
+- Pass3 — **COMPLETE / PASS — 30/30 REVIEWED — 0 textual corrections**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- canonical Tamil textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- page-map Part011 rows — **30/30 verified**
+- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
+
+## Source / mapping integrity
+
+- controlling source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf`
+- source SHA-256 — `091a10b6f0a26cb323cad5a7ed6a645396e3eb112da904c939da05c3fd91eb4e`
+- physical scans — **301–330 continuous**
+- local pages — **1–30 continuous**
+- printed folios — **293–323**
+- scan330 — **single illustrated two-page spread / printed322–323**
+- missing canonical pages — **0**
+- duplicate canonical pages — **0**
+
+## Structural integrity
+
+Verified Part011 reading units:
+
+1. scans301–303 — chapter47 `தலையாழி மாற்றிக் கொண்டனர்` continuation / close;
+2. scans304–310 — chapter48 `முத்திரை கிழிந்தது!`;
+3. scans311–317 — chapter49 `சூழ்ந்து வருகுது பகை!`;
+4. scans318–323 — chapter50 `பண்டாரகன் - பகதூர்`;
+5. scans324–328 — chapter51 `எங்குற்றாள் அந்தக் குறத்தி?`;
+6. scans329–330 — chapter52 `மயங்குகிறாள் ஒரு மாது!`, continuing beyond Part011.
+
+Chapter openings:
+- **304, 311, 318, 324, 329**
+
+Intentional blank lower fields:
+- **310, 317, 323, 328**
+
+Special page:
+- scan330 — **illustrated two-page spread / printed322–323**
+
+## Boundary integrity
+
+Incoming:
+- **300→301 — GENUINE CONTINUATION / AUDITED / PASS**
+- frozen Part010 assembled/body content remains unchanged
+- Part011 assembly must use a Part011-owned continuation file for chapter47 rather than modifying frozen Part010 `sections/60-thalaiyaazhi-maatrik-kondanar.md`
+
+Outgoing:
+- **330→331 — PENDING direct audit**
+- scan330 remains terminal at the verified Part011 source end
+- no Part012 body may be imported or inferred during Part011 assembly
+
+## Mutation discipline
+
+This archival-ready checkpoint introduces:
+- canonical Tamil body changes — **0**
+- page-status changes — **0**
+- visual-fidelity changes — **0**
+- page-map status changes — **0**
+- boundary-classification changes — **0**
+- Parts001–010 frozen body changes — **0**
+
+## Assembled Tamil handoff
+
+Live section-order collision check:
+- existing maintained section range currently ends at **60**
+- planned Part011 section-order range — **61–66**
+- collisions in 61–66 before construction — **0**
+
+Planned Part011 assembled files:
+
+1. `sections/61-thalaiyaazhi-maatrik-kondanar-part011.md` — scans301–303 — chapter47 continuation / close;
+2. `sections/62-muththirai-kizhindhathu.md` — scans304–310;
+3. `sections/63-soozhndhu-varuguthu-pagai.md` — scans311–317;
+4. `sections/64-pandaaragan-pagathur.md` — scans318–323;
+5. `sections/65-engutraal-andha-kuraththi.md` — scans324–328;
+6. `sections/66-mayangukiraal-oru-maadhu.md` — scans329–330, terminal Part continuation.
+
+Assembly safeguards:
+- canonical `pages/` records remain textual authority;
+- use only verified `## Source transcription` blocks;
+- preserve source spelling, punctuation, dialogue/paragraph order and verified cross-page joins;
+- preserve source-page provenance with non-rendering boundary comments;
+- exclude Pass/audit/workflow notes from literary body;
+- do not modify frozen `sections/60-thalaiyaazhi-maatrik-kondanar.md`;
+- preserve scan330's internal printed322→323 order without inventing a caption;
+- do not import Part012 text into section66;
+- audit omissions, duplicates, unsupported body insertion and review-note leakage before closure.
+
+## Result
+
+**PASS / CLOSED**
+
+Part011 is ready for assembled Tamil construction.

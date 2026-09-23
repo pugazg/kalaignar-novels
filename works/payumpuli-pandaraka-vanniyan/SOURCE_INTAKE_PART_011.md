@@ -274,3 +274,12 @@ Exact next activity: **Part011 Pass3 Batch2 — scans311–320**, exactly **10 s
 - outgoing **330→331 — PENDING direct audit**
 - exact next gate — **documentation synchronization**
 
+## Tamil archival-ready checkpoint
+
+**PART011 TAMIL ARCHIVAL-READY — PASS / CLOSED.**
+
+- canonical / visual — **30/30 verified / 30/30 verified**
+- planned assembled range — **sections61–66**
+- collisions — **0**
+- outgoing **330→331 — PENDING direct audit**
+- exact next stage — **assembled Tamil construction + audit**
