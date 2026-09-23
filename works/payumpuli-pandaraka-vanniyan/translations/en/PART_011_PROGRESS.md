@@ -211,3 +211,21 @@ No Part011 English literary prose is drafted in this planning gate.
 Perform **Part011 whole-Part glossary reconciliation across E58–E63**.
 
 Do not begin whole-Part editorial review until glossary reconciliation closes.
+
+## Whole-Part glossary reconciliation checkpoint
+
+**PART011 WHOLE-PART GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- maintained English files checked — **6/6**
+- E58–E63 source-check controls checked — **6/6**
+- glossary-driven English body corrections — **0**
+- protected source-form collapses — **0**
+- unsupported external glosses — **0**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–010 English body edits — **0**
+- outgoing **330→331 — PENDING direct audit**
+- Part012 leakage — **0**
+
+Exact next gate: **Part011 whole-Part English editorial review**.
+

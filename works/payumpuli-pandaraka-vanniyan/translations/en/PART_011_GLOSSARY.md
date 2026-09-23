@@ -1,6 +1,6 @@
 # Part 011 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E58–E63 SOURCE-CHECKED / ACTIVE FOR WHOLE-PART RECONCILIATION**
+Status: **WHOLE-PART RECONCILED / PASS**
 
 This glossary is derived only from verified Part011 Tamil plus frozen earlier project-English choices where the **same Tamil source form** recurs.
 
@@ -145,3 +145,23 @@ Batch-level source-checks established the following maintained handling:
 Batch-level unresolved terminology holds — **0**.
 
 These decisions are now inputs to the **whole-Part glossary reconciliation**; batch acceptance does not itself close that later gate.
+
+## Whole-Part reconciliation result
+
+**PART011 WHOLE-PART GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- maintained English files checked — **6/6**
+- source-check controls checked — **E58–E63 / 6/6**
+- English-body corrections — **0**
+- protected source-variant collapses — **0**
+- unsupported external glosses — **0**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–010 English body edits — **0**
+- Part012 leakage — **0**
+
+Durable reconciliation:
+- `PART_011_GLOSSARY_RECONCILIATION.md`
+
+Exact next gate: **Part011 whole-Part English editorial review**.
+

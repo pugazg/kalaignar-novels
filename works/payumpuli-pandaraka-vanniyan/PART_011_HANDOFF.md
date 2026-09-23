@@ -254,3 +254,18 @@ Durable record:
 Perform **Part011 whole-Part glossary reconciliation across E58–E63**.
 
 Reconcile all six maintained English files against `PART_011_GLOSSARY.md` and the verified Tamil source, record any English-only corrections explicitly, keep canonical/assembled Tamil unchanged, preserve **330→331 PENDING direct audit**, and do not begin editorial review until glossary reconciliation closes.
+
+## English glossary reconciliation checkpoint
+
+**RECONCILED / PASS**
+
+- E58–E63 — **6/6 SOURCE-CHECKED / COMPLETE**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English body corrections — **0**
+- unresolved glossary holds — **0**
+- outgoing **330→331 — PENDING direct audit**
+
+## Exact next activity
+
+Perform **Part011 whole-Part English editorial review**.
+
