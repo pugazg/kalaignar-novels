@@ -235,9 +235,23 @@ Durable Pass3 record:
 Durable audit:
 - `PART_011_AUDIT.md`
 
+## Final metadata/status synchronization checkpoint
+
+**PASS / CLOSED**
+
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- partial / source-limited / needs-review — **0 / 0 / 0**
+- canonical Tamil body changes in this gate — **0**
+- visual-fidelity promotions — **30**
+- outgoing **330→331 — PENDING direct audit**
+
+Durable record:
+- `PART_011_FINAL_STATUS_SYNC.md`
+
 ## Exact next activity
 
-Proceed with **Part011 final metadata/status synchronization** — promote only `visual_fidelity` from `needs-review` to `verified` across scans301–330.
+Proceed with **Part011 documentation synchronization**, then the **Tamil archival-ready checkpoint** before assembled Tamil construction.
 
 Rules:
 1. use direct rendered source pixels as authority;
