@@ -316,16 +316,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 011 | 8 | 308 | 300 | `முத்திரை கிழிந்தது!` continuation; ends `அவள்,` | needs-review | `pages/0308-muththirai-kizhindhathu.md` |
 | 011 | 9 | 309 | 301 | `முத்திரை கிழிந்தது!` continuation; copy-specific library mark excluded | needs-review | `pages/0309-muththirai-kizhindhathu.md` |
 | 011 | 10 | 310 | 302 | `முத்திரை கிழிந்தது!` close; substantial intentional blank lower field | needs-review | `pages/0310-muththirai-kizhindhathu.md` |
-| 011 | 11 | 311 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 12 | 312 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 13 | 313 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 14 | 314 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 15 | 315 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 16 | 316 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 17 | 317 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 18 | 318 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 19 | 319 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 20 | 320 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 11 | 311 | 303 | chapter49 opening `சூழ்ந்து வருகுது பகை!`; displayed number 49 | needs-review | `pages/0311-soozhndhu-varuguthu-pagai.md` |
+| 011 | 12 | 312 | 304 | `சூழ்ந்து வருகுது பகை!` continuation; displayed verse lineation; ends `இழிந்த` | needs-review | `pages/0312-soozhndhu-varuguthu-pagai.md` |
+| 011 | 13 | 313 | 305 | `சூழ்ந்து வருகுது பகை!` continuation; resumes `மனிதனான`; ends `கற்புத்` | needs-review | `pages/0313-soozhndhu-varuguthu-pagai.md` |
+| 011 | 14 | 314 | 306 | `சூழ்ந்து வருகுது பகை!` continuation; resumes `தெய்வம்` | needs-review | `pages/0314-soozhndhu-varuguthu-pagai.md` |
+| 011 | 15 | 315 | 307 | `சூழ்ந்து வருகுது பகை!` continuation; ends `இவற்றில்` | needs-review | `pages/0315-soozhndhu-varuguthu-pagai.md` |
+| 011 | 16 | 316 | 308 | `சூழ்ந்து வருகுது பகை!` continuation; resumes `எதையும்` | needs-review | `pages/0316-soozhndhu-varuguthu-pagai.md` |
+| 011 | 17 | 317 | 309 | `சூழ்ந்து வருகுது பகை!` close; substantial intentional blank lower field | needs-review | `pages/0317-soozhndhu-varuguthu-pagai.md` |
+| 011 | 18 | 318 | 310 | chapter50 opening `பண்டாரகன் - பகதூர்`; displayed number 50; ends `கிழித்து` | needs-review | `pages/0318-pandaaragan-pagathur.md` |
+| 011 | 19 | 319 | 311 | `பண்டாரகன் - பகதூர்` continuation; resumes `மறையும்` | needs-review | `pages/0319-pandaaragan-pagathur.md` |
+| 011 | 20 | 320 | 312 | `பண்டாரகன் - பகதூர்` continuation; ends mid-sentence/open quotation at `பண்டாரக வன்னியன்` | needs-review | `pages/0320-pandaaragan-pagathur.md` |
 | 011 | 21 | 321 | — | unclassified — direct visual audit pending | not-started | — |
 | 011 | 22 | 322 | — | unclassified — direct visual audit pending | not-started | — |
 | 011 | 23 | 323 | — | unclassified — direct visual audit pending | not-started | — |

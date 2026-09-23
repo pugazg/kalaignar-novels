@@ -21,7 +21,7 @@
 
 ## Pass1 state
 
-**IN PROGRESS — 10/30 TEXT-COMPLETE**
+**IN PROGRESS — 20/30 TEXT-COMPLETE**
 
 Batch1:
 - scans — **301–310**
@@ -43,9 +43,25 @@ Structure:
 Durable progress:
 - `PART_011_PASS1_PROGRESS.md`
 
+## Batch2 checkpoint
+
+- scans — **311–320**
+- local pages — **11–20**
+- printed pages — **303–312**
+- canonical records — **10 newly created / 20 total**
+- status — **COMPLETE / TEXT-COMPLETE**
+- textual status — **needs-review**
+- visual fidelity — **needs-review**
+- unresolved Pass1 source-reading holds — **0**
+- chapter49 `சூழ்ந்து வருகுது பகை!` — opens scan311 / closes scan317;
+- scan312 — displayed verse lineation preserved;
+- scan317 — substantial intentional blank lower field;
+- chapter50 `பண்டாரகன் - பகதூர்` — opens scan318 / continues through scan320;
+- scan320 — ends mid-sentence/open quotation at `பண்டாரக வன்னியன்`.
+
 ## Exact next activity
 
-Process **Part011 Pass1 Batch2 — scans311–320 / local pages11–20 / printed303–312**.
+Process **Part011 Pass1 Batch3 — scans321–330 / local pages21–30 / printed313–322**.
 
 Rules:
 1. use direct rendered source pixels as authority;

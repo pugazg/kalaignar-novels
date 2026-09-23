@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE**
+**PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE**
 
 Active Part:
 - Part011
@@ -16,10 +16,10 @@ Parts001–010 remain **FINAL CLOSED / FROZEN**.
 ## Current accounting
 
 - Part011 physical scans — **30**
-- canonical Part011 records present — **10/30 — scans301–310**
-- Pass1 text-complete — **10/30**
-- Pass1 pending — **20/30 — scans311–330**
-- printed-page coverage completed — **293–302**
+- canonical Part011 records present — **20/30 — scans301–320**
+- Pass1 text-complete — **20/30**
+- Pass1 pending — **10/30 — scans321–330**
+- printed-page coverage completed — **293–312**
 - unresolved Pass1 source-reading holds in completed batch — **0**
 - incoming **300→301 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **330→331 — PENDING direct audit**
@@ -33,8 +33,8 @@ Parts001–010 remain **FINAL CLOSED / FROZEN**.
 | Batch | Global scans | Local pages | Printed pages | Status |
 |---|---:|---:|---:|---|
 | 1 | 301–310 | 1–10 | 293–302 | **COMPLETE / TEXT-COMPLETE** |
-| 2 | 311–320 | 11–20 | 303–312 | **NOT STARTED / NEXT** |
-| 3 | 321–330 | 21–30 | 313–322 | **NOT STARTED** |
+| 2 | 311–320 | 11–20 | 303–312 | **COMPLETE / TEXT-COMPLETE** |
+| 3 | 321–330 | 21–30 | 313–322 | **NOT STARTED / NEXT** |
 
 ## Incoming-boundary audit
 
@@ -68,6 +68,22 @@ Audited multipart boundaries after this gate — **10 / 15**.
 - scan310 / printed302 closes chapter48 and preserves a substantial intentional blank lower field;
 - scans311–330 were not transcribed in this batch.
 
+## Batch 2 source-structure observations
+
+- scan311 / printed303 opens chapter49 `சூழ்ந்து வருகுது பகை!` with displayed number **49** and ornamental heading;
+- scans311–317 carry and close chapter49;
+- scan312 preserves the displayed verse lineation;
+- scan312 ends at `இழிந்த`; scan313 resumes at `மனிதனான`;
+- scan313 ends at `கற்புத்`; scan314 resumes at `தெய்வம்`;
+- scan315 ends at `இவற்றில்`; scan316 resumes at `எதையும்`;
+- scan317 / printed309 closes chapter49 and preserves a substantial intentional blank lower field;
+- scan318 / printed310 opens chapter50 `பண்டாரகன் - பகதூர்` with displayed number **50**;
+- scan318 ends at `கிழித்து`; scan319 resumes at `மறையும்`;
+- scan320 / printed312 ends mid-sentence/open quotation at `பண்டாரக வன்னியன்`;
+- scans321–330 were not transcribed in this batch.
+
+Batch2 source-visible forms retained without normalization include `பாதபூஜை`, `கட்டுக் காட்டிக்கொடுக்கும்`, `தலைக்குநேரே`, `நாயகிகொன்றால்`, `கண்டுகாக்கை`, `குதிரைகளில்யாரோ`, `குப்புறக்கிடந்த`, `வல்லூறு களால்`, `செய்திகேட்டு`, `அணுஅணுவாக`, `வான மென்னும்`, `படைக்கலவைப் பறி கொடுத்துப் பாவையானாள்`, and `படுக்கையறை யொன்றில்`.
+
 ## Source-form observations retained for later textual review
 
 Pass1 preserves source-visible forms without modernization, including:
@@ -92,6 +108,6 @@ Frozen Parts001–010 canonical Tamil, assembled Tamil and maintained English bo
 
 ## Exact next activity
 
-Proceed with **Part011 Pass1 batch 2 — global scans311–320 / local pages11–20**.
+Proceed with **Part011 Pass1 batch 3 — global scans321–330 / local pages21–30**.
 
 Do not begin Part011 Pass2A until Pass1 covers all **30/30** Part011 pages. Keep outgoing **330→331 PENDING direct audit**.

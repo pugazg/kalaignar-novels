@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity and global mapping are durable; direct page audit remains pending.**
+**REGISTERED — split identity and global mapping are durable; Part011 Pass1 is in progress at 20/30 TEXT-COMPLETE.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **301–330**;
@@ -44,19 +44,19 @@ The canonical `scan_page` remains the overall scan number **301–330**.
 
 Part 011 source split: **SUPPLIED / REGISTERED**.
 
-Part010 is FINAL CLOSED / FROZEN. Part011 is **ACTIVE / PASS1 AUTHORIZED** after direct source-pixel classification of **300→301 = GENUINE CONTINUATION / AUDITED / PASS**.
+Part010 is FINAL CLOSED / FROZEN. Part011 is **ACTIVE / PASS1 IN PROGRESS — 20/30 TEXT-COMPLETE** after direct source-pixel classification of **300→301 = GENUINE CONTINUATION / AUDITED / PASS**.
 
 
 ## Post-Part010 frontier
 
 - Parts001–010 — **FINAL CLOSED / FROZEN**
-- Part011 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
-- Part011 canonical records — **0**
+- Part011 — **ACTIVE / PASS1 IN PROGRESS — 20/30 TEXT-COMPLETE**
+- Part011 canonical records — **20/30 — scans301–320**
 - incoming boundary — **300→301 GENUINE CONTINUATION / AUDITED / PASS**
 - Pass1 Batch1 — **global scans301–310 / local pages1–10 — COMPLETE / TEXT-COMPLETE**
-- canonical records — **10/30**
-- Pass1 pending — **20/30 — scans311–330**
-- exact next batch — **global scans311–320 / local pages11–20**
+- canonical records — **20/30**
+- Pass1 pending — **10/30 — scans321–330**
+- exact next batch — **global scans321–330 / local pages21–30**
 - outgoing **330→331 — PENDING direct audit**
 - Part011 Pass2A — **BLOCKED UNTIL FULL-PART PASS1 COMPLETE**
 
@@ -83,4 +83,20 @@ Durable boundary record:
 Durable progress:
 - `PART_011_PASS1_PROGRESS.md`
 
-Exact next activity: **Part011 Pass1 scans311–320 / local pages11–20**.
+## Pass1 Batch2 checkpoint
+
+**PART011 PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE.**
+
+- canonical records — **20/30 — scans301–320**
+- newly completed records — **10 — scans311–320**
+- printed-page coverage — **293–312**
+- chapter49 `சூழ்ந்து வருகுது பகை!` — **scans311–317 / closes scan317**
+- scan317 substantial intentional blank lower field — **preserved**
+- chapter50 `பண்டாரகன் - பகதூர்` — **opens scan318 / continues through scan320**
+- scan320 physical page end — **mid-sentence/open quotation at `பண்டாரக வன்னியன்`**
+- unresolved Pass1 source-reading holds — **0**
+- completed records — **needs-review / needs-review**
+- outgoing **330→331 — PENDING direct audit**
+- Pass2A — **BLOCKED UNTIL 30/30 PASS1 COMPLETE**
+
+Exact next activity: **Part011 Pass1 scans321–330 / local pages21–30**.
