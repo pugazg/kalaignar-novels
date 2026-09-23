@@ -140,11 +140,28 @@ Durable Pass2B record:
 - outgoing **330→331 — PENDING direct audit**
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 
+## Pass2B Batch3 / closure checkpoint
+
+**COMPLETE / PASS — 30/30 REVIEWED**
+
+- reviewed this batch — **scans321–330**
+- visible printed pages — **313–323**
+- Batch3 additional corrections — **3**
+- Batch3 correction scans — **321, 325**
+- cumulative Pass2B corrections — **17**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- scan330 illustrated spread / printed322–323 — **RECONFIRMED**
+- outgoing **330→331 — PENDING direct audit**
+- Pass3 — **NOT STARTED / NEXT**
+
 ## Exact next activity
 
-Proceed with **Part011 Pass2B Batch3 — scans321–330 / local pages21–30 / visible printed pages313–323**.
+Proceed with **Part011 Pass3 Batch1 — scans301–310** for direct full-page visual / structural verification.
 
-Process **exactly 10 source pages**. Keep **330→331 PENDING direct audit**. Do not begin Pass3.
+Process **exactly 10 source pages**. Keep **330→331 PENDING direct audit**. Do not begin Part audit.
 
 Rules:
 1. use direct rendered source pixels as authority;

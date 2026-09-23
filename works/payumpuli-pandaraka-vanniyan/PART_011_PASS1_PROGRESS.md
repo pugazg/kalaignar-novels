@@ -102,7 +102,7 @@ Batch2 source-visible forms retained without normalization include `பாதப
 - therefore full Part011 Pass1 printed-page coverage is **293–323**, not the stale planned endpoint 322;
 - outgoing **330→331 remains PENDING direct audit**.
 
-Batch3 source-visible forms retained without modernization include `உத்தம புத்திரன்`, `அறை கூவல்`, `அட்சய`, `சிபாரிசு`, `பிலிமதளாவைதான்`, `மெளனம்`, `கூடுவிட்டுக் கூடுபாய்ந்து`, `தளுக்குக்காரிகள்`, `பலகீனத்தைப்`, `விபரங்களையும்`, `நாலுகாவலர்கள்`, `மூச்சுவாங்க`, `பண்டாரகன் வைரமுத்துவும்`, `கண்டி ராஜயத்துக்`, and `கண்டாலேபோதும்`.
+Batch3 source-visible forms retained without modernization include `உத்தம புத்திரன்`, `அறை கூவல்`, `அட்சய`, `சிபாரிசு`, `பிலிமதளாவைதான்`, `மெளனம்`, `கூடுவிட்டுக் கூடு பாய்ந்து`, `தளுக்குக்காரிகள்`, `பலகீனத்தைப்`, `விபரங்களையும்`, `நாலுகாவலர்கள்`, `மூச்சுவாங்க`, `பண்டாரகன் வைரமுத்துவும்`, `கண்டி ராஜ்யத்துக்`, and `கண்டாலேபோதும்`.
 
 ## Source-form observations retained for later textual review
 
@@ -145,10 +145,10 @@ Part011 Pass2A is **COMPLETE / PASS — 30/30 REVIEWED**.
 - outgoing **330→331 — PENDING direct audit**
 - frozen Parts001–010 body mutations — **0**
 - durable Pass2A record — `PART_011_PASS2A_PROGRESS.md`
-- Pass2B — **IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
-- Pass2B cumulative corrections — **14**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass2B cumulative corrections — **17**
 - Pass2B historical-glyph corrections — **0**
 - Pass2B unresolved lexical / historical-glyph questions — **0**
-- exact next — **Pass2B Batch3 scans321–330 / exactly 10 source pages**
+- exact next — **Pass3 Batch1 scans301–310 / exactly 10 source pages**
 
-Do not begin Pass3. Keep outgoing **330→331 PENDING direct audit**.
+Keep outgoing **330→331 PENDING direct audit**. Do not begin Part audit.

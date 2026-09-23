@@ -906,12 +906,16 @@ Exact next activity: directly audit **300→301**; if usable, begin **Part011 Pa
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - frozen Parts001–010 canonical / assembled / English body mutations — **0**
-- Pass2B — **NOT STARTED / NEXT GATE**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass2B cumulative corrections — **17**
+- Pass2B historical-glyph corrections — **0**
+- unresolved Pass2B lexical / historical-glyph questions — **0**
 
-Durable Pass2A record:
+Durable records:
 - `PART_011_PASS2A_PROGRESS.md`
+- `PART_011_PASS2B_PROGRESS.md`
 
-Exact next activity: **Part011 Pass2B — independent historical-glyph / lexical / word-boundary / punctuation-sensitive fidelity review of scans301–330**.
+Exact next activity: **Part011 Pass3 Batch1 — direct full-page visual / structural verification of scans301–310**.
 
-Do not begin Pass3 in the same activity. Keep **330→331 PENDING direct audit**.
+Follow the user's **10 source pages per iteration** cadence. Keep **330→331 PENDING direct audit**.
 

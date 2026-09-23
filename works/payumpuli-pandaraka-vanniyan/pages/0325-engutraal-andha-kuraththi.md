@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf"
-transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans321–330; formal Part011 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans321–330; formal Part011 Pass 2A reviewed; formal Part011 Pass 2B reviewed"
 ---
 
 # எங்குற்றாள் அந்தக் குறத்தி?
@@ -45,7 +45,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 
 “தெரியும்! அவள்தான் செத்துப் போய்விட்டாளே!”
 
-“செத்துப் போனவளின் ஆவிதான் கூடுவிட்டுக் கூடுபாய்ந்து ஜெயசீலன் உருவத்தில் உலவுகிறதோ?”
+“செத்துப் போனவளின் ஆவிதான் கூடுவிட்டுக் கூடு பாய்ந்து ஜெயசீலன் உருவத்தில் உலவுகிறதோ?”
 
 “அம்மா! நீங்கள் என்ன சொல்கிறீர்கள் என்றே எனக்குப் புரியவில்லை.”
 
@@ -53,7 +53,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 
 - chapter51 continuation
 - printed page 317 directly visible
-- source-visible `பிலிமதளாவைதான்`, `பிலிமதளாவையின்`, `பியசீலி`, and joined `கூடுபாய்ந்து` retained
+- source-visible `பிலிமதளாவைதான்`, `பிலிமதளாவையின்`, `பியசீலி`, and `கூடு பாய்ந்து` retained after Pass2B source check
 - chapter continues beyond this page
 
 
@@ -68,4 +68,17 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 - `visual_fidelity` remains **needs-review** pending later visual gates;
 - Pass 2B historical-glyph / lexical / word-boundary review remains the next gate.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 325; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 317; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+## Formal Part011 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part011 source pixels;
+- source-visible lexical forms, compounds, joins and punctuation were preserved without modernization or normalization;
+- reform-sensitive historical-glyph forms were checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 325; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 317; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->

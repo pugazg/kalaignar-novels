@@ -164,3 +164,24 @@ Part011 Pass2B is **IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**.
 
 Exact next activity: **Part011 Pass2B Batch3 — scans321–330**. Process exactly **10 source pages**.
 
+## Post-Pass2B final current state
+
+Part011 Pass2B is **COMPLETE / PASS — 30/30 REVIEWED**.
+
+- fixed review cadence — **10 source pages per iteration**
+- Batch1 — **scans301–310 / COMPLETE**
+- Batch2 — **scans311–320 / COMPLETE**
+- Batch3 — **scans321–330 / COMPLETE**
+- Batch3 additional corrections — **3**
+- cumulative Pass2B corrections — **17**
+- Batch3 correction scans — **321, 325**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **330→331 — PENDING direct audit**
+- Pass3 — **NOT STARTED / NEXT GATE**
+- durable progress — `PART_011_PASS2B_PROGRESS.md`
+
+Exact next activity: **Part011 Pass3 Batch1 — scans301–310**, exactly **10 source pages**.
+
