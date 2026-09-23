@@ -6,11 +6,11 @@ printed_page: 294
 work: "payumpuli-pandaraka-vanniyan"
 section: "தலையாழி மாற்றிக் கொண்டனர்"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf"
-transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans301–310"
+transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans301–310; formal Part011 Pass 2A reviewed"
 ---
 
 # தலையாழி மாற்றிக் கொண்டனர்
@@ -40,4 +40,16 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 - printed page 294 directly visible
 - page closes on narration; chapter47 continues to scan303
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 302; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: 294; PASS 1 TEXT-COMPLETE / textual-review-pending / visual-review-pending -->
+
+## Formal Part011 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part011 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph and dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-text corrections in Pass 2A: **0**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates;
+- Pass 2B historical-glyph / lexical / word-boundary review remains the next gate.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 302; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: 294; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->

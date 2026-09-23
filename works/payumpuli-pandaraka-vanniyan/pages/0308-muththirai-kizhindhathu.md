@@ -6,11 +6,11 @@ printed_page: 300
 work: "payumpuli-pandaraka-vanniyan"
 section: "முத்திரை கிழிந்தது!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf"
-transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans301–310"
+transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans301–310; formal Part011 Pass 2A reviewed"
 ---
 
 # முத்திரை கிழிந்தது!
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 
 செயல்பட்ட காக்கை வன்னியன், குதிரையை இன்னும் வேகமாக விரட்டுமாறு அவளை விரட்டினான்.
 
-நல்லநாச்சியாருக்கோ இவ்வளவு குழப்பத்திற்கிடையேயும் அவளது இதயத்தில் அவனுக்கு அளித்து விட்ட இடத்தை விட்டு அகற்றிட முடியவில்லை! அவளது கேள்வியெல்லாம், இந்தப் பெருவணிகனுக்கு தணிகைமலையிடம் எதற்காக விரோதம் என்பதுதான்! விர்ரென்று அம்பு போலப் போய்க் கொண்டிருக்கும் அந்த வேகத்திலேகூட அவள், அவனிடம் கேட்டாள், “கண்ணகி கோயில் வாசலில் நடக்கும் போர் இந்நேரம் முடிந்திருக்குமா? காக்கை வன்னியன் படை தோற்றிருக்குமா?” என்று!
+நல்லநாச்சியாருக்கோ இவ்வளவு குழப்பத்திற்கிடையிலேயும் அவளது இதயத்தில் அவனுக்கு அளித்து விட்ட இடத்தை விட்டு அகற்றிட முடியவில்லை! அவளது கேள்வியெல்லாம், இந்தப் பெருவணிகனுக்கு தணிகைமலையிடம் எதற்காக விரோதம் என்பதுதான்! விர்ரென்று அம்பு போலப் போய்க் கொண்டிருக்கும் அந்த வேகத்திலேகூட அவள், அவனிடம் கேட்டாள், “கண்ணகி கோயில் வாசலில் நடக்கும் போர் இந்நேரம் முடிந்திருக்குமா? காக்கை வன்னியன் படை தோற்றிருக்குமா?” என்று!
 
 “காக்கை வன்னியனாவது - கழுகு வன்னியனாவது! எந்தப் படையும் பண்டாரக வன்னியனின் படைக்கு முன்னால் பஞ்சு பஞ்சாகப் போகும்! பயப்படாமல் குதிரையை விரட்டு!”
 
@@ -45,4 +45,16 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 - source-visible `விர்ரென்று`, `பகை உள்ளத் திலும்`, and `எண்ணிக்களித்தாள்` retained
 - page ends at `அவள்,`; scan309 resumes
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 308; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: 300; PASS 1 TEXT-COMPLETE / textual-review-pending / visual-review-pending -->
+
+## Formal Part011 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part011 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph and dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates;
+- Pass 2B historical-glyph / lexical / word-boundary review remains the next gate.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 308; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: 300; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->

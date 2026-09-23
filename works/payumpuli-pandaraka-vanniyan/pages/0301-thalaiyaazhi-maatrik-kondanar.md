@@ -6,11 +6,11 @@ printed_page: 293
 work: "payumpuli-pandaraka-vanniyan"
 section: "தலையாழி மாற்றிக் கொண்டனர்"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf"
-transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans301–310"
+transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans301–310; formal Part011 Pass 2A reviewed"
 ---
 
 # தலையாழி மாற்றிக் கொண்டனர்
@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 
 வீரர்கள், தணிகைமலையை இழுத்துக்கொண்டு வெளியே வந்தனர். புதர்களுக்குமுன்னே அணிவகுத்திருந்த பக்தர்கள் பதறிப்போனார்கள். அப்போது தணிகைமலை தனது கையை உயர்த்தி ஏதோ சைகை காட்டினான். அந்த சைகைக்கு அமைதியாய் இருக்க வேண்டுமென்று அர்த்தம். எனவே அமைதி நிலவியது. புதர்களுக்குப் பின்னால் ஒளிந்திருந்த காக்கை வன்னியன் வீரர்கள் முதல் வெற்றி கிடைத்த களிப்பில் முழங்கிக் குதித்தனர். அவர்களின் ஆரவாரத்தை அந்த தளகர்த்தன் அடக்கி வைத்தான்.
 
-இப்போது மீண்டும் ஒரு குதிரை வரும் ஓசை! முன் போல அல்ல! மிக வேகமாக வந்து ஆலய வாசலில் நின்றது அந்தக் குதிரை! குதிரையிலிருந்து குதித்த நல்லநாச்சியாருக்கு சற்று முற்றும் பார்க்கக்கூட சிந்தனையில்லை! ஆலயத்துக்குள்ளிருக்கும் தனது காதலன் பிரமானந்தனைக் காணவேண்டும் - அதுவும் உயிரோடு காணவேண்டும் என்ற துடிப்புடன் உள்ளே ஓடினாள். தடுமாறிக் கீழே விழும் அளவுக்கு ஓடினாள். விழுந்தெழுந்து வீறிட்டலறிக் கொண்டு உள்ளே ஓடியவளின் முன்பாக ஆழ்ந்த தியானத்தில் அமர்ந்திருந்தான் காக்கை வன்னியன்.
+இப்போது மீண்டும் ஒரு குதிரை வரும் ஓசை! முன் போல அல்ல! மிக வேகமாக வந்து ஆலய வாசலில் நின்றது அந்தக் குதிரை! குதிரையிலிருந்து குதித்த நல்லநாச்சியாருக்கு சுற்றும் முற்றும் பார்க்கக்கூட சிந்தனையில்லை! ஆலயத்துக்குள்ளிருக்கும் தனது காதலன் பிரமானந்தனைக் காணவேண்டும் - அதுவும் உயிரோடு காணவேண்டும் என்ற துடிப்புடன் உள்ளே ஓடினாள். தடுமாறிக் கீழே விழும் அளவுக்கு ஓடினாள். விழுந்தெழுந்து வீறிட்டலறிக் கொண்டு உள்ளே ஓடியவளின் முன்பாக ஆழ்ந்த தியானத்தில் அமர்ந்திருந்தான் காக்கை வன்னியன்.
 
 “என்னங்க! என்னங்க! ஏன் இப்படிச் செய்கிறீர்கள்? தயவு
 
@@ -37,4 +37,16 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 - page ends mid-dialogue at `தயவு`; scan302 resumes
 - no frozen Part010 wording imported into canonical body
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 301; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 293; PASS 1 TEXT-COMPLETE / textual-review-pending / visual-review-pending -->
+
+## Formal Part011 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part011 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph and dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates;
+- Pass 2B historical-glyph / lexical / word-boundary review remains the next gate.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 301; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 293; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
