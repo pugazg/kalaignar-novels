@@ -1,6 +1,6 @@
 # Part 011 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING/SETUP COMPLETE / ACTIVE FOR E58–E63**
+Status: **E58–E63 SOURCE-CHECKED / ACTIVE FOR WHOLE-PART RECONCILIATION**
 
 This glossary is derived only from verified Part011 Tamil plus frozen earlier project-English choices where the **same Tamil source form** recurs.
 
@@ -102,4 +102,46 @@ This glossary becomes a source-check control, not an authority over Tamil.
 
 ## Exact next gate
 
-**E58 draft + source-check — section61 / scans301–303.**
+Perform **Part011 whole-Part glossary reconciliation across E58–E63**.
+
+## E58–E63 source-check additions
+
+Batch-level source-checks established the following maintained handling:
+
+### Chapter titles
+
+| Tamil source | Maintained English after batch source-check |
+|---|---|
+| `தலையாழி மாற்றிக் கொண்டனர்` | **They Exchanged the Thalaiyaazhi** |
+| `முத்திரை கிழிந்தது!` | **The Seal Was Torn!** |
+| `சூழ்ந்து வருகுது பகை!` | **The Enemy Is Closing In!** |
+| `பண்டாரகன் - பகதூர்` | **Pandarakan — Pagathur** |
+| `எங்குற்றாள் அந்தக் குறத்தி?` | **Where Did That Kurathi Go?** |
+| `மயங்குகிறாள் ஒரு மாது!` | **A Woman Swoons!** |
+
+### Source-form decisions
+
+- `தலையாழி` — **Thalaiyaazhi**, inherited from E57 and retained;
+- body `கணையாழி` in E58 — contextual **ring / rings**;
+- `பிர்மானந்தன்` — **Pirmanandan**, occurrence-sensitive Part011 form;
+- `பியசீலி` — **Piyaseeli**, occurrence-sensitive Part011 form;
+- `பிலிமதளாவை` family — inherited maintained **Pilimathala**;
+- `பகதூர்` — **Pagathur**, source-facing; external title/office identification — **0**;
+- `குறத்தி` — **Kurathi**;
+- `அத்தர் - புனுகு - சவ்வாது` — **attar / punugu / javvadu**, source-facing.
+
+### Structural / attribution decisions
+
+- E58 preserves incoming **300→301 GENUINE CONTINUATION / AUDITED / PASS** without changing frozen E57;
+- E60 scan312 poem uses only verified Tamil wording and preserves displayed lineation;
+- political, ethnic, moralizing, violent and sexual language remains narrator/character-attributed source content;
+- E61 character accusations and counter-accusations are not converted into translator conclusions;
+- E63 preserves scan330 printed **322→323** order;
+- scan330 illustration creates invented English caption/body — **0**;
+- E63 ends open at **“even without needing Kama's arrow—”** to preserve the verified terminal source state;
+- outgoing **330→331 — PENDING direct audit**;
+- Part012 semantic completion — **0**.
+
+Batch-level unresolved terminology holds — **0**.
+
+These decisions are now inputs to the **whole-Part glossary reconciliation**; batch acceptance does not itself close that later gate.

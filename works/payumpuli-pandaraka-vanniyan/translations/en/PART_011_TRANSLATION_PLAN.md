@@ -1,6 +1,6 @@
 # Part 011 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING/SETUP COMPLETE / PASS**
+Status: **E58–E63 SOURCE-CHECKED / COMPLETE — WHOLE-PART REVIEW PENDING**
 
 This is the control plan for the project-created English translation of **Part011 only**.
 
@@ -208,6 +208,36 @@ After E63:
 
 ## Exact next gate
 
-**E58 draft + source-check — section61 / scans301–303.**
+Perform **Part011 whole-Part glossary reconciliation across E58–E63**.
 
-Do not begin E59 until E58 closes **SOURCE-CHECKED / COMPLETE**.
+Do not begin whole-Part editorial review until glossary reconciliation closes.
+
+## E58–E63 batch-level translation closure
+
+**PART011 ENGLISH BATCHES — 6/6 SOURCE-CHECKED / COMPLETE.**
+
+| Batch | English file | Scans | Result |
+|---|---|---:|---|
+| E58 | `sections/61-they-exchanged-the-thalaiyaazhi-part011.md` | 301–303 | **SOURCE-CHECKED / COMPLETE** |
+| E59 | `sections/62-the-seal-was-torn.md` | 304–310 | **SOURCE-CHECKED / COMPLETE** |
+| E60 | `sections/63-the-enemy-is-closing-in.md` | 311–317 | **SOURCE-CHECKED / COMPLETE** |
+| E61 | `sections/64-pandarakan-pagathur.md` | 318–323 | **SOURCE-CHECKED / COMPLETE** |
+| E62 | `sections/65-where-did-that-kurathi-go.md` | 324–328 | **SOURCE-CHECKED / COMPLETE** |
+| E63 | `sections/66-a-woman-swoons.md` | 329–330 | **SOURCE-CHECKED / COMPLETE** |
+
+Batch-level closure:
+- physical scans translated/source-checked — **301–330 / 30**
+- maintained English files — **6/6**
+- source-check records — **E58–E63 / 6**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits caused by English batches — **0 / 0**
+- frozen Parts001–010 English body edits — **0**
+- scan312 poem — **translated only from verified Tamil**
+- scan330 illustration — **no invented caption/body**
+- outgoing **330→331 — PENDING direct audit**
+- Part012 wording/semantic completion — **0**
+- unresolved batch-level source-check holds — **0**
+
+Exact next gate: **Part011 whole-Part glossary reconciliation across E58–E63**.
+
+Do not begin whole-Part editorial review until glossary reconciliation closes.

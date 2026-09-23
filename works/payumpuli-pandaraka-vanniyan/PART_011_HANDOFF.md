@@ -251,6 +251,6 @@ Durable record:
 
 ## Exact next activity
 
-Proceed with **E58 draft + source-check — section61 / scans301–303**.
+Perform **Part011 whole-Part glossary reconciliation across E58–E63**.
 
-Use verified Part011 assembled Tamil as the immediate translation authority, preserve the incoming 300→301 continuation discipline, keep frozen E57 / Part010 English unchanged, and do not begin E59 until E58 is **SOURCE-CHECKED / COMPLETE**.
+Reconcile all six maintained English files against `PART_011_GLOSSARY.md` and the verified Tamil source, record any English-only corrections explicitly, keep canonical/assembled Tamil unchanged, preserve **330→331 PENDING direct audit**, and do not begin editorial review until glossary reconciliation closes.

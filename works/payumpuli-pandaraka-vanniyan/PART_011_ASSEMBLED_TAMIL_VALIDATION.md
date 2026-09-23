@@ -158,3 +158,21 @@ Active controls:
 Exact next gate: **E58 draft + source-check — section61 / scans301–303**.
 
 Do not begin E59 until E58 is **SOURCE-CHECKED / COMPLETE**.
+
+## Part011 English E58–E63 checkpoint
+
+**E58–E63 — 6/6 SOURCE-CHECKED / COMPLETE.**
+
+- scans covered — **301–330 / 30**
+- maintained English files — **6/6**
+- source-check controls — **E58–E63 / 6**
+- translated / source-checked — **6/6 / 6/6**
+- unresolved batch-level English holds — **0**
+- canonical / assembled Tamil edits caused by English work — **0 / 0**
+- frozen Parts001–010 English body edits — **0**
+- incoming **300→301 — GENUINE CONTINUATION / AUDITED / PASS**
+- scan312 poem — **source-derived only**
+- scan330 illustrated spread — **322→323 order preserved / no invented caption**
+- outgoing **330→331 — PENDING direct audit**
+- Part012 leakage / semantic completion — **0**
+- exact next gate — **Part011 whole-Part glossary reconciliation across E58–E63**
