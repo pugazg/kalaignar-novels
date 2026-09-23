@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf"
-transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans301–310; formal Part011 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans301–310; formal Part011 Pass 2A reviewed; formal Part011 Pass 2B reviewed"
 ---
 
 # முத்திரை கிழிந்தது!
@@ -23,9 +23,9 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 
 போர்முனையில் தனது வாள் முனையில் ஒரு கண்ணும், நல்லநாச்சியைக் காக்கை வன்னியன் எங்கே கொண்டு போகிறான் என்பதை அறிவதில் ஒரு கண்ணுமாக இருந்த அவன், காக்கை வன்னியனின் தளபதியுடன் கடும்போரிட்டு அவன் உயிரற்ற உடலைத் தனது காலால் எட்டி உதைத்து வீசி எறிந்தவாறு - தனது குதிரையில் பாய்ந்து ஏறினான் குருதி வழியும் வாளை சுழற்றிக் கொண்டே!
 
-அதற்குள்ளாக காக்கை வன்னியனும் நல்லநாச்சியும் குதிரையில் ஏறிக் கிளம்பிவிட்டனர். நல்லநாச்சியின் குதிரையை அவள்தானே ஓட்ட முடியும். அவளோடு அந்தக் குதிரையில் ஒட்டிக் கொண்டு உட்கார்ந்து சென்றான் காக்கை வன்னியன். அவளுக்கு இன்னமும் அவன் பிரமானந்தன் தான்!
+அதற்குள்ளாக காக்கை வன்னியனும் நல்லநாச்சியும் குதிரையில் ஏறிக் கிளம்பிவிட்டனர். நல்லநாச்சியின் குதிரையை அவள்தானே ஓட்ட முடியும். அவளோடு அந்தக் குதிரையில் ஒட்டிக் கொண்டு உட்கார்ந்து சென்றான் காக்கை வன்னியன். அவளுக்கு இன்னமும் அவன் பிர்மானந்தன் தான்!
 
-எனினும் ஒரு சந்தேகம் - தனது காதலன் பிரமானந்தன் ஒரு வணிகன்! அவனுக்கு ஏன் இந்த வேண்டாத வேலை! எதற்காக அவன் தணிகைமலையைக் கொடி மரத்தில் கட்டிப்போட வேண்டும்? விடை கிடைக்காத வினாக்குறியுடன் குதிரையை வேகமாகச் செலுத்தினாள்.
+எனினும் ஒரு சந்தேகம் - தனது காதலன் பிர்மானந்தன் ஒரு வணிகன்! அவனுக்கு ஏன் இந்த வேண்டாத வேலை! எதற்காக அவன் தணிகைமலையைக் கொடி மரத்தில் கட்டிப்போட வேண்டும்? விடை கிடைக்காத வினாக்குறியுடன் குதிரையை வேகமாகச் செலுத்தினாள்.
 
 “எங்கே போகிறாய் என் தங்கமே!”
 
@@ -51,4 +51,17 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 - `visual_fidelity` remains **needs-review** pending later visual gates;
 - Pass 2B historical-glyph / lexical / word-boundary review remains the next gate.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 306; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 6; அச்சுப் பக்கம்: 298; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+## Formal Part011 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part011 source pixels;
+- source-visible lexical forms and joins were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **2**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 306; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 6; அச்சுப் பக்கம்: 298; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->

@@ -121,3 +121,25 @@ Perform **Part011 Pass2B — independent historical-glyph / lexical / word-bound
 Do not begin Pass3 in the same activity.
 
 Keep outgoing **330→331 PENDING direct audit**.
+
+## Post-Pass2B Batch1 current state
+
+Part011 Pass2B is **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**.
+
+- fixed Pass2B iteration rule — **10 source pages per iteration**
+- Batch1 — **scans301–310 / COMPLETE**
+- Batch2 — **scans311–320 / NEXT**
+- Batch3 — **scans321–330 / PENDING**
+- additional Pass2B corrections — **10**
+- correction scans — **301, 302, 303, 304, 306, 307, 309**
+- source form restored — `பிரமானந்த...` → **`பிர்மானந்த...`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **330→331 — PENDING direct audit**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- durable progress — `PART_011_PASS2B_PROGRESS.md`
+
+Exact next activity: **Part011 Pass2B Batch2 — scans311–320**. Process exactly **10 source pages**.
+

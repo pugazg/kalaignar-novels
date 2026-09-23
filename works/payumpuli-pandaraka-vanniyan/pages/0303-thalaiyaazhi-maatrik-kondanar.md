@@ -10,14 +10,14 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf"
-transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans301–310; formal Part011 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans301–310; formal Part011 Pass 2A reviewed; formal Part011 Pass 2B reviewed"
 ---
 
 # தலையாழி மாற்றிக் கொண்டனர்
 
 ## Source transcription
 
-“தாயே! கண்ணகியம்மா! நல்ல நாச்சியை உயிர்க்குயிராக நேசித்த இந்த பிரமானந்தன், இதோ உன் பாதாரவிந்தங்களில் பிணமாக விழப்போகிறேன்! என்னை ஏற்றுக் கொள்!”
+“தாயே! கண்ணகியம்மா! நல்ல நாச்சியை உயிர்க்குயிராக நேசித்த இந்த பிர்மானந்தன், இதோ உன் பாதாரவிந்தங்களில் பிணமாக விழப்போகிறேன்! என்னை ஏற்றுக் கொள்!”
 
 கட்டாரியைக் கையில் எடுத்து மார்பில் குத்திக் கொள்ள மேலே ஓங்கிவிட்டான். நடிப்பு என்றுணராத நல்லநாச்சியார், திடுமென அவன் மீது பாய்ந்து அந்தக் கட்டாரியைப் பிடுங்கிக் கொண்டாள்.
 
@@ -39,7 +39,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 
 “அதோ பார்த்தாயா, ஒரு முட்டாள் என்னுடன் மோத வந்தான்! அடிபட்டுக் கிடக்கிறான்.”
 
-என்று கொடி மரத்தின் பக்கம் விரலை நீட்டிக் காட்டினான் நல்லநாச்சியின் காதலன் பிரமானந்தன்! அதாவது காக்கை வன்னியன்!
+என்று கொடி மரத்தின் பக்கம் விரலை நீட்டிக் காட்டினான் நல்லநாச்சியின் காதலன் பிர்மானந்தன்! அதாவது காக்கை வன்னியன்!
 
 ## Pass 1 notes
 
@@ -60,4 +60,17 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 - `visual_fidelity` remains **needs-review** pending later visual gates;
 - Pass 2B historical-glyph / lexical / word-boundary review remains the next gate.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 303; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 295; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+## Formal Part011 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part011 source pixels;
+- source-visible lexical forms and joins were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **2**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 303; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 295; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->

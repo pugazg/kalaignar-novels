@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity/global mapping are durable; Part011 Pass2A is COMPLETE / PASS at 30/30 REVIEWED.**
+**REGISTERED — split identity/global mapping are durable; Part011 Pass2B is IN PROGRESS / Batch1 complete at 10/30 REVIEWED.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **301–330**;
@@ -44,13 +44,13 @@ The canonical `scan_page` remains the overall scan number **301–330**.
 
 Part 011 source split: **SUPPLIED / REGISTERED**.
 
-Part010 is FINAL CLOSED / FROZEN. Part011 is **ACTIVE / PASS2A COMPLETE / PASS — 30/30 REVIEWED** after Pass1 completed 30/30 and direct source-pixel textual verification closed Pass2A.
+Part010 is FINAL CLOSED / FROZEN. Part011 is **ACTIVE / PASS2B IN PROGRESS — 10/30 REVIEWED** after Pass2A completed 30/30.
 
 
 ## Post-Part010 frontier
 
 - Parts001–010 — **FINAL CLOSED / FROZEN**
-- Part011 — **ACTIVE / PASS2A COMPLETE / PASS — 30/30 REVIEWED**
+- Part011 — **ACTIVE / PASS2B IN PROGRESS — BATCH 1 COMPLETE — 10/30 REVIEWED**
 - Part011 canonical records — **30/30 — scans301–330**
 - incoming boundary — **300→301 GENUINE CONTINUATION / AUDITED / PASS**
 - Pass1 Batch1 — **scans301–310 — COMPLETE / TEXT-COMPLETE**
@@ -63,7 +63,9 @@ Part010 is FINAL CLOSED / FROZEN. Part011 is **ACTIVE / PASS2A COMPLETE / PASS �
 - Part011 Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 14 corrections**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
-- Part011 Pass2B — **NOT STARTED / NEXT**
+- Part011 Pass2B — **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+- fixed Pass2B iteration rule — **10 source pages per iteration**
+- Pass2B Batch2 — **scans311–320 / NEXT**
 
 
 Durable boundary record:
@@ -143,3 +145,22 @@ Durable record:
 - `PART_011_PASS2A_PROGRESS.md`
 
 Exact next activity: **Part011 Pass2B — independent historical-glyph / lexical / word-boundary / punctuation-sensitive fidelity review of scans301–330**.
+
+## Pass2B Batch1 checkpoint
+
+**PART011 PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- iteration size — **10 source pages**
+- reviewed — **scans301–310 / printed293–302**
+- additional corrections — **10**
+- correction scans — **301, 302, 303, 304, 306, 307, 309**
+- repeated source lexical/name form restored — **`பிர்மானந்த...`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **330→331 — PENDING direct audit**
+- Pass3 — **NOT STARTED**
+
+Exact next activity: **Part011 Pass2B Batch2 — scans311–320**. Process exactly **10 source pages**.
+

@@ -97,11 +97,38 @@ Durable progress:
 Durable Pass2A record:
 - `PART_011_PASS2A_PROGRESS.md`
 
+## Pass2B fixed iteration rule
+
+- **10 source pages per iteration**
+- Batch1 — scans301–310
+- Batch2 — scans311–320
+- Batch3 — scans321–330
+- do not exceed 10 source pages in a Pass2B iteration unless the user explicitly overrides this rule
+
+## Pass2B Batch1 checkpoint
+
+**IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+
+- reviewed scans — **301–310**
+- printed pages — **293–302**
+- additional Pass2B corrections — **10**
+- correction scans — **301, 302, 303, 304, 306, 307, 309**
+- correction class — source lexical/name-form fidelity: `பிரமானந்த...` → **`பிர்மானந்த...`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **330→331 — PENDING direct audit**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+
+Durable Pass2B record:
+- `PART_011_PASS2B_PROGRESS.md`
+
 ## Exact next activity
 
-Proceed with **Part011 Pass2B — independent historical-glyph / lexical / word-boundary / punctuation-sensitive fidelity review of scans301–330**.
+Proceed with **Part011 Pass2B Batch2 — scans311–320 / local pages11–20 / printed303–312**.
 
-Keep **330→331 PENDING direct audit**. Do not begin Pass3 in the same activity.
+Process **exactly 10 source pages** in the next iteration. Keep **330→331 PENDING direct audit**. Do not begin Pass3.
 
 Rules:
 1. use direct rendered source pixels as authority;
