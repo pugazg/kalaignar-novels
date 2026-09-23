@@ -675,3 +675,21 @@ Do not begin E59 until E58 is **SOURCE-CHECKED / COMPLETE**.
 - outgoing **330→331 — PENDING direct audit**
 - Part012 body leakage — **0**
 - exact next gate — **Part011 final closure**
+
+## Part011 final closure / Part012 frontier
+
+**PART011 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- Part011 canonical Tamil — **30/30 verified / frozen**
+- assembled Tamil — **6/6 VERIFIED / frozen**
+- E58–E63 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary / editorial / bilingual / release / release-ready sync — **PASS / PASS / PASS / PASS / PASS**
+- unresolved Part011 blockers — **0**
+- incoming **300→301 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **330→331 — PENDING direct audit**
+- Part012 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part012 scans — **331–360**
+- Part012 canonical records — **0**
+
+Exact next activity: audit **330→331**; if usable, begin **Part012 Pass1 scans331–340**.
