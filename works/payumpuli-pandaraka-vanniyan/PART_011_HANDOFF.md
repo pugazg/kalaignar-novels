@@ -251,63 +251,6 @@ Durable record:
 
 ## Exact next activity
 
-Perform **Part011 whole-Part glossary reconciliation across E58–E63**.
+Create and verify **Part011 final closure** in `PART_011_FINAL_CLOSURE.md`.
 
-Reconcile all six maintained English files against `PART_011_GLOSSARY.md` and the verified Tamil source, record any English-only corrections explicitly, keep canonical/assembled Tamil unchanged, preserve **330→331 PENDING direct audit**, and do not begin editorial review until glossary reconciliation closes.
-
-## English glossary reconciliation checkpoint
-
-**RECONCILED / PASS**
-
-- E58–E63 — **6/6 SOURCE-CHECKED / COMPLETE**
-- whole-Part glossary reconciliation — **RECONCILED / PASS**
-- English body corrections — **0**
-- unresolved glossary holds — **0**
-- outgoing **330→331 — PENDING direct audit**
-
-## Exact next activity
-
-Perform **Part011 whole-Part English editorial review**.
-
-## English editorial review checkpoint
-
-**PASS / CLOSED**
-
-- files reviewed — **6/6**
-- additional English body corrections — **0**
-- unresolved editorial holds — **0**
-- outgoing **330→331 — PENDING direct audit**
-
-## Exact next activity
-
-Perform **Part011 whole-Part bilingual review**.
-
-## Bilingual review checkpoint
-
-**PASS / CLOSED**
-
-- pairs reviewed — **6/6**
-- canonical coverage — **30/30**
-- bilingual corrections — **0**
-- unresolved bilingual / Tamil-fidelity holds — **0 / 0**
-- outgoing **330→331 — PENDING direct audit**
-
-## Exact next activity
-
-Perform **Part011 release/readiness review**.
-
-## Release/readiness checkpoint
-
-**PASS / CLOSED**
-
-- Tamil — **30/30 verified**
-- assembled Tamil — **6/6 VERIFIED / CLOSED**
-- English E58–E63 — **6/6 SOURCE-CHECKED / COMPLETE**
-- glossary / editorial / bilingual — **PASS / PASS / PASS**
-- unresolved blockers — **0**
-- outgoing **330→331 — PENDING direct audit**
-
-## Exact next activity
-
-Perform **Part011 release-ready synchronization**.
-
+Do not begin Part012 canonical work until final closure passes. Preserve outgoing **330→331 PENDING direct audit**.
