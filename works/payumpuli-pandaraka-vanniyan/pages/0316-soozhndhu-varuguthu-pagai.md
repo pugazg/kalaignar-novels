@@ -6,11 +6,11 @@ printed_page: 308
 work: "payumpuli-pandaraka-vanniyan"
 section: "சூழ்ந்து வருகுது பகை!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf"
-transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans311–320"
+transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans311–320; formal Part011 Pass 2A reviewed"
 ---
 
 # சூழ்ந்து வருகுது பகை!
@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 
 வேறு வழி தெரியாத காக்கை வன்னியன், நல்லநாச்சியின் வாள் முனைக்குத் தப்புவதற்காக அவளை நோக்கி சாஷ்டாங்கமாகத் தெண்டனிட்டு, “தாயே! என்னைக் காப்பாற்று!” எனத் தரையில் குப்புற விழுந்தான். நல்லநாச்சியாருக்கு இரக்கம் துளியும் ஏற்படவில்லை. ஆனால் குப்புற வீழ்ந்து கிடக்கும் அவன் முதுகில் குத்த அவள் விரும்பவில்லை.
 
-“கபட நாடகமாடியே! எழுந்திரு! நீ சாகத்தான் வேண்டும்! சாகும் நேரத்தில் உனக்கு ஒரு சலுகை வழங்குகிறேன், நெஞ்சில் வாள் தாங்கிச் செத்துப் போ! அந்த ஒரு பெயர் உன் துரோக வாழ்க்கைக்குப் பரிகாரமாக அமையட்டும்! உம், எழுந்திரு!”
+“கபட நாடகமாடியே! எழுந்திரு! நீ சாகத்தான் வேண்டும்! சாகும் நேரத்தில் உனக்கு ஒரு சலுகை வழங்குகிறேன். நெஞ்சில் வாள் தாங்கிச் செத்துப் போ! அந்த ஒரு பெயர் உன் துரோக வாழ்க்கைக்குப் பரிகாரமாக அமையட்டும்! உம், எழுந்திரு!”
 
 என்று ஆத்திரத்துடன் கத்தினாள் நல்லநாச்சியார்!
 
@@ -38,4 +38,16 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 - source-visible joined forms கண்டுகாக்கை, குதிரைகளில்யாரோ and குப்புறக்கிடந்த retained
 - chapter continues beyond this page
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 316; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 308; PASS 1 TEXT-COMPLETE / textual-review-pending / visual-review-pending -->
+
+## Formal Part011 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part011 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph and dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates;
+- Pass 2B historical-glyph / lexical / word-boundary review remains the next gate.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 316; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 308; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->

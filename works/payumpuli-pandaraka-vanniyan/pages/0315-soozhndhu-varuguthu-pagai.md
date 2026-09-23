@@ -6,18 +6,18 @@ printed_page: 307
 work: "payumpuli-pandaraka-vanniyan"
 section: "சூழ்ந்து வருகுது பகை!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf"
-transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans311–320"
+transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans311–320; formal Part011 Pass 2A reviewed"
 ---
 
 # சூழ்ந்து வருகுது பகை!
 
 ## Source transcription
 
-சொல்லிக்கொண்டே வாளை உருவி அவன் தலைக்குநேரே ஓங்கினாள் நல்லநாச்சி! இனியும் அவளைப் பேச்சால் வீழ்த்த முடியாது எனப் புரிந்துகொண்ட காக்கை வன்னியன், அவனும் வாளை எடுத்து, அவளது வாளைத் தடுத்து நிறுத்தினான். வாட்போர் இருவரிடையே உச்சகட்டத்தை அடைந்தது. வீர மங்கை, நல்லநாச்சியின் வாள்வீச்சைத் தாக்குப்பிடிக்க முடியாமல் காக்கை திணறினான். இரண்டு மூன்று தடவை தரையில் விழுந்து எழுந்தான். தடுமாறினான். தத்தளித்தான். குறுக்கும், நெடுக்குமாக மின்னல் கீற்றுகள் தெறிப்பதுபோல இரு வாட்களும் மோதிக் கொண்டன. ஒரு கட்டத்தில் வாட்களின் பிடிகள் இரண்டும் மோதிய நிலையில் - ஒருவர் முகத்தை ஒருவர் பார்த்துக்கொண்டனர்! நான்கு விழிகள் அசையாமல் நோக்கின! காக்கையின் விழிகளிலோ ஒரு விதமான கெஞ்சல்! அவள் விழிகளோ அவனை மிஞ்சி நின்றன!
+சொல்லிக்கொண்டே, வாளை உருவி அவன் தலைக்குநேரே ஓங்கினாள் நல்லநாச்சி! இனியும் அவளைப் பேச்சால் வீழ்த்த முடியாது எனப் புரிந்துகொண்ட காக்கை வன்னியன், அவனும் வாளை எடுத்து, அவளது வாளைத் தடுத்து நிறுத்தினான். வாட்போர் இருவரிடையே உச்சகட்டத்தை அடைந்தது. வீர மங்கை, நல்லநாச்சியின் வாள்வீச்சைத் தாக்குப்பிடிக்க முடியாமல் காக்கை திணறினான். இரண்டு மூன்று தடவை தரையில் விழுந்து எழுந்தான். தடுமாறினான். தத்தளித்தான். குறுக்கும், நெடுக்குமாக மின்னல் கீற்றுகள் தெறிப்பதுபோல இரு வாட்களும் மோதிக் கொண்டன. ஒரு கட்டத்தில் வாட்களின் பிடிகள் இரண்டும் மோதிய நிலையில் - ஒருவர் முகத்தை ஒருவர் பார்த்துக்கொண்டனர்! நான்கு விழிகள் அசையாமல் நோக்கின! காக்கையின் விழிகளிலோ ஒரு விதமான கெஞ்சல்! அவள் விழிகளோ அவனை மிஞ்சி நின்றன!
 
 “நல்லநாச்சி! நாதனை நாயகிகொன்றால், அவளுக்கு நரகம்தான் சம்பவிக்கும்!”
 
@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 
 “மறுபரிசீலனையே கிடையாதா?”
 
-“மறுபிறப்பு என ஒன்றிருந்தால்? அப்போது நன்கு பரிசீலிப்பேன். இப்படியொரு நயவஞ்சகனிடம் ஏமாறாமல் இருப்பதற்கு என்ன வழியென்று நன்கு பரிசீலிப்பேன்! காக்கை வன்னியா! இப்போது காலம் தாழ்ந்துவிட்டது - உனக்கு உயிர்ப்பிச்சை அளிக்க என்னால் ஆகாது!”
+“மறுபிறப்பு என ஒன்றிருந்தால்? அப்போது நன்கு பரிசீலிப்பேன். இப்படியொரு நயவஞ்சகனிடம் ஏமாறாமல் இருப்பதற்கு என்ன வழியென்று நன்கு பரிசீலிப்பேன்! காக்கை வன்னியா! இப்போது காலம் தாழ்ந்துவிட்டது - உனக்கு உயிர்ப் பிச்சை அளிக்க என்னால் ஆகாது!”
 
 சிறிது நேரம் ஒட்டிக்கொண்டிருந்த வாள்கள் பெருத்த ஒலியுடன் காற்றைக் கிழித்துக்கொண்டு மீண்டும் மோதின! இனியும் அவனைவிட்டு வைக்கக்கூடாது - அவனது தவறுக்கு அவனைக் கொன்று குவிப்பதே பிராயச்சித்தம் என முடிவு கொண்டவளாக காட்டெருமையின் மீது பாயும் பெண் சிங்கத்தைப்போல காக்கை வன்னியன் மீது வாளுடன் பாய்ந்தாள் நல்லநாச்சி! புயல், சூறாவளி, ஊழிக்காற்று, இவற்றில்
 
@@ -36,4 +36,16 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 - source-visible joined forms தலைக்குநேரே and நாயகிகொன்றால் retained
 - page ends mid-sentence at இவற்றில்; scan316 resumes
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 315; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: 307; PASS 1 TEXT-COMPLETE / textual-review-pending / visual-review-pending -->
+
+## Formal Part011 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part011 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph and dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-text corrections in Pass 2A: **2**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates;
+- Pass 2B historical-glyph / lexical / word-boundary review remains the next gate.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 315; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: 307; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
