@@ -278,3 +278,16 @@ Directly audit **330→331**; if usable, begin **Part012 Pass1 scans331–340 / 
 **PART011 — FINAL CLOSED / FROZEN**
 
 Exact next activity: audit **330→331**; if usable, begin **Part012 Pass1 scans331–340 / local pages1–10**.
+
+## Part012 incoming-boundary checkpoint
+
+**330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+
+- frozen Part011 scan330 terminal fragment — `தேவையில்லாமலே`
+- Part012 scan331 begins — `அவளுடன் கட்டிப்புரளத் தோன்றிடும்!`
+- same chapter52 / same speech / same scene — **direct continuation**
+- Part012 source SHA-256 — `1cf6e05c205748f06751eb3f925dc7b49d11306a3890fe3c1277d1d94eabbce8`
+- audited multipart boundaries — **11/15**
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- exact next — **Part012 Pass1 scans331–340 / exactly 10 source pages**
+

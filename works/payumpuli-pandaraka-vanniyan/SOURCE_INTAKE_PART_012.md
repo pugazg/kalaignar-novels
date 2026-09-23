@@ -11,7 +11,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 - complete-source extent: **477 scans**;
 - split design: **15 × 30 pages + final 27 pages = 477**;
 - file size: **26,731,078 bytes**;
-- SHA-256: **PENDING**;
+- SHA-256: `1cf6e05c205748f06751eb3f925dc7b49d11306a3890fe3c1277d1d94eabbce8`;
 - source text layer: **no usable parsed text exposed**;
 - controlling representation: **rendered source page images**;
 - source family: **TVA_BOK_0065744**;
@@ -23,7 +23,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Boundary state
 
-- incoming split boundary: **330→331 — source available; classification pending direct audit**;
+- incoming split boundary: **330→331 — GENUINE CONTINUATION / AUDITED / PASS**;
 - outgoing split boundary: **360→361 — source available; classification pending direct audit**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
@@ -46,9 +46,14 @@ Part 012 source split: **SUPPLIED / REGISTERED**.
 
 Part011 is now **FINAL CLOSED / FROZEN**.
 
-Part012 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+Part012 is **ACTIVE / INCOMING BOUNDARY AUDITED / PASS1 AUTHORIZED**.
+
+Incoming boundary **330→331 — GENUINE CONTINUATION / AUDITED / PASS**.
+
+Durable boundary record:
+- `PART_012_BOUNDARY_AUDIT_330_331.md`
 
 Exact next activity:
-1. directly audit **330→331** from adjacent source scans;
-2. if usable, begin **Part012 Pass1 scans331–340 / local pages1–10**;
+1. begin **Part012 Pass1 scans331–340 / local pages1–10**;
+2. process exactly **10 physical source pages**;
 3. do not begin Part012 Pass2A until full-Part Pass1 coverage is complete.
