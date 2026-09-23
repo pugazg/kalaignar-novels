@@ -264,3 +264,20 @@ Exact next gate: **Part011 whole-Part bilingual review**.
 
 Exact next gate: **Part011 release/readiness review**.
 
+## Release/readiness checkpoint
+
+**PART011 RELEASE/READINESS — PASS / CLOSED.**
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- E58–E63 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- unresolved Tamil / English / release blockers — **0**
+- maintained body changes in release/readiness — **0**
+- outgoing **330→331 — PENDING direct audit**
+- Part012 leakage — **0**
+
+Exact next gate: **Part011 release-ready synchronization**.
+
