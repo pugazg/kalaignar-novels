@@ -5,8 +5,9 @@
 - repository — `pugazg/kalaignar-novels`
 - branch — `main`
 - active work — `works/payumpuli-pandaraka-vanniyan/`
-- Parts001–010 — **FINAL CLOSED / FROZEN**
-- active Part — **Part011 / scans301–330**
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- Part011 — **FINAL CLOSED / FROZEN**
+- next active Part — **Part012 / scans331–360 / AUTHORIZED / NOT STARTED**
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf`
 - source SHA-256 — `091a10b6f0a26cb323cad5a7ed6a645396e3eb112da904c939da05c3fd91eb4e`
 - local pages — **30**
@@ -271,3 +272,9 @@ Do not begin Part012 canonical work until final closure passes. Preserve outgoin
 ## Exact next activity
 
 Directly audit **330→331**; if usable, begin **Part012 Pass1 scans331–340 / local pages1–10**.
+
+## Authoritative final state
+
+**PART011 — FINAL CLOSED / FROZEN**
+
+Exact next activity: audit **330→331**; if usable, begin **Part012 Pass1 scans331–340 / local pages1–10**.
