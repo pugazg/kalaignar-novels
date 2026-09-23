@@ -65,3 +65,32 @@ Do not begin assembled Tamil construction until that checkpoint closes. Keep out
 - section-order collision check — **PASS**
 - planned range — **61–66**
 - exact next stage — **assembled Tamil construction + audit**
+
+## Part011 assembled Tamil closure checkpoint
+
+**PART011 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED.**
+
+- Parts001–010 — **FINAL CLOSED / FROZEN**
+- canonical Part011 Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Part011 Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- assembled canonical coverage — **30/30**
+- assembled section range — **61–66**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit-note leakage — **0**
+- frozen Parts001–010 assembled-file mutations — **0**
+- Part012 body leakage — **0**
+- scan330 illustrated spread — **Tamil body preserved / no invented caption**
+- incoming **300→301 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **330→331 — PENDING direct audit**
+- unresolved assembly blockers — **0**
+
+Durable validation:
+- `works/payumpuli-pandaraka-vanniyan/PART_011_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Exact next gate: **Part011 English translation planning/setup**. Perform a live English control/batch collision check first; do not draft English prose during setup.

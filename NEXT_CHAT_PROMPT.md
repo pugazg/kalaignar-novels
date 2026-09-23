@@ -1,47 +1,52 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part011 Tamil archival-ready + assembled Tamil
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part011 English translation planning/setup
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Durable state
+## Durable Tamil state
 
 Parts **001–010 are FINAL CLOSED / FROZEN**.
 
-Part011 source:
-- `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf`
-- SHA-256 — `091a10b6f0a26cb323cad5a7ed6a645396e3eb112da904c939da05c3fd91eb4e`
-- scans **301–330**
-- printed folios **293–323**
-- scan330 is one illustrated physical spread carrying printed **322–323**
+Part011:
+- source scans — **301–330**
+- printed folios — **293–323**
+- canonical Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- assembled sections — **61–66**
+- assembled coverage — **30/30**
+- omissions / duplicates / unsupported insertion / audit-note leakage — **0 / 0 / 0 / 0**
 - incoming **300→301 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **330→331 — PENDING direct audit**
 
-## Completed Part011 gates
-
-- Pass1 — **COMPLETE / PASS — 30/30**
-- Pass2A — **COMPLETE / PASS — 14 corrections**
-- Pass2B — **COMPLETE / PASS — 17 corrections**
-- Pass2B historical-glyph corrections — **0**
-- Pass3 — **COMPLETE / PASS — 0 textual corrections**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- textual status — **30/30 verified**
-- visual fidelity — **30/30 verified**
-- unresolved internal blockers — **0**
+Part011 assembled files:
+1. `sections/61-thalaiyaazhi-maatrik-kondanar-part011.md`
+2. `sections/62-muththirai-kizhindhathu.md`
+3. `sections/63-soozhndhu-varuguthu-pagai.md`
+4. `sections/64-pandaaragan-pagathur.md`
+5. `sections/65-engutraal-andha-kuraththi.md`
+6. `sections/66-mayangukiraal-oru-maadhu.md`
 
 Read first:
 1. `PART_011_HANDOFF.md`
-2. `PART_011_AUDIT.md`
-3. `PART_011_FINAL_STATUS_SYNC.md`
-4. `PART_011_PASS3_PROGRESS.md`
-5. `SOURCE_INTAKE_PART_011.md`
-6. `MULTIPART_SOURCE_POLICY.md`
-7. `indexes/page-map.md`
+2. `PART_011_ASSEMBLED_TAMIL_VALIDATION.md`
+3. `PART_011_TAMIL_ARCHIVAL_READY.md`
+4. `PART_011_AUDIT.md`
+5. `PART_011_FINAL_STATUS_SYNC.md`
 
 ## Exact next activity
 
-1. Close **Part011 Tamil archival-ready checkpoint**.
-2. Perform live section-order collision check. Existing maintained assembled section range ends at **60**.
-3. Construct Part011 assembled Tamil from verified canonical `## Source transcription` blocks only.
-4. Audit omissions, duplicates, unsupported Tamil insertion, workflow-note leakage, source-order continuity and boundary discipline.
-5. Do **not** import Part012 wording; keep **330→331 PENDING direct audit**.
-6. Do not begin English translation in the same activity unless explicitly requested.
+Perform **Part011 English translation planning/setup**.
+
+Requirements:
+- run a live collision check over existing English source-check batch IDs and maintained English section order;
+- reserve the next collision-free Part011 English sequence for assembled sections61–66;
+- create/update Part011 translation plan, glossary and progress controls;
+- do **not** draft English prose in the setup gate;
+- preserve frozen Parts001–010 English/Tamil layers;
+- keep **330→331 PENDING direct audit**;
+- do not import Part012 wording.
