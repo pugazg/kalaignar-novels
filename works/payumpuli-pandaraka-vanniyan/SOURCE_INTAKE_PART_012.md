@@ -44,4 +44,11 @@ The canonical `scan_page` remains the overall scan number **331–360**.
 
 Part 012 source split: **SUPPLIED / REGISTERED**.
 
-This Part waits behind the global active frontier. Do not create page records here until processing reaches its overall scan range.
+Part011 is now **FINAL CLOSED / FROZEN**.
+
+Part012 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+
+Exact next activity:
+1. directly audit **330→331** from adjacent source scans;
+2. if usable, begin **Part012 Pass1 scans331–340 / local pages1–10**;
+3. do not begin Part012 Pass2A until full-Part Pass1 coverage is complete.

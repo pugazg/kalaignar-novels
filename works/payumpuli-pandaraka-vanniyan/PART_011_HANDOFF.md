@@ -254,3 +254,20 @@ Durable record:
 Create and verify **Part011 final closure** in `PART_011_FINAL_CLOSURE.md`.
 
 Do not begin Part012 canonical work until final closure passes. Preserve outgoing **330→331 PENDING direct audit**.
+
+## Part011 final closure
+
+**PASS / CLOSED / FROZEN**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- Part011 canonical Tamil — **30/30 verified / frozen**
+- assembled Tamil — **6/6 VERIFIED / frozen**
+- E58–E63 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary / editorial / bilingual / release / sync — **PASS / PASS / PASS / PASS / PASS**
+- unresolved blockers — **0**
+- outgoing **330→331 — PENDING direct audit**
+- Part012 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+
+## Exact next activity
+
+Directly audit **330→331**; if usable, begin **Part012 Pass1 scans331–340 / local pages1–10**.
