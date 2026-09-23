@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity and global mapping are durable; Part011 Pass1 is in progress at 20/30 TEXT-COMPLETE.**
+**REGISTERED — split identity/global mapping are durable; Part011 Pass1 is COMPLETE / PASS at 30/30 TEXT-COMPLETE.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **301–330**;
@@ -44,21 +44,23 @@ The canonical `scan_page` remains the overall scan number **301–330**.
 
 Part 011 source split: **SUPPLIED / REGISTERED**.
 
-Part010 is FINAL CLOSED / FROZEN. Part011 is **ACTIVE / PASS1 IN PROGRESS — 20/30 TEXT-COMPLETE** after direct source-pixel classification of **300→301 = GENUINE CONTINUATION / AUDITED / PASS**.
+Part010 is FINAL CLOSED / FROZEN. Part011 is **ACTIVE / PASS1 COMPLETE / PASS — 30/30 TEXT-COMPLETE** after direct source-pixel classification of **300→301 = GENUINE CONTINUATION / AUDITED / PASS**.
 
 
 ## Post-Part010 frontier
 
 - Parts001–010 — **FINAL CLOSED / FROZEN**
-- Part011 — **ACTIVE / PASS1 IN PROGRESS — 20/30 TEXT-COMPLETE**
-- Part011 canonical records — **20/30 — scans301–320**
+- Part011 — **ACTIVE / PASS1 COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Part011 canonical records — **30/30 — scans301–330**
 - incoming boundary — **300→301 GENUINE CONTINUATION / AUDITED / PASS**
-- Pass1 Batch1 — **global scans301–310 / local pages1–10 — COMPLETE / TEXT-COMPLETE**
-- canonical records — **20/30**
-- Pass1 pending — **10/30 — scans321–330**
-- exact next batch — **global scans321–330 / local pages21–30**
+- Pass1 Batch1 — **scans301–310 — COMPLETE / TEXT-COMPLETE**
+- Pass1 Batch2 — **scans311–320 — COMPLETE / TEXT-COMPLETE**
+- Pass1 Batch3 — **scans321–330 — COMPLETE / TEXT-COMPLETE**
+- printed-page coverage — **293–323**; scan330 is one illustrated spread carrying printed pages **322–323**
+- canonical records — **30/30**
+- Pass1 pending — **0/30**
 - outgoing **330→331 — PENDING direct audit**
-- Part011 Pass2A — **BLOCKED UNTIL FULL-PART PASS1 COMPLETE**
+- Part011 Pass2A — **NOT STARTED / AUTHORIZED / NEXT**
 
 
 Durable boundary record:
@@ -99,4 +101,24 @@ Durable progress:
 - outgoing **330→331 — PENDING direct audit**
 - Pass2A — **BLOCKED UNTIL 30/30 PASS1 COMPLETE**
 
-Exact next activity: **Part011 Pass1 scans321–330 / local pages21–30**.
+## Pass1 Batch3 / full Pass1 checkpoint
+
+**PART011 PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE.**
+
+- newly completed records — **10 — scans321–330**
+- canonical records — **30/30 — scans301–330**
+- physical scan coverage — **301–330 continuous**
+- visible printed-page coverage — **293–323**
+- source-structure correction — scan330 is a single illustrated spread carrying printed pages **322–323**, so the stale planned Batch3 endpoint 322 is superseded by direct source pixels
+- chapter50 `பண்டாரகன் - பகதூர்` — **continues scans321–323 / closes scan323**
+- chapter51 `எங்குற்றாள் அந்தக் குறத்தி?` — **scans324–328 / closes scan328**
+- scan327→328 physical split — **`இவர்` + `களது`**
+- chapter52 `மயங்குகிறாள் ஒரு மாது!` — **opens scan329 / continues through scan330**
+- scan330 illustrated two-page spread — **printed322–323**
+- final Part011 source-visible fragment — **`தேவையில்லாமலே`**
+- unresolved Pass1 source-reading holds — **0**
+- all 30 Part011 records remain **needs-review / needs-review**
+- outgoing **330→331 — PENDING direct audit**
+- Pass2A — **NOT STARTED / AUTHORIZED / NEXT**
+
+Exact next activity: **Part011 Pass2A — direct textual source-fidelity review of scans301–330**.

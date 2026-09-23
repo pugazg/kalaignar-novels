@@ -326,16 +326,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 011 | 18 | 318 | 310 | chapter50 opening `பண்டாரகன் - பகதூர்`; displayed number 50; ends `கிழித்து` | needs-review | `pages/0318-pandaaragan-pagathur.md` |
 | 011 | 19 | 319 | 311 | `பண்டாரகன் - பகதூர்` continuation; resumes `மறையும்` | needs-review | `pages/0319-pandaaragan-pagathur.md` |
 | 011 | 20 | 320 | 312 | `பண்டாரகன் - பகதூர்` continuation; ends mid-sentence/open quotation at `பண்டாரக வன்னியன்` | needs-review | `pages/0320-pandaaragan-pagathur.md` |
-| 011 | 21 | 321 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 22 | 322 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 23 | 323 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 24 | 324 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 25 | 325 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 26 | 326 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 27 | 327 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 28 | 328 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 29 | 329 | — | unclassified — direct visual audit pending | not-started | — |
-| 011 | 30 | 330 | — | unclassified — direct visual audit pending | not-started | — |
+| 011 | 21 | 321 | 313 | `பண்டாரகன் - பகதூர்` continuation; resumes scan320 open quotation with `பதில் பேச முடியாது!` | needs-review | `pages/0321-pandaaragan-pagathur.md` |
+| 011 | 22 | 322 | 314 | `பண்டாரகன் - பகதூர்` continuation | needs-review | `pages/0322-pandaaragan-pagathur.md` |
+| 011 | 23 | 323 | 315 | `பண்டாரகன் - பகதூர்` close; substantial intentional blank lower field | needs-review | `pages/0323-pandaaragan-pagathur.md` |
+| 011 | 24 | 324 | 316 | chapter51 opening `எங்குற்றாள் அந்தக் குறத்தி?`; displayed number 51 | needs-review | `pages/0324-engutraal-andha-kuraththi.md` |
+| 011 | 25 | 325 | 317 | `எங்குற்றாள் அந்தக் குறத்தி?` continuation | needs-review | `pages/0325-engutraal-andha-kuraththi.md` |
+| 011 | 26 | 326 | 318 | `எங்குற்றாள் அந்தக் குறத்தி?` continuation; ends `அப்படியா?` | needs-review | `pages/0326-engutraal-andha-kuraththi.md` |
+| 011 | 27 | 327 | 319 | `எங்குற்றாள் அந்தக் குறத்தி?` continuation; ends physical split fragment `இவர்` | needs-review | `pages/0327-engutraal-andha-kuraththi.md` |
+| 011 | 28 | 328 | 320 | `எங்குற்றாள் அந்தக் குறத்தி?` continuation/close; resumes `களது`; substantial intentional blank lower field | needs-review | `pages/0328-engutraal-andha-kuraththi.md` |
+| 011 | 29 | 329 | 321 | chapter52 opening `மயங்குகிறாள் ஒரு மாது!`; displayed number 52 | needs-review | `pages/0329-mayangukiraal-oru-maadhu.md` |
+| 011 | 30 | 330 | 322–323 | illustrated two-page spread; `மயங்குகிறாள் ஒரு மாது!` continuation; left322→right323; ends `தேவையில்லாமலே`; 330→331 pending | needs-review | `pages/0330-mayangukiraal-oru-maadhu.md` |
 | 012 | 1 | 331 | — | unclassified — direct visual audit pending | not-started | — |
 | 012 | 2 | 332 | — | unclassified — direct visual audit pending | not-started | — |
 | 012 | 3 | 333 | — | unclassified — direct visual audit pending | not-started | — |

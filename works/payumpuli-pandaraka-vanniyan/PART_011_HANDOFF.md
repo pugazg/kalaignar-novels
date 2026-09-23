@@ -21,7 +21,7 @@
 
 ## Pass1 state
 
-**IN PROGRESS — 20/30 TEXT-COMPLETE**
+**COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 
 Batch1:
 - scans — **301–310**
@@ -59,9 +59,32 @@ Durable progress:
 - chapter50 `பண்டாரகன் - பகதூர்` — opens scan318 / continues through scan320;
 - scan320 — ends mid-sentence/open quotation at `பண்டாரக வன்னியன்`.
 
+## Batch3 / full Pass1 checkpoint
+
+- scans — **321–330**
+- local pages — **21–30**
+- visible printed pages — **313–323**;
+- source-structure correction — the planned range **313–322** was stale: scan330 is one illustrated physical scan carrying printed pages **322–323**;
+- canonical records — **10 newly created / 30 total**
+- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- textual status — **30/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- unresolved Pass1 source-reading holds — **0**
+- chapter50 `பண்டாரகன் - பகதூர்` — continues scans321–323 / closes scan323;
+- scan323 — substantial intentional blank lower field;
+- chapter51 `எங்குற்றாள் அந்தக் குறத்தி?` — opens scan324 / closes scan328;
+- scan327→328 physical page split — **`இவர்` + `களது`**;
+- scan328 — substantial intentional blank lower field;
+- chapter52 `மயங்குகிறாள் ஒரு மாது!` — opens scan329 / continues through scan330;
+- scan330 — illustrated two-page spread, printed **322–323**, ending mid-sentence at `தேவையில்லாமலே`;
+- outgoing **330→331 — PENDING direct audit**;
+- Pass2A — **NOT STARTED / AUTHORIZED / NEXT**.
+
 ## Exact next activity
 
-Process **Part011 Pass1 Batch3 — scans321–330 / local pages21–30 / printed313–322**.
+Proceed with **Part011 Pass2A — direct textual source-fidelity review of scans301–330**.
+
+Keep **330→331 PENDING direct audit**. Do not begin Pass2B in the same activity.
 
 Rules:
 1. use direct rendered source pixels as authority;

@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE**
+**PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 
 Active Part:
 - Part011
@@ -16,14 +16,15 @@ Parts001–010 remain **FINAL CLOSED / FROZEN**.
 ## Current accounting
 
 - Part011 physical scans — **30**
-- canonical Part011 records present — **20/30 — scans301–320**
-- Pass1 text-complete — **20/30**
-- Pass1 pending — **10/30 — scans321–330**
-- printed-page coverage completed — **293–312**
+- canonical Part011 records present — **30/30 — scans301–330**
+- Pass1 text-complete — **30/30**
+- Pass1 pending — **0/30**
+- printed-page coverage completed — **293–323**
+- physical scans — **30**; visible printed pages — **31**, because scan330 contains printed pages **322–323**
 - unresolved Pass1 source-reading holds in completed batch — **0**
 - incoming **300→301 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **330→331 — PENDING direct audit**
-- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+- Pass2A — **NOT STARTED / AUTHORIZED / NEXT**
 - completed Part011 records remain:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
@@ -34,7 +35,9 @@ Parts001–010 remain **FINAL CLOSED / FROZEN**.
 |---|---:|---:|---:|---|
 | 1 | 301–310 | 1–10 | 293–302 | **COMPLETE / TEXT-COMPLETE** |
 | 2 | 311–320 | 11–20 | 303–312 | **COMPLETE / TEXT-COMPLETE** |
-| 3 | 321–330 | 21–30 | 313–322 | **NOT STARTED / NEXT** |
+| 3 | 321–330 | 21–30 | 313–323* | **COMPLETE / TEXT-COMPLETE** |
+
+\* scan330 is one illustrated physical scan carrying printed pages **322–323**; the earlier planned Batch3 range 313–322 was corrected from direct source pixels.
 
 ## Incoming-boundary audit
 
@@ -84,6 +87,23 @@ Audited multipart boundaries after this gate — **10 / 15**.
 
 Batch2 source-visible forms retained without normalization include `பாதபூஜை`, `கட்டுக் காட்டிக்கொடுக்கும்`, `தலைக்குநேரே`, `நாயகிகொன்றால்`, `கண்டுகாக்கை`, `குதிரைகளில்யாரோ`, `குப்புறக்கிடந்த`, `வல்லூறு களால்`, `செய்திகேட்டு`, `அணுஅணுவாக`, `வான மென்னும்`, `படைக்கலவைப் பறி கொடுத்துப் பாவையானாள்`, and `படுக்கையறை யொன்றில்`.
 
+## Batch 3 source-structure observations
+
+- scans321–323 continue and close chapter50 `பண்டாரகன் - பகதூர்`;
+- scan321 / printed313 directly continues scan320's open quotation at `பதில் பேச முடியாது!`;
+- scan323 / printed315 closes chapter50 and preserves a substantial intentional blank lower field;
+- scan324 / printed316 opens chapter51 `எங்குற்றாள் அந்தக் குறத்தி?` with displayed number **51** and ornamental heading;
+- scans324–328 carry and close chapter51;
+- scan327→328 preserves the physical page split **`இவர்` + `களது`**;
+- scan328 / printed320 closes chapter51 and preserves a substantial intentional blank lower field;
+- scan329 / printed321 opens chapter52 `மயங்குகிறாள் ஒரு மாது!` with displayed number **52** and ornamental heading;
+- scan330 is a single landscape illustrated spread carrying printed pages **322 and 323**, read left→right;
+- scan330 / printed323 ends mid-sentence at **`தேவையில்லாமலே`**;
+- therefore full Part011 Pass1 printed-page coverage is **293–323**, not the stale planned endpoint 322;
+- outgoing **330→331 remains PENDING direct audit**.
+
+Batch3 source-visible forms retained without modernization include `உத்தம புத்திரன்`, `அறை கூவல்`, `அட்சய`, `சிபாரிசு`, `பிலிமதளாவைதான்`, `மெளனம்`, `கூடுவிட்டுக் கூடுபாய்ந்து`, `தளுக்குக்காரிகள்`, `பலகீனத்தைப்`, `விபரங்களையும்`, `நாலுகாவலர்கள்`, `மூச்சுவாங்க`, `பண்டாரகன் வைரமுத்துவும்`, `கண்டி ராஜயத்துக்`, and `கண்டாலேபோதும்`.
+
 ## Source-form observations retained for later textual review
 
 Pass1 preserves source-visible forms without modernization, including:
@@ -97,7 +117,8 @@ These are retained as direct Pass1 readings. They are not normalized at this gat
 
 ## Pass1 correction ledger
 
-- working readings corrected before batch closure — **0**
+- working textual readings corrected before Batch3 closure — **0**
+- structural/page-map correction — **1**: planned Batch3 printed endpoint **322** → direct-source endpoint **323**, because scan330 is a two-page spread **322–323**
 - unresolved Pass1 source-reading holds — **0**
 
 ## Method note
@@ -108,6 +129,6 @@ Frozen Parts001–010 canonical Tamil, assembled Tamil and maintained English bo
 
 ## Exact next activity
 
-Proceed with **Part011 Pass1 batch 3 — global scans321–330 / local pages21–30**.
+Proceed with **Part011 Pass2A — direct textual source-fidelity review of scans301–330**.
 
-Do not begin Part011 Pass2A until Pass1 covers all **30/30** Part011 pages. Keep outgoing **330→331 PENDING direct audit**.
+Pass2A is authorized but **NOT STARTED** in this activity. Keep outgoing **330→331 PENDING direct audit**.
