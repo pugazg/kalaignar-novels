@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART011 ENGLISH — PLANNING/SETUP COMPLETE / PASS**
+**PART011 ENGLISH — E58–E63 SOURCE-CHECKED / COMPLETE**
 
 Parts001–010 English are **FINAL CLOSED / FROZEN**.
 
@@ -13,7 +13,7 @@ Parts001–010 English are **FINAL CLOSED / FROZEN**.
 | **E60** | section63 — `சூழ்ந்து வருகுது பகை!` | 311–317 | **SOURCE-CHECKED / COMPLETE** |
 | **E61** | section64 — `பண்டாரகன் - பகதூர்` | 318–323 | **SOURCE-CHECKED / COMPLETE** |
 | **E62** | section65 — `எங்குற்றாள் அந்தக் குறத்தி?` | 324–328 | **SOURCE-CHECKED / COMPLETE** |
-| **E63** | section66 — `மயங்குகிறாள் ஒரு மாது!` | 329–330 | **NOT STARTED / NEXT** |
+| **E63** | section66 — `மயங்குகிறாள் ஒரு மாது!` | 329–330 | **SOURCE-CHECKED / COMPLETE** |
 
 ## Current counts
 
@@ -23,8 +23,8 @@ Parts001–010 English are **FINAL CLOSED / FROZEN**.
 - Tamil assembled files — **6/6 VERIFIED / CLOSED**
 - Part011 English planned batches — **E58–E63 / 6**
 - Part011 English planned files — **6**
-- Part011 English translated files — **5/6**
-- Part011 English source-checked files — **5/6**
+- Part011 English translated files — **6/6**
+- Part011 English source-checked files — **6/6**
 - unresolved English planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -176,8 +176,38 @@ No Part011 English literary prose is drafted in this planning gate.
 - unresolved E62 holds — **0**
 - translated / source-checked Part011 files — **5/6 / 5/6**
 
+## E63 closure checkpoint
+
+**E63 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil authority — section66 / scans329–330
+- maintained English file — `sections/66-a-woman-swoons.md`
+- source-check record — `E63_SOURCE_CHECK.md`
+- scan330 printed322→323 illustrated spread — **preserved**
+- invented illustration caption/body — **0**
+- outgoing 330→331 — **PENDING direct audit**
+- Part012 completion imported/inferred — **0**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–010 English body edits — **0**
+- unresolved E63 holds — **0**
+- translated / source-checked Part011 files — **6/6 / 6/6**
+
+## Batch-level translation closure
+
+**E58–E63 — 6/6 SOURCE-CHECKED / COMPLETE.**
+
+- scans covered — **301–330 / 30**
+- maintained English files — **6/6**
+- source-check records — **6/6**
+- unresolved batch-level holds — **0**
+- canonical / assembled Tamil edits caused by English work — **0 / 0**
+- frozen Parts001–010 English body edits — **0**
+- Part012 leakage — **0**
+- outgoing **330→331 — PENDING direct audit**
+
 ## Exact next activity
 
-**E63 draft + source-check — section66 / scans329–330.**
+Perform **Part011 whole-Part glossary reconciliation across E58–E63**.
 
-Keep **330→331 PENDING direct audit** and do not semantically complete from Part012.
+Do not begin whole-Part editorial review until glossary reconciliation closes.
