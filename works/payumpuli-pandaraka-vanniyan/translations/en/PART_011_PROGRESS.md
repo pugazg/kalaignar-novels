@@ -9,8 +9,8 @@ Parts001–010 English are **FINAL CLOSED / FROZEN**.
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
 | **E58** | section61 — chapter47 continuation/close `தலையாழி மாற்றிக் கொண்டனர்` | 301–303 | **SOURCE-CHECKED / COMPLETE** |
-| **E59** | section62 — `முத்திரை கிழிந்தது!` | 304–310 | **NOT STARTED / NEXT** |
-| **E60** | section63 — `சூழ்ந்து வருகுது பகை!` | 311–317 | **NOT STARTED** |
+| **E59** | section62 — `முத்திரை கிழிந்தது!` | 304–310 | **SOURCE-CHECKED / COMPLETE** |
+| **E60** | section63 — `சூழ்ந்து வருகுது பகை!` | 311–317 | **NOT STARTED / NEXT** |
 | **E61** | section64 — `பண்டாரகன் - பகதூர்` | 318–323 | **NOT STARTED** |
 | **E62** | section65 — `எங்குற்றாள் அந்தக் குறத்தி?` | 324–328 | **NOT STARTED** |
 | **E63** | section66 — `மயங்குகிறாள் ஒரு மாது!` | 329–330 | **NOT STARTED** |
@@ -23,8 +23,8 @@ Parts001–010 English are **FINAL CLOSED / FROZEN**.
 - Tamil assembled files — **6/6 VERIFIED / CLOSED**
 - Part011 English planned batches — **E58–E63 / 6**
 - Part011 English planned files — **6**
-- Part011 English translated files — **1/6**
-- Part011 English source-checked files — **1/6**
+- Part011 English translated files — **2/6**
+- Part011 English source-checked files — **2/6**
 - unresolved English planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -118,8 +118,22 @@ No Part011 English literary prose is drafted in this planning gate.
 - unresolved E58 holds — **0**
 - translated / source-checked Part011 files — **1/6 / 1/6**
 
+## E59 closure checkpoint
+
+**E59 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil authority — section62 / scans304–310
+- maintained English file — `sections/62-the-seal-was-torn.md`
+- source-check record — `E59_SOURCE_CHECK.md`
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–010 English body edits — **0**
+- Part012 leakage — **0**
+- unresolved E59 holds — **0**
+- translated / source-checked Part011 files — **2/6 / 2/6**
+
 ## Exact next activity
 
-**E59 draft + source-check — section62 / scans304–310.**
+**E60 draft + source-check — section63 / scans311–317.**
 
-Do not begin E60 until E59 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin E61 until E60 is **SOURCE-CHECKED / COMPLETE**.
