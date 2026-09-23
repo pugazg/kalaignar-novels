@@ -6,11 +6,11 @@ printed_page: 312
 work: "payumpuli-pandaraka-vanniyan"
 section: "பண்டாரகன் - பகதூர்"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf"
-transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans311–320"
+transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans311–320; formal Part011 Pass 2A reviewed"
 ---
 
 # பண்டாரகன் - பகதூர்
@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 
 கண்ணுக்குத் தெரிந்து என்ன பயன்? கைக்குக் கிட்ட வேண்டாமா? கைகள் தான் கட்டுண்டு கிடக்கின்றனவே! என்ன தான் நடக்கப்போகிறது என்பதைப் பார்த்து விடுவோம் - இந்த உடல், உயிரோடு இனி எந்த ஒரு ஆண் மகனின் கரம் படவும் இடம் தரப்போவதில்லை எனச் சபதம் செய்து கொண்டு அவள் அந்த அறையில் உலவிக் கொண்டிருந்தாள்!
 
-அதே நேரம் - முல்லைத் தீவு மாளிகையின் கூடத்தில் பண்டாரக வன்னியன் பரபரப்புடன் உலவிக் கொண்டிருந்தான், தன் எதிரே நிற்கும் மார்த்தாண்டனைப் பார்த்து “நீ சொல்வதெல்லாம் உண்மைதானா?” என்று கேட்டவாறு!
+அதே நேரம் - முல்லைத் தீவு மாளிகையின் கூடத்தில் பண்டாரக வன்னியன் பரபரப்புடன் உலவிக் கொண்டிருந்தான், தன் எதிரே நிற்கும் மார்த்தனியைப் பார்த்து “நீ சொல்வதெல்லாம் உண்மைதானா?” என்று கேட்டவாறு!
 
 “ஆம், தலைவரே! ஆண்டவனறிய உண்மையைத்தான் சொல்கிறேன். மணந்தால் காக்கை வன்னியனை மணப்பேன், இல்லையேல் மரித்துப் போவேன் என்று நல்லநாச்சியார், ஊமைச்சி நாச்சியாரிடம் சொல்ல - அதற்கு ஊமைச்சி நாச்சியார் “அக்கா! நீ ஒன்றுக்கும் கவலைப்படாதே! இப்போதே காக்கை வன்னியனைப் போய்ப் பார்! இருவரும் மணந்து கொண்டதாகச் செய்தி கிடைத்தால் பிறகு அண்ணன் பண்டாரக வன்னியன்
 
@@ -34,4 +34,16 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 - source-visible படுக்கையறை யொன்றில் retained
 - page ends mid-sentence/open quotation at பண்டாரக வன்னியன்; scan321 remains outside this batch
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 320; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 312; PASS 1 TEXT-COMPLETE / textual-review-pending / visual-review-pending -->
+
+## Formal Part011 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part011 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph and dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates;
+- Pass 2B historical-glyph / lexical / word-boundary review remains the next gate.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 320; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 312; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->

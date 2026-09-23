@@ -6,11 +6,11 @@ printed_page: 315
 work: "payumpuli-pandaraka-vanniyan"
 section: "பண்டாரகன் - பகதூர்"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf"
-transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans321–330"
+transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans321–330; formal Part011 Pass 2A reviewed"
 ---
 
 # பண்டாரகன் - பகதூர்
@@ -38,4 +38,16 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 - source-visible `சிபாரிசு`, `பியசீலி`, `பிலிமதளாவைதான்`, and tightly set `உறவு-வற்றாத பாசம்-நாசமாகிவிடக்கூடாதே` retained
 - substantial intentional blank lower field preserved; scan324 opens chapter51
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 323; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 23; அச்சுப் பக்கம்: 315; PASS 1 TEXT-COMPLETE / textual-review-pending / visual-review-pending -->
+
+## Formal Part011 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part011 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph and dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-text corrections in Pass 2A: **0**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates;
+- Pass 2B historical-glyph / lexical / word-boundary review remains the next gate.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 323; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 23; அச்சுப் பக்கம்: 315; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
