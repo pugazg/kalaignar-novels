@@ -282,3 +282,17 @@ Perform **Part011 whole-Part English editorial review**.
 
 Perform **Part011 whole-Part bilingual review**.
 
+## Bilingual review checkpoint
+
+**PASS / CLOSED**
+
+- pairs reviewed — **6/6**
+- canonical coverage — **30/30**
+- bilingual corrections — **0**
+- unresolved bilingual / Tamil-fidelity holds — **0 / 0**
+- outgoing **330→331 — PENDING direct audit**
+
+## Exact next activity
+
+Perform **Part011 release/readiness review**.
+

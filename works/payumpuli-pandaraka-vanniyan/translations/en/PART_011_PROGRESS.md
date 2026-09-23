@@ -246,3 +246,21 @@ Exact next gate: **Part011 whole-Part English editorial review**.
 
 Exact next gate: **Part011 whole-Part bilingual review**.
 
+## Whole-Part bilingual review checkpoint
+
+**PART011 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED.**
+
+- Tamil/English pairs reviewed — **6/6**
+- canonical scan coverage represented — **30/30**
+- mistranslation corrections — **0**
+- unsupported English additions — **0**
+- unresolved bilingual holds — **0**
+- unresolved Tamil-fidelity holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- maintained English body edits — **0**
+- frozen Parts001–010 English body edits — **0**
+- outgoing **330→331 — PENDING direct audit**
+- Part012 leakage — **0**
+
+Exact next gate: **Part011 release/readiness review**.
+
