@@ -249,3 +249,17 @@ Exact next activity: **Part011 Pass3 Batch2 — scans311–320**, exactly **10 s
 - outgoing **330→331 — PENDING direct audit**
 - exact next gate — **Part011 Part audit**
 
+## Part audit checkpoint
+
+**PART011 PART AUDIT — PASS / COMPLETE.**
+
+- canonical records — **30/30**
+- scan coverage — **301–330 continuous**
+- Pass2A / Pass2B / Pass3 evidence — **30/30 / 30/30 / 30/30**
+- missing / duplicate pages — **0 / 0**
+- unresolved internal issues — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **330→331 — PENDING direct audit**
+- exact next gate — **final metadata/status synchronization**
+

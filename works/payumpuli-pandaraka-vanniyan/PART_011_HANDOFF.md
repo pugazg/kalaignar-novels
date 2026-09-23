@@ -219,9 +219,25 @@ Durable Pass3 record:
 - visual fidelity — **30/30 needs-review**
 - outgoing **330→331 — PENDING direct audit**
 
+## Part audit checkpoint
+
+**PASS / COMPLETE**
+
+- canonical records — **30/30**
+- scan coverage — **301–330 continuous**
+- missing / duplicate records — **0 / 0**
+- Pass2A / Pass2B / Pass3 evidence — **30/30 / 30/30 / 30/30**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- unresolved internal issues — **0**
+- outgoing **330→331 — PENDING direct audit**
+
+Durable audit:
+- `PART_011_AUDIT.md`
+
 ## Exact next activity
 
-Proceed with **Part011 Part audit**. After that audit closes, perform final metadata/status synchronization, documentation synchronization, Tamil archival-ready checkpoint, and assembled Tamil construction + audit as separate gates.
+Proceed with **Part011 final metadata/status synchronization** — promote only `visual_fidelity` from `needs-review` to `verified` across scans301–330.
 
 Rules:
 1. use direct rendered source pixels as authority;
