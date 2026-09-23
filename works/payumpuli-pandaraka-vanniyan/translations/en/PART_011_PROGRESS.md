@@ -12,8 +12,8 @@ Parts001–010 English are **FINAL CLOSED / FROZEN**.
 | **E59** | section62 — `முத்திரை கிழிந்தது!` | 304–310 | **SOURCE-CHECKED / COMPLETE** |
 | **E60** | section63 — `சூழ்ந்து வருகுது பகை!` | 311–317 | **SOURCE-CHECKED / COMPLETE** |
 | **E61** | section64 — `பண்டாரகன் - பகதூர்` | 318–323 | **SOURCE-CHECKED / COMPLETE** |
-| **E62** | section65 — `எங்குற்றாள் அந்தக் குறத்தி?` | 324–328 | **NOT STARTED / NEXT** |
-| **E63** | section66 — `மயங்குகிறாள் ஒரு மாது!` | 329–330 | **NOT STARTED** |
+| **E62** | section65 — `எங்குற்றாள் அந்தக் குறத்தி?` | 324–328 | **SOURCE-CHECKED / COMPLETE** |
+| **E63** | section66 — `மயங்குகிறாள் ஒரு மாது!` | 329–330 | **NOT STARTED / NEXT** |
 
 ## Current counts
 
@@ -23,8 +23,8 @@ Parts001–010 English are **FINAL CLOSED / FROZEN**.
 - Tamil assembled files — **6/6 VERIFIED / CLOSED**
 - Part011 English planned batches — **E58–E63 / 6**
 - Part011 English planned files — **6**
-- Part011 English translated files — **4/6**
-- Part011 English source-checked files — **4/6**
+- Part011 English translated files — **5/6**
+- Part011 English source-checked files — **5/6**
 - unresolved English planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -162,8 +162,22 @@ No Part011 English literary prose is drafted in this planning gate.
 - unresolved E61 holds — **0**
 - translated / source-checked Part011 files — **4/6 / 4/6**
 
+## E62 closure checkpoint
+
+**E62 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil authority — section65 / scans324–328
+- maintained English file — `sections/65-where-did-that-kurathi-go.md`
+- source-check record — `E62_SOURCE_CHECK.md`
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–010 English body edits — **0**
+- Part012 leakage — **0**
+- unresolved E62 holds — **0**
+- translated / source-checked Part011 files — **5/6 / 5/6**
+
 ## Exact next activity
 
-**E62 draft + source-check — section65 / scans324–328.**
+**E63 draft + source-check — section66 / scans329–330.**
 
-Do not begin E63 until E62 is **SOURCE-CHECKED / COMPLETE**.
+Keep **330→331 PENDING direct audit** and do not semantically complete from Part012.
