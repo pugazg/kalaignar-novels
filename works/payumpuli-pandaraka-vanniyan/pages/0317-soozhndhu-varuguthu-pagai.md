@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf"
-transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans311–320; formal Part011 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans311–320; formal Part011 Pass 2A reviewed; formal Part011 Pass 2B reviewed"
 ---
 
 # சூழ்ந்து வருகுது பகை!
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 
 அந்தக் குதிரைகள் வரும் வரையில் குப்புற வீழ்ந்து கிடந்தால், நல்லநாச்சி தன்னைக் கொல்லமாட்டாள் என்ற நம்பிக்கையுடன் அப்படியே படுத்திருந்தான்.
 
-அவன் எதிர்பார்த்தபடியே அவனது வீரர்கள் அங்கே வந்து சேர்ந்தனர். கீழே போட்ட வாளைக் கையில் எடுத்துக்கொண்டு, நல்லநாச்சியை நோக்கிப் பாய்ந்தான் காக்கை வன்னியன்!
+அவன் எதிர்பார்த்தபடியே அவனது வீரர்கள் அங்கே வந்து சேர்ந்தனர். கீழேபோட்ட வாளைக் கையில் எடுத்துக்கொண்டு, நல்லநாச்சியை நோக்கிப் பாய்ந்தான் காக்கை வன்னியன்!
 
 தன்னைச் சுற்றிப் பகைவர்கள் சூழ்ந்து கொண்டிருப்பதை நல்லநாச்சி உணர்ந்துகொண்டு திடுக்கிட்டாள்!
 
@@ -42,4 +42,17 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 - `visual_fidelity` remains **needs-review** pending later visual gates;
 - Pass 2B historical-glyph / lexical / word-boundary review remains the next gate.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 317; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 17; அச்சுப் பக்கம்: 309; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+## Formal Part011 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part011 source pixels;
+- source-visible lexical forms, compounds, joins and punctuation were preserved without modernization or normalization;
+- reform-sensitive historical-glyph forms were checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 317; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 17; அச்சுப் பக்கம்: 309; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->

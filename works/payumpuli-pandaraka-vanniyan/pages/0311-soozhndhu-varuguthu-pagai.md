@@ -10,14 +10,14 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf"
-transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans311–320; formal Part011 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans311–320; formal Part011 Pass 2A reviewed; formal Part011 Pass 2B reviewed"
 ---
 
 # சூழ்ந்து வருகுது பகை!
 
 ## Source transcription
 
-நல்ல நாச்சியாருக்கு இப்போது தான் அன்றொரு நாள் அண்ணன் எழுதிக்காட்டிய அந்தக் கவிதை வரிகள் நினைவுக்கு வந்தன. தன் தங்கை காதலிப்பது பிர்மானந்தன் என்ற வணிக வாலிபனையல்ல, காக்கை வன்னியன் என்னும் கயவனை - துரோகியை - என்ற உண்மை புரிந்துவிட்ட காரணத்தால்தான் அப்போது பண்டாரக வன்னியன் இடிவிழுந்த ஆலயத்துக் கோபுரமாக நொறுங்கிப்போய் நின்றிருக்கிறார். நாம்தான் மோசம் போய்விட்டோம். பாசத்தை மழையாகப் பொழிந்து என்னை நேசிக்கும் என் அண்ணன், என் காதலன் யார் என்று கேட்டபோது நான் காட்டிய அந்த ஓவியத்தைப் பார்த்து உடைந்து தூளாகிவிட்ட உள்ளத்துடன் அந்த இடத்தை விட்டுச் சென்றாரே, அதற்குக் காரணம் எனக்கு இப்போதுதான் புரிகிறது! அவசரப்பட்டு அருமைத் தங்கை நாட்டுக்கும், இனத்துக்கும் விரோதமான துரோகச் செயலுக்கு அவளையறியாமல் துணை போய்விட்டாளேயென்று என் அண்ணன் துடித்த துடிப்பு தானே அந்த வேதனைக் கவிதையாக வெளிப்பட்டிருக்கிறது!
+நல்ல நாச்சியாருக்கு இப்போது தான் அன்றொருநாள் அண்ணன் எழுதிக்காட்டிய அந்தக் கவிதை வரிகள் நினைவுக்கு வந்தன. தன் தங்கை காதலிப்பது பிர்மானந்தன் என்ற வணிக வாலிபனையல்ல, காக்கை வன்னியன் என்னும் கயவனை - துரோகியை - என்ற உண்மை புரிந்துவிட்ட காரணத்தால்தான் அப்போது பண்டாரக வன்னியன் இடிவிழுந்த ஆலயத்துக் கோபுரமாக நொறுங்கிப்போய் நின்றிருக்கிறார். நாம்தான் மோசம் போய்விட்டோம். பாசத்தை மழையாகப் பொழிந்து என்னை நேசிக்கும் என் அண்ணன், என் காதலன் யார் என்று கேட்டபோது நான் காட்டிய அந்த ஓவியத்தைப் பார்த்து உடைந்து தூளாகிவிட்ட உள்ளத்துடன் அந்த இடத்தை விட்டுச் சென்றாரே, அதற்குக் காரணம் எனக்கு இப்போதுதான் புரிகிறது! அவசரப்பட்டு அருமைத் தங்கை நாட்டுக்கும், இனத்துக்கும் விரோதமான துரோகச் செயலுக்கு அவளையறியாமல் துணை போய்விட்டாளேயென்று என் அண்ணன் துடித்த துடிப்பு தானே அந்த வேதனைக் கவிதையாக வெளிப்பட்டிருக்கிறது!
 
 “நீ ஒரு ஓவியம் வரைந்து காட்டினாய் அல்லவா? இதோநான் ஒரு ஓவியம் வரைந்திருக்கிறேன்! படித்துப்பார்! இதுதான் என் வாழ்க்கை ஓவியம்! வருகிறேன்!”
 
@@ -42,4 +42,17 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 - `visual_fidelity` remains **needs-review** pending later visual gates;
 - Pass 2B historical-glyph / lexical / word-boundary review remains the next gate.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 311; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 11; அச்சுப் பக்கம்: 303; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+## Formal Part011 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part011 source pixels;
+- source-visible lexical forms, compounds, joins and punctuation were preserved without modernization or normalization;
+- reform-sensitive historical-glyph forms were checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 311; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 11; அச்சுப் பக்கம்: 303; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->

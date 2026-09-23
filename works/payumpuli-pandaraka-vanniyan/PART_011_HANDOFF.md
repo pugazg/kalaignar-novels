@@ -124,11 +124,27 @@ Durable Pass2A record:
 Durable Pass2B record:
 - `PART_011_PASS2B_PROGRESS.md`
 
+## Pass2B Batch2 checkpoint
+
+**IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
+
+- reviewed scans — **311–320**
+- printed pages — **303–312**
+- additional Pass2B corrections — **4**
+- correction scans — **311, 316, 317, 320**
+- cumulative Pass2B corrections — **14**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **330→331 — PENDING direct audit**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+
 ## Exact next activity
 
-Proceed with **Part011 Pass2B Batch2 — scans311–320 / local pages11–20 / printed303–312**.
+Proceed with **Part011 Pass2B Batch3 — scans321–330 / local pages21–30 / visible printed pages313–323**.
 
-Process **exactly 10 source pages** in the next iteration. Keep **330→331 PENDING direct audit**. Do not begin Pass3.
+Process **exactly 10 source pages**. Keep **330→331 PENDING direct audit**. Do not begin Pass3.
 
 Rules:
 1. use direct rendered source pixels as authority;

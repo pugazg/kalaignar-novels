@@ -145,6 +145,10 @@ Part011 Pass2A is **COMPLETE / PASS — 30/30 REVIEWED**.
 - outgoing **330→331 — PENDING direct audit**
 - frozen Parts001–010 body mutations — **0**
 - durable Pass2A record — `PART_011_PASS2A_PROGRESS.md`
-- Pass2B — **NOT STARTED / NEXT GATE**
+- Pass2B — **IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
+- Pass2B cumulative corrections — **14**
+- Pass2B historical-glyph corrections — **0**
+- Pass2B unresolved lexical / historical-glyph questions — **0**
+- exact next — **Pass2B Batch3 scans321–330 / exactly 10 source pages**
 
-Do not begin Pass3 in the same activity. Keep outgoing **330→331 PENDING direct audit**.
+Do not begin Pass3. Keep outgoing **330→331 PENDING direct audit**.

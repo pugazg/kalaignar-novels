@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+**PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
 
 Prerequisites:
 - Part011 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -33,10 +33,13 @@ Source-visible irregular forms are preserved without modernization or grammatica
 
 ## Current accounting
 
-- Pass2B reviewed — **10/30 — scans301–310**
-- Pass2B remaining — **20/30 — scans311–330**
+- Pass2B reviewed — **20/30 — scans301–320**
+- Pass2B remaining — **10/30 — scans321–330**
+- cumulative additional Pass2B corrections — **14**
 - Batch1 additional corrections — **10**
 - Batch1 correction scans — **301, 302, 303, 304, 306, 307, 309**
+- Batch2 additional corrections — **4**
+- Batch2 correction scans — **311, 316, 317, 320**
 - historical-glyph corrections — **0**
 - unresolved lexical / historical-glyph questions — **0**
 - textual status — **30/30 verified**
@@ -60,9 +63,20 @@ Total corrections — **10**.
 
 Scans **305, 308 and 310** required **0** additional Pass2B canonical-body corrections.
 
+## Batch 2 correction ledger — scans311–320
+
+| Scan | Printed page | Before | Source-confirmed after | Classification |
+|---:|---:|---|---|---|
+| 311 | 303 | `அன்றொரு நாள்` | **`அன்றொருநாள்`** | source word-boundary / lexical-form correction |
+| 316 | 308 | `புதுத்தெம்பு` | **`புதுதெம்பு`** | lexical / source-form correction |
+| 317 | 309 | `கீழே போட்ட வாளைக்` | **`கீழேபோட்ட வாளைக்`** | source word-boundary correction |
+| 320 | 312 | `அடைக்கப்பட்டுவிட்டது` | **`அடைக்கப் பட்டு விட்டது`** | source spacing / word-boundary correction |
+
+Scans **312–315 and 318–319** required **0** additional Pass2B canonical-body corrections.
+
 ## Historical-glyph review
 
-The reform-sensitive historical-glyph set was checked occurrence by occurrence where present in scans301–310. No canonical historical-glyph correction was required in this batch.
+The reform-sensitive historical-glyph set was checked occurrence by occurrence where present in scans301–320. No canonical historical-glyph correction was required through Batch2.
 
 Historical-glyph corrections — **0**.
 
@@ -75,9 +89,21 @@ Historical-glyph corrections — **0**.
 - frozen Parts001–010 body mutations — **0**
 - Part012 wording leakage — **0**
 
+## Batch 2 decision
+
+**PASS — scans311–320 independently reviewed.**
+
+- additional source-supported corrections — **4**
+- correction scans — **311, 316, 317, 320**
+- historical-glyph corrections — **0**
+- unresolved questions — **0**
+- cumulative Pass2B corrections — **14**
+- frozen Parts001–010 body mutations — **0**
+- Part012 wording leakage — **0**
+
 ## Exact next activity
 
-Perform **Part011 Pass2B Batch2 — scans311–320 / local pages11–20 / printed303–312**.
+Perform **Part011 Pass2B Batch3 — scans321–330 / local pages21–30 / visible printed pages313–323**.
 
 Process **exactly 10 source pages** in the next iteration.
 
