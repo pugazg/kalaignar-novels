@@ -251,13 +251,6 @@ Durable record:
 
 ## Exact next activity
 
-Proceed with **Part011 documentation synchronization**, then the **Tamil archival-ready checkpoint** before assembled Tamil construction.
+Perform **Part011 Tamil archival-ready checkpoint**.
 
-Rules:
-1. use direct rendered source pixels as authority;
-2. preserve source spelling, punctuation, spacing/word boundaries, dialogue and page-end fragments;
-3. use exact Part011 provenance;
-4. keep every new Pass1 record `status: "needs-review"` / `visual_fidelity: "needs-review"`;
-5. do not modify frozen Parts001–010 body layers;
-6. keep **330→331 PENDING direct audit**;
-7. do not begin Pass2A until Part011 Pass1 reaches **30/30**.
+After that checkpoint closes, construct and audit the Part011 assembled Tamil layer. Preserve frozen Parts001–010 and keep outgoing **330→331 PENDING direct audit**.

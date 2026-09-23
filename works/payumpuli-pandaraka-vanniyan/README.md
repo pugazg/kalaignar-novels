@@ -1882,3 +1882,23 @@ Durable final record:
 - `works/payumpuli-pandaraka-vanniyan/PART_010_FINAL_CLOSURE.md`
 
 Exact next activity: directly audit **300→301**; if usable, begin **Part011 Pass1 scans301–310 / local pages1–10**. Do not reopen frozen Parts001–010 merely to advance Part011.
+
+## Part011 final-status / Tamil archival-ready frontier
+
+**PART011 CANONICAL TAMIL — 30/30 VERIFIED.**
+
+- Parts001–010 — **FINAL CLOSED / FROZEN**
+- Part011 Pass1 — **COMPLETE / PASS — 30/30**
+- Pass2A — **COMPLETE / PASS — 14 corrections**
+- Pass2B — **COMPLETE / PASS — 17 corrections**
+- Pass2B historical-glyph corrections — **0**
+- Pass3 — **COMPLETE / PASS — 0 textual corrections**
+- Part011 Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- page-map Part011 rows — **30/30 verified**
+- incoming **300→301 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **330→331 — PENDING direct audit**
+- unresolved Tamil / lexical / glyph / visual / structural blockers — **0**
+- exact next gate — **Part011 Tamil archival-ready checkpoint**, then assembled Tamil construction + audit

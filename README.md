@@ -1557,3 +1557,23 @@ Durable controls:
 - `works/payumpuli-pandaraka-vanniyan/PART_011_HANDOFF.md`
 
 Exact next activity: **Part011 Pass1 scans311–320 / local pages11–20 / printed303–312**.
+
+## Part011 final-status / Tamil archival-ready frontier
+
+**PART011 CANONICAL TAMIL — 30/30 VERIFIED.**
+
+- Parts001–010 — **FINAL CLOSED / FROZEN**
+- Part011 Pass1 — **COMPLETE / PASS — 30/30**
+- Pass2A — **COMPLETE / PASS — 14 corrections**
+- Pass2B — **COMPLETE / PASS — 17 corrections**
+- Pass2B historical-glyph corrections — **0**
+- Pass3 — **COMPLETE / PASS — 0 textual corrections**
+- Part011 Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- page-map Part011 rows — **30/30 verified**
+- incoming **300→301 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **330→331 — PENDING direct audit**
+- unresolved Tamil / lexical / glyph / visual / structural blockers — **0**
+- exact next gate — **Part011 Tamil archival-ready checkpoint**, then assembled Tamil construction + audit
