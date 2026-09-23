@@ -186,9 +186,24 @@ Durable Pass2B record:
 Durable Pass3 record:
 - `PART_011_PASS3_PROGRESS.md`
 
+## Pass3 Batch2 checkpoint
+
+**IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
+
+- reviewed scans — **311–320**
+- printed pages — **303–312**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- chapter49 — **opens311 / closes317**
+- scan317 intentional blank lower field — **CONFIRMED**
+- chapter50 — **opens318 / continues through320**
+- scan320 terminal state — **open continuation at `பண்டாரக வன்னியன்`**
+- visual fidelity — **30/30 needs-review**
+- outgoing **330→331 — PENDING direct audit**
+
 ## Exact next activity
 
-Proceed with **Part011 Pass3 Batch2 — scans311–320 / local pages11–20 / printed303–312**.
+Proceed with **Part011 Pass3 Batch3 — scans321–330 / local pages21–30 / visible printed pages313–323**.
 
 Process **exactly 10 source pages**. Keep **330→331 PENDING direct audit**. Do not begin Part audit.
 

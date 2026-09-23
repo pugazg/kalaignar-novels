@@ -166,3 +166,12 @@ Part011 Pass3 is **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**.
 
 Exact next activity: **Part011 Pass3 Batch2 — scans311–320**, exactly **10 source pages**.
 
+## Post-Pass3 Batch2 current state
+
+- Part011 Pass3 — **IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- exact next — **Pass3 Batch3 scans321–330 / exactly 10 source pages**
+- visual fidelity — **30/30 needs-review**
+- outgoing **330→331 — PENDING direct audit**
+
