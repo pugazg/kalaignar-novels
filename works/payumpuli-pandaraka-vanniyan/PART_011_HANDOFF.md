@@ -251,6 +251,6 @@ Durable record:
 
 ## Exact next activity
 
-Begin **Part011 English translation planning/setup**.
+Proceed with **E58 draft + source-check — section61 / scans301–303**.
 
-Perform a live English source-check/batch-number collision check before reserving the Part011 sequence. Create planning/glossary/progress controls only; do not draft English prose in the setup gate.
+Use verified Part011 assembled Tamil as the immediate translation authority, preserve the incoming 300→301 continuation discipline, keep frozen E57 / Part010 English unchanged, and do not begin E59 until E58 is **SOURCE-CHECKED / COMPLETE**.

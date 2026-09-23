@@ -2028,3 +2028,31 @@ Durable validation:
 - `works/payumpuli-pandaraka-vanniyan/PART_011_ASSEMBLED_TAMIL_VALIDATION.md`
 
 Exact next gate: **Part011 English translation planning/setup**. Perform a live English control/batch collision check first; do not draft English prose during setup.
+
+## Part011 English planning/setup checkpoint
+
+**PART011 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- live source-check collision check — **PASS**
+- existing source-check controls — **E1–E57 contiguous**
+- prior closed frontier — **E57**
+- reserved Part011 sequence — **E58–E63 / 6**
+- maintained English section-order range before setup — **0–60**
+- reserved Part011 English section range — **61–66**
+- section-order collisions — **0**
+- translated / source-checked at setup closure — **0/6 / 0/6**
+- English literary prose drafted in setup — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–010 English body edits — **0**
+- outgoing **330→331 — PENDING direct audit**
+- Part012 leakage — **0**
+- unresolved planning holds — **0**
+
+Active controls:
+- `translations/en/PART_011_TRANSLATION_PLAN.md`
+- `translations/en/PART_011_GLOSSARY.md`
+- `translations/en/PART_011_PROGRESS.md`
+
+Exact next gate: **E58 draft + source-check — section61 / scans301–303**.
+
+Do not begin E59 until E58 is **SOURCE-CHECKED / COMPLETE**.
