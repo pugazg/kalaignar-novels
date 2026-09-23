@@ -80,11 +80,28 @@ Durable progress:
 - outgoing **330→331 — PENDING direct audit**;
 - Pass2A — **NOT STARTED / AUTHORIZED / NEXT**.
 
+## Pass2A checkpoint
+
+**COMPLETE / PASS — 30/30 REVIEWED**
+
+- reviewed scans — **301–330 / 30**
+- source-text / spacing / punctuation corrections — **14**
+- correction scans — **301, 304, 308, 312, 314, 315, 316, 320, 330**
+- unresolved textual questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- scan330 illustrated two-page spread — **printed322–323 / re-confirmed**
+- outgoing **330→331 — PENDING direct audit**
+- Pass2B — **NOT STARTED / NEXT**
+
+Durable Pass2A record:
+- `PART_011_PASS2A_PROGRESS.md`
+
 ## Exact next activity
 
-Proceed with **Part011 Pass2A — direct textual source-fidelity review of scans301–330**.
+Proceed with **Part011 Pass2B — independent historical-glyph / lexical / word-boundary / punctuation-sensitive fidelity review of scans301–330**.
 
-Keep **330→331 PENDING direct audit**. Do not begin Pass2B in the same activity.
+Keep **330→331 PENDING direct audit**. Do not begin Pass3 in the same activity.
 
 Rules:
 1. use direct rendered source pixels as authority;

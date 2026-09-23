@@ -306,36 +306,36 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 010 | 28 | 298 | 290 | chapter47 opening `தலையாழி மாற்றிக் கொண்டனர்`; displayed number 47 | verified | `pages/0298-thalaiyaazhi-maatrik-kondanar.md` |
 | 010 | 29 | 299 | 291 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; ends `காக்கை வன்னியனின்` | verified | `pages/0299-thalaiyaazhi-maatrik-kondanar.md` |
 | 010 | 30 | 300 | 292 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; Part010 ends with open quotation/question; 300→301 pending | verified | `pages/0300-thalaiyaazhi-maatrik-kondanar.md` |
-| 011 | 1 | 301 | 293 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; incoming 300→301 genuine continuation audited; ends `தயவு` | needs-review | `pages/0301-thalaiyaazhi-maatrik-kondanar.md` |
-| 011 | 2 | 302 | 294 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; resumes scan301 dialogue | needs-review | `pages/0302-thalaiyaazhi-maatrik-kondanar.md` |
-| 011 | 3 | 303 | 295 | `தலையாழி மாற்றிக் கொண்டனர்` continuation / close | needs-review | `pages/0303-thalaiyaazhi-maatrik-kondanar.md` |
-| 011 | 4 | 304 | 296 | chapter48 opening `முத்திரை கிழிந்தது!`; displayed number 48; ends `தணிகைமலையை` | needs-review | `pages/0304-muththirai-kizhindhathu.md` |
-| 011 | 5 | 305 | 297 | `முத்திரை கிழிந்தது!` continuation; resumes scan304; ends split word `பழக்க` | needs-review | `pages/0305-muththirai-kizhindhathu.md` |
-| 011 | 6 | 306 | 298 | `முத்திரை கிழிந்தது!` continuation; begins split-word continuation `மான` | needs-review | `pages/0306-muththirai-kizhindhathu.md` |
-| 011 | 7 | 307 | 299 | `முத்திரை கிழிந்தது!` continuation; ends mid-sentence | needs-review | `pages/0307-muththirai-kizhindhathu.md` |
-| 011 | 8 | 308 | 300 | `முத்திரை கிழிந்தது!` continuation; ends `அவள்,` | needs-review | `pages/0308-muththirai-kizhindhathu.md` |
-| 011 | 9 | 309 | 301 | `முத்திரை கிழிந்தது!` continuation; copy-specific library mark excluded | needs-review | `pages/0309-muththirai-kizhindhathu.md` |
-| 011 | 10 | 310 | 302 | `முத்திரை கிழிந்தது!` close; substantial intentional blank lower field | needs-review | `pages/0310-muththirai-kizhindhathu.md` |
-| 011 | 11 | 311 | 303 | chapter49 opening `சூழ்ந்து வருகுது பகை!`; displayed number 49 | needs-review | `pages/0311-soozhndhu-varuguthu-pagai.md` |
-| 011 | 12 | 312 | 304 | `சூழ்ந்து வருகுது பகை!` continuation; displayed verse lineation; ends `இழிந்த` | needs-review | `pages/0312-soozhndhu-varuguthu-pagai.md` |
-| 011 | 13 | 313 | 305 | `சூழ்ந்து வருகுது பகை!` continuation; resumes `மனிதனான`; ends `கற்புத்` | needs-review | `pages/0313-soozhndhu-varuguthu-pagai.md` |
-| 011 | 14 | 314 | 306 | `சூழ்ந்து வருகுது பகை!` continuation; resumes `தெய்வம்` | needs-review | `pages/0314-soozhndhu-varuguthu-pagai.md` |
-| 011 | 15 | 315 | 307 | `சூழ்ந்து வருகுது பகை!` continuation; ends `இவற்றில்` | needs-review | `pages/0315-soozhndhu-varuguthu-pagai.md` |
-| 011 | 16 | 316 | 308 | `சூழ்ந்து வருகுது பகை!` continuation; resumes `எதையும்` | needs-review | `pages/0316-soozhndhu-varuguthu-pagai.md` |
-| 011 | 17 | 317 | 309 | `சூழ்ந்து வருகுது பகை!` close; substantial intentional blank lower field | needs-review | `pages/0317-soozhndhu-varuguthu-pagai.md` |
-| 011 | 18 | 318 | 310 | chapter50 opening `பண்டாரகன் - பகதூர்`; displayed number 50; ends `கிழித்து` | needs-review | `pages/0318-pandaaragan-pagathur.md` |
-| 011 | 19 | 319 | 311 | `பண்டாரகன் - பகதூர்` continuation; resumes `மறையும்` | needs-review | `pages/0319-pandaaragan-pagathur.md` |
-| 011 | 20 | 320 | 312 | `பண்டாரகன் - பகதூர்` continuation; ends mid-sentence/open quotation at `பண்டாரக வன்னியன்` | needs-review | `pages/0320-pandaaragan-pagathur.md` |
-| 011 | 21 | 321 | 313 | `பண்டாரகன் - பகதூர்` continuation; resumes scan320 open quotation with `பதில் பேச முடியாது!` | needs-review | `pages/0321-pandaaragan-pagathur.md` |
-| 011 | 22 | 322 | 314 | `பண்டாரகன் - பகதூர்` continuation | needs-review | `pages/0322-pandaaragan-pagathur.md` |
-| 011 | 23 | 323 | 315 | `பண்டாரகன் - பகதூர்` close; substantial intentional blank lower field | needs-review | `pages/0323-pandaaragan-pagathur.md` |
-| 011 | 24 | 324 | 316 | chapter51 opening `எங்குற்றாள் அந்தக் குறத்தி?`; displayed number 51 | needs-review | `pages/0324-engutraal-andha-kuraththi.md` |
-| 011 | 25 | 325 | 317 | `எங்குற்றாள் அந்தக் குறத்தி?` continuation | needs-review | `pages/0325-engutraal-andha-kuraththi.md` |
-| 011 | 26 | 326 | 318 | `எங்குற்றாள் அந்தக் குறத்தி?` continuation; ends `அப்படியா?` | needs-review | `pages/0326-engutraal-andha-kuraththi.md` |
-| 011 | 27 | 327 | 319 | `எங்குற்றாள் அந்தக் குறத்தி?` continuation; ends physical split fragment `இவர்` | needs-review | `pages/0327-engutraal-andha-kuraththi.md` |
-| 011 | 28 | 328 | 320 | `எங்குற்றாள் அந்தக் குறத்தி?` continuation/close; resumes `களது`; substantial intentional blank lower field | needs-review | `pages/0328-engutraal-andha-kuraththi.md` |
-| 011 | 29 | 329 | 321 | chapter52 opening `மயங்குகிறாள் ஒரு மாது!`; displayed number 52 | needs-review | `pages/0329-mayangukiraal-oru-maadhu.md` |
-| 011 | 30 | 330 | 322–323 | illustrated two-page spread; `மயங்குகிறாள் ஒரு மாது!` continuation; left322→right323; ends `தேவையில்லாமலே`; 330→331 pending | needs-review | `pages/0330-mayangukiraal-oru-maadhu.md` |
+| 011 | 1 | 301 | 293 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; incoming 300→301 genuine continuation audited; ends `தயவு` | verified | `pages/0301-thalaiyaazhi-maatrik-kondanar.md` |
+| 011 | 2 | 302 | 294 | `தலையாழி மாற்றிக் கொண்டனர்` continuation; resumes scan301 dialogue | verified | `pages/0302-thalaiyaazhi-maatrik-kondanar.md` |
+| 011 | 3 | 303 | 295 | `தலையாழி மாற்றிக் கொண்டனர்` continuation / close | verified | `pages/0303-thalaiyaazhi-maatrik-kondanar.md` |
+| 011 | 4 | 304 | 296 | chapter48 opening `முத்திரை கிழிந்தது!`; displayed number 48; ends `தணிகைமலையை` | verified | `pages/0304-muththirai-kizhindhathu.md` |
+| 011 | 5 | 305 | 297 | `முத்திரை கிழிந்தது!` continuation; resumes scan304; ends split word `பழக்க` | verified | `pages/0305-muththirai-kizhindhathu.md` |
+| 011 | 6 | 306 | 298 | `முத்திரை கிழிந்தது!` continuation; begins split-word continuation `மான` | verified | `pages/0306-muththirai-kizhindhathu.md` |
+| 011 | 7 | 307 | 299 | `முத்திரை கிழிந்தது!` continuation; ends mid-sentence | verified | `pages/0307-muththirai-kizhindhathu.md` |
+| 011 | 8 | 308 | 300 | `முத்திரை கிழிந்தது!` continuation; ends `அவள்,` | verified | `pages/0308-muththirai-kizhindhathu.md` |
+| 011 | 9 | 309 | 301 | `முத்திரை கிழிந்தது!` continuation; copy-specific library mark excluded | verified | `pages/0309-muththirai-kizhindhathu.md` |
+| 011 | 10 | 310 | 302 | `முத்திரை கிழிந்தது!` close; substantial intentional blank lower field | verified | `pages/0310-muththirai-kizhindhathu.md` |
+| 011 | 11 | 311 | 303 | chapter49 opening `சூழ்ந்து வருகுது பகை!`; displayed number 49 | verified | `pages/0311-soozhndhu-varuguthu-pagai.md` |
+| 011 | 12 | 312 | 304 | `சூழ்ந்து வருகுது பகை!` continuation; displayed verse lineation; ends `இழிந்த` | verified | `pages/0312-soozhndhu-varuguthu-pagai.md` |
+| 011 | 13 | 313 | 305 | `சூழ்ந்து வருகுது பகை!` continuation; resumes `மனிதனான`; ends `கற்புத்` | verified | `pages/0313-soozhndhu-varuguthu-pagai.md` |
+| 011 | 14 | 314 | 306 | `சூழ்ந்து வருகுது பகை!` continuation; resumes `தெய்வம்` | verified | `pages/0314-soozhndhu-varuguthu-pagai.md` |
+| 011 | 15 | 315 | 307 | `சூழ்ந்து வருகுது பகை!` continuation; ends `இவற்றில்` | verified | `pages/0315-soozhndhu-varuguthu-pagai.md` |
+| 011 | 16 | 316 | 308 | `சூழ்ந்து வருகுது பகை!` continuation; resumes `எதையும்` | verified | `pages/0316-soozhndhu-varuguthu-pagai.md` |
+| 011 | 17 | 317 | 309 | `சூழ்ந்து வருகுது பகை!` close; substantial intentional blank lower field | verified | `pages/0317-soozhndhu-varuguthu-pagai.md` |
+| 011 | 18 | 318 | 310 | chapter50 opening `பண்டாரகன் - பகதூர்`; displayed number 50; ends `கிழித்து` | verified | `pages/0318-pandaaragan-pagathur.md` |
+| 011 | 19 | 319 | 311 | `பண்டாரகன் - பகதூர்` continuation; resumes `மறையும்` | verified | `pages/0319-pandaaragan-pagathur.md` |
+| 011 | 20 | 320 | 312 | `பண்டாரகன் - பகதூர்` continuation; ends mid-sentence/open quotation at `பண்டாரக வன்னியன்` | verified | `pages/0320-pandaaragan-pagathur.md` |
+| 011 | 21 | 321 | 313 | `பண்டாரகன் - பகதூர்` continuation; resumes scan320 open quotation with `பதில் பேச முடியாது!` | verified | `pages/0321-pandaaragan-pagathur.md` |
+| 011 | 22 | 322 | 314 | `பண்டாரகன் - பகதூர்` continuation | verified | `pages/0322-pandaaragan-pagathur.md` |
+| 011 | 23 | 323 | 315 | `பண்டாரகன் - பகதூர்` close; substantial intentional blank lower field | verified | `pages/0323-pandaaragan-pagathur.md` |
+| 011 | 24 | 324 | 316 | chapter51 opening `எங்குற்றாள் அந்தக் குறத்தி?`; displayed number 51 | verified | `pages/0324-engutraal-andha-kuraththi.md` |
+| 011 | 25 | 325 | 317 | `எங்குற்றாள் அந்தக் குறத்தி?` continuation | verified | `pages/0325-engutraal-andha-kuraththi.md` |
+| 011 | 26 | 326 | 318 | `எங்குற்றாள் அந்தக் குறத்தி?` continuation; ends `அப்படியா?` | verified | `pages/0326-engutraal-andha-kuraththi.md` |
+| 011 | 27 | 327 | 319 | `எங்குற்றாள் அந்தக் குறத்தி?` continuation; ends physical split fragment `இவர்` | verified | `pages/0327-engutraal-andha-kuraththi.md` |
+| 011 | 28 | 328 | 320 | `எங்குற்றாள் அந்தக் குறத்தி?` continuation/close; resumes `களது`; substantial intentional blank lower field | verified | `pages/0328-engutraal-andha-kuraththi.md` |
+| 011 | 29 | 329 | 321 | chapter52 opening `மயங்குகிறாள் ஒரு மாது!`; displayed number 52 | verified | `pages/0329-mayangukiraal-oru-maadhu.md` |
+| 011 | 30 | 330 | 322–323 | illustrated two-page spread; `மயங்குகிறாள் ஒரு மாது!` continuation; left322→right323; ends `தேவையில்லாமலே`; 330→331 pending | verified | `pages/0330-mayangukiraal-oru-maadhu.md` |
 | 012 | 1 | 331 | — | unclassified — direct visual audit pending | not-started | — |
 | 012 | 2 | 332 | — | unclassified — direct visual audit pending | not-started | — |
 | 012 | 3 | 333 | — | unclassified — direct visual audit pending | not-started | — |

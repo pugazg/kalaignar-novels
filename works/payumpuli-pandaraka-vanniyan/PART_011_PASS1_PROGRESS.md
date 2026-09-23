@@ -129,6 +129,22 @@ Frozen Parts001–010 canonical Tamil, assembled Tamil and maintained English bo
 
 ## Exact next activity
 
-Proceed with **Part011 Pass2A — direct textual source-fidelity review of scans301–330**.
+Proceed with **Part011 Pass2B — independent historical-glyph / lexical / word-boundary / punctuation-sensitive fidelity review of scans301–330**.
 
-Pass2A is authorized but **NOT STARTED** in this activity. Keep outgoing **330→331 PENDING direct audit**.
+## Post-Pass2A current state
+
+Part011 Pass2A is **COMPLETE / PASS — 30/30 REVIEWED**.
+
+- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 14 corrections**
+- Pass2A correction scans — **301, 304, 308, 312, 314, 315, 316, 320, 330**
+- unresolved Pass2A textual questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **300→301 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **330→331 — PENDING direct audit**
+- frozen Parts001–010 body mutations — **0**
+- durable Pass2A record — `PART_011_PASS2A_PROGRESS.md`
+- Pass2B — **NOT STARTED / NEXT GATE**
+
+Do not begin Pass3 in the same activity. Keep outgoing **330→331 PENDING direct audit**.

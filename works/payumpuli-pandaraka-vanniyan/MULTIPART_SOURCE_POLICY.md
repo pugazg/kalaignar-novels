@@ -38,7 +38,7 @@ For every `N→N+1` boundary:
 - 16 / 16 split PDFs — **SUPPLIED / REGISTERED**
 - Part001 — **FINAL CLOSURE / CLOSED / FROZEN**
 - Part002 — **FINAL CLOSURE / CLOSED / FROZEN**
-- active Part — **Part006 / scans151–180**
+- active Part — **Part011 / scans301–330 / Pass2A COMPLETE**
 - Part003 canonical records — **30/30**
 - Part003 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Part003 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
@@ -888,3 +888,30 @@ Durable final record:
 - `works/payumpuli-pandaraka-vanniyan/PART_010_FINAL_CLOSURE.md`
 
 Exact next activity: directly audit **300→301**; if usable, begin **Part011 Pass1 scans301–310 / local pages1–10**. Do not reopen frozen Parts001–010 merely to advance Part011.
+
+## Part011 Pass1 closure + Pass2A checkpoint
+
+**PART011 PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE.**  
+**PART011 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Parts001–010 — **FINAL CLOSED / FROZEN**
+- Part011 canonical records — **30/30 — scans301–330**
+- printed-page coverage — **293–323**
+- scan330 — **single illustrated two-page spread / printed322–323**
+- incoming **300→301 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **330→331 — PENDING direct audit**
+- Pass2A source-text / spacing / punctuation corrections — **14**
+- correction scans — **301, 304, 308, 312, 314, 315, 316, 320, 330**
+- unresolved Pass2A textual questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- frozen Parts001–010 canonical / assembled / English body mutations — **0**
+- Pass2B — **NOT STARTED / NEXT GATE**
+
+Durable Pass2A record:
+- `PART_011_PASS2A_PROGRESS.md`
+
+Exact next activity: **Part011 Pass2B — independent historical-glyph / lexical / word-boundary / punctuation-sensitive fidelity review of scans301–330**.
+
+Do not begin Pass3 in the same activity. Keep **330→331 PENDING direct audit**.
+
