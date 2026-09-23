@@ -229,3 +229,20 @@ Do not begin whole-Part editorial review until glossary reconciliation closes.
 
 Exact next gate: **Part011 whole-Part English editorial review**.
 
+## Whole-Part English editorial review checkpoint
+
+**PART011 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- files reviewed — **6/6**
+- source-check status — **6/6 COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- additional English-only editorial corrections — **0**
+- unsupported explanatory prose / translator commentary — **0 / 0**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–010 English body edits — **0**
+- outgoing **330→331 — PENDING direct audit**
+- Part012 leakage — **0**
+
+Exact next gate: **Part011 whole-Part bilingual review**.
+
