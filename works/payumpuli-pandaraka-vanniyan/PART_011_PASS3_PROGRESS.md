@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
+**PASS 3 — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisites:
 - Part011 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -34,14 +34,14 @@ For every physical scan:
 
 ## Current accounting
 
-- Pass3 reviewed — **20/30 — scans301–320**
-- Pass3 remaining — **10/30 — scans321–330**
+- Pass3 reviewed — **30/30 — scans301–330**
+- Pass3 remaining — **0/30**
 - Pass3 textual corrections — **0**
 - unresolved visual / structural questions — **0**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - outgoing **330→331 — PENDING direct audit**
-- Part audit — **NOT STARTED / BLOCKED UNTIL PASS3 COMPLETE**
+- Part audit — **NOT STARTED / NEXT GATE**
 
 ## Batch 1 structural confirmations — scans301–310
 
@@ -103,6 +103,41 @@ Directly confirmed:
 - frozen Parts001–010 body mutations — **0**
 - Part012 wording leakage — **0**
 
+## Batch 3 structural confirmations — scans321–330
+
+### Printed pagination
+
+Directly confirmed:
+- scans321–329 — printed **313–321**;
+- scan330 — one physical illustrated spread carrying printed pages **322–323**.
+
+### Chapter / hierarchy structure
+
+- scans321–323 — chapter50 continuation / close `பண்டாரகன் - பகதூர்`;
+- scan323 — chapter50 close with substantial intentional blank lower field;
+- scan324 — chapter51 opening `எங்குற்றாள் அந்தக் குறத்தி?`, displayed **51**;
+- scans325–328 — chapter51 continuation / close;
+- scan328 — substantial intentional blank lower field;
+- scan329 — chapter52 opening `மயங்குகிறாள் ஒரு மாது!`, displayed **52**;
+- scan330 — chapter52 continuation on an illustrated two-page spread.
+
+### Physical continuation and special page states
+
+- scan320→321 open quotation continuation remains structurally consistent;
+- scan327→328 preserves physical split **`இவர்` + `களது`**;
+- scan330 is a single physical scan with printed **322 left → 323 right**, full-colour illustration above two lower text panels;
+- scan330 ends mid-sentence at **`தேவையில்லாமலே`**;
+- outgoing **330→331 remains PENDING direct audit**.
+
+## Batch 3 decision
+
+**PASS — scans321–330 visually and structurally reviewed.**
+
+- textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- frozen Parts001–010 body mutations — **0**
+- Part012 wording leakage — **0**
+
 ## Batch 1 decision
 
 **PASS — scans301–310 visually and structurally reviewed.**
@@ -112,10 +147,23 @@ Directly confirmed:
 - frozen Parts001–010 body mutations — **0**
 - Part012 wording leakage — **0**
 
+## Pass 3 closure
+
+**PASS — 30/30 Part011 physical scans visually and structurally verified.**
+
+Cumulative gate state:
+- Pass1 — **COMPLETE / PASS**
+- Pass2A — **COMPLETE / PASS — 14 corrections**
+- Pass2B — **COMPLETE / PASS — 17 corrections**
+- Pass3 — **COMPLETE / PASS — 0 textual corrections**
+- unresolved Tamil / lexical / glyph / visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- Parts001–010 — **FINAL CLOSED / FROZEN**
+- outgoing **330→331 — PENDING direct audit**
+
 ## Exact next activity
 
-Perform **Part011 Pass3 Batch3 — scans321–330 / local pages21–30 / visible printed pages313–323**.
+Perform **Part011 Part audit**.
 
-Process **exactly 10 source pages**.
-
-Do not begin Part audit. Keep outgoing **330→331 PENDING direct audit**.
+Do not perform final metadata/status synchronization in the same audit gate. Keep outgoing **330→331 PENDING direct audit**.

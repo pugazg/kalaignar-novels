@@ -201,11 +201,27 @@ Durable Pass3 record:
 - visual fidelity — **30/30 needs-review**
 - outgoing **330→331 — PENDING direct audit**
 
+## Pass3 Batch3 / closure checkpoint
+
+**COMPLETE / PASS — 30/30 REVIEWED**
+
+- reviewed scans — **321–330**
+- visible printed pages — **313–323**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- scan323 intentional blank lower field — **CONFIRMED**
+- chapter51 opens324 / closes328 — **CONFIRMED**
+- scan327→328 split **`இவர்` + `களது`** — **CONFIRMED**
+- scan328 intentional blank lower field — **CONFIRMED**
+- chapter52 opens329 — **CONFIRMED**
+- scan330 illustrated printed322–323 spread — **CONFIRMED**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **330→331 — PENDING direct audit**
+
 ## Exact next activity
 
-Proceed with **Part011 Pass3 Batch3 — scans321–330 / local pages21–30 / visible printed pages313–323**.
-
-Process **exactly 10 source pages**. Keep **330→331 PENDING direct audit**. Do not begin Part audit.
+Proceed with **Part011 Part audit**. After that audit closes, perform final metadata/status synchronization, documentation synchronization, Tamil archival-ready checkpoint, and assembled Tamil construction + audit as separate gates.
 
 Rules:
 1. use direct rendered source pixels as authority;

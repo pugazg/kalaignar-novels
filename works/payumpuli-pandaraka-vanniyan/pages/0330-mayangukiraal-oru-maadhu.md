@@ -11,7 +11,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_011_pages_301-330.pdf"
-transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans321–330; formal Part011 Pass 2A reviewed; formal Part011 Pass 2B reviewed"
+transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch scans321–330; formal Part011 Pass 2A reviewed; formal Part011 Pass 2B reviewed; formal Part011 Pass 3 reviewed"
 ---
 
 # மயங்குகிறாள் ஒரு மாது!
@@ -63,4 +63,16 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 batch s
 - textual `status` remains **verified**;
 - `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 330; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 30; அச்சுப் பக்கங்கள்: 322–323; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
+
+## Formal Part011 Pass 3 review
+
+- direct full-page visual / structural verification completed against the rendered Part011 source image;
+- page type, printed pagination, recurring border/page furniture, paragraph/dialogue block placement, displayed hierarchy and physical page-end state were checked;
+- single illustrated two-page spread; printed pages 322–323 read left→right; full-colour illustration above two text panels; page ends mid-sentence at `தேவையில்லாமலே`;
+- Tamil body corrections in Pass 3: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** until Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 330; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 30; அச்சுப் பக்கங்கள்: 322–323; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / PASS 3 VISUAL-STRUCTURAL REVIEWED / visual-needs-review -->
