@@ -2408,3 +2408,26 @@ Do not begin E59 until E58 is **SOURCE-CHECKED / COMPLETE**.
 - outgoing **330→331 — PENDING direct audit**
 - Part012 body leakage — **0**
 - exact next gate — **Part011 final closure**
+
+## Part011 final closure / Part012 frontier
+
+**PART011 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- Part011 canonical Tamil — **30/30 verified / frozen**
+- Part011 visual fidelity — **30/30 verified / frozen**
+- Part011 assembled Tamil — **6/6 VERIFIED / frozen**
+- Part011 E58–E63 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved Part011 blockers — **0**
+- incoming **300→301 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **330→331 — PENDING direct audit**
+- Part012 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part012 scans — **331–360**
+- Part012 canonical records — **0**
+
+Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pass1 scans331–340 / local pages1–10**.
