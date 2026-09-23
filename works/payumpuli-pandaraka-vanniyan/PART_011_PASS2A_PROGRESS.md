@@ -185,3 +185,16 @@ Part011 Pass2B is **COMPLETE / PASS — 30/30 REVIEWED**.
 
 Exact next activity: **Part011 Pass3 Batch1 — scans301–310**, exactly **10 source pages**.
 
+## Post-Pass3 Batch1 current state
+
+Part011 Pass3 is **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**.
+
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- exact next — **Pass3 Batch2 scans311–320 / exactly 10 source pages**
+- outgoing **330→331 — PENDING direct audit**
+
+Durable record: `PART_011_PASS3_PROGRESS.md`.
+

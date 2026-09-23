@@ -152,3 +152,14 @@ Part011 Pass2A is **COMPLETE / PASS — 30/30 REVIEWED**.
 - exact next — **Pass3 Batch1 scans301–310 / exactly 10 source pages**
 
 Keep outgoing **330→331 PENDING direct audit**. Do not begin Part audit.
+
+## Post-Pass3 Batch1 current state
+
+- Pass3 — **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+- reviewed scans — **301–310**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- exact next — **Pass3 Batch2 scans311–320 / exactly 10 source pages**
+- outgoing **330→331 — PENDING direct audit**
+- Part audit — **NOT STARTED**
+

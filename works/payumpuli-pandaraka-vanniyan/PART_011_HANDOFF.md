@@ -157,9 +157,38 @@ Durable Pass2B record:
 - outgoing **330→331 — PENDING direct audit**
 - Pass3 — **NOT STARTED / NEXT**
 
+## Pass3 fixed iteration rule
+
+- **10 source pages per iteration**
+- Batch1 — scans301–310
+- Batch2 — scans311–320
+- Batch3 — scans321–330
+- do not exceed 10 source pages in a Pass3 iteration unless the user explicitly overrides this rule
+
+## Pass3 Batch1 checkpoint
+
+**IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+
+- reviewed scans — **301–310**
+- printed pages — **293–302**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- chapter47 continuation / close — **scans301–303**
+- chapter48 opening — **scan304 / displayed 48 / `முத்திரை கிழிந்தது!`**
+- scan305→306 split — **`பழக்க` + `மான`**
+- scan309 library ownership stamp — **non-literary matter / excluded**
+- scan310 — **chapter48 close / substantial intentional blank lower field confirmed**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **330→331 — PENDING direct audit**
+- Part audit — **NOT STARTED / BLOCKED UNTIL PASS3 COMPLETE**
+
+Durable Pass3 record:
+- `PART_011_PASS3_PROGRESS.md`
+
 ## Exact next activity
 
-Proceed with **Part011 Pass3 Batch1 — scans301–310** for direct full-page visual / structural verification.
+Proceed with **Part011 Pass3 Batch2 — scans311–320 / local pages11–20 / printed303–312**.
 
 Process **exactly 10 source pages**. Keep **330→331 PENDING direct audit**. Do not begin Part audit.
 

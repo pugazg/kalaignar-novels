@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity/global mapping are durable; Part011 Pass2B is COMPLETE / PASS at 30/30 REVIEWED.**
+**REGISTERED — split identity/global mapping are durable; Part011 Pass3 is IN PROGRESS / Batch1 complete at 10/30 REVIEWED.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **301–330**;
@@ -44,13 +44,13 @@ The canonical `scan_page` remains the overall scan number **301–330**.
 
 Part 011 source split: **SUPPLIED / REGISTERED**.
 
-Part010 is FINAL CLOSED / FROZEN. Part011 is **ACTIVE / PASS2B COMPLETE / PASS — 30/30 REVIEWED**.
+Part010 is FINAL CLOSED / FROZEN. Part011 is **ACTIVE / PASS3 IN PROGRESS — BATCH 1 COMPLETE — 10/30 REVIEWED**.
 
 
 ## Post-Part010 frontier
 
 - Parts001–010 — **FINAL CLOSED / FROZEN**
-- Part011 — **ACTIVE / PASS2B COMPLETE / PASS — 30/30 REVIEWED**
+- Part011 — **ACTIVE / PASS3 IN PROGRESS — BATCH 1 COMPLETE — 10/30 REVIEWED**
 - Part011 canonical records — **30/30 — scans301–330**
 - incoming boundary — **300→301 GENUINE CONTINUATION / AUDITED / PASS**
 - Pass1 Batch1 — **scans301–310 — COMPLETE / TEXT-COMPLETE**
@@ -205,4 +205,23 @@ Exact next activity: **Part011 Pass2B Batch3 — scans321–330**. Process exact
 - Pass3 — **NOT STARTED / NEXT**
 
 Exact next activity: **Part011 Pass3 Batch1 — scans301–310**, exactly **10 source pages**.
+
+## Pass3 Batch1 checkpoint
+
+**PART011 PASS 3 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- iteration size — **10 source pages**
+- reviewed — **scans301–310 / printed293–302**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- scan304 chapter48 opening / displayed **48** — **RECONFIRMED**
+- scan305→306 physical split **`பழக்க` + `மான`** — **RECONFIRMED**
+- scan309 library ownership stamp — **non-literary matter / excluded**
+- scan310 intentional blank lower field — **RECONFIRMED**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **330→331 — PENDING direct audit**
+- Part audit — **NOT STARTED**
+
+Exact next activity: **Part011 Pass3 Batch2 — scans311–320**, exactly **10 source pages**.
 

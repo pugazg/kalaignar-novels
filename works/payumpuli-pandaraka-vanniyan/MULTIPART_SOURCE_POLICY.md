@@ -919,3 +919,17 @@ Exact next activity: **Part011 Pass3 Batch1 — direct full-page visual / struct
 
 Follow the user's **10 source pages per iteration** cadence. Keep **330→331 PENDING direct audit**.
 
+## Part011 Pass3 Batch1 checkpoint
+
+**PART011 PASS 3 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- reviewed scans — **301–310**
+- printed pages — **293–302**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **330→331 — PENDING direct audit**
+- Parts001–010 — **FINAL CLOSED / FROZEN**
+- exact next activity — **Pass3 Batch2 scans311–320 / exactly 10 source pages**
+

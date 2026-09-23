@@ -147,3 +147,22 @@ Perform **Part011 Pass3 Batch1 — direct full-page visual / structural verifica
 Follow the user's **10 source pages per iteration** cadence.
 
 Do not begin Part audit in the same activity. Keep outgoing **330→331 PENDING direct audit**.
+
+## Post-Pass3 Batch1 current state
+
+Part011 Pass3 is **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**.
+
+- fixed Pass3 cadence — **10 source pages per iteration**
+- Batch1 — **scans301–310 / COMPLETE**
+- Batch2 — **scans311–320 / NEXT**
+- Batch3 — **scans321–330 / PENDING**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **330→331 — PENDING direct audit**
+- Part audit — **NOT STARTED / BLOCKED UNTIL PASS3 COMPLETE**
+- durable progress — `PART_011_PASS3_PROGRESS.md`
+
+Exact next activity: **Part011 Pass3 Batch2 — scans311–320**, exactly **10 source pages**.
+
