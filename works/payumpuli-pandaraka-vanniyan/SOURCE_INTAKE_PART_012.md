@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity/global mapping are durable; Part012 Pass2B is IN PROGRESS / Batch1 complete at 10/30 REVIEWED.**
+**REGISTERED — split identity/global mapping are durable; Part012 Pass2B is IN PROGRESS / Batch2 complete at 20/30 REVIEWED.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **331–360**;
@@ -46,7 +46,7 @@ Part 012 source split: **SUPPLIED / REGISTERED**.
 
 Part011 is now **FINAL CLOSED / FROZEN**.
 
-Part012 is **ACTIVE / PASS2B IN PROGRESS — BATCH 1 COMPLETE — 10/30 REVIEWED**.
+Part012 is **ACTIVE / PASS2B IN PROGRESS — BATCH 2 COMPLETE — 20/30 REVIEWED**.
 
 Incoming boundary **330→331 — GENUINE CONTINUATION / AUDITED / PASS**.
 
@@ -143,3 +143,24 @@ Exact next activity:
 - Pass3 — **NOT STARTED**
 
 Exact next activity: **Part012 Pass2B Batch2 — scans341–350**. Process exactly **10 source pages**.
+
+
+## Pass2B Batch2 checkpoint
+
+**PART012 PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED.**
+
+- reviewed cumulative — **scans331–350**
+- Batch2 — **scans341–350 / printed334–343**
+- Batch2 additional corrections — **2**
+- correction scans — **345, 350**
+- scan345 — `வெள்ளத்தெல்லாம்` → **`வெளுத்ததெல்லாம்`**
+- scan350 — `வளைந்து நிற்குமா?` → **`வளைந்து நிற்குமோ?`**
+- cumulative Pass2B corrections — **4**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- Pass3 — **NOT STARTED**
+
+Exact next activity: **Part012 Pass2B Batch3 — scans351–360**. Process exactly **10 source pages**.
