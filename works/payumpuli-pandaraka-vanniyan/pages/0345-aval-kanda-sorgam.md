@@ -6,11 +6,11 @@ printed_page: 338
 work: "payumpuli-pandaraka-vanniyan"
 section: "அவள் கண்ட சொர்க்கம்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_012_pages_331-360.pdf"
-transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans341–350"
+transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans341–350; formal Part012 Pass 2A reviewed"
 ---
 
 # அவள் கண்ட சொர்க்கம்!
@@ -27,7 +27,7 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 
 அந்தக் கேள்விகளைப் புரிந்து கொண்டவளைப் போல நல்லநாச்சியார், குருவிச்சியை மேலும் கோபப்படுத்திட வேண்டுமென்று திட்டமிட்டவளாக,
 
-“நீயொரு நடமாடும் நாசம்! அண்ணனுக்குத் தெரியாது, இந்த அழகு மோகினி ஒரு ஆள் மயக்கி என்று! உன் காமக்களியாட்டத்தில் கணக்கற்ற ஆண்கள் நீச்சல் அடித்த கதையெல்லாம் என் அண்ணனுக்குத் தெரியாததால் உன்னை மாசற்ற மங்கையென்றும், புடம் போட்ட புனிதவதியென்றும், அவருக்காகவே வாழும் முற்றும் துறந்த முல்லைக் கொடியாள் என்றும் முட்டாள்தனமாக நம்பிக் கெட்டுப் போகிறார்” என்று நல்லநாச்சியார் சொல்லி வாய் மூடுவதற்குள் - அறவே பொறுமையிழந்தவளாக “என்ன சொன்னாய்?” என்று வாளுடன் அவளை நோக்கிப் பாய்ந்தாள் குருவிச்சி நாச்சியார்!
+“நீயொரு நடமாடும் நாசம்! அண்ணனுக்குத் தெரியாது, இந்த அழகு மோகினி ஒரு ஆள் மயக்கி என்று! உன் காமக்களியாட்டத் தில் கணக்கற்ற ஆண்கள் நீச்சல் அடித்த கதையெல்லாம் என் அண்ணனுக்குத் தெரியாததால் உன்னை மாசற்ற மங்கையென்றும், புடம் போட்ட புனிதவதியென்றும், அவருக்காகவே வாழும் முற்றும் துறந்த முல்லைக் கொடியாள் என்றும் முட்டாள்தனமாக நம்பிக் கெட்டுப் போகிறார்” என்று நல்லநாச்சியார் சொல்லி வாய் மூடுவதற்குள் - அறவே பொறுமையிழந்தவளாக “என்ன சொன்னாய்?” என்று வாளுடன் அவளை நோக்கிப் பாய்ந்தாள் குருவிச்சி நாச்சியார்!
 
 அதைத்தான் எதிர்பார்த்தாள் நல்லநாச்சியார்! அதற்காகத்தான் சுடுமொழிகளை, கடுமொழிகளை வலையாகப் பின்னி
 
@@ -38,4 +38,16 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 - source-visible `மட்டுந்தான்`, `எண்ணிக்கிடக்கும்`, and `காமக்களியாட்டத்தில்` retained
 - page ends at `பின்னி`; scan346 resumes
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 345; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: 338; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+
+## Formal Part012 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part012 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- chapter54 continuation; corrected source-visible spacing `காமக்களியாட்டத்தில்` → `காமக்களியாட்டத் தில்`; page ends `பின்னி`;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 345; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: 338; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->

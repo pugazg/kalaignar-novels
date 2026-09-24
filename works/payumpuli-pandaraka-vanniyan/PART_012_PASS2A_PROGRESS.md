@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+**PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
 
 Prerequisites:
 - Part012 Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -24,12 +24,14 @@ For each reviewed physical scan, canonical Tamil was re-compared directly agains
 
 ## Current accounting
 
-- reviewed — **10/30 — scans331–340**
-- remaining — **20/30 — scans341–360**
-- Batch1 source-text / spacing / punctuation corrections — **0**
-- correction scans — **none**
+- reviewed — **20/30 — scans331–350**
+- remaining — **10/30 — scans351–360**
+- Batch1 corrections — **0**
+- Batch2 corrections — **2**
+- cumulative Pass2A corrections — **2**
+- correction scans — **345, 348**
 - unresolved textual questions — **0**
-- textual status — **10/30 verified / 20/30 needs-review**
+- textual status — **20/30 verified / 10/30 needs-review**
 - visual fidelity — **30/30 needs-review**
 - frozen Parts001–011 body mutations — **0**
 - Pass2B / Pass3 — **NOT STARTED**
@@ -49,8 +51,18 @@ Re-confirmed source locks:
 - scan340 remains open at **`“அழித்து`**;
 - scan332 `மலர்க்குவியல்ஆனது`, scan334 `தங்களுக்குநான்` / `கூடக் கூலிக்குக்`, scan335 `தீம்பிழம்பாக`, scan337 `கீழேபாய்ந்தோடி` / `தன்நலமற்ற` / `அழிக்கபட்டு`, and scan339 `முக்கி முனகிக்` were re-confirmed as source-visible.
 
+## Batch2 decision — scans341–350
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+Corrections:
+- scan345 / printed338 — `காமக்களியாட்டத்தில்` → **`காமக்களியாட்டத் தில்`** — source spacing / word-boundary correction;
+- scan348 / printed341 — `படித்த தற்புறிகள்` → **`படித்த தற்குறிகள்`** — lexical / source-reading correction.
+
+No other canonical-body changes were required in scans341–350. Source-visible irregular forms, chapter boundaries and page-end fragments were retained.
+
 ## Exact next activity
 
-Proceed with **Part012 Pass2A Batch2 — scans341–350 / local pages11–20**.
+Proceed with **Part012 Pass2A Batch3 — scans351–360 / local pages21–30**.
 
 Process exactly **10 source pages**. Do not begin Pass2B or Pass3.
