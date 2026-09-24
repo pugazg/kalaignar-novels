@@ -336,16 +336,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 011 | 28 | 328 | 320 | `எங்குற்றாள் அந்தக் குறத்தி?` continuation/close; resumes `களது`; substantial intentional blank lower field | verified | `pages/0328-engutraal-andha-kuraththi.md` |
 | 011 | 29 | 329 | 321 | chapter52 opening `மயங்குகிறாள் ஒரு மாது!`; displayed number 52 | verified | `pages/0329-mayangukiraal-oru-maadhu.md` |
 | 011 | 30 | 330 | 322–323 | illustrated two-page spread; `மயங்குகிறாள் ஒரு மாது!` continuation; left322→right323; ends `தேவையில்லாமலே`; 330→331 pending | verified | `pages/0330-mayangukiraal-oru-maadhu.md` |
-| 012 | 1 | 331 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 2 | 332 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 3 | 333 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 4 | 334 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 5 | 335 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 6 | 336 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 7 | 337 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 8 | 338 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 9 | 339 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 10 | 340 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 1 | 331 | 324 | `மயங்குகிறாள் ஒரு மாது!` continuation; incoming 330→331 genuine continuation audited; ends `விட்டெறிந்த` | needs-review | `pages/0331-mayangukiraal-oru-maadhu.md` |
+| 012 | 2 | 332 | 325 | `மயங்குகிறாள் ஒரு மாது!` continuation; resumes `கல்,`; ends open dialogue at `உண்மையிலேயே` | needs-review | `pages/0332-mayangukiraal-oru-maadhu.md` |
+| 012 | 3 | 333 | 326 | `மயங்குகிறாள் ஒரு மாது!` continuation; resumes `விருப்பமிருந்தால்`; ends `காப்பாற்றிக்கொள்ள,` | needs-review | `pages/0333-mayangukiraal-oru-maadhu.md` |
+| 012 | 4 | 334 | 327 | `மயங்குகிறாள் ஒரு மாது!` continuation; ends `அவன் அப்படி அவிழ்த்ததுதான்` | needs-review | `pages/0334-mayangukiraal-oru-maadhu.md` |
+| 012 | 5 | 335 | 328 | `மயங்குகிறாள் ஒரு மாது!` close; substantial intentional blank lower field | needs-review | `pages/0335-mayangukiraal-oru-maadhu.md` |
+| 012 | 6 | 336 | 329 | chapter53 opening `மற்றொரு மதுரை?`; displayed number 53; ends `சோகக் குயிலாகக்` | needs-review | `pages/0336-matroru-madurai.md` |
+| 012 | 7 | 337 | 330 | `மற்றொரு மதுரை?` continuation; resumes `கூவிக் கொண்டிருந்தது.`; ends `மறையும் வரையில்` | needs-review | `pages/0337-matroru-madurai.md` |
+| 012 | 8 | 338 | 331 | `மற்றொரு மதுரை?` continuation; ends `தணிகைமலை கொல்லப்பட்டது` | needs-review | `pages/0338-matroru-madurai.md` |
+| 012 | 9 | 339 | 332 | `மற்றொரு மதுரை?` continuation; ends physical split `மான அடி வாங்கி` | needs-review | `pages/0339-matroru-madurai.md` |
+| 012 | 10 | 340 | 333 | `மற்றொரு மதுரை?` continuation; resumes `யிருந்த`; ends open dialogue at `“அழித்து` | needs-review | `pages/0340-matroru-madurai.md` |
 | 012 | 11 | 341 | — | unclassified — direct visual audit pending | not-started | — |
 | 012 | 12 | 342 | — | unclassified — direct visual audit pending | not-started | — |
 | 012 | 13 | 343 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1072,3 +1072,23 @@ Durable progress:
 - `PART_011_PASS1_PROGRESS.md`
 
 Exact next activity: **Part011 Pass1 scans311–320 / local pages11–20**.
+
+## Part012 Pass1 Batch1 checkpoint
+
+**PART012 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- Part012 canonical records — **10/30 — scans331–340**
+- printed-page coverage completed — **324–333**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- chapter52 `மயங்குகிறாள் ஒரு மாது!` — continues331–335 / closes335
+- chapter53 `மற்றொரு மதுரை?` — opens336 / continues through340
+- unresolved Pass1 source-reading holds — **0**
+- completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- outgoing **360→361 — PENDING direct audit**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+
+Durable progress:
+- `PART_012_PASS1_PROGRESS.md`
+
+Exact next activity: **Part012 Pass1 scans341–350 / local pages11–20**, exactly 10 source pages.

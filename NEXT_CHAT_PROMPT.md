@@ -25,3 +25,17 @@ Perform **Part012 Pass1 Batch1 — scans331–340 / local pages1–10**.
 Process exactly **10 physical source pages**.
 
 Do not begin Pass2A. Do not reopen frozen Parts001–011.
+
+## Part012 Pass1 Batch1 checkpoint
+
+**PART012 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- incoming 330→331 — **GENUINE CONTINUATION / AUDITED / PASS**
+- canonical Part012 records — **10/30 — scans331–340**
+- printed pages — **324–333**
+- unresolved Pass1 source-reading holds — **0**
+- outgoing 360→361 — **PENDING direct audit**
+- exact next activity — **Part012 Pass1 scans341–350 / local pages11–20**, exactly 10 pages
+- do not begin Pass2A until Pass1 reaches **30/30**
+

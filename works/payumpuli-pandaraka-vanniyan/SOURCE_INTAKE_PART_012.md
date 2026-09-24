@@ -46,14 +46,21 @@ Part 012 source split: **SUPPLIED / REGISTERED**.
 
 Part011 is now **FINAL CLOSED / FROZEN**.
 
-Part012 is **ACTIVE / INCOMING BOUNDARY AUDITED / PASS1 AUTHORIZED**.
+Part012 is **ACTIVE / PASS1 IN PROGRESS — BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE**.
 
 Incoming boundary **330→331 — GENUINE CONTINUATION / AUDITED / PASS**.
 
 Durable boundary record:
 - `PART_012_BOUNDARY_AUDIT_330_331.md`
 
+Pass1 Batch1:
+- scans **331–340 / local pages1–10**
+- printed pages **324–333**
+- canonical records **10/30**
+- status **COMPLETE / TEXT-COMPLETE**
+- unresolved Pass1 source-reading holds **0**
+
 Exact next activity:
-1. begin **Part012 Pass1 scans331–340 / local pages1–10**;
+1. begin **Part012 Pass1 scans341–350 / local pages11–20**;
 2. process exactly **10 physical source pages**;
 3. do not begin Part012 Pass2A until full-Part Pass1 coverage is complete.

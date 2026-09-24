@@ -1032,3 +1032,23 @@ Exact next activity: audit **330→331**; if usable, begin **Part012 Pass1 scans
 - Parts001–011 — **FINAL CLOSED / FROZEN**
 - exact next — **Part012 Pass1 scans331–340 / exactly 10 source pages**
 
+## Part012 incoming-boundary + Pass1 Batch1 checkpoint
+
+**330→331 — GENUINE CONTINUATION / AUDITED / PASS.**
+
+**PART012 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- Part012 canonical records — **10/30 — scans331–340**
+- printed pages — **324–333**
+- chapter52 closes scan335
+- chapter53 `மற்றொரு மதுரை?` opens scan336
+- unresolved Pass1 source-reading holds — **0**
+- textual / visual status — **needs-review / needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+- exact next activity — **Part012 Pass1 scans341–350 / exactly 10 source pages**
+
+Durable records:
+- `PART_012_BOUNDARY_AUDIT_330_331.md`
+- `PART_012_PASS1_PROGRESS.md`
