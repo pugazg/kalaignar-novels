@@ -119,3 +119,16 @@ Do not begin assembled Tamil construction until the archival-ready checkpoint cl
 - durable record — `PART_012_DOCUMENTATION_SYNC.md`
 - exact next gate — **Part012 Tamil archival-ready checkpoint**
 - do not begin assembled Tamil construction until archival-ready closure
+
+## Part012 Tamil archival-ready checkpoint
+
+**PART012 TAMIL ARCHIVAL-READY — PASS / CLOSED.**
+
+- canonical Part012 Tamil / visual fidelity — **30/30 verified / 30/30 verified**
+- documentation synchronization — **PASS / COMPLETE**
+- planned assembled section range — **67–72 / 6**
+- live section-order collisions — **0**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- canonical page/body/status mutations — **0**
+- exact next activity — **Part012 assembled Tamil construction + audit — sections67–72**
