@@ -174,3 +174,27 @@ Do not begin Pass2A. Do not reopen frozen Parts001–011.
 - exact next — **Part012 Pass3 Batch1 scans331–340**, exactly 10 source pages
 - do not begin Part audit in the same activity
 
+
+## Part012 Pass3 closure checkpoint
+
+**PART012 PASS 3 — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- user explicitly authorized processing **all 30 pages in one activity**
+- reviewed — **scans331–360 / local1–30 / printed324–353**
+- logical Batch1 — **331–340 / COMPLETE**
+- logical Batch2 — **341–350 / COMPLETE**
+- logical Batch3 — **351–360 / COMPLETE**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- chapter openings visually confirmed — **53/scan336, 54/scan342, 55/scan347, 56/scan352, 57/scan356**
+- intentional blank lower fields confirmed — **scans335, 341, 360**
+- scan355 footer-overlap limitation re-confirmed; no obscured wording reconstructed
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- Part audit — **NOT STARTED / NEXT**
+- exact next — **Part012 Part audit**
+- do not perform final metadata/status synchronization in the same audit gate
+
