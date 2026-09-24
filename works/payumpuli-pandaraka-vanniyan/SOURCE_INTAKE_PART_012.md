@@ -46,7 +46,7 @@ Part 012 source split: **SUPPLIED / REGISTERED**.
 
 Part011 is now **FINAL CLOSED / FROZEN**.
 
-Part012 is **ACTIVE / PASS1 COMPLETE / PASS — 30/30 TEXT-COMPLETE**.
+Part012 is **ACTIVE / PASS2A IN PROGRESS — BATCH 1 COMPLETE — 10/30 REVIEWED**.
 
 Incoming boundary **330→331 — GENUINE CONTINUATION / AUDITED / PASS**.
 
@@ -81,3 +81,13 @@ Exact next activity:
 1. begin **Part012 Pass2A scans331–340 / local pages1–10**;
 2. process exactly **10 physical source pages**;
 3. do not begin Pass2B or Pass3.
+
+## Pass2A Batch1 checkpoint
+
+- reviewed — **scans331–340 / local1–10**
+- result — **COMPLETE / REVIEWED / PASS**
+- corrections — **0**
+- unresolved textual questions — **0**
+- textual status — **10/30 verified / 20/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- exact next — **Pass2A scans341–350 / exactly 10 pages**

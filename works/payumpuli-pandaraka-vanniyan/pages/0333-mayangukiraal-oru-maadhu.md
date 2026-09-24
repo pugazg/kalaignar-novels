@@ -6,11 +6,11 @@ printed_page: 326
 work: "payumpuli-pandaraka-vanniyan"
 section: "மயங்குகிறாள் ஒரு மாது!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_012_pages_331-360.pdf"
-transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans331–340"
+transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans331–340; formal Part012 Pass 2A reviewed"
 ---
 
 # மயங்குகிறாள் ஒரு மாது!
@@ -46,4 +46,16 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 - dialogue structure and source-visible forms retained without modernization
 - page ends inside open dialogue at `காப்பாற்றிக்கொள்ள,`
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 333; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 326; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+
+## Formal Part012 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part012 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- chapter52 continuation; page ends at `காப்பாற்றிக்கொள்ள,`;
+- source-text corrections in Pass 2A: **0**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 333; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 326; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->

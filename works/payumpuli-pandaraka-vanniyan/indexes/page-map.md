@@ -336,16 +336,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 011 | 28 | 328 | 320 | `எங்குற்றாள் அந்தக் குறத்தி?` continuation/close; resumes `களது`; substantial intentional blank lower field | verified | `pages/0328-engutraal-andha-kuraththi.md` |
 | 011 | 29 | 329 | 321 | chapter52 opening `மயங்குகிறாள் ஒரு மாது!`; displayed number 52 | verified | `pages/0329-mayangukiraal-oru-maadhu.md` |
 | 011 | 30 | 330 | 322–323 | illustrated two-page spread; `மயங்குகிறாள் ஒரு மாது!` continuation; left322→right323; ends `தேவையில்லாமலே`; 330→331 pending | verified | `pages/0330-mayangukiraal-oru-maadhu.md` |
-| 012 | 1 | 331 | 324 | `மயங்குகிறாள் ஒரு மாது!` continuation; incoming 330→331 genuine continuation audited; ends `விட்டெறிந்த` | needs-review | `pages/0331-mayangukiraal-oru-maadhu.md` |
-| 012 | 2 | 332 | 325 | `மயங்குகிறாள் ஒரு மாது!` continuation; resumes `கல்,`; ends open dialogue at `உண்மையிலேயே` | needs-review | `pages/0332-mayangukiraal-oru-maadhu.md` |
-| 012 | 3 | 333 | 326 | `மயங்குகிறாள் ஒரு மாது!` continuation; resumes `விருப்பமிருந்தால்`; ends `காப்பாற்றிக்கொள்ள,` | needs-review | `pages/0333-mayangukiraal-oru-maadhu.md` |
-| 012 | 4 | 334 | 327 | `மயங்குகிறாள் ஒரு மாது!` continuation; ends `அவன் அப்படி அவிழ்த்ததுதான்` | needs-review | `pages/0334-mayangukiraal-oru-maadhu.md` |
-| 012 | 5 | 335 | 328 | `மயங்குகிறாள் ஒரு மாது!` close; substantial intentional blank lower field | needs-review | `pages/0335-mayangukiraal-oru-maadhu.md` |
-| 012 | 6 | 336 | 329 | chapter53 opening `மற்றொரு மதுரை?`; displayed number 53; ends `சோகக் குயிலாகக்` | needs-review | `pages/0336-matroru-madurai.md` |
-| 012 | 7 | 337 | 330 | `மற்றொரு மதுரை?` continuation; resumes `கூவிக் கொண்டிருந்தது.`; ends `மறையும் வரையில்` | needs-review | `pages/0337-matroru-madurai.md` |
-| 012 | 8 | 338 | 331 | `மற்றொரு மதுரை?` continuation; ends `தணிகைமலை கொல்லப்பட்டது` | needs-review | `pages/0338-matroru-madurai.md` |
-| 012 | 9 | 339 | 332 | `மற்றொரு மதுரை?` continuation; ends physical split `மான அடி வாங்கி` | needs-review | `pages/0339-matroru-madurai.md` |
-| 012 | 10 | 340 | 333 | `மற்றொரு மதுரை?` continuation; resumes `யிருந்த`; ends open dialogue at `“அழித்து` | needs-review | `pages/0340-matroru-madurai.md` |
+| 012 | 1 | 331 | 324 | `மயங்குகிறாள் ஒரு மாது!` continuation; incoming 330→331 genuine continuation audited; ends `விட்டெறிந்த` | verified | `pages/0331-mayangukiraal-oru-maadhu.md` |
+| 012 | 2 | 332 | 325 | `மயங்குகிறாள் ஒரு மாது!` continuation; resumes `கல்,`; ends open dialogue at `உண்மையிலேயே` | verified | `pages/0332-mayangukiraal-oru-maadhu.md` |
+| 012 | 3 | 333 | 326 | `மயங்குகிறாள் ஒரு மாது!` continuation; resumes `விருப்பமிருந்தால்`; ends `காப்பாற்றிக்கொள்ள,` | verified | `pages/0333-mayangukiraal-oru-maadhu.md` |
+| 012 | 4 | 334 | 327 | `மயங்குகிறாள் ஒரு மாது!` continuation; ends `அவன் அப்படி அவிழ்த்ததுதான்` | verified | `pages/0334-mayangukiraal-oru-maadhu.md` |
+| 012 | 5 | 335 | 328 | `மயங்குகிறாள் ஒரு மாது!` close; substantial intentional blank lower field | verified | `pages/0335-mayangukiraal-oru-maadhu.md` |
+| 012 | 6 | 336 | 329 | chapter53 opening `மற்றொரு மதுரை?`; displayed number 53; ends `சோகக் குயிலாகக்` | verified | `pages/0336-matroru-madurai.md` |
+| 012 | 7 | 337 | 330 | `மற்றொரு மதுரை?` continuation; resumes `கூவிக் கொண்டிருந்தது.`; ends `மறையும் வரையில்` | verified | `pages/0337-matroru-madurai.md` |
+| 012 | 8 | 338 | 331 | `மற்றொரு மதுரை?` continuation; ends `தணிகைமலை கொல்லப்பட்டது` | verified | `pages/0338-matroru-madurai.md` |
+| 012 | 9 | 339 | 332 | `மற்றொரு மதுரை?` continuation; ends physical split `மான அடி வாங்கி` | verified | `pages/0339-matroru-madurai.md` |
+| 012 | 10 | 340 | 333 | `மற்றொரு மதுரை?` continuation; resumes `யிருந்த`; ends open dialogue at `“அழித்து` | verified | `pages/0340-matroru-madurai.md` |
 | 012 | 11 | 341 | 334 | `மற்றொரு மதுரை?` close; resumes scan340 open dialogue; substantial intentional blank lower field | needs-review | `pages/0341-matroru-madurai.md` |
 | 012 | 12 | 342 | 335 | chapter54 opening `அவள் கண்ட சொர்க்கம்!`; displayed number 54; ends `முடிய` | needs-review | `pages/0342-aval-kanda-sorgam.md` |
 | 012 | 13 | 343 | `அவள் கண்ட சொர்க்கம்!` continuation; resumes `மென்றால்` | needs-review | `pages/0343-aval-kanda-sorgam.md` |
@@ -1125,3 +1125,14 @@ Exact next activity: **Part012 Pass1 scans351–360 / local pages21–30**, exac
 - Pass2A — **NOT STARTED / NEXT**
 
 Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exactly 10 source pages.
+
+## Part012 Pass2A Batch1 checkpoint
+
+**PART012 PASS 2A — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- scans331–340 — **verified textual status**
+- scans341–360 — **needs-review textual status**
+- corrections — **0**
+- unresolved textual questions — **0**
+- visual fidelity — **30/30 needs-review**
+- exact next — **Pass2A scans341–350 / exactly 10 pages**

@@ -72,8 +72,20 @@ Durable progress:
 - outgoing **360→361 — PENDING direct audit**;
 - Pass2A — **NOT STARTED / NEXT**.
 
+## Pass2A Batch1 checkpoint
+
+**PASS 2A — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+
+- reviewed — **scans331–340**
+- corrections — **0**
+- unresolved textual questions — **0**
+- textual status — **10/30 verified / 20/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- Pass2B / Pass3 — **NOT STARTED**
+
 ## Exact next activity
 
-Proceed with **Part012 Pass2A Batch1 — scans331–340 / local pages1–10**.
+Proceed with **Part012 Pass2A Batch2 — scans341–350 / local pages11–20**.
 
 Process exactly **10 source pages**. Do not begin Pass2B or Pass3.

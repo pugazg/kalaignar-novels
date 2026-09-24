@@ -1091,3 +1091,16 @@ Durable progress:
 
 Durable progress:
 - `PART_012_PASS1_PROGRESS.md`
+
+## Part012 Pass2A Batch1 checkpoint
+
+**PART012 PASS 2A — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- reviewed — **scans331–340**
+- corrections — **0**
+- unresolved textual questions — **0**
+- textual status — **10/30 verified / 20/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- Pass2B / Pass3 — **NOT STARTED**
+- exact next — **Pass2A scans341–350 / exactly 10 pages**

@@ -159,3 +159,16 @@ Frozen Parts001–011 canonical Tamil, assembled Tamil and maintained English bo
 Proceed with **Part012 Pass2A Batch1 — scans331–340 / local pages1–10**.
 
 Process exactly **10 source pages**. Do not begin Pass2B or Pass3.
+
+## Post-Pass2A Batch1 current state
+
+Part012 Pass2A is **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**.
+
+- corrections — **0**
+- unresolved textual questions — **0**
+- textual status — **10/30 verified / 20/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- exact next — **Pass2A Batch2 scans341–350 / exactly 10 source pages**
+- outgoing **360→361 — PENDING direct audit**
+
+Durable progress: `PART_012_PASS2A_PROGRESS.md`.
