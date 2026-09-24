@@ -143,8 +143,29 @@ Durable progress:
 Durable Pass2B record:
 - `PART_012_PASS2B_PROGRESS.md`
 
+## Pass2B Batch2 checkpoint
+
+**PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
+
+- reviewed cumulative — **scans331–350**
+- Batch2 reviewed — **scans341–350 / printed334–343**
+- Batch2 additional corrections — **2**
+- correction scans — **345, 350**
+- scan345 — `வெள்ளத்தெல்லாம்` → **`வெளுத்ததெல்லாம்`**
+- scan350 — `வளைந்து நிற்குமா?` → **`வளைந்து நிற்குமோ?`**
+- cumulative Pass2B corrections — **4**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+
+Durable Pass2B record:
+- `PART_012_PASS2B_PROGRESS.md`
+
 ## Exact next activity
 
-Proceed with **Part012 Pass2B Batch2 — scans341–350 / local pages11–20 / printed334–343**.
+Proceed with **Part012 Pass2B Batch3 — scans351–360 / local pages21–30 / printed344–353**.
 
-Process exactly **10 source pages**. Do not begin Pass3.
+Process exactly **10 source pages**. Do not begin Pass3 in the same activity.
