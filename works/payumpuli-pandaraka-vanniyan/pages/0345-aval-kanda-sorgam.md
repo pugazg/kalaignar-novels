@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_012_pages_331-360.pdf"
-transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans341–350; formal Part012 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans341–350; formal Part012 Pass 2A reviewed; formal Part012 Pass 2B reviewed"
 ---
 
 # அவள் கண்ட சொர்க்கம்!
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 
 என்ன பேசுகிறாய்?” குருவிச்சியின் உள்ளம் உலைக்களத்து நெருப்பு மூச்சாய் ஒலியெழுப்பியது!
 
-“உன்னைப் பற்றிய உண்மைகளைத்தான் பேசுகிறேன்! சத்தியமாகச் சொல், நீ என் அண்ணனை தூய்மையாகக் காதலிக்கிறாய் என்று! சொல்ல முடியாது உன்னால்! நீ என் அண்ணன் மீது பாசத்தைக் கொட்டுவதாகப் பசப்பித் திரிகிறாய்! அவர் ஒரு ஏமாளி! வெள்ளத்தெல்லாம் பால் என நம்புகிறவர்! நீ அவரைப் பாதுகாப்பதாகக் கூறுவதெல்லாம் வெறும் பகட்டுப் பேச்சு! பாசாங்கு மொழி! இது எனக்கு நன்றாகவே தெரியும்!”
+“உன்னைப் பற்றிய உண்மைகளைத்தான் பேசுகிறேன்! சத்தியமாகச் சொல், நீ என் அண்ணனை தூய்மையாகக் காதலிக்கிறாய் என்று! சொல்ல முடியாது உன்னால்! நீ என் அண்ணன் மீது பாசத்தைக் கொட்டுவதாகப் பசப்பித் திரிகிறாய்! அவர் ஒரு ஏமாளி! வெளுத்ததெல்லாம் பால் என நம்புகிறவர்! நீ அவரைப் பாதுகாப்பதாகக் கூறுவதெல்லாம் வெறும் பகட்டுப் பேச்சு! பாசாங்கு மொழி! இது எனக்கு நன்றாகவே தெரியும்!”
 
 “நல்லநாச்சி!”
 
@@ -50,4 +50,17 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 345; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: 338; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+## Formal Part012 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part012 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- source-confirmed correction: `வெள்ளத்தெல்லாம்` → **`வெளுத்ததெல்லாம்`** — lexical / source-reading correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 345; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: 338; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
