@@ -46,7 +46,7 @@ Part 012 source split: **SUPPLIED / REGISTERED**.
 
 Part011 is now **FINAL CLOSED / FROZEN**.
 
-Part012 is **ACTIVE / DOCUMENTATION SYNCHRONIZATION PASS / COMPLETE; Tamil archival-ready checkpoint NEXT**.
+Part012 is **ACTIVE / TAMIL ARCHIVAL-READY PASS / CLOSED; assembled Tamil construction + audit NEXT**.
 
 Incoming boundary **330→331 — GENUINE CONTINUATION / AUDITED / PASS**.
 
@@ -283,3 +283,18 @@ Exact next activity: **Part012 Pass2B Batch3 — scans351–360**. Process exact
 - durable record — `PART_012_DOCUMENTATION_SYNC.md`
 - exact next gate — **Part012 Tamil archival-ready checkpoint**
 - do not begin assembled Tamil construction until archival-ready closure
+
+## Part012 Tamil archival-ready checkpoint
+
+**PART012 TAMIL ARCHIVAL-READY — PASS / CLOSED.**
+
+- canonical Part012 Tamil / visual fidelity — **30/30 verified / 30/30 verified**
+- Part audit / final status / documentation — **PASS / CLOSED / COMPLETE**
+- maintained section frontier — **66**
+- planned Part012 assembled range — **67–72 / 6**
+- section-order collisions — **0**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- archival-ready mutations — **0**
+- exact next activity — **Part012 assembled Tamil construction + audit — sections67–72**
