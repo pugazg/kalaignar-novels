@@ -46,7 +46,7 @@ Part 012 source split: **SUPPLIED / REGISTERED**.
 
 Part011 is now **FINAL CLOSED / FROZEN**.
 
-Part012 is **ACTIVE / PASS1 IN PROGRESS — BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE**.
+Part012 is **ACTIVE / PASS1 COMPLETE / PASS — 30/30 TEXT-COMPLETE**.
 
 Incoming boundary **330→331 — GENUINE CONTINUATION / AUDITED / PASS**.
 
@@ -65,7 +65,19 @@ Pass1 Batch2:
 - status **COMPLETE / TEXT-COMPLETE**
 - unresolved Pass1 source-reading holds **0**
 
+Pass1 Batch3:
+- scans **351–360 / local pages21–30**
+- printed pages **344–353**
+- canonical records **30/30 cumulative**
+- status **COMPLETE / TEXT-COMPLETE**
+- unresolved Pass1 source-reading holds **0**
+
+Pass1 final:
+- **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- textual / visual status remains **needs-review / needs-review**
+- outgoing **360→361 — PENDING direct audit**
+
 Exact next activity:
-1. begin **Part012 Pass1 scans351–360 / local pages21–30**;
+1. begin **Part012 Pass2A scans331–340 / local pages1–10**;
 2. process exactly **10 physical source pages**;
-3. do not begin Part012 Pass2A in the same activity.
+3. do not begin Pass2B or Pass3.

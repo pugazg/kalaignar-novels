@@ -54,3 +54,18 @@ Do not begin Pass2A. Do not reopen frozen Parts001–011.
 - exact next activity — **Part012 Pass1 scans351–360 / local pages21–30**, exactly 10 pages
 - do not begin Pass2A in the same activity
 
+## Part012 Pass1 closure checkpoint
+
+**PART012 PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- canonical Part012 records — **30/30 — scans331–360**
+- printed pages — **324–353**
+- Batch3 — **scans351–360 / printed344–353**
+- chapter55 closes351
+- chapter56 `கொழும்பில் கொண்டாட்டம்!` opens352 / closes355
+- chapter57 `தப்பித்து வந்த விதம்!` opens356 / continues360
+- unresolved Pass1 source-reading holds — **0**
+- outgoing **360→361 — PENDING direct audit**
+- exact next activity — **Part012 Pass2A scans331–340 / local pages1–10**, exactly 10 pages
+

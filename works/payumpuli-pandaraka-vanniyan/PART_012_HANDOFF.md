@@ -55,8 +55,25 @@ Durable progress:
 - scan350 — ends mid-sentence at `தூக்கிலே போட வேண்டும் என்று`;
 - Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**.
 
+## Pass1 Batch3 / closure checkpoint
+
+**PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+
+- Batch3 scans — **351–360**
+- local pages — **21–30**
+- printed pages — **344–353**
+- canonical records — **30/30 cumulative**
+- unresolved Pass1 source-reading holds — **0**
+- chapter55 `வீரர்கள் சாவதில்லை!` closes scan351;
+- chapter56 `கொழும்பில் கொண்டாட்டம்!` opens352 / closes355;
+- chapter57 `தப்பித்து வந்த விதம்!` opens356 / continues through360;
+- scan355 footer-overlap line — visible text retained only; no obscured wording reconstructed;
+- scan360 — substantial intentional blank lower field;
+- outgoing **360→361 — PENDING direct audit**;
+- Pass2A — **NOT STARTED / NEXT**.
+
 ## Exact next activity
 
-Proceed with **Part012 Pass1 Batch3 — scans351–360 / local pages21–30**.
+Proceed with **Part012 Pass2A Batch1 — scans331–340 / local pages1–10**.
 
-Process exactly **10 source pages**. Do not begin Pass2A in the same activity.
+Process exactly **10 source pages**. Do not begin Pass2B or Pass3.

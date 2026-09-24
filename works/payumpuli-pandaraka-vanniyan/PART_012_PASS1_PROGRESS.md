@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE**
+**PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 
 Active Part:
 - Part012
@@ -16,10 +16,10 @@ Parts001–011 remain **FINAL CLOSED / FROZEN**.
 ## Current accounting
 
 - Part012 physical scans — **30**
-- canonical Part012 records present — **20/30 — scans331–350**
-- Pass1 text-complete — **20/30**
-- Pass1 pending — **10/30 — scans351–360**
-- printed-page coverage completed — **324–343**
+- canonical Part012 records present — **30/30 — scans331–360**
+- Pass1 text-complete — **30/30**
+- Pass1 pending — **0/30**
+- printed-page coverage completed — **324–353**
 - unresolved Pass1 source-reading holds — **0**
 - incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **360→361 — PENDING direct audit**
@@ -34,7 +34,7 @@ Parts001–011 remain **FINAL CLOSED / FROZEN**.
 |---|---:|---:|---:|---|
 | 1 | 331–340 | 1–10 | 324–333 | **COMPLETE / TEXT-COMPLETE** |
 | 2 | 341–350 | 11–20 | 334–343 | **COMPLETE / TEXT-COMPLETE** |
-| 3 | 351–360 | 21–30 | pending direct audit | **NOT STARTED / NEXT** |
+| 3 | 351–360 | 21–30 | 344–353 | **COMPLETE / TEXT-COMPLETE** |
 
 ## Incoming-boundary audit
 
@@ -88,6 +88,23 @@ Audited multipart boundaries — **11 / 15**.
 - scan350 ends mid-sentence at **`தூக்கிலே போட வேண்டும் என்று`**;
 - scans351–360 were not transcribed in this batch.
 
+## Batch3 source-structure observations
+
+- scan351 / printed344 continues and closes chapter55 `வீரர்கள் சாவதில்லை!`;
+- scan352 / printed345 opens chapter56 `கொழும்பில் கொண்டாட்டம்!` with displayed number **56** and ornamental heading;
+- scans352–355 carry and close chapter56;
+- scan352→353 preserves physical continuation **`ஒரு தமிழ்` + `நாட்டு மாவீரனின்`**;
+- scan353 ends inside North's open dialogue at `ரொம்பக் கோபம்`; scan354 resumes `தெரியுமா?`;
+- scan355 final source line is overlapped by the decorative footer; visible reading is retained through `பண்டாரகனின் மாளிகையை`, with no hidden wording reconstructed;
+- scan356 / printed349 opens chapter57 `தப்பித்து வந்த விதம்!` with displayed number **57** and ornamental heading;
+- scans356–360 carry chapter57;
+- scan356→357 preserves open dialogue **`மகாபாரதம்தான்` + `பிடிக்கும்!`**;
+- scan357→358 preserves **`அந்த ஒருவன்` + `மட்டும்`**;
+- scan358→359 preserves **`மற்ற` + `மூவரும்`**;
+- scan359→360 preserves the physical split **`சொல்லு` + `கிறான்`**;
+- scan360 ends with a complete sentence followed by a substantial intentional blank lower field;
+- outgoing **360→361 remains PENDING direct audit**.
+
 ## Source-visible forms retained for later review
 
 Pass1 preserves direct source readings without modernization, including:
@@ -106,6 +123,15 @@ Batch2 additionally preserves direct source readings without modernization, incl
 - scan348 `அதற்குநாங்களா`, `பதவிக் காகவும்`, and `சோரம்போக`;
 - scan349 `தமிழ்இனக்`, `சொற் றொடர்கள்`, and `கம்பெனியாருக்குவரி`.
 
+Batch3 additionally preserves direct source readings without modernization, including:
+- scan352 `மத்தாப்புக்கள்`, `மதுபுட்டிகளுடன்`, and `பீதியடைந்து`;
+- scan353 `கட்ட பொம்மனின்`, `இரண்டுபேராகத்`, and `அப்படி யொரு`;
+- scan355 `அடங்காப்பசிகாரிக்கு`;
+- scan357 `மண்ணுக்குவிரோதமாக` and `அவன்முதுகில்`;
+- scan358 `தலைமைக்காவலனுக்குக்`, `கொஞ்சம்கூட`, and `ஊமைக்காயமாக`;
+- scan359 `திடீர்க்கவலை`, `வேறுபக்கமாக`, and `காக்காய் வலிப்புத்தான்`;
+- scan360 `கீழேகிடந்த`, `அவர் களையறியாமல்`, and `கைகாரி!!!`.
+
 These are not normalized at Pass1.
 
 ## Method note
@@ -114,10 +140,22 @@ The user-supplied Part012 split source was inspected directly from rendered sour
 
 Frozen Parts001–011 canonical Tamil, assembled Tamil and maintained English body files were not modified.
 
+## Pass1 closure
+
+**PASS — 30/30 Part012 physical scans are TEXT-COMPLETE at Pass1.**
+
+- canonical records — **30/30**
+- global scans — **331–360 continuous**
+- local pages — **1–30 continuous**
+- printed-page coverage — **324–353**
+- unresolved Pass1 source-reading holds — **0**
+- textual status remains — **30/30 needs-review**
+- visual fidelity remains — **30/30 needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- frozen Parts001–011 body mutations — **0**
+
 ## Exact next activity
 
-Proceed with **Part012 Pass1 Batch3 — global scans351–360 / local pages21–30**.
+Proceed with **Part012 Pass2A Batch1 — scans331–340 / local pages1–10**.
 
-Process exactly **10 physical source pages**.
-
-Do not begin Part012 Pass2A until Pass1 covers all **30/30** Part012 pages. Keep outgoing **360→361 PENDING direct audit**.
+Process exactly **10 source pages**. Do not begin Pass2B or Pass3.

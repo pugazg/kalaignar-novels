@@ -1071,3 +1071,23 @@ Durable records:
 
 Durable progress:
 - `PART_012_PASS1_PROGRESS.md`
+
+## Part012 Pass1 closure checkpoint
+
+**PART012 PASS 1 — COMPLETE / PASS — 30/30 TEXT-COMPLETE.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- Part012 canonical records — **30/30 — scans331–360**
+- printed-page coverage — **324–353**
+- Batch3 — **scans351–360 / local21–30 / printed344–353**
+- chapter55 closes351
+- chapter56 `கொழும்பில் கொண்டாட்டம்!` opens352 / closes355
+- chapter57 `தப்பித்து வந்த விதம்!` opens356 / continues360
+- unresolved Pass1 source-reading holds — **0**
+- textual / visual status — **needs-review / needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- Pass2A — **NOT STARTED / NEXT**
+- exact next activity — **Part012 Pass2A scans331–340 / exactly 10 source pages**
+
+Durable progress:
+- `PART_012_PASS1_PROGRESS.md`
