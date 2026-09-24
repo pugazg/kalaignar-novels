@@ -29,7 +29,7 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 
 - chapter53 continuation; printed page 330 directly visible
 - resumes scan336 with `கூவிக் கொண்டிருந்தது.`
-- source-visible joined forms including `கீழேபாய்ந்தோடி`, `தன்நலமற்ற`, and `அழிக்கபட்டு` retained
+- Pass1 retained joined forms including `கீழேபாய்ந்தோடி` and `அழிக்கபட்டு`; the then-recorded `தன்நலமற்ற` reading was superseded by Pass2B source verification as `தன்னலமற்ற`
 - page ends mid-sentence at `மறையும் வரையில்`
 
 
