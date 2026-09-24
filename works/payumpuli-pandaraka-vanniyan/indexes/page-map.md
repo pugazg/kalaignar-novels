@@ -1268,3 +1268,15 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - audit canonical-body changes / status promotions — **0 / 0**
 - durable audit — `PART_012_AUDIT.md`
 - exact next gate — **Part012 final metadata/status synchronization**
+## Part012 final metadata/status synchronization checkpoint
+
+**PART012 FINAL METADATA / STATUS SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical Part012 records — **30/30**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- canonical Tamil body changes — **0**
+- visual-fidelity promotions — **30**
+- unresolved page-status exceptions — **0**
+- outgoing **360→361 — PENDING direct audit / unchanged**
+- exact next gate — **Part012 documentation synchronization**
