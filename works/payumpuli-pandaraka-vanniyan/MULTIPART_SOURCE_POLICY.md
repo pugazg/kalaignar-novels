@@ -1052,3 +1052,22 @@ Exact next activity: audit **330→331**; if usable, begin **Part012 Pass1 scans
 Durable records:
 - `PART_012_BOUNDARY_AUDIT_330_331.md`
 - `PART_012_PASS1_PROGRESS.md`
+
+## Part012 Pass1 Batch2 checkpoint
+
+**PART012 PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- Part012 canonical records — **20/30 — scans331–350**
+- Batch2 scans — **341–350 / local11–20 / printed334–343**
+- chapter53 closes scan341
+- chapter54 `அவள் கண்ட சொர்க்கம்!` opens342 / closes346
+- chapter55 `வீரர்கள் சாவதில்லை!` opens347 / continues350
+- unresolved Pass1 source-reading holds — **0**
+- textual / visual status — **needs-review / needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+- exact next activity — **Part012 Pass1 scans351–360 / exactly 10 source pages**
+
+Durable progress:
+- `PART_012_PASS1_PROGRESS.md`

@@ -346,16 +346,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 012 | 8 | 338 | 331 | `மற்றொரு மதுரை?` continuation; ends `தணிகைமலை கொல்லப்பட்டது` | needs-review | `pages/0338-matroru-madurai.md` |
 | 012 | 9 | 339 | 332 | `மற்றொரு மதுரை?` continuation; ends physical split `மான அடி வாங்கி` | needs-review | `pages/0339-matroru-madurai.md` |
 | 012 | 10 | 340 | 333 | `மற்றொரு மதுரை?` continuation; resumes `யிருந்த`; ends open dialogue at `“அழித்து` | needs-review | `pages/0340-matroru-madurai.md` |
-| 012 | 11 | 341 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 12 | 342 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 13 | 343 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 14 | 344 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 15 | 345 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 16 | 346 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 17 | 347 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 18 | 348 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 19 | 349 | — | unclassified — direct visual audit pending | not-started | — |
-| 012 | 20 | 350 | — | unclassified — direct visual audit pending | not-started | — |
+| 012 | 11 | 341 | 334 | `மற்றொரு மதுரை?` close; resumes scan340 open dialogue; substantial intentional blank lower field | needs-review | `pages/0341-matroru-madurai.md` |
+| 012 | 12 | 342 | 335 | chapter54 opening `அவள் கண்ட சொர்க்கம்!`; displayed number 54; ends `முடிய` | needs-review | `pages/0342-aval-kanda-sorgam.md` |
+| 012 | 13 | 343 | `அவள் கண்ட சொர்க்கம்!` continuation; resumes `மென்றால்` | needs-review | `pages/0343-aval-kanda-sorgam.md` |
+| 012 | 14 | 344 | `அவள் கண்ட சொர்க்கம்!` continuation; ends open cry `“நல்லநாச்சி` | needs-review | `pages/0344-aval-kanda-sorgam.md` |
+| 012 | 15 | 345 | `அவள் கண்ட சொர்க்கம்!` continuation; resumes `என்ன பேசுகிறாய்?`; ends `பின்னி` | needs-review | `pages/0345-aval-kanda-sorgam.md` |
+| 012 | 16 | 346 | `அவள் கண்ட சொர்க்கம்!` close; resumes `விரித்தாள்!`; source-visible final line ends `பார்த்தபடி` | needs-review | `pages/0346-aval-kanda-sorgam.md` |
+| 012 | 17 | 347 | 340 | chapter55 opening `வீரர்கள் சாவதில்லை!`; displayed number 55 | needs-review | `pages/0347-veerargal-saavathillai.md` |
+| 012 | 18 | 348 | 341 | `வீரர்கள் சாவதில்லை!` continuation; ends `இவர்களுக்கு உமது` | needs-review | `pages/0348-veerargal-saavathillai.md` |
+| 012 | 19 | 349 | 342 | `வீரர்கள் சாவதில்லை!` continuation; ends open dialogue at `பாஞ்சாலங்குறிச்சிச் சீமை` | needs-review | `pages/0349-veerargal-saavathillai.md` |
+| 012 | 20 | 350 | 343 | `வீரர்கள் சாவதில்லை!` continuation; ends mid-sentence at `தூக்கிலே போட வேண்டும் என்று` | needs-review | `pages/0350-veerargal-saavathillai.md` |
 | 012 | 21 | 351 | — | unclassified — direct visual audit pending | not-started | — |
 | 012 | 22 | 352 | — | unclassified — direct visual audit pending | not-started | — |
 | 012 | 23 | 353 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1092,3 +1092,19 @@ Durable progress:
 - `PART_012_PASS1_PROGRESS.md`
 
 Exact next activity: **Part012 Pass1 scans341–350 / local pages11–20**, exactly 10 source pages.
+
+## Part012 Pass1 Batch2 checkpoint
+
+**PART012 PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE.**
+
+- Part012 canonical records — **20/30 — scans331–350**
+- Batch2 — **scans341–350 / local11–20 / printed334–343**
+- chapter53 closes scan341
+- chapter54 `அவள் கண்ட சொர்க்கம்!` — opens342 / closes346
+- chapter55 `வீரர்கள் சாவதில்லை!` — opens347 / continues350
+- unresolved Pass1 source-reading holds — **0**
+- completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- outgoing **360→361 — PENDING direct audit**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+
+Exact next activity: **Part012 Pass1 scans351–360 / local pages21–30**, exactly 10 source pages.

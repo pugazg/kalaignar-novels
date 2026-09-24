@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE**
+**PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE**
 
 Active Part:
 - Part012
@@ -16,11 +16,11 @@ Parts001–011 remain **FINAL CLOSED / FROZEN**.
 ## Current accounting
 
 - Part012 physical scans — **30**
-- canonical Part012 records present — **10/30 — scans331–340**
-- Pass1 text-complete — **10/30**
-- Pass1 pending — **20/30 — scans341–360**
-- printed-page coverage completed — **324–333**
-- unresolved Pass1 source-reading holds in Batch1 — **0**
+- canonical Part012 records present — **20/30 — scans331–350**
+- Pass1 text-complete — **20/30**
+- Pass1 pending — **10/30 — scans351–360**
+- printed-page coverage completed — **324–343**
+- unresolved Pass1 source-reading holds — **0**
 - incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **360→361 — PENDING direct audit**
 - Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
@@ -33,8 +33,8 @@ Parts001–011 remain **FINAL CLOSED / FROZEN**.
 | Batch | Global scans | Local pages | Printed pages | Status |
 |---|---:|---:|---:|---|
 | 1 | 331–340 | 1–10 | 324–333 | **COMPLETE / TEXT-COMPLETE** |
-| 2 | 341–350 | 11–20 | pending direct audit | **NOT STARTED / NEXT** |
-| 3 | 351–360 | 21–30 | pending direct audit | **NOT STARTED** |
+| 2 | 341–350 | 11–20 | 334–343 | **COMPLETE / TEXT-COMPLETE** |
+| 3 | 351–360 | 21–30 | pending direct audit | **NOT STARTED / NEXT** |
 
 ## Incoming-boundary audit
 
@@ -71,6 +71,23 @@ Audited multipart boundaries — **11 / 15**.
 - scan340 ends inside Nalla Naachchiyar's open dialogue at **`“அழித்து`**;
 - scans341–360 were not transcribed in this batch.
 
+## Batch2 source-structure observations
+
+- scan341 / printed334 directly resumes scan340 open dialogue and closes chapter53 `மற்றொரு மதுரை?`;
+- scan341 preserves a substantial intentional blank lower field;
+- scan342 / printed335 opens chapter54 `அவள் கண்ட சொர்க்கம்!` with displayed number **54** and ornamental heading;
+- scans342–346 carry and close chapter54;
+- scan342→343 preserves the physical split **`முடிய` + `மென்றால்`**;
+- scan344 ends inside Kuruvichchi's open cry at `“நல்லநாச்சி`; scan345 resumes `என்ன பேசுகிறாய்?`;
+- scan345→346 preserves **`பின்னி` + `விரித்தாள்!`**;
+- scan346 source-visible final line ends at `பார்த்தபடி`; scan347 begins a new chapter, so no wording is reconstructed across that chapter boundary;
+- scan347 / printed340 opens chapter55 `வீரர்கள் சாவதில்லை!` with displayed number **55** and ornamental heading;
+- scans347–350 carry chapter55;
+- scan348 ends mid-sentence at `இவர்களுக்கு உமது`; scan349 resumes `வார்த்தைகளில்`;
+- scan349 ends inside Veerapandiya's open dialogue at `பாஞ்சாலங்குறிச்சிச் சீமை`; scan350 resumes `பரங்கியருக்குப் பணிந்து விட்டது`;
+- scan350 ends mid-sentence at **`தூக்கிலே போட வேண்டும் என்று`**;
+- scans351–360 were not transcribed in this batch.
+
 ## Source-visible forms retained for later review
 
 Pass1 preserves direct source readings without modernization, including:
@@ -80,6 +97,14 @@ Pass1 preserves direct source readings without modernization, including:
 - scan337 `கீழேபாய்ந்தோடி`, `தன்நலமற்ற`, and `அழிக்கபட்டு`;
 - scan339 `முக்கி முனகிக்`;
 - physical page-end fragments listed above.
+
+Batch2 additionally preserves direct source readings without modernization, including:
+- scan342 `உன்னால்துரோகம் செய்யமுடியாது`;
+- scan343 `இனிநான்`, `கடுஞ்சபதம்`, and `எனக்கு-என்`;
+- scan344 `செல் வாக்குமிருக்கிற`;
+- scan345 `மட்டுந்தான்`, `எண்ணிக்கிடக்கும்`, and `காமக்களியாட்டத்தில்`;
+- scan348 `அதற்குநாங்களா`, `பதவிக் காகவும்`, and `சோரம்போக`;
+- scan349 `தமிழ்இனக்`, `சொற் றொடர்கள்`, and `கம்பெனியாருக்குவரி`.
 
 These are not normalized at Pass1.
 
@@ -91,7 +116,7 @@ Frozen Parts001–011 canonical Tamil, assembled Tamil and maintained English bo
 
 ## Exact next activity
 
-Proceed with **Part012 Pass1 Batch2 — global scans341–350 / local pages11–20**.
+Proceed with **Part012 Pass1 Batch3 — global scans351–360 / local pages21–30**.
 
 Process exactly **10 physical source pages**.
 

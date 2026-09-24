@@ -40,8 +40,23 @@
 Durable progress:
 - `PART_012_PASS1_PROGRESS.md`
 
+## Pass1 Batch2 checkpoint
+
+**IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE**
+
+- scans — **341–350**
+- local pages — **11–20**
+- printed pages — **334–343**
+- canonical records — **20/30 cumulative**
+- unresolved Pass1 source-reading holds — **0**
+- chapter53 `மற்றொரு மதுரை?` — closes scan341;
+- chapter54 `அவள் கண்ட சொர்க்கம்!` — opens scan342 / closes scan346;
+- chapter55 `வீரர்கள் சாவதில்லை!` — opens scan347 / continues through scan350;
+- scan350 — ends mid-sentence at `தூக்கிலே போட வேண்டும் என்று`;
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**.
+
 ## Exact next activity
 
-Proceed with **Part012 Pass1 Batch2 — scans341–350 / local pages11–20**.
+Proceed with **Part012 Pass1 Batch3 — scans351–360 / local pages21–30**.
 
-Process exactly **10 source pages**. Do not begin Pass2A.
+Process exactly **10 source pages**. Do not begin Pass2A in the same activity.

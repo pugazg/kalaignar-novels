@@ -39,3 +39,18 @@ Do not begin Pass2A. Do not reopen frozen Parts001–011.
 - exact next activity — **Part012 Pass1 scans341–350 / local pages11–20**, exactly 10 pages
 - do not begin Pass2A until Pass1 reaches **30/30**
 
+## Part012 Pass1 Batch2 checkpoint
+
+**PART012 PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- canonical Part012 records — **20/30 — scans331–350**
+- Batch2 — **scans341–350 / printed334–343**
+- chapter53 closes341
+- chapter54 `அவள் கண்ட சொர்க்கம்!` opens342 / closes346
+- chapter55 `வீரர்கள் சாவதில்லை!` opens347 / continues350
+- unresolved Pass1 source-reading holds — **0**
+- outgoing **360→361 — PENDING direct audit**
+- exact next activity — **Part012 Pass1 scans351–360 / local pages21–30**, exactly 10 pages
+- do not begin Pass2A in the same activity
+
