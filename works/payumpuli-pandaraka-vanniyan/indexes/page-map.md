@@ -350,12 +350,12 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 012 | 12 | 342 | 335 | chapter54 opening `அவள் கண்ட சொர்க்கம்!`; displayed number 54; ends `முடிய` | verified | `pages/0342-aval-kanda-sorgam.md` |
 | 012 | 13 | 343 | `அவள் கண்ட சொர்க்கம்!` continuation; resumes `மென்றால்` | verified | `pages/0343-aval-kanda-sorgam.md` |
 | 012 | 14 | 344 | `அவள் கண்ட சொர்க்கம்!` continuation; ends open cry `“நல்லநாச்சி` | verified | `pages/0344-aval-kanda-sorgam.md` |
-| 012 | 15 | 345 | `அவள் கண்ட சொர்க்கம்!` continuation; resumes `என்ன பேசுகிறாய்?`; ends `பின்னி` | verified | `pages/0345-aval-kanda-sorgam.md` |
+| 012 | 15 | 345 | `அவள் கண்ட சொர்க்கம்!` continuation; resumes `என்ன பேசுகிறாய்?`; Pass2B `வெளுத்ததெல்லாம்` lexical correction; ends `பின்னி` | verified | `pages/0345-aval-kanda-sorgam.md` |
 | 012 | 16 | 346 | `அவள் கண்ட சொர்க்கம்!` close; resumes `விரித்தாள்!`; source-visible final line ends `பார்த்தபடி` | verified | `pages/0346-aval-kanda-sorgam.md` |
 | 012 | 17 | 347 | 340 | chapter55 opening `வீரர்கள் சாவதில்லை!`; displayed number 55 | verified | `pages/0347-veerargal-saavathillai.md` |
 | 012 | 18 | 348 | 341 | `வீரர்கள் சாவதில்லை!` continuation; ends `இவர்களுக்கு உமது` | verified | `pages/0348-veerargal-saavathillai.md` |
 | 012 | 19 | 349 | 342 | `வீரர்கள் சாவதில்லை!` continuation; ends open dialogue at `பாஞ்சாலங்குறிச்சிச் சீமை` | verified | `pages/0349-veerargal-saavathillai.md` |
-| 012 | 20 | 350 | 343 | `வீரர்கள் சாவதில்லை!` continuation; ends mid-sentence at `தூக்கிலே போட வேண்டும் என்று` | verified | `pages/0350-veerargal-saavathillai.md` |
+| 012 | 20 | 350 | 343 | `வீரர்கள் சாவதில்லை!` continuation; Pass2B `வளைந்து நிற்குமோ?` source-form correction; ends mid-sentence at `தூக்கிலே போட வேண்டும் என்று` | verified | `pages/0350-veerargal-saavathillai.md` |
 | 012 | 21 | 351 | 344 | `வீரர்கள் சாவதில்லை!` close; completes scan350 death-sentence sequence | verified | `pages/0351-veerargal-saavathillai.md` |
 | 012 | 22 | 352 | 345 | chapter56 opening `கொழும்பில் கொண்டாட்டம்!`; displayed number 56; ends `ஒரு தமிழ்` | verified | `pages/0352-kozhumbil-kondattam.md` |
 | 012 | 23 | 353 | 346 | `கொழும்பில் கொண்டாட்டம்!` continuation; resumes `நாட்டு மாவீரனின்`; ends open dialogue `ரொம்பக் கோபம்` | verified | `pages/0353-kozhumbil-kondattam.md` |
@@ -1187,3 +1187,26 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 - exact next — **Part012 Pass2B scans341–350 / local11–20**, exactly 10 pages
 - do not begin Pass3
+
+
+## Part012 Pass2B Batch2 checkpoint
+
+**PART012 PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- reviewed cumulative — **scans331–350**
+- Batch2 — **scans341–350 / local11–20 / printed334–343**
+- Batch2 additional Pass2B corrections — **2**
+- correction scans — **345, 350**
+- scan345 — `வெள்ளத்தெல்லாம்` → **`வெளுத்ததெல்லாம்`**
+- scan350 — `வளைந்து நிற்குமா?` → **`வளைந்து நிற்குமோ?`**
+- cumulative Pass2B corrections — **4**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- exact next — **Part012 Pass2B scans351–360 / local21–30**, exactly 10 pages
+- do not begin Pass3 in the same activity
