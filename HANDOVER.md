@@ -2211,3 +2211,26 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 - exact next — **Part012 Pass2B scans341–350 / local11–20**, exactly 10 pages
 - do not begin Pass3
+
+
+## Part012 Pass2B Batch2 checkpoint
+
+**PART012 PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- reviewed cumulative — **scans331–350**
+- Batch2 — **scans341–350 / local11–20 / printed334–343**
+- Batch2 additional Pass2B corrections — **2**
+- correction scans — **345, 350**
+- scan345 — `வெள்ளத்தெல்லாம்` → **`வெளுத்ததெல்லாம்`**
+- scan350 — `வளைந்து நிற்குமா?` → **`வளைந்து நிற்குமோ?`**
+- cumulative Pass2B corrections — **4**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- exact next — **Part012 Pass2B scans351–360 / local21–30**, exactly 10 pages
+- do not begin Pass3 in the same activity
