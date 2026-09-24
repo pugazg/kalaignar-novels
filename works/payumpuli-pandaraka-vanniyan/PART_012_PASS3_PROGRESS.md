@@ -101,3 +101,34 @@ Direct full-page rendered-source verification checked:
 Perform **Part012 Part audit**.
 
 Do not perform final metadata/status synchronization in the same audit gate.
+
+
+## Part012 Part audit checkpoint
+
+**PART012 PART AUDIT — PASS / COMPLETE.**
+
+- canonical records — **30/30 — scans331–360**
+- page-map rows — **30/30 verified**
+- local pages — **1–30 continuous**
+- global scans — **331–360 continuous**
+- printed-page coverage — **324–353**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Pass2A corrections — **6**
+- Pass2B corrections — **14**
+- Pass2B historical-glyph corrections — **0**
+- Pass3 textual corrections — **0**
+- unresolved internal Tamil / lexical / glyph / visual / structural issues — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- missing / duplicate canonical records — **0 / 0**
+- internal pagination / chapter-structure mismatches — **0**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- audit canonical-body changes — **0**
+- audit status promotions — **0**
+- Part013 wording leakage — **0**
+- durable audit — `PART_012_AUDIT.md`
+- exact next gate — **Part012 final metadata/status synchronization**
+- next gate may promote only `visual_fidelity: needs-review → verified` across the 30 audited Part012 records; do not alter Tamil body text
+
