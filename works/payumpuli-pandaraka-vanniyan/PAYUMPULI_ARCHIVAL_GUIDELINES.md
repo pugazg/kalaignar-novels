@@ -1372,3 +1372,24 @@ Durable validation:
 - `works/payumpuli-pandaraka-vanniyan/PART_011_ASSEMBLED_TAMIL_VALIDATION.md`
 
 Exact next gate: **Part011 English translation planning/setup**. Perform a live English control/batch collision check first; do not draft English prose during setup.
+
+## Part012 documentation synchronization checkpoint
+
+**PART012 DOCUMENTATION SYNCHRONIZATION — PASS / COMPLETE.**
+
+- canonical Part012 Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- page-map Part012 rows — **30/30 verified**
+- unresolved documentation / Tamil / visual blockers — **0**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- canonical page/body/status changes in this gate — **0**
+- Part013 leakage — **0**
+- durable record — `PART_012_DOCUMENTATION_SYNC.md`
+- exact next gate — **Part012 Tamil archival-ready checkpoint**
+- do not begin assembled Tamil construction until archival-ready closure
