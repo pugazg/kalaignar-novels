@@ -255,3 +255,21 @@ Perform direct full-page visual / structural verification of exactly **10 source
 - exact next gate — **Part012 final metadata/status synchronization**
 - next gate may promote only `visual_fidelity: needs-review → verified` across the 30 audited Part012 records; do not alter Tamil body text
 
+## Part012 final metadata/status synchronization checkpoint
+
+**PART012 FINAL METADATA / STATUS SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical Part012 records — **30/30 — scans331–360**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- visual-fidelity promotions — **30**
+- canonical Tamil body changes — **0**
+- textual-status promotions — **0**
+- provenance / pagination / section / boundary changes — **0**
+- partial / source-limited / needs-review — **0 / 0 / 0**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit / unchanged**
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- durable record — `PART_012_FINAL_STATUS_SYNC.md`
+- exact next gate — **Part012 documentation synchronization**, then **Tamil archival-ready checkpoint**
+- do not begin assembled Tamil construction before archival-ready closure
