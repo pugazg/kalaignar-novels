@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity and global mapping are durable; direct page audit remains pending.**
+**REGISTERED — split identity/global mapping are durable; Part012 Pass2B is IN PROGRESS / Batch1 complete at 10/30 REVIEWED.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **331–360**;
@@ -46,7 +46,7 @@ Part 012 source split: **SUPPLIED / REGISTERED**.
 
 Part011 is now **FINAL CLOSED / FROZEN**.
 
-Part012 is **ACTIVE / PASS2A COMPLETE / PASS — 30/30 REVIEWED**.
+Part012 is **ACTIVE / PASS2B IN PROGRESS — BATCH 1 COMPLETE — 10/30 REVIEWED**.
 
 Incoming boundary **330→331 — GENUINE CONTINUATION / AUDITED / PASS**.
 
@@ -123,3 +123,23 @@ Exact next activity:
 - visual fidelity — **30/30 needs-review**
 - outgoing **360→361 — PENDING direct audit**
 - exact next — **Pass2B scans331–340 / exactly 10 pages**
+
+
+## Pass2B Batch1 checkpoint
+
+**PART012 PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- iteration size — **10 source pages**
+- reviewed — **scans331–340 / printed324–333**
+- additional corrections — **2**
+- correction scans — **332, 337**
+- scan332 — `மேடைத்திரைகளாக` → **`மேடைத் திரைகளாக`**
+- scan337 — `தன்நலமற்ற` → **`தன்னலமற்ற`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- Pass3 — **NOT STARTED**
+
+Exact next activity: **Part012 Pass2B Batch2 — scans341–350**. Process exactly **10 source pages**.
