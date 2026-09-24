@@ -1123,3 +1123,22 @@ Durable progress:
 
 Durable progress:
 - `PART_012_PASS2A_PROGRESS.md`
+
+## Part012 Pass2A closure checkpoint
+
+**PART012 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- reviewed — **scans331–360**
+- cumulative corrections — **6**
+- correction scans — **345, 348, 353, 354, 358, 360**
+- unresolved textual questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Pass2B / Pass3 — **NOT STARTED**
+- exact next — **Part012 Pass2B scans331–340 / exactly 10 source pages**
+
+Durable progress:
+- `PART_012_PASS2A_PROGRESS.md`

@@ -356,16 +356,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 012 | 18 | 348 | 341 | `வீரர்கள் சாவதில்லை!` continuation; ends `இவர்களுக்கு உமது` | verified | `pages/0348-veerargal-saavathillai.md` |
 | 012 | 19 | 349 | 342 | `வீரர்கள் சாவதில்லை!` continuation; ends open dialogue at `பாஞ்சாலங்குறிச்சிச் சீமை` | verified | `pages/0349-veerargal-saavathillai.md` |
 | 012 | 20 | 350 | 343 | `வீரர்கள் சாவதில்லை!` continuation; ends mid-sentence at `தூக்கிலே போட வேண்டும் என்று` | verified | `pages/0350-veerargal-saavathillai.md` |
-| 012 | 21 | 351 | 344 | `வீரர்கள் சாவதில்லை!` close; completes scan350 death-sentence sequence | needs-review | `pages/0351-veerargal-saavathillai.md` |
-| 012 | 22 | 352 | 345 | chapter56 opening `கொழும்பில் கொண்டாட்டம்!`; displayed number 56; ends `ஒரு தமிழ்` | needs-review | `pages/0352-kozhumbil-kondattam.md` |
-| 012 | 23 | 353 | 346 | `கொழும்பில் கொண்டாட்டம்!` continuation; resumes `நாட்டு மாவீரனின்`; ends open dialogue `ரொம்பக் கோபம்` | needs-review | `pages/0353-kozhumbil-kondattam.md` |
-| 012 | 24 | 354 | 347 | `கொழும்பில் கொண்டாட்டம்!` continuation; resumes `தெரியுமா?` | needs-review | `pages/0354-kozhumbil-kondattam.md` |
-| 012 | 25 | 355 | 348 | `கொழும்பில் கொண்டாட்டம்!` close; footer-overlap final visible line ends `பண்டாரகனின் மாளிகையை` | needs-review | `pages/0355-kozhumbil-kondattam.md` |
-| 012 | 26 | 356 | 349 | chapter57 opening `தப்பித்து வந்த விதம்!`; displayed number 57; ends `மகாபாரதம்தான்` | needs-review | `pages/0356-thappiththu-vandha-vidham.md` |
-| 012 | 27 | 357 | 350 | `தப்பித்து வந்த விதம்!` continuation; ends `அந்த ஒருவன்` | needs-review | `pages/0357-thappiththu-vandha-vidham.md` |
-| 012 | 28 | 358 | 351 | `தப்பித்து வந்த விதம்!` continuation; ends `மற்ற` | needs-review | `pages/0358-thappiththu-vandha-vidham.md` |
-| 012 | 29 | 359 | 352 | `தப்பித்து வந்த விதம்!` continuation; ends physical split `சொல்லு` | needs-review | `pages/0359-thappiththu-vandha-vidham.md` |
-| 012 | 30 | 360 | 353 | `தப்பித்து வந்த விதம்!` continuation; resumes `கிறான்`; substantial intentional blank lower field | needs-review | `pages/0360-thappiththu-vandha-vidham.md` |
+| 012 | 21 | 351 | 344 | `வீரர்கள் சாவதில்லை!` close; completes scan350 death-sentence sequence | verified | `pages/0351-veerargal-saavathillai.md` |
+| 012 | 22 | 352 | 345 | chapter56 opening `கொழும்பில் கொண்டாட்டம்!`; displayed number 56; ends `ஒரு தமிழ்` | verified | `pages/0352-kozhumbil-kondattam.md` |
+| 012 | 23 | 353 | 346 | `கொழும்பில் கொண்டாட்டம்!` continuation; resumes `நாட்டு மாவீரனின்`; ends open dialogue `ரொம்பக் கோபம்` | verified | `pages/0353-kozhumbil-kondattam.md` |
+| 012 | 24 | 354 | 347 | `கொழும்பில் கொண்டாட்டம்!` continuation; resumes `தெரியுமா?` | verified | `pages/0354-kozhumbil-kondattam.md` |
+| 012 | 25 | 355 | 348 | `கொழும்பில் கொண்டாட்டம்!` close; footer-overlap final visible line ends `பண்டாரகனின் மாளிகையை` | verified | `pages/0355-kozhumbil-kondattam.md` |
+| 012 | 26 | 356 | 349 | chapter57 opening `தப்பித்து வந்த விதம்!`; displayed number 57; ends `மகாபாரதம்தான்` | verified | `pages/0356-thappiththu-vandha-vidham.md` |
+| 012 | 27 | 357 | 350 | `தப்பித்து வந்த விதம்!` continuation; ends `அந்த ஒருவன்` | verified | `pages/0357-thappiththu-vandha-vidham.md` |
+| 012 | 28 | 358 | 351 | `தப்பித்து வந்த விதம்!` continuation; ends `மற்ற` | verified | `pages/0358-thappiththu-vandha-vidham.md` |
+| 012 | 29 | 359 | 352 | `தப்பித்து வந்த விதம்!` continuation; ends physical split `சொல்லு` | verified | `pages/0359-thappiththu-vandha-vidham.md` |
+| 012 | 30 | 360 | 353 | `தப்பித்து வந்த விதம்!` continuation; resumes `கிறான்`; substantial intentional blank lower field | verified | `pages/0360-thappiththu-vandha-vidham.md` |
 | 013 | 1 | 361 | — | unclassified — direct visual audit pending | not-started | — |
 | 013 | 2 | 362 | — | unclassified — direct visual audit pending | not-started | — |
 | 013 | 3 | 363 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1152,3 +1152,17 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - visual fidelity — **30/30 needs-review**
 - outgoing **360→361 — PENDING direct audit**
 - exact next — **Pass2A scans351–360 / exactly 10 pages**
+
+## Part012 Pass2A closure checkpoint
+
+**PART012 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- scans331–360 — **verified textual status**
+- cumulative Pass2A corrections — **6**
+- correction scans — **345, 348, 353, 354, 358, 360**
+- Batch3 corrections — **4**
+- unresolved textual questions — **0**
+- visual fidelity — **30/30 needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- Pass2B / Pass3 — **NOT STARTED**
+- exact next — **Pass2B scans331–340 / exactly 10 pages**

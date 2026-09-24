@@ -84,3 +84,18 @@ Do not begin Pass2A. Do not reopen frozen Parts001–011.
 - exact next — **Part012 Pass2A scans351–360 / local21–30**, exactly 10 pages
 - do not begin Pass2B or Pass3
 
+## Part012 Pass2A closure checkpoint
+
+**PART012 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- reviewed — **scans331–360**
+- cumulative Pass2A corrections — **6**
+- correction scans — **345, 348, 353, 354, 358, 360**
+- unresolved textual questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- exact next — **Part012 Pass2B scans331–340 / local1–10**, exactly 10 pages
+- do not begin Pass3
+
