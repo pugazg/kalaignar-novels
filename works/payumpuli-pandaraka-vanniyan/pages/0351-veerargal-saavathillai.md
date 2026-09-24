@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_012_pages_331-360.pdf"
-transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans351–360; formal Part012 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans351–360; formal Part012 Pass 2A reviewed; formal Part012 Pass 2B reviewed"
 ---
 
 # வீரர்கள் சாவதில்லை!
@@ -25,14 +25,14 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 
 சகோதரியையும், தணிகைமலையையும் இழந்து விட்டு - சஞ்சலத்துடன் மாளிகைக்குத் திரும்பிய பண்டாரக வன்னியன், வீரபாண்டியக் கட்டபொம்மனின் முடிவைக் கேட்டுப் பதைத்தான்!
 
-தமிழகமிருந்து வந்த தகவலினால் அவன் தளர்ந்து விடக் கூடாதேயென்று கருதிய குருவிச்சிநாச்சியார், அவனது தோளில் மெல்லக் கைவைத்துக் குலுக்கி - “வீரர்கள் சாவதில்லை! நாமும் சாகப் போவதில்லை!” என்றாள்! அவளது கையை அழுத்தமாகப் பற்றிக் கொண்டான் பண்டாரக வன்னியன்!
+தமிழகமிருந்து வந்த தகவலினால் அவன் தளர்ந்து விடக் கூடாதேயென்று கருதிய குருவிச்சிநாச்சியார், அவனது தோளில் மெல்லக் கைவைத்துக் குலுக்கி - “வீரர்கள் சாவதில்லை! நாமும் சாகப்போவதில்லை!” என்றாள்! அவளது கையை அழுத்தமாகப் பற்றிக் கொண்டான் பண்டாரக வன்னியன்!
 
 ## Pass 1 notes
 
 - chapter55 `வீரர்கள் சாவதில்லை!` continuation and close before scan352 chapter reset
 - printed page 344 directly visible
 - resumes scan350 mid-sentence after the death sentence
-- page closes with Kuruvichchi Naachchiyar's line `வீரர்கள் சாவதில்லை! நாமும் சாகப் போவதில்லை!`
+- page closes with Kuruvichchi Naachchiyar's line; Pass2B source reread confirms joined form `வீரர்கள் சாவதில்லை! நாமும் சாகப்போவதில்லை!`
 
 
 ## Formal Part012 Pass 2A review
@@ -46,4 +46,17 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 351; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: 344; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+## Formal Part012 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part012 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- source-confirmed correction: `நாமும் சாகப் போவதில்லை!` → **`நாமும் சாகப்போவதில்லை!`** — source spacing / compound-join correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 351; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: 344; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
