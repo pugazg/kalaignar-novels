@@ -337,12 +337,12 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 011 | 29 | 329 | 321 | chapter52 opening `மயங்குகிறாள் ஒரு மாது!`; displayed number 52 | verified | `pages/0329-mayangukiraal-oru-maadhu.md` |
 | 011 | 30 | 330 | 322–323 | illustrated two-page spread; `மயங்குகிறாள் ஒரு மாது!` continuation; left322→right323; ends `தேவையில்லாமலே`; 330→331 pending | verified | `pages/0330-mayangukiraal-oru-maadhu.md` |
 | 012 | 1 | 331 | 324 | `மயங்குகிறாள் ஒரு மாது!` continuation; incoming 330→331 genuine continuation audited; ends `விட்டெறிந்த` | verified | `pages/0331-mayangukiraal-oru-maadhu.md` |
-| 012 | 2 | 332 | 325 | `மயங்குகிறாள் ஒரு மாது!` continuation; resumes `கல்,`; ends open dialogue at `உண்மையிலேயே` | verified | `pages/0332-mayangukiraal-oru-maadhu.md` |
+| 012 | 2 | 332 | 325 | `மயங்குகிறாள் ஒரு மாது!` continuation; resumes `கல்,`; Pass2B `மேடைத் திரைகளாக` spacing correction; ends open dialogue at `உண்மையிலேயே` | verified | `pages/0332-mayangukiraal-oru-maadhu.md` |
 | 012 | 3 | 333 | 326 | `மயங்குகிறாள் ஒரு மாது!` continuation; resumes `விருப்பமிருந்தால்`; ends `காப்பாற்றிக்கொள்ள,` | verified | `pages/0333-mayangukiraal-oru-maadhu.md` |
 | 012 | 4 | 334 | 327 | `மயங்குகிறாள் ஒரு மாது!` continuation; ends `அவன் அப்படி அவிழ்த்ததுதான்` | verified | `pages/0334-mayangukiraal-oru-maadhu.md` |
 | 012 | 5 | 335 | 328 | `மயங்குகிறாள் ஒரு மாது!` close; substantial intentional blank lower field | verified | `pages/0335-mayangukiraal-oru-maadhu.md` |
 | 012 | 6 | 336 | 329 | chapter53 opening `மற்றொரு மதுரை?`; displayed number 53; ends `சோகக் குயிலாகக்` | verified | `pages/0336-matroru-madurai.md` |
-| 012 | 7 | 337 | 330 | `மற்றொரு மதுரை?` continuation; resumes `கூவிக் கொண்டிருந்தது.`; ends `மறையும் வரையில்` | verified | `pages/0337-matroru-madurai.md` |
+| 012 | 7 | 337 | 330 | `மற்றொரு மதுரை?` continuation; resumes `கூவிக் கொண்டிருந்தது.`; Pass2B `தன்னலமற்ற` source-form correction; ends `மறையும் வரையில்` | verified | `pages/0337-matroru-madurai.md` |
 | 012 | 8 | 338 | 331 | `மற்றொரு மதுரை?` continuation; ends `தணிகைமலை கொல்லப்பட்டது` | verified | `pages/0338-matroru-madurai.md` |
 | 012 | 9 | 339 | 332 | `மற்றொரு மதுரை?` continuation; ends physical split `மான அடி வாங்கி` | verified | `pages/0339-matroru-madurai.md` |
 | 012 | 10 | 340 | 333 | `மற்றொரு மதுரை?` continuation; resumes `யிருந்த`; ends open dialogue at `“அழித்து` | verified | `pages/0340-matroru-madurai.md` |
@@ -1166,3 +1166,24 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - outgoing **360→361 — PENDING direct audit**
 - Pass2B / Pass3 — **NOT STARTED**
 - exact next — **Pass2B scans331–340 / exactly 10 pages**
+
+
+## Part012 Pass2B Batch1 checkpoint
+
+**PART012 PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- reviewed — **scans331–340 / local1–10 / printed324–333**
+- Batch1 additional Pass2B corrections — **2**
+- correction scans — **332, 337**
+- scan332 — `மேடைத்திரைகளாக` → **`மேடைத் திரைகளாக`**
+- scan337 — `தன்நலமற்ற` → **`தன்னலமற்ற`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- exact next — **Part012 Pass2B scans341–350 / local11–20**, exactly 10 pages
+- do not begin Pass3
