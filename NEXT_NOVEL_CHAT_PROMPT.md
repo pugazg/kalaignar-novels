@@ -198,3 +198,20 @@ Do not begin Pass2A. Do not reopen frozen Parts001–011.
 - exact next — **Part012 Part audit**
 - do not perform final metadata/status synchronization in the same audit gate
 
+## Part012 Part audit checkpoint
+
+**PART012 PART AUDIT — PASS / COMPLETE.**
+
+- canonical records — **30/30 — scans331–360**
+- page-map rows — **30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- unresolved internal issues — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- audit canonical-body changes / status promotions — **0 / 0**
+- durable audit — `works/payumpuli-pandaraka-vanniyan/PART_012_AUDIT.md`
+- exact next gate — **Part012 final metadata/status synchronization**
+- next gate may promote only `visual_fidelity: needs-review → verified`; do not alter Tamil body text
