@@ -172,3 +172,24 @@ Part012 Pass2A is **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**.
 - outgoing **360→361 — PENDING direct audit**
 
 Durable progress: `PART_012_PASS2A_PROGRESS.md`.
+
+## Part012 documentation synchronization checkpoint
+
+**PART012 DOCUMENTATION SYNCHRONIZATION — PASS / COMPLETE.**
+
+- canonical Part012 Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- page-map Part012 rows — **30/30 verified**
+- unresolved documentation / Tamil / visual blockers — **0**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- canonical page/body/status changes in this gate — **0**
+- Part013 leakage — **0**
+- durable record — `PART_012_DOCUMENTATION_SYNC.md`
+- exact next gate — **Part012 Tamil archival-ready checkpoint**
+- do not begin assembled Tamil construction until archival-ready closure
