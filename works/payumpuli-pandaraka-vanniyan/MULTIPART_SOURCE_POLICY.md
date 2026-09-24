@@ -1186,3 +1186,35 @@ Durable progress:
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 - exact next — **Part012 Pass2B scans351–360 / local21–30**, exactly 10 pages
 - do not begin Pass3 in the same activity
+
+
+## Part012 Pass2B Batch3 / closure checkpoint
+
+**PART012 PASS 2B — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- reviewed — **scans331–360 / 30/30**
+- Batch3 — **scans351–360 / local21–30 / printed344–353**
+- Batch3 additional Pass2B corrections — **10**
+- Batch3 correction scans — **351, 352, 353, 358, 359, 360**
+- scan351 — `சாகப் போவதில்லை` → **`சாகப்போவதில்லை`**
+- scan352 — `பாஞ்சாலங்குறிச்சிப்` → **`பாஞ்சாலக்குறிச்சிப்`**
+- scan352 — `பகுதிகளான இலங்கைத் தீவில்` → **`பகுதியான இலங்கைத் தீவில்`**
+- scan353 — `குதூகலாட்டம்` → **`குதியாட்டம்`**
+- scan353 — `எப்படி இருக்கிறது` → **`எப்படியிருக்கிறது`**
+- scan358 — `வைத்துக்கொள்ளுங்கள்` → **`வைத்துக் கொள்ளுங்கள்`**
+- scan358 — `போட்டுப் புரட்டியதிலும்` → **`போட்டுப்புரட்டியதிலும்`**
+- scan359 — `சமாளித்துக்கொண்டு` → **`சமாளித்துக் கொண்டு`**
+- scan360 — `கிறான்-அவர்களும்` → **`கிறான். அவர்களும்`**
+- scan360 — `காவலர்களுடன் நிற்கிறான்` → **`காவலர்களுடனும் நிற்கிறான்`**
+- cumulative Pass2B corrections — **14**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Pass3 — **NOT STARTED / UNBLOCKED**
+- exact next — **Part012 Pass3 Batch1 scans331–340**, exactly 10 source pages
+- do not begin Part audit in the same activity
+
