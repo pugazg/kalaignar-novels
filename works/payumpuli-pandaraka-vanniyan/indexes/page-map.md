@@ -356,16 +356,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 012 | 18 | 348 | 341 | `வீரர்கள் சாவதில்லை!` continuation; ends `இவர்களுக்கு உமது` | verified | `pages/0348-veerargal-saavathillai.md` |
 | 012 | 19 | 349 | 342 | `வீரர்கள் சாவதில்லை!` continuation; ends open dialogue at `பாஞ்சாலங்குறிச்சிச் சீமை` | verified | `pages/0349-veerargal-saavathillai.md` |
 | 012 | 20 | 350 | 343 | `வீரர்கள் சாவதில்லை!` continuation; Pass2B `வளைந்து நிற்குமோ?` source-form correction; ends mid-sentence at `தூக்கிலே போட வேண்டும் என்று` | verified | `pages/0350-veerargal-saavathillai.md` |
-| 012 | 21 | 351 | 344 | `வீரர்கள் சாவதில்லை!` close; completes scan350 death-sentence sequence | verified | `pages/0351-veerargal-saavathillai.md` |
-| 012 | 22 | 352 | 345 | chapter56 opening `கொழும்பில் கொண்டாட்டம்!`; displayed number 56; ends `ஒரு தமிழ்` | verified | `pages/0352-kozhumbil-kondattam.md` |
-| 012 | 23 | 353 | 346 | `கொழும்பில் கொண்டாட்டம்!` continuation; resumes `நாட்டு மாவீரனின்`; ends open dialogue `ரொம்பக் கோபம்` | verified | `pages/0353-kozhumbil-kondattam.md` |
+| 012 | 21 | 351 | 344 | `வீரர்கள் சாவதில்லை!` close; Pass2B `சாகப்போவதில்லை` source-join correction; completes scan350 death-sentence sequence | verified | `pages/0351-veerargal-saavathillai.md` |
+| 012 | 22 | 352 | 345 | chapter56 opening `கொழும்பில் கொண்டாட்டம்!`; Pass2B `பாஞ்சாலக்குறிச்சிப்` / `பகுதியான` source-form corrections; ends `ஒரு தமிழ்` | verified | `pages/0352-kozhumbil-kondattam.md` |
+| 012 | 23 | 353 | 346 | `கொழும்பில் கொண்டாட்டம்!` continuation; Pass2B `குதியாட்டம்` / `எப்படியிருக்கிறது` corrections; ends open dialogue `ரொம்பக் கோபம்` | verified | `pages/0353-kozhumbil-kondattam.md` |
 | 012 | 24 | 354 | 347 | `கொழும்பில் கொண்டாட்டம்!` continuation; resumes `தெரியுமா?` | verified | `pages/0354-kozhumbil-kondattam.md` |
 | 012 | 25 | 355 | 348 | `கொழும்பில் கொண்டாட்டம்!` close; footer-overlap final visible line ends `பண்டாரகனின் மாளிகையை` | verified | `pages/0355-kozhumbil-kondattam.md` |
 | 012 | 26 | 356 | 349 | chapter57 opening `தப்பித்து வந்த விதம்!`; displayed number 57; ends `மகாபாரதம்தான்` | verified | `pages/0356-thappiththu-vandha-vidham.md` |
 | 012 | 27 | 357 | 350 | `தப்பித்து வந்த விதம்!` continuation; ends `அந்த ஒருவன்` | verified | `pages/0357-thappiththu-vandha-vidham.md` |
-| 012 | 28 | 358 | 351 | `தப்பித்து வந்த விதம்!` continuation; ends `மற்ற` | verified | `pages/0358-thappiththu-vandha-vidham.md` |
-| 012 | 29 | 359 | 352 | `தப்பித்து வந்த விதம்!` continuation; ends physical split `சொல்லு` | verified | `pages/0359-thappiththu-vandha-vidham.md` |
-| 012 | 30 | 360 | 353 | `தப்பித்து வந்த விதம்!` continuation; resumes `கிறான்`; substantial intentional blank lower field | verified | `pages/0360-thappiththu-vandha-vidham.md` |
+| 012 | 28 | 358 | 351 | `தப்பித்து வந்த விதம்!` continuation; Pass2B `வைத்துக் கொள்ளுங்கள்` / `போட்டுப்புரட்டியதிலும்` corrections; ends `மற்ற` | verified | `pages/0358-thappiththu-vandha-vidham.md` |
+| 012 | 29 | 359 | 352 | `தப்பித்து வந்த விதம்!` continuation; Pass2B `சமாளித்துக் கொண்டு` spacing correction; ends physical split `சொல்லு` | verified | `pages/0359-thappiththu-vandha-vidham.md` |
+| 012 | 30 | 360 | 353 | `தப்பித்து வந்த விதம்!` continuation; Pass2B confirms `கிறான். அவர்களும்` and `காவலர்களுடனும்`; substantial intentional blank lower field | verified | `pages/0360-thappiththu-vandha-vidham.md` |
 | 013 | 1 | 361 | — | unclassified — direct visual audit pending | not-started | — |
 | 013 | 2 | 362 | — | unclassified — direct visual audit pending | not-started | — |
 | 013 | 3 | 363 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1210,3 +1210,20 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 - exact next — **Part012 Pass2B scans351–360 / local21–30**, exactly 10 pages
 - do not begin Pass3 in the same activity
+
+## Part012 Pass2B Batch3 / closure checkpoint
+
+**PART012 PASS 2B — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Batch3 reviewed — **scans351–360 / local21–30 / printed344–353**
+- Batch3 additional corrections — **10**
+- Batch3 correction scans — **351, 352, 353, 358, 359, 360**
+- cumulative Pass2B corrections — **14**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- exact next — **Part012 Pass3 Batch1 scans331–340 / exactly 10 source pages**
+- do not begin Part audit in the same activity
