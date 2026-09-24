@@ -141,3 +141,22 @@ Part012 Pass2B is **IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**.
 - durable progress — `PART_012_PASS2B_PROGRESS.md`
 
 Exact next activity: **Part012 Pass2B Batch3 — scans351–360 / exactly 10 source pages**.
+
+## Post-Pass2B closure current state
+
+Part012 Pass2B is **COMPLETE / PASS — 30/30 REVIEWED**.
+
+- Batch1 corrections — **2**
+- Batch2 corrections — **2**
+- Batch3 corrections — **10**
+- cumulative Pass2B corrections — **14**
+- Batch3 correction scans — **351, 352, 353, 358, 359, 360**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- Pass3 — **NOT STARTED / UNBLOCKED**
+- durable progress — `PART_012_PASS2B_PROGRESS.md`
+
+Exact next activity: **Part012 Pass3 Batch1 — scans331–340**, exactly **10 source pages**.
