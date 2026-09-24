@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_012_pages_331-360.pdf"
-transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans351–360; formal Part012 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans351–360; formal Part012 Pass 2A reviewed; formal Part012 Pass 2B reviewed"
 ---
 
 # தப்பித்து வந்த விதம்!
@@ -27,7 +27,7 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 
 “எனக்குச் சில நேரங்களில் பயங்கரமான காக்கா வலிப்பு வரும். அந்த நேரத்தில் யாராவது இந்த இரும்புச் சாவியைக் கையில் கொடுத்தால், அந்த வலிப்பு நோய் படிப்படியாகக் குறையும். அதற்குத்தான் இதை வைத்திருக்கிறேன்.”
 
-அடப்பாவமே! இவ்வளவு ரூபவதியான ஒரு இளம் பெண்ணுக்கு அதுபோல ஒரு வியாதியா என்று ஒரு திடீர்க்கவலை அந்தத் தடித்த மீசைக்காரனின் நெஞ்சில் தோன்றி உடனே மறைவதை அவன் முகம் காட்டிக்கொடுக்கிறது. அந்த மாறுதலையும் அதை அவன் சமாளித்துக்கொண்டு வேறுபக்கமாக முகத்தைத் திருப்பிக் கொள்வதையும் பியசீலி கவனித்துப் புன்னகை புரிகிறாள்.
+அடப்பாவமே! இவ்வளவு ரூபவதியான ஒரு இளம் பெண்ணுக்கு அதுபோல ஒரு வியாதியா என்று ஒரு திடீர்க்கவலை அந்தத் தடித்த மீசைக்காரனின் நெஞ்சில் தோன்றி உடனே மறைவதை அவன் முகம் காட்டிக்கொடுக்கிறது. அந்த மாறுதலையும் அதை அவன் சமாளித்துக் கொண்டு வேறுபக்கமாக முகத்தைத் திருப்பிக் கொள்வதையும் பியசீலி கவனித்துப் புன்னகை புரிகிறாள்.
 
 உடலை மூடியிருந்த - அதுவும் அரைகுறையாக மூடியிருந்த ஆடைகளில் முக்கால் பகுதியைக் கழற்றி எறிந்து விட்டு - மேலே ஒரு துண்டுத் துணி, இடையில் ஒரு சிறு பாவாடையுடன், “சரி! சரி! நான் குளிக்கிறேன்.” என்று அவசரமாகக் குளியல் அறைக்குள் நுழைந்தவள், திடுமெனக் கூச்சலிட்டவாறு கீழே விழுகிறாள். காவலர்கள் நால்வரும் திடுக்கிட்டுப் பார்க்கிறார்கள். விழுந்தவள் கை கால்களை உதறிக் கொண்டு தரையில் மல்லாந்தபடி புரளுகிறாள். வாயையும் கோணிக் கோணி இழுக்கிறது.
 
@@ -52,4 +52,17 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 359; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 29; அச்சுப் பக்கம்: 352; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+## Formal Part012 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part012 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- source-confirmed correction: `அதை அவன் சமாளித்துக்கொண்டு வேறுபக்கமாக` → **`அதை அவன் சமாளித்துக் கொண்டு வேறுபக்கமாக`** — source word-boundary spacing correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 359; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 29; அச்சுப் பக்கம்: 352; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
