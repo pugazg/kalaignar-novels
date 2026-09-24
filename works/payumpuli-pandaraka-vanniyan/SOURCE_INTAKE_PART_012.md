@@ -46,7 +46,7 @@ Part 012 source split: **SUPPLIED / REGISTERED**.
 
 Part011 is now **FINAL CLOSED / FROZEN**.
 
-Part012 is **ACTIVE / PART AUDIT PASS / COMPLETE; final metadata/status synchronization NEXT**.
+Part012 is **ACTIVE / FINAL METADATA-STATUS PASS / CLOSED; documentation synchronization NEXT**.
 
 Incoming boundary **330→331 — GENUINE CONTINUATION / AUDITED / PASS**.
 
@@ -249,4 +249,16 @@ Exact next activity: **Part012 Pass2B Batch3 — scans351–360**. Process exact
 - durable audit — `PART_012_AUDIT.md`
 - exact next gate — **Part012 final metadata/status synchronization**
 - next gate may promote only `visual_fidelity: needs-review → verified` across the 30 audited Part012 records; do not alter Tamil body text
+## Part012 final metadata/status synchronization checkpoint
 
+**PART012 FINAL METADATA / STATUS SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical Part012 records — **30/30 — scans331–360**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- visual-fidelity promotions — **30**
+- canonical Tamil body changes — **0**
+- partial / source-limited / needs-review — **0 / 0 / 0**
+- outgoing **360→361 — PENDING direct audit / unchanged**
+- durable record — `PART_012_FINAL_STATUS_SYNC.md`
+- exact next gate — **Part012 documentation synchronization**
