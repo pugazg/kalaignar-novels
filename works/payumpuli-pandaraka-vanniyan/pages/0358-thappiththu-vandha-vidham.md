@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_012_pages_331-360.pdf"
-transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans351–360; formal Part012 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans351–360; formal Part012 Pass 2A reviewed; formal Part012 Pass 2B reviewed"
 ---
 
 # தப்பித்து வந்த விதம்!
@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 
 “சரி! சரி! அந்தத் திரைச் சீலையை இழுத்துவிட்டு கட்டிலை மறைத்துவிட்டு நீ படுத்துத் தூங்கு! நாங்கள் இந்த அறைக்குள்ளேயே இருந்து காவல்புரிகிறோம்” என்கிறான் தடித்த மீசை!
 
-“கொஞ்சம்கூட உங்களுக்குப் பண்பு கிடையாதா? ஒரு பெண் இத்தனை ஆண்களுக்கு எதிரில் தனியாகப் படுத்து எப்படித் தூங்க முடியும்? தூக்கக் கலக்கத்தில் என் உடம்பில் இருக்கிற துணி விலகுவதாக வைத்துக்கொள்ளுங்கள்! உங்களுக்கு நான் அரையாடை அழகியாகக் காட்சி கொடுத்துக்கொண்டு கண்ணயர வேண்டுமா?”
+“கொஞ்சம்கூட உங்களுக்குப் பண்பு கிடையாதா? ஒரு பெண் இத்தனை ஆண்களுக்கு எதிரில் தனியாகப் படுத்து எப்படித் தூங்க முடியும்? தூக்கக் கலக்கத்தில் என் உடம்பில் இருக்கிற துணி விலகுவதாக வைத்துக் கொள்ளுங்கள்! உங்களுக்கு நான் அரையாடை அழகியாகக் காட்சி கொடுத்துக்கொண்டு கண்ணயர வேண்டுமா?”
 
 “அதற்குத்தான் இந்தத் திரைச்சீலையை இழுத்துவிட்டுக் கொள்ளச் சொல்கிறோம்.”
 
@@ -33,7 +33,7 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 
 “பேசாதே! மரியாதையாக போய்ப் படு!”
 
-“எப்படி எனக்கு உறக்கம் வரும் உங்கள் ராணியம்மாள் குருவிச்சி நாச்சியார், என்னை அடித்த அடியிலும் - தரையில் போட்டுப் புரட்டியதிலும் - என் உடம்பெல்லாம் ஊமைக்காயமாக இருக்கிறது! கொஞ்சம் குளியல் அறைக்குச் சென்று சூடாக உடம்பில் தண்ணீர் ஊற்றிக்கொண்டு வருகிறேன்.”
+“எப்படி எனக்கு உறக்கம் வரும் உங்கள் ராணியம்மாள் குருவிச்சி நாச்சியார், என்னை அடித்த அடியிலும் - தரையில் போட்டுப்புரட்டியதிலும் - என் உடம்பெல்லாம் ஊமைக்காயமாக இருக்கிறது! கொஞ்சம் குளியல் அறைக்குச் சென்று சூடாக உடம்பில் தண்ணீர் ஊற்றிக்கொண்டு வருகிறேன்.”
 
 பியசீலி, பேசிக்கொண்டே அந்த நாலு பேருக்கு நடுவில் தனது ஆடைகளை ஒவ்வொன்றாகக் களையத் தொடங்குகிறாள். நால்வரும் கண்ணை மூடிக்கொள்கிறார்கள். கண்ணை மூடிக் கொண்டார்களே தவிர, தடித்த மீசைக்காரனைத் தவிர, மற்ற
 
@@ -41,7 +41,7 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 
 - chapter57 continuation; printed page 351 directly visible
 - resumes scan357 at `மட்டும் பல்லைக் காட்டி`
-- source-visible `தலைமைக்காவலனுக்குக்`, `கொஞ்சம்கூட`, and `ஊமைக்காயமாக` retained
+- source-visible `கொஞ்சம்கூட` and `ஊமைக்காயமாக` retained; the earlier Pass1 `தலைமைக்காவலனுக்குக்` note was superseded in Pass2A by source-confirmed `தலைமைக் காவலனுக்குக்`
 - page ends at `மற்ற`; scan359 resumes `மூவரும்`
 
 
@@ -56,4 +56,18 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 358; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 28; அச்சுப் பக்கம்: 351; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+## Formal Part012 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part012 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **2**;
+- source-confirmed correction: `வைத்துக்கொள்ளுங்கள்!` → **`வைத்துக் கொள்ளுங்கள்!`** — source word-boundary spacing correction;
+- source-confirmed correction: `தரையில் போட்டுப் புரட்டியதிலும்` → **`தரையில் போட்டுப்புரட்டியதிலும்`** — source compound / join correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 358; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 28; அச்சுப் பக்கம்: 351; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
