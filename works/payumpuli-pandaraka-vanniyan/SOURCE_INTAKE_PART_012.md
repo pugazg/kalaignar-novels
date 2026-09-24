@@ -46,7 +46,7 @@ Part 012 source split: **SUPPLIED / REGISTERED**.
 
 Part011 is now **FINAL CLOSED / FROZEN**.
 
-Part012 is **ACTIVE / PASS2A IN PROGRESS — BATCH 1 COMPLETE — 10/30 REVIEWED**.
+Part012 is **ACTIVE / PASS2A IN PROGRESS — BATCH 2 COMPLETE — 20/30 REVIEWED**.
 
 Incoming boundary **330→331 — GENUINE CONTINUATION / AUDITED / PASS**.
 
@@ -91,3 +91,18 @@ Exact next activity:
 - textual status — **10/30 verified / 20/30 needs-review**
 - visual fidelity — **30/30 needs-review**
 - exact next — **Pass2A scans341–350 / exactly 10 pages**
+
+## Pass2A Batch2 checkpoint
+
+- reviewed — **scans341–350 / local11–20**
+- result — **COMPLETE / REVIEWED / PASS**
+- Batch2 corrections — **2**
+- cumulative Pass2A corrections — **2**
+- correction scans — **345, 348**
+- scan345 — `காமக்களியாட்டத்தில்` → **`காமக்களியாட்டத் தில்`**
+- scan348 — `படித்த தற்புறிகள்` → **`படித்த தற்குறிகள்`**
+- unresolved textual questions — **0**
+- textual status — **20/30 verified / 10/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- exact next — **Pass2A scans351–360 / exactly 10 pages**
+- outgoing **360→361 — PENDING direct audit**

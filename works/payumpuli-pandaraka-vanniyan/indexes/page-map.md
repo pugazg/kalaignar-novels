@@ -346,16 +346,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 012 | 8 | 338 | 331 | `மற்றொரு மதுரை?` continuation; ends `தணிகைமலை கொல்லப்பட்டது` | verified | `pages/0338-matroru-madurai.md` |
 | 012 | 9 | 339 | 332 | `மற்றொரு மதுரை?` continuation; ends physical split `மான அடி வாங்கி` | verified | `pages/0339-matroru-madurai.md` |
 | 012 | 10 | 340 | 333 | `மற்றொரு மதுரை?` continuation; resumes `யிருந்த`; ends open dialogue at `“அழித்து` | verified | `pages/0340-matroru-madurai.md` |
-| 012 | 11 | 341 | 334 | `மற்றொரு மதுரை?` close; resumes scan340 open dialogue; substantial intentional blank lower field | needs-review | `pages/0341-matroru-madurai.md` |
-| 012 | 12 | 342 | 335 | chapter54 opening `அவள் கண்ட சொர்க்கம்!`; displayed number 54; ends `முடிய` | needs-review | `pages/0342-aval-kanda-sorgam.md` |
-| 012 | 13 | 343 | `அவள் கண்ட சொர்க்கம்!` continuation; resumes `மென்றால்` | needs-review | `pages/0343-aval-kanda-sorgam.md` |
-| 012 | 14 | 344 | `அவள் கண்ட சொர்க்கம்!` continuation; ends open cry `“நல்லநாச்சி` | needs-review | `pages/0344-aval-kanda-sorgam.md` |
-| 012 | 15 | 345 | `அவள் கண்ட சொர்க்கம்!` continuation; resumes `என்ன பேசுகிறாய்?`; ends `பின்னி` | needs-review | `pages/0345-aval-kanda-sorgam.md` |
-| 012 | 16 | 346 | `அவள் கண்ட சொர்க்கம்!` close; resumes `விரித்தாள்!`; source-visible final line ends `பார்த்தபடி` | needs-review | `pages/0346-aval-kanda-sorgam.md` |
-| 012 | 17 | 347 | 340 | chapter55 opening `வீரர்கள் சாவதில்லை!`; displayed number 55 | needs-review | `pages/0347-veerargal-saavathillai.md` |
-| 012 | 18 | 348 | 341 | `வீரர்கள் சாவதில்லை!` continuation; ends `இவர்களுக்கு உமது` | needs-review | `pages/0348-veerargal-saavathillai.md` |
-| 012 | 19 | 349 | 342 | `வீரர்கள் சாவதில்லை!` continuation; ends open dialogue at `பாஞ்சாலங்குறிச்சிச் சீமை` | needs-review | `pages/0349-veerargal-saavathillai.md` |
-| 012 | 20 | 350 | 343 | `வீரர்கள் சாவதில்லை!` continuation; ends mid-sentence at `தூக்கிலே போட வேண்டும் என்று` | needs-review | `pages/0350-veerargal-saavathillai.md` |
+| 012 | 11 | 341 | 334 | `மற்றொரு மதுரை?` close; resumes scan340 open dialogue; substantial intentional blank lower field | verified | `pages/0341-matroru-madurai.md` |
+| 012 | 12 | 342 | 335 | chapter54 opening `அவள் கண்ட சொர்க்கம்!`; displayed number 54; ends `முடிய` | verified | `pages/0342-aval-kanda-sorgam.md` |
+| 012 | 13 | 343 | `அவள் கண்ட சொர்க்கம்!` continuation; resumes `மென்றால்` | verified | `pages/0343-aval-kanda-sorgam.md` |
+| 012 | 14 | 344 | `அவள் கண்ட சொர்க்கம்!` continuation; ends open cry `“நல்லநாச்சி` | verified | `pages/0344-aval-kanda-sorgam.md` |
+| 012 | 15 | 345 | `அவள் கண்ட சொர்க்கம்!` continuation; resumes `என்ன பேசுகிறாய்?`; ends `பின்னி` | verified | `pages/0345-aval-kanda-sorgam.md` |
+| 012 | 16 | 346 | `அவள் கண்ட சொர்க்கம்!` close; resumes `விரித்தாள்!`; source-visible final line ends `பார்த்தபடி` | verified | `pages/0346-aval-kanda-sorgam.md` |
+| 012 | 17 | 347 | 340 | chapter55 opening `வீரர்கள் சாவதில்லை!`; displayed number 55 | verified | `pages/0347-veerargal-saavathillai.md` |
+| 012 | 18 | 348 | 341 | `வீரர்கள் சாவதில்லை!` continuation; ends `இவர்களுக்கு உமது` | verified | `pages/0348-veerargal-saavathillai.md` |
+| 012 | 19 | 349 | 342 | `வீரர்கள் சாவதில்லை!` continuation; ends open dialogue at `பாஞ்சாலங்குறிச்சிச் சீமை` | verified | `pages/0349-veerargal-saavathillai.md` |
+| 012 | 20 | 350 | 343 | `வீரர்கள் சாவதில்லை!` continuation; ends mid-sentence at `தூக்கிலே போட வேண்டும் என்று` | verified | `pages/0350-veerargal-saavathillai.md` |
 | 012 | 21 | 351 | 344 | `வீரர்கள் சாவதில்லை!` close; completes scan350 death-sentence sequence | needs-review | `pages/0351-veerargal-saavathillai.md` |
 | 012 | 22 | 352 | 345 | chapter56 opening `கொழும்பில் கொண்டாட்டம்!`; displayed number 56; ends `ஒரு தமிழ்` | needs-review | `pages/0352-kozhumbil-kondattam.md` |
 | 012 | 23 | 353 | 346 | `கொழும்பில் கொண்டாட்டம்!` continuation; resumes `நாட்டு மாவீரனின்`; ends open dialogue `ரொம்பக் கோபம்` | needs-review | `pages/0353-kozhumbil-kondattam.md` |
@@ -1136,3 +1136,19 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - unresolved textual questions — **0**
 - visual fidelity — **30/30 needs-review**
 - exact next — **Pass2A scans341–350 / exactly 10 pages**
+
+## Part012 Pass2A Batch2 checkpoint
+
+**PART012 PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED.**
+
+- scans331–350 — **verified textual status**
+- scans351–360 — **needs-review textual status**
+- Batch2 corrections — **2**
+- cumulative Pass2A corrections — **2**
+- correction scans — **345, 348**
+- scan345 — `காமக்களியாட்டத்தில்` → **`காமக்களியாட்டத் தில்`**
+- scan348 — `படித்த தற்புறிகள்` → **`படித்த தற்குறிகள்`**
+- unresolved textual questions — **0**
+- visual fidelity — **30/30 needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- exact next — **Pass2A scans351–360 / exactly 10 pages**

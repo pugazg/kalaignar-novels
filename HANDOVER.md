@@ -2161,3 +2161,18 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - outgoing **360→361 — PENDING direct audit**
 - exact next activity — **Part012 Pass2A scans331–340 / local pages1–10**, exactly 10 pages
 
+## Part012 Pass2A Batch2 checkpoint
+
+**PART012 PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED.**
+
+- reviewed — **scans331–350**
+- Batch2 corrections — **2**
+- cumulative corrections — **2**
+- correction scans — **345, 348**
+- unresolved textual questions — **0**
+- textual status — **20/30 verified / 10/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- exact next — **Part012 Pass2A scans351–360 / local21–30**, exactly 10 pages
+- do not begin Pass2B or Pass3
+
