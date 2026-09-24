@@ -115,8 +115,36 @@ Durable progress:
 Durable progress:
 - `PART_012_PASS2A_PROGRESS.md`
 
+## Pass2B fixed iteration rule
+
+- **10 source pages per iteration**
+- Batch1 — scans331–340
+- Batch2 — scans341–350
+- Batch3 — scans351–360
+- do not exceed 10 source pages in a Pass2B iteration unless the user explicitly overrides this rule
+
+## Pass2B Batch1 checkpoint
+
+**PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+
+- reviewed scans — **331–340**
+- printed pages — **324–333**
+- additional Pass2B corrections — **2**
+- correction scans — **332, 337**
+- scan332 — `மேடைத்திரைகளாக` → **`மேடைத் திரைகளாக`**
+- scan337 — `தன்நலமற்ற` → **`தன்னலமற்ற`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+
+Durable Pass2B record:
+- `PART_012_PASS2B_PROGRESS.md`
+
 ## Exact next activity
 
-Proceed with **Part012 Pass2B Batch1 — scans331–340 / local pages1–10**.
+Proceed with **Part012 Pass2B Batch2 — scans341–350 / local pages11–20 / printed334–343**.
 
 Process exactly **10 source pages**. Do not begin Pass3.
