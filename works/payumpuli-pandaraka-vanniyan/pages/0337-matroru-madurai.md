@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_012_pages_331-360.pdf"
-transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans331–340; formal Part012 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans331–340; formal Part012 Pass 2A reviewed; formal Part012 Pass 2B reviewed"
 ---
 
 # மற்றொரு மதுரை?
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 
 கூவிக் கொண்டிருந்தது. அவளும் ஒரு பிரிவு வீரர்களுடன் பண்டாரகன் சுட்டிக் காட்டிய வழியில் குதிரையை விரட்டினாள்.
 
-வற்றாப்பளையிலிருந்து பண்டாரகன் மேற்கொண்ட பாதையில் சிறிது நேரத்திற்கெல்லாம் தணிகைமலையின் உடலை அவனால் காண முடிந்தது. மாண்டு கிடந்த அந்த மாவீரனைப் பார்த்தவுடன், பதறிப்போன பண்டாரக வன்னியன் தனது பரியிலிருந்து கீழேபாய்ந்தோடி, உருக்கமும் உணர்ச்சிவேகமும் உந்தித்தள்ள அவனது உடலை அள்ளி அணைத்துக் கொண்டு கதறிவிட்டான். சகோதரி நல்லநாச்சியைப் பற்றிவந்த செய்திக்கு இரண்டாவது இடம் கொடுத்துவிட்டு, தனது படையின் நம்பிக்கைக்குரிய ஒற்றன் தணிகைமலைக்கு முதலிடம் கொடுத்ததின் வாயிலாகத் தன்னையோர் தன்நலமற்ற சிங்கமெனக் காட்டிக் கொண்ட பண்டாரக வன்னியன், தணிகைமலையின் உச்சி மோந்து முத்தமிட்டான். தனது கழுத்தில் கிடந்த மெல்லிய ஆரம் ஒன்றைக் கழற்றி, தணிகையின் கழுத்தில் அணிவித்தான்.
+வற்றாப்பளையிலிருந்து பண்டாரகன் மேற்கொண்ட பாதையில் சிறிது நேரத்திற்கெல்லாம் தணிகைமலையின் உடலை அவனால் காண முடிந்தது. மாண்டு கிடந்த அந்த மாவீரனைப் பார்த்தவுடன், பதறிப்போன பண்டாரக வன்னியன் தனது பரியிலிருந்து கீழேபாய்ந்தோடி, உருக்கமும் உணர்ச்சிவேகமும் உந்தித்தள்ள அவனது உடலை அள்ளி அணைத்துக் கொண்டு கதறிவிட்டான். சகோதரி நல்லநாச்சியைப் பற்றிவந்த செய்திக்கு இரண்டாவது இடம் கொடுத்துவிட்டு, தனது படையின் நம்பிக்கைக்குரிய ஒற்றன் தணிகைமலைக்கு முதலிடம் கொடுத்ததின் வாயிலாகத் தன்னையோர் தன்னலமற்ற சிங்கமெனக் காட்டிக் கொண்ட பண்டாரக வன்னியன், தணிகைமலையின் உச்சி மோந்து முத்தமிட்டான். தனது கழுத்தில் கிடந்த மெல்லிய ஆரம் ஒன்றைக் கழற்றி, தணிகையின் கழுத்தில் அணிவித்தான்.
 
 “வீரனே! என் விசுவாசமுள்ள நண்பனே! அந்நியரின் ஆதிக்கச் சுவடுகள்கூட அறவே அழிக்கபட்டு, முல்லைத் தீவை சுதந்திரம் மணக்கும் சுந்தர பூமியாக வடிவமைக்க நீ எனக்குத் தந்த ஒத்துழைப்பு கொஞ்சமல்லவே! ஆனால் உன் கனவு நிறைவேறி, அந்நியர் எவரும் இந்த நிலத்துக்குள் நுழைய முடியவில்லை என்ற நிலை தோன்றுவதற்கு முன்பாகவே நீ கண்களை மூடி விட்டாயே, இது என்னடா நியாயம்?”
 
@@ -44,4 +44,17 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 337; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 330; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+## Formal Part012 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part012 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- source-confirmed correction: `தன்நலமற்ற` → **`தன்னலமற்ற`** — lexical / source-form correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 337; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 330; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
