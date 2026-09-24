@@ -99,3 +99,23 @@ Do not begin Pass2A. Do not reopen frozen Parts001–011.
 - exact next — **Part012 Pass2B scans331–340 / local1–10**, exactly 10 pages
 - do not begin Pass3
 
+
+## Part012 Pass2B Batch1 checkpoint
+
+**PART012 PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- reviewed — **scans331–340 / local1–10 / printed324–333**
+- Batch1 additional Pass2B corrections — **2**
+- correction scans — **332, 337**
+- scan332 — `மேடைத்திரைகளாக` → **`மேடைத் திரைகளாக`**
+- scan337 — `தன்நலமற்ற` → **`தன்னலமற்ற`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- exact next — **Part012 Pass2B scans341–350 / local11–20**, exactly 10 pages
+- do not begin Pass3
