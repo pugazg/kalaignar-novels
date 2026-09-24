@@ -6,18 +6,18 @@ printed_page: 351
 work: "payumpuli-pandaraka-vanniyan"
 section: "தப்பித்து வந்த விதம்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_012_pages_331-360.pdf"
-transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans351–360"
+transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans351–360; formal Part012 Pass 2A reviewed"
 ---
 
 # தப்பித்து வந்த விதம்!
 
 ## Source transcription
 
-மட்டும் பல்லைக் காட்டி நெளிந்துவிட்டு, அதற்கு மேல் தலைமைக்காவலனுக்குக் கட்டுப்படாமல் இருந்தால் பல் வரிசை இரண்டும் கழன்றுவிடும் என்ற பயத்தில் அவளைக் கோபத்துடன் நோக்குவதாக நடிக்கிறான். ஆனாலும் அவன் வாயின் இதழ்க் கடையிலிருந்து உமிழ்நீர் சுரந்து வழிவதைப் பியசீலி பார்க்கத் தவறவில்லை. நாலில் ஒன்று நமது பிடியில் அகப்பட்டது என்ற பெருமிதத்துடன் சிரித்துக்கொள்கிறாள்.
+மட்டும் பல்லைக் காட்டி நெளிந்துவிட்டு, அதற்கு மேல் தலைமைக் காவலனுக்குக் கட்டுப்படாமல் இருந்தால் பல் வரிசை இரண்டும் கழன்றுவிடும் என்ற பயத்தில் அவளைக் கோபத்துடன் நோக்குவதாக நடிக்கிறான். ஆனாலும் அவன் வாயின் இதழ்க் கடையிலிருந்து உமிழ்நீர் சுரந்து வழிவதைப் பியசீலி பார்க்கத் தவறவில்லை. நாலில் ஒன்று நமது பிடியில் அகப்பட்டது என்ற பெருமிதத்துடன் சிரித்துக்கொள்கிறாள்.
 
 “சரி! சரி! அந்தத் திரைச் சீலையை இழுத்துவிட்டு கட்டிலை மறைத்துவிட்டு நீ படுத்துத் தூங்கு! நாங்கள் இந்த அறைக்குள்ளேயே இருந்து காவல்புரிகிறோம்” என்கிறான் தடித்த மீசை!
 
@@ -44,4 +44,16 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 - source-visible `தலைமைக்காவலனுக்குக்`, `கொஞ்சம்கூட`, and `ஊமைக்காயமாக` retained
 - page ends at `மற்ற`; scan359 resumes `மூவரும்`
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 358; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 28; அச்சுப் பக்கம்: 351; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+
+## Formal Part012 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part012 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- corrected source-visible word boundary `தலைமைக்காவலனுக்குக்` → `தலைமைக் காவலனுக்குக்`; remaining page structure re-confirmed;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 358; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 28; அச்சுப் பக்கம்: 351; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->

@@ -6,11 +6,11 @@ printed_page: 352
 work: "payumpuli-pandaraka-vanniyan"
 section: "தப்பித்து வந்த விதம்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_012_pages_331-360.pdf"
-transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans351–360"
+transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans351–360; formal Part012 Pass 2A reviewed"
 ---
 
 # தப்பித்து வந்த விதம்!
@@ -40,4 +40,16 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 - source-visible `திடீர்க்கவலை`, `வேறுபக்கமாக`, and `காக்காய் வலிப்புத்தான்` retained
 - page ends at physical split `சொல்லு`; scan360 resumes `கிறான்`
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 359; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 29; அச்சுப் பக்கம்: 352; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+
+## Formal Part012 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part012 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- chapter57 continuation; `காக்கா வலிப்பு` / `காக்காய் வலிப்புத்தான்` distinction and page-end fragment `சொல்லு` re-confirmed;
+- source-text corrections in Pass 2A: **0**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 359; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 29; அச்சுப் பக்கம்: 352; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->

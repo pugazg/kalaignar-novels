@@ -6,18 +6,18 @@ printed_page: 353
 work: "payumpuli-pandaraka-vanniyan"
 section: "தப்பித்து வந்த விதம்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_012_pages_331-360.pdf"
-transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans351–360"
+transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch scans351–360; formal Part012 Pass 2A reviewed"
 ---
 
 # தப்பித்து வந்த விதம்!
 
 ## Source transcription
 
-கிறான்-அவர்களும் வேண்டா வெறுப்பாக வெளியேறுகிறார்கள். தடித்த மீசை, முகத்தை வேறு திசையில் திருப்பிக்கொண்டு கீழேகிடந்த சாவியை எடுத்துப் பியசீலியின் கையில் திணிக்கிறான். பிறகு அவனும் வெளியே போய் அந்த மூன்று காவலர்களுடன் நிற்கிறான். அவன் என்னவோ தவம் செய்யும் முனிவரைப் போலத்தான் உள்ளுக்குமே பார்க்காமல் உறுதியோடு நிற்கிறான். ஆனால் அந்த மூவரின் முகங்களும் அவர் களையறியாமல் அறைக்குள்ளேயே நோட்டம் விடுகின்றன. அதை அனுமதிக்கத் தயாராக இல்லாத தடித்த மீசைக்காரன் அந்த அறைக் கதவை மூடிக் கொண்டு வெளியிலே மூவருடனும் வெகு உஷாராகக் காவல் புரிகிறான்.
+கிறான்-அவர்களும் வேண்டா வெறுப்பாக வெளியேறுகிறார்கள். தடித்த மீசை, முகத்தை வேறு திசையில் திருப்பிக்கொண்டு கீழேகிடந்த சாவியை எடுத்துப் பியசீலியின் கையில் திணிக்கிறான். பிறகு அவனும் வெளியே போய் அந்த மூன்று காவலர்களுடன் நிற்கிறான். அவன் என்னவோ தவம் செய்யும் முனிவரைப் போலத்தான் உள்ளுக்குமே பார்க்காமல் உறுதியோடு நிற்கிறான். ஆனால் அந்த மூவரின் முகங்களும் அவர்களையறியாமல் அறைக்குள்ளேயே நோட்டம் விடுகின்றன. அதை அனுமதிக்கத் தயாராக இல்லாத தடித்த மீசைக்காரன் அந்த அறைக் கதவை மூடிக் கொண்டு வெளியிலே மூவருடனும் வெகு உஷாராகக் காவல் புரிகிறான்.
 
 பிறந்த மேனியாகப் புரண்டு கொண்டிருந்த பியசீலி, கடைக்கண்ணால் கதவுப்புறம் பார்க்கிறாள். பெருமூச்சு விட்டுக் கொள்கிறாள். அமைதியாக - ஆனால் அதே நிர்வாணக் கோலத்தில் தரையில் கிடக்கிறாள். மெல்லக் கதவைத் திறந்து தடித்த மீசை நோக்குகிறான்.
 
@@ -33,4 +33,16 @@ transcription_method: "direct source-pixel transcription; Part012 Pass 1 batch s
 - substantial intentional blank lower field follows the final sentence
 - outgoing 360→361 remains PENDING direct audit; no adjacent-Part wording imported
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 360; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 30; அச்சுப் பக்கம்: 353; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+
+## Formal Part012 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part012 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- corrected within-page line-wrap reconstruction `அவர் களையறியாமல்` → `அவர்களையறியாமல்`; substantial intentional blank lower field and outgoing boundary state re-confirmed;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 360; பகுதி: 012; பகுதி உள்ளூர் பக்கம்: 30; அச்சுப் பக்கம்: 353; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->

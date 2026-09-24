@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
+**PASS 2A — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisites:
 - Part012 Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -24,14 +24,15 @@ For each reviewed physical scan, canonical Tamil was re-compared directly agains
 
 ## Current accounting
 
-- reviewed — **20/30 — scans331–350**
-- remaining — **10/30 — scans351–360**
+- reviewed — **30/30 — scans331–360**
+- remaining — **0/30**
 - Batch1 corrections — **0**
 - Batch2 corrections — **2**
-- cumulative Pass2A corrections — **2**
-- correction scans — **345, 348**
+- Batch3 corrections — **4**
+- cumulative Pass2A corrections — **6**
+- correction scans — **345, 348, 353, 354, 358, 360**
 - unresolved textual questions — **0**
-- textual status — **20/30 verified / 10/30 needs-review**
+- textual status — **30/30 verified / 0 needs-review**
 - visual fidelity — **30/30 needs-review**
 - frozen Parts001–011 body mutations — **0**
 - Pass2B / Pass3 — **NOT STARTED**
@@ -61,8 +62,33 @@ Corrections:
 
 No other canonical-body changes were required in scans341–350. Source-visible irregular forms, chapter boundaries and page-end fragments were retained.
 
+## Batch3 decision — scans351–360
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+Corrections:
+- scan353 / printed346 — `ஆசை கூட` → **`ஆசைகூட`** — source word-boundary correction;
+- scan354 / printed347 — `நியல்லவா` → **`நீயல்லவா`** — lexical/source-reading correction;
+- scan358 / printed351 — `தலைமைக்காவலனுக்குக்` → **`தலைமைக் காவலனுக்குக்`** — source word-boundary correction;
+- scan360 / printed353 — `அவர் களையறியாமல்` → **`அவர்களையறியாமல்`** — within-page line-wrap reconstruction.
+
+No other canonical-body changes were required in scans351–360. Source-visible irregular forms, chapter boundaries, the scan355 footer-overlap limitation, scan360 blank lower field, and outgoing **360→361 PENDING direct audit** were preserved.
+
+## Pass2A closure
+
+**PASS 2A — COMPLETE / PASS — 30/30 REVIEWED**
+
+- cumulative corrections — **6**
+- correction scans — **345, 348, 353, 354, 358, 360**
+- unresolved textual questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- frozen Parts001–011 mutations — **0**
+- outgoing **360→361 — PENDING direct audit**
+- Pass2B / Pass3 — **NOT STARTED**
+
 ## Exact next activity
 
-Proceed with **Part012 Pass2A Batch3 — scans351–360 / local pages21–30**.
+Proceed with **Part012 Pass2B Batch1 — scans331–340 / local pages1–10**.
 
-Process exactly **10 source pages**. Do not begin Pass2B or Pass3.
+Process exactly **10 source pages**. Do not begin Pass3.
