@@ -57,3 +57,16 @@ Documentation synchronization changed:
 Exact next gate: **Part012 Tamil archival-ready checkpoint**.
 
 Do not begin assembled Tamil construction until that checkpoint closes. Keep outgoing **360→361 PENDING direct audit**.
+
+## Part012 Tamil archival-ready checkpoint
+
+**PART012 TAMIL ARCHIVAL-READY — PASS / CLOSED.**
+
+- canonical Part012 Tamil / visual fidelity — **30/30 verified / 30/30 verified**
+- documentation synchronization — **PASS / COMPLETE**
+- planned assembled section range — **67–72 / 6**
+- live section-order collisions — **0**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- canonical page/body/status mutations — **0**
+- exact next activity — **Part012 assembled Tamil construction + audit — sections67–72**
