@@ -92,3 +92,28 @@ No other canonical-body changes were required in scans351–360. Source-visible 
 Proceed with **Part012 Pass2B Batch1 — scans331–340 / local pages1–10**.
 
 Process exactly **10 source pages**. Do not begin Pass3.
+
+
+## Post-Pass2B Batch1 current state
+
+Part012 Pass2B is **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**.
+
+- fixed Pass2B iteration rule — **10 source pages per iteration**
+- Batch1 — **scans331–340 / COMPLETE**
+- Batch2 — **scans341–350 / NEXT**
+- Batch3 — **scans351–360 / PENDING**
+- additional Pass2B corrections — **2**
+- correction scans — **332, 337**
+- scan332 — `மேடைத்திரைகளாக` → **`மேடைத் திரைகளாக`**
+- scan337 — `தன்நலமற்ற` → **`தன்னலமற்ற`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **360→361 — PENDING direct audit**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- durable progress — `PART_012_PASS2B_PROGRESS.md`
+
+The Pass2B reread supersedes the earlier Batch1 Pass2A source-lock note for scan337: the source reads **`தன்னலமற்ற`**, not `தன்நலமற்ற`.
+
+Exact next activity: **Part012 Pass2B Batch2 — scans341–350 / exactly 10 source pages**.
