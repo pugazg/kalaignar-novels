@@ -4,12 +4,12 @@ Status: **PLANNING / SETUP COMPLETE / PASS**
 
 | Batch | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
-| **E64** | section67 — chapter52 continuation/close `மயங்குகிறாள் ஒரு மாது!` | 331–335 | **NEXT / NOT STARTED** |
-| **E65** | section68 — `மற்றொரு மதுரை?` | 336–341 | **PLANNED / NOT STARTED** |
-| **E66** | section69 — `அவள் கண்ட சொர்க்கம்!` | 342–346 | **PLANNED / NOT STARTED** |
-| **E67** | section70 — `வீரர்கள் சாவதில்லை!` | 347–351 | **PLANNED / NOT STARTED** |
-| **E68** | section71 — `கொழும்பில் கொண்டாட்டம்!` | 352–355 | **PLANNED / NOT STARTED** |
-| **E69** | section72 — `தப்பித்து வந்த விதம்!` | 356–360 | **PLANNED / NOT STARTED** |
+| **E64** | section67 — chapter52 continuation/close `மயங்குகிறாள் ஒரு மாது!` | 331–335 | **SOURCE-CHECKED / COMPLETE** |
+| **E65** | section68 — `மற்றொரு மதுரை?` | 336–341 | **SOURCE-CHECKED / COMPLETE** |
+| **E66** | section69 — `அவள் கண்ட சொர்க்கம்!` | 342–346 | **SOURCE-CHECKED / COMPLETE** |
+| **E67** | section70 — `வீரர்கள் சாவதில்லை!` | 347–351 | **SOURCE-CHECKED / COMPLETE** |
+| **E68** | section71 — `கொழும்பில் கொண்டாட்டம்!` | 352–355 | **SOURCE-CHECKED / COMPLETE** |
+| **E69** | section72 — `தப்பித்து வந்த விதம்!` | 356–360 | **SOURCE-CHECKED / COMPLETE** |
 
 ## Current counts
 
@@ -19,8 +19,8 @@ Status: **PLANNING / SETUP COMPLETE / PASS**
 - Tamil assembled files — **6/6 VERIFIED / CLOSED**
 - Part012 English planned batches — **E64–E69 / 6**
 - Part012 English planned files — **6**
-- Part012 English translated files — **0/6**
-- Part012 English source-checked files — **0/6**
+- Part012 English translated files — **6/6**
+- Part012 English source-checked files — **6/6**
 - unresolved English planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -72,3 +72,25 @@ Created:
 **PART012 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS**
 
 Exact next activity: **E64 draft + source-check — section67 / scans331–335**.
+
+## E64–E69 batch-level translation closure
+
+**E64–E69 — 6/6 SOURCE-CHECKED / COMPLETE.**
+
+- physical scans covered — **331–360 / 30**
+- maintained English files — **6/6**
+- source-check records — **E64–E69 / 6/6**
+- source-boundary marker parity — **24/24 / PASS**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–011 English body edits — **0**
+- scan355 footer-obscured reconstruction — **0**
+- outgoing **360→361 — PENDING direct audit**
+- Part013 translation / semantic completion — **0**
+- unresolved batch-level holds — **0**
+
+## Exact next activity
+
+Perform **Part012 whole-Part glossary reconciliation across E64–E69**.
+
+Do not begin whole-Part English editorial review until glossary reconciliation closes.
