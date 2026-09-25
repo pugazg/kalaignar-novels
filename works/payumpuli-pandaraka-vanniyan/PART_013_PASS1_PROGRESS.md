@@ -100,3 +100,22 @@ Frozen Parts001–012 canonical Tamil, assembled Tamil and maintained English bo
 Proceed with **Part013 Pass2A Batch1 — scans361–370 / local pages1–10 / printed354–363**.
 
 Perform direct source-vs-canonical textual verification on exactly **10 source pages**. Apply only source-supported corrections. Keep `visual_fidelity: "needs-review"` until the visual pass. Do not begin Pass2B in the same activity.
+
+## Part013 Pass2A Batch1 checkpoint
+
+**PART013 PASS 2A — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- reviewed — **scans361–370 / local1–10 / printed354–363**
+- textual status — **10/30 verified / 20/30 needs-review**
+- Batch1 corrections — **6**
+- correction scans — **363, 367, 370**
+- scan363 — three source word-boundary restorations: `அணைத்துக்கொள்வதுமாக`, `அவனுக்கெந்தக்`, `பழத்தின்மீது`
+- scan367 — `தன்வசப்படுத்தினான்` → **`தன்வசப் படுத்தினான்`**
+- scan370 — `வைக்கப்பட்டிருந்த` → **`வைக்கப் பட்டிருந்த`**; `நடந்ததோ` → **`நடப்பதோ`**
+- unresolved textual questions — **0**
+- visual fidelity — **30/30 needs-review**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- Pass2B / Pass3 — **NOT STARTED**
+- exact next — **Part013 Pass2A Batch2 scans371–380 / local11–20 / printed364–373**
