@@ -42,7 +42,7 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 ## Pass 1 notes
 
 - chapter60 continuation; printed page **368**
-- source-visible opening `பதைப்புடன்` and `கணுக்காலுடன் ஒரு பாதம் காணப்படவில்லை` retained
+- source-visible opening `பதைப்புடன்` and source-confirmed `கணுக்காலுடன் ஒரு பாதம் காணப்பட வில்லை` retained
 - the missing-foot reveal and dialogue hierarchy are source-visible and preserved
 - page ends with `விபரமாகச் சொல்லு!`; scan376 supplies Martthani's explanation
 
