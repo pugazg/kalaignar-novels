@@ -376,16 +376,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 013 | 8 | 368 | 361 | `இன்று முதல் உங்கள் எதிரி!` continuation; resumes `கண்டிக்கு`; ends open dialogue at `நீங்கள்` | verified | `pages/0368-indru-mudhal-ungal-edhiri.md` |
 | 013 | 9 | 369 | 362 | `இன்று முதல் உங்கள் எதிரி!` continuation; resumes `இவளுக்கு`; ends physical continuation `கொழும்பு` | verified | `pages/0369-indru-mudhal-ungal-edhiri.md` |
 | 013 | 10 | 370 | 363 | `இன்று முதல் உங்கள் எதிரி!` continuation; resumes `வந்து சேர்ந்தார்.`; chapter continues on371 | verified | `pages/0370-indru-mudhal-ungal-edhiri.md` |
-| 013 | 11 | 371 | 364 | chapter59 `இன்று முதல் உங்கள் எதிரி!` close; substantial intentional blank lower field | needs-review | `pages/0371-indru-mudhal-ungal-edhiri.md` |
-| 013 | 12 | 372 | 365 | chapter60 opening `பகையும் - பண்பும்!`; displayed number 60; ends physical continuation `தேவை` | needs-review | `pages/0372-pagaiyum-panbum.md` |
-| 013 | 13 | 373 | 366 | `பகையும் - பண்பும்!` continuation; resumes `களை`; war-preparation discussion | needs-review | `pages/0373-pagaiyum-panbum.md` |
-| 013 | 14 | 374 | 367 | `பகையும் - பண்பும்!` continuation; Martthani returns; ends `பியசீலி என்ன ஆனாள்? சொல்லுங்கள்!` | needs-review | `pages/0374-pagaiyum-panbum.md` |
-| 013 | 15 | 375 | 368 | `பகையும் - பண்பும்!` continuation; missing-foot reveal; ends `விபரமாகச் சொல்லு!` | needs-review | `pages/0375-pagaiyum-panbum.md` |
-| 013 | 16 | 376 | 369 | `பகையும் - பண்பும்!` continuation; treatment account; ends open sentence `நான் அவர்களின்` | needs-review | `pages/0376-pagaiyum-panbum.md` |
-| 013 | 17 | 377 | 370 | `பகையும் - பண்பும்!` close; resumes `விரோதி என்று தெரிந்தும்`; final `மென்காற்றில்!` | needs-review | `pages/0377-pagaiyum-panbum.md` |
-| 013 | 18 | 378 | 371 | chapter61 opening `போருக்கான புகைச்சல்!`; displayed number 61; ends `வீதிகளில் வியாபாரம் நடத்திக் கொண்டே` | needs-review | `pages/0378-porukkana-pugaichal.md` |
-| 013 | 19 | 379 | 372 | `போருக்கான புகைச்சல்!` continuation; starving-child scene; ends after blow to child | needs-review | `pages/0379-porukkana-pugaichal.md` |
-| 013 | 20 | 380 | 373 | `போருக்கான புகைச்சல்!` continuation; Puttalam clash; ends physical split `அந்தப்` | needs-review | `pages/0380-porukkana-pugaichal.md` |
+| 013 | 11 | 371 | 364 | chapter59 `இன்று முதல் உங்கள் எதிரி!` close; substantial intentional blank lower field | verified | `pages/0371-indru-mudhal-ungal-edhiri.md` |
+| 013 | 12 | 372 | 365 | chapter60 opening `பகையும் - பண்பும்!`; displayed number 60; ends physical continuation `தேவை` | verified | `pages/0372-pagaiyum-panbum.md` |
+| 013 | 13 | 373 | 366 | `பகையும் - பண்பும்!` continuation; resumes `களை`; war-preparation discussion | verified | `pages/0373-pagaiyum-panbum.md` |
+| 013 | 14 | 374 | 367 | `பகையும் - பண்பும்!` continuation; Martthani returns; ends `பியசீலி என்ன ஆனாள்? சொல்லுங்கள்!` | verified | `pages/0374-pagaiyum-panbum.md` |
+| 013 | 15 | 375 | 368 | `பகையும் - பண்பும்!` continuation; missing-foot reveal; ends `விபரமாகச் சொல்லு!` | verified | `pages/0375-pagaiyum-panbum.md` |
+| 013 | 16 | 376 | 369 | `பகையும் - பண்பும்!` continuation; treatment account; ends open sentence `நான் அவர்களின்` | verified | `pages/0376-pagaiyum-panbum.md` |
+| 013 | 17 | 377 | 370 | `பகையும் - பண்பும்!` close; resumes `விரோதி என்று தெரிந்தும்`; final `மென்காற்றில்!` | verified | `pages/0377-pagaiyum-panbum.md` |
+| 013 | 18 | 378 | 371 | chapter61 opening `போருக்கான புகைச்சல்!`; displayed number 61; ends `வீதிகளில் வியாபாரம் நடத்திக் கொண்டே` | verified | `pages/0378-porukkana-pugaichal.md` |
+| 013 | 19 | 379 | 372 | `போருக்கான புகைச்சல்!` continuation; starving-child scene; ends after blow to child | verified | `pages/0379-porukkana-pugaichal.md` |
+| 013 | 20 | 380 | 373 | `போருக்கான புகைச்சல்!` continuation; Puttalam clash; ends physical split `அந்தப்` | verified | `pages/0380-porukkana-pugaichal.md` |
 | 013 | 21 | 381 | 374 | chapter61 `போருக்கான புகைச்சல்!` continuation; resumes `பரிதாபத்திற்குரிய`; ends physical split `ஆலோ` | needs-review | `pages/0381-porukkana-pugaichal.md` |
 | 013 | 22 | 382 | 375 | `போருக்கான புகைச்சல்!` continuation; resumes `சனைக்கு`; English-resident attack sequence | needs-review | `pages/0382-porukkana-pugaichal.md` |
 | 013 | 23 | 383 | 376 | chapter61 `போருக்கான புகைச்சல்!` close; substantial intentional blank lower field | needs-review | `pages/0383-porukkana-pugaichal.md` |
@@ -1388,3 +1388,16 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - unresolved textual questions — **0**
 - visual fidelity — **30/30 needs-review**
 - exact next — **Part013 Pass2A Batch2 scans371–380 / local11–20 / printed364–373**
+
+## Part013 Pass2A Batch2 checkpoint
+
+**PART013 PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED.**
+
+- scans371–380 / local11–20 / printed364–373 — **REVIEWED / PASS**
+- textual status — **20/30 verified / 10/30 needs-review**
+- Batch2 source-supported corrections — **10**
+- cumulative Pass2A corrections — **16**
+- Batch2 correction scans — **372, 373, 375, 376, 378, 379, 380**
+- unresolved textual questions — **0**
+- visual fidelity — **30/30 needs-review**
+- exact next — **Part013 Pass2A Batch3 scans381–390 / local21–30 / printed374–383**
