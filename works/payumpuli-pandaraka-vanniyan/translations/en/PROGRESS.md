@@ -444,3 +444,16 @@ Durable final record:
 - `works/payumpuli-pandaraka-vanniyan/PART_010_FINAL_CLOSURE.md`
 
 Exact next activity: directly audit **300→301**; if usable, begin **Part011 Pass1 scans301–310 / local pages1–10**. Do not reopen frozen Parts001–010 merely to advance Part011.
+## Part012 English planning/setup checkpoint
+
+**PART012 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- prior source-check frontier — **E63**
+- reserved sequence — **E64–E69 / 6**
+- maintained English section frontier — **66**
+- reserved English section range — **67–72 / 6**
+- collisions — **0**
+- translated / source-checked — **0/6 / 0/6**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- exact next gate — **E64 draft + source-check — section67 / scans331–335**
