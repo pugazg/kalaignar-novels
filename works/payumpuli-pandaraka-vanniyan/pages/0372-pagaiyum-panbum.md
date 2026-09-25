@@ -24,7 +24,7 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 ## Pass 1 notes
 
 - chapter60 opening `பகையும் - பண்பும்!`; displayed number **60**; printed page **365**
-- source-visible `ஆங்கிலேயே`, `கண்டுகொள்ளவிரும்பவில்லை`, `தனக்குவேண்டிய`, and `இன்பசுகத்தைஅந்தப்புரத்தில்` retained without normalization
+- source-visible `ஆங்கிலேயே`, `கண்டுகொள்ளவிரும்பவில்லை`, `தனக்குவேண்டிய`, and source-confirmed `இன்ப சுகத்தைஅந்தப்புரத்தில்` retained without normalization
 - page ends at physical continuation `தேவை`; scan373 resumes `களை`
 
 
