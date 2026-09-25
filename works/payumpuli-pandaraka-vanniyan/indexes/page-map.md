@@ -386,16 +386,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 013 | 18 | 378 | 371 | chapter61 opening `போருக்கான புகைச்சல்!`; displayed number 61; ends `வீதிகளில் வியாபாரம் நடத்திக் கொண்டே` | needs-review | `pages/0378-porukkana-pugaichal.md` |
 | 013 | 19 | 379 | 372 | `போருக்கான புகைச்சல்!` continuation; starving-child scene; ends after blow to child | needs-review | `pages/0379-porukkana-pugaichal.md` |
 | 013 | 20 | 380 | 373 | `போருக்கான புகைச்சல்!` continuation; Puttalam clash; ends physical split `அந்தப்` | needs-review | `pages/0380-porukkana-pugaichal.md` |
-| 013 | 21 | 381 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 22 | 382 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 23 | 383 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 24 | 384 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 25 | 385 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 26 | 386 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 27 | 387 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 28 | 388 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 29 | 389 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 30 | 390 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 21 | 381 | 374 | chapter61 `போருக்கான புகைச்சல்!` continuation; resumes `பரிதாபத்திற்குரிய`; ends physical split `ஆலோ` | needs-review | `pages/0381-porukkana-pugaichal.md` |
+| 013 | 22 | 382 | 375 | `போருக்கான புகைச்சல்!` continuation; resumes `சனைக்கு`; English-resident attack sequence | needs-review | `pages/0382-porukkana-pugaichal.md` |
+| 013 | 23 | 383 | 376 | chapter61 `போருக்கான புகைச்சல்!` close; substantial intentional blank lower field | needs-review | `pages/0383-porukkana-pugaichal.md` |
+| 013 | 24 | 384 | 377 | chapter62 opening `ஆண்மகன் அல்லவோ!`; displayed number 62 | needs-review | `pages/0384-aanmagan-allavo.md` |
+| 013 | 25 | 385 | 378 | `ஆண்மகன் அல்லவோ!` continuation; ends `ஆங்கிலேயர் ஆதிக்கம்` | needs-review | `pages/0385-aanmagan-allavo.md` |
+| 013 | 26 | 386 | 379 | `ஆண்மகன் அல்லவோ!` continuation; vow / Martthani exchange | needs-review | `pages/0386-aanmagan-allavo.md` |
+| 013 | 27 | 387 | 380 | `ஆண்மகன் அல்லவோ!` continuation; letter-authenticity exchange | needs-review | `pages/0387-aanmagan-allavo.md` |
+| 013 | 28 | 388 | 381 | `ஆண்மகன் அல்லவோ!` continuation; ends physical split `அடைத்துப்` | needs-review | `pages/0388-aanmagan-allavo.md` |
+| 013 | 29 | 389 | 382 | `ஆண்மகன் அல்லவோ!` continuation; resumes `போட்டு`; physician arrives | needs-review | `pages/0389-aanmagan-allavo.md` |
+| 013 | 30 | 390 | 383 | `ஆண்மகன் அல்லவோ!` continuation; substantial blank lower field; 390→391 pending audit | needs-review | `pages/0390-aanmagan-allavo.md` |
 | 014 | 1 | 391 | — | unclassified — direct visual audit pending | not-started | — |
 | 014 | 2 | 392 | — | unclassified — direct visual audit pending | not-started | — |
 | 014 | 3 | 393 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1361,3 +1361,18 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
 - exact next — **Part013 Pass1 scans381–390 / local21–30 / printed374–383**
+
+## Part013 Pass1 completion checkpoint
+
+**PART013 PASS 1 — COMPLETE / 30/30 TEXT-COMPLETE.**
+
+- canonical records — **30/30 — scans361–390**
+- printed coverage — **354–383**
+- Batch3 scans381–390 — **10/10 TEXT-COMPLETE**
+- chapter61 `போருக்கான புகைச்சல்!` — closes383
+- chapter62 `ஆண்மகன் அல்லவோ!` — opens384 / continues390
+- unresolved Pass1 source-reading holds — **0**
+- textual / visual status — **30/30 needs-review / 30/30 needs-review**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- exact next — **Part013 Pass2A Batch1 scans361–370 / local1–10 / printed354–363**
