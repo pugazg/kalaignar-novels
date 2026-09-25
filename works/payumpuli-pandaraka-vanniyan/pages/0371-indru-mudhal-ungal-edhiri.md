@@ -6,11 +6,11 @@ printed_page: 364
 work: "payumpuli-pandaraka-vanniyan"
 section: "இன்று முதல் உங்கள் எதிரி!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_013_pages_361-390.pdf"
-transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans371–380"
+transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans371–380; formal Part013 Pass 2A reviewed"
 ---
 
 # இன்று முதல் உங்கள் எதிரி!
@@ -28,4 +28,16 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 - substantial intentional blank lower field follows the chapter close
 - scan372 opens displayed chapter60 `பகையும் - பண்பும்!`
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 371; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 11; அச்சுப் பக்கம்: 364; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part013 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part013 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-text corrections in Pass 2A: **0**;
+- source-text corrections in Pass 2A: **0**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 371; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 11; அச்சுப் பக்கம்: 364; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
