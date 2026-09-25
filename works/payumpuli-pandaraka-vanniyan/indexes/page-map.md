@@ -376,16 +376,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 013 | 8 | 368 | 361 | `இன்று முதல் உங்கள் எதிரி!` continuation; resumes `கண்டிக்கு`; ends open dialogue at `நீங்கள்` | needs-review | `pages/0368-indru-mudhal-ungal-edhiri.md` |
 | 013 | 9 | 369 | 362 | `இன்று முதல் உங்கள் எதிரி!` continuation; resumes `இவளுக்கு`; ends physical continuation `கொழும்பு` | needs-review | `pages/0369-indru-mudhal-ungal-edhiri.md` |
 | 013 | 10 | 370 | 363 | `இன்று முதல் உங்கள் எதிரி!` continuation; resumes `வந்து சேர்ந்தார்.`; chapter continues on371 | needs-review | `pages/0370-indru-mudhal-ungal-edhiri.md` |
-| 013 | 11 | 371 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 12 | 372 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 13 | 373 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 14 | 374 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 15 | 375 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 16 | 376 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 17 | 377 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 18 | 378 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 19 | 379 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 20 | 380 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 11 | 371 | 364 | chapter59 `இன்று முதல் உங்கள் எதிரி!` close; substantial intentional blank lower field | needs-review | `pages/0371-indru-mudhal-ungal-edhiri.md` |
+| 013 | 12 | 372 | 365 | chapter60 opening `பகையும் - பண்பும்!`; displayed number 60; ends physical continuation `தேவை` | needs-review | `pages/0372-pagaiyum-panbum.md` |
+| 013 | 13 | 373 | 366 | `பகையும் - பண்பும்!` continuation; resumes `களை`; war-preparation discussion | needs-review | `pages/0373-pagaiyum-panbum.md` |
+| 013 | 14 | 374 | 367 | `பகையும் - பண்பும்!` continuation; Martthani returns; ends `பியசீலி என்ன ஆனாள்? சொல்லுங்கள்!` | needs-review | `pages/0374-pagaiyum-panbum.md` |
+| 013 | 15 | 375 | 368 | `பகையும் - பண்பும்!` continuation; missing-foot reveal; ends `விபரமாகச் சொல்லு!` | needs-review | `pages/0375-pagaiyum-panbum.md` |
+| 013 | 16 | 376 | 369 | `பகையும் - பண்பும்!` continuation; treatment account; ends open sentence `நான் அவர்களின்` | needs-review | `pages/0376-pagaiyum-panbum.md` |
+| 013 | 17 | 377 | 370 | `பகையும் - பண்பும்!` close; resumes `விரோதி என்று தெரிந்தும்`; final `மென்காற்றில்!` | needs-review | `pages/0377-pagaiyum-panbum.md` |
+| 013 | 18 | 378 | 371 | chapter61 opening `போருக்கான புகைச்சல்!`; displayed number 61; ends `வீதிகளில் வியாபாரம் நடத்திக் கொண்டே` | needs-review | `pages/0378-porukkana-pugaichal.md` |
+| 013 | 19 | 379 | 372 | `போருக்கான புகைச்சல்!` continuation; starving-child scene; ends after blow to child | needs-review | `pages/0379-porukkana-pugaichal.md` |
+| 013 | 20 | 380 | 373 | `போருக்கான புகைச்சல்!` continuation; Puttalam clash; ends physical split `அந்தப்` | needs-review | `pages/0380-porukkana-pugaichal.md` |
 | 013 | 21 | 381 | — | unclassified — direct visual audit pending | not-started | — |
 | 013 | 22 | 382 | — | unclassified — direct visual audit pending | not-started | — |
 | 013 | 23 | 383 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1344,3 +1344,20 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
 - exact next — **Part013 Pass1 scans371–380 / local11–20 / printed364–373**
+
+## Part013 Pass1 Batch2 checkpoint
+
+**PART013 PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE.**
+
+- cumulative scans361–380 / local1–20 / printed354–373 — **TEXT-COMPLETE**
+- canonical records — **20/30**
+- Batch2 scans371–380 — **10/10 TEXT-COMPLETE**
+- chapter59 `இன்று முதல் உங்கள் எதிரி!` — closes371
+- chapter60 `பகையும் - பண்பும்!` — opens372 / closes377
+- chapter61 `போருக்கான புகைச்சல்!` — opens378 / continues380
+- scan380 ends physical split `அந்தப்`; scan381 not imported
+- unresolved Pass1 source-reading holds — **0**
+- textual / visual status — **20/30 needs-review / 20/30 needs-review**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- exact next — **Part013 Pass1 scans381–390 / local21–30 / printed374–383**
