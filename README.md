@@ -1765,3 +1765,17 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - durable validation — `PART_012_ASSEMBLED_TAMIL_VALIDATION.md`
 - exact next gate — **Part012 English translation planning/setup**
 - perform live English batch/source-check and section collision checks before reservation; do not draft English prose during setup
+
+## பாயும்புலி பண்டாரக வன்னியன் — Part012 final closure
+
+**PART012 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- Part012 scans — **331–360 / 30**
+- canonical Tamil — **30/30 verified / frozen**
+- assembled Tamil — **6/6 VERIFIED / frozen**
+- E64–E69 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary / editorial / bilingual / release / release-ready sync — **PASS**
+- unresolved Part012 blockers — **0**
+- Part013 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- next — direct **360→361** boundary audit, then Part013 Pass1 scans361–370 if usable
