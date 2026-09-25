@@ -1,6 +1,6 @@
 # Part 012 — English Translation Progress — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **WHOLE-PART GLOSSARY RECONCILED / PASS**
+Status: **RELEASE-READY SYNCHRONIZATION PASS / CLOSED**
 
 | Batch | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
@@ -114,3 +114,23 @@ Do not begin whole-Part English editorial review until glossary reconciliation c
 - Part013 leakage — **0**
 - durable record — `translations/en/PART_012_GLOSSARY_RECONCILIATION.md`
 - exact next gate — **Part012 whole-Part English editorial review**
+
+## Part012 release-ready synchronization checkpoint
+
+**PART012 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical Tamil — **30/30 verified**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- E64–E69 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved Part012 Tamil / English / release blockers — **0**
+- maintained body changes in synchronization — **0**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Part013 leakage — **0**
+- durable record — `PART_012_RELEASE_READY_SYNC.md`
+- exact next gate — **Part012 final closure**
