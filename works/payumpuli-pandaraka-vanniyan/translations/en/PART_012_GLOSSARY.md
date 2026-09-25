@@ -1,6 +1,6 @@
 # Part 012 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **SETUP / PASS**
+Status: **WHOLE-PART RECONCILED / PASS**
 
 This glossary is derived from verified Part012 Tamil and frozen maintained project-English precedent. It is a translation control, not an authority over Tamil.
 
@@ -87,3 +87,24 @@ Structural decisions:
 Batch-level unresolved terminology holds — **0**.
 
 Exact next gate: **Part012 whole-Part glossary reconciliation across E64–E69**.
+
+## Whole-Part reconciliation result
+
+**PART012 WHOLE-PART GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- maintained English files checked — **6/6**
+- source-check controls checked — **E64–E69 / 6/6**
+- physical source coverage — **331–360 / 30**
+- source-boundary marker parity — **24/24 / PASS**
+- English-body corrections — **0**
+- protected source-variant collapses — **0**
+- unsupported external glosses — **0**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–011 English body edits — **0**
+- Part013 leakage — **0**
+
+Durable reconciliation:
+- `PART_012_GLOSSARY_RECONCILIATION.md`
+
+Exact next gate: **Part012 whole-Part English editorial review**.
