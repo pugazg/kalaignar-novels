@@ -46,7 +46,7 @@ Part 012 source split: **SUPPLIED / REGISTERED**.
 
 Part011 is now **FINAL CLOSED / FROZEN**.
 
-Part012 is **ACTIVE / TAMIL ARCHIVAL-READY PASS / CLOSED; assembled Tamil construction + audit NEXT**.
+Part012 is **ACTIVE / ASSEMBLED TAMIL 6/6 VERIFIED / CLOSED; English translation planning/setup NEXT**.
 
 Incoming boundary **330→331 — GENUINE CONTINUATION / AUDITED / PASS**.
 
@@ -298,3 +298,19 @@ Exact next activity: **Part012 Pass2B Batch3 — scans351–360**. Process exact
 - Parts001–011 — **FINAL CLOSED / FROZEN**
 - archival-ready mutations — **0**
 - exact next activity — **Part012 assembled Tamil construction + audit — sections67–72**
+
+## Part012 assembled Tamil closure checkpoint
+
+**PART012 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED.**
+
+- canonical Part012 Tamil / visual fidelity — **30/30 verified / 30/30 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- assembled section range — **67–72**
+- canonical coverage — **30/30 scans331–360**
+- omissions / duplicates / unsupported insertion / workflow-note leakage — **0 / 0 / 0 / 0**
+- frozen Parts001–011 assembled mutations — **0**
+- Part013 body leakage — **0**
+- outgoing **360→361 — PENDING direct audit**
+- durable validation — `PART_012_ASSEMBLED_TAMIL_VALIDATION.md`
+- exact next gate — **Part012 English translation planning/setup**
