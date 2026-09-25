@@ -366,16 +366,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 012 | 28 | 358 | 351 | `தப்பித்து வந்த விதம்!` continuation; Pass2B `வைத்துக் கொள்ளுங்கள்` / `போட்டுப்புரட்டியதிலும்` corrections; ends `மற்ற` | verified | `pages/0358-thappiththu-vandha-vidham.md` |
 | 012 | 29 | 359 | 352 | `தப்பித்து வந்த விதம்!` continuation; Pass2B `சமாளித்துக் கொண்டு` spacing correction; ends physical split `சொல்லு` | verified | `pages/0359-thappiththu-vandha-vidham.md` |
 | 012 | 30 | 360 | 353 | `தப்பித்து வந்த விதம்!` continuation; Pass2B confirms `கிறான். அவர்களும்` and `காவலர்களுடனும்`; substantial intentional blank lower field | verified | `pages/0360-thappiththu-vandha-vidham.md` |
-| 013 | 1 | 361 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 2 | 362 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 3 | 363 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 4 | 364 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 5 | 365 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 6 | 366 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 7 | 367 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 8 | 368 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 9 | 369 | — | unclassified — direct visual audit pending | not-started | — |
-| 013 | 10 | 370 | — | unclassified — direct visual audit pending | not-started | — |
+| 013 | 1 | 361 | 354 | chapter58 opening `அதிலே இது ஒன்று!`; incoming 360→361 clean chapter boundary audited; ends physical split `உன் ரத்` | needs-review | `pages/0361-athile-idhu-ondru.md` |
+| 013 | 2 | 362 | 355 | `அதிலே இது ஒன்று!` continuation; resumes `தத்தை`; ends mid-comparison `ஆனால்` | needs-review | `pages/0362-athile-idhu-ondru.md` |
+| 013 | 3 | 363 | 356 | `அதிலே இது ஒன்று!` continuation; resumes `செந்நிறமாக`; ends physical continuation `தேடக்` | needs-review | `pages/0363-athile-idhu-ondru.md` |
+| 013 | 4 | 364 | 357 | `அதிலே இது ஒன்று!` continuation; resumes `கிடைக்காத அமுதமே`; ends complete sentence | needs-review | `pages/0364-athile-idhu-ondru.md` |
+| 013 | 5 | 365 | 358 | `அதிலே இது ஒன்று!` close; substantial intentional blank lower field | needs-review | `pages/0365-athile-idhu-ondru.md` |
+| 013 | 6 | 366 | 359 | chapter59 opening `இன்று முதல் உங்கள் எதிரி!`; displayed number 59 | needs-review | `pages/0366-indru-mudhal-ungal-edhiri.md` |
+| 013 | 7 | 367 | 360 | `இன்று முதல் உங்கள் எதிரி!` continuation; ends open dialogue at `பியசீலியைக்` | needs-review | `pages/0367-indru-mudhal-ungal-edhiri.md` |
+| 013 | 8 | 368 | 361 | `இன்று முதல் உங்கள் எதிரி!` continuation; resumes `கண்டிக்கு`; ends open dialogue at `நீங்கள்` | needs-review | `pages/0368-indru-mudhal-ungal-edhiri.md` |
+| 013 | 9 | 369 | 362 | `இன்று முதல் உங்கள் எதிரி!` continuation; resumes `இவளுக்கு`; ends physical continuation `கொழும்பு` | needs-review | `pages/0369-indru-mudhal-ungal-edhiri.md` |
+| 013 | 10 | 370 | 363 | `இன்று முதல் உங்கள் எதிரி!` continuation; resumes `வந்து சேர்ந்தார்.`; chapter continues on371 | needs-review | `pages/0370-indru-mudhal-ungal-edhiri.md` |
 | 013 | 11 | 371 | — | unclassified — direct visual audit pending | not-started | — |
 | 013 | 12 | 372 | — | unclassified — direct visual audit pending | not-started | — |
 | 013 | 13 | 373 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1330,3 +1330,17 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - outgoing **360→361 — PENDING direct audit**
 - durable validation — `PART_012_ASSEMBLED_TAMIL_VALIDATION.md`
 - exact next gate — **Part012 English translation planning/setup**
+
+## Part013 Pass1 Batch1 checkpoint
+
+**PART013 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- scans361–370 / local1–10 / printed354–363 — **TEXT-COMPLETE**
+- canonical records — **10/30**
+- chapter58 `அதிலே இது ஒன்று!` — opens361 / closes365
+- chapter59 `இன்று முதல் உங்கள் எதிரி!` — opens366 / continues370
+- unresolved Pass1 source-reading holds — **0**
+- textual / visual status — **10/30 needs-review / 10/30 needs-review**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- exact next — **Part013 Pass1 scans371–380 / local11–20 / printed364–373**
