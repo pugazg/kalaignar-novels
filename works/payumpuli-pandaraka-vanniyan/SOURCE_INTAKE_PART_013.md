@@ -70,3 +70,20 @@ The global active frontier has now reached Part013. Part013 is **NEXT ACTIVE / A
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - durable boundary audit — `PART_013_BOUNDARY_AUDIT_360_361.md`
 - exact next gate — **Pass1 batch1 scans361–370 / local1–10 / printed354–363**
+
+## Part013 Pass1 Batch1 checkpoint
+
+**PART013 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- source SHA-256 — `dfafe80468e1d2ae53bd5712306f6efd43c1b46c67645ed2b4f55f59b25f3603`
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- canonical Part013 records — **10/30 — scans361–370**
+- printed pages completed — **354–363**
+- chapter58 `அதிலே இது ஒன்று!` — opens361 / closes365
+- chapter59 `இன்று முதல் உங்கள் எதிரி!` — opens366 / continues370
+- unresolved Pass1 source-reading holds — **0**
+- textual / visual status — **needs-review**
+- outgoing **390→391 — PENDING direct audit**
+- exact next — **Part013 Pass1 Batch2 scans371–380 / local11–20 / printed364–373**
+- do not begin Pass2A until Pass1 reaches **30/30**
