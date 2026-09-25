@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+**PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
 
 Prerequisites:
 - Part013 Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -24,12 +24,14 @@ For each reviewed physical scan, canonical Tamil is re-compared directly against
 
 ## Current accounting
 
-- reviewed — **10/30 — scans361–370**
-- remaining — **20/30 — scans371–390**
+- reviewed — **20/30 — scans361–380**
+- remaining — **10/30 — scans381–390**
 - Batch1 corrections — **6**
-- correction scans — **363, 367, 370**
+- Batch2 corrections — **10**
+- cumulative Pass2A corrections — **16**
+- correction scans — **363, 367, 370, 372, 373, 375, 376, 378, 379, 380**
 - unresolved textual questions — **0**
-- textual status — **10/30 verified / 20/30 needs-review**
+- textual status — **20/30 verified / 10/30 needs-review**
 - visual fidelity — **30/30 needs-review**
 - frozen Parts001–012 canonical / assembled / maintained-English body mutations — **0**
 - Part014 wording leakage — **0**
@@ -62,6 +64,39 @@ Scans361–362, 364–366 and 368–369 required no canonical-body correction.
 - scan369→370 preserves physical continuation **`கொழும்பு` + `வந்து சேர்ந்தார்.`**;
 - scan370 remains within chapter59; no scan371 body was imported in this Pass2A batch.
 
+## Batch2 decision — scans371–380
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+Corrections:
+- scan372 / printed365 — `இன்பசுகத்தைஅந்தப்புரத்தில்` → **`இன்ப சுகத்தைஅந்தப்புரத்தில்`** — source spacing / word-boundary correction;
+- scan373 / printed366 — `ஒருபெரும் போருக்கான` → **`ஒரு பெரும்போருக்கான`** — source spacing / word-boundary correction;
+- scan375 / printed368 — `காணப்படவில்லை.` → **`காணப்பட வில்லை.`** — source spacing / word-boundary correction;
+- scan376 / printed369 — `முத்தங்களைக் கொடுத்தாள்.` → **`முத்தங்களை கொடுத்தாள்.`** — morphology / source-reading correction;
+- scan376 / printed369 — `ஒரு சகோதரியைப் போல` → **`ஒரு சகோதரியைப்போல்`** — source spacing / word-boundary correction;
+- scan378 / printed371 — `நார்த் பிரபுவைப்` → **`நார்த்பிரபுவைப்`** — source spacing / word-boundary correction;
+- scan379 / printed372 — `வாங்கி வாங்கிக் கூடைகளில் போட்டுக்` → **`வாங்கிவாங்கிக் கூடைகளில்போட்டுக்`** — source word-boundary correction;
+- scan380 / printed373 — `அடப்பாவிகளே! என்` → **`அடப்பாவிகளே!என்`** — source punctuation-spacing correction;
+- scan380 / printed373 — `புத்தளம் நகரிலிருந்தே ஓடத்` → **`புத்தளம்நகரிலிருந்தேஓடத்`** — source word-boundary correction;
+- scan380 / printed373 — `எப்படி என்று` → **`எப்படி யென்று`** — lexical / source-reading correction.
+
+Scans371, 374 and 377 required no canonical-body correction.
+
+Re-confirmed source locks:
+- scan371 closes chapter59 and retains its substantial intentional blank lower field;
+- scan372 opens displayed chapter60 `பகையும் - பண்பும்!`, displayed **60**;
+- scan372→373 preserves physical split **`தேவை` + `களை`**;
+- scan376→377 preserves open sentence **`நான் அவர்களின்` + `விரோதி என்று தெரிந்தும்`**;
+- scan377 closes chapter60;
+- scan378 opens displayed chapter61 `போருக்கான புகைச்சல்!`, displayed **61**;
+- scan378→379 preserves **`வீதிகளில் வியாபாரம் நடத்திக் கொண்டே` + `செல்லும்`**;
+- scan380 remains open at physical fragment **`அந்தப்`**; scan381 wording was not imported in this batch.
+
+For scans371–380:
+- textual `status` — **verified**
+- `visual_fidelity` — **needs-review**
+- unresolved textual questions — **0**
+
 ## Status decision
 
 For scans361–370:
@@ -69,10 +104,10 @@ For scans361–370:
 - `visual_fidelity` — **needs-review**
 - unresolved textual questions — **0**
 
-Scans371–390 remain at the Pass1 textual state pending their own Pass2A batches.
+Scans381–390 remain at the Pass1 textual state pending Pass2A Batch3.
 
 ## Exact next activity
 
-Proceed with **Part013 Pass2A Batch2 — scans371–380 / local pages11–20 / printed364–373**.
+Proceed with **Part013 Pass2A Batch3 — scans381–390 / local pages21–30 / printed374–383**.
 
 Process exactly **10 source pages**. Apply only source-supported corrections. Keep `visual_fidelity: "needs-review"`. Do not begin Pass2B in the same activity.
