@@ -6,11 +6,11 @@ printed_page: 373
 work: "payumpuli-pandaraka-vanniyan"
 section: "போருக்கான புகைச்சல்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_013_pages_361-390.pdf"
-transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans371–380"
+transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans371–380; formal Part013 Pass 2A reviewed"
 ---
 
 # போருக்கான புகைச்சல்!
@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 
 குழந்தை என்றும் பாராமல் என்ன கொடுமை பார்த்தீர்களா? என்று அந்தச் சிறுவனைத் தூக்கிப் புத்தளத்து மக்களிடம் கண்டி வீரர்கள் காட்டுகின்றனர். அந்தக் கூட்டத்தைப் பிளந்து கொண்டு, ஒரு விதவைத் தாய் ஓடி வருகிறாள்! ஓடி வர அவள் கால்களில் பலமில்லைத்தான்! இருந்தாலும் புத்திர வாஞ்சை அவளை மூச்சைப் பிடித்துக் கொண்டு அந்த இடத்திற்குத் துரத்துகிறது. “அய்யோ! அவன் என் பையன்!” என்று அலறியவாறு அந்தச் சிறுவனைக் கைகளில் ஏந்துகிறாள். இப்போது அந்த ஏழைச் சிறுவனுக்கு வலியில்லை! பசியில்லை! அவன், வலியும், பசியும், துன்பமும், துயரமும் இல்லாத இடத்திற்குப் போய் விடுகிறான்!
 
-“அடப்பாவிகளே! என் பிள்ளையை அநியாயமாகக் கொன்று விட்டீர்களே!” என்று அந்தத் தாய் கேட்பதற்குள்ளாக கண்டி வீரர்கள் ஆங்கிலேயர்களின் வண்டிகளைச் சூழ்ந்து கொண்டு பொருள்களைச் சூறையாடுகிறார்கள். திமிர்த் தாக்குதலால் மிரண்டு போன வெள்ளையர்கள் வண்டிகளை விட்டுவிட்டு புத்தளம் நகரிலிருந்தே ஓடத் தொடங்குகின்றனர். ஆங்கிலேயரை வலுச் சண்டைக்கு இழுப்பது எப்படி என்று புத்தளம் நகரில் நுழைந்த கண்டி வீரர்களுக்கு ஒரு நல்ல சாக்கு கிடைத்தது! பாவம், அந்தச் சிறுவன்! அவனையும் அவனை இழந்த அந்தப்
+“அடப்பாவிகளே!என் பிள்ளையை அநியாயமாகக் கொன்று விட்டீர்களே!” என்று அந்தத் தாய் கேட்பதற்குள்ளாக கண்டி வீரர்கள் ஆங்கிலேயர்களின் வண்டிகளைச் சூழ்ந்து கொண்டு பொருள்களைச் சூறையாடுகிறார்கள். திமிர்த் தாக்குதலால் மிரண்டு போன வெள்ளையர்கள் வண்டிகளை விட்டுவிட்டு புத்தளம்நகரிலிருந்தேஓடத் தொடங்குகின்றனர். ஆங்கிலேயரை வலுச் சண்டைக்கு இழுப்பது எப்படி யென்று புத்தளம் நகரில் நுழைந்த கண்டி வீரர்களுக்கு ஒரு நல்ல சாக்கு கிடைத்தது! பாவம், அந்தச் சிறுவன்! அவனையும் அவனை இழந்த அந்தப்
 
 ## Pass 1 notes
 
@@ -32,4 +32,18 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 - page ends at physical split `அந்தப்`; scan381 is not imported in this batch
 - Pass1 Batch2 stops here; scans381–390 remain untouched
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 380; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 373; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part013 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part013 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `“அடப்பாவிகளே! என் பிள்ளையை` → **`“அடப்பாவிகளே!என் பிள்ளையை`** — source punctuation-spacing correction;
+- source-confirmed correction: `புத்தளம் நகரிலிருந்தே ஓடத் தொடங்குகின்றனர்.` → **`புத்தளம்நகரிலிருந்தேஓடத் தொடங்குகின்றனர்.`** — source word-boundary / spacing correction;
+- source-confirmed correction: `இழுப்பது எப்படி என்று புத்தளம் நகரில்` → **`இழுப்பது எப்படி யென்று புத்தளம் நகரில்`** — lexical / source-reading correction;
+- source-text corrections in Pass 2A: **3**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 380; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 373; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
