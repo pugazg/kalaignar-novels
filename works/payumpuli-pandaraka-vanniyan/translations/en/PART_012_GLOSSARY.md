@@ -59,3 +59,31 @@ Working titles may be refined only during explicit source-check/editorial review
 - unresolved planning holds — **0**
 
 Exact next gate: **E64 draft + source-check**.
+
+## E64–E69 source-check additions
+
+Batch-level source-check established these maintained forms:
+
+- `மயங்குகிறாள் ஒரு மாது!` — **A Woman Swoons!**
+- `மற்றொரு மதுரை?` — **Another Madurai?**
+- `அவள் கண்ட சொர்க்கம்!` — **The Heaven She Found!**
+- `வீரர்கள் சாவதில்லை!` — **Warriors Do Not Die!**
+- `கொழும்பில் கொண்டாட்டம்!` — **Celebration in Kolumbu!**
+- `தப்பித்து வந்த விதம்!` — **How She Escaped!**
+- `திரிகோண மலை` — **Thirigona Malai**, occurrence-sensitive Part012 source form; no outside normalization
+- `பாஞ்சாலங்குறிச்சி` — **Panchalankurichi**
+- `பாஞ்சாலக்குறிச்சி` — **Panchalakkurichi**, preserved as a distinct Part012 source variant
+- `கொழும்பு` — **Kolumbu**
+- `பியசீலி` — **Piyaseeli**
+- `காக்கா வலிப்பு` — ***kakka-valippu***, retained source-facing rather than replaced with an outside diagnostic label
+
+Structural decisions:
+- E64 preserves incoming **330→331 GENUINE CONTINUATION / AUDITED / PASS** without modifying frozen E63;
+- E68 stops at scan355's directly visible terminal wording; footer-obscured reconstruction — **0**;
+- E69 preserves outgoing **360→361 PENDING direct audit**;
+- Part013 semantic completion — **0**;
+- source political, moralizing, sexual and violent language remains narrator/character-attributed rather than converted into translator commentary.
+
+Batch-level unresolved terminology holds — **0**.
+
+Exact next gate: **Part012 whole-Part glossary reconciliation across E64–E69**.
