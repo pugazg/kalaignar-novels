@@ -57,3 +57,29 @@ No English literary prose is drafted in this setup gate.
 
 Exact next gate: **E64 draft + source-check — section67 / scans331–335**.  
 Do not begin E65 until E64 is **SOURCE-CHECKED / COMPLETE**.
+
+## E64–E69 batch-level translation closure
+
+**PART012 ENGLISH BATCHES — 6/6 SOURCE-CHECKED / COMPLETE.**
+
+| Batch | English file | Scans | Result |
+|---|---|---:|---|
+| E64 | `sections/67-a-woman-swoons-part012.md` | 331–335 | **SOURCE-CHECKED / COMPLETE** |
+| E65 | `sections/68-another-madurai.md` | 336–341 | **SOURCE-CHECKED / COMPLETE** |
+| E66 | `sections/69-the-heaven-she-found.md` | 342–346 | **SOURCE-CHECKED / COMPLETE** |
+| E67 | `sections/70-warriors-do-not-die.md` | 347–351 | **SOURCE-CHECKED / COMPLETE** |
+| E68 | `sections/71-celebration-in-kolumbu.md` | 352–355 | **SOURCE-CHECKED / COMPLETE** |
+| E69 | `sections/72-how-she-escaped.md` | 356–360 | **SOURCE-CHECKED / COMPLETE** |
+
+Batch closure:
+- scans translated/source-checked — **331–360 / 30**
+- maintained English files — **6/6**
+- source-check controls — **6/6**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–011 English body edits — **0**
+- outgoing **360→361 — PENDING direct audit**
+- Part013 leakage — **0**
+- unresolved batch-level holds — **0**
+
+Exact next gate: **Part012 whole-Part glossary reconciliation across E64–E69**.
