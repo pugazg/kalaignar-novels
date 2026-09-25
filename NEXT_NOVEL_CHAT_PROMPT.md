@@ -420,3 +420,19 @@ Do not begin Pass2A. Do not reopen frozen Parts001–011.
 - outgoing **390→391 — PENDING direct audit**
 - exact next — **Part013 Pass1 Batch3 scans381–390 / local21–30 / printed374–383**
 - do not begin Pass2A until Pass1 reaches **30/30**
+
+## Part013 Pass1 completion checkpoint
+
+**PART013 PASS 1 — COMPLETE / 30/30 TEXT-COMPLETE.**
+
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- Part013 canonical records — **30/30 — scans361–390 / printed354–383**
+- Batch3 scans381–390 / local21–30 / printed374–383 — **10/10 TEXT-COMPLETE**
+- chapter61 `போருக்கான புகைச்சல்!` — closes383
+- chapter62 `ஆண்மகன் அல்லவோ!` — opens384 / continues390
+- unresolved Pass1 source-reading holds — **0**
+- textual / visual status — **30/30 needs-review / 30/30 needs-review**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**; no Part014 wording imported
+- exact next — **Part013 Pass2A Batch1 scans361–370 / local1–10 / printed354–363**
+- apply only source-supported corrections; do not begin Pass2B in the same activity
