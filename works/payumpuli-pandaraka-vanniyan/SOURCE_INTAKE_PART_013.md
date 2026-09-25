@@ -140,3 +140,21 @@ The global active frontier has now reached Part013. Part013 is **NEXT ACTIVE / A
 - outgoing **390→391 — PENDING direct audit**
 - Pass2B / Pass3 — **NOT STARTED**
 - exact next — **Part013 Pass2A Batch2 scans371–380 / local11–20 / printed364–373**
+
+## Part013 Pass2A Batch2 checkpoint
+
+**PART013 PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED.**
+
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- reviewed — **scans361–380 / local1–20 / printed354–373**
+- Batch2 — **scans371–380 / REVIEWED / PASS**
+- textual status — **20/30 verified / 10/30 needs-review**
+- Batch2 corrections — **10**
+- cumulative Pass2A corrections — **16**
+- Batch2 correction scans — **372, 373, 375, 376, 378, 379, 380**
+- unresolved textual questions — **0**
+- visual fidelity — **30/30 needs-review**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- Pass2B / Pass3 — **NOT STARTED**
+- exact next — **Part013 Pass2A Batch3 scans381–390 / local21–30 / printed374–383**
