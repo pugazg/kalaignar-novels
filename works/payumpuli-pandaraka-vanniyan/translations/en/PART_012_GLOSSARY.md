@@ -1,0 +1,61 @@
+# Part 012 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
+
+Status: **SETUP / PASS**
+
+This glossary is derived from verified Part012 Tamil and frozen maintained project-English precedent. It is a translation control, not an authority over Tamil.
+
+## Names and recurring forms
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `காக்கை வன்னியன்` | **Kakkai Vanniyan** | inherited maintained form |
+| `பண்டாரக வன்னியன்` | **Pandaraka Vanniyan** | inherited maintained form |
+| `பண்டாரகன்` | **Pandarakan** | inherited contextual form |
+| `குருவிச்சி நாச்சி` / `குருவிச்சி நாச்சியார்` | **Kuruvichchi Naachchi / Kuruvichchi Naachchiyar** | preserve source honorific form by occurrence |
+| `நல்ல நாச்சி` / `நல்லநாச்சி` / `நல்லநாச்சியார்` | **Nalla Naachchi / Nallanaachchi / Nalla Naachchiyar** | occurrence-sensitive |
+| `தணிகைமலை` | **Thanigaimala** | inherited maintained form |
+| `பியசீலி` | **Piyaseeli** | inherited Part011 source-variant handling |
+
+## Places / source forms
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `முல்லைத்தீவு` / `முல்லைத் தீவு` | **Mullaitheevu** | inherited |
+| `வற்றாப்பளை` | **Vattrappalai** | inherited |
+| `கொழும்பு` | **Kolumbu** | inherited project source-facing form |
+| `பாஞ்சாலக்குறிச்சி` | **source-check controlled** | Part012 source form; do not silently normalize to earlier `பாஞ்சாலங்குறிச்சி` / **Panchalankurichi** |
+
+## Chapter-title working forms
+
+| Tamil title | Planning English |
+|---|---|
+| `மயங்குகிறாள் ஒரு மாது!` | **A Woman Swoons!** — inherited E63 |
+| `மற்றொரு மதுரை?` | **Another Madurai?** |
+| `அவள் கண்ட சொர்க்கம்!` | **The Heaven She Found!** |
+| `வீரர்கள் சாவதில்லை!` | **Warriors Do Not Die!** |
+| `கொழும்பில் கொண்டாட்டம்!` | **Celebration in Kolumbu!** |
+| `தப்பித்து வந்த விதம்!` | **How She Escaped!** — provisional/context-sensitive |
+
+Working titles may be refined only during explicit source-check/editorial review.
+
+## Structural locks
+
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**;
+- E64 starts from scan331 only and frozen E63 remains untouched;
+- scan355 source-visible terminal wording is not reconstructed beyond the verified Tamil;
+- outgoing **360→361 — PENDING direct audit**;
+- E69 stops at scan360 with no Part013 semantic completion.
+
+## Setup result
+
+**PART012 GLOSSARY SETUP — PASS**
+
+- inherited maintained forms reviewed — **PASS**
+- Part012 source variants registered — **PASS**
+- external-source normalization — **0**
+- canonical Tamil changes — **0**
+- assembled Tamil changes — **0**
+- English literary prose drafted — **0**
+- unresolved planning holds — **0**
+
+Exact next gate: **E64 draft + source-check**.
