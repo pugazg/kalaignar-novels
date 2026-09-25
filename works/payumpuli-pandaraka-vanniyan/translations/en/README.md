@@ -1489,3 +1489,23 @@ Exact next activity: directly audit **300→301**; if usable, begin **Part011 Pa
 - Part013 leakage — **0**
 - unresolved batch-level holds — **0**
 - exact next gate — **Part012 whole-Part glossary reconciliation across E64–E69**
+
+## Part012 whole-Part glossary reconciliation checkpoint
+
+**PART012 WHOLE-PART GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- maintained English files checked — **6/6**
+- source-check controls checked — **E64–E69 / 6/6**
+- physical source coverage — **331–360 / 30**
+- source-boundary marker parity — **24/24 / PASS**
+- glossary-driven English body corrections — **0**
+- protected source-form collapses — **0**
+- unsupported external glosses — **0**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–011 English body edits — **0**
+- scan355 footer-obscured reconstruction — **0**
+- outgoing **360→361 — PENDING direct audit**
+- Part013 leakage — **0**
+- durable record — `translations/en/PART_012_GLOSSARY_RECONCILIATION.md`
+- exact next gate — **Part012 whole-Part English editorial review**
