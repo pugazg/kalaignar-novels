@@ -1408,3 +1408,20 @@ Exact next gate: **Part011 English translation planning/setup**. Perform a live 
 - Parts001–011 — **FINAL CLOSED / FROZEN**
 - archival-ready mutations — **0**
 - exact next activity — **Part012 assembled Tamil construction + audit — sections67–72**
+
+## Part012 final closure / Part013 frontier
+
+**PART012 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- Part012 canonical Tamil — **30/30 verified / frozen**
+- assembled Tamil — **6/6 VERIFIED / frozen**
+- E64–E69 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary / editorial / bilingual / release / release-ready sync — **PASS / PASS / PASS / PASS / PASS**
+- unresolved Part012 blockers — **0**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Part013 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part013 scans — **361–390**
+- Part013 canonical records — **0**
+- exact next activity — direct **360→361** boundary audit; if usable, begin **Part013 Pass1 scans361–370**
