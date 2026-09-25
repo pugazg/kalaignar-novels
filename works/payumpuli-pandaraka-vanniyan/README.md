@@ -2100,3 +2100,15 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - unresolved planning holds — **0**
 - active controls — `translations/en/PART_012_TRANSLATION_PLAN.md`, `PART_012_GLOSSARY.md`, `PART_012_PROGRESS.md`
 - exact next gate — **E64 draft + source-check — section67 / scans331–335**
+
+## Part012 English 30-page closure checkpoint
+
+**PART012 E64–E69 — 6/6 SOURCE-CHECKED / COMPLETE.**
+
+- physical scans — **331–360 / 30**
+- English files / source-check records — **6/6 / 6/6**
+- canonical and assembled Tamil edits — **0 / 0**
+- frozen Parts001–011 English body edits — **0**
+- outgoing **360→361 — PENDING direct audit**
+- Part013 leakage — **0**
+- exact next activity — **Part012 whole-Part glossary reconciliation across E64–E69**
