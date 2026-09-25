@@ -116,3 +116,30 @@ Part012 is ready for assembled Tamil construction.
 Perform **Part012 assembled Tamil construction + audit** for section range **67–72**.
 
 Do not begin English translation planning until assembled Tamil construction and its validation close.
+
+## Part012 assembled Tamil closure checkpoint
+
+**PART012 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED.**
+
+- Parts001–011 — **FINAL CLOSED / FROZEN**
+- canonical Part012 Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Part012 Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **6/6 VERIFIED / CLOSED**
+- assembled canonical coverage — **30/30**
+- assembled section range — **67–72**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit-note leakage — **0**
+- frozen Parts001–011 assembled-file mutations — **0**
+- Part013 body leakage — **0**
+- scan355 source-visible limit — **preserved / no footer-obscured reconstruction**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- unresolved assembly blockers — **0**
+- durable validation — `PART_012_ASSEMBLED_TAMIL_VALIDATION.md`
+- exact next gate — **Part012 English translation planning/setup**
+- perform live English batch/source-check and section collision checks before reservation; do not draft English prose during setup
