@@ -760,3 +760,21 @@ Exact next activity: audit **330→331**; if usable, begin **Part012 Pass1 scans
 - unresolved Pass1 source-reading holds — **0**
 - outgoing **390→391 — PENDING direct audit**
 - exact next — **Part013 Pass1 Batch2 scans371–380 / local11–20 / printed364–373**
+
+## Part013 Pass1 Batch2 checkpoint
+
+**PART013 PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE.**
+
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- cumulative canonical Part013 records — **20/30 — scans361–380**
+- Batch2 — **scans371–380 / local11–20 / printed364–373 — 10/10 TEXT-COMPLETE**
+- chapter59 `இன்று முதல் உங்கள் எதிரி!` — closes371
+- chapter60 `பகையும் - பண்பும்!` — opens372 / closes377
+- chapter61 `போருக்கான புகைச்சல்!` — opens378 / continues380
+- scan380 ends physical split `அந்தப்`; scan381 body not imported
+- unresolved Pass1 source-reading holds — **0**
+- textual / visual status — **needs-review**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- exact next — **Part013 Pass1 Batch3 scans381–390 / local21–30 / printed374–383**
+- do not begin Pass2A until Pass1 reaches **30/30**
