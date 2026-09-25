@@ -6,11 +6,11 @@ printed_page: 368
 work: "payumpuli-pandaraka-vanniyan"
 section: "பகையும் - பண்பும்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_013_pages_361-390.pdf"
-transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans371–380"
+transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans371–380; formal Part013 Pass 2A reviewed"
 ---
 
 # பகையும் - பண்பும்!
@@ -31,7 +31,7 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 
 “என்ன? நான் கேட்கிறேன்! நீ சிரிக்கிறாய்?” என்று பிலிமதளாவை அதட்டினார்.
 
-தனது கால்களில் ஒன்றை மறைத்திருந்த ஆடையின் தலைப்பை மார்த்தனி நீக்கினாள். கணுக்காலுடன் ஒரு பாதம் காணப்படவில்லை.
+தனது கால்களில் ஒன்றை மறைத்திருந்த ஆடையின் தலைப்பை மார்த்தனி நீக்கினாள். கணுக்காலுடன் ஒரு பாதம் காணப்பட வில்லை.
 
 “மார்த்தனி! என்ன இது?” என்று பிலிமதளாவை அவளை அணைத்துக் கொண்டார்.
 
@@ -46,4 +46,16 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 - the missing-foot reveal and dialogue hierarchy are source-visible and preserved
 - page ends with `விபரமாகச் சொல்லு!`; scan376 supplies Martthani's explanation
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 375; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: 368; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part013 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part013 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `காணப்படவில்லை.` → **`காணப்பட வில்லை.`** — source spacing / word-boundary correction;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 375; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: 368; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
