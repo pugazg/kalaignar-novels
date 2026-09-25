@@ -457,3 +457,21 @@ Exact next activity: directly audit **300→301**; if usable, begin **Part011 Pa
 - incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **360→361 — PENDING direct audit**
 - exact next gate — **E64 draft + source-check — section67 / scans331–335**
+
+## Part012 E64–E69 English batch closure
+
+**E64–E69 — 6/6 SOURCE-CHECKED / COMPLETE.**
+
+- scans — **331–360 / 30**
+- maintained English files — **6/6**
+- source-check records — **6/6**
+- source-boundary parity — **PASS**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–011 English body edits — **0**
+- scan355 footer-obscured reconstruction — **0**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Part013 leakage — **0**
+- unresolved batch-level holds — **0**
+- exact next gate — **Part012 whole-Part glossary reconciliation across E64–E69**
