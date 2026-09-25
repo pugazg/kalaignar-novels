@@ -1,6 +1,6 @@
 # Part 012 — English Translation Progress — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **RELEASE-READY SYNCHRONIZATION PASS / CLOSED**
+Status: **FINAL CLOSED / FROZEN**
 
 | Batch | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
@@ -134,3 +134,21 @@ Do not begin whole-Part English editorial review until glossary reconciliation c
 - Part013 leakage — **0**
 - durable record — `PART_012_RELEASE_READY_SYNC.md`
 - exact next gate — **Part012 final closure**
+
+## Part012 final closure / Part013 frontier
+
+**PART012 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- Part012 canonical Tamil — **30/30 verified / frozen**
+- assembled Tamil — **6/6 VERIFIED / frozen**
+- E64–E69 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary / editorial / bilingual / release / release-ready sync — **PASS / PASS / PASS / PASS / PASS**
+- unresolved Part012 blockers — **0**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- scan355 source-visible limit — **preserved**
+- Part013 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part013 scans — **361–390**
+- Part013 canonical records — **0**
+- exact next activity — direct **360→361** boundary audit; if usable, begin **Part013 Pass1 scans361–370**
