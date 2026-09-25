@@ -343,3 +343,24 @@ Perform direct full-page visual / structural verification of exactly **10 source
 - durable validation — `PART_012_ASSEMBLED_TAMIL_VALIDATION.md`
 - exact next gate — **Part012 English translation planning/setup**
 - perform live English batch/source-check and section collision checks before reservation; do not draft English prose during setup
+
+## Part012 English planning/setup checkpoint
+
+**PART012 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- prior source-check frontier — **E63**
+- existing source-check controls — **E1–E63 contiguous / 63**
+- reserved Part012 sequence — **E64–E69 / 6**
+- maintained English section frontier before setup — **66**
+- reserved English section range — **67–72 / 6**
+- batch / section collisions — **0 / 0**
+- translated / source-checked at setup closure — **0/6 / 0/6**
+- English literary prose drafted in setup — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–011 English body edits — **0**
+- incoming **330→331 — GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **360→361 — PENDING direct audit**
+- Part013 leakage — **0**
+- unresolved planning holds — **0**
+- active controls — `translations/en/PART_012_TRANSLATION_PLAN.md`, `PART_012_GLOSSARY.md`, `PART_012_PROGRESS.md`
+- exact next gate — **E64 draft + source-check — section67 / scans331–335**
