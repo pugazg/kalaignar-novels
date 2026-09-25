@@ -29,7 +29,7 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 
 - chapter60 continuation; printed page **366**
 - resumes scan372 physical split `தேவை` + `களை`
-- source-visible `ஒருபெரும்`, `குறித்துப்பேசிக்`, and `சேர்த்துக்கொள்வது` retained
+- source-visible source-confirmed `ஒரு பெரும்போருக்கான`, plus `குறித்துப்பேசிக்` and `சேர்த்துக்கொள்வது`, retained
 - page ends with the commanders' complete reply; chapter60 continues on scan374
 
 
