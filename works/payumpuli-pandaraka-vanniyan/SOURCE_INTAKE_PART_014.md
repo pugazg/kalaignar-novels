@@ -24,7 +24,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 ## Boundary state
 
 - incoming split boundary: **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**;
-- outgoing split boundary: **420→421 — source available; classification pending direct audit**;
+- outgoing split boundary: **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
 
@@ -65,7 +65,7 @@ Part 014 is **PASS1 IN PROGRESS / BATCH 2 COMPLETE**.
 
 - Parts001–013 — **FINAL CLOSED / FROZEN**
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **420→421 — PENDING direct audit**
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - canonical records — **20/30**
 - Pass1 Batch1 — **scans391–400 / local1–10 — TEXT-COMPLETE**
 - Pass1 Batch2 — **scans401–410 / local11–20 — TEXT-COMPLETE**
@@ -100,6 +100,17 @@ Do not reopen frozen Parts001–013 merely to advance Part014.
 - unresolved Pass1 source-reading holds — **0**
 - outgoing **420→421 — PENDING direct audit**
 - Pass2A — **NOT STARTED**
-- exact next — **direct outgoing boundary audit 420→421 only**
+- exact next — **Part014 Pass2A Batch1 scans391–400 / local1–10 / printed384–393**
 - frozen Parts001–013 — **UNCHANGED**
 
+## Part014 outgoing boundary checkpoint
+
+**420→421 = CLEAN CHAPTER BOUNDARY / AUDITED / PASS.**
+
+- scan420 / printed414 ends chapter67 `இரத்தம் படிந்த வாள்!` with a complete final exchange and intentional blank lower field;
+- scan421 / printed415 opens displayed chapter68 `ஒரு பெண்ணின் பிராயச்சித்தம்!`;
+- no unfinished line, sentence, quotation or paragraph crosses the split;
+- durable audit — `PART_014_BOUNDARY_AUDIT_420_421.md`;
+- audited multipart split boundaries — **14 / 15**;
+- Part015 canonical records created by this audit — **0**;
+- exact next — **Part014 Pass2A Batch1 scans391–400 / local1–10 / printed384–393**.
