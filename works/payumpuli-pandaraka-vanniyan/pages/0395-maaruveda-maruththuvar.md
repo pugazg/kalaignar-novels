@@ -6,18 +6,18 @@ printed_page: 388
 work: "payumpuli-pandaraka-vanniyan"
 section: "மாறுவேட மருத்துவர்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans391–400"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans391–400; formal Part014 Pass 2A reviewed"
 ---
 
 # மாறுவேட மருத்துவர்!
 
 ## Source transcription
 
-வந்தவளாக மாளிகைக்குள்ளே சென்றாள். அவளது ஆணைக்கிணங்க, படைத்தளபதிகள் ஆயத்தமாயினர். முல்லைத் தீவுக் கோட்டைக்கும், எல்லைக்கும் பாதுகாப்புக்குத் தேவையான படைவீரர்களை மட்டும் விட்டுவிட்டு மீதமுள்ள படைகள் அனைத்தும் தன்னுடன் அணிவகுக்க வேண்டுமெனக் கட்டளை பிறப்பித்தாள்.
+வந்தவளாக மாளிகைக்குள்ளே சென்றாள். அவளது ஆணைக் கிணங்க, படைத்தளபதிகள் ஆயத்தமாயினர். முல்லைத் தீவுக் கோட்டைக்கும், எல்லைக்கும் பாதுகாப்புக்குத் தேவையான படைவீரர்களை மட்டும் விட்டுவிட்டு மீதமுள்ள படைகள் அனைத்தும் தன்னுடன் அணிவகுக்க வேண்டுமெனக் கட்டளை பிறப்பித்தாள்.
 
 இதற்கிடையே மேஜர் ஜெனரல் மெக்டோவலின் தலைமையில் புறப்பட்ட படையை அன்னியில் மற்றொரு படை கர்னல் பார்பட் என்பவனின் தலைமையில் கண்டி நோக்கிப் புறப்பட்டது. இரு ஆங்கிலேயப் படை வீரர்களும் கண்டிக்கு மூன்று கல் தொலைவில் உள்ள ‘மகாவில்லா கங்கா’ என்னுமிடத்தை வந்தடைந்தனர். ஆங்கிலேயப் படை அவ்வளவு அருகாமையில் வந்துவிட்ட செய்தி, பிலிமதளாவைக்குத் திடீர் என தெரிவிக்கப்பட்டதால் அவர் அதிர்ந்து போனார். கண்டிக்கு இன்னமும் பண்டாரக வன்னியனின் படைத் துணை வந்து சேரவில்லையே என்ற பதைப்பில் மன்னன் விக்கிரமராஜ சிங்காவின் அந்தப்புரம் நோக்கி ஓடினார். அந்தப்புரக் கதவு மூடியிருந்தது. அவரே அந்தக் கதவை ஓங்கித் தட்டினார்.
 
@@ -40,4 +40,16 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 395; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: 388; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+
+## Formal Part014 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part014 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `ஆணைக்கிணங்க` → **`ஆணைக் கிணங்க`** — source spacing / word-boundary correction;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 395; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: 388; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
