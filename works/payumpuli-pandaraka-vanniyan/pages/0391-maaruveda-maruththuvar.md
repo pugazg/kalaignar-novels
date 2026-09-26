@@ -6,11 +6,11 @@ printed_page: 384
 work: "payumpuli-pandaraka-vanniyan"
 section: "மாறுவேட மருத்துவர்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans391–400"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans391–400; formal Part014 Pass 2A reviewed"
 ---
 
 # மாறுவேட மருத்துவர்!
@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 
 மருத்துவர், தனது தாடியைத் தடவிக் கொண்டே குருவிச்சியை ஏற இறங்கப் பார்த்தார்.
 
-“மருத்துவரே! பண்டாரகர் ஆண்மையற்றவர் என்பது பாதியில் வந்த நோயல்ல - தாங்கள் சொல்வதைப் பார்த்தால் பிறவியிலேயே ஏற்பட்ட நிலை என்பது தெளிவாகிறது! இந்த இயலாமையை மறைக்கத்தான் என்னிடம் சபதம் செய்து சமாளித்துக் கொண்டிருக்கிறார் என்ற உண்மை இப்போது தான் வெளிச்சத்துக்கு வந்திருக்கிறது!”
+“மருத்துவரே! பண்டாரகர் ஆண்மையற்றவர் என்பது பாதியில் வந்த நோயல்ல - தாங்கள் சொல்வதைப் பார்த்தால் பிறவியிலேயே ஏற்பட்ட நிலை என்பது தெளிவாகிறது! இந்த இயலாமையை மறைக்கத்தான் என்னிடம் சபதம் செய்து சமாளித்துக் கொண்டிருக்கிறார் என்ற உண்மை இப்போதுதான் வெளிச்சத்துக்கு வந்திருக்கிறது!”
 
 “சரியாகச் சொன்னாய் அம்மா! ஆனால் ஒன்று! பண்டாரக வன்னியரின் செயல் மிகவும் பாபகரமானது! தன்னுடைய பலகீனத்தை மறைப்பதற்காக உன்னைப் போன்ற ஒரு பருவக் கொடியை வாழ்நாள் முழுவதும் பயனற்றுப் போகுமாறு செய்திட்ட அவர் செய்துள்ள சதியை மன்னிக்கவே முடியாது!”
 
@@ -38,4 +38,16 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 391; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 384; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+
+## Formal Part014 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part014 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `இப்போது தான்` → **`இப்போதுதான்`** — source word-boundary correction;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 391; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 384; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
