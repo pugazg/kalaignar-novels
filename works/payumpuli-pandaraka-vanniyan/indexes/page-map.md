@@ -1505,3 +1505,18 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
 - exact next — **Part013 final metadata/status synchronization**
+
+## Part013 final metadata/status synchronization checkpoint
+
+**PART013 FINAL METADATA / STATUS SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical Part013 rows — **30/30**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- visual-fidelity promotions — **30**
+- canonical body changes — **0**
+- partial / source-limited / needs-review — **0 / 0 / 0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- durable record — `PART_013_FINAL_STATUS_SYNC.md`
+- exact next — **Part013 documentation synchronization**
