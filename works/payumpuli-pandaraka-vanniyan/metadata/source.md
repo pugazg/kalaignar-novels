@@ -78,18 +78,17 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 ## Current processing frontier
 
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 / scans361–390 — **ACTIVE**
-- Pass1 — **COMPLETE / PASS — 30/30**
-- Pass2A — **COMPLETE / PASS — 30/30 — 17 corrections**
-- Pass2B — **COMPLETE / PASS — 30/30 — 9 corrections**
-- Pass3 — **COMPLETE / PASS — 30/30**
-- Pass3 textual corrections — **0**
-- unresolved internal Tamil / lexical / glyph / visual / structural questions — **0**
+- Part013 / scans361–390 — **ACTIVE / AUDITED**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- correction accounting — **Pass2A 17 / Pass2B 9 / Pass3 0**
+- unresolved internal issues — **0**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- exact next — **Part013 Part audit**
+- durable audit — `PART_013_AUDIT.md`
+- exact next — **Part013 final metadata/status synchronization**
 - Part014 SHA-256 — `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`
 - Part015 SHA-256 — `2efbc6088e061e4d145a8f2bc9c63936ef3e20ea6e63e8734edc88507e5c37a0`
 - Part016 SHA-256 — `82ca2020407e0996abfa2d3b29a192c56419f3f7da22a5a9d3d5dd5b8f9c3c6c`
