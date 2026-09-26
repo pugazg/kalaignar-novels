@@ -80,13 +80,16 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Parts001–012 — **FINAL CLOSED / FROZEN**
 - active content Part — **Part013 / scans361–390**
 - Part013 canonical records — **30/30 present**
-- Part013 Pass1 — **COMPLETE / PASS**
-- Part013 Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
+- Pass1 — **COMPLETE / PASS**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
+- Pass2B — **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+- Pass2B Batch1 corrections — **3 — scans362, 364, 367**
+- historical-glyph corrections — **0**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - incoming 360→361 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing 390→391 — **PENDING direct audit**
-- exact next — **Part013 Pass2B Batch1 scans361–370 / local1–10 / printed354–363**
+- exact next — **Part013 Pass2B Batch2 scans371–380 / local11–20 / printed364–373**
 - Parts014–016 — **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**
 
 
