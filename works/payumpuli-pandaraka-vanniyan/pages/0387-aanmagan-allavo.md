@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_013_pages_361-390.pdf"
-transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans381–390; formal Part013 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans381–390; formal Part013 Pass 2A reviewed; formal Part013 Pass 2B reviewed"
 ---
 
 # ஆண்மகன் அல்லவோ!
@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 
 மார்த்தனி, உடனே அவன் காலைத் தொட்டு வணங்கினாள்.
 
-“என்னை மன்னியுங்கள்! நீங்கள் இருவரும் என்னை எதிரியின் சார்பில் வந்தவள் என்றும் பாராமல் - என்னைக் காப்பாற்றிக் கண்டிக்கு அனுப்பி வைத்ததை என்றும் மறக்க மாட்டேன். அந்த நன்றியை மறவாமல்தான் பிலிமதளாவைக்குத் தங்கள் மீதிருந்த வெறுப்பை மாற்றி - கண்டியின் படைகளுக்குத் துணையாக முல்லைத்தீவின் படைகளும் வரவேண்டுமென்ற என் யோசனைக்கு அவரை இணங்க வைத்தேன்.”
+“என்னை மன்னியுங்கள்! நீங்கள் இருவரும் என்னை எதிரியின் சார்பில் வந்தவள் என்றும் பாராமல் - என்னைக் காப்பாற்றிக் கண்டிக்கு அனுப்பி வைத்ததை என்றும் மறக்க மாட்டேன். அந்த நன்றியை மறவாமல்தான் பிலிமதளாவைக்குத் தங்கள் மீதிருந்த வெறுப்பை மாற்றி- கண்டியின் படைகளுக்குத் துணையாக முல்லைத்தீவின் படைகளும் வரவேண்டுமென்ற என் யோசனைக்கு அவரை இணங்க வைத்தேன்.”
 
 பண்டாரகன் சிரித்துக் கொண்டே கேட்டான்.
 
@@ -56,4 +56,17 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 387; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 27; அச்சுப் பக்கம்: 380; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+## Formal Part013 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part013 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- source-confirmed correction: `வெறுப்பை மாற்றி - கண்டியின் படைகளுக்குத்` → **`வெறுப்பை மாற்றி- கண்டியின் படைகளுக்குத்`** — source punctuation-spacing correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 387; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 27; அச்சுப் பக்கம்: 380; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
