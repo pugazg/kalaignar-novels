@@ -11,7 +11,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 - complete-source extent: **477 scans**;
 - split design: **15 × 30 pages + final 27 pages = 477**;
 - file size: **28,330,134 bytes**;
-- SHA-256: **PENDING**;
+- SHA-256: `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`;
 - source text layer: **no usable parsed text exposed**;
 - controlling representation: **rendered source page images**;
 - source family: **TVA_BOK_0065744**;
