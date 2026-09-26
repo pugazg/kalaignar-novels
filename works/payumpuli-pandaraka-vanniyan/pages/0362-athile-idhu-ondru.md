@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_013_pages_361-390.pdf"
-transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans361–370; formal Part013 Pass 2A reviewed; formal Part013 Pass 2B reviewed"
+transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans361–370; formal Part013 Pass 2A reviewed; formal Part013 Pass 2B reviewed; formal Part013 Pass 3 reviewed"
 ---
 
 # அதிலே இது ஒன்று!
@@ -57,4 +57,15 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 - textual `status` remains **verified**;
 - `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 362; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: 355; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
+## Formal Part013 Pass 3 review
+
+- direct full-page visual / structural verification completed against the rendered Part013 source image;
+- page type, printed pagination, recurring border/page furniture, paragraph/dialogue block placement, displayed hierarchy and physical page-end state were checked;
+- printed folio **355**; chapter58 continuation, recurring border/page furniture and dialogue/paragraph placement confirmed; resumes `தத்தை`; page ends mid-comparison at `ஆனால்`;
+- Tamil body corrections in Pass 3: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** until Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 362; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: 355; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / PASS 3 VISUAL-STRUCTURAL REVIEWED / visual-needs-review -->
