@@ -33,18 +33,17 @@ For every `N→N+1` boundary:
 
 **source intake → Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → status sync → documentation sync → Tamil archival-ready → assembled Tamil → English → release/readiness → release-ready synchronization → final Part closure → next Part**
 
-## Current authoritative frontier — Part013
+## Current authoritative frontier — Part014
 
-- Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 Tamil / assembled — **30/30 verified / 5/5 CLOSED**
-- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE**
-- physical coverage — **361–390 / 30**
-- source-boundary parity — **25/25 / PASS**
-- unresolved batch holds — **0**
-- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **390→391 — PENDING direct audit**
-- Parts014–016 — **SUPPLIED / REGISTERED / WAITING**
-- exact next — **Part013 whole-Part glossary reconciliation**
+- 16 / 16 split PDFs — **SUPPLIED / REGISTERED**
+- Parts001–013 — **FINAL CLOSED / FROZEN**
+- Part014 / scans391–420 — **NEXT ACTIVE / AUTHORIZED**
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **420→421 — PENDING direct audit**
+- canonical Part014 records — **0**
+- audited multipart split boundaries — **13/15**
+- Parts015–016 — **SUPPLIED / REGISTERED / WAITING**
+- exact next — **Part014 Pass1 Batch1 scans391–400**
 
 ## Historical accumulated state
 
@@ -1436,3 +1435,24 @@ Durable progress:
 - Part014 translation / paraphrase / semantic completion — **0**
 - unresolved batch-level holds — **0**
 - exact next gate — **Part013 whole-Part glossary reconciliation across E70–E74**
+
+## Part013 final closure / Part014 frontier
+
+**PART013 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–013 — **FINAL CLOSED / FROZEN**
+- Part013 canonical Tamil / visual fidelity — **30/30 verified / frozen**
+- assembled Tamil — **5/5 VERIFIED / frozen**
+- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- unresolved Part013 blockers — **0**
+- Part014 leakage — **0**
+- durable closure — `PART_013_FINAL_CLOSURE.md`
+- Part014 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
