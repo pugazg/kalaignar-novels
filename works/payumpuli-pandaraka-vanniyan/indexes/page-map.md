@@ -396,16 +396,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 013 | 28 | 388 | 381 | `ஆண்மகன் அல்லவோ!` continuation; ends physical split `அடைத்துப்` | verified | `pages/0388-aanmagan-allavo.md` |
 | 013 | 29 | 389 | 382 | `ஆண்மகன் அல்லவோ!` continuation; resumes `போட்டு`; physician arrives | verified | `pages/0389-aanmagan-allavo.md` |
 | 013 | 30 | 390 | 383 | `ஆண்மகன் அல்லவோ!` continuation; substantial blank lower field; 390→391 pending audit | verified | `pages/0390-aanmagan-allavo.md` |
-| 014 | 1 | 391 | 384 | chapter63 opening `மாறுவேட மருத்துவர்!`; displayed number 63; incoming 390→391 clean chapter boundary audited | needs-review | `pages/0391-maaruveda-maruththuvar.md` |
-| 014 | 2 | 392 | 385 | `மாறுவேட மருத்துவர்!` continuation; ends physical split `பண்டாரக` | needs-review | `pages/0392-maaruveda-maruththuvar.md` |
-| 014 | 3 | 393 | 386 | `மாறுவேட மருத்துவர்!` continuation; resumes `வன்னியனுக்குத்`; ends `சொன்னாள்.-` | needs-review | `pages/0393-maaruveda-maruththuvar.md` |
-| 014 | 4 | 394 | 387 | `மாறுவேட மருத்துவர்!` continuation; ends mid-sentence `உணர்வு` | needs-review | `pages/0394-maaruveda-maruththuvar.md` |
-| 014 | 5 | 395 | 388 | chapter63 `மாறுவேட மருத்துவர்!` close; resumes `வந்தவளாக`; physician-disguise reveal | needs-review | `pages/0395-maaruveda-maruththuvar.md` |
-| 014 | 6 | 396 | 389 | chapter64 opening `அதிர்ந்தது போர்முரசு!`; displayed number 64 | needs-review | `pages/0396-athirndhathu-pormurasu.md` |
-| 014 | 7 | 397 | 390 | `அதிர்ந்தது போர்முரசு!` continuation; war-strategy dialogue | needs-review | `pages/0397-athirndhathu-pormurasu.md` |
-| 014 | 8 | 398 | 391 | `அதிர்ந்தது போர்முரசு!` continuation; surrender-strategy discussion | needs-review | `pages/0398-athirndhathu-pormurasu.md` |
-| 014 | 9 | 399 | 392 | `அதிர்ந்தது போர்முரசு!` continuation; proposed Kandyan abdication / transfer plan | needs-review | `pages/0399-athirndhathu-pormurasu.md` |
-| 014 | 10 | 400 | 393 | `அதிர்ந்தது போர்முரசு!` continuation; ends mid-sentence at `என்பதை` | needs-review | `pages/0400-athirndhathu-pormurasu.md` |
+| 014 | 1 | 391 | 384 | chapter63 opening `மாறுவேட மருத்துவர்!`; displayed number 63; incoming 390→391 clean chapter boundary audited | verified | `pages/0391-maaruveda-maruththuvar.md` |
+| 014 | 2 | 392 | 385 | `மாறுவேட மருத்துவர்!` continuation; ends physical split `பண்டாரக` | verified | `pages/0392-maaruveda-maruththuvar.md` |
+| 014 | 3 | 393 | 386 | `மாறுவேட மருத்துவர்!` continuation; resumes `வன்னியனுக்குத்`; ends `சொன்னாள்.-` | verified | `pages/0393-maaruveda-maruththuvar.md` |
+| 014 | 4 | 394 | 387 | `மாறுவேட மருத்துவர்!` continuation; ends mid-sentence `உணர்வு` | verified | `pages/0394-maaruveda-maruththuvar.md` |
+| 014 | 5 | 395 | 388 | chapter63 `மாறுவேட மருத்துவர்!` close; resumes `வந்தவளாக`; physician-disguise reveal | verified | `pages/0395-maaruveda-maruththuvar.md` |
+| 014 | 6 | 396 | 389 | chapter64 opening `அதிர்ந்தது போர்முரசு!`; displayed number 64 | verified | `pages/0396-athirndhathu-pormurasu.md` |
+| 014 | 7 | 397 | 390 | `அதிர்ந்தது போர்முரசு!` continuation; war-strategy dialogue | verified | `pages/0397-athirndhathu-pormurasu.md` |
+| 014 | 8 | 398 | 391 | `அதிர்ந்தது போர்முரசு!` continuation; surrender-strategy discussion | verified | `pages/0398-athirndhathu-pormurasu.md` |
+| 014 | 9 | 399 | 392 | `அதிர்ந்தது போர்முரசு!` continuation; proposed Kandyan abdication / transfer plan | verified | `pages/0399-athirndhathu-pormurasu.md` |
+| 014 | 10 | 400 | 393 | `அதிர்ந்தது போர்முரசு!` continuation; ends mid-sentence at `என்பதை` | verified | `pages/0400-athirndhathu-pormurasu.md` |
 | 014 | 11 | 401 | 394 | chapter64 `அதிர்ந்தது போர்முரசு!` continuation / close; scan402 opens chapter65 | needs-review | `pages/0401-athirndhathu-pormurasu.md` |
 | 014 | 12 | 402 | 395 | chapter65 opening `கண்டிக்குள் களம்!`; displayed number65; ends `எனக்குப் போட்டியாக` | needs-review | `pages/0402-kandikkul-kalam.md` |
 | 014 | 13 | 403 | 396–397 | two-folio spread; `கண்டிக்குள் களம்!`; printed396 resumes scan402; printed397 ends `ஆனால் மெக்டோவலின் படை` | needs-review | `pages/0403-kandikkul-kalam.md` |
@@ -1665,3 +1665,20 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - Part014 Pass1 — **30/30 TEXT-COMPLETE**
 - Pass2A — **NOT STARTED**
 - exact next — **Part014 Pass2A Batch1 scans391–400 / local1–10 / printed384–393**
+
+## Part014 Pass2A Batch1 checkpoint
+
+**PART014 PASS 2A — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- scans391–400 / local1–10 — **REVIEWED / PASS**
+- observed printed folios — **384–393**
+- textual status — **10/30 verified / 20/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- Batch1 corrections — **8**
+- correction scans — **391, 392, 394, 395, 397**
+- unresolved textual questions — **0**
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- Part015 canonical records created — **0**
+- exact next — **Part014 Pass2A Batch2 scans401–410 / local11–20 / observed printed folios394–404**
+
