@@ -85,12 +85,12 @@ Kandy warriors had been unleashed on Pilimathalavai's orders. Doors of white hou
 
 <!-- source boundary: scan 382 → scan 383 -->
 
-Not only did the news reach Kolumbu; the affected Parangi families themselves took refuge in Lord North's mansion.
+Not only did the news reach Kolumbu; the affected Parangiyar families themselves took refuge in Lord North's mansion.
 
 “Still more patience?” Lord North asked Major General Macdowall.
 
 Macdowall drew his sword, raised it above his head and trumpeted, “Ready to invade Kandy!”
 
-A plan was drawn up for two divisions, together numbering three thousand soldiers, to attack Kandy.
+A plan was drawn up for two divisions of three thousand soldiers to attack Kandy.
 
 When Pilimathalavai heard that the English army was moving toward Kandy, he was delighted. Saying that the time had come to answer revenge with revenge, he embraced Marthani tightly. On her advice, he obtained an urgent letter from Vikrama Raja Singan asking Pandaraka Vanniyan for help and sent it toward Mullaitheevu. Marthani herself set out carrying that letter to meet Pandaraka Vanniyan.
