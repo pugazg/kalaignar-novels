@@ -6,24 +6,24 @@ printed_page: 404
 work: "payumpuli-pandaraka-vanniyan"
 section: "வெள்ளைக் கொடியும்- வெற்றி விழாவும்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans401–410"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans401–410; formal Part014 Pass 2A reviewed"
 ---
 
 # வெள்ளைக் கொடியும்- வெற்றி விழாவும்!
 
 ## Source transcription
 
-“வீரர்களே! கண்டிப் படையையும், பண்டாரகன் படையையும் நாம் வெற்றி காண வேண்டுமானால் ஒரே வழிதான் இருக்கிறது!” என்றான் மேஜ்!
+“வீரர்களே! கண்டிப் படையையும், பண்டாரகன் படையையும் நாம் வெற்றி காண வேண்டுமானால் ஒரே வழிதான் இருக்கிறது!” என்றான் மேட்ஜ்!
 
 “என்ன வழி? என்ன வழி?” என்று அலறினார்கள், ஆங்கிலேய வீரர்கள்!
 
 “இப்போது நாம் திருகோணமலைக்கே திரும்பச் செல்ல வேண்டும். இல்லையேல் அனைவரும் பரலோகம் போய் விடுவோம். இரண்டில் எதைச் செய்யலாம்?”
 
-தளபதி மேஜ், கொஞ்சம் வேடிக்கையான மனிதன்! முட்டாள்தனமாக ஒருயுத்தத்தில் உயிரிழப்பதை விரும்பாதவன்! பண்டாரக வன்னியனின் வலிமை பற்றி அவனுக்கு மிக நன்றாகவே தெரியும். படை பலமின்றியே தனித்து நின்று போரிடக்கூடிய வல்லமை பண்டாரக வன்னியனுக்கு உண்டு என்பதை அவன் அறிந்திருந்தான். எனவே, பண்டாரகனும் அவனது வீரர்களும் ஆச்சரியப்படும்படியாக தளபதி மேஜ், தனது படையுடன் புறங்காட்டி ஓடினான் திருகோணமலையை நோக்கி!
+தளபதி மேட்ஜ், கொஞ்சம் வேடிக்கையான மனிதன்! முட்டாள்தனமாக ஒருயுத்தத்தில் உயிரிழப்பதை விரும்பாதவன்! பண்டாரக வன்னியனின் வலிமை பற்றி அவனுக்கு மிக நன்றாகவே தெரியும். படை பலமின்றியே தனித்து நின்று போரிடக்கூடிய வல்லமை பண்டாரக வன்னியனுக்கு உண்டு என்பதை அவன் அறிந்திருந்தான். எனவே, பண்டாரகனும் அவனது வீரர்களும் ஆச்சரியப்படும்படியாக தளபதி மேட்ஜ், தனது படையுடன் புறங்காட்டி ஓடினான் திருகோணமலையை நோக்கி!
 
 கண்டியிலும், திருகோணமலைக்கருகிலும் ஆங்கிலேயர்களுக்கெதிராகப் பெற்ற வெற்றிப் பெருமிதமுடன் பண்டாரக வன்னியன், ஜெனரல் மெக்டோவலை மீட்பதற்காக மீண்டும் விரைந்து சென்றான்.
 
@@ -40,4 +40,18 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 410; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 404; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+
+## Formal Part014 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part014 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `என்றான் மேஜ்!` → **`என்றான் மேட்ஜ்!`** — source name-form correction;
+- source-confirmed correction: `தளபதி மேஜ், கொஞ்சம்` → **`தளபதி மேட்ஜ், கொஞ்சம்`** — source name-form correction;
+- source-confirmed correction: `தளபதி மேஜ், தனது படையுடன்` → **`தளபதி மேட்ஜ், தனது படையுடன்`** — source name-form correction;
+- source-text corrections in Pass 2A: **3**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 410; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 404; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
