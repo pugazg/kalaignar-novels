@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part013 Pass2B Batch3 scans381–390
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part013 Pass3 Batch1 scans361–370
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -21,18 +21,18 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - canonical Part013 records — **30/30**
 - Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
-- Pass2B — **IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
-- Pass2B cumulative corrections — **6**
-- Pass2B correction scans — **362, 364, 367, 376, 378, 380**
-- Batch2 corrections:
-  - scan376 — `ஒரு சகோதரியைப்போல் கவனித்துக்கொண்டாள்!` → **`ஒரு சகோதரியைப் போல கவனித்துக்கொண்டாள்!`**
-  - scan378 — `நார்த்பிரபுவைப் பழிவாங்குவது` → **`நார்த் பிரபுவைப் பழிவாங்குவது`**
-  - scan380 — `புத்தளம்நகரிலிருந்தேஓடத் தொடங்குகின்றனர்.` → **`புத்தளம் நகரிலிருந்தே ஓடத் தொடங்குகின்றனர்.`**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass2B cumulative corrections — **9**
+- Pass2B correction scans — **362, 364, 367, 376, 378, 380, 385, 386, 387**
+- Batch3 corrections:
+  - scan385 — `நீ இதுவும் பேசுவாய் - இன்னமும் பேசுவாய்!` → **`நீ இதுவும் பேசுவாய்- இன்னமும் பேசுவாய்!`**
+  - scan386 — `என்ற நிலை ஏற்படும்வரையில் - எங்களுக்குள் உடலுறவு` → **`என்ற நிலை ஏற்படும்வரையில்-எங்களுக்குள் உடலுறவு`**
+  - scan387 — `வெறுப்பை மாற்றி - கண்டியின் படைகளுக்குத்` → **`வெறுப்பை மாற்றி- கண்டியின் படைகளுக்குத்`**
 - Pass2B historical-glyph corrections — **0**
 - unresolved lexical / historical-glyph questions — **0**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
-- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- Pass3 — **NOT STARTED / UNBLOCKED**
 
 ## Later supplied source parts
 
@@ -42,14 +42,14 @@ Parts014–016 remain **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTI
 - Part015 scans421–450 SHA-256 — `2efbc6088e061e4d145a8f2bc9c63936ef3e20ea6e63e8734edc88507e5c37a0`
 - Part016 scans451–477 SHA-256 — `82ca2020407e0996abfa2d3b29a192c56419f3f7da22a5a9d3d5dd5b8f9c3c6c`
 
-Do not create later-Part canonical records and do not use Part014 wording during Part013 Pass2B.
+Do not create later-Part canonical records and do not use Part014 wording during Part013 Pass3.
 
 ## Exact next activity
 
-Perform **Part013 Pass2B Batch3 — scans381–390 / local pages21–30 / printed374–383**.
+Perform **Part013 Pass3 Batch1 — scans361–370 / local pages1–10 / printed354–363**.
 
-Process exactly **10 physical source pages** and independently reread the rendered source for lexical identity, historical / variant Tamil glyph identity, source-specific compounds and joins, word boundaries, punctuation and quotation boundaries.
+Process exactly **10 physical source pages**. Perform direct full-page visual / structural verification: page type, printed pagination, recurring border/page furniture, displayed chapter hierarchy, paragraph/dialogue placement, intentional blank fields, and physical page-end state.
 
-Apply only directly source-supported corrections. Preserve source-visible irregular forms without modernization or grammatical normalization. Keep textual `status: "verified"` and `visual_fidelity: "needs-review"`.
+Keep textual `status: "verified"`. Keep `visual_fidelity: "needs-review"` until the Part audit/final status gate promotes it. Apply a textual correction only if direct visual review exposes a source-backed defect.
 
-Do **not** begin Pass3 in the same activity.
+Do **not** begin Part audit in the same activity.
