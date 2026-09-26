@@ -407,3 +407,24 @@ Part013 English batches are **5/5 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCI
 - Part014 translation / paraphrase / semantic completion — **0**
 - unresolved batch-level holds — **0**
 - exact next gate — **Part013 whole-Part glossary reconciliation across E70–E74**
+
+## Part013 final closure / Part014 frontier
+
+**PART013 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–013 — **FINAL CLOSED / FROZEN**
+- Part013 canonical Tamil / visual fidelity — **30/30 verified / frozen**
+- assembled Tamil — **5/5 VERIFIED / frozen**
+- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- unresolved Part013 blockers — **0**
+- Part014 leakage — **0**
+- durable closure — `PART_013_FINAL_CLOSURE.md`
+- Part014 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
