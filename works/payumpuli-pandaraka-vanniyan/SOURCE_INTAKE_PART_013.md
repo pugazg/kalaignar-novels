@@ -207,3 +207,22 @@ Part013 is **ACTIVE**.
 - visual fidelity — **30/30 needs-review**
 - outgoing **390→391 — PENDING direct audit**
 - exact next — **Part013 Pass2B Batch2 scans371–380 / local11–20 / printed364–373**
+
+## Part013 Pass2B Batch2 checkpoint
+
+**PART013 PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED.**
+
+- scans371–380 / local11–20 / printed364–373 — **REVIEWED / PASS**
+- Batch2 additional Pass2B corrections — **3**
+- Batch2 correction scans — **376, 378, 380**
+- cumulative Pass2B corrections — **6**
+- cumulative correction scans — **362, 364, 367, 376, 378, 380**
+- scan376 — `ஒரு சகோதரியைப்போல் கவனித்துக்கொண்டாள்!` → **`ஒரு சகோதரியைப் போல கவனித்துக்கொண்டாள்!`**
+- scan378 — `நார்த்பிரபுவைப் பழிவாங்குவது` → **`நார்த் பிரபுவைப் பழிவாங்குவது`**
+- scan380 — `புத்தளம்நகரிலிருந்தேஓடத் தொடங்குகின்றனர்.` → **`புத்தளம் நகரிலிருந்தே ஓடத் தொடங்குகின்றனர்.`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **390→391 — PENDING direct audit**
+- exact next — **Part013 Pass2B Batch3 scans381–390 / local21–30 / printed374–383**
