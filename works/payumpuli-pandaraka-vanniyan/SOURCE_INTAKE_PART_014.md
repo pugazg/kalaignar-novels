@@ -23,7 +23,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Boundary state
 
-- incoming split boundary: **390→391 — source available; classification pending direct audit**;
+- incoming split boundary: **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**;
 - outgoing split boundary: **420→421 — source available; classification pending direct audit**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
@@ -42,6 +42,14 @@ The canonical `scan_page` remains the overall scan number **391–420**.
 
 ## Current gate
 
-Part 014 source split: **SUPPLIED / REGISTERED**.
+Part 014 is **NEXT ACTIVE / AUTHORIZED — PASS1 NOT STARTED**.
 
-This Part waits behind the global active frontier. Do not create page records here until processing reaches its overall scan range.
+- Parts001–013 — **FINAL CLOSED / FROZEN**
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- scan391 opens displayed chapter63 `மாறுவேட மருத்துவர்!`
+- outgoing **420→421 — PENDING direct audit**
+- canonical records — **0**
+- Pass1 — **NOT STARTED**
+- exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
+
+Do not reopen frozen Parts001–013 merely to advance Part014.
