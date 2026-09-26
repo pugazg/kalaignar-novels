@@ -4,16 +4,18 @@
 
 ## Current active source — பாயும்புலி பண்டாரக வன்னியன்
 
-- Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 Tamil / assembled — **30/30 verified / 5/5 CLOSED**
-- English planning/setup — **COMPLETE / PASS**
-- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE**
-- scans translated/source-checked — **361–390 / 30**
-- source-boundary parity — **25/25 / PASS**
-- unresolved batch holds — **0**
-- incoming 360→361 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing 390→391 — **PENDING direct audit**
-- exact next — **Part013 whole-Part glossary reconciliation**
+- work directory: `works/payumpuli-pandaraka-vanniyan/`
+- source family: **TVA_BOK_0065744**
+- complete physical extent: **477 scans**
+- split source: **16/16 supplied / registered**
+- Parts001–013 — **FINAL CLOSED / FROZEN**
+- Part014 / scans391–420 — **NEXT ACTIVE / AUTHORIZED**
+- Part014 source SHA-256 — `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`
+- incoming 390→391 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- scan391 opens chapter63 `மாறுவேட மருத்துவர்!`
+- outgoing 420→421 — **PENDING direct audit**
+- Part014 canonical records — **0**
+- exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
 
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
@@ -1886,3 +1888,7 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - translated / source-checked — **0/5 / 0/5**
 - Tamil / frozen prior-English body edits — **0 / 0**
 - exact next — **E70 draft + source-check — section73 / scans361–365**
+
+## Part013 final closure checkpoint
+
+**PART013 FINAL CLOSURE — PASS / CLOSED / FROZEN.** Parts001–013 are now frozen; Part014 is the active frontier.
