@@ -76,3 +76,20 @@ Part013 is ready for final closure.
 Create and verify **Part013 final closure** in `PART_013_FINAL_CLOSURE.md`.
 
 Do not begin Part014 canonical work before Part013 final closure passes.
+
+## Part013 final closure checkpoint
+
+**PART013 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–013 — **FINAL CLOSED / FROZEN**
+- canonical Tamil / visual fidelity — **30/30 verified / frozen**
+- assembled Tamil — **5/5 VERIFIED / frozen**
+- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary / editorial / bilingual / release / release-ready sync — **PASS / PASS / PASS / PASS / PASS**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- unresolved Part013 blockers — **0**
+- Part014 leakage — **0**
+- durable closure — `PART_013_FINAL_CLOSURE.md`
+- Part014 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
