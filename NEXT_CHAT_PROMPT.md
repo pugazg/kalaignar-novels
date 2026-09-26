@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part013 Pass3 Batch1 scans361–370
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part013 Pass3 Batch2 scans371–380
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -21,32 +21,35 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - canonical Part013 records — **30/30**
 - Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
-- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass2B cumulative corrections — **9**
-- Pass2B correction scans — **362, 364, 367, 376, 378, 380, 385, 386, 387**
-- Batch3 corrections:
-  - scan385 — `நீ இதுவும் பேசுவாய் - இன்னமும் பேசுவாய்!` → **`நீ இதுவும் பேசுவாய்- இன்னமும் பேசுவாய்!`**
-  - scan386 — `என்ற நிலை ஏற்படும்வரையில் - எங்களுக்குள் உடலுறவு` → **`என்ற நிலை ஏற்படும்வரையில்-எங்களுக்குள் உடலுறவு`**
-  - scan387 — `வெறுப்பை மாற்றி - கண்டியின் படைகளுக்குத்` → **`வெறுப்பை மாற்றி- கண்டியின் படைகளுக்குத்`**
-- Pass2B historical-glyph corrections — **0**
-- unresolved lexical / historical-glyph questions — **0**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 9 corrections**
+- Pass3 — **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+- Pass3 Batch1 textual corrections — **0**
+- unresolved visual / structural questions — **0**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
-- Pass3 — **NOT STARTED / UNBLOCKED**
+
+## Pass3 Batch1 structural locks
+
+- printed pages **354–363** continuous;
+- scan361 opens chapter58 `அதிலே இது ஒன்று!`, displayed **58**;
+- scan365 closes chapter58 with substantial intentional blank lower field;
+- scan366 opens chapter59 `இன்று முதல் உங்கள் எதிரி!`, displayed **59**;
+- scan361→362 — `உன் ரத்` + `தத்தை`;
+- scan363→364 — `தேடக்` + `கிடைக்காத அமுதமே`;
+- scan367→368 — `பியசீலியைக்` + `கண்டிக்கு`;
+- scan368→369 — `நீங்கள்` + `இவளுக்கு`;
+- scan369→370 — `கொழும்பு` + `வந்து சேர்ந்தார்.`;
+- scan370 ends with a complete question while chapter59 continues on scan371.
 
 ## Later supplied source parts
 
 Parts014–016 remain **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**.
 
-- Part014 scans391–420 SHA-256 — `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`
-- Part015 scans421–450 SHA-256 — `2efbc6088e061e4d145a8f2bc9c63936ef3e20ea6e63e8734edc88507e5c37a0`
-- Part016 scans451–477 SHA-256 — `82ca2020407e0996abfa2d3b29a192c56419f3f7da22a5a9d3d5dd5b8f9c3c6c`
-
-Do not create later-Part canonical records and do not use Part014 wording during Part013 Pass3.
+Do not create later-Part canonical records and do not use Part014 wording or structure during Part013 Pass3.
 
 ## Exact next activity
 
-Perform **Part013 Pass3 Batch1 — scans361–370 / local pages1–10 / printed354–363**.
+Perform **Part013 Pass3 Batch2 — scans371–380 / local pages11–20 / printed364–373**.
 
 Process exactly **10 physical source pages**. Perform direct full-page visual / structural verification: page type, printed pagination, recurring border/page furniture, displayed chapter hierarchy, paragraph/dialogue placement, intentional blank fields, and physical page-end state.
 
