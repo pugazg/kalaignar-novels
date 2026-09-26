@@ -1,14 +1,14 @@
 # Part 013 — English Translation Progress — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING / SETUP — COMPLETE / PASS**
+Status: **E70–E74 — 5/5 SOURCE-CHECKED / COMPLETE**
 
 | Batch | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
-| **E70** | section73 — chapter58 `அதிலே இது ஒன்று!` | 361–365 | **NOT STARTED / NEXT** |
-| **E71** | section74 — chapter59 `இன்று முதல் உங்கள் எதிரி!` | 366–371 | **NOT STARTED** |
-| **E72** | section75 — chapter60 `பகையும் - பண்பும்!` | 372–377 | **NOT STARTED** |
-| **E73** | section76 — chapter61 `போருக்கான புகைச்சல்!` | 378–383 | **NOT STARTED** |
-| **E74** | section77 — chapter62 `ஆண்மகன் அல்லவோ!` | 384–390 | **NOT STARTED** |
+| **E70** | section73 — chapter58 `அதிலே இது ஒன்று!` | 361–365 | **SOURCE-CHECKED / COMPLETE** |
+| **E71** | section74 — chapter59 `இன்று முதல் உங்கள் எதிரி!` | 366–371 | **SOURCE-CHECKED / COMPLETE** |
+| **E72** | section75 — chapter60 `பகையும் - பண்பும்!` | 372–377 | **SOURCE-CHECKED / COMPLETE** |
+| **E73** | section76 — chapter61 `போருக்கான புகைச்சல்!` | 378–383 | **SOURCE-CHECKED / COMPLETE** |
+| **E74** | section77 — chapter62 `ஆண்மகன் அல்லவோ!` | 384–390 | **SOURCE-CHECKED / COMPLETE** |
 
 ## Current counts
 
@@ -18,8 +18,8 @@ Status: **PLANNING / SETUP — COMPLETE / PASS**
 - Tamil assembled files — **5/5 VERIFIED / CLOSED**
 - Part013 English planned batches — **E70–E74 / 5**
 - Part013 English planned files — **5**
-- Part013 English translated files — **0/5**
-- Part013 English source-checked files — **0/5**
+- Part013 English translated files — **5/5**
+- Part013 English source-checked files — **5/5**
 - unresolved English planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -71,3 +71,30 @@ Created:
 **PART013 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS**
 
 Exact next activity: **E70 draft + source-check — section73 / scans361–365**.
+
+
+## User-authorized all-pages override
+
+The user explicitly instructed **process all pages**. E70–E74 were therefore completed in source order within this activity, while retaining a separate source-check gate record per batch.
+
+## E70–E74 batch-level translation closure
+
+**E70–E74 — 5/5 SOURCE-CHECKED / COMPLETE.**
+
+- physical scans covered — **361–390 / 30**
+- maintained English files — **5/5**
+- source-check records — **E70–E74 / 5/5**
+- source-boundary marker parity — **25/25 / PASS**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–012 English body edits — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- Part014 translation / semantic completion — **0**
+- unresolved batch-level holds — **0**
+
+## Exact next activity
+
+Perform **Part013 whole-Part glossary reconciliation across E70–E74**.
+
+Do not begin whole-Part English editorial review until glossary reconciliation closes.
