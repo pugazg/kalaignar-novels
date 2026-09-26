@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Part001–Part005 are **FINAL CLOSED / FROZEN**. Part006 is **ACTIVE / AUTHORIZED — TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL NEXT**.
+Parts001–012 are **FINAL CLOSED / FROZEN**. Part013 is **DOCUMENTATION SYNCHRONIZED / TAMIL ARCHIVAL-READY NEXT**. Parts014–016 remain **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**.
 
 ## Tamil Part workflow
 
@@ -47,7 +47,20 @@ Audited:
 
 For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were directly compared. No scan60 correction was needed and no Part003 canonical text was imported.
 
-## Current Part frontier
+## Current authoritative frontier — Part013
+
+- canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- unresolved documentation / Tamil / visual blockers — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- exact next gate — **Part013 Tamil archival-ready checkpoint**
+- do not begin assembled Tamil construction until archival-ready closure
+
+## Historical accumulated Part frontier
 
 - **Part001: FINAL CLOSURE — PASS / CLOSED / FROZEN**
 - **Part002 Pass 1: COMPLETE / PASS — 30/30 TEXT-COMPLETE**
