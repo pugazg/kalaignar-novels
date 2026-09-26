@@ -10,15 +10,18 @@
 ## Current live frontier — Part014
 
 - Parts001–013 — **FINAL CLOSED / FROZEN**
-- Part014 / scans391–420 — **NEXT ACTIVE / AUTHORIZED**
-- source SHA-256 — `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`
+- Part014 / scans391–420 — **PASS1 IN PROGRESS**
+- Batch1 scans391–400 / local1–10 / printed384–393 — **COMPLETE / TEXT-COMPLETE**
+- canonical Part014 records — **10/30**
+- textual / visual status — **needs-review / needs-review**
+- unresolved Pass1 source-reading holds — **0**
+- chapter63 `மாறுவேட மருத்துவர்!` — opens391 / closes395
+- chapter64 `அதிர்ந்தது போர்முரசு!` — opens396 / continues400
+- scan400 terminal state — **mid-sentence at `என்பதை`**
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- scan391 opens displayed chapter63 `மாறுவேட மருத்துவர்!`
 - outgoing **420→421 — PENDING direct audit**
-- canonical records — **0**
-- Pass1 — **NOT STARTED**
-- audited multipart split boundaries — **13/15**
-- exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+- exact next — **Part014 Pass1 Batch2 scans401–410 / local11–20 / printed394–403**
 ## Source family
 
 - TVA_BOK_0065744
@@ -2659,3 +2662,14 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - durable closure — `PART_013_FINAL_CLOSURE.md`
 - Part014 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
 - exact next — **Part014 Pass1 Batch1 scans391–400**
+
+## Part014 Pass1 Batch1 checkpoint
+
+**PART014 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- scans391–400 / local1–10 / printed384–393 — **COMPLETE**
+- canonical records — **10/30**
+- unresolved Pass1 source-reading holds — **0**
+- chapter63 closes395; chapter64 opens396 and continues400
+- scan400 ends at `என்பதை`
+- exact next — **Pass1 Batch2 scans401–410**
