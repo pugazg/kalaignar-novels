@@ -78,17 +78,17 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - split registration — **16/16 COMPLETE**
 - physical coverage by split ranges — **477/477**
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- active content Part — **Part013 / scans361–390 — FINAL STATUS CLOSED**
-- canonical records — **30/30 verified**
+- Part013 / scans361–390 — **DOCUMENTATION SYNCHRONIZED**
+- canonical Tamil — **30/30 verified**
 - visual fidelity — **30/30 verified**
 - Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
-- unresolved internal issues — **0**
-- partial / source-limited / needs-review — **0 / 0 / 0**
+- documentation synchronization — **PASS / COMPLETE**
+- unresolved documentation / Tamil / visual blockers — **0**
 - incoming 360→361 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing 390→391 — **PENDING direct audit**
-- exact next — **Part013 documentation synchronization**
+- exact next — **Part013 Tamil archival-ready checkpoint**
 - Parts014–016 — **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**
 
 
@@ -1398,3 +1398,16 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - outgoing **390→391 — PENDING direct audit**
 - durable record — `PART_013_FINAL_STATUS_SYNC.md`
 - exact next — **Part013 documentation synchronization**
+
+## Part013 documentation synchronization checkpoint
+
+**PART013 DOCUMENTATION SYNCHRONIZATION — PASS / COMPLETE.**
+
+- canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
+- Part audit / final status / documentation — **PASS / CLOSED / COMPLETE**
+- unresolved documentation / Tamil / visual blockers — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- canonical page/body/status changes — **0**
+- durable record — `PART_013_DOCUMENTATION_SYNC.md`
+- exact next — **Part013 Tamil archival-ready checkpoint**
