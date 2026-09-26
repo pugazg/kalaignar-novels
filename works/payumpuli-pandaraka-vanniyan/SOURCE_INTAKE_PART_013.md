@@ -45,14 +45,17 @@ The canonical `scan_page` remains the overall scan number **361–390**.
 Part013 is **ACTIVE**.
 
 - Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- cumulative Pass2A corrections — **17**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
+- Pass2B — **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+- Pass2B Batch1 corrections — **3 — scans362, 364, 367**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- Pass2B / Pass3 — **NOT STARTED**
-- exact next — **Part013 Pass2B Batch1 scans361–370 / local1–10 / printed354–363**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- exact next — **Part013 Pass2B Batch2 scans371–380 / local11–20 / printed364–373**
 
 
 ## Part012 final closure / Part013 frontier
@@ -187,3 +190,20 @@ Part013 is **ACTIVE**.
 - Part014 wording leakage — **0**
 - Pass2B / Pass3 — **NOT STARTED**
 - exact next — **Part013 Pass2B Batch1 scans361–370 / local1–10 / printed354–363**
+
+## Part013 Pass2B Batch1 checkpoint
+
+**PART013 PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- scans361–370 / local1–10 / printed354–363 — **REVIEWED / PASS**
+- additional Pass2B corrections — **3**
+- correction scans — **362, 364, 367**
+- scan362 — `அடிப்பைத்தியமே!` → **`அடி பைத்தியமே!`**
+- scan364 — `பேய்க் கூச்சல்!` → **`பேய்க்கூச்சல்!`**
+- scan367 — `தப்பித்து ஓடிவந்தாள்!` → **`தப்பித்து ஓடி வந்தாள்!`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **390→391 — PENDING direct audit**
+- exact next — **Part013 Pass2B Batch2 scans371–380 / local11–20 / printed364–373**
