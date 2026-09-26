@@ -226,3 +226,23 @@ Part013 is **ACTIVE**.
 - visual fidelity — **30/30 needs-review**
 - outgoing **390→391 — PENDING direct audit**
 - exact next — **Part013 Pass2B Batch3 scans381–390 / local21–30 / printed374–383**
+
+## Part013 Pass2B Batch3 / closure checkpoint
+
+**PART013 PASS 2B — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Batch3 scans381–390 / local21–30 / printed374–383 — **REVIEWED / PASS**
+- Batch3 additional corrections — **3**
+- Batch3 correction scans — **385, 386, 387**
+- cumulative Pass2B corrections — **9**
+- correction scans — **362, 364, 367, 376, 378, 380, 385, 386, 387**
+- scan385 — `பேசுவாய் - இன்னமும்` → **`பேசுவாய்- இன்னமும்`**
+- scan386 — `வரையில் - எங்களுக்குள்` → **`வரையில்-எங்களுக்குள்`**
+- scan387 — `மாற்றி - கண்டியின்` → **`மாற்றி- கண்டியின்`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **390→391 — PENDING direct audit**
+- Pass3 — **NOT STARTED / UNBLOCKED**
+- exact next — **Part013 Pass3 Batch1 scans361–370 / local1–10 / printed354–363**
