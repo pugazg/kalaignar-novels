@@ -84,3 +84,22 @@ Part 014 is **PASS1 IN PROGRESS / BATCH 2 COMPLETE**.
 Read Batch3 printed folios directly from source. Do not pre-assume one printed folio per physical scan.
 
 Do not reopen frozen Parts001–013 merely to advance Part014.
+## Part014 Pass1 Batch3 completion checkpoint
+
+**PART014 PASS 1 — COMPLETE — 30/30 TEXT-COMPLETE.**
+
+- scans391–420 — **30/30 canonical records / TEXT-COMPLETE**
+- Batch3 scans411–420 / local21–30 — **10/10 COMPLETE**
+- Batch3 printed folios — **405–414**
+- complete observed Part014 printed-folio range — **384–414**
+- scan403 remains the verified **two-folio spread / printed396–397**
+- chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!` — closes scan414 / printed408
+- chapter67 `இரத்தம் படிந்த வாள்!` — opens scan415 / printed409 and continues through scan420 / printed414
+- scan420 — substantial intentional blank lower field after the final exclamation
+- textual / visual status — **needs-review / needs-review**
+- unresolved Pass1 source-reading holds — **0**
+- outgoing **420→421 — PENDING direct audit**
+- Pass2A — **NOT STARTED**
+- exact next — **direct outgoing boundary audit 420→421 only**
+- frozen Parts001–013 — **UNCHANGED**
+
