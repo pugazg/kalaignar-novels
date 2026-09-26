@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
+**PASS 2B — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisites:
 - Part013 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -124,8 +124,61 @@ Scans **371–375, 377 and 379** required **0** additional Pass2B canonical-body
 - frozen Parts001–012 body mutations — **0**
 - Part014 wording leakage — **0**
 
+## Batch 3 correction ledger — scans381–390
+
+| Scan | Printed page | Before | Source-confirmed after | Classification |
+|---:|---:|---|---|---|
+| 385 | 378 | `நீ இதுவும் பேசுவாய் - இன்னமும் பேசுவாய்!` | **`நீ இதுவும் பேசுவாய்- இன்னமும் பேசுவாய்!`** | source punctuation-spacing correction |
+| 386 | 379 | `என்ற நிலை ஏற்படும்வரையில் - எங்களுக்குள் உடலுறவு` | **`என்ற நிலை ஏற்படும்வரையில்-எங்களுக்குள் உடலுறவு`** | source punctuation-spacing / join correction |
+| 387 | 380 | `வெறுப்பை மாற்றி - கண்டியின் படைகளுக்குத்` | **`வெறுப்பை மாற்றி- கண்டியின் படைகளுக்குத்`** | source punctuation-spacing correction |
+
+Scans **381–384 and 388–390** required **0** additional Pass2B canonical-body corrections.
+
+## Batch 3 source locks reconfirmed
+
+- scan381 resumes scan380 physical split **`அந்தப்` + `பரிதாபத்திற்குரிய`** and ends at **`ஆலோ`**;
+- scan382 resumes **`சனைக்கு`** and preserves source-visible wording and punctuation without normalization;
+- scan383 closes chapter61 `போருக்கான புகைச்சல்!` with substantial intentional blank lower field;
+- scan384 opens displayed chapter62 `ஆண்மகன் அல்லவோ!`, displayed **62**;
+- scan385 preserves source `பேசுவாய்- இன்னமும் பேசுவாய்!` and ends at **`ஆங்கிலேயர் ஆதிக்கம்`**;
+- scan386 resumes that sentence and preserves source `வரையில்-எங்களுக்குள்`, plus `எங்கனும்`, `மலைத்தோள்`, `நானிலம்`, and `பகை முட்டமாகவும்`;
+- scan387 preserves `மாற்றி- கண்டியின்` and the Pass2A punctuation `அது...அது...பியசீலியின்`;
+- scan388 preserves source-visible `தொழுதெழுதாள்` and ends at physical continuation **`அடைத்துப்`**;
+- scan389 resumes **`போட்டு`** and preserves source punctuation **`அனுப்புகிறேன்”.`**;
+- scan390 preserves the substantial intentional blank lower field after the final visible sentence;
+- outgoing **390→391 remains PENDING direct audit**; no Part014 wording or structural conclusion was imported.
+
+## Batch 3 decision
+
+**PASS — scans381–390 independently reviewed.**
+
+- Batch3 additional source-supported corrections — **3**
+- Batch3 correction scans — **385, 386, 387**
+- historical-glyph corrections — **0**
+- unresolved questions — **0**
+- frozen Parts001–012 body mutations — **0**
+- Part014 wording leakage — **0**
+
+## Pass 2B closure
+
+**PART013 PASS 2B — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Batch1 corrections — **3 — scans362, 364, 367**
+- Batch2 corrections — **3 — scans376, 378, 380**
+- Batch3 corrections — **3 — scans385, 386, 387**
+- cumulative Pass2B corrections — **9**
+- correction scans — **362, 364, 367, 376, 378, 380, 385, 386, 387**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- Pass3 — **NOT STARTED / UNBLOCKED**
+
 ## Exact next activity
 
-Proceed with **Part013 Pass2B Batch3 — scans381–390 / local pages21–30 / printed374–383**.
+Perform **Part013 Pass3 Batch1 — direct full-page visual / structural verification of scans361–370 / local1–10 / printed354–363**.
 
-Process exactly **10 source pages**. Keep textual `status: "verified"` and `visual_fidelity: "needs-review"`. Review source-visible lexical forms, spacing, punctuation and historical/source glyph fidelity. Do not begin Pass3 in the same activity.
+Follow the fixed **10 source pages per iteration** cadence. Do not begin Part audit in the same activity. Keep outgoing **390→391 PENDING direct audit**.
