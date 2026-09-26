@@ -38,18 +38,18 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 
 - Parts001–012 — **FINAL CLOSED / FROZEN**
 - Part013 / scans361–390 — **ACTIVE**
-- Part013 canonical Tamil — **30/30 present**
-- Pass1 — **COMPLETE / PASS**
-- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
-- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 9 corrections**
-- Pass3 — **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+- canonical Tamil — **30/30 present**
+- Pass1 — **COMPLETE / PASS — 30/30**
+- Pass2A — **COMPLETE / PASS — 30/30 — 17 corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 — 9 corrections**
+- Pass3 — **COMPLETE / PASS — 30/30**
 - Pass3 textual corrections — **0**
-- unresolved visual / structural questions — **0**
+- unresolved internal Tamil / lexical / glyph / visual / structural questions — **0**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- exact next — **Part013 Pass3 Batch2 scans371–380 / local11–20 / printed364–373**
+- exact next — **Part013 Part audit**
 - Parts014–016 — **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**
 ## Methodology correction
 
