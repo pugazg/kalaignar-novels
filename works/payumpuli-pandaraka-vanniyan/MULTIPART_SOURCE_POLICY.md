@@ -35,15 +35,17 @@ For every `N→N+1` boundary:
 
 ## Current authoritative frontier — Part014
 
-- 16 / 16 split PDFs — **SUPPLIED / REGISTERED**
 - Parts001–013 — **FINAL CLOSED / FROZEN**
-- Part014 / scans391–420 — **NEXT ACTIVE / AUTHORIZED**
+- Part014 / scans391–420 — **PASS1 IN PROGRESS / BATCH2 COMPLETE**
+- canonical records — **20/30**
+- completed Pass1 scans — **391–410**
+- observed printed folios through scan410 — **384–404**
+- scan403 — **two-folio spread / printed396–397**
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **420→421 — PENDING direct audit**
-- canonical Part014 records — **0**
-- audited multipart split boundaries — **13/15**
+- Pass2A — **BLOCKED UNTIL PASS1 COMPLETE**
 - Parts015–016 — **SUPPLIED / REGISTERED / WAITING**
-- exact next — **Part014 Pass1 Batch1 scans391–400**
+- exact next — **Part014 Pass1 Batch3 scans411–420**
 
 ## Historical accumulated state
 
@@ -1456,3 +1458,14 @@ Durable progress:
 - durable closure — `PART_013_FINAL_CLOSURE.md`
 - Part014 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
 - exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
+
+## Part014 printed-folio handling
+
+Direct source review established that scan403 contains **two printed folios (396 and397)**. Therefore Part014 printed pagination is source-observed, not derived by scan arithmetic. Every later Part014 record must capture the printed folio visible on the rendered scan.
+
+## Part014 Pass1 Batch2 checkpoint
+
+- scans391–410 — **20/30 TEXT-COMPLETE**
+- canonical records — **20/30**
+- observed printed folios through scan410 — **384–404**
+- exact next — **Pass1 Batch3 scans411–420**
