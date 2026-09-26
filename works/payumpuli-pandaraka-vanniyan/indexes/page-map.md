@@ -406,16 +406,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 014 | 8 | 398 | 391 | `அதிர்ந்தது போர்முரசு!` continuation; surrender-strategy discussion | needs-review | `pages/0398-athirndhathu-pormurasu.md` |
 | 014 | 9 | 399 | 392 | `அதிர்ந்தது போர்முரசு!` continuation; proposed Kandyan abdication / transfer plan | needs-review | `pages/0399-athirndhathu-pormurasu.md` |
 | 014 | 10 | 400 | 393 | `அதிர்ந்தது போர்முரசு!` continuation; ends mid-sentence at `என்பதை` | needs-review | `pages/0400-athirndhathu-pormurasu.md` |
-| 014 | 11 | 401 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 12 | 402 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 13 | 403 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 14 | 404 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 15 | 405 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 16 | 406 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 17 | 407 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 18 | 408 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 19 | 409 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 20 | 410 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 11 | 401 | 394 | chapter64 `அதிர்ந்தது போர்முரசு!` continuation / close; scan402 opens chapter65 | needs-review | `pages/0401-athirndhathu-pormurasu.md` |
+| 014 | 12 | 402 | 395 | chapter65 opening `கண்டிக்குள் களம்!`; displayed number65; ends `எனக்குப் போட்டியாக` | needs-review | `pages/0402-kandikkul-kalam.md` |
+| 014 | 13 | 403 | 396–397 | two-folio spread; `கண்டிக்குள் களம்!`; printed396 resumes scan402; printed397 ends `ஆனால் மெக்டோவலின் படை` | needs-review | `pages/0403-kandikkul-kalam.md` |
+| 014 | 14 | 404 | 398 | `கண்டிக்குள் களம்!` continuation; resumes `நுழையும்போது`; ends quoted continuation `விட்டுக் கொடுத்து` | needs-review | `pages/0404-kandikkul-kalam.md` |
+| 014 | 15 | 405 | 399 | `கண்டிக்குள் களம்!` continuation; leading hyphen resumes scan404 quotation | needs-review | `pages/0405-kandikkul-kalam.md` |
+| 014 | 16 | 406 | 400 | `கண்டிக்குள் களம்!` continuation; ends quoted sentence at `கண்டியின்` | needs-review | `pages/0406-kandikkul-kalam.md` |
+| 014 | 17 | 407 | 401 | `கண்டிக்குள் களம்!` continuation; resumes `உதவிக்கு`; ends `ஒரு வழியாக` | needs-review | `pages/0407-kandikkul-kalam.md` |
+| 014 | 18 | 408 | 402 | chapter65 `கண்டிக்குள் களம்!` close; substantial intentional blank lower field | needs-review | `pages/0408-kandikkul-kalam.md` |
+| 014 | 19 | 409 | 403 | chapter66 opening `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!`; displayed number66 | needs-review | `pages/0409-vellaik-kodiyum-vetri-vizhavum.md` |
+| 014 | 20 | 410 | 404 | chapter66 continuation; ends open dialogue at `உங்கள்` | needs-review | `pages/0410-vellaik-kodiyum-vetri-vizhavum.md` |
 | 014 | 21 | 411 | — | unclassified — direct visual audit pending | not-started | — |
 | 014 | 22 | 412 | — | unclassified — direct visual audit pending | not-started | — |
 | 014 | 23 | 413 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1616,3 +1616,20 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - outgoing **420→421 — PENDING direct audit**
 - unresolved Pass1 source-reading holds — **0**
 - exact next — **Part014 Pass1 Batch2 scans401–410 / local11–20 / printed394–403**
+
+## Part014 Pass1 Batch2 checkpoint
+
+**PART014 PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE.**
+
+- scans401–410 / local11–20 — **TEXT-COMPLETE**
+- observed printed folios — **394–404**
+- source-layout anomaly — **scan403 is a two-folio spread carrying printed396–397**
+- canonical Part014 records — **20/30**
+- textual / visual status — **20/20 needs-review / 20/20 needs-review**
+- chapter64 `அதிர்ந்தது போர்முரசு!` — closes401
+- chapter65 `கண்டிக்குள் களம்!` — opens402 / closes408
+- chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!` — opens409 / continues410
+- scan410 ends inside open dialogue at `உங்கள்`
+- unresolved Pass1 source-reading holds — **0**
+- exact next — **Part014 Pass1 Batch3 scans411–420 / local21–30**
+- printed folios for Batch3 must be read directly from source; do not assume one-folio-per-scan
