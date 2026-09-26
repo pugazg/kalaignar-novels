@@ -34,22 +34,18 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 | boundary witnesses available | **PASS** |
 | boundary classifications | **12/15 audited — through 360→361** |
 
-## Current live frontier — Part013
+## Current live frontier — Part014
 
-- Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 Tamil / assembled — **30/30 verified / 5/5 CLOSED**
-- English planning/setup — **COMPLETE / PASS**
-- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE**
-- scans translated/source-checked — **361–390 / 30**
-- source-boundary marker parity — **25/25 / PASS**
-- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
-- canonical / assembled Tamil edits — **0 / 0**
-- frozen Parts001–012 English body edits — **0**
-- unresolved batch-level holds — **0**
-- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **390→391 — PENDING direct audit**
-- Part014 leakage — **0**
-- exact next — **Part013 whole-Part glossary reconciliation across E70–E74**
+- Parts001–013 — **FINAL CLOSED / FROZEN**
+- Part014 / scans391–420 — **NEXT ACTIVE / AUTHORIZED**
+- source SHA-256 — `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- scan391 opens displayed chapter63 `மாறுவேட மருத்துவர்!`
+- outgoing **420→421 — PENDING direct audit**
+- canonical records — **0**
+- Pass1 — **NOT STARTED**
+- audited multipart split boundaries — **13/15**
+- exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
 ## Methodology correction
 
 Earlier work drifted into an **inventory-only forward progression** and prematurely created Part002 records for scans31–35.
@@ -2737,3 +2733,14 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Part014 leakage — **0**
 - unresolved batch holds — **0**
 - exact next — **Part013 whole-Part glossary reconciliation**
+
+## Part013 outgoing boundary + final closure
+
+- **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- audited multipart split boundaries — **13/15**
+- Part013 release/readiness — **PASS / CLOSED**
+- Part013 release-ready synchronization — **PASS / CLOSED**
+- **PART013 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+- Parts001–013 — **FINAL CLOSED / FROZEN**
+- Part014 — **NEXT ACTIVE / AUTHORIZED**
+- exact next — **Part014 Pass1 Batch1 scans391–400**
