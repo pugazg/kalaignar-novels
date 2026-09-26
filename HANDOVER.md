@@ -10,18 +10,22 @@
 ## Current live frontier — Part014
 
 - Parts001–013 — **FINAL CLOSED / FROZEN**
-- Part014 / scans391–420 — **PASS1 IN PROGRESS**
-- Batch1 scans391–400 / local1–10 / printed384–393 — **COMPLETE / TEXT-COMPLETE**
-- canonical Part014 records — **10/30**
+- Part014 / scans391–420 — **PASS1 IN PROGRESS / BATCH2 COMPLETE**
+- Batch1 scans391–400 — **10/10 TEXT-COMPLETE**
+- Batch2 scans401–410 — **10/10 TEXT-COMPLETE**
+- canonical Part014 records — **20/30**
+- observed printed folios through scan410 — **384–404**
+- scan403 — **two-folio spread / printed396–397**
 - textual / visual status — **needs-review / needs-review**
 - unresolved Pass1 source-reading holds — **0**
-- chapter63 `மாறுவேட மருத்துவர்!` — opens391 / closes395
-- chapter64 `அதிர்ந்தது போர்முரசு!` — opens396 / continues400
-- scan400 terminal state — **mid-sentence at `என்பதை`**
+- chapter64 closes401
+- chapter65 `கண்டிக்குள் களம்!` — opens402 / closes408
+- chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!` — opens409 / continues410
+- scan410 terminal state — **open dialogue at `உங்கள்`**
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **420→421 — PENDING direct audit**
 - Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
-- exact next — **Part014 Pass1 Batch2 scans401–410 / local11–20 / printed394–403**
+- exact next — **Part014 Pass1 Batch3 scans411–420 / local21–30**
 ## Source family
 
 - TVA_BOK_0065744
@@ -2673,3 +2677,17 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - chapter63 closes395; chapter64 opens396 and continues400
 - scan400 ends at `என்பதை`
 - exact next — **Pass1 Batch2 scans401–410**
+
+## Part014 Pass1 Batch2 checkpoint
+
+**PART014 PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE.**
+
+- scans401–410 / local11–20 — **COMPLETE**
+- observed printed folios — **394–404**
+- scan403 — **two-folio spread / printed396–397**
+- canonical records — **20/30**
+- unresolved Pass1 source-reading holds — **0**
+- chapter65 opens402 / closes408
+- chapter66 opens409 / continues410
+- scan410 ends at `உங்கள்`
+- exact next — **Pass1 Batch3 scans411–420**
