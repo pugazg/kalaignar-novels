@@ -6,11 +6,11 @@ printed_page: 394
 work: "payumpuli-pandaraka-vanniyan"
 section: "அதிர்ந்தது போர்முரசு!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans401–410"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans401–410; formal Part014 Pass 2A reviewed"
 ---
 
 # அதிர்ந்தது போர்முரசு!
@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 
 பண்டாரகன் பல்லைக் கடித்துக் கொண்டே பிலிமதளாவையின் மீது சினத்தைப் பொழிந்தான்
 
-“ஆங்கிலேய ஆதிக்கத்தை எதிர்ப்பவர் என்று கண்டி மக்களை நம்பச் செய்திருக்கிறார்! இப்போது கண்டியைக் காட்டிக் கொடுத்த பழியை என் மீது போட்டுவிட்டு அவர் பரங்கியருக்கு எடுபிடியாக கண்டியின் பரிபாலனத்தை ஏற்கப் போகிறார்!”
+“ஆங்கிலேய ஆதிக்கத்தை எதிர்ப்பவர்” என்று கண்டி மக்களை நம்பச் செய்திருக்கிறார்! இப்போது கண்டியைக் காட்டிக் கொடுத்த பழியை என் மீது போட்டுவிட்டு அவர் பரங்கியருக்கு எடுபிடியாக கண்டியின் பரிபாலனத்தை ஏற்கப் போகிறார்!”
 
 “அப்படி ஒரு நினைப்பு அவருக்கு! என் யோசனையை நீ கேட்டு, அதன்படி நடந்து கொண்டதால் அவரும் நம்பிப் போயிருக்கிறார்! ஆனால் நடப்பது வேறாக இருக்கப் போகிறதே!”
 
@@ -50,4 +50,16 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 401; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 11; அச்சுப் பக்கம்: 394; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+
+## Formal Part014 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part014 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `“ஆங்கிலேய ஆதிக்கத்தை எதிர்ப்பவர் என்று` → **`“ஆங்கிலேய ஆதிக்கத்தை எதிர்ப்பவர்” என்று`** — source quotation-mark correction;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 401; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 11; அச்சுப் பக்கம்: 394; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
