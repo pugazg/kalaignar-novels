@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_013_pages_361-390.pdf"
-transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans361–370; formal Part013 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans361–370; formal Part013 Pass 2A reviewed; formal Part013 Pass 2B reviewed"
 ---
 
 # அதிலே இது ஒன்று!
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 
 தத்தை உறிஞ்சிக் குடிக்க வேண்டும். இந்த அழகியின் ரத்தத்தோடு கலந்த மது - அடடா, எவ்வளவு ருசியாக இருக்கும்!” என்று கூறிச் சிரித்தான். அது சாதாரண சிரிப்பாகத் தெரியவில்லை. வெறிச் சிரிப்பாக இருந்தது. பியசீலி பீதியடைந்தாள். அதனால் அந்தத் தரையில் உருண்டு புரண்டு சற்று தொலைவாகச் சென்றாள். அவனும் அவ்வாறே உருண்டு போய் அவளைத் தழுவிக்கொண்டு அழுத்திப் பிடித்து வளைத்துக் கொண்டான். போதையில் அழுந்தியிருந்த பியசீலி, “பிரபோ! என் ரத்தத்தை எப்படி உறிஞ்ச முடியும் உங்களால்?” என்று தழுதழுத்தாள்! அப்போதும் அவள் அவனை அணைத்துக் கொண்டுதான் இருந்தாள். இருவருக்குமே என்ன செய்கிறோம் என்று தெரியவில்லை. காம வெறிக் கூத்தின் கடைசிக் காட்சி “ருத்ர தாண்டவ”மாகவே அமைந்துவிட்டது!
 
-“எப்படி உறிஞ்ச முடியும் என்றா கேட்கிறாய்? அடிப்பைத்தியமே! உங்கள் கிருஷ்ண பரமாத்மா, பூதகியின் ரத்தத்தை எப்படி உறிஞ்சினாரோ - அப்படி உறிஞ்சப் போகிறேன்!”
+“எப்படி உறிஞ்ச முடியும் என்றா கேட்கிறாய்? அடி பைத்தியமே! உங்கள் கிருஷ்ண பரமாத்மா, பூதகியின் ரத்தத்தை எப்படி உறிஞ்சினாரோ - அப்படி உறிஞ்சப் போகிறேன்!”
 
 என்று வெறித்தனமாக சிரித்துக்கொண்டே அவள் மார்பகத்தில் முரட்டுத்தனமாக முத்தமிட்டான். “ஓ! முத்தம் தானா?” என்று பியசீலியும் அந்த இன்பத்தை ரசிக்கலானாள்!
 
@@ -44,4 +44,17 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 362; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: 355; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+## Formal Part013 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part013 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- source-confirmed correction: `அடிப்பைத்தியமே!` → **`அடி பைத்தியமே!`** — lexical / source word-boundary correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 362; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: 355; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
