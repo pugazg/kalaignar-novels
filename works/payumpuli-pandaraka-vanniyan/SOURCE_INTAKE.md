@@ -76,17 +76,15 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 ## Current state
 
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
-- assembled Tamil — **5/5 VERIFIED / CLOSED**
+- Part013 Tamil / assembled — **30/30 verified / 5/5 CLOSED**
 - English planning/setup — **COMPLETE / PASS**
-- reserved English sequence — **E70–E74**
-- reserved English sections — **73–77**
-- translated / source-checked — **0/5 / 0/5**
-- batch / section collisions — **0 / 0**
-- unresolved planning holds — **0**
+- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE**
+- physical source coverage — **361–390 / 30**
+- source-boundary parity — **25/25 / PASS**
+- unresolved English batch holds — **0**
 - incoming 360→361 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing 390→391 — **PENDING direct audit**
-- exact next — **E70 draft + source-check — section73 / scans361–365**
+- exact next — **Part013 whole-Part glossary reconciliation**
 - Parts014–016 — **SUPPLIED / REGISTERED / WAITING**
 
 
