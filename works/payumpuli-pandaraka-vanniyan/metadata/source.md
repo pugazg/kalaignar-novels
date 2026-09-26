@@ -78,13 +78,15 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 ## Current processing frontier
 
 - Parts001–013 — **FINAL CLOSED / FROZEN**
-- Part014 / scans391–420 — **PASS1 IN PROGRESS**
+- Part014 / scans391–420 — **PASS1 IN PROGRESS / BATCH2 COMPLETE**
 - source SHA-256 — `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`
-- canonical Part014 records — **10/30**
-- completed Pass1 scans — **391–400**
+- canonical Part014 records — **20/30**
+- completed Pass1 scans — **391–410**
+- observed printed folios through scan410 — **384–404**
+- scan403 — **two-folio spread / printed396–397**
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **420→421 — PENDING direct audit**
-- exact next — **Part014 Pass1 Batch2 scans401–410**
+- exact next — **Part014 Pass1 Batch3 scans411–420**
 
 
 ## User-supplied descriptive note
