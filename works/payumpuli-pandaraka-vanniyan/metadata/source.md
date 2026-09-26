@@ -78,16 +78,14 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 ## Current processing frontier
 
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 Tamil / visual — **30/30 verified / 30/30 verified**
-- assembled Tamil — **5/5 VERIFIED / CLOSED**
-- English planning/setup — **COMPLETE / PASS**
-- reserved English batches — **E70–E74**
-- reserved English sections — **73–77**
-- translated / source-checked — **0/5 / 0/5**
-- unresolved planning holds — **0**
+- Part013 Tamil / assembled — **30/30 verified / 5/5 CLOSED**
+- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE**
+- physical source coverage — **361–390 / 30**
+- source-boundary marker parity — **25/25 / PASS**
+- unresolved English batch holds — **0**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- exact next — **E70 draft + source-check — section73 / scans361–365**
+- exact next — **Part013 whole-Part glossary reconciliation**
 
 
 ## User-supplied descriptive note
