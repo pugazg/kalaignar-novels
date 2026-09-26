@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Parts001–012 are **FINAL CLOSED / FROZEN**. Part013 English planning/setup is **COMPLETE / PASS — E70 NEXT**. Parts014–016 remain **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**.
+Parts001–012 are **FINAL CLOSED / FROZEN**. Part013 English batches **E70–E74 are 5/5 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**. Parts014–016 remain **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**.
 
 ## Tamil Part workflow
 
@@ -52,13 +52,13 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
 - assembled Tamil — **5/5 VERIFIED / CLOSED**
 - English planning/setup — **COMPLETE / PASS**
-- reserved batches — **E70–E74**
-- reserved English sections — **73–77**
-- translated / source-checked — **0/5 / 0/5**
-- collisions / unresolved planning holds — **0 / 0**
+- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE**
+- scans translated/source-checked — **361–390 / 30**
+- source-boundary parity — **25/25 / PASS**
+- unresolved batch holds — **0**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- exact next — **E70 draft + source-check — section73 / scans361–365**
+- exact next — **Part013 whole-Part glossary reconciliation**
 
 ## Historical accumulated Part frontier
 
@@ -1520,3 +1520,21 @@ Exact next gate: **Part011 English translation planning/setup**. Perform a live 
 - active controls — `translations/en/PART_013_TRANSLATION_PLAN.md`, `PART_013_GLOSSARY.md`, `PART_013_PROGRESS.md`
 - exact next gate — **E70 draft + source-check — section73 / scans361–365**
 - do not begin E71 until E70 is **SOURCE-CHECKED / COMPLETE**
+
+## Part013 E70–E74 English batch closure
+
+**PART013 ENGLISH BATCHES — 5/5 SOURCE-CHECKED / COMPLETE.**
+
+- user-authorized override — **process all pages**
+- maintained English files — **5/5**
+- source-check controls — **E70–E74 / 5/5**
+- physical source coverage — **361–390 / 30**
+- source-boundary marker parity — **25/25 / PASS**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–012 English body edits — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- Part014 translation / paraphrase / semantic completion — **0**
+- unresolved batch-level holds — **0**
+- exact next gate — **Part013 whole-Part glossary reconciliation across E70–E74**
