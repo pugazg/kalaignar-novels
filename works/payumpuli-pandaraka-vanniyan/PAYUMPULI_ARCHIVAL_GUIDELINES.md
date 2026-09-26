@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Parts001–012 are **FINAL CLOSED / FROZEN**. Part013 English batches **E70–E74 are 5/5 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**. Parts014–016 remain **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**.
+Parts001–013 are **FINAL CLOSED / FROZEN**. Part014 is **NEXT ACTIVE / AUTHORIZED — PASS1 NEXT**. Parts015–016 remain **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**.
 
 ## Tamil Part workflow
 
@@ -47,18 +47,16 @@ Audited:
 
 For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were directly compared. No scan60 correction was needed and no Part003 canonical text was imported.
 
-## Current authoritative frontier — Part013
+## Current authoritative frontier — Part014
 
-- canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
-- assembled Tamil — **5/5 VERIFIED / CLOSED**
-- English planning/setup — **COMPLETE / PASS**
-- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE**
-- scans translated/source-checked — **361–390 / 30**
-- source-boundary parity — **25/25 / PASS**
-- unresolved batch holds — **0**
-- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **390→391 — PENDING direct audit**
-- exact next — **Part013 whole-Part glossary reconciliation**
+- Parts001–013 — **FINAL CLOSED / FROZEN**
+- Part014 / scans391–420 — **NEXT ACTIVE / AUTHORIZED**
+- source SHA-256 — `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- scan391 opens chapter63 `மாறுவேட மருத்துவர்!`
+- outgoing **420→421 — PENDING direct audit**
+- canonical Part014 records — **0**
+- exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
 
 ## Historical accumulated Part frontier
 
@@ -1538,3 +1536,24 @@ Exact next gate: **Part011 English translation planning/setup**. Perform a live 
 - Part014 translation / paraphrase / semantic completion — **0**
 - unresolved batch-level holds — **0**
 - exact next gate — **Part013 whole-Part glossary reconciliation across E70–E74**
+
+## Part013 final closure / Part014 frontier
+
+**PART013 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–013 — **FINAL CLOSED / FROZEN**
+- Part013 canonical Tamil / visual fidelity — **30/30 verified / frozen**
+- assembled Tamil — **5/5 VERIFIED / frozen**
+- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- unresolved Part013 blockers — **0**
+- Part014 leakage — **0**
+- durable closure — `PART_013_FINAL_CLOSURE.md`
+- Part014 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
