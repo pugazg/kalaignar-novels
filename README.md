@@ -6,16 +6,15 @@
 
 - work directory: `works/payumpuli-pandaraka-vanniyan/`
 - source family: **TVA_BOK_0065744**
-- complete physical extent: **477 scans**
-- split source: **16/16 supplied / registered**
 - Parts001–013 — **FINAL CLOSED / FROZEN**
-- Part014 / scans391–420 — **NEXT ACTIVE / AUTHORIZED**
-- Part014 source SHA-256 — `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`
+- Part014 — **PASS1 IN PROGRESS**
+- scans391–400 — **10/10 TEXT-COMPLETE**
+- canonical Part014 records — **10/30**
+- chapter63 `மாறுவேட மருத்துவர்!` — opens391 / closes395
+- chapter64 `அதிர்ந்தது போர்முரசு!` — opens396 / continues400
 - incoming 390→391 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- scan391 opens chapter63 `மாறுவேட மருத்துவர்!`
 - outgoing 420→421 — **PENDING direct audit**
-- Part014 canonical records — **0**
-- exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
+- exact next — **Part014 Pass1 Batch2 scans401–410 / local11–20**
 
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
