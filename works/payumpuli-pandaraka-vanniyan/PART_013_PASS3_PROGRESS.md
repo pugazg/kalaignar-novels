@@ -135,3 +135,18 @@ Do not perform final metadata/status synchronization in the same audit gate.
 - durable audit — `PART_013_AUDIT.md`
 - exact next gate — **Part013 final metadata/status synchronization**
 - next gate may promote only `visual_fidelity: needs-review → verified` across the 30 audited Part013 records; do not alter Tamil body text
+
+## Part013 final metadata/status synchronization checkpoint
+
+**PART013 FINAL METADATA / STATUS SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical Part013 records — **30/30**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- visual-fidelity promotions — **30**
+- canonical Tamil body changes — **0**
+- unresolved page-status exceptions — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- durable record — `PART_013_FINAL_STATUS_SYNC.md`
+- exact next — **Part013 documentation synchronization**
