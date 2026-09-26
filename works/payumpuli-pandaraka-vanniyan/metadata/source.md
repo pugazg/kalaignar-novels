@@ -79,17 +79,17 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 
 - Parts001–012 — **FINAL CLOSED / FROZEN**
 - Part013 / scans361–390 — **ACTIVE**
-- Part013 Pass1 — **COMPLETE / PASS**
-- Part013 Pass2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part013 Pass2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part013 Pass3 — **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+- Pass1 — **COMPLETE / PASS — 30/30**
+- Pass2A — **COMPLETE / PASS — 30/30 — 17 corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 — 9 corrections**
+- Pass3 — **COMPLETE / PASS — 30/30**
 - Pass3 textual corrections — **0**
-- unresolved visual / structural questions — **0**
+- unresolved internal Tamil / lexical / glyph / visual / structural questions — **0**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- exact next — **Part013 Pass3 Batch2 scans371–380**
+- exact next — **Part013 Part audit**
 - Part014 SHA-256 — `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`
 - Part015 SHA-256 — `2efbc6088e061e4d145a8f2bc9c63936ef3e20ea6e63e8734edc88507e5c37a0`
 - Part016 SHA-256 — `82ca2020407e0996abfa2d3b29a192c56419f3f7da22a5a9d3d5dd5b8f9c3c6c`
