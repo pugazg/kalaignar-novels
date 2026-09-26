@@ -1444,3 +1444,18 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - visual fidelity — **30/30 needs-review**
 - outgoing **390→391 — PENDING direct audit**
 - exact next — **Part013 Pass2B Batch3 scans381–390 / local21–30 / printed374–383**
+
+## Part013 Pass2B closure checkpoint
+
+**PART013 PASS 2B — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Batch3 scans381–390 / local21–30 / printed374–383 — **REVIEWED / PASS**
+- Batch3 additional source-supported corrections — **3**
+- cumulative Pass2B corrections — **9**
+- correction scans — **362, 364, 367, 376, 378, 380, 385, 386, 387**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **390→391 — PENDING direct audit**
+- exact next — **Part013 Pass3 Batch1 scans361–370 / local1–10 / printed354–363**
