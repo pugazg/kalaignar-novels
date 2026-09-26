@@ -78,19 +78,17 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - split registration — **16/16 COMPLETE**
 - physical coverage by split ranges — **477/477**
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- active content Part — **Part013 / scans361–390**
+- active content Part — **Part013 / scans361–390 — AUDITED**
 - canonical records — **30/30 present**
-- Pass1 — **COMPLETE / PASS — 30/30**
-- Pass2A — **COMPLETE / PASS — 30/30 — 17 corrections**
-- Pass2B — **COMPLETE / PASS — 30/30 — 9 corrections**
-- Pass3 — **COMPLETE / PASS — 30/30**
-- Pass3 textual corrections — **0**
-- unresolved internal Tamil / lexical / glyph / visual / structural questions — **0**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- correction accounting — **Pass2A 17 / Pass2B 9 / Pass3 0**
+- unresolved internal issues — **0**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - incoming 360→361 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing 390→391 — **PENDING direct audit**
-- exact next — **Part013 Part audit**
+- exact next — **Part013 final metadata/status synchronization**
 - Parts014–016 — **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**
 
 
