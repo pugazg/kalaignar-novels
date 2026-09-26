@@ -213,3 +213,22 @@ Perform **Part013 final metadata/status synchronization**.
 Promote only `visual_fidelity` from `needs-review` to `verified` across the 30 audited Part013 canonical records. Textual `status` is already `verified`.
 
 Do not change Tamil body text, punctuation, structure, provenance, pagination, page type, section labels, correction-ledger decisions or boundary classifications.
+
+## Part013 final metadata/status synchronization checkpoint
+
+**PART013 FINAL METADATA / STATUS SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical Part013 records — **30/30 — scans361–390**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- visual-fidelity promotions — **30**
+- canonical Tamil body changes — **0**
+- textual-status promotions — **0**
+- provenance / pagination / section / boundary changes — **0**
+- partial / source-limited / needs-review — **0 / 0 / 0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit / unchanged**
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- durable record — `PART_013_FINAL_STATUS_SYNC.md`
+- exact next gate — **Part013 documentation synchronization**
+- do not begin Tamil archival-ready checkpoint or assembled Tamil construction in the same activity
