@@ -6,11 +6,11 @@ printed_page: 390
 work: "payumpuli-pandaraka-vanniyan"
 section: "அதிர்ந்தது போர்முரசு!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans391–400"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans391–400; formal Part014 Pass 2A reviewed"
 ---
 
 # அதிர்ந்தது போர்முரசு!
@@ -27,7 +27,7 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 
 “ஆமாம்! எனக்குக்கூட ஆச்சரியமாக இருக்கிறது. நண்பன் என்னை இப்படி நட்டாற்றில் விடுவான் என்று நான் எதிர்பார்க்கவே இல்லை!”
 
-“உங்கள் நட்பும், மண்ணாங்கட்டியும்! அவன் எப்படியும் கண்டிக்குத் துணைவருவான் என்று எதிர்பார்த்துத்தான் நான் ஆங்கிலேயருடன் மோதுவதற்குத் தயாரானேன்! இப்போது என்ன செய்வது என்றே தெரியவில்லை.”
+“உங்கள் நட்பும், மண்ணாங்கட்டியும்! அவன் எப்படியும் கண்டிக்குத் துணைவருவான் என்று எதிர்பார்த்துத்தான் நான் ஆங்கிலேயருடன் மோதுவதற்குத் தயார் ஆனேன்! இப்போது என்ன செய்வது என்றே தெரியவில்லை.”
 
 “நான் மிக நன்றாகச் சிந்தித்து ஒரு முடிவுக்கு வந்திருக்கிறேன். நான் செய்துள்ள முடிவைத் தாங்கள் ஏற்றுக் கொள்வதாக இருந்தால் சொல்லுகிறேன்!”
 
@@ -50,4 +50,16 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 397; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 390; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+
+## Formal Part014 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part014 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `தயாரானேன்` → **`தயார் ஆனேன்`** — source spacing / word-boundary correction;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 397; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 390; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
