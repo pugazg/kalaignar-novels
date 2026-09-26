@@ -239,3 +239,21 @@ Part001 now has:
 **release/readiness report**
 
 Create and complete `RELEASE_REPORT.md` only in the next gate. Do not begin release-ready synchronization, final Part001 closure or Part002 transcription until the release/readiness gate closes.
+
+## Part013 final closure checkpoint
+
+**PART013 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- maintained English body changes after E70–E74 source-check closure — **0**
+- unresolved Part013 English / release blockers — **0**
+- outgoing **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- Part014 English body leakage — **0**
+- durable final closure — `../../PART_013_FINAL_CLOSURE.md`
+- English frontier — **E74 CLOSED**
+- next active work — **Part014 Tamil Pass1, not English**
