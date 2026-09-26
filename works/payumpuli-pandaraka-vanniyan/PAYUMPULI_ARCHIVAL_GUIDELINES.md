@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Parts001–012 are **FINAL CLOSED / FROZEN**. Part013 is **TAMIL ARCHIVAL-READY / CLOSED — ASSEMBLED TAMIL NEXT**. Parts014–016 remain **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**.
+Parts001–012 are **FINAL CLOSED / FROZEN**. Part013 is **ASSEMBLED TAMIL / CLOSED — ENGLISH PLANNING NEXT**. Parts014–016 remain **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**.
 
 ## Tamil Part workflow
 
@@ -55,13 +55,13 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 - final metadata/status synchronization — **PASS / CLOSED**
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
-- planned assembled section range — **73–77 / 5**
-- live section-order collisions — **0**
-- unresolved Tamil / visual / documentation blockers — **0**
+- assembled Tamil — **5/5 VERIFIED / CLOSED**
+- assembled section range — **73–77**
+- assembled canonical coverage — **30/30**
+- unresolved assembly blockers — **0**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- exact next — **Part013 assembled Tamil construction + audit — sections73–77**
-- do not begin English translation planning until assembled Tamil validation closes
+- exact next — **Part013 English translation planning/setup**
 
 ## Historical accumulated Part frontier
 
@@ -1481,3 +1481,23 @@ Exact next gate: **Part011 English translation planning/setup**. Perform a live 
 - durable record — `PART_013_TAMIL_ARCHIVAL_READY.md`
 - exact next activity — **Part013 assembled Tamil construction + audit — sections73–77**
 - do not begin English translation planning until assembled Tamil validation closes
+
+## Part013 assembled Tamil closure checkpoint
+
+**PART013 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED.**
+
+- canonical Part013 Tamil / visual fidelity — **30/30 verified / 30/30 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **5/5 VERIFIED / CLOSED**
+- assembled section range — **73–77**
+- assembled canonical coverage — **30/30 scans361–390**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- workflow/audit-note leakage — **0**
+- frozen Parts001–012 assembled-file mutations — **0**
+- Part014 body leakage — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- unresolved assembly blockers — **0**
+- durable validation — `PART_013_ASSEMBLED_TAMIL_VALIDATION.md`
+- exact next gate — **Part013 English translation planning/setup**
