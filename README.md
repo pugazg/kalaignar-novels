@@ -1953,3 +1953,27 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Pass2B / Pass3 — **NOT STARTED**
 - durable progress — `PART_014_PASS2A_PROGRESS.md`
 - exact next — **Part014 Pass2A Batch2 scans401–410 / local11–20 / observed printed folios394–404**
+
+## Part014 Pass2A Batch2 checkpoint
+
+**PART014 PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED.**
+
+- scans401–410 / local11–20 — **REVIEWED / PASS**
+- observed printed folios — **394–404**, with scan403 carrying **396–397**
+- textual status — **20/30 verified / 10/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- Batch2 corrections — **10**
+- cumulative Pass2A corrections — **18**
+- Batch2 correction scans — **401, 407, 408, 409, 410**
+- scan401 — source quotation mark restored after `எதிர்ப்பவர்`
+- scan407 — `விசிய` → **`வீசிய`**
+- scan408 — `திட்டமிட்டான்` → **`திட்ட மிட்டான்`**
+- scans409–410 — source name form corrected to **`மேட்ஜ் / மேட்ஜின்`**
+- scans402–406 — **no canonical-body correction**
+- unresolved textual questions — **0**
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- Part015 canonical records created — **0**
+- Pass2B / Pass3 — **NOT STARTED**
+- durable progress — `PART_014_PASS2A_PROGRESS.md`
+- exact next — **Part014 Pass2A Batch3 scans411–420 / local21–30 / printed405–414**
