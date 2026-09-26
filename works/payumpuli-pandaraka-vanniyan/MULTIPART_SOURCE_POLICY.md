@@ -36,16 +36,15 @@ For every `N→N+1` boundary:
 ## Current authoritative frontier — Part013
 
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 assembled Tamil — **5/5 VERIFIED / CLOSED**
-- English planning/setup — **COMPLETE / PASS**
-- reserved English batches — **E70–E74**
-- reserved English section range — **73–77**
-- translated / source-checked — **0/5 / 0/5**
-- collisions / unresolved planning holds — **0 / 0**
+- Part013 Tamil / assembled — **30/30 verified / 5/5 CLOSED**
+- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE**
+- physical coverage — **361–390 / 30**
+- source-boundary parity — **25/25 / PASS**
+- unresolved batch holds — **0**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
 - Parts014–016 — **SUPPLIED / REGISTERED / WAITING**
-- exact next — **E70 draft + source-check — section73 / scans361–365**
+- exact next — **Part013 whole-Part glossary reconciliation**
 
 ## Historical accumulated state
 
@@ -1419,3 +1418,21 @@ Durable progress:
 - active controls — `translations/en/PART_013_TRANSLATION_PLAN.md`, `PART_013_GLOSSARY.md`, `PART_013_PROGRESS.md`
 - exact next gate — **E70 draft + source-check — section73 / scans361–365**
 - do not begin E71 until E70 is **SOURCE-CHECKED / COMPLETE**
+
+## Part013 E70–E74 English batch closure
+
+**PART013 ENGLISH BATCHES — 5/5 SOURCE-CHECKED / COMPLETE.**
+
+- user-authorized override — **process all pages**
+- maintained English files — **5/5**
+- source-check controls — **E70–E74 / 5/5**
+- physical source coverage — **361–390 / 30**
+- source-boundary marker parity — **25/25 / PASS**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–012 English body edits — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- Part014 translation / paraphrase / semantic completion — **0**
+- unresolved batch-level holds — **0**
+- exact next gate — **Part013 whole-Part glossary reconciliation across E70–E74**
