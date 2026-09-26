@@ -9,17 +9,18 @@
 - complete physical extent: **477 scans**
 - split source: **16/16 supplied / registered**
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 / scans361–390 — **ACTIVE / FINAL STATUS CLOSED**
+- Part013 / scans361–390 — **DOCUMENTATION SYNCHRONIZED**
 - canonical Tamil — **30/30 verified**
 - visual fidelity — **30/30 verified**
 - Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
-- unresolved internal issues — **0**
+- documentation synchronization — **PASS / COMPLETE**
+- unresolved documentation / Tamil / visual blockers — **0**
 - incoming 360→361 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing 390→391 — **PENDING direct audit**
 - Parts014–016 — **SUPPLIED / REGISTERED / WAITING**
-- exact next — **Part013 documentation synchronization**
+- exact next — **Part013 Tamil archival-ready checkpoint**
 
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
