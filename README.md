@@ -13,15 +13,16 @@
 - canonical Tamil — **30/30 present**
 - Pass1 — **COMPLETE / PASS**
 - Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
-- Pass2B — **IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
-- Pass2B cumulative corrections — **6 — scans362, 364, 367, 376, 378, 380**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED**
+- Pass2B cumulative corrections — **9 — scans362, 364, 367, 376, 378, 380, 385, 386, 387**
 - historical-glyph corrections — **0**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - incoming 360→361 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing 390→391 — **PENDING direct audit**
+- Pass3 — **NOT STARTED / UNBLOCKED**
 - Parts014–016 — **SUPPLIED / REGISTERED / WAITING**
-- exact next — **Part013 Pass2B Batch3 scans381–390 / local21–30 / printed374–383**
+- exact next — **Part013 Pass3 Batch1 scans361–370 / local1–10 / printed354–363**
 
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
