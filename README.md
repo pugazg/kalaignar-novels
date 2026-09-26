@@ -5,15 +5,15 @@
 ## Current active source — பாயும்புலி பண்டாரக வன்னியன்
 
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 Tamil — **30/30 verified / assembled 5/5 CLOSED**
+- Part013 Tamil / assembled — **30/30 verified / 5/5 CLOSED**
 - English planning/setup — **COMPLETE / PASS**
-- reserved Part013 English batches — **E70–E74**
-- reserved English sections — **73–77**
-- translated / source-checked — **0/5 / 0/5**
-- collisions / unresolved planning holds — **0 / 0**
+- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE**
+- scans translated/source-checked — **361–390 / 30**
+- source-boundary parity — **25/25 / PASS**
+- unresolved batch holds — **0**
 - incoming 360→361 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing 390→391 — **PENDING direct audit**
-- exact next — **E70 draft + source-check — section73 / scans361–365**
+- exact next — **Part013 whole-Part glossary reconciliation**
 
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
