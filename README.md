@@ -4,25 +4,16 @@
 
 ## Current active source — பாயும்புலி பண்டாரக வன்னியன்
 
-- work directory: `works/payumpuli-pandaraka-vanniyan/`
-- source family: **TVA_BOK_0065744**
-- complete physical extent: **477 scans**
-- split source: **16/16 supplied / registered**
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 / scans361–390 — **ASSEMBLED TAMIL CLOSED**
-- canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
-- Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **5/5 VERIFIED / CLOSED**
-- assembled section range — **73–77**
-- assembled canonical coverage — **30/30**
+- Part013 Tamil — **30/30 verified / assembled 5/5 CLOSED**
+- English planning/setup — **COMPLETE / PASS**
+- reserved Part013 English batches — **E70–E74**
+- reserved English sections — **73–77**
+- translated / source-checked — **0/5 / 0/5**
+- collisions / unresolved planning holds — **0 / 0**
 - incoming 360→361 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing 390→391 — **PENDING direct audit**
-- Parts014–016 — **SUPPLIED / REGISTERED / WAITING**
-- exact next — **Part013 English translation planning/setup**
+- exact next — **E70 draft + source-check — section73 / scans361–365**
 
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
@@ -1883,3 +1874,15 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Part014 wording leakage — **0**
 - Pass2B / Pass3 — **NOT STARTED**
 - exact next — **Part013 Pass2B Batch1 scans361–370 / local1–10 / printed354–363**
+
+## Part013 English planning/setup checkpoint
+
+**PART013 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- E1–E69 source-check controls — **contiguous**
+- reserved Part013 sequence — **E70–E74 / 5**
+- English section range — **73–77 / 5**
+- batch / section collisions — **0 / 0**
+- translated / source-checked — **0/5 / 0/5**
+- Tamil / frozen prior-English body edits — **0 / 0**
+- exact next — **E70 draft + source-check — section73 / scans361–365**
