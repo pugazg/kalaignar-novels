@@ -42,9 +42,18 @@ The canonical `scan_page` remains the overall scan number **361–390**.
 
 ## Current gate
 
-Part 013 source split: **SUPPLIED / REGISTERED**.
+Part013 is **ACTIVE**.
 
-The global active frontier has now reached Part013. Part013 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**. Incoming **360→361** is now **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**. Part013 Pass1 is authorized at scans361–370.
+- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED**
+- cumulative Pass2A corrections — **17**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- Pass2B / Pass3 — **NOT STARTED**
+- exact next — **Part013 Pass2B Batch1 scans361–370 / local1–10 / printed354–363**
+
 
 ## Part012 final closure / Part013 frontier
 
