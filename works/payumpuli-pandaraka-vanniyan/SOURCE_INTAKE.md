@@ -75,22 +75,19 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 
 ## Current state
 
-- split registration — **16/16 COMPLETE**
-- physical coverage by split ranges — **477/477**
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 / scans361–390 — **ASSEMBLED TAMIL CLOSED**
-- canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit / final status / documentation — **PASS / CLOSED / COMPLETE**
-- Tamil archival-ready — **PASS / CLOSED**
+- Part013 canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
 - assembled Tamil — **5/5 VERIFIED / CLOSED**
-- assembled section range — **73–77**
-- assembled canonical coverage — **30/30**
-- unresolved assembly blockers — **0**
+- English planning/setup — **COMPLETE / PASS**
+- reserved English sequence — **E70–E74**
+- reserved English sections — **73–77**
+- translated / source-checked — **0/5 / 0/5**
+- batch / section collisions — **0 / 0**
+- unresolved planning holds — **0**
 - incoming 360→361 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing 390→391 — **PENDING direct audit**
-- exact next — **Part013 English translation planning/setup**
-- Parts014–016 — **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**
+- exact next — **E70 draft + source-check — section73 / scans361–365**
+- Parts014–016 — **SUPPLIED / REGISTERED / WAITING**
 
 
 ## Part005 final state
@@ -1412,3 +1409,15 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - canonical page/body/status changes — **0**
 - durable record — `PART_013_DOCUMENTATION_SYNC.md`
 - exact next — **Part013 Tamil archival-ready checkpoint**
+
+## Part013 English planning/setup checkpoint
+
+**PART013 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- prior English source-check frontier — **E69**
+- reserved E70–E74 / sections73–77 — **PASS**
+- collisions — **0**
+- prose drafted — **0**
+- Tamil edits — **0**
+- frozen prior-English edits — **0**
+- exact next — **E70 draft + source-check**
