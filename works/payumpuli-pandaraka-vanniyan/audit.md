@@ -37,18 +37,21 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 ## Current live frontier — Part013
 
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 / scans361–390 — **DOCUMENTATION SYNCHRONIZED**
+- Part013 / scans361–390 — **TAMIL ARCHIVAL-READY / CLOSED**
 - canonical Tamil — **30/30 verified**
 - visual fidelity — **30/30 verified**
 - Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
 - documentation synchronization — **PASS / COMPLETE**
-- unresolved documentation / Tamil / visual blockers — **0**
+- Tamil archival-ready — **PASS / CLOSED**
+- planned assembled section range — **73–77 / 5**
+- live section-order collisions — **0**
+- unresolved Tamil / visual / documentation blockers — **0**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- durable documentation sync — `PART_013_DOCUMENTATION_SYNC.md`
-- exact next — **Part013 Tamil archival-ready checkpoint**
+- durable archival-ready record — `PART_013_TAMIL_ARCHIVAL_READY.md`
+- exact next — **Part013 assembled Tamil construction + audit — sections73–77**
 - Parts014–016 — **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**
 ## Methodology correction
 
@@ -2675,3 +2678,19 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - durable record — `PART_013_DOCUMENTATION_SYNC.md`
 - exact next gate — **Part013 Tamil archival-ready checkpoint**
 - do not begin assembled Tamil construction until archival-ready closure
+
+## Part013 Tamil archival-ready checkpoint
+
+**PART013 TAMIL ARCHIVAL-READY — PASS / CLOSED.**
+
+- canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
+- documentation synchronization — **PASS / COMPLETE**
+- planned assembled section range — **73–77 / 5**
+- live section-order collisions — **0**
+- unresolved Tamil / visual / documentation blockers — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- canonical page/body/status mutations — **0**
+- Part014 leakage — **0**
+- durable record — `PART_013_TAMIL_ARCHIVAL_READY.md`
+- exact next activity — **Part013 assembled Tamil construction + audit — sections73–77**
