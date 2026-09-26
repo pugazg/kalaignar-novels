@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Parts001–013 are **FINAL CLOSED / FROZEN**. Part014 is **NEXT ACTIVE / AUTHORIZED — PASS1 NEXT**. Parts015–016 remain **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**.
+Parts001–013 are **FINAL CLOSED / FROZEN**. Part014 is **PASS1 IN PROGRESS / BATCH2 COMPLETE**. Parts015–016 remain **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**.
 
 ## Tamil Part workflow
 
@@ -50,13 +50,17 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 ## Current authoritative frontier — Part014
 
 - Parts001–013 — **FINAL CLOSED / FROZEN**
-- Part014 / scans391–420 — **NEXT ACTIVE / AUTHORIZED**
-- source SHA-256 — `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`
+- Part014 Pass1 — **IN PROGRESS / BATCH2 COMPLETE**
+- canonical records — **20/30**
+- completed scans — **391–410**
+- observed printed folios through scan410 — **384–404**
+- scan403 — **two-folio spread / printed396–397**
+- textual / visual status — **needs-review / needs-review**
+- unresolved Pass1 source-reading holds — **0**
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- scan391 opens chapter63 `மாறுவேட மருத்துவர்!`
 - outgoing **420→421 — PENDING direct audit**
-- canonical Part014 records — **0**
-- exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
+- Pass2A — **BLOCKED UNTIL PASS1 30/30**
+- exact next — **Part014 Pass1 Batch3 scans411–420**
 
 ## Historical accumulated Part frontier
 
@@ -1557,3 +1561,14 @@ Exact next gate: **Part011 English translation planning/setup**. Perform a live 
 - durable closure — `PART_013_FINAL_CLOSURE.md`
 - Part014 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
 - exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
+
+## Part014 Pass1 Batch2 checkpoint
+
+**PART014 PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE.**
+
+- Batch2 scans401–410 — **10/10 TEXT-COMPLETE**
+- scan403 — **two-folio spread / printed396–397**
+- observed printed folios through scan410 — **384–404**
+- chapter65 opens402 / closes408
+- chapter66 opens409 / continues410
+- exact next — **Batch3 scans411–420**
