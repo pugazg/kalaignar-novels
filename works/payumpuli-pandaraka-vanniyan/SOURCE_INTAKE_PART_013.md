@@ -158,3 +158,23 @@ The global active frontier has now reached Part013. Part013 is **NEXT ACTIVE / A
 - outgoing **390→391 — PENDING direct audit**
 - Pass2B / Pass3 — **NOT STARTED**
 - exact next — **Part013 Pass2A Batch3 scans381–390 / local21–30 / printed374–383**
+
+## Part013 Pass2A closure checkpoint
+
+**PART013 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- Batch3 — **scans381–390 / local21–30 / printed374–383 — REVIEWED / PASS**
+- textual status — **30/30 verified**
+- Batch3 corrections — **1**
+- Batch3 correction scan — **387**
+- cumulative Pass2A corrections — **17**
+- scan387 — `அது... அது... பியசீலியின்` → **`அது...அது...பியசீலியின்`**
+- unresolved textual questions — **0**
+- visual fidelity — **30/30 needs-review**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- frozen Parts001–012 canonical / assembled / maintained-English body mutations — **0**
+- Part014 wording leakage — **0**
+- Pass2B / Pass3 — **NOT STARTED**
+- exact next — **Part013 Pass2B Batch1 scans361–370 / local1–10 / printed354–363**
