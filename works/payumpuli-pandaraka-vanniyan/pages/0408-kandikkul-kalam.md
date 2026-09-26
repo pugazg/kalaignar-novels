@@ -6,11 +6,11 @@ printed_page: 402
 work: "payumpuli-pandaraka-vanniyan"
 section: "கண்டிக்குள் களம்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans401–410"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans401–410; formal Part014 Pass 2A reviewed"
 ---
 
 # கண்டிக்குள் களம்!
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 
 ஆங்கிலேயரின் கண்டிப் படையெடுப்பை, பண்டாரக வன்னியனும், குருவிச்சி நாச்சியும் தங்களது திறமையினாலும், வீர நெஞ்சத்தினாலும் தகர்த்து எறிந்தனர்.
 
-கண்டி மன்னன், அந்த வெற்றி விழாவைப் பண்டாரகன், குருவிச்சி முன்னிலையில் - மிகச் சிறப்பாக நடத்தத் திட்டமிட்டான். “ஆமாம்! நடத்த வேண்டியதுதான்!” என்று பிலிமதளாவை ஆமோதித்தபோதிலும், இந்தப் பாவிகளை எப்படி ஒழிப்பது?” என்ற விஷக் காற்றுதான் அவனது மூச்சாக வெளிப்பட்டுக் கொண்டிருந்தது.
+கண்டி மன்னன், அந்த வெற்றி விழாவைப் பண்டாரகன், குருவிச்சி முன்னிலையில் - மிகச் சிறப்பாக நடத்தத் திட்ட மிட்டான். “ஆமாம்! நடத்த வேண்டியதுதான்!” என்று பிலிமதளாவை ஆமோதித்தபோதிலும், இந்தப் பாவிகளை எப்படி ஒழிப்பது?” என்ற விஷக் காற்றுதான் அவனது மூச்சாக வெளிப்பட்டுக் கொண்டிருந்தது.
 
 ஓடி ஒளிந்து கொண்ட மெக்டோவலின் கோட்டையைச் சுற்றி, பண்டாரக வன்னியனின் படை சூழ்ந்தது.
 
@@ -34,4 +34,16 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 408; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 18; அச்சுப் பக்கம்: 402; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+
+## Formal Part014 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part014 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `நடத்தத் திட்டமிட்டான்.` → **`நடத்தத் திட்ட மிட்டான்.`** — source spacing / word-boundary correction;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 408; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 18; அச்சுப் பக்கம்: 402; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
