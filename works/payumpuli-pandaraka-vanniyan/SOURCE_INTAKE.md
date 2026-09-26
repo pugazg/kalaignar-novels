@@ -76,14 +76,14 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 ## Current state
 
 - split registration — **16/16 COMPLETE**
-- physical coverage by split ranges — **477/477**
 - Parts001–013 — **FINAL CLOSED / FROZEN**
-- active content Part — **Part014 / scans391–420**
-- Part014 canonical records — **0**
+- Part014 / scans391–420 — **PASS1 IN PROGRESS**
+- canonical Part014 records — **10/30**
+- completed Pass1 coverage — **391–400 / printed384–393**
 - incoming 390→391 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing 420→421 — **PENDING direct audit**
-- audited multipart split boundaries — **13/15**
-- exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
+- unresolved Pass1 source-reading holds — **0**
+- exact next — **Part014 Pass1 Batch2 scans401–410**
 - Parts015–016 — **SUPPLIED / REGISTERED / WAITING**
 
 
