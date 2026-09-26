@@ -7,25 +7,19 @@
 - work directory: `works/payumpuli-pandaraka-vanniyan/`
 - source family: **TVA_BOK_0065744**
 - complete physical extent: **477 scans**
-- working source: **16 split PDFs — all supplied / registered**
-- Part001–Part005 — **FINAL CLOSED / FROZEN**
-- Part006 / scans151–180 — **ACTIVE**
-- Part006 canonical records — **30/30 VERIFIED**
-- Part006 visual fidelity — **30/30 VERIFIED**
-- Part006 Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part006 Part audit — **PASS / COMPLETE**
-- Part006 final metadata/status synchronization — **PASS / CLOSED**
-- Part006 documentation synchronization — **PASS / COMPLETE**
-- Part006 Tamil archival-ready — **PASS / CLOSED**
-- Part006 archival-ready canonical/page-status changes — **0**
-- Part006 assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
-- Part006 assembled canonical coverage — **30/30; omissions / duplicates 0 / 0**
-- Part006 canonical page mutations caused by assembly — **0**
-- Part007 body leakage — **0**
-- boundaries — **150→151 GENUINE CONTINUATION / AUDITED; 180→181 GENUINE CONTINUATION / AUDITED**
-- Part007 — **SUPPLIED / REGISTERED / BLOCKED; canonical records 0**
+- split source: **16/16 supplied / registered**
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- Part013 / scans361–390 — **ACTIVE**
+- Part013 canonical Tamil — **30/30 present**
+- Part013 Pass1 — **COMPLETE / PASS**
+- Part013 Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
+- Part013 textual status — **30/30 verified**
+- Part013 visual fidelity — **30/30 needs-review**
+- incoming 360→361 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing 390→391 — **PENDING direct audit**
+- Parts014–016 — **SUPPLIED / REGISTERED / WAITING**
+- exact next — **Part013 Pass2B Batch1 scans361–370 / local1–10 / printed354–363**
 
-Exact next action: **Part006 English translation planning/setup.**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 
