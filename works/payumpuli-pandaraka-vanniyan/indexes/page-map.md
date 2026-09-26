@@ -1473,3 +1473,17 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - visual fidelity — **30/30 needs-review**
 - outgoing **390→391 — PENDING direct audit**
 - exact next — **Part013 Pass3 Batch2 scans371–380 / local11–20 / printed364–373**
+
+## Part013 Pass3 closure checkpoint
+
+**PART013 PASS 3 — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- scans361–390 / local1–30 / printed354–383 — **VISUAL-STRUCTURAL REVIEWED / PASS**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- chapter openings — **58/361, 59/366, 60/372, 61/378, 62/384**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- exact next — **Part013 Part audit**
