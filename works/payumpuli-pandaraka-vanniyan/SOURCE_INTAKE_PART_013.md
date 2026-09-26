@@ -42,19 +42,17 @@ The canonical `scan_page` remains the overall scan number **361–390**.
 
 ## Current gate
 
-Part013 is **ASSEMBLED TAMIL / CLOSED — ENGLISH PLANNING NEXT**.
+Part013 English planning/setup is **COMPLETE / PASS — E70 NEXT**.
 
 - canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit / final status / documentation — **PASS / CLOSED / COMPLETE**
-- Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **5/5 VERIFIED / CLOSED**
-- assembled section range — **73–77**
-- assembled canonical coverage — **30/30**
-- unresolved assembly blockers — **0**
+- reserved English sequence — **E70–E74**
+- reserved English sections — **73–77**
+- translated / source-checked — **0/5 / 0/5**
+- collisions / unresolved planning holds — **0 / 0**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- exact next — **Part013 English translation planning/setup**
+- exact next — **E70 draft + source-check — section73 / scans361–365**
 
 
 ## Part012 final closure / Part013 frontier
@@ -369,3 +367,25 @@ Part013 is **ASSEMBLED TAMIL / CLOSED — ENGLISH PLANNING NEXT**.
 - unresolved assembly blockers — **0**
 - durable validation — `PART_013_ASSEMBLED_TAMIL_VALIDATION.md`
 - exact next gate — **Part013 English translation planning/setup**
+
+## Part013 English planning/setup checkpoint
+
+**PART013 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- prior source-check frontier — **E69**
+- source-check controls E1–E69 — **contiguous / 69**
+- missing E1–E69 controls — **0**
+- reserved Part013 sequence — **E70–E74 / 5**
+- prior maintained English section frontier — **72**
+- reserved English section range — **73–77 / 5**
+- batch / section collisions — **0 / 0**
+- translated / source-checked — **0/5 / 0/5**
+- English literary prose drafted in planning gate — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–012 English body edits — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- Part014 leakage — **0**
+- active controls — `translations/en/PART_013_TRANSLATION_PLAN.md`, `PART_013_GLOSSARY.md`, `PART_013_PROGRESS.md`
+- exact next gate — **E70 draft + source-check — section73 / scans361–365**
+- do not begin E71 until E70 is **SOURCE-CHECKED / COMPLETE**
