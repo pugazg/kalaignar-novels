@@ -24,7 +24,7 @@ Parts001–013 remain **FINAL CLOSED / FROZEN**.
 - observed printed-folio coverage completed — **384–414**
 - unresolved Pass1 source-reading holds — **0**
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **420→421 — PENDING direct audit**
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - Pass2A — **NOT STARTED**
 - current 30 canonical records:
   - `status: "needs-review"`
@@ -54,7 +54,7 @@ Direct adjacent-source comparison established:
 Durable record:
 - `PART_013_BOUNDARY_AUDIT_390_391.md`
 
-Audited multipart boundaries — **13 / 15**.
+Audited multipart boundaries — **14 / 15**.
 
 ## Batch1 source structure
 
@@ -94,7 +94,24 @@ Audited multipart boundaries — **13 / 15**.
 - scan419 / printed413 resumes `நுழைந்தனர்.` and ends at `பீடத்திலிருக்கும்`;
 - scan420 / printed414 resumes `வாளை`, ends after `குருவிச்சி நாச்சியார்!`, and has a substantial intentional blank lower field;
 - no scan421 wording was imported in Batch3;
-- outgoing **420→421 remains PENDING direct audit**.
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**; chapter68 `ஒரு பெண்ணின் பிராயச்சித்தம்!` opens at scan421 / printed415.
+
+## Outgoing-boundary audit
+
+Direct adjacent-source comparison established:
+
+**420→421 = CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+
+- scan420 / printed414 ends chapter67 `இரத்தம் படிந்த வாள்!` with a complete final exchange and substantial intentional blank lower field;
+- scan421 / printed415 opens displayed chapter68 `ஒரு பெண்ணின் பிராயச்சித்தம்!`;
+- no unfinished line, sentence, quotation or paragraph crosses the split;
+- Part014 canonical records remain unchanged;
+- no Part015 canonical page record was created.
+
+Durable record:
+- `PART_014_BOUNDARY_AUDIT_420_421.md`
+
+Audited multipart boundaries — **14 / 15**.
 
 ## Source-visible forms retained for later review
 
@@ -129,6 +146,6 @@ Frozen Parts001–013 canonical Tamil, assembled Tamil and maintained English bo
 
 ## Exact next activity
 
-Perform the **outgoing direct boundary audit 420→421** against the adjacent source pixels.
+Perform **Part014 Pass2A Batch1 — scans391–400 / local pages1–10 / printed384–393**.
 
-Do not begin Pass2A in the same activity. Part014 Pass1 itself is now **30/30 TEXT-COMPLETE**.
+Process exactly **10 physical Part014 source pages** in the textual review pass. Part014 Pass1 remains **30/30 TEXT-COMPLETE**. Do not create Part015 canonical records while Part014 remains the active review frontier.
