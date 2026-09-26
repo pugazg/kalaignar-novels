@@ -396,16 +396,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 013 | 28 | 388 | 381 | `ஆண்மகன் அல்லவோ!` continuation; ends physical split `அடைத்துப்` | verified | `pages/0388-aanmagan-allavo.md` |
 | 013 | 29 | 389 | 382 | `ஆண்மகன் அல்லவோ!` continuation; resumes `போட்டு`; physician arrives | verified | `pages/0389-aanmagan-allavo.md` |
 | 013 | 30 | 390 | 383 | `ஆண்மகன் அல்லவோ!` continuation; substantial blank lower field; 390→391 pending audit | verified | `pages/0390-aanmagan-allavo.md` |
-| 014 | 1 | 391 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 2 | 392 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 3 | 393 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 4 | 394 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 5 | 395 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 6 | 396 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 7 | 397 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 8 | 398 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 9 | 399 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 10 | 400 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 1 | 391 | 384 | chapter63 opening `மாறுவேட மருத்துவர்!`; displayed number 63; incoming 390→391 clean chapter boundary audited | needs-review | `pages/0391-maaruveda-maruththuvar.md` |
+| 014 | 2 | 392 | 385 | `மாறுவேட மருத்துவர்!` continuation; ends physical split `பண்டாரக` | needs-review | `pages/0392-maaruveda-maruththuvar.md` |
+| 014 | 3 | 393 | 386 | `மாறுவேட மருத்துவர்!` continuation; resumes `வன்னியனுக்குத்`; ends `சொன்னாள்.-` | needs-review | `pages/0393-maaruveda-maruththuvar.md` |
+| 014 | 4 | 394 | 387 | `மாறுவேட மருத்துவர்!` continuation; ends mid-sentence `உணர்வு` | needs-review | `pages/0394-maaruveda-maruththuvar.md` |
+| 014 | 5 | 395 | 388 | chapter63 `மாறுவேட மருத்துவர்!` close; resumes `வந்தவளாக`; physician-disguise reveal | needs-review | `pages/0395-maaruveda-maruththuvar.md` |
+| 014 | 6 | 396 | 389 | chapter64 opening `அதிர்ந்தது போர்முரசு!`; displayed number 64 | needs-review | `pages/0396-athirndhathu-pormurasu.md` |
+| 014 | 7 | 397 | 390 | `அதிர்ந்தது போர்முரசு!` continuation; war-strategy dialogue | needs-review | `pages/0397-athirndhathu-pormurasu.md` |
+| 014 | 8 | 398 | 391 | `அதிர்ந்தது போர்முரசு!` continuation; surrender-strategy discussion | needs-review | `pages/0398-athirndhathu-pormurasu.md` |
+| 014 | 9 | 399 | 392 | `அதிர்ந்தது போர்முரசு!` continuation; proposed Kandyan abdication / transfer plan | needs-review | `pages/0399-athirndhathu-pormurasu.md` |
+| 014 | 10 | 400 | 393 | `அதிர்ந்தது போர்முரசு!` continuation; ends mid-sentence at `என்பதை` | needs-review | `pages/0400-athirndhathu-pormurasu.md` |
 | 014 | 11 | 401 | — | unclassified — direct visual audit pending | not-started | — |
 | 014 | 12 | 402 | — | unclassified — direct visual audit pending | not-started | — |
 | 014 | 13 | 403 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1601,3 +1601,18 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - durable closure — `PART_013_FINAL_CLOSURE.md`
 - Part014 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
 - exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
+
+## Part014 Pass1 Batch1 checkpoint
+
+**PART014 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- scans391–400 / local1–10 / printed384–393 — **TEXT-COMPLETE**
+- canonical Part014 records — **10/30**
+- textual / visual status — **10/10 needs-review / 10/10 needs-review**
+- chapter63 `மாறுவேட மருத்துவர்!` — opens391 / closes395
+- chapter64 `அதிர்ந்தது போர்முரசு!` — opens396 / continues400
+- scan400 ends mid-sentence at `என்பதை`
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **420→421 — PENDING direct audit**
+- unresolved Pass1 source-reading holds — **0**
+- exact next — **Part014 Pass1 Batch2 scans401–410 / local11–20 / printed394–403**
