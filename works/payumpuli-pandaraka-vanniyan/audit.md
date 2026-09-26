@@ -37,22 +37,19 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 ## Current live frontier — Part013
 
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
-- Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **5/5 VERIFIED / CLOSED**
+- Part013 Tamil / assembled — **30/30 verified / 5/5 CLOSED**
 - English planning/setup — **COMPLETE / PASS**
-- reserved English batches — **E70–E74 / 5**
-- reserved English sections — **73–77 / 5**
-- translated / source-checked — **0/5 / 0/5**
-- batch / section collisions — **0 / 0**
-- unresolved planning holds — **0**
-- English literary prose drafted in planning gate — **0**
-- canonical / assembled Tamil edits in planning — **0 / 0**
+- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE**
+- scans translated/source-checked — **361–390 / 30**
+- source-boundary marker parity — **25/25 / PASS**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
 - frozen Parts001–012 English body edits — **0**
+- unresolved batch-level holds — **0**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
 - Part014 leakage — **0**
-- exact next — **E70 draft + source-check — section73 / scans361–365**
+- exact next — **Part013 whole-Part glossary reconciliation across E70–E74**
 ## Methodology correction
 
 Earlier work drifted into an **inventory-only forward progression** and prematurely created Part002 records for scans31–35.
@@ -2725,3 +2722,18 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - unresolved planning holds — **0**
 - outgoing **390→391 — PENDING direct audit**
 - exact next — **E70 draft + source-check**
+
+## Part013 E70–E74 English batch closure
+
+**PASS — 5/5 SOURCE-CHECKED / COMPLETE.**
+
+- scans — **361–390 / 30**
+- maintained English files — **5/5**
+- source-check controls — **5/5**
+- source-boundary marker parity — **25/25**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–012 English body edits — **0**
+- Part014 leakage — **0**
+- unresolved batch holds — **0**
+- exact next — **Part013 whole-Part glossary reconciliation**
