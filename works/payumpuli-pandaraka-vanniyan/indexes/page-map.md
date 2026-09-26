@@ -386,16 +386,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 013 | 18 | 378 | 371 | chapter61 opening `போருக்கான புகைச்சல்!`; displayed number 61; ends `வீதிகளில் வியாபாரம் நடத்திக் கொண்டே` | verified | `pages/0378-porukkana-pugaichal.md` |
 | 013 | 19 | 379 | 372 | `போருக்கான புகைச்சல்!` continuation; starving-child scene; ends after blow to child | verified | `pages/0379-porukkana-pugaichal.md` |
 | 013 | 20 | 380 | 373 | `போருக்கான புகைச்சல்!` continuation; Puttalam clash; ends physical split `அந்தப்` | verified | `pages/0380-porukkana-pugaichal.md` |
-| 013 | 21 | 381 | 374 | chapter61 `போருக்கான புகைச்சல்!` continuation; resumes `பரிதாபத்திற்குரிய`; ends physical split `ஆலோ` | needs-review | `pages/0381-porukkana-pugaichal.md` |
-| 013 | 22 | 382 | 375 | `போருக்கான புகைச்சல்!` continuation; resumes `சனைக்கு`; English-resident attack sequence | needs-review | `pages/0382-porukkana-pugaichal.md` |
-| 013 | 23 | 383 | 376 | chapter61 `போருக்கான புகைச்சல்!` close; substantial intentional blank lower field | needs-review | `pages/0383-porukkana-pugaichal.md` |
-| 013 | 24 | 384 | 377 | chapter62 opening `ஆண்மகன் அல்லவோ!`; displayed number 62 | needs-review | `pages/0384-aanmagan-allavo.md` |
-| 013 | 25 | 385 | 378 | `ஆண்மகன் அல்லவோ!` continuation; ends `ஆங்கிலேயர் ஆதிக்கம்` | needs-review | `pages/0385-aanmagan-allavo.md` |
-| 013 | 26 | 386 | 379 | `ஆண்மகன் அல்லவோ!` continuation; vow / Martthani exchange | needs-review | `pages/0386-aanmagan-allavo.md` |
-| 013 | 27 | 387 | 380 | `ஆண்மகன் அல்லவோ!` continuation; letter-authenticity exchange | needs-review | `pages/0387-aanmagan-allavo.md` |
-| 013 | 28 | 388 | 381 | `ஆண்மகன் அல்லவோ!` continuation; ends physical split `அடைத்துப்` | needs-review | `pages/0388-aanmagan-allavo.md` |
-| 013 | 29 | 389 | 382 | `ஆண்மகன் அல்லவோ!` continuation; resumes `போட்டு`; physician arrives | needs-review | `pages/0389-aanmagan-allavo.md` |
-| 013 | 30 | 390 | 383 | `ஆண்மகன் அல்லவோ!` continuation; substantial blank lower field; 390→391 pending audit | needs-review | `pages/0390-aanmagan-allavo.md` |
+| 013 | 21 | 381 | 374 | chapter61 `போருக்கான புகைச்சல்!` continuation; resumes `பரிதாபத்திற்குரிய`; ends physical split `ஆலோ` | verified | `pages/0381-porukkana-pugaichal.md` |
+| 013 | 22 | 382 | 375 | `போருக்கான புகைச்சல்!` continuation; resumes `சனைக்கு`; English-resident attack sequence | verified | `pages/0382-porukkana-pugaichal.md` |
+| 013 | 23 | 383 | 376 | chapter61 `போருக்கான புகைச்சல்!` close; substantial intentional blank lower field | verified | `pages/0383-porukkana-pugaichal.md` |
+| 013 | 24 | 384 | 377 | chapter62 opening `ஆண்மகன் அல்லவோ!`; displayed number 62 | verified | `pages/0384-aanmagan-allavo.md` |
+| 013 | 25 | 385 | 378 | `ஆண்மகன் அல்லவோ!` continuation; ends `ஆங்கிலேயர் ஆதிக்கம்` | verified | `pages/0385-aanmagan-allavo.md` |
+| 013 | 26 | 386 | 379 | `ஆண்மகன் அல்லவோ!` continuation; vow / Martthani exchange | verified | `pages/0386-aanmagan-allavo.md` |
+| 013 | 27 | 387 | 380 | `ஆண்மகன் அல்லவோ!` continuation; letter-authenticity exchange | verified | `pages/0387-aanmagan-allavo.md` |
+| 013 | 28 | 388 | 381 | `ஆண்மகன் அல்லவோ!` continuation; ends physical split `அடைத்துப்` | verified | `pages/0388-aanmagan-allavo.md` |
+| 013 | 29 | 389 | 382 | `ஆண்மகன் அல்லவோ!` continuation; resumes `போட்டு`; physician arrives | verified | `pages/0389-aanmagan-allavo.md` |
+| 013 | 30 | 390 | 383 | `ஆண்மகன் அல்லவோ!` continuation; substantial blank lower field; 390→391 pending audit | verified | `pages/0390-aanmagan-allavo.md` |
 | 014 | 1 | 391 | — | unclassified — direct visual audit pending | not-started | — |
 | 014 | 2 | 392 | — | unclassified — direct visual audit pending | not-started | — |
 | 014 | 3 | 393 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1401,3 +1401,17 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - unresolved textual questions — **0**
 - visual fidelity — **30/30 needs-review**
 - exact next — **Part013 Pass2A Batch3 scans381–390 / local21–30 / printed374–383**
+
+## Part013 Pass2A closure checkpoint
+
+**PART013 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Batch3 scans381–390 / local21–30 / printed374–383 — **REVIEWED / PASS**
+- textual status — **30/30 verified**
+- Batch3 source-supported corrections — **1**
+- cumulative Pass2A corrections — **17**
+- Batch3 correction scan — **387**
+- unresolved textual questions — **0**
+- visual fidelity — **30/30 needs-review**
+- outgoing **390→391 — PENDING direct audit**
+- exact next — **Part013 Pass2B Batch1 scans361–370 / local1–10 / printed354–363**
