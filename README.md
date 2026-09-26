@@ -10,15 +10,18 @@
 - split source: **16/16 supplied / registered**
 - Parts001–012 — **FINAL CLOSED / FROZEN**
 - Part013 / scans361–390 — **ACTIVE**
-- Part013 canonical Tamil — **30/30 present**
-- Part013 Pass1 — **COMPLETE / PASS**
-- Part013 Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
-- Part013 textual status — **30/30 verified**
-- Part013 visual fidelity — **30/30 needs-review**
+- canonical Tamil — **30/30 present**
+- Pass1 — **COMPLETE / PASS**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
+- Pass2B — **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+- Pass2B Batch1 corrections — **3 — scans362, 364, 367**
+- historical-glyph corrections — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
 - incoming 360→361 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing 390→391 — **PENDING direct audit**
 - Parts014–016 — **SUPPLIED / REGISTERED / WAITING**
-- exact next — **Part013 Pass2B Batch1 scans361–370 / local1–10 / printed354–363**
+- exact next — **Part013 Pass2B Batch2 scans371–380 / local11–20 / printed364–373**
 
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
