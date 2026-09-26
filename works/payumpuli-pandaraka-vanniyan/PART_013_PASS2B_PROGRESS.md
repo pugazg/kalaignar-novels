@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+**PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
 
 Prerequisites:
 - Part013 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -82,8 +82,50 @@ No reform-sensitive occurrence in scans361–370 required a canonical Unicode co
 - frozen Parts001–012 body mutations — **0**
 - Part014 wording leakage — **0**
 
+## Batch 2 correction ledger — scans371–380
+
+| Scan | Printed page | Before | Source-confirmed after | Classification |
+|---:|---:|---|---|---|
+| 376 | 369 | `ஒரு சகோதரியைப்போல் கவனித்துக்கொண்டாள்!` | **`ஒரு சகோதரியைப் போல கவனித்துக்கொண்டாள்!`** | source spacing / lexical-form restoration |
+| 378 | 371 | `நார்த்பிரபுவைப் பழிவாங்குவது` | **`நார்த் பிரபுவைப் பழிவாங்குவது`** | source word-boundary restoration |
+| 380 | 373 | `புத்தளம்நகரிலிருந்தேஓடத் தொடங்குகின்றனர்.` | **`புத்தளம் நகரிலிருந்தே ஓடத் தொடங்குகின்றனர்.`** | source spacing / word-boundary restoration |
+
+Scans **371–375, 377 and 379** required **0** additional Pass2B canonical-body corrections.
+
+## Batch 2 source locks reconfirmed
+
+- scan371 closes chapter59 `இன்று முதல் உங்கள் எதிரி!` and preserves the substantial intentional blank lower field;
+- scan372 opens displayed chapter60 `பகையும் - பண்பும்!`, displayed **60**;
+- scan372→373 physical split remains **`தேவை` + `களை`**;
+- scan376 restores source `ஒரு சகோதரியைப் போல கவனித்துக்கொண்டாள்!`;
+- scan376→377 open sentence remains **`நான் அவர்களின்` + `விரோதி என்று தெரிந்தும்`**;
+- scan377 closes chapter60;
+- scan378 opens displayed chapter61 `போருக்கான புகைச்சல்!`, displayed **61**, and restores source `நார்த் பிரபுவைப்`;
+- scan378→379 physical continuation remains **`வீதிகளில் வியாபாரம் நடத்திக் கொண்டே` + `செல்லும்`**;
+- scan379 retains Pass2A `வாங்கிவாங்கிக் கூடைகளில்போட்டுக்`;
+- scan380 restores source `புத்தளம் நகரிலிருந்தே ஓடத் தொடங்குகின்றனர்.`;
+- scan380 retains source `எப்படி யென்று` and ends at physical fragment **`அந்தப்`**; scan381 wording was not imported;
+- outgoing **390→391 remains PENDING direct audit**; no Part014 wording was imported.
+
+## Batch 2 decision
+
+**PASS — scans371–380 independently reviewed.**
+
+- reviewed — **20/30**
+- remaining — **10/30**
+- Batch2 additional source-supported corrections — **3**
+- Batch2 correction scans — **376, 378, 380**
+- cumulative Pass2B corrections — **6**
+- cumulative correction scans — **362, 364, 367, 376, 378, 380**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- frozen Parts001–012 body mutations — **0**
+- Part014 wording leakage — **0**
+
 ## Exact next activity
 
-Proceed with **Part013 Pass2B Batch2 — scans371–380 / local pages11–20 / printed364–373**.
+Proceed with **Part013 Pass2B Batch3 — scans381–390 / local pages21–30 / printed374–383**.
 
 Process exactly **10 source pages**. Keep textual `status: "verified"` and `visual_fidelity: "needs-review"`. Review source-visible lexical forms, spacing, punctuation and historical/source glyph fidelity. Do not begin Pass3 in the same activity.
