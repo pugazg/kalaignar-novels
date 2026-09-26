@@ -58,3 +58,34 @@ No English literary prose is drafted in this setup gate.
 
 Exact next gate: **E70 draft + source-check — section73 / scans361–365**.  
 Do not begin E71 until E70 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## User-authorized all-pages override
+
+The normal batch discipline requires one batch to close before the next begins. The user explicitly instructed **process all pages**, so E70–E74 were completed in this activity in source order, with an individual maintained English file and source-check control for each batch.
+
+## E70–E74 batch-level translation closure
+
+**PART013 ENGLISH BATCHES — 5/5 SOURCE-CHECKED / COMPLETE.**
+
+| Batch | English file | Scans | Result |
+|---|---|---:|---|
+| E70 | `sections/73-this-is-one-of-them.md` | 361–365 | **SOURCE-CHECKED / COMPLETE** |
+| E71 | `sections/74-from-today-your-enemy.md` | 366–371 | **SOURCE-CHECKED / COMPLETE** |
+| E72 | `sections/75-enmity-and-virtue.md` | 372–377 | **SOURCE-CHECKED / COMPLETE** |
+| E73 | `sections/76-smoke-before-war.md` | 378–383 | **SOURCE-CHECKED / COMPLETE** |
+| E74 | `sections/77-isnt-he-a-man.md` | 384–390 | **SOURCE-CHECKED / COMPLETE** |
+
+Batch closure:
+- scans translated/source-checked — **361–390 / 30**
+- maintained English files — **5/5**
+- source-check controls — **E70–E74 / 5/5**
+- source-boundary marker parity — **25/25 / PASS**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–012 English body edits — **0**
+- outgoing **390→391 — PENDING direct audit**
+- Part014 translation / paraphrase / semantic completion — **0**
+- unresolved batch-level holds — **0**
+
+Exact next gate: **Part013 whole-Part glossary reconciliation across E70–E74**.
