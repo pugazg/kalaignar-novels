@@ -416,16 +416,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 014 | 18 | 408 | 402 | chapter65 `கண்டிக்குள் களம்!` close; substantial intentional blank lower field | needs-review | `pages/0408-kandikkul-kalam.md` |
 | 014 | 19 | 409 | 403 | chapter66 opening `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!`; displayed number66 | needs-review | `pages/0409-vellaik-kodiyum-vetri-vizhavum.md` |
 | 014 | 20 | 410 | 404 | chapter66 continuation; ends open dialogue at `உங்கள்` | needs-review | `pages/0410-vellaik-kodiyum-vetri-vizhavum.md` |
-| 014 | 21 | 411 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 22 | 412 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 23 | 413 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 24 | 414 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 25 | 415 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 26 | 416 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 27 | 417 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 28 | 418 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 29 | 419 | — | unclassified — direct visual audit pending | not-started | — |
-| 014 | 30 | 420 | — | unclassified — direct visual audit pending | not-started | — |
+| 014 | 21 | 411 | 405 | chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!` continuation; resumes scan410 open dialogue at `நெஞ்சில்` | needs-review | `pages/0411-vellaik-kodiyum-vetri-vizhavum.md` |
+| 014 | 22 | 412 | 406 | chapter66 continuation; ends mid-sentence at `வீரனுக்கு` | needs-review | `pages/0412-vellaik-kodiyum-vetri-vizhavum.md` |
+| 014 | 23 | 413 | 407 | chapter66 continuation; resumes `அழகுமில்லை!`; ends mid-sentence at `சேர` | needs-review | `pages/0413-vellaik-kodiyum-vetri-vizhavum.md` |
+| 014 | 24 | 414 | 408 | chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!` close | needs-review | `pages/0414-vellaik-kodiyum-vetri-vizhavum.md` |
+| 014 | 25 | 415 | 409 | chapter67 opening `இரத்தம் படிந்த வாள்!`; displayed number67; ends at `இருப்பதை` | needs-review | `pages/0415-iraththam-padindha-vaal.md` |
+| 014 | 26 | 416 | 410 | chapter67 `இரத்தம் படிந்த வாள்!` continuation; resumes `உணர்ந்து கொள்ள முடிந்தது.` | needs-review | `pages/0416-iraththam-padindha-vaal.md` |
+| 014 | 27 | 417 | 411 | chapter67 continuation; source-visible forms retained for Pass2A | needs-review | `pages/0417-iraththam-padindha-vaal.md` |
+| 014 | 28 | 418 | 412 | chapter67 continuation; ends mid-sentence at `கொலுமண்டபத்திற்குள்` | needs-review | `pages/0418-iraththam-padindha-vaal.md` |
+| 014 | 29 | 419 | 413 | chapter67 continuation; resumes `நுழைந்தனர்.`; ends at `பீடத்திலிருக்கும்` | needs-review | `pages/0419-iraththam-padindha-vaal.md` |
+| 014 | 30 | 420 | 414 | chapter67 continuation; substantial intentional blank lower field; outgoing 420→421 pending direct audit | needs-review | `pages/0420-iraththam-padindha-vaal.md` |
 | 015 | 1 | 421 | — | unclassified — direct visual audit pending | not-started | — |
 | 015 | 2 | 422 | — | unclassified — direct visual audit pending | not-started | — |
 | 015 | 3 | 423 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1633,3 +1633,19 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - unresolved Pass1 source-reading holds — **0**
 - exact next — **Part014 Pass1 Batch3 scans411–420 / local21–30**
 - printed folios for Batch3 must be read directly from source; do not assume one-folio-per-scan
+
+## Part014 Pass1 Batch3 checkpoint
+
+**PART014 PASS 1 — COMPLETE — 30/30 TEXT-COMPLETE.**
+
+- scans411–420 / local21–30 — **TEXT-COMPLETE**
+- observed printed folios — **405–414**
+- canonical Part014 records — **30/30**
+- textual / visual status — **30/30 needs-review / 30/30 needs-review**
+- chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!` — closes414
+- chapter67 `இரத்தம் படிந்த வாள்!` — opens415 / continues420
+- scan420 — substantial intentional blank lower field after final exclamation
+- unresolved Pass1 source-reading holds — **0**
+- outgoing **420→421 — PENDING direct audit**
+- Pass2A — **NOT STARTED**
+- exact next — **direct outgoing boundary audit 420→421; do not begin Pass2A in this Batch3 activity**
