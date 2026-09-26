@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Parts001–012 are **FINAL CLOSED / FROZEN**. Part013 is **ASSEMBLED TAMIL / CLOSED — ENGLISH PLANNING NEXT**. Parts014–016 remain **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**.
+Parts001–012 are **FINAL CLOSED / FROZEN**. Part013 English planning/setup is **COMPLETE / PASS — E70 NEXT**. Parts014–016 remain **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**.
 
 ## Tamil Part workflow
 
@@ -50,18 +50,15 @@ For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were dire
 ## Current authoritative frontier — Part013
 
 - canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
-- Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **5/5 VERIFIED / CLOSED**
-- assembled section range — **73–77**
-- assembled canonical coverage — **30/30**
-- unresolved assembly blockers — **0**
+- English planning/setup — **COMPLETE / PASS**
+- reserved batches — **E70–E74**
+- reserved English sections — **73–77**
+- translated / source-checked — **0/5 / 0/5**
+- collisions / unresolved planning holds — **0 / 0**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- exact next — **Part013 English translation planning/setup**
+- exact next — **E70 draft + source-check — section73 / scans361–365**
 
 ## Historical accumulated Part frontier
 
@@ -1501,3 +1498,25 @@ Exact next gate: **Part011 English translation planning/setup**. Perform a live 
 - unresolved assembly blockers — **0**
 - durable validation — `PART_013_ASSEMBLED_TAMIL_VALIDATION.md`
 - exact next gate — **Part013 English translation planning/setup**
+
+## Part013 English planning/setup checkpoint
+
+**PART013 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- prior source-check frontier — **E69**
+- source-check controls E1–E69 — **contiguous / 69**
+- missing E1–E69 controls — **0**
+- reserved Part013 sequence — **E70–E74 / 5**
+- prior maintained English section frontier — **72**
+- reserved English section range — **73–77 / 5**
+- batch / section collisions — **0 / 0**
+- translated / source-checked — **0/5 / 0/5**
+- English literary prose drafted in planning gate — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–012 English body edits — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- Part014 leakage — **0**
+- active controls — `translations/en/PART_013_TRANSLATION_PLAN.md`, `PART_013_GLOSSARY.md`, `PART_013_PROGRESS.md`
+- exact next gate — **E70 draft + source-check — section73 / scans361–365**
+- do not begin E71 until E70 is **SOURCE-CHECKED / COMPLETE**
