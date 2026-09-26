@@ -78,15 +78,13 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 ## Current processing frontier
 
 - Parts001–013 — **FINAL CLOSED / FROZEN**
-- Part014 / scans391–420 — **NEXT ACTIVE / AUTHORIZED**
+- Part014 / scans391–420 — **PASS1 IN PROGRESS**
 - source SHA-256 — `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`
+- canonical Part014 records — **10/30**
+- completed Pass1 scans — **391–400**
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- scan391 opens displayed chapter63 `மாறுவேட மருத்துவர்!`
 - outgoing **420→421 — PENDING direct audit**
-- canonical records — **0**
-- exact next — **Part014 Pass1 Batch1 scans391–400**
-- Part015 SHA-256 — `2efbc6088e061e4d145a8f2bc9c63936ef3e20ea6e63e8734edc88507e5c37a0`
-- Part016 SHA-256 — `82ca2020407e0996abfa2d3b29a192c56419f3f7da22a5a9d3d5dd5b8f9c3c6c`
+- exact next — **Part014 Pass1 Batch2 scans401–410**
 
 
 ## User-supplied descriptive note
