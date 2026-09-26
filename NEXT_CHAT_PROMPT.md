@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part013 Pass2B Batch1 scans361–370
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part013 Pass2B Batch2 scans371–380
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -20,13 +20,18 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - outgoing **390→391 — PENDING direct audit**
 - canonical Part013 records — **30/30**
 - Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass2A cumulative corrections — **17**
-- Pass2A correction scans — **363, 367, 370, 372, 373, 375, 376, 378, 379, 380, 387**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
+- Pass2B — **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+- Pass2B Batch1 corrections — **3**
+- Pass2B correction scans — **362, 364, 367**
+- scan362 — `அடிப்பைத்தியமே!` → **`அடி பைத்தியமே!`**
+- scan364 — `பேய்க் கூச்சல்!` → **`பேய்க்கூச்சல்!`**
+- scan367 — `தப்பித்து ஓடிவந்தாள்!` → **`தப்பித்து ஓடி வந்தாள்!`**
+- Pass2B historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
-- unresolved textual questions — **0**
-- Pass2B / Pass3 — **NOT STARTED**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 
 ## Later supplied source parts
 
@@ -40,15 +45,9 @@ Do not create later-Part canonical records and do not use Part014 wording during
 
 ## Exact next activity
 
-Perform **Part013 Pass2B Batch1 — scans361–370 / local pages1–10 / printed354–363**.
+Perform **Part013 Pass2B Batch2 — scans371–380 / local pages11–20 / printed364–373**.
 
-Process exactly **10 physical source pages** and independently reread the rendered source for:
-
-- lexical identity;
-- historical / variant Tamil glyph identity;
-- source-specific compounds and joins;
-- word boundaries;
-- punctuation and quotation boundaries.
+Process exactly **10 physical source pages** and independently reread the rendered source for lexical identity, historical / variant Tamil glyph identity, source-specific compounds and joins, word boundaries, punctuation and quotation boundaries.
 
 Apply only directly source-supported corrections. Preserve source-visible irregular forms without modernization or grammatical normalization. Keep textual `status: "verified"` and `visual_fidelity: "needs-review"`.
 
