@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
+**PASS 2A — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisites:
 - Part013 Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -24,14 +24,15 @@ For each reviewed physical scan, canonical Tamil is re-compared directly against
 
 ## Current accounting
 
-- reviewed — **20/30 — scans361–380**
-- remaining — **10/30 — scans381–390**
+- reviewed — **30/30 — scans361–390**
+- remaining — **0**
 - Batch1 corrections — **6**
 - Batch2 corrections — **10**
-- cumulative Pass2A corrections — **16**
-- correction scans — **363, 367, 370, 372, 373, 375, 376, 378, 379, 380**
+- Batch3 corrections — **1**
+- cumulative Pass2A corrections — **17**
+- correction scans — **363, 367, 370, 372, 373, 375, 376, 378, 379, 380, 387**
 - unresolved textual questions — **0**
-- textual status — **20/30 verified / 10/30 needs-review**
+- textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - frozen Parts001–012 canonical / assembled / maintained-English body mutations — **0**
 - Part014 wording leakage — **0**
@@ -97,6 +98,45 @@ For scans371–380:
 - `visual_fidelity` — **needs-review**
 - unresolved textual questions — **0**
 
+## Batch3 decision — scans381–390
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+Correction:
+- scan387 / printed380 — `அது... அது... பியசீலியின்` → **`அது...அது...பியசீலியின்`** — source punctuation-spacing / word-boundary correction.
+
+Scans381–386 and 388–390 required no canonical-body correction.
+
+Re-confirmed source locks:
+- scan381 resumes scan380 physical split **`அந்தப்` + `பரிதாபத்திற்குரிய`** and ends **`ஆலோ`**;
+- scan382 resumes **`சனைக்கு`** and preserves source-visible political/violent narrative wording without normalization;
+- scan383 closes chapter61 `போருக்கான புகைச்சல்!` with substantial intentional blank lower field;
+- scan384 opens displayed chapter62 `ஆண்மகன் அல்லவோ!`, displayed **62**;
+- scan385 ends physical continuation **`ஆங்கிலேயர் ஆதிக்கம்`**;
+- scan386 continues that sentence and preserves source-visible `எங்கனும்`, `மலைத்தோள்`, `நானிலம்`, and `பகை முட்டமாகவும்`;
+- scan388 ends physical continuation **`அடைத்துப்`**;
+- scan389 resumes **`போட்டு`** and preserves source punctuation **`அனுப்புகிறேன்”.`**;
+- scan390 preserves the substantial intentional blank lower field after the final visible sentence;
+- outgoing **390→391 remains PENDING direct audit**; no Part014 wording or structural conclusion was imported.
+
+For scans381–390:
+- textual `status` — **verified**
+- `visual_fidelity` — **needs-review**
+- unresolved textual questions — **0**
+
+## Pass2A closure decision
+
+**PART013 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- cumulative corrections — **17**
+- correction scans — **363, 367, 370, 372, 373, 375, 376, 378, 379, 380, 387**
+- unresolved textual questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- outgoing **390→391 — PENDING direct audit**
+- Pass2B / Pass3 — **NOT STARTED**
+
 ## Status decision
 
 For scans361–370:
@@ -104,10 +144,10 @@ For scans361–370:
 - `visual_fidelity` — **needs-review**
 - unresolved textual questions — **0**
 
-Scans381–390 remain at the Pass1 textual state pending Pass2A Batch3.
+All Part013 scans361–390 are textually verified through Pass2A.
 
 ## Exact next activity
 
-Proceed with **Part013 Pass2A Batch3 — scans381–390 / local pages21–30 / printed374–383**.
+Proceed with **Part013 Pass2B Batch1 — scans361–370 / local pages1–10 / printed354–363**.
 
-Process exactly **10 source pages**. Apply only source-supported corrections. Keep `visual_fidelity: "needs-review"`. Do not begin Pass2B in the same activity.
+Process exactly **10 source pages**. Keep textual `status: "verified"` and `visual_fidelity: "needs-review"`. Review source-visible lexical forms, spacing, punctuation and historical/source glyph fidelity. Do not begin Pass3 in the same activity.
