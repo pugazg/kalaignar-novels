@@ -69,3 +69,35 @@ Working titles may be refined only during explicit source-check/editorial review
 - unresolved planning holds — **0**
 
 Exact next gate: **E70 draft + source-check — section73 / scans361–365**.
+
+
+## E70–E74 source-check additions
+
+Batch-level source-check established these maintained forms:
+
+- `அதிலே இது ஒன்று!` — **This Is One of Them!**
+- `இன்று முதல் உங்கள் எதிரி!` — **From Today, Your Enemy!**
+- `பகையும் - பண்பும்!` — **Enmity and Virtue!**
+- `போருக்கான புகைச்சல்!` — **Smoke Before War!**
+- `ஆண்மகன் அல்லவோ!` — **Isn't He a Man!**
+- `மார்த்தனி` — **Marthani**
+- `புத்தளம்` — **Puththalam**
+- `பரங்கியர் குடும்பங்கள்` — **Parangiyar families**, source-facing and consistent with maintained project glossary
+- `மேஜர் ஜெனரல் மெக்டோவல்` — **Major General Macdowall**, source-check controlled; no outside normalization
+- `கர்னல் பார்பட்` — **Colonel Barbut**, source-check controlled; no outside normalization
+- `முத்துசாமி` — **Muthusami**
+- `ருத்ர தாண்டவ` — **Rudra Tandavam**
+- `கிருஷ்ண பரமாத்மா` / `பூதகி` — **Krishna Paramatma / Poothaki**, source-facing without outside mythological normalization
+- closing `சுபமாய்` wordplay in E70 — retained source-facing as **“Subham”**
+
+Structural decisions:
+- E70 begins after **360→361 CLEAN CHAPTER BOUNDARY / AUDITED / PASS**;
+- blank lower fields on scans365, 371, 377, 383 and 390 generate no English body;
+- E74 stops at scan390;
+- outgoing **390→391 — PENDING direct audit**;
+- Part014 translation / semantic completion — **0**;
+- source political, sexual, violent and moralizing language remains narrator/character-attributed rather than converted into translator commentary.
+
+Batch-level unresolved terminology holds — **0**.
+
+Exact next gate: **Part013 whole-Part glossary reconciliation across E70–E74**.
