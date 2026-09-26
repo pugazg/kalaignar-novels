@@ -14,14 +14,17 @@
 - Part013 canonical Tamil — **30/30 present**
 - Pass1 — **COMPLETE / PASS**
 - Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
+- Pass2B — **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+- Pass2B Batch1 corrections — **3 — scans362, 364, 367**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- Pass2B / Pass3 — **NOT STARTED**
-- exact next — **Part013 Pass2B Batch1 scans361–370 / local1–10 / printed354–363**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- exact next — **Part013 Pass2B Batch2 scans371–380 / local11–20 / printed364–373**
 - Parts014–016 — **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**
-
 ## Part001 — FINAL CLOSED / FROZEN
 
 Part001 / scans1–30 is fully closed. Its Tamil, assembled Tamil, English and final Part closure chain must not be reopened merely because Part002 advances.
