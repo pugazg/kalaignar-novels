@@ -44,17 +44,17 @@ The canonical `scan_page` remains the overall scan number **361–390**.
 
 Part013 is **ACTIVE**.
 
-- Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
-- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 9 corrections**
-- Pass3 — **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+- Pass1 — **COMPLETE / PASS — 30/30**
+- Pass2A — **COMPLETE / PASS — 30/30 — 17 corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 — 9 corrections**
+- Pass3 — **COMPLETE / PASS — 30/30**
 - Pass3 textual corrections — **0**
-- unresolved visual / structural questions — **0**
+- unresolved internal Tamil / lexical / glyph / visual / structural questions — **0**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- exact next — **Part013 Pass3 Batch2 scans371–380 / local11–20 / printed364–373**
+- exact next — **Part013 Part audit**
 
 
 ## Part012 final closure / Part013 frontier
@@ -260,3 +260,20 @@ Part013 is **ACTIVE**.
 - visual fidelity — **30/30 needs-review**
 - outgoing **390→391 — PENDING direct audit**
 - exact next — **Part013 Pass3 Batch2 scans371–380 / local11–20 / printed364–373**
+
+## Part013 Pass3 closure checkpoint
+
+**PART013 PASS 3 — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- user override — after Batch1, **process remaining pages**; logical Batches2–3 completed together
+- Batch2 — scans371–380 / printed364–373 — **REVIEWED / PASS**
+- Batch3 — scans381–390 / printed374–383 — **REVIEWED / PASS**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- displayed chapter openings — **58/361, 59/366, 60/372, 61/378, 62/384**
+- substantial blank chapter-close fields — **365, 371, 377, 383**
+- scan390 substantial blank lower field — **confirmed**, but no chapter-close conclusion before 390→391 direct audit
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- outgoing **390→391 — PENDING direct audit**
+- exact next — **Part013 Part audit**
