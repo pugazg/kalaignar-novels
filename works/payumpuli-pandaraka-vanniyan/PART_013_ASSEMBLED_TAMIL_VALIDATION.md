@@ -134,3 +134,25 @@ Final audit targets:
 Begin **Part013 English translation planning/setup**.
 
 Perform a live English batch-number/source-check and maintained-English section collision check before reserving the Part013 sequence. Create planning/glossary/progress controls only; do not draft English prose in the setup gate.
+
+## Part013 English planning/setup checkpoint
+
+**PART013 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- prior source-check frontier — **E69**
+- source-check controls E1–E69 — **contiguous / 69**
+- missing E1–E69 controls — **0**
+- reserved Part013 sequence — **E70–E74 / 5**
+- prior maintained English section frontier — **72**
+- reserved English section range — **73–77 / 5**
+- batch / section collisions — **0 / 0**
+- translated / source-checked — **0/5 / 0/5**
+- English literary prose drafted in planning gate — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–012 English body edits — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- Part014 leakage — **0**
+- active controls — `translations/en/PART_013_TRANSLATION_PLAN.md`, `PART_013_GLOSSARY.md`, `PART_013_PROGRESS.md`
+- exact next gate — **E70 draft + source-check — section73 / scans361–365**
+- do not begin E71 until E70 is **SOURCE-CHECKED / COMPLETE**
