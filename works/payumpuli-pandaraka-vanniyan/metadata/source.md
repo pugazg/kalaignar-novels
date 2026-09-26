@@ -82,14 +82,14 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 - Part013 Pass1 — **COMPLETE / PASS**
 - Part013 Pass2A — **COMPLETE / PASS — 30/30 REVIEWED**
 - Part013 Pass2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass2B cumulative corrections — **9 — scans362, 364, 367, 376, 378, 380, 385, 386, 387**
-- historical-glyph corrections — **0**
+- Part013 Pass3 — **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- Pass3 — **NOT STARTED / UNBLOCKED**
-- exact next — **Part013 Pass3 Batch1 scans361–370**
+- exact next — **Part013 Pass3 Batch2 scans371–380**
 - Part014 SHA-256 — `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`
 - Part015 SHA-256 — `2efbc6088e061e4d145a8f2bc9c63936ef3e20ea6e63e8734edc88507e5c37a0`
 - Part016 SHA-256 — `82ca2020407e0996abfa2d3b29a192c56419f3f7da22a5a9d3d5dd5b8f9c3c6c`
