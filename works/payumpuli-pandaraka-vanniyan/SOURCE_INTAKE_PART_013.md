@@ -42,20 +42,20 @@ The canonical `scan_page` remains the overall scan number **361–390**.
 
 ## Current gate
 
-Part013 is **ACTIVE / AUDITED**.
+Part013 is **ACTIVE / AUDITED / FINAL STATUS CLOSED**.
 
-- Pass1 — **COMPLETE / PASS — 30/30**
-- Pass2A — **COMPLETE / PASS — 30/30 — 17 corrections**
-- Pass2B — **COMPLETE / PASS — 30/30 — 9 corrections**
-- Pass3 — **COMPLETE / PASS — 30/30**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
 - textual status — **30/30 verified**
-- visual fidelity — **30/30 needs-review**
+- visual fidelity — **30/30 verified**
+- partial / source-limited / needs-review — **0 / 0 / 0**
 - unresolved internal issues — **0**
-- missing / duplicate canonical records — **0 / 0**
+- canonical-body changes in final-status gate — **0**
+- visual-fidelity promotions — **30**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- exact next — **Part013 final metadata/status synchronization**
+- exact next — **Part013 documentation synchronization**
 
 
 ## Part012 final closure / Part013 frontier
@@ -296,3 +296,17 @@ Part013 is **ACTIVE / AUDITED**.
 - Part014 leakage — **0**
 - durable audit — `PART_013_AUDIT.md`
 - exact next — **Part013 final metadata/status synchronization**
+
+## Part013 final metadata/status synchronization checkpoint
+
+**PART013 FINAL METADATA / STATUS SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical records — **30/30**
+- textual / visual status — **30/30 verified / 30/30 verified**
+- visual-fidelity promotions — **30**
+- body changes — **0**
+- unresolved page-status exceptions — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- durable record — `PART_013_FINAL_STATUS_SYNC.md`
+- exact next — **Part013 documentation synchronization**
