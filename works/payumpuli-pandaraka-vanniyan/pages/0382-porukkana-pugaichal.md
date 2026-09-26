@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_013_pages_361-390.pdf"
-transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans381–390; formal Part013 Pass 2A reviewed; formal Part013 Pass 2B reviewed"
+transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans381–390; formal Part013 Pass 2A reviewed; formal Part013 Pass 2B reviewed; formal Part013 Pass 3 reviewed"
 ---
 
 # போருக்கான புகைச்சல்!
@@ -58,4 +58,15 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 - textual `status` remains **verified**;
 - `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 382; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 375; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
+## Formal Part013 Pass 3 review
+
+- direct full-page visual / structural verification completed against the rendered Part013 source image;
+- page type, printed pagination, recurring border/page furniture, paragraph/dialogue block placement, displayed hierarchy and physical page-end state were checked;
+- printed folio **375**; chapter61 continuation, recurring border/page furniture and paragraph placement confirmed; resumes `சனைக்கு`; page ends with complete exclamatory phrase `கூச்சல், கதறலுடன்!`;
+- Tamil body corrections in Pass 3: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** until Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 382; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 375; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / PASS 3 VISUAL-STRUCTURAL REVIEWED / visual-needs-review -->
