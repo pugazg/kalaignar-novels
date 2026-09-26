@@ -182,3 +182,24 @@ Scans **381–384 and 388–390** required **0** additional Pass2B canonical-bod
 Perform **Part013 Pass3 Batch1 — direct full-page visual / structural verification of scans361–370 / local1–10 / printed354–363**.
 
 Follow the fixed **10 source pages per iteration** cadence. Do not begin Part audit in the same activity. Keep outgoing **390→391 PENDING direct audit**.
+
+## Part013 documentation synchronization checkpoint
+
+**PART013 DOCUMENTATION SYNCHRONIZATION — PASS / COMPLETE.**
+
+- canonical Part013 Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- page-map Part013 rows — **30/30 verified**
+- unresolved documentation / Tamil / visual blockers — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- canonical page/body/status changes in this gate — **0**
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- Part014 leakage — **0**
+- durable record — `PART_013_DOCUMENTATION_SYNC.md`
+- exact next gate — **Part013 Tamil archival-ready checkpoint**
+- do not begin assembled Tamil construction until archival-ready closure
