@@ -23,7 +23,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Boundary state
 
-- incoming split boundary: **420→421 — source available; classification pending direct audit**;
+- incoming split boundary: **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**;
 - outgoing split boundary: **450→451 — source available; classification pending direct audit**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
@@ -44,4 +44,16 @@ The canonical `scan_page` remains the overall scan number **421–450**.
 
 Part 015 source split: **SUPPLIED / REGISTERED**.
 
-This Part waits behind the global active frontier. Do not create page records here until processing reaches its overall scan range.
+This Part waits behind the global active frontier. The incoming boundary is audited, but no Part015 canonical page record has been created. Do not create page records here until Part014 review/closure advances the global frontier.
+
+## Incoming boundary checkpoint
+
+**420→421 = CLEAN CHAPTER BOUNDARY / AUDITED / PASS.**
+
+- Part014 scan420 / printed414 closes chapter67 at the split for archival / assembly purposes;
+- Part015 scan421 / printed415 visibly opens displayed chapter68 `ஒரு பெண்ணின் பிராயச்சித்தம்!`;
+- no cross-boundary line, sentence, quotation or paragraph continuation is present;
+- durable audit — `PART_014_BOUNDARY_AUDIT_420_421.md`;
+- Part015 canonical records created by the audit — **0**;
+- outgoing **450→451 remains PENDING direct audit**;
+- Part015 remains **SUPPLIED / REGISTERED / WAITING**.
