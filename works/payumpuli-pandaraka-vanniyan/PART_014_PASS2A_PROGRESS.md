@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+**PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
 
 Prerequisites:
 - Part014 Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -25,12 +25,15 @@ For each reviewed physical scan, canonical Tamil is re-compared directly against
 
 ## Current accounting
 
-- reviewed — **10/30 — scans391–400**
-- remaining — **20/30 — scans401–420**
+- reviewed — **20/30 — scans391–410**
+- remaining — **10/30 — scans411–420**
 - Batch1 corrections — **8**
-- correction scans — **391, 392, 394, 395, 397**
+- Batch2 corrections — **10**
+- cumulative Pass2A corrections — **18**
+- Batch1 correction scans — **391, 392, 394, 395, 397**
+- Batch2 correction scans — **401, 407, 408, 409, 410**
 - unresolved textual questions — **0**
-- textual status — **10/30 verified / 20/30 needs-review**
+- textual status — **20/30 verified / 10/30 needs-review**
 - visual fidelity — **30/30 needs-review**
 - frozen Parts001–013 canonical / assembled / maintained-English body mutations — **0**
 - Part015 canonical records created — **0**
@@ -52,27 +55,50 @@ Corrections:
 
 Scans393, 396 and 398–400 required no canonical-body correction.
 
+## Batch2 decision — scans401–410
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+Corrections:
+- scan401 / printed394 — `“ஆங்கிலேய ஆதிக்கத்தை எதிர்ப்பவர் என்று` → **`“ஆங்கிலேய ஆதிக்கத்தை எதிர்ப்பவர்” என்று`** — source quotation-mark correction;
+- scan407 / printed401 — `கணைகள் -விசிய ஈட்டிகள் -` → **`கணைகள் -வீசிய ஈட்டிகள் -`** — lexical / source-reading correction;
+- scan408 / printed402 — `நடத்தத் திட்டமிட்டான்.` → **`நடத்தத் திட்ட மிட்டான்.`** — source spacing / word-boundary correction;
+- scan409 / printed403 — `தளபதி மேஜ் என்பவன்` → **`தளபதி மேட்ஜ் என்பவன்`** — source name-form correction;
+- scan409 / printed403 — `தளபதி மேஜின் படையை` → **`தளபதி மேட்ஜின் படையை`** — source name-form correction;
+- scan409 / printed403 — `தளபதி மேஜ் தனது படையுடன்` → **`தளபதி மேட்ஜ் தனது படையுடன்`** — source name-form correction;
+- scan409 / printed403 — `தளபதி மேஜின் தாக்குதல்` → **`தளபதி மேட்ஜின் தாக்குதல்`** — source name-form correction;
+- scan410 / printed404 — `என்றான் மேஜ்!` → **`என்றான் மேட்ஜ்!`** — source name-form correction;
+- scan410 / printed404 — `தளபதி மேஜ், கொஞ்சம்` → **`தளபதி மேட்ஜ், கொஞ்சம்`** — source name-form correction;
+- scan410 / printed404 — `தளபதி மேஜ், தனது படையுடன்` → **`தளபதி மேட்ஜ், தனது படையுடன்`** — source name-form correction.
+
+Scans402–406 required no canonical-body correction.
+
 ## Re-confirmed source locks
 
-- scan391 / printed384 opens displayed chapter63 `மாறுவேட மருத்துவர்!`; incoming **390→391 remains CLEAN CHAPTER BOUNDARY / AUDITED / PASS**;
-- scan392→393 preserves physical continuation **`பண்டாரக` + `வன்னியனுக்குத்`**;
-- scan393 retains source-visible dialogue lead-in ending `சொன்னாள்.-`;
-- scan394→395 preserves physical continuation **`உணர்வு` + `வந்தவளாக`**;
-- scan395 closes chapter63;
-- scan396 / printed389 opens displayed chapter64 `அதிர்ந்தது போர்முரசு!`;
-- scan400 / printed393 ends mid-sentence at `என்பதை`; no scan401 body was imported in this Pass2A batch.
+- scan401 / printed394 closes chapter64 `அதிர்ந்தது போர்முரசு!`;
+- scan402 / printed395 opens displayed chapter65 `கண்டிக்குள் களம்!`;
+- scan402→403 preserves physical continuation **`எனக்குப் போட்டியாக` + `முளைத்தவன்!`**;
+- scan403 remains one physical scan carrying **two printed folios 396–397**;
+- printed396 source intentionally omits the closing quotation mark after `அறிவிக்க வேண்டும்.`;
+- scan403→404 preserves **`ஆனால் மெக்டோவலின் படை` + `நுழையும்போது`**;
+- scan404→405 preserves the open quoted continuation, including source-visible leading hyphen on scan405;
+- scan406→407 preserves **`கண்டியின்` + `உதவிக்கு`**;
+- scan408 / printed402 closes chapter65 with substantial intentional blank lower field;
+- scan409 / printed403 opens displayed chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!`;
+- scan409–410 source name form is **`மேட்ஜ்` / `மேட்ஜின்`**;
+- scan410 / printed404 ends inside open dialogue at `உங்கள்`; no scan411 body was imported in this Pass2A batch.
 
 ## Status decision
 
-For scans391–400:
+For scans391–410:
 - textual `status` — **verified**
 - `visual_fidelity` — **needs-review**
 - unresolved textual questions — **0**
 
-Scans401–420 remain at the Pass1 textual state pending their own Pass2A batches.
+Scans411–420 remain at the Pass1 textual state pending Batch3.
 
 ## Exact next activity
 
-Proceed with **Part014 Pass2A Batch2 — scans401–410 / local pages11–20 / observed printed folios394–404**.
+Proceed with **Part014 Pass2A Batch3 — scans411–420 / local pages21–30 / printed405–414**.
 
-Process exactly **10 physical source pages**. Apply only source-supported corrections. Remember that scan403 is the verified two-folio spread carrying printed396–397. Keep `visual_fidelity: "needs-review"`. Do not begin Pass2B in the same activity. Do not create Part015 canonical records.
+Process exactly **10 physical source pages**. Apply only source-supported corrections. Keep `visual_fidelity: "needs-review"`. Do not begin Pass2B in the same activity. Do not create Part015 canonical records.
