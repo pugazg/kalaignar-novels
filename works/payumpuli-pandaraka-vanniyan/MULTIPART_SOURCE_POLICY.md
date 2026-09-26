@@ -1503,3 +1503,29 @@ Direct source review established that scan403 contains **two printed folios (396
 - Part014 Pass1 — **30/30 TEXT-COMPLETE**
 - Pass2A — **NOT STARTED**
 - exact next — **Part014 Pass2A Batch1 scans391–400 / local1–10 / printed384–393**
+
+## Part014 Pass2A Batch1 checkpoint
+
+**PART014 PASS 2A — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- scans391–400 / local1–10 / printed384–393 — **REVIEWED / PASS**
+- textual status — **10/30 verified / 20/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- Batch1 corrections — **8**
+- correction scans — **391, 392, 394, 395, 397**
+- scan391 — `இப்போது தான்` → **`இப்போதுதான்`**
+- scan392 — `அப்போ!` → **`அய்யோ!`**
+- scan392 — `ஆமாம்- இனிமேல்` → **`ஆமாம் - இனிமேல்`**
+- scan392 — `புரியவில்லையே!` → **`புரிய வில்லையே!`**
+- scan392 — `திட்டமிட்ட பண்டாரகரைவிடப்` → **`திட்டமிட்டப் பண்டாரகரைவிடப்`**
+- scan394 — `குதிரையில் புறப்பட` → **`குதிரையில் பறப்பதை`**
+- scan395 — `ஆணைக்கிணங்க` → **`ஆணைக் கிணங்க`**
+- scan397 — `தயாரானேன்` → **`தயார் ஆனேன்`**
+- scans393, 396, 398–400 — **no canonical-body correction**
+- unresolved textual questions — **0**
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- Part015 canonical records created — **0**
+- Pass2B / Pass3 — **NOT STARTED**
+- durable progress — `PART_014_PASS2A_PROGRESS.md`
+- exact next — **Part014 Pass2A Batch2 scans401–410 / local11–20 / observed printed folios394–404**
