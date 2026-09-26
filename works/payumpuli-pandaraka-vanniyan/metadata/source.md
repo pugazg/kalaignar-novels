@@ -78,18 +78,18 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 ## Current processing frontier
 
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 / scans361–390 — **FINAL STATUS CLOSED**
+- Part013 / scans361–390 — **DOCUMENTATION SYNCHRONIZED**
 - canonical Tamil — **30/30 verified**
 - visual fidelity — **30/30 verified**
 - Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
-- unresolved internal issues — **0**
+- documentation synchronization — **PASS / COMPLETE**
+- unresolved documentation / Tamil / visual blockers — **0**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- durable audit — `PART_013_AUDIT.md`
-- durable final status sync — `PART_013_FINAL_STATUS_SYNC.md`
-- exact next — **Part013 documentation synchronization**
+- durable documentation sync — `PART_013_DOCUMENTATION_SYNC.md`
+- exact next — **Part013 Tamil archival-ready checkpoint**
 - Part014 SHA-256 — `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`
 - Part015 SHA-256 — `2efbc6088e061e4d145a8f2bc9c63936ef3e20ea6e63e8734edc88507e5c37a0`
 - Part016 SHA-256 — `82ca2020407e0996abfa2d3b29a192c56419f3f7da22a5a9d3d5dd5b8f9c3c6c`
@@ -885,3 +885,17 @@ Exact next activity: audit **330→331**; if usable, begin **Part012 Pass1 scans
 - outgoing **390→391 — PENDING direct audit**
 - durable record — `PART_013_FINAL_STATUS_SYNC.md`
 - exact next — **Part013 documentation synchronization**
+
+## Part013 documentation synchronization checkpoint
+
+**PART013 DOCUMENTATION SYNCHRONIZATION — PASS / COMPLETE.**
+
+- canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- unresolved documentation / Tamil / visual blockers — **0**
+- outgoing **390→391 — PENDING direct audit**
+- durable record — `PART_013_DOCUMENTATION_SYNC.md`
+- exact next — **Part013 Tamil archival-ready checkpoint**
