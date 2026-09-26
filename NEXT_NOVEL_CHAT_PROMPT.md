@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part013 Pass2B Batch2 scans371–380
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part013 Pass2B Batch3 scans381–390
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -21,12 +21,13 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - canonical Part013 records — **30/30**
 - Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
 - Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
-- Pass2B — **IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
-- Pass2B Batch1 corrections — **3**
-- Pass2B correction scans — **362, 364, 367**
-- scan362 — `அடிப்பைத்தியமே!` → **`அடி பைத்தியமே!`**
-- scan364 — `பேய்க் கூச்சல்!` → **`பேய்க்கூச்சல்!`**
-- scan367 — `தப்பித்து ஓடிவந்தாள்!` → **`தப்பித்து ஓடி வந்தாள்!`**
+- Pass2B — **IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
+- Pass2B cumulative corrections — **6**
+- Pass2B correction scans — **362, 364, 367, 376, 378, 380**
+- Batch2 corrections:
+  - scan376 — `ஒரு சகோதரியைப்போல் கவனித்துக்கொண்டாள்!` → **`ஒரு சகோதரியைப் போல கவனித்துக்கொண்டாள்!`**
+  - scan378 — `நார்த்பிரபுவைப் பழிவாங்குவது` → **`நார்த் பிரபுவைப் பழிவாங்குவது`**
+  - scan380 — `புத்தளம்நகரிலிருந்தேஓடத் தொடங்குகின்றனர்.` → **`புத்தளம் நகரிலிருந்தே ஓடத் தொடங்குகின்றனர்.`**
 - Pass2B historical-glyph corrections — **0**
 - unresolved lexical / historical-glyph questions — **0**
 - textual status — **30/30 verified**
@@ -45,7 +46,7 @@ Do not create later-Part canonical records and do not use Part014 wording during
 
 ## Exact next activity
 
-Perform **Part013 Pass2B Batch2 — scans371–380 / local pages11–20 / printed364–373**.
+Perform **Part013 Pass2B Batch3 — scans381–390 / local pages21–30 / printed374–383**.
 
 Process exactly **10 physical source pages** and independently reread the rendered source for lexical identity, historical / variant Tamil glyph identity, source-specific compounds and joins, word boundaries, punctuation and quotation boundaries.
 
