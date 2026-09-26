@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity and global mapping are durable; direct page audit remains pending.**
+**REGISTERED — split identity and global mapping are durable; Pass1 direct source capture is 20/30 complete.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **391–420**;
@@ -40,22 +40,47 @@ source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டா
 
 The canonical `scan_page` remains the overall scan number **391–420**.
 
+## Printed-folio layout note
+
+Printed pagination is **not guaranteed to be one folio per physical scan** in this Part.
+
+Direct Batch2 source review established:
+- scan401 → printed394;
+- scan402 → printed395;
+- **scan403 → two-folio spread carrying printed396 and397**;
+- scan404 → printed398;
+- scan405 → printed399;
+- scan406 → printed400;
+- scan407 → printed401;
+- scan408 → printed402;
+- scan409 → printed403;
+- scan410 → printed404.
+
+Therefore later printed folios must be read directly from each rendered source image and must not be projected arithmetically from scan number.
+
+
 ## Current gate
 
-Part 014 is **PASS1 IN PROGRESS / BATCH 1 COMPLETE**.
+Part 014 is **PASS1 IN PROGRESS / BATCH 2 COMPLETE**.
 
 - Parts001–013 — **FINAL CLOSED / FROZEN**
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **420→421 — PENDING direct audit**
-- canonical records — **10/30**
-- Pass1 Batch1 — **scans391–400 / local1–10 / printed384–393 — TEXT-COMPLETE**
+- canonical records — **20/30**
+- Pass1 Batch1 — **scans391–400 / local1–10 — TEXT-COMPLETE**
+- Pass1 Batch2 — **scans401–410 / local11–20 — TEXT-COMPLETE**
+- observed printed folios through scan410 — **384–404**
+- source-layout anomaly — **scan403 is a two-folio spread / printed396–397**
 - textual / visual status — **needs-review / needs-review**
 - unresolved Pass1 source-reading holds — **0**
-- chapter63 `மாறுவேட மருத்துவர்!` — opens391 / closes395
-- chapter64 `அதிர்ந்தது போர்முரசு!` — opens396 / continues400
-- scan400 ends mid-sentence at `என்பதை`
+- chapter64 closes401
+- chapter65 `கண்டிக்குள் களம்!` — opens402 / closes408
+- chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!` — opens409 / continues410
+- scan410 ends inside open dialogue at `உங்கள்`
 - Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
 - durable progress — `PART_014_PASS1_PROGRESS.md`
-- exact next — **Part014 Pass1 Batch2 scans401–410 / local11–20 / printed394–403**
+- exact next — **Part014 Pass1 Batch3 scans411–420 / local21–30**
+
+Read Batch3 printed folios directly from source. Do not pre-assume one printed folio per physical scan.
 
 Do not reopen frozen Parts001–013 merely to advance Part014.
