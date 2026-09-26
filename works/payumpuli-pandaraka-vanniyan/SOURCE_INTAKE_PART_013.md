@@ -42,17 +42,17 @@ The canonical `scan_page` remains the overall scan number **361–390**.
 
 ## Current gate
 
-Part013 English planning/setup is **COMPLETE / PASS — E70 NEXT**.
+Part013 English batches are **5/5 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**.
 
-- canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
-- assembled Tamil — **5/5 VERIFIED / CLOSED**
-- reserved English sequence — **E70–E74**
-- reserved English sections — **73–77**
-- translated / source-checked — **0/5 / 0/5**
-- collisions / unresolved planning holds — **0 / 0**
+- Tamil / assembled — **30/30 verified / 5/5 CLOSED**
+- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE**
+- physical coverage — **361–390 / 30**
+- source-boundary parity — **25/25 / PASS**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- unresolved batch holds — **0**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- exact next — **E70 draft + source-check — section73 / scans361–365**
+- exact next — **Part013 whole-Part glossary reconciliation**
 
 
 ## Part012 final closure / Part013 frontier
@@ -389,3 +389,21 @@ Part013 English planning/setup is **COMPLETE / PASS — E70 NEXT**.
 - active controls — `translations/en/PART_013_TRANSLATION_PLAN.md`, `PART_013_GLOSSARY.md`, `PART_013_PROGRESS.md`
 - exact next gate — **E70 draft + source-check — section73 / scans361–365**
 - do not begin E71 until E70 is **SOURCE-CHECKED / COMPLETE**
+
+## Part013 E70–E74 English batch closure
+
+**PART013 ENGLISH BATCHES — 5/5 SOURCE-CHECKED / COMPLETE.**
+
+- user-authorized override — **process all pages**
+- maintained English files — **5/5**
+- source-check controls — **E70–E74 / 5/5**
+- physical source coverage — **361–390 / 30**
+- source-boundary marker parity — **25/25 / PASS**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–012 English body edits — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- Part014 translation / paraphrase / semantic completion — **0**
+- unresolved batch-level holds — **0**
+- exact next gate — **Part013 whole-Part glossary reconciliation across E70–E74**
