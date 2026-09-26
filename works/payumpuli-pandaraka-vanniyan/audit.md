@@ -37,23 +37,22 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 ## Current live frontier — Part013
 
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 / scans361–390 — **ASSEMBLED TAMIL CLOSED**
-- canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
+- Part013 canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **5/5 VERIFIED / CLOSED**
-- assembled section range — **73–77**
-- assembled canonical coverage — **30/30**
-- omissions / duplicates / unsupported insertion / workflow-note leakage — **0 / 0 / 0 / 0**
-- unresolved assembly blockers — **0**
+- English planning/setup — **COMPLETE / PASS**
+- reserved English batches — **E70–E74 / 5**
+- reserved English sections — **73–77 / 5**
+- translated / source-checked — **0/5 / 0/5**
+- batch / section collisions — **0 / 0**
+- unresolved planning holds — **0**
+- English literary prose drafted in planning gate — **0**
+- canonical / assembled Tamil edits in planning — **0 / 0**
+- frozen Parts001–012 English body edits — **0**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- durable assembled validation — `PART_013_ASSEMBLED_TAMIL_VALIDATION.md`
-- exact next — **Part013 English translation planning/setup**
-- Parts014–016 — **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**
+- Part014 leakage — **0**
+- exact next — **E70 draft + source-check — section73 / scans361–365**
 ## Methodology correction
 
 Earlier work drifted into an **inventory-only forward progression** and prematurely created Part002 records for scans31–35.
@@ -2711,3 +2710,18 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - outgoing **390→391 — PENDING direct audit**
 - durable validation — `PART_013_ASSEMBLED_TAMIL_VALIDATION.md`
 - exact next gate — **Part013 English translation planning/setup**
+
+## Part013 English planning/setup checkpoint
+
+**PART013 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- E1–E69 source-check frontier — **contiguous / PASS**
+- E70–E74 reservation — **PASS**
+- English section73–77 collision check — **PASS / 0 collisions**
+- setup-created controls — **plan / glossary / progress**
+- English literary prose drafted — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–012 English body edits — **0**
+- unresolved planning holds — **0**
+- outgoing **390→391 — PENDING direct audit**
+- exact next — **E70 draft + source-check**
