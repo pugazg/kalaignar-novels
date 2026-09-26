@@ -37,19 +37,21 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 ## Current live frontier — Part013
 
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 / scans361–390 — **ACTIVE**
+- Part013 / scans361–390 — **ACTIVE / AUDITED**
 - canonical Tamil — **30/30 present**
 - Pass1 — **COMPLETE / PASS — 30/30**
 - Pass2A — **COMPLETE / PASS — 30/30 — 17 corrections**
 - Pass2B — **COMPLETE / PASS — 30/30 — 9 corrections**
 - Pass3 — **COMPLETE / PASS — 30/30**
-- Pass3 textual corrections — **0**
-- unresolved internal Tamil / lexical / glyph / visual / structural questions — **0**
+- Part audit — **PASS / COMPLETE**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
+- unresolved internal Tamil / lexical / glyph / visual / structural issues — **0**
+- missing / duplicate canonical records — **0 / 0**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- exact next — **Part013 Part audit**
+- durable audit — `PART_013_AUDIT.md`
+- exact next — **Part013 final metadata/status synchronization**
 - Parts014–016 — **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**
 ## Methodology correction
 
@@ -2625,3 +2627,19 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Part014 wording leakage — **0**
 - Pass2B / Pass3 — **NOT STARTED**
 - exact next — **Part013 Pass2B Batch1 scans361–370 / local1–10 / printed354–363**
+
+## Part013 Part audit checkpoint
+
+**PART013 PART AUDIT — PASS / COMPLETE.**
+
+- canonical records / page-map rows — **30/30 / 30/30**
+- local / global / printed ranges — **1–30 / 361–390 / 354–383 continuous**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- correction accounting — **17 / 9 / 0**
+- unresolved internal issues — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- durable audit — `PART_013_AUDIT.md`
+- exact next — **Part013 final metadata/status synchronization**
