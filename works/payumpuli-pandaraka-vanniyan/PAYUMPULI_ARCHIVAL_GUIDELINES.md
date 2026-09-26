@@ -1591,3 +1591,18 @@ Exact next gate: **Part011 English translation planning/setup**. Perform a live 
 - exact next — **direct outgoing boundary audit 420→421 only**
 - frozen Parts001–013 — **UNCHANGED**
 
+## Part014 outgoing boundary audit checkpoint
+
+**420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS.**
+
+- Part014 scan420 / printed414 — chapter67 `இரத்தம் படிந்த வாள்!` ends at the split for archival / assembly purposes after a complete final exchange; substantial intentional blank lower field follows
+- Part015 scan421 / printed415 — displayed chapter68 `ஒரு பெண்ணின் பிராயச்சித்தம்!` opens
+- unfinished cross-boundary line / sentence / quotation / paragraph — **0**
+- Part014 canonical body mutations caused by boundary audit — **0**
+- Part015 canonical records created — **0**
+- audited multipart split boundaries — **14/15**
+- remaining unaudited split — **450→451**
+- durable audit — `PART_014_BOUNDARY_AUDIT_420_421.md`
+- Part014 Pass1 — **30/30 TEXT-COMPLETE**
+- Pass2A — **NOT STARTED**
+- exact next — **Part014 Pass2A Batch1 scans391–400 / local1–10 / printed384–393**
