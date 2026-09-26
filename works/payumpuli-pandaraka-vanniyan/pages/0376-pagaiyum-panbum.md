@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_013_pages_361-390.pdf"
-transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans371–380; formal Part013 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch scans371–380; formal Part013 Pass 2A reviewed; formal Part013 Pass 2B reviewed"
 ---
 
 # பகையும் - பண்பும்!
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 
 இதற்குள் அந்த மொட்டைத் தலையை மார்த்தனி பலமுறை தடவி, அந்த முட்டைக் கண்களிலும் முத்தங்களை கொடுத்தாள். இட்ட பணியை ஒழுங்காக முடிக்காமல் சிக்கிக்கொண்டதற்காகக் கோபப்படாரேயென்று பயந்து, தனது மயக்கும் கலையை வலையாக்கினாள்.
 
-“ஒரு கட்டத்தில் நானும், பியசீலியும் குருவிச்சி நாச்சியாரிடம் சிக்கிக் கொண்டோம். அவள் வீசிய கட்டாரி என் குதிகாலைத் தாக்கவே நான் கீழே விழுந்தேன். அது விஷம் பூசிய கட்டாரி என்பதால் ரணம் ஆறவே இல்லை. என்னைக் கட்டாரியால் தாக்கி வீழ்த்திய குருவிச்சியே எனக்கு சிகிச்சையும் அளித்து ஒரு சகோதரியைப்போல் கவனித்துக்கொண்டாள்! நாட்கள், மாதங்கள் ஓடின! காலில் வேதனை தாங்க முடியவில்லை! புண், புரையோடத் தொடங்கிவிட்டது என்றும் - இதற்கு மேலும் விட்டால், ஒரு காலை அடியோடு எடுக்க வேண்டுமென்றும் உயிருக்கே ஆபத்து என்றும் அங்குள்ள வைத்தியர் கூறிவிட்டார். குருவிச்சியும், பண்டாரகனும் என் விருப்பத்தைக் கேட்டார்கள்!”
+“ஒரு கட்டத்தில் நானும், பியசீலியும் குருவிச்சி நாச்சியாரிடம் சிக்கிக் கொண்டோம். அவள் வீசிய கட்டாரி என் குதிகாலைத் தாக்கவே நான் கீழே விழுந்தேன். அது விஷம் பூசிய கட்டாரி என்பதால் ரணம் ஆறவே இல்லை. என்னைக் கட்டாரியால் தாக்கி வீழ்த்திய குருவிச்சியே எனக்கு சிகிச்சையும் அளித்து ஒரு சகோதரியைப் போல கவனித்துக்கொண்டாள்! நாட்கள், மாதங்கள் ஓடின! காலில் வேதனை தாங்க முடியவில்லை! புண், புரையோடத் தொடங்கிவிட்டது என்றும் - இதற்கு மேலும் விட்டால், ஒரு காலை அடியோடு எடுக்க வேண்டுமென்றும் உயிருக்கே ஆபத்து என்றும் அங்குள்ள வைத்தியர் கூறிவிட்டார். குருவிச்சியும், பண்டாரகனும் என் விருப்பத்தைக் கேட்டார்கள்!”
 
 “நீ, பாதத்தை அகற்றிவிடச் சொல்லிவிட்டாயா?”
 
@@ -49,4 +49,17 @@ transcription_method: "direct source-pixel transcription; Part013 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 376; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 369; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+## Formal Part013 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part013 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- source-confirmed correction: `ஒரு சகோதரியைப்போல் கவனித்துக்கொண்டாள்!` → **`ஒரு சகோதரியைப் போல கவனித்துக்கொண்டாள்!`** — source spacing / lexical-form restoration;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 376; பகுதி: 013; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 369; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
