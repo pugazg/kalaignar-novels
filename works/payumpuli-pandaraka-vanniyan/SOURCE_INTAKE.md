@@ -75,17 +75,16 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 
 ## Current state
 
-- Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 Tamil / assembled — **30/30 verified / 5/5 CLOSED**
-- English planning/setup — **COMPLETE / PASS**
-- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE**
-- physical source coverage — **361–390 / 30**
-- source-boundary parity — **25/25 / PASS**
-- unresolved English batch holds — **0**
-- incoming 360→361 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing 390→391 — **PENDING direct audit**
-- exact next — **Part013 whole-Part glossary reconciliation**
-- Parts014–016 — **SUPPLIED / REGISTERED / WAITING**
+- split registration — **16/16 COMPLETE**
+- physical coverage by split ranges — **477/477**
+- Parts001–013 — **FINAL CLOSED / FROZEN**
+- active content Part — **Part014 / scans391–420**
+- Part014 canonical records — **0**
+- incoming 390→391 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing 420→421 — **PENDING direct audit**
+- audited multipart split boundaries — **13/15**
+- exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
+- Parts015–016 — **SUPPLIED / REGISTERED / WAITING**
 
 
 ## Part005 final state
@@ -1419,3 +1418,7 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Tamil edits — **0**
 - frozen prior-English edits — **0**
 - exact next — **E70 draft + source-check**
+
+## Part013 final closure checkpoint
+
+**PART013 FINAL CLOSURE — PASS / CLOSED / FROZEN.** Part014 is now the active source frontier.
