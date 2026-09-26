@@ -37,21 +37,22 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 ## Current live frontier — Part013
 
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 / scans361–390 — **TAMIL ARCHIVAL-READY / CLOSED**
-- canonical Tamil — **30/30 verified**
-- visual fidelity — **30/30 verified**
+- Part013 / scans361–390 — **ASSEMBLED TAMIL CLOSED**
+- canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
 - Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
-- planned assembled section range — **73–77 / 5**
-- live section-order collisions — **0**
-- unresolved Tamil / visual / documentation blockers — **0**
+- assembled Tamil — **5/5 VERIFIED / CLOSED**
+- assembled section range — **73–77**
+- assembled canonical coverage — **30/30**
+- omissions / duplicates / unsupported insertion / workflow-note leakage — **0 / 0 / 0 / 0**
+- unresolved assembly blockers — **0**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
-- durable archival-ready record — `PART_013_TAMIL_ARCHIVAL_READY.md`
-- exact next — **Part013 assembled Tamil construction + audit — sections73–77**
+- durable assembled validation — `PART_013_ASSEMBLED_TAMIL_VALIDATION.md`
+- exact next — **Part013 English translation planning/setup**
 - Parts014–016 — **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**
 ## Methodology correction
 
@@ -2694,3 +2695,19 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Part014 leakage — **0**
 - durable record — `PART_013_TAMIL_ARCHIVAL_READY.md`
 - exact next activity — **Part013 assembled Tamil construction + audit — sections73–77**
+
+## Part013 assembled Tamil closure checkpoint
+
+**PART013 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED.**
+
+- canonical Part013 Tamil / visual fidelity — **30/30 verified / 30/30 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **5/5 VERIFIED / CLOSED**
+- assembled section range — **73–77**
+- assembled canonical coverage — **30/30 scans361–390**
+- omissions / duplicates / unsupported insertion / workflow-note leakage — **0 / 0 / 0 / 0**
+- frozen Parts001–012 assembled mutations — **0**
+- Part014 body leakage — **0**
+- outgoing **390→391 — PENDING direct audit**
+- durable validation — `PART_013_ASSEMBLED_TAMIL_VALIDATION.md`
+- exact next gate — **Part013 English translation planning/setup**
