@@ -1487,3 +1487,21 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
 - exact next — **Part013 Part audit**
+
+## Part013 Part audit checkpoint
+
+**PART013 PART AUDIT — PASS / COMPLETE.**
+
+- canonical Part013 rows — **30/30**
+- local pages — **1–30 continuous**
+- global scans — **361–390 continuous**
+- printed pages — **354–383 continuous**
+- duplicate local / scan / printed entries — **0 / 0 / 0**
+- section/chapter mapping — **PASS**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- unresolved internal issues — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- exact next — **Part013 final metadata/status synchronization**
