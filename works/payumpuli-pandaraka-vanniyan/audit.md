@@ -37,21 +37,19 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 ## Current live frontier — Part013
 
 - Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 / scans361–390 — **ACTIVE / AUDITED**
-- canonical Tamil — **30/30 present**
-- Pass1 — **COMPLETE / PASS — 30/30**
-- Pass2A — **COMPLETE / PASS — 30/30 — 17 corrections**
-- Pass2B — **COMPLETE / PASS — 30/30 — 9 corrections**
-- Pass3 — **COMPLETE / PASS — 30/30**
+- Part013 / scans361–390 — **ACTIVE / FINAL STATUS CLOSED**
+- canonical Tamil — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part audit — **PASS / COMPLETE**
-- textual status — **30/30 verified**
-- visual fidelity — **30/30 needs-review**
+- final metadata/status synchronization — **PASS / CLOSED**
 - unresolved internal Tamil / lexical / glyph / visual / structural issues — **0**
-- missing / duplicate canonical records — **0 / 0**
+- partial / source-limited / needs-review — **0 / 0 / 0**
 - incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **390→391 — PENDING direct audit**
 - durable audit — `PART_013_AUDIT.md`
-- exact next — **Part013 final metadata/status synchronization**
+- durable final status sync — `PART_013_FINAL_STATUS_SYNC.md`
+- exact next — **Part013 documentation synchronization**
 - Parts014–016 — **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**
 ## Methodology correction
 
@@ -2643,3 +2641,18 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - outgoing **390→391 — PENDING direct audit**
 - durable audit — `PART_013_AUDIT.md`
 - exact next — **Part013 final metadata/status synchronization**
+
+## Part013 final metadata/status synchronization checkpoint
+
+**PART013 FINAL METADATA / STATUS SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical records — **30/30 — scans361–390**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- visual-fidelity promotions — **30**
+- canonical Tamil body changes — **0**
+- unresolved page-status exceptions — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- durable record — `PART_013_FINAL_STATUS_SYNC.md`
+- exact next — **Part013 documentation synchronization**
