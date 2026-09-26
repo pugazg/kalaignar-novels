@@ -75,84 +75,20 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 
 ## Current state
 
-- split registration — **16 / 16 COMPLETE**
-- physical coverage by split ranges — **477 / 477**
-- Part001 — **FINAL CLOSED / FROZEN**
-- Part002 — **FINAL CLOSED / FROZEN**
-- Part003 — **FINAL CLOSED / FROZEN**
-- active content Part — **Part006 / scans151–180**
-- canonical Part004 records — **30/30 present**
-- Part004 Pass 1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
-- Part004 Pass 2A — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part004 Pass 2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part004 Pass 3 — **COMPLETE / PASS — 30/30 REVIEWED**
-- Part004 Part audit — **PASS / COMPLETE**
-- Part004 final metadata/status synchronization — **PASS / CLOSED**
-- Part004 documentation synchronization — **PASS / COMPLETE**
-- Part004 Tamil textual status — **30/30 verified; 0 partial/source-limited; 0 needs-review**
-- Part004 visual fidelity — **30/30 verified; 0 needs-review**
-- Part004 unresolved status exceptions — **0**
-- Part004 Tamil archival-ready — **PASS / CLOSED**
-- Part004 assembled Tamil — **PASS / CLOSED — 5/5 VERIFIED**
-- Part004 English planning/setup — **COMPLETE / PASS**
-- Part004 English translated/source-checked — **5/5**
-- Part004 E15 — **SOURCE-CHECKED / COMPLETE**
-- Part004 E16 — **SOURCE-CHECKED / COMPLETE**
-- Part004 E17 — **SOURCE-CHECKED / COMPLETE**
-- Part004 E18 — **SOURCE-CHECKED / COMPLETE**
-- Part004 E19 — **SOURCE-CHECKED / COMPLETE**
-- Part004 English glossary reconciliation — **RECONCILED / PASS**
-- Part004 glossary-reconciliation English section edits — **0**
-- Part004 unresolved glossary holds — **0**
-- Part004 English editorial review — **PASS / CLOSED**
-- Part004 editorial English-only changes — **25**
-- Part004 whole-Part bilingual review — **PASS / CLOSED**
-- Part004 bilingual English-only corrections — **0**
-- Part004 release/readiness — **PASS / CLOSED**
-- Part004 release-ready synchronization — **PASS / CLOSED**
-- Part004 final closure — **PASS / CLOSED / FROZEN**
-- Part005 — **FINAL CLOSED / FROZEN**
-- Part005 canonical page records — **30/30 — scans121–150**
-- Part005 incoming 120→121 — **GENUINE CONTINUATION / AUDITED**
-- Part005 outgoing 150→151 — **GENUINE CONTINUATION / AUDITED**
-- Part005 Pass 1 — **COMPLETE / PASS — 30/30**
-- Part005 Pass 2A — **COMPLETE / PASS — 30/30**
-- Part005 Pass 2B — **COMPLETE / PASS — 30/30**
-- Part005 Pass 3 — **COMPLETE / PASS — 30/30**
-- Part005 Part audit — **PASS / COMPLETE**
-- Part005 final metadata/status synchronization — **PASS / CLOSED**
-- Part005 Tamil textual status — **30/30 verified; 0 needs-review**
-- Part005 visual fidelity — **30/30 verified; 0 needs-review**
-- Part005 unresolved status exceptions — **0**
-- Part005 documentation synchronization — **PASS / COMPLETE**
-- Part005 Tamil archival-ready — **PASS / CLOSED**
-- Part005 canonical page mutations caused by archival-ready checkpoint — **0**
-- Part006 canonical leakage — **0**
-- Part005 assembled Tamil — **PASS / CLOSED — 7/7 VERIFIED**
-- Part005 canonical page mutations caused by assembly — **0**
-- frozen Part001–Part004 assembled-file mutations — **0**
-- Part006 body leakage — **0**
-- Part005 English translation planning/setup — **COMPLETE / PASS**
-- boundary 30→31 — **GENUINE CONTINUATION / AUDITED**
-- boundary 60→61 — **CLEAN / AUDITED**
-- boundary 90→91 — **GENUINE CONTINUATION / AUDITED**
-- boundary 120→121 — **GENUINE CONTINUATION / AUDITED**
-- boundary 150→151 — **GENUINE CONTINUATION / AUDITED**
+- split registration — **16/16 COMPLETE**
+- physical coverage by split ranges — **477/477**
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- active content Part — **Part013 / scans361–390**
+- Part013 canonical records — **30/30 present**
+- Part013 Pass1 — **COMPLETE / PASS**
+- Part013 Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 17 corrections**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming 360→361 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing 390→391 — **PENDING direct audit**
+- exact next — **Part013 Pass2B Batch1 scans361–370 / local1–10 / printed354–363**
+- Parts014–016 — **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**
 
-Authoritative work-specific methodology:
-- `PAYUMPULI_ARCHIVAL_GUIDELINES.md`
-
-Authoritative Part004 verification records:
-- `SOURCE_INTAKE_PART_004.md`
-- `PART_004_PASS1_PROGRESS.md`
-- `PART_004_PASS2A_PROGRESS.md`
-- `PART_004_PASS2B_PROGRESS.md`
-- `PART_004_PASS3_PROGRESS.md`
-- `PART_004_AUDIT.md`
-- `PART_004_FINAL_STATUS_SYNC.md`
-- `PART_004_DOCUMENTATION_SYNC.md`
-- `PART_004_TAMIL_ARCHIVAL_READY.md`
-- `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Part005 final state
 
