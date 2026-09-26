@@ -7,22 +7,18 @@
 - **LIVE MAIN IS AUTHORITATIVE.**
 - Active work: `works/payumpuli-pandaraka-vanniyan/`
 
-## Current live frontier — Part013
+## Current live frontier — Part014
 
-- Parts001–012 — **FINAL CLOSED / FROZEN**
-- Part013 Tamil / assembled — **30/30 verified / 5/5 CLOSED**
-- English planning/setup — **COMPLETE / PASS**
-- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE**
-- scans translated/source-checked — **361–390 / 30**
-- source-boundary marker parity — **25/25 / PASS**
-- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
-- canonical / assembled Tamil edits — **0 / 0**
-- frozen Parts001–012 English body edits — **0**
-- unresolved batch-level holds — **0**
-- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **390→391 — PENDING direct audit**
-- Part014 leakage — **0**
-- exact next — **Part013 whole-Part glossary reconciliation across E70–E74**
+- Parts001–013 — **FINAL CLOSED / FROZEN**
+- Part014 / scans391–420 — **NEXT ACTIVE / AUTHORIZED**
+- source SHA-256 — `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- scan391 opens displayed chapter63 `மாறுவேட மருத்துவர்!`
+- outgoing **420→421 — PENDING direct audit**
+- canonical records — **0**
+- Pass1 — **NOT STARTED**
+- audited multipart split boundaries — **13/15**
+- exact next — **Part014 Pass1 Batch1 scans391–400 / local1–10**
 ## Source family
 
 - TVA_BOK_0065744
@@ -2648,3 +2644,18 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - outgoing **390→391 — PENDING direct audit**
 - Part014 leakage — **0**
 - exact next — **whole-Part glossary reconciliation**
+
+## Part013 final closure / Part014 frontier
+
+**PART013 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–013 — **FINAL CLOSED / FROZEN**
+- Part013 canonical Tamil / visual fidelity — **30/30 verified / frozen**
+- assembled Tamil — **5/5 VERIFIED / frozen**
+- E70–E74 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary / editorial / bilingual / release / release-ready sync — **PASS / PASS / PASS / PASS / PASS**
+- outgoing **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- unresolved Part013 blockers — **0**
+- durable closure — `PART_013_FINAL_CLOSURE.md`
+- Part014 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part014 Pass1 Batch1 scans391–400**
