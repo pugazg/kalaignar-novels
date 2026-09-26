@@ -406,16 +406,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 014 | 8 | 398 | 391 | `அதிர்ந்தது போர்முரசு!` continuation; surrender-strategy discussion | verified | `pages/0398-athirndhathu-pormurasu.md` |
 | 014 | 9 | 399 | 392 | `அதிர்ந்தது போர்முரசு!` continuation; proposed Kandyan abdication / transfer plan | verified | `pages/0399-athirndhathu-pormurasu.md` |
 | 014 | 10 | 400 | 393 | `அதிர்ந்தது போர்முரசு!` continuation; ends mid-sentence at `என்பதை` | verified | `pages/0400-athirndhathu-pormurasu.md` |
-| 014 | 11 | 401 | 394 | chapter64 `அதிர்ந்தது போர்முரசு!` continuation / close; scan402 opens chapter65 | needs-review | `pages/0401-athirndhathu-pormurasu.md` |
-| 014 | 12 | 402 | 395 | chapter65 opening `கண்டிக்குள் களம்!`; displayed number65; ends `எனக்குப் போட்டியாக` | needs-review | `pages/0402-kandikkul-kalam.md` |
-| 014 | 13 | 403 | 396–397 | two-folio spread; `கண்டிக்குள் களம்!`; printed396 resumes scan402; printed397 ends `ஆனால் மெக்டோவலின் படை` | needs-review | `pages/0403-kandikkul-kalam.md` |
-| 014 | 14 | 404 | 398 | `கண்டிக்குள் களம்!` continuation; resumes `நுழையும்போது`; ends quoted continuation `விட்டுக் கொடுத்து` | needs-review | `pages/0404-kandikkul-kalam.md` |
-| 014 | 15 | 405 | 399 | `கண்டிக்குள் களம்!` continuation; leading hyphen resumes scan404 quotation | needs-review | `pages/0405-kandikkul-kalam.md` |
-| 014 | 16 | 406 | 400 | `கண்டிக்குள் களம்!` continuation; ends quoted sentence at `கண்டியின்` | needs-review | `pages/0406-kandikkul-kalam.md` |
-| 014 | 17 | 407 | 401 | `கண்டிக்குள் களம்!` continuation; resumes `உதவிக்கு`; ends `ஒரு வழியாக` | needs-review | `pages/0407-kandikkul-kalam.md` |
-| 014 | 18 | 408 | 402 | chapter65 `கண்டிக்குள் களம்!` close; substantial intentional blank lower field | needs-review | `pages/0408-kandikkul-kalam.md` |
-| 014 | 19 | 409 | 403 | chapter66 opening `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!`; displayed number66 | needs-review | `pages/0409-vellaik-kodiyum-vetri-vizhavum.md` |
-| 014 | 20 | 410 | 404 | chapter66 continuation; ends open dialogue at `உங்கள்` | needs-review | `pages/0410-vellaik-kodiyum-vetri-vizhavum.md` |
+| 014 | 11 | 401 | 394 | chapter64 `அதிர்ந்தது போர்முரசு!` continuation / close; scan402 opens chapter65 | verified | `pages/0401-athirndhathu-pormurasu.md` |
+| 014 | 12 | 402 | 395 | chapter65 opening `கண்டிக்குள் களம்!`; displayed number65; ends `எனக்குப் போட்டியாக` | verified | `pages/0402-kandikkul-kalam.md` |
+| 014 | 13 | 403 | 396–397 | two-folio spread; `கண்டிக்குள் களம்!`; printed396 resumes scan402; printed397 ends `ஆனால் மெக்டோவலின் படை` | verified | `pages/0403-kandikkul-kalam.md` |
+| 014 | 14 | 404 | 398 | `கண்டிக்குள் களம்!` continuation; resumes `நுழையும்போது`; ends quoted continuation `விட்டுக் கொடுத்து` | verified | `pages/0404-kandikkul-kalam.md` |
+| 014 | 15 | 405 | 399 | `கண்டிக்குள் களம்!` continuation; leading hyphen resumes scan404 quotation | verified | `pages/0405-kandikkul-kalam.md` |
+| 014 | 16 | 406 | 400 | `கண்டிக்குள் களம்!` continuation; ends quoted sentence at `கண்டியின்` | verified | `pages/0406-kandikkul-kalam.md` |
+| 014 | 17 | 407 | 401 | `கண்டிக்குள் களம்!` continuation; resumes `உதவிக்கு`; ends `ஒரு வழியாக` | verified | `pages/0407-kandikkul-kalam.md` |
+| 014 | 18 | 408 | 402 | chapter65 `கண்டிக்குள் களம்!` close; substantial intentional blank lower field | verified | `pages/0408-kandikkul-kalam.md` |
+| 014 | 19 | 409 | 403 | chapter66 opening `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!`; displayed number66 | verified | `pages/0409-vellaik-kodiyum-vetri-vizhavum.md` |
+| 014 | 20 | 410 | 404 | chapter66 continuation; ends open dialogue at `உங்கள்` | verified | `pages/0410-vellaik-kodiyum-vetri-vizhavum.md` |
 | 014 | 21 | 411 | 405 | chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!` continuation; resumes scan410 open dialogue at `நெஞ்சில்` | needs-review | `pages/0411-vellaik-kodiyum-vetri-vizhavum.md` |
 | 014 | 22 | 412 | 406 | chapter66 continuation; ends mid-sentence at `வீரனுக்கு` | needs-review | `pages/0412-vellaik-kodiyum-vetri-vizhavum.md` |
 | 014 | 23 | 413 | 407 | chapter66 continuation; resumes `அழகுமில்லை!`; ends mid-sentence at `சேர` | needs-review | `pages/0413-vellaik-kodiyum-vetri-vizhavum.md` |
@@ -1681,4 +1681,22 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - Part015 canonical records created — **0**
 - exact next — **Part014 Pass2A Batch2 scans401–410 / local11–20 / observed printed folios394–404**
+
+## Part014 Pass2A Batch2 checkpoint
+
+**PART014 PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED.**
+
+- scans401–410 / local11–20 — **REVIEWED / PASS**
+- observed printed folios — **394–404**, with scan403 carrying **396–397**
+- textual status — **20/30 verified / 10/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- Batch2 corrections — **10**
+- cumulative Pass2A corrections — **18**
+- Batch2 correction scans — **401, 407, 408, 409, 410**
+- scan409–410 source name form — **`மேட்ஜ்` / `மேட்ஜின்`**
+- unresolved textual questions — **0**
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- Part015 canonical records created — **0**
+- exact next — **Part014 Pass2A Batch3 scans411–420 / local21–30 / printed405–414**
 
