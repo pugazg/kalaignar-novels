@@ -33,7 +33,24 @@ For every `N→N+1` boundary:
 
 **source intake → Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → status sync → documentation sync → Tamil archival-ready → assembled Tamil → English → release/readiness → release-ready synchronization → final Part closure → next Part**
 
-## Current state
+## Current authoritative frontier — Part013
+
+- 16 / 16 split PDFs — **SUPPLIED / REGISTERED**
+- Parts001–012 — **FINAL CLOSED / FROZEN**
+- Part013 / scans361–390 — **DOCUMENTATION SYNCHRONIZED**
+- canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- unresolved documentation / Tamil / visual blockers — **0**
+- incoming **360→361 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **390→391 — PENDING direct audit**
+- Parts014–016 — **SUPPLIED / REGISTERED / WAITING**
+- exact next gate — **Part013 Tamil archival-ready checkpoint**
+- do not begin assembled Tamil construction until archival-ready closure
+
+## Historical accumulated state
 
 - 16 / 16 split PDFs — **SUPPLIED / REGISTERED**
 - Part001 — **FINAL CLOSURE / CLOSED / FROZEN**
