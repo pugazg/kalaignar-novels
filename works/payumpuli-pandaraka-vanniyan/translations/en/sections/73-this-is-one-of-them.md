@@ -73,7 +73,7 @@ Suddenly came a demonic scream. After that no sound came from Piyaseeli. Yet his
 
 She had realized with her own eyes that among all worldly pleasures, the highest was the pleasure born in the dance hall of the god of love; she had believed that immersing herself in that pleasure was the purpose of birth, the aim of life and the very nature of womanhood. Leaping into men's laps and delighting in their grasp, that mad young woman's life ended—just as she had wished—in some man's bedchamber.
 
-The dances she danced—the races she ran—the songs she sang—the men she sought—all of it, pain within pleasure and ruin within delight, mingled together and came to an end.
+The dances she danced—the races she ran—the songs she sang—the men she sought—all of them, pain within pleasure and a final “Subham” within delight, mingled together and came to an end.
 
 When Lord North's stupor cleared, he wrung his hands and cried, “What have I done!” The officers he summoned came running and said, “There is no time to sit worrying. Let us see what must be done now!”
 
