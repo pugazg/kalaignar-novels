@@ -33,23 +33,19 @@ For every `N→N+1` boundary:
 
 **source intake → Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → status sync → documentation sync → Tamil archival-ready → assembled Tamil → English → release/readiness → release-ready synchronization → final Part closure → next Part**
 
-## Current authoritative frontier — Part015 E80 next
+## Current authoritative frontier — Part015 E81 next
 
 - Parts001–014 — **FINAL CLOSED / FROZEN**
 - Part015 canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
-- Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
 - English planning/setup — **COMPLETE / PASS**
-- source-check frontier before Part015 — **E79**
-- reserved Part015 batches — **E80–E84 / 5**
-- reserved maintained English sections — **83–87 / 5**
-- batch / section collisions — **0 / 0**
-- English prose drafted during setup — **0**
-- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
-- scan439 / scan448 — **illustration-only / no English body**
+- E80 / section83 / scans421–426 — **SOURCE-CHECKED / COMPLETE**
+- maintained English section83 — **CREATED / SOURCE-CHECKED**
+- E80 literary blocks / boundaries — **41/41 / 5/5 PASS**
+- E80 English source-check refinements — **1**
+- E81–E84 — **NOT STARTED**
 - Part016 — **SUPPLIED / REGISTERED / WAITING; 0 canonical records; Pass1 BLOCKED**
-- exact next — **E80 draft + source-check — section83 / scans421–426**
+- exact next — **E81 draft + source-check — section84 / scans427–432**
 
 ## Historical accumulated state
 
