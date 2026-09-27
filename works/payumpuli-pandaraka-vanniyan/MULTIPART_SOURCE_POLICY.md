@@ -33,21 +33,22 @@ For every `N→N+1` boundary:
 
 **source intake → Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → status sync → documentation sync → Tamil archival-ready → assembled Tamil → English → release/readiness → release-ready synchronization → final Part closure → next Part**
 
-## Current authoritative frontier — Part015 assembled Tamil audit next
+## Current authoritative frontier — Part015 English planning/setup next
 
 - Parts001–014 — **FINAL CLOSED / FROZEN**
 - Part015 canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
 - Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part audit / final status / documentation — **PASS / CLOSED / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil construction — **5/5 COMPLETE — sections83–87**
-- assembled Tamil validation/audit — **NOT STARTED / NEXT**
+- assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
+- assembled comparison — **5/5 EXACT / PASS against canonical literary payloads**
+- omissions / duplicates / unsupported Tamil insertion — **0 / 0 / 0**
+- workflow-note leakage — **0**
 - incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **450→451 — CLEAN / AUDITED / PASS**
-- multipart split boundaries — **15/15 AUDITED / COMPLETE**
-- Part016 — **SUPPLIED / REGISTERED / WAITING; 0 canonical records; Pass1 NOT STARTED**
-- English work — **BLOCKED UNTIL ASSEMBLED TAMIL VALIDATION CLOSES**
-- exact next — **Part015 assembled Tamil validation/audit — sections83–87**
+- outgoing **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
+- Part016 — **SUPPLIED / REGISTERED / WAITING; 0 canonical records; Pass1 NOT STARTED / BLOCKED**
+- English planning/setup — **NOT STARTED / NEXT**
+- exact next — **Part015 English translation planning/setup; live batch/section collision checks; controls only; no English literary prose**
 
 ## Historical accumulated state
 
