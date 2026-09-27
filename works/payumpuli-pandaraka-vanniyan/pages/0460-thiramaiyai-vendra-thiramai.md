@@ -27,9 +27,9 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 s
 
 ## Pass 1 notes
 
-- printed page **453**; chapter73 continues beyond Batch1
+- printed page **453**; chapter73 closes on this physical page — confirmed by scan461 / printed454 opening displayed chapter74 `காக்கையும் குருவியும்!`
 - resumes scan459 physical split at `எண்ணற்றோர் பலியாயினர்.`
-- physical page ends after the search-for-Pandarakan question; no scan461 wording imported
+- physical page ends after the search-for-Pandarakan question; direct scan461 witness confirms the next physical page opens chapter74; no scan461 literary wording is imported here
 - Batch1 stops here by the fixed 10-page iteration rule
 - Pass1 textual status remains **needs-review** pending Pass2A; visual fidelity remains **needs-review**
 
