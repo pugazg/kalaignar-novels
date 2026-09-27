@@ -2581,3 +2581,25 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Part015 leakage / canonical records — **0 / 0**
 - active controls — `translations/en/PART_014_TRANSLATION_PLAN.md`, `PART_014_GLOSSARY.md`, `PART_014_PROGRESS.md`
 - exact next — **E75 draft + source-check — section78 / scans391–395**
+
+## Part014 E75–E79 English batch closure checkpoint
+
+**PART014 ENGLISH BATCHES — 5/5 SOURCE-CHECKED / COMPLETE THROUGH SCAN420.**
+
+- E75 — section78 / scans391–395 — **SOURCE-CHECKED / COMPLETE**
+- E76 — section79 / scans396–401 — **SOURCE-CHECKED / COMPLETE**
+- E77 — section80 / scans402–408 — **SOURCE-CHECKED / COMPLETE**
+- E78 — section81 / scans409–414 — **SOURCE-CHECKED / COMPLETE**
+- E79 — section82 / scans415–420 — **SOURCE-CHECKED / COMPLETE**
+- maintained English files — **5/5**
+- physical source coverage — **391–420 / 30**
+- source-boundary marker parity — **25/25 / PASS**
+- scan403 printed396→397 internal provenance — **PRESERVED**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- unresolved batch-level holds — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- frozen Parts001–013 English body edits — **0**
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- Part015 translation / paraphrase / canonical records — **0 / 0 / 0**
+- exact next — **Part014 whole-Part English glossary reconciliation across E75–E79**
