@@ -1,52 +1,46 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part015 English E82 draft + source-check — section85 / scans433–437
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part016 Pass1 Batch1 — scans451–460
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Frozen state
 
-Parts **001–014 are FINAL CLOSED / FROZEN**.
+Parts **001–015 are FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, release records or final-closure records.
+Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, release records or final-closure controls merely to advance Part016.
 
-## Part015 authoritative state
+## Part015 closure authority
 
-- canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
-- assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
-- English planning/setup — **COMPLETE / PASS**
-- E80 — **SOURCE-CHECKED / COMPLETE**
-- E81 — **SOURCE-CHECKED / COMPLETE**
-- maintained English frontier — **section84**
+- canonical Tamil / visual fidelity — **30/30 verified / frozen**
+- assembled Tamil — **sections83–87 / 5/5 VERIFIED / frozen**
+- English E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- durable closure — `PART_015_FINAL_CLOSURE.md`
 
-## Closed E81 state
+## Part016 source
 
-- Tamil source — section84 / scans427–432
-- maintained English — `translations/en/sections/84-the-letter-that-changed-the-mind.md`
-- source-check record — `translations/en/E81_SOURCE_CHECK.md`
-- literary blocks — **37/37**
-- source-boundary markers — **5/5 / PASS**
-- English source-check refinements — **0**
-- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
-- E82 / Part016 leakage — **0 / 0**
+`TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf`
 
-## E82 scope
-
-- batch — **E82**
-- Tamil source — `sections/85-thottaththil-ketta-oli.md`
-- scans — **433–437**
-- planned English file — `translations/en/sections/85-the-sound-heard-in-the-garden.md`
-- working title — **The Sound Heard in the Garden!**
-
-Use only verified Part015 Tamil authority and maintained glossary forms. Do not import outside historical/geographic/name normalization.
-
-## Locks
-
-- do not modify frozen E1–E81 maintained English except a separately source-backed defect;
-- do not begin E83 until E82 is **SOURCE-CHECKED / COMPLETE**;
-- scan439 and scan448 remain later-batch illustration-only locks;
-- Part016 remains blocked; do not create scan451 canonical or English body.
+- local pages — **27**
+- global scans — **451–477**
+- file size — **26,780,406 bytes**
+- SHA-256 — `82ca2020407e0996abfa2d3b29a192c56419f3f7da22a5a9d3d5dd5b8f9c3c6c`
+- source representation — **rendered source page images**
+- incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
+- scan451 / local1 / printed444 — continuation of chapter72 `பகைவர் கையில் பனங்காமம்!`
+- outgoing split boundary — **none**
+- physical complete-source endpoint — **scan477**
+- canonical records — **0**
+- Pass1 — **NOT STARTED**
 
 ## Exact next activity
 
-Draft **E82 / English section85** from verified Tamil section85, then source-check it against the Tamil authority and page-boundary provenance. Create `E82_SOURCE_CHECK.md` only after the check passes.
+Perform **Part016 Pass1 Batch1 — global scans451–460 / local pages1–10**.
 
-Stop after **E82 SOURCE-CHECKED / COMPLETE**. Do not begin E83 in the same activity.
+Process exactly **10 physical source pages** from rendered source pixels. Create canonical Part016 page records and page-map entries only for scans451–460, preserving physical page endings and source-visible structure.
+
+Do not process scan461 or later in the same iteration. Do not reopen Parts001–015.
