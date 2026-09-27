@@ -1,6 +1,6 @@
 # Part 014 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING / SETUP — COMPLETE / PASS**
+Status: **E75–E79 SOURCE-CHECKED / COMPLETE — 5/5**
 
 ## Live collision check
 
@@ -63,3 +63,32 @@ No English literary prose is drafted in this setup gate.
 
 Exact next gate: **E75 draft + source-check — section78 / scans391–395**.  
 Do not begin E76 until E75 is **SOURCE-CHECKED / COMPLETE**.
+
+## Post-setup batch closure
+
+**PART014 ENGLISH BATCHES — E75–E79 / 5/5 SOURCE-CHECKED / COMPLETE**
+
+- E75 — `sections/78-the-disguised-physician.md` — scans391–395 — **PASS**
+- E76 — `sections/79-the-war-drum-thundered.md` — scans396–401 — **PASS**
+- E77 — `sections/80-battle-within-kandy.md` — scans402–408 — **PASS**
+- E78 — `sections/81-the-white-flag-and-the-victory-celebration.md` — scans409–414 — **PASS**
+- E79 — `sections/82-the-bloodstained-sword.md` — scans415–420 — **PASS**
+- source coverage — **391–420 / 30 physical pages**
+- source-boundary marker parity — **25/25**
+- scan403 internal printed396→397 marker — **preserved**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- unresolved batch-level holds — **0**
+- Tamil body / assembly edits — **0 / 0**
+- frozen Parts001–013 English body edits — **0**
+- Part015 leakage — **0**
+
+Source-facing Part014 forms fixed during batch checks:
+- **Mahawilla Ganga**
+- **Kannusami**
+- **Major Davy**
+- **Vattapelika**
+- **Madge**
+- contextual **Tamilakam**
+- source-facing **Parangi commander**
+
+Exact next gate: **Part014 whole-Part English glossary reconciliation across E75–E79**.
