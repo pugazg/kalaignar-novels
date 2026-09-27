@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf"
-transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans441–450; formal Part015 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans441–450; formal Part015 Pass 2A reviewed; formal Part015 Pass 2B reviewed"
 ---
 
 # பகைவர் கையில் பனங்காமம்!
@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 
 வீரனின் பதில் கேட்ட பண்டாரகன், “அப்படியானால் முல்லைத்தீவை வளைத்திடப் படை நடத்திச் செல்வது யார்?” என்று ஆத்திரத்துடன் கேள்வி எழுப்பினான்.
 
-“வாண்டெரி பெர்க்கு தலைமையில் மன்னாரிலிருந்து ஒரு படை!
+“வாண்டெரி பெர்க் தலைமையில் மன்னாரிலிருந்து ஒரு படை!
 
 ## Pass 1 notes
 
@@ -45,4 +45,17 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 447; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 27; அச்சுப் பக்கம்: 440; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+## Formal Part015 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part015 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or grammatical normalization;
+- reform-sensitive historical-glyph set checked occurrence by occurrence where present: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- additional source-confirmed correction: `“வாண்டெரி பெர்க்கு தலைமையில் மன்னாரிலிருந்து ஒரு படை!` → **`“வாண்டெரி பெர்க் தலைமையில் மன்னாரிலிருந்து ஒரு படை!`** — source proper-name / inflection reading correction;
+- additional Pass 2B canonical corrections: **1**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 447; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 27; அச்சுப் பக்கம்: 440; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->

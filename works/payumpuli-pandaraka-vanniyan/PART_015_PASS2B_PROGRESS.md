@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
+**PASS 2B — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisites:
 - Part015 Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -146,8 +146,78 @@ No reform-sensitive occurrence in scans431–440 required a canonical Unicode co
 - Part016 canonical records created — **0**
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 3 correction ledger — scans441–450
+
+| Scan | Printed page | Before | Source-confirmed after | Classification |
+|---:|---:|---|---|---|
+| 442 | 435 | `நீண்ட காலக் கனவை நினைவாக்கிடு!` | **`நீண்ட காலக் கனவை நினைவாக்கிடுக!`** | source verbal ending / lexical reading correction |
+| 442 | 435 | `தன்னோடு சுமந்துகொண்டு செல்ல` | **`தன்னோடு சுமந்து கொண்டு செல்ல`** | source spacing / word-boundary correction |
+| 445 | 438 | `மன்னரின் ஆசைப்படி மணக்கோலம் பூண்டுவிட்டோம்!` | **`மன்னரின் ஆசைப்படி மணக் கோலம் பூண்டுவிட்டோம்!`** | source spacing / word-boundary correction |
+| 445 | 438 | `களம் காணப் போர்க்கோலம் பூணப் போகிறாய், உண்மை!` | **`களம் காணப் போர்க் கோலம் பூணப் போகிறாய். உண்மை!`** | source spacing plus sentence-punctuation correction |
+| 445 | 438 | `காலையில் காணப்போவது போர்க்களம்!` | **`காலையில் காணப் போவது போர்க்களம்!`** | source spacing / word-boundary correction |
+| 447 | 440 | `வாண்டெரி பெர்க்கு தலைமையில் மன்னாரிலிருந்து ஒரு படை!` | **`வாண்டெரி பெர்க் தலைமையில் மன்னாரிலிருந்து ஒரு படை!`** | source proper-name / inflection reading correction |
+| 449 | 442 | `பீரங்கிகளையும் வெடி மருந்துகளையும்` | **`பீரங்கிகளையும் வெடிமருந்துகளையும்`** | source compound / join correction |
+| 449 | 442 | `ஆயுதங்களான ஈட்டி களையும் போர்வாட்களையும்` | **`ஆயுதங்களான ஈட்டிகளையும் போர்வாட்களையும்`** | lexical / source word-boundary correction |
+| 449 | 442 | `ஊமைச்சி நாச்சியார் உடலை.....` | **`ஊமைச்சி நாச்சியார் உடலை....`** | source punctuation / ellipsis-count correction |
+
+Scans **441, 443–444, 446, 448 and 450** required **0** additional Pass2B canonical-body corrections. Scan448 remains a full-page colour narrative battle illustration with no printed Tamil body and no visible printed folio.
+
+## Batch 3 historical-glyph review
+
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+
+No reform-sensitive occurrence in scans441–450 required a canonical Unicode correction after direct source-pixel inspection.
+
+## Batch 3 source locks reconfirmed
+
+- scan441 / printed434 resumes scan440 open dialogue with **`கூறினேனே,`** and ends at **`போர்`**;
+- scan442 / printed435 resumes **`முனைக்குப்`**, preserves **`நினைவாக்கிடுக!`** and **`சுமந்து கொண்டு`**, and ends at **`காத்திட`**;
+- scan443 / printed436 continues chapter71 and completes the garland exchange;
+- scan444 / printed437 retains Pass2A source spacing **`மனம் விட்டுத் தாராளமாகப்`** and ends mid-dialogue at **`முகத்தைக்`**;
+- scan445 / printed438 resumes **`கவிழ்த்துக்`**, preserves **`மணக் கோலம்`**, **`போர்க் கோலம்`**, source period after **`போகிறாய்.`**, and **`காணப் போவது`**, then ends at **`இதயத்தைத்`**;
+- scan446 / printed439 resumes **`தண்பொழிலாக்கி`**, closes chapter71, and retains the substantial intentional blank lower field;
+- scan447 / printed440 opens displayed chapter72 `பகைவர் கையில் பனங்காமம்!` / boxed **72**, preserves source **`வாண்டெரி பெர்க் தலைமையில்`**, and ends inside the open report after **`ஒரு படை!`**;
+- scan448 is an **unnumbered full-page colour narrative battle illustration** with no printed Tamil body;
+- scan449 / printed442 resumes the report at **`எட்வர்ட் மேட்ஜ்`**, preserves **`வெடிமருந்துகளையும்`**, **`ஈட்டிகளையும்`**, and source ellipsis **`உடலை....`**, then ends mid-dialogue at **`என்`**;
+- scan450 / printed443 resumes **`வார்த்தைகள்`**, retains the first source occurrence **`விக்கிரமராஜ சிங்கன்`** and later **`விக்கிரம ராஜ சிங்கன்`**, and ends after the complete departure sentence;
+- outgoing **450→451 — CLEAN / AUDITED / PASS**; no Part016 body was imported.
+
+## Batch 3 decision
+
+**PASS — scans441–450 independently reviewed.**
+
+- reviewed — **30/30**
+- remaining — **0**
+- Batch1 additional corrections — **5**
+- Batch2 additional corrections — **4**
+- Batch3 additional corrections — **9**
+- cumulative Pass2B additional corrections — **18**
+- Batch3 correction scans — **442, 445, 447, 449**
+- cumulative correction scans — **421, 422, 428, 432, 435, 440, 442, 445, 447, 449**
+- historical-glyph corrections — **0**
+- unresolved questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- frozen Parts001–014 body mutations — **0**
+- Part016 canonical records created — **0**
+
+## Pass2B closure decision
+
+**PART015 PASS 2B — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- cumulative additional source-supported corrections — **18**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- Part016 canonical records created — **0**
+- Pass3 — **NOT STARTED / UNBLOCKED**
+
 ## Exact next activity
 
-Perform **Part015 Pass2B Batch3 — scans441–450 / local pages21–30**.
+Perform **Part015 Pass3 Batch1 — scans421–430 / local pages1–10 / printed415–424**.
 
-Process exactly **10 physical Part015 source pages** in the independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread. Preserve scan448 as an unnumbered full-page illustration with no textual body. Do not begin Pass3 until Pass2B covers all **30/30** Part015 scans. Do not create Part016 canonical records.
+Process exactly **10 physical Part015 source pages** in the direct full-page visual / structural verification pass. Pass2B is now closed at **30/30 REVIEWED / PASS**. Do not create Part016 canonical records.

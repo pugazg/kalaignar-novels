@@ -142,9 +142,9 @@ Frozen Parts001–014 canonical Tamil, assembled Tamil, maintained English, glos
 
 ## Exact next activity
 
-Perform **Part015 Pass2B Batch3 — scans441–450 / local pages21–30**.
+Perform **Part015 Pass3 Batch1 — scans421–430 / local pages1–10 / printed415–424**.
 
-Pass2B Batch2 is now **COMPLETE / PASS — 20/30 independently reviewed** with **9 cumulative additional source-backed corrections**. Proceed to Pass2B Batch3 scans441–450; do not create Part016 canonical records while Part015 remains active.
+Pass2B is now **COMPLETE / PASS — 30/30 independently reviewed** with **18 cumulative additional source-backed corrections**. Proceed to Pass3 Batch1 scans421–430; do not create Part016 canonical records while Part015 remains active.
 
 ## Outgoing boundary audit 450→451
 
@@ -266,3 +266,26 @@ Pass2B Batch2 is now **COMPLETE / PASS — 20/30 independently reviewed** with *
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 - durable progress — `PART_015_PASS2B_PROGRESS.md`
 - exact next — **Part015 Pass2B Batch3 scans441–450 / local21–30**
+
+## Part015 Pass2B closure checkpoint
+
+**PART015 PASS 2B — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Batch3 scans441–450 / local21–30 — **INDEPENDENTLY REVIEWED / PASS**
+- Batch3 additional corrections — **9**
+- Batch3 correction scans — **442, 445, 447, 449**
+- cumulative Pass2B additional corrections — **18**
+- cumulative Pass2B correction scans — **421, 422, 428, 432, 435, 440, 442, 445, 447, 449**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- scan448 — **unnumbered full-page colour battle illustration / no printed Tamil body / no visible folio**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- multipart split boundaries — **15/15 AUDITED / COMPLETE**
+- Parts001–014 — **FINAL CLOSED / FROZEN**
+- Part016 canonical records created — **0**
+- Pass3 — **NOT STARTED / UNBLOCKED**
+- durable progress — `PART_015_PASS2B_PROGRESS.md`
+- exact next — **Part015 Pass3 Batch1 scans421–430 / local1–10 / printed415–424**
