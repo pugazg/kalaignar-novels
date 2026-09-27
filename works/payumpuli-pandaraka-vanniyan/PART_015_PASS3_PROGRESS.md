@@ -158,3 +158,23 @@ Promote only `visual_fidelity` from `needs-review` to `verified` across the 30 a
 - Part016 canonical records created — **0**
 - durable status record — `PART_015_FINAL_STATUS_SYNC.md`
 - exact next — **Part015 documentation synchronization → Tamil archival-ready → assembled Tamil construction + audit**
+
+## Part015 Tamil archival-ready / assembly handoff checkpoint
+
+**PART015 DOCUMENTATION SYNCHRONIZATION — PASS / COMPLETE.**  
+**PART015 TAMIL ARCHIVAL-READY — PASS / CLOSED.**
+
+- canonical Part015 — **30/30 textual verified / 30/30 visual verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- visible printed folios — **415–440, 442–443**
+- unnumbered illustration scans — **439, 448**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- maintained assembled frontier before construction — **section82**
+- reserved Part015 assembled range — **sections83–87**
+- section collisions in 83–87 — **0**
+- Parts001–014 — **FINAL CLOSED / FROZEN**
+- Part016 canonical/body leakage — **0**
+- exact next — **construct + audit Part015 assembled Tamil sections83–87**
