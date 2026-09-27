@@ -426,16 +426,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 014 | 28 | 418 | 412 | chapter67 continuation; ends mid-sentence at `கொலுமண்டபத்திற்குள்` | verified | `pages/0418-iraththam-padindha-vaal.md` |
 | 014 | 29 | 419 | 413 | chapter67 continuation; resumes `நுழைந்தனர்.`; ends at `பீடத்திலிருக்கும்` | verified | `pages/0419-iraththam-padindha-vaal.md` |
 | 014 | 30 | 420 | 414 | chapter67 continuation; substantial intentional blank lower field; outgoing 420→421 clean chapter boundary audited / pass | verified | `pages/0420-iraththam-padindha-vaal.md` |
-| 015 | 1 | 421 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 2 | 422 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 3 | 423 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 4 | 424 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 5 | 425 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 6 | 426 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 7 | 427 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 8 | 428 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 9 | 429 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 10 | 430 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 1 | 421 | 415 | chapter68 opening `ஒரு பெண்ணின் பிராயச்சித்தம்!`; displayed number68; ends mid-sentence at `எனத் தெரியாமலே` | needs-review | `pages/0421-oru-pennin-piraayachchiththam.md` |
+| 015 | 2 | 422 | 416 | chapter68 continuation; resumes `மாளிகையின்`; ends at `மொட்டைத்` | needs-review | `pages/0422-oru-pennin-piraayachchiththam.md` |
+| 015 | 3 | 423 | 417 | chapter68 continuation; resumes `தலையைத்`; physical page ends after complete dialogue question | needs-review | `pages/0423-oru-pennin-piraayachchiththam.md` |
+| 015 | 4 | 424 | 418 | chapter68 continuation; ends mid-sentence at `ஒரு பீடத்தில்` | needs-review | `pages/0424-oru-pennin-piraayachchiththam.md` |
+| 015 | 5 | 425 | 419 | chapter68 continuation; resumes `உட்கார்ந்திருந்த`; ends at `மன்னிப்புக் கேட்டுக்` | needs-review | `pages/0425-oru-pennin-piraayachchiththam.md` |
+| 015 | 6 | 426 | 420 | chapter68 close; resumes `கொண்டிருக்கிறேன்.`; substantial intentional blank lower field | needs-review | `pages/0426-oru-pennin-piraayachchiththam.md` |
+| 015 | 7 | 427 | 421 | chapter69 opening `மனத்தை மாற்றிய மடல்!`; displayed number69 | needs-review | `pages/0427-manaththai-maatriya-madal.md` |
+| 015 | 8 | 428 | 422 | chapter69 continuation; letter block; ends mid-sentence at `கொண்டிருக்கிறார்களே` | needs-review | `pages/0428-manaththai-maatriya-madal.md` |
+| 015 | 9 | 429 | 423 | chapter69 continuation; resumes `தவிர,`; ends after complete exclamation at `காட்டலாம்!` | needs-review | `pages/0429-manaththai-maatriya-madal.md` |
+| 015 | 10 | 430 | 424 | chapter69 continuation; ends dialogue at `கடிதமா? நானா? உனக்கு எழுதினேனா?` | needs-review | `pages/0430-manaththai-maatriya-madal.md` |
 | 015 | 11 | 431 | — | unclassified — direct visual audit pending | not-started | — |
 | 015 | 12 | 432 | — | unclassified — direct visual audit pending | not-started | — |
 | 015 | 13 | 433 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1826,3 +1826,20 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - durable validation — `PART_014_ASSEMBLED_TAMIL_VALIDATION.md`
 - English — **NOT STARTED**
 - exact next — **Part014 English translation planning/setup only**
+
+## Part015 Pass1 Batch1 checkpoint
+
+**PART015 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- scans421–430 / local1–10 / printed415–424 — **TEXT-COMPLETE**
+- canonical Part015 records — **10/30**
+- textual / visual status — **10/10 needs-review / 10/10 needs-review**
+- chapter68 `ஒரு பெண்ணின் பிராயச்சித்தம்!` — opens421 / closes426
+- chapter69 `மனத்தை மாற்றிய மடல்!` — opens427 / continues430
+- scan430 ends after dialogue question `கடிதமா? நானா? உனக்கு எழுதினேனா?`
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — PENDING direct audit**
+- unresolved Pass1 source-reading holds — **0**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+- frozen Parts001–014 — **UNCHANGED**
+- exact next — **Part015 Pass1 Batch2 scans431–440 / local11–20; printed folios source-driven**

@@ -2624,3 +2624,20 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - durable closure — `PART_014_FINAL_CLOSURE.md`
 - Part015 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
 - exact next — **Part015 Pass1 Batch1 scans421–430 / local1–10**
+
+## Part015 Pass1 Batch1 checkpoint
+
+**PART015 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE.**
+
+- scans421–430 / local1–10 / printed415–424 — **TEXT-COMPLETE**
+- canonical Part015 records — **10/30**
+- textual / visual status — **10/10 needs-review / 10/10 needs-review**
+- chapter68 `ஒரு பெண்ணின் பிராயச்சித்தம்!` — opens421 / closes426
+- chapter69 `மனத்தை மாற்றிய மடல்!` — opens427 / continues430
+- scan430 ends after dialogue question `கடிதமா? நானா? உனக்கு எழுதினேனா?`
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — PENDING direct audit**
+- unresolved Pass1 source-reading holds — **0**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+- frozen Parts001–014 — **UNCHANGED**
+- exact next — **Part015 Pass1 Batch2 scans431–440 / local11–20; printed folios source-driven**

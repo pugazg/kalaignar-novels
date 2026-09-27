@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity and global mapping are durable; direct page audit remains pending.**
+**ACTIVE — split identity and global mapping are durable; Pass1 Batch1 is complete at 10/30 TEXT-COMPLETE.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **421–450**;
@@ -42,18 +42,18 @@ The canonical `scan_page` remains the overall scan number **421–450**.
 
 ## Current gate
 
-Part 015 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+Part 015 is **ACTIVE / PASS1 IN PROGRESS / BATCH1 COMPLETE**.
 
 - source split — **SUPPLIED / REGISTERED**
 - overall scans — **421–450 / 30**
 - local pages — **1–30**
-- canonical records — **0**
-- Pass1 — **NOT STARTED**
+- canonical records — **10/30 — scans421–430**
+- Pass1 — **IN PROGRESS / BATCH1 COMPLETE — 10/30 TEXT-COMPLETE**
 - incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **450→451 — PENDING direct audit**
 - controlling representation — **rendered source page images**
 - Parts001–014 — **FINAL CLOSED / FROZEN**
-- exact next — **Part015 Pass1 Batch1 scans421–430 / local pages1–10**
+- exact next — **Part015 Pass1 Batch2 scans431–440 / local pages11–20**
 
 Do not create Part016 canonical records while Part015 is active.
 
@@ -67,4 +67,15 @@ Do not create Part016 canonical records while Part015 is active.
 - durable audit — `PART_014_BOUNDARY_AUDIT_420_421.md`;
 - Part015 canonical records created by the audit — **0**;
 - outgoing **450→451 remains PENDING direct audit**;
-- Part015 remains **SUPPLIED / REGISTERED / WAITING**.
+- Part015 is **ACTIVE / PASS1 IN PROGRESS / BATCH1 COMPLETE — 10/30 TEXT-COMPLETE**.
+
+## Pass1 Batch1 checkpoint
+
+- scans421–430 / local1–10 / observed printed415–424 — **10/10 TEXT-COMPLETE**
+- canonical records — **10/30**
+- chapter68 `ஒரு பெண்ணின் பிராயச்சித்தம்!` — opens421 / closes426
+- chapter69 `மனத்தை மாற்றிய மடல்!` — opens427 / continues430
+- textual / visual status — **needs-review / needs-review**
+- unresolved source-reading holds — **0**
+- outgoing **450→451 — PENDING direct audit**
+- exact next — **Part015 Pass1 Batch2 scans431–440 / local11–20**

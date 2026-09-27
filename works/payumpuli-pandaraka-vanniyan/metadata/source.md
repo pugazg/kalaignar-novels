@@ -1218,3 +1218,17 @@ Exact next activity: audit **330→331**; if usable, begin **Part012 Pass1 scans
 - durable closure — `PART_014_FINAL_CLOSURE.md`
 - Part015 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
 - exact next — **Part015 Pass1 Batch1 scans421–430 / local1–10**
+
+## Part015 Pass1 Batch1 source checkpoint
+
+**PASS 1 BATCH 1 — COMPLETE / 10 OF 30 TEXT-COMPLETE.**
+
+- direct rendered source pixels reviewed for scans **421–430 / local1–10**
+- observed printed folios — **415–424**
+- chapter68 `ஒரு பெண்ணின் பிராயச்சித்தம்!` — scans421–426
+- chapter69 `மனத்தை மாற்றிய மடல்!` — scans427–430 and continues
+- canonical records — **10/30**
+- statuses — **needs-review / needs-review**
+- unresolved source-reading holds — **0**
+- no Part016 canonical records created
+- exact next — **Part015 Pass1 Batch2 scans431–440 / local11–20**
