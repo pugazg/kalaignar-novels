@@ -103,7 +103,7 @@ Before the stunned onlookers could turn, Marthani pushed aside a curtain and app
 
 <!-- source boundary: scan 425 → scan 426 -->
 
-for forgiveness. I ask again now. Forgive me. This worthless man standing here wanted to turn the victory celebration into a celebration of sorrow. He cannot punish me merely because I speak disrespectfully of Pilimathalavai. He has already punished me. It is an outright lie when he says I dared to kill the Kandy king and queen! He is the one who asked me, ‘Girl, tell me a way to turn the auspicious celebration into an inauspicious one!’ I opposed his plan—and so he finished me off and fulfilled his own aim! Now my aim is about to be fulfilled! A Sinhala woman is now going to die as a Sinhala woman!”
+for forgiveness. I ask again now. Forgive me. This worthless man standing here wanted to turn the victory celebration into a celebration of sorrow. He cannot punish me merely because I speak disrespectfully of Pilimathalavai. He has already rebuked me. It is an outright lie when he says I dared to kill the Kandy king and queen! He is the one who asked me, ‘Girl, tell me a way to turn the auspicious celebration into an inauspicious one!’ I opposed his plan—and so he finished me off and fulfilled his own aim! Now my aim is about to be fulfilled! A Sinhala woman is now going to die as a Sinhala woman!”
 
 Even as she spoke, Marthani moved faster than lightning. She snatched the sword from the Kandy king’s waist and, in the very next instant, drove it into Pilimathalavai’s chest. Not once—not twice—she stabbed until her fury subsided. Indeed, she kept stabbing until her own spirit subsided, and then collapsed to the floor.
 
