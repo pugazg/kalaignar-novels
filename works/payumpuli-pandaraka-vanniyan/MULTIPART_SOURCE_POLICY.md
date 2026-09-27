@@ -1577,3 +1577,26 @@ Direct source review established that scan403 contains **two printed folios (396
 - Pass2B / Pass3 — **NOT STARTED**
 - durable progress — `PART_014_PASS2A_PROGRESS.md`
 - exact next — **Part014 Pass2B Batch1 scans391–400 / local1–10 / printed384–393**
+
+## Part014 Pass2B Batch1 checkpoint
+
+**PART014 PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- scans391–400 / local1–10 / printed384–393 — **REVIEWED / PASS**
+- additional Pass2B corrections — **5**
+- correction scans — **392, 393, 394, 400**
+- scan392 — `ஆமாம் - இனிமேல்` → **`ஆமாம்- இனிமேல்`**
+- scan392 — `கொழுக்கும் என் இளமை` → **`கொழிக்கும் என் இளமை`**
+- scan393 — `ஏற்றுப் புறப்படு!` → **`ஏற்றுப்புறப்படு!`**
+- scan394 — horse-action phrase corrected to **`கை அசைத்து விட்டுக் குதிரையைத் தட்டி விட்டான்.`**
+- scan400 — `நல்லதாகத்தான்` → **`நல்லதாகத் தான்`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- Part015 canonical records created — **0**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- durable progress — `PART_014_PASS2B_PROGRESS.md`
+- exact next — **Part014 Pass2B Batch2 scans401–410 / local11–20 / observed printed folios394–404**
