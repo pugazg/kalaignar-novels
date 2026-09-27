@@ -1780,3 +1780,22 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - Part015 canonical records created — **0**
 - Pass3 — **NOT STARTED / UNBLOCKED**
 - exact next — **Part014 Pass3 Batch1 scans391–400 / local1–10 / printed384–393**
+
+## Part014 Pass3 Batch1 checkpoint
+
+**PART014 PASS 3 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- scans391–400 / local1–10 / printed384–393 — **REVIEWED / PASS**
+- displayed chapter63 `மாறுவேட மருத்துவர்!` / boxed **63** — confirmed on scan391
+- displayed chapter64 `அதிர்ந்தது போர்முரசு!` / boxed **64** — confirmed on scan396
+- printed pagination — **384–393 continuous**
+- recurring border / page furniture — **PASS**
+- physical continuation locks — **392→393, 394→395, 400→401 confirmed**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- Part015 canonical records created — **0**
+- exact next — **Part014 Pass3 Batch2 scans401–410 / local11–20 / observed printed394–404**
