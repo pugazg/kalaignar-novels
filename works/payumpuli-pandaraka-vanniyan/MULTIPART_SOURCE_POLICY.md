@@ -1624,3 +1624,27 @@ Direct source review established that scan403 contains **two printed folios (396
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 - durable progress — `PART_014_PASS2B_PROGRESS.md`
 - exact next — **Part014 Pass2B Batch3 scans411–420 / local21–30 / printed405–414**
+
+## Part014 Pass2B closure checkpoint
+
+**PART014 PASS 2B — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Batch1 scans391–400 — **REVIEWED / PASS — 5 additional corrections**
+- Batch2 scans401–410 — **REVIEWED / PASS — 4 additional corrections**
+- Batch3 scans411–420 — **REVIEWED / PASS — 4 additional corrections**
+- cumulative Pass2B additional corrections — **13**
+- Batch3 correction scans — **411, 413, 415, 416**
+- scan411 — `ஓடிவந்து` → **`ஓடி வந்து`**
+- scan413 — `உணர்த்தியிருக்காவது,` → **`உணர்ந்தபிறகாவது,`**
+- scan415 — `பெண் -நீங்களோ` → **`பெண்-நீங்களோ`**
+- scan416 — `நினைத்துப் பார்க்க வேண்டும்.` → **`நினைத்துப்பார்க்கவேண்டும்.`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- Part015 canonical records created — **0**
+- Pass3 — **NOT STARTED / UNBLOCKED**
+- durable Pass2B progress — `PART_014_PASS2B_PROGRESS.md`
+- exact next — **Part014 Pass3 Batch1 scans391–400 / local1–10 / printed384–393**
