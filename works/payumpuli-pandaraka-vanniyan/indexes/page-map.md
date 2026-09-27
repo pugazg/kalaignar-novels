@@ -1758,3 +1758,25 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - Part015 canonical records created — **0**
 - exact next — **Part014 Pass2B Batch3 scans411–420 / local21–30 / printed405–414**
 
+## Part014 Pass2B closure checkpoint
+
+**PART014 PASS 2B — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Batch3 scans411–420 / local21–30 / printed405–414 — **REVIEWED / PASS**
+- Batch3 additional source-supported corrections — **4**
+- Batch3 correction scans — **411, 413, 415, 416**
+- cumulative Pass2B additional corrections — **13**
+- cumulative correction scans — **392, 393, 394, 400, 402, 404, 405, 409, 411, 413, 415, 416**
+- scan411 — `ஓடிவந்து` → **`ஓடி வந்து`**
+- scan413 — `உணர்த்தியிருக்காவது,` → **`உணர்ந்தபிறகாவது,`**
+- scan415 — `பெண் -நீங்களோ` → **`பெண்-நீங்களோ`**
+- scan416 — `நினைத்துப் பார்க்க வேண்டும்.` → **`நினைத்துப்பார்க்கவேண்டும்.`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- Part015 canonical records created — **0**
+- Pass3 — **NOT STARTED / UNBLOCKED**
+- exact next — **Part014 Pass3 Batch1 scans391–400 / local1–10 / printed384–393**
