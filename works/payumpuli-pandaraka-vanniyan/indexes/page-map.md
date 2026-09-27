@@ -446,16 +446,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 015 | 18 | 438 | 432 | chapter71 opening `இன்பம், இமைப்பொழுது!`; displayed number71; ends at `எல்லாப் பகுதிகளுக்குச்` | needs-review | `pages/0438-inbam-imaippozhuthu.md` |
 | 015 | 19 | 439 | — | full-page colour narrative illustration; no printed Tamil body / no visible folio | needs-review | `pages/0439-inbam-imaippozhuthu.md` |
 | 015 | 20 | 440 | 433 | chapter71 continuation after unnumbered illustration; resumes `செல்லுங்கள்!”`; ends mid-dialogue at `என்று` | needs-review | `pages/0440-inbam-imaippozhuthu.md` |
-| 015 | 21 | 441 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 22 | 442 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 23 | 443 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 24 | 444 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 25 | 445 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 26 | 446 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 27 | 447 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 28 | 448 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 29 | 449 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 30 | 450 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 21 | 441 | 434 | chapter71 continuation; resumes open dialogue; ends at `போர்` | needs-review | `pages/0441-inbam-imaippozhuthu.md` |
+| 015 | 22 | 442 | 435 | chapter71 continuation; resumes physical split at `முனைக்குப்`; ends at `காத்திட` | needs-review | `pages/0442-inbam-imaippozhuthu.md` |
+| 015 | 23 | 443 | 436 | chapter71 continuation; garland exchange completed | needs-review | `pages/0443-inbam-imaippozhuthu.md` |
+| 015 | 24 | 444 | 437 | chapter71 continuation; ends mid-dialogue at `முகத்தைக்` | needs-review | `pages/0444-inbam-imaippozhuthu.md` |
+| 015 | 25 | 445 | 438 | chapter71 continuation; resumes `கவிழ்த்துக்`; ends at `இதயத்தைத்` | needs-review | `pages/0445-inbam-imaippozhuthu.md` |
+| 015 | 26 | 446 | 439 | chapter71 close; resumes `தண்பொழிலாக்கி`; substantial intentional blank lower field | needs-review | `pages/0446-inbam-imaippozhuthu.md` |
+| 015 | 27 | 447 | 440 | chapter72 opening `பகைவர் கையில் பனங்காமம்!`; displayed number72; ends inside open report | needs-review | `pages/0447-pagaivar-kaiyil-panangamam.md` |
+| 015 | 28 | 448 | — | full-page colour narrative battle illustration; no printed Tamil body / no visible folio | needs-review | `pages/0448-pagaivar-kaiyil-panangamam.md` |
+| 015 | 29 | 449 | 442 | chapter72 continuation after unnumbered illustration; resumes `எட்வர்ட் மேட்ஜ்`; ends at `என்` | needs-review | `pages/0449-pagaivar-kaiyil-panangamam.md` |
+| 015 | 30 | 450 | 443 | chapter72 continuation; resumes `வார்த்தைகள்`; outgoing 450→451 direct audit pending | needs-review | `pages/0450-pagaivar-kaiyil-panangamam.md` |
 | 016 | 1 | 451 | — | unclassified — direct visual audit pending | not-started | — |
 | 016 | 2 | 452 | — | unclassified — direct visual audit pending | not-started | — |
 | 016 | 3 | 453 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1861,3 +1861,21 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **450→451 — PENDING direct audit**
 - exact next — **Part015 Pass1 Batch3 scans441–450 / local21–30**
+
+## Part015 Pass1 Batch3 checkpoint
+
+**PART015 PASS 1 — COMPLETE — 30/30 TEXT-COMPLETE.**
+
+- scans441–450 / local21–30 — **TEXT-COMPLETE**
+- observed printed folios — **434–440 and 442–443**
+- scan448 — **unnumbered full-page colour narrative battle illustration**
+- canonical Part015 records — **30/30**
+- textual / visual status — **30/30 needs-review / 30/30 needs-review**
+- chapter71 `இன்பம், இமைப்பொழுது!` — closes446
+- chapter72 `பகைவர் கையில் பனங்காமம்!` — opens447 / continues450
+- unresolved Pass1 source-reading holds — **0**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — PENDING direct audit**
+- Pass2A — **NOT STARTED**
+- Part016 canonical records created — **0**
+- exact next — **direct outgoing boundary audit 450→451 only, when Part016 scan451 rendered source pixels are available**

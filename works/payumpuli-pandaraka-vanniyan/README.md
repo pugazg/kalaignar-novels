@@ -2658,3 +2658,21 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
 - Parts001–014 — **FINAL CLOSED / FROZEN**
 - exact next — **Part015 Pass1 Batch3 scans441–450 / local21–30**
+
+## Part015 Pass1 Batch3 checkpoint
+
+**PART015 PASS 1 — COMPLETE — 30/30 TEXT-COMPLETE.**
+
+- scans441–450 / local21–30 — **10/10 TEXT-COMPLETE**
+- observed printed folios — **434–440 and 442–443**
+- scan448 — **full-page colour narrative battle illustration / no printed Tamil body / no visible folio**
+- canonical records — **30/30**
+- chapter71 `இன்பம், இமைப்பொழுது!` — closes446
+- chapter72 `பகைவர் கையில் பனங்காமம்!` — opens447 / continues450
+- textual / visual status — **30/30 needs-review / 30/30 needs-review**
+- unresolved Pass1 source-reading holds — **0**
+- outgoing **450→451 — PENDING direct audit**
+- Pass2A — **NOT STARTED**
+- Parts001–014 — **FINAL CLOSED / FROZEN**
+- Part016 canonical records created — **0**
+- exact next — **direct outgoing boundary audit 450→451 only; registered Part016 scan451 rendered pixels are required**

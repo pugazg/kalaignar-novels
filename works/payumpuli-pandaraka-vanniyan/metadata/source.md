@@ -1248,3 +1248,22 @@ Exact next activity: audit **330→331**; if usable, begin **Part012 Pass1 scans
 - unresolved source-reading holds — **0**
 - no Part016 canonical records created
 - exact next — **Part015 Pass1 Batch3 scans441–450 / local21–30**
+
+## Part015 Pass1 Batch3 source checkpoint
+
+**PASS 1 — COMPLETE / 30 OF 30 TEXT-COMPLETE.**
+
+- direct rendered Part015 source pixels reviewed for scans **441–450 / local21–30**
+- observed printed folios — **434–440 and 442–443**
+- scan448 — **unnumbered full-page colour narrative battle illustration**
+- chapter71 `இன்பம், இமைப்பொழுது!` — closes446
+- chapter72 `பகைவர் கையில் பனங்காமம்!` — opens447 / continues450
+- canonical records — **30/30**
+- statuses — **needs-review / needs-review**
+- unresolved Pass1 source-reading holds — **0**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — PENDING direct audit**
+- registered Part016 source metadata exists, but scan451 rendered source pixels are not available in the current conversation
+- no Part016 canonical records created
+- Pass2A — **NOT STARTED**
+- exact next — **direct outgoing boundary audit 450→451 only**

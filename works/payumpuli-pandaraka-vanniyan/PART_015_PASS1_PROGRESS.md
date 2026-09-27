@@ -2,13 +2,13 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE**
+**PASS 1 — COMPLETE — 30/30 TEXT-COMPLETE**
 
 Active Part:
 - Part015
 - overall scans **421–450**
 - local pages **1–30**
-- observed printed folios completed — **415–433**, with scan439 an unnumbered full-page illustration
+- observed printed folios completed — **415–440 and 442–443**; scans439 and448 are unnumbered full-page illustrations
 - controlling source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf`
 - source SHA-256: `2efbc6088e061e4d145a8f2bc9c63936ef3e20ea6e63e8734edc88507e5c37a0`
 
@@ -17,15 +17,15 @@ Parts001–014 remain **FINAL CLOSED / FROZEN**.
 ## Current accounting
 
 - Part015 physical scans — **30**
-- canonical Part015 records present — **20/30 — scans421–440**
-- Pass1 text-complete — **20/30**
-- Pass1 pending — **10**
-- observed printed-folio coverage completed — **415–433**, with scan439 unnumbered
+- canonical Part015 records present — **30/30 — scans421–450**
+- Pass1 text-complete — **30/30**
+- Pass1 pending — **0**
+- observed printed-folio coverage completed — **415–440 and 442–443**; scans439 and448 unnumbered
 - unresolved Pass1 source-reading holds — **0**
 - incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **450→451 — PENDING direct audit**
-- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
-- current 20 canonical records:
+- Pass2A — **NOT STARTED / PASS1 PREREQUISITE SATISFIED; HOLD FOR OUTGOING 450→451 DIRECT AUDIT**
+- current 30 canonical records:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
 
@@ -35,7 +35,7 @@ Parts001–014 remain **FINAL CLOSED / FROZEN**.
 |---|---:|---:|---|---|
 | 1 | 421–430 | 1–10 | 415–424 | **COMPLETE / TEXT-COMPLETE** |
 | 2 | 431–440 | 11–20 | 425–433 + unnumbered scan439 | **COMPLETE / TEXT-COMPLETE** |
-| 3 | 441–450 | 21–30 | source-driven / pending | **NOT STARTED / NEXT** |
+| 3 | 441–450 | 21–30 | 434–440 + unnumbered scan448 + 442–443 | **COMPLETE / TEXT-COMPLETE** |
 
 ## Incoming-boundary audit
 
@@ -80,6 +80,23 @@ Audited multipart boundaries — **14 / 15**.
 - scan440 / printed433 resumes after the illustration at `செல்லுங்கள்!”` and ends mid-dialogue at `என்று`;
 - no scan441 wording was imported in Batch2.
 
+## Batch3 source structure
+
+- chapter71 `இன்பம், இமைப்பொழுது!` — continues scans441–446 and closes scan446 / printed439;
+- scan441 resumes scan440's open dialogue at `கூறினேனே,` and ends at `போர்`;
+- scan442 resumes `முனைக்குப்`, completing the physical split `போர்` → `முனைக்குப்`; it ends at `காத்திட`;
+- scan443 resumes `பண்டாரகனும்` and completes the garland exchange;
+- scan444 ends mid-dialogue at `முகத்தைக்`; scan445 resumes `கவிழ்த்துக்`;
+- scan445 ends mid-sentence at `இதயத்தைத்`; scan446 resumes `தண்பொழிலாக்கி`;
+- scan446 closes chapter71 and retains a substantial intentional blank lower field;
+- chapter72 `பகைவர் கையில் பனங்காமம்!` — opens scan447 / printed440;
+- scan447 ends inside an open report after `ஒரு படை!`;
+- scan448 is a **full-page colour narrative battle illustration** with **no printed Tamil body** and **no visible printed folio**;
+- scan449 / printed442 resumes the scan447 report at `எட்வர்ட் மேட்ஜ்` and ends mid-dialogue at `என்`;
+- scan450 / printed443 resumes `வார்த்தைகள்` and ends after the complete departure sentence;
+- no scan451 wording was imported;
+- outgoing **450→451 — PENDING direct audit** because Part016 rendered source pixels are not available in the current conversation.
+
 ## Source-visible forms retained for later review
 
 Pass1 preserves direct source readings without modernization. Batch1 review candidates include:
@@ -104,16 +121,27 @@ Batch2 review candidates additionally include:
 - scan438 `பிர்மாண்டமான`, `முரசறைந்து`, `முல்லைத் தீவின்`;
 - scan440 `அழிக்கப்பட்டே`, `ஆங்கிலேயப்படை`, `போயாக`, `புறப்பட்டாக`, `புறப்படவேண்டியதுதானே`.
 
+Batch3 review candidates additionally include:
+- scan441 `காற்றிலாடிக்`, `துளைத்துக்கொண்டுள்ள`;
+- scan442 `ஏற்பட்டும்`, `களச்சாவு`, `நினைவாக்கிடு`, `உள்மனம்`;
+- scan443 `முத்தாரங்களை`, `அந்தப்புற`, `இருகுன்றுகளுக்கிடையே`;
+- scan444 `ஊமைப் பதுமைகளாய்`, `மெளனச் சூழலை`;
+- scan445 source punctuation `!”-`, `விரகதாபத்திற்கு`, `போர்க்கோலம்`, `காணப்போவது`;
+- scan446 `தண்பொழிலாக்கி`, source-visible `தனலாக்கி`, `வாரிச் சுருட்டி`, `மெளனமாக`;
+- scan447 `பெருக்கியோட`, `திருகோண மலை`, `முல்லைத் தீவில்`;
+- scan449 `ஈட்டி களையும்`, `போர்வாட்களையும்`, `விடமுடியும்`, `எகடியம்`, `நிற்பாடில்லை`, source ellipsis `உடலை.....`;
+- scan450 `தடையிருக்குமேயானால்`, `ஒருக்கணத்தில்`, `ஆங்கிலேயப்படை`, `அனுப்பப்படுகிறதென்றால்`, `உயிரோடிருந்தால்`.
+
 These are later review candidates, not silent-normalization targets.
 
 ## Method note
 
-Batches1–2 pages were transcribed from direct rendered source pixels. Source wording, punctuation, source-visible spacing / word boundaries, dialogue structure, displayed chapter hierarchy, printed pagination, intentional blank fields and physical page-end fragments were preserved. OCR and outside-source comparison were not treated as source authority.
+All three Pass1 batches were transcribed from direct rendered source pixels. Source wording, punctuation, source-visible spacing / word boundaries, dialogue structure, displayed chapter hierarchy, printed pagination, intentional blank fields and physical page-end fragments were preserved. OCR and outside-source comparison were not treated as source authority.
 
 Frozen Parts001–014 canonical Tamil, assembled Tamil, maintained English, glossary decisions, release records and final-closure records were not modified.
 
 ## Exact next activity
 
-Proceed with **Part015 Pass1 Batch3 — scans441–450 / local pages21–30**.
+Perform **direct outgoing boundary audit 450→451 only** once the registered Part016 scan451 source pixels are available.
 
-Process exactly **10 physical source pages** from direct rendered source pixels. Read printed folios directly from the source rather than projecting them. Complete the outgoing **450→451** direct boundary audit only after scan450 is transcribed; do not begin Pass2A until Pass1 covers all **30/30** Part015 scans.
+Part015 Pass1 is now **30/30 TEXT-COMPLETE**. Do not create Part016 canonical records during the boundary audit. The Part016 source is registered in repository controls, but its rendered pixels are not available in the current conversation, so **450→451 remains PENDING**. Do not begin Pass2A in this checkpoint.
