@@ -173,3 +173,16 @@ Do not begin E83 until E82 is **SOURCE-CHECKED / COMPLETE**.
 **E80–E84 — 5/5 SOURCE-CHECKED / COMPLETE.**
 
 Exact next — **Part015 whole-Part English glossary reconciliation across E80–E84**.
+
+## Part015 final English closure checkpoint
+
+**PART015 ENGLISH — CLOSED / FROZEN.**
+
+- E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved English blockers — **0**
+- exact next repository frontier — **Part016 Pass1 Batch1 scans451–460**

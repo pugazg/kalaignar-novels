@@ -114,3 +114,14 @@ E80–E84 are **SOURCE-CHECKED / COMPLETE**. Do not begin Part016 Pass1 until wh
 
 **E80–E84 — 5/5 SOURCE-CHECKED / COMPLETE.**
 Exact next — **Part015 whole-Part English glossary reconciliation**.
+
+## Part015 final closure checkpoint
+
+**PART015 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- maintained English sections83–87 — **5/5**
+- glossary / editorial / bilingual / release / release-ready sync — **PASS / PASS / PASS / PASS / PASS**
+- unresolved Part015 English blockers — **0**
+- Part016 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part016 Pass1 Batch1 scans451–460 / local1–10**

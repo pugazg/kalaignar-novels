@@ -123,3 +123,13 @@ Exact next glossary gate: carry these fixed forms into **E82**, with E82-specifi
 - unresolved E84 glossary holds — **0**
 
 Exact next glossary gate: **whole-Part reconciliation across E80–E84**.
+
+## Part015 whole-Part reconciliation closure
+
+**RECONCILED / PASS**
+
+- E80–E84 maintained forms — **CONSISTENT**
+- outside normalization — **0**
+- glossary-driven body corrections — **0**
+- unresolved glossary holds — **0**
+- durable reconciliation — `PART_015_GLOSSARY_RECONCILIATION.md`
