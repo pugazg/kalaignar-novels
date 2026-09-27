@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**ACTIVE / AUTHORIZED — split identity and global mapping are durable; incoming boundary audited; Part015 is FINAL CLOSED / FROZEN; Part016 Pass1 Batch1 is NEXT.**
+**ACTIVE / PASS1 — 20/27 TEXT-COMPLETE; Batch3 scans471–477 is NEXT.**
 
 - local PDF pages: **27**;
 - canonical overall scans: **451–477**;
@@ -48,7 +48,7 @@ The canonical `scan_page` remains the overall scan number **451–477**.
 
 ## Current gate
 
-Part 016 is **ACTIVE / PASS1 10/27 TEXT-COMPLETE / BATCH2 NEXT**.
+Part 016 is **ACTIVE / PASS1 20/27 TEXT-COMPLETE / BATCH3 NEXT**.
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf`
 - global scans — **451–477 / 27**
@@ -56,16 +56,18 @@ Part 016 is **ACTIVE / PASS1 10/27 TEXT-COMPLETE / BATCH2 NEXT**.
 - incoming **450→451 — CLEAN / AUDITED / PASS**
 - outgoing split boundary — **none**
 - physical source endpoint — **scan477**
-- Pass1 canonical records — **10/27 — scans451–460**
-- Pass1 text-complete — **10/27**
-- Pass1 remaining — **17**
-- textual status — **10/10 needs-review**
-- visual fidelity — **10/10 needs-review**
-- chapter72 continuation — **scans451–454 / printed444–447; closes scan454**
-- chapter73 `திறமையை வென்ற திறமை!` — **opens scan455 / printed448; continues through scan460**
+- Pass1 canonical records — **20/27 — scans451–470**
+- Pass1 text-complete — **20/27**
+- Pass1 remaining — **7**
+- textual status — **20/20 needs-review**
+- visual fidelity — **20/20 needs-review**
+- chapter72 — **closes scan454**
+- chapter73 `திறமையை வென்ற திறமை!` — **opens455 / closes460**
+- chapter74 `காக்கையும் குருவியும்!` — **opens461 / closes466**
+- chapter75 `வாழும் வரலாறு!` — **opens467 / continues through470**
 - Parts001–015 — **FINAL CLOSED / FROZEN**
-- scan461 canonical record — **NOT CREATED**
-- exact next — **Pass1 Batch2 — scans461–470 / local11–20**
-- fixed iteration — **10 physical source pages**
+- scan471 canonical record — **NOT CREATED**
+- exact next — **Pass1 Batch3 — scans471–477 / local21–27**
+- final iteration — **7 physical source pages**
 
-Do not process scan471 or later in Batch2.
+Do not invent continuation beyond scan477.
