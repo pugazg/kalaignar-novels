@@ -89,3 +89,15 @@ Tamil archival-ready is already **PASS / CLOSED** and construction is already **
 - durable validation — `PART_015_ASSEMBLED_TAMIL_VALIDATION.md`
 - exact next — **Part015 English translation planning/setup**
 - do not draft English prose until the setup gate completes its live collision checks
+
+## Part015 final closure checkpoint
+
+**PART015 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- canonical Tamil / visual fidelity — **30/30 verified / frozen**
+- assembled Tamil — **sections83–87 / 5/5 VERIFIED / frozen**
+- English E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary / editorial / bilingual / release / release-ready sync — **PASS / CLOSED**
+- unresolved Part015 blockers — **0**
+- Part016 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part016 Pass1 Batch1 scans451–460 / local1–10**

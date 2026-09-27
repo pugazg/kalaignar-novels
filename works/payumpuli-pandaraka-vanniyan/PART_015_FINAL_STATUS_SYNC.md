@@ -121,3 +121,15 @@ Do not begin English translation work.
 - Parts001–014 — **FINAL CLOSED / FROZEN**
 - Part016 canonical/body leakage — **0**
 - exact next — **construct + audit Part015 assembled Tamil sections83–87**
+
+## Part015 final closure checkpoint
+
+**PART015 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- canonical Tamil / visual fidelity — **30/30 verified / frozen**
+- assembled Tamil — **sections83–87 / 5/5 VERIFIED / frozen**
+- English E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary / editorial / bilingual / release / release-ready sync — **PASS / CLOSED**
+- unresolved Part015 blockers — **0**
+- Part016 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part016 Pass1 Batch1 scans451–460 / local1–10**
