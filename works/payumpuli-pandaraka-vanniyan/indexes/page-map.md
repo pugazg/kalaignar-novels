@@ -425,7 +425,7 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 014 | 27 | 417 | 411 | chapter67 continuation; source-visible forms retained for Pass2A | verified | `pages/0417-iraththam-padindha-vaal.md` |
 | 014 | 28 | 418 | 412 | chapter67 continuation; ends mid-sentence at `கொலுமண்டபத்திற்குள்` | verified | `pages/0418-iraththam-padindha-vaal.md` |
 | 014 | 29 | 419 | 413 | chapter67 continuation; resumes `நுழைந்தனர்.`; ends at `பீடத்திலிருக்கும்` | verified | `pages/0419-iraththam-padindha-vaal.md` |
-| 014 | 30 | 420 | 414 | chapter67 continuation; substantial intentional blank lower field; outgoing 420→421 pending direct audit | verified | `pages/0420-iraththam-padindha-vaal.md` |
+| 014 | 30 | 420 | 414 | chapter67 continuation; substantial intentional blank lower field; outgoing 420→421 clean chapter boundary audited / pass | verified | `pages/0420-iraththam-padindha-vaal.md` |
 | 015 | 1 | 421 | — | unclassified — direct visual audit pending | not-started | — |
 | 015 | 2 | 422 | — | unclassified — direct visual audit pending | not-started | — |
 | 015 | 3 | 423 | — | unclassified — direct visual audit pending | not-started | — |
