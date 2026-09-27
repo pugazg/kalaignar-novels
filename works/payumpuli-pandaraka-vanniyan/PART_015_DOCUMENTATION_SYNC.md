@@ -63,6 +63,15 @@ Part015 documentation is synchronized for Tamil archival-ready closure and assem
 
 ## Exact next activity
 
-Close **Part015 Tamil archival-ready**, then construct and audit assembled Tamil sections **83–87**.
+Audit and validate the now-constructed **Part015 assembled Tamil sections83–87**.
 
-Do not begin English work.
+Tamil archival-ready is already **PASS / CLOSED** and construction is already **5/5 COMPLETE**. Do not begin English work until assembled Tamil validation closes.
+
+## Downstream synchronization
+
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil construction — **5/5 COMPLETE — sections83–87**
+- assembled Tamil validation/audit — **NOT STARTED / NEXT**
+- construction commit — `18b2305a710fbda8019741de29b38c1bffb545e1`
+- Part016 canonical records — **0**
+- English work — **BLOCKED UNTIL ASSEMBLED TAMIL VALIDATION CLOSES**

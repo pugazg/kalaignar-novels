@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**ACTIVE — split identity and global mapping are durable; Pass1 is COMPLETE at 30/30 TEXT-COMPLETE; outgoing boundary audit is CLOSED / PASS.**
+**ACTIVE — canonical Tamil and visual verification are CLOSED; Tamil archival-ready is CLOSED; assembled Tamil construction is COMPLETE at 5/5; assembled Tamil validation/audit is NEXT.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **421–450**;
@@ -42,20 +42,26 @@ The canonical `scan_page` remains the overall scan number **421–450**.
 
 ## Current gate
 
-Part 015 is **ACTIVE / PASS1 COMPLETE / OUTGOING BOUNDARY CLOSED / PASS2A NEXT**.
+Part 015 is **ACTIVE / TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL CONSTRUCTED / ASSEMBLY AUDIT NEXT**.
 
 - source split — **SUPPLIED / REGISTERED**
 - overall scans — **421–450 / 30**
-- local pages — **1–30**
-- canonical records — **30/30 — scans421–450**
-- Pass1 — **COMPLETE — 30/30 TEXT-COMPLETE**
+- canonical records — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil construction — **5/5 COMPLETE — sections83–87**
+- assembled Tamil validation/audit — **NOT STARTED / NEXT**
 - incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **450→451 — CLEAN / AUDITED / PASS**
-- controlling representation — **rendered source page images**
-- Parts001–014 — **FINAL CLOSED / FROZEN**
-- exact next — **Part015 Pass2A Batch1 scans421–430 / local1–10 / printed415–424**
+- multipart split boundaries — **15/15 AUDITED / COMPLETE**
+- Part016 canonical records — **0**
+- exact next — **Part015 assembled Tamil validation/audit — sections83–87**
 
-Do not create Part016 canonical records while Part015 is active.
+Do not create Part016 canonical records and do not begin English work until Part015 assembled Tamil validation closes.
 
 ## Incoming boundary checkpoint
 
@@ -384,3 +390,18 @@ Do not create Part016 canonical records while Part015 is active.
 - Parts001–014 — **FINAL CLOSED / FROZEN**
 - Part016 canonical/body leakage — **0**
 - exact next — **construct + audit Part015 assembled Tamil sections83–87**
+
+## Part015 assembled Tamil construction checkpoint
+
+**PART015 ASSEMBLED TAMIL CONSTRUCTION — COMPLETE — 5/5 FILES CREATED; VALIDATION/AUDIT PENDING.**
+
+- section83 — scans421–426 — chapter68
+- section84 — scans427–432 — chapter69
+- section85 — scans433–437 — chapter70
+- section86 — scans438–446 — chapter71; scan439 illustration-only
+- section87 — scans447–450 — chapter72 Part015 segment; scan448 illustration-only
+- section-order collisions — **0**
+- Part014 assembled-body mutations — **0**
+- Part016 body import — **0**
+- construction commit — `18b2305a710fbda8019741de29b38c1bffb545e1`
+- exact next — **audit and validate assembled Tamil sections83–87**

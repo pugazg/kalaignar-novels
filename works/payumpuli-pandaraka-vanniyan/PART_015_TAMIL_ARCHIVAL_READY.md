@@ -81,28 +81,22 @@ This archival-ready checkpoint introduces:
 
 ## Assembled Tamil handoff
 
-Live section-order collision check:
-- existing maintained section range ends at **82**
-- planned Part015 section-order range — **83–87**
-- collisions in **83–87** before construction — **0**
+Construction status — **COMPLETE / 5 OF 5 FILES CREATED**.
 
-Planned Part015 assembled files:
+Maintained Part015 assembled files:
 
 1. `sections/83-oru-pennin-piraayachchiththam.md` — scans421–426 — chapter68;
 2. `sections/84-manaththai-maatriya-madal.md` — scans427–432 — chapter69;
 3. `sections/85-thottaththil-ketta-oli.md` — scans433–437 — chapter70;
-4. `sections/86-inbam-imaippozhuthu.md` — scans438–446 — chapter71;
-5. `sections/87-pagaivar-kaiyil-panangamam.md` — scans447–450 — chapter72 Part015 segment.
+4. `sections/86-inbam-imaippozhuthu.md` — scans438–446 — chapter71; scan439 illustration-only;
+5. `sections/87-pagaivar-kaiyil-panangamam.md` — scans447–450 — chapter72 Part015 segment; scan448 illustration-only.
 
-Assembly safeguards:
-- canonical `pages/` records remain textual authority;
-- use only verified `## Source transcription` blocks;
-- preserve source spelling, punctuation, dialogue/paragraph order and verified cross-page joins;
-- preserve source-page provenance with non-rendering boundary comments;
-- represent scans439 and448 only by non-rendering illustration provenance; invent no caption/body;
-- exclude Pass/audit/workflow notes from literary body;
-- do not import Part016 text to extend chapter72;
-- audit omissions, duplicates, unsupported body insertion and review-note leakage before closure.
+- section-order collisions — **0**
+- construction commit — `18b2305a710fbda8019741de29b38c1bffb545e1`
+- assembled Tamil validation/audit — **NOT STARTED / NEXT**
+- Part016 text imported to extend chapter72 — **0**
+
+Validation must check omissions, duplicates, unsupported body insertion, review-note leakage, verified page joins, illustration-only handling and adjacent-Part leakage before assembled Tamil can close.
 
 ## Result
 
@@ -112,6 +106,6 @@ Part015 is ready for assembled Tamil construction.
 
 ## Exact next activity
 
-Perform **Part015 assembled Tamil construction + audit** for section range **83–87**.
+Perform **Part015 assembled Tamil validation/audit** for section range **83–87**.
 
-Do not begin English translation work until assembled Tamil construction and validation close.
+Do not begin English translation work until assembled Tamil validation closes.
