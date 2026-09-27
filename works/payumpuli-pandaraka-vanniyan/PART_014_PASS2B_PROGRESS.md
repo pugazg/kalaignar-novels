@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+**PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
 
 Prerequisites:
 - Part014 Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -85,8 +85,64 @@ No reform-sensitive occurrence in scans391–400 required a canonical Unicode co
 - Part015 canonical records created — **0**
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 2 correction ledger — scans401–410
+
+| Scan | Printed page | Before | Source-confirmed after | Classification |
+|---:|---:|---|---|---|
+| 402 | 395 | `மெக்டோவல் உத்திரவை` | **`மெக்டோவல் உத்தரவை`** | lexical / source-form correction |
+| 404 | 398 | `இருமாப்புடனும்` | **`இறுமாப்புடனும்`** | lexical / source-reading correction |
+| 405 | 399 | `உங்களை கோயில்` | **`உங்களைக் கோயில்`** | source sandhi / case-marker correction |
+| 409 | 403 | `பண்டாரக வன்னியனுக்கு தெரிவிக்கப்பட்டது.` | **`பண்டாரக வன்னியனுக்குத் தெரிவிக்கப்பட்டது.`** | source sandhi correction |
+
+Scans **401, 403, 406, 407, 408 and 410** required **0** additional Pass2B canonical-body corrections.
+
+## Batch 2 historical-glyph review
+
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+
+No reform-sensitive occurrence in scans401–410 required a canonical Unicode correction after direct source-pixel inspection.
+
+## Batch 2 source locks reconfirmed
+
+- scan401 / printed394 closes chapter64 `அதிர்ந்தது போர்முரசு!`;
+- scan402 / printed395 opens displayed chapter65 `கண்டிக்குள் களம்!`, displayed **65**;
+- scan402 source form is now preserved as **`மெக்டோவல் உத்தரவை`**;
+- scan402→403 physical continuation remains **`எனக்குப் போட்டியாக` + `முளைத்தவன்!`**;
+- scan403 remains one physical scan carrying printed folios **396–397**;
+- printed396 source intentionally ends `அறிவிக்க வேண்டும்.` without importing a closing quotation mark;
+- scan403→404 physical continuation remains **`ஆனால் மெக்டோவலின் படை` + `நுழையும்போது`**;
+- scan404 source form is now preserved as **`இறுமாப்புடனும்`**;
+- scan404→405 preserves the open quoted continuation and scan405 source-leading hyphen;
+- scan405 source case form is now preserved as **`உங்களைக் கோயில் வைத்துக் கும்பிட வேண்டும்!`**;
+- scan406→407 physical continuation remains **`கண்டியின்` + `உதவிக்கு`**;
+- scan407 retains source-visible `பண்டாரகவன்னியனும்`, `உத்தர விட்டான்`, and `வட்டபேலிகா`;
+- scan408 / printed402 closes chapter65 and preserves the substantial intentional blank lower field;
+- scan409 / printed403 opens displayed chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!`, displayed **66**;
+- scan409 source sandhi is now preserved as **`பண்டாரக வன்னியனுக்குத் தெரிவிக்கப்பட்டது.`**;
+- scan409–410 retain source name forms **`மேட்ஜ் / மேட்ஜின்`**;
+- scan410 / printed404 ends inside open dialogue at **`உங்கள்`**; no scan411 wording was imported.
+
+## Batch 2 decision
+
+**PASS — scans401–410 independently reviewed.**
+
+- reviewed — **20/30**
+- remaining — **10/30**
+- Batch1 additional corrections — **5**
+- Batch2 additional corrections — **4**
+- cumulative Pass2B additional corrections — **9**
+- Batch2 correction scans — **402, 404, 405, 409**
+- historical-glyph corrections — **0**
+- unresolved questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- frozen Parts001–013 body mutations — **0**
+- Part015 canonical records created — **0**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+
 ## Exact next activity
 
-Proceed with **Part014 Pass2B Batch2 — scans401–410 / local pages11–20 / observed printed folios394–404**.
+Proceed with **Part014 Pass2B Batch3 — scans411–420 / local pages21–30 / printed405–414**.
 
-Process exactly **10 physical source pages**. Remember scan403 is the verified two-folio spread carrying printed396–397. Keep textual `status: "verified"` and `visual_fidelity: "needs-review"`. Review source-visible lexical forms, spacing, punctuation and historical/source glyph fidelity. Do not begin Pass3 in the same activity. Do not create Part015 canonical records.
+Process exactly **10 physical source pages**. Keep textual `status: "verified"` and `visual_fidelity: "needs-review"`. Review source-visible lexical forms, spacing, punctuation and historical/source glyph fidelity. Do not begin Pass3 in the same activity. Do not create Part015 canonical records.
