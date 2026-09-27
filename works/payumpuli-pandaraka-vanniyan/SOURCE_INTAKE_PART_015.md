@@ -42,9 +42,20 @@ The canonical `scan_page` remains the overall scan number **421–450**.
 
 ## Current gate
 
-Part 015 source split: **SUPPLIED / REGISTERED**.
+Part 015 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
 
-This Part waits behind the global active frontier. The incoming boundary is audited, but no Part015 canonical page record has been created. Do not create page records here until Part014 review/closure advances the global frontier.
+- source split — **SUPPLIED / REGISTERED**
+- overall scans — **421–450 / 30**
+- local pages — **1–30**
+- canonical records — **0**
+- Pass1 — **NOT STARTED**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — PENDING direct audit**
+- controlling representation — **rendered source page images**
+- Parts001–014 — **FINAL CLOSED / FROZEN**
+- exact next — **Part015 Pass1 Batch1 scans421–430 / local pages1–10**
+
+Do not create Part016 canonical records while Part015 is active.
 
 ## Incoming boundary checkpoint
 
