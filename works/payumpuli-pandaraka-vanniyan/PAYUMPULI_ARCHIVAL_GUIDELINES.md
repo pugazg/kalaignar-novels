@@ -47,18 +47,22 @@ Audited:
 
 For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were directly compared. No scan60 correction was needed and no Part003 canonical text was imported.
 
-## Current authoritative frontier — Part015 E82 next
+## Current authoritative frontier — Part016 Pass1 Batch1 next
 
-- Parts001–014 — **FINAL CLOSED / FROZEN**
-- Part015 canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
-- assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
-- English planning/setup — **COMPLETE / PASS**
-- E80–E81 — **SOURCE-CHECKED / COMPLETE**
-- maintained English sections83–84 — **CREATED / SOURCE-CHECKED**
-- E81 literary blocks / boundaries — **37/37 / 5/5 PASS**
-- E82–E84 — **NOT STARTED**
-- Part016 — **SUPPLIED / REGISTERED / WAITING; 0 canonical records; Pass1 BLOCKED**
-- exact next — **E82 draft + source-check — section85 / scans433–437**
+- Parts001–015 — **FINAL CLOSED / FROZEN**
+- Part015 canonical Tamil / visual fidelity — **30/30 verified / frozen**
+- Part015 assembled Tamil — **sections83–87 / 5/5 VERIFIED / frozen**
+- Part015 English E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- Part015 glossary / editorial / bilingual / release / release-ready sync — **PASS / CLOSED**
+- Part015 final closure — **PASS / CLOSED / FROZEN**
+- unresolved Part015 blockers — **0**
+- outgoing **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
+- Part016 source — **SUPPLIED / REGISTERED / NEXT ACTIVE**
+- Part016 scans — **451–477 / 27**
+- Part016 canonical records — **0**
+- Part016 Pass1 — **NOT STARTED**
+- source endpoint — **scan477 / physical complete-source endpoint**
+- exact next — **Part016 Pass1 Batch1 — scans451–460 / local1–10**
 
 ## Historical accumulated Part frontier
 
