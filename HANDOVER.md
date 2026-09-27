@@ -7,22 +7,23 @@
 - **LIVE MAIN IS AUTHORITATIVE.**
 - Active work: `works/payumpuli-pandaraka-vanniyan/`
 
-## Current authoritative frontier — Part016 Pass1 Batch1 next
+## Current authoritative frontier — Part016 Pass1 Batch2 next
 
 - Parts001–015 — **FINAL CLOSED / FROZEN**
-- Part015 canonical Tamil / visual fidelity — **30/30 verified / frozen**
-- Part015 assembled Tamil — **sections83–87 / 5/5 VERIFIED / frozen**
-- Part015 English E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
-- Part015 glossary / editorial / bilingual / release / release-ready sync — **PASS / CLOSED**
-- Part015 final closure — **PASS / CLOSED / FROZEN**
-- unresolved Part015 blockers — **0**
-- outgoing **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
-- Part016 source — **SUPPLIED / REGISTERED / NEXT ACTIVE**
+- Part016 source — **ACTIVE / AUTHORIZED**
 - Part016 scans — **451–477 / 27**
-- Part016 canonical records — **0**
-- Part016 Pass1 — **NOT STARTED**
+- incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
+- Pass1 Batch1 scans451–460 / local1–10 — **COMPLETE / TEXT-COMPLETE**
+- canonical Part016 records — **10/27**
+- Pass1 text-complete — **10/27**
+- remaining — **17**
+- observed printed folios — **444–453**
+- chapter72 — **continues451–454 / closes454**
+- chapter73 `திறமையை வென்ற திறமை!` — **opens455 / continues through460**
+- textual / visual status — **10/10 needs-review / 10/10 needs-review**
+- scan461 canonical record — **0**
 - source endpoint — **scan477 / physical complete-source endpoint**
-- exact next — **Part016 Pass1 Batch1 — scans451–460 / local1–10**
+- exact next — **Part016 Pass1 Batch2 — scans461–470 / local11–20**
 
 ## Source family
 
