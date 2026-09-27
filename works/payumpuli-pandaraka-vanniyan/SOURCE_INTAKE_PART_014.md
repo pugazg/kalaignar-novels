@@ -61,27 +61,26 @@ Therefore later printed folios must be read directly from each rendered source i
 
 ## Current gate
 
-Part 014 is **PASS2B COMPLETE / PASS — 30/30 REVIEWED; PASS3 UNBLOCKED**.
+Part 014 is **PASS3 IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**.
 
 - Parts001–013 — **FINAL CLOSED / FROZEN**
 - canonical records — **30/30**
 - Pass1 — **COMPLETE / 30/30 TEXT-COMPLETE**
 - Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 22 corrections**
-- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED**
-- Pass2B cumulative additional corrections — **13**
-- Pass2B cumulative correction scans — **392, 393, 394, 400, 402, 404, 405, 409, 411, 413, 415, 416**
-- historical-glyph corrections — **0**
-- unresolved lexical / historical-glyph questions — **0**
+- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 13 additional corrections**
+- Pass3 Batch1 — **scans391–400 / local1–10 / printed384–393 — REVIEWED / PASS**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
 - textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - source-layout anomaly — **scan403 is a two-folio spread / printed396–397**
 - Part015 canonical records created — **0**
-- Pass3 — **NOT STARTED / UNBLOCKED**
-- durable Pass2A progress — `PART_014_PASS2A_PROGRESS.md`
+- Part audit — **NOT STARTED / BLOCKED UNTIL PASS3 COMPLETE**
 - durable Pass2B progress — `PART_014_PASS2B_PROGRESS.md`
-- exact next — **Part014 Pass3 Batch1 scans391–400 / local1–10 / printed384–393**
+- durable Pass3 progress — `PART_014_PASS3_PROGRESS.md`
+- exact next — **Part014 Pass3 Batch2 scans401–410 / local11–20 / observed printed394–404**
 
 Do not reopen frozen Parts001–013 merely to advance Part014.
 ## Part014 Pass1 Batch3 completion checkpoint
