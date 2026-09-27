@@ -1,6 +1,6 @@
 # Part 014 — English Translation Glossary — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **SETUP / PASS**
+Status: **BATCH SOURCE-CHECK UPDATE — E75–E79 COMPLETE / PASS**
 
 This glossary is derived from verified Part014 Tamil and frozen maintained project-English precedent. It is a translation control, not an authority over Tamil.
 
@@ -17,8 +17,8 @@ This glossary is derived from verified Part014 Tamil and frozen maintained proje
 | `பியசீலி` | **Piyaseeli** | inherited maintained form |
 | `நார்த்` / `நார்த் பிரபு` | **North / Lord North** | inherited maintained form |
 | `முத்துசாமி` / `முத்து சாமி` | **Muthusami** | finalized Part013 source-check form; preserve Tamil spacing as source evidence, not as two English names |
-| `கண்ணுசாமி` | source-check controlled | Part014 source-facing personal name; no outside normalization during setup |
-| `மேட்ஜ்` / `மேட்ஜின்` | source-check controlled | preserve canonical Tamil identity; English romanization to be fixed during E78 source-check |
+| `கண்ணுசாமி` | **Kannusami** | fixed source-facing in E77; no outside normalization imported |
+| `மேட்ஜ்` / `மேட்ஜின்` | **Madge** | fixed source-facing in E78; no outside historical-name normalization imported |
 
 ## Historical / military names
 
@@ -26,6 +26,7 @@ This glossary is derived from verified Part014 Tamil and frozen maintained proje
 |---|---|---|
 | `மேஜர் ஜெனரல் மெக்டோவல்` / `ஜெனரல் மெக்டோவல்` | **Major General Macdowall / General Macdowall** | Part013 source-check precedent controls |
 | `கர்னல் பார்பட்` | **Colonel Barbut** | Part013 source-check precedent controls |
+| `மேஜர் டேவி` | **Major Davy** | fixed source-facing in E77; no outside historical-name normalization imported |
 | `ஆங்கிலேயர்` / `ஆங்கிலேயப் படை` | **the English / English forces** | contextual maintained handling; do not import modern political terminology |
 | `பரங்கியர்` | **Parangiyar** where source-facing ethnonym is retained | inherited source-facing precedent; source-check occurrence by occurrence |
 
@@ -36,9 +37,9 @@ This glossary is derived from verified Part014 Tamil and frozen maintained proje
 | `கண்டி` | **Kandy** | inherited maintained form |
 | `கொழும்பு` | **Kolumbu** | inherited project source-facing form |
 | `முல்லைத் தீவு` / `முல்லைத்தீவு` | **Mullaitheevu** | inherited maintained form |
-| `மகாவில்லா கங்கா` | source-check controlled | no outside geographic normalization during setup |
-| `வட்டபேலிகா` | source-check controlled | preserve source-facing form; fix English spelling only in the relevant source-check |
-| `தமிழகம்` | contextual translation controlled | translate by source context; do not silently substitute a modern political/geographic label |
+| `மகாவில்லா கங்கா` | **Mahawilla Ganga** | fixed source-facing in E75/E76; no outside geographic normalization imported |
+| `வட்டபேலிகா` | **Vattapelika** | fixed source-facing in E77; no outside geographic normalization imported |
+| `தமிழகம்` | **Tamilakam** | fixed in E76 source context; no modern political/geographic substitution |
 
 ## Source-sensitive concepts
 
@@ -87,3 +88,29 @@ Working titles may be refined only during explicit source-check/editorial review
 - unresolved planning holds — **0**
 
 Exact next gate: **E75 draft + source-check — section78 / scans391–395**.
+
+## Batch source-check update
+
+E75–E79 are now **5/5 SOURCE-CHECKED / COMPLETE**.
+
+Additional decisions registered from explicit batch checks:
+- `மகாவில்லா கங்கா` → **Mahawilla Ganga**
+- `கண்ணுசாமி` → **Kannusami**
+- `மேஜர் டேவி` → **Major Davy**
+- `வட்டபேலிகா` → **Vattapelika**
+- `மேட்ஜ் / மேட்ஜின்` → **Madge**
+- `தமிழகம்` → **Tamilakam** in E76
+- `பரங்கித் தளபதி` → source-facing **Parangi commander** in E78
+
+These are maintained Part014 source-check forms pending the dedicated whole-Part glossary reconciliation. No outside historical, geographic, political or biographical normalization was imported.
+
+English batch coverage:
+- E75 scans391–395 — **PASS**
+- E76 scans396–401 — **PASS**
+- E77 scans402–408 — **PASS**
+- E78 scans409–414 — **PASS**
+- E79 scans415–420 — **PASS**
+
+Unresolved batch-level glossary holds — **0**.
+
+Exact next gate: **Part014 whole-Part English glossary reconciliation across E75–E79**.
