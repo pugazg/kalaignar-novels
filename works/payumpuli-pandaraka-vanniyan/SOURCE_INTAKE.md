@@ -76,18 +76,22 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 ## Current state
 
 - split registration — **16/16 COMPLETE**
-- Parts001–013 — **FINAL CLOSED / FROZEN**
-- Part014 / scans391–420 — **PASS1 IN PROGRESS / BATCH2 COMPLETE**
-- canonical Part014 records — **20/30**
-- completed Pass1 coverage — **391–410**
-- observed printed folios through scan410 — **384–404**
-- scan403 — **two-folio spread / printed396–397**
+- Parts001–014 — **FINAL CLOSED / FROZEN**
+- Part014 canonical Tamil — **30/30 verified / frozen**
+- Part014 visual fidelity — **30/30 verified / frozen**
+- Part014 assembled Tamil — **5/5 VERIFIED / frozen**
+- Part014 E75–E79 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- Part014 glossary / editorial / bilingual / release / release-ready sync — **PASS / PASS / PASS / PASS / PASS**
+- Part014 final closure — **PASS / CLOSED / FROZEN**
+- English frontier — **E79 CLOSED**
 - incoming 390→391 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing 420→421 — **PENDING direct audit**
-- unresolved Pass1 source-reading holds — **0**
-- exact next — **Part014 Pass1 Batch3 scans411–420**
-- Parts015–016 — **SUPPLIED / REGISTERED / WAITING**
-
+- outgoing 420→421 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- Part015 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part015 source — **SUPPLIED / REGISTERED / scans421–450**
+- Part015 canonical records — **0**
+- Part015 incoming 420→421 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- Part015 outgoing 450→451 — **PENDING direct audit**
+- exact next — **Part015 Pass1 Batch1 scans421–430 / local pages1–10**
 
 ## Part005 final state
 
