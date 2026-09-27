@@ -61,27 +61,27 @@ Therefore later printed folios must be read directly from each rendered source i
 
 ## Current gate
 
-Part 014 is **PASS1 IN PROGRESS / BATCH 2 COMPLETE**.
+Part 014 is **PASS2B IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**.
 
 - Parts001–013 — **FINAL CLOSED / FROZEN**
+- canonical records — **30/30**
+- Pass1 — **COMPLETE / 30/30 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 22 corrections**
+- Pass2B Batch1 — **scans391–400 / local1–10 / printed384–393 — REVIEWED / PASS**
+- Pass2B Batch1 additional corrections — **5**
+- Pass2B correction scans so far — **392, 393, 394, 400**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- canonical records — **20/30**
-- Pass1 Batch1 — **scans391–400 / local1–10 — TEXT-COMPLETE**
-- Pass1 Batch2 — **scans401–410 / local11–20 — TEXT-COMPLETE**
-- observed printed folios through scan410 — **384–404**
 - source-layout anomaly — **scan403 is a two-folio spread / printed396–397**
-- textual / visual status — **needs-review / needs-review**
-- unresolved Pass1 source-reading holds — **0**
-- chapter64 closes401
-- chapter65 `கண்டிக்குள் களம்!` — opens402 / closes408
-- chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!` — opens409 / continues410
-- scan410 ends inside open dialogue at `உங்கள்`
-- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
-- durable progress — `PART_014_PASS1_PROGRESS.md`
-- exact next — **Part014 Pass1 Batch3 scans411–420 / local21–30**
-
-Read Batch3 printed folios directly from source. Do not pre-assume one printed folio per physical scan.
+- Part015 canonical records created — **0**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- durable Pass2A progress — `PART_014_PASS2A_PROGRESS.md`
+- durable Pass2B progress — `PART_014_PASS2B_PROGRESS.md`
+- exact next — **Part014 Pass2B Batch2 scans401–410 / local11–20 / observed printed394–404**
 
 Do not reopen frozen Parts001–013 merely to advance Part014.
 ## Part014 Pass1 Batch3 completion checkpoint
