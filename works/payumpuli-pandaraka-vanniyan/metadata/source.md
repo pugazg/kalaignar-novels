@@ -990,3 +990,27 @@ Exact next activity: audit **330→331**; if usable, begin **Part012 Pass1 scans
 - Pass2B / Pass3 — **NOT STARTED**
 - durable progress — `PART_014_PASS2A_PROGRESS.md`
 - exact next — **Part014 Pass2A Batch3 scans411–420 / local21–30 / printed405–414**
+
+## Part014 Pass2A closure checkpoint
+
+**PART014 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- scans391–420 — **30/30 textual verified**
+- visual fidelity — **30/30 needs-review**
+- Batch1 corrections — **8**
+- Batch2 corrections — **10**
+- Batch3 corrections — **4**
+- cumulative Pass2A corrections — **22**
+- Batch3 correction scans — **411, 412, 413, 415**
+- scan411 — `நான்குதிசைகளிலும்` → **`நான்கு திசைகளிலும்`**
+- scan412 — `என்னைக் தன்னந்தனியாக` → **`என்னைத் தன்னந்தனியாக`**
+- scan413 — `உணர்த்தியிருப்பது,` → **`உணர்த்தியிருக்காவது,`**
+- scan415 — `எதிர்பார்த்துக் காத்திருந்த` → **`எதிர் பார்த்துக் காத்திருந்த`**
+- scans414 and 416–420 — **no additional Pass2A canonical-body correction**
+- unresolved textual questions — **0**
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- Part015 canonical records created — **0**
+- Pass2B / Pass3 — **NOT STARTED**
+- durable progress — `PART_014_PASS2A_PROGRESS.md`
+- exact next — **Part014 Pass2B Batch1 scans391–400 / local1–10 / printed384–393**
