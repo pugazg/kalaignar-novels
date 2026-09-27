@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
+**PASS 2B — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisites:
 - Part014 Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -141,8 +141,71 @@ No reform-sensitive occurrence in scans401–410 required a canonical Unicode co
 - Part015 canonical records created — **0**
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 3 correction ledger — scans411–420
+
+| Scan | Printed page | Before | Source-confirmed after | Classification |
+|---:|---:|---|---|---|
+| 411 | 405 | `ஓடிவந்து` | **`ஓடி வந்து`** | source spacing / word-boundary correction |
+| 413 | 407 | `உணர்த்தியிருக்காவது,` | **`உணர்ந்தபிறகாவது,`** | lexical / source-reading correction; supersedes Pass2A reading |
+| 415 | 409 | `பெண் -நீங்களோ` | **`பெண்-நீங்களோ`** | source punctuation / spacing correction |
+| 416 | 410 | `நினைத்துப் பார்க்க வேண்டும்.` | **`நினைத்துப்பார்க்கவேண்டும்.`** | source compound / join correction |
+
+Scans **412, 414 and 417–420** required **0** additional Pass2B canonical-body corrections.
+
+## Batch 3 historical-glyph review
+
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+
+No reform-sensitive occurrence in scans411–420 required a canonical Unicode correction after direct source-pixel inspection.
+
+## Batch 3 source locks reconfirmed
+
+- scan411 / printed405 resumes scan410 open dialogue at `நெஞ்சில்` and preserves source `ஓடி வந்து`;
+- scan412 / printed406 ends mid-sentence at `வீரனுக்கு`;
+- scan413 / printed407 resumes `அழகுமில்லை!`, preserves source `உணர்ந்தபிறகாவது,`, and ends at `சேர`;
+- scan414 / printed408 resumes `அனுமதிக்கப்படுகிறார்.` and closes chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!`;
+- scan415 / printed409 opens displayed chapter67 `இரத்தம் படிந்த வாள்!`, displayed **67**, and preserves source `பெண்-நீங்களோ`;
+- scan415→416 preserves `இருப்பதை` + `உணர்ந்து கொள்ள முடிந்தது.`;
+- scan416 source join is preserved as `நினைத்துப்பார்க்கவேண்டும்.`;
+- scan417 retains source `மாசு மறுவற்ற நட்பு`, `பண்டாரக வன்னிய பக்தை`, and quoted `‘பெண்’`;
+- scan418→419 preserves `கொலுமண்டபத்திற்குள்` + `நுழைந்தனர்.`;
+- scan419→420 preserves `பீடத்திலிருக்கும்` + `வாளை`;
+- scan420 / printed414 preserves the substantial intentional blank lower field after the final exclamation;
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**; no Part015 wording was imported.
+
+## Batch 3 decision
+
+**PASS — scans411–420 independently reviewed.**
+
+- reviewed — **30/30**
+- remaining — **0**
+- Batch1 additional corrections — **5**
+- Batch2 additional corrections — **4**
+- Batch3 additional corrections — **4**
+- cumulative Pass2B additional corrections — **13**
+- Batch3 correction scans — **411, 413, 415, 416**
+- cumulative correction scans — **392, 393, 394, 400, 402, 404, 405, 409, 411, 413, 415, 416**
+- historical-glyph corrections — **0**
+- unresolved questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- frozen Parts001–013 body mutations — **0**
+- Part015 canonical records created — **0**
+
+## Pass2B closure decision
+
+**PART014 PASS 2B — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- cumulative additional source-supported corrections — **13**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- Pass3 — **NOT STARTED / UNBLOCKED**
+
 ## Exact next activity
 
-Proceed with **Part014 Pass2B Batch3 — scans411–420 / local pages21–30 / printed405–414**.
+Proceed with **Part014 Pass3 Batch1 — scans391–400 / local pages1–10 / printed384–393**.
 
-Process exactly **10 physical source pages**. Keep textual `status: "verified"` and `visual_fidelity: "needs-review"`. Review source-visible lexical forms, spacing, punctuation and historical/source glyph fidelity. Do not begin Pass3 in the same activity. Do not create Part015 canonical records.
+Process exactly **10 physical source pages** for full-page rendered-source visual / structural verification. Keep textual `status: "verified"` and `visual_fidelity: "needs-review"` until the Part audit/final status gate. Do not begin Part audit in the same activity. Do not create Part015 canonical records.
