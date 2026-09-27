@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part014 Pass2B Batch2 scans401–410
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part014 Pass2B Batch3 scans411–420
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -32,32 +32,34 @@ Boundary state:
 
 Pass2B:
 - Batch1 scans391–400 / local1–10 / printed384–393 — **REVIEWED / PASS**
-- reviewed — **10/30**
-- remaining — **20/30**
-- additional Pass2B corrections — **5**
-- correction scans — **392, 393, 394, 400**
+- Batch2 scans401–410 / local11–20 / observed printed394–404 — **REVIEWED / PASS**
+- reviewed — **20/30**
+- remaining — **10/30**
+- Batch1 additional corrections — **5**
+- Batch2 additional corrections — **4**
+- cumulative additional Pass2B corrections — **9**
+- Batch2 correction scans — **402, 404, 405, 409**
 - historical-glyph corrections — **0**
 - unresolved lexical / historical-glyph questions — **0**
 - durable progress — `PART_014_PASS2B_PROGRESS.md`
 
-Batch1 source-backed corrections:
-- 392 — `ஆமாம் - இனிமேல்` → `ஆமாம்- இனிமேல்`
-- 392 — `கொழுக்கும் என் இளமை` → `கொழிக்கும் என் இளமை`
-- 393 — `ஏற்றுப் புறப்படு!` → `ஏற்றுப்புறப்படு!`
-- 394 — `கை அசைத்து விட்டு குதிரையைக் கட்டிவிட்டான்.` → `கை அசைத்து விட்டுக் குதிரையைத் தட்டி விட்டான்.`
-- 400 — `நல்லதாகத்தான்` → `நல்லதாகத் தான்`
+Batch2 source-backed corrections:
+- 402 — `மெக்டோவல் உத்திரவை` → `மெக்டோவல் உத்தரவை`
+- 404 — `இருமாப்புடனும்` → `இறுமாப்புடனும்`
+- 405 — `உங்களை கோயில்` → `உங்களைக் கோயில்`
+- 409 — `பண்டாரக வன்னியனுக்கு தெரிவிக்கப்பட்டது.` → `பண்டாரக வன்னியனுக்குத் தெரிவிக்கப்பட்டது.`
 
 ## Fixed Pass2B iteration rule
 
 - **10 source pages per iteration**
 - Batch1 — **scans391–400 — COMPLETE**
-- Batch2 — **scans401–410 — NEXT**
-- Batch3 — **scans411–420**
+- Batch2 — **scans401–410 — COMPLETE**
+- Batch3 — **scans411–420 — NEXT**
 - do not exceed 10 source pages in a Pass2B iteration unless explicitly overridden
 
 ## Exact next activity
 
-Perform **Part014 Pass2B Batch2 — scans401–410 / local pages11–20 / observed printed folios394–404**.
+Perform **Part014 Pass2B Batch3 — scans411–420 / local pages21–30 / printed405–414**.
 
 Independently reread exactly **10 physical source pages** from direct rendered source pixels for:
 - lexical identity;
@@ -65,10 +67,6 @@ Independently reread exactly **10 physical source pages** from direct rendered s
 - source-specific compounds and joins;
 - word boundaries;
 - punctuation and quotation boundaries.
-
-Important pagination rule:
-- scan403 is one physical scan carrying **two printed folios, 396 and397**;
-- do not project printed folios arithmetically.
 
 Check the reform-sensitive historical-glyph set occurrence by occurrence where present:
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
