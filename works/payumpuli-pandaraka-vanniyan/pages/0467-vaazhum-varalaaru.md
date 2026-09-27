@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 
 ## Source transcription
 
-மிருகம் விழிகளுடன் தன்னைப் பார்க்கும்
+மிரளும் விழிகளுடன் தன்னைப் பார்க்கும்
 எட்வர்டையும் அவனுடன் வந்த வீரர்களையும்
 நோக்கிக் குருவிச்சி ஆவேசமாகச் சிரித்தாள்.
 
