@@ -76,18 +76,15 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 ## Current state
 
 - split registration — **16/16 COMPLETE**
-- multipart split boundaries — **15/15 AUDITED / COMPLETE**
 - Parts001–014 — **FINAL CLOSED / FROZEN**
 - Part015 canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
-- Part015 assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
-- Part015 English planning/setup — **COMPLETE / PASS**
-- E1–E79 source-check controls — **contiguous / 79 / missing 0**
-- reserved Part015 batches — **E80–E84 / 5**
-- maintained English sections00–82 — **contiguous / 83 / missing 0**
-- reserved Part015 English sections — **83–87 / 5**
-- batch / section collisions — **0 / 0**
+- assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
+- English planning/setup — **COMPLETE / PASS**
+- E80 / section83 / scans421–426 — **SOURCE-CHECKED / COMPLETE**
+- maintained English section83 — **CREATED / SOURCE-CHECKED**
+- E81–E84 — **NOT STARTED**
 - Part016 — **SUPPLIED / REGISTERED / WAITING; 0 canonical records; Pass1 BLOCKED**
-- exact next — **E80 draft + source-check — section83 / scans421–426**
+- exact next — **E81 draft + source-check — section84 / scans427–432**
 
 ## Part005 final state
 

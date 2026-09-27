@@ -81,16 +81,11 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 - Part015 scans421–450 — **canonical Tamil 30/30 verified / visual fidelity 30/30 verified**
 - assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
 - English planning/setup — **COMPLETE / PASS**
-- E1–E79 source-check controls — **contiguous / 79 / missing 0**
-- reserved Part015 English batches — **E80–E84 / 5**
-- maintained English sections00–82 — **contiguous / 83 / missing 0**
-- reserved maintained English sections — **83–87 / 5**
-- collisions — **0 batch / 0 section**
-- scan439 / scan448 — **illustration-only / no English literary body**
-- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
+- E80 / section83 / scans421–426 — **SOURCE-CHECKED / COMPLETE**
+- maintained English section83 — **CREATED / SOURCE-CHECKED**
+- E81–E84 — **NOT STARTED**
 - Part016 scans451–477 — **SUPPLIED / REGISTERED / WAITING; 0 canonical records; Pass1 BLOCKED**
-- exact next — **E80 draft + source-check — section83 / scans421–426**
+- exact next — **E81 draft + source-check — section84 / scans427–432**
 
 ## User-supplied descriptive note
 
