@@ -2713,3 +2713,29 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Pass2B / Pass3 — **NOT STARTED**
 - durable progress — `PART_015_PASS2A_PROGRESS.md`
 - exact next — **Part015 Pass2A Batch2 scans431–440 / local11–20**
+
+## Part015 Pass2A Batch2 checkpoint
+
+**PART015 PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED.**
+
+- scans431–440 / local11–20 — **REVIEWED / PASS**
+- observed printed folios — **425–433**, with scan439 unnumbered
+- textual status — **20/30 verified / 10/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- Batch2 corrections — **5**
+- cumulative Pass2A corrections — **8**
+- correction scans — **431, 434, 436, 437, 440**
+- scan431 — `மாறுகிறதா` → **`மாறுகிறது?`**
+- scan434 — `எதிர்பார்க்கவே இல்லை!` → **`எதிர் பார்க்கவே இல்லை!`**
+- scan436 — source-visible closing quotation mark restored after **`சொல்லிவிட்டுப் போ!`**
+- scan437 — `மறத்தாள்` → **`மறந்தாள்`**
+- scan440 — `விக்கிரம ராஜ சிங்கன் சொன்ன கருத்து` → **`விக்கிரமராஜ சிங்கன் சொன்ன கருத்து`**
+- scans432–433, 435, 438–439 — **no canonical-body correction**
+- scan439 — **full-page colour narrative illustration / no printed Tamil body / no visible folio / textual record verified**
+- unresolved textual questions — **0**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- Part016 canonical records created — **0**
+- Pass2B / Pass3 — **NOT STARTED**
+- durable progress — `PART_015_PASS2A_PROGRESS.md`
+- exact next — **Part015 Pass2A Batch3 scans441–450 / local21–30**

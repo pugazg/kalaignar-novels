@@ -117,7 +117,7 @@ Batch2 review candidates additionally include:
 - scan434 `காலம்பழகி`, `நம் மிடம்`, `கட்டளை யிடுகிறான்`, `போகாதென்று`;
 - scan435 `எண்ணிடுவீர்கள்`, `வலு வளிப்பது`, `மனம்போலநடந்து`, `திக்கு முக்காடித்`;
 - scan436 `கொண்டுழைக்கும்`, `தொத்திக்கொண்டு`, `அந்தக்கேடு கெட்டவர்கள்`, `தீவைவிட்டு`;
-- scan437 `மறத்தாள்`, `உங்களிஷ்டம்`, `கல்யாணமாகியும்`, `இதழோரப்`;
+- scan437 `மறந்தாள்`, `உங்களிஷ்டம்`, `கல்யாணமாகியும்`, `இதழோரப்`;
 - scan438 `பிர்மாண்டமான`, `முரசறைந்து`, `முல்லைத் தீவின்`;
 - scan440 `அழிக்கப்பட்டே`, `ஆங்கிலேயப்படை`, `போயாக`, `புறப்பட்டாக`, `புறப்படவேண்டியதுதானே`.
 
@@ -142,9 +142,9 @@ Frozen Parts001–014 canonical Tamil, assembled Tamil, maintained English, glos
 
 ## Exact next activity
 
-Perform **Part015 Pass2A Batch2 — scans431–440 / local pages11–20**.
+Perform **Part015 Pass2A Batch3 — scans441–450 / local pages21–30**.
 
-Pass2A Batch1 is complete at **10/30 reviewed** with **3 source-backed corrections**. Process exactly **10 physical Part015 source pages** in Batch2 from direct rendered source pixels. Do not create Part016 canonical records while Part015 remains active.
+Pass2A Batch2 is complete at **20/30 reviewed** with **8 cumulative source-backed corrections**. Process exactly **10 physical Part015 source pages** in Batch3 from direct rendered source pixels. Do not create Part016 canonical records while Part015 remains active.
 
 ## Outgoing boundary audit 450→451
 
@@ -176,3 +176,22 @@ Pass2A Batch1 is complete at **10/30 reviewed** with **3 source-backed correctio
 - Part016 canonical records created — **0**
 - durable progress — `PART_015_PASS2A_PROGRESS.md`
 - exact next — **Part015 Pass2A Batch2 scans431–440 / local11–20**
+
+## Part015 Pass2A Batch2 checkpoint
+
+**PART015 PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED.**
+
+- scans431–440 / local11–20 — **REVIEWED / PASS**
+- Batch2 source-backed corrections — **5**
+- cumulative Pass2A corrections — **8**
+- correction scans — **431, 434, 436, 437, 440**
+- textual status — **20/30 verified / 10/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- scan439 — **unnumbered full-page colour illustration / textual record verified**
+- unresolved textual questions — **0**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- multipart split boundaries — **15/15 AUDITED / COMPLETE**
+- Part016 canonical records created — **0**
+- durable progress — `PART_015_PASS2A_PROGRESS.md`
+- exact next — **Part015 Pass2A Batch3 scans441–450 / local21–30**

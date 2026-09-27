@@ -6,11 +6,11 @@ printed_page: 433
 work: "payumpuli-pandaraka-vanniyan"
 section: "இன்பம், இமைப்பொழுது!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf"
-transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans431–440"
+transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans431–440; formal Part015 Pass 2A reviewed"
 ---
 
 # இன்பம், இமைப்பொழுது!
@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 
 “நண்பா! நம் இரு நாடுகளில் எந்த ஒரு நாடு ஆங்கிலேயர்களின் வசப்பட்டாலும் அதைத் தொடர்ந்து மற்றுமொரு நாடு அவர்களால் அழிக்கப்பட்டே அடிமைப்பட்டு விடும். அதனால் கண்டியைக் காப்பாற்றிக் கொள்ள நானும் எனது நாட்டு வீரர்களும் களம் காணுகிறோம்! நீ தயவு செய்து உடனே உனது வீரர்களுடன் முல்லைத் தீவுக்குப் புறப்படு! ஆங்கிலேயப்படை முல்லைத்தீவை நெருங்குவதற்குள் உனது வீரர்கள் அவர்களை எதிர்ப்பதற்குத் தயாராக முல்லைத்தீவின் எல்லைகளுக்குப் போயாக வேண்டும்.”
 
-விக்கிரம ராஜ சிங்கன் சொன்ன கருத்து ஏற்கக் கூடியதுதான் என்று பண்டாரகனுக்குத் தெரிந்தாலும் கூட, கண்டியை விட்டு விட்டுச் செல்வதற்கு ஏனோ அவனுக்கு மனமில்லை.
+விக்கிரமராஜ சிங்கன் சொன்ன கருத்து ஏற்கக் கூடியதுதான் என்று பண்டாரகனுக்குத் தெரிந்தாலும் கூட, கண்டியை விட்டு விட்டுச் செல்வதற்கு ஏனோ அவனுக்கு மனமில்லை.
 
 “விக்கிரமா! நாம் எப்படியோ அலட்சியமாக இருந்துவிட்டோம்! தோற்றோடிய அந்நியர் மீண்டும் நம் மீது வஞ்சினம் கொண்டு வளைக்கக் கூடும் என நினைத்தோமே தவிர, அதற்கான தற்காப்பு ஏற்பாடுகளைச் செய்து கொள்ளாமலேயே இருந்துவிட்டது பெருந்தவறு!”
 
@@ -48,4 +48,15 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 440; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 433; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+## Formal Part015 Pass 2A review
+
+- direct textual source-fidelity comparison completed against the rendered Part015 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `விக்கிரம ராஜ சிங்கன் சொன்ன கருத்து` → **`விக்கிரமராஜ சிங்கன் சொன்ன கருத்து`** — source name-form / spacing correction;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 440; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 433; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->

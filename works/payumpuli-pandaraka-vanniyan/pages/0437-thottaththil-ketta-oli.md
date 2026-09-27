@@ -6,18 +6,18 @@ printed_page: 431
 work: "payumpuli-pandaraka-vanniyan"
 section: "தோட்டத்தில் கேட்ட ஒலி!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf"
-transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans431–440"
+transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans431–440; formal Part015 Pass 2A reviewed"
 ---
 
 # தோட்டத்தில் கேட்ட ஒலி!
 
 ## Source transcription
 
-பழுதின்றி அமையும் வரையில் இருவரும் இல்லற உறவு கொள்வதில்லை என்று சூளுரை மேற்கொண்டிருப்பதை எப்படித்தான் என் குருவிச்சி மறத்தாள் என்று எனக்குத் தெரியவில்லை!”
+பழுதின்றி அமையும் வரையில் இருவரும் இல்லற உறவு கொள்வதில்லை என்று சூளுரை மேற்கொண்டிருப்பதை எப்படித்தான் என் குருவிச்சி மறந்தாள் என்று எனக்குத் தெரியவில்லை!”
 
 பண்டாரகன், குரல் தழுதழுக்க இதைச் சொன்னவுடன், குருவிச்சி ஓடிவந்து அவன் காலை பிடித்துக் கொண்டு “தயவு செய்து என்னை மன்னித்துவிடுங்கள்” என்று கண் கலங்கினாள்.
 
@@ -49,11 +49,22 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 
 - printed page **431**; chapter70 closes on this scan
 - resumes scan436 mid-sentence with `பழுதின்றி`
-- source-visible `மறத்தாள்`, `உங்களிஷ்டம்`, `கல்யாணமாகியும்`, `இதழோரப்` retained
+- source-visible `மறந்தாள்`, `உங்களிஷ்டம்`, `கல்யாணமாகியும்`, `இதழோரப்` retained
 - chapter closes after the sentence about the emergency drum signal
 - scan438 opens displayed chapter71; no scan438 wording imported
 - direct rendered source pixels are authoritative; OCR/outside-source comparison not used as source authority
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 437; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 17; அச்சுப் பக்கம்: 431; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+## Formal Part015 Pass 2A review
+
+- direct textual source-fidelity comparison completed against the rendered Part015 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `மறத்தாள்` → **`மறந்தாள்`** — lexical / source-reading correction;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 437; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 17; அச்சுப் பக்கம்: 431; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->

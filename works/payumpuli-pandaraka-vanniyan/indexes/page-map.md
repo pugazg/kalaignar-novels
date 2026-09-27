@@ -436,16 +436,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 015 | 8 | 428 | 422 | chapter69 continuation; letter block; ends mid-sentence at `கொண்டிருக்கிறார்களே` | verified | `pages/0428-manaththai-maatriya-madal.md` |
 | 015 | 9 | 429 | 423 | chapter69 continuation; resumes `தவிர,`; ends after complete exclamation at `காட்டலாம்!` | verified | `pages/0429-manaththai-maatriya-madal.md` |
 | 015 | 10 | 430 | 424 | chapter69 continuation; ends dialogue at `கடிதமா? நானா? உனக்கு எழுதினேனா?` | verified | `pages/0430-manaththai-maatriya-madal.md` |
-| 015 | 11 | 431 | 425 | chapter69 continuation; ends mid-sentence at `உரக்க` | needs-review | `pages/0431-manaththai-maatriya-madal.md` |
-| 015 | 12 | 432 | 426 | chapter69 close; resumes `ஒலித்தன.`; substantial intentional blank lower field | needs-review | `pages/0432-manaththai-maatriya-madal.md` |
-| 015 | 13 | 433 | 427 | chapter70 opening `தோட்டத்தில் கேட்ட ஒலி!`; displayed number70; ends mid-dialogue at `நான்` | needs-review | `pages/0433-thottaththil-ketta-oli.md` |
-| 015 | 14 | 434 | 428 | chapter70 continuation; resumes `நம்புகிறேன்.` | needs-review | `pages/0434-thottaththil-ketta-oli.md` |
-| 015 | 15 | 435 | 429 | chapter70 continuation; ends mid-dialogue at `புத்தி` | needs-review | `pages/0435-thottaththil-ketta-oli.md` |
-| 015 | 16 | 436 | 430 | chapter70 continuation; resumes `இருக்கக்கூடாது!`; ends at `சுதந்திரம்` | needs-review | `pages/0436-thottaththil-ketta-oli.md` |
-| 015 | 17 | 437 | 431 | chapter70 close; resumes `பழுதின்றி`; emergency drum signal closes page | needs-review | `pages/0437-thottaththil-ketta-oli.md` |
-| 015 | 18 | 438 | 432 | chapter71 opening `இன்பம், இமைப்பொழுது!`; displayed number71; ends at `எல்லாப் பகுதிகளுக்குச்` | needs-review | `pages/0438-inbam-imaippozhuthu.md` |
-| 015 | 19 | 439 | — | full-page colour narrative illustration; no printed Tamil body / no visible folio | needs-review | `pages/0439-inbam-imaippozhuthu.md` |
-| 015 | 20 | 440 | 433 | chapter71 continuation after unnumbered illustration; resumes `செல்லுங்கள்!”`; ends mid-dialogue at `என்று` | needs-review | `pages/0440-inbam-imaippozhuthu.md` |
+| 015 | 11 | 431 | 425 | chapter69 continuation; ends mid-sentence at `உரக்க` | verified | `pages/0431-manaththai-maatriya-madal.md` |
+| 015 | 12 | 432 | 426 | chapter69 close; resumes `ஒலித்தன.`; substantial intentional blank lower field | verified | `pages/0432-manaththai-maatriya-madal.md` |
+| 015 | 13 | 433 | 427 | chapter70 opening `தோட்டத்தில் கேட்ட ஒலி!`; displayed number70; ends mid-dialogue at `நான்` | verified | `pages/0433-thottaththil-ketta-oli.md` |
+| 015 | 14 | 434 | 428 | chapter70 continuation; resumes `நம்புகிறேன்.` | verified | `pages/0434-thottaththil-ketta-oli.md` |
+| 015 | 15 | 435 | 429 | chapter70 continuation; ends mid-dialogue at `புத்தி` | verified | `pages/0435-thottaththil-ketta-oli.md` |
+| 015 | 16 | 436 | 430 | chapter70 continuation; resumes `இருக்கக்கூடாது!`; ends at `சுதந்திரம்` | verified | `pages/0436-thottaththil-ketta-oli.md` |
+| 015 | 17 | 437 | 431 | chapter70 close; resumes `பழுதின்றி`; emergency drum signal closes page | verified | `pages/0437-thottaththil-ketta-oli.md` |
+| 015 | 18 | 438 | 432 | chapter71 opening `இன்பம், இமைப்பொழுது!`; displayed number71; ends at `எல்லாப் பகுதிகளுக்குச்` | verified | `pages/0438-inbam-imaippozhuthu.md` |
+| 015 | 19 | 439 | — | full-page colour narrative illustration; no printed Tamil body / no visible folio | verified | `pages/0439-inbam-imaippozhuthu.md` |
+| 015 | 20 | 440 | 433 | chapter71 continuation after unnumbered illustration; resumes `செல்லுங்கள்!”`; ends mid-dialogue at `என்று` | verified | `pages/0440-inbam-imaippozhuthu.md` |
 | 015 | 21 | 441 | 434 | chapter71 continuation; resumes open dialogue; ends at `போர்` | needs-review | `pages/0441-inbam-imaippozhuthu.md` |
 | 015 | 22 | 442 | 435 | chapter71 continuation; resumes physical split at `முனைக்குப்`; ends at `காத்திட` | needs-review | `pages/0442-inbam-imaippozhuthu.md` |
 | 015 | 23 | 443 | 436 | chapter71 continuation; garland exchange completed | needs-review | `pages/0443-inbam-imaippozhuthu.md` |
@@ -1912,3 +1912,29 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - Pass2B / Pass3 — **NOT STARTED**
 - durable progress — `PART_015_PASS2A_PROGRESS.md`
 - exact next — **Part015 Pass2A Batch2 scans431–440 / local11–20**
+
+## Part015 Pass2A Batch2 checkpoint
+
+**PART015 PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED.**
+
+- scans431–440 / local11–20 — **REVIEWED / PASS**
+- observed printed folios — **425–433**, with scan439 unnumbered
+- textual status — **20/30 verified / 10/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- Batch2 corrections — **5**
+- cumulative Pass2A corrections — **8**
+- correction scans — **431, 434, 436, 437, 440**
+- scan431 — `மாறுகிறதா` → **`மாறுகிறது?`**
+- scan434 — `எதிர்பார்க்கவே இல்லை!` → **`எதிர் பார்க்கவே இல்லை!`**
+- scan436 — source-visible closing quotation mark restored after **`சொல்லிவிட்டுப் போ!`**
+- scan437 — `மறத்தாள்` → **`மறந்தாள்`**
+- scan440 — `விக்கிரம ராஜ சிங்கன் சொன்ன கருத்து` → **`விக்கிரமராஜ சிங்கன் சொன்ன கருத்து`**
+- scans432–433, 435, 438–439 — **no canonical-body correction**
+- scan439 — **full-page colour narrative illustration / no printed Tamil body / no visible folio / textual record verified**
+- unresolved textual questions — **0**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- Part016 canonical records created — **0**
+- Pass2B / Pass3 — **NOT STARTED**
+- durable progress — `PART_015_PASS2A_PROGRESS.md`
+- exact next — **Part015 Pass2A Batch3 scans441–450 / local21–30**
