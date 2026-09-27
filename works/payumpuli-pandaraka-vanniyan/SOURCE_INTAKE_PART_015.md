@@ -287,3 +287,27 @@ Do not create Part016 canonical records while Part015 is active.
 - Part016 canonical records created — **0**
 - durable progress — `PART_015_PASS3_PROGRESS.md`
 - exact next — **Part015 Pass3 Batch2 scans431–440 / local11–20**
+
+## Part015 Pass3 Batch2 checkpoint
+
+**PART015 PASS 3 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 VISUAL / STRUCTURAL REVIEWED.**
+
+- scans431–440 / local11–20 — **REVIEWED / PASS**
+- observed printed folios — **425–433**, with scan439 unnumbered
+- chapter69 closes scan432 with a large intentional blank lower field
+- displayed chapter70 `தோட்டத்தில் கேட்ட ஒலி!` / boxed **70** — scan433
+- chapter70 closes scan437 with the emergency drum signal
+- displayed chapter71 `இன்பம், இமைப்பொழுது!` / boxed **71** — scan438
+- scan439 — **unnumbered full-page colour narrative illustration / no printed Tamil body / no visible folio**
+- printed sequence — **432 → unnumbered illustration → 433**
+- recurring text-page border / folio furniture — **CONSISTENT**
+- physical continuation locks — **PASS**
+- Pass3 Tamil body corrections — **0**
+- unresolved visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- Part016 canonical records created — **0**
+- durable progress — `PART_015_PASS3_PROGRESS.md`
+- exact next — **Part015 Pass3 Batch3 scans441–450 / local21–30**

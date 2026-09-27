@@ -1948,3 +1948,22 @@ Direct source review established that scan403 contains **two printed folios (396
 - Part016 canonical records created — **0**
 - durable progress — `PART_015_PASS3_PROGRESS.md`
 - exact next — **Part015 Pass3 Batch2 scans431–440 / local11–20**
+
+## Part015 Pass3 Batch2 checkpoint
+
+**PART015 PASS 3 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 VISUAL / STRUCTURAL REVIEWED.**
+
+- scans431–440 / local11–20 — **REVIEWED / PASS**
+- observed printed folios — **425–433**, with scan439 unnumbered
+- scan439 — **unnumbered full-page colour narrative illustration / no printed Tamil body / no visible folio**
+- printed sequence — **432 → unnumbered illustration → 433**
+- recurring text-page border / folio furniture — **CONSISTENT**
+- physical continuation locks — **PASS**
+- Pass3 Tamil body corrections — **0**
+- unresolved visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- multipart split boundaries — **15/15 AUDITED / COMPLETE**
+- Part016 canonical records created — **0**
+- durable progress — `PART_015_PASS3_PROGRESS.md`
+- exact next — **Part015 Pass3 Batch3 scans441–450 / local21–30**

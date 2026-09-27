@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf"
-transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans431–440; formal Part015 Pass 2A reviewed; formal Part015 Pass 2B reviewed"
+transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans431–440; formal Part015 Pass 2A reviewed; formal Part015 Pass 2B reviewed; formal Part015 Pass 3 reviewed"
 ---
 
 # தோட்டத்தில் கேட்ட ஒலி!
@@ -62,4 +62,15 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 - textual `status` remains **verified**;
 - `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 433; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 13; அச்சுப் பக்கம்: 427; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
+## Formal Part015 Pass 3 review
+
+- direct full-page visual / structural verification completed against the rendered Part015 source image;
+- page type, printed pagination, recurring border/page furniture, paragraph/dialogue block placement, displayed hierarchy and physical page-end state were checked;
+- printed folio **427**; displayed chapter70 `தோட்டத்தில் கேட்ட ஒலி!` and boxed **70** hierarchy confirmed; recurring decorative header/border furniture confirmed; chapter70 begins cleanly after scan432 chapter69 closure; page ends mid-dialogue at `நான்`.
+- Tamil body corrections in Pass 3: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** until Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 433; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 13; அச்சுப் பக்கம்: 427; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / PASS 3 VISUAL-STRUCTURAL REVIEWED / visual-needs-review -->
