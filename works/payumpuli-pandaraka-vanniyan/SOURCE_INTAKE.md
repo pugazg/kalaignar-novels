@@ -78,14 +78,18 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - split registration — **16/16 COMPLETE**
 - multipart split boundaries — **15/15 AUDITED / COMPLETE**
 - Parts001–015 — **FINAL CLOSED / FROZEN**
-- Part015 canonical Tamil / visual fidelity — **30/30 verified / frozen**
-- Part015 assembled Tamil — **sections83–87 / 5/5 VERIFIED / frozen**
-- Part015 English E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
-- Part015 final closure — **PASS / CLOSED / FROZEN**
-- Part016 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part016 source — **ACTIVE / AUTHORIZED**
 - Part016 scans — **451–477 / 27**
-- Part016 canonical records — **0**
-- exact next — **Part016 Pass1 Batch1 — scans451–460 / local1–10**
+- Pass1 Batch1 scans451–460 — **COMPLETE / TEXT-COMPLETE**
+- canonical Part016 records — **10/27**
+- Pass1 text-complete — **10/27**
+- remaining — **17**
+- observed printed folios — **444–453**
+- chapter72 `பகைவர் கையில் பனங்காமம்!` — **continues451–454 / closes454**
+- chapter73 `திறமையை வென்ற திறமை!` — **opens455 / continues**
+- scan461 canonical record — **0**
+- source endpoint — **scan477**
+- exact next — **Part016 Pass1 Batch2 — scans461–470 / local11–20**
 
 ## Part005 final state
 

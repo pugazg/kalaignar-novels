@@ -78,16 +78,18 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 ## Current processing frontier
 
 - Parts001–015 — **FINAL CLOSED / FROZEN**
-- Part015 canonical Tamil / visual fidelity — **30/30 verified / frozen**
-- Part015 assembled Tamil — **sections83–87 / 5/5 VERIFIED / frozen**
-- Part015 English E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
-- Part015 final closure — **PASS / CLOSED / FROZEN**
-- multipart split boundaries — **15/15 AUDITED / COMPLETE**
-- Part016 scans451–477 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
-- Part016 canonical records — **0**
+- Part016 source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf`
+- source SHA-256 — `82ca2020407e0996abfa2d3b29a192c56419f3f7da22a5a9d3d5dd5b8f9c3c6c`
+- Part016 scans — **451–477 / 27**
 - incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
+- Pass1 Batch1 scans451–460 / local1–10 — **COMPLETE / TEXT-COMPLETE**
+- canonical records — **10/27**
+- observed printed folios — **444–453**
+- chapter72 closes scan454 / printed447
+- chapter73 `திறமையை வென்ற திறமை!` opens scan455 / printed448 / boxed73
+- scan461 canonical record — **0**
 - complete-source endpoint — **scan477**
-- exact next — **Part016 Pass1 Batch1 — scans451–460 / local1–10**
+- exact next — **Part016 Pass1 Batch2 — scans461–470 / local11–20**
 
 ## User-supplied descriptive note
 
