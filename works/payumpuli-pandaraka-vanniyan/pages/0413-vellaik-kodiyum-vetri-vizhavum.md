@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans411–420; formal Part014 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans411–420; formal Part014 Pass 2A reviewed; formal Part014 Pass 2B reviewed"
 ---
 
 # வெள்ளைக் கொடியும்- வெற்றி விழாவும்!
@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 
 கோட்டைக்கு வெளியேயுள்ள வீரர்கள் அனைவருமே உள்ளே நுழைவது என்ற அளவுக்கு நிலைமை முற்றி விட்டபோது - கோட்டைக்குள்ளிருந்து ஒரு வெள்ளைக் கொடியைப் பிடித்தவாறு ஜெனரல் மெக்டோவல் முதலில் வெளியே வந்தான். அவனைத் தொடர்ந்து பண்டாரக வன்னியன், பாயும் புலிபோல வந்து கொண்டிருந்தான்.
 
-“வீரர்களே! ஆங்கிலேயர்களுக்கு ஓர் எச்சரிக்கையாகவும் - நமது மண்ணில் அவர்கள் ஆதிக்கத்திற்கு இடமில்லை என்னும் அறிவிப்பாகவும் - இதோ ஜெனரல் மெக்டோவலை கொழும்புக்குத் திருப்பி அனுப்ப இருக்கிறேன். தோற்றோடி ஒளிந்து கொண்ட ஒரு தளபதியை மன்னித்துக் காப்பாற்றி அனுப்பியுள்ள நமது பெருந்தன்மையை உணர்த்தியிருக்காவது, ஆங்கிலேய ஆதிபத்தியம் இந்தத் தீவை விட்டு வெளியேறும் என்று எதிர்பார்க்கிறேன். இப்போது வெள்ளைக் கொடியுடன் ஜெனரல் மெக்டோவல் வெளியேறிக் கொழும்பு போய்ச் சேர
+“வீரர்களே! ஆங்கிலேயர்களுக்கு ஓர் எச்சரிக்கையாகவும் - நமது மண்ணில் அவர்கள் ஆதிக்கத்திற்கு இடமில்லை என்னும் அறிவிப்பாகவும் - இதோ ஜெனரல் மெக்டோவலை கொழும்புக்குத் திருப்பி அனுப்ப இருக்கிறேன். தோற்றோடி ஒளிந்து கொண்ட ஒரு தளபதியை மன்னித்துக் காப்பாற்றி அனுப்பியுள்ள நமது பெருந்தன்மையை உணர்ந்தபிறகாவது, ஆங்கிலேய ஆதிபத்தியம் இந்தத் தீவை விட்டு வெளியேறும் என்று எதிர்பார்க்கிறேன். இப்போது வெள்ளைக் கொடியுடன் ஜெனரல் மெக்டோவல் வெளியேறிக் கொழும்பு போய்ச் சேர
 
 ## Pass 1 notes
 
@@ -49,4 +49,18 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 413; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 23; அச்சுப் பக்கம்: 407; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+## Formal Part014 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part014 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- source-confirmed correction: `உணர்த்தியிருக்காவது,` → **`உணர்ந்தபிறகாவது,`** — lexical / source-reading correction; supersedes the Pass2A reading;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 413; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 23; அச்சுப் பக்கம்: 407; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
