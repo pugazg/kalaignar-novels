@@ -6,11 +6,11 @@ printed_page: 405
 work: "payumpuli-pandaraka-vanniyan"
 section: "வெள்ளைக் கொடியும்- வெற்றி விழாவும்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans411–420"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans411–420; formal Part014 Pass 2A reviewed"
 ---
 
 # வெள்ளைக் கொடியும்- வெற்றி விழாவும்!
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 
 நெஞ்சில் நான் இருக்கும்போதா?” என்று தனது உயர்ந்த தோள்களைக் குலுக்கிக்கொண்டு கேட்டவாறு, பண்டாரகன் தன்னந்தனியனாக அந்தக் கோட்டைக்குள் நுழைந்தான்.
 
-குகை போன்ற நுழைவாயிலைக் கடந்து, அவன் கோட்டையின் உட்பகுதிக்குச் சென்றபோது - துப்பாக்கிகளை நீட்டியவாறு நான்குதிசைகளிலும் ஆங்கிலேய வீரர்கள், அவன் நெஞ்சுக்குக் குறி பார்த்துக் கொண்டே நெருங்கி வந்தனர். பாதுகாப்புக்குக் கூட யாருமின்றி, கோட்டைக்குள் வந்துவிட்ட பண்டாரகனுக்கு ஒரு துளி கலக்கமும் ஏற்படவில்லை. புன்னகை மாறாமல் அவர்களுக்கு நடுவில் நின்றான். அப்போது ஒரு கைத்துப்பாக்கியை நீட்டிக் குறி பார்த்தவாறு ஜெனரல் மெக்டோவல் ஆத்திரம் கொப்பளிக்க பண்டாரகனின் முன்னால் பாய்ந்து வந்தான்.
+குகை போன்ற நுழைவாயிலைக் கடந்து, அவன் கோட்டையின் உட்பகுதிக்குச் சென்றபோது - துப்பாக்கிகளை நீட்டியவாறு நான்கு திசைகளிலும் ஆங்கிலேய வீரர்கள், அவன் நெஞ்சுக்குக் குறி பார்த்துக் கொண்டே நெருங்கி வந்தனர். பாதுகாப்புக்குக் கூட யாருமின்றி, கோட்டைக்குள் வந்துவிட்ட பண்டாரகனுக்கு ஒரு துளி கலக்கமும் ஏற்படவில்லை. புன்னகை மாறாமல் அவர்களுக்கு நடுவில் நின்றான். அப்போது ஒரு கைத்துப்பாக்கியை நீட்டிக் குறி பார்த்தவாறு ஜெனரல் மெக்டோவல் ஆத்திரம் கொப்பளிக்க பண்டாரகனின் முன்னால் பாய்ந்து வந்தான்.
 
 “சிங்கத்தின் குகைக்குள்ளேயே வந்து சிக்கிக் கொண்டாய்!” என்று கூறி இறுமாப்புடன் சிரித்த அந்த வெள்ளைக்கார ஜெனரலை, பண்டாரகன் வெறுப்புடன் கூடப் பார்க்கவில்லை. மாறாக, அந்த வீர வன்னியன் - கலகலவெனச் சிரித்தான்.
 
@@ -41,4 +41,16 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 411; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: 405; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+
+## Formal Part014 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part014 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `நான்குதிசைகளிலும்` → **`நான்கு திசைகளிலும்`** — source spacing / word-boundary correction;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 411; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: 405; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
