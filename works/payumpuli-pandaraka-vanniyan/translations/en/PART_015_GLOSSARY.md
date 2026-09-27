@@ -69,3 +69,13 @@ Do not silently replace source-visible names, titles, places, offices, ethnonyms
 - unresolved planning holds — **0**
 
 Exact next gate: **E80 draft + source-check — section83 / scans421–426**.
+
+## E80 source-check decisions
+
+- `பிராயச்சித்தம்` → **atonement** — fixed for chapter68 / E80 title and closing line context
+- `ஸ்த்ரீஹத்தி` → source-facing **‘stree-hatthi’** — retained without outside standardization
+- inherited forms **Pilimathalavai, Vikrama Raja Singan, Kuruvichchi Naachchiyar, Marthani, Kandy, Mullaitheevu** — **CONFIRMED**
+- external-source normalization introduced in E80 — **0**
+- unresolved E80 glossary holds — **0**
+
+Exact next glossary gate: carry these fixed forms into **E81**, while leaving E81-specific wording source-check controlled.

@@ -19,8 +19,8 @@
 
 | Batch | Tamil section | Scans | Planned English section | State |
 |---|---:|---:|---:|---|
-| E80 | 83 | 421–426 | 83 | **NOT STARTED / NEXT** |
-| E81 | 84 | 427–432 | 84 | **BLOCKED BEHIND E80** |
+| E80 | 83 | 421–426 | 83 | **SOURCE-CHECKED / COMPLETE** |
+| E81 | 84 | 427–432 | 84 | **NOT STARTED / NEXT** |
 | E82 | 85 | 433–437 | 85 | **BLOCKED BEHIND E81** |
 | E83 | 86 | 438–446 | 86 | **BLOCKED BEHIND E82** |
 | E84 | 87 | 447–450 | 87 | **BLOCKED BEHIND E83** |
@@ -49,6 +49,18 @@
 
 ## Exact next gate
 
-**E80 draft + source-check — section83 / scans421–426**.
+**E81 draft + source-check — section84 / scans427–432**.
 
-Do not begin E81 until E80 is **SOURCE-CHECKED / COMPLETE**. Do not begin Part016 Pass1.
+E80 is **SOURCE-CHECKED / COMPLETE**. Do not begin E82 until E81 is **SOURCE-CHECKED / COMPLETE**. Do not begin Part016 Pass1.
+
+## E80 completion checkpoint
+
+- E80 — **SOURCE-CHECKED / COMPLETE**
+- maintained English section83 — **CREATED / SOURCE-CHECKED**
+- scans421–426 — **COMPLETE**
+- literary blocks — **41/41**
+- boundary markers — **5/5**
+- English source-check refinements — **1**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved holds — **0**
+- exact next — **E81 / section84 / scans427–432**

@@ -93,3 +93,22 @@ Part015-specific or not-yet-fixed forms are controlled in `PART_015_GLOSSARY.md`
 Begin **E80 draft + source-check — section83 / scans421–426**.
 
 Do not begin E81 until E80 is **SOURCE-CHECKED / COMPLETE**. Do not begin Part016 Pass1.
+
+## E80 source-check checkpoint
+
+**E80 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil source — section83 / scans421–426
+- maintained English — `sections/83-a-womans-atonement.md`
+- title — **A Woman’s Atonement!**
+- literary blocks — **41/41 represented**
+- source-boundary markers — **5/5 / PASS**
+- English source-check refinements — **1**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–014 English body edits — **0**
+- Part016 leakage — **0**
+- unresolved E80 holds — **0**
+- exact next — **E81 draft + source-check — section84 / scans427–432**
+
+Do not begin E82 until E81 is **SOURCE-CHECKED / COMPLETE**.
