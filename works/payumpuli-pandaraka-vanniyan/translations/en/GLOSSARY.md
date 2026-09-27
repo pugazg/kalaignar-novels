@@ -524,3 +524,23 @@ Do not begin E53 until E52 is **SOURCE-CHECKED / COMPLETE**.
 - durable final closure — `../../PART_013_FINAL_CLOSURE.md`
 - English frontier — **E74 CLOSED**
 - next active work — **Part014 Tamil Pass1, not English**
+
+## Part014 English planning/setup checkpoint
+
+**PART014 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS.**
+
+- prior source-check frontier — **E74**
+- source-check controls — **E1–E74 contiguous / 74**
+- missing controls inside E1–E74 — **0**
+- reserved Part014 batches — **E75–E79 / 5**
+- prior maintained English section frontier — **77**
+- reserved maintained English sections — **78–82 / 5**
+- collisions in 78–82 — **0**
+- Part014 English translated / source-checked — **0/5 / 0/5**
+- maintained forms from frozen Part013 carried forward where referents recur
+- Part014-only `மகாவில்லா கங்கா`, `வட்டபேலிகா`, `மேட்ஜ் / மேட்ஜின்`, `கண்ணுசாமி` — **source-check controlled**
+- English literary prose drafted in setup — **0**
+- Tamil body/assembly changes caused by setup — **0 / 0**
+- frozen Parts001–013 English body changes — **0**
+- Part015 leakage — **0**
+- exact next — **E75 draft + source-check — section78 / scans391–395**
