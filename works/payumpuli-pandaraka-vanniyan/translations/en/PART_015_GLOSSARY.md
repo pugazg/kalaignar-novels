@@ -79,3 +79,16 @@ Exact next gate: **E80 draft + source-check — section83 / scans421–426**.
 - unresolved E80 glossary holds — **0**
 
 Exact next glossary gate: carry these fixed forms into **E81**, while leaving E81-specific wording source-check controlled.
+
+## E81 source-check decisions
+
+- `ஊமைச்சி நாச்சி / ஊமைச்சி நாச்சியார்` → **Oomaichchi Naachchi / Oomaichchi Naachchiyar** — fixed source-facing Part015 form
+- `பனங்காமம்` → **Panangamam** — fixed source-facing Part015 form; no outside place-name normalization
+- `ஈழம்` → **Eelam** — source-facing; retain source distinction from `இலங்கை` / **Lanka**
+- `நந்தன்` → **Nandan** — source-facing; no imported explanatory gloss
+- inherited **Lord North, Kolumbu, Kandy, Mullaitheevu, Vikrama Raja Singan, Kuruvichchi Naachchiyar** — **CONFIRMED**
+- chapter69 title `மனத்தை மாற்றிய மடல்!` → **The Letter That Changed the Mind!** — **CONFIRMED**
+- external-source normalization introduced in E81 — **0**
+- unresolved E81 glossary holds — **0**
+
+Exact next glossary gate: carry these fixed forms into **E82**, with E82-specific wording still source-check controlled.

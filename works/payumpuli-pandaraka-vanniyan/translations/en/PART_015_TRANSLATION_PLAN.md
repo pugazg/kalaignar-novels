@@ -112,3 +112,22 @@ Do not begin E81 until E80 is **SOURCE-CHECKED / COMPLETE**. Do not begin Part01
 - exact next — **E81 draft + source-check — section84 / scans427–432**
 
 Do not begin E82 until E81 is **SOURCE-CHECKED / COMPLETE**.
+
+## E81 source-check checkpoint
+
+**E81 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil source — section84 / scans427–432
+- maintained English — `sections/84-the-letter-that-changed-the-mind.md`
+- title — **The Letter That Changed the Mind!**
+- literary blocks — **37/37 represented**
+- source-boundary markers — **5/5 / PASS**
+- English source-check refinements — **0**
+- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–014 English body edits — **0**
+- E82 / Part016 leakage — **0 / 0**
+- unresolved E81 holds — **0**
+- exact next — **E82 draft + source-check — section85 / scans433–437**
+
+Do not begin E83 until E82 is **SOURCE-CHECKED / COMPLETE**.
