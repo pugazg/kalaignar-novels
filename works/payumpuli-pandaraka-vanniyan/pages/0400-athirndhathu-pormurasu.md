@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans391–400; formal Part014 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans391–400; formal Part014 Pass 2A reviewed; formal Part014 Pass 2B reviewed"
 ---
 
 # அதிர்ந்தது போர்முரசு!
@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 
 பிலிமதளாவையின் பேரானந்தம் பல கடல்களின் சங்கமமாயிற்று! கத்தியின்றி, ரத்தமின்றிக் கண்டி ராஜ்யத்தின் மன்னராகிறார் என்றால், அது சாதாரண விஷயமா? மன்னனைத் தட்டிக் கொடுத்து விட்டு அறையிலிருந்து வெளிக் கிளம்பினார்.
 
-பியசீலி, கொடுமையாகக் கொல்லப்பட்டதும் நல்லதாகத்தான் போயிற்று! இல்லையேல் அவருக்கு ஆங்கிலேயர் மீது ஆத்திரம் வந்திருக்காது! ஆங்கிலேயர் படையெடுக்கிற அளவுக்கு நிலைமை ஏற்பட்டிருக்காது! எதிர்பாராமல் எல்லாம் நடந்த காரணத்தினால்தான் அடிமை நாடாகக் கண்டி ராஜ்யம் ஆனாலும் கூட அதன் மன்னனாக பிலிமதளாவை பொறுப்பேற்கும் வாய்ப்பு வந்து கொண்டிருக்கிறது! இந்தப் பூரிப்புடன் பிலிமதளாவை சென்றவுடன் அறையின் கதவோரம் நின்றிருந்த பண்டாரக வன்னியன் கதவைச் சாத்தித் தாழிட்டு விட்டு விக்கிரம ராஜ சிங்கனிடம் சிரித்துக் கொண்டே வந்தான் தாடியைத் தடவியவாறு!
+பியசீலி, கொடுமையாகக் கொல்லப்பட்டதும் நல்லதாகத் தான் போயிற்று! இல்லையேல் அவருக்கு ஆங்கிலேயர் மீது ஆத்திரம் வந்திருக்காது! ஆங்கிலேயர் படையெடுக்கிற அளவுக்கு நிலைமை ஏற்பட்டிருக்காது! எதிர்பாராமல் எல்லாம் நடந்த காரணத்தினால்தான் அடிமை நாடாகக் கண்டி ராஜ்யம் ஆனாலும் கூட அதன் மன்னனாக பிலிமதளாவை பொறுப்பேற்கும் வாய்ப்பு வந்து கொண்டிருக்கிறது! இந்தப் பூரிப்புடன் பிலிமதளாவை சென்றவுடன் அறையின் கதவோரம் நின்றிருந்த பண்டாரக வன்னியன் கதவைச் சாத்தித் தாழிட்டு விட்டு விக்கிரம ராஜ சிங்கனிடம் சிரித்துக் கொண்டே வந்தான் தாடியைத் தடவியவாறு!
 
 “என்ன, நீ சொன்னபடி எல்லாம் சொல்லிவிட்டேனா? சரியாக இருந்ததா?”
 
@@ -51,4 +51,18 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 400; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 10; அச்சுப் பக்கம்: 393; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+## Formal Part014 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part014 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- source-confirmed correction: `நல்லதாகத்தான்` → **`நல்லதாகத் தான்`** — source spacing / word-boundary correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 400; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 10; அச்சுப் பக்கம்: 393; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
