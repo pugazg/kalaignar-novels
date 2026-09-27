@@ -81,13 +81,10 @@ No reform-sensitive occurrence in scans421–430 required a canonical Unicode co
 
 **PASS — scans421–430 independently reviewed.**
 
-- reviewed — **20/30**
-- remaining — **10/30**
-- Batch1 additional corrections — **5**
-- Batch2 additional corrections — **4**
-- cumulative Pass2B additional corrections — **9**
-- Batch1 correction scans — **421, 422, 428**
-- Batch2 correction scans — **432, 435, 440**
+- reviewed — **10/30**
+- remaining — **20/30**
+- additional source-supported corrections — **5**
+- correction scans — **421, 422, 428**
 - historical-glyph corrections — **0**
 - unresolved questions — **0**
 - textual status — **30/30 verified**
