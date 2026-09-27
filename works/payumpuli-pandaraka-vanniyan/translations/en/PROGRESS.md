@@ -704,3 +704,21 @@ Exact next activity: directly audit **300→301**; if usable, begin **Part011 Pa
 - omissions / duplicates / unsupported insertion — **0 / 0 / 0**
 - E82 / Part016 leakage — **0 / 0**
 - exact next — **E82 draft + source-check — section85 / scans433–437**
+
+## Part015 final closure checkpoint
+
+**PART015 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–015 — **FINAL CLOSED / FROZEN**
+- Part015 E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- maintained English sections83–87 — **5/5**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- source-boundary marker parity — **25/25 / PASS**
+- scan439 / scan448 invented English body — **0 / 0**
+- Part016 body leakage — **0**
+- Part016 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part016 Pass1 Batch1 scans451–460 / local1–10**
