@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans411–420; formal Part014 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans411–420; formal Part014 Pass 2A reviewed; formal Part014 Pass 2B reviewed"
 ---
 
 # இரத்தம் படிந்த வாள்!
@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 
 பிலிமதளாவை, வெளுத்துப் போன முகத்துடன், மார்த்தனியின் உதடுகள் உதிர்க்கும் பதில் என்ன என்று ஆவலுடன் கவனித்தார்.
 
-“நான் ஒரு சிங்களவப் பெண் -நீங்களோ அனுபவச் சுரங்கம்! அனைவரும் பாராட்டுகிற தலைசிறந்த நிர்வாகி - தங்கள் மகள் பியசீலியிடம் நான் கொண்டிருந்த நட்பின் காரணமாக, அவள் தவறுகளுக்கெல்லாம் துணை போனேன்! துணை போனது மட்டுமல்ல அந்தத் தவறுக்கும் தவறான பல தவறுகளைச் செய்து அவற்றுக்காக இப்போது வருந்துகிறேன். பண்டாரக வன்னியரின் முல்லைத் தீவுக்குப் பியசீலியுடன் போனபோது தமிழர்கள் என்றாலே ஒரு வெறுப்போடு தான் போனேன். ஆனால் பண்டாரக வன்னியன், குருவிச்சி நாச்சியார், மற்றும் அங்கிருந்த தமிழ் மக்களிடம் நெருங்கிப் பார்த்த போதுதான், அவர்கள் பண்பாடு மிக்கவர்களாகவும், இந்த இலங்கைத் தீவில் ஆங்கிலேயர்களான அந்நியர்களின் ஆதிக்கம் அறவே இருக்கக்கூடாது என்று உறுதி படைத்தவர்களாகவும் இருப்பதை
+“நான் ஒரு சிங்களவப் பெண்-நீங்களோ அனுபவச் சுரங்கம்! அனைவரும் பாராட்டுகிற தலைசிறந்த நிர்வாகி - தங்கள் மகள் பியசீலியிடம் நான் கொண்டிருந்த நட்பின் காரணமாக, அவள் தவறுகளுக்கெல்லாம் துணை போனேன்! துணை போனது மட்டுமல்ல அந்தத் தவறுக்கும் தவறான பல தவறுகளைச் செய்து அவற்றுக்காக இப்போது வருந்துகிறேன். பண்டாரக வன்னியரின் முல்லைத் தீவுக்குப் பியசீலியுடன் போனபோது தமிழர்கள் என்றாலே ஒரு வெறுப்போடு தான் போனேன். ஆனால் பண்டாரக வன்னியன், குருவிச்சி நாச்சியார், மற்றும் அங்கிருந்த தமிழ் மக்களிடம் நெருங்கிப் பார்த்த போதுதான், அவர்கள் பண்பாடு மிக்கவர்களாகவும், இந்த இலங்கைத் தீவில் ஆங்கிலேயர்களான அந்நியர்களின் ஆதிக்கம் அறவே இருக்கக்கூடாது என்று உறுதி படைத்தவர்களாகவும் இருப்பதை
 
 ## Pass 1 notes
 
@@ -45,4 +45,18 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 415; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 409; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+## Formal Part014 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part014 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- source-confirmed correction: `பெண் -நீங்களோ` → **`பெண்-நீங்களோ`** — source punctuation / spacing correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 415; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 409; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
