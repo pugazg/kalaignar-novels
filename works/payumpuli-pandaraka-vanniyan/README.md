@@ -2512,3 +2512,24 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Part015 canonical records created — **0**
 - durable progress — `PART_014_PASS3_PROGRESS.md`
 - exact next — **Part014 Pass3 Batch2 scans401–410 / local11–20 / observed printed394–404**
+
+## Part014 audited Tamil status checkpoint
+
+**PART014 PART AUDIT — PASS / COMPLETE. FINAL METADATA / STATUS SYNC — PASS / CLOSED.**
+
+- canonical records — **30/30**
+- Pass1 — **30/30 COMPLETE**
+- Pass2A — **30/30 PASS — 22 corrections**
+- Pass2B — **30/30 PASS — 13 additional corrections**
+- Pass3 — **30/30 PASS — 0 textual corrections**
+- Part audit — **PASS / COMPLETE**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- scan403 — **one physical two-folio spread / printed396–397**
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- unresolved Tamil / lexical / glyph / visual / structural issues — **0**
+- Parts001–013 — **FINAL CLOSED / FROZEN**
+- Part015 canonical records created — **0**
+- section-order range reserved for Part014 assembly — **78–82**, collision check **0**
+- exact next — **Part014 Tamil archival-ready checkpoint, then assembled Tamil construction + audit**
