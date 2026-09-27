@@ -21,8 +21,8 @@
 |---|---:|---:|---:|---|
 | E80 | 83 | 421–426 | 83 | **SOURCE-CHECKED / COMPLETE** |
 | E81 | 84 | 427–432 | 84 | **SOURCE-CHECKED / COMPLETE** |
-| E82 | 85 | 433–437 | 85 | **NOT STARTED / NEXT** |
-| E83 | 86 | 438–446 | 86 | **BLOCKED BEHIND E82** |
+| E82 | 85 | 433–437 | 85 | **SOURCE-CHECKED / COMPLETE** |
+| E83 | 86 | 438–446 | 86 | **NOT STARTED / NEXT** |
 | E84 | 87 | 447–450 | 87 | **BLOCKED BEHIND E83** |
 
 ## Authority / integrity
@@ -49,9 +49,9 @@
 
 ## Exact next gate
 
-**E82 draft + source-check — section85 / scans433–437**.
+**E83 draft + source-check — section86 / scans438–446**.
 
-E80–E81 are **SOURCE-CHECKED / COMPLETE**. Do not begin E83 until E82 is **SOURCE-CHECKED / COMPLETE**. Do not begin Part016 Pass1.
+E80–E82 are **SOURCE-CHECKED / COMPLETE**. Do not begin E84 until E83 is **SOURCE-CHECKED / COMPLETE**. Do not begin Part016 Pass1.
 
 ## E80 completion checkpoint
 
@@ -76,3 +76,14 @@ E80–E81 are **SOURCE-CHECKED / COMPLETE**. Do not begin E83 until E82 is **SOU
 - omissions / duplicates / unsupported insertion — **0 / 0 / 0**
 - unresolved holds — **0**
 - exact next — **E82 / section85 / scans433–437**
+
+## E82 completion checkpoint
+
+- E82 — **SOURCE-CHECKED / COMPLETE**
+- maintained English section85 — **CREATED / SOURCE-CHECKED**
+- scans433–437 — **COMPLETE**
+- literary blocks — **46/46**
+- boundary markers — **4/4**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved holds — **0**
+- exact next — **E83 / section86 / scans438–446**

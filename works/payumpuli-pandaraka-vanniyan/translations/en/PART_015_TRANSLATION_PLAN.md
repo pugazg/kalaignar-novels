@@ -131,3 +131,15 @@ Do not begin E82 until E81 is **SOURCE-CHECKED / COMPLETE**.
 - exact next — **E82 draft + source-check — section85 / scans433–437**
 
 Do not begin E83 until E82 is **SOURCE-CHECKED / COMPLETE**.
+
+## E82 source-check checkpoint
+
+**E82 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil source — section85 / scans433–437
+- maintained English — `sections/85-the-sound-heard-in-the-garden.md`
+- literary blocks — **46/46**
+- source-boundary markers — **4/4 / PASS**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved E82 holds — **0**
+- exact next — **E83 draft + source-check — section86 / scans438–446**

@@ -92,3 +92,11 @@ Exact next glossary gate: carry these fixed forms into **E81**, while leaving E8
 - unresolved E81 glossary holds — **0**
 
 Exact next glossary gate: carry these fixed forms into **E82**, with E82-specific wording still source-check controlled.
+
+## E82 source-check decisions
+
+- `தாலி` → **thaali** — source-facing maintained handling
+- chapter70 `தோட்டத்தில் கேட்ட ஒலி!` → **The Sound Heard in the Garden!** — **CONFIRMED**
+- `தமிழகம்` → **Tamilakam**; `தமிழ்நாடு` → **Tamil Nadu** — source occurrence distinction preserved
+- external-source normalization introduced in E82 — **0**
+- unresolved E82 glossary holds — **0**
