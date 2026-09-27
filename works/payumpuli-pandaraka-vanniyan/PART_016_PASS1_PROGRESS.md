@@ -2,12 +2,14 @@
 
 ## Gate
 
-**PASS 1 — ACTIVE — 20/27 TEXT-COMPLETE**
+**PASS 1 — COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 
 Active Part:
 - Part016
 - overall scans **451–477**
 - local pages **1–27**
+- observed printed folios — **444–467**
+- unnumbered end-matter scans — **475–477**
 - controlling source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf`
 - source SHA-256 — `82ca2020407e0996abfa2d3b29a192c56419f3f7da22a5a9d3d5dd5b8f9c3c6c`
 
@@ -24,17 +26,18 @@ Parts001–015 remain **FINAL CLOSED / FROZEN**.
 ## Current accounting
 
 - Part016 physical scans — **27**
-- canonical Part016 records present — **20/27 — scans451–470**
-- Pass1 text-complete — **20/27**
-- Pass1 pending — **7**
-- observed printed folios — **444–463**
+- canonical Part016 records present — **27/27 — scans451–477**
+- Pass1 text-complete — **27/27**
+- Pass1 pending — **0**
+- observed printed folios — **444–467**
+- unnumbered end-matter scans — **475–477**
 - unresolved Pass1 source-reading holds — **0**
 - incoming **450→451 — CLEAN / AUDITED / PASS**
-- outgoing split boundary — **none / source endpoint scan477**
-- current 20 canonical records:
-  - `status: "needs-review"`
-  - `visual_fidelity: "needs-review"`
-- scan471 body imported — **0**
+- outgoing split boundary — **none / physical source endpoint scan477**
+- textual status — **27/27 needs-review**
+- visual fidelity — **27/27 needs-review**
+- Pass2A — **NOT STARTED / UNBLOCKED**
+- Parts001–015 body mutations — **0**
 
 ## Batch1 decision — scans451–460
 
@@ -122,8 +125,59 @@ Batch2 introduced:
 - frozen Parts001–015 canonical / assembled / maintained-English body changes — **0**
 - scan471+ canonical records — **0**
 
+## Batch3 decision — scans471–477
+
+**COMPLETE / TEXT-COMPLETE — 7 scans**
+
+Rendered source pixels were the sole textual / structural authority.
+
+Direct recheck corrections before Batch3 closure:
+- **0**
+
+## Batch3 source structure
+
+### Chapter75 — `வாழும் வரலாறு!`
+
+- scan471 / printed464 — resumes scan470 physical split **`பண்டாரக` + `வன்னியன்.`**; ends mid-dialogue at **`வாளையும் ஈட்டியையும்`**
+- scan472 / printed465 — resumes **`வைத்துக் கொண்டே`**; ends at **`பண்டாரக வன்னியனின்`**
+- scan473 / printed466 — resumes **`கட்டுக்கள் களையப்பட்டன.`**; chapter75 and story body close with source-visible **`(முற்றும்)`**
+
+### Post-story / end matter
+
+- scan474 / printed467 — author note **`குறிப்பு:-`**, signed **`மு. க.`**; substantial intentional blank lower field
+- scan475 — unnumbered photographic end matter headed **`கண்டி விக்கிரம ராஜ சிங்கனின் நினைவு முத்து மண்டபம்`**
+- scan476 — unnumbered full-page colour narrative battle illustration; **no printed textual body**
+- scan477 — unnumbered back-cover portrait / **ROCK FORT Publications (p) Ltd. / MADRAS - 600023** publisher device
+- scan477 is the **physical endpoint of the complete 477-scan source family**
+- continuation beyond scan477 — **none / not applicable**
+
+## Batch3 source-visible review candidates
+
+- scan471 — `கோதிவிட்டவாறு`, `ஆர்ப்பாட்டம்`, `இலங்கை மண்ணையும் தமிழ் ஈழத்தையும்`, `மெளனம்`
+- scan472 — source-visible `வாட்கள்`, `வையம் புகழக்கூடிய`, `ஏமாற்றம் தான்`
+- scan473 — source punctuation **`பண்டாரகன். பாயும் புலியாகவே`**, `மரண மூச்சு`, `மணக்கோலம்`, `வீரமறவர்களின்`, source ending **`(முற்றும்)`**
+- scan474 — heading **`குறிப்பு:-`**, quoted **`“முகப்புரை”`**, signature **`மு. க.`**
+- scan475 — title spacing **`விக்கிரம ராஜ சிங்கன்`** versus caption form **`விக்கிரம ராஜசிங்கன்`**, date **`1-7-90`**
+- scan476 — illustration-only page, no body
+- scan477 — publisher-device typography / endpoint classification
+
+## Pass1 closure decision
+
+**PASS 1 — COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+
+- canonical records — **27/27**
+- textual body / visible end-matter capture — **complete**
+- printed folios observed — **444–467**
+- unnumbered scans — **475–477**
+- unresolved Pass1 holds — **0**
+- source endpoint — **scan477 / COMPLETE**
+- outside continuation invented — **0**
+- Pass2A — **UNBLOCKED**
+
 ## Exact next activity
 
-Proceed with **Part016 Pass1 Batch3 — global scans471–477 / local pages21–27**.
+Proceed with **Part016 Pass2A Batch1 — global scans451–460 / local pages1–10**.
 
-Process exactly the remaining **7 physical source pages** from rendered source pixels. This is the physical endpoint batch; do not invent continuation beyond scan477.
+Re-compare exactly **10 physical source scans** against the rendered source pixels for spelling, punctuation, source-specific spacing/word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state. Preserve source-visible irregular forms without modernization.
+
+Do not begin scan461 or later in the same Pass2A iteration.
