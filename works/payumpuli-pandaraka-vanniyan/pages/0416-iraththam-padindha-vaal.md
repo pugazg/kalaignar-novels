@@ -10,14 +10,14 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans411–420; formal Part014 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans411–420; formal Part014 Pass 2A reviewed; formal Part014 Pass 2B reviewed"
 ---
 
 # இரத்தம் படிந்த வாள்!
 
 ## Source transcription
 
-உணர்ந்து கொள்ள முடிந்தது. கண்டி ராஜ்யத்தை வெள்ளையர்கள் வளைத்து விடக் கூடாது என்பதில் எவ்வளவு அக்கறை இருந்தால், பண்டாரக வன்னியர் தனது படைகள் முழுவதையும் முல்லைத் தீவிலிருந்து இங்கே அழைத்து வந்திருப்பார் என்பதை நினைத்துப் பார்க்க வேண்டும். அதனால் அவருக்கோ அவரது இதய நாயகியாக இருக்கின்ற குருவிச்சி நாச்சியாருக்கோ இம்மியளவு தீங்கு நினைக்கவும் இனிமேல் என் மனம் ஒப்பாது!”
+உணர்ந்து கொள்ள முடிந்தது. கண்டி ராஜ்யத்தை வெள்ளையர்கள் வளைத்து விடக் கூடாது என்பதில் எவ்வளவு அக்கறை இருந்தால், பண்டாரக வன்னியர் தனது படைகள் முழுவதையும் முல்லைத் தீவிலிருந்து இங்கே அழைத்து வந்திருப்பார் என்பதை நினைத்துப்பார்க்கவேண்டும். அதனால் அவருக்கோ அவரது இதய நாயகியாக இருக்கின்ற குருவிச்சி நாச்சியாருக்கோ இம்மியளவு தீங்கு நினைக்கவும் இனிமேல் என் மனம் ஒப்பாது!”
 
 பிலிமதளாவையின் ஆந்தைக் கண்கள் விகாரமாக விரிந்தன! அந்தப் பார்வையில் ஒரு பெரும் ஏமாற்றம் பொங்கி வழிந்தது!
 
@@ -50,4 +50,18 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 416; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 26; அச்சுப் பக்கம்: 410; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+## Formal Part014 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part014 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- source-confirmed correction: `நினைத்துப் பார்க்க வேண்டும்.` → **`நினைத்துப்பார்க்கவேண்டும்.`** — source compound / join correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 416; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 26; அச்சுப் பக்கம்: 410; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
