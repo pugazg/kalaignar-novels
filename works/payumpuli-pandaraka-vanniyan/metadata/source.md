@@ -82,17 +82,19 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 - source SHA-256 — `82ca2020407e0996abfa2d3b29a192c56419f3f7da22a5a9d3d5dd5b8f9c3c6c`
 - Part016 scans — **451–477 / 27**
 - incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
-- Pass1 Batch1 scans451–460 — **COMPLETE / TEXT-COMPLETE**
-- Pass1 Batch2 scans461–470 — **COMPLETE / TEXT-COMPLETE**
-- canonical records — **20/27**
-- observed printed folios — **444–463**
-- chapter72 closes454
-- chapter73 `திறமையை வென்ற திறமை!` opens455 / closes460
-- chapter74 `காக்கையும் குருவியும்!` opens461 / closes466
-- chapter75 `வாழும் வரலாறு!` opens467 / continues through470
-- scan471 canonical record — **0**
-- complete-source endpoint — **scan477**
-- exact next — **Part016 Pass1 Batch3 — scans471–477 / local21–27**
+- canonical records — **27/27**
+- Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- printed folios — **444–467**
+- unnumbered end matter — **475–477**
+- story body closes scan473 with **`(முற்றும்)`**
+- scan474 — **author note**
+- scan475 — **memorial photograph/caption**
+- scan476 — **illustration-only**
+- scan477 — **back-cover / publisher-device / complete-source endpoint**
+- textual status — **27/27 needs-review**
+- visual fidelity — **27/27 needs-review**
+- Pass2A — **NOT STARTED / UNBLOCKED**
+- exact next — **Part016 Pass2A Batch1 — scans451–460 / local1–10**
 
 ## User-supplied descriptive note
 
