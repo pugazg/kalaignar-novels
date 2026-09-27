@@ -188,3 +188,17 @@ Do not begin whole-Part bilingual review, release/readiness, final Part closure 
 - durable final closure — `../../PART_013_FINAL_CLOSURE.md`
 - English frontier — **E74 CLOSED**
 - next active work — **Part014 Tamil Pass1, not English**
+
+## Part015 final closure checkpoint
+
+**PART015 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- Part015 glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved Part015 English/release blockers — **0**
+- Part016 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part016 Pass1 Batch1 scans451–460 / local1–10**

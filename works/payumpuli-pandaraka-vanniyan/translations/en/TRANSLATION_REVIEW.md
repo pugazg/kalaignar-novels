@@ -134,3 +134,17 @@ Part002 was not transcribed, translated or imported. Its first page remains usab
 **whole-Part bilingual review**
 
 Do not begin release/readiness, final Part closure or Part002 transcription before that gate closes. This editorial-review iteration stops here; the bilingual review is not begun in this record.
+
+## Part015 final closure checkpoint
+
+**PART015 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- Part015 glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved Part015 English/release blockers — **0**
+- Part016 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part016 Pass1 Batch1 scans451–460 / local1–10**
