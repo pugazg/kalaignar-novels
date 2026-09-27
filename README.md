@@ -8,23 +8,20 @@
 - source family: **TVA_BOK_0065744**
 - Parts001–014 — **FINAL CLOSED / FROZEN**
 - Part015 canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
-- Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
 - English planning/setup — **COMPLETE / PASS**
-- prior source-check frontier — **E79**
-- E1–E79 source-check controls — **contiguous / 79 / missing 0**
 - reserved Part015 batches — **E80–E84 / 5**
-- prior maintained English section frontier — **82**
-- maintained English sections00–82 — **contiguous / 83 / missing 0**
-- reserved maintained English sections — **83–87 / 5**
-- batch / section collisions — **0 / 0**
-- English literary prose drafted during setup — **0**
-- E80–E84 source-check records created during setup — **0**
+- E80 / section83 / scans421–426 — **SOURCE-CHECKED / COMPLETE**
+- maintained English section83 — **CREATED / SOURCE-CHECKED**
+- E80 literary blocks / boundary markers — **41/41 / 5/5 PASS**
+- E80 English source-check refinements — **1**
+- E80 omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- E81–E84 — **NOT STARTED**
 - incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
 - scan439 / scan448 — **illustration-only / no English body**
 - Part016 — **SUPPLIED / REGISTERED / WAITING; 0 canonical records; Pass1 BLOCKED**
-- exact next — **E80 draft + source-check — section83 / scans421–426**
+- exact next — **E81 draft + source-check — section84 / scans427–432**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 
