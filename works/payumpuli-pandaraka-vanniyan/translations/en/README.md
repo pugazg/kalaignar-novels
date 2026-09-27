@@ -1704,3 +1704,17 @@ Exact next activity: directly audit **300→301**; if usable, begin **Part011 Pa
 - frozen Parts001–014 English body edits — **0**
 - Part016 leakage — **0**
 - exact next — **E81 draft + source-check — section84 / scans427–432**
+
+## Part015 E81 source-check checkpoint
+
+**E81 — SOURCE-CHECKED / COMPLETE.**
+
+- maintained English — `sections/84-the-letter-that-changed-the-mind.md`
+- source-check — `E81_SOURCE_CHECK.md`
+- scans427–432 — **COMPLETE**
+- literary blocks — **37/37**
+- source-boundary markers — **5/5 / PASS**
+- English source-check refinements — **0**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- E82 / Part016 leakage — **0 / 0**
+- exact next — **E82 draft + source-check — section85 / scans433–437**
