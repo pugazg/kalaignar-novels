@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**ACTIVE — canonical Tamil and visual verification are CLOSED; Tamil archival-ready is CLOSED; assembled Tamil is PASS / VERIFIED / CLOSED at 5/5; English planning/setup is NEXT.**
+**ACTIVE — canonical Tamil and visual verification are CLOSED; assembled Tamil is PASS / VERIFIED / CLOSED at 5/5; English planning/setup is COMPLETE / PASS; E80 is NEXT.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **421–450**;
@@ -42,28 +42,23 @@ The canonical `scan_page` remains the overall scan number **421–450**.
 
 ## Current gate
 
-Part 015 is **ACTIVE / ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT**.
+Part 015 is **ACTIVE / ENGLISH PLANNING COMPLETE / E80 NEXT**.
 
-- source split — **SUPPLIED / REGISTERED**
-- overall scans — **421–450 / 30**
 - canonical records — **30/30 verified**
 - visual fidelity — **30/30 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil construction — **5/5 COMPLETE — sections83–87**
-- assembled Tamil validation/audit — **PASS / CLOSED**
-- assembled Tamil master — **5/5 VERIFIED**
+- assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
+- English planning/setup — **COMPLETE / PASS**
+- prior English frontier — **E79**
+- reserved Part015 batches — **E80–E84 / 5**
+- reserved maintained English sections — **83–87 / 5**
+- batch / section collisions — **0 / 0**
+- English literary prose drafted in setup — **0**
 - incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
-- multipart split boundaries — **15/15 AUDITED / COMPLETE**
 - Part016 canonical records — **0**
-- Part016 Pass1 — **NOT STARTED / BLOCKED**
-- exact next — **Part015 English translation planning/setup**
-
-Planning/setup must perform live English batch-number/source-check and maintained-English section collision checks before reserving any Part015 English sequence. Do not draft English prose in that setup gate.
+- Part016 Pass1 — **BLOCKED**
+- exact next — **E80 draft + source-check — section83 / scans421–426**
 
 ## Incoming boundary checkpoint
 
