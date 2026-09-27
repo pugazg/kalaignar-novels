@@ -61,30 +61,28 @@ Therefore later printed folios must be read directly from each rendered source i
 
 ## Current gate
 
-Part 014 English is **E75–E79 / 5/5 SOURCE-CHECKED / COMPLETE** through scan420.
+Part 014 is **FINAL CLOSED / FROZEN**.
 
-- Parts001–013 — **FINAL CLOSED / FROZEN**
-- canonical Tamil — **30/30 verified**
-- visual fidelity — **30/30 verified**
-- Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **sections78–82 / 5/5 VERIFIED / PASS / CLOSED**
-- assembled Tamil audit — **5/5 EXACT / PASS**
-- English planning/setup — **COMPLETE / PASS**
-- Part014 English batches — **E75–E79 / 5**
-- maintained English files — **5/5**
-- translated / source-checked — **5/5 / 5/5**
-- source coverage — **scans391–420 / all 30 physical pages**
-- source-boundary marker parity — **25/25 / PASS**
-- scan403 internal printed396→397 provenance — **PRESERVED**
-- unresolved batch-level English holds — **0**
-- canonical / assembled Tamil edits caused by English — **0 / 0**
-- frozen Parts001–013 English body edits — **0**
+- Parts001–014 — **FINAL CLOSED / FROZEN**
+- canonical Tamil — **30/30 verified / frozen**
+- visual fidelity — **30/30 verified / frozen**
+- assembled Tamil — **sections78–82 / 5/5 VERIFIED / CLOSED / frozen**
+- E75–E79 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved Part014 blockers — **0**
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- Part015 translation / paraphrase / canonical records — **0 / 0 / 0**
-- exact next — **Part014 whole-Part English glossary reconciliation across E75–E79**
+- Part015 canonical records — **0**
+- durable closure — `PART_014_FINAL_CLOSURE.md`
+- Part015 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part015 Pass1 Batch1 scans421–430 / local1–10**
 
-Do not reopen frozen Parts001–013 merely to advance Part014.
+Do not reopen frozen Parts001–014 merely to advance Part015.
 ## Part014 Pass1 Batch3 completion checkpoint
 
 **PART014 PASS 1 — COMPLETE — 30/30 TEXT-COMPLETE.**
