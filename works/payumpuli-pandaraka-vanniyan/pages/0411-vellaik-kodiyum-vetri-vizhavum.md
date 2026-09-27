@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans411–420; formal Part014 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans411–420; formal Part014 Pass 2A reviewed; formal Part014 Pass 2B reviewed"
 ---
 
 # வெள்ளைக் கொடியும்- வெற்றி விழாவும்!
@@ -27,7 +27,7 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 
 ஜெனரல் மெக்டோவல் பண்டாரகனின் பெருந்தன்மையை உணர்ந்து கொள்ளவில்லை. “நீயா? எனக்கா? உயிர்ப்பிச்சை கொடுப்பதா?” என்று உறுமினான்.
 
-“பொறியில் அகப்பட்டது போல கண்டி மாநகருக்குள் நீ அகப்பட்டுக் கொண்டு விழித்ததை மறந்துவிட்டாயா? தலை தப்பினால் போதுமென ஓடிவந்து இந்தக் கோட்டைக்குள் புகுந்து கொண்டதை மறந்து விட்டாயா? ஓடுகிறவனையும், உயிருக்குப் பயந்து ஒளிந்து கொள்கிறவனையும் கொல்லக்கூடாது என்ற பண்பாடு கருதி, உன்னைக் காப்பாற்ற வந்திருக்கிறேன் என்பதையாவது மறந்து விடாதே!”
+“பொறியில் அகப்பட்டது போல கண்டி மாநகருக்குள் நீ அகப்பட்டுக் கொண்டு விழித்ததை மறந்துவிட்டாயா? தலை தப்பினால் போதுமென ஓடி வந்து இந்தக் கோட்டைக்குள் புகுந்து கொண்டதை மறந்து விட்டாயா? ஓடுகிறவனையும், உயிருக்குப் பயந்து ஒளிந்து கொள்கிறவனையும் கொல்லக்கூடாது என்ற பண்பாடு கருதி, உன்னைக் காப்பாற்ற வந்திருக்கிறேன் என்பதையாவது மறந்து விடாதே!”
 
 “ஓ! யுத்த தர்மம் எனக்கு சொல்லித் தருகிறாயா? ஓட முடியாமலும், ஒளிய முடியாமலும் என்னிடம் வந்து நீ அகப்பட்டிருக்கிறாய்! இப்போது உன் உயிர் எனக்குத் தேவை!”
 
@@ -53,4 +53,18 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 411; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: 405; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+## Formal Part014 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part014 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- source-confirmed correction: `ஓடிவந்து` → **`ஓடி வந்து`** — source spacing / word-boundary correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 411; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: 405; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
