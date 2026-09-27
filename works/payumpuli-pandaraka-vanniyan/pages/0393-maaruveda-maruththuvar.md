@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans391–400; formal Part014 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans391–400; formal Part014 Pass 2A reviewed; formal Part014 Pass 2B reviewed"
 ---
 
 # மாறுவேட மருத்துவர்!
@@ -33,7 +33,7 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 
 “இந்த வேடத்தில் கண்டி அரண்மனைக்குச் செல்வதாகத் திட்டமாக்கும்?”
 
-“ஆமாம்! குருவிச்சி! மாறுவேடத்தில் சென்றுதான் கண்டி மன்னனை சந்திப்பது என முடிவு செய்திருக்கிறேன்! இல்லையேல் பிலிமதளாவை என்னையும் கண்டி மன்னனான என் நண்பனையும் சந்திக்கவே விடாமல் ஏதாவது சதி செய்திடுவார்! அதனால் நான் முதலில் கூறியவாறு நீ படைத்தலைமை ஏற்றுப் புறப்படு! நீங்கள் தங்கியிருக்கும் முகாமுக்குக் கண்டியிலிருந்து நான் செய்தி அனுப்புகிறேன். அதன் பிறகு நமது படை செயல் படத் தொடங்கலாம்!”
+“ஆமாம்! குருவிச்சி! மாறுவேடத்தில் சென்றுதான் கண்டி மன்னனை சந்திப்பது என முடிவு செய்திருக்கிறேன்! இல்லையேல் பிலிமதளாவை என்னையும் கண்டி மன்னனான என் நண்பனையும் சந்திக்கவே விடாமல் ஏதாவது சதி செய்திடுவார்! அதனால் நான் முதலில் கூறியவாறு நீ படைத்தலைமை ஏற்றுப்புறப்படு! நீங்கள் தங்கியிருக்கும் முகாமுக்குக் கண்டியிலிருந்து நான் செய்தி அனுப்புகிறேன். அதன் பிறகு நமது படை செயல் படத் தொடங்கலாம்!”
 
 குருவிச்சியிடம் விடைபெற்றுக் கிளம்பினான் பண்டாரக வன்னியன்! அவன் கம்பீரமாக நடந்து செல்லும் பின்னழகைக் கண்ட குருவிச்சி நாச்சியார் அவன் காதில் விழுமாறு சொன்னாள்.-
 
@@ -57,4 +57,18 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 393; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 386; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+## Formal Part014 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part014 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- source-confirmed correction: `ஏற்றுப் புறப்படு!` → **`ஏற்றுப்புறப்படு!`** — source compound / join correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 393; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 386; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
