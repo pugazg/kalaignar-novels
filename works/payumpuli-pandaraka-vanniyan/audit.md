@@ -34,33 +34,24 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 | boundary witnesses available | **PASS** |
 | boundary classifications | **PASS — 15/15 AUDITED / COMPLETE** |
 
-## Current authoritative frontier — Part015 assembled Tamil audit next
+## Current authoritative frontier — Part015 English planning/setup next
 
 - Parts001–014 — **FINAL CLOSED / FROZEN**
-- Part015 canonical Tamil — **30/30 verified**
-- Part015 visual fidelity — **30/30 verified**
+- Part015 canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
 - Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
+- Part audit / final status / documentation — **PASS / CLOSED / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil construction — **5/5 files created — sections83–87**
-- assembled Tamil validation/audit — **NOT STARTED / NEXT**
+- assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
+- assembled comparison — **5/5 EXACT / PASS against canonical literary payloads**
+- omissions / duplicates / unsupported Tamil insertion — **0 / 0 / 0**
+- workflow-note leakage — **0**
 - incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **450→451 — CLEAN / AUDITED / PASS**
-- multipart split boundaries — **15/15 AUDITED / COMPLETE**
+- outgoing **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
 - Part016 — **SUPPLIED / REGISTERED / WAITING**
 - Part016 canonical records — **0**
-- Part016 Pass1 — **NOT STARTED**
-- English work for Part015 — **NOT STARTED / BLOCKED UNTIL ASSEMBLED TAMIL VALIDATION CLOSES**
-- exact next — **audit and validate assembled Tamil sections83–87 against verified canonical scans421–450**
-
-Part015 assembled files now present:
-- `sections/83-oru-pennin-piraayachchiththam.md` — scans421–426
-- `sections/84-manaththai-maatriya-madal.md` — scans427–432
-- `sections/85-thottaththil-ketta-oli.md` — scans433–437
-- `sections/86-inbam-imaippozhuthu.md` — scans438–446; scan439 illustration-only
-- `sections/87-pagaivar-kaiyil-panangamam.md` — scans447–450; scan448 illustration-only; chapter72 continues into Part016
+- Part016 Pass1 — **NOT STARTED / BLOCKED**
+- English planning/setup — **NOT STARTED / NEXT**
+- exact next — **Part015 English translation planning/setup with live batch/section collision checks; controls only, no English literary prose**
 
 ## Methodology correction
 
