@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
+**PASS 3 — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisites:
 - Part015 Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -77,10 +77,39 @@ Textual `status` remains `verified`; `visual_fidelity` remains `needs-review` un
 
 **Batch2 — PASS / 0 textual corrections / 0 unresolved visual-structural questions.**
 
+## Batch3 structural confirmation — scans441–450
+
+- observed printed folios **434–440 and442–443**, with scan448 unnumbered;
+- scan441 / printed434 continues chapter71 and ends at **`போர்`**;
+- scan442 / printed435 resumes **`முனைக்குப்`** and ends at **`காத்திட`**;
+- scan443 / printed436 carries the garland-exchange action with normal paragraph/action placement;
+- scan444 / printed437 ends mid-dialogue at **`முகத்தைக்`** and scan445 / printed438 resumes **`கவிழ்த்துக்`**;
+- scan445 ends mid-sentence at **`இதயத்தைத்`** and scan446 / printed439 resumes **`தண்பொழிலாக்கி`**;
+- scan446 closes chapter71 and preserves a substantial intentional blank lower field;
+- scan447 / printed440 opens displayed chapter72 `பகைவர் கையில் பனங்காமம்!`, boxed **72**, and ends inside an open report after **`ஒரு படை!`**;
+- scan448 is an **unnumbered full-page colour narrative battle illustration** with no printed Tamil body, no visible printed folio, and no recurring text-page border/furniture;
+- scan449 / printed442 resumes recurring text-page furniture and the open report at **`எட்வர்ட் மேட்ஜ்`**, ending mid-dialogue at **`என்`**;
+- scan450 / printed443 resumes **`வார்த்தைகள்`**, ends after the complete departure sentence, and preserves outgoing **450→451 — CLEAN / AUDITED / PASS**;
+- printed sequence is structurally consistent as **440 → unnumbered illustration → 442 → 443**;
+- no scan451 wording or structure was imported into Part015.
+
+**Batch3 — PASS / 0 textual corrections / 0 unresolved visual-structural questions.**
+
+## Pass3 closure decision
+
+**PART015 PASS 3 — COMPLETE / PASS — 30/30 VISUAL / STRUCTURAL REVIEWED.**
+
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- Parts001–014 body mutations — **0**
+- Part016 body / structure leakage — **0**
+
 ## Current accounting
 
-- reviewed — **20/30 — scans421–440**
-- remaining — **10**
+- reviewed — **30/30 — scans421–450**
+- remaining — **0**
 - Pass3 textual corrections — **0**
 - unresolved visual / structural questions — **0**
 - textual status — **30/30 verified**
@@ -91,6 +120,6 @@ Textual `status` remains `verified`; `visual_fidelity` remains `needs-review` un
 
 ## Exact next activity
 
-Perform **Part015 Pass3 Batch3 — scans441–450 / local pages21–30**.
+Perform **Part015 Part audit** across canonical scans421–450 and Part015 page-map rows.
 
-Process exactly **10 physical Part015 source pages** in the direct full-page visual / structural verification pass. Preserve scan448 as the unnumbered full-page colour battle illustration with no textual body and no printed folio. Do not promote `visual_fidelity` in this batch; that remains for the Part audit / final status gate. Do not create Part016 canonical records.
+Verify canonical inventory, scan/local/printed mapping including the unnumbered illustration scans439 and448, chapter structure, continuation locks, correction accounting, boundary state and unresolved-item counts. Do not promote `visual_fidelity` in the same audit gate.

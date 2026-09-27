@@ -218,7 +218,7 @@ No reform-sensitive occurrence in scans441–450 required a canonical Unicode co
 
 ## Exact next activity
 
-Perform **Part015 Pass3 Batch3 — scans441–450 / local pages21–30**.
+Perform **Part015 Part audit**.
 
 Pass3 Batch2 is complete at **20/30 visual / structural reviewed** with **0 textual corrections** and **0 unresolved structural questions**. Proceed to Pass3 Batch3 scans441–450. Do not create Part016 canonical records.
 
@@ -267,3 +267,21 @@ Pass3 Batch2 is complete at **20/30 visual / structural reviewed** with **0 text
 - Part016 canonical records created — **0**
 - durable progress — `PART_015_PASS3_PROGRESS.md`
 - exact next — **Part015 Pass3 Batch3 scans441–450 / local21–30**
+
+## Part015 Pass3 closure checkpoint
+
+**PART015 PASS 3 — COMPLETE / PASS — 30/30 VISUAL / STRUCTURAL REVIEWED.**
+
+- Batch3 scans441–450 / local21–30 — **REVIEWED / PASS**
+- scan448 — **unnumbered full-page colour battle illustration / no printed Tamil body / no visible folio**
+- Pass3 Tamil body corrections — **0**
+- unresolved visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- multipart split boundaries — **15/15 AUDITED / COMPLETE**
+- Parts001–014 — **FINAL CLOSED / FROZEN**
+- Part016 canonical records created — **0**
+- durable progress — `PART_015_PASS3_PROGRESS.md`
+- exact next — **Part015 Part audit**
