@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans401–410; formal Part014 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans401–410; formal Part014 Pass 2A reviewed; formal Part014 Pass 2B reviewed"
 ---
 
 # கண்டிக்குள் களம்!
@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 
 “உன் கதி அதோகதிதான்!” என்று ஒரு குரல் கேட்டது! அது ஒரு பெண்ணின் குரல்! எல்லோரும் அந்தக் குரல் கேட்ட பக்கம் திரும்பினர். கையில் ஏந்திய வாளுடன், ஒரு பெரிய தூணின் மறைவிலிருந்து குருவிச்சி நாச்சியார் போர்க்கோலம் பூண்டு நடந்து வந்தாள். ஒருக்கணம் அதிர்ச்சி! ஜெனரல் மெக்டோவல், தனது படையினரை அடுத்தகணம் எச்சரிக்கை செய்தான்! குருவிச்சி, அஞ்சிடவில்லை. ஓங்கிய வாளுடன் அவர்கள் எதிரே தலை நிமிர்ந்து நின்றாள். அவள் விழிகள் முத்துசாமியின் பக்கம் பாய்ந்தன.
 
-“முத்துசாமி அவர்களே! மிகவும் நன்றி! நாம் திட்டமிட்டபடி ஆங்கிலேயப் படையை கண்டி நகருக்குள் கொண்டு வந்துவிட்டீர்! இந்தப் படையை சுற்றி வளைத்து சுக்கு நூறாக்கிட, கண்டி ராஜ்யப் படைகளும், பண்டாரக வன்னியர் படைகளும் தயார்! மிகத் தந்திரமாக மெக்டோவலையும் அவரது படையையும் கண்டிக்குள் அழைத்து வந்து சிக்க வைத்ததற்கு, முத்துசாமி அவர்களே! உங்களை கோயில் வைத்துக் கும்பிட வேண்டும்!”
+“முத்துசாமி அவர்களே! மிகவும் நன்றி! நாம் திட்டமிட்டபடி ஆங்கிலேயப் படையை கண்டி நகருக்குள் கொண்டு வந்துவிட்டீர்! இந்தப் படையை சுற்றி வளைத்து சுக்கு நூறாக்கிட, கண்டி ராஜ்யப் படைகளும், பண்டாரக வன்னியர் படைகளும் தயார்! மிகத் தந்திரமாக மெக்டோவலையும் அவரது படையையும் கண்டிக்குள் அழைத்து வந்து சிக்க வைத்ததற்கு, முத்துசாமி அவர்களே! உங்களைக் கோயில் வைத்துக் கும்பிட வேண்டும்!”
 
 இப்படி குருவிச்சி பேசியதும், முத்துசாமி நடுங்கிப் போனான்.
 
@@ -51,4 +51,18 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 405; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: 399; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+## Formal Part014 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part014 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- source-confirmed correction: `உங்களை கோயில்` → **`உங்களைக் கோயில்`** — source sandhi / case-marker correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 405; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: 399; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
