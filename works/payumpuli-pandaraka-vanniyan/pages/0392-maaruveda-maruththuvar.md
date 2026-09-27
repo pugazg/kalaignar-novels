@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans391–400; formal Part014 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans391–400; formal Part014 Pass 2A reviewed; formal Part014 Pass 2B reviewed"
 ---
 
 # மாறுவேட மருத்துவர்!
@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 
 “அய்யோ! வெறுப்பா? அடடா, அதற்கு நான் பொறுப்பா?”
 
-“ஆமாம் - இனிமேல் நீங்கள்தான் பொறுப்பேற்றுக் கொள்ள வேண்டும்”
+“ஆமாம்- இனிமேல் நீங்கள்தான் பொறுப்பேற்றுக் கொள்ள வேண்டும்”
 
 “என்னம்மா சொல்லுகிறாய்? எனக்கு எதுவும் புரிய வில்லையே!”
 
@@ -51,7 +51,7 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 
 “என்ன? என்ன? என்னம்மா சொல்கிறாய்?”
 
-“பிறகென்ன? கொழுக்கும் என் இளமை உள்ளத்தில் செழிக்கும் உணர்வுகளைத் துச்சமெனக் கருதி என் வாழ்வையே ஒழிக்கத் திட்டமிட்டப் பண்டாரகரைவிடப் பல ஆயிரம் மடங்கு தாங்கள் நல்லவர்! வல்லவர்! பார்த்தவுடனே பறி கொடுத்து விட்டேன் இதயத்தை!”
+“பிறகென்ன? கொழிக்கும் என் இளமை உள்ளத்தில் செழிக்கும் உணர்வுகளைத் துச்சமெனக் கருதி என் வாழ்வையே ஒழிக்கத் திட்டமிட்டப் பண்டாரகரைவிடப் பல ஆயிரம் மடங்கு தாங்கள் நல்லவர்! வல்லவர்! பார்த்தவுடனே பறி கொடுத்து விட்டேன் இதயத்தை!”
 
 “இதென்ன பயங்கரமான புகழ்! இந்த விஷயம் பண்டாரக
 
@@ -79,4 +79,19 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 392; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: 385; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+## Formal Part014 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part014 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **2**;
+- source-confirmed correction: `ஆமாம் - இனிமேல்` → **`ஆமாம்- இனிமேல்`** — source punctuation / spacing correction; supersedes the Pass2A spacing decision;
+- source-confirmed correction: `கொழுக்கும் என் இளமை` → **`கொழிக்கும் என் இளமை`** — lexical / source-reading correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 392; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: 385; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
