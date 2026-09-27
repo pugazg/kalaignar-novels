@@ -455,8 +455,8 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 015 | 27 | 447 | 440 | chapter72 opening `பகைவர் கையில் பனங்காமம்!`; displayed number72; ends inside open report | needs-review | `pages/0447-pagaivar-kaiyil-panangamam.md` |
 | 015 | 28 | 448 | — | full-page colour narrative battle illustration; no printed Tamil body / no visible folio | needs-review | `pages/0448-pagaivar-kaiyil-panangamam.md` |
 | 015 | 29 | 449 | 442 | chapter72 continuation after unnumbered illustration; resumes `எட்வர்ட் மேட்ஜ்`; ends at `என்` | needs-review | `pages/0449-pagaivar-kaiyil-panangamam.md` |
-| 015 | 30 | 450 | 443 | chapter72 continuation; resumes `வார்த்தைகள்`; outgoing 450→451 direct audit pending | needs-review | `pages/0450-pagaivar-kaiyil-panangamam.md` |
-| 016 | 1 | 451 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 30 | 450 | 443 | chapter72 continuation; resumes `வார்த்தைகள்`; ends complete sentence; outgoing 450→451 CLEAN / AUDITED / PASS | needs-review | `pages/0450-pagaivar-kaiyil-panangamam.md` |
+| 016 | 1 | 451 | 444 | chapter72 continuation; boundary witness only; fresh paragraph after clean 450→451 split | not-started | — |
 | 016 | 2 | 452 | — | unclassified — direct visual audit pending | not-started | — |
 | 016 | 3 | 453 | — | unclassified — direct visual audit pending | not-started | — |
 | 016 | 4 | 454 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1879,3 +1879,15 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - Pass2A — **NOT STARTED**
 - Part016 canonical records created — **0**
 - exact next — **direct outgoing boundary audit 450→451 only, when Part016 scan451 rendered source pixels are available**
+
+## Part015 outgoing boundary 450→451 checkpoint
+
+**450→451 = CLEAN / AUDITED / PASS.**
+
+- scan450 / printed443 — complete sentence at physical Part015 endpoint
+- scan451 / printed444 — fresh paragraph, same chapter72, no displayed chapter reset
+- reconstruction across split — **0**
+- Part016 canonical record created — **0**
+- audited multipart split boundaries — **15/15 COMPLETE**
+- durable audit — `PART_015_BOUNDARY_AUDIT_450_451.md`
+- exact next — **Part015 Pass2A Batch1 scans421–430 / local1–10 / printed415–424**

@@ -23,8 +23,8 @@ Parts001–014 remain **FINAL CLOSED / FROZEN**.
 - observed printed-folio coverage completed — **415–440 and 442–443**; scans439 and448 unnumbered
 - unresolved Pass1 source-reading holds — **0**
 - incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **450→451 — PENDING direct audit**
-- Pass2A — **NOT STARTED / PASS1 PREREQUISITE SATISFIED; HOLD FOR OUTGOING 450→451 DIRECT AUDIT**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- Pass2A — **NOT STARTED / UNBLOCKED**
 - current 30 canonical records:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
@@ -142,6 +142,21 @@ Frozen Parts001–014 canonical Tamil, assembled Tamil, maintained English, glos
 
 ## Exact next activity
 
-Perform **direct outgoing boundary audit 450→451 only** once the registered Part016 scan451 source pixels are available.
+Perform **Part015 Pass2A Batch1 — scans421–430 / local pages1–10 / printed415–424**.
 
-Part015 Pass1 is now **30/30 TEXT-COMPLETE**. Do not create Part016 canonical records during the boundary audit. The Part016 source is registered in repository controls, but its rendered pixels are not available in the current conversation, so **450→451 remains PENDING**. Do not begin Pass2A in this checkpoint.
+Process exactly **10 physical Part015 source pages** in the direct textual source-fidelity review pass. The outgoing **450→451** boundary is now **CLEAN / AUDITED / PASS**; all **15/15** multipart split boundaries are audited. Do not create Part016 canonical records while Part015 remains active.
+
+## Outgoing boundary audit 450→451
+
+**450→451 = CLEAN / AUDITED / PASS.**
+
+- scan450 / printed443 — chapter72 continues and ends with a complete departure sentence
+- scan451 / printed444 — no new chapter heading; fresh paragraph continues chapter72
+- cross-boundary broken word / sentence / quotation / paragraph — **0**
+- overlap / missing-text indication — **0 / 0**
+- Part015 canonical body corrections caused by audit — **0**
+- Part016 canonical records created — **0**
+- audited multipart split boundaries — **15/15 COMPLETE**
+- durable audit — `PART_015_BOUNDARY_AUDIT_450_451.md`
+- Pass2A — **NOT STARTED / UNBLOCKED**
+- exact next — **Part015 Pass2A Batch1 scans421–430 / local1–10 / printed415–424**

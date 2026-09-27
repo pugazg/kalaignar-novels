@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity and global mapping are durable; direct page audit remains pending.**
+**REGISTERED — split identity and global mapping are durable; incoming boundary witness audited; Part016 Pass1 remains not started.**
 
 - local PDF pages: **27**;
 - canonical overall scans: **451–477**;
@@ -29,7 +29,7 @@ The page function/content of scan 477 remains **unclassified until direct visual
 
 ## Boundary state
 
-- incoming split boundary: **450→451 — source available; classification pending direct audit**;
+- incoming split boundary: **450→451 — CLEAN / AUDITED / PASS**;
 - outgoing split boundary: **none — physical source ends at scan 477**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
@@ -48,6 +48,14 @@ The canonical `scan_page` remains the overall scan number **451–477**.
 
 ## Current gate
 
-Part 016 source split: **SUPPLIED / REGISTERED**.
+Part 016 source split: **SUPPLIED / REGISTERED / WAITING**.
 
-This Part waits behind the global active frontier. Do not create page records here until processing reaches its overall scan range.
+Boundary-only direct inspection has established:
+
+- scan451 / local1 / printed444 — body continuation of chapter72 `பகைவர் கையில் பனங்காமம்!`
+- no new displayed chapter heading at scan451
+- incoming **450→451 — CLEAN / AUDITED / PASS**
+- scan451 canonical record — **NOT CREATED**
+- Part016 Pass1 — **NOT STARTED**
+
+This Part waits behind the active Part015 maintained frontier. Do not create Part016 page records until Part015 reaches final closure and Part016 is explicitly activated.

@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**ACTIVE — split identity and global mapping are durable; Pass1 is COMPLETE at 30/30 TEXT-COMPLETE; outgoing boundary audit remains pending.**
+**ACTIVE — split identity and global mapping are durable; Pass1 is COMPLETE at 30/30 TEXT-COMPLETE; outgoing boundary audit is CLOSED / PASS.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **421–450**;
@@ -24,7 +24,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 ## Boundary state
 
 - incoming split boundary: **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**;
-- outgoing split boundary: **450→451 — source available; classification pending direct audit**;
+- outgoing split boundary: **450→451 — CLEAN / AUDITED / PASS**;
 
 No text is reconstructed across a split boundary. A boundary is classified only from the two adjacent source scans.
 
@@ -42,7 +42,7 @@ The canonical `scan_page` remains the overall scan number **421–450**.
 
 ## Current gate
 
-Part 015 is **ACTIVE / PASS1 COMPLETE / AWAITING OUTGOING BOUNDARY AUDIT**.
+Part 015 is **ACTIVE / PASS1 COMPLETE / OUTGOING BOUNDARY CLOSED / PASS2A NEXT**.
 
 - source split — **SUPPLIED / REGISTERED**
 - overall scans — **421–450 / 30**
@@ -50,10 +50,10 @@ Part 015 is **ACTIVE / PASS1 COMPLETE / AWAITING OUTGOING BOUNDARY AUDIT**.
 - canonical records — **30/30 — scans421–450**
 - Pass1 — **COMPLETE — 30/30 TEXT-COMPLETE**
 - incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **450→451 — PENDING direct audit**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
 - controlling representation — **rendered source page images**
 - Parts001–014 — **FINAL CLOSED / FROZEN**
-- exact next — **direct outgoing boundary audit 450→451 only, when Part016 scan451 rendered source pixels are available**
+- exact next — **Part015 Pass2A Batch1 scans421–430 / local1–10 / printed415–424**
 
 Do not create Part016 canonical records while Part015 is active.
 
@@ -67,7 +67,7 @@ Do not create Part016 canonical records while Part015 is active.
 - durable audit — `PART_014_BOUNDARY_AUDIT_420_421.md`;
 - Part015 canonical records created by the audit — **0**;
 - outgoing **450→451 remains PENDING direct audit**;
-- Part015 is **ACTIVE / PASS1 COMPLETE — 30/30 TEXT-COMPLETE / OUTGOING BOUNDARY PENDING**.
+- Part015 is **ACTIVE / PASS1 COMPLETE — 30/30 TEXT-COMPLETE / OUTGOING BOUNDARY CLEAN / AUDITED / PASS**.
 
 ## Pass1 Batch1 checkpoint
 
@@ -109,5 +109,19 @@ Do not create Part016 canonical records while Part015 is active.
 - Pass1 — **COMPLETE — 30/30 TEXT-COMPLETE**
 - Pass2A — **NOT STARTED**
 - outgoing **450→451 — PENDING direct audit**
-- Part016 source is **REGISTERED**, but its rendered source pixels are not available in the current conversation; no Part016 canonical record was created
-- exact next — **direct outgoing boundary audit 450→451 only**
+- Part016 scan451 was used only as the adjacent boundary witness; no Part016 canonical record was created
+- exact next — **Part015 Pass2A Batch1 scans421–430 / local1–10 / printed415–424**
+
+## Outgoing boundary audit checkpoint
+
+**450→451 = CLEAN / AUDITED / PASS.**
+
+- scan450 / printed443 ends with a complete sentence inside chapter72
+- scan451 / printed444 begins a fresh paragraph inside the same chapter72
+- new displayed chapter heading at scan451 — **NO**
+- cross-boundary reconstruction required — **NO**
+- Part015 canonical body correction caused by audit — **0**
+- Part016 canonical records created — **0**
+- audited multipart boundaries — **15/15 COMPLETE**
+- durable audit — `PART_015_BOUNDARY_AUDIT_450_451.md`
+- exact next — **Part015 Pass2A Batch1 scans421–430 / local1–10 / printed415–424**

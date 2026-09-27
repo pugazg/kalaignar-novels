@@ -1781,3 +1781,19 @@ Direct source review established that scan403 contains **two printed folios (396
 - durable closure — `PART_014_FINAL_CLOSURE.md`
 - Part015 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
 - exact next — **Part015 Pass1 Batch1 scans421–430 / local1–10**
+
+## Part015 Pass1 / outgoing boundary checkpoint
+
+**PART015 PASS 1 — COMPLETE — 30/30 TEXT-COMPLETE. OUTGOING 450→451 — CLEAN / AUDITED / PASS.**
+
+- Part015 scans421–450 — **30/30 canonical records / TEXT-COMPLETE**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- right witness scan451 / Part016 local1 / printed444 — inspected only for boundary classification
+- Part016 canonical records created — **0**
+- Part015 body changes caused by boundary audit — **0**
+- multipart split boundaries — **15/15 AUDITED / COMPLETE**
+- durable audit — `PART_015_BOUNDARY_AUDIT_450_451.md`
+- Pass2A — **NOT STARTED / UNBLOCKED**
+- Parts001–014 — **FINAL CLOSED / FROZEN**
+- exact next — **Part015 Pass2A Batch1 scans421–430 / local1–10 / printed415–424**

@@ -1262,8 +1262,23 @@ Exact next activity: audit **330→331**; if usable, begin **Part012 Pass1 scans
 - statuses — **needs-review / needs-review**
 - unresolved Pass1 source-reading holds — **0**
 - incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **450→451 — PENDING direct audit**
-- registered Part016 source metadata exists, but scan451 rendered source pixels are not available in the current conversation
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- Part016 scan451 / local1 / printed444 inspected only as the adjacent boundary witness
 - no Part016 canonical records created
-- Pass2A — **NOT STARTED**
-- exact next — **direct outgoing boundary audit 450→451 only**
+- audited multipart boundaries — **15/15 COMPLETE**
+- Pass2A — **NOT STARTED / UNBLOCKED**
+- exact next — **Part015 Pass2A Batch1 scans421–430 / local1–10 / printed415–424**
+
+## Part015 outgoing boundary source checkpoint
+
+**450→451 — CLEAN / AUDITED / PASS.**
+
+- left witness — Part015 scan450 / printed443
+- right witness — Part016 scan451 / printed444
+- scan451 begins a fresh paragraph in continuing chapter72; no new chapter heading
+- cross-boundary reconstruction — **0**
+- source overlap / missing-text indication — **0 / 0**
+- Part015 canonical body mutation — **0**
+- Part016 canonical records created — **0**
+- durable audit — `PART_015_BOUNDARY_AUDIT_450_451.md`
+- all multipart split boundaries — **15/15 AUDITED**

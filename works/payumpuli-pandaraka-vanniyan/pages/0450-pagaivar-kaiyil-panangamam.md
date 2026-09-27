@@ -39,7 +39,7 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 - resumes scan449 open dialogue with `வார்த்தைகள்`
 - source-visible forms `தடையிருக்குமேயானால்`, `ஒருக்கணத்தில்`, `ஆங்கிலேயப்படை`, `அனுப்பப்படுகிறதென்றால்`, `உயிரோடிருந்தால்` retained
 - physical page ends after the complete departure sentence
-- outgoing **450→451 remains PENDING direct audit** because the registered Part016 source pixels are not available in the current conversation; no Part016 wording or records are invented
+- outgoing **450→451 — CLEAN / AUDITED / PASS**; scan451 / printed444 was inspected only as the adjacent witness, begins a fresh paragraph in the same chapter72, and no Part016 wording is imported here
 - direct rendered source pixels are authoritative; OCR/outside-source comparison not used as source authority
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates

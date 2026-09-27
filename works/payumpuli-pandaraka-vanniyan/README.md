@@ -2676,3 +2676,19 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Parts001–014 — **FINAL CLOSED / FROZEN**
 - Part016 canonical records created — **0**
 - exact next — **direct outgoing boundary audit 450→451 only; registered Part016 scan451 rendered pixels are required**
+
+## Part015 outgoing boundary audit checkpoint
+
+**450→451 — CLEAN / AUDITED / PASS.**
+
+- Part015 scan450 / printed443 — chapter72 body ends on a complete departure sentence
+- Part016 scan451 / printed444 — same chapter72 continues with a fresh paragraph
+- broken cross-boundary textual fragment — **0**
+- overlap / missing-text indication — **0 / 0**
+- Part015 body correction caused by audit — **0**
+- Part016 canonical records created — **0**
+- multipart boundaries audited — **15/15 COMPLETE**
+- durable audit — `PART_015_BOUNDARY_AUDIT_450_451.md`
+- Part015 Pass1 — **30/30 TEXT-COMPLETE**
+- Pass2A — **NOT STARTED / UNBLOCKED**
+- exact next — **Part015 Pass2A Batch1 scans421–430 / local1–10 / printed415–424**
