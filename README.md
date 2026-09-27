@@ -8,20 +8,23 @@
 - source family: **TVA_BOK_0065744**
 - Parts001–014 — **FINAL CLOSED / FROZEN**
 - Part015 canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit / final status / documentation — **PASS / CLOSED / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
-- assembled comparison — **5/5 EXACT / PASS against canonical literary payloads**
-- omissions / duplicates / unsupported Tamil insertion — **0 / 0 / 0**
-- workflow-note leakage — **0**
+- English planning/setup — **COMPLETE / PASS**
+- prior source-check frontier — **E79**
+- E1–E79 source-check controls — **contiguous / 79 / missing 0**
+- reserved Part015 batches — **E80–E84 / 5**
+- prior maintained English section frontier — **82**
+- maintained English sections00–82 — **contiguous / 83 / missing 0**
+- reserved maintained English sections — **83–87 / 5**
+- batch / section collisions — **0 / 0**
+- English literary prose drafted during setup — **0**
+- E80–E84 source-check records created during setup — **0**
 - incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
-- Part016 — **SUPPLIED / REGISTERED / WAITING**
-- Part016 canonical records — **0**
-- Part016 Pass1 — **NOT STARTED / BLOCKED**
-- English planning/setup — **NOT STARTED / NEXT**
-- exact next — **Part015 English translation planning/setup with live batch/section collision checks; controls only, no English literary prose**
+- scan439 / scan448 — **illustration-only / no English body**
+- Part016 — **SUPPLIED / REGISTERED / WAITING; 0 canonical records; Pass1 BLOCKED**
+- exact next — **E80 draft + source-check — section83 / scans421–426**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 

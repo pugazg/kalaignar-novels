@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part015 English translation planning/setup
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part015 English E80 draft + source-check — section83 / scans421–426
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,49 +10,53 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 
 ## Part015 Tamil authority
 
-- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf`
-- scans — **421–450 / 30**
-- canonical Tamil — **30/30 verified**
+- scans421–450 — **30/30 canonical Tamil verified**
 - visual fidelity — **30/30 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
-- Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
-- assembled comparison — **5/5 EXACT / PASS**
-- durable validation — `PART_015_ASSEMBLED_TAMIL_VALIDATION.md`
-- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
+- incoming 420→421 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing 450→451 — **CLEAN CONTINUATION / AUDITED / PASS**
 
-Part015 assembled units:
-1. section83 — chapter68 `ஒரு பெண்ணின் பிராயச்சித்தம்!` — scans421–426
-2. section84 — chapter69 `மனத்தை மாற்றிய மடல்!` — scans427–432
-3. section85 — chapter70 `தோட்டத்தில் கேட்ட ஒலி!` — scans433–437
-4. section86 — chapter71 `இன்பம், இமைப்பொழுது!` — scans438–446; scan439 illustration-only
-5. section87 — chapter72 `பகைவர் கையில் பனங்காமம்!` — scans447–450; scan448 illustration-only; continues into Part016
+## English planning/setup state
 
-## Part016 lock
+**PART015 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS.**
 
-- source scans — **451–477 / 27**
-- state — **SUPPLIED / REGISTERED / WAITING**
-- canonical records — **0**
-- Pass1 — **NOT STARTED / BLOCKED**
+- prior source-check frontier — **E79**
+- E1–E79 controls — **contiguous / 79 / missing 0**
+- reserved Part015 batches — **E80–E84 / 5**
+- prior maintained English section frontier — **82**
+- sections00–82 — **contiguous / 83 / missing 0**
+- reserved maintained English sections — **83–87 / 5**
+- batch collisions — **0**
+- section collisions — **0**
+- English prose drafted during setup — **0**
+- E80–E84 source-check records created during setup — **0**
 
-Do not create Part016 canonical records.
+Active controls:
+- `translations/en/PART_015_TRANSLATION_PLAN.md`
+- `translations/en/PART_015_GLOSSARY.md`
+- `translations/en/PART_015_PROGRESS.md`
+
+## E80 scope
+
+- batch — **E80**
+- Tamil source — `sections/83-oru-pennin-piraayachchiththam.md`
+- scans — **421–426**
+- planned English file — `translations/en/sections/83-a-womans-atonement.md`
+- working title — **A Woman’s Atonement!**
+- incoming boundary — **420→421 CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+
+Use only the verified Part015 Tamil authority. Preserve maintained project forms and the Part015 glossary controls. Do not import outside historical/geographic/name normalization.
+
+## Locks
+
+- do not modify frozen E1–E79 maintained English;
+- do not begin E81 until E80 is **SOURCE-CHECKED / COMPLETE**;
+- do not create any Part016 canonical record;
+- do not import scan451 / Part016 text to complete chapter72;
+- scan439 and scan448 remain later-batch illustration-only locks.
 
 ## Exact next activity
 
-Perform **Part015 English translation planning/setup only**.
+Draft **E80 / English section83** from verified Tamil section83, then perform the E80 source-check against the Tamil authority and source provenance. Create `E80_SOURCE_CHECK.md` only after that check passes.
 
-Before reserving any Part015 English sequence:
-- inspect the live maintained-English section frontier;
-- inspect all existing `E*` source-check controls and verify the current contiguous batch-number frontier;
-- perform a collision check for the five Part015 assembled units;
-- reserve the next five English batches and maintained-English section range only if collision-free;
-- create/update the Part015 English translation plan, glossary and progress controls;
-- preserve the 420→421 and 450→451 boundary locks;
-- explicitly record scan439 and scan448 as illustration-only source pages with no invented English body;
-- keep Parts001–014 English/Tamil frozen and Part016 blocked.
-
-**Do not draft or source-check English literary prose in this setup activity.** Stop after the planning/setup gate is COMPLETE / PASS.
+Stop after **E80 SOURCE-CHECKED / COMPLETE**. Do not begin E81 in the same activity.
