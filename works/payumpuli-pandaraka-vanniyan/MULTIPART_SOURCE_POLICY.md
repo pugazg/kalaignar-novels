@@ -33,19 +33,18 @@ For every `N→N+1` boundary:
 
 **source intake → Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → status sync → documentation sync → Tamil archival-ready → assembled Tamil → English → release/readiness → release-ready synchronization → final Part closure → next Part**
 
-## Current authoritative frontier — Part015 E81 next
+## Current authoritative frontier — Part015 E82 next
 
 - Parts001–014 — **FINAL CLOSED / FROZEN**
 - Part015 canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
 - assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
 - English planning/setup — **COMPLETE / PASS**
-- E80 / section83 / scans421–426 — **SOURCE-CHECKED / COMPLETE**
-- maintained English section83 — **CREATED / SOURCE-CHECKED**
-- E80 literary blocks / boundaries — **41/41 / 5/5 PASS**
-- E80 English source-check refinements — **1**
-- E81–E84 — **NOT STARTED**
+- E80–E81 — **SOURCE-CHECKED / COMPLETE**
+- maintained English sections83–84 — **CREATED / SOURCE-CHECKED**
+- E81 literary blocks / boundaries — **37/37 / 5/5 PASS**
+- E82–E84 — **NOT STARTED**
 - Part016 — **SUPPLIED / REGISTERED / WAITING; 0 canonical records; Pass1 BLOCKED**
-- exact next — **E81 draft + source-check — section84 / scans427–432**
+- exact next — **E82 draft + source-check — section85 / scans433–437**
 
 ## Historical accumulated state
 

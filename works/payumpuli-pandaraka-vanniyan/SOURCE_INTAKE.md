@@ -80,11 +80,11 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part015 canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
 - assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
 - English planning/setup — **COMPLETE / PASS**
-- E80 / section83 / scans421–426 — **SOURCE-CHECKED / COMPLETE**
-- maintained English section83 — **CREATED / SOURCE-CHECKED**
-- E81–E84 — **NOT STARTED**
+- E80–E81 — **SOURCE-CHECKED / COMPLETE**
+- maintained English sections83–84 — **CREATED / SOURCE-CHECKED**
+- E82–E84 — **NOT STARTED**
 - Part016 — **SUPPLIED / REGISTERED / WAITING; 0 canonical records; Pass1 BLOCKED**
-- exact next — **E81 draft + source-check — section84 / scans427–432**
+- exact next — **E82 draft + source-check — section85 / scans433–437**
 
 ## Part005 final state
 

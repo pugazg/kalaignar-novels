@@ -42,18 +42,19 @@ The canonical `scan_page` remains the overall scan number **421–450**.
 
 ## Current gate
 
-Part 015 is **ACTIVE / E80 SOURCE-CHECKED / E81 NEXT**.
+Part 015 is **ACTIVE / E80–E81 SOURCE-CHECKED / E82 NEXT**.
 
 - canonical records — **30/30 verified**
 - visual fidelity — **30/30 verified**
 - assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
 - English planning/setup — **COMPLETE / PASS**
 - E80 — **SOURCE-CHECKED / COMPLETE**
-- maintained English section83 — **CREATED / SOURCE-CHECKED**
-- E81–E84 — **NOT STARTED**
+- E81 — **SOURCE-CHECKED / COMPLETE**
+- maintained English sections83–84 — **CREATED / SOURCE-CHECKED**
+- E82–E84 — **NOT STARTED**
 - Part016 canonical records — **0**
 - Part016 Pass1 — **BLOCKED**
-- exact next — **E81 draft + source-check — section84 / scans427–432**
+- exact next — **E82 draft + source-check — section85 / scans433–437**
 
 ## Incoming boundary checkpoint
 
