@@ -218,6 +218,28 @@ No reform-sensitive occurrence in scans441–450 required a canonical Unicode co
 
 ## Exact next activity
 
-Perform **Part015 Pass3 Batch1 — scans421–430 / local pages1–10 / printed415–424**.
+Perform **Part015 Pass3 Batch2 — scans431–440 / local pages11–20**.
 
-Process exactly **10 physical Part015 source pages** in the direct full-page visual / structural verification pass. Pass2B is now closed at **30/30 REVIEWED / PASS**. Do not create Part016 canonical records.
+Pass3 Batch1 is complete at **10/30 visual / structural reviewed** with **0 textual corrections** and **0 unresolved structural questions**. Proceed to Pass3 Batch2 scans431–440. Do not create Part016 canonical records.
+
+## Part015 Pass3 Batch1 checkpoint
+
+**PART015 PASS 3 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 VISUAL / STRUCTURAL REVIEWED.**
+
+- scans421–430 / local1–10 / printed415–424 — **REVIEWED / PASS**
+- displayed chapter68 `ஒரு பெண்ணின் பிராயச்சித்தம்!` / boxed **68** — scan421
+- chapter68 closes scan426 with a substantial intentional blank lower field
+- displayed chapter69 `மனத்தை மாற்றிய மடல்!` / boxed **69** — scan427
+- printed folios **415–424** — continuous
+- recurring border / page furniture — **CONSISTENT**
+- physical continuation locks — **PASS**
+- Pass3 Tamil body corrections — **0**
+- unresolved visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- Parts001–014 — **FINAL CLOSED / FROZEN**
+- Part016 canonical records created — **0**
+- durable progress — `PART_015_PASS3_PROGRESS.md`
+- exact next — **Part015 Pass3 Batch2 scans431–440 / local11–20**
