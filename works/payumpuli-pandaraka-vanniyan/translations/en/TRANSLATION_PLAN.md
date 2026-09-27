@@ -424,3 +424,28 @@ Do not begin E53 until E52 is **SOURCE-CHECKED / COMPLETE**.
 - English frontier — **E79 CLOSED**
 - Part015 English — **NOT AUTHORIZED**
 - next active work — **Part015 Tamil Pass1 Batch1 scans421–430 / local1–10**
+
+## Part015 English planning/setup checkpoint
+
+**PART015 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS.**
+
+- prior source-check frontier — **E79**
+- source-check controls E1–E79 — **contiguous / 79**
+- missing controls inside E1–E79 — **0**
+- reserved Part015 sequence — **E80–E84 / 5**
+- prior maintained English section frontier — **82**
+- maintained English sections00–82 — **contiguous / 83**
+- reserved maintained English section range — **83–87 / 5**
+- batch / section collisions — **0 / 0**
+- translated / source-checked Part015 English — **0/5 / 0/5**
+- English literary prose drafted in setup — **0**
+- E80–E84 source-check records created in setup — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–014 English body edits — **0**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
+- scan439 / scan448 illustration-only locks — **PRESERVED**
+- Part016 canonical / English leakage — **0 / 0**
+- active controls — `PART_015_TRANSLATION_PLAN.md`, `PART_015_GLOSSARY.md`, `PART_015_PROGRESS.md`
+- exact next gate — **E80 draft + source-check — section83 / scans421–426**
+- do not begin E81 until E80 is **SOURCE-CHECKED / COMPLETE**
