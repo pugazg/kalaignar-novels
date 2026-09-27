@@ -2002,3 +2002,21 @@ Direct source review established that scan403 contains **two printed folios (396
 - Part016 canonical records created — **0**
 - durable audit — `PART_015_AUDIT.md`
 - exact next — **Part015 final metadata/status synchronization**
+
+## Part015 final metadata/status synchronization checkpoint
+
+**PART015 FINAL METADATA / STATUS SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical scans421–450 — **30/30**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 verified**
+- visual-fidelity promotions — **30**
+- canonical Tamil body mutations caused by this gate — **0**
+- unnumbered illustration scans — **439, 448**
+- unresolved page-status exceptions — **0**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- Parts001–014 — **FINAL CLOSED / FROZEN**
+- Part016 canonical records created — **0**
+- durable status record — `PART_015_FINAL_STATUS_SYNC.md`
+- exact next — **Part015 documentation synchronization → Tamil archival-ready → assembled Tamil construction + audit**

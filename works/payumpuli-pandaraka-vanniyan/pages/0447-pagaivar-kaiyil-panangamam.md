@@ -7,7 +7,7 @@ work: "payumpuli-pandaraka-vanniyan"
 section: "பகைவர் கையில் பனங்காமம்!"
 page_type: "body"
 status: "verified"
-visual_fidelity: "needs-review"
+visual_fidelity: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf"
 transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans441–450; formal Part015 Pass 2A reviewed; formal Part015 Pass 2B reviewed; formal Part015 Pass 3 reviewed"
@@ -69,4 +69,4 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 - textual `status` remains **verified**;
 - `visual_fidelity` remains **needs-review** until Part audit and final metadata/status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 447; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 27; அச்சுப் பக்கம்: 440; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / PASS 3 VISUAL-STRUCTURAL REVIEWED / visual-needs-review -->
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 447; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 27; அச்சுப் பக்கம்: 440; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / PASS 3 VISUAL-STRUCTURAL REVIEWED / visual-verified -->
