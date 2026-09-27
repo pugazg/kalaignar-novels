@@ -143,3 +143,16 @@ Do not begin E83 until E82 is **SOURCE-CHECKED / COMPLETE**.
 - omissions / duplicates / unsupported insertion — **0 / 0 / 0**
 - unresolved E82 holds — **0**
 - exact next — **E83 draft + source-check — section86 / scans438–446**
+
+## E83 source-check checkpoint
+
+**E83 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil source — section86 / scans438–446
+- maintained English — `sections/86-bliss-for-the-blink-of-an-eye.md`
+- literary blocks — **67/67**
+- source-boundary markers — **8/8 / PASS**
+- scan439 illustration-only body invention — **0**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved E83 holds — **0**
+- exact next — **E84 draft + source-check — section87 / scans447–450**

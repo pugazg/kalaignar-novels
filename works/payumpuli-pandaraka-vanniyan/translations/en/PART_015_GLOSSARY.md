@@ -100,3 +100,11 @@ Exact next glossary gate: carry these fixed forms into **E82**, with E82-specifi
 - `தமிழகம்` → **Tamilakam**; `தமிழ்நாடு` → **Tamil Nadu** — source occurrence distinction preserved
 - external-source normalization introduced in E82 — **0**
 - unresolved E82 glossary holds — **0**
+
+## E83 source-check decisions
+
+- chapter71 `இன்பம், இமைப்பொழுது!` → **Bliss, for the Blink of an Eye!** — **CONFIRMED**
+- scan439 — **illustration-only / no English literary body**
+- Part015 forms **Oomaichchi Naachchiyar / Panangamam** — **CONFIRMED**
+- external-source normalization introduced in E83 — **0**
+- unresolved E83 glossary holds — **0**
