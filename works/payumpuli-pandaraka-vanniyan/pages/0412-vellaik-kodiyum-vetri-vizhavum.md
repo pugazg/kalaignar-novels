@@ -6,11 +6,11 @@ printed_page: 406
 work: "payumpuli-pandaraka-vanniyan"
 section: "வெள்ளைக் கொடியும்- வெற்றி விழாவும்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans411–420"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans411–420; formal Part014 Pass 2A reviewed"
 ---
 
 # வெள்ளைக் கொடியும்- வெற்றி விழாவும்!
@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 
 “பண்டாரகனே! உன் பிணம் இங்கே விழுந்த மாத்திரத்தில் கோட்டைக்கு வெளியே நிற்கும் உன் வீரர்கள் சிதறியோடி விடுவார்கள் என்பது எனக்குத் தெரியும்.”
 
-“மெக்டோவல்! இங்கேதான் நீ தப்புக் கணக்குப் போடுகிறாய்! தலைவனின் தலை சாய்ந்தால், வீரர்கள் சிதறுவர்! அணி அலங்கோலமாகும்! தாங்கிப் பிடிக்க ஆள் இருக்கமாட்டார்கள்! இந்த விளைவுகள் எல்லாம் வேறிடத்தில் ஏற்படக்கூடும்! ஆனால், எனது வீரர்கள் அப்படியல்ல! தலைவனையே பிணமாகக் கண்டாலும், தங்கள் உடலில் கடைசி மூச்சு இருக்கும் வரையில் களத்தை விட்டு வெளியேற மாட்டார்கள். என்னைக் தன்னந்தனியாக இங்கே கொண்டு போட்டு விட்டு, நீயும் உனது ஆட்களும் இந்தக் கோட்டையிலிருந்து உயிரோடு வெளியேற முடியுமென்ற நினைப்பா? அது மூளையற்றவனின் கணிப்பாகத் தான் முடியும்! எங்கே பார்க்கலாம் என்னை சுட்டுத் தள்ளி விடு! அடுத்த கணம் உன் உடல் சுக்கல் சுக்கலாகிறதா இல்லையா என்பதை உனது ஆட்கள் புரிந்து கொள்ளட்டும்! பாவம், படையெடுத்து வந்த நீ பயந்து ஓடியது கண்டு பரிகாசப்பட்டேன்! உன் உயிருக்கே ஆபத்து எனக்கேட்டு துடித்துப் போய் விரைந்து வந்தேன்! இனி எந்த விளக்கமும் அளிக்க நான் தயாராக இல்லை! அது ஒரு வீரனுக்கு
+“மெக்டோவல்! இங்கேதான் நீ தப்புக் கணக்குப் போடுகிறாய்! தலைவனின் தலை சாய்ந்தால், வீரர்கள் சிதறுவர்! அணி அலங்கோலமாகும்! தாங்கிப் பிடிக்க ஆள் இருக்கமாட்டார்கள்! இந்த விளைவுகள் எல்லாம் வேறிடத்தில் ஏற்படக்கூடும்! ஆனால், எனது வீரர்கள் அப்படியல்ல! தலைவனையே பிணமாகக் கண்டாலும், தங்கள் உடலில் கடைசி மூச்சு இருக்கும் வரையில் களத்தை விட்டு வெளியேற மாட்டார்கள். என்னைத் தன்னந்தனியாக இங்கே கொண்டு போட்டு விட்டு, நீயும் உனது ஆட்களும் இந்தக் கோட்டையிலிருந்து உயிரோடு வெளியேற முடியுமென்ற நினைப்பா? அது மூளையற்றவனின் கணிப்பாகத் தான் முடியும்! எங்கே பார்க்கலாம் என்னை சுட்டுத் தள்ளி விடு! அடுத்த கணம் உன் உடல் சுக்கல் சுக்கலாகிறதா இல்லையா என்பதை உனது ஆட்கள் புரிந்து கொள்ளட்டும்! பாவம், படையெடுத்து வந்த நீ பயந்து ஓடியது கண்டு பரிகாசப்பட்டேன்! உன் உயிருக்கே ஆபத்து எனக்கேட்டு துடித்துப் போய் விரைந்து வந்தேன்! இனி எந்த விளக்கமும் அளிக்க நான் தயாராக இல்லை! அது ஒரு வீரனுக்கு
 
 ## Pass 1 notes
 
@@ -32,4 +32,16 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 412; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 406; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+
+## Formal Part014 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part014 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `என்னைக் தன்னந்தனியாக` → **`என்னைத் தன்னந்தனியாக`** — source sandhi / lexical-form correction;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 412; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 406; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
