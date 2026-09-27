@@ -1672,3 +1672,24 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - durable validation — `PART_014_ASSEMBLED_TAMIL_VALIDATION.md`
 - English — **NOT STARTED**
 - exact next — **Part014 English translation planning/setup only**
+
+## Part014 English planning/setup checkpoint
+
+**PART014 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS.**
+
+- prior source-check frontier — **E74**
+- source-check controls — **E1–E74 contiguous / 74**
+- missing controls inside E1–E74 — **0**
+- reserved Part014 batches — **E75–E79 / 5**
+- E75–E79 source-check controls present before setup — **0**
+- prior maintained English section frontier — **77**
+- reserved maintained English section range — **78–82**
+- section collisions in 78–82 — **0**
+- Tamil authority — **30/30 textual verified / 30/30 visual verified**
+- assembled Tamil — **sections78–82 / 5/5 VERIFIED / CLOSED**
+- translated / source-checked Part014 English — **0/5 / 0/5**
+- English literary prose drafted during setup — **0**
+- frozen Parts001–013 English/Tamil mutations — **0**
+- Part015 leakage / canonical records — **0 / 0**
+- active controls — `translations/en/PART_014_TRANSLATION_PLAN.md`, `PART_014_GLOSSARY.md`, `PART_014_PROGRESS.md`
+- exact next — **E75 draft + source-check — section78 / scans391–395**
