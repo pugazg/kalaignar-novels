@@ -61,26 +61,29 @@ Therefore later printed folios must be read directly from each rendered source i
 
 ## Current gate
 
-Part 014 is **PASS3 IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**.
+Part 014 is **TAMIL ASSEMBLED / AUDITED / CLOSED — 5/5 VERIFIED**.
 
 - Parts001–013 — **FINAL CLOSED / FROZEN**
 - canonical records — **30/30**
-- Pass1 — **COMPLETE / 30/30 TEXT-COMPLETE**
-- Pass2A — **COMPLETE / PASS — 30/30 REVIEWED — 22 corrections**
-- Pass2B — **COMPLETE / PASS — 30/30 REVIEWED — 13 additional corrections**
-- Pass3 Batch1 — **scans391–400 / local1–10 / printed384–393 — REVIEWED / PASS**
-- Pass3 textual corrections — **0**
-- unresolved visual / structural questions — **0**
+- Pass1 — **COMPLETE / PASS — 30/30**
+- Pass2A — **COMPLETE / PASS — 30/30 — 22 corrections**
+- Pass2B — **COMPLETE / PASS — 30/30 — 13 additional corrections**
+- Pass3 — **COMPLETE / PASS — 30/30 — 0 textual corrections**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
 - textual status — **30/30 verified**
-- visual fidelity — **30/30 needs-review**
+- visual fidelity — **30/30 verified**
+- assembled Tamil — **sections78–82 / 5/5 VERIFIED / PASS / CLOSED**
+- assembled Tamil audit — **EXACT canonical regeneration / PASS**
+- omissions / duplicates / unsupported body insertion / audit-note leakage — **0 / 0 / 0 / 0**
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- source-layout anomaly — **scan403 is a two-folio spread / printed396–397**
 - Part015 canonical records created — **0**
-- Part audit — **NOT STARTED / BLOCKED UNTIL PASS3 COMPLETE**
-- durable Pass2B progress — `PART_014_PASS2B_PROGRESS.md`
-- durable Pass3 progress — `PART_014_PASS3_PROGRESS.md`
-- exact next — **Part014 Pass3 Batch2 scans401–410 / local11–20 / observed printed394–404**
+- English — **NOT STARTED**
+- durable assembly validation — `PART_014_ASSEMBLED_TAMIL_VALIDATION.md`
+- exact next — **Part014 English translation planning/setup only**
 
 Do not reopen frozen Parts001–013 merely to advance Part014.
 ## Part014 Pass1 Batch3 completion checkpoint
