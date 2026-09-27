@@ -123,3 +123,15 @@ Do not begin English translation work until assembled Tamil validation closes.
 - durable validation — `PART_015_ASSEMBLED_TAMIL_VALIDATION.md`
 - exact next — **Part015 English translation planning/setup**
 - do not draft English prose until the setup gate completes its live collision checks
+
+## Part015 final closure checkpoint
+
+**PART015 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Part015 assembled Tamil — **sections83–87 / 5/5 VERIFIED / frozen**
+- English E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- whole-Part English review chain — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved Part015 blockers — **0**
+- Part016 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part016 Pass1 Batch1 scans451–460 / local1–10**

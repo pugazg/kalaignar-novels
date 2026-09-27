@@ -119,3 +119,15 @@ Final audit targets:
 Begin **Part015 English translation planning/setup**.
 
 Perform a live English batch-number/source-check and maintained-English section collision check before reserving the Part015 sequence. Create planning/glossary/progress controls only; do not draft English literary prose in the setup gate. Do not begin Part016 Pass1.
+
+## Part015 final closure checkpoint
+
+**PART015 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Part015 assembled Tamil — **sections83–87 / 5/5 VERIFIED / frozen**
+- English E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- whole-Part English review chain — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved Part015 blockers — **0**
+- Part016 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part016 Pass1 Batch1 scans451–460 / local1–10**

@@ -43,3 +43,15 @@ The next gate must verify:
 Part015 assembled Tamil is **PASS / VERIFIED / CLOSED**.
 
 Exact next: **Part015 English translation planning/setup**. Perform live batch/section collision checks and create controls only; do not draft English prose or begin Part016 Pass1.
+
+## Part015 final closure checkpoint
+
+**PART015 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Part015 assembled Tamil — **sections83–87 / 5/5 VERIFIED / frozen**
+- English E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- whole-Part English review chain — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved Part015 blockers — **0**
+- Part016 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part016 Pass1 Batch1 scans451–460 / local1–10**
