@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans391–400; formal Part014 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans391–400; formal Part014 Pass 2A reviewed; formal Part014 Pass 2B reviewed"
 ---
 
 # மாறுவேட மருத்துவர்!
@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 
 குருவிச்சி நாச்சியார் புளகாங்கிதம் பொங்கிட மெய்மறந்து சொன்ன இந்த வார்த்தைகளைக் கேட்டு அன்பு ததும்ப அவளைத் திரும்பிப் பார்த்துப் புன்னகை புரிந்த பண்டாரக வன்னியன், உடனடியாகத் தன் முதுகை வளைத்துக் கூன் போட்டுக் கொண்டு தள்ளாடி நடந்து காட்டி அவளைச் சிரிக்க வைத்தான்.
 
-மாளிகை வாசலில் தயாராக நிறுத்தப்பட்டிருந்த குதிரையின் மீது ஏறி அமர்ந்து, குருவிச்சியை நோக்கிக் கை அசைத்து விட்டு குதிரையைக் கட்டிவிட்டான். குன்றென நிமிர்ந்த தனது அன்புக்குரிய ஆணழகன் - இலட்சிய வீரன் - கொள்கைத் தங்கம் - மண்ணின் மானங் காத்திட மரணத்தின் மடியிலும் படுத்திடத் தயங்கா மாமனிதன் - கூனிக் குறுகிய மருத்துவர் வேடத்தில் குதிரையில் பறப்பதை மாளிகை வாசலில் நின்று பார்த்தவாறு பூரித்துப் போனாள் அந்தப் பூவை!
+மாளிகை வாசலில் தயாராக நிறுத்தப்பட்டிருந்த குதிரையின் மீது ஏறி அமர்ந்து, குருவிச்சியை நோக்கிக் கை அசைத்து விட்டுக் குதிரையைத் தட்டி விட்டான். குன்றென நிமிர்ந்த தனது அன்புக்குரிய ஆணழகன் - இலட்சிய வீரன் - கொள்கைத் தங்கம் - மண்ணின் மானங் காத்திட மரணத்தின் மடியிலும் படுத்திடத் தயங்கா மாமனிதன் - கூனிக் குறுகிய மருத்துவர் வேடத்தில் குதிரையில் பறப்பதை மாளிகை வாசலில் நின்று பார்த்தவாறு பூரித்துப் போனாள் அந்தப் பூவை!
 
 அவன் வேடமிட்டு வந்ததும் - விஷமத்தனமாகப் பேசியதும் - முதலில் அவளே திடுக்கிட்டுப் போனதும் - பிறகு உண்மை புரிந்து, அவனையே அவள் திகைக்க வைத்திட முயன்றதும் - எல்லாமே குருவிச்சியின் அகக் கண்களில் நிழலாடின! அன்பின் அருவி சதங்கை கட்டிய பெண்போல சங்கீத ஒலியெழுப்பி இதயத்தைக் கிறுகிறுக்க வைத்தது!
 
@@ -52,4 +52,18 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 394; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: 387; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+
+## Formal Part014 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part014 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or normalization;
+- historical-glyph set was checked occurrence by occurrence where present;
+- additional Pass 2B canonical corrections: **1**;
+- source-confirmed correction: `கை அசைத்து விட்டு குதிரையைக் கட்டிவிட்டான்.` → **`கை அசைத்து விட்டுக் குதிரையைத் தட்டி விட்டான்.`** — lexical / sandhi / source-spacing correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 394; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: 387; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->
