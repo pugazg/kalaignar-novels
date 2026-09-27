@@ -1793,3 +1793,30 @@ Exact next gate: **Part011 English translation planning/setup**. Perform a live 
 - Part015 canonical records created — **0**
 - section-order range reserved for Part014 assembly — **78–82**, collision check **0**
 - exact next — **Part014 Tamil archival-ready checkpoint, then assembled Tamil construction + audit**
+
+## Part014 assembled Tamil closure checkpoint
+
+**PART014 TAMIL ASSEMBLED / AUDITED — PASS / CLOSED.**
+
+- canonical scans391–420 — **30/30 textual verified / 30/30 visual verified**
+- Part audit — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled section range — **78–82**
+- assembled files — **5/5 verified**
+- section78 — chapter63 `மாறுவேட மருத்துவர்!` — scans391–395
+- section79 — chapter64 `அதிர்ந்தது போர்முரசு!` — scans396–401
+- section80 — chapter65 `கண்டிக்குள் களம்!` — scans402–408
+- section81 — chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!` — scans409–414
+- section82 — chapter67 `இரத்தம் படிந்த வாள்!` — scans415–420
+- canonical regeneration comparison — **5/5 EXACT / PASS**
+- represented canonical pages — **30/30 exactly once**
+- omissions — **0**
+- duplicates — **0**
+- unsupported Tamil body insertion — **0**
+- audit / workflow-note leakage — **0**
+- scan403 internal printed396→397 provenance — **preserved**
+- Parts001–013 frozen assembled/body/English mutations — **0**
+- Part015 body leakage / canonical records — **0 / 0**
+- durable validation — `PART_014_ASSEMBLED_TAMIL_VALIDATION.md`
+- English — **NOT STARTED**
+- exact next — **Part014 English translation planning/setup only**
