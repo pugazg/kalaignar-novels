@@ -61,7 +61,7 @@ Therefore later printed folios must be read directly from each rendered source i
 
 ## Current gate
 
-Part 014 is **ENGLISH PLANNING / SETUP — COMPLETE / PASS; E75 NEXT**.
+Part 014 English is **E75–E79 / 5/5 SOURCE-CHECKED / COMPLETE** through scan420.
 
 - Parts001–013 — **FINAL CLOSED / FROZEN**
 - canonical Tamil — **30/30 verified**
@@ -69,20 +69,20 @@ Part 014 is **ENGLISH PLANNING / SETUP — COMPLETE / PASS; E75 NEXT**.
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **sections78–82 / 5/5 VERIFIED / PASS / CLOSED**
 - assembled Tamil audit — **5/5 EXACT / PASS**
-- prior English source-check frontier — **E74**
-- source-check controls E1–E74 — **contiguous / 74**
-- missing E1–E74 controls — **0**
-- reserved Part014 English sequence — **E75–E79 / 5**
-- maintained English section frontier before setup — **77**
-- reserved Part014 English section range — **78–82**
-- collisions in English sections78–82 — **0**
-- translated / source-checked Part014 English — **0/5 / 0/5**
-- English literary prose drafted during setup — **0**
-- active English controls — `translations/en/PART_014_TRANSLATION_PLAN.md`, `PART_014_GLOSSARY.md`, `PART_014_PROGRESS.md`
+- English planning/setup — **COMPLETE / PASS**
+- Part014 English batches — **E75–E79 / 5**
+- maintained English files — **5/5**
+- translated / source-checked — **5/5 / 5/5**
+- source coverage — **scans391–420 / all 30 physical pages**
+- source-boundary marker parity — **25/25 / PASS**
+- scan403 internal printed396→397 provenance — **PRESERVED**
+- unresolved batch-level English holds — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- frozen Parts001–013 English body edits — **0**
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- Part015 canonical records created — **0**
-- exact next — **E75 draft + source-check — section78 / scans391–395**
+- Part015 translation / paraphrase / canonical records — **0 / 0 / 0**
+- exact next — **Part014 whole-Part English glossary reconciliation across E75–E79**
 
 Do not reopen frozen Parts001–013 merely to advance Part014.
 ## Part014 Pass1 Batch3 completion checkpoint
