@@ -61,29 +61,28 @@ Therefore later printed folios must be read directly from each rendered source i
 
 ## Current gate
 
-Part 014 is **TAMIL ASSEMBLED / AUDITED / CLOSED — 5/5 VERIFIED**.
+Part 014 is **ENGLISH PLANNING / SETUP — COMPLETE / PASS; E75 NEXT**.
 
 - Parts001–013 — **FINAL CLOSED / FROZEN**
-- canonical records — **30/30**
-- Pass1 — **COMPLETE / PASS — 30/30**
-- Pass2A — **COMPLETE / PASS — 30/30 — 22 corrections**
-- Pass2B — **COMPLETE / PASS — 30/30 — 13 additional corrections**
-- Pass3 — **COMPLETE / PASS — 30/30 — 0 textual corrections**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
-- Tamil archival-ready — **PASS / CLOSED**
-- textual status — **30/30 verified**
+- canonical Tamil — **30/30 verified**
 - visual fidelity — **30/30 verified**
+- Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **sections78–82 / 5/5 VERIFIED / PASS / CLOSED**
-- assembled Tamil audit — **EXACT canonical regeneration / PASS**
-- omissions / duplicates / unsupported body insertion / audit-note leakage — **0 / 0 / 0 / 0**
+- assembled Tamil audit — **5/5 EXACT / PASS**
+- prior English source-check frontier — **E74**
+- source-check controls E1–E74 — **contiguous / 74**
+- missing E1–E74 controls — **0**
+- reserved Part014 English sequence — **E75–E79 / 5**
+- maintained English section frontier before setup — **77**
+- reserved Part014 English section range — **78–82**
+- collisions in English sections78–82 — **0**
+- translated / source-checked Part014 English — **0/5 / 0/5**
+- English literary prose drafted during setup — **0**
+- active English controls — `translations/en/PART_014_TRANSLATION_PLAN.md`, `PART_014_GLOSSARY.md`, `PART_014_PROGRESS.md`
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - Part015 canonical records created — **0**
-- English — **NOT STARTED**
-- durable assembly validation — `PART_014_ASSEMBLED_TAMIL_VALIDATION.md`
-- exact next — **Part014 English translation planning/setup only**
+- exact next — **E75 draft + source-check — section78 / scans391–395**
 
 Do not reopen frozen Parts001–013 merely to advance Part014.
 ## Part014 Pass1 Batch3 completion checkpoint
