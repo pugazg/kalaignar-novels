@@ -145,6 +145,20 @@ All Part014 scans391–420 are textually verified through Pass2A.
 
 ## Exact next activity
 
-Proceed with **Part014 Pass2B Batch1 — scans391–400 / local pages1–10 / printed384–393**.
+Proceed with **Part014 Pass2B Batch2 — scans401–410 / local pages11–20 / observed printed folios394–404**.
 
-Process exactly **10 physical source pages**. Keep textual `status: "verified"` and `visual_fidelity: "needs-review"`. Review source-visible lexical forms, spacing, punctuation and historical/source glyph fidelity. Do not begin Pass3 in the same activity. Do not create Part015 canonical records.
+Pass2B Batch1 scans391–400 is now **COMPLETE / REVIEWED / PASS** with **5 additional corrections**. Process exactly **10 physical source pages** in Batch2. Remember scan403 is the two-folio spread carrying printed396–397. Keep textual `status: "verified"` and `visual_fidelity: "needs-review"`. Do not begin Pass3 in the same activity. Do not create Part015 canonical records.
+
+## Pass2B Batch1 checkpoint
+
+**PART014 PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- scans391–400 / local1–10 / printed384–393 — **REVIEWED / PASS**
+- additional Pass2B corrections — **5**
+- correction scans — **392, 393, 394, 400**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- durable Pass2B progress — `PART_014_PASS2B_PROGRESS.md`
+- exact next — **Part014 Pass2B Batch2 scans401–410 / local11–20 / observed printed folios394–404**
