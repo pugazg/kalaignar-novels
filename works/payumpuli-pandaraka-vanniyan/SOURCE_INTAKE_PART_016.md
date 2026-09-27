@@ -48,7 +48,7 @@ The canonical `scan_page` remains the overall scan number **451–477**.
 
 ## Current gate
 
-Part 016 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
+Part 016 is **ACTIVE / PASS1 10/27 TEXT-COMPLETE / BATCH2 NEXT**.
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf`
 - global scans — **451–477 / 27**
@@ -56,11 +56,16 @@ Part 016 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
 - incoming **450→451 — CLEAN / AUDITED / PASS**
 - outgoing split boundary — **none**
 - physical source endpoint — **scan477**
-- scan451 / local1 / printed444 — continuation of chapter72 `பகைவர் கையில் பனங்காமம்!`
-- canonical records — **0**
-- Pass1 — **NOT STARTED**
+- Pass1 canonical records — **10/27 — scans451–460**
+- Pass1 text-complete — **10/27**
+- Pass1 remaining — **17**
+- textual status — **10/10 needs-review**
+- visual fidelity — **10/10 needs-review**
+- chapter72 continuation — **scans451–454 / printed444–447; closes scan454**
+- chapter73 `திறமையை வென்ற திறமை!` — **opens scan455 / printed448; continues through scan460**
 - Parts001–015 — **FINAL CLOSED / FROZEN**
-- exact next — **Pass1 Batch1 — scans451–460 / local1–10**
+- scan461 canonical record — **NOT CREATED**
+- exact next — **Pass1 Batch2 — scans461–470 / local11–20**
 - fixed iteration — **10 physical source pages**
 
-Do not process scan461 or later in the first Part016 iteration.
+Do not process scan471 or later in Batch2.

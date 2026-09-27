@@ -456,16 +456,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 015 | 28 | 448 | — | full-page colour narrative battle illustration; no printed Tamil body / no visible folio | verified | `pages/0448-pagaivar-kaiyil-panangamam.md` |
 | 015 | 29 | 449 | 442 | chapter72 continuation after unnumbered illustration; resumes `எட்வர்ட் மேட்ஜ்`; ends at `என்` | verified | `pages/0449-pagaivar-kaiyil-panangamam.md` |
 | 015 | 30 | 450 | 443 | chapter72 continuation; resumes `வார்த்தைகள்`; ends complete sentence; outgoing 450→451 CLEAN / AUDITED / PASS | verified | `pages/0450-pagaivar-kaiyil-panangamam.md` |
-| 016 | 1 | 451 | 444 | chapter72 continuation; boundary witness only; fresh paragraph after clean 450→451 split | not-started | — |
-| 016 | 2 | 452 | — | unclassified — direct visual audit pending | not-started | — |
-| 016 | 3 | 453 | — | unclassified — direct visual audit pending | not-started | — |
-| 016 | 4 | 454 | — | unclassified — direct visual audit pending | not-started | — |
-| 016 | 5 | 455 | — | unclassified — direct visual audit pending | not-started | — |
-| 016 | 6 | 456 | — | unclassified — direct visual audit pending | not-started | — |
-| 016 | 7 | 457 | — | unclassified — direct visual audit pending | not-started | — |
-| 016 | 8 | 458 | — | unclassified — direct visual audit pending | not-started | — |
-| 016 | 9 | 459 | — | unclassified — direct visual audit pending | not-started | — |
-| 016 | 10 | 460 | — | unclassified — direct visual audit pending | not-started | — |
+| 016 | 1 | 451 | 444 | chapter72 continuation; fresh paragraph after clean 450→451 split; ends at `ஒரு நீண்ட தாழ்வாரத்தில்` | needs-review | `pages/0451-pagaivar-kaiyil-panangamam.md` |
+| 016 | 2 | 452 | 445 | chapter72 continuation; resumes `நடந்தாள் குருவிச்சி!`; ends at `மரக்கட்டையாகத்` | needs-review | `pages/0452-pagaivar-kaiyil-panangamam.md` |
+| 016 | 3 | 453 | 446 | chapter72 continuation; resumes `தகவல் தந்தான்.`; ends at `அந்தக் கூடத்தில்` | needs-review | `pages/0453-pagaivar-kaiyil-panangamam.md` |
+| 016 | 4 | 454 | 447 | chapter72 close; resumes `நின்றாள் எனினும்`; substantial intentional blank lower field | needs-review | `pages/0454-pagaivar-kaiyil-panangamam.md` |
+| 016 | 5 | 455 | 448 | chapter73 opening `திறமையை வென்ற திறமை!`; displayed number73 | needs-review | `pages/0455-thiramaiyai-vendra-thiramai.md` |
+| 016 | 6 | 456 | 449 | chapter73 continuation; bamboo-stone tactic setup; ends at `அந்தக் காட்டெருமையின் மீது` | needs-review | `pages/0456-thiramaiyai-vendra-thiramai.md` |
+| 016 | 7 | 457 | 450 | chapter73 continuation; resumes `பாய்ந்தது.`; ends at `பண்டாரகனின்` | needs-review | `pages/0457-thiramaiyai-vendra-thiramai.md` |
+| 016 | 8 | 458 | 451 | chapter73 continuation; resumes `பார்வையும்`; ambush/tactical strike; ends at `மேலும் மேலும் மூங்கில்` | needs-review | `pages/0458-thiramaiyai-vendra-thiramai.md` |
+| 016 | 9 | 459 | 452 | chapter73 continuation; English encirclement and Pandarakan speech; ends at `பண்டாரகனின் படை வீரர்கள்` | needs-review | `pages/0459-thiramaiyai-vendra-thiramai.md` |
+| 016 | 10 | 460 | 453 | chapter73 continuation; resumes `எண்ணற்றோர் பலியாயினர்.`; ends after battlefield body-search passage | needs-review | `pages/0460-thiramaiyai-vendra-thiramai.md` |
 | 016 | 11 | 461 | — | unclassified — direct visual audit pending | not-started | — |
 | 016 | 12 | 462 | — | unclassified — direct visual audit pending | not-started | — |
 | 016 | 13 | 463 | — | unclassified — direct visual audit pending | not-started | — |
