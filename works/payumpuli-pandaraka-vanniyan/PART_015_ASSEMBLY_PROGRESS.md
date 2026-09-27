@@ -4,7 +4,7 @@
 
 **PART015 ASSEMBLED TAMIL CONSTRUCTION — COMPLETE / 5 OF 5 FILES CREATED**
 
-**ASSEMBLED TAMIL VALIDATION / AUDIT — NOT STARTED / NEXT**
+**ASSEMBLED TAMIL VALIDATION / AUDIT — PASS / CLOSED**
 
 ## Authority
 
@@ -40,6 +40,6 @@ The next gate must verify:
 
 ## Exact next activity
 
-Perform **Part015 assembled Tamil validation/audit — sections83–87** and create `PART_015_ASSEMBLED_TAMIL_VALIDATION.md` only after the audit passes.
+Part015 assembled Tamil is **PASS / VERIFIED / CLOSED**.
 
-Do not begin English work or Part016 Pass1 in the same activity.
+Exact next: **Part015 English translation planning/setup**. Perform live batch/section collision checks and create controls only; do not draft English prose or begin Part016 Pass1.

@@ -109,3 +109,17 @@ Part015 is ready for assembled Tamil construction.
 Perform **Part015 assembled Tamil validation/audit** for section range **83–87**.
 
 Do not begin English translation work until assembled Tamil validation closes.
+
+## Part015 assembled Tamil validation closure
+
+**PART015 ASSEMBLED TAMIL — PASS / VERIFIED / CLOSED — 5/5.**
+
+- sections83–87 — **EXACT / PASS against verified canonical literary payloads**
+- scans421–450 — **30/30 represented exactly once**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- workflow-note leakage — **0**
+- scan439 / scan448 invented body — **0 / 0**
+- Part016 body leakage — **0**
+- durable validation — `PART_015_ASSEMBLED_TAMIL_VALIDATION.md`
+- exact next — **Part015 English translation planning/setup**
+- do not draft English prose until the setup gate completes its live collision checks

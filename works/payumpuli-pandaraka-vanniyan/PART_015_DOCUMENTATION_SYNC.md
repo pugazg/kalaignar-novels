@@ -75,3 +75,17 @@ Tamil archival-ready is already **PASS / CLOSED** and construction is already **
 - construction commit — `18b2305a710fbda8019741de29b38c1bffb545e1`
 - Part016 canonical records — **0**
 - English work — **BLOCKED UNTIL ASSEMBLED TAMIL VALIDATION CLOSES**
+
+## Part015 assembled Tamil validation closure
+
+**PART015 ASSEMBLED TAMIL — PASS / VERIFIED / CLOSED — 5/5.**
+
+- sections83–87 — **EXACT / PASS against verified canonical literary payloads**
+- scans421–450 — **30/30 represented exactly once**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- workflow-note leakage — **0**
+- scan439 / scan448 invented body — **0 / 0**
+- Part016 body leakage — **0**
+- durable validation — `PART_015_ASSEMBLED_TAMIL_VALIDATION.md`
+- exact next — **Part015 English translation planning/setup**
+- do not draft English prose until the setup gate completes its live collision checks

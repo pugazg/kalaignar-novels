@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**ACTIVE — canonical Tamil and visual verification are CLOSED; Tamil archival-ready is CLOSED; assembled Tamil construction is COMPLETE at 5/5; assembled Tamil validation/audit is NEXT.**
+**ACTIVE — canonical Tamil and visual verification are CLOSED; Tamil archival-ready is CLOSED; assembled Tamil is PASS / VERIFIED / CLOSED at 5/5; English planning/setup is NEXT.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **421–450**;
@@ -42,7 +42,7 @@ The canonical `scan_page` remains the overall scan number **421–450**.
 
 ## Current gate
 
-Part 015 is **ACTIVE / TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL CONSTRUCTED / ASSEMBLY AUDIT NEXT**.
+Part 015 is **ACTIVE / ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT**.
 
 - source split — **SUPPLIED / REGISTERED**
 - overall scans — **421–450 / 30**
@@ -54,14 +54,16 @@ Part 015 is **ACTIVE / TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL CONSTRUCTED
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil construction — **5/5 COMPLETE — sections83–87**
-- assembled Tamil validation/audit — **NOT STARTED / NEXT**
+- assembled Tamil validation/audit — **PASS / CLOSED**
+- assembled Tamil master — **5/5 VERIFIED**
 - incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- outgoing **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
 - multipart split boundaries — **15/15 AUDITED / COMPLETE**
 - Part016 canonical records — **0**
-- exact next — **Part015 assembled Tamil validation/audit — sections83–87**
+- Part016 Pass1 — **NOT STARTED / BLOCKED**
+- exact next — **Part015 English translation planning/setup**
 
-Do not create Part016 canonical records and do not begin English work until Part015 assembled Tamil validation closes.
+Planning/setup must perform live English batch-number/source-check and maintained-English section collision checks before reserving any Part015 English sequence. Do not draft English prose in that setup gate.
 
 ## Incoming boundary checkpoint
 
@@ -405,3 +407,17 @@ Do not create Part016 canonical records and do not begin English work until Part
 - Part016 body import — **0**
 - construction commit — `18b2305a710fbda8019741de29b38c1bffb545e1`
 - exact next — **audit and validate assembled Tamil sections83–87**
+
+## Part015 assembled Tamil validation checkpoint
+
+**PART015 ASSEMBLED TAMIL — PASS / VERIFIED / CLOSED — 5/5.**
+
+- sections83–87 — **5/5 EXACT / PASS against canonical literary payloads**
+- canonical scans represented — **421–450 / 30 / exactly once**
+- omissions / duplicates — **0 / 0**
+- scan439 / scan448 invented literary body — **0 / 0**
+- workflow-note leakage — **0**
+- unsupported Tamil insertion/normalization — **0**
+- Part014 / Part016 body leakage — **0 / 0**
+- durable validation — `PART_015_ASSEMBLED_TAMIL_VALIDATION.md`
+- exact next — **Part015 English translation planning/setup**
