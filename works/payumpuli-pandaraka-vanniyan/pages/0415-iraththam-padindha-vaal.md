@@ -6,18 +6,18 @@ printed_page: 409
 work: "payumpuli-pandaraka-vanniyan"
 section: "இரத்தம் படிந்த வாள்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf"
-transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans411–420"
+transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch scans411–420; formal Part014 Pass 2A reviewed"
 ---
 
 # இரத்தம் படிந்த வாள்!
 
 ## Source transcription
 
-“அழகானவளே! என் அன்புக்குரியளே! என் மனக் கோட்டையில் இடி விழுந்து தூள் தூளாகச் சிதறிப் போய், இப்போது நானே ஒரு குட்டிச் சுவராகக் காட்சியளித்துக் கொண்டிருக்கிறேன். வெள்ளைக்காரர்கள் எனக்கு மகுடம் சூட்டுகிற விழா நடைபெறும் என்று எதிர்பார்த்துக் காத்திருந்த எனக்கு முன்னால் விக்கிரமராஜசிங்கனும், பண்டாரக வன்னியனும், அந்தக் குட்டி குருவிச்சி நாச்சியும் எடுக்கிற வெற்றி விழாவா? மார்த்தனி! அந்த விழாவை அமங்கலவிழாவாக மாற்றிட நீதான் ஒரு யோசனை சொல்ல வேண்டும்.”
+“அழகானவளே! என் அன்புக்குரியளே! என் மனக் கோட்டையில் இடி விழுந்து தூள் தூளாகச் சிதறிப் போய், இப்போது நானே ஒரு குட்டிச் சுவராகக் காட்சியளித்துக் கொண்டிருக்கிறேன். வெள்ளைக்காரர்கள் எனக்கு மகுடம் சூட்டுகிற விழா நடைபெறும் என்று எதிர் பார்த்துக் காத்திருந்த எனக்கு முன்னால் விக்கிரமராஜசிங்கனும், பண்டாரக வன்னியனும், அந்தக் குட்டி குருவிச்சி நாச்சியும் எடுக்கிற வெற்றி விழாவா? மார்த்தனி! அந்த விழாவை அமங்கலவிழாவாக மாற்றிட நீதான் ஒரு யோசனை சொல்ல வேண்டும்.”
 
 பிலிமதளாவை, வெளுத்துப் போன முகத்துடன், மார்த்தனியின் உதடுகள் உதிர்க்கும் பதில் என்ன என்று ஆவலுடன் கவனித்தார்.
 
@@ -33,4 +33,16 @@ transcription_method: "direct source-pixel transcription; Part014 Pass 1 batch s
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 415; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 409; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+
+## Formal Part014 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part014 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `எதிர்பார்த்துக் காத்திருந்த` → **`எதிர் பார்த்துக் காத்திருந்த`** — source spacing / word-boundary correction;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 415; பகுதி: 014; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 409; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
