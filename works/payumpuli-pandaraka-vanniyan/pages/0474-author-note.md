@@ -1,0 +1,33 @@
+---
+scan_page: 474
+part: 16
+part_page: 24
+printed_page: 467
+work: "payumpuli-pandaraka-vanniyan"
+section: "குறிப்பு"
+page_type: "author-note"
+status: "needs-review"
+visual_fidelity: "needs-review"
+language: "ta"
+source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 scans471–477"
+---
+
+# குறிப்பு
+
+## Source transcription
+
+குறிப்பு:-
+
+பண்டாரக வன்னியனின் மரணம் இயற்கையானதா? அல்லது களத்தில் மாண்டானா? இதனை வரலாறு தெளிவாகக் குறிப்பிடவில்லை! ஆனால் ஒன்று; அவன் இறுதி வரையில் அந்நியரை எதிர்த்துப் போராடிக் கொண்டிருந்தான். எனவே இந்தத் தொடர்கதைக்கு நான் எழுதியுள்ள “முகப்புரை” யைத்தான் இக்கதையின் முடிவுரையாக வாசகர்கள் மீண்டும் ஒருமுறை படித்துப் பார்த்துக் கொள்ளவேண்டும் எனக் கேட்டுக் கொள்கிறேன்.
+
+மு. க.
+
+## Pass 1 notes
+
+- printed page **467**; post-story author note after `(முற்றும்)` on scan473
+- source-visible heading `குறிப்பு:-` and signature `மு. க.` retained
+- substantial intentional blank lower field preserved
+- Pass1 textual status remains **needs-review** pending Pass2A; visual fidelity remains **needs-review**
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 474; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 467; PASS 1 TEXT-COMPLETE / textual needs-review / visual needs-review -->
