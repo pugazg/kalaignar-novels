@@ -34,24 +34,21 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 | boundary witnesses available | **PASS** |
 | boundary classifications | **PASS — 15/15 AUDITED / COMPLETE** |
 
-## Current authoritative frontier — Part015 E81 next
+## Current authoritative frontier — Part015 E82 next
 
 - Parts001–014 — **FINAL CLOSED / FROZEN**
 - Part015 canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
 - assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
 - English planning/setup — **COMPLETE / PASS**
-- reserved Part015 batches — **E80–E84 / 5**
 - E80 / section83 / scans421–426 — **SOURCE-CHECKED / COMPLETE**
-- maintained English section83 — **CREATED / SOURCE-CHECKED**
-- E80 literary blocks / boundary markers — **41/41 / 5/5 PASS**
-- E80 English source-check refinements — **1**
-- E80 omissions / duplicates / unsupported insertion — **0 / 0 / 0**
-- E81–E84 — **NOT STARTED**
-- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
+- E81 / section84 / scans427–432 — **SOURCE-CHECKED / COMPLETE**
+- maintained English sections83–84 — **CREATED / SOURCE-CHECKED**
+- E81 literary blocks / boundaries — **37/37 / 5/5 PASS**
+- E81 English source-check refinements — **0**
+- E82–E84 — **NOT STARTED**
 - scan439 / scan448 — **illustration-only / no English body**
 - Part016 — **SUPPLIED / REGISTERED / WAITING; 0 canonical records; Pass1 BLOCKED**
-- exact next — **E81 draft + source-check — section84 / scans427–432**
+- exact next — **E82 draft + source-check — section85 / scans433–437**
 
 ## Methodology correction
 
