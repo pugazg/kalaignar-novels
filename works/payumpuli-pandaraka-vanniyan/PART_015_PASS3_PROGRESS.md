@@ -120,6 +120,23 @@ Textual `status` remains `verified`; `visual_fidelity` remains `needs-review` un
 
 ## Exact next activity
 
-Perform **Part015 Part audit** across canonical scans421–450 and Part015 page-map rows.
+Perform **Part015 final metadata/status synchronization**.
 
-Verify canonical inventory, scan/local/printed mapping including the unnumbered illustration scans439 and448, chapter structure, continuation locks, correction accounting, boundary state and unresolved-item counts. Do not promote `visual_fidelity` in the same audit gate.
+Promote only `visual_fidelity` from `needs-review` to `verified` across the 30 audited Part015 canonical records. Textual `status` is already `verified`.
+
+## Part015 Part-audit checkpoint
+
+**PART015 PART AUDIT — PASS / COMPLETE.**
+
+- canonical inventory — **30/30**
+- page-map rows — **30/30**
+- textual status — **30/30 verified**
+- visual fidelity before final sync — **30/30 needs-review**
+- Pass1 / Pass2A / Pass2B / Pass3 unresolved items — **0 / 0 / 0 / 0**
+- unnumbered illustration scans — **439, 448**
+- internal pagination / chapter-structure mismatches — **0**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- Part016 canonical records created — **0**
+- durable audit — `PART_015_AUDIT.md`
+- exact next — **Part015 final metadata/status synchronization**

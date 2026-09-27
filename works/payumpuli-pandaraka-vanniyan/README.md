@@ -2896,3 +2896,20 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Part016 canonical records created — **0**
 - durable progress — `PART_015_PASS3_PROGRESS.md`
 - exact next — **Part015 Part audit**
+
+## Part015 Part-audit checkpoint
+
+**PART015 PART AUDIT — PASS / COMPLETE.**
+
+- canonical inventory — **30/30**
+- page-map rows — **30/30**
+- textual status — **30/30 verified**
+- visual fidelity before final sync — **30/30 needs-review**
+- Pass1 / Pass2A / Pass2B / Pass3 unresolved items — **0 / 0 / 0 / 0**
+- unnumbered illustration scans — **439, 448**
+- internal pagination / chapter-structure mismatches — **0**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- Part016 canonical records created — **0**
+- durable audit — `PART_015_AUDIT.md`
+- exact next — **Part015 final metadata/status synchronization**
