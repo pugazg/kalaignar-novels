@@ -1,78 +1,58 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part014 whole-Part English glossary reconciliation
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part015 Pass1 Batch1 scans421–430
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Frozen / authoritative state
+## Frozen state
 
-Parts **001–013 are FINAL CLOSED / FROZEN**.
+Parts **001–014 are FINAL CLOSED / FROZEN**.
 
-Part014 Tamil:
-- canonical scans391–420 — **30/30 verified**
-- visual fidelity — **30/30 verified**
-- assembled Tamil — **sections78–82 / 5/5 VERIFIED / CLOSED**
-- assembled Tamil validation — **5/5 EXACT / PASS**
-- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, release records or final-closure records merely to advance Part015.
 
-Do not reopen canonical or assembled Tamil merely to normalize English.
+## Part015 source
 
-## Part014 English batch closure
+`TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf`
 
-Planning/setup — **COMPLETE / PASS**.
+- file size — **30,306,277 bytes**
+- SHA-256 — `2efbc6088e061e4d145a8f2bc9c63936ef3e20ea6e63e8734edc88507e5c37a0`
+- global scans — **421–450 / 30**
+- local pages — **1–30**
+- controlling representation — **direct rendered source pixels**
+- canonical records — **0**
+- Pass1 — **NOT STARTED**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — PENDING direct audit**
+- first visible structure — displayed chapter68 `ஒரு பெண்ணின் பிராயச்சித்தம்!`
 
-Source-checked batches:
-- **E75** — section78 / scans391–395 — `translations/en/sections/78-the-disguised-physician.md` — **SOURCE-CHECKED / COMPLETE**
-- **E76** — section79 / scans396–401 — `translations/en/sections/79-the-war-drum-thundered.md` — **SOURCE-CHECKED / COMPLETE**
-- **E77** — section80 / scans402–408 — `translations/en/sections/80-battle-within-kandy.md` — **SOURCE-CHECKED / COMPLETE**
-- **E78** — section81 / scans409–414 — `translations/en/sections/81-the-white-flag-and-the-victory-celebration.md` — **SOURCE-CHECKED / COMPLETE**
-- **E79** — section82 / scans415–420 — `translations/en/sections/82-the-bloodstained-sword.md` — **SOURCE-CHECKED / COMPLETE**
+## Part014 closure authority
 
-Current English state:
-- maintained files — **5/5**
-- translated / source-checked — **5/5 / 5/5**
-- source coverage — **391–420 / 30 physical pages**
-- source-boundary marker parity — **25/25 / PASS**
-- scan403 internal printed396→397 marker — **preserved**
-- omissions / duplicates / unsupported English insertion — **0 / 0 / 0**
-- unresolved batch-level holds — **0**
-- frozen Parts001–013 English body edits — **0**
-- Part015 translation/paraphrase/semantic completion — **0**
-
-Source-check forms used in Part014:
-- **Pandaraka Vanniyan / Pandarakan**
-- **Kuruvichchi Naachchi / Kuruvichchi Naachchiyar**
-- **Pilimathalavai**
-- **Vikrama Raja Singan**
-- **Marthani**
-- **Piyaseeli**
-- **North / Lord North**
-- **Major General Macdowall / General Macdowall**
-- **Colonel Barbut**
-- **Muthusami**
-- **Kandy / Kolumbu / Mullaitheevu**
-- **Mahawilla Ganga**
-- **Kannusami**
-- **Major Davy**
-- **Vattapelika**
-- **Madge**
-- contextual **Tamilakam**
-- source-facing **Parangi commander**
+- canonical Tamil / visual fidelity — **30/30 verified / frozen**
+- assembled Tamil — **sections78–82 / 5/5 VERIFIED / frozen**
+- E75–E79 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- durable closure — `PART_014_FINAL_CLOSURE.md`
 
 ## Exact next activity
 
-Perform **Part014 whole-Part English glossary reconciliation across E75–E79**.
+Perform **Part015 Pass1 Batch1 — scans421–430 / local pages1–10**.
 
-Check all five maintained English files and E75–E79 source-check controls for:
-- personal/place/military-name consistency;
-- chapter-title consistency;
-- source-facing forms and occurrence-sensitive distinctions;
-- boundary-marker parity;
-- unsupported external normalization;
-- accidental English drift across sections.
+Process exactly **10 physical source pages** from direct rendered source pixels.
 
-Apply only English-side corrections required by reconciliation. Do not alter verified Tamil.
+Preserve:
+- source wording, punctuation, spacing and source-visible historical glyph identity;
+- displayed chapter hierarchy;
+- printed pagination exactly as observed rather than projected;
+- paragraph/dialogue order;
+- physical page-end states;
+- intentional blank fields;
+- exact source provenance.
 
-Create `translations/en/PART_014_GLOSSARY_RECONCILIATION.md`, update Part014 English controls and the repository control documents.
+Create only Part015 canonical page records for scans421–430 and corresponding page-map/control progress. Keep textual and visual statuses in Pass1 working state.
 
-Do **not** begin English editorial review until glossary reconciliation is **RECONCILED / PASS**.
-Do not create Part015 canonical records.
+Do not begin Pass2A until full Part015 Pass1 covers all 30 scans.
+Do not create Part016 canonical records.
+Do not modify frozen Parts001–014.
