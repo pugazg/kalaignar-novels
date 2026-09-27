@@ -386,3 +386,23 @@ Do not begin E53 until E52 is **SOURCE-CHECKED / COMPLETE**.
 - frozen Parts001–013 English body changes — **0**
 - Part015 leakage — **0**
 - exact next — **E75 draft + source-check — section78 / scans391–395**
+
+## Part014 E75–E79 English batch closure
+
+**PART014 ENGLISH — E75–E79 / 5/5 SOURCE-CHECKED / COMPLETE.**
+
+- maintained English sections — **78–82 / 5**
+- E75 — scans391–395 — **PASS**
+- E76 — scans396–401 — **PASS**
+- E77 — scans402–408 — **PASS**
+- E78 — scans409–414 — **PASS**
+- E79 — scans415–420 — **PASS**
+- source coverage — **391–420 / 30 physical pages**
+- source-boundary marker parity — **25/25**
+- scan403 internal printed396→397 marker — **preserved**
+- source-check controls — **E75_SOURCE_CHECK.md through E79_SOURCE_CHECK.md**
+- unresolved source-check holds — **0**
+- Tamil edits caused by English — **0**
+- frozen Parts001–013 English body edits — **0**
+- Part015 leakage — **0**
+- next gate — **Part014 whole-Part English glossary reconciliation**
