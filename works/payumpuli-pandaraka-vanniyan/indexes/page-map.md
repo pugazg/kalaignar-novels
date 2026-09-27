@@ -1718,3 +1718,20 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - Pass2B / Pass3 — **NOT STARTED**
 - exact next — **Part014 Pass2B Batch1 scans391–400 / local1–10 / printed384–393**
 
+## Part014 Pass2B Batch1 checkpoint
+
+**PART014 PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- scans391–400 / local1–10 / printed384–393 — **REVIEWED / PASS**
+- additional source-supported corrections — **5**
+- correction scans — **392, 393, 394, 400**
+- scan392 — source `ஆமாம்- இனிமேல்` restored; `கொழுக்கும்` → **`கொழிக்கும்`**
+- scan393 — `ஏற்றுப் புறப்படு!` → **`ஏற்றுப்புறப்படு!`**
+- scan394 — horse-action phrase corrected to **`கை அசைத்து விட்டுக் குதிரையைத் தட்டி விட்டான்.`**
+- scan400 — `நல்லதாகத்தான்` → **`நல்லதாகத் தான்`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- Part015 canonical records created — **0**
+- exact next — **Part014 Pass2B Batch2 scans401–410 / local11–20 / observed printed folios394–404**
