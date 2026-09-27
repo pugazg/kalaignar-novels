@@ -42,19 +42,19 @@ The canonical `scan_page` remains the overall scan number **421–450**.
 
 ## Current gate
 
-Part 015 is **ACTIVE / E80–E81 SOURCE-CHECKED / E82 NEXT**.
+Part 015 is **FINAL CLOSED / FROZEN**.
 
-- canonical records — **30/30 verified**
-- visual fidelity — **30/30 verified**
-- assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
-- English planning/setup — **COMPLETE / PASS**
-- E80 — **SOURCE-CHECKED / COMPLETE**
-- E81 — **SOURCE-CHECKED / COMPLETE**
-- maintained English sections83–84 — **CREATED / SOURCE-CHECKED**
-- E82–E84 — **NOT STARTED**
-- Part016 canonical records — **0**
-- Part016 Pass1 — **BLOCKED**
-- exact next — **E82 draft + source-check — section85 / scans433–437**
+- canonical records — **30/30 verified / frozen**
+- visual fidelity — **30/30 verified / frozen**
+- assembled Tamil — **sections83–87 / 5/5 VERIFIED / frozen**
+- English E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial / bilingual / release / release-ready sync — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved Part015 blockers — **0**
+- durable closure — `PART_015_FINAL_CLOSURE.md`
+- Part016 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- exact next — **Part016 Pass1 Batch1 — scans451–460 / local1–10**
 
 ## Incoming boundary checkpoint
 

@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**REGISTERED — split identity and global mapping are durable; incoming boundary witness audited; Part016 Pass1 remains not started.**
+**ACTIVE / AUTHORIZED — split identity and global mapping are durable; incoming boundary audited; Part015 is FINAL CLOSED / FROZEN; Part016 Pass1 Batch1 is NEXT.**
 
 - local PDF pages: **27**;
 - canonical overall scans: **451–477**;
@@ -48,14 +48,19 @@ The canonical `scan_page` remains the overall scan number **451–477**.
 
 ## Current gate
 
-Part 016 source split: **SUPPLIED / REGISTERED / WAITING**.
+Part 016 is **NEXT ACTIVE / AUTHORIZED / NOT STARTED**.
 
-Boundary-only direct inspection has established:
-
-- scan451 / local1 / printed444 — body continuation of chapter72 `பகைவர் கையில் பனங்காமம்!`
-- no new displayed chapter heading at scan451
+- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf`
+- global scans — **451–477 / 27**
+- local pages — **1–27**
 - incoming **450→451 — CLEAN / AUDITED / PASS**
-- scan451 canonical record — **NOT CREATED**
-- Part016 Pass1 — **NOT STARTED**
+- outgoing split boundary — **none**
+- physical source endpoint — **scan477**
+- scan451 / local1 / printed444 — continuation of chapter72 `பகைவர் கையில் பனங்காமம்!`
+- canonical records — **0**
+- Pass1 — **NOT STARTED**
+- Parts001–015 — **FINAL CLOSED / FROZEN**
+- exact next — **Pass1 Batch1 — scans451–460 / local1–10**
+- fixed iteration — **10 physical source pages**
 
-This Part waits behind the active Part015 maintained frontier. Do not create Part016 page records until Part015 reaches final closure and Part016 is explicitly activated.
+Do not process scan461 or later in the first Part016 iteration.

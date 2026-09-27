@@ -77,16 +77,17 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 
 ## Current processing frontier
 
-- Parts001–014 — **FINAL CLOSED / FROZEN**
-- Part015 scans421–450 — **canonical Tamil 30/30 verified / visual fidelity 30/30 verified**
-- assembled Tamil — **sections83–87 / 5/5 VERIFIED / CLOSED**
-- English planning/setup — **COMPLETE / PASS**
-- E80 / section83 / scans421–426 — **SOURCE-CHECKED / COMPLETE**
-- E81 / section84 / scans427–432 — **SOURCE-CHECKED / COMPLETE**
-- maintained English sections83–84 — **CREATED / SOURCE-CHECKED**
-- E82–E84 — **NOT STARTED**
-- Part016 scans451–477 — **SUPPLIED / REGISTERED / WAITING; 0 canonical records; Pass1 BLOCKED**
-- exact next — **E82 draft + source-check — section85 / scans433–437**
+- Parts001–015 — **FINAL CLOSED / FROZEN**
+- Part015 canonical Tamil / visual fidelity — **30/30 verified / frozen**
+- Part015 assembled Tamil — **sections83–87 / 5/5 VERIFIED / frozen**
+- Part015 English E80–E84 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
+- Part015 final closure — **PASS / CLOSED / FROZEN**
+- multipart split boundaries — **15/15 AUDITED / COMPLETE**
+- Part016 scans451–477 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- Part016 canonical records — **0**
+- incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
+- complete-source endpoint — **scan477**
+- exact next — **Part016 Pass1 Batch1 — scans451–460 / local1–10**
 
 ## User-supplied descriptive note
 
