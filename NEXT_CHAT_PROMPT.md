@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part014 English translation planning/setup
+# NEXT CHAT PROMPT — பாயும்புலி பண்டாரக வன்னியன் / Part014 E75 draft + source-check
 
 Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `works/payumpuli-pandaraka-vanniyan/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,55 +6,78 @@ Continue directly in `pugazg/kalaignar-novels`, branch `main`, active work `work
 
 Parts **001–013 are FINAL CLOSED / FROZEN**.
 
-Part014 Tamil is now also a closed authoritative layer. Do not reopen its canonical Tamil or assembled Tamil merely for stylistic polishing during English planning.
-
-## Part014 Tamil authority
-
-Source:
-- `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_014_pages_391-420.pdf`
-- SHA-256 — `0111fbe0c8b8356f1735320bcf36a7354b46bc375c7e049dae5564b81f82aedf`
-
-Canonical:
-- scans — **391–420 / 30**
-- observed printed folios — **384–414**
-- scan403 — **two-folio spread / printed396–397**
-- textual status — **30/30 verified**
+Part014 Tamil is also authoritative and closed:
+- canonical Tamil — **30/30 verified**
 - visual fidelity — **30/30 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
 - Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **sections78–82 / 5/5 VERIFIED / CLOSED**
+- assembled validation — **5/5 EXACT / PASS**
 
-Assembled Tamil:
-- section range — **78–82**
-- files — **5/5 verified**
-- canonical regeneration comparison — **5/5 EXACT / PASS**
-- omissions / duplicates / unsupported insertion / note leakage — **0 / 0 / 0 / 0**
-- durable validation — `PART_014_ASSEMBLED_TAMIL_VALIDATION.md`
+Do not reopen canonical or assembled Tamil merely to polish English.
 
-Sections:
-1. section78 — chapter63 `மாறுவேட மருத்துவர்!` — scans391–395
-2. section79 — chapter64 `அதிர்ந்தது போர்முரசு!` — scans396–401
-3. section80 — chapter65 `கண்டிக்குள் களம்!` — scans402–408
-4. section81 — chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!` — scans409–414
-5. section82 — chapter67 `இரத்தம் படிந்த வாள்!` — scans415–420
+## Part014 English planning state
 
-Boundary state:
+- English planning/setup — **COMPLETE / PASS**
+- prior source-check frontier — **E74**
+- source-check controls E1–E74 — **contiguous / 74**
+- missing E1–E74 controls — **0**
+- reserved Part014 English sequence — **E75–E79 / 5**
+- prior maintained English section frontier — **77**
+- reserved maintained English section range — **78–82**
+- section collisions in 78–82 — **0**
+- translated / source-checked Part014 English — **0/5 / 0/5**
+- English prose drafted in setup gate — **0**
 - incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- Part015 canonical records — **0**
+- Part015 body leakage / canonical records — **0 / 0**
+
+Active controls:
+- `translations/en/PART_014_TRANSLATION_PLAN.md`
+- `translations/en/PART_014_GLOSSARY.md`
+- `translations/en/PART_014_PROGRESS.md`
+
+## Reserved batches
+
+- **E75** — Tamil section78 / scans391–395 — working title **The Disguised Physician!**
+- **E76** — Tamil section79 / scans396–401 — working title **The War Drum Thundered!**
+- **E77** — Tamil section80 / scans402–408 — working title **Battle Within Kandy!**
+- **E78** — Tamil section81 / scans409–414 — working title **The White Flag—and the Victory Celebration!**
+- **E79** — Tamil section82 / scans415–420 — working title **The Bloodstained Sword!**
+
+## Maintained English locks
+
+Carry forward established forms where the same referents recur:
+- **Pandaraka Vanniyan / Pandarakan**
+- **Kuruvichchi Naachchi / Kuruvichchi Naachchiyar**
+- **Pilimathalavai**
+- **Vikrama Raja Singan**
+- **Marthani**
+- **Piyaseeli**
+- **North / Lord North**
+- **Major General Macdowall / General Macdowall**
+- **Colonel Barbut**
+- **Muthusami**
+- **Kandy**
+- **Kolumbu**
+- **Mullaitheevu**
+
+Part014-only/source-facing forms such as `மகாவில்லா கங்கா`, `வட்டபேலிகா`, `மேட்ஜ் / மேட்ஜின்`, and `கண்ணுசாமி` remain source-check controlled. Do not normalize them from outside sources.
 
 ## Exact next activity
 
-Perform **Part014 English translation planning/setup only**.
+Perform **E75 draft + source-check — Tamil section78 / scans391–395**.
 
-Before reserving English files:
-- inspect the live maintained-English inventory;
-- determine the next available Part014 English batch/section range without collision;
-- reconcile the existing glossary / translation conventions used by Parts001–013;
-- create/update planning, glossary and English progress controls as needed;
-- map the five verified Tamil sections78–82 to the proposed English units.
+Translate only from verified `sections/78-maaruveda-maruththuvar.md` and its canonical source support.
 
-**Do not draft English prose in the setup activity.**
+Requirements:
+- preserve narrator/character attribution, dialogue structure, source intensity and the disguise-reveal sequence;
+- use maintained project names/forms exactly where already fixed;
+- preserve source-page boundary provenance in non-rendering comments;
+- do not add translator commentary, explanatory glosses or outside historical normalization;
+- create the maintained English section `translations/en/sections/78-the-disguised-physician.md`;
+- create `translations/en/E75_SOURCE_CHECK.md`;
+- complete source-check in the same activity and update Part014 English controls.
+
+Do **not** begin E76 until E75 is **SOURCE-CHECKED / COMPLETE**.
+Do not modify canonical or assembled Tamil.
 Do not create Part015 canonical records.
-Do not modify frozen Parts001–013 or verified Part014 Tamil body/assembly.
