@@ -17,7 +17,7 @@ Complete source: **477 physical scans / 16 supplied Parts**.
 
 > **Finish the entire maintained workflow for the active Part before beginning transcription of the next Part.**
 
-Parts001–013 are **FINAL CLOSED / FROZEN**. Part014 is **PASS1 IN PROGRESS / BATCH2 COMPLETE**. Parts015–016 remain **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**.
+Parts001–014 are **FINAL CLOSED / FROZEN**. Part015 is **TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL CONSTRUCTED 5/5 / VALIDATION NEXT**. Part016 remains **SUPPLIED / REGISTERED / WAITING BEHIND THE GLOBAL FRONTIER**.
 
 ## Tamil Part workflow
 
@@ -47,20 +47,21 @@ Audited:
 
 For 60→61, Part002 scan60 / printed50 and Part003 scan61 / printed51 were directly compared. No scan60 correction was needed and no Part003 canonical text was imported.
 
-## Current authoritative frontier — Part014
+## Current authoritative frontier — Part015 assembled Tamil audit next
 
-- Parts001–013 — **FINAL CLOSED / FROZEN**
-- Part014 Pass1 — **IN PROGRESS / BATCH2 COMPLETE**
-- canonical records — **20/30**
-- completed scans — **391–410**
-- observed printed folios through scan410 — **384–404**
-- scan403 — **two-folio spread / printed396–397**
-- textual / visual status — **needs-review / needs-review**
-- unresolved Pass1 source-reading holds — **0**
-- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **420→421 — PENDING direct audit**
-- Pass2A — **BLOCKED UNTIL PASS1 30/30**
-- exact next — **Part014 Pass1 Batch3 scans411–420**
+- Parts001–014 — **FINAL CLOSED / FROZEN**
+- Part015 canonical Tamil / visual fidelity — **30/30 verified / 30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit / final status / documentation — **PASS / CLOSED / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil construction — **5/5 COMPLETE — sections83–87**
+- assembled Tamil validation/audit — **NOT STARTED / NEXT**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- multipart split boundaries — **15/15 AUDITED / COMPLETE**
+- Part016 — **SUPPLIED / REGISTERED / WAITING; 0 canonical records; Pass1 NOT STARTED**
+- English work — **BLOCKED UNTIL ASSEMBLED TAMIL VALIDATION CLOSES**
+- exact next — **Part015 assembled Tamil validation/audit — sections83–87**
 
 ## Historical accumulated Part frontier
 

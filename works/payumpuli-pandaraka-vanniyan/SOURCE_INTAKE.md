@@ -76,22 +76,21 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 ## Current state
 
 - split registration — **16/16 COMPLETE**
+- multipart split boundaries — **15/15 AUDITED / COMPLETE**
 - Parts001–014 — **FINAL CLOSED / FROZEN**
-- Part014 canonical Tamil — **30/30 verified / frozen**
-- Part014 visual fidelity — **30/30 verified / frozen**
-- Part014 assembled Tamil — **5/5 VERIFIED / frozen**
-- Part014 E75–E79 — **5/5 SOURCE-CHECKED / COMPLETE / frozen**
-- Part014 glossary / editorial / bilingual / release / release-ready sync — **PASS / PASS / PASS / PASS / PASS**
-- Part014 final closure — **PASS / CLOSED / FROZEN**
-- English frontier — **E79 CLOSED**
-- incoming 390→391 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing 420→421 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- Part015 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
-- Part015 source — **SUPPLIED / REGISTERED / scans421–450**
-- Part015 canonical records — **0**
-- Part015 incoming 420→421 — **CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- Part015 outgoing 450→451 — **PENDING direct audit**
-- exact next — **Part015 Pass1 Batch1 scans421–430 / local pages1–10**
+- Part015 canonical Tamil — **30/30 verified**
+- Part015 visual fidelity — **30/30 verified**
+- Part015 Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part015 Part audit — **PASS / COMPLETE**
+- Part015 final metadata/status synchronization — **PASS / CLOSED**
+- Part015 documentation synchronization — **PASS / COMPLETE**
+- Part015 Tamil archival-ready — **PASS / CLOSED**
+- Part015 assembled Tamil construction — **5/5 COMPLETE — sections83–87**
+- Part015 assembled Tamil validation/audit — **NOT STARTED / NEXT**
+- Part016 — **SUPPLIED / REGISTERED / WAITING**
+- Part016 canonical records — **0**
+- Part016 Pass1 — **NOT STARTED**
+- exact next — **Part015 assembled Tamil validation/audit — sections83–87**
 
 ## Part005 final state
 
