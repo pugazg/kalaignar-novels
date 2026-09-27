@@ -426,16 +426,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 014 | 28 | 418 | 412 | chapter67 continuation; ends mid-sentence at `கொலுமண்டபத்திற்குள்` | verified | `pages/0418-iraththam-padindha-vaal.md` |
 | 014 | 29 | 419 | 413 | chapter67 continuation; resumes `நுழைந்தனர்.`; ends at `பீடத்திலிருக்கும்` | verified | `pages/0419-iraththam-padindha-vaal.md` |
 | 014 | 30 | 420 | 414 | chapter67 continuation; substantial intentional blank lower field; outgoing 420→421 clean chapter boundary audited / pass | verified | `pages/0420-iraththam-padindha-vaal.md` |
-| 015 | 1 | 421 | 415 | chapter68 opening `ஒரு பெண்ணின் பிராயச்சித்தம்!`; displayed number68; ends mid-sentence at `எனத் தெரியாமலே` | needs-review | `pages/0421-oru-pennin-piraayachchiththam.md` |
-| 015 | 2 | 422 | 416 | chapter68 continuation; resumes `மாளிகையின்`; ends at `மொட்டைத்` | needs-review | `pages/0422-oru-pennin-piraayachchiththam.md` |
-| 015 | 3 | 423 | 417 | chapter68 continuation; resumes `தலையைத்`; physical page ends after complete dialogue question | needs-review | `pages/0423-oru-pennin-piraayachchiththam.md` |
-| 015 | 4 | 424 | 418 | chapter68 continuation; ends mid-sentence at `ஒரு பீடத்தில்` | needs-review | `pages/0424-oru-pennin-piraayachchiththam.md` |
-| 015 | 5 | 425 | 419 | chapter68 continuation; resumes `உட்கார்ந்திருந்த`; ends at `மன்னிப்புக் கேட்டுக்` | needs-review | `pages/0425-oru-pennin-piraayachchiththam.md` |
-| 015 | 6 | 426 | 420 | chapter68 close; resumes `கொண்டிருக்கிறேன்.`; substantial intentional blank lower field | needs-review | `pages/0426-oru-pennin-piraayachchiththam.md` |
-| 015 | 7 | 427 | 421 | chapter69 opening `மனத்தை மாற்றிய மடல்!`; displayed number69 | needs-review | `pages/0427-manaththai-maatriya-madal.md` |
-| 015 | 8 | 428 | 422 | chapter69 continuation; letter block; ends mid-sentence at `கொண்டிருக்கிறார்களே` | needs-review | `pages/0428-manaththai-maatriya-madal.md` |
-| 015 | 9 | 429 | 423 | chapter69 continuation; resumes `தவிர,`; ends after complete exclamation at `காட்டலாம்!` | needs-review | `pages/0429-manaththai-maatriya-madal.md` |
-| 015 | 10 | 430 | 424 | chapter69 continuation; ends dialogue at `கடிதமா? நானா? உனக்கு எழுதினேனா?` | needs-review | `pages/0430-manaththai-maatriya-madal.md` |
+| 015 | 1 | 421 | 415 | chapter68 opening `ஒரு பெண்ணின் பிராயச்சித்தம்!`; displayed number68; ends mid-sentence at `எனத் தெரியாமலே` | verified | `pages/0421-oru-pennin-piraayachchiththam.md` |
+| 015 | 2 | 422 | 416 | chapter68 continuation; resumes `மாளிகையின்`; ends at `மொட்டைத்` | verified | `pages/0422-oru-pennin-piraayachchiththam.md` |
+| 015 | 3 | 423 | 417 | chapter68 continuation; resumes `தலையைத்`; physical page ends after complete dialogue question | verified | `pages/0423-oru-pennin-piraayachchiththam.md` |
+| 015 | 4 | 424 | 418 | chapter68 continuation; ends mid-sentence at `ஒரு பீடத்தில்` | verified | `pages/0424-oru-pennin-piraayachchiththam.md` |
+| 015 | 5 | 425 | 419 | chapter68 continuation; resumes `உட்கார்ந்திருந்த`; ends at `மன்னிப்புக் கேட்டுக்` | verified | `pages/0425-oru-pennin-piraayachchiththam.md` |
+| 015 | 6 | 426 | 420 | chapter68 close; resumes `கொண்டிருக்கிறேன்.`; substantial intentional blank lower field | verified | `pages/0426-oru-pennin-piraayachchiththam.md` |
+| 015 | 7 | 427 | 421 | chapter69 opening `மனத்தை மாற்றிய மடல்!`; displayed number69 | verified | `pages/0427-manaththai-maatriya-madal.md` |
+| 015 | 8 | 428 | 422 | chapter69 continuation; letter block; ends mid-sentence at `கொண்டிருக்கிறார்களே` | verified | `pages/0428-manaththai-maatriya-madal.md` |
+| 015 | 9 | 429 | 423 | chapter69 continuation; resumes `தவிர,`; ends after complete exclamation at `காட்டலாம்!` | verified | `pages/0429-manaththai-maatriya-madal.md` |
+| 015 | 10 | 430 | 424 | chapter69 continuation; ends dialogue at `கடிதமா? நானா? உனக்கு எழுதினேனா?` | verified | `pages/0430-manaththai-maatriya-madal.md` |
 | 015 | 11 | 431 | 425 | chapter69 continuation; ends mid-sentence at `உரக்க` | needs-review | `pages/0431-manaththai-maatriya-madal.md` |
 | 015 | 12 | 432 | 426 | chapter69 close; resumes `ஒலித்தன.`; substantial intentional blank lower field | needs-review | `pages/0432-manaththai-maatriya-madal.md` |
 | 015 | 13 | 433 | 427 | chapter70 opening `தோட்டத்தில் கேட்ட ஒலி!`; displayed number70; ends mid-dialogue at `நான்` | needs-review | `pages/0433-thottaththil-ketta-oli.md` |
@@ -1891,3 +1891,24 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - audited multipart split boundaries — **15/15 COMPLETE**
 - durable audit — `PART_015_BOUNDARY_AUDIT_450_451.md`
 - exact next — **Part015 Pass2A Batch1 scans421–430 / local1–10 / printed415–424**
+
+## Part015 Pass2A Batch1 checkpoint
+
+**PART015 PASS 2A — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- scans421–430 / local1–10 / printed415–424 — **REVIEWED / PASS**
+- textual status — **10/30 verified / 20/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- Batch1 corrections — **3**
+- correction scans — **422, 423, 428**
+- scan422 — `நிறம்பியிருந்ததை` → **`நிரம்பியிருந்ததை`**
+- scan423 — `வட்டமிட்டன` → **`வட்ட மிட்டன`**
+- scan428 — `முடிவெடுத்துவிட்டார்களாம்` → **`முடிவெடுத்து விட்டார்களாம்`**
+- scans421, 424–427, 429–430 — **no canonical-body correction**
+- unresolved textual questions — **0**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- Part016 canonical records created — **0**
+- Pass2B / Pass3 — **NOT STARTED**
+- durable progress — `PART_015_PASS2A_PROGRESS.md`
+- exact next — **Part015 Pass2A Batch2 scans431–440 / local11–20**

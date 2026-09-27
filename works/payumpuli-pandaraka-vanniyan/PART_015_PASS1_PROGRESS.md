@@ -142,9 +142,9 @@ Frozen Parts001–014 canonical Tamil, assembled Tamil, maintained English, glos
 
 ## Exact next activity
 
-Perform **Part015 Pass2A Batch1 — scans421–430 / local pages1–10 / printed415–424**.
+Perform **Part015 Pass2A Batch2 — scans431–440 / local pages11–20**.
 
-Process exactly **10 physical Part015 source pages** in the direct textual source-fidelity review pass. The outgoing **450→451** boundary is now **CLEAN / AUDITED / PASS**; all **15/15** multipart split boundaries are audited. Do not create Part016 canonical records while Part015 remains active.
+Pass2A Batch1 is complete at **10/30 reviewed** with **3 source-backed corrections**. Process exactly **10 physical Part015 source pages** in Batch2 from direct rendered source pixels. Do not create Part016 canonical records while Part015 remains active.
 
 ## Outgoing boundary audit 450→451
 
@@ -160,3 +160,19 @@ Process exactly **10 physical Part015 source pages** in the direct textual sourc
 - durable audit — `PART_015_BOUNDARY_AUDIT_450_451.md`
 - Pass2A — **NOT STARTED / UNBLOCKED**
 - exact next — **Part015 Pass2A Batch1 scans421–430 / local1–10 / printed415–424**
+
+## Part015 Pass2A Batch1 checkpoint
+
+**PART015 PASS 2A — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- scans421–430 / local1–10 / printed415–424 — **REVIEWED / PASS**
+- corrections — **3** on scans **422, 423, 428**
+- textual status — **10/30 verified / 20/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- unresolved textual questions — **0**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- multipart split boundaries — **15/15 AUDITED / COMPLETE**
+- Part016 canonical records created — **0**
+- durable progress — `PART_015_PASS2A_PROGRESS.md`
+- exact next — **Part015 Pass2A Batch2 scans431–440 / local11–20**

@@ -3098,3 +3098,19 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Pass2A — **NOT STARTED / UNBLOCKED**
 - Parts001–014 — **FINAL CLOSED / FROZEN**
 - exact next — **Part015 Pass2A Batch1 scans421–430 / local1–10 / printed415–424**
+
+## Part015 Pass2A Batch1 checkpoint
+
+**PART015 PASS 2A — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- scans421–430 / local1–10 / printed415–424 — **REVIEWED / PASS**
+- corrections — **3** on scans **422, 423, 428**
+- textual status — **10/30 verified / 20/30 needs-review**
+- visual fidelity — **30/30 needs-review**
+- unresolved textual questions — **0**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- multipart split boundaries — **15/15 AUDITED / COMPLETE**
+- Part016 canonical records created — **0**
+- durable progress — `PART_015_PASS2A_PROGRESS.md`
+- exact next — **Part015 Pass2A Batch2 scans431–440 / local11–20**

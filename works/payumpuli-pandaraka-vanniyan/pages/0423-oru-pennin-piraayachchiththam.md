@@ -6,11 +6,11 @@ printed_page: 417
 work: "payumpuli-pandaraka-vanniyan"
 section: "ஒரு பெண்ணின் பிராயச்சித்தம்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf"
-transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans421–430"
+transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans421–430; formal Part015 Pass 2A reviewed"
 ---
 
 # ஒரு பெண்ணின் பிராயச்சித்தம்!
@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 
 “எங்கே மார்த்தனி?” என்று பரபரப்புடன் கேட்டாள் குருவிச்சி!
 
-தீங்கு புரியும் நோக்குடன் முல்லைத் தீவுக்கு வந்து பின்னர் திருந்திவிட்ட பெண்ணாகத் தன்னுடன் அன்போடு பழகிய நாட்கள் அதிகமில்லை எனினும், அதற்கிடையே அவள் தன்மீது காட்டிய பாசத்தை எண்ணிக் குருவிச்சி உணர்ச்சி வயப்பட்டிருந்தாள். அவள் அழகிய விழிகள் அந்த அறையை வட்டமிட்டன. மார்த்தனியின் பிணம் அங்கில்லை. ஆனால் அறை முழுவதும் திட்டுத் திட்டாக இரத்தம் உறைந்திருந்ததை அவர்கள் கண்டனர். மார்த்தனியின் உடல் அங்கில்லாதது கண்டு பிலிமதளாவையும் ஆச்சரியப்பட்டார். திடுக்கிட்டார்.
+தீங்கு புரியும் நோக்குடன் முல்லைத் தீவுக்கு வந்து பின்னர் திருந்திவிட்ட பெண்ணாகத் தன்னுடன் அன்போடு பழகிய நாட்கள் அதிகமில்லை எனினும், அதற்கிடையே அவள் தன்மீது காட்டிய பாசத்தை எண்ணிக் குருவிச்சி உணர்ச்சி வயப்பட்டிருந்தாள். அவள் அழகிய விழிகள் அந்த அறையை வட்ட மிட்டன. மார்த்தனியின் பிணம் அங்கில்லை. ஆனால் அறை முழுவதும் திட்டுத் திட்டாக இரத்தம் உறைந்திருந்ததை அவர்கள் கண்டனர். மார்த்தனியின் உடல் அங்கில்லாதது கண்டு பிலிமதளாவையும் ஆச்சரியப்பட்டார். திடுக்கிட்டார்.
 
 “என்ன? எல்லாம் புதிராக இருக்கிறது! எங்கே மார்த்தனியின் உடல்?”
 
@@ -45,4 +45,15 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 423; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 417; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+## Formal Part015 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against the rendered Part015 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `வட்டமிட்டன` → **`வட்ட மிட்டன`** — source spacing / word-boundary correction;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 423; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 417; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
