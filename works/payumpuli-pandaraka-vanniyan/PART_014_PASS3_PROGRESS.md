@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+**PASS 3 — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisites:
 - Part014 Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -56,10 +56,52 @@ Textual `status` remains `verified`; `visual_fidelity` remains `needs-review` un
 
 **Batch1 — PASS / 0 textual corrections / 0 unresolved visual-structural questions.**
 
+## Batch2 structural confirmation — scans401–410
+
+- observed printed folios **394–404** across 10 physical scans;
+- scan401 / printed394 closes chapter64;
+- scan402 / printed395 opens displayed chapter65 `கண்டிக்குள் களம்!`, boxed **65**;
+- scan403 is the verified **two-folio spread carrying printed396–397** with source artwork/text placement preserved;
+- scan403→404 preserves `ஆனால் மெக்டோவலின் படை` + `நுழையும்போது`;
+- scan404→405 preserves the open quotation and source-leading hyphen;
+- scan406→407 preserves `கண்டியின்` + `உதவிக்கு`;
+- scan408 / printed402 closes chapter65 with a substantial intentional blank lower field;
+- scan409 / printed403 opens displayed chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!`, boxed **66**;
+- scan410 / printed404 ends inside open dialogue at `உங்கள்`.
+
+**Batch2 — PASS / 0 textual corrections / 0 unresolved visual-structural questions.**
+
+## Batch3 structural confirmation — scans411–420
+
+- printed folios **405–414**, continuous;
+- scan410→411 open dialogue resumes at `நெஞ்சில்`;
+- scan412 ends mid-sentence at `வீரனுக்கு`;
+- scan413 resumes `அழகுமில்லை!` and ends at `சேர`;
+- scan414 resumes `அனுமதிக்கப்படுகிறார்.` and closes chapter66;
+- scan415 / printed409 opens displayed chapter67 `இரத்தம் படிந்த வாள்!`, boxed **67**;
+- scan415→416 preserves `இருப்பதை` + `உணர்ந்து கொள்ள முடிந்தது.`;
+- scan418→419 preserves `கொலுமண்டபத்திற்குள்` + `நுழைந்தனர்.`;
+- scan419→420 preserves `பீடத்திலிருக்கும்` + `வாளை`;
+- scan420 / printed414 preserves the substantial intentional blank lower field after the final visible exclamation;
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS** remains structurally consistent.
+
+**Batch3 — PASS / 0 textual corrections / 0 unresolved visual-structural questions.**
+
+## Pass3 closure decision
+
+**PART014 PASS 3 — COMPLETE / PASS — 30/30 VISUAL / STRUCTURAL REVIEWED.**
+
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- Parts001–013 body mutations — **0**
+- Part015 body / structure leakage — **0**
+
 ## Current accounting
 
-- reviewed — **10/30 — scans391–400**
-- remaining — **20/30**
+- reviewed — **30/30 — scans391–420**
+- remaining — **0**
 - Pass3 textual corrections — **0**
 - unresolved visual / structural questions — **0**
 - textual status — **30/30 verified**
@@ -70,6 +112,6 @@ Textual `status` remains `verified`; `visual_fidelity` remains `needs-review` un
 
 ## Exact next activity
 
-Perform **Part014 Pass3 Batch2 — scans401–410 / local pages11–20 / observed printed folios394–404**.
+Perform **Part014 Part audit** across canonical scans391–420 and Part014 page-map rows.
 
-Process exactly **10 physical source pages**. Remember scan403 is one physical two-folio spread carrying printed396–397. Keep textual `status: "verified"` and `visual_fidelity: "needs-review"`. Do not begin Part audit in the same activity. Do not create Part015 canonical records.
+Verify canonical inventory, scan/local/printed mapping including the scan403 two-folio anomaly, chapter structure, continuation locks, correction accounting, boundary state and unresolved-item counts. Do not promote visual fidelity in the same audit gate.
