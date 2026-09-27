@@ -162,3 +162,27 @@ Pass2B Batch1 scans391–400 is now **COMPLETE / REVIEWED / PASS** with **5 addi
 - visual fidelity — **30/30 needs-review**
 - durable Pass2B progress — `PART_014_PASS2B_PROGRESS.md`
 - exact next — **Part014 Pass2B Batch2 scans401–410 / local11–20 / observed printed folios394–404**
+
+## Part014 Pass2B Batch2 checkpoint
+
+**PART014 PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED.**
+
+- scans401–410 / local11–20 — **REVIEWED / PASS**
+- observed printed folios — **394–404**, with scan403 carrying **396–397**
+- Batch2 additional Pass2B corrections — **4**
+- cumulative Pass2B additional corrections — **9**
+- Batch2 correction scans — **402, 404, 405, 409**
+- scan402 — `உத்திரவை` → **`உத்தரவை`**
+- scan404 — `இருமாப்புடனும்` → **`இறுமாப்புடனும்`**
+- scan405 — `உங்களை கோயில்` → **`உங்களைக் கோயில்`**
+- scan409 — `பண்டாரக வன்னியனுக்கு தெரிவிக்கப்பட்டது.` → **`பண்டாரக வன்னியனுக்குத் தெரிவிக்கப்பட்டது.`**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- Part015 canonical records created — **0**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- durable progress — `PART_014_PASS2B_PROGRESS.md`
+- exact next — **Part014 Pass2B Batch3 scans411–420 / local21–30 / printed405–414**
