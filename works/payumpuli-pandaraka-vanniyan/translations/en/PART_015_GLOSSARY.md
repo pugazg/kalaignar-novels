@@ -108,3 +108,18 @@ Exact next glossary gate: carry these fixed forms into **E82**, with E82-specifi
 - Part015 forms **Oomaichchi Naachchiyar / Panangamam** — **CONFIRMED**
 - external-source normalization introduced in E83 — **0**
 - unresolved E83 glossary holds — **0**
+
+## E84 source-check decisions
+
+- `வாண்டெரி பெர்க்` → **Vanderi Berg** — source-facing Part015 form; no outside historical spelling imported
+- `எட்வர்ட் மேட்ஜ்` → **Edward Madge** — source-visible first name + maintained **Madge**
+- `மன்னார்` → **Mannar**
+- `திருகோணமலை` → **Thirukonamalai** — source-facing Part015 form
+- `யாழ்ப்பாணம்` → **Yalppanam** — source-facing Part015 form
+- `பனங்காமம்` → **Panangamam** — reconfirmed
+- chapter72 `பகைவர் கையில் பனங்காமம்!` → **Panangamam in Enemy Hands!** — **CONFIRMED**
+- scan448 — **illustration-only / no English literary body**
+- external-source normalization introduced in E84 — **0**
+- unresolved E84 glossary holds — **0**
+
+Exact next glossary gate: **whole-Part reconciliation across E80–E84**.

@@ -156,3 +156,20 @@ Do not begin E83 until E82 is **SOURCE-CHECKED / COMPLETE**.
 - omissions / duplicates / unsupported insertion — **0 / 0 / 0**
 - unresolved E83 holds — **0**
 - exact next — **E84 draft + source-check — section87 / scans447–450**
+
+## E84 source-check checkpoint
+
+**E84 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil source — section87 / scans447–450
+- maintained English — `sections/87-panangamam-in-enemy-hands.md`
+- literary blocks — **21/21**
+- source-boundary markers — **3/3 / PASS**
+- scan448 illustration-only body invention — **0**
+- outgoing **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
+- Part016 body leakage — **0**
+- unresolved E84 holds — **0**
+
+**E80–E84 — 5/5 SOURCE-CHECKED / COMPLETE.**
+
+Exact next — **Part015 whole-Part English glossary reconciliation across E80–E84**.

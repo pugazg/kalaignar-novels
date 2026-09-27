@@ -23,7 +23,7 @@
 | E81 | 84 | 427–432 | 84 | **SOURCE-CHECKED / COMPLETE** |
 | E82 | 85 | 433–437 | 85 | **SOURCE-CHECKED / COMPLETE** |
 | E83 | 86 | 438–446 | 86 | **SOURCE-CHECKED / COMPLETE** |
-| E84 | 87 | 447–450 | 87 | **NOT STARTED / NEXT** |
+| E84 | 87 | 447–450 | 87 | **SOURCE-CHECKED / COMPLETE** |
 
 ## Authority / integrity
 
@@ -49,9 +49,9 @@
 
 ## Exact next gate
 
-**E84 draft + source-check — section87 / scans447–450**.
+**Part015 whole-Part English glossary reconciliation across E80–E84**.
 
-E80–E83 are **SOURCE-CHECKED / COMPLETE**. Do not begin Part016 Pass1 until E84 and whole-Part closure gates complete.
+E80–E84 are **SOURCE-CHECKED / COMPLETE**. Do not begin Part016 Pass1 until whole-Part closure gates complete.
 
 ## E80 completion checkpoint
 
@@ -99,3 +99,18 @@ E80–E83 are **SOURCE-CHECKED / COMPLETE**. Do not begin Part016 Pass1 until E8
 - omissions / duplicates / unsupported insertion — **0 / 0 / 0**
 - unresolved holds — **0**
 - exact next — **E84 / section87 / scans447–450**
+
+## E84 completion checkpoint
+
+- E84 — **SOURCE-CHECKED / COMPLETE**
+- maintained English section87 — **CREATED / SOURCE-CHECKED**
+- scans447–450 — **COMPLETE**
+- literary blocks — **21/21**
+- boundary markers — **3/3**
+- scan448 invented body — **0**
+- outgoing 450→451 — **CLEAN CONTINUATION / AUDITED / PASS**
+- Part016 body leakage — **0**
+- unresolved holds — **0**
+
+**E80–E84 — 5/5 SOURCE-CHECKED / COMPLETE.**
+Exact next — **Part015 whole-Part English glossary reconciliation**.
