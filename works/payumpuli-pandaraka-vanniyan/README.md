@@ -2641,3 +2641,20 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
 - frozen Parts001–014 — **UNCHANGED**
 - exact next — **Part015 Pass1 Batch2 scans431–440 / local11–20; printed folios source-driven**
+
+## Part015 Pass1 Batch2 checkpoint
+
+**PART015 PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE.**
+
+- scans431–440 / local11–20 — **10/10 TEXT-COMPLETE**
+- observed printed folios — **425–433**, with scan439 unnumbered
+- canonical records — **20/30**
+- chapter69 `மனத்தை மாற்றிய மடல்!` — closes432
+- chapter70 `தோட்டத்தில் கேட்ட ஒலி!` — opens433 / closes437
+- chapter71 `இன்பம், இமைப்பொழுது!` — opens438 / continues440
+- scan439 — **full-page colour narrative illustration / no printed Tamil body / no visible folio**
+- scan440 — ends mid-dialogue at `என்று`
+- unresolved Pass1 source-reading holds — **0**
+- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
+- Parts001–014 — **FINAL CLOSED / FROZEN**
+- exact next — **Part015 Pass1 Batch3 scans441–450 / local21–30**

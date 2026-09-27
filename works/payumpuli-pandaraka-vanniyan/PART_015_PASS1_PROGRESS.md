@@ -2,13 +2,13 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/30 TEXT-COMPLETE**
+**PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE**
 
 Active Part:
 - Part015
 - overall scans **421–450**
 - local pages **1–30**
-- observed printed folios completed — **415–424**
+- observed printed folios completed — **415–433**, with scan439 an unnumbered full-page illustration
 - controlling source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf`
 - source SHA-256: `2efbc6088e061e4d145a8f2bc9c63936ef3e20ea6e63e8734edc88507e5c37a0`
 
@@ -17,15 +17,15 @@ Parts001–014 remain **FINAL CLOSED / FROZEN**.
 ## Current accounting
 
 - Part015 physical scans — **30**
-- canonical Part015 records present — **10/30 — scans421–430**
-- Pass1 text-complete — **10/30**
-- Pass1 pending — **20**
-- observed printed-folio coverage completed — **415–424**
+- canonical Part015 records present — **20/30 — scans421–440**
+- Pass1 text-complete — **20/30**
+- Pass1 pending — **10**
+- observed printed-folio coverage completed — **415–433**, with scan439 unnumbered
 - unresolved Pass1 source-reading holds — **0**
 - incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **450→451 — PENDING direct audit**
 - Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
-- current 10 canonical records:
+- current 20 canonical records:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
 
@@ -34,8 +34,8 @@ Parts001–014 remain **FINAL CLOSED / FROZEN**.
 | Batch | Global scans | Local pages | Printed pages | Status |
 |---|---:|---:|---|---|
 | 1 | 421–430 | 1–10 | 415–424 | **COMPLETE / TEXT-COMPLETE** |
-| 2 | 431–440 | 11–20 | source-driven / pending | **NOT STARTED / NEXT** |
-| 3 | 441–450 | 21–30 | source-driven / pending | **NOT STARTED** |
+| 2 | 431–440 | 11–20 | 425–433 + unnumbered scan439 | **COMPLETE / TEXT-COMPLETE** |
+| 3 | 441–450 | 21–30 | source-driven / pending | **NOT STARTED / NEXT** |
 
 ## Incoming-boundary audit
 
@@ -65,6 +65,21 @@ Audited multipart boundaries — **14 / 15**.
 - scan428 ends mid-sentence at `கொண்டிருக்கிறார்களே`; scan429 resumes `தவிர,`;
 - scan430 ends after dialogue question `கடிதமா? நானா? உனக்கு எழுதினேனா?`; no scan431 wording was imported.
 
+## Batch2 source structure
+
+- chapter69 `மனத்தை மாற்றிய மடல்!` — continues scans431–432 / printed425–426 and closes scan432;
+- scan431 ends mid-sentence at `உரக்க`; scan432 resumes `ஒலித்தன.`;
+- scan432 closes chapter69 and retains a substantial intentional blank lower field;
+- chapter70 `தோட்டத்தில் கேட்ட ஒலி!` — opens scan433 / printed427; closes scan437 / printed431;
+- scan433 ends mid-dialogue at `நான்`; scan434 resumes `நம்புகிறேன்.`;
+- scan435 ends mid-dialogue at `புத்தி`; scan436 resumes `இருக்கக்கூடாது!`;
+- scan436 ends mid-sentence at `சுதந்திரம்`; scan437 resumes `பழுதின்றி`;
+- chapter71 `இன்பம், இமைப்பொழுது!` — opens scan438 / printed432 and continues through scan440;
+- scan438 ends mid-dialogue at `எல்லாப் பகுதிகளுக்குச்`;
+- scan439 is a **full-page colour narrative illustration** with **no printed Tamil body** and **no visible printed folio**;
+- scan440 / printed433 resumes after the illustration at `செல்லுங்கள்!”` and ends mid-dialogue at `என்று`;
+- no scan441 wording was imported in Batch2.
+
 ## Source-visible forms retained for later review
 
 Pass1 preserves direct source readings without modernization. Batch1 review candidates include:
@@ -78,16 +93,27 @@ Pass1 preserves direct source readings without modernization. Batch1 review cand
 - scan429 `ஒருவரை யொருவர்`, `முணுமுணுப்பதுபோல`, `திமிரென விம்மி`, `“அசரீரி”போல`;
 - scan430 `உலவிக்கொண்டிருந்தார்கள்`, `“களுக்”`, `பொய்யாகத்தானிருக்கும்`, `வெட்கியோடச்`, `வந்து இல்லையே`.
 
+Batch2 review candidates additionally include:
+- scan431 `நாளைந்து`, `எழுத்துக் களில்`, `ஊமைநாச்சியின்`, `படித்தபிறகு`;
+- scan432 `ஒருவரையொருவர்`, `அந்தக்கால்`, `உருளைப்பட்டுக்`;
+- scan433 `அதற்குமேல்`, `தீப்பிழம்பு`, `வந்துவிட்டாயாக்கும்`;
+- scan434 `காலம்பழகி`, `நம் மிடம்`, `கட்டளை யிடுகிறான்`, `போகாதென்று`;
+- scan435 `எண்ணிடுவீர்கள்`, `வலு வளிப்பது`, `மனம்போலநடந்து`, `திக்கு முக்காடித்`;
+- scan436 `கொண்டுழைக்கும்`, `தொத்திக்கொண்டு`, `அந்தக்கேடு கெட்டவர்கள்`, `தீவைவிட்டு`;
+- scan437 `மறத்தாள்`, `உங்களிஷ்டம்`, `கல்யாணமாகியும்`, `இதழோரப்`;
+- scan438 `பிர்மாண்டமான`, `முரசறைந்து`, `முல்லைத் தீவின்`;
+- scan440 `அழிக்கப்பட்டே`, `ஆங்கிலேயப்படை`, `போயாக`, `புறப்பட்டாக`, `புறப்படவேண்டியதுதானே`.
+
 These are later review candidates, not silent-normalization targets.
 
 ## Method note
 
-Batch1 pages were transcribed from direct rendered source pixels. Source wording, punctuation, source-visible spacing / word boundaries, dialogue structure, displayed chapter hierarchy, printed pagination, intentional blank fields and physical page-end fragments were preserved. OCR and outside-source comparison were not treated as source authority.
+Batches1–2 pages were transcribed from direct rendered source pixels. Source wording, punctuation, source-visible spacing / word boundaries, dialogue structure, displayed chapter hierarchy, printed pagination, intentional blank fields and physical page-end fragments were preserved. OCR and outside-source comparison were not treated as source authority.
 
 Frozen Parts001–014 canonical Tamil, assembled Tamil, maintained English, glossary decisions, release records and final-closure records were not modified.
 
 ## Exact next activity
 
-Proceed with **Part015 Pass1 Batch2 — scans431–440 / local pages11–20**.
+Proceed with **Part015 Pass1 Batch3 — scans441–450 / local pages21–30**.
 
-Process exactly **10 physical source pages** from direct rendered source pixels. Read printed folios directly from the source rather than projecting them. Do not begin Pass2A until Pass1 covers all **30/30** Part015 scans.
+Process exactly **10 physical source pages** from direct rendered source pixels. Read printed folios directly from the source rather than projecting them. Complete the outgoing **450→451** direct boundary audit only after scan450 is transcribed; do not begin Pass2A until Pass1 covers all **30/30** Part015 scans.

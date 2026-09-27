@@ -1232,3 +1232,19 @@ Exact next activity: audit **330→331**; if usable, begin **Part012 Pass1 scans
 - unresolved source-reading holds — **0**
 - no Part016 canonical records created
 - exact next — **Part015 Pass1 Batch2 scans431–440 / local11–20**
+
+## Part015 Pass1 Batch2 source checkpoint
+
+**PASS 1 BATCH 2 — COMPLETE / 20 OF 30 TEXT-COMPLETE.**
+
+- direct rendered source pixels reviewed for scans **431–440 / local11–20**
+- observed printed folios — **425–433**
+- scan439 — **unnumbered full-page colour narrative illustration**
+- chapter69 `மனத்தை மாற்றிய மடல்!` — closes432
+- chapter70 `தோட்டத்தில் கேட்ட ஒலி!` — scans433–437
+- chapter71 `இன்பம், இமைப்பொழுது!` — opens438 / continues440
+- canonical records — **20/30**
+- statuses — **needs-review / needs-review**
+- unresolved source-reading holds — **0**
+- no Part016 canonical records created
+- exact next — **Part015 Pass1 Batch3 scans441–450 / local21–30**

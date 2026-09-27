@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**ACTIVE — split identity and global mapping are durable; Pass1 Batch1 is complete at 10/30 TEXT-COMPLETE.**
+**ACTIVE — split identity and global mapping are durable; Pass1 Batch2 is complete at 20/30 TEXT-COMPLETE.**
 
 - local PDF pages: **30**;
 - canonical overall scans: **421–450**;
@@ -42,18 +42,18 @@ The canonical `scan_page` remains the overall scan number **421–450**.
 
 ## Current gate
 
-Part 015 is **ACTIVE / PASS1 IN PROGRESS / BATCH1 COMPLETE**.
+Part 015 is **ACTIVE / PASS1 IN PROGRESS / BATCH2 COMPLETE**.
 
 - source split — **SUPPLIED / REGISTERED**
 - overall scans — **421–450 / 30**
 - local pages — **1–30**
-- canonical records — **10/30 — scans421–430**
-- Pass1 — **IN PROGRESS / BATCH1 COMPLETE — 10/30 TEXT-COMPLETE**
+- canonical records — **20/30 — scans421–440**
+- Pass1 — **IN PROGRESS / BATCH2 COMPLETE — 20/30 TEXT-COMPLETE**
 - incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
 - outgoing **450→451 — PENDING direct audit**
 - controlling representation — **rendered source page images**
 - Parts001–014 — **FINAL CLOSED / FROZEN**
-- exact next — **Part015 Pass1 Batch2 scans431–440 / local pages11–20**
+- exact next — **Part015 Pass1 Batch3 scans441–450 / local pages21–30**
 
 Do not create Part016 canonical records while Part015 is active.
 
@@ -67,7 +67,7 @@ Do not create Part016 canonical records while Part015 is active.
 - durable audit — `PART_014_BOUNDARY_AUDIT_420_421.md`;
 - Part015 canonical records created by the audit — **0**;
 - outgoing **450→451 remains PENDING direct audit**;
-- Part015 is **ACTIVE / PASS1 IN PROGRESS / BATCH1 COMPLETE — 10/30 TEXT-COMPLETE**.
+- Part015 is **ACTIVE / PASS1 IN PROGRESS / BATCH2 COMPLETE — 20/30 TEXT-COMPLETE**.
 
 ## Pass1 Batch1 checkpoint
 
@@ -79,3 +79,18 @@ Do not create Part016 canonical records while Part015 is active.
 - unresolved source-reading holds — **0**
 - outgoing **450→451 — PENDING direct audit**
 - exact next — **Part015 Pass1 Batch2 scans431–440 / local11–20**
+
+## Pass1 Batch2 checkpoint
+
+- scans431–440 / local11–20 — **10/10 TEXT-COMPLETE**
+- observed printed folios — **425–433**, with scan439 unnumbered
+- canonical records — **20/30**
+- chapter69 `மனத்தை மாற்றிய மடல்!` — closes432
+- chapter70 `தோட்டத்தில் கேட்ட ஒலி!` — opens433 / closes437
+- chapter71 `இன்பம், இமைப்பொழுது!` — opens438 / continues440
+- scan439 — **full-page colour narrative illustration / no printed Tamil body / no visible folio**
+- scan440 — ends mid-dialogue at `என்று`
+- textual / visual status — **needs-review / needs-review**
+- unresolved source-reading holds — **0**
+- outgoing **450→451 — PENDING direct audit**
+- exact next — **Part015 Pass1 Batch3 scans441–450 / local21–30**

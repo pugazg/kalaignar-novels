@@ -436,16 +436,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 015 | 8 | 428 | 422 | chapter69 continuation; letter block; ends mid-sentence at `கொண்டிருக்கிறார்களே` | needs-review | `pages/0428-manaththai-maatriya-madal.md` |
 | 015 | 9 | 429 | 423 | chapter69 continuation; resumes `தவிர,`; ends after complete exclamation at `காட்டலாம்!` | needs-review | `pages/0429-manaththai-maatriya-madal.md` |
 | 015 | 10 | 430 | 424 | chapter69 continuation; ends dialogue at `கடிதமா? நானா? உனக்கு எழுதினேனா?` | needs-review | `pages/0430-manaththai-maatriya-madal.md` |
-| 015 | 11 | 431 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 12 | 432 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 13 | 433 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 14 | 434 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 15 | 435 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 16 | 436 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 17 | 437 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 18 | 438 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 19 | 439 | — | unclassified — direct visual audit pending | not-started | — |
-| 015 | 20 | 440 | — | unclassified — direct visual audit pending | not-started | — |
+| 015 | 11 | 431 | 425 | chapter69 continuation; ends mid-sentence at `உரக்க` | needs-review | `pages/0431-manaththai-maatriya-madal.md` |
+| 015 | 12 | 432 | 426 | chapter69 close; resumes `ஒலித்தன.`; substantial intentional blank lower field | needs-review | `pages/0432-manaththai-maatriya-madal.md` |
+| 015 | 13 | 433 | 427 | chapter70 opening `தோட்டத்தில் கேட்ட ஒலி!`; displayed number70; ends mid-dialogue at `நான்` | needs-review | `pages/0433-thottaththil-ketta-oli.md` |
+| 015 | 14 | 434 | 428 | chapter70 continuation; resumes `நம்புகிறேன்.` | needs-review | `pages/0434-thottaththil-ketta-oli.md` |
+| 015 | 15 | 435 | 429 | chapter70 continuation; ends mid-dialogue at `புத்தி` | needs-review | `pages/0435-thottaththil-ketta-oli.md` |
+| 015 | 16 | 436 | 430 | chapter70 continuation; resumes `இருக்கக்கூடாது!`; ends at `சுதந்திரம்` | needs-review | `pages/0436-thottaththil-ketta-oli.md` |
+| 015 | 17 | 437 | 431 | chapter70 close; resumes `பழுதின்றி`; emergency drum signal closes page | needs-review | `pages/0437-thottaththil-ketta-oli.md` |
+| 015 | 18 | 438 | 432 | chapter71 opening `இன்பம், இமைப்பொழுது!`; displayed number71; ends at `எல்லாப் பகுதிகளுக்குச்` | needs-review | `pages/0438-inbam-imaippozhuthu.md` |
+| 015 | 19 | 439 | — | full-page colour narrative illustration; no printed Tamil body / no visible folio | needs-review | `pages/0439-inbam-imaippozhuthu.md` |
+| 015 | 20 | 440 | 433 | chapter71 continuation after unnumbered illustration; resumes `செல்லுங்கள்!”`; ends mid-dialogue at `என்று` | needs-review | `pages/0440-inbam-imaippozhuthu.md` |
 | 015 | 21 | 441 | — | unclassified — direct visual audit pending | not-started | — |
 | 015 | 22 | 442 | — | unclassified — direct visual audit pending | not-started | — |
 | 015 | 23 | 443 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1843,3 +1843,21 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
 - frozen Parts001–014 — **UNCHANGED**
 - exact next — **Part015 Pass1 Batch2 scans431–440 / local11–20; printed folios source-driven**
+
+## Part015 Pass1 Batch2 checkpoint
+
+**PART015 PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/30 TEXT-COMPLETE.**
+
+- scans431–440 / local11–20 — **TEXT-COMPLETE**
+- observed printed folios — **425–433**, with scan439 an unnumbered full-page illustration
+- canonical Part015 records — **20/30**
+- textual / visual status — **20/20 needs-review / 20/20 needs-review**
+- chapter69 `மனத்தை மாற்றிய மடல்!` — closes432
+- chapter70 `தோட்டத்தில் கேட்ட ஒலி!` — opens433 / closes437
+- chapter71 `இன்பம், இமைப்பொழுது!` — opens438 / continues440
+- scan439 — **full-page colour narrative illustration / no printed Tamil body / no visible folio**
+- scan440 ends mid-dialogue at `என்று`
+- unresolved Pass1 source-reading holds — **0**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — PENDING direct audit**
+- exact next — **Part015 Pass1 Batch3 scans441–450 / local21–30**
