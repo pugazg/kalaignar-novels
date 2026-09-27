@@ -6,11 +6,11 @@ printed_page: 437
 work: "payumpuli-pandaraka-vanniyan"
 section: "இன்பம், இமைப்பொழுது!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf"
-transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans441–450"
+transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans441–450; formal Part015 Pass 2A reviewed"
 ---
 
 # இன்பம், இமைப்பொழுது!
@@ -29,7 +29,7 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 
 “விடியற்காலை வந்து எழுப்புகிறேன்” எனக் கூறிவிட்டு, கதவின் வெளிப்புறத்தைப் பூட்டிக் கொண்டு போய்விட்டான்.
 
-எத்தனையோ களங்கள் பற்றியும், எதிரிகளை எப்படி மடக்குவது என்பதுபற்றியும், மனம்விட்டுத் தாராளமாகப் பேசிக் கொண்டிருந்த காலம் போய் - இப்போது அந்த அறையில் பண்டாரகனும், குருவிச்சியும் ஊமைப் பதுமைகளாய் மூலைக்கு ஒருவராக முகத்தைத் தொங்கப் போட்டுக் கொண்டு உட்கார்ந்திருந்தனர்.
+எத்தனையோ களங்கள் பற்றியும், எதிரிகளை எப்படி மடக்குவது என்பதுபற்றியும், மனம் விட்டுத் தாராளமாகப் பேசிக் கொண்டிருந்த காலம் போய் - இப்போது அந்த அறையில் பண்டாரகனும், குருவிச்சியும் ஊமைப் பதுமைகளாய் மூலைக்கு ஒருவராக முகத்தைத் தொங்கப் போட்டுக் கொண்டு உட்கார்ந்திருந்தனர்.
 
 என்ன இது? ஏன் இப்படி? இதைப் பற்றி யார் முதலில் கேட்பது? இருவர் உள்ளத்திலும் இப்படியொரு போராட்டம்!
 
@@ -50,4 +50,15 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 444; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 437; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+## Formal Part015 Pass 2A review
+
+- direct textual source-fidelity comparison completed against the rendered Part015 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `மனம்விட்டுத் தாராளமாகப்` → **`மனம் விட்டுத் தாராளமாகப்`** — source spacing / word-boundary correction;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 444; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 437; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->

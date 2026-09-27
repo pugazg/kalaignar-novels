@@ -6,11 +6,11 @@ printed_page: null
 work: "payumpuli-pandaraka-vanniyan"
 section: "பகைவர் கையில் பனங்காமம்!"
 page_type: "full-page-illustration"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf"
-transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans441–450"
+transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans441–450; formal Part015 Pass 2A reviewed"
 ---
 
 # பகைவர் கையில் பனங்காமம்!
@@ -29,4 +29,15 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 448; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 28; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+## Formal Part015 Pass 2A review
+
+- direct textual source-fidelity comparison completed against the rendered Part015 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- direct rendered source-pixel check reconfirmed this physical scan as a full-page colour narrative battle illustration with no printed Tamil body and no visible printed folio;
+- source-text corrections in Pass 2A: **0**; no textual body exists to amend.
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 448; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 28; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->

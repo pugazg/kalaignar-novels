@@ -446,16 +446,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 015 | 18 | 438 | 432 | chapter71 opening `இன்பம், இமைப்பொழுது!`; displayed number71; ends at `எல்லாப் பகுதிகளுக்குச்` | verified | `pages/0438-inbam-imaippozhuthu.md` |
 | 015 | 19 | 439 | — | full-page colour narrative illustration; no printed Tamil body / no visible folio | verified | `pages/0439-inbam-imaippozhuthu.md` |
 | 015 | 20 | 440 | 433 | chapter71 continuation after unnumbered illustration; resumes `செல்லுங்கள்!”`; ends mid-dialogue at `என்று` | verified | `pages/0440-inbam-imaippozhuthu.md` |
-| 015 | 21 | 441 | 434 | chapter71 continuation; resumes open dialogue; ends at `போர்` | needs-review | `pages/0441-inbam-imaippozhuthu.md` |
-| 015 | 22 | 442 | 435 | chapter71 continuation; resumes physical split at `முனைக்குப்`; ends at `காத்திட` | needs-review | `pages/0442-inbam-imaippozhuthu.md` |
-| 015 | 23 | 443 | 436 | chapter71 continuation; garland exchange completed | needs-review | `pages/0443-inbam-imaippozhuthu.md` |
-| 015 | 24 | 444 | 437 | chapter71 continuation; ends mid-dialogue at `முகத்தைக்` | needs-review | `pages/0444-inbam-imaippozhuthu.md` |
-| 015 | 25 | 445 | 438 | chapter71 continuation; resumes `கவிழ்த்துக்`; ends at `இதயத்தைத்` | needs-review | `pages/0445-inbam-imaippozhuthu.md` |
-| 015 | 26 | 446 | 439 | chapter71 close; resumes `தண்பொழிலாக்கி`; substantial intentional blank lower field | needs-review | `pages/0446-inbam-imaippozhuthu.md` |
-| 015 | 27 | 447 | 440 | chapter72 opening `பகைவர் கையில் பனங்காமம்!`; displayed number72; ends inside open report | needs-review | `pages/0447-pagaivar-kaiyil-panangamam.md` |
-| 015 | 28 | 448 | — | full-page colour narrative battle illustration; no printed Tamil body / no visible folio | needs-review | `pages/0448-pagaivar-kaiyil-panangamam.md` |
-| 015 | 29 | 449 | 442 | chapter72 continuation after unnumbered illustration; resumes `எட்வர்ட் மேட்ஜ்`; ends at `என்` | needs-review | `pages/0449-pagaivar-kaiyil-panangamam.md` |
-| 015 | 30 | 450 | 443 | chapter72 continuation; resumes `வார்த்தைகள்`; ends complete sentence; outgoing 450→451 CLEAN / AUDITED / PASS | needs-review | `pages/0450-pagaivar-kaiyil-panangamam.md` |
+| 015 | 21 | 441 | 434 | chapter71 continuation; resumes open dialogue; ends at `போர்` | verified | `pages/0441-inbam-imaippozhuthu.md` |
+| 015 | 22 | 442 | 435 | chapter71 continuation; resumes physical split at `முனைக்குப்`; ends at `காத்திட` | verified | `pages/0442-inbam-imaippozhuthu.md` |
+| 015 | 23 | 443 | 436 | chapter71 continuation; garland exchange completed | verified | `pages/0443-inbam-imaippozhuthu.md` |
+| 015 | 24 | 444 | 437 | chapter71 continuation; ends mid-dialogue at `முகத்தைக்` | verified | `pages/0444-inbam-imaippozhuthu.md` |
+| 015 | 25 | 445 | 438 | chapter71 continuation; resumes `கவிழ்த்துக்`; ends at `இதயத்தைத்` | verified | `pages/0445-inbam-imaippozhuthu.md` |
+| 015 | 26 | 446 | 439 | chapter71 close; resumes `தண்பொழிலாக்கி`; substantial intentional blank lower field | verified | `pages/0446-inbam-imaippozhuthu.md` |
+| 015 | 27 | 447 | 440 | chapter72 opening `பகைவர் கையில் பனங்காமம்!`; displayed number72; ends inside open report | verified | `pages/0447-pagaivar-kaiyil-panangamam.md` |
+| 015 | 28 | 448 | — | full-page colour narrative battle illustration; no printed Tamil body / no visible folio | verified | `pages/0448-pagaivar-kaiyil-panangamam.md` |
+| 015 | 29 | 449 | 442 | chapter72 continuation after unnumbered illustration; resumes `எட்வர்ட் மேட்ஜ்`; ends at `என்` | verified | `pages/0449-pagaivar-kaiyil-panangamam.md` |
+| 015 | 30 | 450 | 443 | chapter72 continuation; resumes `வார்த்தைகள்`; ends complete sentence; outgoing 450→451 CLEAN / AUDITED / PASS | verified | `pages/0450-pagaivar-kaiyil-panangamam.md` |
 | 016 | 1 | 451 | 444 | chapter72 continuation; boundary witness only; fresh paragraph after clean 450→451 split | not-started | — |
 | 016 | 2 | 452 | — | unclassified — direct visual audit pending | not-started | — |
 | 016 | 3 | 453 | — | unclassified — direct visual audit pending | not-started | — |
@@ -1938,3 +1938,25 @@ Exact next activity: **Part012 Pass2A scans331–340 / local pages1–10**, exac
 - Pass2B / Pass3 — **NOT STARTED**
 - durable progress — `PART_015_PASS2A_PROGRESS.md`
 - exact next — **Part015 Pass2A Batch3 scans441–450 / local21–30**
+
+## Part015 Pass2A closure checkpoint
+
+**PART015 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Batch3 scans441–450 / local21–30 — **REVIEWED / PASS**
+- Batch3 source-backed corrections — **4**
+- Batch3 correction scans — **442, 444, 447, 450**
+- cumulative Pass2A corrections — **12**
+- cumulative correction scans — **422, 423, 428, 431, 434, 436, 437, 440, 442, 444, 447, 450**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- scan448 — **unnumbered full-page colour battle illustration / textual record verified**
+- unresolved textual questions — **0**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- multipart split boundaries — **15/15 AUDITED / COMPLETE**
+- Parts001–014 — **FINAL CLOSED / FROZEN**
+- Part016 canonical records created — **0**
+- Pass2B / Pass3 — **NOT STARTED**
+- durable progress — `PART_015_PASS2A_PROGRESS.md`
+- exact next — **Part015 Pass2B Batch1 scans421–430 / local1–10 / printed415–424**

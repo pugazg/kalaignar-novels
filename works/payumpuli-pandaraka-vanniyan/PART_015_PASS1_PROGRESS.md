@@ -142,9 +142,9 @@ Frozen Parts001–014 canonical Tamil, assembled Tamil, maintained English, glos
 
 ## Exact next activity
 
-Perform **Part015 Pass2A Batch3 — scans441–450 / local pages21–30**.
+Perform **Part015 Pass2B Batch1 — scans421–430 / local pages1–10 / printed415–424**.
 
-Pass2A Batch2 is complete at **20/30 reviewed** with **8 cumulative source-backed corrections**. Process exactly **10 physical Part015 source pages** in Batch3 from direct rendered source pixels. Do not create Part016 canonical records while Part015 remains active.
+Pass2A is now **COMPLETE / PASS — 30/30 REVIEWED** with **12 cumulative source-backed corrections**. Proceed to Pass2B Batch1 for scans421–430; do not create Part016 canonical records while Part015 remains active.
 
 ## Outgoing boundary audit 450→451
 
@@ -195,3 +195,25 @@ Pass2A Batch2 is complete at **20/30 reviewed** with **8 cumulative source-backe
 - Part016 canonical records created — **0**
 - durable progress — `PART_015_PASS2A_PROGRESS.md`
 - exact next — **Part015 Pass2A Batch3 scans441–450 / local21–30**
+
+## Part015 Pass2A closure checkpoint
+
+**PART015 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- Batch3 scans441–450 / local21–30 — **REVIEWED / PASS**
+- Batch3 source-backed corrections — **4**
+- Batch3 correction scans — **442, 444, 447, 450**
+- cumulative Pass2A corrections — **12**
+- cumulative correction scans — **422, 423, 428, 431, 434, 436, 437, 440, 442, 444, 447, 450**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- scan448 — **unnumbered full-page colour battle illustration / textual record verified**
+- unresolved textual questions — **0**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- multipart split boundaries — **15/15 AUDITED / COMPLETE**
+- Parts001–014 — **FINAL CLOSED / FROZEN**
+- Part016 canonical records created — **0**
+- Pass2B / Pass3 — **NOT STARTED**
+- durable progress — `PART_015_PASS2A_PROGRESS.md`
+- exact next — **Part015 Pass2B Batch1 scans421–430 / local1–10 / printed415–424**

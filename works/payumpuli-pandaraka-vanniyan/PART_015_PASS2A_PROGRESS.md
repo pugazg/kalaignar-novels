@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
+**PASS 2A — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisites:
 - Part015 Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -26,15 +26,17 @@ For each reviewed physical scan, canonical Tamil is re-compared directly against
 
 ## Current accounting
 
-- reviewed — **20/30 — scans421–440**
-- remaining — **10**
+- reviewed — **30/30 — scans421–450**
+- remaining — **0**
 - Batch1 corrections — **3**
 - Batch2 corrections — **5**
-- cumulative Pass2A corrections — **8**
+- Batch3 corrections — **4**
+- cumulative Pass2A corrections — **12**
 - Batch1 correction scans — **422, 423, 428**
 - Batch2 correction scans — **431, 434, 436, 437, 440**
+- Batch3 correction scans — **442, 444, 447, 450**
 - unresolved textual questions — **0**
-- textual status — **20/30 verified / 10/30 needs-review**
+- textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - frozen Parts001–014 canonical / assembled / maintained-English body mutations — **0**
 - Part016 canonical records created — **0**
@@ -104,8 +106,54 @@ For scans431–440:
 - `visual_fidelity` — **needs-review**
 - unresolved textual questions — **0**
 
+## Batch3 decision — scans441–450
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+Corrections:
+- scan442 / printed435 — `தனது உள்ளத்தை அலைகளையெல்லாம்` → **`தனது உள்ளத்து அலைகளை யெல்லாம்`** — source lexical form and source-specific word-boundary correction;
+- scan444 / printed437 — `மனம்விட்டுத் தாராளமாகப்` → **`மனம் விட்டுத் தாராளமாகப்`** — source spacing / word-boundary correction;
+- scan447 / printed440 — `கரம் கொண்டு மூடி அணைக்க முயற்சிப்பது போல` → **`கரம் கொண்டு மூடியணைக்க முயற்சிப்பது போல`** — source compound / join correction;
+- scan450 / printed443 — `அசைவற்று நின்று கொண்டிருந்த விக்கிரம ராஜ சிங்கன், பண்டாரகனைப்` → **`அசைவற்று நின்று கொண்டிருந்த விக்கிரமராஜ சிங்கன், பண்டாரகனைப்`** — source name-form / spacing correction.
+
+Scans441, 443, 445–446 and 448–449 required no canonical-body correction. Scan448 is a full-page colour narrative battle illustration with no printed Tamil body or visible printed folio; its textual record was reviewed and verified with **0** body correction.
+
+## Batch3 re-confirmed source locks
+
+- scan441 / printed434 resumes scan440 open dialogue after **`என்று`** with **`கூறினேனே,`** and ends at **`போர்`**;
+- scan442 / printed435 resumes **`முனைக்குப்`** and preserves source wording **`தனது உள்ளத்து அலைகளை யெல்லாம்`**;
+- scan443 / printed436 continues chapter71 and completes the garland exchange;
+- scan444 / printed437 preserves source spacing **`மனம் விட்டுத் தாராளமாகப்`** and ends mid-dialogue at **`முகத்தைக்`**;
+- scan445 / printed438 resumes **`கவிழ்த்துக்`** and ends at **`இதயத்தைத்`**;
+- scan446 / printed439 resumes **`தண்பொழிலாக்கி`**, closes chapter71, and retains a substantial intentional blank lower field;
+- scan447 / printed440 opens displayed chapter72 `பகைவர் கையில் பனங்காமம்!` / boxed **72**, preserves source compound **`மூடியணைக்க`**, and ends inside an open report after **`ஒரு படை!`**;
+- scan448 is an **unnumbered full-page colour narrative battle illustration** with no printed Tamil body;
+- scan449 / printed442 resumes the open report at **`எட்வர்ட் மேட்ஜ்`** and ends mid-dialogue at **`என்`**;
+- scan450 / printed443 resumes **`வார்த்தைகள்`**, preserves the first source occurrence **`விக்கிரமராஜ சிங்கன்`** and the later source occurrence **`விக்கிரம ராஜ சிங்கன்`**, and ends after the complete departure sentence;
+- outgoing **450→451 — CLEAN / AUDITED / PASS**; no Part016 body was imported.
+
+For scans441–450:
+- textual `status` — **verified**
+- `visual_fidelity` — **needs-review**
+- unresolved textual questions — **0**
+
+## Pass2A closure decision
+
+**PART015 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- cumulative corrections — **12**
+- correction scans — **422, 423, 428, 431, 434, 436, 437, 440, 442, 444, 447, 450**
+- unresolved textual questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- frozen Parts001–014 canonical / assembled / maintained-English body mutations — **0**
+- Part016 canonical records created — **0**
+- Pass2B / Pass3 — **NOT STARTED**
+
 ## Exact next activity
 
-Perform **Part015 Pass2A Batch3 — scans441–450 / local pages21–30**.
+Perform **Part015 Pass2B Batch1 — scans421–430 / local pages1–10 / printed415–424**.
 
-Process exactly **10 physical Part015 source pages** from direct rendered source pixels. Preserve source-specific wording, punctuation, spacing / joins, illustration-page state and physical page-end states. Do not start Pass2B until Pass2A covers all **30/30** Part015 scans. Do not create Part016 canonical records.
+Process exactly **10 physical Part015 source pages** in the independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread. Pass2A is now closed at **30/30 REVIEWED / PASS**. Do not create Part016 canonical records.

@@ -6,11 +6,11 @@ printed_page: 443
 work: "payumpuli-pandaraka-vanniyan"
 section: "பகைவர் கையில் பனங்காமம்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf"
-transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans441–450"
+transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans441–450; formal Part015 Pass 2A reviewed"
 ---
 
 # பகைவர் கையில் பனங்காமம்!
@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 
 வாளை எடுத்து, அவளிடம் கொடுத்தான். குருவிச்சி, அந்த வாளுக்கு முத்தமிட்டுத் தன் கையில் உயர்த்திப் பிடித்துக் கொண்டாள்.
 
-அதுவரையில் அங்கிருந்த தூண்களில் ஒரு தூணாக அசைவற்று நின்று கொண்டிருந்த விக்கிரம ராஜ சிங்கன், பண்டாரகனைப் பாசத்துடன் அரவணைத்துத் தழுவிக் கொண்டு சொன்னான், “கண்டியின் படைகளும் முல்லைத் தீவுக்கு அனுப்பப்படும்” என்று!
+அதுவரையில் அங்கிருந்த தூண்களில் ஒரு தூணாக அசைவற்று நின்று கொண்டிருந்த விக்கிரமராஜ சிங்கன், பண்டாரகனைப் பாசத்துடன் அரவணைத்துத் தழுவிக் கொண்டு சொன்னான், “கண்டியின் படைகளும் முல்லைத் தீவுக்கு அனுப்பப்படும்” என்று!
 
 “வேண்டாம்! வேண்டவே வேண்டாம்! முல்லைத்தீவையும் பனங்காமத்தையும் வென்றெடுக்கவே முப்புறங்களில் இருந்தும் ஆங்கிலேயப்படை அனுப்பப்படுகிறதென்றால் - கண்டியை மட்டும் அவர்கள் விட்டுவைக்க மாட்டார்கள்! உடனடியாக இல்லாவிடினும் விரைவில் ஒரு நாள் மீண்டும் ஒரு ஆபத்து கண்டிக்கு வரும்! அப்போது நான் உயிரோடிருந்தால் கண்டியைக் காத்திட வந்து சேருவேன்!”
 
@@ -44,4 +44,15 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 - Pass1 textual status remains **needs-review** pending Pass2A
 - visual fidelity remains **needs-review** pending later visual gates
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 450; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 30; அச்சுப் பக்கம்: 443; PASS 1 TEXT-COMPLETE / textual-needs-review / visual-needs-review -->
+## Formal Part015 Pass 2A review
+
+- direct textual source-fidelity comparison completed against the rendered Part015 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-confirmed correction: `அசைவற்று நின்று கொண்டிருந்த விக்கிரம ராஜ சிங்கன், பண்டாரகனைப்` → **`அசைவற்று நின்று கொண்டிருந்த விக்கிரமராஜ சிங்கன், பண்டாரகனைப்`** — source name-form / spacing correction;
+- source-text corrections in Pass 2A: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 450; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 30; அச்சுப் பக்கம்: 443; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
