@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
+**PASS 2A — COMPLETE / PASS — 30/30 REVIEWED**
 
 Prerequisites:
 - Part014 Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -25,15 +25,17 @@ For each reviewed physical scan, canonical Tamil is re-compared directly against
 
 ## Current accounting
 
-- reviewed — **20/30 — scans391–410**
-- remaining — **10/30 — scans411–420**
+- reviewed — **30/30 — scans391–420**
+- remaining — **0**
 - Batch1 corrections — **8**
 - Batch2 corrections — **10**
-- cumulative Pass2A corrections — **18**
+- Batch3 corrections — **4**
+- cumulative Pass2A corrections — **22**
 - Batch1 correction scans — **391, 392, 394, 395, 397**
 - Batch2 correction scans — **401, 407, 408, 409, 410**
+- Batch3 correction scans — **411, 412, 413, 415**
 - unresolved textual questions — **0**
-- textual status — **20/30 verified / 10/30 needs-review**
+- textual status — **30/30 verified**
 - visual fidelity — **30/30 needs-review**
 - frozen Parts001–013 canonical / assembled / maintained-English body mutations — **0**
 - Part015 canonical records created — **0**
@@ -88,17 +90,61 @@ Scans402–406 required no canonical-body correction.
 - scan409–410 source name form is **`மேட்ஜ்` / `மேட்ஜின்`**;
 - scan410 / printed404 ends inside open dialogue at `உங்கள்`; no scan411 body was imported in this Pass2A batch.
 
-## Status decision
+## Batch3 decision — scans411–420
 
-For scans391–410:
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+Corrections:
+- scan411 / printed405 — `நான்குதிசைகளிலும்` → **`நான்கு திசைகளிலும்`** — source spacing / word-boundary correction;
+- scan412 / printed406 — `என்னைக் தன்னந்தனியாக` → **`என்னைத் தன்னந்தனியாக`** — source sandhi / lexical-form correction;
+- scan413 / printed407 — `உணர்த்தியிருப்பது,` → **`உணர்த்தியிருக்காவது,`** — lexical / source-reading correction;
+- scan415 / printed409 — `எதிர்பார்த்துக் காத்திருந்த` → **`எதிர் பார்த்துக் காத்திருந்த`** — source spacing / word-boundary correction.
+
+Scans414 and 416–420 required no canonical-body correction.
+
+Re-confirmed source locks:
+- scan411 resumes scan410 open dialogue at **`நெஞ்சில்`**;
+- scan412 ends mid-sentence at **`வீரனுக்கு`**;
+- scan413 resumes **`அழகுமில்லை!`** and ends at **`சேர`**;
+- scan414 resumes **`அனுமதிக்கப்படுகிறார்.`** and closes chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!`;
+- scan415 / printed409 opens displayed chapter67 `இரத்தம் படிந்த வாள்!`;
+- scan415→416 preserves **`இருப்பதை` + `உணர்ந்து கொள்ள முடிந்தது.`**;
+- scan418→419 preserves **`கொலுமண்டபத்திற்குள்` + `நுழைந்தனர்.`**;
+- scan419→420 preserves **`பீடத்திலிருக்கும்` + `வாளை`**;
+- scan420 preserves the substantial intentional blank lower field after the final visible exclamation;
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**; no Part015 body was imported.
+
+For scans411–420:
 - textual `status` — **verified**
 - `visual_fidelity` — **needs-review**
 - unresolved textual questions — **0**
 
-Scans411–420 remain at the Pass1 textual state pending Batch3.
+## Pass2A closure decision
+
+**PART014 PASS 2A — COMPLETE / PASS — 30/30 REVIEWED.**
+
+- cumulative corrections — **22**
+- correction scans — **391, 392, 394, 395, 397, 401, 407, 408, 409, 410, 411, 412, 413, 415**
+- unresolved textual questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- Parts001–013 — **FINAL CLOSED / FROZEN**
+- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- Part015 canonical records created — **0**
+- Pass2B / Pass3 — **NOT STARTED**
+
+## Status decision
+
+For scans391–420:
+- textual `status` — **verified**
+- `visual_fidelity` — **needs-review**
+- unresolved textual questions — **0**
+
+All Part014 scans391–420 are textually verified through Pass2A.
 
 ## Exact next activity
 
-Proceed with **Part014 Pass2A Batch3 — scans411–420 / local pages21–30 / printed405–414**.
+Proceed with **Part014 Pass2B Batch1 — scans391–400 / local pages1–10 / printed384–393**.
 
-Process exactly **10 physical source pages**. Apply only source-supported corrections. Keep `visual_fidelity: "needs-review"`. Do not begin Pass2B in the same activity. Do not create Part015 canonical records.
+Process exactly **10 physical source pages**. Keep textual `status: "verified"` and `visual_fidelity: "needs-review"`. Review source-visible lexical forms, spacing, punctuation and historical/source glyph fidelity. Do not begin Pass3 in the same activity. Do not create Part015 canonical records.
