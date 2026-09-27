@@ -32,27 +32,36 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 | canonical numbering | **PASS — global scan_page never resets** |
 | per-Part intake records | **PASS — 16/16** |
 | boundary witnesses available | **PASS** |
-| boundary classifications | **13/15 audited — through 390→391** |
+| boundary classifications | **PASS — 15/15 AUDITED / COMPLETE** |
 
-## Current live frontier — Part014
+## Current authoritative frontier — Part015 assembled Tamil audit next
 
-- Parts001–013 — **FINAL CLOSED / FROZEN**
-- Part014 / scans391–420 — **PASS1 IN PROGRESS / BATCH2 COMPLETE**
-- Batch1 scans391–400 — **10/10 TEXT-COMPLETE**
-- Batch2 scans401–410 — **10/10 TEXT-COMPLETE**
-- canonical Part014 records — **20/30**
-- observed printed folios through scan410 — **384–404**
-- scan403 — **two-folio spread / printed396–397**
-- textual / visual status — **needs-review / needs-review**
-- unresolved Pass1 source-reading holds — **0**
-- chapter64 closes401
-- chapter65 `கண்டிக்குள் களம்!` — opens402 / closes408
-- chapter66 `வெள்ளைக் கொடியும்- வெற்றி விழாவும்!` — opens409 / continues410
-- scan410 terminal state — **open dialogue at `உங்கள்`**
-- incoming **390→391 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
-- outgoing **420→421 — PENDING direct audit**
-- Pass2A — **NOT STARTED / BLOCKED UNTIL PASS1 COMPLETE**
-- exact next — **Part014 Pass1 Batch3 scans411–420 / local21–30**
+- Parts001–014 — **FINAL CLOSED / FROZEN**
+- Part015 canonical Tamil — **30/30 verified**
+- Part015 visual fidelity — **30/30 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil construction — **5/5 files created — sections83–87**
+- assembled Tamil validation/audit — **NOT STARTED / NEXT**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- multipart split boundaries — **15/15 AUDITED / COMPLETE**
+- Part016 — **SUPPLIED / REGISTERED / WAITING**
+- Part016 canonical records — **0**
+- Part016 Pass1 — **NOT STARTED**
+- English work for Part015 — **NOT STARTED / BLOCKED UNTIL ASSEMBLED TAMIL VALIDATION CLOSES**
+- exact next — **audit and validate assembled Tamil sections83–87 against verified canonical scans421–450**
+
+Part015 assembled files now present:
+- `sections/83-oru-pennin-piraayachchiththam.md` — scans421–426
+- `sections/84-manaththai-maatriya-madal.md` — scans427–432
+- `sections/85-thottaththil-ketta-oli.md` — scans433–437
+- `sections/86-inbam-imaippozhuthu.md` — scans438–446; scan439 illustration-only
+- `sections/87-pagaivar-kaiyil-panangamam.md` — scans447–450; scan448 illustration-only; chapter72 continues into Part016
+
 ## Methodology correction
 
 Earlier work drifted into an **inventory-only forward progression** and prematurely created Part002 records for scans31–35.
