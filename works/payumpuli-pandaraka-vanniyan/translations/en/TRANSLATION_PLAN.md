@@ -449,3 +449,19 @@ Do not begin E53 until E52 is **SOURCE-CHECKED / COMPLETE**.
 - active controls — `PART_015_TRANSLATION_PLAN.md`, `PART_015_GLOSSARY.md`, `PART_015_PROGRESS.md`
 - exact next gate — **E80 draft + source-check — section83 / scans421–426**
 - do not begin E81 until E80 is **SOURCE-CHECKED / COMPLETE**
+
+## Part015 E80 source-check checkpoint
+
+**E80 — SOURCE-CHECKED / COMPLETE.**
+
+- maintained English — `sections/83-a-womans-atonement.md`
+- source-check — `E80_SOURCE_CHECK.md`
+- scans421–426 — **COMPLETE**
+- literary blocks — **41/41**
+- source-boundary markers — **5/5 / PASS**
+- English source-check refinements — **1**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–014 English body edits — **0**
+- Part016 leakage — **0**
+- exact next — **E81 draft + source-check — section84 / scans427–432**
