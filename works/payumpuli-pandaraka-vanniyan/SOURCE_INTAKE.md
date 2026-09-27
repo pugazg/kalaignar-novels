@@ -81,15 +81,18 @@ Multipart policy: [`MULTIPART_SOURCE_POLICY.md`](MULTIPART_SOURCE_POLICY.md).
 - Part016 source — **ACTIVE / AUTHORIZED**
 - Part016 scans — **451–477 / 27**
 - Pass1 Batch1 scans451–460 — **COMPLETE / TEXT-COMPLETE**
-- canonical Part016 records — **10/27**
-- Pass1 text-complete — **10/27**
-- remaining — **17**
-- observed printed folios — **444–453**
-- chapter72 `பகைவர் கையில் பனங்காமம்!` — **continues451–454 / closes454**
-- chapter73 `திறமையை வென்ற திறமை!` — **opens455 / continues**
-- scan461 canonical record — **0**
+- Pass1 Batch2 scans461–470 — **COMPLETE / TEXT-COMPLETE**
+- canonical Part016 records — **20/27**
+- Pass1 text-complete — **20/27**
+- remaining — **7**
+- observed printed folios — **444–463**
+- chapter72 closes454
+- chapter73 `திறமையை வென்ற திறமை!` opens455 / closes460
+- chapter74 `காக்கையும் குருவியும்!` opens461 / closes466
+- chapter75 `வாழும் வரலாறு!` opens467 / continues through470
+- scan471 canonical record — **0**
 - source endpoint — **scan477**
-- exact next — **Part016 Pass1 Batch2 — scans461–470 / local11–20**
+- exact next — **Part016 Pass1 Batch3 — scans471–477 / local21–27**
 
 ## Part005 final state
 
