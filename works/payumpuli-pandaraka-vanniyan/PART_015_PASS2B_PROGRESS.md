@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED**
+**PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED**
 
 Prerequisites:
 - Part015 Pass1 — **COMPLETE / PASS — 30/30 TEXT-COMPLETE**
@@ -81,10 +81,66 @@ No reform-sensitive occurrence in scans421–430 required a canonical Unicode co
 
 **PASS — scans421–430 independently reviewed.**
 
-- reviewed — **10/30**
-- remaining — **20/30**
-- additional source-supported corrections — **5**
-- correction scans — **421, 422, 428**
+- reviewed — **20/30**
+- remaining — **10/30**
+- Batch1 additional corrections — **5**
+- Batch2 additional corrections — **4**
+- cumulative Pass2B additional corrections — **9**
+- Batch1 correction scans — **421, 422, 428**
+- Batch2 correction scans — **432, 435, 440**
+- historical-glyph corrections — **0**
+- unresolved questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- frozen Parts001–014 body mutations — **0**
+- Part016 canonical records created — **0**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+
+## Batch 2 correction ledger — scans431–440
+
+| Scan | Printed page | Before | Source-confirmed after | Classification |
+|---:|---:|---|---|---|
+| 432 | 426 | `ஒருவரையொருவர் நிமிர்ந்து நோக்கி பார்த்தவாறு` | **`ஒருவரையொருவர் நிமிர்ந்து நோக்கிப் பார்த்தவாறு`** | source sandhi / join correction |
+| 435 | 429 | `அவன் மனம்போலநடந்து கொண்டு, அவனது` | **`அவன் மனம்போல நடந்துகொண்டு, அவனது`** | source word-boundary / compound join correction |
+| 435 | 429 | `குருவிச்சி நாச்சியார், வீர மங்கைத்தான் எனினும்` | **`குருவிச்சி நாச்சியார், வீர மங்கைதான் எனினும்`** | lexical / source sandhi reading correction |
+| 440 | 433 | `அதைத் தொடர்ந்து மற்றுமொரு நாடு` | **`அதைத் தொடர்ந்து மற்றும் ஒரு நாடு`** | source spacing / word-boundary correction |
+
+Scans **431, 433–434, 436–439** required **0** additional Pass2B canonical-body corrections. Scan439 remains a full-page colour narrative illustration with no printed Tamil body and no visible printed folio.
+
+## Batch 2 historical-glyph review
+
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+
+No reform-sensitive occurrence in scans431–440 required a canonical Unicode correction after direct source-pixel inspection.
+
+## Batch 2 source locks reconfirmed
+
+- scan431 / printed425 continues chapter69 and ends mid-sentence at **`உரக்க`**;
+- scan432 / printed426 resumes **`ஒலித்தன.`**, preserves source **`நோக்கிப் பார்த்தவாறு`**, and closes chapter69 with a substantial intentional blank lower field;
+- scan433 / printed427 opens displayed chapter70 `தோட்டத்தில் கேட்ட ஒலி!` / boxed **70**;
+- scan433→434 preserves open dialogue **`நான்` + `நம்புகிறேன்.`**;
+- scan434 retains Pass2A source spacing **`எதிர் பார்க்கவே இல்லை!`**;
+- scan435 preserves source **`மனம்போல நடந்துகொண்டு`** and **`வீர மங்கைதான்`**;
+- scan435→436 preserves open dialogue **`புத்தி` + `இருக்கக்கூடாது!`**;
+- scan436 retains the source-visible closing quotation mark after **`சொல்லிவிட்டுப் போ!`** and source form **`விக்கிரம ராஜசிங்கனுக்கு`**;
+- scan436→437 preserves **`சுதந்திரம்` + `பழுதின்றி`**;
+- scan437 retains source lexical form **`மறந்தாள்`** and closes chapter70 with the emergency drum signal;
+- scan438 / printed432 opens displayed chapter71 `இன்பம், இமைப்பொழுது!` / boxed **71** and ends at **`எல்லாப் பகுதிகளுக்குச்`**;
+- scan439 is an **unnumbered full-page colour narrative illustration** with no printed Tamil body;
+- scan440 / printed433 resumes **`செல்லுங்கள்!”`**, preserves **`மற்றும் ஒரு நாடு`** and source name form **`விக்கிரமராஜ சிங்கன்`**, and ends mid-dialogue at **`என்று`**;
+- no scan441 wording was imported.
+
+## Batch 2 decision
+
+**PASS — scans431–440 independently reviewed.**
+
+- reviewed — **20/30**
+- remaining — **10/30**
+- Batch1 additional corrections — **5**
+- Batch2 additional corrections — **4**
+- cumulative Pass2B additional corrections — **9**
+- Batch2 correction scans — **432, 435, 440**
 - historical-glyph corrections — **0**
 - unresolved questions — **0**
 - textual status — **30/30 verified**
@@ -95,6 +151,6 @@ No reform-sensitive occurrence in scans421–430 required a canonical Unicode co
 
 ## Exact next activity
 
-Perform **Part015 Pass2B Batch2 — scans431–440 / local pages11–20**.
+Perform **Part015 Pass2B Batch3 — scans441–450 / local pages21–30**.
 
-Process exactly **10 physical Part015 source pages** in the independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread. Do not begin Pass3 until Pass2B covers all **30/30** Part015 scans. Do not create Part016 canonical records.
+Process exactly **10 physical Part015 source pages** in the independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread. Preserve scan448 as an unnumbered full-page illustration with no textual body. Do not begin Pass3 until Pass2B covers all **30/30** Part015 scans. Do not create Part016 canonical records.

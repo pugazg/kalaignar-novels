@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf"
-transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans431–440; formal Part015 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans431–440; formal Part015 Pass 2A reviewed; formal Part015 Pass 2B reviewed"
 ---
 
 # மனத்தை மாற்றிய மடல்!
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 
 ஒலித்தன. அவளால் அவனை நிமிர்ந்து நோக்க முடியவில்லை. அது அவளுக்கு மேலும் வெட்கமாக இருந்தது.
 
-ஒருவரையொருவர் நிமிர்ந்து நோக்கி பார்த்தவாறு எத்தனையோ களங்களைப் பற்றிப் பேசியிருக்கின்றனர் - எத்தனையோ போர்த்திட்டங்களை வகுத்திருக்கின்றனர்! ஆனால் இப்போது? குருவிச்சி, தனது கால் விரல் மீது பதித்த பார்வையை விலக்காமல் குனிந்து நின்றாள்!
+ஒருவரையொருவர் நிமிர்ந்து நோக்கிப் பார்த்தவாறு எத்தனையோ களங்களைப் பற்றிப் பேசியிருக்கின்றனர் - எத்தனையோ போர்த்திட்டங்களை வகுத்திருக்கின்றனர்! ஆனால் இப்போது? குருவிச்சி, தனது கால் விரல் மீது பதித்த பார்வையை விலக்காமல் குனிந்து நின்றாள்!
 
 அந்தக்கால் விரல் நுனியில் காயம் ஏற்படுகிற அளவுக்கு அந்தக் கடிதம் வேகமாக வந்து விழுந்தது! மடலின் கனமான உருளைப்பட்டுக் கால் விரலில் ரத்தம் கசிந்தது! அதைப் பொருட்படுத்தாமல், குருவிச்சி நாச்சியார், பண்டாரக வன்னியனை வியப்புடன் நிமிர்ந்து பார்த்தாள்.
 
@@ -44,4 +44,17 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 432; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 12; அச்சுப் பக்கம்: 426; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+## Formal Part015 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part015 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or grammatical normalization;
+- reform-sensitive historical-glyph set checked occurrence by occurrence where present: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- additional source-confirmed correction: `ஒருவரையொருவர் நிமிர்ந்து நோக்கி பார்த்தவாறு` → **`ஒருவரையொருவர் நிமிர்ந்து நோக்கிப் பார்த்தவாறு`** — source sandhi / join correction;
+- additional Pass 2B canonical corrections: **1**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 432; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 12; அச்சுப் பக்கம்: 426; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->

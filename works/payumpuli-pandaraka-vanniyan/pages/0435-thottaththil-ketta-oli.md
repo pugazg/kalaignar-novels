@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf"
-transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans431–440; formal Part015 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans431–440; formal Part015 Pass 2A reviewed; formal Part015 Pass 2B reviewed"
 ---
 
 # தோட்டத்தில் கேட்ட ஒலி!
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 
 “என்னை இவ்வளவு கேவலமாக எண்ணிடுவீர்கள் என்று நானும் எதிர்பார்க்கவில்லை. எனது இலட்சியத்துக்கு வலு வளிப்பது உங்களைப் பற்றிய நினைவுதான் என்ற நிலையில் வாழ்ந்து கொண்டிருக்கும் என்னைப் பார்த்து “உடற்பசிக்காரி” என எவ்வளவு சீக்கிரம் சொல்லி விட்டீர்கள்!”
 
-“பிறகென்ன! கணவன் ஏற்றுக்கொண்டிருக்கிற பொறுப்பான கடமையில் அவன் மனம்போலநடந்து கொண்டு, அவனது முயற்சிகள் வெற்றி பெற, எள் முனையளவு இடையூறுமின்றி ஒத்துழைப்பு தருவதுதானே உண்மையான ஒரு மனைவியின் கடமை!”
+“பிறகென்ன! கணவன் ஏற்றுக்கொண்டிருக்கிற பொறுப்பான கடமையில் அவன் மனம்போல நடந்துகொண்டு, அவனது முயற்சிகள் வெற்றி பெற, எள் முனையளவு இடையூறுமின்றி ஒத்துழைப்பு தருவதுதானே உண்மையான ஒரு மனைவியின் கடமை!”
 
 “கணவன் என்கிறீர்கள்! மனைவி என்கிறீர்கள்! அந்தத் தகுதியை நீங்கள் எடுத்துக் கொள்ளுங்கள் என்கிறேன்! நீங்களோ அந்தத் தகுதியை எனக்கு வழங்க மறுக்கிறீர்கள்! பிறகு எங்கிருந்து வந்தது கணவன் மனைவி உறவு?”
 
@@ -31,7 +31,7 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 
 “நீ இங்கேயா இருக்கிறாய்?” என்று வியப்புடன் முகம் சிவந்தான் பண்டாரகன்!
 
-“ஏற்கனவே கோபமாக இருக்கிறாய்! இன்னும் கொஞ்சம் கொந்தளிக்காதே!” என்று கூறிக் கொண்டே, அருகில் வந்த கண்டி மன்னன் அவனைத் தழுவிக் கொண்டான். குருவிச்சி நாச்சியார், வீர மங்கைத்தான் எனினும், விஷயம் காதலின் உச்ச கட்டத்தைப் பற்றியதால் தலைகுனிந்து நின்றாள்.
+“ஏற்கனவே கோபமாக இருக்கிறாய்! இன்னும் கொஞ்சம் கொந்தளிக்காதே!” என்று கூறிக் கொண்டே, அருகில் வந்த கண்டி மன்னன் அவனைத் தழுவிக் கொண்டான். குருவிச்சி நாச்சியார், வீர மங்கைதான் எனினும், விஷயம் காதலின் உச்ச கட்டத்தைப் பற்றியதால் தலைகுனிந்து நின்றாள்.
 
 “நண்பா! எல்லாவற்றையும் கேட்டுக்கொண்டுதானிருந்தேன். ராணி என்னைத்தேடிக் கொண்டிருப்பதாகக் குருவிச்சி சொன்னதை நான் நம்பவில்லை. புரியாத புதிர்களாக இருக்கும் உங்கள் இருவரையும் பற்றி இன்றைக்கு எப்படியும் புரிந்துகொள்ள ஒரு வாய்ப்பு கிடைக்கும் என்றே மறைந்திருந்தேன்.”
 
@@ -56,4 +56,18 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 435; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: 429; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+## Formal Part015 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part015 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or grammatical normalization;
+- reform-sensitive historical-glyph set checked occurrence by occurrence where present: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- additional source-confirmed correction: `அவன் மனம்போலநடந்து கொண்டு, அவனது` → **`அவன் மனம்போல நடந்துகொண்டு, அவனது`** — source word-boundary / compound join correction;
+- additional source-confirmed correction: `குருவிச்சி நாச்சியார், வீர மங்கைத்தான் எனினும்` → **`குருவிச்சி நாச்சியார், வீர மங்கைதான் எனினும்`** — lexical / source sandhi reading correction;
+- additional Pass 2B canonical corrections: **2**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 435; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: 429; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->

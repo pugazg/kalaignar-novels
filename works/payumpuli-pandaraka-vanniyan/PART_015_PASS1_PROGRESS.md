@@ -142,9 +142,9 @@ Frozen Parts001–014 canonical Tamil, assembled Tamil, maintained English, glos
 
 ## Exact next activity
 
-Perform **Part015 Pass2B Batch2 — scans431–440 / local pages11–20**.
+Perform **Part015 Pass2B Batch3 — scans441–450 / local pages21–30**.
 
-Pass2B Batch1 is now **COMPLETE / PASS — 10/30 independently reviewed** with **5 additional source-backed corrections**. Proceed to Pass2B Batch2 scans431–440; do not create Part016 canonical records while Part015 remains active.
+Pass2B Batch2 is now **COMPLETE / PASS — 20/30 independently reviewed** with **9 cumulative additional source-backed corrections**. Proceed to Pass2B Batch3 scans441–450; do not create Part016 canonical records while Part015 remains active.
 
 ## Outgoing boundary audit 450→451
 
@@ -241,3 +241,28 @@ Pass2B Batch1 is now **COMPLETE / PASS — 10/30 independently reviewed** with *
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 - durable progress — `PART_015_PASS2B_PROGRESS.md`
 - exact next — **Part015 Pass2B Batch2 scans431–440 / local11–20**
+
+## Part015 Pass2B Batch2 checkpoint
+
+**PART015 PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/30 REVIEWED.**
+
+- scans431–440 / local11–20 — **INDEPENDENTLY REVIEWED / PASS**
+- Batch2 additional corrections — **4**
+- cumulative Pass2B additional corrections — **9**
+- correction scans — **432, 435, 440**
+- scan432 — `நோக்கி பார்த்தவாறு` → **`நோக்கிப் பார்த்தவாறு`**
+- scan435 — `மனம்போலநடந்து கொண்டு` → **`மனம்போல நடந்துகொண்டு`**
+- scan435 — `வீர மங்கைத்தான்` → **`வீர மங்கைதான்`**
+- scan440 — `மற்றுமொரு நாடு` → **`மற்றும் ஒரு நாடு`**
+- scans431, 433–434, 436–439 — **0 additional canonical-body corrections**
+- scan439 — **unnumbered full-page colour illustration / no printed Tamil body / no visible folio**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- Part016 canonical records created — **0**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- durable progress — `PART_015_PASS2B_PROGRESS.md`
+- exact next — **Part015 Pass2B Batch3 scans441–450 / local21–30**
