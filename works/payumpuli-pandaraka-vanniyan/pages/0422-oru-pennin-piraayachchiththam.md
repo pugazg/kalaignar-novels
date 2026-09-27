@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_015_pages_421-450.pdf"
-transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans421–430; formal Part015 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch scans421–430; formal Part015 Pass 2A reviewed; formal Part015 Pass 2B reviewed"
 ---
 
 # ஒரு பெண்ணின் பிராயச்சித்தம்!
@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 
 “என் அறையில்தான் அந்தப் பாதகி பிணமாகக் கிடக்கிறாள்!”
 
-பிலிமதளாவையின்பதிலைக் கேட்டதும் “உமது அறையிலா? அங்கு ஏன் வந்தாள்? எப்படி வந்தாள்?” என நடநடப்புடியே கேட்டான் விக்கிரமராஜ சிங்கன்.
+பிலிமதளாவையின் பதிலைக் கேட்டதும் “உமது அறையிலா? அங்கு ஏன் வந்தாள்? எப்படி வந்தாள்?” என நடந்தபடியே கேட்டான் விக்கிரமராஜ சிங்கன்.
 
 “என்னிடம் ஒருமாதிரி பழகுவாள் அவள்! அந்த நம்பிக்கையில்தான் அவள் வகுத்திருந்த சதித் திட்டத்தை என்னிடம் கூறுவதற்கு என் அறைக்கு வந்தாள். அந்த வஞ்சகி வகுத்திருந்த திட்டத்தை அறிந்தவுடன் என்னையும் மீறிய ராஜ விசுவாசத்தில் அவளைத் தீர்த்துக் கட்டி விட்டேன்”
 
@@ -58,4 +58,18 @@ transcription_method: "direct source-pixel transcription; Part015 Pass 1 batch s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 422; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: 416; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual-needs-review -->
+## Formal Part015 Pass 2B review
+
+- independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread completed from the rendered Part015 source pixels;
+- source-visible lexical forms, compounds, joins, spacing and punctuation were preserved without modernization or grammatical normalization;
+- reform-sensitive historical-glyph set checked occurrence by occurrence where present: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- additional source-confirmed correction: `பிலிமதளாவையின்பதிலைக்` → **`பிலிமதளாவையின் பதிலைக்`** — lexical / source word-boundary correction;
+- additional source-confirmed correction: `நடநடப்புடியே` → **`நடந்தபடியே`** — lexical / source-reading correction;
+- additional Pass 2B canonical corrections: **2**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3 and later visual/status gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 422; பகுதி: 015; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: 416; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B REVIEWED / visual-needs-review -->

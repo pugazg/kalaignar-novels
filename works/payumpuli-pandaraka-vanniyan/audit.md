@@ -3155,3 +3155,27 @@ Exact next activity: directly audit **330→331**; if usable, begin **Part012 Pa
 - Pass2B / Pass3 — **NOT STARTED**
 - durable progress — `PART_015_PASS2A_PROGRESS.md`
 - exact next — **Part015 Pass2B Batch1 scans421–430 / local1–10 / printed415–424**
+
+## Part015 Pass2B Batch1 checkpoint
+
+**PART015 PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- scans421–430 / local1–10 / printed415–424 — **INDEPENDENTLY REVIEWED / PASS**
+- additional Pass2B corrections — **5**
+- correction scans — **421, 422, 428**
+- scan421 — `சோகம் தோய்ந்த` → **`சோகம்தோய்ந்த`**
+- scan422 — `பிலிமதளாவையின்பதிலைக்` → **`பிலிமதளாவையின் பதிலைக்`**
+- scan422 — `நடநடப்புடியே` → **`நடந்தபடியே`**
+- scan428 — `முடிவெடுத்து விட்டார்களாம்` → **`முடி வெடுத்து விட்டார்களாம்`**
+- scan428 — `சிந்திக்க வைத்துக் குழப்பத்தில்` → **`சிந்திக்க வைத்து குழப்பத்தில்`**
+- scans423–427 and 429–430 — **0 additional canonical-body corrections**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- Part016 canonical records created — **0**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- durable progress — `PART_015_PASS2B_PROGRESS.md`
+- exact next — **Part015 Pass2B Batch2 scans431–440 / local11–20**

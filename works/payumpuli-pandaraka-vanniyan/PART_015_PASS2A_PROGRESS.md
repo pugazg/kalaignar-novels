@@ -154,6 +154,30 @@ For scans441–450:
 
 ## Exact next activity
 
-Perform **Part015 Pass2B Batch1 — scans421–430 / local pages1–10 / printed415–424**.
+Perform **Part015 Pass2B Batch2 — scans431–440 / local pages11–20**.
 
-Process exactly **10 physical Part015 source pages** in the independent lexical / historical-glyph / word-boundary / punctuation-sensitive reread. Pass2A is now closed at **30/30 REVIEWED / PASS**. Do not create Part016 canonical records.
+Pass2B Batch1 is complete at **10/30 independently reviewed** with **5 additional source-backed corrections**. Process exactly **10 physical Part015 source pages** in Batch2. Do not create Part016 canonical records.
+
+## Part015 Pass2B Batch1 checkpoint
+
+**PART015 PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/30 REVIEWED.**
+
+- scans421–430 / local1–10 / printed415–424 — **INDEPENDENTLY REVIEWED / PASS**
+- additional Pass2B corrections — **5**
+- correction scans — **421, 422, 428**
+- scan421 — `சோகம் தோய்ந்த` → **`சோகம்தோய்ந்த`**
+- scan422 — `பிலிமதளாவையின்பதிலைக்` → **`பிலிமதளாவையின் பதிலைக்`**
+- scan422 — `நடநடப்புடியே` → **`நடந்தபடியே`**
+- scan428 — `முடிவெடுத்து விட்டார்களாம்` → **`முடி வெடுத்து விட்டார்களாம்`**
+- scan428 — `சிந்திக்க வைத்துக் குழப்பத்தில்` → **`சிந்திக்க வைத்து குழப்பத்தில்`**
+- scans423–427 and 429–430 — **0 additional canonical-body corrections**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **30/30 verified**
+- visual fidelity — **30/30 needs-review**
+- incoming **420→421 — CLEAN CHAPTER BOUNDARY / AUDITED / PASS**
+- outgoing **450→451 — CLEAN / AUDITED / PASS**
+- Part016 canonical records created — **0**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- durable progress — `PART_015_PASS2B_PROGRESS.md`
+- exact next — **Part015 Pass2B Batch2 scans431–440 / local11–20**
