@@ -29,8 +29,8 @@ For each reviewed physical scan, canonical Tamil is re-compared directly against
 
 - reviewed — **10/27 — scans451–460**
 - remaining — **17**
-- Batch1 corrections — **13**
-- Batch1 correction scans — **451, 453, 455, 456, 457, 458, 459**
+- Batch1 canonical corrections from Pass1 baseline — **15**
+- Batch1 correction scans — **451, 452, 455, 456, 457, 458, 459, 460**
 - unresolved textual questions — **0**
 - textual status — **10/27 verified / 17/27 needs-review**
 - visual fidelity — **27/27 needs-review**
@@ -41,22 +41,37 @@ For each reviewed physical scan, canonical Tamil is re-compared directly against
 
 **COMPLETE / REVIEWED / PASS — 10 scans**
 
-Corrections:
-- scan451 / printed444 — `நடத்திக் கெளரவிப்பதைப்போல்` → **`நடத்தி கெளரவிப்பதைப்போல்`** — source word-boundary / morphology correction;
-- scan453 / printed446 — `சுரண்டி எடுத்து` → **`சுரண்டியெடுத்து`** — source join / word-boundary correction;
-- scan455 / printed448 — `அறிந்து கொண்டான்` → **`அறிந்துகொண்டான்`** — source join / word-boundary correction;
-- scan455 / printed448 — `எடுத்துக் கொள்ள வில்லை` → **`எடுத்துக் கொள்ளவில்லை`** — line-wrap join / lexical correction;
-- scan456 / printed449 — `மூங்கில் நுனியைக் தரைவரையில்` → **`மூங்கிலின் நுனியைக் தரைவரையில்`** — source lexical correction;
-- scan457 / printed450 — `கயிறுகளின் முனைகளைக் கைகளில்` → **`கயிறுகளின் முனைகளை கைகளில்`** — source case / word-form correction;
-- scan457 / printed450 — `ஆங்கிலேயப் படைகள் அந்த வழியில்` → **`ஆங்கிலேயப்படைகள் அந்த வழியில்`** — source join / word-boundary correction;
-- scan457 / printed450 — `பிரங்கி வண்டிகளில்` → **`பீரங்கி வண்டிகளில்`** — source lexical correction;
-- scan458 / printed451 — `பூமியைத் தொட்டுக்கொண்டிருந்த` → **`பூமியைத் தொட்டுக் கொண்டிருந்த`** — source spacing / word-boundary correction;
-- scan458 / printed451 — `ஆங்கிலேயப் படையின் மீது` → **`ஆங்கிலேயப்படையின் மீது`** — source join / word-boundary correction;
-- scan458 / printed451 — `பிரங்கிக் குண்டுகளாகவோ` → **`பீரங்கிக் குண்டுகளாகவோ`** — source lexical correction;
-- scan458 / printed451 — `குதிரைகளை விரட்டிக்கொண்டு ஓட என அலறியவாறு` → **`குதிரைகளை விரட்டிக்கொண்டு ‘ஓ’ என அலறியவாறு`** — source quoted interjection / punctuation correction;
-- scan459 / printed452 — `அந்தப் படை வீரர்களையும் திக்கு முக்காடச் செய்த வீரமை விவேகியுமான` → **`அந்தப் படைவீரர்களையும் திக்கு முக்காடச் செய்த வீரனும் விவேகியுமான`** — source join + lexical correction.
+Final direct source-pixel reconciliation against the Pass1 baseline produced these **15 canonical corrections**:
 
-Scans452, 454 and 460 required no canonical-body correction.
+- scan451 / printed444 — `நடத்திக் கெளரவிப்பதைப்போல்` → **`நடத்தி கெளரவிப்பதைப்போல்`**;
+- scan452 / printed445 — `ஊமைச்சியின் முகத்தைப் பார்ப்பதுபோலவே குருவிச்சி எண்ணியவாறு முன்னால் நின்றாள்` → **`ஊமைச்சியின் முகத்தைப் பார்த்திடும் உணர்வுடன் குருவிச்சி சமாதியின் முன்னால் நின்றாள்`**;
+- scan452 / printed445 — `சுவரின் மீது` → **`சுவரின்மீது`**;
+- scan455 / printed448 — `வந்துகொண்டிருப்பதை` → **`வந்து கொண்டிருப்பதை`**;
+- scan456 / printed449 — `மூங்கில் நுனியைக் தரைவரையில்` → **`மூங்கிலின் நுனியைத் தரைவரையில்`**;
+- scan457 / printed450 — `ஆங்கிலேயப் படைகள்` → **`ஆங்கிலேயப்படைகள்`**;
+- scan457 / printed450 — `பிரங்கி வண்டிகளில்` → **`பீரங்கி வண்டிகளில்`**;
+- scan458 / printed451 — `எதிர்பாராத நிலையில்` → **`எதிர் பாராத நிலையில்`**;
+- scan458 / printed451 — `பூமியைத் தொட்டுக்கொண்டிருந்த` → **`பூமியைத் தொட்டுக் கொண்டிருந்த`**;
+- scan458 / printed451 — `ஆங்கிலேயப் படையின் மீது` → **`ஆங்கிலேயப்படையின் மீது`**;
+- scan458 / printed451 — `பிரங்கிக் குண்டுகளாகவோ` → **`பீரங்கிக் குண்டுகளாகவோ`**;
+- scan458 / printed451 — `குதிரைகளை விரட்டிக்கொண்டு ஓட என அலறியவாறு` → **`குதிரைகளை விரட்டிக்கொண்டு ‘ஓ’ என அலறியவாறு`**;
+- scan459 / printed452 — `அந்தப் படை வீரர்களையும்` → **`அந்தப் படைவீரர் களையும்`**;
+- scan459 / printed452 — `வீரமை விவேகியுமான` → **`வீரனும் விவேகியுமான`**;
+- scan460 / printed453 — `உயிர் கொடுத்த` → **`உயிர்கொடுத்த`**.
+
+High-resolution same-gate recheck also reversed provisional over-normalizations that were not supported by the printed pixels:
+
+- scan453 restored **`சுரண்டி எடுத்து`**;
+- scan455 restored **`அறிந்து கொண்டான்`** and **`எடுத்துக் கொள்ள வில்லை`**;
+- scan457 restored **`கயிறுகளின் முனைகளைக் கைகளில்`**.
+
+Scans453 and454 require **0 final canonical correction relative to the Pass1 baseline**.
+
+Textual result:
+- scans451–460 — **10/10 verified**
+- unresolved textual questions — **0**
+- visual fidelity — **10/10 needs-review**
+- scan461 body imported — **0**
 
 ## Batch1 re-confirmed source locks
 
