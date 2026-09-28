@@ -2,6 +2,19 @@
 
 > **மூல ஸ்கேன் page/structure authority.** Source PDF files repository-யில் commit செய்யப்படாது.
 
+## Current active source — ஒரே இரத்தம்
+
+- work directory — `works/ore-ratham/`
+- source ID — **TVA_BOK_0064094**
+- edition — **முதல் பதிப்பு / 1980**
+- publisher — **தமிழ்க்கனி பதிப்பகம்**
+- physical source extent — **136 scans**
+- source intake / setup — **COMPLETE / PASS**
+- historical-glyph policy — **ACTIVE**
+- canonical pages — **0/136 / NOT STARTED**
+- exact next — **full scan1–136 page/structure mapping, then Pass1 transcription**
+- source PDF — **outside Git**
+
 ## Completed source — பாயும்புலி பண்டாரக வன்னியன்
 
 

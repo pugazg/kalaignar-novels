@@ -5,28 +5,21 @@
 - Repository: `pugazg/kalaignar-novels`
 - Branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE.**
-- Active work: `works/payumpuli-pandaraka-vanniyan/`
+- Active work: `works/ore-ratham/`
 
-## Current authoritative frontier — பாயும்புலி பண்டாரக வன்னியன் complete / frozen
+## Current authoritative frontier — ஒரே இரத்தம் source intake / setup complete
 
-- source family — **TVA_BOK_0065744**
-- supplied Parts — **16 / 16**
-- physical source extent — **477 scans**
-- Parts001–016 — **FINAL CLOSED / FROZEN**
-- Part016 canonical Tamil/body — **27/27 verified / frozen**
-- Part016 visual fidelity — **27/27 verified / frozen**
-- Part016 assembled Tamil — **sections88–93 / 6/6 VERIFIED / frozen**
-- Part016 English E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
-- glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED**
-- whole-Part bilingual review — **PASS / CLOSED**
-- release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- Part016 final closure — **PASS / CLOSED / FROZEN**
-- complete-source endpoint — **scan477**
-- unresolved Tamil / English / release / terminal blockers — **0**
-- Part017 — **DOES NOT EXIST — BOOK ENDS AT PART016**
-- reopening rule — **source-backed defect or separately authorized post-closure activity only**
+- source ID — **TVA_BOK_0064094**
+- work path — `works/ore-ratham/`
+- edition — **முதல் பதிப்பு / 1980**
+- publisher — **தமிழ்க்கனி பதிப்பகம்**
+- source PDF pages — **136**
+- source SHA-256 — `4480aa8b95fb16b8f8b9a1877514774e2b13ee7ce9b496a9a4121027625c3426`
+- source intake — **PASS / COMPLETE**
+- historical-glyph guide — **ACTIVE**
+- canonical page records — **0/136**
+- exact next — **full 136-scan page/structure map, then Pass1**
+- assembled Tamil / English — **BLOCKED**
 
 ## Source family
 
