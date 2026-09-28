@@ -34,22 +34,19 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 | boundary witnesses available | **PASS** |
 | boundary classifications | **PASS — 15/15 AUDITED / COMPLETE** |
 
-## Current authoritative frontier — Part016 Pass2A Batch2 next
+## Current authoritative frontier — Part016 final metadata/status synchronization next
 
 - Parts001–015 — **FINAL CLOSED / FROZEN**
-- Part016 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Part016 Pass2A Batch1 scans451–460 — **COMPLETE / REVIEWED / PASS**
-- Pass2A reviewed — **10/27**
-- Batch1 corrections — **13**
-- correction scans — **451, 453, 455, 456, 457, 458, 459**
-- textual status — **10 verified / 17 needs-review**
+- Part016 Pass1 — **COMPLETE / PASS — 27/27**
+- Part016 Pass2A — **COMPLETE / PASS — 27/27 — 23 corrections**
+- Part016 Pass2B — **COMPLETE / PASS — 27/27 — 16 additional corrections**
+- Part016 Pass3 — **COMPLETE / PASS — 27/27 — 0 textual corrections**
+- Part016 Part audit — **PASS / COMPLETE**
+- textual status — **27/27 verified**
 - visual fidelity — **27/27 needs-review**
-- incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
-- chapter72 — **closes454**
-- chapter73 `திறமையை வென்ற திறமை!` — **opens455 / closes460**
-- unresolved Pass2A questions — **0**
-- scan461 body imported in Batch1 — **0**
-- exact next — **Part016 Pass2A Batch2 — scans461–470 / local11–20**
+- unresolved items — **0**
+- complete-source endpoint — **scan477**
+- exact next — **Part016 final metadata/status synchronization**
 
 ## Methodology correction
 

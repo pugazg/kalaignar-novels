@@ -116,3 +116,20 @@ Perform **Part016 Part audit**.
 Audit the complete canonical inventory for scans451–477 against the page map and completed Pass1 / Pass2A / Pass2B / Pass3 records. Confirm 27/27 canonical coverage, textual-status consistency, visual-fidelity pre-sync state, printed-folio sequence, chapter/open-close structure, author-note/end-matter classifications, complete-source endpoint, unresolved-item counts and frozen Parts001–015 integrity.
 
 Do not perform final metadata/status synchronization in the same audit iteration.
+
+## Part016 Part-audit checkpoint
+
+**PART016 PART AUDIT — PASS / COMPLETE.**
+
+- canonical inventory — **27/27**
+- page-map rows — **27/27**
+- textual status — **27/27 verified**
+- visual fidelity before final sync — **27/27 needs-review**
+- Pass1 / Pass2A / Pass2B / Pass3 unresolved items — **0 / 0 / 0 / 0**
+- printed folios — **444–467**
+- unnumbered end matter — **475–477**
+- internal pagination / chapter-structure mismatches — **0**
+- complete-source endpoint — **scan477**
+- Parts001–015 — **FINAL CLOSED / FROZEN**
+- durable audit — `PART_016_AUDIT.md`
+- exact next — **Part016 final metadata/status synchronization**

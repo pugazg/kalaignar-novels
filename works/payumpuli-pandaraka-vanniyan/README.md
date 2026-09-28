@@ -7,29 +7,18 @@
 **Working source:** 16 split PDFs — all supplied / registered  
 **Source PDFs in repository:** No
 
-## Current authoritative frontier — Part016 Part audit next
+## Current authoritative frontier — Part016 final metadata/status synchronization next
 
 - Parts001–015 — **FINAL CLOSED / FROZEN**
-- Part016 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Part016 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
-- Part016 Pass2B — **COMPLETE / PASS — 27/27 INDEPENDENTLY REVIEWED**
-- Part016 Pass3 — **COMPLETE / PASS — 27/27 VISUAL / STRUCTURAL REVIEWED**
-- Pass3 textual corrections — **0**
-- unresolved Pass3 visual / structural questions — **0**
+- Part016 Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part016 Part audit — **PASS / COMPLETE**
+- canonical records — **27/27 — scans451–477**
 - textual status — **27/27 verified**
 - visual fidelity — **27/27 needs-review**
+- unresolved Tamil / lexical / glyph / visual / structural issues — **0**
 - incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
-- chapter72 — **closes454**
-- chapter73 `திறமையை வென்ற திறமை!` — **opens455 / closes460**
-- chapter74 `காக்கையும் குருவியும்!` — **opens461 / closes466**
-- chapter75 `வாழும் வரலாறு!` — **opens467 / closes473 with `(முற்றும்)`**
-- author note — **scan474 / printed467**
-- unnumbered photographic end matter — **scan475**
-- unnumbered full-page illustration — **scan476**
-- back cover / publisher-device — **scan477**
 - complete-source endpoint — **scan477**
-- Part audit — **UNBLOCKED / NOT STARTED**
-- exact next — **Part016 Part audit**
+- exact next — **Part016 final metadata/status synchronization**
 
 ## Part001 — FINAL CLOSED / FROZEN
 
