@@ -1,6 +1,6 @@
 # Part 016 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E85–E90 SOURCE-CHECKED / COMPLETE; GLOSSARY PASS; EDITORIAL PASS; BILINGUAL REVIEW PASS / CLOSED; RELEASE/READINESS NEXT**
+Status: **E85–E90 SOURCE-CHECKED / COMPLETE; GLOSSARY / EDITORIAL / BILINGUAL PASS; RELEASE/READINESS PASS / CLOSED; RELEASE-READY SYNC NEXT**
 
 This is the control plan for the project-created English translation of **Part016 only**.
 
@@ -11,10 +11,10 @@ This is the control plan for the project-created English translation of **Part01
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
 - whole-Part English editorial review — **PASS / CLOSED**
 - whole-Part bilingual review — **PASS / CLOSED**
-- bilingual English body corrections — **0**
-- unresolved bilingual holds — **0**
-- exact next — **Part016 release/readiness review**
-- final closure — **BLOCKED UNTIL RELEASE GATES CLOSE**
+- release/readiness — **PASS / CLOSED**
+- unresolved English/release holds — **0**
+- exact next — **Part016 release-ready synchronization**
+- final closure — **BLOCKED UNTIL RELEASE-READY SYNC CLOSES**
 
 Parts001–015 are **FINAL CLOSED / FROZEN**. Their maintained English files and controls are precedent only and must not be edited merely to advance Part016.
 
@@ -294,3 +294,16 @@ Exact next gate — **Part016 whole-Part English glossary reconciliation across 
 - unresolved bilingual / Tamil-fidelity holds — **0 / 0**
 - durable review — `PART_016_BILINGUAL_REVIEW.md`
 - exact next — **Part016 release/readiness review**
+
+## Release/readiness checkpoint
+
+**PART016 RELEASE/READINESS — PASS / CLOSED.**
+
+- Tamil authority — **27/27 verified / 27/27 visual verified**
+- E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
+- glossary / editorial / bilingual — **PASS / PASS / PASS**
+- literary / printed blocks — **171/171**
+- boundary markers — **21/21 / PASS**
+- unresolved release blockers — **0**
+- durable report — `PART_016_RELEASE_REPORT.md`
+- exact next — **Part016 release-ready synchronization**

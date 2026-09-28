@@ -2,7 +2,7 @@
 
 ## Current gate
 
-**PART016 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED**
+**PART016 RELEASE/READINESS — PASS / CLOSED**
 
 ## Current batch closure
 
@@ -11,12 +11,11 @@
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
 - whole-Part English editorial review — **PASS / CLOSED**
 - whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
 - physical source coverage — **451–477 / 27**
-- literary / printed blocks — **171/171**
 - source-boundary markers — **21/21 / PASS**
-- bilingual body corrections — **0**
-- unresolved bilingual / Tamil-fidelity holds — **0 / 0**
-- exact next — **Part016 release/readiness review**
+- unresolved release blockers — **0**
+- exact next — **Part016 release-ready synchronization**
 
 ## Reservation
 
@@ -66,9 +65,9 @@
 
 ## Exact next gate
 
-Perform **Part016 release/readiness review**.
+Perform **Part016 release-ready synchronization**.
 
-Do not begin release-ready synchronization or final closure until release/readiness is **PASS / CLOSED**.
+Do not create final closure until release-ready synchronization is **PASS / CLOSED**.
 
 ## E85 completion checkpoint
 
@@ -177,3 +176,12 @@ Exact next — **Part016 whole-Part English glossary reconciliation**.
 - bilingual body corrections — **0**
 - unresolved bilingual / Tamil-fidelity holds — **0 / 0**
 - exact next — **Part016 release/readiness review**
+
+## Release/readiness checkpoint
+
+- result — **PASS / CLOSED**
+- Tamil authority — **27/27 verified**
+- English source-check — **6/6 complete**
+- glossary / editorial / bilingual — **PASS / PASS / PASS**
+- release blockers — **0**
+- exact next — **Part016 release-ready synchronization**

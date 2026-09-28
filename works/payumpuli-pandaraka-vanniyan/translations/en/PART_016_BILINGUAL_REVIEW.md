@@ -129,3 +129,13 @@ This bilingual gate introduced:
 ## Exact next gate
 
 Perform **Part016 release/readiness review**.
+
+## Part016 release/readiness checkpoint
+
+**PART016 RELEASE/READINESS — PASS / CLOSED.**
+
+- unresolved bilingual / Tamil-fidelity holds — **0 / 0**
+- unresolved release blockers — **0**
+- maintained English body changes — **0**
+- durable report — `PART_016_RELEASE_REPORT.md`
+- exact next — **Part016 release-ready synchronization**
