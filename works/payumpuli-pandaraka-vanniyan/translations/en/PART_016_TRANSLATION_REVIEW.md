@@ -130,3 +130,16 @@ This editorial review changed:
 ## Exact next gate
 
 Perform **Part016 whole-Part bilingual review**.
+
+## Part016 whole-Part bilingual-review checkpoint
+
+**PART016 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED.**
+
+- maintained Tamil/English pairs — **6/6**
+- canonical scans represented — **27/27**
+- literary / printed blocks — **171/171**
+- source-boundary markers — **21/21 / PASS**
+- bilingual body corrections — **0**
+- unresolved bilingual / Tamil-fidelity holds — **0 / 0**
+- durable review — `PART_016_BILINGUAL_REVIEW.md`
+- exact next — **Part016 release/readiness review**

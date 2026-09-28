@@ -1,6 +1,6 @@
 # Part 016 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E85–E90 SOURCE-CHECKED / COMPLETE; GLOSSARY RECONCILIATION PASS; EDITORIAL REVIEW PASS / CLOSED; BILINGUAL REVIEW NEXT**
+Status: **E85–E90 SOURCE-CHECKED / COMPLETE; GLOSSARY PASS; EDITORIAL PASS; BILINGUAL REVIEW PASS / CLOSED; RELEASE/READINESS NEXT**
 
 This is the control plan for the project-created English translation of **Part016 only**.
 
@@ -10,10 +10,11 @@ This is the control plan for the project-created English translation of **Part01
 - maintained English sections88–93 — **6/6 SOURCE-CHECKED**
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
 - whole-Part English editorial review — **PASS / CLOSED**
-- editorial English body corrections — **0**
-- unresolved editorial holds — **0**
-- exact next — **Part016 whole-Part bilingual review**
-- release / final closure — **NOT STARTED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- bilingual English body corrections — **0**
+- unresolved bilingual holds — **0**
+- exact next — **Part016 release/readiness review**
+- final closure — **BLOCKED UNTIL RELEASE GATES CLOSE**
 
 Parts001–015 are **FINAL CLOSED / FROZEN**. Their maintained English files and controls are precedent only and must not be edited merely to advance Part016.
 
@@ -278,3 +279,18 @@ Exact next gate — **Part016 whole-Part English glossary reconciliation across 
 - unresolved editorial holds — **0**
 - durable review — `PART_016_TRANSLATION_REVIEW.md`
 - exact next — **Part016 whole-Part bilingual review**
+
+## Whole-Part bilingual-review checkpoint
+
+**PART016 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED.**
+
+- Tamil/English pairs — **6/6**
+- canonical scans represented — **27/27**
+- source-scan metadata agreement — **6/6**
+- section-order agreement — **6/6**
+- literary / printed blocks — **171/171**
+- source-boundary parity — **21/21 / PASS**
+- bilingual body corrections — **0**
+- unresolved bilingual / Tamil-fidelity holds — **0 / 0**
+- durable review — `PART_016_BILINGUAL_REVIEW.md`
+- exact next — **Part016 release/readiness review**
