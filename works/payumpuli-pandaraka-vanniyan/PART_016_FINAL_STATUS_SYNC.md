@@ -148,3 +148,17 @@ Do not begin English translation work.
 - canonical / assembled Tamil edits — **0 / 0**
 - unresolved holds — **0**
 - exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**
+
+## Part016 whole-Part English glossary reconciliation checkpoint
+
+**PART016 WHOLE-PART GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
+- maintained English sections88–93 — **6/6**
+- literary / printed blocks — **171/171**
+- source-boundary markers — **21/21 / PASS**
+- English-body corrections required — **0**
+- unresolved glossary holds — **0**
+- Tamil mutations — **0**
+- durable record — `translations/en/PART_016_GLOSSARY_RECONCILIATION.md`
+- exact next — **Part016 whole-Part English editorial review**

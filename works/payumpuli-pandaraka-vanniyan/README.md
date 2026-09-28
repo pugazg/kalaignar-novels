@@ -7,25 +7,23 @@
 **Working source:** 16 split PDFs — all supplied / registered  
 **Source PDFs in repository:** No
 
-## Current authoritative frontier — Part016 whole-Part English glossary reconciliation next
+## Current authoritative frontier — Part016 whole-Part English editorial review next
 
 - Parts001–015 — **FINAL CLOSED / FROZEN**
 - Part016 canonical Tamil/body — **27/27 verified**
 - Part016 visual fidelity — **27/27 verified**
 - Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **sections88–93 / 6/6 VERIFIED / CLOSED**
 - Tamil Assembly + Audit — **COMPLETE / PASS / CLOSED**
-- English planning/setup — **COMPLETE / PASS**
-- Part016 English batches — **E85–E90 / 6/6 SOURCE-CHECKED / COMPLETE**
-- maintained Part016 English sections — **88–93 / 6/6 SOURCE-CHECKED**
-- source-check controls — **E1–E90 contiguous / missing 0**
-- maintained English sections — **00–93 contiguous / missing 0**
-- Part016 source-boundary marker parity — **21/21 / PASS**
+- Part016 English batches E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
+- maintained English sections88–93 — **6/6 SOURCE-CHECKED**
+- whole-Part English glossary reconciliation — **RECONCILED / PASS**
+- glossary-driven English body corrections — **0**
+- unresolved glossary holds — **0**
+- source-boundary marker parity — **21/21 / PASS**
 - scan476 invented English body — **0**
 - post-scan477 leakage — **0**
-- unresolved E85–E90 source-check holds — **0**
-- exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**
-- editorial review — **NOT STARTED / BLOCKED UNTIL GLOSSARY RECONCILIATION**
+- exact next — **Part016 whole-Part English editorial review**
+- bilingual review — **NOT STARTED / BLOCKED UNTIL EDITORIAL REVIEW CLOSES**
 
 ## Part001 — FINAL CLOSED / FROZEN
 

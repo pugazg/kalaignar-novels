@@ -1781,3 +1781,22 @@ Do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**.
 - exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**
 
 Editorial review is **NOT STARTED**.
+
+
+## Part016 whole-Part glossary reconciliation checkpoint
+
+**PART016 WHOLE-PART GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- maintained English sections checked — **88–93 / 6/6**
+- source-check controls — **E85–E90 / 6/6**
+- physical source coverage — **451–477 / 27**
+- literary / printed blocks — **171/171**
+- source-boundary marker parity — **21/21 / PASS**
+- title / personal-name / place-name conflicts requiring correction — **0**
+- unsupported external glosses — **0**
+- English-body corrections required — **0**
+- unresolved glossary holds — **0**
+- durable record — `PART_016_GLOSSARY_RECONCILIATION.md`
+- exact next — **Part016 whole-Part English editorial review**
+
+Bilingual review is **NOT STARTED**.

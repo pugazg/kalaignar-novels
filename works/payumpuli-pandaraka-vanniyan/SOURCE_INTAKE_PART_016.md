@@ -48,18 +48,16 @@ The canonical `scan_page` remains the overall scan number **451–477**.
 
 ## Current gate
 
-Part016 Tamil / assembly is **CLOSED** and the six planned English source-check batches are complete.
+Part016 Tamil / assembly is **CLOSED**; English E85–E90 source-check and whole-Part glossary reconciliation are complete.
 
 - scans — **451–477 / 27**
 - Tamil canonical / visual — **27/27 verified / 27/27 verified**
 - Tamil Assembly + Audit — **COMPLETE / PASS / CLOSED**
-- English planning/setup — **COMPLETE / PASS**
 - English E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
 - maintained English sections88–93 — **6/6 SOURCE-CHECKED**
-- source-check controls E1–E90 — **contiguous / missing 0**
-- scan476 invented English body — **0**
+- whole-Part English glossary reconciliation — **RECONCILED / PASS**
+- glossary-driven English body corrections — **0**
+- unresolved glossary holds — **0**
 - complete-source endpoint — **scan477**
-- post-endpoint leakage — **0**
-- unresolved E85–E90 holds — **0**
-- exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**
-- editorial review — **NOT STARTED**
+- exact next — **Part016 whole-Part English editorial review**
+- bilingual review — **NOT STARTED**

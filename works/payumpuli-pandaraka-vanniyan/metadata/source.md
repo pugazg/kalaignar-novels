@@ -83,12 +83,12 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 - Part016 scans — **451–477 / 27**
 - canonical Tamil / visual — **27/27 verified / 27/27 verified**
 - Tamil archival-ready / assembly — **PASS / CLOSED**
-- English planning/setup — **COMPLETE / PASS**
-- Part016 English batches E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
+- English E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
 - maintained English sections88–93 — **6/6 SOURCE-CHECKED**
+- whole-Part English glossary reconciliation — **RECONCILED / PASS**
 - complete-source endpoint — **scan477 / back cover / publisher-device**
-- unresolved English batch holds — **0**
-- exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**
+- unresolved English glossary holds — **0**
+- exact next — **Part016 whole-Part English editorial review**
 
 ## User-supplied descriptive note
 
