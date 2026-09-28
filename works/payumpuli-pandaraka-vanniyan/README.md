@@ -7,27 +7,22 @@
 **Working source:** 16 split PDFs — all supplied / registered  
 **Source PDFs in repository:** No
 
-## Current authoritative frontier — Part016 Pass2A Batch1 next
+## Current authoritative frontier — Part016 Pass2A Batch2 next
 
 - Parts001–015 — **FINAL CLOSED / FROZEN**
-- Part016 source — **ACTIVE / AUTHORIZED**
-- Part016 scans — **451–477 / 27**
+- Part016 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- Part016 Pass2A Batch1 scans451–460 — **COMPLETE / REVIEWED / PASS**
+- Pass2A reviewed — **10/27**
+- Batch1 corrections — **13**
+- correction scans — **451, 453, 455, 456, 457, 458, 459**
+- textual status — **10 verified / 17 needs-review**
+- visual fidelity — **27/27 needs-review**
 - incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
-- Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- canonical Part016 records — **27/27**
-- observed printed folios — **444–467**
-- unnumbered end-matter scans — **475–477**
 - chapter72 — **closes454**
 - chapter73 `திறமையை வென்ற திறமை!` — **opens455 / closes460**
-- chapter74 `காக்கையும் குருவியும்!` — **opens461 / closes466**
-- chapter75 `வாழும் வரலாறு!` — **opens467 / closes473 with `(முற்றும்)`**
-- scan474 — **author note**
-- scan475 — **photographic end matter**
-- scan476 — **full-page illustration / no printed body**
-- scan477 — **back-cover / publisher-device / complete-source endpoint**
-- textual / visual status — **27/27 needs-review / 27/27 needs-review**
-- Pass2A — **NOT STARTED / UNBLOCKED**
-- exact next — **Part016 Pass2A Batch1 — scans451–460 / local1–10**
+- unresolved Pass2A questions — **0**
+- scan461 body imported in Batch1 — **0**
+- exact next — **Part016 Pass2A Batch2 — scans461–470 / local11–20**
 
 ## Part001 — FINAL CLOSED / FROZEN
 
