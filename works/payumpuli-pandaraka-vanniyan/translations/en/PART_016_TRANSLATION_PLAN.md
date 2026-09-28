@@ -193,3 +193,17 @@ Do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**.
 - omissions / duplicates / unsupported insertion — **0 / 0 / 0**
 - unresolved E87 holds — **0**
 - exact next — **E88 draft + source-check — section91 / scans467–473**
+
+## E88 source-check checkpoint
+
+**E88 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil source — section91 / scans467–473
+- maintained English — `sections/91-living-history.md`
+- title — **Living History!**
+- literary blocks — **54/54 represented**
+- source-boundary markers — **6/6 / PASS**
+- literary ending `(முற்றும்)` — **represented as (The End)**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved E88 holds — **0**
+- exact next — **E89 draft + source-check — section92 / scan474**

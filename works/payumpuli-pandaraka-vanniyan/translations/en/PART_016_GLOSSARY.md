@@ -115,3 +115,15 @@ Exact next glossary gate: **E87 draft + source-check — section90 / scans461–
 - unresolved E87 glossary holds — **0**
 
 Exact next glossary gate: **E88 draft + source-check — section91 / scans467–473**.
+
+## E88 source-check decisions
+
+- chapter75 `வாழும் வரலாறு!` → **Living History!** — **CONFIRMED**
+- `ஒட்டுசுட்டான்` → **Ottusuttan** — source-facing Part016 form
+- `நெடுங்கேணி` → **Nedunkeni** — source-facing Part016 form
+- `தமிழ் ஈழம்` → **Tamil Eelam** — inherited source distinction preserved
+- `(முற்றும்)` → **(The End)** — functional literary closing marker
+- external-source normalization introduced in E88 — **0**
+- unresolved E88 glossary holds — **0**
+
+Exact next glossary gate: **E89 draft + source-check — section92 / scan474**.
