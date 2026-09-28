@@ -37,40 +37,29 @@ This checkpoint reconciles live control documents after Part016 Pass1, Pass2A, P
 - `PART_016_AUDIT.md`
 - `PART_016_FINAL_STATUS_SYNC.md`
 
-## Assembly frontier
+## Assembly closure
 
-Existing maintained assembled-reading range ends at section **87**.
+The reserved section range **88–93** was constructed and audited.
 
-Reserved Part016 section range:
-- **88–93**
-- collision check before construction — **0**
-
-Planned units:
-1. section88 — chapter72 `பகைவர் கையில் பனங்காமம்!` Part016 continuation — scans451–454;
-2. section89 — chapter73 `திறமையை வென்ற திறமை!` — scans455–460;
-3. section90 — chapter74 `காக்கையும் குருவியும்!` — scans461–466;
-4. section91 — chapter75 `வாழும் வரலாறு!` — scans467–473;
-5. section92 — post-story author note `குறிப்பு` — scan474;
-6. section93 — terminal end matter — scans475–477; scan475 memorial photographic/caption matter, scan476 illustration-only, scan477 back-cover publisher-device / complete-source endpoint.
-
-Assembly safeguards:
-- canonical verified `pages/` records remain textual authority;
-- use only verified `## Source transcription` payloads for visible Tamil reading text;
-- preserve source spelling, punctuation, paragraph/dialogue order and verified cross-page boundaries;
-- preserve physical provenance with non-rendering boundary comments;
-- illustration-only scan476 must not acquire invented body;
-- scan477 publisher-device is terminal non-literary end matter and must not be rewritten as Tamil prose;
-- no workflow/audit notes may leak into visible reading text;
-- frozen sections00–87 must not be modified.
+Final assembled state:
+- assembled files — **6/6 CREATED / VERIFIED**
+- sections — **88–93**
+- canonical coverage — **scans451–477 / 27/27**
+- exact canonical comparisons — **6/6 PASS**
+- omissions / duplicates — **0 / 0**
+- unsupported body insertion — **0**
+- workflow-note leakage — **0**
+- frozen sections00–87 mutations — **0**
+- canonical Part016 page mutations caused by assembly — **0**
+- complete-source endpoint — **scan477**
+- durable validation — `PART_016_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Result
 
-**PASS / COMPLETE**
-
-Part016 documentation is synchronized for Tamil archival-ready closure and assembled Tamil construction.
+**PART016 DOCUMENTATION SYNCHRONIZATION — PASS / CURRENT THROUGH TAMIL ASSEMBLY + AUDIT**
 
 ## Exact next activity
 
-Construct and audit Part016 assembled Tamil sections **88–93** after the Tamil archival-ready checkpoint closes.
+Begin **Part016 English translation planning/setup** only when explicitly requested.
 
-Do not begin English work.
+English literary prose has **not** been started.

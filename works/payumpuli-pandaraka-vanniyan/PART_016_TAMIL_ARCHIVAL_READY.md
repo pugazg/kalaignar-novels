@@ -77,39 +77,37 @@ This archival-ready checkpoint introduces:
 - boundary-classification changes — **0**
 - frozen Parts001–015 canonical / assembled / English changes — **0**
 
-## Assembled Tamil handoff
+## Assembled Tamil closure
 
-Live section-order collision check:
-- existing maintained section range ends at **87**
-- planned Part016 section-order range — **88–93**
-- collisions in **88–93** before construction — **0**
+Part016 assembled Tamil has now been constructed and audited.
 
-Planned Part016 assembled files:
+Maintained Part016 assembled files:
 
-1. `sections/88-pagaivar-kaiyil-panangamam-part016.md` — scans451–454 — chapter72 continuation;
-2. `sections/89-thiramaiyai-vendra-thiramai.md` — scans455–460 — chapter73;
-3. `sections/90-kaakkaiyum-kuruviyum.md` — scans461–466 — chapter74;
-4. `sections/91-vaazhum-varalaaru.md` — scans467–473 — chapter75;
-5. `sections/92-kurippu.md` — scan474 — author note;
-6. `sections/93-kandy-vikrama-raja-singan-memorial.md` — scans475–477 — terminal end matter; visible Tamil memorial caption from scan475, non-rendering provenance for illustration-only scan476 and back-cover scan477.
+1. `sections/88-pagaivar-kaiyil-panangamam-part016.md` — scans451–454;
+2. `sections/89-thiramaiyai-vendra-thiramai.md` — scans455–460;
+3. `sections/90-kaakkaiyum-kuruviyum.md` — scans461–466;
+4. `sections/91-vaazhum-varalaaru.md` — scans467–473;
+5. `sections/92-kurippu.md` — scan474;
+6. `sections/93-kandy-vikrama-raja-singan-memorial.md` — scans475–477.
 
-Assembly safeguards:
-- verified canonical `## Source transcription` blocks are textual authority;
-- no source spelling / punctuation normalization;
-- no Pass/audit/workflow-note leakage;
-- preserve source-page boundaries with comments;
-- no invented text for scan476;
-- scan477 terminal publisher-device remains non-literary provenance in the Tamil reading layer;
-- frozen sections00–87 remain unchanged.
+Validation:
+- **6/6 EXACT / PASS**
+- canonical coverage — **27/27**
+- omissions / duplicates — **0 / 0**
+- unsupported body insertion — **0**
+- workflow-note leakage — **0**
+- scan476 invented body — **0**
+- post-scan477 leakage — **0**
+- frozen sections00–87 mutations — **0**
+- durable validation — `PART_016_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Result
 
-**PASS / CLOSED**
-
-Part016 is ready for assembled Tamil construction.
+**PART016 TAMIL ARCHIVAL-READY — PASS / CLOSED**  
+**PART016 TAMIL ASSEMBLY + AUDIT — COMPLETE / PASS / CLOSED**
 
 ## Exact next activity
 
-Construct + audit **Part016 assembled Tamil sections88–93**.
+The next gate is **Part016 English translation planning/setup**.
 
-Do not begin English translation work.
+Do not draft English literary prose until that gate is explicitly started.

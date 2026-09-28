@@ -148,3 +148,18 @@ Do not perform final metadata/status synchronization in the same audit iteration
 - Parts001–015 — **FINAL CLOSED / FROZEN**
 - durable status record — `PART_016_FINAL_STATUS_SYNC.md`
 - exact next — **Part016 documentation synchronization → Tamil archival-ready → assembled Tamil construction + audit**
+
+## Part016 Tamil Assembly + Audit closure checkpoint
+
+**PART016 TAMIL ASSEMBLY + AUDIT — COMPLETE / PASS / CLOSED.**
+
+- canonical Tamil / visual fidelity — **27/27 verified / 27/27 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **sections88–93 / 6/6 VERIFIED / CLOSED**
+- canonical assembled coverage — **27/27**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- frozen sections00–87 mutations — **0**
+- complete-source endpoint — **scan477**
+- durable validation — `PART_016_ASSEMBLED_TAMIL_VALIDATION.md`
+- English — **NOT STARTED**
+- exact next — **Part016 English translation planning/setup**

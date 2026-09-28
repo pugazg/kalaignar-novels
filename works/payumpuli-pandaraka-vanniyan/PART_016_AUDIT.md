@@ -177,3 +177,20 @@ Promote only `visual_fidelity` from `needs-review` to `verified` across the 27 a
 - complete-source endpoint — **scan477**
 - durable status record — `PART_016_FINAL_STATUS_SYNC.md`
 - exact next — **Part016 documentation synchronization**
+
+## Part016 Tamil Assembly + Audit closure checkpoint
+
+**PART016 TAMIL ASSEMBLY + AUDIT — COMPLETE / PASS / CLOSED.**
+
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled files — **sections88–93 / 6/6 VERIFIED**
+- represented canonical scans — **451–477 / 27/27**
+- exact canonical comparison — **6/6 PASS**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- workflow-note leakage — **0**
+- scan476 invented body — **0**
+- content beyond scan477 — **0**
+- frozen Parts001–015 / sections00–87 mutations — **0**
+- durable validation — `PART_016_ASSEMBLED_TAMIL_VALIDATION.md`
+- English — **NOT STARTED**
+- exact next — **Part016 English translation planning/setup**
