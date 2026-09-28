@@ -104,3 +104,17 @@ Part016 now has:
 Perform **Part016 documentation synchronization**, then close Tamil archival-ready and construct/audit the Part016 assembled Tamil reading layer.
 
 Do not begin English translation work.
+
+## Part016 Tamil archival-ready / assembly handoff checkpoint
+
+**PART016 DOCUMENTATION SYNCHRONIZATION — PASS / COMPLETE.**  
+**PART016 TAMIL ARCHIVAL-READY — PASS / CLOSED.**
+
+- canonical Part016 — **27/27 textual verified / 27/27 visual verified**
+- maintained assembled frontier before construction — **section87**
+- reserved Part016 range — **sections88–93**
+- section collisions — **0**
+- complete-source endpoint — **scan477**
+- durable controls — `PART_016_DOCUMENTATION_SYNC.md`, `PART_016_TAMIL_ARCHIVAL_READY.md`
+- exact next — **construct + audit Part016 assembled Tamil sections88–93**
+- English — **NOT STARTED**

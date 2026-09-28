@@ -1,0 +1,115 @@
+# Part 016 — Tamil Archival-Ready Checkpoint
+
+Work: `பாயும்புலி பண்டாரக வன்னியன்`  
+Repository: `pugazg/kalaignar-novels`  
+Branch: `main`
+
+## Gate
+
+**PART016 TAMIL ARCHIVAL-READY — PASS / CLOSED**
+
+## Preconditions
+
+- Parts001–015 — **FINAL CLOSED / FROZEN**
+- Part016 canonical records — **27/27 — scans451–477**
+- Pass1 — **COMPLETE / PASS — 27/27**
+- Pass2A — **COMPLETE / PASS — 27/27 — 23 corrections**
+- Pass2B — **COMPLETE / PASS — 27/27 — 16 additional corrections**
+- Pass2B historical-glyph corrections — **0**
+- Pass3 — **COMPLETE / PASS — 27/27 — 0 textual corrections**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- canonical textual status — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map Part016 rows — **27/27 verified**
+- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
+
+## Source / mapping integrity
+
+- controlling source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf`
+- source SHA-256 — `82ca2020407e0996abfa2d3b29a192c56419f3f7da22a5a9d3d5dd5b8f9c3c6c`
+- physical scans — **451–477 continuous / 27**
+- local pages — **1–27 continuous**
+- visible printed folios — **444–467 continuous**
+- unnumbered end matter — **475–477**
+- missing canonical pages — **0**
+- duplicate canonical pages — **0**
+- complete-source endpoint — **scan477**
+
+## Structural integrity
+
+Verified Part016 reading units:
+
+1. scans451–454 — chapter72 `பகைவர் கையில் பனங்காமம்!` continuation / close;
+2. scans455–460 — chapter73 `திறமையை வென்ற திறமை!`;
+3. scans461–466 — chapter74 `காக்கையும் குருவியும்!`;
+4. scans467–473 — chapter75 `வாழும் வரலாறு!` / story close with `(முற்றும்)`;
+5. scan474 — author note `குறிப்பு:-`, signed `மு. க.`;
+6. scan475 — photographic memorial end matter;
+7. scan476 — full-page colour narrative illustration / no printed textual body;
+8. scan477 — back cover / publisher-device / terminal source page.
+
+Intentional blank lower fields:
+- **454, 460, 466, 474**
+
+## Boundary / endpoint integrity
+
+Incoming:
+- **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
+- frozen Part015 assembled section87 ends exactly at scan450
+- section88 will continue chapter72 from scan451 without importing frozen Part015 wording
+
+Terminal:
+- scan473 — literary story closes with `(முற்றும்)`
+- scan474 — author note
+- scans475–477 — end matter
+- scan477 — physical endpoint
+- continuation beyond scan477 — **none**
+
+## Mutation discipline
+
+This archival-ready checkpoint introduces:
+- canonical Tamil/body changes — **0**
+- page-status changes — **0**
+- visual-fidelity changes — **0**
+- page-map status changes — **0**
+- boundary-classification changes — **0**
+- frozen Parts001–015 canonical / assembled / English changes — **0**
+
+## Assembled Tamil handoff
+
+Live section-order collision check:
+- existing maintained section range ends at **87**
+- planned Part016 section-order range — **88–93**
+- collisions in **88–93** before construction — **0**
+
+Planned Part016 assembled files:
+
+1. `sections/88-pagaivar-kaiyil-panangamam-part016.md` — scans451–454 — chapter72 continuation;
+2. `sections/89-thiramaiyai-vendra-thiramai.md` — scans455–460 — chapter73;
+3. `sections/90-kaakkaiyum-kuruviyum.md` — scans461–466 — chapter74;
+4. `sections/91-vaazhum-varalaaru.md` — scans467–473 — chapter75;
+5. `sections/92-kurippu.md` — scan474 — author note;
+6. `sections/93-kandy-vikrama-raja-singan-memorial.md` — scans475–477 — terminal end matter; visible Tamil memorial caption from scan475, non-rendering provenance for illustration-only scan476 and back-cover scan477.
+
+Assembly safeguards:
+- verified canonical `## Source transcription` blocks are textual authority;
+- no source spelling / punctuation normalization;
+- no Pass/audit/workflow-note leakage;
+- preserve source-page boundaries with comments;
+- no invented text for scan476;
+- scan477 terminal publisher-device remains non-literary provenance in the Tamil reading layer;
+- frozen sections00–87 remain unchanged.
+
+## Result
+
+**PASS / CLOSED**
+
+Part016 is ready for assembled Tamil construction.
+
+## Exact next activity
+
+Construct + audit **Part016 assembled Tamil sections88–93**.
+
+Do not begin English translation work.

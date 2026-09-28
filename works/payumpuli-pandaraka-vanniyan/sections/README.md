@@ -506,3 +506,19 @@ Durable final record:
 - `works/payumpuli-pandaraka-vanniyan/PART_010_FINAL_CLOSURE.md`
 
 Exact next activity: directly audit **300→301**; if usable, begin **Part011 Pass1 scans301–310 / local pages1–10**. Do not reopen frozen Parts001–010 merely to advance Part011.
+
+
+## Part016 archival-ready / assembly frontier
+
+**PART016 TAMIL ARCHIVAL-READY — PASS / CLOSED.**
+
+- canonical scans — **451–477 / 27**
+- canonical Tamil/body status — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- maintained section frontier — **87**
+- reserved Part016 range — **88–93**
+- collision check — **0**
+- planned units — chapter72 continuation, chapters73–75, author note, terminal end matter
+- complete-source endpoint — **scan477**
+- exact next — **construct + audit Part016 sections88–93**
+- English — **BLOCKED UNTIL ASSEMBLED TAMIL CLOSES**

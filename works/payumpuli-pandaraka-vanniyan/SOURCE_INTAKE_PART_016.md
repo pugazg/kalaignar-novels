@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**ACTIVE / PASS1 — 20/27 TEXT-COMPLETE; Batch3 scans471–477 is NEXT.**
+**PART016 TAMIL ARCHIVAL-READY — PASS / CLOSED; ASSEMBLED TAMIL CONSTRUCTION + AUDIT NEXT.**
 
 - local PDF pages: **27**;
 - canonical overall scans: **451–477**;
@@ -25,7 +25,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 Part 016 contains the final **27** physical scans, overall **451–477**. Overall scan **477** is the physical endpoint of the complete 477-page source family by the supplied split design.
 
-The page function/content of scan 477 remains **unclassified until direct visual audit**. No external continuation exists beyond overall scan 477.
+Scan477 is directly classified as the **unnumbered back cover / publisher-device** and the physical endpoint of the complete source. No external continuation exists beyond overall scan477.
 
 ## Boundary state
 
@@ -48,23 +48,19 @@ The canonical `scan_page` remains the overall scan number **451–477**.
 
 ## Current gate
 
-Part 016 is **ACTIVE / PASS2A 10/27 REVIEWED / BATCH2 NEXT**.
+Part016 Tamil archival state is **PASS / CLOSED**.
 
-- source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf`
-- global scans — **451–477 / 27**
-- local pages — **1–27**
-- incoming **450→451 — CLEAN / AUDITED / PASS**
-- outgoing split boundary — **none**
+- scans — **451–477 / 27**
+- incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
 - physical source endpoint — **scan477**
-- Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Pass2A reviewed — **10/27 — scans451–460**
-- Pass2A remaining — **17**
-- Batch1 corrections — **13**
-- Batch1 correction scans — **451, 453, 455, 456, 457, 458, 459**
-- textual status — **10 verified / 17 needs-review**
-- visual fidelity — **27/27 needs-review**
-- Parts001–015 — **FINAL CLOSED / FROZEN**
-- exact next — **Pass2A Batch2 — scans461–470 / local11–20**
-- fixed Pass2A iteration — **10 physical source pages**
-
-Do not review scan471 or later in Batch2.
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- textual status — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- unresolved items — **0**
+- reserved assembled section range — **88–93 / collisions 0**
+- exact next — **Part016 assembled Tamil construction + audit**
+- English — **NOT STARTED / BLOCKED UNTIL ASSEMBLED TAMIL CLOSES**
