@@ -7,29 +7,27 @@
 **Working source:** 16 split PDFs — all supplied / registered  
 **Source PDFs in repository:** No
 
-## Current authoritative frontier — Part016 Pass2B Batch1 next
+## Current authoritative frontier — Part016 Pass2B Batch2 next
 
 - Parts001–015 — **FINAL CLOSED / FROZEN**
 - Part016 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 - Part016 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
-- Pass2A textual status — **27/27 verified**
+- Part016 Pass2B Batch1 scans451–460 — **COMPLETE / INDEPENDENTLY REVIEWED / PASS**
+- Pass2B reviewed — **10/27**
+- Batch1 additional Pass2B corrections — **3**
+- Pass2B correction scans — **453, 455, 458**
+- historical-glyph corrections — **0**
+- unresolved Pass2B questions — **0**
+- textual status — **27/27 verified**
 - visual fidelity — **27/27 needs-review**
-- Batch1 canonical corrections from Pass1 baseline — **15**
-- Batch2 canonical corrections from Pass1 baseline — **5**
-- Batch3 canonical corrections from Pass1 baseline — **3**
-- cumulative Pass2A canonical corrections — **23**
-- cumulative correction scans — **451, 452, 455, 456, 457, 458, 459, 460, 462, 464, 465, 467, 470, 471, 472, 477**
-- unresolved Pass2A questions — **0**
 - incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
 - chapter72 — **closes454**
 - chapter73 `திறமையை வென்ற திறமை!` — **opens455 / closes460**
 - chapter74 `காக்கையும் குருவியும்!` — **opens461 / closes466**
 - chapter75 `வாழும் வரலாறு!` — **opens467 / closes473 with `(முற்றும்)`**
-- author note — **scan474 / printed467**
-- unnumbered end matter — **scans475–477**
 - complete-source endpoint — **scan477**
-- Pass2B — **UNBLOCKED / NOT STARTED**
-- exact next — **Part016 Pass2B Batch1 — scans451–460 / local1–10 / printed444–453**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+- exact next — **Part016 Pass2B Batch2 — scans461–470 / local11–20 / printed454–463**
 
 ## Part001 — FINAL CLOSED / FROZEN
 
