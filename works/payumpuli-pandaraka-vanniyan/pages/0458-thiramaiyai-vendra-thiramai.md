@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 scans451–460; formal Part016 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 scans451–460; formal Part016 Pass 2A reviewed; formal Part016 Pass 2B reviewed"
 ---
 
 # திறமையை வென்ற திறமை!
@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 s
 
 முன்னால் துணைத் தளபதி ஜான்ஸ்டனின் படையை அனுப்பி வைத்து பண்டாரகனின் கவனத்தைத் திசை திருப்ப வாண்டரி பெர்க்கும், எட்வர்ட் மேட்ஜும் சூழ்ச்சி வலையை மிகத் திறமையாகப் பின்னியிருந்தனர்.
 
-புதரிலும், பாறைகளிலும் ஒளிந்திருந்த வீரர்களைக் கடந்து காட்டு வழியில் சென்று கொண்டிருந்த ஜான்ஸ்டனின் வீரர்கள், சற்றும் எதிர் பாராத நிலையில் பண்டாரகனும் அவனது படை வீரர்களும் செயல்பட்டனர். வளைந்து பூமியைத் தொட்டுக் கொண்டிருந்த மூங்கில் மரநுனிகள் சடார் சடார் என, மின்னல் கீற்றின் வேகத்தை மூன்றாவது நான்காவது இடத்திற்குத் தள்ளும் அளவுக்கு நிமிர்ந்தன! அப்படி நிமிர்ந்த அதே வேகத்தில் அவற்றின் நுனியில் கட்டப்பட்டிருந்த கற்கள், ஆங்கிலேயப்படையின் மீது கணைகளாகவோ அல்லது பீரங்கிக் குண்டுகளாகவோ சீறிப் பாய்ந்து தாக்கின! முதன் முதலாகத் தாக்குண்டு வீழ்ந்த துணைத் தளபதி ஜான்ஸ்டன் மயக்கமுற்று மட்டுமின்றி விழுந்த அதிர்ச்சியில் கண் பார்வையையும் இழந்தான். தற்காப்புப் படையின் தளகர்த்தன் வீழ்ந்ததைத் தொடர்ந்து வளைந்து நின்ற மூங்கில் மர நுனிகள் எல்லாம் நிமிர்ந்தன! கற்களைப் பொழிந்தன!
+புதரிலும், பாறைகளிலும் ஒளிந்திருந்த வீரர்களைக் கடந்து காட்டு வழியில் சென்று கொண்டிருந்த ஜான்ஸ்டனின் வீரர்கள், சற்றும் எதிர் பாராத நிலையில் பண்டாரகனும் அவனது படை வீரர்களும் செயல்பட்டனர். வளைந்து பூமியைத் தொட்டுக் கொண்டிருந்த மூங்கில் மரநுனிகள் சடார் சடார் என, மின்னல் கீற்றின் வேகத்தை மூன்றாவது நான்காவது இடத்திற்குத் தள்ளும் அளவுக்கு நிமிர்ந்தன! அப்படி நிமிர்ந்த அதே வேகத்தில் அவற்றின் நுனியில் கட்டப்பட்டிருந்த கற்கள், ஆங்கிலேயப்படையின் மீது கணைகளாகவோ அல்லது பீரங்கிக் குண்டுகளாகவோ சீறிப் பாய்ந்து தாக்கின! முதன் முதலாகத் தாக்குண்டு வீழ்ந்த துணைத் தளபதி ஜான்ஸ்டன் மயக்கமுற்றது மட்டுமின்றி விழுந்த அதிர்ச்சியில் கண் பார்வையையும் இழந்தான். தற்காப்புப் படையின் தளகர்த்தன் வீழ்ந்ததைத் தொடர்ந்து வளைந்து நின்ற மூங்கில் மர நுனிகள் எல்லாம் நிமிர்ந்தன! கற்களைப் பொழிந்தன!
 
 அந்தத் திடீர் தாக்குதலை சமாளிக்க முடியாமல் ஆங்கிலேயப்படை வீரர்கள் சிதறி ஓடினர். அவர்கள் தாக்குண்டு தரையில் பிணங்களாக விழுவதையும், உயிர் தப்பியோர் குதிரைகளை விரட்டிக்கொண்டு ‘ஓ’ என அலறியவாறு அந்தக் காட்டு வழியில் கண்ட கண்ட பக்கமெல்லாம் தலை தெறிக்க ஓடுவதையும் பார்த்து பண்டாரக வன்னியன் கை கொட்டிச் சிரித்தான். அவனது வீரர்களும் வெற்றி முழக்கமிட்டனர். மேலும் அந்த வழியில் ஆங்கிலேயர் படை வருகிறதா என்பதை அறிய அவன் காத்திருந்தான்.
 
@@ -50,4 +50,16 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 458; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: 451; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->
+## Formal Part016 Pass 2B review
+
+- independent second textual reread completed directly against rendered source pixels and the Pass2A canonical record;
+- lexical identity, source-specific compounds/joins, word boundaries, punctuation/quotation boundaries, and reform-sensitive historical/variant glyph occurrences were checked without modernization;
+- additional source-confirmed correction: `மயக்கமுற்று மட்டுமின்றி` → **`மயக்கமுற்றது மட்டுமின்றி`** — source lexical/inflection reading correction;
+- additional Pass2B source-text corrections in this scan: **1**;
+- historical-glyph corrections in this scan: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **INDEPENDENTLY REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 458; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: 451; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B INDEPENDENT TEXT VERIFIED / visual needs-review -->
