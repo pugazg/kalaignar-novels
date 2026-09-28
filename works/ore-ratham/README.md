@@ -7,7 +7,7 @@
 **Source scan:** **136 physical PDF pages**  
 **Source PDF committed to repository:** **No**
 
-## Current authoritative frontier — source intake / setup complete
+## Current authoritative frontier — full page/structure map complete; Pass1 Batch1 next
 
 - source registration — **COMPLETE / PASS**
 - repository work path — `works/ore-ratham/`
@@ -16,13 +16,16 @@
 - file size — **170,923,550 bytes**
 - SHA-256 — `4480aa8b95fb16b8f8b9a1877514774e2b13ee7ce9b496a9a4121027625c3426`
 - physical scans — **136**
-- representative source-structure inspection — **COMPLETE**
+- full source page/structure mapping — **COMPLETE / PASS — 136/136**
 - historical-glyph policy — **ACTIVE from first transcription**
+- physical-scan manifest — **136/136 mapped**
+- displayed chapter starts — **23/23 mapped**
+- repeated physical captures — **scans118–119 = printed pp.116–117**
 - canonical page records — **0 / 136**
 - canonical Tamil transcription — **NOT STARTED**
 - assembled Tamil — **NOT STARTED / BLOCKED**
 - English translation — **NOT STARTED / BLOCKED**
-- exact next — **full 136-scan page/structure mapping, then Pass1 transcription in controlled batches**
+- exact next — **Pass1 Batch1 — scans1–10 / processing split part001**
 
 ## Source-observed front / terminal structure
 
@@ -99,11 +102,11 @@ Do not:
 
 ## Exact next activity
 
-Map **all 136 physical scans** into the page manifest, including:
-- visible printed folio where present;
-- cover / publication / publisher-note / photo / narrative / back-cover classification;
-- displayed chapter starts;
-- unnumbered inserted pages;
-- narrative terminal page and source endpoint.
+Begin **Pass1 Batch1 — physical scans1–10 / processing split part001**.
 
-After the map is complete, begin **Pass1** in controlled batches. Do not bulk-transcribe from OCR.
+- transcribe directly from source pixels;
+- create canonical page records for scans1–10;
+- apply the historical-glyph checklist on every text-bearing page;
+- keep unresolved clusters `needs-review`;
+- preserve front matter scans1–4 as distinct source records;
+- do not begin scan11 in the same batch.

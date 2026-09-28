@@ -74,7 +74,10 @@ Rules:
 ## Current state
 
 - source intake — **PASS / COMPLETE**
-- page map — **PROVISIONAL / full 136-scan mapping NEXT**
+- page map — **COMPLETE / PASS — 136/136 physical scans**
+- displayed chapter starts — **23/23 mapped**
+- duplicate physical captures — **scan118→p116; scan119→p117**
+- processing split manifest — **14/14 VERIFIED**
 - canonical page records — **0 / 136**
 - Tamil Pass1 — **NOT STARTED**
 - historical-glyph audit — **ACTIVE POLICY / no page decisions yet**
@@ -83,4 +86,4 @@ Rules:
 
 ## Exact next activity
 
-Perform full **scan1–136 page/structure mapping** before bulk transcription.
+Begin **Pass1 Batch1 — scans1–10 / processing split part001**.

@@ -7,10 +7,13 @@
 | Source identity inspected | **COMPLETE / PASS** |
 | File integrity recorded | **COMPLETE** |
 | Physical source pages | **136** |
-| Full page manifest | **NOT STARTED — NEXT** |
+| Full page manifest | **COMPLETE / PASS — 136 / 136** |
 | Canonical page records | **0 / 136** |
 | Historical-glyph policy | **ACTIVE** |
-| Pass1 Tamil transcription | **NOT STARTED** |
+| Displayed chapter starts | **23 / 23 mapped** |
+| Repeated physical captures | **2 — scans118–119** |
+| Processing split manifest | **14 / 14 VERIFIED** |
+| Pass1 Tamil transcription | **NOT STARTED — NEXT** |
 | Pass2A source review | **BLOCKED** |
 | Pass2B independent review | **BLOCKED** |
 | Pass3 visual/structural review | **BLOCKED** |
@@ -39,19 +42,17 @@ Mandatory minimum check set:
 
 Historical character identity must be established from source pixels, with same-edition comparison where useful. Do not infer from modern lexical expectation, do not global-replace, and do not silently modernize wording.
 
-## Known source structure — provisional
+## Source structure — mapped / authoritative
 
-Directly confirmed:
-- scan1 cover;
-- scan2 publication details;
-- scan3 `பதிப்புரை`;
-- scan4 author photograph/handwritten text;
-- scan5 narrative chapter1;
-- scan131 displayed chapter23;
-- scan135 / printed133 closes narrative with `(முற்றும்)`;
-- scan136 back cover.
+- scans1–4 — front matter / paratext;
+- scans5–135 — narrative physical captures;
+- distinct printed narrative folios — **5–133 / 129**;
+- displayed chapters — **1–23 / all starts mapped**;
+- scans118–119 — repeated physical captures of printed pp.116–117;
+- scan135 / printed133 — narrative closes with `(முற்றும்)`;
+- scan136 — back cover / source endpoint.
 
-The intervening printed-folio map and chapter-start map are not yet complete.
+See `indexes/page-map.md` for the one-row-per-scan manifest and `SOURCE_SPLIT_MANIFEST.md` for processing splits.
 
 ## Verification policy
 
@@ -66,4 +67,4 @@ No page may be promoted merely because OCR or language context appears plausible
 
 ## Exact next activity
 
-Complete the **136-scan page map**, then open Pass1.
+Begin **Pass1 Batch1 — scans1–10 / processing split part001**.

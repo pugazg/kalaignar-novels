@@ -71,3 +71,19 @@ Known mandatory audit families:
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
 The guide controls character-identity decoding; source wording remains unchanged.
+
+
+## Full physical-scan / chapter map checkpoint
+
+**COMPLETE / PASS — 136/136 physical scans mapped.**
+
+- front matter — scans1–4;
+- narrative — scans5–135;
+- displayed chapters — **1–23 / all starts mapped**;
+- repeated physical captures — **scan118 repeats printed p.116; scan119 repeats printed p.117**;
+- scans120–135 therefore carry printed pp.118–133;
+- scan135 / p.133 — `(முற்றும்)`;
+- scan136 — back cover / endpoint;
+- processing split derivatives — **14/14 validated, gaps 0**.
+
+The repeated captures remain physical provenance and must not produce duplicated prose in the assembled reading layer.

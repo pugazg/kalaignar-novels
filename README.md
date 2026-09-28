@@ -11,8 +11,11 @@
 - physical source extent — **136 scans**
 - source intake / setup — **COMPLETE / PASS**
 - historical-glyph policy — **ACTIVE**
+- full page/structure map — **136/136 COMPLETE / PASS**
+- chapters — **1–23 / 23 starts mapped**
+- duplicate physical captures — **scans118–119 = printed pp.116–117**
 - canonical pages — **0/136 / NOT STARTED**
-- exact next — **full scan1–136 page/structure mapping, then Pass1 transcription**
+- exact next — **Pass1 Batch1 — scans1–10 / processing split part001**
 - source PDF — **outside Git**
 
 ## Completed source — பாயும்புலி பண்டாரக வன்னியன்
