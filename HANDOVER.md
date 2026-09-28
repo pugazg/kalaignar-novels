@@ -7,25 +7,23 @@
 - **LIVE MAIN IS AUTHORITATIVE.**
 - Active work: `works/payumpuli-pandaraka-vanniyan/`
 
-## Current authoritative frontier — Part016 English translation planning/setup next
+## Current authoritative frontier — Part016 E85 draft + source-check next
 
 - Parts001–015 — **FINAL CLOSED / FROZEN**
-- Part016 canonical scans — **451–477 / 27**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / CURRENT**
+- Part016 canonical Tamil/body — **27/27 verified**
+- Part016 visual fidelity — **27/27 verified**
 - Tamil archival-ready — **PASS / CLOSED**
-- canonical Tamil/body — **27/27 verified**
-- visual fidelity — **27/27 verified**
 - assembled Tamil — **sections88–93 / 6/6 VERIFIED / CLOSED**
-- assembled exact canonical comparisons — **6/6 PASS**
-- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
-- frozen sections00–87 mutations — **0**
+- Tamil Assembly + Audit — **COMPLETE / PASS / CLOSED**
+- English planning/setup — **COMPLETE / PASS**
+- reserved English batches — **E85–E90 / 6**
+- reserved maintained English sections — **88–93 / 6**
+- live batch collision check — **PASS / 0 collisions**
+- live English section collision check — **PASS / 0 collisions**
+- English translated / source-checked — **0/6 / 0/6**
 - complete-source endpoint — **scan477**
-- English — **NOT STARTED**
-- durable assembly validation — `works/payumpuli-pandaraka-vanniyan/PART_016_ASSEMBLED_TAMIL_VALIDATION.md`
-- exact next — **Part016 English translation planning/setup**
+- exact next — **E85 draft + source-check — section88 / scans451–454**
+- do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**
 
 ## Source family
 

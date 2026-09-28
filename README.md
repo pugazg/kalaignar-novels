@@ -6,22 +6,23 @@
 
 - work directory: `works/payumpuli-pandaraka-vanniyan/`
 - source family: **TVA_BOK_0065744**
+
 - Parts001–015 — **FINAL CLOSED / FROZEN**
-- Part016 canonical scans — **451–477 / 27**
-- Part016 Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part016 Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / CURRENT**
+- Part016 canonical Tamil/body — **27/27 verified**
+- Part016 visual fidelity — **27/27 verified**
 - Tamil archival-ready — **PASS / CLOSED**
-- canonical Tamil/body — **27/27 verified**
-- visual fidelity — **27/27 verified**
 - assembled Tamil — **sections88–93 / 6/6 VERIFIED / CLOSED**
-- assembled canonical coverage — **27/27**
-- assembly validation — **6/6 EXACT / PASS**
-- unresolved Tamil / assembly blockers — **0**
+- Tamil Assembly + Audit — **COMPLETE / PASS / CLOSED**
+- English planning/setup — **COMPLETE / PASS**
+- reserved English batches — **E85–E90 / 6**
+- reserved maintained English sections — **88–93 / 6**
+- live batch collision check — **PASS / 0 collisions**
+- live English section collision check — **PASS / 0 collisions**
+- English translated / source-checked — **0/6 / 0/6**
 - complete-source endpoint — **scan477**
-- English — **NOT STARTED**
-- exact next — **Part016 English translation planning/setup**
+- exact next — **E85 draft + source-check — section88 / scans451–454**
+- do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**
+
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 

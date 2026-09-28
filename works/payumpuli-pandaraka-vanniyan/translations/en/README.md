@@ -1736,3 +1736,27 @@ Exact next activity: directly audit **300→301**; if usable, begin **Part011 Pa
 - Part016 body leakage — **0**
 - Part016 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
 - exact next — **Part016 Pass1 Batch1 scans451–460 / local1–10**
+
+
+## Part016 English planning/setup checkpoint
+
+**PART016 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS.**
+
+- prior source-check frontier — **E84**
+- E1–E84 — **contiguous / missing 0**
+- reserved Part016 sequence — **E85–E90 / 6**
+- batch collisions — **0**
+- prior maintained English section frontier — **87**
+- sections00–87 — **contiguous / missing 0**
+- reserved maintained English sections — **88–93 / 6**
+- section collisions — **0**
+- canonical Part016 Tamil / visual fidelity — **27/27 verified / 27/27 verified**
+- assembled Tamil — **sections88–93 / 6/6 VERIFIED / CLOSED**
+- translated / source-checked Part016 English — **0/6 / 0/6**
+- English literary prose drafted during setup — **0**
+- source-check records E85–E90 created during setup — **0**
+- frozen Parts001–015 English body changes — **0**
+- active controls — `PART_016_TRANSLATION_PLAN.md`, `PART_016_GLOSSARY.md`, `PART_016_PROGRESS.md`
+- exact next — **E85 draft + source-check — section88 / scans451–454**
+
+Do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**.
