@@ -2,18 +2,20 @@
 
 ## Current gate
 
-**PART016 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED**
+**PART016 FINAL CLOSURE — PASS / CLOSED / FROZEN**
 
 ## Current batch closure
 
-- E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
+- E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
 - glossary reconciliation — **RECONCILED / PASS**
 - editorial review — **PASS / CLOSED**
 - bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- unresolved Part016 English/release blockers — **0**
-- exact next — **Part016 final closure**
+- Part016 final closure — **PASS / CLOSED / FROZEN**
+- complete source endpoint — **scan477**
+- unresolved Part016 blockers — **0**
+- next Part in supplied source family — **none**
 
 ## Reservation
 
@@ -63,7 +65,9 @@
 
 ## Exact next gate
 
-Create and verify **Part016 final closure**.
+**None within the supplied source family.**
+
+Keep Part016 and Parts001–015 frozen unless a source-backed defect or separate authorized post-closure activity is introduced.
 
 ## E85 completion checkpoint
 
@@ -189,3 +193,13 @@ Exact next — **Part016 whole-Part English glossary reconciliation**.
 - unresolved holds — **0**
 - complete-source endpoint — **scan477**
 - exact next — **Part016 final closure**
+
+## Part016 final-closure checkpoint
+
+**PART016 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–016 — **FINAL CLOSED / FROZEN**
+- E85–E90 — **6/6 frozen**
+- source family — **TVA_BOK_0065744 / 477 scans / CLOSED**
+- unresolved blockers — **0**
+- next Part — **none**

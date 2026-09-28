@@ -1,19 +1,20 @@
 # Part 016 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PART016 ENGLISH CHAIN COMPLETE THROUGH RELEASE-READY SYNC; FINAL CLOSURE NEXT**
+Status: **PART016 FINAL CLOSURE — PASS / CLOSED / FROZEN**
 
 This is the control plan for the project-created English translation of **Part016 only**.
 
 ## Current English frontier
 
-- E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
+- E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
 - glossary reconciliation — **RECONCILED / PASS**
 - editorial review — **PASS / CLOSED**
 - bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
+- Part016 final closure — **PASS / CLOSED / FROZEN**
 - unresolved Part016 English blockers — **0**
-- exact next — **Part016 final closure**
+- next Part in supplied source family — **none**
 
 Parts001–015 are **FINAL CLOSED / FROZEN**. Their maintained English files and controls are precedent only and must not be edited merely to advance Part016.
 
@@ -316,3 +317,14 @@ Exact next gate — **Part016 whole-Part English glossary reconciliation across 
 - unresolved synchronization holds — **0**
 - durable record — `../PART_016_RELEASE_READY_SYNC.md`
 - exact next — **Part016 final closure**
+
+## Part016 final-closure checkpoint
+
+**PART016 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- E85–E90 / sections88–93 — **frozen**
+- complete source endpoint — **scan477**
+- body changes in closure — **0**
+- unresolved blockers — **0**
+- durable closure — `../PART_016_FINAL_CLOSURE.md`
+- next Part — **none**

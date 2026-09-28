@@ -83,3 +83,14 @@ Part016 is ready for final closure.
 ## Exact next activity
 
 Create and verify **Part016 final closure** in `PART_016_FINAL_CLOSURE.md`.
+
+## Part016 final-closure checkpoint
+
+**PART016 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–016 — **FINAL CLOSED / FROZEN**
+- complete source family — **477 scans / 16 supplied Parts / CLOSED**
+- canonical Tamil / assembled Tamil / maintained English body changes — **0 / 0 / 0**
+- unresolved terminal blockers — **0**
+- durable closure — `PART_016_FINAL_CLOSURE.md`
+- next Part in supplied source family — **none**
