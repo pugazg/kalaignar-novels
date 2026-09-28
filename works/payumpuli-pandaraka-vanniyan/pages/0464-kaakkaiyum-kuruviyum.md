@@ -6,11 +6,11 @@ printed_page: 457
 work: "payumpuli-pandaraka-vanniyan"
 section: "காக்கையும் குருவியும்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 scans461–470"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 scans461–470; formal Part016 Pass 2A reviewed"
 ---
 
 # காக்கையும் குருவியும்!
@@ -55,7 +55,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 குதிரையை நிறுத்தியவாறு, வாண்டரி பெர்க் குறிப்பிட்ட
 இடத்தைப் பார்த்தான்.
 
-சேரும் சகதியும் படிந்த பாதை - அந்தப் பாதையில் சில
+சேறும் சகதியும் படிந்த பாதை - அந்தப் பாதையில் சில
 குதிரைகள் சென்றதற்கு அடையாளமாக குளம்புகளின் சுவடுகள்!
 
 ## Pass 1 notes
@@ -66,4 +66,16 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 - physical page ends after the hoofprint observation
 - Pass1 textual status remains **needs-review** pending Pass2A; visual fidelity remains **needs-review**
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 464; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 14; அச்சுப் பக்கம்: 457; PASS 1 TEXT-COMPLETE / textual needs-review / visual needs-review -->
+## Formal Part016 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against rendered Part016 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-visible irregular forms were preserved without modernization;
+- source-confirmed correction: `சேரும் சகதியும்` → **`சேறும் சகதியும்`** — source spelling / word-form correction;
+- source-text corrections in this scan: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 464; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 14; அச்சுப் பக்கம்: 457; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->
