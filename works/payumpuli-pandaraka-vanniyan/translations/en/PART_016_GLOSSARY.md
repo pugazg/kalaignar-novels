@@ -127,3 +127,14 @@ Exact next glossary gate: **E88 draft + source-check — section91 / scans467–
 - unresolved E88 glossary holds — **0**
 
 Exact next glossary gate: **E89 draft + source-check — section92 / scan474**.
+
+## E89 source-check decisions
+
+- `குறிப்பு:-` → **Note** — **CONFIRMED**
+- `முகப்புரை` → **Preface** — local-context functional rendering
+- `மு. க.` → **M. K.** — initials only; no added identity gloss
+- source uncertainty about Pandaraka Vanniyan’s death remains unresolved by design; outside historical correction — **0**
+- external-source normalization introduced in E89 — **0**
+- unresolved E89 glossary holds — **0**
+
+Exact next glossary gate: **E90 draft + source-check — section93 / scans475–477**.

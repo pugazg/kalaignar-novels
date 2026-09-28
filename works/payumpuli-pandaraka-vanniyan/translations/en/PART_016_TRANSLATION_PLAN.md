@@ -207,3 +207,16 @@ Do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**.
 - omissions / duplicates / unsupported insertion — **0 / 0 / 0**
 - unresolved E88 holds — **0**
 - exact next — **E89 draft + source-check — section92 / scan474**
+
+## E89 source-check checkpoint
+
+**E89 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil source — section92 / scan474
+- maintained English — `sections/92-note.md`
+- title — **Note**
+- source type — **post-story author note**
+- blocks — **3/3 represented**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved E89 holds — **0**
+- exact next — **E90 draft + source-check — section93 / scans475–477**

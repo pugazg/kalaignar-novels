@@ -23,8 +23,8 @@
 | E86 | 89 | 455–460 | 89 | **SOURCE-CHECKED / COMPLETE** |
 | E87 | 90 | 461–466 | 90 | **SOURCE-CHECKED / COMPLETE** |
 | E88 | 91 | 467–473 | 91 | **SOURCE-CHECKED / COMPLETE** |
-| E89 | 92 | 474 | 92 | **NOT STARTED / NEXT** |
-| E90 | 93 | 475–477 | 93 | **NOT STARTED / BLOCKED BY E89** |
+| E89 | 92 | 474 | 92 | **SOURCE-CHECKED / COMPLETE** |
+| E90 | 93 | 475–477 | 93 | **NOT STARTED / NEXT** |
 
 ## Authority / integrity
 
@@ -52,9 +52,9 @@
 
 ## Exact next gate
 
-Begin **E89 draft + source-check — section92 / scan474**.
+Begin **E90 draft + source-check — section93 / scans475–477**.
 
-Do not begin E90 until E89 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin whole-Part glossary reconciliation until E90 is **SOURCE-CHECKED / COMPLETE**.
 
 ## E85 completion checkpoint
 
@@ -101,3 +101,14 @@ Do not begin E90 until E89 is **SOURCE-CHECKED / COMPLETE**.
 - omissions / duplicates / unsupported insertion — **0 / 0 / 0**
 - unresolved holds — **0**
 - exact next — **E89 / section92 / scan474**
+
+## E89 completion checkpoint
+
+- E89 — **SOURCE-CHECKED / COMPLETE**
+- maintained English section92 — **CREATED / SOURCE-CHECKED**
+- scan474 — **COMPLETE**
+- blocks — **3/3**
+- author-note separation — **PASS**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved holds — **0**
+- exact next — **E90 / section93 / scans475–477**
