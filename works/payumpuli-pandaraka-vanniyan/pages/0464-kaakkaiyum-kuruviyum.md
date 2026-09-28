@@ -7,7 +7,7 @@ work: "payumpuli-pandaraka-vanniyan"
 section: "காக்கையும் குருவியும்!"
 page_type: "body"
 status: "verified"
-visual_fidelity: "needs-review"
+visual_fidelity: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
 transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 scans461–470; formal Part016 Pass 2A reviewed; formal Part016 Pass 2B reviewed; formal Part016 Pass 3 reviewed"
@@ -100,4 +100,4 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 - textual `status` remains **verified**;
 - `visual_fidelity` remains **needs-review** until Part audit and final metadata/status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 464; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 14; அச்சுப் பக்கம்: 457; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B INDEPENDENT TEXT VERIFIED / PASS 3 VISUAL-STRUCTURAL REVIEWED / visual needs-review -->
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 464; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 14; அச்சுப் பக்கம்: 457; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B INDEPENDENT TEXT VERIFIED / PASS 3 VISUAL-STRUCTURAL REVIEWED / visual-verified -->
