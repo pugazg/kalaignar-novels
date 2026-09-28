@@ -153,3 +153,17 @@ For every batch:
 Begin **E85 draft + source-check — section88 / scans451–454**.
 
 Do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**.
+
+## E85 source-check checkpoint
+
+**E85 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil source — section88 / scans451–454
+- maintained English — `sections/88-panangamam-in-enemy-hands-part016.md`
+- chapter72 continuation — **PASS**
+- literary blocks — **35/35 represented**
+- source-boundary markers — **3/3 / PASS**
+- frozen Part015 English imported — **0**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved E85 holds — **0**
+- exact next — **E86 draft + source-check — section89 / scans455–460**

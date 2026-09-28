@@ -19,8 +19,8 @@
 
 | Batch | Tamil section | Scans | Planned English section | State |
 |---|---:|---:|---:|---|
-| E85 | 88 | 451–454 | 88 | **NOT STARTED / NEXT** |
-| E86 | 89 | 455–460 | 89 | **NOT STARTED / BLOCKED BY E85** |
+| E85 | 88 | 451–454 | 88 | **SOURCE-CHECKED / COMPLETE** |
+| E86 | 89 | 455–460 | 89 | **NOT STARTED / NEXT** |
 | E87 | 90 | 461–466 | 90 | **NOT STARTED / BLOCKED BY E86** |
 | E88 | 91 | 467–473 | 91 | **NOT STARTED / BLOCKED BY E87** |
 | E89 | 92 | 474 | 92 | **NOT STARTED / BLOCKED BY E88** |
@@ -52,6 +52,18 @@
 
 ## Exact next gate
 
-Begin **E85 draft + source-check — section88 / scans451–454**.
+Begin **E86 draft + source-check — section89 / scans455–460**.
 
-Do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin E87 until E86 is **SOURCE-CHECKED / COMPLETE**.
+
+## E85 completion checkpoint
+
+- E85 — **SOURCE-CHECKED / COMPLETE**
+- maintained English section88 — **CREATED / SOURCE-CHECKED**
+- scans451–454 — **COMPLETE**
+- literary blocks — **35/35**
+- boundary markers — **3/3**
+- frozen Part015 body imported — **0**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved holds — **0**
+- exact next — **E86 / section89 / scans455–460**

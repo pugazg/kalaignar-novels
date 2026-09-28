@@ -85,3 +85,13 @@ Do not silently replace source-visible names, titles, places, offices, ethnonyms
 - unresolved planning holds — **0**
 
 Exact next glossary gate: **E85 draft + source-check — section88 / scans451–454**.
+
+## E85 source-check decisions
+
+- inherited **Panangamam, Kuruvichchi, Oomaichchi Naachchi / Naachchiyar** — **CONFIRMED**
+- `வீரத் திலகம்` → **warrior’s tilak** — source-facing handling
+- chapter72 title remains inherited **Panangamam in Enemy Hands!**; E85 does not repeat a fresh chapter opening
+- external-source normalization introduced in E85 — **0**
+- unresolved E85 glossary holds — **0**
+
+Exact next glossary gate: **E86 draft + source-check — section89 / scans455–460**.
