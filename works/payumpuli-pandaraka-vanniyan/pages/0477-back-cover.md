@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 s
 
 ROCK FORT Publications (p) Ltd.
 
-MADRAS - 600023
+MADRAS - 600032
 
 ## Pass 1 notes
 
@@ -30,9 +30,10 @@ MADRAS - 600023
 ## Formal Part016 Pass 2A review
 
 - back-cover / publisher-device wording was re-compared directly against the rendered source pixels;
-- visible publisher text **`ROCK FORT Publications (p) Ltd.`** and **`MADRAS - 600023`** is retained;
+- visible publisher text **`ROCK FORT Publications (p) Ltd.`** and **`MADRAS - 600032`** is retained;
 - scan477 remains the physical endpoint of the complete source; continuation beyond it is not applicable;
-- source-text corrections in this scan: **0**;
+- source-confirmed correction: `MADRAS - 600023` → **`MADRAS - 600032`** — publisher-device postcode;
+- source-text corrections in this scan: **1**;
 - unresolved textual questions: **0**;
 - Pass 2A result for this scan: **REVIEWED / PASS**;
 - textual `status` is **verified** after this Pass 2A review;

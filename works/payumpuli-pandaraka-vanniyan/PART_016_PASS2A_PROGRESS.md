@@ -33,9 +33,9 @@ For each reviewed physical scan, canonical Tamil is re-compared directly against
 - Batch1 correction scans — **451, 452, 455, 456, 457, 458, 459, 460**
 - Batch2 canonical corrections from Pass1 baseline — **5**
 - Batch2 correction scans — **462, 464, 465, 467, 470**
-- Batch3 canonical corrections from Pass1 baseline — **2**
-- Batch3 correction scans — **471, 472**
-- cumulative Pass2A canonical corrections — **22**
+- Batch3 canonical corrections from Pass1 baseline — **3**
+- Batch3 correction scans — **471, 472, 477**
+- cumulative Pass2A canonical corrections — **23**
 - unresolved textual questions — **0**
 - textual status — **27/27 verified**
 - visual fidelity — **27/27 needs-review**
@@ -142,12 +142,13 @@ For scans461–470:
 
 **COMPLETE / REVIEWED / PASS — 7 scans**
 
-Final direct source-pixel reconciliation against the Pass1 baseline produced these **2 canonical corrections**:
+Final direct source-pixel reconciliation against the Pass1 baseline produced these **3 canonical corrections**:
 
 - scan471 / printed464 — `ஏதோ தீர்க்கமாகச் சிந்தித்தாள்.` → **`ஏதோ தீர்க்கமாக சிந்தித்தாள்.`**;
-- scan472 / printed465 — `அப்படி என்ன வையம்` → **`அப்படி யென்ன வையம்`**.
+- scan472 / printed465 — `அப்படி என்ன வையம்` → **`அப்படி யென்ன வையம்`**;
+- scan477 / unnumbered back cover — `MADRAS - 600023` → **`MADRAS - 600032`**.
 
-Scans473–477 require **0 final canonical correction relative to the Pass1 baseline**.
+Scans473–476 require **0 final canonical correction relative to the Pass1 baseline**.
 
 Textual result:
 - scans471–477 — **7/7 verified**
@@ -179,8 +180,8 @@ For scans471–477:
 
 - textual status — **27/27 verified**
 - visual fidelity — **27/27 needs-review**
-- cumulative Pass2A canonical corrections — **22**
-- cumulative Pass2A correction scans — **451, 452, 455, 456, 457, 458, 459, 460, 462, 464, 465, 467, 470, 471, 472**
+- cumulative Pass2A canonical corrections — **23**
+- cumulative Pass2A correction scans — **451, 452, 455, 456, 457, 458, 459, 460, 462, 464, 465, 467, 470, 471, 472, 477**
 - unresolved textual questions — **0**
 - complete-source endpoint — **scan477**
 - frozen Parts001–015 mutations — **0**

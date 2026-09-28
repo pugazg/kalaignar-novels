@@ -16,9 +16,9 @@
 - visual fidelity — **27/27 needs-review**
 - Batch1 canonical corrections from Pass1 baseline — **15**
 - Batch2 canonical corrections from Pass1 baseline — **5**
-- Batch3 canonical corrections from Pass1 baseline — **2**
-- cumulative Pass2A canonical corrections — **22**
-- cumulative correction scans — **451, 452, 455, 456, 457, 458, 459, 460, 462, 464, 465, 467, 470, 471, 472**
+- Batch3 canonical corrections from Pass1 baseline — **3**
+- cumulative Pass2A canonical corrections — **23**
+- cumulative correction scans — **451, 452, 455, 456, 457, 458, 459, 460, 462, 464, 465, 467, 470, 471, 472, 477**
 - unresolved Pass2A questions — **0**
 - incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
 - chapter72 — **closes454**
