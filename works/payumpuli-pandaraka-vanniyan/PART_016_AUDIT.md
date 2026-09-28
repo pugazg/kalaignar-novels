@@ -163,3 +163,17 @@ Status promotions caused by this audit — **0**.
 Perform **Part016 final metadata/status synchronization**.
 
 Promote only `visual_fidelity` from `needs-review` to `verified` across the 27 audited Part016 canonical records. Do not change canonical Tamil/body wording.
+
+## Part016 final metadata/status synchronization checkpoint
+
+**PART016 FINAL METADATA / STATUS SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical scans451–477 — **27/27**
+- textual status — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- visual-fidelity promotions — **27**
+- canonical body mutations caused by this gate — **0**
+- unresolved page-status exceptions — **0**
+- complete-source endpoint — **scan477**
+- durable status record — `PART_016_FINAL_STATUS_SYNC.md`
+- exact next — **Part016 documentation synchronization**

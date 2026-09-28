@@ -7,18 +7,18 @@
 **Working source:** 16 split PDFs — all supplied / registered  
 **Source PDFs in repository:** No
 
-## Current authoritative frontier — Part016 final metadata/status synchronization next
+## Current authoritative frontier — Part016 documentation synchronization next
 
 - Parts001–015 — **FINAL CLOSED / FROZEN**
 - Part016 Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part016 Part audit — **PASS / COMPLETE**
-- canonical records — **27/27 — scans451–477**
+- Part016 final metadata/status synchronization — **PASS / CLOSED**
+- canonical records — **27/27**
 - textual status — **27/27 verified**
-- visual fidelity — **27/27 needs-review**
-- unresolved Tamil / lexical / glyph / visual / structural issues — **0**
-- incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
+- visual fidelity — **27/27 verified**
+- unresolved Part016 issues — **0**
 - complete-source endpoint — **scan477**
-- exact next — **Part016 final metadata/status synchronization**
+- exact next — **Part016 documentation synchronization → Tamil archival-ready → assembled Tamil construction + audit**
 
 ## Part001 — FINAL CLOSED / FROZEN
 
