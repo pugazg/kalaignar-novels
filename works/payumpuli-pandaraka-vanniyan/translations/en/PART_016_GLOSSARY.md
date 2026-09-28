@@ -95,3 +95,13 @@ Exact next glossary gate: **E85 draft + source-check — section88 / scans451–
 - unresolved E85 glossary holds — **0**
 
 Exact next glossary gate: **E86 draft + source-check — section89 / scans455–460**.
+
+## E86 source-check decisions
+
+- chapter73 `திறமையை வென்ற திறமை!` → **Skill That Defeated Skill!** — **CONFIRMED**
+- `ஜான்ஸ்டன்` → **Johnston** — source-facing Part016 form
+- inherited **Mullaitheevu, Vanderi Berg, Edward Madge, Mannar, Thirukonamalai** — **CONFIRMED**
+- external-source normalization introduced in E86 — **0**
+- unresolved E86 glossary holds — **0**
+
+Exact next glossary gate: **E87 draft + source-check — section90 / scans461–466**.

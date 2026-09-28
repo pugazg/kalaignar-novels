@@ -20,8 +20,8 @@
 | Batch | Tamil section | Scans | Planned English section | State |
 |---|---:|---:|---:|---|
 | E85 | 88 | 451–454 | 88 | **SOURCE-CHECKED / COMPLETE** |
-| E86 | 89 | 455–460 | 89 | **NOT STARTED / NEXT** |
-| E87 | 90 | 461–466 | 90 | **NOT STARTED / BLOCKED BY E86** |
+| E86 | 89 | 455–460 | 89 | **SOURCE-CHECKED / COMPLETE** |
+| E87 | 90 | 461–466 | 90 | **NOT STARTED / NEXT** |
 | E88 | 91 | 467–473 | 91 | **NOT STARTED / BLOCKED BY E87** |
 | E89 | 92 | 474 | 92 | **NOT STARTED / BLOCKED BY E88** |
 | E90 | 93 | 475–477 | 93 | **NOT STARTED / BLOCKED BY E89** |
@@ -52,9 +52,9 @@
 
 ## Exact next gate
 
-Begin **E86 draft + source-check — section89 / scans455–460**.
+Begin **E87 draft + source-check — section90 / scans461–466**.
 
-Do not begin E87 until E86 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin E88 until E87 is **SOURCE-CHECKED / COMPLETE**.
 
 ## E85 completion checkpoint
 
@@ -67,3 +67,14 @@ Do not begin E87 until E86 is **SOURCE-CHECKED / COMPLETE**.
 - omissions / duplicates / unsupported insertion — **0 / 0 / 0**
 - unresolved holds — **0**
 - exact next — **E86 / section89 / scans455–460**
+
+## E86 completion checkpoint
+
+- E86 — **SOURCE-CHECKED / COMPLETE**
+- maintained English section89 — **CREATED / SOURCE-CHECKED**
+- scans455–460 — **COMPLETE**
+- literary blocks — **28/28**
+- boundary markers — **5/5**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved holds — **0**
+- exact next — **E87 / section90 / scans461–466**

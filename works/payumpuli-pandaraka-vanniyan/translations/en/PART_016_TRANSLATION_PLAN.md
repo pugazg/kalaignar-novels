@@ -167,3 +167,16 @@ Do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**.
 - omissions / duplicates / unsupported insertion — **0 / 0 / 0**
 - unresolved E85 holds — **0**
 - exact next — **E86 draft + source-check — section89 / scans455–460**
+
+## E86 source-check checkpoint
+
+**E86 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil source — section89 / scans455–460
+- maintained English — `sections/89-skill-that-defeated-skill.md`
+- title — **Skill That Defeated Skill!**
+- literary blocks — **28/28 represented**
+- source-boundary markers — **5/5 / PASS**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved E86 holds — **0**
+- exact next — **E87 draft + source-check — section90 / scans461–466**
