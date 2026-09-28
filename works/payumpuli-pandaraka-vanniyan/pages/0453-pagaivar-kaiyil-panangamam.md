@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 scans451–460; formal Part016 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 scans451–460; formal Part016 Pass 2A reviewed; formal Part016 Pass 2B reviewed"
 ---
 
 # பகைவர் கையில் பனங்காமம்!
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 s
 
 தகவல் தந்தான்.
 
-குருவிச்சி சுவரோரம் சென்று, அந்த ரத்தத்துளிகளைத் தன் கைகளால் சுரண்டி எடுத்து, தனது நெற்றியில் வீரத் திலகமாக இட்டுக் கொண்டாள்.
+குருவிச்சி சுவரோரம் சென்று, அந்த ரத்தத்துளிகளைத் தன் கைகளால் சுரண்டி யெடுத்து, தனது நெற்றியில் வீரத் திலகமாக இட்டுக் கொண்டாள்.
 
 “இந்தக் கூடத்திலேயே அமருங்கள்! விரைவில் உணவு தயாராகிவிடும்” என்று நாற்காலியைக் காட்டினான் அதிகாரி.
 
@@ -63,4 +63,16 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 453; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 446; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->
+## Formal Part016 Pass 2B review
+
+- independent second textual reread completed directly against rendered source pixels and the Pass2A canonical record;
+- lexical identity, source-specific compounds/joins, word boundaries, punctuation/quotation boundaries, and reform-sensitive historical/variant glyph occurrences were checked without modernization;
+- additional source-confirmed correction: `சுரண்டி எடுத்து` → **`சுரண்டி யெடுத்து`** — source-visible historical/variant sandhi form and word boundary; supersedes the earlier normalized reading;
+- additional Pass2B source-text corrections in this scan: **1**;
+- historical-glyph corrections in this scan: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **INDEPENDENTLY REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 453; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 446; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B INDEPENDENT TEXT VERIFIED / visual needs-review -->
