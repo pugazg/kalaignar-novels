@@ -7,14 +7,15 @@
 **Working source:** 16 split PDFs — all supplied / registered  
 **Source PDFs in repository:** No
 
-## Current authoritative frontier — Part016 Pass3 Batch2 next
+## Current authoritative frontier — Part016 Pass3 Batch3 next
 
 - Parts001–015 — **FINAL CLOSED / FROZEN**
 - Part016 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 - Part016 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
 - Part016 Pass2B — **COMPLETE / PASS — 27/27 INDEPENDENTLY REVIEWED**
 - Part016 Pass3 Batch1 scans451–460 — **COMPLETE / REVIEWED / PASS**
-- Pass3 visual / structural reviewed — **10/27**
+- Part016 Pass3 Batch2 scans461–470 — **COMPLETE / REVIEWED / PASS**
+- Pass3 visual / structural reviewed — **20/27**
 - Pass3 textual corrections — **0**
 - unresolved Pass3 visual / structural questions — **0**
 - textual status — **27/27 verified**
@@ -27,7 +28,7 @@
 - author note — **scan474 / printed467**
 - unnumbered end matter — **scans475–477**
 - complete-source endpoint — **scan477**
-- exact next — **Part016 Pass3 Batch2 — scans461–470 / local11–20 / printed454–463**
+- exact next — **Part016 Pass3 Batch3 — scans471–477 / local21–27 / printed464–467 + unnumbered end matter**
 
 ## Part001 — FINAL CLOSED / FROZEN
 

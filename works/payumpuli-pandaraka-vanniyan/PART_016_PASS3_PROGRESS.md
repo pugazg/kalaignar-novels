@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — ACTIVE — 10/27 VISUAL / STRUCTURAL REVIEWED / BATCH2 NEXT**
+**PASS 3 — ACTIVE — 20/27 VISUAL / STRUCTURAL REVIEWED / BATCH3 NEXT**
 
 Prerequisites:
 - Part016 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
@@ -18,8 +18,8 @@ Prerequisites:
 
 - **10 source pages per iteration**
 - Batch1 — **scans451–460 / local1–10 / printed444–453 — COMPLETE**
-- Batch2 — **scans461–470 / local11–20 / printed454–463 — NEXT**
-- Batch3 — **scans471–477 / local21–27 / printed464–467 + unnumbered end matter**
+- Batch2 — **scans461–470 / local11–20 / printed454–463 — COMPLETE**
+- Batch3 — **scans471–477 / local21–27 / printed464–467 + unnumbered end matter — NEXT**
 - do not exceed the fixed Pass3 batch boundary unless the user explicitly overrides it
 
 ## Scope
@@ -54,21 +54,39 @@ Textual `status` remains `verified`; `visual_fidelity` remains `needs-review` un
 
 **Batch1 — PASS / 0 textual corrections / 0 unresolved visual-structural questions.**
 
+## Batch2 structural confirmation — scans461–470
+
+- printed folios **454–463**, continuous;
+- scan461 / printed454 opens displayed chapter74 **`காக்கையும் குருவியும்!`** with boxed **74** and decorative title hierarchy; chapter opening is structurally clean after scan460 chapter73 closure; page ends at **`ஆர்வம், ஆவல், உணர்வு`**;
+- scan462 / printed455 resumes **`இவற்றில்`**, retains recurring bordered text-page furniture and dialogue placement, and closes after the proposal to go first to the Mullaitheevu palace;
+- scan463 / printed456 retains recurring border/folio furniture; the memorial-stone wording is visibly set as a distinct displayed text block; page ends at **`வார்த்தைகளைப்`**;
+- scan464 / printed457 resumes **`பார்த்துப் பார்த்து`** and closes after the hoofprint observation with normal prose/dialogue placement;
+- scan465 / printed458 retains recurring border/folio furniture and ends inside the open boast at **`எதிர்க்க ஒரு காக்கை குருவி`**;
+- scan466 / printed459 resumes **`கூட இல்லை!`**, closes chapter74, and preserves a substantial intentional blank lower field;
+- scan467 / printed460 opens displayed chapter75 **`வாழும் வரலாறு!`** with boxed **75** and decorative title hierarchy; chapter opening is structurally clean after scan466 chapter74 closure; page ends at **`இந்த முல்லைத்தீவின்`**;
+- scan468 / printed461 resumes **`காவலனுமான`**, retains recurring bordered text-page furniture, and closes after Kuruvichchi's disbelief;
+- scan469 / printed462 retains recurring border/folio furniture and ends on Edward's question **`என்ன?`**;
+- scan470 / printed463 retains recurring bordered text-page furniture; the embedded letter remains visibly distinct within the body; page ends mid-phrase at **`பண்டாரக`**;
+- no scan471 wording or structure was imported into Batch2;
+- recurring border / folio furniture is visually consistent across scans461–470 apart from the intentional chapter-opening hierarchy on scans461 and467.
+
+**Batch2 — PASS / 0 textual corrections / 0 unresolved visual-structural questions.**
+
 ## Current accounting
 
-- reviewed — **10/27 — scans451–460**
-- remaining — **17**
+- reviewed — **20/27 — scans451–470**
+- remaining — **7**
 - Pass3 textual corrections — **0**
 - unresolved visual / structural questions — **0**
 - textual status — **27/27 verified**
 - visual fidelity — **27/27 needs-review**
 - frozen Parts001–015 body mutations — **0**
-- scan461 wording / structure imported — **0**
+- scan471 wording / structure imported — **0**
 
 ## Exact next activity
 
-Proceed with **Part016 Pass3 Batch2 — global scans461–470 / local pages11–20 / printed454–463**.
+Proceed with **Part016 Pass3 Batch3 — global scans471–477 / local pages21–27 / printed464–467 + unnumbered end matter**.
 
-Review exactly **10 physical source scans** for visual / structural fidelity: displayed chapter hierarchy, boxed chapter numbers/titles, recurring border/page furniture, printed folios, paragraph/dialogue layout, intentional blank fields and physical continuation locks.
+Review exactly **7 physical source scans** for visual / structural fidelity: printed folios, paragraph/dialogue layout, chapter/story closure, author-note hierarchy, photographic end-matter classification, illustration-only classification, back-cover publisher-device layout, intentional blank fields and complete-source endpoint fidelity.
 
-Do not review scan471 or later in the same Pass3 iteration.
+Do not begin Part audit in the same Pass3 iteration.
