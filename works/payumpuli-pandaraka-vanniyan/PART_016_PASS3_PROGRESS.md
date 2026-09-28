@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — ACTIVE — 20/27 VISUAL / STRUCTURAL REVIEWED / BATCH3 NEXT**
+**PASS 3 — COMPLETE / PASS — 27/27 VISUAL / STRUCTURAL REVIEWED**
 
 Prerequisites:
 - Part016 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
@@ -19,7 +19,7 @@ Prerequisites:
 - **10 source pages per iteration**
 - Batch1 — **scans451–460 / local1–10 / printed444–453 — COMPLETE**
 - Batch2 — **scans461–470 / local11–20 / printed454–463 — COMPLETE**
-- Batch3 — **scans471–477 / local21–27 / printed464–467 + unnumbered end matter — NEXT**
+- Batch3 — **scans471–477 / local21–27 / printed464–467 + unnumbered end matter — COMPLETE**
 - do not exceed the fixed Pass3 batch boundary unless the user explicitly overrides it
 
 ## Scope
@@ -72,21 +72,47 @@ Textual `status` remains `verified`; `visual_fidelity` remains `needs-review` un
 
 **Batch2 — PASS / 0 textual corrections / 0 unresolved visual-structural questions.**
 
+## Batch3 structural confirmation — scans471–477
+
+- printed folios **464–467** on scans471–474; scans475–477 are unnumbered end matter;
+- scan471 / printed464 resumes the scan470 split **`பண்டாரக` + `வன்னியன்.`**, retains recurring bordered text-page furniture and paragraph/dialogue placement, and ends mid-dialogue at **`வாளையும் ஈட்டியையும்`**;
+- scan472 / printed465 resumes **`வைத்துக் கொண்டே`**, retains the normal chapter75 text-page structure, and ends mid-sentence at **`பண்டாரக வன்னியனின்`**;
+- scan473 / printed466 closes chapter75 and the literary story body; source ending **`(முற்றும்)`** is visibly centered as the closing marker near the lower body field;
+- scan474 / printed467 is a post-story **author note**, not chapter75 body; heading **`குறிப்பு:-`** appears at upper left, signature **`மு. க.`** is visually separated at right, and a substantial intentional blank lower field is preserved;
+- scan475 is **unnumbered photographic end matter** with centered two-line heading **`கண்டி விக்கிரம ராஜ சிங்கனின் / நினைவு முத்து மண்டபம்`**, a memorial photograph, lower explanatory caption block, and a source-visible library/accession stamp overlapping the lower caption area; no recurring story-text border or printed folio is present;
+- scan476 is an **unnumbered full-page colour narrative battle illustration** with no printed textual body, no visible folio and no recurring text-page border/furniture;
+- scan477 is the **unnumbered back cover**: large portrait plus yellow publisher-device strip carrying **`ROCK FORT Publications (p) Ltd.`** and **`MADRAS - 600032`**; no printed folio is present;
+- scan477 is the **physical complete-source endpoint**; no continuation beyond it exists or is inferred.
+
+**Batch3 — PASS / 0 textual corrections / 0 unresolved visual-structural questions.**
+
+## Pass3 closure decision
+
+**PART016 PASS 3 — COMPLETE / PASS — 27/27 VISUAL / STRUCTURAL REVIEWED.**
+
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- textual status — **27/27 verified**
+- visual fidelity — **27/27 needs-review**
+- Parts001–015 body mutations — **0**
+- complete-source endpoint — **scan477**
+- Part audit — **NOT STARTED / UNBLOCKED**
+
 ## Current accounting
 
-- reviewed — **20/27 — scans451–470**
-- remaining — **7**
+- reviewed — **27/27 — scans451–477**
+- remaining — **0**
 - Pass3 textual corrections — **0**
 - unresolved visual / structural questions — **0**
 - textual status — **27/27 verified**
 - visual fidelity — **27/27 needs-review**
 - frozen Parts001–015 body mutations — **0**
-- scan471 wording / structure imported — **0**
+- beyond-scan477 wording / structure imported — **0**
 
 ## Exact next activity
 
-Proceed with **Part016 Pass3 Batch3 — global scans471–477 / local pages21–27 / printed464–467 + unnumbered end matter**.
+Perform **Part016 Part audit**.
 
-Review exactly **7 physical source scans** for visual / structural fidelity: printed folios, paragraph/dialogue layout, chapter/story closure, author-note hierarchy, photographic end-matter classification, illustration-only classification, back-cover publisher-device layout, intentional blank fields and complete-source endpoint fidelity.
+Audit the complete canonical inventory for scans451–477 against the page map and completed Pass1 / Pass2A / Pass2B / Pass3 records. Confirm 27/27 canonical coverage, textual-status consistency, visual-fidelity pre-sync state, printed-folio sequence, chapter/open-close structure, author-note/end-matter classifications, complete-source endpoint, unresolved-item counts and frozen Parts001–015 integrity.
 
-Do not begin Part audit in the same Pass3 iteration.
+Do not perform final metadata/status synchronization in the same audit iteration.
