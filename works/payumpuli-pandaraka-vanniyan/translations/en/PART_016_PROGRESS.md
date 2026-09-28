@@ -21,8 +21,8 @@
 |---|---:|---:|---:|---|
 | E85 | 88 | 451–454 | 88 | **SOURCE-CHECKED / COMPLETE** |
 | E86 | 89 | 455–460 | 89 | **SOURCE-CHECKED / COMPLETE** |
-| E87 | 90 | 461–466 | 90 | **NOT STARTED / NEXT** |
-| E88 | 91 | 467–473 | 91 | **NOT STARTED / BLOCKED BY E87** |
+| E87 | 90 | 461–466 | 90 | **SOURCE-CHECKED / COMPLETE** |
+| E88 | 91 | 467–473 | 91 | **NOT STARTED / NEXT** |
 | E89 | 92 | 474 | 92 | **NOT STARTED / BLOCKED BY E88** |
 | E90 | 93 | 475–477 | 93 | **NOT STARTED / BLOCKED BY E89** |
 
@@ -52,9 +52,9 @@
 
 ## Exact next gate
 
-Begin **E87 draft + source-check — section90 / scans461–466**.
+Begin **E88 draft + source-check — section91 / scans467–473**.
 
-Do not begin E88 until E87 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin E89 until E88 is **SOURCE-CHECKED / COMPLETE**.
 
 ## E85 completion checkpoint
 
@@ -78,3 +78,14 @@ Do not begin E88 until E87 is **SOURCE-CHECKED / COMPLETE**.
 - omissions / duplicates / unsupported insertion — **0 / 0 / 0**
 - unresolved holds — **0**
 - exact next — **E87 / section90 / scans461–466**
+
+## E87 completion checkpoint
+
+- E87 — **SOURCE-CHECKED / COMPLETE**
+- maintained English section90 — **CREATED / SOURCE-CHECKED**
+- scans461–466 — **COMPLETE**
+- literary blocks — **47/47**
+- boundary markers — **5/5**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved holds — **0**
+- exact next — **E88 / section91 / scans467–473**

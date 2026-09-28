@@ -180,3 +180,16 @@ Do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**.
 - omissions / duplicates / unsupported insertion — **0 / 0 / 0**
 - unresolved E86 holds — **0**
 - exact next — **E87 draft + source-check — section90 / scans461–466**
+
+## E87 source-check checkpoint
+
+**E87 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil source — section90 / scans461–466
+- maintained English — `sections/90-the-crow-and-the-sparrow.md`
+- title — **The Crow and the Sparrow!**
+- literary blocks — **47/47 represented**
+- source-boundary markers — **5/5 / PASS**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved E87 holds — **0**
+- exact next — **E88 draft + source-check — section91 / scans467–473**

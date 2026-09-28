@@ -105,3 +105,13 @@ Exact next glossary gate: **E86 draft + source-check — section89 / scans455–
 - unresolved E86 glossary holds — **0**
 
 Exact next glossary gate: **E87 draft + source-check — section90 / scans461–466**.
+
+## E87 source-check decisions
+
+- chapter74 `காக்கையும் குருவியும்!` → **The Crow and the Sparrow!** — **CONFIRMED**
+- `கற்சிலை மடு` → **Karsilai Madu** — inherited source-facing project form
+- inherited **Pandaraka Vanniyan, Kulasekaram Vairamuthu, Vanderi Berg, Edward Madge, Mullaitheevu** — **CONFIRMED**
+- external-source normalization introduced in E87 — **0**
+- unresolved E87 glossary holds — **0**
+
+Exact next glossary gate: **E88 draft + source-check — section91 / scans467–473**.
