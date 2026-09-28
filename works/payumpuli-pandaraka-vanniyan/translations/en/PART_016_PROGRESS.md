@@ -24,7 +24,7 @@
 | E87 | 90 | 461–466 | 90 | **SOURCE-CHECKED / COMPLETE** |
 | E88 | 91 | 467–473 | 91 | **SOURCE-CHECKED / COMPLETE** |
 | E89 | 92 | 474 | 92 | **SOURCE-CHECKED / COMPLETE** |
-| E90 | 93 | 475–477 | 93 | **NOT STARTED / NEXT** |
+| E90 | 93 | 475–477 | 93 | **SOURCE-CHECKED / COMPLETE** |
 
 ## Authority / integrity
 
@@ -52,9 +52,11 @@
 
 ## Exact next gate
 
-Begin **E90 draft + source-check — section93 / scans475–477**.
+**E85–E90 — 6/6 SOURCE-CHECKED / COMPLETE.**
 
-Do not begin whole-Part glossary reconciliation until E90 is **SOURCE-CHECKED / COMPLETE**.
+Exact next gate: **Part016 whole-Part English glossary reconciliation across E85–E90**.
+
+Do not begin that gate in this E90 source-check iteration.
 
 ## E85 completion checkpoint
 
@@ -112,3 +114,18 @@ Do not begin whole-Part glossary reconciliation until E90 is **SOURCE-CHECKED / 
 - omissions / duplicates / unsupported insertion — **0 / 0 / 0**
 - unresolved holds — **0**
 - exact next — **E90 / section93 / scans475–477**
+
+## E90 completion checkpoint
+
+- E90 — **SOURCE-CHECKED / COMPLETE**
+- maintained English section93 — **CREATED / SOURCE-CHECKED**
+- scans475–477 — **COMPLETE**
+- printed blocks — **4/4**
+- boundary markers — **2/2**
+- scan476 invented body — **0**
+- scan477 publisher-device — **verbatim / PASS**
+- post-endpoint leakage — **0**
+- unresolved holds — **0**
+
+**E85–E90 — 6/6 SOURCE-CHECKED / COMPLETE.**
+Exact next — **Part016 whole-Part English glossary reconciliation**.

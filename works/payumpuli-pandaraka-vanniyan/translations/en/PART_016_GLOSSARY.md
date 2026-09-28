@@ -138,3 +138,16 @@ Exact next glossary gate: **E89 draft + source-check — section92 / scan474**.
 - unresolved E89 glossary holds — **0**
 
 Exact next glossary gate: **E90 draft + source-check — section93 / scans475–477**.
+
+## E90 source-check decisions
+
+- `கண்டி விக்கிரம ராஜ சிங்கனின் நினைவு முத்து மண்டபம்` → **Kandy Vikrama Raja Singan Memorial Muthu Mandapam** — **CONFIRMED**
+- `வேலூர் பாலாற்றங்கரை` → **on the bank of the Palar at Vellore** — direct source rendering
+- `1-7-90` → **1-7-90** — source form preserved
+- `ROCK FORT Publications (p) Ltd.` → **verbatim**
+- `MADRAS - 600032` → **verbatim**
+- scan476 — **illustration-only / no English body**
+- external-source normalization introduced in E90 — **0**
+- unresolved E90 glossary holds — **0**
+
+Exact next glossary gate: **whole-Part reconciliation across E85–E90**.

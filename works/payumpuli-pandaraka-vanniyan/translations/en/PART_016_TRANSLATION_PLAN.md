@@ -220,3 +220,21 @@ Do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**.
 - omissions / duplicates / unsupported insertion — **0 / 0 / 0**
 - unresolved E89 holds — **0**
 - exact next — **E90 draft + source-check — section93 / scans475–477**
+
+## E90 source-check checkpoint
+
+**E90 — SOURCE-CHECKED / COMPLETE.**
+
+- Tamil source — section93 / scans475–477
+- maintained English — `sections/93-kandy-vikrama-raja-singan-memorial.md`
+- source type — **terminal end matter**
+- printed blocks — **4/4 represented**
+- source-boundary markers — **2/2 / PASS**
+- scan476 invented English body — **0**
+- scan477 publisher-device — **verbatim / PASS**
+- post-scan477 leakage — **0**
+- unresolved E90 holds — **0**
+
+**E85–E90 — 6/6 SOURCE-CHECKED / COMPLETE.**
+
+Exact next gate — **Part016 whole-Part English glossary reconciliation across E85–E90**.
