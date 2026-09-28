@@ -6,11 +6,11 @@ printed_page: 450
 work: "payumpuli-pandaraka-vanniyan"
 section: "திறமையை வென்ற திறமை!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 scans451–460"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 scans451–460; formal Part016 Pass 2A reviewed"
 ---
 
 # திறமையை வென்ற திறமை!
@@ -19,9 +19,9 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 s
 
 பாய்ந்தது. கல்லின் கனமும், அதன் வேகமும் சேர்ந்து அந்தக் காட்டெருமையைக் கீழே சாய்த்தது.
 
-பண்டாரகன் முகத்தில் வீர மிடுக்கிற்கு மேலும் எழுச்சிமிகு எழில் சேர்ப்பதுபோல் ஒரு புன்னகை மின்னிற்று. அடுத்த கணமே அவனது வீரர்களால் அந்தக் காட்டில் உள்ள மூங்கில் மரங்கள் எல்லாம் வளைக்கப்பட்டன. அவற்றின் நுனியில் கற்கள், காய்கள் குலை தள்ளியிருப்பதுபோலக் காட்சியளித்தன. மூங்கிலின் நுனிகளில் கட்டப்பட்ட நீண்ட கயிறுகளின் முனைகளைக் கைகளில் பிடித்தவாறு முல்லைத் தீவின் வீரர்கள், பாறைகள் மறைவில் பதுங்கியிருந்தனர்.
+பண்டாரகன் முகத்தில் வீர மிடுக்கிற்கு மேலும் எழுச்சிமிகு எழில் சேர்ப்பதுபோல் ஒரு புன்னகை மின்னிற்று. அடுத்த கணமே அவனது வீரர்களால் அந்தக் காட்டில் உள்ள மூங்கில் மரங்கள் எல்லாம் வளைக்கப்பட்டன. அவற்றின் நுனியில் கற்கள், காய்கள் குலை தள்ளியிருப்பதுபோலக் காட்சியளித்தன. மூங்கிலின் நுனிகளில் கட்டப்பட்ட நீண்ட கயிறுகளின் முனைகளை கைகளில் பிடித்தவாறு முல்லைத் தீவின் வீரர்கள், பாறைகள் மறைவில் பதுங்கியிருந்தனர்.
 
-பண்டாரகன் எதிர்பார்த்தவாறே ஆங்கிலேயப் படைகள் அந்த வழியில் முரசு கொட்டிக்கொண்டு வரத் தொடங்கின. ஆங்கிலேயர் கொண்டுவரும் பிரங்கி வண்டிகளில் இருந்து புறப்படும் குண்டுகளை விட, பண்டாரகனின் படையினர் வளைத்து வைத்திருக்கும் மூங்கில் மர நுனிகளில் இருந்து விடுபட்டுக் கிளம்பும் கற்கள் சக்தி வாய்ந்தவை என்பது பண்டாரகனின் நம்பிக்கை.
+பண்டாரகன் எதிர்பார்த்தவாறே ஆங்கிலேயப்படைகள் அந்த வழியில் முரசு கொட்டிக்கொண்டு வரத் தொடங்கின. ஆங்கிலேயர் கொண்டுவரும் பீரங்கி வண்டிகளில் இருந்து புறப்படும் குண்டுகளை விட, பண்டாரகனின் படையினர் வளைத்து வைத்திருக்கும் மூங்கில் மர நுனிகளில் இருந்து விடுபட்டுக் கிளம்பும் கற்கள் சக்தி வாய்ந்தவை என்பது பண்டாரகனின் நம்பிக்கை.
 
 அந்த நம்பிக்கை ஓரளவு வீண் போகவில்லை. வாண்டரி பெர்க் தலைமையிலும், எட்வர்ட் மேட்ஜ் தலைமையிலும் வந்த படைகளுக்கு முன்னால் தளபதி ஜான்ஸ்டன் என்பவன் ஒரு தற்காப்புப் படையை நடத்திக்கொண்டு அந்தக் காட்டு வழியில் வந்தான்.
 
@@ -37,4 +37,18 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 s
 - physical page ends mid-sentence at `பண்டாரகனின்`; scan458 resumes `பார்வையும்`
 - Pass1 textual status remains **needs-review** pending Pass2A; visual fidelity remains **needs-review**
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 457; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 450; PASS 1 TEXT-COMPLETE / textual needs-review / visual needs-review -->
+## Formal Part016 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against rendered Part016 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-visible irregular forms were preserved without modernization;
+- source-confirmed correction: `கயிறுகளின் முனைகளைக் கைகளில்` → **`கயிறுகளின் முனைகளை கைகளில்`** — source case/word-form;
+- source-confirmed correction: `ஆங்கிலேயப் படைகள் அந்த வழியில்` → **`ஆங்கிலேயப்படைகள் அந்த வழியில்`** — source join / word-boundary;
+- source-confirmed correction: `பிரங்கி வண்டிகளில்` → **`பீரங்கி வண்டிகளில்`** — source lexical reading;
+- source-text corrections in this scan: **3**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 457; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 450; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->

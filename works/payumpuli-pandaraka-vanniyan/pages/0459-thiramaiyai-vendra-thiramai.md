@@ -6,18 +6,18 @@ printed_page: 452
 work: "payumpuli-pandaraka-vanniyan"
 section: "திறமையை வென்ற திறமை!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 scans451–460"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 scans451–460; formal Part016 Pass 2A reviewed"
 ---
 
 # திறமையை வென்ற திறமை!
 
 ## Source transcription
 
-மரங்களைத் தயார் செய்துகொண்டிருந்த பண்டாரக வன்னியனின் வீரர்கள் சற்றும் எதிர்பாராத நிலையில் பண்டாரகனின் படை வீரர்களுக்குப் பின்னால் மெல்ல மெல்ல ஊர்ந்து வந்து ஆங்கிலேயப் படையினர் சூழ்ந்து வளைத்துக் கொண்டார்கள். அரியதோர் சாகசப் போர் முறை மூலம் ஆங்கிலேயத் தற்காப்புப் படையின் தளகர்த்தனையும் அந்தப் படை வீரர்களையும் திக்கு முக்காடச் செய்த வீரமை விவேகியுமான பண்டாரக வன்னியன், அவனது வீரர்களுடன் ஆங்கிலேயப்படை வளையத்துக்குள் சிக்கிக்கொள்ள நேரிட்டது.
+மரங்களைத் தயார் செய்துகொண்டிருந்த பண்டாரக வன்னியனின் வீரர்கள் சற்றும் எதிர்பாராத நிலையில் பண்டாரகனின் படை வீரர்களுக்குப் பின்னால் மெல்ல மெல்ல ஊர்ந்து வந்து ஆங்கிலேயப் படையினர் சூழ்ந்து வளைத்துக் கொண்டார்கள். அரியதோர் சாகசப் போர் முறை மூலம் ஆங்கிலேயத் தற்காப்புப் படையின் தளகர்த்தனையும் அந்தப் படைவீரர்களையும் திக்கு முக்காடச் செய்த வீரனும் விவேகியுமான பண்டாரக வன்னியன், அவனது வீரர்களுடன் ஆங்கிலேயப்படை வளையத்துக்குள் சிக்கிக்கொள்ள நேரிட்டது.
 
 தனது போர்த் திறமையைப் பிறிதொரு திறமையினால் வெள்ளையர் வெற்றி கண்டுவிட்டனரே என அதிர்ச்சி அடைந்தான் அந்த அடலேறு! ஆயினும் அவன் துணிவையும், நம்பிக்கையையும் இழக்கவில்லை! கம்பீரமாக நிமிர்ந்து நின்று, வாளை ஓங்கிக் காட்டி, வீரர்களை நோக்கி ஒரு சில வார்த்தைகள் மட்டுமே சொன்னான்!
 
@@ -35,4 +35,16 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 s
 - physical page ends mid-sentence at `பண்டாரகனின் படை வீரர்கள்`; scan460 resumes `எண்ணற்றோர் பலியாயினர்.`
 - Pass1 textual status remains **needs-review** pending Pass2A; visual fidelity remains **needs-review**
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 459; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: 452; PASS 1 TEXT-COMPLETE / textual needs-review / visual needs-review -->
+## Formal Part016 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against rendered Part016 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-visible irregular forms were preserved without modernization;
+- source-confirmed correction: `அந்தப் படை வீரர்களையும் திக்கு முக்காடச் செய்த வீரமை விவேகியுமான` → **`அந்தப் படைவீரர்களையும் திக்கு முக்காடச் செய்த வீரனும் விவேகியுமான`** — source join + lexical reading;
+- source-text corrections in this scan: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 459; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: 452; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->
