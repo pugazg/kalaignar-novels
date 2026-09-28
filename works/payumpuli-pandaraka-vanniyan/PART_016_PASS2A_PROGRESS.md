@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — ACTIVE — 20/27 REVIEWED / BATCH3 NEXT**
+**PASS 2A — COMPLETE / PASS — 27/27 REVIEWED**
 
 Prerequisites:
 - Part016 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
@@ -27,18 +27,21 @@ For each reviewed physical scan, canonical Tamil is re-compared directly against
 
 ## Current accounting
 
-- reviewed — **20/27 — scans451–470**
-- remaining — **7**
+- reviewed — **27/27 — scans451–477**
+- remaining — **0**
 - Batch1 canonical corrections from Pass1 baseline — **15**
 - Batch1 correction scans — **451, 452, 455, 456, 457, 458, 459, 460**
 - Batch2 canonical corrections from Pass1 baseline — **5**
 - Batch2 correction scans — **462, 464, 465, 467, 470**
-- cumulative Pass2A canonical corrections — **20**
+- Batch3 canonical corrections from Pass1 baseline — **2**
+- Batch3 correction scans — **471, 472**
+- cumulative Pass2A canonical corrections — **22**
 - unresolved textual questions — **0**
-- textual status — **20/27 verified / 7/27 needs-review**
+- textual status — **27/27 verified**
 - visual fidelity — **27/27 needs-review**
 - frozen Parts001–015 canonical / assembled / maintained-English body mutations — **0**
 - Pass2B / Pass3 — **NOT STARTED**
+- Pass2B — **UNBLOCKED**
 
 ## Batch1 decision — scans451–460
 
@@ -135,10 +138,58 @@ For scans461–470:
 - `visual_fidelity` — **needs-review**
 - unresolved textual questions — **0**
 
+## Batch3 decision — scans471–477
+
+**COMPLETE / REVIEWED / PASS — 7 scans**
+
+Final direct source-pixel reconciliation against the Pass1 baseline produced these **2 canonical corrections**:
+
+- scan471 / printed464 — `ஏதோ தீர்க்கமாகச் சிந்தித்தாள்.` → **`ஏதோ தீர்க்கமாக சிந்தித்தாள்.`**;
+- scan472 / printed465 — `அப்படி என்ன வையம்` → **`அப்படி யென்ன வையம்`**.
+
+Scans473–477 require **0 final canonical correction relative to the Pass1 baseline**.
+
+Textual result:
+- scans471–477 — **7/7 verified**
+- cumulative scans451–477 — **27/27 verified**
+- unresolved textual questions — **0**
+- visual fidelity — **27/27 needs-review**
+- Part016 source endpoint — **scan477 / COMPLETE**
+- continuation beyond scan477 — **none / not applicable**
+
+## Batch3 re-confirmed source locks
+
+- scan471 / printed464 resumes the scan470 split **`பண்டாரக` + `வன்னியன்.`** and ends mid-dialogue at **`வாளையும் ஈட்டியையும்`**;
+- scan472 / printed465 resumes **`வைத்துக் கொண்டே`** and ends at **`பண்டாரக வன்னியனின்`**;
+- scan473 / printed466 resumes **`கட்டுக்கள் களையப்பட்டன.`**, closes chapter75 / story body, and preserves source ending **`(முற்றும்)`**;
+- scan474 / printed467 is the post-story author note **`குறிப்பு:-`**, signed **`மு. க.`**, with a substantial intentional blank lower field;
+- scan475 is unnumbered photographic end matter headed **`கண்டி விக்கிரம ராஜ சிங்கனின் நினைவு முத்து மண்டபம்`**;
+- scan476 is an unnumbered full-page colour narrative battle illustration with **no printed textual body** and **no visible folio**;
+- scan477 is the unnumbered back-cover portrait / publisher-device and the **physical endpoint of the complete 477-scan source family**;
+- no continuation beyond scan477 is inferred or invented.
+
+For scans471–477:
+- textual `status` — **verified**
+- `visual_fidelity` — **needs-review**
+- unresolved textual questions — **0**
+
+## Pass2A closure decision
+
+**PASS 2A — COMPLETE / PASS — 27/27 REVIEWED**
+
+- textual status — **27/27 verified**
+- visual fidelity — **27/27 needs-review**
+- cumulative Pass2A canonical corrections — **22**
+- cumulative Pass2A correction scans — **451, 452, 455, 456, 457, 458, 459, 460, 462, 464, 465, 467, 470, 471, 472**
+- unresolved textual questions — **0**
+- complete-source endpoint — **scan477**
+- frozen Parts001–015 mutations — **0**
+- Pass2B — **UNBLOCKED**
+
 ## Exact next activity
 
-Proceed with **Part016 Pass2A Batch3 — global scans471–477 / local pages21–27**.
+Proceed with **Part016 Pass2B Batch1 — global scans451–460 / local pages1–10 / printed444–453**.
 
-Re-compare exactly **7 physical source scans** against rendered source pixels for spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state. Preserve source-visible irregular forms without modernization.
+Independently re-review exactly **10 physical source scans** against rendered source pixels and the Pass2A canonical records. Concentrate on residual lexical/source-text fidelity, historical-glyph questions, source-specific spacing/word boundaries, punctuation and any discrepancies that survived Pass2A. Preserve source-visible irregular forms without modernization.
 
-Do not begin Pass2B in the same iteration.
+Do not review scan461 or later in the same Pass2B iteration.

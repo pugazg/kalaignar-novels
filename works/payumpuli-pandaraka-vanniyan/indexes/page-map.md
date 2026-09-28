@@ -476,13 +476,13 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 016 | 18 | 468 | 461 | chapter75 continuation; resumes `காவலனுமான`; Edward's deception; ends after Kuruvichchi's disbelief | verified | `pages/0468-vaazhum-varalaaru.md` |
 | 016 | 19 | 469 | 462 | chapter75 continuation; Kuruvichchi follows Edward; ends with Edward asking `என்ன?` | verified | `pages/0469-vaazhum-varalaaru.md` |
 | 016 | 20 | 470 | 463 | chapter75 continuation; resumes `என்றான்.`; Vanderi Berg letter; ends mid-phrase at `பண்டாரக` | verified | `pages/0470-vaazhum-varalaaru.md` |
-| 016 | 21 | 471 | 464 | chapter75 continuation; resumes `வன்னியன்.` after scan470 split; ends at `வாளையும் ஈட்டியையும்` | needs-review | `pages/0471-vaazhum-varalaaru.md` |
-| 016 | 22 | 472 | 465 | chapter75 continuation; resumes `வைத்துக் கொண்டே`; ends at `பண்டாரக வன்னியனின்` | needs-review | `pages/0472-vaazhum-varalaaru.md` |
-| 016 | 23 | 473 | 466 | chapter75 / story close; resumes `கட்டுக்கள் களையப்பட்டன.`; source ending `(முற்றும்)` | needs-review | `pages/0473-vaazhum-varalaaru.md` |
-| 016 | 24 | 474 | 467 | post-story author note `குறிப்பு:-`; signed `மு. க.`; substantial intentional blank lower field | needs-review | `pages/0474-author-note.md` |
-| 016 | 25 | 475 | — | unnumbered photographic end matter — `கண்டி விக்கிரம ராஜ சிங்கனின் நினைவு முத்து மண்டபம்` | needs-review | `pages/0475-kandy-vikrama-raja-singan-memorial.md` |
-| 016 | 26 | 476 | — | full-page colour narrative illustration; no printed textual body / no visible folio | needs-review | `pages/0476-final-illustration.md` |
-| 016 | 27 | 477 | — | back-cover portrait / publisher-device; complete-source endpoint | needs-review | `pages/0477-back-cover.md` |
+| 016 | 21 | 471 | 464 | chapter75 continuation; resumes `வன்னியன்.` after scan470 split; ends at `வாளையும் ஈட்டியையும்` | verified | `pages/0471-vaazhum-varalaaru.md` |
+| 016 | 22 | 472 | 465 | chapter75 continuation; resumes `வைத்துக் கொண்டே`; ends at `பண்டாரக வன்னியனின்` | verified | `pages/0472-vaazhum-varalaaru.md` |
+| 016 | 23 | 473 | 466 | chapter75 / story close; resumes `கட்டுக்கள் களையப்பட்டன.`; source ending `(முற்றும்)` | verified | `pages/0473-vaazhum-varalaaru.md` |
+| 016 | 24 | 474 | 467 | post-story author note `குறிப்பு:-`; signed `மு. க.`; substantial intentional blank lower field | verified | `pages/0474-author-note.md` |
+| 016 | 25 | 475 | — | unnumbered photographic end matter — `கண்டி விக்கிரம ராஜ சிங்கனின் நினைவு முத்து மண்டபம்` | verified | `pages/0475-kandy-vikrama-raja-singan-memorial.md` |
+| 016 | 26 | 476 | — | full-page colour narrative illustration; no printed textual body / no visible folio | verified | `pages/0476-final-illustration.md` |
+| 016 | 27 | 477 | — | back-cover portrait / publisher-device; complete-source endpoint | verified | `pages/0477-back-cover.md` |
 
 ## Split accounting
 

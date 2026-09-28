@@ -7,27 +7,29 @@
 **Working source:** 16 split PDFs — all supplied / registered  
 **Source PDFs in repository:** No
 
-## Current authoritative frontier — Part016 Pass2A Batch3 next
+## Current authoritative frontier — Part016 Pass2B Batch1 next
 
 - Parts001–015 — **FINAL CLOSED / FROZEN**
 - Part016 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Part016 Pass2A Batch1 scans451–460 — **COMPLETE / REVIEWED / PASS**
-- Part016 Pass2A Batch2 scans461–470 — **COMPLETE / REVIEWED / PASS**
-- Pass2A reviewed — **20/27**
+- Part016 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
+- Pass2A textual status — **27/27 verified**
+- visual fidelity — **27/27 needs-review**
 - Batch1 canonical corrections from Pass1 baseline — **15**
 - Batch2 canonical corrections from Pass1 baseline — **5**
-- cumulative Pass2A canonical corrections — **20**
-- cumulative correction scans — **451, 452, 455, 456, 457, 458, 459, 460, 462, 464, 465, 467, 470**
-- textual status — **20 verified / 7 needs-review**
-- visual fidelity — **27/27 needs-review**
+- Batch3 canonical corrections from Pass1 baseline — **2**
+- cumulative Pass2A canonical corrections — **22**
+- cumulative correction scans — **451, 452, 455, 456, 457, 458, 459, 460, 462, 464, 465, 467, 470, 471, 472**
+- unresolved Pass2A questions — **0**
 - incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
 - chapter72 — **closes454**
 - chapter73 `திறமையை வென்ற திறமை!` — **opens455 / closes460**
 - chapter74 `காக்கையும் குருவியும்!` — **opens461 / closes466**
-- chapter75 `வாழும் வரலாறு!` — **opens467 / continues beyond470**
-- unresolved Pass2A questions — **0**
-- scan471 body imported in Batch2 — **0**
-- exact next — **Part016 Pass2A Batch3 — scans471–477 / local21–27**
+- chapter75 `வாழும் வரலாறு!` — **opens467 / closes473 with `(முற்றும்)`**
+- author note — **scan474 / printed467**
+- unnumbered end matter — **scans475–477**
+- complete-source endpoint — **scan477**
+- Pass2B — **UNBLOCKED / NOT STARTED**
+- exact next — **Part016 Pass2B Batch1 — scans451–460 / local1–10 / printed444–453**
 
 ## Part001 — FINAL CLOSED / FROZEN
 
