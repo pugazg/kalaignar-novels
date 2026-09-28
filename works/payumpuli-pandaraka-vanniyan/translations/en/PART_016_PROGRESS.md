@@ -15,7 +15,7 @@
 - Part016 final closure — **PASS / CLOSED / FROZEN**
 - complete source endpoint — **scan477**
 - unresolved Part016 blockers — **0**
-- next Part in supplied source family — **none**
+- Part017 — **DOES NOT EXIST — BOOK ENDS AT PART016**
 
 ## Reservation
 
@@ -202,4 +202,4 @@ Exact next — **Part016 whole-Part English glossary reconciliation**.
 - E85–E90 — **6/6 frozen**
 - source family — **TVA_BOK_0065744 / 477 scans / CLOSED**
 - unresolved blockers — **0**
-- next Part — **none**
+- Part017 — **DOES NOT EXIST — BOOK ENDS AT PART016**

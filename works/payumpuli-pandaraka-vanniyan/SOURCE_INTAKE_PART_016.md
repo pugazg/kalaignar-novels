@@ -59,5 +59,5 @@ The canonical `scan_page` remains the overall scan number **451–477**.
 - complete-source endpoint — **scan477**
 - source family — **TVA_BOK_0065744 / 477 scans / 16 Parts / CLOSED**
 - unresolved blockers — **0**
-- next Part in supplied source family — **none**
+- Part017 — **DOES NOT EXIST — BOOK ENDS AT PART016**
 - reopening — **source-backed defect or separately authorized post-closure activity only**

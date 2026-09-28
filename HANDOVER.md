@@ -25,7 +25,7 @@
 - Part016 final closure — **PASS / CLOSED / FROZEN**
 - complete-source endpoint — **scan477**
 - unresolved Tamil / English / release / terminal blockers — **0**
-- next Part in supplied source family — **none**
+- Part017 — **DOES NOT EXIST — BOOK ENDS AT PART016**
 - reopening rule — **source-backed defect or separately authorized post-closure activity only**
 
 ## Source family

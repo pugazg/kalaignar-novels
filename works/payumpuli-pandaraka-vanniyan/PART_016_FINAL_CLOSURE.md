@@ -6,7 +6,7 @@
 
 Parts **001–016 are FINAL CLOSED / FROZEN**.
 
-The complete supplied **TVA_BOK_0065744** source family is now closed through its physical endpoint at **scan477**.
+The complete **TVA_BOK_0065744** book is now closed through its physical endpoint at **scan477**. **Part016 is the final Part; there is no Part017.**
 
 ## Source / Tamil closure
 
@@ -107,7 +107,7 @@ Source family:
 - Part001–Part016 — **FINAL CLOSED / FROZEN**
 - canonical source sequence — **1–477 complete**
 - final physical endpoint — **scan477**
-- further supplied Part — **none**
+- Part017 — **does not exist; Part016 is the final Part of the book**
 - unresolved source-family terminal boundary — **0**
 
 Maintained assembled-reading range now extends through **section93**.
@@ -139,7 +139,7 @@ Reopen only for a separately identified **source-backed defect** that materially
 
 ## Exact next activity
 
-There is **no next Part in the supplied source family**.
+**There is no Part017. The book ends with Part016 at scan477.**
 
 Maintain the work in the closed/frozen state unless:
 1. a source-backed defect is discovered; or
