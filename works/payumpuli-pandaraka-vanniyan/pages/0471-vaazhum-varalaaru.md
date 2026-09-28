@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 scans471–477; formal Part016 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 scans471–477; formal Part016 Pass 2A reviewed; formal Part016 Pass 2B reviewed"
 ---
 
 # வாழும் வரலாறு!
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 s
 
 வன்னியன்.
 
-அந்தக் கொடுமையான காட்சியைப் பார்த்ததும் குருவிச்சி, தன்னை மறந்து ஓடிப்போய் பண்டாரகனைக் கட்டிப் பிடித்துக் கொண்டு கோவெனக் கதறிவிட்டாள். அவளது கூந்தலைக் கோதிவிட்டவாறு, பண்டாரகன் அவளுக்கு ஆறுதல் சொன்னான்.
+அந்தக் கொடுமையான காட்சியைப் பார்த்ததும் குருவிச்சி, தன்னை மறந்து ஓடிப்போய் பண்டாரகனைக் கட்டிப் பிடித்துக் கொண்டு கோவெனக் கதறிவிட்டாள். அவளது கூந்தலைக் கோதிவிட்டவாறு,பண்டாரகன் அவளுக்கு ஆறுதல் சொன்னான்.
 
 “கவலைப்படாதே! இந்தத் தோப்பில் களைப்பாறிக் கொண்டிருந்த எங்களைத் திடீரெனச் சூழ்ந்து கொண்டு வென்றுவிட்டதாக ஆர்ப்பாட்டம் புரிகிறார்கள்.”
 
@@ -57,4 +57,16 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 471; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: 464; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->
+## Formal Part016 Pass 2B review
+
+- independent second textual reread completed directly against rendered source pixels and the Pass2A canonical record;
+- lexical identity, source-specific compounds/joins, word boundaries, punctuation/quotation boundaries, and reform-sensitive historical/variant glyph occurrences were checked where applicable without modernization;
+- additional source-confirmed correction: `கோதிவிட்டவாறு, பண்டாரகன் அவளுக்கு` → **`கோதிவிட்டவாறு,பண்டாரகன் அவளுக்கு`** — source-visible punctuation spacing;
+- additional Pass2B source-text corrections in this scan: **1**;
+- historical-glyph corrections in this scan: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **INDEPENDENTLY REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 471; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: 464; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B INDEPENDENT TEXT VERIFIED / visual needs-review -->
