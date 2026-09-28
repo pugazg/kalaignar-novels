@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — ACTIVE — 10/27 REVIEWED / BATCH2 NEXT**
+**PASS 2B — ACTIVE — 20/27 REVIEWED / BATCH3 NEXT**
 
 Prerequisites:
 - Part016 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
@@ -18,8 +18,8 @@ Prerequisites:
 
 - **10 source pages per iteration**
 - Batch1 — **scans451–460 / local1–10 / printed444–453 — COMPLETE**
-- Batch2 — **scans461–470 / local11–20 / printed454–463 — NEXT**
-- Batch3 — **scans471–477 / local21–27 / printed464–467 + unnumbered end matter**
+- Batch2 — **scans461–470 / local11–20 / printed454–463 — COMPLETE**
+- Batch3 — **scans471–477 / local21–27 / printed464–467 + unnumbered end matter — NEXT**
 - do not exceed the fixed Pass2B batch boundary unless the user explicitly overrides it
 
 ## Scope and method
@@ -86,10 +86,68 @@ No reform-sensitive occurrence in scans451–460 required a canonical Unicode gl
 - frozen Parts001–015 canonical / assembled / maintained-English body mutations — **0**
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 2 correction ledger — scans461–470
+
+| Scan | Printed page | Before | Source-confirmed after | Classification |
+|---:|---:|---|---|---|
+| 463 | 456 | `இதைக் சொல்லும்போது` | **`இதைச் சொல்லும்போது`** | source sandhi / lexical-form reread correction |
+| 465 | 458 | speech closed after `வேண்டும்!` | **speech closes only after `என்ன சரிதானா?`** | source quotation-boundary correction |
+| 467 | 460 | `ஊமை நாச்சியைக் கொன்று விட்டு இங்கே / எப்படி வந்தாள் என்றுதானே வைத்தீர்கள்!` | **`பிணமாகிக் கிடக்க வேண்டியவள் இங்கே / எப்படி வந்தாள் என்றுதானே? வைத்தீர்கள்!`** | direct source-pixel lexical / punctuation correction |
+| 467 | 460 | `கோபாக்கினிக்கு முன்னே` | **`கோபாக்கினிக்குமுன்னே`** | source compound / join correction |
+| 468 | 461 | `சதி வலையில்` | **`சதிவலையில்`** | source compound / join correction |
+| 468 | 461 | `செய்து கொண்டு, அவன் கூடாரத்தில்` | **`செய்துகொண்டு, அவன் கூடாரத்தில்`** | source compound / join correction |
+| 469 | 462 | `அழைத்துச் செல்லத் / தான்` | **`அழைத்துச் செல்வது / தான்`** | source lexical-form reread correction |
+| 469 | 462 | `எம்முடன் வருவதானால் நானே` | **`எம்முடன் வருவதாயின் நானே`** | source lexical-form correction |
+| 469 | 462 | `எட்வர்ட், அந்த வீரனை` | **`எட்வர்ட்,அந்த வீரனை`** | source-visible punctuation spacing |
+| 470 | 463 | `தன்னைத்தானே` | **`தன்னைத் தானே`** | source word-boundary correction; reverses the Pass2A over-join |
+| 470 | 463 | `எழு குதிரைகளும்` | **`ஏழு குதிரைகளும்`** | source lexical / orthographic correction |
+| 470 | 463 | `நெடுங்கேணி சாலைக்கு` | **`நெடுங்கேணிச் சாலைக்கு`** | source sandhi / word-boundary correction |
+
+Scans **461–462, 464 and 466** required **0** additional Pass2B canonical-body corrections.
+
+## Batch 2 historical-glyph review
+
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+
+No reform-sensitive occurrence in scans461–470 required a canonical Unicode glyph correction after direct source-pixel inspection.
+
+## Batch 2 source locks reconfirmed
+
+- scan461 / printed454 opens displayed chapter74 `காக்கையும் குருவியும்!` / boxed **74** and ends at **`ஆர்வம், ஆவல், உணர்வு`**;
+- scan462 / printed455 resumes **`இவற்றில்`** and closes after the proposal to go first to the Mullaitheevu palace;
+- scan463 / printed456 preserves source **`இதைச் சொல்லும்போது`**, carries the memorial-stone proposal / inscription and ends at **`வார்த்தைகளைப்`**;
+- scan464 / printed457 resumes **`பார்த்துப் பார்த்து`** and closes after the hoofprint observation;
+- scan465 / printed458 preserves the continuous quotation through **`என்ன சரிதானா?`**, splits the forces, and ends inside the boast at **`எதிர்க்க ஒரு காக்கை குருவி`**;
+- scan466 / printed459 resumes **`கூட இல்லை!`**, closes chapter74, and retains the substantial intentional blank lower field;
+- scan467 / printed460 opens displayed chapter75 `வாழும் வரலாறு!` / boxed **75**, preserves source **`பிணமாகிக் கிடக்க வேண்டியவள் இங்கே / எப்படி வந்தாள் என்றுதானே? வைத்தீர்கள்!`** and **`கோபாக்கினிக்குமுன்னே`**, and ends at **`இந்த முல்லைத்தீவின்`**;
+- scan468 / printed461 resumes **`காவலனுமான`**, preserves **`சதிவலையில்`** and **`செய்துகொண்டு`**, and closes after Kuruvichchi's disbelief;
+- scan469 / printed462 preserves **`அழைத்துச் செல்வது தான்`** and **`வருவதாயின்`**, follows Kuruvichchi with Edward, and ends with Edward asking **`என்ன?`**;
+- scan470 / printed463 resumes **`என்றான்.`**, preserves source **`தன்னைத் தானே`**, **`ஏழு குதிரைகளும்`** and **`நெடுங்கேணிச் சாலைக்கு`**, and ends mid-phrase at **`பண்டாரக`**;
+- no scan471 wording was reviewed or imported in this Pass2B batch.
+
+## Batch 2 decision
+
+**PASS — scans461–470 independently reviewed.**
+
+- reviewed — **20/27**
+- remaining — **7/27**
+- Batch1 additional corrections — **3**
+- Batch2 additional corrections — **12**
+- cumulative Pass2B additional corrections — **15**
+- Batch2 correction scans — **463, 465, 467, 468, 469, 470**
+- cumulative correction scans — **453, 455, 458, 463, 465, 467, 468, 469, 470**
+- historical-glyph corrections — **0**
+- unresolved questions — **0**
+- textual status — **27/27 verified**
+- visual fidelity — **27/27 needs-review**
+- frozen Parts001–015 canonical / assembled / maintained-English body mutations — **0**
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+
 ## Exact next activity
 
-Proceed with **Part016 Pass2B Batch2 — global scans461–470 / local pages11–20 / printed454–463**.
+Proceed with **Part016 Pass2B Batch3 — global scans471–477 / local pages21–27 / printed464–467 + unnumbered end matter**.
 
-Independently re-review exactly **10 physical source scans** against rendered source pixels and the Pass2A canonical records. Concentrate on residual lexical/source-text fidelity, historical-glyph questions, source-specific spacing/word boundaries and punctuation.
+Independently re-review exactly **7 physical source scans** against rendered source pixels and the Pass2A canonical records. Concentrate on residual lexical/source-text fidelity, historical-glyph questions, source-specific spacing/word boundaries, punctuation, end-matter text and complete-source endpoint fidelity.
 
-Do not review scan471 or later in the same Pass2B iteration.
+Do not begin Pass3 in the same Pass2B iteration.

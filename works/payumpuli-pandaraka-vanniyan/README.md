@@ -7,15 +7,18 @@
 **Working source:** 16 split PDFs — all supplied / registered  
 **Source PDFs in repository:** No
 
-## Current authoritative frontier — Part016 Pass2B Batch2 next
+## Current authoritative frontier — Part016 Pass2B Batch3 next
 
 - Parts001–015 — **FINAL CLOSED / FROZEN**
 - Part016 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 - Part016 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
 - Part016 Pass2B Batch1 scans451–460 — **COMPLETE / INDEPENDENTLY REVIEWED / PASS**
-- Pass2B reviewed — **10/27**
+- Part016 Pass2B Batch2 scans461–470 — **COMPLETE / INDEPENDENTLY REVIEWED / PASS**
+- Pass2B reviewed — **20/27**
 - Batch1 additional Pass2B corrections — **3**
-- Pass2B correction scans — **453, 455, 458**
+- Batch2 additional Pass2B corrections — **12**
+- cumulative Pass2B additional corrections — **15**
+- cumulative Pass2B correction scans — **453, 455, 458, 463, 465, 467, 468, 469, 470**
 - historical-glyph corrections — **0**
 - unresolved Pass2B questions — **0**
 - textual status — **27/27 verified**
@@ -27,7 +30,7 @@
 - chapter75 `வாழும் வரலாறு!` — **opens467 / closes473 with `(முற்றும்)`**
 - complete-source endpoint — **scan477**
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
-- exact next — **Part016 Pass2B Batch2 — scans461–470 / local11–20 / printed454–463**
+- exact next — **Part016 Pass2B Batch3 — scans471–477 / local21–27 / printed464–467 + unnumbered end matter**
 
 ## Part001 — FINAL CLOSED / FROZEN
 
