@@ -162,3 +162,18 @@ Do not begin English translation work.
 - Tamil mutations — **0**
 - durable record — `translations/en/PART_016_GLOSSARY_RECONCILIATION.md`
 - exact next — **Part016 whole-Part English editorial review**
+
+## Part016 whole-Part English editorial-review checkpoint
+
+**PART016 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
+- maintained English sections88–93 — **6/6**
+- glossary reconciliation — **RECONCILED / PASS**
+- literary / printed blocks — **171/171**
+- source-boundary markers — **21/21 / PASS**
+- additional English body corrections — **0**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- durable review — `translations/en/PART_016_TRANSLATION_REVIEW.md`
+- exact next — **Part016 whole-Part bilingual review**

@@ -34,7 +34,7 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 | boundary witnesses available | **PASS** |
 | boundary classifications | **PASS — 15/15 AUDITED / COMPLETE** |
 
-## Current authoritative frontier — Part016 whole-Part English editorial review next
+## Current authoritative frontier — Part016 whole-Part bilingual review next
 
 - Parts001–015 — **FINAL CLOSED / FROZEN**
 - Part016 canonical Tamil/body — **27/27 verified**
@@ -44,13 +44,14 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 - Part016 English batches E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
 - maintained English sections88–93 — **6/6 SOURCE-CHECKED**
 - whole-Part English glossary reconciliation — **RECONCILED / PASS**
-- glossary-driven English body corrections — **0**
-- unresolved glossary holds — **0**
+- whole-Part English editorial review — **PASS / CLOSED**
+- editorial English body corrections — **0**
+- unresolved editorial holds — **0**
 - source-boundary marker parity — **21/21 / PASS**
 - scan476 invented English body — **0**
 - post-scan477 leakage — **0**
-- exact next — **Part016 whole-Part English editorial review**
-- bilingual review — **NOT STARTED / BLOCKED UNTIL EDITORIAL REVIEW CLOSES**
+- exact next — **Part016 whole-Part bilingual review**
+- release / final closure — **NOT STARTED / BLOCKED UNTIL BILINGUAL REVIEW CLOSES**
 
 ## Methodology correction
 

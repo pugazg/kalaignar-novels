@@ -84,11 +84,11 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 - canonical Tamil / visual — **27/27 verified / 27/27 verified**
 - Tamil archival-ready / assembly — **PASS / CLOSED**
 - English E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
-- maintained English sections88–93 — **6/6 SOURCE-CHECKED**
 - whole-Part English glossary reconciliation — **RECONCILED / PASS**
+- whole-Part English editorial review — **PASS / CLOSED**
 - complete-source endpoint — **scan477 / back cover / publisher-device**
-- unresolved English glossary holds — **0**
-- exact next — **Part016 whole-Part English editorial review**
+- unresolved editorial holds — **0**
+- exact next — **Part016 whole-Part bilingual review**
 
 ## User-supplied descriptive note
 

@@ -1800,3 +1800,23 @@ Editorial review is **NOT STARTED**.
 - exact next — **Part016 whole-Part English editorial review**
 
 Bilingual review is **NOT STARTED**.
+
+
+## Part016 whole-Part English editorial-review checkpoint
+
+**PART016 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- maintained English sections reviewed — **88–93 / 6/6**
+- source-check controls — **E85–E90 / 6/6 COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- literary / printed blocks — **171/171**
+- source-boundary marker parity — **21/21 / PASS**
+- quotation / parenthetical balance — **PASS**
+- unsupported explanatory prose — **0**
+- translator commentary inside literary body — **0**
+- additional English body corrections — **0**
+- unresolved editorial holds — **0**
+- durable review — `PART_016_TRANSLATION_REVIEW.md`
+- exact next — **Part016 whole-Part bilingual review**
+
+Release/final closure remains **BLOCKED** until bilingual review closes.
