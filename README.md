@@ -7,17 +7,21 @@
 - work directory: `works/payumpuli-pandaraka-vanniyan/`
 - source family: **TVA_BOK_0065744**
 - Parts001–015 — **FINAL CLOSED / FROZEN**
-- Part016 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Part016 Pass2A Batch1 scans451–460 — **COMPLETE / REVIEWED / PASS**
-- Pass2A reviewed — **10/27**
-- Batch1 corrections — **13**
-- correction scans — **451, 453, 455, 456, 457, 458, 459**
-- textual status — **10 verified / 17 needs-review**
-- visual fidelity — **27/27 needs-review**
-- chapter72 — **closes454**
-- chapter73 `திறமையை வென்ற திறமை!` — **opens455 / closes460**
-- unresolved Pass2A questions — **0**
-- exact next — **Part016 Pass2A Batch2 — scans461–470 / local11–20**
+- Part016 canonical scans — **451–477 / 27**
+- Part016 Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part016 Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / CURRENT**
+- Tamil archival-ready — **PASS / CLOSED**
+- canonical Tamil/body — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- assembled Tamil — **sections88–93 / 6/6 VERIFIED / CLOSED**
+- assembled canonical coverage — **27/27**
+- assembly validation — **6/6 EXACT / PASS**
+- unresolved Tamil / assembly blockers — **0**
+- complete-source endpoint — **scan477**
+- English — **NOT STARTED**
+- exact next — **Part016 English translation planning/setup**
 
 ## Latest completed source — சுருளிமலை (1968 second edition)
 
