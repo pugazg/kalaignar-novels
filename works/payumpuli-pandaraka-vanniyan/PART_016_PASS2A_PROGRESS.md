@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — ACTIVE — 10/27 REVIEWED / BATCH2 NEXT**
+**PASS 2A — ACTIVE — 20/27 REVIEWED / BATCH3 NEXT**
 
 Prerequisites:
 - Part016 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
@@ -27,12 +27,15 @@ For each reviewed physical scan, canonical Tamil is re-compared directly against
 
 ## Current accounting
 
-- reviewed — **10/27 — scans451–460**
-- remaining — **17**
+- reviewed — **20/27 — scans451–470**
+- remaining — **7**
 - Batch1 canonical corrections from Pass1 baseline — **15**
 - Batch1 correction scans — **451, 452, 455, 456, 457, 458, 459, 460**
+- Batch2 canonical corrections from Pass1 baseline — **5**
+- Batch2 correction scans — **462, 464, 465, 467, 470**
+- cumulative Pass2A canonical corrections — **20**
 - unresolved textual questions — **0**
-- textual status — **10/27 verified / 17/27 needs-review**
+- textual status — **20/27 verified / 7/27 needs-review**
 - visual fidelity — **27/27 needs-review**
 - frozen Parts001–015 canonical / assembled / maintained-English body mutations — **0**
 - Pass2B / Pass3 — **NOT STARTED**
@@ -92,10 +95,50 @@ For scans451–460:
 - `visual_fidelity` — **needs-review**
 - unresolved textual questions — **0**
 
+## Batch2 decision — scans461–470
+
+**COMPLETE / REVIEWED / PASS — 10 scans**
+
+Final direct source-pixel reconciliation against the Pass1 baseline produced these **5 canonical corrections**:
+
+- scan462 / printed455 — `அப்படி யானால்` → **`அப்படியானால்`**;
+- scan464 / printed457 — `சேரும் சகதியும்` → **`சேறும் சகதியும்`**;
+- scan465 / printed458 — `படையை நடத்தலானான்` → **`படையை நடத்தினான்`**;
+- scan467 / printed460 — `கொத்தளிக்காமல்` → **`கொந்தளிக்காமல்`**;
+- scan470 / printed463 — `தன்னைத் தானே` → **`தன்னைத்தானே`**.
+
+Scans461, 463, 466, 468 and 469 require **0 final canonical correction relative to the Pass1 baseline**.
+
+Textual result:
+- scans461–470 — **10/10 verified**
+- cumulative scans451–470 — **20/20 verified**
+- unresolved textual questions — **0**
+- visual fidelity — **20/20 needs-review**
+- scan471 body imported — **0**
+
+## Batch2 re-confirmed source locks
+
+- scan461 / printed454 opens displayed chapter74 **`காக்கையும் குருவியும்!`** / boxed **74** and ends mid-sentence at **`ஆர்வம், ஆவல், உணர்வு`**;
+- scan462 / printed455 resumes **`இவற்றில்`** and closes after the proposal to go first to the Mullaitheevu palace;
+- scan463 / printed456 carries the memorial-stone proposal / inscription and ends at **`வார்த்தைகளைப்`**;
+- scan464 / printed457 resumes **`பார்த்துப் பார்த்து`** and closes after the hoofprint observation;
+- scan465 / printed458 splits the forces, sends Edward toward Mullaitheevu, and ends inside the boast at **`எதிர்க்க ஒரு காக்கை குருவி`**;
+- scan466 / printed459 resumes **`கூட இல்லை!`**, closes chapter74, and preserves the substantial intentional blank lower field;
+- scan467 / printed460 opens displayed chapter75 **`வாழும் வரலாறு!`** / boxed **75** and ends at **`இந்த முல்லைத்தீவின்`**;
+- scan468 / printed461 resumes **`காவலனுமான`** and closes after Kuruvichchi's disbelief;
+- scan469 / printed462 follows Kuruvichchi with Edward and ends with Edward asking **`என்ன?`**;
+- scan470 / printed463 resumes **`என்றான்.`**, carries the Vanderi Berg letter, and ends mid-phrase at **`பண்டாரக`**;
+- no scan471 body was imported in this Pass2A batch.
+
+For scans461–470:
+- textual `status` — **verified**
+- `visual_fidelity` — **needs-review**
+- unresolved textual questions — **0**
+
 ## Exact next activity
 
-Proceed with **Part016 Pass2A Batch2 — global scans461–470 / local pages11–20**.
+Proceed with **Part016 Pass2A Batch3 — global scans471–477 / local pages21–27**.
 
-Re-compare exactly **10 physical source scans** against rendered source pixels for spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state. Preserve source-visible irregular forms without modernization.
+Re-compare exactly **7 physical source scans** against rendered source pixels for spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state. Preserve source-visible irregular forms without modernization.
 
-Do not review scan471 or later in the same Pass2A iteration.
+Do not begin Pass2B in the same iteration.

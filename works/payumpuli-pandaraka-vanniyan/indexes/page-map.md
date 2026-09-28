@@ -466,16 +466,16 @@ Repository scan numbering follows the overall **1–477** sequence and never res
 | 016 | 8 | 458 | 451 | chapter73 continuation; resumes `பார்வையும்`; ambush/tactical strike; ends at `மேலும் மேலும் மூங்கில்` | verified | `pages/0458-thiramaiyai-vendra-thiramai.md` |
 | 016 | 9 | 459 | 452 | chapter73 continuation; English encirclement and Pandarakan speech; ends at `பண்டாரகனின் படை வீரர்கள்` | verified | `pages/0459-thiramaiyai-vendra-thiramai.md` |
 | 016 | 10 | 460 | 453 | chapter73 close; resumes `எண்ணற்றோர் பலியாயினர்.`; next scan461 opens displayed chapter74 | verified | `pages/0460-thiramaiyai-vendra-thiramai.md` |
-| 016 | 11 | 461 | 454 | chapter74 opening `காக்கையும் குருவியும்!`; displayed number74; ends at `ஆர்வம், ஆவல், உணர்வு` | needs-review | `pages/0461-kaakkaiyum-kuruviyum.md` |
-| 016 | 12 | 462 | 455 | chapter74 continuation; resumes `இவற்றில்`; closes after proposal to go first to Mullaitheevu palace | needs-review | `pages/0462-kaakkaiyum-kuruviyum.md` |
-| 016 | 13 | 463 | 456 | chapter74 continuation; memorial-stone proposal/inscription; ends at `வார்த்தைகளைப்` | needs-review | `pages/0463-kaakkaiyum-kuruviyum.md` |
-| 016 | 14 | 464 | 457 | chapter74 continuation; resumes `பார்த்துப் பார்த்து`; memorial celebration and hoofprint discovery | needs-review | `pages/0464-kaakkaiyum-kuruviyum.md` |
-| 016 | 15 | 465 | 458 | chapter74 continuation; Vanderi Berg splits forces; Edward enters Mullaitheevu; ends at `எதிர்க்க ஒரு காக்கை குருவி` | needs-review | `pages/0465-kaakkaiyum-kuruviyum.md` |
-| 016 | 16 | 466 | 459 | chapter74 close; resumes `கூட இல்லை!`; Kuruvichchi appears; substantial intentional blank lower field | needs-review | `pages/0466-kaakkaiyum-kuruviyum.md` |
-| 016 | 17 | 467 | 460 | chapter75 opening `வாழும் வரலாறு!`; displayed number75; ends at `இந்த முல்லைத்தீவின்` | needs-review | `pages/0467-vaazhum-varalaaru.md` |
-| 016 | 18 | 468 | 461 | chapter75 continuation; resumes `காவலனுமான`; Edward's deception; ends after Kuruvichchi's disbelief | needs-review | `pages/0468-vaazhum-varalaaru.md` |
-| 016 | 19 | 469 | 462 | chapter75 continuation; Kuruvichchi follows Edward; ends with Edward asking `என்ன?` | needs-review | `pages/0469-vaazhum-varalaaru.md` |
-| 016 | 20 | 470 | 463 | chapter75 continuation; resumes `என்றான்.`; Vanderi Berg letter; ends mid-phrase at `பண்டாரக` | needs-review | `pages/0470-vaazhum-varalaaru.md` |
+| 016 | 11 | 461 | 454 | chapter74 opening `காக்கையும் குருவியும்!`; displayed number74; ends at `ஆர்வம், ஆவல், உணர்வு` | verified | `pages/0461-kaakkaiyum-kuruviyum.md` |
+| 016 | 12 | 462 | 455 | chapter74 continuation; resumes `இவற்றில்`; closes after proposal to go first to Mullaitheevu palace | verified | `pages/0462-kaakkaiyum-kuruviyum.md` |
+| 016 | 13 | 463 | 456 | chapter74 continuation; memorial-stone proposal/inscription; ends at `வார்த்தைகளைப்` | verified | `pages/0463-kaakkaiyum-kuruviyum.md` |
+| 016 | 14 | 464 | 457 | chapter74 continuation; resumes `பார்த்துப் பார்த்து`; memorial celebration and hoofprint discovery | verified | `pages/0464-kaakkaiyum-kuruviyum.md` |
+| 016 | 15 | 465 | 458 | chapter74 continuation; Vanderi Berg splits forces; Edward enters Mullaitheevu; ends at `எதிர்க்க ஒரு காக்கை குருவி` | verified | `pages/0465-kaakkaiyum-kuruviyum.md` |
+| 016 | 16 | 466 | 459 | chapter74 close; resumes `கூட இல்லை!`; Kuruvichchi appears; substantial intentional blank lower field | verified | `pages/0466-kaakkaiyum-kuruviyum.md` |
+| 016 | 17 | 467 | 460 | chapter75 opening `வாழும் வரலாறு!`; displayed number75; ends at `இந்த முல்லைத்தீவின்` | verified | `pages/0467-vaazhum-varalaaru.md` |
+| 016 | 18 | 468 | 461 | chapter75 continuation; resumes `காவலனுமான`; Edward's deception; ends after Kuruvichchi's disbelief | verified | `pages/0468-vaazhum-varalaaru.md` |
+| 016 | 19 | 469 | 462 | chapter75 continuation; Kuruvichchi follows Edward; ends with Edward asking `என்ன?` | verified | `pages/0469-vaazhum-varalaaru.md` |
+| 016 | 20 | 470 | 463 | chapter75 continuation; resumes `என்றான்.`; Vanderi Berg letter; ends mid-phrase at `பண்டாரக` | verified | `pages/0470-vaazhum-varalaaru.md` |
 | 016 | 21 | 471 | 464 | chapter75 continuation; resumes `வன்னியன்.` after scan470 split; ends at `வாளையும் ஈட்டியையும்` | needs-review | `pages/0471-vaazhum-varalaaru.md` |
 | 016 | 22 | 472 | 465 | chapter75 continuation; resumes `வைத்துக் கொண்டே`; ends at `பண்டாரக வன்னியனின்` | needs-review | `pages/0472-vaazhum-varalaaru.md` |
 | 016 | 23 | 473 | 466 | chapter75 / story close; resumes `கட்டுக்கள் களையப்பட்டன.`; source ending `(முற்றும்)` | needs-review | `pages/0473-vaazhum-varalaaru.md` |
