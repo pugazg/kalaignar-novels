@@ -6,11 +6,11 @@ printed_page: 464
 work: "payumpuli-pandaraka-vanniyan"
 section: "வாழும் வரலாறு!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 scans471–477"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 scans471–477; formal Part016 Pass 2A reviewed"
 ---
 
 # வாழும் வரலாறு!
@@ -29,7 +29,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 s
 
 “உடன்பாடா? இலங்கை மண்ணையும் தமிழ் ஈழத்தையும் அந்நியராம் ஆங்கிலேயர்க்கு அடிமையாக்க ஒரு உடன்பாடா? அதற்கு இந்த உயிர் உள்ளவரையில் என் தலை அசையுமென நீ நம்புகிறாயா?”
 
-குருவிச்சி பேசாமல் நின்றாள். ஏதோ தீர்க்கமாகச் சிந்தித்தாள். பிறகு ஒரு முடிவுக்கு வந்தவளாக வாண்டரி பெர்க்கையும், எட்வர்ட்டையும் பார்த்துச் சொன்னாள்.
+குருவிச்சி பேசாமல் நின்றாள். ஏதோ தீர்க்கமாக சிந்தித்தாள். பிறகு ஒரு முடிவுக்கு வந்தவளாக வாண்டரி பெர்க்கையும், எட்வர்ட்டையும் பார்த்துச் சொன்னாள்.
 
 “அவர் அப்படித்தான் பேசுவார் - ஆனால் நான் அவரை என் வழிக்குக் கொண்டு வர முடியும் - உங்களோடு இதுவரை உடன்பாடு செய்து கொள்ளாவிட்டாலும், இனி ஒரு உடன்பாடு செய்துகொள்ள நான் தயார்! இவரும் என் பேச்சைத் தட்டமாட்டார்!”
 
@@ -45,4 +45,16 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 s
 - source political/national language remains character-attributed and is transcribed without outside normalization
 - Pass1 textual status remains **needs-review** pending Pass2A; visual fidelity remains **needs-review**
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 471; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: 464; PASS 1 TEXT-COMPLETE / textual needs-review / visual needs-review -->
+## Formal Part016 Pass 2A review
+
+- direct textual source-fidelity comparison completed against rendered Part016 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-visible irregular forms were preserved without modernization;
+- source-confirmed correction: `ஏதோ தீர்க்கமாகச் சிந்தித்தாள்.` → **`ஏதோ தீர்க்கமாக சிந்தித்தாள்.`** — source-visible sandhi / spacing correction;
+- source-text corrections in this scan: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 471; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: 464; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->

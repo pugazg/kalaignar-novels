@@ -6,11 +6,11 @@ printed_page: 467
 work: "payumpuli-pandaraka-vanniyan"
 section: "குறிப்பு"
 page_type: "author-note"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 scans471–477"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 scans471–477; formal Part016 Pass 2A reviewed"
 ---
 
 # குறிப்பு
@@ -30,4 +30,16 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 s
 - substantial intentional blank lower field preserved
 - Pass1 textual status remains **needs-review** pending Pass2A; visual fidelity remains **needs-review**
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 474; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 467; PASS 1 TEXT-COMPLETE / textual needs-review / visual needs-review -->
+## Formal Part016 Pass 2A review
+
+- direct textual source-fidelity comparison completed against rendered Part016 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-visible irregular forms were preserved without modernization;
+- source-text corrections in Pass 2A: **0**; canonical body matched the rendered source pixels;
+- source-text corrections in this scan: **0**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 474; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 467; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->
