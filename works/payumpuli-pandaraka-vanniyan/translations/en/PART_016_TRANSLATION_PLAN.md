@@ -1,6 +1,6 @@
 # Part 016 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E85–E90 — 6/6 SOURCE-CHECKED / COMPLETE; WHOLE-PART GLOSSARY RECONCILIATION NEXT**
+Status: **E85–E90 — 6/6 SOURCE-CHECKED / COMPLETE; GLOSSARY RECONCILIATION — RECONCILED / PASS; EDITORIAL REVIEW NEXT**
 
 This is the control plan for the project-created English translation of **Part016 only**.
 
@@ -8,10 +8,11 @@ This is the control plan for the project-created English translation of **Part01
 
 - E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
 - maintained English sections88–93 — **6/6 SOURCE-CHECKED**
-- source-check controls E1–E90 — **contiguous / missing 0**
-- unresolved batch/source-check holds — **0**
-- exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**
-- editorial review — **NOT STARTED**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- glossary-driven English body corrections — **0**
+- unresolved glossary holds — **0**
+- exact next — **Part016 whole-Part English editorial review**
+- bilingual review — **NOT STARTED / BLOCKED UNTIL EDITORIAL REVIEW CLOSES**
 
 Parts001–015 are **FINAL CLOSED / FROZEN**. Their maintained English files and controls are precedent only and must not be edited merely to advance Part016.
 
@@ -247,3 +248,17 @@ Do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**.
 **E85–E90 — 6/6 SOURCE-CHECKED / COMPLETE.**
 
 Exact next gate — **Part016 whole-Part English glossary reconciliation across E85–E90**.
+
+## Whole-Part glossary reconciliation checkpoint
+
+**PART016 WHOLE-PART GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- files checked — **6/6**
+- source-check controls — **E85–E90 / 6/6**
+- literary / printed blocks — **171/171**
+- source-boundary marker parity — **21/21 / PASS**
+- name/place/title conflicts requiring correction — **0**
+- English-body corrections required — **0**
+- unresolved glossary holds — **0**
+- durable record — `PART_016_GLOSSARY_RECONCILIATION.md`
+- exact next — **Part016 whole-Part English editorial review**

@@ -2,18 +2,19 @@
 
 ## Current gate
 
-**PART016 E85–E90 — 6/6 SOURCE-CHECKED / COMPLETE**
+**PART016 WHOLE-PART GLOSSARY RECONCILIATION — RECONCILED / PASS**
 
 ## Current batch closure
 
 - E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
 - maintained English sections88–93 — **6/6 SOURCE-CHECKED**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
 - physical source coverage — **451–477 / 27**
+- literary / printed blocks — **171/171**
 - source-boundary markers — **21/21 / PASS**
-- scan476 invented English body — **0**
-- post-scan477 leakage — **0**
-- unresolved source-check holds — **0**
-- exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**
+- glossary-driven body corrections — **0**
+- unresolved glossary holds — **0**
+- exact next — **Part016 whole-Part English editorial review**
 
 ## Reservation
 
@@ -63,11 +64,9 @@
 
 ## Exact next gate
 
-**E85–E90 — 6/6 SOURCE-CHECKED / COMPLETE.**
+Perform **Part016 whole-Part English editorial review**.
 
-Exact next gate: **Part016 whole-Part English glossary reconciliation across E85–E90**.
-
-Do not begin that gate in this E90 source-check iteration.
+Do not begin bilingual review until editorial review is **PASS / CLOSED**.
 
 ## E85 completion checkpoint
 
@@ -140,3 +139,16 @@ Do not begin that gate in this E90 source-check iteration.
 
 **E85–E90 — 6/6 SOURCE-CHECKED / COMPLETE.**
 Exact next — **Part016 whole-Part English glossary reconciliation**.
+
+## Whole-Part glossary reconciliation checkpoint
+
+- result — **RECONCILED / PASS**
+- maintained English files checked — **6/6**
+- source-check controls checked — **6/6**
+- literary / printed blocks — **171/171**
+- source-boundary parity — **21/21**
+- inconsistent maintained forms requiring correction — **0**
+- external glosses introduced — **0**
+- English-body corrections — **0**
+- unresolved holds — **0**
+- exact next — **Part016 whole-Part English editorial review**

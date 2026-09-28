@@ -1,16 +1,18 @@
 # Part 016 — English Glossary / Source-Sensitive Register
 
-Status: **E85–E90 SOURCE-CHECK COMPLETE / WHOLE-PART RECONCILIATION NEXT**
+Status: **WHOLE-PART GLOSSARY RECONCILIATION — RECONCILED / PASS**
 
 This control began as planning/setup and now carries the completed E85–E90 source-check decisions.
 
 ## Current glossary frontier
 
 - E85–E90 source-check decisions — **COMPLETE**
-- unresolved per-batch glossary holds — **0**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English-body corrections required — **0**
+- unresolved glossary holds — **0**
 - outside normalization introduced — **0**
-- exact next — **whole-Part glossary reconciliation across E85–E90**
-
+- durable reconciliation — `PART_016_GLOSSARY_RECONCILIATION.md`
+- exact next — **Part016 whole-Part English editorial review**
 
 ## Authority rule
 
@@ -159,3 +161,11 @@ Exact next glossary gate: **E90 draft + source-check — section93 / scans475–
 - unresolved E90 glossary holds — **0**
 
 Exact next glossary gate: **whole-Part reconciliation across E85–E90**.
+
+## Whole-Part reconciliation closure
+
+**RECONCILED / PASS — 0 English-body corrections / 0 unresolved holds.**
+
+Reconciled across maintained English sections88–93 and E85–E90. Protected source-facing distinctions and occurrence-sensitive name/honorific forms remain intact. No outside normalization was imported.
+
+Exact next glossary-dependent gate: **Part016 whole-Part English editorial review**.
