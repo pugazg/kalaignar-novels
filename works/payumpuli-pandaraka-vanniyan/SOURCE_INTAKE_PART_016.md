@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**PART016 TAMIL / ASSEMBLY — CLOSED; ENGLISH PLANNING / SETUP — COMPLETE / PASS; E85 NEXT.**
+**PART016 FINAL CLOSURE — PASS / CLOSED / FROZEN; COMPLETE SOURCE FAMILY CLOSED THROUGH SCAN477.**
 
 - local PDF pages: **27**;
 - canonical overall scans: **451–477**;
@@ -48,16 +48,16 @@ The canonical `scan_page` remains the overall scan number **451–477**.
 
 ## Current gate
 
-Part016 Tamil / assembly is **CLOSED**; English E85–E90, glossary reconciliation and editorial review are complete.
+**PART016 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
 
+- Parts001–016 — **FINAL CLOSED / FROZEN**
 - scans — **451–477 / 27**
 - Tamil canonical / visual — **27/27 verified / 27/27 verified**
 - Tamil Assembly + Audit — **COMPLETE / PASS / CLOSED**
-- English E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
-- whole-Part English glossary reconciliation — **RECONCILED / PASS**
-- whole-Part English editorial review — **PASS / CLOSED**
-- editorial English body corrections — **0**
-- unresolved editorial holds — **0**
+- English E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- glossary / editorial / bilingual / release / release-ready sync — **PASS / PASS / PASS / PASS / PASS**
 - complete-source endpoint — **scan477**
-- exact next — **Part016 whole-Part bilingual review**
-- release / final closure — **BLOCKED**
+- source family — **TVA_BOK_0065744 / 477 scans / 16 Parts / CLOSED**
+- unresolved blockers — **0**
+- next Part in supplied source family — **none**
+- reopening — **source-backed defect or separately authorized post-closure activity only**

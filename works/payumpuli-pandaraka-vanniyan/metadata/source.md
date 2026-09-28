@@ -77,18 +77,21 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 
 ## Current processing frontier
 
-- Parts001–015 — **FINAL CLOSED / FROZEN**
+- source family — **TVA_BOK_0065744**
+- supplied Parts — **16 / 16**
+- physical source extent — **477 scans**
+- Parts001–016 — **FINAL CLOSED / FROZEN**
 - Part016 source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf`
 - source SHA-256 — `82ca2020407e0996abfa2d3b29a192c56419f3f7da22a5a9d3d5dd5b8f9c3c6c`
-- Part016 scans — **451–477 / 27**
 - canonical Tamil / visual — **27/27 verified / 27/27 verified**
-- Tamil archival-ready / assembly — **PASS / CLOSED**
-- English E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
-- whole-Part English glossary reconciliation — **RECONCILED / PASS**
-- whole-Part English editorial review — **PASS / CLOSED**
-- complete-source endpoint — **scan477 / back cover / publisher-device**
-- unresolved editorial holds — **0**
-- exact next — **Part016 whole-Part bilingual review**
+- Tamil assembled sections88–93 — **6/6 VERIFIED / frozen**
+- English E85–E90 / sections88–93 — **6/6 SOURCE-CHECKED / frozen**
+- English whole-Part review chain — **PASS / CLOSED**
+- release / release-ready sync — **PASS / CLOSED**
+- Part016 final closure — **PASS / CLOSED / FROZEN**
+- complete-source endpoint — **scan477**
+- unresolved blockers — **0**
+- next Part — **none**
 
 ## User-supplied descriptive note
 

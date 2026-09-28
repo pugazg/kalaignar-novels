@@ -1820,3 +1820,19 @@ Bilingual review is **NOT STARTED**.
 - exact next — **Part016 whole-Part bilingual review**
 
 Release/final closure remains **BLOCKED** until bilingual review closes.
+
+
+## Part016 final-closure checkpoint
+
+**PART016 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- maintained English sections88–93 — **6/6 / frozen**
+- glossary / editorial / bilingual / release / release-ready sync — **PASS / PASS / PASS / PASS / PASS**
+- scan476 invented body — **0**
+- scan477 publisher-device — **verbatim / PASS**
+- post-scan477 leakage — **0**
+- unresolved Part016 English blockers — **0**
+- complete source family — **477 scans / 16 Parts / CLOSED**
+- durable closure — `../PART_016_FINAL_CLOSURE.md`
+- next Part — **none**
